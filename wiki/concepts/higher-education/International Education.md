@@ -97,9 +97,9 @@ updated: '2026-05-18'
 
 > [!abstract]
 > 国际教育的核心特征包括：
-> - **跨国流动性**：学生、教师、课程跨越国界流动——国际教育的前提是人的物理移动或制度的跨境移植([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.1]])
-> - **去国家化**（denationalization）：教育机构不再绑定于单一国家的课程、语言和价值体系——[[International Schools|国际学校]]的学生构成从 70% 创始国学生（1960）降至 30%（2005）([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.24]])
-> - **市场化**：国际教育日益成为由需求和支付能力驱动的产业——香港国际学校年费 US$10,000–20,000([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.26]])
+> - **跨国流动性** 学生、教师、课程跨越国界流动——国际教育的前提是人的物理移动或制度的跨境移植([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.1]])
+> - **去国家化（denationalization）** 教育机构不再绑定于单一国家的课程、语言和价值体系——[[International Schools|国际学校]]的学生构成从 70% 创始国学生（1960）降至 30%（2005）([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.24]])
+> - **市场化** 国际教育日益成为由需求和支付能力驱动的产业——香港国际学校年费 US$10,000–20,000([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.26]])
 > - **[[Knowledge-Based Economy|知识经济]]关联**：教育被视为国家在知识经济中竞争的关键生产要素([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.1, 8]])
 
 ---
@@ -107,9 +107,9 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - **"国际教育"可能是"西化"的别名**：Slethaug 本人指出，[[International Baccalaureate|IB]] 课程声称意识形态中立，但其"多角度思考"和"开放心态"实际上预设了西方的教学方法（Drake, 2004，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.28–29]]）。同样，[[Chinese Learner|中国学习者]]在教学中的道德发展维度——在中国课堂中教"做人"和教"知识"本为一体——在西方框架中常被完全忽略（Li, 2009，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.25–26]]）
-> - **师资培训完全跟不上规模**：全球仅极少数大学设有国际教育专业项目，远不足以服务 200 万+ 学生、3,000+ 所学校的产业规模——大多数[[International Schools|国际学校]]教师未受过专门国际教育训练，旧的刻板印象因而得以延续([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.32–33]])
-> - **本地公立系统可能受损**：[[English Schools Foundation Hong Kong|ESF]] 等国际学校扩张吸纳本地优秀学生，掏空本已因出生率下降而面临压力的公立学校系统([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.5]])
+> - **"国际教育"可能是"西化"的别名** Slethaug 本人指出，[[International Baccalaureate|IB]] 课程声称意识形态中立，但其"多角度思考"和"开放心态"实际上预设了西方的教学方法（Drake, 2004，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.28–29]]）。同样，[[Chinese Learner|中国学习者]]在教学中的道德发展维度——在中国课堂中教"做人"和教"知识"本为一体——在西方框架中常被完全忽略（Li, 2009，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.25–26]]）
+> - **师资培训完全跟不上规模** 全球仅极少数大学设有国际教育专业项目，远不足以服务 200 万+ 学生、3,000+ 所学校的产业规模——大多数[[International Schools|国际学校]]教师未受过专门国际教育训练，旧的刻板印象因而得以延续([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.32–33]])
+> - **本地公立系统可能受损**[[English Schools Foundation Hong Kong|ESF]] 等国际学校扩张吸纳本地优秀学生，掏空本已因出生率下降而面临压力的公立学校系统([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.5]])
 > - **数据[[Reliability|可靠性]]存疑**：不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.17–18]])
 
 ---

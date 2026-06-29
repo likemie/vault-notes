@@ -75,10 +75,10 @@ updated: '2026-06-06'
 ## 核心要素
 
 > [!abstract]
-> - **同时性崩溃与重构**：国家机器、社会分层体系与政治愿景三重转型同时发生，而非依次展开(Cowen, 2000, p.338; [[Argument_Amos_2022_Springer|Amos, 2022, p.53]])。
-> - **教育的象征性角色**：教育不仅是转型的受影响者，更是摧毁过去、重新定义未来的核心机制。在每一个 transitological 案例中，教育都被有意纳入了转型过程([[Argument_Cowen_2009_CE|Cowen, 2009, p.320]])。
-> - **时间压缩**：转型具有时间压缩的特征，主要国家机器和社会分层体系在大约十年内同时崩溃和重建([[Argument_Cowen_2009_CE|Cowen, 2009, p.320]])。
-> - **过去-现在-未来的交织**：过去、现在和未来比严格线性更为交织。Amos 以 Günther Grass 的文学原则 [[Vergegenkunft]]（Vergangenheit/Gegenwart/Zukunft 的合成词）来说明这种纠缠([[Argument_Amos_2022_Springer|Amos, 2022, p.56]])。
+> - **同时性崩溃与重构** 国家机器、社会分层体系与政治愿景三重转型同时发生，而非依次展开(Cowen, 2000, p.338; [[Argument_Amos_2022_Springer|Amos, 2022, p.53]])。
+> - **教育的象征性角色** 教育不仅是转型的受影响者，更是摧毁过去、重新定义未来的核心机制。在每一个 transitological 案例中，教育都被有意纳入了转型过程([[Argument_Cowen_2009_CE|Cowen, 2009, p.320]])。
+> - **时间压缩** 转型具有时间压缩的特征，主要国家机器和社会分层体系在大约十年内同时崩溃和重建([[Argument_Cowen_2009_CE|Cowen, 2009, p.320]])。
+> - **过去-现在-未来的交织** 过去、现在和未来比严格线性更为交织。Amos 以 Günther Grass 的文学原则 [[Vergegenkunft]]（Vergangenheit/Gegenwart/Zukunft 的合成词）来说明这种纠缠([[Argument_Amos_2022_Springer|Amos, 2022, p.56]])。
 
 ---
 
@@ -87,8 +87,8 @@ updated: '2026-06-06'
 > [!tip]-
 > **双轴模型**。Cowen (1996) 以两个相交轴可视化教育从现代到晚期现代的结构性转型。
 >
-> - **现代模型**：纵轴为 polis-driven（城邦驱动），上端为教育机会平等、下端为国家文化认同；水平轴为[[International Education|国际教育]]关系与经济增长（Cowen, 1996, pp.160–162，引自 [[Argument_Amos_2022_Springer|Amos, 2022, p.55]]）。
-> - **晚期现代模型**：纵轴转为 market-driven（市场驱动），教育机会平等被内部效率与外部效能取代、国家文化认同被劳动力分化取代；水平轴转为国际经济与国际知识竞争（Cowen, 1996, pp.160–162，引自 [[Argument_Amos_2022_Springer|Amos, 2022, p.55]]）。
+> - **现代模型** 纵轴为 polis-driven（城邦驱动），上端为教育机会平等、下端为国家文化认同；水平轴为[[International Education|国际教育]]关系与经济增长（Cowen, 1996, pp.160–162，引自 [[Argument_Amos_2022_Springer|Amos, 2022, p.55]]）。
+> - **晚期现代模型** 纵轴转为 market-driven（市场驱动），教育机会平等被内部效率与外部效能取代、国家文化认同被劳动力分化取代；水平轴转为国际经济与国际知识竞争（Cowen, 1996, pp.160–162，引自 [[Argument_Amos_2022_Springer|Amos, 2022, p.55]]）。
 
 ---
 

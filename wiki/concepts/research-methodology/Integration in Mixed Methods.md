@@ -57,9 +57,9 @@ updated: 2026-06-02
 > [!abstract]
 > 整合包含三个相互关联的维度([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.233–234]])：
 >
-> 1. **整合的意图（Intent of Integration）**：为何要组合两类数据——是为了比较（compare）、解释（explain）、构建（build）还是增强（augment）？
-> 2. **整合的程序（Procedures of Integration）**：通过何种操作来实施组合——是合并（merging）、连接（connecting）还是嵌入（embedding）？
-> 3. **整合的分析（Analysis of Integration）**：如何检视组合的效果——通常通过[[Joint Display|联合展示]]将两类数据并排呈现，然后从中提取[[Metainferences|元推论]]。
+> 1. **整合的意图（Intent of Integration）** 为何要组合两类数据——是为了比较（compare）、解释（explain）、构建（build）还是增强（augment）？
+> 2. **整合的程序（Procedures of Integration）** 通过何种操作来实施组合——是合并（merging）、连接（connecting）还是嵌入（embedding）？
+> 3. **整合的分析（Analysis of Integration）** 如何检视组合的效果——通常通过[[Joint Display|联合展示]]将两类数据并排呈现，然后从中提取[[Metainferences|元推论]]。
 >
 > 整合的意图和程序在不同设计类型中的对应关系：
 >
@@ -85,7 +85,7 @@ updated: 2026-06-02
 >    - [[Data Transformation|数据转换]]（data transformation）：将质性主题转化为量化[[Variable|变量]]后合并分析
 >    - [[Joint Display|联合展示]]（joint display）：在表格或图表中合并呈现两组数据
 >
-> **序列设计的整合分析**：在分别分析两个阶段的数据后，通过联合展示将前一阶段的结果与后一阶段的数据并排，从左到右（或从前到后）追踪设计程序中的连接关系。
+> **序列设计的整合分析** 在分别分析两个阶段的数据后，通过联合展示将前一阶段的结果与后一阶段的数据并排，从左到右（或从前到后）追踪设计程序中的连接关系。
 >
 > 整合分析的最终产出是[[Metainferences|元推论]]——从比较或连接两组数据库的分析中得出的整合性洞察。
 

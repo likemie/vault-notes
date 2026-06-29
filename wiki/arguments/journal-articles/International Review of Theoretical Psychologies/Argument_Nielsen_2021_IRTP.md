@@ -111,29 +111,29 @@ citation_aliases:
 >
 > ### 4. 合法化危机与 VL 的功能
 >
-> **背景**：[[PISA]] 冲击后，各国教育系统面临严重的**合法化危机**——传统共识导向的理性（tradition- and consensus-bound rationality）无法为现代学校提供充分合法性。丹麦前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"。
+> **背景**[[PISA]] 冲击后，各国教育系统面临严重的**合法化危机**——传统共识导向的理性（tradition- and consensus-bound rationality）无法为现代学校提供充分合法性。丹麦前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"。
 >
 > **[[Jürgen Habermas|Habermas]] 的[[Analytic Framework|分析框架]]**(pp. 83-86)：
 >
-> - **系统（system）vs. 生活世界（lifeworld）**：学校处于两者的"再生产十字路口"(Borman, 2011, p. 7)
+> - **系统（system）vs. 生活世界（lifeworld）** 学校处于两者的"再生产十字路口"(Borman, 2011, p. 7)
 > - 传统现代社会中，学校课程与日常生活的价值观和权威体系紧密相连，参与者容易认同
 > - 晚期现代社会中，国家机构逐渐从传统的共识理性转向**[[Value Neutrality|价值中立]]的工具理性**进行治理——这为合法化危机打开了大门
 > - 危机的核心：国家机构必须同时服务于两个利益对立的"主人"——市场的特殊利益和公民的公共利益
-> - **生活世界的殖民化（colonization of the lifeworld）**：行政系统不断提取生活世界的价值来为面向市场的策略性干预辩护，系统性削弱公民参与的共同价值
+> - **生活世界的殖民化（colonization of the lifeworld）** 行政系统不断提取生活世界的价值来为面向市场的策略性干预辩护，系统性削弱公民参与的共同价值
 >
-> **Hattie 的解决方案**(pp. 86-88)：
+> **Hattie 的解决方案(pp. 86-88)**
 > - VL 提供了一个"统一的教学理论"，回答了"人们为什么需要学校？"——因为学校是"将知识从教师传递给学生的最有效机构"，前提是遵循 Hattie 的建议
 > - Hattie 将教学分解为易于获取的技术性、碎片化的输入-输出干预，可被等级化、控制和测量——这正是优化教育系统效率所需的
-> - **关键洞察**：不是 Hattie 的科学发现或原始数据产生了影响，而是**嵌入技术理性理论中的承诺**（promises）——承诺稳定的学习成果——使教育系统获得了合法性
+> - **关键洞察** 不是 Hattie 的科学发现或原始数据产生了影响，而是**嵌入技术理性理论中的承诺（promises）**——承诺稳定的学习成果——使教育系统获得了合法性
 >
 > ### 5. 代价：学生意向性与意义的边缘化
 >
 > 作者识别了技术理性框架的根本代价(pp. 88-89)：
 >
-> - **无学生/教师意向性概念**：Hattie 的作品中不存在将学生或教师理解为"寻求意义的"或"解释性的"存在——"The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable|variables]]"(p. 88)
-> - **学生被理解为需要被影响的对象**：虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——只机械地对反馈做出反应
-> - **学习目标不容讨论**：Hattie 的理论是一个**封闭系统**——"the learning objective sanctifies the means of teaching"(p. 88-89)。教育问题被理解为技术性目标-手段理性范畴内的问题，其他类型的问题被认为无关
-> - **反馈取代对话**：人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
+> - **无学生/教师意向性概念** Hattie 的作品中不存在将学生或教师理解为"寻求意义的"或"解释性的"存在——"The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable|variables]]"(p. 88)
+> - **学生被理解为需要被影响的对象** 虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——只机械地对反馈做出反应
+> - **学习目标不容讨论** Hattie 的理论是一个**封闭系统**——"the learning objective sanctifies the means of teaching"(p. 88-89)。教育问题被理解为技术性目标-手段理性范畴内的问题，其他类型的问题被认为无关
+> - **反馈取代对话** 人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
 >
 > > “在 Hattie 的可见的学习理论中，教师必须利用反馈（向后反馈、向上反馈和向前反馈），创造一个环境，在其中学生……将学生的活动引向已经制定好的学习目标。这是一个封闭的系统，其中学习目标使教学手段变得神圣化。”
 > ("In Hattie's theory of [[Visible Learning]], the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students... direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching.") (pp. 88-89)
@@ -146,8 +146,8 @@ citation_aliases:
 > [!success] 主要发现
 > - **[[Visible Learning|VL]] 的流行是合法化危机的症状，而非教育科学进步的标志**(pp. 86-88)
 > - **Hattie 的理论（[[Technical Rationality|技术理性]]）而非数据驱动了 VL 的影响力**——政策制定者需要的是一个可用来向公众证明教育系统在"有效运作"的理论框架(p. 87)
-> - **VL 的技术理性框架系统性边缘化了学生和教师的意向性与意义寻求**：学生被原子化为[[Variable|变量]]，学习目标不容讨论(pp. 88-89)
-> - **改进教学的出发点不应该是"什么方法有效"，而应该是"学生为什么参与学校实践"**(p. 89)
+> - **VL 的技术理性框架系统性边缘化了学生和教师的意向性与意义寻求** 学生被原子化为[[Variable|变量]]，学习目标不容讨论(pp. 88-89)
+> - **改进教学的出发点不应该是"什么方法有效"，而应该是"学生为什么参与学校实践"(p. 89)**
 
 ## 关键引用
 

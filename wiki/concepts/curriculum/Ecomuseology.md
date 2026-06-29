@@ -46,7 +46,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> Ecomuseology（生态博物馆学）是博物馆学中一个以**地域**（territory）为核心概念的分支。其核心主张是：博物馆的边界不应由建筑墙体定义，而应由社区与自然环境、文化遗产和地域认同的**关系**来定义。生态博物馆（ecomuseum）是生态博物馆学的实践载体——一个以社区为主导、以地域为框架、以保护和阐释自然与文化遗产为目标的参与式机构（Chagas, 2001; Moutinho, 2007, cited in [[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]]）。
+> Ecomuseology（生态博物馆学）是博物馆学中一个以**地域（territory）**为核心概念的分支。其核心主张是：博物馆的边界不应由建筑墙体定义，而应由社区与自然环境、文化遗产和地域认同的**关系**来定义。生态博物馆（ecomuseum）是生态博物馆学的实践载体——一个以社区为主导、以地域为框架、以保护和阐释自然与文化遗产为目标的参与式机构（Chagas, 2001; Moutinho, 2007, cited in [[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]]）。
 
 > 生态博物馆概念的国际先驱可追溯至 1970 年代法国——Georges Henri Rivière 和 Hugues de Varine 提出"écomusée"概念，强调博物馆应反映人与环境的关系而非仅仅是藏品的集合。在巴西，这一概念与本地知识传统深度融合，发展出以贫民窟、原住民社区和非裔巴西人社区为主导的独特实践形态([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Chagas, 2001]])。
 
@@ -55,8 +55,8 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs **[[Social Museology]]**（社会博物馆学）：共享"社区居民作为主角"的核心原则，但焦点不同——生态博物馆学聚焦**地域**（territory），社会博物馆学聚焦**社区**（community）。生态博物馆学更强调空间和生态维度，社会博物馆学更强调社会动员和制度变革维度。详见 [[Social Museology#概念辨析]]
-> - vs **传统博物馆（Traditional Museum）**：传统博物馆以建筑和藏品为中心，由专家策展，观众被动观看。生态博物馆以地域和社区为中心，由居民策展——二者在"什么是博物馆"的[[Ontology|本体论]]问题上根本对立
+> - vs **[[Social Museology]]**（社会博物馆学）：共享"社区居民作为主角"的核心原则，但焦点不同——生态博物馆学聚焦**地域（territory）**，社会博物馆学聚焦**社区（community）**。生态博物馆学更强调空间和生态维度，社会博物馆学更强调社会动员和制度变革维度。详见 [[Social Museology#概念辨析]]
+> - vs **传统博物馆（Traditional Museum）** 传统博物馆以建筑和藏品为中心，由专家策展，观众被动观看。生态博物馆以地域和社区为中心，由居民策展——二者在"什么是博物馆"的[[Ontology|本体论]]问题上根本对立
 
 ## 概念演变
 
@@ -68,10 +68,10 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract]
-> - **地域作为博物馆**（territory as museum）：博物馆的"馆"不是建筑，而是整个地理区域——包括自然景观、生态系统、历史遗迹、文化遗产和居民生活。保护对象从"藏品"转为"地域"本身([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Chagas, 2001]])
-> - **社区主导**（community-led）：与 [[Social Museology]] 共享的原则——居民自己决定什么值得保存、如何保存、如何展示。在巴西，生态博物馆通常由贫民窟居民、原住民社区或非裔巴西人社区主导([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
+> - **地域作为博物馆（territory as museum）** 博物馆的"馆"不是建筑，而是整个地理区域——包括自然景观、生态系统、历史遗迹、文化遗产和居民生活。保护对象从"藏品"转为"地域"本身([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Chagas, 2001]])
+> - **社区主导（community-led）** 与 [[Social Museology]] 共享的原则——居民自己决定什么值得保存、如何保存、如何展示。在巴西，生态博物馆通常由贫民窟居民、原住民社区或非裔巴西人社区主导([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 > - **口述性作为[[Knowledge Production|知识生产]]方式**：生态博物馆学承认口述传统与书写传统具有同等的知识地位。口述性是非洲和拉丁美洲知识生产与智慧传播的核心方式，生态博物馆为口述知识提供了制度化的保存和展示空间([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
-> - **抵抗记忆抹除**：巴西生态博物馆实践的动力之一是抵抗霸权系统对地方历史、原住民知识和非裔巴西人文化的系统性抹除——这是一种 [[Epistemology of Resistance|抵抗认识论]] 在文化遗产领域的具体体现([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
+> - **抵抗记忆抹除** 巴西生态博物馆实践的动力之一是抵抗霸权系统对地方历史、原住民知识和非裔巴西人文化的系统性抹除——这是一种 [[Epistemology of Resistance|抵抗认识论]] 在文化遗产领域的具体体现([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 
 ## 理论基础
 

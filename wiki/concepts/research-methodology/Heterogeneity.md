@@ -92,8 +92,8 @@ updated: '2026-06-20'
 ## 核心要素
 
 > [!feature] 核心要素
-> - **异质性检测与量化**：通过 Q 检验判断研究间变异是否超出随机误差；通过 $I^2$ 统计量描述异质性占总观测变异的比例。此外，[[Forest Plot|森林图]]是直观展示变异性的重要可视化工具。
-> - **统计模型选择**：[[Fixed-Effect and Random-Effects Models|固定效应模型]][[Hypothesis|假设]]所有研究估计同一个真实[[Effect Size|效应量]]，观测差异仅来自[[Sampling Error|抽样误差]]；随机效应模型则承认每项研究有其随机变异，同时考虑研究内和研究间变异([[Argument_Higgins_2016_RE|Higgins, 2016, p. 39]])。
+> - **异质性检测与量化** 通过 Q 检验判断研究间变异是否超出随机误差；通过 $I^2$ 统计量描述异质性占总观测变异的比例。此外，[[Forest Plot|森林图]]是直观展示变异性的重要可视化工具。
+> - **统计模型选择**[[Fixed-Effect and Random-Effects Models|固定效应模型]][[Hypothesis|假设]]所有研究估计同一个真实[[Effect Size|效应量]]，观测差异仅来自[[Sampling Error|抽样误差]]；随机效应模型则承认每项研究有其随机变异，同时考虑研究内和研究间变异([[Argument_Higgins_2016_RE|Higgins, 2016, p. 39]])。
 > - **调节[[Variable|变量]]探索**：通过调节[[Variable|变量]]分析（[[Moderator Analysis]]）识别与较大或较小效应相关的特征（如学生年龄、干预时长等），使研究从“有没有效”转向“对谁、在什么情境下有效”([[Argument_Higgins_2016_RE|Higgins, 2016, p. 32]])。
 
 ---
@@ -120,19 +120,19 @@ updated: '2026-06-20'
 > 当研究者在缺乏因果理论支撑的情况下，强行合并性质迥异的研究以计算单一平均效应时，异质性在多级聚合中被系统性清洗，导致结论空洞化并引发错误的政策决策。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 9–10]])
 > 
 > [!implication]- 命题后果
-> - **解释后果**：当详细的项目评估报告被逐级简化为一个效应量数字时，所有解释该项目为什么成功的因果情境信息（如一对一辅导、地位提升等）都被消除，导致研究只看到相关性而看不到机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 122]])。
-> - **政策后果**：这种去情境化的扁平化排名（如《教学与学习工具包》）极易误导学校决策。例如，将教学助理（TA）类目贴上“低影响、高成本”的标签，直接遮蔽了“TA 因为缺乏与教师沟通的备课时间而被结构性使用不当”的底层异质性情境，从而可能为政府在预算缩减时作出裁减 TA 的错误决定提供依据([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])。
+> - **解释后果** 当详细的项目评估报告被逐级简化为一个效应量数字时，所有解释该项目为什么成功的因果情境信息（如一对一辅导、地位提升等）都被消除，导致研究只看到相关性而看不到机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 122]])。
+> - **政策后果** 这种去情境化的扁平化排名（如《教学与学习工具包》）极易误导学校决策。例如，将教学助理（TA）类目贴上“低影响、高成本”的标签，直接遮蔽了“TA 因为缺乏与教师沟通的备课时间而被结构性使用不当”的底层异质性情境，从而可能为政府在预算缩减时作出裁减 TA 的错误决定提供依据([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])。
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1904 — 起源阶段**：[[Karl Pearson]] 在跨研究合并分析中首次同时关注“合并数据能否给出可靠答案”以及“效果变异（即异质性）的原因”这两个基本维度([[Argument_Higgins_2016_RE|Higgins, 2016, p. 33]])。
+> - **1904 — 起源阶段**[[Karl Pearson]] 在跨研究合并分析中首次同时关注“合并数据能否给出可靠答案”以及“效果变异（即异质性）的原因”这两个基本维度([[Argument_Higgins_2016_RE|Higgins, 2016, p. 33]])。
 > - **1970s–1980s — [[Meta-analysis|元分析]]倡导**：[[Gene Glass]] 创立“元分析”概念，并明确警告：元分析 the 最终结果“绝对不应该是一个平均数，而应该是一张显示变异性（异质性）的图表”([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
-> - **1995 — 方法论解构与批评**：医学统计学家 Alvan Feinstein (1995) 批评元分析是“21世纪的统计炼金术”，指出它将不同病理状态的研究强行合流，从而将重要的异质性埋入统计泥浆之中([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
-> - **2002 — 教育研究的测量批评**：Robert Coe (2002) 警告，在测量工具、干预实施强度和目标人群大相径庭 of 教育研究中，将这些[[Effect Size|效应量]]进行平均在数学上是完全没有意义的([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
-> - **2010s — 多级聚合失真与实在论转向**：Ray Pawson (2006) 和 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 解构了从第一级 [[Randomised Controlled Trials|RCT]] 到第二级元分析再到第三级[[Meta-meta-analysis|元-元分析]]（如[[John Hattie|哈蒂]]的《[[Visible Learning|可见的学习]]》（Visible Learning，VL） and [[Education Endowment Foundation|EEF]] 工具包）的逐级消洗过程，指出“洗涤”使得[[Causality|因果]]解释性信息完全消失，主张转向探求“背景-机制-结果”的实在论综合([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])。
+> - **1995 — 方法论解构与批评**医学统计学家 Alvan Feinstein (1995) 批评元分析是“21世纪的统计炼金术”，指出它将不同病理状态的研究强行合流，从而将重要的异质性埋入统计泥浆之中([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
+> - **2002 — 教育研究的测量批评**Robert Coe (2002) 警告，在测量工具、干预实施强度和目标人群大相径庭 of 教育研究中，将这些[[Effect Size|效应量]]进行平均在数学上是完全没有意义的([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
+> - **2010s — 多级聚合失真与实在论转向**Ray Pawson (2006) 和 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 解构了从第一级 [[Randomised Controlled Trials|RCT]] 到第二级元分析再到第三级[[Meta-meta-analysis|元-元分析]]（如[[John Hattie|哈蒂]]的《[[Visible Learning|可见的学习]]》（Visible Learning，VL） and [[Education Endowment Foundation|EEF]] 工具包）的逐级消洗过程，指出“洗涤”使得[[Causality|因果]]解释性信息完全消失，主张转向探求“背景-机制-结果”的实在论综合([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])。
 
 ---
 

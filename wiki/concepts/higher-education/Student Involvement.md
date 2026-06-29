@@ -67,9 +67,9 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]-
-> - **1984 提出**：Astin 在 *Journal of College Student Personnel* 发表"Student Involvement: A Developmental Theory for Higher Education"，系统提出学生涉入理论及五条公理（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984）
-> - **1991 Kuh 发展**：Kuh 在 Astin 基础上发展[[Student Engagement|学生投入]]理论，将涉入概念进一步[[Operationalization|操作化]]为可观察的行为指标，并强调学校的制度性支持角色（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
-> - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将 Astin 涉入理论作为"大学过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **1984 提出** Astin 在 *Journal of College Student Personnel* 发表"Student Involvement: A Developmental Theory for Higher Education"，系统提出学生涉入理论及五条公理（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984）
+> - **1991 Kuh 发展** Kuh 在 Astin 基础上发展[[Student Engagement|学生投入]]理论，将涉入概念进一步[[Operationalization|操作化]]为可观察的行为指标，并强调学校的制度性支持角色（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
+> - **2023 中国教育研究应用**[[Yajun Zheng|郑雅君]]将 Astin 涉入理论作为"大学过程"三层嵌套框架中"投入过程"的理论基础之一，与 Kuh 的[[Student Engagement]]和 Tinto 的[[Academic and Social Integration]]并列使用([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -77,11 +77,11 @@ updated: '2026-05-18'
 
 > [!abstract]
 > Astin（1984）提出五条涉入公理（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984, 1993）：
-> 1. **涉入意味着对不同对象的能量投入**：学生将心理和生理能量投入到不同对象上——课程学习、课外活动、人际交往等
-> 2. **涉入是一个连续统**：涉入程度随时间和投入对象的变化而变化，不同学生在同一活动上的涉入深浅各不相同
-> 3. **涉入兼具量与质的特征**：既可测量涉入的时间长度（量化），也可评估涉入的专注和投入程度（质性）
-> 4. **学习和发展成果与涉入质量成正比**：学生从教育活动中获得的学习和个人发展，直接取决于其在该活动中涉入的数量和质量
-> 5. **教育实践的有效性取决于其激发涉入的能力**：任何教育政策或实践的有效性，都可以通过其能够激发学生涉入的程度来衡量
+> 1. **涉入意味着对不同对象的能量投入** 学生将心理和生理能量投入到不同对象上——课程学习、课外活动、人际交往等
+> 2. **涉入是一个连续统** 涉入程度随时间和投入对象的变化而变化，不同学生在同一活动上的涉入深浅各不相同
+> 3. **涉入兼具量与质的特征** 既可测量涉入的时间长度（量化），也可评估涉入的专注和投入程度（质性）
+> 4. **学习和发展成果与涉入质量成正比** 学生从教育活动中获得的学习和个人发展，直接取决于其在该活动中涉入的数量和质量
+> 5. **教育实践的有效性取决于其激发涉入的能力** 任何教育政策或实践的有效性，都可以通过其能够激发学生涉入的程度来衡量
 
 ---
 

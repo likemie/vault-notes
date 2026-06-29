@@ -63,10 +63,10 @@ citation_aliases:
 > [!abstract] 理论框架
 > 采用 Slavin et al. (2020) 的[[Evidence-Based Reform|证据本位改革]]四项核心活动框架组织全刊文章(p.2)：
 >
-> 1. **创建持续增加知识和有效实践的政策与系统**（policies and systems）
-> 2. **通过高质量实验发现什么有效**（finding out what works）
-> 3. **使教育者和政策制定者知晓经过验证的方案**（making educators and policymakers aware）
-> 4. **为学校实施经过验证的方案提供激励与资源**（providing incentives and resources）
+> 1. **创建持续增加知识和有效实践的政策与系统（policies and systems）**
+> 2. **通过高质量实验发现什么有效（finding out what works）**
+> 3. **使教育者和政策制定者知晓经过验证的方案（making educators and policymakers aware）**
+> 4. **为学校实施经过验证的方案提供激励与资源（providing incentives and resources）**
 
 ## 研究方法
 
@@ -78,10 +78,10 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提**：长期以来，教育政策基于意识形态立场或个人观点而非证据(p.1)
-> 2. **类比论证**：医学领域在 COVID-19 疫情中依赖大规模、高质量的[[Randomised Controlled Trials|随机对照试验]]评估治疗方案和疫苗，教育领域应同等对待证据(p.1)
-> 3. **框架组织**：将特刊八篇文章按 Slavin et al. (2020) 的四项核心活动分类呈现，展示[[Evidence-Based Reform|证据本位改革]]在全球的进展(p.2)
-> 4. **结论**：证据本位改革在过去二十年已在全球许多地区获得动力，特刊呈现了过去、现在和未来的全景图(p.2–3)
+> 1. **前提** 长期以来，教育政策基于意识形态立场或个人观点而非证据(p.1)
+> 2. **类比论证** 医学领域在 COVID-19 疫情中依赖大规模、高质量的[[Randomised Controlled Trials|随机对照试验]]评估治疗方案和疫苗，教育领域应同等对待证据(p.1)
+> 3. **框架组织**将特刊八篇文章按 Slavin et al. (2020) 的四项核心活动分类呈现，展示[[Evidence-Based Reform|证据本位改革]]在全球的进展(p.2)
+> 4. **结论** 证据本位改革在过去二十年已在全球许多地区获得动力，特刊呈现了过去、现在和未来的全景图(p.2–3)
 
 ## 主要发现
 

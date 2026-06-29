@@ -58,7 +58,7 @@ updated: 2026-06-18
 ## 定义
 
 > [!def] 核心定义
-> 因果性（causality）指原因导致效果的关系。在[[Quantitative Research|量化研究]]中，因果性不仅意味着[[Variable|变量]]间的关联，还要求同时满足三个要件：变量间存在关系的证据；原因在时间上先于结果；排除合理的替代解释（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]]）。在更广泛的教育研究语境中，因果性通常不可直接观察而只能推断——社会科学中几乎不可能发现绝对确定的因果性。因果性应当被区分为两种刻画方式：**决定论因果性**（deterministic causation）——X 必然导致 Y；**[[Probabilistic Causation|概率因果性]]**（probabilistic causation）——X 提高 Y 发生的可能性而非保证 Y 发生。教育研究中更恰切的是后者（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 54, 58–59]]）。
+> 因果性（causality）指原因导致效果的关系。在[[Quantitative Research|量化研究]]中，因果性不仅意味着[[Variable|变量]]间的关联，还要求同时满足三个要件：变量间存在关系的证据；原因在时间上先于结果；排除合理的替代解释（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]]）。在更广泛的教育研究语境中，因果性通常不可直接观察而只能推断——社会科学中几乎不可能发现绝对确定的因果性。因果性应当被区分为两种刻画方式：**决定论因果性（deterministic causation）**——X 必然导致 Y；**[[Probabilistic Causation|概率因果性]]**（probabilistic causation）——X 提高 Y 发生的可能性而非保证 Y 发生。教育研究中更恰切的是后者（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 54, 58–59]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 因果性是变量、事件或过程之间"引起-被引起"的关系，涉及原因如何产生效果以及效果由什么原因导致。
@@ -75,10 +75,10 @@ updated: 2026-06-18
 > [!contrast-table] 因果性 vs 解释 vs 预测 vs 相关
 > | 概念 | 与因果性的区别 | 典型例示 |
 > |------|---------------|---------|
-> | **解释**（explanation） | 解释可能是错误的、说明含义的或指示操作方法的（Salmon, 1998: 5–8） | 以生病为由请假，实际原因可能是偷懒或逛街 |
-> | **预测**（prediction） | 观察到一次不等于能预测再次发生（归纳问题）；预测正确可能基于错误的因果识别 | 气压计读数下降预测暴风雨，但气压计不导致暴风雨 |
-> | **相关**（correlation） | 两个[[Variable\|变量]]可能被共同原因[[Screening Off\|筛选隔离]]，彼此只有相关无因果 | 手大与脚大由遗传倾向共同驱动 |
-> | **因果性**（causation） | X 对 Y 施加因果影响——X 引起或产生了 Y | 气压下降同时导致气压计读数变化和暴风雨 |
+> | **解释（explanation）** | 解释可能是错误的、说明含义的或指示操作方法的（Salmon, 1998: 5–8） | 以生病为由请假，实际原因可能是偷懒或逛街 |
+> | **预测（prediction）** | 观察到一次不等于能预测再次发生（归纳问题）；预测正确可能基于错误的因果识别 | 气压计读数下降预测暴风雨，但气压计不导致暴风雨 |
+> | **相关（correlation）** | 两个[[Variable\|变量]]可能被共同原因[[Screening Off\|筛选隔离]]，彼此只有相关无因果 | 手大与脚大由遗传倾向共同驱动 |
+> | **因果性（causation）** | X 对 Y 施加因果影响——X 引起或产生了 Y | 气压下降同时导致气压计读数变化和暴风雨 |
 
 > [!example]
 > **关联（association）vs 因果（causation）**。流行病学健康科学研究强调适度每日红酒消费（每天 1–2 杯）与心脏病风险降低 20% 之间存在正关联（Szmitko & Verma, 2005），但这不等同于因果。关联是因果的[[Necessary and Sufficient Conditions|必要条件]]而非充分条件（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.57]]）。
@@ -90,15 +90,15 @@ updated: 2026-06-18
 ### 时间顺序、边界条件与休谟准则
 
 > [!feature] 因果性的结构化前提
-> - **时间顺序**：原因必须在时间上先于效果。休谟（Hume, 2000）将其列为因果准则之一。[[Quantitative Research|量化研究]]者在[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]和视觉模型中按从左到右排列[[Variable|变量]]（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.57]]）。
-> - **边界条件**：确定因果关系需要考虑回溯多远（因果历史起点）和前探多远（效果可能是短期的、延迟的、即时的、累积的或长期的）。Pearl（2009: 420）提出了边界条件（boundary conditions）和限定（circumscription）概念——哪些因素被纳入或排除会影响因果判断，危险在于循环性：只对感兴趣的效果寻找可能的原因，因未考虑替代解释而误判因果（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 64–66]]）。
+> - **时间顺序** 原因必须在时间上先于效果。休谟（Hume, 2000）将其列为因果准则之一。[[Quantitative Research|量化研究]]者在[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]和视觉模型中按从左到右排列[[Variable|变量]]（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.57]]）。
+> - **边界条件** 确定因果关系需要考虑回溯多远（因果历史起点）和前探多远（效果可能是短期的、延迟的、即时的、累积的或长期的）。Pearl（2009: 420）提出了边界条件（boundary conditions）和限定（circumscription）概念——哪些因素被纳入或排除会影响因果判断，危险在于循环性：只对感兴趣的效果寻找可能的原因，因未考虑替代解释而误判因果（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 64–66]]）。
 
 > [!frames-ref] 休谟的因果四准则
 > 休谟（Hume, 2000）提出了决定论因果性的经典框架（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 58]]）：
-> 1. **时空邻近性**（contiguity of space and time）：原因与效果在时空上邻近
-> 2. **优先性/先后顺序**（priority/succession）：原因先于效果
-> 3. **恒定联结**（constant conjunction）：一个事件及其后继事件的配对反复出现
-> 4. **必然联系**（necessary connection）：从经验、习惯和习俗中习得，而非从演绎证明中获得
+> 1. **时空邻近性（contiguity of space and time）** 原因与效果在时空上邻近
+> 2. **优先性/先后顺序（priority/succession）** 原因先于效果
+> 3. **恒定联结（constant conjunction）** 一个事件及其后继事件的配对反复出现
+> 4. **必然联系（necessary connection）** 从经验、习惯和习俗中习得，而非从演绎证明中获得
 
 休谟本人也指出，这些准则中可察觉的实际上是**相关**而非真正的因果性——因果性是由人类归纳推断的，而非客观事实。这构成了[[Probabilistic Causation|概率因果性]]的哲学起点：教育研究中的因果推断更多是推测性的和概率性的，而非绝对的和演绎的。
 
@@ -129,7 +129,7 @@ updated: 2026-06-18
 
 ### 必要条件、充分条件与复合原因
 
-原因的效果依赖于**条件组合**：是[[Necessary and Sufficient Conditions|必要条件]]与充分条件的特定组合产生了效果，而非单个原因。原因可能需要组合在一起才能发挥因果力——**[[Compound Causes|复合原因]]**（compound causes）只有在共同作用时才施加因果力，且原因之间可能存在**交互效应**（interaction effects）。单个原因在语境化情境中可能既不充分也不必要（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
+原因的效果依赖于**条件组合** 是[[Necessary and Sufficient Conditions|必要条件]]与充分条件的特定组合产生了效果，而非单个原因。原因可能需要组合在一起才能发挥因果力——**[[Compound Causes|复合原因]]**（compound causes）只有在共同作用时才施加因果力，且原因之间可能存在**交互效应（interaction effects）**。单个原因在语境化情境中可能既不充分也不必要（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
 
 ---
 
@@ -203,9 +203,9 @@ updated: 2026-06-18
 ## 争议与批评
 
 > [!tension] 核心争议
-> - **决定论 vs 概率论**：教育研究中绝对确定的因果性几乎不可能被发现——[[Probabilistic Causation|概率因果性]]是更恰切的刻画方式。但接受概率因果性意味着研究结论永远带有不确定性。
-> - **量化 vs 质性路径**：量化方法（实验、回归、结构方程）能识别[[Variable|变量]]关联和规律性，但不能揭示因果如何运作（how）；质性方法能揭示[[Causal Processes|因果过程]]，但难以建立可推广的因果结论。[[Mixed Methods Research|混合方法]]被主张为综合路径。
-> - **线性 vs 非线性因果**：许多因果模型预设线性关系，但因果效果可能是非线性的——小原因可能产生大效果、无效果或不规则效果。因果网络和因果条件比因果线或因果事件链更恰切。
+> - **决定论 vs 概率论** 教育研究中绝对确定的因果性几乎不可能被发现——[[Probabilistic Causation|概率因果性]]是更恰切的刻画方式。但接受概率因果性意味着研究结论永远带有不确定性。
+> - **量化 vs 质性路径** 量化方法（实验、回归、结构方程）能识别[[Variable|变量]]关联和规律性，但不能揭示因果如何运作（how）；质性方法能揭示[[Causal Processes|因果过程]]，但难以建立可推广的因果结论。[[Mixed Methods Research|混合方法]]被主张为综合路径。
+> - **线性 vs 非线性因果** 许多因果模型预设线性关系，但因果效果可能是非线性的——小原因可能产生大效果、无效果或不规则效果。因果网络和因果条件比因果线或因果事件链更恰切。
 
 ---
 

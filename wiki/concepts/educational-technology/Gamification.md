@@ -49,11 +49,11 @@ updated: 2026-05-20
 ## 核心要素
 
 > [!abstract]
-> - **积分（Points）**：量化用户行为的数字指标，为行为赋予可比较的数值
-> - **徽章（Badges）**：视觉化的成就标记，标示用户达到特定里程碑
-> - **排行榜（Leaderboards）**：用户之间的公开排名，引入竞争机制
+> - **积分（Points）** 量化用户行为的数字指标，为行为赋予可比较的数值
+> - **徽章（Badges）** 视觉化的成就标记，标示用户达到特定里程碑
+> - **排行榜（Leaderboards）** 用户之间的公开排名，引入竞争机制
 > - **反馈循环（[[Feedback]] Loops）**：即时、正面为主的反馈，促使用户持续交互
-> - **等级与挑战（Levels and Challenges）**：递进式难度，维持用户的参与动力（Zichermann & Cunningham, 2011, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.236]]）
+> - **等级与挑战（Levels and Challenges）** 递进式难度，维持用户的参与动力（Zichermann & Cunningham, 2011, cited in [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.236]]）
 
 ## 理论基础
 

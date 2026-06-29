@@ -37,17 +37,17 @@ updated: 2026-05-31
 
 倒三角的视觉结构表达了检索逻辑（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
-- **底部尖端（apex）**：代表计划的学术研究——窄而聚焦，可能确实没有直接研究过
-- **向上拓宽**：从底部向上，逐步拓宽[[Literature Review|文献回顾]]的范围，寻找虽有一定距离但仍相关的研究
-- **逐层扩大**：每一层都比下一层更宽泛，覆盖更广的主题范围
+- **底部尖端（apex）** 代表计划的学术研究——窄而聚焦，可能确实没有直接研究过
+- **向上拓宽** 从底部向上，逐步拓宽[[Literature Review|文献回顾]]的范围，寻找虽有一定距离但仍相关的研究
+- **逐层扩大** 每一层都比下一层更宽泛，覆盖更广的主题范围
 
 ## 实际应用步骤
 
 以"小学阶段的风险儿童（at-risk children in primary school）"为例（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
-1. **最窄层（计划的精确研究）**：小学阶段的风险儿童——可能没有直接研究
-2. **第一次拓宽**：小学阶段的风险学生（at-risk students, generally in the primary school）——扩大了范围，从 children 到 students
-3. **第二次拓宽**：任何教育阶段的风险学生（at-risk students at any level in education）——进一步扩大到所有教育阶段
+1. **最窄层（计划的精确研究）** 小学阶段的风险儿童——可能没有直接研究
+2. **第一次拓宽** 小学阶段的风险学生（at-risk students, generally in the primary school）——扩大了范围，从 children 到 students
+3. **第二次拓宽** 任何教育阶段的风险学生（at-risk students at any level in education）——进一步扩大到所有教育阶段
 
 最终写法：先总结更宽泛的[[Document|文献]]，再以接近计划研究的狭窄研究收尾。
 

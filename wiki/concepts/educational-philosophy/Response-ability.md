@@ -56,8 +56,8 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **能力而非义务**：response-ability 不是被分配的职责，而是需要经由实践培养的"感知-回应"能力([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])
-> - **跨物种伦理**：response-ability 不限于人类之间的关系——它延伸至"critters"（Haraway 对所有生物的统称）。学会回应蜜蜂的需求和学会回应邻居的需求是同一能力的两种表现
+> - **能力而非义务** response-ability 不是被分配的职责，而是需要经由实践培养的"感知-回应"能力([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])
+> - **跨物种伦理** response-ability 不限于人类之间的关系——它延伸至"critters"（Haraway 对所有生物的统称）。学会回应蜜蜂的需求和学会回应邻居的需求是同一能力的两种表现
 > - **与自我[[Epoché|悬置]]的关联**：[[Argument_Amos_2022_Springer|Amos (2022, p.63)]] 指出，培育 response-ability 需要"悬置自我"——"通过有助于发展非自我中心的习惯的训练，确认自发慈悲和非二元性"。你不能同时"以自我为中心"和"对他者有回应能力"
 >
 

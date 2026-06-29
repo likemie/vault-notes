@@ -52,16 +52,16 @@ updated: 2026-06-18
 > [!feature] 匿名化的主要技术
 > Frankfort-Nachmias & Nachmias (1992) 列出的匿名化方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 100–101]]）：
 
-1. **不使用姓名或其他个人标识**：最基本的方法——问卷不包含姓名、地址、职业细节或[[Coding in Qualitative Research|编码]]符号
-2. **使用化名（aliases / pseudonyms）**：为参与者分配虚构姓名代替真实姓名
-3. **使用编码标识个人**：将个人信息与接触信息分离，只有研究者持有编码密钥
+1. **不使用姓名或其他个人标识** 最基本的方法——问卷不包含姓名、地址、职业细节或[[Coding in Qualitative Research|编码]]符号
+2. **使用化名（aliases / pseudonyms）** 为参与者分配虚构姓名代替真实姓名
+3. **使用编码标识个人** 将个人信息与接触信息分离，只有研究者持有编码密钥
 4. **使用密码保护[[Document|文件]]**：通过技术手段限制对可识别数据的访问
-5. **数据聚合（aggregation）**：在某些情况下聚合数据，使个体回答不可知
+5. **数据聚合（aggregation）** 在某些情况下聚合数据，使个体回答不可知
 
 > [!info] 匿名的适用范围
 > - **[[Survey Research|问卷调查研究]]**：最容易实现——不包含标识符的匿名问卷
 > - **[[Experimental Research|实验研究]]**：实验者感兴趣的是"人类"行为而非特定个体的行为，可以将研究数据转移到编码的、无姓名的数据表。Aronson & Carlsmith (1969) 评论："过程的非个人化本身就是伦理上的巨大优势，因为它消除了侵犯隐私的一些负面后果"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 101]]）
-> - **面对面访谈**：绝不可能实现匿名——最多只能承诺保密
+> - **面对面访谈** 绝不可能实现匿名——最多只能承诺保密
 
 ---
 

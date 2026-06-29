@@ -47,9 +47,9 @@ updated: 2026-06-22
 > **Disciplina 与 Doctrina** 是西方教育史和知识社会学中用于界定知识传递与方式的一对经典二元概念。**Disciplina（规训/教规）** 关注对既有、已发现知识的灌输与巩固，侧重维持秩序和正误纠正；**Doctrina（教学/教义/更新）** 则是指发展、质疑和更新知识的动态系统（Stichweh, 2001, cited in [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。在现代教育政策中，这对概念被用于批判以测量和结果为导向的机械问责，并呼吁恢复教学的开放与批判面向（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义**：`disciplina` 指向知识被发现后在学科库中的沉淀与外在规训灌输；`doctrina` 指向知识系统的自我更新、生产与开放研究。
-> - **用途**：帮助课程研究者辨析为什么某些改革（如跨学科[[Phenomenon-Based Learning|现象本位学习]]）容易在政策操作中退化为刻板的指标检测（即被 `disciplina` 侵蚀），并揭示课程背后的权力与知识再生产逻辑。
-> - **边界**：它不简单等同于“传统教学 vs. 现代教学”，而是在中世纪大学诞生起便并存的、组织人类 curiosity 的两种互补又对立的态度。
+> - **含义**`disciplina` 指向知识被发现后在学科库中的沉淀与外在规训灌输；`doctrina` 指向知识系统的自我更新、生产与开放研究。
+> - **用途** 帮助课程研究者辨析为什么某些改革（如跨学科[[Phenomenon-Based Learning|现象本位学习]]）容易在政策操作中退化为刻板的指标检测（即被 `disciplina` 侵蚀），并揭示课程背后的权力与知识再生产逻辑。
+> - **边界** 它不简单等同于“传统教学 vs. 现代教学”，而是在中世纪大学诞生起便并存的、组织人类 curiosity 的两种互补又对立的态度。
 
 ---
 
@@ -68,9 +68,9 @@ updated: 2026-06-22
 ## 核心要素
 
 > [!feature] 核心要素
-> - **Disciplina 的静态存储性**：扮演“存放已发现知识的场所”角色，其将知识结构化为严密的科目，主要执行代际间的社会化与再生产职能（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
-> - **Doctrina 的动态生产性**：视知识为动态演化的体系，承认过去的知识无法完全涵盖未来的可能性，因此教学必须向学生的提问与创新开放（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
-> - **绩效时代的失衡**：当代全球教育行业（[[Global Education Industry|GEI]]）过度追求“可测量结果”与“横向绩效评估”，通过技能原子化技术，强行将具备 `doctrina` 特质的探究活动塞入 `disciplina` 的流水线框架，损害了教育作为自我转变和民主反思的过程（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
+> - **Disciplina 的静态存储性** 扮演“存放已发现知识的场所”角色，其将知识结构化为严密的科目，主要执行代际间的社会化与再生产职能（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
+> - **Doctrina 的动态生产性** 视知识为动态演化的体系，承认过去的知识无法完全涵盖未来的可能性，因此教学必须向学生的提问与创新开放（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
+> - **绩效时代的失衡** 当代全球教育行业（[[Global Education Industry|GEI]]）过度追求“可测量结果”与“横向绩效评估”，通过技能原子化技术，强行将具备 `doctrina` 特质的探究活动塞入 `disciplina` 的流水线框架，损害了教育作为自我转变和民主反思的过程（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 ---
 
@@ -101,9 +101,9 @@ updated: 2026-06-22
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **中世纪 — 术语起源**：大学和修道院教育中分化出 `disciplina`（强调对学生行为的惩戒、纠错和规训）与 `doctrina`（强调真理的讲授和知识研究的进展）（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
-> - **现代 — 知识社会学分析**：Stichweh (2001) 追溯学科建制与社会系统的演化，将二者界定为知识在“静态沉积”与“动态自我更新”之间的基本张力（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
-> - **21世纪 — 课程政策批判应用**：该二元概念被引入针对 [[OECD]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
+> - **中世纪 — 术语起源** 大学和修道院教育中分化出 `disciplina`（强调对学生行为的惩戒、纠错和规训）与 `doctrina`（强调真理的讲授和知识研究的进展）（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
+> - **现代 — 知识社会学分析**Stichweh (2001) 追溯学科建制与社会系统的演化，将二者界定为知识在“静态沉积”与“动态自我更新”之间的基本张力（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
+> - **21世纪 — 课程政策批判应用** 该二元概念被引入针对 [[OECD]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 ---
 

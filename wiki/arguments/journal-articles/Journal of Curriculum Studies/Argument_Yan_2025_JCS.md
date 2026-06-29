@@ -101,10 +101,10 @@ citation_aliases:
 ## 研究方法
 
 > [!info] [[Historical Document Analysis of Curriculum|历史文献分析]]
-> - **方法**：[[Historical Document Analysis of Curriculum|课程历史文献分析]]，对课程指引、政府出版物、媒体报道和既有学术[[Document|文献]]进行系统分析
-> - **数据来源**：《通识教育科课程及评估指引》(2007)、《[[Citizenship and Social Development|公民与社会发展科]]课程及评估指引》(2021)、历届《施政报告》、教育局通告与新闻稿、立法会记录、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》）、香港本地媒体、以及围绕 [[Liberal Studies|LS]] 的学术文献
-> - **分析范围**：限定在"意图课程"（intended curriculum）层面，即国家定义的官方课程，不涉及课堂实施或学生学习成果
-> - **时间跨度**：1997 年回归至 2021 年公民与社会发展科（CSD）实施，覆盖 LS 从酝酿到废除的全周期
+> - **方法**[[Historical Document Analysis of Curriculum|课程历史文献分析]]，对课程指引、政府出版物、媒体报道和既有学术[[Document|文献]]进行系统分析
+> - **数据来源** 《通识教育科课程及评估指引》(2007)、《[[Citizenship and Social Development|公民与社会发展科]]课程及评估指引》(2021)、历届《施政报告》、教育局通告与新闻稿、立法会记录、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》）、香港本地媒体、以及围绕 [[Liberal Studies|LS]] 的学术文献
+> - **分析范围** 限定在"意图课程"（intended curriculum）层面，即国家定义的官方课程，不涉及课堂实施或学生学习成果
+> - **时间跨度** 1997 年回归至 2021 年公民与社会发展科（CSD）实施，覆盖 LS 从酝酿到废除的全周期
 
 ---
 

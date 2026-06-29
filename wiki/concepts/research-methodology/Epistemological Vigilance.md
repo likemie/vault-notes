@@ -93,5 +93,5 @@ updated: 2026-05-18
 
 > [!warning] 争议与批评
 > - **[[Operationalization|操作化]]困难**：如何在 6000 字期刊论文或 20 分钟会议报告中展示[[Epistemology|认识论]]警觉？[[Argument_Eacott_2015_EPT|Eacott (2015, p.322)]]承认这种警觉"在 6000 字期刊论文或 20 分钟会议报告中尤其困难，更不用说大学和学术排名系统中'时钟'时间（出版输出）的特权化"
-> - **与知识普及的张力**：持续的警觉导致文本复杂、难以进入公共话语。Bourdieu 后期转向公共知识分子写作（如 *On Television*、*Acts of Resistance*）体现了这一张力——警觉的要求与"被听到"之间存在实际矛盾([[Argument_Eacott_2015_EPT|Eacott, 2015, p.320, note 8]])
+> - **与知识普及的张力** 持续的警觉导致文本复杂、难以进入公共话语。Bourdieu 后期转向公共知识分子写作（如 *On Television*、*Acts of Resistance*）体现了这一张力——警觉的要求与"被听到"之间存在实际矛盾([[Argument_Eacott_2015_EPT|Eacott, 2015, p.320, note 8]])
 

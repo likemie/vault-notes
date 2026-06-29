@@ -52,11 +52,11 @@ updated: 2026-05-26
 > [!abstract]
 > 根据 Zilversmit（1993）在 Ryabyy（2024）中引述的界定，进步教育包含以下构成要素：
 >
-> - **教学方法**：以项目和活动课程（project- and activity-based curriculum）取代传统的机械记忆和背诵([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
-> - **学习观**：强调从经验中学习（learning from experience）——知识不是被灌输的，而是在活动中建构的([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
-> - **儿童定位**：教育体系以儿童发展（child's development）为中心，而非以学科内容或教师权威为中心([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
-> - **社会目标**：培养能够积极参与和塑造民主社会（participate and shape society）的公民，而非被动的适应者([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
-> - **核心人物**：[[John Dewey]] —— 被 Zilversmit 定位为该运动中最重要的改革者之一（one of the most important reformers），其代表作 School and Society 是进步教育的纲领性文本([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
+> - **教学方法** 以项目和活动课程（project- and activity-based curriculum）取代传统的机械记忆和背诵([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
+> - **学习观** 强调从经验中学习（learning from experience）——知识不是被灌输的，而是在活动中建构的([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
+> - **儿童定位** 教育体系以儿童发展（child's development）为中心，而非以学科内容或教师权威为中心([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
+> - **社会目标** 培养能够积极参与和塑造民主社会（participate and shape society）的公民，而非被动的适应者([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
+> - **核心人物**[[John Dewey]] —— 被 Zilversmit 定位为该运动中最重要的改革者之一（one of the most important reformers），其代表作 School and Society 是进步教育的纲领性文本([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])
 
 ## 概念辨析
 

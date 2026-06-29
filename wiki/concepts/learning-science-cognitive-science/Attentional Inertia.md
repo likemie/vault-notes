@@ -59,8 +59,8 @@ updated: '2026-06-10'
 ## 测量方法
 
 > [!method-panel] 维度变化卡片分类任务 (DCCS)
-> - **切换前阶段 (Pre-switch)**：要求受试儿童根据单一规则（例如卡片上物体的“颜色”）对卡片进行分类。此阶段 3–4 岁儿童能够完美通关。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 10–11)]]
-> - **切换后阶段 (Post-switch)**：突然要求儿童根据另一个规则（例如物体的“形状”）进行分类。低于 4–5 岁的儿童在无人协助的情况下通常无法完成此阶段，表现为持续使用切换前的规则。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]
+> - **切换前阶段 (Pre-switch)** 要求受试儿童根据单一规则（例如卡片上物体的“颜色”）对卡片进行分类。此阶段 3–4 岁儿童能够完美通关。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 10–11)]]
+> - **切换后阶段 (Post-switch)** 突然要求儿童根据另一个规则（例如物体的“形状”）进行分类。低于 4–5 岁的儿童在无人协助的情况下通常无法完成此阶段，表现为持续使用切换前的规则。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]
 
 ---
 

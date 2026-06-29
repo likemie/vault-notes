@@ -59,10 +59,10 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > [[Argument_Moisio_2022_Springer|Moisio (2022)]]将 Porter 的理论分析为[[Knowledge-Based Economization|知识经济化]]的关键地缘政治想象，识别其以下要素：
 >
-> - **高度本地化的创造过程**："竞争优势通过高度本地化的过程被创造和维持"——创新和竞争力不凭空产生，而是植根于具体的本地制度、文化和历史（Porter, 1990, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]]）
-> - **全球化强化国家角色的悖论**：这是 Porter 最具政策影响力的主张——全球化非但未使国家过时，反而提升了国家作为竞争优势创造场所的重要性([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
-> - **国家的构成性贡献**：国家价值、文化、经济结构、制度和历史——而非仅企业策略——是竞争成功的深层决定因素([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
-> - **作为地缘政治想象的运作**：Moisio 将 Porter 理论定位为 Jessop（2005）意义上具有"构成性和履行性角色"的地缘政治想象——它不仅描述全球经济，更塑造政策制定者看待世界的方式([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
+> - **高度本地化的创造过程** "竞争优势通过高度本地化的过程被创造和维持"——创新和竞争力不凭空产生，而是植根于具体的本地制度、文化和历史（Porter, 1990, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]]）
+> - **全球化强化国家角色的悖论** 这是 Porter 最具政策影响力的主张——全球化非但未使国家过时，反而提升了国家作为竞争优势创造场所的重要性([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
+> - **国家的构成性贡献** 国家价值、文化、经济结构、制度和历史——而非仅企业策略——是竞争成功的深层决定因素([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
+> - **作为地缘政治想象的运作**Moisio 将 Porter 理论定位为 Jessop（2005）意义上具有"构成性和履行性角色"的地缘政治想象——它不仅描述全球经济，更塑造政策制定者看待世界的方式([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
 >
 
 ## 概念演变
@@ -82,9 +82,9 @@ updated: '2026-05-18'
 ## 实证表现
 
 
-- **国家冠军城市**：Crouch & Le Galès（2012）观察到国家将资源大规模集中于首都和城市基础设施，发展"国家冠军城市或区域"——这正是 Porter 逻辑的政策表现([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
+- **国家冠军城市**Crouch & Le Galès（2012）观察到国家将资源大规模集中于首都和城市基础设施，发展"国家冠军城市或区域"——这正是 Porter 逻辑的政策表现([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
 - **[[Economic Patriotism|经济爱国主义]]**：Porter 理论与国家竞争叙事的结合催生了 [[Economic Patriotism]]——爱国情感被绑定到特定领土部分的利益推进上([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
-- **城市竞争形态**：跨空间竞争"采取城市形式，特别围绕城市社会和物质基础设施的吸引力"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]])
+- **城市竞争形态** 跨空间竞争"采取城市形式，特别围绕城市社会和物质基础设施的吸引力"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]])
 
 ---
 

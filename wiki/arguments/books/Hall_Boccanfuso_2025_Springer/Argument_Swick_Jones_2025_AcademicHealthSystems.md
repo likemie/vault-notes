@@ -121,7 +121,7 @@ citation_aliases:
 ---
 
 > [!tip]- 创新文化：[[Academic Medical Center|AMC]] 与 [[Academic Health System|AHS]] 的关键区分
-> [[Applied Medical Innovation|AMI]] 的第三个驱动力是创新文化，具体而言是 [[Academic Health System|AHS]] 这种特定组织形态所培育的文化。AHS 区别于传统的[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）：**AMC 是学术-临床的二元结构，AHS 是学术-临床-产业的三元融合**(p.179)。这一区分是后续全部论证的逻辑基础——正是因为 AHS 同时容纳了三种逻辑，才能在产学合作中扮演促进者角色。详见 [[Academic Health System]] 和 [[Academic Medical Center]]。
+> [[Applied Medical Innovation|AMI]] 的第三个驱动力是创新文化，具体而言是 [[Academic Health System|AHS]] 这种特定组织形态所培育的文化。AHS 区别于传统的[[Academic Medical Center|学术医学中心]]（Academic Medical Center, AMC）：**AMC 是学术-临床的二元结构，AHS 是学术-临床-产业的三元融合(p.179)**。这一区分是后续全部论证的逻辑基础——正是因为 AHS 同时容纳了三种逻辑，才能在产学合作中扮演促进者角色。详见 [[Academic Health System]] 和 [[Academic Medical Center]]。
 
 ---
 
@@ -130,7 +130,7 @@ citation_aliases:
 > [!example]- Houston Methodist 的"中心辐射"结构
 > 以 Houston Methodist 为例，AHS 呈现"中心辐射"（hub-and-spoke）模式（Fig. 10.2）：旗舰医院与研究所为核心，八个区域性医院为辐射节点，外层为初级保健诊所、急诊中心等接入点，并通过与联邦认证健康中心（Federally Qualified Health Center, FQHC）合作覆盖服务不足人群(pp.180–181)。详见 [[Academic Health System]]。
 >
-> 论证关键在于：这种结构创造出**"双向学术管线"**（bidirectional academic pipeline）——创新从旗舰研究所向外推送至多样化诊疗环境接受验证，临床需求从区域和社区反馈回研究所触发新发现。**将研究带到患者身边**，而非要求患者来到研究所，从根本上扩展了临床试验的入口和部署场景(pp.180–181)。
+> 论证关键在于：这种结构创造出**"双向学术管线"（bidirectional academic pipeline）**——创新从旗舰研究所向外推送至多样化诊疗环境接受验证，临床需求从区域和社区反馈回研究所触发新发现。**将研究带到患者身边**，而非要求患者来到研究所，从根本上扩展了临床试验的入口和部署场景(pp.180–181)。
 
 > [!example]- 图10-2：学术健康系统的组织结构（Structure of an Academic Health System）
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-2_Structure_of_Academic_Health_System.jpg)
@@ -169,7 +169,7 @@ citation_aliases:
 ---
 
 > [!warning] 挑战五：超亚专业化的悖论
-> 超亚专业化（super-sub-specialization）在临床上有其合理性，但理想的创新伙伴需要 T 型技能，既有专业深度又有跨领域广度(pp.185–186)。极度亚专业化的专家可以熟练应用知识，但无法自行产生创新，"看不到全局"（cannot see the big picture）。围绕志同道合者组成的团队只能产生渐进式改进：**只有当思维方式不同的人汇聚在一起时，真正的创新才会发生**(p.186)。
+> 超亚专业化（super-sub-specialization）在临床上有其合理性，但理想的创新伙伴需要 T 型技能，既有专业深度又有跨领域广度(pp.185–186)。极度亚专业化的专家可以熟练应用知识，但无法自行产生创新，"看不到全局"（cannot see the big picture）。围绕志同道合者组成的团队只能产生渐进式改进：**只有当思维方式不同的人汇聚在一起时，真正的创新才会发生(p.186)**。
 >
 > > [!example]- 图10-3：医用创新中的[[T-Shaped Skills|T型技能]]（T-Shaped Skills in AMI）
 > > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-3_T-Shaped_Skills_in_AMI.jpg)
@@ -183,13 +183,13 @@ citation_aliases:
 
 > [!warning] 挑战七：合作光谱的定位困难
 > AHS 参与的产学合作位于从"交易型"（transactional）到"创新型"（innovative）的光谱上(p.187, Fig. 10.4)：
-> - **交易型**：产业伙伴拥有创新，AHS 作为理想临床试验场所，优先催化患者诊疗改善和快速部署
-> - **创新型**：AHS 教师拥有创新和专利但需要伙伴支持规模化，优先知识产权保护和[[Return on Investment|投资回报]]
+> - **交易型** 产业伙伴拥有创新，AHS 作为理想临床试验场所，优先催化患者诊疗改善和快速部署
+> - **创新型** AHS 教师拥有创新和专利但需要伙伴支持规模化，优先知识产权保护和[[Return on Investment|投资回报]]
 >
 > AHS 对每个新合作都以创新型态度进入，以备知识产权出现时保护已到位的投入(p.187)。
 
 > [!abstract] 七重挑战的共同指向
-> 单一组织类型，无论是大学、产业还是医院，都无法独立穿越成本、监管、数据、复杂性、专业化、时间挤压和合作光谱定位的复合障碍。产学合作是**"唯一穿过这一切的路径"**（"the only path through these myriad challenges"）(p.187)。AHS 作为促进者，可以增强和放大产学合作的影响，加速创新从发现到诊疗交付的转化。
+> 单一组织类型，无论是大学、产业还是医院，都无法独立穿越成本、监管、数据、复杂性、专业化、时间挤压和合作光谱定位的复合障碍。产学合作是**"唯一穿过这一切的路径"（"the only path through these myriad challenges"）**(p.187)。AHS 作为促进者，可以增强和放大产学合作的影响，加速创新从发现到诊疗交付的转化。
 
 ---
 
@@ -218,7 +218,7 @@ citation_aliases:
 > [!success] COVID-19 的合作奇迹
 > 疫情期间，所有组织类型的领导者采纳了相同心态："不惜一切代价找到答案。从答案中学习，快速调整，再尝试。"（"whatever it takes to get an answer, do it. Learn from that answer, adjust quickly, and try again."）(pp.189–190)。
 >
-> 在产业和学术搁置分歧完成任务的共同决策下，结合"曲速行动"（Operation Warp Speed）的充分资金，数种高效疫苗在创纪录时间内问世。AMC 和 AHS 在全国联合为 Pfizer、Moderna 和 Johnson & Johnson 的 III 期试验提供场所。**疫苗学在 1–2 年内达到了本来需要数十年才能实现的水准**(p.190)。
+> 在产业和学术搁置分歧完成任务的共同决策下，结合"曲速行动"（Operation Warp Speed）的充分资金，数种高效疫苗在创纪录时间内问世。AMC 和 AHS 在全国联合为 Pfizer、Moderna 和 Johnson & Johnson 的 III 期试验提供场所。**疫苗学在 1–2 年内达到了本来需要数十年才能实现的水准(p.190)**。
 >
 > 然而 COVID-19 也暴露了合作的脆弱性：增强的合作是短暂的。后 COVID-19 时代各方迅速回归旧有障碍和保守立场，有些甚至摆荡到了更保守的位置(p.190)。但这种对比揭示了一个关键事实：**当各方拥有对齐的目标和强烈的紧迫感时，能够实现远超常态的成果**。
 
@@ -229,7 +229,7 @@ citation_aliases:
 > - COVID-19 是不加区分、高度传染性的，"不惜任何代价行动"的必要性直接可感
 > - NCDs（心血管疾病、癌症、神经退行性疾病）进展缓慢，给人一种"可以推迟"的错觉
 >
-> 但对 NCD 患者及其照护者而言，其处境紧迫程度与 COVID-19 对全球人口一样真实。在某个时间点，**当前最佳的标准疗法也会对 NCD 患者失效**(p.190)。AHS 特别敏锐地意识到这一事实。如果合作各方能充分理解患者面临的紧迫感，将患者置于中心，这可以成为各方在产学合作中的重要动力。
+> 但对 NCD 患者及其照护者而言，其处境紧迫程度与 COVID-19 对全球人口一样真实。在某个时间点，**当前最佳的标准疗法也会对 NCD 患者失效(p.190)**。AHS 特别敏锐地意识到这一事实。如果合作各方能充分理解患者面临的紧迫感，将患者置于中心，这可以成为各方在产学合作中的重要动力。
 
 ---
 
@@ -247,7 +247,7 @@ citation_aliases:
 > [!abstract] 四方的优先差异与 ROI 定义
 > 对齐的目标通常始于"我们想治疗 X 疾病"，但医院、产业、大学和医师对同一目标有着根本不同的优先排序和 ROI 定义(pp.190–191)。详见 [[Values Alignment Model]] 和 [[Return on Investment]]。
 >
-> 价值对齐的关键不在于消除差异，而在于通过**"患者中心的透镜"**（patient-centered lens）审视所有优先事项：产业的利润只有在产品对患者安全有效时才有意义；大学的发表只有转化为患者受益时才实现社会价值(pp.191–192)。AHS 作为促进者的核心任务是平衡向内拉力（共享价值）与向外拉力（反向力量），既不让商业逻辑凌驾于患者安全之上（如果创新不安全，ROI 降为零），也不让监管保守主义扼杀创新(pp.191–192)。
+> 价值对齐的关键不在于消除差异，而在于通过**"患者中心的透镜"（patient-centered lens）**审视所有优先事项：产业的利润只有在产品对患者安全有效时才有意义；大学的发表只有转化为患者受益时才实现社会价值(pp.191–192)。AHS 作为促进者的核心任务是平衡向内拉力（共享价值）与向外拉力（反向力量），既不让商业逻辑凌驾于患者安全之上（如果创新不安全，ROI 降为零），也不让监管保守主义扼杀创新(pp.191–192)。
 
 
 > [!example]- 学术健康系统促进创新 UI 合作的独特角色
@@ -258,15 +258,15 @@ citation_aliases:
 ### 第七步：TAVR 案例研究：价值对齐模型如何在产学合作中实际运作
 
 > [!info] 疾病与技术背景
-> 主动脉瓣狭窄（aortic stenosis）是一种心脏瓣膜病，位于左心室与主动脉之间的主动脉瓣变窄、不能完全打开，限制血液从心脏流向全身。该疾病有漫长的潜伏期，但一旦症状出现，恶化速度极快：**未治疗有症状患者的平均生存期仅为 2–3 年**(p.192)。
+> 主动脉瓣狭窄（aortic stenosis）是一种心脏瓣膜病，位于左心室与主动脉之间的主动脉瓣变窄、不能完全打开，限制血液从心脏流向全身。该疾病有漫长的潜伏期，但一旦症状出现，恶化速度极快：**未治疗有症状患者的平均生存期仅为 2–3 年(p.192)**。
 >
 > 主动脉瓣置换术（Aortic Valve Replacement, AVR）是主要治疗手段，历史上以开胸方式进行，即外科主动脉瓣置换术（Surgical Aortic Valve Replacement, SAVR）。因此，伴有合并症（comorbidities）的患者因手术风险过高而不具备资格；另有患者虽符合条件但因手术侵入性而选择回避(Bach et al., 2009, 转引自 p.192)。**生物医学创新是为无法承受开胸手术的患者创造解决方案的唯一途径**。
 
 ---
 
 > [!note]- 发明阶段（1990s–2002）：从概念到首例人体植入
-> - **1990s**：丹麦 Skejby 大学医院的医师科学家发展经导管主动脉瓣植入概念，一项颠覆性技术（disruptive technology），通过血管内路径（而非开胸）完成瓣膜置换(Andersen, 2021; Bonhoeffer et al., 2000; Knudsen et al., 1993, 转引自 p.193)
-> - **2002**：法国 Rouen 大学 Charles Nicolle 医院完成首例人体植入，通过股动脉进入心脏(Cribier et al., 2002, 转引自 p.193)
+> - **1990s** 丹麦 Skejby 大学医院的医师科学家发展经导管主动脉瓣植入概念，一项颠覆性技术（disruptive technology），通过血管内路径（而非开胸）完成瓣膜置换(Andersen, 2021; Bonhoeffer et al., 2000; Knudsen et al., 1993, 转引自 p.193)
+> - **2002** 法国 Rouen 大学 Charles Nicolle 医院完成首例人体植入，通过股动脉进入心脏(Cribier et al., 2002, 转引自 p.193)
 > - 随后更多病例迅速发表，技术专利被申请。Medtronic 与 Edwards Lifesciences 之间爆发专利争议
 > - Medtronic 的 CoreValve 拥有一项关键创新：**可重新定位**，外科医生固定装置前可调整瓣膜位置，显著提高患者安全性(p.193)
 
@@ -287,15 +287,15 @@ citation_aliases:
 ---
 
 > [!success] 扩散、迭代与经济学证据
-> **扩散**(p.194)：TAVR 年手术量 2011 年起持续增长，2019 年超过 SAVR。如今被视为全风险谱系的标准疗法，在全美 50 个州可及。Houston Methodist 在系统内六所医院提供 TAVR，旗舰 Valve Clinic 完成超过 2000 例装置植入(Carroll et al., 2021, 转引自 p.194)。
+> **扩散(p.194)** TAVR 年手术量 2011 年起持续增长，2019 年超过 SAVR。如今被视为全风险谱系的标准疗法，在全美 50 个州可及。Houston Methodist 在系统内六所医院提供 TAVR，旗舰 Valve Clinic 完成超过 2000 例装置植入(Carroll et al., 2021, 转引自 p.194)。
 >
-> **持续创新**(p.194)：技术现称为经导管心脏瓣膜（Transcatheter Heart Valve, THV）设计，两种主要路线：
+> **持续创新(p.194)** 技术现称为经导管心脏瓣膜（Transcatheter Heart Valve, THV）设计，两种主要路线：
 > - 球囊膨胀式瓣膜（Balloon-Expandable Valves, BEV）— Edwards Sapien X4
 > - 自膨胀式瓣膜（Self-Expanding Valves, SEV）— Medtronic Evolut FX
 >
 > 关键改善：30 天死亡率 7.2% → 2.5%，中风风险 2.75% → 2.3%(Zaid et al., 2023, 转引自 p.194)。
 >
-> **经济学**(p.194)：2023 年分析预测 TAVR 有 95% 概率使增量成本效益比（Incremental Cost-Effectiveness Ratio, ICER）低于 $50,000/质量调整生命年（Quality-Adjusted Life-Year, QALY），属于高经济价值策略。无形收益包括住院时间更短、再入院更少、感染和并发症减少。
+> **经济学(p.194)** 2023 年分析预测 TAVR 有 95% 概率使增量成本效益比（Incremental Cost-Effectiveness Ratio, ICER）低于 $50,000/质量调整生命年（Quality-Adjusted Life-Year, QALY），属于高经济价值策略。无形收益包括住院时间更短、再入院更少、感染和并发症减少。
 
 ---
 
@@ -315,7 +315,7 @@ citation_aliases:
 > - **各大学/AMC**（学术）→ 获得前沿研究和发表机会
 > - **患者**（中心）→ 获得从高风险不可手术者到低风险可手术者的全谱系治疗选择，死亡率和并发症持续下降
 >
-> TAVR 成功的关键在于 AHS 作为产学合作枢纽，拥有创新文化、临床医师和患者体量，平衡了患者利益与经济可行性。**"如果没有产学之间的合作（产业 Medtronic 与各学术伙伴，包括 Houston Methodist），这项创新就不可能实现。"**(p.194)
+> TAVR 成功的关键在于 AHS 作为产学合作枢纽，拥有创新文化、临床医师和患者体量，平衡了患者利益与经济可行性。**"如果没有产学之间的合作（产业 Medtronic 与各学术伙伴，包括 Houston Methodist），这项创新就不可能实现。"(p.194)**
 
 ---
 

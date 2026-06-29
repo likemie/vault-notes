@@ -42,10 +42,10 @@ updated: 2026-05-31
 
 钩眼技术操作的核心步骤：
 
-1. **圈出关键词（Find the eyes）**：在每句话中识别承载核心意义的关键词或短语，将其圈出
-2. **连接关键词（Draw the hooks）**：用箭头或线条将相邻句子中圈出的关键词连接起来
-3. **检查连接质量**：顺畅的连接表明连贯良好；断裂的连接需要插入过渡词或重写句子
-4. **跨段落检查**：技术同样适用于段落之间的连接，检查段落末尾的关键词是否自然引出下一段的主题
+1. **圈出关键词（Find the eyes）** 在每句话中识别承载核心意义的关键词或短语，将其圈出
+2. **连接关键词（Draw the hooks）** 用箭头或线条将相邻句子中圈出的关键词连接起来
+3. **检查连接质量** 顺畅的连接表明连贯良好；断裂的连接需要插入过渡词或重写句子
+4. **跨段落检查** 技术同样适用于段落之间的连接，检查段落末尾的关键词是否自然引出下一段的主题
 
 > [!example]
 > Creswell & Creswell (2022, 第4章) 展示了一位学生[[Qualitative Research|质性研究]]计划引言段落的钩眼分析实例。该段落围绕"at-risk students"主题展开，每句话的关键词通过钩眼连线呈现清晰的链条：They → students → athletes → Those → students → They → they → students-at-risk → at-risk student → problems → early reform → the needs of the marginal student → students → at-risk student → at-risk students → topic → at-risk issue → research → Others → Still others → research and studies by → shift the → students → discover if there → researcher who，整条链始终围绕核心主题。

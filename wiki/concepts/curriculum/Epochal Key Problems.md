@@ -46,16 +46,16 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1997**：[[Wolfgang Klafki]] 在关于欧洲教育的讨论中提出，以 key problems 作为面向未来课程工作的中心点。问题包括环境危机、社会不平等和战争等具有时代性、全球性和伦理政治后果的议题([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.7]])。
+> - **1997**[[Wolfgang Klafki]] 在关于欧洲教育的讨论中提出，以 key problems 作为面向未来课程工作的中心点。问题包括环境危机、社会不平等和战争等具有时代性、全球性和伦理政治后果的议题([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.7]])。
 > - **芬兰 [[Phenomenon-Based Learning|PhBL]] 语境**：这一概念为 [[Phenomenon-Based Learning]] 提供课程选择依据。PhBL 可被理解为一种围绕复杂现象组织学习的 didactical tool，而不是取消学科的改革口号([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.7, 11]])。
 
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **面向未知未来**：教师和政策制定者无法预先知道学生未来需要哪些知识、认知和态度，因此课程不能只是窄化传递现有科学知识([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.6]])。
-> - **问题具有时代性**：环境危机、社会不平等和战争等问题不是单一学科内部的小问题，而是定义一个时代教育责任的重大议题([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.7]])。
-> - **学科深度与跨学科广度并行**：时代关键问题要求学生既进入学科内部逻辑，也跨越学科边界处理复杂现实([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.7]])。
-> - **规范性和公共性**：这类问题总是涉及"什么值得追求""什么需要改变"等价值判断，因此与 [[Bildung]] 的自我形成和共同体责任相连([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.6-7]])。
+> - **面向未知未来** 教师和政策制定者无法预先知道学生未来需要哪些知识、认知和态度，因此课程不能只是窄化传递现有科学知识([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.6]])。
+> - **问题具有时代性** 环境危机、社会不平等和战争等问题不是单一学科内部的小问题，而是定义一个时代教育责任的重大议题([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.7]])。
+> - **学科深度与跨学科广度并行** 时代关键问题要求学生既进入学科内部逻辑，也跨越学科边界处理复杂现实([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.7]])。
+> - **规范性和公共性** 这类问题总是涉及"什么值得追求""什么需要改变"等价值判断，因此与 [[Bildung]] 的自我形成和共同体责任相连([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.6-7]])。
 
 ## 与相关概念的区别
 

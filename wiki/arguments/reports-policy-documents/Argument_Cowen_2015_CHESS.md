@@ -82,9 +82,9 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／观察**：[[What Works Network]] 和 [[Education Endowment Foundation|EEF]] 的建立使英国教育领域有了专门的证据清算中心，但证据的实施面临独特的挑战——从"什么有效"到"在这里有效"之间存在知识鸿沟
+> 1. **前提／观察**[[What Works Network]] 和 [[Education Endowment Foundation|EEF]] 的建立使英国教育领域有了专门的证据清算中心，但证据的实施面临独特的挑战——从"什么有效"到"在这里有效"之间存在知识鸿沟
 >
-> 2. **论证步骤**：
+> 2. **论证步骤**
 >    - [[Literature Review|文献综述]]识别出 EBP 实施的三个关键前提：本地知识、专业自主性和判断力、以及适合从业者使用的证据呈现方式
 >    - Cartwright & Munro (2010) 的框架表明，[[Randomised Controlled Trials|RCT]] 仅提供"在某处有效"的证据，要做出"对我们有效"的预测需要理解[[Causality|因果]]机制
 >    - 教师访谈证实：成功实施需理解干预措施的底层原理（underlying rationale），而非机械遵循手册
@@ -92,7 +92,7 @@ citation_aliases:
 >    - 问责机制（[[Ofsted]]）可能阻挠证据的审慎使用，尤其对新学校和弱势生源学校
 >    - 教师专业对话和辩论是证据阐释的重要机制，"传统 vs 进步"的意识形态分化推动了更深度的证据参与
 >
-> 3. **结论**：证据本位政策的实施不应追求"忠实执行"（fidelity），而应追求"流动性"（fluidity）——证据作为[[Hypothesis|假设]]生成和激发审议的工具，而非直接指导实践的指令。理解因果机制、尊重本地知识和[[Professional Judgment|专业判断]]、为教师提供研究方法和统计培训，是实现有效实施的关键
+> 3. **结论** 证据本位政策的实施不应追求"忠实执行"（fidelity），而应追求"流动性"（fluidity）——证据作为[[Hypothesis|假设]]生成和激发审议的工具，而非直接指导实践的指令。理解因果机制、尊重本地知识和[[Professional Judgment|专业判断]]、为教师提供研究方法和统计培训，是实现有效实施的关键
 
 ## 主要发现
 

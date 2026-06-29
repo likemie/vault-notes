@@ -171,4 +171,4 @@ updated: 2026-06-24
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 结合 Castells 的网络理论，分析了操演性原则作为驱动全球教育组织话语生产与临时联盟的底层逻辑。
-> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 在全球[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中，运用操演性与效率逻辑，分析了软实力话语与“科学知识”通过国家与产业赞助合法化的深层机制。
+> - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 在全球[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中，运用操演性与效率逻辑，分析了[[Soft Power|软实力]]话语与“科学知识”通过国家与产业赞助合法化的深层机制。

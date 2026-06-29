@@ -35,7 +35,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> Revoicing 是 O'Connor 和 Michaels（1993）提出的课堂话语策略，指教师将学生原始的、相对粗糙的表述**重铸**（revoice）为更标准、更认知成熟的表述，同时保留学生的原意并明确其"作者权"（authorship/ownership）。这一策略根植于两个社会语言学理论：Goodwin（1990）关于课堂话语中说话权与责任的框架，以及 Goffman（1981）关于"animator"（话语发出者）与"author"（观点来源者）的区分([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-94]])。
+> Revoicing 是 O'Connor 和 Michaels（1993）提出的课堂话语策略，指教师将学生原始的、相对粗糙的表述**重铸（revoice）**为更标准、更认知成熟的表述，同时保留学生的原意并明确其"作者权"（authorship/ownership）。这一策略根植于两个社会语言学理论：Goodwin（1990）关于课堂话语中说话权与责任的框架，以及 Goffman（1981）关于"animator"（话语发出者）与"author"（观点来源者）的区分([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-94]])。
 
 > [!quote]
 > "The teacher deliberately placed two students in opposition and primed them to evaluate the merits of their own and each other's proposals. The teacher effectively led the students to the very notion that they were the authors/owners of their ideas."
@@ -66,9 +66,9 @@ updated: 2026-05-24
 > [!note]-
 > Revoicing 策略建立在西方文化的深层前提之上([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-93]])：
 
-- **个人是自身想法的作者/所有者**：这一信念深植于西方对个人独特性和个体性的高度重视——说话是"表达自我"、确立个体在群体中独特性的行为([[Argument_Li_2012_Cambridge|Li, 2012, p.77]])。
-- **课堂是智力社会化的场所**：O'Connor 和 Michaels 提出，帮助学生"把自己作为一个学习者认真对待"是西方课堂话语的核心目标——智力社会化意味着引导学生进入"自身想法 vs 他人想法"的互动空间，并通过口头互动达成相互理解([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-93]])。
-- **学前教育中的预演**：西方学前教师用"用你的语言说""告诉我你自己的想法""你不说出来我就不知道你想做什么"等话语来训练幼儿将想法语言化——这是 revoicing 在正式教育中的前置社会化([[Argument_Li_2012_Cambridge|Li, 2012, p.92]])。
+- **个人是自身想法的作者/所有者** 这一信念深植于西方对个人独特性和个体性的高度重视——说话是"表达自我"、确立个体在群体中独特性的行为([[Argument_Li_2012_Cambridge|Li, 2012, p.77]])。
+- **课堂是智力社会化的场所** O'Connor 和 Michaels 提出，帮助学生"把自己作为一个学习者认真对待"是西方课堂话语的核心目标——智力社会化意味着引导学生进入"自身想法 vs 他人想法"的互动空间，并通过口头互动达成相互理解([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-93]])。
+- **学前教育中的预演** 西方学前教师用"用你的语言说""告诉我你自己的想法""你不说出来我就不知道你想做什么"等话语来训练幼儿将想法语言化——这是 revoicing 在正式教育中的前置社会化([[Argument_Li_2012_Cambridge|Li, 2012, p.92]])。
 
 ---
 

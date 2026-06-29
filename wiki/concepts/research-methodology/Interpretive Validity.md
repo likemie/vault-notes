@@ -38,7 +38,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 解释效度（Interpretive validity）是 Maxwell (1992) 提出的五种[[Qualitative Validity|质性效度]]类型中的第二种，指研究捕捉情境和事件对**参与者/主体本身**的意义、解释、术语和意图的能力——即以**参与者的术语**、从**参与者的视角**来理解所研究的现象。解释效度类似 Blumenfeld-Jones (1995) 的"忠实"（fidelity）概念——对被研究者而言有何**主观意义**（subjectively meaningful），而非研究者从外部强加的解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
+> 解释效度（Interpretive validity）是 Maxwell (1992) 提出的五种[[Qualitative Validity|质性效度]]类型中的第二种，指研究捕捉情境和事件对**参与者/主体本身**的意义、解释、术语和意图的能力——即以**参与者的术语**、从**参与者的视角**来理解所研究的现象。解释效度类似 Blumenfeld-Jones (1995) 的"忠实"（fidelity）概念——对被研究者而言有何**主观意义（subjectively meaningful）**，而非研究者从外部强加的解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 解释效度回答的是："我的解释在多大程度上忠实于参与者自身对世界的理解和体验？"——它关注的不是"客观上发生了什么"（那是[[Descriptive Validity|描述效度]]），而是"这对参与者来说意味着什么"。
@@ -59,7 +59,7 @@ updated: 2026-06-23
 
 ## 在 Maxwell 框架中的位置
 
-解释效度在 Maxwell 五类型中处于从"事实层"到"解释层"的**桥梁位置**：
+解释效度在 Maxwell 五类型中处于从"事实层"到"解释层"的**桥梁位置**
 
 > [!note]- 解释效度在[[Qualitative Research|质性研究]]中的独特性
 > 在[[Positivism|实证主义]]/实验方法论中没有与解释效度直接对应的概念——[[Quantitative Research|量化研究]]关注的是可观测行为和可测量[[Variable|变量]]之间的关系，而非参与者赋予这些行为和变量的**主观意义**。这使解释效度成为质性研究方法论自主性的核心论据之一：质性研究不仅采用不同的方法，而且服务于**不同类型的知识目标**——理解主观意义——这种目标在量化[[Paradigm|范式]]内无法被充分实现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]

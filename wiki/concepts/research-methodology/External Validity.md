@@ -56,7 +56,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 外部效度（External validity）指研究结果能够**推广**（generalize）到更广泛总体、案例、情境、时间或环境的程度——即**可迁移性**（transferability）。在[[Experimental Research|实验研究]]中，它衡量实验结果能否推广到[[Study Population and Sample|研究样本]]以外的其他人群、其他情境以及过去或未来的时间点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 168)]]
+> 外部效度（External validity）指研究结果能够**推广（generalize）**到更广泛总体、案例、情境、时间或环境的程度——即**可迁移性（transferability）**。在[[Experimental Research|实验研究]]中，它衡量实验结果能否推广到[[Study Population and Sample|研究样本]]以外的其他人群、其他情境以及过去或未来的时间点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 168)]]
 
 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从实验研究角度强调，外部效度越高，研究结论的适用边界越宽。
 
@@ -113,7 +113,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 
 ## 质性研究中的外部效度
 
-在自然主义研究中，可推广性被重新解释为**可比较性**（comparability）和**可迁移性**（transferability）（Lincoln & Guba, 1985; Eisenhart & Howe, 1992: 647）。研究者应评估情境、参与者和环境的**典型性**（typicality），识别可能的比较群体，并说明数据如何转化为不同环境和文化的意义（LeCompte & Preissle, 1993: 348）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 171–172)]]
+在自然主义研究中，可推广性被重新解释为**可比较性（comparability）**和**可迁移性（transferability）**（Lincoln & Guba, 1985; Eisenhart & Howe, 1992: 647）。研究者应评估情境、参与者和环境的**典型性（typicality）**，识别可能的比较群体，并说明数据如何转化为不同环境和文化的意义（LeCompte & Preissle, 1993: 348）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 171–172)]]
 
 > [!claim] Schofield 的质性可推广性路径
 > Schofield (1996: 200) 认为[[Qualitative Research|质性研究]]提供清晰、详细和深入的描述至关重要——以便他人判断一项研究的发现在多大程度上可推广到另一种情境，即解决可比较性和可翻译性这一对问题。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性——即可迁移性）；以及进行**多场所研究**（multi-site studies，如 Miles & Huberman, 1984）。
@@ -157,7 +157,7 @@ Bogdan & Biklen (1992: 45) 从更广泛的角度总结：在质性研究中，�
 
 > [!note] 两种额外的效度威胁
 > 除内部效度和外部效度外，Creswell & Creswell (2022, Ch8) 还提到了另外两种效度威胁：
-> - **统计结论效度**（Statistical Conclusion Validity）：因统计功效不足或违反统计[[Hypothesis|假设]]而导致研究者从数据中得出不准确的推论。
+> - **统计结论效度（Statistical Conclusion Validity）** 因统计功效不足或违反统计[[Hypothesis|假设]]而导致研究者从数据中得出不准确的推论。
 > - **[[Construct Validity|构念效度]]威胁（Threats to [[Construct]] Validity）**：研究者使用不恰当的[[Variable|变量]]定义和测量方式，导致构念的[[Operationalization|操作化]]无法准确反映理论构念。
 
 > [!tension] 可推广性的[[Paradigm Wars|范式之争]]

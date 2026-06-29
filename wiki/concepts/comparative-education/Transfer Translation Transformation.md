@@ -74,21 +74,21 @@ updated: 2026-06-24
 > - **边界** 并非局限于静态的[[Policy Borrowing|政策借用]]分析，其优势在于可与空间社会学（如[[Space of Flows and Space of Places|流动空间]]）、权力分析等有机结合以提供深层机制解释。
 
 > [!citation-card]- 转移（Transfer）的阶段定义与原文
-> **空间移动（The Space-gate Moment）**：教育思想、制度或实践从原始语境跨空间移动，到达接受国的初始状态。这个阶段回答“谁将什么知识通过什么渠道带到何处”。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 255]])
+> **空间移动（The Space-gate Moment）** 教育思想、制度或实践从原始语境跨空间移动，到达接受国的初始状态。这个阶段回答“谁将什么知识通过什么渠道带到何处”。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 255]])
 > 
 > *“...transfer is the movement of an educational idea or practice in supra-national or transnational or inter-national space: the 'space-gate' moment”* (p. 255)
 >
 > （中译：转移是教育思想或实践在超国家、跨国或国际空间中的移动，即太空门时刻。）
 
 > [!citation-card]- 转译（Translation）的阶段定义与原文
-> **变色龙过程（The Chameleon Process）**：接受国的行动者根据自己的需求、语言与文化框架对外来教育现象进行初步重释与制度化。该阶段回答外来思想如何被接受国的法律、制度和课程语言重新[[Coding in Qualitative Research|编码]]。转译通常伴随空间转移而自动发生。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 255]])
+> **变色龙过程（The Chameleon Process）** 接受国的行动者根据自己的需求、语言与文化框架对外来教育现象进行初步重释与制度化。该阶段回答外来思想如何被接受国的法律、制度和课程语言重新[[Coding in Qualitative Research|编码]]。转译通常伴随空间转移而自动发生。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 255]])
 > 
 > *“...translation is the shape-shifting of educational institutions or the re-interpretation of educational ideas which routinely occurs with the transfer in space: 'the chameleon process'”* (p. 255)
 >
 > （中译：转译是教育制度的形变或教育思想的重释，通常伴随空间转移而发生，即变色龙过程。）
 
 > [!citation-card]- 转化（Transformation）的阶段定义与原文
-> **权力压缩变形（Metamorphoses）**：本土社会的社会、经济和政治权力进一步压缩并塑造转译产物，使其发生深层变形或本土化（indigenisation）。转化涵盖从本土化到灭绝（extinction）的连续变化范围，其产物可能与原始输入有了质的差异。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 255]])
+> **权力压缩变形（Metamorphoses）** 本土社会的社会、经济和政治权力进一步压缩并塑造转译产物，使其发生深层变形或本土化（indigenisation）。转化涵盖从本土化到灭绝（extinction）的连续变化范围，其产物可能与原始输入有了质的差异。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 255]])
 > 
 > *“...transformations are the metamorphoses which the compression of social and economic power into education in the new context imposes on the initial translation: that is, a range of transformations which cover both the indigenisation and the extinction of the translated form”* (p. 255)
 >
@@ -102,7 +102,7 @@ updated: 2026-06-24
 > | 维度 | 转移 (Transfer) | 转译 (Translation) | 转化 (Transformation) |
 > | :--- | :--- | :--- | :--- |
 > | **核心语义** | 思想或实践在超国家、跨国或国际空间中的物理移动。 | 接受国行动者对外来思想或制度的本土化重释与[[Coding in Qualitative Research\|编码]]。 | 社会经济与政治权力压缩对转译产物施加的二次重塑与改观。 |
-> | **隐喻意象** | **“太空门时刻” (Space-gate Moment)**：穿越地理边界进入本土边界的入口点。 | **“变色龙过程” (Chameleon Process)**：随接受国本土环境而自动变换形态颜色。 | **“本土化与灭绝” (Indigenisation & Extinction)**：因本土深层权力关系挤压而产生本质[[Shape-Shifting\|形变]]或消亡。 |
+> | **隐喻意象** | **“太空门时刻” (Space-gate Moment)** 穿越地理边界进入本土边界的入口点。 | **“变色龙过程” (Chameleon Process)** 随接受国本土环境而自动变换形态颜色。 | **“本土化与灭绝” (Indigenisation & Extinction)**：因本土深层权力关系挤压而产生本质[[Shape-Shifting\|形变]]或消亡。 |
 > | **分析重点** | 关注“谁将什么知识通过何种管道带到哪里”。 | 关注外来思想如何与接受国法律、体制与课程语言融合。 | 关注本土宏观社会矛盾与微观物质约束如何扭曲落地实践。 |
 
 > [!boundary]- 概念边界：3T 与相关外部概念对比
@@ -132,7 +132,7 @@ updated: 2026-06-24
 >
 >   > [!features] 转译机制与特征
 >   > - **[[Governance by Spin|舆论操控]]与“网络国家”**：政策制定者为了应对国际机构的评估压力并争取国内选民支持，常用舆论操控手段，故意在官方政策中并置互不兼容的声明。
->   > - **本土话语碰撞与杂糅**：漂浮能指遭遇本土积淀数百年的深层教学话语（如[[Encyclopaedism|百科全书主义]]），常被重[[Coding in Qualitative Research|编码]]以形成“革新其外表，保守其核心”的杂糅文本（hybrid discourse）。
+>   > - **本土话语碰撞与杂糅** 漂浮能指遭遇本土积淀数百年的深层教学话语（如[[Encyclopaedism|百科全书主义]]），常被重[[Coding in Qualitative Research|编码]]以形成“革新其外表，保守其核心”的杂糅文本（hybrid discourse）。
 >   > - **[[Recontextualization|再脉络化]]过滤机制**：接受者基于“想象出来的亲和性”和“感知到的不可兼容性”对思想进行选择性扭曲与重新嵌入，而非被动复制。[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]
 >
 > - **转化 (Transformation) — 地方实践落地与微观权力挤压**
@@ -140,17 +140,17 @@ updated: 2026-06-24
 >   新语境中社会、政治、经济权力的压缩以及微观物质约束对转译产物施加的深层结构形态重塑（Metamorphoses），其结果分布在“本土化”（indigenisation）到“灭绝”（extinction）的光谱上。
 >
 >   > [!features] 转化机制与特征
->   > - **从“博弈机会”到“行动障碍”**：官方政策中的模糊与不一致，在具体学校教学的“一致性要求”下，转化为了教师课堂层面的具体行动障碍。
->   > - **认知与物质条件双重挤压**：学校实践被领土特定的物理环境所锚定，受到教师既有认知和学校极端社会不平等（如贫困）等物质条件的强烈约束，被迫发生质的变形。
+>   > - **从“博弈机会”到“行动障碍”** 官方政策中的模糊与不一致，在具体学校教学的“一致性要求”下，转化为了教师课堂层面的具体行动障碍。
+>   > - **认知与物质条件双重挤压** 学校实践被领土特定的物理环境所锚定，受到教师既有认知和学校极端社会不平等（如贫困）等物质条件的强烈约束，被迫发生质的变形。
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变与学术脉络
-> - **1990s–2000s — 转移主题的重新聚焦 (Pre-3T Era)**：近年通过 Schriewer (1990, 2000)、Phillips (1993, 2004)、Popkewitz (1998, 2005) 等人的工作，重新确立了转移主题的重要性，从借用与转移、政治空间与国际权力、以及可见性话语等维度丰富了分析工具，超越了传统的“二元成败”借用研究。此前，学科曾被“方法论执迷”、“形式定义”与“情境描述”三个惯例分散了注意力，使转移作为理论问题退居幕后。[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 316–317]]
-> - **2009 — Cowen 3T 模型的正式提出 (Theory Formulation)**：[[Robert Cowen]] 提出 3T 框架，将转移主题从“借用与否”的二元评价，升级为追踪教育现象在跨境移动中“空间转移、变色龙式转译、权力压缩下的转化”的三阶段过程模型。
-> - **2009 — Beech 的空间与实践拓展 (Empirical Mapping)**：[[Jason Beech]] 结合 Castells 的[[Network Society|网络社会]]与[[Space of Flows and Space of Places|流动空间]]理论，将 3T 阶段分别与“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个具体的地理与社会空间进行了实证化映射与拓展。[[Argument_Beech_2009_CE|Beech, 2009, p. 348]]
+> - **1990s–2000s — 转移主题的重新聚焦 (Pre-3T Era)** 近年通过 Schriewer (1990, 2000)、Phillips (1993, 2004)、Popkewitz (1998, 2005) 等人的工作，重新确立了转移主题的重要性，从借用与转移、政治空间与国际权力、以及可见性话语等维度丰富了分析工具，超越了传统的“二元成败”借用研究。此前，学科曾被“方法论执迷”、“形式定义”与“情境描述”三个惯例分散了注意力，使转移作为理论问题退居幕后。[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 316–317]]
+> - **2009 — Cowen 3T 模型的正式提出 (Theory Formulation)**[[Robert Cowen]] 提出 3T 框架，将转移主题从“借用与否”的二元评价，升级为追踪教育现象在跨境移动中“空间转移、变色龙式转译、权力压缩下的转化”的三阶段过程模型。
+> - **2009 — Beech 的空间与实践拓展 (Empirical Mapping)**[[Jason Beech]] 结合 Castells 的[[Network Society|网络社会]]与[[Space of Flows and Space of Places|流动空间]]理论，将 3T 阶段分别与“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个具体的地理与社会空间进行了实证化映射与拓展。[[Argument_Beech_2009_CE|Beech, 2009, p. 348]]
 > - **2023 — Klerides 的国际关系[[Paradigm|范式]]引入 (Theoretical Expansion)**：Klerides 从[[Wight's Three Traditions of International Theory|国际关系理论]]视角拓展 3T 研究，指出教育转移受三大范式塑造：**现实主义**视其为由国家/国际权力等级塑造的单向跨国移动；**理性主义**视其为多方行动者参与的非线性“旅行政策”与“流动话语”；**[[Revolutionism|革命主义]]**视其为反支配的阶级斗争工具。[[Argument_Klerides_2023_CE|Klerides, 2023, pp. 422–427]]
 
 ---

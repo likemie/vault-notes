@@ -139,36 +139,36 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 在[[Qualitative Research|质性研究]]中，内部效度通过完全不同的方式处理。LeCompte & Preissle (1993: 338) 提出了五种解决方式（p.166）：
 
 > [!feature] 质性内部效度的解决方式（LeCompte & Preissle）
-> - **使用低推断描述符**（low-inference descriptors） 尽可能贴近原始数据和直接观察，减少研究者推断的跳跃
-> - **使用多名研究者**（multiple researchers） 多视角交叉检验，降低单人偏差
-> - **使用参与者研究者**（participant researchers） 让被研究者参与研究过程
-> - **使用同伴数据检查**（peer examination of data） 同行审查原始数据和解释
-> - **使用机械手段记录、存储和检索数据**（mechanical means） 录音、录像等技术手段减少人为记忆偏差
+> - **使用低推断描述符（low-inference descriptors）** 尽可能贴近原始数据和直接观察，减少研究者推断的跳跃
+> - **使用多名研究者（multiple researchers）** 多视角交叉检验，降低单人偏差
+> - **使用参与者研究者（participant researchers）** 让被研究者参与研究过程
+> - **使用同伴数据检查（peer examination of data）** 同行审查原始数据和解释
+> - **使用机械手段记录、存储和检索数据（mechanical means）** 录音、录像等技术手段减少人为记忆偏差
 
 > [!feature] 质性内部效度的八种主导类型（LeCompte & Preissle, 1993: 323–4）
 > - **数据置[[Reliability|信度]]**（confidence） 研究结论被数据充分支撑的程度
-> - **数据真实性**（authenticity） 通过参与者视角报告情境的能力
-> - **数据说服力**（cogency） 论证的逻辑力量和连贯性
-> - **研究设计稳健性**（soundness） 研究设计本身的合理性和严谨性
-> - **数据可信性**（credibility） 发现对被研究者而言是否可信——对应量化内部效度
-> - **数据可审计性**（auditability） 研究过程是否可被外部追踪和审查
-> - **数据可依赖性**（dependability） 研究过程和结果是否稳定可追踪——对应量化信度
-> - **数据可确认性**（confirmability） 研究发现由数据和参与者建构而来，而非研究者偏见——对应量化客观性
+> - **数据真实性（authenticity）** 通过参与者视角报告情境的能力
+> - **数据说服力（cogency）** 论证的逻辑力量和连贯性
+> - **研究设计稳健性（soundness）** 研究设计本身的合理性和严谨性
+> - **数据可信性（credibility）** 发现对被研究者而言是否可信——对应量化内部效度
+> - **数据可审计性（auditability）** 研究过程是否可被外部追踪和审查
+> - **数据可依赖性（dependability）** 研究过程和结果是否稳定可追踪——对应量化信度
+> - **数据可确认性（confirmability）** 研究发现由数据和参与者建构而来，而非研究者偏见——对应量化客观性
 
 ---
 
 ### 真实性的五个维度
 
 > [!dimension] 真实性的五个维度（LeCompte & Preissle）
-> - **公平性**（fairness）
+> - **公平性（fairness）**
 >   对情境中多重现实和建构的完整、平衡呈现——不应有任何一个相关群体的视角被忽略
 > - **[[Ontology|本体论]]真实性**（ontological authenticity）
 >   研究应提供对情境更精微（more sophisticated）的理解——使熟悉变得陌生（[[Making the Familiar Strange]]），这是减少研究者文化盲视（cultural blindness）的重要特征（Brock-Utne, 1996: 610）
-> - **教育真实性**（educative authenticity）
+> - **教育真实性（educative authenticity）**
 >   研究应对这些理解产生新的认识——不仅仅是复现已知，而是让参与者（和读者）以新的眼光看待熟悉的情境
 > - **[[Catalytic Validity|催化真实性]]**（catalytic authenticity）
 >   研究应引发具体行动——研究不应止于描述，而应推动改变
-> - **策略真实性**（tactical authenticity）
+> - **策略真实性（tactical authenticity）**
 >   研究应惠及所有涉及者（benefit to all involved）——这是受益（beneficence）伦理问题的体现
 
 ---
@@ -178,11 +178,11 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 Hammersley (1992b: 71) 从更务实的角度提出质性内部效度需要注意三个层次（p.167）：
 
 > [!dimension] Hammersley 的三层次框架
-> - **合理性与可信性**（plausibility and credibility）
+> - **合理性与可信性（plausibility and credibility）**
 >   解释必须在理性上站得住脚——这是最基本的要求。如果一项解释连基本的合理性都不具备，后续的证据讨论就失去了意义。
-> - **证据的种类和数量**（kinds and amounts of evidence）
+> - **证据的种类和数量（kinds and amounts of evidence）**
 >   主张越大，证据就必须越有说服力。一个声称"所有中国教师都…"的主张需要的证据量，与一个声称"本研究中的三位教师…"的主张截然不同。
-> - **主张类型的清晰度**（clarity on kinds of claim）
+> - **主张类型的清晰度（clarity on kinds of claim）**
 >   研究者必须明确自己做出的是什么类型的主张——是定义性主张（defining what something is）、描述性主张（describing what happened）、解释性主张（explaining why it happened）还是理论生成性主张（generating theory from data）？不同类型的主张需要不同程度的证据支撑和不同类型的效度论证。
 
 ---

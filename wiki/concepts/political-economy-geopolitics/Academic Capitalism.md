@@ -66,16 +66,16 @@ updated: 2026-06-01
 ## 核心要素
 
 > [!abstract]
-> - **市场导向的院校行为**：大学通过专利商业化、[[University-Industry Collaboration|产学合作]]研究、捐赠基金投资和竞争性项目拨款寻求外部资金([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])
-> - **公共与私人资金的交织**：公共资金大量资助营利性院校的扩张——如美国营利性高校的增长在很大程度上由联邦学生贷款和拨款支撑（Douglass, 2012; Mettler, 2014; Eaton et al., 2016）
-> - **学术劳动力的重新组织**：初级学者和兼职教师面临不稳定工作条件，研究者面临增加引用数和获取拨款的激励，这可能诱发表面化甚至欺诈性行为([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.796]])
-> - **国家角色的转变**：国家从直接资助者转变为市场框架的设定者和竞争秩序的维护者，通过立法（如美国的 Bayh–Dole Act of 1980）和拨款机制重塑学术[[Champ|场域]]([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.800–801]])
+> - **市场导向的院校行为** 大学通过专利商业化、[[University-Industry Collaboration|产学合作]]研究、捐赠基金投资和竞争性项目拨款寻求外部资金([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])
+> - **公共与私人资金的交织** 公共资金大量资助营利性院校的扩张——如美国营利性高校的增长在很大程度上由联邦学生贷款和拨款支撑（Douglass, 2012; Mettler, 2014; Eaton et al., 2016）
+> - **学术劳动力的重新组织** 初级学者和兼职教师面临不稳定工作条件，研究者面临增加引用数和获取拨款的激励，这可能诱发表面化甚至欺诈性行为([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.796]])
+> - **国家角色的转变** 国家从直接资助者转变为市场框架的设定者和竞争秩序的维护者，通过立法（如美国的 Bayh–Dole Act of 1980）和拨款机制重塑学术[[Champ|场域]]([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.800–801]])
 
 ## 理论背景
 
 > [!tip]-
-> - **制度变迁理论**（institutional change）：用于解释学术资本主义在不同国家和福利体制中的差异性表现——不同政治经济体在市场化进程中展现出强路径依赖([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.803–804]])
-> - **马克思主义政治经济学**：将学术资本主义置于[[Knowledge Capitalism|知识资本主义]]的更广泛系统动力中理解，关注剥削、利润导向和阶级斗争在[[Knowledge-Based Economy|知识经济]]中的形态(Jessop, 2007; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])
+> - **制度变迁理论（institutional change）** 用于解释学术资本主义在不同国家和福利体制中的差异性表现——不同政治经济体在市场化进程中展现出强路径依赖([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.803–804]])
+> - **马克思主义政治经济学** 将学术资本主义置于[[Knowledge Capitalism|知识资本主义]]的更广泛系统动力中理解，关注剥削、利润导向和阶级斗争在[[Knowledge-Based Economy|知识经济]]中的形态(Jessop, 2007; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])
 > - **Bourdieu [[Champ|场域]]理论**：[[Pierre Bourdieu]] 的"学术阶级分数"（fractions of the academic class）概念被重新用于分析教授和学术官员的不同再生产模式及与统治阶级的关系(Möller, 2015; Graf, 2015; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 
 ## 学术资本主义的多样性

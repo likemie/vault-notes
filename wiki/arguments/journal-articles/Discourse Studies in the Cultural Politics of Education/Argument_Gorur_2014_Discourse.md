@@ -71,25 +71,25 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：追踪"科学在行动"的实践(Latour, 1987, 1999)；[[Document|文献]]档案分析
-> - **数据来源**：[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 UNESCO 和 [[OECD]] 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 Stephen Heyneman（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录(p.5)
+> - **方法** 追踪"科学在行动"的实践(Latour, 1987, 1999)；[[Document|文献]]档案分析
+> - **数据来源**[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 UNESCO 和 [[OECD]] 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 Stephen Heyneman（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录(p.5)
 
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提/观察**：[[OECD]] 的[[International Education|国际教育]]指标（[[Education at a Glance|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识(p.4, 8)
+> 1. **前提/观察**[[OECD]] 的[[International Education|国际教育]]指标（[[Education at a Glance|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识(p.4, 8)
 >
-> 2. **论证步骤**：
+> 2. **论证步骤**
 >
->    **(a) 科学的妥协**：[[International Indicators of Education Systems|INES]] 从一开始就放弃了科学研究的标准方法——放弃寻找普遍教育[[Luhmann's Systems Theory|系统理论]]模型，转而采用以可用性为导向的经验方法(p.10)。"不完美的数据总比没有数据好"成为核心论证逻辑。坚持统计纯度被视为阻碍(p.11)
+>    **(a) 科学的妥协**[[International Indicators of Education Systems|INES]] 从一开始就放弃了科学研究的标准方法——放弃寻找普遍教育[[Luhmann's Systems Theory|系统理论]]模型，转而采用以可用性为导向的经验方法(p.10)。"不完美的数据总比没有数据好"成为核心论证逻辑。坚持统计纯度被视为阻碍(p.11)
 >
->    **(b) 权力的转移**：Lugano 1991 是分水岭时刻——政策制定者强行将学生成绩数据纳入 EAG，科学家失去对指标生产端的控制权。控制权从统计学家和社会科学专家转移到政府官员手中，心理测量学家成为官员的盟友(p.12–13)
+>    **(b) 权力的转移** Lugano 1991 是分水岭时刻——政策制定者强行将学生成绩数据纳入 EAG，科学家失去对指标生产端的控制权。控制权从统计学家和社会科学专家转移到政府官员手中，心理测量学家成为官员的盟友(p.12–13)
 >
->    **(c) 指标的制度化与 routinisation**：曾经激烈的辩论转变为协议，协议转变为常规——数据生成的常规、统计公式应用的常规、年度出版的常规。方法论程序化产生了"机械客观性"(Porter, 1995; p.17)。共识可视为[[Transfer Translation Transformation|转译]](Callon, 1986; Latour, 1999)，通过纳入多样化利益使 EAG 能够高效常规生产(p.17)
+>    **(c) 指标的制度化与 routinisation** 曾经激烈的辩论转变为协议，协议转变为常规——数据生成的常规、统计公式应用的常规、年度出版的常规。方法论程序化产生了"机械客观性"(Porter, 1995; p.17)。共识可视为[[Transfer Translation Transformation|转译]](Callon, 1986; Latour, 1999)，通过纳入多样化利益使 EAG 能够高效常规生产(p.17)
 >
 >    **(d) 测量的 [[Performativity]]**：指标一旦存在就作用于世界——改变理解和行为、物化非原始的[[Causality|因果关系]]、使被排除在计算之外的领域失去重要性。赋予"可计算性特征"本身就是改变世界的行为(p.15–18)
 >
-> 3. **结论**：测量不是描述性的而是生产性的（世界制造过程）。对测量的批判不仅应指出其简化论或不准确性（这种批判仍属再现论框架），而应理解其 instrumentalism（提供干预的潜在切入点）和 world-making 功能（提供承担此类研究的道德和伦理动力）。在测量深度影响政策的时代，"批判作为一种道德事业"（critique as a moral enterprise）是必要的(p.18–19)
+> 3. **结论** 测量不是描述性的而是生产性的（世界制造过程）。对测量的批判不仅应指出其简化论或不准确性（这种批判仍属再现论框架），而应理解其 instrumentalism（提供干预的潜在切入点）和 world-making 功能（提供承担此类研究的道德和伦理动力）。在测量深度影响政策的时代，"批判作为一种道德事业"（critique as a moral enterprise）是必要的(p.18–19)
 
 ## 主要发现
 

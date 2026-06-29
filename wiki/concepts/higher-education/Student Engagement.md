@@ -73,20 +73,20 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]-
-> - **1984 前身**：Astin 提出[[Student Involvement|学生涉入]]理论，奠定"投入-成果"关联的基础[[Hypothesis|假设]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984）
-> - **1991 系统化**：Kuh 在 Astin 和 Tinto 基础上，于 *Involving Colleges* 中系统提出学生投入理论，将投入[[Operationalization|操作化]]为可观察的行为指标，并首次强调学校的制度性支持角色（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
-> - **2000s 实证积累**：Pascarella & Terenzini（2005）综合大量实证研究，确认投入-成果的正向关联([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
-> - **2023 中国教育研究深化**：[[Yajun Zheng|郑雅君]]在 Kuh 基础上引入**方向性**维度——投入不仅有多寡之分（量），更有策略性方向的区别（质）。这一发现超越了"投入越多越好"的线性假设([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **1984 前身** Astin 提出[[Student Involvement|学生涉入]]理论，奠定"投入-成果"关联的基础[[Hypothesis|假设]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984）
+> - **1991 系统化** Kuh 在 Astin 和 Tinto 基础上，于 *Involving Colleges* 中系统提出学生投入理论，将投入[[Operationalization|操作化]]为可观察的行为指标，并首次强调学校的制度性支持角色（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991; Kuh, Schuh & Whitt, 1991）
+> - **2000s 实证积累**Pascarella & Terenzini（2005）综合大量实证研究，确认投入-成果的正向关联([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **2023 中国教育研究深化**[[Yajun Zheng|郑雅君]]在 Kuh 基础上引入**方向性**维度——投入不仅有多寡之分（量），更有策略性方向的区别（质）。这一发现超越了"投入越多越好"的线性假设([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> - **教育性实践活动**：投入的对象是大学中有教育意义的课内外活动——包括课程学习、师生互动、学生组织、实习、志愿服务等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991）
-> - **投入的量**：投入时间和精力的多少，可量化为 GPA、活动参与频率、组织领导职务级别等指标([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
-> - **投入的质（方向性）**：投入是否具有明确的策略性方向——目标掌控者的投入围绕生涯目标进行方向明确的组织，直觉依赖者的投入"持续偏低且无方向性"。这一点是郑雅君（2023）对 Kuh 原始理论的深化（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引牛新春和郑雅君，2018）
-> - **学校的制度性支持**：Kuh 强调学校通过课程设计、课外活动和服务体系来推动学生投入——投入不仅是学生的责任，也是学校的责任（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991）
+> - **教育性实践活动** 投入的对象是大学中有教育意义的课内外活动——包括课程学习、师生互动、学生组织、实习、志愿服务等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991）
+> - **投入的量** 投入时间和精力的多少，可量化为 GPA、活动参与频率、组织领导职务级别等指标([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **投入的质（方向性）** 投入是否具有明确的策略性方向——目标掌控者的投入围绕生涯目标进行方向明确的组织，直觉依赖者的投入"持续偏低且无方向性"。这一点是郑雅君（2023）对 Kuh 原始理论的深化（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引牛新春和郑雅君，2018）
+> - **学校的制度性支持** Kuh 强调学校通过课程设计、课外活动和服务体系来推动学生投入——投入不仅是学生的责任，也是学校的责任（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Kuh, 1991）
 
 ---
 
@@ -124,7 +124,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - **"中立过程"[[Hypothesis|假设]]**：投入被默认为"由学生自己决定、不牵涉阶层种族等社会因素的中立过程"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
-> - **"投入越多越好"的线性假设**：[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的发现挑战了这一假设——投入的方向性和策略性可能比投入的总量对毕业出路的影响更关键。泽斌明确声称大学学习"也就占个不超过 20%"，但他通过策略性地将时间投入到实习和职业探索，最终获得满意就业结果。与之对照，牛铭同样投入了学生会和社团活动，但因"方向不明确"而未能有效转化([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **"投入越多越好"的线性假设**[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的发现挑战了这一假设——投入的方向性和策略性可能比投入的总量对毕业出路的影响更关键。泽斌明确声称大学学习"也就占个不超过 20%"，但他通过策略性地将时间投入到实习和职业探索，最终获得满意就业结果。与之对照，牛铭同样投入了学生会和社团活动，但因"方向不明确"而未能有效转化([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 > - 前沿研究已开始探索学生投入出现阶层差异的机制问题，但高等教育学领域整体仍将大学预设为公平竞技场([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---

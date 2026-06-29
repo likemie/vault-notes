@@ -149,10 +149,10 @@ citation_aliases:
 大学和企业的关系之所以可能，是因为它们在目标上有交集——但交集不完全。大学的核心使命——研究、教学、公共服务——分别对应[[University-Industry Collaboration|产学合作]]的三重回报；但要实现这些使命，大学还需要财务资源（financial resources）和正向声誉（positive reputation）。企业同样追求财务回报和声誉，但比例和优先级不同(pp.5–7)。
 
 > [!abstract]
-> **对齐（alignment）的三个层次**：
-> - **高度对齐的领域**：人才发展（workforce development）、经济增长、知识产权——双方都有强烈动机
-> - **部分对齐的领域**：研究与学术——大学视其为目的本身，企业更多将其视为服务于盈利的手段
-> - **容易分歧的领域**：盈利 vs 学术声誉——从研究发现到"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求研究影响力
+> **对齐（alignment）的三个层次**
+> - **高度对齐的领域** 人才发展（workforce development）、经济增长、知识产权——双方都有强烈动机
+> - **部分对齐的领域** 研究与学术——大学视其为目的本身，企业更多将其视为服务于盈利的手段
+> - **容易分歧的领域** 盈利 vs 学术声誉——从研究发现到"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求研究影响力
 
 > [!info]- 核心数据
 > 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（[[National Science Foundation|NSF]], 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半(p.5)。这意味着产学合作的驱动力不应是大学的财务需求——产业资金在大学预算中始终是次要角色。
@@ -180,9 +180,9 @@ citation_aliases:
 
 面对这些结构性张力，全书从两个层面给出了回应：
 
-1. **历史层面**：美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]](1862)赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]](1914)的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth & Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"，这些正是美国体系的特征(pp.11–12)。
+1. **历史层面** 美国大学体系的独特性——[[Morrill Land-Grant Act of 1862|Morrill Act]](1862)赠地大学的实践教育传统、[[Smith Lever Act of 1914|Smith Lever Act]](1914)的农业推广服务、学术自由与客观性的制度价值——为产学合作创造了世界范围内少有的有利条件。Hollingsworth & Hollingsworth（2011, p.27）指出"持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"，这些正是美国体系的特征(pp.11–12)。
 
-2. **制度层面**：[[University Industry Demonstration Partnership|UIDP]]（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、[[Partnership Continuum]] 和 Collaboration Metrics et al.项目代表了从合同细节到战略联盟的系统性解决方案(pp.16–20)。
+2. **制度层面**[[University Industry Demonstration Partnership|UIDP]]（University Industry Demonstration Partnership）的案例表明，解决产学合作障碍需要超越"一刀切"合同模板的社区化方法——创造一个促进多边理解、改善沟通和支持人际连接的论坛。从 2004 年白皮书到 2015 年独立为非营利组织，UIDP 的 Contract Accords、[[Partnership Continuum]] 和 Collaboration Metrics et al.项目代表了从合同细节到战略联盟的系统性解决方案(pp.16–20)。
 
 ---
 

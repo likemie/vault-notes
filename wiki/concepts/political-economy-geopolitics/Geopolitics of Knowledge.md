@@ -114,7 +114,7 @@ updated: 2026-05-20
 
 > [!boundary]- 概念边界
 > - **不等于[[Classical Geopolitics|古典地缘政治]]**：古典地缘政治以领土控制、军事力量和民族国家为中心；GPK 关注[[Relational Space|关系性空间]]构型，核心维度是政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]（Thompson & Parreira do Amaral, 2022, pp.9–11）。
-> - **不等于地缘经济学**（geoeconomics）：地缘经济学强调贸易、投资和市场逻辑，与 GPK 共享经济竞争关注但较少涉及[[Knowledge Production|知识生产]]的政治和[[Epistemology|认识论]]维度（Thompson & Parreira do Amaral, 2022, p.11）。
+> - **不等于地缘经济学（geoeconomics）** 地缘经济学强调贸易、投资和市场逻辑，与 GPK 共享经济竞争关注但较少涉及[[Knowledge Production|知识生产]]的政治和[[Epistemology|认识论]]维度（Thompson & Parreira do Amaral, 2022, p.11）。
 > - **不限于[[International Education|国际教育]]政策**：GPK 渗透到认识论治理（研究资助分配机制）和主体性生产的微观层面，远超出国际教育政策范畴。
 
 ---
@@ -159,7 +159,7 @@ updated: 2026-05-20
 
 > [!quad-grid]
 > - **美国**
->   精英大学大规模资助外国博士生培养，利用相对开放的移民制度招募全球人才（尤其是中国和印度的研究生），同时增强了美国的科研实力和软实力
+>   精英大学大规模资助外国博士生培养，利用相对开放的移民制度招募全球人才（尤其是中国和印度的研究生），同时增强了美国的科研实力和[[Soft Power|软实力]]
 > - **英国**
 >   利用继承的学术地位吸引并货币化跨境学生，以国际学生收入替代下降的公共拨款，在节省财政支出的同时扩大新殖民软实力
 > - **澳大利亚**
@@ -201,7 +201,7 @@ updated: 2026-05-20
 > 大学在知识经济化中成为根本性的地缘政治场所——高等教育空间被用于塑造知识密集型资本主义所需的主体性（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]]）。从宏观到微观：排名与竞争力话语重塑机构行为 → [[Online Self-Assessment|OSA]] 将 GPK 竞争逻辑[[Operationalization|操作化]]为个体化自我评估 → [[Promising Student|有前景的学生]]作为教学治理层的主体形态（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]]）。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]进一步将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示其通过远距治理机制运作。详见 [[Governmentality#全球治理技术]]。
 
 > [!line-b] 认识论治理与治理理性转换
-> GPK 渗透到认识论治理层面：**研究资助的分配机制**通过制度设计将特定的认识论[[Paradigm|范式]]固化为唯一合理的选择——不宣称任何认识论立场，而是通过制度安排使其默认化（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]]）。典型案例：Horizon 2020 将 SSH 研究从独立资助渠道改为横向嵌入，要求"直接为政策制定的证据基础做贡献"，实质上将其缩减为对技术科学创新和经济竞争力的工具性辅助（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。[[International Education Hubs|国际教育枢纽]]等项目同时指示了**治理理性转换**：从社会/教育范畴（可及性、公平、开放研究）转向经济范畴（收入创造、可专利研究、经济竞争力）（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）。
+> GPK 渗透到认识论治理层面：**研究资助的分配机制**通过制度设计将特定的认识论[[Paradigm|范式]]固化为唯一合理的选择——不宣称任何认识论立场，而是通过制度安排使其默认化（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]]）。典型案例：Horizon 2020 将 SSH 研究从独立资助渠道改为横向嵌入，要求"直接为政策制定的证据基础做贡献"，实质上将其缩减为对技术科学创新和经济竞争力的工具性辅助（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。[[International Education Hubs|国际教育枢纽]]等项目同时指示了**治理理性转换** 从社会/教育范畴（可及性、公平、开放研究）转向经济范畴（收入创造、可专利研究、经济竞争力）（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）。
 
 ---
 
@@ -291,14 +291,14 @@ updated: 2026-05-20
 
 关于"亚洲崛起意味着什么"，存在四种竞争性解读（中国中心论、中美对决论、多文明系统论、西方延续论），但无论接受哪种解读，亚洲崛起对全球高等教育的结构性影响都是不可否认的（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.92–96]]）。
 
-**国际化的理性转移**：Rizvi 的核心发现是：国际化的主导话语和理性已从"发展主义"（帮助发展中国家现代化、能力建设、国际理解）转向"市场理性"（收入创造、全球排名、品牌建设、人力资源开发）。高等教育被视为**出口产业**——成功的标准从培养了多少人才转变为招了多少全额付费学生、全球排名上升了多少位([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。详见 [[Internationalization of Higher Education|高等教育国际化]] > 概念演变。
+**国际化的理性转移** Rizvi 的核心发现是：国际化的主导话语和理性已从"发展主义"（帮助发展中国家现代化、能力建设、国际理解）转向"市场理性"（收入创造、全球排名、品牌建设、人力资源开发）。高等教育被视为**出口产业**——成功的标准从培养了多少人才转变为招了多少全额付费学生、全球排名上升了多少位([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。详见 [[Internationalization of Higher Education|高等教育国际化]] > 概念演变。
 
 > [!finding-cards] 市场化转型的三重连锁后果
 > 1. **公共价值被"挤出"** 随着国际学生学费成为主要收入来源，"政府不再感到有必要为高等教育机构提供所需的公共资金"（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]]）
 > 2. **内生私有化的永久化** 以澳大利亚为例——招收全额付费国际学生的成功，使政府有底气推动其他市场导向政策。"内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"（Ball, 2012, cit. in Rizvi, 2022, pp.97–98）
 > 3. **NPM 的企业化改造** NPM 的理念、技术和实践被从企业部门广泛引入，使公立高等教育机构更像企业运作。本地代理网络、跨国项目、特许经营安排、学分衔接和双联安排——彻底改造了全球高等教育的空间架构（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]]）
 
-**亚洲中产阶级作为 GPK 的驱动力量**：Rizvi 的分析展示了[[Critical Geopolitics|批判地缘政治学]]关注"日常经验"的洞察如何具体化。亚洲中产阶级对西方教育的渴望深植于殖民历史——海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.96]]）。一个曼谷或上海中产家庭决定送孩子去悉尼大学读书，这个看似私人的消费决策，汇聚成巨大的资金流和人员流，改变了西方大学的财政结构、政府的政策取向，甚至影响了澳大利亚与亚洲国家之间的外交关系([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])。详见 Rizvi 论证 > 第四步。
+**亚洲中产阶级作为 GPK 的驱动力量** Rizvi 的分析展示了[[Critical Geopolitics|批判地缘政治学]]关注"日常经验"的洞察如何具体化。亚洲中产阶级对西方教育的渴望深植于殖民历史——海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"和"社会地位和声望的标志"（Ong, 2006, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.96]]）。一个曼谷或上海中产家庭决定送孩子去悉尼大学读书，这个看似私人的消费决策，汇聚成巨大的资金流和人员流，改变了西方大学的财政结构、政府的政策取向，甚至影响了澳大利亚与亚洲国家之间的外交关系([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])。详见 Rizvi 论证 > 第四步。
 
 > [!quad-grid] 推动[[Transnational Research Collaboration|跨国研究合作]]的四重理性
 > - **学术合作**（研究者话语）
@@ -308,7 +308,7 @@ updated: 2026-05-20
 > - **贸易促进**（经济部长话语）
 >   国家的贸易和外交目标——研究合作作为双边经济关系的软性基础设施
 > - **公共外交**（外交部长话语）
->   国家软实力投射——通过高等教育合作建立持续性跨国信任关系
+>   国家[[Soft Power|软实力]]投射——通过高等教育合作建立持续性跨国信任关系
 
 这种多重[[Coding in Qualitative Research|编码]]使得[[Transnational Research Collaboration|跨国研究合作]]成为一个不同行动者都能从中找到合法性的话语[[Champ|场域]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]]）。
 
@@ -404,8 +404,8 @@ updated: 2026-05-20
 > [!tension] 核心争议
 > GPK 内部存在三组理论张力：
 > - **[[Critical Geopolitics|批判地缘政治学]] vs 去殖民传统**：谁的问题更根本？建构地缘政治秩序的空间想象（批判传统）vs [[Epistemology|认识论]]本身的殖民性（去殖民传统）。二者可综合互补（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）
-> - **Partaken 的两面批判**：后殖民 GPK 传统是否过度聚焦[[Knowledge Production|知识生产]]而忽视[[Knowledge Transfer|知识转移]]的动态现实——挪用、间谍、审查和破坏才是当代 GPK 竞争的主战场？（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75]]）
-> - **经济中心化争议**：GPK 框架是否过度强调经济逻辑，从而系统性地忽视高等教育的文化、伦理和民主功能？（Thompson & Parreira do Amaral, 2022, pp.12–13）
+> - **Partaken 的两面批判** 后殖民 GPK 传统是否过度聚焦[[Knowledge Production|知识生产]]而忽视[[Knowledge Transfer|知识转移]]的动态现实——挪用、间谍、审查和破坏才是当代 GPK 竞争的主战场？（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75]]）
+> - **经济中心化争议** GPK 框架是否过度强调经济逻辑，从而系统性地忽视高等教育的文化、伦理和民主功能？（Thompson & Parreira do Amaral, 2022, pp.12–13）
 
 > [!warning] 方法论批评与适用局限
 > - 后殖民和去殖民学者批评西方中心的 GPK 概念本身即带有殖民性，需通过"认识论不服从"和转换"推理的地理"加以解构（Mignolo, 2009; Thompson & Parreira do Amaral, 2022, p.10）

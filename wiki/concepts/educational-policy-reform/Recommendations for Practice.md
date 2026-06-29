@@ -60,9 +60,9 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **行动导向**：RFP 不只是解释发现，而是把发现转化为教师、学校或政策制定者应采取的行动建议([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **行动导向** RFP 不只是解释发现，而是把发现转化为教师、学校或政策制定者应采取的行动建议([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 > - **[[Causality|因果]]含义**：即使措辞较弱，RFP 通常仍暗含"改变实践会改善结果"的因果结构；这使其证据要求高于单纯描述性结论([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3-4]])。
-> - **范围与强度差异**：[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 在[[Coding in Qualitative Research|编码]]中观察到，一些 RFP 紧贴[[Study Population and Sample|研究样本]]，另一些则泛化到更广人群；一些使用 "may" 或 "might" 等弱化词，但强而广泛的 RFP 在[[Non-intervention Research|非干预研究]]中尤其值得警惕([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
+> - **范围与强度差异**[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 在[[Coding in Qualitative Research|编码]]中观察到，一些 RFP 紧贴[[Study Population and Sample|研究样本]]，另一些则泛化到更广人群；一些使用 "may" 或 "might" 等弱化词，但强而广泛的 RFP 在[[Non-intervention Research|非干预研究]]中尤其值得警惕([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
 
 ## 与相关概念的区别
 
@@ -95,8 +95,8 @@ updated: '2026-05-18'
 
 > [!warning] [[Non-intervention Research|非干预研究]]能否提出实践建议
 > 争议核心在于：教育心理学研究既有改善实践的公共使命，又必须避免把非[[Causality|因果]]证据包装成因果行动建议。
-> - **谨慎或限制立场**：Robinson et al. (2013) 曾主张，即使是经验研究，单项研究也不应轻易给出 RFP；[[Systematic Review|系统综述]]和多项实验的累积证据更适合支撑实践建议([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
-> - **保留但要求扎根立场**：Alexander (2013) 与 Harris (2013) 等回应认为，完全排除 RFP 会违背教育心理学改善学习的目标，但 RFP 应当有适当证据基础，并可作为未来研究方向([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **谨慎或限制立场**Robinson et al. (2013) 曾主张，即使是经验研究，单项研究也不应轻易给出 RFP；[[Systematic Review|系统综述]]和多项实验的累积证据更适合支撑实践建议([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **保留但要求扎根立场**Alexander (2013) 与 Harris (2013) 等回应认为，完全排除 RFP 会违背教育心理学改善学习的目标，但 RFP 应当有适当证据基础，并可作为未来研究方向([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 > 目前较强共识是：RFP 若包含因果行动建议，应与研究方法能支持的推论边界一致；非[[Intervention Research|干预研究]]中的强因果建议尤其需要谨慎([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.4, 9]])。
 
 ## 相关案例／政策

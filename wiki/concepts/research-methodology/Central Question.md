@@ -77,15 +77,15 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 > [!abstract]
 > 撰写质性核心问题的规则（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 >
-> 1. **以一个或两个核心问题为主**：提出最宽泛的问题——"在我的研究中，我能提出的最宽泛问题是什么？"
-> 2. **辅以五至七个子问题**：将核心问题收窄为数据收集用的具体问题
-> 3. **关联特定的质性路径**：[[Ethnography|民族志]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Case Study|案例研究]]的问题形式各有不同
-> 4. **以 what 或 how 开头**：传达开放和[[Emergence|涌现]]的设计
+> 1. **以一个或两个核心问题为主** 提出最宽泛的问题——"在我的研究中，我能提出的最宽泛问题是什么？"
+> 2. **辅以五至七个子问题** 将核心问题收窄为数据收集用的具体问题
+> 3. **关联特定的质性路径**[[Ethnography|民族志]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Case Study|案例研究]]的问题形式各有不同
+> 4. **以 what 或 how 开头** 传达开放和[[Emergence|涌现]]的设计
 > 5. **聚焦单一[[Central Phenomenon|核心现象]]或概念**：深入研究一个焦点
-> 6. **使用探索性动词**：report/reflect（[[Narrative Research|叙事研究]]）、describe the essence（现象学）、discover/generate（扎根理论）、seek to understand（民族志）、explore（案例研究）、describe the themes（[[Descriptive Analysis|描述性分析]]）
-> 7. **预计问题会演变**：[[Qualitative Research|质性研究]]中的问题处于持续审查和重写的状态
-> 8. **使用开放性问题**：除非质性路径另有要求，否则不引用[[Document|文献]]或理论
-> 9. **指定参与者和研究场所**：如果信息尚未提供
+> 6. **使用探索性动词** report/reflect（[[Narrative Research|叙事研究]]）、describe the essence（现象学）、discover/generate（扎根理论）、seek to understand（民族志）、explore（案例研究）、describe the themes（[[Descriptive Analysis|描述性分析]]）
+> 7. **预计问题会演变**[[Qualitative Research|质性研究]]中的问题处于持续审查和重写的状态
+> 8. **使用开放性问题** 除非质性路径另有要求，否则不引用[[Document|文献]]或理论
+> 9. **指定参与者和研究场所** 如果信息尚未提供
 
 ---
 

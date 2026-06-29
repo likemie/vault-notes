@@ -64,9 +64,9 @@ updated: '2026-05-18'
 ### 规模爆炸：41 年增长 60 倍
 
 > [!note]-
-> - **1964 年**：全球仅约 50 所国际学校([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]])
-> - **1994 年**：约 1,000 所、教师 5 万、学生 50 万（Hayden & Thompson, 1998, p.333，转引自 Slethaug, 2010, p.22）
-> - **2005 年**：约 3,000 所、约 200 万学生（Greenlees, 2006，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]]）
+> - **1964 年** 全球仅约 50 所国际学校([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]])
+> - **1994 年** 约 1,000 所、教师 5 万、学生 50 万（Hayden & Thompson, 1998, p.333，转引自 Slethaug, 2010, p.22）
+> - **2005 年** 约 3,000 所、约 200 万学生（Greenlees, 2006，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]]）
 > - 仅香港就有 58 所国际学校（2008 年），中国大陆全境仅 64 所、印度 76 所([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.22]])
 
 ### 去国家化：学生构成的根本逆转
@@ -114,8 +114,8 @@ updated: '2026-05-18'
 > [!warning]
 > ### 师资培训的系统性缺失
 > 国际学校的爆炸式增长并未伴随相应的师资培养体系。全球仅极少数大学设有[[International Education|国际教育]]专业项目([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.32–33]])：
-> - **英国/欧洲**：巴斯大学国际教育中心、牛津布鲁克斯 OICEM、剑桥大学国际考试（国际教师证书）
-> - **美国**：密歇根州立大学（海外教育研究）、恩迪科特学院（国际教育硕士）、乔治梅森大学（国际教育中心）、佛蒙特国际培训学校
+> - **英国/欧洲** 巴斯大学国际教育中心、牛津布鲁克斯 OICEM、剑桥大学国际考试（国际教师证书）
+> - **美国** 密歇根州立大学（海外教育研究）、恩迪科特学院（国际教育硕士）、乔治梅森大学（国际教育中心）、佛蒙特国际培训学校
 >
 > 对于一个服务 200 万+ 学生、3,000+ 所学校的产业而言，这个师资培养体系的规模微不足道。这意味着大多数国际学校的教师未受过专门国际教育训练——他们带着自己国家的教学[[Hypothesis|假设]]走进多元文化课堂，旧的刻板印象和"智识殖民主义"因此持续运作([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.33]])。
 

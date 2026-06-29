@@ -84,10 +84,10 @@ updated: '2026-05-18'
 > [!note-] 概念演变
 > 知识资本主义作为系统性的[[Analytic Framework|分析框架]]由 Peters (2013) 阐述，但其知性根源可追溯至更早的学术脉络：
 >
-> - **1950s–1960s**：Drucker (1959) 提出"知识工作者"概念，Bell (1973) 在 *The Coming of Post-Industrial Society* 中强调理论知识在后工业社会中的相对重要性——这些为知识资本主义提供了概念先驱([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])。详见 [[Knowledge-Based Economy|知识经济]] > 学术脉络
-> - **1986**：Romer 的内生增长理论为知识作为资本提供了经济学基础——知识和人力资本投资被视为不受有限限制的增长关键资产([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
-> - **1990s–2000s**：[[OECD]]、世界银行等国际组织将 KBE 话语系统性地嵌入全球政策框架，知识资本主义从学术概念转化为政策实践
-> - **2013**：Peters 系统阐述知识资本主义作为理解高等教育全球转型的分析框架
+> - **1950s–1960s**Drucker (1959) 提出"知识工作者"概念，Bell (1973) 在 *The Coming of Post-Industrial Society* 中强调理论知识在后工业社会中的相对重要性——这些为知识资本主义提供了概念先驱([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])。详见 [[Knowledge-Based Economy|知识经济]] > 学术脉络
+> - **1986** Romer 的内生增长理论为知识作为资本提供了经济学基础——知识和人力资本投资被视为不受有限限制的增长关键资产([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
+> - **1990s–2000s**[[OECD]]、世界银行等国际组织将 KBE 话语系统性地嵌入全球政策框架，知识资本主义从学术概念转化为政策实践
+> - **2013** Peters 系统阐述知识资本主义作为理解高等教育全球转型的分析框架
 >
 
 
@@ -96,10 +96,10 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **知识作为首要资本形式**：财富创造的核心从自然资源和有形资产转向无形资产（知识、信息、人力资本）（Dunning, 2000, p.8, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]]）
-> - **高等教育的资本化**：大学被重新定位为[[Knowledge-Based Economy|知识经济]]中产生价值和比较优势的核心基础设施——教学和研究优先级被市场价值所主导([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])。详见 知识经济 > 核心要素
-> - **知识的商品化**：知识——包括专家、专业人员、学者和制度行动者的[[Knowledge Production|知识生产]]过程——成为可交易的商品（Moisio, 2018, p.9, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.39]]）
-> - **教育作为人力资本投资**：教育被重新框定为个人和国家在全球知识经济中竞争的人力资本投资——这一话语深刻影响了从亚洲中产阶级的教育消费到国家教育出口战略的各层面决策([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])
+> - **知识作为首要资本形式** 财富创造的核心从自然资源和有形资产转向无形资产（知识、信息、人力资本）（Dunning, 2000, p.8, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]]）
+> - **高等教育的资本化** 大学被重新定位为[[Knowledge-Based Economy|知识经济]]中产生价值和比较优势的核心基础设施——教学和研究优先级被市场价值所主导([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.89–90]])。详见 知识经济 > 核心要素
+> - **知识的商品化** 知识——包括专家、专业人员、学者和制度行动者的[[Knowledge Production|知识生产]]过程——成为可交易的商品（Moisio, 2018, p.9, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.39]]）
+> - **教育作为人力资本投资** 教育被重新框定为个人和国家在全球知识经济中竞争的人力资本投资——这一话语深刻影响了从亚洲中产阶级的教育消费到国家教育出口战略的各层面决策([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97]])
 >
 
 

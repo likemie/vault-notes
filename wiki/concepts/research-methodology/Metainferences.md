@@ -106,11 +106,11 @@ updated: 2026-06-23
 Onwuegbuzie & Johnson (2006) 在[[Mixed Methods Research|混合方法研究]]中以"合法化"（legitimation）替代"效度"，识别了九种合法化类型，其中多种直接涉及元推断的质量（pp.195–196）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 > [!dimension] 与元推断相关的合法化维度
-> - **顺序合法化**（Sequential legitimation）
+> - **顺序合法化（Sequential legitimation）**
 >   在多大程度上能最小化数据收集和分析产生的元推断的**顺序效应**——量化-质性还是质性-量化的顺序是否影响了元推断？如果对调顺序后元推断的解释力不受削弱，则顺序合法化程度高。
-> - **转换合法化**（Conversion legitimation）
->   将数值数据**质化**（[[Data Transformation|qualitizing]]）或将质性数据**量化**（quantitizing）在多大程度上有助于产出稳健的元推断——转换过程的质量直接影响元推断的可[[Reliability|信度]]。
-> - **政治合法化**（Political legitimation）
+> - **转换合法化（Conversion legitimation）**
+>   将数值数据**质化**（[[Data Transformation|qualitizing]]）或将质性数据**量化（quantitizing）**在多大程度上有助于产出稳健的元推断——转换过程的质量直接影响元推断的可[[Reliability|信度]]。
+> - **政治合法化（Political legitimation）**
 >   受众在多大程度上**接受**量化和质性方法组合所产生的元推断——合法化不仅是方法论问题，也是社会接受度问题。
 
 ---
@@ -120,9 +120,9 @@ Onwuegbuzie & Johnson (2006) 在[[Mixed Methods Research|混合方法研究]]中
 Onwuegbuzie & Johnson (2006: 52) 指出[[Mixed Methods Research|混合方法研究]]在三个维度面临独特困难，直接关乎元推断的质量：
 
 > [!challenges] 影响元推断质量的三个维度
-> - **表征**（representation） 主要或仅使用词语和图像来捕捉生活经验的动态性和[[Emergence|涌现]]性——量化和质性对"什么构成了充分的表征"有不同标准，这直接影响元推断的丰富性。
-> - **合法化**（legitimation） 确保元推断是**可依赖的、可信的、可迁移的、合理的、可确认的和可信赖的**——量化（如大[[Random Sampling|随机样本]]）和质性（如小目的样本）的合法性标准可能相互对抗，却需要被放在平等的基础上。
-> - **整合**（integration） 使用和结合量化和质性方法——两者各有自己的、有时对抗性的效度标准，元推断的质量取决于整合过程中这些标准的协调程度。
+> - **表征（representation）** 主要或仅使用词语和图像来捕捉生活经验的动态性和[[Emergence|涌现]]性——量化和质性对"什么构成了充分的表征"有不同标准，这直接影响元推断的丰富性。
+> - **合法化（legitimation）** 确保元推断是**可依赖的、可信的、可迁移的、合理的、可确认的和可信赖的**——量化（如大[[Random Sampling|随机样本]]）和质性（如小目的样本）的合法性标准可能相互对抗，却需要被放在平等的基础上。
+> - **整合（integration）** 使用和结合量化和质性方法——两者各有自己的、有时对抗性的效度标准，元推断的质量取决于整合过程中这些标准的协调程度。
 
 ---
 

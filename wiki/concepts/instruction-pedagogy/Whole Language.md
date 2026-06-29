@@ -89,11 +89,11 @@ citation_aliases: []
 ## 核心要素
 
 > [!frames-ref] 全语言哲学的五大核心原则
-> 1. **意义优先（Meaning Priority）**：读写教学的重点在于构建意义，而非操练语言工具本身；所有的口头和书面语言功能在课堂中均被适当鼓励 (p.143)。
-> 2. **完整语境（Whole Context）**：坚决反对为了教学便利而将句子结构和词汇进行人工限制与简化，提倡使用完整的、真实的儿童文学作品 (p.143)。
-> 3. **学习者中心（Learner-Centered）**：尊重儿童的发展步伐与语言变体差异，鼓励儿童在真实的言语和读写事件中承担风险、自主表达 (p.143)。
-> 4. **技能情境化融入（Contextualized Skills）**：全语言理论家（如 Hornsby & Powell, 1993）撰写了大量如何在全语言框架内，在大书（Big Books）阅读情境下流动性地讲授拼读、拼写和解码技巧的指南 (p.148)。
-> 5. **读写作为社会文化实践（Sociocultural Practice）**：承认读写不是中立的认知技能，而是一张复杂的社会文化网络，读写教学法本身就是政治性的，涉及教室内的权力关系 (p.149)。
+> 1. **意义优先（Meaning Priority）** 读写教学的重点在于构建意义，而非操练语言工具本身；所有的口头和书面语言功能在课堂中均被适当鼓励 (p.143)。
+> 2. **完整语境（Whole Context）** 坚决反对为了教学便利而将句子结构和词汇进行人工限制与简化，提倡使用完整的、真实的儿童文学作品 (p.143)。
+> 3. **学习者中心（Learner-Centered）** 尊重儿童的发展步伐与语言变体差异，鼓励儿童在真实的言语和读写事件中承担风险、自主表达 (p.143)。
+> 4. **技能情境化融入（Contextualized Skills）** 全语言理论家（如 Hornsby & Powell, 1993）撰写了大量如何在全语言框架内，在大书（Big Books）阅读情境下流动性地讲授拼读、拼写和解码技巧的指南 (p.148)。
+> 5. **读写作为社会文化实践（Sociocultural Practice）** 承认读写不是中立的认知技能，而是一张复杂的社会文化网络，读写教学法本身就是政治性的，涉及教室内的权力关系 (p.149)。
 
 ---
 
@@ -119,7 +119,7 @@ citation_aliases: []
 
 > [!finding-cards] 围绕全语言[[Effect Size|效应量]]的实证争议
 > 1. **合成低效应量的假象** [[John Hattie|哈蒂]]宣称全语言 d = 0.06（几乎无效果）。但帕特里克·奥康纳 (Patrick O'Connor, 2020) 证实，该数值是通过对 4项分化严重的[[Meta-analysis|元分析]]进行不加权算术平均（0.09, 0.15, 0.65, -0.65）得出的粗糙结果，遮蔽了底层数据的张力 (p.145)。
-> 2. **纯粹全语言的高收益** [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）的研究显示，如果完全符合严格定义（无技能切片、无全班统一[[Homework|作业]]、无孤立技能操练），“纯粹全语言”对低社会经济地位 (SES) 学童的**效应量高达正向 0.83** (p.146-147)。
+> 2. **纯粹全语言的高收益** [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）的研究显示，如果完全符合严格定义（无技能切片、无全班统一[[Homework|作业]]、无孤立技能操练），“纯粹全语言”对低社会经济地位 (SES) 学童的**效应量高达正向 0.83(p.146-147)**。
 > 3. **质性与情感维度的优势** 达尔与弗雷蓬（Dahl & Freppon, 1994）的对比实验显示，全语言班儿童在自主读写兴趣、[[Self-Efficacy|自我效能感]]、语言的句法与词汇特征生成上显著优于以练习册为主的传统班级。
 
 ---
@@ -127,13 +127,13 @@ citation_aliases: []
 ## 争议与批评
 
 > [!critique-method] 评估方法论偏见（O'Connor 对 Hattie 的指控）
-> - **分类错误**：[[John Hattie|哈蒂]]采纳的 [[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller, 1989）[[Meta-analysis|元分析]]将早期“[[Language Experience Approach|语言经验法]]”混同于全语言，塞入了全语言运动诞生前的 Brazziel & Terrell (1962) 行为主义准备研究，造成了“垃圾输入，垃圾输出” (p.144)。
-> - **非对称审查与选择性修正**：[[John Hattie|哈蒂]]对报告极端负面（d = -0.65）的 [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）算错的研究未加任何审查即全盘接受；却唯独对显示正面效应的 Gee (1995)（d = 0.65）手动删除三项正面研究，强行将[[Effect Size|效应量]]修正为零 (p.148)。
-> - **研究者偏见与政治镜头**：哈蒂对[[Direct Instruction|直接教学]]偏爱，对[[Jean-Jacques Rousseau|卢梭]]式[[Constructivist Paradigm|建构主义]]敌视，导致其选择性忽略了 [[William Jeynes|杰尼斯]]福音派传教士身份的保守派右翼政治偏见，并在《[[Visible Learning|VL]]》中对正反数据采取了双重审查标准 (p.147-148)。
+> - **分类错误**[[John Hattie|哈蒂]]采纳的 [[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller, 1989）[[Meta-analysis|元分析]]将早期“[[Language Experience Approach|语言经验法]]”混同于全语言，塞入了全语言运动诞生前的 Brazziel & Terrell (1962) 行为主义准备研究，造成了“垃圾输入，垃圾输出” (p.144)。
+> - **非对称审查与选择性修正**[[John Hattie|哈蒂]]对报告极端负面（d = -0.65）的 [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）算错的研究未加任何审查即全盘接受；却唯独对显示正面效应的 Gee (1995)（d = 0.65）手动删除三项正面研究，强行将[[Effect Size|效应量]]修正为零 (p.148)。
+> - **研究者偏见与政治镜头** 哈蒂对[[Direct Instruction|直接教学]]偏爱，对[[Jean-Jacques Rousseau|卢梭]]式[[Constructivist Paradigm|建构主义]]敌视，导致其选择性忽略了 [[William Jeynes|杰尼斯]]福音派传教士身份的保守派右翼政治偏见，并在《[[Visible Learning|VL]]》中对正反数据采取了双重审查标准 (p.147-148)。
 
 > [!critique-logic] [[Technical Rationality|技术理性]]与标准化问责的劫持
 > - **[[Variable|变量]][[Coding in Qualitative Research|编码]]的模糊性**：[[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 指出，“全语言教学”在不同的元分析中操作定义极度模糊，这导致不同研究的简单量化合成失去了科学比较的前提。
-> - **教育工业化与绩效管理**：新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）将阅读过程还原为可以按月测量的标准化增量，导致全语言以意义为中心、注重儿童社会文化发展的质性价值被遮蔽，强行推行自上而下的效率考核 (p.149)。
+> - **教育工业化与绩效管理** 新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）将阅读过程还原为可以按月测量的标准化增量，导致全语言以意义为中心、注重儿童社会文化发展的质性价值被遮蔽，强行推行自上而下的效率考核 (p.149)。
 
 ---
 

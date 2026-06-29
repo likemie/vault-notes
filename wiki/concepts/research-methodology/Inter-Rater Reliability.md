@@ -51,7 +51,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 评分者间[[Reliability|信度]]（Inter-rater reliability）指多位独立评判者或专家使用同一工具对相同对象进行评分时，彼此评分之间的一致性程度。它是信度作为**等值性**（reliability as equivalence）的核心形式之一——如果多于一位研究者参与研究，人类判断易出错，必须确保所有研究者在数据录入上一致。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 201–202)]]
+> 评分者间[[Reliability|信度]]（Inter-rater reliability）指多位独立评判者或专家使用同一工具对相同对象进行评分时，彼此评分之间的一致性程度。它是信度作为**等值性（reliability as equivalence）**的核心形式之一——如果多于一位研究者参与研究，人类判断易出错，必须确保所有研究者在数据录入上一致。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 201–202)]]
 
 从[[Quantitative Research|量化研究]]角度，评分者间信度适用于涉及多位评判者进行观察评定的情境。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 将其定义为"不同独立评判者在评分中达成一致的程度"。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 
@@ -98,7 +98,7 @@ updated: 2026-06-23
 
 ### 质性研究中的评分者间信度
 
-Denzin & Lincoln (1994) 将评分者间信度列为[[Qualitative Research|质性研究]]中信度作为可复制性的三种检验方式之一：**另一个拥有相同理论框架的观察者，观察相同现象，是否会以相同方式解释它们？**（pp.205–206）
+Denzin & Lincoln (1994) 将评分者间信度列为[[Qualitative Research|质性研究]]中信度作为可复制性的三种检验方式之一：**另一个拥有相同理论框架的观察者，观察相同现象，是否会以相同方式解释它们？（pp.205–206）**
 
 Kleven (1995) 在[[Observational and Correlational Research|观察研究]]中提出了对应的三个问题（pp.206–207）：
 1. 如果观察在不同时间进行，会做出相同的观察和解释吗？（稳定性版本）

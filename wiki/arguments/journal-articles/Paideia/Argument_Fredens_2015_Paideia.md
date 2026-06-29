@@ -100,8 +100,8 @@ citation_aliases:
 >
 > ### Fredens 的补充性批评
 >
-> - **默认网络的功能**：Hattie & Yates 强调注意力中断的缺点，但 Fredens 补充指出好处——当大脑"走神"时，前额叶关闭并转入默认网络（社会脑），在恢复的同时产生联想和创意发展。这种注意力"缺失"在创造性过程中至关重要(p.71–72)
-> - **认知负荷与不必要指导**：Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——[[Working Memory|工作记忆]]被不必要信息填满的状态(p.73)
+> - **默认网络的功能** Hattie & Yates 强调注意力中断的缺点，但 Fredens 补充指出好处——当大脑"走神"时，前额叶关闭并转入默认网络（社会脑），在恢复的同时产生联想和创意发展。这种注意力"缺失"在创造性过程中至关重要(p.71–72)
+> - **认知负荷与不必要指导** Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——[[Working Memory|工作记忆]]被不必要信息填满的状态(p.73)
 
 ## 关键引用
 

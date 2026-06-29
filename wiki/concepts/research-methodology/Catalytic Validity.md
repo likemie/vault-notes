@@ -52,13 +52,13 @@ updated: 2026-06-23
 ## 核心要素
 
 > [!dimension] 催化效度的多重面向
-> - **赋权参与者**（Empowerment）
->   Lincoln & Guba (1986) 建议"公平性"标准应用于研究，即研究应（a）增进和改善参与者对世界的体验；（b）增进参与者的赋权。研究在此意义上聚焦于**"可能是什么"**（what might be——创新和未来趋势的前沿）和**"可以是什么"**（what could be——理想的、可能的未来）（Schofield, 1990: 209）。
-> - **揭露权力运作**（Exposing power）
+> - **赋权参与者（Empowerment）**
+>   Lincoln & Guba (1986) 建议"公平性"标准应用于研究，即研究应（a）增进和改善参与者对世界的体验；（b）增进参与者的赋权。研究在此意义上聚焦于**"可能是什么"（what might be——创新和未来趋势的前沿）**和**"可以是什么"（what could be——理想的、可能的未来）**（Schofield, 1990: 209）。
+> - **揭露权力运作（Exposing power）**
 >   催化效度要求揭露**谁对情境的定义在情境中运作**——即现存秩序的"理所当然性"是如何被特定群体的利益所维持的。研究应揭示沟通和社会结构中的扭曲、意识形态变形和局限（LeCompte & Preissle, 1993）。
-> - **促进解放**（Promoting emancipation）
+> - **促进解放（Promoting emancipation）**
 >   催化效度要求研究能在公正、平等和民主的社会中促进参与者的解放、自主和自由（Masschelein, 1991）。Usher (1996) 认为这是[[Feminist Research|女性主义研究]]的主要特征——且需要渗透**所有**研究。
-> - **效度作为权力话语**（Validity as power discourse）
+> - **效度作为权力话语（Validity as power discourse）**
 >   Scheurich (1996) 提出了最激进的反思：效度不过是实际上由**有权力的研究社群**对可接受研究进行治安和设限的**面具**——效度话语实际上是**界定有价值知识的权力话语**。催化效度的最强版本质疑了效度标准本身的合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 173–174)]]
 
 ---
@@ -66,7 +66,7 @@ updated: 2026-06-23
 ## 围绕概念形成的命题
 
 > [!claim] 催化效度重申了伦理在研究中的中心地位
-> 催化效度要求研究者审问自己的**忠诚**（allegiances）、**责任**（responsibilities）和**自我利益**（self-interestedness）（Burgess, 1989）。它不仅关乎"如何做"研究，而且关乎**"为谁"和"为何目的"**做研究。催化效度将[[Research Ethics|研究伦理]]从"不伤害"的消极底线提升到"积极赋权"的政治承诺。
+> 催化效度要求研究者审问自己的**忠诚（allegiances）**、**责任（responsibilities）**和**自我利益（self-interestedness）**（Burgess, 1989）。它不仅关乎"如何做"研究，而且关乎**"为谁"和"为何目的"**做研究。催化效度将[[Research Ethics|研究伦理]]从"不伤害"的消极底线提升到"积极赋权"的政治承诺。
 
 > [!implication]- 如何辩护研究者应具有意识形态意图
 > "如何辩护研究者应具有这样的意识形态意图——也许是一个未解决的问题——但不解决这一领域的问题就是通过遗漏和忽略来延续不平等。"催化效度将此悖论置于研究者面前：拒绝介入是一种政治选择，积极介入也是一种政治选择——两者都是价值负载的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 174)]]

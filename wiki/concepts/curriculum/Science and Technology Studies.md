@@ -86,19 +86,19 @@ updated: 2026-05-18
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1960s**：STS 起源于历史学家、科学哲学家、社会学家、人类学家、经济学家和政治/法律学者的汇集([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **1987**：Latour 出版 *Science in Action*，确立"跟随科学家和工程师穿越社会"的方法论([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
-> - **1995**：Porter 出版 *Trust in Numbers*，分析量化与客观性的关系([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **1998**：Desrosières 出版 *The Politics of Large Numbers*，探讨统计推理史([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **2004**：Jasanoff 编辑 *States of Knowledge*，系统阐述共同生产（co-production）概念([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **2014**：Gorur 将 STS 和[[Sociology of Measurement|测量社会学]]框架应用于教育政策领域([[Argument_Gorur_2014_Discourse|Gorur, 2014]])
+> - **1960s** STS 起源于历史学家、科学哲学家、社会学家、人类学家、经济学家和政治/法律学者的汇集([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> - **1987** Latour 出版 *Science in Action*，确立"跟随科学家和工程师穿越社会"的方法论([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
+> - **1995** Porter 出版 *Trust in Numbers*，分析量化与客观性的关系([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> - **1998** Desrosières 出版 *The Politics of Large Numbers*，探讨统计推理史([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> - **2004** Jasanoff 编辑 *States of Knowledge*，系统阐述共同生产（co-production）概念([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> - **2014** Gorur 将 STS 和[[Sociology of Measurement|测量社会学]]框架应用于教育政策领域([[Argument_Gorur_2014_Discourse|Gorur, 2014]])
 
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
 > - **[[Epistemology|认识论]]立场**：[[Constructivist Paradigm|建构主义]] / [[Postpositivism|后实证主义]]——科学事实是社会技术实践的产物，不反映独立于实践的客观现实
-> - **常用方法**：追踪科学实践（Latour 的"跟随行动者"方法）、历史档案分析、访谈、[[Documentary Analysis|文献分析]]
-> - **关键区别**：STS 不从"科学不够好"的立场批判，而是分析科学如何被制造以及其如何与治理纠缠
+> - **常用方法** 追踪科学实践（Latour 的"跟随行动者"方法）、历史档案分析、访谈、[[Documentary Analysis|文献分析]]
+> - **关键区别** STS 不从"科学不够好"的立场批判，而是分析科学如何被制造以及其如何与治理纠缠
 
 ## 争议与批评
 

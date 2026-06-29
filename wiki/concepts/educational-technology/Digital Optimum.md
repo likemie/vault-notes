@@ -64,7 +64,7 @@ updated: 2026-05-20
 
 ### 与数字自我的差异驱动治理
 
-数字最优的治理功能依赖于与 [[Digital Self|数字自我]] 之间的**差异**（differential）。这一差异是算法治理（algorithmic governance, Beer, 2016）的驱动力([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])：
+数字最优的治理功能依赖于与 [[Digital Self|数字自我]] 之间的**差异（differential）**。这一差异是算法治理（algorithmic governance, Beer, 2016）的驱动力([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])：
 
 - [[Digital Self|数字自我]] 通过 [[Online Self-Assessment|OSA]] 收集的个体数据被建构——"我的 OSA 结果是……"
 - 数字最优呈现一个理想参照——"完美的起点是这样的……"
@@ -76,12 +76,12 @@ updated: 2026-05-20
 ## 理论基础
 
 > [!tip]-
-> - **Beer 的算法治理**：Beer（2016）提出算法在社会生活中的治理功能——数字最优正是算法治理的核心组件：它提供了使自我治理成为可能的参照点和比较基准([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
+> - **Beer 的算法治理**Beer（2016）提出算法在社会生活中的治理功能——数字最优正是算法治理的核心组件：它提供了使自我治理成为可能的参照点和比较基准([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 > - **[[Societies of Control]]**：Deleuze（1992）的调制概念解释了数字最优如何持续运作——不是通过一次性的[[Disciplina and Doctrina|规训]]塑造，而是通过不间断的比较和调整。数字最优不是固定目标，而是随着算法优化不断移动的参照系([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222, 226]])
 
 ## 争议与批评
 
 > [!warning]
-> - **期望的隐蔽规范性**：数字最优表面上由"数据驱动"，实则隐含特定的规范性预设——什么样的学生是"好学生"？这些预设被算法黑箱化，失去了公共讨论和审议的空间([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
-> - **完美起点的幻象**：预设学生在入学前就应具备"完美起点"的条件，系统性地忽视学生发展潜力和成长可能性——这恰恰违背了 [[Bildung]] 的核心原则：教育指向一个开放的、不可被入场数据预测的未来([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
+> - **期望的隐蔽规范性** 数字最优表面上由"数据驱动"，实则隐含特定的规范性预设——什么样的学生是"好学生"？这些预设被算法黑箱化，失去了公共讨论和审议的空间([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
+> - **完美起点的幻象** 预设学生在入学前就应具备"完美起点"的条件，系统性地忽视学生发展潜力和成长可能性——这恰恰违背了 [[Bildung]] 的核心原则：教育指向一个开放的、不可被入场数据预测的未来([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 

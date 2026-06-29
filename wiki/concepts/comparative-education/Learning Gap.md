@@ -48,7 +48,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info]
-> "学习差距"（learning gap）是 [[Stevenson and Stigler|Harold Stevenson]] 和 James Stigler 在 1992 年同名著作中提出的概念，指美国（以欧裔美国人为主）与东亚（日本、台湾、中国）在解释儿童学业成就时的根本归因差异：美国儿童、家长和教师以**能力**（ability）解释成就，而东亚对应群体以**努力**（effort）解释成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
+> "学习差距"（learning gap）是 [[Stevenson and Stigler|Harold Stevenson]] 和 James Stigler 在 1992 年同名著作中提出的概念，指美国（以欧裔美国人为主）与东亚（日本、台湾、中国）在解释儿童学业成就时的根本归因差异：美国儿童、家长和教师以**能力（ability）**解释成就，而东亚对应群体以**努力（effort）**解释成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
 
 ---
 
@@ -90,10 +90,10 @@ Stevenson 和 Stigler 发起了长达十年的标志性跨国研究，克服了�
 
 Stevenson 和 Stigler 的研究激发了更多比较研究：
 
-- **Seishin 与 Gambaru**：美国研究者发现日本学习者使用文化特定的概念来描述能力与努力，如 seishin（帮助人们应对任务的心理态度）和 gambaru（"对坚持的内在益处的积极取向"）([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
-- **努力作为稳定因素**：香港研究者发现，在西方动机[[Document|文献]]中被定义为"内部但不稳定"因素的努力，对[[Chinese Learner|中国学习者]]而言是跨时间和跨情境的稳定因素——中国学生相信他们需要对所有学习任务始终付出努力([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
-- **日本教学优势**：Stigler 领导的视频研究比较了美、日、德三国课堂教学，结论是日本教学法确实优于西方对应方([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
-- **家庭因素**：研究显示亚裔父母表达了比欧裔美国父母更高的学术期望（通常要求全 A），为子女报名更多的课后和周末补习项目，并更密切地监控家庭学习([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
+- **Seishin 与 Gambaru** 美国研究者发现日本学习者使用文化特定的概念来描述能力与努力，如 seishin（帮助人们应对任务的心理态度）和 gambaru（"对坚持的内在益处的积极取向"）([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
+- **努力作为稳定因素** 香港研究者发现，在西方动机[[Document|文献]]中被定义为"内部但不稳定"因素的努力，对[[Chinese Learner|中国学习者]]而言是跨时间和跨情境的稳定因素——中国学生相信他们需要对所有学习任务始终付出努力([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
+- **日本教学优势** Stigler 领导的视频研究比较了美、日、德三国课堂教学，结论是日本教学法确实优于西方对应方([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
+- **家庭因素** 研究显示亚裔父母表达了比欧裔美国父母更高的学术期望（通常要求全 A），为子女报名更多的课后和周末补习项目，并更密切地监控家庭学习([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
 
 ### 学前教育的比较证据
 

@@ -39,8 +39,8 @@ updated: 2026-06-14
 
 > [!info] 悬置后的意识三元素
 > 1. 进行思考的"**我**"（the 'I' who thinks）
-> 2. 这个思考主体的**心理活动**（mental acts）
-> 3. 这些心理活动的**意向对象**（intentional objects）
+> 2. 这个思考主体的**心理活动（mental acts）**
+> 3. 这些心理活动的**意向对象（intentional objects）**
 
 ## 在现象学中的位置
 

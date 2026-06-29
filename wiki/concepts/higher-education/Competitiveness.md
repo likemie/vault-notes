@@ -74,7 +74,7 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 
 ### 教学领域：潜在未来努力的竞争悖论
 
-在教学领域，竞争力的运作逻辑与科研不同。Thompson 等人（2022, p.220）识别了一个根本悖论：大学的竞争优势取决于它能为学生提供成功学习过程的可能性，但大学所竞争的并非学生已经展现的能力，而是学生**潜在的未来努力**（potential future effort）。
+在教学领域，竞争力的运作逻辑与科研不同。Thompson 等人（2022, p.220）识别了一个根本悖论：大学的竞争优势取决于它能为学生提供成功学习过程的可能性，但大学所竞争的并非学生已经展现的能力，而是学生**潜在的未来努力（potential future effort）**。
 
 - 大学长期以来收集学生辍学率和完成学业所需时间的数据
 - 随着数据化和 [[Learning Analytics|学习分析]] 的兴起，大学获得了分析"成功相关性"（correlations of success）的能力——识别最可能导致学业成功的学生特征([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
@@ -86,7 +86,7 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 
 > [!tip]-
 
-- **Moisio 的地缘政治分析**：Moisio（2018）将连接性定位为全球网络文明中竞争的关键资源，国家边界在"超大城市争夺连接性"的格局中越来越不相关。大学在这一地缘政治框架中扮演着节点角色([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
+- **Moisio 的地缘政治分析**Moisio（2018）将连接性定位为全球网络文明中竞争的关键资源，国家边界在"超大城市争夺连接性"的格局中越来越不相关。大学在这一地缘政治框架中扮演着节点角色([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
 - **Foucault 的 [[Governmentality|治理术]]**：竞争力的运作不是通过直接强制，而是通过塑造主体的自我理解和行为——大学为自身利益而"自愿"参与竞争，研究人员"自愿"追求卓越，学生"自愿"进行自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]])
 - **Deleuze 的 [[Societies of Control|控制社会]]**：Deleuze（1992）描述了从[[Disciplina and Doctrina|规训]]社会向控制社会的转型——调制取代模具、网络取代封闭机构、持续追踪取代一次性考试。竞争力的治理逻辑恰恰体现了这一转型([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
 
@@ -94,7 +94,7 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 
 > [!warning]
 
-- **测量的循环**：大学认同于由自身参与建立的评估标准，形成一种封闭的自我参照循环——"卓越"的定义权掌握在参与竞争的人手中，但没有人能退出这场竞争([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
-- **教学竞争力的悖论性**：当大学竞争的是学生"潜在的未来努力"时，竞争的基础是不稳定的——它依赖的是尚未发生的行为。这意味着大学必须通过提前的管理技术（如 [[Online Self-Assessment|OSA]]）将不确定性转化为可治理的对象([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
+- **测量的循环** 大学认同于由自身参与建立的评估标准，形成一种封闭的自我参照循环——"卓越"的定义权掌握在参与竞争的人手中，但没有人能退出这场竞争([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
+- **教学竞争力的悖论性** 当大学竞争的是学生"潜在的未来努力"时，竞争的基础是不稳定的——它依赖的是尚未发生的行为。这意味着大学必须通过提前的管理技术（如 [[Online Self-Assessment|OSA]]）将不确定性转化为可治理的对象([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
 - **[[Stakeholder University|利益相关者大学]]的兴起**：Wæraas 和 Solbakk（2009, p.450）指出，现代大学正从"学术共同体"转变为"利益相关者大学"（stakeholder university）——学生、教师、政府机构、商业服务提供者乃至自动化计算机代理之间的连接性，将大学转化为地缘政治的机会节点，这可能在根本上改变大学作为学术共同体的本质([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
 

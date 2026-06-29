@@ -75,8 +75,8 @@ updated: 2026-05-31
 > [!abstract]
 > [[Mixed Methods Research|混合方法研究]]问题的两个核心组件（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）：
 >
-> 1. **整合的意图（intent of integration）**：说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
-> 2. **整合的程序（procedures of integration）**：说明通过何种设计（聚敛式、解释性序列、探索性序列、嵌入式）和何种程序（合并、连接或嵌入）来整合
+> 1. **整合的意图（intent of integration）** 说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
+> 2. **整合的程序（procedures of integration）** 说明通过何种设计（聚敛式、解释性序列、探索性序列、嵌入式）和何种程序（合并、连接或嵌入）来整合
 
 ---
 

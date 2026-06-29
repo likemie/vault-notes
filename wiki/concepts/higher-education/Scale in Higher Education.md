@@ -64,13 +64,13 @@ updated: '2026-05-18'
 > - **尺度的不可化约性** — 不同尺度有不同的规范中心、运作逻辑和关系模式，不能从一个尺度推导出另一个尺度。国家科学的规范中心是国家（[[National Science Foundation|NSF]]、NSFC 等拨款机构），全球科学的规范中心是期刊同行评议和引用网络——两套游戏规则同时运作([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]])
 > - **尺度的共存性** — 多重尺度同时运作。一位科学家同时在国家尺度（申请国家基金）和全球尺度（在国际期刊发表）中活动，其行为由两套规范共同塑造，不可还原为单一尺度的逻辑([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]])
 > - **高等教育的七层活跃尺度**([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 7–8]])：
->   1. **世界尺度**（world scale）— 含自然环境、气候、生态系统
->   2. **全球尺度**（global scale）— 人类社会世界层面：全球科学、全球排名市场、跨境学生流动
->   3. **泛国家区域尺度**（pan-national regional scale）— 欧盟（EHEA）、东盟（ASEAN）等区域教育治理
->   4. **国家尺度**（national scale）— 法律、国家政策、拨款机制、国家高教系统
->   5. **次国家区域尺度**（sub-national regional scale）— 城市、省份的教育集群
->   6. **地方尺度**（local scale）— 院校、研究中心、院系
->   7. **个体尺度**（individual scale）— 学者、学生、行政人员的能动性
+>   1. **世界尺度（world scale）**— 含自然环境、气候、生态系统
+>   2. **全球尺度（global scale）**— 人类社会世界层面：全球科学、全球排名市场、跨境学生流动
+>   3. **泛国家区域尺度（pan-national regional scale）**— 欧盟（EHEA）、东盟（ASEAN）等区域教育治理
+>   4. **国家尺度（national scale）**— 法律、国家政策、拨款机制、国家高教系统
+>   5. **次国家区域尺度（sub-national regional scale）**— 城市、省份的教育集群
+>   6. **地方尺度（local scale）**— 院校、研究中心、院系
+>   7. **个体尺度（individual scale）**— 学者、学生、行政人员的能动性
 
 ---
 

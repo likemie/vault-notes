@@ -87,26 +87,26 @@ updated: '2026-06-21'
 > | **哲学根源** | [[Phenomenology\|现象学]]、[[Bildung\|教化]]哲学与教学论传统 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]) | 主要是认知心理学与[[Constructivist Paradigm\|建构主义]] ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]) | 人力资本理论与新自由主义绩效管理 ([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]) |
 
 > [!term] 知识结构辨析：[[Disciplina and Doctrina|disciplina]] 与 Doctrina
-> - **Disciplina（学科/纪律）**：词源学上强调“灌输知识的方法”及中世纪“训诫、纠错与惩戒”含义。它属于“寄存已发现知识的地方”，而非“动态的知识产出系统”。过度偏重 `disciplina` 易导致知识僵化和外部控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
-> - **Doctrina（教导的动态发展）**：侧重于知识进一步更新与演进的可能性与需求，旨在使成熟知识与不确定未来及开放世界连接。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
+> - **Disciplina（学科/纪律）** 词源学上强调“灌输知识的方法”及中世纪“训诫、纠错与惩戒”含义。它属于“寄存已发现知识的地方”，而非“动态的知识产出系统”。过度偏重 `disciplina` 易导致知识僵化和外部控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
+> - **Doctrina（教导的动态发展）** 侧重于知识进一步更新与演进的可能性与需求，旨在使成熟知识与不确定未来及开放世界连接。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 > - **跨学科深度的关键（[[Critical Realism]] 视角）**：批判现实主义主张，[[Discipline-Based Theory|学科理论]]是人类探索生活世界不同现象过程中沉淀出的理论秩序，具备自身的本体论深度（Ontological depth）。PhBL 并非通过消解学科来减负，而是通过“现象”将 `disciplina` 与 `doctrina` 有机整合。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 
 > [!boundary]- 概念边界与关联
-> - **有别于PBL（问题导向学习）**：PBL 扎根于认知心理学，以解决特定预设问题为导向；而 PhBL 奠基于现象学、教化哲学与教学论传统，从生活世界体验的“现象”本身出发。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8]]
-> - **有别于能力本位课程**：能力本位课程以横向能力清单为终点，容易被新自由主义绩效管理拆散为碎片化技能包；而 PhBL 要求维护学科内部的系统性与本体论深度。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4, 10]]
-> - **与大陆教育哲学的协同**：现象学提供“生活世界”体验与主体间性基础；教化（Bildung）提供面向未知未来的自我生成目的；教学论（[[Didaktik]]）为现象选择与跨学科组织提供课程设计工具。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3, 7, 11]]
+> - **有别于PBL（问题导向学习）** PBL 扎根于认知心理学，以解决特定预设问题为导向；而 PhBL 奠基于现象学、教化哲学与教学论传统，从生活世界体验的“现象”本身出发。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8]]
+> - **有别于能力本位课程** 能力本位课程以横向能力清单为终点，容易被新自由主义绩效管理拆散为碎片化技能包；而 PhBL 要求维护学科内部的系统性与本体论深度。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4, 10]]
+> - **与大陆教育哲学的协同** 现象学提供“生活世界”体验与主体间性基础；教化（Bildung）提供面向未知未来的自我生成目的；教学论（[[Didaktik]]）为现象选择与跨学科组织提供课程设计工具。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3, 7, 11]]
 
 ---
 
 ## 核心要素
 
 > [!feature] 核心要素
-> - **以现象为学习起点**：学习从可触摸或不可触摸的生活世界真实或抽象现象开始（如可持续生态、地方历史遗存等），引导学生追随人类好奇心的历史足迹建立连接。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 3–4]]
-> - **跨学科整合与学科深度协同**：反对学科的自我封闭，但强调每门科目具有其独特的理论结构与[[Ontology|本体论]]深度，跨学科探索应当是学科深度的横向协同，而非学科逻辑的消解。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3–5]]
-> - **生活世界与经验体验的嵌入性**：强调学习主题应直接关联学生的邻近环境，释放[[Reflexivity|反思性]]主体能动性（Agency），使知识建构基于活泼的日常经验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]]
-> - **具身经验与主体间性情绪整合**：遵循 Merleau-Ponty [[Phenomenology|现象学]]，将身体感官经验与实践置于纯粹智力认知之前；同时关注主体间性（Intersubjectivity）的社交与情绪交互，如信任、尊重、困惑、怀疑及关系焦虑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]
-> - **协作探究与共同责任分担**：师生在共同时空里分担责任，通过联合规划、对话与实践行动，协作面对复杂的全球性与地方挑战。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 3]]
-> - **作为课程的自我修正模型**：桥接教育理论与学校实践，将学习过程视为个人与客观世界不断交互并重构自身世界观的反思过程。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
+> - **以现象为学习起点** 学习从可触摸或不可触摸的生活世界真实或抽象现象开始（如可持续生态、地方历史遗存等），引导学生追随人类好奇心的历史足迹建立连接。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 3–4]]
+> - **跨学科整合与学科深度协同** 反对学科的自我封闭，但强调每门科目具有其独特的理论结构与[[Ontology|本体论]]深度，跨学科探索应当是学科深度的横向协同，而非学科逻辑的消解。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3–5]]
+> - **生活世界与经验体验的嵌入性** 强调学习主题应直接关联学生的邻近环境，释放[[Reflexivity|反思性]]主体能动性（Agency），使知识建构基于活泼的日常经验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]]
+> - **具身经验与主体间性情绪整合** 遵循 Merleau-Ponty [[Phenomenology|现象学]]，将身体感官经验与实践置于纯粹智力认知之前；同时关注主体间性（Intersubjectivity）的社交与情绪交互，如信任、尊重、困惑、怀疑及关系焦虑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]
+> - **协作探究与共同责任分担** 师生在共同时空里分担责任，通过联合规划、对话与实践行动，协作面对复杂的全球性与地方挑战。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 3]]
+> - **作为课程的自我修正模型** 桥接教育理论与学校实践，将学习过程视为个人与客观世界不断交互并重构自身世界观的反思过程。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
 
 > [!logic-map]- 核心要素与学习过程
 > ```mermaid
@@ -163,10 +163,10 @@ updated: '2026-06-21'
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990年代末 — 教师教育中的模型诞生**：Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中提出现象本位教学法，将其界定为“[[Pragmatic Constructivism|课程自我修正模型]]”，旨在弥合教育心理学理论与课堂教学实践之间的鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
-> - **2014年 — 芬兰国家课程政策化**：芬兰正式发布《基础教育国家核心课程 2014》（瑞典语与芬兰语版），将跨学科探究与现象本位作为实现课程核心价值的官方推荐教学取向，但在学校实施中呈现极高[[Heterogeneity|异质性]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
-> - **2016年 — 译本发布与国际关注**：该课程大纲英文版正式发布，在国际社交媒体与教育改革讨论中引发热议，并伴随着“芬兰取消传统学科分类”的广泛误读。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
-> - **2018年–2023年 — 教师教育中的可持续发展实验**：赫尔辛基大学运行 SveaSus（可持续世界遗产现象本位学习）项目，在芬兰堡（Suomenlinna）世界遗产地展开具身学习、艺术本位及多语教学的 PhBL 实证探究。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
+> - **1990年代末 — 教师教育中的模型诞生** Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中提出现象本位教学法，将其界定为“[[Pragmatic Constructivism|课程自我修正模型]]”，旨在弥合教育心理学理论与课堂教学实践之间的鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
+> - **2014年 — 芬兰国家课程政策化** 芬兰正式发布《基础教育国家核心课程 2014》（瑞典语与芬兰语版），将跨学科探究与现象本位作为实现课程核心价值的官方推荐教学取向，但在学校实施中呈现极高[[Heterogeneity|异质性]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> - **2016年 — 译本发布与国际关注** 该课程大纲英文版正式发布，在国际社交媒体与教育改革讨论中引发热议，并伴随着“芬兰取消传统学科分类”的广泛误读。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> - **2018年–2023年 — 教师教育中的可持续发展实验** 赫尔辛基大学运行 SveaSus（可持续世界遗产现象本位学习）项目，在芬兰堡（Suomenlinna）世界遗产地展开具身学习、艺术本位及多语教学的 PhBL 实证探究。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
 
 ---
 
@@ -182,7 +182,7 @@ updated: '2026-06-21'
 
 > [!warning] 适用局限
 > - **概念定义的模糊性与实施的高[[Heterogeneity|异质性]]**：芬兰国家核心课程文本中并未给 PhBL 提供统一、清晰的[[Definition of Terms|操作性定义]]。这导致各地区学校和教师在实践[[Transfer Translation Transformation|转译]]中呈现极高的实施异质性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 10–11]]
-> - **缺乏大规模量化实证证据支持**：当前对 PhBL 的价值主张和政策辩护多停留在哲学与规范性批判（Normative critique）层面，关于其具体学习成效、跨学科认知负荷及学校组织变革影响，仍缺乏充分的经验实证与量化评估数据。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 11]]
+> - **缺乏大规模量化实证证据支持** 当前对 PhBL 的价值主张和政策辩护多停留在哲学与规范性批判（Normative critique）层面，关于其具体学习成效、跨学科认知负荷及学校组织变革影响，仍缺乏充分的经验实证与量化评估数据。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 11]]
 
 ---
 

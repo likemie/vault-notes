@@ -43,9 +43,9 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **双重法律结构**：新西兰慈善法允许非营利慈善信托设立全资拥有的营利性子机构（wholly-owned subsidiary），该子机构在与公共部门实体竞争政府合同时享有母体慈善地位带来的财务与声誉优势([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.vi–vii]])
-> - **"固有慈善"主张**：非营利 EMOs 可能将其日常活动组合视为"固有慈善目的"，从而减轻或免除以运营盈余进行额外慈善捐赠的义务([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vii]])
-> - **公私边界模糊**：EMOs 在营利与非营利形式之间、公共与私人参与之间造成概念和实践的严重模糊([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vii]])
+> - **双重法律结构** 新西兰慈善法允许非营利慈善信托设立全资拥有的营利性子机构（wholly-owned subsidiary），该子机构在与公共部门实体竞争政府合同时享有母体慈善地位带来的财务与声誉优势([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.vi–vii]])
+> - **"固有慈善"主张** 非营利 EMOs 可能将其日常活动组合视为"固有慈善目的"，从而减轻或免除以运营盈余进行额外慈善捐赠的义务([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vii]])
+> - **公私边界模糊** EMOs 在营利与非营利形式之间、公共与私人参与之间造成概念和实践的严重模糊([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vii]])
 
 ## 国际背景
 
@@ -63,14 +63,14 @@ updated: '2026-05-18'
 
 - **教育修正法案 2013**（Education Amendment Act 2013）：授权部长批准由营利或非营利赞助者运营的多所公费 PSKH 合同
 - **教育立法法案 2015**（Education Legislation Bill 2015）：提议允许校长在无合并校董会的情况下管理多所公立学校
-- **现有案例**：Villa Education Trust 和 He Puna Marama Trust 各获批运营 2 所 PSKH；Vanguard Military School 公开表达了扩张愿望([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.20]])。详见 [[Partnership Schools Kura Hourua]]
+- **现有案例** Villa Education Trust 和 He Puna Marama Trust 各获批运营 2 所 PSKH；Vanguard Military School 公开表达了扩张愿望([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.20]])。详见 [[Partnership Schools Kura Hourua]]
 
 ### 混合型组织（Hybrid Organisation）
 
 Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织或设立营利性子机构的非营利组织，只要盈余专用于慈善目的。然而，除了这些营利性慈善子机构外，新西兰公立学校领域还出现了专门为投资者和所有者产生私人利润的新兴政策创业者([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.21–22]])：
 
 - **Future Schools Partners (FSP)**（前 Learning Infrastructure Partners）：2012 年获首个 [[Public-Private Partnership in Research|PPP]] 合同，在 Hobsonville Point 建设和维护中小学 25 年，由 Westpac 贷款和 Public Infrastructure Partners Fund（PIP Fund，基石投资者为新西兰超级基金）提供股权融资([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.22–23]])
-- **New Pedagogies for Deep Learning (NPDL)**：结构化为产生私人利润的实体，社会网络跨公共和私营部门多组织([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.22]])
+- **New Pedagogies for Deep Learning (NPDL)** 结构化为产生私人利润的实体，社会网络跨公共和私营部门多组织([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.22]])
 
 ## 影子教育与家庭支出
 
@@ -105,6 +105,6 @@ Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **公共福利透明度**：慈善机构以营利和非营利两种形式声称贡献公共福利，但缺乏标准化信息供无利害关系的观察者判断所声称的公共福利是否超过个人的私人利益([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.xv]])
-> - **替代性问题**：EMOs 提供的干预、产品和服务是否真正"原本不可获得"，以及合同外包是否比公共部门直接提供更具成本效益，均缺乏充分辩论([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.xvii]])
+> - **公共福利透明度** 慈善机构以营利和非营利两种形式声称贡献公共福利，但缺乏标准化信息供无利害关系的观察者判断所声称的公共福利是否超过个人的私人利益([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.xv]])
+> - **替代性问题** EMOs 提供的干预、产品和服务是否真正"原本不可获得"，以及合同外包是否比公共部门直接提供更具成本效益，均缺乏充分辩论([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.xvii]])
 

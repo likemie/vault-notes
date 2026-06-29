@@ -79,8 +79,8 @@ updated: 2026-06-10
 > 线性模型在理论和政策实践中主要依赖以下三个相互关联的核心假设：[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862–863]]
 >
 > 1. **单向[[Causality|因果性]]**：假定创新遵循“基础科学 → [[Evaluation Research|应用研究]] → 技术开发 → 市场推广 → 经济增长”的顺序。这是一种自上而下、单向推进的机制，忽略了市场、工程、生产实践向科学研究的反馈路径。
-> 2. **科学的支配性**：将[[Blue Skies Research|基础研究]]置于层级结构的顶端，预设研发中“研究”天然高于且支配“开发”。
-> 3. **投入的充分性**：假定科学投入与经济产出存在自动转化关系——即只要政府持续增加公共 R&D 经费投入，产业创新与经济持续增长就会自动发生。
+> 2. **科学的支配性** 将[[Blue Skies Research|基础研究]]置于层级结构的顶端，预设研发中“研究”天然高于且支配“开发”。
+> 3. **投入的充分性** 假定科学投入与经济产出存在自动转化关系——即只要政府持续增加公共 R&D 经费投入，产业创新与经济持续增长就会自动发生。
 
 ---
 
@@ -94,17 +94,17 @@ updated: 2026-06-10
 ## 实证发现
 
 > [!success] 核心发现与反思
-> - **研发投入与创新产出的非线性关联**：欧盟在落实巴塞罗那目标时发现，增加科学投入并未能显著提振欧洲的创新效率，这一落差被学者标记为“欧洲悖论”（European Paradox），实证挑战了线性模型关于“投入即产出”的[[Causality|因果]]想象。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
-> - **经验型学习对创新的主导贡献**：莫滕·贝格·延森（Morten Berg Jensen）等人（2007）的研究指出，企业和部门的竞争力主要依赖两种创新模式：基于研发的科学与技术模式（Science, Technology and Innovation, STI）以及基于做、用、互动的经验型模式（Doing, Using and Interacting, DUI）。后者往往不依赖前沿科学投入，实证挑战了线性模型对经验学习的忽视。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
+> - **研发投入与创新产出的非线性关联** 欧盟在落实巴塞罗那目标时发现，增加科学投入并未能显著提振欧洲的创新效率，这一落差被学者标记为“欧洲悖论”（European Paradox），实证挑战了线性模型关于“投入即产出”的[[Causality|因果]]想象。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
+> - **经验型学习对创新的主导贡献** 莫滕·贝格·延森（Morten Berg Jensen）等人（2007）的研究指出，企业和部门的竞争力主要依赖两种创新模式：基于研发的科学与技术模式（Science, Technology and Innovation, STI）以及基于做、用、互动的经验型模式（Doing, Using and Interacting, DUI）。后者往往不依赖前沿科学投入，实证挑战了线性模型对经验学习的忽视。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
 
 ---
 
 ## 争议与批评
 
 > [!warning] 理论与政策维度的系统反思
-> - **单向路径局限**：斯蒂芬·克莱因（Stephen Kline）和内森·罗森伯格（Nathan Rosenberg）指出创新始于市场需求而非研究，[[Blue Skies Research|基础研究]]是在既有知识储备无法解决技术难题时才被按需调用的。（引自 [[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 863]]）
-> - **政策扭曲效应**：受线性模型误导，政府倾向于反向要求科学“证明”其即时经济价值，强制大学转变为专利生产者、甚至直接参与商业孵化，这严重忽视了大学培养批判性毕业生这一更为根本的日常[[Knowledge Exchange|知识交流]]功能。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862, 866–867]]
-> - **指标依赖与惯性**：伯努瓦·戈丁（Benoît Godin）指出，由于国家 R&D 投入与专利数等量化指标相比于复杂的“组织学习”、“界面质量”等更容易被收集和测量，这种指标便利性反过来强化了线性模型在政策制定者心中的顽固影响力。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862, footnote 3]]
+> - **单向路径局限** 斯蒂芬·克莱因（Stephen Kline）和内森·罗森伯格（Nathan Rosenberg）指出创新始于市场需求而非研究，[[Blue Skies Research|基础研究]]是在既有知识储备无法解决技术难题时才被按需调用的。（引自 [[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 863]]）
+> - **政策扭曲效应** 受线性模型误导，政府倾向于反向要求科学“证明”其即时经济价值，强制大学转变为专利生产者、甚至直接参与商业孵化，这严重忽视了大学培养批判性毕业生这一更为根本的日常[[Knowledge Exchange|知识交流]]功能。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862, 866–867]]
+> - **指标依赖与惯性** 伯努瓦·戈丁（Benoît Godin）指出，由于国家 R&D 投入与专利数等量化指标相比于复杂的“组织学习”、“界面质量”等更容易被收集和测量，这种指标便利性反过来强化了线性模型在政策制定者心中的顽固影响力。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862, footnote 3]]
 
 ---
 

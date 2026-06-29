@@ -46,10 +46,10 @@ updated: 2026-05-18
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **缺乏真正的学术交锋**：即使在期刊和会议中进行"辩论"，学者们也往往只致力于将自己的意见强加于他人，而非理解对方的知识主张([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])
-> - **学术社区的自我封闭**：学者们找到志同道合的同行社区及其对应的期刊、会议，在各自的子领域内建立事业，"常常愉快地不知晓其内外正在发生的学术对话和辩论"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774-775]])
+> - **缺乏真正的学术交锋** 即使在期刊和会议中进行"辩论"，学者们也往往只致力于将自己的意见强加于他人，而非理解对方的知识主张([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])
+> - **学术社区的自我封闭** 学者们找到志同道合的同行社区及其对应的期刊、会议，在各自的子领域内建立事业，"常常愉快地不知晓其内外正在发生的学术对话和辩论"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774-775]])
 > - **良性忽视而非[[Academic Engagement|学术参与]]**：Eacott 援引 Donmoyer（2001）、Thrupp & Willmott（2003）和 Blackmore（2010）的观点，指出在教育行政与领导力中，对待不同意见者的方式更多是"良性忽视和冷漠"而非智识参与([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
-> - **多学科／跨学科的呼吁停留于表面**：尽管学界呼吁多学科和跨学科方法，但[[Paradigm|范式]]战争的痕迹使得即使是最资深的教授也难以与不同立场的研究者进行有意义的交流([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
+> - **多学科／跨学科的呼吁停留于表面** 尽管学界呼吁多学科和跨学科方法，但[[Paradigm|范式]]战争的痕迹使得即使是最资深的教授也难以与不同立场的研究者进行有意义的交流([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
 
 ## 历史沿革
 
@@ -62,7 +62,7 @@ updated: 2026-05-18
 
 > [!example] 与相关概念的区别
 > - vs **thesis-antithesis-synthesis**（黑格尔辩证法）：[[Argument_Hattie_2017_SLM|Hattie (2017)]]主张学术界应遵循"正题-反题-合题"逻辑，但 Eacott 指出 Hattie 的回应恰恰证明了问题——他只需在表层引用几个词就能制造"反题"，无需真正理解或反驳 Eacott 的核心论点([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.779]])。Eacott 主张以**argument-refutation**（论证-反驳）替代 thesis-antithesis-synthesis，区别在于前者的反驳必须基于对对方论证的实质性参与
-> - vs **良性忽视（benign neglect）**：两者都描述了学术分歧的处理方式，但 Parallel Monologues 更侧重于结构性现象——整个学术领域由多个独立的"独白"构成，而非单一的忽视行为
+> - vs **良性忽视（benign neglect）** 两者都描述了学术分歧的处理方式，但 Parallel Monologues 更侧重于结构性现象——整个学术领域由多个独立的"独白"构成，而非单一的忽视行为
 
 ## 理论基础
 

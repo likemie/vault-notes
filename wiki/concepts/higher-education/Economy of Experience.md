@@ -58,7 +58,7 @@ updated: 2026-05-18
 
 > [!example]
 > - vs [[Employability]] — 就业力是**目标概念**（求职者需要具备的能力），履历经济学是**过程机制**（大学生如何通过管理课余生活来积累就业力）。履历经济学揭示了就业力积累的具身体操演过程（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - vs [[Credential Inflation]] — 文凭通胀是履历经济学出现的**结构性前提**：当大学文凭的交换价值缩水，雇主难以仅通过文凭甄别求职者，"软"实力和履历资本遂成为就业竞争的新战场（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2004）
+> - vs [[Credential Inflation]] — 文凭通胀是履历经济学出现的**结构性前提** 当大学文凭的交换价值缩水，雇主难以仅通过文凭甄别求职者，"软"实力和履历资本遂成为就业竞争的新战场（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2004）
 > - vs [[Cultural Capital]] — 履历经济学实质上是[[Cultural Capital|文化资本]]在就业竞争中的兑现过程：精细投资和包装课余生活需要来自家庭经济、社会和文化资源的加持([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
@@ -67,17 +67,17 @@ updated: 2026-05-18
 
 > [!note]-
 > - **2003 [[Employability|就业力]]相对化**：Brown & Hesketh 论证就业力的相对性——求职者的竞争力取决于在所有竞争者中的排序位置，而非绝对能力（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2003）
-> - **2004 软实力转向**：Brown & Hesketh 进一步揭示雇主招聘要求从"硬"通货（学位和证书）扩展到"软"实力（个人性格、荣誉、工作经验、实习经历），为履历经济学的概念诞生提供了经验基础（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2004）
-> - **2023 中国教育研究应用**：[[Yajun Zheng|郑雅君]]将履历经济学概念用于分析中国精英大学毕业生的竞争环境，将其与[[Social Engagement|社会性投入]]和[[Goal-Controlled Mode|目标掌控模式]]的分析相连接([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **2004 [[Soft Power|软实力]]转向**：Brown & Hesketh 进一步揭示雇主招聘要求从"硬"通货（学位和证书）扩展到"软"实力（个人性格、荣誉、工作经验、实习经历），为履历经济学的概念诞生提供了经验基础（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2004）
+> - **2023 中国教育研究应用**[[Yajun Zheng|郑雅君]]将履历经济学概念用于分析中国精英大学毕业生的竞争环境，将其与[[Social Engagement|社会性投入]]和[[Goal-Controlled Mode|目标掌控模式]]的分析相连接([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> - **课余生活的工具化**：旅行、实习、志愿服务、社团领导经验等原本与谋职无关的课外活动，被重新[[Coding in Qualitative Research|编码]]为简历上的"可兑换资产"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - **自我呈现的管理**：学生不仅需要积累经验，还需要将这些经验"适当包装以衔接雇主的偏好"——简历撰写、面试表现、人际网络维护均成为履历管理的组成部分([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
-> - **家庭资源的依赖**：精细投资和包装课余生活需要来自家庭的经济、社会和文化资源的加持——实质上是[[Cultural Capital|文化资本]]在就业竞争中的兑现过程。优势家庭的学生拥有更多可投资于课余经历的资源，而弱势家庭学生在这一隐性竞争中处于结构性劣势([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **课余生活的工具化** 旅行、实习、志愿服务、社团领导经验等原本与谋职无关的课外活动，被重新[[Coding in Qualitative Research|编码]]为简历上的"可兑换资产"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - **自我呈现的管理** 学生不仅需要积累经验，还需要将这些经验"适当包装以衔接雇主的偏好"——简历撰写、面试表现、人际网络维护均成为履历管理的组成部分([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **家庭资源的依赖** 精细投资和包装课余生活需要来自家庭的经济、社会和文化资源的加持——实质上是[[Cultural Capital|文化资本]]在就业竞争中的兑现过程。优势家庭的学生拥有更多可投资于课余经历的资源，而弱势家庭学生在这一隐性竞争中处于结构性劣势([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -101,8 +101,8 @@ updated: 2026-05-18
 ## 争议与批评
 
 > [!warning]
-> - **阶层不平等的再生产**：履历经济学将就业竞争压力转化为个体的自我管理义务，但不同阶层的学生在投资课余经历方面的起点和资源截然不同。这一概念可能被批评为将结构性不平等自然化为个人能力的差异（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - **大学教育的工具化**：当大学生活被完全[[Coding in Qualitative Research|编码]]为"履历经济学"，通识教育、探索性学习和内在成长的大学原初功能可能被挤出
+> - **阶层不平等的再生产** 履历经济学将就业竞争压力转化为个体的自我管理义务，但不同阶层的学生在投资课余经历方面的起点和资源截然不同。这一概念可能被批评为将结构性不平等自然化为个人能力的差异（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - **大学教育的工具化** 当大学生活被完全[[Coding in Qualitative Research|编码]]为"履历经济学"，通识教育、探索性学习和内在成长的大学原初功能可能被挤出
 
 ---
 

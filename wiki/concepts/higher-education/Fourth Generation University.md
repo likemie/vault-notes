@@ -63,10 +63,10 @@ updated: 2026-05-30
 
 > [!abstract]
 > 大学的代际演化可概括为：
-> - **第一代**：中世纪大学，以教学为核心
-> - **第二代**：洪堡大学模式，教学 + 研究
-> - **第三代**：[[Entrepreneurial University|创业型大学]]（[[Entrepreneurial University]]），教学 + 研究 + 经济参与（Etzkowitz et al., 2000）
-> - **第四代**：第四代大学，教学 + 研究 + 经济参与 + 社会挑战解决方案
+> - **第一代** 中世纪大学，以教学为核心
+> - **第二代** 洪堡大学模式，教学 + 研究
+> - **第三代**[[Entrepreneurial University|创业型大学]]（[[Entrepreneurial University]]），教学 + 研究 + 经济参与（Etzkowitz et al., 2000）
+> - **第四代** 第四代大学，教学 + 研究 + 经济参与 + 社会挑战解决方案
 
 > 第四代话语的出现在一定程度上反映了[[Third Mission (Universities)|第三使命]]在制度化数十年后，大学正在寻找超越经济量化指标的社会价值叙事（pp.161-162）。
 

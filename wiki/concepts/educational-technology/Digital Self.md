@@ -72,7 +72,7 @@ Thompson 等人（2022, p.225）强调"数字自我"这一术语的关键洞见�
 
 Bächle（2016, p.188）用身份证（identity [[Document]]）的类比来说明数字自我的运作：主体通过构成性数据变得可见——正如身份证上的照片、姓名和编号使你成为"可识别的个体"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。
 
-但这种"翻译"（translation）同时是一种**不充分复杂的碎片化**（insufficiently complex fragmentation）——只处理数字建模和用户画像所需的要素，遗漏了人的复杂性(Hartong, 2019, p.12; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。
+但这种"翻译"（translation）同时是一种**不充分复杂的碎片化（insufficiently complex fragmentation）**——只处理数字建模和用户画像所需的要素，遗漏了人的复杂性(Hartong, 2019, p.12; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。
 
 ### 与数字最优的差异
 
@@ -80,8 +80,8 @@ Bächle（2016, p.188）用身份证（identity [[Document]]）的类比来说�
 > 数字自我的治理效果依赖于与"[[Digital Optimum|数字最优]]"（digital optimum）之间的差异：
 
 - **[[Digital Optimum|数字最优]]**：算法理性在持续优化和标准化评估过程中产生的"完美起点"理想形象——它传递具体期望（如"外语专业的学生应该有过海外语言经历"），并构成一个参照标准([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
-- **差异驱动的治理**：数字自我与数字最优之间的差距形成了一种"差异"（differential），这种差异施加着算法治理（algorithmic governance, Beer, 2016）。学生面对这一差距，被要求管理自己的"学习组合"、弥补不足、进行自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
-- **数据的质询**：这种差异构成了一种"数据的质询"（interpellation of data）——不是通过直接的命令，而是通过数字差距来呼唤风险和机遇的自我管理([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
+- **差异驱动的治理** 数字自我与数字最优之间的差距形成了一种"差异"（differential），这种差异施加着算法治理（algorithmic governance, Beer, 2016）。学生面对这一差距，被要求管理自己的"学习组合"、弥补不足、进行自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
+- **数据的质询** 这种差异构成了一种"数据的质询"（interpellation of data）——不是通过直接的命令，而是通过数字差距来呼唤风险和机遇的自我管理([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 
 > [!example]
 > 一位高中生的 OSA 结果显示她的"外语经历"得分较低（只在课堂上学过英语）。数字最优告诉她：理想的外语专业学生应该参加过海外语言项目。她的数字自我与数字最优之间的差距产生了一种隐性的要求——不是"你被拒绝了"，而是"根据你的数据，你需要额外投入"。她可能会主动报名暑期语言班。在这一过程中，她没有受到任何人的强迫——是数字差距本身"说话"了。这就是 [[Societies of Control|控制社会]] 的逻辑：不是"你必须做 X"，而是通过数字调制引导你"自愿"做 X。
@@ -98,9 +98,9 @@ Bächle（2016, p.188）用身份证（identity [[Document]]）的类比来说�
 
 > [!warning]
 
-- **反映论的谬误**：数字自我最常见的误用是将它当作"黑箱的透视"——好像数据提供了进入学生内心世界的窗口。但正如本章强调的，数据不是洞见而是建构([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
-- **数据质量与完整性**：数字自我是对人的"不充分复杂的碎片化"——只保留了数字建模所需的要素，可能系统性地遗漏不可量化的维度(Hartong, 2019, p.12; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
-- **预判性身份的伦理问题**：当数字自我在入学前就被用于标记"高风险"学生时，一个人在获得机会证明自己之前就已经被算法贴上了标签([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
+- **反映论的谬误** 数字自我最常见的误用是将它当作"黑箱的透视"——好像数据提供了进入学生内心世界的窗口。但正如本章强调的，数据不是洞见而是建构([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
+- **数据质量与完整性** 数字自我是对人的"不充分复杂的碎片化"——只保留了数字建模所需的要素，可能系统性地遗漏不可量化的维度(Hartong, 2019, p.12; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
+- **预判性身份的伦理问题** 当数字自我在入学前就被用于标记"高风险"学生时，一个人在获得机会证明自己之前就已经被算法贴上了标签([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 
 ## 相关案例
 

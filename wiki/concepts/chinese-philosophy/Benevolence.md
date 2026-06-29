@@ -67,7 +67,7 @@ updated: 2026-06-02
 > - 拥有某些美德和道德品质只是起点，ren 意味着将这些品质整合为一种完整的生活方式
 
 > [!example]
-> **Ren 与西方道德概念的差异**：ren 没有精确的英文对应词。曾被译为 human goodness（人的善）、benevolence（仁慈）、humanity（人性）、humanheartedness（人心）、authoritative conduct（权威性行为）等，但都无法完全捕捉其含义([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])。
+> **Ren 与西方道德概念的差异** ren 没有精确的英文对应词。曾被译为 human goodness（人的善）、benevolence（仁慈）、humanity（人性）、humanheartedness（人心）、authoritative conduct（权威性行为）等，但都无法完全捕捉其含义([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])。
 
 ---
 
@@ -84,12 +84,12 @@ updated: 2026-06-02
 ## 核心要素
 
 > [!abstract]
-> 1. **终身性 (never-ending)**：追求 ren 不是一次性成就，而是永无止境的过程。仁以为己任，不亦重乎？死而后已，不亦远乎？([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 2. **自主性 (self-chosen)**：ren 是个人自主选择的生命道路，不是外部强加的规范([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 3. **警觉的自我审视 (vigilant self-watchfulness)**：以敬畏和尊重的精神，对每一件事、每一个行为、每一个念头进行自我审查([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 4. **开放性与创造性 (open and creative)**：因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 5. **深刻的内在喜乐 (deep joy)**：在追求 ren 的过程中，人见证自己的生命工程，伴随着深深的喜悦、满足和充实感([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 6. **即世间而超越 (earthly bound and spiritually transcendent)**：ren 既是脚踏实地的日常实践，又具有精神超越的维度([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> 1. **终身性 (never-ending)** 追求 ren 不是一次性成就，而是永无止境的过程。仁以为己任，不亦重乎？死而后已，不亦远乎？([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> 2. **自主性 (self-chosen)** ren 是个人自主选择的生命道路，不是外部强加的规范([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> 3. **警觉的自我审视 (vigilant self-watchfulness)** 以敬畏和尊重的精神，对每一件事、每一个行为、每一个念头进行自我审查([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> 4. **开放性与创造性 (open and creative)** 因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> 5. **深刻的内在喜乐 (deep joy)** 在追求 ren 的过程中，人见证自己的生命工程，伴随着深深的喜悦、满足和充实感([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> 6. **即世间而超越 (earthly bound and spiritually transcendent)** ren 既是脚踏实地的日常实践，又具有精神超越的维度([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
 
 ---
 

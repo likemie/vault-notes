@@ -71,17 +71,17 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **传统教育与"新学校"运动的历史张力**：论文以传统教学论（Komenský, Diesterweg）的五支柱（知识[[Paradigm|范式]]、教师中心、班级授课制、纪律、Bloom 分类学）与 20 世纪下半叶欧洲"新学校"运动（Cousinet, Freinet）及去学校化理论（Illich, Holt）之间的对峙为历史背景，将 Hattie 的 [[Visible Learning]] 定位为"新学校"意识形态在当代教育政策中的间接体现(p.230-231)
+> - **传统教育与"新学校"运动的历史张力** 论文以传统教学论（Komenský, Diesterweg）的五支柱（知识[[Paradigm|范式]]、教师中心、班级授课制、纪律、Bloom 分类学）与 20 世纪下半叶欧洲"新学校"运动（Cousinet, Freinet）及去学校化理论（Illich, Holt）之间的对峙为历史背景，将 Hattie 的 [[Visible Learning]] 定位为"新学校"意识形态在当代教育政策中的间接体现(p.230-231)
 > - **[[Policy Borrowing|政策借用]]视角**：论文虽未明确使用该术语，但其核心问题是典型的政策借用分析——西方教育创新（澳大利亚、新西兰、美国、丹麦已采用）是否能且应被转移至俄罗斯？论文的结论（"inapplicable"）构成对不加批判的政策借用的警告(p.240-241)
-> - **方法论批判传统**：论文系统梳理了从 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 到 [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 的 Hattie 批评[[Document|文献]]，将其分为方法论批评和文化批评两个阵营(p.235-238)
+> - **方法论批判传统** 论文系统梳理了从 [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 到 [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 的 Hattie 批评[[Document|文献]]，将其分为方法论批评和文化批评两个阵营(p.235-238)
 
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法 1：论述分析**（discursive analysis）— 对 Hattie 的概念及其批评[[Document|文献]]进行理论和方法的综述，综合正反双方论点(p.232)
-> - **方法 2：变差系数统计检验**（variation coefficient analysis）— 对 Hattie [[Meta-analysis|元分析]]中使用的 133 个（正值）[[Effect Size|效应量]]计算变差系数 Vσ，检验其数据集的同质性(p.238-239)。作者声称这是前人未做过的原创分析（"which has not been done before", p.229）
-> - **数据来源**：Hattie (2009/2017 俄译本) 的效应量数据表；Western 批评文献([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]]; Myburgh; McKnight & Whitburn, 2020 等)；俄罗斯教育社会学数据（VTsIOM 民意调查、TALIS-2013、RANEPA 全俄监测、Vologda 地区教师监测）
-> - **局限性（作者自认）**：批评文献的分析仅限于已发表的英文和俄文资料；变差系数分析仅使用效应量的平均值而非原始分布数据
+> - **方法 1：论述分析（discursive analysis）**— 对 Hattie 的概念及其批评[[Document|文献]]进行理论和方法的综述，综合正反双方论点(p.232)
+> - **方法 2：变差系数统计检验（variation coefficient analysis）**— 对 Hattie [[Meta-analysis|元分析]]中使用的 133 个（正值）[[Effect Size|效应量]]计算变差系数 Vσ，检验其数据集的同质性(p.238-239)。作者声称这是前人未做过的原创分析（"which has not been done before", p.229）
+> - **数据来源** Hattie (2009/2017 俄译本) 的效应量数据表；Western 批评文献([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]]; Myburgh; McKnight & Whitburn, 2020 等)；俄罗斯教育社会学数据（VTsIOM 民意调查、TALIS-2013、RANEPA 全俄监测、Vologda 地区教师监测）
+> - **局限性（作者自认）** 批评文献的分析仅限于已发表的英文和俄文资料；变差系数分析仅使用效应量的平均值而非原始分布数据
 
 ## 核心论证
 
@@ -94,9 +94,9 @@ citation_aliases:
 >
 > 以 d=0.40 为"关节点"构建"影响气压计"：
 > - **负面效应区**（d<0）：如暑假、看电视
-> - **发展效应区**（d=0-0.15）：如教师学科知识（d=0.09）、教师教育（d=0.11）
-> - **低中效应区**（d=0.15-0.4）：如[[Class Size|班级规模]]（d=0.21）、家庭结构（d=0.17）
-> - **期望效应区**（d>0.4）：如微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship|师生关系]]（d=0.72）(p.234)
+> - **发展效应区（d=0-0.15）** 如教师学科知识（d=0.09）、教师教育（d=0.11）
+> - **低中效应区（d=0.15-0.4）** 如[[Class Size|班级规模]]（d=0.21）、家庭结构（d=0.17）
+> - **期望效应区（d>0.4）** 如微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship|师生关系]]（d=0.72）(p.234)
 >
 > Hattie 的核心结论——"教师学科知识和教师资格是最不重要的（d=0.1），而微格教学和教师反馈最重要"——引发最大争议(p.233)。
 >
@@ -104,20 +104,20 @@ citation_aliases:
 >
 > 论文汇编了 10+ 位学者的批评（Table 2, p.236），分为方法论和文化两个维度：
 >
-> **方法论批评**：元分析数据过时（Lupton, Terhart）；效应量平均化不当（Brown, Kamenetz）；异构研究"苹果与橘子"式比较([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Jones)；效应量非[[Causality|因果性]]([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；d=0.40 阈值任意([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；[[Qualitative Research|定性研究]]被忽略([[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Snook_2009_NZJES|Snook et al., 2009]])；未[[Societies of Control|控制社会]]环境因素([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]])；缺乏效度评估([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；低于 0.40 的效应量不应被忽略（Slavin）；数据来自英语国家不可全球推广([[Argument_Snook_2009_NZJES|Snook et al., 2009]])
+> **方法论批评** 元分析数据过时（Lupton, Terhart）；效应量平均化不当（Brown, Kamenetz）；异构研究"苹果与橘子"式比较([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Jones)；效应量非[[Causality|因果性]]([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；d=0.40 阈值任意([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；[[Qualitative Research|定性研究]]被忽略([[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Snook_2009_NZJES|Snook et al., 2009]])；未[[Societies of Control|控制社会]]环境因素([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]])；缺乏效度评估([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；低于 0.40 的效应量不应被忽略（Slavin）；数据来自英语国家不可全球推广([[Argument_Snook_2009_NZJES|Snook et al., 2009]])
 >
 > Myburgh et al.识别了元-元分析的六项"慢性问题"：垃圾进垃圾出、[[Publication Bias|发表偏倚]]、苹果与橘子比较、效应量误用、经验偏见（只使用经验可得的指标）、应用局限（忽视社会互动因素）(p.237)
 >
-> **文化批评**：[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 的七点批评：学习不总是可见/可量化；[[Visible Learning|VL]] 带有政治包袱；引入"新管理全景监狱主义"；教育法西斯主义；理性"男性视角"破坏女性对教育的垄断(p.237-238)
+> **文化批评**[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 的七点批评：学习不总是可见/可量化；[[Visible Learning|VL]] 带有政治包袱；引入"新管理全景监狱主义"；教育法西斯主义；理性"男性视角"破坏女性对教育的垄断(p.237-238)
 >
-> Golovchin 指出一个关键观察：**批评者的论点迄今主要是理论性的、情绪化的，未尝试用数学方法检验 Hattie 模型的稳健性**(p.238)。这成为论文第三步的动机。
+> Golovchin 指出一个关键观察：**批评者的论点迄今主要是理论性的、情绪化的，未尝试用数学方法检验 Hattie 模型的稳健性(p.238)**。这成为论文第三步的动机。
 >
 > ### 第三步：变差系数原创分析
 >
 > Golovchin 计算 Hattie 133 个正值效应量的变差系数：
 > - **总体 Vσ = 56.87%**，远超样本同质性统计阈值（33%）
 > - 按影响源分解：家庭 38.57%、学校 65.97%、学生 71.24%、教师 51.01%、教学方法 50.65%、课程 41.95%
-> - **所有影响源均超过 33% 同质性阈值**(p.238-239)
+> - **所有影响源均超过 33% 同质性阈值(p.238-239)**
 >
 > > 结论：Hattie 的数据集极端不均匀（extremely uneven），"在这样一个不稳定的模型中确定任何效应的强度，很可能不会导致客观结论的形成"。批评者关于元分析过程中缺乏数据控制的[[Hypothesis|假设]]得到统计确认(p.239)。
 >
@@ -125,11 +125,11 @@ citation_aliases:
 >
 > Golovchin 得出结论：**Hattie 的理念不适用于俄罗斯教育政策**，原因如下：
 >
-> 1. **方法无效**：效应量数据集不均匀，结论不可靠
-> 2. **文化不匹配**：Hattie 将教师定位为"学生教育路径的调节者（moderator）而非专业教师"，这种"去专业化"（underprofessionalization）与俄罗斯 2016 年修订的《教师》职业标准（允许无师范教育背景者从教）形成危险共振，可能进一步降低教师职业的社会声望(p.240)
-> 3. **官僚化风险**：VL 要求的持续监控和外部问责将增加教师的官僚负担。RANEPA 2018 年全俄监测显示 79% 的中学教师报告报表工作量显著增加，工作"越来越难"；Vologda 地区研究显示超过四分之一的想离职的教师主要担忧职业官僚化(p.240-241)
-> 4. **澳大利亚前车之鉴**：[[Argument_Eacott_2017_SLM|Eacott (2017)]] 描述澳大利亚实施 VL 后形成的"持续数据生产"政策为"澳大利亚教育领导力的悲剧"(p.240)
-> 5. **教育中很少有简单的"有效"或"无效"**：正确的问题是"在什么条件下这在学校中有效？"——而这与 Hattie 的方法论逻辑相悖(p.241, citing Slavin)
+> 1. **方法无效** 效应量数据集不均匀，结论不可靠
+> 2. **文化不匹配** Hattie 将教师定位为"学生教育路径的调节者（moderator）而非专业教师"，这种"去专业化"（underprofessionalization）与俄罗斯 2016 年修订的《教师》职业标准（允许无师范教育背景者从教）形成危险共振，可能进一步降低教师职业的社会声望(p.240)
+> 3. **官僚化风险** VL 要求的持续监控和外部问责将增加教师的官僚负担。RANEPA 2018 年全俄监测显示 79% 的中学教师报告报表工作量显著增加，工作"越来越难"；Vologda 地区研究显示超过四分之一的想离职的教师主要担忧职业官僚化(p.240-241)
+> 4. **澳大利亚前车之鉴**[[Argument_Eacott_2017_SLM|Eacott (2017)]] 描述澳大利亚实施 VL 后形成的"持续数据生产"政策为"澳大利亚教育领导力的悲剧"(p.240)
+> 5. **教育中很少有简单的"有效"或"无效"** 正确的问题是"在什么条件下这在学校中有效？"——而这与 Hattie 的方法论逻辑相悖(p.241, citing Slavin)
 
 ## 主要发现
 
@@ -161,10 +161,10 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **论文自认局限**：批评[[Document|文献]]限于英文和俄文资料；变差系数计算仅基于[[Effect Size|效应量]]均值而非原始分布数据(p.238-239)
-> - **数据来源限制**：Hattie 的[[Meta-analysis|元分析]]数据主要来自美国、澳大利亚和新西兰（1980s-2000s 英语国家），限制了向俄罗斯情境外推的有效性(p.232)
-> - **单一方法局限**：仅使用变差系数一种统计检验方法，未进行敏感性分析或替代方法交叉验证
-> - **潜在立场偏差**：论文明确站在 Hattie 批评者一侧，对支持 Hattie 观点的学者（Arnold et al.）着墨较少
+> - **论文自认局限** 批评[[Document|文献]]限于英文和俄文资料；变差系数计算仅基于[[Effect Size|效应量]]均值而非原始分布数据(p.238-239)
+> - **数据来源限制** Hattie 的[[Meta-analysis|元分析]]数据主要来自美国、澳大利亚和新西兰（1980s-2000s 英语国家），限制了向俄罗斯情境外推的有效性(p.232)
+> - **单一方法局限** 仅使用变差系数一种统计检验方法，未进行敏感性分析或替代方法交叉验证
+> - **潜在立场偏差** 论文明确站在 Hattie 批评者一侧，对支持 Hattie 观点的学者（Arnold et al.）着墨较少
 
 ## 来源
 

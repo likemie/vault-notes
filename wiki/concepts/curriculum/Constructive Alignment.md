@@ -34,8 +34,8 @@ updated: '2026-05-18'
 > [!info] 定义
 > 建构性对齐（Constructive Alignment）是 [[John Biggs]] (1996, 2003) 提出的课程设计原则，包含两个前提：
 >
-> 1. **建构性前提**：学生通过他们所做的学习活动来建构意义（students [[Construct]] meaning from what they do to learn）
-> 2. **对齐前提**：教师将计划的学习活动与预期的学习结果对齐（the teacher aligns the planned learning activities with the learning outcomes）
+> 1. **建构性前提** 学生通过他们所做的学习活动来建构意义（students [[Construct]] meaning from what they do to learn）
+> 2. **对齐前提** 教师将计划的学习活动与预期的学习结果对齐（the teacher aligns the planned learning activities with the learning outcomes）
 >
 > 由此，任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐（Hattie, 2015, p.87）。
 
@@ -43,9 +43,9 @@ updated: '2026-05-18'
 
 > [!abstract] 对齐的三个要素
 > 建构性对齐涉及三个要素的逻辑一致性（Hattie, 2015, p.87）：
-> - **预期学习结果**（intended learning outcomes）：课程声称要达成的目标
-> - **教学活动**（teaching/learning activities）：学生为达成目标所做的活动
-> - **评估任务**（assessment tasks）：测量学生达成目标程度的任务
+> - **预期学习结果（intended learning outcomes）** 课程声称要达成的目标
+> - **教学活动（teaching/learning activities）** 学生为达成目标所做的活动
+> - **评估任务（assessment tasks）** 测量学生达成目标程度的任务
 >
 > 当三者不一致时——例如课程声称目标是深层理解但评估测量的是表层记忆——学生将按照评估而非声称的目标来学习（参见 [[Surface and Deep Learning]]）。
 >

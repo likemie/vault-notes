@@ -78,9 +78,9 @@ updated: 2026-05-24
 > [!info]
 > "中国学习者"（Chinese learner）在学术[[Document|文献]]中有两个相互关联但不完全重叠的用法：
 >
-> **1. 文化学习模型（cultural learning model）**：[[Argument_Li_2012_Cambridge|Li (2012)]] 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以七种[[Learning Virtues|学习美德]]为个人能动性，以[[Self-Cultivation|修身]]为终身项目，以[[Take the World Upon Oneself|以天下为己任]]为社会归属。这一用法描述的是**文化理想型**（ideal type），而非任何个体学习者的描述([[Argument_Li_2012_Cambridge|Li, 2012, pp.57-58]])。
+> **1. 文化学习模型（cultural learning model）**[[Argument_Li_2012_Cambridge|Li (2012)]] 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以七种[[Learning Virtues|学习美德]]为个人能动性，以[[Self-Cultivation|修身]]为终身项目，以[[Take the World Upon Oneself|以天下为己任]]为社会归属。这一用法描述的是**文化理想型（ideal type）**，而非任何个体学习者的描述([[Argument_Li_2012_Cambridge|Li, 2012, pp.57-58]])。
 >
-> **2. 跨文化教育话语中的群体标签**：在 [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] 和 [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] 等[[International Education|国际教育]]文献中，"中国学习者"通常指来自中国大陆及[[Confucian Heritage Cultures|儒家文化圈]]（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被[[Hypothesis|假设]]有相同的认同和偏好([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.34]])。
+> **2. 跨文化教育话语中的群体标签** 在 [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] 和 [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] 等[[International Education|国际教育]]文献中，"中国学习者"通常指来自中国大陆及[[Confucian Heritage Cultures|儒家文化圈]]（[[Confucian Heritage Cultures|CHC]]——香港、台湾、新加坡）的学生群体。Slethaug 的核心论点是：**不存在单一类型的中国学习者**——中国大陆内部因地区、年龄、性别、经济和文化地位而极为多元，来自不同地区的学生不希望被[[Hypothesis|假设]]有相同的认同和偏好([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.34]])。
 >
 > 这两个用法之间的关系，见 [[#概念演变|概念演变]]。
 
@@ -96,7 +96,7 @@ updated: 2026-05-24
 
 ### 学习方向：向内完善自我
 
-中国学习者模型的根本特征：学习指向**自我**，而非外部世界。在儒家传统中，"自我是人要去**做**（work on）、去改善、去精炼、去完成的项目"([[Argument_Li_2012_Cambridge|Li, 2012, p.47]])。这与 [[Western Learner|西方学习者]] 的向外探究世界形成方向性对立。
+中国学习者模型的根本特征：学习指向**自我**，而非外部世界。在儒家传统中，"自我是人要去**做（work on）**、去改善、去精炼、去完成的项目"([[Argument_Li_2012_Cambridge|Li, 2012, p.47]])。这与 [[Western Learner|西方学习者]] 的向外探究世界形成方向性对立。
 
 一个人的本质不是由生物学定义的，而是由其在[[Five Cardinal Relationships|五伦]]关系（父子、夫妻、兄弟、君臣、朋友）中的行事方式定义的——"这些关系及其社会和道德含义——而不是我们的生物学——定义了我们作为人的本质"([[Argument_Li_2012_Cambridge|Li, 2012, pp.47-48]])。
 
@@ -134,12 +134,12 @@ updated: 2026-05-24
 
 | 美德 | 功能 | 时间尺度 |
 |------|------|----------|
-| **诚心**（Earnestness/Sincerity） | 启动——真诚承诺学习 | 一次性决定 |
-| **勤奋**（Diligence/Self-Exertion） | 持续——大量时间投入，经历熟→练→精三阶段 | 长期（年、十年） |
-| **刻苦**（Endurance of Hardship） | 抵挡——面对困难不退缩 | 困难时刻 |
-| **恒心**（Perseverance） | 维持——从头到尾不放弃 | 全过程 |
-| **专心**（Concentration） | 聚焦——每个时刻的深度投入 | 每时每刻 |
-| **尊师**（Respect for Teachers） | 接纳——对教师引导保持开放 | 关系性 |
+| **诚心（Earnestness/Sincerity）** | 启动——真诚承诺学习 | 一次性决定 |
+| **勤奋（Diligence/Self-Exertion）** | 持续——大量时间投入，经历熟→练→精三阶段 | 长期（年、十年） |
+| **刻苦（Endurance of Hardship）** | 抵挡——面对困难不退缩 | 困难时刻 |
+| **恒心（Perseverance）** | 维持——从头到尾不放弃 | 全过程 |
+| **专心（Concentration）** | 聚焦——每个时刻的深度投入 | 每时每刻 |
+| **尊师（Respect for Teachers）** | 接纳——对教师引导保持开放 | 关系性 |
 | **[[Humility in Learning\|谦虚]]**（Humility） | 自省——始终认为需要自我改进 | 终身 |
 
 五种行为美德（诚心、勤奋、刻苦、恒心、专心）在实证中出现了直接的行为描述对应；两种情感美德（尊师、谦虚）出现了情感描述对应([[Argument_Li_2012_Cambridge|Li, 2012, pp.91-96]])。每项美德的文本传统、实证发现和文化认知差异详见 [[Learning Virtues]]。
@@ -284,12 +284,12 @@ updated: 2026-05-24
 ## 争议与批评
 
 > [!warning]
-> - **"中国学习者"范畴本身的问题**：[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p.34)]]指出，仅考虑一种"中国性"是有问题的；完全忽视学生的中国性以迁就教师母国价值，同样有问题
-> - **"儒家价值"归因缺乏实证基础**：Clark & Gieve（2006, p.63）指出西方教师通过诉诸"看似有道理的儒家传统解释"来验证对中国学习者的感知，而非通过实证。儒学在数百年间被不断重新解读以服务于政治议程——李光耀称新加坡为"儒家社会"，但其中的许多价值与[[Confucius|孔子]]能辨认的内容"相去甚远"（Watkins & Biggs, 2001, p.4，转引自 Ryan, 2010, pp.46-47）。Louie（2005）指出 20 世纪对儒学的解读经历了"使得任何公认的诠释变得毫无意义"的转变
-> - **中国内部文化多元性被忽视**：中国有 55 个官方承认的少数民族文化及佛教、道教、基督教、伊斯兰教等多元宗教传统([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.47]])
-> - **对学生的身份伤害**：[[Argument_Ryan_2010_ChineseLearner|Ryan (2010, pp.49–50)]]描述了学生在海外经历的"身份丧失和自尊降低"，机制见 [[Stereotype Threat]]
+> - **"中国学习者"范畴本身的问题**[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p.34)]]指出，仅考虑一种"中国性"是有问题的；完全忽视学生的中国性以迁就教师母国价值，同样有问题
+> - **"儒家价值"归因缺乏实证基础**Clark & Gieve（2006, p.63）指出西方教师通过诉诸"看似有道理的儒家传统解释"来验证对中国学习者的感知，而非通过实证。儒学在数百年间被不断重新解读以服务于政治议程——李光耀称新加坡为"儒家社会"，但其中的许多价值与[[Confucius|孔子]]能辨认的内容"相去甚远"（Watkins & Biggs, 2001, p.4，转引自 Ryan, 2010, pp.46-47）。Louie（2005）指出 20 世纪对儒学的解读经历了"使得任何公认的诠释变得毫无意义"的转变
+> - **中国内部文化多元性被忽视** 中国有 55 个官方承认的少数民族文化及佛教、道教、基督教、伊斯兰教等多元宗教传统([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.47]])
+> - **对学生的身份伤害**[[Argument_Ryan_2010_ChineseLearner|Ryan (2010, pp.49–50)]]描述了学生在海外经历的"身份丧失和自尊降低"，机制见 [[Stereotype Threat]]
 > - **[[Argument_Li_2012_Cambridge|Li (2012)]] 模型的局限**：Li 的模型是文化理想型（ideal type），不描述任何个体学习者；聚焦"一般文化取向"而忽略内部差异和反例([[Argument_Li_2012_Cambridge|Li, 2012, p.xi]])。模型中的"中国学习者"是来自儒家文本和精英大学生样本的提炼，其对中国农村、少数民族或非精英学习者的代表性需要更多研究支持
-> - **"儒家道德"与当代中国的现实矛盾**：儒学的道德[[Bildung|教化]]影响在当代中国腐败泛滥、关系凌驾于能力之上等现实面前需重新审视([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.47]])。[[Civil Service Examination|科举制度]] 的历史演变——从道德选拔到[[Examination Hell|考试地狱]]——见 [[Examination Hell#争议与批评]]
+> - **"儒家道德"与当代中国的现实矛盾** 儒学的道德[[Bildung|教化]]影响在当代中国腐败泛滥、关系凌驾于能力之上等现实面前需重新审视([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.47]])。[[Civil Service Examination|科举制度]] 的历史演变——从道德选拔到[[Examination Hell|考试地狱]]——见 [[Examination Hell#争议与批评]]
 
 ---
 

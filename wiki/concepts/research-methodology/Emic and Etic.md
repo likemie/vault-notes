@@ -103,10 +103,10 @@ updated: 2026-06-24
 ## 概念演变
 
 > [!dev-timeline] Emic/Etic 的概念演变
-> - **1950s–1960s — 语言学起源**：Pike（1954）从音位学（phonemic，语言内部的声音系统）和语音学（phonetic，跨语言的普遍声音规律）的区分中类比出这对概念——emic 研究特定文化的内部结构，etic 寻求跨文化的普遍框架。
-> - **1970s–1980s — 人类学采纳**：[[Ethnography|人类学研究]]率先系统性地将 emic 视角引入田野方法，以此增进对世界各文化内在逻辑的理解。传统跨文化心理学研究同期长期由 etic 视角主导，以西方科学[[Paradigm|范式]]为模板进行理论驱动、[[Hypothesis|假设]]检验式比较（[[Argument_Li_2012_Cambridge|Li, 2012, p.77]]）。
-> - **1993 — 教育研究方法论的系统整合**：LeCompte & Preissle（1993: 45）从语言学类比出发，将这对概念引入教育研究的[[Ethnography|民族志]]方法论，纳入民族志方法与[[Positivism|实证主义]]方法的五项系统对比框架中（描述vs预测、归纳vs演绎、理论生成vs验证、建构vs枚举、主观性vs客观性）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]
-> - **2012 — 跨文化学习研究的应用**：[[Argument_Li_2012_Cambridge|Li (2012)]]有意识地以 emic 视角为方法论[[Blue Skies Research|基础研究]]中国与欧美学习信念差异。借助 [[Prototype Methods]] 和 [[Cultural Models]] 等人类学方法，获取中英文母语者对"学习"的自由联想词汇（225个中文，203个英文），通过聚类分析生成文化层面的学习模型，揭示了两种文化在学习目的、能动过程、情感维度和成就标准上的系统性差异（[[Argument_Li_2012_Cambridge|Li, 2012, pp.77-85]]）。
+> - **1950s–1960s — 语言学起源**Pike（1954）从音位学（phonemic，语言内部的声音系统）和语音学（phonetic，跨语言的普遍声音规律）的区分中类比出这对概念——emic 研究特定文化的内部结构，etic 寻求跨文化的普遍框架。
+> - **1970s–1980s — 人类学采纳**[[Ethnography|人类学研究]]率先系统性地将 emic 视角引入田野方法，以此增进对世界各文化内在逻辑的理解。传统跨文化心理学研究同期长期由 etic 视角主导，以西方科学[[Paradigm|范式]]为模板进行理论驱动、[[Hypothesis|假设]]检验式比较（[[Argument_Li_2012_Cambridge|Li, 2012, p.77]]）。
+> - **1993 — 教育研究方法论的系统整合** LeCompte & Preissle（1993: 45）从语言学类比出发，将这对概念引入教育研究的[[Ethnography|民族志]]方法论，纳入民族志方法与[[Positivism|实证主义]]方法的五项系统对比框架中（描述vs预测、归纳vs演绎、理论生成vs验证、建构vs枚举、主观性vs客观性）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]
+> - **2012 — 跨文化学习研究的应用**[[Argument_Li_2012_Cambridge|Li (2012)]]有意识地以 emic 视角为方法论[[Blue Skies Research|基础研究]]中国与欧美学习信念差异。借助 [[Prototype Methods]] 和 [[Cultural Models]] 等人类学方法，获取中英文母语者对"学习"的自由联想词汇（225个中文，203个英文），通过聚类分析生成文化层面的学习模型，揭示了两种文化在学习目的、能动过程、情感维度和成就标准上的系统性差异（[[Argument_Li_2012_Cambridge|Li, 2012, pp.77-85]]）。
 
 ---
 

@@ -74,10 +74,10 @@ updated: 2026-06-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **理念编排（Idea Orchestration）**：网络内部各节点（如智库、中介）协同宣传并推广特定的科学或政策话语（如将特定认知科学理论列为唯一科学真理），以框定政策讨论的前提和沉默范围。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **理念编排（Idea Orchestration）** 网络内部各节点（如智库、中介）协同宣传并推广特定的科学或政策话语（如将特定认知科学理论列为唯一科学真理），以框定政策讨论的前提和沉默范围。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **人事与资金的网状穿梭（[[Boundary Spanner|boundary spanning]]）**：网络核心行动者在官方监管机构、民间保守智库与中介组织之间进行多重身份穿梭（如詹妮弗·巴金汉（Jennifer Buckingham）兼任保守智库董事与官方教师监管机构董事），实现政策意图的隐性合流。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **数字与技术基础设施底座（Shared Infrastructure）**：各网络节点在底层技术、系统托管及数据交换上高度集成（如官方大纲设计机构、课程认证机构与证据中介共享同一个底层技术提供商），形成行政上的合规问责闭环。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **循证政策的商业变现（Commercial Monetisation）**：网络中推荐的强制性评估（如初始教师准入测试）通过行政手段落地，为特定非政府节点带来巨额且稳定的商业营收，达成商业与制度的深度共生。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **数字与技术基础设施底座（Shared Infrastructure）** 各网络节点在底层技术、系统托管及数据交换上高度集成（如官方大纲设计机构、课程认证机构与证据中介共享同一个底层技术提供商），形成行政上的合规问责闭环。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **循证政策的商业变现（Commercial Monetisation）** 网络中推荐的强制性评估（如初始教师准入测试）通过行政手段落地，为特定非政府节点带来巨额且稳定的商业营收，达成商业与制度的深度共生。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 
@@ -107,17 +107,17 @@ updated: 2026-06-17
 > 当政策网络的“理念编排”结合了官方的监管、认证与资金拨付行政手段时，会迅速演变为一套自循环的惩罚性表演问责闭环，极大限制了基层行动者的专业自主权。
 > 
 > > [!implication]- 应用后果
-> > - **解释后果**：改变了对“政策执行”的理解——执行不再是单纯的政府指令下达，而是由课程认证附表强制介入、质量保证委员会常态审计、大学绩效资金拨付强制捆绑组成的制度性死锁。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> > - **应用案例**：可直接用于解构当前初始教师教育（ITE）标准化改革和跨国教育评估系统的行政监视网络。
+> > - **解释后果** 改变了对“政策执行”的理解——执行不再是单纯的政府指令下达，而是由课程认证附表强制介入、质量保证委员会常态审计、大学绩效资金拨付强制捆绑组成的制度性死锁。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> > - **应用案例** 可直接用于解构当前初始教师教育（ITE）标准化改革和跨国教育评估系统的行政监视网络。
 
 ---
 
 ## 概念演变
 
 > [!timeline] 概念演变
-> - **2000–2010 起源阶段**：主要用于分析传统西方国家内部政府部门与行业利益集团的协商网络。
-> - **2012 跨国政策网络转向**：[[Stephen Ball]] 提出“全球政策网络”与“异质治理”概念，专门指涉跨国中介公司、[[Venture Philanthropy|风险慈善]]基金会（Venture Philanthropy）以及新自由主义智库在重塑主权国家公共政策方面的[[Snowball Sampling|网络化]]操纵。
-> - **2018后 证据生态网络的合流**：以英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）实施全球证据生态系统计划为代表，政策网络以“中立证据、什么有效”的科学外衣出现，在多国平移复制镜像证据组织（如[[Australian Education Research Organisation|澳大利亚教育研究组织]]，AERO），达成全球话语的一致性。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **2000–2010 起源阶段** 主要用于分析传统西方国家内部政府部门与行业利益集团的协商网络。
+> - **2012 跨国政策网络转向**[[Stephen Ball]] 提出“全球政策网络”与“异质治理”概念，专门指涉跨国中介公司、[[Venture Philanthropy|风险慈善]]基金会（Venture Philanthropy）以及新自由主义智库在重塑主权国家公共政策方面的[[Snowball Sampling|网络化]]操纵。
+> - **2018后 证据生态网络的合流** 以英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）实施全球证据生态系统计划为代表，政策网络以“中立证据、什么有效”的科学外衣出现，在多国平移复制镜像证据组织（如[[Australian Education Research Organisation|澳大利亚教育研究组织]]，AERO），达成全球话语的一致性。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 
@@ -131,5 +131,5 @@ updated: 2026-06-17
 ## 争议与批评
 
 > [!tension] 核心争议
-> - **民主问责的消解**：政策网络把权力和决策从公开的、对选民负责的教育部与议会，转移到隐性运作、由商业中介和私有智库主导的“治理网络”中，直接损害了公共教育政策制定的民主合法性与透明度。
-> - **跨国利益的隐秘代理**：由跨国矿业公司慈善基金会（如[[BHP Foundation|必和必拓基金会]]）注资的全球扩张，事实上是用私人意志和新自由主义逻辑置换了国家教育政策的本体价值追求，使教育降维异化为可度量和计算的商业逻辑。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **民主问责的消解** 政策网络把权力和决策从公开的、对选民负责的教育部与议会，转移到隐性运作、由商业中介和私有智库主导的“治理网络”中，直接损害了公共教育政策制定的民主合法性与透明度。
+> - **跨国利益的隐秘代理** 由跨国矿业公司慈善基金会（如[[BHP Foundation|必和必拓基金会]]）注资的全球扩张，事实上是用私人意志和新自由主义逻辑置换了国家教育政策的本体价值追求，使教育降维异化为可度量和计算的商业逻辑。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])

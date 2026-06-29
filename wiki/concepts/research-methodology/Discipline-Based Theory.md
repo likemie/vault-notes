@@ -72,7 +72,7 @@ updated: 2026-05-31
 > **学科理论 vs [[Social Justice Theory|社会正义理论]]**：学科理论从学科[[Document|文献]]中提取，关注[[Variable|变量]]间关系的解释和预测；社会正义理论从边缘群体的需求和视角出发，关注权力、压迫和社会变革。两者都是[[Mixed Methods Research|混合方法研究]]中常用的理论类型。
 
 > [!example]
-> **学科理论 vs 世界观（worldview）**：世界观涉及研究者的信念和价值观，在抽象层面运作，可能不会被明确陈述；理论则不那么抽象，从文献中提取，为研究设计的诸多方面提供具体指导([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.71]]; Crotty, 1998)。
+> **学科理论 vs 世界观（worldview）** 世界观涉及研究者的信念和价值观，在抽象层面运作，可能不会被明确陈述；理论则不那么抽象，从文献中提取，为研究设计的诸多方面提供具体指导([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.71]]; Crotty, 1998)。
 
 ## 理论基础
 

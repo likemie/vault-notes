@@ -45,7 +45,7 @@ updated: 2026-05-24
 > [!info]
 > [[Socrates|苏格拉底]]式辅导是 Li（2012）基于欧裔美国（European-American）母子对话研究提出的一种家庭教育互动模式。在这种模式中，家长——尤其是母亲——以类似苏格拉底引导学童的方式，通过日常对话将儿童的学习信念引向心智能力、思维过程和积极情感的方向([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
-这一模式的核心信念是：学习的关键在于儿童**心智的伟大**（the greatness of the self as a learner）。家长的任务不是灌输知识，而是打开儿童那"初生但有能力的心智"（nascent but capable mind），让儿童自己去探索、理解、创造。
+这一模式的核心信念是：学习的关键在于儿童**心智的伟大（the greatness of the self as a learner）**。家长的任务不是灌输知识，而是打开儿童那"初生但有能力的心智"（nascent but capable mind），让儿童自己去探索、理解、创造。
 
 ---
 ## 核心要素
@@ -79,7 +79,7 @@ updated: 2026-05-24
 
 欧裔美国母亲在[[Parental Cognitive and Affective Socialization|情感社会化]]上有两个重点([[Argument_Li_2012_Cambridge|Li, 2012]])：
 
-**学习过程中的情感——兴趣与乐趣（interest and fun）**：母亲持续引导儿童将学习与享受联系起来。典型做法包括将抽象学习内容（如算术）转化为儿童感兴趣的情境（如青蛙故事），以及反复追问"你享受这个吗？""这样不是更有趣吗？"([[Argument_Li_2012_Cambridge|Li, 2012]])。
+**学习过程中的情感——兴趣与乐趣（interest and fun）** 母亲持续引导儿童将学习与享受联系起来。典型做法包括将抽象学习内容（如算术）转化为儿童感兴趣的情境（如青蛙故事），以及反复追问"你享受这个吗？""这样不是更有趣吗？"([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 **成就情感——[[Pride in Learning|骄傲]]（pride）**：母亲引导儿童为自己的成就感到骄傲。不仅母亲表达骄傲，还明确要求儿童"你也应该为自己感到骄傲"。
 
@@ -87,7 +87,7 @@ updated: 2026-05-24
 ## 实证发现
 
 > [!success]
-> 序列分析显示，欧裔美国母子的对话围绕**心智活动**（mental）和**积极情感**（positive affect）两个主题展开，无论对话由哪一方发起、无论讨论的是好学习还是差学习([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> 序列分析显示，欧裔美国母子的对话围绕**心智活动（mental）**和**积极情感（positive affect）**两个主题展开，无论对话由哪一方发起、无论讨论的是好学习还是差学习([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 > [!info] 关键数据
 > - 对好学习的讨论：欧裔美国母亲谈论积极情感的概率比台湾母亲高约 20%

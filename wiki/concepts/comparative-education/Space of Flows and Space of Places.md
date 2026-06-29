@@ -58,9 +58,9 @@ updated: 2026-06-24
 > [!def] 核心定义
 > 流动空间（Space of Flows）与地方空间（Space of Places）是 Castells（2000a）提出的空间二分法，旨在替代以民族国家为主要空间参照的分析方式。这一区分不依赖地缘政治边界来划分社会空间，而是以社会互动的组织形式为划分依据。
 > 
-> **地方空间**（Space of Places）指总体上附着于特定领土的社会互动场所。在传统社会中，时间共享的社会实践只能在同一地点的人之间发生，因此空间附着于地方（Giddens, 1990, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 349]]）。大多数人的生活、工作、学习和意义建构仍然围绕地方空间展开。
+> **地方空间（Space of Places）**指总体上附着于特定领土的社会互动场所。在传统社会中，时间共享的社会实践只能在同一地点的人之间发生，因此空间附着于地方（Giddens, 1990, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 349]]）。大多数人的生活、工作、学习和意义建构仍然围绕地方空间展开。
 > 
-> **流动空间**（Space of Flows）指“允许社会实践在无需领土毗连的条件下同时发生的物质安排”（Castells, 2000b, p. 19, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 349]]）。信息技术的持续发展为流动空间提供了基础设施支持，将社会实践从传统的地理“地方”中脱嵌。
+> **流动空间（Space of Flows）**指“允许社会实践在无需领土毗连的条件下同时发生的物质安排”（Castells, 2000b, p. 19, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 349]]）。信息技术的持续发展为流动空间提供了基础设施支持，将社会实践从传统的地理“地方”中脱嵌。
 
 > [!concept-lens] 概念透镜
 > - **含义** 
@@ -95,10 +95,10 @@ updated: 2026-06-24
 ## 核心要素
 
 > [!feature] 核心要素
-> - **空间的去领土化 (Deterritorialization of Space)**：流动空间的关键特征是空间从地方中脱嵌（dislocation of space from place）。这一脱嵌意味着社会互动不再需要身体的共同在场，极大地改变了权力、知识和文化的组织方式。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
-> - **流动空间的基础设施与物理节点 (Nodes and Infrastructure)**：信息技术是构成流动空间的主要物质支撑，但网络的节点是真实的机构和个人。流动空间也有其领土中心——如全球金融网络中的华尔街和伦敦、国际机构网络中的巴黎和华盛顿。([[Argument_Beech_2009_CE|Beech, 2009, pp. 349–350]])
-> - **非精英独占性与有争议性 (Contested and Plural Nature)**：随着技术基础设施的普及，流动空间的逻辑正在转变，成为一个竞争性的、多元化的、有争议的空间。全球教师工会网络 [[Education International]] 的参与便说明这一空间正成为多元政治博弈的场所。([[Argument_Beech_2009_CE|Beech, 2009, p. 352]])
-> - **虚拟的符号与文化特征 (Culture of Real Virtuality)**：在流动空间中，符号共存而不参照任何地方的经验，信息被掏空了原有具体语境下的含义，成为高度形式化、空虚的电子超文本。这系统性地决定了在流动空间中生产的话语天然具有“空洞性”和“高可塑性”。([[Argument_Beech_2009_CE|Beech, 2009, p. 353]])
+> - **空间的去领土化 (Deterritorialization of Space)** 流动空间的关键特征是空间从地方中脱嵌（dislocation of space from place）。这一脱嵌意味着社会互动不再需要身体的共同在场，极大地改变了权力、知识和文化的组织方式。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
+> - **流动空间的基础设施与物理节点 (Nodes and Infrastructure)** 信息技术是构成流动空间的主要物质支撑，但网络的节点是真实的机构和个人。流动空间也有其领土中心——如全球金融网络中的华尔街和伦敦、国际机构网络中的巴黎和华盛顿。([[Argument_Beech_2009_CE|Beech, 2009, pp. 349–350]])
+> - **非精英独占性与有争议性 (Contested and Plural Nature)** 随着技术基础设施的普及，流动空间的逻辑正在转变，成为一个竞争性的、多元化的、有争议的空间。全球教师工会网络 [[Education International]] 的参与便说明这一空间正成为多元政治博弈的场所。([[Argument_Beech_2009_CE|Beech, 2009, p. 352]])
+> - **虚拟的符号与文化特征 (Culture of Real Virtuality)** 在流动空间中，符号共存而不参照任何地方的经验，信息被掏空了原有具体语境下的含义，成为高度形式化、空虚的电子超文本。这系统性地决定了在流动空间中生产的话语天然具有“空洞性”和“高可塑性”。([[Argument_Beech_2009_CE|Beech, 2009, p. 353]])
 
 > [!logic-map]- 要素关系与流通路径
 > ```mermaid
@@ -181,9 +181,9 @@ updated: 2026-06-24
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990 — 空间与地方的脱嵌 (Dislocation of Space from Place)**：Giddens 于 1990 年提出，现代性及其技术手段使得社会互动不再依赖于地理上的身体共存，社会实践开始从特定的地理“地方”中脱离出来，空间不再完全附着于地方。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
+> - **1990 — 空间与地方的脱嵌 (Dislocation of Space from Place)** Giddens 于 1990 年提出，现代性及其技术手段使得社会互动不再依赖于地理上的身体共存，社会实践开始从特定的地理“地方”中脱离出来，空间不再完全附着于地方。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
 > - **2000 — 空间二分法与[[Network Society|网络社会]]体系 (Network Society Formulation)**：Castells (2000a, 2000b, 2000c) 进一步将脱嵌的空间形式化为“流动空间”与“地方空间”的二分法。他指出，流动空间是构成网络社会中同时性社会实践的物质和技术支撑；随着基础设施普及，流动空间也成为全球精英与草根力量（如工会、社会运动）激烈博弈的争议性空间。
-> - **2009 — 比较教育话语转移的分析工具 (Comparative Education Application)**：[[Argument_Beech_2009_CE|Beech (2009)]] 将这一二分法引入比较教育学，用于打破该领域的“[[Methodological Nationalism|方法论民族主义]]”传统。他构建了一个“[[Global Policy Space|全球政策空间]]（流动空间）— 国家（交界）— 学校实践（地方空间）”的话语重语境化纵向流通模型，成为解释教育政策转移中“意义变异”的经典空间[[Analytic Framework|分析框架]]。
+> - **2009 — 比较教育话语转移的分析工具 (Comparative Education Application)**[[Argument_Beech_2009_CE|Beech (2009)]] 将这一二分法引入比较教育学，用于打破该领域的“[[Methodological Nationalism|方法论民族主义]]”传统。他构建了一个“[[Global Policy Space|全球政策空间]]（流动空间）— 国家（交界）— 学校实践（地方空间）”的话语重语境化纵向流通模型，成为解释教育政策转移中“意义变异”的经典空间[[Analytic Framework|分析框架]]。
 
 ---
 
@@ -191,11 +191,11 @@ updated: 2026-06-24
 
 > [!tension] 核心张力
 > - **[[Methodological Nationalism|方法论民族主义]] (Methodological Nationalism) (蓝方)**：将民族国家的地理边界视为划分社会和教育现象的默认、天然边界，把所有的变化和差异都看作国家之间的横向地理对比。([[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]])
-> - **流动空间与地方空间二分法 (Space of Flows/Places Duality) (红方)**：完全放弃国家作为默认空间参照，以非领土承载的流动网络和领土附着的生活地方为分析起点，解释跨越领土疆界的话语不对称性流动与重组。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
+> - **流动空间与地方空间二分法 (Space of Flows/Places Duality) (红方)** 完全放弃国家作为默认空间参照，以非领土承载的流动网络和领土附着的生活地方为分析起点，解释跨越领土疆界的话语不对称性流动与重组。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
 
 > [!warning] 局限与适用条件
-> - **流通路径的非唯一性**：Beech 明确承认，他所勾勒的“[[Global Policy Space|全球政策空间]] → 国家层面 → 学校实践”路径并非话语流通的唯一可能路径。现实中存在绕过国家的全球学校网络直接交换，也存在对全球影响几乎完全不渗透的国家。([[Argument_Beech_2009_CE|Beech, 2009, p. 348]])
-> - **网络内部行动者逻辑的差异**：虽然流动空间对其中的[[Floating Signifier|漂浮能指]]生产有系统性的结构塑造作用，但不同行动者（如跨国企业、多边银行、教师工会）的具体组织逻辑、资源和谈判地位仍存在差异，需要具体的实证分析配合。([[Argument_Beech_2009_CE|Beech, 2009, p. 361]])
+> - **流通路径的非唯一性** Beech 明确承认，他所勾勒的“[[Global Policy Space|全球政策空间]] → 国家层面 → 学校实践”路径并非话语流通的唯一可能路径。现实中存在绕过国家的全球学校网络直接交换，也存在对全球影响几乎完全不渗透的国家。([[Argument_Beech_2009_CE|Beech, 2009, p. 348]])
+> - **网络内部行动者逻辑的差异** 虽然流动空间对其中的[[Floating Signifier|漂浮能指]]生产有系统性的结构塑造作用，但不同行动者（如跨国企业、多边银行、教师工会）的具体组织逻辑、资源和谈判地位仍存在差异，需要具体的实证分析配合。([[Argument_Beech_2009_CE|Beech, 2009, p. 361]])
 
 ---
 

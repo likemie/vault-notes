@@ -77,11 +77,11 @@ updated: '2026-05-18'
 
 > [!abstract]
 > USR 在大学中的表现领域([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.152–153]])：
-> - **就业政策**：保障雇员权利、促进多样性、支持工作生活平衡。例：THE 影响力排名指标中包括"安全雇佣合同的使用""高级女性学术人员的比例"等——就业公平已被纳入大学的排名考核([[Argument_Zapp_2022_Springer|Zapp, 2022, p.147]])
-> - **校园建设与运营**：能源、水、交通、废物和食品的全校园可持续使用，将校园转变为"活实验室"（living laboratories）和"可持续发展试验台"（testbeds for sustainability）。例：ETH Zurich 推行"2000 Watt Society"项目，将全校能源效率目标与教学研究结合；Oberlin College 推行"Oberlin Project"旨在创建美国首批气候积极城市之一([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.150–151]])
-> - **可持续发展管理**：通过专门的办公室和组织单元将 USR 管理化和正式化——这是持久制度化的重要指标（USRN, 2019）。Zapp 强调，仅发布一份 CSR 报告不等于制度化；真正的制度化需要专门的组织结构、预算和人员配置([[Argument_Zapp_2022_Springer|Zapp, 2022, p.153]])
-> - **全球意识与学生参与**：促进全球意识、全球学生参与和员工能力建设——如 Manchester 大学提供关于发展中国家水供应与卫生政策的 MOOCs 和 Global Health and Humanitarianism 课程([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.151–152]])
-> - **全球议题研究**：以全球问题为导向的研究，直接服务于 [[UN Sustainable Development Goals|SDGs]] 等全球议程。例：Manchester 开发碳足迹工具追踪全球"碳热点"，UBC 开发保护生物多样性的传感器和软件，Auckland 与航运业合作追踪鲸鱼迁徙路线([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.150–151]])
+> - **就业政策** 保障雇员权利、促进多样性、支持工作生活平衡。例：THE 影响力排名指标中包括"安全雇佣合同的使用""高级女性学术人员的比例"等——就业公平已被纳入大学的排名考核([[Argument_Zapp_2022_Springer|Zapp, 2022, p.147]])
+> - **校园建设与运营** 能源、水、交通、废物和食品的全校园可持续使用，将校园转变为"活实验室"（living laboratories）和"可持续发展试验台"（testbeds for sustainability）。例：ETH Zurich 推行"2000 Watt Society"项目，将全校能源效率目标与教学研究结合；Oberlin College 推行"Oberlin Project"旨在创建美国首批气候积极城市之一([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.150–151]])
+> - **可持续发展管理** 通过专门的办公室和组织单元将 USR 管理化和正式化——这是持久制度化的重要指标（USRN, 2019）。Zapp 强调，仅发布一份 CSR 报告不等于制度化；真正的制度化需要专门的组织结构、预算和人员配置([[Argument_Zapp_2022_Springer|Zapp, 2022, p.153]])
+> - **全球意识与学生参与** 促进全球意识、全球学生参与和员工能力建设——如 Manchester 大学提供关于发展中国家水供应与卫生政策的 MOOCs 和 Global Health and Humanitarianism 课程([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.151–152]])
+> - **全球议题研究** 以全球问题为导向的研究，直接服务于 [[UN Sustainable Development Goals|SDGs]] 等全球议程。例：Manchester 开发碳足迹工具追踪全球"碳热点"，UBC 开发保护生物多样性的传感器和软件，Auckland 与航运业合作追踪鲸鱼迁徙路线([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.150–151]])
 
 ---
 ## 理论基础
@@ -107,9 +107,9 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - **"口头采纳"与"实际行动"的落差**：[[Argument_Zapp_2022_Springer|Zapp (2022)]] 提示，CSR 报告的快速增长可能反映的是制度性"口头采纳"（talk）而非实质性行动转变（p.153）
-> - **作为新自由主义合法化工具**：从批判视角看，USR 可能被用于为大学的企业化、市场化和公共拨款缩减提供道德合法性外衣([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
-> - **指标化的简化风险**：THE 影响力排名将 USR 的复杂多维实践简化为可比较的量化指标，可能鼓励大学在易得分领域进行表面努力而忽视深层的制度变革
+> - **"口头采纳"与"实际行动"的落差**[[Argument_Zapp_2022_Springer|Zapp (2022)]] 提示，CSR 报告的快速增长可能反映的是制度性"口头采纳"（talk）而非实质性行动转变（p.153）
+> - **作为新自由主义合法化工具** 从批判视角看，USR 可能被用于为大学的企业化、市场化和公共拨款缩减提供道德合法性外衣([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
+> - **指标化的简化风险** THE 影响力排名将 USR 的复杂多维实践简化为可比较的量化指标，可能鼓励大学在易得分领域进行表面努力而忽视深层的制度变革
 
 ---
 ## 相关案例／政策

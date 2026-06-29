@@ -62,15 +62,15 @@ updated: 2026-05-27
 > [!abstract]
 > 知识交流的路径远超技术许可和衍生企业，已有研究识别的多种机制包括（Bonaccorsi & Piccaluga, 1994; Cohen et al., 2002; D'Este & Patel, 2007; Hughes & Kitson, 2012; Perkmann & Walsh, 2007; [[University Industry Demonstration Partnership|UIDP]], 2012）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])：
 
-- **合同研究**（contract research）：企业委托大学开展特定研究项目
-- **研究伙伴关系**（research partnerships）：大学与企业共同设计、执行和资助研究
-- **咨询服务**（consultancy）：学术人员向企业提供专业知识和技术建议
-- **研究生奖学金与联合培养**（graduate fellowships）
-- **原型开发与测试服务**：利用大学设施为企业进行产品原型开发和性能测试
-- **联合开发物理设施**：大学与企业共同投资建设实验室、中试车间等
+- **合同研究（contract research）** 企业委托大学开展特定研究项目
+- **研究伙伴关系（research partnerships）** 大学与企业共同设计、执行和资助研究
+- **咨询服务（consultancy）** 学术人员向企业提供专业知识和技术建议
+- **研究生奖学金与联合培养（graduate fellowships）**
+- **原型开发与测试服务** 利用大学设施为企业进行产品原型开发和性能测试
+- **联合开发物理设施** 大学与企业共同投资建设实验室、中试车间等
 - **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]和专业技能培训
-- **人员交流**（people exchange）：包括实习、联合聘任（[[Joint Faculty Appointments|joint appointments]]）、借调（secondments）等
-- **非正式互动**：网络活动、联合参加学术-产业会议、邀请企业进校园讲座——这些活动虽不产生直接经济收益，但在建立社会关系和促进隐性知识流动方面的作用不可忽视
+- **人员交流（people exchange）** 包括实习、联合聘任（[[Joint Faculty Appointments|joint appointments]]）、借调（secondments）等
+- **非正式互动** 网络活动、联合参加学术-产业会议、邀请企业进校园讲座——这些活动虽不产生直接经济收益，但在建立社会关系和促进隐性知识流动方面的作用不可忽视
 
 ---
 

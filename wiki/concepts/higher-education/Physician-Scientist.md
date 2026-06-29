@@ -48,9 +48,9 @@ updated: 2026-06-02
 
 > [!abstract]
 > 医师科学家必须具备三项[[21st Century Skills and Competencies Discourse|关键能力]]（pp.176–177）：
-> 1. **持续创新的思维模式**（mindset of continuous innovation）：能够识别医学问题和临床中的不足，不仅察觉痛点，而且具备解决问题的基本驱动力。
-> 2. **翻译性合作伙伴能力**：作为基础科学家的可靠合作者，能够将实验室发现带到真实世界中验证。他们必须同时[[Refined Mastery|精通]]医疗系统和产业两种话语体系——"speakers of both health system and industry vernacular"（p.176）。
-> 3. **团队导向的技能与行为**（group-oriented skills and behaviors）：能够与不同参考框架的合作伙伴——包括大学、产业、工程师、发明家——有效协作，理解并整合多种视角。
+> 1. **持续创新的思维模式（mindset of continuous innovation）** 能够识别医学问题和临床中的不足，不仅察觉痛点，而且具备解决问题的基本驱动力。
+> 2. **翻译性合作伙伴能力** 作为基础科学家的可靠合作者，能够将实验室发现带到真实世界中验证。他们必须同时[[Refined Mastery|精通]]医疗系统和产业两种话语体系——"speakers of both health system and industry vernacular"（p.176）。
+> 3. **团队导向的技能与行为（group-oriented skills and behaviors）** 能够与不同参考框架的合作伙伴——包括大学、产业、工程师、发明家——有效协作，理解并整合多种视角。
 
 ## 概念辨析
 
@@ -66,7 +66,7 @@ updated: 2026-06-02
 ## 面临的挑战
 
 > [!warning]
-> - **时间压力**：临床诊疗、继续医学教育、学生指导、个人职业发展和研究经费申请几乎挤占了所有可用时间，留给研究项目的时间极为有限（pp.186–187）。
-> - **行政与合规负担**：研究者报告称，近一半（44.3%）的研究可用时间花在了行政任务上（Schneider, 2020），包括生物安全、《健康保险携带和责任法案》（Health Insurance Portability and Accountability Act, HIPAA）合规、信息技术安全、临床与动物研究实践、[[Conflict of Interest in Research|利益冲突]]和人力资源等定期认证（pp.186–187）。
-> - **超亚专业化困境**：许多当代专家极度亚专业化（super-sub-specialized），虽然在自己的领域内高度熟练，但缺乏跨领域协作所需的广度视野（pp.185–186）。
+> - **时间压力** 临床诊疗、继续医学教育、学生指导、个人职业发展和研究经费申请几乎挤占了所有可用时间，留给研究项目的时间极为有限（pp.186–187）。
+> - **行政与合规负担** 研究者报告称，近一半（44.3%）的研究可用时间花在了行政任务上（Schneider, 2020），包括生物安全、《健康保险携带和责任法案》（Health Insurance Portability and Accountability Act, HIPAA）合规、信息技术安全、临床与动物研究实践、[[Conflict of Interest in Research|利益冲突]]和人力资源等定期认证（pp.186–187）。
+> - **超亚专业化困境** 许多当代专家极度亚专业化（super-sub-specialized），虽然在自己的领域内高度熟练，但缺乏跨领域协作所需的广度视野（pp.185–186）。
 

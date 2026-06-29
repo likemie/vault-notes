@@ -100,10 +100,10 @@ updated: '2026-05-18'
 
 > [!warning] 教育[[Ontology|本体论]]的不兼容性
 > Nielsen & Klitmøller (2021, pp. 88-89) 论证技术理性在教育中产生系统性盲点：
-> - **消除意向性（Intentionality）**：学生和教师被原子化为[[Variable|变量]]，作为意义寻求者和解释者的主体性被消除（Nielsen & Klitmøller, 2021, p. 88）
-> - **学习目标不容讨论**：在技术理性框架下，学习目标被预设且不可讨论——"the learning objective sanctifies the means of teaching"（Nielsen & Klitmøller, 2021, pp. 88-89）
-> - **封闭系统**：技术理性在教育中创造了一个封闭系统，仅手段-目的问题被视为相关，其他类型的问题（如"我们为什么要学这个？"）被认为无关（Nielsen & Klitmøller, 2021, p. 89）
-> - **意识形态功能**："In many respects, Hattie's theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant'"（Kvale, 1976, p. 106, cited in Nielsen & Klitmøller, 2021, p. 89）
+> - **消除意向性（Intentionality）** 学生和教师被原子化为[[Variable|变量]]，作为意义寻求者和解释者的主体性被消除（Nielsen & Klitmøller, 2021, p. 88）
+> - **学习目标不容讨论** 在技术理性框架下，学习目标被预设且不可讨论——"the learning objective sanctifies the means of teaching"（Nielsen & Klitmøller, 2021, pp. 88-89）
+> - **封闭系统** 技术理性在教育中创造了一个封闭系统，仅手段-目的问题被视为相关，其他类型的问题（如"我们为什么要学这个？"）被认为无关（Nielsen & Klitmøller, 2021, p. 89）
+> - **意识形态功能** "In many respects, Hattie's theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant'"（Kvale, 1976, p. 106, cited in Nielsen & Klitmøller, 2021, p. 89）
 
 
 > [!warning] 合法化悖论

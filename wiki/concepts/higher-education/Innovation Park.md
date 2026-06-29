@@ -50,9 +50,9 @@ updated: 2026-05-27
 ## 核心要素
 
 > [!abstract]
-> - **孵化器（Incubator）**：为早期初创企业提供低成本的办公和实验空间、商业指导、融资对接等服务。Ch3 调查显示 89% 的大学提供非生命科学类孵化器，81% 提供生命科学类孵化器（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.64]]）
-> - **企业入驻空间**：为成熟企业在大学园区内提供办公或研发设施。84% 的大学为企业提供校内建筑空间（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.64]]）
-> - **研究/创新园区**：更大规模的多功能园区，整合孵化器、企业研发中心、大学实验室和公共设施。68% 的大学拥有或运营此类园区（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.64]]）
+> - **孵化器（Incubator）** 为早期初创企业提供低成本的办公和实验空间、商业指导、融资对接等服务。Ch3 调查显示 89% 的大学提供非生命科学类孵化器，81% 提供生命科学类孵化器（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.64]]）
+> - **企业入驻空间** 为成熟企业在大学园区内提供办公或研发设施。84% 的大学为企业提供校内建筑空间（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.64]]）
+> - **研究/创新园区** 更大规模的多功能园区，整合孵化器、企业研发中心、大学实验室和公共设施。68% 的大学拥有或运营此类园区（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.64]]）
 
 ## 概念辨析
 
@@ -77,13 +77,13 @@ updated: 2026-05-27
 [[TUFF]]（The University Financing Foundation）基于四十余年的[[University-Industry Collaboration|产学合作]]开发经验，提出了[[Innovation Hub|创新中心]]成功运营的四个核心信条与六项优先领域([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.123–136]])：
 
 > [!abstract]
-> **四个核心信条**：
+> **四个核心信条**
 > - 高质量学术机构
 > - 产业研发的私人投资
 > - 产学之间的合作
 > - 知识产权保护
 >
-> **六项优先领域**：
+> **六项优先领域**
 > 1. 创业与[[Asset Mapping|资产映射]]（entrepreneurship and asset mapping）
 > 2. 学术存在（academic presence）— 包括内部倡导者和大学对园区的实质投入
 > 3. 学术与公共对研发的承诺 — 强大的研究项目是吸引企业入驻的基础

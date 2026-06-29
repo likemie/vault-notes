@@ -72,9 +72,9 @@ updated: '2026-05-23'
 [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p.129)]] 把 EIP 概括成四类资源的整合：
 
 1. **[[Professional Judgment|专业判断]]**：教育者基于经验、价值观和情境理解作出的判断
-2. **系统层面数据**：学校、学区、州/省或国家的管理与评估数据
-3. **课堂数据**：[[Formative Assessment|形成性评估]]、观察、学生[[Homework|作业]]等现场信息
-4. **研究证据**：来自学术研究的发现，包括但不限于[[Experimental Research|实验研究]]
+2. **系统层面数据** 学校、学区、州/省或国家的管理与评估数据
+3. **课堂数据**[[Formative Assessment|形成性评估]]、观察、学生[[Homework|作业]]等现场信息
+4. **研究证据** 来自学术研究的发现，包括但不限于[[Experimental Research|实验研究]]
 
 > [!example]
 > 一个教师决定如何教分数概念时，可能同时考虑分数教学研究、班级最近的数学表现、昨天课堂里学生对前置概念的掌握情况，以及自己多年教这个单元的经验。EIP 要求的不是“只听研究”，而是把这些不同来源放到同一个审议过程里。
@@ -96,11 +96,11 @@ EIP 的核心分歧不在“要不要看研究”，而在“研究在决策里�
 
 [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p.127)]] 用“肥沃的土壤”说明 EIP 成败不取决于研究是否存在，而取决于教育者是否具备接住证据的条件：
 
-- **可及性**：能否接触高质量、相关研究
-- **能力**：是否具备研究素养与数据分析能力
-- **时间**：是否有专门时间做合作探究
-- **文化**：学校和系统是否把证据使用视为专业学习的一部分
-- **中介**：[[School Leadership|学校领导]]、专业协会、研究机构等是否发挥连接作用
+- **可及性** 能否接触高质量、相关研究
+- **能力** 是否具备研究素养与数据分析能力
+- **时间** 是否有专门时间做合作探究
+- **文化** 学校和系统是否把证据使用视为专业学习的一部分
+- **中介**[[School Leadership|学校领导]]、专业协会、研究机构等是否发挥连接作用
 
 ### 与知识动员的关系
 
@@ -132,12 +132,12 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ## 实证发现
 
 > [!success] 实证发现
-> - **教师间传播占主导**：教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
+> - **教师间传播占主导** 教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
 > - **实践产生的证据使用比[[Research Utilization|研究使用]]更普遍**：即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
-> - **同伴推荐和本地试点仍然重要**：教育产品消费者报告很少使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些来源更能回答实施、成本和使用体验问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
-> - **复杂改革需要多目标解释**：[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
-> - **EIP 的积极影响已有初步证据，但仍不足**：关于 EIP 对学校改进的影响已有一些支持性发现，但 Dagenais et al. (2012) 仍被概括为“证据很少”([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.131]])。
-> - **实践者参与研究正在增加，但仍有距离**：教师与研究的关联在英国已更常见，但离广泛、稳定的专业常态仍有差距（CUREE, 2011, cited in [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.130]]）。
+> - **同伴推荐和本地试点仍然重要** 教育产品消费者报告很少使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些来源更能回答实施、成本和使用体验问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
+> - **复杂改革需要多目标解释**[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
+> - **EIP 的积极影响已有初步证据，但仍不足** 关于 EIP 对学校改进的影响已有一些支持性发现，但 Dagenais et al. (2012) 仍被概括为“证据很少”([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.131]])。
+> - **实践者参与研究正在增加，但仍有距离** 教师与研究的关联在英国已更常见，但离广泛、稳定的专业常态仍有差距（CUREE, 2011, cited in [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.130]]）。
 
 > [!info]- 核心数据
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p.129)]] 将 EIP 概括为 4 类核心证据资源。
@@ -146,10 +146,10 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ## 争议与批评
 
 > [!warning]
-> - **是否只是 EBP 的软版本**：支持强版本 [[Evidence-Based Education|EBE]] 的立场常把 EIP 视为“证据可以被随意忽视”的宽松版本；而 EIP 支持者则认为它更准确地描述了教育决策的复杂性([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.128–129]])。
-> - **多源整合容易变得含糊**：如果 EIP 不说明如何在研究证据、本地价值和实施限制之间做权衡，它可能只把争议后移。[[Students and Teachers Accessing Tomorrow|STAT]] 案例显示，同一组证据可以支持“继续推进数字改革”，也可以支持“项目没有提高成绩”；关键在于哪些结果被承认为成功([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.123]])。
-> - **测量困境**：EIP 越强调情境依赖和动态整合，就越难被简单量化；[[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p.133)]] 明确提醒，不能只研究那些最容易量化的部分。
-> - **英语国家中心主义**：当前被整合的案例主要来自英语或欧洲语境，EIP 在非西方教育系统中的概念化与制度条件仍欠缺呈现。
+> - **是否只是 EBP 的软版本** 支持强版本 [[Evidence-Based Education|EBE]] 的立场常把 EIP 视为“证据可以被随意忽视”的宽松版本；而 EIP 支持者则认为它更准确地描述了教育决策的复杂性([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.128–129]])。
+> - **多源整合容易变得含糊** 如果 EIP 不说明如何在研究证据、本地价值和实施限制之间做权衡，它可能只把争议后移。[[Students and Teachers Accessing Tomorrow|STAT]] 案例显示，同一组证据可以支持“继续推进数字改革”，也可以支持“项目没有提高成绩”；关键在于哪些结果被承认为成功([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.123]])。
+> - **测量困境** EIP 越强调情境依赖和动态整合，就越难被简单量化；[[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p.133)]] 明确提醒，不能只研究那些最容易量化的部分。
+> - **英语国家中心主义** 当前被整合的案例主要来自英语或欧洲语境，EIP 在非西方教育系统中的概念化与制度条件仍欠缺呈现。
 
 ## 相关案例／政策
 

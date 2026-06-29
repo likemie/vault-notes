@@ -70,35 +70,35 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 > [!note]- 1910s–1960s 科学管理起源与教育[[Cult of Efficiency|效率崇拜]]
 > - **Taylor (1911)** 出版 *The Principles of Scientific Management*，提出寻找"唯一正确方法"、将任务拆解为最小组件、消除"soldiering"（磨洋工）、最大化效率的核心原则([[Argument_Eacott_2017_SLM|Eacott, 2017, p.418-419]])
-> - **Fordism**：装配线的发明将生产节奏的控制从车间工匠转移到工程师和管理者办公室（Noble, 1978，引自 [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]]）
+> - **Fordism** 装配线的发明将生产节奏的控制从车间工匠转移到工程师和管理者办公室（Noble, 1978，引自 [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]]）
 > - **Callahan (1962)** 出版 *Education and the Cult of Efficiency*，论证 20 世纪上半叶美国公立学校改革更多受管理实践（尤其是泰勒主义）而非教育理念的影响——Eacott 以此作为分析当代 Hattie 崇拜的历史框架([[Argument_Eacott_2017_SLM|Eacott, 2017, p.413-414]])
 
 > [!note]- 1950s–1980s [[Theory Movement in Educational Administration|教育行政理论运动]]与术语诞生
-> - **1950s–1960s Theory Movement**：以 Simon（1945）*Administrative Behavior* 和维也纳圈逻辑经验主义为基础，追求教育行政中的"类法则概括"（law-like generalisations）——目标从未实现，但为后来 Hattie 的"教学科学"提供了历史先例([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
+> - **1950s–1960s Theory Movement**以 Simon（1945）*Administrative Behavior* 和维也纳圈逻辑经验主义为基础，追求教育行政中的"类法则概括"（law-like generalisations）——目标从未实现，但为后来 Hattie 的"教学科学"提供了历史先例([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
 > - **Hodgkinson (1978)** 在 *Towards a Philosophy of Administration* 中讨论教育行政的[[Epistemology|认识论]]及其方法论意涵([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
 > - **Gronn (1982)** 在 *Educational Administration Quarterly* 发表"Neo-Taylorism in educational administration?"，首次将该术语引入教育行政领域([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
 
 > [!note]- 2008–至今 [[Visible Learning|VL]] 与新泰勒主义的当代支配
 > - **Robinson, Lloyd, & Rowe (2008)** 在 *EAQ* 发表[[Meta-analysis|元分析]]，识别五个领导力维度及其[[Effect Size|效应量]]，打破[[Transformative Leadership|变革型领导力]]的主导地位——Eacott 认为这为 Hattie 的崛起提供了关键"桥梁"：向教育行政社区引入效应量语言和"感知的严谨性"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.416-418]])
-> - **后 Fordism**：信息收集技术的引入将问责和监控方案嵌入现代工作场所（Portnoi, 2016; Manokha, 2020，引自 [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]]）
+> - **后 Fordism** 信息收集技术的引入将问责和监控方案嵌入现代工作场所（Portnoi, 2016; Manokha, 2020，引自 [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]]）
 > - **Hattie (2009)** 出版 [[Visible Learning]]：800+ 元分析、138 个因素按效应量排名——Eacott 认为这开启了当代 Neo-Taylorism 的支配性阶段([[Argument_Eacott_2017_SLM|Eacott, 2017, p.418-419]])
-> - **asTTle 的全景监控设计**：Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])。Foucault（1977）的全景监狱隐喻——仅仅是"可能被观察"的想法就足以影响行为——为理解 asTTle/VL 的监控逻辑提供了理论框架([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
-> - **VL 品牌商业化与制度化嵌入**：2010 [[Cognition Education|Cognition Education]] 推出 VLplus → 2015 ACEL-Corwin 合作 → 2018 Corwin 收购 VLplus。Hattie 担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，VL 嵌入澳大利亚国家专业标准（详见 [[Visible Learning Branding and Global Influences]]）
+> - **asTTle 的全景监控设计**Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])。Foucault（1977）的全景监狱隐喻——仅仅是"可能被观察"的想法就足以影响行为——为理解 asTTle/VL 的监控逻辑提供了理论框架([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
+> - **VL 品牌商业化与制度化嵌入** 2010 [[Cognition Education|Cognition Education]] 推出 VLplus → 2015 ACEL-Corwin 合作 → 2018 Corwin 收购 VLplus。Hattie 担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，VL 嵌入澳大利亚国家专业标准（详见 [[Visible Learning Branding and Global Influences]]）
 
 ## 核心要素
 
-- **唯一正确方法**：Taylor 追求消除"soldiering"（磨洋工），Hattie 追求消除"coasting"（得过且过）——两者都以识别和执行"最佳实践"为解决方案([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
-- **任务的拆解与还原**：Taylor 将工作任务拆解为最小组件，Hattie 将教学实践拆解为按[[Effect Size|效应量]]排名的离散干预列表([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
-- **最大化回报**：Hattie 的效应量排名告诉教育者"做什么以获得最大回报"（maximum return），而非提供反思和发展自身技艺的资源([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
-- **全景监控**：高度监控的车间启发了 Foucault（1977）的全景监狱隐喻——Hattie 的 asTTle 工具以"允许管理者监控全校六个科目"的设计将同一逻辑植入教育([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
-- **教师贬低与去专业化**：Hattie 在 [[Visible Learning|VL]] 中系统性地将教师贬低为依赖"战争故事和轶事"的"不成熟职业"从业者（Hattie, 2009, p.1, 3, 253, 257）。[[Argument_Johnson_2023_CE|Johnson & Janzen (2023, p.29)]]论证这种修辞服务于更广泛的私有化议程：如果教学被打造为不专业和技术性的，对教师工会的支持就会软化，私人利益以"廉价解决方案"的承诺渗透
-- **商业利益网络**：Neo-Taylorism 的当代运作依赖于出版商（如 Corwin）、专业协会（如 ACEL）和学校系统之间的商业伙伴关系，形成自我强化的推广网络([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778, 780]])。详见 [[Visible Learning Branding and Global Influences]]
+- **唯一正确方法** Taylor 追求消除"soldiering"（磨洋工），Hattie 追求消除"coasting"（得过且过）——两者都以识别和执行"最佳实践"为解决方案([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
+- **任务的拆解与还原** Taylor 将工作任务拆解为最小组件，Hattie 将教学实践拆解为按[[Effect Size|效应量]]排名的离散干预列表([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
+- **最大化回报** Hattie 的效应量排名告诉教育者"做什么以获得最大回报"（maximum return），而非提供反思和发展自身技艺的资源([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
+- **全景监控**高度监控的车间启发了 Foucault（1977）的全景监狱隐喻——Hattie 的 asTTle 工具以"允许管理者监控全校六个科目"的设计将同一逻辑植入教育([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
+- **教师贬低与去专业化** Hattie 在 [[Visible Learning|VL]] 中系统性地将教师贬低为依赖"战争故事和轶事"的"不成熟职业"从业者（Hattie, 2009, p.1, 3, 253, 257）。[[Argument_Johnson_2023_CE|Johnson & Janzen (2023, p.29)]]论证这种修辞服务于更广泛的私有化议程：如果教学被打造为不专业和技术性的，对教师工会的支持就会软化，私人利益以"廉价解决方案"的承诺渗透
+- **商业利益网络** Neo-Taylorism 的当代运作依赖于出版商（如 Corwin）、专业协会（如 ACEL）和学校系统之间的商业伙伴关系，形成自我强化的推广网络([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778, 780]])。详见 [[Visible Learning Branding and Global Influences]]
 
 ## 概念辨析
 
-- vs **Taylorism（经典泰勒主义）**：经典泰勒主义是 20 世纪初工厂管理方法；Neo-Taylorism 是其在当代教育领域的复兴，包装为"科学证据"和"数据驱动"，但核心逻辑（效率最大化、标准化、"唯一最佳方法"）高度一致
+- vs **Taylorism（经典泰勒主义）** 经典泰勒主义是 20 世纪初工厂管理方法；Neo-Taylorism 是其在当代教育领域的复兴，包装为"科学证据"和"数据驱动"，但核心逻辑（效率最大化、标准化、"唯一最佳方法"）高度一致
 - vs [[New Public Management]]：NPM 是更广泛的教育治理改革框架（绩效标准、产出控制、竞争、问责），Neo-Taylorism 特指 NPM 中与科学管理原理直接对应的部分——将教学实践还原为技术操作单元并以效率为标准进行排名
-- vs **Productive Pedagogies / Quality Teaching**：Eacott 对比了澳洲教育改革中的两种取向——Productive Pedagogies 和 Quality Teaching 旨在为教师和[[School Leadership|学校领导]]提供"反思和发展自身技艺的资源"；而 Hattie 的方法"告诉教育者做什么以获得最大回报"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
+- vs **Productive Pedagogies / Quality Teaching** Eacott 对比了澳洲教育改革中的两种取向——Productive Pedagogies 和 Quality Teaching 旨在为教师和[[School Leadership|学校领导]]提供"反思和发展自身技艺的资源"；而 Hattie 的方法"告诉教育者做什么以获得最大回报"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 - vs [[Cult of the Guru]]：Neo-Taylorism 侧重分析 Hattie 工作与 Taylor 科学管理的结构同源性（效率最大化、任务拆解）；[[Cult of the Guru]] 侧重分析这种工作为何以及如何在特定社会条件下被不加批判地接受和制度化。两者互补：Neo-Taylorism 回答"什么使 Hattie 的工作成为泰勒主义"，Cult of the Guru 回答"什么使这种泰勒主义成为崇拜"
 
 ## 理论基础

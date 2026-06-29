@@ -73,9 +73,9 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**：统计方法论批判。
-> - **分析对象**：Hattie (2009) 以[[Effect Size|效应量]]对 138 类教育干预排序的做法(p.42)。
-> - **说明方式**：用公式解释、图形分布、Hattie 排名与 [[PISA]] 排名对照、TIMSS 2011 丹麦四年级数学例子进行论证；PISA/TIMSS/PIRLS 的分数转换背景见 [[Rasch Measurement]](pp.42–51)。
+> - **方法** 统计方法论批判。
+> - **分析对象**Hattie (2009) 以[[Effect Size|效应量]]对 138 类教育干预排序的做法(p.42)。
+> - **说明方式** 用公式解释、图形分布、Hattie 排名与 [[PISA]] 排名对照、TIMSS 2011 丹麦四年级数学例子进行论证；PISA/TIMSS/PIRLS 的分数转换背景见 [[Rasch Measurement]](pp.42–51)。
 
 ## 核心论证
 

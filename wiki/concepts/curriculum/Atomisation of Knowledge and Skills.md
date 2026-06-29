@@ -50,16 +50,16 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1990 年代以后**：芬兰教育政策受到 [[OECD]]、EU 和全球教育治理话语影响，课程改革越来越强调横向能力、21 世纪技能、可测量结果和经济竞争；这一变化与 [[Performance Indicators]] 所塑造的国际比较环境相连([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.8-9]])。
-> - **2010 年代**：[[Phenomenon-Based Learning]] 被纳入 [[Finnish National Core Curriculum]] 时，一方面承载整体学习和复杂问题取向，另一方面也被放入横向能力和可测量政策话语中，形成内在张力([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.9-10]])。
+> - **1990 年代以后** 芬兰教育政策受到 [[OECD]]、EU 和全球教育治理话语影响，课程改革越来越强调横向能力、21 世纪技能、可测量结果和经济竞争；这一变化与 [[Performance Indicators]] 所塑造的国际比较环境相连([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.8-9]])。
+> - **2010 年代**[[Phenomenon-Based Learning]] 被纳入 [[Finnish National Core Curriculum]] 时，一方面承载整体学习和复杂问题取向，另一方面也被放入横向能力和可测量政策话语中，形成内在张力([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.9-10]])。
 
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **可测量性优先**：教育讨论中只有能被测量、评估和比较的单位、过程和结果更容易被视为政策相关([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.10]])。
-> - **知识被拆成项目**：知识被理解为小块事实或技能，可按个人或制度目的像拼图一样组合，而不是作为有内在理论结构的学科整体([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.10]])。
-> - **学生与教师被工具化**：标准化学习结果和问责要求为学生、教师、学校和政策发展提供严格框架，要求他们适应预设指标，而不是共同探究自身和共同体未来所需的知识([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.9]])。
-> - **共同学习被竞争替代**：原本面向共同责任和社区未来的教育，可能被转化为个体之间、学校之间和国家之间的竞争([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.10]])。
+> - **可测量性优先** 教育讨论中只有能被测量、评估和比较的单位、过程和结果更容易被视为政策相关([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.10]])。
+> - **知识被拆成项目** 知识被理解为小块事实或技能，可按个人或制度目的像拼图一样组合，而不是作为有内在理论结构的学科整体([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.10]])。
+> - **学生与教师被工具化** 标准化学习结果和问责要求为学生、教师、学校和政策发展提供严格框架，要求他们适应预设指标，而不是共同探究自身和共同体未来所需的知识([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.9]])。
+> - **共同学习被竞争替代** 原本面向共同责任和社区未来的教育，可能被转化为个体之间、学校之间和国家之间的竞争([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.10]])。
 
 ## 与相关概念的区别
 
@@ -79,8 +79,8 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **治理便利 vs 教育意义**：原子化有助于政策制定者进行比较、问责和资源分配，但它可能牺牲教育中不可量化的经验、关系、判断和意义生成([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.9-10]])。
-> - **横向能力的两面性**：横向能力有助于回应复杂未来，但若被经济竞争和可测量结果主导，就会把 [[Phenomenon-Based Learning|PhBL]] 这类整体取向重新吸收到碎片化治理中([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.9]])。
+> - **治理便利 vs 教育意义** 原子化有助于政策制定者进行比较、问责和资源分配，但它可能牺牲教育中不可量化的经验、关系、判断和意义生成([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.9-10]])。
+> - **横向能力的两面性** 横向能力有助于回应复杂未来，但若被经济竞争和可测量结果主导，就会把 [[Phenomenon-Based Learning|PhBL]] 这类整体取向重新吸收到碎片化治理中([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.9]])。
 
 ## 相关案例／政策
 

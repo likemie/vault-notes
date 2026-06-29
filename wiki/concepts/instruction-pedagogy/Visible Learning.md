@@ -165,7 +165,7 @@ updated: 2026-06-10
 [[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–234)]] 描述了 Hattie [[Meta-meta-analysis|元-元分析]]（mega-analysis）的操作步骤：
 
 > [!proc] 操作步骤
-> 1. **确定 6 个影响源**（sources of influence）：家庭、学校（作为环境和行政机构）、教师、课程、教学策略与方法、学生
+> 1. **确定 6 个影响源（sources of influence）** 家庭、学校（作为环境和行政机构）、教师、课程、教学策略与方法、学生
 > 2. **每个影响源下设评估[[Variable|变量]]**（共 138 个因素），从 Piaget 的儿童智力发展阶段到暑假
 > 3. **对每个因素综合各[[Meta-analysis|元分析]]，计算平均[[Effect Size|效应量]]**（d），范围 -2 到 2
 
@@ -358,15 +358,15 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > 
 >    [[EEF Teaching and Learning Toolkit]] 受 Hattie 将多元研究置于同一量表的比较性研究地图思路启发，成为英语国家政策引用 VL 的核心中介（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
 > 
->    **澳大利亚与新西兰**：[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策[[Document|文件]]与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与学生领导力。
+>    **澳大利亚与新西兰**[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策[[Document|文件]]与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与学生领导力。
 > 
->    **丹麦**：2014 年公立学校改革明确引用 VL，要求教师以"学习目标"替代"活动目标"。改革后 Hattie 在丹麦从"教育英雄"变为"教育敌人"，引发 *[[Hattie på dansk]]*（2017）批评文集和 SFI 委托评估报告（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）。
+>    **丹麦** 2014 年公立学校改革明确引用 VL，要求教师以"学习目标"替代"活动目标"。改革后 Hattie 在丹麦从"教育英雄"变为"教育敌人"，引发 *[[Hattie på dansk]]*（2017）批评文集和 SFI 委托评估报告（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）。
 > 
->    **俄罗斯**：2017 年翻译出版 VL 俄文版。[[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–233)]] 评估后指出 VL 元分析主要基于 1980s–2000s 三个英语国家的研究，跨文化迁移性有限，建议俄教育政策不予直接采用。
+>    **俄罗斯** 2017 年翻译出版 VL 俄文版。[[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–233)]] 评估后指出 VL 元分析主要基于 1980s–2000s 三个英语国家的研究，跨文化迁移性有限，建议俄教育政策不予直接采用。
 > 
->    **瑞典**：Håkansson（2015）记录了 VL 在瑞典引发的"工作方式转向"——改进重心拉回课堂近端（课堂试验、同伴观察、教师协作），而非围绕学习目标或国家标准的显性政治冲突（pp.52–59）。这种转向只有在校长持续聚焦主题、教师愿意围绕具体课堂片段展开专业对话时才真正发生（参见 [[Visible Learning in Sweden]]）。
+>    **瑞典**Håkansson（2015）记录了 VL 在瑞典引发的"工作方式转向"——改进重心拉回课堂近端（课堂试验、同伴观察、教师协作），而非围绕学习目标或国家标准的显性政治冲突（pp.52–59）。这种转向只有在校长持续聚焦主题、教师愿意围绕具体课堂片段展开专业对话时才真正发生（参见 [[Visible Learning in Sweden]]）。
 > 
->    **斯堪的纳维亚研究者再诠释**：[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 VL 重写为学校改进的起点而非技术菜单，提出三项核心转变：①个人技巧→集体改进（教师协作、课堂观察、持续反思）；②证据排名→概率判断（减少"全凭直觉"空间）；③外部问责→能力建设（[[Knowledge Mobilisation|知识动员]]、数据使用、校本专业学习）（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–67]]）。详见 [[Visible Learning Branding and Global Influences]]。
+>    **斯堪的纳维亚研究者再诠释**[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 VL 重写为学校改进的起点而非技术菜单，提出三项核心转变：①个人技巧→集体改进（教师协作、课堂观察、持续反思）；②证据排名→概率判断（减少"全凭直觉"空间）；③外部问责→能力建设（[[Knowledge Mobilisation|知识动员]]、数据使用、校本专业学习）（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–67]]）。详见 [[Visible Learning Branding and Global Influences]]。
 ---
 
 ## 理论基础
@@ -410,8 +410,8 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从支持者立场指出，VL 的元-元分析得到的是抽象学习结果，难以说明所测量的究竟是知识与技能、社会能力、[[Surface and Deep Learning|表层学习]]、深层学习还是概念性学习（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]]）。Hattie 本人承认：多数纳入研究的测验特别适合测量表层特征，对深层学习有一定测量能力，却很少有效测量学生从课堂经验中建构的概念表征（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.29]]）。若要继续发展，VL 需要一种明确区分不同学习结果并解释其动态关系的模型——[[Dynamic Knowledge and Learning Model]]——而不是只输出跨知识层次的总平均效应（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.29–33]]）。
 
 > [!warning] 数据与产出局限
-> - **数据来源**：元分析基于 1980s–2000s 三个英语国家（美国、澳大利亚、新西兰）的研究，跨语境迁移性有限（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232]]）。
-> - **争议性产出**：教师学科知识和教师资格对学业成绩的效应量（d=0.1）远低于微格教学和反馈——这一结论引发批评者对[[Ganz-Methode|整体方法]]有效性的质疑（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.233]]）。系统性批评见 [[Critiques of Visible Learning]]。
+> - **数据来源** 元分析基于 1980s–2000s 三个英语国家（美国、澳大利亚、新西兰）的研究，跨语境迁移性有限（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.232]]）。
+> - **争议性产出** 教师学科知识和教师资格对学业成绩的效应量（d=0.1）远低于微格教学和反馈——这一结论引发批评者对[[Ganz-Methode|整体方法]]有效性的质疑（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.233]]）。系统性批评见 [[Critiques of Visible Learning]]。
 
 > [!tension] 好教师能否以人格类型定义？
 > - **Hattie & Yates** — 好教师不能以特定人格类型定义。
@@ -421,7 +421,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > - **Hattie** — VL 把"影响教育成就的因素"转化为可按[[Effect Size|效应量]]排名的离散干预列表，告诉教育者"做什么以获得最大回报"（maximum return）；用行政语言说话的数据填补了 NAPLAN/[[PISA]]/TIMSS 问责压力与操作细节之间的空缺（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
 > - **Eacott** — VL 是"新时代的泰勒主义"（Taylorism for a new time）：Taylor 追求消除"磨洋工"（soldiering），Hattie 追求消除"得过且过"（coasting）；Taylor 拆解工作流程，Hattie 拆解教学实践；两者同构地追求"唯一正确方法"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]]）。[[Cult of the Guru|大师崇拜]]成为可能的三个历史条件：①时间压力（PISA 数据引发成绩担忧）；②桥梁（Robinson 等引入效应量语言但缺操作细节）；③填补（Hattie 用行政语言说话的数据）（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
 >
-> **学术体制免疫**：[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]否认"大师崇拜"，其回应被 *[[School Leadership]] & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术对话与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
+> **学术体制免疫**[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]否认"大师崇拜"，其回应被 *[[School Leadership]] & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术对话与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
 ---
 
 > [!citation-card]-

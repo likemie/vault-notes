@@ -73,7 +73,7 @@ updated: 2026-06-23
 > | 维度 | 受教育身份 (Educated Identity) | 转移 (Transfer) |
 > |------|--------|----------------|
 > | **分析焦点** | 教育系统试图塑造的理想人格与社会文化期望。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]]) | 教育思想、制度或政策在跨国流动中的移动与[[Shape-Shifting\|形变]]机制。(p. 336) |
-> | **核心拷问** | **道德与伦理挑战**：追问我们以“教育之名”对孩子做了什么。(p. 336) | **学术与形态挑战**：揭示话语和政策在不同语境中的[[Recontextualization\|再脉络化]]形态变化。(p. 336) |
+> | **核心拷问** | **道德与伦理挑战** 追问我们以“教育之名”对孩子做了什么。(p. 336) | **学术与形态挑战**：揭示话语和政策在不同语境中的[[Recontextualization\|再脉络化]]形态变化。(p. 336) |
 > | **运行形态** | 历史地附着于领土，当前在[[Global Policy Space\|全球政策空间]]中被去历史化加工。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 353–355]]) | 展现为“转移—[[Transfer Translation Transformation\|转译]]—转型”的三级纵向与横向流动过程。(p. 348) |
 
 ---
@@ -92,7 +92,7 @@ updated: 2026-06-23
 
 > [!dev-timeline] 概念演变
 > - **1965 — 文化理解[[Paradigm|范式]] (Verstehen)**：Lauwerys (1965) 提出以理解国家教育理想的方式来对比英、法、美、苏的受教育身份模型，强调其背后不同的哲学和文化脉络，此阶段受教育身份是理解文化的努力。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 333]])
-> - **1970s 至今 — 量化与效率导向**：IEA 和 [[PISA]] 国际测试兴起，将受教育身份[[Operationalization|操作化]]为可测量的、通用的学习结果与绩效数据，导致比较教育重心从文化理解转向效率衡量，沦为效率运动的工具。([[Argument_Cowen_2023_CE|Cowen, 2023, pp. 333–334]])
+> - **1970s 至今 — 量化与效率导向** IEA 和 [[PISA]] 国际测试兴起，将受教育身份[[Operationalization|操作化]]为可测量的、通用的学习结果与绩效数据，导致比较教育重心从文化理解转向效率衡量，沦为效率运动的工具。([[Argument_Cowen_2023_CE|Cowen, 2023, pp. 333–334]])
 > - **2009 — 全球 policy space 下的层级[[Transfer Translation Transformation|转译]]**：[[Argument_Beech_2009_CE|Beech (2009)]] 指出信息时代的受教育身份越来越多地在全球网络中被重构为“能力”和“多样性”等[[Floating Signifier|漂浮能指]]，并说明其在降落到拉美国家和学校实践时所经历的多级[[Shape-Shifting|形变]]与妥协。([[Argument_Beech_2009_CE|Beech, 2009, pp. 353–361]])
 
 ---

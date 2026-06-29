@@ -97,16 +97,16 @@ updated: 2026-05-18
 
 
 > [!abstract] 大师崇拜的表征
-> - **品牌扩张**：Hattie 的工作已成为一个品牌——"[[Visible Learning|可见的学习]]（Visible Learning，VL）"标签被扩展至 Making Literacy Visible、Visible Wellbeing 等多个领域，"进一步构建品牌，证明 Hattie 品牌正在利用机会最大化优势"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
-> - **学校自我标识**：部分学校开始自称"Hattie 学校"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
-> - **制度化嵌入**：Hattie 的工作已被纳入初始教师教育、研究生项目、专业对话——"现在在澳大利亚教育中无处不在"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
-> - **专业协会背书**：ACEL 与 Corwin 的合作伙伴关系使 Hattie 成为最大的学校领导力专业协会的官方议程([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414, 419]])
+> - **品牌扩张** Hattie 的工作已成为一个品牌——"[[Visible Learning|可见的学习]]（Visible Learning，VL）"标签被扩展至 Making Literacy Visible、Visible Wellbeing 等多个领域，"进一步构建品牌，证明 Hattie 品牌正在利用机会最大化优势"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
+> - **学校自我标识** 部分学校开始自称"Hattie 学校"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
+> - **制度化嵌入** Hattie 的工作已被纳入初始教师教育、研究生项目、专业对话——"现在在澳大利亚教育中无处不在"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
+> - **专业协会背书** ACEL 与 Corwin 的合作伙伴关系使 Hattie 成为最大的学校领导力专业协会的官方议程([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414, 419]])
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs **academic celebrity（学术名人）**：Eacott 明确区分了分析单位——学术名人研究关注的是作为实体的个体（如 Michael Fullan、Andy Hargreaves 等），而 Cult of the Guru 关注的是"使大师崛起成为可能的条件"（关系取向而非实体取向）([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414]])
-> - vs **fad/fashion（潮流与时尚）**：教育领导力经常经历来自外部（如商业管理概念）的潮流渗透（Peck & Reitzug, 2012），但 Cult of the Guru 特指从教育研究内部[[Emergence|涌现]]并被不加批判地接受的权威——更难识别和抵制([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414]])
+> - vs **academic celebrity（学术名人）** Eacott 明确区分了分析单位——学术名人研究关注的是作为实体的个体（如 Michael Fullan、Andy Hargreaves 等），而 Cult of the Guru 关注的是"使大师崛起成为可能的条件"（关系取向而非实体取向）([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414]])
+> - vs **fad/fashion（潮流与时尚）** 教育领导力经常经历来自外部（如商业管理概念）的潮流渗透（Peck & Reitzug, 2012），但 Cult of the Guru 特指从教育研究内部[[Emergence|涌现]]并被不加批判地接受的权威——更难识别和抵制([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414]])
 > - vs [[Neo-Taylorism]]：Neo-Taylorism 侧重分析 Hattie 工作与 Taylor 科学管理原理之间的结构同源性（效率最大化、唯一正确方法、任务拆解）；Cult of the Guru 侧重分析这种工作为何以及如何在特定社会条件下被不加批判地接受和制度化。两者互补：Neo-Taylorism 是"什么使 Hattie 的工作成为泰勒主义"，Cult of the Guru 是"什么使这种泰勒主义成为崇拜"
 
 ## 理论基础

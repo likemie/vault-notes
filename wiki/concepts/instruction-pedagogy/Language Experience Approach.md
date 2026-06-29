@@ -58,10 +58,10 @@ citation_aliases: []
 
 > [!frames-ref] 语言经验法的四大发展连续体
 > 艾伦（Allen, 1964, p.59）从儿童学习的心理过程出发，将语言经验法的基本逻辑概括为四个层层递进的命题 (p.144)：
-> 1. **从思想到言说**：我能想的，就能说（"What I can think about, I can talk about."）。
-> 2. **从言说到记录**：我能说的，就能写（"What I can say I can write."）。
-> 3. **从记录到阅读**：我能写的，就能读（"What I can write, I can read."）。
-> 4. **从自我到他人**：我能读自己写的，也能读别人为我写的（"I can read what I can write and what other people can write for me to read."）。
+> 1. **从思想到言说** 我能想的，就能说（"What I can think about, I can talk about."）。
+> 2. **从言说到记录** 我能说的，就能写（"What I can say I can write."）。
+> 3. **从记录到阅读** 我能写的，就能读（"What I can write, I can read."）。
+> 4. **从自我到他人** 我能读自己写的，也能读别人为我写的（"I can read what I can write and what other people can write for me to read."）。
 
 ---
 

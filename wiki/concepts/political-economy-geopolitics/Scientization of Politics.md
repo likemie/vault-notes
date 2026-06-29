@@ -83,9 +83,9 @@ Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学�
 
 - **[[Epistemology|认识论]]权威转移**：当政策制定者接受"决策应依据科学证据"这一前提时，科学知识就不再仅仅是决策的信息来源，而成为治理合法性的构成性要素。这种转变将认识论权威从政治机构（议会、政府部门）部分转移到[[Knowledge Production|知识生产]]机构（大学、研究所），但不是以正式权力移交的方式，而是以"谁的知识被认可为有效"的规范性基准的方式([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])
 
-- **研究评估的制度化**：政策的科学化在高等教育领域的一个具体表现是研究评估体系中将"影响"（impact）纳入评分标准。以英国研究卓越框架（[[Research Excellence Framework]], REF）为例：2009 年首次讨论影响评估，REF 2014 将影响作为第二重要评分项，REF 2021 预期影响权重进一步增长（Marques et al., 2017，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]]）。这一趋势将研究的社会影响力从"锦上添花"转变为"[[Necessary and Sufficient Conditions|必要条件]]"
+- **研究评估的制度化** 政策的科学化在高等教育领域的一个具体表现是研究评估体系中将"影响"（impact）纳入评分标准。以英国研究卓越框架（[[Research Excellence Framework]], REF）为例：2009 年首次讨论影响评估，REF 2014 将影响作为第二重要评分项，REF 2021 预期影响权重进一步增长（Marques et al., 2017，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]]）。这一趋势将研究的社会影响力从"锦上添花"转变为"[[Necessary and Sufficient Conditions|必要条件]]"
 
-- **大学能动者身份的重新定义**：政策的科学化推动大学从国家公共行政系统中的"特定组织"转变为全球治理中的"知识行动者"。当政策制定者需要科学证据来证明决策的合理性时，大学恰好填补了"谁提供权威知识"这个生态位——这正是 [[Otherhood]] 在大学身上的具体体现([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.148–149]])
+- **大学能动者身份的重新定义** 政策的科学化推动大学从国家公共行政系统中的"特定组织"转变为全球治理中的"知识行动者"。当政策制定者需要科学证据来证明决策的合理性时，大学恰好填补了"谁提供权威知识"这个生态位——这正是 [[Otherhood]] 在大学身上的具体体现([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.148–149]])
 
 ---
 ## 理论基础
@@ -98,7 +98,7 @@ Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学�
 ## 争议与批评
 
 > [!warning]
-> - **科学化与政治化的内在张力**：[[Argument_Zapp_2022_Springer|Zapp (2022, p.155)]] 指出，政策的科学化有一个内在风险——它同时也为科学被政治操控创造了条件。科学-政治关系的恶化可从三级递增来理解：[[Epistemic Drift|认识漂移]]（研究者主动将兴趣对齐资助方偏好，Elzinga, 1997）→ 证据的选择性使用和制造（政策制定者只引用支持自己立场的证据，Steiner-Khamsi et al., 2020）→ 对科学的公开压制（如匈牙利禁止性别研究、中欧大学（Central European University, CEU）被迫迁离，Scholars at Risk, 2019）([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.154–155]])
-> - **"影响"评价的异化风险**：将研究的社会影响力纳入正式评估体系（如 [[Research Excellence Framework|REF]]）虽然推动了政策的科学化，但可能导致研究者优先选择"容易展示影响"的课题而非由学术好奇心驱动的问题——认识漂移在制度层面的系统化([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])
+> - **科学化与政治化的内在张力**[[Argument_Zapp_2022_Springer|Zapp (2022, p.155)]] 指出，政策的科学化有一个内在风险——它同时也为科学被政治操控创造了条件。科学-政治关系的恶化可从三级递增来理解：[[Epistemic Drift|认识漂移]]（研究者主动将兴趣对齐资助方偏好，Elzinga, 1997）→ 证据的选择性使用和制造（政策制定者只引用支持自己立场的证据，Steiner-Khamsi et al., 2020）→ 对科学的公开压制（如匈牙利禁止性别研究、中欧大学（Central European University, CEU）被迫迁离，Scholars at Risk, 2019）([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.154–155]])
+> - **"影响"评价的异化风险** 将研究的社会影响力纳入正式评估体系（如 [[Research Excellence Framework|REF]]）虽然推动了政策的科学化，但可能导致研究者优先选择"容易展示影响"的课题而非由学术好奇心驱动的问题——认识漂移在制度层面的系统化([[Argument_Zapp_2022_Springer|Zapp, 2022, p.146]])
 
 ---

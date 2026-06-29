@@ -48,9 +48,9 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - **vs Higher Education（高等教育）**：高等教育是正规的、授予学位的中学后教育（大学、学院），继续教育则发生在结构化教育系统之外，以非学位证书为主。两者共同构成后福特经济中[[Lifelong Learning|终身学习]]的两大支柱([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
+> - **vs Higher Education（高等教育）** 高等教育是正规的、授予学位的中学后教育（大学、学院），继续教育则发生在结构化教育系统之外，以非学位证书为主。两者共同构成后福特经济中[[Lifelong Learning|终身学习]]的两大支柱([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
 > - **vs [[Corporate Education]]**：继续教育是更广泛的上位范畴，涵盖雇主提供、外部购买、专业协会提供等多种形式；企业教育是继续教育的一个子集——由企业为其雇员提供或资助的部分。2016 年欧盟约三分之一由雇主直接提供，其余由外部机构提供([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.180, 190]])
-> - **vs Lifelong Learning（终身学习）**：终身学习是最宽泛的概念，涵盖从早期教育到退休后的一切学习活动；继续教育特指成年人在完成初始教育后参与的非正规、有组织培训
+> - **vs Lifelong Learning（终身学习）** 终身学习是最宽泛的概念，涵盖从早期教育到退休后的一切学习活动；继续教育特指成年人在完成初始教育后参与的非正规、有组织培训
 
 ---
 
@@ -59,17 +59,17 @@ updated: '2026-05-18'
 > [!note]-
 > - **后福特经济转型（1990s–）**：制造业向知识密集型服务经济转型，知识生命周期缩短，继续教育从边缘走向中心。Morris-Suzuki（1997）称之为"永久创新经济"中劳动力持续再技能化的必然要求([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
 > - **参与率持续攀升（2000s–）**：2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且此后在所有高收入国家持续增长([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
-> - **微证书兴起（近年）**：继续教育的非学位属性催生了微证书（micro credentials）的繁荣，Kato et al.（2020）记录了替代性证书的快速增长([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
+> - **微证书兴起（近年）** 继续教育的非学位属性催生了微证书（micro credentials）的繁荣，Kato et al.（2020）记录了替代性证书的快速增长([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> - **非正规性**：继续教育主要在结构化教育系统之外进行，不授予传统学位，而是与非学位证书挂钩([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
-> - **多元供给主体**：供给方包括雇主（欧盟约三分之一，部分国家高达三分之二）、营利性教育提供商、专业协会和咨询公司。小型雇主尤其依赖外部提供商，但大雇主在绝对金额上是主要购买者([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.180, 190]])
-> - **管理培训国际化程度最高**：超过 50% 的 MNCs 提供全球高潜力人才培训项目，多数拥有全球继任计划。培训层级越高、目标人群职位越高，国际化程度越高([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.185]])
-> - **市场集中化趋势**：营利性教育提供商通过规模/网络效应和知识产权排他性形成寡头市场。全球最大提供商 Skillsoft 覆盖 160 国、29 种语言（详见 [[Corporate Education]] 中的四种权威策略分析）([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.190–193]])
+> - **非正规性** 继续教育主要在结构化教育系统之外进行，不授予传统学位，而是与非学位证书挂钩([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
+> - **多元供给主体** 供给方包括雇主（欧盟约三分之一，部分国家高达三分之二）、营利性教育提供商、专业协会和咨询公司。小型雇主尤其依赖外部提供商，但大雇主在绝对金额上是主要购买者([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.180, 190]])
+> - **管理培训国际化程度最高** 超过 50% 的 MNCs 提供全球高潜力人才培训项目，多数拥有全球继任计划。培训层级越高、目标人群职位越高，国际化程度越高([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.185]])
+> - **市场集中化趋势** 营利性教育提供商通过规模/网络效应和知识产权排他性形成寡头市场。全球最大提供商 Skillsoft 覆盖 160 国、29 种语言（详见 [[Corporate Education]] 中的四种权威策略分析）([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.190–193]])
 
 ---
 
@@ -91,8 +91,8 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - **教育研究的"公立偏见"（public bias）**：教育研究长期以公立学校和大学为中心，对继续教育——尤其是[[Corporate Education|企业教育]]——这一庞大的非正规教育领域系统性忽视。Hartmann 呼吁将继续教育纳入教育研究的核心议程([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
-> - **营利性教育的权威悖论**：继续教育市场的高度商业化导致培训概念和模型快速更迭，如同时尚界——这种波动性本身削弱了教育所需要的标准化和稳定性。详见 [[Corporate Education]] 中的分析([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.191–192]])
+> - **教育研究的"公立偏见"（public bias）** 教育研究长期以公立学校和大学为中心，对继续教育——尤其是[[Corporate Education|企业教育]]——这一庞大的非正规教育领域系统性忽视。Hartmann 呼吁将继续教育纳入教育研究的核心议程([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.179]])
+> - **营利性教育的权威悖论** 继续教育市场的高度商业化导致培训概念和模型快速更迭，如同时尚界——这种波动性本身削弱了教育所需要的标准化和稳定性。详见 [[Corporate Education]] 中的分析([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.191–192]])
 
 ---
 

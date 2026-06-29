@@ -53,11 +53,11 @@ updated: 2026-05-18
 > [!abstract] 核心要素
 > ISSPP 跨国研究识别出一组跨情境的基本领导实践([[Argument_Møller_2017_EERJ|Møller, 2017, p.380]])：
 >
-> - **设定方向**（setting direction）
-> - **发展人员**（developing people）
-> - **改进组织**（improving organization）
-> - **建立信任**（developing trust）
-> - **构建安全的学习环境**（building a safe learning environment）
+> - **设定方向（setting direction）**
+> - **发展人员（developing people）**
+> - **改进组织（improving organization）**
+> - **建立信任（developing trust）**
+> - **构建安全的学习环境（building a safe learning environment）**
 >
 > Møller 指出这些实践的具体含义在日常工作中并不总是一目了然。例：同样是"设定方向"，在多元文化、社会经济多样化的学校与在同质性较高的学校截然不同([[Argument_Møller_2017_EERJ|Møller, 2017, p.380]])。
 >
@@ -94,9 +94,9 @@ Møller 提出研究学校领导力的两种关键视角([[Argument_Møller_2017
 
 NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.49-51]])：
 
-- **证据本位决策**（evidence-based strategies）：Scott 宣称需要"来自稳健研究的证据本位策略"，但 English 论证证据本位决策"使学校变蠢"——教学被简化为数字，"什么重要实际上由所选择的问题决定"
-- **技术-理性主义**（techno-rationalist approaches）：改进通过逻辑增量实现，未能充分参与社会生活的复杂性。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"
-- **理论与实践的工具性二分**：领导力培养被框定为"持续将理论与实践联系起来"——暗示二者分离存在，但所谓"理论"仅指"教育管理者的知识专业化和问题解决工具"
+- **证据本位决策（evidence-based strategies）** Scott 宣称需要"来自稳健研究的证据本位策略"，但 English 论证证据本位决策"使学校变蠢"——教学被简化为数字，"什么重要实际上由所选择的问题决定"
+- **技术-理性主义（techno-rationalist approaches）** 改进通过逻辑增量实现，未能充分参与社会生活的复杂性。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"
+- **理论与实践的工具性二分** 领导力培养被框定为"持续将理论与实践联系起来"——暗示二者分离存在，但所谓"理论"仅指"教育管理者的知识专业化和问题解决工具"
 
 这些 doxa 通过**结构安排**被制度化和合法化：学校本位规划、择优晋升、领导力能力框架、竞争性入学领导力项目([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])。
 
@@ -116,7 +116,7 @@ NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argumen
 
 ### 替代方案："加入世界对话"
 
-[[Argument_Eacott_2011_JEAH|Eacott (2011, p.56-58)]]提出学校领导力培养需要一种基于**"教育问题提出与争辩"**（educational problem posing and contestation）而非"组织问题解决"（organisational problem solving）的**替代性领导习性**：
+[[Argument_Eacott_2011_JEAH|Eacott (2011, p.56-58)]]提出学校领导力培养需要一种基于**"教育问题提出与争辩"（educational problem posing and contestation）**而非"组织问题解决"（organisational problem solving）的**替代性领导习性**
 
 - 领导力培养不应是关于"唯一正确方法"，也不应恐惧"知识主张的争辩"
 - 需要理解"集体无意识的工作[[Hypothesis|假设]]、多元社会力量对工作的赋值、以及权力关系"——这要求**批判性[[Reflexivity|反思性]]**
@@ -128,8 +128,8 @@ NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argumen
 > [!success] 实证发现
 > ISSPP 项目在 20+ 个国家的[[Case Study|案例研究]]发现，成功学校校长的叙述呈现以下共同主题([[Argument_Møller_2017_EERJ|Møller, 2017, p.380]])：
 >
-> - **伦理关怀**（ethic of care）：对学校的热情、强烈的道德使命感
-> - **关系信任的建立**（relational trust）
+> - **伦理关怀（ethic of care）** 对学校的热情、强烈的道德使命感
+> - **关系信任的建立（relational trust）**
 > - **关注员工发展**，包括自我发展
 > - **对社会正义、公平与卓越的坚定承诺**
 > - 校长和教师都希望"对儿童和年轻人的生命产生影响"
@@ -145,10 +145,10 @@ NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argumen
 
 [[Argument_Møller_2017_EERJ|Møller (2017, p.380-381)]]识别出 ISSPP 类型研究的若干方法论缺陷：
 
-- **英雄叙事倾向**：成功校长的[[Case Study|案例研究]]容易沦为主角式的"英雄故事"（heroic tales），回到"伟人"领导力理论（citing Thomson, 2009）
-- **将学校领导力等同于校长个人**：尽管 ISSPP 声称分布式领导力更具影响力，研究实践仍倾向于将领导力等同于校长
+- **英雄叙事倾向** 成功校长的[[Case Study|案例研究]]容易沦为主角式的"英雄故事"（heroic tales），回到"伟人"领导力理论（citing Thomson, 2009）
+- **将学校领导力等同于校长个人** 尽管 ISSPP 声称分布式领导力更具影响力，研究实践仍倾向于将领导力等同于校长
 - **过度关注个人能力**，遮蔽了校长工作嵌入更广泛社会权力结构的事实
-- **对更广泛的权力结构缺乏批判性分析**：组织视角主导，社会视角缺失；对绩效问责体制的批评更多是隐含的而非明确的
+- **对更广泛的权力结构缺乏批判性分析** 组织视角主导，社会视角缺失；对绩效问责体制的批评更多是隐含的而非明确的
 
 ### OECD 话语的去政治化
 
