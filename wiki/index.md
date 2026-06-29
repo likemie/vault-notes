@@ -396,7 +396,7 @@ Total entries: **1508**
 
 > [!index-list]- Political Economy Geopolitics (74)
 > - [[Academic Capitalism]] — Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程
-> - [[Classical Geopolitics]] — 以国家为中心、将空间视为可占有客观地理实体的传统地缘政治范式，以社会有机体论为理论基石，关注领土控制、军事力量和硬实力竞争
+> - [[Classical Geopolitics]] — 以国家领土控制、势力范围和硬实力竞争为中心的传统地缘政治理解，与关系性和网络化的空间分析形成对照。
 > - [[Cultural Diplomacy]] — 通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。
 > - [[Culturalisation of Politics]] — Chen (2023) 提出的概念，政权以文化、历史和传统话语包装政治控制，替代公开的政治意识形态论证
 > - [[Depoliticalization of Ethnic Policy]] — 中国学者马戎于 2004 年提出的一种理论主张，建议将宪法地位的政治民族（nationality）概念降格为文化层面的族群（ethnicity）概念，以消除少数民族的政治自决与自治诉求
