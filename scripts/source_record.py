@@ -332,16 +332,48 @@ def update_source_record_text(
     return f"{new_fm}\n\n{body}"
 
 
-def replace_source_link_in_argument(text: str, old_name: str, new_name: str) -> str:
-    if old_name == new_name:
+def source_target_for_path(path: Path) -> str:
+    resolved = path.resolve()
+    try:
+        target = resolved.relative_to(ROOT.resolve()).as_posix()
+    except ValueError:
+        target = path.as_posix()
+    return target[:-3] if target.endswith(".md") else target
+
+
+def resolve_source_record_path(target: str) -> Path:
+    normalized = target[:-3] if target.endswith(".md") else target
+    target_path = Path(normalized)
+    if target_path.parts and target_path.parts[0] in {"sources", "books"}:
+        return (ROOT / target_path).with_suffix(".md")
+
+    direct = SOURCES_DIR / f"{target_path.name}.md"
+    if direct.exists():
+        return direct
+
+    matches = sorted(SOURCES_DIR.rglob(f"{target_path.name}.md")) + sorted(BOOKS_DIR.rglob(f"{target_path.name}.md"))
+    if len(matches) == 1:
+        return matches[0]
+    if not matches:
+        return direct
+    die(f"Ambiguous source wikilink target {target!r}; pass --source with the full path.")
+
+
+def replace_source_link_in_argument(
+    text: str,
+    old_target: str,
+    new_target: str,
+    new_display: str,
+) -> str:
+    if old_target == new_target:
         return text
 
     # Update only exact source wikilinks. This changes both frontmatter sources and ## 来源 body if present.
     # That is intentional after a source record rename; relation fields can be resynced afterwards.
     patterns = [
-        (f"[[{old_name}]]", f"[[{new_name}]]"),
-        (f"[[{old_name}|", f"[[{new_name}|"),
-        (f"[[{old_name}#", f"[[{new_name}#"),
+        (f"[[{old_target}]]", f"[[{new_target}|{new_display}]]"),
+        (f"[[{old_target}|", f"[[{new_target}|"),
+        (f"[[{old_target}#", f"[[{new_target}#"),
     ]
     out = text
     for old, new in patterns:
@@ -375,17 +407,17 @@ def finalize_source(args: argparse.Namespace) -> None:
     if not citation:
         die("Argument frontmatter has no `citation`; finalize cannot infer citation from PDF metadata.")
 
-    old_source_name: Optional[str] = None
+    old_source_target: Optional[str] = None
     if args.source:
         source_path = Path(args.source)
         if source_path.suffix != ".md":
             source_path = source_path.with_suffix(".md")
-        old_source_name = source_path.stem
+        old_source_target = source_target_for_path(source_path)
     else:
-        old_source_name = first_source_from_argument(arg_fm, arg_body)
-        if not old_source_name:
+        old_source_target = first_source_from_argument(arg_fm, arg_body)
+        if not old_source_target:
             die("Cannot find source wikilink from Argument frontmatter `sources` or `## 来源`. Pass --source.")
-        source_path = SOURCES_DIR / f"{old_source_name}.md"
+        source_path = resolve_source_record_path(old_source_target)
 
     validate_file(source_path, {".md"})
 
@@ -445,11 +477,20 @@ def finalize_source(args: argparse.Namespace) -> None:
             figures_dir.mkdir(parents=True, exist_ok=True)
             info(f"Ensured figures directory: {rel(figures_dir)}")
 
-    if old_source_name and old_source_name != new_name:
-        updated_arg_text = replace_source_link_in_argument(arg_text, old_source_name, new_name)
+    new_source_target = source_target_for_path(new_md_path)
+    if old_source_target and old_source_target != new_source_target:
+        updated_arg_text = replace_source_link_in_argument(
+            arg_text,
+            old_source_target,
+            new_source_target,
+            new_name,
+        )
         if updated_arg_text != arg_text:
             write_text(argument_path, updated_arg_text, overwrite=True, dry_run=args.dry_run)
-            info(f"Updated source wikilink in Argument page: [[{old_source_name}]] -> [[{new_name}]]")
+            info(
+                "Updated source wikilink in Argument page: "
+                f"[[{old_source_target}]] -> [[{new_source_target}|{new_name}]]"
+            )
 
     info("Finalize complete. Run `python3 scripts/vault_index.py`; run linker/relations/lint only after user confirmation per vault-schema.")
 

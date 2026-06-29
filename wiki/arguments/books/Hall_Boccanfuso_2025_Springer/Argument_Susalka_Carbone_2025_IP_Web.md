@@ -28,7 +28,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
 sources:
-  - "[[Ch15_Susalka_Carbone_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch15_Susalka_Carbone_2025|Ch15_Susalka_Carbone_2025]]"
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-03
@@ -378,4 +378,4 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 
 ## 来源
 
-- [[Ch15_Susalka_Carbone_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch15_Susalka_Carbone_2025|Ch15_Susalka_Carbone_2025]]

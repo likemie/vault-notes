@@ -45,7 +45,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Cowen_2009_CE]]"
+  - "[[sources/Cowen_2009_CE|Cowen_2009_CE]]"
 part_of: ''
 status: draft
 created: 2026-06-06
@@ -274,4 +274,4 @@ Shibata (2005) 对战后美国占领下德国和日本教育转移的比较，�
 
 ## 来源
 
-- [[Cowen_2009_CE]]
+- [[sources/Cowen_2009_CE|Cowen_2009_CE]]

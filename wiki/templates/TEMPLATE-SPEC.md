@@ -51,7 +51,7 @@ status: active
 - `related_*` 由 `scripts/wiki_relations.py` 自动维护，AI 不手动填写。
 - `related_*` 若引用条目，必须写成带引号的 wikilink，例如 `"[[Cultural Capital]]"`。
 - 新建 Concept / Theory / Method / Fact / Person 默认不写 YAML `sources`，也不写正文 `## 来源`。
-- Argument YAML `sources` 由脚本维护；正文 `## 来源` 只列 source record wikilink。
+- Argument YAML `sources` 由脚本维护；正文 `## 来源` 只列 source record wikilink。来源链接必须使用相对于 vault 根目录的完整路径并保留简短显示名，例如 `[[sources/Author_Year_Journal|Author_Year_Journal]]` 或 `[[books/Book_Folder/Book_Record|Book_Record]]`；禁止只写文件名，否则 Quartz 无法正确解析同名文件夹笔记。
 - Argument 不使用 `aliases`；Concept / Theory / Method / Fact / Person 使用 `aliases` 作为检索和自动补链白名单。
 - Argument 使用 `source_language: en` 或 `source_language: zh` 标记原始出版语言。中文原始文献的 `authors` 使用中英双语显示，如 `[[Yajun Zheng|郑雅君（Zheng, Y.）]]`。
 - 中文原始文献的 `citation` 使用中文著录，`citation_aliases` 只生成中文作者年形式；不要同时生成英文作者年 alias。`citation_linker.py` 只按生成后的中文 alias 匹配该文献。

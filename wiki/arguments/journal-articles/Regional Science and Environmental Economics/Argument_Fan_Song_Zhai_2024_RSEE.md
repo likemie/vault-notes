@@ -47,7 +47,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Fan_Song_Zhai_2024_RSEE]]"
+  - "[[sources/Fan_Song_Zhai_2024_RSEE/Fan_Song_Zhai_2024_RSEE|Fan_Song_Zhai_2024_RSEE]]"
 part_of:
 status: draft
 created: 2026-06-12
@@ -387,4 +387,4 @@ updated: 2026-06-12T18:15:00
 
 ## 来源
 
-- [[Fan_Song_Zhai_2024_RSEE]]
+- [[sources/Fan_Song_Zhai_2024_RSEE/Fan_Song_Zhai_2024_RSEE|Fan_Song_Zhai_2024_RSEE]]

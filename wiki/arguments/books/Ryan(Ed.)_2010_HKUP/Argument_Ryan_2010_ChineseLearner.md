@@ -47,7 +47,7 @@ related_facts:
   - "[[China Basic Education Curriculum Reform]]"
 related_arguments: []
 sources:
-  - "[[Ch2_Ryan_2010]]"
+  - "[[books/Ryan(Ed.)_2010_HKUP/Ch2_Ryan_2010|Ch2_Ryan_2010]]"
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
@@ -364,4 +364,4 @@ Ryan (p.57)以 Hayhoe & Pan（2001, p.21）的"真正的对话——在愿意倾
 
 ## 来源
 
-- [[Ch2_Ryan_2010]]
+- [[books/Ryan(Ed.)_2010_HKUP/Ch2_Ryan_2010|Ch2_Ryan_2010]]

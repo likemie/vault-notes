@@ -54,7 +54,7 @@ related_facts:
   - "[[THE Impact Ranking]]"
 related_arguments: []
 sources:
-  - "[[Ch9_Zapp_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022|Ch9_Zapp_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
@@ -261,4 +261,4 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 
 ## 来源
 
-- [[Ch9_Zapp_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch9_Zapp_2022|Ch9_Zapp_2022]]

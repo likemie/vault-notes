@@ -44,7 +44,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Snook_2010_NZJES]]"
 sources:
-  - "[[Terhart_2011_JCS]]"
+  - "[[sources/Terhart_2011_JCS|Terhart_2011_JCS]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -117,4 +117,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Terhart_2011_JCS]]
+- [[sources/Terhart_2011_JCS|Terhart_2011_JCS]]

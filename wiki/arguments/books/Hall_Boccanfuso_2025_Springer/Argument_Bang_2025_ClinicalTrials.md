@@ -40,7 +40,7 @@ related_facts:
   - "[[Sunshine Act]]"
 related_arguments: []
 sources:
-  - "[[Ch11_Bang_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch11_Bang_2025|Ch11_Bang_2025]]"
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-03
@@ -410,4 +410,4 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 
 ## 来源
 
-- [[Ch11_Bang_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch11_Bang_2025|Ch11_Bang_2025]]

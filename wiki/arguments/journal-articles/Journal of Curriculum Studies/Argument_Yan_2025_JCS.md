@@ -57,7 +57,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
 sources:
-  - "[[Yan_2025_JCS]]"
+  - "[[sources/Yan_2025_JCS|Yan_2025_JCS]]"
 part_of: ""
 status: draft
 created: 2026-05-01
@@ -353,4 +353,4 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 
 ## 来源
 
-- [[Yan_2025_JCS]]
+- [[sources/Yan_2025_JCS|Yan_2025_JCS]]

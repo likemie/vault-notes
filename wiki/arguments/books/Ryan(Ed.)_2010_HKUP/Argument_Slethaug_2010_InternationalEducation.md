@@ -42,7 +42,7 @@ related_facts:
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
 sources:
-  - "[[Ch1_Slethaug_2010]]"
+  - "[[books/Ryan(Ed.)_2010_HKUP/Ch1_Slethaug_2010|Ch1_Slethaug_2010]]"
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
@@ -229,4 +229,4 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 
 ## 来源
 
-- [[Ch1_Slethaug_2010]]
+- [[books/Ryan(Ed.)_2010_HKUP/Ch1_Slethaug_2010|Ch1_Slethaug_2010]]

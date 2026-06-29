@@ -50,7 +50,7 @@ related_facts:
   - "[[Daubert v Merrell Dow Pharmaceuticals 1993]]"
 related_arguments: []
 sources:
-  - "[[Berk_2011_ER]]"
+  - "[[sources/Berk_2011_ER|Berk_2011_ER]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -161,4 +161,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Berk_2011_ER]]
+- [[sources/Berk_2011_ER|Berk_2011_ER]]

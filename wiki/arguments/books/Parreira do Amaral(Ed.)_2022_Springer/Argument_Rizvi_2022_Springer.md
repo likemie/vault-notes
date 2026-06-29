@@ -56,7 +56,7 @@ related_facts:
   - "[[OECD]]"
 related_arguments: []
 sources:
-  - "[[Ch6_Rizvi_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022|Ch6_Rizvi_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
@@ -446,4 +446,4 @@ Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原�
 
 ## 来源
 
-- [[Ch6_Rizvi_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch6_Rizvi_2022|Ch6_Rizvi_2022]]

@@ -37,7 +37,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Eacott_2011_JEAH]]"
+  - "[[sources/Eacott_2011_JEAH|Eacott_2011_JEAH]]"
 part_of: ""
 status: draft
 created: 2026-05-02
@@ -168,4 +168,4 @@ Eacott 提出(p.56-58)：
 
 ## 来源
 
-- [[Eacott_2011_JEAH]]
+- [[sources/Eacott_2011_JEAH|Eacott_2011_JEAH]]

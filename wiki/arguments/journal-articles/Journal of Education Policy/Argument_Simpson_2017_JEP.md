@@ -45,7 +45,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments: []
 sources:
-  - "[[Simpson_2017_JEP]]"
+  - "[[sources/Simpson_2017_JEP|Simpson_2017_JEP]]"
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -196,4 +196,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Simpson_2017_JEP]]
+- [[sources/Simpson_2017_JEP|Simpson_2017_JEP]]

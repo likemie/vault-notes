@@ -72,7 +72,7 @@ related_facts:
   - "[[Academic Ranking of World Universities]]"
 related_arguments: []
 sources:
-  - "[[Yu_Xie_2025_JHE]]"
+  - "[[sources/Yu_Xie_2025_JHE|Yu_Xie_2025_JHE]]"
 part_of:
 status: draft
 created: 2026-06-26
@@ -581,4 +581,4 @@ journal: "高等教育研究"
 
 ## 来源
 
-- [[Yu_Xie_2025_JHE]]
+- [[sources/Yu_Xie_2025_JHE|Yu_Xie_2025_JHE]]

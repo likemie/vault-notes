@@ -47,7 +47,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments: []
 sources:
-  - "[[Allerup_2015_Paideia]]"
+  - "[[sources/Allerup_2015_Paideia|Allerup_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -112,4 +112,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Allerup_2015_Paideia]]
+- [[sources/Allerup_2015_Paideia|Allerup_2015_Paideia]]

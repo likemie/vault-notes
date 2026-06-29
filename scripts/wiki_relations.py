@@ -299,28 +299,51 @@ def infer_relations(body_without_sources: str, index: dict[str, Entry], self_ent
     return result
 
 
-def normalize_source_link_target(target: str, index: dict[str, Entry], source_title_lookup: dict[str, str] | None = None) -> str:
+def canonical_source_link(path: Path, title: str) -> str:
+    rel = rel_to_root(path)
+    target = rel[:-3] if rel.endswith(".md") else rel
+    return f"[[{target}|{title}]]"
+
+
+def normalize_source_link_target(
+    target: str,
+    index: dict[str, Entry],
+    source_link_lookup: dict[str, str] | None = None,
+) -> str:
+    if source_link_lookup:
+        source_link = source_link_lookup.get(target) or source_link_lookup.get(target.lower())
+        if source_link:
+            return source_link
+
     entry = index.get(target) or index.get(target.lower()) or index.get(Path(target).stem) or index.get(Path(target).stem.lower())
     if entry:
-        title = entry.title
-    elif source_title_lookup and (target in source_title_lookup or target.lower() in source_title_lookup):
-        title = source_title_lookup.get(target) or source_title_lookup[target.lower()]
-    elif target.endswith(".md") or "/" in target:
-        title = Path(target).stem
-    else:
-        title = target
-    return f"[[{title}]]"
+        return f"[[{entry.title}]]"
+    if target.endswith(".md"):
+        target = target[:-3]
+    return f"[[{target}]]"
 
 
-def infer_sources(source_section: str, index: dict[str, Entry], source_title_lookup: dict[str, str] | None = None) -> list[str]:
+def infer_sources(source_section: str, index: dict[str, Entry], source_link_lookup: dict[str, str] | None = None) -> list[str]:
     sources: list[str] = []
     seen: set[str] = set()
     for target in extract_targets(source_section):
-        link = normalize_source_link_target(target, index, source_title_lookup)
+        link = normalize_source_link_target(target, index, source_link_lookup)
         if link not in seen:
             sources.append(link)
             seen.add(link)
     return sources
+
+
+def normalize_source_section_links(
+    source_section: str,
+    index: dict[str, Entry],
+    source_link_lookup: dict[str, str],
+) -> str:
+    def repl(match: re.Match[str]) -> str:
+        target, _display = parse_wikilink(match.group(1))
+        return normalize_source_link_target(target, index, source_link_lookup)
+
+    return WIKILINK_RE.sub(repl, source_section)
 
 
 def yaml_key_at(line: str) -> str | None:
@@ -493,7 +516,7 @@ def git_changed_wiki_files() -> list[Path]:
 def process_wiki_file(
     path: Path,
     index: dict[str, Entry],
-    source_title_lookup: dict[str, str],
+    source_link_lookup: dict[str, str],
     *,
     dry_run: bool = False,
     add_missing: bool = True,
@@ -510,7 +533,11 @@ def process_wiki_file(
     updates = infer_relations(body_without_sources, index, self_entry)
 
     if entry_type == "argument":
-        sources = infer_sources(source_section, index, source_title_lookup)
+        normalized_source_section = normalize_source_section_links(source_section, index, source_link_lookup)
+        if normalized_source_section != source_section:
+            body = body.replace(source_section, normalized_source_section, 1)
+            source_section = normalized_source_section
+        sources = infer_sources(source_section, index, source_link_lookup)
         updates["sources"] = sources
         new_body = body
         sync_keys = WIKI_SYNC_KEYS
@@ -560,10 +587,11 @@ def load_source_records() -> tuple[dict[str, Path], dict[str, str]]:
         title_to_path[title] = path
         rel = rel_to_root(path)
         rel_no_md = rel[:-3] if rel.endswith(".md") else rel
+        canonical_link = canonical_source_link(path, title)
         keys = {title, title.lower(), path.stem, path.stem.lower(), rel, rel.lower(), rel_no_md, rel_no_md.lower()}
         for key in keys:
             if key:
-                lookup[key] = title
+                lookup[key] = canonical_link
     return title_to_path, lookup
 
 
@@ -630,7 +658,7 @@ def update_source_extracted_to(
 def build_full_extracted_to_map(
     wiki_files: Iterable[Path],
     index: dict[str, Entry],
-    source_title_lookup: dict[str, str],
+    source_link_lookup: dict[str, str],
 ) -> dict[str, list[str]]:
     result: dict[str, list[str]] = {}
     seen: dict[str, set[str]] = {}
@@ -652,7 +680,7 @@ def build_full_extracted_to_map(
         else:
             self_link = f"[[{self_entry.title}]]"
         source_section, _body_without_sources = source_section_and_body_without_sources(body)
-        for source_link in infer_sources(source_section, index, source_title_lookup):
+        for source_link in infer_sources(source_section, index, source_link_lookup):
             result.setdefault(source_link, [])
             seen.setdefault(source_link, set())
             if self_link not in seen[source_link]:
@@ -670,7 +698,7 @@ def sync_extracted_to_full(
 ) -> int:
     changed = 0
     for title, path in sorted(source_title_to_path.items()):
-        link = f"[[{title}]]"
+        link = canonical_source_link(path, title)
         extracted = reverse_map.get(link, [])
         if update_source_extracted_to(path, extracted, dry_run=dry_run, add_missing=add_missing):
             changed += 1
@@ -699,11 +727,12 @@ def sync_extracted_to_incremental(
 
         current_sources = set(current_source_links)
         for title, source_path in sorted(source_title_to_path.items()):
-            source_link = f"[[{title}]]"
+            source_link = canonical_source_link(source_path, title)
             old_values = current_extracted_to(source_path)
-            new_values = [v for v in old_values if v != entry_link]
-            if source_link in current_sources and entry_link not in new_values:
-                new_values.append(entry_link)
+            if source_link in current_sources:
+                new_values = old_values if entry_link in old_values else [*old_values, entry_link]
+            else:
+                new_values = [v for v in old_values if v != entry_link]
             if new_values != old_values:
                 if update_source_extracted_to(source_path, new_values, dry_run=dry_run, add_missing=add_missing):
                     changed += 1
@@ -712,7 +741,7 @@ def sync_extracted_to_incremental(
 
 def cmd_sync(args: argparse.Namespace) -> int:
     index = load_index()
-    source_title_to_path, source_title_lookup = load_source_records()
+    source_title_to_path, source_link_lookup = load_source_records()
 
     explicit_target = bool(args.target)
     full = bool(args.full)
@@ -724,14 +753,14 @@ def cmd_sync(args: argparse.Namespace) -> int:
             target = ROOT / target
         if target.exists() and (is_under(target, SOURCES_DIR) or is_under(target, BOOKS_DIR)):
             wiki_files = iter_wiki_files(None)
-            reverse_map = build_full_extracted_to_map(wiki_files, index, source_title_lookup)
+            reverse_map = build_full_extracted_to_map(wiki_files, index, source_link_lookup)
             target_sources = iter_source_record_files(args.target)
             changed = 0
             for path in target_sources:
                 text = path.read_text(encoding="utf-8")
                 _prefix, yaml_text, _body = split_frontmatter(text)
                 title = frontmatter_value(yaml_text, "title") or path.stem
-                extracted = reverse_map.get(f"[[{title}]]", [])
+                extracted = reverse_map.get(canonical_source_link(path, title), [])
                 if update_source_extracted_to(path, extracted, dry_run=args.dry_run, add_missing=not args.no_add_missing):
                     changed += 1
             print(("DRY-RUN complete" if args.dry_run else "Done") + f": {changed} source file(s) updated.")
@@ -749,7 +778,7 @@ def cmd_sync(args: argparse.Namespace) -> int:
             changed, entry, sources = process_wiki_file(
                 path,
                 index,
-                source_title_lookup,
+                source_link_lookup,
                 dry_run=args.dry_run,
                 add_missing=not args.no_add_missing,
             )
@@ -760,7 +789,7 @@ def cmd_sync(args: argparse.Namespace) -> int:
             print(f"skip non-utf8 file: {rel_to_root(path)}", file=sys.stderr)
 
     if full:
-        reverse_map = build_full_extracted_to_map(iter_wiki_files(None), index, source_title_lookup)
+        reverse_map = build_full_extracted_to_map(iter_wiki_files(None), index, source_link_lookup)
         changed_sources = sync_extracted_to_full(
             source_title_to_path,
             reverse_map,

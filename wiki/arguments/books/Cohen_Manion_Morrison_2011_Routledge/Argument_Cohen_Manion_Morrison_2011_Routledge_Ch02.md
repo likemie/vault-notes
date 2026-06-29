@@ -96,7 +96,7 @@ related_facts:
   - "[[Girls Into Science and Technology Project]]"
 related_arguments: []
 sources:
-  - "[[Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-16
@@ -631,4 +631,4 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 
 ## 来源
 
-- [[Cohen_Manion_Morrison_2011_Routledge]]
+- [[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]

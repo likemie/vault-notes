@@ -72,7 +72,7 @@ related_facts:
   - "[[Centre for Independent Studies]]"
 related_arguments: []
 sources:
-  - "[[Wadhwa_2024_RER]]"
+  - "[[sources/Wadhwa_2024_RER|Wadhwa_2024_RER]]"
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -285,4 +285,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Wadhwa_2024_RER]]
+- [[sources/Wadhwa_2024_RER|Wadhwa_2024_RER]]

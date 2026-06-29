@@ -57,7 +57,7 @@ related_facts:
   - "[[My Pledge to Act]]"
 related_arguments: []
 sources:
-  - "[[Vickers_2024_CE]]"
+  - "[[sources/Vickers_2024_CE|Vickers_2024_CE]]"
 part_of: ''
 status: draft
 created: 2026-05-25
@@ -306,4 +306,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Vickers_2024_CE]]
+- [[sources/Vickers_2024_CE|Vickers_2024_CE]]

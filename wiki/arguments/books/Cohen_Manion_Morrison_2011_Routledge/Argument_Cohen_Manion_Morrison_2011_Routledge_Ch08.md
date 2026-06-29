@@ -85,7 +85,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-21
@@ -799,4 +799,4 @@ Teddlie & Tashakkori（2009: 186–7）还推荐了两种混合变体：
 
 ## 来源
 
-- [[Cohen_Manion_Morrison_2011_Routledge]]
+- [[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]

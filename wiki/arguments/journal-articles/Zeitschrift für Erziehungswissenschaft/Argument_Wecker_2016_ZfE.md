@@ -49,7 +49,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Wecker_2016_ZfE]]"
+  - "[[sources/Wecker_2016_ZfE|Wecker_2016_ZfE]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -231,4 +231,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Wecker_2016_ZfE]]
+- [[sources/Wecker_2016_ZfE|Wecker_2016_ZfE]]

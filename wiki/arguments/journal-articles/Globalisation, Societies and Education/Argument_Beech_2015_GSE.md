@@ -58,7 +58,7 @@ related_facts:
   - "[[Conectar Igualdad]]"
 related_arguments: []
 sources:
-  - "[[Beech_2015_GSE]]"
+  - "[[sources/Beech_2015_GSE|Beech_2015_GSE]]"
 part_of: ''
 status: draft
 created: 2026-06-07
@@ -263,4 +263,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Beech_2015_GSE]]
+- [[sources/Beech_2015_GSE|Beech_2015_GSE]]

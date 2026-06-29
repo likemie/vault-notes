@@ -72,7 +72,7 @@ related_facts:
   - "[[Bologna Process]]"
 related_arguments: []
 sources:
-  - "[[Ch4_Amos_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022|Ch4_Amos_2022]]"
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-08
@@ -323,4 +323,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch4_Amos_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch4_Amos_2022|Ch4_Amos_2022]]

@@ -45,7 +45,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[SpronkenSmith_2024_AEHE]]"
+  - "[[sources/SpronkenSmith_2024_AEHE|SpronkenSmith_2024_AEHE]]"
 part_of: ''
 status: draft
 created: '2026-05-26'
@@ -284,4 +284,4 @@ updated: '2026-06-10'
 
 ## 来源
 
-- [[SpronkenSmith_2024_AEHE]]
+- [[sources/SpronkenSmith_2024_AEHE|SpronkenSmith_2024_AEHE]]

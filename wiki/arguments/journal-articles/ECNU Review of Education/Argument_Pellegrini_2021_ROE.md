@@ -60,7 +60,7 @@ related_facts:
   - "[[EU Key Competences for Lifelong Learning]]"
 related_arguments: []
 sources:
-  - "[[Pellegrini_2021_ROE]]"
+  - "[[sources/Pellegrini_2021_ROE|Pellegrini_2021_ROE]]"
 part_of: ''
 status: draft
 created: 2026-05-23
@@ -172,4 +172,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Pellegrini_2021_ROE]]
+- [[sources/Pellegrini_2021_ROE|Pellegrini_2021_ROE]]

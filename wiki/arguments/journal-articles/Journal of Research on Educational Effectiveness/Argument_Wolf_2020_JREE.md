@@ -50,7 +50,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments: []
 sources:
-  - "[[Wolf_2020_JREE]]"
+  - "[[sources/Wolf_2020_JREE|Wolf_2020_JREE]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -122,4 +122,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Wolf_2020_JREE]]
+- [[sources/Wolf_2020_JREE|Wolf_2020_JREE]]

@@ -104,7 +104,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-16
@@ -743,4 +743,4 @@ Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一�
 
 ## 来源
 
-- [[Cohen_Manion_Morrison_2011_Routledge]]
+- [[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]

@@ -42,7 +42,7 @@ related_facts:
   - "[[Success for All]]"
 related_arguments: []
 sources:
-  - "[[Cheung_2021_ROE]]"
+  - "[[sources/Cheung_2021_ROE|Cheung_2021_ROE]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -125,4 +125,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Cheung_2021_ROE]]
+- [[sources/Cheung_2021_ROE|Cheung_2021_ROE]]

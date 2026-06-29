@@ -17,7 +17,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Source_Name]]"
+  - "[[sources/Source_Name|Source_Name]]"
 part_of:
 status: draft
 created: <% tp.date.now("YYYY-MM-DD") %>
@@ -179,4 +179,4 @@ issuing_organization: ""
 
 ## 来源
 
-- [[Source_Name]]
+- [[sources/Source_Name|Source_Name]]

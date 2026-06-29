@@ -33,7 +33,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Kraft_2023_ER]]"
+  - "[[sources/Kraft_2023_ER|Kraft_2023_ER]]"
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -96,4 +96,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Kraft_2023_ER]]
+- [[sources/Kraft_2023_ER|Kraft_2023_ER]]

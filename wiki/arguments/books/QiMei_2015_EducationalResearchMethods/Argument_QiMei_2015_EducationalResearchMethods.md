@@ -133,7 +133,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[QiMei_2015_EducationalResearchMethods]]"
+  - "[[books/QiMei_2015_EducationalResearchMethods/QiMei_2015_EducationalResearchMethods|QiMei_2015_EducationalResearchMethods]]"
 part_of:
 status: draft
 created: 2026-06-25
@@ -1084,4 +1084,4 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 ---
 
 ## 来源
-- [[QiMei_2015_EducationalResearchMethods]]
+- [[books/QiMei_2015_EducationalResearchMethods/QiMei_2015_EducationalResearchMethods|QiMei_2015_EducationalResearchMethods]]

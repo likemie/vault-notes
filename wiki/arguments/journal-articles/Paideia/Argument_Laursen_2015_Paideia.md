@@ -41,7 +41,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Laursen_2015_Paideia]]"
+  - "[[sources/Laursen_2015_Paideia|Laursen_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -125,4 +125,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Laursen_2015_Paideia]]
+- [[sources/Laursen_2015_Paideia|Laursen_2015_Paideia]]

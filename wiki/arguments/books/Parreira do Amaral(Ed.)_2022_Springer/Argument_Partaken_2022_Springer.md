@@ -65,7 +65,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Glitz_2020_AER]]"
 sources:
-  - "[[Ch5_Partaken_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022|Ch5_Partaken_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
@@ -272,4 +272,4 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 
 ## 来源
 
-- [[Ch5_Partaken_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch5_Partaken_2022|Ch5_Partaken_2022]]

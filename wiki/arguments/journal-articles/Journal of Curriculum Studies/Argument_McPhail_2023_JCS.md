@@ -59,7 +59,7 @@ related_facts:
   - "[[The New Zealand Curriculum]]"
 related_arguments: []
 sources:
-  - "[[McPhail_2023_JCS]]"
+  - "[[sources/McPhail_2023_JCS|McPhail_2023_JCS]]"
 part_of: ''
 status: draft
 created: 2026-06-06
@@ -380,4 +380,4 @@ citation_aliases:
 
 ## 来源
 
-- [[McPhail_2023_JCS]]
+- [[sources/McPhail_2023_JCS|McPhail_2023_JCS]]

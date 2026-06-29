@@ -17,12 +17,3 @@ processed_date: 2026-06-25
   height="820"
   style="border: 1px solid #ddd; border-radius: 8px;"
 ></iframe>
-
-
-
-<iframe
-  src="https://img.mylikemie.icu/books/QiMei_2015_EducationalResearchMethods/QiMei_2015_EducationalResearchMethods.pdf"
-  width="100%"
-  height="820"
-  style="border: 1px solid #ddd; border-radius: 8px;"
-></iframe>

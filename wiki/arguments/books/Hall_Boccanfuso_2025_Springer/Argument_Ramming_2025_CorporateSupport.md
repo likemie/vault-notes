@@ -51,7 +51,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Semiconductor Research Corporation]]"
 sources:
-  - "[[Ch12_Ramming_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch12_Ramming_2025|Ch12_Ramming_2025]]"
 status: draft
 created: 2026-06-03
 updated: '2026-06-08'
@@ -455,4 +455,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch12_Ramming_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch12_Ramming_2025|Ch12_Ramming_2025]]

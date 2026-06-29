@@ -23,7 +23,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Source_Name]]"
+  - "[[books/<book-folder>/Source_Name|Source_Name]]"
 part_of:
 status: draft
 created: <% tp.date.now("YYYY-MM-DD") %>
@@ -152,4 +152,4 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 只列整本书 source record wikilink。章节 source 写入对应章节 Argument。 %%
 
-- [[Source_Name]]
+- [[books/<book-folder>/Source_Name|Source_Name]]

@@ -52,7 +52,7 @@ related_facts:
   - "[[Confucian Revival in China]]"
 related_arguments: []
 sources:
-  - "[[Yu_2024_CE]]"
+  - "[[sources/Yu_2024_CE|Yu_2024_CE]]"
 part_of: ''
 status: draft
 created: 2026-05-21
@@ -293,4 +293,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Yu_2024_CE]]
+- [[sources/Yu_2024_CE|Yu_2024_CE]]

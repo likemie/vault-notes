@@ -55,7 +55,7 @@ related_facts:
   - "[[May Fourth Movement]]"
 related_arguments: []
 sources:
-  - "[[Schulte_2009_EncuentrosEducacion]]"
+  - "[[sources/Schulte_2009_EncuentrosEducacion|Schulte_2009_EncuentrosEducacion]]"
 status: draft
 created: 2026-05-26
 updated: '2026-06-08'
@@ -326,4 +326,4 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 ## 来源
 
-- [[Schulte_2009_EncuentrosEducacion]]
+- [[sources/Schulte_2009_EncuentrosEducacion|Schulte_2009_EncuentrosEducacion]]

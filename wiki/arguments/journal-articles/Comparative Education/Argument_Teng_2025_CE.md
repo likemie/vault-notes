@@ -46,7 +46,7 @@ related_facts:
   - "[[Hukou System]]"
 related_arguments: []
 sources:
-  - "[[Teng_2025_CE]]"
+  - "[[sources/Teng_2025_CE|Teng_2025_CE]]"
 part_of:
 status: draft
 created: 2026-05-26
@@ -235,4 +235,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Teng_2025_CE]]
+- [[sources/Teng_2025_CE|Teng_2025_CE]]

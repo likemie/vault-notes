@@ -62,7 +62,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments: []
 sources:
-  - "[[Schaffar_2024_CogentEdu]]"
+  - "[[sources/Schaffar_2024_CogentEdu|Schaffar_2024_CogentEdu]]"
 part_of: ""
 status: draft
 created: 2026-05-06
@@ -272,4 +272,4 @@ updated: 2026-06-22
 
 ## 来源
 
-- [[Schaffar_2024_CogentEdu]]
+- [[sources/Schaffar_2024_CogentEdu|Schaffar_2024_CogentEdu]]

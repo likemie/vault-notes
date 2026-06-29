@@ -49,7 +49,7 @@ related_facts:
   - "[[Ofsted]]"
 related_arguments: []
 sources:
-  - "[[Cowen_2015_CHESS]]"
+  - "[[sources/Cowen_2015_CHESS|Cowen_2015_CHESS]]"
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -144,4 +144,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Cowen_2015_CHESS]]
+- [[sources/Cowen_2015_CHESS|Cowen_2015_CHESS]]

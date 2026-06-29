@@ -68,7 +68,7 @@ related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_Eacott_2019_IJLE]]"
 sources:
-  - "[[Eacott_2017_SLM]]"
+  - "[[sources/Eacott_2017_SLM|Eacott_2017_SLM]]"
 part_of: ""
 status: draft
 created: 2026-05-03
@@ -268,4 +268,4 @@ updated: 2026-06-09
 
 ## 来源
 
-- [[Eacott_2017_SLM]]
+- [[sources/Eacott_2017_SLM|Eacott_2017_SLM]]

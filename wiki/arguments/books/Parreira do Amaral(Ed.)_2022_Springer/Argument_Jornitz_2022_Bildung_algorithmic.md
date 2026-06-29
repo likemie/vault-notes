@@ -47,7 +47,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments: []
 sources:
-  - "[[Ch14_Jornitz_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch14_Jornitz_2022|Ch14_Jornitz_2022]]"
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-20
@@ -247,4 +247,4 @@ Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批�
 
 ## 来源
 
-- [[Ch14_Jornitz_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch14_Jornitz_2022|Ch14_Jornitz_2022]]

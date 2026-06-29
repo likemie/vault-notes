@@ -39,7 +39,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Pavitt_1984_RP]]"
+  - "[[sources/Pavitt_1984_RP|Pavitt_1984_RP]]"
 part_of:
 status: draft
 created: 2026-06-11
@@ -167,4 +167,4 @@ Pavitt 进一步将分类差异归因于三个因素的交互作用，并由此�
 ---
 ## 来源
 
-- [[Pavitt_1984_RP]]
+- [[sources/Pavitt_1984_RP|Pavitt_1984_RP]]

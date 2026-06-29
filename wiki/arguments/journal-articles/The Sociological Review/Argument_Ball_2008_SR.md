@@ -32,7 +32,7 @@ related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
 related_arguments: []
 sources:
-  - "[[Ball_2008_SR]]"
+  - "[[sources/Ball_2008_SR|Ball_2008_SR]]"
 part_of: ""
 status: draft
 created: 2026-05-23
@@ -160,4 +160,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ball_2008_SR]]
+- [[sources/Ball_2008_SR|Ball_2008_SR]]

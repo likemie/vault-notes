@@ -33,7 +33,7 @@ tags:
   - region/china
   - source/book
 sources:
-  - "[[Zhang_2023_PHEI]]"
+  - "[[books/Zhang_2023_PHEI/Zhang_2023_PHEI|Zhang_2023_PHEI]]"
 part_of:
 related_concepts:
   - "[[Innovation Hub]]"
@@ -484,5 +484,5 @@ updated: 2026-06-11
 ---
 ## 来源
 
-- [[Zhang_2023_PHEI]]
+- [[books/Zhang_2023_PHEI/Zhang_2023_PHEI|Zhang_2023_PHEI]]
 

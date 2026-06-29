@@ -48,7 +48,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Ch7_Delambre_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022|Ch7_Delambre_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
@@ -192,4 +192,4 @@ Delambre 的最终结论是一个概念重构：在 [[Tense Society|张力社会
 
 ## 来源
 
-- [[Ch7_Delambre_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch7_Delambre_2022|Ch7_Delambre_2022]]

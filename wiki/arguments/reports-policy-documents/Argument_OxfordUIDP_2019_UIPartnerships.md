@@ -81,7 +81,7 @@ related_facts:
   - "[[Public Impact-Focused Research]]"
 related_arguments: []
 sources:
-  - "[[OxfordUIDP_2019_UIPartnerships]]"
+  - "[[sources/OxfordUIDP_2019_UIPartnerships/OxfordUIDP_2019_UIPartnerships|OxfordUIDP_2019_UIPartnerships]]"
 part_of:
 status: draft
 created: 2026-06-10
@@ -508,4 +508,4 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 
 ## 来源
 
-- [[OxfordUIDP_2019_UIPartnerships]]
+- [[sources/OxfordUIDP_2019_UIPartnerships/OxfordUIDP_2019_UIPartnerships|OxfordUIDP_2019_UIPartnerships]]

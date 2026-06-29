@@ -46,7 +46,7 @@ related_facts:
   - "[[Akademgorodok]]"
 related_arguments: []
 sources:
-  - "[[Chan_2015_Intersect]]"
+  - "[[sources/Chan_2015_Intersect|Chan_2015_Intersect]]"
 part_of:
 status: draft
 created: 2026-06-12
@@ -342,4 +342,4 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 ---
 ## 来源
 
-- [[Chan_2015_Intersect]]
+- [[sources/Chan_2015_Intersect|Chan_2015_Intersect]]

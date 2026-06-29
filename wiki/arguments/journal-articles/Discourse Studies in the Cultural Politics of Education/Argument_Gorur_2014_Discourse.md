@@ -45,7 +45,7 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
 related_arguments: []
 sources:
-  - "[[Gorur_2014_Discourse]]"
+  - "[[sources/Gorur_2014_Discourse|Gorur_2014_Discourse]]"
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -131,4 +131,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Gorur_2014_Discourse]]
+- [[sources/Gorur_2014_Discourse|Gorur_2014_Discourse]]

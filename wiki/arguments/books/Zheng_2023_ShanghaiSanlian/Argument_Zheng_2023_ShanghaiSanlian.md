@@ -118,7 +118,7 @@ related_facts:
   - "[[Peidu]]"
 related_arguments: []
 sources:
-  - "[[Zheng_2023_ShanghaiSanlian]]"
+  - "[[books/Zheng_2023_ShanghaiSanlian/Zheng_2023_ShanghaiSanlian|Zheng_2023_ShanghaiSanlian]]"
 part_of: ""
 status: draft
 created: 2026-05-08
@@ -1226,4 +1226,4 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 ## 来源
 
-- [[Zheng_2023_ShanghaiSanlian]]
+- [[books/Zheng_2023_ShanghaiSanlian/Zheng_2023_ShanghaiSanlian|Zheng_2023_ShanghaiSanlian]]

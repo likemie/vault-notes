@@ -47,7 +47,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Wang_2025_CE]]"
+  - "[[sources/Wang_2025_CE|Wang_2025_CE]]"
 part_of: ''
 status: draft
 created: 2026-05-26
@@ -216,4 +216,4 @@ Urban 2 和 Rural 2 的情况不同。这两所学校都强烈渴望显著提升
 
 ## 来源
 
-- [[Wang_2025_CE]]
+- [[sources/Wang_2025_CE|Wang_2025_CE]]

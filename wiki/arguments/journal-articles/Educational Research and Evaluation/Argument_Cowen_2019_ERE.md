@@ -54,7 +54,7 @@ related_facts:
   - "[[Grammar School]]"
 related_arguments: []
 sources:
-  - "[[Cowen_2019_ERE]]"
+  - "[[sources/Cowen_2019_ERE|Cowen_2019_ERE]]"
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -213,4 +213,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Cowen_2019_ERE]]
+- [[sources/Cowen_2019_ERE|Cowen_2019_ERE]]

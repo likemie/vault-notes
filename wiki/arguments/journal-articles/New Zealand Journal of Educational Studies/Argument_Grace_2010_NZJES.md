@@ -33,7 +33,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Grace_2010_NZJES]]"
+  - "[[sources/Grace_2010_NZJES|Grace_2010_NZJES]]"
 part_of: ''
 status: draft
 created: '2026-05-07'
@@ -114,4 +114,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Grace_2010_NZJES]]
+- [[sources/Grace_2010_NZJES|Grace_2010_NZJES]]

@@ -47,7 +47,7 @@ related_facts:
   - "[[Global Futures Framework (University of Waterloo)]]"
 related_arguments: []
 sources:
-  - "[[Ch13_Dean_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch13_Dean_2025|Ch13_Dean_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-03
@@ -338,4 +338,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch13_Dean_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch13_Dean_2025|Ch13_Dean_2025]]

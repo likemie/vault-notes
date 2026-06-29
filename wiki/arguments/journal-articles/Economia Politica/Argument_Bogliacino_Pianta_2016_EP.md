@@ -53,7 +53,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
 sources:
-  - "[[Bogliacino_Pianta_2016_EP]]"
+  - "[[sources/Bogliacino_Pianta_2016_EP/Bogliacino_Pianta_2016_EP|Bogliacino_Pianta_2016_EP]]"
 part_of:
 status: draft
 created: 2026-06-10
@@ -246,4 +246,4 @@ updated: 2026-06-10
 ---
 ## 来源
 
-- [[Bogliacino_Pianta_2016_EP]]
+- [[sources/Bogliacino_Pianta_2016_EP/Bogliacino_Pianta_2016_EP|Bogliacino_Pianta_2016_EP]]

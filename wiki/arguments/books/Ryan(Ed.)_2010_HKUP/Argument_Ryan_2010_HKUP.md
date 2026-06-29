@@ -46,7 +46,7 @@ related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Ryan_2010_ChineseLearner]]"
 sources:
-  - "[[Ryan(Ed.)_2010_HKUP]]"
+  - "[[books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP|Ryan(Ed.)_2010_HKUP]]"
 part_of: ""
 status: draft
 created: 2026-05-16
@@ -125,4 +125,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ryan(Ed.)_2010_HKUP]]
+- [[books/Ryan(Ed.)_2010_HKUP/Ryan(Ed.)_2010_HKUP|Ryan(Ed.)_2010_HKUP]]

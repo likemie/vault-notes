@@ -47,7 +47,7 @@ related_facts:
   - "[[Best Evidence in Brief]]"
 related_arguments: []
 sources:
-  - "[[Slavin_2021_ROE]]"
+  - "[[sources/Slavin_2021_ROE|Slavin_2021_ROE]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -116,4 +116,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Slavin_2021_ROE]]
+- [[sources/Slavin_2021_ROE|Slavin_2021_ROE]]

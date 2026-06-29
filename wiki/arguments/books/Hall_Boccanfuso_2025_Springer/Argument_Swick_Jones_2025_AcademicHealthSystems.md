@@ -40,7 +40,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
 sources:
-  - "[[Ch10_Swick_Jones_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025|Ch10_Swick_Jones_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-02
@@ -392,4 +392,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch10_Swick_Jones_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025|Ch10_Swick_Jones_2025]]

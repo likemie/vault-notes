@@ -45,7 +45,7 @@ related_facts:
   - "[[Independent Public Schools Western Australia]]"
 related_arguments: []
 sources:
-  - "[[Keddie_2020_JEAH]]"
+  - "[[sources/Keddie_2020_JEAH|Keddie_2020_JEAH]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -136,4 +136,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Keddie_2020_JEAH]]
+- [[sources/Keddie_2020_JEAH|Keddie_2020_JEAH]]

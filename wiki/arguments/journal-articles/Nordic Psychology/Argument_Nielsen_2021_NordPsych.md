@@ -51,7 +51,7 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Hattie_2010_NZJES]]"
 sources:
-  - "[[Nielsen_2021_NordPsych]]"
+  - "[[sources/Nielsen_2021_NordPsych|Nielsen_2021_NordPsych]]"
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -138,4 +138,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Nielsen_2021_NordPsych]]
+- [[sources/Nielsen_2021_NordPsych|Nielsen_2021_NordPsych]]

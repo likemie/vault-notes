@@ -43,7 +43,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Qvortrup_2019_NordSTEP]]"
+  - "[[sources/Qvortrup_2019_NordSTEP|Qvortrup_2019_NordSTEP]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -115,4 +115,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Qvortrup_2019_NordSTEP]]
+- [[sources/Qvortrup_2019_NordSTEP|Qvortrup_2019_NordSTEP]]

@@ -47,7 +47,7 @@ related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Biesta_2010_SPE]]"
 sources:
-  - "[[Knudsen_2017_NordSTEP]]"
+  - "[[sources/Knudsen_2017_NordSTEP|Knudsen_2017_NordSTEP]]"
 part_of: ''
 status: draft
 created: '2026-05-07'
@@ -184,4 +184,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Knudsen_2017_NordSTEP]]
+- [[sources/Knudsen_2017_NordSTEP|Knudsen_2017_NordSTEP]]

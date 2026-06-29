@@ -1235,6 +1235,27 @@ def check_sources_section(path: Path, text: str, data: Optional[Dict[str, Any]],
     links = [target for target, _ in extract_wikilinks(source_sec)]
     if data is not None and data.get("status") != "draft" and not links:
         issues.append(Issue("WARN", rel(path), "non-draft Argument has empty 来源 section", code="ARGUMENT_SOURCE_SECTION_EMPTY"))
+    for target in links:
+        if "/" not in target:
+            issues.append(
+                Issue(
+                    "ERROR",
+                    rel(path),
+                    f"source wikilink must use a vault-root-relative path to avoid Quartz folder-note 404s: [[{target}]]",
+                    code="SOURCE_LINK_NOT_PATH_QUALIFIED",
+                )
+            )
+            continue
+        source_path = ROOT / (target if target.endswith(".md") else f"{target}.md")
+        if not source_path.exists():
+            issues.append(
+                Issue(
+                    "ERROR",
+                    rel(path),
+                    f"source wikilink target does not exist: [[{target}]]",
+                    code="SOURCE_LINK_TARGET_MISSING",
+                )
+            )
 
 
 def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> None:

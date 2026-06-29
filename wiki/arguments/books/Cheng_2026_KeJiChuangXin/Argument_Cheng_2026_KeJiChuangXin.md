@@ -67,7 +67,7 @@ related_facts:
   - "[[National Science Foundation]]"
 related_arguments: []
 sources:
-  - "[[Cheng_2026_KeJiChuangXin]]"
+  - "[[books/Cheng_2026_KeJiChuangXin/Cheng_2026_KeJiChuangXin|Cheng_2026_KeJiChuangXin]]"
 part_of:
 status: draft
 created: 2026-06-03
@@ -697,4 +697,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Cheng_2026_KeJiChuangXin]]
+- [[books/Cheng_2026_KeJiChuangXin/Cheng_2026_KeJiChuangXin|Cheng_2026_KeJiChuangXin]]

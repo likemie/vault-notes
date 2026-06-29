@@ -51,7 +51,7 @@ related_arguments:
   - "[[Argument_Hansen_2015_Paideia]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
 sources:
-  - "[[Nielsen_2021_IRTP]]"
+  - "[[sources/Nielsen_2021_IRTP|Nielsen_2021_IRTP]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -173,4 +173,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Nielsen_2021_IRTP]]
+- [[sources/Nielsen_2021_IRTP|Nielsen_2021_IRTP]]

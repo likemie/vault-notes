@@ -41,7 +41,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments: []
 sources:
-  - "[[Simpson_2019_ERE]]"
+  - "[[sources/Simpson_2019_ERE|Simpson_2019_ERE]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -158,4 +158,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Simpson_2019_ERE]]
+- [[sources/Simpson_2019_ERE|Simpson_2019_ERE]]

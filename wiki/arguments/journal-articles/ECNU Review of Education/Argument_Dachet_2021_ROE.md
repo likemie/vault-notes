@@ -53,7 +53,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
 sources:
-  - "[[Dachet_2021_ROE]]"
+  - "[[sources/Dachet_2021_ROE|Dachet_2021_ROE]]"
 part_of: ""
 status: draft
 created: 2026-05-23
@@ -169,4 +169,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Dachet_2021_ROE]]
+- [[sources/Dachet_2021_ROE|Dachet_2021_ROE]]

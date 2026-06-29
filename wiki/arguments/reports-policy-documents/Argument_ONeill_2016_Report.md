@@ -35,7 +35,7 @@ related_facts:
   - "[[Cognition Education]]"
 related_arguments: []
 sources:
-  - "[[ONeill_2016_Report]]"
+  - "[[sources/ONeill_2016_Report|ONeill_2016_Report]]"
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -107,4 +107,4 @@ citation_aliases:
 
 ## 来源
 
-- [[ONeill_2016_Report]]
+- [[sources/ONeill_2016_Report|ONeill_2016_Report]]

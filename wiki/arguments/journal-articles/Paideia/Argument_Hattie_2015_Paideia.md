@@ -44,7 +44,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Hattie_2015_Paideia]]"
+  - "[[sources/Hattie_2015_Paideia|Hattie_2015_Paideia]]"
 part_of: ""
 status: draft
 created: 2026-05-21
@@ -175,4 +175,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Hattie_2015_Paideia]]
+- [[sources/Hattie_2015_Paideia|Hattie_2015_Paideia]]

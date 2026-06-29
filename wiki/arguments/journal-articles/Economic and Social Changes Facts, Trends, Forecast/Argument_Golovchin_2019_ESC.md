@@ -50,7 +50,7 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Eacott_2017_SLM]]"
 sources:
-  - "[[Golovchin_2019_ESC]]"
+  - "[[sources/Golovchin_2019_ESC|Golovchin_2019_ESC]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -168,4 +168,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Golovchin_2019_ESC]]
+- [[sources/Golovchin_2019_ESC|Golovchin_2019_ESC]]

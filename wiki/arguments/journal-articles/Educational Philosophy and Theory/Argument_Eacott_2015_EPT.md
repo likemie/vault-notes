@@ -39,7 +39,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Eacott_2015_EPT]]"
+  - "[[sources/Eacott_2015_EPT|Eacott_2015_EPT]]"
 part_of: ""
 status: draft
 created: 2026-05-02
@@ -125,4 +125,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Eacott_2015_EPT]]
+- [[sources/Eacott_2015_EPT|Eacott_2015_EPT]]

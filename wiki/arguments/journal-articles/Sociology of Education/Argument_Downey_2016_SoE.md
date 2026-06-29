@@ -41,7 +41,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments: []
 sources:
-  - "[[Downey_2016_SoE]]"
+  - "[[sources/Downey_2016_SoE|Downey_2016_SoE]]"
 part_of: ""
 status: draft
 created: 2026-05-04
@@ -135,4 +135,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Downey_2016_SoE]]
+- [[sources/Downey_2016_SoE|Downey_2016_SoE]]

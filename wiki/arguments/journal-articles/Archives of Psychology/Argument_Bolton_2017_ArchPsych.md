@@ -54,7 +54,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Bolton_2017_ArchPsych]]"
+  - "[[sources/Bolton_2017_ArchPsych/Bolton_2017_ArchPsych|Bolton_2017_ArchPsych]]"
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -245,4 +245,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Bolton_2017_ArchPsych]]
+- [[sources/Bolton_2017_ArchPsych/Bolton_2017_ArchPsych|Bolton_2017_ArchPsych]]

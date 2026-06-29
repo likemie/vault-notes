@@ -44,7 +44,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments: []
 sources:
-  - "[[Larsen_2019_EducSci]]"
+  - "[[sources/Larsen_2019_EducSci|Larsen_2019_EducSci]]"
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -135,4 +135,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Larsen_2019_EducSci]]
+- [[sources/Larsen_2019_EducSci|Larsen_2019_EducSci]]

@@ -104,7 +104,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
@@ -853,4 +853,4 @@ Larsson（2009: 36）最终论证：**质性研究概括化的责任在于受众
 
 ## 来源
 
-- [[Cohen_Manion_Morrison_2011_Routledge]]
+- [[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]

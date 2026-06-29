@@ -58,7 +58,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
@@ -494,4 +494,4 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 
 ## 来源
 
-- [[Cohen_Manion_Morrison_2011_Routledge]]
+- [[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]

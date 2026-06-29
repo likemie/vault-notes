@@ -66,7 +66,7 @@ related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Parreira do Amaral_2022_Springer]]"
 sources:
-  - "[[Ch10_Rambla_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022|Ch10_Rambla_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-13'
@@ -273,4 +273,4 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 
 ## 来源
 
-- [[Ch10_Rambla_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch10_Rambla_2022|Ch10_Rambla_2022]]

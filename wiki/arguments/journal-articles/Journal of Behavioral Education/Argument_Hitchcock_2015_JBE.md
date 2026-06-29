@@ -48,7 +48,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments: []
 sources:
-  - "[[Hitchcock_2015_JBE]]"
+  - "[[sources/Hitchcock_2015_JBE|Hitchcock_2015_JBE]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -172,4 +172,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Hitchcock_2015_JBE]]
+- [[sources/Hitchcock_2015_JBE|Hitchcock_2015_JBE]]

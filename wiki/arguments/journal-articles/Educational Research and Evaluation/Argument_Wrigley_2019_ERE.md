@@ -53,7 +53,7 @@ related_facts:
   - "[[Playing for Success]]"
 related_arguments: []
 sources:
-  - "[[Wrigley_2019_ERE]]"
+  - "[[sources/Wrigley_2019_ERE|Wrigley_2019_ERE]]"
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -186,4 +186,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Wrigley_2019_ERE]]
+- [[sources/Wrigley_2019_ERE|Wrigley_2019_ERE]]

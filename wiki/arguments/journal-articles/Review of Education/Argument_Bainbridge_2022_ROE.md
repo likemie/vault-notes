@@ -46,7 +46,7 @@ related_facts:
   - "[[Ofsted]]"
 related_arguments: []
 sources:
-  - "[[Bainbridge_2022_ROE]]"
+  - "[[sources/Bainbridge_2022_ROE|Bainbridge_2022_ROE]]"
 part_of: ''
 status: draft
 created: '2026-05-07'
@@ -239,4 +239,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Bainbridge_2022_ROE]]
+- [[sources/Bainbridge_2022_ROE|Bainbridge_2022_ROE]]

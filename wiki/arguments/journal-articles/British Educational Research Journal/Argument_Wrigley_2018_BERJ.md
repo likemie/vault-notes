@@ -72,7 +72,7 @@ related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Biesta_2010_SPE]]"
 sources:
-  - "[[Wrigley_2018_BERJ]]"
+  - "[[sources/Wrigley_2018_BERJ|Wrigley_2018_BERJ]]"
 part_of: ""
 status: draft
 created: 2026-05-01
@@ -308,4 +308,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Wrigley_2018_BERJ]]
+- [[sources/Wrigley_2018_BERJ|Wrigley_2018_BERJ]]

@@ -38,7 +38,7 @@ related_facts:
   - "[[Manufacturing USA]]"
 related_arguments: []
 sources:
-  - "[[Ch6_Hoffman_Radasch_Thorsell_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025|Ch6_Hoffman_Radasch_Thorsell_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
@@ -312,4 +312,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch6_Hoffman_Radasch_Thorsell_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025|Ch6_Hoffman_Radasch_Thorsell_2025]]

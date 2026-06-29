@@ -32,7 +32,7 @@ related_facts:
   - "[[University Industry Innovation Network]]"
 related_arguments: []
 sources:
-  - "[[Ch4_Burrus_Patera_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch4_Burrus_Patera_2025|Ch4_Burrus_Patera_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
@@ -218,4 +218,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch4_Burrus_Patera_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch4_Burrus_Patera_2025|Ch4_Burrus_Patera_2025]]

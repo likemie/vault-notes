@@ -56,7 +56,7 @@ related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments: []
 sources:
-  - "[[Ross_Morrison_2021_ROE]]"
+  - "[[sources/Ross_Morrison_2021_ROE|Ross_Morrison_2021_ROE]]"
 part_of: ''
 status: draft
 created: 2026-05-23
@@ -205,4 +205,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ross_Morrison_2021_ROE]]
+- [[sources/Ross_Morrison_2021_ROE|Ross_Morrison_2021_ROE]]

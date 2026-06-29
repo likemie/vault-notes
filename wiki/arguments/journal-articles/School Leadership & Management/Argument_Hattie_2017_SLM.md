@@ -43,7 +43,7 @@ related_arguments:
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Rømer_2018_EPT]]"
 sources:
-  - "[[Hattie_2017_SLM]]"
+  - "[[sources/Hattie_2017_SLM|Hattie_2017_SLM]]"
 part_of: ''
 status: draft
 created: '2026-05-07'
@@ -110,4 +110,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Hattie_2017_SLM]]
+- [[sources/Hattie_2017_SLM|Hattie_2017_SLM]]

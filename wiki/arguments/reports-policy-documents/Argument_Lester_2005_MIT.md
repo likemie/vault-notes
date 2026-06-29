@@ -42,7 +42,7 @@ related_facts:
   - "[[Local Innovation Systems Project]]"
 related_arguments: []
 sources:
-  - "[[Lester_2005_MIT]]"
+  - "[[sources/Lester_2005_MIT/Lester_2005_MIT|Lester_2005_MIT]]"
 part_of:
 status: draft
 created: 2026-06-10
@@ -199,4 +199,4 @@ Lester 指出，这些间接贡献往往比直接的专利许可和创业孵化�
 ---
 ## 来源
 
-- [[Lester_2005_MIT]]
+- [[sources/Lester_2005_MIT/Lester_2005_MIT|Lester_2005_MIT]]

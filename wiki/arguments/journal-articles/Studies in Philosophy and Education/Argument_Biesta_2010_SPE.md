@@ -46,7 +46,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Biesta_2010_SPE]]"
+  - "[[sources/Biesta_2010_SPE|Biesta_2010_SPE]]"
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -206,4 +206,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Biesta_2010_SPE]]
+- [[sources/Biesta_2010_SPE|Biesta_2010_SPE]]

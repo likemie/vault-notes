@@ -37,7 +37,7 @@ related_facts:
   - "[[OECD]]"
 related_arguments: []
 sources:
-  - "[[Ch11_Hartmann_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022|Ch11_Hartmann_2022]]"
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-18
@@ -291,4 +291,4 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 
 ## 来源
 
-- [[Ch11_Hartmann_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch11_Hartmann_2022|Ch11_Hartmann_2022]]

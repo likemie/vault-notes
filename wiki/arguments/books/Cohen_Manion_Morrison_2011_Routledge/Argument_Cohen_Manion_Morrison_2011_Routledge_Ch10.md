@@ -140,7 +140,7 @@ related_methods:
 related_facts:
   - "[[ResearchED]]"
 sources:
-  - "[[Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
 updated: 2026-06-23
@@ -1535,4 +1535,4 @@ Plummer (1983) 提供了四种效度检查：
 
 ## 来源
 
-- [[Cohen_Manion_Morrison_2011_Routledge]]
+- [[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]

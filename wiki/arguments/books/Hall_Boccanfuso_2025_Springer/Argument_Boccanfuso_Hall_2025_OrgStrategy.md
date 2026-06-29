@@ -51,7 +51,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
 sources:
-  - "[[Ch3_Boccanfuso_Hall_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025|Ch3_Boccanfuso_Hall_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
@@ -363,4 +363,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch3_Boccanfuso_Hall_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025|Ch3_Boccanfuso_Hall_2025]]

@@ -40,7 +40,7 @@ related_facts:
   - "[[Education at a Glance]]"
 related_arguments: []
 sources:
-  - "[[Møller_2017_EERJ]]"
+  - "[[sources/Møller_2017_EERJ|Møller_2017_EERJ]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -147,4 +147,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Møller_2017_EERJ]]
+- [[sources/Møller_2017_EERJ|Møller_2017_EERJ]]

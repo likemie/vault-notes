@@ -67,7 +67,7 @@ related_facts:
   - "[[Graduate Outcomes Survey]]"
 related_arguments: []
 sources:
-  - "[[Skourdoumbis_2024_AER]]"
+  - "[[sources/Skourdoumbis_2024_AER|Skourdoumbis_2024_AER]]"
 part_of: ''
 status: draft
 created: 2026-06-06
@@ -333,4 +333,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Skourdoumbis_2024_AER]]
+- [[sources/Skourdoumbis_2024_AER|Skourdoumbis_2024_AER]]

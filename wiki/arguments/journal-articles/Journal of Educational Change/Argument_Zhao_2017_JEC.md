@@ -39,7 +39,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
 sources:
-  - "[[Zhao_2017_JEC]]"
+  - "[[sources/Zhao_2017_JEC|Zhao_2017_JEC]]"
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -106,4 +106,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Zhao_2017_JEC]]
+- [[sources/Zhao_2017_JEC|Zhao_2017_JEC]]

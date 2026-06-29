@@ -54,7 +54,7 @@ related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments: []
 sources:
-  - "[[OConnor_2020_AJLL]]"
+  - "[[sources/OConnor_2020_AJLL|OConnor_2020_AJLL]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -276,4 +276,4 @@ citation_aliases:
 
 ## 来源
 
-- [[OConnor_2020_AJLL]]
+- [[sources/OConnor_2020_AJLL|OConnor_2020_AJLL]]

@@ -72,7 +72,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments: []
 sources:
-  - "[[Higgins_2016_RE]]"
+  - "[[sources/Higgins_2016_RE/Higgins_2016_RE|Higgins_2016_RE]]"
 part_of: ''
 status: draft
 created: '2026-06-08'
@@ -469,4 +469,4 @@ Toolkit 和 Visible Learning 中跨所有领域的效果变异表明，元综合
 
 ## 来源
 
-- [[Higgins_2016_RE]]
+- [[sources/Higgins_2016_RE/Higgins_2016_RE|Higgins_2016_RE]]

@@ -57,7 +57,7 @@ related_facts:
   - "[[Education International]]"
 related_arguments: []
 sources:
-  - "[[Beech_2009_CE]]"
+  - "[[sources/Beech_2009_CE|Beech_2009_CE]]"
 part_of:
 status: draft
 created: 2026-06-08
@@ -479,4 +479,4 @@ Castells 据此区分了两种空间逻辑：
 
 ## 来源
 
-- [[Beech_2009_CE]]
+- [[sources/Beech_2009_CE|Beech_2009_CE]]

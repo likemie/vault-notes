@@ -43,7 +43,7 @@ related_facts:
   - "[[The New Zealand Curriculum]]"
 related_arguments: []
 sources:
-  - "[[Sarbiewska_2019_JSR]]"
+  - "[[sources/Sarbiewska_2019_JSR|Sarbiewska_2019_JSR]]"
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -121,4 +121,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Sarbiewska_2019_JSR]]
+- [[sources/Sarbiewska_2019_JSR|Sarbiewska_2019_JSR]]

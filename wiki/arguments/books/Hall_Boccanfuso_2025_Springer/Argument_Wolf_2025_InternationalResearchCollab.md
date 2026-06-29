@@ -43,7 +43,7 @@ related_facts:
   - "[[Nagoya Protocol]]"
 related_arguments: []
 sources:
-  - "[[Ch17_Wolf_Stevenson_Siegel_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch17_Wolf_Stevenson_Siegel_2025|Ch17_Wolf_Stevenson_Siegel_2025]]"
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-02
@@ -292,4 +292,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch17_Wolf_Stevenson_Siegel_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch17_Wolf_Stevenson_Siegel_2025|Ch17_Wolf_Stevenson_Siegel_2025]]

@@ -39,7 +39,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Eacott_2019_IJLE]]"
+  - "[[sources/Eacott_2019_IJLE|Eacott_2019_IJLE]]"
 part_of: ""
 status: draft
 created: 2026-05-03
@@ -112,4 +112,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Eacott_2019_IJLE]]
+- [[sources/Eacott_2019_IJLE|Eacott_2019_IJLE]]

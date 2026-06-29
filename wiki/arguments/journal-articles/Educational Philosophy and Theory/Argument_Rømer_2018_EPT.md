@@ -50,7 +50,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Romer_2018_EPT]]"
+  - "[[sources/Romer_2018_EPT|Romer_2018_EPT]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -150,4 +150,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Romer_2018_EPT]]
+- [[sources/Romer_2018_EPT|Romer_2018_EPT]]

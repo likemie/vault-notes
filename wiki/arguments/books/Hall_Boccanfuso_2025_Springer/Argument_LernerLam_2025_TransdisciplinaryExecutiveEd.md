@@ -32,7 +32,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
 related_arguments: []
 sources:
-  - "[[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch9_LernerLam_DeNoon_Holgate_Broyles_2025|Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-30
@@ -239,4 +239,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch9_LernerLam_DeNoon_Holgate_Broyles_2025|Ch9_LernerLam_DeNoon_Holgate_Broyles_2025]]

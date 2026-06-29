@@ -44,7 +44,7 @@ related_facts:
   - "[[American Society for Cultural Relations with Russia]]"
 related_arguments: []
 sources:
-  - "[[Ryabyy_2024_Maneto]]"
+  - "[[sources/Ryabyy_2024_Maneto|Ryabyy_2024_Maneto]]"
 part_of: ''
 status: draft
 created: 2026-05-26
@@ -322,4 +322,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ryabyy_2024_Maneto]]
+- [[sources/Ryabyy_2024_Maneto|Ryabyy_2024_Maneto]]

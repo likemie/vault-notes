@@ -35,7 +35,7 @@ related_facts:
   - "[[UAE Education Hub Projects]]"
 related_arguments: []
 sources:
-  - "[[Ch12_Erfurth_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch12_Erfurth_2022|Ch12_Erfurth_2022]]"
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
@@ -205,4 +205,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch12_Erfurth_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch12_Erfurth_2022|Ch12_Erfurth_2022]]

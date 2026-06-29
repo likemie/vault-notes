@@ -55,7 +55,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Ch3_Parreira do Amaral_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022|Ch3_Parreira do Amaral_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
@@ -160,4 +160,4 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 ## 来源
 
-- [[Ch3_Parreira do Amaral_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022|Ch3_Parreira do Amaral_2022]]

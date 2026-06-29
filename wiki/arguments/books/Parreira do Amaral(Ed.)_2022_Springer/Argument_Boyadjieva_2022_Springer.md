@@ -51,7 +51,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
 related_arguments: []
 sources:
-  - "[[Ch8_Boyadjieva_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022|Ch8_Boyadjieva_2022]]"
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-11
@@ -371,6 +371,6 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 
 ## 来源
 
-- [[Ch8_Boyadjieva_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch8_Boyadjieva_2022|Ch8_Boyadjieva_2022]]
 
 

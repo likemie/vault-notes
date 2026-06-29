@@ -47,7 +47,7 @@ related_facts:
   - "[[Synthesis and Solid State Pharmaceutical Centre]]"
 related_arguments: []
 sources:
-  - "[[ODwyer_Filieri_OMalley_2023_JTT]]"
+  - "[[sources/ODwyer_Filieri_OMalley_2023_JTT|ODwyer_Filieri_OMalley_2023_JTT]]"
 part_of:
 status: draft
 created: 2026-06-10
@@ -180,4 +180,4 @@ updated: 2026-06-10
 ---
 ## 来源
 
-- [[ODwyer_Filieri_OMalley_2023_JTT]]
+- [[sources/ODwyer_Filieri_OMalley_2023_JTT|ODwyer_Filieri_OMalley_2023_JTT]]

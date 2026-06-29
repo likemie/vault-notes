@@ -61,7 +61,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
 sources:
-  - "[[Ch2_Ulrichsen_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025|Ch2_Ulrichsen_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
@@ -339,4 +339,4 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 
 ## 来源
 
-- [[Ch2_Ulrichsen_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025|Ch2_Ulrichsen_2025]]

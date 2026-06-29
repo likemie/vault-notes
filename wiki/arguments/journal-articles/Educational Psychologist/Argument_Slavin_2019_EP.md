@@ -55,7 +55,7 @@ related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Cowen_2019_ERE]]"
 sources:
-  - "[[Slavin_2019_EP]]"
+  - "[[sources/Slavin_2019_EP|Slavin_2019_EP]]"
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -220,4 +220,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Slavin_2019_EP]]
+- [[sources/Slavin_2019_EP|Slavin_2019_EP]]

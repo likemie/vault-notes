@@ -46,7 +46,7 @@ related_facts:
   - "[[American Attraction to Japanese Education 1980s]]"
 related_arguments: []
 sources:
-  - "[[Rappleye_2006_RCIE]]"
+  - "[[sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE|Rappleye_2006_RCIE]]"
 part_of: ''
 status: draft
 created: '2026-05-06'
@@ -370,4 +370,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Rappleye_2006_RCIE]]
+- [[sources/Rappleye_2006_RCIE/Rappleye_2006_RCIE|Rappleye_2006_RCIE]]

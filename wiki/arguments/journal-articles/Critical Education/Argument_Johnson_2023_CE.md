@@ -46,7 +46,7 @@ related_facts:
   - "[[Cognition Education]]"
 related_arguments: []
 sources:
-  - "[[Johnson_2023_CE]]"
+  - "[[sources/Johnson_2023_CE|Johnson_2023_CE]]"
 part_of: ''
 status: draft
 created: '2026-05-04'
@@ -112,4 +112,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Johnson_2023_CE]]
+- [[sources/Johnson_2023_CE|Johnson_2023_CE]]

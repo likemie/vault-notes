@@ -46,7 +46,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments: []
 sources:
-  - "[[UIDP_2012_PartnershipContinuum]]"
+  - "[[sources/UIDP_2012_PartnershipContinuum/UIDP_2012_PartnershipContinuum|UIDP_2012_PartnershipContinuum]]"
 part_of:
 status: draft
 created: 2026-06-05
@@ -380,4 +380,4 @@ citation_aliases:
 
 ## 来源
 
-- [[UIDP_2012_PartnershipContinuum]]
+- [[sources/UIDP_2012_PartnershipContinuum/UIDP_2012_PartnershipContinuum|UIDP_2012_PartnershipContinuum]]

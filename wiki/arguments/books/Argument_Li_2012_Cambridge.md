@@ -146,7 +146,7 @@ related_persons:
   - "[[Zhuangzi]]"
 related_arguments: []
 sources:
-  - "[[Li_2012_Cambridge]]"
+  - "[[books/Li_2012_Cambridge/Li_2012_Cambridge|Li_2012_Cambridge]]"
 part_of: []
 status: draft
 created: 2026-05-21
@@ -3533,4 +3533,4 @@ Li 以全书的总结性声明收束(pp.347-348)：
 
 ## 来源
 
-- [[Li_2012_Cambridge]]
+- [[books/Li_2012_Cambridge/Li_2012_Cambridge|Li_2012_Cambridge]]

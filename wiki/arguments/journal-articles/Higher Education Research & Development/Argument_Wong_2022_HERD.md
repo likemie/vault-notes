@@ -37,7 +37,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Wong_2022_HERD]]"
+  - "[[sources/Wong_2022_HERD|Wong_2022_HERD]]"
 part_of: ''
 status: draft
 created: '2026-05-06'
@@ -109,4 +109,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Wong_2022_HERD]]
+- [[sources/Wong_2022_HERD|Wong_2022_HERD]]

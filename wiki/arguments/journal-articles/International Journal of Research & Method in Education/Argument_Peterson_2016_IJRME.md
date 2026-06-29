@@ -50,7 +50,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments: []
 sources:
-  - "[[Peterson_2016_IJRME]]"
+  - "[[sources/Peterson_2016_IJRME|Peterson_2016_IJRME]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -141,4 +141,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Peterson_2016_IJRME]]
+- [[sources/Peterson_2016_IJRME|Peterson_2016_IJRME]]

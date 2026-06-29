@@ -44,7 +44,7 @@ related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments: []
 sources:
-  - "[[Cai_Gao_Liu_2025_HE]]"
+  - "[[sources/Cai_Gao_Liu_2025_HE|Cai_Gao_Liu_2025_HE]]"
 part_of:
 status: draft
 created: 2026-06-11
@@ -166,4 +166,4 @@ Burt 的结构洞理论为理解关键节点教师的角色提供了社会网络
 ---
 ## 来源
 
-- [[Cai_Gao_Liu_2025_HE]]
+- [[sources/Cai_Gao_Liu_2025_HE|Cai_Gao_Liu_2025_HE]]

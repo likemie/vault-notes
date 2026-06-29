@@ -39,7 +39,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
 sources:
-  - "[[Slavin_2002_ER]]"
+  - "[[sources/Slavin_2002_ER|Slavin_2002_ER]]"
 part_of: ""
 status: draft
 created: 2026-05-01
@@ -152,4 +152,4 @@ issuing_organization: ""
 
 ## 来源
 
-- [[Slavin_2002_ER]]
+- [[sources/Slavin_2002_ER|Slavin_2002_ER]]

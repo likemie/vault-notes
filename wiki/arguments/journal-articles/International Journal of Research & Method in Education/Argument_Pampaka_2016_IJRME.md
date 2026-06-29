@@ -38,7 +38,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments: []
 sources:
-  - "[[Pampaka_2016_IJRME]]"
+  - "[[sources/Pampaka_2016_IJRME|Pampaka_2016_IJRME]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -104,4 +104,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Pampaka_2016_IJRME]]
+- [[sources/Pampaka_2016_IJRME|Pampaka_2016_IJRME]]

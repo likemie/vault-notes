@@ -52,7 +52,7 @@ related_methods:
   - "[[Archival Research]]"
   - "[[Archival Correspondence Analysis]]"
 sources:
-  - "[[Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
 updated: 2026-06-24
@@ -449,4 +449,4 @@ Jupp 和 Norris（1993）将文献分析的多元理论路径归纳为三种一�
 
 ## 来源
 
-- [[Cohen_Manion_Morrison_2011_Routledge]]
+- [[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]

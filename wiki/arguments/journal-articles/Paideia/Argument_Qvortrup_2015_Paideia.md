@@ -45,7 +45,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments: []
 sources:
-  - "[[Qvortrup_2015_Paideia]]"
+  - "[[sources/Qvortrup_2015_Paideia|Qvortrup_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -121,4 +121,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Qvortrup_2015_Paideia]]
+- [[sources/Qvortrup_2015_Paideia|Qvortrup_2015_Paideia]]

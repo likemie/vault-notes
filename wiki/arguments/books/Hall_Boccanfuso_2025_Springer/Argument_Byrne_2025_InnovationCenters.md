@@ -48,7 +48,7 @@ related_facts:
   - "[[National Science Foundation]]"
 related_arguments: []
 sources:
-  - "[[Ch7_Byrne_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch7_Byrne_2025|Ch7_Byrne_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
@@ -426,4 +426,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch7_Byrne_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch7_Byrne_2025|Ch7_Byrne_2025]]

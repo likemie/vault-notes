@@ -135,4 +135,4 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 只列论文集 overview source record wikilink。章节 source 写入对应章节 Argument。 %%
 
-- [[Source_Name]]
+- [[books/<book-folder>/Source_Name|Source_Name]]

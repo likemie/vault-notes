@@ -41,7 +41,7 @@ related_facts:
   - "[[Baby PISA]]"
 related_arguments: []
 sources:
-  - "[[Zhao_2020_JEC]]"
+  - "[[sources/Zhao_2020_JEC|Zhao_2020_JEC]]"
 part_of: ''
 status: draft
 created: 2026-06-06
@@ -249,4 +249,4 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 
 ## 来源
 
-- [[Zhao_2020_JEC]]
+- [[sources/Zhao_2020_JEC|Zhao_2020_JEC]]

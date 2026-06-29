@@ -50,7 +50,7 @@ related_facts:
   - "[[Research Excellence Framework]]"
 related_arguments: []
 sources:
-  - "[[Ch13_Thompson_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch13_Thompson_2022|Ch13_Thompson_2022]]"
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
@@ -180,4 +180,4 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 
 ## 来源
 
-- [[Ch13_Thompson_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch13_Thompson_2022|Ch13_Thompson_2022]]

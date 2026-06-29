@@ -41,7 +41,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Bergeron_2017_MJE]]"
+  - "[[sources/Bergeron_2017_MJE|Bergeron_2017_MJE]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -175,4 +175,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Bergeron_2017_MJE]]
+- [[sources/Bergeron_2017_MJE|Bergeron_2017_MJE]]

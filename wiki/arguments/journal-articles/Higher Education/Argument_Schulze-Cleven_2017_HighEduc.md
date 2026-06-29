@@ -69,7 +69,7 @@ related_facts:
   - "[[National Science Foundation]]"
 related_arguments: []
 sources:
-  - "[[Schulze-Cleven_2017_HighEduc]]"
+  - "[[sources/Schulze-Cleven_2017_HighEduc|Schulze-Cleven_2017_HighEduc]]"
 part_of: ""
 status: draft
 created: 2026-06-01
@@ -391,4 +391,4 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 
 ## 来源
 
-- [[Schulze-Cleven_2017_HighEduc]]
+- [[sources/Schulze-Cleven_2017_HighEduc|Schulze-Cleven_2017_HighEduc]]

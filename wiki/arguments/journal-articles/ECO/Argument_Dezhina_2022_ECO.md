@@ -33,7 +33,7 @@ related_facts:
   - "[[Consolidation of Russian State Science Funds]]"
 related_arguments: []
 sources:
-  - "[[Dezhina_2022_ECO]]"
+  - "[[sources/Dezhina_2022_ECO/Dezhina_2022_ECO|Dezhina_2022_ECO]]"
 part_of:
 status: draft
 created: '2026-06-26'
@@ -246,4 +246,4 @@ issuing_organization: ""
 
 ## 来源
 
-- [[Dezhina_2022_ECO]]
+- [[sources/Dezhina_2022_ECO/Dezhina_2022_ECO|Dezhina_2022_ECO]]

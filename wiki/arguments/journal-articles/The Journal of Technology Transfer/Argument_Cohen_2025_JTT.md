@@ -55,7 +55,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Cohen_2025_JTT]]"
+  - "[[sources/Cohen_2025_JTT/Cohen_2025_JTT|Cohen_2025_JTT]]"
 part_of:
 status: draft
 created: 2026-06-05
@@ -455,4 +455,4 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 
 ## 来源
 
-- [[Cohen_2025_JTT]]
+- [[sources/Cohen_2025_JTT/Cohen_2025_JTT|Cohen_2025_JTT]]

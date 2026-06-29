@@ -40,7 +40,7 @@ related_facts:
   - "[[OECD]]"
 related_arguments: []
 sources:
-  - "[[ONeill_2012_NZJES]]"
+  - "[[sources/ONeill_2012_NZJES|ONeill_2012_NZJES]]"
 part_of: ''
 status: published
 created: '2026-05-06'
@@ -117,4 +117,4 @@ citation_aliases:
 
 ## 来源
 
-- [[ONeill_2012_NZJES]]
+- [[sources/ONeill_2012_NZJES|ONeill_2012_NZJES]]

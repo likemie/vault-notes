@@ -247,6 +247,14 @@ def make_source_pattern(source_titles: set[str]) -> re.Pattern[str] | None:
     return re.compile(r"(?<![\w/])(" + "|".join(alternatives) + r")(?![\w/])")
 
 
+def make_source_links(source_entries: list[Entry]) -> dict[str, str]:
+    links: dict[str, str] = {}
+    for entry in source_entries:
+        target = entry.path[:-3] if entry.path.endswith(".md") else entry.path
+        links[entry.title] = f"[[{target}|{entry.title}]]"
+    return links
+
+
 def rel_to_root(path: Path) -> str:
     return path.resolve().relative_to(ROOT).as_posix()
 
@@ -1160,7 +1168,11 @@ def link_section(section: str, terms: list[Term], current_title: str, already_li
     return "".join(out), additions
 
 
-def link_source_section(section: str, source_pattern: re.Pattern[str] | None) -> tuple[str, int]:
+def link_source_section(
+    section: str,
+    source_pattern: re.Pattern[str] | None,
+    source_links: dict[str, str],
+) -> tuple[str, int]:
     # Source sections are bibliography-like lists: only canonical source IDs are linked here.
     if source_pattern is None:
         return section, 0
@@ -1172,7 +1184,7 @@ def link_source_section(section: str, source_pattern: re.Pattern[str] | None) ->
         nonlocal additions
         source_id = m.group(1)
         additions += 1
-        return f"[[{source_id}]]"
+        return source_links[source_id]
 
     for protected, chunk in chunks:
         if protected:
@@ -1183,14 +1195,20 @@ def link_source_section(section: str, source_pattern: re.Pattern[str] | None) ->
     return "".join(out), additions
 
 
-def link_body(body: str, terms: list[Term], source_pattern: re.Pattern[str] | None, current_title: str) -> tuple[str, int]:
+def link_body(
+    body: str,
+    terms: list[Term],
+    source_pattern: re.Pattern[str] | None,
+    source_links: dict[str, str],
+    current_title: str,
+) -> tuple[str, int]:
     sections = split_h2_sections(body)
     linked_sections: list[str] = []
     additions = 0
 
     for heading, section in sections:
         if is_source_section_heading(heading):
-            linked, added = link_source_section(section, source_pattern)
+            linked, added = link_source_section(section, source_pattern, source_links)
             linked_sections.append(linked)
             additions += added
             continue
@@ -1209,6 +1227,7 @@ def sync_file(
     path: Path,
     terms: list[Term],
     source_pattern: re.Pattern[str] | None,
+    source_links: dict[str, str],
     entries_by_title: dict[str, Entry],
     path_to_title: dict[str, str],
     author_map: dict[str, str],
@@ -1228,7 +1247,7 @@ def sync_file(
     else:
         linked_fm, yaml_added = link_yaml_author_fields(fm, author_map)
         cleaned_body, removed, cleaned_table_pipes = clean_invalid_links(body, entries_by_title)
-        linked_body, body_added = link_body(cleaned_body, terms, source_pattern, current_title)
+        linked_body, body_added = link_body(cleaned_body, terms, source_pattern, source_links, current_title)
         added = yaml_added + body_added
         # Final guard: regardless of which chunks were protected or linked,
         # never write table rows with raw wikilink alias pipes.
@@ -1262,6 +1281,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     for source in source_entries:
         entries_by_title.setdefault(source.title, source)
     source_pattern = make_source_pattern({source.title for source in source_entries})
+    source_links = make_source_links(source_entries)
     files = iter_git_target_files() if effective_git_only else iter_target_files(paths)
 
     stats = LinkStats()
@@ -1270,6 +1290,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
             path,
             terms,
             source_pattern,
+            source_links,
             entries_by_title,
             path_to_title,
             author_map,

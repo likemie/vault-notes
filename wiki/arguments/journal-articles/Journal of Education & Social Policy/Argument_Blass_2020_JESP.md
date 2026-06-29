@@ -41,7 +41,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
 sources:
-  - "[[Blass_2020_JESP]]"
+  - "[[sources/Blass_2020_JESP|Blass_2020_JESP]]"
 part_of: ''
 status: draft
 created: '2026-05-05'
@@ -139,4 +139,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Blass_2020_JESP]]
+- [[sources/Blass_2020_JESP|Blass_2020_JESP]]

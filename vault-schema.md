@@ -33,7 +33,7 @@
 8. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
 9. 新建条目：读取 `wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md` 和对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间；同时记录该条目应回链到当前 Argument 的哪个论证段落。
 10. 判断研究方法，除非是思辨类或评论文章，更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
-11. 创建或更新 Argument 页，frontmatter 按 `template-argument.md` 写入必要字段，正文 `## 来源` 列出 `[[<论文命名>]]`；若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink。
+11. 创建或更新 Argument 页，frontmatter 按 `template-argument.md` 写入必要字段，正文 `## 来源` 使用相对于 vault 根目录的完整路径列出 `[[sources/<论文命名>|<论文命名>]]`；书籍来源使用 `[[books/<书籍目录>/<来源记录>|<来源记录>]]`。若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink。
 12. 用最终 `<论文命名>` 创建 source record：期刊论文用 `source_record.py article --record-name <论文命名>`；政策、报告、白皮书用 `source_record.py report --record-name <论文命名>`。
 13. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation；若第 3 步判断有图片占位，则加 `--with-figures`，生成 `sources/<论文命名>/`、`sources/<论文命名>/<论文命名>.md`、`sources/<论文命名>/<论文命名>.pdf` 和 `sources/<论文命名>/figures/`。
 14. 自动运行基础索引：`.venv/bin/python3 scripts/vault_index.py`。
@@ -308,7 +308,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 - wikilink 由 `wiki_linker.py` 自动维护，依据是 `title` 和 `aliases`。
 - 页面中某个人名第一次出现时必须使用全名；中文正文优先采用中文全名（英文全名）格式，后续再出现可按语境使用中文名、姓氏或代称。
-- 只有 Argument 页使用 `## 来源` / `## Sources` 章节，且只放 source wikilink。
+- 只有 Argument 页使用 `## 来源` / `## Sources` 章节，且只放 source wikilink。来源链接必须包含相对于 vault 根目录的完整路径和简短显示名，不得只写文件名，以免 Quartz 将同名文件夹笔记解析到错误的根路径。
 - Argument 页的 YAML `sources` 由 `wiki_relations.py` 从 `## 来源` 章节同步。
 - source record 的 YAML `extracted_to` 由 `wiki_relations.py` 从 Argument 页的 `## 来源` 章节反向同步。
 - Concept / Theory / Method / Person / Fact 不写 YAML `sources` 和正文 `## 来源`；正文中的 Argument 链接同步到 `related_arguments`。

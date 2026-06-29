@@ -44,7 +44,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
 related_arguments: []
 sources:
-  - "[[Nordahl_2015_Paideia]]"
+  - "[[sources/Nordahl_2015_Paideia|Nordahl_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-21'
@@ -193,4 +193,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Nordahl_2015_Paideia]]
+- [[sources/Nordahl_2015_Paideia|Nordahl_2015_Paideia]]

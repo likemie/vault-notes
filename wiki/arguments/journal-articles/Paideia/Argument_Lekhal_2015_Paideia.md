@@ -50,7 +50,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Lekhal_2015_Paideia]]"
+  - "[[sources/Lekhal_2015_Paideia|Lekhal_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-06'
@@ -180,4 +180,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Lekhal_2015_Paideia]]
+- [[sources/Lekhal_2015_Paideia|Lekhal_2015_Paideia]]

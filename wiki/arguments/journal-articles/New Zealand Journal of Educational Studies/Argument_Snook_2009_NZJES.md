@@ -54,8 +54,8 @@ related_arguments:
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Snook_2010_NZJES]]"
 sources:
-  - "[[Snook_2009_NZJES]]"
-  - "[[Hattie_2010_NZJES]]"
+  - "[[sources/Snook_2009_NZJES|Snook_2009_NZJES]]"
+  - "[[sources/Hattie_2010_NZJES|Hattie_2010_NZJES]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -127,5 +127,5 @@ citation_aliases:
 
 ## 来源
 
-- [[Snook_2009_NZJES]]
-- [[Hattie_2010_NZJES]]
+- [[sources/Snook_2009_NZJES|Snook_2009_NZJES]]
+- [[sources/Hattie_2010_NZJES|Hattie_2010_NZJES]]

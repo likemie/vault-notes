@@ -195,7 +195,7 @@ related_facts:
   - "[[Mixed Methods International Research Association]]"
 related_arguments: []
 sources:
-  - "[[Creswell_2022_SAGE]]"
+  - "[[books/Creswell_2022_SAGE/Creswell_2022_SAGE|Creswell_2022_SAGE]]"
 part_of: ""
 status: draft
 created: 2026-05-30
@@ -1729,4 +1729,4 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 
 ## 来源
 
-- [[Creswell_2022_SAGE]]
+- [[books/Creswell_2022_SAGE/Creswell_2022_SAGE|Creswell_2022_SAGE]]

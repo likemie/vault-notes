@@ -41,7 +41,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Nelson_2017_ER]]"
+  - "[[sources/Nelson_2017_ER|Nelson_2017_ER]]"
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -146,4 +146,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Nelson_2017_ER]]
+- [[sources/Nelson_2017_ER|Nelson_2017_ER]]

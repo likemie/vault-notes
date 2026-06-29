@@ -48,7 +48,7 @@ related_facts:
   - "[[New Culture Movement]]"
 related_arguments: []
 sources:
-  - "[[Zhou_2024_CE]]"
+  - "[[sources/Zhou_2024_CE|Zhou_2024_CE]]"
 part_of: ""
 status: draft
 created: 2026-05-26
@@ -401,4 +401,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Zhou_2024_CE]]
+- [[sources/Zhou_2024_CE|Zhou_2024_CE]]

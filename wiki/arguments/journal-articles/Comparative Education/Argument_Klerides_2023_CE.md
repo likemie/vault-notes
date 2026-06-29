@@ -74,7 +74,7 @@ related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Beech_2009_CE]]"
 sources:
-  - "[[Klerides_2023_CE]]"
+  - "[[sources/Klerides_2023_CE|Klerides_2023_CE]]"
 part_of: ''
 status: draft
 created: 2026-06-08
@@ -461,4 +461,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Klerides_2023_CE]]
+- [[sources/Klerides_2023_CE|Klerides_2023_CE]]

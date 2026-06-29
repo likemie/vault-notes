@@ -47,7 +47,7 @@ related_facts:
   - "[[Kendall Square]]"
 related_arguments: []
 sources:
-  - "[[Ch8_Gilison_Wilson_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch8_Gilison_Wilson_2025|Ch8_Gilison_Wilson_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-29
@@ -435,4 +435,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch8_Gilison_Wilson_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch8_Gilison_Wilson_2025|Ch8_Gilison_Wilson_2025]]

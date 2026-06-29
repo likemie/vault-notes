@@ -35,7 +35,7 @@ related_facts:
   - "[[National Science Foundation]]"
 related_arguments: []
 sources:
-  - "[[Ch5_Narayan_Spohrer_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch5_Narayan_Spohrer_2025|Ch5_Narayan_Spohrer_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
@@ -291,4 +291,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch5_Narayan_Spohrer_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch5_Narayan_Spohrer_2025|Ch5_Narayan_Spohrer_2025]]

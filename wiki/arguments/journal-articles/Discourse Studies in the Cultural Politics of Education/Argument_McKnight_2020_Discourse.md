@@ -46,7 +46,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
 sources:
-  - "[[McKnight_2020_Discourse]]"
+  - "[[sources/McKnight_2020_Discourse|McKnight_2020_Discourse]]"
 part_of: ''
 status: draft
 created: '2026-05-02'
@@ -151,4 +151,4 @@ citation_aliases:
 
 ## 来源
 
-- [[McKnight_2020_Discourse]]
+- [[sources/McKnight_2020_Discourse|McKnight_2020_Discourse]]

@@ -40,7 +40,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Keddie_2020_JEAH]]"
 sources:
-  - "[[Keddie_2020_IJLE]]"
+  - "[[sources/Keddie_2020_IJLE|Keddie_2020_IJLE]]"
 part_of: ''
 status: draft
 created: '2026-05-03'
@@ -122,4 +122,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Keddie_2020_IJLE]]
+- [[sources/Keddie_2020_IJLE|Keddie_2020_IJLE]]

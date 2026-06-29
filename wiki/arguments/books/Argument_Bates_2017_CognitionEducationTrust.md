@@ -30,7 +30,7 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments: []
 sources:
-  - "[[Bates_2017_CognitionEducationTrust]]"
+  - "[[books/Bates_2017_CognitionEducationTrust/Bates_2017_CognitionEducationTrust|Bates_2017_CognitionEducationTrust]]"
 part_of: ""
 status: draft
 created: 2026-05-22
@@ -131,4 +131,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Bates_2017_CognitionEducationTrust]]
+- [[books/Bates_2017_CognitionEducationTrust/Bates_2017_CognitionEducationTrust|Bates_2017_CognitionEducationTrust]]

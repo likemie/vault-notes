@@ -44,7 +44,7 @@ related_facts:
   - "[[2019 Hong Kong Protests]]"
 related_arguments: []
 sources:
-  - "[[Xu_2024_CE]]"
+  - "[[sources/Xu_2024_CE|Xu_2024_CE]]"
 part_of: ''
 status: draft
 created: 2026-05-26
@@ -348,4 +348,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Xu_2024_CE]]
+- [[sources/Xu_2024_CE|Xu_2024_CE]]

@@ -48,7 +48,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Wiliam_2019_ERE]]"
+  - "[[sources/Wiliam_2019_ERE|Wiliam_2019_ERE]]"
 part_of: ''
 status: draft
 created: '2026-05-01'
@@ -128,4 +128,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Wiliam_2019_ERE]]
+- [[sources/Wiliam_2019_ERE|Wiliam_2019_ERE]]

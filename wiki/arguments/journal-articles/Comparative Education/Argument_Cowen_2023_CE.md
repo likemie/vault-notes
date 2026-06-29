@@ -56,7 +56,7 @@ related_facts:
   - "[[OECD]]"
 related_arguments: []
 sources:
-  - "[[Cowen_2023_CE]]"
+  - "[[sources/Cowen_2023_CE|Cowen_2023_CE]]"
 part_of: ''
 status: draft
 created: 2026-06-06
@@ -274,4 +274,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Cowen_2023_CE]]
+- [[sources/Cowen_2023_CE|Cowen_2023_CE]]

@@ -42,7 +42,7 @@ related_persons:
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Hansen_2015_Paideia]]"
+  - "[[sources/Hansen_2015_Paideia|Hansen_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-20'
@@ -109,4 +109,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Hansen_2015_Paideia]]
+- [[sources/Hansen_2015_Paideia|Hansen_2015_Paideia]]

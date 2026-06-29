@@ -41,7 +41,7 @@ related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[Glitz_2020_AER]]"
+  - "[[sources/Glitz_2020_AER|Glitz_2020_AER]]"
 part_of:
 status: draft
 created: 2026-06-26
@@ -316,4 +316,4 @@ issuing_organization: ""
 
 ## 来源
 
-- [[Glitz_2020_AER]]
+- [[sources/Glitz_2020_AER|Glitz_2020_AER]]

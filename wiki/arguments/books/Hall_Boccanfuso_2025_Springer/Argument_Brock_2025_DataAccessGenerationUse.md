@@ -29,7 +29,7 @@ related_facts:
   - "[[ICMJE Data Sharing Requirements 2018]]"
 related_arguments: []
 sources:
-  - "[[Ch16_Brock_2025]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Ch16_Brock_2025|Ch16_Brock_2025]]"
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-04
@@ -281,4 +281,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Ch16_Brock_2025]]
+- [[books/Hall_Boccanfuso_2025_Springer/Ch16_Brock_2025|Ch16_Brock_2025]]

@@ -86,4 +86,4 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 只列教材 source record wikilink。 %%
 
-- [[Source_Name]]
+- [[books/<book-folder>/Source_Name|Source_Name]]

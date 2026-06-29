@@ -41,7 +41,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
 sources:
-  - "[[Caraca_2009_TFSC]]"
+  - "[[sources/Caraca_2009_TFSC/Caraca_2009_TFSC|Caraca_2009_TFSC]]"
 part_of:
 status: draft
 created: 2026-06-09
@@ -330,4 +330,4 @@ Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 
 ## 来源
 
-- [[Caraca_2009_TFSC]]
+- [[sources/Caraca_2009_TFSC/Caraca_2009_TFSC|Caraca_2009_TFSC]]

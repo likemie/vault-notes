@@ -59,7 +59,7 @@ related_facts:
   - "[[Academic Ranking of World Universities]]"
 related_arguments: []
 sources:
-  - "[[Marginson_2025_ROE]]"
+  - "[[sources/Marginson_2025_ROE|Marginson_2025_ROE]]"
 part_of: ''
 status: draft
 created: '2026-05-12'
@@ -314,4 +314,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Marginson_2025_ROE]]
+- [[sources/Marginson_2025_ROE|Marginson_2025_ROE]]

@@ -27,7 +27,7 @@ related_facts:
   - "[[OECD]]"
 related_arguments: []
 sources:
-  - "[[Ch15_Zelinka_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch15_Zelinka_2022|Ch15_Zelinka_2022]]"
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 status: draft
 created: 2026-05-20
@@ -171,4 +171,4 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 ## 来源
 
-- [[Ch15_Zelinka_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch15_Zelinka_2022|Ch15_Zelinka_2022]]

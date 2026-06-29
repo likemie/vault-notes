@@ -63,7 +63,7 @@ related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Partaken_2022_Springer]]"
 sources:
-  - "[[Parreira do Amaral(Ed.)_2022_Springer]]"
+  - "[[sources/Parreira do Amaral(Ed.)_2022_Springer|Parreira do Amaral(Ed.)_2022_Springer]]"
 part_of: ''
 status: draft
 created: '2026-05-07'
@@ -124,4 +124,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Parreira do Amaral(Ed.)_2022_Springer]]
+- [[sources/Parreira do Amaral(Ed.)_2022_Springer|Parreira do Amaral(Ed.)_2022_Springer]]

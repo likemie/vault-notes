@@ -55,7 +55,7 @@ related_facts:
   - "[[OECD]]"
 related_arguments: []
 sources:
-  - "[[Ch2_Moisio_2022]]"
+  - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022|Ch2_Moisio_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
@@ -239,4 +239,4 @@ Moisio 从中推导出的地缘政治悖论：
 
 ## 来源
 
-- [[Ch2_Moisio_2022]]
+- [[books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022|Ch2_Moisio_2022]]

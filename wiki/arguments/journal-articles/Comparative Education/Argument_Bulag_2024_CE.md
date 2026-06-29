@@ -36,7 +36,7 @@ related_facts:
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
 related_arguments: []
 sources:
-  - "[[Bulag_2024_CE]]"
+  - "[[sources/Bulag_2024_CE|Bulag_2024_CE]]"
 part_of:
 status: draft
 created: 2026-05-25
@@ -296,4 +296,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Bulag_2024_CE]]
+- [[sources/Bulag_2024_CE|Bulag_2024_CE]]

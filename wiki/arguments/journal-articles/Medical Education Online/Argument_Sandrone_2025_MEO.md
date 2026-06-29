@@ -31,7 +31,7 @@ related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments: []
 sources:
-  - "[[Sandrone_2025_MEO]]"
+  - "[[sources/Sandrone_2025_MEO|Sandrone_2025_MEO]]"
 part_of: ''
 status: draft
 created: 2026-06-07
@@ -221,4 +221,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Sandrone_2025_MEO]]
+- [[sources/Sandrone_2025_MEO|Sandrone_2025_MEO]]

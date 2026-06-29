@@ -117,7 +117,7 @@ related_arguments:
   - "[[Argument_Brock_2025_DataAccessGenerationUse]]"
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
 sources:
-  - "[[Hall_Boccanfuso_2025_Springer_overview]]"
+  - "[[books/Hall_Boccanfuso_2025_Springer/Hall_Boccanfuso_2025_Springer_overview|Hall_Boccanfuso_2025_Springer_overview]]"
 part_of:
 status: draft
 created: 2026-05-26
@@ -275,4 +275,4 @@ citation_aliases:
 
 ## 来源
 
-- [[Hall_Boccanfuso_2025_Springer_overview]]
+- [[books/Hall_Boccanfuso_2025_Springer/Hall_Boccanfuso_2025_Springer_overview|Hall_Boccanfuso_2025_Springer_overview]]
