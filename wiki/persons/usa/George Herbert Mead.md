@@ -50,9 +50,9 @@ updated: '2026-06-22'
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置**：美国[[Pragmatic Paradigm|实用主义]]哲学家、社会心理学家、社会学家，芝加哥大学教授，实用主义与社会学芝加哥学派（Chicago School of Sociology）的核心人物。
-> - **核心角色**：[[Symbolic Interactionism|符号互动论]]（Symbolic Interactionism）的奠基者。他将古典实用主义哲学与社会行为主义（Social Behaviorism）融合，系统阐明了心灵、自我与社会在微观互动中的浮现机制，奠定了社会科学[[Interpretive Paradigm|诠释范式]]与[[Qualitative Research|质性研究]]传统的理论基石。
-> - **代表贡献**：符号互动论（Symbolic Interactionism）、[[Interpretive Paradigm|诠释范式]]、美国实用主义。
+> - **身份位置** 美国[[Pragmatic Paradigm|实用主义]]哲学家、社会心理学家、社会学家，芝加哥大学教授，实用主义与社会学芝加哥学派（Chicago School of Sociology）的核心人物。
+> - **核心角色**[[Symbolic Interactionism|符号互动论]]（Symbolic Interactionism）的奠基者。他将古典实用主义哲学与社会行为主义（Social Behaviorism）融合，系统阐明了心灵、自我与社会在微观互动中的浮现机制，奠定了社会科学[[Interpretive Paradigm|诠释范式]]与[[Qualitative Research|质性研究]]传统的理论基石。
+> - **代表贡献** 符号互动论（Symbolic Interactionism）、[[Interpretive Paradigm|诠释范式]]、美国实用主义。
 
 > [!citation-card]- 人物定位的关键来源
 > 乔治·赫伯特·米德是[[Symbolic Interactionism|符号互动论]]的理论奠基者，其思想后经布卢默、休斯、贝克尔和戈夫曼的发展，形成了[[Interpretive Paradigm|诠释范式]]中最具影响力的研究传统之一。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
@@ -77,12 +77,12 @@ updated: '2026-06-22'
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1863**：出生于美国马萨诸塞州。根据维基百科的生平记载，其父亲为神学教授，母亲曾任山霍利约克学院校长。
-> - **1879–1883**：就读于奥伯林学院（Oberlin College），毕业后曾担任学校教师与铁路测绘员。
-> - **1891**：在密歇根大学获得教职，并结识 Charles Horton Cooley 和 [[John Dewey]]。
-> - **1894–1931**：随 [[John Dewey]] 移居芝加哥大学并在此执教终身。在此期间担任赫尔之家（Hull House）财务主管，与 Jane Addams 紧密合作推动社会正义改革。
-> - **1931**：逝世于芝加哥。因 Mortimer J. Adler 的聘任争议递交辞呈，原计划转往哥伦比亚大学执教未成。
-> - **1934**：其弟子在其课后讲义与笔记的基础上，整理出版了其代表作《心灵、自我与社会》（*Mind, Self, and Society*）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
+> - **1863** 出生于美国马萨诸塞州。根据维基百科的生平记载，其父亲为神学教授，母亲曾任山霍利约克学院校长。
+> - **1879–1883** 就读于奥伯林学院（Oberlin College），毕业后曾担任学校教师与铁路测绘员。
+> - **1891** 在密歇根大学获得教职，并结识 Charles Horton Cooley 和 [[John Dewey]]。
+> - **1894–1931** 随 [[John Dewey]] 移居芝加哥大学并在此执教终身。在此期间担任赫尔之家（Hull House）财务主管，与 Jane Addams 紧密合作推动社会正义改革。
+> - **1931** 逝世于芝加哥。因 Mortimer J. Adler 的聘任争议递交辞呈，原计划转往哥伦比亚大学执教未成。
+> - **1934** 其弟子在其课后讲义与笔记的基础上，整理出版了其代表作《心灵、自我与社会》（*Mind, Self, and Society*）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
 
 ---
 
@@ -112,10 +112,10 @@ updated: '2026-06-22'
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径**：其思想经学生布鲁默提炼为“[[Symbolic Interactionism|符号互动论]]”，并深刻启发了芝加哥社会学派的微观互动理论（如 Goffman 的拟剧论、Becker 的标签理论），成为诠释主义社会学的主要流派。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
-> - **方法路径**：为学校[[Ethnography|民族志]]、师生日常互动研究等微观教育社会学研究奠定了微观分析基础，并为[[Grounded Theory|扎根理论]]、[[Phenomenology|现象学]]研究等[[Qualitative Research|质性研究]][[Paradigm|范式]]提供了方法论辩护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
-> - **政策路径**：并未直接进入联邦或国家层面的硬性政策文本，但其关于人与环境互动、主客体辩证建构的思想，为后期北欧等地的[[Progressive Education|进步主义教育]]与综合学校教育改革提供了民主和人本主义政策话语支持。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 7–8)]]
-> - **跨国／跨领域传播**：在 1990 年代被芬兰教育心理学家 Rauste-von Wright [[Transfer Translation Transformation|转译]]并与[[John Dewey|杜威]]思想融合，转化为“[[Pragmatic Constructivism|实用主义建构主义]]”，作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策的直接心理学与课程论基础。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 7–8)]]
+> - **理论路径** 其思想经学生布鲁默提炼为“[[Symbolic Interactionism|符号互动论]]”，并深刻启发了芝加哥社会学派的微观互动理论（如 Goffman 的拟剧论、Becker 的标签理论），成为诠释主义社会学的主要流派。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
+> - **方法路径** 为学校[[Ethnography|民族志]]、师生日常互动研究等微观教育社会学研究奠定了微观分析基础，并为[[Grounded Theory|扎根理论]]、[[Phenomenology|现象学]]研究等[[Qualitative Research|质性研究]][[Paradigm|范式]]提供了方法论辩护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
+> - **政策路径** 并未直接进入联邦或国家层面的硬性政策文本，但其关于人与环境互动、主客体辩证建构的思想，为后期北欧等地的[[Progressive Education|进步主义教育]]与综合学校教育改革提供了民主和人本主义政策话语支持。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 7–8)]]
+> - **跨国／跨领域传播** 在 1990 年代被芬兰教育心理学家 Rauste-von Wright [[Transfer Translation Transformation|转译]]并与[[John Dewey|杜威]]思想融合，转化为“[[Pragmatic Constructivism|实用主义建构主义]]”，作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策的直接心理学与课程论基础。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 7–8)]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 阐述了米德关于扮演他人角色以及符号沟通的思想如何奠定了质性研究中的[[Interpretive Paradigm|诠释范式]]。
@@ -126,12 +126,12 @@ updated: '2026-06-22'
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者**：[[John Dewey]] — 芝加哥大学时期的亲密同事与[[Pragmatic Paradigm|实用主义]]盟友，共同发展了实用主义哲学和[[Progressive Education|进步主义教育]]运动。根据维基百科的记载，他早期的心理学研究受教于密歇根大学的 Charles Horton Cooley，在波恩大学学习期间受教于黑格尔主义与实用主义学者。
-> - **学生／继承者**：
+> - **师承／合作者**[[John Dewey]] — 芝加哥大学时期的亲密同事与[[Pragmatic Paradigm|实用主义]]盟友，共同发展了实用主义哲学和[[Progressive Education|进步主义教育]]运动。根据维基百科的记载，他早期的心理学研究受教于密歇根大学的 Charles Horton Cooley，在波恩大学学习期间受教于黑格尔主义与实用主义学者。
+> - **学生／继承者**
 >   - Herbert Blumer — 芝加哥大学学生，在其死后系统提炼并命名了“[[Symbolic Interactionism|符号互动论]]”学术传统。
 >   - Maijaliisa Rauste-von Wright — 芬兰教育心理学家，在1990年代将米德的实用主义思想与[[Phenomenon-Based Learning|现象本位学习]]（PhBL）的课程模型相融合。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 7–8)]]
-> - **批评者／论敌**：John B. Watson — 行为主义心理学奠基者。米德反对华生排除意识的刺激-反应（S-R）物理行为主义公式，主张将主观意识与社会符号互动纳入研究，倡导“社会行为主义”。（根据维基百科的理论总结）
-> - **机构／运动／项目**：芝加哥赫尔之家（Hull House） — 社会改革阵地。米德担任财务主管并与 Jane Addams 紧密合作，共同推进芝加哥的社会正义与教育改革运动。（根据维基百科的生平记载）
+> - **批评者／论敌** John B. Watson — 行为主义心理学奠基者。米德反对华生排除意识的刺激-反应（S-R）物理行为主义公式，主张将主观意识与社会符号互动纳入研究，倡导“社会行为主义”。（根据维基百科的理论总结）
+> - **机构／运动／项目** 芝加哥赫尔之家（Hull House） — 社会改革阵地。米德担任财务主管并与 Jane Addams 紧密合作，共同推进芝加哥的社会正义与教育改革运动。（根据维基百科的生平记载）
 
 ---
 

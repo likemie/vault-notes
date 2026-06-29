@@ -57,7 +57,7 @@ updated: 2026-06-25
 ## 定义
 
 > [!def] 核心定义
-> 信度（Reliability）本质上是**可依赖性**（dependability）、**一致性**（consistency）和**可复制性**（replicability）——跨越时间、跨越工具和跨越受访者群体。它关乎**精确性**（precision）和**准确性**（accuracy）：有些特征（如身高）可以精确测量，而另一些（如音乐能力）则不能。对于研究来说，要被认为是可靠的，它必须证明：如果在一个相似群体中、在相似的情境中进行，那么**相似的结果**就会被发现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 199–200)]]
+> 信度（Reliability）本质上是**可依赖性（dependability）**、**一致性（consistency）**和**可复制性（replicability）**——跨越时间、跨越工具和跨越受访者群体。它关乎**精确性（precision）**和**准确性（accuracy）** 有些特征（如身高）可以精确测量，而另一些（如音乐能力）则不能。对于研究来说，要被认为是可靠的，它必须证明：如果在一个相似群体中、在相似的情境中进行，那么**相似的结果**就会被发现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 199–200)]]
 
 > [!claim] 信度是效度的必要非[[Necessary and Sufficient Conditions|充分条件]]
 > 信度是效度的必要前提（necessary precondition, sine qua non），而效度可能是信度的充分但非必要条件（Brock-Utne, 1996: 614）。这一逻辑关系意味着：一项研究可以可靠（稳定一致）但无效（测量了错误的东西），但一项有效的研究必须以可靠为前提。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 157)]]
@@ -98,11 +98,11 @@ updated: 2026-06-25
 >   > - Cooper & Schindler (2001: 216) 提醒：测试-重测间隔不应长到情境改变、不应短到参与者记住前次测试
 >   
 >   详见 [[Test-Retest Reliability|重测信度]]。
-> - **信度作为等值性**（Reliability as equivalence）
+> - **信度作为等值性（Reliability as equivalence）**
 >   如果多于一位研究者参与研究，人类判断易出错，必须确保所有研究者在数据录入上一致。
 >   
 >   > [!feature] 两种形式
->   > - **等价形式**（equivalent forms / alternate forms） 设计出工具的等价形式并产生相似结果。实验中的前测和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
+>   > - **等价形式（equivalent forms / alternate forms）** 设计出工具的等价形式并产生相似结果。实验中的前测和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
 >   > - **[[Inter-Rater Reliability|评分者间信度]]**（inter-rater reliability） 对于观察数据，通过培训课程使用视频材料确保录入数据的同等性。简单计算可用评分者间一致性百分比；Robson (2002: 341) 提出了更复杂的方法。
 > - **信度作为[[Internal Consistency|内部一致性]]**（Reliability as internal consistency）
 >   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过半分法和 Cronbach alpha 系数来衡量多项目量表中条目之间的一致性。详细公式、操作流程和解读标准见 [[Internal Consistency|内部一致性]] 条目。
@@ -134,7 +134,7 @@ updated: 2026-06-25
 
 ### 质性信度：可依赖性与可信赖性
 
-[[Qualitative Research|质性研究]]中"信度"一词的恰当性是**有争议的**（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）。Lincoln & Guba (1985) 偏好用**可信性、中立性、可确认性、可依赖性、一致性、适用性、[[Trustworthiness|可信赖性]]和可迁移性**来替代"信度"——尤其是**可依赖性**（dependability）概念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 204–207)]]
+[[Qualitative Research|质性研究]]中"信度"一词的恰当性是**有争议的**（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）。Lincoln & Guba (1985) 偏好用**可信性、中立性、可确认性、可依赖性、一致性、适用性、[[Trustworthiness|可信赖性]]和可迁移性**来替代"信度"——尤其是**可依赖性（dependability）**概念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 204–207)]]
 
 > [!tension] [[Qualitative Reliability|质性信度]]的两个立场
 > - **量化信度标准对质性研究不可行** LeCompte & Preissle (1993: 332) 认为量化研究的信度标准根本无法用于质性研究——量化[[Hypothesis|研究假设]]**可复制性**的可能，但这**扭曲了现象的自然发生**（[[Ecological Validity|生态效度]]）。自然主义研究的前提恰恰包括情境的**独特性和特殊性**——研究不能被复制，这正是其优势而非劣势。

@@ -54,15 +54,15 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1970s**：[[OECD]] 首次尝试开发[[Performance Indicators|教育指标]]，1973 年发布 *A System of Education Indicators to Guide Public Policy Decisions*，但因概念难题（内部因素与外部因素无法分解）而失败，专家工作组放弃了理论模型，转向以可用性为导向的经验方法，但指标从未被实际计算([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.10]])
-> - **1983**：*[[A Nation at Risk 1983|A Nation at Risk]]* 引发教育质量恐慌，重新点燃对国际指标的兴趣([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8, 10]])
-> - **1987**：华盛顿会议（22 成员国 + 专家），明确国际基准比较已成为"提升教育质量的组成部分"(Bottani & Walberg, 1992, p.7; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
-> - **1988**：INES 正式启动([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
-> - **1989**：第一届 INES 全体大会（奥地利 Semmering），列出约 160 项初始指标，未讨论即被认为不可管理([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
-> - **1991**：第二届全体大会（瑞士 Lugano），削减至约 50 项"理想"指标；激烈辩论后决定纳入学生成绩数据([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11–12]])
-> - **1992**：首版 [[Education at a Glance|EAG]] 出版([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
-> - **1995**：第三届全体大会（芬兰 Lahti），最后一次真正的全体大会([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
-> - **2000**：第四届全体大会（东京）"名存实亡"——每国代表团人数受限制，指标生产者不再参与，实为政府间会议(Bottani, 2008, p.17; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
+> - **1970s**[[OECD]] 首次尝试开发[[Performance Indicators|教育指标]]，1973 年发布 *A System of Education Indicators to Guide Public Policy Decisions*，但因概念难题（内部因素与外部因素无法分解）而失败，专家工作组放弃了理论模型，转向以可用性为导向的经验方法，但指标从未被实际计算([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.10]])
+> - **1983** *[[A Nation at Risk 1983|A Nation at Risk]]* 引发教育质量恐慌，重新点燃对国际指标的兴趣([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8, 10]])
+> - **1987** 华盛顿会议（22 成员国 + 专家），明确国际基准比较已成为"提升教育质量的组成部分"(Bottani & Walberg, 1992, p.7; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
+> - **1988** INES 正式启动([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
+> - **1989** 第一届 INES 全体大会（奥地利 Semmering），列出约 160 项初始指标，未讨论即被认为不可管理([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
+> - **1991** 第二届全体大会（瑞士 Lugano），削减至约 50 项"理想"指标；激烈辩论后决定纳入学生成绩数据([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11–12]])
+> - **1992** 首版 [[Education at a Glance|EAG]] 出版([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
+> - **1995** 第三届全体大会（芬兰 Lahti），最后一次真正的全体大会([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
+> - **2000** 第四届全体大会（东京）"名存实亡"——每国代表团人数受限制，指标生产者不再参与，实为政府间会议(Bottani, 2008, p.17; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
 
 ## 核心要素
 
@@ -73,8 +73,8 @@ updated: '2026-05-18'
 
 
 > [!abstract] 面临的挑战
-> - **技术层面**：缺乏优质统计数据，已有数据的可比性弱(Bottani, 1994, p.334; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
-> - **政治层面**：多方反对力量联合抵制：
+> - **技术层面** 缺乏优质统计数据，已有数据的可比性弱(Bottani, 1994, p.334; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
+> - **政治层面** 多方反对力量联合抵制：
 >   - 教育统计学家以科学理由谴责指标的"不精确性"和"对教育的偏见视角"
 >   - 教师协会以政治理由质疑"教育质量危机"的存在
 >   - [[Progressive Education|进步教育]]运动者以伦理理由反对政府引入基于[[New Public Management|新公共管理]]技术的教育标准(Bottani, 2008, p.16; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.9]])

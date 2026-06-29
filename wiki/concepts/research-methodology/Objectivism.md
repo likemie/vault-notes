@@ -44,20 +44,20 @@ updated: 2026-06-14
 > [!assumptions] 客观主义的四组假设
 > - **[[Ontology|本体论]]：实在论**（realism）社会实在是外在于个体的客观存在，强加于意识之上（imposing itself on their consciousness from without）。组织是真实的实体，有自身的生命（Organizations are real entities with a life of their own）
 > - **[[Epistemology|认识论]]：[[Positivism|实证主义]]**（positivist）知识是硬性的、客观的、可触知的（hard, objective and tangible）。要求研究者扮演观察者角色（an observer role），效忠自然[[Scientific Method|科学方法]]
-> - **人性：决定论**（determinism）人机械地、决定性地对环境做出反应（responding mechanically and deterministically to their environment），像提线木偶一样被环境控制（controlled like puppets）
+> - **人性：决定论（determinism）**人机械地、决定性地对环境做出反应（responding mechanically and deterministically to their environment），像提线木偶一样被环境控制（controlled like puppets）
 > - **方法论：[[Nomothetic and Idiographic|通则式]]**（nomothetic）以发现普遍法则为目标。通过数学建模和量化分析来抽象现实（Abstraction of reality, especially through mathematical models and quantitative analysis）
 
 ## Table 1.1 十维度特征
 
 基于 Barr Greenfield（1975），客观主义在社会和组织层面呈现以下立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
-- **哲学基础**：实在论——世界如其本身存在并可被认识。组织是真实的实体，有自身的生命
-- **社会科学的角色**：发现社会及其中人类行为的普遍法则
-- **社会实在的基本单位**：集体（the collectivity）——社会或组织
-- **理解的方法**：识别使集体得以存在的条件或关系，构想这些条件和关系是什么
-- **理论**：由科学家建造的解释人类行为的理性大厦（a rational edifice built by scientists）
-- **研究**：通过实验或准实验验证理论
-- **社会**：有序的，受一套统一价值观支配，且仅由这些价值观使之成为可能
-- **组织**：目标导向，独立于人，服务于社会和个人的秩序工具
-- **组织病理学**：组织与社会价值观和个人需求失调
-- **变革处方**：改变组织结构以满足社会价值观和个人需求
+- **哲学基础** 实在论——世界如其本身存在并可被认识。组织是真实的实体，有自身的生命
+- **社会科学的角色** 发现社会及其中人类行为的普遍法则
+- **社会实在的基本单位** 集体（the collectivity）——社会或组织
+- **理解的方法** 识别使集体得以存在的条件或关系，构想这些条件和关系是什么
+- **理论** 由科学家建造的解释人类行为的理性大厦（a rational edifice built by scientists）
+- **研究** 通过实验或准实验验证理论
+- **社会** 有序的，受一套统一价值观支配，且仅由这些价值观使之成为可能
+- **组织** 目标导向，独立于人，服务于社会和个人的秩序工具
+- **组织病理学** 组织与社会价值观和个人需求失调
+- **变革处方** 改变组织结构以满足社会价值观和个人需求

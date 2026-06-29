@@ -47,7 +47,7 @@ updated: '2026-05-18'
 > [!note]-
 > - 肯塔基州立法机构指令大学达到 Top-20 排名目标
 > - 大学制定了战略计划并修订了使命和价值声明（DeYoung & Baas, 2012, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.125]]）
-> - **2010 年**：USNWR"最佳国家大学"排名揭晓——肯塔基大学排名第 **129** 名，远未达到目标
+> - **2010 年** USNWR"最佳国家大学"排名揭晓——肯塔基大学排名第 **129** 名，远未达到目标
 > - 失败的核心原因：USNWR 评分系统"惩罚收招大量毕业概率较低的学生的院校——即低收入、非传统或少数族裔学生"（DeYoung & Baas, 2012, p.103, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.126]]）
 
 ---

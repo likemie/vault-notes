@@ -65,20 +65,20 @@ updated: 2026-06-20
 ## 背景
 
 > [!event-context] 机构背景
-> - **时间 / 地点**：2011年成立于英国伦敦。
-> - **关键主体**：萨顿信托（Sutton Trust，牵头机构）、帝国教育信托（Impactus Education Trust，联合机构）、英国教育部（提供首期 1.25 亿英镑种子基金）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
-> - **制度背景**：作为全球“[[What Works Movement|什么有效运动]]”（What Works Movement）在教育政策与实践领域的旗舰中介组织（Evidence Broker），致力于建立以定量实验证据为基础的教学实践规范。
-> - **触发条件**：通过系统化收集和提供高概率有效的教学干预证据，帮助学校合理分配学生津贴（Pupil Premium）资金，以减少弱势学生的[[Learning Gap|学习差距]]并促进教育公平([[Argument_Higgins_2016_RE|Higgins, 2016, p. 46]])。
+> - **时间 / 地点** 2011年成立于英国伦敦。
+> - **关键主体** 萨顿信托（Sutton Trust，牵头机构）、帝国教育信托（Impactus Education Trust，联合机构）、英国教育部（提供首期 1.25 亿英镑种子基金）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
+> - **制度背景** 作为全球“[[What Works Movement|什么有效运动]]”（What Works Movement）在教育政策与实践领域的旗舰中介组织（Evidence Broker），致力于建立以定量实验证据为基础的教学实践规范。
+> - **触发条件** 通过系统化收集和提供高概率有效的教学干预证据，帮助学校合理分配学生津贴（Pupil Premium）资金，以减少弱势学生的[[Learning Gap|学习差距]]并促进教育公平([[Argument_Higgins_2016_RE|Higgins, 2016, p. 46]])。
 
 ---
 
 ## 经过
 
 > [!dev-timeline]- 机构发展与全球扩张
-> - **2011 — 创立与工具包开发**：萨顿信托联合慈善信托在英国政府资助下创立教育捐赠基金会（EEF），着手开发《教学与学习工具包》（Teaching and Learning Toolkit），以比较性量表的形式为学校决策提供循证支持。
-> - **2016 — 模式国际辐射**：澳大利亚政府生产力委员会建议应当以英国的 EEF 为直接蓝本，建立本土的证据中介机构，直接催生了后来的 [[Australian Education Research Organisation|AERO]] 组织([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
-> - **2018 — 私人资本注资与全球网络构建**：EEF 启动“全球证据生态系统”扩张计划，获得跨国矿业巨头旗下**[[BHP Foundation|必和必拓基金会]]**的大额资金支持，通过资助澳大利亚社会风险投资公司旗下的“学习证据”（E4L），在全球复制“EEF式”的本地证据治理组织([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
-> - **2020–2023 — 跨国治理与认知心理学推广**：EEF 创始人柯林斯爵士（Sir Kevan Collins）直接担任澳大利亚 AERO 专家委员会成员。2023年，EEF 发布证据综述报告《课堂中的认知[[Scientific Method|科学方法]]》，积极推广以[[Cognitive Load Theory|认知负荷理论]]为核心的认知心理学教学实践([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 8, 11]])。
+> - **2011 — 创立与工具包开发** 萨顿信托联合慈善信托在英国政府资助下创立教育捐赠基金会（EEF），着手开发《教学与学习工具包》（Teaching and Learning Toolkit），以比较性量表的形式为学校决策提供循证支持。
+> - **2016 — 模式国际辐射** 澳大利亚政府生产力委员会建议应当以英国的 EEF 为直接蓝本，建立本土的证据中介机构，直接催生了后来的 [[Australian Education Research Organisation|AERO]] 组织([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
+> - **2018 — 私人资本注资与全球网络构建** EEF 启动“全球证据生态系统”扩张计划，获得跨国矿业巨头旗下**[[BHP Foundation|必和必拓基金会]]**的大额资金支持，通过资助澳大利亚社会风险投资公司旗下的“学习证据”（E4L），在全球复制“EEF式”的本地证据治理组织([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
+> - **2020–2023 — 跨国治理与认知心理学推广** EEF 创始人柯林斯爵士（Sir Kevan Collins）直接担任澳大利亚 AERO 专家委员会成员。2023年，EEF 发布证据综述报告《课堂中的认知[[Scientific Method|科学方法]]》，积极推广以[[Cognitive Load Theory|认知负荷理论]]为核心的认知心理学教学实践([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 8, 11]])。
 
 ---
 
@@ -101,14 +101,14 @@ updated: 2026-06-20
 ## 争议与评论
 
 > [!actor-grid] 评论视角
-> - **官方与当事方视角**：认为 EEF 提供了高概率成功的证据资源，帮助学校（特别是弱势生源学校）更科学地分配 Pupil Premium 资金，通过实验评价提升了学校资源的利用效率。
-> - **学术 / 方法视角**：[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 等[[Critical Realism|批判实在论]]学者指出，EEF 推广的“去情境化”证据观将复杂的教育退化为“投入-产出”的机械[[Causality|因果]]链，抹杀了因果机制与能动性。
-> - **政策 / 制度视角**：[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 认为，EEF 与[[BHP Foundation|必和必拓基金会]]等跨国巨头私人资本的绑定，凸显了新自由主义管理逻辑对主权国家公共教育[[Knowledge Production|知识生产]]的隐性操纵与合法化危机([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
+> - **官方与当事方视角** 认为 EEF 提供了高概率成功的证据资源，帮助学校（特别是弱势生源学校）更科学地分配 Pupil Premium 资金，通过实验评价提升了学校资源的利用效率。
+> - **学术 / 方法视角**[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 等[[Critical Realism|批判实在论]]学者指出，EEF 推广的“去情境化”证据观将复杂的教育退化为“投入-产出”的机械[[Causality|因果]]链，抹杀了因果机制与能动性。
+> - **政策 / 制度视角**[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 认为，EEF 与[[BHP Foundation|必和必拓基金会]]等跨国巨头私人资本的绑定，凸显了新自由主义管理逻辑对主权国家公共教育[[Knowledge Production|知识生产]]的隐性操纵与合法化危机([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
 
 > [!critique-data]- 命题/案例一：“新起点”[[Randomised Controlled Trials|RCT]] 评估的数据包装与[[Random Assignment|随机分配]]失败
 > EEF 行政摘要宣称，针对初中一年级阅读困难学生的“新起点”（Fresh Start）合成拼读干预带来了 $+0.24$ 标准差（SD）的[[Effect Size|效应量]]（等同于 3 个月额外进步）。
 > 
-> 然而，深度技术拆解表明，由于随机分配严重失衡，干预组前测成绩远低于对照组。当研究者筛选出前测成绩完全相同的低分学生匹配子集时，干预组和对照组的进步幅度和后测成绩**几乎完全相同**（效应量为 $+0.00$ SD）([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])。所谓的额外进步纯粹是糟糕的随机分配带来的数据偏误幻象。
+> 然而，深度技术拆解表明，由于随机分配严重失衡，干预组前测成绩远低于对照组。当研究者筛选出前测成绩完全相同的低分学生匹配子集时，干预组和对照组的进步幅度和后测成绩**几乎完全相同（效应量为 $+0.00$ SD）**([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])。所谓的额外进步纯粹是糟糕的随机分配带来的数据偏误幻象。
 
 > [!critique-method]- 命题/案例二：教学助理（TA）类目的去情境化排名与政策风险
 > Toolkit 将 TA 归入“低影响、高成本”（效应量仅 $+0.08$）排行榜底部。

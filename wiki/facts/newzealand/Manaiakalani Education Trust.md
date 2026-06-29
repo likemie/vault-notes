@@ -41,11 +41,11 @@ updated: '2026-05-18'
 ## 发展历程
 
 > [!note]- 发展历程
-> - **2008 年**：教育部资助的 EHSAS（Extending High Standards Across Schools）技术增强型扫盲计划在奥克兰低 decile 学校集群中建立
-> - **2010 年**：转为教育部资助的 ICT 专业发展集群
-> - **2011 年**：Manaiakalani Education Trust 正式成立，主席 Pat Snedden（奥克兰港口总监）
-> - **2012 年**：获 ASB Community Trust（后 Foundation North）和 Spark Foundation 创始赞助
-> - **2015 年**：获 NEXT Foundation 资助，通过 Manaiakalani Outreach 项目将技术增强学习与专业发展模式在全国范围推广；另获 Samsung Electronics 资助([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.9]])
+> - **2008 年** 教育部资助的 EHSAS（Extending High Standards Across Schools）技术增强型扫盲计划在奥克兰低 decile 学校集群中建立
+> - **2010 年** 转为教育部资助的 ICT 专业发展集群
+> - **2011 年** Manaiakalani Education Trust 正式成立，主席 Pat Snedden（奥克兰港口总监）
+> - **2012 年** 获 ASB Community Trust（后 Foundation North）和 Spark Foundation 创始赞助
+> - **2015 年** 获 NEXT Foundation 资助，通过 Manaiakalani Outreach 项目将技术增强学习与专业发展模式在全国范围推广；另获 Samsung Electronics 资助([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.9]])
 
 ## 运作模式
 

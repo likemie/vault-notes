@@ -26,6 +26,7 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Military-Industrial Black Hole]]"
   - "[[Ideological Capture of Science]]"
+  - "[[Scientific Autarky]]"
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Technology Transfer]]"

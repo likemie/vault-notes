@@ -13,6 +13,7 @@ tags:
   - theme/history-of-science
   - paradigm/statism
 related_concepts:
+  - "[[Scientific Autarky]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Soviet Statism]]"

@@ -49,13 +49,13 @@ updated: 2026-06-20
 ## 核心要素
 
 > [!dimension] 研究贡献的四个维度
-> - **概念层面**（conceptually）
+> - **概念层面（conceptually）**
 >   是否澄清、修正或提供了新概念？
-> - **理论层面**（theoretically）
+> - **理论层面（theoretically）**
 >   是否检验、修正或提出了新理论？
-> - **实质层面**（substantively）
+> - **实质层面（substantively）**
 >   是否提供了关于教育现象的新实质知识？
-> - **方法论层面**（methodologically）
+> - **方法论层面（methodologically）**
 >   是否开发、检验或改进了研究方法？
 
 四个维度并非互斥——一项研究可以同时在多个维度上做出贡献。但高质[[Quantitative Research|量的研究]]至少应在**一个维度**上有明确推进（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
@@ -65,10 +65,10 @@ updated: 2026-06-20
 ## 围绕概念形成的命题
 
 > [!proposition-chain] 原创性不等于贡献
-> **前提**：研究必须是原创的、重要的、非琐碎的、相关的、适时的、对更广泛受众有趣且能推进领域前进（advance the [[Champ|field]]）。
-> **机制**：但仅凭原创数据和原创课题是不够的——研究需要超越原创数据，选择一个重要的课题，真正为理解和实践做出重要贡献。
-> **条件**：研究应该能够推动领域前进，也许只是小规模、零散、渐进（small-scale, piecemeal, incremental）的方式。
-> **结果**：没有这项研究，该领域将更加贫乏。
+> **前提** 研究必须是原创的、重要的、非琐碎的、相关的、适时的、对更广泛受众有趣且能推进领域前进（advance the [[Champ|field]]）。
+> **机制** 但仅凭原创数据和原创课题是不够的——研究需要超越原创数据，选择一个重要的课题，真正为理解和实践做出重要贡献。
+> **条件** 研究应该能够推动领域前进，也许只是小规模、零散、渐进（small-scale, piecemeal, incremental）的方式。
+> **结果** 没有这项研究，该领域将更加贫乏。
 
 （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）
 

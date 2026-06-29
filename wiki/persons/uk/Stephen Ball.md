@@ -60,9 +60,9 @@ updated: '2026-06-19'
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置**：英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）政策社会学教授。
-> - **核心角色**：批判性教育政策社会学的开拓者，在全球教育 marketization、私有化以及新自由主义审计治理研究中承担核心话语构建者的节点角色。
-> - **代表贡献**：提出教育政策制定的五重语境、区分教育的 [[Endogenous and Exogenous Privatisation\|内生与外生私有化]]、发展[[Network Governance|网络治理]]与政策创业的社会学批判。
+> - **身份位置** 英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）政策社会学教授。
+> - **核心角色** 批判性教育政策社会学的开拓者，在全球教育 marketization、私有化以及新自由主义审计治理研究中承担核心话语构建者的节点角色。
+> - **代表贡献** 提出教育政策制定的五重语境、区分教育的 [[Endogenous and Exogenous Privatisation\|内生与外生私有化]]、发展[[Network Governance|网络治理]]与政策创业的社会学批判。
 
 ---
 
@@ -82,10 +82,10 @@ updated: '2026-06-19'
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1994 年**：出版著作 *Education Reform: A Critical and Post-structural Approach*，提出著名的五重政策语境[[Analytic Framework|分析框架]]。
-> - **2008 年**：发表 *Some sociologies of education*，以福柯的 “目光” 概念重写英国教育社会学史，批判[[School Effectiveness|学校效能]]研究沦为可审计的权力技术。
-> - **2008 年**：与 Deborah Youdell 合作发布关于[[Endogenous and Exogenous Privatisation|教育私有化]]的重要报告，识别出公立学校系统的内生与外生私有化趋势。
-> - **2012 年**：出版 *Global Education Inc.*，分析全球教育私有化进程中跨国政策创业者的网络网络与流动。
+> - **1994 年** 出版著作 *Education Reform: A Critical and Post-structural Approach*，提出著名的五重政策语境[[Analytic Framework|分析框架]]。
+> - **2008 年** 发表 *Some sociologies of education*，以福柯的 “目光” 概念重写英国教育社会学史，批判[[School Effectiveness|学校效能]]研究沦为可审计的权力技术。
+> - **2008 年** 与 Deborah Youdell 合作发布关于[[Endogenous and Exogenous Privatisation|教育私有化]]的重要报告，识别出公立学校系统的内生与外生私有化趋势。
+> - **2012 年** 出版 *Global Education Inc.*，分析全球教育私有化进程中跨国政策创业者的网络网络与流动。
 
 ---
 
@@ -107,8 +107,8 @@ updated: '2026-06-19'
 
 > [!taxonomy] [[Endogenous and Exogenous Privatisation|内生与外生私有化]]（Privatisation in Education）
 > 私有化并不等于简单的倒闭或售卖，而是分为：
-> - **内生私有化**：公立学校在内部运作中模仿企业（引入内部竞争、绩效评估和指标考核）。
-> - **外生私有化**：引入外部私营资本和公司直接介入学校建设与教学服务的交付。这构成了公立教育公共性流失的合力。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 4]])
+> - **内生私有化** 公立学校在内部运作中模仿企业（引入内部竞争、绩效评估和指标考核）。
+> - **外生私有化** 引入外部私营资本和公司直接介入学校建设与教学服务的交付。这构成了公立教育公共性流失的合力。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 4]])
 
 > [!phase] 教育社会学史中的治理目光（Gazes and [[Governmentality]]）
 > 教育社会学史的研究目光经历了[[Political Arithmetic|政治算术]]（关注分配不平等）到[[New Sociology of Education|新教育社会学]]（关注课堂知识），再到[[School Effectiveness|学校效能]]（School Effectiveness）的转向。学校效能把复杂的学校重构为一种可测量、可比较和可审计的技术化存在，从而与国家的绩效化管理主义相契合。 ([[Argument_Ball_2008_SR|Ball, 2008, pp. 650-665]])
@@ -121,9 +121,9 @@ updated: '2026-06-19'
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径**：将福柯（Foucault）的政府[[Governmentality|治理术]]（Governmentality）和[[Basil Bernstein|伯恩斯坦]]（Bernstein）的社会学语用学引入教育研究，创立了 “批判性政策社会学” 传统。
-> - **方法路径**：[[Network Governance|网络治理]]与社会网络地图绘制方法在后来的私有化研究中得到推广，影响了 O'Neill 等人对跨国[[Policy Network|政策网络]]和商业化轨迹的实证解构。
-> - **政策路径**：为全球教师工会（如教育国际）抵制新自由主义市场化改革和反思以数据为主导的教育质量监测提供了理论弹药。
+> - **理论路径** 将福柯（Foucault）的政府[[Governmentality|治理术]]（Governmentality）和[[Basil Bernstein|伯恩斯坦]]（Bernstein）的社会学语用学引入教育研究，创立了 “批判性政策社会学” 传统。
+> - **方法路径**[[Network Governance|网络治理]]与社会网络地图绘制方法在后来的私有化研究中得到推广，影响了 O'Neill 等人对跨国[[Policy Network|政策网络]]和商业化轨迹的实证解构。
+> - **政策路径** 为全球教师工会（如教育国际）抵制新自由主义市场化改革和反思以数据为主导的教育质量监测提供了理论弹药。
 
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 运用鲍尔关于内生/外生私有化以及跨国政策创业理论，勾勒新西兰公立学校政策网络的商业化和治理重塑。
@@ -135,13 +135,13 @@ updated: '2026-06-19'
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者**：Youdell — 合作研究教育的隐性私有化趋势；批评对象/论敌：[[John Hattie]] — 视其为典型的 “政策创业者”，利用[[Meta-meta-analysis|元-元分析]]数字排行推动教育的商业化和绩效化治理。
+> - **师承／合作者** Youdell — 合作研究教育的隐性私有化趋势；批评对象/论敌：[[John Hattie]] — 视其为典型的 “政策创业者”，利用[[Meta-meta-analysis|元-元分析]]数字排行推动教育的商业化和绩效化治理。
 
 ---
 
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **争议对象**：鲍尔政策分析中的[[Post-structuralism|后结构主义]]倾向。
-> - **批评立场**：部分传统的马克思主义社会学家的批评。
-> - **证据依据**：批评者认为，鲍尔对政策的分析过度聚焦于 “话语”、“权力微观技术” 以及后结构主义的弥散权力，这在一定程度上稀释了对资本主义国家机器、宏观阶级结构和资本积累硬性事实的剖析。
+> - **争议对象** 鲍尔政策分析中的[[Post-structuralism|后结构主义]]倾向。
+> - **批评立场** 部分传统的马克思主义社会学家的批评。
+> - **证据依据** 批评者认为，鲍尔对政策的分析过度聚焦于 “话语”、“权力微观技术” 以及后结构主义的弥散权力，这在一定程度上稀释了对资本主义国家机器、宏观阶级结构和资本积累硬性事实的剖析。

@@ -42,7 +42,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 测验效度（Test validity）指教育测验和评估工具在多大程度上实现了其设计目的——准确测量了目标[[Construct|构念]]、内容或能力。一个有效的测验必须确保其项目内容、分数解释和后果使用都经得起方法论审查。测验效度不是一个单一指标，而是多种效度类型的**组合论证**（p.225）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+> 测验效度（Test validity）指教育测验和评估工具在多大程度上实现了其设计目的——准确测量了目标[[Construct|构念]]、内容或能力。一个有效的测验必须确保其项目内容、分数解释和后果使用都经得起方法论审查。测验效度不是一个单一指标，而是多种效度类型的**组合论证（p.225）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 测验效度的核心问题是：这个测验是否测量了它声称要测量的东西——以及从测验分数中做出的推断是否合理？它是效度概念在测验和评估领域的具体应用。
@@ -89,4 +89,4 @@ updated: 2026-06-23
 
 > [!evidence-grid] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10]] — 在测验效度与[[Reliability|信度]]一节中系统列出九种测验效度类型，以 Loevinger 和 Wolf 的框架为核心，补充了 Fredericksen & Collins 的系统效度和 Cunningham 的案例。
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 在调查方法中讨论[[Construct Validity|构念效度]]和效标效度在量表选择中的应用，区分了测量构念效度与实验构念效度威胁。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 在调查方法中讨论[[Construct Validity|构念效度]]和[[Criterion-related Validity|效标效度]]在量表选择中的应用，区分了测量构念效度与实验构念效度威胁。

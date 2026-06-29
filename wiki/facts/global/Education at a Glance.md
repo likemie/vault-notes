@@ -51,21 +51,21 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1992 年**：首版 EAG 出版，英法双语合订，仅 150 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
-> - **1993 年**：第二版翻倍至 300 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
-> - **1995 年**：英法版本分开发行，各 370 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
-> - **2002 年**：概念框架重组，[[Performance Indicators|绩效指标]]从最后一节移至第一节，标志从"广泛趋势分析"转向"以产出/绩效为核心"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13–14]])
-> - **至今**：约 550 页，涵盖更多教育系统和新指标([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
+> - **1992 年** 首版 EAG 出版，英法双语合订，仅 150 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
+> - **1993 年** 第二版翻倍至 300 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
+> - **1995 年** 英法版本分开发行，各 370 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
+> - **2002 年** 概念框架重组，[[Performance Indicators|绩效指标]]从最后一节移至第一节，标志从"广泛趋势分析"转向"以产出/绩效为核心"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13–14]])
+> - **至今** 约 550 页，涵盖更多教育系统和新指标([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
 
 ## 核心要素
 
 > [!abstract] 核心要素
 > EAG 包含四大类指标（[[OECD]], 2012; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.9]]）：
 >
-> - **A. 教育机构的产出与学习影响**（Output of educational institutions and the impact of learning）
-> - **B. 教育投入的财务与人力资源**（Financial and human resources invested in education）
-> - **C. 教育参与、入学与升学**（Access to education, participation and progression）
-> - **D. 学习环境与学校组织**（The learning environment and the organisation of schools）
+> - **A. 教育机构的产出与学习影响（Output of educational institutions and the impact of learning）**
+> - **B. 教育投入的财务与人力资源（Financial and human resources invested in education）**
+> - **C. 教育参与、入学与升学（Access to education, participation and progression）**
+> - **D. 学习环境与学校组织（The learning environment and the organisation of schools）**
 >
 > 指标的特点([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])：
 > - 是经过目的性加工的派生指标（derived measures），合并多个数据源
@@ -88,10 +88,10 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> - **政策影响力**：荷兰教师利用 1996 年 EAG 教师薪资指标争取加薪；美国利用辍学率指标比较突出其高中完成率偏低；某国执政党曾要求 EAG 推迟到议会选举后发布，以免教育系统的负面比较数据影响选情(Smith & Baker, 2001, p.142; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.3–4]])
-> - **制度惯性**：即使 EAG 团队建议删除某些指标或表格，用户（政策制定者）习惯后会抵制删除。"有人称它为圣经"（[[OECD]] 官员访谈，Gorur, 2014, p.17）
-> - **简化的代价**：EAG 团队承认，面对媒体时必须"忘记所有技术细节"，说出一些"作为统计学家知道并不正确的话"，因为需要"让每个人都能理解的故事"（OECD 官员访谈，Gorur, 2014, p.15）
-> - **从指标到评估的滑移**：Bottani 指出 OECD 混淆了"指标"（alert 提醒）与"评估"（assessment 评判），EAG 从警示工具演变为对教育系统的全面评估([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
+> - **政策影响力** 荷兰教师利用 1996 年 EAG 教师薪资指标争取加薪；美国利用辍学率指标比较突出其高中完成率偏低；某国执政党曾要求 EAG 推迟到议会选举后发布，以免教育系统的负面比较数据影响选情(Smith & Baker, 2001, p.142; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.3–4]])
+> - **制度惯性** 即使 EAG 团队建议删除某些指标或表格，用户（政策制定者）习惯后会抵制删除。"有人称它为圣经"（[[OECD]] 官员访谈，Gorur, 2014, p.17）
+> - **简化的代价** EAG 团队承认，面对媒体时必须"忘记所有技术细节"，说出一些"作为统计学家知道并不正确的话"，因为需要"让每个人都能理解的故事"（OECD 官员访谈，Gorur, 2014, p.15）
+> - **从指标到评估的滑移** Bottani 指出 OECD 混淆了"指标"（alert 提醒）与"评估"（assessment 评判），EAG 从警示工具演变为对教育系统的全面评估([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
 
 ## 争议与批评
 

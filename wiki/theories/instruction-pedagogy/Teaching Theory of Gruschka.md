@@ -57,7 +57,7 @@ updated: 2026-05-20
 
 1. **[[Bildung]]——教学的理由与目标**：Bildung 是教学存在的根本理由和终极指向。它处理所有从课程内容中[[Emergence|涌现]]的理解问题（Gruschka, 2019, p.675）。这意味着 Bildung 不是一个教完之后才出现的副产品——它是教学从一开始就朝向的目标。每一节课、每一个教学决策，都应被 Bildung 的目标所引导。
 
-2. **Erziehung（教育／教养）——朝向 Bildung 的定向**：Erziehung 不仅对儿童和青少年的整体发展必不可少，在学校的教学语境中，教师的 Erziehung 任务具体表现为：帮助学生将自身定向于 Bildung 的目标——即帮助学生形成我愿意理解、我应该投入努力去理解的态度和习惯。
+2. **Erziehung（教育／教养）——朝向 Bildung 的定向** Erziehung 不仅对儿童和青少年的整体发展必不可少，在学校的教学语境中，教师的 Erziehung 任务具体表现为：帮助学生将自身定向于 Bildung 的目标——即帮助学生形成我愿意理解、我应该投入努力去理解的态度和习惯。
 
 3. **[[Didaktik]]（教学法）——目标的安排与呈现**：Didaktik 指教师如何同时安排 Bildung 的目标（就学校主题或学科而言）和 Erziehung 的层面（帮助学生聚焦）。Didaktik 包括关于哪部分知识必须在什么时间点、以什么数量被呈现的决策（Gruschka, 2019, p.676）。这不是一个纯粹的技术问题——它要求教师判断什么内容在什么时刻最能激发理解、最有助于学生朝向 Bildung。
 
@@ -66,7 +66,7 @@ updated: 2026-05-20
 
 ### 星座结构的哲学基础
 
-Gruschka 借用 Adorno (1997) 的**星座** (constellation) 概念来强调三要素之间的**非同一**关系([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.238 fn.2]])。在 Adorno 的用法中，星座是一种拒绝将概念还原为定义或将其纳入更高概念的思维方式——它要求围绕一个事物聚集相关的概念，而不声称任何一个概念完全代表了该事物。同样地，Bildung、Erziehung 和 Didaktik 不能相互还原——Didaktik 不是 Bildung 的执行工具，Erziehung 也不是 Bildung 的附属品。它们各自保持独立的同时，在每一次具体的教学行动中交织成一个整体。
+Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要素之间的**非同一**关系([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.238 fn.2]])。在 Adorno 的用法中，星座是一种拒绝将概念还原为定义或将其纳入更高概念的思维方式——它要求围绕一个事物聚集相关的概念，而不声称任何一个概念完全代表了该事物。同样地，Bildung、Erziehung 和 Didaktik 不能相互还原——Didaktik 不是 Bildung 的执行工具，Erziehung 也不是 Bildung 的附属品。它们各自保持独立的同时，在每一次具体的教学行动中交织成一个整体。
 
 ### 对数字学习工具的批判功能
 
@@ -85,9 +85,9 @@ Gruschka 借用 Adorno (1997) 的**星座** (constellation) 概念来强调三�
 ## 争议与批评
 
 > [!warning]
-> - **德国语境的特殊性**：该理论深深根植于德国 [[Bildung]]/[[Didaktik]] 传统，其核心概念（Bildung, Erziehung, Didaktik）在其他教育文化中缺乏精确的对应概念，跨国适用性有待验证（Jornitz & Klinge, 2022 本身即是将该理论应用于全球 EdTech 分析的一次尝试）
-> - **经验基础的可见性**：虽然 Gruschka（2013）声称基于经验研究，但在当前仅通过 Jornitz & Klinge（2022）一章的引用，尚无法全面评估其经验基础的质量和范围
-> - **信息量限制**：本条目仅基于 Jornitz & Klinge（2022）对 Gruschka 理论的总结性介绍，Gruschka 原著的完整论证有待直接阅读后补充
+> - **德国语境的特殊性** 该理论深深根植于德国 [[Bildung]]/[[Didaktik]] 传统，其核心概念（Bildung, Erziehung, Didaktik）在其他教育文化中缺乏精确的对应概念，跨国适用性有待验证（Jornitz & Klinge, 2022 本身即是将该理论应用于全球 EdTech 分析的一次尝试）
+> - **经验基础的可见性**虽然 Gruschka（2013）声称基于经验研究，但在当前仅通过 Jornitz & Klinge（2022）一章的引用，尚无法全面评估其经验基础的质量和范围
+> - **信息量限制**本条目仅基于 Jornitz & Klinge（2022）对 Gruschka 理论的总结性介绍，Gruschka 原著的完整论证有待直接阅读后补充
 
 ## 相关研究
 

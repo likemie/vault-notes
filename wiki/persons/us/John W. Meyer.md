@@ -77,7 +77,7 @@ updated: '2026-06-08'
 ### 2000 — "The 'Actors' of Modern Society: The Cultural Construction of Social Agency"（与 Ronald L. Jepperson 合著）
 
 - APA：Meyer, J. W., & Jepperson, R. L. (2000). The 'actors' of modern society: The cultural construction of social agency. *Sociological Theory*, 18(1), 100–120.
-- 核心内容：提出 otherhood 概念——论证现代社会中的**能动者**（actors）本身就是一种文化建构，otherhood（为他人行使代理权）是这种建构的核心机制([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])。
+- 核心内容：提出 otherhood 概念——论证现代社会中的**能动者（actors）**本身就是一种文化建构，otherhood（为他人行使代理权）是这种建构的核心机制([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])。
 - 思想位置：完善了世界社会理论中关于能动性（agency）的文化建构理论。
 - 相关概念／理论：[[Otherhood]]、[[Organizational Actorhood]]
 
@@ -107,7 +107,7 @@ updated: '2026-06-08'
 
 > [!tip]-
 > Meyer 的核心思想可归纳为三个相互关联的理论主张（综合自 Zapp, 2022, pp.145, 148–149）：
-> - **世界社会作为文化建构**：世界层面存在一个由共享[[Cultural Models|文化模型]]、规范和认知框架构成的世界社会，它不依赖中央权威，而是通过文化模型的扩散与模仿来运作
+> - **世界社会作为文化建构** 世界层面存在一个由共享[[Cultural Models|文化模型]]、规范和认知框架构成的世界社会，它不依赖中央权威，而是通过文化模型的扩散与模仿来运作
 > - **[[Organizational Actorhood|组织能动者身份]]**：在全球文化模型压力下，各类组织日益获得标准化但同时又寻求独特性的能动者身份——自主性、目标导向、问责性和社会嵌入性构成现代完全组织的四个核心维度
 > - **[[Otherhood]] 作为社会运作的核心机制**：组织——尤其是大学和国际组织——的能动性在很大程度上指向他者（其他行动者、非行动者实体和现代性原则），otherhood 是现代社会运作和整合的基本方式
 
@@ -129,7 +129,7 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning]
-> - **对权力和冲突的低估**：[[Argument_Zapp_2022_Springer|Zapp (2022)]] 指出，[[World Society Theory|世界社会理论]]倾向于强调全球[[Cultural Models|文化模型]]的扩散与同构，可能低估国家权力、地缘政治冲突和市场逻辑对组织行为的持续塑造作用（pp.155–157）
-> - **去殖民批判**：后殖民和去殖民学者可能批评 Meyer 的普世主义隐含了西方中心的[[Epistemology|认识论]]预设，未能充分关注殖民差异和认识论暴力如何塑造全球知识秩序（参见 [[Geopolitics of Knowledge]]）
+> - **对权力和冲突的低估**[[Argument_Zapp_2022_Springer|Zapp (2022)]] 指出，[[World Society Theory|世界社会理论]]倾向于强调全球[[Cultural Models|文化模型]]的扩散与同构，可能低估国家权力、地缘政治冲突和市场逻辑对组织行为的持续塑造作用（pp.155–157）
+> - **去殖民批判** 后殖民和去殖民学者可能批评 Meyer 的普世主义隐含了西方中心的[[Epistemology|认识论]]预设，未能充分关注殖民差异和认识论暴力如何塑造全球知识秩序（参见 [[Geopolitics of Knowledge]]）
 
 ---

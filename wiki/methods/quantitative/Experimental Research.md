@@ -83,23 +83,23 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ### 参与者与设计
 
 > [!info]
-> - **招募受试者**：描述招募程序和选择标准，明确具体的纳入和排除标准。招募方式包括随机数字拨号、社区招募传单、电子邮件或报纸广告。说明受试者的报酬方式。
+> - **招募受试者** 描述招募程序和选择标准，明确具体的纳入和排除标准。招募方式包括随机数字拨号、社区招募传单、电子邮件或报纸广告。说明受试者的报酬方式。
 > - **[[Random Assignment|随机分配]]**：真实验的核心特征是将受试者随机分配到处理条件中（Keppel & Wickens, 2003; 引自 Creswell & Creswell, 2022, Ch8）。说明随机分配的方式和时间。每个受试者被等概率分配至各处理组，消除受试者特征的系统性偏差，使结果差异可归因于被操纵的[[Variable|变量]]。
 > - **功效分析与[[Sample Size Determination|样本量]]**：在数据收集前进行功效分析以确定样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8），输入参数包括每组预期[[Effect Size|效应量]]和实验条件数。
-> - **正式设计声明**：在参与者部分末尾提供正式实验设计声明，如"本实验由单因素两组设计组成，比较全职与兼职护士的倦怠症状"。
+> - **正式设计声明** 在参与者部分末尾提供正式实验设计声明，如"本实验由单因素两组设计组成，比较全职与兼职护士的倦怠症状"。
 
 ### 变量
 
 > [!abstract]
-> - **自变量（Independent Variables）**：明确实验中的自变量及其操纵方式。可进行 2 × 2 受试者间[[Factorial Design|因子设计]]，同时操纵两个自变量。
+> - **自变量（Independent Variables）** 明确实验中的自变量及其操纵方式。可进行 2 × 2 受试者间[[Factorial Design|因子设计]]，同时操纵两个自变量。
 > - **[[Manipulation Check|操纵检查]]（Manipulation Check）**：评估实验是否成功操纵了目标自变量。例如，若研究通过正面／负面测试反馈操纵自尊水平，可在操纵后施测状态自尊问卷，定量评估两组是否存在自尊差异（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
-> - **因变量（Dependent Variables）**：明确实验的结果变量，即被假定受自变量操纵影响或引起的结果或效标变量。可考虑使用多种方式测量同一结果（如攻击性的行为测量和自评测量）。
-> - **其他变量**：包括（1）受试者人口学特征（年龄、性别、族裔）；（2）可能增加研究设计噪音的变量（如自尊水平可能在一天中波动，可测量和记录时间作为协变量）；（3）潜在混淆变量（如批评者可能声称正面／负面反馈操作也无意中操纵了[[Reflexivity|反思性]]思维，可测量该变量以定量评估此主张）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **因变量（Dependent Variables）** 明确实验的结果变量，即被假定受自变量操纵影响或引起的结果或效标变量。可考虑使用多种方式测量同一结果（如攻击性的行为测量和自评测量）。
+> - **其他变量** 包括（1）受试者人口学特征（年龄、性别、族裔）；（2）可能增加研究设计噪音的变量（如自尊水平可能在一天中波动，可测量和记录时间作为协变量）；（3）潜在混淆变量（如批评者可能声称正面／负面反馈操作也无意中操纵了[[Reflexivity|反思性]]思维，可测量该变量以定量评估此主张）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 工具与材料
 
 > [!info]
-> - **材料**：详细讨论用于操纵目标自变量的材料（如计算机辅助学习计划中的讲义、课程和书面指导）。可讨论[[Pilot Testing|试点测试]]和标准化施测所需的培训。
+> - **材料** 详细讨论用于操纵目标自变量的材料（如计算机辅助学习计划中的讲义、课程和书面指导）。可讨论[[Pilot Testing|试点测试]]和标准化施测所需的培训。
 > - **[[Cover Story|封面故事]]（Cover Story）**：撰写一个对[[Purpose Statement|研究目的]]和程序的合理解释（可能不真实），以向受试者解释实验。若使用欺骗，应制定适当的解除欺骗（debriefing）方法。所有程序和材料须经机构 [[Institutional Review Board|IRB]] 批准（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验程序
@@ -108,7 +108,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > **实验类型**（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 > - **[[Pre-Experimental Designs|前实验设计]]**：研究单一组并实施干预，无对照组比较，[[Internal Validity|内部效度]]最低。
 > - **[[Quasi-Experimental Designs|准实验设计]]**：使用对照组和实验组，但随机分配部分或完全缺失。
-> - **真实验（True Experiment）**：研究者随机分配受试者到处理组中，内部效度最高。
+> - **真实验（True Experiment）** 研究者随机分配受试者到处理组中，内部效度最高。
 > - **[[Single-Subject Design|单受试者设计]]／N of 1 设计**：在时间维度上观察单个个体（或少数个体）的行为。
 
 > [!abstract] Campbell & Stanley 符号系统
@@ -122,8 +122,8 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - 平行行之间用水平线分隔表示比较组不等价（非随机分配）；无线表示随机分配
 
 > [!note]- 真实验设计的四种类型
-> - **前后测对照组设计（Pretest–Posttest Control-Group Design）**：两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
-> - **仅后测对照组设计（Posttest-Only Control-Group Design）**：控制前测的混淆效应，随机分配后仅实验组接受处理，两组均接受后测。Group A R——X—O / Group B R————O
+> - **前后测对照组设计（Pretest–Posttest Control-Group Design）** 两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
+> - **仅后测对照组设计（Posttest-Only Control-Group Design）** 控制前测的混淆效应，随机分配后仅实验组接受处理，两组均接受后测。Group A R——X—O / Group B R————O
 > - **Solomon 四组设计（[[Solomon Four-Group Design]]）**：2 × 2 因子设计的特例，四组分别在前测和处理上有所变化，全部接受后测，用于评估前测的影响。
 > - **[[Factorial Design]]**：同时操纵两个或多个自变量，检验主效应和交互效应（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Soft Power]]"
   - "[[Halo Effect]]"
   - "[[Reliability]]"
   - "[[Performance Indicators]]"

@@ -44,10 +44,10 @@ updated: 2026-06-16
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体**：2016年正式开始全国实施，由澳大利亚联邦政府基于2015年初始教师教育咨询小组（[[Teacher Education Ministerial Advisory Group|TEMAG]]）报告《行动立即开始：课堂就绪教师》（*Action Now: Classroom Ready Teachers*）的政策建议推出。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **适用地区 / 对象**：适用于澳大利亚全国范围内初始教师教育（ITE）课程的在读职前教师。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **问题背景**：作为提升教师质量门槛的标准化测试，应对公众对新教师读写与算术基础能力的担忧。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **制度位置**：由澳大利亚教育研究理事会 ([[Australian Council for Educational Research|ACER]]) 负责测试开发与管理，是初始教师进入教学岗位前的强制性法定制约关卡。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **发布时间 / 发布主体** 2016年正式开始全国实施，由澳大利亚联邦政府基于2015年初始教师教育咨询小组（[[Teacher Education Ministerial Advisory Group|TEMAG]]）报告《行动立即开始：课堂就绪教师》（*Action Now: Classroom Ready Teachers*）的政策建议推出。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **适用地区 / 对象** 适用于澳大利亚全国范围内初始教师教育（ITE）课程的在读职前教师。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **问题背景** 作为提升教师质量门槛的标准化测试，应对公众对新教师读写与算术基础能力的担忧。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **制度位置** 由澳大利亚教育研究理事会 ([[Australian Council for Educational Research|ACER]]) 负责测试开发与管理，是初始教师进入教学岗位前的强制性法定制约关卡。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 
@@ -57,10 +57,10 @@ updated: 2026-06-16
 > LANTITE 作为初始教师教育项目的毕业门槛测试，强制要求所有职前教师在毕业前通过读写与算术能力统考，属于标准化的“守门机制”。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 > [!policy-design]- 政策设计
-> - **目标**：保证所有新毕业教师具备前30%成年人水平的基本读写与算术素养。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **对象**：大学初始教师教育（ITE）在读学生。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **工具**：全国统一标准化笔试（分为阅读与数学两个独立板块）、毕业证书获取硬约束。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **约束方式**：强制性的入职守门机制与学生个人付费的准入考核。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **目标** 保证所有新毕业教师具备前30%成年人水平的基本读写与算术素养。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **对象** 大学初始教师教育（ITE）在读学生。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **工具** 全国统一标准化笔试（分为阅读与数学两个独立板块）、毕业证书获取硬约束。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **约束方式** 强制性的入职守门机制与学生个人付费的准入考核。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 
@@ -76,16 +76,16 @@ updated: 2026-06-16
 ## 效果与评价
 
 > [!stat-cards] 核心数据
-> - **370万澳元**：LANTITE 统考每年为 [[Australian Council for Educational Research|ACER]] 带来的估算营收，揭示了测试的存废与中介机构商业利益的深度绑定。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **370万澳元** LANTITE 统考每年为 [[Australian Council for Educational Research|ACER]] 带来的估算营收，揭示了测试的存废与中介机构商业利益的深度绑定。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 
 ## 争议与评论
 
 > [!tension] 争议焦点
-> - **工具争议：中介机构的经济红利与守门性质**：LANTITE 被批判政策社会学者描述为一种“守门机制”（gate-keeping mechanism）。同时，其承办机构 [[Australian Council for Educational Research|ACER]] 作为非政府中介组织，通过收取考生高昂考试费获取了直接而庞大的经济利益。这种利益绑定导致政策在制度惯性下极难被撤销，偏离了政策原初的质量改进目标。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **执行争议：初期的完全混乱**：政策推行过于仓促，初期在系统稳定性、地区覆盖度和信息传导上管理极其混乱，将改革的行政成本与心理焦虑不公平地转嫁到了职前教师和大学教育者身上。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **问责逻辑争议**：测试的强制推行构成了“[[What Works Movement|什么有效运动]]”下惩罚性问责链条的起点，强化了用单一、脱离情境的量化考核结果来代表和决定教师专业素养的政策倾向。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **工具争议：中介机构的经济红利与守门性质** LANTITE 被批判政策社会学者描述为一种“守门机制”（gate-keeping mechanism）。同时，其承办机构 [[Australian Council for Educational Research|ACER]] 作为非政府中介组织，通过收取考生高昂考试费获取了直接而庞大的经济利益。这种利益绑定导致政策在制度惯性下极难被撤销，偏离了政策原初的质量改进目标。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **执行争议：初期的完全混乱** 政策推行过于仓促，初期在系统稳定性、地区覆盖度和信息传导上管理极其混乱，将改革的行政成本与心理焦虑不公平地转嫁到了职前教师和大学教育者身上。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **问责逻辑争议** 测试的强制推行构成了“[[What Works Movement|什么有效运动]]”下惩罚性问责链条的起点，强化了用单一、脱离情境的量化考核结果来代表和决定教师专业素养的政策倾向。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
 

@@ -47,10 +47,10 @@ updated: 2026-06-17
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置**：美国阅读教学研究者、教育心理学家，曾担任多所大学的阅读教育教授。他是 1980 至 1990 年代美国“阅读战争”（Reading Wars）中拼读教学与科学阅读研究阵营的关键学者之一。
-> - **为什么值得建条目**：他主持了两项对[[Whole Language|全语言]]教学具有决定性历史影响的[[Meta-analysis|元分析]]（Stahl & Miller, 1989; Stahl et al., 1994）。这两项研究为《[[Visible Learning|可见的学习]]》（Visible Learning，VL）（Visible Learning）中评估全语言低[[Effect Size|效应量]]提供了核心数据源。
-> - **代表贡献**：首次尝试对全语言与[[Language Experience Approach|语言经验法]]（Language Experience Approach, LEA）进行大规模量化合成（Stahl & Miller, 1989，见 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144]]），并在后续研究中对两者的概念混淆进行了自我修正。
-> - **阅读边界**：本页主要探讨他在全语言与语言经验法划分上的学术贡献、元分析分类的变迁、以及[[John Hattie|约翰·哈蒂]]（John Hattie）对其数据的采纳争议。
+> - **身份位置** 美国阅读教学研究者、教育心理学家，曾担任多所大学的阅读教育教授。他是 1980 至 1990 年代美国“阅读战争”（Reading Wars）中拼读教学与科学阅读研究阵营的关键学者之一。
+> - **为什么值得建条目** 他主持了两项对[[Whole Language|全语言]]教学具有决定性历史影响的[[Meta-analysis|元分析]]（Stahl & Miller, 1989; Stahl et al., 1994）。这两项研究为《[[Visible Learning|可见的学习]]》（Visible Learning，VL）（Visible Learning）中评估全语言低[[Effect Size|效应量]]提供了核心数据源。
+> - **代表贡献** 首次尝试对全语言与[[Language Experience Approach|语言经验法]]（Language Experience Approach, LEA）进行大规模量化合成（Stahl & Miller, 1989，见 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144]]），并在后续研究中对两者的概念混淆进行了自我修正。
+> - **阅读边界** 本页主要探讨他在全语言与语言经验法划分上的学术贡献、元分析分类的变迁、以及[[John Hattie|约翰·哈蒂]]（John Hattie）对其数据的采纳争议。
 
 > [!citation-card]- 人物定位的关键来源
 > “斯塔尔在五年后主持的一项随访元分析中，实际上承认了麦基与洛马斯（McGee & Lomax）的观点……斯塔尔等人（1994）承认了全语言与早期语言经验法之间的区别……在新研究中不再包含纯粹的语言经验法研究，因为在此时使用这种标签将是时代错误的。” ([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.144-145]])
@@ -62,8 +62,8 @@ updated: 2026-06-17
 ## 贡献地图
 
 > [!contribution-map] 贡献地图
-> - **概念贡献**：[[Language Experience Approach|语言经验法]] — 系统梳理了语言经验法的发展，并指出其与[[Whole Language|全语言]]在诞生时间与教学材料上的本质区别。
-> - **方法贡献**：[[Meta-analysis|元分析]] — 运用元分析方法对早期阅读教学设计进行实证合成，但早期因将两种不同教学法混同计算而引发了方法论的广泛批评。
+> - **概念贡献**[[Language Experience Approach|语言经验法]] — 系统梳理了语言经验法的发展，并指出其与[[Whole Language|全语言]]在诞生时间与教学材料上的本质区别。
+> - **方法贡献**[[Meta-analysis|元分析]] — 运用元分析方法对早期阅读教学设计进行实证合成，但早期因将两种不同教学法混同计算而引发了方法论的广泛批评。
 
 ---
 

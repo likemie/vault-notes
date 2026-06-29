@@ -29,6 +29,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Soft Power]]"
 related_theories:
   - "[[Network Society]]"
 related_methods: []

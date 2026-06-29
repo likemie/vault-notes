@@ -59,13 +59,13 @@ updated: '2026-06-08'
 >
 > 1. **[[Evidence-Based Reform|证据本位改革]]（Evidence-Based Reform）**：Slavin 于 2002 年提出该概念（AERA Dewitt Wallace-Reader's Digest 杰出讲座），主张教育政策应鼓励或要求学校和学区采用经严格[[Experimental Research|实验研究]]验证有效的项目和实践。该演讲发表于教育政策剧烈变动的时刻——CSR 项目（1998）首次将联邦拨款与证据挂钩、[[No Child Left Behind Act 2001|NCLB]]（2001）将"科学本位研究"写入联邦法律核心、OERI 正进行以 [[Randomised Controlled Trials|RCT]] 为中心的重组。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 >
-> 2. **"什么有效"的强证据观**：不同于弱版本的 "证据知情"（evidence-informed）实践，Slavin 认为真正有效的改革必须基于对**具体项目**（而非通用原则）的**实验比较**（偏好[[Random Assignment|随机分配]]），因为教师难以将通用原则转化为有效实践。他提出关键区分：项目"基于科学研究"不等于项目"已经过严格评估"——正如莱特兄弟的竞争对手也使用了相同的航空科学研究，但飞机从未离开地面。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 18–19]])
+> 2. **"什么有效"的强证据观** 不同于弱版本的 "证据知情"（evidence-informed）实践，Slavin 认为真正有效的改革必须基于对**具体项目**（而非通用原则）的**实验比较**（偏好[[Random Assignment|随机分配]]），因为教师难以将通用原则转化为有效实践。他提出关键区分：项目"基于科学研究"不等于项目"已经过严格评估"——正如莱特兄弟的竞争对手也使用了相同的航空科学研究，但飞机从未离开地面。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 18–19]])
 >
 > 3. **开发-评估-推广[[Paradigm|范式]]**：[[Argument_Slavin_2002_ER|Slavin (2002, p. 17)]] 论证，一旦建立了可复制的开发→严格评估→复制→推广范式，这一机制可广泛适用于教育的各个领域。他认为教育不需要医学式的"突破"，而需要渐进式累积改进——现代汽车仍用内燃机但远比 Model T 高效；医生在世纪之交就能切除阑尾但今天手术风险小得多。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 19]])
 >
 > 4. **三条件框架**（Slavin, 2017, 2019）：证据本位改革要成功需要三个条件同时满足：(1) 大量经过验证的有效项目、(2) 可信赖的、易于教育者理解的证据审查、(3) 政府政策提供激励。
 >
-> 5. **方法论的平衡立场**：[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]] 承认随机化实验的困难和昂贵（以自己 [[Success for All]] 随机化评估经验为例），主张长期来看随机化和严格匹配实验的混合比单一依赖随机化"更健康"，但认为在当前政治窗口下应集中资源做"无可挑剔的随机化实验"以修复教育研究的"糟糕声誉"（Kaestle, 1993）。这一立场在 2019 年变得更为明确地倾向 RCT。
+> 5. **方法论的平衡立场**[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]] 承认随机化实验的困难和昂贵（以自己 [[Success for All]] 随机化评估经验为例），主张长期来看随机化和严格匹配实验的混合比单一依赖随机化"更健康"，但认为在当前政治窗口下应集中资源做"无可挑剔的随机化实验"以修复教育研究的"糟糕声誉"（Kaestle, 1993）。这一立场在 2019 年变得更为明确地倾向 RCT。
 >
 > > "Why is it that educational research so rarely has an impact on the practice of education? ... Evidence-based reform could finally apply to education the process that led to dramatic developments in medicine, agriculture, and technology in the 20th century." ([[Argument_Slavin_2019_EP|Slavin, 2019]])
 >
@@ -101,12 +101,12 @@ updated: '2026-06-08'
 | 核心关切 | 教育研究成果如何[[Transfer Translation Transformation\|转化]]为实践影响 | 教育的目的性（teleology）被效果话语遮蔽 | EBE 的制度功能（为谁服务） |
 | 改革方向 | 加速证据生产、审查和激励采纳 | 价值先于证据，恢复教育的目的讨论 | 切断 EBE 与行政问责的捆绑，拥抱方法多元论 |
 
-Slavin 的立场代表 EBE 运动**最强版本**（evidence-based, not evidence-informed），与 Biesta 的批判和 Cowen 的制度分析构成直接对立。
+Slavin 的立场代表 EBE 运动**最强版本（evidence-based, not evidence-informed）**，与 Biesta 的批判和 Cowen 的制度分析构成直接对立。
 
 ## 学术批评
 
 > [!warning] 学术批评
 > - **[[Conflict of Interest in Research|利益冲突]]**：Slavin 同时是 [[Success for All]] 创始者、[[Best Evidence Encyclopedia|BEE]] 创建者、Evidence for ESSA 创建者和 EBR 倡导者——倡导者与受益者的角色重叠在 [[Evidence-Based Education|EBE]] 辩论中引发对独立性的质疑。支持者回应：正因为他开发了成功的项目，才有信誉倡导 EBR。
 > - **对批判[[Document|文献]]的回避**：Slavin 将 Biesta、Cowen、Deaton & Cartwright 等的系统批评笼统归为"怀疑论"，未进行实质性回应——形成与批判阵营平行的、互不对话的话语体系。
-> - **良性循环叙事的政治天真**：[[Hypothesis|假设]]政府持续拨款、项目持续被采用、效果持续复现——对其中的政治周期和政策不稳定性低估。Slavin 自己记录的英国 Strategic School Improvement Fund (2018) 在最后一刻被取消即是反例。
-> - **方法论立场的演变**：Slavin 2002 年持平衡立场（"长期来看[[Random Assignment|随机化]]和匹配实验的混合更健康"），到 2019 年日益倾向 [[Randomised Controlled Trials|RCT]] 优先——这一演变是否反映了证据积累还是政治风向的转变，值得追问。
+> - **良性循环叙事的政治天真**[[Hypothesis|假设]]政府持续拨款、项目持续被采用、效果持续复现——对其中的政治周期和政策不稳定性低估。Slavin 自己记录的英国 Strategic School Improvement Fund (2018) 在最后一刻被取消即是反例。
+> - **方法论立场的演变** Slavin 2002 年持平衡立场（"长期来看[[Random Assignment|随机化]]和匹配实验的混合更健康"），到 2019 年日益倾向 [[Randomised Controlled Trials|RCT]] 优先——这一演变是否反映了证据积累还是政治风向的转变，值得追问。

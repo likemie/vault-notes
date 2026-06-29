@@ -62,16 +62,16 @@ updated: '2026-05-18'
 > 从文本结构看，2014 课程把 PhBL 放在"实现课程总体目标和价值"的方法集合中，而不是把它建成一个独立学科或替代全部学科的制度安排。课程仍依靠传统学校科目来组织知识，同时鼓励以日常、文化、历史、化学、世界观等不同类型的现象作为综合学习对象([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
 >
 > [[Phenomenon-Based Learning]] 在课程中的政策功能主要有三层：
-> - **连接学生经验**：学习主题应与学生的邻近环境和生活经验相连，以释放学生能动性([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
-> - **回应复杂问题**：跨学科取向被视为面对不平等、气候变化、污染、疫情、不安全、暴力和营养不良等纠缠性问题的教育回应，这与 [[Epochal Key Problems]] 的课程组织思路相通([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.1, 6-7]])。
-> - **服务横向能力话语**：PhBL 与 [[OECD]] 的 21 世纪技能、transversal knowledge 以及 EU 教育经济政策相呼应([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.9]])。
+> - **连接学生经验** 学习主题应与学生的邻近环境和生活经验相连，以释放学生能动性([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+> - **回应复杂问题** 跨学科取向被视为面对不平等、气候变化、污染、疫情、不安全、暴力和营养不良等纠缠性问题的教育回应，这与 [[Epochal Key Problems]] 的课程组织思路相通([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.1, 6-7]])。
+> - **服务横向能力话语** PhBL 与 [[OECD]] 的 21 世纪技能、transversal knowledge 以及 EU 教育经济政策相呼应([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.9]])。
 
 ## 时间线
 
 > [!note]- 时间线
-> - **2014**：芬兰语与瑞典语版基础教育国家核心课程发布，并将跨学科与[[Phenomenon-Based Learning|现象本位学习]]纳入课程框架([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
-> - **2016**：英文版基础教育国家核心课程发布；国际讨论中 PhBL 的能见度进一步上升([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
-> - **2018-2023**：赫尔辛基大学 [[SveaSus Project]] 以 Suomenlinna 世界遗产地为学习环境，围绕可持续性探索现象本位学习、具身学习、艺术本位和多语方法([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
+> - **2014** 芬兰语与瑞典语版基础教育国家核心课程发布，并将跨学科与[[Phenomenon-Based Learning|现象本位学习]]纳入课程框架([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+> - **2016** 英文版基础教育国家核心课程发布；国际讨论中 PhBL 的能见度进一步上升([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+> - **2018-2023** 赫尔辛基大学 [[SveaSus Project]] 以 Suomenlinna 世界遗产地为学习环境，围绕可持续性探索现象本位学习、具身学习、艺术本位和多语方法([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
 
 ## 实施情况
 
@@ -92,10 +92,10 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **国际误读**：社交媒体和博客常声称芬兰已用跨学科教学取代学科教学。这不符合课程事实：芬兰课程仍以传统学科组织([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
-> - **政策悖论**：芬兰课程改革一方面强调整体学习、横向能力和复杂问题，另一方面又受全球测量、问责和经济竞争话语影响，可能推动 [[Atomisation of Knowledge and Skills]]([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.9-10]])。
-> - **概念模糊**：[[Phenomenon-Based Learning|PhBL]] 在课程文本中的术语位置并不稳定；芬兰语原文没有直接使用"phenomenon-based learning"，译本中也只少量出现该词，但"phenomenon/ilmiö"及其组合词大量出现。这种写法给学校留下空间，也增加了实施解释差异([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
-> - **学科深度风险**：PhBL 的目标不是模糊学科边界，而是在复杂现象中同时保存学科内部逻辑和跨学科问题意识。若实施时只追求主题整合而忽略学科结构，可能把知识拆成表层活动或技能碎片([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.4-5, 10]])。
+> - **国际误读** 社交媒体和博客常声称芬兰已用跨学科教学取代学科教学。这不符合课程事实：芬兰课程仍以传统学科组织([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+> - **政策悖论** 芬兰课程改革一方面强调整体学习、横向能力和复杂问题，另一方面又受全球测量、问责和经济竞争话语影响，可能推动 [[Atomisation of Knowledge and Skills]]([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.9-10]])。
+> - **概念模糊**[[Phenomenon-Based Learning|PhBL]] 在课程文本中的术语位置并不稳定；芬兰语原文没有直接使用"phenomenon-based learning"，译本中也只少量出现该词，但"phenomenon/ilmiö"及其组合词大量出现。这种写法给学校留下空间，也增加了实施解释差异([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+> - **学科深度风险** PhBL 的目标不是模糊学科边界，而是在复杂现象中同时保存学科内部逻辑和跨学科问题意识。若实施时只追求主题整合而忽略学科结构，可能把知识拆成表层活动或技能碎片([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.4-5, 10]])。
 
 ## 相关概念／理论
 

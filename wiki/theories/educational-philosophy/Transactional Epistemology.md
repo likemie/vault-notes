@@ -65,13 +65,13 @@ updated: '2026-05-18'
 
 
 > [!abstract] 关键推论
-> 1. **知识的结构性不完整**：因为我们通过介入来认识世界，而介入会改变世界——完整的、静态的"世界本身"永远不可知
+> 1. **知识的结构性不完整** 因为我们通过介入来认识世界，而介入会改变世界——完整的、静态的"世界本身"永远不可知
 >
 > > 例：教师无法通过"不介入"来了解一个班级的学习状态——一旦开始教学（介入），学生的反应就已经是在教师影响下的反应了。教师永远不会知道这个班级"本来"是什么样子，只能知道"在我的教学下"学生如何反应。（基于 Biesta, 2010, pp. 494–495 对实验介入的认识论分析）
-> 2. **确定性不可能**：交易认识论能提供"有依据的断言"（warranted assertions）而非"确定性"（certainty）
+> 2. **确定性不可能** 交易认识论能提供"有依据的断言"（warranted assertions）而非"确定性"（certainty）
 >
 > > 例：一位教师去年用"同伴互评法"有效提高了学生的写作能力，但她不能因此断言该方法"确定有效"——去年有效只是提供了"有依据的断言"（warranted assertion），表明该方法在过去的情境下产生过这种关系。今年面对不同的学生群体，这一知识提供的是[[Hypothesis|假设]]（[[Hypothesis]]），而非确定性。（基于 Biesta, 2010, pp. 494–495 关于 warranted assertions 与 certainty 的区分）
-> 3. **知识提供可能性而非规则**：知识可以使行动"更明智"（more intelligent），但不能提供行动的规则或命令
+> 3. **知识提供可能性而非规则** 知识可以使行动"更明智"（more intelligent），但不能提供行动的规则或命令
 >
 > > 例：[[Argument_Biesta_2010_SPE|Biesta (2010, p. 499)]] 指出，研究证据表明家庭环境对学业成就具有显著影响——但这一知识并不"命令"我们将孩子从家庭中带走以提高其成绩。即使我们知道某种干预"在过去有效"，是否采用它仍取决于复杂的价值判断（对孩子与父母分离的潜在伤害 vs. 学业提升的潜在收益）。知识使决策"更明智"，但不替代决策。
 >
@@ -90,29 +90,29 @@ updated: '2026-05-18'
 
 > [!info] 研究[[Paradigm|范式]]
 > - **[[Epistemology|认识论]]立场**：[[Pragmatic Paradigm|实用主义]] —— 超越现实主义/[[Constructivist Paradigm|建构主义]]的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
-> - **常用方法**：[[Philosophical Analysis in Education|哲学分析]]、概念分析
+> - **常用方法**[[Philosophical Analysis in Education|哲学分析]]、概念分析
 
 ## 争议与批评
 
 > [!warning] 相对主义指控
 > 如果知识只是"行动-后果关系的记录"([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 495]])，那么是否任何知识都没有比其他知识更"真"？交易[[Epistemology|认识论]]是否削弱了区分"好证据"和"坏证据"的基础？
 >
-> - **批评立场**：若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials|RCT]] 和[[Observational and Correlational Research|观察研究]]"同样有效"的等同处理——[[Argument_Slavin_2019_EP|Slavin (2019)]] 会认为这放弃了[[Causality|因果]]推论的核心要求。
-> - **Dewey/Biesta 的回应**：交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。([[Argument_Biesta_2010_SPE|Biesta, 2010, pp. 494–495]])
+> - **批评立场** 若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials|RCT]] 和[[Observational and Correlational Research|观察研究]]"同样有效"的等同处理——[[Argument_Slavin_2019_EP|Slavin (2019)]] 会认为这放弃了[[Causality|因果]]推论的核心要求。
+> - **Dewey/Biesta 的回应** 交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。([[Argument_Biesta_2010_SPE|Biesta, 2010, pp. 494–495]])
 >
-> **目前状态**：此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Methods Research|混合方法]][[Document|文献]]中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
+> **目前状态** 此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Methods Research|混合方法]][[Document|文献]]中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
 
 
 > [!warning] 对科学实践的描述是否准确
 > 批评者指出，即使交易认识论在哲学上成立，科学家和教师在实践决策中实质上使用"表象认识论思维"——他们会说"研究显示 X 有效"，而不是"研究显示 X 过去在这种情况下产生过这种关系"。
 >
-> **目前状态**：此张力指出了[[Philosophical Analysis in Education|哲学分析]]和实践决策之间的不匹配——哲学家（如 Biesta）追求概念精确性，实践者（如教师）需要可操作的启发式——两者可能永远无法完全对齐。
+> **目前状态** 此张力指出了[[Philosophical Analysis in Education|哲学分析]]和实践决策之间的不匹配——哲学家（如 Biesta）追求概念精确性，实践者（如教师）需要可操作的启发式——两者可能永远无法完全对齐。
 
 
 > [!warning] 实操意义不明
 > 交易认识论对教育研究的具体方法论指引不够清晰：是否仍应进行实验？如果是，应如何不同地设计和解读实验？Biesta 在本文中的回答停留在哲学层面（"继续做研究但改变你的解读"），未提供方法论层面的操作指南。
 >
-> **目前状态**：Cartwright & Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了交易认识论视角下如何进行政策评估的操作性建议，部分回应了这一批评。
+> **目前状态**Cartwright & Hardie (2012) 在 *Evidence-Based Policy: A Practical Guide to Doing It Better* 中提供了交易认识论视角下如何进行政策评估的操作性建议，部分回应了这一批评。
 
 ## 相关研究
 

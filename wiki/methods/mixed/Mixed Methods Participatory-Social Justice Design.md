@@ -53,12 +53,12 @@ updated: 2026-06-02
 > [!abstract]
 > 参与式行动[[Mixed Methods Research|混合方法研究]]通常经历以下步骤([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.247–248]])：
 >
-> 1. **需求评估（Needs Assessment）**：诊断社区需求
-> 2. **侦察（Reconnaissance）**：从社区成员处收集量化和质性数据 → 可嵌入第一个核心混合方法设计
-> 3. **规划（Planning）**：寻找适合社区需求的模型或方案
-> 4. **实施与监控（Implementation & Monitoring）**：实施方案并持续监控
-> 5. **评价（Evaluation）**：收集并分析量化和质性数据以评价成效 → 可嵌入第二个核心混合方法设计
-> 6. **行动与改进（Action & Improvement）**：根据评价结果实施新模型，循环回到需求评估
+> 1. **需求评估（Needs Assessment）** 诊断社区需求
+> 2. **侦察（Reconnaissance）** 从社区成员处收集量化和质性数据 → 可嵌入第一个核心混合方法设计
+> 3. **规划（Planning）** 寻找适合社区需求的模型或方案
+> 4. **实施与监控（Implementation & Monitoring）** 实施方案并持续监控
+> 5. **评价（Evaluation）** 收集并分析量化和质性数据以评价成效 → 可嵌入第二个核心混合方法设计
+> 6. **行动与改进（Action & Improvement）** 根据评价结果实施新模型，循环回到需求评估
 >
 > 在多个步骤中均有机会同时收集两种数据，并在这些步骤中嵌入核心混合方法设计（聚敛式、解释性序列或探索性序列）。整合发生在质性数据收集和发现与整体参与式过程的各个连接点上。
 

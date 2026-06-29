@@ -52,7 +52,7 @@ updated: '2026-05-18'
 ## 机构职能
 
 > [!abstract] 机构职能
-> Ofsted 的核心职能是**学校检查与评级**（school inspection and rating）。评级体系使用四级分类([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–18]])：
+> Ofsted 的核心职能是**学校检查与评级（school inspection and rating）**。评级体系使用四级分类([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–18]])：
 >
 > - **Outstanding**（杰出）
 > - **Good**（良好）

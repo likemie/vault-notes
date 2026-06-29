@@ -81,7 +81,7 @@ updated: 2026-06-21
 ### 比例的标准误
 
 > [!feature]
-> - **比例的标准误**（Standard Error of Proportions）：适用于分类或百分比数据。$[[School Effectiveness|SE]] = \sqrt{\frac{P \times Q}{N}}$，其中 $P$ 为某类别的百分比，$Q = 100\% - P$。通常在此基础上应用有限总体校正（finite population correction, fpc）：$fpc = \sqrt{1 - f}$，其中 $f$ 为样本占总体的比例。例如样本为 100（总总体 1,000），$f = 0.1$。
+> - **比例的标准误（Standard Error of Proportions）** 适用于分类或百分比数据。$[[School Effectiveness|SE]] = \sqrt{\frac{P \times Q}{N}}$，其中 $P$ 为某类别的百分比，$Q = 100\% - P$。通常在此基础上应用有限总体校正（finite population correction, fpc）：$fpc = \sqrt{1 - f}$，其中 $f$ 为样本占总体的比例。例如样本为 100（总总体 1,000），$f = 0.1$。
 
 ### 置信水平与置信区间
 

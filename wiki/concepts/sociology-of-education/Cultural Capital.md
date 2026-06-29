@@ -28,6 +28,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Cultural Barrier]]"
   - "[[Economy of Experience]]"
+  - "[[Soft Power]]"
   - "[[Credential Inflation]]"
 related_theories:
   - "[[Social Capital Theory]]"
@@ -88,9 +89,9 @@ updated: 2026-05-18
 
 Bourdieu 区分文化资本的三种存在形态：
 
-- **具身化文化资本（Embodied Cultural Capital）**：内化于个体身体和心智中的持久倾向——如语言能力、审美品味、行为举止、思考方式。它需要时间投入来累积，且无法像金钱那样即时传递。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第三章的核心关注正是家庭背景如何转化为这种"具身化的文化资本"——它表现为学生在大学中对[[Champ|场域]]规则的直觉性理解或不理解
-- **客体化文化资本（Objectified Cultural Capital）**：以物质对象形式存在的文化产品——如书籍、艺术品、工具等。拥有这些物品需要经济资本，但真正"占有"其文化意义则需要具身化文化资本
-- **制度化文化资本（Institutionalized Cultural Capital）**：以制度认可的资格形式存在的文化资本——如学历文凭、专业证书。这是文化资本最正式化的形态，赋予持有者在劳动力市场上公认的交换价值
+- **具身化文化资本（Embodied Cultural Capital）** 内化于个体身体和心智中的持久倾向——如语言能力、审美品味、行为举止、思考方式。它需要时间投入来累积，且无法像金钱那样即时传递。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第三章的核心关注正是家庭背景如何转化为这种"具身化的文化资本"——它表现为学生在大学中对[[Champ|场域]]规则的直觉性理解或不理解
+- **客体化文化资本（Objectified Cultural Capital）** 以物质对象形式存在的文化产品——如书籍、艺术品、工具等。拥有这些物品需要经济资本，但真正"占有"其文化意义则需要具身化文化资本
+- **制度化文化资本（Institutionalized Cultural Capital）** 以制度认可的资格形式存在的文化资本——如学历文凭、专业证书。这是文化资本最正式化的形态，赋予持有者在劳动力市场上公认的交换价值
 
 ---
 
@@ -112,7 +113,7 @@ Bourdieu 区分文化资本的三种存在形态：
 
 ### 资本化过程：家庭资源 → 大学场域中的文化资本
 
-[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在其"大学过程"[[Analytic Framework|分析框架]]中将文化资本的作用机制概念化为**资本化过程**（Capitalization Process）——家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑，构成三个嵌套过程中最外层的结构性约束([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在其"大学过程"[[Analytic Framework|分析框架]]中将文化资本的作用机制概念化为**资本化过程（Capitalization Process）**——家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑，构成三个嵌套过程中最外层的结构性约束([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 在 [[Goal-Controlled Mode]] 中，资本化过程表现为优势家庭将场域规则认知、策略思维和生涯规划意识作为具身化文化资本传递给子女；在 [[Intuition-Dependent Mode]] 中，资本化过程则体现为弱势家庭在这一传递链条上的断裂([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
@@ -136,9 +137,9 @@ Bourdieu 区分文化资本的三种存在形态：
 ## 争议与批评
 
 > [!warning]
-> - **概念边界模糊**：文化资本与人力资本、社会资本之间的区分在实际操作中并不总是清晰——具身化文化资本（如语言能力）在劳动力市场上同样可以被分析为人力资本，这引发了对概念必要性的质疑
-> - **经验测量困难**：如何定量测量具身化文化资本一直是经验研究的主要挑战。大部分[[Quantitative Research|定量研究]]只能以制度化文化资本（如父母学历）作为代理[[Variable|变量]]，这模糊了三种形态之间的理论区分
-> - **法国中心主义**：文化资本概念主要基于法国社会的经验发展，其"高雅文化"（high culture）预设在其他社会情境中可能不适用。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在中国语境中的[[Operationalization|操作化]]为跨情境应用提供了范例
+> - **概念边界模糊** 文化资本与人力资本、社会资本之间的区分在实际操作中并不总是清晰——具身化文化资本（如语言能力）在劳动力市场上同样可以被分析为人力资本，这引发了对概念必要性的质疑
+> - **经验测量困难** 如何定量测量具身化文化资本一直是经验研究的主要挑战。大部分[[Quantitative Research|定量研究]]只能以制度化文化资本（如父母学历）作为代理[[Variable|变量]]，这模糊了三种形态之间的理论区分
+> - **法国中心主义** 文化资本概念主要基于法国社会的经验发展，其"高雅文化"（high culture）预设在其他社会情境中可能不适用。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在中国语境中的[[Operationalization|操作化]]为跨情境应用提供了范例
 
 ---
 
@@ -146,7 +147,7 @@ Bourdieu 区分文化资本的三种存在形态：
 
 > [!example]
 > - [[Cultural Barrier]] — 文化障碍实质上是文化资本（尤其是具身化形态）在阶层间不均衡分布的直接后果
-> - [[Economy of Experience]] — 履历经济学揭示的"软实力"竞争，实质上是具身化文化资本在就业市场上被精细[[Coding in Qualitative Research|编码]]和定价的过程（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - [[Economy of Experience]] — 履历经济学揭示的"[[Soft Power|软实力]]"竞争，实质上是具身化文化资本在就业市场上被精细[[Coding in Qualitative Research|编码]]和定价的过程（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - [[Credential Inflation]] — 文凭通胀体现了制度化文化资本的兑换率随供给增加而下降的历史过程
 
 ---

@@ -19,12 +19,14 @@ tags:
   - european-integration
   - region/europe
   - theme/internationalization
-related_concepts: []
+related_concepts:
+  - "[[Heterogeneity]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Yu_Xie_2025_JHE]]"
 confidence: medium
 status: draft
 created: 2026-06-29
@@ -39,7 +41,7 @@ updated: 2026-06-29
 > - **时间** 1999年（博洛尼亚宣言签署）
 > - **地点** 欧洲（意大利博洛尼亚，最初29国签署）
 > - **关键主体** 欧洲各国教育部长、欧盟委员会、欧洲大学协会等区域治理机构
-> - **制度背景** 冷战后欧洲一体化进程加速，高等教育系统的高度异质性（学制长短不一、学位不互认、学分不可转换）成为学术流动和劳动力市场整合的结构性障碍。与此同时，全球化背景下欧洲高等教育整体竞争力面临来自美国和亚太地区的挑战。
+> - **制度背景** 冷战后欧洲一体化进程加速，高等教育系统的高度[[Heterogeneity|异质性]]（学制长短不一、学位不互认、学分不可转换）成为学术流动和劳动力市场整合的结构性障碍。与此同时，全球化背景下欧洲高等教育整体竞争力面临来自美国和亚太地区的挑战。
 > - **触发条件** 1998年索邦宣言（Sorbonne Declaration）和 1999年博洛尼亚宣言（Bologna Declaration）将建立欧洲高等教育区（European Higher Education Area, EHEA）提上正式议程。
 
 ---

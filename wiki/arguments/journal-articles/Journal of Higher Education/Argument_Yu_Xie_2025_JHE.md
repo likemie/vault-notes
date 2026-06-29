@@ -16,11 +16,59 @@ tags:
   - theme/geopolitics
   - theme/internationalization
   - source/journal-article
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Document]]"
+  - "[[Geopolitics of Higher Education]]"
+  - "[[Paradigm]]"
+  - "[[Ontology]]"
+  - "[[New Geopolitics]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Analytic Framework]]"
+  - "[[Epistemology]]"
+  - "[[Infrastructures of (Im)mobility]]"
+  - "[[Governmentality]]"
+  - "[[Knowledge Production]]"
+  - "[[Space Production in Higher Education]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Classical Geopolitics]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Cultural Diplomacy]]"
+  - "[[Global Citizenship]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Champ]]"
+  - "[[Scale in Higher Education]]"
+  - "[[Geopolitical Subject]]"
+  - "[[International Education]]"
+  - "[[Cultural Capital]]"
+  - "[[Assemblage]]"
+  - "[[Emergence]]"
+  - "[[Epistemic Governance]]"
+  - "[[Innovation Hub]]"
+  - "[[Soft Power]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Academic Freedom]]"
+  - "[[Knowledge Diplomacy]]"
+  - "[[Policy Network]]"
+  - "[[Relational Space]]"
+  - "[[Confucian Heritage Cultures]]"
+  - "[[Zero-Sum Competition]]"
+  - "[[Theoretical Standpoint]]"
+  - "[[Hypothesis]]"
+  - "[[Value Neutrality]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Literature Review]]"
+  - "[[Operationalization]]"
+related_theories:
+  - "[[Critical Geopolitics]]"
+  - "[[Dependency Theory]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Bologna Process]]"
+  - "[[Southeast Asian Higher Education Common Space]]"
+  - "[[Fulbright Program]]"
+  - "[[Academic Ranking of World Universities]]"
 related_arguments: []
 sources:
   - "[[Yu_Xie_2025_JHE]]"

@@ -81,8 +81,8 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **Qvortrup（支持方）**：批评者的反应不是基于对 Hattie 作品的准确理解，而是基于意识形态驱动的解释社群——将"[[Visible Learning|可见的学习]]（Visible Learning，VL）"扭曲为"反理论"的[[Positivism|实证主义]]([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4-5]])
-> - **教师与工会（批评方）**：改革与削减教师权利的立法同时推进，挑战了传统的教师角色；研究者的批评被用作反对改革政治议程的学术合法性来源([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
+> - **Qvortrup（支持方）** 批评者的反应不是基于对 Hattie 作品的准确理解，而是基于意识形态驱动的解释社群——将"[[Visible Learning|可见的学习]]（Visible Learning，VL）"扭曲为"反理论"的[[Positivism|实证主义]]([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4-5]])
+> - **教师与工会（批评方）** 改革与削减教师权利的立法同时推进，挑战了传统的教师角色；研究者的批评被用作反对改革政治议程的学术合法性来源([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
 > - 批评著作 *[[Hattie på dansk]]*（[[Hattie på dansk]]）在此争议背景下出版，汇集多篇强烈批评文章([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])
 
 ## 相关概念／理论

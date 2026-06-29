@@ -115,13 +115,13 @@ updated: '2026-05-18'
 >
 > e-asTTle 的报告功能包括学校和学生表现的图形仪表盘展示——与后来 VL 2008 年著作中采用的展示方式"非常相似"([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])。
 >
-> **2015 年 e-asTTle RFP 商业化**：2015 年底，新西兰教育部通过政府电子招标服务（GETS）发布招标书（RFP），寻找投资伙伴出资 USD 4–8M "现代化" e-asTTle。根据 RFP 条款，教育部将永留新西兰学校使用权，而投资伙伴将有权：（1）向新西兰学校收取 e-asTTle 测试费用以产生收入；（2）开发国际版本在海外市场销售([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.8–9]])。2016 年，教育部公开声明打算将 e-asTTle 作为"政府知识产权商业化"的试验案例——这一举措直接指向将公共教育 IP 转化为私人商业资产的路径([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47 脚注 46]])。
+> **2015 年 e-asTTle RFP 商业化** 2015 年底，新西兰教育部通过政府电子招标服务（GETS）发布招标书（RFP），寻找投资伙伴出资 USD 4–8M "现代化" e-asTTle。根据 RFP 条款，教育部将永留新西兰学校使用权，而投资伙伴将有权：（1）向新西兰学校收取 e-asTTle 测试费用以产生收入；（2）开发国际版本在海外市场销售([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.8–9]])。2016 年，教育部公开声明打算将 e-asTTle 作为"政府知识产权商业化"的试验案例——这一举措直接指向将公共教育 IP 转化为私人商业资产的路径([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47 脚注 46]])。
 >
 > #### 商标注册
 >
-> - **2006 年 4 月**：Auckland Uniservices Ltd 在新西兰注册 [[Visible Learning]] 商标（后于 2008 年"放弃"），同时创建 Visible Learning Labs，Hattie 任主任([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
-> - **2011–2012 年**：[[Cognition Education|Cognition Education Trust]] 在新西兰及国际上注册 Visible Learningplus 商标，标志描述为"VISIBLE LEARNING PLUS 字样，PLUS 以粗体上标形式出现，上方为风格化的人眼描绘"([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.48]])
-> - **2013 年**：Access Innovation Media Pty Ltd 在澳大利亚注册 Visible Classroom 商标，2014 年国际注册([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49]])
+> - **2006 年 4 月** Auckland Uniservices Ltd 在新西兰注册 [[Visible Learning]] 商标（后于 2008 年"放弃"），同时创建 Visible Learning Labs，Hattie 任主任([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
+> - **2011–2012 年**[[Cognition Education|Cognition Education Trust]] 在新西兰及国际上注册 Visible Learningplus 商标，标志描述为"VISIBLE LEARNING PLUS 字样，PLUS 以粗体上标形式出现，上方为风格化的人眼描绘"([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.48]])
+> - **2013 年** Access Innovation Media Pty Ltd 在澳大利亚注册 Visible Classroom 商标，2014 年国际注册([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49]])
 >
 > #### Bates 证词：商业化的启动
 >
@@ -151,10 +151,10 @@ updated: '2026-05-18'
 >
 > Cognition Education 的 VLplus 产品体系发展为三个系列共 16 个工作坊([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.67]])：
 >
-> - **Foundation 系列**：基础工作坊，介绍 VL 核心理念和 [[Effect Size|效应量]] 方法论
-> - **Inside 系列**：深入工作坊，针对具体教学实践领域
-> - **Collaborative Impact 系列**：学校整体改进工作坊
-> - **学校认证**：学校可申请被评估认证为 Visible Learning Impact Certified School
+> - **Foundation 系列** 基础工作坊，介绍 VL 核心理念和 [[Effect Size|效应量]] 方法论
+> - **Inside 系列** 深入工作坊，针对具体教学实践领域
+> - **Collaborative Impact 系列** 学校整体改进工作坊
+> - **学校认证** 学校可申请被评估认证为 Visible Learning Impact Certified School
 >
 > Cognition Education 同时运营 VLplus 在线"社区"（Newsfeeds、视频、博客）。姊妹产品 Culture Countsplus 与 Russell Bishop 教授合作开发([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.67]])。
 >
@@ -197,10 +197,10 @@ updated: '2026-05-18'
 > Hattie 与妻子 Janet Clinton 副教授和 Access Innovation Media 合作开发的教师反馈工具——教师自我录制课堂音频，由大学"专家"基于 VL 研究量规进行反馈，按服务收费([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.49–50]])：
 >
 > - **原始试点**（8 所学校）：由英国 [[Education Endowment Foundation|EEF]] 资助 GBP 360,000
-> - **扩展试验**：EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模效能试验
-> - **2015 年 1 月**：进入美国市场
-> - **2015 年 5 月**：墨尔本大学与 Ai-Media 签署五年全球协议
-> - **商标**：Visible Classroom 商标于 2013 年在澳大利亚注册（Access Innovation Media Pty Ltd），2014 年国际注册
+> - **扩展试验** EEF 委托 The Behavioural Insights Team 在 140 所学校进行更大规模效能试验
+> - **2015 年 1 月** 进入美国市场
+> - **2015 年 5 月** 墨尔本大学与 Ai-Media 签署五年全球协议
+> - **商标** Visible Classroom 商标于 2013 年在澳大利亚注册（Access Innovation Media Pty Ltd），2014 年国际注册
 >
 > 该产品将 VL 的"可见"逻辑延伸至教师劳动的实时监控——教师在课堂中的每一句话都可被录制、评分和反馈——是 [[Technical Rationality|技术理性]] 在教师专业发展领域最极致的商业应用([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.49–50]])。
 >
@@ -210,15 +210,15 @@ updated: '2026-05-18'
 >
 > #### 商业伙伴关系网络
 >
-> **ACEL（澳大利亚教育领导力委员会）**：ACEL 是澳大利亚最大的学校领导力专业协会。Hattie 自 2009 年起成为 ACEL 年会的主题演讲常客，由此建立了与澳大利亚学校行政层的制度化联系渠道([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])。
+> **ACEL（澳大利亚教育领导力委员会）** ACEL 是澳大利亚最大的学校领导力专业协会。Hattie 自 2009 年起成为 ACEL 年会的主题演讲常客，由此建立了与澳大利亚学校行政层的制度化联系渠道([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])。
 >
 > **ACEL–Corwin 合作伙伴关系（2015）**：2015 年，ACEL 与 Corwin Press 正式宣布合作伙伴关系，定期推广"Hattie 启发的 'Visible XXX' 工作坊"和系列出版物([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.780]])。这一联盟将专业协会的会员网络与出版商的商业分销渠道结合，形成自我强化的推广循环：ACEL 年会提供曝光 → Corwin 提供出版物和工作坊 → 学校采纳 → 品牌价值提升 → 更多年会曝光([[Argument_Eacott_2017_SLM|Eacott, 2017, pp.419–420]])。每一衍生品牌反过来强化 VL 核心品牌，形成正反馈循环([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])。
 >
-> **Cognition Education（初始培训提供商与商标持有者）**：VL 出版后至 2018 年初，由 Cognition Education 公司负责 VL 全球教师培训的传播和商业化运营([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33]])。
+> **Cognition Education（初始培训提供商与商标持有者）** VL 出版后至 2018 年初，由 Cognition Education 公司负责 VL 全球教师培训的传播和商业化运营([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33]])。
 >
-> **Visible Learning 实验室（奥克兰大学）**：提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。
+> **Visible Learning 实验室（奥克兰大学）** 提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。
 >
-> **墨尔本大学**：Hattie 于 2011 年转至墨尔本大学教育研究所后，该大学开发了 TeacherSelector 工具，声称以"[[Scientific Method|科学方法]]"评估和筛选潜在教师教育申请人——将"教学的科学"延伸至教师选拔和培训领域([[Argument_Eacott_2017_SLM|Eacott, 2017, p.420-421]])。
+> **墨尔本大学** Hattie 于 2011 年转至墨尔本大学教育研究所后，该大学开发了 TeacherSelector 工具，声称以"[[Scientific Method|科学方法]]"评估和筛选潜在教师教育申请人——将"教学的科学"延伸至教师选拔和培训领域([[Argument_Eacott_2017_SLM|Eacott, 2017, p.420-421]])。
 >
 > #### Hattie 的经济利益
 >
@@ -234,9 +234,9 @@ updated: '2026-05-18'
 >
 > Cognition Education Group 的财务数据反映了 VL 商业化的起伏([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.71–73]])：
 >
-> - **2010 年**：集团收入达 USD 69M 高点（海外市场成功），后全球金融危机期间收入减半以上至 **2015 年的 USD 28M**
-> - **2015 年**：Cognition Education Trust 权益为 USD 18.2M
-> - **2012–2014 年**：Cognition Education Limited 向 Trust 的捐赠显著增加（USD 2M–USD 3M/年），导致 Limited 公司连续年报亏损（从而零税负），而 Trust 的慈善捐赠从 2010 年的 USD 654,000 降至 2015 年的 USD 251,826——仅占当年 Cognition Education Group 总收入的 0.9%，引发对其慈善信托地位的质疑([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.71–73]])
+> - **2010 年** 集团收入达 USD 69M 高点（海外市场成功），后全球金融危机期间收入减半以上至 **2015 年的 USD 28M**
+> - **2015 年** Cognition Education Trust 权益为 USD 18.2M
+> - **2012–2014 年** Cognition Education Limited 向 Trust 的捐赠显著增加（USD 2M–USD 3M/年），导致 Limited 公司连续年报亏损（从而零税负），而 Trust 的慈善捐赠从 2010 年的 USD 654,000 降至 2015 年的 USD 251,826——仅占当年 Cognition Education Group 总收入的 0.9%，引发对其慈善信托地位的质疑([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.71–73]])
 >
 > ### 各国政策采纳
 >
@@ -249,8 +249,8 @@ updated: '2026-05-18'
 > - ERO 阐明有效教师的特征，强调灵活回应和差异化教学（ERO, cited in Sarbiewska, 2019, p.127）
 > - 新西兰教育部认可"分享权力和学习责任"（*Leading Innovative Learning in New Zealand Schools*, 2018, cited in Sarbiewska, 2019, p.125）
 > - 实施 [[The New Zealand Curriculum]]（2010），包含八项原则，各校设计独特学习项目；ERO 定期评估课程原则在课堂中的落实情况
-> - **2015 年 6 月**：Hattie 接受 RNZ *Nine to Noon* 采访，宣传 Pearson 发布的两篇思想领导力文章
-> - **2015 年 12 月**：ERO 国家报告 *Raising Student Achievement through Targeted Actions* 有利引用了这两篇文章([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.51]])
+> - **2015 年 6 月** Hattie 接受 RNZ *Nine to Noon* 采访，宣传 Pearson 发布的两篇思想领导力文章
+> - **2015 年 12 月** ERO 国家报告 *Raising Student Achievement through Targeted Actions* 有利引用了这两篇文章([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.51]])
 > - Cognition Education 的 VLplus 工作坊和学校认证在新西兰本土市场持续运营，与教育部合同形成协同([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.67–68]])
 >
 > 另见 [[Treasury Briefing on Student-Teacher Ratios]]——NZ Treasury 援引 VL 证据建议增加生师比的典型案例；[[New Zealand National Standards]]——Hattie 参与技术顾问的国家教育标准政策。
@@ -269,22 +269,22 @@ updated: '2026-05-18'
 >
 > **[[Australian Institute for Teaching and School Leadership|AITSL]] 制度嵌入**：Hattie 担任 AITSL 主席，其工作已深度嵌入：（1）澳大利亚教师和校长的国家专业标准；（2）年度绩效评估体系——要求员工通过数据展示其教学效果并识别改进领域；（3）持续认证体系——要求对照国家标准进行外部检查。
 >
-> **绩效薪酬的制度基础**：VL 的效应量评估体系为教师 绩效薪酬（merit pay）提供了技术基础——Hattie 被指控提倡与 VL 评估体系挂钩的教师绩效薪酬元素，但这与 VL 自身强调的"安全、信任的学校文化"构成内在矛盾([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.434–435]])。
+> **绩效薪酬的制度基础** VL 的效应量评估体系为教师 绩效薪酬（merit pay）提供了技术基础——Hattie 被指控提倡与 VL 评估体系挂钩的教师绩效薪酬元素，但这与 VL 自身强调的"安全、信任的学校文化"构成内在矛盾([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.434–435]])。
 >
-> **教师培训与注册体系中的创新抑制**：[[Argument_Blass_2020_JESP|Blass (2020, p.91)]]指出澳大利亚教师培训体系"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展（CPD）时数而非创新发展时数。在这一制度文化中，VL 被用作证明[[Direct Instruction|直接教学]]模式的"好借口"，从而抑制了对 [[Problem-Based Learning|PBL]] 和探究式学习等替代教学法的探索。Blass 总结："澳大利亚已在教育中[[Lost Mode|迷失]]了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意"([[Argument_Blass_2020_JESP|Blass, 2020, p.97]])。
+> **教师培训与注册体系中的创新抑制**[[Argument_Blass_2020_JESP|Blass (2020, p.91)]]指出澳大利亚教师培训体系"奖励 regulation 和 standardisation 而非创新"，教师注册委员会要求持续专业发展（CPD）时数而非创新发展时数。在这一制度文化中，VL 被用作证明[[Direct Instruction|直接教学]]模式的"好借口"，从而抑制了对 [[Problem-Based Learning|PBL]] 和探究式学习等替代教学法的探索。Blass 总结："澳大利亚已在教育中[[Lost Mode|迷失]]了方向，而 Hattie 被用作证明这一立场的挡箭牌。但我怀疑这不是 Hattie 的本意"([[Argument_Blass_2020_JESP|Blass, 2020, p.97]])。
 >
-> **两国共同实践——课程连接**：新西兰和澳大利亚学校均实践课程连接（curriculum connection），"有意识地维持各学习领域的严谨性，明确通过连接赋权学习而不失去个别学科的完整性"（ACARA, cited in Sarbiewska, 2019, p.128）。
+> **两国共同实践——课程连接** 新西兰和澳大利亚学校均实践课程连接（curriculum connection），"有意识地维持各学习领域的严谨性，明确通过连接赋权学习而不失去个别学科的完整性"（ACARA, cited in Sarbiewska, 2019, p.128）。
 >
 > #### 丹麦
 >
 > VL 在丹麦的传播经历了从政策采纳到激烈反弹的完整周期([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-5]])：
 >
-> - **翻译引入**：Hattie *Visible Learning for Teachers* 由 Niels Egelund 和 Qvortrup 撰写导言的丹麦语译本出版，将 VL 定位为 [[Evidence-Based Education|证据本位教育]] 在丹麦的里程碑事件([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])
-> - **2014 年政策采纳**：丹麦议会多数通过 公立学校改革，将科目目标替换为学习目标，明确引用 Hattie 和 VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
-> - **政策捆绑与阻力**：改革与对教师劳动协议的争议性立法干预高度绑定——改革在挑战传统教师角色的同时削减了教师的劳动权利([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
-> - **反弹与批评**：改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 解释社群——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk]] 汇集了多篇强烈批评文章([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
-> - **Qvortrup 的辩护**：2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的[[Hypothesis|假设]]"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
-> - **Laursen 的适用性检验**：[[Argument_Laursen_2015_Paideia|Laursen (2015)]] 从较温和的经验比较角度追问 Hattie、Meyer 和 Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 SFI 报告 和 Mehlbye 高绩效学校研究 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34–40]])
+> - **翻译引入** Hattie *Visible Learning for Teachers* 由 Niels Egelund 和 Qvortrup 撰写导言的丹麦语译本出版，将 VL 定位为 [[Evidence-Based Education|证据本位教育]] 在丹麦的里程碑事件([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])
+> - **2014 年政策采纳** 丹麦议会多数通过 公立学校改革，将科目目标替换为学习目标，明确引用 Hattie 和 VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
+> - **政策捆绑与阻力** 改革与对教师劳动协议的争议性立法干预高度绑定——改革在挑战传统教师角色的同时削减了教师的劳动权利([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
+> - **反弹与批评** 改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 解释社群——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk]] 汇集了多篇强烈批评文章([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
+> - **Qvortrup 的辩护** 2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的[[Hypothesis|假设]]"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
+> - **Laursen 的适用性检验**[[Argument_Laursen_2015_Paideia|Laursen (2015)]] 从较温和的经验比较角度追问 Hattie、Meyer 和 Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 SFI 报告 和 Mehlbye 高绩效学校研究 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34–40]])
 >
 > #### 瑞典
 >
@@ -307,11 +307,11 @@ updated: '2026-05-18'
 >
 > [[Visible Learning|VL]] 品牌对学术批评表现出显著的免疫力。尽管存在 Higgins & Simpson (2011)、Snook et al. (2009, 2010)、[[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]] 等实质性方法论批评，Hattie 的工作仍"被政治家和协会引用时仿佛是不容置疑的事实"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。
 >
-> **出版过程的双重标准**：[[Argument_Hattie_2017_SLM|Hattie (2017)]]对 Eacott 的回应被 *[[School Leadership]] & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 大师地位 被编辑合法化的主张的证据"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。
+> **出版过程的双重标准**[[Argument_Hattie_2017_SLM|Hattie (2017)]]对 Eacott 的回应被 *[[School Leadership]] & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 大师地位 被编辑合法化的主张的证据"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。
 >
-> **Hattie 本人的距离感**：Hattie 已在某种程度上与 VL 的被运用方式保持距离，表示如果重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.35）。然而，[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020, p.35)]]指出 VL"作为一种与更广泛社会和政治力量纠缠的现象"已不完全受 Hattie 个人控制。
+> **Hattie 本人的距离感** Hattie 已在某种程度上与 VL 的被运用方式保持距离，表示如果重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.35）。然而，[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020, p.35)]]指出 VL"作为一种与更广泛社会和政治力量纠缠的现象"已不完全受 Hattie 个人控制。
 >
-> **一线反弹**：[[Argument_Eacott_2019_IJLE|Eacott (2019, p.776)]]报告其 2017 年 [[Cult of the Guru]] 论文发表后下载超过 1000 次，持续收到来自学校一线教育者的邮件分享"大师崇拜对其工作的影响"故事——表明 VL 品牌的霸权性存在已引发广泛的一线反弹，但反弹主要以私人邮件而非公开辩论的形式表达。
+> **一线反弹**[[Argument_Eacott_2019_IJLE|Eacott (2019, p.776)]]报告其 2017 年 [[Cult of the Guru]] 论文发表后下载超过 1000 次，持续收到来自学校一线教育者的邮件分享"大师崇拜对其工作的影响"故事——表明 VL 品牌的霸权性存在已引发广泛的一线反弹，但反弹主要以私人邮件而非公开辩论的形式表达。
 >
 > ### 政策误用与制度批评
 >
@@ -358,10 +358,10 @@ updated: '2026-05-18'
 >
 > [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]在四角度系统批判中专门追踪了 VL 的新自由主义商业化维度：
 >
-> - **利益冲突判断**：Hattie 同时在 Cognition Trust 董事会任职并从 VL 商业化中获取版税——"If not a conflict of interest, the optics are at best ambiguous"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31]])
-> - **班级规模作为新自由主义工具**：论证 Hattie 对 [[Class Size|班级规模]] 的处理（"does not matter"）直接服务于 [[Global Education Reform Movement|GERM]] 的紧缩议程——词频分析显示"class size"在 VL 中出现 95 次（vs 排名第一的"self-reported grades"仅 6 次），在至少 16 个章节中被反复讨论([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31-32]])
-> - **"饥饿-危机-私有化"循环**：Johnson & Janzen 将此置于 GERM 的更宏观框架中——削减公共系统资金->系统失效->归咎低效->施加问责与进一步削减->制造混乱->以"拯救危机"为名推动私有化（Klees, 2020; Parker, 2017; Tuck, 2017）([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31]])
-> - **整体定性**：VL 是"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.35]])。VL 是"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.30]])
+> - **利益冲突判断** Hattie 同时在 Cognition Trust 董事会任职并从 VL 商业化中获取版税——"If not a conflict of interest, the optics are at best ambiguous"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31]])
+> - **班级规模作为新自由主义工具** 论证 Hattie 对 [[Class Size|班级规模]] 的处理（"does not matter"）直接服务于 [[Global Education Reform Movement|GERM]] 的紧缩议程——词频分析显示"class size"在 VL 中出现 95 次（vs 排名第一的"self-reported grades"仅 6 次），在至少 16 个章节中被反复讨论([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31-32]])
+> - **"饥饿-危机-私有化"循环** Johnson & Janzen 将此置于 GERM 的更宏观框架中——削减公共系统资金->系统失效->归咎低效->施加问责与进一步削减->制造混乱->以"拯救危机"为名推动私有化（Klees, 2020; Parker, 2017; Tuck, 2017）([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.31]])
+> - **整体定性** VL 是"a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.35]])。VL 是"a dubious mishmash of research of unknown quality, statistical juggling, and the author's self-assured opinion"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.30]])
 
 ## 争议与评论
 

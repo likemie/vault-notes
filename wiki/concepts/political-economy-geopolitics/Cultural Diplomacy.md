@@ -20,6 +20,7 @@ tags:
 - level/higher-ed
 - theme/geopolitics
 related_concepts:
+  - "[[Soft Power]]"
   - "[[International Education Hubs]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"

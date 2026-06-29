@@ -21,6 +21,7 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Employability]]"
   - "[[Cultural Capital]]"
+  - "[[Soft Power]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Causality]]"

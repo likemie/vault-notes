@@ -48,9 +48,9 @@ updated: 2026-06-01
 
 观察协议包含三类信息（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
-**基本信息**：记录观察的时间、地点、日期等人口学信息。
+**基本信息** 记录观察的时间、地点、日期等人口学信息。
 
-**描述性笔记（Descriptive Notes）**：记录在左侧，包括：
+**描述性笔记（Descriptive Notes）** 记录在左侧，包括：
 - 参与者的画像（portraits of the participants）
 - 对话的重构（reconstruction of dialogue）
 - 物理环境的描述（description of the physical setting）

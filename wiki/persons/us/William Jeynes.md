@@ -47,10 +47,10 @@ updated: 2026-06-17
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置**：美国保守派教育学者、[[Meta-analysis|元分析]]专家，同时为福音派传教士与“上帝之爱事工”（God's Love Ministries）创始人。曾任教于美国多所大学，并在共和党内拥有深厚的政策影响力，曾位列唐纳德·特朗普（Donald Trump）政府教育部长候选人名单中。
-> - **为什么值得建条目**：他是《[[Visible Learning|VL]]》（Visible Learning）中被引用率最高的元分析作者之一（共有 8 项元分析被[[John Hattie|约翰·哈蒂]]（John Hattie）采纳）。其关于[[Whole Language|全语言]]（Whole Language）的元分析结论（d = -0.65）引发了学术界的激烈交锋，并成为“阅读战争”（Reading Wars）与保守派教育政策制定的核心实证支柱之一。
-> - **代表贡献**：主持了针对低社会经济地位（Socioeconomic Status, SES）学童的全语言元分析（Jeynes & Littell, 2000，见 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145-146]]），并对“纯粹全语言”（Pure Whole Language）提出了极具争议的划界与统计。
-> - **阅读边界**：本页关注他在全语言评估中的方法论特征、数据争议、以及其学术研究背后的宗教与政治意识形态偏见。
+> - **身份位置** 美国保守派教育学者、[[Meta-analysis|元分析]]专家，同时为福音派传教士与“上帝之爱事工”（God's Love Ministries）创始人。曾任教于美国多所大学，并在共和党内拥有深厚的政策影响力，曾位列唐纳德·特朗普（Donald Trump）政府教育部长候选人名单中。
+> - **为什么值得建条目** 他是《[[Visible Learning|VL]]》（Visible Learning）中被引用率最高的元分析作者之一（共有 8 项元分析被[[John Hattie|约翰·哈蒂]]（John Hattie）采纳）。其关于[[Whole Language|全语言]]（Whole Language）的元分析结论（d = -0.65）引发了学术界的激烈交锋，并成为“阅读战争”（Reading Wars）与保守派教育政策制定的核心实证支柱之一。
+> - **代表贡献** 主持了针对低社会经济地位（Socioeconomic Status, SES）学童的全语言元分析（Jeynes & Littell, 2000，见 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145-146]]），并对“纯粹全语言”（Pure Whole Language）提出了极具争议的划界与统计。
+> - **阅读边界** 本页关注他在全语言评估中的方法论特征、数据争议、以及其学术研究背后的宗教与政治意识形态偏见。
 
 > [!citation-card]- 人物定位的关键来源
 > “杰尼斯的出版物（其中八篇被用于《VL》）包括：‘公立学校、公立[[Partnership Schools Kura Hourua|特许学校]]和私立宗教学校对学生成绩影响的元分析’……在接受杰尼斯对全语言的 -0.65 [[Effect Size|效应量]]之前，哈蒂本应考虑作者的潜在偏见是否在研究的选择与解释中发挥了作用。” ([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])
@@ -62,8 +62,8 @@ updated: 2026-06-17
 ## 贡献地图
 
 > [!contribution-map] 贡献地图
-> - **方法贡献**：[[Meta-analysis|元分析]] — 运用元分析方法对低社会经济地位学童的阅读干预进行合成，但在分类[[Coding in Qualitative Research|编码]]上引入了高度主观的四个分类（纯粹、特定、广泛、折衷）。
-> - **制度／政策影响**：[[No Child Left Behind Act 2001]] — 其研究为美国 2000 年代初小布什政府推行排斥[[Whole Language|全语言]]、强制系统拼读的法案提供了保守派实证依据。
+> - **方法贡献**[[Meta-analysis|元分析]] — 运用元分析方法对低社会经济地位学童的阅读干预进行合成，但在分类[[Coding in Qualitative Research|编码]]上引入了高度主观的四个分类（纯粹、特定、广泛、折衷）。
+> - **制度／政策影响**[[No Child Left Behind Act 2001]] — 其研究为美国 2000 年代初小布什政府推行排斥[[Whole Language|全语言]]、强制系统拼读的法案提供了保守派实证依据。
 
 ---
 

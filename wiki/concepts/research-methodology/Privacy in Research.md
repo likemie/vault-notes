@@ -59,11 +59,11 @@ updated: 2026-06-22
 > [!feature] 隐私的三个维度
 > Diener & Crandall (1978) 从三个视角考虑隐私（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 99–100]]）：
 
-1. **信息的敏感性（Sensitivity of information）**：信息越个人化或潜在威胁性越强，需要的保护措施越多。宗教偏好、性行为、收入、种族偏见等比"姓名、军衔和序列号"更敏感（American Psychological Association, 1973）。敏感性越高，对参与者隐私保护的保障措施就越多
+1. **信息的敏感性（Sensitivity of information）** 信息越个人化或潜在威胁性越强，需要的保护措施越多。宗教偏好、性行为、收入、种族偏见等比"姓名、军衔和序列号"更敏感（American Psychological Association, 1973）。敏感性越高，对参与者隐私保护的保障措施就越多
 
-2. **被观察的场所（Setting being observed）**：场所从完全私密（家庭）变化到完全公共。家庭被认为是最私密的场所之一，未经同意侵入他人住宅是法律禁止的。研究者在选择观察场所时必须评估其私密程度
+2. **被观察的场所（Setting being observed）** 场所从完全私密（家庭）变化到完全公共。家庭被认为是最私密的场所之一，未经同意侵入他人住宅是法律禁止的。研究者在选择观察场所时必须评估其私密程度
 
-3. **信息的传播（Dissemination of information）**：涉及将个人信息与参与者身份匹配的能力。个人数据在法律上被定义为能单独识别提供者身份的数据。当此类信息通过媒体以姓名公开时，隐私被严重侵犯。能获知该信息的人越多，对隐私的关注就越大
+3. **信息的传播（Dissemination of information）** 涉及将个人信息与参与者身份匹配的能力。个人数据在法律上被定义为能单独识别提供者身份的数据。当此类信息通过媒体以姓名公开时，隐私被严重侵犯。能获知该信息的人越多，对隐私的关注就越大
 
 > [!info] 隐私作为基本价值
 > 隐私是一项基本价值（Caplan, 1982, p. 320），与自决权一样"胜过"功利主义计算（Howe & Moses, 1999, p. 24）。隐私意味着一个人有权不参与研究、不回答问题、不接受访谈、不被侵入家庭、不接电话或邮件、在自己的私人场所从事私人行为而不必担心被观察。这是"免于"的自由（freedom from）以及"去做"的自由（freedom for）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 100]]）。

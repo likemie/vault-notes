@@ -21,6 +21,14 @@ tags:
   - policy/academic-excellence
   - level/higher-education
   - region/russia
+related_concepts:
+  - "[[Internationalization of Higher Education]]"
+  - "[[Performance Indicators]]"
+  - "[[Scientific Autarky]]"
+related_facts:
+  - "[[Academic Ranking of World Universities]]"
+related_arguments:
+  - "[[Argument_Dezhina_2022_ECO]]"
 confidence: medium
 status: draft
 created: '2026-06-26'
@@ -37,7 +45,7 @@ updated: '2026-06-26'
 > - **发布时间 / 发布主体** 由俄罗斯联邦政府和教育科学部于2013年启动实施，执行期至2020年 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。
 > - **适用地区 / 对象** 覆盖俄罗斯境内的21所入选的顶尖研究型大学 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。
 > - **问题背景** 回应苏联解体后俄罗斯高等教育在国际大学排行榜中的低迷状态，试图通过财政支持提升其国际竞争力和全球学术声誉。
-> - **制度位置** 是俄罗斯高等教育国际化和现代化改革的核心抓手，直接关联国家科技创新战略。
+> - **制度位置** 是俄罗斯[[Internationalization of Higher Education|高等教育国际化]]和现代化改革的核心抓手，直接关联国家科技创新战略。
 
 ---
 
@@ -49,7 +57,7 @@ updated: '2026-06-26'
 > [!policy-design]- 政策设计
 > - **目标** 提升俄罗斯科研型大学的国际排名，实现高等教育的全球突围。
 > - **对象** 入选计划的21所俄罗斯高校（包括高等经济学院、新西伯利亚国立大学等）。
-> - **工具** 大规模的联邦政府专项经费资助，将外籍专家和留学生比例、国际合著论文数等指标作为高校的核心KPI（关键绩效指标） [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。
+> - **工具** 大规模的联邦政府专项经费资助，将外籍专家和留学生比例、国际合著论文数等指标作为高校的核心KPI（关键[[Performance Indicators|绩效指标]]） [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。
 > - **约束方式** 竞争性选拔与定期评估机制，实施差异化经费支持。
 
 ---
@@ -82,7 +90,7 @@ updated: '2026-06-26'
 > [!indicators]- 评价指标
 > - **投入指标** 联邦政府拨付的数十亿卢布专项发展经费。
 > - **过程指标** 外籍教师占学术人员比例、国际合著论文发表率 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。
-> - **结果指标** 大学在QS、THE、ARWU三大全球排名的名次变化。
+> - **结果指标** 大学在QS、THE、[[Academic Ranking of World Universities|ARWU]]三大全球排名的名次变化。
 
 > [!finding-cards] 效果与评价
 > - **国际人才吸引成效有限且极不均衡** 在参与的21所高校中，最终仅有5所大学的外籍专家（含海外获得PhD的俄罗斯公民）比例超过10%，且人才吸引力仍处于较低层级 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。

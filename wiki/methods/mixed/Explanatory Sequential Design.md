@@ -60,19 +60,19 @@ updated: 2026-06-02
 
 ### 核心价值：先看现象，再问原因
 该设计的核心逻辑是**先看什么，再问为什么**。量化阶段揭示现象的统计模式和[[Variable|变量]]关系，质性阶段则深入参与者视角，解释这些模式背后的意义、机制与过程。其整合洞见体现为：
-- **深度解释**：对统计关系中的为什么和如何发生提供质性说明。
-- **后续跟进**：对意外、反常或显著的群体差异进行针对性探索。
-- **机制阐述**：在量化模式与质性解释之间建立对话，而非仅仅是数据的简单叠加。
+- **深度解释** 对统计关系中的为什么和如何发生提供质性说明。
+- **后续跟进** 对意外、反常或显著的群体差异进行针对性探索。
+- **机制阐述** 在量化模式与质性解释之间建立对话，而非仅仅是数据的简单叠加。
 
 ---
 
 ## 2. 适用场景
 
 解释性序列设计尤其适合以下情境([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])：
-- **需要深度解释**：预期量化阶段会产生需要解释的发现（如显著但缺乏理论解释的相关性、意外的群体差异）。
-- **方法偏好**：研究者更熟悉量化方法，将质性阶段作为[[Quantitative Research|量化研究]]的补充与深化。
-- **资源顺序分配**：研究资源允许两个阶段依次进行，量化分析为质性设计提供方向。
-- **受众需求**：目标受众更青睐以量化发现为前导、质性解释为支撑的论证结构。
+- **需要深度解释** 预期量化阶段会产生需要解释的发现（如显著但缺乏理论解释的相关性、意外的群体差异）。
+- **方法偏好** 研究者更熟悉量化方法，将质性阶段作为[[Quantitative Research|量化研究]]的补充与深化。
+- **资源顺序分配** 研究资源允许两个阶段依次进行，量化分析为质性设计提供方向。
+- **受众需求** 目标受众更青睐以量化发现为前导、质性解释为支撑的论证结构。
 
 ---
 
@@ -96,10 +96,10 @@ updated: 2026-06-02
 
 ### 4.2 执行程序：四阶段基本流程
 操作逻辑为先量化、后质性、以质性解释量化：
-1. **第一量化阶段**：使用量化工具（如调查问卷）从大样本收集数据，产出[[Descriptive Analysis|描述统计]]、相关性或回归模型等结果。
-2. **中间过渡阶段**：识别量化结果中需要深入解释的关键点（如意外结果、显著差异、异常值）。
-3. **第二质性阶段**：基于量化发现，有目的地选择参与者（[[Purposeful Sampling]]），通过访谈或[[Case Study|案例研究]]探索背后的过程与机制。
-4. **整合解释**：将质性解释与量化结果对接，形成量化模式 + 质性机制的完整解释链。
+1. **第一量化阶段** 使用量化工具（如调查问卷）从大样本收集数据，产出[[Descriptive Analysis|描述统计]]、相关性或回归模型等结果。
+2. **中间过渡阶段** 识别量化结果中需要深入解释的关键点（如意外结果、显著差异、异常值）。
+3. **第二质性阶段** 基于量化发现，有目的地选择参与者（[[Purposeful Sampling]]），通过访谈或[[Case Study|案例研究]]探索背后的过程与机制。
+4. **整合解释** 将质性解释与量化结果对接，形成量化模式 + 质性机制的完整解释链。
 
 ### 4.3 整合工具：联合展示 (Joint Display)
 整合分析通过[[Joint Display|联合展示]]将量化结果与质性后续主题并列，反映量化在先、质性在后的逻辑([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.240–241]])。
@@ -115,7 +115,7 @@ updated: 2026-06-02
 | **中分组结果** | 主题 4 | 解释中等水平的特定情境原因 |
 | **低分组结果** | 主题 5、6 | 解释低分背后的障碍或过程 |
 
-**特别注意**：质性样本必须是量化样本的**子集**。由于样本重叠，两个阶段完成后不建议再进行额外的统计比较。
+**特别注意** 质性样本必须是量化样本的**子集**。由于样本重叠，两个阶段完成后不建议再进行额外的统计比较。
 
 ---
 
@@ -124,14 +124,14 @@ updated: 2026-06-02
 在使用解释性序列设计时，需注意以下挑战([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.239–242]])：
 
 ### 局限性 (Limitations)
-- **时间依赖性**：阶段必须依次进行，总体研究周期较长。
-- **样本损耗风险**：若量化样本参与质性后续的意愿低，会导致筛选困难。
-- **整合焦点模糊**：若量化阶段未产生明确的待解释发现，质性阶段会缺乏聚焦。
+- **时间依赖性** 阶段必须依次进行，总体研究周期较长。
+- **样本损耗风险** 若量化样本参与质性后续的意愿低，会导致筛选困难。
+- **整合焦点模糊** 若量化阶段未产生明确的待解释发现，质性阶段会缺乏聚焦。
 
 ### 效度威胁 (Validity Threats)
-- **跟进选项不全**：研究者应全面评估量化结果中所有值得解释的维度（异常值、显著差异等），而非仅盯住单一维度。
-- **忽略机制解释**：过度关注人口学[[Variable|变量]]差异，而忽略了对[[Causality|因果]]机制或中介过程的深入探究。
-- **样本不一致**：若质性参与者不来自量化样本内部，将削弱两个阶段之间的逻辑关联。
+- **跟进选项不全** 研究者应全面评估量化结果中所有值得解释的维度（异常值、显著差异等），而非仅盯住单一维度。
+- **忽略机制解释** 过度关注人口学[[Variable|变量]]差异，而忽略了对[[Causality|因果]]机制或中介过程的深入探究。
+- **样本不一致** 若质性参与者不来自量化样本内部，将削弱两个阶段之间的逻辑关联。
 
 ---
 
@@ -153,10 +153,10 @@ updated: 2026-06-02
 > **完整[[Purpose Statement|目的陈述]] (Full Purpose Statement)**：
 > "The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative [[Case Study]] analysis. In the first, quantitative phase of the study, the [[Research Question|research questions]] focused on how selected internal and external [[Variable|variables]] to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students' persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests." (p.95)
 > 
-> **中文译文**：
+> **中文译文**
 > 这项[[Mixed Methods Research|混合方法]]序列解释性研究的目的是，通过对 278 名在校生和往届生进行问卷调查获取量化结果，随后对四名有目的地选择的个体进行跟进，通过质性案例研究分析深入探索这些结果，从而识别促进学生在 ELHE 项目中持续就学的因素。在研究的第一阶段（量化阶段），[[Research Question|研究问题]]聚焦于 ELHE 项目选定的内部和外部[[Variable|变量]]（项目相关、导师与教师相关、机构相关、学生相关因素及外部因素）如何作为学生在该项目持续就学的预测因子。在第二阶段（质性阶段），通过针对不同参与者群体的四个案例研究，深入探索了统计检验的结果。
 >
-> **要素对照表**：
+> **要素对照表**
 >
 > | 要素 | 在陈述中的体现 |
 > | :--- | :--- |

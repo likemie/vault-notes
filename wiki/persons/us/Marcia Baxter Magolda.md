@@ -47,9 +47,9 @@ updated: '2026-06-08'
 > [!info] [[Self-Authorship|自我主导性]]理论
 > Baxter Magolda 的自我主导性理论描述个体从依赖外部权威到依据内在声音主导自身发展的成熟过程。达到自我主导性的个体具备三个维度的整合能力（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Baxter Magolda & King, 2012）：
 >
-> - **认知维度（Cognitive/Epistemological）**：基于自我选择的信念体系做出判断，而非单纯依赖外部权威——"我如何看待知识和我所知"
-> - **自我认同维度（Intrapersonal）**：形成内在整合的自我感，而非被外部期望所定义——"我如何看待自己"
-> - **人际关系维度（Interpersonal）**：维持真实的亲密关系而不丧失自我边界——"我如何看待与他人的关系"
+> - **认知维度（Cognitive/Epistemological）** 基于自我选择的信念体系做出判断，而非单纯依赖外部权威——"我如何看待知识和我所知"
+> - **自我认同维度（Intrapersonal）** 形成内在整合的自我感，而非被外部期望所定义——"我如何看待自己"
+> - **人际关系维度（Interpersonal）** 维持真实的亲密关系而不丧失自我边界——"我如何看待与他人的关系"
 >
 > > "[[Goal-Controlled Mode|目标掌控模式]]"中的"掌控"一词，含有该理论所指涉的自我主导之意([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 >

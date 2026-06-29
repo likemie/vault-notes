@@ -30,6 +30,7 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Value Neutrality]]"
   - "[[Hegemony]]"
+  - "[[Soft Power]]"
   - "[[Bildung]]"
   - "[[Zhonghua Minzu]]"
   - "[[Confucian Heritage Cultures]]"

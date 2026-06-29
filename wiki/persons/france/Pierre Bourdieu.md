@@ -190,7 +190,7 @@ Bourdieu 的社会理论包含一套系统的[[Epistemology|认识论]]预备。
 
 - **[[Epistemological Break|认识论断裂]]**：科学研究必须与日常语言、自发理解和既有分类决裂，否则只是认可 doxa([[Argument_Eacott_2015_EPT|Eacott, 2015, p.320]])。
 - **[[Epistemological Vigilance|认识论警觉]]**：社会科学研究者必须持续警惕日常语言和熟悉经验对研究对象建构的渗透([[Argument_Eacott_2015_EPT|Eacott, 2015, pp.322–323]])。
-- **对象建构的反思**：关键不是是否建构对象，而是研究者是否知道自己正在建构，并把建构过程本身纳入分析([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])。
+- **对象建构的反思** 关键不是是否建构对象，而是研究者是否知道自己正在建构，并把建构过程本身纳入分析([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])。
 
 ---
 
@@ -213,33 +213,33 @@ Bourdieu 的社会理论包含一套系统的[[Epistemology|认识论]]预备。
 
 ### 1958–1970 — 阿尔及利亚田野与教育再生产
 
-- **核心著作**：*Sociologie de l'Algérie*（1958）、*Les Héritiers*（1964）、*La Reproduction*（1970）
-- **思想发展**：阿尔及利亚战争时期的[[Ethnography|民族志]]田野是 Bourdieu 从哲学转向社会学的决定性经历。Kabylie 村庄的社会组织（荣誉交换、婚姻策略、亲属关系）为其后来的实践理论提供了核心经验材料。返回法国后，将分析焦点转向教育系统，与 Passeron 合作揭示了学校教育如何将社会阶层的不平等转化为被自然化的学业成就差异——教育系统不是社会流动的引擎，而是社会再生产的合法化装置。
-- **相关概念／理论**：[[Cultural Capital]]、[[Habitus]]、符号暴力
+- **核心著作** *Sociologie de l'Algérie*（1958）、*Les Héritiers*（1964）、*La Reproduction*（1970）
+- **思想发展** 阿尔及利亚战争时期的[[Ethnography|民族志]]田野是 Bourdieu 从哲学转向社会学的决定性经历。Kabylie 村庄的社会组织（荣誉交换、婚姻策略、亲属关系）为其后来的实践理论提供了核心经验材料。返回法国后，将分析焦点转向教育系统，与 Passeron 合作揭示了学校教育如何将社会阶层的不平等转化为被自然化的学业成就差异——教育系统不是社会流动的引擎，而是社会再生产的合法化装置。
+- **相关概念／理论**[[Cultural Capital]]、[[Habitus]]、符号暴力
 
 ---
 
 ### 1972–1980 — 实践理论的建构
 
-- **核心著作**：*Esquisse d'une théorie de la pratique*（1972）、*Le Sens pratique*（1980）
-- **思想发展**：以 Kabylie 民族志为基础，Bourdieu 系统发展[[Habitus|习性]]概念以超越[[Subjectivism|主观主义]]（萨特式自由主体）与[[Objectivism|客观主义]]（Lévi-Strauss 式无主体结构）的二元对立。*Le Sens pratique* 进一步引入"实践感"概念，将时间性、模糊性和策略性纳入实践分析，批判[[Rational Action Theory|理性选择理论]]将实践简化为有意识的成本收益计算。
-- **相关概念／理论**：[[Habitus]]、实践感、策略
+- **核心著作** *Esquisse d'une théorie de la pratique*（1972）、*Le Sens pratique*（1980）
+- **思想发展** 以 Kabylie 民族志为基础，Bourdieu 系统发展[[Habitus|习性]]概念以超越[[Subjectivism|主观主义]]（萨特式自由主体）与[[Objectivism|客观主义]]（Lévi-Strauss 式无主体结构）的二元对立。*Le Sens pratique* 进一步引入"实践感"概念，将时间性、模糊性和策略性纳入实践分析，批判[[Rational Action Theory|理性选择理论]]将实践简化为有意识的成本收益计算。
+- **相关概念／理论**[[Habitus]]、实践感、策略
 
 ---
 
 ### 1979–1992 — 文化社会学与场域分析的成熟
 
-- **核心著作**：*La Distinction*（1979）、*Homo academicus*（1984）、*Choses dites*（1987）、*La Noblesse d'État*（1989）、*Les Règles de l'art*（1992）
-- **思想发展**：*La Distinction* 通过对法国社会的大规模经验调查，建立了以资本总量和资本结构为两轴的社会空间模型，将品味从个人特质重新概念化为阶层位置的符号表达。*Choses dites*（1987）明确宣告"结构主义建构论"立场和 [(习性)(资本)] + [[Champ|场域]] = 实践 的操作公式。*Homo academicus* 将分析工具转向自身所在场域。*Les Règles de l'art* 以福楼拜和 19 世纪法国文学场域的诞生为精细案例，展示场域自主性的历史生成过程。
-- **相关概念／理论**：[[Champ]]、[[Doxa]]、反思性社会学
+- **核心著作** *La Distinction*（1979）、*Homo academicus*（1984）、*Choses dites*（1987）、*La Noblesse d'État*（1989）、*Les Règles de l'art*（1992）
+- **思想发展** *La Distinction* 通过对法国社会的大规模经验调查，建立了以资本总量和资本结构为两轴的社会空间模型，将品味从个人特质重新概念化为阶层位置的符号表达。*Choses dites*（1987）明确宣告"结构主义建构论"立场和 [(习性)(资本)] + [[Champ|场域]] = 实践 的操作公式。*Homo academicus* 将分析工具转向自身所在场域。*Les Règles de l'art* 以福楼拜和 19 世纪法国文学场域的诞生为精细案例，展示场域自主性的历史生成过程。
+- **相关概念／理论**[[Champ]]、[[Doxa]]、反思性社会学
 
 ---
 
 ### 1993–2002 — 公共介入与晚期反思
 
-- **核心著作**：*La Misère du monde*（1993）、*Méditations pascaliennes*（1997）、*La Domination masculine*（1998）
-- **思想发展**：晚期 Bourdieu 从学术分析加速转向公共干预。*La Misère du monde* 以社会学家访谈的形式呈现新自由主义政策的多重社会苦难。*Méditations pascaliennes* 深入哲学反思，以 Pascal 为精神标志阐述 [[Doxa]]、符号暴力和反思性概念。*La Domination masculine* 回到 Kabylie 民族志材料，分析男性支配如何通过身体化和社会制度被自然化。临终前完成的 *Esquisse pour une auto-analyse* 运用自身理论工具分析自身社会轨迹——反思性社会学的最终实践。
-- **相关概念／理论**：新自由主义批判、公共社会学、反思性社会学
+- **核心著作** *La Misère du monde*（1993）、*Méditations pascaliennes*（1997）、*La Domination masculine*（1998）
+- **思想发展** 晚期 Bourdieu 从学术分析加速转向公共干预。*La Misère du monde* 以社会学家访谈的形式呈现新自由主义政策的多重社会苦难。*Méditations pascaliennes* 深入哲学反思，以 Pascal 为精神标志阐述 [[Doxa]]、符号暴力和反思性概念。*La Domination masculine* 回到 Kabylie 民族志材料，分析男性支配如何通过身体化和社会制度被自然化。临终前完成的 *Esquisse pour une auto-analyse* 运用自身理论工具分析自身社会轨迹——反思性社会学的最终实践。
+- **相关概念／理论** 新自由主义批判、公共社会学、反思性社会学
 
 ---
 
@@ -278,9 +278,9 @@ Bourdieu 的社会理论包含一套系统的[[Epistemology|认识论]]预备。
 [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]在分析高等教育的新政治经济学时，展示了 Bourdieu 的理论工具如何被重新运用于理解当代学术界的竞争转型和新封建式等级（pp.797–799, 805–806）：
 
 - **符号商品与[[Non-monetary Competition|非货币竞争]]**：Bourdieu（1984）的符号商品概念——声望、认可、区隔——被用于解释高等教育中[[Non-monetary Competition|非货币竞争]]的核心逻辑。学术界的竞争不围绕价格和利润展开（如常规市场），而是围绕符号商品——排名、引用数、学术头衔、机构声望——这些商品的价值来自学科共同体和更广泛公众的集体信念([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–798]])
-- **学术阶级分数**（fractions of the academic class）：*Homo Academicus* 中发展的"学术阶级分数"理论在当代高等教育研究中被重新激活。Möller（2015）和 Graf（2015）运用这一框架对德国教授和学术官员进行了实证研究，揭示了不同学术阶级分数的差异化再生产模式和与统治阶级的关系——一些分数专注于学术资本的积累（研究声望），另一些则通过行政权力和外部网络来维持地位([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
-- **学术依附与忠诚关系的重构**：Bourdieu 对学术世界中个人化依附关系的分析——导师-弟子关系、学派忠诚、学科内部的庇护网络——被 Schulze-Cleven et al. 用于分析当代[[Neo-feudalism in Higher Education|高等教育新封建主义]]。正在进行的学术关系重新结构化"似乎不仅产生了自由市场动力，还催生了新封建式的权力关系系统"——精英教授与初级学者之间的庇护关系、学术流派对职位和资源的控制、以及通过机构声望的公开展示来维持的等级，都体现了超越市场逻辑的封建性权力运作([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–799]])
-- **场域理论在学术治理分析中的运用**：Bourdieu 的场域概念——具有相对自主规则的社会空间，行动者围绕特定赌注竞争位置——被应用于分析当代学术界的竞争重构。不同学科场域（化学、经济学）呈现出不同的竞争逻辑和等级结构，但都遵循着场域内资本（学术资本、社会资本、符号资本）的积累和转化逻辑([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.805–807]])
+- **学术阶级分数（fractions of the academic class）** *Homo Academicus* 中发展的"学术阶级分数"理论在当代高等教育研究中被重新激活。Möller（2015）和 Graf（2015）运用这一框架对德国教授和学术官员进行了实证研究，揭示了不同学术阶级分数的差异化再生产模式和与统治阶级的关系——一些分数专注于学术资本的积累（研究声望），另一些则通过行政权力和外部网络来维持地位([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
+- **学术依附与忠诚关系的重构** Bourdieu 对学术世界中个人化依附关系的分析——导师-弟子关系、学派忠诚、学科内部的庇护网络——被 Schulze-Cleven et al. 用于分析当代[[Neo-feudalism in Higher Education|高等教育新封建主义]]。正在进行的学术关系重新结构化"似乎不仅产生了自由市场动力，还催生了新封建式的权力关系系统"——精英教授与初级学者之间的庇护关系、学术流派对职位和资源的控制、以及通过机构声望的公开展示来维持的等级，都体现了超越市场逻辑的封建性权力运作([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.798–799]])
+- **场域理论在学术治理分析中的运用** Bourdieu 的场域概念——具有相对自主规则的社会空间，行动者围绕特定赌注竞争位置——被应用于分析当代学术界的竞争重构。不同学科场域（化学、经济学）呈现出不同的竞争逻辑和等级结构，但都遵循着场域内资本（学术资本、社会资本、符号资本）的积累和转化逻辑([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.805–807]])
 
 ### 公共知识分子与新自由主义批判
 
@@ -304,15 +304,15 @@ Bourdieu 的社会理论包含一套系统的[[Epistemology|认识论]]预备。
 ### 来自前合作者与同行的批评
 
 - **Luc Boltanski**（前合作者）：脱离批判社会学，转向强调行动者批判能力的"[[Pragmatic Paradigm|实用主义]]社会学"（与 Laurent Thévenot 合作），后尝试在批判方法与[[Pragmatic Paradigm|实用主义]]方法之间建立连接
-- **Jacques Rancière**：在 *Le philosophe et ses pauvres* 中质疑 Bourdieu 的批判社会学存在无限续写支配的风险，忽视了解放的前景
+- **Jacques Rancière** 在 *Le philosophe et ses pauvres* 中质疑 Bourdieu 的批判社会学存在无限续写支配的风险，忽视了解放的前景
 - **[[Bruno Latour]]**：批评 Bourdieu 采取的俯视姿态——将社会行动者视为缺乏[[Reflexivity|反思性]]的单纯信息提供者，而研究者以"上帝视角"占据"无所不在的观察点"
-- **Marcel Gauchet**：激进否定 Bourdieu 思想，称之为"知识灾难"——"一种机械论和决定论思想的精巧包装，根本不能让人理解一个社会如何运作"
+- **Marcel Gauchet** 激进否定 Bourdieu 思想，称之为"知识灾难"——"一种机械论和决定论思想的精巧包装，根本不能让人理解一个社会如何运作"
 
 ---
 
 ### 性别研究的批评
 
-- **Judith Butler**：批评 *La Domination masculine* 忽视该领域的主流女性主义作品
+- **Judith Butler** 批评 *La Domination masculine* 忽视该领域的主流女性主义作品
 - **Nicole-Claude Mathieu**（唯物主义女性主义人类学家）：批评该书缺乏科学严谨性，称其"凭思考、凭行动、凭省略、凭歪曲"，"论文地位属于断言而非论证"
 
 ---

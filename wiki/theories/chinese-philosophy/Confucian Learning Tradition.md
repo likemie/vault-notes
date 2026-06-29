@@ -109,17 +109,17 @@ updated: 2026-06-02
 ## 认识论立场
 
 > [!info]
-> - **[[Ontology|本体论]]**：人性根植于社会关系之中——一个人不仅是 Jenny（或 David），更重要的是一个女儿、姐妹、妻子、母亲、姑姑、老师、同事等等([[Argument_Li_2012_Cambridge|Li, 2012, pp.37-38]])。自我不是孤立的权利个体，而是**承载角色的角色人**（role-bearing person, Rosemont 语）
+> - **[[Ontology|本体论]]**：人性根植于社会关系之中——一个人不仅是 Jenny（或 David），更重要的是一个女儿、姐妹、妻子、母亲、姑姑、老师、同事等等([[Argument_Li_2012_Cambridge|Li, 2012, pp.37-38]])。自我不是孤立的权利个体，而是**承载角色的角色人（role-bearing person, Rosemont 语）**
 > - **[[Epistemology|认识论]]**：知与行不可分离——[[Wang Yangming|王阳明]]认为，一个人必须不懈地实践自己所知道的，才能达成[[Sage|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。Ames 和 Rosemont 指出，[[Confucius|孔子]]的愿景不是简单地去理解、接受、修改或拒绝……相反，必须被感受、体验、实践和生活([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])
-> - **目标的开放性**：学习过程是开放的、需要个人创造性的——因为每个人的实际生活境遇不同([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> - **目标的开放性** 学习过程是开放的、需要个人创造性的——因为每个人的实际生活境遇不同([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
 
 ---
 
 ## 争议与批评
 
 > [!warning]
-> - **与现代科学教育的张力**：儒家传统以[[Self-Cultivation|修身]]为首要目的，而现代教育以[[Knowledge Production|知识生产]]和技术创新为核心。Li 指出，中国对西方科学技术的百年学习并未取代儒家的学习价值观——两者以[[Take the World Upon Oneself|以天下为己任]]（救國救民）的框架共存，但其深层张力仍在([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
-> - **亚洲学习者刻板印象**：Li 警告不要将东亚学习者简单地标签化为服从、缺乏批判性思维或沉默被动。[[Action Better Than Words|行勝於言]]的传统被西方观察者严重误解——沉默不等于不投入([[Argument_Li_2012_Cambridge|Li, 2012, pp.52-53]])
+> - **与现代科学教育的张力** 儒家传统以[[Self-Cultivation|修身]]为首要目的，而现代教育以[[Knowledge Production|知识生产]]和技术创新为核心。Li 指出，中国对西方科学技术的百年学习并未取代儒家的学习价值观——两者以[[Take the World Upon Oneself|以天下为己任]]（救國救民）的框架共存，但其深层张力仍在([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
+> - **亚洲学习者刻板印象** Li 警告不要将东亚学习者简单地标签化为服从、缺乏批判性思维或沉默被动。[[Action Better Than Words|行勝於言]]的传统被西方观察者严重误解——沉默不等于不投入([[Argument_Li_2012_Cambridge|Li, 2012, pp.52-53]])
 > - **[[Civil Service Examination|科举制度]]的功利化**：尽管科举的理想是将道德成就与学术学习结合，但许多学者更多地被物质回报驱动——功利化倾向一直是对儒家学习传统的内部腐蚀([[Argument_Li_2012_Cambridge|Li, 2012, pp.47-48]])
 
 ---
@@ -129,12 +129,12 @@ updated: 2026-06-02
 > [!note]-
 > - **[[Confucius|孔子]]（551–479 BCE）**：奠定学习传统的核心——[[Self-Cultivation|修身]]成仁；编订六经、创办私学、倡导有教无类([[Argument_Li_2012_Cambridge|Li, 2012, pp.36-37]])
 > - **[[Mencius|孟子]]（ca. 372–289 BCE）**：以[[Four Sprouts|四端]]说为修身提供人性论基础；主张人人皆可为尧舜；提出[[Take the World Upon Oneself|以天下为己任]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-43, 45-46]])
-> - **近千年式微期**：儒学传统在汉以后经历了长期的边缘化([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])
+> - **近千年式微期** 儒学传统在汉以后经历了长期的边缘化([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])
 > - **宋代理学（960–1279）**：[[Cheng Brothers|程颢]]、程颐兄弟重新开启儒家学习传统。将天理与修身关联，首次引入格物致知的认知环节([[Argument_Li_2012_Cambridge|Li, 2012, pp.43-44]])
 > - **[[Zhu Xi|朱熹]]（1130–1200）**：整合程氏兄弟思想，编纂四书，系统化学习路径为[[The Great Learning|八条目]]（格物→致知→诚意→正心→[[Self-Cultivation|修身]]→齐家→治国→平天下）。四书成为 1949 年前中国教育的核心经典([[Argument_Li_2012_Cambridge|Li, 2012, pp.44, 46-47]])
 > - **[[Wang Yangming|王阳明]]（1472–1529）**：以良知说和知行合一对程朱学派做出修正，将成圣目标向普通人——不受社会约束或学术门槛限制——开放([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])
 > - **[[Civil Service Examination|科举制度]]（7 世纪–1905）**：将道德成就、学术学习、政治权力、社会地位和经济收益前所未前地融为一体，导致了学习在中国文化中的至高无上地位([[Argument_Li_2012_Cambridge|Li, 2012, pp.47-48]])
-> - **近现代（19 世纪末至今）**：尽管中国经历了剧烈变迁，Li 的实证研究表明这种看待和投入学习的方式至今没有太大改变([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
+> - **近现代（19 世纪末至今）** 尽管中国经历了剧烈变迁，Li 的实证研究表明这种看待和投入学习的方式至今没有太大改变([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
 
 ---
 

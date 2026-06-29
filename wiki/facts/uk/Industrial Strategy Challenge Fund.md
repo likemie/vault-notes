@@ -48,9 +48,9 @@ updated: 2026-06-10
 > ISCF 投资涵盖的关键领域包括：量子技术（quantum technologies）、复合半导体（compound semiconductors）、医疗保健（healthcare）、农业科技（agritech）、能源与清洁增长（energy and clean growth）以及创意产业（creative industries）。
 
 政策的核心特点：
-- **产业主导**（industry-led）：研究和创新优先领域由产业需求驱动
-- **产业参与**（industry-engaged）：强调学术界和产业界的深度合作
-- **挑战驱动**（challenge-driven）：聚焦国家战略性的研究与创新挑战
+- **产业主导（industry-led）** 研究和创新优先领域由产业需求驱动
+- **产业参与（industry-engaged）** 强调学术界和产业界的深度合作
+- **挑战驱动（challenge-driven）** 聚焦国家战略性的研究与创新挑战
 
 [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 5-6)]]
 

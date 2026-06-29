@@ -95,9 +95,9 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **过度复杂化**：有批评认为三阶段框架对从业者来说过于复杂，忙碌的教师和政策制定者需要简化的实施指南，而非[[Philosophical Analysis in Education|哲学分析]]
+> - **过度复杂化** 有批评认为三阶段框架对从业者来说过于复杂，忙碌的教师和政策制定者需要简化的实施指南，而非[[Philosophical Analysis in Education|哲学分析]]
 > - **并非反对 [[Randomised Controlled Trials|RCT]]**：Cartwright 明确表示该框架不是为了否定 RCT 的价值，而是为了正确使用 RCT。她承认有时大效应可以"压倒"其他不可观察的因素，使从业者即使在知识有限的情况下也能行动([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.11]])
-> - **替代方案的可操作性**：Bonell et al. (2012) 提出的"实在论 RCT"（realist RCT）试图通过析因试验和多臂研究来识别[[Causality|因果]]机制，但面临成本激增和[[Sample Size Determination|样本量]]需求的挑战([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.11]])
+> - **替代方案的可操作性**Bonell et al. (2012) 提出的"实在论 RCT"（realist RCT）试图通过析因试验和多臂研究来识别[[Causality|因果]]机制，但面临成本激增和[[Sample Size Determination|样本量]]需求的挑战([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.11]])
 
 ## 相关研究
 

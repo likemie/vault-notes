@@ -41,13 +41,13 @@ updated: 2026-06-23
 > [!def] 核心定义
 > 负面案例分析（negative case analysis）是在[[Qualitative Research|质性研究]]中系统审视那些不符合、不支持或与正在形成的理论、[[Hypothesis|假设]]或模式相矛盾的案例或数据的过程。其目的是通过不断修正理论以包容所有案例，最终建立一个"适合每一个案例"的理论。
 
-负面案例分析源自 Glaser & Strauss (1967) 的[[Grounded Theory|扎根理论方法]]论中的**持续比较法**（constant comparative method）。它与简单寻找"反例"的区别在于：负面案例分析是主动的、系统性的研究策略——研究者不是等待反例出现，而是主动寻找和检验反例。
+负面案例分析源自 Glaser & Strauss (1967) 的[[Grounded Theory|扎根理论方法]]论中的**持续比较法（constant comparative method）**。它与简单寻找"反例"的区别在于：负面案例分析是主动的、系统性的研究策略——研究者不是等待反例出现，而是主动寻找和检验反例。
 
 ## 概念辨析
 
 - **负面案例分析 vs. [[Falsification|证伪]]**（falsification）：[[Karl Popper|Popper]] 的证伪主义意在推翻理论——一项反例就足够了。负面案例分析则是修正和完善理论——目的是使理论足够丰富以解释所有案例的变异，而非否定理论。
-- **负面案例分析 vs. 异常值排除**：[[Quantitative Research|量化研究]]方法中常建议排除异常值（outliers）以提高模型拟合度；负面案例分析则要求保留并深入理解这些异常案例——它们提供了对现象的额外理解和理论修正的杠杆。
-- **负面案例分析 vs. 确认偏差**：确认偏差是有选择地关注支持已有信念的证据；负面案例分析恰恰相反——它是对确认偏差的自觉对抗。
+- **负面案例分析 vs. 异常值排除**[[Quantitative Research|量化研究]]方法中常建议排除异常值（outliers）以提高模型拟合度；负面案例分析则要求保留并深入理解这些异常案例——它们提供了对现象的额外理解和理论修正的杠杆。
+- **负面案例分析 vs. 确认偏差** 确认偏差是有选择地关注支持已有信念的证据；负面案例分析恰恰相反——它是对确认偏差的自觉对抗。
 
 ## 核心要素
 
@@ -61,7 +61,7 @@ updated: 2026-06-23
 
 负面案例分析基于这样的前提：一项能够同时解释正面案例和表面反例的理论，比一项仅关注符合模式的案例的理论更具解释力、更可信。它不是要消除矛盾，而是**将矛盾整合进更精细的理论中**。
 
-Lincoln & Guba (1985) 将负面案例分析列为[[Interpretive Paradigm|自然主义探究]]中建立**可信性**（credibility）的核心策略之一——与长期田野参与、持续观察、[[Triangulation|三角验证]]、同伴汇报和[[Member Checking|成员核查]]并列。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+Lincoln & Guba (1985) 将负面案例分析列为[[Interpretive Paradigm|自然主义探究]]中建立**可信性（credibility）**的核心策略之一——与长期田野参与、持续观察、[[Triangulation|三角验证]]、同伴汇报和[[Member Checking|成员核查]]并列。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 Onwuegbuzie & Leech (2006b) 在质性[[Internal Validity|内部效度]]的保障措施列表中也包括了负面案例分析，与其他二十余项措施并列。
 

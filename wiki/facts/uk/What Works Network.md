@@ -70,8 +70,8 @@ updated: 2026-05-18
 > [!example] 实施情况
 > 涉及机构：
 > - **[[Education Endowment Foundation|EEF]]（教育捐赠基金会）**：教育领域的旗舰 What Works 中心，发布 Teaching and Learning Toolkit，涵盖 5,500+ 项教育研究的总结
-> - **其他 What Works 中心**：覆盖健康、犯罪、儿童服务等多个政策领域
-> - **内阁办公室（Cabinet Office）**：推动网络的建立和协调
+> - **其他 What Works 中心** 覆盖健康、犯罪、儿童服务等多个政策领域
+> - **内阁办公室（Cabinet Office）** 推动网络的建立和协调
 >
 > 实施机制：
 > - EEF Toolkit 以联盟表格式（league table）展示干预措施，按成本效益、证据质量和[[Effect Size|效应量]]（以学生学习进步月数计量）排名([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.19-20]])
@@ -95,9 +95,9 @@ updated: 2026-05-18
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **扩散模式的局限**：研究证据不能从学术来源通过政策清算中心级联顺畅地流入课堂，政治维度无法从 EBP 实施过程中完全剔除([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.15]])
+> - **扩散模式的局限** 研究证据不能从学术来源通过政策清算中心级联顺畅地流入课堂，政治维度无法从 EBP 实施过程中完全剔除([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.15]])
 > - **与 [[Ofsted]] 的矛盾**：政府机构（尤其是 Ofsted）有时支持了与 [[Education Endowment Foundation|EEF]] 证据相矛盾的实践（如学习风格理论），削弱了 What Works 的公信力([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.37-38]])
-> - **工具包的误读**：EEF Toolkit 发布后，一些学校的反应是"太好了，让我们裁掉助教"——这完全误读了 Toolkit 关于 TA 使用方式的微妙信息([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
+> - **工具包的误读** EEF Toolkit 发布后，一些学校的反应是"太好了，让我们裁掉助教"——这完全误读了 Toolkit 关于 TA 使用方式的微妙信息([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
 
 ## 相关概念／理论
 

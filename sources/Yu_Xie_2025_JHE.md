@@ -1,6 +1,7 @@
 ---
 citation: "余婧然, 谢爱磊. (2025). 空间、权力与高等教育：地缘政治视角下的高等教育研究. 高等教育研究, (11), 33–48."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Yu_Xie_2025_JHE]]"
 processed_date: 2026-06-26
 ---
 

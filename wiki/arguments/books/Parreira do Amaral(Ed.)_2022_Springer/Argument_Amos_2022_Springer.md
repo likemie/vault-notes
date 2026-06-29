@@ -69,6 +69,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Regional University Alliances]]"
   - "[[League of European Research Universities]]"
+  - "[[Bologna Process]]"
 related_arguments: []
 sources:
   - "[[Ch4_Amos_2022]]"

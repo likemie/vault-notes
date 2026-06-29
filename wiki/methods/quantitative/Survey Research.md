@@ -39,6 +39,7 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
+  - "[[Criterion-related Validity]]"
   - "[[Institutional Review Board]]"
   - "[[Causality]]"
 related_theories: []
@@ -77,31 +78,31 @@ updated: 2026-05-31
 ### 调查设计
 
 > [!info]
-> - **调查目的**：回答关于[[Variable|变量]]间关系的[[Research Question|研究问题]]，如"加班时数是否预测急诊护士的倦怠症状"。
-> - **使用调查方法的理由**：认可调查设计的优势（经济性、数据回收迅速），并说明为何其他设计（如实验）不可行或不合理。
-> - **调查类型**：横截面研究（cross-sectional）在单一时间点收集数据；纵向研究（longitudinal）在多个时间点收集数据。
-> - **数据收集形式**：邮寄、电话、互联网、个人访谈或团体施测（Fowler, 2014; Fink, 2016; Krueger & Casey, 2014）。互联网调查工具（如 Qualtrics、Survey Monkey）和在线受试者平台（如 Amazon Mechanical Turk、Prolific）近年来增长显著（Buhrmester et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **调查目的** 回答关于[[Variable|变量]]间关系的[[Research Question|研究问题]]，如"加班时数是否预测急诊护士的倦怠症状"。
+> - **使用调查方法的理由** 认可调查设计的优势（经济性、数据回收迅速），并说明为何其他设计（如实验）不可行或不合理。
+> - **调查类型** 横截面研究（cross-sectional）在单一时间点收集数据；纵向研究（longitudinal）在多个时间点收集数据。
+> - **数据收集形式** 邮寄、电话、互联网、个人访谈或团体施测（Fowler, 2014; Fink, 2016; Krueger & Casey, 2014）。互联网调查工具（如 Qualtrics、Survey Monkey）和在线受试者平台（如 Amazon Mechanical Turk、Prolific）近年来增长显著（Buhrmester et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ### 总体与样本
 
 > [!abstract]
 > - **研究总体（[[Study Population and Sample|study population]]）**：研究者希望做出推论的全部人群。
-> - **研究样本（Study Sample）**：调查中实际检验的受试者子集。
-> - **抽样设计（Sampling Design）**：单[[Stage Sampling|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／[[Cluster Sampling|整群抽样]]（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
-> - **抽样类型**：[[Random Sampling|随机抽样]]（每人均等概率被选中）、[[Systematic Sampling|系统抽样]]（随机起点后每隔 X 人选取）或非概率／[[Convenience Sampling|便利抽样]]（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
-> - **分层（Stratification）**：在抽样前按特定特征（如性别、收入、教育）分层，确保样本反映总体在各特征上的真实比例（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **研究样本（Study Sample）** 调查中实际检验的受试者子集。
+> - **抽样设计（Sampling Design）** 单[[Stage Sampling|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／[[Cluster Sampling|整群抽样]]（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **抽样类型**[[Random Sampling|随机抽样]]（每人均等概率被选中）、[[Systematic Sampling|系统抽样]]（随机起点后每隔 X 人选取）或非概率／[[Convenience Sampling|便利抽样]]（基于便利性和可得性）。系统抽样可获得与随机抽样等价的精度（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
+> - **分层（Stratification）** 在抽样前按特定特征（如性别、收入、教育）分层，确保样本反映总体在各特征上的真实比例（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 > - **[[Sample Size Determination|样本量确定]]与功效分析**：样本量应基于分析计划和预期结果确定，而非简单取总体一定比例或基于过去研究的惯例。若分析计划涉及检测变量间显著关联，可使用功效分析（如 G*Power; Faul et al., 2007, 2009）估算目标样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8）。
 
 ### 工具
 
 > [!info]
-> - **工具与测量**：工具（instrument）是收集变量测量值的设备（如温度计之于体温，问卷之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
-> - **工具的效度**：报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity|构念效度]]（工具是否准确测量目标[[Construct|构念]]）和效标／[[Concurrent Validity|同时效度]]（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **工具与测量** 工具（instrument）是收集变量测量值的设备（如温度计之于体温，问卷之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
+> - **工具的效度** 报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity|构念效度]]（工具是否准确测量目标[[Construct|构念]]）和效标／[[Concurrent Validity|同时效度]]（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **工具的[[Reliability|信度]]**：报告分数的[[Internal Consistency|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 Cronbach's α 值量化（范围 0–1，最佳值 .7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α = .84–.86。[[Test-Retest Reliability|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **[[Inter-Rater Reliability|评分者间信度]]（Inter-Rater Reliability）**：当多位评判者或专家使用同一工具评分时，需要评估独立评分者之间的一致性程度。
-> - **工具内容**：包括封面信（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。
+> - **工具内容** 包括封面信（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。
 > - **[[Pilot Testing|试点测试]]（Pilot Testing）**：评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时[[Evaluation Research|评估研究]]耗时和受试者疲劳风险。说明测试人数和修改计划（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
-> - **调查施测**：邮寄调查可采用四阶段施测流程（Salant & Dillman, 1994; Dillman, 2007）：（1）提前通知信 →（2）约 1 周后邮寄实际问卷 →（3）4–8 天后邮寄明信片跟进 →（4）3 周后向未回应者邮寄个性化封面信和问卷。整个施测期约 4 周。
+> - **调查施测** 邮寄调查可采用四阶段施测流程（Salant & Dillman, 1994; Dillman, 2007）：（1）提前通知信 →（2）约 1 周后邮寄实际问卷 →（3）4–8 天后邮寄明信片跟进 →（4）3 周后向未回应者邮寄个性化封面信和问卷。整个施测期约 4 周。
 
 ### 变量
 
@@ -114,9 +115,9 @@ updated: 2026-05-31
 > >
 > > | 变量名（Variable Name） | 变量定义（Variable Definition） | 测量题项（Instrument Items） |
 > > |---|---|---|
-> > | **先前发表**（Prior publications）——预测变量 | 教师获得博士学位之前发表的出版物总数 | 对问题 11、12、13、14、15 求和：获得博士学位前发表的期刊论文、专著、会议论文、专著章节的数量 |
-> > | **获得资助**（Grants funded）——结果变量 | 教师在首个 7 年聘期内获得的研究资助总数 | 对问题 16、17、18 求和：7 年内来自基金会、联邦资助、州资助的资助总数 |
-> > | **生活事件压力**（Life event stress）——控制变量 | 使用 43 项 Social Readjustment Scale（Holmes & Rahe, 1967）改编为聚焦 7 年时间窗口的测量 | 对 43 个量表条目计算总影响得分 |
+> > | **先前发表（Prior publications）**——预测变量 | 教师获得博士学位之前发表的出版物总数 | 对问题 11、12、13、14、15 求和：获得博士学位前发表的期刊论文、专著、会议论文、专著章节的数量 |
+> > | **获得资助（Grants funded）**——结果变量 | 教师在首个 7 年聘期内获得的研究资助总数 | 对问题 16、17、18 求和：7 年内来自基金会、联邦资助、州资助的资助总数 |
+> > | **生活事件压力（Life event stress）**——控制变量 | 使用 43 项 Social Readjustment Scale（Holmes & Rahe, 1967）改编为聚焦 7 年时间窗口的测量 | 对 43 个量表条目计算总影响得分 |
 > >
 > > 模板逻辑：预测变量置于最前（因）、结果变量随后（果）、控制变量最后。每个变量必须同时包含概念层面的定义和操作层面的测量题项，使读者可以完全复现测量过程。
 
@@ -159,7 +160,7 @@ updated: 2026-05-31
 > - 调查中将使用哪些工具？对每项工具描述：开发者、条目数量、分数是否具有可接受的信度和效度、量表锚点。
 >   - (a) 开发该工具的来源出版物和引用是什么？
 >   - (b) 工具包含多少条目？量表范围（如 Likert 1–5）和量表锚点（如"一点也不"到"非常多"）是什么？
->   - (c) 工具是否具有可接受的效度（构念效度和效标效度）和信度（内部一致性）？
+>   - (c) 工具是否具有可接受的效度（构念效度和[[Criterion-related Validity|效标效度]]）和信度（内部一致性）？
 >   - (d) 工具如何计分并转化为变量？
 >   - (e) 变量将如何用于检验研究问题？
 > - 将使用什么程序进行试点测试或实地测试？

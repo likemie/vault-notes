@@ -156,12 +156,12 @@ updated: 2026-06-21
 Teddlie and Tashakkori (2009) 提出了六种设计（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!designs] 六种混合方法设计（Teddlie & Tashakkori, 2009）
-> - **平行混合设计**（parallel / concurrent）量化和质性方法同时独立运行（类似于[[Triangulation|三角验证]]）
-> - **顺序混合设计**（sequential）量化和质性方法一先一后，一条研究线索决定后续线索
-> - **准混合设计**（quasi-mixed）两种数据都收集但不整合——量化数据回答一个问题，质性数据回答另一个
-> - **转换混合设计**（conversion）数据在平行设计中被转换（质性转量化或反之）
-> - **多层次混合设计**（multilevel / hierarchical）不同层次使用不同数据类型
-> - **完全整合混合设计**（fully integrated）混合方法在每一个阶段和层次使用（可能是迭代式的）
+> - **平行混合设计（parallel / concurrent）**量化和质性方法同时独立运行（类似于[[Triangulation|三角验证]]）
+> - **顺序混合设计（sequential）**量化和质性方法一先一后，一条研究线索决定后续线索
+> - **准混合设计（quasi-mixed）**两种数据都收集但不整合——量化数据回答一个问题，质性数据回答另一个
+> - **转换混合设计（conversion）**数据在平行设计中被转换（质性转量化或反之）
+> - **多层次混合设计（multilevel / hierarchical）**不同层次使用不同数据类型
+> - **完全整合混合设计（fully integrated）**混合方法在每一个阶段和层次使用（可能是迭代式的）
 
 ### 三种时间规划模式
 
@@ -195,9 +195,9 @@ Caracelli and Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_M
 
 > [!finding-cards]
 > - **[[Data Transformation|数据转换]]**（data transformation）质性数据被"量化"（quantitized）或量化数据被"质化"（qualitized）
-> - **类型学发展**（typology development）从一组数据产生的分类被应用到另一组数据
-> - **极端案例分析**（extreme case analysis）在一种数据中发现的极端值使用不同数据和方法探索
-> - **数据合并**（data consolidation/merging）通过合并数据创建新[[Variable|变量]]
+> - **类型学发展（typology development）**从一组数据产生的分类被应用到另一组数据
+> - **极端案例分析（extreme case analysis）**在一种数据中发现的极端值使用不同数据和方法探索
+> - **数据合并（data consolidation/merging）**通过合并数据创建新[[Variable|变量]]
 
 > [!example] 为什么简单统计不足以说明问题
 > 研究者发现 100 个人认为学校像监狱。其中 40 人认为因为限制自由和严厉纪律，20 人认为因为过度拥挤，15 人认为因为食物糟糕，10 人认为因为暴力和欺凌，10 人认为因为教人偷窃和犯罪，5 人认为因为学生只要遵守规则就能过轻松生活。一个简单统计背后隐藏着完全不同的理由——这正是质性数据可以为简单统计数字提供大量有用洞察的地方（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
@@ -207,15 +207,15 @@ Caracelli and Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_M
 ## 关键决策
 
 > [!decisions] 九项关键决策（Ivankova et al., 2006; Greene, 2008）
-> - **优先级**（priority）量化还是质性占主导，还是同等权重
-> - **实施时机**（implementation/timing）同时进行还是一先一后
-> - **整合阶段**（integration）在哪个阶段整合
-> - **焦点议题**（issues）围绕什么议题混合
-> - **独立／互动程度**（independence/interaction）不同方法在多大程度上被独立或互动地概念化
-> - **变革意图**（transformative intention）是否有明确的政治议程
-> - **范围**（scope）单一研究还是跨项目的多研究
-> - **线索**（strands）在研究中混合的不同研究线索的数量
-> - **方法特征**（methods characteristics）被混合方法之间在视角、立场等方面的差异性质和程度
+> - **优先级（priority）**量化还是质性占主导，还是同等权重
+> - **实施时机（implementation/timing）**同时进行还是一先一后
+> - **整合阶段（integration）**在哪个阶段整合
+> - **焦点议题（issues）**围绕什么议题混合
+> - **独立／互动程度（independence/interaction）**不同方法在多大程度上被独立或互动地概念化
+> - **变革意图（transformative intention）**是否有明确的政治议程
+> - **范围（scope）**单一研究还是跨项目的多研究
+> - **线索（strands）**在研究中混合的不同研究线索的数量
+> - **方法特征（methods characteristics）**被混合方法之间在视角、立场等方面的差异性质和程度
 
 ---
 

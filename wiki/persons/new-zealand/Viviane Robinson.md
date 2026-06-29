@@ -51,8 +51,8 @@ updated: 2026-06-09
 ## 生平与职涯
 
 > [!note]-
-> - **2007 年**：受邀在澳大利亚教育领导者理事会（ACEL）年会上发表威廉·沃克主题演讲（William Walker Oration），该报告随后在 ACEL 专题单行本中出版。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
-> - **2008 年**：发表于《教育行政季刊》（Educational Administration Quarterly, EAQ）上的论文《领导力对学生结果的影响：领导力类型差异效应分析》获得了该刊年度最佳论文威廉·戴维斯奖（William J. Davis Award）。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
+> - **2007 年** 受邀在澳大利亚教育领导者理事会（ACEL）年会上发表威廉·沃克主题演讲（William Walker Oration），该报告随后在 ACEL 专题单行本中出版。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
+> - **2008 年** 发表于《教育行政季刊》（Educational Administration Quarterly, EAQ）上的论文《领导力对学生结果的影响：领导力类型差异效应分析》获得了该刊年度最佳论文威廉·戴维斯奖（William J. Davis Award）。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
 
 ---
 
@@ -67,8 +67,8 @@ updated: 2026-06-09
 ## 核心思想
 
 > [!tip]-
-> - **倡导以改善教学为导向的领导力**：通过对27项实证研究的[[Meta-analysis|元分析]]，罗宾逊证实[[Transformative Leadership|变革型领导力]]（Transformational Leadership）在提升学生学业成绩方面的直接效应不明显，而直接聚焦于课程与教师支持的[[Instructional Leadership|教学领导力]]（[[Instructional Leadership]]）[[Effect Size|效应量]]显著更高。由此，她成功在主流学校管理学术界扭转了变革型领导力的霸权地位。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
-> - **效应量化改进维度的引入**：罗宾逊首次将“[[Effect Size|效应量]]”的概念系统地引入学校管理和领导力评价领域，通过量化计算归纳出领导力影响学生成绩的五个主要维度，使抽象的学校改进任务转化为可测量、可决策的实证依据。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
+> - **倡导以改善教学为导向的领导力** 通过对27项实证研究的[[Meta-analysis|元分析]]，罗宾逊证实[[Transformative Leadership|变革型领导力]]（Transformational Leadership）在提升学生学业成绩方面的直接效应不明显，而直接聚焦于课程与教师支持的[[Instructional Leadership|教学领导力]]（[[Instructional Leadership]]）[[Effect Size|效应量]]显著更高。由此，她成功在主流学校管理学术界扭转了变革型领导力的霸权地位。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
+> - **效应量化改进维度的引入** 罗宾逊首次将“[[Effect Size|效应量]]”的概念系统地引入学校管理和领导力评价领域，通过量化计算归纳出领导力影响学生成绩的五个主要维度，使抽象的学校改进任务转化为可测量、可决策的实证依据。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
 
 ---
 

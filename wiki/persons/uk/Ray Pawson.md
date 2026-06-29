@@ -54,9 +54,9 @@ updated: '2026-06-19'
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置**：英国利兹大学（University of Leeds）社会研究方法论教授。
-> - **核心角色**：[[Realist Evaluation|实在论评估]]（Realist Evaluation）与实在论综合（Realist Synthesis）的创立者，在社会与教育干预项目评估学派中承担核心方法论引领者的节点角色。
-> - **代表贡献**：创立 [[Realist Evaluation\|实在论评估]] 与实在论综合的方法论体系，系统剖析 [[Randomised Controlled Trials|RCT]] 与[[Meta-analysis|元分析]]的去情境化偏误。
+> - **身份位置** 英国利兹大学（University of Leeds）社会研究方法论教授。
+> - **核心角色**[[Realist Evaluation|实在论评估]]（Realist Evaluation）与实在论综合（Realist Synthesis）的创立者，在社会与教育干预项目评估学派中承担核心方法论引领者的节点角色。
+> - **代表贡献** 创立 [[Realist Evaluation\|实在论评估]] 与实在论综合的方法论体系，系统剖析 [[Randomised Controlled Trials|RCT]] 与[[Meta-analysis|元分析]]的去情境化偏误。
 
 ---
 
@@ -73,8 +73,8 @@ updated: '2026-06-19'
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1997 年**：与尼克·蒂利（Nick Tilley）合作发表奠基著作 *Realistic Evaluation*，正式确立[[Realist Evaluation\|实在论评估]]的学科框架。
-> - **2006 年**：发表 *Evidence-based policy: A realist perspective*，系统解构了在社会与教育政策领域套用医学 [[Randomised Controlled Trials\|RCT]] 和[[Meta-analysis\|元分析]]的不适用性。
+> - **1997 年** 与尼克·蒂利（Nick Tilley）合作发表奠基著作 *Realistic Evaluation*，正式确立[[Realist Evaluation\|实在论评估]]的学科框架。
+> - **2006 年** 发表 *Evidence-based policy: A realist perspective*，系统解构了在社会与教育政策领域套用医学 [[Randomised Controlled Trials\|RCT]] 和[[Meta-analysis\|元分析]]的不适用性。
 
 ---
 
@@ -113,9 +113,9 @@ updated: '2026-06-19'
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径**：通过具体研究设计的转化，在方法论层面使[[Critical Realism\|批判实在论]]在评估界落地生根。
-> - **方法路径**：[[Realist Evaluation\|实在论评估]]和实在论综合已成为全球社会政策评估、医疗卫生评价的一大主流研究传统，在 [[Sage]] 等出版机构出版了大量教材。
-> - **政策路径**：为抵制去情境化的 evidence-based 绩效考核提供了替代性评估框架，深刻启发了教育研究者（如 Wrigley）对 [[Education Endowment Foundation\|EEF]] 教学工具包关于教学助理（TA）类目等误导性排行的技术解构。
+> - **理论路径** 通过具体研究设计的转化，在方法论层面使[[Critical Realism\|批判实在论]]在评估界落地生根。
+> - **方法路径**[[Realist Evaluation\|实在论评估]]和实在论综合已成为全球社会政策评估、医疗卫生评价的一大主流研究传统，在 [[Sage]] 等出版机构出版了大量教材。
+> - **政策路径** 为抵制去情境化的 evidence-based 绩效考核提供了替代性评估框架，深刻启发了教育研究者（如 Wrigley）对 [[Education Endowment Foundation\|EEF]] 教学工具包关于教学助理（TA）类目等误导性排行的技术解构。
 
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中 [[Randomised Controlled Trials\|RCT]] 的不适用性。
@@ -127,14 +127,14 @@ updated: '2026-06-19'
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者**：[[Roy Bhaskar|罗伊·巴斯卡]] (Roy Bhaskar) — 为其奠定[[Critical Realism|批判实在论]]哲学起点；尼克·蒂利 (Nick Tilley) — 共同创立[[Realist Evaluation|实在论评估]]；[[Terry Wrigley]] — 将其评估思想与 “实在论综合” 引入教育政策批判。
+> - **师承／合作者**[[Roy Bhaskar|罗伊·巴斯卡]] (Roy Bhaskar) — 为其奠定[[Critical Realism|批判实在论]]哲学起点；尼克·蒂利 (Nick Tilley) — 共同创立[[Realist Evaluation|实在论评估]]；[[Terry Wrigley]] — 将其评估思想与 “实在论综合” 引入教育政策批判。
 
 ---
 
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **争议对象**：实在论综合在具体操作上的高门槛与政策决策的低速配度。
-> - **批评立场**：政策制定者和定量循证研究者的批评。
-> - **证据依据**：实在论综合需要深度审阅每次干预的具体情境、利益相关者的反思理论和结构障碍，这无法像 [[Education Endowment Foundation|EEF]] 工具包那样提供一眼即得的仪表盘或平均数排行榜，在需要瞬间决策的行政体制中缺乏推广优势。
-> - **回应或余留问题**：波森强调追求简单结论的 “钝器” 会导致更严重的决策错误（如错误裁剪 TA），政策制定者必须接受社会干预[[Causality|因果关系]]的复杂性。
+> - **争议对象** 实在论综合在具体操作上的高门槛与政策决策的低速配度。
+> - **批评立场** 政策制定者和定量循证研究者的批评。
+> - **证据依据** 实在论综合需要深度审阅每次干预的具体情境、利益相关者的反思理论和结构障碍，这无法像 [[Education Endowment Foundation|EEF]] 工具包那样提供一眼即得的仪表盘或平均数排行榜，在需要瞬间决策的行政体制中缺乏推广优势。
+> - **回应或余留问题** 波森强调追求简单结论的 “钝器” 会导致更严重的决策错误（如错误裁剪 TA），政策制定者必须接受社会干预[[Causality|因果关系]]的复杂性。

@@ -60,20 +60,20 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success] 影响与后果
-> **学术层面**：
+> **学术层面**
 > - [[Visible Learning|VL]] 成为俄罗斯教育学术讨论的热点话题，被用于论证 FSES 标准的合理性
 > - 但同时，[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]指出"由于某些原因，批评者的论点在俄语[[Document|文献]]中未被提及"（p.229），造成俄罗斯学界对 VL 的认知偏向正面
 >
-> **政策风险**：
+> **政策风险**
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019, p.240-241)]]基于方法论检验（变差系数 Vσ=56.87% > 33% 同质性阈值）和文化匹配度分析，明确建议俄罗斯教育政策**不应采用** Hattie 方法
 > - 主要风险：(1) 增加教师官僚负担——RANEPA 2018 年全俄监测显示 79% 教师报告报表工作量显著增加；(2) "去专业化"效应——Hattie 的"教师作为调节者"模型与俄罗斯 2016 年《教师》职业标准修正案（允许无师范教育背景者从教）形成危险共振；(3) 澳大利亚的负面经验——[[Argument_Eacott_2017_SLM|Eacott (2017)]] 描述的"持续数据生产"政策导致"澳大利亚教育领导力的悲剧"
 
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **俄语支持阵营**（Borisenko, Vachkov, Sokolova）：[[Visible Learning|VL]] 为教师效能提供了科学基础，与 FSES 标准一致
-> - **俄语批评阵营**（Golovchin）：VL 的方法论基础不可靠、文化不适配、可能加剧教师流失
-> - **西方批评阵营**（Snook et al., Terhart, Myburgh, McKnight & Whitburn）：方法论缺陷（异构数据、"苹果与橘子"比较、d=0.40 阈值任意）和文化政治问题（新自由主义监控、能力主义、性别歧视）
+> - **俄语支持阵营（Borisenko, Vachkov, Sokolova）**[[Visible Learning|VL]] 为教师效能提供了科学基础，与 FSES 标准一致
+> - **俄语批评阵营（Golovchin）** VL 的方法论基础不可靠、文化不适配、可能加剧教师流失
+> - **西方批评阵营（Snook et al., Terhart, Myburgh, McKnight & Whitburn）** 方法论缺陷（异构数据、"苹果与橘子"比较、d=0.40 阈值任意）和文化政治问题（新自由主义监控、能力主义、性别歧视）
 
 ## 相关概念／政策
 

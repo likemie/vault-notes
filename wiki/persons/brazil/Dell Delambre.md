@@ -65,10 +65,10 @@ updated: '2026-06-08'
 > [!tip]-
 > Delambre 的核心思想围绕张力作为存在和知识的基本条件展开，详见 [[Creative Tension of Sense#核心主张]] 和 [[Creative Tension of Sense#核心命题]]。其思想特点可概括为四个立场：
 >
-> 1. **诊断**：现代性的封闭理性已耗竭——环境危机本质上是认知方式的危机，而非单纯的技术或政策失败([[Argument_Delambre_2022_Springer|Delambre, 2022, p.108–109]])
-> 2. **原理**：新世界永远在旧世界内部诞生，新旧之间的意义张力是创造力的源泉，不可消除也不应消除([[Argument_Delambre_2022_Springer|Delambre, 2022, p.111]])
-> 3. **方法**：正确回应不是选择新或旧，而是**承载张力**——详见 [[Ganz-Methode]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112–113]])
-> 4. **实践**：理论与实践不可分离，张力[[Epistemology|认识论]]必须从具体情境出发并回到具体实践——其[[Operationalization|操作化]]工具为 WTS Coaching([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 117–118]])
+> 1. **诊断** 现代性的封闭理性已耗竭——环境危机本质上是认知方式的危机，而非单纯的技术或政策失败([[Argument_Delambre_2022_Springer|Delambre, 2022, p.108–109]])
+> 2. **原理** 新世界永远在旧世界内部诞生，新旧之间的意义张力是创造力的源泉，不可消除也不应消除([[Argument_Delambre_2022_Springer|Delambre, 2022, p.111]])
+> 3. **方法** 正确回应不是选择新或旧，而是**承载张力**——详见 [[Ganz-Methode]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112–113]])
+> 4. **实践** 理论与实践不可分离，张力[[Epistemology|认识论]]必须从具体情境出发并回到具体实践——其[[Operationalization|操作化]]工具为 WTS Coaching([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 117–118]])
 >
 > 他的独特贡献在于将高度抽象的去殖民认识论讨论（Mignolo、Dussel、Santos）与极度具体的巴西基层实践（贫民窟剧场、社区博物馆、[[Ecomuseology|生态博物馆]]）相连接，是少数试图在批判和建构之间架桥的当代认识论学者。
 

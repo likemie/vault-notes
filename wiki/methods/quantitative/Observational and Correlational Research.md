@@ -65,8 +65,8 @@ updated: 2026-05-18
 
 > [!example] 操作步骤
 > - **选择[[Variable|变量]]与样本**：研究者在既有情境中测量学生、教师、课堂或学校变量，而不是主动设置干预([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
-> - **收集量化数据**：数据可来自自陈问卷、大型数据库或其他量化测量。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 提到，一些[[Research Utilization|研究使用]]数万名学生的自陈变量并以结构方程模型分析([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
-> - **分析变量关系**：研究通常估计变量间关联、预测关系、中介或模型路径；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 指出，建模方法的术语可能诱发"predictors""mediators""outcomes"等带有[[Causality|因果]]色彩的表达([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
+> - **收集量化数据** 数据可来自自陈问卷、大型数据库或其他量化测量。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 提到，一些[[Research Utilization|研究使用]]数万名学生的自陈变量并以结构方程模型分析([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
+> - **分析变量关系** 研究通常估计变量间关联、预测关系、中介或模型路径；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 指出，建模方法的术语可能诱发"predictors""mediators""outcomes"等带有[[Causality|因果]]色彩的表达([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
 > - **生成后续[[Hypothesis|假设]]**：在研究序列中，描述性和相关性研究可识别可能的[[Causality|因果关系]]，随后应通过干预或[[Experimental Research|实验研究]]正式检验([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ## 适用场景
@@ -81,7 +81,7 @@ updated: 2026-05-18
 > [!warning] 局限性
 > - **不能单独支持强[[Causality|因果]]建议**：没有[[Variable|变量]]操纵意味着研究无法证明改变一个变量会导致另一个变量改善；因此基于观察/相关结果提出明确[[Recommendations for Practice|实践建议]]会超出证据边界([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
 > - **容易被统计建模语言"挤压"出[[Causality|因果性]]**：[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 指出，相关研究中建模方法的广泛使用可能使论文更常使用带有因果暗示的术语，并进而给出 RFP([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
-> - **实践建议增长**：2020 年五本教育心理学经验期刊中，66% 的观察/相关文章包含 RFP，高于 2000 年的 41% 和 2010 年的 46%；这说明方法限制与实践建议之间的张力正在扩大([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
+> - **实践建议增长** 2020 年五本教育心理学经验期刊中，66% 的观察/相关文章包含 RFP，高于 2000 年的 41% 和 2010 年的 46%；这说明方法限制与实践建议之间的张力正在扩大([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 
 ## 相关理论
 

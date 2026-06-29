@@ -16,6 +16,7 @@ tags:
   - region/ussr
 related_concepts:
   - "[[Ideological Capture of Science]]"
+  - "[[Scientific Autarky]]"
   - "[[Soviet Statism]]"
   - "[[Scientific Method]]"
 related_theories: []
@@ -66,7 +67,7 @@ updated: 2026-06-12
 > [!success]
 > - [[Lysenkoism]] 成为苏联[[Ideological Capture of Science|科学意识形态化]]的标志性事件，展示了政治权力如何系统性地瓦解一个学科领域。
 > - 苏联生物学和农业科学在1930至1960年代整体陷入谬误，与当时世界遗传学和分子生物学的前沿发展完全脱节。与之形成对比的是，苏联在数学、物理学和计算机科学领域仍然保持竞争力——这一差异说明科学意识形态化的破坏程度因学科而异[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
-> - Lysenkoism 至今仍是科学史上政治干预科学的最著名案例之一，被广泛引为科学自主性重要性的警示。
+> - Lysenkoism 至今仍是科学史上政治干预科学的最著名案例之一，被广泛引为[[Scientific Autarky|科学自主]]性重要性的警示。
 
 ---
 ## 争议与批评

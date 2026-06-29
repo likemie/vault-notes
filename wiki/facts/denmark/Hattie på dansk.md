@@ -61,8 +61,8 @@ updated: '2026-05-18'
 > - 将 Hattie 的分析与简单的[[Causality|因果]]系统（如"台球游戏"或机械清洁系统）进行比较，得出 Hattie 将教学简化为教学干预与学习成果之间机械关系的结论（Bjerre et al., 2017, p.104，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]]）
 >
 > [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.3-4)]]使用 Robin Alexander 的四种批判性政策话语框架分析 Larsen 的批评，识别了其中至少两种话语：
-> - **二分法话语（discourse of dichotomy）**：将一切化简为相互排斥的选项——在 Larsen 的批评中是统计与独特性的虚假对立([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])
-> - **嘲弄话语（discourse of derision）**：先歪曲再嘲笑，尽可能进行人身攻击，诉诸最低的大众偏见公约数（Alexander, 2011, p.274，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-4]]）
+> - **二分法话语（discourse of dichotomy）** 将一切化简为相互排斥的选项——在 Larsen 的批评中是统计与独特性的虚假对立([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])
+> - **嘲弄话语（discourse of derision）** 先歪曲再嘲笑，尽可能进行人身攻击，诉诸最低的大众偏见公约数（Alexander, 2011, p.274，引自 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-4]]）
 >
 > ### [[Thomas Aastrup Rømer]] 的批评
 >
@@ -77,6 +77,6 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **Qvortrup（批评立场）**：部分作者以"情绪化的"和"高度修辞性的"话语替代了严肃的学术反驳，将对 Hattie 的批评转化为了文化战争([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4-5]])
-> - **隐含争议**：Qvortrup 本人是丹麦 Hattie 引介者之一（与 Niels Egelund 共同撰写 [[Visible Learning|VL]] 丹麦语译本导言），因此他对 *Hattie på dansk* 的批评来自 VL 辩护者而非中立观察者的立场
+> - **Qvortrup（批评立场）** 部分作者以"情绪化的"和"高度修辞性的"话语替代了严肃的学术反驳，将对 Hattie 的批评转化为了文化战争([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4-5]])
+> - **隐含争议** Qvortrup 本人是丹麦 Hattie 引介者之一（与 Niels Egelund 共同撰写 [[Visible Learning|VL]] 丹麦语译本导言），因此他对 *Hattie på dansk* 的批评来自 VL 辩护者而非中立观察者的立场
 

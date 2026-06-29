@@ -67,11 +67,11 @@ updated: '2026-05-18'
 ## 理论内部结构
 
 > [!abstract] [[Internal Validity|内部效度]]（Internal Validity）
-> **定义**：[[Internal Validity|内部效度]]指干预与结果[[Variable|变量]]之间[[Causality|因果关系]]的成立程度——即我们能否确信观察到的变化确实是由干预引起的(Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。
+> **定义**[[Internal Validity|内部效度]]指干预与结果[[Variable|变量]]之间[[Causality|因果关系]]的成立程度——即我们能否确信观察到的变化确实是由干预引起的(Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。
 >
 > > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of [[Experimental Research|experimental design]]." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461, citing Shadish et al., 2002]])
 >
-> **判断程序**：首先明确手中的因果问题，然后选择能够控制常见[[Threats to Internal Validity|内部效度威胁]]的设计。这些威胁本质上是干预后因变量变化的各种替代解释([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
+> **判断程序** 首先明确手中的因果问题，然后选择能够控制常见[[Threats to Internal Validity|内部效度威胁]]的设计。这些威胁本质上是干预后因变量变化的各种替代解释([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 >
 > > 例：在评估一种新的阅读干预时，如果学生的阅读成绩在干预后提高了，这可能是干预的效果，也可能是因为学生自然成熟（maturation）或在干预期间学校同时推行了其他阅读计划（history）。一个好的实验设计需要排除这些替代解释。
 >
@@ -89,7 +89,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] [[External Validity|外部效度]]（External Validity）
-> **定义**：[[External Validity|外部效度]]指某项研究的因果推断在不同情境、场所、测量工具、人群等条件下仍然成立的程度——可视为推广性（generalization）的一个广泛面向(Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
+> **定义**[[External Validity|外部效度]]指某项研究的因果推断在不同情境、场所、测量工具、人群等条件下仍然成立的程度——可视为推广性（generalization）的一个广泛面向(Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 >
 > > "External validity refers to the extent to which causal inference from a particular study holds over different contexts, settings, measures, populations, and so on." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 >
@@ -99,9 +99,9 @@ updated: '2026-05-18'
 >
 > Hitchcock et al. 指出，评估外部效度远比评判内部效度复杂，原因至少有三：
 >
-> 1. **威胁种类繁多且不穷尽**：许多因素或实验特征可能代表推广能力的威胁，"有些因素容易识别，有些则不是"（p.462）
-> 2. **推广目标未知**：进行证据综合的审查者"可能不知道信息消费者希望推广到哪个点"（p.463）——消费者可能是政策制定者（关注全国范围推广）、学区管理者（关注本地适配）或一线教师（关注特定学生群体）
-> 3. **SCD 面临额外偏见**：存在一种普遍（但错误）的信念认为 SCD 证据不能推广，尽管事实上它可以(Barlow et al., 2009; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])
+> 1. **威胁种类繁多且不穷尽** 许多因素或实验特征可能代表推广能力的威胁，"有些因素容易识别，有些则不是"（p.462）
+> 2. **推广目标未知** 进行证据综合的审查者"可能不知道信息消费者希望推广到哪个点"（p.463）——消费者可能是政策制定者（关注全国范围推广）、学区管理者（关注本地适配）或一线教师（关注特定学生群体）
+> 3. **SCD 面临额外偏见** 存在一种普遍（但错误）的信念认为 SCD 证据不能推广，尽管事实上它可以(Barlow et al., 2009; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])
 >
 > **外部效度的常见威胁**(Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])：
 >
@@ -116,9 +116,9 @@ updated: '2026-05-18'
 
 
 > [!abstract] 内部效度与外部效度的关系
-> **内部效度优先原则**：Shadish et al. (2002) 论证内部效度是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non），因为"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。这一原则直接解释了 [[What Works Clearinghouse|WWC]] 为何采用[[Gating Procedure]]——先用内部效度门槛筛选研究，再评估通过者的推广性。
+> **内部效度优先原则**Shadish et al. (2002) 论证内部效度是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non），因为"如果无法证明给定干预对某个结果负责，那么就没有多大意义去考察证据是否推广到不同情境"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。这一原则直接解释了 [[What Works Clearinghouse|WWC]] 为何采用[[Gating Procedure]]——先用内部效度门槛筛选研究，再评估通过者的推广性。
 >
-> **非互斥性**：内外部效度问题并非总是可以完全分离的。[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.463)]] 给出了一个具体例子：
+> **非互斥性** 内外部效度问题并非总是可以完全分离的。[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.463)]] 给出了一个具体例子：
 >
 > > 例：基线描述（baseline description）同时服务于内部效度和外部效度——必须看到基线和干预程序的详细描述才能理解处理对比（内部效度），但基线细节描述的是现状（status quo），因此也为推广性提供了信息（外部效度）。
 
@@ -133,14 +133,14 @@ updated: '2026-05-18'
 
 > [!info] 研究[[Paradigm|范式]]
 > - **[[Epistemology|认识论]]立场**：Campbellian 框架植根于[[Postpositivism|后实证主义]]传统——它接受[[Causality|因果推断]]的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
-> - **对实验设计的统一性**：该框架的关键洞察是不同实验设计（[[Randomised Controlled Trials|RCT]]、准实验、[[Single-Case Design|SCD]]）共享相同的因果推断逻辑——都通过排除替代解释来建立因果关系——因此可以被统一的理论框架所涵盖([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
-> - **常用方法**：RCT、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design]]——该框架为所有这些设计提供统一的效度评估语言
+> - **对实验设计的统一性** 该框架的关键洞察是不同实验设计（[[Randomised Controlled Trials|RCT]]、准实验、[[Single-Case Design|SCD]]）共享相同的因果推断逻辑——都通过排除替代解释来建立因果关系——因此可以被统一的理论框架所涵盖([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
+> - **常用方法** RCT、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design]]——该框架为所有这些设计提供统一的效度评估语言
 
 ## 争议与批评
 
 > [!warning] 争议与批评
 > - **[[External Validity|外部效度]]的结构性不对称**：[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462, 467)]] 指出，[[Internal Validity|内部效度]]有"一套明确定义的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导
-> - **在实践中更多是门控工具而非推广工具**：[[What Works Clearinghouse|WWC]] 使用该框架时，内部效度用于严格的门控判断（达标/不达标），但外部效度仅被"描述"而不被"评分"，由消费者自行判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.466]])——这实质上将框架中最困难的部分（推广性判断）转嫁给了可能缺乏方法论训练的政策制定者和从业者
+> - **在实践中更多是门控工具而非推广工具**[[What Works Clearinghouse|WWC]] 使用该框架时，内部效度用于严格的门控判断（达标/不达标），但外部效度仅被"描述"而不被"评分"，由消费者自行判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.466]])——这实质上将框架中最困难的部分（推广性判断）转嫁给了可能缺乏方法论训练的政策制定者和从业者
 > - **[[Single-Case Design|SCD]] 推广性的特殊偏见**：存在"一种普遍（且错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])——这意味着框架在面对 SCD 时面临额外的社会[[Epistemology|认识论]]障碍，不仅仅是方法论障碍
 
 ## 相关研究

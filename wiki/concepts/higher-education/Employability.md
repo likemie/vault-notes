@@ -23,6 +23,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Economy of Experience]]"
   - "[[Credential Inflation]]"
+  - "[[Soft Power]]"
   - "[[Social Engagement]]"
   - "[[Self-Entrepreneur]]"
   - "[[21st Century Skills and Competencies Discourse]]"

@@ -91,15 +91,15 @@ updated: '2026-05-18'
 
 
 - **作为"学习结果[[Coding in Qualitative Research|编码]]框架"**：在综述或[[Meta-analysis|元分析]]中，可先把 outcome 指标按一阶至四阶知识进行编码，再比较不同干预主要作用于哪一阶知识。
-- **作为"课程与评价对齐工具"**：若课程目标强调三阶/四阶知识（如创新、批判反思），测量工具就不能仅依赖事实回忆型测验。
-- **作为"教学设计诊断镜头"**：同一课堂活动可能同时触发多阶知识生成，避免将教学策略与单一学习层次机械绑定。
+- **作为"课程与评价对齐工具"** 若课程目标强调三阶/四阶知识（如创新、批判反思），测量工具就不能仅依赖事实回忆型测验。
+- **作为"教学设计诊断镜头"** 同一课堂活动可能同时触发多阶知识生成，避免将教学策略与单一学习层次机械绑定。
 
 ## 方法学限制
 
 
-- **边界判定困难**：三阶与四阶知识在真实课堂中的区分依赖解释者判断，[[Coding in Qualitative Research|编码]]一致性可能偏低。
-- **测量工具稀缺**：现有大规模标准化测试更容易测到一阶/二阶知识，三阶/四阶常需质性证据或复杂表现性任务支持。
-- **跨研究可比性问题**：即使都接受四阶框架，不同研究对同一学习结果的阶次归类仍可能不一致。
+- **边界判定困难** 三阶与四阶知识在真实课堂中的区分依赖解释者判断，[[Coding in Qualitative Research|编码]]一致性可能偏低。
+- **测量工具稀缺** 现有大规模标准化测试更容易测到一阶/二阶知识，三阶/四阶常需质性证据或复杂表现性任务支持。
+- **跨研究可比性问题** 即使都接受四阶框架，不同研究对同一学习结果的阶次归类仍可能不一致。
 
 ## 争议与批评
 
@@ -117,7 +117,7 @@ updated: '2026-05-18'
 ## 交叉阅读路径
 
 > [!example] 交叉阅读路径
-> - **方法论链**：[[Effect Size]] → [[Meta-analysis]] → [[Meta-meta-analysis]] → [[Dynamic Knowledge and Learning Model]]
+> - **方法论链**[[Effect Size]] → [[Meta-analysis]] → [[Meta-meta-analysis]] → [[Dynamic Knowledge and Learning Model]]
 > - **[[Visible Learning|VL]] 内部修正链**：[[Visible Learning]] → [[Popper's Three Worlds Theory]] → [[Dynamic Knowledge and Learning Model]]
-> - **政策批判链**：[[Evidence-Based Education]] → [[Scientism]] → [[Cargo Cult Science]]
+> - **政策批判链**[[Evidence-Based Education]] → [[Scientism]] → [[Cargo Cult Science]]
 

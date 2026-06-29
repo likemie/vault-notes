@@ -41,9 +41,9 @@ updated: '2026-05-18'
 
 > [!example]
 > 与[[International Schools|国际学校]]的详细对比，见 国际学校 > 概念辨析。核心区别：
-> - **位置**：寄宿学校主要位于学校母国（英、澳、加）；国际学校分布于世界各地
-> - **学生流向**：寄宿学校的学生从海外返回母国就读；国际学校的学生就地就读于海外
-> - **住宿**：寄宿学校提供食宿；国际学校通常不提供
+> - **位置** 寄宿学校主要位于学校母国（英、澳、加）；国际学校分布于世界各地
+> - **学生流向** 寄宿学校的学生从海外返回母国就读；国际学校的学生就地就读于海外
+> - **住宿** 寄宿学校提供食宿；国际学校通常不提供
 
 ---
 
@@ -72,17 +72,17 @@ updated: '2026-05-18'
 ## 规模分布
 
 > [!info]
-> - **英国**：超过 700 所寄宿学校，每年教育超过 100,000 名学生，[[Chinese Learner|中国学习者]]占比日益增加([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.20–21]])
-> - **澳大利亚**：101 所寄宿学校（主要与宗教相关），因地理位置更接近亚洲且费用低于英镑/欧元而吸引亚洲学生([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.21]])
-> - **加拿大**：约 60 所寄宿学校，同样依赖中国学习者维持日益增长的预算份额([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.21]])
+> - **英国** 超过 700 所寄宿学校，每年教育超过 100,000 名学生，[[Chinese Learner|中国学习者]]占比日益增加([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.20–21]])
+> - **澳大利亚** 101 所寄宿学校（主要与宗教相关），因地理位置更接近亚洲且费用低于英镑/欧元而吸引亚洲学生([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.21]])
+> - **加拿大** 约 60 所寄宿学校，同样依赖中国学习者维持日益增长的预算份额([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.21]])
 
 ---
 
 ## 争议与批评
 
 > [!warning]
-> - **文化同化问题**：寄宿学校虽然比过去更加多元文化，但其"按母国传统与习惯教育学生"的核心任务意味着文化同化仍是默认模式([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.20]])
-> - **财政依赖中国生源**：澳、加寄宿学校日益依赖[[Chinese Learner|中国学习者]]的学费维持预算——这可能制造对单一来源国学生的过度依赖([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.21]])
+> - **文化同化问题** 寄宿学校虽然比过去更加多元文化，但其"按母国传统与习惯教育学生"的核心任务意味着文化同化仍是默认模式([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.20]])
+> - **财政依赖中国生源** 澳、加寄宿学校日益依赖[[Chinese Learner|中国学习者]]的学费维持预算——这可能制造对单一来源国学生的过度依赖([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.21]])
 
 ---
 

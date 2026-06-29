@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Soft Power]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
   - "[[Geopolitics of Knowledge]]"

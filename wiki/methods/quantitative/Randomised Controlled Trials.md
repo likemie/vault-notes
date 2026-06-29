@@ -106,10 +106,10 @@ updated: 2026-06-17
 > 随机对照试验（RCT）是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组，隔离和控制自[[Variable|变量]]，操纵一个自变量观察其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则该变化可归因于该自变量——它成为原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78, 81]]）。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的黄金标准。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110, 114]]）。
 
 > [!method-scope] 方法范围
-> - **研究对象**：可被离散定义的教育干预及其效果，通常涉及学生成就、行为或态度等可测量结果。
-> - **问题类型**：适合回答[[Causality|因果]]识别问题——"这项干预是否产生了效果？"属于研究原因之效果（effects of causes）的[[Interventionist Strategy|干预主义策略]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 74, 79–82]]）。
-> - **分析单位**：个体学生、班级或学校（集群随机化）。
-> - **输出形式**：标准化[[Effect Size|效应量]]估计、[[Statistical Significance|统计显著性]]检验结果、干预-对照比较。
+> - **研究对象** 可被离散定义的教育干预及其效果，通常涉及学生成就、行为或态度等可测量结果。
+> - **问题类型** 适合回答[[Causality|因果]]识别问题——"这项干预是否产生了效果？"属于研究原因之效果（effects of causes）的[[Interventionist Strategy|干预主义策略]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 74, 79–82]]）。
+> - **分析单位** 个体学生、班级或学校（集群随机化）。
+> - **输出形式** 标准化[[Effect Size|效应量]]估计、[[Statistical Significance|统计显著性]]检验结果、干预-对照比较。
 
 > [!dev-timeline]+ 历史背景
 > 1. **起源与医学奠基（1904–1980s）**
@@ -137,16 +137,16 @@ updated: 2026-06-17
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观**：RCT 隐含经验主义和[[Positivism|实证主义]]认识论：[[Hypothesis|假设]]通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的[[Causality|因果]]效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的[[Causal Processes|因果过程]]（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–115]]）。
-> - **研究者角色**：研究者通过[[Random Assignment|随机分配]]和变量控制来消除混淆因素，追求研究者的"客观"中立。但 RCT 的操作本身涉及对参与者的控制和操纵——"研究者是国王或女王，参与者是臣民"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
-> - **有效性标准**：[[Internal Validity|内部效度]]优先（通过随机分配消除混淆），但[[External Validity|外部效度]]常被牺牲。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.9)]] 从效度理论角度补充：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性——即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力，而这种能力随着新证据的[[Emergence|涌现]]而持续演变。
-> - **不声称回答的问题**：RCT 只能告诉我们"在已被测试的条件下已测试过的干预的效果"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]]），不能直接回答干预为什么有效、如何在其他情境中起作用、或未来是否仍然有效。
+> - **知识观** RCT 隐含经验主义和[[Positivism|实证主义]]认识论：[[Hypothesis|假设]]通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的[[Causality|因果]]效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的[[Causal Processes|因果过程]]（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–115]]）。
+> - **研究者角色** 研究者通过[[Random Assignment|随机分配]]和变量控制来消除混淆因素，追求研究者的"客观"中立。但 RCT 的操作本身涉及对参与者的控制和操纵——"研究者是国王或女王，参与者是臣民"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
+> - **有效性标准**[[Internal Validity|内部效度]]优先（通过随机分配消除混淆），但[[External Validity|外部效度]]常被牺牲。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.9)]] 从效度理论角度补充：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性——即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力，而这种能力随着新证据的[[Emergence|涌现]]而持续演变。
+> - **不声称回答的问题** RCT 只能告诉我们"在已被测试的条件下已测试过的干预的效果"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]]），不能直接回答干预为什么有效、如何在其他情境中起作用、或未来是否仍然有效。
 
 > [!method-stack] 方法层级
-> - **研究设计**：真实验设计（随机分配至处理组和对照组）
-> - **数据收集**：前测（可选）、后测、标准化测验、问卷或行政数据
-> - **分析方法**：均值差比较、标准化[[Effect Size|效应量]]计算、t 检验、[[Analysis of Variance|方差分析]]、多水平模型
-> - **辅助技术**：[[Random Assignment|随机分配]]、[[Blinding|盲法]]（教育中常不可行）、[[Intent-to-Treat Analysis|意向治疗分析]]、集群随机化、部分嵌套设计
+> - **研究设计** 真实验设计（随机分配至处理组和对照组）
+> - **数据收集** 前测（可选）、后测、标准化测验、问卷或行政数据
+> - **分析方法** 均值差比较、标准化[[Effect Size|效应量]]计算、t 检验、[[Analysis of Variance|方差分析]]、多水平模型
+> - **辅助技术**[[Random Assignment|随机分配]]、[[Blinding|盲法]]（教育中常不可行）、[[Intent-to-Treat Analysis|意向治疗分析]]、集群随机化、部分嵌套设计
 
 ---
 
@@ -155,12 +155,12 @@ updated: 2026-06-17
 > [!proc] 通用操作步骤
 > 1. **[[Random Assignment|随机分配]]**：将参与者随机分配至干预组（接受干预）和对照组。
 > 2. **前测**（可选）：在干预前测量两组的基线水平。
-> 3. **实施干预**：干预组接受待评估的教育干预，对照组维持原有实践。
-> 4. **后测**：干预后测量两组的结果。
-> 5. **分析**：计算标准化[[Effect Size|效应量]]（均值差除以标准差），检验[[Statistical Significance|统计显著性]]。
+> 3. **实施干预** 干预组接受待评估的教育干预，对照组维持原有实践。
+> 4. **后测** 干预后测量两组的结果。
+> 5. **分析** 计算标准化[[Effect Size|效应量]]（均值差除以标准差），检验[[Statistical Significance|统计显著性]]。
 
 > [!assumptions] 随机化的逻辑与 ceteris paribus [[Hypothesis|假设]]
-> 随机分配的核心逻辑是采纳**其他条件相同（ceteris paribus）**条件——假设参与者构成中的大量未控制[[Variable|变量]]在组间均匀分布，因此无需单独控制它们。但这是一个**大胆且可能危险的假设**：[[Complexity Theory|复杂性理论]]和混沌理论表明，微小的变化和差异就可以带来结果的重大差异（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
+> 随机分配的核心逻辑是采纳**其他条件相同（ceteris paribus）**条件——假设参与者构成中的大量未控制[[Variable|变量]]在组间均匀分布，因此无需单独控制它们。但这是一个**大胆且可能危险的假设**[[Complexity Theory|复杂性理论]]和混沌理论表明，微小的变化和差异就可以带来结果的重大差异（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
 
 > [!method-limits] Holland 的基本[[Causality|因果推断]]问题
 > Holland（1986: 947）提出了因果推断的一个根本性困难：同一个人不能同时处于接受和不接受干预的组中——"[[Fundamental Problem of Causal Inference|因果推断的基本问题]]"（fundamental problem of causal inference）。这一问题可能无法仅通过随机化充分缓解——因为无论随机分配多么完美，都只能在群体层面比较平均值，永远无法在个体层面观察[[Counterfactual|反事实]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
@@ -172,11 +172,11 @@ updated: 2026-06-17
 > [!tension] [[Complexity Theory|复杂性理论]]对 RCT 黄金标准的根本性质疑
 > 复杂性理论对 RCT 构成了根本性挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 >
-> - **反线性因果**：混沌和复杂性理论反对线性的、决定论的、可普遍化的、原子化的、受控的封闭系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作（Gleick, 1987; Waldrop, 1992; Lewin, 1993）
+> - **反线性因果** 混沌和复杂性理论反对线性的、决定论的、可普遍化的、原子化的、受控的封闭系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作（Gleick, 1987; Waldrop, 1992; Lewin, 1993）
 > - **反[[Variable|变量]]控制**：在一个动态、演化、流动、开放的情境中，保持变量恒常是误导性的——所测量到的已经是历史（What is measured is history, Morrison, 2001）
-> - **整体论**：现象必须被整体地看待——将现象原子化为有限数量的变量会错过多个部分的必要动态互动（Morrison, 2008）
-> - **分析单位转向**：复杂性理论建议分析单位从个体/机构/制度转向网络或生态系统（Capra, 1996: 301）
-> - **测量之限**：人可以测量一个人的每一个可观察变量到无限微小的程度，但他的本质——是什么使他成为他——却逃逸了原子化和测量
+> - **整体论** 现象必须被整体地看待——将现象原子化为有限数量的变量会错过多个部分的必要动态互动（Morrison, 2008）
+> - **分析单位转向** 复杂性理论建议分析单位从个体/机构/制度转向网络或生态系统（Capra, 1996: 301）
+> - **测量之限** 人可以测量一个人的每一个可观察变量到无限微小的程度，但他的本质——是什么使他成为他——却逃逸了原子化和测量
 
 > [!quote] 赫拉克利特的名言
 > 古典实验方法遵循可复制性和可预测性的要求，但在复杂现象中，结果从来不是真正可复制或可预测的。正如赫拉克利特（Heraclitus）所言：**我们永远不会两次踏入同一条河流**（we never jump into the same river twice）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
@@ -186,30 +186,30 @@ updated: 2026-06-17
 ## 资料与分析
 
 > [!method-stack] 资料与分析摘要
-> - **资料类型**：标准化测验成绩、问卷量表、行为观察记录、行政数据（出勤率、升学率等）。
-> - **资料质量**：取决于[[Random Assignment|随机分配]]的成功程度、[[Sample Size Determination|样本量]]、流失率（attrition）、测量工具的信效度。缺失数据在大班中比小班中更常见会破坏随机化[[Hypothesis|假设]]（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6–7]]）。
-> - **分析策略**：均值比较、[[Effect Size|效应量]]估计、t 检验或[[Analysis of Variance|方差分析]]、多水平模型（处理集群随机化的嵌套结构）。
-> - **质量控制**：[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）处理非合规问题；流失分析；基线等值检验。
-> - **输出形式**：标准化均值差（Cohen's d, Hedges' g）、[[Confidence Interval|置信区间]]、p 值、最小可检测效应量（MDES）。
+> - **资料类型** 标准化测验成绩、问卷量表、行为观察记录、行政数据（出勤率、升学率等）。
+> - **资料质量** 取决于[[Random Assignment|随机分配]]的成功程度、[[Sample Size Determination|样本量]]、流失率（attrition）、测量工具的信效度。缺失数据在大班中比小班中更常见会破坏随机化[[Hypothesis|假设]]（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6–7]]）。
+> - **分析策略** 均值比较、[[Effect Size|效应量]]估计、t 检验或[[Analysis of Variance|方差分析]]、多水平模型（处理集群随机化的嵌套结构）。
+> - **质量控制**[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）处理非合规问题；流失分析；基线等值检验。
+> - **输出形式** 标准化均值差（Cohen's d, Hedges' g）、[[Confidence Interval|置信区间]]、p 值、最小可检测效应量（MDES）。
 
 ---
 
 ## 适用场景
 
 > [!fit-grid] 适用判断
-> - **适合使用**：在医学领域（来源领域），RCT 适合在已有充分理论理解治疗机制的前提下评估特定治疗方案的效果。在教育领域，当[[Research Question|研究问题]]是关于可被离散定义的干预、且情境相对可控时，RCT 可能提供有用的比较信息。即使批判者也承认 RCT 可以挑战既有的专业习惯和突出替代方案（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]]）。在教育中，RCT 适合回答[[Causality|因果]]归属问题——研究的是原因的效果（effects of causes）而非效果的原因（causes of effects）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 74, 79–82]]）。
-> - **谨慎使用**：当干预涉及复杂社会互动（如[[School Leadership|学校领导力]]、教学法改革）时，因果力量分布广泛且无法被隔离为单一干预和单一结果。样本代表性无法保证时，从试验到政策的外推存在根本性不确定。
-> - **不适合使用**：研究问题是关于[[Causal Processes|因果过程]]如何运作（how）而非仅仅是否有效（whether）。需要理解参与者动机、语境意义或复杂系统的[[Emergence|涌现]]属性时。时间尺度不适合前后测测量时——后测时机不当可能破坏关于原因效果的陈述的[[Reliability|可靠性]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 81]]）。
+> - **适合使用** 在医学领域（来源领域），RCT 适合在已有充分理论理解治疗机制的前提下评估特定治疗方案的效果。在教育领域，当[[Research Question|研究问题]]是关于可被离散定义的干预、且情境相对可控时，RCT 可能提供有用的比较信息。即使批判者也承认 RCT 可以挑战既有的专业习惯和突出替代方案（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]]）。在教育中，RCT 适合回答[[Causality|因果]]归属问题——研究的是原因的效果（effects of causes）而非效果的原因（causes of effects）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 74, 79–82]]）。
+> - **谨慎使用** 当干预涉及复杂社会互动（如[[School Leadership|学校领导力]]、教学法改革）时，因果力量分布广泛且无法被隔离为单一干预和单一结果。样本代表性无法保证时，从试验到政策的外推存在根本性不确定。
+> - **不适合使用** 研究问题是关于[[Causal Processes|因果过程]]如何运作（how）而非仅仅是否有效（whether）。需要理解参与者动机、语境意义或复杂系统的[[Emergence|涌现]]属性时。时间尺度不适合前后测测量时——后测时机不当可能破坏关于原因效果的陈述的[[Reliability|可靠性]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 81]]）。
 
 ---
 
 ## 局限性
 
 > [!method-limits] 偏误来源、适用边界与误用风险
-> - **偏误来源**：样本偏误（参与学校系统性不同于总体）、分配偏误（家长干预、非随机流失）、测量偏误（评估工具偏袒干预内容）、[[Publication Bias|发表偏差]]、研究者偏差（作者与课程开发者关联）。
-> - **适用边界**：RCT 结果只能告诉我们"什么曾经有效"而非"什么将永远有效"——[[Counterfactual|反事实]]条件随时间变化（[[Argument_Higgins_2016_RE|Higgins, 2016, p.44]]）。教育干预的效果不是固定不变的，同一个干预在不同时期可能产生不同结果。
-> - **误用风险**：将 RCT 的统计显著效果误读为"干预在所有情境中有效"；仅报告[[Effect Size|效应量]]而不提供机制理解；忽视 RCT 无法回答的[[Causal Processes|因果过程]]问题——"因果过程（causal processes）和[[Causality|因果]]链没有被建立，只知道输入和输出的关系"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78–79]]）。
-> - **补救方式**：补充[[Qualitative Research|质性研究]]以揭示因果过程；[[Mechanism Experiments|机制实验]]设计；[[Meta-analysis|元分析]]综合多情境证据；透明报告样本特征和实施条件。
+> - **偏误来源** 样本偏误（参与学校系统性不同于总体）、分配偏误（家长干预、非随机流失）、测量偏误（评估工具偏袒干预内容）、[[Publication Bias|发表偏差]]、研究者偏差（作者与课程开发者关联）。
+> - **适用边界** RCT 结果只能告诉我们"什么曾经有效"而非"什么将永远有效"——[[Counterfactual|反事实]]条件随时间变化（[[Argument_Higgins_2016_RE|Higgins, 2016, p.44]]）。教育干预的效果不是固定不变的，同一个干预在不同时期可能产生不同结果。
+> - **误用风险** 将 RCT 的统计显著效果误读为"干预在所有情境中有效"；仅报告[[Effect Size|效应量]]而不提供机制理解；忽视 RCT 无法回答的[[Causal Processes|因果过程]]问题——"因果过程（causal processes）和[[Causality|因果]]链没有被建立，只知道输入和输出的关系"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78–79]]）。
+> - **补救方式** 补充[[Qualitative Research|质性研究]]以揭示因果过程；[[Mechanism Experiments|机制实验]]设计；[[Meta-analysis|元分析]]综合多情境证据；透明报告样本特征和实施条件。
 
 ---
 
@@ -266,7 +266,7 @@ updated: 2026-06-17
 > 药物试验通过严格筛选参与者来消除其他可能原因的干扰。在教育中，消除学习者多样化特征的干扰是不可想象的。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.6)]] 以 Tennessee STAR 项目为例：参与学校系统性地不同于全州平均水平——规模更大、非裔学生比例高出州平均超过 40%（Hanushek, 1999）。正如 Joyce 所指出的："即使 RCT 设计良好且忠实实施，向未包含在试验中的情境的外推仅在研究执行的情境能够代表其他情境时才被保证——而这不可能被建立。我们永远不能知道'什么有效'，而只能知道'什么曾经有效'。"
 
 > [!critique-method] 随机分配在教育中的脆弱性
-> [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.6–7)]] 记录了 Tennessee STAR 项目中随机分配被破坏的两个机制：（1）**家长干预**：家长发现孩子被分配到大班后施压转至小班，更富裕学生在小班中过度代表（Sohn, 2015）；（2）**数据缺失的差异分布**：缺失数据在大班中比在小班中更常见，进一步破坏随机化假设。
+> [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.6–7)]] 记录了 Tennessee STAR 项目中随机分配被破坏的两个机制：（1）**家长干预** 家长发现孩子被分配到大班后施压转至小班，更富裕学生在小班中过度代表（Sohn, 2015）；（2）**数据缺失的差异分布** 缺失数据在大班中比在小班中更常见，进一步破坏随机化假设。
 
 > [!critique-method] 教师质量：被系统性忽视的混淆因素
 > [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.7–9)]] 识别了教师质量的未测量变异作为教育 RCT 中的结构性混淆因素：教师间一 SD 差异 ≈ 0.15 SD 学生成就差异（Hanushek & Rivkin, 2010）；在 50 名教师的群体中，最有效教师的学生 6 个月学习 = 平均教师 1 年 = 最无效教师 2 年；更有效的教师对低成就学生不成比例地更有效（Slater, Davies, & Burgess, 2012）。这意味着在[[Tracking|能力分组]] RCT 中，如果最有效教师被分配给高成就学生，观察到的"能力分组效应"可能完全是"教师分配效应"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.9]]）。[[Education Endowment Foundation|EEF]] 当前关于能力分组的 RCT（EEF, 2019）印证了这些问题：由于无法获得学校同意而未使用随机分配，且没有教师质量的直接测量（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.8–9]]）。
@@ -309,7 +309,7 @@ updated: 2026-06-17
 > CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi & Kelcey (2016) 比较了 NCER 资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。精度通过**最小可检测效应量（MDES）**衡量——指在给定统计功效下可检测的最小效应量。论文同时提供了两级和三级 CRT 的 MDES 计算公式，填补了方法论[[Document|文献]]的空白。
 
 > [!designs] 部分嵌套 RCT 与[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）
-> Schweig & Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-compliance）**：当存在非合规时，传统多水平模型不再估计处理效应，而是提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。
+> Schweig & Pane (2016) 关注部分嵌套 RCT——一个实验臂为集群、另一实验臂为非集群的设计。核心问题是**非合规（non-compliance）** 当存在非合规时，传统多水平模型不再估计处理效应，而是提供 ITT 估计——反映干预可获得性而非实际接受的效果。这对政策有重要意义，因为政策制定者通常只控制干预的可获得性而非其接受（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。
 
 > [!warning] 技术改进的局限
 > Pampaka 等编者对这些技术进展提出了质疑："在每种情况下我们可能都会问：这些建议的改进是否真的能产生必要的差异？"此外，编者暗示非合规问题可能比技术文献承认的更深刻：如果"技术性依从"的教师中有一部分并非有效参与者，"这些结果可能暗示大规模实施经常失败的另一个原因"（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, pp.233-234]]）。详见 [[Cluster Randomized Trials]]、[[Intent-to-Treat Analysis]]。

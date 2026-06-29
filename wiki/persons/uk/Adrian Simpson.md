@@ -71,7 +71,7 @@ updated: '2026-06-08'
 > [!abstract] 主要著作
 > - Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466. — 通过农场肥料思想实验和真实研究案例，系统论证[[Effect Size|效应量]]三大系统性偏差（比较组不对等、范围限制、测量设计）使[[Meta-analysis|元分析]]联盟表成为"研究设计操纵开放程度的等级"而非教育有效性排名。详见 [[Argument_Simpson_2017_JEP]]。
 > - Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a category error in [[Evidence-Based Education]]. *British Educational Research Journal*, 44(5), 897–913. — 论证将效应量视为干预有效性的测量是一个**类别错误**——类似于将图片中公主比大象大的尺寸差异误认为所指对象实际大小的差异([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p.126]])。
-> - Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. *Educational Research and Evaluation*, 25(1-2), 99–109. — 以"教一个匈牙利单词"思想实验系统证明效应量是**试验清晰度**（experimental clarity）而非教育有效性的测量；以 Corncrake 寓言开篇说明论证有效性与结论正确性必须被区分；运用 Freedman (2009) 框架分析 EBE 支持者对批评的六种防御策略。详见 Argument_Simpson_2019_ERE。
+> - Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. *Educational Research and Evaluation*, 25(1-2), 99–109. — 以"教一个匈牙利单词"思想实验系统证明效应量是**试验清晰度（experimental clarity）**而非教育有效性的测量；以 Corncrake 寓言开篇说明论证有效性与结论正确性必须被区分；运用 Freedman (2009) 框架分析 EBE 支持者对批评的六种防御策略。详见 Argument_Simpson_2019_ERE。
 
 ## 核心思想
 
@@ -111,7 +111,7 @@ updated: '2026-06-08'
 > > 例：如果测试恰好包含 *oktatás* 且其他词无人认识，实验组均分 1、对照组均分 0、标准差极小 → d ≈ ∞。按 Hattie 标准，这使"教一个匈牙利单词"成为有史以来最强的教育干预([[Argument_Simpson_2019_ERE|Simpson, 2019, p.101]])。
 >
 > 核心论点（详见 [[Effect Size#Simpson (2019) 的思想实验：教一个匈牙利单词]]、Argument_Simpson_2019_ERE）：
-> - 效应量不是干预有效性的测量，而是**试验清晰度**（experimental clarity）——即信噪比([[Argument_Simpson_2019_ERE|Simpson, 2019, pp.103–104]])
+> - 效应量不是干预有效性的测量，而是**试验清晰度（experimental clarity）**——即信噪比([[Argument_Simpson_2019_ERE|Simpson, 2019, pp.103–104]])
 > - 将效应量视为教育有效性的代理是**范畴错误**（延续 2018 年的概念化）：教育有效性是情境绑定的概念，效应量取决于研究者设计选择（p.105）
 > - 但效应量有合法技术用途：告知未来研究者在类似条件下可以预期的噪声水平，以调整样本量等设计参数（p.104）
 > - 效应量有意义的合并仅在极端条件下：**同一干预、相同样本、相同控制活动、相同测量、相同研究设计和相同统计分析**——"当然，在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"([[Argument_Simpson_2019_ERE|Simpson, 2019, p.106]])
@@ -147,13 +147,13 @@ updated: '2026-06-08'
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]明确引用 Simpson 的论证作为其"[[Meta-meta-analysis|元-元分析]]在教育政策中绝对没有任何角色"断言的方法论基础，同时肯定 Simpson 并非"把婴儿和洗澡水一起倒掉"——"Simpson is careful not to throw the baby out with the bathwater"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.11]])——详见 Argument_Wiliam_2019_ERE
 > - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]在[[Whole Language|全语言]]案例的细读审查中运用 Simpson 效应量不可比性的论证，揭示 [[Visible Learning|VL]] 中分类错误和选择性排除的模式——详见 [[Argument_OConnor_2020_AJLL]]
 >
-> **对政策工具的直接影响**：Simpson 的批判直接适用于 [[EEF Teaching and Learning Toolkit]] 和 [[Visible Learning]]——两者都以效应量为基本分析单位，而效应量本身已被论证为不可靠的测量指标。他的论证从技术层面支持了 Wrigley 的方法论批判和 Biesta 的哲学批判，使 EBE 批判形成了哲学-方法论-制度的完整框架。
+> **对政策工具的直接影响** Simpson 的批判直接适用于 [[EEF Teaching and Learning Toolkit]] 和 [[Visible Learning]]——两者都以效应量为基本分析单位，而效应量本身已被论证为不可靠的测量指标。他的论证从技术层面支持了 Wrigley 的方法论批判和 Biesta 的哲学批判，使 EBE 批判形成了哲学-方法论-制度的完整框架。
 
 ## 争议与批评
 
 > [!warning] 争议与批评
 > Simpson 的工作本身构成对[[Evidence-Based Education|证据本位教育]]方法论的**系统性批判**，而非被批评的对象。相关的方法论争议围绕其核心主张展开：
 >
-> - **EBE 支持者的"有什么危害"回应**：[[Argument_Simpson_2019_ERE|Simpson (2019, pp.107–108)]]记录了 EBE 支持者的典型回应——即使[[Effect Size|效应量]]不完美，使用它来指导政策"有什么危害？"Simpson 的回答是：干预形式被推广为更有效，而事实上证据仅表明这些是更容易进行清晰研究的领域——这种误认正在引导政策、驱动稀缺资源的使用并导致教学方法的重大改变
-> - **效应的合法用途**：[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]指出 Simpson 的立场是审慎而非全盘否定——他不"把婴儿和洗澡水一起倒掉"。Simpson 承认效应量在以下情况中有合法技术用途：告知未来研究者在类似测试、样本和控制活动下可以预期的噪声水平，以便调整[[Sample Size Determination|样本量]]、减少样本[[Heterogeneity|异质性]]、选择和修改测量工具等([[Argument_Simpson_2019_ERE|Simpson, 2019, p.104]])
-> - **从批判到建设**：Simpson 的贡献主要在诊断层面——识别效应量比较和合并的前提[[Hypothesis|假设]]如何被违背。建设性替代方案（如 Wecker et al. 2016 的中央证据数据库、Pawson 2006 的实在论综合）由其他学者提出，Simpson 本人未在已处理论文中提出替代方法论框架
+> - **EBE 支持者的"有什么危害"回应**[[Argument_Simpson_2019_ERE|Simpson (2019, pp.107–108)]]记录了 EBE 支持者的典型回应——即使[[Effect Size|效应量]]不完美，使用它来指导政策"有什么危害？"Simpson 的回答是：干预形式被推广为更有效，而事实上证据仅表明这些是更容易进行清晰研究的领域——这种误认正在引导政策、驱动稀缺资源的使用并导致教学方法的重大改变
+> - **效应的合法用途**[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]指出 Simpson 的立场是审慎而非全盘否定——他不"把婴儿和洗澡水一起倒掉"。Simpson 承认效应量在以下情况中有合法技术用途：告知未来研究者在类似测试、样本和控制活动下可以预期的噪声水平，以便调整[[Sample Size Determination|样本量]]、减少样本[[Heterogeneity|异质性]]、选择和修改测量工具等([[Argument_Simpson_2019_ERE|Simpson, 2019, p.104]])
+> - **从批判到建设** Simpson 的贡献主要在诊断层面——识别效应量比较和合并的前提[[Hypothesis|假设]]如何被违背。建设性替代方案（如 Wecker et al. 2016 的中央证据数据库、Pawson 2006 的实在论综合）由其他学者提出，Simpson 本人未在已处理论文中提出替代方法论框架

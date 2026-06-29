@@ -54,11 +54,11 @@ Creswell & Creswell（2022, 第5章）用一个隐喻来说明叙事钩子的写
 
 Creswell & Creswell（2022, 第5章）提供了叙事钩子的具体写作建议：
 
-1. **激发兴趣并传达议题**：开篇句应让读者产生兴趣，同时传达一个广泛受众都能理解的议题
-2. **避免使用引文**：不要在开篇句中使用引文（尤其是长引文），引文会增加解读的多种可能性，造成模糊的开端
-3. **远离习语和陈词滥调**：避免使用惯用表达或陈腐短语
-4. **考虑数字信息**：用数字增强冲击力。例如："Every year, an estimated 5 million Americans experience the death of an immediate family member."
-5. **提出问题时**：用问题开篇可以创造读者兴趣
+1. **激发兴趣并传达议题** 开篇句应让读者产生兴趣，同时传达一个广泛受众都能理解的议题
+2. **避免使用引文** 不要在开篇句中使用引文（尤其是长引文），引文会增加解读的多种可能性，造成模糊的开端
+3. **远离习语和陈词滥调** 避免使用惯用表达或陈腐短语
+4. **考虑数字信息** 用数字增强冲击力。例如："Every year, an estimated 5 million Americans experience the death of an immediate family member."
+5. **提出问题时** 用问题开篇可以创造读者兴趣
 6. **从[[Document|文献]]视角切入时**：以文献视角开始讨论[[Research Question|研究问题]]
 
 > [!tip]- 学习途径

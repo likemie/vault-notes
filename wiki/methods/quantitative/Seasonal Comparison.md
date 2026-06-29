@@ -54,21 +54,21 @@ updated: '2026-05-18'
 ## 操作步骤
 
 > [!example] 基本设计
-> 1. **数据要求**：需要季节性收集的测试数据——至少包含秋季（学年开始）和春季（学年结束）两个测量点，理想情况下还包含秋季的基线测量以捕捉暑假变化
-> 2. **比较逻辑**：
+> 1. **数据要求** 需要季节性收集的测试数据——至少包含秋季（学年开始）和春季（学年结束）两个测量点，理想情况下还包含秋季的基线测量以捕捉暑假变化
+> 2. **比较逻辑**
 >    - 暑假期间（非学校期）：成就差距的变化主要反映非学校因素
 >    - 学年期间（混合期）：成就差距的变化反映学校因素 + 非学校因素
 >    - 比较两者 → 推断学校的净效应
-> 3. **判断标准**：如果 SES 成就差距在学年期间增长更慢（或缩小），而在暑假期间增长更快 → 学校是补偿性的；反之 → 学校是加剧性的([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.5–6]])
+> 3. **判断标准** 如果 SES 成就差距在学年期间增长更慢（或缩小），而在暑假期间增长更快 → 学校是补偿性的；反之 → 学校是加剧性的([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.5–6]])
 >
 > > 例：即便高 SES 和低 SES 儿童在学年期间以大致相同的速度学习（差距保持不变而非缩小），只要暑假期间差距加速扩大，学校仍被判定为补偿性的——因为相对于[[Counterfactual|反事实]]（无学校状态），学校减少了差距本应扩大的幅度。这类似于减肥项目：即使治疗组体重未下降，只要对照组体重增加了，治疗就是有效的([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.6]])。
 
 
 > [!example] 主要数据来源
 > - **ECLS-K 1998**（Early Childhood Longitudinal Study–Kindergarten Cohort）：第一个全国代表性的季节性收集数据，追踪从幼儿园到八年级（Downey et al., 2004）
-> - **ECLS-K 2011**：更新的队列，用于复制和扩展早期发现（Downey, Workman & von Hippel, 2016）
-> - **NWEA 数据**（Northwest Evaluation Association）：大规模学生评估数据（Yoon & Merry, 2015）
-> - **巴尔的摩纵向研究**：Entwisle & Alexander 在 1980 年代开始的标志性地方性季节性研究（Entwisle & Alexander, 1992, 1994）
+> - **ECLS-K 2011** 更新的队列，用于复制和扩展早期发现（Downey, Workman & von Hippel, 2016）
+> - **NWEA 数据（Northwest Evaluation Association）** 大规模学生评估数据（Yoon & Merry, 2015）
+> - **巴尔的摩纵向研究** Entwisle & Alexander 在 1980 年代开始的标志性地方性季节性研究（Entwisle & Alexander, 1992, 1994）
 
 ## 适用场景
 

@@ -80,10 +80,10 @@ updated: 2026-06-05
 > 技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）是 NSF 下属的理事会，于 2022 年通过[[CHIPS and Science Act|CHIPS 与科学法案]]获得联邦拨款，负责推动区域性的跨机构研发与商业化合作([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.134]])。
 
 > [!note]-
-> **资助时间线**：
+> **资助时间线**
 > - **2022** 年：通过 CHIPS 与科学法案获得首批联邦拨款（p.134）
-> - **2024-01 之前**：向全国各地团队授予了 44 项能力建设资助（capacity-building grants），作为前期布局（p.134）
-> - **2024-01**：向 10 个区域创新合作体（regional innovation collaboratives）授予高达 1.6 亿美元的十年期资助（p.134）
+> - **2024-01 之前** 向全国各地团队授予了 44 项能力建设资助（capacity-building grants），作为前期布局（p.134）
+> - **2024-01** 向 10 个区域创新合作体（regional innovation collaboratives）授予高达 1.6 亿美元的十年期资助（p.134）
 
 > [!success]
 > 根据布鲁金斯学会的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱的地区。TIP 的资助结构（先小规模能力建设、后大规模十年期投入）为新一批[[Innovation Hub|创新中心]]在非传统科技聚集区的发展提供了路径（pp.134, 137）。

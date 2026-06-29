@@ -62,9 +62,9 @@ updated: '2026-06-08'
 > 2008 年，离开 [[OECD]] 后的 Bottani 发表 *The oil level, the engine and the car*，系统表达了对指标的幻灭——不仅对指标本身，更是对它们如何被"误解和误用"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.5]])。
 >
 > 后期核心论点([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14, 18]])：
-> - **指标与评估的混淆**：OECD 从提供"提醒"性指标滑向呈现"评估"性结论，将变化中的系统、教育供给、个体成绩和系统效率混合在单一框架中
-> - **不存在中立认知**："没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
-> - **民主缺失**：2002 年 [[Education at a Glance|EAG]] 概念框架的重组"在没有任何真正民主辩论的情况下"完成(Bottani, 2008, p.18; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
+> - **指标与评估的混淆** OECD 从提供"提醒"性指标滑向呈现"评估"性结论，将变化中的系统、教育供给、个体成绩和系统效率混合在单一框架中
+> - **不存在中立认知** "没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
+> - **民主缺失** 2002 年 [[Education at a Glance|EAG]] 概念框架的重组"在没有任何真正民主辩论的情况下"完成(Bottani, 2008, p.18; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
 
 ## 主要贡献
 
@@ -84,10 +84,10 @@ updated: '2026-06-08'
 ## 思想发展与影响
 
 > [!note-] [[OECD]] 职业历程([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.5]])
-> - **1976–1983**：OECD 早期工作，专注早期儿童教育
-> - **1983–1987**：领导 OECD 的教育、文化与语言多元主义项目（Education, Cultural and Linguistic Pluralism）
+> - **1976–1983** OECD 早期工作，专注早期儿童教育
+> - **1983–1987** 领导 OECD 的教育、文化与语言多元主义项目（Education, Cultural and Linguistic Pluralism）
 > - **1984–1987**（原文为 1994–1987，疑似笔误）：担任 OECD 教育统计与指标处处长
-> - **1988–1997**：担任 [[International Indicators of Education Systems|INES]] 项目负责人，这是[[International Education|国际教育]]指标体系的关键塑造时期
+> - **1988–1997** 担任 [[International Indicators of Education Systems|INES]] 项目负责人，这是[[International Education|国际教育]]指标体系的关键塑造时期
 > - 约在 [[PISA]] 概念化和开发的时期离任
 
 

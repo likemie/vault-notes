@@ -53,19 +53,19 @@ updated: 2026-06-20
 ## 背景
 
 > [!event-context] 事件背景
-> - **时间 / 地点**：2013年发起于英国伦敦，后续发展为国际性的教育会议网络。
-> - **关键主体**：英国中学教师汤姆·贝内特（Tom Bennett，发起人）、时任英国教育部学校部长尼克·吉布（Nick Gibb，政府官方背书者）([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
-> - **制度背景**：英国教育部强力推动“[[Evidence-Based Education|循证教育]]改革”与“黄金标准”[[Randomised Controlled Trials|随机对照试验]]（RCT）方法论，试图绕过大学教育学院等传统研究力量，建立由教师直接对接“科学证据”的政策话语体系。
-> - **触发条件**：教师群体对诸如脑体操（Brain Gym）、学习风格（Learning Styles）等缺乏证据支持的“教育时尚”（educational fads）感到厌倦，自发寻求更具科学确定性的教学改进依据([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
+> - **时间 / 地点** 2013年发起于英国伦敦，后续发展为国际性的教育会议网络。
+> - **关键主体** 英国中学教师汤姆·贝内特（Tom Bennett，发起人）、时任英国教育部学校部长尼克·吉布（Nick Gibb，政府官方背书者）([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
+> - **制度背景** 英国教育部强力推动“[[Evidence-Based Education|循证教育]]改革”与“黄金标准”[[Randomised Controlled Trials|随机对照试验]]（RCT）方法论，试图绕过大学教育学院等传统研究力量，建立由教师直接对接“科学证据”的政策话语体系。
+> - **触发条件** 教师群体对诸如脑体操（Brain Gym）、学习风格（Learning Styles）等缺乏证据支持的“教育时尚”（educational fads）感到厌倦，自发寻求更具科学确定性的教学改进依据([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
 
 ---
 
 ## 经过
 
 > [!dev-timeline]- 事件经过
-> - **2013 — 创立与思想奠定**：教师 Tom Bennett 出版著作《防教师计划》（*Teacher Proof*），痛陈“学习风格”等假科学，提倡以 [[Randomised Controlled Trials|RCT]] 作为唯一可靠的教育科学标准；同年创立 ResearchED 会议网络，标榜为教师主导、弥合研究与实践距离的草根运动([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
-> - **2015 — 官方背书与政治收编**：ResearchED 迅速得到英国保守党政府学校部长 Nick Gibb 的强力背书，Gibb 在主旨演讲中甚至声称 ResearchED 的存在归功于他的政策倡导，标志着该运动与政府教育改革议程的深度绑定([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
-> - **2016–至今 — 跨国扩张与争议深化**：ResearchED 在澳大利亚、新西兰、美国等国建立国际分支会议。其在英国的政策活动中，频繁将 [[Education Endowment Foundation|EEF]] 发布的《教学与学习工具包》引为权威，面临方法论学者关于其“去情境化科学观”的系统性批判([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
+> - **2013 — 创立与思想奠定** 教师 Tom Bennett 出版著作《防教师计划》（*Teacher Proof*），痛陈“学习风格”等假科学，提倡以 [[Randomised Controlled Trials|RCT]] 作为唯一可靠的教育科学标准；同年创立 ResearchED 会议网络，标榜为教师主导、弥合研究与实践距离的草根运动([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
+> - **2015 — 官方背书与政治收编** ResearchED 迅速得到英国保守党政府学校部长 Nick Gibb 的强力背书，Gibb 在主旨演讲中甚至声称 ResearchED 的存在归功于他的政策倡导，标志着该运动与政府教育改革议程的深度绑定([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
+> - **2016–至今 — 跨国扩张与争议深化** ResearchED 在澳大利亚、新西兰、美国等国建立国际分支会议。其在英国的政策活动中，频繁将 [[Education Endowment Foundation|EEF]] 发布的《教学与学习工具包》引为权威，面临方法论学者关于其“去情境化科学观”的系统性批判([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
 
 ---
 
@@ -83,7 +83,7 @@ updated: 2026-06-20
 > 
 > > *“Learning Styles has been thoroughly debunked. You might as well get out the Tarot cards.” (Carl Hendrick)* / *“Open University, sort out your life. Learning Styles = Magical unicorns.” (Tom Bennett)* —— [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]] (citing Black, 2018)
 > 
-> **分析**：ResearchED 骨干成员通过极端的两极修辞（科学 = 客观 [[Randomised Controlled Trials|RCT]] vs. 非[[Experimental Research|实验研究]] = 独角兽/占星术），对定性、行动等其他研究[[Paradigm|范式]]进行边缘化，从而强化其唯[[Scientism|科学主义]]话语。
+> **分析** ResearchED 骨干成员通过极端的两极修辞（科学 = 客观 [[Randomised Controlled Trials|RCT]] vs. 非[[Experimental Research|实验研究]] = 独角兽/占星术），对定性、行动等其他研究[[Paradigm|范式]]进行边缘化，从而强化其唯[[Scientism|科学主义]]话语。
 
 ---
 
@@ -99,12 +99,12 @@ updated: 2026-06-20
 ## 争议与评论
 
 > [!actor-grid] 评论视角
-> - **当事方 / 官方视角**：Tom Bennett 等倡导者认为 ResearchED 赋予了教师“声音”，打破了大学学术界对教育研究的权力垄断，让教师能够独立评估和识别“什么有效”，以科学知识赋能课堂实践。
-> - **学术 / 方法视角**：[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 与 [[Gary Thomas]] 等学者指出，ResearchED 奉行的“唯 [[Randomised Controlled Trials|RCT]] 论”在[[Ontology|本体论]]上犯了层次混淆的错误。许多重大科学发现（如进化论、天文学）并不依赖实验，而是源于密切观察与最佳解释推理（inference to the best explanation）([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
-> - **政策 / 制度视角**：[[Stephen Ball]] 与 Carol Black 等学者认为，标榜“草根”的 ResearchED 遭到保守党政客的迅速背书，实质上沦为政府推行新自由主义审计文化、对教师队伍实施技术化控制、并打击“左翼”高等教育机构的修辞工具([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 124]])。
+> - **当事方 / 官方视角** Tom Bennett 等倡导者认为 ResearchED 赋予了教师“声音”，打破了大学学术界对教育研究的权力垄断，让教师能够独立评估和识别“什么有效”，以科学知识赋能课堂实践。
+> - **学术 / 方法视角**[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 与 [[Gary Thomas]] 等学者指出，ResearchED 奉行的“唯 [[Randomised Controlled Trials|RCT]] 论”在[[Ontology|本体论]]上犯了层次混淆的错误。许多重大科学发现（如进化论、天文学）并不依赖实验，而是源于密切观察与最佳解释推理（inference to the best explanation）([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
+> - **政策 / 制度视角**[[Stephen Ball]] 与 Carol Black 等学者认为，标榜“草根”的 ResearchED 遭到保守党政客的迅速背书，实质上沦为政府推行新自由主义审计文化、对教师队伍实施技术化控制、并打击“左翼”高等教育机构的修辞工具([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 124]])。
 
 > [!tension] 争议焦点
-> - **自主草根运动 vs. 官方权力工具**：运动标榜的“赋权教师、去除权威”与教育部高官对其深度绑定的现实存在直接矛盾，批评者认为其已成为政府利益的传声筒([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
+> - **自主草根运动 vs. 官方权力工具** 运动标榜的“赋权教师、去除权威”与教育部高官对其深度绑定的现实存在直接矛盾，批评者认为其已成为政府利益的传声筒([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
 > - **单一实验[[Paradigm|范式]] vs. 方法论多元主义**：争论在于教育改善是应盲目遵循去情境化的“黄金标准”数据，还是承认教育是包含多层嵌套的开放系统，从而采用[[Qualitative Observation|质性观察]]、实在论综合等多元研究路径([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14–15]])。
 
 ---

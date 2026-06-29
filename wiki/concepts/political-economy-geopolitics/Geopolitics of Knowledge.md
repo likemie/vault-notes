@@ -29,6 +29,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Governmentality]]"
   - "[[Hegemony]]"
+  - "[[Soft Power]]"
   - "[[Multiplicity]]"
   - "[[Flow]]"
   - "[[Narrative Knowledge]]"

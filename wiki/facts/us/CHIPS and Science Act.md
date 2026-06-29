@@ -62,13 +62,13 @@ updated: 2026-06-04
 ## 政策条款
 
 > [!abstract]
-> **Tech Hubs 计划**：法案的核心举措之一，设立全国性"技术枢纽"（Tech Hubs）计划，拨款超过 100 亿美元、期限长达五年，旨在推动新兴技术的规模化应用和区域经济发展([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.133–134]])。
+> **Tech Hubs 计划** 法案的核心举措之一，设立全国性"技术枢纽"（Tech Hubs）计划，拨款超过 100 亿美元、期限长达五年，旨在推动新兴技术的规模化应用和区域经济发展([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.133–134]])。
 
 > [!abstract]
 > **[[National Science Foundation|NSF TIP]] 理事会**：法案同时通过 [[National Science Foundation|NSF]] 的技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）提供联邦资金，支持区域创新合作体的研发和商业化活动（p.134）。
 
 > [!abstract]
-> **国家半导体技术中心（NSTC）**：法案推动建立国家半导体技术中心（National Semiconductor Technology Center, NSTC），作为一个大规模的 [[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP），旨在重振美国半导体产业的研究、开发和人才培养([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–236]])。NSTC 建立在半导体行业长期的公私合作传统之上——包括 [[Semiconductor Research Corporation|SRC]] 等行业联盟——但规模和政府参与程度更大。
+> **国家半导体技术中心（NSTC）** 法案推动建立国家半导体技术中心（National Semiconductor Technology Center, NSTC），作为一个大规模的 [[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP），旨在重振美国半导体产业的研究、开发和人才培养([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–236]])。NSTC 建立在半导体行业长期的公私合作传统之上——包括 [[Semiconductor Research Corporation|SRC]] 等行业联盟——但规模和政府参与程度更大。
 
 ---
 
@@ -77,8 +77,8 @@ updated: 2026-06-04
 > [!note]-
 > - **2022** 年：法案通过，Tech Hubs 计划获批超 100 亿美元（五年期）；[[National Science Foundation|NSF TIP]] 获得首批拨款([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.133–134]])
 > - **2023** 年：5 亿美元被正式拨付，Tech Hubs 计划启动（p.133）
-> - **2024-01**：NSF TIP 向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助（p.134）
-> - **2024-02**：12 个地点被选定接受能力建设资助（capacity-building grants），用于扩大新兴技术的规模化应用（pp.133–134）
+> - **2024-01** NSF TIP 向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助（p.134）
+> - **2024-02** 12 个地点被选定接受能力建设资助（capacity-building grants），用于扩大新兴技术的规模化应用（pp.133–134）
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-06-04
 NSTC 和 SRC 的并存代表了美国半导体行业三代公私合作模式的制度化递进：
 1. **企业主导的一次性项目**（如 2008 年 Intel-Microsoft [[Universal Parallel Computing Research Centers|UPCRC]]）
 2. **行业联盟的持续性合作**（SRC，多家竞争对手共同资助[[Precompetitive Research|前竞争研究]]）
-3. **国家战略层面的制度化安排**（NSTC，联邦立法授权、大规模拨款、明确的国家安全和产业战略目标）
+3. **国家战略层面的制度化安排（NSTC，联邦立法授权、大规模拨款、明确的国家安全和产业战略目标）**
 
 ---
 

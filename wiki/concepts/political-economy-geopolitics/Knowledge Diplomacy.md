@@ -17,12 +17,18 @@ tags:
   - higher-education
   - region/global
   - theme/geopolitics
-related_concepts: []
+related_concepts:
+  - "[[Soft Power]]"
+  - "[[Cultural Diplomacy]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Zero-Sum Competition]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Yu_Xie_2025_JHE]]"
 confidence: medium
 status: draft
 created: 2026-06-29

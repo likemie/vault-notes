@@ -45,12 +45,12 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 核心定义
-> 第一类错误（Type I error）和第二类错误（Type II error）是统计推断中两类对称的决策错误。**第一类错误**指拒绝了实际上为真的[[Null Hypothesis|零假设]]；**第二类错误**指接受了实际上不为真的零[[Hypothesis|假设]]。Mitchell & Jolley (1988: 121) 提供了一个直观类比：第一类错误相当于**冤枉无辜者**（convicting an innocent person），第二类错误相当于**放过有罪者**（finding a guilty person innocent）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
+> 第一类错误（Type I error）和第二类错误（Type II error）是统计推断中两类对称的决策错误。**第一类错误**指拒绝了实际上为真的[[Null Hypothesis|零假设]]；**第二类错误**指接受了实际上不为真的零[[Hypothesis|假设]]。Mitchell & Jolley (1988: 121) 提供了一个直观类比：第一类错误相当于**冤枉无辜者（convicting an innocent person）**，第二类错误相当于**放过有罪者（finding a guilty person innocent）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 两类错误是[[Null Hypothesis|零假设]]显著性检验（NHST）框架内生的不确定性来源——即使研究设计和执行完美无缺，统计推断本身仍然包含这两类错误的风险。它们不是研究者的操作失误，而是**统计决策的固有属性**。
 > - **用途** 两类错误框架帮助研究者在设计阶段权衡显著性水平的选择（α 值），并在解释结果时评估结论的[[Reliability|可靠性]]——特别是在高风险决策情境中（如药物审批、教育政策评估）。
-> - **边界** 在 Cook & Campbell 的效度框架中，两类错误属于**统计结论效度**（statistical conclusion validity）而非[[Internal Validity|内部效度]]——但 Cohen, Manion & Morrison (2011) 将其列为[[Threats to Internal Validity|内部效度威胁]]之一。在[[Qualitative Research|质性研究]]中，两类错误被重新解释为信念错误而非统计错误。
+> - **边界** 在 Cook & Campbell 的效度框架中，两类错误属于**统计结论效度（statistical conclusion validity）**而非[[Internal Validity|内部效度]]——但 Cohen, Manion & Morrison (2011) 将其列为[[Threats to Internal Validity|内部效度威胁]]之一。在[[Qualitative Research|质性研究]]中，两类错误被重新解释为信念错误而非统计错误。
 
 ---
 
@@ -72,9 +72,9 @@ updated: 2026-06-23
 ## 核心要素
 
 > [!feature] 两类错误的关键特征
-> - **内在权衡**（Trade-off） 减少第一类错误（降低 α）必然增加第二类错误的风险（降低统计效力），反之亦然。这不是方法论缺陷，而是统计推断的数学必然——在[[Sample Size Determination|样本量]]固定的条件下，两类错误概率无法同时最小化。
-> - **显著性水平的选择**（Choice of α） 常规 α = 0.05 只是约定俗成，并非方法论的必然要求。研究者应根据研究的实际后果来选择适当的显著性水平：（a）如果推广无效干预的代价高昂（如医疗、高风险评估），应选择更严格的 α（如 0.01）；（b）如果错失有效干预的代价更高（如探索性研究），可适度放宽 α（如 0.10）。
-> - **统计效力**（Statistical power = 1-β） 第二类错误的补充概念——研究正确拒绝假[[Null Hypothesis|零假设]]的概率。效力取决于样本量、[[Effect Size|效应量]]和 α 水平。Boruch (1997: 211) 指出第二类错误可能在以下情况发生：（a）对干预反应的测量效度不足；（b）干预的测量相关性不足；（c）实验统计效力太低；（d）选择了错误的研究总体。
+> - **内在权衡（Trade-off）** 减少第一类错误（降低 α）必然增加第二类错误的风险（降低统计效力），反之亦然。这不是方法论缺陷，而是统计推断的数学必然——在[[Sample Size Determination|样本量]]固定的条件下，两类错误概率无法同时最小化。
+> - **显著性水平的选择（Choice of α）** 常规 α = 0.05 只是约定俗成，并非方法论的必然要求。研究者应根据研究的实际后果来选择适当的显著性水平：（a）如果推广无效干预的代价高昂（如医疗、高风险评估），应选择更严格的 α（如 0.01）；（b）如果错失有效干预的代价更高（如探索性研究），可适度放宽 α（如 0.10）。
+> - **统计效力（Statistical power = 1-β）** 第二类错误的补充概念——研究正确拒绝假[[Null Hypothesis|零假设]]的概率。效力取决于样本量、[[Effect Size|效应量]]和 α 水平。Boruch (1997: 211) 指出第二类错误可能在以下情况发生：（a）对干预反应的测量效度不足；（b）干预的测量相关性不足；（c）实验统计效力太低；（d）选择了错误的研究总体。
 > - **在[[Qualitative Research|质性研究]]中的重释**（Qualitative counterpart） 在质性数据中，第一类错误是相信了一个实际上不真实的陈述（过度信任数据），第二类错误是拒绝了一个实际上真实的陈述（过度怀疑数据）。这一区分提醒质性研究者：对数据的过度怀疑（拒绝真实）和过度信任（相信虚假）都是效度威胁。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
 
 ---

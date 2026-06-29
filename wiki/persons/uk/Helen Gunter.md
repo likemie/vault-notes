@@ -45,17 +45,17 @@ updated: '2026-06-08'
 > [!info] 核心思想
 > Gunter 的研究聚焦于教育中的**知识政治**和**权力结构**。[[Argument_Møller_2017_EERJ|Møller (2017)]]多处引用 Gunter 来支撑其核心论证：
 >
-> 1. **知识政治**：Gunter（2012）在对 1997–2010 年英国新工党教育政策的研究中，提出批判性问题："政治家使用什么类型的知识？""谁被视为知者（knowers），为什么？"([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])
+> 1. **知识政治**Gunter（2012）在对 1997–2010 年英国新工党教育政策的研究中，提出批判性问题："政治家使用什么类型的知识？""谁被视为知者（knowers），为什么？"([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])
 >
-> 2. **成功学校的竞争性定义**：Gunter（2001）指出教育领导力是一个政治议题，在此[[Champ|场域]]中关于"成功学校"的竞争性版本正在展开争夺([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])
+> 2. **成功学校的竞争性定义**Gunter（2001）指出教育领导力是一个政治议题，在此[[Champ|场域]]中关于"成功学校"的竞争性版本正在展开争夺([[Argument_Møller_2017_EERJ|Møller, 2017, p.379]])
 >
-> 3. **教育领域作为多元场域**：Gunter（2016）强调教育领导力领域是多元人群和利益的集合体，社会科学学科知识应当被视为"资源机会"（resource opportunity）而非一套固定的方法论和基础性主张([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])
+> 3. **教育领域作为多元场域**Gunter（2016）强调教育领导力领域是多元人群和利益的集合体，社会科学学科知识应当被视为"资源机会"（resource opportunity）而非一套固定的方法论和基础性主张([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])
 >
-> 4. **NPM 与教育改革**：Gunter 领导的 LE@DS（Leading Democratic Schools）研究网络揭示了学校校长在 NPM 环境中日益面临合同外包、基准测试和考试分数占据工作中心的处境([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382, citing Gunter et al., 2016]])
+> 4. **NPM 与教育改革** Gunter 领导的 LE@DS（Leading Democratic Schools）研究网络揭示了学校校长在 NPM 环境中日益面临合同外包、基准测试和考试分数占据工作中心的处境([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382, citing Gunter et al., 2016]])
 >
 > 5. **反智识文化与[[Knowledge Production|知识生产]]的专业化**：Gunter（2012）认为，"理论"和"实践"等标签被**使用和滥用来塑造职业内部以及商业和高等教育中'教育领导力产业'的反智识文化**([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])。Gunter（2013）进一步论证，管理主义项目的核心特征是："将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])
 >
-> 6. **社会学进路**：Gunter（2010）指出，Bourdieusian 社会理论日益增长的使用是教育行政中社会学方法"重新出现"（re-[[Emergence]]）的一部分([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])。Gunter（2002）早期已运用 Bourdieu 分析教育管理领域的"目的与位置"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])
+> 6. **社会学进路**Gunter（2010）指出，Bourdieusian 社会理论日益增长的使用是教育行政中社会学方法"重新出现"（re-[[Emergence]]）的一部分([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])。Gunter（2002）早期已运用 Bourdieu 分析教育管理领域的"目的与位置"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.313]])
 
 ## 主要贡献
 

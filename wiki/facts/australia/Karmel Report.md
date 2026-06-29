@@ -42,7 +42,7 @@ updated: '2026-05-18'
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> 报告将[[School Autonomy|学校自主权]]定位为"草根、自下而上的改革，借鉴参与式民主（participatory democracy）概念"（Keddie et al., 2020, IJLE, p.2）。它同时启动了澳大利亚教育中**需求本位拨款**（needs-based funding）的公平模型——"Karmel report initiated in 1973"（Kenway, 2013，引自 Keddie et al., 2020, IJLE, p.11）。
+> 报告将[[School Autonomy|学校自主权]]定位为"草根、自下而上的改革，借鉴参与式民主（participatory democracy）概念"（Keddie et al., 2020, IJLE, p.2）。它同时启动了澳大利亚教育中**需求本位拨款（needs-based funding）**的公平模型——"Karmel report initiated in 1973"（Kenway, 2013，引自 Keddie et al., 2020, IJLE, p.11）。
 
 ## 时间线
 
@@ -65,8 +65,8 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **Gonski 改革被认为是回归 Karmel 原则的尝试**：2011/2018 年 Gonski 改革旨在返回 Karmel 报告 1973 年启动的需求本位拨款模型（Keddie et al., 2020, IJLE, p.11）
-> - **对比当下的新自由主义版本**：Keddie et al. 将 Karmel 的民主起源与当代 [[Independent Public Schools Western Australia|IPS]] 政策的新自由主义逻辑进行对比，凸显政策意图的历史漂移（Keddie et al., 2020, IJLE, p.2）
+> - **Gonski 改革被认为是回归 Karmel 原则的尝试** 2011/2018 年 Gonski 改革旨在返回 Karmel 报告 1973 年启动的需求本位拨款模型（Keddie et al., 2020, IJLE, p.11）
+> - **对比当下的新自由主义版本** Keddie et al. 将 Karmel 的民主起源与当代 [[Independent Public Schools Western Australia|IPS]] 政策的新自由主义逻辑进行对比，凸显政策意图的历史漂移（Keddie et al., 2020, IJLE, p.2）
 
 ## 相关概念／理论
 

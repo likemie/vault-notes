@@ -51,10 +51,10 @@ updated: 2026-06-10
 
 > [!abstract]
 > [[Centre for Independent Studies|CIS]] 的设计遵循 Oslo Manual 标准，具有以下核心特征（pp.162-163）：
-> - **统一问卷**：所有参与国使用相同的问卷，确保跨国可比性
+> - **统一问卷** 所有参与国使用相同的问卷，确保跨国可比性
 > - **[[Stratified Sampling|分层抽样]]**：按行业进行[[Stratified Sampling|分层抽样]]，确保各产业的统计代表性
-> - **加权汇总**：企业回复使用适当的权重汇总到两位数 NACE 行业层面，权重的推导基于抽样程序
-> - **时间覆盖**：每轮调查覆盖调查当年及前两年。[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]使用了三轮 CIS 数据——CIS 2、CIS 3 和 CIS 4，涵盖制造业和服务业
+> - **加权汇总** 企业回复使用适当的权重汇总到两位数 NACE 行业层面，权重的推导基于抽样程序
+> - **时间覆盖** 每轮调查覆盖调查当年及前两年。[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]使用了三轮 CIS 数据——CIS 2、CIS 3 和 CIS 4，涵盖制造业和服务业
 
 > [!info] 数据获取与汇总
 > CIS 2 和 CIS 3 的行业层面数据通过与各国数据提供方的合作协议获取——这些提供方为国家统计机构或经授权可交换数据的研究团队。CIS 4 的数据可从 Eurostat 获取（英国除外，其数据来自国家数据提供方）。数据库的[[Assemblage|组装]]遵循了一套通用协议，沿用国家统计办公室的标准化程序。最新的 CIS 调查采用 NACE Rev. 2 分类，已通过 Perani 和 Cirillo（2015）开发的转换方法纳入数据库（pp.162-163）。

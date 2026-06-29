@@ -40,7 +40,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Shields 的[[Transformative Leadership|变革型领导力]]框架的核心是**以权力为调查的起点**（power is a starting point for the investigation），而非将领导力视为去政治化的组织管理技术([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])。
+> Shields 的[[Transformative Leadership|变革型领导力]]框架的核心是**以权力为调查的起点（power is a starting point for the investigation）**，而非将领导力视为去政治化的组织管理技术([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])。
 >
 > Shields 对当前教育政策中的平等（equality）与公平（equity）区分提出警告：[[OECD]] 式的政策允许教育者"专注于平等和统一性，而排斥差异性、公平和社会正义"([[Argument_Møller_2017_EERJ|Møller, 2017, p.377, citing Shields, 2015]])。
 >

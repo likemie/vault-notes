@@ -75,19 +75,19 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > [!info] 技术要求细节
 > Evidence for ESSA (2019) 和 [[What Works Clearinghouse]] (2019) 对 ESSA 标准的[[Operationalization|操作化]]解释：
 >
-> - **测量工具**：必须独立于项目开发者或研究者
+> - **测量工具** 必须独立于项目开发者或研究者
 > - **[[Sample Size Determination|样本量]]和持续时间**：需要足够的样本量和研究持续时间（Evidence for ESSA 要求最少 12 周）
-> - **聚类分析**：对学校或班级层面的干预，必须在聚类层面进行统计分析（如 HLM，Raudenbush & Bryk, 2002）——通常需要 40–50 所学校
-> - **前测匹配**：准实验和[[Observational and Correlational Research|相关性研究]]要求在成就和人口统计[[Variable|变量]]上前测匹配
+> - **聚类分析** 对学校或班级层面的干预，必须在聚类层面进行统计分析（如 HLM，Raudenbush & Bryk, 2002）——通常需要 40–50 所学校
+> - **前测匹配** 准实验和[[Observational and Correlational Research|相关性研究]]要求在成就和人口统计[[Variable|变量]]上前测匹配
 
 ## 激励机制
 
 > [!abstract] 激励机制
 > ESSA 对证据标准设有具体的财政激励机制([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])：
 >
-> 1. **学校改进拨款（School Improvement Grants）**：低成就学校寻求学校改进资金**必须**选择至少有一项严格研究显示统计显著正向效果（且无研究显示负面效果）的项目([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])
-> 2. **竞争性偏好分（Competitive Preference Points）**：在学校改进之外的部分联邦拨款项目中，申请人如果提议使用达到 ESSA 证据标准的项目可获得加分([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])
-> 3. **州级扩展**：部分州将类似标准应用于州级拨款计划（Klein, 2018; 引自 Wolf et al., 2020, p. 428）
+> 1. **学校改进拨款（School Improvement Grants）** 低成就学校寻求学校改进资金**必须**选择至少有一项严格研究显示统计显著正向效果（且无研究显示负面效果）的项目([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])
+> 2. **竞争性偏好分（Competitive Preference Points）** 在学校改进之外的部分联邦拨款项目中，申请人如果提议使用达到 ESSA 证据标准的项目可获得加分([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])
+> 3. **州级扩展** 部分州将类似标准应用于州级拨款计划（Klein, 2018; 引自 Wolf et al., 2020, p. 428）
 >
 > 部分州走得更远：
 > - **亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳、罗德岛** 将 ESSA 标准扩展为**州级**拨款条件
@@ -97,8 +97,8 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 
 > [!info] ESSA 的"严格与宽松"
 > [[Argument_Slavin_2019_EP|Slavin (2019)]] 指出 ESSA 标准兼具严格性和宽松性：
-> - **严格**：强和中两级要求[[Random Assignment|随机分配]]或仔细匹配的[[Preregistration|预注册]]样本、独立测量工具、充分[[Sample Size Determination|样本量]]和持续时间、适当分析
-> - **宽松**：项目仅需**一项**研究即可达标——这意味着随着更多严格研究完成，标准在未来可能收紧
+> - **严格** 强和中两级要求[[Random Assignment|随机分配]]或仔细匹配的[[Preregistration|预注册]]样本、独立测量工具、充分[[Sample Size Determination|样本量]]和持续时间、适当分析
+> - **宽松** 项目仅需**一项**研究即可达标——这意味着随着更多严格研究完成，标准在未来可能收紧
 
 ## 历史意义
 

@@ -49,10 +49,10 @@ updated: 2026-06-16
 ## 背景
 
 > [!event-context] 机构背景
-> - **时间 / 地点**：成立于2010年代后期，总部设在澳大利亚。[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **关键主体**：澳大利亚教育研究组织（AERO）、首席执行官杰妮·多诺万（Jenny Donovan，曾任新南威尔士州教育统计与评估中心 CESE 主任）、专家委员会委员柯文·科林斯爵士（Sir Kevan Collins）。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **制度背景**：2016年生产力委员会建议以英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]）为蓝本建立本土机构；与 ACARA、[[Australian Institute for Teaching and School Leadership|AITSL]] 类似，其技术与行政底层由注册慈善机构[[Educational Services Australia|ESA]]支撑。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
-> - **触发条件**：跨国“什么有效”（what works）运动在澳大利亚推进教育政策“循证改革”的制度化需要。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **时间 / 地点** 成立于2010年代后期，总部设在澳大利亚。[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **关键主体** 澳大利亚教育研究组织（AERO）、首席执行官杰妮·多诺万（Jenny Donovan，曾任新南威尔士州教育统计与评估中心 CESE 主任）、专家委员会委员柯文·科林斯爵士（Sir Kevan Collins）。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **制度背景** 2016年生产力委员会建议以英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]）为蓝本建立本土机构；与 ACARA、[[Australian Institute for Teaching and School Leadership|AITSL]] 类似，其技术与行政底层由注册慈善机构[[Educational Services Australia|ESA]]支撑。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
+> - **触发条件** 跨国“什么有效”（what works）运动在澳大利亚推进教育政策“循证改革”的制度化需要。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 
@@ -87,15 +87,15 @@ updated: 2026-06-16
 ## 争议与评论
 
 > [!actor-grid] 评论视角图
-> - **自我呈现 / 官方视角**：声称扮演价值中性、基于科学的客观第三方机构，为学校和政策提供客观、无意识形态偏见的“最佳循证实践指南”。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **学术批判 / 教师自主视角**：指出其推行的全国大纲涉嫌以脑科学简化论取代大学教师的教育学[[Professional Judgment|专业判断]]，并主导了向大学教师施压的惩罚性问责。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **政策治理 / 制度架构视角**：通过与 [[Australian Institute for Teaching and School Leadership|AITSL]] 和 ACARA 共享 [[Educational Services Australia|ESA]] 底层架构，使 AERO 等少数外部中介实体绕过正常的学术和民主监督，直接塑造公共大学的核心课程。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
+> - **自我呈现 / 官方视角** 声称扮演价值中性、基于科学的客观第三方机构，为学校和政策提供客观、无意识形态偏见的“最佳循证实践指南”。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **学术批判 / 教师自主视角** 指出其推行的全国大纲涉嫌以脑科学简化论取代大学教师的教育学[[Professional Judgment|专业判断]]，并主导了向大学教师施压的惩罚性问责。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **政策治理 / 制度架构视角** 通过与 [[Australian Institute for Teaching and School Leadership|AITSL]] 和 ACARA 共享 [[Educational Services Australia|ESA]] 底层架构，使 AERO 等少数外部中介实体绕过正常的学术和民主监督，直接塑造公共大学的核心课程。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
 > - **跨国资本 / [[Venture Philanthropy|风险慈善]]视角**：BHP 基金会通过定向注资跨国项目催生和塑造 AERO 的运行轨迹，表明跨国资本如何作为隐形底流，推动主权国家教育体系向合规审计治理转型。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 > [!tension] 争议焦点
-> - **自证清白的“专家闭环”**：其桌面审查（Abdo et al., 2021）所咨询并声称达成共识的外部专家，大多数来自其委托的 [[Centre for Evidence and Implementation|CEI]] 机构内部和“什么有效”分支中心，构成高度自我引用的封闭网络。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **证据来源极其狭窄**：该作为大纲科学底座的审查报告，其学术基底窄化为仅发表于《实施科学》（*Implementation Science*）等两本期刊上的文章，排除了更广泛的教育科学[[Document|文献]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **同行评审程序的缺失**：指导《强劲开端》核心课程设计的 AERO 研究综合至今仍是“未发表文献”（Unpublished Synthesis），免于学术共同体的审议和双盲评审，却被强加为法律标准。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **自证清白的“专家闭环”** 其桌面审查（Abdo et al., 2021）所咨询并声称达成共识的外部专家，大多数来自其委托的 [[Centre for Evidence and Implementation|CEI]] 机构内部和“什么有效”分支中心，构成高度自我引用的封闭网络。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **证据来源极其狭窄** 该作为大纲科学底座的审查报告，其学术基底窄化为仅发表于《实施科学》（*Implementation Science*）等两本期刊上的文章，排除了更广泛的教育科学[[Document|文献]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **同行评审程序的缺失** 指导《强劲开端》核心课程设计的 AERO 研究综合至今仍是“未发表文献”（Unpublished Synthesis），免于学术共同体的审议和双盲评审，却被强加为法律标准。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 

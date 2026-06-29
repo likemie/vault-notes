@@ -50,9 +50,9 @@ updated: '2026-05-18'
 
 > [!abstract] 核心要素
 > - **[[Random Assignment|随机化]]单位**：学校或班级，而非个体学生——因为干预无法在不造成交叉污染的情况下对个体实施
-> - **统计功效**：CRT 的功效取决于集群数量而非个体数量，集群内相关性（ICC）显著降低有效[[Sample Size Determination|样本量]]
+> - **统计功效** CRT 的功效取决于集群数量而非个体数量，集群内相关性（ICC）显著降低有效[[Sample Size Determination|样本量]]
 > - **最小可检测[[Effect Size|效应量]]（MDES）**：衡量研究精度的关键指标，指给定功效下可检测的最小效应量。"近期争论的焦点，因为其主要由经验法则（rules of thumb）决定"([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
-> - **多层设计**：两级 CRT（学生嵌套于学校）和三级 CRT（学生嵌套于班级嵌套于学校）均有相应功效计算公式（Spybrook et al., 2016）
+> - **多层设计** 两级 CRT（学生嵌套于学校）和三级 CRT（学生嵌套于班级嵌套于学校）均有相应功效计算公式（Spybrook et al., 2016）
 > - **[[Stable Unit Treatment Value Assumption|SUTVA]] 违反（主体间干扰）**：当随机化单位为教室而政策兴趣单位为个体学生时，同一教室内的学生互动导致结果不独立——"因为任何一个学生的结果取决于他/她与之互动的学生，而这又取决于哪些学生被分配到哪些干预，[[Causality|因果]]效应不仅由干预定义，而且由哪些学生恰好被分配到哪里定义"([[Argument_Berk_2011_ER|Berk, 2011, p.195]])。每个可能的[[Random Assignment|随机分配]]实现都产生不同的因果效应，"单一的因果效应不再存在"([[Argument_Berk_2011_ER|Berk, 2011, p.195]])。截至 Berk 写作时对此没有有效的统计补救方法，但若将分析单位从个体学生改为教室（使用聚合统计量），该问题消失（[[Argument_Berk_2011_ER|Berk, 2011]], footnote 2, p.200）
 
 ## 与相关概念的区别

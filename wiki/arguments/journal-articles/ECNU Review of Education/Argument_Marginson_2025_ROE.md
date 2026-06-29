@@ -42,6 +42,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
+  - "[[Soft Power]]"
   - "[[International Education]]"
   - "[[Multi-University]]"
   - "[[Zero-Sum Competition]]"

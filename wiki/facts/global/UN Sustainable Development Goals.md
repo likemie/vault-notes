@@ -52,7 +52,7 @@ updated: '2026-06-02'
 > SDGs 在大学语境中的核心意义([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.150–154]])：
 > - 大学研究被重新定向至世界社会层面的影响（world societal impact），SDGs 成为研究优先级设定的全球参照框架。
 > - 大学教学被重新定向至培养全球治理专业人才——国际法、全球卫生、气候变化管理、可持续发展等新的学位项目大量[[Emergence|涌现]]。
-> - 可持续发展被部分学者视为大学的**新型[[Third Mission (Universities)|第三使命]]**甚至**宏大挑战**（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013）。
+> - 可持续发展被部分学者视为大学的**新型[[Third Mission (Universities)|第三使命]]**甚至**宏大挑战（grand challenge）**，超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013）。
 
 > [!quote]
 > "Sustainable development (SD) has become the overriding global agenda since 2015 when the 17 SD Goals where agreed upon by all 193 UN member states."([[Argument_Zapp_2022_Springer|Zapp, 2022, p.150]])
@@ -69,8 +69,8 @@ updated: '2026-06-02'
 
 > [!example]
 > 在高等教育领域，SDGs 通过以下渠道被大学实施([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.150–154]])：
-> - **研究对齐**：全球多所大学将[[Research Problem|研究议题]]与 SDGs 对齐。例：Manchester 大学开发碳足迹工具，UBC 开发保护生物多样性的传感器和软件，Auckland 大学与航运业合作追踪鲸鱼迁徙路线以减少致命碰撞，KTH 皇家理工学院创建面向教师的可持续发展教学网络平台，ETH Zurich 推行 2000 Watt Society 能源效率项目，Oberlin College 推行 Oberlin Project 旨在创建美国首批气候积极城市之一（pp.150–151）。
-> - **教学对齐**：Oxford 开设 MSc in Global Governance and Diplomacy，Copenhagen 开设 MSc in Climate Change，KTH 开设 MA in Sustainable Technology，Manchester 提供 Water Supply and Sanitation Policy in Developing Countries 和 Global Health and Humanitarianism 的 MOOCs，Bologna 大学报告 1174 个与 SDGs 相关的课程单元，McMaster 开设全球卫生博士项目，Gothenburg 开设从研究到政策促进可持续发展跨学科博士项目（pp.151–152）。
+> - **研究对齐** 全球多所大学将[[Research Problem|研究议题]]与 SDGs 对齐。例：Manchester 大学开发碳足迹工具，UBC 开发保护生物多样性的传感器和软件，Auckland 大学与航运业合作追踪鲸鱼迁徙路线以减少致命碰撞，KTH 皇家理工学院创建面向教师的可持续发展教学网络平台，ETH Zurich 推行 2000 Watt Society 能源效率项目，Oberlin College 推行 Oberlin Project 旨在创建美国首批气候积极城市之一（pp.150–151）。
+> - **教学对齐** Oxford 开设 MSc in Global Governance and Diplomacy，Copenhagen 开设 MSc in Climate Change，KTH 开设 MA in Sustainable Technology，Manchester 提供 Water Supply and Sanitation Policy in Developing Countries 和 Global Health and Humanitarianism 的 MOOCs，Bologna 大学报告 1174 个与 SDGs 相关的课程单元，McMaster 开设全球卫生博士项目，Gothenburg 开设从研究到政策促进可持续发展跨学科博士项目（pp.151–152）。
 > - **内部政策对齐（[[University Social Responsibility|USR]]）**：全球 200+ 所大学发布了企业社会责任/可持续发展报告，将校园转型为活实验室和可持续发展试验台（pp.152–153）。
 ...
 
@@ -83,8 +83,8 @@ updated: '2026-06-02'
 ## 争议与评论
 
 > [!warning]
-> - **知识政治化风险**：[[Argument_Zapp_2022_Springer|Zapp (2022)]] 警示，当大学更紧密地嵌入全球治理议程时，科学可能被政策制定者策略性工具化、操纵甚至压制（pp.154–155）。
-> - **国家与全球的张力**：大学的 SDG 承诺日益全球化，但各国政策制定者同时将大学作为国家经济引擎和地缘政治声望的象征，形成悖论——大学知识越是全球化，大学本身越是被重新领土化 (re-territorialized) 为地缘政治竞争单位（Moisio, 2018，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–157]]）。
+> - **知识政治化风险**[[Argument_Zapp_2022_Springer|Zapp (2022)]] 警示，当大学更紧密地嵌入全球治理议程时，科学可能被政策制定者策略性工具化、操纵甚至压制（pp.154–155）。
+> - **国家与全球的张力** 大学的 SDG 承诺日益全球化，但各国政策制定者同时将大学作为国家经济引擎和地缘政治声望的象征，形成悖论——大学知识越是全球化，大学本身越是被重新领土化 (re-territorialized) 为地缘政治竞争单位（Moisio, 2018，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–157]]）。
 
 ---
 ## 相关概念／理论

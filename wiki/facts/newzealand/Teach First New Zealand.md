@@ -44,19 +44,19 @@ updated: 2026-05-18
 ## 项目特征
 
 > [!abstract] 项目特征
-> - **选拔严格**：仅选拔高表现、高潜力毕业生；接受率 7%（2014 年：464 申请 → 35 录取）
-> - **目标学校**：仅安置在低 decile 学校（90% 在 decile 1–3），覆盖奥克兰和北地的 40 所学校
+> - **选拔严格** 仅选拔高表现、高潜力毕业生；接受率 7%（2014 年：464 申请 → 35 录取）
+> - **目标学校** 仅安置在低 decile 学校（90% 在 decile 1–3），覆盖奥克兰和北地的 40 所学校
 > - **参与者按未培训教师费率支付工资**
 > - **2013–2016 年**累计招募 74 名参与者；42% 教授 STEM 科目
-> - **人口构成**：半数 Pākehā，16% Māori，11% Pasifika([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.53–54]])
+> - **人口构成** 半数 Pākehā，16% Māori，11% Pasifika([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.53–54]])
 
 ## 治理与伙伴关系
 
 > [!abstract] 治理与伙伴关系
 > TFNZ 作为三方合作运营([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.10, 53]])：
 >
-> - **项目伙伴**：奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）
-> - **赞助人**（Patrons）：Sir John Graham（Auckland [[Grammar School]] 前校长、奥克兰大学前校长、Woolf Fisher Trust 受托人）和 Dame Lesley Max（Great Potentials Foundation 联合创始人）
+> - **项目伙伴** 奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）
+> - **赞助人（Patrons）** Sir John Graham（Auckland [[Grammar School]] 前校长、奥克兰大学前校长、Woolf Fisher Trust 受托人）和 Dame Lesley Max（Great Potentials Foundation 联合创始人）
 
 ## 资金来源与创始伙伴
 
@@ -70,8 +70,8 @@ updated: 2026-05-18
 >
 > 后续资助分三个层级([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.54]])：
 > - **Kaitautoko Kauri**（主要）：Chapman Tripp、Deloitte、Aotearoa Foundation、NEXT Foundation、Harry Singer Foundation、Woolf Fisher Trust
-> - **Kaitautoko Rimu**：[[Cognition Education|Cognition Education Trust]]、The Fletcher Trust、Fuji Xerox、GradConnection、KPMG
-> - **Kaitautoko Tōtara**：Coca-Cola Amatil、Cognition Education、COMET Auckland、First Foundation 等
+> - **Kaitautoko Rimu**[[Cognition Education|Cognition Education Trust]]、The Fletcher Trust、Fuji Xerox、GradConnection、KPMG
+> - **Kaitautoko Tōtara** Coca-Cola Amatil、Cognition Education、COMET Auckland、First Foundation 等
 
 ## 领导团队
 

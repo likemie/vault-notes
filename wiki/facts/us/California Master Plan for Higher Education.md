@@ -40,9 +40,9 @@ updated: 2026-05-26
 
 > [!info]
 > California Master Plan for Higher Education 确立了加州公立高等教育的三层体系（p.12）：
-> - **社区学院（Community Colleges）**：提供开放的入学机会和职业培训
-> - **加州州立大学（California State Universities, CSU）**：侧重本科教学和应用型人才培养
-> - **加州大学（University of California, UC）**：侧重研究、博士教育和专业学位，包括 UC Berkeley、UC San Francisco 等世界顶尖研究型大学
+> - **社区学院（Community Colleges）** 提供开放的入学机会和职业培训
+> - **加州州立大学（California State Universities, CSU）** 侧重本科教学和应用型人才培养
+> - **加州大学（University of California, UC）** 侧重研究、博士教育和专业学位，包括 UC Berkeley、UC San Francisco 等世界顶尖研究型大学
 
 ## 与创新生态系统的关系
 

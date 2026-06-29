@@ -32,6 +32,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
+  - "[[Bologna Process]]"
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[Europe 2020 Strategy]]"

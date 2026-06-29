@@ -55,12 +55,12 @@ updated: '2026-05-18'
 > [!abstract]
 > Innovation Union 旨在构建覆盖全欧盟的"[[Innovation Ecosystem|创新生态]]体系"（innovation eco-system）。该政策同时具有两个维度([[Argument_Rambla_2022_Springer|Rambla, 2022, p.168, 170–171]])：
 >
-> **竞争力维度**：强调全球市场中的创新竞争力，核心目标包括：
+> **竞争力维度** 强调全球市场中的创新竞争力，核心目标包括：
 > - 将研发和市场基础设施纳入共同框架
 > - 建立汇集欧盟内外行动者的合作伙伴关系和协调一致的策略
 > - 减少碎片化、协调采购、集中力量、谨慎设计外部杠杆
 >
-> **区域政策维度**：将区域定位为创新生态体系的承载空间——即"区域是经济活动和社会互动的场所，汇集了异质的利益相关方"(European Union, 2016; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.168]])。
+> **区域政策维度** 将区域定位为创新生态体系的承载空间——即"区域是经济活动和社会互动的场所，汇集了异质的利益相关方"(European Union, 2016; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.168]])。
 >
 > 两项维度共同服务于 [[Europe 2020 Strategy]] 的总目标：促进智能、可持续与包容性增长（smart, sustainable and inclusive growth）。
 
@@ -85,10 +85,10 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 > [!example]
 > Innovation Union 要求多元利益相关方参与[[Innovation Ecosystem|创新生态]]体系构建，并为其分别分配了责任和行动(European Union, 2015; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])：
 >
-> - **公共部门**：提供监管框架和公共研发投资
-> - **企业界**：承担创新市场化的主要角色
-> - **学术界**：生产基础知识和培养创新人才
-> - **金融界**：为创新活动提供资本支持
+> - **公共部门** 提供监管框架和公共研发投资
+> - **企业界** 承担创新市场化的主要角色
+> - **学术界** 生产基础知识和培养创新人才
+> - **金融界** 为创新活动提供资本支持
 >
 > 政策不仅针对研发供给方，也针对需求方。实施中特别强调成员国政府、区域政府和其他利益相关方之间的协调（p.168, 172）。
 
@@ -111,7 +111,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 > [!warning]
 > - **区域同质化[[Hypothesis|假设]]**：Innovation Union 假设所有欧盟区域——无论其经济发展水平、制度传统和创新能力如何——都应且能够成为同一类型的"[[Innovation Ecosystem|创新生态]]体系"。这一假设忽视了区域之间在产业结构、人力资本、制度能力等维度上的根本结构性差异([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
-> - **创新定义的窄化**：通过将创新[[Operationalization|操作化]]为研发支出、专利数量和科技人员数量，Innovation Union 在话语上排除了社会创新、文化创新和基层互助创新。这一操作化定义的窄化并非技术必然，而是一种政治选择——但它被指标的"客观性"外表所遮蔽（p.174–175）
+> - **创新定义的窄化** 通过将创新[[Operationalization|操作化]]为研发支出、专利数量和科技人员数量，Innovation Union 在话语上排除了社会创新、文化创新和基层互助创新。这一操作化定义的窄化并非技术必然，而是一种政治选择——但它被指标的"客观性"外表所遮蔽（p.174–175）
 > - **与 [[EU Skills Agenda]] 的协调问题**：两个旗舰政策共享"协同演化"的变革理论（[[Theories of Policy Change]]），但在治理实践中，通过模糊此前分离的政策领域边界，为代表不同层级政府的行动者带来了大量协调问题——这些在政策设计中未被充分预见（p.169）
 
 ## 相关概念／理论

@@ -75,9 +75,9 @@ APA Publication Manual (2020) 对不同文本位置使用不同时态的指导�
 
 常见多余词语的三种形式（Ross-Larson, 1982）：
 
-- **堆积修饰语**（piled-up modifiers）：多个修饰语连续修饰同一名词
-- **过度介词**（excessive prepositions）：介词链过长
-- **"the-of"结构**：如"the study of"，用词臃肿，可用更简洁的表达替代
+- **堆积修饰语（piled-up modifiers）** 多个修饰语连续修饰同一名词
+- **过度介词（excessive prepositions）** 介词链过长
+- **"the-of"结构** 如"the study of"，用词臃肿，可用更简洁的表达替代
 
 > [!quote]
 > "Nowadays you can almost see bright people struggling to reinvent the complex sentence before your eyes. A friend of mine who is a college administrator every now and then has to say a complex sentence, and he will get into one of those morasses that begins, 'I would hope that we would be able. . . .' He never talked that way when I first met him, but even at his age, at his distance from the crisis in the lives of younger people, he's been to some extent alienated from easy speech."（Bunge, 1985, p.172; 引自 Creswell & Creswell, 2022, 第4章）

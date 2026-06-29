@@ -53,10 +53,10 @@ updated: 2026-06-02
 > [!abstract]
 > Rotter (1954) 提出解释社会学习理论必须考虑四类[[Variable|变量]]([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.60–61]])：
 
-- **行为 (behavior)**：期望发生的具体行为。
-- **期望 (expectancies)**：个体对行为与奖励之间[[Causality|因果关系]]的感知确定程度。
-- **强化 (reinforcement)**：来自行为的奖励以及赋予这些奖励的价值。
-- **心理情境 (psychological situations)**：提供行为奖励的具体情境。
+- **行为 (behavior)** 期望发生的具体行为。
+- **期望 (expectancies)** 个体对行为与奖励之间[[Causality|因果关系]]的感知确定程度。
+- **强化 (reinforcement)** 来自行为的奖励以及赋予这些奖励的价值。
+- **心理情境 (psychological situations)** 提供行为奖励的具体情境。
 
 > [!abstract]
 > Rotter (1975) 提出的一般行为公式([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.61]])：

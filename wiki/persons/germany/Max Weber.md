@@ -101,87 +101,87 @@ updated: '2026-06-08'
 
 ### 1889 — *Zur Geschichte der Handelsgesellschaften im Mittelalter*
 
-- **APA**：Weber, M. (1889). *Zur Geschichte der Handelsgesellschaften im Mittelalter: Nach südeuropäischen Quellen*. Enke.
-- **核心内容**：以南欧[[Document|文献]]为依据研究中世纪商业合伙组织，分析商法制度、共同体关系与经济组织形式之间的历史关联。
-- **思想位置**：博士论文阶段的 Weber 仍以法律史为主，但已经开始把法律形式、经济组织和社会关系放在同一问题场中考察。Dilcher (2007) 指出，其后来的共同体、社会化和理性化问题在此已有萌芽。
-- **相关概念／理论**：共同体、社会化、法律形式、经济组织。
+- **APA** Weber, M. (1889). *Zur Geschichte der Handelsgesellschaften im Mittelalter: Nach südeuropäischen Quellen*. Enke.
+- **核心内容** 以南欧[[Document|文献]]为依据研究中世纪商业合伙组织，分析商法制度、共同体关系与经济组织形式之间的历史关联。
+- **思想位置** 博士论文阶段的 Weber 仍以法律史为主，但已经开始把法律形式、经济组织和社会关系放在同一问题场中考察。Dilcher (2007) 指出，其后来的共同体、社会化和理性化问题在此已有萌芽。
+- **相关概念／理论** 共同体、社会化、法律形式、经济组织。
 
 ### 1891 — *Die römische Agrargeschichte in ihrer Bedeutung für das Staats- und Privatrecht*
 
-- **APA**：Weber, M. (1891). *Die römische Agrargeschichte in ihrer Bedeutung für das Staats- und Privatrecht*. Enke.
-- **核心内容**：以罗马农业史和土地制度为对象，讨论古代土地测量、农业法、国家法与私法之间的关系。
-- **思想位置**：教授资格论文延续法律史路径，同时把经济生活、国家组织和法秩序关联起来，为后来的经济史、支配社会学和理性法律分析奠基。
-- **相关概念／理论**：农业制度、理性法律、国家与经济秩序。
+- **APA** Weber, M. (1891). *Die römische Agrargeschichte in ihrer Bedeutung für das Staats- und Privatrecht*. Enke.
+- **核心内容** 以罗马农业史和土地制度为对象，讨论古代土地测量、农业法、国家法与私法之间的关系。
+- **思想位置** 教授资格论文延续法律史路径，同时把经济生活、国家组织和法秩序关联起来，为后来的经济史、支配社会学和理性法律分析奠基。
+- **相关概念／理论** 农业制度、理性法律、国家与经济秩序。
 
 ### 1892 — *Die Lage der Landarbeiter im ostelbischen Deutschland*
 
-- **APA**：Weber, M. (1892). *Die Lage der Landarbeiter im ostelbischen Deutschland*. Duncker & Humblot.
-- **核心内容**：为社会政策协会所作的大规模经验调查，研究易北河以东农业工人的迁移、阶层结构与民族政治问题。
-- **思想位置**：这是 Weber 从法学家转向国民经济学和社会政策研究的重要节点。其材料处理已经显示出后来的理想类型、支配关系和资本主义企业家精神等分析线索（Dilcher, 2007; Müller & Sigmund, 2014）。
-- **相关概念／理论**：社会政策、民族国家、农业资本主义、理想类型萌芽。
+- **APA** Weber, M. (1892). *Die Lage der Landarbeiter im ostelbischen Deutschland*. Duncker & Humblot.
+- **核心内容** 为社会政策协会所作的大规模经验调查，研究易北河以东农业工人的迁移、阶层结构与民族政治问题。
+- **思想位置** 这是 Weber 从法学家转向国民经济学和社会政策研究的重要节点。其材料处理已经显示出后来的理想类型、支配关系和资本主义企业家精神等分析线索（Dilcher, 2007; Müller & Sigmund, 2014）。
+- **相关概念／理论** 社会政策、民族国家、农业资本主义、理想类型萌芽。
 
 ### 1895 — *Der Nationalstaat und die Volkswirtschaftspolitik*
 
-- **APA**：Weber, M. (1895). *Der Nationalstaat und die Volkswirtschaftspolitik*. Mohr.
-- **核心内容**：弗赖堡就职演讲，以民族国家、经济政策和东部边境劳工问题为中心，表达了强烈的民族自由主义政治立场。
-- **思想位置**：这篇演讲体现了早期 Weber 的“阶级自觉的市民”身份和民族权力国家理想，也构成后来争议与批评中关于民族主义、帝国主义和波兰问题讨论的重要文本（Mommsen, 1974）。
-- **相关概念／理论**：民族国家、国民经济政策、自由帝国主义。
+- **APA** Weber, M. (1895). *Der Nationalstaat und die Volkswirtschaftspolitik*. Mohr.
+- **核心内容** 弗赖堡就职演讲，以民族国家、经济政策和东部边境劳工问题为中心，表达了强烈的民族自由主义政治立场。
+- **思想位置** 这篇演讲体现了早期 Weber 的“阶级自觉的市民”身份和民族权力国家理想，也构成后来争议与批评中关于民族主义、帝国主义和波兰问题讨论的重要文本（Mommsen, 1974）。
+- **相关概念／理论** 民族国家、国民经济政策、自由帝国主义。
 
 ### 1904 — *Die "Objektivität" sozialwissenschaftlicher und sozialpolitischer Erkenntnis*
 
-- **APA**：Weber, M. (1904). Die "Objektivität" sozialwissenschaftlicher und sozialpolitischer Erkenntnis. *Archiv für Sozialwissenschaft und Sozialpolitik, 19*, 22–87.
-- **核心内容**：阐述文化科学的对象建构、价值关联、价值判断自由和理想类型方法。
-- **思想位置**：这是 Weber 方法论突破的标志。它把社会科学的“客观性”从自然科学式中立转向对研究对象、价值关联和概念工具的反思控制。
-- **相关概念／理论**：价值判断自由、价值关联、理想类型、文化科学。
+- **APA** Weber, M. (1904). Die "Objektivität" sozialwissenschaftlicher und sozialpolitischer Erkenntnis. *Archiv für Sozialwissenschaft und Sozialpolitik, 19*, 22–87.
+- **核心内容** 阐述文化科学的对象建构、价值关联、价值判断自由和理想类型方法。
+- **思想位置** 这是 Weber 方法论突破的标志。它把社会科学的“客观性”从自然科学式中立转向对研究对象、价值关联和概念工具的反思控制。
+- **相关概念／理论** 价值判断自由、价值关联、理想类型、文化科学。
 
 ### 1904/05 — *Die protestantische Ethik und der Geist des Kapitalismus*
 
-- **APA**：Weber, M. (1904–1905). Die protestantische Ethik und der Geist des Kapitalismus. *Archiv für Sozialwissenschaft und Sozialpolitik, 20–21*.
-- **核心内容**：论证加尔文宗及其他禁欲新教派别的“入世禁欲”职业伦理，与现代资本主义“精神”之间存在选择性亲和关系。
-- **思想位置**：新教伦理研究不是单纯用观念解释经济结构，而是把宗教观念、生活方式和资本主义理性经营之间的历史关联作为问题。它开启了 Weber 后来的比较宗教社会学。
-- **相关概念／理论**：入世禁欲、职业伦理、资本主义精神、选择性亲和。
+- **APA** Weber, M. (1904–1905). Die protestantische Ethik und der Geist des Kapitalismus. *Archiv für Sozialwissenschaft und Sozialpolitik, 20–21*.
+- **核心内容** 论证加尔文宗及其他禁欲新教派别的“入世禁欲”职业伦理，与现代资本主义“精神”之间存在选择性亲和关系。
+- **思想位置** 新教伦理研究不是单纯用观念解释经济结构，而是把宗教观念、生活方式和资本主义理性经营之间的历史关联作为问题。它开启了 Weber 后来的比较宗教社会学。
+- **相关概念／理论** 入世禁欲、职业伦理、资本主义精神、选择性亲和。
 
 ### 1915–1920 — *Die Wirtschaftsethik der Weltreligionen*
 
-- **APA**：Weber, M. (1915–1920). *Die Wirtschaftsethik der Weltreligionen* [essays]. *Archiv für Sozialwissenschaft und Sozialpolitik*.
-- **核心内容**：通过儒教与道教、印度教与佛教、古代犹太教等比较研究，考察不同宗教伦理如何塑造经济行动、救赎路径和生活方式。
-- **思想位置**：这一组研究把《新教伦理》放进世界宗教比较框架中。印度、中国、以色列和前亚细亚成为检验西方理性主义路径独特性的比较[[Champ|场域]]（Michaels, 2001; Kippenberg & Riesebrodt, 2001）。
-- **相关概念／理论**：世界宗教经济伦理、生活方式、西方理性主义、世界形象。
+- **APA** Weber, M. (1915–1920). *Die Wirtschaftsethik der Weltreligionen* [essays]. *Archiv für Sozialwissenschaft und Sozialpolitik*.
+- **核心内容** 通过儒教与道教、印度教与佛教、古代犹太教等比较研究，考察不同宗教伦理如何塑造经济行动、救赎路径和生活方式。
+- **思想位置** 这一组研究把《新教伦理》放进世界宗教比较框架中。印度、中国、以色列和前亚细亚成为检验西方理性主义路径独特性的比较[[Champ|场域]]（Michaels, 2001; Kippenberg & Riesebrodt, 2001）。
+- **相关概念／理论** 世界宗教经济伦理、生活方式、西方理性主义、世界形象。
 
 ### 1917/1919 — *Wissenschaft als Beruf*
 
-- **APA**：Weber, M. (1919). *Wissenschaft als Beruf*. Duncker & Humblot.（演讲发表于 1917 年）
-- **核心内容**：论述科学作为现代独立价值领域的意义，以及学术职业所要求的专业化、内在召唤、清醒和制度承受能力。
-- **思想位置**：这篇演讲把“世界的祛魅”转化为学术生活的伦理问题：科学不能替行动者决定终极价值，只能要求研究者在方法和责任上保持清明。
-- **相关概念／理论**：价值领域、祛魅、专业化、学术作为职业。
+- **APA** Weber, M. (1919). *Wissenschaft als Beruf*. Duncker & Humblot.（演讲发表于 1917 年）
+- **核心内容** 论述科学作为现代独立价值领域的意义，以及学术职业所要求的专业化、内在召唤、清醒和制度承受能力。
+- **思想位置** 这篇演讲把“世界的祛魅”转化为学术生活的伦理问题：科学不能替行动者决定终极价值，只能要求研究者在方法和责任上保持清明。
+- **相关概念／理论** 价值领域、祛魅、专业化、学术作为职业。
 
 ### 1919 — *Politik als Beruf*
 
-- **APA**：Weber, M. (1919). *Politik als Beruf*. Duncker & Humblot.
-- **核心内容**：界定国家为拥有正当物理暴力垄断的政治共同体，区分信念伦理与责任伦理，并提出政治家的三项品质：激情、责任感和分寸。
-- **思想位置**：这是 Weber 政治社会学和政治伦理最集中的文本。它把现代国家、官僚制、领袖民主和伦理困境联系在一起，也成为后来政治学国家定义的重要来源（Anter, 2016）。
-- **相关概念／理论**：国家、正当暴力垄断、信念伦理、责任伦理、领袖民主。
+- **APA** Weber, M. (1919). *Politik als Beruf*. Duncker & Humblot.
+- **核心内容** 界定国家为拥有正当物理暴力垄断的政治共同体，区分信念伦理与责任伦理，并提出政治家的三项品质：激情、责任感和分寸。
+- **思想位置** 这是 Weber 政治社会学和政治伦理最集中的文本。它把现代国家、官僚制、领袖民主和伦理困境联系在一起，也成为后来政治学国家定义的重要来源（Anter, 2016）。
+- **相关概念／理论** 国家、正当暴力垄断、信念伦理、责任伦理、领袖民主。
 
 ### 1920/21 — *Gesammelte Aufsätze zur Religionssoziologie*
 
-- **APA**：Weber, M. (1920–1921). *Gesammelte Aufsätze zur Religionssoziologie* (Vols. 1–3). Mohr.
-- **核心内容**：汇集《新教伦理》修订稿和比较宗教社会学论文，系统呈现宗教伦理、救赎路径、世界图像与经济行动之间的关系。
-- **思想位置**：这套论文集把 Weber 的宗教社会学整合为比较文明研究，集中服务于“为什么现代资本主义和理性化路径在西方形成”这一问题。
-- **相关概念／理论**：宗教社会学、救赎宗教、经济伦理、世界的祛魅。
+- **APA** Weber, M. (1920–1921). *Gesammelte Aufsätze zur Religionssoziologie* (Vols. 1–3). Mohr.
+- **核心内容** 汇集《新教伦理》修订稿和比较宗教社会学论文，系统呈现宗教伦理、救赎路径、世界图像与经济行动之间的关系。
+- **思想位置** 这套论文集把 Weber 的宗教社会学整合为比较文明研究，集中服务于“为什么现代资本主义和理性化路径在西方形成”这一问题。
+- **相关概念／理论** 宗教社会学、救赎宗教、经济伦理、世界的祛魅。
 
 ### 1921 — *Die rationalen und soziologischen Grundlagen der Musik*
 
-- **APA**：Weber, M. (1921). *Die rationalen und soziologischen Grundlagen der Musik*. Drei Masken.
-- **核心内容**：分析音阶、和声、记谱法、乐器和音乐制度中的理性化过程。
-- **思想位置**：这篇遗著说明 Weber 的理性化命题并不只适用于经济、法律和国家，也可以进入艺术领域；Sigmund (2014) 将其视为德国音乐社会学的奠基文献。
-- **相关概念／理论**：音乐社会学、理性化、艺术制度。
+- **APA** Weber, M. (1921). *Die rationalen und soziologischen Grundlagen der Musik*. Drei Masken.
+- **核心内容** 分析音阶、和声、记谱法、乐器和音乐制度中的理性化过程。
+- **思想位置** 这篇遗著说明 Weber 的理性化命题并不只适用于经济、法律和国家，也可以进入艺术领域；Sigmund (2014) 将其视为德国音乐社会学的奠基文献。
+- **相关概念／理论** 音乐社会学、理性化、艺术制度。
 
 ### 1921/22 — *Wirtschaft und Gesellschaft*
 
-- **APA**：Weber, M. (1921–1922). *Wirtschaft und Gesellschaft*. Mohr.
-- **核心内容**：遗著形式出版的社会学总论性巨著，涵盖社会学基本概念、经济行动范畴、支配类型学、阶级与身份群体、法律社会学、宗教社会学和城市社会学等主题。
-- **思想位置**：这是 Weber 理解社会学的系统汇合点。后来的 Max Weber-Gesamtausgabe 将文本重新整理，区分其 1919–1920 年完成的第一部分和较早的战前手稿，提醒读者不要把遗著版误读为 Weber 生前完成的统一体系。
-- **相关概念／理论**：社会行动、理解社会学、权力、支配、官僚制、阶级与身份群体。
+- **APA** Weber, M. (1921–1922). *Wirtschaft und Gesellschaft*. Mohr.
+- **核心内容** 遗著形式出版的社会学总论性巨著，涵盖社会学基本概念、经济行动范畴、支配类型学、阶级与身份群体、法律社会学、宗教社会学和城市社会学等主题。
+- **思想位置** 这是 Weber 理解社会学的系统汇合点。后来的 Max Weber-Gesamtausgabe 将文本重新整理，区分其 1919–1920 年完成的第一部分和较早的战前手稿，提醒读者不要把遗著版误读为 Weber 生前完成的统一体系。
+- **相关概念／理论** 社会行动、理解社会学、权力、支配、官僚制、阶级与身份群体。
 
 ---
 
@@ -197,10 +197,10 @@ updated: '2026-06-08'
 ### 行动的理想类型
 
 韦伯区分了四种理想类型的行动取向（Weber, 1921/22, §2）：
-- **目的理性（Zweckrationalität）**：通过计算手段-目的效用最大化做出选择
-- **价值理性（Wertrationalität）**：基于对某种价值的信仰而行动，不计功利后果
-- **情感行动（affektuelles Handeln）**：由当下情感状态决定的行动
-- **传统行动（traditionales Handeln）**：由习惯和习俗决定的行动
+- **目的理性（Zweckrationalität）** 通过计算手段-目的效用最大化做出选择
+- **价值理性（Wertrationalität）** 基于对某种价值的信仰而行动，不计功利后果
+- **情感行动（affektuelles Handeln）** 由当下情感状态决定的行动
+- **传统行动（traditionales Handeln）** 由习惯和习俗决定的行动
 
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以工具理性与价值理性的区分作为搭建[[Analytic Framework|分析框架]]的关键理论资源，指出工具理性之下的效用计算"远不能概括生涯选择的全部合理性"，由此主张将分析框架从工具理性拓展到价值信念。
 
@@ -211,9 +211,9 @@ updated: '2026-06-08'
 ### 支配的类型学
 
 韦伯区分了三种纯粹的合法支配类型（Weber, 1921/22, Kap.III）：
-- **传统型支配**：基于对历来传统的神圣性信仰
-- **卡里斯马型支配**：基于对某人人格神圣性、英雄力量或典范性的情感献身
-- **法制型支配**：基于对成文法规合法性的信仰，其行政机构为官僚制
+- **传统型支配** 基于对历来传统的神圣性信仰
+- **卡里斯马型支配** 基于对某人人格神圣性、英雄力量或典范性的情感献身
+- **法制型支配** 基于对成文法规合法性的信仰，其行政机构为官僚制
 
 韦伯对权力（Macht）与权威（Herrschaft）的区分——前者是"让你不得不听"，后者是"你心甘情愿听"——为[[Institutional Isomorphism|制度同构]]理论提供了合法性分析的基础。[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 将这一区分应用于[[Corporate Education|企业教育]]的分析：公司管理层可以命令员工参加培训（权力），但这不等同于培训被视为高质量（权威）。企业教育需借助外部权威来源——模仿高等教育、专业认证、同行评审、外包给营利性提供商——才能获得合法性([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.182–183]])。详见 [[Argument_Hartmann_2022_CorporateEducation]] 理论框架部分
 
@@ -230,13 +230,13 @@ updated: '2026-06-08'
 
 ### 学科领域
 
-- **社会学**：与 Tönnies 和 Simmel 被并列为德国社会学三奠基人；《经济与社会》是全世界最重要的社会学教科书之一（Müller, 2007）
-- **宗教社会学**：与 Durkheim 并列为宗教社会学创始人；新教伦理与资本主义精神的论题是社会科学领域讨论最密集的单项学术成果
-- **支配社会学与组织理论**：韦伯支配类型学——特别是官僚制作为最理性的法制型支配形式——经美国组织社会学家的接收，使其成为组织社会学的奠基人之一（Mayntz, 1968; Tacke, 2014）
-- **政治学**：《以政治为业》中对国家的定义为"正当物理暴力垄断"，被政治学家 Anter (2016) 评价为过去一百年最具影响力的国家定义
-- **历史学**：其"普遍历史"构想和关于社会变迁动力的分析被 Wehler 等社会史学家继承，形成与马克思主义史学相对照的"韦伯派"史学传统（Hobsbawm，引自 Kocka, 1986）
-- **马克思主义阵营**：被视为马克思的重要补充——以宗教观念展开资本主义形成的"主观方面"，而马克思侧重"客观/物质方面"（Lichtheim，引自 Weiß, 1981）
-- **哲学**：Jaspers 认为韦伯与爱因斯坦并列为当代最伟大的哲学家；称其全部哲学思考"无一年不在想到 Max Weber"（Jaspers, 1988）
+- **社会学** 与 Tönnies 和 Simmel 被并列为德国社会学三奠基人；《经济与社会》是全世界最重要的社会学教科书之一（Müller, 2007）
+- **宗教社会学** 与 Durkheim 并列为宗教社会学创始人；新教伦理与资本主义精神的论题是社会科学领域讨论最密集的单项学术成果
+- **支配社会学与组织理论** 韦伯支配类型学——特别是官僚制作为最理性的法制型支配形式——经美国组织社会学家的接收，使其成为组织社会学的奠基人之一（Mayntz, 1968; Tacke, 2014）
+- **政治学** 《以政治为业》中对国家的定义为"正当物理暴力垄断"，被政治学家 Anter (2016) 评价为过去一百年最具影响力的国家定义
+- **历史学** 其"普遍历史"构想和关于社会变迁动力的分析被 Wehler 等社会史学家继承，形成与马克思主义史学相对照的"韦伯派"史学传统（Hobsbawm，引自 Kocka, 1986）
+- **马克思主义阵营** 被视为马克思的重要补充——以宗教观念展开资本主义形成的"主观方面"，而马克思侧重"客观/物质方面"（Lichtheim，引自 Weiß, 1981）
+- **哲学** Jaspers 认为韦伯与爱因斯坦并列为当代最伟大的哲学家；称其全部哲学思考"无一年不在想到 Max Weber"（Jaspers, 1988）
 
 ---
 
@@ -273,11 +273,11 @@ updated: '2026-06-08'
 > [!warning]
 > 韦伯的学术贡献和政治立场均引发持续的批评性讨论：
 
-- **新教伦理命题的方法论争议**：批评者认为韦伯将其论题构建得方法上"不可反驳"（Steinert, 2010）。大量实证研究指出"资本主义精神"在宗教改革前的中世纪意大利城邦已有表现
-- **民族主义与帝国主义立场**：Mommsen (1974) 在 *Max Weber und die deutsche Politik 1890–1920* 中论证，"民族权力国家"是韦伯的政治理想，他是自由帝国主义的代表人物，曾为扩张性的舰队政策和海外殖民政策辩护（Mommsen, 1974, p.76, 147f）
-- **政治立场的矛盾性**：韦伯既仇视社会民主党左翼（称 Liebknecht "该进疯人院"、Luxemburg "该进动物园"），又在公开场合声称自己与社会主义者在经济政策上"难以区分地接近"（Mommsen, 1974, p.318, 328; Weber, 1918, *Das neue Deutschland*）
-- **反犹与种族主义色彩**：韦伯在 1890 年代参与的波兰政策讨论带有强烈的民族排斥色彩；他退出全德联盟并非因为反对其种族主义，而是因为该组织驱逐波兰人不够彻底（Mommsen, 1974, p.58f; Marianne Weber, 1926, p.237f）
-- **"自上而下"的精英政治观**：韦伯期待"领袖民主加机器"（Führerdemokratie mit Maschine），将群众视为被领导的对象，对参与式民主持怀疑态度；其卡里斯马概念有时被视为对威权领袖的默许（Mommsen, 1974）
-- **黑格尔式的理想主义倾向**：批评者指出韦伯在某些方面滑向了他自己所批评的唯心论——尽管他声明不取单方面的唯心论或唯物论，但其新教伦理论题常常被解读为"观念驱动历史"的典型论证（Löwith, 1960）
+- **新教伦理命题的方法论争议** 批评者认为韦伯将其论题构建得方法上"不可反驳"（Steinert, 2010）。大量实证研究指出"资本主义精神"在宗教改革前的中世纪意大利城邦已有表现
+- **民族主义与帝国主义立场**Mommsen (1974) 在 *Max Weber und die deutsche Politik 1890–1920* 中论证，"民族权力国家"是韦伯的政治理想，他是自由帝国主义的代表人物，曾为扩张性的舰队政策和海外殖民政策辩护（Mommsen, 1974, p.76, 147f）
+- **政治立场的矛盾性** 韦伯既仇视社会民主党左翼（称 Liebknecht "该进疯人院"、Luxemburg "该进动物园"），又在公开场合声称自己与社会主义者在经济政策上"难以区分地接近"（Mommsen, 1974, p.318, 328; Weber, 1918, *Das neue Deutschland*）
+- **反犹与种族主义色彩** 韦伯在 1890 年代参与的波兰政策讨论带有强烈的民族排斥色彩；他退出全德联盟并非因为反对其种族主义，而是因为该组织驱逐波兰人不够彻底（Mommsen, 1974, p.58f; Marianne Weber, 1926, p.237f）
+- **"自上而下"的精英政治观** 韦伯期待"领袖民主加机器"（Führerdemokratie mit Maschine），将群众视为被领导的对象，对参与式民主持怀疑态度；其卡里斯马概念有时被视为对威权领袖的默许（Mommsen, 1974）
+- **黑格尔式的理想主义倾向** 批评者指出韦伯在某些方面滑向了他自己所批评的唯心论——尽管他声明不取单方面的唯心论或唯物论，但其新教伦理论题常常被解读为"观念驱动历史"的典型论证（Löwith, 1960）
 
 ---

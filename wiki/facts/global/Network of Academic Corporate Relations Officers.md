@@ -48,9 +48,9 @@ updated: 2026-05-28
 > [!abstract]
 > NACRO 基准委员会（Benchmarking Committee）发布的主要[[Document|文件]]([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.82]])：
 
-- **2011 年白皮书**：*Five Essential Elements of a Successful Twenty-First Century University Corporate Relations Program*，定义了大学企业关系项目的五项基本要素。
-- **2015 年白皮书**：*Engagement of Academic Corporate Relations Officers in University-Industry Centers of Research Excellence*，探讨企业关系官在大学产业卓越研究中心中的角色。
-- **2016 年立场文件**：*Elevating Corporate Relations Through Institutional Commitment*，呼吁通过机构层面的制度承诺提升企业关系工作的地位和效能。
+- **2011 年白皮书** *Five Essential Elements of a Successful Twenty-First Century University Corporate Relations Program*，定义了大学企业关系项目的五项基本要素。
+- **2015 年白皮书** *Engagement of Academic Corporate Relations Officers in University-Industry Centers of Research Excellence*，探讨企业关系官在大学产业卓越研究中心中的角色。
+- **2016 年立场文件** *Elevating Corporate Relations Through Institutional Commitment*，呼吁通过机构层面的制度承诺提升企业关系工作的地位和效能。
 
 ---
 

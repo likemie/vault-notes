@@ -75,11 +75,11 @@ updated: 2026-06-08
 ## 发展脉络
 
 > [!note]-
-> - **1974 年**：Carnoy 出版 Education as Cultural Imperialism，从依附论视角系统分析教育在殖民和新殖民秩序中的角色，提出"我们如何改变一个殖民人们接受被支配角色的社会"([[Argument_Klerides_2023_CE|Klerides, 2023, p.426]])。
-> - **1977 年**：Altbach 发表"Servitude of the Mind? Education, Dependency and Neo-Colonialism"，分析教育在生产和再生产"心灵的奴役"中的作用，论证依附论比较教育的使命在于帮助被压迫者"看见"教育在维持其从属地位中的角色（p.427）。
-> - **1978 年**：Altbach 和 Kelly 编辑 Education and Colonialism，汇集了依附论视角下的殖民教育研究。
-> - **1980 年**：Arnove 发表两篇重要论文——"Comparative Education and World-Systems Analysis"将世界体系分析引入比较教育，"Philanthropy and Cultural Imperialism"分析慈善基金会作为文化帝国主义工具的角色。Watson 出版 Education in the Third World。
-> - **1990 年**：Carnoy 和 Samoff 出版 Education and Social Transition in the Third World，将依附论分析延伸至第三世界的社会革命，关注教育在从资本主义向社会主义过渡中的重建角色（p.427）。
+> - **1974 年** Carnoy 出版 Education as Cultural Imperialism，从依附论视角系统分析教育在殖民和新殖民秩序中的角色，提出"我们如何改变一个殖民人们接受被支配角色的社会"([[Argument_Klerides_2023_CE|Klerides, 2023, p.426]])。
+> - **1977 年** Altbach 发表"Servitude of the Mind? Education, Dependency and Neo-Colonialism"，分析教育在生产和再生产"心灵的奴役"中的作用，论证依附论比较教育的使命在于帮助被压迫者"看见"教育在维持其从属地位中的角色（p.427）。
+> - **1978 年** Altbach 和 Kelly 编辑 Education and Colonialism，汇集了依附论视角下的殖民教育研究。
+> - **1980 年** Arnove 发表两篇重要论文——"Comparative Education and World-Systems Analysis"将世界体系分析引入比较教育，"Philanthropy and Cultural Imperialism"分析慈善基金会作为文化帝国主义工具的角色。Watson 出版 Education in the Third World。
+> - **1990 年** Carnoy 和 Samoff 出版 Education and Social Transition in the Third World，将依附论分析延伸至第三世界的社会革命，关注教育在从资本主义向社会主义过渡中的重建角色（p.427）。
 
 ---
 
@@ -95,9 +95,9 @@ updated: 2026-06-08
 ## 争议与批评
 
 > [!warning]
-> - **社会主义替代方案的普遍主义**：后殖民和去殖民理论拒绝依附论的社会主义替代方案，理由是社会主义声称与资本主义具有同样的普遍性——两者都是西方现代性的宏大叙事([[Argument_Klerides_2023_CE|Klerides, 2023, p.428]])。
-> - **全球化的复杂化**：依附论的"中心—边缘"二元框架在新自由主义全球化的多行动者、多尺度治理现实中显得过于简化。教育政策和实践的流动已不再沿单一的中心向边缘方向进行。
-> - **忽视能动性**：批评者指出依附论过度强调结构性约束而低估了边缘行动者的能动性和抵抗策略（p.428）。
+> - **社会主义替代方案的普遍主义** 后殖民和去殖民理论拒绝依附论的社会主义替代方案，理由是社会主义声称与资本主义具有同样的普遍性——两者都是西方现代性的宏大叙事([[Argument_Klerides_2023_CE|Klerides, 2023, p.428]])。
+> - **全球化的复杂化** 依附论的"中心—边缘"二元框架在新自由主义全球化的多行动者、多尺度治理现实中显得过于简化。教育政策和实践的流动已不再沿单一的中心向边缘方向进行。
+> - **忽视能动性** 批评者指出依附论过度强调结构性约束而低估了边缘行动者的能动性和抵抗策略（p.428）。
 
 ---
 

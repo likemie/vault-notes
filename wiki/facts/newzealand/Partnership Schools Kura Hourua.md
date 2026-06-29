@@ -45,10 +45,10 @@ updated: '2026-05-18'
 ## 规模与状况
 
 > [!abstract] 规模与状况
-> - **截至 2016 年**：共 9 所学校运营，1 所合同被终止
+> - **截至 2016 年** 共 9 所学校运营，1 所合同被终止
 > - **第三轮申请**（2015 年）：为 2017 年开学招募
-> - **后续轮次**：已宣布为 2018 和 2019 年开学
-> - **赞助者构成**：1 所由专注于军事职业准备的 Limited Company 赞助；1 所由 Urban Māori Authority (UMA) 赞助；其余由慈善信托赞助，涵盖 Māori、Pasifika、基督教和 Steiner 教育价值观的组合([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.11–12]])
+> - **后续轮次** 已宣布为 2018 和 2019 年开学
+> - **赞助者构成** 1 所由专注于军事职业准备的 Limited Company 赞助；1 所由 Urban Māori Authority (UMA) 赞助；其余由慈善信托赞助，涵盖 Māori、Pasifika、基督教和 Steiner 教育价值观的组合([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.11–12]])
 
 ## E Tipu E Rea 支持实体
 

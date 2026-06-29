@@ -56,12 +56,12 @@ updated: '2026-05-18'
 ## 时间线
 
 > [!note]- 时间线
-> - **2008 年末**：国家党领导的联合政府当选，将国家标准纳入政策议程
-> - **2009 年初**：Hattie 的 *[[Visible Learning]]* 登上 *Sunday STAR Times* 头版（2009 年 1 月），随后他对国家标准的评论引发广泛媒体关注（p.86）
-> - **2009 年**：Hattie 被邀加入技术顾问组（共召开两次会议，Hattie 因出国六个月均未出席）（p.92）
-> - **2009 年**：新西兰评估学会（NZ Assessment Academy，由五位测量领域专家组成）受教育部邀请对标准的技术层面提供评论——部分但非全部建议被采纳（p.92）
-> - **2010 年**：总理 John Key 在发布国家标准时公开感谢 Hattie 对标准和评估理念的推动——"This seemed to many people to indicate that my hands were 'on the tiller'"([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.92]])
-> - **2010 年**：Hattie 在 Cognition 网站发表对国家标准的看法——媒体将其解读为 Hattie 变为"批评者"，许多人要求黑与白的答案（支持还是反对），但 Hattie 始终拒绝给出简单答案（p.92）
+> - **2008 年末** 国家党领导的联合政府当选，将国家标准纳入政策议程
+> - **2009 年初** Hattie 的 *[[Visible Learning]]* 登上 *Sunday STAR Times* 头版（2009 年 1 月），随后他对国家标准的评论引发广泛媒体关注（p.86）
+> - **2009 年** Hattie 被邀加入技术顾问组（共召开两次会议，Hattie 因出国六个月均未出席）（p.92）
+> - **2009 年** 新西兰评估学会（NZ Assessment Academy，由五位测量领域专家组成）受教育部邀请对标准的技术层面提供评论——部分但非全部建议被采纳（p.92）
+> - **2010 年** 总理 John Key 在发布国家标准时公开感谢 Hattie 对标准和评估理念的推动——"This seemed to many people to indicate that my hands were 'on the tiller'"([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.92]])
+> - **2010 年** Hattie 在 Cognition 网站发表对国家标准的看法——媒体将其解读为 Hattie 变为"批评者"，许多人要求黑与白的答案（支持还是反对），但 Hattie 始终拒绝给出简单答案（p.92）
 
 ## 实施情况
 

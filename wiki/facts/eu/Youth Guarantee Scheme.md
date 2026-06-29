@@ -59,10 +59,10 @@ updated: '2026-05-18'
 > [!abstract]
 > Youth Guarantee Scheme 的核心承诺是：确保任何青年在离开学校或结束一份工作后的 **4 个月内**，获得以下四项之一的机会(European Council, 2013; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.169]])：
 >
-> - **就业**（employment）
+> - **就业（employment）**
 > - **[[Further Education|继续教育]]**（education）
-> - **培训**（training）
-> - **学徒制**（apprenticeships）
+> - **培训（training）**
+> - **学徒制（apprenticeships）**
 >
 > 该计划将自身定位为一个更广泛制度框架的组成部分——将就业、教育、培训和学徒制整合为一个相互关联的方案网络（web of interrelated schemes），而非临时的权宜之计。成员国和次国家层面的政府被要求向青年提供这一整套选项，使其成为创新与教育培训政策体系的核心构成部分([[Argument_Rambla_2022_Springer|Rambla, 2022, p.170]])。
 
@@ -89,10 +89,10 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 > [!example]
 > Youth Guarantee 的实施通过多层次治理架构运作([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–173]])：
 >
-> - **顶层设计**：欧盟理事会以建议书形式设定制度框架，不具约束性立法效力，但通过 [[Performance Indicators]] 的排名和基准管理机制施加规范压力
-> - **财政杠杆**：欧盟社会基金（European Social Fund, [[English Schools Foundation Hong Kong|ESF]]）为成员国的青年就业和培训计划提供资金支持
-> - **地方网络**：政策鼓励成员国和区域政府建立来自政府、企业、非营利和公民社会的多元利益相关方合作网络（详见 [[Network Governance]] 中欧盟部分）
-> - **多层协调**：Youth Guarantee 的实施深度嵌入 [[EU Skills Agenda]] 和 [[Innovation Union]] 的治理网络，三者共同构成一套相互强化的政策工具体系
+> - **顶层设计** 欧盟理事会以建议书形式设定制度框架，不具约束性立法效力，但通过 [[Performance Indicators]] 的排名和基准管理机制施加规范压力
+> - **财政杠杆** 欧盟社会基金（European Social Fund, [[English Schools Foundation Hong Kong|ESF]]）为成员国的青年就业和培训计划提供资金支持
+> - **地方网络** 政策鼓励成员国和区域政府建立来自政府、企业、非营利和公民社会的多元利益相关方合作网络（详见 [[Network Governance]] 中欧盟部分）
+> - **多层协调** Youth Guarantee 的实施深度嵌入 [[EU Skills Agenda]] 和 [[Innovation Union]] 的治理网络，三者共同构成一套相互强化的政策工具体系
 
 ## 效果与评价
 
@@ -103,8 +103,8 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 ## 争议与评论
 
 > [!warning]
-> - **4 个月时限与教育质量的张力**：Youth Guarantee 的"4 个月"时限承载了一种隐含的变革理论（[[Theories of Policy Change]]）——即快速衔接教育到就业的过渡本身是好的，而过渡的"空窗期"是需要被最小化的问题。然而，这一预设可能与[[Lifelong Learning|终身学习]]的人文发展目标存在张力：一个花 1 年时间参与社区环保项目并获得组织技能的青年，在[[Performance Indicators|绩效指标]]的逻辑下被视为"失业 12 个月"的失败案例，而一个在 3 个月内找到超市收银工作的青年则被视为"成功就业"([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
-> - **就业优先预设**：在多数欧盟成员国中，Youth Guarantee 在实践中被操作为就业优先工具——就业安置的紧迫性往往压倒了对教育质量和个体赋权的关注。这与 [[Selectivity]] 的诊断一致：绩效指标体系系统性地奖励短期就业结果，使更长远的人力发展路径在政策视野中变得不可见([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])
+> - **4 个月时限与教育质量的张力** Youth Guarantee 的"4 个月"时限承载了一种隐含的变革理论（[[Theories of Policy Change]]）——即快速衔接教育到就业的过渡本身是好的，而过渡的"空窗期"是需要被最小化的问题。然而，这一预设可能与[[Lifelong Learning|终身学习]]的人文发展目标存在张力：一个花 1 年时间参与社区环保项目并获得组织技能的青年，在[[Performance Indicators|绩效指标]]的逻辑下被视为"失业 12 个月"的失败案例，而一个在 3 个月内找到超市收银工作的青年则被视为"成功就业"([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
+> - **就业优先预设** 在多数欧盟成员国中，Youth Guarantee 在实践中被操作为就业优先工具——就业安置的紧迫性往往压倒了对教育质量和个体赋权的关注。这与 [[Selectivity]] 的诊断一致：绩效指标体系系统性地奖励短期就业结果，使更长远的人力发展路径在政策视野中变得不可见([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])
 
 ## 相关概念／理论
 

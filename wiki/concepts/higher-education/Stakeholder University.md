@@ -22,6 +22,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
   - "[[Competitiveness]]"
+  - "[[Soft Power]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Academic Freedom]]"
 related_theories:

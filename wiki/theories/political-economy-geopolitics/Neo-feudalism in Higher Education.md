@@ -95,18 +95,18 @@ updated: 2026-06-01
 ## 发展脉络
 
 > [!note]-
-> - **1962 年**：[[Jürgen Habermas|Habermas]] 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
-> - **1984 年**：Bourdieu 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系(Bourdieu, 1984; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
+> - **1962 年**[[Jürgen Habermas|Habermas]] 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
+> - **1984 年** Bourdieu 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系(Bourdieu, 1984; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 ... Applied fuzzy match at line 48-112.
-> - **2013 年**：Neckel 和 Zinn 在德国的社会不平等讨论中重新激活了再封建化和新封建主义概念（Neckel, 2013; Zinn, 2015）
-> - **2015 年**：Möller（2015）和 Graf（2015）运用 Bourdieu 的学术阶级理论对教授和学术官员进行实证研究([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
-> - **2017 年**：Schulze-Cleven et al. 将新封建主义引入高等教育研究作为分析[[Paradigm|范式]]
+> - **2013 年** Neckel 和 Zinn 在德国的社会不平等讨论中重新激活了再封建化和新封建主义概念（Neckel, 2013; Zinn, 2015）
+> - **2015 年**Möller（2015）和 Graf（2015）运用 Bourdieu 的学术阶级理论对教授和学术官员进行实证研究([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
+> - **2017 年** Schulze-Cleven et al. 将新封建主义引入高等教育研究作为分析[[Paradigm|范式]]
 
 ## 与相关理论的关系
 
 > [!tip]-
 > - **Bourdieu 的学术[[Champ|场域]]**：[[Pierre Bourdieu]] 的"学术阶级分数"理论直接支持了新封建主义的等级分析——不同分数具有不同的资本构成和再生产策略([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
-> - **新 Weber 式权力分析**：探索有目标的策略行动者之间的组织权力动力如何贡献于处理冲突的制度形式(Clark, 1983; Gumport, 2007; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
+> - **新 Weber 式权力分析** 探索有目标的策略行动者之间的组织权力动力如何贡献于处理冲突的制度形式(Clark, 1983; Gumport, 2007; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 > - **马克思主义[[Knowledge Capitalism|知识资本主义]]分析**：将新封建等级视为知识资本主义的系统性特征——资本主义[[Knowledge-Based Economy|知识经济]]需要一个非资本主义部门来界定知识为有价值，而多样化的学术评估机制正好提供了这一服务（Reitz; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.805]]）
 
 ## 争议与批评

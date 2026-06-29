@@ -63,9 +63,9 @@ updated: '2026-05-23'
 > [!abstract] 核心要素
 > - **[[Null Hypothesis|零假设]]**：在两个分布均值比较中，零[[Hypothesis|假设]]可以写为 `H: µ1=µ2`([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]])。
 > - **t 值与[[Sample Size Determination|样本量]]**：在[[Effect Size|效应量]] d 已知时，若观测数为 n，可构造 `t=d√n`；样本量越大，同样 d 值对应的 t 值越大，也越容易达到统计显著([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]])。
-> - **p 值**：p 值表示在零假设成立时获得当前或更极端 t 值的概率。研究报告常把 p 值作为统计分析结果呈现的核心([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]])。
-> - **显著不等于重要**：Terhart 强调，统计显著性不说明效应大小和实践意义；这部分信息需要 [[Effect Size]] 或原始量表差异来补充([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])。
-> - **显著不等于可采购**：在学校项目选择中，统计显著性只能说明研究结果达到某种统计标准，不能说明项目成本、实施难度、教师接受度、对照条件强弱或本地适配性([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
+> - **p 值** p 值表示在零假设成立时获得当前或更极端 t 值的概率。研究报告常把 p 值作为统计分析结果呈现的核心([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]])。
+> - **显著不等于重要** Terhart 强调，统计显著性不说明效应大小和实践意义；这部分信息需要 [[Effect Size]] 或原始量表差异来补充([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])。
+> - **显著不等于可采购** 在学校项目选择中，统计显著性只能说明研究结果达到某种统计标准，不能说明项目成本、实施难度、教师接受度、对照条件强弱或本地适配性([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 ## 与相关概念的区别
 

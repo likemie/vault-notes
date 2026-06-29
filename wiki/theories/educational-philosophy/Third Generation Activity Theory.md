@@ -67,12 +67,12 @@ Vygotsky（1978）提出认知发展源于个体（主体，Subject）与外部�
 
 Engeström（1987）认识到人类行为与所处社群之间的复杂交互关系，在 Vygotsky 模型基础上增加了三个社会维度，将分析单元扩展为集体活动系统([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])：
 
-- **主体（Subject）**：参与活动的个体或群体
-- **客体（Object）**：活动的目标
-- **中介工具（Mediating artefacts）**：主体为实现客体所使用的工具
-- **共同体（Community）**：活动所嵌入的社会情境
-- **规则（Rules）**：活动的显性或隐性规范
-- **劳动分工（Division of labour）**：不同层级行动者之间的责任分配
+- **主体（Subject）** 参与活动的个体或群体
+- **客体（Object）** 活动的目标
+- **中介工具（Mediating artefacts）** 主体为实现客体所使用的工具
+- **共同体（Community）** 活动所嵌入的社会情境
+- **规则（Rules）** 活动的显性或隐性规范
+- **劳动分工（Division of labour）** 不同层级行动者之间的责任分配
 
 > 举例：一个学校的[[Test-Based Accountability|考试问责]]系统构成一个活动系统——教师（主体）追求提升考试成绩（客体），通过教师主导的教学法（中介工具），在学校评价制度（规则）、家长支持（共同体）和自上而下的目标分解（劳动分工）的共同作用下运作。
 
@@ -100,8 +100,8 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 
 > [!info]
 > - **[[Ontology|本体论]]与[[Epistemology|认识论]]**：社会文化[[Constructivist Paradigm|建构主义]]——人类认知和行为由社会文化情境塑造，不能脱离具体活动系统来理解
-> - **分析单元**：集体活动系统，而非个体行为
-> - **常用方法**：质性[[Case Study|案例研究]]、[[Ethnography|民族志]]、发展性工作研究（developmental work research）；关注系统层面的互动、矛盾和转型，而非个体层面的[[Variable|变量]]关系
+> - **分析单元** 集体活动系统，而非个体行为
+> - **常用方法** 质性[[Case Study|案例研究]]、[[Ethnography|民族志]]、发展性工作研究（developmental work research）；关注系统层面的互动、矛盾和转型，而非个体层面的[[Variable|变量]]关系
 
 ---
 
@@ -115,9 +115,9 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 ## 应用领域
 
 > [!success]
-> - **教育改革分析**：用于理解不同教育目标系统之间的张力与可能的协同——如[[Test-Based Accountability|考试问责]]与 [[Learner-Centred Education|LCE]] 的关系([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]])
-> - **组织学习与变革**：Engeström 最初将活动理论应用于工作场所的学习和创新，分析不同专业团队之间的边界跨越
-> - **教师专业发展**：分析教师学习如何在个人信念、学校制度和外部改革压力之间的互动中发生
+> - **教育改革分析** 用于理解不同教育目标系统之间的张力与可能的协同——如[[Test-Based Accountability|考试问责]]与 [[Learner-Centred Education|LCE]] 的关系([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]])
+> - **组织学习与变革** Engeström 最初将活动理论应用于工作场所的学习和创新，分析不同专业团队之间的边界跨越
+> - **教师专业发展** 分析教师学习如何在个人信念、学校制度和外部改革压力之间的互动中发生
 
 ---
 

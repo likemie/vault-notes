@@ -59,8 +59,8 @@ updated: '2026-06-08'
 
 > [!tip]-
 > [[Argument_Partaken_2022_Springer|Partaken (2022)]] 在 [[Geopolitics of Knowledge|GPK]] 语境中提炼 Freire 的核心思想([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76]])：
-> - **银行概念 (Banking Concept)**：教学被还原为存款行为——教师是储户，学生是空容器。知识从自认为有知识的人单向流向被认为一无所知的人。教育因此不是解放而是驯化。
-> - **权力梯度**：银行概念揭示了[[Knowledge Transfer|知识转移]]中不可化约的权力不对等——教授者（压迫者）→ 被教授者（被压迫者）。这一梯度决定了知识流动的方向和合法性：谁有资格教、谁被规定为学的客体。
+> - **银行概念 (Banking Concept)** 教学被还原为存款行为——教师是储户，学生是空容器。知识从自认为有知识的人单向流向被认为一无所知的人。教育因此不是解放而是驯化。
+> - **权力梯度** 银行概念揭示了[[Knowledge Transfer|知识转移]]中不可化约的权力不对等——教授者（压迫者）→ 被教授者（被压迫者）。这一梯度决定了知识流动的方向和合法性：谁有资格教、谁被规定为学的客体。
 
 > [!quote]
 > "Knowledge is a gift bestowed by those who consider themselves knowledgeable upon those whom they consider to know nothing."（Freire, 1972, p.17; 引自 Partaken, 2022, p.75）

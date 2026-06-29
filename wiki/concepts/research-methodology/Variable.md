@@ -50,7 +50,7 @@ updated: 2026-06-25
 > [!quote]
 > "A variable refers to a characteristic or attribute of an individual or an organization that researchers can measure or observe and varies among the individuals or organizations."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])
 
-与变量相对的概念是**常量**（constant）。常量是一个研究中所有个体都具有的特征或条件。许多研究变量是由研究者创生的变量，这类变量的内涵实际上是研究者的理论假设（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
+与变量相对的概念是**常量（constant）**。常量是一个研究中所有个体都具有的特征或条件。许多研究变量是由研究者创生的变量，这类变量的内涵实际上是研究者的理论假设（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 ---
 

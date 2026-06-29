@@ -39,6 +39,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Filial Piety]]"
   - "[[Benevolence]]"
+  - "[[Soft Power]]"
   - "[[Paradigm]]"
   - "[[Orientalism]]"
   - "[[Descriptive Analysis]]"

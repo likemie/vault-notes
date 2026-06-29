@@ -41,8 +41,8 @@ updated: 2026-05-21
 > [!abstract]
 > Parreira do Amaral 和 Dale（2015）区分了两类机会结构([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.253]])：
 
-- **制度性机会结构**（institutional opportunity structures）：以学校系统、教育政策、工作设施和研究基础设施等物质性制度形态存在——这是传统教育治理分析关注的对象
-- **话语性机会结构**（discursive opportunity structures）：个体所面对的话语框架，在其中他们发展职业生涯、推进生活项目、按自己认为有意义的目标准则进行自我导航
+- **制度性机会结构（institutional opportunity structures）** 以学校系统、教育政策、工作设施和研究基础设施等物质性制度形态存在——这是传统教育治理分析关注的对象
+- **话语性机会结构（discursive opportunity structures）** 个体所面对的话语框架，在其中他们发展职业生涯、推进生活项目、按自己认为有意义的目标准则进行自我导航
 
 二者的关系并非并列而是叠加：个体同时面对制度性约束和话语性框定，话语性机会结构决定了哪些思维和行动路径被视为"可欲的"、"合理的"或"可行的"——从而在制度性结构之外，以更隐蔽的方式调节教育轨迹的可及性([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.253]])。
 

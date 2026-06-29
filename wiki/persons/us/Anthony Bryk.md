@@ -57,9 +57,9 @@ updated: '2026-06-19'
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置**：美国教育研究者与组织改进学者，卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）前主席。
-> - **核心角色**：将[[Improvement Science|改进科学]]与[[Snowball Sampling|网络化]]改进共同体（Networked Improvement Communities, NICs）模型系统性引入教育研究领域的先驱与领军人物。
-> - **代表贡献**：系统构建教育[[Improvement Science\|改进科学]]方法论体系、协同倡导 “网络化改进共同体”（Networked Improvement Communities, NICs）组织模型、提出 “基于实践的证据”（practice-based evidence）概念。
+> - **身份位置** 美国教育研究者与组织改进学者，卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）前主席。
+> - **核心角色** 将[[Improvement Science|改进科学]]与[[Snowball Sampling|网络化]]改进共同体（Networked Improvement Communities, NICs）模型系统性引入教育研究领域的先驱与领军人物。
+> - **代表贡献** 系统构建教育[[Improvement Science\|改进科学]]方法论体系、协同倡导 “网络化改进共同体”（Networked Improvement Communities, NICs）组织模型、提出 “基于实践的证据”（practice-based evidence）概念。
 
 > [!citation-card]- 人物定位的关键来源
 > 改进科学和网络化探究方法旨在适应教与学的日常情境，允许根据反馈和调整做出持续的小型决策。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
@@ -82,7 +82,7 @@ updated: '2026-06-19'
 
 > [!timeline] 生平与职涯
 > - **近年（截至 2015 年）**：作为卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）的关键研究者，将来自组织研究和公共健康的[[Improvement Science|改进科学]]方法论系统性地引入美国教育研究。
-> - **2015 年**：与合著者发表里程碑式著作 *Learning to Improve*，标志着教育改进科学与[[Snowball Sampling|网络化]]改进共同体理论与实践的正式确立。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
+> - **2015 年** 与合著者发表里程碑式著作 *Learning to Improve*，标志着教育改进科学与[[Snowball Sampling|网络化]]改进共同体理论与实践的正式确立。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 
 ---
 
@@ -117,9 +117,9 @@ updated: '2026-06-19'
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径**：在 [[Evidence-Informed Practice|EIP]] 中建立起 “基于实践的证据” 和 “[[Improvement Science|改进科学]]” 的话语体系，为超越[[Paradigm Wars|范式战争]]提供了中间立场。([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]])；另见 ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
-> - **方法路径**：通过网络反馈循环和小步改变（如计划-执行-研究-行动［Plan-Do-Study-Act, PDSA］循环）将注意力从完整程序协议转向真实变化机制。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306–307]])
-> - **政策路径**：作为卡内基教学促进基金会的主导议题，推动了美国学校改进的[[Snowball Sampling|网络化]]协作模式；同时激发了如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织对创新学习系统规模化路径的探讨。
+> - **理论路径** 在 [[Evidence-Informed Practice|EIP]] 中建立起 “基于实践的证据” 和 “[[Improvement Science|改进科学]]” 的话语体系，为超越[[Paradigm Wars|范式战争]]提供了中间立场。([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]])；另见 ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
+> - **方法路径** 通过网络反馈循环和小步改变（如计划-执行-研究-行动［Plan-Do-Study-Act, PDSA］循环）将注意力从完整程序协议转向真实变化机制。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306–307]])
+> - **政策路径** 作为卡内基教学促进基金会的主导议题，推动了美国学校改进的[[Snowball Sampling|网络化]]协作模式；同时激发了如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织对创新学习系统规模化路径的探讨。
 
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]] — 将 Bryk 于 2015 年提出的 “基于实践的证据” 定位为 EIP 生态系统中的关键中介与专业支持。
@@ -131,21 +131,21 @@ updated: '2026-06-19'
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **合作者**：路易斯·戈麦斯 (Louis M. Gomez) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
-> - **合作者**：艾丽克丝·格鲁诺 (Alix Grunow) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
-> - **合作者**：保罗·勒马修 (Paul G. LeMahieu) — 卡内基教学促进基金会副主席，*Learning to Improve* 的合著者。
-> - **重构／整合者**：阿梅莉亚·彼得森（[[Amelia Peterson]]） — 提出[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]][[Snowball Sampling|网络化]]组织的双向互补整合方案（什么有效 2.0）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])
-> - **机构**：Carnegie Foundation for the Advancement of Teaching — Bryk 长期出任主席并践行改进科学的基地。
+> - **合作者** 路易斯·戈麦斯 (Louis M. Gomez) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
+> - **合作者** 艾丽克丝·格鲁诺 (Alix Grunow) — 卡内基教学促进基金会合作研究者，*Learning to Improve* 的合著者。
+> - **合作者** 保罗·勒马修 (Paul G. LeMahieu) — 卡内基教学促进基金会副主席，*Learning to Improve* 的合著者。
+> - **重构／整合者** 阿梅莉亚·彼得森（[[Amelia Peterson]]） — 提出[[Mechanism Experiments|机制实验]]与[[Improvement Science|改进科学]][[Snowball Sampling|网络化]]组织的双向互补整合方案（什么有效 2.0）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])
+> - **机构** Carnegie Foundation for the Advancement of Teaching — Bryk 长期出任主席并践行改进科学的基地。
 
 ---
 
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **争议对象**：[[Improvement Science|改进科学]]的[[Causality|因果]]估计稳健性与方法碎片化风险。
-> - **批评立场**：实验科学学者批评改进科学缺乏高[[Internal Validity|内部效度]]（internal validity）的稳健因果估计，难以直接证实特定局部改变的净因果效应；同时其强调过度改编的实践可能引发方法碎片化。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
-> - **证据依据**：NICs 产生的证据以描述性的局部反馈数据为主，较难在不借助严密随机对照设计的条件下排除混杂[[Variable|变量]]。
-> - **余留问题**：Bryk 及其倡导者强调，改进科学并非为宏观二选一设计，而是适应日常教与学的持续小微调整。彼得森进而主张通过[[Mechanism Experiments|机制实验]]提供方向性因果构建块，而让 NICs 作为其实施和反馈的基础设施，以此克服两者的局限。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])
+> - **争议对象**[[Improvement Science|改进科学]]的[[Causality|因果]]估计稳健性与方法碎片化风险。
+> - **批评立场** 实验科学学者批评改进科学缺乏高[[Internal Validity|内部效度]]（internal validity）的稳健因果估计，难以直接证实特定局部改变的净因果效应；同时其强调过度改编的实践可能引发方法碎片化。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
+> - **证据依据** NICs 产生的证据以描述性的局部反馈数据为主，较难在不借助严密随机对照设计的条件下排除混杂[[Variable|变量]]。
+> - **余留问题** Bryk 及其倡导者强调，改进科学并非为宏观二选一设计，而是适应日常教与学的持续小微调整。彼得森进而主张通过[[Mechanism Experiments|机制实验]]提供方向性因果构建块，而让 NICs 作为其实施和反馈的基础设施，以此克服两者的局限。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])
 
 > [!critique]- 批评索引
 > - [[Argument_Peterson_2016_IJRME|Peterson, 2016]] — 指出改进科学在组织层面上能极大促进证据的采纳与实施，但单靠其反馈循环在严密的因果机制确证上仍显不足，因此必须与实验机制设计整合。

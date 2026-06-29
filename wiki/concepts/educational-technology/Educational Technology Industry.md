@@ -28,6 +28,7 @@ related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Regional University Alliances]]"
   - "[[League of European Research Universities]]"
+  - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium

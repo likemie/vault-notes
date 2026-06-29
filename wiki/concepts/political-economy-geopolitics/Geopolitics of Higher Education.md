@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Soft Power]]"
   - "[[Classical Geopolitics]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -24,7 +25,8 @@ related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Fulbright Program]]"
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
 confidence: medium

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Credential Inflation]]"
   - "[[Cultural Capital]]"
   - "[[Economy of Experience]]"
+  - "[[Soft Power]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -59,11 +60,11 @@ updated: '2026-05-18'
 ## 时间线
 
 > [!note]-
-> - **1986**：原国家教委编订《高等学校毕业生分配制度改革方案》，提出"双向选择"制度框架（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - **1989.3**：该方案由国务院正式批准，决定在全国范围逐步实施，拉开毕业生就业制度市场化改革序幕([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
-> - **1994**：原国家教委发出《关于进一步改革普通高等学校招生和毕业生就业制度的试点意见》，提出建立入学收费制度，引导学生毕业后参与劳动力市场竞争，改变"两包"（上学国家包、分配国家包）做法([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
-> - **1994**：原国家教委开始推行高校招生并轨改革试点([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
-> - **1997**：全国高校实施并轨招生——统一收费、不再区分公费生与自费生，高校学费开始增加([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **1986** 原国家教委编订《高等学校毕业生分配制度改革方案》，提出"双向选择"制度框架（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - **1989.3** 该方案由国务院正式批准，决定在全国范围逐步实施，拉开毕业生就业制度市场化改革序幕([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **1994** 原国家教委发出《关于进一步改革普通高等学校招生和毕业生就业制度的试点意见》，提出建立入学收费制度，引导学生毕业后参与劳动力市场竞争，改变"两包"（上学国家包、分配国家包）做法([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **1994** 原国家教委开始推行高校招生并轨改革试点([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **1997** 全国高校实施并轨招生——统一收费、不再区分公费生与自费生，高校学费开始增加([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -86,8 +87,8 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning]
-> - **公平与效率的张力**："双向选择"制度虽提升了劳动力市场效率，但也使就业结果更加依赖家庭背景和个人社会网络——优势阶层学生在市场化竞争中占据系统性优势（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - **与国家扩招政策的叠加效应**：1986–1997 的就业市场化改革与 1999 年后的高校大扩招叠加，使中国大学生在短短二十年间经历了从"天之骄子"到"普通劳动者"的身份转换，就业竞争强度呈指数级增长([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - **公平与效率的张力** "双向选择"制度虽提升了劳动力市场效率，但也使就业结果更加依赖家庭背景和个人社会网络——优势阶层学生在市场化竞争中占据系统性优势（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - **与国家扩招政策的叠加效应** 1986–1997 的就业市场化改革与 1999 年后的高校大扩招叠加，使中国大学生在短短二十年间经历了从"天之骄子"到"普通劳动者"的身份转换，就业竞争强度呈指数级增长([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -95,7 +96,7 @@ updated: '2026-05-18'
 
 > [!tip]-
 > - [[Credential Inflation]] — 就业市场化与高校扩招叠加，加速了文凭通胀的进程（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - [[Economy of Experience]] — 市场化就业环境下，软实力竞争催生了履历经济学([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - [[Economy of Experience]] — 市场化就业环境下，[[Soft Power|软实力]]竞争催生了履历经济学([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 > - [[Recommendation-Based Graduate Admission System]] — 推免制度与就业市场化构成中国大学生毕业出路的两大制度性框架([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---

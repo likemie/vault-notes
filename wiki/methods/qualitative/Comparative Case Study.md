@@ -52,9 +52,9 @@ updated: 2026-05-26
 
 CCS 的核心操作是通过三个分析轴同时对现象进行比较：
 
-- **水平轴（horizontal axis）**：比较相似政策如何在不同的、社会性地生产且"复杂连接"的地点展开
-- **垂直轴（vertical axis）**：坚持同时关注并跨越不同尺度（地方、国家、跨国／全球）
-- **横贯轴（transversal axis）**：历时性地追溯所考察的过程或关系的历史变迁
+- **水平轴（horizontal axis）** 比较相似政策如何在不同的、社会性地生产且"复杂连接"的地点展开
+- **垂直轴（vertical axis）** 坚持同时关注并跨越不同尺度（地方、国家、跨国／全球）
+- **横贯轴（transversal axis）** 历时性地追溯所考察的过程或关系的历史变迁
 
 > [!quote]
 > "The horizontal axis compares how similar policies unfold in distinct locations that are socially produced […] and 'complexly connected' […] The vertical axis insists on simultaneous attention to and across scales […] The transversal comparison historically situates the processes or relations under consideration." (Bartlett & Vavrus, 2017a, p.3, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.202]])
@@ -76,9 +76,9 @@ CCS 的核心操作是通过三个分析轴同时对现象进行比较：
 
 CCS 的研究操作不遵循固定的线性步骤，而是通过三个轴的**同时性**分析展开([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 204]])：
 
-1. **水平比较**：选择两个或多个地点，追踪相似政策如何在各自的社会、政治和经济条件下以不同方式展开。在 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 中，新加坡和阿联酋的教育枢纽政策构成水平比较的两个案例
-2. **垂直追踪**：在每个案例中，追踪政策如何在不同尺度（国家政策[[Document|文件]]、酋长国／部委层面的执行、国际组织的背书与评价）之间流动和转化
-3. **横贯追溯**：将现象放在历史脉络中，考察 1990–2018 年间教育枢纽如何随全球政治经济变迁（冷战结束、亚洲金融危机、全球金融危机）而演变。本章因着重讨论社会政治条件，重点使用横贯维度（Bartlett & Vavrus, 2017, p.92）
+1. **水平比较** 选择两个或多个地点，追踪相似政策如何在各自的社会、政治和经济条件下以不同方式展开。在 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 中，新加坡和阿联酋的教育枢纽政策构成水平比较的两个案例
+2. **垂直追踪** 在每个案例中，追踪政策如何在不同尺度（国家政策[[Document|文件]]、酋长国／部委层面的执行、国际组织的背书与评价）之间流动和转化
+3. **横贯追溯** 将现象放在历史脉络中，考察 1990–2018 年间教育枢纽如何随全球政治经济变迁（冷战结束、亚洲金融危机、全球金融危机）而演变。本章因着重讨论社会政治条件，重点使用横贯维度（Bartlett & Vavrus, 2017, p.92）
 
 三个轴在实际操作中不是先后执行的步骤，而是**同时进行**的分析运动——研究者在分析政策文件时，同时注意跨地点比较（水平）、跨尺度关联（垂直）和历时变迁（横贯）。
 

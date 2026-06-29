@@ -43,15 +43,15 @@ updated: '2026-05-18'
 ## 经过
 
 > [!note]- 经过
-> - **时间**：1991 年
-> - **地点**：瑞士 Lugano（卢加诺）
-> - **性质**：[[International Indicators of Education Systems|INES]] 第二届全体大会，被 Bottani 称为"国际指标的创造者与决策者之间的国际会议"(Bottani, 2008, p.16; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12]])
-> - **参与者**：[[OECD]] 成员国代表、INES 网络科学家（统计学家、教育专家、社会科学专家）、政策制定者
-> - **议程**：讨论和审查 INES 开发的指标原型
+> - **时间** 1991 年
+> - **地点** 瑞士 Lugano（卢加诺）
+> - **性质**[[International Indicators of Education Systems|INES]] 第二届全体大会，被 Bottani 称为"国际指标的创造者与决策者之间的国际会议"(Bottani, 2008, p.16; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12]])
+> - **参与者**[[OECD]] 成员国代表、INES 网络科学家（统计学家、教育专家、社会科学专家）、政策制定者
+> - **议程** 讨论和审查 INES 开发的指标原型
 >
 > ### 关键决策
 >
-> **指标数量削减**：从 Semmering 的约 160 项削减至约 50 项"理想"指标，这些指标源自一个提供国际指标开发指导原则的概念框架(Bottani, 1996, pp.280–281; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11–12]])
+> **指标数量削减** 从 Semmering 的约 160 项削减至约 50 项"理想"指标，这些指标源自一个提供国际指标开发指导原则的概念框架(Bottani, 1996, pp.280–281; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11–12]])
 >
 > **学生成绩数据的纳入**（核心争议）：
 > - 统计学家反对纳入：鉴于数据质量参差不齐（"非常零散的数据"），从科学角度无法接受([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12]])

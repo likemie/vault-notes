@@ -43,20 +43,20 @@ updated: 2026-06-14
 > [!assumptions] 主观主义的四组假设
 > - **[[Ontology|本体论]]：唯名论**（nominalism）思想的对象仅仅是词语（objects of thought are merely words），不存在独立于知者的、构成一个词语意义的可及事物。组织是被发明的社会实在（Organizations are invented social reality）
 > - **[[Epistemology|认识论]]：[[Interpretive Paradigm|反实证主义]]**（anti-positivist）知识是个人的、主观的、独特的（personal, subjective and unique）。要求研究者投入研究对象之中（an involvement with their subjects），拒绝自然科学家的方式
-> - **人性：意志论**（voluntarism）人是自身行动的发起者，具有自由意志和创造力，创造自己的环境（as initiators of their own actions with free will and creativity, producing their own environments）
+> - **人性：意志论（voluntarism）**人是自身行动的发起者，具有自由意志和创造力，创造自己的环境（as initiators of their own actions with free will and creativity, producing their own environments）
 > - **方法论：[[Nomothetic and Idiographic|个例式]]**（idiographic）关注独特个体案例的理解。通过语言和意义的分析来呈现现实以便比较（The representation of reality for purposes of comparison. analysis of language and meaning）
 
 ## Table 1.1 十维度特征
 
 基于 Barr Greenfield（1975），主观主义在社会和组织层面呈现以下立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
-- **哲学基础**：观念论——世界存在但不同人以非常不同的方式解释它。组织是被发明的社会实在
-- **社会科学的角色**：发现不同人如何解释他们所生活的世界
-- **社会实在的基本单位**：单独或共同行动的个体
-- **理解的方法**：解释个体赋予其行动的主观意义，发现此类行动的主观规则
-- **理论**：人们用来理解其世界及其中行为的意义集合（sets of meanings which people use to make sense of their world and behaviour within it）
-- **研究**：寻找有意义的关系并发现其对行动的后果
-- **社会**：冲突的，受掌握权力的人的价值观支配
-- **组织**：依赖于人及其目标。某些人控制并可用来达成其认为好的目标的权力工具
-- **组织病理学**：鉴于人类目标的多样性，追求这些目标的人们之间始终存在冲突
-- **变革处方**：找出组织行动中体现了谁的价值观。改变人，或在可能的情况下改变他们的价值观
+- **哲学基础** 观念论——世界存在但不同人以非常不同的方式解释它。组织是被发明的社会实在
+- **社会科学的角色** 发现不同人如何解释他们所生活的世界
+- **社会实在的基本单位** 单独或共同行动的个体
+- **理解的方法** 解释个体赋予其行动的主观意义，发现此类行动的主观规则
+- **理论** 人们用来理解其世界及其中行为的意义集合（sets of meanings which people use to make sense of their world and behaviour within it）
+- **研究** 寻找有意义的关系并发现其对行动的后果
+- **社会** 冲突的，受掌握权力的人的价值观支配
+- **组织** 依赖于人及其目标。某些人控制并可用来达成其认为好的目标的权力工具
+- **组织病理学** 鉴于人类目标的多样性，追求这些目标的人们之间始终存在冲突
+- **变革处方** 找出组织行动中体现了谁的价值观。改变人，或在可能的情况下改变他们的价值观

@@ -41,16 +41,16 @@ updated: 2026-06-14
 ## 核心特征（Based on Jameson, 1991）
 
 > [!finding-cards]
-> - **宏大叙事的缺席**（the absence of 'grand narratives' / metanarratives）拒绝宏大设计和普遍的行为法则与模式
-> - **重视不连续性、差异、多样性**（the valorization of discontinuity, difference, diversity, variety, uniqueness, subjectivity, distinctiveness and individuality）
-> - **地方性与个体性的重要地位**（the importance of the local, the individual and the particular）
+> - **宏大叙事的缺席（the absence of 'grand narratives' / metanarratives）**拒绝宏大设计和普遍的行为法则与模式
+> - **重视不连续性、差异、多样性（the valorization of discontinuity, difference, diversity, variety, uniqueness, subjectivity, distinctiveness and individuality）**
+> - **地方性与个体性的重要地位（the importance of the local, the individual and the particular）**
 > - **当下的自指性**（the 'utter forgetfulness of the past' and the 'autoreferentiality' of the present, Jameson, 1991: 42）
-> - **时间性与语境依赖**（the importance of temporality and context）意义根植于时间、空间、文化和社会中，并非跨越这些的普遍存在
-> - **无深度性与多重实在**（the celebration of depthlessness, multiple realities — and, as Jameson argues, multiple superficialities）以及个体解释与意义的正当性（the rectitude of individual interpretations and meanings）
-> - **相对主义而非绝对主义**（relativism rather than absolutism）在决定什么构成有价值的知识、研究及其发现时
+> - **时间性与语境依赖（the importance of temporality and context）**意义根植于时间、空间、文化和社会中，并非跨越这些的普遍存在
+> - **无深度性与多重实在（the celebration of depthlessness, multiple realities — and, as Jameson argues, multiple superficialities）**以及个体解释与意义的正当性（the rectitude of individual interpretations and meanings）
+> - **相对主义而非绝对主义（relativism rather than absolutism）**在决定什么构成有价值的知识、研究及其发现时
 > - **知识作为人的社会建构**（the view of knowledge as a human, social [[Construct]]）
-> - **多重且矛盾的解读共存**（multiple, sometimes contradictory, yet coexistent interpretations of the world）研究者的解释只是若干可能解释中的一种——不同解释的同等价值是它们所研究的世界的一部分
-> - **解放潜力与权力的张力**（the emancipatory potential and the reduction in the authority of the researcher, yet, simultaneously, the privileging of some interpretations of the world to the neglect of others）即知识与权力的关系（the nexus between knowledge and power），[[Critical Theory|批判理论]]的特征之一
+> - **多重且矛盾的解读共存（multiple, sometimes contradictory, yet coexistent interpretations of the world）**研究者的解释只是若干可能解释中的一种——不同解释的同等价值是它们所研究的世界的一部分
+> - **解放潜力与权力的张力（the emancipatory potential and the reduction in the authority of the researcher, yet, simultaneously, the privileging of some interpretations of the world to the neglect of others）**即知识与权力的关系（the nexus between knowledge and power），[[Critical Theory|批判理论]]的特征之一
 
 ## 亲缘性
 

@@ -22,6 +22,12 @@ tags:
   - "policy/regulation"
   - "level/higher-education"
   - "region/russia"
+related_concepts:
+  - "[[Scientific Autarky]]"
+related_facts:
+  - "[[Project 5-100]]"
+related_arguments:
+  - "[[Argument_Dezhina_2022_ECO]]"
 confidence: medium
 status: draft
 created: '2026-06-26'

@@ -61,7 +61,7 @@ updated: '2026-05-18'
 > [!info]
 > 绩效指标（Performance Indicators），亦称教育指标（Education Indicators），是经过目的性选择和加工的派生统计量，专门设计用于告知决策者教育系统的状况、预见政策问题并提供政策决策所需信息(Blank, 1993; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])。
 >
-> 从政策工具社会学的视角，Le Galès（2016）进一步将绩效指标定义为同时包含**技术成分**（techniques）和**权力成分**（power）的复合体：技术成分具有自身的内在理性，但在实践中通过权力不平等的行动者之间的社会关系被实施。绩效指标直接依托科学和技术合法性运作，推动政策行动者走向竞争关系，构成排名体系，标示决策者应采取哪些实践来改善其相对其他制度或地理单元的位置(Le Galès, 2016; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
+> 从政策工具社会学的视角，Le Galès（2016）进一步将绩效指标定义为同时包含**技术成分（techniques）**和**权力成分（power）**的复合体：技术成分具有自身的内在理性，但在实践中通过权力不平等的行动者之间的社会关系被实施。绩效指标直接依托科学和技术合法性运作，推动政策行动者走向竞争关系，构成排名体系，标示决策者应采取哪些实践来改善其相对其他制度或地理单元的位置(Le Galès, 2016; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
 
 > [!quote]
 > "Uniquely different from the usual policy-related statistical analysis, statistical indicators are derived measures, often combining multiple data sources and several 'statistics' that are uniformly developed across nations, are repeated regularly over time, and have come to be accepted as summarizing the condition of an underlying complex process."(Smith & Baker, 2001, p.141; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
@@ -72,24 +72,24 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs **Statistics（统计）**：统计是原始数据收集，指标是经过目的性加工、面向政策的派生量。Sauvageot 指出决策者需要"更加分析性的、以用户友好方式呈现的相关信息"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
+> - vs **Statistics（统计）** 统计是原始数据收集，指标是经过目的性加工、面向政策的派生量。Sauvageot 指出决策者需要"更加分析性的、以用户友好方式呈现的相关信息"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
 > - vs **[[Education at a Glance]]**：EAG 是 [[OECD]] 生产的具体指标集合（产品），绩效指标是广义概念和分析范畴
-> - vs **Assessment（评估）**：Bottani 强调指标的功能是"提醒"（alert），评估的功能是"评判"（judge），两者不应混淆。但 OECD 后来混淆了这一边界——EAG 逐渐将自己呈现为对教育系统的评估([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
+> - vs **Assessment（评估）** Bottani 强调指标的功能是"提醒"（alert），评估的功能是"评判"（judge），两者不应混淆。但 OECD 后来混淆了这一边界——EAG 逐渐将自己呈现为对教育系统的评估([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
 > - vs **[[Regulatory Regionalism]]**：监管区域主义描述超国家组织通过指标和排名对区域内教育进行间接治理的宏观模式；绩效指标分析则聚焦于这一治理模式中具体工具的操作机制（四个维度）([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166]])
 
 ## 概念演变
 
 > [!note]-
-> - **1850s**：教育开始被认可为统计调查的领域，早期数据收集限于学校数量、学生入学人数、教师人数等([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
-> - **1970s–1980s**：Sauvageot（1997）指出早期统计信息"不太有用"——数据不准确、不及时、不一致，太多细节而没有分析([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
-> - **1988 年**：[[OECD]] 启动 [[International Indicators of Education Systems]] 项目，系统开发[[International Education|国际教育]]指标([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
-> - **1992 年**：首版 [[Education at a Glance]] 出版，标志着教育指标的常规化年度生产([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
-> - **2000s**：Bottani 称之为"对绩效指标的痴迷和心理测量比较的胜利"的十年([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13]])
-> - **2001 年**：里斯本议程后，欧盟开始以十年战略规划（如 [[Europe 2020 Strategy]]）驱动绩效指标治理模式
-> - **2007 年**：Jessop 在 State Power 中提出 [[Selectivity]] 概念，为分析指标的政治效应提供理论基础([[Argument_Rambla_2022_Springer|Rambla, 2022, p.166]])
-> - **2010 年代**：EUROSTAT 的区域创新记分牌和 NUTS2 教育指标将绩效指标扩展至区域层面([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–170]])
-> - **2016 年**：Le Galès 系统论证绩效指标作为政策工具的技术—权力双重性([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])
-> - **2022 年**：Rambla 将 Le Galès 框架与 Collins（2018）的互动性专业技能和 Jessop（2007）的选择性综合为四维分析工具（p.165–166）
+> - **1850s** 教育开始被认可为统计调查的领域，早期数据收集限于学校数量、学生入学人数、教师人数等([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
+> - **1970s–1980s**Sauvageot（1997）指出早期统计信息"不太有用"——数据不准确、不及时、不一致，太多细节而没有分析([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
+> - **1988 年**[[OECD]] 启动 [[International Indicators of Education Systems]] 项目，系统开发[[International Education|国际教育]]指标([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
+> - **1992 年** 首版 [[Education at a Glance]] 出版，标志着教育指标的常规化年度生产([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
+> - **2000s** Bottani 称之为"对绩效指标的痴迷和心理测量比较的胜利"的十年([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13]])
+> - **2001 年** 里斯本议程后，欧盟开始以十年战略规划（如 [[Europe 2020 Strategy]]）驱动绩效指标治理模式
+> - **2007 年** Jessop 在 State Power 中提出 [[Selectivity]] 概念，为分析指标的政治效应提供理论基础([[Argument_Rambla_2022_Springer|Rambla, 2022, p.166]])
+> - **2010 年代** EUROSTAT 的区域创新记分牌和 NUTS2 教育指标将绩效指标扩展至区域层面([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–170]])
+> - **2016 年** Le Galès 系统论证绩效指标作为政策工具的技术—权力双重性([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])
+> - **2022 年**Rambla 将 Le Galès 框架与 Collins（2018）的互动性专业技能和 Jessop（2007）的选择性综合为四维分析工具（p.165–166）
 
 ## 核心要素
 
@@ -98,11 +98,11 @@ updated: '2026-05-18'
 
 ### 技术特征：指标与统计数据的区别
 
-- **目的性**：指标是为政策目的而选择和设计的，统计是原始收集([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
-- **分析性**：指标包含分析和解读，统计数据是原始数字
-- **派生性**：指标常合并多个数据源和多个统计量，采用数学模型刻画[[Hypothesis|假设]]的关系
-- **跨国统一性**：指标在各国统一开发、定期重复
-- **情境依赖性**：指标的意义与其构建情境相连（Jaeger, 1978），不自我解释
+- **目的性** 指标是为政策目的而选择和设计的，统计是原始收集([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
+- **分析性** 指标包含分析和解读，统计数据是原始数字
+- **派生性** 指标常合并多个数据源和多个统计量，采用数学模型刻画[[Hypothesis|假设]]的关系
+- **跨国统一性** 指标在各国统一开发、定期重复
+- **情境依赖性** 指标的意义与其构建情境相连（Jaeger, 1978），不自我解释
 
 ### 技术特征：指标的功能
 
@@ -112,15 +112,15 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 
 [[Argument_Rambla_2022_Springer|Rambla (2022, p.165–166)]]综合 Le Galès（2016）、Collins（2018）和 Jessop（2007），将绩效指标的政策工具机制分解为四个操作维度：
 
-**通过互动性专业技能获取合法性**：专家的权威既来自技术掌握，也来自公众和政策制定者对其行动指南有效性的感知。Collins（2018）称之为"互动性专业技能"（interactive expertise）——专家在持续互动中建构知识并积累声誉。绩效指标通过展示最佳实践与一般或较差实践的对比，传达这种专家知识。在 EU，EUROSTAT 根据成员国和区域在创新和教育方面的成就进行排名，承载了专家知识的制度权威([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
+**通过互动性专业技能获取合法性** 专家的权威既来自技术掌握，也来自公众和政策制定者对其行动指南有效性的感知。Collins（2018）称之为"互动性专业技能"（interactive expertise）——专家在持续互动中建构知识并积累声誉。绩效指标通过展示最佳实践与一般或较差实践的对比，传达这种专家知识。在 EU，EUROSTAT 根据成员国和区域在创新和教育方面的成就进行排名，承载了专家知识的制度权威([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
 
 > 例：任何公民都可以在 EU 的区域创新记分牌地图上一眼识别自身区域是"创新领导者"还是"一般创新者"。这种可视化能力使排名被感知为不容置疑的"事实"——"行动者既不能凭空发明，也不能随意改变"([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
 
-**通过区域指标展示可测量成果**：绩效指标将复杂的政策现实转化为可视化、可比较的量化排名。在 EU，EUROSTAT 绘制一系列地图，根据区域创新能力和教育培训系统绩效对 NUTS2 区域进行分类([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–170]])。
+**通过区域指标展示可测量成果** 绩效指标将复杂的政策现实转化为可视化、可比较的量化排名。在 EU，EUROSTAT 绘制一系列地图，根据区域创新能力和教育培训系统绩效对 NUTS2 区域进行分类([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–170]])。
 
-**传播共同的变革理论**：绩效指标承载特定的[[Causality|因果]]叙事——关于政策干预在何种情境中激活何种机制的信念体系。详见 [[Theories of Policy Change]]。[[OECD]] 传播了"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事；EU 的 ET 2020 战略假定降低早期辍学率与促进创新将产生强大增效作用([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166]])。
+**传播共同的变革理论** 绩效指标承载特定的[[Causality|因果]]叙事——关于政策干预在何种情境中激活何种机制的信念体系。详见 [[Theories of Policy Change]]。[[OECD]] 传播了"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事；EU 的 ET 2020 战略假定降低早期辍学率与促进创新将产生强大增效作用([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166]])。
 
-**嵌入政治关系并实施选择性**：绩效指标间接重塑政府与公民社会之间的关系。通过指标，政府试图说服所有利益相关方同时竞争和合作，而非通过具有约束力的立法固定各方角色(Le Galès, 2016; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.166]])。同时，指标实施 [[Selectivity]]——筛选政策议题的优先次序，系统性地优先某些替代方案，同时使其他议题被边缘化(Jessop, 2007; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])。
+**嵌入政治关系并实施选择性** 绩效指标间接重塑政府与公民社会之间的关系。通过指标，政府试图说服所有利益相关方同时竞争和合作，而非通过具有约束力的立法固定各方角色(Le Galès, 2016; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.166]])。同时，指标实施 [[Selectivity]]——筛选政策议题的优先次序，系统性地优先某些替代方案，同时使其他议题被边缘化(Jessop, 2007; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])。
 
 ## 理论基础
 
@@ -138,9 +138,9 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 
 ### OECD 层面的指标运作
 
-- **指标影响行为**：[[Education at a Glance|EAG]] 指标被用于薪资谈判、选举策略制定；荷兰教师利用 1996 年薪资比较指标成功争取加薪(Smith & Baker, 2001, p.142; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.3–4]])
-- **数据滥用的制度化**：1996 年 EAG 中，同样的 IEA 阅读素养调查数据被用于计算三种不同指标——对相同数据进行多种推论、使用并非为此目的设计的数据(Bottani, 1996, pp.283–284; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13]])
-- **指标删除的阻力**：一旦指标被发布，即使 OECD 团队想删除，用户（政策制定者）会产生依赖并抵制。"即使我们从印刷版删除一个表格，它仍保留在网络版"（OECD 官员访谈; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]]）
+- **指标影响行为**[[Education at a Glance|EAG]] 指标被用于薪资谈判、选举策略制定；荷兰教师利用 1996 年薪资比较指标成功争取加薪(Smith & Baker, 2001, p.142; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.3–4]])
+- **数据滥用的制度化** 1996 年 EAG 中，同样的 IEA 阅读素养调查数据被用于计算三种不同指标——对相同数据进行多种推论、使用并非为此目的设计的数据(Bottani, 1996, pp.283–284; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13]])
+- **指标删除的阻力** 一旦指标被发布，即使 OECD 团队想删除，用户（政策制定者）会产生依赖并抵制。"即使我们从印刷版删除一个表格，它仍保留在网络版"（OECD 官员访谈; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]]）
 
 ### 欧盟层面的指标体系运作
 

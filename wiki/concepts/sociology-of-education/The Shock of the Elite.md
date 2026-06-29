@@ -53,11 +53,11 @@ updated: 2026-05-18
 
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的访谈材料揭示精英休克的冲击涵盖三个层面：
 
-1. **物质与文化冲击**：弱势学生从前现代的物质环境骤然进入国际化大都市的精英校园。昌盛（甘肃偏僻农村→南方大学）："相当于我从中国大西北最偏的一个小山村来到中国最繁华的国际化的大都市里面……很多时候感觉自己非常的土。我身边的同学都出过国对吧，那我在高考前我连省都没有出过"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+1. **物质与文化冲击** 弱势学生从前现代的物质环境骤然进入国际化大都市的精英校园。昌盛（甘肃偏僻农村→南方大学）："相当于我从中国大西北最偏的一个小山村来到中国最繁华的国际化的大都市里面……很多时候感觉自己非常的土。我身边的同学都出过国对吧，那我在高考前我连省都没有出过"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
-2. **自我认同危机**：冲击从物质层面渗透到自我认知，表现为[[Sense of Shame|羞耻感]]、自卑和对社交的恐惧。昌盛在大二"陷入了一种非常低迷的状态，可以说稍微有点抑郁。每次出门我都会有一种恐惧，就是害怕与其他人交流，更不愿意跟其他人谈起我自己"。[[Pierre Bourdieu|布迪厄]]将这种体验称为**[[Habitus|习性]]分裂**（a habitus divided against itself）——个体在旧习性与新[[Champ|场域]]之间持续撕裂（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1999, p.511）
+2. **自我认同危机** 冲击从物质层面渗透到自我认知，表现为[[Sense of Shame|羞耻感]]、自卑和对社交的恐惧。昌盛在大二"陷入了一种非常低迷的状态，可以说稍微有点抑郁。每次出门我都会有一种恐惧，就是害怕与其他人交流，更不愿意跟其他人谈起我自己"。[[Pierre Bourdieu|布迪厄]]将这种体验称为**[[Habitus|习性]]分裂**（a habitus divided against itself）——个体在旧习性与新[[Champ|场域]]之间持续撕裂（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1999, p.511）
 
-3. **信息与操作能力缺失**：对大学制度规则的缺乏了解导致决策失误——鹏程不知从哪听说保研名额只有 10% 就放弃了保研；余涛受到"60 分万岁"的误导而错失保研机会；益民"从上海站那边一下来我就觉得有点不对劲了……学校很大，熟悉环境就大概花了半年时间"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+3. **信息与操作能力缺失** 对大学制度规则的缺乏了解导致决策失误——鹏程不知从哪听说保研名额只有 10% 就放弃了保研；余涛受到"60 分万岁"的误导而错失保研机会；益民"从上海站那边一下来我就觉得有点不对劲了……学校很大，熟悉环境就大概花了半年时间"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 ---
 
@@ -66,9 +66,9 @@ updated: 2026-05-18
 > [!info] 与[[Pierre Bourdieu|布迪厄]]概念的关系
 > 精英休克是布迪厄[[Habitus|习性]]理论在经验层面的具体化（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）：
 >
-> - **习性滞后（Habitus Hysteresis）**：布迪厄用以解释"机遇被错过"的概念——"习性滞后恐怕是机遇和在抓住机遇所需的倾向之间存在差距的根据之一"（Bourdieu, 1990，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。精英休克就是习性滞后在主观体验层面的表征
-> - **习性错置（Habitus Dislocation）**：习性进入不配合的[[Champ|场域]]时产生的如同"鱼离了水"的感觉（Bourdieu & Wacquant, 1992，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - **习性分裂（Habitus Divided Against Itself）**：最严重的情形——个体需要不断调和自身与新场域的矛盾，同时维持与旧有场域的联系，"产生一种习性分裂的体验"（Bourdieu, 1999, p.511，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - **习性滞后（Habitus Hysteresis）** 布迪厄用以解释"机遇被错过"的概念——"习性滞后恐怕是机遇和在抓住机遇所需的倾向之间存在差距的根据之一"（Bourdieu, 1990，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。精英休克就是习性滞后在主观体验层面的表征
+> - **习性错置（Habitus Dislocation）** 习性进入不配合的[[Champ|场域]]时产生的如同"鱼离了水"的感觉（Bourdieu & Wacquant, 1992，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - **习性分裂（Habitus Divided Against Itself）** 最严重的情形——个体需要不断调和自身与新场域的矛盾，同时维持与旧有场域的联系，"产生一种习性分裂的体验"（Bourdieu, 1999, p.511，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 >
 
 ## 在郑雅君（2023）中的应用

@@ -81,13 +81,13 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 ### 文化图式内化的深浅层次
 
 文化图式作为认知结构，其内化程度依深浅不同而存在多种层次（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009; D'Andrade, 1995）：
-- **深层内化**：文化图式成为自动化的实践意识 → 价值观驱动（人们因为深信某事物而行动）
-- **浅层内化**：文化图式可供有意识地选取和使用 → 工具箱模式（人们利用文化为行动提供正当性）
+- **深层内化** 文化图式成为自动化的实践意识 → 价值观驱动（人们因为深信某事物而行动）
+- **浅层内化** 文化图式可供有意识地选取和使用 → 工具箱模式（人们利用文化为行动提供正当性）
 
 ### 理论意涵：两种范式的互补
 
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]从 Vaisey 模型中提炼出决定文化在生涯决策中角色的两个关键维度：
-- **行动目的生成状态**：内化的价值观念是否帮助学生树立了自洽、明晰的行动目的（深层内化/价值观驱动维度）
+- **行动目的生成状态** 内化的价值观念是否帮助学生树立了自洽、明晰的行动目的（深层内化/价值观驱动维度）
 - **[[Culture as Toolkit|文化工具箱]]使用能力**：学生作为理性行动者使用文化工具箱的能力（浅层内化/工具箱维度）
 
 这两个维度直接支撑了 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 的区分——两种模式正是在这两个维度上呈现出系统性的阶层差异([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
@@ -97,9 +97,9 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 ## 发展脉络
 
 > [!note]-
-> - **1986 争论起点**：Swidler 在 *ASR* 发表 Culture in Action，提出[[Culture as Toolkit|文化工具箱]][[Paradigm|范式]]，挑战 Weber-Parsons 价值观驱动范式的垄断地位——文化不仅定义行动目的（想要什么），更提供建构行动策略的工具（如何去做）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Swidler, 1986）。
-> - **2009 Vaisey 调和**：Stephen Vaisey 在 *AJS* 发表 Motivation and Justification，指出两种范式有论无争，甚至互相补充——问题的关键在于意识层次。援引认知科学双过程理论，论证价值观驱动范式在深层无意识层次运作，工具箱范式在浅层有意识层次运作（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
-> - **2023 教育研究应用**：[[Yajun Zheng|郑雅君]]在《金榜题名之后》中将 Vaisey 模型系统应用于中国精英大学学生出路分化的分析，以行动目的生成状态和文化工具箱使用能力两个维度建构 2×2 四分类模型([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+> - **1986 争论起点** Swidler 在 *ASR* 发表 Culture in Action，提出[[Culture as Toolkit|文化工具箱]][[Paradigm|范式]]，挑战 Weber-Parsons 价值观驱动范式的垄断地位——文化不仅定义行动目的（想要什么），更提供建构行动策略的工具（如何去做）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Swidler, 1986）。
+> - **2009 Vaisey 调和** Stephen Vaisey 在 *AJS* 发表 Motivation and Justification，指出两种范式有论无争，甚至互相补充——问题的关键在于意识层次。援引认知科学双过程理论，论证价值观驱动范式在深层无意识层次运作，工具箱范式在浅层有意识层次运作（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
+> - **2023 教育研究应用**[[Yajun Zheng|郑雅君]]在《金榜题名之后》中将 Vaisey 模型系统应用于中国精英大学学生出路分化的分析，以行动目的生成状态和文化工具箱使用能力两个维度建构 2×2 四分类模型([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 
@@ -107,16 +107,16 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 
 > [!info]
 > - **[[Ontology|本体论]]**：文化图式是认知结构，其内化存在深浅层次——从自动化、无意识的实践意识（深层），到可被灵活调取和操控的显性知识（浅层）。这一立场兼容Bourdieu的[[Habitus|习性]]概念（作为深层内化）和 Swidler 的[[Culture as Toolkit|文化工具箱]]（作为浅层内化）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
-> - **方法论**：Vaisey (2009) 论证双过程模型需要结合定量与定性方法——深层文化图式适合通过调查实验和迫选问题测量，浅层文化图式适合通过访谈和话语分析获取([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+> - **方法论**Vaisey (2009) 论证双过程模型需要结合定量与定性方法——深层文化图式适合通过调查实验和迫选问题测量，浅层文化图式适合通过访谈和话语分析获取([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 
 ## 争议与批评
 
 > [!warning]
-> - **认知科学基础的简化**：Vaisey 援引的认知双过程理论（如 Kahneman 系统一/系统二）本身在认知科学界存在争议——双过程是否真正独立、抑或是一个连续统的不同阶段，尚无定论（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
-> - **实证操作的困难**：如何在经验研究中有效区分深层内化和浅层内化的文化图式？Vaisey (2009) 提出的迫选法 (forced-choice) 与访谈法 (discursive) 的区分是否可靠，仍有待验证。
-> - **教育研究中的中介应用**：[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] 对 Vaisey 模型的应用是创造性的，但将两个维度直接对应于两种模式的做法，省略了 Vaisey 原模型中更细致的层次区分([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+> - **认知科学基础的简化** Vaisey 援引的认知双过程理论（如 Kahneman 系统一/系统二）本身在认知科学界存在争议——双过程是否真正独立、抑或是一个连续统的不同阶段，尚无定论（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+> - **实证操作的困难** 如何在经验研究中有效区分深层内化和浅层内化的文化图式？Vaisey (2009) 提出的迫选法 (forced-choice) 与访谈法 (discursive) 的区分是否可靠，仍有待验证。
+> - **教育研究中的中介应用**[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] 对 Vaisey 模型的应用是创造性的，但将两个维度直接对应于两种模式的做法，省略了 Vaisey 原模型中更细致的层次区分([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 

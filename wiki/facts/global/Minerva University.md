@@ -76,10 +76,10 @@ Minerva 的教学设计建立在对传统讲座的根本否定之上——讲座
 
 课程不围绕传统学科知识体系组织，而是以四项"实用通用技能"（practical general skills）为核心（Kosslyn & Nelson, 2018a, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]]）：
 
-- **批判性思维**（Critical Thinking）
-- **创造性思维**（Creative Thinking）
-- **有效沟通**（Effective Communication）
-- **有效互动**（Effective Interaction）
+- **批判性思维（Critical Thinking）**
+- **创造性思维（Creative Thinking）**
+- **有效沟通（Effective Communication）**
+- **有效互动（Effective Interaction）**
 
 Nelson 明确主张高等教育不应该是"艺术与科学"（arts and sciences）而应该是"科学与科学"（science and science）——将人文和艺术从高等教育目标中排除，仅保留可被"[[Scientific Method|科学方法]]"验证的实用智识工具（Thompson & Parreira do Amaral, 2022, p.3）。
 
@@ -101,20 +101,20 @@ Minerva 自主研发了云端教学平台"积极学习论坛"（Active Learning 
 
 Minerva 将其颠覆性模型建立在对传统高等教育四大问题的系统诊断之上，每个问题对应一套技术性解决方案（Kosslyn & Nelson, 2018a, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]]）：
 
-- **相关性（Relevance）**：毕业生虽完成学业但未为生活做好准备。传统大学传授学科知识而非实用能力——"在大多数机构，你可以毕业而无需'批判性思维'"（Kosslyn & Nelson, 2018a, p.3）。Minerva 以四核心能力框架替代学科课程，培养"学生可用于适应变化世界和实现自身目标的智识工具"，不针对特定工作岗位培训
-- **高成本（High Costs）**：美国高等教育学费在过去三十年间增长远超通胀。Minerva 通过剥离物理基础设施、学科部门和管理层级将学费压缩至传统名校的约三分之一，同时声称保持小班教学（每班 < 20 人）和完整的支持服务（体验式学习、指导、心理健康、住宿）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])
-- **效率（Efficiency）**：美国大学面临严重的辍学率和分数膨胀问题。Minerva 的对策是基于"学习科学"发现设计课程，通过"完全主动学习"和"彻底翻转课堂"消除被动听讲，并提供个性化关注和密集监控以追踪学生进展([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])
-- **可及性（Access）**：全球大多数合格学生无法负担高质量高等教育机构。Minerva 承诺接受所有合格学生，不以民族、性别或其他人口类别平衡录取——"所有符合我们高录取标准的合格申请人将被录取，无论其支付能力如何"。无力支付学费的学生"获得工作学习、适度贷款和助学金的组合"（Kosslyn & Nelson, 2018a, p.8, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.47]]）
+- **相关性（Relevance）** 毕业生虽完成学业但未为生活做好准备。传统大学传授学科知识而非实用能力——"在大多数机构，你可以毕业而无需'批判性思维'"（Kosslyn & Nelson, 2018a, p.3）。Minerva 以四核心能力框架替代学科课程，培养"学生可用于适应变化世界和实现自身目标的智识工具"，不针对特定工作岗位培训
+- **高成本（High Costs）** 美国高等教育学费在过去三十年间增长远超通胀。Minerva 通过剥离物理基础设施、学科部门和管理层级将学费压缩至传统名校的约三分之一，同时声称保持小班教学（每班 < 20 人）和完整的支持服务（体验式学习、指导、心理健康、住宿）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])
+- **效率（Efficiency）** 美国大学面临严重的辍学率和分数膨胀问题。Minerva 的对策是基于"学习科学"发现设计课程，通过"完全主动学习"和"彻底翻转课堂"消除被动听讲，并提供个性化关注和密集监控以追踪学生进展([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.46–47]])
+- **可及性（Access）** 全球大多数合格学生无法负担高质量高等教育机构。Minerva 承诺接受所有合格学生，不以民族、性别或其他人口类别平衡录取——"所有符合我们高录取标准的合格申请人将被录取，无论其支付能力如何"。无力支付学费的学生"获得工作学习、适度贷款和助学金的组合"（Kosslyn & Nelson, 2018a, p.8, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.47]]）
 
 ---
 
 ## 制度特征
 
-- **去地方化（De-localization）**：没有校园、没有图书馆、没有教学楼。机构脱离特定物理空间，仅通过数字平台和全球城市轮换维系教学关系
-- **去学科化（De-disciplinarization）**：课程不围绕学科知识体系组织，而是以四项通用能力为核心——"批判性思维、创造性思考、有效沟通、有效互动"，将学习成果从具体知识内容转变为可测量的技能指标
-- **全面技术监控**：ALF 视频平台不仅用于教学互动，更系统性收集和分析学生参与度、发言频率、协作表现等行为数据，实现了教学过程的全面数据化
-- **可复制的商业模式**：Minerva 不仅是一所大学——它将自己呈现为高等教育的可扩展、可转让的业务和运营模型。其出版物被定位为"元食谱书"（meta-recipe book），提供了"系统性逻辑、第一原理驱动的制度设计、以及不妥协的迭代过程，以此可以建立新的教育模型"（Nelson et al., 2018, p.377, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.47]]）
-- **弥赛亚式使命话语**：Minerva 的公开出版物具有"接近弥赛亚式使命承诺"的性质，将自己定位为"为了世界的利益"（for the sake of the world, Nelson et al., 2018, p.377）而行动，并将自身模型视为未来大学的"蓝图"（Thompson & Parreira do Amaral, 2022, pp.2–3）
+- **去地方化（De-localization）** 没有校园、没有图书馆、没有教学楼。机构脱离特定物理空间，仅通过数字平台和全球城市轮换维系教学关系
+- **去学科化（De-disciplinarization）** 课程不围绕学科知识体系组织，而是以四项通用能力为核心——"批判性思维、创造性思考、有效沟通、有效互动"，将学习成果从具体知识内容转变为可测量的技能指标
+- **全面技术监控** ALF 视频平台不仅用于教学互动，更系统性收集和分析学生参与度、发言频率、协作表现等行为数据，实现了教学过程的全面数据化
+- **可复制的商业模式** Minerva 不仅是一所大学——它将自己呈现为高等教育的可扩展、可转让的业务和运营模型。其出版物被定位为"元食谱书"（meta-recipe book），提供了"系统性逻辑、第一原理驱动的制度设计、以及不妥协的迭代过程，以此可以建立新的教育模型"（Nelson et al., 2018, p.377, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.47]]）
+- **弥赛亚式使命话语** Minerva 的公开出版物具有"接近弥赛亚式使命承诺"的性质，将自己定位为"为了世界的利益"（for the sake of the world, Nelson et al., 2018, p.377）而行动，并将自身模型视为未来大学的"蓝图"（Thompson & Parreira do Amaral, 2022, pp.2–3）
 
 ---
 
@@ -122,11 +122,11 @@ Minerva 将其颠覆性模型建立在对传统高等教育四大问题的系统
 
 Minerva University 被 Thompson 和 Parreira do Amaral（2022）选为论述[[Geopolitics of Knowledge|知识地缘政治]]的开篇案例，因为它在多个层面上集中体现了当代高等教育的空间重构逻辑：
 
-- **从民族国家框架中的"脱位"**：古典大学与民族国家及其文化科学发展紧密相连——德国的洪堡大学、法国的大学校、英国的牛津剑桥、美国的赠地大学，无不深嵌于特定的国家传统之中。Minerva 则"致力于超越民族国家及其他政治框架的边界"（Thompson & Parreira do Amaral, 2022, p.7），机构不再向任何一个国家教育体系负责，学生也无需锚定在任何一个学术社区
+- **从民族国家框架中的"脱位"** 古典大学与民族国家及其文化科学发展紧密相连——德国的洪堡大学、法国的大学校、英国的牛津剑桥、美国的赠地大学，无不深嵌于特定的国家传统之中。Minerva 则"致力于超越民族国家及其他政治框架的边界"（Thompson & Parreira do Amaral, 2022, p.7），机构不再向任何一个国家教育体系负责，学生也无需锚定在任何一个学术社区
 - **在全球政治经济[[Champ|场域]]中的"再定位"**：脱位之后，Minerva 被重新嵌入由教育科技乌托邦主义、市场营销和风险资本构成的全球政治经济场域之中。它"既位于美国又服务于'世界'，从而呈现自身为场所无涉（placeless）的存在"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.48]])，以全球市场而非国家政策为运营参照系
 - **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的"流动"极值**：Minerva 是 Hub and [[Flow]] 想象中"流动"维度的最极端案例——机构完全脱离领土和物理空间的锚定，仅通过数字平台将周期性出现在七个全球城市的学生串联在一起。与 IEHs 代表的国家锚定式"枢纽"策略（国家主动将自身建设为区域教育中心）形成鲜明对照，两者共同展示了知识地缘政治中从"领土固着"到"完全场所无涉"的完整光谱([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])
-- **地缘政治逻辑的制度化**：Minerva 展示了宏观的地缘政治想象如何在单所机构的层面被物质化和制度化——从课程设计到教学法，从商业模式到全球扩张策略，从技术平台到学生生活安排，无一不贯穿着将高等教育从国家公共事业重构为全球私人服务的深层逻辑
-- **话语实践的履行性力量**：Minerva 对自身的叙述本身就构成一种地缘政治行动——它不只是在"描述"一所新大学，而是在"制造"一个关于高等教育未来的政治想象：在这个想象中，国家边界、学科边界和物理边界都不再构成限制，唯一有效的逻辑是市场逻辑和效率逻辑
+- **地缘政治逻辑的制度化** Minerva 展示了宏观的地缘政治想象如何在单所机构的层面被物质化和制度化——从课程设计到教学法，从商业模式到全球扩张策略，从技术平台到学生生活安排，无一不贯穿着将高等教育从国家公共事业重构为全球私人服务的深层逻辑
+- **话语实践的履行性力量** Minerva 对自身的叙述本身就构成一种地缘政治行动——它不只是在"描述"一所新大学，而是在"制造"一个关于高等教育未来的政治想象：在这个想象中，国家边界、学科边界和物理边界都不再构成限制，唯一有效的逻辑是市场逻辑和效率逻辑
 
 ---
 

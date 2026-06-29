@@ -51,7 +51,7 @@ updated: 2026-05-25
 ## 核心主张
 
 > [!tip]-
-> 宋明理学（Neo-Confucianism）是宋明时期（960-1279; 1368-1644）[[Confucian Revival in China|儒学复兴]]的思想运动，其核心主张是：[[Confucius|孔子]]所倡导的道代表了宇宙万物背后的**天理**（heavenly principle），遵循此道即达到最高原理。理学重新开启并深化了儒家的学习传统，将成为[[Sage|圣人]]设定为每个学习者的终极目标，并主张这一目标人人可达([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
+> 宋明理学（Neo-Confucianism）是宋明时期（960-1279; 1368-1644）[[Confucian Revival in China|儒学复兴]]的思想运动，其核心主张是：[[Confucius|孔子]]所倡导的道代表了宇宙万物背后的**天理（heavenly principle）**，遵循此道即达到最高原理。理学重新开启并深化了儒家的学习传统，将成为[[Sage|圣人]]设定为每个学习者的终极目标，并主张这一目标人人可达([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
 
 > [!quote]
 > "Unlike earlier Confucians, Neo-Confucians elaborated on individual inquiry into the universe. Cheng Yi and Cheng Hao argued that following the heavenly principle requires gewu in order to zhizhi, thus qiongli – investigating things to extend one's knowledge and master the principle." ([[Argument_Li_2012_Cambridge|Li, 2012, p. 43]])
@@ -70,7 +70,7 @@ updated: 2026-05-25
 
 ### 南宋：朱熹的综合
 
-- [[Zhu Xi|朱熹]]（1130-1200）是继孔子、[[Mencius|孟子]]之后最著名的儒家思想家，深受二程影响，其思想被合称为**程朱学派**（Cheng-Zhu School）([[Argument_Li_2012_Cambridge|Li, 2012, pp.43-44]])。
+- [[Zhu Xi|朱熹]]（1130-1200）是继孔子、[[Mencius|孟子]]之后最著名的儒家思想家，深受二程影响，其思想被合称为**程朱学派（Cheng-Zhu School）**([[Argument_Li_2012_Cambridge|Li, 2012, pp.43-44]])。
 - 朱熹为儒家经典撰写了详细注释，编纂**四书**（《大学》《中庸》《论语》《孟子》），使其成为 1949 年前每个学生必读的核心文本([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
 - 朱熹在《大学》中整合了二程的格物致知学说，提出了从**格物致知**到**诚意正心**、再到**[[Self-Cultivation|修身]]齐家治国平天下**的完整学习路径([[Argument_Li_2012_Cambridge|Li, 2012, pp.44, 46-47]])。
 - 朱子学强调个人对学习的完全投入与终身承诺，将读书视为极其严肃的事业([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。

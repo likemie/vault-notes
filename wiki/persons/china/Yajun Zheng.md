@@ -101,9 +101,9 @@ updated: '2026-06-08'
 
 ### 核心发现
 
-**双模式类型学**：大学生在组织大学生活的方式上存在系统性的阶层差异——优势家庭学生更常采用[[Goal-Controlled Mode|目标掌控模式]]（有策略地规划大学生活以实现职业目标），而弱势家庭学生更常采用[[Intuition-Dependent Mode|直觉依赖模式]]（凭直觉应对大学选择，缺乏对场域规则的了解）。在 Vaisey 双过程框架下，这两种模式分别对应着在深层价值观驱动和浅层工具箱能力两个维度上的系统性阶层差异([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+**双模式类型学** 大学生在组织大学生活的方式上存在系统性的阶层差异——优势家庭学生更常采用[[Goal-Controlled Mode|目标掌控模式]]（有策略地规划大学生活以实现职业目标），而弱势家庭学生更常采用[[Intuition-Dependent Mode|直觉依赖模式]]（凭直觉应对大学选择，缺乏对场域规则的了解）。在 Vaisey 双过程框架下，这两种模式分别对应着在深层价值观驱动和浅层工具箱能力两个维度上的系统性阶层差异([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
-**四分类模型**：在双模式基础上纳入价值信念驱动力维度，形成 2×2 四分类：[[Self-Driven Mode|自主驱动者]]（目标掌控+强价值信念）、[[Opportunist Mode|机会主义者]]（目标掌控+弱价值信念）、[[Lost Mode|迷失无从者]]（直觉依赖+弱价值信念）、[[Value Conformist Mode|价值归顺者]]（直觉依赖+强价值信念）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+**四分类模型** 在双模式基础上纳入价值信念驱动力维度，形成 2×2 四分类：[[Self-Driven Mode|自主驱动者]]（目标掌控+强价值信念）、[[Opportunist Mode|机会主义者]]（目标掌控+弱价值信念）、[[Lost Mode|迷失无从者]]（直觉依赖+弱价值信念）、[[Value Conformist Mode|价值归顺者]]（直觉依赖+强价值信念）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 **[[Cultural Barrier|文化障碍]]的二重性**：郑雅君进一步将[[Cultural Barrier|文化障碍]]厘清为两重维度——[[Cultural Disembedding|文化脱嵌]]（对物理环境和社会文化环境的全面疏离感）和[[Cultural Disorientation|文化迷失]]（场域转换造成的内在自我冲突和目标策略迷失）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
@@ -120,19 +120,19 @@ updated: '2026-06-08'
 
 ### 2014–2017 研究起点与首轮田野
 
-- **核心问题**：中国一流大学中，社会出身如何影响学生的毕业出路？
-- **思想发展**：2014 年夏以 Bourdieu 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始[[Hypothesis|假设]]——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+- **核心问题** 中国一流大学中，社会出身如何影响学生的毕业出路？
+- **思想发展** 2014 年夏以 Bourdieu 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始[[Hypothesis|假设]]——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ### 2017–2018 补充田野与理论深化
 
-- **核心调整**：补充低阶层样本，深化理论对话
-- **思想发展**：受牛新春老师之邀，在"南方大学"补充访谈 24 名主要来自较低阶层背景的学生，使总样本达 62 人。此阶段的理论对话扩展至 Swidler [[Culture as Toolkit|文化工具箱]]和 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]——Bourdieu 的再生产理论解释了结构性约束，Swidler 和 Vaisey 则帮助理解了行动者在约束中的策略和意义建构差异([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
-- **相关概念**：[[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[Cultural Barrier]]
+- **核心调整** 补充低阶层样本，深化理论对话
+- **思想发展** 受牛新春老师之邀，在"南方大学"补充访谈 24 名主要来自较低阶层背景的学生，使总样本达 62 人。此阶段的理论对话扩展至 Swidler [[Culture as Toolkit|文化工具箱]]和 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]——Bourdieu 的再生产理论解释了结构性约束，Swidler 和 Vaisey 则帮助理解了行动者在约束中的策略和意义建构差异([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+- **相关概念**[[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[Cultural Barrier]]
 
 ### 2023 出版与传播
 
-- **成果**：《金榜题名之后》由上海三联书店出版
-- **思想发展**：最终成书不仅呈现了[[Analytic Framework|分析框架]]和经验发现，还以[[Didier Eribon]]《回归故里》为对话资源，在结语中为寒门学子提供了与原生文化和解的思路，使学术分析延伸至公共关怀([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+- **成果** 《金榜题名之后》由上海三联书店出版
+- **思想发展** 最终成书不仅呈现了[[Analytic Framework|分析框架]]和经验发现，还以[[Didier Eribon]]《回归故里》为对话资源，在结语中为寒门学子提供了与原生文化和解的思路，使学术分析延伸至公共关怀([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 

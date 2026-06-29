@@ -70,7 +70,7 @@ updated: 2026-05-31
 > **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）**：研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.123–124]])。
 
 > [!example]
-> **目的陈述 vs 研究问题（Research Questions）**：研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含[[Hypothesis|假设]]([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.124]])。
+> **目的陈述 vs 研究问题（Research Questions）** 研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含[[Hypothesis|假设]]([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.124]])。
 
 ## 核心要素
 
@@ -109,11 +109,11 @@ updated: 2026-05-31
 
 > [!example] 质性目的陈述要素拆解：Chan (2010) 叙事研究
 >
-> **完整目的陈述**：
+> **完整目的陈述**
 >
 > "在本研究中，我考察了一位中国移民学生 Ai Mei Zhang 的经验。我将她对加拿大中学课程的参与探索为学生、教师和家长叙事的互动，一个生命交织的故事（Clandinin et al., 2006）……我考察了她的族裔认同感可能被学校和家庭对其学业表现及行为的期望所塑造的方式。" ("In the present study, I examined the experiences of one Chinese immigrant student, Ai Mei Zhang. I explore her participation in her Canadian middle school curriculum as an interaction of student, teacher, and parent narratives, a story of interwoven lives (Clandinin et al., 2006). . . . I examined ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." p.113)
 >
-> **要素对照**：
+> **要素对照**
 >
 > | 要素 | 在陈述中的体现 |
 > |---|---|
@@ -154,12 +154,12 @@ updated: 2026-05-31
 
 > [!example] 量化目的陈述要素拆解：DeGraw (1984) 调查研究
 >
-> **完整目的陈述**：
+> **完整目的陈述**
 >
 > "本研究的目的是考察个人特征与在美国选定州立成人矫正机构中任教的认证教育者工作动机之间的关系。个人特征分为受访者背景信息（即机构信息、教育水平、先前培训等）和受访者对更换工作的想法两类……工作动机由教育工作成分研究（EWCS）问卷（Miskel & Heller, 1973）中识别出的六个一般因素定义。这六个因素是：个人挑战与发展的潜力；竞争性；成功的渴望与回报；对工作压力的容忍度；保守的安全感；以及在不确定性中寻求回报的意愿 vs 回避。" ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States. Personal characteristics were divided into background information about the respondent (i.e., institutional information, education level, prior training, etc.) and information about the respondents' thoughts of changing jobs. . . . Job motivation was defined by six general factors identified in the educational work components study (EWCS) questionnaire (Miskel & Heller, 1973). These six factors are: potential for personal challenge and development; [[Competitiveness]]; desirability and reward of success; tolerance for work pressures; conservative security; and willingness to seek reward in spite of uncertainty vs. avoidance." pp.4–5)
 
 >
-> **要素对照**：
+> **要素对照**
 >
 > | 要素 | 在陈述中的体现 |
 > |---|---|
@@ -180,10 +180,10 @@ updated: 2026-05-31
 [[Mixed Methods Research|混合方法]]目的陈述（mixed methods purpose statement）包含研究的总体意图、量化与质性两个分支的信息、两类数据的整合（integration），以及整合后预期的洞见。好的混合方法目的陈述包含以下要素([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.134–137]])：
 
 > [!abstract] 混合方法目的陈述四要素
-> 1. **总体意图**：研究在内容层面最终要达成什么，最好具有实践价值。
-> 2. **混合方法设计类型**：聚敛式、解释性序列、探索性序列或复杂设计。
-> 3. **量化与质性语言**：量化语言包括检验、关联变量、比较群体；质性语言包括探索、理解、生成、发展。
-> 4. **整合后的洞见**：从合并两类数据库中得出的推论或结论。
+> 1. **总体意图** 研究在内容层面最终要达成什么，最好具有实践价值。
+> 2. **混合方法设计类型** 聚敛式、解释性序列、探索性序列或复杂设计。
+> 3. **量化与质性语言** 量化语言包括检验、关联变量、比较群体；质性语言包括探索、理解、生成、发展。
+> 4. **整合后的洞见** 从合并两类数据库中得出的推论或结论。
 
 整合洞见的四种类型：
 

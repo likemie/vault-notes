@@ -60,8 +60,8 @@ updated: '2026-06-08'
 > [!info] [[Reflexivity|反思性]]实践
 > Schön 将专业实践的反思过程分为两个层次([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])：
 >
-> - **实践中的反思（reflection-in-practice）**：对当前实践的持续自我评估过程——"我应该改变或修正我正在此刻做的事情吗？"
-> - **对实践的反思（reflection-on-practice）**：实践之后或之外（如与同事一起）的反思——考虑实践是否应在方法上改变、实践者是否应向新方向进修
+> - **实践中的反思（reflection-in-practice）** 对当前实践的持续自我评估过程——"我应该改变或修正我正在此刻做的事情吗？"
+> - **对实践的反思（reflection-on-practice）** 实践之后或之外（如与同事一起）的反思——考虑实践是否应在方法上改变、实践者是否应向新方向进修
 
 
 > [!info] [[Technical Rationality|技术理性]]的批判

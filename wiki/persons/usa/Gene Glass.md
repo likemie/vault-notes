@@ -48,9 +48,9 @@ updated: '2026-06-19'
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置**：美国教育心理学家与统计学家，曾任科罗拉多大学博尔德分校（University of Colorado Boulder）教育学院教授。
-> - **核心角色**：[[Meta-analysis|元分析]]（Meta-analysis）方法的奠基人，在社会科学与医学[[Quantitative Research|定量研究]]综合网络中承担核心方法论建构者的节点角色。
-> - **代表贡献**：创造 [[Meta-analysis\|元分析]] 术语、将 [[Effect Size\|效应量]] 作为跨研究比较的通用尺度、推动 [[Meta-meta-analysis\|元-元分析]] 与循证工具包的发展。
+> - **身份位置** 美国教育心理学家与统计学家，曾任科罗拉多大学博尔德分校（University of Colorado Boulder）教育学院教授。
+> - **核心角色**[[Meta-analysis|元分析]]（Meta-analysis）方法的奠基人，在社会科学与医学[[Quantitative Research|定量研究]]综合网络中承担核心方法论建构者的节点角色。
+> - **代表贡献** 创造 [[Meta-analysis\|元分析]] 术语、将 [[Effect Size\|效应量]] 作为跨研究比较的通用尺度、推动 [[Meta-meta-analysis\|元-元分析]] 与循证工具包的发展。
 
 ---
 
@@ -68,9 +68,9 @@ updated: '2026-06-19'
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1940 年**：出生于美国。
-> - **1976 年**：在美国教育研究协会（AERA）主席演说中首次创造 “[[Meta-analysis|元分析]]” 一词，将其定义为 “对大量个别研究的分析结果进行统计分析，以整合发现”。
-> - **1977 年**：与玛丽·李·史密斯（Mary Lee Smith）合作发表心理治疗效果的元分析，发现治疗组平均[[Effect Size|效应量]]为 0.6 个标准差（SD），直接挑战了当时 Hans Eysenck 主导的 “心理治疗无效” 学术共识。 ([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 36–37]])
+> - **1940 年** 出生于美国。
+> - **1976 年** 在美国教育研究协会（AERA）主席演说中首次创造 “[[Meta-analysis|元分析]]” 一词，将其定义为 “对大量个别研究的分析结果进行统计分析，以整合发现”。
+> - **1977 年** 与玛丽·李·史密斯（Mary Lee Smith）合作发表心理治疗效果的元分析，发现治疗组平均[[Effect Size|效应量]]为 0.6 个标准差（SD），直接挑战了当时 Hans Eysenck 主导的 “心理治疗无效” 学术共识。 ([[Argument_Higgins_2016_RE|Higgins, 2016, pp. 36–37]])
 
 ---
 
@@ -102,9 +102,9 @@ updated: '2026-06-19'
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径**：确立了经验主义效果整合的合法性，使学界接受了跨研究的[[Effect Size|效应量]]比较逻辑。
-> - **方法路径**：使[[Meta-analysis|元分析]]成为医学、心理学和教育学的标准综合方法，效应量（如 Glass's $\Delta$）至今是[[Quantitative Research|定量研究]]的标准报告指标。
-> - **政策路径**：深刻影响了后来的[[Evidence-Based Education|循证教育]]运动，成为[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Meta-meta-analysis|元-元分析]]以及 [[Education Endowment Foundation|EEF]] 教学与学习工具包等政策决策参考工具的底层技术基础。
+> - **理论路径** 确立了经验主义效果整合的合法性，使学界接受了跨研究的[[Effect Size|效应量]]比较逻辑。
+> - **方法路径** 使[[Meta-analysis|元分析]]成为医学、心理学和教育学的标准综合方法，效应量（如 Glass's $\Delta$）至今是[[Quantitative Research|定量研究]]的标准报告指标。
+> - **政策路径** 深刻影响了后来的[[Evidence-Based Education|循证教育]]运动，成为[[John Hattie|约翰·哈蒂]]（John Hattie）的[[Meta-meta-analysis|元-元分析]]以及 [[Education Endowment Foundation|EEF]] 教学与学习工具包等政策决策参考工具的底层技术基础。
 
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_Higgins_2016_RE|Higgins, 2016]] — 追溯元分析的起源，阐述格拉斯如何开创心理治疗效果的元分析并确立效应量尺度。
@@ -115,15 +115,15 @@ updated: '2026-06-19'
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者**：玛丽·李·史密斯 (Mary Lee Smith) — 合作开展心理治疗[[Meta-analysis|元分析]]；本杰明·布鲁姆 (Benjamin Bloom) — 影响了其以标准差表示[[Effect Size|效应量]]的思想。
-> - **继承者／重构者**：[[John Hattie]] — 进一步将元分析聚合为[[Meta-meta-analysis|元-元分析]]，但因过度追求单一均值而偏离了格拉斯的初衷。
+> - **师承／合作者** 玛丽·李·史密斯 (Mary Lee Smith) — 合作开展心理治疗[[Meta-analysis|元分析]]；本杰明·布鲁姆 (Benjamin Bloom) — 影响了其以标准差表示[[Effect Size|效应量]]的思想。
+> - **继承者／重构者**[[John Hattie]] — 进一步将元分析聚合为[[Meta-meta-analysis|元-元分析]]，但因过度追求单一均值而偏离了格拉斯的初衷。
 
 ---
 
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **争议对象**：[[Meta-analysis|元分析]]的 “苹果与橙子” [[Heterogeneity|异质性]]混合问题。
-> - **批评立场**：[[Positivism|实证主义]]和方法论学者批评元分析将完全不可比的研究（如不同的测量指标、干预强度、目标人群）混在一起计算。
-> - **证据依据**：将完全不同的教学实践合并为一个单一均值，会导致具体的实践机制和情境变异被抹平（即 “统计炼金术” 批评）。
-> - **回应或余留问题**：格拉斯坚称，只有比较苹果 and 橙子（即水果整体）才是真正科学的任务，关键在于不能用均值代替图表，必须让研究者看到变异的分布。
+> - **争议对象**[[Meta-analysis|元分析]]的 “苹果与橙子” [[Heterogeneity|异质性]]混合问题。
+> - **批评立场**[[Positivism|实证主义]]和方法论学者批评元分析将完全不可比的研究（如不同的测量指标、干预强度、目标人群）混在一起计算。
+> - **证据依据** 将完全不同的教学实践合并为一个单一均值，会导致具体的实践机制和情境变异被抹平（即 “统计炼金术” 批评）。
+> - **回应或余留问题** 格拉斯坚称，只有比较苹果 and 橙子（即水果整体）才是真正科学的任务，关键在于不能用均值代替图表，必须让研究者看到变异的分布。

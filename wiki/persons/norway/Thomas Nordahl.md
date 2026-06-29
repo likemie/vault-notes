@@ -50,10 +50,10 @@ updated: '2026-06-08'
 > [!tip]- 核心思想
 > Nordahl 在当前材料中最稳定的思想位置，是从支持者角度把 [[John Hattie]] 的[[Visible Learning|VL]]重写为一条学校改进主线：
 >
-> - **学习结果是学校改进的中心尺度**：教育既然深刻影响个人未来和社会延续，学校改进就不能停留在价值口号或制度修补，而必须追问“学生是否真的学到了东西”([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–63]])。
-> - **研究证据是概率资源，不是自动命令**：[[Evidence-Based Education|循证教育]]的价值不在于替教师下指令，而在于提高行动成功的概率，因此它应与 [[Professional Judgment]] 结合，而非取代专业判断([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.63–65]])。
+> - **学习结果是学校改进的中心尺度** 教育既然深刻影响个人未来和社会延续，学校改进就不能停留在价值口号或制度修补，而必须追问“学生是否真的学到了东西”([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–63]])。
+> - **研究证据是概率资源，不是自动命令**[[Evidence-Based Education|循证教育]]的价值不在于替教师下指令，而在于提高行动成功的概率，因此它应与 [[Professional Judgment]] 结合，而非取代专业判断([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.63–65]])。
 > - **学校改进的瓶颈在[[Knowledge Mobilisation|知识转译]]**：真正稀缺的不是研究本身，而是把研究转进课堂的组织机制，例如能力建设、[[Knowledge Mobilisation]]、教师协作、课堂观察和数据使用([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]])。
-> - **反对把改革误诊成“动力问题”**：单纯依靠 [[New Public Management]] 式问责、竞争和奖惩，只会把学校改进误解成压力管理问题，而不是知识与能力建设问题([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.65]])。
+> - **反对把改革误诊成“动力问题”** 单纯依靠 [[New Public Management]] 式问责、竞争和奖惩，只会把学校改进误解成压力管理问题，而不是知识与能力建设问题([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.65]])。
 >
 > > "Praksis som bygger evidensbasert pedagogisk forskning, kan ikke garantere gode resultater, men den kan øke sannsynligheten."([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.63]])
 

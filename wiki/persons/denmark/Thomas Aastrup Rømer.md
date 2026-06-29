@@ -96,8 +96,8 @@ updated: '2026-06-08'
 > [!warning] Qvortrup 对 Rømer 反馈集权化论断的事实性质疑
 > [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 在以 [[Visible Learning|VL]] 支持者立场回应丹麦批评时，专门针对 Rømer 在 [[Hattie på dansk]] 中的反馈批评提出反驳：
 >
-> - **Qvortrup 的立场**：Rømer 声称 VL 的反馈概念具有"集权化效应"——即反馈机制从学生到教师到校长到市政府到国家层面逐级收集信息并以此控制下层——这一论断"without any kind of factual support"([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])。Qvortrup 认为这是丹麦 Hattie 批评者"解释社群"对 VL 产生广泛误解的典型案例。
-> - **Rømer 的立场**：[[Argument_Rømer_2018_EPT|Rømer (2018)]] 的论证基于对 Hattie 反馈概念的概念分析——Hattie 本人将反馈重新定义为"从学生到教师"最有力（Hattie, 2009, p.173），这一转向使教学实践从"文化对学生可见"逆转为"学生对教师可见"，其逻辑后果是层级监控结构的建立。Rømer 的论证属于哲学推论而非经验主张。
+> - **Qvortrup 的立场** Rømer 声称 VL 的反馈概念具有"集权化效应"——即反馈机制从学生到教师到校长到市政府到国家层面逐级收集信息并以此控制下层——这一论断"without any kind of factual support"([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])。Qvortrup 认为这是丹麦 Hattie 批评者"解释社群"对 VL 产生广泛误解的典型案例。
+> - **Rømer 的立场**[[Argument_Rømer_2018_EPT|Rømer (2018)]] 的论证基于对 Hattie 反馈概念的概念分析——Hattie 本人将反馈重新定义为"从学生到教师"最有力（Hattie, 2009, p.173），这一转向使教学实践从"文化对学生可见"逆转为"学生对教师可见"，其逻辑后果是层级监控结构的建立。Rømer 的论证属于哲学推论而非经验主张。
 >
 > 目前此争议持续：双方分歧根源于方法论立场差异——Qvortrup 要求经验证据，Rømer 以概念分析为方法。
 

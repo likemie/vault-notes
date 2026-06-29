@@ -89,6 +89,6 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **"怎么都行"的问题**：[[Argument_Eacott_2015_EPT|Eacott (2015, p.316)]]指出，通过拒斥客观性并将论证交付给社会现象的主观性，"Greenfield 确实将自己留在了'怎么都行'的处境中——可以说这种处境同样成问题"。如果不存在任何客观标准，如何区分好的研究和差的研究？
-> - **消极后果**：Greenfield 的批判（与 Bates 等人一起）在打破[[Positivism|实证主义]]垄断的同时，也导致许多人彻底放弃了"科学"探究的追求——Evers & Lakomski 认为这是一种矫枉过正
-> - **Eacott 的定位**：[[Argument_Eacott_2015_EPT|Eacott (2015)]]在 Greenfield 与 Evers/Lakomski 之间寻找第三条路——接受对逻辑经验主义的批判，但不放弃"科学探究"的标签，而是通过 Bourdieu 的反思社会学重新定义什么是"科学"
+> - **"怎么都行"的问题**[[Argument_Eacott_2015_EPT|Eacott (2015, p.316)]]指出，通过拒斥客观性并将论证交付给社会现象的主观性，"Greenfield 确实将自己留在了'怎么都行'的处境中——可以说这种处境同样成问题"。如果不存在任何客观标准，如何区分好的研究和差的研究？
+> - **消极后果** Greenfield 的批判（与 Bates 等人一起）在打破[[Positivism|实证主义]]垄断的同时，也导致许多人彻底放弃了"科学"探究的追求——Evers & Lakomski 认为这是一种矫枉过正
+> - **Eacott 的定位**[[Argument_Eacott_2015_EPT|Eacott (2015)]]在 Greenfield 与 Evers/Lakomski 之间寻找第三条路——接受对逻辑经验主义的批判，但不放弃"科学探究"的标签，而是通过 Bourdieu 的反思社会学重新定义什么是"科学"

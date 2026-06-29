@@ -98,9 +98,9 @@ updated: 2026-06-18
 ## 核心要素
 
 > [!feature] 价值中立的方法论要求
-> - **事实与价值二分**：严格区分”实然”（What is，描述客观事实）与”应然”（What ought to be，做出道德或规范评判），研究仅对前者负责。
-> - **程序控制**：通过双盲实验、[[Random Assignment|随机分配]]、统计控制以及同行评议等标准化程序，将研究者的主观因素对结论的干扰降到最低。
-> - **去政治化修辞**：在报告撰写中采用不带感情色彩的第一人称回避（如被动语态）和数据卡片，呈现出无党派偏见、客观中立的科学面貌。
+> - **事实与价值二分** 严格区分”实然”（What is，描述客观事实）与”应然”（What ought to be，做出道德或规范评判），研究仅对前者负责。
+> - **程序控制** 通过双盲实验、[[Random Assignment|随机分配]]、统计控制以及同行评议等标准化程序，将研究者的主观因素对结论的干扰降到最低。
+> - **去政治化修辞** 在报告撰写中采用不带感情色彩的第一人称回避（如被动语态）和数据卡片，呈现出无党派偏见、客观中立的科学面貌。
 > - **量化效度的[[Positivism|实证主义]]前提**：Cohen, Manion & Morrison (2011) 将价值中立列为[[Positivism|实证主义]][[Quantitative Research|量化研究]]效度的九项基本前提之一——与可控性、可复制性、可预测性、[[External Validity|可推广性]]、去情境化、碎片化、随机化和可观测性并置，构成量化研究对”研究者价值无涉”的方法论承诺。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 
 ---
@@ -121,10 +121,10 @@ updated: 2026-06-18
 ## 概念演变
 
 > [!timeline] 价值中立概念的历史沿革
-> - **1904–1917 — 经典奠基**：德国社会学家 [[Max Weber|马克斯·韦伯]]（Max Weber）在社会[[Scientific Method|科学方法]]论中系统阐明价值中立（Wertfreiheit）原则，强调学者在讲台上和研究中应区分“事实的科学说明”与“对政策的价值推崇”。
+> - **1904–1917 — 经典奠基** 德国社会学家 [[Max Weber|马克斯·韦伯]]（Max Weber）在社会[[Scientific Method|科学方法]]论中系统阐明价值中立（Wertfreiheit）原则，强调学者在讲台上和研究中应区分“事实的科学说明”与“对政策的价值推崇”。
 > - **20世纪中期 — [[Positivism|实证主义]]鼎盛**：[[Positivism|实证主义]]社会科学将价值中立作为方法论的“金标准”，认为它是确保研究客观性、免受政治意识形态干扰的唯一途径。
-> - **1970s–1980s — 批判性转向**：[[Critical Theory|批判理论]]、[[Feminist Research|女性主义研究]]和[[Post-colonial Theory|后殖民理论]]对价值中立展开系统解构，指出所谓“中立科学”掩盖了白人、男性和西方话语在[[Knowledge Production|知识生产]]中的霸权。
-> - **1987 — 评估方法论整合**：Smith & Glass 在《[[Evaluation Research|评估研究]]》中将价值处理方式列为区分研究与评估的标志性框架。
+> - **1970s–1980s — 批判性转向**[[Critical Theory|批判理论]]、[[Feminist Research|女性主义研究]]和[[Post-colonial Theory|后殖民理论]]对价值中立展开系统解构，指出所谓“中立科学”掩盖了白人、男性和西方话语在[[Knowledge Production|知识生产]]中的霸权。
+> - **1987 — 评估方法论整合** Smith & Glass 在《[[Evaluation Research|评估研究]]》中将价值处理方式列为区分研究与评估的标志性框架。
 > - **2010s 至今 — [[Evidence-Based Education|循证教育]]论辩**：循证教育以“无偏见的、中立的黄金证据（[[Randomised Controlled Trials|RCT]]）”之名兴起，引发了以 [[Argument_Biesta_2010_SPE|Biesta (2010)]]、[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 为代表的学者对“中立科学修辞”如何合谋新自由主义审计治理的剧烈反思。
 
 ---
@@ -132,8 +132,8 @@ updated: 2026-06-18
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **事实-价值二分法是否可能**：[[Positivism|实证主义]]者坚称通过程序可以实现事实与价值的隔离；而[[Interpretive Paradigm|反实证主义]]者（如[[Critical Realism|批判实在论]]者）指出，任何[[Research Question|研究问题]]的提出、[[Variable|变量]]的[[Operationalization|操作化]]定义以及测试工具的设计，都已经包含了“什么是有价值的”这一规范性预设，因而在[[Ontology|本体论]]上无法彻底中立。
-> - **“什么有效”对教育价值的剥夺**：[[Evidence-Based Education|EBE]] 倡导者主张“什么有效”是一个中立的、可测量的经验事实；批评者则指出，“有效性”是一个关系性概念（即干预对什么目标有效、对谁有效），如果不回答“为了什么目的（To what ends）”的政治和价值问题，单纯的统计[[Effect Size|效应量]]就毫无意义，甚至会误导政策。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 4]])
+> - **事实-价值二分法是否可能**[[Positivism|实证主义]]者坚称通过程序可以实现事实与价值的隔离；而[[Interpretive Paradigm|反实证主义]]者（如[[Critical Realism|批判实在论]]者）指出，任何[[Research Question|研究问题]]的提出、[[Variable|变量]]的[[Operationalization|操作化]]定义以及测试工具的设计，都已经包含了“什么是有价值的”这一规范性预设，因而在[[Ontology|本体论]]上无法彻底中立。
+> - **“什么有效”对教育价值的剥夺**[[Evidence-Based Education|EBE]] 倡导者主张“什么有效”是一个中立的、可测量的经验事实；批评者则指出，“有效性”是一个关系性概念（即干预对什么目标有效、对谁有效），如果不回答“为了什么目的（To what ends）”的政治和价值问题，单纯的统计[[Effect Size|效应量]]就毫无意义，甚至会误导政策。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 4]])
 
 ---
 

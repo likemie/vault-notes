@@ -49,9 +49,9 @@ updated: 2026-06-03
 
 > [!note]-
 > 关键发展节点([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.251–254]])：
-> - **2005 年**：滑铁卢大学与 Schlegel Villages 经过深入讨论后正式启动 RIA 合作
-> - **2014 年**：RIA 大楼在滑铁卢大学北校区建成并投入运营
-> - **持续至今**：Schlegel 家族累计投入超过 5000 万加元，用于大楼建设、设立 12 个资助讲席教授职位和支持研究活动
+> - **2005 年** 滑铁卢大学与 Schlegel Villages 经过深入讨论后正式启动 RIA 合作
+> - **2014 年** RIA 大楼在滑铁卢大学北校区建成并投入运营
+> - **持续至今** Schlegel 家族累计投入超过 5000 万加元，用于大楼建设、设立 12 个资助讲席教授职位和支持研究活动
 
 RIA 的独特之处在于其运行模式从一开始就是"共同设计"（co-design）的：Schlegel 家族深度参与了与大学行政人员和利益相关方共同制定 RIA 蓝图和发展路线图的过程。家族成员持续参与 RIA 研究活动和活动，并以董事会成员身份指导 RIA 的持续发展。Schlegel Villages 及其居民同时也是 RIA 研究成果的第一手知识用户([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.252]])。
 
@@ -68,11 +68,11 @@ RIA 的独特之处在于其运行模式从一开始就是"共同设计"（co-de
 
 **[[Knowledge Mobilisation|知识动员]]网络**：通过 Schlegel Villages 的退休住宅网络，新入住居民可参与 Schlegel 功能性体适能评估方案（Functional Fitness Assessment）。RIA 开发的新技术——如脑血管健康生物标志物检测——被直接嵌入该评估方案，实现了从实验室到临床的快速转化。
 
-**人才培养**：研究生在 RIA 研究人员的指导下参与跨学科老龄化研究项目，RIA 还与 Conestoga 学院合作进行护理培训。产业环境中的研究经历直接回应了博士毕业生就业多元化的现实需求。
+**人才培养** 研究生在 RIA 研究人员的指导下参与跨学科老龄化研究项目，RIA 还与 Conestoga 学院合作进行护理培训。产业环境中的研究经历直接回应了博士毕业生就业多元化的现实需求。
 
 **创新模型（[[RIA Model for Innovation]]）**：包含四个阶段——知识生成（Knowledge Generation）、孵化（Incubation，发现和开发创新）、加速（Acceleration，在新环境中扩展和评估创新）、动员（Mobilization，分享知识惠及各地老年人）。
 
-**跨院系参与**：三个学院的参与使 RIA 的成功经验在校内产生示范效应。参与 RIA 的教师成为同院系同伴的榜样和导师，以自身成功经验降低其他教师对[[University-Industry Collaboration|产学合作]]的疑虑。
+**跨院系参与** 三个学院的参与使 RIA 的成功经验在校内产生示范效应。参与 RIA 的教师成为同院系同伴的榜样和导师，以自身成功经验降低其他教师对[[University-Industry Collaboration|产学合作]]的疑虑。
 
 ---
 

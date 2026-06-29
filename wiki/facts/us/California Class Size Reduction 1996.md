@@ -63,7 +63,7 @@ updated: '2026-05-18'
 >
 > - 加州未认证教师比例从 1990 年的**约 1/200** 飙升至 1997 年的**约 1/8**（Jepsen & Rivkin, 2002）
 > - 新教师和未认证教师并非在全州范围内[[Random Assignment|随机分配]]——Randy Ross (1999) 记录了许多有经验的教师**离开城市学校**到更富裕地区担任新设立的职位
-> - **净效应**：降低全州平均教师质量，并**将教师质量的降低集中在服务最弱势学生的学校**
+> - **净效应** 降低全州平均教师质量，并**将教师质量的降低集中在服务最弱势学生的学校**
 >
 > > "The net effect of class-size reduction in California was to reduce average teacher quality across the state, and to concentrate those reductions in the schools serving the most disadvantaged students." ([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
 >
@@ -89,13 +89,13 @@ updated: '2026-05-18'
 > - 此案例被 Cartwright & Hardie (2012) 用作论证以下观点的关键证据：成功实施证据本位政策需要在本地具备所有必要的"支持因素"（support factors），否则需要有替代方案或对原始方案进行重大修改([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.18]])
 > - 该案例成为 [[Programme Fidelity vs Adaptation]] 辩论中的经典反面教材
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 将此案例的教训推向更深层：问题不仅在于"支持因素是否可复制"，还在于 **[[Randomised Controlled Trials|RCT]] 试验本身的条件在大规模推广时可能系统性不成立**——STAR 仅需 50 名额外教师且可[[Hypothesis|假设]]其质量；全州推广需数千名教师且质量不可能同等。这不是"忠实 vs 适应"的执行选择问题，而是**试验条件本身在推广时就不再成立**([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
-> - 该案例还揭示了一个关键的**分布效应**：班级缩减不仅未能提高成就，而且**不成比例地伤害了最弱势学生**——因为教师质量的恶化集中在服务最弱势学生的学校([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
+> - 该案例还揭示了一个关键的**分布效应** 班级缩减不仅未能提高成就，而且**不成比例地伤害了最弱势学生**——因为教师质量的恶化集中在服务最弱势学生的学校([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
 
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **"忠实执行"的拥护者**：加州未能忠实复制田纳西州的条件（合格教师、充足教室），因此失败应归因于实施不忠实，而非证据无效([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.17-18]])
-> - **"本地适应"的拥护者**：此案例恰恰说明"忠实执行"在某些情境下是幻想——如果支持因素根本不可得，那么需要的是针对本地条件的适应性方案(Cartwright & Hardie, 2012; [[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.18]])
+> - **"忠实执行"的拥护者** 加州未能忠实复制田纳西州的条件（合格教师、充足教室），因此失败应归因于实施不忠实，而非证据无效([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.17-18]])
+> - **"本地适应"的拥护者** 此案例恰恰说明"忠实执行"在某些情境下是幻想——如果支持因素根本不可得，那么需要的是针对本地条件的适应性方案(Cartwright & Hardie, 2012; [[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.18]])
 > - **[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.7)]] 的第三种立场**：问题不是"忠实 vs 适应"二元选择能捕捉的——即使我们能够"忠实执行"，**试验本身的条件（教师质量）在大规模推广时就不可复制**。这不是执行失败，而是 [[Randomised Controlled Trials|RCT]] 证据结构本身的局限。更深层的问题是：班级缩减 + 教师在职培训（发展只有在小班中才可能的教学方法）的组合从未被测试过——"教育研究只告诉我们曾经是什么，而非可能是什么"
 
 ## 相关概念／政策

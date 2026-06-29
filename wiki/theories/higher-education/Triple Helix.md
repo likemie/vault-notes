@@ -78,9 +78,9 @@ updated: 2026-06-10
 ## 核心命题
 
 > [!abstract]
-- **角色交织**：在以知识为基础的经济中，大学不仅是[[Knowledge Production|知识生产]]者，还可以通过[[Technology Transfer|技术转移]]和孵化初创企业承担产业角色；企业不仅从事商业活动，还可以通过企业研究和培训项目承担教育和研究角色；政府不仅是资助者和监管者，还可以通过公共研究机构直接参与知识生产
-- **动态而非静态**：三重螺旋不是描述三者之间的固定分工，而是描述一种持续演化的关系——在不同国家、不同历史阶段，螺旋的具体形态会发生变化
-- **创新驱动**：三重螺旋的核心动力是创新——三者之间的互动密度和质量决定了[[Systems of Innovation|创新系统]]的产出
+- **角色交织** 在以知识为基础的经济中，大学不仅是[[Knowledge Production|知识生产]]者，还可以通过[[Technology Transfer|技术转移]]和孵化初创企业承担产业角色；企业不仅从事商业活动，还可以通过企业研究和培训项目承担教育和研究角色；政府不仅是资助者和监管者，还可以通过公共研究机构直接参与知识生产
+- **动态而非静态** 三重螺旋不是描述三者之间的固定分工，而是描述一种持续演化的关系——在不同国家、不同历史阶段，螺旋的具体形态会发生变化
+- **创新驱动** 三重螺旋的核心动力是创新——三者之间的互动密度和质量决定了[[Systems of Innovation|创新系统]]的产出
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-06-10
 
 二战经验——曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）、MIT 辐射实验室的雷达研究——戏剧性地展示了三方协作的巨大潜力。战后，Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）将[[Blue Skies Research|基础研究]]确立为国家战略优先事项，催生了 [[National Science Foundation|NSF]] 和国防部对大学的大规模研究资助([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–29]])。
 
-然而这一时期的三重螺旋存在一个悖论：政府资金大幅扩张了大学研究能力，但大学与产业的具体需求反而**脱钩**（decoupled）——大学更聚焦于教师主导的基础研究和人才培养，对与产业密切合作日益怀疑甚至撤退（Arora et al., 2020; Youtie & Shapira, 2008）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.38]])。
+然而这一时期的三重螺旋存在一个悖论：政府资金大幅扩张了大学研究能力，但大学与产业的具体需求反而**脱钩（decoupled）**——大学更聚焦于教师主导的基础研究和人才培养，对与产业密切合作日益怀疑甚至撤退（Arora et al., 2020; Youtie & Shapira, 2008）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.38]])。
 
 ---
 
@@ -153,7 +153,7 @@ updated: 2026-06-10
 ## 组织维度：宏观整合理论与微观组织碎片化的张力
 
 > [!abstract]
-> Triple Helix 作为一个宏观制度理论，描述的是大学、产业和政府三个**制度领域**（institutional spheres）之间的交织关系。但理论本身没有直接回答：**在大学内部，这种交织应该由谁来组织、如何组织？** Boccanfuso & Hall（2025, p.52）以 Triple Helix 为制度背景，将分析焦点从三个领域之间的关系转向大学内部的组织结构——这是一个从宏观到微观的视角转换。
+> Triple Helix 作为一个宏观制度理论，描述的是大学、产业和政府三个**制度领域（institutional spheres）**之间的交织关系。但理论本身没有直接回答：**在大学内部，这种交织应该由谁来组织、如何组织？** Boccanfuso & Hall（2025, p.52）以 Triple Helix 为制度背景，将分析焦点从三个领域之间的关系转向大学内部的组织结构——这是一个从宏观到微观的视角转换。
 
 ### 理论链条：Triple Helix → Entrepreneurial University → UI 组织
 
@@ -164,7 +164,7 @@ updated: 2026-06-10
 |------|----------|---------|-----------|
 | **宏观** | Triple Helix（Etzkowitz & Leydesdorff, 1995） | 大学-产业-政府三个制度领域的交织关系 | 提供制度背景：政府通过 [[Bayh-Dole Act of 1980\|Bayh-Dole Act]] 和 NSF 项目塑造产学互动环境（p.52） |
 | **中观** | [[Entrepreneurial University]]（Etzkowitz et al., 2000） | 大学作为一个组织的战略转向——主动寻求产业合作 | 指出创业型大学的具体组织形态尚缺乏系统研究（p.52） |
-| **微观** | [[University-Industry Collaboration\|产学参与]]的五种组织模式 | 中心办公室的报告链、职责范围、权限等级 | 发现五种模式，且无一完全全面——中心办公室是**导航者**而非**执行者**（pp.60–63） |
+| **微观** | [[University-Industry Collaboration\|产学参与]]的五种组织模式 | 中心办公室的报告链、职责范围、权限等级 | 发现五种模式，且无一完全全面——中心办公室是**导航者**而非**执行者（pp.60–63）** |
 
 这一链条揭示了一个值得注意的理论张力：Triple Helix 预测大学、产业、政府三个领域日益交织和整合，但在大学内部的组织层面，产学参与实际上高度碎片化——产业关系官员分散在学院、科研办公室和发展部门之间，中心办公室平均仅覆盖 12 个活动领域中的 3.5 个，报告链五花八门（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.64–65]]）。
 

@@ -69,10 +69,10 @@ updated: 2026-06-02
 ## 影响与后果
 
 > [!success]
-> - **对苏联教育者**：使 Shatskii、Kalashnikov 等人得以直接会见他们长期研读的理论家。Kalashnikov 在信中向 Dewey 报告正在编纂的百科全书中收录了 Dewey 的肖像和思想，并希望与 Dewey 保持通信([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.104]])。
-> - **对美国公众**：Dewey 回国后在《新共和》(*New Republic*) 发表系列文章，后结集为 *Impressions of the Revolutionary World*。[[Sherwood Eddy]] 在 1931 年的 *The Challenge of Russia* 中大量引用 Dewey 的观察来说明苏联教育状况([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102, 107]])。
-> - **对美国国务院**：助理国务卿 Castle 指示驻外外交官监控代表团的活动和印象。驻德外交官 Schurman 于 1928 年 7 月 26 日向国务卿 Kellogg 提交了总结报告([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.108–109]])。
-> - **对反共舆论**：Francis Ralston Welsh 在代表团出发前就致信国务院指控此行为是共产党的宣传游戏，将 Dewey 标记为多项不忠行为的参与者。该事件成为美国国内反共势力监控教育交流的案例之一([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。
+> - **对苏联教育者** 使 Shatskii、Kalashnikov 等人得以直接会见他们长期研读的理论家。Kalashnikov 在信中向 Dewey 报告正在编纂的百科全书中收录了 Dewey 的肖像和思想，并希望与 Dewey 保持通信([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.104]])。
+> - **对美国公众** Dewey 回国后在《新共和》(*New Republic*) 发表系列文章，后结集为 *Impressions of the Revolutionary World*。[[Sherwood Eddy]] 在 1931 年的 *The Challenge of Russia* 中大量引用 Dewey 的观察来说明苏联教育状况([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102, 107]])。
+> - **对美国国务院** 助理国务卿 Castle 指示驻外外交官监控代表团的活动和印象。驻德外交官 Schurman 于 1928 年 7 月 26 日向国务卿 Kellogg 提交了总结报告([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.108–109]])。
+> - **对反共舆论** Francis Ralston Welsh 在代表团出发前就致信国务院指控此行为是共产党的宣传游戏，将 Dewey 标记为多项不忠行为的参与者。该事件成为美国国内反共势力监控教育交流的案例之一([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。
 
 ---
 

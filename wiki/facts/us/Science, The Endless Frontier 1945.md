@@ -58,9 +58,9 @@ updated: 2026-05-26
 > Science, The Endless Frontier 的直接制度后果包括（p.13）：
 
 - **国家科学基金会（[[National Science Foundation|NSF]]）的创建**：报告直接促成了 National Science Foundation 的建立，成为美国联邦政府支持大学[[Blue Skies Research|基础研究]]的最重要机构
-- **国防部基础研究项目**：报告推动了国防部对大学基础研究项目的支持，这些项目与企业和国家实验室的限制性研究形成互补，构成了美国战后科研体系的双轨结构
+- **国防部基础研究项目** 报告推动了国防部对大学基础研究项目的支持，这些项目与企业和国家实验室的限制性研究形成互补，构成了美国战后科研体系的双轨结构
 - **[[Triple Helix]] 的制度基础**：政府对大学基础研究的持续投资，与大学、产业之间形成了相互支撑的反馈循环——这一现象被 Etzkowitz 和 Leydesdorff（1995）概括为"[[Triple Helix]]"（p.13）
-- **长期影响力**：该报告的主题在 2007 年国家科学院报告 [[Rising Above the Gathering Storm 2007|Rising Above the Gathering Storm]] 中再次被强调，其对开放式基础研究的重视持续塑造着美国的科学政策（p.13）
+- **长期影响力** 该报告的主题在 2007 年国家科学院报告 [[Rising Above the Gathering Storm 2007|Rising Above the Gathering Storm]] 中再次被强调，其对开放式基础研究的重视持续塑造着美国的科学政策（p.13）
 
 ## 相关概念／政策
 

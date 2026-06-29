@@ -30,6 +30,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Federal Law No. 85-FZ on Enlightenment Activities]]"
   - "[[Centre for Independent Studies]]"
+  - "[[Consolidation of Russian State Science Funds]]"
 related_arguments: []
 sources:
   - "[[Dezhina_2022_ECO]]"
