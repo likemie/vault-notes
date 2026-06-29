@@ -39,7 +39,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[External Validity]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Space Production in Higher Education]]"
+  - "[[Space Production]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
 related_theories: []
@@ -234,7 +234,7 @@ Silverman（1993: 92–93）补充了访谈的六项用途：
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]：Miller (1992) 新校长[[Ethnography|民族志]]，每两月一次 45 分钟录音访谈，持续四个月
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]：精英大学学生出路分化，两阶段 62 名毕业生，每次 2.5–3.5 小时，累计 150 万字
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|ODwyer 等 (2023)]]：[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] [[University-Industry Collaboration|产学合作]]网络演化，10 次访谈 50–105 分钟，10 家跨国企业 + 8 所学术机构
-> - [[Argument_Cai_Gao_Liu_2025_HE|Cai 等 (2025)]]：[[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] [[Space Production in Higher Education|高等教育空间生产]]，39 名教师（30 名关键节点），四城，2023 年
+> - [[Argument_Cai_Gao_Liu_2025_HE|Cai 等 (2025)]]：[[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] [[Space Production|高等教育空间生产]]，39 名教师（30 名关键节点），四城，2023 年
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]：多元文化视角儒家传统，37 名 15 个民族大学生，与 217 册教科书分析互补
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025)]]：农村[[Peidu|陪读]][[School Choice|择校]]，128 人（家长、教师、官员），2018 + 2023 回访
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]：中国学校 [[Learner-Centred Education|LCE]] 本土化，4 位校长 9 位教师，两轮访谈，Nvivo 11
