@@ -1,0 +1,104 @@
+---
+title: California Critical Thinking Disposition Inventory
+aliases:
+  - CCTDI
+  - 加州批判性思维倾向问卷
+summary: "通过七个维度测量个体将批判性思维作为自然思维习惯加以运用的倾向"
+type: instrument
+instrument_type: inventory
+developers:
+  - Insight Assessment
+original_year: "2000"
+languages:
+  - English
+item_count: "75"
+administration_mode: self-report
+response_format: ""
+tags:
+  - theme/critical-thinking
+  - instrument/self-report
+related_concepts: []
+related_theories: []
+related_methods: []
+related_instruments: []
+related_persons: []
+related_facts: []
+related_arguments: []
+confidence: medium
+status: draft
+created: 2026-06-30
+updated: 2026-06-30
+---
+
+# California Critical Thinking Disposition Inventory
+
+---
+
+## 工具定位
+
+> [!instrument-profile] 加州批判性思维倾向问卷
+> - **工具类型** 七十五题商业化自陈问卷。
+> - **开发者与年份** 本文引用 Insight Assessment 2000 年版本，未在正文中进一步交代开发过程。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6–7)]]
+> - **测量目的** 测量个体将批判性思维作为自然思维习惯加以运用的倾向，而非直接测量任务中的批判性思维表现。
+> - **实施方式** 在线自陈。Cole 等人的参与者需要前往第二个在线位置并使用登录信息，造成明显样本流失。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6–7, 12)]]
+
+---
+
+## 测量构念与维度
+
+> [!entry-map]
+>
+> | 维度 | 对应构念 | 题项数 | 测量内容 | 计分方式 |
+> |---|---|---|---|---|
+> | 求真 | [[Critical Thinking]] | — | 主动寻求最佳知识，即使结果挑战既有信念 | 分量表 10 至 60 |
+> | 开放心态 | [[Critical Thinking]] | — | 对不同观点保持开放 | 分量表 10 至 60 |
+> | 探究性 | [[Critical Thinking]] | — | 求知和持续学习的倾向 | 分量表 10 至 60 |
+> | 分析性 | [[Critical Thinking]] | — | 预期后果并运用理由和证据 | 分量表 10 至 60 |
+> | 系统性 | [[Critical Thinking]] | — | 有组织、有条理地处理问题 | 分量表 10 至 60 |
+> | 推理自信 | [[Critical Thinking]] | — | 对自身推理过程和判断能力的信心 | 分量表 10 至 60 |
+> | 判断成熟度 | [[Critical Thinking]] | — | 在复杂和不确定条件下作出审慎判断 | 分量表 10 至 60 |
+
+本文只列出维度名称，没有逐一定义各维度。上表的“测量内容”仅作维度名的简要中文释义，不能替代测试手册中的正式定义。分量表等级为低 10–29、矛盾 30–40、积极 40–50、高 50–60。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 12, 18)]]
+
+---
+
+## 题项与作答方式
+
+> [!instrument-items] 题项结构
+> - **题项数量** 七十五题。
+> - **题项形式** 本文未刊出具体题项。
+> - **作答格式** 本文未报告作答选项。
+> - **反向题与跳题** 本文未报告。
+
+---
+
+## 使用该工具的研究
+
+> [!ref-table]- 研究索引
+> <span class="instrument-study-table-marker" aria-hidden="true"></span>
+> | 研究 | 工具版本 | 样本与用途 | 信度 | 效度与可比性 | 实证结果 |
+> |---|---|---|---|---|---|
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Insight Assessment 2000 英文版 | 澳大利亚大学一年级学生，DP 毕业生 n = 42，非 DP 毕业生 n = 126。用于比较批判性思维倾向 | 总量表 α = .90。七个分量表手册信度范围为 .67–.82 | 本文未报告该样本的结构效度或测量不变性，因此不能判断两组均值是否具有严格的跨组可比性 | DP 毕业生七个维度均值均较高，总分 300.95 对 293.98。文章未报告这些 CCTDI 差异的显著性检验 |
+
+### Cole 等人 2015 年研究的维度结果
+
+> [!ref-table]- 分量表结果
+> | 维度 | DP 毕业生 M（SD） | 非 DP 毕业生 M（SD） | 手册 α 范围 |
+> |---|---|---|---|
+> | 求真 | 37.02（5.88） | 35.00（6.33） | .70–.78 |
+> | 开放心态 | 43.48（5.41） | 42.85（5.42） | .67–.74 |
+> | 探究性 | 48.17（6.45） | 46.96（6.35） | .78–.82 |
+> | 分析性 | 44.95（5.39） | 44.75（5.02） | .70–.73 |
+> | 系统性 | 39.74（6.59） | 38.91（6.78） | .72–.74 |
+> | 推理自信 | 45.93（5.96） | 43.75（6.12） | .75–.78 |
+> | 判断成熟度 | 41.98（7.06） | 41.90（6.35） | .73–.76 |
+> | 总分 | 300.95（30.05） | 293.98（27.75） | .90 |
+
+---
+
+## 版本与适配
+
+> [!ref-table]- 版本索引
+> | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
+> |---|---|---|---|---|---|
+> | Insight Assessment 2000 版 | 英语，澳大利亚施测 | 大学一年级学生 | 75 | 本文没有报告相对于测试手册的改动 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6–7, 12, 18)]] |

@@ -2,17 +2,17 @@
 summary: "以 IB DP 的 ToK 课程为案例，通过三阶段收敛式混合方法研究，检验显性批判性思维独立课程在澳大利亚学校的效果，发现 ToK 学生的批判性思维技能随年级显著增长，DP 毕业生在大学学术表现和批判性思维倾向上优于非 DP 毕业生。"
 type: argument
 authors:
-  - "David R Cole"
-  - "Jacqueline Ullman"
-  - "Susanne Gannon"
-  - "Paul Rooney"
+  - "Cole, D. R."
+  - "Ullman, J."
+  - "Gannon, S."
+  - "Rooney, P."
 source_language: en
 citation: "Cole, D. R., Ullman, J., Gannon, S., & Rooney, P. (2015). Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study. Australian Journal of Education, 1–18."
 year: 2015
 doi: "10.1177/0004944115603529"
 citation_aliases:
-  - "David R Cole et al., 2015"
-  - "David R Cole et al. (2015)"
+  - "Cole et al., 2015"
+  - "Cole et al. (2015)"
 tags:
   - theme/critical-thinking
   - theme/curriculum
@@ -116,8 +116,8 @@ journal: "Australian Journal of Education"
 > |------|----------------|
 > | **招募方式** | [[International Baccalaureate\|IB]] 组织（IBO）向所有澳大利亚 DP 学校领导发送电子邮件邀请，内含在线问卷 URL，由学校分发给 11–12 年级 ToK 学生 |
 > | **伦理与同意** | 学生年龄 ≥16 岁，免除家长同意；问卷完成即视为[[Informed Consent\|知情同意]]，参与信息置于问卷开头 |
-> | **测量工具一：CTSS** | 14 项自编批判性思维策略量表（Critical Thinking Strategies Scale）。题项基于 Delphi Report（Facione, 1990）的专家共识框架开发，涵盖澄清意义、分解问题、识别和分析论证、评估主张、设想替代方案、反思假设、辩护策略等 14 项可测量的批判性思维技能。学生回答"你有多大可能……"（如"努力澄清不熟悉术语的含义和定义"），7 点 Likert 量表（1=不太可能，7=极有可能）。通过探索性因子分析（EFA）缩减题项，最终 14 项量表 Cronbach's α = .96，内部[[Reliability\|信度]]优秀 |
-> | **测量工具二：MSLQ 批判性思维分量表** | 5 题项，取自 Pintrich, Smith, Garcia, & McKeachie（1993）开发的"学习动机策略问卷"（Motivated Strategies for Learning Questionnaire）的批判性思维子量表。Cronbach's α = .80，作为已有验证工具的参照比较 |
+> | **测量工具一 CTSS** | 14 项自编[[Critical Thinking Strategies Scale\|批判性思维策略量表（CTSS）]]。题项基于 Delphi Report（Facione, 1990）的专家共识框架开发，涵盖澄清意义、分解问题、识别和分析论证、评估主张、设想替代方案、反思假设、辩护策略等 14 项可测量的批判性思维技能。学生回答"你有多大可能……"（如"努力澄清不熟悉术语的含义和定义"），7 点 Likert 量表（1=不太可能，7=极有可能）。通过探索性因子分析（EFA）缩减题项，最终 14 项量表 Cronbach's α = .96，内部[[Reliability\|信度]]优秀 |
+> | **测量工具二 MSLQ 批判性思维分量表** | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ 批判性思维分量表]]共 5 题，取自 Pintrich, Smith, Garcia, & McKeachie（1993）开发的学习动机策略问卷。Cronbach's α = .80，作为已有验证工具的参照比较 |
 
 > [!sample-panel]- 阶段一样本构成
 > | 样本层面 | 构成 |
@@ -148,8 +148,8 @@ journal: "Australian Journal of Education"
 > |------|----------------|
 > | **招募：DP 毕业生** | 通过澳大利亚 IBO 校友联系名单，由 IBO 发送电子邮件邀请（含在线问卷 URL）给上一届 DP 毕业生 |
 > | **招募：非 DP 毕业生** | 通过各大学单元的在线内容管理系统（如 Blackboard）发布定向电子邮件或在线公告。多所大学被定向接触，但仅悉尼大学和昆士兰科技大学协助了招募 |
-> | **测量工具一：CCTDI** | 75 题项加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, Insight Assessment, 2000），是一个受好评的商业化测量工具。它评估个体将批判性思维作为"自然思维习惯"运用的倾向性。总量表 Cronbach's α = .90。七个分量表及信度范围：求真（Truth-seeking, .70–.78）、开放心态（Open-mindedness, .67–.74）、探究性（Inquisitiveness, .78–.82）、分析性（Analyticity, .70–.73）、系统性（Systematicity, .72–.74）、推理自信（Critical Thinking Confidence, .75–.78）、判断成熟度（Maturity of Judgement, .73–.76）。各分量表得分范围 10–60，等级划分为低（10–29）、矛盾（30–40）、积极（40–50）、高（50–60） |
-> | **测量工具二：ASC** | 10 题项一般学术自我概念量表（Academic Self-concept (General) Scale, Marsh, 1992），Cronbach's α = .92，作为学生实际学术成果的代理测量（proxy measure）。选择代理而非直接成绩报告，是因为无法跨多所中学标准化成绩（Byrne & Worth-Gavin, 1996） |
+> | **测量工具一 CCTDI** | 75 题项[[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷（CCTDI）]]（Insight Assessment, 2000），是一个受好评的商业化测量工具。它评估个体将批判性思维作为"自然思维习惯"运用的倾向性。总量表 Cronbach's α = .90。七个分量表及信度范围为求真（Truth-seeking, .70–.78）、开放心态（Open-mindedness, .67–.74）、探究性（Inquisitiveness, .78–.82）、分析性（Analyticity, .70–.73）、系统性（Systematicity, .72–.74）、推理自信（Critical Thinking Confidence, .75–.78）、判断成熟度（Maturity of Judgement, .73–.76）。各分量表得分范围 10–60，等级划分为低（10–29）、矛盾（30–40）、积极（40–50）、高（50–60） |
+> | **测量工具二 ASC** | 10 题项[[Academic Self-Concept General Scale\|一般学术自我概念量表（ASC）]]（Marsh, 1992），Cronbach's α = .92，作为学生实际学术成果的代理测量（proxy measure）。选择代理而非直接成绩报告，是因为无法跨多所中学标准化成绩（Byrne & Worth-Gavin, 1996） |
 > | **测量工具三：ATAR 与预期成果** | 学生自报 ATAR（澳大利亚高等教育入学排名，即 12 年级成绩的标准化度量）；6 题项自编预期大学成果量表（[[Sample Item\|样题]]："我将完成我的课程且不会挂掉任何一门课"），Cronbach's α = .78 |
 
 > [!sample-panel]- 阶段三样本构成

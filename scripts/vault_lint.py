@@ -1350,7 +1350,6 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
             "工具定位",
             "测量构念与维度",
             "题项与作答方式",
-            "实施条件",
             "使用该工具的研究",
             "版本与适配",
         ]
@@ -1360,7 +1359,7 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
         instrument_h2 = [line[3:].strip() for line in body.splitlines() if line.startswith("## ")]
         if instrument_h2 and instrument_h2[-1] != "版本与适配":
             issues.append(Issue("ERROR", rel(path), "instrument template must place ## 版本与适配 last", code="TEMPLATE_INSTRUMENT_VERSION_ORDER"))
-        for callout in ["[!ref-table]", "[!instrument-items]", "[!instrument-use]"]:
+        for callout in ["[!ref-table]", "[!instrument-profile]", "[!instrument-items]"]:
             if callout not in body:
                 issues.append(Issue("ERROR", rel(path), f"instrument template missing required callout: {callout}", code="TEMPLATE_INSTRUMENT_CALLOUT_MISSING"))
     if typ in {"concept", "theory", "method", "instrument", "person", "fact"}:

@@ -9237,6 +9237,45 @@
     ]
   },
   {
+    "title": "California Critical Thinking Disposition Inventory",
+    "type": "instrument",
+    "path": "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
+    "aliases": [
+      "CCTDI",
+      "加州批判性思维倾向问卷"
+    ]
+  },
+  {
+    "title": "Academic Self-Concept General Scale",
+    "type": "instrument",
+    "path": "wiki/instruments/scales/Academic Self-Concept General Scale.md",
+    "aliases": [
+      "ASC",
+      "Academic Self-concept (General) Scale",
+      "一般学术自我概念量表"
+    ]
+  },
+  {
+    "title": "Critical Thinking Strategies Scale",
+    "type": "instrument",
+    "path": "wiki/instruments/scales/Critical Thinking Strategies Scale.md",
+    "aliases": [
+      "CTSS",
+      "批判性思维策略量表"
+    ]
+  },
+  {
+    "title": "Motivated Strategies for Learning Questionnaire Critical Thinking Subscale",
+    "type": "instrument",
+    "path": "wiki/instruments/scales/Motivated Strategies for Learning Questionnaire Critical Thinking Subscale.md",
+    "aliases": [
+      "MSLQ",
+      "MSLQ-CT",
+      "MSLQ Critical Thinking Subscale",
+      "学习动机策略问卷批判性思维分量表"
+    ]
+  },
+  {
     "title": "Alejandro Artopoulos",
     "type": "person",
     "path": "wiki/persons/argentina/Alejandro Artopoulos.md",

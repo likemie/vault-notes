@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Australian Journal of Education/Argument_Cole_2015_AJE.md",
+                "file": "wiki/templates/template-instrument.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Cole_2015_AJE"
+              "title": "template-instrument"
             }
           }
         ],
@@ -208,13 +208,29 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
+    "wiki/instruments/inventories",
+    "wiki/instruments/scales/Motivated Strategies for Learning Questionnaire Critical Thinking Subscale.md",
+    "wiki/instruments/scales/Critical Thinking Strategies Scale.md",
+    "wiki/instruments/scales/Academic Self-Concept General Scale.md",
+    "wiki/instruments/scales",
+    "wiki/templates/template-fact-policy.md",
     "wiki/templates/template-instrument.md",
+    "tmp/pdfs/cole-2015/page-18.png",
+    "tmp/pdfs/cole-2015/page-12.png",
+    "tmp/pdfs/cole-2015/page-09.png",
+    "tmp/pdfs/cole-2015/page-08.png",
+    "tmp/pdfs/cole-2015/page-07.png",
+    "tmp/pdfs/cole-2015/page-06.png",
+    "tmp/pdfs/cole-2015/article.txt",
+    "tmp/pdfs/cole-2015",
+    "tmp/pdfs",
+    "tmp",
+    "wiki/arguments/journal-articles/Australian Journal of Education/Argument_Cole_2015_AJE.md",
     "wiki/templates/template-concept.md",
     "wiki/templates/template-person.md",
     "wiki/templates/template-method.md",
     "wiki/templates/template-fact-event.md",
-    "wiki/templates/template-fact-policy.md",
-    "wiki/arguments/journal-articles/Australian Journal of Education/Argument_Cole_2015_AJE.md",
     "wiki/instruments/index.md",
     "wiki/instruments",
     "wiki/concepts/educational-philosophy/Critical Thinking.md",
@@ -232,27 +248,11 @@
     "sources/Cole_2015_AJE.md",
     "sources/Cole_2015_AJE.pdf",
     "wiki/theories/curriculum/Explicit Critical Thinking Instruction.md",
-    "wiki/facts/russia/Project 5-100.md",
-    "wiki/facts/australia/Centre for Independent Studies.md",
     "wiki/arguments/journal-articles/Australian Journal of Education",
-    "wiki/arguments/journal-articles/Journal of Research on Educational Effectiveness/Argument_Wolf_2020_JREE.md",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "raw/0004944115603529 -- 7c5eb04a76ff95fed9dece7e04839c8b -- Anna’s Archive.pdf",
     "books/QiMei_2015_EducationalResearchMethods/figures/Figure_9-3_Kemmis_Spiral_Cycle.jpg",
     "books/QiMei_2015_EducationalResearchMethods/figures/Figure_Knowledge_Map.jpg",
-    "scripts/__pycache__/wiki_relations.cpython-313.pyc",
     "books/QiMei_2015_EducationalResearchMethods/figures/Figure_4-1_Concept_Map.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_5-1_Concept_Map.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_6-1_Concept_Map.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_7-1_Concept_Map.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_8-1_Concept_Map.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_9-1_Concept_Map.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_9-2_Lewin_Spiral_Cycle.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_1-1_Concept_Map.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/QiMei_2015_EducationalResearchMethods.pdf",
-    "raw/13917319_高等院校教师教育公共课教材_教育研究方法（已优化）.pdf",
-    "wiki/facts/usa",
-    "scripts/__pycache__/citation_index.cpython-313.pyc",
-    "sources/Yu_Xie_2025_JHE.pdf"
+    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_5-1_Concept_Map.jpg"
   ]
 }

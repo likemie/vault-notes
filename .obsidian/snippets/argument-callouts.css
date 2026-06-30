@@ -13331,7 +13331,17 @@
 }
 
 .callout[data-callout="instrument-profile"] > .callout-title .callout-title-inner::before {
-  content: "INSTRUMENT";
+  content: "TOOL";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.14);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
 }
 
 .callout[data-callout="instrument-profile"] > .callout-content > ul {
@@ -13390,4 +13400,13 @@
   border-color: rgba(75, 190, 186, 0.19);
   border-top-color: rgba(75, 190, 186, 0.72);
   background: rgba(75, 190, 186, 0.055);
+}
+
+.callout[data-callout="ref-table"]:has(.instrument-study-table-marker) .instrument-study-table-marker {
+  display: none;
+}
+
+.callout[data-callout="ref-table"]:has(.instrument-study-table-marker) th,
+.callout[data-callout="ref-table"]:has(.instrument-study-table-marker) td {
+  font-size: var(--fs-body);
 }
