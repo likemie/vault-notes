@@ -264,7 +264,7 @@ citation_aliases:
 > - [[Success for All]] — 五个清算中心评价该全校改革/读写项目，均未给出负面结论，但 WWC 按结果域给出从 recommended 到 mixed 的不同判断，BEE 按不同项目变体给出强/中等证据，其他机构使用的研究数量也高度不同；该案例显示结果域和项目变体会影响评级解释(p.23)。
 > - [[Peer-Assisted Learning Strategies]] — 五个清算中心对 PALS 的整体项目、阅读版本、数学版本和不同结果域给出分散判断；[[National Dropout Prevention Center|NDPC]] 推荐，Blueprints 认为 promising，WWC 随结果域变化，BEE 推荐 PALS Math，[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 不推荐任何版本；该案例突出"研究纳入集合不同"和"项目组件拆分不同"的影响(pp.23–24)。
 > - [[Quantum Opportunity Program]] — QOP 和 Eisenhower QOP 在多个清算中心中出现中度分歧：NDPC 认为 QOP promising，Blueprints 和 WWC 不认为其达到 promising；Eisenhower QOP 被 Blueprints 评为 promising，但 CMFR 不能给出 promising 评级；该案例显示项目更新版本和研究可获得性会改变评级(pp.24–25)。
-> - [[Communities in Schools]] — 五个清算中心对 [[Centre for Independent Studies|CIS]] 出现清晰分歧：NDPC 推荐，[[Promising Practices Network|PPN]] 和 [[CNCS Evidence Exchange]] 认为 promising/中等支持，Blueprints 与 CMFR 不背书；作者用该案例说明，利益相关者查询同一项目时可能遇到由标准、纳入研究和更新时间共同造成的相互冲突结论(p.25)。
+> - [[Communities in Schools]] — 五个清算中心对 [[Community Innovation Survey|CIS]] 出现清晰分歧：NDPC 推荐，[[Promising Practices Network|PPN]] 和 [[CNCS Evidence Exchange]] 认为 promising/中等支持，Blueprints 与 CMFR 不背书；作者用该案例说明，利益相关者查询同一项目时可能遇到由标准、纳入研究和更新时间共同造成的相互冲突结论(p.25)。
 
 ## 关键引用
 

@@ -138,7 +138,7 @@ updated: 2026-05-24
 ### 3. 思考与批判性思维（Thinking and Critical Thinking）
 
 > [!info]
-> 思考（thinking）是西方知识传统的核心——强调逻辑、推理、分析、综合等心智操作。批判性思维（critical thinking）在此基础上更进一步，要求质疑一切被视为理所当然的东西，包括权威和既有的知识体系([[Argument_Li_2012_Cambridge|Li, 2012, pp.121-124]])。
+> 思考（thinking）是西方知识传统的核心——强调逻辑、推理、分析、综合等心智操作。[[Critical Thinking|批判性思维]]（critical thinking）在此基础上更进一步，要求质疑一切被视为理所当然的东西，包括权威和既有的知识体系([[Argument_Li_2012_Cambridge|Li, 2012, pp.121-124]])。
 
 > [!quote]
 > Ennis（1987）将批判性思维定义为"合理的、[[Reflexivity|反思性]]的思考，专注于决定相信什么或做什么"([[Argument_Li_2012_Cambridge|Li, 2012, p.121]])。

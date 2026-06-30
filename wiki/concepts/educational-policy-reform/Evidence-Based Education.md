@@ -214,7 +214,7 @@ updated: '2026-06-17'
 > 
 > - **vs [[Value-Based Education]]** — [[Argument_Biesta_2010_SPE|Biesta (2010)]] 论证：证据本位教育将"什么有效"置于首位；价值本位教育将"什么是值得做的"置于首位
 > - **vs 循证医学（Evidence-Based Medicine, EBM）** 循证医学是 EBE 的起点与最强类比。但 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借用 Trish Greenhalgh (2014, 2015) 提出的"真实医学循证（Real EBM）"原则进行了有力反驳：真实的循证医学绝非机械照搬统计数据库，而是高度强调"为病患提供个性化的伦理关怀"、"利用专家临床经验进行诊断"、"结合病患意愿与偏好"等原则。相比之下，教育学 EBE 往往把医学简化为单一的药效 RCT 实验，抹杀了医生和教师都需要的专业临床判断力（Clinical Judgment）。此外，医学在实施 RCT 前通常已积累了丰富的生理学和药理学[[Causality|因果]]机制理论，而教育 RCT 往往是跳过因果机制的"黑箱测量"[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 6, 11)]]。
-> - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中常被忽视但不可或缺的互补性知识来源；[[Argument_Wiliam_2019|Wiliam (2019, pp.12–13)]] 以 Hayek (1945) 的知识理论为此提供政治经济学基础
+> - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中常被忽视但不可或缺的互补性知识来源；[[Argument_Wiliam_2019|Wiliam (2019, pp.12–13)]] 以 Hayek (1945) 的[[Theory of Knowledge (ToK)|知识理论]]为此提供政治经济学基础
 > - **vs [[Evidence-Informed Practice]]** — EBE 使研究证据成为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 Nelson & Campbell (2017) 系统阐述
 > - **vs [[Effect Size]]** — 效应量是 EBE 方法论的核心分析单位；Simpson 论证其测量试验灵敏度而非有效性；[[Argument_Wiliam_2019|Wiliam (2019, p.11)]] 明确断言"[[Meta-meta-analysis|元-元分析]]在教育政策制定中绝对没有任何角色"
 > - **vs [[Dynamic Knowledge and Learning Model]]** — EBE 常回答"有没有效"；动态模型进一步追问"对哪一类知识有效"，用于细化 EBE 的结果解释层

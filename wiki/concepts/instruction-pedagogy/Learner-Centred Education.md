@@ -45,7 +45,7 @@ updated: 2026-05-26
 ## 定义
 
 > [!info]
-> 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、对话教学和批判性思维的教学理念。与此相对的是以教师为中心的教学法，教师作为知识权威主导课堂。近几十年来，LCE 在全球范围内被广泛推广（Schweisfurth, 2013）。
+> 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、对话教学和[[Critical Thinking|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，教师作为知识权威主导课堂。近几十年来，LCE 在全球范围内被广泛推广（Schweisfurth, 2013）。
 
 > [!quote]
 > "LCE has been widely promoted around the globe in recent decades"([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.588]])
@@ -61,7 +61,7 @@ updated: 2026-05-26
 > - 学习内容应与学生的已有经验建立联系
 > - 课堂应包含学生之间的对话与合作
 > - 教学应尊重学生的声音和感受
-> - 课程应培养学生的批判性思维和独立思考能力
+> - 课程应培养学生的[[Critical Thinking|批判性思维]]和独立思考能力
 > - 教师角色应从知识传输者转变为学习的促进者
 > - 评估应关注学生的整体发展而非仅看考试成绩
 
@@ -90,7 +90,7 @@ updated: 2026-05-26
 
 > [!success]
 > - 在全球范围内，[[Test-Based Accountability|考试问责]]是 LCE 实施的最常见情境障碍。当固定标准评判学生时，更灵活的教育模式难以扎根（Schweisfurth, 2013）。
-> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]在中国的四所学校中发现，教师虽然认同 LCE 的价值——特别是发展批判性思维和提升学习能力——但在考试压力下，LCE 的改革热情很容易被考试成绩的追求所覆盖。仅靠引入国外的 LCE 成功经验不足以化解教师对改革可能降低考试成绩的担忧([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.596-597]])。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]在中国的四所学校中发现，教师虽然认同 LCE 的价值——特别是发展[[Critical Thinking|批判性思维]]和提升学习能力——但在考试压力下，LCE 的改革热情很容易被考试成绩的追求所覆盖。仅靠引入国外的 LCE 成功经验不足以化解教师对改革可能降低考试成绩的担忧([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.596-597]])。
 > - 在那些找到了 LCE 与学校特定考试目标之间契合点的学校中，LCE 实施取得了更实质的进展——特别是当学校需要显著提升考试成绩时，LCE 被视为不可或缺的手段，因为它能培养学生的分析能力和学习效率([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.598-600]])。
 > - 在中国语境中，LCE 被理解为主要服务于发展批判性思维和学习能力，而非培养民主社会中的积极公民或让学生参与决定学习内容——这与 Schweisfurth（2015）的 LCE 完整定义存在差异([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.601-602]])。
 

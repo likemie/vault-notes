@@ -41,7 +41,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > Learnification 是 [[Gert Biesta]] 提出的批判性概念，描述"学习"概念已失去其原有内涵，被一种高度问题化的、以效果为中心的"学习结果"（learning outcome）逻辑所吞噬的现象。该概念的核心诊断是：学习从一个具有解放潜能的术语，被改造为将教师降格为"学习促进者"（facilitators of learning）的话语机制([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2]])。
 >
-> [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 引用 Biesta 的观点指出，learnification 使教育目的被狭窄化为可测量的学习结果，同时遮蔽了教育中不可量化的维度——如品格形成、批判性思维和自主判断。
+> [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 引用 Biesta 的观点指出，learnification 使教育目的被狭窄化为可测量的学习结果，同时遮蔽了教育中不可量化的维度——如品格形成、[[Critical Thinking|批判性思维]]和自主判断。
 
 ## 历史沿革
 

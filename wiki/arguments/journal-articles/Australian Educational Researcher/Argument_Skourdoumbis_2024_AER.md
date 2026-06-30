@@ -90,7 +90,7 @@ citation_aliases:
 > 这一改革带来了重大的政策谜题：一场因全国性教师严重短缺危机而发起的政策审查，为何最终绕过了教师流失的根本原因（如过载工作量），转而将问题表征为教师培训质量缺陷？将神经科学强制列入必修课程的深层逻辑是什么？“什么有效”运动的话语策略如何通过[[Policy Network|政策网络]]进行“理念编排”，服务于特定中介组织和保守智库的私人与制度性利益？
 
 > [!claim] 核心主张
-> 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、[[Value Neutrality|价值中立]]的循证决策，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], [[Centre for Independent Studies|CIS]]）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality|因果关系]]”。
+> 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、[[Value Neutrality|价值中立]]的循证决策，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], [[Community Innovation Survey|CIS]]）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality|因果关系]]”。
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考[[Document|文献]]。
@@ -108,7 +108,7 @@ citation_aliases:
 > | **Bacchi的WPR分析法**<br>[[Bacchi's WPR Approach]] | “什么是问题表征”（What's the problem represented to be?）[[Analytic Framework\|分析框架]]（Bacchi, 2009）。通过六个递进问题审视《强劲开端》优先改革1及附录D中的核心内容规范和参考文献，解构政策如何建构问题、隐藏假设、制造沉默并产生排他性效果。 |
 
 > [!warrant]- 理论如何支撑论证
-> 批判政策社会学和WPR分析法引导我们打破对“循证改革”的盲目信任。它提供了一套解构工具：首先追踪政策文本中被界定的“问题”（即教师质量缺陷），接着寻找该界定背后的[[Epistemology|认识论假设]]（即大脑作为中性信息处理器的简化预设），然后通过“寻找沉默”暴露其剔除的历史脉络（优生学与赤字话语风险），最后把视野从文本延伸至[[Policy Network|政策网络]]，勾勒出[[Australian Education Research Organisation|AERO]]、[[Australian Institute for Teaching and School Leadership|AITSL]]、[[Centre for Independent Studies|CIS]]等网络节点如何协同垄断“有效知识”的定义权，从而把政策转化为对教师教育和教师实践的惩罚性控制。
+> 批判政策社会学和WPR分析法引导我们打破对“循证改革”的盲目信任。它提供了一套解构工具：首先追踪政策文本中被界定的“问题”（即教师质量缺陷），接着寻找该界定背后的[[Epistemology|认识论假设]]（即大脑作为中性信息处理器的简化预设），然后通过“寻找沉默”暴露其剔除的历史脉络（优生学与赤字话语风险），最后把视野从文本延伸至[[Policy Network|政策网络]]，勾勒出[[Australian Education Research Organisation|AERO]]、[[Australian Institute for Teaching and School Leadership|AITSL]]、[[Community Innovation Survey|CIS]]等网络节点如何协同垄断“有效知识”的定义权，从而把政策转化为对教师教育和教师实践的惩罚性控制。
 
 ---
 
@@ -240,7 +240,7 @@ citation_aliases:
 ### 论证步骤五：私人利益的隐形嵌入：保守智库（CIS）文献的强制消费
 
 > [!claim] 步骤五主张
-> 改革核心内容所指定的必读参考[[Document|文献]]，直接嵌入了由右翼保守主义智库（如独立研究中心 [[Centre for Independent Studies|CIS]]）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
+> 改革核心内容所指定的必读参考[[Document|文献]]，直接嵌入了由右翼保守主义智库（如独立研究中心 [[Community Innovation Survey|CIS]]）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
 
 > [!line-a] 智库意识形态的文献伪装
 > 附录D（p. 96）指定的“大脑与学习”核心参考文献中，[[Cognitive Load Theory|认知负荷理论]]（Cognitive Load Theory, [[Central Limit Theorem|CLT]]）和 [[John Sweller]] 的文献被确立为统治性的引文来源。其中强制指定了 Sweller (2021) 撰写的《为什么探究式学习有害学生学习》。该文献并非同行评审学术期刊研究，而是由右翼保守主义游说智库 [[Community Innovation Survey|CIS]] 出资赞助并出版的游说政策册子（Analysis Paper 24）。

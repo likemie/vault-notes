@@ -110,11 +110,11 @@ updated: '2026-05-18'
 
 2. **合法化功能** 全球话语的主要功能是为有争议的国内决定提供合法性保护——政府不是"从外部学习"，而是用外部话语给已决定的方案穿上"国际认可"的外衣。
 
-> 例：香港 [[Liberal Studies|LS]] 的课程设计大量引用 IBDP 的跨学科探究和[[Constructivist Paradigm|建构主义]]教学法语言。香港教育局（EDB, 2005）明确将 LS 与 IBDP 的"知识理论"（[[Epistemology|theory of knowledge]]）相类比——不是为了准确复制 [[International Baccalaureate|IB]] 模型，而是以 IB 的全球声望为这门全新必修科在教师联合会和公众批评中赋予课程合法性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]])
+> 例：香港 [[Liberal Studies|LS]] 的课程设计大量引用 IBDP 的跨学科探究和[[Constructivist Paradigm|建构主义]]教学法语言。香港教育局（EDB, 2005）明确将 LS 与 IBDP 的"[[Theory of Knowledge (ToK)|知识理论]]"（[[Epistemology|theory of knowledge]]）相类比——不是为了准确复制 [[International Baccalaureate|IB]] 模型，而是以 IB 的全球声望为这门全新必修科在教师联合会和公众批评中赋予课程合法性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]])
 
 3. **问题的社会建构**Steiner-Khamsi (2012) 揭示的核心机制——政府往往是**先确定"解决方案"（如跨学科必修科设计），再建构与之匹配的"问题"（教育体系陈旧、不适应[[Knowledge-Based Economy|知识经济]]）**。这一"方案先行、问题后建"的顺序是政策借用框架区别于"理性政策学习"模型的关键经验预测。
 
-> 例：[[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 486–487)]] 揭示了 LS 改革中这一反直觉的顺序：港府在国际顾问（如 OECD）建议之前，已内部确定了"跨学科、议题为本的必修通识科"方案；随后才在 2000 年《教育蓝图》和 2005 年《高中及高等教育新学制》[[Document|文件]]中将"问题"建构为香港教育过分侧重应试、缺乏批判性思维、无法适应知识经济需求。
+> 例：[[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 486–487)]] 揭示了 LS 改革中这一反直觉的顺序：港府在国际顾问（如 OECD）建议之前，已内部确定了"跨学科、议题为本的必修通识科"方案；随后才在 2000 年《教育蓝图》和 2005 年《高中及高等教育新学制》[[Document|文件]]中将"问题"建构为香港教育过分侧重应试、缺乏[[Critical Thinking|批判性思维]]、无法适应知识经济需求。
 
 4. **政策文本 vs 政策话语**Ochs (2005) 在 Ball (1994) 基础上区分了两种可被转移的对象——政策文本（具体书面政策内容）和政策话语（关于教育的谈论、概念化和框架化方式）。在[[Cross-National Attraction|跨国吸引]]力阶段——尚未做出实际"借用"决策之前——研究者主要关注的是话语的转移。Steiner-Khamsi (2000) 早前已警告："除非我们认识到教育转移可以涉及话语而非实践，否则我们不太可能察觉这些国际流动"（p. 181，引自 Rappleye, 2006, pp. 227, 233）。
 

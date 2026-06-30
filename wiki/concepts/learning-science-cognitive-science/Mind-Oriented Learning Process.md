@@ -47,7 +47,7 @@ updated: 2026-05-25
 ## 定义
 
 > [!info]
-> 心智导向学习过程是 Li (2012) 基于欧洲裔美国学习者词汇研究、学习者自述与课堂观察所识别的西方文化学习过程模型。该模型以心智（mind）发展为焦点，包含四个核心支柱：主动参与（active engagement）、探索与探究（exploration and inquiry）、思考与批判性思维（thinking and critical thinking）、自我表达与沟通（self-expression and communication）([[Argument_Li_2012_Cambridge|Li, 2012, p.108]])。
+> 心智导向学习过程是 Li (2012) 基于欧洲裔美国学习者词汇研究、学习者自述与课堂观察所识别的西方文化学习过程模型。该模型以心智（mind）发展为焦点，包含四个核心支柱：主动参与（active engagement）、探索与探究（exploration and inquiry）、思考与[[Critical Thinking|批判性思维]]（thinking and critical thinking）、自我表达与沟通（self-expression and communication）([[Argument_Li_2012_Cambridge|Li, 2012, p.108]])。
 
 > [!quote]
 > "Taking these elements together, European-American respondents almost unanimously (96 percent) made references to such mind-oriented learning processes. In comparison, only 68 percent of their Chinese peers did so."([[Argument_Li_2012_Cambridge|Li, 2012, p.122]])
@@ -121,7 +121,7 @@ updated: 2026-05-25
 
 **第二层：追求理解的思考**——学习者不仅要掌握知识，还要超越知识。如 Harvard Project Zero 的 David Perkins 所主张的，学习者必须能够对自己和他人解释某个概念或理论，并以有说服力的例子加以说明；提出假设以预测相关现象；将知识扩展到类似情境中去验证或生成新的思考方式([[Argument_Li_2012_Cambridge|Li, 2012, pp.117-118]])。例如：小学生理解分数后，应能解释分数的概念并向他人演示分数与小数如何相互转换；面对新问题时能够解决并用于计算实际情境如比较超市商品单价([[Argument_Li_2012_Cambridge|Li, 2012, p.118]])。
 
-**第三层：批判性思维**——被广泛定义为"专注于决定相信什么或做什么的合理而[[Reflexivity|反思性]]思考"（Ennis 定义，转引自 Li, 2012, p.118）。包含四个关键成分([[Argument_Li_2012_Cambridge|Li, 2012, pp.118-119]])：
+**第三层：[[Critical Thinking|批判性思维]]**——被广泛定义为"专注于决定相信什么或做什么的合理而[[Reflexivity|反思性]]思考"（Ennis 定义，转引自 Li, 2012, p.118）。包含四个关键成分([[Argument_Li_2012_Cambridge|Li, 2012, pp.118-119]])：
 1. 追求真理（truth seeking）：对现有知识产生怀疑并提出问题，包括挑战权威——这是西方学习者备受推崇的行为
 2. 开放心态（open-mindedness）：包容不同观点并审视自身可能的偏见
 3. 分析过程（analytical process）：严格审视证据，权衡证据与竞争信息和自身偏好，与问题解决过程紧密相连
@@ -164,7 +164,7 @@ updated: 2026-05-25
 ## 理论基础
 
 > [!tip]-
-> - [[Socratic Tutoring Style]] — [[Socrates|苏格拉底]]式追问传统为批判性思维的提问和挑战权威提供了文化原型
+> - [[Socratic Tutoring Style]] — [[Socrates|苏格拉底]]式追问传统为[[Critical Thinking|批判性思维]]的提问和挑战权威提供了文化原型
 > - [[Examined Life]] — 未经省察的生活不值得过，为探究和反思提供了哲学根基
 > - [[Mind and Its Wonders]] — 西方智力传统中对心灵力量的核心信仰
 > - [[Western Learner]] — 西方学习者模型，心智导向学习过程是该模型在过程层面的展开

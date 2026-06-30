@@ -838,6 +838,17 @@
     ]
   },
   {
+    "title": "Theory of Knowledge (ToK)",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Theory of Knowledge (ToK).md",
+    "aliases": [
+      "知识理论",
+      "TOK",
+      "Theory of Knowledge",
+      "IB Theory of Knowledge"
+    ]
+  },
+  {
     "title": "Tyler Rationale",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Tyler Rationale.md",
@@ -1014,6 +1025,17 @@
     "path": "wiki/concepts/educational-philosophy/Complexity Reduction.md",
     "aliases": [
       "复杂性缩减"
+    ]
+  },
+  {
+    "title": "Critical Thinking",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Critical Thinking.md",
+    "aliases": [
+      "批判性思维",
+      "CT",
+      "critical thinking skills",
+      "critical thinking dispositions"
     ]
   },
   {
@@ -7198,6 +7220,17 @@
     ]
   },
   {
+    "title": "Explicit Critical Thinking Instruction",
+    "type": "theory",
+    "path": "wiki/theories/curriculum/Explicit Critical Thinking Instruction.md",
+    "aliases": [
+      "显性批判性思维教学",
+      "stand-alone critical thinking instruction",
+      "explicit instruction of critical thinking",
+      "direct critical thinking instruction"
+    ]
+  },
+  {
     "title": "Coupling Coordination Theory",
     "type": "theory",
     "path": "wiki/theories/education-economics/Coupling Coordination Theory.md",
@@ -10851,8 +10884,7 @@
     "type": "fact",
     "path": "wiki/facts/australia/Centre for Independent Studies.md",
     "aliases": [
-      "澳大利亚独立研究中心",
-      "CIS"
+      "澳大利亚独立研究中心"
     ]
   },
   {
@@ -13645,6 +13677,11 @@
     "title": "Argument_Skourdoumbis_2024_AER",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Australian Educational Researcher/Argument_Skourdoumbis_2024_AER.md"
+  },
+  {
+    "title": "Argument_Cole_2015_AJE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Australian Journal of Education/Argument_Cole_2015_AJE.md"
   },
   {
     "title": "Argument_OConnor_2020_AJLL",

@@ -372,7 +372,7 @@ citation_aliases:
 > - **分析范围**。并非对[[Recontextualization|再脉络化]]原则的完整分析，而是揭示了一种持续的折衷方法——试图将[[Epistemology|认识论]]、理论和思想差异很大的各种取向整合在一起。例如，[[Mātauranga Māori|毛利知识体系]]的核心关切与课程声称已转向关注学习进步和增长之间存在潜在的[[Ontology|本体论]]和认识论张力，教师如何处理这种张力仍有待观察。
 > - **方法论说明**。分析使用了基于 Bratland 和 El Ghami (2022) 为挪威课程改革研究开发的分析量规，该量规基于 [[Curriculum Design Coherence Model|CDCM]] 的原则。作者主要借鉴了模型的关键原则，而非其具体设计细节。
 > - **未来分析**。未来的分析可以进一步追问：
->   - 课程改革是否真正以公认的知识理论为基础（如 [[Johan Muller]], 2009; [[Gilbert Ryle]], 1946; Winch, 2013）？
+>   - 课程改革是否真正以公认的[[Theory of Knowledge (ToK)|知识理论]]为基础（如 [[Johan Muller]], 2009; [[Gilbert Ryle]], 1946; Winch, 2013）？
 >   - 市场新自由主义和工具主义的影响是否已被显著削弱？
 >   - 在课程的实际制定中，地方化与国家化孰占主导？
 
