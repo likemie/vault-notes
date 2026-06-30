@@ -972,6 +972,30 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                 if isinstance(alias, str) and alias_is_single_english_family(alias):
                     issues.append(Issue("WARN", rel(path), f"person alias should not be a single English family name: {alias!r}", line=frontmatter_line_number(fm, "aliases"), code="PERSON_ALIAS_SINGLE_FAMILY"))
 
+    if typ == "instrument":
+        allowed_instrument_types = {
+            "scale",
+            "questionnaire",
+            "test",
+            "inventory",
+            "rubric",
+            "checklist",
+            "observation-tool",
+            "interview-tool",
+            "other",
+        }
+        instrument_type = data.get("instrument_type")
+        if instrument_type not in allowed_instrument_types:
+            issues.append(
+                Issue(
+                    "ERROR",
+                    rel(path),
+                    f"instrument_type must be one of {sorted(allowed_instrument_types)}: {instrument_type!r}",
+                    line=frontmatter_line_number(fm, "instrument_type"),
+                    code="INSTRUMENT_TYPE_INVALID",
+                )
+            )
+
     if is_citation_eligible_argument(data):
         for field in ["year", "citation_aliases"]:
             if field not in data or data.get(field) in (None, "", []):
@@ -1309,6 +1333,38 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
             issues.append(Issue("ERROR", rel(path), "concept template must include the mandatory conditional ## 实证数据 section", code="TEMPLATE_CONCEPT_EMPIRICAL_SECTION"))
         if "[!ref-table]" not in body:
             issues.append(Issue("ERROR", rel(path), "concept template must include the general empirical-data table", code="TEMPLATE_CONCEPT_EMPIRICAL_TABLE"))
+    if typ == "instrument":
+        instrument_fields = [
+            "instrument_type",
+            "developers",
+            "original_year",
+            "languages",
+            "item_count",
+            "administration_mode",
+            "response_format",
+            "license",
+        ]
+        for field in instrument_fields:
+            if field not in data:
+                issues.append(Issue("ERROR", rel(path), f"instrument template missing field: {field}", code="TEMPLATE_INSTRUMENT_FIELD_MISSING"))
+        instrument_sections = [
+            "工具定位",
+            "测量构念与维度",
+            "版本与适配",
+            "题项与作答方式",
+            "计分与解释",
+            "测量属性",
+            "实施条件",
+            "获取、授权与引用",
+            "适用边界",
+            "使用该工具的研究",
+        ]
+        for section in instrument_sections:
+            if f"## {section}" not in body:
+                issues.append(Issue("ERROR", rel(path), f"instrument template missing section: ## {section}", code="TEMPLATE_INSTRUMENT_SECTION_MISSING"))
+        for callout in ["[!ref-table]", "[!instrument-scoring]", "[!instrument-access]"]:
+            if callout not in body:
+                issues.append(Issue("ERROR", rel(path), f"instrument template missing required callout: {callout}", code="TEMPLATE_INSTRUMENT_CALLOUT_MISSING"))
     if typ in {"concept", "theory", "method", "instrument", "person", "fact"}:
         if "aliases" not in data:
             issues.append(Issue("WARN", rel(path), f"{typ} template should include aliases", code="TEMPLATE_ALIASES_MISSING"))
