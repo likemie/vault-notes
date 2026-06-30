@@ -11,7 +11,7 @@ aliases:
 summary: "指国家在科研与技术发展中追求自主自足、减少对外部人力资本、资金与合作的依赖，并在技术主权与孤立化成本之间寻求平衡的政策与战略导向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
   - higher-education
 related_concepts:
   - "[[Academic Freedom]]"
+  - "[[Megascience Installations]]"
 related_arguments:
   - "[[Argument_Dezhina_2022_ECO]]"
 confidence: medium
@@ -55,7 +56,7 @@ updated: '2026-06-26'
 > - **双重过程的动态平衡** 科学自给自足政策面临双重任务的博弈：一方面是确保本国关键技术（如国防及双重用途技术）的自主掌控；另一方面是必须维持双向信息流以防止系统性停滞 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 37)]]。
 > - **人员循环阻滞与本地化替代** 表现为国际流动人才循环的非对等化（如本国人才流向发达国家，而引入人才多局限于学术水平相对落后地区），进而被迫采取限制外籍专家与强化本国人才考核的本土化导向 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。
 > - **资金渠道单一化与行政规制强化** 伴随外国科学基金会的退出和国家竞争性资助的合并，科研资助渠道趋于垄断，并通过法案或行政指令对国际合作施加严密的监督与合同审查 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 45–46)]]。
-> - **大科学装置的本土自主化** 在传统上依靠国际多边联合出资的大型科学研究设施（Megascience installations）建设中，倾向于转由本国财政独立负担以获得完全的所有权与控制权 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 48–49)]]。
+> - **[[Megascience Installations|大科学装置]]的本土自主化** 在传统上依靠国际多边联合出资的大型科学研究设施（Megascience installations）建设中，倾向于转由本国财政独立负担以获得完全的所有权与控制权 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 48–49)]]。
 
 ---
 
@@ -112,4 +113,4 @@ updated: '2026-06-26'
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 分析了俄罗斯科学界在学者循环、资助集中化以及大科学装置本土独立化过程中所显现的自给自足趋势及制度代价。
+> - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 分析了俄罗斯科学界在学者循环、资助集中化以及[[Megascience Installations|大科学装置]]本土独立化过程中所显现的自给自足趋势及制度代价。

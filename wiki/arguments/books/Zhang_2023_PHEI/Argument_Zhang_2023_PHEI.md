@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer]]"
   - "[[Emergence]]"
+  - "[[Megascience Installations]]"
   - "[[Innovation Park]]"
   - "[[Evaluation Research]]"
   - "[[International Education]]"
@@ -362,7 +363,7 @@ updated: 2026-06-11
 > [!line-a] 其他七市特点
 > > [!features] 七市数据
 > > - **佛山** 以季华实验室为龙头（固定研发人员630人/博士230/院士10余名/领军人才32名），依托中科院长春光机所、微电子所、清华、复旦等建设。仙湖实验室由武汉理工主建，清华、浙大、南大、西安交大共建，10家氢能骨干企业战略合作。省级新型研发机构24家，803家省级以上工程技术研发中心
-> > - **东莞** 中国散裂中子源（世界第4台脉冲型，一期含3条中子谱仪），松山湖材料实验室（前沿研究+公共技术平台+大科学装置+创新样板工厂四板块），新型研发机构33家，孵化器118家（国家级25家），高新企业6385家，双聘院士16名
+> > - **东莞** 中国散裂中子源（世界第4台脉冲型，一期含3条中子谱仪），松山湖材料实验室（前沿研究+公共技术平台+[[Megascience Installations|大科学装置]]+创新样板工厂四板块），新型研发机构33家，孵化器118家（国家级25家），高新企业6385家，双聘院士16名
 > > - **珠海** R&D占GDP 3.26%全省第三，每万人口发明专利93.9件全省第二。国家级工程技术研究中心4家、省级284家。国家级企业技术中心8家，新型研发机构35家（省级16家）
 > > - **惠州** R&D占GDP 3.0%，有效发明专利8612件。加速器驱动嬗变研究装置、强流重离子加速器装置稳步推进。孵化器44家（国家级7家），高新企业1628家
 > > - **中山** 光子科学中心，中国科学院药物创新研究院中山研究院。省级企业重点实验室7家，省级工程技术研究中心352家，国家企业技术中心5家。高新企业2294家，规上工业企业研发机构覆盖率超40%

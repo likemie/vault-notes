@@ -1292,6 +1292,11 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
             issues.append(Issue("WARN", rel(path), "argument template should include sources field", code="TEMPLATE_ARGUMENT_SOURCES_MISSING"))
         if "## 来源" not in body and "## Sources" not in body:
             issues.append(Issue("WARN", rel(path), "argument template missing ## 来源 / ## Sources section", code="TEMPLATE_ARGUMENT_SOURCE_SECTION"))
+    if typ == "concept":
+        if "## 实证数据" not in body:
+            issues.append(Issue("ERROR", rel(path), "concept template must include the mandatory conditional ## 实证数据 section", code="TEMPLATE_CONCEPT_EMPIRICAL_SECTION"))
+        if "[!ref-table]" not in body:
+            issues.append(Issue("ERROR", rel(path), "concept template must include the general empirical-data table", code="TEMPLATE_CONCEPT_EMPIRICAL_TABLE"))
     if typ in {"concept", "theory", "method", "person", "fact"}:
         if "aliases" not in data:
             issues.append(Issue("WARN", rel(path), f"{typ} template should include aliases", code="TEMPLATE_ALIASES_MISSING"))

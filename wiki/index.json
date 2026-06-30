@@ -3649,6 +3649,18 @@
     ]
   },
   {
+    "title": "Asymmetric Brain Circulation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Asymmetric Brain Circulation.md",
+    "aliases": [
+      "非对称人才循环",
+      "非对称智力循环",
+      "Asymmetric Talent Circulation",
+      "Asymmetric Brain Drain",
+      "不对等人才循环"
+    ]
+  },
+  {
     "title": "Classical Geopolitics",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
@@ -3966,6 +3978,18 @@
       "知识经济",
       "知识型经济",
       "KBE"
+    ]
+  },
+  {
+    "title": "Megascience Installations",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Megascience Installations.md",
+    "aliases": [
+      "大科学装置",
+      "Megascience Facilities",
+      "Megascience projects",
+      "大型科研基础设施",
+      "Megascience"
     ]
   },
   {
@@ -12311,6 +12335,30 @@
       "РНФ и РФФИ",
       "Consolidation of Russian Scientific Funds",
       "国家竞争性基金的行政垄断化整合"
+    ]
+  },
+  {
+    "title": "Federal Law No. 121-FZ on Foreign Agents",
+    "type": "fact",
+    "path": "wiki/facts/russia/Federal Law No. 121-FZ on Foreign Agents.md",
+    "aliases": [
+      "第121-FZ号外国代理人法",
+      "俄罗斯外国代理人法",
+      "Федеральный закон № 121-ФЗ",
+      "Foreign Agent Law",
+      "Federal Law No. 121-FZ"
+    ]
+  },
+  {
+    "title": "Federal Law No. 129-FZ on Undesirable Organizations",
+    "type": "fact",
+    "path": "wiki/facts/russia/Federal Law No. 129-FZ on Undesirable Organizations.md",
+    "aliases": [
+      "第129-FZ号非友好组织法",
+      "第129-FZ号不受欢迎组织法",
+      "俄罗斯非友好组织法",
+      "Федеральный закон № 129-ФЗ",
+      "Federal Law No. 129-FZ"
     ]
   },
   {
