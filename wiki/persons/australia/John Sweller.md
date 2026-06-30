@@ -29,8 +29,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Strong Beginnings Report]]"
-  - "[[Centre for Independent Studies]]"
   - "[[Community Innovation Survey]]"
+  - "[[Centre for Independent Studies]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
@@ -65,7 +65,7 @@ updated: 2026-06-16
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **2021** 受澳大利亚保守智库独立研究中心（[[Centre for Independent Studies|CIS]]）资助并出版了政策分析报告《为什么探究式学习有害学生学习》（Sweller, 2021），为[[Policy Network|政策网络]]攻击进步主义教学法提供了学术弹药。
+> - **2021** 受澳大利亚保守智库独立研究中心（[[Community Innovation Survey|CIS]]）资助并出版了政策分析报告《为什么探究式学习有害学生学习》（Sweller, 2021），为[[Policy Network|政策网络]]攻击进步主义教学法提供了学术弹药。
 > - **2023** 其学术贡献和[[Community Innovation Survey|CIS]]出版物被强制嵌入澳大利亚联邦政府《强劲开端》教师教育专家小组报告，成为全国职前教师培训的标准教材之一。
 
 ---
@@ -73,7 +73,7 @@ updated: 2026-06-16
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2021 — *Why inquiry-based approaches harm students' learning***：受保守智库独立研究中心（[[Centre for Independent Studies|CIS]]）资助发表的分析报告。该报告从[[Cognitive Load Theory|认知负荷理论]]出发，论证了对于新手学习者而言，探究式和自主学习因过度占用[[Working Memory|工作记忆]]而对学习产生负面影响，主张回归以教师为主导的[[Direct Instruction|直接教学]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
+> - **2021 — *Why inquiry-based approaches harm students' learning***：受保守智库独立研究中心（[[Community Innovation Survey|CIS]]）资助发表的分析报告。该报告从[[Cognitive Load Theory|认知负荷理论]]出发，论证了对于新手学习者而言，探究式和自主学习因过度占用[[Working Memory|工作记忆]]而对学习产生负面影响，主张回归以教师为主导的[[Direct Instruction|直接教学]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
 
 ---
 
@@ -92,7 +92,7 @@ updated: 2026-06-16
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **机构／运动／项目**[[Centre for Independent Studies]] — 合作关系，Sweller 担任该保守智库的学者，其多项政策倡议及报告由 [[Centre for Independent Studies|CIS]] 资助、出版并予以游说推广；[[Education Endowment Foundation]] — 推广关系，其[[Cognitive Load Theory|认知负荷理论]]被英国 EEF 广泛采纳并写入其全球教学工具箱中；[[Strong Beginnings Report]] — 政策嵌入，其著作被该报告附录D列为全国职前教师核心认证课程的必读[[Document|文献]]。
+> - **机构／运动／项目**[[Centre for Independent Studies]] — 合作关系，Sweller 担任该保守智库的学者，其多项政策倡议及报告由 [[Community Innovation Survey|CIS]] 资助、出版并予以游说推广；[[Education Endowment Foundation]] — 推广关系，其[[Cognitive Load Theory|认知负荷理论]]被英国 EEF 广泛采纳并写入其全球教学工具箱中；[[Strong Beginnings Report]] — 政策嵌入，其著作被该报告附录D列为全国职前教师核心认证课程的必读[[Document|文献]]。
 
 ---
 
@@ -101,5 +101,5 @@ updated: 2026-06-16
 > [!tension] 争议焦点
 > - **争议对象** 其认知科学模型在教育政策中的普适性，以及其著作背后的智库意识形态倾向。
 > - **批评立场** 批判政策社会学家与[[Progressive Education|进步主义教育]]学者（如 Skourdoumbis & Rowe, 2024）指出，Sweller 的理论将复杂的、情境化的教育活动约化为脑部内部的机械信息处理，剥离了社会学与关系性维度。
-> - **证据依据** 其 [[Centre for Independent Studies|CIS]] 资助的研究《为什么探究式学习有害学生学习》（Sweller, 2021）并非同行评审学术[[Document|文献]]，而是由保守派智库出资并带有明确党派色彩的游说手册，其强制列为必修被质疑为私人和智库利益对公共教师教育的侵蚀与“[[Policy Network|理念编排]]”。
+> - **证据依据** 其 [[Community Innovation Survey|CIS]] 资助的研究《为什么探究式学习有害学生学习》（Sweller, 2021）并非同行评审学术[[Document|文献]]，而是由保守派智库出资并带有明确党派色彩的游说手册，其强制列为必修被质疑为私人和智库利益对公共教师教育的侵蚀与“[[Policy Network|理念编排]]”。
 > - **回应或余留问题** Sweller 的理论支持者强调其理论具有坚实的量化心理学实验证据支持；而批评者则认为，其在政策层面的垄断和强制消费侵犯了大学教师教育者的学术与课程自主权。

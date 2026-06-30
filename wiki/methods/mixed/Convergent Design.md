@@ -31,6 +31,7 @@ related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Construct]]"
   - "[[Sample Size Determination]]"
+  - "[[Critical Thinking]]"
   - "[[Integration in Mixed Methods]]"
 related_theories: []
 related_methods:
@@ -45,9 +46,11 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cole_2015_AJE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -169,7 +172,7 @@ updated: 2026-06-30
 
 > [!example]
 > - Argument_Classen_2007_CreswellExample — 对全国车祸数据集（量化）进行二次分析，同时对六项[[Qualitative Research|质性研究]]进行[[Meta-meta-analysis|元综合]]，将两组结果合并比较以制定老年驾驶员安全促进模型([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.137]])。
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 通过三个阶段同时收集量化和质性数据：阶段一全国 ToK 学生在线调查（CTSS+MSLQ, n=1,338）、阶段二四校案例研究（访谈、焦点小组、课堂观察）、阶段三 DP 与非 DP 大学新生比较（CCTDI+ASC+ATAR, n=389），三组结果合并比较以检验 IB ToK 课程与批判性思维技能发展的关系。
+> - [[Argument_Cole_2015_AJE|David R Cole et al. (2015)]] — 通过三个阶段同时收集量化和质性数据：阶段一全国 ToK 学生在线调查（CTSS+MSLQ, n=1,338）、阶段二四校[[Case Study|案例研究]]（访谈、焦点小组、课堂观察）、阶段三 DP 与非 DP 大学新生比较（CCTDI+ASC+ATAR, n=389），三组结果合并比较以检验 [[International Baccalaureate|IB]] ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系。
 
 ---
 

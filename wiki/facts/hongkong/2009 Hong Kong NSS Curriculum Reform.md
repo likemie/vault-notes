@@ -24,7 +24,9 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Lifelong Learning]]"
+  - "[[Critical Thinking]]"
   - "[[Rote Learning]]"
+  - "[[Theory of Knowledge (ToK)]]"
   - "[[Examination-Oriented Education]]"
 related_theories: []
 related_methods: []
@@ -53,7 +55,7 @@ updated: '2026-06-07'
 > [!abstract] 核心内容
 > 改革将英式 3+2+2+3 学制（三年初中、两年高中、两年大学预科、三年大学）转为 3+3+4 学制（三年初中、三年高中、四年大学）。所有学生接受六年中学教育，统一参加香港中学文凭考试（Hong Kong Diploma of Secondary Education, HKDSE），取代此前的两套入学考试制度。
 >
-> 通识教育科（[[Liberal Studies|LS]]）被设计为新高中课程的核心必修科，旨在培养批判性思维、沟通能力和[[Lifelong Learning|终身学习]]技能，回应教育体制长期存在的过度依赖教科书和[[Rote Learning|死记硬背]]的问题([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 484–485]])。
+> 通识教育科（[[Liberal Studies|LS]]）被设计为新高中课程的核心必修科，旨在培养[[Critical Thinking|批判性思维]]、沟通能力和[[Lifelong Learning|终身学习]]技能，回应教育体制长期存在的过度依赖教科书和[[Rote Learning|死记硬背]]的问题([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 484–485]])。
 
 ---
 
@@ -76,7 +78,7 @@ updated: '2026-06-07'
 >
 > **"过剩教师"问题**。学制改革导致原来的大学预科选修科目被取消或重组，教授这些科目（经济及公共事务、政府与公共行政、社会教育、综合人文、科学与技术）的教师面临失业风险。[[Liberal Studies|LS]] 的设计恰好可以吸收这批教师，因为 LS 没有单一学科基础、不需要学科专业训练，教育当局通过短期工作坊培训即可。许多原本教授被取消选修科的教师通过转教 LS 保留了职位（Yan, 2021, 引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]]）。
 >
-> **课程参照**。LS 的设计大量参照了[[International Baccalaureate|国际文凭]]大学预科课程（IBDP），包括其他学习经历（对应 CAS）、知识理论（对应 TOK）和独立专题探究（对应延伸论文）。港府还邀请剑桥大学 Mary James 教授担任课程发展议会海外委员，为改革提供国际背书([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])。
+> **课程参照**。LS 的设计大量参照了[[International Baccalaureate|国际文凭]]大学预科课程（IBDP），包括其他学习经历（对应 CAS）、[[Theory of Knowledge (ToK)|知识理论]]（对应 TOK）和独立专题探究（对应延伸论文）。港府还邀请剑桥大学 Mary James 教授担任课程发展议会海外委员，为改革提供国际背书([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])。
 
 ---
 

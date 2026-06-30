@@ -12,6 +12,7 @@ tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Analytic Framework]]"
+  - "[[Critical Thinking]]"
   - "[[Self-Entrepreneur]]"
   - "[[Governmentality]]"
 related_theories: []
@@ -52,7 +53,7 @@ updated: 2026-05-21
 > [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.253-254, 264-265)]]将话语性机会结构概念用于分析 21 世纪 [[Single-Case Design|SCD]] 如何作为（新）[[Geopolitics of Knowledge|知识地缘政治]]的治理工具运作：
 
 SCD 话语通过界定"未来所需的关键技能"，塑造了个体在全球高等教育中的话语性机会结构——它决定了：
-- 哪些能力被视为"有价值"的（如批判性思维、创造力、协作、沟通），哪些被边缘化
+- 哪些能力被视为"有价值"的（如[[Critical Thinking|批判性思维]]、创造力、协作、沟通），哪些被边缘化
 - 个体应如何理解自身与劳动市场的关系（作为需持续更新技能的[[Self-Entrepreneur|自我企业家]]）
 - 什么样的教育轨迹被视为"成功"（与全球竞争性劳动市场对接的）
 

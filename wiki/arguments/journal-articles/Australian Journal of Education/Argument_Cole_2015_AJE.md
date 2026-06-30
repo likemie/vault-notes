@@ -124,13 +124,13 @@ journal: "Australian Journal of Education"
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
->     A["显性 vs 隐性<br>CT 教学争论"]
->     B["ToK 作为显性<br>CT 教学的案例"]
->     C["阶段一：<br>Y11 vs Y12<br>横断比较"]
->     D["阶段二：<br>四校案例<br>实施差异"]
->     E["阶段三：<br>DP vs 非DP<br>大学新生"]
->     F{"ToK/DP<br>有效吗？"}
->     G["结论：显性<br>CT 教学有<br>积极效果"]
+>     A["显性 vs 隐性 CT 教学争论"]
+>     B["ToK 作为显性 CT 教学案例"]
+>     C["Y11 vs Y12 横断比较"]
+>     D["四校案例 实施差异"]
+>     E["DP vs 非DP 大学新生比较"]
+>     F{"ToK/DP 有效?"}
+>     G["显性 CT 教学有积极效果"]
 >
 >     A --> B
 >     B --> C

@@ -22,6 +22,7 @@ tags:
 - region/china
 - level/k12
 related_concepts:
+  - "[[Critical Thinking]]"
   - "[[Zhonghua Minzu]]"
   - "[[One Country, Two Systems]]"
   - "[[Filial Piety]]"
@@ -52,7 +53,7 @@ updated: '2026-05-25'
 ## 定义
 
 > [!info] 定义
-> 公民与社会发展科（Citizenship and Social Development, CSD）是 2021 年 9 月起取代通识教育科（[[Liberal Studies|LS]]）的香港高中必修科目。与 LS 相比，CSD 在课程内容、教学方法和评估方式上进行了根本性重构，将课程核心从批判性思维和多角度探究转向爱国主义、国家认同和守法意识。
+> 公民与社会发展科（Citizenship and Social Development, CSD）是 2021 年 9 月起取代通识教育科（[[Liberal Studies|LS]]）的香港高中必修科目。与 LS 相比，CSD 在课程内容、教学方法和评估方式上进行了根本性重构，将课程核心从[[Critical Thinking|批判性思维]]和多角度探究转向爱国主义、国家认同和守法意识。
 >
 > > "The replacement turned the curriculum from one encouraging critical analysis of multiple perspectives into one centred on patriotism and national security."（基于 Yan & Morris, 2025, pp. 490–491）
 
@@ -63,7 +64,7 @@ updated: '2026-05-25'
 
 | 维度 | [[Liberal Studies\|LS]] (2009–2021) | CSD (2021–) |
 |------|---------------|------------|
-| **课程核心** | 批判性思维、多角度分析 | 爱国主义、国家认同、守法教育 |
+| **课程核心** | [[Critical Thinking\|批判性思维]]、多角度分析 | 爱国主义、国家认同、守法教育 |
 | **教科书** | 豁免教育局评审，教师自主选材 | 教育局评审，政府控制内容 |
 | **独立探究** | IES（独立专题探究，学生自主选题和方法） | 内地考察团（取代 IES） |
 | **知识观** | 知识是情境化、跨学科、个人和社会建构的 | 知识以国家视角为预设框架 |
@@ -111,7 +112,7 @@ updated: '2026-05-25'
 
 ## 争议与评论
 
-> [!warning] 批判性思维的终结？从多角度分析到爱国守法
+> [!warning] [[Critical Thinking|批判性思维]]的终结？从多角度分析到爱国守法
 > **争议背景** 从 [[Liberal Studies|LS]] 到 CSD 的转变被广泛视为香港课程中批判性思维培养的实质性终止。LS 的官方课程目标包括"多角度分析"、"批判性思维"和"独立探究"；CSD 的课程目标将其替换为"爱国守法"、"国家认同"和"正面认识祖国发展"。
 >
 > **各方立场**

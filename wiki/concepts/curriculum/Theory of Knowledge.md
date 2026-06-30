@@ -1,16 +1,17 @@
 ---
-title: Theory of Knowledge (ToK)
+title: Theory of Knowledge
 aliases:
-  - 知识理论
   - TOK
-  - Theory of Knowledge
+  - Theory of Knowledge (ToK)
   - IB Theory of Knowledge
-summary: "IB 文凭项目的核心必修科目（100 小时），一门不教授固定知识内容、而是要求学生反思知识本质和思维过程的批判性思维课程。"
+  - 知识论
+  - 知识理论
+summary: IB 文凭项目的核心必修科目（100 小时），一门不教授固定知识内容、而是要求学生反思知识本质和思维过程的批判性思维课程。
 type: concept
-domain: "curriculum"
+domain: curriculum
 related_count: 0
 related_level: 0
-related_stars: "☆"
+related_stars: ☆
 related_color: "#e5e7eb"
 tags:
   - theme/critical-thinking
@@ -29,14 +30,14 @@ created: 2026-06-30
 updated: 2026-06-30
 ---
 
-# Theory of Knowledge (ToK)
+# Theory of Knowledge
 
 ---
 
 ## 定义
 
 > [!def] 核心定义
-> 知识理论（[[Epistemology|theory of knowledge]], ToK）是[[International Baccalaureate|国际文凭]]（International Baccalaureate, IB）文凭项目（Diploma Program, DP）的三项核心必修要素之一，是一门 100 小时的大学预科认识论课程。根据 IB 的官方描述，ToK 是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程，而非学习特定知识体系。它在 DP 中扮演特殊角色，为学生提供反思知识本质、在知识领域之间建立联系、并意识到自身视角以及他们共享知识的不同群体的视角的机会"（IBO, 2014, p. 1）。
+> 知识论（[[Epistemology|theory of knowledge]], ToK）是[[International Baccalaureate|国际文凭]]（International Baccalaureate, IB）文凭项目（Diploma Program, DP）的三项核心必修要素之一，是一门 100 小时的大学预科认识论课程。根据 IB 的官方描述，ToK 是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程，而非学习特定知识体系。它在 DP 中扮演特殊角色，为学生提供反思知识本质、在知识领域之间建立联系、并意识到自身视角以及他们共享知识的不同群体的视角的机会"（IBO, 2014, p. 1）。
 
 > [!concept-lens] 概念透镜
 > - **含义** ToK 不是一门教授固定课程内容的科目，而是一门要求学生思考"我们如何知道我们所知道的"的元认知课程。它围绕知识问题（knowledge problems）展开，要求学生形成关于知识本质的连贯观点。

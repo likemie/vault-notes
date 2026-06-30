@@ -34,7 +34,7 @@ related_persons:
   - "[[Lev Vygotsky]]"
 related_facts:
   - "[[OECD]]"
-  - "[[Centre for Independent Studies]]"
+  - "[[Community Innovation Survey]]"
   - "[[Education Endowment Foundation]]"
   - "[[Australian Education Research Organisation]]"
 related_arguments:
@@ -102,7 +102,7 @@ updated: 2026-06-16
 > 2. **[[Screening Off|屏蔽]]历史局限与优生学阴影**：政策文本在强推基于大脑和认知负荷的科学话语时，系统性地对脑科学历史上曾与优生学（Eugenics）和心智测量歧视绑定的黑历史保持沉默，也完全忽视了[[OECD]]（2002, 2007）关于“神经科学绝非教育万能药”的严肃警告（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 7]])）。
 
 > [!tension] 政策工具化与智库的[[Policy Network|理念编排]]
-> 在当前的教育治理中，CLT 被英澳等国的保守智库（如[[Centre for Independent Studies|CIS]]）和官方证据中介（如[[Education Endowment Foundation|EEF]]、[[Australian Education Research Organisation|AERO]]）高度工具化。
+> 在当前的教育治理中，CLT 被英澳等国的保守智库（如[[Community Innovation Survey|CIS]]）和官方证据中介（如[[Education Endowment Foundation|EEF]]、[[Australian Education Research Organisation|AERO]]）高度工具化。
 > 
 > Sweller 的学术文章（如 Sweller, 2021）被用作意识形态斗争的“科学武器”，用以在全国教师教育大纲中强行确立“明确教学”的绝对霸权，并禁止大学教授更具[[Reflexivity|反思性]]或以学生为中心的教学法。这种用硬性政策指令强加单一科学学派的做法，极大地边缘化了大学里的教师教育者（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])）。
 

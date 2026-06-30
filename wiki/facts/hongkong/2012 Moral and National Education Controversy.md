@@ -19,7 +19,8 @@ tags:
 - curriculum-controversy
 - national-identity
 - region/china
-related_concepts: []
+related_concepts:
+  - "[[Critical Thinking]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -43,7 +44,7 @@ updated: '2026-05-18'
 
 > [!note]- 经过
 > - **2012 年初** — 特区政府公布 MNE 课程指引，建议中小学于 2012-2013 学年开始引入该科目
-> - **2012 年 7-8 月** — 学生团体（以学民思潮为首）发起大规模抗议运动，包括占领政府总部外广场和绝食抗议。抗议者担心 MNE 会成为"洗脑"工具，压制学生的批判性思维和多元视角
+> - **2012 年 7-8 月** — 学生团体（以学民思潮为首）发起大规模抗议运动，包括占领政府总部外广场和绝食抗议。抗议者担心 MNE 会成为"洗脑"工具，压制学生的[[Critical Thinking|批判性思维]]和多元视角
 > - **2012 年 9 月** — 面对持续的抗议，特区政府做出重大让步：将 MNE 的实施从强制改为自愿，并实质上搁置了该政策
 
 ## 对通识教育科的影响

@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Sage]]"
   - "[[Knowledge Production]]"
+  - "[[Critical Thinking]]"
   - "[[Four Sprouts]]"
   - "[[The Great Learning]]"
   - "[[Chinese Learner]]"
@@ -119,7 +120,7 @@ updated: 2026-06-02
 
 > [!warning]
 > - **与现代科学教育的张力** 儒家传统以[[Self-Cultivation|修身]]为首要目的，而现代教育以[[Knowledge Production|知识生产]]和技术创新为核心。Li 指出，中国对西方科学技术的百年学习并未取代儒家的学习价值观——两者以[[Take the World Upon Oneself|以天下为己任]]（救國救民）的框架共存，但其深层张力仍在([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
-> - **亚洲学习者刻板印象** Li 警告不要将东亚学习者简单地标签化为服从、缺乏批判性思维或沉默被动。[[Action Better Than Words|行勝於言]]的传统被西方观察者严重误解——沉默不等于不投入([[Argument_Li_2012_Cambridge|Li, 2012, pp.52-53]])
+> - **亚洲学习者刻板印象** Li 警告不要将东亚学习者简单地标签化为服从、缺乏[[Critical Thinking|批判性思维]]或沉默被动。[[Action Better Than Words|行勝於言]]的传统被西方观察者严重误解——沉默不等于不投入([[Argument_Li_2012_Cambridge|Li, 2012, pp.52-53]])
 > - **[[Civil Service Examination|科举制度]]的功利化**：尽管科举的理想是将道德成就与学术学习结合，但许多学者更多地被物质回报驱动——功利化倾向一直是对儒家学习传统的内部腐蚀([[Argument_Li_2012_Cambridge|Li, 2012, pp.47-48]])
 
 ---

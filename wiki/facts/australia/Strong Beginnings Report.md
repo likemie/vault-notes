@@ -38,6 +38,7 @@ related_facts:
   - "[[Teacher Education Ministerial Advisory Group]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Australian Education Research Organisation]]"
+  - "[[Community Innovation Survey]]"
   - "[[Centre for Independent Studies]]"
   - "[[Educational Services Australia]]"
 related_arguments:
@@ -119,7 +120,7 @@ updated: 2026-06-16
 > [!tension] 争议焦点
 > - **目标争议：回避工作量危机** 政策名义上回应教师短缺危机，但对 [[Australian Institute for Teaching and School Leadership|AITSL]] 调查中教师指出的最大流失原因——过重工作量保持沉默，反而病理化教师教育质量。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]])
 > - **工具争议：标准化与回应性教学冲突** 强制推行高度标准化的“脑科学”指令课程，与政策文本同时要求学生学习根据情境和文化提供“回应性教学”在逻辑和智识上是自我冲突的。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 6]])
-> - **执行争议：保守智库游说与意识形态俘获** 强制指定的参考[[Document|文献]]中包含由右翼保守智库 [[Centre for Independent Studies|CIS]] 资助、且未经双盲评审的文献（Sweller, 2021），这使得私人利益在“中性科学”话语下完成了对公共教育大纲的隐形嵌入。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
+> - **执行争议：保守智库游说与意识形态俘获** 强制指定的参考[[Document|文献]]中包含由右翼保守智库 [[Community Innovation Survey|CIS]] 资助、且未经双盲评审的文献（Sweller, 2021），这使得私人利益在“中性科学”话语下完成了对公共教育大纲的隐形嵌入。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
 > - **价值争议：生物决定论的优生学历史风险** 政策将大脑视为中性硬件进行生物简化主义处理，忽视了教育史上生物决定论和缺陷大脑话语往往与优生学、社会达尔文主义及隐性种族主义紧密交织的惨重历史教训。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 7–8]])
 
 ---

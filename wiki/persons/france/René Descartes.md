@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Critical Thinking]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods: []
@@ -98,7 +99,7 @@ updated: '2026-06-08'
 > - **对近代哲学** 笛卡尔被视为"近代哲学之父"——他将[[Epistemology|认识论]]（我们如何知道？）确立为哲学的首要问题，取代了经院哲学的[[Ontology|本体论]]优先。此后的斯宾诺莎、莱布尼茨、洛克、[[George Berkeley|贝克莱]]、休谟、[[Immanuel Kant|康德]]全都在回应他设定或遗留的问题（待核）
 > - **对西方学习传统** 在 Li 的追溯中，笛卡尔的 cogito 是先天论传统从古希腊到现代认知科学之间的关键桥梁——"[[Socrates|苏格拉底]]和[[Plato|柏拉图]]关于人类心智的思想……在西方智识史上一再复苏，在笛卡尔的 cogito 中达到顶峰"([[Argument_Li_2012_Cambridge|Li, 2012, p.28]])
 > - **对科学与数学** 笛卡尔坐标系（解析几何）统一了代数和几何，为牛顿和莱布尼茨的微积分奠定了基础。笛卡尔的机械自然观（物质世界即广延 + 运动）构成了牛顿物理学的哲学前提（待核）
-> - **对教育学** 笛卡尔怀疑的方法——将一切既有信念置于审判之下，只接受清晰且明确（clear and distinct）的真理——深刻影响了现代教育中的批判性思维训练
+> - **对教育学** 笛卡尔怀疑的方法——将一切既有信念置于审判之下，只接受清晰且明确（clear and distinct）的真理——深刻影响了现代教育中的[[Critical Thinking|批判性思维]]训练
 
 ---
 

@@ -21,8 +21,10 @@ tags:
 - subject/curriculum
 related_concepts:
   - "[[International Schools]]"
+  - "[[Theory of Knowledge (ToK)]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Critical Thinking]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
@@ -30,6 +32,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Cole_2015_AJE]]"
 confidence: medium
 status: draft
 created: '2026-05-17'
@@ -65,7 +68,7 @@ updated: 2026-06-30
 
 > [!abstract] 三项核心要素
 > - **拓展论文（Extended Essay）** 4,000 字的研究论文，展示写作能力
-> - **知识理论（[[Epistemology|theory of knowledge]]）**：要求学生就多种跨文化认知模式进行哲学反思，包括课堂方法论本身
+> - **[[Theory of Knowledge (ToK)|知识理论]]（[[Epistemology|theory of knowledge]]）**：要求学生就多种跨文化认知模式进行哲学反思，包括课堂方法论本身
 > - **创造、行动与服务（CAS, Creativity, Action, Service）** 要求学生参与社区服务活动
 
 ## 意识形态中立性争议
@@ -78,7 +81,7 @@ updated: 2026-06-30
 ## 知识理论（ToK）与批判性思维教学
 
 > [!abstract] ToK 的课程定位
-> 知识理论（[[Theory of Knowledge (ToK)|Theory of Knowledge, ToK]]）是 DP 三项核心要素之一，是一门 100 小时的必修认识论课程。ToK 不教授固定学科内容，而是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程"——学生在不受学科知识复制压力的环境中，通过结构化思维练习和跨学科活动，发展分析和评估论证、反思知识本质的能力（IBO, 2014, p. 1）（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.2]]）。
+> [[Theory of Knowledge (ToK)|知识理论]]（[[Epistemology|theory of knowledge]], ToK）是 DP 三项核心要素之一，是一门 100 小时的必修认识论课程。ToK 不教授固定学科内容，而是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程"——学生在不受学科知识复制压力的环境中，通过结构化思维练习和跨学科活动，发展分析和评估论证、反思知识本质的能力（IBO, 2014, p. 1）（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.2]]）。
 
 > [!finding-cards] 澳大利亚 ToK 研究的主要发现（[[Argument_Cole_2015_AJE|Cole et al., 2015]]）
 > 1. **12 年级 ToK 学生的批判性思维技能显著高于 11 年级** 在全国 1,338 名 ToK 学生的调查中，12 年级在批判性思维策略量表（CTSS）14 项技能中的 11 项上显著高于 11 年级（pp.8–9）。
@@ -87,7 +90,7 @@ updated: 2026-06-30
 > 4. **ToK 的实施效果因学校而异** 四所案例学校展示了四种不同的 ToK 实施模式——从全校跨学科整合到过度依赖全班讨论——说明 ToK 课程框架本身不能自动保证批判性思维培养，学校文化和实施方式起关键调节作用（pp.10–11）。
 
 > [!warning] ToK 冲击现象
-> 学生可能在 ToK 课程初期经历困难——研究者称之为"ToK 冲击"（ToK-shock）——但许多学生日后会重新肯定这门课程的价值，因为它培养了以成熟方式批判性思考、质疑假设并充分表达自身知识和思维信念的能力（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.13]]）。
+> 学生可能在 ToK 课程初期经历困难——研究者称之为"ToK 冲击"（ToK-shock）——但许多学生日后会重新肯定这门课程的价值，因为它培养了以成熟方式批判性思考、质疑[[Hypothesis|假设]]并充分表达自身知识和思维信念的能力（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.13]]）。
 
 ## 质量保障机制
 
