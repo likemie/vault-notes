@@ -122,6 +122,7 @@ RELATED_FIELDS = [
     "related_concepts",
     "related_theories",
     "related_methods",
+    "related_instruments",
     "related_persons",
     "related_facts",
     "related_arguments",
@@ -149,6 +150,14 @@ PROTECTED_FIELDS = [
     "publication_place",
     "source_language",
     "part_of",
+    "instrument_type",
+    "developers",
+    "original_year",
+    "languages",
+    "item_count",
+    "administration_mode",
+    "response_format",
+    "license",
     "confidence",
     "status",
     "created",
@@ -159,18 +168,20 @@ VALID_TYPES = {
     "concept",
     "theory",
     "method",
+    "instrument",
     "person",
     "fact",
     "argument",
     "source",
 }
 
-ARGUMENT_REQUIRED_NEW_ENTRY_TYPES = {"concept", "theory", "method", "person", "fact"}
+ARGUMENT_REQUIRED_NEW_ENTRY_TYPES = {"concept", "theory", "method", "instrument", "person", "fact"}
 
 TYPE_PATH_HINTS = {
     "concept": "wiki/concepts/",
     "theory": "wiki/theories/",
     "method": "wiki/methods/",
+    "instrument": "wiki/instruments/",
     "person": "wiki/persons/",
     "fact": "wiki/facts/",
     "argument": "wiki/arguments/",
@@ -180,6 +191,7 @@ TYPE_TO_RELATED_FIELD = {
     "concept": "related_concepts",
     "theory": "related_theories",
     "method": "related_methods",
+    "instrument": "related_instruments",
     "person": "related_persons",
     "fact": "related_facts",
     "argument": "related_arguments",
@@ -237,7 +249,7 @@ def is_argument_entry(data: Optional[Dict[str, Any]]) -> bool:
 
 
 def is_non_argument_semantic_entry(data: Optional[Dict[str, Any]]) -> bool:
-    return bool(data and data.get("type") in {"concept", "theory", "method", "person", "fact"})
+    return bool(data and data.get("type") in {"concept", "theory", "method", "instrument", "person", "fact"})
 
 
 def author_label(author: str) -> str:
@@ -938,11 +950,11 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
         issues.append(Issue("ERROR", rel(path), "Argument entries should not use aliases", line=frontmatter_line_number(fm, "aliases"), code="ARGUMENT_ALIASES"))
 
     # Non-argument wiki semantic entries should usually have aliases key.
-    if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "person", "fact"} and "aliases" not in data:
+    if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "instrument", "person", "fact"} and "aliases" not in data:
         issues.append(Issue("WARN", rel(path), f"type {typ!r} should include aliases field", code="ALIASES_MISSING"))
 
     # Only Argument pages maintain source record links.
-    if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "person", "fact"} and "sources" in data:
+    if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "instrument", "person", "fact"} and "sources" in data:
         issues.append(Issue("ERROR", rel(path), "non-Argument wiki entries should not include YAML sources; use related_arguments via Argument links", line=frontmatter_line_number(fm, "sources"), code="NON_ARGUMENT_SOURCES_FIELD"))
 
     if typ == "argument" and "sources" not in data:
@@ -1297,7 +1309,7 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
             issues.append(Issue("ERROR", rel(path), "concept template must include the mandatory conditional ## 实证数据 section", code="TEMPLATE_CONCEPT_EMPIRICAL_SECTION"))
         if "[!ref-table]" not in body:
             issues.append(Issue("ERROR", rel(path), "concept template must include the general empirical-data table", code="TEMPLATE_CONCEPT_EMPIRICAL_TABLE"))
-    if typ in {"concept", "theory", "method", "person", "fact"}:
+    if typ in {"concept", "theory", "method", "instrument", "person", "fact"}:
         if "aliases" not in data:
             issues.append(Issue("WARN", rel(path), f"{typ} template should include aliases", code="TEMPLATE_ALIASES_MISSING"))
         if "sources" in data:

@@ -6,7 +6,7 @@ Sync YAML frontmatter relation fields from body wikilinks.
 What it does:
 - Reads wiki/index.json as the authority for existing wiki entries.
 - Scans wiki/ Markdown body wikilinks.
-- Fills related_concepts / related_theories / related_methods / related_persons /
+- Fills related_concepts / related_theories / related_methods / related_instruments / related_persons /
   related_facts / related_arguments according to the linked entry's type.
 - For Argument pages only, fills YAML sources from wikilinks in the
   ## 来源 / ## Sources section.
@@ -20,7 +20,7 @@ Default behavior:
 Important:
 - sources/ and books/ source records are NOT treated as normal wiki entries.
 - source records only get extracted_to updated. They do not get related_* or sources fields.
-- Concept / Theory / Method / Fact / Person entries use related_arguments as their
+- Concept / Theory / Method / Instrument / Fact / Person entries use related_arguments as their
   evidence trail; they do not maintain YAML sources.
 """
 from __future__ import annotations
@@ -61,6 +61,7 @@ RELATION_FIELDS = {
     "concept": "related_concepts",
     "theory": "related_theories",
     "method": "related_methods",
+    "instrument": "related_instruments",
     "person": "related_persons",
     "fact": "related_facts",
     "argument": "related_arguments",
@@ -73,6 +74,7 @@ TYPE_DIRS = {
     "concepts": "concept",
     "theories": "theory",
     "methods": "method",
+    "instruments": "instrument",
     "persons": "person",
     "facts": "fact",
     "arguments": "argument",

@@ -54,9 +54,9 @@ status: active
 - `tags` 用方括号列表，内容使用英文小写连字符。
 - `related_*` 由 `scripts/wiki_relations.py` 自动维护，AI 不手动填写。
 - `related_*` 若引用条目，必须写成带引号的 wikilink，例如 `"[[Cultural Capital]]"`。
-- 新建 Concept / Theory / Method / Fact / Person 默认不写 YAML `sources`，也不写正文 `## 来源`。
+- 新建 Concept / Theory / Method / Instrument / Fact / Person 默认不写 YAML `sources`，也不写正文 `## 来源`。
 - Argument YAML `sources` 由脚本维护；正文 `## 来源` 只列 source record wikilink。来源链接必须使用相对于 vault 根目录的完整路径并保留简短显示名，例如 `[[sources/Author_Year_Journal|Author_Year_Journal]]` 或 `[[books/Book_Folder/Book_Record|Book_Record]]`；禁止只写文件名，否则 Quartz 无法正确解析同名文件夹笔记。
-- Argument 不使用 `aliases`；Concept / Theory / Method / Fact / Person 使用 `aliases` 作为检索和自动补链白名单。
+- Argument 不使用 `aliases`；Concept / Theory / Method / Instrument / Fact / Person 使用 `aliases` 作为检索和自动补链白名单。
 - Argument 使用 `source_language: en` 或 `source_language: zh` 标记原始出版语言。中文原始文献的 `authors` 使用中英双语显示，如 `[[Yajun Zheng|郑雅君（Zheng, Y.）]]`。
 - 中文原始文献的 `citation` 使用中文著录，`citation_aliases` 只生成中文作者年形式；不要同时生成英文作者年 alias。`citation_linker.py` 只按生成后的中文 alias 匹配该文献。
 - 中文期刊论文同样使用 `source_language: zh`：`authors` 保留中文名和英文转写，`citation` 使用中文作者、中文篇名和中文期刊名，`argument_display_title` 使用中文原题；citation 索引和 linker 不生成或匹配英文转写引文。
@@ -217,7 +217,7 @@ Textbook Argument 是教材总览和章节整理页。总览页保留章节表�
 - `## 总览` 使用 `[!textbook-overview]` 表格列出章节、内容概要和主要关联条目；表格下面放 `[!knowledge-map]`，通常先占位，等章节处理较完整后再画全书知识地图。
 - 若采用 `chapter-arguments`，总览表格第一列必须链接到章节 Argument，写作格式为 `&#91;&#91;Argument_BookFolder_Ch01\&#124;第1章 章节标题&#93;&#93;`；若采用 `single-argument`，第一列可保留普通章节名。
 - 章节链接骨架由 `.venv/bin/python3 scripts/vault_index.py` 自动维护，不依赖 linker 生成；`wiki_linker.py` 已能保护表格里的 wikilink alias pipe。
-- 主要关联条目只列 3–5 个最核心的 Concept / Theory / Method / Fact / Person。
+- 主要关联条目只列 3–5 个最核心的 Concept / Theory / Method / Instrument / Fact / Person。
 - `## 章节` 下每章固定使用 `### 第X章 章节标题`，并保留 `#### 概念地图`、`#### 章节内容`、`#### 关键引用` 三个小节。
 - `#### 概念地图` 通常先占位，可放章节概念图、Mermaid、图片链接或待绘制关系。
 - `#### 章节内容` 按教材自身思路整理，不强行套固定小标题；可综合使用 `[!abstract]`、`[!info]`、`[!note]-`、`[!example]`、`[!tip]-`、`[!warning]`、`[!quote]` 等通用 callout。
@@ -322,6 +322,36 @@ Method 页写研究方法、研究设计、资料收集方法、分析方法、�
 - `## 相关理论与方法` 同时放理论支撑和前置、替代、补充、子模块或扩展方法。
 - `## 研究程序` 优先用 `[!proc]` 做流程总览；`## 资料与分析` 优先用 `[!method-stack]` 或简短散文；复杂量化公式优先用 `[!formula-step]`，把公式、数学原理、结果读法、参数、权重、阈值、分类和注意事项放在同一卡片内；`[!formula-set]` 只作公式链总览，优先用 Mermaid 图；用 `[!software-impl]` 说明实现路径；阈值和指标如需集中索引才用 `[!ref-table]`；`## 使用此方法的研究` 默认作为一句话索引。
 - 非思辨或评论性文章，至少把一个核心方法案例记录到 `## 使用此方法的研究`，只写一句话索引并链接对应 Argument。
+
+### Instrument
+
+Instrument 页记录可以被明确识别、获取和实施的命名量表、问卷、测验、清单、评分规程、观察工具或访谈工具。构念本身写入 Concept，通用测量、分析或验证程序写入 Method。
+
+推荐结构：
+
+- `## 工具定位`
+- `## 测量构念与维度`
+- `## 版本与适配`
+- `## 题项与作答方式`
+- `## 计分与解释`
+- `## 测量属性`
+- `## 实施条件`
+- `## 获取、授权与引用`
+- `## 适用边界`
+- `## 使用该工具的研究`
+
+规则：
+
+- `instrument_type` 使用 `scale`、`questionnaire`、`test`、`inventory`、`rubric`、`checklist`、`observation-tool`、`interview-tool` 或 `other`。
+- 同一工具的原始版、修订版、短版、译本和不同人群版本必须明确区分。测量属性、计分规则和阈值都要绑定具体版本。
+- `## 测量构念与维度` 区分工具声称测量的构念与实际操作化指标，并链接对应 Concept。
+- `## 计分与解释` 必须记录原始计分、缺失处理、分量表与总分、分数方向、常模或阈值及禁止解释的范围。
+- `## 测量属性` 分别记录信度证据、效度证据和可比性证据。每项结果必须绑定版本、语言、样本和情境，不得只写“信效度良好”。
+- 跨语言、文化或群体使用时，分别记录翻译适配、测量不变性或差异项功能。不同群体各自具有信度，不等于群体间分数可以直接比较。
+- `## 获取、授权与引用` 必须说明获取方式、许可状态、允许用途、引用要求和修改限制。
+- 只有工具明确开放、进入公有领域或获得授权时才记录完整题项。授权状态不明时只记录结构、公开示例和获取渠道。
+- `## 使用该工具的研究` 只写一句话索引，说明所用版本、样本、测量构念及该研究提供的测量或实证信息，并链接对应 Argument。
+- Instrument 默认不写 YAML `sources` 和正文 `## 来源`。来源性陈述直接链接已处理 Argument。
 
 ### Fact
 

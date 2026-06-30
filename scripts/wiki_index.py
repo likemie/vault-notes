@@ -35,6 +35,7 @@ LOCAL_INDEX_FILES = {
     "concept": WIKI_DIR / "concepts" / "index.md",
     "theory": WIKI_DIR / "theories" / "index.md",
     "method": WIKI_DIR / "methods" / "index.md",
+    "instrument": WIKI_DIR / "instruments" / "index.md",
     "person": WIKI_DIR / "persons" / "index.md",
     "fact": WIKI_DIR / "facts" / "index.md",
     "argument": WIKI_DIR / "arguments" / "index.md",
@@ -48,12 +49,13 @@ EXCLUDE_FILENAMES = {
     "manifest.json",
 }
 
-TYPE_ORDER = ["concept", "theory", "method", "person", "fact", "argument", "source", "unknown"]
+TYPE_ORDER = ["concept", "theory", "method", "instrument", "person", "fact", "argument", "source", "unknown"]
 
 TYPE_LABELS = {
     "concept": "Concepts",
     "theory": "Theories",
     "method": "Methods",
+    "instrument": "Instruments",
     "person": "Persons",
     "fact": "Facts",
     "argument": "Arguments",
@@ -65,6 +67,7 @@ TYPE_DIRS = {
     "concept": "concepts",
     "theory": "theories",
     "method": "methods",
+    "instrument": "instruments",
     "person": "persons",
     "fact": "facts",
     "argument": "arguments",
@@ -77,6 +80,14 @@ SECOND_LEVEL_LABELS = {
     "qualitative": "Qualitative",
     "quantitative": "Quantitative",
     "mixed": "Mixed",
+    "scales": "Scales",
+    "questionnaires": "Questionnaires",
+    "tests": "Tests",
+    "inventories": "Inventories",
+    "rubrics": "Rubrics",
+    "checklists": "Checklists",
+    "observation-tools": "Observation Tools",
+    "interview-tools": "Interview Tools",
     "comparative-education": "Comparative Education",
     "curriculum": "Curriculum",
     "educational-philosophy": "Educational Philosophy",
@@ -99,9 +110,12 @@ LIST_KEYS = {
     "sources",
     "authors",
     "editors",
+    "developers",
+    "languages",
     "related_concepts",
     "related_theories",
     "related_methods",
+    "related_instruments",
     "related_persons",
     "related_facts",
     "related_arguments",
@@ -532,6 +546,7 @@ def write_local_indexes(entries: list[dict[str, Any]]) -> None:
     - wiki/concepts/index.md
     - wiki/theories/index.md
     - wiki/methods/index.md
+    - wiki/instruments/index.md
     - wiki/persons/index.md
     - wiki/facts/index.md
     - wiki/arguments/index.md

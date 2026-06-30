@@ -33,7 +33,7 @@
 8. 更新已有条目：读取文件 → 判断目标章节、子主题与插入位置 → 先按主题归组，再在主题内按时间或论证顺序整合 → 用 `str_replace` 精确替换相关段落。
 9. 新建条目：读取 `wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md` 和对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间；同时记录该条目应回链到当前 Argument 的哪个论证段落。
 10. 判断研究方法，除非是思辨类或评论文章，更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
-11. 创建或更新 Argument 页，frontmatter 按 `template-argument.md` 写入必要字段，正文 `## 来源` 使用相对于 vault 根目录的完整路径列出 `[[sources/<论文命名>|<论文命名>]]`；书籍来源使用 `[[books/<书籍目录>/<来源记录>|<来源记录>]]`。若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink。
+11. 创建或更新 Argument 页，frontmatter 按 `template-argument.md` 写入必要字段，正文 `## 来源` 使用相对于 vault 根目录的完整路径列出 `[[sources/<论文命名>|<论文命名>]]`；书籍来源使用 `[[books/<书籍目录>/<来源记录>|<来源记录>]]`。若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Instrument / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink。
 12. 用最终 `<论文命名>` 创建 source record：期刊论文用 `source_record.py article --record-name <论文命名>`；政策、报告、白皮书用 `source_record.py report --record-name <论文命名>`。
 13. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation；若第 3 步判断有图片占位，则加 `--with-figures`，生成 `sources/<论文命名>/`、`sources/<论文命名>/<论文命名>.md`、`sources/<论文命名>/<论文命名>.pdf` 和 `sources/<论文命名>/figures/`。
 14. 自动运行基础索引：`.venv/bin/python3 scripts/vault_index.py`。
@@ -60,7 +60,7 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 - Figure 指图、模型图、流程图、照片、示意图等非表格图像。figure 写图片占位。
 - Table 指作者标为 table 的材料，也包括截图表格和扫描表格。table 只要可读，就必须复刻为 Markdown 表格；只有完全无法读取时才写图片占位。
 - 占位跟随正文叙述放在最相关段落之后，不堆在开头；使用 Markdown 嵌入 `![](...jpg)`，不要包在任何注释中；可见标题使用图号和图名。
-- Figure 或无法读取的 table 主要服务于文献整体论证时，放在当前 Argument 的对应位置；主要服务于具体 Concept / Theory / Method / Fact / Person 时，放在对应条目中，并在 Argument 页简要提及或链接该条目。
+- Figure 或无法读取的 table 主要服务于文献整体论证时，放在当前 Argument 的对应位置；主要服务于具体 Concept / Theory / Method / Instrument / Fact / Person 时，放在对应条目中，并在 Argument 页简要提及或链接该条目。
 - 普通论文／报告若需要图片占位或后续补图，最终 source record、本地 PDF 和 figures 目录应放入 `sources/<论文命名>/`；无图时仍可保持 `sources/<论文命名>.md` 和 `sources/<论文命名>.pdf` 的扁平结构。PDF 本地副本不进 git，发布页使用 NAS URL。
 
 普通论文／报告 figure 占位：
@@ -118,6 +118,7 @@ wiki/
   methods/qualitative/
   methods/quantitative/
   methods/mixed/
+  instruments/<instrument-type>/
   persons/<nationality-or-region>/
   facts/<region>/
   arguments/journal-articles/<journal-name>/
@@ -130,6 +131,7 @@ wiki/
 | Concept | `wiki/concepts/<field>/` | 按领域，如 `comparative-education`、`curriculum`、`educational-philosophy`、`educational-leadership-administration` |
 | Theory | `wiki/theories/<field>/` | 只放可作为理论框架、解释机制或分析视角的理论／框架／模型 |
 | Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 只放研究方法、研究设计、资料收集／分析方法、项目评价方法；课堂教学法放 Concept |
+| Instrument | `wiki/instruments/<instrument-type>/` | 放命名量表、问卷、测验、清单、评分规程、观察工具和访谈工具；构念放 Concept，通用程序放 Method |
 | Person | `wiki/persons/<nationality-or-region>/` | 按国籍／地区；不明或跨国身份放 `global` |
 | Fact | `wiki/facts/<region>/` | 按地区；全球性放 `global`；多国比较放 `multi` |
 | Argument | `wiki/arguments/journal-articles/<journal-name>/`、`wiki/arguments/books/<book-folder>/`、`wiki/arguments/reports-policy-documents/` | 按文献类型；期刊论文 Argument 按 `journal` 字段对应的期刊名称分组；书籍 Argument 再按具体书籍文件夹分组 |
@@ -160,7 +162,7 @@ wiki/
 - `title` 是知识对象的正式名称；文件名通常等于 `title`。
 - 文件名和 `title` 不使用 tag 风格 slug。
 - 标题表达归属关系时，优先使用自然英文结构，如 `Van Leeuwen's Legitimation Theory`、`Teaching Theory of Gruschka`。
-- Concept / Theory / Method / Fact 的标题和文件名默认不得带括号、冒号、引号；缩写放入 `aliases` 或正文说明。
+- Concept / Theory / Method / Instrument / Fact 的标题和文件名默认不得带括号、冒号、引号；缩写放入 `aliases` 或正文说明。
 - Person 命名细则按 `template-person.md` 执行。
 - Argument 文件名和 `title` 通常保持一致。
 - 缩写、中文译名、常见变体放入 `aliases`。
@@ -195,7 +197,7 @@ OECD_2018_GlobalCompetence
 `aliases` 同时用于 Obsidian 检索和 `wiki_linker.py` 自动补链，因此必须精确。若 alias 产生错误链接，直接从对应条目删除后重新同步。
 
 - Argument 不使用 `aliases`。
-- Concept / Theory / Method / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
+- Concept / Theory / Method / Instrument / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
 - Person 的 `aliases` 按 `template-person.md` 执行。
 - 页面中某个人名第一次出现时必须使用全名；中文正文优先采用中文全名（英文全名）格式，后续再出现可按语境使用中文名、姓氏或代称。
 - 单个 alias 不要中英混合；中文译名、英文变体和缩写分成不同 alias。
@@ -237,7 +239,7 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 
 Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.147–148）。`vault_lint.py` 检查 citation 字段、`a/b/c` 冲突、正文 APA 短引用格式和歧义引用核验。
 
-非 Argument 条目（Concept、Theory、Method、Person、Fact）引用 Argument 时，wikilink 显示文本必须包含作者与年份，可继续附页码或章节，例如 `[[Argument_Author_Year_Journal|Author, Year, p. 12]]` 或 `[[Argument_Author_Year_Journal|Author (Year, Ch. 1)]]`；不得只写 `p. 12`、`pp. 12–15`、`Ch. 1` 或裸 `[[Argument_...]]`。
+非 Argument 条目（Concept、Theory、Method、Instrument、Person、Fact）引用 Argument 时，wikilink 显示文本必须包含作者与年份，可继续附页码或章节，例如 `[[Argument_Author_Year_Journal|Author, Year, p. 12]]` 或 `[[Argument_Author_Year_Journal|Author (Year, Ch. 1)]]`；不得只写 `p. 12`、`pp. 12–15`、`Ch. 1` 或裸 `[[Argument_...]]`。
 
 ### tags
 
@@ -311,7 +313,7 @@ cd /Users/shaoyangwu/Documents/MyNotes
 - 只有 Argument 页使用 `## 来源` / `## Sources` 章节，且只放 source wikilink。来源链接必须包含相对于 vault 根目录的完整路径和简短显示名，不得只写文件名，以免 Quartz 将同名文件夹笔记解析到错误的根路径。
 - Argument 页的 YAML `sources` 由 `wiki_relations.py` 从 `## 来源` 章节同步。
 - source record 的 YAML `extracted_to` 由 `wiki_relations.py` 从 Argument 页的 `## 来源` 章节反向同步。
-- Concept / Theory / Method / Person / Fact 不写 YAML `sources` 和正文 `## 来源`；正文中的 Argument 链接同步到 `related_arguments`。
+- Concept / Theory / Method / Instrument / Person / Fact 不写 YAML `sources` 和正文 `## 来源`；正文中的 Argument 链接同步到 `related_arguments`。
 
 ---
 
@@ -415,7 +417,7 @@ Argument 引用规则：
 
 ## 8. Extraction Criteria
 
-提取标准只决定“是否值得建条目”。一旦新建 Concept / Theory / Method / Fact / Person，必须同步更新当前 Argument 页，在相关论证段落中用一句话提及并链接该条目；如果无法在 Argument 正文中自然提及，就不要新建，改为在 Argument 中保留纯文字说明。
+提取标准只决定“是否值得建条目”。一旦新建 Concept / Theory / Method / Instrument / Fact / Person，必须同步更新当前 Argument 页，在相关论证段落中用一句话提及并链接该条目；如果无法在 Argument 正文中自然提及，就不要新建，改为在 Argument 中保留纯文字说明。
 
 ### Concept
 
@@ -438,6 +440,14 @@ Argument 引用规则：
 处理实证研究时，AI 必须识别至少一种核心研究方法，并更新对应 Method 条目的 `## 使用此方法的研究` 章节。若对应 Method 条目不存在，则新建 Method 条目。方法案例只写一句话，并链接到当前 Argument 页。
 
 方法案例只说明该研究如何使用方法，不展开文献摘要。若文献只命名方法但没有提供方法论说明，仍可作为案例记录；但不据此扩展方法定义、研究程序或局限性。
+
+### Instrument
+
+文献使用或讨论可以明确识别的命名量表、问卷、测验、清单、评分规程、观察工具或访谈工具时，应创建或更新 Instrument。只写“使用问卷调查”而没有工具名称、版本、题项结构或计分信息时，不建 Instrument。
+
+处理使用命名工具的实证研究时，必须在对应 Instrument 的 `## 使用该工具的研究` 中增加一句话案例，并链接当前 Argument。研究报告的版本、语言、人群、维度、计分、信度、效度、阈值或测量不变性信息，应分别写入对应章节，不能把不同版本或样本的结果混写。
+
+抽象测量对象写入 Concept。一般性的问卷法、量表开发、因子分析、信效度检验或测量模型写入 Method。只有可以作为具体施测对象识别和复用的工具写入 Instrument。
 
 ### Person
 
