@@ -86,9 +86,11 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
-> | 研究 | 工具版本 | 样本与用途 | 信度 | 效度与可比性 | 实证结果 |
+> | 研究 | 工具版本 | 样本与用途 | 信度及来源 | 效度与可比性 | 实证结果 |
 > |---|---|---|---|---|---|
-> | [[Argument_Author_Year_Journal\|Author (Year)]] | 版本与语言 | N、人群、地区、研究情境及测量用途 | α、ω、ICC、重测或评分者间结果 | 内容、结构、效标、反应过程、测量不变性或 DIF | 描述统计、关系、差异、预测或其他结果 |
+> | [[Argument_Author_Year_Journal\|Author (Year)]] | 版本与语言 | N、人群、地区、研究情境及测量用途 | 当前样本或既有证据，随后写 α、ω、ICC、重测或评分者间结果 | 内容、结构、效标、反应过程、测量不变性或 DIF | 描述统计、关系、差异、预测或其他结果 |
+
+%% 一项研究报告多个维度或题项的详细结果时，可在研究索引后增加 `### Author（Year）`，再用一张 `[!ref-table]-` 记录分维度或分题项结果。没有详细数据时不增加。 %%
 
 ---
 

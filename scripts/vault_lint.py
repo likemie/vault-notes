@@ -1729,11 +1729,24 @@ def citation_display_has_author_year(display: str) -> bool:
 def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
     display = display.strip()
     normalized_display = normalize_citation_alias_text(display)
+
+    def author_year_key(text: str) -> str:
+        text = normalize_citation_alias_text(text).strip("()（）[]【】 ")
+        year_match = re.search(r"(?:19|20)\d{2}[a-z]?", text)
+        if not year_match:
+            return ""
+        author = text[:year_match.start()].strip(" ,，([（")
+        author = normalize_citation_alias_text(author).lower().rstrip(" .")
+        return f"{author}|{year_match.group(0).lower()}" if author else ""
+
+    display_key = author_year_key(display)
     for alias in aliases:
         alias = str(alias).strip()
         if not alias:
             continue
         normalized_alias = normalize_citation_alias_text(alias)
+        if display_key and display_key == author_year_key(alias):
+            return True
         if normalized_display == normalized_alias or normalized_display.startswith(normalized_alias + ","):
             return True
         if normalized_alias.endswith(")") and normalized_display.startswith(normalized_alias[:-1] + ","):

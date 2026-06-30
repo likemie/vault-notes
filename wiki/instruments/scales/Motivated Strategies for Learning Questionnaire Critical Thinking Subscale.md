@@ -9,10 +9,10 @@ summary: "学习动机策略问卷中用于测量学生自报批判性思维策�
 type: instrument
 instrument_type: scale
 developers:
-  - Paul R. Pintrich
-  - David A. F. Smith
-  - Teresa Garcia
-  - Wilbert J. McKeachie
+  - P. Pintrich
+  - D. Smith
+  - T. Garcia
+  - W. McKeachie
 original_year: "1993"
 languages:
   - English
@@ -43,7 +43,7 @@ updated: 2026-06-30
 
 > [!instrument-profile] MSLQ 批判性思维分量表
 > - **工具类型** 学习动机策略问卷中的五题自陈分量表。本页记录分量表，不代表完整 MSLQ。
-> - **开发者与年份** Paul R. Pintrich、David A. F. Smith、Teresa Garcia 和 Wilbert J. McKeachie，1993 年。[[Argument_Cole_2015_AJE|(Cole et al., 2015, p. 6)]]
+> - **开发者与年份** P. Pintrich、D. Smith、T. Garcia 和 W. McKeachie，1993 年。[[Argument_Cole_2015_AJE|(Cole et al., 2015, p. 6)]]
 > - **测量目的** 测量学生自报的批判性思维策略使用，并在 Cole 等人的研究中作为 CTSS 的既有验证参照。
 > - **实施方式** 在线自陈问卷。文章结果部分显示采用七点量表，4 表示“比较符合我”，7 表示“非常符合我”。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6, 8)]]
 
@@ -73,9 +73,9 @@ updated: 2026-06-30
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
-> | 研究 | 工具版本 | 样本与用途 | 信度 | 效度与可比性 | 实证结果 |
+> | 研究 | 工具版本 | 样本与用途 | 信度及来源 | 效度与可比性 | 实证结果 |
 > |---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文五题分量表 | 澳大利亚 ToK 十一、十二年级学生，总分比较 n = 1,242。作为 CTSS 的既有量表参照 | α = .80 | 文章称其为已建立并经过验证的测量，但没有在本样本中报告结构效度或与 CTSS 的相关 | 十二年级均值 4.69（1.15），高于十一年级 4.48（1.22），t(1240) = 3.04，p < .01 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文五题分量表 | 澳大利亚 ToK 十一、十二年级学生，总分比较 n = 1,242。作为 CTSS 的既有量表参照 | 文章援引 α = .80 说明既有内部一致性，但没有明确该值是否由当前样本估计 | 文章称其为已建立并经过验证的测量，但没有在本样本中报告结构效度或与 CTSS 的相关 | 十二年级均值 4.69（1.15），高于十一年级 4.48（1.22），t(1240) = 3.04，p < .01 |
 
 ---
 

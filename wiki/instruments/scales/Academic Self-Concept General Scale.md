@@ -8,7 +8,7 @@ summary: "用于测量大学生一般学术自我概念并可作为学业成果�
 type: instrument
 instrument_type: scale
 developers:
-  - Herbert W. Marsh
+  - H. W. Marsh
 original_year: "1992"
 languages:
   - English
@@ -39,7 +39,7 @@ updated: 2026-06-30
 
 > [!instrument-profile] 一般学术自我概念量表
 > - **工具类型** 十题自陈量表。
-> - **开发者与年份** Herbert W. Marsh，1992 年。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6–7)]]
+> - **开发者与年份** H. W. Marsh，1992 年。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6–7)]]
 > - **测量目的** 测量一般学术自我概念。Cole 等人因不同中学成绩难以标准化，将其作为学生实际学业成果的代理指标。
 > - **实施方式** 在线自陈问卷。本文没有报告具体作答选项。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6–7)]]
 
@@ -69,9 +69,9 @@ updated: 2026-06-30
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
-> | 研究 | 工具版本 | 样本与用途 | 信度 | 效度与可比性 | 实证结果 |
+> | 研究 | 工具版本 | 样本与用途 | 信度及来源 | 效度与可比性 | 实证结果 |
 > |---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Marsh 1992 英文版 | 澳大利亚大学一年级学生，DP 毕业生 n = 99，非 DP 毕业生 n = 283。作为难以跨学校标准化的实际成绩之代理指标 | α = .92 | 本文引用 Byrne 与 Worth-Gavin 1996 支持其代理用途，但没有报告本样本的结构效度或测量不变性 | DP 毕业生均值 6.25（0.96），非 DP 毕业生 5.75（1.02），t(380) = 4.24，p < .001 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Marsh 1992 英文版 | 澳大利亚大学一年级学生，DP 毕业生 n = 99，非 DP 毕业生 n = 283。作为难以跨学校标准化的实际成绩之代理指标 | 文章援引 α = .92 说明既有内部一致性，但没有明确该值是否由当前样本估计 | 本文引用 Byrne 与 Worth-Gavin 1996 支持其代理用途，但没有报告本样本的结构效度或测量不变性 | DP 毕业生均值 6.25（0.96），非 DP 毕业生 5.75（1.02），t(380) = 4.24，p < .001 |
 
 ---
 
