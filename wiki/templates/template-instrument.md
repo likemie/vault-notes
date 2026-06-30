@@ -51,6 +51,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!entry-map]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
+>
 > | 维度 | 对应构念 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|---|
 > | <维度名称> | [[<Concept>]] | — | 该维度测量什么 | 求和、均值、加权或模型分数 |
@@ -75,6 +76,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
+>
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
 > | 1 | 题项原文或准确译文 | 等级、类别或其他选项 | 分值、反向计分或跳题规则 | [[Argument_Author_Year_Journal\|Author (Year, p. X)]] |
@@ -87,11 +89,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
+>
 > | 研究 | 工具版本 | 样本与用途 | 信度及来源 | 效度与可比性 | 实证结果 |
 > |---|---|---|---|---|---|
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | 版本与语言 | N、人群、地区、研究情境及测量用途 | 当前样本或既有证据，随后写 α、ω、ICC、重测或评分者间结果 | 内容、结构、效标、反应过程、测量不变性或 DIF | 描述统计、关系、差异、预测或其他结果 |
 
-%% 一项研究报告多个维度或题项的详细结果时，可在研究索引后增加 `### Author（Year）`，再用一张 `[!ref-table]-` 记录分维度或分题项结果。没有详细数据时不增加。 %%
+%% 同一来源包含多个维度或题项的详细结果时，可在研究索引后增加 `### Author（Year）`，再用一张 `[!ref-table]-` 记录分维度或分题项结果。没有详细数据时不增加。 %%
 
 ---
 
@@ -101,6 +104,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>
+>
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 原始版 | 语言与地区 | 人群 | — | 原始结构 | [[Argument_Author_Year_Journal\|Author (Year)]] |
