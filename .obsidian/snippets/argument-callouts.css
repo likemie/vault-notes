@@ -13309,3 +13309,85 @@
 }
 .theme-dark .callout[data-callout="quote"] > .callout-title,
 .theme-dark .callout[data-callout="cite"] > .callout-title { color: rgb(162, 172, 185); }
+
+/* ─────────────────────────────────────────────
+   instrument-profile — 测量工具四格定位卡
+   ───────────────────────────────────────────── */
+.callout[data-callout="instrument-profile"] {
+  --callout-color: 18, 126, 125;
+  --callout-icon: lucide-gauge;
+  border: 1px solid rgba(18, 126, 125, 0.24);
+  border-left: 4px solid rgb(18, 126, 125);
+  border-radius: 14px;
+  background:
+    radial-gradient(circle at 96% 8%, rgba(18, 126, 125, 0.14), transparent 30%),
+    linear-gradient(145deg, rgba(18, 126, 125, 0.08), rgba(255, 255, 255, 0.01)),
+    var(--background-primary);
+  box-shadow: 0 8px 24px rgba(18, 126, 125, 0.08);
+}
+
+.callout[data-callout="instrument-profile"] > .callout-title {
+  color: rgb(13, 103, 102);
+}
+
+.callout[data-callout="instrument-profile"] > .callout-title .callout-title-inner::before {
+  content: "INSTRUMENT";
+}
+
+.callout[data-callout="instrument-profile"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 0.8rem 0 0;
+  padding: 0;
+}
+
+.callout[data-callout="instrument-profile"] > .callout-content > ul > li {
+  min-width: 0;
+  margin: 0;
+  padding: 0.9rem 1rem;
+  list-style: none;
+  border: 1px solid rgba(18, 126, 125, 0.16);
+  border-top: 3px solid rgba(18, 126, 125, 0.65);
+  border-radius: 10px;
+  background: rgba(18, 126, 125, 0.045);
+}
+
+.callout[data-callout="instrument-profile"] > .callout-content > ul > li::marker {
+  content: "";
+}
+
+.callout[data-callout="instrument-profile"] > .callout-content > ul > li > strong:first-of-type {
+  display: block;
+  margin-bottom: 0.38rem;
+  color: rgb(13, 103, 102);
+  font-size: 0.78rem;
+  letter-spacing: 0.045em;
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="instrument-profile"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="instrument-profile"] {
+  --callout-color: 75, 190, 186;
+  border-color: rgba(75, 190, 186, 0.25);
+  border-left-color: rgb(75, 190, 186);
+  background:
+    radial-gradient(circle at 96% 8%, rgba(75, 190, 186, 0.13), transparent 30%),
+    linear-gradient(145deg, rgba(75, 190, 186, 0.09), rgba(75, 190, 186, 0.015)),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="instrument-profile"] > .callout-title,
+.theme-dark .callout[data-callout="instrument-profile"] > .callout-content > ul > li > strong:first-of-type {
+  color: rgb(104, 211, 207);
+}
+
+.theme-dark .callout[data-callout="instrument-profile"] > .callout-content > ul > li {
+  border-color: rgba(75, 190, 186, 0.19);
+  border-top-color: rgba(75, 190, 186, 0.72);
+  background: rgba(75, 190, 186, 0.055);
+}

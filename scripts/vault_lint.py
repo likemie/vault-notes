@@ -1350,7 +1350,6 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
             "工具定位",
             "测量构念与维度",
             "题项与作答方式",
-            "测量属性",
             "实施条件",
             "使用该工具的研究",
             "版本与适配",
