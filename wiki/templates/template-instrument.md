@@ -34,7 +34,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!instrument-profile] <工具>
 > - **工具类型** 量表、问卷、测验、清单、评分规程、观察工具、访谈工具或其他测量工具。
-> - **开发者与年份** 谁在何时开发，基于什么研究或实践需求。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> - **开发者与年份** [[Argument_Author_Year_Journal|Author et al. (Year)]]。
 > - **测量目的** 用于筛查、诊断、描述、分组、预测、评价还是研究测量。
 > - **实施方式** 自陈、他评、观察、访谈、纸笔、计算机、自适应或其他方式。
 

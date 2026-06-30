@@ -13,17 +13,21 @@ languages:
   - English
 item_count: "75"
 administration_mode: self-report
-response_format: ""
+response_format: "—"
 tags:
   - theme/critical-thinking
   - instrument/self-report
-related_concepts: []
+related_concepts:
+  - "[[Critical Thinking]]"
+  - "[[Construct]]"
+  - "[[Reliability]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cole_2015_AJE]]"
 confidence: medium
 status: draft
 created: 2026-06-30
@@ -36,9 +40,9 @@ updated: 2026-06-30
 
 ## 工具定位
 
-> [!instrument-profile] 加州批判性思维倾向问卷
+> [!instrument-profile] 加州[[Critical Thinking|批判性思维]]倾向问卷
 > - **工具类型** 七十五题商业化自陈问卷。
-> - **开发者与年份** 采用 Insight Assessment 2000 年版本，开发过程信息未报告。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6–7)]]
+> - **开发者与年份** Insight Assessment (2000)。
 > - **测量目的** 测量个体将批判性思维作为自然思维习惯加以运用的倾向，而非直接测量任务中的批判性思维表现。
 > - **实施方式** 在线自陈。Cole 等人的参与者需要前往第二个在线位置并使用登录信息，造成明显样本流失。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6–7, 12)]]
 
@@ -49,15 +53,15 @@ updated: 2026-06-30
 > [!entry-map]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
-> | 维度 | 对应构念 | 题项数 | 测量内容 | 计分方式 |
+> | 维度 | 对应[[Construct\|构念]] | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|---|
-> | 求真 | [[Critical Thinking]] | — | 维度定义未报告 | 分量表 10 至 60 |
-> | 开放心态 | [[Critical Thinking]] | — | 维度定义未报告 | 分量表 10 至 60 |
-> | 探究性 | [[Critical Thinking]] | — | 维度定义未报告 | 分量表 10 至 60 |
-> | 分析性 | [[Critical Thinking]] | — | 维度定义未报告 | 分量表 10 至 60 |
-> | 系统性 | [[Critical Thinking]] | — | 维度定义未报告 | 分量表 10 至 60 |
-> | 推理自信 | [[Critical Thinking]] | — | 维度定义未报告 | 分量表 10 至 60 |
-> | 判断成熟度 | [[Critical Thinking]] | — | 维度定义未报告 | 分量表 10 至 60 |
+> | 求真 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
+> | 开放心态 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
+> | 探究性 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
+> | 分析性 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
+> | 系统性 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
+> | 推理自信 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
+> | 判断成熟度 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
 
 分量表等级为低 10–29、矛盾 30–40、积极 40–50、高 50–60。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 12, 18)]]
 
@@ -67,9 +71,9 @@ updated: 2026-06-30
 
 > [!instrument-items] 题项结构
 > - **题项数量** 七十五题。
-> - **题项形式** 具体题项未刊出。
-> - **作答格式** 作答选项未报告。
-> - **反向题与跳题** 反向题与跳题信息未报告。
+> - **题项形式** —
+> - **作答格式** —
+> - **反向题与跳题** —
 
 ---
 
@@ -78,11 +82,11 @@ updated: 2026-06-30
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 工具版本 | 样本与用途 | 信度及来源 | 效度与可比性 | 实证结果 |
+> | 研究 | 工具版本 | 样本与用途 | [[Reliability\|信度]]及来源 | 效度与可比性 | 实证结果 |
 > |---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Insight Assessment 2000 英文版 | 澳大利亚大学一年级学生，DP 毕业生 n = 42，非 DP 毕业生 n = 126。用于比较批判性思维倾向 | 既有证据报告总量表 α = .90，测试手册报告七个分量表 α = .67–.82。当前样本 α 未报告 | 当前样本的结构效度和测量不变性均未报告，因而不能确认两组均值具有严格的跨组可比性 | DP 毕业生七个维度均值均较高，总分 300.95 对 293.98。各项差异的显著性检验未报告 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Insight Assessment 2000 英文版 | 澳大利亚大学一年级学生，DP 毕业生 n = 42，非 DP 毕业生 n = 126。用于比较[[Critical Thinking\|批判性思维]]倾向 | 既有证据 总量表 α = .90；测试手册 七个分量表 α = .67–.82；当前样本 — | — | DP 毕业生七个维度均值均较高，总分 300.95 对 293.98；显著性 — |
 
-### Cole 等人 2015 年研究的维度结果
+### [[Argument_Cole_2015_AJE|Cole et al. (2015)]]
 
 > [!ref-table]- 分量表结果
 > <span class="instrument-result-table-marker" aria-hidden="true"></span>
@@ -107,4 +111,4 @@ updated: 2026-06-30
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | Insight Assessment 2000 版 | 英语，澳大利亚施测 | 大学一年级学生 | 75 | 相对于测试手册的改动未报告 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6–7, 12, 18)]] |
+> | Insight Assessment 2000 版 | 英语，澳大利亚施测 | 大学一年级学生 | 75 | — | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6–7, 12, 18)]] |

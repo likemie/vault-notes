@@ -1820,7 +1820,12 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
             continue
         if has_english_author_and(txt):
             issues.append(Issue("WARN", rel(path), f"English two-author citation should use '&': {txt!r} -> {fix_english_author_and(txt)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
-        issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument: {txt}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_UNLINKED"))
+        has_matching_argument = any(
+            citation_display_matches_aliases(txt, item.get("aliases", []))
+            for item in argument_citations.values()
+        )
+        if has_matching_argument:
+            issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument: {txt}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_UNLINKED"))
 
 
 def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Dict[str, str], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
