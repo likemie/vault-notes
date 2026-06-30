@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
+                "file": "wiki/methods/qualitative/Observation Method.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_QiMei_2015_EducationalResearchMethods"
+              "title": "Observation Method"
             }
           }
         ]
@@ -192,10 +192,10 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "sources/Beech_2015_GSE.md",
     "scripts/__pycache__/wiki_relations.cpython-313.pyc",
     "books/QiMei_2015_EducationalResearchMethods/QiMei_2015_EducationalResearchMethods.md",
-    "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "books/QiMei_2015_EducationalResearchMethods/figures/Figure_4-1_Concept_Map.jpg",
     "books/QiMei_2015_EducationalResearchMethods/figures/Figure_5-1_Concept_Map.jpg",
     "books/QiMei_2015_EducationalResearchMethods/figures/Figure_6-1_Concept_Map.jpg",
