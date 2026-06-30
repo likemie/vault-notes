@@ -11,9 +11,9 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 5
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
 - region/global
@@ -21,7 +21,7 @@ tags:
 - subject/curriculum
 related_concepts:
   - "[[International Schools]]"
-  - "[[Theory of Knowledge (ToK)]]"
+  - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
@@ -68,7 +68,7 @@ updated: 2026-06-30
 
 > [!abstract] 三项核心要素
 > - **拓展论文（Extended Essay）** 4,000 字的研究论文，展示写作能力
-> - **[[Theory of Knowledge (ToK)|知识理论]]（[[Epistemology|theory of knowledge]]）**：要求学生就多种跨文化认知模式进行哲学反思，包括课堂方法论本身
+> - **[[Theory of Knowledge|知识论]]（[[Epistemology|theory of knowledge]]）**：要求学生就多种跨文化认知模式进行哲学反思，包括课堂方法论本身
 > - **创造、行动与服务（CAS, Creativity, Action, Service）** 要求学生参与社区服务活动
 
 ## 意识形态中立性争议
@@ -81,7 +81,7 @@ updated: 2026-06-30
 ## 知识理论（ToK）与批判性思维教学
 
 > [!abstract] ToK 的课程定位
-> [[Theory of Knowledge (ToK)|知识理论]]（[[Epistemology|theory of knowledge]], ToK）是 DP 三项核心要素之一，是一门 100 小时的必修认识论课程。ToK 不教授固定学科内容，而是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程"——学生在不受学科知识复制压力的环境中，通过结构化思维练习和跨学科活动，发展分析和评估论证、反思知识本质的能力（IBO, 2014, p. 1）（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.2]]）。
+> [[Theory of Knowledge|知识论]]（[[Epistemology|theory of knowledge]], ToK）是 DP 三项核心要素之一，是一门 100 小时的必修认识论课程。ToK 不教授固定学科内容，而是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程"——学生在不受学科知识复制压力的环境中，通过结构化思维练习和跨学科活动，发展分析和评估论证、反思知识本质的能力（IBO, 2014, p. 1）（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.2]]）。
 
 > [!finding-cards] 澳大利亚 ToK 研究的主要发现（[[Argument_Cole_2015_AJE|Cole et al., 2015]]）
 > 1. **12 年级 ToK 学生的批判性思维技能显著高于 11 年级** 在全国 1,338 名 ToK 学生的调查中，12 年级在批判性思维策略量表（CTSS）14 项技能中的 11 项上显著高于 11 年级（pp.8–9）。

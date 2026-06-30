@@ -8,10 +8,10 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 22
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/critical-thinking
   - theme/curriculum
@@ -20,7 +20,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Didaktik]]"
   - "[[Hypothesis]]"
-  - "[[Theory of Knowledge (ToK)]]"
+  - "[[Theory of Knowledge]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
   - "[[Operationalization]]"
@@ -74,7 +74,7 @@ updated: 2026-06-30
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | [[Critical Thinking]] | 概念 | 理论所要发展的目标能力——包括分析和评估论证、澄清意义、反思[[Hypothesis\|假设]]、基于证据推理等认知技能与倾向 |
-> | [[Theory of Knowledge (ToK)]] | 概念 | [[International Baccalaureate\|IB]] DP 中体现显性教学路径的实践案例——一个不教授固定内容、专门培养学生批判性思维的独立课程 |
+> | [[Theory of Knowledge]] | 概念 | [[International Baccalaureate\|IB]] DP 中体现显性教学路径的实践案例——一个不教授固定内容、专门培养学生批判性思维的独立课程 |
 > | 元认知（Metacognition） | 概念 | 批判性思维的高阶组成部分——对自己思维过程的意识和调节；显性教学被认为更能促进元认知发展 |
 > | 教师培训（Teacher Training） | 机制 | 调节显性教学效果的关键[[Variable\|变量]]——教师接受批判性思维教学法培训后，学生获益最大 |
 > | 迁移（Transfer） | 机制 | 理论必须解释的关键过程——在独立课程中学到的批判性思维技能能否以及如何迁移到具体学科和生活中 |
@@ -164,4 +164,4 @@ updated: 2026-06-30
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 [[International Baccalaureate|IB]] DP 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]检验显性[[Critical Thinking|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
+> - [[Argument_Cole_2015_AJE|David R Cole et al. (2015)]] — 以 [[International Baccalaureate|IB]] DP 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]检验显性[[Critical Thinking|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。

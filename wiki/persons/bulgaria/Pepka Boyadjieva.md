@@ -7,7 +7,7 @@ summary: "保加利亚社会学家和高等教育研究者，高教多维使命�
 type: person
 nationality: bulgaria
 person_region: "bulgaria"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

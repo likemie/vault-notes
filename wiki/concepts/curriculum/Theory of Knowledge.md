@@ -8,22 +8,32 @@ aliases:
   - 知识理论
 summary: IB 文凭项目的核心必修科目（100 小时），一门不教授固定知识内容、而是要求学生反思知识本质和思维过程的批判性思维课程。
 type: concept
-domain: curriculum
+domain: "curriculum"
 related_count: 0
 related_level: 0
-related_stars: ☆
+related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - theme/critical-thinking
   - theme/epistemology
   - level/k12
   - subject/curriculum
-related_concepts: []
-related_theories: []
-related_methods: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Critical Thinking]]"
+  - "[[Hypothesis]]"
+  - "[[Operationalization]]"
+related_theories:
+  - "[[Explicit Critical Thinking Instruction]]"
+related_methods:
+  - "[[Case Study]]"
+  - "[[Mixed Methods Research]]"
+related_persons:
+  - "[[Socrates]]"
+related_facts:
+  - "[[International Baccalaureate]]"
+related_arguments:
+  - "[[Argument_Cole_2015_AJE]]"
 confidence: medium
 status: draft
 created: 2026-06-30

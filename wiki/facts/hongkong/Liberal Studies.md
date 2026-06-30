@@ -9,7 +9,7 @@ subtype: policy
 region: hongkong
 fact_region: "hongkong"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -23,14 +23,13 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Examination-Oriented Education]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Theory of Knowledge (ToK)]]"
+  - "[[Theory of Knowledge]]"
   - "[[Construct]]"
   - "[[Multiplicity]]"
   - "[[One Country, Two Systems]]"
   - "[[Policy Borrowing]]"
   - "[[Progressive Education]]"
   - "[[Hypothesis]]"
-  - "[[Document]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
   - "[[World Society Theory]]"
@@ -65,7 +64,7 @@ updated: '2026-05-25'
 ## 创立过程
 
 > [!note]- 创立过程
-> LS 的设计参照了 IBDP 的三个核心要素（[[Theory of Knowledge (ToK)|知识理论]] → 批判思维训练、延伸论文 → IES、创造行动服务 → 其他学习经历）。剑桥大学 Mary James 教授于 2007–2009 年担任课程发展议会海外委员，为 LS 提供国际背书([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 480]])。
+> LS 的设计参照了 IBDP 的三个核心要素（[[Theory of Knowledge|知识论]] → 批判思维训练、延伸论文 → IES、创造行动服务 → 其他学习经历）。剑桥大学 Mary James 教授于 2007–2009 年担任课程发展议会海外委员，为 LS 提供国际背书([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 480]])。
 >
 > LS 的引入也解决了新高中学制改革的一个实际问题：经济及公共事务、政府与公共行政、社会教育等学科在 NSS 课程中被取消，其教师通过教授 LS 保留了职位——LS 因此成为吸收"剩余教师"的制度安排([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]])。
 
@@ -119,7 +118,7 @@ updated: '2026-05-25'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Policy Borrowing]] — LS 的设计参照了 IBDP 的三个要素（[[Theory of Knowledge (ToK)|知识理论]]、延伸论文、创造行动服务），以此将自己定位为全球[[Progressive Education|进步教育]]的体现
+> - [[Policy Borrowing]] — LS 的设计参照了 IBDP 的三个要素（[[Theory of Knowledge|知识论]]、延伸论文、创造行动服务），以此将自己定位为全球[[Progressive Education|进步教育]]的体现
 > - [[Cuban's Curriculum Change Theory]] — LS 的创立和废除均受政治因素驱动，但体现在 Cuban 框架的不同维度
 > - [[World Society Theory]] — LS 的全球参照表面上支撑了该理论的趋同[[Hypothesis|假设]]
 
@@ -149,7 +148,7 @@ updated: '2026-05-25'
 > [!warning] 缺乏学科基础的创新与脆弱性
 > LS 有意设计为无单一学科基础的跨学科科目，这既是其教育创新的核心，也是其政策脆弱性的根源。
 >
-> - **支持立场** LS 的设计者有意识地拒绝将科目限制在传统学科边界内——课程[[Document|文件]]明确表述知识是 "contextualised, multi-disciplinary and personally and socially constructed"（CDC & HKEAA, 2007, p. 83）。这种设计旨在培养[[Critical Thinking|批判性思维]]而非传授固定知识体系。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 481]])
+> - **支持立场** LS 的设计者有意识地拒绝将科目限制在传统学科边界内——课程文件明确表述知识是 "contextualised, multi-disciplinary and personally and socially constructed"（CDC & HKEAA, 2007, p. 83）。这种设计旨在培养[[Critical Thinking|批判性思维]]而非传授固定知识体系。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 481]])
 > - **批评立场**Deng & Luke (2008) 和 Deng (2009) 指出缺乏清晰的学科根基使 LS 容易遭受来自不同意识形态方向的攻击——因为它没有一个公认的"知识核心"来作为课程的防御基础。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 481]])
 >
 > **目前状态** LS 已因政治压力被 [[Citizenship and Social Development|CSD]] 取代（2021），但"跨学科 vs 学科根基"的张力在全球课程改革中仍是活着的辩论。

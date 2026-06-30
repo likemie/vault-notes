@@ -6,7 +6,7 @@ summary: "一种以批判理论为根基的研究方法论，通过揭露父权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,8 +22,7 @@ related_concepts:
   - "[[Consequential Validity]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
-  - "[[Theory of Knowledge (ToK)]]"
-  - "[[Document]]"
+  - "[[Theory of Knowledge]]"
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
 related_theories:
@@ -105,11 +104,11 @@ updated: 2026-06-16
 > - 协作式、集体主义的研究——由集体（通常是女性集体）承担，整合研究者和被研究者，打破主体/客体和等级化的非互惠关系。
 > - 所谓[[Value Neutrality|价值无涉]]、中立、冷漠和公正的研究被有意识的、蓄意的偏袒所取代——研究者认同参与者。
 > - 采用[[Ideology Critique|意识形态批判]]的取向和[[Paradigm|范式]]。
-> - 象牙塔中的旁观者[[Theory of Knowledge (ToK)|知识理论]]被参与式方法取代——可能通过[[Action Research|行动研究]]——所有参与者（包括研究者）参与争取女性解放的斗争。
+> - 象牙塔中的旁观者[[Theory of Knowledge|知识理论]]被参与式方法取代——可能通过[[Action Research|行动研究]]——所有参与者（包括研究者）参与争取女性解放的斗争。
 > - 改变现状的需要是社会研究的起点——"如果我们想了解梨子，就必须咀嚼它"（Mies, 1993，引用中国谚语）。
 > - 广泛使用[[Triangulation|三角互证]]和多种方法（包括视觉技术）。
 > - 使用语言技术如会话分析。
-> - 使用文本分析如解构关于女性的[[Document|文件]]和文本。
+> - 使用文本分析如解构关于女性的文件和文本。
 > - 使用[[Meta-analysis|元分析]]综合个别研究的发现。
 > - 离开数字化调查并对其进行批判性评估，包括对问题措辞的批判。
 

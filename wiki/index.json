@@ -838,14 +838,15 @@
     ]
   },
   {
-    "title": "Theory of Knowledge (ToK)",
+    "title": "Theory of Knowledge",
     "type": "concept",
-    "path": "wiki/concepts/curriculum/Theory of Knowledge (ToK).md",
+    "path": "wiki/concepts/curriculum/Theory of Knowledge.md",
     "aliases": [
-      "知识理论",
       "TOK",
-      "Theory of Knowledge",
-      "IB Theory of Knowledge"
+      "Theory of Knowledge (ToK)",
+      "IB Theory of Knowledge",
+      "知识论",
+      "知识理论"
     ]
   },
   {

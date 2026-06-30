@@ -1,6 +1,7 @@
 ---
 citation: "Cole, D. R., Ullman, J., Gannon, S., & Rooney, P. (2015). Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study. Australian Journal of Education, 1–18."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Cole_2015_AJE]]"
 processed_date: 2026-06-30
 ---
 

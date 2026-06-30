@@ -9,7 +9,7 @@ summary: "同时收集量化和质性数据、分别分析后将结果合并比�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 27
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"

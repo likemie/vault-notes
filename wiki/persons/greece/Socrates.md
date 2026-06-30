@@ -6,10 +6,10 @@ summary: "古希腊哲学家，西方批判性思维的化身，以苏格拉底�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/greece
 - region/western
