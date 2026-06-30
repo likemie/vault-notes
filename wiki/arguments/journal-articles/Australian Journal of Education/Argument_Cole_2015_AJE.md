@@ -92,11 +92,11 @@ journal: "Australian Journal of Education"
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Explicit Critical Thinking Instruction]]**<br>显性批判性思维教学理论 | 组织核心论证框架，预测显性独立课程比隐性融入路径更能提升批判性思维技能。该理论以 Abrami et al.（2008）对 117 项研究（N=20,698）的[[Meta-analysis\|元分析]]和 Marin & Halpern（2011）在低表现学校的[[Experimental Research\|随机对照实验]]为核心证据基础 |
-> | **[[Critical Thinking]] 的 Delphi 定义与测量框架**<br>Facione（1990） | 提供批判性思维的可[[Operationalization\|操作化]]定义，即一组包含澄清意义、分析论证、评估主张、反思假设、基于证据推理和自我调节的认知技能。本文据此开发了 14 项 CTSS 量表，并以 CCTDI 测量七个维度的批判性思维倾向 |
+> | **[[Critical Thinking]] 的 Delphi 定义与测量框架**<br>Facione（1990） | 提供批判性思维的可[[Operationalization\|操作化]]定义，并支撑[[Critical Thinking Strategies Scale\|CTSS]]对批判性思维策略的测量。[[California Critical Thinking Disposition Inventory\|CCTDI]]则承担批判性思维倾向测量 |
 > | **元认知理论**<br>Flavell（1977） | 解释批判性思维的高阶认知维度，指个体对自己思维过程的意识和调节。ToK 要求学生反复追问"我们如何知道我们所知道的"，这本质上是系统性的元认知训练（Bruer, 2000; McGuire, 2012; Pintrich, 2002） |
 
 > [!warrant]- 理论如何支撑论证
-> 显性批判性思维[[Didaktik|教学理论]]提出两条可检验的预测：（1）接受独立批判性思维课程的学生在标准化测量上应表现更好；（2）这一效果受教师培训和学校实施的调节。本文的三阶段设计分别检验这两条预测：阶段一的横断比较检验预测（1）：如果 ToK 有效，12 年级学生应在 CTSS 和 MSLQ 上显著高于 11 年级；阶段二的[[Case Study|案例研究]]检验预测（2）：学校的实施差异应能解释批判性思维教学效果的差异；阶段三的组间比较提供额外的汇聚证据：如果整个 DP（含 ToK）有效，DP 毕业生在大学入学时的批判性思维倾向和学术指标应优于非 DP 毕业生。但研究者也坦承，由于横断设计（而非纵向追踪）和无法将 ToK 从 DP 整体中分离的限制，这些证据只能提供初步的而非确凿的支持。
+> 显性批判性思维[[Didaktik|教学理论]]提出两条可检验预测。接受独立批判性思维课程的学生应在标准化测量上表现更好，这一效果同时受教师培训和学校实施调节。阶段一以 CTSS 和 MSLQ 比较 11–12 年级差异，阶段二以[[Case Study|案例研究]]解释学校实施差异，阶段三以 DP 与非 DP 毕业生比较提供汇聚证据。横断设计及 ToK 无法从整个 DP 中分离，使这些证据只能提供初步支持。
 
 ---
 
@@ -105,7 +105,7 @@ journal: "Australian Journal of Education"
 > [!method-panel] 整体研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **三阶段收敛式[[Mixed Methods Research\|混合方法]]设计**<br>Three-stage Convergent Mixed Methods Design | 三个阶段的量化和质性数据同时收集、分别分析、合并比较，以实现对 ToK 与[[Critical Thinking\|批判性思维]]关系的[[Triangulation\|三角验证]]（Creswell, 2012; Creswell & Plano-Clark, 2011）。完整研究还包括 ToK 教师问卷数据，本文仅报告与学生批判性思维技能获得直接相关的两部分数据 |
+> | **三阶段收敛式[[Mixed Methods Research\|混合方法]]设计**<br>Three-stage Convergent Mixed Methods Design | 三个阶段的量化和质性数据同时收集、分别分析、合并比较，以实现对 ToK 与[[Critical Thinking\|批判性思维]]关系的[[Triangulation\|三角验证]]（Creswell, 2012; Creswell & Plano-Clark, 2011）。ToK 教师问卷数据不进入当前论证范围 |
 
 ---
 
@@ -116,8 +116,8 @@ journal: "Australian Journal of Education"
 > |------|----------------|
 > | **招募方式** | [[International Baccalaureate\|IB]] 组织（IBO）向所有澳大利亚 DP 学校领导发送电子邮件邀请，内含在线问卷 URL，由学校分发给 11–12 年级 ToK 学生 |
 > | **伦理与同意** | 学生年龄 ≥16 岁，免除家长同意；问卷完成即视为[[Informed Consent\|知情同意]]，参与信息置于问卷开头 |
-> | **测量工具一 CTSS** | 14 项自编[[Critical Thinking Strategies Scale\|批判性思维策略量表（CTSS）]]。题项基于 Delphi Report（Facione, 1990）的专家共识框架开发，涵盖澄清意义、分解问题、识别和分析论证、评估主张、设想替代方案、反思假设、辩护策略等 14 项可测量的批判性思维技能。学生回答"你有多大可能……"（如"努力澄清不熟悉术语的含义和定义"），7 点 Likert 量表（1=不太可能，7=极有可能）。通过探索性因子分析（EFA）缩减题项，最终 14 项量表 Cronbach's α = .96，内部[[Reliability\|信度]]优秀 |
-> | **测量工具二 MSLQ 批判性思维分量表** | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ 批判性思维分量表]]共 5 题，取自 Pintrich, Smith, Garcia, & McKeachie（1993）开发的学习动机策略问卷。Cronbach's α = .80，作为已有验证工具的参照比较 |
+> | **测量工具一 CTSS** | [[Critical Thinking Strategies Scale\|CTSS]]测量学生自报的批判性思维策略使用，作为年级差异比较的主要工具 |
+> | **测量工具二 MSLQ-CT** | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ 批判性思维分量表]]作为既有量表参照，用于检验 CTSS 结果是否获得汇聚支持 |
 
 > [!sample-panel]- 阶段一样本构成
 > | 样本层面 | 构成 |
@@ -148,8 +148,8 @@ journal: "Australian Journal of Education"
 > |------|----------------|
 > | **招募：DP 毕业生** | 通过澳大利亚 IBO 校友联系名单，由 IBO 发送电子邮件邀请（含在线问卷 URL）给上一届 DP 毕业生 |
 > | **招募：非 DP 毕业生** | 通过各大学单元的在线内容管理系统（如 Blackboard）发布定向电子邮件或在线公告。多所大学被定向接触，但仅悉尼大学和昆士兰科技大学协助了招募 |
-> | **测量工具一 CCTDI** | 75 题项[[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷（CCTDI）]]（Insight Assessment, 2000），是一个受好评的商业化测量工具。它评估个体将批判性思维作为"自然思维习惯"运用的倾向性。总量表 Cronbach's α = .90。七个分量表及信度范围为求真（Truth-seeking, .70–.78）、开放心态（Open-mindedness, .67–.74）、探究性（Inquisitiveness, .78–.82）、分析性（Analyticity, .70–.73）、系统性（Systematicity, .72–.74）、推理自信（Critical Thinking Confidence, .75–.78）、判断成熟度（Maturity of Judgement, .73–.76）。各分量表得分范围 10–60，等级划分为低（10–29）、矛盾（30–40）、积极（40–50）、高（50–60） |
-> | **测量工具二 ASC** | 10 题项[[Academic Self-Concept General Scale\|一般学术自我概念量表（ASC）]]（Marsh, 1992），Cronbach's α = .92，作为学生实际学术成果的代理测量（proxy measure）。选择代理而非直接成绩报告，是因为无法跨多所中学标准化成绩（Byrne & Worth-Gavin, 1996） |
+> | **测量工具一 CCTDI** | [[California Critical Thinking Disposition Inventory\|CCTDI]]测量七个维度的批判性思维倾向，用于比较 DP 与非 DP 毕业生 |
+> | **测量工具二 ASC** | [[Academic Self-Concept General Scale\|ASC]]测量一般学术自我概念，并在跨学校成绩难以标准化时作为实际学业成果的代理指标 |
 > | **测量工具三：ATAR 与预期成果** | 学生自报 ATAR（澳大利亚高等教育入学排名，即 12 年级成绩的标准化度量）；6 题项自编预期大学成果量表（样题："我将完成我的课程且不会挂掉任何一门课"），Cronbach's α = .78 |
 
 > [!sample-panel]- 阶段三样本构成
@@ -237,10 +237,10 @@ journal: "Australian Journal of Education"
 
 > [!stat-cards]- 阶段一量表级汇总
 >
-> | 量表 | α | Y11 M (SD) | Y12 M (SD) | t(1240) | p |
-> |:-----|:--|:-----------|:-----------|:--------|:---|
-> | CTSS (14 项) | .96 | 4.62 (1.08) | 4.85 (1.05) | 3.04 | <.001 |
-> | MSLQ-CT (5 项) | .80 | 4.48 (1.22) | 4.69 (1.15) | 3.04 | <.01 |
+> | 量表 | Y11 M (SD) | Y12 M (SD) | t(1240) | p |
+> |:-----|:-----------|:-----------|:--------|:---|
+> | [[Critical Thinking Strategies Scale\|CTSS]] | 4.62 (1.08) | 4.85 (1.05) | 3.04 | <.001 |
+> | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | 4.48 (1.22) | 4.69 (1.15) | 3.04 | <.01 |
 >
 > 两个独立量表汇聚于同一结论：12 年级 ToK 学生的批判性思维显著高于 11 年级（p.8–9）。
 
@@ -320,18 +320,18 @@ journal: "Australian Journal of Education"
 > 完成整个 DP 课程（含 ToK）的学生在进入大学时，不仅在批判性思维倾向的所有七个维度上优于非 DP 毕业生，而且在三项大学学术准备指标（ATAR、学术自我概念、预期大学成果）上均表现出统计显著的全面优势。
 
 > [!contrast-table] 批判性思维倾向比较（CCTDI 七维度 + 总分）
-> | 维度 | DP (n=42) M | 非DP (n=126) M | Δ | 等级区间 |
-> |:-----|:-----------|:--------------|:--|:---------|
-> | 求真（Truth-seeking） | 37.02 | 35.00 | +2.02 | 矛盾 (30–40) |
-> | 开放心态（Open-mindedness） | 43.48 | 42.85 | +0.63 | 积极 (40–50) |
-> | 探究性（Inquisitiveness） | 48.17 | 46.96 | +1.21 | 积极 (40–50) |
-> | 分析性（Analyticity） | 44.95 | 44.75 | +0.20 | 积极 (40–50) |
-> | 系统性（Systematicity） | 39.74 | 38.91 | +0.83 | 矛盾 (30–40) |
-> | 推理自信（Confidence in Reasoning） | 45.93 | 43.75 | +2.18 | 积极 (40–50) |
-> | 判断成熟度（Maturity of Judgement） | 41.98 | 41.90 | +0.08 | 积极 (40–50) |
-> | **CCTDI 总分** | **300.95** | **293.98** | **+6.97** | — |
+> | 维度 | DP (n=42) M | 非DP (n=126) M | Δ |
+> |:-----|:-----------|:--------------|:--|
+> | 求真（Truth-seeking） | 37.02 | 35.00 | +2.02 |
+> | 开放心态（Open-mindedness） | 43.48 | 42.85 | +0.63 |
+> | 探究性（Inquisitiveness） | 48.17 | 46.96 | +1.21 |
+> | 分析性（Analyticity） | 44.95 | 44.75 | +0.20 |
+> | 系统性（Systematicity） | 39.74 | 38.91 | +0.83 |
+> | 推理自信（Confidence in Reasoning） | 45.93 | 43.75 | +2.18 |
+> | 判断成熟度（Maturity of Judgement） | 41.98 | 41.90 | +0.08 |
+> | **CCTDI 总分** | **300.95** | **293.98** | **+6.97** |
 >
-> 注：各分量表得分范围 10–60。等级：低(10–29)、矛盾(30–40)、积极(40–50)、高(50–60)。DP 毕业生在所有维度上均高于非 DP 毕业生，推理自信差异最大（+2.18），判断成熟度差异最小（+0.08）。
+> DP 毕业生在所有维度上均高于非 DP 毕业生，推理自信差异最大（+2.18），判断成熟度差异最小（+0.08）。计分区间和等级解释见[[California Critical Thinking Disposition Inventory|CCTDI 工具条目]]。
 
 > [!contrast-table] 大学学术准备指标比较
 > | 指标 | DP M (SD) | 非DP M (SD) | t | df | p |
@@ -340,21 +340,7 @@ journal: "Australian Journal of Education"
 > | 学术自我概念 (ASC) | 6.25 (0.96) | 5.75 (1.02) | 4.24 | 380 | <.001 |
 > | 预期大学成果 | 3.43 (0.43) | 3.32 (0.47) | 2.25 | 380 | <.001 |
 >
-> 注：ASC 为 10 项 Marsh (1992) 量表（α=.92）；预期大学成果为 6 项自编量表（α=.78）。ATAR 均值差 +4.84 分，DP 毕业生进入更具选拔性大学课程的优势明显。
-
-> [!ref-table] CCTDI 分量表信度与得分体系
-> | 分量表 | Cronbach's α | 得分区间 | 等级划分 |
-> |:-------|:------------|:---------|:---------|
-> | 求真 (Truth-seeking) | .70–.78 | 10–60 | 低 10–29 / 矛盾 30–40 / 积极 40–50 / 高 50–60 |
-> | 开放心态 (Open-mindedness) | .67–.74 | 10–60 | 同上 |
-> | 探究性 (Inquisitiveness) | .78–.82 | 10–60 | 同上 |
-> | 分析性 (Analyticity) | .70–.73 | 10–60 | 同上 |
-> | 系统性 (Systematicity) | .72–.74 | 10–60 | 同上 |
-> | 推理自信 (Critical Thinking Confidence) | .75–.78 | 10–60 | 同上 |
-> | 判断成熟度 (Maturity of Judgement) | .73–.76 | 10–60 | 同上 |
-> | **总量表** | **.90** | 70–420 | — |
->
-> DP 和非DP 毕业生在多数分量表上均处于 40–50 的积极区间。推理自信差异最大（Δ +2.18），判断成熟度差异最小（Δ +0.08）。
+> ATAR 均值差为 +4.84 分，DP 毕业生在三项大学学术准备指标上均占优势。ASC 的工具结构与测量证据见[[Academic Self-Concept General Scale|ASC 工具条目]]。
 
 > [!warrant]- 推理桥梁与三项关键限制
 > DP 毕业生在批判性思维倾向和大学学术指标上的全面优势，从表面看与显性批判性思维[[Didaktik|教学理论]]的核心预测一致。但有三项推理限制必须被纳入判断：
@@ -380,7 +366,6 @@ journal: "Australian Journal of Education"
 > | 类别 | 指标 | 数值 | 来源 |
 > |:-----|:-----|:-----|:-----|
 > | 阶段一样本 | ToK 学生总数 | 1,338 (Y11=630, Y12=632)，47 校，覆盖率 ~37% | p.8 |
-> | 测量工具 | CTSS 内部信度 | α = .96 (14 项, 7-pt Likert) | p.6 |
 > | 阶段一结果 | Y12 > Y11 的 CTSS 技能 | 11/14 项显著 (p<.05–p<.001) | pp.8–9 |
 > | 阶段一结果 | 效应最大项 | 评估主张 t=4.70, p<.001 | p.9 |
 > | 阶段三结果 | ATAR 均值差 | DP +4.84 (94.13 vs 89.29), p<.001 | p.12 |
