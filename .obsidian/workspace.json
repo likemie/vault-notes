@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/qualitative/Observation Method.md",
-                "mode": "preview",
+                "file": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Observation Method"
+              "title": "Argument_QiMei_2015_EducationalResearchMethods"
             }
           }
         ]
@@ -192,6 +192,8 @@
   },
   "active": "05feaf1c2f5afb9d",
   "lastOpenFiles": [
+    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_9-3_Kemmis_Spiral_Cycle.jpg",
+    "wiki/methods/qualitative/Observation Method.md",
     "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md",
     "sources/Beech_2015_GSE.md",
     "scripts/__pycache__/wiki_relations.cpython-313.pyc",
@@ -229,8 +231,6 @@
     "wiki/templates/template-argument.md",
     "wiki/templates/template-concept.md",
     "wiki/templates/template-person.md",
-    "wiki/templates/template-fact-policy.md",
-    "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md",
     "wiki/facts/usa",
     "scripts/__pycache__/citation_index.cpython-313.pyc",
     "sources/Yu_Xie_2025_JHE.pdf",
