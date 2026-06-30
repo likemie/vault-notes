@@ -1342,7 +1342,6 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
             "item_count",
             "administration_mode",
             "response_format",
-            "license",
         ]
         for field in instrument_fields:
             if field not in data:
@@ -1350,19 +1349,19 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
         instrument_sections = [
             "工具定位",
             "测量构念与维度",
-            "版本与适配",
             "题项与作答方式",
-            "计分与解释",
             "测量属性",
             "实施条件",
-            "获取、授权与引用",
-            "适用边界",
             "使用该工具的研究",
+            "版本与适配",
         ]
         for section in instrument_sections:
             if f"## {section}" not in body:
                 issues.append(Issue("ERROR", rel(path), f"instrument template missing section: ## {section}", code="TEMPLATE_INSTRUMENT_SECTION_MISSING"))
-        for callout in ["[!ref-table]", "[!instrument-scoring]", "[!instrument-access]"]:
+        instrument_h2 = [line[3:].strip() for line in body.splitlines() if line.startswith("## ")]
+        if instrument_h2 and instrument_h2[-1] != "版本与适配":
+            issues.append(Issue("ERROR", rel(path), "instrument template must place ## 版本与适配 last", code="TEMPLATE_INSTRUMENT_VERSION_ORDER"))
+        for callout in ["[!ref-table]", "[!instrument-items]", "[!instrument-use]"]:
             if callout not in body:
                 issues.append(Issue("ERROR", rel(path), f"instrument template missing required callout: {callout}", code="TEMPLATE_INSTRUMENT_CALLOUT_MISSING"))
     if typ in {"concept", "theory", "method", "instrument", "person", "fact"}:

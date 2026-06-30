@@ -451,11 +451,9 @@ updated: 2026-06-21
 | `[!theory-use]` | 理论使用方式：框架 / 工具 / 批判视角 / 报告逻辑 |
 | `[!theory-components]` | 理论构件：关键概念、分类、机制或方法在理论中的功能 |
 | `[!theory-boundary]` | 理论适用边界：适合 / 谨慎 / 不适合 / 常见误用 |
-| `[!instrument-profile]` | 测量工具定位，包括类型、开发者、目的、人群与实施方式 |
+| `[!instrument-profile]` | 测量工具定位，包括类型、开发者、目的与实施方式 |
 | `[!instrument-items]` | 题项数量、形式、作答格式、反向题与完成时间 |
-| `[!instrument-scoring]` | 计分、缺失处理、分量表、分数方向、常模与禁止解释 |
 | `[!instrument-use]` | 施测资格、材料、时间成本、数据质量与伦理要求 |
-| `[!instrument-access]` | 获取方式、许可状态、允许用途、引用与修改限制 |
 
 ---
 
