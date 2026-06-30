@@ -52,7 +52,7 @@ updated: 2026-06-30
 ## 测量构念与维度
 
 > [!entry-map]
->
+> <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 > | 维度 | 对应构念 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|---|
 > | 批判性思维 | [[Critical Thinking]] | 5 | 学生自报的批判性思维策略使用 | 本文报告五题分量表均值，分数越高表示更符合受测者 |
@@ -82,6 +82,7 @@ updated: 2026-06-30
 ## 版本与适配
 
 > [!ref-table]- 版本索引
+> <span class="instrument-version-table-marker" aria-hidden="true"></span>
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | MSLQ 批判性思维分量表 | 英语，澳大利亚施测 | 十一、十二年级 ToK 学生 | 5 | 本文没有报告对原分量表的改动 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6, 8)]] |

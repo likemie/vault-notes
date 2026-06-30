@@ -50,7 +50,7 @@ updated: 2026-06-30
 ## 测量构念与维度
 
 > [!entry-map]
->
+> <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 > | 维度 | 对应构念 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|---|
 > | 批判性思维策略使用 | [[Critical Thinking]] | 14 | 澄清、问题分解、论证识别与分析、主张评估、替代方案、证据推理、反思和表达 | 本文报告十四题总分均值，分数越高表示自报使用程度越高 |
@@ -70,6 +70,7 @@ updated: 2026-06-30
 ### 批判性思维策略使用
 
 > [!ref-table]- 题项
+> <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
 > | 1 | 努力澄清含义，并界定自己不熟悉的术语<br><small>Work to clarify meaning and define terms with which you are unfamiliar</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
@@ -102,6 +103,7 @@ updated: 2026-06-30
 ## 版本与适配
 
 > [!ref-table]- 版本索引
+> <span class="instrument-version-table-marker" aria-hidden="true"></span>
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 研究版 | 英语，澳大利亚 | 十一、十二年级 ToK 学生 | 14 | 为 Cole 等人的研究开发，由 EFA 缩题形成 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6, 9)]] |

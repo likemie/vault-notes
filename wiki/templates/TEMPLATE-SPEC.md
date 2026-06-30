@@ -340,6 +340,7 @@ Instrument 页记录可以被明确识别、获取和实施的命名量表、问
 - `instrument_type` 使用 `scale`、`questionnaire`、`test`、`inventory`、`rubric`、`checklist`、`observation-tool`、`interview-tool` 或 `other`。
 - `## 工具定位` 使用 `[!instrument-profile]` 四格卡片，固定填写工具类型、开发者与年份、测量目的和实施方式。
 - 表格用于需要逐行累计或横向比较的记录，包括维度、题项、使用该工具的研究和版本。表格每行只放一个题项、版本、结果或研究，不把解释性长段落塞进单元格。
+- Instrument 的维度表、题项表、研究表、结果明细表和版本表使用各自的 marker 与专用列宽。不得删除模板中的 `instrument-*-table-marker`；正文栏不足时由表格容器横向滚动，不压缩成长文本窄列。
 - Callout 用于单一工具的整体说明和操作规则，包括工具定位和题项结构。只有一项说明时不为形式完整强行建表。
 - 表格可以放在 `[!entry-map]` 或 `[!ref-table]-` 中以保持样式，但其内部仍按结构化记录书写。普通说明不得套用表格型 callout。
 - 同一工具的原始版、修订版、短版、译本和不同人群版本必须明确区分。测量属性、计分规则和阈值都要绑定具体版本。

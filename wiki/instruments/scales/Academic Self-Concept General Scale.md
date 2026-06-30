@@ -48,7 +48,7 @@ updated: 2026-06-30
 ## 测量构念与维度
 
 > [!entry-map]
->
+> <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 > | 维度 | 对应构念 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|---|
 > | 一般学术自我概念 | 学术自我概念 | 10 | 学生对自身一般学术能力和学业表现的认识 | 本文报告十题量表均值，但没有说明合成规则 |
@@ -78,6 +78,7 @@ updated: 2026-06-30
 ## 版本与适配
 
 > [!ref-table]- 版本索引
+> <span class="instrument-version-table-marker" aria-hidden="true"></span>
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | Marsh 1992 一般分量表 | 英语，澳大利亚施测 | 大学一年级学生 | 10 | 本文没有报告对原量表的改动 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6–7, 12)]] |

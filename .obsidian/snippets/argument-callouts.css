@@ -13402,11 +13402,95 @@
   background: rgba(75, 190, 186, 0.055);
 }
 
-.callout[data-callout="ref-table"]:has(.instrument-study-table-marker) .instrument-study-table-marker {
+.instrument-dimension-table-marker,
+.instrument-item-table-marker,
+.instrument-study-table-marker,
+.instrument-result-table-marker,
+.instrument-version-table-marker {
   display: none;
 }
 
-.callout[data-callout="ref-table"]:has(.instrument-study-table-marker) th,
-.callout[data-callout="ref-table"]:has(.instrument-study-table-marker) td {
-  font-size: var(--fs-body);
+.callout:has(.instrument-dimension-table-marker) > .callout-content,
+.callout:has(.instrument-item-table-marker) > .callout-content,
+.callout:has(.instrument-study-table-marker) > .callout-content,
+.callout:has(.instrument-result-table-marker) > .callout-content,
+.callout:has(.instrument-version-table-marker) > .callout-content {
+  overflow-x: auto;
 }
+
+.callout:has(.instrument-dimension-table-marker) table,
+.callout:has(.instrument-item-table-marker) table,
+.callout:has(.instrument-study-table-marker) table,
+.callout:has(.instrument-result-table-marker) table,
+.callout:has(.instrument-version-table-marker) table {
+  table-layout: fixed !important;
+}
+
+/* 维度表  测量内容最大，题项数最小 */
+.callout:has(.instrument-dimension-table-marker) table { min-width: 760px; }
+.callout:has(.instrument-dimension-table-marker) th:nth-child(1),
+.callout:has(.instrument-dimension-table-marker) td:nth-child(1) { width: 16%; }
+.callout:has(.instrument-dimension-table-marker) th:nth-child(2),
+.callout:has(.instrument-dimension-table-marker) td:nth-child(2) { width: 16%; }
+.callout:has(.instrument-dimension-table-marker) th:nth-child(3),
+.callout:has(.instrument-dimension-table-marker) td:nth-child(3) { width: 8%; }
+.callout:has(.instrument-dimension-table-marker) th:nth-child(4),
+.callout:has(.instrument-dimension-table-marker) td:nth-child(4) { width: 36%; }
+.callout:has(.instrument-dimension-table-marker) th:nth-child(5),
+.callout:has(.instrument-dimension-table-marker) td:nth-child(5) { width: 24%; }
+
+/* 题项表  题目文本占一半以上 */
+.callout:has(.instrument-item-table-marker) table { min-width: 960px; }
+.callout:has(.instrument-item-table-marker) th:nth-child(1),
+.callout:has(.instrument-item-table-marker) td:nth-child(1) { width: 6%; }
+.callout:has(.instrument-item-table-marker) th:nth-child(2),
+.callout:has(.instrument-item-table-marker) td:nth-child(2) { width: 54%; }
+.callout:has(.instrument-item-table-marker) th:nth-child(3),
+.callout:has(.instrument-item-table-marker) td:nth-child(3) { width: 13%; }
+.callout:has(.instrument-item-table-marker) th:nth-child(4),
+.callout:has(.instrument-item-table-marker) td:nth-child(4) { width: 12%; }
+.callout:has(.instrument-item-table-marker) th:nth-child(5),
+.callout:has(.instrument-item-table-marker) td:nth-child(5) { width: 15%; }
+
+/* 研究表  样本、信效度和结果获得主要空间 */
+.callout:has(.instrument-study-table-marker) table { min-width: 1180px; }
+.callout:has(.instrument-study-table-marker) th,
+.callout:has(.instrument-study-table-marker) td { font-size: 0.86em !important; }
+.callout:has(.instrument-study-table-marker) th:nth-child(1),
+.callout:has(.instrument-study-table-marker) td:nth-child(1) { width: 12%; }
+.callout:has(.instrument-study-table-marker) th:nth-child(2),
+.callout:has(.instrument-study-table-marker) td:nth-child(2) { width: 11%; }
+.callout:has(.instrument-study-table-marker) th:nth-child(3),
+.callout:has(.instrument-study-table-marker) td:nth-child(3) { width: 21%; }
+.callout:has(.instrument-study-table-marker) th:nth-child(4),
+.callout:has(.instrument-study-table-marker) td:nth-child(4) { width: 18%; }
+.callout:has(.instrument-study-table-marker) th:nth-child(5),
+.callout:has(.instrument-study-table-marker) td:nth-child(5) { width: 20%; }
+.callout:has(.instrument-study-table-marker) th:nth-child(6),
+.callout:has(.instrument-study-table-marker) td:nth-child(6) { width: 18%; }
+
+/* 分维度结果表  指标名和数值列保持均衡 */
+.callout:has(.instrument-result-table-marker) table { min-width: 720px; }
+.callout:has(.instrument-result-table-marker) th:nth-child(1),
+.callout:has(.instrument-result-table-marker) td:nth-child(1) { width: 24%; }
+.callout:has(.instrument-result-table-marker) th:nth-child(2),
+.callout:has(.instrument-result-table-marker) td:nth-child(2) { width: 26%; }
+.callout:has(.instrument-result-table-marker) th:nth-child(3),
+.callout:has(.instrument-result-table-marker) td:nth-child(3) { width: 26%; }
+.callout:has(.instrument-result-table-marker) th:nth-child(4),
+.callout:has(.instrument-result-table-marker) td:nth-child(4) { width: 24%; }
+
+/* 版本表  主要变化最长，题项数最短 */
+.callout:has(.instrument-version-table-marker) table { min-width: 920px; }
+.callout:has(.instrument-version-table-marker) th:nth-child(1),
+.callout:has(.instrument-version-table-marker) td:nth-child(1) { width: 15%; }
+.callout:has(.instrument-version-table-marker) th:nth-child(2),
+.callout:has(.instrument-version-table-marker) td:nth-child(2) { width: 15%; }
+.callout:has(.instrument-version-table-marker) th:nth-child(3),
+.callout:has(.instrument-version-table-marker) td:nth-child(3) { width: 18%; }
+.callout:has(.instrument-version-table-marker) th:nth-child(4),
+.callout:has(.instrument-version-table-marker) td:nth-child(4) { width: 7%; }
+.callout:has(.instrument-version-table-marker) th:nth-child(5),
+.callout:has(.instrument-version-table-marker) td:nth-child(5) { width: 30%; }
+.callout:has(.instrument-version-table-marker) th:nth-child(6),
+.callout:has(.instrument-version-table-marker) td:nth-child(6) { width: 15%; }

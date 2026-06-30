@@ -47,7 +47,7 @@ updated: 2026-06-30
 ## 测量构念与维度
 
 > [!entry-map]
->
+> <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 > | 维度 | 对应构念 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|---|
 > | 求真 | [[Critical Thinking]] | — | 本文只列维度名称，未提供定义 | 分量表 10 至 60 |
@@ -83,6 +83,7 @@ updated: 2026-06-30
 ### Cole 等人 2015 年研究的维度结果
 
 > [!ref-table]- 分量表结果
+> <span class="instrument-result-table-marker" aria-hidden="true"></span>
 > | 维度 | DP 毕业生 M（SD） | 非 DP 毕业生 M（SD） | 手册 α 范围 |
 > |---|---|---|---|
 > | 求真 | 37.02（5.88） | 35.00（6.33） | .70–.78 |
@@ -99,6 +100,7 @@ updated: 2026-06-30
 ## 版本与适配
 
 > [!ref-table]- 版本索引
+> <span class="instrument-version-table-marker" aria-hidden="true"></span>
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | Insight Assessment 2000 版 | 英语，澳大利亚施测 | 大学一年级学生 | 75 | 本文没有报告相对于测试手册的改动 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6–7, 12, 18)]] |

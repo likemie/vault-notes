@@ -50,7 +50,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 多个维度需要逐行比较，使用表格。单维工具也保留一行。 %%
 
 > [!entry-map]
->
+> <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 > | 维度 | 对应构念 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|---|
 > | <维度名称> | [[<Concept>]] | — | 该维度测量什么 | 求和、均值、加权或模型分数 |
@@ -74,6 +74,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ### <维度一>
 
 > [!ref-table]- 题项
+> <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
 > | 1 | 题项原文或准确译文 | 等级、类别或其他选项 | 分值、反向计分或跳题规则 | [[Argument_Author_Year_Journal\|Author (Year, p. X)]] |
@@ -99,6 +100,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 版本、语言、地区和目标人群统一在此记录，不在工具定位中重复。只有一个版本时保留一行。 %%
 
 > [!ref-table]- 版本索引
+> <span class="instrument-version-table-marker" aria-hidden="true"></span>
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 原始版 | 语言与地区 | 人群 | — | 原始结构 | [[Argument_Author_Year_Journal\|Author (Year)]] |
