@@ -83,7 +83,7 @@ updated: 2026-06-01
 
 ### 英国：从 RAE 到 REF
 
-英国的 Research Assessment Exercise（RAE，1998–2008）及其继任者 [[Research Excellence Framework]]（REF，自 2014 年起）是准市场最成熟的制度形式。REF 的评估结果，将各学科的研究产出评为 4*（世界领先）到 unclassified，直接决定了英格兰高等教育拨款委员会分配的数亿英镑 QR 研究拨款。院系的招聘、晋升和资源配置策略被系统性地重塑以最大化 REF 得分。
+英国的 [[Research Excellence Framework|Research Assessment Exercise]]（RAE，1998–2008）及其继任者 [[Research Excellence Framework]]（REF，自 2014 年起）是准市场最成熟的制度形式。REF 的评估结果，将各学科的研究产出评为 4*（世界领先）到 unclassified，直接决定了英格兰高等教育拨款委员会分配的数亿英镑 QR 研究拨款。院系的招聘、晋升和资源配置策略被系统性地重塑以最大化 REF 得分。
 
 ### 德国：Excellence Initiative
 

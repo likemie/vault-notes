@@ -9,9 +9,9 @@ title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
 argument_display_title: "Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks"
 argument_kind: "book"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Springer."
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Pride in Learning]]"
   - "[[International Education Hubs]]"
+  - "[[Theory of Knowledge]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Third Mission (Universities)]]"
   - "[[Champ]]"
@@ -177,7 +178,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 - 高等教育是世界贸易组织（World Trade Organization, WTO）《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS）中被最频繁纳入的行业(WTO, 2020)，详见 [[GATS and Trade in Education Services]]
 - 二十国集团（G20）开始实施研究计分卡评估各国研究系统表现(Web of Science Group, 2019)
 
-> 例：想象一个场景——一所大学的研究者在国际期刊上发表了一篇关于人工智能（Artificial Intelligence, AI）的论文，这篇论文被硅谷公司用来开发新产品，同时也被另一国政府视为"我们需要赶上"的信号。该国随即推出"AI 卓越计划"，投入数十亿美元，同时限制本国 AI 人才出境，并加强对来自竞争对手国家的研究生的签证审查。一篇纯粹的知识论文，就这样被卷入了地缘政治的漩涡。Moisio & Kangas (2016) 说得更尖锐：所谓的"国际化"和"全球性"的知识空间——包括大学——往往掩盖了城市、区域、国家和超国家实体持有者的领土主张和市场利益（参见 [[Geopolitics of Knowledge]]）。
+> 例：想象一个场景——一所大学的研究者在国际期刊上发表了一篇关于人工智能（Artificial Intelligence, AI）的论文，这篇论文被硅谷公司用来开发新产品，同时也被另一国政府视为"我们需要赶上"的信号。该国随即推出"AI 卓越计划"，投入数十亿美元，同时限制本国 AI 人才出境，并加强对来自竞争对手国家的研究生的签证审查。一篇纯粹的[[Theory of Knowledge|知识论]]文，就这样被卷入了地缘政治的漩涡。Moisio & Kangas (2016) 说得更尖锐：所谓的"国际化"和"全球性"的知识空间——包括大学——往往掩盖了城市、区域、国家和超国家实体持有者的领土主张和市场利益（参见 [[Geopolitics of Knowledge]]）。
 
 ### 第六步：结论——大学必须从"追随者"变成"塑造者"
 
@@ -197,7 +198,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 
 ### 研究对齐：大学知识的全球转向
 
-- 以英国研究卓越框架（[[Research Excellence Framework]], REF）为例，研究评估体系中"影响"（impact）的权重持续增加：2009 年首次讨论，REF 2014 成为第二重要评分项，REF 2021 预期权重进一步增长(Marques et al., 2017,p.146)
+- 以英国[[Research Excellence Framework|研究卓越框架]]（[[Research Excellence Framework]], REF）为例，研究评估体系中"影响"（impact）的权重持续增加：2009 年首次讨论，REF 2014 成为第二重要评分项，REF 2021 预期权重进一步增长(Marques et al., 2017,p.146)
 - 多所大学将研究与 [[UN Sustainable Development Goals|SDGs]] 对齐：Manchester 开发碳足迹工具，UBC 开发保护生物多样性的传感器，Auckland 与航运业合作追踪鲸鱼迁徙路线，KTH 创建可持续发展教学平台，ETH Zurich 推行"2000 Watt Society"项目，Oberlin College 推行全城气候积极项目(pp.150–151)
 - Zapp (2017b) 分析 1325+ 个国际组织（International Organizations, IOs）1970–2017 年科学产出，发现公立大学是所有 IOs 最频繁的研究合作者，平均 40,000 篇出版物由大学与 IO 研究者共同署名(p.151)
 - Zapp (2020a) 分析 1947–2019 年逾 100 份 IOs 全球报告，发现所有报告从 1980 年代末起均包含对科学资源的引用，部分报告已类似大规模[[Literature Review|文献综述]](p.151)

@@ -33,8 +33,8 @@ Total entries: **268**
 
 | Type | Entries |
 |---|---:|
-| Event | 131 |
-| Policy | 113 |
+| Event | 130 |
+| Policy | 114 |
 | Organization | 13 |
 | Unknown | 6 |
 | Region | 3 |
@@ -420,20 +420,19 @@ Total entries: **268**
 
 ## UK
 
-> [!index-list]- Event (8)
+> [!index-list]- Event (7)
 > - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
 > - [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 > - [[Girls Into Science and Technology Project]] — 1980年代英国为期三年的女性主义行动研究项目，涉及2,000名学生和十所学校，通过同步整合行动研究刻意改变女孩的科学科目选择与职业抱负。
 > - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
 > - [[Oxford UIDP Summit 2019]] — 2019 年牛津大学与 UIDP 联合举办的首届产学合作高层峰会，汇集 149 名英国、美国、欧洲及其他地区的大学、企业和政府代表，围绕十大关键议题产出峰会报告 Developing University-Industry Partnerships Fit for the Future
 > - [[Playing for Success]] — 英国依托足球俱乐部场地设立的学习支持中心项目，结合体育吸引力与课外辅导实践，后续成为教育证据聚合争议中的重要案例
-> - [[Research Excellence Framework]] — 2014 年起取代 RAE 的英国全国性大学研究评估体系，评估结果直接决定 QR 研究拨款的分配，是高等教育准市场最成熟也最具影响力的制度形式
 > - [[ResearchED]] — 英国教师主导的教育研究传播网络，推动课堂实践与研究证据之间的公共讨论
 
 > [!index-list]- Organization (1)
 > - [[Education Endowment Foundation]] — 英国的教育证据中介组织，2011年成立，由公益基金资助，通过制作教学工具包和资助RCT来推广基于证据的教育实践，是全球what works运动在教育领域的制度化标杆。
 
-> [!index-list]- Policy (16)
+> [!index-list]- Policy (17)
 > - [[Centre for the Use of Research and Evidence in Education]] — 英国证据传播机构，主要把研究报告转化为教师和政策制定者可理解、可用于学校真实情境的材料。
 > - [[Committee for the Accreditation of Teacher Education]] — 1984年英国保守党政府设立的教师教育认证机制，将教师教育从学科基础转向课堂技能和能力导向的教师训练。
 > - [[Education and Inspections Act 2006]] — 英国法律禁止新建文法学校，但允许现有 163 所文法学校继续运作
@@ -445,6 +444,7 @@ Total entries: **268**
 > - [[Industrial Strategy Challenge Fund]] — 英国在 2017 年产业战略框架下设立的产业主导、产业参与的挑战驱动型研究与创新资助机制，四年间追加 47 亿英镑科学预算中大量资金通过 ISCF 分配，涵盖量子技术、医疗、清洁增长等领域
 > - [[Institute for Effective Education]] — 英国约克大学相关独立慈善机构，通过学校支持、严格评价、Evidence in Brief和Evidence 4 Impact推动教育政策与实践中的证据使用。
 > - [[Ofsted]] — 英国教育标准办公室，负责英格兰学校检查与评级，其评级在教育政策辩论中常被当作研究证据使用并带有强烈道德判断色彩
+> - [[Research Excellence Framework]] — 英国实施的全国性大学研究评估体系（前身为 RAE），直接决定 QR 研究拨款的分配，是高等教育准市场与新公共管理（NPM）审计文化中最成熟的制度形式，深刻驱动了英国大学的管理主义形变
 > - [[Rose Report]] — Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
 > - [[Selective Schools Expansion Fund]] — 保守党政府 £50M 基金允许现有文法学校扩展招生，在新建禁令未修改的情况下以替代路径扩大选择性教育
 > - [[Strength in Places Fund]] — 英国 2010 年代后期在产业战略框架下设立的 2.35 亿英镑基于地点的研究与创新资助基金，鼓励大学、企业、地方政府等组成区域联盟申请资源进行本地研发投资，标志着从全国卓越标准向地域因素的重大政策转向

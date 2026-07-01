@@ -12597,15 +12597,6 @@
     ]
   },
   {
-    "title": "Research Excellence Framework",
-    "type": "fact",
-    "path": "wiki/facts/uk/Research Excellence Framework.md",
-    "aliases": [
-      "REF",
-      "Research Excellence Framework (REF)"
-    ]
-  },
-  {
     "title": "ResearchED",
     "type": "fact",
     "path": "wiki/facts/uk/ResearchED.md"
@@ -12714,6 +12705,18 @@
     "path": "wiki/facts/uk/Ofsted.md",
     "aliases": [
       "英国教育标准办公室"
+    ]
+  },
+  {
+    "title": "Research Excellence Framework",
+    "type": "fact",
+    "path": "wiki/facts/uk/Research Excellence Framework.md",
+    "aliases": [
+      "REF",
+      "RAE",
+      "Research Assessment Exercise",
+      "研究卓越框架",
+      "研究评估考核"
     ]
   },
   {

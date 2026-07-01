@@ -22,7 +22,7 @@ title: "Argument_Lakhani_2012_AKUIED"
 argument_key: "Argument_Lakhani_2012_AKUIED"
 argument_display_title: "Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum"
 argument_kind: "conference-paper"
-argument_related_count: 25
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Learner Autonomy]]"
   - "[[Epistemology]]"
-  - "[[Operationalization]]"
   - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Definition of Terms]]"
@@ -49,7 +48,6 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Sample Size Determination]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Triangulation]]"
   - "[[Purposeful Sampling]]"
@@ -84,10 +82,8 @@ updated: 2026-07-02
 
 ### 自主性的定义演进
 
-自主性概念经历了从单一维度到多维结构的演进。对这一概念的[[Operationalization|操作化]]是研究的分析起点。
-
 > [!def] Holec (1988) 的经典定义
-> 自主性是学习者为自己的学习负责的能力（taking charge of one's own learning, p. 3）。这一定义确立了自主性的核心意涵：学习者从被动接收者转向学习过程的主动管理者。Holec 的定义侧重于能力维度，未区分学习者能否和是否愿意的问题。
+> 自主性是学习者为自己的学习负责的能力（taking charge of one's own learning, p. 3）。Holec 的定义侧重于能力维度，未区分学习者能否和是否愿意的问题。
 
 > [!def] Dam (1995) 引入准备度概念
 > Dam 将自主性从单一能力概念扩展为包含**准备度（readiness）**的双维结构。准备度由两个要素构成：**能力（capacity）**，指独立和在合作中执行学习任务的能力；**意愿（willingness）**，指内在动机或意图强度，即学习者是否真正想要承担学习责任。这一区分意味着自主性不仅是技能训练的结果，还涉及学习者的动机状态和自我信念。
@@ -96,7 +92,7 @@ updated: 2026-07-02
 > 综合[[Document|文献]]，自主性在操作层面涉及三个核心特征（pp.173–174）：
 >
 > - **内部反思（Internal Reflection）** 自主性体现在个体的信念和欲望是理性和知情反思的结果（Carter, Kramer, & Steiner, 2007, p. 323）。个体经过有意识的反思后形成判断和选择。
-> - **[[Metacognition|元认知]]意识（Metacognitive Awareness）** 自主性要求对自身认知保持意识（consciousness），包括关注和自评自己知道什么、正在做什么、以及认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。这种意识使学习者能够做出知情的决策。
+> - **[[Metacognition|元认知]]意识（Metacognitive Awareness）** 自主性要求对自身认知保持意识（consciousness），包括关注和自评自己知道什么、正在做什么、以及认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。
 > - **能力（Competence）** 学习者需要具备[[Critical Thinking|批判性思维]]、分析性写作和决策等具体技能。Little（2007）指出，只有当学习者通过这些学习经验获得相关技能时，自主性的潜力才能实现。
 
 ### 自主学习者特征作为观察框架
@@ -110,7 +106,7 @@ updated: 2026-07-02
 > - **利用一切学习机会（Use Every Opportunity to Learn）** 将日常经验、社会互动和课外资源都视为学习的组成部分。
 
 > [!warrant]- 概念框架如何转化为实证观察
-> 自主性的[[Definition of Terms|操作性定义]]（能力、意愿、元认知意识）规定了分析的基本维度；Chan 的六项特征提供了在课堂和访谈中识别自主性表现的行为指标。学生在课堂讨论中提出的问题、在论文中采用的论证策略、在[[Homework|作业]]中尝试的表达方式，都可以被这套框架所捕获和分析。这一设计将自主性从一个抽象的教育理想转化为可观察、可[[Coding in Qualitative Research|编码]]的角色行为。
+> 自主性的[[Definition of Terms|操作性定义]]（能力、意愿、元认知意识）规定了分析的基本维度；Chan 的六项特征提供了在课堂和访谈中识别自主性表现的行为指标。学生在课堂讨论中提出的问题、在论文中采用的论证策略、在[[Homework|作业]]中尝试的表达方式，都可以被这套框架所捕获和分析。
 
 ---
 
@@ -129,7 +125,7 @@ updated: 2026-07-02
 
 ### 案例背景与参与者画像
 
-The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年制 IBDP 课程（面向 16 至 19 岁学生的高中后阶段）。采用目的抽样，以课堂参与度和性别平衡为标准，选取信息丰富的案例（information-rich cases）。抽样目标是最大化从参与者身上获得的理解深度，而非追求样本的代表性或推广性。
+The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年制 IBDP 课程（面向 16 至 19 岁学生的高中后阶段）。采用目的抽样，以课堂参与度和性别平衡为标准，选取信息丰富的案例（information-rich cases）。
 
 > [!sample-panel]- 研究地点与抽样
 > | 样本层面 | 构成 |
@@ -208,7 +204,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 >
 > > "因为我一直在思考，我开始追问：这类认知中还有什么其他的谬误？好奇心让我提前阅读了书和互联网上的内容，我想把那些学到的东西放进作业里。你的书不能回答你所有的问题，所以你必须去查更多的来源。作业的主要问题很重要，但我自己的问题对我来说同样重要。"（Interview with Ariana, March 14, 2012, p.175）
 >
-> 这个回答包含三个自主性信号。第一，Ariana 的提问是对自身思考的推进：我开始追问还有什么其他的谬误，而非回应课堂规定的问题。第二，她主动扩展了信息来源，包括书籍和互联网。第三，她在作业问题和自己的问题之间建立了平等关系，课程任务和自身求知欲被放在同一层面。
+> Ariana 的提问是对自身思考的推进：追问还有什么其他的谬误，而非回应课堂规定的问题。她主动扩展了信息来源，包括书籍和互联网。她在作业问题和自己的问题之间建立了平等关系，课程任务和自身求知欲被放在同一层面。
 > > **Sabaina 的补充视角** Sabaina 也表达了类似的经验，侧重点不同：她强调讨论作为提问的触发机制。讨论引导提问，然后我自己思考并独立研究（Interview with Sabaina, March 12, 2012, p.176）。提问行为的社会起源在于：即使最终表现为独立研究，提问往往始于与他人的对话。
 
 > [!warning] 反面证据：自信缺失时提问能力的失效
@@ -221,7 +217,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ---
 
 > [!line-a] 角色二：认知者作为反思性思考者（Knower as a Reflective Thinker）
-**核心表现** 提问获得的信息需要经过反思才能转化为知识。研究发现认知者通过反思日常生活经验，积极参与课堂讨论和论文写作中的知识建构（p.176）。
+**核心表现** 提问获得的信息需要经过反思才能转化为知识。认知者通过反思日常生活经验，参与课堂讨论和论文写作中的知识建构（p.176）。
 
 > [!chain-link] 证据链
 > **Ayaan 的案例** Ayaan 的参与方式与 Ariana 不同。他不常在课堂讨论中发言，但在阅读过程中产生问题后，会利用课余时间与教师单独讨论（p.175）。在一篇论文中，Ayaan 通过对社区服务经历的反思，转变了他对**享乐主义（hedonism）**的理解，将自我愉悦重新放在社区服务的光照下审视。他首先接受了享乐主义作为一种生活哲学，然后在社区服务的实际体验中发现了这种哲学的局限，最后在论文中将两种经验并置并进行理论性反思（p.176）。这一转变展示了完整的反思链条：从接受既有观念，到在实践中遭遇挑战，再到通过写作完成理论整合。Ayaan 的课后追问习惯为这种深度反思提供了持续的认知动力。
@@ -245,8 +241,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 >
 > > "当我用不同的方法写这篇作业时，我其实不确定它会被怎么接收。我以前一直写的是客观的、有既定概念的东西。这次我想冒险，加入了主观的个人经验。"（Interview with Ariana, March 14, 2012, p.177）
 >
-> Ariana 的案例展示了创造性表达的三个关键要素：意识到常规做法、有意识地偏离常规、对后果不确定性的接受。
-> >**Sabaina 的视觉表达尝试及其被压缩** Sabaina 的第一篇 TOK 作业充满了图片。她认为视觉有助于传达观点：这是写作者的选择，因为有些人通过图片能更好地表达自己的想法；有时候放一张图片，它就说明了一切（Interview with Sabaina, March 12, 2012, p.177）。她从外部来源选取图片，将自己的想法编织进去，尝试建构新的意义。
+> > **Sabaina 的视觉表达尝试及其被压缩** Sabaina 的第一篇 TOK 作业充满了图片。她认为视觉有助于传达观点：这是写作者的选择，因为有些人通过图片能更好地表达自己的想法；有时候放一张图片，它就说明了一切（Interview with Sabaina, March 12, 2012, p.177）。她从外部来源选取图片，将自己的想法编织进去，尝试建构新的意义。
 > >然而，作业并未得到积极评价。在学校的情境中，学生被期望遵循论文写作的传统规范，只能通过文字进行创造性表达，使用图片不被鼓励（p.177）。
 
 > [!tension] 课程设计意图 vs 学校实施惯例
@@ -320,24 +315,24 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ## 关键引用
 
 > [!citation-card]- 探究者、思考者与创造者的统一
-> Briefly, it can be asserted that, the roles of being Inquirers, Thinkers, Risk-takers, Reflective and Creative mentioned in the learner profile and also their enactments highlight the learners' initiative, [[Critical Thinking]], diverse perspectives, creative expression and self-reflection.（pp.178–179）
+> 学习者培养目标中提到的探究者、思考者、风险承担者、反思者和创造者角色及其实际表现，共同凸显了学习者的主动性、[[Critical Thinking|批判性思维]]、多元视角、创造性表达和自我反思。（pp.178–179）
 >
-> *简言之，可以断言，学习者培养目标中提到的探究者、思考者、风险承担者、反思者和创造者角色及其实际表现，共同凸显了学习者的主动性、批判性思维、多元视角、创造性表达和自我反思。*
+> *Briefly, it can be asserted that, the roles of being Inquirers, Thinkers, Risk-takers, Reflective and Creative mentioned in the learner profile and also their enactments highlight the learners' initiative, critical thinking, diverse perspectives, creative expression and self-reflection.*
 
 > [!citation-card]- 自由需要技能的支撑
-> Furthermore, in such a situation, the freedom to think loses its usefulness when the person is not skilled to deal with that freedom.（p.176）
+> 当一个人不具备处理自由的技能时，思考的自由就失去了效用。（p.176）
 >
-> *此外，在这种情况下，当一个人不具备处理自由的技能时，思考的自由就失去了效用。*
+> *Furthermore, in such a situation, the freedom to think loses its usefulness when the person is not skilled to deal with that freedom.*
 
 > [!citation-card]- 自主性的核心：从内在自我意识出发
-> The reasons for their behaviours, choices and actions of learning come from inside within the consciousness of self.（p.177, citing Benn, 1988）
+> 学习行为、选择和行动的理由，来自内在的自我意识之中。（p.177, citing Benn, 1988）
 >
-> *他们学习行为、选择和行动的理由，来自内在的自我意识之中。*
+> *The reasons for their behaviours, choices and actions of learning come from inside within the consciousness of self.*
 
 > [!citation-card]- 认知失衡与自主性的关系
-> Pedagogue first needs to comfort students that knowledge would certainly create paradoxes because dissonance is vital for constructivist learning and it is also the agency of knower in knowledge construction which proposes the solution.（p.178, citing Moon, 2008）
+> 教师首先需要让学生安心：知识必然会产生悖论，因为不和谐对[[Constructivist Paradigm|建构主义]]学习至关重要，而正是认知者在知识建构中的能动性提出了解决方案。（p.178, citing Moon, 2008）
 >
-> *教师首先需要让学生安心：知识必然会产生悖论，因为不和谐对[[Constructivist Paradigm|建构主义]]学习至关重要，而正是认知者在知识建构中的能动性提出了解决方案。*
+> *Pedagogue first needs to comfort students that knowledge would certainly create paradoxes because dissonance is vital for constructivist learning and it is also the agency of knower in knowledge construction which proposes the solution.*
 
 ---
 
