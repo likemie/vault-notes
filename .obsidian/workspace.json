@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-concept.md",
+                "file": "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-concept"
+              "title": "California Critical Thinking Disposition Inventory"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/templates/template-concept.md",
+                "file": "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "template-concept 的反向链接列表"
+              "title": "California Critical Thinking Disposition Inventory 的反向链接列表"
             }
           },
           {
@@ -223,10 +223,15 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/instruments/interviews",
+    "wiki/instruments/ToK Classroom Observation Protocol.md",
+    "wiki/instruments/observations/ToK Classroom Observation Protocol.md",
+    "wiki/instruments/observations",
+    "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
     "wiki/templates/template-instrument.md",
-    "wiki/concepts/educational-philosophy/Critical Thinking.md",
-    "wiki/templates/template-concept.md",
     "wiki/arguments/journal-articles/Australian Journal of Education/Argument_Cole_2015_AJE.md",
+    "wiki/templates/template-concept.md",
+    "wiki/concepts/educational-philosophy/Critical Thinking.md",
     "wiki/concepts/curriculum/Theory of Knowledge.md",
     "wiki/concepts/educational-philosophy/Epistemology.md",
     "wiki/instruments/scales/Motivated Strategies for Learning Questionnaire Critical Thinking Subscale.md",
@@ -237,7 +242,6 @@
     "wiki/templates/template-fact-policy.md",
     "wiki/index.md",
     "wiki/instruments/scales/Academic Self-Concept General Scale.md",
-    "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
     "wiki/templates/CALLOUTS.md",
     "wiki/templates/template-person.md",
     "wiki/concepts/political-economy-geopolitics/Megascience Installations.md",
@@ -259,12 +263,8 @@
     "wiki/instruments",
     "wiki/concepts/political-economy-geopolitics/Asymmetric Brain Circulation.md",
     "wiki/facts/russia/Federal Law No. 121-FZ on Foreign Agents.md",
-    "wiki/templates/template-argument.md",
-    "wiki/templates/template-argument-edited-volume.md",
-    "wiki/concepts/curriculum/Theory of Knowledge (ToK).md",
     "sources/Cole_2015_AJE.pdf",
     "wiki/arguments/journal-articles/Australian Journal of Education",
-    "raw/0004944115603529 -- 7c5eb04a76ff95fed9dece7e04839c8b -- Anna’s Archive.pdf",
     "books/QiMei_2015_EducationalResearchMethods/figures/Figure_9-3_Kemmis_Spiral_Cycle.jpg",
     "books/QiMei_2015_EducationalResearchMethods/figures/Figure_Knowledge_Map.jpg",
     "books/QiMei_2015_EducationalResearchMethods/figures/Figure_4-1_Concept_Map.jpg",
