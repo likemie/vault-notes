@@ -25,12 +25,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[IB Diploma Programme]]"
-  - "[[Effect Size]]"
   - "[[Variable]]"
-  - "[[School Effectiveness]]"
-  - "[[Academic Self-Concept]]"
-  - "[[Causality]]"
-  - "[[External Validity]]"
+  - "[[Effect Size]]"
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
 related_methods:
@@ -51,7 +47,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-01
 ---
 
 # Theory of Knowledge
@@ -116,19 +112,17 @@ updated: 2026-06-30
 
 ## 实证数据
 
-> [!effect-table]- ToK 相关[[Effect Size|效应量]]（[[Argument_Cole_2015_AJE|Cole et al., 2015]]）
+> [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 比较 | 结果[[Variable\|变量]] | n (组1/组2) | d | [[School Effectiveness\|SE]] | 设计 |
-> |:-----|:---------|:-----------|:--|:--|:-----|
-> | Y12 vs Y11 (ToK 学习) | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | 622/620 | 0.216 | 0.057 | 横断调查 |
-> | Y12 vs Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] 分量表 | 632/630 | 0.177 | 0.056 | 横断调查 |
-> | DP vs 非DP | ATAR | 94/267 | 0.442 | 0.121 | 组间比较 |
-> | DP vs 非DP | [[Academic Self-Concept\|学术自我概念]] ([[Academic Self-Concept General Scale\|ASC]]) | 99/283 | 0.498 | 0.118 | 组间比较 |
-> | DP vs 非DP | 预期大学成果 | 99/283 | 0.239 | 0.117 | 组间比较 |
-> | DP vs 非DP | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | 42/126 | — | — | 组间比较 (SD 未报告) |
->
-> 样本：$N = 1,338$ 名澳大利亚 ToK 学生（Y11=630, Y12=632），47 校，覆盖率 ~$37\%$；$N = 389$ 名大学新生（DP=99, 非DP=290），来自悉尼大学和 QUT。d 由报告均值与 SD 以 pooled SD 公式计算。全部效应量为小到中等（0.18–0.50），两个独立量表（CTSS $d = 0.216$, MSLQ-[[Critical Thinking|CT]] $d = 0.177$）汇聚于一致的方向和量级。解释边界：横断设计不能证明[[Causality|因果]]，无法分离 ToK 独立效果（混杂整个 DP），大学样本为[[Convenience Sampling|便利抽样]]非代表性，CTSS 为自编量表缺乏独立[[External Validity|外部效度]]验证。
+> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | Y12 622<br>Y11 620 | Y12 4.85（1.05）<br>Y11 4.62（1.08） | — | $t(1240)=3.04$<br>$p<.001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | 总 $N=1,242$<br>分组 n — | Y12 4.69（1.15）<br>Y11 4.48（1.22） | — | $t(1240)=3.04$<br>$p<.01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | ATAR | DP 94<br>非 DP 267 | DP 94.13（6.79）<br>非 DP 89.29（12.07） | — | $t(290)=4.76$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | — | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | 预期大学成果 | DP 99<br>非 DP 283 | DP 3.43（0.43）<br>非 DP 3.32（0.47） | — | $t(380)=2.25$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | DP 42<br>非 DP 126 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | — | 组间比较；完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
 
 ---
 

@@ -19,7 +19,8 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Self-Efficacy]]"
-  - "[[Reliability]]"
+  - "[[Causality]]"
+  - "[[Effect Size]]"
 related_theories: []
 related_methods:
   - "[[Convenience Sampling]]"
@@ -55,28 +56,23 @@ updated: 2026-07-01
 
 > [!feature] 学术自我概念的关键特征
 > - **主观性** ASC 反映的是学生对自身能力的感知，与实际成绩之间既相关又存在系统性的高估或低估偏差。
-> - **双向因果** ASC 与学业成就之间存在互惠效应（reciprocal effects）——成绩影响自我概念，自我概念也影响后续成绩。
+> - **双向[[Causality|因果]]** ASC 与学业成就之间存在互惠效应（reciprocal effects）——成绩影响自我概念，自我概念也影响后续成绩。
 > - **领域特异性** 与一般自尊不同，ASC 通常聚焦于学术领域，且可进一步分化为学科特定的自我概念（如数学自我概念、语言自我概念）。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 实证数据汇总
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | $N = 389$ 名澳大利亚大学新生（DP=99, 非DP=290），悉尼大学和 QUT | DP/非DP 组间比较 | ASC 10 项量表（[[Academic Self-Concept General Scale\|Marsh, 1992]]，$\alpha = .92$） | DP > 非DP | 见效应量表 | [[Convenience Sampling\|便利抽样]]非代表性；选课效应无法排除；ASC 为代理测量非直接成绩 |
-
-> [!effect-table]- 一级研究效应量
-> | 研究 | 干预 | 结果[[Variable\|变量]] | n_t | n_c | d | SE | 设计 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 课程（DP vs 非DP 毕业生） | 学术自我概念（ASC） | 99 | 283 | 0.498 | 0.118 | 组间比较 |
+> [!effect-table]- 一级研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> d 由报告均值与 SD 以 pooled SD 公式计算。
+> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | — | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能排除选课效应，不能将差异归因于 ToK 或 DP |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 [[Academic Self-Concept General Scale|ASC]] 作为大学新生学术成果的代理测量，比较 DP 与非 DP 毕业生的学术自我概念差异。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 ASC 作为大学新生学术成果的代理测量，比较 DP 与非 DP 毕业生的学术自我概念差异。

@@ -7,10 +7,10 @@ summary: "Cole et al. (2015) 开发的半结构化课堂观察工具，用于记
 type: instrument
 instrument_type: observation-tool
 developers:
-  - David R. Cole
-  - Jacqueline Ullman
-  - Susanne Gannon
-  - Paul Rooney
+  - "Cole, D. R."
+  - "Ullman, J."
+  - "Gannon, S."
+  - "Rooney, P."
 original_year: "2015"
 languages:
   - English

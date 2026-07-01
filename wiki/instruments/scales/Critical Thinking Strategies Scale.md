@@ -7,10 +7,10 @@ summary: "用于测量学生自报使用批判性思维策略可能性的十四�
 type: instrument
 instrument_type: scale
 developers:
-  - David R. Cole
-  - Jacqueline Ullman
-  - Susanne Gannon
-  - Paul Rooney
+  - "Cole, D. R."
+  - "Ullman, J."
+  - "Gannon, S."
+  - "Rooney, P."
 original_year: "2015"
 languages:
   - English
@@ -22,8 +22,6 @@ tags:
   - instrument/self-report
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Construct]]"
-  - "[[Reliability]]"
 related_theories: []
 related_methods: []
 related_instruments: []

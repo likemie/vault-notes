@@ -7,10 +7,10 @@ summary: "Cole et al. (2015) 开发的半结构化访谈与焦点小组工具，
 type: instrument
 instrument_type: interview-tool
 developers:
-  - David R. Cole
-  - Jacqueline Ullman
-  - Susanne Gannon
-  - Paul Rooney
+  - "Cole, D. R."
+  - "Ullman, J."
+  - "Gannon, S."
+  - "Rooney, P."
 original_year: "2015"
 languages:
   - English
@@ -22,15 +22,15 @@ tags:
   - instrument/interview
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Theory of Knowledge]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods:
-  - "[[Qualitative Interview]]"
-  - "[[Focus Group]]"
-  - "[[Case Study]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Triangulation]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
 confidence: high
@@ -48,7 +48,7 @@ updated: 2026-07-01
 > [!instrument-profile] ToK 访谈与焦点小组协议
 > - **工具类型** 半结构化访谈与焦点小组工具，适用于教师、学生和行政人员三类受访群体。
 > - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
-> - **测量目的** 收集受访者对 ToK 课程价值、批判性思维教学实践、学校实施方式和自身经验的主观看法。
+> - **测量目的** 收集受访者对 ToK 课程价值、[[Critical Thinking|批判性思维]]教学实践、学校实施方式和自身经验的主观看法。
 > - **实施方式** 研究者进入学校进行面对面访谈（教师 40 分钟/人）和焦点小组（学生 30 分钟/组，4–7 人），以预设问题为指引进行半结构化对话。
 
 ---
@@ -60,7 +60,7 @@ updated: 2026-07-01
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | ToK 课程体验 | 4 | ToK 的有效性、改进方向、个人意义、与 IB 学习的关系 | 定性编码 |
+> | ToK 课程体验 | 4 | ToK 的有效性、改进方向、个人意义、与 [[International Baccalaureate\|IB]] 学习的关系 | 定性[[Coding in Qualitative Research\|编码]] |
 > | 批判性思维理解 | 7 | 批判性思维的定义、可教性、要素、特质、标准、效用、必要技能 | 定性编码 |
 > | CT 与 ToK 的关联 | 3 | CT 与 ToK 的关系、CT 在 ToK 中的评价方式、CT 改进路径 | 定性编码 |
 > | 课堂实践与态度 | 4 | CT 在课堂中的诱发方式、学校对 CT/ToK 的态度、好课标准、自我评价 | 定性编码 |
@@ -84,7 +84,7 @@ updated: 2026-07-01
 > | 2 | ToK 课程体验 | ToK 可以如何改进？<br><small>How could ToK be improved?</small> | 能否解释原因？ | 同上 |
 > | 3 | ToK 课程体验 | ToK 对你意味着什么？<br><small>What does ToK mean for you?</small> | — | 同上 |
 > | 4 | ToK 课程体验 | ToK 如何与你的 IB 学习或教学产生关联？<br><small>How does ToK relate to your IB study/teaching in general?</small> | — | 同上 |
-> | 5 | 批判性思维理解 | 对你而言，什么是批判性思维？<br><small>What is critical thinking for you?</small> | — | 同上 |
+> | 5 | [[Critical Thinking\|批判性思维]]理解 | 对你而言，什么是批判性思维？<br><small>What is critical thinking for you?</small> | — | 同上 |
 > | 6 | 批判性思维理解 | 批判性思维可以被教授或学习吗？<br><small>Can critical thinking be taught/learnt?</small> | 为什么？如何做？ | 同上 |
 > | 7 | 批判性思维理解 | 能否讨论批判性思维的若干要素？<br><small>Can you discuss some of the elements of critical thinking?</small> | 目的、概念、推论、视角、问题生成、问题解决或批判 | 同上 |
 > | 8 | 批判性思维理解 | 批判性思考者有哪些特质？<br><small>What are the traits of a critical thinker?</small> | — | 同上 |
@@ -109,7 +109,7 @@ updated: 2026-07-01
 > | F1 | ToK 课程定位 | ToK 作为大学预科科目的有效性 | — | [[Argument_Cole_2015_AJE\|Cole et al. (2015, Appendix A)]] |
 > | F2 | 学习动机 | 在 ToK 中取得成功的动机或缺乏动机 | — | 同上 |
 > | F3 | 高等教育准备 | ToK 作为高等教育准备 | — | 同上 |
-> | F4 | IB 课程结构 | ToK 作为 IB 的核心支柱 | — | 同上 |
+> | F4 | [[International Baccalaureate\|IB]] 课程结构 | ToK 作为 IB 的核心支柱 | — | 同上 |
 > | F5 | 课程体验 | ToK 的学习体验 | — | 同上 |
 > | F6 | 学习能力 | 理解和掌握 ToK 的能力 | — | 同上 |
 > | F7 | 课程关联 | ToK 与当前学习的相关性 | — | 同上 |
@@ -130,7 +130,7 @@ updated: 2026-07-01
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文原始版 | 四所 NSW 学校：22 次教师访谈（40 分钟/人）、8 组学生焦点小组（30 分钟/组，4–7 人）、5 次行政人员访谈 | — | 与课堂观察和文件分析三角验证后，识别出四校在 ToK 概念化和操作化上的四种差异模式 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文原始版 | 四所 NSW 学校：22 次教师访谈（40 分钟/人）、8 组学生焦点小组（30 分钟/组，4–7 人）、5 次行政人员访谈 | — | 与课堂观察和文件分析[[Triangulation\|三角验证]]后，识别出四校在 ToK 概念化和[[Operationalization\|操作化]]上的四种差异模式 |
 
 ---
 

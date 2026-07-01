@@ -16,16 +16,32 @@ tags:
   - theme/critical-thinking
   - theme/curriculum
   - theme/higher-order-thinking
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Reliability]]"
+  - "[[Variable]]"
+  - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
+  - "[[Heterogeneity]]"
+  - "[[Document]]"
+related_theories:
+  - "[[Explicit Critical Thinking Instruction]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[International Baccalaureate]]"
+related_arguments:
+  - "[[Argument_Cole_2015_AJE]]"
+related_instruments:
+  - "[[California Critical Thinking Disposition Inventory]]"
+  - "[[Critical Thinking Strategies Scale]]"
+  - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-01
 ---
 
 # Critical Thinking
@@ -62,7 +78,7 @@ updated: 2026-06-30
 > - **论证策略辩护（Strategy Justification）** 能够辩护解决问题或构建论证所使用的策略。
 > - **论证呈现（Presentation）** 以他人能理解的方式呈现论证。
 
-> [!feature] 批判性思维的倾向维度（CCTDI 七维度）
+> [!feature] 批判性思维的倾向维度（[[California Critical Thinking Disposition Inventory|CCTDI]] 七维度）
 > - **求真（Truth-seeking）** 即使在证据不支持自身立场时也追求真相。
 > - **开放心态（Open-mindedness）** 容忍不同观点，对自身偏见保持敏感。
 > - **探究性（Inquisitiveness）** 对事物的好奇心和求知欲。
@@ -105,22 +121,22 @@ updated: 2026-06-30
 
 ## 实证数据
 
-> [!effect-table]- 一级研究效应量
+> [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 干预 | 结果变量 | n_t | n_c | d | SE | 设计 |
+> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 课程学习（Y12 vs Y11） | CTSS 总分 | 622 | 620 | 0.216 | 0.057 | 横断调查 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 课程学习（Y12 vs Y11） | MSLQ-CT 分量表 | 632 | 630 | 0.177 | 0.056 | 横断调查 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | Y12 622<br>Y11 620 | Y12 4.85（1.05）<br>Y11 4.62（1.08） | — | $t(1240)=3.04$<br>$p<.001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | 总 $N=1,242$<br>分组 n — | Y12 4.69（1.15）<br>Y11 4.48（1.22） | — | $t(1240)=3.04$<br>$p<.01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
 
-> [!ma-table]- 元分析总体结果
+> [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% CI | 异质性与预测区间 | 证据确定性 |
+> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
 > | Abrami et al. (2008) | 批判性思维技能 | 117 / 20,698 | — | — | — | — |
 >
-> 待处理该文献后回填效应指标、汇总效应量、异质性和证据确定性。
+> 待处理该[[Document|文献]]后回填效应指标、汇总效应量、异质性和证据确定性。
 
 > [!ma-table]- 调节变量与亚组分析
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -141,7 +157,7 @@ updated: 2026-06-30
 > - **领域依赖立场（红方）** 批判性思维无法脱离具体学科知识运作。历史中的"证据"与科学中的"证据"标准不同，通用课程难以覆盖所有领域的论证标准。学生可能学了批判性思维的"形式"而无法在具体学科中应用。
 
 > [!warning] 课程改革面临系统性障碍
-> 即使在实证证据支持下，在澳大利亚全国课程中推行显性批判性思维课程仍面临重大挑战，包括职前教师培训、学校人员配置、课程组织与内容以及课时安排等多个层面的改革需求。澳大利亚目前的课程格局已经非常拥挤（Cole et al., 2015, pp.12–13）。
+> 即使在实证证据支持下，在澳大利亚全国课程中推行显性批判性思维课程仍面临重大挑战，包括职前教师培训、学校人员配置、课程组织与内容以及课时安排等多个层面的改革需求。澳大利亚目前的课程格局已经非常拥挤（[[Argument_Cole_2015_AJE|Cole et al., 2015, pp.12–13]]）。
 
 ---
 

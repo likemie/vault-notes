@@ -3,11 +3,11 @@ title: Academic Self-Concept General Scale
 aliases:
   - 一般学术自我概念量表
   - Academic Self-Concept Scale
-summary: 用于测量大学生一般学术自我概念并可作为学业成果代理指标的十题自陈量表
+summary: "用于测量大学生一般学术自我概念并可作为学业成果代理指标的十题自陈量表"
 type: instrument
 instrument_type: scale
 developers:
-  - H. W. Marsh
+  - "Marsh, H. W."
 original_year: "1992"
 languages:
   - English

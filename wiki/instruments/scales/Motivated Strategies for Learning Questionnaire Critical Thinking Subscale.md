@@ -10,10 +10,10 @@ type: instrument
 instrument_type: scale
 part_of: "[[Motivated Strategies for Learning Questionnaire]]"
 developers:
-  - P. Pintrich
-  - D. Smith
-  - T. Garcia
-  - W. McKeachie
+  - "Pintrich, P. R."
+  - "Smith, D. A. F."
+  - "García, T."
+  - "McKeachie, W. J."
 original_year: "1993"
 languages:
   - English
@@ -25,7 +25,6 @@ tags:
   - instrument/self-report
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Construct]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods: []
@@ -81,7 +80,7 @@ updated: 2026-07-01
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文五题分量表 | 澳大利亚 ToK 十一、十二年级学生，在线施测，总分比较 n = 1,242。作为 [[Critical Thinking Strategies Scale\|CTSS]] 的既有量表参照 | 既有证据 α = .80；当前样本信度、效度与可比性 — | 十二年级均值 4.69（1.15），高于十一年级 4.48（1.22），t(1240) = 3.04，p < .01 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文五题分量表 | 澳大利亚 ToK 十一、十二年级学生，在线施测，总分比较 n = 1,242。作为 [[Critical Thinking Strategies Scale\|CTSS]] 的既有量表参照 | 既有证据 α = .80；当前样本[[Reliability\|信度]]、效度与可比性 — | 十二年级均值 4.69（1.15），高于十一年级 4.48（1.22），t(1240) = 3.04，p < .01 |
 
 ---
 
