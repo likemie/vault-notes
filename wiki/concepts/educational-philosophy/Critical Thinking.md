@@ -106,12 +106,16 @@ updated: 2026-06-30
 ## 实证数据
 
 > [!ref-table]- 实证数据汇总
+> <span class="concept-empirical-table-marker" aria-hidden="true"></span>
+>
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | Paul et al. (1997) | 加州教师样本，大规模调查 | 调查研究 | 教师自报批判性思维教学态度与实际行为 | $90\%$–$97\%$ 教师声称重视 CT 教学；仅 $19\%$ 能清晰定义 CT；仅 $9\%$ 实际教授 | — | 自我报告数据可能存在社会期望偏差；未区分学科和年级 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | $N = 1,338$ 名澳大利亚 ToK 学生（Y11=630, Y12=632），47 校 | 横断调查（CTSS + MSLQ-CT） | CTSS 14 项（$\alpha = .96$）；MSLQ-CT 5 项（$\alpha = .80$） | Y12 > Y11：CTSS 总分 $d = 0.216$；11/14 项显著；最大效应在评估主张（$d = 0.264$）、分析论证（$d = 0.225$） | CTSS: $t(1240) = 3.04$, $p < .001$；MSLQ-CT: $t(1240) = 3.04$, $p < .01$ | 横断设计不能证明因果；自报数据可能高估；CTSS 为自编量表 |
 
 > [!effect-table]- 一级研究效应量
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
 > | 研究 | 干预 | 结果变量 | n_t | n_c | d | SE | 设计 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 课程学习（Y12 vs Y11） | CTSS 总分 | 622 | 620 | 0.216 | 0.057 | 横断调查 |
@@ -121,6 +125,8 @@ updated: 2026-06-30
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 课程学习（Y12 vs Y11） | 识别论证 | 632 | 630 | 0.217 | 0.056 | 横断调查 |
 
 > [!ma-table]- 元分析汇总
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
 > | 元分析 | k | N | ES | 95% CI | I² | GRADE |
 > |---|---|---|---|---|---|---|
 > | Abrami et al. (2008) | 117 | 20,698 | — | — | — | — |
