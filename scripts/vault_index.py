@@ -48,6 +48,7 @@ RESEARCH_MAP_STATS = (
     ("persons", "person", "人物"),
     ("theories", "theory", "理论"),
     ("methods", "method", "方法"),
+    ("instruments", "instrument", "测量工具"),
 )
 
 FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.S)
