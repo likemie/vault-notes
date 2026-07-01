@@ -33,6 +33,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
+  - "[[Learner Autonomy]]"
   - "[[Educational Neuroscience]]"
   - "[[Classroom Management]]"
   - "[[Ontology]]"
@@ -194,7 +195,7 @@ citation_aliases:
 
 > [!critique-logic] 生物学决定论与国际组织预警的冲突
 > - **教育的社会性丧失** 脑科学将复杂的、情境化的学习活动约化为脑部神经元的信息处理过程，完全忽视了 [[Lev Vygotsky\|维果茨基]] 社会文化理论所强调的关系和情境维度。Rose & Rose (1976) 批判指出，脑科学不能被用来消解社会学，两者应当是辩证的互动（p. 121）。
-> - **排他性教学法指引** 附录D（p. 95）强制要求掌握新手/专家脑差异、生物初级/次级知识特征，并明确反对自主学习与探究式学习，导致教学法走向单一化。
+> - **排他性教学法指引** 附录D（p. 95）强制要求掌握新手/专家脑差异、生物初级/次级知识特征，并明确反对[[Learner Autonomy|自主学习]]与探究式学习，导致教学法走向单一化。
 > - **背离 OECD 预警历史**
 >   - **OECD (2002)** 指出，神经科学存在“创建一个过度科学化和高度顺从的教育体系的风险”（p. 17）。
 >   - **OECD (2007)** 指出，神经科学绝非万能药，极易产生滥用（p. 132），且早期“[[Educational Neuroscience|脑科学教育]]”倡导者 John Bruer 已转向强烈批判。

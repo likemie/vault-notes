@@ -20,6 +20,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Document]]"
   - "[[Policy Network]]"
+  - "[[Learner Autonomy]]"
   - "[[Evidence-Based Education]]"
   - "[[Progressive Education]]"
 related_theories:
@@ -73,7 +74,7 @@ updated: 2026-06-16
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2021 — *Why inquiry-based approaches harm students' learning***：受保守智库独立研究中心（[[Community Innovation Survey|CIS]]）资助发表的分析报告。该报告从[[Cognitive Load Theory|认知负荷理论]]出发，论证了对于新手学习者而言，探究式和自主学习因过度占用[[Working Memory|工作记忆]]而对学习产生负面影响，主张回归以教师为主导的[[Direct Instruction|直接教学]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
+> - **2021 — *Why inquiry-based approaches harm students' learning***：受保守智库独立研究中心（[[Community Innovation Survey|CIS]]）资助发表的分析报告。该报告从[[Cognitive Load Theory|认知负荷理论]]出发，论证了对于新手学习者而言，探究式和[[Learner Autonomy|自主学习]]因过度占用[[Working Memory|工作记忆]]而对学习产生负面影响，主张回归以教师为主导的[[Direct Instruction|直接教学]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
 
 ---
 

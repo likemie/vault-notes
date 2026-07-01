@@ -22,8 +22,10 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
   - "[[Metacognition]]"
+  - "[[Learner Autonomy]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
+  - "[[Reflexivity]]"
   - "[[IB Diploma Programme]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
@@ -47,7 +49,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 # Theory of Knowledge
@@ -63,6 +65,9 @@ updated: 2026-07-01
 > - **含义** ToK 以学生的知识经验为起点，要求学生思考"我们如何知道我们所知道的"（[[Metacognition|元认知]]训练）。它围绕知识问题（knowledge problems）展开，要求学生形成关于知识本质的连贯观点，不依赖固定课程内容的记忆和复制。
 > - **用途** ToK 作为 DP 跨学科核心，帮助学生将各学科的知识和学习方式联系起来，培养可迁移到大学学习和专业工作中的批判性思维习惯。
 > - **边界** ToK 不等同于一般哲学课程或认识论课程。它不以哲学史或认识论理论体系为教学内容，而是以学生的知识经验为起点，通过结构化思维练习和跨学科活动来运作。
+
+> [!info] TOK 模型：以认知者为中心的结构
+> TOK 课程的核心结构特征是认知者（knower）处于中心位置，周围环绕着认知方式（ways of knowing）和知识领域（areas of knowledge）（IBO, 2011）。认知者通过质疑、反思和创造性沟通来建构知识，这一认知者中心结构使 TOK 不仅是认识论课程，更是通过认识论训练发展[[Learner Autonomy|学习者自主性]]的课程空间（Lakhani, 2012, pp.173–174）。
 
 ---
 
@@ -97,6 +102,9 @@ updated: 2026-07-01
 
 > [!claim] "ToK 冲击"与学生长期获益
 > 学生可能在 ToK 课程初期经历困难，研究者称之为"ToK 冲击"（ToK-shock），但许多学生日后会重新肯定这门课程的价值，因为他们学会了以成熟的方式批判性思考、质疑[[Hypothesis|假设]]，并更充分地表达自己的知识和思维信念（p.13）。
+
+> [!claim] TOK 通过[[Epistemology|认识论]]训练发展[[Learner Autonomy|学习者自主性]]
+> TOK 课程中，学习者通过扮演探究者（inquirer）、[[Reflexivity|反思性]]思考者（reflective thinker）和创造性沟通者（creative communicator）三种角色来行使知识建构的自主性。知识建构始于提问，进而通过对搜索内容和生活经验的反思产生解释，最终通过课堂讨论和论文进行表达。课程内容和对批判性反思技能的自信共同支撑了自主学习（Lakhani, 2012, pp.177–178）。
 
 ---
 

@@ -1147,6 +1147,18 @@
     ]
   },
   {
+    "title": "Learner Autonomy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Learner Autonomy.md",
+    "aliases": [
+      "学习者自主性",
+      "learner autonomy",
+      "autonomy in learning",
+      "autonomous learner",
+      "自主学习"
+    ]
+  },
+  {
     "title": "Learnification",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Learnification.md",
@@ -12386,6 +12398,16 @@
     ]
   },
   {
+    "title": "National Education Policy 2009 Pakistan",
+    "type": "fact",
+    "path": "wiki/facts/pakistan/National Education Policy 2009 Pakistan.md",
+    "aliases": [
+      "Pakistan National Education Policy 2009",
+      "巴基斯坦 2009 年国家教育政策",
+      "NEP 2009"
+    ]
+  },
+  {
     "title": "Akademgorodok",
     "type": "fact",
     "path": "wiki/facts/russia/Akademgorodok.md",
@@ -14324,6 +14346,11 @@
     "title": "Argument_Yu_Xie_2025_JHE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md"
+  },
+  {
+    "title": "Argument_Lakhani_2012_AKUIED",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Lakhani_2012_AKUIED.md"
   },
   {
     "title": "Argument_Cowen_2015_CHESS",

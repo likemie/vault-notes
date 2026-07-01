@@ -22,6 +22,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
+  - "[[Learner Autonomy]]"
   - "[[Variable]]"
   - "[[School Effectiveness]]"
   - "[[Academic Self-Concept]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 # IB Diploma Programme
@@ -53,7 +54,7 @@ updated: 2026-07-01
 > [!concept-lens] 概念透镜
 > - **含义** IB DP 的核心结构特征是学科学习与跨学科核心要素的并行。ToK 要求学生反思知识本质，EE 要求完成 4,000 字独立研究论文，CAS 要求参与社区服务活动。
 > - **用途** IB DP 以显性的[[Critical Thinking|批判性思维]]教学——尤其是 ToK 课程——作为区别于其他大学预科课程的关键特征。教师被鼓励在各学科中发展学生的批判性思维，促进 ToK 学习的迁移。
-> - **边界** IB DP 不等同于 IB 整体（IB 还包括 PYP 和 MYP）。DP 的批判性思维培养依赖 ToK 课程和全校实施方式的配合，课程框架本身不自动保证效果。
+> - **边界** IB DP 不等同于 IB 整体（IB 还包括 PYP 和 MYP）。DP 的批判性思维培养依赖 ToK 课程和全校实施方式的配合，课程框架本身不自动保证效果。IB 学习者培养目标（IB Learner Profile）将探究者、思考者、风险承担者、反思者和创造者等角色作为培养方向，这些角色在 TOK 课程中通过[[Epistemology|认识论]]训练得以具体实践，支撑[[Learner Autonomy|学习者自主性]]的发展（Lakhani, 2012, pp.177–178）。
 
 ---
 
@@ -68,7 +69,7 @@ updated: 2026-07-01
 
 ## 实证数据
 
-> [!effect-table]- DP 毕业生 vs 非 DP 毕业生（Cole et al., 2015）
+> [!effect-table]- DP 毕业生 vs 非 DP 毕业生（[[Argument_Cole_2015_AJE|Cole et al., 2015]]）
 > | 比较 | 结果[[Variable\|变量]] | n (DP/非DP) | d | [[School Effectiveness\|SE]] | 设计 |
 > |:-----|:---------|:-----------|:--|:--|:-----|
 > | DP vs 非DP (澳大利亚) | ATAR | 94/267 | 0.442 | 0.121 | 组间比较 |

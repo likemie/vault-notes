@@ -18,7 +18,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Direct Instruction]]"
   - "[[Individualised Instruction]]"
-  - "[[Document]]"
+  - "[[Learner Autonomy]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -46,7 +46,7 @@ updated: 2026-05-22
 > [!example] 概念辨析
 > - vs [[Direct Instruction]] — 直接教学通常指包含清晰目标、关键内容示范、理解检查、总结与复习的教学序列。结构化教学可以借鉴这些要素，但不等同于固定的直接教学程序，也可以出现在全班、小组、结对或个别学习等不同组织形式中（Håkansson, 2015, p.593）。
 > - vs 讲坛式教学（recitation / pulpit teaching） — 传统讲坛式教学更接近教师站在前方单向讲解与问答。Håkansson 明确反对把结构化教学直接等同于讲坛式教学，因为研究更支持教师控制与学生参与之间的互动平衡，而不是单一讲授模式（Håkansson, 2015, pp.591-593）。
-> - vs [[Individualised Instruction]] — 个人化或个别化工作若缺少教师支持，会让学生独自承担理解任务，尤其不利于学习准备不足的学生；结构化教学并不排斥学生自主，而是要求自主学习必须伴随目标、支持和反馈（Håkansson, 2015, pp.587, 594-595）。
+> - vs [[Individualised Instruction]] — 个人化或个别化工作若缺少教师支持，会让学生独自承担理解任务，尤其不利于学习准备不足的学生；结构化教学并不排斥学生自主，而是要求[[Learner Autonomy|自主学习]]必须伴随目标、支持和反馈（Håkansson, 2015, pp.587, 594-595）。
 
 ## 核心要素
 
@@ -79,5 +79,5 @@ updated: 2026-05-22
 > 瑞典 2011 年课程改革把 structured teaching 直接写进课程文本。Håkansson 引述的 `Lgr 11` 表述是，学校应在教师领导下为学生提供结构化教学，既包括个人学习，也包括班级共同学习。这说明该词一开始就是政策治理语言中的核心要求，而不只是研究共同体内部的分析概念（Håkansson, 2015, pp.584-585）。
 >
 > [!example] 瑞典 2011 教育条例与教育法语境
-> 文章同时指出，教师主导教学的要求并不只出现在课程[[Document|文件]]中，也出现在 2011 年教育条例改革与更早的教育法定义里。正因为瑞典教育法已经把 teaching 界定为教师领导下的目标导向过程，structured teaching 才显得有些“同义反复”。Håkansson 因而把它解释成一次政策性再强调：面对成绩下降与课堂工作形式变化，国家重新把教师领导与课堂组织推回改革中心（Håkansson, 2015, pp.584-585, 590, 596）。
+> 文章同时指出，教师主导教学的要求并不只出现在课程文件中，也出现在 2011 年教育条例改革与更早的教育法定义里。正因为瑞典教育法已经把 teaching 界定为教师领导下的目标导向过程，structured teaching 才显得有些“同义反复”。Håkansson 因而把它解释成一次政策性再强调：面对成绩下降与课堂工作形式变化，国家重新把教师领导与课堂组织推回改革中心（Håkansson, 2015, pp.584-585, 590, 596）。
 
