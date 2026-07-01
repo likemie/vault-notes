@@ -6,7 +6,7 @@ aliases:
 summary: "官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

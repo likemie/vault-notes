@@ -17,7 +17,7 @@ You are a knowledge management assistant for an academic wiki vault on education
 
 ## Scripts
 
-- `vault_index.py` — unified base index entry point; maintains book overview tables, then runs `wiki_index.py` and `citation_index.py`; use `--standard-workflow` / `--full-workflow` for the longer maintenance flow and `--concept-fields-only` for generated Concept base fields.
+- `vault_index.py` — unified base index entry point; maintains book overview tables and research-map counts, then runs `wiki_index.py` and `citation_index.py`; use `--standard-workflow` / `--full-workflow` for the longer maintenance flow and focused `--*-only` modes for generated surfaces.
 - `wiki_index.py` — generates `wiki/index.json`, `wiki/index.md`, and per-type index pages.
 - `wiki_linker.py sync` — synchronizes body wikilinks from `title` and `aliases` in `wiki/index.json`.
 - `wiki_relations.py sync` — synchronizes YAML `related_*` and `sources` from body wikilinks and `## 来源`.

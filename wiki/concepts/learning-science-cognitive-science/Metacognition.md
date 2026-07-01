@@ -8,7 +8,7 @@ aliases:
 summary: "个体对自己认知过程的意识和调节，包括元认知知识和元认知调节两个核心成分，是批判性思维的高阶认知基础"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 0
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -64,4 +64,4 @@ updated: 2026-07-01
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2015_AJE|David R Cole et al. (2015)]] — 将 ToK 课程定位为系统性的元认知训练，通过要求学生反思知识本质来培养[[Critical Thinking|批判性思维]]的高阶认知调控能力。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 将 ToK 课程定位为系统性的元认知训练，通过要求学生反思知识本质来培养[[Critical Thinking|批判性思维]]的高阶认知调控能力。

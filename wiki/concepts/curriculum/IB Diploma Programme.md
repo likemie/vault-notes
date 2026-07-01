@@ -5,13 +5,14 @@ aliases:
   - IB 文凭项目
   - IB Diploma Program
   - International Baccalaureate Diploma Programme
-summary: "IB 为 16–19 岁学生设计的两年制大学预科课程，由六学科组加 TOK、EE、CAS 三项核心要素组成，以显性批判性思维教学和跨学科整合为特色"
+  - IBDP
+summary: IB 为 16–19 岁学生设计的两年制大学预科课程，由六学科组加 TOK、EE、CAS 三项核心要素组成，以显性批判性思维教学和跨学科整合为特色
 type: concept
 domain: "curriculum"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/curriculum
   - theme/critical-thinking
@@ -81,4 +82,4 @@ updated: 2026-07-01
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2015_AJE|David R Cole et al. (2015)]] — 通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]，检验澳大利亚 DP 中 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]，检验澳大利亚 DP 中 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系。

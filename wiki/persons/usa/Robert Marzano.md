@@ -7,10 +7,10 @@ summary: "美国教育研究者，提出理论驱动的元综合框架，将教�
 type: person
 nationality: usa
 person_region: "usa"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - robert-marzano
 - meta-analysis

@@ -7,8 +7,9 @@ vault_index.py
 
 Run the vault's base index maintenance in the required order:
   1. Maintain textbook/monograph overview chapter tables.
-  2. scripts/wiki_index.py
-  3. scripts/citation_index.py
+  2. Refresh the generated counts on wiki/research-map.md.
+  3. scripts/wiki_index.py
+  4. scripts/citation_index.py
 
 This file is the daily unified entry point. Larger generated surfaces that
 already have mature boundaries still live in their own scripts.
@@ -39,6 +40,15 @@ METHODS_DIR = ROOT / "wiki" / "methods"
 THEORIES_DIR = ROOT / "wiki" / "theories"
 FACTS_DIR = ROOT / "wiki" / "facts"
 PERSONS_DIR = ROOT / "wiki" / "persons"
+RESEARCH_MAP_PATH = ROOT / "wiki" / "research-map.md"
+RESEARCH_MAP_STATS = (
+    ("concepts", "concept", "概念"),
+    ("arguments", "argument", "论证"),
+    ("facts", "fact", "事实"),
+    ("persons", "person", "人物"),
+    ("theories", "theory", "理论"),
+    ("methods", "method", "方法"),
+)
 
 FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.S)
 SPLIT_FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.S)
@@ -432,6 +442,53 @@ def maintain_book_overviews(dry_run: bool = False, check: bool = False) -> int:
     print(f"📖 book overviews with chapter files: {len(overviews)}")
     if check:
         return 1 if changed_count or issue_count else 0
+    return 0
+
+
+def count_typed_entries(directory: Path, entry_type: str) -> int:
+    if not directory.exists():
+        return 0
+    count = 0
+    for path in directory.rglob("*.md"):
+        if not path.is_file():
+            continue
+        text = path.read_text(encoding="utf-8", errors="replace")
+        if parse_frontmatter(text).get("type") == entry_type:
+            count += 1
+    return count
+
+
+def update_research_map_stats(dry_run: bool = False, check: bool = False) -> int:
+    if not RESEARCH_MAP_PATH.exists():
+        print(f"❌ research map not found: {RESEARCH_MAP_PATH.relative_to(ROOT)}")
+        return 1
+
+    text = RESEARCH_MAP_PATH.read_text(encoding="utf-8", errors="replace")
+    next_text = text
+    counts: list[tuple[str, int]] = []
+
+    for directory_name, entry_type, label in RESEARCH_MAP_STATS:
+        count = count_typed_entries(ROOT / "wiki" / directory_name, entry_type)
+        counts.append((label, count))
+        pattern = re.compile(
+            rf'(<a href="/wiki/{re.escape(directory_name)}"><span>{re.escape(label)}</span><strong>)'
+            r"\d+(</strong></a>)"
+        )
+        next_text, replacements = pattern.subn(rf"\g<1>{count}\g<2>", next_text, count=1)
+        if replacements != 1:
+            print(f"❌ research map stat card not found or duplicated: {directory_name}")
+            return 1
+
+    changed = next_text != text
+    if changed and not dry_run and not check:
+        RESEARCH_MAP_PATH.write_text(next_text, encoding="utf-8")
+
+    prefix = "would update" if dry_run or check else "updated"
+    state = prefix if changed else "already current"
+    summary = " · ".join(f"{label} {count}" for label, count in counts)
+    print(f"🗺️  research map {state}: {summary}")
+    if check:
+        return 1 if changed else 0
     return 0
 
 
@@ -1162,6 +1219,9 @@ def run_base_index(book_check: bool = False, book_dry_run: bool = False, citatio
     code = maintain_book_overviews(dry_run=book_dry_run, check=book_check)
     if code:
         return code
+    code = update_research_map_stats()
+    if code:
+        return code
     code = maintain_concept_base_fields()
     if code:
         return code
@@ -1215,6 +1275,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--book-only", action="store_true", help="Run only book overview maintenance.")
     parser.add_argument("--book-check", action="store_true", help="Fail if book overview tables are stale or missing.")
     parser.add_argument("--book-dry-run", action="store_true", help="Preview book overview table updates without writing.")
+    parser.add_argument("--research-map-only", action="store_true", help="Run only research-map count maintenance.")
+    parser.add_argument("--research-map-check", action="store_true", help="Fail if research-map counts are stale.")
+    parser.add_argument("--research-map-dry-run", action="store_true", help="Preview research-map count updates without writing.")
     parser.add_argument("--concept-fields-only", action="store_true", help="Run only generated concept base-field maintenance.")
     parser.add_argument("--concept-fields-check", action="store_true", help="Fail if generated concept base fields are stale.")
     parser.add_argument("--concept-fields-dry-run", action="store_true", help="Preview generated concept base-field updates without writing.")
@@ -1246,6 +1309,7 @@ def main(argv: list[str] | None = None) -> int:
 
     only_flags = [
         args.book_only,
+        args.research_map_only,
         args.concept_fields_only,
         args.method_fields_only,
         args.theory_fields_only,
@@ -1256,7 +1320,7 @@ def main(argv: list[str] | None = None) -> int:
         args.citation_only,
     ]
     if sum(1 for flag in only_flags if flag) > 1:
-        parser.error("--book-only, --concept-fields-only, --method-fields-only, --theory-fields-only, --fact-fields-only, --person-fields-only, --argument-fields-only, --wiki-only, and --citation-only cannot be combined")
+        parser.error("--book-only, --research-map-only, --concept-fields-only, --method-fields-only, --theory-fields-only, --fact-fields-only, --person-fields-only, --argument-fields-only, --wiki-only, and --citation-only cannot be combined")
     if any(workflow_flags) and any(only_flags):
         parser.error("workflow options cannot be combined with --book-only, --concept-fields-only, --wiki-only, or --citation-only")
 
@@ -1275,6 +1339,9 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.book_only:
         return maintain_book_overviews(dry_run=args.book_dry_run, check=args.book_check)
+
+    if args.research_map_only:
+        return update_research_map_stats(dry_run=args.research_map_dry_run, check=args.research_map_check)
 
     if args.concept_fields_only:
         return maintain_concept_base_fields(dry_run=args.concept_fields_dry_run, check=args.concept_fields_check)

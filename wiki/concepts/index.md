@@ -359,7 +359,7 @@ Total entries: **703**
 > - [[Whole Language]] — 强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。
 
 > [!index-list]- Learning Science Cognitive Science (35)
-> - [[Academic Self-Concept]] — 个体对自己学术能力的整体感知和评价，是学业成就的重要预测因子和心理中介变量
+> - [[Academic Self-Concept]] — 个体对自己学术能力的整体感知和评价，既受实际成绩影响也反向影响学习动机和投入，是学业成就的中介变量和代理指标
 > - [[Academic Well-being and Interest in Learning]] — 学生对上学、学习活动和学校生活的积极情感体验与兴趣水平，用于描述学习投入、归属感和日常学习体验的主观维度。
 > - [[Assertiveness]] — 学生在课堂互动中主动表达、提出观点和参与交流的倾向，用于描述学习参与中的主动性和表达能力。
 > - [[Attentional Inertia]] — 在认知转换任务中因过度关注先前规则或刺激特征，导致难以切换到新规则的认知控制阻滞现象。

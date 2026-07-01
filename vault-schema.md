@@ -14,7 +14,7 @@
 - 不使用来源以外的知识；
 
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
-- 新建、移动、删除、重命名条目后，只自动运行基础索引：`vault_index.py`（内部维护书籍 overview 章节表格，并依次运行 `wiki_index.py` 与 `citation_index.py`）；是否继续运行 citation 补链、普通 wiki 补链、关系同步、Concept 派生字段同步与 lint，由用户确认。
+- 新建、移动、删除、重命名条目后，只自动运行基础索引：`vault_index.py`（内部维护书籍 overview 章节表格、研究地图统计，并依次运行 `wiki_index.py` 与 `citation_index.py`）；是否继续运行 citation 补链、普通 wiki 补链、关系同步、Concept 派生字段同步与 lint，由用户确认。
 - 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 title/alias/citation 字段变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
 ---
@@ -250,7 +250,7 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 
 ## 5. Script Rules and Sync Commands
 
-脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`vault_index.py` 是基础索引统一入口，内部维护书籍 overview 章节表格，并依次运行 `wiki_index.py` 与 `citation_index.py`；用户确认后可用 `vault_index.py --standard-workflow` 运行补链、关系同步、索引刷新和 lint；Concept 的 `domain`、`related_count`、`related_level`、`related_stars`、`related_color` 可用 `vault_index.py --concept-fields-only` 显式同步；`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full-workflow`。
+脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`vault_index.py` 是基础索引统一入口，内部维护书籍 overview 章节表格和研究地图统计，并依次运行 `wiki_index.py` 与 `citation_index.py`；用户确认后可用 `vault_index.py --standard-workflow` 运行补链、关系同步、索引刷新和 lint；研究地图统计可用 `vault_index.py --research-map-only` 单独同步；Concept 的 `domain`、`related_count`、`related_level`、`related_stars`、`related_color` 可用 `vault_index.py --concept-fields-only` 显式同步；`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full-workflow`。
 
 ### Python Environment
 

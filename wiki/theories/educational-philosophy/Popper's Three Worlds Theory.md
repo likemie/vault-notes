@@ -6,7 +6,7 @@ aliases:
 summary: "将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

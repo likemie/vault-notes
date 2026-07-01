@@ -8,10 +8,10 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 22
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 26
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theme/critical-thinking
   - theme/curriculum
@@ -169,4 +169,4 @@ updated: 2026-06-30
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2015_AJE|David R Cole et al. (2015)]] — 以 [[International Baccalaureate|IB]] DP 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]检验显性[[Critical Thinking|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 [[International Baccalaureate|IB]] DP 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]检验显性[[Critical Thinking|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
