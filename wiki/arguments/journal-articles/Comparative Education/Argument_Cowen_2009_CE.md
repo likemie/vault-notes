@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -89,10 +89,10 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **转移、转译、转化框架（3T Framework）**<br>[[Transfer Translation Transformation]] | 描述教育移动的三个连续且差异化的时空阶段：跨境空间位移、本土再[[Coding in Qualitative Research\|编码]]与制度化、以及社会权力压缩下的长期演变（p.323）。 |
-> | **形变问题意识（Shape-Shifting）**<br>[[Shape-Shifting]] | 关注教育制度与思想在时空推移中核心配置的变化，例如治理结构、教学契约与科研取向的实质改变（p.320）。 |
-> | **转型学（Transitology）**<br>[[Transitology]] | 描述教育移动最密集的历史语境，即政治边界与愿景在十年左右的短时间内彻底崩溃并重建的时期（p.319）。 |
-> | **嵌入几何学（Geometries of Insertion）**<br>[[Geometries of Insertion]] | 探讨在一处创造的教育实践如何能系统、精确地植入另一处的理论，将情境重新概念化为可分析的[[Variable\|变量]]（p.324）。 |
+> | **[[Transfer Translation Transformation\|转移、转译、转化框架]]（3T Framework）** | 描述教育移动的三个连续且差异化的时空阶段：跨境空间位移、本土再[[Coding in Qualitative Research\|编码]]与制度化、以及社会权力压缩下的长期演变（p.323）。 |
+> | **[[Shape-Shifting\|形变问题意识]]（Shape-Shifting）** | 关注教育制度与思想在时空推移中核心配置的变化，例如治理结构、教学契约与科研取向的实质改变（p.320）。 |
+> | **[[Transitology\|转型学]]（Transitology）** | 描述教育移动最密集的历史语境，即政治边界与愿景在十年左右的短时间内彻底崩溃并重建的时期（p.319）。 |
+> | **[[Geometries of Insertion\|嵌入几何学]]（Geometries of Insertion）** | 探讨在一处创造的教育实践如何能系统、精确地植入另一处的理论，将情境重新概念化为可分析的[[Variable\|变量]]（p.324）。 |
 
 > [!warrant]- 理论如何支撑论证
 > 这些理论工具提供了解析教育流动的社会学范畴。它们将情境从单纯的移植障碍转化为可操作的变量，解释了相同的教育输入在不同接受国演化出截然相反形状的根本原因，进而推动对社会克隆能力的伦理反思。
