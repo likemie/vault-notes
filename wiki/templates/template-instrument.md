@@ -82,6 +82,24 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > |---|---|---|---|---|
 > | 1 | 题项原文或准确译文 | 等级、类别或其他选项 | 分值、反向计分或跳题规则 | [[Argument_Author_Year_Journal\|Author (Year, p. X)]] |
 
+%% 访谈工具使用下面的专表，删除量表题项表和观察重点表。每行记录一个核心问题，追问写在同一行。 %%
+
+> [!interview-guide] 访谈问题
+> <span class="instrument-interview-table-marker" aria-hidden="true"></span>
+>
+> | 编号 | 主题或维度 | 核心问题 | 可选追问 | 来源 |
+> |---|---|---|---|---|
+> | 1 | 访谈主题 | 问题原文或准确译文 | 追问、提示或探查问题 | [[Argument_Author_Year_Journal\|Author (Year, p. X)]] |
+
+%% 观察工具使用下面的专表，删除量表题项表和访谈问题表。每行记录一个可区分的观察重点。 %%
+
+> [!observation-focus] 观察重点
+> <span class="instrument-observation-table-marker" aria-hidden="true"></span>
+>
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
+> |---|---|---|---|---|---|
+> | 1 | 观察维度 | 需要关注的行为、事件、互动或环境特征 | 频次、时长、事件记录、等级或描述记录 | 判定标准、代码或 — | [[Argument_Author_Year_Journal\|Author (Year, p. X)]] |
+
 ---
 
 ## 使用该工具的研究

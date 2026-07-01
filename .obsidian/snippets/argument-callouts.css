@@ -13488,11 +13488,112 @@
   background: rgba(150, 164, 230, 0.16);
 }
 
+/* Instrument 访谈问题与观察重点专表 */
+.callout[data-callout="interview-guide"],
+.callout[data-callout="observation-focus"] {
+  overflow: hidden;
+  border: 1px solid rgba(var(--callout-color), 0.22);
+  border-left: 4px solid rgb(var(--callout-color));
+  border-radius: 12px;
+  background:
+    linear-gradient(145deg, rgba(var(--callout-color), 0.08), rgba(var(--callout-color), 0.015)),
+    var(--background-primary);
+  box-shadow: 0 6px 18px rgba(var(--callout-color), 0.08);
+}
+
+.callout[data-callout="interview-guide"] {
+  --callout-color: 34, 112, 158;
+  --callout-icon: lucide-messages-square;
+}
+
+.callout[data-callout="observation-focus"] {
+  --callout-color: 70, 130, 88;
+  --callout-icon: lucide-scan-eye;
+}
+
+.callout[data-callout="interview-guide"] > .callout-title,
+.callout[data-callout="observation-focus"] > .callout-title {
+  color: rgb(var(--callout-color));
+  border-bottom: 1px solid rgba(var(--callout-color), 0.14);
+}
+
+.callout[data-callout="interview-guide"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="observation-focus"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.14);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="interview-guide"] > .callout-title .callout-title-inner::before {
+  content: "INTERVIEW";
+}
+
+.callout[data-callout="observation-focus"] > .callout-title .callout-title-inner::before {
+  content: "OBSERVE";
+}
+
+.callout[data-callout="interview-guide"] > .callout-content,
+.callout[data-callout="observation-focus"] > .callout-content {
+  padding: 0;
+  overflow-x: auto;
+}
+
+.callout[data-callout="interview-guide"] table,
+.callout[data-callout="observation-focus"] table {
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.callout[data-callout="interview-guide"] thead th,
+.callout[data-callout="observation-focus"] thead th {
+  padding: 0.55rem 0.8rem;
+  color: rgb(var(--callout-color));
+  background: rgba(var(--callout-color), 0.09);
+  border-bottom: 1.5px solid rgba(var(--callout-color), 0.22);
+  font-weight: 750;
+  text-align: left;
+}
+
+.callout[data-callout="interview-guide"] tbody td,
+.callout[data-callout="observation-focus"] tbody td {
+  padding: 0.58rem 0.8rem;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.08);
+  vertical-align: top;
+}
+
+.callout[data-callout="interview-guide"] tbody tr:nth-child(even) td,
+.callout[data-callout="observation-focus"] tbody tr:nth-child(even) td {
+  background: rgba(var(--callout-color), 0.03);
+}
+
+.callout[data-callout="interview-guide"] tbody tr:hover td,
+.callout[data-callout="observation-focus"] tbody tr:hover td {
+  background: rgba(var(--callout-color), 0.07);
+}
+
+.theme-dark .callout[data-callout="interview-guide"] {
+  --callout-color: 102, 190, 232;
+}
+
+.theme-dark .callout[data-callout="observation-focus"] {
+  --callout-color: 124, 204, 146;
+}
+
 .instrument-dimension-table-marker,
 .instrument-item-table-marker,
 .instrument-study-table-marker,
 .instrument-result-table-marker,
-.instrument-version-table-marker {
+.instrument-version-table-marker,
+.instrument-interview-table-marker,
+.instrument-observation-table-marker {
   display: none;
 }
 
@@ -13500,7 +13601,9 @@
 .callout:has(.instrument-item-table-marker) > .callout-content,
 .callout:has(.instrument-study-table-marker) > .callout-content,
 .callout:has(.instrument-result-table-marker) > .callout-content,
-.callout:has(.instrument-version-table-marker) > .callout-content {
+.callout:has(.instrument-version-table-marker) > .callout-content,
+.callout:has(.instrument-interview-table-marker) > .callout-content,
+.callout:has(.instrument-observation-table-marker) > .callout-content {
   overflow-x: auto;
 }
 
@@ -13508,7 +13611,9 @@
 .callout:has(.instrument-item-table-marker) table,
 .callout:has(.instrument-study-table-marker) table,
 .callout:has(.instrument-result-table-marker) table,
-.callout:has(.instrument-version-table-marker) table {
+.callout:has(.instrument-version-table-marker) table,
+.callout:has(.instrument-interview-table-marker) table,
+.callout:has(.instrument-observation-table-marker) table {
   table-layout: fixed !important;
 }
 
@@ -13576,6 +13681,47 @@
 .callout:has(.instrument-version-table-marker) td:nth-child(5) { width: 30%; }
 .callout:has(.instrument-version-table-marker) th:nth-child(6),
 .callout:has(.instrument-version-table-marker) td:nth-child(6) { width: 15%; }
+
+/* 构念、版本、访谈与观察专表统一字号 */
+.callout:has(.instrument-dimension-table-marker) th,
+.callout:has(.instrument-dimension-table-marker) td,
+.callout:has(.instrument-version-table-marker) th,
+.callout:has(.instrument-version-table-marker) td,
+.callout:has(.instrument-interview-table-marker) th,
+.callout:has(.instrument-interview-table-marker) td,
+.callout:has(.instrument-observation-table-marker) th,
+.callout:has(.instrument-observation-table-marker) td {
+  font-size: 0.82rem !important;
+  line-height: 1.45;
+}
+
+/* 访谈问题表  核心问题获得最大空间 */
+.callout:has(.instrument-interview-table-marker) table { min-width: 980px; }
+.callout:has(.instrument-interview-table-marker) th:nth-child(1),
+.callout:has(.instrument-interview-table-marker) td:nth-child(1) { width: 7%; }
+.callout:has(.instrument-interview-table-marker) th:nth-child(2),
+.callout:has(.instrument-interview-table-marker) td:nth-child(2) { width: 16%; }
+.callout:has(.instrument-interview-table-marker) th:nth-child(3),
+.callout:has(.instrument-interview-table-marker) td:nth-child(3) { width: 40%; }
+.callout:has(.instrument-interview-table-marker) th:nth-child(4),
+.callout:has(.instrument-interview-table-marker) td:nth-child(4) { width: 24%; }
+.callout:has(.instrument-interview-table-marker) th:nth-child(5),
+.callout:has(.instrument-interview-table-marker) td:nth-child(5) { width: 13%; }
+
+/* 观察重点表  观察内容获得最大空间 */
+.callout:has(.instrument-observation-table-marker) table { min-width: 1080px; }
+.callout:has(.instrument-observation-table-marker) th:nth-child(1),
+.callout:has(.instrument-observation-table-marker) td:nth-child(1) { width: 6%; }
+.callout:has(.instrument-observation-table-marker) th:nth-child(2),
+.callout:has(.instrument-observation-table-marker) td:nth-child(2) { width: 15%; }
+.callout:has(.instrument-observation-table-marker) th:nth-child(3),
+.callout:has(.instrument-observation-table-marker) td:nth-child(3) { width: 35%; }
+.callout:has(.instrument-observation-table-marker) th:nth-child(4),
+.callout:has(.instrument-observation-table-marker) td:nth-child(4) { width: 15%; }
+.callout:has(.instrument-observation-table-marker) th:nth-child(5),
+.callout:has(.instrument-observation-table-marker) td:nth-child(5) { width: 17%; }
+.callout:has(.instrument-observation-table-marker) th:nth-child(6),
+.callout:has(.instrument-observation-table-marker) td:nth-child(6) { width: 12%; }
 
 /* 概念页其他实证结果表
    长文本集中在样本、关键结果与解释边界，使用固定列宽和横向滚动，
