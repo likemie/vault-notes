@@ -62,12 +62,17 @@ updated: 2026-07-01
 
 ## 实证数据
 
+> [!ref-table]- 实证数据汇总
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | $N = 389$ 名澳大利亚大学新生（DP=99, 非DP=290），悉尼大学和 QUT | DP/非DP 组间比较 | ASC 10 项量表（[[Academic Self-Concept General Scale\|Marsh, 1992]]，$\alpha = .92$） | DP > 非DP | 见效应量表 | [[Convenience Sampling\|便利抽样]]非代表性；选课效应无法排除；ASC 为代理测量非直接成绩 |
+
 > [!effect-table]- 一级研究效应量
 > | 研究 | 干预 | 结果[[Variable\|变量]] | n_t | n_c | d | SE | 设计 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 课程（DP vs 非DP 毕业生） | 学术自我概念（ASC） | 99 | 283 | 0.498 | 0.118 | 组间比较 |
 >
-> 样本：$N = 389$ 名澳大利亚大学新生（DP=99, 非DP=290），悉尼大学和 QUT。测量工具为 [[Academic Self-Concept General Scale|Marsh (1992) ASC 10 项量表]]（$\alpha = .92$）。DP 毕业生 ASC 显著高于非 DP（$M = 6.25$ vs 5.75$, $t(380) = 4.24$, $p < .001$）。d 由报告均值与 SD 以 pooled SD 公式计算，$d = 0.498$ 为中等效应，是 Cole et al. (2015) 所有大学学术指标中效应最大的一项。解释边界：[[Convenience Sampling\|便利抽样]]非代表性，选课效应无法排除，ASC 为代理测量非直接成绩。
+> d 由报告均值与 SD 以 pooled SD 公式计算。
 
 ---
 

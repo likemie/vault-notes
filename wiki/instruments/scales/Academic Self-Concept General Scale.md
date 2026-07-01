@@ -1,10 +1,9 @@
 ---
 title: Academic Self-Concept General Scale
 aliases:
-  - ASC
-  - Academic Self-concept (General) Scale
   - 一般学术自我概念量表
-summary: "用于测量大学生一般学术自我概念并可作为学业成果代理指标的十题自陈量表"
+  - Academic Self-Concept Scale
+summary: 用于测量大学生一般学术自我概念并可作为学业成果代理指标的十题自陈量表
 type: instrument
 instrument_type: scale
 developers:
@@ -14,7 +13,7 @@ languages:
   - English
 item_count: "10"
 administration_mode: self-report
-response_format: "—"
+response_format: —
 tags:
   - theme/academic-self-concept
   - instrument/self-report
