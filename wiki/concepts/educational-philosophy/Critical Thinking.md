@@ -112,9 +112,6 @@ updated: 2026-06-30
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 课程学习（Y12 vs Y11） | CTSS 总分 | 622 | 620 | 0.216 | 0.057 | 横断调查 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 课程学习（Y12 vs Y11） | MSLQ-CT 分量表 | 632 | 630 | 0.177 | 0.056 | 横断调查 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 课程学习（Y12 vs Y11） | 评估主张 | 632 | 630 | 0.264 | 0.057 | 横断调查 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 课程学习（Y12 vs Y11） | 分析论证 | 632 | 630 | 0.225 | 0.056 | 横断调查 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 课程学习（Y12 vs Y11） | 识别论证 | 632 | 630 | 0.217 | 0.056 | 横断调查 |
 
 > [!ma-table]- 元分析汇总
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
