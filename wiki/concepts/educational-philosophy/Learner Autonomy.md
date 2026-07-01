@@ -9,10 +9,10 @@ aliases:
 summary: "学习者对自身学习过程承担责任的能力与意愿，包括批判性反思、元认知意识和自我调节，是课程培养学生独立思考的核心目标之一"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/autonomy
   - theme/critical-thinking
