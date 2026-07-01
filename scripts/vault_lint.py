@@ -1838,6 +1838,120 @@ def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
     return False
 
 
+def citation_identity(display: str, target: str = "") -> str:
+    display = normalize_citation_alias_text(display).strip()
+    year_match = re.search(r"(?:19|20)\d{2}[a-z]?", display)
+    if not year_match:
+        return ""
+
+    author = display[:year_match.start()].strip(" \t([{（【,，")
+    author = normalize_citation_alias_text(author).lower().rstrip(" .,，")
+    source = author or target.strip().lower()
+    if not source:
+        return ""
+
+    tail = display[year_match.end():]
+    locator_match = re.search(r"\bpp?\.\s*([^)\]）]+)", tail, flags=re.IGNORECASE)
+    locator = ""
+    if locator_match:
+        locator = re.sub(r"\s+", "", locator_match.group(0).lower())
+        locator = locator.replace("，", ",").replace("–", "-")
+
+    return f"{source}|{year_match.group(0).lower()}|{locator}"
+
+
+def citation_units(text: str) -> List[Tuple[str, int, str]]:
+    """Return paragraph and callout units while preserving offsets."""
+    lines = text.splitlines(keepends=True)
+    units: List[Tuple[str, int, str]] = []
+    offsets: List[int] = []
+    pos = 0
+    for line in lines:
+        offsets.append(pos)
+        pos += len(line)
+
+    callout_start_re = re.compile(r"^\s*(?:>\s*)+\[![^\]\n]+\]")
+    quote_line_re = re.compile(r"^\s*>")
+    standalone_block_re = re.compile(r"^\s*(?:[-*+]|\d+[.)])\s+|^\s*\||^\s*#{1,6}\s+")
+    i = 0
+    while i < len(lines):
+        if not lines[i].strip():
+            i += 1
+            continue
+
+        start = i
+        if callout_start_re.match(lines[i]):
+            i += 1
+            while i < len(lines) and quote_line_re.match(lines[i]):
+                i += 1
+            units.append(("".join(lines[start:i]), offsets[start], "callout"))
+            continue
+
+        i += 1
+        while i < len(lines):
+            if not lines[i].strip() or callout_start_re.match(lines[i]):
+                break
+            if standalone_block_re.match(lines[start]) or standalone_block_re.match(lines[i]):
+                break
+            i += 1
+        units.append(("".join(lines[start:i]), offsets[start], "paragraph"))
+
+    return units
+
+
+def check_duplicate_citations(path: Path, text: str, issues: List[Issue]) -> None:
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
+        return
+
+    _, body, body_start_line = split_frontmatter(text)
+    scan = remove_h2_sections(body, ["来源", "Sources", "Source"])
+    scan = mask_markdown_code(scan)
+
+    def mask_comment(m: re.Match[str]) -> str:
+        return re.sub(r"[^\n]", " ", m.group(0))
+
+    scan = re.sub(r"%%.*?%%", mask_comment, scan, flags=re.DOTALL)
+    scan = re.sub(r"<!--.*?-->", mask_comment, scan, flags=re.DOTALL)
+
+    for unit, unit_offset, unit_kind in citation_units(scan):
+        occurrences: Dict[str, List[Tuple[int, str]]] = {}
+        masked_unit = list(unit)
+
+        for match in WIKILINK_RE.finditer(unit):
+            raw = match.group(1)
+            target = extract_wikilink_target(raw)
+            display = raw.split("|", 1)[1].strip() if "|" in raw else ""
+            if target.startswith("Argument_") and citation_display_has_author_year(display):
+                key = citation_identity(display, target)
+                if key:
+                    occurrences.setdefault(key, []).append((match.start(), display))
+            for idx in range(match.start(), match.end()):
+                if masked_unit[idx] != "\n":
+                    masked_unit[idx] = " "
+
+        without_links = "".join(masked_unit)
+        for match in RAW_CITATION_RE.finditer(without_links):
+            display = match.group(1).strip()
+            if not citation_display_text(display):
+                continue
+            key = citation_identity(display)
+            if key:
+                occurrences.setdefault(key, []).append((match.start(), display))
+
+        for repeated in occurrences.values():
+            if len(repeated) < 2:
+                continue
+            repeated.sort(key=lambda item: item[0])
+            duplicate_pos, display = repeated[1]
+            issues.append(Issue(
+                "WARN",
+                rel(path),
+                f"the same citation and page appears {len(repeated)} times in one {unit_kind}; keep it once: {display!r}",
+                line=line_of_pos(scan, unit_offset + duplicate_pos, body_start_line),
+                code="CITATION_DUPLICATE_IN_UNIT",
+            ))
+
+
 def strip_existing_wikilinks(text: str) -> str:
     def repl(m: re.Match) -> str:
         return " " * len(m.group(0))
@@ -1913,6 +2027,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_source_record(path, text, issues)
     check_path_and_index_consistency(path, data, path_to_title, issues)
     check_citation_links(path, text, data, argument_citations, issues)
+    check_duplicate_citations(path, text, issues)
 
 
 def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> List[Issue]:
