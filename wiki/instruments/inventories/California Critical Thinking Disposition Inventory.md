@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-01
 ---
 
 # California Critical Thinking Disposition Inventory
@@ -44,7 +44,7 @@ updated: 2026-06-30
 > - **工具类型** 七十五题商业化自陈问卷。
 > - **开发者与年份** Insight Assessment (2000)。
 > - **测量目的** 测量个体将批判性思维作为自然思维习惯加以运用的倾向，而非直接测量任务中的批判性思维表现。
-> - **实施方式** 在线自陈。Cole 等人的参与者需要前往第二个在线位置并使用登录信息，造成明显样本流失。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6–7, 12)]]
+> - **实施方式** 自陈。
 
 ---
 
@@ -69,11 +69,7 @@ updated: 2026-06-30
 
 ## 题项与作答方式
 
-> [!instrument-items] 题项结构
-> - **题项数量** 七十五题。
-> - **题项形式** —
-> - **作答格式** —
-> - **反向题与跳题** —
+—
 
 ---
 
@@ -82,9 +78,9 @@ updated: 2026-06-30
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 工具版本 | 样本与用途 | [[Reliability\|信度]]及来源 | 效度与可比性 | 实证结果 |
-> |---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Insight Assessment 2000 英文版 | 澳大利亚大学一年级学生，DP 毕业生 n = 42，非 DP 毕业生 n = 126。用于比较[[Critical Thinking\|批判性思维]]倾向 | 既有证据 总量表 α = .90；测试手册 七个分量表 α = .67–.82；当前样本 — | — | DP 毕业生七个维度均值均较高，总分 300.95 对 293.98；显著性 — |
+> | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
+> |---|---|---|---|---|
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Insight Assessment 2000 英文版 | 澳大利亚大学一年级学生，DP 毕业生 n = 42，非 DP 毕业生 n = 126。使用独立在线入口与登录信息施测，样本流失明显；用于比较[[Critical Thinking\|批判性思维]]倾向 | 既有证据总量表 α = .90；测试手册七个分量表 α = .67–.82；当前样本信度、效度与可比性 — | DP 毕业生七个维度均值均较高，总分 300.95 对 293.98；显著性 — |
 
 ### [[Argument_Cole_2015_AJE|Cole et al. (2015)]]
 
@@ -111,4 +107,4 @@ updated: 2026-06-30
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | Insight Assessment 2000 版 | 英语，澳大利亚施测 | 大学一年级学生 | 75 | — | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6–7, 12, 18)]] |
+> | Insight Assessment 2000 版 | 英语 | — | 75 | — | Insight Assessment (2000) |

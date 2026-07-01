@@ -13452,22 +13452,20 @@
 .callout:has(.instrument-item-table-marker) th:nth-child(5),
 .callout:has(.instrument-item-table-marker) td:nth-child(5) { width: 15%; }
 
-/* 研究表  样本、信效度和结果获得主要空间 */
-.callout:has(.instrument-study-table-marker) table { min-width: 1180px; }
+/* 研究表  样本、测量属性和结果获得主要空间 */
+.callout:has(.instrument-study-table-marker) table { min-width: 1120px; }
 .callout:has(.instrument-study-table-marker) th,
 .callout:has(.instrument-study-table-marker) td { font-size: 0.86em !important; }
 .callout:has(.instrument-study-table-marker) th:nth-child(1),
-.callout:has(.instrument-study-table-marker) td:nth-child(1) { width: 12%; }
+.callout:has(.instrument-study-table-marker) td:nth-child(1) { width: 13%; }
 .callout:has(.instrument-study-table-marker) th:nth-child(2),
-.callout:has(.instrument-study-table-marker) td:nth-child(2) { width: 11%; }
+.callout:has(.instrument-study-table-marker) td:nth-child(2) { width: 13%; }
 .callout:has(.instrument-study-table-marker) th:nth-child(3),
-.callout:has(.instrument-study-table-marker) td:nth-child(3) { width: 21%; }
+.callout:has(.instrument-study-table-marker) td:nth-child(3) { width: 25%; }
 .callout:has(.instrument-study-table-marker) th:nth-child(4),
-.callout:has(.instrument-study-table-marker) td:nth-child(4) { width: 18%; }
+.callout:has(.instrument-study-table-marker) td:nth-child(4) { width: 27%; }
 .callout:has(.instrument-study-table-marker) th:nth-child(5),
-.callout:has(.instrument-study-table-marker) td:nth-child(5) { width: 20%; }
-.callout:has(.instrument-study-table-marker) th:nth-child(6),
-.callout:has(.instrument-study-table-marker) td:nth-child(6) { width: 18%; }
+.callout:has(.instrument-study-table-marker) td:nth-child(5) { width: 22%; }
 
 /* 分维度结果表  指标名和数值列保持均衡 */
 .callout:has(.instrument-result-table-marker) table { min-width: 720px; }

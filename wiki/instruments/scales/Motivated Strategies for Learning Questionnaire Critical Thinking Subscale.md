@@ -8,6 +8,7 @@ aliases:
 summary: "学习动机策略问卷中用于测量学生自报批判性思维策略使用的五题分量表"
 type: instrument
 instrument_type: scale
+part_of: "[[Motivated Strategies for Learning Questionnaire]]"
 developers:
   - P. Pintrich
   - D. Smith
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-01
 ---
 
 # Motivated Strategies for Learning Questionnaire Critical Thinking Subscale
@@ -50,7 +51,7 @@ updated: 2026-06-30
 > - **工具类型** 学习动机策略问卷中的五题自陈分量表。
 > - **开发者与年份** Pintrich et al. (1993)。
 > - **测量目的** 测量学生自报的批判性思维策略使用，可作为 [[Critical Thinking Strategies Scale|CTSS]] 的既有量表参照。
-> - **实施方式** 在线自陈问卷，采用七点量表。可确认的锚点为 4“比较符合我”和 7“非常符合我”。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6, 8)]]
+> - **实施方式** 自陈。
 
 ---
 
@@ -67,10 +68,8 @@ updated: 2026-06-30
 
 ## 题项与作答方式
 
-> [!instrument-items] 题项结构
-> - **题项数量** 五题。
-> - **题项形式** —
-> - **作答格式** 七点量表，4 表示“比较符合我”，7 表示“非常符合我”；其余锚点 —
+> [!instrument-items] 作答规则
+> - **作答格式** 七点量表，4 表示“比较符合我”，7 表示“非常符合我”；其余锚点 — [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6, 8)]]
 > - **反向题与跳题** —
 
 ---
@@ -80,9 +79,9 @@ updated: 2026-06-30
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 工具版本 | 样本与用途 | [[Reliability\|信度]]及来源 | 效度与可比性 | 实证结果 |
-> |---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文五题分量表 | 澳大利亚 ToK 十一、十二年级学生，总分比较 n = 1,242。作为 [[Critical Thinking Strategies Scale\|CTSS]] 的既有量表参照 | 既有证据 α = .80；当前样本 — | — | 十二年级均值 4.69（1.15），高于十一年级 4.48（1.22），t(1240) = 3.04，p < .01 |
+> | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
+> |---|---|---|---|---|
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文五题分量表 | 澳大利亚 ToK 十一、十二年级学生，在线施测，总分比较 n = 1,242。作为 [[Critical Thinking Strategies Scale\|CTSS]] 的既有量表参照 | 既有证据 α = .80；当前样本信度、效度与可比性 — | 十二年级均值 4.69（1.15），高于十一年级 4.48（1.22），t(1240) = 3.04，p < .01 |
 
 ---
 
@@ -93,4 +92,4 @@ updated: 2026-06-30
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | MSLQ [[Critical Thinking\|批判性思维]]分量表 | 英语，澳大利亚施测 | 十一、十二年级 ToK 学生 | 5 | — | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6, 8)]] |
+> | MSLQ [[Critical Thinking\|批判性思维]]分量表 | 英语 | — | 5 | 完整 MSLQ 的五题分量表 | Pintrich et al. (1993) |
