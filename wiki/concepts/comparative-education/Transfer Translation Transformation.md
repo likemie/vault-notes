@@ -164,7 +164,7 @@ updated: 2026-06-24
 
 ### 主题一：地缘政治与强制性变迁 (Geopolitics & Coercive Change)
 
-> [!phase] 案例一：战后盟军占领下的德日改革 (Shibata 2005, 见 [[Argument_Cowen_2009_CE|Cowen, 2009, p. 257]])
+> [!case] 案例一：战后盟军占领下的德日改革 (Shibata 2005, 见 [[Argument_Cowen_2009_CE|Cowen, 2009, p. 257]])
 >
 > - **转移阶段**
 >
@@ -178,7 +178,7 @@ updated: 2026-06-24
 >
 >   接受国深层的社会权力结构与历史制度惯性对转译后的政策进行了长时段的重力再造。在西德，去中心化的联邦结构和保守力量最终彻底粉碎了美式综合中学的尝试，强力保留了文科中学（Gymnasium）、实科中学（Realschule）和主体中学（Hauptschule）的欧式传统三轨制。而在日本，尽管形式上完整维系了美式单轨 6-3-3 结构，但日本社会深层的纵向等级结构、大学声望层级以及文官考试传统重新显现，演化出极其残酷的升学[[Examination Hell|考试地狱]]（Examination Hell）和影子教育系统（补习塾），从根本上扭曲并转化了美式进步主义教育原初的个性解放与教育民主化内涵（p.323）。
 
-> [!phase] 案例二：后殖民主义的去殖民化与帝国历史印记 — [[Argument_Cowen_2009_CE|Cowen (2009)]]
+> [!case] 案例二：后殖民主义的去殖民化与帝国历史印记 — [[Argument_Cowen_2009_CE|Cowen (2009)]]
 >
 > - **转移与转译阶段**
 >
@@ -192,7 +192,7 @@ updated: 2026-06-24
 
 ### 主题二：全球化政策网络下的课程改革 (Global Governance & Networked Reform)
 
-> [!phase] 案例三：拉美信息时代课程改革 — [[Argument_Beech_2009_CE|Beech (2009)]]
+> [!case] 案例三：拉美信息时代课程改革 — [[Argument_Beech_2009_CE|Beech (2009)]]
 >
 > - **转移阶段**
 >
@@ -210,7 +210,7 @@ updated: 2026-06-24
 
 ### 主题三：思想传播与再脉络化 (Intellectual Travel & Recontextualization)
 
-> [!phase] 案例四：民国时期[[John Dewey|杜威]]民主教育思想的旅程 — [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]
+> [!case] 案例四：民国时期[[John Dewey|杜威]]民主教育思想的旅程 — [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]
 >
 > - **转移阶段**
 >
@@ -224,7 +224,7 @@ updated: 2026-06-24
 >
 >   1923 年后，中国陷入严重的政局割据和军阀混战，本土社会政治权力对教育实施猛烈挤压。在此背景下，激进的民主课改难以为继，民主内核在实践转化中彻底灭绝。最终，杜威思想被重新塑造并退缩为一种单纯的“[[Scientific Attitude|科学态度]]与改良方法”工具，而[[Scientism|科学主义]]则取代民主成为了新的教育合法性标签。
 
-> [!phase] 案例五：杜威在华接受史的九十年[[Recontextualization|再脉络化]] — [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]
+> [!case] 案例五：杜威在华接受史的九十年[[Recontextualization|再脉络化]] — [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]
 >
 > - **第一重形变 (1919–1920年代，五四时期)**
 >

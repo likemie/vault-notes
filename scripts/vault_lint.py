@@ -105,6 +105,10 @@ GENERATED_INDEX_FILES = {
     "index.json",
 }
 
+GENERATED_CONTENT_PATHS = {
+    "wiki/research-map.md",
+}
+
 SKIP_DIR_NAMES = {
     ".git",
     ".obsidian",
@@ -679,8 +683,14 @@ def frontmatter_line_number(fm: str, key: str) -> Optional[int]:
     return fm[:m.start()].count("\n") + 2  # +1 for 1-indexed, +1 for opening ---
 
 
+def is_generated_content_page(path: Path) -> bool:
+    if path.name in GENERATED_INDEX_FILES or rel(path) in GENERATED_CONTENT_PATHS:
+        return True
+    return False
+
+
 def is_generated_or_template(path: Path) -> bool:
-    if path.name in GENERATED_INDEX_FILES:
+    if is_generated_content_page(path):
         return True
     if TEMPLATES_DIR in path.parents:
         return True
@@ -2009,6 +2019,9 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
 
 
 def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Dict[str, str], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
+    if is_generated_content_page(path):
+        return
+
     try:
         text = read_text(path)
     except UnicodeDecodeError:
