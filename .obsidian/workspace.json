@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
-                "mode": "preview",
+                "file": "wiki/instruments/observations/ToK Classroom Observation Protocol.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "California Critical Thinking Disposition Inventory"
+              "title": "ToK Classroom Observation Protocol"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
+                "file": "wiki/instruments/observations/ToK Classroom Observation Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "California Critical Thinking Disposition Inventory 的反向链接列表"
+              "title": "ToK Classroom Observation Protocol 的反向链接列表"
             }
           },
           {
@@ -223,8 +223,8 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
-    "wiki/instruments/interviews/ToK Interview and Focus Group Protocol.md",
     "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
+    "wiki/instruments/interviews/ToK Interview and Focus Group Protocol.md",
     "wiki/instruments/interviews",
     "wiki/instruments/ToK Classroom Observation Protocol.md",
     "wiki/instruments/observations/ToK Classroom Observation Protocol.md",
