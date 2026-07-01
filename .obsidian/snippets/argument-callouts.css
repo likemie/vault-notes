@@ -4081,6 +4081,15 @@
   color: rgb(172, 115, 35);
   line-height: 1.5;
 }
+.callout[data-callout="phase"] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout="phase"] > .callout-content > ol > li > strong:first-of-type {
+  margin: 0;
+  margin-left: 4.5rem;
+  display: inline-block;
+  font-weight: 700;
+  color: rgb(172, 115, 35);
+  line-height: 1.5;
+}
 
 /* ── body 段落：block，加分隔线 ── */
 .callout[data-callout="phase"] > .callout-content > ul > li > p:not(:first-of-type),
