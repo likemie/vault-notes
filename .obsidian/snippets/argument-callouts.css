@@ -13494,3 +13494,40 @@
 .callout:has(.instrument-version-table-marker) td:nth-child(5) { width: 30%; }
 .callout:has(.instrument-version-table-marker) th:nth-child(6),
 .callout:has(.instrument-version-table-marker) td:nth-child(6) { width: 15%; }
+
+/* 概念页实证数据表
+   长文本集中在样本、关键结果与解释边界，使用固定列宽和横向滚动，
+   避免七列在正文宽度内被压成狭长文本。 */
+.concept-empirical-table-marker {
+  display: none;
+}
+
+.callout:has(.concept-empirical-table-marker) > .callout-content {
+  overflow-x: auto;
+}
+
+.callout:has(.concept-empirical-table-marker) table {
+  width: 100%;
+  min-width: 1280px;
+  table-layout: fixed !important;
+}
+
+.callout:has(.concept-empirical-table-marker) th,
+.callout:has(.concept-empirical-table-marker) td {
+  font-size: 0.86em !important;
+}
+
+.callout:has(.concept-empirical-table-marker) th:nth-child(1),
+.callout:has(.concept-empirical-table-marker) td:nth-child(1) { width: 13%; }
+.callout:has(.concept-empirical-table-marker) th:nth-child(2),
+.callout:has(.concept-empirical-table-marker) td:nth-child(2) { width: 17%; }
+.callout:has(.concept-empirical-table-marker) th:nth-child(3),
+.callout:has(.concept-empirical-table-marker) td:nth-child(3) { width: 12%; }
+.callout:has(.concept-empirical-table-marker) th:nth-child(4),
+.callout:has(.concept-empirical-table-marker) td:nth-child(4) { width: 15%; }
+.callout:has(.concept-empirical-table-marker) th:nth-child(5),
+.callout:has(.concept-empirical-table-marker) td:nth-child(5) { width: 21%; }
+.callout:has(.concept-empirical-table-marker) th:nth-child(6),
+.callout:has(.concept-empirical-table-marker) td:nth-child(6) { width: 10%; }
+.callout:has(.concept-empirical-table-marker) th:nth-child(7),
+.callout:has(.concept-empirical-table-marker) td:nth-child(7) { width: 12%; }

@@ -179,6 +179,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    完全没有量化或实证数据时才可删除本节。 %%
 
 > [!ref-table]- 实证数据汇总
+> <span class="concept-empirical-table-marker" aria-hidden="true"></span>
+>
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | N、群体、地区或时期 | 调查、实验、观察、纵向或其他设计 | 核心变量、测量或指标 | 比例、均值、相关、回归系数或组间差异 | SE、CI、p 或 — | 该结果能与不能说明什么 |
