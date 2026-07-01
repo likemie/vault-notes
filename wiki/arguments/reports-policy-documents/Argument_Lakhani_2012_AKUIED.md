@@ -2,14 +2,14 @@
 summary: "通过质性案例研究，探究 IB 知识论课程中认知者通过提问、反思性思考和创造性沟通三种角色行使知识建构自主性的过程，提出自主性依赖批判性思维能力和自我信心的双条件机制"
 type: argument
 authors:
-  - "Raheel Tajuddin Lakhani"
+  - "Lakhani, R. T."
 source_language: en
 citation: "Lakhani, R. T. (2012). Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum. In Search of Relevance and Sustainability of Educational Change: An International Conference at Aga Khan University Institute for Educational Development, November 1-3, 2012 (pp. 187–194)."
 year: 2012
 doi: ""
 citation_aliases:
-  - "Raheel Tajuddin Lakhani, 2012"
-  - "Raheel Tajuddin Lakhani (2012)"
+  - "Lakhani, 2012"
+  - "Lakhani (2012)"
 isbn: ""
 tags:
   - theme/autonomy

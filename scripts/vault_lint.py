@@ -220,7 +220,8 @@ CITATION_NARRATIVE_RE = re.compile(r"^[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)
 RAW_CITATION_RE = re.compile(r"(?<![\w\[])(\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)|（[A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?）|[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)])")
 ENGLISH_AUTHOR_AND_RE = re.compile(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:and|和)\s*(?=[A-ZÀ-ÖØ-Þ])")
 APA_INVERTED_PERSON_RE = re.compile(
-    r"^[A-Za-zÀ-ÖØ-öø-ÿ'’.-]+(?:[ -][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+)*,\s*(?:[A-ZÀ-ÖØ-Þ]\.\s*)+$"
+    r"^[A-Za-zÀ-ÖØ-öø-ÿ'’.-]+(?:[ -][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+)*,\s*"
+    r"(?:[A-ZÀ-ÖØ-Þ]\.(?:-[A-ZÀ-ÖØ-Þ]\.)?\s*)+$"
 )
 ORGANIZATION_CREATOR_RE = re.compile(
     r"\b(?:academy|agency|assessment|association|board|center|centre|college|commission|company|"
@@ -285,31 +286,22 @@ def wikilink_target_and_display(value: str) -> Optional[Tuple[str, str]]:
     return target, display
 
 
-def looks_like_forward_western_person_name(value: str) -> bool:
-    value = re.sub(r"\s+", " ", value).strip()
-    if not value or "," in value or has_cjk(value):
-        return False
-    parts = value.split()
-    if len(parts) < 2:
-        return False
-    return all(re.fullmatch(r"[A-ZÀ-ÖØ-Þ][A-Za-zÀ-ÖØ-öø-ÿ'’.-]*", part) for part in parts)
-
-
 def check_argument_creator_apa_display(path: Path, fm: str, field: str, item: str, issues: List[Issue]) -> None:
-    parsed = wikilink_target_and_display(item)
-    if not parsed:
+    display = creator_display(item)
+    if (
+        has_cjk(display)
+        or APA_INVERTED_PERSON_RE.fullmatch(display)
+        or looks_like_organization_creator(display)
+    ):
         return
-    target, display = parsed
-    if "|" in item or "," in display:
-        return
-    if looks_like_forward_western_person_name(target):
-        issues.append(Issue(
-            "ERROR",
-            rel(path),
-            f"{field} Person wikilink should use APA inverted display name, e.g. [[{target}|{target.split()[-1]}, X.]]: {item!r}",
-            line=frontmatter_line_number(fm, field),
-            code=f"{field.upper()}_APA_DISPLAY",
-        ))
+    issues.append(Issue(
+        "ERROR",
+        rel(path),
+        f"{field} personal names must use APA inverted form such as 'Lakhani, R. T.'; "
+        f"Person wikilinks must use the same form as their display text: {item!r}",
+        line=frontmatter_line_number(fm, field),
+        code=f"{field.upper()}_APA_DISPLAY",
+    ))
 
 
 def looks_like_organization_creator(value: str) -> bool:
@@ -319,6 +311,8 @@ def looks_like_organization_creator(value: str) -> bool:
     if ORGANIZATION_CREATOR_RE.search(value):
         return True
     if re.fullmatch(r"[A-Z][A-Z0-9&.-]*", value):
+        return True
+    if re.fullmatch(r"[A-ZÀ-ÖØ-Þ][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+", value):
         return True
     return False
 

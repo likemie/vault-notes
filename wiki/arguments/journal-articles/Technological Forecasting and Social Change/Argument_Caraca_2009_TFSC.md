@@ -2,15 +2,15 @@
 summary: "回顾过去五十年科学在创新中角色的演变，从线性模型到链式模型再到多通道互动学习模型，论证科学已从创新的自主主导因素转变为贯穿全过程的无处不在的要素，同时警告将大学转化为专利生产者而忽视其培养批判性人才这一根本功能的政策倾向"
 type: argument
 authors:
-  - João Caraça
-  - Bengt-Åke Lundvall
-  - Sandro Mendonça
+  - "Caraça, J."
+  - "Lundvall, B.-Å."
+  - "Mendonça, S."
 citation: "Caraça, J., Lundvall, B.-Å., & Mendonça, S. (2009). The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867. https://doi.org/10.1016/j.techfore.2008.08.003"
 year: 2009
 doi: 10.1016/j.techfore.2008.08.003
 citation_aliases:
-  - "João Caraça et al., 2009"
-  - "João Caraça et al. (2009)"
+  - "Caraça et al., 2009"
+  - "Caraça et al. (2009)"
 tags:
   - theme/innovation-studies
   - theme/science-policy
@@ -187,7 +187,7 @@ issuing_organization: ""
 
 ### 第二步：链式模型的理论突破与未竟之处
 
-Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模型最重要的理论挑战 (pp.863–864)。核心洞见拆解为三个层次：
+Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模型最重要的理论挑战 (pp.863–864)。核心洞见拆解为三个层次：
 
 1. **创新的起点不是科学**，而是一个关于潜在市场用途的广泛想法。该想法通过设计或原型转化为具体方案，经历一系列反馈循环最终回到用户需求。
 2. **科学在过程中按需调用或创造**。既有的经过验证的科学知识（K）可在任何阶段被调用，新知识（R）可在需要时创造。
@@ -230,7 +230,7 @@ Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 > > 三类知识池的区分直接挑战了只有自然科学才是创新所需知识的预设。后两类知识在传统创新政策中被系统性低估。公共创新政策如果只资助自然科学研究而忽视组织研究和营销研究，就系统性地遗漏了创新所需的三分之二的知识来源。
 
 > [!evidence-grid] 创新三：界面作为解释性管道
-> 界面是使企业从环境中识别、选择和吸收新想法的构建性解释管道 (p.865)。这一概念与 Cohen 和 Levinthal（1990）的[[Absorptive Capacity|吸收能力]]（Absorptive Capacity）直接相关——吸收能力是识别、消化和应用外部知识的能力，界面则是这一能力得以实际运作的通道。
+> 界面是使企业从环境中识别、选择和吸收新想法的构建性解释管道 (p.865)。这一概念与 Cohen & Levinthal（1990）的[[Absorptive Capacity|吸收能力]]（Absorptive Capacity）直接相关——吸收能力是识别、消化和应用外部知识的能力，界面则是这一能力得以实际运作的通道。
 >
 > > [!example] 界面在不同产业中的形态
 > > - **低技术产业**（食品加工、纺织）：企业与用户紧密合作改进产品，用户界面最关键。
@@ -250,7 +250,7 @@ Kline 和 Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 
 - **微观环境** 与企业直接互动的行动者——用户、供应商、竞争者、大学、研究机构、行业协会。
 - **宏观环境** 更广泛的制度结构、宏观经济条件、政治力量、社会变迁、生态约束。
-- **共同构成[[Innovation Ecosystem|创新生态]]**：复杂的多层次选择环境，对企业创新施加持续变化的压力。
+- **共同构成[[Innovation Ecosystem|创新生态]]** 复杂的多层次选择环境，对企业创新施加持续变化的压力。
 
 > [!tension] 制度节奏与错配
 > 内部创新速度快于制度调整时，微观或宏观制度设置可能滞后并产生阻尼效应——制度跟不上技术变化的节奏，形成创新推力与制度惯性的冲突。组织层面创新方向与既有制度框架不匹配时，可预见动荡的过渡和调整期，最终导向新的技术经济[[Paradigm|范式]]（Freeman & Louçã, 2001, 引自 p.865）。该框架整合了部门[[Systems of Innovation|创新系统]]（Malerba, 2002）、区域创新系统（Asheim & Gertler, 2004）和国家创新系统（Freeman, 2002; Lundvall et al., 2002）的多层分析。
