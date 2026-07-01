@@ -29,10 +29,11 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
+  - "[[Metacognition]]"
   - "[[Tracking]]"
-  - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Statistical Significance]]"
+  - "[[Document]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -132,7 +133,7 @@ updated: '2026-06-08'
 > Toolkit 定位为帮助[[School Leadership|学校领导]]（尤其是使用学生津贴的学校）做出"好的赌注"([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 
 > [!note]- 不同领域的一致性差异
-> 某些领域（如元认知与自我调节、语音教学）有相对一致的发现，而其他领域（如家长参与、行为干预）则有来自不同元分析的变异估计([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
+> 某些领域（如[[Metacognition|元认知]]与自我调节、语音教学）有相对一致的发现，而其他领域（如家长参与、行为干预）则有来自不同元分析的变异估计([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 
 ---
 
@@ -166,7 +167,7 @@ updated: '2026-06-08'
 > - 呈现方式有吸引力且色彩丰富([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.19]])
 > - 对教师理解哪些干预主动有害（如[[Tracking|能力分组]]）提供了有力参考([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.23]])
 > - 一位新教师形容为通往高质量证据的捷径([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
-> - Toolkit 的详细[[Document|文件]]对教师[[Professional Judgment|专业判断]]的重要性给予了值得赞赏的强调([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.21–22]])
+> - Toolkit 的详细文件对教师[[Professional Judgment|专业判断]]的重要性给予了值得赞赏的强调([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.21–22]])
 
 ---
 
@@ -229,7 +230,7 @@ updated: '2026-06-08'
 > - 学生成就不是每个干预措施的唯一切实目的，即使它是整体政策战略的最终目标
 
 > [!warning] 实施指导的空白
-> - 虽然 [[Education Endowment Foundation|EEF]] 提供了大量关于在学校开展试验的实践指导，但专门针对实施现有证据本位方案的文献相对较少([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.21–22, 45]])
+> - 虽然 [[Education Endowment Foundation|EEF]] 提供了大量关于在学校开展试验的实践指导，但专门针对实施现有证据本位方案的[[Document|文献]]相对较少([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.21–22, 45]])
 > - 缺乏关于如何将研究证据与本地知识、关于底层机制的[[Hypothesis|假设]]相结合的实用指导
 > - Cowen et al. 将此定位为国际证据本位实践文献中的共同空白
 

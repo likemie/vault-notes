@@ -19,8 +19,7 @@ tags:
   - theme/academic-self-concept
   - instrument/self-report
 related_concepts:
-  - "[[Construct]]"
-  - "[[Reliability]]"
+  - "[[Academic Self-Concept]]"
   - "[[Construct Validity]]"
 related_theories: []
 related_methods: []
@@ -41,7 +40,7 @@ updated: 2026-07-01
 
 ## 工具定位
 
-> [!instrument-profile] 一般学术自我概念量表
+> [!instrument-profile] 一般[[Academic Self-Concept|学术自我概念]]量表
 > - **工具类型** 十题自陈量表。
 > - **开发者与年份** Marsh (1992)。
 > - **测量目的** 测量一般学术自我概念，可在跨学校成绩难以标准化时作为实际学业成果的代理指标。
@@ -51,7 +50,7 @@ updated: 2026-07-01
 
 ## 测量构念与维度
 
-> [!construct-table] 学术自我概念
+> [!construct-table] [[Academic Self-Concept|学术自我概念]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

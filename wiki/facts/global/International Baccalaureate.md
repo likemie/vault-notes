@@ -22,9 +22,10 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[Theory of Knowledge]]"
-  - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Epistemology]]"
   - "[[Critical Thinking]]"
+  - "[[Academic Self-Concept]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
@@ -33,6 +34,9 @@ related_facts: []
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Cole_2015_AJE]]"
+related_instruments:
+  - "[[Critical Thinking Strategies Scale]]"
+  - "[[California Critical Thinking Disposition Inventory]]"
 confidence: medium
 status: draft
 created: '2026-05-17'
@@ -68,7 +72,7 @@ updated: 2026-06-30
 
 > [!abstract] 三项核心要素
 > - **拓展论文（Extended Essay）** 4,000 字的研究论文，展示写作能力
-> - **[[Theory of Knowledge|知识论]]（[[Epistemology|theory of knowledge]]）**：要求学生就多种跨文化认知模式进行哲学反思，包括课堂方法论本身
+> - **[[Theory of Knowledge|知识论]]（theory of knowledge）**：要求学生就多种跨文化认知模式进行哲学反思，包括课堂方法论本身
 > - **创造、行动与服务（CAS, Creativity, Action, Service）** 要求学生参与社区服务活动
 
 ## 意识形态中立性争议
@@ -81,12 +85,12 @@ updated: 2026-06-30
 ## 知识理论（ToK）与批判性思维教学
 
 > [!abstract] ToK 的课程定位
-> [[Theory of Knowledge|知识论]]（[[Epistemology|theory of knowledge]], ToK）是 DP 三项核心要素之一，是一门 100 小时的必修认识论课程。ToK 不教授固定学科内容，而是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程"——学生在不受学科知识复制压力的环境中，通过结构化思维练习和跨学科活动，发展分析和评估论证、反思知识本质的能力（IBO, 2014, p. 1）（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.2]]）。
+> [[Theory of Knowledge|知识论]]（theory of knowledge, ToK）是 DP 三项核心要素之一，是一门 100 小时的必修[[Epistemology|认识论]]课程。ToK 不教授固定学科内容，而是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程"——学生在不受学科知识复制压力的环境中，通过结构化思维练习和跨学科活动，发展分析和评估论证、反思知识本质的能力（IBO, 2014, p. 1）（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.2]]）。
 
 > [!finding-cards] 澳大利亚 ToK 研究的主要发现（[[Argument_Cole_2015_AJE|Cole et al., 2015]]）
-> 1. **Y11→Y12 批判性思维技能显著增长** 全国 1,338 名 ToK 学生中，12 年级在 CTSS 14 项中的 11 项上显著高于 11 年级（pp.8–9）
-> 2. **DP 毕业生 CCTDI 七维度全面优于非 DP 毕业生** 求真、开放心态、探究性、分析性、系统性、推理自信、判断成熟度均更高（p.12）
-> 3. **DP 毕业生大学学术指标更高** ATAR $+4.84$（94.13 vs 89.29）；学术自我概念和预期成果均显著更高（p.12）
+> 1. **Y11→Y12 批判性思维技能显著增长** 全国 1,338 名 ToK 学生中，12 年级在 [[Critical Thinking Strategies Scale|CTSS]] 14 项中的 11 项上显著高于 11 年级（pp.8–9）
+> 2. **DP 毕业生 [[California Critical Thinking Disposition Inventory|CCTDI]] 七维度全面优于非 DP 毕业生** 求真、开放心态、探究性、分析性、系统性、推理自信、判断成熟度均更高（p.12）
+> 3. **DP 毕业生大学学术指标更高** ATAR $+4.84$（94.13 vs 89.29）；[[Academic Self-Concept|学术自我概念]]和预期成果均显著更高（p.12）
 > 4. **实施效果因学校而异** 四校展示了从全校整合到依赖讨论的四种模式。ToK 框架不自动保证批判性思维培养，学校文化和实施方式起关键调节作用（pp.10–11）
 
 > [!contrast-table] Cole et al. (2015) 核心数据

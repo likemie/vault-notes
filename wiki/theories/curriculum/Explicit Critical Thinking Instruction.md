@@ -21,6 +21,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Hypothesis]]"
   - "[[Theory of Knowledge]]"
+  - "[[Metacognition]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
   - "[[Operationalization]]"
@@ -44,6 +45,10 @@ related_facts:
   - "[[International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
+related_instruments:
+  - "[[Critical Thinking Strategies Scale]]"
+  - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
+  - "[[California Critical Thinking Disposition Inventory]]"
 confidence: medium
 status: draft
 created: 2026-06-30
@@ -75,7 +80,7 @@ updated: 2026-06-30
 > |:-----|:-----|:--------------|
 > | [[Critical Thinking]] | 概念 | 理论所要发展的目标能力——包括分析和评估论证、澄清意义、反思[[Hypothesis\|假设]]、基于证据推理等认知技能与倾向 |
 > | [[Theory of Knowledge]] | 概念 | [[International Baccalaureate\|IB]] DP 中体现显性教学路径的实践案例，即一个不教授固定内容、专门培养学生批判性思维的独立课程 |
-> | 元认知（Metacognition） | 概念 | 批判性思维的高阶组成部分，指对自己思维过程的意识和调节；显性教学被认为更能促进元认知发展 |
+> | [[Metacognition\|元认知]]（Metacognition） | 概念 | 批判性思维的高阶组成部分，指对自己思维过程的意识和调节；显性教学被认为更能促进元认知发展 |
 > | 教师培训（Teacher Training） | 机制 | 调节显性教学效果的关键[[Variable\|变量]]——教师接受批判性思维教学法培训后，学生获益最大 |
 > | 迁移（Transfer） | 机制 | 理论必须解释的关键过程，即在独立课程中学到的批判性思维技能能否以及如何迁移到具体学科和生活中 |
 
@@ -112,7 +117,7 @@ updated: 2026-06-30
 > - **推论二（源自核心命题二和三）** 即使开设了独立课程，批判性思维教学的效果仍取决于学校的实施方式。[[Case Study|案例研究]]显示，不同学校对同一门 ToK 课程的诠释和[[Operationalization|操作化]]差异很大——有的学校将 ToK 视为全校批判性思维计划的核心，有的学校则过度依赖全班讨论而缺乏目的性教学（Cole et al., 2015, pp.10–11）。
 
 > [!exegesis]- 教育研究例子
-> 以核心命题一为例：[[Hypothesis|假设]]一所学校在 11–12 年级设置了一门独立的批判性思维课程（如 ToK），每周 3 课时。教师接受了专门的批判性思维教学法培训，课程设计包括分析论证结构、评估证据质量、识别逻辑谬误、撰写论证文等显性教学活动。与此同时，另一所学校将批判性思维列为所有学科的"隐性期望"，但没有专门课程或教师培训。根据本理论的预测，第一所学校的学生在标准化批判性思维测量上应表现出更高的技能水平和更强的思维倾向——这一预测在 Cole et al.（2015）的澳大利亚研究中得到了初步支持：完成 ToK 课程的学生在 CTSS、MSLQ 批判性思维分量表和 CCTDI 上的得分均高于对照组。
+> 以核心命题一为例：[[Hypothesis|假设]]一所学校在 11–12 年级设置了一门独立的批判性思维课程（如 ToK），每周 3 课时。教师接受了专门的批判性思维教学法培训，课程设计包括分析论证结构、评估证据质量、识别逻辑谬误、撰写论证文等显性教学活动。与此同时，另一所学校将批判性思维列为所有学科的"隐性期望"，但没有专门课程或教师培训。根据本理论的预测，第一所学校的学生在标准化批判性思维测量上应表现出更高的技能水平和更强的思维倾向——这一预测在 Cole et al.（2015）的澳大利亚研究中得到了初步支持：完成 ToK 课程的学生在 [[Critical Thinking Strategies Scale|CTSS]]、[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 批判性思维分量表和 [[California Critical Thinking Disposition Inventory|CCTDI]] 上的得分均高于对照组。
 
 ---
 
@@ -121,7 +126,7 @@ updated: 2026-06-30
 > [!theory-stance] [[Epistemology|认识论]]立场
 > - **[[Ontology|本体论]]** [[Critical Thinking|批判性思维]]被视为一组可识别、可教学、可测量的认知技能和倾向，而非仅是个体特质或文化[[Habitus|习性]]的产物。
 > - **认识论** 本理论依赖教育心理学实证研究（实验、准实验、[[Meta-analysis|元分析]]）的证据，将教学效果的[[Operationalization|操作化]]定义为学生在标准化测量上的得分变化。
-> - **方法含义** 支持使用[[Randomised Controlled Trials|随机对照试验]]、[[Quasi-Experimental Designs|准实验设计]]和元分析来检验不同教学路径的效果；需要有效的批判性思维测量工具（如 CCTDI、CTSS 等）。
+> - **方法含义** 支持使用[[Randomised Controlled Trials|随机对照试验]]、[[Quasi-Experimental Designs|准实验设计]]和元分析来检验不同教学路径的效果；需要有效的批判性思维测量工具（如 [[California Critical Thinking Disposition Inventory|CCTDI]]、[[Critical Thinking Strategies Scale|CTSS]] 等）。
 > - **不能直接推出的东西** 不能从"显性教学更有效"直接推出"应在所有学校强制开设批判性思维独立课程"——这一推论需要额外的政策分析（课程空间、教师供给、资源成本和公平性考量）。也不能推出"学科教师不需要教授批判性思维"——理想状态是在独立课程和跨学科融入之间建立互补关系。
 
 > [!theory-use] 如何用于研究

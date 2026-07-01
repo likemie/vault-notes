@@ -22,6 +22,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
+  - "[[Metacognition]]"
   - "[[Classroom Management]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -81,7 +82,7 @@ updated: 2026-05-22
 > [!note]- 反馈文化与学生视角
 > [[Argument_Fredens_2015_Paideia|Fredens (2015)]]把反馈再往前推进了一步，不只把它当作教学技术，而是把它理解成一种学校文化。核心问题不是老师“有没有给反馈”，而是学校是否形成了一种持续追问 `"Where to next?"` 的工作方式，也就是不断帮助学生看清下一步该往哪里走([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.73-74]])。
 >
-> 这条线索的意义在于，它把反馈和 working-memory、元认知以及学生主动回应内容的能力连在一起。学生若只是重复老师想听的话，反馈就会退化成控制；只有当学生真的处理、调整和回应内容时，反馈才会成为学习机制([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.71, 73-74]])。
+> 这条线索的意义在于，它把反馈和 working-memory、[[Metacognition|元认知]]以及学生主动回应内容的能力连在一起。学生若只是重复老师想听的话，反馈就会退化成控制；只有当学生真的处理、调整和回应内容时，反馈才会成为学习机制([[Argument_Fredens_2015_Paideia|Fredens, 2015, pp.71, 73-74]])。
 
 ## 实证发现
 

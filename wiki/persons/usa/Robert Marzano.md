@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[School Effectiveness]]"
   - "[[Evaluation Research]]"
+  - "[[Metacognition]]"
   - "[[Effect Size]]"
   - "[[Direct Instruction]]"
 related_theories: []
@@ -64,7 +65,7 @@ updated: '2026-06-08'
 > [!tip]-
 > Marzano 的[[Meta-meta-analysis|元综合]]方法有两个关键特征：**理论驱动**和**反对"品牌名"聚合**。
 >
-> **理论驱动** Marzano 使用四个高层次学习类别来组织教学策略——知识、涉及认知系统的学习、涉及元认知系统的学习、以及自我系统。这一框架使他能够在具体教学实践层面和更抽象的理论层面同时得出结论([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
+> **理论驱动** Marzano 使用四个高层次学习类别来组织教学策略——知识、涉及认知系统的学习、涉及[[Metacognition|元认知]]系统的学习、以及自我系统。这一框架使他能够在具体教学实践层面和更抽象的理论层面同时得出结论([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
 >
 > **反对"品牌名"聚合** Marzano 批评[[Meta-meta-analysis|元-元分析]]中常见的"品牌名"做法——用宽泛的教育方式标签（如"现代数学"）代表包含多种"活性成分"的复杂干预。他以 Athappilly et al.（1983）的"现代数学"[[Meta-analysis|元分析]]为例：其中"使用操作教具"的[[Effect Size|效应量]]为 0.51，"[[Direct Instruction|直接教学]]概念和原理"为 0.35，而"使用探究方法"仅为 0.04。将这些聚合为单一"品牌"会掩盖教学有效性的关键差异([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
 >

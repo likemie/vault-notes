@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Formative Assessment]]"
+  - "[[Metacognition]]"
   - "[[Progressive Education]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 >
 > 2. **解释困难** — 专家建议难以翻译为可执行的指令
 >
-> > 例：一位教育研究者可能建议"通过[[Formative Assessment|形成性评估]]提升学生元认知能力"，但这需要翻译为教师可执行的具体课堂行为（何时评估？如何反馈？）。每一层级的翻译都可能引入信息失真——最终教师可能实施了"频繁测验"（将形成性评估误解为更多考试），而非研究者原意中的"以反馈促学习的评估循环"。（基于 Cowen, 2019, pp. 6–7 对信息损失的分析）
+> > 例：一位教育研究者可能建议"通过[[Formative Assessment|形成性评估]]提升学生[[Metacognition|元认知]]能力"，但这需要翻译为教师可执行的具体课堂行为（何时评估？如何反馈？）。每一层级的翻译都可能引入信息失真——最终教师可能实施了"频繁测验"（将形成性评估误解为更多考试），而非研究者原意中的"以反馈促学习的评估循环"。（基于 Cowen, 2019, pp. 6–7 对信息损失的分析）
 >
 > 3. **动机偏差** — 专家可能有不同于主权者的价值承诺
 >
@@ -97,7 +98,7 @@ updated: '2026-05-18'
 
 但这以**牺牲一线关联性**为代价：对主权者"透明"的简化结果漏掉了理论背景，而理论背景是教师成功解读和实施干预所必需的。
 
-> 例：[[Argument_Cowen_2019_ERE|Cowen (2019, p. 8)]] 以英国 [[Education Endowment Foundation|EEF]] 的 Teaching and Learning Toolkit 为例说明这一张力。Toolkit 以"额外进步月数"（+X months）的单一指标汇总每类干预的效果，使教育部长可以一目了然地看到"哪些方法有效"——这是对主权者透明的完美工具。但一线教师面对"元认知 +7 个月"的汇总数字时，既不知道这一效果在何种条件下产生（科目？年级？实施方式？），也不知道为什么元认知有效（理论背景）。没有这些信息，教师无法判断该方法是否适用于自己的课堂情境——对主权者"透明"的形式恰恰对一线实践者"不透明"。
+> 例：[[Argument_Cowen_2019_ERE|Cowen (2019, p. 8)]] 以英国 [[Education Endowment Foundation|EEF]] 的 Teaching and Learning Toolkit 为例说明这一张力。Toolkit 以"额外进步月数"（+X months）的单一指标汇总每类干预的效果，使教育部长可以一目了然地看到"哪些方法有效"——这是对主权者透明的完美工具。但一线教师面对"[[Metacognition|元认知]] +7 个月"的汇总数字时，既不知道这一效果在何种条件下产生（科目？年级？实施方式？），也不知道为什么元认知有效（理论背景）。没有这些信息，教师无法判断该方法是否适用于自己的课堂情境——对主权者"透明"的形式恰恰对一线实践者"不透明"。
 
 > "EBE offers a way of filtering a complex range of research to produce a determinate result that is transparent to policymakers. However, this impression of research transparency is misleading as it omits theoretical background critical for successfully interpreting the results." ([[Argument_Cowen_2019_ERE|Cowen, 2019, p. 2]])
 

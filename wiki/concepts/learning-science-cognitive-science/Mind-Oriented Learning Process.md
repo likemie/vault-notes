@@ -18,7 +18,9 @@ tags:
   - field/comparative-education
   - field/cultural-psychology
 related_concepts:
+  - "[[Critical Thinking]]"
   - "[[Western Learner]]"
+  - "[[Metacognition]]"
   - "[[Hypothesis]]"
   - "[[Research Topic]]"
   - "[[Reflexivity]]"
@@ -81,7 +83,7 @@ updated: 2026-05-25
 
 **心理层面**的学习策略尤为重要。[[Western Learner|西方学习者]]使用三类自我调节学习策略（Pintrich 等人分类，转引自 Li, 2012, pp.109-110）：
 - 认知策略：复述（如反复背诵、使用闪卡）、精加工（如改写概念、总结阅读材料）、组织（如列提纲、分类、整合材料）
-- 元认知策略：计划（设定目标与步骤）、监控（追踪进展与理解程度）、调节（根据理解调整复习）
+- [[Metacognition|元认知]]策略：计划（设定目标与步骤）、监控（追踪进展与理解程度）、调节（根据理解调整复习）
 - 资源策略：时间管理、维持有利学习环境、调控努力、同伴学习、求助
 
 这些策略在西方学习者中的使用频率高于亚洲学习者([[Argument_Li_2012_Cambridge|Li, 2012, p.110]])。

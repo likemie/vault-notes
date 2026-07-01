@@ -25,10 +25,12 @@ related_concepts:
   - "[[Graduate Attributes]]"
   - "[[Employability]]"
   - "[[Global Citizenship]]"
+  - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Global Policy Space]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Metacognition]]"
   - "[[Floating Signifier]]"
   - "[[Postmodernism]]"
   - "[[Performativity]]"
@@ -147,7 +149,7 @@ SCD 中的技能和素养被理解为一个统摄性概念，涵盖知识社会�
 > - 情境学习（contextual learning）
 > - 环境素养（environmental literacy）
 > - 人际技能（interpersonal skills）
-> - 元认知（metacognition）
+> - [[Metacognition|元认知]]（metacognition）
 > - 可视化技能（visualization skills）
 > - 非认知技能、软技能、全儿童发展、横向技能、可迁移技能或社会情感技能（GPE, 2020, p.2）
 
@@ -268,7 +270,7 @@ SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养�
 
 **解读三：视为既有实践的合法化。** 另一部分教师教育者将新课程规定解读为对自己既有实践的迟到的官方认可，认为改变完全不必要发生。
 
-**解读四：认识到[[Epistemology|认识论]]矛盾。** 少数教师教育者明确抱怨课程[[Document|文件]]中的矛盾。一位教师教育者观察道，官方话语混合了不同的[[Theoretical Perspective|理论取向]]，有些部分包含了教师的旧诉求但与应该被反对的其他思想混杂在一起。另一位指出官方文本试图挪用许多话语，有时变成了一种认识论大杂烩，因为其中包含了不可调和的思想；他还洞察到这种包含多种视角的话语在实践中被用来中立化反对意见。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 358–359)]]
+**解读四：认识到[[Epistemology|认识论]]矛盾。** 少数教师教育者明确抱怨课程文件中的矛盾。一位教师教育者观察道，官方话语混合了不同的[[Theoretical Perspective|理论取向]]，有些部分包含了教师的旧诉求但与应该被反对的其他思想混杂在一起。另一位指出官方文本试图挪用许多话语，有时变成了一种认识论大杂烩，因为其中包含了不可调和的思想；他还洞察到这种包含多种视角的话语在实践中被用来中立化反对意见。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 358–359)]]
 
 > [!abstract] 实践层面分化的理论意义
 > 这四种解读揭示了一个核心困境：能力这一全球[[Floating Signifier|漂浮能指]]的可塑性在全球和国家层面是其传播的功能性优势，但在实践层面转化为教学行动时，可塑性变成了概念混乱。将抽象的能力话语转化为互动的、可持续的教学实践，涉及根本性的重新解释和本土化，不是简单的操作方法问题。在那些学校知识传统上被定义为获取事实和信息的地方，设计和发展传递能力所需的教学活动尤为困难。[[Argument_Beech_2009_CE|(Beech, 2009, p. 359)]]

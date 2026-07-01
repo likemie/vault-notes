@@ -20,6 +20,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Instructional Leadership]]"
+  - "[[Academic Self-Concept]]"
   - "[[Lifelong Learning]]"
   - "[[Neocorporatism]]"
   - "[[Policy Network]]"
@@ -89,7 +90,7 @@ updated: '2026-05-18'
 
 [[Argument_ONeill_2016_Report|O'Neill et al. (2016, pp.8–12)]]列出近十余年新西兰同时体现私营参与增加和公共参与减少的九个实例：
 
-**i. Ngāi Tahu MoU（2001）**：教育部长 Trevor Mallard 与 Parekura Horomia 与 Te Rūnanga o Ngāi Tahu 签署教育发展合作谅解备忘录，被 iwi 视为支撑其 Vision 2025 教育愿景的"关键[[Document|文件]]"。目前教育部已为全国 60+ rohe 发布 iwi 教育概况以促进 iwi 特定教育计划的发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.8]])
+**i. Ngāi Tahu MoU（2001）**：教育部长 Trevor Mallard 与 Parekura Horomia 与 Te Rūnanga o Ngāi Tahu 签署教育发展合作谅解备忘录，被 iwi 视为支撑其 Vision 2025 教育愿景的"关键文件"。目前教育部已为全国 60+ rohe 发布 iwi 教育概况以促进 iwi 特定教育计划的发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.8]])
 
 **ii. asTTle / e-asTTle 商业化** 2000 年代初由奥克兰大学开发、教育部公费资助。目前 e-asTTle 专业发展支持已合同外包给私营公司 Evaluation Associates Ltd。2015 年底教育部通过 GETS 发布 RFP 寻找投资伙伴出资 USD 4–8M"现代化"e-asTTle——教育部永留新西兰学校使用权，投资伙伴有权向学校收费并开发国际版本在海外销售([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.8–9]])
 
@@ -101,7 +102,7 @@ updated: '2026-05-18'
 
 **vi. Partnership Schools Kura Hourua (PSKH)** 为兑现 2011 年 12 月国家党与 ACT 党供需信任协议，成立 PSKH 授权委员会，就私营实体（营利或非营利）运营公费私立学校提出建议。目前有 9 所运营，1 所合同终止。2016 年 5 月宣布设立 E Tipu E Rea 支持实体（2015 年 12 月注册为慈善机构）以支持新旧及未来赞助者，获政府有条件资助 USD 500,000，旨在通过慈善资助维持——E Tipu E Rea 是唯一受邀提交提案的机构([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.11–12]])
 
-**vii. [[Public-Private Partnership in Research|PPP]] 学校合同**：2012 年 4 月新西兰首个 PPP 公立学校合同授予 Learning Infrastructure Partners（LIP，财团包括 Hawkins Group, ASC Architects, PIP Fund 等）；2015 年 2 月第二份 PPP 合同授予 Future School Partners（FSP）建设和维护四所学校；2015 年 12 月宣布征集意向建设另外六所 PPP 学校([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.12–13]])
+**vii. [[Public-Private Partnership in Research|PPP]] 学校合同**：2012 年 4 月新西兰首个 PPP 公立学校合同授予 Learning Infrastructure Partners（LIP，财团包括 Hawkins Group, [[Academic Self-Concept|ASC]] Architects, PIP Fund 等）；2015 年 2 月第二份 PPP 合同授予 Future School Partners（FSP）建设和维护四所学校；2015 年 12 月宣布征集意向建设另外六所 PPP 学校([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.12–13]])
 
 **viii. KickStart Breakfast** 2013 年作为对儿童贫困报告回应，总理宣布通过 MSD 资助扩大 KickStart Breakfast 计划（Sanitarium Weetbix + Fonterra 牛奶）——该计划自 2009 年以来作为两家新西兰私营食品公司的企业社会责任计划运营。政府同意与两家公司共同出资扩大规模，并额外资助儿童慈善机构 Kidscan（提供衣物等基本物品）([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.12]])
 

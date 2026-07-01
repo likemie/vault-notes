@@ -23,6 +23,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Falsification]]"
   - "[[Epistemology]]"
+  - "[[Metacognition]]"
   - "[[Cult of the Guru]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -86,7 +87,7 @@ updated: '2026-05-18'
 
 
 > [!warning] Qvortrup 的温和修正
-> [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 并不完全拒绝 Hattie 对 Popper 的使用，而是指出 Hattie 同时把 Popper/Bereiter 的三类知识、Bloom 修订版四类知识和 Biggs & Collis 的 SOLO 模型放在一起，但三者之间的对应关系并不清楚：表层知识、深层理解、thinking strategies、factual knowledge、conceptual knowledge、procedural knowledge 和 metacognitive knowledge 如何相互映射，Hattie 没有给出充分说明([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])。因此，Qvortrup 转向[[Dynamic Knowledge and Learning Model]]，用 Bateson 式一阶至四阶学习来替代单纯分类式或哲学式映射([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.30–32]])。
+> [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 并不完全拒绝 Hattie 对 Popper 的使用，而是指出 Hattie 同时把 Popper/Bereiter 的三类知识、Bloom 修订版四类知识和 Biggs & Collis 的 SOLO 模型放在一起，但三者之间的对应关系并不清楚：表层知识、深层理解、thinking strategies、factual knowledge、conceptual knowledge、procedural knowledge 和 [[Metacognition|metacognitive knowledge]] 如何相互映射，Hattie 没有给出充分说明([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])。因此，Qvortrup 转向[[Dynamic Knowledge and Learning Model]]，用 Bateson 式一阶至四阶学习来替代单纯分类式或哲学式映射([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.30–32]])。
 
 ## 相关研究
 

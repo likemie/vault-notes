@@ -36,7 +36,9 @@ related_concepts:
   - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Critical Thinking]]"
   - "[[Externalization]]"
+  - "[[IB Diploma Programme]]"
   - "[[Epistemology]]"
   - "[[Research Scope]]"
   - "[[Class Size]]"
@@ -164,7 +166,7 @@ LS 的课程设计直接回应了这些批评。《通识教育科课程及评�
 1997 年回归后不久，香港经济即遭受 1998 年亚洲金融风暴重创，这恰好与第一届特区政府任期（1997–2002）重叠。公众对港府的治理能力和领导回归后香港的合法性产生了怀疑。在此背景下，港府将教育改革定位为重建信心的起点。
 
 > [!note]- 外部化策略
-> 港府采取了"外部化"（[[Externalization]]）策略，将国内教育问题表述为回应全球趋势的必要改革。三份关键政策[[Document|文件]]的表述高度一致。
+> 港府采取了"外部化"（[[Externalization]]）策略，将国内教育问题表述为回应全球趋势的必要改革。三份关键政策文件的表述高度一致。
 >
 > 2000 年《施政报告》指出，亚洲金融风暴暴露出经济的结构性弱点，需要通过改革来增强竞争力，把握全球化和[[Knowledge-Based Economy|知识经济]]带来的巨大机遇(Tung, 2000, p. 5)。
 >
@@ -178,7 +180,7 @@ LS 的课程设计直接回应了这些批评。《通识教育科课程及评�
 
 **[[International Baccalaureate|国际文凭]]课程参照与国际背书**
 
-LS 的课程设计大量参照了国际文凭大学预科课程（International Baccalaureate Diploma Programme, IBDP）。Forestier et al.(2016)识别出三个主要参照领域。
+LS 的课程设计大量参照了国际文凭大学预科课程（[[IB Diploma Programme|International Baccalaureate Diploma Programme]], IBDP）。Forestier et al.(2016)识别出三个主要参照领域。
 
 > [!example] LS 与 IBDP 的三个对应关系
 > | LS 组件 | IBDP 对应组件 | 共同特征 |
@@ -341,7 +343,7 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 ## 自述局限
 
 > [!warning] 意图课程的分析边界
-> 分析限定在"意图课程"层面，即课程指引、政府政策[[Document|文件]]和官方论述，不涉及 [[Liberal Studies|LS]] 在 400 多所香港中学的实际课堂教学和学生学习成果。一个未回答的关键问题是：LS 的课堂教学在多大程度上真正实现了其官方课程目标（批判思维、多角度分析）？[[Citizenship and Social Development|CSD]] 自 2021 年实施以来的课堂实践同样是一片研究空白(pp. 490–491)。
+> 分析限定在"意图课程"层面，即课程指引、政府政策文件和官方论述，不涉及 [[Liberal Studies|LS]] 在 400 多所香港中学的实际课堂教学和学生学习成果。一个未回答的关键问题是：LS 的课堂教学在多大程度上真正实现了其官方课程目标（批判思维、多角度分析）？[[Citizenship and Social Development|CSD]] 自 2021 年实施以来的课堂实践同样是一片研究空白(pp. 490–491)。
 
 > [!warning] 媒体来源的结构性偏向
 > 废除阶段的分析主要依赖中国内地官媒和亲中政治人物的言论。支持 LS 一方的系统性声音（教协、学生组织、独立媒体）在分析中相对缺失。但这一"偏向"本身反映了该时期香港言论空间的急剧收窄。声音的缺失不是研究者的选择性偏见，而是《国安法》下公民社会空间消失的经验事实(pp. 491–492)。

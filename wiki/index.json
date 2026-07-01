@@ -747,6 +747,17 @@
     ]
   },
   {
+    "title": "IB Diploma Programme",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/IB Diploma Programme.md",
+    "aliases": [
+      "IB DP",
+      "IB 文凭项目",
+      "IB Diploma Program",
+      "International Baccalaureate Diploma Programme"
+    ]
+  },
+  {
     "title": "Knowledge-that and Know-how-to",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Knowledge-that and Know-how-to.md",
@@ -3323,6 +3334,17 @@
     ]
   },
   {
+    "title": "Academic Self-Concept",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Academic Self-Concept.md",
+    "aliases": [
+      "学术自我概念",
+      "ASC",
+      "academic self-concept",
+      "general academic self-concept"
+    ]
+  },
+  {
     "title": "Academic Well-being and Interest in Learning",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Academic Well-being and Interest in Learning.md",
@@ -3459,6 +3481,17 @@
       "控制源",
       "内外控",
       "internal vs external control"
+    ]
+  },
+  {
+    "title": "Metacognition",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Metacognition.md",
+    "aliases": [
+      "元认知",
+      "metacognitive",
+      "metacognitive knowledge",
+      "metacognitive regulation"
     ]
   },
   {

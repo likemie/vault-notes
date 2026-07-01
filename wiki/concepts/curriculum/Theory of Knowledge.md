@@ -21,12 +21,21 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
+  - "[[Metacognition]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
+  - "[[IB Diploma Programme]]"
+  - "[[Effect Size]]"
+  - "[[Variable]]"
+  - "[[School Effectiveness]]"
+  - "[[Academic Self-Concept]]"
+  - "[[Causality]]"
+  - "[[External Validity]]"
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Convenience Sampling]]"
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Socrates]]"
@@ -34,6 +43,11 @@ related_facts:
   - "[[International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
+related_instruments:
+  - "[[Critical Thinking Strategies Scale]]"
+  - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
+  - "[[Academic Self-Concept General Scale]]"
+  - "[[California Critical Thinking Disposition Inventory]]"
 confidence: medium
 status: draft
 created: 2026-06-30
@@ -47,10 +61,10 @@ updated: 2026-06-30
 ## 定义
 
 > [!def] 核心定义
-> 知识论（[[Epistemology|theory of knowledge]], ToK）是[[International Baccalaureate|国际文凭]]（International Baccalaureate, IB）文凭项目（Diploma Program, DP）的三项核心必修要素之一，是一门 100 小时的大学预科认识论课程。根据 IB 的官方描述，ToK 是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程，而非学习特定知识体系。它在 DP 中扮演特殊角色，为学生提供反思知识本质、在知识领域之间建立联系、并意识到自身视角以及他们共享知识的不同群体的视角的机会"（IBO, 2014, p. 1）。
+> 知识论（theory of knowledge, ToK）是[[International Baccalaureate|国际文凭]]（International Baccalaureate, IB）文凭项目（Diploma Program, DP）的三项核心必修要素之一，是一门 100 小时的大学预科[[Epistemology|认识论]]课程。根据 IB 的官方描述，ToK 是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程，而非学习特定知识体系。它在 DP 中扮演特殊角色，为学生提供反思知识本质、在知识领域之间建立联系、并意识到自身视角以及他们共享知识的不同群体的视角的机会"（IBO, 2014, p. 1）。
 
 > [!concept-lens] 概念透镜
-> - **含义** ToK 不是一门教授固定课程内容的科目，而是一门要求学生思考"我们如何知道我们所知道的"的元认知课程。它围绕知识问题（knowledge problems）展开，要求学生形成关于知识本质的连贯观点。
+> - **含义** ToK 以学生的知识经验为起点，要求学生思考"我们如何知道我们所知道的"（[[Metacognition|元认知]]训练）。它围绕知识问题（knowledge problems）展开，要求学生形成关于知识本质的连贯观点，不依赖固定课程内容的记忆和复制。
 > - **用途** ToK 作为 DP 跨学科核心，帮助学生将各学科的知识和学习方式联系起来，培养可迁移到大学学习和专业工作中的批判性思维习惯。
 > - **边界** ToK 不等同于一般哲学课程或认识论课程。它不以哲学史或认识论理论体系为教学内容，而是以学生的知识经验为起点，通过结构化思维练习和跨学科活动来运作。
 
@@ -59,7 +73,7 @@ updated: 2026-06-30
 ## 核心要素
 
 > [!feature] ToK 的核心特征
-> - **无固定课程内容（No Set Curriculum）** ToK 不要求学生记忆或复制特定知识体系，而是以知识问题（knowledge problems）为驱动，要求学生深入思考并形成连贯观点（Cole et al., 2015, p.1）。
+> - **无固定课程内容（No Set Curriculum）** ToK 不要求学生记忆或复制特定知识体系，而是以知识问题（knowledge problems）为驱动，要求学生深入思考并形成连贯观点（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.1]]）。
 > - **跨学科核心位置** ToK 位于 DP 六大学科组的交叉中心，教师在 DP 各学科中也被鼓励发展学生的[[Critical Thinking|批判性思维]]技能，促进 ToK 学习向其他学科的迁移（p.2）。
 > - **[[Explicit Critical Thinking Instruction|显性批判性思维教学]]** ToK 是澳大利亚大学预科课程中唯一以显性方式教授批判性思维的独立科目，代表了"独立课程"路径在批判性思维教学争论中的实践案例（p.2）。
 > - **双重评分机制** 与整个 [[International Baccalaureate|IB]] DP 一致，ToK 采用内部和外部双重评估，确保国际标准一致性（p.10）。
@@ -93,7 +107,7 @@ updated: 2026-06-30
 ## 概念演变
 
 > [!dev-timeline] ToK 作为 [[International Baccalaureate|IB]] 核心要素的发展
-> - **1968 — IB DP 创立** IB 文凭项目正式启动，ToK 作为三项核心要素之一被纳入。
+> - **1968 — [[IB Diploma Programme|IB DP]] 创立** IB 文凭项目正式启动，ToK 作为三项核心要素之一被纳入。
 > - **2005 — "思维机制"概念的提出** Cole（2005）将 ToK 概念化为一种"思维机制"（thinking mechanism），强调其作为[[Critical Thinking|批判性思维]]实践形式的功能。
 > - **2014：澳大利亚全国研究** Cole et al.（2014）完成 IB 委托的首个澳大利亚 ToK 全国研究，系统检验了 ToK 与批判性思维技能发展的关系。
 > - **2015 — 澳大利亚实证证据** 量化结果显示 ToK 学生的批判性思维技能随年级提高，DP 毕业生进入大学时的学术准备指标也高于非 DP 毕业生。[[Argument_Cole_2015_AJE|Cole et al. (2015)]]
@@ -102,19 +116,19 @@ updated: 2026-06-30
 
 ## 实证数据
 
-> [!effect-table]- ToK 相关效应量（Cole et al., 2015）
+> [!effect-table]- ToK 相关[[Effect Size|效应量]]（[[Argument_Cole_2015_AJE|Cole et al., 2015]]）
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 比较 | 结果变量 | n (组1/组2) | d | SE | 设计 |
+> | 比较 | 结果[[Variable\|变量]] | n (组1/组2) | d | [[School Effectiveness\|SE]] | 设计 |
 > |:-----|:---------|:-----------|:--|:--|:-----|
-> | Y12 vs Y11 (ToK 学习) | CTSS 总分 | 622/620 | 0.216 | 0.057 | 横断调查 |
-> | Y12 vs Y11 | MSLQ-CT 分量表 | 632/630 | 0.177 | 0.056 | 横断调查 |
+> | Y12 vs Y11 (ToK 学习) | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | 622/620 | 0.216 | 0.057 | 横断调查 |
+> | Y12 vs Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] 分量表 | 632/630 | 0.177 | 0.056 | 横断调查 |
 > | DP vs 非DP | ATAR | 94/267 | 0.442 | 0.121 | 组间比较 |
-> | DP vs 非DP | 学术自我概念 (ASC) | 99/283 | 0.498 | 0.118 | 组间比较 |
+> | DP vs 非DP | [[Academic Self-Concept\|学术自我概念]] ([[Academic Self-Concept General Scale\|ASC]]) | 99/283 | 0.498 | 0.118 | 组间比较 |
 > | DP vs 非DP | 预期大学成果 | 99/283 | 0.239 | 0.117 | 组间比较 |
-> | DP vs 非DP | CCTDI 总分 | 42/126 | — | — | 组间比较 (SD 未报告) |
+> | DP vs 非DP | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | 42/126 | — | — | 组间比较 (SD 未报告) |
 >
-> 样本：$N = 1,338$ 名澳大利亚 ToK 学生（Y11=630, Y12=632），47 校，覆盖率 ~$37\%$；$N = 389$ 名大学新生（DP=99, 非DP=290），来自悉尼大学和 QUT。d 由报告均值与 SD 以 pooled SD 公式计算。全部效应量为小到中等（0.18–0.50），两个独立量表（CTSS $d = 0.216$, MSLQ-CT $d = 0.177$）汇聚于一致的方向和量级。解释边界：横断设计不能证明因果，无法分离 ToK 独立效果（混杂整个 DP），大学样本为[[Convenience Sampling|便利抽样]]非代表性，CTSS 为自编量表缺乏独立[[External Validity|外部效度]]验证。
+> 样本：$N = 1,338$ 名澳大利亚 ToK 学生（Y11=630, Y12=632），47 校，覆盖率 ~$37\%$；$N = 389$ 名大学新生（DP=99, 非DP=290），来自悉尼大学和 QUT。d 由报告均值与 SD 以 pooled SD 公式计算。全部效应量为小到中等（0.18–0.50），两个独立量表（CTSS $d = 0.216$, MSLQ-[[Critical Thinking|CT]] $d = 0.177$）汇聚于一致的方向和量级。解释边界：横断设计不能证明[[Causality|因果]]，无法分离 ToK 独立效果（混杂整个 DP），大学样本为[[Convenience Sampling|便利抽样]]非代表性，CTSS 为自编量表缺乏独立[[External Validity|外部效度]]验证。
 
 ---
 

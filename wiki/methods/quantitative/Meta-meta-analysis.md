@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
+  - "[[Metacognition]]"
   - "[[Direct Instruction]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
@@ -133,7 +134,7 @@ updated: '2026-05-21'
 >
 > **Marzano（1998）——理论驱动的元综合**
 >
-> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验-控制组比较。其关键贡献是批评"品牌名"聚合做法——用宽泛标签代表包含多种活性成分的复杂干预——并按四层学习系统（知识、认知、元认知、自我系统）分类教学策略，追求课堂实践的可操作性([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
+> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验-控制组比较。其关键贡献是批评"品牌名"聚合做法——用宽泛标签代表包含多种活性成分的复杂干预——并按四层学习系统（知识、认知、[[Metacognition|元认知]]、自我系统）分类教学策略，追求课堂实践的可操作性([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
 >
 > > [!warning] "品牌名"聚合的具体案例
 > > Marzano 以 Athappilly et al.（1983）的"现代数学"元分析为例。该元分析被纳入 Fraser et al.（1987），其中"现代数学"这个品牌名下包含多种不同成分：
@@ -266,7 +267,7 @@ updated: '2026-05-21'
 
 
 > [!warning] 概念基础：被聚合对象不测量有效性
-> **[[Argument_Simpson_2017_JEP|Simpson (2017)]]——联盟表是"研究设计操纵开放程度"的排名。** [[Argument_Simpson_2017_JEP|Simpson (2017, pp.5, 14–15)]]论证：三个系统性偏差（比较组不对等、范围限制、测量设计）随研究领域系统性变化——反馈和元认知研究容易使用无反馈比较、限制样本、设计聚焦测试；延长学校日或校服研究无法如此。因此，[[Effect Size|效应量]]排名高的领域仅说明研究者**更容易设计低噪声试验**，而非干预更具教育影响力。
+> **[[Argument_Simpson_2017_JEP|Simpson (2017)]]——联盟表是"研究设计操纵开放程度"的排名。** [[Argument_Simpson_2017_JEP|Simpson (2017, pp.5, 14–15)]]论证：三个系统性偏差（比较组不对等、范围限制、测量设计）随研究领域系统性变化——反馈和[[Metacognition|元认知]]研究容易使用无反馈比较、限制样本、设计聚焦测试；延长学校日或校服研究无法如此。因此，[[Effect Size|效应量]]排名高的领域仅说明研究者**更容易设计低噪声试验**，而非干预更具教育影响力。
 >
 > > "Areas which rank highly in Marzano (1998), Hattie (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments." ([[Argument_Simpson_2017_JEP|Simpson, 2017, p.2]])
 >
