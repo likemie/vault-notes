@@ -104,8 +104,8 @@ updated: '2026-06-30'
 
 ## 实证数据
 
-> [!ref-table]- 实证数据汇总
-> <span class="concept-empirical-table-marker" aria-hidden="true"></span>
+> [!ref-table]- 其他实证结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|

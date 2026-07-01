@@ -178,13 +178,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    不能只在“相关研究”中概述结论而省略数据。每行链接对应 Argument；原文未报告的指标填写 —，不得自行推算。
    完全没有量化或实证数据时才可删除本节。 %%
 
-> [!ref-table]- 实证数据汇总
-> <span class="concept-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Author_Year_Journal\|Author (Year)]] | N、群体、地区或时期 | 调查、实验、观察、纵向或其他设计 | 核心变量、测量或指标 | 比例、均值、相关、回归系数或组间差异 | SE、CI、p 或 — | 该结果能与不能说明什么 |
-
 > [!effect-table]- 一级研究效应量
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
@@ -213,9 +206,16 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > |---|---|---|---|---|---|
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | 删去高风险研究、异常值或切换模型后的结果 | 漏斗图、Egger、选择模型、trim-and-fill 或其他方法 | — | 稳定、改变或 — | 小样本、选择性报告或其他风险 |
 
-%% 通用实证研究填写 [!ref-table]。报告可比较效应量的一级研究同时填写 [!effect-table]。
-   元分析总体结果每个结果变量单独一行。报告调节变量、亚组分析或元回归时保留调节分析表；报告敏感性分析或发表偏倚时保留稳健性与偏倚表。
-   删除未被原文报告的可选明细表，但不得删除适用的数据表。 %%
+> [!ref-table]- 其他实证结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Author_Year_Journal\|Author (Year)]] | N、群体、地区或时期 | 调查、观察、纵向或其他设计 | 核心变量、测量或指标 | 比例、均值、相关、回归系数或组间差异 | SE、CI、p 或 — | 该结果能与不能说明什么 |
+
+%% 报告可比较效应量的一级研究使用 [!effect-table]。元分析总体结果每个结果变量单独一行。
+   报告调节变量、亚组分析或元回归时保留调节分析表；报告敏感性分析或发表偏倚时保留稳健性与偏倚表。
+   只有一级研究效应量表和元分析表都不适用时，才保留“其他实证结果”。删除其余不适用的表，不以整表 — 占位。 %%
 
 ---
 
