@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -128,7 +128,7 @@ citation_aliases:
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["学科史诊断：三大惯例<br>(方法论、形式、情境)"] -->|导致| B["经典主题偏离：<br>转移与流动性失焦"]
 >     B -->|重构| C["流动性类型学：<br>人、社会观念、思想的跨国流动"]
 >     C -->|引出| D["形变困境（英格兰大学案）：<br>缺乏描述制度形状的概念词汇"]
@@ -190,11 +190,11 @@ citation_aliases:
 ### 第三步：形变问题，我们缺乏描述教育制度形状的词汇
 
 > [!claim] 步骤主张
-> 比较教育学严重缺乏能够精准刻画教育制度在时空中发生的形变（shape-shifting）及深层形态改变的学术词汇。传统的描述范畴（如ISCED分类）或[[Academic Capitalism|学术资本主义]]等粗糙术语，无法准确揭示出诸如现代英格兰大学在外治、内政、教学及科研四大配置维度上发生的根本性制度畸变（pp.320–322）。
+> 比较教育学严重缺乏能够精准刻画教育制度在时空中发生的形变（shape-shifting）及深层形态改变的学术词汇。传统的描述范畴（如国际教育标准分类（International Standard Classification of Education，ISCED）分类）或[[Academic Capitalism|学术资本主义]]等粗糙术语，无法准确揭示出诸如现代英格兰大学在外治、内政、教学及科研四大配置维度上发生的根本性制度畸变（pp.320–322）。
 
 > [!dimension] 英格兰大学[[Shape-Shifting|形变]]的四大配置维度
 > - **外部治理的衰变**
->   **自治边界侵蚀** 大学自我定义权力向外转移，由高等教育质量保障署（QAA）与研究评估考核体系（RAE/[[Research Excellence Framework|REF]]）等准政府机构主导教学与科研的数值化评估，并在大学外部行使质量控制（p.320）。  
+>   **自治边界侵蚀** 大学自我定义权力向外转移，由高等教育质量保障署（Quality Assurance Agency for Higher Education，QAA）与研究评估考核（Research Assessment Exercise，RAE）与研究卓越框架（[[Research Excellence Framework]]，REF）等准政府机构主导教学与科研的数值化评估，并在大学外部行使质量控制（p.320）。  
 >   **实体空间稀释** 被迫退化为以自我维持为导向的商业竞争实体，在由学生学费、政府科研项目及企业咨询合同构成的金融市场中求存（p.320）。
 > - **内部治理的管理主义化**
 >   **共同体公司化** 大学从学术共同体蜕化为高度集权的管理主义公司，高层经理人（前学术人员）致力于度量并压榨学术人员的剩余价值以证明部门的盈利能力（pp.320–321）。  
@@ -220,7 +220,7 @@ citation_aliases:
 >   接受国语境中长期积累的社会矛盾、经济权力和政治张力对转译产物施加的进一步变形。这是一个长时段博弈下的演进过程，其制度化结果呈现为从本土化（indigenisation）到消亡灭绝（extinction）的连续谱系（p.323）。
 
 > [!timeline] 柴田战后德日教育移植轨迹（Shibata, 2005）
-> - **占领初期（转移阶段，1945年—1947年）** 二战结束后，盟国占领当局在德、日两国推行了几乎平行的教育民主化蓝图。在美国占领下的日本，盟军最高司令部（GHQ）派遣美国教育使团，强力推行美式单轨制（6-3-3-4 学制），旨在废除战前具有强烈军国主义色彩的复轨精英体制。而在同期的德国，美国军事政府（OMGUS）同样试图在美占区强推综合中学（Einheitsschule）和免费义务教育，以瓦解传统的阶级分化教育结构，消解法西斯极权主义的社会温床（p.323）。
+> - **占领初期（转移阶段，1945年—1947年）** 二战结束后，盟国占领当局在德、日两国推行了几乎平行的教育民主化蓝图。在美国占领下的日本，驻日盟军总司令部（General Headquarters of the Allied Powers，GHQ）派遣美国教育使团，强力推行美式单轨制（6-3-3-4 学制），旨在废除战前具有强烈军国主义色彩的复轨精英体制。而在同期的德国，美占德国军事政府（Office of Military Government, United States，OMGUS）同样试图在美占区强推综合中学（Einheitsschule）和免费义务教育，以瓦解传统的阶级分化教育结构，消解法西斯极权主义的社会温床（p.323）。
 > - **冷战前夕与重建期（转译阶段，1940年代末—1950年代）** 两国传统教育势力和地方行动者在历史遗留的认识论框架下对美占当局的强制指令展开了[[Heterogeneity|异质性]]的翻译。在日本，[[Progressive Education|进步主义教育]]者和文部省官员顺应占领军要求，积极将美式学制转译为日本走向现代化和民主重生的必然逻辑，但悄然融入了本土的行政效能与国家动员取向。相比之下，西德的保守主义教育精英和各州（Länder）政府则以维护德意志文化独特性和学术标准为名，将美式综合中学转译为对地方文化自治的粗暴干涉，通过各种话语修辞在法案审议与地方实践中进行联合抵制（p.323）。
 > - **冷战深化与制度熟成期（转化阶段，1960年代后）** 接受国深层的社会权力结构与历史制度惯性对转译后的政策进行了长时段的重力再造。在西德，去中心化的联邦结构和保守力量最终彻底粉碎了美式综合中学的尝试，强力保留了文科中学（Gymnasium）、实科中学（Realschule）和主体中学（Hauptschule）的欧式传统三轨制。而在日本，尽管形式上完整维系了美式单轨 6-3-3 结构，但日本社会深层的纵向等级结构、大学声望层级以及文官考试传统重新显现，演化出极其残酷的升学[[Examination Hell|考试地狱]]（Examination Hell）和影子教育系统（补习塾），从根本上扭曲并转化了美式进步主义教育原初的个性解放与教育民主化内涵（p.323）。
 
