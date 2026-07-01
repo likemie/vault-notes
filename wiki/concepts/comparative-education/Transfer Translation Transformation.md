@@ -242,9 +242,9 @@ updated: 2026-06-24
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cowen_2009_CE|Cowen (2009)]] — 提出 3T 核心[[Analytic Framework|分析框架]]，并使用战后美军占领下德日改革和后殖民地教育重构作为案例予以阐释。
-> - [[Argument_Beech_2009_CE|Beech (2009)]] — 应用 3T 框架分析拉美地区（巴西、阿根廷）在信息时代下有关“能力与多样性”的课程改革，引入[[Space of Flows and Space of Places|流动空间]]与网络国家等概念。
-> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪[[John Dewey|杜威]]在中国长达 90 年的四次[[Recontextualization|再脉络化]]，展示了转译与转化阶段的微观过滤与变形机制。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 从[[Wight's Three Traditions of International Theory|国际关系理论]]（现实主义、理性主义、[[Revolutionism|革命主义]]）视角拓展了教育转移（Transfer）阶段的分析[[Paradigm|范式]]。
-> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 应用 3T 框架拆解了民国时期杜威民主教育思想在中国的引进、转译折中与政治挤压下走向灭绝的过程。
+> [!evidence-grid] 相关研究索引
+> - **[[Argument_Cowen_2009_CE|Cowen (2009)]]** 提出 3T 核心[[Analytic Framework|分析框架]]，并使用战后驻日盟军总司令部（GHQ）与美占德国军事政府（OMGUS）对德日改革的移植，以及后殖民地教育重组作为案例予以阐释。
+> - **[[Argument_Beech_2009_CE|Beech (2009)]]** 应用 3T 框架分析拉美地区（巴西、阿根廷）在信息时代下有关能力与多样性的课程改革，引入[[Space of Flows and Space of Places|流动空间]]与网络国家等概念。
+> - **[[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]** 追踪[[John Dewey|杜威]]在中国长达 90 年的四次[[Recontextualization|再脉络化]]，展示了转译与转化阶段的微观过滤与变形机制。
+> - **[[Argument_Klerides_2023_CE|Klerides (2023)]]** 从[[Wight's Three Traditions of International Theory|国际关系理论]]（现实主义、理性主义、[[Revolutionism|革命主义]]）视角拓展了教育转移阶段的分析[[Paradigm|范式]]。
+> - **[[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]** 应用 3T 框架拆解了民国时期杜威民主教育思想在中国的引进、转译折中与政治挤压下走向灭绝的过程。
