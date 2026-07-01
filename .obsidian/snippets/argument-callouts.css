@@ -13531,3 +13531,81 @@
 .callout:has(.concept-empirical-table-marker) td:nth-child(6) { width: 10%; }
 .callout:has(.concept-empirical-table-marker) th:nth-child(7),
 .callout:has(.concept-empirical-table-marker) td:nth-child(7) { width: 12%; }
+
+/* 概念页一级研究效应量表 */
+.concept-effect-table-marker,
+.concept-meta-analysis-table-marker {
+  display: none;
+}
+
+.callout:has(.concept-effect-table-marker) > .callout-content,
+.callout:has(.concept-meta-analysis-table-marker) > .callout-content {
+  overflow-x: auto;
+}
+
+.callout:has(.concept-effect-table-marker) table {
+  width: 100%;
+  min-width: 1080px;
+  table-layout: fixed !important;
+}
+
+.callout:has(.concept-effect-table-marker) th,
+.callout:has(.concept-effect-table-marker) td,
+.callout:has(.concept-meta-analysis-table-marker) th,
+.callout:has(.concept-meta-analysis-table-marker) td {
+  font-size: 0.86em !important;
+}
+
+/* 标准八列表 */
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) th:nth-child(1),
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) td:nth-child(1) { width: 18% !important; }
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) th:nth-child(2),
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) td:nth-child(2) { width: 18% !important; }
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) th:nth-child(3),
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) td:nth-child(3) { width: 18% !important; }
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) th:nth-child(4),
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) td:nth-child(4) { width: 8% !important; }
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) th:nth-child(5),
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) td:nth-child(5) { width: 8% !important; }
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) th:nth-child(6),
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) td:nth-child(6) { width: 8% !important; }
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) th:nth-child(7),
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) td:nth-child(7) { width: 9% !important; }
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) th:nth-child(8),
+.callout:has(.concept-effect-table-marker) table:has(th:nth-child(8)) td:nth-child(8) { width: 13% !important; }
+
+/* 已有六列表 */
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) th:nth-child(1),
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) td:nth-child(1) { width: 20% !important; }
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) th:nth-child(2),
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) td:nth-child(2) { width: 24% !important; }
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) th:nth-child(3),
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) td:nth-child(3) { width: 14% !important; }
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) th:nth-child(4),
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) td:nth-child(4) { width: 10% !important; }
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) th:nth-child(5),
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) td:nth-child(5) { width: 10% !important; }
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) th:nth-child(6),
+.callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) td:nth-child(6) { width: 22% !important; }
+
+/* 概念页元分析汇总表 */
+.callout:has(.concept-meta-analysis-table-marker) table {
+  width: 100%;
+  min-width: 980px;
+  table-layout: fixed !important;
+}
+
+.callout:has(.concept-meta-analysis-table-marker) th:nth-child(1),
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(1) { width: 24% !important; }
+.callout:has(.concept-meta-analysis-table-marker) th:nth-child(2),
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(2) { width: 7% !important; }
+.callout:has(.concept-meta-analysis-table-marker) th:nth-child(3),
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(3) { width: 10% !important; }
+.callout:has(.concept-meta-analysis-table-marker) th:nth-child(4),
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(4) { width: 11% !important; }
+.callout:has(.concept-meta-analysis-table-marker) th:nth-child(5),
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(5) { width: 18% !important; }
+.callout:has(.concept-meta-analysis-table-marker) th:nth-child(6),
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(6) { width: 10% !important; }
+.callout:has(.concept-meta-analysis-table-marker) th:nth-child(7),
+.callout:has(.concept-meta-analysis-table-marker) td:nth-child(7) { width: 20% !important; }

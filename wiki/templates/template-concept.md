@@ -186,11 +186,15 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | N、群体、地区或时期 | 调查、实验、观察、纵向或其他设计 | 核心变量、测量或指标 | 比例、均值、相关、回归系数或组间差异 | SE、CI、p 或 — | 该结果能与不能说明什么 |
 
 > [!effect-table]- 一级研究效应量
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
 > | 研究 | 干预 | 结果变量 | n_t | n_c | d | SE | 设计 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | 干预说明 | 结果变量 | — | — | — | — | RCT |
 
 > [!ma-table]- 元分析汇总
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
 > | 元分析 | k | N | ES | 95% CI | I² | GRADE |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | — | — | — | — | — | — |
