@@ -52,7 +52,8 @@
               "title": "template-theory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,11 +221,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "05feaf1c2f5afb9d",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/concepts/political-economy-geopolitics/Transitology.md",
     "wiki/templates/template-argument.md",
     "wiki/arguments/reports-policy-documents/Argument_Lakhani_2012_AKUIED.md",
-    "wiki/concepts/political-economy-geopolitics/Transitology.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
     "wiki/concepts/sociology-of-education/Examination Hell.md",
     "wiki/concepts/curriculum/IB Diploma Programme.md",

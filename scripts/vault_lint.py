@@ -218,6 +218,11 @@ TEMPLATER_PLACEHOLDER_RE = re.compile(r"<%.*?%>")
 CITATION_PARENT_RE = re.compile(r"^\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)$")
 CITATION_NARRATIVE_RE = re.compile(r"^[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)]$")
 RAW_CITATION_RE = re.compile(r"(?<![\w\[])(\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)|（[A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?）|[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)])")
+PAGE_ONLY_REF_RE = re.compile(
+    r"([（(]\s*pp?\.\s*\d+(?:\s*[–-]\s*\d+)?"
+    r"(?:\s*[,，]\s*\d+(?:\s*[–-]\s*\d+)?)*\s*[）)])",
+    re.IGNORECASE,
+)
 ENGLISH_AUTHOR_AND_RE = re.compile(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:and|和)\s*(?=[A-ZÀ-ÖØ-Þ])")
 APA_INVERTED_PERSON_RE = re.compile(
     r"^[A-Za-zÀ-ÖØ-öø-ÿ'’.-]+(?:[ -][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+)*,\s*"
@@ -1903,7 +1908,12 @@ def citation_units(text: str) -> List[Tuple[str, int, str]]:
     return units
 
 
-def check_duplicate_citations(path: Path, text: str, issues: List[Issue]) -> None:
+def check_duplicate_citations(
+    path: Path,
+    text: str,
+    data: Optional[Dict[str, Any]],
+    issues: List[Issue],
+) -> None:
     if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
         return
 
@@ -1940,6 +1950,14 @@ def check_duplicate_citations(path: Path, text: str, issues: List[Issue]) -> Non
                 continue
             key = citation_identity(display)
             if key:
+                occurrences.setdefault(key, []).append((match.start(), display))
+
+        if data and data.get("type") == "argument":
+            for match in PAGE_ONLY_REF_RE.finditer(without_links):
+                display = match.group(1).strip()
+                locator = re.sub(r"\s+", "", display.lower())
+                locator = locator.strip("()（）").replace("，", ",").replace("–", "-")
+                key = f"current-argument-source|{locator}"
                 occurrences.setdefault(key, []).append((match.start(), display))
 
         for repeated in occurrences.values():
@@ -2034,7 +2052,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_source_record(path, text, issues)
     check_path_and_index_consistency(path, data, path_to_title, issues)
     check_citation_links(path, text, data, argument_citations, issues)
-    check_duplicate_citations(path, text, issues)
+    check_duplicate_citations(path, text, data, issues)
 
 
 def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> List[Issue]:
