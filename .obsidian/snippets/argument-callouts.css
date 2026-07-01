@@ -13641,11 +13641,6 @@
   table-layout: fixed !important;
 }
 
-.callout:has(.concept-other-empirical-table-marker) th,
-.callout:has(.concept-other-empirical-table-marker) td {
-  font-size: 0.86em !important;
-}
-
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(1),
 .callout:has(.concept-other-empirical-table-marker) td:nth-child(1) { width: 13%; }
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(2),
@@ -13668,6 +13663,8 @@
   table-layout: fixed !important;
 }
 
+.callout:has(.concept-other-empirical-table-marker) th,
+.callout:has(.concept-other-empirical-table-marker) td,
 .callout:has(.concept-effect-table-marker) th,
 .callout:has(.concept-effect-table-marker) td,
 .callout:has(.concept-meta-analysis-table-marker) th,
@@ -13676,7 +13673,8 @@
 .callout:has(.concept-meta-moderator-table-marker) td,
 .callout:has(.concept-meta-robustness-table-marker) th,
 .callout:has(.concept-meta-robustness-table-marker) td {
-  font-size: 0.86em !important;
+  font-size: 0.82rem !important;
+  line-height: 1.45;
 }
 
 /* 标准八列表 */
