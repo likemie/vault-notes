@@ -215,6 +215,15 @@ CITATION_PARENT_RE = re.compile(r"^\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[
 CITATION_NARRATIVE_RE = re.compile(r"^[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)]$")
 RAW_CITATION_RE = re.compile(r"(?<![\w\[])(\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)|（[A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?）|[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)])")
 ENGLISH_AUTHOR_AND_RE = re.compile(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:and|和)\s*(?=[A-ZÀ-ÖØ-Þ])")
+APA_INVERTED_PERSON_RE = re.compile(
+    r"^[A-Za-zÀ-ÖØ-öø-ÿ'’.-]+(?:[ -][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+)*,\s*(?:[A-ZÀ-ÖØ-Þ]\.\s*)+$"
+)
+ORGANIZATION_CREATOR_RE = re.compile(
+    r"\b(?:academy|agency|assessment|association|board|center|centre|college|commission|company|"
+    r"corporation|council|department|foundation|group|institute|laboratory|ministry|office|"
+    r"organization|service|society|university)\b",
+    re.IGNORECASE,
+)
 
 EMBED_FILE_EXISTS_CACHE: Dict[str, bool] = {}
 
@@ -296,6 +305,54 @@ def check_argument_creator_apa_display(path: Path, fm: str, field: str, item: st
             f"{field} Person wikilink should use APA inverted display name, e.g. [[{target}|{target.split()[-1]}, X.]]: {item!r}",
             line=frontmatter_line_number(fm, field),
             code=f"{field.upper()}_APA_DISPLAY",
+        ))
+
+
+def looks_like_organization_creator(value: str) -> bool:
+    value = re.sub(r"\s+", " ", value).strip()
+    if not value:
+        return False
+    if ORGANIZATION_CREATOR_RE.search(value):
+        return True
+    if re.fullmatch(r"[A-Z][A-Z0-9&.-]*", value):
+        return True
+    return False
+
+
+def check_instrument_developers(path: Path, fm: str, value: Any, issues: List[Issue]) -> None:
+    line = frontmatter_line_number(fm, "developers")
+    if not isinstance(value, list):
+        issues.append(Issue(
+            "ERROR",
+            rel(path),
+            "developers must be a YAML list",
+            line=line,
+            code="DEVELOPERS_TYPE",
+        ))
+        return
+
+    for item in value:
+        if not isinstance(item, str) or not item.strip():
+            issues.append(Issue(
+                "ERROR",
+                rel(path),
+                f"developers items must be non-empty strings: {item!r}",
+                line=line,
+                code="DEVELOPERS_ITEM",
+            ))
+            continue
+
+        display = creator_display(item)
+        if has_cjk(display) or APA_INVERTED_PERSON_RE.fullmatch(display) or looks_like_organization_creator(display):
+            continue
+
+        issues.append(Issue(
+            "ERROR",
+            rel(path),
+            f"personal developer names must use APA inverted form such as 'Marsh, H. W.'; "
+            f"corporate authors keep their formal organization name: {item!r}",
+            line=line,
+            code="DEVELOPERS_APA_FORMAT",
         ))
 
 
@@ -995,6 +1052,15 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                     code="INSTRUMENT_TYPE_INVALID",
                 )
             )
+        if "developers" not in data:
+            issues.append(Issue(
+                "ERROR",
+                rel(path),
+                "instrument entries must include developers",
+                code="DEVELOPERS_MISSING",
+            ))
+        else:
+            check_instrument_developers(path, fm, data.get("developers"), issues)
 
     if is_citation_eligible_argument(data):
         for field in ["year", "citation_aliases"]:
