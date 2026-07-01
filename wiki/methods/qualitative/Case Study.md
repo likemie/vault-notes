@@ -7,9 +7,9 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 33
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
 - case-study
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
   - "[[Megascience Installations]]"
+  - "[[Critical Thinking]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -51,6 +52,7 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Dezhina_2022_ECO]]"
+  - "[[Argument_Cole_2015_AJE]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
@@ -215,5 +217,6 @@ updated: 2026-06-01
 > - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以跟踪式个案研究为设计，两阶段累计 62 名个案，结合目的抽样与[[Theoretical Sampling|理论抽样]]，将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
 > - [[Argument_Wang_2025_CE]] — [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所（两所城市、两所农村）进行深度追踪，结合半结构化访谈和学校文件分析，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异
 > - [[Argument_Dezhina_2022_ECO]] — [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]]以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations|大科学装置]]本土化四个切面案例，系统剖析了俄罗斯科研界在外部限制背景下走向自给自足与孤立化的制度过程与代价
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、课堂观察和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking|批判性思维]]教学模式
 
 

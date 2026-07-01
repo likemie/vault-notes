@@ -5,7 +5,7 @@ summary: "结合量化与质性数据并通过特定设计进行整合的研究�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 40
+method_related_count: 46
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -33,6 +33,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Academic Self-Concept]]"
+  - "[[Critical Thinking]]"
 related_theories: []
 related_methods:
   - "[[Joint Display]]"
@@ -56,6 +58,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Teng_2025_CE]]"
+  - "[[Argument_Cole_2015_AJE]]"
+related_instruments:
+  - "[[Critical Thinking Strategies Scale]]"
+  - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
+  - "[[California Critical Thinking Disposition Inventory]]"
 confidence: medium
 status: draft
 created: 2026-06-14
@@ -251,3 +258,4 @@ Caracelli and Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_M
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 新增混合方法/多方法[[Coding in Qualitative Research|编码]]类别，发现 2020 年五刊中该类研究占 6%，其中 60% 包含[[Recommendations for Practice|实践建议]]（p.6）
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 通过框架建构、[[Website Content Analysis|网站内容分析]]（65 所大学）和问卷调查三步设计，研究大学[[University-Industry Collaboration|产学参与]]的组织模式（pp.55–57）
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025)]] — 以问卷（n=814）和[[Qualitative Interview|深度访谈]]（n=128）相结合，先通过 Logistic 回归识别[[Peidu|陪读]]的社会分层梯度，再通过访谈资料解释社会机制（pp.305–310）
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以三阶段收敛式设计同时收集量化数据（[[Critical Thinking Strategies Scale|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 调查, n=1,338）和质性数据（四校课堂观察、访谈、文件分析），再以 DP/非DP 组间比较（[[California Critical Thinking Disposition Inventory|CCTDI]]+[[Academic Self-Concept|ASC]]+ATAR, n=389）提供汇聚证据，检验 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系

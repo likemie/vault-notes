@@ -6,14 +6,17 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Knowledge Production]]"
   - "[[Causality]]"
+  - "[[Construct]]"
   - "[[Evidence-Based Education]]"
+related_methods:
+  - "[[Observation Protocol]]"
 ---
 
 <section class="research-map">
   <div class="research-map-hero">
     <p class="research-map-kicker">Research Map</p>
     <h1>研究地图</h1>
-    <p>这里不是[[Document|文件]]夹目录，而是这座知识库的导航大厅：从概念进入理论，从论证回到文献，从人物、事实和方法看见研究如何被生产出来。</p>
+    <p>这里不是文件夹目录，而是这座知识库的导航大厅：从概念进入理论，从论证回到[[Document|文献]]，从人物、事实和方法看见研究如何被生产出来。</p>
   </div>
 
   <div class="research-map-stats" aria-label="Wiki 规模概览">
@@ -33,7 +36,7 @@ related_concepts:
     <a class="research-map-card" href="/wiki/facts"><span>Facts</span><strong class="research-map-card-title">事实档案</strong><p>按国家、地区和全球组织记录政策、改革、事件与制度背景，让概念和理论落回具体场景。</p><strong>把抽象拉回现场</strong></a>
     <a class="research-map-card" href="/wiki/persons"><span>Persons</span><strong class="research-map-card-title">人物索引</strong><p>记录学者、政策行动者与关键作者，让[[Knowledge Production|知识生产]]不只是概念之间的漂浮关系，也能看到人。</p><strong>追踪思想的携带者</strong></a>
     <a class="research-map-card" href="/wiki/methods"><span>Methods</span><strong class="research-map-card-title">方法与证据</strong><p>整理研究设计、[[Causality|因果推断]]、综述、清算中心和效度判断，帮助辨认“有效”这个词的边界。</p><strong>检查证据如何成立</strong></a>
-    <a class="research-map-card wide" href="/wiki/instruments"><span>Instruments</span><strong class="research-map-card-title">测量工具库</strong><p>集中记录量表、问卷、观察协议与访谈工具，把抽象构念连接到题项、施测方式、信效度证据和真实研究实践。</p><strong>看看研究如何把概念变成可观察的数据</strong></a>
+    <a class="research-map-card wide" href="/wiki/instruments"><span>Instruments</span><strong class="research-map-card-title">测量工具库</strong><p>集中记录量表、问卷、[[Observation Protocol|观察协议]]与访谈工具，把抽象[[Construct|构念]]连接到题项、施测方式、信效度证据和真实研究实践。</p><strong>看看研究如何把概念变成可观察的数据</strong></a>
   </div>
 
   <div class="research-map-routes">

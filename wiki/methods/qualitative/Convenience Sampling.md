@@ -11,7 +11,7 @@ summary: "选择最近便或最容易接触的个体作为样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -22,16 +22,19 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Sampling Frame]]"
   - "[[External Validity]]"
+  - "[[IB Diploma Programme]]"
 related_theories: []
 related_methods:
   - "[[Non-probability Sampling]]"
   - "[[Case Study]]"
   - "[[Random Sampling]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
+  - "[[Argument_Cole_2015_AJE]]"
 confidence: medium
 status: draft
 created: 2026-06-22
@@ -72,3 +75,4 @@ updated: 2026-06-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍便利抽样作为非[[Random Sampling|概率抽样]]中最简单便捷的类型。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 阶段二以便利抽样选取四所 NSW 提供 [[IB Diploma Programme|IB DP]] 的学校作为深度[[Case Study|案例研究]]地点；阶段三通过 [[International Baccalaureate|IB]] 校友名单和大学课程管理系统便利招募 DP 和非 DP 大学新生

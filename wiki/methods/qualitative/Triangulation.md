@@ -10,9 +10,9 @@ summary: "在研究人类行为的某一方面时使用两种或更多资料收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 26
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -20,7 +20,6 @@ tags:
   - research-methodology
   - validity
 related_concepts:
-  - "[[Document]]"
   - "[[Concurrent Validity]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
@@ -33,6 +32,8 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Reflexivity]]"
   - "[[Qualitative Validity]]"
+  - "[[Academic Self-Concept]]"
+  - "[[Critical Thinking]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -43,6 +44,11 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cole_2015_AJE]]"
+related_instruments:
+  - "[[Critical Thinking Strategies Scale]]"
+  - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
+  - "[[California Critical Thinking Disposition Inventory]]"
 status: draft
 created: 2026-06-01
 updated: 2026-06-23
@@ -63,7 +69,7 @@ updated: 2026-06-23
 > [!method-scope] 方法范围
 > - **研究对象** 人类行为的某一方面——可从多个立场和方法进行审视的任何研究现象
 > - **问题类型** 效度验证问题——研究的发现是真实的还是单一方法的人为产物？
-> - **分析单位** 数据来源（人、[[Document|文件]]、观察记录）、方法（量化/质性）、研究者、理论
+> - **分析单位** 数据来源（人、文件、观察记录）、方法（量化/质性）、研究者、理论
 > - **输出形式** 汇聚的证据基础——跨来源、跨方法或跨研究者的一致性（或不一致性）判断
 
 > [!citation-card]- Campbell & Fiske 对三角验证的奠基性贡献
@@ -126,7 +132,7 @@ updated: 2026-06-23
 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 描述了三角验证在[[Qualitative Research|质性研究]]中的核心操作原则：单一来源的证据不足以建立可信的主题。研究者需要：
 
 > [!proc] 三角验证的操作程序
-> 1. **收集多来源数据** 从多个数据来源（如访谈、观察、[[Document|文件]]、[[Audiovisual, Social Media, and Digital Materials|视听材料]]）收集关于同一现象的信息
+> 1. **收集多来源数据** 从多个数据来源（如访谈、观察、文件、[[Audiovisual, Social Media, and Digital Materials|视听材料]]）收集关于同一现象的信息
 > 2. **检查证据一致性** 检查不同来源之间证据的一致性——发现是否在不同来源间展现出汇聚模式
 > 3. **构建汇聚证据基础** 使用汇聚的证据来构建和支撑每个主题——主题基于多来源的交叉验证而建立
 > 4. **如实呈现差异** 当不同来源的证据之间存在矛盾时，如实呈现差异，而非选择性忽视——不一致本身可能具有重要的理论意义
@@ -185,3 +191,4 @@ updated: 2026-06-23
 > [!evidence-grid] 研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 在[[Qualitative Research|质性研究]]设计中介绍三角验证作为八种效度策略之一，描述通过多数据来源汇聚构建主题的操作程序。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10]] — 在 Denzin (1970) 六种三角验证类型框架中详细展开，记录对三角验证的四重批评与 Denzin (1997) 的回应，以及 Lincoln & Guba (1985) 对三角验证功能的重定义。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以三阶段收敛式设计实现方法三角验证：量化调查（[[Critical Thinking Strategies Scale|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]]）、质性[[Case Study|案例研究]]（访谈+观察+文件）、组间比较（[[California Critical Thinking Disposition Inventory|CCTDI]]+[[Academic Self-Concept|ASC]]+ATAR）三组证据合并比较，检验 ToK 与[[Critical Thinking|批判性思维]]的关系

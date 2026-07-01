@@ -11,7 +11,7 @@ summary: "通过与参与者进行开放式对话以理解其主观经验和意�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,11 +34,11 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
-  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Reflexivity]]"
   - "[[External Validity]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Critical Thinking]]"
   - "[[Space Production]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
@@ -60,6 +60,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_ODwyer_Filieri_OMalley_2023_JTT]]"
+  - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Cai_Gao_Liu_2025_HE]]"
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Teng_2025_CE]]"
@@ -210,7 +211,7 @@ Silverman（1993: 92–93）补充了访谈的六项用途：
 > 深度访谈的效度不依赖[[Sample Size Determination|样本量]]，而依赖资料收集和分析过程中的严谨性。常见策略包括：
 >
 > - **人员校验法（[[Member Checking|member check]]）**：受访者陈述重要观点后，研究者用自身语言复述一遍与受访者确认，确保对意义的准确理解
-> - **[[Triangulation|三角互证]]法（triangulation）**：将访谈结果与观察记录、[[Document|文件]]资料、问卷数据等进行交叉对照
+> - **[[Triangulation|三角互证]]法（triangulation）**：将访谈结果与观察记录、文件资料、问卷数据等进行交叉对照
 > - **跟踪式设计** 在条件允许时，与受访者保持长期联系，观察其实际行动以检视叙述的[[Reliability|可靠性]]
 > - **[[Reflexivity|反身性]]记录**：研究者持续记录自身前见、情绪反应和访谈过程中的意外，以便在分析阶段区分"受访者的意义"与"研究者的投射"
 
@@ -234,6 +235,7 @@ Silverman（1993: 92–93）补充了访谈的六项用途：
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]：Miller (1992) 新校长[[Ethnography|民族志]]，每两月一次 45 分钟录音访谈，持续四个月
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]：精英大学学生出路分化，两阶段 62 名毕业生，每次 2.5–3.5 小时，累计 150 万字
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|ODwyer 等 (2023)]]：[[Synthesis and Solid State Pharmaceutical Centre|SSPC]] [[University-Industry Collaboration|产学合作]]网络演化，10 次访谈 50–105 分钟，10 家跨国企业 + 8 所学术机构
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]]：四所 NSW 学校 ToK 课程实施研究，22 次教师访谈（40 分钟/人）、8 组学生焦点小组，围绕 ToK 课程体验和[[Critical Thinking|批判性思维]]理解半结构化进行
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai 等 (2025)]]：[[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] [[Space Production|高等教育空间生产]]，39 名教师（30 名关键节点），四城，2023 年
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]：多元文化视角儒家传统，37 名 15 个民族大学生，与 217 册教科书分析互补
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025)]]：农村[[Peidu|陪读]][[School Choice|择校]]，128 人（家长、教师、官员），2018 + 2023 回访
