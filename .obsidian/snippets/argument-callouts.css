@@ -13402,6 +13402,92 @@
   background: rgba(75, 190, 186, 0.055);
 }
 
+/* Instrument 构念与维度专表 */
+.callout[data-callout="construct-table"] {
+  --callout-color: 78, 92, 170;
+  --callout-icon: lucide-boxes;
+  overflow: hidden;
+  border: 1px solid rgba(78, 92, 170, 0.22);
+  border-left: 4px solid rgb(78, 92, 170);
+  border-radius: 12px;
+  background:
+    linear-gradient(145deg, rgba(78, 92, 170, 0.08), rgba(78, 92, 170, 0.015)),
+    var(--background-primary);
+  box-shadow: 0 6px 18px rgba(78, 92, 170, 0.08);
+}
+
+.callout[data-callout="construct-table"] > .callout-title {
+  color: rgb(62, 76, 150);
+  border-bottom: 1px solid rgba(78, 92, 170, 0.14);
+}
+
+.callout[data-callout="construct-table"] > .callout-title .callout-title-inner::before {
+  content: "CONSTRUCT";
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(78, 92, 170, 0.14);
+  color: rgb(62, 76, 150);
+  font-size: var(--fs-label);
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="construct-table"] > .callout-content {
+  padding: 0;
+  overflow-x: auto;
+}
+
+.callout[data-callout="construct-table"] table {
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.callout[data-callout="construct-table"] thead th {
+  padding: 0.55rem 0.8rem;
+  color: rgb(62, 76, 150);
+  background: rgba(78, 92, 170, 0.09);
+  border-bottom: 1.5px solid rgba(78, 92, 170, 0.22);
+  font-weight: 750;
+  text-align: left;
+}
+
+.callout[data-callout="construct-table"] tbody td {
+  padding: 0.58rem 0.8rem;
+  border-bottom: 1px solid rgba(78, 92, 170, 0.08);
+  vertical-align: top;
+}
+
+.callout[data-callout="construct-table"] tbody tr:nth-child(even) td {
+  background: rgba(78, 92, 170, 0.03);
+}
+
+.callout[data-callout="construct-table"] tbody tr:hover td {
+  background: rgba(78, 92, 170, 0.07);
+}
+
+.theme-dark .callout[data-callout="construct-table"] {
+  --callout-color: 150, 164, 230;
+  border-color: rgba(150, 164, 230, 0.25);
+  border-left-color: rgb(150, 164, 230);
+  background:
+    linear-gradient(145deg, rgba(150, 164, 230, 0.09), rgba(150, 164, 230, 0.015)),
+    var(--background-primary);
+}
+
+.theme-dark .callout[data-callout="construct-table"] > .callout-title,
+.theme-dark .callout[data-callout="construct-table"] > .callout-title .callout-title-inner::before,
+.theme-dark .callout[data-callout="construct-table"] thead th {
+  color: rgb(166, 178, 238);
+}
+
+.theme-dark .callout[data-callout="construct-table"] > .callout-title .callout-title-inner::before {
+  background: rgba(150, 164, 230, 0.16);
+}
+
 .instrument-dimension-table-marker,
 .instrument-item-table-marker,
 .instrument-study-table-marker,
@@ -13426,18 +13512,16 @@
   table-layout: fixed !important;
 }
 
-/* 维度表  测量内容最大，题项数最小 */
-.callout:has(.instrument-dimension-table-marker) table { min-width: 760px; }
+/* 构念与维度表  构念置于标题，测量内容最大，题项数最小 */
+.callout:has(.instrument-dimension-table-marker) table { min-width: 720px; }
 .callout:has(.instrument-dimension-table-marker) th:nth-child(1),
-.callout:has(.instrument-dimension-table-marker) td:nth-child(1) { width: 16%; }
+.callout:has(.instrument-dimension-table-marker) td:nth-child(1) { width: 20%; }
 .callout:has(.instrument-dimension-table-marker) th:nth-child(2),
-.callout:has(.instrument-dimension-table-marker) td:nth-child(2) { width: 16%; }
+.callout:has(.instrument-dimension-table-marker) td:nth-child(2) { width: 10%; }
 .callout:has(.instrument-dimension-table-marker) th:nth-child(3),
-.callout:has(.instrument-dimension-table-marker) td:nth-child(3) { width: 8%; }
+.callout:has(.instrument-dimension-table-marker) td:nth-child(3) { width: 42%; }
 .callout:has(.instrument-dimension-table-marker) th:nth-child(4),
-.callout:has(.instrument-dimension-table-marker) td:nth-child(4) { width: 36%; }
-.callout:has(.instrument-dimension-table-marker) th:nth-child(5),
-.callout:has(.instrument-dimension-table-marker) td:nth-child(5) { width: 24%; }
+.callout:has(.instrument-dimension-table-marker) td:nth-child(4) { width: 28%; }
 
 /* 题项表  题目文本占一半以上 */
 .callout:has(.instrument-item-table-marker) table { min-width: 960px; }

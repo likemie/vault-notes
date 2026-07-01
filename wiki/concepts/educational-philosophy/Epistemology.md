@@ -4,13 +4,12 @@ aliases:
   - 认识论
   - epistemological assumptions
   - 认识论假设
-  - theory of knowledge
-summary: "关于知识的本质、形式和获取方式的哲学假设。不同研究范式基于不同的认识论立场：实证主义的科学检验、诠释的多重实在理解、复杂性理论的多因果方向、意识形态批判的明确政治性、混合方法的实用主义组合。"
+summary: 关于知识的本质、形式和获取方式的哲学假设。不同研究范式基于不同的认识论立场：实证主义的科学检验、诠释的多重实在理解、复杂性理论的多因果方向、意识形态批判的明确政治性、混合方法的实用主义组合。
 type: concept
-domain: "educational-philosophy"
+domain: educational-philosophy
 related_count: 17
 related_level: 1
-related_stars: "⭐"
+related_stars: ⭐
 related_color: "#bfdbfe"
 tags:
   - theme/epistemology

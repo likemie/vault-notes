@@ -57,12 +57,12 @@ updated: 2026-07-01
 
 ## 测量构念与维度
 
-> [!entry-map]
+> [!construct-table] [[Critical Thinking|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
-> | 维度 | 对应[[Construct\|构念]] | 题项数 | 测量内容 | 计分方式 |
-> |---|---|---|---|---|
-> | [[Critical Thinking\|批判性思维]] | [[Critical Thinking]] | 5 | 学生自报的批判性思维策略使用 | 采用五题分量表均值，分数越高表示更符合受测者 |
+> | 维度 | 题项数 | 测量内容 | 计分方式 |
+> |---|---|---|---|
+> | 批判性思维策略使用 | 5 | 学生自报的批判性思维策略使用 | 采用五题分量表均值，分数越高表示更符合受测者 |
 
 ---
 

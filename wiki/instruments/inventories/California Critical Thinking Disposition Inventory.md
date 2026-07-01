@@ -50,18 +50,18 @@ updated: 2026-07-01
 
 ## 测量构念与维度
 
-> [!entry-map]
+> [!construct-table] [[Critical Thinking|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
-> | 维度 | 对应[[Construct\|构念]] | 题项数 | 测量内容 | 计分方式 |
-> |---|---|---|---|---|
-> | 求真 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
-> | 开放心态 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
-> | 探究性 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
-> | 分析性 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
-> | 系统性 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
-> | 推理自信 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
-> | 判断成熟度 | [[Critical Thinking]] | — | — | 分量表 10 至 60 |
+> | 维度 | 题项数 | 测量内容 | 计分方式 |
+> |---|---|---|---|
+> | 求真 | — | — | 分量表 10 至 60 |
+> | 开放心态 | — | — | 分量表 10 至 60 |
+> | 探究性 | — | — | 分量表 10 至 60 |
+> | 分析性 | — | — | 分量表 10 至 60 |
+> | 系统性 | — | — | 分量表 10 至 60 |
+> | 推理自信 | — | — | 分量表 10 至 60 |
+> | 判断成熟度 | — | — | 分量表 10 至 60 |
 
 分量表等级为低 10–29、矛盾 30–40、积极 40–50、高 50–60。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 12, 18)]]
 
