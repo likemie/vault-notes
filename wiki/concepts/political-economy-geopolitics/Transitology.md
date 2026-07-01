@@ -60,9 +60,9 @@ updated: '2026-07-02'
 > - **[[Epistemology|认识论]]冲突** 外来的现代化科学理性、世俗学说或意识形态，与本土深层历史文化传统的复合改写与拉锯。
 
 > [!citation-card]- 转型学的经典引用与英文原文
-> […] the more or less simultaneous collapse and reconstruction of (a) state apparatuses; (b) social and economic stratification systems; and (c) political visions of the future; in which (d) education is given a major symbolic and reconstructionist role in these social processes of destroying the past and redefining the future.（Cowen, 2000, p. 338）
-> 
-> 在国家机器、社会经济分层体系以及对未来之政治愿景或多或少同时发生崩溃与重建的历史社会过程中，教育被赋予了摧毁过去、重新定义未来的核心象征与重构性角色。
+> 在国家机器、社会经济分层体系以及对未来之政治愿景或多或少同时发生崩溃与重建的历史社会过程中，教育被赋予了摧毁过去、重新定义未来的核心象征与重构性角色。（Cowen, 2000, p. 338）
+>
+> *[…] the more or less simultaneous collapse and reconstruction of (a) state apparatuses; (b) social and economic stratification systems; and (c) political visions of the future; in which (d) education is given a major symbolic and reconstructionist role in these social processes of destroying the past and redefining the future.*
 
 ---
 

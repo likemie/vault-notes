@@ -45,9 +45,9 @@ updated: 2026-07-02
 > 巴基斯坦 2009 年国家教育政策的核心目标之一是"培养一个自力更生的个体，具备分析和原创思维的能力"（to develop a self-reliant individual, capable of analytical and original thinking）（Ministry of Education, 2009, p. 11）。
 
 > [!citation-card]- 关键条文
-> "to develop a self-reliant individual, capable of analytical and original thinking"（Ministry of Education, 2009, p. 11）
+> 培养一个自力更生的个体，具备分析和原创思维的能力。（Ministry of Education, 2009, p. 11）
 >
-> *培养一个自力更生的个体，具备分析和原创思维的能力。*
+> *"to develop a self-reliant individual, capable of analytical and original thinking"*
 
 ---
 
@@ -66,4 +66,4 @@ updated: 2026-07-02
 > |:-----|:-----|:-----|
 > | [[Learner Autonomy]] | 概念 | 该政策将培养自主学习者列为核心目标之一 |
 > | [[Critical Thinking]] | 概念 | 政策强调分析性思维和原创思维能力的培养 |
-> | [[Theory of Knowledge]] | 概念 | Lakhani (2012) 以 TOK 为[[Case Study\|案例研究]]如何在已有批判性思维成分的课程中实现该政策目标 |
+> | [[Theory of Knowledge]] | 概念 | [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] 以 TOK 为[[Case Study\|案例研究]]如何在已有批判性思维成分的课程中实现该政策目标 |

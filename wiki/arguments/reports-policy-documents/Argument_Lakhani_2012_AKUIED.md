@@ -272,7 +272,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > [!claim] 步骤四主张
 > 自主性是在社会互动中实现的。即使在最独立的反思中（如 Ariana 在作业中尝试主观经验路径），经验仍根植于社会互动。认知者高度需要课堂中互动、讨论和对话的空间，这是最重要的实证发现之一（p.178）。
 
-> [!layer] 自主的相互依存性（autonomous interdependence）
+> [!interdependence] 自主的相互依存性（autonomous interdependence）
 > Atkins（2006/2009）提出，自主性是在社会互动中实现的有支持的独立。**阅读不是自主学习经验的终点**（p.178）。认知失衡（disequilibrium）对[[Constructivist Paradigm|建构主义]]学习至关重要，正是认知者在知识建构中的能动性提出了解决方案（Moon, 2008）。教师的首要任务是帮助学生安于知识必然产生悖论这一事实。
 >
 > > [!col-l] 个体反思

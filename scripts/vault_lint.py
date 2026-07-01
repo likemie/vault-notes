@@ -1671,6 +1671,8 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
     ):
         chinese = m.group(1).strip()
         annotation = m.group(2)
+        if re.fullmatch(r"[（(]\s*pp?\.\s*[^）)]+[）)]", annotation, flags=re.IGNORECASE):
+            continue
         issues.append(
             Issue(
                 "ERROR",
@@ -1974,6 +1976,55 @@ def check_duplicate_citations(
             ))
 
 
+def citation_line_language(text: str) -> str:
+    visible = re.sub(r"\[\[[^|\]]+\|([^\]]+)\]\]", r"\1", text)
+    visible = re.sub(r"\[\[([^\]]+)\]\]", r"\1", visible)
+    visible = re.sub(r"[*_`>#\[\]()（）]", " ", visible)
+    cjk_count = len(re.findall(r"[\u3400-\u9fff]", visible))
+    latin_count = len(re.findall(r"[A-Za-z]", visible))
+    if cjk_count and cjk_count * 2 >= latin_count:
+        return "zh"
+    if latin_count >= 8 and latin_count > cjk_count * 2:
+        return "en"
+    return ""
+
+
+def check_citation_card_language_order(path: Path, text: str, issues: List[Issue]) -> None:
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
+        return
+
+    _, body, body_start_line = split_frontmatter(text)
+    scan = mask_markdown_code(body)
+    for unit, unit_offset, unit_kind in citation_units(scan):
+        if unit_kind != "callout":
+            continue
+        lines = unit.splitlines(keepends=True)
+        if not lines or not re.match(r"^\s*(?:>\s*)+\[!citation-card\]", lines[0], flags=re.IGNORECASE):
+            continue
+
+        content: List[Tuple[int, str, str]] = []
+        relative_offset = len(lines[0])
+        for line in lines[1:]:
+            visible = re.sub(r"^\s*(?:>\s*)+", "", line).strip()
+            language = citation_line_language(visible) if visible else ""
+            if language:
+                content.append((relative_offset, visible, language))
+            relative_offset += len(line)
+
+        first_english = next((item for item in content if item[2] == "en"), None)
+        first_chinese = next((item for item in content if item[2] == "zh"), None)
+        if not first_english or not first_chinese or first_chinese[0] < first_english[0]:
+            continue
+
+        issues.append(Issue(
+            "ERROR",
+            rel(path),
+            "citation-card must place the Chinese translation above the English original",
+            line=line_of_pos(scan, unit_offset + first_english[0], body_start_line),
+            code="CITATION_CARD_LANGUAGE_ORDER",
+        ))
+
+
 def strip_existing_wikilinks(text: str) -> str:
     def repl(m: re.Match) -> str:
         return " " * len(m.group(0))
@@ -2053,6 +2104,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_path_and_index_consistency(path, data, path_to_title, issues)
     check_citation_links(path, text, data, argument_citations, issues)
     check_duplicate_citations(path, text, data, issues)
+    check_citation_card_language_order(path, text, issues)
 
 
 def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> List[Issue]:

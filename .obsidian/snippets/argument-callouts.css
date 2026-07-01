@@ -1899,6 +1899,175 @@
   color: rgb(230, 90, 110);
 }
 
+/* ─── interdependence（相互依存 — 双栏循环箭头 ⟷）─────────
+ *
+ * 与 [!tension] 的 VS 对立不同，本 callout 表达两个维度相互支撑的关系。
+ * 左侧 teal（个体反思）、右侧 amber（社会互动），两侧通过 col-l 右边缘
+ * 的 ⟷ 徽章相互连接。徽章位置跟随左卡片高度居中，不受右卡片高低影响。
+ * hover 时两栏同时向内聚拢，⟷ 徽章做小幅旋转，象征循环互构。
+ *
+ * Markdown 结构：
+ *   > [!interdependence] 自主的相互依存性（autonomous interdependence）
+ *   > 导语段落说明核心概念。（p.X）
+ *   >
+ *   > > [!col-l] 个体反思
+ *   > > ...
+ *   >
+ *   > > [!col-r] 社会互动
+ *   > > ...
+ * ─────────────────────────────────────────────────── */
+
+.callout[data-callout="interdependence"] {
+  --callout-color: 15, 118, 110;
+  --callout-icon: lucide-link-2;
+  background:
+    linear-gradient(90deg,
+      rgba(15, 118, 110, 0.09)  0%,
+      rgba(15, 118, 110, 0.02) 42%,
+      rgba(180, 83, 9,  0.02)  58%,
+      rgba(180, 83, 9,  0.09)  100%
+    ),
+    var(--background-primary);
+  border: 1px solid rgba(15, 118, 110, 0.16);
+  border-left:  3px solid rgb(15, 118, 110);
+  border-right: 3px solid rgb(180, 83, 9);
+  border-radius: 10px;
+  padding: 0 0 0.6rem;
+  box-shadow:
+    -4px 0 12px rgba(15, 118, 110, 0.09),
+     4px 0 12px rgba(180, 83, 9,  0.09);
+  position: relative;
+  overflow: visible;           /* 允许徽章超出边界 */
+}
+
+.callout[data-callout="interdependence"] > .callout-title {
+  background: linear-gradient(90deg,
+    rgba(15, 118, 110, 0.13) 0%,
+    rgba(15, 118, 110, 0.04) 40%,
+    rgba(180, 83, 9,  0.04) 60%,
+    rgba(180, 83, 9,  0.13) 100%
+  );
+  border-bottom: 1px solid rgba(15, 118, 110, 0.12);
+  padding: 0.56rem 1rem;
+}
+
+/* ── 左卡片提供相对定位锚点 ── */
+.callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-l"] {
+  position: relative;
+}
+
+/* ── ⟷ 徽章：挂载于左卡片右边缘，垂直居中 ── */
+.callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-l"]::after {
+  content: "⟷";
+  position: absolute;
+  right: -1.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: linear-gradient(135deg, rgb(15, 118, 110), rgb(180, 83, 9));
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 2rem;
+  text-align: center;
+  box-shadow:
+    0 2px 10px rgba(0, 0, 0, 0.22),
+    0 0 0 3px var(--background-primary);
+  z-index: 2;
+  pointer-events: none;
+  transition: transform 0.28s cubic-bezier(0.25, 0.8, 0.25, 1.2);
+}
+
+/* ── 徽章外旋转光圈（循环感） ── */
+.callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-l"]::before {
+  content: "";
+  position: absolute;
+  right: -2.1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 3.2rem;
+  height: 3.2rem;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  border-top-color: rgba(15, 118, 110, 0.45);
+  border-right-color: rgba(180, 83, 9, 0.45);
+  z-index: 1;
+  pointer-events: none;
+  animation: interdepend-spin 4s linear infinite;
+}
+
+/* ── hover：徽章小幅旋转 + 两栏向内聚拢 ── */
+.callout[data-callout="interdependence"]:hover
+  > .callout-content > .callout[data-callout="col-l"]::after {
+  transform: translateY(-50%) rotate(15deg);
+}
+.callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-l"] {
+  transition: transform 0.28s cubic-bezier(0.25, 0.8, 0.25, 1.2);
+}
+.callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-r"] {
+  transition: transform 0.28s cubic-bezier(0.25, 0.8, 0.25, 1.2);
+}
+.callout[data-callout="interdependence"]:hover
+  > .callout-content > .callout[data-callout="col-l"] {
+  transform: translateX(6px);
+}
+.callout[data-callout="interdependence"]:hover
+  > .callout-content > .callout[data-callout="col-r"] {
+  transform: translateX(-6px);
+}
+
+/* ── 光圈旋转动画 ── */
+@keyframes interdepend-spin {
+  from { transform: translateY(-50%) rotate(0deg);   }
+  to   { transform: translateY(-50%) rotate(360deg); }
+}
+
+/* ── 暗色模式 ── */
+.theme-dark .callout[data-callout="interdependence"] {
+  background:
+    linear-gradient(90deg,
+      rgba(15, 118, 110, 0.11) 0%,
+      rgba(15, 118, 110, 0.03) 40%,
+      rgba(180, 83, 9,  0.03) 60%,
+      rgba(180, 83, 9,  0.11) 100%
+    ),
+    var(--background-primary);
+  box-shadow:
+    -4px 0 14px rgba(15, 118, 110, 0.11),
+     4px 0 14px rgba(180, 83, 9,  0.11);
+}
+.theme-dark .callout[data-callout="interdependence"] > .callout-title {
+  background: linear-gradient(90deg,
+    rgba(15, 118, 110, 0.17) 0%,
+    rgba(15, 118, 110, 0.06) 40%,
+    rgba(180, 83, 9,  0.06) 60%,
+    rgba(180, 83, 9,  0.17) 100%
+  );
+}
+
+/* ── 移动端：单列，隐藏徽章和光圈 ── */
+@media (max-width: 680px) {
+  .callout[data-callout="interdependence"]
+    > .callout-content > .callout[data-callout="col-l"]::before,
+  .callout[data-callout="interdependence"]
+    > .callout-content > .callout[data-callout="col-l"]::after {
+    display: none;
+  }
+  .callout[data-callout="interdependence"]:hover
+    > .callout-content > .callout[data-callout="col-l"],
+  .callout[data-callout="interdependence"]:hover
+    > .callout-content > .callout[data-callout="col-r"] {
+    transform: none;
+  }
+}
+
 /* ─── debates（争议内容框 + 可折叠学者索引）──────────
  *
  * Markdown 结构（两层嵌套）：
