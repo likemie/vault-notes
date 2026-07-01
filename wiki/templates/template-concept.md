@@ -192,14 +192,30 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | 干预说明 | 结果变量 | — | — | — | — | RCT |
 
-> [!ma-table]- 元分析汇总
+> [!ma-table]- 元分析总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | k | N | ES | 95% CI | I² | GRADE |
+> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% CI | 异质性与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Author_Year_Journal\|Author (Year)]] | — | — | — | — | — | — |
+> | [[Argument_Author_Year_Journal\|Author (Year)]] | 结果变量 | — | SMD、OR、RR 或其他指标；固定效应或随机效应 | — | I²、τ²、Q 或 95% PI | GRADE、其他评级或 — |
 
-%% 通用实证研究填写 [!ref-table]。报告可比较效应量的一级研究同时填写 [!effect-table]。元分析同时填写 [!ma-table]。删除不适用的专表，但不得删除适用的数据表。 %%
+> [!ma-table]- 调节变量与亚组分析
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Author_Year_Journal\|Author (Year)]] | 人群、干预、剂量、持续时间、实施或研究特征 | 亚组分析或元回归 | 哪一条件下效应较大，或连续调节方向 | — | 组间交互、β、CI、p 或 — | 预设、事后或 — | 观察性、混杂、研究数不足或其他限制 |
+
+> [!ma-table]- 稳健性与偏倚
+> <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 敏感性分析 | 发表偏倚方法 | 校正后效应 | 结论是否改变 | 风险说明 |
+> |---|---|---|---|---|---|
+> | [[Argument_Author_Year_Journal\|Author (Year)]] | 删去高风险研究、异常值或切换模型后的结果 | 漏斗图、Egger、选择模型、trim-and-fill 或其他方法 | — | 稳定、改变或 — | 小样本、选择性报告或其他风险 |
+
+%% 通用实证研究填写 [!ref-table]。报告可比较效应量的一级研究同时填写 [!effect-table]。
+   元分析总体结果每个结果变量单独一行。报告调节变量、亚组分析或元回归时保留调节分析表；报告敏感性分析或发表偏倚时保留稳健性与偏倚表。
+   删除未被原文报告的可选明细表，但不得删除适用的数据表。 %%
 
 ---
 
