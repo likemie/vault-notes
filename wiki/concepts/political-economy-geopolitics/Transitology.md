@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学概念，由 Robert Cowen 提出，指国家机器、社会分层与政治未来愿景在大约十年内同时崩解与重建的压缩历史时刻，此时教育被赋予摧毁过去与重构未来的核心象征性功能"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -34,6 +34,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Shape-Shifting]]"
+  - "[[New Professionalism]]"
   - "[[Blue Skies Research]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
@@ -100,7 +101,7 @@ updated: 2026-07-02
 >   大学对“学术质量”和“制度使命”的自我定义权向[[External Auditor|外部审计]]机构转移。由 REF/RAE 与高等教育质量保障署（QAA）等准政府机构主导的数值化评估，在大学外部确立了以审计为主导的质量控制边界，削弱了学术共同体的传统自治权（[[Argument_Cowen_2009_CE|Cowen, 2009, p. 320]]）。
 > - **内部治理的管理主义化**
 >   大学从“学术共同体”蜕化为高度集权的管理主义公司。高层经理人（前学术人员）致力于度量并压榨学术人员的剩余价值，将科研指标转化为具体的生产率约束，迫使学者卷入以记录保存（record-keeping）为日常核心的官僚审计泥潭，从而压制了大学吸纳和支持长时段风险研究的能力（[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 320–321]]）。
-> - **教学契约的新专业主义化**
+> - **教学契约的[[New Professionalism|新专业主义]]化**
 >   教学关系被新专业主义（new professionalism）的审计契约关系所取代。教学过程被标准化课程手册、辅导备忘录存档所监控，师生间传统的学术伦理纽带被官僚契约所驱逐，以符合外部审计机构的可见性与可监控性要求。
 > - **研究承诺的功利化与降级**
 >   研究关系陷入彻底的效能化和准商品化。为迎合 REF 的评估指标，科研经费和评估等级被高度绑定于社会影响（impact）。这导致探索未知本质的[[Blue Skies Research|蓝天研究]]被降级为非[[Pragmatic Paradigm|实用主义]]学术，传统的洪堡与雅斯贝尔斯式的人文主义科研追求被纯粹的工具主义契约关系所取代（[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 321–322]]）。

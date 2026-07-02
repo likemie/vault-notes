@@ -398,6 +398,18 @@
     ]
   },
   {
+    "title": "Educational Immunology",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Educational Immunology.md",
+    "aliases": [
+      "教育免疫学",
+      "educational immunology",
+      "情境免疫",
+      "本土文化免疫",
+      "免疫反应"
+    ]
+  },
+  {
     "title": "Encyclopaedism",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Encyclopaedism.md",
@@ -649,6 +661,16 @@
       "形变",
       "教育形变",
       "shape shifting"
+    ]
+  },
+  {
+    "title": "Social Cloning",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Social Cloning.md",
+    "aliases": [
+      "社会克隆",
+      "social cloning",
+      "制度克隆"
     ]
   },
   {
@@ -2558,6 +2580,16 @@
       "多元大学",
       "multiversity",
       "多科性大学"
+    ]
+  },
+  {
+    "title": "New Professionalism",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/New Professionalism.md",
+    "aliases": [
+      "新专业主义",
+      "new professionalism",
+      "高等教育新专业主义"
     ]
   },
   {

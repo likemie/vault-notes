@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Shape-Shifting]]"
   - "[[Analytic Framework]]"
   - "[[Geometries of Insertion]]"
+  - "[[Social Cloning]]"
   - "[[Transitology]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -43,11 +44,13 @@ related_concepts:
   - "[[Academic Capitalism]]"
   - "[[Research Question]]"
   - "[[Literature Review]]"
+  - "[[New Professionalism]]"
   - "[[Blue Skies Research]]"
   - "[[Cross-National Attraction]]"
   - "[[Heterogeneity]]"
   - "[[Progressive Education]]"
   - "[[Examination Hell]]"
+  - "[[Educational Immunology]]"
   - "[[Paradigm]]"
   - "[[External Auditor]]"
 related_theories: []
@@ -87,7 +90,7 @@ citation_aliases:
 > [!concept-lens] 阅读透镜
 > - **对象** 教育思想、制度与实践的跨国流动性，包括人、社会观念与思想的跨国传播。
 > - **张力** 政策制定者追求的短期移植效率与教育制度在长时段历史演变中必然发生形变之间的冲突。
-> - **贡献** 重构了教育移动的阶段模型，引入了形变问题意识，并对剥离本土文化防御机制的社会克隆理论提出了伦理拷问。
+> - **贡献** 重构了教育移动的阶段模型，引入了形变问题意识，并对剥离本土文化防御机制的[[Social Cloning|社会克隆]]理论提出了伦理拷问。
 
 ---
 
@@ -102,7 +105,7 @@ citation_aliases:
 > | **[[Geometries of Insertion\|嵌入几何学]]（Geometries of Insertion）** | 探讨在一处创造的教育实践如何能系统、精确地植入另一处的理论，将情境重新概念化为可分析的[[Variable\|变量]]（p.324）。 |
 
 > [!warrant]- 理论如何支撑论证
-> 这些理论工具提供了解析教育流动的社会学范畴。它们将情境从单纯的移植障碍转化为可操作的变量，解释了相同的教育输入在不同接受国演化出截然相反形状的根本原因，进而推动对社会克隆能力的伦理反思。
+> 这些理论工具提供了解析教育流动的社会学范畴。它们将情境从单纯的移植障碍转化为可操作的变量，解释了相同的教育输入在不同接受国演化出截然相反形状的根本原因，进而推动对[[Social Cloning|社会克隆]]能力的伦理反思。
 
 ---
 
@@ -201,7 +204,7 @@ citation_aliases:
 >   **合规审计日常** 中层管理者推行行政合规，要求教学符合标准模板（如课程手册）、科研迎合量化指标（如引用指数），使记录保存（record-keeping）成为学术日常的核心任务，压制了长时段的学术探索与风险吸纳能力（pp.320–321）。
 > - **教学关系的官僚契约化**
 >   **过程格式化与监控** 教学过程规则化，学习成果（learning outcomes）被定义为技术指标；日常教学辅导要求控制在一小时内，并必须生成备忘录存档以备审计；博士论文在[[Research Question|研究问题]]、[[Literature Review|文献综述]]和字数上受到技术化管理（pp.321–322）。  
->   **契约取代伦理** 准契约关系与新专业主义（new professionalism）彻底驱逐了传统的师生伦理纽带与职业承诺（pp.321–322）。
+>   **契约取代伦理** 准契约关系与[[New Professionalism|新专业主义]]（new professionalism）彻底驱逐了传统的师生伦理纽带与职业承诺（pp.321–322）。
 > - **研究关系的功利化与降级**
 >   **应用效能主导** 科研被锁定于实用与社会影响（impact）导向，唯有具备显著社会影响力的知识才能获取经费资助（pp.321–322）。  
 >   **基础学术降级** 探索本质规律的[[Blue Skies Research|蓝天研究]]（blue-sky research）被降级为非[[Pragmatic Paradigm|实用主义]]学术，传统的洪堡与雅斯贝尔斯式的人文主义追求被合同契约关系完全取代（pp.321–322）。
@@ -227,12 +230,12 @@ citation_aliases:
 ### 第五步：嵌入几何学与社会克隆的伦理追问
 
 > [!claim] 步骤主张
-> 当比较教育学完全学术性地洞察了转移、转译和转化的机制，并能系统驯服特定情境时，它就掌握了将一种体制精确植入另一处的[[Geometries of Insertion|嵌入几何学]]（geometries of insertion）。然而，这种高超的社会克隆能力背后，隐藏着深刻的霸权压制、文化免疫剥夺与不可逆的伦理灾难（p.324）。
+> 当比较教育学完全学术性地洞察了转移、转译和转化的机制，并能系统驯服特定情境时，它就掌握了将一种体制精确植入另一处的[[Geometries of Insertion|嵌入几何学]]（geometries of insertion）。然而，这种高超的[[Social Cloning|社会克隆]]能力背后，隐藏着深刻的霸权压制、文化免疫剥夺与不可逆的伦理灾难（p.324）。
 
 > [!warning] 嵌入几何学的政治、伦理与后果拷问
 > 嵌入几何学的提出，构成了对这种社会克隆技术阴暗面的尖锐伦理追问（p.324）：
 > - **政治层面：谁拥有嵌入主权？** 嵌入几何学的控制权和决策权始终被垄断在拥有资本与地缘政治强势的出口方（如殖民宗主国、占领军司令部或基于排名的国际评估组织）手中。这使得教育移植往往退化为新殖民主义统治的技术工具，强制将外来体制嵌于地方社会（p.324）。
-> - **伦理层面：是否应当抹杀本土的免疫反应？** 转译和转化阶段的制度形变和抵抗，在本质上是接受国为了保护本土文化独立性与特异性而自发启动的社会免疫反应。如果比较教育研究协助统治者攻破这种免疫机制，开发出能够完美穿透并消解本土情境阻力的嵌入技术，就无异于在智识上为强制性的社会克隆背书，构成了对地方文化自主权的粗暴剥夺（p.324）。
+> - **伦理层面：是否应当抹杀本土的[[Educational Immunology|免疫反应]]？** 转译和转化阶段的制度形变和抵抗，在本质上是接受国为了保护本土文化独立性与特异性而自发启动的社会[[Educational Immunology|免疫反应]]。如果比较教育研究协助统治者攻破这种免疫机制，开发出能够完美穿透并消解本土情境阻力的嵌入技术，就无异于在智识上为强制性的[[Social Cloning|社会克隆]]背书，构成了对地方文化自主权的粗暴剥夺（p.324）。
 > - **后果层面：无视历史报复的效率短视** 政策制定者往往只追求短期政策移植的高效，无视其在长时段历史中引发的深层社会撕裂。无论是在非洲后殖民地留下的不可弥合的教育心理创伤，还是审计文化强加给英格兰大学造成的学术精神全面萎缩，都是无视长时段演变后果、强行嵌入外来几何所招致的历史报复（p.324）。
 
 ---
@@ -247,7 +250,7 @@ citation_aliases:
 
 > [!stat-cards]- 核心概念与实证数据
 > - **3T 模型** 指转移、转译、转化构成的三阶段制度流变理论，其在[[Transitology|转型学]]剧烈动荡期最易观察到时间压缩式的剧烈形变（p.323）。
-> - **新专业主义** 指新大学管理主义下，以课程手册、辅导备忘录存档以及有用研究成果为代表的、旨在强化[[External Auditor|外部审计]]并可接受监控的管理主义教学契约关系（pp.321–322）。
+> - **[[New Professionalism|新专业主义]]** 指新大学管理主义下，以课程手册、辅导备忘录存档以及有用研究成果为代表的、旨在强化[[External Auditor|外部审计]]并可接受监控的管理主义教学契约关系（pp.321–322）。
 
 ---
 
