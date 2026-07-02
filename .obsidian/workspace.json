@@ -43,17 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-theory.md",
+                "file": "wiki/arguments/journal-articles/Australian Journal of Education/Argument_Cole_2015_AJE.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-theory"
+              "title": "Argument_Cole_2015_AJE"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,8 +221,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "0ec4b7749d7a06eb",
   "lastOpenFiles": [
+    "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
+    "wiki/templates/template-theory.md",
+    "wiki/concepts/comparative-education/Transfer Translation Transformation.md",
     "wiki/concepts/comparative-education/Social Cloning.md",
     "wiki/concepts/comparative-education/Educational Immunology.md",
     "wiki/concepts/higher-education/New Professionalism.md",
@@ -246,9 +249,6 @@
     "wiki/concepts/research-methodology/Necessary and Sufficient Conditions.md",
     "wiki/templates/template-argument.md",
     "wiki/concepts/sociology-of-education/Examination Hell.md",
-    "wiki/concepts/curriculum/IB Diploma Programme.md",
-    "wiki/facts/pakistan/National Education Policy 2009 Pakistan.md",
-    "wiki/facts/uk/Research Excellence Framework.md",
     "sources/Lakhani_2012_AKUIED/Lakhani_2012_AKUIED.pdf",
     "sources/Lakhani_2012_AKUIED/figures",
     "sources/Lakhani_2012_AKUIED",

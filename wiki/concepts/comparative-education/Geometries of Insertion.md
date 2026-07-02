@@ -6,7 +6,7 @@ aliases:
 summary: "Robert Cowen（2009）提出的理论关切，指将“情境”驯服为可操作变量后，用于分析将一处所造的思想与实践精确植入另一处的嵌入几何学，并对这种社会克隆技术提出政治、伦理与长时段后果的拷问"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
