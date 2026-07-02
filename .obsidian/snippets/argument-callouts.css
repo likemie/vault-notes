@@ -1899,12 +1899,21 @@
   color: rgb(230, 90, 110);
 }
 
-/* ─── interdependence（相互依存 — 双栏循环箭头 ⟷）─────────
+/* ─── interdependence（相互依存 — 编织连接桥 + 双色渗透）─────
  *
- * 与 [!tension] 的 VS 对立不同，本 callout 表达两个维度相互支撑的关系。
- * 左侧 teal（个体反思）、右侧 amber（社会互动），两侧通过 col-l 右边缘
- * 的 ⟷ 徽章相互连接。徽章位置跟随左卡片高度居中，不受右卡片高低影响。
- * hover 时两栏同时向内聚拢，⟷ 徽章做小幅旋转，象征循环互构。
+ * 旧版问题：col-l / col-r 沿用中性灰的通用卡片样式，两栏毫无色彩
+ * 区分，只靠一个挂在左卡片外侧的孤立徽章暗示"关联"，且徽章仅
+ * 跟随左卡片高度居中——右卡片一旦更高就会明显偏离，观感涣散，
+ * 完全没有"相互依存"的样子。
+ *
+ * 新版思路：
+ *   1. 左卡（teal）与右卡（amber）各自拥有主色识别，且朝向对方的
+ *      内侧边框渗入对方颜色——每一侧都"含有"另一侧的成分。
+ *   2. 中央新增一条贯穿两栏的编织桥（斜纹双色，象征交织），
+ *      通过 grid 的第三列 + ::after 生成，高度用 align-self: stretch
+ *      自动匹配两栏中较高者，不再有偏移问题。
+ *   3. 桥中央的圆形徽章（⇌）代表持续的双向交换，常态呼吸搏动；
+ *      hover 时两栏向内聚拢、内侧渗透边框加深、搏动加速。
  *
  * Markdown 结构：
  *   > [!interdependence] 自主的相互依存性（autonomous interdependence）
@@ -1937,7 +1946,6 @@
     -4px 0 12px rgba(15, 118, 110, 0.09),
      4px 0 12px rgba(180, 83, 9,  0.09);
   position: relative;
-  overflow: visible;           /* 允许徽章超出边界 */
 }
 
 .callout[data-callout="interdependence"] > .callout-title {
@@ -1951,82 +1959,113 @@
   padding: 0.56rem 1rem;
 }
 
-/* ── 左卡片提供相对定位锚点 ── */
-.callout[data-callout="interdependence"]
-  > .callout-content > .callout[data-callout="col-l"] {
+/* ── 3 栏 grid：左卡 / 编织桥 / 右卡 ──
+ * :has(...) 用于压过通用 SIDE COLUMNS 规则（同样带 !important）的
+ * 特异性，确保中间轨道生效。 */
+.callout[data-callout="interdependence"]:has(
+    > .callout-content > .callout[data-callout="col-l"]
+                        + .callout[data-callout="col-r"])
+  > .callout-content {
+  grid-template-columns: 1fr 2.4rem 1fr !important;
+  gap: 0.75rem 0.3rem;
   position: relative;
 }
 
-/* ── ⟷ 徽章：挂载于左卡片右边缘，垂直居中 ── */
-.callout[data-callout="interdependence"]
-  > .callout-content > .callout[data-callout="col-l"]::after {
-  content: "⟷";
-  position: absolute;
-  right: -1.5rem;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 2rem;
-  height: 2rem;
-  border-radius: 50%;
-  background: linear-gradient(135deg, rgb(15, 118, 110), rgb(180, 83, 9));
+/* ── 编织桥：::after 作为第三个 grid 项，天然占满中间轨道 ──
+ * align-self: stretch 使其高度自动匹配两栏中较高者。 */
+.callout[data-callout="interdependence"] > .callout-content::after {
+  content: "⇌";
+  grid-column: 2;
+  align-self: stretch;
+  justify-self: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
   color: #fff;
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   font-weight: 700;
-  line-height: 2rem;
-  text-align: center;
-  box-shadow:
-    0 2px 10px rgba(0, 0, 0, 0.22),
-    0 0 0 3px var(--background-primary);
-  z-index: 2;
   pointer-events: none;
-  transition: transform 0.28s cubic-bezier(0.25, 0.8, 0.25, 1.2);
-}
-
-/* ── 徽章外旋转光圈（循环感） ── */
-.callout[data-callout="interdependence"]
-  > .callout-content > .callout[data-callout="col-l"]::before {
-  content: "";
-  position: absolute;
-  right: -2.1rem;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 3.2rem;
-  height: 3.2rem;
-  border-radius: 50%;
-  border: 2px solid transparent;
-  border-top-color: rgba(15, 118, 110, 0.45);
-  border-right-color: rgba(180, 83, 9, 0.45);
   z-index: 1;
-  pointer-events: none;
-  animation: interdepend-spin 4s linear infinite;
+  background-image:
+    radial-gradient(circle,
+      rgb(15, 118, 110)          0%,
+      rgb(180, 83, 9)            78%,
+      var(--background-primary)  82%,
+      transparent                86%
+    ),
+    repeating-linear-gradient(-45deg,
+      rgba(15, 118, 110, 0.9) 0 5px,
+      rgba(180, 83, 9,  0.9) 5px 10px
+    );
+  background-position: center, center;
+  background-size: 2.1rem 2.1rem, 6px 100%;
+  background-repeat: no-repeat, no-repeat;
+  animation: interdepend-pulse 2.6s ease-in-out infinite;
 }
 
-/* ── hover：徽章小幅旋转 + 两栏向内聚拢 ── */
-.callout[data-callout="interdependence"]:hover
-  > .callout-content > .callout[data-callout="col-l"]::after {
-  transform: translateY(-50%) rotate(15deg);
-}
-.callout[data-callout="interdependence"]
-  > .callout-content > .callout[data-callout="col-l"] {
-  transition: transform 0.28s cubic-bezier(0.25, 0.8, 0.25, 1.2);
-}
-.callout[data-callout="interdependence"]
-  > .callout-content > .callout[data-callout="col-r"] {
-  transition: transform 0.28s cubic-bezier(0.25, 0.8, 0.25, 1.2);
-}
-.callout[data-callout="interdependence"]:hover
-  > .callout-content > .callout[data-callout="col-l"] {
-  transform: translateX(6px);
-}
-.callout[data-callout="interdependence"]:hover
-  > .callout-content > .callout[data-callout="col-r"] {
-  transform: translateX(-6px);
+@keyframes interdepend-pulse {
+  0%, 100% { transform: scale(1);    }
+  50%      { transform: scale(1.08); }
 }
 
-/* ── 光圈旋转动画 ── */
-@keyframes interdepend-spin {
-  from { transform: translateY(-50%) rotate(0deg);   }
-  to   { transform: translateY(-50%) rotate(360deg); }
+/* ── 左卡：teal 主色，内侧（右边）渗入 amber ── */
+.callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-l"] {
+  grid-column: 1;
+  background: linear-gradient(115deg,
+    rgba(15, 118, 110, 0.08) 0%,
+    rgba(15, 118, 110, 0.02) 65%,
+    rgba(180, 83, 9,  0.06) 100%
+  );
+  border: 1px solid rgba(15, 118, 110, 0.18);
+  border-left:  3px solid rgb(15, 118, 110);
+  border-right: 3px solid rgba(180, 83, 9, 0.5);
+  transition: transform 0.28s cubic-bezier(0.25, 0.8, 0.25, 1.2),
+              border-right-color 0.22s ease;
+}
+.callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-l"] > .callout-title {
+  color: rgb(15, 118, 110);
+  background: rgba(15, 118, 110, 0.05);
+  border-bottom-color: rgba(15, 118, 110, 0.14);
+}
+
+/* ── 右卡：amber 主色，内侧（左边）渗入 teal ── */
+.callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-r"] {
+  grid-column: 3;
+  background: linear-gradient(295deg,
+    rgba(180, 83, 9, 0.08) 0%,
+    rgba(180, 83, 9, 0.02) 65%,
+    rgba(15, 118, 110, 0.06) 100%
+  );
+  border: 1px solid rgba(180, 83, 9, 0.18);
+  border-right: 3px solid rgb(180, 83, 9);
+  border-left:  3px solid rgba(15, 118, 110, 0.5);
+  transition: transform 0.28s cubic-bezier(0.25, 0.8, 0.25, 1.2),
+              border-left-color 0.22s ease;
+}
+.callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-r"] > .callout-title {
+  color: rgb(180, 83, 9);
+  background: rgba(180, 83, 9, 0.05);
+  border-bottom-color: rgba(180, 83, 9, 0.14);
+}
+
+/* ── hover：两栏向内聚拢，渗透边框加深，徽章搏动加速 ── */
+.callout[data-callout="interdependence"]:hover
+  > .callout-content > .callout[data-callout="col-l"] {
+  transform: translateX(4px);
+  border-right-color: rgb(180, 83, 9);
+}
+.callout[data-callout="interdependence"]:hover
+  > .callout-content > .callout[data-callout="col-r"] {
+  transform: translateX(-4px);
+  border-left-color: rgb(15, 118, 110);
+}
+.callout[data-callout="interdependence"]:hover > .callout-content::after {
+  animation-duration: 1.1s;
 }
 
 /* ── 暗色模式 ── */
@@ -2051,14 +2090,39 @@
     rgba(180, 83, 9,  0.17) 100%
   );
 }
+.theme-dark .callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-l"] {
+  background: linear-gradient(115deg,
+    rgba(15, 118, 110, 0.12) 0%,
+    rgba(15, 118, 110, 0.03) 65%,
+    rgba(180, 83, 9,  0.08) 100%
+  );
+}
+.theme-dark .callout[data-callout="interdependence"]
+  > .callout-content > .callout[data-callout="col-r"] {
+  background: linear-gradient(295deg,
+    rgba(180, 83, 9, 0.12) 0%,
+    rgba(180, 83, 9, 0.03) 65%,
+    rgba(15, 118, 110, 0.08) 100%
+  );
+}
 
-/* ── 移动端：单列，隐藏徽章和光圈 ── */
+/* ── 移动端：单列堆叠，隐藏编织桥 ── */
 @media (max-width: 680px) {
-  .callout[data-callout="interdependence"]
-    > .callout-content > .callout[data-callout="col-l"]::before,
-  .callout[data-callout="interdependence"]
-    > .callout-content > .callout[data-callout="col-l"]::after {
+  .callout[data-callout="interdependence"]:has(
+      > .callout-content > .callout[data-callout="col-l"]
+                          + .callout[data-callout="col-r"])
+    > .callout-content {
+    grid-template-columns: 1fr !important;
+  }
+  .callout[data-callout="interdependence"] > .callout-content::after {
     display: none;
+  }
+  .callout[data-callout="interdependence"]
+    > .callout-content > .callout[data-callout="col-l"],
+  .callout[data-callout="interdependence"]
+    > .callout-content > .callout[data-callout="col-r"] {
+    grid-column: 1;
   }
   .callout[data-callout="interdependence"]:hover
     > .callout-content > .callout[data-callout="col-l"],
