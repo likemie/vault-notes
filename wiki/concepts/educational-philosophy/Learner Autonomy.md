@@ -9,7 +9,7 @@ aliases:
 summary: "学习者对自身学习过程承担责任的能力与意愿，包括批判性反思、元认知意识和自我调节，是课程培养学生独立思考的核心目标之一"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_theories:
 related_facts:
   - "[[International Baccalaureate]]"
 related_arguments:
+  - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Cole_2015_AJE]]"
 confidence: medium
 status: draft
@@ -76,7 +77,7 @@ updated: 2026-07-02
 ## 自主性发展的条件
 
 > [!claim] 自主性通过两条路径发展
-> Lakhani（2012）通过对 [[International Baccalaureate|IB]] [[Theory of Knowledge|知识论]]课程的研究提出，学习者自主性通过两个过程/条件实现：一是通过提供[[Critical Thinking|批判性思维]]的知识和技能来发展能力；二是学习者对自身批判性反思和意义建构能力建立自信（pp.177–178）。
+> [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]]通过对 [[International Baccalaureate|IB]] [[Theory of Knowledge|知识论]]课程的研究提出，学习者自主性通过两个过程/条件实现：一是通过提供[[Critical Thinking|批判性思维]]的知识和技能来发展能力；二是学习者对自身批判性反思和意义建构能力建立自信（pp.177–178）。
 
 > [!chain-link] 自主性发展路径
 > - **能力建设** 课程通过[[Epistemology|认识论]]知识帮助学生进行分析性思考。知识论（TOK）鼓励对信念和知识主张进行质疑和辩护（Little, 1991），将自主性视为批判性反思的能力。
@@ -84,17 +85,17 @@ updated: 2026-07-02
 > - **自主的相互依存性** 即使学习者独立解读个人经验，这些经验仍根植于社会互动。学习者需要课堂空间进行互动、讨论和对话——阅读不是自主学习经验的终点。Atkins（2006/2009）将这一特征称为"自主的相互依存性"（autonomous interdependence）。
 
 > [!warning] 能力不足时自由的失效
-> 当学习者缺乏处理自由所需的技能时，自由思考就失去了效用。缺乏自信的学习者即使掌握内容知识，也可能无法将知识转化为有组织的知识产品。他们需要外部支持和确认，过度依赖监督和同伴做法来指导自己的行动（Lakhani, 2012, p.176）。
+> 当学习者缺乏处理自由所需的技能时，自由思考就失去了效用。缺乏自信的学习者即使掌握内容知识，也可能无法将知识转化为有组织的知识产品。他们需要外部支持和确认，过度依赖监督和同伴做法来指导自己的行动（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.176]]）。
 
 ---
 
 ## 围绕概念形成的命题
 
 > [!claim] 课程可以通过[[Epistemology|认识论]]训练培养自主性
-> [[International Baccalaureate|IB]] 的[[Theory of Knowledge|知识论]]（TOK）课程通过要求学生反思"我们如何知道我们所知道的"，系统性地训练了批判性反思和[[Metacognition|元认知]]意识。学生在 TOK 中发展出提问、[[Reflexivity|反思性]]思考和创造性沟通的能力，这些角色——探究者、思考者、风险承担者、反思者和创造者——直接对应 IB 学习者培养目标中的描述（Lakhani, 2012, pp.177–178）。
+> [[International Baccalaureate|IB]] 的[[Theory of Knowledge|知识论]]（TOK）课程通过要求学生反思"我们如何知道我们所知道的"，系统性地训练了批判性反思和[[Metacognition|元认知]]意识。学生在 TOK 中发展出提问、[[Reflexivity|反思性]]思考和创造性沟通的能力，这些角色——探究者、思考者、风险承担者、反思者和创造者——直接对应 IB 学习者培养目标中的描述（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, pp.177–178]]）。
 
 > [!claim] 自主性与[[Constructivist Paradigm|建构主义]]学习相互支撑
-> 认知失衡（disequilibrium）对建构主义学习至关重要，而正是学习者在知识建构中的能动性提出了解决方案（Moon, 2008）。教师需要先让学生安心——知识必然会产生悖论，因为不和谐是建构主义学习的[[Necessary and Sufficient Conditions|必要条件]]。同时，学生应意识到不存在唯一正确答案，重要的是智识上的严谨性（Lakhani, 2012, p.178）。
+> 认知失衡（disequilibrium）对建构主义学习至关重要，而正是学习者在知识建构中的能动性提出了解决方案（Moon, 2008）。教师需要先让学生安心——知识必然会产生悖论，因为不和谐是建构主义学习的[[Necessary and Sufficient Conditions|必要条件]]。同时，学生应意识到不存在唯一正确答案，重要的是智识上的严谨性（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.178]]）。
 
 ---
 

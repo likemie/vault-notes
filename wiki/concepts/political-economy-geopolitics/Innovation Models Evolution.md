@@ -9,7 +9,7 @@ aliases:
 summary: "Tidd（2006）等学者识别的创新过程理解方式的五次迭代——技术推动、需求拉动、耦合、系统集成与网络化、创新系统——从线性到系统的认识升级，现实中五种模型共存而非替代"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_Caraca_2009_TFSC]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -46,7 +47,7 @@ updated: 2026-05-27
 > [!info]
 > 创新模型演变（Innovation Models Evolution）指二十世纪以来人们对"创新到底怎么发生"这一核心问题的理解方式所经历的五次迭代。Tidd（2006）将这些演变概括为五代模型——从认为创新是单向线性过程（科学发现→产品），到认识到它是多行动者在制度环境中的集体学习活动。这一演变的核心意义在于：**对"创新如何发生"的理解方式，直接塑造了政策制定者、企业管理者和大学领导者管理创新的方式**([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–29]])。
 
-> 关键洞见是：这五种模型在现实中并非简单的代际替代，而是共存——不同行业、不同技术、不同创新阶段适用不同模型（Caraça et al., 2009）（p.29）。
+> 关键洞见是：这五种模型在现实中并非简单的代际替代，而是共存——不同行业、不同技术、不同创新阶段适用不同模型（[[Argument_Caraca_2009_TFSC|Caraça et al., 2009]]）（p.29）。
 
 > [!quote]
 > "Innovation processes were 'neither smooth nor linear, nor often well behaved'."（Kline & Rosenberg, 1986, p.285，引自 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.28]]）
@@ -56,7 +57,7 @@ updated: 2026-05-27
 ## 概念演变
 
 > [!note]-
-> 五代创新模型代表了人们对创新过程理解方式的逐步升级（Tidd, 2006; Caraça et al., 2009; Galanakis, 2006）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–29]])：
+> 五代创新模型代表了人们对创新过程理解方式的逐步升级（Tidd, 2006; [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]]; Galanakis, 2006）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–29]])：
 
 ### 第一代：技术推动（Technology Push，1950s 主导）
 
@@ -120,7 +121,7 @@ Kline 和 Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 > [!tip]-
 > - [[Systems of Innovation]] — 五代模型中的第五代，也是当前主导[[Paradigm|范式]]；两者的关系是：创新模型演变描述的是"理解方式"的历史轨迹，创新[[Luhmann's Systems Theory|系统理论]]是这条轨迹上最新、最复杂的节点
 > - Kline & Rosenberg（1986）的链环模型 — 第三代耦合模型的核心来源，打破了线性思维的垄断
-> - Caraça et al.（2009）— 提出代际共存观点的关键[[Document|文献]]，标题本身就是一个隐喻："From Queen to Cinderella?"（科学在创新过程中从女王变成灰姑娘？）
+> - [[Argument_Caraca_2009_TFSC|Caraça et al. (2009)]]— 提出代际共存观点的关键[[Document|文献]]，标题本身就是一个隐喻："From Queen to Cinderella?"（科学在创新过程中从女王变成灰姑娘？）
 
 ---
 

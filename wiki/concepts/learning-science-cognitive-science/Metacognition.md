@@ -8,7 +8,7 @@ aliases:
 summary: "个体对自己认知过程的意识和调节，包括元认知知识和元认知调节两个核心成分，是批判性思维的高阶认知基础"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Lakhani_2012_AKUIED]]"
 confidence: medium
 status: draft
 created: 2026-07-01
@@ -62,7 +63,7 @@ updated: 2026-07-02
 > 批判性思维要求个体反思知识本质和自身推理过程，这本质上是系统性的元认知训练。[[Theory of Knowledge|TOK]] 课程的核心设计——要求学生反复追问"我们如何知道我们所知道的"——直接对应元认知调节中的监控和评估功能（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.3]]; McGuire, 2012; Pintrich, 2002）。
 
 > [!claim] 元认知意识是[[Learner Autonomy|学习者自主性]]的核心构成
-> 自主性要求学习者对自身信念和行动保持"意识"（consciousness）——关注和自评自己知道什么、正在做什么、认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。这种元认知意识使学习者能够做出知情的决策并有效利用可用资源，从而支撑自主学习（Lakhani, 2012, p.174）。
+> 自主性要求学习者对自身信念和行动保持"意识"（consciousness）——关注和自评自己知道什么、正在做什么、认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。这种元认知意识使学习者能够做出知情的决策并有效利用可用资源，从而支撑自主学习（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.174]]）。
 
 ---
 

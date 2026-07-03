@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -44,11 +44,11 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Innovation Park]]"
   - "[[Knowledge Transfer]]"
-  - "[[Document]]"
   - "[[Technology Infusion]]"
   - "[[Executive Education]]"
   - "[[Professors of Practice]]"
   - "[[Technology Transfer Office]]"
+  - "[[Document]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
@@ -59,7 +59,8 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[University Industry Demonstration Partnership]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Caraca_2009_TFSC]]"
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025|Ch2_Ulrichsen_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
@@ -89,7 +90,7 @@ citation_aliases:
 > 本章属于历史综述（historical review），不以单一理论为[[Analytic Framework|分析框架]]，而是整合多条理论线索来组织对 UIR 演变的追溯：
 
 - **[[Systems of Innovation|创新系统理论]]**(Lundvall et al., 2002)——将创新理解为多行动者在制度环境下的集体学习活动，是本章组织材料的核心视角。它帮助读者理解：UIR 不是孤立的人际互动，而是嵌套在法律框架、金融系统、文化规范等多层制度之中的系统行为
-- **[[Innovation Models Evolution|创新模型演变]]**（linear → coupling → systems integration → networked → systems of innovation）——五代创新模型为理解产学互动方式的历史变迁提供了坐标(Tidd, 2006; Caraça et al., 2009)
+- **[[Innovation Models Evolution|创新模型演变]]**（linear → coupling → systems integration → networked → systems of innovation）——五代创新模型为理解产学互动方式的历史变迁提供了坐标(Tidd, 2006; [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]])
 - **[[Innovation Policy Paradigms|创新政策范式]]**(Schot & Steinmueller, 2018)——"科学促增长 → 创新系统升级 → [[Transformative Change|变革转型]]"三阶段框架，解释了国家政策如何塑造[[University-Industry Collaboration|产学合作]]的激励和条件
 - **[[Triple Helix]]** ——全书共享理论，本章为其提供五十年历史演化的经验证据；**[[Innovation Ecosystem|创新生态系统]]**同理，本章展示生态系统如何从概念走向制度化
 
@@ -127,7 +128,7 @@ citation_aliases:
 | 1990s | 系统集成与[[Snowball Sampling\|网络化]] | 供应商、客户、联盟伙伴共同参与创新 |
 | 1990s至今 | 创新系统 | 法律、金融、文化、教育等制度共同塑造创新行为 |
 
-Kline & Rosenberg(1986)对第三阶段的总结精辟地指出：创新过程"既不顺畅，也不线性，更不总是规规矩矩的"(p.285, 引自 p.28)。而且这五种模型在现实中不是代际替代，而是共存，不同行业、不同技术、不同阶段适用不同模型(Caraça et al., 2009)(p.29)。例如制药行业：药物"发现"阶段仍接近技术推动模式（基础生物学突破导向药物靶点识别），但[[Clinical Trial|临床试验]]阶段高度依赖与医院、监管机构、患者群体的网络化协作，同一家公司的同一药品，前期遵循线性逻辑、后期遵循系统逻辑。
+Kline & Rosenberg(1986)对第三阶段的总结精辟地指出：创新过程"既不顺畅，也不线性，更不总是规规矩矩的"(p.285, 引自 p.28)。而且这五种模型在现实中不是代际替代，而是共存，不同行业、不同技术、不同阶段适用不同模型([[Argument_Caraca_2009_TFSC|Caraça et al., 2009]])(p.29)。例如制药行业：药物"发现"阶段仍接近技术推动模式（基础生物学突破导向药物靶点识别），但[[Clinical Trial|临床试验]]阶段高度依赖与医院、监管机构、患者群体的网络化协作，同一家公司的同一药品，前期遵循线性逻辑、后期遵循系统逻辑。
 
 近年来又[[Emergence|涌现]]了新的创新驱动力——地缘政治紧张使技术合作带上安全色彩、气候变化等"棘手问题"要求创新不仅创造经济价值还要解决社会问题、数字化转型和人工智能正在重塑所有行业的创新速度(p.29)。这些驱动力不是替代了之前的模型，而是在原有模型的基础上叠加上新的约束和紧迫感。
 
@@ -232,7 +233,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 
 交易型互动的特征是企业提供资金、大学执行研究、交付报告后合作结束，下次有需求时重新寻找合作方。关系型互动的特征则是建立长期伙伴关系，包括联合实验室、联合聘任研究人员、博士生在企业完成论文、企业科学家在大学兼职讲课、知识产权框架性协议替代逐项谈判等。
 
-关系型互动之所以成为主导，一个核心原因是隐性知识（tacit knowledge）在技术转移中的关键作用(Schartinger et al., 2002)(p.44)。专利[[Document|文件]]可以被发送到世界任何地方，但如果接收方缺乏能够理解该专利并将其与现有[[Technology Infusion|技术整合]]的工程师，专利本身无法产生价值。关系型互动创造的是传递隐性知识的管道。
+关系型互动之所以成为主导，一个核心原因是隐性知识（tacit knowledge）在技术转移中的关键作用(Schartinger et al., 2002)(p.44)。专利文件可以被发送到世界任何地方，但如果接收方缺乏能够理解该专利并将其与现有[[Technology Infusion|技术整合]]的工程师，专利本身无法产生价值。关系型互动创造的是传递隐性知识的管道。
 
 > 1994 年 Cohen et al.调查了 1478 名美国企业研发经理，仅 5.8% 的受访者认为"人员交流"是支持其研发工作的重要途径(p.45)。但到 2020 年代，人员交流已成为产学合作讨论的核心议题(NCUB, 2023)。这一变化并非因为 1994 年的判断错误，而是因为当时大部分产学合作确实是交易型的；人员交流的重要性只有在关系型合作成为主导之后才会凸显。
 

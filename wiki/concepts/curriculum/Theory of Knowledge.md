@@ -9,7 +9,7 @@ aliases:
 summary: "IB 文凭项目的核心必修科目（100 小时），一门不教授固定知识内容、而是要求学生反思知识本质和思维过程的批判性思维课程。"
 type: concept
 domain: "curriculum"
-related_count: 21
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,8 +29,11 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Falsification]]"
+  - "[[Paradigm]]"
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
+  - "[[Pragma-Dialectics]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Convenience Sampling]]"
@@ -40,7 +43,9 @@ related_persons:
 related_facts:
   - "[[International Baccalaureate]]"
 related_arguments:
+  - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Zemplen_2007_SciEduc]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
@@ -67,7 +72,7 @@ updated: 2026-07-04
 > - **边界** ToK 不等同于一般哲学课程或认识论课程。它不以哲学史或认识论理论体系为教学内容，而是以学生的知识经验为起点，通过结构化思维练习和跨学科活动来运作。
 
 > [!info] TOK 模型：以认知者为中心的结构
-> TOK 课程的核心结构特征是认知者（knower）处于中心位置，周围环绕着认知方式（ways of knowing）和知识领域（areas of knowledge）（IBO, 2011）。认知者通过质疑、反思和创造性沟通来建构知识，这一认知者中心结构使 TOK 不仅是认识论课程，更是通过认识论训练发展[[Learner Autonomy|学习者自主性]]的课程空间（Lakhani, 2012, pp.173–174）。
+> TOK 课程的核心结构特征是认知者（knower）处于中心位置，周围环绕着认知方式（ways of knowing）和知识领域（areas of knowledge）（IBO, 2011）。认知者通过质疑、反思和创造性沟通来建构知识，这一认知者中心结构使 TOK 不仅是认识论课程，更是通过认识论训练发展[[Learner Autonomy|学习者自主性]]的课程空间（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, pp.173–174]]）。
 
 ---
 
@@ -104,7 +109,7 @@ updated: 2026-07-04
 > 学生可能在 ToK 课程初期经历困难，研究者称之为"ToK 冲击"（ToK-shock），但许多学生日后会重新肯定这门课程的价值，因为他们学会了以成熟的方式批判性思考、质疑[[Hypothesis|假设]]，并更充分地表达自己的知识和思维信念（p.13）。
 
 > [!claim] TOK 通过[[Epistemology|认识论]]训练发展[[Learner Autonomy|学习者自主性]]
-> TOK 课程中，学习者通过扮演探究者（inquirer）、[[Reflexivity|反思性]]思考者（reflective thinker）和创造性沟通者（creative communicator）三种角色来行使知识建构的自主性。知识建构始于提问，进而通过对搜索内容和生活经验的反思产生解释，最终通过课堂讨论和论文进行表达。课程内容和对批判性反思技能的自信共同支撑了自主学习（Lakhani, 2012, pp.177–178）。
+> TOK 课程中，学习者通过扮演探究者（inquirer）、[[Reflexivity|反思性]]思考者（reflective thinker）和创造性沟通者（creative communicator）三种角色来行使知识建构的自主性。知识建构始于提问，进而通过对搜索内容和生活经验的反思产生解释，最终通过课堂讨论和论文进行表达。课程内容和对批判性反思技能的自信共同支撑了自主学习（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, pp.177–178]]）。
 
 ---
 
@@ -136,30 +141,30 @@ updated: 2026-07-04
 
 ## 课程设计的结构性张力
 
-Zemplén（2007）从课程评估、教科书和课堂实践三个层面，分析了 TOK 课程的内在矛盾。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
+Zemplén（2007）从课程评估、教科书和课堂实践三个层面，分析了 TOK 课程的内在矛盾。[[Argument_Zemplen_2007_SciEduc|(Gábor Á. Zemplén, 2007)]]
 
 ### 评估框架的三重困境
 
 > [!feature] TOK 评估面临的结构性问题
 > - **框架问题（Framework-Problem）** TOK 为成为跨学科课程，创造了自身的术语体系（认知方式、知识领域等）。评估标准一旦使用这些术语，学生只需在论文中"点名"术语并嵌入显示"批判性反思"的语句即可获得高分。这一框架排斥某些推理风格（如拉图尔式的主体消解或行动导向的感知理论），导致课程在"反对灌输"的名义下进行另一种灌输。（pp.171–172）
-> - **黑箱化（Black-Boxing）** 评估程序一旦建立并被接受为可靠，对"评估到底在评什么"的根本追问就逐渐消失。TOK 的课程审查讨论越来越多地聚焦于寻找更好的评分描述符，而较少追问：这是评估批判性思维的正确方式吗？（p.173）
+> - **黑箱化（Black-Boxing）** 评估程序一旦建立并被接受为可靠，对"评估到底在评什么"的根本追问就逐渐消失。TOK 的课程审查讨论越来越多地聚焦于寻找更好的评分描述符，而较少追问：这是评估[[Critical Thinking|批判性思维]]的正确方式吗？（p.173）
 > - **批判性思维问题（Problem of Critical Thinking）** 课程没有明确期待什么层次、什么类型的批判性思维。反思判断模型（King & Kitchener, 1994）表明，高中生的推理能力通常无法达到课程隐含期望的水平。课程可能因此变成术语表演而非真正的思维训练。（pp.173–174）
 
 ### 教科书中科学呈现的矛盾
 
 > [!claim] Alchin 教科书的科学章节暴露了 CT 与科学教育的冲突
-> 使用最广的 TOK 教科书（Alchin, 2003a, 2003b）在处理自然科学时，展现出波普尔式[[Falsification|证伪主义]]的简化呈现和库恩[[Paradigm|范式]]概念的不一致应用。例如：教科书既将证伪奉为"科学的严峻检验"，又承认证伪"从来不是简单和结论性的"；既将范式作为核心概念专立一章，又在讨论科学时回归累积进步观。教师用书还明确指示教师"展示科学中有某种奇妙的东西"——这种美化立场与 TOK 培养自由探究的宗旨存在根本张力。（pp.174–178）[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
+> 使用最广的 TOK 教科书（Alchin, 2003a, 2003b）在处理自然科学时，展现出波普尔式[[Falsification|证伪主义]]的简化呈现和库恩[[Paradigm|范式]]概念的不一致应用。例如：教科书既将证伪奉为"科学的严峻检验"，又承认证伪"从来不是简单和结论性的"；既将范式作为核心概念专立一章，又在讨论科学时回归累积进步观。教师用书还明确指示教师"展示科学中有某种奇妙的东西"——这种美化立场与 TOK 培养自由探究的宗旨存在根本张力。（pp.174–178）[[Argument_Zemplen_2007_SciEduc|(Gábor Á. Zemplén, 2007)]]
 
 ### 与科学教育的深层冲突
 
 > [!tension] CT 议程 vs 科学教育议程
-> - **独立课程改变游戏规则** TOK 作为独立于科学科目的批判性思维课程时，将批判性思维从属于科学普及就不再合理。但如果允许学生运用 CT 技能自由地质疑科学的权威、预设和价值，就可能与科学科目维护科学知识客观性的教学需求发生冲突。（p.181）[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
-> - **可能的解决路径** Zemplén 提出三种方案：基于[[Otto Neurath|纽拉特]]反基础主义和科学史案例的 HPS 路径；基于[[Pragma-Dialectics|语用辩证法]]的统一论证框架；以及基于学生自身利益和边界的社会参与路径。（pp.182–188）
+> - **独立课程改变游戏规则** TOK 作为独立于科学科目的批判性思维课程时，将批判性思维从属于科学普及就不再合理。但如果允许学生运用 CT 技能自由地质疑科学的权威、预设和价值，就可能与科学科目维护科学知识客观性的教学需求发生冲突。（p.181）[[Argument_Zemplen_2007_SciEduc|(Gábor Á. Zemplén, 2007)]]
+> - **可能的解决路径** Zemplén 提出三种方案：基于纽拉特反基础主义和科学史案例的 HPS 路径；基于[[Pragma-Dialectics|语用辩证法]]的统一论证框架；以及基于学生自身利益和边界的社会参与路径。（pp.182–188）
 
 ### 外部批评
 
 > [!critique] 对 TOK 框架的批评索引
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 指出 TOK 评估框架制造了术语表演（name-dropping）的捷径，课程在反对传统灌输的同时创造了新的灌输形式；Alchin 教科书的科学呈现存在证伪主义简化和范式概念不一致等问题。
+> - [[Argument_Zemplen_2007_SciEduc|Gábor Á. Zemplén (2007)]] — 指出 TOK 评估框架制造了术语表演（name-dropping）的捷径，课程在反对传统灌输的同时创造了新的灌输形式；Alchin 教科书的科学呈现存在证伪主义简化和范式概念不一致等问题。
 
 ---
 
@@ -167,4 +172,4 @@ Zemplén（2007）从课程评估、教科书和课堂实践三个层面，分�
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]，检验澳大利亚 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系，并比较 DP 与非 DP 大学新生的学术表现。
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 从课程评估、教科书和课堂三个层面分析 TOK 课程中批判性思维与科学教育之间的结构性冲突，提出三种可能的解决框架。
+> - [[Argument_Zemplen_2007_SciEduc|Gábor Á. Zemplén (2007)]] — 从课程评估、教科书和课堂三个层面分析 TOK 课程中批判性思维与科学教育之间的结构性冲突，提出三种可能的解决框架。

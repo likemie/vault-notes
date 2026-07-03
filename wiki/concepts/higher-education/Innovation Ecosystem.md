@@ -7,7 +7,7 @@ aliases:
 summary: "由人与组织通过网络互动进行创新的系统，大学常作为区域锚点，具有基于地点和全球性两种形态，依赖创意与人员的自由流动，其理论基础来自 Schumpeter 的创新理论和 Ridley 的论述"
 type: concept
 domain: "higher-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,6 +47,7 @@ related_arguments:
   - "[[Argument_Lester_2005_MIT]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_Caraca_2009_TFSC]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -159,7 +160,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 - Schumpeter（1942）的创新理论 — "创造性破坏"（creative destruction）是创新生态系统动态演化的理论基础（p.12）
 - Ridley（2020）How Innovation Works — 强调自由、实验和开放竞争对创新的决定性作用（p.12）
 - [[Systems of Innovation|创新系统理论]]（Lundvall et al., 2002）— 创新生态系统的近邻理论，将创新理解为多行动者在制度环境下的集体学习活动，两者共享多行动者网络的分析视角([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.29–31]])
-- 创新模型的演变 — 人们对"创新如何发生"的理解经历了从线性（技术推动→需求拉动）到耦合（Kline & Rosenberg, 1986）再到系统集成与网络化（1990s）的演进，最终在 1990 年代形成了[[Systems of Innovation|创新系统]]理论框架。这些模型在现实中并非替代关系而是共存关系(Caraça et al., 2009; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–29]])
+- 创新模型的演变 — 人们对"创新如何发生"的理解经历了从线性（技术推动→需求拉动）到耦合（Kline & Rosenberg, 1986）再到系统集成与网络化（1990s）的演进，最终在 1990 年代形成了[[Systems of Innovation|创新系统]]理论框架。这些模型在现实中并非替代关系而是共存关系([[Argument_Caraca_2009_TFSC|Caraça et al., 2009]]; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.27–29]])
 
 ---
 
