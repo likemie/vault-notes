@@ -7413,6 +7413,18 @@
     ]
   },
   {
+    "title": "Pragma-Dialectics",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Pragma-Dialectics.md",
+    "aliases": [
+      "语用辩证学派",
+      "语用辩证法",
+      "pragma-dialectical approach",
+      "pragma-dialectical theory",
+      "语用辩证论证理论"
+    ]
+  },
+  {
     "title": "Pragmatic Constructivism",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Pragmatic Constructivism.md",
@@ -9450,6 +9462,16 @@
     "aliases": [
       "Eacott, S.",
       "斯科特·伊科特"
+    ]
+  },
+  {
+    "title": "Otto Neurath",
+    "type": "person",
+    "path": "wiki/persons/austria/Otto Neurath.md",
+    "aliases": [
+      "奥托·纽拉特",
+      "Neurath",
+      "Neurath, O."
     ]
   },
   {
@@ -14338,6 +14360,11 @@
     "title": "Argument_Hattie_2017_SLM",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/School Leadership & Management/Argument_Hattie_2017_SLM.md"
+  },
+  {
+    "title": "Argument_Zemplen_2007_SciEduc",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md"
   },
   {
     "title": "Argument_Downey_2016_SoE",
