@@ -501,6 +501,16 @@
     ]
   },
   {
+    "title": "Heroic, Strange, and Barbaric",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Heroic, Strange, and Barbaric.md",
+    "aliases": [
+      "英雄、陌生与野蛮",
+      "heroic, strange, and barbaric",
+      "英雄、陌生和野蛮"
+    ]
+  },
+  {
     "title": "International Mind",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/International Mind.md",
@@ -7144,7 +7154,8 @@
     "aliases": [
       "全盘教育化社会",
       "totally pedagogised society",
-      "TPS"
+      "TPS",
+      "完全教育化社会"
     ]
   },
   {
