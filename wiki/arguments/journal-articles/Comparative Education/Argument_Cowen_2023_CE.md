@@ -285,7 +285,7 @@ citation_aliases:
 > > 叙事聚焦于日本与中国比较教育的发展史，通过三层历史叙事揭示比较教育如何作为为世界统治服务的认识论权力游戏（epistemological power games for world domination）——即教育改革如何总是伴随着政治大国的意识形态输出和话语征服。(p.334)
 > 
 > > [!case] Euan Auld & Paul Morris (2023) 的“拯救神学”与 Delivery
-> > 采用神学与哲学透镜分析交付学（Deliverology）创始人 Michael Barber 的全球教育改革。Barber 将自己塑造成提供末日拯救的政治神学家，通过设定比较指标和效率交付标准，成功让国家机器降格为指标管理的附属品，挤压了教育的本真伦理。
+> > 采用神学与哲学透镜分析交付学（Deliverology）创始人 [[Michael Barber]] 的全球教育改革。Barber 将自己塑造成提供末日拯救的政治神学家，通过设定比较指标和效率交付标准，成功让国家机器降格为指标管理的附属品，挤压了教育的本真伦理。
 
 ---
 
