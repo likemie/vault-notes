@@ -168,7 +168,7 @@ citation_aliases:
 > 重构学术议程总是充满政治阻力。历史上的范式转型留下了严重的规训惩罚痕迹，而当代关于去殖民化的争论虽然更为理智，但也极易陷入过度简单化，需要引入精确的非西方殖民警示。(p.329)
 
 > [!chain-link] 证据到判断
-> - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论断裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King]] 试图以权威姿态去规训（[[Disciplina and Doctrina|规训]]） Margaret Scotford Archer（King, 1979; King & Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
+> - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论断裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King]] 试图以权威姿态去[[Disciplina and Doctrina|规训]]Margaret Scotford Archer（King, 1979; King & Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
 > - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、Roger Dale、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Ninnes & Burnett, 2003; Larsen & Mehta, 2008; Carney et al., 2012; Seddon & Levin, 2013）也成功成为理论经典。
 
 > [!warning] 去殖民化讨论的区域局限与精确警示
