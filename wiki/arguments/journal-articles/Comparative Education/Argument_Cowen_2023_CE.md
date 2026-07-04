@@ -150,7 +150,7 @@ citation_aliases:
 >   3. 约翰·斯图亚特·密尔对比法宣称要将比较教育简化为在外国教育系统中寻找相似与差异（similarities and differences），被戏称为对比苹果与橘子的精妙视角，缺乏更深层的社会学想象力。
 > - **自我演绎的认识论边界犹豫** 学科面临通过自我演绎来定义自己的俄式轮盘赌（Russian roulette）：要么强行援引一位时尚理论家（如 [[Pierre Bourdieu]]、Michel Foucault、Niklas Luhmann、Jacques Derrida、[[Jürgen Habermas]]、Gilles Deleuze 与 Félix Guattari 等）在这一框架内生造比较教育；要么将其打碎为若干社会科学概念并演绎出分支（Tavis Jules 与 Matthew Thomas, 2021）。这导致理论工作碎片化为连贯性极低的退潮波痕；同时，学科名称不断变形，从比较教育演变为比较与国际教育、国际比较教育乃至超越比较教育。(pp.327–328)
 
-> [!warning] 比较教育的四种罪过
+> [!warning] [[Four Sins of Comparative Education|比较教育的四种罪过]]
 > 每一代比较教育学者都在犯错，却常将错误视为理论突破。
 > - **进步假设 (Assumption of progress)** 如 Harold Noah 与 Max Eckstein (1969) 的目的论历史观，假设学科在经历早期错误后必然成熟为接受实证科学方法的比较社会科学。
 > - **地方主义 (Parochialism)** 默认大西洋中部（Mid-Atlantic，即美英轴心）是定义全球比较教育政治、视角和方向的唯一世界轴心。
@@ -168,7 +168,7 @@ citation_aliases:
 > 重构学术议程总是充满政治阻力。历史上的范式转型留下了严重的规训惩罚痕迹，而当代关于去殖民化的争论虽然更为理智，但也极易陷入过度简单化，需要引入精确的非西方殖民警示。(p.329)
 
 > [!chain-link] 证据到判断
-> - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论断裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King]] 试图以权威姿态去[[Disciplina and Doctrina|规训]]Margaret Scotford Archer（Edmund King, 1979; Edmund King 与 Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
+> - **方法论断裂与规训惩罚的历史** [[1970s Methodology Debates in Comparative Education|1970年代初的方法论论战（Methodology Debates）]]是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King]] 试图以权威姿态去[[Disciplina and Doctrina|规训]]Margaret Scotford Archer（Edmund King, 1979; Edmund King 与 Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
 > - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、Roger Dale、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes 与 Greg Burnett, 2003; Marianne Larsen 与 Sandip Mehta, 2008; Stephen Carney 等, 2012; Terri Seddon 与 Sandford Levin, 2013）也成功成为理论经典。
 
 > [!warning] 去殖民化讨论的区域局限与精确警示
@@ -191,7 +191,7 @@ citation_aliases:
 > 评估比较教育的前瞻方向必须遵循特定的分类原则，其智识命运取决于它如何阅读地缘政治与经济大叙事（[[Readings of the Global|全球解读]]）。(pp.329–331)
 
 > [!chain-link] 证据到判断
-> - **未来议题分类原则** 决定学科智识命运与前瞻方向的五个核心议题层级：
+> - **[[Hierarchy of Future Issues in Comparative Education\|未来议题分类原则]]** 决定学科智识命运与前瞻方向的五个核心议题层级：
 >   1. **常规谜题 (Normal-puzzle topics)** 学科日常运转的核心业务，侧重于对学校系统及其各个组成部分的运转和改革分析。具体包括：学前教育、初等教育、中等教育、考试、课程、教师教育、职业技术教育、衡量学校与大学质量、以及新型教学技术。(p.329, p.330)
 >   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（post）为标志的新理论研究，如后社会主义、后现代、后人类主义理论，以及系统装配 (assemblages) 解释视角。
 >   3. **突破性主题 (Break-through themes)** 近年涌现、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；PISA 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能对话机器人（如 ChatGPT）带来的急剧技术变革与行业恐慌。
