@@ -292,7 +292,7 @@ Total entries: **169**
 > - [[Argument_Hattie_2017_SLM]] — Hattie 对 Eacott (2017) Cult of the Guru 论文的直接回应，援引 Popper 证伪主义和 Said 公共知识分子传统，逐条反驳 Eacott 三项主张
 
 > [!index-list]- Science & Education (1)
-> - [[Argument_Zemplen_2007_SciEduc]] — 以 IB 知识论（TOK）课程为案例，揭示批判性思维议程与科学教育议程之间的深层张力——TOK 要么与科学科目兼容但妥协批判性思维要素，要么认真对待批判性思维但无法充分支持科学教育目标
+> - [[Argument_Zemplen_2007_SciEduc]] — 以 IB 知识论课程为案例，揭示批判性思维议程与科学教育议程之间的深层张力，提出三种协调路径
 
 > [!index-list]- Sociology of Education (1)
 > - [[Argument_Downey_2016_SoE]] — 在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的
