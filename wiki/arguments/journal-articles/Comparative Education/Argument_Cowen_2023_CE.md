@@ -281,7 +281,7 @@ citation_aliases:
 > - **Terri Seddon (2023)**
 >   **去殖民化与行星关切**<br>讲述哈萨克斯坦等国在面对俄罗斯、中国和西方资本的多重挤压下开展的微妙但坚韧的去殖民化实践。Seddon 批评当代比较教育过度科学化，丧失了对行星关切（planetary concerns）的敏感，抹去了行动个体的复杂性。(Seddon, 2023)
 
-> > [!case] Daniel Tröhler (2023b) 的地缘认识论权力游戏
+> > [!case] [[Daniel Tröhler]] (2023b) 的地缘认识论权力游戏
 > > 叙事聚焦于日本与中国比较教育的发展史，通过三层历史叙事揭示比较教育如何作为为世界统治服务的认识论权力游戏（epistemological power games for world domination）——即教育改革如何总是伴随着政治大国的意识形态输出和话语征服。(p.334)
 > 
 > > [!case] Euan Auld & Paul Morris (2023) 的“拯救神学”与 Delivery
