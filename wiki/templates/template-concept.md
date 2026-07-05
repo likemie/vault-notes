@@ -84,7 +84,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-### 命题类型一　<类型名称>（<English Name>）
+### 命题一　<类型名称>（<English Name>）
 
 %% [!concept-lens] 的标题"<命题类型归纳标题>"需替换为本命题类型的实际名称，例如"课程内容选择的教化正当性"。 %%
 > [!concept-lens] <命题类型归纳标题>
@@ -101,7 +101,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-### 命题类型二　<类型名称>（<English Name>）
+### 命题二　<类型名称>（<English Name>）
 
 %% 如无第二类命题可删除本节；如有更多类型，复制上方结构继续添加。 %%
 %% [!concept-lens] 的标题"<命题类型归纳标题>"需替换为本命题类型的实际名称。 %%

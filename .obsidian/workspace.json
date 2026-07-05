@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/comparative-education/Policy Borrowing.md",
+                "file": "wiki/templates/template-concept.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Policy Borrowing"
+              "title": "template-concept"
             }
           },
           {
@@ -207,11 +207,11 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/concepts/comparative-education/Policy Borrowing.md",
     "wiki/templates/template-fact-policy.md",
     "wiki/templates/TEMPLATE-SPEC.md",
     "wiki/templates/template-theory.md",
     "wiki/templates/template-concept.md",
-    "wiki/concepts/comparative-education/Policy Borrowing.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md",
     "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
     "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
