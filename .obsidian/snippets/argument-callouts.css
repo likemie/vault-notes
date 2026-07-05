@@ -3573,11 +3573,16 @@
   vertical-align: middle;
 }
 
-/* 列表容器 */
+/* 内容区左右留白，避免导语段落顶格贴边（与标题的 1.1rem 对齐） */
+.callout[data-callout="dimension"] > .callout-content {
+  padding: 0.2rem 1.1rem 0.15rem;
+}
+
+/* 列表容器：水平内边距已由 .callout-content 提供，这里只留纵向间距 */
 .callout[data-callout="dimension"] > .callout-content > ul {
   counter-reset: dim-n;
   list-style: none;
-  padding: 0.3rem 0.6rem 0.1rem 0.6rem;
+  padding: 0.3rem 0 0.1rem;
   margin: 0;
 }
 .callout[data-callout="dimension"] > .callout-content > ul > li::marker { display: none; }

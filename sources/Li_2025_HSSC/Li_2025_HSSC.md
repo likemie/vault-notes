@@ -1,6 +1,7 @@
 ---
 citation: "Li, J., Xue, E., & Guo, S. (2025). The effects of PISA on global basic education reform: A systematic literature review. *Humanities and Social Sciences Communications*, *12*, 106."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Li_2025_HSSC]]"
 processed_date: 2026-07-05
 ---
 
