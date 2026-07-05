@@ -40,8 +40,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Reference Society in Education]]"
-  - "[[Government to Governance Shift]]"
+  - "[[Reference Society]]"
   - "[[Methodological Nationalism]]"
   - "[[Soviet Statism]]"
   - "[[International Mind]]"
@@ -53,16 +52,13 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Knowledge Exchange]]"
   - "[[Reliability]]"
-  - "[[Epistemology]]"
   - "[[Champ]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
-  - "[[Actor-Network Theory]]"
   - "[[World Society Theory]]"
+  - "[[Autopoiesis]]"
   - "[[Dependency Theory]]"
-related_methods:
-  - "[[Snowball Sampling]]"
-  - "[[Case Study]]"
+related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Immanuel Kant]]"
@@ -255,10 +251,10 @@ citation_aliases:
 > [!claim] 步骤三主张
 > 从理性主义视角出发，全球治理机制和多边主义的兴起，将比较教育从国家主导的借用工具重塑为分析分散权威（dispersed authority）的治理平台，并将比较本身重构为一种远处治理的政治技术(p.425)。
 
-> [!critique-method] 案例一：对方法论国家主义的学术批判
-> - **方法论国家主义（Methodological Nationalism）** 将民族国家假设为分析的自然与唯一单位。(Dale & Robertson, 2009, p. 1113)
-> - **方法论国家中心主义（Methodological Statism）** 将国家假设为教育的唯一行动者和决策者。(Dale & Robertson, 2009, p. 1113)
-> - **方法论教育主义（Methodological Educationism）** 将教育等同于大众学校教育，忽略了广泛的非国家与跨国教育空间。(Dale & Robertson, 2009, p. 1113)
+> [!critique-method] 案例一：对[[Methodological Nationalism|方法论国家主义]]的学术批判
+> - **方法论[[Soviet Statism|国家主义]]（Methodological Nationalism）** 将民族国家假设为分析的自然与唯一单位。(Dale & Robertson, 2009, p. 1113)
+> - **方法论国家中心主义（Methodological Statism）** 将国家假设为教育的唯一行动者和决策者。
+> - **方法论教育主义（Methodological Educationism）** 将教育等同于大众学校教育，忽略了广泛的非国家与跨国教育空间。
 
 > [!case] 案例二：比较教育作为治理模式：基准测试与大数据
 > 比较教育的注意力从政府转向治理。教育不再被理解为国家的单向输出，而是被视为分散权威在跨国乃至全球知识网络中复杂的互动产物。一些研究关注超国家实体如欧盟（Alexiadou 2007）和国际组织如世界银行在知识联盟和教育伙伴关系中的角色；另一些研究关注慈善事业、商业和 NGOs 的参与（Verger et al. 2016）；还有研究关注 PISA 等评估及其对国家教育政策的远程工具化诱导（Martens and Niemann 2013）。
@@ -281,20 +277,20 @@ citation_aliases:
 > [!actor-grid] 案例五：教育政策转移中的多行动者网络
 > - **多边组织（Multilateral Orgs）** 如世界银行、经合组织等，通过贷款、标准与评估引导全球政策方向并促成标准化。(Steiner-Khamsi & Waldow, 2012)
 > - **非政府组织（NGOs）** 在草根和地方层面上网状化互动，扮演全球政策流动与地方实践之间的协调者。
-> - **政策企业家（Policy Entrepreneurs）** 跨越学术、商业和政界边界，在循证政策口号下极力推销特定的改革方案。
+> - **[[Policy Entrepreneur|政策企业家]]（Policy Entrepreneurs）** 跨越学术、商业和政界边界，在循证政策口号下极力推销特定的改革方案。
 > - **跨国公司（MNCs）** 推动教育服务的私有化与商业化，提供技术平台并深度卷入教育供给。[[Argument_Beech_2009_CE|Beech, 2009]]
 
 > [!debates] 案例六：世界文化辩论的三个立场
 > 
-> > [!axis] 世界文化理论（World Society Theory）
+> > [!axis] [[World Society Theory|世界文化理论]]（World Society Theory）
 > > 将政策转移视为共识性的内化与扩散过程，西方现代教育模型被作为理性化模型全球单向采用。
 > > 
-> > - **Meyer & Ramirez (2000)** 认为国家采用西方教育模式是为了彰显自身作为世界社会合法成员的身份。(Meyer & Ramirez, 2000)
+> > - **Meyer & Ramirez (2000)** 认为国家采用西方教育模式是为了彰显自身作为世界社会合法成员的身份。
 > 
-> > [!axis] 本土变异与自创生（Local Variation）
+> > [!axis] 本土变异与[[Autopoiesis|自创生]]（Local Variation）
 > > 质疑全球规范被无反思采纳的观点，强调教育系统的自我参照性，突出地方文化的抵制与选择性本土化。
 > > 
-> > - **Schriewer (2012)** 探索全球化教育现象在不同本土脉络下的“外部化”与自创生变异。(Schriewer, 2012)
+> > - **Schriewer (2012)** 探索全球化教育现象在不同本土脉络下的“外部化”与自创生变异。
 > 
 > > [!axis] 全球与地方联结论（Global-Local Linkages）
 > > 认为政策转移绝非中立的自愿模仿或纯粹的文化融合，而是充满强制和不平等权力关系的产物。
@@ -348,15 +344,15 @@ citation_aliases:
 > - **对“全球公民”概念的批判** 揭示其本质是由西方新自由主义经济教义（竞争力与企业家精神）所标记的受教育者身份。
 > - **对“教育转移”现象的重读** 将教育流动的轨迹重读为从西方到非西方的单向流出和强加过程。(Silova et al., 2020)
 
-> [!critique-fatal] 案例六：比较教育自身的帝国与殖民认识型重铸
+> [!critique-fatal] 案例六：比较教育自身的帝国与殖民认识型[[Revoicing|重铸]]
 > 革命主义将整个比较教育学科投射为一种帝国与殖民认识型：
 > 
-> 1. **历史起源的殖民纠缠**：朱利安（Jullien, 1817）的学科奠基计划扎根于欧洲列强扩张过程中的旅行、观察和差异分类实践。 (Sobe, 2017)
-> 2. **知识生产的权力垄断**：英语作为学术主导语言、西方理论解释非西方经验（而非反之）、欧美学者在顶级期刊编委会中的主导权。(Takayama et al., 2017)
+> 1. **历史起源的殖民纠缠** 朱利安（Jullien, 1817）的学科奠基计划扎根于欧洲列强扩张过程中的旅行、观察和差异分类实践。 (Sobe, 2017)
+> 2. **[[Knowledge Production|知识生产]]的权力垄断** 英语作为学术主导语言、西方理论解释非西方经验（而非反之）、欧美学者在顶级期刊编委会中的主导权。(Takayama et al., 2017)
 
 > [!pathways] 案例七：去殖民比较教育的开辟路径
-> - **南南知识交流（South-South Exchange）** 突破东西/南北单向流动，探索南方国家之间的知识互惠与合作。(Hickling-Hudson, 2004)
-> - **非西方教学模式的信度确立** 论证东亚等非西方传统教学经验的理论合法性，打破西方普适标准。(Komatsu & Rappleye, 2017)
+> - **南南[[Knowledge Exchange|知识交流]]（South-South Exchange）** 突破东西/南北单向流动，探索南方国家之间的知识互惠与合作。(Hickling-Hudson, 2004)
+> - **非西方教学模式的[[Reliability|信度]]确立** 论证东亚等非西方传统教学经验的理论合法性，打破西方普适标准。(Komatsu & Rappleye, 2017)
 > - **南方理论与原住民认知联结** 引入南方理论（Theory from the South），突出原住民抗争，实现与西方地平线的脱钩。(Klerides, 2021; Takayama et al., 2017)
 
 > [!evidence-grid-a] 在场（Presences）
@@ -397,8 +393,8 @@ citation_aliases:
 > 瓦尔特·米尼奥罗（[[Walter Mignolo]]）（2011, p. 47）指出，中国的去西方化与美国的再西方化共享资本主义的生存，对抗发生在殖民权力矩阵的其他层面（权威、知识与主体性领域）。这将在比较教育中产生新的注意力议程(p.430)：
 > 
 > > [!tension] 再西方化 vs 去西方化
-> > - **美国的再西方化（Re-Westernisation）** 旨在维护西方启蒙以来的知识、制度和意识形态的统治地位。[[sources/Klerides_2023_CE|(Mignolo, 2011, p. 47)]]
-> > - **中国的去西方化（De-Westernisation）** 依托经济实力在权威、知识和主体性层面挑战西方霸权，但底层仍与资本主义共存。[[sources/Klerides_2023_CE|(Mignolo, 2011, p. 47)]]
+> > - **美国的再西方化（Re-Westernisation）** 旨在维护西方启蒙以来的知识、制度和意识形态的统治地位。(Mignolo, 2011, p. 47)
+> > - **中国的去西方化（De-Westernisation）** 依托经济实力在权威、知识和主体性层面挑战西方霸权，但底层仍与资本主义共存。
 
 > [!challenges]- 重返档案与最终的学科难题
 > 在向前走之前，比较教育需要首先回头审视自身的档案。国际关系中有大量议题与比较教育的联系尚未被挖掘：战争、革命、干预、集团主义、和平、外交和他者性。例如，如何从攻势现实主义（aggressive realism）的角度阐述巴尔干半岛受教育者身份与19世纪末20世纪初列强对奥斯曼欧洲领土竞争的联系？如何从革命理想主义（revolutionary idealism）的角度阐述同一地区20世纪末21世纪初教育转移在国际和解政治中的地位？(p.430)
@@ -425,22 +421,22 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card]- 理论反思的缺失
-> 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。[[sources/Klerides_2023_CE|(Klerides, 2023, p. 416)]]
+> 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 416)]]
 > 
 > *We have never used the lens of international theory in a systematic way to articulate our [[Champ|field]]'s identity, history and future.*
 
 > [!citation-card]- 国际预设决定学术实践
-> 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。[[sources/Klerides_2023_CE|(Klerides, 2023, p. 417)]]
+> 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 417)]]
 > 
 > *What we practise as 'comparative education' is the effect of the way(s) in which we understand, consciously or unconsciously, the nature of international society and its politics, as well as how its main actors (should) conduct themselves in it.*
 
 > [!citation-card]- 怀特传统的政治价值
-> 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。[[sources/Klerides_2023_CE|(Klerides, 2023, p. 431)]]
+> 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 431)]]
 > 
 > *The three traditions are crucial because they unveil the underlying values of our work, facilitating critical reflections on the issue of whose power we are historically and politically reproducing, or opposing, in and through this work.*
 
 > [!citation-card]- 比较教育史的未来难题
-> 中文译文：我们如何以既不单被理性主义的乐观所引导，也不单被革命主义的道德激情所引导，同时又包含现实主义色彩（而非其犬儒主义）方式来书写这一领域？[[sources/Klerides_2023_CE|(Klerides, 2023, p. 431)]]
+> 中文译文：我们如何以既不单被理性主义的乐观所引导，也不单被[[Revolutionism|革命主义]]的道德激情所引导，同时又包含现实主义色彩（而非其犬儒主义）方式来书写这一领域？[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 431)]]
 > 
 > *How do we write about the field in ways that are not simply guided by the optimism of rationalism nor the moral passion of [[Revolutionism]], but that also include a realist(ic) flavour without its cynicism?*
 
