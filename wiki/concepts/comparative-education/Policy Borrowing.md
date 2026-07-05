@@ -22,11 +22,11 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Cross-National Attraction]]"
   - "[[Externalization]]"
+  - "[[IB Diploma Programme]]"
   - "[[Visible Learning]]"
   - "[[International Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Theory of Knowledge]]"
-  - "[[Epistemology]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Critical Thinking]]"
   - "[[Causality]]"
@@ -35,7 +35,9 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Learner-Centred Education]]"
   - "[[Paradigm]]"
+  - "[[Epistemology]]"
   - "[[Lifelong Learning]]"
+  - "[[Reference Society]]"
   - "[[Relational Space]]"
   - "[[School Autonomy]]"
 related_theories:
@@ -45,6 +47,7 @@ related_theories:
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Historical Document Analysis of Curriculum]]"
+  - "[[Systematic Review]]"
   - "[[Case Study]]"
 related_persons: []
 related_facts:
@@ -62,6 +65,7 @@ related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Wang_2025_CE]]"
+  - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Beech_2015_GSE]]"
 confidence: high
 status: draft
@@ -96,7 +100,7 @@ updated: '2026-05-18'
 > - **[[Argument_Cowen_2009_CE|Cowen (2009)]]** — 提出"改革在转移中形态变异"（reforms morph as they move）
 > - **Steiner-Khamsi (2012)** — 主编 *World Yearbook of Education 2012*，系统化政策借用与借出分析框架；区分"借用"（政治驱动、选择性、仪式性）与"学习"（开放、实质性交流）
 > - **Forestier & Crossley (2015)** — 将框架应用于香港与英格兰之间的"双向借用"
-> - **Forestier, Adamson, Han & Morris (2016)** — 系统比较香港 [[Liberal Studies|LS]] 与 IBDP 课程设计，揭示选择性借用的具体机制：参照 IBDP 的跨学科整合和独立探究元素，但排除其国际化知识观和批判性哲学内核
+> - **Forestier, Adamson, Han & Morris (2016)** — 系统比较香港 [[Liberal Studies|LS]] 与 [[IB Diploma Programme|IBDP]] 课程设计，揭示选择性借用的具体机制：参照 IBDP 的跨学科整合和独立探究元素，但排除其国际化知识观和批判性哲学内核
 > - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** — 以 [[Visible Learning|VL]] 在俄罗斯的翻译出版引入、学界争论到被建议拒绝为案例，展示政策借用的完整分析逻辑：全球论述引入 → 本地支持者以"科学合法性"论证 → 本地批评者基于方法论、文化和制度匹配度建议拒绝
 > - **[[Argument_Yan_2025_JCS|Yan & Morris (2025)]]** — 以香港 LS 创立（2009）与废除（2021）为案例，展示政策借用框架对创立阶段的解释力，同时揭示其在高压政治语境下的失效边界
 
@@ -111,7 +115,7 @@ updated: '2026-05-18'
 
 2. **合法化功能** 全球话语的主要功能是为有争议的国内决定提供合法性保护——政府不是"从外部学习"，而是用外部话语给已决定的方案穿上"国际认可"的外衣。
 
-> 例：香港 [[Liberal Studies|LS]] 的课程设计大量引用 IBDP 的跨学科探究和[[Constructivist Paradigm|建构主义]]教学法语言。香港教育局（EDB, 2005）明确将 LS 与 IBDP 的"[[Theory of Knowledge|知识论]]"（[[Epistemology|theory of knowledge]]）相类比——不是为了准确复制 [[International Baccalaureate|IB]] 模型，而是以 IB 的全球声望为这门全新必修科在教师联合会和公众批评中赋予课程合法性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]])
+> 例：香港 [[Liberal Studies|LS]] 的课程设计大量引用 [[IB Diploma Programme|IBDP]] 的跨学科探究和[[Constructivist Paradigm|建构主义]]教学法语言。香港教育局（EDB, 2005）明确将 LS 与 IBDP 的"[[Theory of Knowledge|知识论]]"（theory of knowledge）相类比——不是为了准确复制 [[International Baccalaureate|IB]] 模型，而是以 IB 的全球声望为这门全新必修科在教师联合会和公众批评中赋予课程合法性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]])
 
 3. **问题的社会建构**Steiner-Khamsi (2012) 揭示的核心机制——政府往往是**先确定"解决方案"（如跨学科必修科设计），再建构与之匹配的"问题"（教育体系陈旧、不适应[[Knowledge-Based Economy|知识经济]]）**。这一"方案先行、问题后建"的顺序是政策借用框架区别于"理性政策学习"模型的关键经验预测。
 
@@ -180,7 +184,7 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs [[World Society Theory]]** — 世界文化理论强调**趋同**（全球教育模式扩散导致标准化），是"供给端"视角；政策借用强调**差异**（借用是选择性的、服务于国内政治目的），是"需求端"视角。[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 论证 [[Liberal Studies|LS]] 案例的全球参照用政策借用解释更贴切：创立阶段港府选择性借用 IBDP 话语服务于本地议程，而非被动接受全球规范扩散。
+> - **vs [[World Society Theory]]** — 世界文化理论强调**趋同**（全球教育模式扩散导致标准化），是"供给端"视角；政策借用强调**差异**（借用是选择性的、服务于国内政治目的），是"需求端"视角。[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 论证 [[Liberal Studies|LS]] 案例的全球参照用政策借用解释更贴切：创立阶段港府选择性借用 [[IB Diploma Programme|IBDP]] 话语服务于本地议程，而非被动接受全球规范扩散。
 > - **vs 政策转移（Policy Transfer）** — 政策转移[[Hypothesis|假设]]"最佳实践"从中立技术角度从 A 地搬运到 B 地；政策借用强调借用行为的政治性和修辞性，借用不等于实施。Steiner-Khamsi (2012) 进一步区分了"借用"（政治驱动、选择性、仪式性）与"学习"（开放、实质性交流），指出两者在实践中常常交织。
 > - **vs [[Cross-National Attraction]]** — 跨国吸引力是政策借用的前置阶段（第一阶段），聚焦"为什么外国教育引起关注"和"谁在使用外国范例"；政策借用涵盖从吸引、决策、实施到内化的全过程。前者分析情境如何产生吸引力，后者追踪借用行为的完整生命周期。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
 > - **vs [[Transitology]]** — Cowen (1996, 2000) 的转型学描述宏观历史结构层面的教育转型（从 polis-driven 到 market-driven），政策借用分析的是在这一结构条件下发生的具体政治行为。转型学提供了政策借用的宏观情境框架：当 Cowen 双轴模型的纵轴从"polis-driven → 教育机会平等"翻转为"market-driven → 内部效率与外部效能"，横轴从"[[International Education|国际教育]]关系"翻转为"国际知识竞争"，国际参照和话语借用就不再是偶尔的外交行为，而成为晚期现代性中教育政策制定的结构性特征——不是因为跨国"最佳实践"客观上更多了，而是因为去国家中心化后的教育治理更依赖全球论述来获取合法性([[Argument_Amos_2022_Springer|Amos, 2022, pp.53–56]])
@@ -194,10 +198,10 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 ## 实证发现
 
 > [!success] 实证发现
-> - **香港 [[Liberal Studies|LS]] 创立与废除（最完整案例）**：[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪了 LS 从创立到废除的完整生命周期。创立阶段（2009）：港府以"[[Lifelong Learning|终身学习]]""[[Knowledge-Based Economy|知识经济]]"和 IBDP 话语论证改革的必要性，但这些全球论述被用来解决本地政治问题——政府合法性下降、过剩教师就业缺口、学制调整需求。废除阶段（2021）：全球论述完全消失，《国安法》后的"国家安全"成为唯一逻辑，政策借用框架失去分析对象。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–491]])
+> - **香港 [[Liberal Studies|LS]] 创立与废除（最完整案例）**：[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪了 LS 从创立到废除的完整生命周期。创立阶段（2009）：港府以"[[Lifelong Learning|终身学习]]""[[Knowledge-Based Economy|知识经济]]"和 [[IB Diploma Programme|IBDP]] 话语论证改革的必要性，但这些全球论述被用来解决本地政治问题——政府合法性下降、过剩教师就业缺口、学制调整需求。废除阶段（2021）：全球论述完全消失，《国安法》后的"国家安全"成为唯一逻辑，政策借用框架失去分析对象。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–491]])
 > - **[[Visible Learning|VL]] 在俄罗斯的借用与拒绝**：Hattie 的 VL 于 2017 年在俄罗斯翻译出版后受到学界热烈欢迎，Borisenko（2018）称其为"主要出版事件"，Sokolova（2017）将 VL 与 FSES 标准联系起来。然而 Golovchin（2019）基于三重理由——方法论缺陷（变差系数 Vσ=56.87% 远超 33% 同质性阈值）、文化不匹配（教师"去专业化"风险）、官僚化威胁（RANEPA 2018 年全俄监测 79% 教师报告报表工作量显著增加）——建议俄教育政策不予采用。该案例展示了政策借用框架的完整分析逻辑：全球论述被引入 → 本地支持者以"科学合法性"论证必要性 → 本地批评者基于方法论、文化、制度匹配度分析建议拒绝。([[Argument_Golovchin_2019_ESC|Golovchin, 2019, pp. 229–241]])
 > - **芬兰 [[PISA]] 借用**：英国、新加坡等全球教育体系大量借用芬兰模式的话语，但实际转化有限，说明"借用话语"与"实施实践"之间存在显著鸿沟。（You & Morris, 2016）
-> - **PISA 与参考社会的制度化** [[Argument_Li_2025_HSSC|Li et al. (2025)]] 系统综述了 PISA 如何通过国际排名设立"[[Reference Society in Education|参考社会]]"（reference society）——芬兰、上海、日本、香港——为各国提供政策借用制度模板。参考社会的选择不仅取决于排名，还受文化偏见、地缘经济关系的影响。韩国的案例显示参考社会具有动态性：PISA 前默然借用日本模式，但 PISA 2009 后转向芬兰（Kim & Choi, 2023）。
+> - **PISA 与[[Reference Society|参考社会]]的制度化** [[Argument_Li_2025_HSSC|Li et al. (2025)]] [[Systematic Review|系统综述]]了 PISA 如何通过国际排名设立"[[Reference Society|参考社会]]"（reference society）——芬兰、上海、日本、香港——为各国提供政策借用制度模板。参考社会的选择不仅取决于排名，还受文化偏见、地缘经济关系的影响。韩国的案例显示参考社会具有动态性：PISA 前默然借用日本模式，但 PISA 2009 后转向芬兰（Kim & Choi, 2023）。
 > - **中国晚清对日本教育的借用（历史案例）**[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 记录了中国在甲午战争后大规模借用日本教育体系的案例——改革派视日本为现代化成功典范，保守派视日本为保存儒家秩序的范例，这种"不可能联盟"使借用得以大规模推进（Abe, 1987; Hayhoe, 1992，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 233–234]]）。该案例表明，当对立阵营出于不同理由都同意外国范例是好模型时，吸引力最有可能转化为实际借用。
 
 ## 争议与批评
@@ -210,7 +214,7 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 - **[[World Society Theory|世界文化理论]]阵营的批评**：Meyer 等学者认为，许多政策趋同并非源于工具性借用，而是全球文化规范通过国际组织（[[OECD]]、UNESCO）的长期扩散——决策者可能真诚地相信这些规范，而非仅仅操纵它们。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482 对世界文化理论的概述]])
 - **Steiner-Khamsi 的回应** 政策借用框架并不否认跨国学习的存在——区分"借用"（政治驱动、选择性、仪式性）和"学习"（开放、实质性交流）正是为了容纳这两种现象。问题在于实践中两者常常交织。（基于 Steiner-Khamsi, 2012）
 
-**目前状态**[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 的 [[Liberal Studies|LS]] 案例为政策借用框架提供了有力支持——创立阶段的 IBDP 参照确实展现出工具性特征（政府先有方案再建构问题），但 LS 废除阶段全球话语完全消失的现象也从反面印证了"借用话语是一种政治策略"这一核心[[Hypothesis|假设]]。
+**目前状态**[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 的 [[Liberal Studies|LS]] 案例为政策借用框架提供了有力支持——创立阶段的 [[IB Diploma Programme|IBDP]] 参照确实展现出工具性特征（政府先有方案再建构问题），但 LS 废除阶段全球话语完全消失的现象也从反面印证了"借用话语是一种政治策略"这一核心[[Hypothesis|假设]]。
 
 ### 适用范围有限：只关注国家政策
 
@@ -238,7 +242,7 @@ Phillips & Ochs (2003) 将政策借用过程分解为[[Cross-National Attraction
 > [!example] 相关研究
 > - [[Argument_Yan_2025_JCS]] — 以 [[Liberal Studies|LS]] 创立与废除为案例，展示政策借用框架的解释力及其在高压政治语境下的失效边界
 > - [[Argument_Rappleye_2006_RCIE]] — 提出[[Cross-National Attraction|跨国吸引]]力情境概念地图，为政策借用第一阶段提供系统化分析工具
-> - Forestier et al. (2016) — LS 与 IBDP 的系统逐项比较，揭示选择性借用的具体机制
+> - Forestier et al. (2016) — LS 与 [[IB Diploma Programme|IBDP]] 的系统逐项比较，揭示选择性借用的具体机制
 > - You & Morris (2016) — 英格兰如何参照东亚模式论证[[School Autonomy|学校自主权]]改革
 > - [[Argument_Golovchin_2019_ESC]] — [[Visible Learning|VL]] 在俄罗斯的政策借用分析，展示方法论与文化匹配度如何导致建议拒绝借用
 

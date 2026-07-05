@@ -160,10 +160,13 @@ citation_aliases:
 > [!claim] 步骤一主张
 > 国际关系的三大思想传统对国际社会性质有着截然不同的底层设定，这决定了学术研究和政策实践对国家行为模式的规范性预期(p.417)。
 
-> [!spectrum] 怀特[[Wight's Three Traditions of International Theory|国际关系三大传统]]
-> - **现实主义（Realism）** 尼科洛·马基雅维利（Niccolò Machiavelli）的传统。把主权领土国家视为国际政治的主要行动者，将国际政治看作自利国家之间的权力斗争。由于不存在中央权威，国际社会是一个自助竞技场（self-help arena），不安全与冲突是常态，稳定源于霸权或均势。其核心概念是权力(pp.417–418)。
-> - **理性主义（Rationalism）** 雨果·格劳秀斯（Hugo Grotius）的传统。认为无政府状态可以通过多边主义和法律约束得到缓解。国家虽然不服从一个上级，但仍然构成一个真正的社会，尽管制度上存在缺陷。其核心概念是权威，即因符合道德原则而获得正当性、能获得合作的权力(pp.418–419)。
-> - **[[Revolutionism|革命主义]]（Revolutionism）** 伊曼纽尔·[[Immanuel Kant|康德]]（Immanuel Kant）的传统。不把政治视为国家间关系，而是视为构成国家的个体与群体之间的关系。其终极理想是一个普遍的人类共同体，要求所有人为人类博爱而工作。其核心概念是武力，即推翻权力以执行革命教义、重建秩序的能力(p.419)。
+> [!theory-components] 怀特[[Wight's Three Traditions of International Theory|国际关系三大传统]]
+> - **现实主义（Realism）**
+>   尼科洛·马基雅维利（Niccolò Machiavelli）的传统。把主权领土国家视为国际政治的主要行动者，将国际政治看作自利国家之间的权力斗争。由于不存在中央权威，国际社会是一个自助竞技场（self-help arena），不安全与冲突是常态，稳定源于霸权或均势。其核心概念是权力(pp.417–418)。
+> - **理性主义（Rationalism）**
+>   雨果·格劳秀斯（Hugo Grotius）的传统。认为无政府状态可以通过多边主义和法律约束得到缓解。国家虽然不服从一个上级，但仍然构成一个真正的社会，尽管制度上存在缺陷。其核心概念是权威，即因符合道德原则而获得正当性、能获得合作的权力(pp.418–419)。
+> - **[[Revolutionism|革命主义]]（Revolutionism）**
+>   伊曼纽尔·[[Immanuel Kant|康德]]（Immanuel Kant）的传统。不把政治视为国家间关系，而是视为构成国家的个体与群体之间的关系。其终极理想是一个普遍的人类共同体，要求所有人为人类博爱而工作。其核心概念是武力，即推翻权力以执行革命教义、重建秩序的能力(p.419)。
 
 > [!exegesis]- 从国际关系到比较教育的逻辑转化
 > 三个传统各自提供了一种对国际社会性质的理解。这些理解不是中立的学术框架，而是从根本上定义了三个核心问题：什么值得比较、如何比较、比较服务于什么目的。
@@ -195,15 +198,15 @@ citation_aliases:
 > [!case] 案例三：日本明治维新的多源借鉴
 > 向他者学习的惯用语随着国际舞台吸收新成员而扩展。19世纪50年代，日本面对美国海军的“黑船”冲击，暴露出自身在技术与军事上的严重劣势。日本决策者将教育视为西方优越性的核心“秘密钥匙”之一（Passin 1965）。为了获取平等的国际地位并免受殖民威胁，他们在明治维新期间进行了令人瞩目的、极具现实主义色彩的多源政策借鉴：向美国学习学校制度，向法国学习教育行政和中央集权模式，而德国（普鲁士）则成为其建设帝国现代大学的范本（Tanaka 2005）。这折射出明治时期的日本对国际权力格局和自助安全状态的精准判断，通过选择性的多源借用来提升主权生存能力（p.420）。
 
-> [!case] 案例四：[[Sputnik Shock 1957|Sputnik]] 冲击与美国的教育重构
-> 1957年苏联成功发射 Sputnik 卫星，对美国造成了巨大的国家安全与科技领先地位的冲击。这一事件挑战了美国自认为在二战后已在科学、技术和教育领域取得全球绝对领先的信念。为了恢复地缘霸权并赢得冷战，美国通过了《国防教育法》（NDEA, 1958），采取了双重转向的教育改革：在中学和大学层面，美国拥抱苏联对科学、数学与外语的重视以振兴国防教育（Tröhler 2013）；在小学层面，则转向英国的儿童中心教学法以重振初等教育的活力（Ravitch 1983）。
-> 
-> 这一由 Sputnik 冲击所建立的由“教育质量推动科技能力，并以此提升国家竞争力”的政策逻辑链，直接将教育视为主权防卫与冷战生存的工具，后来被[[OECD\|经济合作与发展组织]]（OECD）的[[PISA\|国际学生评估项目]]（PISA）等国际比较评估制度化（p.420）。
+> [!event-context] 案例四：[[Sputnik Shock 1957|Sputnik]] 冲击与美国的教育重构
+> - **时间地点** 1957年，美国与苏联。
+> - **关键主体** 美国联邦政府、苏联太空科学机构。
+> - **触发条件** 1957年苏联成功发射首颗人造卫星 Sputnik。
+> - **制度背景** 为了恢复地缘霸权并赢得冷战，美国通过《国防教育法》（NDEA, 1958）进行双重转向改革：中大学拥抱苏联对科学、数学与外语的重视以振兴国防教育（Tröhler 2013）；小学转向英国的儿童中心教学法以重振初等教育（Ravitch 1983）。这建立了“教育质量推动科技能力与国家竞争力”的逻辑链，后来被 [[OECD]] 的 [[PISA]] 等评估机制化(p.420)。
 
-> [!case] 案例五：冷战时期两个德国的对立比较
-> 国际无政府状态还使对他者进行负面描绘成为验证自身国际位置的手段。最鲜明的例证来自冷战时期的两个德国及其代表的两个对抗集团。在冷战的核心地带，西德创建了法兰克福的德国[[International Education\|国际教育]]研究所和波鸿大学的比较教育研究单元。在沃尔夫冈·米特（Wolfgang Mitter）与奥斯卡·安魏勒（Oskar Anweiler）的领导下，两个中心将研究议程与西德的反共策略对齐，系统性地比较西德与东德的教育（特别是东德的理工科学校），以识别其“极权主义特征”并保持两个系统之间的安全距离（Waterkamp 2008）。
-> 
-> 在铁幕的另一边，苏联和其他社会主义国家的教育科学院比较教育部门同样将工作与华沙条约集团的反资本主义地缘策略对齐。这些部门产出了大量针对资本主义国家教育的研究，旨在记录资本主义教育系统在阶级不平等方面“比社会主义落后了多少”（Steiner-Khamsi 2006, p.40）。比较教育在此成为了冷战地缘博弈和意识形态对抗的直接工具（p.420）。这导致比较教育学者的研究议程在实质上扮演了国家安全机器与话语动员的分支角色。
+> [!tension] 案例五：冷战时期两个德国的对立比较
+> - **西德及资本主义阵营（蓝方）** 建立德国[[International Education|国际教育]]研究所等机构，对接反共地缘策略，系统比较西德与东德教育以识别其“极权主义特征”并保持安全距离。(Waterkamp 2008)
+> - **东德及社会主义阵营（红方）** 教育科学院比较教育部门对接华沙条约集团反资本主义策略，研究资本主义教育在阶级不平等方面“比社会主义落后多少”。(Steiner-Khamsi 2006, p.40)
 
 > [!case] 案例六：比较教育的黑暗面：文明化工程与殖民参与
 > 现实主义还生产了比较教育的“黑暗面”（Hayhoe and Mundy 2008），即比较教育参与殖民扩张与文明化工程。在无政府状态下，国家不仅在国内竞争，也争夺海外权力的扩张。在海外扩张的斗争中，列强将教育输出定位为对国际社会之外土地与民族进行政治控制和经济剥削的核心手段。
@@ -233,7 +236,7 @@ citation_aliases:
 > [!evidence-grid-a] 在场（Presences）
 > - **以国家为分析单位** 聚焦于国家管理和运行的公共学校系统。
 > - **探究[[Policy Borrowing|政策借用]]与吸引** 揭示国家因实力焦虑向竞争对手借用教育制度的诱因(p.420)。
-> - **[[Reference Society in Education|参照社会]]的建构** 阐明强国如何被奉为参照社会，而地缘对手如何成为反参照社会。
+> - **[[Reference Society|参照社会]]的建构** 阐明强国如何被奉为参照社会，而地缘对手如何成为反参照社会。
 > - **推动方法论科学转向** 促成了1970年代旨在精密化政策转移的方法论大讨论。
 
 > [!evidence-grid-b] 缺席（Absences）
@@ -252,10 +255,10 @@ citation_aliases:
 > [!claim] 步骤三主张
 > 从理性主义视角出发，全球治理机制和多边主义的兴起，将比较教育从国家主导的借用工具重塑为分析分散权威（dispersed authority）的治理平台，并将比较本身重构为一种远处治理的政治技术(p.425)。
 
-> [!case] 案例一：[[Government to Governance Shift|从管理到治理]]与[[Methodological Nationalism|方法论国家主义]]批判
-> 随着全球制度和治理机制的兴起，21世纪初比较教育内部产生了一种信念，即比较教育正处于一个“时代的终结”（Carney 2010）。国家现在被锁定在日益密集和重叠的跨国关系网络中，并将部分权力让渡给超国家权威机构，民族国家就不再是所有分析注意力的唯一焦点。也不能继续把国家当作唯一或最关键的教育行动者，不能继续把教育等同于大众学校教育。
-> 
-> 罗杰·戴尔（Roger Dale）和苏珊·罗伯逊（Susan Robertson）（2009, p. 1113）的批判指出：在全球化世界中强调国家教育系统不仅是方法论[[Soviet Statism|国家主义]]（methodological nationalism），还是方法论国家中心主义（methodological statism）与方法论教育主义（methodological educationism）。这三种预设叠加运作，将国家假设为分析的自然单位、教育的唯一行动者和比较的唯一标准。这一理性主义转向瓦解了现实主义以民族国家为单一主权的分析教条，把跨国教育空间作为分散权威（dispersed authority）的治理格局进行考察。
+> [!critique-method] 案例一：对方法论国家主义的学术批判
+> - **方法论国家主义（Methodological Nationalism）** 将民族国家假设为分析的自然与唯一单位。(Dale & Robertson, 2009, p. 1113)
+> - **方法论国家中心主义（Methodological Statism）** 将国家假设为教育的唯一行动者和决策者。(Dale & Robertson, 2009, p. 1113)
+> - **方法论教育主义（Methodological Educationism）** 将教育等同于大众学校教育，忽略了广泛的非国家与跨国教育空间。(Dale & Robertson, 2009, p. 1113)
 
 > [!case] 案例二：比较教育作为治理模式：基准测试与大数据
 > 比较教育的注意力从政府转向治理。教育不再被理解为国家的单向输出，而是被视为分散权威在跨国乃至全球知识网络中复杂的互动产物。一些研究关注超国家实体如欧盟（Alexiadou 2007）和国际组织如世界银行在知识联盟和教育伙伴关系中的角色；另一些研究关注慈善事业、商业和 NGOs 的参与（Verger et al. 2016）；还有研究关注 PISA 等评估及其对国家教育政策的远程工具化诱导（Martens and Niemann 2013）。
@@ -269,21 +272,34 @@ citation_aliases:
 > 
 > 约瑟夫·劳维斯（[[Joseph Lauwerys\|Joseph Lauwerys]]）作为英国第一位比较教育教授（1947）与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）首任主席（1961–1967），致力于国际理解与科学人道主义。劳维斯深度参与了 UNESCO 早期的专家会议与教育代表团（Cowen 2020）。CESE 的建立本身就源于国际合作的政治，尤其是劳维斯与 Saul Robinsohn（当时的联合国教科文组织教育研究所所长）的密切协作。该学会的早期目标是促进欧洲内部的学术交流与民主化改革，这表明比较教育学科的大学建制化、专业学术网络的建立与和平多边政治深度纠缠（p.424）。
 
-> [!case] 案例四：身份多元性与[[Global Citizenship|全球公民]][[Educated Identity\|受教育身份]]
-> 在理性主义的世界中，民族国家不再是身份认同的唯一来源。比较教育关于受教育者意味什么的分析超越了国家范畴，转向身份多元性与交叉性议题（Klerides and Carney 2021）。性别、族裔、区域、能力、消费主义和职业等身份标记，成为广泛的跨国分析单位。
-> 
-> 受教育者不再单被视为民族文化的产物（Hans 1958），还被关联至：跨文化能力（欧洲委员会）、尊重人权（UNESCO）、生态敏感性（绿色和平组织）和经济生产力（OECD）。全球公民（global citizenship）被提出作为不同受教育者身份碎片的伞状术语，既呼应了国际社会的理念，也因其“概念的模糊性”招致广泛的学术批判（Oxley & Morris 2013; Hobson & Silova 2014, p.425）。
+> [!feature] 案例四：身份多元性与[[Global Citizenship|全球公民]][[Educated Identity\|受教育身份]]
+> - **民族文化产物** 传统的受教育者定义，将个体视为特定民族国家历史文化的缩影。(Hans 1958)
+> - **跨文化能力** 欧洲委员会等跨国机构倡导的，旨在适应全球多元文化共处的特质。(Klerides & Carney, 2021)
+> - **尊重人权与生态** 联合国教科文组织（UNESCO）及NGOs等推动的普遍道德、生态与人权关怀。
+> - **经济生产力** 经合组织（OECD）将受教育者界定为符合全球市场效率需求的人力资本。
 
-> [!case] 案例五：转移的再概念化与多行动者网络
-> 转移也被重新铸造为一个复杂的、多元主义的、不可预测的过程。毕奇（[[Argument_Beech_2009_CE\|Beech 2009]]）指出，在全球化世界中，国家仍然是转移业务中的关键玩家，但多边组织、NGOs、[[Policy Entrepreneur\|政策企业家]]和跨国公司也在参与，其工作交叉甚至绕过国家边界。在循证政策的口号下，所有行动者以复杂的方式[[Snowball Sampling\|网络化]]以制定和实施政策。
-> 
-> 此时，[[Actor-Network Theory\|行动者网络理论]]（ANT）被广泛引入以分析多行动者在[[Knowledge Production\|知识生产]]与流通中的互动（Schulte 2012）。“旅行政策”（travelling policies）和“流动话语”（flowing discourses）等概念被创造，以承认许多新自由主义改革的不明轨迹，而“协调”（harmonisation）和“标准化”（standardisation）等概念则被用来探索国家政策与区域教育空间的对齐（Steiner-Khamsi and Waldow 2012）。
+> [!actor-grid] 案例五：教育政策转移中的多行动者网络
+> - **多边组织（Multilateral Orgs）** 如世界银行、经合组织等，通过贷款、标准与评估引导全球政策方向并促成标准化。(Steiner-Khamsi & Waldow, 2012)
+> - **非政府组织（NGOs）** 在草根和地方层面上网状化互动，扮演全球政策流动与地方实践之间的协调者。
+> - **政策企业家（Policy Entrepreneurs）** 跨越学术、商业和政界边界，在循证政策口号下极力推销特定的改革方案。
+> - **跨国公司（MNCs）** 推动教育服务的私有化与商业化，提供技术平台并深度卷入教育供给。[[Argument_Beech_2009_CE|Beech, 2009]]
 
-> [!case] 案例六：世界文化辩论
-> 理性主义开启了世界文化辩论(Carney et al., 2012)：
-> - **[[World Society Theory|世界文化理论]]家（Meyer & Ramirez, 2000）** 将转移视为一个共识性的内化过程。西方思想被个体和国家采用，作为归属于世界社会（world society）的理性行动，转移方向是从西方到世界的单向扩散。
-> - **趋同的批评者（Schriewer, 2012）** 探索全球现象的地方变异。他们质疑行动者不加反思地采用普遍规范的论点，突出全球思想的本土化与拒绝。
-> - **全球与地方联结论者** 则认为，转移不仅是模仿，也是强制和不平等权力关系的产物，将转移研究重新拉回权力的讨论中(p.426)。
+> [!debates] 案例六：世界文化辩论的三个立场
+> 
+> > [!axis] 世界文化理论（World Society Theory）
+> > 将政策转移视为共识性的内化与扩散过程，西方现代教育模型被作为理性化模型全球单向采用。
+> > 
+> > - **Meyer & Ramirez (2000)** 认为国家采用西方教育模式是为了彰显自身作为世界社会合法成员的身份。(Meyer & Ramirez, 2000)
+> 
+> > [!axis] 本土变异与自创生（Local Variation）
+> > 质疑全球规范被无反思采纳的观点，强调教育系统的自我参照性，突出地方文化的抵制与选择性本土化。
+> > 
+> > - **Schriewer (2012)** 探索全球化教育现象在不同本土脉络下的“外部化”与自创生变异。(Schriewer, 2012)
+> 
+> > [!axis] 全球与地方联结论（Global-Local Linkages）
+> > 认为政策转移绝非中立的自愿模仿或纯粹的文化融合，而是充满强制和不平等权力关系的产物。
+> > 
+> > - **全球与地方联结学者** 强调教育转移背后隐藏的新帝国主义资本积累和强制性干预。(Carney et al., 2012, p. 426)
 
 > [!evidence-grid-a] 在场（Presences）
 > - **跨国与全球治理分析** 照亮了多行动者网络、国际组织、慈善事业及跨国公司的政策影响力。
@@ -326,18 +342,22 @@ citation_aliases:
 > 
 > 另一批研究聚焦殖民主义对宗主国自身的影响。大卫·库尔比（David Coulby）等人（1997）探索了多元文化主义者对学校知识欧洲中心主义的质疑，以及他们与试图重塑学校教育传统特征以阻碍种族包容的“文化复原主义者”之间的冲突。此外，西方媒体对东亚 PISA 成功的反应，被批判为夹杂着地缘焦虑的[[Orientalism\|东方主义]]（orientalism）遗产，即亚洲人既被视为灵感又被视为威胁（Takayama 2018a; You 2019; Grey & Morris 2022，p.428）。
 
-> [!case] 案例五：再西方化与新帝国主义批判
-> 去殖民视角下，全球治理被重新铸造为新帝国主义或更精巧的帝国（Cowen 2018）。经济合作与发展组织（OECD）被重构为“知识的现代化新帝国”（Klerides et al. 2014），PISA 等治理形式被解读为“平庸的帝国主义”（banal imperialism），通过大数据的日常生产和流通再生产对非西方的他者化（Silova and Auld 2019）。
-> 
-> 比较本身也被沿革命主义路线[[Revoicing\|重铸]]：它创建了一个将教育与经济增长挂钩的欧洲中心主义的发展模型，并通过向非西方传递需要追赶西方的信息来强制执行这一模型（Silova and Auld 2019）。全球公民也被重新定义为一种由西方新自由主义经济教义（竞争力与企业家精神）标记的受教育者身份。教育转移被重读为一个从西方到非西方的单向流出和强加过程（Silova, Rappleye, and Auld 2020，p.428）。
+> [!critique] 案例五：去殖民视角下对再西方化与新帝国主义的批判
+> - **对国际组织治理的定位** 将经合组织（OECD）重构为“知识的现代化新帝国”，将 PISA 评估体系解读为“平庸的帝国主义”。(Klerides et al., 2014; Silova & Auld, 2019)
+> - **对“比较”实践本身的解构** 认为主流比较研究是在推行与经济增长挂钩的欧洲中心主义发展模型，强制非西方国家追赶西方。(Silova & Auld, 2019)
+> - **对“全球公民”概念的批判** 揭示其本质是由西方新自由主义经济教义（竞争力与企业家精神）所标记的受教育者身份。
+> - **对“教育转移”现象的重读** 将教育流动的轨迹重读为从西方到非西方的单向流出和强加过程。(Silova et al., 2020)
 
-> [!case] 案例六：比较教育自身的帝国与殖民认识型重铸
-> 革命主义最激进的贡献在于，它将比较教育本身（而非仅仅是其特定观念）投射为一种帝国与殖民认识型。其起源常被追溯到马克-安托万·朱利安（Marc-Antoine Jullien）1816/17 年的计划，但这个起源本身扎根于欧洲扩张及其伴随的旅行、观察和差异分类实践(Sobe, 2017)。
+> [!critique-fatal] 案例六：比较教育自身的帝国与殖民认识型重铸
+> 革命主义将整个比较教育学科投射为一种帝国与殖民认识型：
 > 
-> 这一认识型与殖民性的纠缠至今仍然明显：英语被选择为知识生产和流通的语言，西方理论被用来解释非西方现实，非西方现实被用来作为西方理论化的经验数据和[[Case Study|案例研究]]来源，以及英国、北美和西欧学者在该领域有影响力期刊编辑团队中的主导地位(Takayama, Sriprakash, and Connell, 2017)。
+> 1. **历史起源的殖民纠缠**：朱利安（Jullien, 1817）的学科奠基计划扎根于欧洲列强扩张过程中的旅行、观察和差异分类实践。 (Sobe, 2017)
+> 2. **知识生产的权力垄断**：英语作为学术主导语言、西方理论解释非西方经验（而非反之）、欧美学者在顶级期刊编委会中的主导权。(Takayama et al., 2017)
 
-> [!case] 案例七：去殖民可能性的开辟
-> 创造去殖民性的条件意味着赋予从属者及其认知方式以发言权。例如，指出南南[[Knowledge Exchange|知识交流]]的存在(Hickling-Hudson, 2004)，赋予东方教学模式以可[[Reliability|信度]](Komatsu & Rappleye, 2017)，或突出原住民对殖民政策的抵抗(Klerides, 2021)。最重要的是，创造去殖民性的条件意味着将比较教育与西方地平线脱钩，并将其链接到南方理论和其他替代[[Epistemology|认识论]](Takayama, Sriprakash, and Connell, 2017)。
+> [!pathways] 案例七：去殖民比较教育的开辟路径
+> - **南南知识交流（South-South Exchange）** 突破东西/南北单向流动，探索南方国家之间的知识互惠与合作。(Hickling-Hudson, 2004)
+> - **非西方教学模式的信度确立** 论证东亚等非西方传统教学经验的理论合法性，打破西方普适标准。(Komatsu & Rappleye, 2017)
+> - **南方理论与原住民认知联结** 引入南方理论（Theory from the South），突出原住民抗争，实现与西方地平线的脱钩。(Klerides, 2021; Takayama et al., 2017)
 
 > [!evidence-grid-a] 在场（Presences）
 > - **解构支配与依附结构** 照亮了“中心-边缘”的资本主义剥削网络及教育在此过程中的共谋。
@@ -361,7 +381,7 @@ citation_aliases:
 > [!claim] 步骤五主张
 > 三大传统并非替代性的历史分期，而是共存且交叉于学科过去的理论形态；学科的[[Agendas of Attention|注意力议程]]必然随着国际关系格局的转变而重新分配(p.431)。
 
-> [!note]- 比较教育是国际关系的产物与学科矛盾保持的解释
+> [!conclusion]- 比较教育是国际关系的产物与学科矛盾的解释
 > 三大传统不是比较教育从现实主义演变为理性主义再到革命主义的关系。它们是共存的思想传统，同时运作于比较教育的过去和现在，构成本领域的多重、竞争和交叉的身份与历史。
 > 
 > 比较教育内部的长期矛盾由此获得了深层解释。例如，政策借用与情境理解之间的张力，不是方法论的分歧，而是现实主义预设（国家竞争）与反现实主义预设（文化差异）之间的张力。技术治理与批判解放之间的张力，不是政治立场的差异，而是理性主义预设（合作与规则）与革命主义预设（支配与抗争）之间的张力。这些张力是不可消除的，因为它们根植于对国际社会性质的最深层理解(p.431)。
@@ -374,12 +394,16 @@ citation_aliases:
 > [!case] 案例二：中国的“去西方化”挑战
 > 中国的挑战与经济而非军事更为相关。北京拒绝华盛顿的经济教义，但寻求的不是变革世界经济秩序，而是从美国手中夺取对它的控制。不加约束的资本主义扩张与儒家家族主义式民族主义的结合，展示了中国对这一秩序的承诺。
 > 
-> 瓦尔特·米尼奥罗（[[Walter Mignolo]]）（2011, p. 47）指出，中国的去西方化（dewesternisation）与美国的再西方化（rewesternisation）共享资本主义的生存，对抗发生在殖民权力矩阵的其他层面：权威的领域、知识的领域和主体性的领域。如果中国掌握了全球经济和组织的领导权并在东亚形成新的集团，将产生什么样的教育修辞和制度？这都将在比较教育中产生新的注意力议程(p.430)。
+> 瓦尔特·米尼奥罗（[[Walter Mignolo]]）（2011, p. 47）指出，中国的去西方化与美国的再西方化共享资本主义的生存，对抗发生在殖民权力矩阵的其他层面（权威、知识与主体性领域）。这将在比较教育中产生新的注意力议程(p.430)：
+> 
+> > [!tension] 再西方化 vs 去西方化
+> > - **美国的再西方化（Re-Westernisation）** 旨在维护西方启蒙以来的知识、制度和意识形态的统治地位。[[sources/Klerides_2023_CE|(Mignolo, 2011, p. 47)]]
+> > - **中国的去西方化（De-Westernisation）** 依托经济实力在权威、知识和主体性层面挑战西方霸权，但底层仍与资本主义共存。[[sources/Klerides_2023_CE|(Mignolo, 2011, p. 47)]]
 
-> [!note]- 重返档案与最终的学科难题
+> [!challenges]- 重返档案与最终的学科难题
 > 在向前走之前，比较教育需要首先回头审视自身的档案。国际关系中有大量议题与比较教育的联系尚未被挖掘：战争、革命、干预、集团主义、和平、外交和他者性。例如，如何从攻势现实主义（aggressive realism）的角度阐述巴尔干半岛受教育者身份与19世纪末20世纪初列强对奥斯曼欧洲领土竞争的联系？如何从革命理想主义（revolutionary idealism）的角度阐述同一地区20世纪末21世纪初教育转移在国际和解政治中的地位？(p.430)
 > 
-> 三大传统之所以关键，是因为它们揭示了学术工作的底层价值，促进对学术工作在历史和政治上再生产或反对谁的权力的批判反思。
+> 三大传统之所以关键，是因为它们揭示了学术工作的底层价值，促进对学术工作在历史和政治上再生产或反对谁...的权力的批判反思。
 > 
 > 三大传统最终提出了一个更困难的未来难题：如何书写一个不被理性主义的乐观主义单独引导、不被革命主义的道德激情单独引导、同时包含现实主义（而非犬儒主义）味道的比较教育史？(p.431)
 
@@ -401,28 +425,24 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card]- 理论反思的缺失
-> 比较教育在反思自身与国际关系的关系时，存在着长期的系统性缺失。
+> 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。[[sources/Klerides_2023_CE|(Klerides, 2023, p. 416)]]
 > 
-> "we have never used the lens of international theory in a systematic way to articulate our [[Champ|field]]'s identity, history and future"(p.416)
-> 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。
+> *We have never used the lens of international theory in a systematic way to articulate our [[Champ|field]]'s identity, history and future.*
 
 > [!citation-card]- 国际预设决定学术实践
-> 学术界对国际社会的设想，直接决定了比较教育的具体走向。
+> 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。[[sources/Klerides_2023_CE|(Klerides, 2023, p. 417)]]
 > 
-> "what we practise as 'comparative education' is the effect of the way(s) in which we understand, consciously or unconsciously, the nature of international society and its politics, as well as how its main actors (should) conduct themselves in it"(p.417)
-> 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。
+> *What we practise as 'comparative education' is the effect of the way(s) in which we understand, consciously or unconsciously, the nature of international society and its politics, as well as how its main actors (should) conduct themselves in it.*
 
 > [!citation-card]- 怀特传统的政治价值
-> 引入国际关系传统，旨在剥离客观中立的伪装，叩问知识为谁的权力服务。
+> 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。[[sources/Klerides_2023_CE|(Klerides, 2023, p. 431)]]
 > 
-> "the three traditions are crucial because they unveil the underlying values of our work, facilitating critical reflections on the issue of whose power we are historically and politically reproducing, or opposing, in and through this work"(p.431)
-> 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。
+> *The three traditions are crucial because they unveil the underlying values of our work, facilitating critical reflections on the issue of whose power we are historically and politically reproducing, or opposing, in and through this work.*
 
 > [!citation-card]- 比较教育史的未来难题
-> 摆脱盲目乐观与道德狂热，寻求一种现实的、有温情的学科叙事。
+> 中文译文：我们如何以既不单被理性主义的乐观所引导，也不单被革命主义的道德激情所引导，同时又包含现实主义色彩（而非其犬儒主义）方式来书写这一领域？[[sources/Klerides_2023_CE|(Klerides, 2023, p. 431)]]
 > 
-> "how do we write about the field in ways that are not simply guided by the optimism of rationalism nor the moral passion of [[Revolutionism]], but that also include a realist(ic) flavour without its cynicism?"(p.431)
-> 中文译文：我们如何以既不单被理性主义的乐观所引导，也不单被革命主义的道德激情所引导，同时又包含现实主义色彩（而非其犬儒主义）方式来书写这一领域？
+> *How do we write about the field in ways that are not simply guided by the optimism of rationalism nor the moral passion of [[Revolutionism]], but that also include a realist(ic) flavour without its cynicism?*
 
 ---
 
