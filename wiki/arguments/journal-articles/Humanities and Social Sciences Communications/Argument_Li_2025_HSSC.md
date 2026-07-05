@@ -2,16 +2,16 @@
 summary: "系统综述 85 篇实证研究，分析 PISA 对全球基础教育改革在质量与公平两个核心维度上的影响，提出超国家—国家—内部行动者网络三层政策影响机制模型"
 type: argument
 authors:
-  - "Jian Li"
-  - "Eryong Xue"
-  - "Siyuan Guo"
+  - "[[Jin Li|Li, J.]]"
+  - "Xue, E."
+  - "Guo, S."
 source_language: en
 citation: "Li, J., Xue, E., & Guo, S. (2025). The effects of PISA on global basic education reform: A systematic literature review. *Humanities and Social Sciences Communications*, *12*, 106."
 year: 2025
 doi: "10.1057/s41599-025-04403-z"
 citation_aliases:
-  - "Jian Li et al., 2025"
-  - "Jian Li et al. (2025)"
+  - "Li et al., 2025"
+  - "Li et al. (2025)"
 isbn: ""
 tags:
   - pisa
@@ -76,9 +76,9 @@ title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 34
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Humanities and Social Sciences Communications"
 book_title: ""
@@ -101,7 +101,7 @@ issuing_organization: ""
 > - **RQ3** 什么因素影响 PISA 的效果，即在什么条件下 PISA 对国家政策制定产生影响力？
 
 > [!claim] 核心主张
-> PISA 通过追求教育质量、数据驱动的比较分析和循证[[Paradigm|研究范式]]，推动全球教育质量与公平的政策讨论。PISA 的影响远超其最初测量国家间教育质量的功能，通过软治理深刻影响全球教育治理格局。这一影响机制并非 [[OECD]] 到国家的线性传递，而是在**超国家组织**（软治理与[[Reference Society in Education|模范社会]]塑造）、**国家层面**（自我认知落差、文化-制度[[Transfer Translation Transformation|转译]]与[[Policy Borrowing|政策借用]]）和**内部行动者网络**（政策制定者、政党、协会、媒体的信息诠释与传递）三个层级的**双向互动**中实现的。
+> PISA 通过追求教育质量、数据驱动的比较分析和循证[[Paradigm|研究范式]]，推动全球教育质量与公平的政策讨论。PISA 的影响远超其最初测量国家间教育质量的功能，通过软治理深刻影响全球教育治理格局。这一影响机制并非 [[OECD]] 到国家的线性传递，而是在**超国家组织（软治理与[[Reference Society in Education|模范社会]]塑造）**、**国家层面（自我认知落差、文化-制度[[Transfer Translation Transformation|转译]]与[[Policy Borrowing|政策借用]]）**和**内部行动者网络（政策制定者、政党、协会、媒体的信息诠释与传递）**三个层级的**双向互动**中实现的。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 85 篇 PISA 影响教育政策的实证研究（SSCI 与 Scopus 数据库，截至 2023 年 9 月 13 日）。
@@ -119,7 +119,7 @@ issuing_organization: ""
 > | **当代人力资本理论与全球化治理框架**<br>Contemporary Human Capital Theory & Governance Frameworks | Sellar & Lingard（2018）用以解释 PISA 如何将教育投入与学生知识技能产出联系起来，为分析全球化与教育治理提供人力资本视角。 |
 > | **教育政策自愿趋同的因果机制理论**<br>Causal Mechanism Theory of Voluntary Convergence | Bieber & Martens（2011）通过建立教育政策自愿趋同的[[Causality\|因果]]机制框架，分析跨国沟通（cross-border communication）、规制竞争（regulatory competition）和独立问题解决（independent problem-solving）如何导致政策趋同。 |
 > | **体用框架**<br>Ti-Yong（体用）Framework | Xie et al.（2022）借用中国自古以来解释中西关系的体用框架：体指事物根本、内在和本质的性质，用指体之表现与功能。该框架用于分析中国在 PISA 外部影响下处理问题的政治行动。 |
-> | **[[Actor-Network Theory\|行动者网络理论]]** | 将权力视为与知识、主体地位和参与者身份交织的治理网络。Sellar & Lingard（2018）指出政治情感（political sentiment）是[[Theories of Policy Change\|政策变革]]的重要杠杆；情感理论框架和批判话语分析有助于分析文本材料中的支配、权力和控制结构关系。 |
+> | **[[Actor-Network Theory\|行动者网络理论]]** | 将权力视为与知识、主体地位和参与者身份交织的治理网络。该框架指出政治情感（political sentiment）是[[Theories of Policy Change\|政策变革]]的重要杠杆；情感理论框架和批判话语分析有助于分析文本材料中的支配、权力和控制结构关系。 |
 
 > [!warrant]- 理论如何支撑论证
 > 上述理论分别对应 PISA 影响机制的三个层级：议程设置理论解释国家层级的触发条件（自我认知落差）；政策[[Convergence Theory in Comparative Education|趋同理论]]和人力资本理论解释超国家层级的软治理运作（跨国沟通、规制竞争）；行动者网络理论和体用框架解释内部行动者网络如何[[Transfer Translation Transformation|转译]]和传递 PISA 信息（[[Policy Network|政策网络]]中的动态博弈、文化-制度转译）。这些理论被整合到以**质量**和**公平**为核心维度的统一[[Analytic Framework|分析框架]]中。
@@ -275,7 +275,7 @@ issuing_organization: ""
 ### 论证步骤四：三层机制模型
 
 > [!claim]
-> PISA 对各国教育政策的影响不是直接的[[Causality|因果]]效应，而是在**超国家组织（OECD 的软治理与模范社会塑造）**、**国家层面**（自我认知落差、文化-制度转译与[[Policy Borrowing|政策借用]]）和**内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）**三个层级的交互作用下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。该模型揭示了 PISA 与教育改革之间的双向互动：PISA 通过超国家层级的软治理影响国家政策，各国也通过选择性政策借用和内部行动者转译来主动回应和重新解释 PISA 信息。
+> PISA 对各国教育政策的影响不是直接的[[Causality|因果]]效应，而是在**超国家组织（OECD 的软治理与模范社会塑造）**、**国家层面（自我认知落差、文化-制度转译与[[Policy Borrowing|政策借用]]）**和**内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）**三个层级的交互作用下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。该模型揭示了 PISA 与教育改革之间的双向互动：PISA 通过超国家层级的软治理影响国家政策，各国也通过选择性政策借用和内部行动者转译来主动回应和重新解释 PISA 信息。
 
 > [!factors] 第一层：超国家层级
 > - **OECD 的软治理模式**
@@ -287,7 +287,7 @@ issuing_organization: ""
 > - **跨国情境因素**
 >   跨国压力、国际局势、区域经济发展政策和当代教育政策的主导框架是重要的决定性条件。PISA 常被视为教育全球化的一部分，即使高排名国家（如芬兰）也面临借鉴教育思想和实践的压力。
 > - **欧洲的特殊复杂性**
->   在欧洲尤其难以将 PISA 的影响从欧盟委员会的倡议中分离出来。OECD 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。PISA 的教育概念框架与欧盟**里斯本战略**（Lisbon Strategy / Estratégia de Lisboa，全称里斯本议程 Lisbon Agenda，2000 年启动）紧密相连，广泛推动了欧盟国家以使欧洲成为新世纪最具活力的[[Knowledge-Based Economy|知识经济]]为目标的教育改革。
+>   在欧洲尤其难以将 PISA 的影响从欧盟委员会的倡议中分离出来。OECD 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。PISA 的教育概念框架与欧盟**里斯本战略（Lisbon Strategy / Estratégia de Lisboa，全称里斯本议程 Lisbon Agenda，2000 年启动）**紧密相连，广泛推动了欧盟国家以使欧洲成为新世纪最具活力的[[Knowledge-Based Economy|知识经济]]为目标的教育改革。
 
 > [!factors] 第二层：国家层面
 > - **两个关键触发条件**
@@ -343,13 +343,13 @@ issuing_organization: ""
 > | **内部行动者特征** | 政策制定者-媒体-公众形成改革共识 | 中央官员将成功归因于自身决策 | 中央行政精英权威强，国家科学韧性 | 政策迅速趋同 OECD 建议 | 分权结构限制联邦政府响应 | 政府强势 vs 教师/家长制衡 |
 
 > [!case] 案例 3：法国
-> Dobbins & Martens（2012）分析了法国与 OECD 的复杂关系。早期法国公众和政策制定者对 PISA 持**怀疑态度** 认为比较评估存在文化偏见、统计方法不充分、指标过度简化。然而 PISA 最终为法国教育政策带来了新动力。国际比较统计和评估不仅激发了关于法国体系缺陷的广泛公共辩论，还通过提供外国最佳实践的范例为具体教育改革提供了正当性。这一转变适用于旨在使法国教育体系与竞争性知识经济需求接轨的新近改革。在此背景下，对**芬兰模式**的暗示也为左右翼政治力量之间政策雄心的趋同提供了**机会之窗（window of opportunity）**（Dobbins & Martens, 2012）。
+> Dobbins & Martens（2012）分析了法国与 OECD 的复杂关系。早期法国公众和政策制定者对 PISA 持**怀疑态度** 认为比较评估存在文化偏见、统计方法不充分、指标过度简化。然而 PISA 最终为法国教育政策带来了新动力。国际比较统计和评估不仅激发了关于法国体系缺陷的广泛公共辩论，还通过提供外国最佳实践的范例为具体教育改革提供了正当性。这一转变适用于旨在使法国教育体系与竞争性知识经济需求接轨的新近改革。在此背景下，对**芬兰模式**的暗示也为左右翼政治力量之间政策雄心的趋同提供了**机会之窗（window of opportunity）（Dobbins & Martens, 2012）**。
 
 > [!case] 案例 4：韩国
 > Kim & Choi（2023）指出韩国政策回应的独特之处：PISA 之前韩国长期默然借用日本教育政策；PISA 2009 推动韩国将注意力转向芬兰，反映了参考社会从东亚邻国向西方高表现国家的**动态转换**。韩国的政治结构特征塑造了其回应方式：政府有非常强势的存在，新兴行动者（教育总督）正在分权化教育政策，教师和家长通过强大工会和频繁选举制衡政府权力，私营企业参与教育是禁忌。这些制度特征使韩国的政策回应融合了与许多西方国家不同的特点。
 
 > [!case] 案例 5：美国
-> Bieber & Martens（2011）比较了美国和瑞士的反应，揭示了一个看似矛盾的发现：PISA 对排名不佳的美国影响甚微，却对排名良好的瑞士产生了立即的政策趋同。美国的早期 PISA 发现只是确认了该国早已达成的共识，即美国教育体系低于国际标准，因此国内压力并未因实证发现而加剧。但在 2009 年，PISA 结果成为美国教育讨论的中心。问题的感知变化源自上海（中国）在同一次 PISA 测试中表现优异。作为美国在全球经济市场中最直接的竞争对手，这一表现被解读为中国未来经济产出将超过美国的信号，**直接触发了新一轮美国教育改革**（Martens & Niemann, 2013）。
+> Bieber & Martens（2011）比较了美国和瑞士的反应，揭示了一个看似矛盾的发现：PISA 对排名不佳的美国影响甚微，却对排名良好的瑞士产生了立即的政策趋同。美国的早期 PISA 发现只是确认了该国早已达成的共识，即美国教育体系低于国际标准，因此国内压力并未因实证发现而加剧。但在 2009 年，PISA 结果成为美国教育讨论的中心。问题的感知变化源自上海（中国）在同一次 PISA 测试中表现优异。作为美国在全球经济市场中最直接的竞争对手，这一表现被解读为中国未来经济产出将超过美国的信号，**直接触发了新一轮美国教育改革（Martens & Niemann, 2013）**。
 
 > [!case] 案例 6：南锥体国家
 > Acosta（2020）认为阿根廷、智利和乌拉圭等国 PISA 的价值在于其与 OECD 的**关联性**本身：通过实施 PISA 在教育体系层面与 OECD 建立联系，将国内教育事务纳入国家经济政策和国际事务议程，使国家成为可持续发展全球治理复合体的一部分。各国在国家评估问题上的处理方式不同：智利将国际评估与国家评估结合，乌拉圭精炼国家评估，阿根廷截至 2016 年创建新的地方或区域倡议。

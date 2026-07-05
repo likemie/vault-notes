@@ -2357,44 +2357,6 @@
       "title": "Argument_Håkansson_2015_Paideia",
       "year": "2015"
     },
-    "Jian Li et al. (2025)": {
-      "aliases": [
-        "Jian Li et al., 2025",
-        "Jian Li et al. (2025)"
-      ],
-      "argument": "Argument_Li_2025_HSSC",
-      "authors": [
-        "Jian Li",
-        "Eryong Xue",
-        "Siyuan Guo"
-      ],
-      "citation": "Li, J., Xue, E., & Guo, S. (2025). The effects of PISA on global basic education reform: A systematic literature review. *Humanities and Social Sciences Communications*, *12*, 106.",
-      "doi": "10.1057/s41599-025-04403-z",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
-      "source_language": "en",
-      "title": "Argument_Li_2025_HSSC",
-      "year": "2025"
-    },
-    "Jian Li et al., 2025": {
-      "aliases": [
-        "Jian Li et al., 2025",
-        "Jian Li et al. (2025)"
-      ],
-      "argument": "Argument_Li_2025_HSSC",
-      "authors": [
-        "Jian Li",
-        "Eryong Xue",
-        "Siyuan Guo"
-      ],
-      "citation": "Li, J., Xue, E., & Guo, S. (2025). The effects of PISA on global basic education reform: A systematic literature review. *Humanities and Social Sciences Communications*, *12*, 106.",
-      "doi": "10.1057/s41599-025-04403-z",
-      "isbn": "",
-      "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
-      "source_language": "en",
-      "title": "Argument_Li_2025_HSSC",
-      "year": "2025"
-    },
     "Johnson & Janzen (2023)": {
       "aliases": [
         "Johnson & Janzen, 2023",
@@ -2897,6 +2859,44 @@
       "source_language": "en",
       "title": "Argument_Li_2012_Cambridge",
       "year": "2012"
+    },
+    "Li et al. (2025)": {
+      "aliases": [
+        "Li et al., 2025",
+        "Li et al. (2025)"
+      ],
+      "argument": "Argument_Li_2025_HSSC",
+      "authors": [
+        "Li, J.",
+        "Xue, E.",
+        "Guo, S."
+      ],
+      "citation": "Li, J., Xue, E., & Guo, S. (2025). The effects of PISA on global basic education reform: A systematic literature review. *Humanities and Social Sciences Communications*, *12*, 106.",
+      "doi": "10.1057/s41599-025-04403-z",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
+      "source_language": "en",
+      "title": "Argument_Li_2025_HSSC",
+      "year": "2025"
+    },
+    "Li et al., 2025": {
+      "aliases": [
+        "Li et al., 2025",
+        "Li et al. (2025)"
+      ],
+      "argument": "Argument_Li_2025_HSSC",
+      "authors": [
+        "Li, J.",
+        "Xue, E.",
+        "Guo, S."
+      ],
+      "citation": "Li, J., Xue, E., & Guo, S. (2025). The effects of PISA on global basic education reform: A systematic literature review. *Humanities and Social Sciences Communications*, *12*, 106.",
+      "doi": "10.1057/s41599-025-04403-z",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
+      "source_language": "en",
+      "title": "Argument_Li_2025_HSSC",
+      "year": "2025"
     },
     "Li, 2012": {
       "aliases": [
