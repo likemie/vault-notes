@@ -7508,6 +7508,17 @@
     ]
   },
   {
+    "title": "Toulmin's Argumentation Model",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Toulmin's Argumentation Model.md",
+    "aliases": [
+      "图尔敏论证模型",
+      "Toulmin Model",
+      "图尔敏模型",
+      "Toulmin's model of argumentation"
+    ]
+  },
+  {
     "title": "Transactional Epistemology",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Transactional Epistemology.md",
@@ -10158,6 +10169,16 @@
     ]
   },
   {
+    "title": "Eleftherios Klerides",
+    "type": "person",
+    "path": "wiki/persons/greece/Eleftherios Klerides.md",
+    "aliases": [
+      "Klerides, E.",
+      "埃莱夫塞里奥斯·克莱里德斯",
+      "克莱里德斯"
+    ]
+  },
+  {
     "title": "Andreas Kazamias",
     "type": "person",
     "path": "wiki/persons/greece/Andreas Kazamias.md",
@@ -10322,7 +10343,7 @@
   {
     "title": "Daniel Tröhler",
     "type": "person",
-    "path": "wiki/persons/switzerland/Daniel Tröhler.md",
+    "path": "wiki/persons/switzerland/Daniel Tröhler.md",
     "aliases": [
       "Daniel Trohler",
       "丹尼尔·特勒勒",

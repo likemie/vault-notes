@@ -143,7 +143,7 @@ citation_aliases:
 > 比较教育学科虽然在大学建制上获得了巨大成功，但其自我合法化的基础极其虚弱，长期依赖客观上已显陈旧的三大陈词滥调，且面临认识论碎片化的危险。(p.327)
 
 > [!chain-link] 证据到判断
-> - **先知化的焦虑与历史倒退** 2018年 CESE 塞浦路斯会议以教育中的身份认同（Identities in Education）为主题，由 Eleftherios Klerides 与 Stephen Carney (2021) 组织，António Nóvoa (2021) 做了精彩的主旨演讲。然而，在专门纪念 Andreas Kazamias 的特别讲座环节中，发言者即兴将 Kazamias 解读为一位正确预见了我们当前时代和问题的哲学先知（philosopher-prophet），宣称学界应走向希腊人文主义（Hellenistic Humanism）和灵魂教育（paideia，即教育的灵魂）来重新平衡自己。Kazamias 本人常倡导历史和人文主义，并将其概括为渐进、现代、改良与普罗米修斯式的比较教育，但他从未自封先知。这种将 Kazamias 历史先知化的姿态泄露了学科对于自身定位的深层焦虑：如果我们需要退回 50 年前 Kazamias 的历史人文学说，是否意味着过去半个世纪以来的科学化与制度繁荣其实是一个战略错误？(p.327)
+> - **先知化的焦虑与历史倒退** 2018年 CESE 塞浦路斯会议以教育中的身份认同（Identities in Education）为主题，由 [[Eleftherios Klerides]] 与 Stephen Carney (2021) 组织，António Nóvoa (2021) 做了精彩的主旨演讲。然而，在专门纪念 Andreas Kazamias 的特别讲座环节中，发言者即兴将 Kazamias 解读为一位正确预见了我们当前时代和问题的哲学先知（philosopher-prophet），宣称学界应走向希腊人文主义（Hellenistic Humanism）和灵魂教育（paideia，即教育的灵魂）来重新平衡自己。Kazamias 本人常倡导历史和人文主义，并将其概括为渐进、现代、改良与普罗米修斯式的比较教育，但他从未自封先知。这种将 Kazamias 历史先知化的姿态泄露了学科对于自身定位的深层焦虑：如果我们需要退回 50 年前 Kazamias 的历史人文学说，是否意味着过去半个世纪以来的科学化与制度繁荣其实是一个战略错误？(p.327)
 > - **三大陈词滥调的惯例化使用** 学科极少丢弃旧信条，积累了过多的陈词滥调：
 >   1. 迈克尔·萨德勒实用主义试图从外国教育政策中获取实用价值。这在一百年后仍被常规使用，但它将比较教育矮化为了应对教育危机的高级应急社会管道工（emergency social plumbing），即通过机械嫁接外国经验来修理本国的政策漏水。
 >   2. 马克-安托万·朱利安科学理想宣称要让学科成为科学（science）的理想。这一口号已喊了近两百年，但学界至今仍未理清科学是指探寻事物原因，还是指像物理学一样进行准确预测。
@@ -276,7 +276,7 @@ citation_aliases:
 >   **美国比较教育政治史**<br>讲述芝加哥大学比较教育中心（C. Arnold Anderson 创立）的历史演变。 Anderson 在1950年代将教育经济学与比较教育融合，推动了人力资本理论的全球扩张。Brehm 论证这其实是冷战时期美国遏制共产主义、推广全球霸权的技术官僚规划，进而发出关于世界政治变迁对学科冲击的预警。(Brehm, 2023)
 > - **Maren Elfert (2023)**
 >   **国际组织的知识政治**<br>分析联合国教科文组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）和经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD）之间从早期的人文主义承诺向现代数据化绩效治理的转变。Elfert 揭示了国际组织如何通过知识政治（politics of knowledge）将教育政策简化为可测量的技术性指标，脱离了传统的民主教育关切。(Elfert, 2023)
-> - **Eleftherios Klerides (2023)**
+> - **[[Eleftherios Klerides]] (2023)**
 >   **国际关系理论的重新引入**<br>引入 Martin Wight 的经典国际关系理论三大传统（现实主义、理性主义、革命主义），论证不同时代比较教育的重心和话语体系实际上受地缘政治秩序演变的支配，为学科理论工作提供跨学科的新解释框架。([[Argument_Klerides_2023_CE|Klerides, 2023]])
 > - **Terri Seddon (2023)**
 >   **去殖民化与行星关切**<br>讲述哈萨克斯坦等国在面对俄罗斯、中国和西方资本的多重挤压下开展的微妙但坚韧的去殖民化实践。Seddon 批评当代比较教育过度科学化，丧失了对行星关切（planetary concerns）的敏感，抹去了行动个体的复杂性。(Seddon, 2023)
