@@ -8,7 +8,7 @@ aliases:
 summary: "以有目的的、自我调节的判断为核心的思维技能与倾向，被广泛认为是大学学习和专业工作的核心学术能力。其教学方式存在显性独立课程与隐性学科融入两种路径的持续争论。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
+  - "[[Theory of Knowledge]]"
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
 related_methods:
@@ -34,6 +35,7 @@ related_facts:
   - "[[International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Zemplen_2007_SciEduc]]"
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[Critical Thinking Strategies Scale]]"
@@ -151,10 +153,10 @@ updated: 2026-07-04
 ### 批判性思维的认知发展与课程设计
 
 > [!claim] 批判性思维期待可能超出学生的认知发展水平
-> King & Kitchener（1994）的反思判断模型表明，高中生的推理能力通常还无法达到"对比不同来源的证据、阐明决策标准"的水平。Dotger（2005）在讨论科学本质（NOS）与批判性思维的关系时指出：NOS 文献中隐含的理解深度期望，实际上"在大多数高阶研究生中才会发展"。如果批判性思维课程的目标超出学生的认知发展阶段，评估就可能在测量一般认知发展——而以"知识论"命名的课程成绩在多大程度上反映了批判性思维能力，值得质疑。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 173–174)]]
+> King & Kitchener（1994）的反思判断模型表明，高中生的推理能力通常还无法达到"对比不同来源的证据、阐明决策标准"的水平。Dotger（2005）在讨论科学本质（NOS）与批判性思维的关系时指出：NOS 文献中隐含的理解深度期望，实际上"在大多数高阶研究生中才会发展"。如果批判性思维课程的目标超出学生的认知发展阶段，评估就可能在测量一般认知发展——而以"[[Theory of Knowledge|知识论]]"命名的课程成绩在多大程度上反映了批判性思维能力，值得质疑。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 173–174)]]
 
 > [!claim] 批判性思维课程可能出现术语表演
-> 当评估标准使用特定的分析术语作为评分依据时，学生可能学会的是术语表演（name-dropping）——在论文中系统地罗列课程术语并嵌入显示"批判性反思"的语句——而非真正的批判性思维。Zemplén（2007）将这一现象称为"框架问题"（framework-problem）：批判性思维课程为评估目的创造的词汇框架，可能恰恰阻碍了它声称培养的自由探究精神。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–172)]]
+> 当评估标准使用特定的分析术语作为评分依据时，学生可能学会的是术语表演（name-dropping）——在论文中系统地罗列课程术语并嵌入显示"批判性反思"的语句——而非真正的批判性思维。[[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]将这一现象称为"框架问题"（framework-problem）：批判性思维课程为评估目的创造的词汇框架，可能恰恰阻碍了它声称培养的自由探究精神。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–172)]]
 
 ---
 
@@ -177,4 +179,4 @@ updated: 2026-07-04
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 [[International Baccalaureate|IB]] DP 的 ToK 课程为案例，通过[[Mixed Methods Research|混合方法研究]]检验[[Explicit Critical Thinking Instruction|显性批判性思维教学]]在澳大利亚学校的效果。
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB TOK 课程为案例，分析批判性思维议程与科学教育议程之间的结构性冲突，指出评估框架可能制造术语表演而非真正的批判性思维。
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为案例，分析批判性思维议程与科学教育议程之间的结构性冲突，指出评估框架可能制造术语表演而非真正的批判性思维。
