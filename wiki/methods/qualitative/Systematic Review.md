@@ -88,3 +88,10 @@ updated: '2026-06-08'
 
 ---
 
+## 使用此方法的研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 按照 PRISMA 框架从 SSCI 和 Scopus 数据库系统检索并筛选 85 篇 PISA 政策影响实证研究，使用编码分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
+
+---
+

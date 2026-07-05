@@ -491,6 +491,16 @@
     ]
   },
   {
+    "title": "Governing by Numbers",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Governing by Numbers.md",
+    "aliases": [
+      "数字治理",
+      "以数字治理",
+      "governance by numbers"
+    ]
+  },
+  {
     "title": "Government to Governance Shift",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Government to Governance Shift.md",
@@ -606,6 +616,15 @@
     ]
   },
   {
+    "title": "PISA Shock",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/PISA Shock.md",
+    "aliases": [
+      "PISA 冲击",
+      "PISA shock"
+    ]
+  },
+  {
     "title": "Policy Borrowing",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
@@ -662,6 +681,18 @@
     "aliases": [
       "再脉络化",
       "recontextualization"
+    ]
+  },
+  {
+    "title": "Reference Society in Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Reference Society in Education.md",
+    "aliases": [
+      "参考社会",
+      "参照社会",
+      "reference society",
+      "model society",
+      "模范社会"
     ]
   },
   {
@@ -7301,6 +7332,15 @@
     "aliases": [
       "教育建国",
       "教育国家建构"
+    ]
+  },
+  {
+    "title": "Three-Level Mechanism Model of PISA's Impact on Education Policy",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md",
+    "aliases": [
+      "PISA 影响教育政策的三层机制模型",
+      "three-level mechanism model of PISA impact"
     ]
   },
   {
@@ -14231,6 +14271,11 @@
     "title": "Argument_Wong_2022_HERD",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Wong_2022_HERD.md"
+  },
+  {
+    "title": "Argument_Li_2025_HSSC",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md"
   },
   {
     "title": "Argument_Eacott_2019_IJLE",
