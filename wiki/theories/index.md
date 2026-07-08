@@ -18,7 +18,7 @@ Total entries: **93**
 > - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
 > - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
 > - [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] — Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育政策的影响机制分为超国家、国家层面和内部行动者网络三个层级，强调全球教育场域中的双向互动
-> - [[Wight's Three Traditions of International Theory]] — Martin Wight 将国际关系思想归纳为现实主义（Machiavelli）、理性主义（Grotius）和革命主义（Kant）三大传统，分别以权力、权威和武力为核心概念，为理解国际社会的不同形态提供了分析框架
+> - [[Wight's Three Traditions of International Theory]] — Martin Wight 将国际关系思想归纳为现实主义（Machiavelli）、理性主义（Grotius）和革命主义（Kant）三大传统，分别以权力、权威和武力为核心概念，Klerides 将其引入比较教育以解构学科的注意力议程与知识生产
 > - [[World Society Theory]] — 把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同
 > - [[World-Systems Theory]] — 把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系
 
