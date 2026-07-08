@@ -36,7 +36,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-02
-updated: 2026-06-23
+updated: 2026-07-08
 ---
 # Metainferences
 
@@ -109,7 +109,7 @@ Onwuegbuzie & Johnson (2006) 在[[Mixed Methods Research|混合方法研究]]中
 > - **顺序合法化（Sequential legitimation）**
 >   在多大程度上能最小化数据收集和分析产生的元推断的**顺序效应**——量化-质性还是质性-量化的顺序是否影响了元推断？如果对调顺序后元推断的解释力不受削弱，则顺序合法化程度高。
 > - **转换合法化（Conversion legitimation）**
->   将数值数据**质化**（[[Data Transformation|qualitizing]]）或将质性数据**量化（quantitizing）**在多大程度上有助于产出稳健的元推断——转换过程的质量直接影响元推断的可[[Reliability|信度]]。
+>   将数值数据**质化（[[Data Transformation|qualitizing]]）**或将质性数据**量化（quantitizing）**在多大程度上有助于产出稳健的元推断——转换过程的质量直接影响元推断的可[[Reliability|信度]]。
 > - **政治合法化（Political legitimation）**
 >   受众在多大程度上**接受**量化和质性方法组合所产生的元推断——合法化不仅是方法论问题，也是社会接受度问题。
 

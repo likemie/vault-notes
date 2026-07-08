@@ -51,7 +51,7 @@ updated: '2026-05-18'
 > [!example] 主要联盟
 > [[Argument_Amos_2022_Springer|Amos (2022, pp.57–58)]] 在讨论数字化的地缘政治影响时列举了三个代表性联盟：
 >
-> - **[[League of European Research Universities|欧洲研究型大学联盟]]（LERU, League of European Research Universities）**：以研究为导向的精英大学联盟，强调[[Blue Skies Research|基础研究]]和学术卓越。LERU 在欧盟研究框架计划（[[Horizon Europe Missions]]）的政策制定中发挥重要影响
+> - **[[League of European Research Universities|欧洲研究型大学联盟]]（LERU, League of European Research Universities）** 以研究为导向的精英大学联盟，强调[[Blue Skies Research|基础研究]]和学术卓越。LERU 在欧盟研究框架计划（[[Horizon Europe Missions]]）的政策制定中发挥重要影响
 > - **The GUILD** 以"对社会负责的大学"为定位的研究型大学网络，关注研究与公共利益的结合。与 LERU 相比，GUILD 更强调大学的社会责任和包容性
 > - **欧洲大学联盟（European University Alliances）** 欧盟委员会（European Commission）框架下推动的跨国大学联盟计划，旨在通过深度制度合作创建"欧洲大学"——联合课程、无缝流动、共享资源和共同战略愿景
 >

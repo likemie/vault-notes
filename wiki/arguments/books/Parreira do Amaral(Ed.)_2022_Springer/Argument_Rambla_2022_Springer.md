@@ -14,7 +14,9 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
-citation: "Rambla, X. (2022). Imaginaries of Education and Innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 163–178). Springer."
+citation: "Rambla, X. (2022). Imaginaries of Education and Innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 163–178). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
 - region/eu
 - region/global
@@ -92,10 +94,10 @@ Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏�
 > [!abstract]- [[Performance Indicators|绩效指标]]作为政策工具(Le Galès, 2016; Collins, 2018; Jessop, 2007)
 > Rambla 综合三位学者的工作，将绩效指标界定为同时包含技术成分和权力成分的复合政策工具，并分解为四个操作维度（Table 10.1, p.165–166）。详见 [[Performance Indicators]]：
 >
-> - **通过互动性专业技能获取合法性(Collins, 2018)**：专家的权威既来自技术掌握，也来自公众和政策制定者对其行动指南"有效"的感知。EUROSTAT 的区域排名之所以被各国政府认真对待，并非因为其数据绝对精确，而是因为它承载了欧盟统计机构的制度权威——这种权威在专家与政策制定者的持续互动中被生产和再生产(p.165)。
+> - **通过互动性专业技能获取合法性(Collins, 2018)** 专家的权威既来自技术掌握，也来自公众和政策制定者对其行动指南"有效"的感知。EUROSTAT 的区域排名之所以被各国政府认真对待，并非因为其数据绝对精确，而是因为它承载了欧盟统计机构的制度权威——这种权威在专家与政策制定者的持续互动中被生产和再生产(p.165)。
 > - **通过区域指标展示可测量成果** 指标将复杂的政策现实转化为直观、可比较的排名和颜色[[Coding in Qualitative Research|编码]]地图，使任何公民和政治家都能一目了然地识别自身区域在创新和教育方面的相对位置。这种可视化能力使指标成为高效的政治沟通工具。
-> - **传播共同的"变革理论"(Pawson, 2006)**：指标不仅提供分数，更承载特定的[[Causality|因果]]叙事——如 [[OECD]] 传播的"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事。欧盟的 Education and Training 2020 战略假定降低早期辍学率与促进创新将产生强大的增效作用（synergies），推动智能、可持续与包容性增长。这套因果叙事被嵌入指标体系中，使某些政策路径在认知上被自然化为"理所当然"(p.165–166)。详见 [[Theories of Policy Change]]。
-> - **嵌入政治关系并实施选择性(Jessop, 2007)**：指标间接重塑了政府、企业、非营利组织与公民之间的关系——通过发布排名和最佳实践，政府试图说服多元利益相关方同时展开竞争与协作来提升排名，而非通过具有约束力的立法来固定各方角色。与此同时，指标的选择性机制决定了什么被算作"进步"、什么被忽略(p.166, 174)。详见 [[Selectivity]]。
+> - **传播共同的"变革理论"(Pawson, 2006)** 指标不仅提供分数，更承载特定的[[Causality|因果]]叙事——如 [[OECD]] 传播的"投资研发→培养创造力→高学历劳动力→经济增长"的良性循环叙事。欧盟的 Education and Training 2020 战略假定降低早期辍学率与促进创新将产生强大的增效作用（synergies），推动智能、可持续与包容性增长。这套因果叙事被嵌入指标体系中，使某些政策路径在认知上被自然化为"理所当然"(p.165–166)。详见 [[Theories of Policy Change]]。
+> - **嵌入政治关系并实施选择性(Jessop, 2007)** 指标间接重塑了政府、企业、非营利组织与公民之间的关系——通过发布排名和最佳实践，政府试图说服多元利益相关方同时展开竞争与协作来提升排名，而非通过具有约束力的立法来固定各方角色。与此同时，指标的选择性机制决定了什么被算作"进步"、什么被忽略(p.166, 174)。详见 [[Selectivity]]。
 
 > [!abstract]- 变革理论(Pawson, 2006)
 > "变革理论"（theory of change）源自 Pawson(2006)的实在论评估（realist evaluation）框架，指政策所承载的关于因果机制的叙事——即关于特定政策干预在何种情境中激活何种机制、从而产生何种效果的信念体系。在政策实践中，变革理论常以简化的因果叙事形式出现：世界银行在 1980 年代基于各级教育[[Return on Investment|投资回报]]率的比较数据，要求负债国家将教育支出集中于初等教育；OECD 传播了投资研发→培养创造力→高学历劳动力→经济增长的"良性循环"叙事；联合国《全球教育报告》则提出了[[UN Sustainable Development Goals|可持续发展目标]]之间相互关联的[[Hypothesis|假设]]。Rambla 的分析揭示，欧盟的 [[Innovation Union]] 和 [[EU Skills Agenda|Skills Agenda]] 同样讲述了一个"[[Innovation Ecosystem|创新生态]]体系 + 教育培训体系 = 协同演化 = 智能增长"的因果故事，这一故事被嵌入绩效指标中，使某些政策选择看起来"理所当然"(p.165–166, 170–172)。详见 [[Theories of Policy Change]]。
@@ -113,7 +115,7 @@ Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏�
 > 该章属于**政策分析**（非实证研究），综合运用三种方法路径：
 >
 > - **政策文件分析** 系统梳理欧盟委员会（European Commission）、欧盟理事会（European Council）发布的战略通讯文件（如 [[Europe 2020 Strategy|Europe 2020]]、A [[EU Skills Agenda|New Skills Agenda for Europe]]）、理事会建议书（Council Recommendations，涉及早期辍学、成人教育、Youth Guarantee）及 EUROSTAT 统计指标体系，包括区域创新记分牌（Regional Innovation Scoreboard）和 NUTS2 [[Performance Indicators|教育指标]](p.164–175)
-> - **[[Qualitative Research|定性研究]]二次分析**：引用 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（Horizon 2020 资助，Grant No 693167）对 16 个欧盟地区 168 名[[Lifelong Learning|终身学习]]政策专家的半结构式访谈数据，作为政策话语在地方层面被接受、转化或对抗的经验证据(p.172–174)
+> - **[[Qualitative Research|定性研究]]二次分析** 引用 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（Horizon 2020 资助，Grant No 693167）对 16 个欧盟地区 168 名[[Lifelong Learning|终身学习]]政策专家的半结构式访谈数据，作为政策话语在地方层面被接受、转化或对抗的经验证据(p.172–174)
 > - **比较案例引用** 引用意大利利古里亚(Bartolini, 2018)和西班牙加泰罗尼亚(Tarabini et al., 2017)关于早期辍学与第二机会学校（second-chance schools）的[[Comparative Case Study|比较案例研究]](p.173)
 
 
@@ -164,7 +166,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > - 核心监测工具：EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard），依据研发支出、专利数量、科技人员数量等指标，将区域分类为"创新领导者""强创新者""一般创新者""温和创新者"(Hollanders & Es-Sadki, 2017; p.169)
 > - 分析要点：指标只能捕捉"技术研发型创新"，无法捕捉社会创新、文化创新或基层互助创新。但政策话语的运作方式使"创新生态体系 ≈ 研发密集型创新"的等式被自然化(p.174)
 >
-> **[[EU Skills Agenda]]**：
+> **[[EU Skills Agenda]]**
 > - 核心叙事：就业服务、学校教育、职业教育与培训（VET）及成人教育应构成一个连贯的"教育培训体系"，与创新生态体系协同运作
 > - 核心监测工具：EUROSTAT 的区域教育指标——追踪全年龄段人口参与率、"完成最高教育水平后 N 年"的就业率等(p.169)
 > - 分析要点：[[Lifelong Learning|终身学习]]（lifelong learning）在理念上包含个人发展、公民参与和就业三个维度，但在 Skills Agenda 的指标框架中，只有就业维度被系统地量化追踪。人的发展维度——文化参与、政治素养、家庭照护中的学习——不在指标中，也就不在政策优先级的考虑范围之内(p.174–175)

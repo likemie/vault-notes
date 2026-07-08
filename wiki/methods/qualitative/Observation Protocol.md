@@ -56,7 +56,7 @@ updated: 2026-06-01
 - 物理环境的描述（description of the physical setting）
 - 特定事件或活动的记录（accounts of particular events or activities）
 
-**[[Reflexivity|反思性]]笔记（Reflexive Notes）**：记录在右侧，包括研究者的思考——如"推测、感受、问题、想法、直觉、印象和偏见"（Bogdan & Biklen, 1992, p.121; 引自 Creswell & Creswell, 2022, Ch9）。
+**[[Reflexivity|反思性]]笔记（Reflexive Notes）** 记录在右侧，包括研究者的思考——如"推测、感受、问题、想法、直觉、印象和偏见"（Bogdan & Biklen, 1992, p.121; 引自 Creswell & Creswell, 2022, Ch9）。
 
 ### 使用建议
 

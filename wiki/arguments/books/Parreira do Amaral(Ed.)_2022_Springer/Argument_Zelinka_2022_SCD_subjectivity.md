@@ -3,7 +3,9 @@ authors:
   - "Zelinka, J."
 summary: "以 Foucault 治理术和话语分析为框架，审查 21 世纪技能与素养话语的七个国际框架，揭示其如何通过三组张力生产以自我企业家为核心的新主体性，并将新知识地缘政治概念化为一种全球治理技术。"
 type: argument
-citation: "Zelinka, J. (2022). Subjects and Subjectivities of the (New) Geopolitics of Knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 251–269). Springer."
+citation: "Zelinka, J. (2022). Subjects and Subjectivities of the (New) Geopolitics of Knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 251–269). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags: ["theme/geopolitics-of-knowledge", "theme/subjectivity", "theme/21st-century-skills", "theme/global-governance", "theory/governmentality", "level/higher-education"]
 related_concepts:
   - "[[Geopolitics of Knowledge]]"
@@ -63,7 +65,7 @@ citation_aliases:
 
 - **[[Governmentality]]（治理术）** — 取自 Foucault(2004)，指通过引导个体的自我引导来治理社会的方式。Zelinka 将（新）[[Geopolitics of Knowledge|知识地缘政治]]概念化为一种**全球治理技术（global governmental technology）**，以此透视全球趋势和宏大发展之下的权力微观机制(p.264)。
 
-- **话语分析** — 话语生产知识并组织特定语境中的意义制造过程。在全球教育领域，话语建构了思想和行动的**可能性结构**(structures of opportunity, Parreira do Amaral & Dale, 2015)，即"[[Discursive Opportunity Structures|话语机会结构]]"（discursive opportunity structures），个体在其中发展事业、推进人生计划、依照自己认为有意义的目标来导航自我(p.253)。
+- **话语分析** — 话语生产知识并组织特定语境中的意义制造过程。在全球教育领域，话语建构了思想和行动的**可能性结构(structures of opportunity, Parreira do Amaral & Dale, 2015)**，即"[[Discursive Opportunity Structures|话语机会结构]]"（discursive opportunity structures），个体在其中发展事业、推进人生计划、依照自己认为有意义的目标来导航自我(p.253)。
 
 - **主体 vs 主体性** — 主体（subject）指按照制度承认和社会接受的角色、职责和责任行动的个体（教师、研究者、学生、政策制定者等）；**主体性（subjectivity）**则描述他们的"被期望和被欲求的"思维和行动方式。主体化模式（mode of subjectivation）是一种权力技术，它塑造个体的行为并使其服从于特定目的(Foucault, 1988, p.18)。主体性不能被视为固定和清晰的类别，而应被理解为来自不同来源的话语实践的**时间性和偶然性**交汇(pp.253-254)。
 
@@ -72,7 +74,7 @@ citation_aliases:
 > [!info]
 > 该章采用批判性话语分析（critical discourse analysis）方法，具体做法为：
 > - **文本汇编** 收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, [[OECD]], EC），时间跨度超过 15 年。
-> - **[[Critical Companion|批判性伴随]]**（critical companion）：不提供传统的系统性[[Literature Review|文献综述]]，而是对这些框架进行批判性检视，识别其核心特征、共同模式和盲点(p.254)。
+> - **[[Critical Companion|批判性伴随]]（critical companion）** 不提供传统的系统性[[Literature Review|文献综述]]，而是对这些框架进行批判性检视，识别其核心特征、共同模式和盲点(p.254)。
 > - **精细化分析（fine-grained analysis）** 在总体检视后，聚焦三组"张力对"（tension-pairs）来更细致地揭示主体性的生产过程(p.260)。
 
 ## 论证结构
@@ -84,7 +86,7 @@ citation_aliases:
 
 论证起点是一个已被广泛认可的经验观察：高等教育已经持续经历了新自由主义化和产业化，大学之间相互竞争(Hazelkorn, 2017)、发展新型商业模式(Kehm & Lanzendorf, 2005)、不断追求卓越和全球领导地位(Altbach & Salmi, 2011)。教育被转型为以经济增长和提高生产力为主要目标(Spring, 2015)。
 
-这一全球转型同时被理解为知识论转变和地缘政治博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念(Mignolo, 2002)。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性（rationality）**，重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现**远距治理**(governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240)。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型(Ball, 2010, p.135)，试图通过创造可欲的自我引导形式来操控个体。
+这一全球转型同时被理解为知识论转变和地缘政治博弈，由此催生了"（新）[[Geopolitics of Knowledge|知识地缘政治]]"（(new) [[Geopolitics of Knowledge]]）概念(Mignolo, 2002)。关键的特征是它嵌入新自由主义之中——新自由主义作为一种**理性（rationality）**，重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现**远距治理(governing at a distance, Ward & England, 2007; Bell & Green, 2016, p.240)**。新自由主义[[Governmentality|治理术]]**远距组织**全球教育转型(Ball, 2010, p.135)，试图通过创造可欲的自我引导形式来操控个体。
 
 注意这里的论证前提：因为新自由主义治理术运作于"远处"，所以它不能通过直接命令来塑造行为，而是必须**生产特定的主体性**——即个体将主动采纳的思维和行动模式。这就将分析焦点引向了主体性生产。
 
@@ -107,7 +109,7 @@ citation_aliases:
 
 **张力一：愿意主体 vs 不愿主体**
 
-SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新能力。这催生了 **[[Self-Entrepreneur|自我企业家]]**(self-entrepreneur, Bröckling, 2015)——一种以 **[[Employability|就业力]]** 和市场为导向的主体性。
+SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新能力。这催生了 **[[Self-Entrepreneur|自我企业家]](self-entrepreneur, Bröckling, 2015)**——一种以 **[[Employability|就业力]]** 和市场为导向的主体性。
 
 关键推论在这一步：在这种"生产文化"中，被生产的不是技能和素养本身，而是基于受期望能力的**主体性**——即自我引导模式——成为生产的来源(Reed, 2009, p.33)。主体的"意愿"和"激情"成为新的生产要素。主体只有在展现对增长的激情和加速意愿时才不被弃置(Vostal, 2016)。
 
@@ -132,7 +134,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 三个分析层次最终收敛于一个综合判断(pp.264-265)：（新）知识地缘政治可以作为一种全球治理技术来理解，其运作机制有三：
 
 1. **问题化与个体化** 教育挑战被表述为 [[VUCA]]（波动性、不确定性、复杂性、模糊性，Hughes, 2018, p.xiv），回应方式被锁定为"让个体装备必要技能"。
-2. **授权的[[Knowledge Production|知识生产]]手段**：全球治理术成功想象出一个空间，其中特定人群可以决定什么算作"卓越"和"创新"，什么值得获得资源分配，由此强化了那些被授权定义未来进步者的权力地位。
+2. **授权的[[Knowledge Production|知识生产]]手段** 全球治理术成功想象出一个空间，其中特定人群可以决定什么算作"卓越"和"创新"，什么值得获得资源分配，由此强化了那些被授权定义未来进步者的权力地位。
 3. **通过主体化、区分和创造自由来引导行为** 一方面推崇自我企业家精神；另一方面将排除者框定为脆弱或需要帮助的——不留出拒绝或抵抗的空间。
 
 ## 主要发现

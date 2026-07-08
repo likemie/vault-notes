@@ -71,7 +71,7 @@ updated: 2026-06-16
 ## 争议与评论
 
 > [!tension] 争议焦点
-> - **工具争议（[[Conflict of Interest in Research|利益冲突]]与权力集中的隐忧）**：政策社会学者指出，[[Australian Institute for Teaching and School Leadership|AITSL]]、ACARA 与 [[Australian Education Research Organisation|AERO]] 在名义上是各自独立的政策和证据机构，但它们在底层系统与行政服务上都由同一个“慈善中介”ESA 支撑，这事实上消解了机构间的权力制衡，大大增加了国家教育问责体系中的权力集聚和隐性[[Conflict of Interest in Research|利益冲突]]风险（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])）。
+> - **工具争议（[[Conflict of Interest in Research|利益冲突]]与权力集中的隐忧）** 政策社会学者指出，[[Australian Institute for Teaching and School Leadership|AITSL]]、ACARA 与 [[Australian Education Research Organisation|AERO]] 在名义上是各自独立的政策和证据机构，但它们在底层系统与行政服务上都由同一个“慈善中介”ESA 支撑，这事实上消解了机构间的权力制衡，大大增加了国家教育问责体系中的权力集聚和隐性[[Conflict of Interest in Research|利益冲突]]风险（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])）。
 > - **“慈善”外衣下的治理商业化** 将关系国家命脉的教育监控与证据中介职能寄托在一只注册慈善公司（Charity）的底层技术系统上，一方面为[[Policy Network|政策网络]]提供了规避公众直接监督的“公益防雨伞”，另一方面也反映了国家将教育公共事业外包给准市场化技术官僚机构的整体治理转向。
 
 ---

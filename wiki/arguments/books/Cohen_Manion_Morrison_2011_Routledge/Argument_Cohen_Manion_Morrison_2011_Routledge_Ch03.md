@@ -21,6 +21,7 @@ year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
 citation_aliases: []
+publication_place: "London"
 tags:
   - method/research-methods
   - source/textbook
@@ -62,7 +63,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-07-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03
 
@@ -121,7 +122,7 @@ updated: 2026-06-17
 
 > [!feature] 研究与评估的8项共享特征
 > 1. **澄清调查目的** 两者都需要在启动调查前明确调查的目标和意图。
-> 2. **[[Operationalization|操作化]]调查目的和领域**：将抽象的调查目标转化为可操作的具体问题或指标。
+> 2. **[[Operationalization|操作化]]调查目的和领域** 将抽象的调查目标转化为可操作的具体问题或指标。
 > 3. **处理研究设计原则**，涵盖八个子项 (a–h)：
 >    - a. 形成操作性问题
 >    - b. 决定适当的方法论
@@ -297,7 +298,7 @@ Burgess（1993: 1）概括了这一趋势的极端表达：
 >
 > 这恰好对应了 Smith & Glass（1987）8点差异中的多数维度——分类资助在操作上将研究推向评估的一端。
 
-Anderson 和 Biddle（1991）编著的文集进一步印证了这一判断：研究与政治难以和谐共处，因为研究者有更长的时间尺度并试图处理情境的复杂性，而政治人物出于短期生存考虑，需要压缩的时间尺度、简单的方案和与其政治议程一致的研究（p.37）。
+Anderson & Biddle（1991）编著的文集进一步印证了这一判断：研究与政治难以和谐共处，因为研究者有更长的时间尺度并试图处理情境的复杂性，而政治人物出于短期生存考虑，需要压缩的时间尺度、简单的方案和与其政治议程一致的研究（p.37）。
 
 James（1993: 135）对评估证据政治命运的冷峻判断：
 > [!citation-card]- James 论评估证据的政治命运
@@ -307,7 +308,7 @@ James（1993: 135）对评估证据政治命运的冷峻判断：
 
 ##### 顺应性评估（Conformative Evaluation）
 
-当评估高度政治化时，即评估的经费、发表权和数据所有权都受控于委托方，Stronach 和 Morris（1994）认为评估会呈现出一种系统性的异化形态：**[[Conformative Evaluation|顺应性评估]]**（conformative evaluation）（pp.38–39）。
+当评估高度政治化时，即评估的经费、发表权和数据所有权都受控于委托方，Stronach & Morris（1994）认为评估会呈现出一种系统性的异化形态：**[[Conformative Evaluation|顺应性评估]]（conformative evaluation）**（pp.38–39）。
 
 > [!evidence-grid] 顺应性评估的8个特征（Stronach & Morris, 1994）
 > | # | 特征 | 说明 |
@@ -373,7 +374,7 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 
 #### 研究利用：知识类型、传播机制与利用模型
 
-研究与政治的纠缠是复杂的，因为**研究设计旨在处理复杂的社会现实**（Anderson & Biddle, 1991），一项研究不会简单或直接地输入到一项具体政策制定中。相反，研究产生多种不同类型的知识（p.42）：
+研究与政治的纠缠是复杂的，因为**研究设计旨在处理复杂的社会现实（Anderson & Biddle, 1991）**，一项研究不会简单或直接地输入到一项具体政策制定中。相反，研究产生多种不同类型的知识（p.42）：
 
 > [!taxonomy] Caplan（1991）的研究知识类型学
 > 研究产出包含多种知识类型，Caplan将其归纳为以下七类：
@@ -389,7 +390,7 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 
 影响力的程度取决于传播的审慎性（p.42）：
 
-> [!warning] Knott 和 Wildavsky（1991）的传播悖论
+> [!warning] Knott & Wildavsky（1991）的传播悖论
 > - **传播太少** → 信息被忽视。研究待在学术期刊里，决策者从未看到。
 > - **传播太多** → 信息过载使决策者困惑并变得愤世嫉俗——形成"**狼来了**"综合征（the syndrome of the boy who cried wolf）。
 >
@@ -413,10 +414,10 @@ Weiss（1991b）识别了研究进入政策制定的四种经典模型（p.43）
 
 #### 政治可接受性：研究影响力的真实门槛
 
-本节的核心主张是：**研究的影响力在很大程度上取决于其结论与政府政治议程的契合度**（Thomas, 1991; Cook, 1991）。
+本节的核心主张是：**研究的影响力在很大程度上取决于其结论与政府政治议程的契合度（Thomas, 1991; Cook, 1991）**。
 
 > [!claim] 研究利用的政治性是一个共识（truism）
-> Selleck（1991）、Kamin（1991）、Horowitz 和 Katz（1991）以及 Wineburg（1991）一致确认：研究对政策的影响是**强烈且不可逃避地政治性的**。这是一个被反复印证的共识（truism）。
+> Selleck（1991）、Kamin（1991）、Horowitz & Katz（1991）以及 Wineburg（1991）一致确认：研究对政策的影响是**强烈且不可逃避地政治性的**。这是一个被反复印证的共识（truism）。
 
 > [!citation-card]- Wineburg（1991）论研究如何沦为"确认性文本"
 > 研究太容易成为仅仅一种"确认性文本"（affirmatory text）——一种"为体制开脱"（exonerates the system）的文本——被那些在其中只寻求自己声音和愿望的回声的人所使用。（Wineburg, 1991; Kogan & Atkin, 1991）
@@ -424,7 +425,7 @@ Weiss（1991b）识别了研究进入政策制定的四种经典模型（p.43）
 > *Research too easily becomes simply an "affirmatory text" which "exonerates the system" and is used by those who seek to hear in it only echoes of their own voices and wishes.*
 
 > [!implication] 为什么政治可接受性是影响力的门槛而非质量的门槛
-> 政策制定者的核心关切是**政治生存**（Cook, 1991）和**社会项目的推进**（Thomas, 1991）。研究对他们而言是众多工具中的一种：
+> 政策制定者的核心关切是**政治生存（Cook, 1991）**和**社会项目的推进（Thomas, 1991）**。研究对他们而言是众多工具中的一种：
 > - 当研究支持其议程时，研究被用作"科学背书"——赋予政策以认识论合法性。
 > - 当研究不支持其议程时，研究被视作"学术脱离现实"——其方法论被质疑、其复杂性被指责为"不确定"。
 >
@@ -449,7 +450,7 @@ Levin（1991）识别了研究者与决策者之间在多个维度上的系统�
 >
 
 > [!tension] 研究者的回应：简单化是对复杂现实的歪曲
-> 研究者一方则反驳说：决策者对快速解决的偏好**误读了研究的本质**（Shavelson & Berliner, 1991），掩盖了研究者试图调查的**复杂社会现实**（Blalock, 1991）。捕捉社会复杂性与服务于政治效用，这两种价值可能根本性地相互冲突。
+> 研究者一方则反驳说：决策者对快速解决的偏好**误读了研究的本质（Shavelson & Berliner, 1991）**，掩盖了研究者试图调查的**复杂社会现实（Blalock, 1991）**。捕捉社会复杂性与服务于政治效用，这两种价值可能根本性地相互冲突。
 
 > [!citation-card]- Radford（2008: 506）的终极概括
 > 研究者的工作由客观性（objectivity）和对意识形态的独立性或不关心（disinterestedness）驱动，而决策者由利益、意识形态和价值（interests, ideologies and values）驱动。（Radford, 2008, p. 506）

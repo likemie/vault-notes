@@ -4,7 +4,6 @@ aliases:
   - 单受试者设计
   - 单一被试设计
   - 单一个案实验设计
-  - single-case design
   - applied behavioral analysis
   - single-subject experimental design
 summary: "一种在时间维度上对单个个体或少数个体施加和撤销处理、观察行为变化的实验研究设计"

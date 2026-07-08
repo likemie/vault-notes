@@ -105,11 +105,11 @@ updated: 2026-05-31
 >
 > **论文标题** *Exploring the Conceptions and Misconceptions of Teen Smoking in High Schools: A Multiple Case Analysis*（探索高中青少年对吸烟的认知与误解：一项多[[Case Study|案例研究]]）
 >
-> > **一、[[Research Question|研究问题]]**（The [[Research Problem]]）
+> > **一、[[Research Question|研究问题]]（The [[Research Problem]]）**
 > >
 > > 烟草使用是美国社会中癌症的主要成因（McGinnis & Foefe, 1993）。虽然成年人吸烟率近年来有所下降，但青少年吸烟率实际上在上升。美国疾病控制与预防中心报告称，高中生吸烟率从 1991 年的 27.5% 上升至 1995 年的 34.8%（USDHHS, 1996）。除非这一趋势得到显著逆转，否则我们国家预计将有 500 万儿童最终过早死亡（Centers for Disease Control and Prevention, 1996）。
 >
-> > **二、证明问题重要性的[[Document|文献]]证据**（Evidence from Literature Justifying Problem）
+> > **二、证明问题重要性的[[Document|文献]]证据（Evidence from Literature Justifying Problem）**
 > >
 > > 以往关于青少年烟草使用的研究集中在四个主要主题。若干研究考察了年轻人开始吸烟的问题，指出烟草使用早在初中阶段即已开始（如 Heishman et al., 1997）。其他研究关注了学校中的吸烟预防和烟草使用，这类研究催生了大量校本预防项目和干预措施（如 Sussman, Dent, Burton, Stacy, & Flay, 1995）。较少研究考察了青少年的"戒烟尝试"或戒烟行为，这与针对成年人戒烟尝试的广泛研究形成鲜明对比（Heishman et al., 1997）。研究者同样关注了青少年吸烟的社会情境和社会影响（Fearnow, Chassin, & Presson, 1998）。例如，青少年吸烟可能发生在工作相关情境中、在家中（父母或照护者有一人或多人吸烟时）、在青少年社交活动中，或在高中附近被指定为"安全"吸烟区的场所（McVea et al., in press）。
 > >

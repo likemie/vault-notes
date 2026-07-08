@@ -76,7 +76,7 @@ updated: 2026-06-01
 
 ### 知识租金的经济
 
-学术评价和排名体系创造了一种**[[Knowledge Rents|知识租金]]**（knowledge rents）的经济——精英机构通过控制知识的合法定义和评价标准，获取和维持特权地位。知识产权制度（专利、版权）将本应属于公共品的知识转化为可私人占有的资产(Drahos & Braithwaite, 2002; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])。
+学术评价和排名体系创造了一种**[[Knowledge Rents|知识租金]]（knowledge rents）**的经济——精英机构通过控制知识的合法定义和评价标准，获取和维持特权地位。知识产权制度（专利、版权）将本应属于公共品的知识转化为可私人占有的资产(Drahos & Braithwaite, 2002; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])。
 
 ## 两种类型学
 
@@ -105,9 +105,9 @@ updated: 2026-06-01
 ## 与相关理论的关系
 
 > [!tip]-
-> - **Bourdieu 的学术[[Champ|场域]]**：[[Pierre Bourdieu]] 的"学术阶级分数"理论直接支持了新封建主义的等级分析——不同分数具有不同的资本构成和再生产策略([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
+> - **Bourdieu 的学术[[Champ|场域]]** [[Pierre Bourdieu]] 的"学术阶级分数"理论直接支持了新封建主义的等级分析——不同分数具有不同的资本构成和再生产策略([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 > - **新 Weber 式权力分析** 探索有目标的策略行动者之间的组织权力动力如何贡献于处理冲突的制度形式(Clark, 1983; Gumport, 2007;)
-> - **马克思主义[[Knowledge Capitalism|知识资本主义]]分析**：将新封建等级视为知识资本主义的系统性特征——资本主义[[Knowledge-Based Economy|知识经济]]需要一个非资本主义部门来界定知识为有价值，而多样化的学术评估机制正好提供了这一服务（Reitz; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.805]]）
+> - **马克思主义[[Knowledge Capitalism|知识资本主义]]分析** 将新封建等级视为知识资本主义的系统性特征——资本主义[[Knowledge-Based Economy|知识经济]]需要一个非资本主义部门来界定知识为有价值，而多样化的学术评估机制正好提供了这一服务（Reitz; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.805]]）
 
 ## 争议与批评
 

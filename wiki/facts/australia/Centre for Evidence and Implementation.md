@@ -87,7 +87,7 @@ updated: 2026-06-16
 
 > [!tension] 争议焦点
 > - **自说自话的“闭环专家组”** 该审查所咨询并依赖的“外部专家”，绝大多数均是来自于 CEI 机构内部自身的人员，以及其他友好“什么有效”（what works）中介中心，形成了一个高度闭环、自我背书的自循环网络。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **文献窄化与[[Technical Rationality|技术理性]]偏向**：该报告的文献索引几乎完全限制在《实施科学》（*Implementation Science*）和《实施科学通讯》（*Implementation Science Communications*）两本期刊上，被指涉嫌人为收窄证据范围，为强推预设大纲量身定制。
+> - **文献窄化与[[Technical Rationality|技术理性]]偏向** 该报告的文献索引几乎完全限制在《实施科学》（*Implementation Science*）和《实施科学通讯》（*Implementation Science Communications*）两本期刊上，被指涉嫌人为收窄证据范围，为强推预设大纲量身定制。
 
 ---
 

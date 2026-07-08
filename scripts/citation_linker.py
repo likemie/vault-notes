@@ -339,6 +339,70 @@ def link_wikilink_narrative(text: str, lookup: dict[str, dict[str, Any]], stats:
     return WIKILINK_NARRATIVE_RE.sub(repl, text)
 
 
+YEAR_TOKEN_RE = re.compile(r"((?:19|20)\d{2})([a-z])?")
+DISPLAY_WIKILINK_RE = re.compile(r"\[\[([^\]\n|]+)\|([^\]\n]+)\]\]")
+
+
+def build_target_aliases(lookup: dict[str, dict[str, Any]]) -> dict[str, list[str]]:
+    targets: dict[str, list[str]] = {}
+    for alias, entry in lookup.items():
+        arg = entry.get("argument")
+        if not arg:
+            continue
+        targets.setdefault(arg, [])
+        if alias not in targets[arg]:
+            targets[arg].append(alias)
+    return targets
+
+
+def rewrite_drifted_display(display: str, aliases: list[str]) -> str | None:
+    """Rewrite an Argument link display whose a/b/c suffix drifted from citation_aliases.
+
+    'Cohen et al., 2011, p. 30' -> 'Cohen et al., 2011a, p. 30' when the target's
+    alias is 'Cohen et al., 2011a'. Returns None when no safe rewrite exists.
+    """
+    m = YEAR_TOKEN_RE.search(display)
+    if not m:
+        return None
+    narrative = display[: m.start()].rstrip().endswith(("(", "（"))
+    d_author = normalize_author(display[: m.start()].strip(" ,，（(")).lower()
+    if not d_author:
+        return None
+    tail = display[m.end():]
+    for alias in aliases:
+        am = YEAR_TOKEN_RE.search(alias)
+        if not am:
+            continue
+        if alias[: am.start()].rstrip().endswith(("(", "（")) != narrative:
+            continue
+        if normalize_author(alias[: am.start()].strip(" ,，（(")).lower() != d_author:
+            continue
+        if am.group(1) != m.group(1):
+            continue
+        # Replace only the year token so any wrapping text/parens are preserved.
+        candidate = display[: m.start()] + am.group(0) + tail
+        return candidate if candidate != display else None
+    return None
+
+
+def fix_display_suffixes(text: str, targets: dict[str, list[str]], stats: dict[str, int]) -> str:
+    fm, body = split_frontmatter(text)
+
+    def repl(match: re.Match[str]) -> str:
+        target = match.group(1).strip()
+        display = match.group(2).strip()
+        aliases = targets.get(target)
+        if not aliases:
+            return match.group(0)
+        fixed = rewrite_drifted_display(display, aliases)
+        if fixed is None:
+            return match.group(0)
+        stats["fixed_display"] += 1
+        return f"[[{target}|{fixed}]]"
+
+    return fm + DISPLAY_WIKILINK_RE.sub(repl, body)
+
+
 def link_text(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
     fm, body = split_frontmatter(text)
     body = link_wikilink_parenthetical(body, lookup, stats, missing)
@@ -353,6 +417,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Link APA short citations to Argument pages.")
     parser.add_argument("--dry-run", action="store_true", help="Preview changes without writing.")
     parser.add_argument("--full", action="store_true", help="Process all wiki Markdown files.")
+    parser.add_argument("--fix-display", action="store_true", help="Also rewrite Argument link displays whose a/b/c year suffix drifted from citation_aliases.")
     parser.add_argument("paths", nargs="*", help="Optional wiki Markdown files to process.")
     args = parser.parse_args()
 
@@ -361,7 +426,8 @@ def main() -> int:
         return 1
 
     lookup = load_lookup()
-    stats = {"linked_parenthetical": 0, "linked_narrative": 0}
+    stats = {"linked_parenthetical": 0, "linked_narrative": 0, "fixed_display": 0}
+    targets = build_target_aliases(lookup) if args.fix_display else {}
     missing: list[str] = []
     changed = 0
     for path in iter_target_markdown(full=args.full, paths=args.paths):
@@ -370,6 +436,8 @@ def main() -> int:
         text = path.read_text(encoding="utf-8", errors="replace")
         before = dict(stats)
         new_text = link_text(text, lookup, stats, missing)
+        if args.fix_display:
+            new_text = fix_display_suffixes(new_text, targets, stats)
         if new_text != text:
             changed += 1
             rel = path.relative_to(ROOT)
@@ -380,6 +448,8 @@ def main() -> int:
     print(f"{'[dry-run] ' if args.dry_run else ''}files changed: {changed}")
     print(f"🔗 linked parenthetical groups: {stats['linked_parenthetical']}")
     print(f"🔗 linked narrative citations: {stats['linked_narrative']}")
+    if args.fix_display:
+        print(f"🔧 fixed drifted citation displays: {stats['fixed_display']}")
     if missing:
         print("⚠️ unresolved citation aliases:")
         for item in sorted(set(missing))[:200]:

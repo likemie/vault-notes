@@ -92,11 +92,11 @@ updated: '2026-06-08'
 > [!tip]-
 > 对 [[PISA]] 的批评涵盖三个根本缺陷([[Argument_Zhao_2020_JEC|Zhao, 2020]])：
 >
-> **捏造的主张**（[[PISA Made-up Claim]]）。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 TIMSS 等其他国际评估高度相关。
+> **捏造的主张（[[PISA Made-up Claim]]）**。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 TIMSS 等其他国际评估高度相关。
 >
-> **单一教育观**（[[PISA Monolithic View of Education]]）。PISA 将 [[OECD]] 成员国的西方[[Hypothesis|假设]]强加于全球近 200 个国家。
+> **单一教育观（[[PISA Monolithic View of Education]]）**。PISA 将 [[OECD]] 成员国的西方[[Hypothesis|假设]]强加于全球近 200 个国家。
 >
-> **扭曲的教育观**（[[PISA Distorted View of Education]]）。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
+> **扭曲的教育观（[[PISA Distorted View of Education]]）**。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
 >
 > 此外，PISA 高分与学生兴趣、幸福感、创业信心之间存在负相关（[[PISA Score Negative Correlation]]），[[PISA Glorifying Authoritarian Education|PISA 美化威权教育]]系统中的自我谴责特质（[[PISA Glorifying Authoritarian Education]]），以及 PISA 实施中存在抽样问题、评估偏差和 [[Rasch Measurement|Rasch 模型]]适用性问题。
 

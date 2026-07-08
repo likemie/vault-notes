@@ -2,7 +2,6 @@
 title: Knowledge Exchange
 aliases:
   - "知识交流"
-  - "knowledge transfer"
   - "knowledge exchange and transfer"
   - "KE"
 summary: "大学与产业及更广泛社会之间知识流动的多种机制和路径，涵盖合同研究、咨询、人员交流、设施共享、培训等，比技术转移范围更广，尤以英国高等教育政策为代表框架"
@@ -19,7 +18,7 @@ tags:
   - "theme/knowledge-exchange"
 related_concepts:
   - "[[Technology Transfer]]"
-  - "[[Third Mission (Universities)]]"
+  - "[[Third Mission|Third Mission (Universities)]]"
   - "[[Executive Education]]"
   - "[[Further Education]]"
   - "[[Joint Faculty Appointments]]"
@@ -46,14 +45,14 @@ updated: 2026-05-27
 > [!info]
 > 知识交流（Knowledge Exchange, KE）指大学与产业、政府、社会之间通过多种正式和非正式机制进行知识流动的广泛过程。它不仅包括[[Technology Transfer|技术转移]]所关注的知识产权许可和衍生企业，还涵盖合同研究、咨询、人员交流、联合发表、设施共享、培训、网络活动和会议参与等多种途径([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]]; Hughes & Kitson, 2012)。
 
-> 在英国高等教育政策语境中，知识交流被定位为大学的"[[Third Mission (Universities)|第三使命]]"（Third Mission）的核心内容——在研究和教学之外，大学通过系统化的知识交流活动推动创新和经济发展(Ulrichsen, 2024; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.42–43]])。
+> 在英国高等教育政策语境中，知识交流被定位为大学的"[[Third Mission|第三使命]]"（Third Mission）的核心内容——在研究和教学之外，大学通过系统化的知识交流活动推动创新和经济发展(Ulrichsen, 2024; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.42–43]])。
 
 ---
 
 ## 概念辨析
 
 > [!example]
-> **vs [[Technology Transfer]]**：技术转移关注知识产权从大学向商业应用的流动（许可、专利、衍生企业），是知识交流的一个子集。知识交流的范围更广——它承认并非所有有价值的知识都具备可专利性，也并非所有产学互动都需要知识产权框架。例如，企业通过参加学术会议获取前沿洞见、通过研究生联合培养吸收隐性知识（tacit knowledge），这些都属于知识交流但不属于技术转移([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.44–46]])。
+> **vs [[Technology Transfer]]** 技术转移关注知识产权从大学向商业应用的流动（许可、专利、衍生企业），是知识交流的一个子集。知识交流的范围更广——它承认并非所有有价值的知识都具备可专利性，也并非所有产学互动都需要知识产权框架。例如，企业通过参加学术会议获取前沿洞见、通过研究生联合培养吸收隐性知识（tacit knowledge），这些都属于知识交流但不属于技术转移([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.44–46]])。
 
 ---
 
@@ -68,7 +67,7 @@ updated: 2026-05-27
 - **研究生奖学金与联合培养（graduate fellowships）**
 - **原型开发与测试服务** 利用大学设施为企业进行产品原型开发和性能测试
 - **联合开发物理设施** 大学与企业共同投资建设实验室、中试车间等
-- **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]和专业技能培训
+- **培训与[[Executive Education|高管教育]]** 为企业员工提供[[Further Education|继续教育]]和专业技能培训
 - **人员交流（people exchange）** 包括实习、联合聘任（[[Joint Faculty Appointments|joint appointments]]）、借调（secondments）等
 - **非正式互动** 网络活动、联合参加学术-产业会议、邀请企业进校园讲座——这些活动虽不产生直接经济收益，但在建立社会关系和促进隐性知识流动方面的作用不可忽视
 
@@ -77,7 +76,7 @@ updated: 2026-05-27
 ## 制度支撑：英国的经验
 
 > [!note]-
-> 英国在 2000 年代后建立了系统化的知识交流支持体系，其关键特征是**从项目制竞争性资金转向公式驱动的长期稳定拨款**([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.42–43]])。这种长期稳定的资金使大学能够进行以下投资（Ulrichsen, 2024）：
+> 英国在 2000 年代后建立了系统化的知识交流支持体系，其关键特征是**从项目制竞争性资金转向公式驱动的长期稳定拨款([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.42–43]])**。这种长期稳定的资金使大学能够进行以下投资（Ulrichsen, 2024）：
 
 - 设立新的知识交流领导角色和战略
 - 改善学术人员的激励机制和工作文化

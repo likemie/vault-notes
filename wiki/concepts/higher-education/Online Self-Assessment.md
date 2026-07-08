@@ -75,8 +75,8 @@ OSA 的核心运作方式不是直接筛选，而是依赖自我选择效应：�
 
 OSA 的运作依赖三个相互衔接的数据过程([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–226]])：
 
-- **构建[[Digital Self|数字自我]]**：收集学生的兴趣、先前经验、动机和认知技能数据，通过 [[Learning Analytics|学习分析]]技术构建"学习者模型"（learner models），将学生特征转化为一组可被归因于该个体的数字和指标——即[[Digital Self|数字自我]]（digital self）(Bächle, 2016, p.194; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–225]])
-- **生成[[Digital Optimum|数字最优]]**：算法理性持续优化和标准化评估过程，产生一个"完美起点"的理想形象——即数字最优（digital optimum）([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
+- **构建[[Digital Self|数字自我]]** 收集学生的兴趣、先前经验、动机和认知技能数据，通过 [[Learning Analytics|学习分析]]技术构建"学习者模型"（learner models），将学生特征转化为一组可被归因于该个体的数字和指标——即[[Digital Self|数字自我]]（digital self）(Bächle, 2016, p.194; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–225]])
+- **生成[[Digital Optimum|数字最优]]** 算法理性持续优化和标准化评估过程，产生一个"完美起点"的理想形象——即数字最优（digital optimum）([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 - **差异驱动自我优化**[[Digital Self|数字自我]]与数字最优之间的差距构成一种"差异"（differential），通过数据对个体进行"质询"（interpellation of data），驱动学生管理自己的"学习组合"（study portfolio）和主动自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 
 详见 [[Digital Self]]。
@@ -127,7 +127,7 @@ Thompson 等人（2022, pp.223–224）从大学政策[[Document|文件]]和进�
 > [!warning]
 
 - **自我选择还是隐性筛选？** 尽管 OSA 被宣称为非筛选性的"咨询"工具，其自我选择机制在实践中可能导致与直接筛选等效的排斥效果——得到负面结果的学生可能自我淘汰([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.223]])
-- **[[Digital Self|数字自我]]的简化性**：将学生简化为数据特征和统计概率，忽略了教育过程中不可量化的维度——困惑的质量、创造性的酝酿、同伴间的非正式互动([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
+- **[[Digital Self|数字自我]]的简化性** 将学生简化为数据特征和统计概率，忽略了教育过程中不可量化的维度——困惑的质量、创造性的酝酿、同伴间的非正式互动([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 - **可预测性的幻觉** OSA 的逻辑预设学生的未来可以被入场数据预测，但这排除了教育的根本开放性——[[Bildung]] 指向的是一个超越数据相关性的、开放且不可预测的未来([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 - **对学术公共空间的侵蚀** 当每个人都沿着自己的学习轨迹独自优化时，大学作为学术共同体的公共空间——共同建构知识和进行审议——可能被削弱。高等教育中的批判实践——即对所呈现的知识采取立场、重新打开思考和探索的空间——可能因此消解([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 

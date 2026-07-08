@@ -100,7 +100,7 @@ updated: 2026-06-22
 
 ## 敏感研究中的隐私
 
-在[[Sensitive Research|敏感研究]]中，隐私与公共利益的张力尤为尖锐（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 213–214]]）：
+在[[Sensitive Research|敏感研究]]中，隐私与公共利益的张力尤为尖锐（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 213–214]]）：
 
 > [!tension] 隐私 vs 公共知情权
 > - **隐私优先** 个人有权不让私人信息进入公共领域。即使研究能揭示重要的公共问题，也不能以侵犯个人隐私为代价。Simons (2000, p. 45) 在反思敏感研究的代价时直言"代价太高了"。

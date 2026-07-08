@@ -89,7 +89,7 @@ updated: '2026-06-21'
 > [!term] 知识结构辨析：[[Disciplina and Doctrina|disciplina]] 与 Doctrina
 > - **Disciplina（学科/纪律）** 词源学上强调“灌输知识的方法”及中世纪“训诫、纠错与惩戒”含义。它属于“寄存已发现知识的地方”，而非“动态的知识产出系统”。过度偏重 `disciplina` 易导致知识僵化和外部控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 > - **Doctrina（教导的动态发展）** 侧重于知识进一步更新与演进的可能性与需求，旨在使成熟知识与不确定未来及开放世界连接。
-> - **跨学科深度的关键（[[Critical Realism]] 视角）**：批判现实主义主张，[[Discipline-Based Theory|学科理论]]是人类探索生活世界不同现象过程中沉淀出的理论秩序，具备自身的本体论深度（Ontological depth）。PhBL 并非通过消解学科来减负，而是通过“现象”将 `disciplina` 与 `doctrina` 有机整合。
+> - **跨学科深度的关键（[[Critical Realism]] 视角）** 批判现实主义主张，[[Discipline-Based Theory|学科理论]]是人类探索生活世界不同现象过程中沉淀出的理论秩序，具备自身的本体论深度（Ontological depth）。PhBL 并非通过消解学科来减负，而是通过“现象”将 `disciplina` 与 `doctrina` 有机整合。
 
 > [!boundary]- 概念边界与关联
 > - **有别于PBL（问题导向学习）** PBL 扎根于认知心理学，以解决特定预设问题为导向；而 PhBL 奠基于现象学、教化哲学与教学论传统，从生活世界体验的“现象”本身出发。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8]]
@@ -181,7 +181,7 @@ updated: '2026-06-21'
 > > PhBL 扎根于[[Phenomenology|现象学]]和欧陆教化（Bildung）传统，旨在培养面对未知开放未来的主体自治性。但其在课程化过程中遭遇了新自由主义绩效管理（[[Performativity]]）的侵蚀。以 [[OECD]] 和欧盟为代表的[[21st Century Skills and Competencies Discourse|21世纪技能]]政策话语倾向于将[[Atomisation of Knowledge and Skills|知识与技能原子化]]为可量化的[[Performance Indicators|绩效指标]]，这使得 PhBL 的整体教学理想面临被碎片化和工具化的风险。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]
 
 > [!warning] 适用局限
-> - **概念定义的模糊性与实施的高[[Heterogeneity|异质性]]**：芬兰国家核心课程文本中并未给 PhBL 提供统一、清晰的[[Definition of Terms|操作性定义]]。这导致各地区学校和教师在实践[[Transfer Translation Transformation|转译]]中呈现极高的实施异质性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 10–11]]
+> - **概念定义的模糊性与实施的高[[Heterogeneity|异质性]]** 芬兰国家核心课程文本中并未给 PhBL 提供统一、清晰的[[Definition of Terms|操作性定义]]。这导致各地区学校和教师在实践[[Transfer Translation Transformation|转译]]中呈现极高的实施异质性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 10–11]]
 > - **缺乏大规模量化实证证据支持** 当前对 PhBL 的价值主张和政策辩护多停留在哲学与规范性批判（Normative critique）层面，关于其具体学习成效、跨学科认知负荷及学校组织变革影响，仍缺乏充分的经验实证与量化评估数据。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 11]]
 
 ---

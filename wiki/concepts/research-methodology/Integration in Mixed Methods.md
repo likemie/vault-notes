@@ -77,7 +77,7 @@ updated: 2026-06-02
 > [!abstract]
 > 整合分析的具体操作因设计类型而异，但都遵循一个基本逻辑：先分别分析两个数据库，再进行跨数据库的整合分析。
 >
-> **[[Convergent Design|聚敛式设计]]的三阶段整合分析**([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.238]])：
+> **[[Convergent Design|聚敛式设计]]的三阶段整合分析([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.238]])**
 > 1. 分析质性数据库（[[Coding in Qualitative Research|编码]]→主题）
 > 2. 分析量化数据库（统计结果）
 > 3. 进行[[Mixed Methods Research|混合方法]]整合分析，有三种方式：

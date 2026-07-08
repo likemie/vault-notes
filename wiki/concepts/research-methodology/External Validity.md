@@ -113,13 +113,13 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 
 ## 质性研究中的外部效度
 
-在自然主义研究中，可推广性被重新解释为**可比较性（comparability）**和**可迁移性（transferability）**（Lincoln & Guba, 1985; Eisenhart & Howe, 1992: 647）。研究者应评估情境、参与者和环境的**典型性（typicality）**，识别可能的比较群体，并说明数据如何转化为不同环境和文化的意义（LeCompte & Preissle, 1993: 348）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 171–172)]]
+在自然主义研究中，可推广性被重新解释为**可比较性（comparability）**和**可迁移性（transferability）（Lincoln & Guba, 1985; Eisenhart & Howe, 1992: 647）**。研究者应评估情境、参与者和环境的**典型性（typicality）**，识别可能的比较群体，并说明数据如何转化为不同环境和文化的意义（LeCompte & Preissle, 1993: 348）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 171–172)]]
 
 > [!claim] Schofield 的质性可推广性路径
-> Schofield (1996: 200) 认为[[Qualitative Research|质性研究]]提供清晰、详细和深入的描述至关重要——以便他人判断一项研究的发现在多大程度上可推广到另一种情境，即解决可比较性和可翻译性这一对问题。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性——即可迁移性）；以及进行**多场所研究**（multi-site studies，如 Miles & Huberman, 1984）。
+> Schofield (1996: 200) 认为[[Qualitative Research|质性研究]]提供清晰、详细和深入的描述至关重要——以便他人判断一项研究的发现在多大程度上可推广到另一种情境，即解决可比较性和可翻译性这一对问题。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性——即可迁移性）；以及进行**多场所研究（multi-site studies，如 Miles & Huberman, 1984）**。
 
 > [!boundary] Lincoln & Guba 对研究者任务的限定
-> Lincoln & Guba (1985: 316) 明确界定：自然主义研究者**不应**试图提供可迁移性指标——这不是研究者的任务。研究者应做的是提供**足够丰富的数据**，让读者和[[Research Utilization|研究使用]]者自行判断迁移是否可能。在此意义上，可迁移性需要**[[Rich and Thick Description|厚描述]]**（thick description）。
+> Lincoln & Guba (1985: 316) 明确界定：自然主义研究者**不应**试图提供可迁移性指标——这不是研究者的任务。研究者应做的是提供**足够丰富的数据**，让读者和[[Research Utilization|研究使用]]者自行判断迁移是否可能。在此意义上，可迁移性需要**[[Rich and Thick Description|厚描述]]（thick description）**。
 
 ---
 
@@ -158,7 +158,7 @@ Bogdan & Biklen (1992: 45) 从更广泛的角度总结：在质性研究中，�
 > [!note] 两种额外的效度威胁
 > 除内部效度和外部效度外，Creswell & Creswell (2022, Ch8) 还提到了另外两种效度威胁：
 > - **统计结论效度（Statistical Conclusion Validity）** 因统计功效不足或违反统计[[Hypothesis|假设]]而导致研究者从数据中得出不准确的推论。
-> - **[[Construct Validity|构念效度]]威胁（Threats to [[Construct]] Validity）**：研究者使用不恰当的[[Variable|变量]]定义和测量方式，导致构念的[[Operationalization|操作化]]无法准确反映理论构念。
+> - **[[Construct Validity|构念效度]]威胁（Threats to [[Construct]] Validity）** 研究者使用不恰当的[[Variable|变量]]定义和测量方式，导致构念的[[Operationalization|操作化]]无法准确反映理论构念。
 
 > [!tension] 可推广性的[[Paradigm Wars|范式之争]]
 > - **量化立场** 可推广性是[[Necessary and Sufficient Conditions|必要条件]]（sine qua non）。通过[[Random Sampling|随机抽样]]、大样本和统计推断，从样本推广到总体——去情境化是前提而非缺陷。

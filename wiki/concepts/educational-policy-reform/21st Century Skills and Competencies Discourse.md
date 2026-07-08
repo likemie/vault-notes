@@ -85,9 +85,9 @@ SCD 中的技能和素养被理解为一个统摄性概念，涵盖知识社会�
 ## 概念辨析
 
 > [!example] 与邻近概念的关系
-> - **vs [[Graduate Attributes|毕业生特质]]**：[[Single-Case Design|SCD]] 运作于全球政策层面，由国际组织和跨国伙伴主导框架制定，界定哪些技能值得拥有；毕业生特质是大学层面对这些技能的制度化操作，将全球话语转化为具体的培养目标和课程设计。SCD 是话语层，毕业生特质是实施层。两者在内容上高度重叠（如 4C 技能），但驱动逻辑不同：SCD 更偏向经济竞争力和劳动力市场预测，毕业生特质则同时包含公民责任和终身发展维度([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1341]])。
-> - **vs [[Employability|就业能力]]**：就业能力是 SCD 的核心目标之一，但 SCD 的范围更广——它不仅定义什么是就业能力，还塑造个体如何看待自己的技能获取责任([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
-> - **vs [[Global Citizenship|全球公民]]**：SCD 聚焦经济生产力导向的技能（[[Critical Thinking|批判性思维]]、协作等），全球公民则强调跨文化沟通、社会正义和环境伦理。在 SCD 框架中，全球公民类技能（环境素养、文化理解）处于系统性边缘地位([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.257–258]])；博士层次的实证数据同样显示，全球公民属性是发展感知最低的特质组([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.89–90]])。
+> - **vs [[Graduate Attributes|毕业生特质]]** [[Single-Case Design|SCD]] 运作于全球政策层面，由国际组织和跨国伙伴主导框架制定，界定哪些技能值得拥有；毕业生特质是大学层面对这些技能的制度化操作，将全球话语转化为具体的培养目标和课程设计。SCD 是话语层，毕业生特质是实施层。两者在内容上高度重叠（如 4C 技能），但驱动逻辑不同：SCD 更偏向经济竞争力和劳动力市场预测，毕业生特质则同时包含公民责任和终身发展维度([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1341]])。
+> - **vs [[Employability|就业能力]]** 就业能力是 SCD 的核心目标之一，但 SCD 的范围更广——它不仅定义什么是就业能力，还塑造个体如何看待自己的技能获取责任([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
+> - **vs [[Global Citizenship|全球公民]]** SCD 聚焦经济生产力导向的技能（[[Critical Thinking|批判性思维]]、协作等），全球公民则强调跨文化沟通、社会正义和环境伦理。在 SCD 框架中，全球公民类技能（环境素养、文化理解）处于系统性边缘地位([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.257–258]])；博士层次的实证数据同样显示，全球公民属性是发展感知最低的特质组([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.89–90]])。
 > - **vs 人力资本理论** 二者共享教育投资带来经济回报的基本[[Hypothesis|假设]]，但 SCD 更进一步：它不仅认为技能有经济价值，还通过框架的制定和推广界定了哪些技能有价值和哪些没有，从而塑造全球教育治理的方向([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.258–259]])。
 
 ---
@@ -183,7 +183,7 @@ SCD 中的技能和素养被理解为一个统摄性概念，涵盖知识社会�
 
 ### 个体化与竞争性
 
-从词源上看，competence（素养／能力）的词根与 compete（竞争）相同。具备某项素养意味着做某事做得好或成功（Cambridge Dictionary），这不仅是对自身能力的最佳发挥，更是对外部成功期望的回应。Hampson 和 Junor（2009）将其视为典型的盎格鲁概念——个人主义的、由雇主定义的、不受其他社会力量制约([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。
+从词源上看，competence（素养／能力）的词根与 compete（竞争）相同。具备某项素养意味着做某事做得好或成功（Cambridge Dictionary），这不仅是对自身能力的最佳发挥，更是对外部成功期望的回应。Hampson & Junor（2009）将其视为典型的盎格鲁概念——个人主义的、由雇主定义的、不受其他社会力量制约([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。
 
 因此，素养的获取伴随着对竞争的准备（readiness to compete）。成功标准虽然表现为个人化的，但实际上并非由个体自己设定，而是由外部期望、规范和价值观所决定，使个体长期处于竞争和自我实现的状态之中。
 
@@ -191,7 +191,7 @@ SCD 中的技能和素养被理解为一个统摄性概念，涵盖知识社会�
 
 关键素养和技能在框架中被呈现为事实本身，不提及应当获取和使用它们的主体。未来主体被刻画为初始性地和前[[Reflexivity|反思性]]地愿意获取任何必要素养的形象([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。
 
-技能的获取被呈现为一种必然性和事件的自然进程——持续的、开放的、高度竞争的追求，而非一种经过审慎思考的选择。然而，没有人需要对未来劳动力需要什么的错误预测负责。Finegold 和 Notabartolo（2010, p.41）指出，如果工作岗位的设计不使用这些能力，投资提升个体通用能力不太可能带来正回报。
+技能的获取被呈现为一种必然性和事件的自然进程——持续的、开放的、高度竞争的追求，而非一种经过审慎思考的选择。然而，没有人需要对未来劳动力需要什么的错误预测负责。Finegold & Notabartolo（2010, p.41）指出，如果工作岗位的设计不使用这些能力，投资提升个体通用能力不太可能带来正回报。
 
 ### 地缘政治维度
 
@@ -285,7 +285,7 @@ SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养�
 
 ### 方法论批评
 
-**[[Causality|因果]]证据匮乏**。Pellegrino 和 Hilton（2012, p.4）指出，迄今为止只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality|因果关系]]。公开宣称的技能（国际框架中）与正式要求的技能（求职时）之间的比较研究尚未完成([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
+**[[Causality|因果]]证据匮乏**。Pellegrino & Hilton（2012, p.4）指出，迄今为止只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality|因果关系]]。公开宣称的技能（国际框架中）与正式要求的技能（求职时）之间的比较研究尚未完成([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
 
 **测量困境**。如何衡量这些素养的获取以及它们之间的相互关系，仍然存在争议（Finegold & Notabartolo, 2010, p.30）。人际和内省技能无法通过制度化程序测量，而需要工作和生活文化的长期精炼([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.262]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]对[[Global Citizenship|全球公民]]的[[Operationalization|操作化]]尝试——将 O'Brien（2011）的数字、文化、社会沟通三种素养压缩为三个 Likert 评分项——也暴露了同样的测量挑战（pp.87–89）。
 

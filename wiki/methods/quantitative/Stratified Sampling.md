@@ -50,7 +50,7 @@ updated: 2026-06-22
 
 > [!proc] 两步程序
 > 1. **划分层次** 识别总体中必须在样本中出现的关键特征，将总体划分为同质的离散组（层），如男性组和女性组。
-> 2. **层内[[Random Sampling|随机抽样]]**：在各组内独立进行[[Random Sampling|简单随机抽样]]，各组[[Sample Size Determination|样本量]]由研究者判断或参照随机样本量表确定。
+> 2. **层内[[Random Sampling|随机抽样]]** 在各组内独立进行[[Random Sampling|简单随机抽样]]，各组[[Sample Size Determination|样本量]]由研究者判断或参照随机样本量表确定。
 
 ## 适用场景
 

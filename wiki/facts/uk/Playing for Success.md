@@ -81,9 +81,9 @@ updated: '2026-05-18'
 > [!success] 在 [[Evidence-Based Education|EBE]] 辩论中的意义
 > [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, pp. 120–123)]] 将 Playing for Success 作为揭示 [[Education Endowment Foundation|EEF]] Toolkit [[Meta-meta-analysis|元-元分析]]程序缺陷的深度案例：
 >
-> 1. **[[Effect Size|效应量]]的误归类**：Playing for Success 的 0.80 效应量（数学）被并入"体育参与"的平均效应量 0.17。但该项目的核心特征（一对一辅导、个性化课程、ICT 套件、足球明星见面会带来的地位提升）与普通"体育参与"几乎没有共同之处。Wrigley & McCusker 论证："将成功仅仅归因于'体育参与作为接受额外数学教学的激励'——如 EEF 摘要所做——是没有用的"（p. 121）。
+> 1. **[[Effect Size|效应量]]的误归类** Playing for Success 的 0.80 效应量（数学）被并入"体育参与"的平均效应量 0.17。但该项目的核心特征（一对一辅导、个性化课程、ICT 套件、足球明星见面会带来的地位提升）与普通"体育参与"几乎没有共同之处。Wrigley & McCusker 论证："将成功仅仅归因于'体育参与作为接受额外数学教学的激励'——如 EEF 摘要所做——是没有用的"（p. 121）。
 >
-> 2. **[[Causality|因果]]信息的系统性丢失**：当 Playing for Success 的详细评估报告被逐级简化为一个效应量（0.80）、然后一个[[Meta-analysis|元分析]]平均值（0.19 学业 / 0.80 数学）、然后一个元-元分析平均值（0.17）时，所有解释该项目为什么成功的因果信息都消失了——个性化课程设计、情境化学习活动、地位提升效应、一对一辅导、20 小时密集投入。
+> 2. **[[Causality|因果]]信息的系统性丢失** 当 Playing for Success 的详细评估报告被逐级简化为一个效应量（0.80）、然后一个[[Meta-analysis|元分析]]平均值（0.19 学业 / 0.80 数学）、然后一个元-元分析平均值（0.17）时，所有解释该项目为什么成功的因果信息都消失了——个性化课程设计、情境化学习活动、地位提升效应、一对一辅导、20 小时密集投入。
 >
 > 3. **源研究质量被忽视** Playing for Success 严格来说不是 [[Randomised Controlled Trials|RCT]]——参与者自愿报名后教师选择谁参加（自我选择偏差）。而同一元分析中的其他源研究更不可靠：一项只有 15 名学生样本；两项比较的是武术与传统学校体育（而非体育参与与非参与）；一项是关于按摩和瑜伽中的"自我发现"([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 121]])。
 

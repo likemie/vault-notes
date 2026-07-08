@@ -42,7 +42,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 审计追踪（Audit trail）是[[Qualitative Research|质性研究]]中系统记录研究全过程证据的程序，使研究过程和结果可被外部追踪和审查。它是 Lincoln & Guba (1985) 建立**[[Reliability|可依赖性]]**（dependability）和**可确认性（confirmability）**的核心操作之一——通过提供完整的"决策轨迹"，使独立审计者能够判断研究结论是否与数据一致。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 162–163, 206)]]
+> 审计追踪（Audit trail）是[[Qualitative Research|质性研究]]中系统记录研究全过程证据的程序，使研究过程和结果可被外部追踪和审查。它是 Lincoln & Guba (1985) 建立**[[Reliability|可依赖性]]（dependability）**和**可确认性（confirmability）**的核心操作之一——通过提供完整的"决策轨迹"，使独立审计者能够判断研究结论是否与数据一致。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 162–163, 206)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 审计追踪的本质是将研究的**过程透明化**——不是声称研究发现是"客观的"，而是让外部审查者能够**追溯**研究者从原始数据到最终结论的每一步推理。
@@ -71,7 +71,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 将其列为[[Qualitative Validity|质性�
 > [!ref-table] 审计追踪在 Lincoln & Guba 框架中的功能
 > | 服务标准 | 机制 | 核心问题 |
 > |---|---|---|
-> | **[[Reliability\|可依赖性]]**（dependability） | 通过记录研究过程使[[External Auditor\|外部审计者]]能判断程序是否可接受 | 研究是否以一致和系统的方式进行？ |
+> | **[[Reliability\|可依赖性]]（dependability）** | 通过记录研究过程使[[External Auditor\|外部审计者]]能判断程序是否可接受 | 研究是否以一致和系统的方式进行？ |
 > | **可确认性（confirmability）** | 通过展示数据→分析→结论的链条确保发现源于数据而非研究者偏见 | 研究发现是否能追溯到数据本身？ |
 
 审计追踪使研究能解决结果的**可确认性**问题——在过程和产品两个方面（Golafshani, 2003: 601）。在可依赖性框架中，它还与[[Member Checking|成员核查]]、同伴汇报、[[Triangulation|三角验证]]、长期田野参与、反思日志、[[Negative Case Analysis|负面案例分析]]和独立审计并列（Lincoln & Guba, 1985: 108–9; Anfara et al., 2002）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 206)]]

@@ -22,7 +22,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[Semiconductor Research Corporation]]"
 related_arguments:
   - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
@@ -67,7 +67,7 @@ updated: 2026-05-28
 > 2. 度量与制度匹配 — 度量应匹配研究性质。对前竞争研究套用竞争型 IP 条款是一种度量错配：制度设计[[Hypothesis|假设]] IP 具有商业价值，但实际产出不具备。纠正方法是按项目规模和研究阶段分层设计 IP 条款和审批流程，使小型前竞争项目能够快速启动。
 
 > [!example]
-> **[[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的两层知识产权模型**：AMRC 通过区分前竞争研究与[[Product-Specific Research|产品专项研究]]来同时实现"竞争对手合作"和"个体竞争优势"。前竞争研究的 IP 归谢菲尔德大学所有，所有联合体成员以免版税方式平等使用——没有哪个成员出让竞争优势。在此基础上，成员可以在联合体协议之外另外赞助产品专项项目——这些项目涉及赞助企业的专有信息，IP 归赞助企业所有，构成从共同研究到商业应用的"[[Research Translation|技术转化]]工具"。两条轨道互补而非冲突：前竞争轨道创造了所有成员共享的知识池，产品专项轨道让每个成员能够将共同知识转化为自身竞争优势([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.114–115, 117–118]])
+> **[[Advanced Manufacturing Research Centre|AMRC]] 的两层知识产权模型** AMRC 通过区分前竞争研究与[[Product-Specific Research|产品专项研究]]来同时实现"竞争对手合作"和"个体竞争优势"。前竞争研究的 IP 归谢菲尔德大学所有，所有联合体成员以免版税方式平等使用——没有哪个成员出让竞争优势。在此基础上，成员可以在联合体协议之外另外赞助产品专项项目——这些项目涉及赞助企业的专有信息，IP 归赞助企业所有，构成从共同研究到商业应用的"[[Research Translation|技术转化]]工具"。两条轨道互补而非冲突：前竞争轨道创造了所有成员共享的知识池，产品专项轨道让每个成员能够将共同知识转化为自身竞争优势([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.114–115, 117–118]])
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-05-28
 > - **研究层面（合作区）** 共同面临的工艺技术挑战、基础科学问题、行业标准、互操作性规范、人才培养——这些是所有参与者共享成本可以更高效解决的
 > - **产品层面（竞争区）** 差异化的产品设计、专有制造工艺、特定客户解决方案——这些是构成个体竞争优势的领域，应排除在 PPP 的研究范围之外
 >
-> 这一区分的制度后果是：PPP 产出的前竞争 IP 归大学所有、所有成员免版税平等使用（如 [[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的两层模型），而产品层面的差异化开发由各成员在 PPP 框架之外独立进行([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.233–234]])。
+> 这一区分的制度后果是：PPP 产出的前竞争 IP 归大学所有、所有成员免版税平等使用（如 [[Advanced Manufacturing Research Centre|AMRC]] 的两层模型），而产品层面的差异化开发由各成员在 PPP 框架之外独立进行([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.233–234]])。
 
 > [!example] SRC 的应用
 > SRC（Semiconductor Research Corporation）是运用前竞争原则的典范：多家半导体竞争对手共同资助大学研究，但研究范围被限定在下一代工艺技术的基础科学和工程挑战——这些是所有成员都需要解决但任何单一公司都难以独立承担的问题。通过将合作框定在前竞争范围内，SRC 避免了成员之间在 IP 和竞争优势上的零和博弈([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–236]])。

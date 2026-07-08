@@ -14,7 +14,9 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
-citation: "Ulrichsen, T. C. (2025). Evolution of University-Industry Relationships for Driving Innovation. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 25–50). Springer."
+citation: "Ulrichsen, T. C. (2025). Evolution of University-Industry Relationships for Driving Innovation. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 25–50). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"
@@ -40,7 +42,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Corporate R&D Labs]]"
   - "[[Technology Transfer]]"
-  - "[[Third Mission (Universities)]]"
+  - "[[Third Mission|Third Mission (Universities)]]"
   - "[[Knowledge Exchange]]"
   - "[[Innovation Park]]"
   - "[[Knowledge Transfer]]"
@@ -66,7 +68,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: '2026-06-08'
+updated: 2026-07-08
 year: 2025
 doi: ""
 citation_aliases:
@@ -89,9 +91,9 @@ citation_aliases:
 > [!abstract]
 > 本章属于历史综述（historical review），不以单一理论为[[Analytic Framework|分析框架]]，而是整合多条理论线索来组织对 UIR 演变的追溯：
 
-- **[[Systems of Innovation|创新系统理论]]**(Lundvall et al., 2002)——将创新理解为多行动者在制度环境下的集体学习活动，是本章组织材料的核心视角。它帮助读者理解：UIR 不是孤立的人际互动，而是嵌套在法律框架、金融系统、文化规范等多层制度之中的系统行为
-- **[[Innovation Models Evolution|创新模型演变]]**（linear → coupling → systems integration → networked → systems of innovation）——五代创新模型为理解产学互动方式的历史变迁提供了坐标(Tidd, 2006; [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]])
-- **[[Innovation Policy Paradigms|创新政策范式]]**(Schot & Steinmueller, 2018)——"科学促增长 → 创新系统升级 → [[Transformative Change|变革转型]]"三阶段框架，解释了国家政策如何塑造[[University-Industry Collaboration|产学合作]]的激励和条件
+- **[[Systems of Innovation|创新系统理论]](Lundvall et al., 2002)**——将创新理解为多行动者在制度环境下的集体学习活动，是本章组织材料的核心视角。它帮助读者理解：UIR 不是孤立的人际互动，而是嵌套在法律框架、金融系统、文化规范等多层制度之中的系统行为
+- **[[Innovation Models Evolution|创新模型演变]]（linear → coupling → systems integration → networked → systems of innovation）**——五代创新模型为理解产学互动方式的历史变迁提供了坐标(Tidd, 2006; [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]])
+- **[[Innovation Policy Paradigms|创新政策范式]](Schot & Steinmueller, 2018)**——"科学促增长 → 创新系统升级 → [[Transformative Change|变革转型]]"三阶段框架，解释了国家政策如何塑造[[University-Industry Collaboration|产学合作]]的激励和条件
 - **[[Triple Helix]]** ——全书共享理论，本章为其提供五十年历史演化的经验证据；**[[Innovation Ecosystem|创新生态系统]]**同理，本章展示生态系统如何从概念走向制度化
 
 ---
@@ -311,7 +313,7 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 > 1. UIR 对驱动和赋能创新的重要性日益增长，这不是短期趋势或政策修辞，而是过去五十年长期结构性变化的结果：创新性质从线性到系统、政策[[Paradigm|范式]]从补市场到管系统、[[Knowledge Production|知识生产]]组织从企业实验室一体化到大学-初创-大企业分工协作(p.50)。
 > 2. UIR 的规模持续扩大，关系型互动取代交易型互动成为主导。美国产业资助大学研发从 1990 年 22 亿增至 2022 年 57 亿美元，英国大学[[Knowledge Transfer|知识转移]]收入从 2004 年 43 亿增至 2022 年 87 亿美元（均为不变价）(p.44)。
 > 3. 大企业从大量零散学术互动转向少数战略性大学伙伴，始于 2000 年代、加速于 2010 年代，其逻辑是深度关系在隐性知识转移和长期信任建立上比广度覆盖更具优势(pp.44–45)。
-> 4. UIR 日益制度化。大学在 2000 年代后正式承担了"[[Third Mission (Universities)|第三使命]]"，建立了从领导角色、支持单位到内部种子基金的体系化支撑。英国的长期公式拨款（而非项目制竞争）在此过程中被证明"极为宝贵"(pp.42–43, 50)。
+> 4. UIR 日益制度化。大学在 2000 年代后正式承担了"[[Third Mission|第三使命]]"，建立了从领导角色、支持单位到内部种子基金的体系化支撑。英国的长期公式拨款（而非项目制竞争）在此过程中被证明"极为宝贵"(pp.42–43, 50)。
 > 5. 影响 UIR 的因素分布在七个系统层面（大学领导、学术人员、互动项目、产业伙伴、制度、供给、需求），单一层面的干预（如仅要求大学设立 [[Technology Transfer Office|TTO]]）难以解决多层嵌套的系统性障碍(pp.48–49)。
 > 6. 面向未来，最关键的转变不是"做更多的[[University-Industry Collaboration|产学合作]]"，而是将研究、解决方案开发和人才培养整合起来应对重大社会挑战；拓宽 UIR 的行业和学科范围（纳入传统行业和人文社科）；实验能有效汇集多方资源和能力的新型组织形式(pp.47–51)。
 

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-06-21
+updated: 2026-07-08
 ---
 
 # Phenomenology
@@ -62,13 +62,13 @@ updated: 2026-06-21
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 人类的主观意识体验、日常生活世界（Lifeworld）的意义建构，以及个体如何通过直接经验和具身认知（Embodied cognition）与周围世界、他者（主体间性）发生关联。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3]]
+> - **解释对象** 人类的主观意识体验、日常生活世界（Lifeworld）的意义建构，以及个体如何通过直接经验和具身认知（Embodied cognition）与周围世界、他者（主体间性）发生关联。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3]]
 > - **理论问题** 回应[[Positivism|实证主义]]与[[Objectivism|客观主义]]将世界和人类经验“客观化”、“去情境化”和“去身体化”的倾向，探索在不预设中立客观实在的前提下，意识如何主动生成和赋予意义。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8]]
 > - **理论类型** 宏观哲学传统、[[Epistemology|认识论]]与[[Ontology|本体论]]框架，在教育中作为理解学习经验、具身认知和人本[[Bildung|教化]]的理论地基。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 11]]
 > - **知识位置** 欧陆哲学传统，是[[Interpretive Paradigm|诠释范式]]的三大核心[[Qualitative Research|质性研究]]传统之一。代表人物包括 [[Edmund Husserl]]（发起人）、Martin Heidegger、Jean-Paul Sartre 与 Maurice Merleau-Ponty。;
 
 > [!claim] 核心主张
-> 现象学主张对直接经验进行如其所是的研究，认为人类行为是由个体体验到的现象所决定的，而非由外部、客观的物理现实所决定。人类经验、生活世界和意识意向性处于认识与本体分析的中心，人是在生活世界中，通过身体、情感和与他人的关系（主体间性）来经验世界并动态生成意义的。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3]]
+> 现象学主张对直接经验进行如其所是的研究，认为人类行为是由个体体验到的现象所决定的，而非由外部、客观的物理现实所决定。人类经验、生活世界和意识意向性处于认识与本体分析的中心，人是在生活世界中，通过身体、情感和与他人的关系（主体间性）来经验世界并动态生成意义的。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3]]
 
 > [!citation-card]- 关键表述
 > 现象学学习观将学习视为具身的、情绪化的和体验性的，而非能够被量化或项目化的东西。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]
@@ -94,7 +94,7 @@ updated: 2026-06-21
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题
-> - **前提一（主观意识首要性与主动性）** 意识不是被动的外部刺激接收器，而是赋予意义的主动过程。主观意识是[[Epistemology|认识论]]与[[Ontology|本体论]]分析的中心，知识无法独立于人类意识存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> - **前提一（主观意识首要性与主动性）** 意识不是被动的外部刺激接收器，而是赋予意义的主动过程。主观意识是[[Epistemology|认识论]]与[[Ontology|本体论]]分析的中心，知识无法独立于人类意识存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **前提二（具身与主体间性嵌入）** 主体是具身且社会性的，其意识和身体不可分割；主体通过与其他主体、地点和时间构成的主体间性关系（ spatio-temporal world）来构成自身和理解客观世界。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]
 > - **机制（从直觉启发到事物本身）** 认识的发生始于主体的感官直觉启发，但直觉本身是不够的，必须通过[[Epoché|现象学还原]]（如“回到事物本身”与“悬置”）重新审视被天然态度视为当然的现实，以此进入更深的[[Reflexivity|反思性]]理解。;
 > - **结果判断（教育作为存在性对话）** 在教育 and 学习中，学习不应被视为可以被量化、绩效测量或项目化的指标包，而是一个动态的、同时包含身体、情感、认知和响应性的存在性意义建构项目，是主体与世界之间永无止境的对话。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4, 10]]
@@ -123,8 +123,8 @@ updated: 2026-06-21
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]**：社会、自我和客观世界不是独立于人类意识而存在的纯粹中立对象；世界是被主体经历和赋予意义的生活世界，人类是具身且社会性共在的主体。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3, 4]]
-> - **认识论** 知识并非中立的客观事实，而是扎根于主体意识与主体间体验之中的意义沉淀。真理在于去蔽、回到直接经验本身，并通过多维视角审视事物。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> - **[[Ontology|本体论]]** 社会、自我和客观世界不是独立于人类意识而存在的纯粹中立对象；世界是被主体经历和赋予意义的生活世界，人类是具身且社会性共在的主体。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3, 4]]
+> - **认识论** 知识并非中立的客观事实，而是扎根于主体意识与主体间体验之中的意义沉淀。真理在于去蔽、回到直接经验本身，并通过多维视角审视事物。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **方法含义** 要求采用[[Qualitative Research|质性研究]]设计、诠释学分析、现象学教育学叙事或[[Philosophical Analysis in Education|哲学分析]]。偏好自然主义情境，强调研究者自身的[[Reflexivity|反思性]]（Reflexivity）和对天然态度的[[Epoché|悬置]]。
 > - **不能直接推出的东西** 该理论不能直接证明客观[[Causality|因果]]规律，不适用于大规模定量[[Causality|因果推断]]，也不支持将学习效果直接降维为去情境化、可标量化的标准化[[Performance Indicators|绩效指标]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]
 
@@ -157,7 +157,7 @@ updated: 2026-06-21
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **19–20 世纪之交 — 经典奠基** 胡塞尔提出“回到事物本身”的口号，创立先验现象学，确立意向性与[[Epoché|悬置]]方法，视 living subject 为[[Ontology|本体论]]和[[Epistemology|认识论]]努力的核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> - **19–20 世纪之交 — 经典奠基** 胡塞尔提出“回到事物本身”的口号，创立先验现象学，确立意向性与[[Epoché|悬置]]方法，视 living subject 为[[Ontology|本体论]]和[[Epistemology|认识论]]努力的核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **20 世纪中期 — 存在、社会与具身转向** 舒茨将现象学引入社会学，创立存在现象学，关注日常生活世界的意义结构与主体间性分析。 同期，Heidegger、Sartre 与 梅洛-庞蒂发展了存在与具身转向，特别是梅洛-庞蒂将身体经验置于知觉之前，批判[[René Descartes|笛卡尔]]二元论。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 3]]
 > - **21 世纪初 — 教育哲学与学习现象学** Biesta、Küpers 等将现象学应用于反思当代教育，提出“学习现象学”（Phenomenology of learning），突出具身、情绪、体验和响应性的学习过程，用以批判绩效测量与知识技能原子化。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3, 10]]
 > - **2014年至今 — 跨学科课程化与实证应用** 芬兰等国将跨学科探究政策化，现象学作为 [[Phenomenon-Based Learning|现象本位学习]]（PhBL） 的关键哲学根源，在教师教育和可持续发展项目（如 SveaSus 项目）中获得实证、艺术及多语教学层面的实践检验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 2]]
@@ -191,4 +191,4 @@ updated: 2026-06-21
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] — 系统梳理了现象学作为[[Phenomenon-Based Learning|现象本位学习]]（PhBL）核心哲学根源的脉络，并以此审视芬兰课程政策中的能动性与全球治理绩效主义的拉扯。
 > - [[Argument_Larsen_2019_EducSci|Larsen, 2019]] — 借助现象学传统中对身体、自由和人地关系的阐述，批判了 Hattie 的“可见学习”[[Paradigm|范式]]及其对测量的盲目崇拜。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]] — 在教科书中将现象学作为[[Interpretive Paradigm|诠释范式]]的核心支柱进行系统介绍，阐明其在质性教育研究设计中的基本主张。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]] — 在教科书中将现象学作为[[Interpretive Paradigm|诠释范式]]的核心支柱进行系统介绍，阐明其在质性教育研究设计中的基本主张。

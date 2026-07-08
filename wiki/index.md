@@ -142,6 +142,7 @@ Total entries: **1549**
 > - [[Examined Life]] — 西方学习传统第三主题，苏格拉底的名言代表质疑一切理所当然之事的智识态度，是批判性思维的西方文化根源
 > - [[Faust]] — 西方学习传统的核心文化隐喻，以不惜代价追求知识与掌控为特征，与东亚修身传统形成根本对比
 > - [[Ganz-Methode]] — 通过整体进路承载而非消解意义张力的实践方法论，适合在复杂社会情境中识别行动可能性和生命力重组过程
+> - [[Haraway's SF]] — Haraway 的核心概念缩写，同时代表 string figures、speculative fabulation、science fiction 和 so far，用于通过讲故事、连结关系与共同想象来实践后人类主义的世界制造。
 > - [[Humosity]] — 将人类去中心化并置入物质循环之中的后人类主义概念，强调人类生命只是更广泛生态生成与腐解过程中的一环
 > - [[Incarnation-Extension Dialectics]] — 把学习理解为具身存在与向外延展之间双向运动的框架，强调身体、环境和世界关系在认知形成中的共同作用
 > - [[Learner Autonomy]] — 学习者对自身学习过程承担责任的能力与意愿，包括批判性反思、元认知意识和自我调节，是课程培养学生独立思考的核心目标之一
@@ -158,7 +159,6 @@ Total entries: **1549**
 > - [[Response-ability]] — 把责任理解为对他者和共同世界保持敏感并具备回应能力的伦理概念，是后人类主义关系伦理的重要核心
 > - [[Responsible Innovation]] — 一种集体的、参与性的、包容受创新影响的不同利益相关者的创新方式，强调将伦理问题置于技术开发的核心而非事后补救，在 AI 和大数据技术治理中尤为重要
 > - [[Scientism]] — 对科学方法和科学权威的过度美化，将其轻率扩展到原本不适用领域的思想倾向，将科学视为唯一合法的认识论
-> - [[SF (Haraway)]] — Haraway 的核心概念缩写，同时代表 string figures、speculative fabulation、science fiction 和 so far，用于通过讲故事、连结关系与共同想象来实践后人类主义的世界制造。
 > - [[Social Realism]] — 教育研究中的认识论框架，强调学科知识的重要性，认为知识独立于知者存在且是社会建构的，同时承认知识会变化
 > - [[Structural Coupling]] — 系统理论中的概念，指两个自我指涉系统在保持各自封闭性的同时通过稳定接口相互关联而非直接因果控制
 > - [[Sympoiesis]] — 强调存在总是在与他者共同制造中生成的后人类主义概念，突出跨物种相互依存、协作生成和伦理回应关系
@@ -305,7 +305,6 @@ Total entries: **1549**
 > - [[Professors of Practice]] — 大学基于产业经验而非传统学术资质聘任的全职或兼职教师，在产学合作中充当产业向大学知识流动的重要渠道
 > - [[Promising Student]] — 在竞争性大学治理中被数字化工具和制度期待建构出来的理想学生主体形态，强调自我评估、持续优化和风险管理。
 > - [[Proof of Concept Programs]] — 大学或政府资助的转化研究孵化项目，通过非稀释性小额资助与产业导师制帮助研究团队验证技术的市场可行性和商业潜力，是大学衍生企业获得早期市场输入的关键机制
-> - [[Public Space (University Role)]] — Lester（2005）提出的概念，指大学作为本地创新系统中中性的、持续对话的场所，催化不同行动者之间的互动，为技术、市场和产业未来方向的讨论提供平台，是大学常被低估的间接经济贡献
 > - [[Public-Private Partnership in Research]] — 政府、企业与大学三部门联合资助和执行研究项目的合作机制，Ramming（2025）从实践者角度提出治理、竞争理论、技术战略和知识产权四维决策框架
 > - [[Research and Technology Organisation]] — 政府投资建立的桥接大学研究与产业应用之间的中介组织，履行应用研究、技术问题解决、劳动力发展、设施建设等多重功能，典型如英国 Catapult、德国 Fraunhofer 和美国 Manufacturing USA
 > - [[Research Security]] — 大学为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡
@@ -329,11 +328,12 @@ Total entries: **1549**
 > - [[Technology Readiness Level]] — NASA 在 1970 年代开发的 9 级技术成熟度评估框架（TRL 1 基础原理到 TRL 9 实际环境验证），用于衡量大学衍生企业技术距离商业化部署的差距，TRL 不足是衍生企业无法满足企业试点要求、形成融资困局的核心原因之一
 > - [[Technology Transfer]] — 大学研究成果通过知识产权许可、初创企业或企业合作转化为商业应用的过程，以 Bayh-Dole Act 为核心法律框架，涉及 IP 合同机制、权利转让谱系和商业化路径选择等制度安排
 > - [[Technology Transfer Office]] — 大学内部负责知识产权许可谈判、商业化路径评估和衍生企业支持的专业职能部门，通常隶属于科研副校长办公室，是产学合作中连接学术研究与商业应用的组织枢纽
-> - [[Third Mission (Universities)]] — 大学在教学和研究之外的正式创新与经济发展使命，涵盖知识交流、技术商业化、区域经济发展和产学合作等广泛活动，2000年代后在英美等国日益制度化
+> - [[Third Mission]] — 大学在教学和研究之外的正式创新与经济发展使命，涵盖知识交流、技术商业化、区域经济发展和产学合作等广泛活动，2000年代后在英美等国日益制度化
 > - [[Trade Mission]] — 大学参与政府组织的国际商务出访活动，借此直接接触海外企业决策者、展示研究能力并催化国际产学合作的连接机制
 > - [[Translational Research]] — 将学术实验室中的研究发现转化为可商业化产品或规模化应用的研究过程，在生物制药领域具体表现为从临床前研究到人体临床试验的桥梁功能
 > - [[Transnational Research Collaboration]] — 高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。
 > - [[UIC Impact Measurement]] — Cohen、Fernandes 与 Godinho（2025）通过系统综述 92 篇文献提出的 UIC 影响测量综合框架，将 25 种产学合作影响归入智力、经济、技术、环境、社会和战略六种类型，并以主体、时间、发生方式和性质四个辅助维度交叉分类，同时识别四类测量挑战与七项应对策略
+> - [[University as Public Space]] — Lester（2005）提出的概念，指大学作为本地创新系统中中性的、持续对话的场所，催化不同行动者之间的互动，为技术、市场和产业未来方向的讨论提供平台，是大学常被低估的间接经济贡献
 > - [[University Corporate Engagement Professional]] — 在大学与产业界面中充当中介和关系管理者的专业角色，负责连接双方利益相关者、识别一致利益并构建战略伙伴关系
 > - [[University Motto]] — 大学用以表达教育理想和制度身份的凝缩文本，可折射不同文化传统对真理、知识、自由、修身与德行的理解
 > - [[University Social Responsibility]] — 大学对多元利益相关者和社会议题保持制度化回应与公共责任的取向，用于组织大学的社会参与、伦理承诺和公共使命。
@@ -434,7 +434,7 @@ Total entries: **1549**
 > - [[Ideological Capture of Science]] — 政治意识形态凌驾于科学理性之上的制度性现象，在苏联表现为以革命例外论名义拒绝西方科学、将马克思主义正统延伸至自然科学领域，通过李森科事件和相对论风波等案例展示了意识形态对科学自主性的系统性压制
 > - [[Imagined Community]] — Anderson 提出的民族理论核心概念，民族是被想象的有边界和主权的政治共同体，成员虽互不相识却共享同属一个共同体的心理图像
 > - [[Informationalization]] — 一种以知识和信息为基础优化生产要素组合与使用的发展模式，与依赖重工业物质投入的工业化形成对比，强调信息自由流动是其运作的核心前提
-> - [[Infrastructures of (Im)mobility]] — 起源于移民研究、由克莱伯特（J. Kleibert）引入跨境高等教育领域的概念，指制度性与空间性因素协同运作以引导、规训与筛选跨境流动的复合机制。
+> - [[Infrastructures of Immobility]] — 起源于移民研究、由克莱伯特（J. Kleibert）引入跨境高等教育领域的概念，指制度性与空间性因素协同运作以引导、规训与筛选跨境流动的复合机制。
 > - [[Innovation Models Evolution]] — Tidd（2006）等学者识别的创新过程理解方式的五次迭代——技术推动、需求拉动、耦合、系统集成与网络化、创新系统——从线性到系统的认识升级，现实中五种模型共存而非替代
 > - [[Innovation Policy Paradigms]] — Schot 与 Steinmueller（2018）识别的创新政策三大范式——科学促增长、创新系统升级、变革转型——揭示政策逻辑从弥补市场失灵到管理系统失灵再到主动引导方向性变革的递进
 > - [[Knowledge Capitalism]] — 把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组
@@ -1390,9 +1390,9 @@ Total entries: **1549**
 ### Canada
 
 > [!index-list]- Event (3)
-> - [[Global Futures Framework (University of Waterloo)]] — 滑铁卢大学 2022 年发布的跨学科战略框架，以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校的教育、研究和创新活动
-> - [[Inventor-Owned IP Policy (University of Waterloo)]] — 滑铁卢大学自 1959 年建校起实行的知识产权归属政策，将发明所有权归于发明人个人而非大学，成为吸引教师和推动地方经济发展的关键制度因素
 > - [[Schlegel-UW Research Institute for Aging]] — 2005 年由滑铁卢大学与 Schlegel Villages 合作建立的大型跨学科产学合作研究机构，以共同选址、知识动员和临床即时反馈为核心运作模式，聚焦老龄化研究与技术创新
+> - [[University of Waterloo Global Futures Framework]] — 滑铁卢大学 2022 年发布的跨学科战略框架，以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校的教育、研究和创新活动
+> - [[University of Waterloo Inventor-Owned IP Policy]] — 滑铁卢大学自 1959 年建校起实行的知识产权归属政策，将发明所有权归于发明人个人而非大学，成为吸引教师和推动地方经济发展的关键制度因素
 
 ### China
 
@@ -1484,7 +1484,7 @@ Total entries: **1549**
 ### Germany
 
 > [!index-list]- Event (1)
-> - [[Excellence Initiative (Germany)]] — 2005–2017 年德国联邦与州政府联合实施的竞争性资助计划，通过评选少数卓越大学并提供巨额额外拨款，制造了比全覆盖式评估更陡峭的高等教育等级结构
+> - [[German Excellence Initiative]] — 2005–2017 年德国联邦与州政府联合实施的竞争性资助计划，通过评选少数卓越大学并提供巨额额外拨款，制造了比全覆盖式评估更陡峭的高等教育等级结构
 
 > [!index-list]- Policy (3)
 > - [[Fraunhofer Society Model]] — 德国四大科研机构之一，专注于前沿关键技术的研发，由76家研究所组成，拥有逾3万名员工，年度预算29亿欧元，其中大部分来自科研合同收入，在科技成果转化中发挥关键作用。
@@ -1646,7 +1646,7 @@ Total entries: **1549**
 
 > [!index-list]- Event (8)
 > - [[1970s Methodology Debates in Comparative Education]] — 1970年代初发生于英格兰比较教育学界的方法论分裂，以金（Edmund King）与阿彻（Margaret Archer）之间的学术规训论争为代表，标志着学科传统描述范式与结构社会学范式的决裂
-> - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
+> - [[Advanced Manufacturing Research Centre]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
 > - [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 > - [[Girls Into Science and Technology Project]] — 1980年代英国为期三年的女性主义行动研究项目，涉及2,000名学生和十所学校，通过同步整合行动研究刻意改变女孩的科学科目选择与职业抱负。
 > - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
@@ -1739,10 +1739,10 @@ Total entries: **1549**
 > - [[UCSD Innovation and Commercialization Office]] — 加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统企业来找大学的产学合作方向
 > - [[Universal Parallel Computing Research Centers]] — 2008 年 Intel 与 Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley 和 UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折
 > - [[University City Science Center]] — 费城的非营利产学合作组织，通过项目设计激励创业者关系发展并提供培训和资源，聚焦费城本地相对优势，后建立实体空间进一步集聚创业者、学者和产业伙伴
+> - [[University Inc]] — Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一
 > - [[University Industry Demonstration Partnership]] — 2004 年由美国国家科学院发起、2015 年独立为非营利组织的全球性产学合作组织，以合同共识和伙伴关系连续体为代表成果，同时是产学实践者的核心国际交流平台
 > - [[University of Illinois Research Park]] — 伊利诺伊大学的研究园区，执行主任同时兼任大学经济发展办公室主任，下设对外合作、孵化器 EnterpriseWorks、企业活动与创新外联等专职岗位，以整合组织架构链接产业伙伴与大学资源
 > - [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
-> - [[University, Inc. (Washburn, 2005)]] — Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一
 > - [[US-China Economic and Security Review Commission]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
 > - [[What Works Clearinghouse]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
 

@@ -119,25 +119,25 @@ updated: '2026-05-18'
 > [!success] 绩效问责制在[[School Leadership|学校领导力]]中的施行效应([[Argument_Møller_2017_EERJ|Møller, 2017]])
 > Møller从学校领导者体验的视角补充了 performativity 在实践层面的表现：
 >
-> **绩效文化对学校的重塑**([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382]])：
+> **绩效文化对学校的重塑([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382]])**
 > - 在许多国家，"标准"已成为学校改革者近乎"咒语"般的存在（p.382）
 > - 学校领导者时间被不可预测性、大量不确定性、去规制化和管理问责所特征化——经济效率需求常压倒集体和公共利益（p.381-382, citing Blackmore, 2011; Thomson, 2009）
 > - 管理者和学校领导者都将数据的生产和使用视为解决学校和 student 层面问题的"合法方式"——结果，教育劣势问题被框定为技术问题而非权力与资源分配问题（p.382, citing Sellar, 2015）
 > - "[[New Public Management|新公共管理]]改革分散了对公平问题的注意力"（p.382, citing Hall et al., 2015）
 >
-> **两个矛盾话语的并行运作**([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])：
+> **两个矛盾话语的并行运作([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])**
 > - OECD 同时推崇两种相互矛盾的测量与治理逻辑：(1) 将学校从科层制转变为专业实践共同体的"最佳实践"话语；(2) 新公共管理的外部控制和绩效问责话语
 > - 二者并非相互替代，而是**并行运作**——构成测量既是赋权工具又是控制工具的矛盾现象
 >
-> **教育语言侵蚀**([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])：教育中新管理主义语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"([[Argument_Møller_2017_EERJ|Møller, 2017, p.382, citing Møller, 2007]])
+> **教育语言侵蚀([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])** 教育中新管理主义语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"([[Argument_Møller_2017_EERJ|Møller, 2017, p.382, citing Møller, 2007]])
 >
-> **问责制的双重标准**([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])：Henig (2013: xi) 指出："将问责体系写入立法和官僚实践的速度超越了支持它的证据——尽管问责体系的设计者同时也是科学本位决策的声援者。"这构成了 performativity 的一个独特案例：测量系统本身规避了其要求他人接受的证据标准。
+> **问责制的双重标准([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])** Henig (2013: xi) 指出："将问责体系写入立法和官僚实践的速度超越了支持它的证据——尽管问责体系的设计者同时也是科学本位决策的声援者。"这构成了 performativity 的一个独特案例：测量系统本身规避了其要求他人接受的证据标准。
 
 
 > [!success] [[Visible Learning]] 作为"新管理全景监狱主义"的完美工具([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020]])
 > McKnight & Whitburn将 performativity [[Analytic Framework|分析框架]]应用于 [[John Hattie]] 的 Visible Learning 项目，论证"Visible Learning"这一隐喻本身就是一种施行性装置——命名"可见"的行为改变了对教师和学生的期望与监控方式。
 >
-> **多层监控文化的生产**([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])：
+> **多层监控文化的生产([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])**
 >
 > Visible Learning 创造了一个"每个人都可以监视其他所有人"的监控文化：
 > - 教师监控学生

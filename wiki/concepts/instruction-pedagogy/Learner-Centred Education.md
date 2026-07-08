@@ -73,7 +73,7 @@ updated: 2026-05-26
 
 > [!example]
 > - **vs 教师主导教学法（teacher-led pedagogy）** LCE 的核心对立面。教师主导教学法以教师为知识权威、以系统讲授和反复练习为主要手段——在[[Test-Based Accountability|考试问责]]压力较强的环境中，教师往往回归这一模式。但 Wang & McLaughlin（2025, pp.594-600）发现两者并非绝对对立：当学校找到 LCE 与提升考试成绩之间的契合点时，教师主导模式可被部分松解。
-> - **vs [[Constructivist Paradigm|建构主义]]教学（constructivist teaching）**：建构主义是 LCE 的[[Epistemology|认识论]]基础之一，但两者不等同。LCE 是一个更宽泛的教学改革标签，在不同文化语境中被赋予了不同的含义和重点。
+> - **vs [[Constructivist Paradigm|建构主义]]教学（constructivist teaching）** 建构主义是 LCE 的[[Epistemology|认识论]]基础之一，但两者不等同。LCE 是一个更宽泛的教学改革标签，在不同文化语境中被赋予了不同的含义和重点。
 
 ---
 
@@ -110,7 +110,7 @@ updated: 2026-05-26
 > [!warning]
 > - **定义模糊性**Bremner（2021）指出 LCE 在实践中被赋予了多种不同甚至相互矛盾的含义，导致了实施和比较的困难
 > - **文化适用性** LCE 的推广常伴随西方教育模式的输出。在中国，You（2019）指出存在"两个平行教育系统"——[[Quality Education|素质教育]]"在修辞和形式中"与[[Examination-Oriented Education|应试教育]]"在现实和实质中"，LCE 的实施很大程度上停留在话语层面
-> - **[[Test-Based Accountability|考试问责]]的张力**：在考试问责文化根深蒂固的环境中，LCE 可能在短期内与提升考试成绩的目标冲突，使教师面临艰难取舍([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.596-597]])
+> - **[[Test-Based Accountability|考试问责]]的张力** 在考试问责文化根深蒂固的环境中，LCE 可能在短期内与提升考试成绩的目标冲突，使教师面临艰难取舍([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.596-597]])
 
 ---
 

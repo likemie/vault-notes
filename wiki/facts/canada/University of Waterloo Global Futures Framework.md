@@ -1,6 +1,7 @@
 ---
-title: Global Futures Framework (University of Waterloo)
+title: "University of Waterloo Global Futures Framework"
 aliases:
+  - "Global Futures Framework (University of Waterloo)"
   - Global Futures Framework
   - 滑铁卢大学全球未来框架
   - UW Global Futures
@@ -29,7 +30,7 @@ created: 2026-06-03
 updated: 2026-06-03
 ---
 
-# Global Futures Framework (University of Waterloo)
+# University of Waterloo Global Futures Framework
 
 ## 背景
 

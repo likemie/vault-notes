@@ -66,7 +66,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **行动者多元化** 政策行动者可以个人、团体或组织身份运作，通过协作与[[Snowball Sampling|网络化]]来实质性影响公立学校教育政策发展与服务交付([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.viii]])
-> - **[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）**：在采购学校建筑时强制考虑 PPP 替代传统采购([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vi]])
+> - **[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）** 在采购学校建筑时强制考虑 PPP 替代传统采购([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vi]])
 > - **私营部门赞助** 批准私营部门赞助者运营多所 Partnership School Kura Hourua
 > - **合同外包** 政府将公立学校服务合同外包给私营企业、NGO 和慈善部门的偏好日益增强([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.vi–vii]])
 > - **跨国商业合作** 本地非营利 EMOs 与离岸营利性教育服务"品牌"之间形成战术性商业伙伴关系，在新西兰及海外交付学校产品和服务
@@ -90,19 +90,19 @@ updated: '2026-05-18'
 
 [[Argument_ONeill_2016_Report|O'Neill et al. (2016, pp.8–12)]]列出近十余年新西兰同时体现私营参与增加和公共参与减少的九个实例：
 
-**i. Ngāi Tahu MoU（2001）**：教育部长 Trevor Mallard 与 Parekura Horomia 与 Te Rūnanga o Ngāi Tahu 签署教育发展合作谅解备忘录，被 iwi 视为支撑其 Vision 2025 教育愿景的"关键文件"。目前教育部已为全国 60+ rohe 发布 iwi 教育概况以促进 iwi 特定教育计划的发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.8]])
+**i. Ngāi Tahu MoU（2001）** 教育部长 Trevor Mallard 与 Parekura Horomia 与 Te Rūnanga o Ngāi Tahu 签署教育发展合作谅解备忘录，被 iwi 视为支撑其 Vision 2025 教育愿景的"关键文件"。目前教育部已为全国 60+ rohe 发布 iwi 教育概况以促进 iwi 特定教育计划的发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.8]])
 
 **ii. asTTle / e-asTTle 商业化** 2000 年代初由奥克兰大学开发、教育部公费资助。目前 e-asTTle 专业发展支持已合同外包给私营公司 Evaluation Associates Ltd。2015 年底教育部通过 GETS 发布 RFP 寻找投资伙伴出资 USD 4–8M"现代化"e-asTTle——教育部永留新西兰学校使用权，投资伙伴有权向学校收费并开发国际版本在海外销售([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.8–9]])
 
-**iii. [[Manaiakalani Education Trust]]（2011）**：源自 EHSAS 技术增强型扫盲计划，Manaiakalani Education Trust 以四名教育者/非教育者受托人混合结构成立，获 ASB Community Trust（后 Foundation North）和 Spark Foundation 创始赞助（2012）。至 2015 年获 NEXT Foundation 资助通过 Manaiakalani Outreach 将技术增强学习模式在全国规模化，另获 Samsung Electronics 资助。家庭和学校承担参与 Outreach 方案的运营成本([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.9]])。详见 [[Manaiakalani Education Trust]]
+**iii. [[Manaiakalani Education Trust]]（2011）** 源自 EHSAS 技术增强型扫盲计划，Manaiakalani Education Trust 以四名教育者/非教育者受托人混合结构成立，获 ASB Community Trust（后 Foundation North）和 Spark Foundation 创始赞助（2012）。至 2015 年获 NEXT Foundation 资助通过 Manaiakalani Outreach 将技术增强学习模式在全国规模化，另获 Samsung Electronics 资助。家庭和学校承担参与 Outreach 方案的运营成本([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.9]])。详见 [[Manaiakalani Education Trust]]
 
-**iv. Te Toi Tupu [[Instructional Leadership|leading learning]] Network（2009–2010）**：回应政府将原先整笔资助的大学附属学校支持服务变为竞争性合同的决策，由 [[Cognition Education|Cognition Education]]、CORE Education、NZCER、怀卡托大学和 Waikato-Tainui College for Research and Development 组成联合体。2015 年 11 月，Cognition、CORE、奥克兰大学、坎特伯雷大学、奥塔哥大学、怀卡托大学和 Te Tapuae o Rehua 联合注册了 Professional Learning Association New Zealand 法人社团以制定咨询和专业发展促进者的伦理质量标准([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.9–10]])
+**iv. Te Toi Tupu [[Instructional Leadership|leading learning]] Network（2009–2010）** 回应政府将原先整笔资助的大学附属学校支持服务变为竞争性合同的决策，由 [[Cognition Education|Cognition Education]]、CORE Education、NZCER、怀卡托大学和 Waikato-Tainui College for Research and Development 组成联合体。2015 年 11 月，Cognition、CORE、奥克兰大学、坎特伯雷大学、奥塔哥大学、怀卡托大学和 Te Tapuae o Rehua 联合注册了 Professional Learning Association New Zealand 法人社团以制定咨询和专业发展促进者的伦理质量标准([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.9–10]])
 
-**v. [[Teach First New Zealand]] ([[Teach First New Zealand|TFNZ]])**：自 2011 年运营，为高成就毕业生在低 decile 学校提供基于就业的两年领导力发展/初级教师教育。由 Aotearoa Foundation（纽约）和 Tindall Foundation（奥克兰）2010 年配对资助可行性研究。作为奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）三方合作运营。创始伙伴包括 Aotearoa Foundation、ASB Bank、Chapman Tripp、Deloitte、Harry Singer Foundation、Hutton Wilson Nominees (NEXT Foundation) 和 Woolf Fisher Trust。Aotearoa Foundation 涉及"美国对冲基金亿万富翁" Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年报总净资产 USD 575M，当年教育相关多年资助总额 USD 107.8M，大量与[[Partnership Schools Kura Hourua|特许学校]]运动有关([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.10–11]])。详见 Teach First New Zealand (TFNZ 2011)
+**v. [[Teach First New Zealand]] ([[Teach First New Zealand|TFNZ]])** 自 2011 年运营，为高成就毕业生在低 decile 学校提供基于就业的两年领导力发展/初级教师教育。由 Aotearoa Foundation（纽约）和 Tindall Foundation（奥克兰）2010 年配对资助可行性研究。作为奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）三方合作运营。创始伙伴包括 Aotearoa Foundation、ASB Bank、Chapman Tripp、Deloitte、Harry Singer Foundation、Hutton Wilson Nominees (NEXT Foundation) 和 Woolf Fisher Trust。Aotearoa Foundation 涉及"美国对冲基金亿万富翁" Julian Robertson（2009 年首位荣誉新西兰骑士），其 Robertson Foundation 2014 年报总净资产 USD 575M，当年教育相关多年资助总额 USD 107.8M，大量与[[Partnership Schools Kura Hourua|特许学校]]运动有关([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.10–11]])。详见 Teach First New Zealand (TFNZ 2011)
 
 **vi. Partnership Schools Kura Hourua (PSKH)** 为兑现 2011 年 12 月国家党与 ACT 党供需信任协议，成立 PSKH 授权委员会，就私营实体（营利或非营利）运营公费私立学校提出建议。目前有 9 所运营，1 所合同终止。2016 年 5 月宣布设立 E Tipu E Rea 支持实体（2015 年 12 月注册为慈善机构）以支持新旧及未来赞助者，获政府有条件资助 USD 500,000，旨在通过慈善资助维持——E Tipu E Rea 是唯一受邀提交提案的机构([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.11–12]])
 
-**vii. [[Public-Private Partnership in Research|PPP]] 学校合同**：2012 年 4 月新西兰首个 PPP 公立学校合同授予 Learning Infrastructure Partners（LIP，财团包括 Hawkins Group, [[Academic Self-Concept|ASC]] Architects, PIP Fund 等）；2015 年 2 月第二份 PPP 合同授予 Future School Partners（FSP）建设和维护四所学校；2015 年 12 月宣布征集意向建设另外六所 PPP 学校([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.12–13]])
+**vii. [[Public-Private Partnership in Research|PPP]] 学校合同** 2012 年 4 月新西兰首个 PPP 公立学校合同授予 Learning Infrastructure Partners（LIP，财团包括 Hawkins Group, [[Academic Self-Concept|ASC]] Architects, PIP Fund 等）；2015 年 2 月第二份 PPP 合同授予 Future School Partners（FSP）建设和维护四所学校；2015 年 12 月宣布征集意向建设另外六所 PPP 学校([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.12–13]])
 
 **viii. KickStart Breakfast** 2013 年作为对儿童贫困报告回应，总理宣布通过 MSD 资助扩大 KickStart Breakfast 计划（Sanitarium Weetbix + Fonterra 牛奶）——该计划自 2009 年以来作为两家新西兰私营食品公司的企业社会责任计划运营。政府同意与两家公司共同出资扩大规模，并额外资助儿童慈善机构 Kidscan（提供衣物等基本物品）([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.12]])
 

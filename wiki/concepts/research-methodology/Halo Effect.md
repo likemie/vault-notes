@@ -54,7 +54,7 @@ updated: 2026-06-24
 > [!dimension] 光环效应的两种主要情境
 > - **数据分析阶段（Section 10.7）**
 >   研究者对人的了解或对该人或该情境的其他数据的了解，对后续判断产生影响。例如在评分许多试卷时，早期阶段严格、后期阶段宽松——评分标准在评分过程中发生了漂移。这不仅是[[Inter-Rater Reliability|评分者间信度]]的问题，也是评分者**[[Internal Consistency|内部一致性]]**的问题。
-> - **测验评分阶段**（Section 10.15, Cunningham, 1998; Airasian, 2001）
+> - **测验评分阶段（Section 10.15, Cunningham, 1998; Airasian, 2001）**
 >   在测验和考试评分中，光环效应表现为：一个在某一评估中被判为好的学生，在其他领域被给予不应得的有利评估——反之亦然。例如，一个写作优秀的学生，其数学试卷可能因评分者的正面印象而被略微高估。这是评分者导致的不可靠的重要来源之一。
 
 > [!example] 光环效应的具体表现
@@ -68,7 +68,7 @@ updated: 2026-06-24
 
 ## 光环效应与牛角效应
 
-在自然主义和[[Ethnography|民族志研究]]中，光环效应和牛角效应被列为影响研究[[Reliability|可靠性]]和可信度的十大内在困难之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], p. 452）：
+在自然主义和[[Ethnography|民族志研究]]中，光环效应和牛角效应被列为影响研究[[Reliability|可靠性]]和可信度的十大内在困难之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011b]], p. 452）：
 
 > [!contrast-table] 光环效应 vs 牛角效应
 > | 维度 | 光环效应（Halo Effect） | 牛角效应（Horns Effect） |

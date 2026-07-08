@@ -53,7 +53,7 @@ updated: '2026-05-18'
 >
 > > "Mechanism experiments are small-scale [[Champ|field]] experiments to test a specific behavioural theory." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 303, citing Ludwig, Kling, & Mullainathan, 2011]])
 >
-> 在教育的[[Counterfactual|反事实]][[Paradigm|范式]]内，一个可操作的机制定义是：**机制是影响学习行为或理解变化的最直接且最显著的因素**([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 303]])。
+> 在教育的[[Counterfactual|反事实]][[Paradigm|范式]]内，一个可操作的机制定义是：**机制是影响学习行为或理解变化的最直接且最显著的因素([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 303]])**。
 
 ## 历史沿革
 
@@ -121,7 +121,7 @@ updated: '2026-05-18'
 > [!warning] 机制定义的根本困难
 > **争议背景** 机制的统一定义在教育和社会科学中尚未达成共识。
 >
-> - **[[Counterfactual|反事实]]/[[Variable|变量]]取向**：机制等同于可观测的中介变量——可通过统计方法（如[[Causality|因果]]中介分析）隔离和估计（Imai, Tingley, & Yamamoto, 2013; Keele, Tingley, & Yamamoto, 2015）
+> - **[[Counterfactual|反事实]]/[[Variable|变量]]取向** 机制等同于可观测的中介变量——可通过统计方法（如[[Causality|因果]]中介分析）隔离和估计（Imai, Tingley, & Yamamoto, 2013; Keele, Tingley, & Yamamoto, 2015）
 > - **实在论取向** 机制大多是"隐藏的"且不能被直接研究——[[Realist Evaluation|实在论评估]]者寻求"未言明的"机制和小的"推动"式特征，这些特征塑造决策和行为（Pawson, 2013, pp. 127–128; Astbury & Leeuw, 2010, p. 368）
 >
 > [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 303)]] 承认这一争论在"什么有效"指导中"未解决"，但提出务实的中间立场：在教育反事实[[Paradigm|范式]]中，将机制定义为"影响学习的最直接因素"是可操作的。

@@ -50,7 +50,7 @@ updated: 2026-06-17
 > [!feature] 条件类型与例示
 > - **必要条件** "没有 X 就没有 Y"。如：没有氧气，火柴不会燃烧——氧气是燃烧的必要条件。
 > - **充分条件** "有 X 就有 Y"。如：火柴划过粗糙表面足够使其点燃——但这不是必要条件，其他点火方式也能达到同样效果。
-> - **[[Compound Causes|复合原因]]**（compound causes）：某些原因只有共同作用时才施加[[Causality|因果]]力——它们不是独立充分也不是独立必要的，而是组合在一起才构成充分条件。
+> - **[[Compound Causes|复合原因]]（compound causes）** 某些原因只有共同作用时才施加[[Causality|因果]]力——它们不是独立充分也不是独立必要的，而是组合在一起才构成充分条件。
 > - **交互效应（interaction effects）** 原因之间可能相互增强或削弱，改变彼此在因果组合中的相对强度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
 
 ## 概念辨析

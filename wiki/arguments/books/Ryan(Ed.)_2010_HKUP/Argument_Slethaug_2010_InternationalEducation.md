@@ -14,7 +14,9 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
-citation: "Slethaug, G. (2010). Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 15–36). Hong Kong University Press."
+citation: "Slethaug, G. (2010). Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 15–36). Hong Kong: Hong Kong University Press."
+publication_place: "Hong Kong"
+publisher: "Hong Kong University Press"
 tags:
 - region/global
 - region/china
@@ -46,7 +48,7 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: '2026-06-08'
+updated: 2026-07-08
 year: 2010
 doi: ""
 citation_aliases:
@@ -222,8 +224,8 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 ## 局限性与批评
 
 > [!warning]
-> - **数据[[Reliability|可靠性]]**：本章高度依赖二手统计数据和媒体报道。不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍(pp.17–18)。Slethaug 指出了这些差异但未系统评估各数据来源的方法论质量。
-> - **核心概念未[[Operationalization|操作化]]**：对"[[International Education|国际教育]]""全球化""[[Knowledge-Based Economy|知识经济]]"等概念的使用停留在常识层面，未进行批判性审视或操作化定义。"知识经济"作为一个有争议的概念被当作事实接受。
+> - **数据[[Reliability|可靠性]]** 本章高度依赖二手统计数据和媒体报道。不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍(pp.17–18)。Slethaug 指出了这些差异但未系统评估各数据来源的方法论质量。
+> - **核心概念未[[Operationalization|操作化]]** 对"[[International Education|国际教育]]""全球化""[[Knowledge-Based Economy|知识经济]]"等概念的使用停留在常识层面，未进行批判性审视或操作化定义。"知识经济"作为一个有争议的概念被当作事实接受。
 > - **缺乏原创实证分析** 本章作为背景章节，论证主要是描述性和综合性的——这在全书结构中合理，但独立看时说服力有一定限度。
 > - **西方中心视角** 尽管 Slethaug 批评 [[International Baccalaureate|IB]] 的西方文化预设，他对"国际教育"的整体叙事仍然以西方机构（[[OECD]]、英美澳大学）为基准框架，未充分考虑非西方的国际教育实践形态。
 

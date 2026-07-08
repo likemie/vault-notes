@@ -14,7 +14,9 @@ argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
-citation: "Hartmann, E. (2022). The Internationalisation of Further Education: Between Geoeconomics and Geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 179–198). Springer."
+citation: "Hartmann, E. (2022). The Internationalisation of Further Education: Between Geoeconomics and Geopolitics. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 179–198). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - level/adult
   - region/global
@@ -120,7 +122,7 @@ Hartmann 首先论证，[[Further Education|继续教育]]（尤其是[[Corporat
 
 1. **量级不可忽视** 2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且在所有高收入国家持续增长。这不是一个小众领域(p.179)。
 
-2. **性质被低估** 企业教育不只是技能培训。参考 James Scott(1998)的经典研究"像国家一样看"（Seeing Like a State），Hartmann 提出企业教育的深层功能是让员工学会"像公司一样看世界"**（seeing like a company）——它是公司软权力的核心组成部分，是塑造员工世界观、确保员工利益与公司利益一致的机制(p.180)。
+2. **性质被低估**企业教育不只是技能培训。参考 James Scott(1998)的经典研究"像国家一样看"（Seeing Like a State），Hartmann 提出企业教育的深层功能是让员工学会"像公司一样看世界"（seeing like a company）**——它是公司软权力的核心组成部分，是塑造员工世界观、确保员工利益与公司利益一致的机制(p.180)。
 
 3. **教育研究的"公立偏见"** 教育研究长期以来只关注学校和大学等公立教育系统。但企业教育直接属于"世界商业"（World Business）的范畴——如果它能独立于国家制度运作，就意味着出现了一个新的全球教育提供者，其地缘政治含义尚未被认真对待(p.180)。
 
@@ -281,11 +283,11 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 ## 局限性与批评
 
 > [!warning]
-> - **试点[[Research Scope|研究范围]]有限**：作者自述研究聚焦制药行业，结论的推广性需要更多行业的验证(p.180)
-> - **多处依赖管理学研究[[Document|文献]]**：论文在分析 MNC 类型和[[Corporate University|企业大学]]类型时，大量引用管理学和产业社会学文献来补充试点研究的数据不足，经验证据的独立性有限
+> - **试点[[Research Scope|研究范围]]有限** 作者自述研究聚焦制药行业，结论的推广性需要更多行业的验证(p.180)
+> - **多处依赖管理学研究[[Document|文献]]** 论文在分析 MNC 类型和[[Corporate University|企业大学]]类型时，大量引用管理学和产业社会学文献来补充试点研究的数据不足，经验证据的独立性有限
 > - **专业协会的地缘政治分析不足** 作者承认关于专业协会的国际化程度和地缘政治角色"需要更多研究才能得出结论"(pp.189, 190)
 > - **对教育内容本身的忽视** 论文专注于[[Corporate Education|企业教育]]的规范扩散和权威建构机制，但未讨论企业教育的内容（课程设计、教学法、评估方式）如何再现或挑战全球不平等
-> - **[[Varieties of Capitalism]] 框架使用较表面**：论文使用 CME vs LME 的二分法来解释美国和德国 MNCs 的差异，但未探讨中国、印度等不属于这两种类别的经济体中 MNCs 的企业教育策略
+> - **[[Varieties of Capitalism]] 框架使用较表面** 论文使用 CME vs LME 的二分法来解释美国和德国 MNCs 的差异，但未探讨中国、印度等不属于这两种类别的经济体中 MNCs 的企业教育策略
 > - **"[[Lifelong Learning]]"作为独立概念**在论文中有出现但未被独立条目化——未来可从其他论文补充建立
 
 

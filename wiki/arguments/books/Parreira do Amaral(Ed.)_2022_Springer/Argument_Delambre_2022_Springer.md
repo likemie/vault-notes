@@ -14,7 +14,9 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
-citation: "Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 105–122). Springer."
+citation: "Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 105–122). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
 - region/brazil
 - region/global
@@ -185,7 +187,7 @@ Delambre 的最终结论是一个概念重构：在 [[Tense Society|张力社会
 > [!warning]
 > - **理论建构的经验基础薄弱** 理论高度依赖作者个人在里约热内卢的实践经验和案例（2013–2020），案例仅以简要叙述方式呈现，缺乏独立验证、跨情境检验和系统数据支撑(p.107)
 > - **核心概念的操作性不足** "张力"、"整体"（Ganz）、"[[Life Power|生命力量]]"（life power）等概念的定义偏向哲学化和诗意化——例如"生命力量是幸福建立的地方"——难以转化为可检验的实证[[Hypothesis|假设]]或可复制的操作程序
-> - **[[Ganz-Methode]] 的方法论细节缺失**：两步法描述保持在原则层面——"承载张力"具体需要多长时间？谁来承载？如何判断承载是否"充分"？这些关键操作问题未被回答(p.112–116)
+> - **[[Ganz-Methode]] 的方法论细节缺失** 两步法描述保持在原则层面——"承载张力"具体需要多长时间？谁来承载？如何判断承载是否"充分"？这些关键操作问题未被回答(p.112–116)
 > - **与替代理论的对话不足** 作者大量引用 Leff、Santos、Dussel、[[Walter Mignolo]] 等思想家，但更多是将其作为权威背书而非批判性对话对象。例如，Ganz-Methode 与 Santos 的"知识生态学"（ecology of knowledges）有何异同？与 Escobar 的 [[Transition Design]] 如何区别？这些比较未被展开
 > - **对大学的建议停留在呼吁层面** "水平化关系"、"倾听所有利益相关者的生命力量"等建议在制度层面如何实施（如大学治理结构改革、评聘标准修订、课程审批流程改造）完全没有涉及。这使得该理论对高等教育政策制定者的实际指导力有限
 > - **"承载张力"可能被误用为维持现状的借口** 如果"不急于选择"被解读为"永远不做选择"，Ganz-Methode 有可能反过来成为抵制必要变革的理由——这正是该理论内在的"激进与保守的模糊性"

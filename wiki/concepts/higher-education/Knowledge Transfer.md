@@ -64,7 +64,7 @@ updated: '2026-05-18'
 > [!warning]- 术语歧义
 > "[[Knowledge Exchange|knowledge transfer]]"（知识转移）在教育研究中有两种不同的使用脉络：
 > - **含义一（地缘政治意义）**[[Argument_Partaken_2022_Springer|Partaken (2022)]]在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）框架下的概念，指知识在被生产后进入挪用、流通、审查、窃取或破坏等动态过程——知识在权力关系中的"运动"
-> - **含义二（[[University-Industry Collaboration|产学合作]]意义）**：在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，指知识在大学与产业之间的流动——包括从非正式的人际交流到高度结构化的合同协议的全谱系
+> - **含义二（[[University-Industry Collaboration|产学合作]]意义）** 在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，指知识在大学与产业之间的流动——包括从非正式的人际交流到高度结构化的合同协议的全谱系
 >
 > 两种含义共享"知识在主体间移动"的基本意象，但理论传统（[[Critical Geopolitics|批判地缘政治]] vs [[Systems of Innovation|创新系统]]/组织理论）、分析层次（国家/地缘政治 vs 组织/制度）和价值取向完全不同。以下分别阐述。
 
@@ -96,9 +96,9 @@ updated: '2026-05-18'
 > "知识转移"作为地缘政治概念的分析重心转移，经历了从哲学命题到地缘教义再到 [[Geopolitics of Knowledge|GPK]] 分析工具的演变：
 > - **希腊形而上学根基** 关于 agathos（善）的理论经新[[Plato|柏拉图]]主义（Pseudo-Dionysius）和新亚里士多德主义（Thomas Aquinas）发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，具有自我传播和扩散的天然倾向([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]]; McClymond, 2010, p.92)
 > - **古典等级制的障碍** 然而恰恰因为知识是善，其转移从未畅通无阻——从 Plato 的"agathos kai sophos"（善且智）和 [[Confucius]] 的"[[Junzi|君子]] junzi"以来，知识始终与智识和社会等级制相联系(; Park, 2016)
-> - **[[Francis Bacon|Bacon]] 到德国地缘教义**：Bacon "knowledge is power"（1597）在 17 世纪仍表达为神学中的神圣属性（potestas Dei）；到 19 世纪德国统一后，演变为地缘政治教义——"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）——服务于扩张主义和霸权政治([[Argument_Partaken_2022_Springer|Partaken, 2022, p.67–68]]; Shimazu, 2015)
+> - **[[Francis Bacon|Bacon]] 到德国地缘教义** Bacon "knowledge is power"（1597）在 17 世纪仍表达为神学中的神圣属性（potestas Dei）；到 19 世纪德国统一后，演变为地缘政治教义——"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）——服务于扩张主义和霸权政治([[Argument_Partaken_2022_Springer|Partaken, 2022, p.67–68]]; Shimazu, 2015)
 > - **Katz 的权力独立冲突源**Katz (1965) 论证权力不仅是获取经济优势或意识形态最大化的手段，"它本身就是冲突的独立来源"（p.374）——这一论断将知识转移从"工具"提升为 GPK 中独立的地缘政治冲突[[Champ|场域]]
-> - **Partaken 的[[Paradigm|范式转换]]**：2022 年 Partaken 明确提出 GPK 的分析重心应从[[Knowledge Production|知识生产]]（后殖民传统的焦点）转向知识转移——知识在运动中的挪用、传授、窃取、审查、监视和破坏的动态过程，才是解码当代新自由全球化中新殖民动力的关键([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]])
+> - **Partaken 的[[Paradigm|范式转换]]** 2022 年 Partaken 明确提出 GPK 的分析重心应从[[Knowledge Production|知识生产]]（后殖民传统的焦点）转向知识转移——知识在运动中的挪用、传授、窃取、审查、监视和破坏的动态过程，才是解码当代新自由全球化中新殖民动力的关键([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]])
 
 ---
 
@@ -106,12 +106,12 @@ updated: '2026-05-18'
 
 > [!abstract]
 > Partaken 识别出知识转移在 [[Geopolitics of Knowledge|GPK]] 中运作的六种模态([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–84]])：
-> - **[[Forced Knowledge Transfer]]**：通过规定、胁迫和暴力进行的自上而下知识灌输，以 Freire 的"银行概念"和日本帝国 [[Kokutai no Hongi]] 为典型案例
-> - **[[Economic and Industrial Espionage]]**：国家支持或非国家行为者通过非法手段获取有价值知识，以 中美技术紧张 为当代核心案例
+> - **[[Forced Knowledge Transfer]]** 通过规定、胁迫和暴力进行的自上而下知识灌输，以 Freire 的"银行概念"和日本帝国 [[Kokutai no Hongi]] 为典型案例
+> - **[[Economic and Industrial Espionage]]** 国家支持或非国家行为者通过非法手段获取有价值知识，以 中美技术紧张 为当代核心案例
 > - **监视（Surveillance）** 通过大规模数据收集监控个体与群体的知识行为，以 Foucault 全景敞视主义为其运作逻辑，[[China Social Credit System]] 为当代典范
 > - **审查（Censorship）** 通过阻断知识获取和言论自由来干涉知识转移，以 [[Great Firewall of China]] 为制度典范
-> - **[[Knowledge Sabotage]]**：蓄意破坏敌对方的知识资产，以网络攻击为主要当代形式
-> - **知识交换（[[Knowledge Exchange]]）**：在相对对等基础上的双向知识流动，是更平等的替代模态但非当前国际关系的默认状态
+> - **[[Knowledge Sabotage]]** 蓄意破坏敌对方的知识资产，以网络攻击为主要当代形式
+> - **知识交换（[[Knowledge Exchange]]）** 在相对对等基础上的双向知识流动，是更平等的替代模态但非当前国际关系的默认状态
 
 ---
 
@@ -150,7 +150,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - **"生产 vs 转移"是否构成虚假对立** Partaken 将[[Knowledge Production|知识生产]]与知识转移呈现为"两面"（two faces），但两者在实际中是否可清晰分离存疑——知识在生产过程中已包含转移（如合作研究、学术出版），而知识在转移过程中也发生着生产（如教学中的知识重构）。Partaken 本人承认后殖民传统关注知识生产有其历史合法性，但他将两者作为分析范畴对立起来的做法，可能低估了二者的交织程度([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.72–75]])
-> - **知识转移作为[[Analytic Framework|分析框架]]的[[Value Neutrality|价值中立]]问题**：Partaken 将六种模态从"强制转移"到"知识交换"按合法性递减排列，但"交换"本身在不对等权力结构中也可能是不平等的——如南北学术合作中的知识提取。该框架对"交换"的理想化预设需要进一步检视([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])
+> - **知识转移作为[[Analytic Framework|分析框架]]的[[Value Neutrality|价值中立]]问题** Partaken 将六种模态从"强制转移"到"知识交换"按合法性递减排列，但"交换"本身在不对等权力结构中也可能是不平等的——如南北学术合作中的知识提取。该框架对"交换"的理想化预设需要进一步检视([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])
 > - **经验基础的限制** Partaken 主要依赖中美案例验证知识转移框架，但六模态类型学是否适用于其他 [[Geopolitics of Knowledge|GPK]] 情境（如欧盟内部知识流动、南南合作、非国家行为者之间的知识转移）尚待检验
 
 ---
@@ -197,7 +197,7 @@ Cohen et al.（2002）系统记录了这些多样化的渠道，并指出不同�
 
 Brescia et al.（2016）对 200 所高排名大学的调查发现，知识转移的组织方式存在显著差异——有的采用内部专门办公室，有的依赖外部机构，有的嵌入科研副校长办公室——没有统一的标准模式（转引自 Boccanfuso & Hall, 2025b, p.54）。
 
-Debackere 和 Veugelers（2005）进一步指出，有效的知识转移办公室需要同时扮演两种角色："信息科学链接"（information science links）——连接分散的研究团队与产业伙伴，以及"交易专家"（transaction specialists）——在许可谈判中精确定义权利和义务（转引自 Boccanfuso & Hall, 2025b, p.54）。这两种角色对应知识转移的两种基本功能：**建立联系**（非正式/半正式端）和**管理交易**（正式端）。
+Debackere & Veugelers（2005）进一步指出，有效的知识转移办公室需要同时扮演两种角色："信息科学链接"（information science links）——连接分散的研究团队与产业伙伴，以及"交易专家"（transaction specialists）——在许可谈判中精确定义权利和义务（转引自 Boccanfuso & Hall, 2025b, p.54）。这两种角色对应知识转移的两种基本功能：**建立联系**（非正式/半正式端）和**管理交易**（正式端）。
 
 ### 概念辨析
 

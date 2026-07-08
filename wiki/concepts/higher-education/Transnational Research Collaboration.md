@@ -73,8 +73,8 @@ updated: '2026-05-18'
 >   2. **制度理性**（机构层面）：满足研究基础设施需求、进行国际绩效对标、提升全球声誉和排名
 >   3. **国家经济理性**（国家层面）：服务于贸易目标、提升国家创新能力和经济竞争力
 >   4. **外交理性**（国家层面）：将研究合作作为公共外交工具，维护和拓展国际关系网络
-> - **[[Snowball Sampling|网络化]]转型**：Castells (1996) 的[[Network Society|网络社会]]理论和 Benkler (2006) 的"网络财富"概念为理解这一转型提供了分析资源——合作从双边线性关系转向多节点、分布式的网络结构
-> - **国际[[University-Industry Collaboration|产学合作]]的五维挑战**：[[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al. (2025)]]从产学合作视角，将国际研究合作的成功条件归纳为五个维度（pp.311–316）：
+> - **[[Snowball Sampling|网络化]]转型** Castells (1996) 的[[Network Society|网络社会]]理论和 Benkler (2006) 的"网络财富"概念为理解这一转型提供了分析资源——合作从双边线性关系转向多节点、分布式的网络结构
+> - **国际[[University-Industry Collaboration|产学合作]]的五维挑战** [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al. (2025)]]从产学合作视角，将国际研究合作的成功条件归纳为五个维度（pp.311–316）：
 >   1. **目标与激励对齐（Strategy/Alignment）** 大学追求科学发现和发表，产业看重[[Return on Investment|投资回报]]；双方对价值的理解偏差更多源于感知而非现实，通过增加沟通可以缓解（pp.311–312）
 >   2. **合作经验与渠道（Know-how）** 许多机构缺乏启动国际合作的实务经验，可借助 Halo、SciVal 等在线工具寻找合作伙伴（pp.312–313）
 >   3. **知识产权（IP Rights）** 不存在"国际专利"，各国法律不统一；预先协商权利安排和透明的 IP 政策是长期合作的基础（pp.313–314）

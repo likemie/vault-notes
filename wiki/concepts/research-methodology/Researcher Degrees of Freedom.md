@@ -50,7 +50,7 @@ updated: '2026-05-18'
 > [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 429)]] 总结了 Simmons et al. 的框架：
 >
 > 1. **样本选择** 包含或排除哪些参与者、学校、班级
-> 2. **[[Variable|变量]]选择**：选择哪些结果变量为主要结果、哪些为次要结果（因变量选择）；使用哪些协变量（自变量选择）
+> 2. **[[Variable|变量]]选择** 选择哪些结果变量为主要结果、哪些为次要结果（因变量选择）；使用哪些协变量（自变量选择）
 > 3. **案例排除** 如何处理离群值（outliers）和缺失数据
 > 4. **分析选择** 选择何种统计模型、是否包含交互项、如何处理聚类
 >
@@ -84,7 +84,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - **Gelman & Loken (2014)** 提出" researcher degrees of freedom "的概念也可被理解为"数据的花园小径"（garden of forking paths）：研究者并非恶意操纵，而是在面对数据后自然做出看似合理的分析选择——问题在于这些选择的累积效应
-> - **在开发者研究中的[[Causality|因果]]不确定性**：[[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 承认不能明确判断[[Developer Effect|开发者效应]]在多大程度上来自研究者自由度 vs. [[Publication Bias|发表偏倚]] vs. [[Implementation Fidelity|实施忠实度]]差异
+> - **在开发者研究中的[[Causality|因果]]不确定性** [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 承认不能明确判断[[Developer Effect|开发者效应]]在多大程度上来自研究者自由度 vs. [[Publication Bias|发表偏倚]] vs. [[Implementation Fidelity|实施忠实度]]差异
 
 ## 相关案例／政策
 

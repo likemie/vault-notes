@@ -61,10 +61,10 @@ updated: '2026-05-18'
 ## 操作步骤
 
 > [!example] 操作步骤
-> - **形成干预[[Hypothesis|假设]]**：从描述性、观察性或[[Observational and Correlational Research|相关性研究]]中识别可能的[[Causality|因果关系]]，并据此设计可能改善学习的处理([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
-> - **操纵自[[Variable|变量]]**：研究者主动引入某种教育实践、处理或项目，而不是仅观察既有变量关系([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **形成干预[[Hypothesis|假设]]** 从描述性、观察性或[[Observational and Correlational Research|相关性研究]]中识别可能的[[Causality|因果关系]]，并据此设计可能改善学习的处理([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
+> - **操纵自[[Variable|变量]]** 研究者主动引入某种教育实践、处理或项目，而不是仅观察既有变量关系([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 > - **与标准实践比较** 干预假设应通过把新处理与既有标准实践比较来正式检验。
-> - **[[Random Assignment|随机分配]]作为更强版本**：若研究还包含随机分配，则在 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的分类中属于 experimental studies，而不仅是 intervention studies。
+> - **[[Random Assignment|随机分配]]作为更强版本** 若研究还包含随机分配，则在 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的分类中属于 experimental studies，而不仅是 intervention studies。
 
 ---
 

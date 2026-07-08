@@ -45,7 +45,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]-
-> Stevenson 和 Stigler 的核心命题是：东亚学生在数学和科学成就上的持续领先，不能简单归因于先天能力差异或考试制度压力，而应追溯至更深层的文化信念和实践模式。他们发现，美国儿童、家长和教师倾向于用能力 (ability) 来解释学业成就，而东亚对应群体则归因于努力 (effort)。他们将这一系统性差异命名为**学习鸿沟**（the [[Learning Gap]]）([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])。
+> Stevenson 和 Stigler 的核心命题是：东亚学生在数学和科学成就上的持续领先，不能简单归因于先天能力差异或考试制度压力，而应追溯至更深层的文化信念和实践模式。他们发现，美国儿童、家长和教师倾向于用能力 (ability) 来解释学业成就，而东亚对应群体则归因于努力 (effort)。他们将这一系统性差异命名为**学习鸿沟（the [[Learning Gap]]）([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])**。
 
 > [!quote]
 > "They found that whereas American children, parents, and teachers explained children's achievement based on the notion of ability, their Asian counterparts attributed children's achievement to their effort. They dubbed this learning difference the 'learning gap'."([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])

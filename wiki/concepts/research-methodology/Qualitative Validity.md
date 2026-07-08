@@ -3,7 +3,6 @@ title: Qualitative Validity
 aliases:
   - 质性效度
   - qualitative validity
-  - trustworthiness
   - 质性研究效度
 summary: "质性研究中研究者通过特定程序检查研究发现准确性的标准，与量化效度、信度和推广度的含义不同"
 type: concept
@@ -59,14 +58,14 @@ updated: 2026-06-01
 
 Creswell & Creswell（2022, Ch9）推荐使用多种策略组合来增强研究者[[Evaluation Research|评估研究]]发现准确性的能力和说服读者。八种策略按使用频率和实施难度排列：
 
-1. **[[Triangulation|三角验证]]**：通过多个数据来源的证据汇聚来构建主题的一致性基础。
-2. **[[Member Checking|成员核查]]**：将最终报告或特定描述和主题带回参与者确认准确性。
-3. **丰富密集的描述（[[Rich and Thick Description]]）**：提供详细的场所描述和多重视角，使结果更真实和丰富。
+1. **[[Triangulation|三角验证]]** 通过多个数据来源的证据汇聚来构建主题的一致性基础。
+2. **[[Member Checking|成员核查]]** 将最终报告或特定描述和主题带回参与者确认准确性。
+3. **丰富密集的描述（[[Rich and Thick Description]]）** 提供详细的场所描述和多重视角，使结果更真实和丰富。
 4. **澄清研究者偏见** 通过[[Reflexivity|反身性]]（[[Reflexivity]]）自我反思，创造开放诚实的叙事——背景如何塑造解释。
 5. **呈现负面或矛盾信息（Negative or Discrepant Information）** 讨论与主题相矛盾的证据。因为现实生活包含不同视角，不相容是常态，矛盾信息的呈现增加了报告的可[[Reliability|信度]]。
-6. **延长现场时间（Prolonged Time in the [[Champ|field]]）**：研究者在参与者场所中停留时间越长，对现象的理解越深入，发现越准确。
-7. **[[Peer Debriefing|同行审议]]**：寻找一位同行审议者审查并提出关于[[Qualitative Research|质性研究]]的问题，使报告能够与研究者以外的人产生共鸣。
-8. **[[External Auditor|外部审计]]（[[External Auditor]]）**：聘请不熟悉研究者或项目的外部审计者审查整个项目，提供客观评估。
+6. **延长现场时间（Prolonged Time in the [[Champ|field]]）** 研究者在参与者场所中停留时间越长，对现象的理解越深入，发现越准确。
+7. **[[Peer Debriefing|同行审议]]** 寻找一位同行审议者审查并提出关于[[Qualitative Research|质性研究]]的问题，使报告能够与研究者以外的人产生共鸣。
+8. **[[External Auditor|外部审计]]（[[External Auditor]]）** 聘请不熟悉研究者或项目的外部审计者审查整个项目，提供客观评估。
 
 ## 概念辨析
 

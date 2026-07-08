@@ -70,9 +70,9 @@ citation_aliases:
 > [!abstract] 理论框架
 > 该论文是方法论批判，未援引特定理论框架，但建立在以下前提之上：
 >
-> - **Cohen (1962) 的[[Effect Size|效应量]]概念**：效应量最初用于帮助研究者评估统计功效（检测差异的能力），而非测量教育重要性(p.3)
-> - **Fitz‐Gibbon (1984) 的区分**：[[Statistical Significance|统计显著性]]不等同于教育显著性——"要解读两组之间差异的教育显著性，必须用结果所测量的度量来解释差异"(p.4)
-> - **Eysenck (1984) 的"苹果和橙子"批评**：[[Meta-analysis|元分析]]合并概念上不可比较的结果测量
+> - **Cohen (1962) 的[[Effect Size|效应量]]概念** 效应量最初用于帮助研究者评估统计功效（检测差异的能力），而非测量教育重要性(p.3)
+> - **Fitz‐Gibbon (1984) 的区分** [[Statistical Significance|统计显著性]]不等同于教育显著性——"要解读两组之间差异的教育显著性，必须用结果所测量的度量来解释差异"(p.4)
+> - **Eysenck (1984) 的"苹果和橙子"批评** [[Meta-analysis|元分析]]合并概念上不可比较的结果测量
 
 ## 研究方法
 
@@ -159,7 +159,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - **[[Effect Size|效应量]]测量的是试验清晰度（experimental clarity），不是教育有效性**：大 d 表示在特定比较组、特定样本和特定测量的条件下组间差异"很清晰"——但清晰度不等于重要性或教育显著性(p.14)
+> - **[[Effect Size|效应量]]测量的是试验清晰度（experimental clarity），不是教育有效性** 大 d 表示在特定比较组、特定样本和特定测量的条件下组间差异"很清晰"——但清晰度不等于重要性或教育显著性(p.14)
 > - **三个系统性偏差随研究领域变化** 比较组选择、范围限制和测量设计的自由度在不同教育领域中系统性不同，使得某些领域的效应量始终高于其他领域——无论其教育影响力如何(pp.5–14)
 > - **偏差不是随机噪声** "good experimenters legitimately manipulate d (as they might manipulate [[Sample Size Determination|sample size]]) to enhance the sensitivity of their experiments"(p.5)——研究者做出增加效应量的设计决策是良好实验设计的体现，但这些决策的自由度因领域而异
 > - **联盟表是"对研究设计操纵开放程度的等级"** 效应量排名较高的领域是那些研究者更容易通过方法论选择使教育上可能不重要的差异显得突出的领域

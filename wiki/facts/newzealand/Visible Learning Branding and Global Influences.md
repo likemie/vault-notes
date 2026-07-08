@@ -190,7 +190,7 @@ updated: '2026-05-18'
 > | Visible Wellbeing | Lea Waters | 学生福祉 |
 > | Making Literacy Visible | Douglas Fisher | 读写可视化 |
 >
-> 部分学校开始**自我标识为"Hattie 学校"**([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419；2019, p.777]])。Eacott 在硕士课程中连续多届遇到自称为"Hattie 学校"教师的学生——表明 VL 在论文发表前已在澳大利亚学校系统中成为霸权性存在([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。
+> 部分学校开始**自我标识为"Hattie 学校"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419；2019, p.777]])**。Eacott 在硕士课程中连续多届遇到自称为"Hattie 学校"教师的学生——表明 VL 在论文发表前已在澳大利亚学校系统中成为霸权性存在([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。
 >
 > #### Visible Classroom App
 >
@@ -212,7 +212,7 @@ updated: '2026-05-18'
 >
 > **ACEL（澳大利亚教育领导力委员会）** ACEL 是澳大利亚最大的学校领导力专业协会。Hattie 自 2009 年起成为 ACEL 年会的主题演讲常客，由此建立了与澳大利亚学校行政层的制度化联系渠道。
 >
-> **ACEL–Corwin 合作伙伴关系（2015）**：2015 年，ACEL 与 Corwin Press 正式宣布合作伙伴关系，定期推广"Hattie 启发的 'Visible XXX' 工作坊"和系列出版物([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.780]])。这一联盟将专业协会的会员网络与出版商的商业分销渠道结合，形成自我强化的推广循环：ACEL 年会提供曝光 → Corwin 提供出版物和工作坊 → 学校采纳 → 品牌价值提升 → 更多年会曝光([[Argument_Eacott_2017_SLM|Eacott, 2017, pp.419–420]])。每一衍生品牌反过来强化 VL 核心品牌，形成正反馈循环。
+> **ACEL–Corwin 合作伙伴关系（2015）** 2015 年，ACEL 与 Corwin Press 正式宣布合作伙伴关系，定期推广"Hattie 启发的 'Visible XXX' 工作坊"和系列出版物([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.780]])。这一联盟将专业协会的会员网络与出版商的商业分销渠道结合，形成自我强化的推广循环：ACEL 年会提供曝光 → Corwin 提供出版物和工作坊 → 学校采纳 → 品牌价值提升 → 更多年会曝光([[Argument_Eacott_2017_SLM|Eacott, 2017, pp.419–420]])。每一衍生品牌反过来强化 VL 核心品牌，形成正反馈循环。
 >
 > **Cognition Education（初始培训提供商与商标持有者）** VL 出版后至 2018 年初，由 Cognition Education 公司负责 VL 全球教师培训的传播和商业化运营([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33]])。
 >
@@ -259,7 +259,7 @@ updated: '2026-05-18'
 >
 > PISA 2001 同样揭示澳大利亚成绩差异主要在校内，政策重点从外部因素转向师生互动质量([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.123–125]])。
 >
-> **政策采纳路径**([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.126–128]])：
+> **政策采纳路径([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.126–128]])**
 > - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考[[Document|文献]]
 > - [[ResearchED]] Australia（[[Australian Council for Educational Research|ACER]], 2017）为从业者提供分享平台
 > - [[Australian Curriculum]]（2012）三维度（学习领域、通用能力、跨课程优先事项），ACARA 每年评估并报告
@@ -267,7 +267,7 @@ updated: '2026-05-18'
 > - 2017 年 VL 获维多利亚州教育部官方背书（Department of Education and Training, 2017）
 > - 2017 年被澳大利亚广播公司（ABC）电视系列片 *Revolution School* 描绘为公共教育的拯救者
 >
-> **[[Australian Institute for Teaching and School Leadership|AITSL]] 制度嵌入**：Hattie 担任 AITSL 主席，其工作已深度嵌入：（1）澳大利亚教师和校长的国家专业标准；（2）年度绩效评估体系——要求员工通过数据展示其教学效果并识别改进领域；（3）持续认证体系——要求对照国家标准进行外部检查。
+> **[[Australian Institute for Teaching and School Leadership|AITSL]] 制度嵌入** Hattie 担任 AITSL 主席，其工作已深度嵌入：（1）澳大利亚教师和校长的国家专业标准；（2）年度绩效评估体系——要求员工通过数据展示其教学效果并识别改进领域；（3）持续认证体系——要求对照国家标准进行外部检查。
 >
 > **绩效薪酬的制度基础** VL 的效应量评估体系为教师 绩效薪酬（merit pay）提供了技术基础——Hattie 被指控提倡与 VL 评估体系挂钩的教师绩效薪酬元素，但这与 VL 自身强调的"安全、信任的学校文化"构成内在矛盾([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.434–435]])。
 >

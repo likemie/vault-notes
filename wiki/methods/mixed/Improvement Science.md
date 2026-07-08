@@ -99,7 +99,7 @@ updated: '2026-05-18'
 > [!abstract] [[Spirals of Inquiry|探究螺旋]]（Spirals of Inquiry）
 > 探究螺旋（Timperley, Halbert, & Kaser, 2014）是一种更分散的教师探究模型——不要求所有教师聚焦同一问题，适合挑战更多样化的社区，且需要较少的研究伙伴投入。
 >
-> **六个阶段**([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]]; Halbert & Kaser, 2014)：
+> **六个阶段([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]]; Halbert & Kaser, 2014)**
 > 1. **扫描（Scanning）** 理解学生如何体验他们的教育
 > 2. **聚焦（Focusing）** 发展一个探究焦点
 > 3. **直觉（Hunch）** 提出关于哪些教师行动可以改变观察模式的假设

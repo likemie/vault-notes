@@ -74,7 +74,7 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 > [!note]-
 > - **1975 初版** Tinto 在 *Review of Educational Research* 发表"Dropout from Higher Education"，借鉴 Durkheim 的自杀理论和 van Gennep 的过渡仪式理论，提出大学生辍学的互动模型
 > - **1993 系统化** *Leaving College* 第二版系统阐述了分离-转折-习得三阶段模型和学业/社交双维度融入框架（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tinto, 1993）
-> - **2000s [[Operationalization|操作化]]争议**：学界对如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（，引 Braxton & Lien, 2000），但大多数学者同意其基本共识：学生必须主动投入、积极参与学校活动、主动与教师和同学交往，才更可能取得成功
+> - **2000s [[Operationalization|操作化]]争议** 学界对如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（，引 Braxton & Lien, 2000），但大多数学者同意其基本共识：学生必须主动投入、积极参与学校活动、主动与教师和同学交往，才更可能取得成功
 > - **2023 中国教育研究应用**[[Yajun Zheng|郑雅君]]将 Tinto 的融入理论作为"投入过程"层的核心理论基础之一，操作化为 [[Academic Engagement|学业投入]] 和 [[Social Engagement|社会性投入]] 两个分析维度
 
 ---
@@ -126,9 +126,9 @@ Tinto 的核心关切是大学生辍学问题：为何许多学生——特别�
 ## 争议与批评
 
 > [!warning]
-> - **"中立过程"[[Hypothesis|假设]]**：社会学家和人类学家的核心批评——融入/投入等概念被预设为"由学生自己决定而不牵涉阶层、种族等社会因素的中立过程"。这一[[Theoretical Standpoint|理论立场]]导致未预期的推论：弱势学生在大学里表现不佳，似乎全怪自己没有努力投入（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
+> - **"中立过程"[[Hypothesis|假设]]** 社会学家和人类学家的核心批评——融入/投入等概念被预设为"由学生自己决定而不牵涉阶层、种族等社会因素的中立过程"。这一[[Theoretical Standpoint|理论立场]]导致未预期的推论：弱势学生在大学里表现不佳，似乎全怪自己没有努力投入（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
 > - **结构性盲点** 高等教育学领域整体仍将大学预设为"公平公正的竞技场"，忽视了结构性不平等。郑雅君指出，弱势学生的"不融入"并非个人选择，而是文化语码的不适配（如大成的"语言包"比喻）和屡次融入失败后的回避（如冰倩的"弃疗"）共同导致的——结构性约束伪装成了个人能力问题
-> - **[[Operationalization|操作化]]争议**：学界对于如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（，引 Braxton & Lien, 2000）
+> - **[[Operationalization|操作化]]争议** 学界对于如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（，引 Braxton & Lien, 2000）
 
 ---
 

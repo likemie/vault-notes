@@ -56,8 +56,8 @@ updated: 2026-05-30
 
 > [!example]
 > - vs **学位项目（Degree Programs）** 高管教育以短期高密度为特征，持续数天到数周而非整个学期，不授予学位，但课程内容通常源自相近领域的硕士或研究生课程（pp.155-156）。
-> - vs **企业培训（[[Corporate Education|corporate training]]）**：企业培训由企业内部或外部培训机构提供，侧重于特定技能或合规要求，不依托大学的研究前沿和学科深度。高管教育的独特价值在于它能够将大学的前沿研究“即时翻译”为产业可用的知识框架（p.156）。参见 [[Corporate Education]]。
-> - vs **企业教育 / [[Corporate University|企业大学]]（Corporate University）**：企业大学是大型企业内部设立的教育机构，主要服务于本企业的员工发展需要。高管教育由大学主导，面向多家产业伙伴，跨组织合作是其基本运作前提。参见 [[Corporate Education]]、[[Corporate University]]。
+> - vs **企业培训（[[Corporate Education|corporate training]]）** 企业培训由企业内部或外部培训机构提供，侧重于特定技能或合规要求，不依托大学的研究前沿和学科深度。高管教育的独特价值在于它能够将大学的前沿研究“即时翻译”为产业可用的知识框架（p.156）。参见 [[Corporate Education]]。
+> - vs **企业教育 / [[Corporate University|企业大学]]（Corporate University）** 企业大学是大型企业内部设立的教育机构，主要服务于本企业的员工发展需要。高管教育由大学主导，面向多家产业伙伴，跨组织合作是其基本运作前提。参见 [[Corporate Education]]、[[Corporate University]]。
 > - vs **咨询服务（Consulting）** 咨询服务为客户解决具体问题，交付分析报告、策略建议；高管教育的目标是提升学员自身的认知框架和决策能力，而非直接交付问题解决方案。高管教育的课程设计与咨询服务的边界在实际操作中需要明确区分（pp.169-170）。
 
 ---

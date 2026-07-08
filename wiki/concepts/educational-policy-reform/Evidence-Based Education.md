@@ -325,7 +325,7 @@ updated: '2026-06-17'
 > [!pathways] 证据知情实践的前提条件与动员策略
 > [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, pp. 127–131)]] 归纳了两个核心模型：
 > - **"肥沃土壤"隐喻** 研究证据只有在"肥沃的土壤"中才能生根发芽，需要四大前提条件：教育者的准备度、研究性分析立场与评估技能、组织的中介角色，以及对实践证据与研究证据的并列整合意识。
-> - **[[Knowledge Mobilisation|知识动员]]（Knowledge Mobilisation, KMb）四策略**：沟通与传播（制作可读性高、易于获取的研究综述与工具包）、能力建设（通过教师研究方法论培训提高素养）、伙伴关系与网络（建立跨校改进社区、探究网络及大学-学校协作）、系统化方法（在政策、财政和问责机制中为循证实践提供结构性支持）。
+> - **[[Knowledge Mobilisation|知识动员]]（Knowledge Mobilisation, KMb）四策略** 沟通与传播（制作可读性高、易于获取的研究综述与工具包）、能力建设（通过教师研究方法论培训提高素养）、伙伴关系与网络（建立跨校改进社区、探究网络及大学-学校协作）、系统化方法（在政策、财政和问责机制中为循证实践提供结构性支持）。
 
 #### 决策评估四问题与五要素
 
@@ -440,10 +440,10 @@ updated: '2026-06-17'
 
 > [!framework-table] 多[[Discipline-Based Theory|学科理论]]资源
 > EBE 的学术讨论跨越教育哲学、科学哲学、政治经济学和分析[[Epistemology|认识论]]等多个学科领域，各理论传统为理解 EBE 的合法性、局限性和制度韧性提供了不同的批判资源和替代方案。
-> - **[[Epistemic Governance|知识治理]]与[[Policy Science in Comparative Education|政策科学]]化**：[[Epistemic Governance]] — [[Argument_Zapp_2022_Springer|Zapp (2022)]] 将 EBE 所体现的"[[Scientization of Politics|政策的科学化]]"（scientization of politics）定位为知识治理兴起的一个关键维度：当政策制定者接受"决策应依据科学证据"这一前提时，科学知识就不仅仅是决策的信息来源，而成为治理合法性的构成性要素，大学和研究者因此进入全球治理的核心([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145–146]])
+> - **[[Epistemic Governance|知识治理]]与[[Policy Science in Comparative Education|政策科学]]化** [[Epistemic Governance]] — [[Argument_Zapp_2022_Springer|Zapp (2022)]] 将 EBE 所体现的"[[Scientization of Politics|政策的科学化]]"（scientization of politics）定位为知识治理兴起的一个关键维度：当政策制定者接受"决策应依据科学证据"这一前提时，科学知识就不仅仅是决策的信息来源，而成为治理合法性的构成性要素，大学和研究者因此进入全球治理的核心([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145–146]])
 > - **制度韧性与透明性官僚**[[Tullock's Bureaucracy Theory]] — [[Argument_Cowen_2019_ERE|Cowen (2019)]] 用来解释 EBE 制度韧性：[[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为对主权者透明的过滤机制
 > - **证据外推的三阶段认识框架**[[Cartwright's Three-Stage Knowledge Framework]] — 揭示 RCT 证据从"在某处有效"到"对我们有效"外推所需的三个知识阶段
-> - **[[Critical Realism|批判实在论]]与开放系统**：[[Critical Realism]] — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 用作批判 EBE 方法论的哲学框架，区分三层[[Ontology|本体论]]和开放/封闭系统
+> - **[[Critical Realism|批判实在论]]与开放系统** [[Critical Realism]] — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 用作批判 EBE 方法论的哲学框架，区分三层[[Ontology|本体论]]和开放/封闭系统
 > - **区分理论与教育知识临时性**[[Goldman's Discrimination Theory of Knowledge]] — [[Argument_Wiliam_2019|Wiliam (2019)]] 运用此理论论证教育知识需要区分真实状态与相关替代状态的能力
 > - **因果关系与效度框架**[[Campbellian Validity Framework]] — Shadish, Cook & Campbell (2002) 的实验效度理论：[[Causality|因果推断]]需通过排除[[Internal Validity|内部效度]]威胁建立因果关系
 
@@ -526,7 +526,7 @@ updated: '2026-06-17'
 > Wrigley 借助 [[Roy Bhaskar]] 与 Andrew Sayer 的[[Critical Realism|批判实在论]]哲学框架，对 EBE 进行了深层解构：
 > 
 > 1. **分层本体论（Stratified Ontology）** 批判实在论将实在区分为三层——"深层实在（Real，因果机制与结构）"、"实际发生（Actual，事件与结果）"与"经验现象（Empirical，观察到的恒常性）"。EBE 的[[Positivism|实证主义]]倾向只停留在经验层面计算效应量均值，却遗漏了深层真实的结构与机制分析。
-> 2. **开放系统与因果[[Emergence|涌现]]性（Emergence）**：教育是一个多层分层交互的"开放系统"（涵盖国家政策、学校制度、课堂互动、个体信念与 biographies）。整体的效果不能等同于各部分的线性累加，而是一个非线性的涌现过程。
+> 2. **开放系统与因果[[Emergence|涌现]]性（Emergence）** 教育是一个多层分层交互的"开放系统"（涵盖国家政策、学校制度、课堂互动、个体信念与 biographies）。整体的效果不能等同于各部分的线性累加，而是一个非线性的涌现过程。
 > 3. **施为者悖论（Teacher Agency Paradox）** RCT 实验在设计上试图排除教师和学生的个人意志对干预的影响，以实现标准化交付。然而在真实课堂中，项目的成功完全依赖教师的情感、热情和主动调节，以及学生对项目资源的推理（Reasoning）。这意味着，**RCT 极力控制并视为"污染源"的人类意志，恰恰是产生教学效果的"必要因果机制"**。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 7, 15]]
 
 
@@ -599,7 +599,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!note]- 三级失真机制详解（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）
 > Wrigley 深入剖析了证据自底层实验向上聚合至宏观政策工具时的三级失真机制：
 > - **Level 1（RCT 层面：实验简化与安慰剂缺失）** 控制组通常是"常规教学"（business as usual）的真实高强度教学而非医学上的空白安慰剂，这使效应量失去了绝对参考。此外，RCT 将教师的教学热情和学生的推理施为（Agency）视为干扰项进行严格[[Screening Off|屏蔽]]，形成了没有深层因果机制的"数据黑箱"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 5–6]]。
-> - **Level 2（元分析层面：[[Heterogeneity|异质性]]混淆与苹果橙子混合）**：元分析根据技术标准（如有无对照组）强行拼合极其异[[Qualitative Research|质的研究]]，将患者病情、教学情境等核心变量剥离，用平均数掩盖了实证研究中的变异性。Feinstein (1995) 批评这是"21世纪的统计炼金术"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]]。
+> - **Level 2（元分析层面：[[Heterogeneity|异质性]]混淆与苹果橙子混合）** 元分析根据技术标准（如有无对照组）强行拼合极其异[[Qualitative Research|质的研究]]，将患者病情、教学情境等核心变量剥离，用平均数掩盖了实证研究中的变异性。Feinstein (1995) 批评这是"21世纪的统计炼金术"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]]。
 > - **Level 3（元-元分析层面：双重失真与排行榜修辞）** 以 Hattie 阀值和 EEF Toolkit 为代表的元-元分析，将前几级的统计偏误进一步累积和放大。其产出的"排行榜修辞"和"月份排行"彻底过滤掉了干预措施发挥作用的具体结构性与情境因素，为决策者提供了极具误导性的粗暴"钝器"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 11–12]]。
 
 > [!critique-method] 从 RCT 到元分析到元-元分析：证据在三层聚合中系统性失真
@@ -608,7 +608,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > [!note]- 体育参与案例追踪与三级失真
 > [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 和 Wrigley & McCusker (2019) 通过理论和案例两种路径揭示了证据综合中的系统性失真（三级流程图参见上方 [!logic-map]）。
 > 
-> **体育参与案例**（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 120–123]]）：EEF Toolkit 报告体育参与效应量 0.17（+2 个月）。追踪来源揭示：最高效应量（0.80）来自 [[Playing for Success]]——足球场一对一辅导项目，与普通"体育参与"几乎毫无共同之处；Shulruf (2010) 源元分析主要结论恰恰是"**没有稳健证据表明课外活动与学生成果之间存在因果关系**"。
+> **体育参与案例（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 120–123]]）** EEF Toolkit 报告体育参与效应量 0.17（+2 个月）。追踪来源揭示：最高效应量（0.80）来自 [[Playing for Success]]——足球场一对一辅导项目，与普通"体育参与"几乎毫无共同之处；Shulruf (2010) 源元分析主要结论恰恰是"**没有稳健证据表明课外活动与学生成果之间存在因果关系**"。
 > 
 > **方法论的三级失真**
 > - **RCT 层面**Ginsburg & Smith (2016) 分析 27 项 [[What Works Clearinghouse|WWC]] 高评分数学 RCT，发现 26 项存在多重严重问题
@@ -623,7 +623,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > 科学不等于实验；许多科学领域不使用实验；许多重大发现并非来自系统程序。用低层次[[Scientific Method|科学方法]]研究高层次教育现象"从根本上是不科学的"（Thomas, 2012）。
 
 > [!note]- 核心论证（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）
-> Wrigley & McCusker 从科学哲学角度对 EBT 的科学宣称进行了系统解构，论证其对"科学"的诉诸依赖于一种过分简化的**民间科学观**（folk-view of science, Thomas, 2012）：
+> Wrigley & McCusker 从科学哲学角度对 EBT 的科学宣称进行了系统解构，论证其对"科学"的诉诸依赖于一种过分简化的**民间科学观（folk-view of science, Thomas, 2012）**
 > 
 > 1. **科学 ≠ 实验** 许多科学领域不使用实验（天文学、气象学、进化论）；许多重大发现并非来自系统程序（青霉素、尼龙、超导性、飞机）。
 > 2. **本体论层次混淆** 用低层次[[Scientific Method|科学方法]]研究高层次教育现象是"从根本上不科学的"（Thomas, 2012, p. 28）。
@@ -668,7 +668,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 - **因果机制理解的需求** 教师普遍需要理解干预措施的底层原理，仅凭 Toolkit 摘要统计不足以指导课堂决策。一位教师说："EEF 提供了非常有用的入门，但不足以设计反馈政策。我需要看形成元分析的那些研究。"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.30]])
 - **情境的不可化约性** "周五的课不如周一的课效果好"，"一位有魅力的老师 vs 一位正在离婚的老师"，这些不可控制的情境因素使研究证据的预测力受到根本限制。实践中几乎没有学校"开箱即用"地应用证据本位方案，而是高度情境化的"调适与重新发明"。
 - **教师缺乏研究方法训练** 许多教师没有接受过研究方法教育，无法批判性地评估研究证据——"我们被推向'教师作为研究者'，但实际上应该是'教师作为学者'"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.30–31]])
-- **[[Ofsted]] 的矛盾信号**：Ofsted 被认为既认可了非证据本位的实践（如学习风格理论），又惩罚了合理的教师主导教学方式([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.37–38]])
+- **[[Ofsted]] 的矛盾信号** Ofsted 被认为既认可了非证据本位的实践（如学习风格理论），又惩罚了合理的教师主导教学方式([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.37–38]])
 
 #### 副作用批判
 
@@ -679,7 +679,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 
 **医学类比** Zhao 以 Pfizer 终止开发 Torcetrapib 为例——该药早期显示有效预防心脏病和中风，但[[Clinical Trial|临床试验]]中引发更高比例的胸痛和心力衰竭，Pfizer 因此终止了超过 USD 800M 的投资。相比之下，"我未找到任何教育产品附带类似药品的警告标签——如'本项目能提高你学生的阅读考试成绩，但可能使他们永远厌恶阅读'"([[Argument_Zhao_2017_JEC|Zhao, 2017, p.4]])。
 
-**6 项行动建议**([[Argument_Zhao_2017_JEC|Zhao, 2017, p.15–16]])：(1) 教育干预提供者应主动识别和报告潜在副作用；(2) 研究资助机构应要求副作用分析作为拨款条件；(3) 研究综合机构（如 WWC、EEF）应包含副作用信息；(4) 政策制定者应在推广前评估副作用风险；(5) 教育者应在选择干预时权衡效果与副作用；(6) 建立类似 FDA 上市后监测的持续跟踪机制。详见 [[Side Effects]]、[[Direct Instruction]]。
+**6 项行动建议([[Argument_Zhao_2017_JEC|Zhao, 2017, p.15–16]])** (1) 教育干预提供者应主动识别和报告潜在副作用；(2) 研究资助机构应要求副作用分析作为拨款条件；(3) 研究综合机构（如 WWC、EEF）应包含副作用信息；(4) 政策制定者应在推广前评估副作用风险；(5) 教育者应在选择干预时权衡效果与副作用；(6) 建立类似 FDA 上市后监测的持续跟踪机制。详见 [[Side Effects]]、[[Direct Instruction]]。
 
 #### 政治经济学批判
 
@@ -840,8 +840,8 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 - [[ResearchED]] — 2013 年 Tom Bennett 创立的教师草根 [[Evidence-Informed Practice|EIP]] 运动
 - [[Playing for Success]] — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 揭示元-[[Meta-analysis|元分析]]程序缺陷的关键案例
 - [[Selective Schools Expansion Fund]] — [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] 揭示 EBE 在议会政策制定中被系统性回避的[[Case Study|案例研究]]
-- **Fresh Start 拼读干预案例**（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]）— EEF 资助的针对中一阅读困难学生的合成拼读项目。官方摘要宣称其[[Effect Size|效应量]]达 $+0.24SD$（等同于 3 个月额外进步），但深度技术拆解显示[[Random Assignment|随机化]]严重失衡，干预组前测成绩远低于对照组；当研究者筛选出前测成绩完全一致的低分匹配学生子集进行比较时，两组的进步幅度及后测成绩完全相同（净效应量为 $+0.00SD$），所谓的有效性纯粹是糟糕随机化带来的数据偏误幻象。
-- **课堂教学助理（TA）结构性不当案例**（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）— EEF Toolkit 将 TA 排入低影响、高成本排行榜底部（效应量仅 $+0.08$），但 Blatchford 的实证研究表明，TA 的低效是因为学校未给他们预留与教师备课沟通的时间，且系统性地将低成就生推给 TA 授课，剥夺了他们接受合格教师教学的机会。Toolkit 的扁平排行过滤掉了这一结构性使用不当的具体情境。
+- **Fresh Start 拼读干预案例（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]）**— EEF 资助的针对中一阅读困难学生的合成拼读项目。官方摘要宣称其[[Effect Size|效应量]]达 $+0.24SD$（等同于 3 个月额外进步），但深度技术拆解显示[[Random Assignment|随机化]]严重失衡，干预组前测成绩远低于对照组；当研究者筛选出前测成绩完全一致的低分匹配学生子集进行比较时，两组的进步幅度及后测成绩完全相同（净效应量为 $+0.00SD$），所谓的有效性纯粹是糟糕随机化带来的数据偏误幻象。
+- **课堂教学助理（TA）结构性不当案例（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）**— EEF Toolkit 将 TA 排入低影响、高成本排行榜底部（效应量仅 $+0.08$），但 Blatchford 的实证研究表明，TA 的低效是因为学校未给他们预留与教师备课沟通的时间，且系统性地将低成就生推给 TA 授课，剥夺了他们接受合格教师教学的机会。Toolkit 的扁平排行过滤掉了这一结构性使用不当的具体情境。
 
 ### 美国
 

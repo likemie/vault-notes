@@ -69,7 +69,7 @@ updated: 2026-05-20
 
 ### 数据收集与追踪
 
-Behrens 和 DiCerbo（2014, pp.39–40）将教育数据的增长描述为从"数字荒漠"（digital desert）到"数字海洋"（digital ocean）的转变——数字痕迹的丰富性使得对学习过程的全面追踪成为可能。Bächle（2016, p.172）指出，这种数据丰富性同时承诺了"通过数据实现对自我的完全可读性"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。
+Behrens & DiCerbo（2014, pp.39–40）将教育数据的增长描述为从"数字荒漠"（digital desert）到"数字海洋"（digital ocean）的转变——数字痕迹的丰富性使得对学习过程的全面追踪成为可能。Bächle（2016, p.172）指出，这种数据丰富性同时承诺了"通过数据实现对自我的完全可读性"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。
 
 ### 学习者建模与预测
 
@@ -120,9 +120,9 @@ Behrens 和 DiCerbo（2014, pp.39–40）将教育数据的增长描述为从"�
 
 - **"改善学习质量"的证据不足** 学习分析的宣称效果——提高学习成绩、降低辍学率——缺乏大规模、独立评估的经验支持([[Argument_Amos_2022_Springer|Amos, 2022, p.57]])
 - **数据化 ≠ 理解学习** 将学习过程简化为可追踪的数字痕迹，可能遗漏学习中最关键的维度——困惑的质量、创造性的酝酿、同伴之间的非正式互动——这些难以量化但对学习至关重要的过程([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
-- **与[[Transhumanism|超人类主义]]的亲和性**：学习分析的核心逻辑——通过数据追踪和算法优化来"增强"学习——与 [[Transhumanism]] 的效率最大化逻辑高度兼容([[Argument_Amos_2022_Springer|Amos, 2022, pp.58–59]])
+- **与[[Transhumanism|超人类主义]]的亲和性** 学习分析的核心逻辑——通过数据追踪和算法优化来"增强"学习——与 [[Transhumanism]] 的效率最大化逻辑高度兼容([[Argument_Amos_2022_Springer|Amos, 2022, pp.58–59]])
 - **可预测性的幻觉** 学习分析的逻辑预设学生的学业成功可以被入场数据预测，但这排除了教育的根本开放性——[[Bildung]] 指向的是一个超越数据相关性的、开放且不可预测的未来([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
-- **[[Preemptive Governance|先发制人治理]]的伦理风险**：在 [[Online Self-Assessment|OSA]] 场景中，学习分析在入学前就对"问题学生"进行预判和预管理——这引发了对数据驱动的"预判性身份"（preemptive identity）的伦理担忧：一个人可能在被给予机会证明自己之前，就已经被算法标记为"高风险"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–225]])
+- **[[Preemptive Governance|先发制人治理]]的伦理风险** 在 [[Online Self-Assessment|OSA]] 场景中，学习分析在入学前就对"问题学生"进行预判和预管理——这引发了对数据驱动的"预判性身份"（preemptive identity）的伦理担忧：一个人可能在被给予机会证明自己之前，就已经被算法标记为"高风险"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–225]])
 
 ## 仪表盘可视化与 Gamification
 

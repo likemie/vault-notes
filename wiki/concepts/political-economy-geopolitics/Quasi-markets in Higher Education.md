@@ -30,7 +30,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
-  - "[[Excellence Initiative (Germany)]]"
+  - "[[German Excellence Initiative|Excellence Initiative (Germany)]]"
   - "[[National Science Foundation]]"
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
@@ -87,7 +87,7 @@ updated: 2026-06-01
 
 ### 德国：Excellence Initiative
 
-[[Excellence Initiative (Germany)|德国卓越倡议]]（Excellence Initiative，2005–2017）及其后续的 Excellence Strategy 代表了另一种准市场形态：少数被选中的"卓越大学"获得巨额额外资助，形成与其余大学的显著资源落差。与英国 REF 覆盖所有大学的评估不同，德国模式创造了更陡峭的等级，卓越大学和非卓越大学之间的界限被制度化。
+[[German Excellence Initiative|德国卓越倡议]]（Excellence Initiative，2005–2017）及其后续的 Excellence Strategy 代表了另一种准市场形态：少数被选中的"卓越大学"获得巨额额外资助，形成与其余大学的显著资源落差。与英国 REF 覆盖所有大学的评估不同，德国模式创造了更陡峭的等级，卓越大学和非卓越大学之间的界限被制度化。
 
 ### 美国的多样化实践
 

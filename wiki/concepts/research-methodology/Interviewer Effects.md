@@ -32,7 +32,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 核心定义
-> 访谈者效应（interviewer effects）指研究者的个人特征和期望系统性地影响访谈数据的质量、深度和诚实度的现象。在[[Sensitive Research|敏感研究]]中，访谈者效应尤为显著——研究者的性别、年龄、地位、着装、背景乃至对访谈的预期，都可能直接影响参与者披露信息的意愿和完整程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 227–229]]）。
+> 访谈者效应（interviewer effects）指研究者的个人特征和期望系统性地影响访谈数据的质量、深度和诚实度的现象。在[[Sensitive Research|敏感研究]]中，访谈者效应尤为显著——研究者的性别、年龄、地位、着装、背景乃至对访谈的预期，都可能直接影响参与者披露信息的意愿和完整程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 227–229]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 访谈者效应指向一个方法论事实：访谈不是研究者从参与者那里中性提取数据的机械过程，而是两个带有社会特征的人之间的互动。研究者的特征本身就是数据收集工具的一部分。
@@ -43,7 +43,7 @@ updated: 2026-06-22
 
 ## 核心要素
 
-访谈者效应在[[Sensitive Research|敏感研究]]中涵盖两个维度（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 227–228]]）：
+访谈者效应在[[Sensitive Research|敏感研究]]中涵盖两个维度（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 227–228]]）：
 
 > [!dimension] 访谈者效应的两个维度
 > - **研究者的个人特征（Researcher characteristics）**
@@ -59,13 +59,13 @@ updated: 2026-06-22
 > Bradburn & Sudman (1979) 的实证发现——访谈者期望差异导致 5–30% 的报告率差异——指向一个关键结论：访谈者培训不仅是伦理要求，更是数据质量的直接决定因素。如果研究者带着焦虑、不适或预判进入敏感访谈，参与者会感知到这些信号并相应地调整自己的披露程度（Lee, 1993, p. 101）。
 
 > [!claim] 非语言沟通与反移情
-> 研究者在敏感访谈中的非语言沟通至关重要。他们不能流露出判断、支持或谴责的暗示，必须避免反移情（counter-transference）——将研究者自己的观点、价值观、态度、偏见和背景投射到访谈情境中（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 228]]）。
+> 研究者在敏感访谈中的非语言沟通至关重要。他们不能流露出判断、支持或谴责的暗示，必须避免反移情（counter-transference）——将研究者自己的观点、价值观、态度、偏见和背景投射到访谈情境中（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 228]]）。
 
 ---
 
 ## 敏感访谈中的操作框架
 
-Lee (1993, pp. 102–114) 提出了处理访谈者效应的四项操作议题（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 228–229]]）：
+Lee (1993, pp. 102–114) 提出了处理访谈者效应的四项操作议题（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 228–229]]）：
 
 > [!method-panel] Lee 的四项敏感访谈操作议题
 > | 议题 | 操作指导 |

@@ -150,7 +150,7 @@ updated: '2026-05-18'
 ## 效果与评价
 
 > [!success] 效果与评价
-> - **[[Internal Validity|内部效度]]判断的一致性**：Maggin et al. (2013) 发现，7 种量规在 [[Single-Case Design|SCD]] 研究内部效度判断上产生了合理一致的结果——这并不令人惊讶，因为 Campbellian 效度框架适用于多种设计类型([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
+> - **[[Internal Validity|内部效度]]判断的一致性** Maggin et al. (2013) 发现，7 种量规在 [[Single-Case Design|SCD]] 研究内部效度判断上产生了合理一致的结果——这并不令人惊讶，因为 Campbellian 效度框架适用于多种设计类型([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 > - **推广性判断的分歧** 各量规在推广性标准上存在"相当大差异"——有些量规捕获了大量推广性细节，有些则功能性忽略此考虑（p.461）
 > - **澄清效应** Hitchcock et al. 希望通过澄清"系统如何运作"，使 [[Single-Case Design|SCD]] 研究社区理解标准，"从而促进对 [[What Works Clearinghouse|WWC]] 未来报告的使用，并可能影响 SCD 研究的实施和报告方式"（pp.461–462）
 

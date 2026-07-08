@@ -98,7 +98,7 @@ updated: 2026-06-24
 
 ### 三种理论传统
 
-Jupp 和 Norris（1993）将文献分析的理论传统归纳为三类：
+Jupp & Norris（1993）将文献分析的理论传统归纳为三类：
 
 > [!dimension] 文献分析的三种理论传统
 > - **实证主义传统（positivist approach）**

@@ -80,8 +80,8 @@ updated: 2026-05-18
 
 Møller 提出研究学校领导力的两种关键视角([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])：
 
-- **[[Transformative Leadership|变革型领导力]]**（[[Transformative Leadership]], Shields, 2010, 2011）— 以权力为调查起点
-- **批判性教育政策**（critical educational policy, Gunter, 2016）— 将专业工作和组织发展定位于权力结构之中
+- **[[Transformative Leadership|变革型领导力]]（[[Transformative Leadership]], Shields, 2010, 2011）**— 以权力为调查起点
+- **批判性教育政策（critical educational policy, Gunter, 2016）**— 将专业工作和组织发展定位于权力结构之中
 
 两种视角均试图超越对组织内部领导行为的关注，纳入更广泛的社会结构与政治经济分析。
 
@@ -175,7 +175,7 @@ Keddie et al.（2020）基于 42 位澳大利亚教育利益相关者的访谈�
 
 > "谁被捧为年度校长？谁因系统贡献被刊登在通讯中，而非他们扭转了一所挣扎中的学校？"（Keddie et al., 2020, p.438-439）
 
-当企业家精神由竞争和经济理性主义驱动时，它会**损害校长的伦理实践**（Keddie et al., 2020, p.438, citing Fullan, 2002; Keddie, 2015; Cranston et al., 2010）。Victoria 州 IBAC（2017）的调查记录了这一问题的现实性——"将资金滥用和腐败行为的增加归因于缺乏政府监管和监督"（Keddie et al., 2020, p.438）。
+当企业家精神由竞争和经济理性主义驱动时，它会**损害校长的伦理实践（Keddie et al., 2020, p.438, citing Fullan, 2002; Keddie, 2015; Cranston et al., 2010）**。Victoria 州 IBAC（2017）的调查记录了这一问题的现实性——"将资金滥用和腐败行为的增加归因于缺乏政府监管和监督"（Keddie et al., 2020, p.438）。
 
 ### 工作量激增与健康危机
 

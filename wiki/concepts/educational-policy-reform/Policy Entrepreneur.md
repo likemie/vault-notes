@@ -84,7 +84,7 @@ O'Neill 等的报告主要聚焦第一和第二语境——识别和分析"谁"�
 
 **New Zealand Initiative (NZI)** 亲市场的智库（由 Business Roundtable 和 New Zealand Institute 合并而成），倡导教育改革。NZI 出版报告、评论文章，并向政府提交政策建议。其 2016 年报告 *Report Card: The school decile system* 主张改革 school decile 资助体系([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.34–35]])
 
-**[[Teach First New Zealand]] ([[Teach First New Zealand|TFNZ]] 2011)**：慈善信托形式运作，7% 接受率（2014: 464 申请→35 录取），74 名参与者（2011-2014 累计）。TFNZ 体现了政策创业者如何在公共福利话语（解决教育不平等）、非营利结构（慈善信托）和私营部门连接（Aotearoa Foundation 美国对冲基金资助、Teach for All 全球网络）之间运作([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.53–57]])
+**[[Teach First New Zealand]] ([[Teach First New Zealand|TFNZ]] 2011)** 慈善信托形式运作，7% 接受率（2014: 464 申请→35 录取），74 名参与者（2011-2014 累计）。TFNZ 体现了政策创业者如何在公共福利话语（解决教育不平等）、非营利结构（慈善信托）和私营部门连接（Aotearoa Foundation 美国对冲基金资助、Teach for All 全球网络）之间运作([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.53–57]])
 
 两者均是通过[[Snowball Sampling|网络化]]政策创业影响公立学校教育的案例，但 NZI 代表传统的亲市场倡导路径，TFNZ 代表更复杂的非营利/营利/公共福利混合路径。
 

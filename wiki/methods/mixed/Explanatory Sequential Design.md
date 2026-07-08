@@ -149,7 +149,7 @@ updated: 2026-06-02
 
 > [!example] [[Purpose Statement|目的陈述]]要素拆解：Ivankova & Stick (2007)
 >
-> **完整[[Purpose Statement|目的陈述]] (Full Purpose Statement)**：
+> **完整[[Purpose Statement|目的陈述]] (Full Purpose Statement)**
 > "The purpose of this mixed methods sequential explanatory study was to identify factors contributing to students' persistence in the ELHE program by obtaining quantitative results from a survey of 278 current and former students and then following up with four purposefully selected individuals to explore those results in more depth through a qualitative [[Case Study]] analysis. In the first, quantitative phase of the study, the [[Research Question|research questions]] focused on how selected internal and external [[Variable|variables]] to the ELHE program (program-related, advisor- and faculty-related, institutional-related, student-related factors, and external factors) served as predictors to students' persistence in the program. In the second, qualitative phase, four case studies from distinct participant groups explored in-depth the results from the statistical tests." (p.95)
 > 
 > **中文译文**

@@ -73,7 +73,7 @@ updated: '2026-06-08'
 > [!success] 主要贡献
 > - SOLO 分类法（Structure of Observed Learning outcomes）：区分学习质量的五个层次
 > - [[Constructive Alignment|建构性对齐]]：广泛影响大学课程设计的核心原则，被 Hattie 的 [[Visible Learning|VL]] 框架采纳为关键实施要素
-> - **[[Paradox of the Chinese Learner|中国学习者悖论]]研究**：与 [[David Watkins]] 合编《The [[Chinese Learner]]》（1996）和《Teaching the Chinese Learner》（2001），提出 [[Confucian Heritage Cultures|儒家文化圈]]（CHC） 分类框架，将 [[Paradox of the Chinese Learner|中国学习者悖论]] 系统化为国际研究议程。[[Argument_Li_2012_Cambridge|Li (2012, pp.82-89)]]将这两部著作定位为该领域的奠基性文本，并综述了其后十余年的研究进展
+> - **[[Paradox of the Chinese Learner|中国学习者悖论]]研究** 与 [[David Watkins]] 合编《The [[Chinese Learner]]》（1996）和《Teaching the Chinese Learner》（2001），提出 [[Confucian Heritage Cultures|儒家文化圈]]（CHC） 分类框架，将 [[Paradox of the Chinese Learner|中国学习者悖论]] 系统化为国际研究议程。[[Argument_Li_2012_Cambridge|Li (2012, pp.82-89)]]将这两部著作定位为该领域的奠基性文本，并综述了其后十余年的研究进展
 
 ## 思想发展与影响
 

@@ -63,7 +63,7 @@ updated: 2026-06-01
 研究者在决定抽样策略时必须就以下五项因素做出判断：
 
 > [!feature] 抽样决策五因素
-> - **[[Sample Size Determination|样本量]]**（sample size）：取决于[[Research Purpose|研究目的]]、总体性质、所需准确度、预期回应率、[[Variable|变量]]数量和统计方法要求。
+> - **[[Sample Size Determination|样本量]]（sample size）** 取决于[[Research Purpose|研究目的]]、总体性质、所需准确度、预期回应率、[[Variable|变量]]数量和统计方法要求。
 > - **样本的代表性与参数特征（representativeness and parameters）** 即正确清晰地设定总体的参数特征——[[Sampling Frame|抽样框]]。研究者需明确什么在被代表。
 > - **样本的准入（access to the sample）** 不仅需确保准入被允许，还需确保准入实际上可行。准入可能因参与者自身原因、实际原因、保护性原因或[[Gatekeepers|守门人]]（gatekeepers）而被拒绝。
 > - **抽样策略（sampling strategy）** 选择[[Random Sampling|概率抽样]]还是[[Non-probability Sampling|非概率抽样]]。

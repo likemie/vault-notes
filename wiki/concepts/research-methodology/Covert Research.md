@@ -51,13 +51,13 @@ updated: 2026-06-22
 
 > [!tension] 支持与反对隐蔽研究的核心论证
 
-**支持隐蔽研究的论证**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 113–114]]）：
+**支持隐蔽研究的论证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 113–114]]）**
 - Douglas (1976) 认为隐蔽观察是必要的、有用的和有揭示力的
 - Bulmer (1982) 总结，支持隐蔽研究的最引人注目的论据是它产生了用其他方法不可能产生的优秀社会科学
 - 隐蔽研究可被证成于：重要数据无法以其他方式收集；为获得准入（Mitchell, 1993）；为揭露否则不会曝光的有问题的做法（如性别歧视就业实践）（Oliver, 2003, p. 6）
 - 后果论论证：隐蔽研究可能服务于更大的公共利益
 
-**反对隐蔽研究的论证**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 113–114]]）：
+**反对隐蔽研究的论证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 113–114]]）**
 - Erikson (1967) 认为社会学家对参与者负有责任，秘密研究会以无法预期或事后无法补偿的方式伤害他人
 - Hornsby-Smith (1993, p. 65) 认为隐蔽研究违反[[Informed Consent|知情同意]]、侵犯个人隐私、欺骗人、在发表时冒着伤害参与者的风险（如 Scheper-Hughes, 1979），并损害未来其他研究者研究该议题的可能性
 - 隐蔽研究在大多数专业伦理守则中被高度限制
@@ -69,7 +69,7 @@ updated: 2026-06-22
 
 ### 敏感研究中的隐蔽研究
 
-在[[Sensitive Research|敏感研究]]中，隐蔽研究的伦理议题被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 210–212]]）：
+在[[Sensitive Research|敏感研究]]中，隐蔽研究的伦理议题被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 210–212]]）：
 
 **隐蔽研究的正当性论证** 当有权者控制准入和参与者生活的其他方面（如晋升、在职培训、工作分配）时，隐蔽研究或欺骗可能是唯一途径（Munro et al., 2004, p. 295; Morrison, 2006）。如果研究者向暴力教师寻求研究其暴力行为的知情同意，研究几乎不可能开展；但如果研究者请求研究学生课堂行为而隐瞒真实目的，准入更可能获得批准——而从公共利益出发，暴露问题是重要的。
 

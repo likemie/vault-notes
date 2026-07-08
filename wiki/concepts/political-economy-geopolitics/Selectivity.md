@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: '2026-05-18'
+updated: 2026-07-08
 ---
 
 # Selectivity
@@ -65,9 +65,9 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]-
-> - **Jessop（2007）**：在 State Power: A Strategic-Relational Approach 中提出选择性概念，论证国家权力通过"策略选择性"（strategic selectivity）使某些策略比其他策略更有可能成功
-> - **Le Galès（2016）**：将选择性概念纳入政策工具理论，论证政策工具的技术成分和权力成分相互关联，选择性正是通过技术—权力双重性得以运作([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166]])
-> - **[[Argument_Rambla_2022_Springer|Rambla (2022)]]**：将选择性概念应用于欧盟[[Performance Indicators|绩效指标]]体系分析，识别其在创新政策和[[Lifelong Learning|终身学习]]政策中的三种具体表现（p.174–175）
+> - **Jessop（2007）** 在 State Power: A Strategic-Relational Approach 中提出选择性概念，论证国家权力通过"策略选择性"（strategic selectivity）使某些策略比其他策略更有可能成功
+> - **Le Galès（2016）** 将选择性概念纳入政策工具理论，论证政策工具的技术成分和权力成分相互关联，选择性正是通过技术—权力双重性得以运作([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166]])
+> - **[[Argument_Rambla_2022_Springer|Rambla (2022)]]** 将选择性概念应用于欧盟[[Performance Indicators|绩效指标]]体系分析，识别其在创新政策和[[Lifelong Learning|终身学习]]政策中的三种具体表现（p.174–175）
 
 ## 核心要素
 
@@ -93,8 +93,8 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!tip]-
-> - **Jessop（2007）的策略关系国家理论**：选择性是嵌入制度结构和政策工具中的结构性特征，并非个人选择的结果。在自由主义经济秩序框架下，政策工具不可避免地使某些议题被优先、另一些被边缘化。
-> - **Le Galès（2016）的政策工具理论**：政策工具的技术成分和权力成分相互关联，选择性正是通过这种技术—权力的双重性得以运作。
+> - **Jessop（2007）的策略关系国家理论** 选择性是嵌入制度结构和政策工具中的结构性特征，并非个人选择的结果。在自由主义经济秩序框架下，政策工具不可避免地使某些议题被优先、另一些被边缘化。
+> - **Le Galès（2016）的政策工具理论** 政策工具的技术成分和权力成分相互关联，选择性正是通过这种技术—权力的双重性得以运作。
 
 ## 实证发现
 

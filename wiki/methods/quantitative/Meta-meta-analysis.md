@@ -85,7 +85,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-21'
+updated: 2026-07-08
 ---
 
 ## 定义
@@ -164,7 +164,7 @@ updated: '2026-05-21'
 > [[Argument_Terhart_2011_JCS|Terhart (2011, pp.426–428)]]描述了 Hattie 的操作步骤：
 >
 > 1. **确定影响因素分组** 将影响因素分为 6 组——学生、家庭、学校、教师、课程、教学方法（各组平均[[Effect Size|效应量]]分别为 0.40, 0.31, 0.23, 0.49, 0.45, 0.42，见表 1, p.428）
-> 2. **收集已发表的[[Meta-analysis|元分析]]**：在每组下收集所有可及的元分析
+> 2. **收集已发表的[[Meta-analysis|元分析]]** 在每组下收集所有可及的元分析
 > 3. **计算每个因素的"平均效应量"** 从每个元分析中提取或计算效应量 d，汇总为该因素的单一效应量
 > 4. **构建"影响气压计"（barometer of influence）** 将每个因素的效应量可视化呈现，分为四个区域——负面效应区（d < 0）、发展效应区（0.0–0.15）、教师效应区（0.15–0.40）、期望效应区（d > 0.40，即"关节点"hinge point）
 > 5. **排名** 将所有 138 个因素按效应量从高到低排名
@@ -278,7 +278,7 @@ updated: '2026-05-21'
 
 
 > [!warning] 技术方法论缺陷
-> **LeLorier et al.（1997）——偏倚在聚合层级间传播。** LeLorier et al.（1997, p.536）在医学元分析[[Document|文献]]中最早警告："汇总结果纳入了个别研究的偏见，并体现新的偏见来源，主要是因为研究的选择和不可避免的[[Heterogeneity|异质性]]"（引自 O'Connor, 2020, p.147）。二级聚合中的偏见不仅继承自一级元分析的偏见，也在聚合决策（选择哪些元分析、如何加权、如何分类）中产生**新的偏见**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])。
+> **LeLorier et al.（1997）——偏倚在聚合层级间传播。** LeLorier et al.（1997, p.536）在医学元分析[[Document|文献]]中最早警告："汇总结果纳入了个别研究的偏见，并体现新的偏见来源，主要是因为研究的选择和不可避免的[[Heterogeneity|异质性]]"（引自 O'Connor, 2020, p.147）。二级聚合中的偏见不仅继承自一级元分析的偏见，也在聚合决策（选择哪些元分析、如何加权、如何分类）中产生**新的偏见([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])**。
 >
 > **[[Argument_Allerup_2015_Paideia|Allerup (2015)]]——排名未报告[[Confidence Interval|置信区间]]与统计前提检查。** 二级综合若只发布 d 的点估计，而不报告置信区间、[[Standard Error|标准误]]或相邻排名之间的显著性检验，就无法判断相邻干预是否真的不同。[[PISA]] 排名至少会用横向置信区间标出国家均值估计的误差范围；Hattie 的列表则没有类似信息，因此 d=0.71 与 d=0.72 这样的相邻差异可能只是估计误差([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。d 的解释还需要近似正态分布、相同标准差和可被理解为"均值平移"的分布结构；偏态分布、干预后离散度改变或 Cauchy 型厚尾分布都会削弱效应量的可解释性([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]]])。
 >
@@ -297,10 +297,10 @@ updated: '2026-05-21'
 >
 > **[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]——方法论不透明与读者无法验证。** Johnson & Janzen对 Hattie 的元-元分析进行了直接的透明度批判，其独特贡献在于**从读者视角**展示了方法论的不透明性如何使普通教育者无法验证其主张：
 >
-> - **[[Homework|家庭作业]]效应量的逐步重构**：Hattie 声称综合了 5 项元分析（161 项研究、10 万多名学生）得出 d=0.29。Johnson & Janzen 通过手动搜索附录 A 找到了 5 个被隐藏的 Cohen's d 值（d=0.36, 0.21, 0.39, 0.21, 0.28），确认算术平均为 0.29，但指出 5、161、100,000 这些数字实际上并不构成 d=0.29 的计算基础，后者只是未声明数值的平均([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp.25–26]])
+> - **[[Homework|家庭作业]]效应量的逐步重构** Hattie 声称综合了 5 项元分析（161 项研究、10 万多名学生）得出 d=0.29。Johnson & Janzen 通过手动搜索附录 A 找到了 5 个被隐藏的 Cohen's d 值（d=0.36, 0.21, 0.39, 0.21, 0.28），确认算术平均为 0.29，但指出 5、161、100,000 这些数字实际上并不构成 d=0.29 的计算基础，后者只是未声明数值的平均([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp.25–26]])
 > - **不透明与伪科学的关联** 伪科学工作的特征是既放大其数学 sophistication 又模糊其本质，而《可见的学习》的方法论章节篇幅极短却声称找到了教育的"圣杯"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.26]])
 > - **普通教育者无法验证** 一般的中小学教育者不太可能有时间、技能或渠道来挑战 Hattie 的主张
-> - **Glass & Smith (1979) 效应量提取不透明**：详见 [[Class Size#Johnson & Janzen (2023) 的五层拆解]]。《可见的学习》从 Glass & Smith 的最大规模班级规模元分析中提取的 d=0.09 并非 Glass & Smith 自己报告的值([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.32–33]])
+> - **Glass & Smith (1979) 效应量提取不透明** 详见 [[Class Size#Johnson & Janzen (2023) 的五层拆解]]。《可见的学习》从 Glass & Smith 的最大规模班级规模元分析中提取的 d=0.09 并非 Glass & Smith 自己报告的值([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.32–33]])
 
 
 > [!warning] 信息损失与数据库质量
@@ -389,9 +389,9 @@ updated: '2026-05-21'
 ## 替代方案
 
 
-- **[[Argument_Terhart_2011_JCS|Terhart (2011)]]暗示的方向**：(1) 更严格的质量控制和纳入标准透明度；(2) 承认元-[[Meta-analysis|元分析]]结果的根本临时性；(3) 同时关注可以使研究证据过时的新的、不同的发现（变异性假说）([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
-- **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p.35)]]提出建立中央证据数据库**：以标准化格式收集实证研究的方法和结果（统一使用 Hedges' g），每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 Hattie 这样的项目"
-- **Pawson（2006）提出实在论综合（Realist Synthesis）**：基于[[Causality|因果]]理论（"为什么有效、对谁有效、在什么条件下有效"）而非纯技术标准选择源研究，以揭示效应变异性的分散图景而非单一平均值为输出([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.119, 123]])
+- **[[Argument_Terhart_2011_JCS|Terhart (2011)]]暗示的方向** (1) 更严格的质量控制和纳入标准透明度；(2) 承认元-[[Meta-analysis|元分析]]结果的根本临时性；(3) 同时关注可以使研究证据过时的新的、不同的发现（变异性假说）([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
+- **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p.35)]]提出建立中央证据数据库** 以标准化格式收集实证研究的方法和结果（统一使用 Hedges' g），每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 Hattie 这样的项目"
+- **Pawson（2006）提出实在论综合（Realist Synthesis）** 基于[[Causality|因果]]理论（"为什么有效、对谁有效、在什么条件下有效"）而非纯技术标准选择源研究，以揭示效应变异性的分散图景而非单一平均值为输出([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.119, 123]])
 
 ---
 

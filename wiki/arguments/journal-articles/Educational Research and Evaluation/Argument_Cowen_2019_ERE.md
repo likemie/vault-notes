@@ -153,7 +153,7 @@ citation_aliases:
 > [!success] 主要发现
 > 1. **[[Evidence-Based Education|EBE]] 的持续影响力不能用[[Epistemology|认识论]]优越性来解释**——需要从制度逻辑（官僚委托需求）来理解
 >
-> 2. **[[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为"透明度技术"**：对主权者透明的简化结果，掩盖了被排除的理论背景和环境因素
+> 2. **[[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为"透明度技术"** 对主权者透明的简化结果，掩盖了被排除的理论背景和环境因素
 >
 > 3. **EBE 存在系统性"去理论化"** 不要求[[Causality|因果]]机制解释，只要求[[Effect Size|效应量]]估计——这背离有效实施干预所需的科学实践
 >

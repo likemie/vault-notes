@@ -76,7 +76,7 @@ updated: 2026-06-01
 > [!tip]-
 > - **制度变迁理论（institutional change）** 用于解释学术资本主义在不同国家和福利体制中的差异性表现——不同政治经济体在市场化进程中展现出强路径依赖([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.803–804]])
 > - **马克思主义政治经济学** 将学术资本主义置于[[Knowledge Capitalism|知识资本主义]]的更广泛系统动力中理解，关注剥削、利润导向和阶级斗争在[[Knowledge-Based Economy|知识经济]]中的形态(Jessop, 2007; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])
-> - **Bourdieu [[Champ|场域]]理论**：[[Pierre Bourdieu]] 的"学术阶级分数"（fractions of the academic class）概念被重新用于分析教授和学术官员的不同再生产模式及与统治阶级的关系(Möller, 2015; Graf, 2015; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
+> - **Bourdieu [[Champ|场域]]理论** [[Pierre Bourdieu]] 的"学术阶级分数"（fractions of the academic class）概念被重新用于分析教授和学术官员的不同再生产模式及与统治阶级的关系(Möller, 2015; Graf, 2015; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 
 ## 学术资本主义的多样性
 

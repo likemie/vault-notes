@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-07-08
 ---
 
 ## 定义
@@ -55,8 +55,8 @@ updated: '2026-05-18'
 > 1. **研究设计** 实验/准实验、[[Random Assignment|随机化]]单位、[[Sample Size Determination|样本量]]
 > 2. **结果测量** 预先指定的主要和次要结果[[Variable|变量]]
 > 3. **分析计划** 预先指定的统计模型和分析方法
-> 4. **[[Counterfactual|反事实]]条件描述**：控制组的具体情况
-> 5. **[[Implementation Fidelity|实施忠实度]]测量计划**：如何测量和报告干预实施质量
+> 4. **[[Counterfactual|反事实]]条件描述** 控制组的具体情况
+> 5. **[[Implementation Fidelity|实施忠实度]]测量计划** 如何测量和报告干预实施质量
 >
 > > 例：一个阅读干预的 [[Randomised Controlled Trials|RCT]] 在 REES 预注册时，需提前声明将以 STAR 阅读评估为主要结果、以州标准化测试为次要结果、以 HLM 为分析方法——如果最终报告增加了未预注册的结果测量或改变了分析方法，[[What Works Clearinghouse|WWC]] 可将这些偏离预注册的内容标记为不符合审查要求。
 
@@ -64,7 +64,7 @@ updated: '2026-05-18'
 > [!abstract] 预注册的边界
 > [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 444)]] 承认预注册不能消除所有偏倚：
 >
-> - **[[Researcher Degrees of Freedom|研究者自由度]]仍在**：Gelman & Loken (2014) 指出研究者可以通过"观察数据"学到很多——预注册了方法但实际分析中仍有大量选择空间
+> - **[[Researcher Degrees of Freedom|研究者自由度]]仍在** Gelman & Loken (2014) 指出研究者可以通过"观察数据"学到很多——预注册了方法但实际分析中仍有大量选择空间
 > - **实施环境的不可预测性** 在学校和学区环境中，干预不一定按计划进行，需要调整评估计划——预注册需要允许有合理理由的偏离
 > - **补充措施**Wolf et al. 主张除预注册外，研究者应尽可能公开研究数据（包括缺失值和所有初始参与者），使其他研究者可以重新分析并尝试复制发现
 

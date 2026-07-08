@@ -63,8 +63,8 @@ updated: '2026-05-23'
 
 该悖论由一群在香港工作的澳大利亚、英国和瑞典研究者推动形成。他们直接观察到 [[Confucian Heritage Cultures|CHC]] 学习者和西方教师之间的碰撞，并将其系统化为一个学术研究议程([[Argument_Li_2012_Cambridge|Li, 2012, pp.83-84]])：
 
-- **Watkins & Biggs (1996)**：合编《The [[Chinese Learner]]》，提出 [[Confucian Heritage Cultures|CHC]] 作为[[Analytic Framework|分析框架]]
-- **Watkins & Biggs (2001)**：出版续作《Teaching the Chinese Learner》，将研究扩展至教学层面
+- **Watkins & Biggs (1996)** 合编《The [[Chinese Learner]]》，提出 [[Confucian Heritage Cultures|CHC]] 作为[[Analytic Framework|分析框架]]
+- **Watkins & Biggs (2001)** 出版续作《Teaching the Chinese Learner》，将研究扩展至教学层面
 
 > [!example] Li 的个人经历
 > Li 回忆了在哈佛教育学院修课时的一次经历——当她试图分享练习写汉字或书法有助于孩子学会集中注意力时，授课教师不屑地回应："中国学生做的一切就是[[Rote Learning|死记硬背]]！这不是我们这门课要处理的问题。"这番话让她在剩下的课程中保持沉默——而当时她甚至不知道该怎样回应([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-83]])。这一经历折射出悖论的核心张力：西方观察者看到的行为（重复朗读、抄写）与学习者内在过程（深度投入、逐层理解）之间的认知鸿沟。
@@ -133,7 +133,7 @@ updated: '2026-05-23'
 
 > [!warning]
 > - **悖论框架本身的西方中心预设** 将中国学习方式定性为"看似低效的"，实际上预设了西方教育方法的优越性——悖论之所以是"悖论"，恰恰因为它以西方标准为默认参照系
-> - **过度同质化 [[Confucian Heritage Cultures|CHC]] 内部差异**：将中国、日本、韩国、越南学习者的高成就归因于同一套"儒家价值"，可能掩盖了各国不同的教育制度、政治经济条件和本土文化传统
+> - **过度同质化 [[Confucian Heritage Cultures|CHC]] 内部差异** 将中国、日本、韩国、越南学习者的高成就归因于同一套"儒家价值"，可能掩盖了各国不同的教育制度、政治经济条件和本土文化传统
 > - **悖论可能已被解决** 经过 Marton、Dahlin、Watkins、Li 等三十余年的研究，"悖论"可能已不再是悖论——它只是揭示了两种文化学习模型在目的、过程和成就标准上的系统性差异。在此意义上，"[[Chinese Learner|中国学习者]]悖论"的持久生命力更多反映了**西方教育话语对替代性学习模型持续的不理解**，而非研究证据的缺乏
 
 ---

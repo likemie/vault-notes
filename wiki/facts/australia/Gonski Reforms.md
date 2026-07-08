@@ -45,8 +45,8 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > Gonski 改革分两轮进行（Keddie et al., 2020, IJLE, p.2, 11）：
 >
-> - **Gonski et al. (2011)**：*Review of Funding for Schooling: Final Report* — 首次系统审查澳大利亚学校教育拨款
-> - **Gonski et al. (2018)**：*Through Growth to Achievement: Report of the Review to Achieve Educational Excellence in Australian Schools* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
+> - **Gonski et al. (2011)** *Review of Funding for Schooling: Final Report* — 首次系统审查澳大利亚学校教育拨款
+> - **Gonski et al. (2018)** *Through Growth to Achievement: Report of the Review to Achieve Educational Excellence in Australian Schools* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
 >
 > 改革旨在返回 [[Karmel Report]] 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、SES、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
 >

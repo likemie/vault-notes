@@ -70,8 +70,8 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 核心前提：黑箱 [[Randomised Controlled Trials|RCT]] 的证据仅适用于二选一决策(Cartwright & Hardie, 2012)，教育情境中行动者很少处于做出此类决策的位置
-> - **发展经济学的[[Mechanism Experiments|机制实验]]传统**(Duflo, Glennerster, & Kremer, 2006; Ludwig, Kling, & Mullainathan, 2011)— 提供机制实验的方法论模板
-> - **[[Improvement Science|改进科学]]**(Bryk et al., 2015; Langley et al., 2009)— 提供[[Snowball Sampling|网络化]]改进和反馈循环的组织模板
+> - **发展经济学的[[Mechanism Experiments|机制实验]]传统(Duflo, Glennerster, & Kremer, 2006; Ludwig, Kling, & Mullainathan, 2011)**— 提供机制实验的方法论模板
+> - **[[Improvement Science|改进科学]](Bryk et al., 2015; Langley et al., 2009)**— 提供[[Snowball Sampling|网络化]]改进和反馈循环的组织模板
 
 ## 研究方法
 
@@ -95,7 +95,7 @@ citation_aliases:
 >
 > **组件一：[[Mechanism Experiments|机制实验]]取代黑箱 RCT**
 >
-> 将 RCT 从评估完整项目转为测试可迁移的教育变革机制——"影响学习的最直接且最显著的因素"(p. 303)。关键方法论工具是**鼓励设计**(Imai, Tingley, & Yamamoto, 2013)：受试者被[[Random Assignment|随机分配]]接受"鼓励"以采取更高值的中介[[Variable|变量]]，从而隔离特定机制的独立[[Causality|因果]]贡献。
+> 将 RCT 从评估完整项目转为测试可迁移的教育变革机制——"影响学习的最直接且最显著的因素"(p. 303)。关键方法论工具是**鼓励设计(Imai, Tingley, & Yamamoto, 2013)** 受试者被[[Random Assignment|随机分配]]接受"鼓励"以采取更高值的中介[[Variable|变量]]，从而隔离特定机制的独立[[Causality|因果]]贡献。
 >
 > **组件二：改进和探究网络融入"什么有效"基础设施**
 >

@@ -3,7 +3,9 @@ authors:
   - "Erfurth, M."
 summary: "以文化政治经济学和比较案例研究为框架，从文化外交与政治经济两个维度比较新加坡与阿联酋的教育枢纽项目，揭示该路径绕开制度建设、依赖市场自由化与基础设施扩张却获国际发展界认可的悖论"
 type: argument
-citation: "Erfurth, M. (2022). Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 199–213). Springer."
+citation: "Erfurth, M. (2022). Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 199–213). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - level/higher-ed
   - region/asia
@@ -80,7 +82,7 @@ citation_aliases:
 [[Analytic Framework|分析框架]]由此导出 两个分析维度：
 
 - **政治经济维度** 国家如何通过自由市场式的高等教育产业环境吸引大学、学生和企业，直接推动经济增长和多样化
-- **[[Cultural Diplomacy|文化外交]]维度**：国家如何利用高等教育提升国际形象、投射进步形象、获得更大国际话语权
+- **[[Cultural Diplomacy|文化外交]]维度** 国家如何利用高等教育提升国际形象、投射进步形象、获得更大国际话语权
 
 两个维度在同一个枢纽项目中共存但可能产生摩擦，其间的张力是本章实证分析的核心线索(pp.205–211)。
 
@@ -90,7 +92,7 @@ citation_aliases:
 > [!info]
 
 - 研究设计：[[Comparative Case Study|比较案例研究]]（Comparative [[Case Study]], Bartlett & Vavrus, 2017），通过三个轴比较新加坡和阿联酋——水平轴（不同地点相似政策如何展开）、垂直轴（跨尺度关注）、横贯轴（历时追溯 1990–2018 年间现象的变迁）。本章重点使用横贯维度(p.202, 204)
-- 分析方法：**批判话语分析**(Critical Discourse Analysis, Fairclough, 2003)，结合文本分析与社会理论分析，考察教育枢纽如何被话语性地生产、话语建构如何沉淀为社会结构(p.202)
+- 分析方法：**批判话语分析(Critical Discourse Analysis, Fairclough, 2003)**，结合文本分析与社会理论分析，考察教育枢纽如何被话语性地生产、话语建构如何沉淀为社会结构(p.202)
 - 数据来源：(1) 政策[[Document|文件]]（新加坡 60 份、阿联酋 38 份），含政治演讲、法律/法案、计划战略、报告、研究、网站；(2) 半结构化专家访谈共 18 份（两国各 9 位），涵盖政策、教育产业和学术界专家(p.202)。本章主要利用[[Qualitative Documents|文件数据]]，因其在"建立问题"和构建解决方案方面具有丰富的表征性作用(Bartlett & Vavrus, 2017, p.92)
 
 
@@ -120,7 +122,7 @@ citation_aliases:
 
 实证分析的核心是按照[[Cultural Diplomacy|文化外交]]维度和政治经济维度分别比较两个案例(pp.205–211)。
 
-**新加坡**（详见 [[Singapore Education Hub Policy]]）(pp.206–209)：
+**新加坡（详见 [[Singapore Education Hub Policy]]）**(pp.206–209)：
 
 - 1990 年代初：冷战结束后利用地理位置成为"亚洲门户"，以市场资本主义对接西方
 - 1996–1997 年：提出"东方波士顿"（Boston of the East）战略——按哈佛/MIT 模式重塑 NUS 和 NTU，标志着从区域到全球整合的战略转向
@@ -130,7 +132,7 @@ citation_aliases:
 
 新加坡案例展示了文化外交维度（通过精英教育培育区域影响力和行使软实力）与政治经济维度（创造教育出口产业）的**前后交替运作**——"东方波士顿"的文化外交逻辑先行，随后以"全球校园"补充政治经济逻辑，但后者遭遇市场失败。
 
-**阿联酋**（详见 [[UAE Education Hub Projects]]）(pp.207–211)：
+**阿联酋（详见 [[UAE Education Hub Projects]]）**(pp.207–211)：
 
 - 2004 年前后：领导层更替后启动现代化议程，以经济多元化和全球融合为驱动
 - **阿布扎比** 利用石油财富资助高端文化机构——NYU Abu Dhabi、索邦大学、卢浮宫阿布扎比——通过关联全球高雅文化投射进步形象。引用阿联酋外交部官方话语："阿联酋建于开国者谢赫扎耶德关于宽容、和平和稳定的基本价值之上"(MoFAIC, 2020)。2020 年阿联酋全球软实力指数排名地区第一、全球第 18(MoFAIC, 2020)

@@ -1214,6 +1214,16 @@
     ]
   },
   {
+    "title": "Haraway's SF",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Haraway's SF.md",
+    "aliases": [
+      "SF (Haraway)",
+      "哈拉维的SF",
+      "推测性编造"
+    ]
+  },
+  {
     "title": "Humosity",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Humosity.md",
@@ -1353,15 +1363,6 @@
     "path": "wiki/concepts/educational-philosophy/Scientism.md",
     "aliases": [
       "科学主义"
-    ]
-  },
-  {
-    "title": "SF (Haraway)",
-    "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/SF (Haraway).md",
-    "aliases": [
-      "哈拉维的SF",
-      "推测性编造"
     ]
   },
   {
@@ -2443,8 +2444,7 @@
     "path": "wiki/concepts/higher-education/Internationalization of Higher Education.md",
     "aliases": [
       "高等教育国际化",
-      "internationalisation of higher education",
-      "international education"
+      "internationalisation of higher education"
     ]
   },
   {
@@ -2477,7 +2477,6 @@
     "path": "wiki/concepts/higher-education/Knowledge Exchange.md",
     "aliases": [
       "知识交流",
-      "knowledge transfer",
       "knowledge exchange and transfer",
       "KE"
     ]
@@ -2802,15 +2801,6 @@
     ]
   },
   {
-    "title": "Public Space (University Role)",
-    "type": "concept",
-    "path": "wiki/concepts/higher-education/Public Space (University Role).md",
-    "aliases": [
-      "大学公共空间角色",
-      "public space role of university"
-    ]
-  },
-  {
     "title": "Public-Private Partnership in Research",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Public-Private Partnership in Research.md",
@@ -3052,7 +3042,7 @@
     ]
   },
   {
-    "title": "Third Mission (Universities)",
+    "title": "Third Mission",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Third Mission.md",
     "aliases": [
@@ -3104,6 +3094,16 @@
       "产学研发合作影响评估",
       "UIC impact assessment",
       "measuring UIC impacts"
+    ]
+  },
+  {
+    "title": "University as Public Space",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/University as Public Space.md",
+    "aliases": [
+      "Public Space (University Role)",
+      "大学公共空间角色",
+      "public space role of university"
     ]
   },
   {
@@ -4025,10 +4025,11 @@
     ]
   },
   {
-    "title": "Infrastructures of (Im)mobility",
+    "title": "Infrastructures of Immobility",
     "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Infrastructures of (Im)mobility.md",
+    "path": "wiki/concepts/political-economy-geopolitics/Infrastructures of Immobility.md",
     "aliases": [
+      "Infrastructures of (Im)mobility",
       "流动基础设施",
       "流动不流动基础设施",
       "流动与不流动基础设施"
@@ -6157,7 +6158,6 @@
     "aliases": [
       "质性效度",
       "qualitative validity",
-      "trustworthiness",
       "质性研究效度"
     ]
   },
@@ -6414,7 +6414,6 @@
     "path": "wiki/concepts/research-methodology/Sampling Error.md",
     "aliases": [
       "抽样误差",
-      "standard error",
       "sampling distribution",
       "抽样分布"
     ]
@@ -9316,7 +9315,6 @@
       "单受试者设计",
       "单一被试设计",
       "单一个案实验设计",
-      "single-case design",
       "applied behavioral analysis",
       "single-subject experimental design"
     ]
@@ -11339,28 +11337,6 @@
     ]
   },
   {
-    "title": "Global Futures Framework (University of Waterloo)",
-    "type": "fact",
-    "path": "wiki/facts/canada/Global Futures Framework (University of Waterloo).md",
-    "aliases": [
-      "Global Futures Framework",
-      "滑铁卢大学全球未来框架",
-      "UW Global Futures"
-    ]
-  },
-  {
-    "title": "Inventor-Owned IP Policy (University of Waterloo)",
-    "type": "fact",
-    "path": "wiki/facts/canada/Inventor-Owned IP Policy (University of Waterloo).md",
-    "aliases": [
-      "滑铁卢大学发明人自有知识产权政策",
-      "creator-owned IP policy",
-      "inventor-owned IP policy",
-      "发明人自有IP政策",
-      "发明人自有知识产权政策"
-    ]
-  },
-  {
     "title": "Schlegel-UW Research Institute for Aging",
     "type": "fact",
     "path": "wiki/facts/canada/Schlegel-UW Research Institute for Aging.md",
@@ -11369,6 +11345,30 @@
       "Schlegel-UW老龄化研究所",
       "Research Institute for Aging",
       "滑铁卢大学老龄化研究所"
+    ]
+  },
+  {
+    "title": "University of Waterloo Global Futures Framework",
+    "type": "fact",
+    "path": "wiki/facts/canada/University of Waterloo Global Futures Framework.md",
+    "aliases": [
+      "Global Futures Framework (University of Waterloo)",
+      "Global Futures Framework",
+      "滑铁卢大学全球未来框架",
+      "UW Global Futures"
+    ]
+  },
+  {
+    "title": "University of Waterloo Inventor-Owned IP Policy",
+    "type": "fact",
+    "path": "wiki/facts/canada/University of Waterloo Inventor-Owned IP Policy.md",
+    "aliases": [
+      "Inventor-Owned IP Policy (University of Waterloo)",
+      "滑铁卢大学发明人自有知识产权政策",
+      "creator-owned IP policy",
+      "inventor-owned IP policy",
+      "发明人自有IP政策",
+      "发明人自有知识产权政策"
     ]
   },
   {
@@ -11857,10 +11857,11 @@
     ]
   },
   {
-    "title": "Excellence Initiative (Germany)",
+    "title": "German Excellence Initiative",
     "type": "fact",
-    "path": "wiki/facts/germany/Excellence Initiative (Germany).md",
+    "path": "wiki/facts/germany/German Excellence Initiative.md",
     "aliases": [
+      "Excellence Initiative (Germany)",
       "德国卓越倡议",
       "德国卓越计划",
       "Exzellenzinitiative",
@@ -12703,9 +12704,9 @@
     ]
   },
   {
-    "title": "Advanced Manufacturing Research Centre (AMRC)",
+    "title": "Advanced Manufacturing Research Centre",
     "type": "fact",
-    "path": "wiki/facts/uk/Advanced Manufacturing Research Centre (AMRC).md",
+    "path": "wiki/facts/uk/Advanced Manufacturing Research Centre.md",
     "aliases": [
       "先进制造研究中心",
       "AMRC",
@@ -13484,6 +13485,17 @@
     ]
   },
   {
+    "title": "University Inc",
+    "type": "fact",
+    "path": "wiki/facts/us/University Inc.md",
+    "aliases": [
+      "University, Inc. (Washburn, 2005)",
+      "University, Inc.",
+      "大学公司化批判",
+      "Washburn 大学公司化"
+    ]
+  },
+  {
     "title": "University Industry Demonstration Partnership",
     "type": "fact",
     "path": "wiki/facts/us/University Industry Demonstration Partnership.md",
@@ -13510,16 +13522,6 @@
     "aliases": [
       "肯塔基大学Top-20计划",
       "Kentucky Top-20 Plan"
-    ]
-  },
-  {
-    "title": "University, Inc. (Washburn, 2005)",
-    "type": "fact",
-    "path": "wiki/facts/us/University, Inc. (Washburn, 2005).md",
-    "aliases": [
-      "University, Inc.",
-      "大学公司化批判",
-      "Washburn 大学公司化"
     ]
   },
   {

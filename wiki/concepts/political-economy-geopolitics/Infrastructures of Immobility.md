@@ -1,6 +1,7 @@
 ---
-title: Infrastructures of (Im)mobility
+title: "Infrastructures of Immobility"
 aliases:
+  - "Infrastructures of (Im)mobility"
   - 流动基础设施
   - 流动不流动基础设施
   - 流动与不流动基础设施
@@ -32,7 +33,7 @@ created: 2026-06-29
 updated: 2026-06-29
 ---
 
-# Infrastructures of (Im)mobility
+# Infrastructures of Immobility
 
 ---
 

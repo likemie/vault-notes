@@ -57,8 +57,8 @@ updated: 2026-05-26
 ## 概念辨析
 
 > [!example]
-> - **vs [[Examination-Oriented Education|应试教育]]（exam-oriented education）**：素质教育在官方话语中被建构为应试教育的对立面。应试教育被视为以考试分数为唯一目标、导致[[Rote Learning|死记硬背]]和创造力压抑；素质教育则被表述为以学生全面发展为导向。但 Schulte（2009, pp.91–92）指出，这一二元对立在政策实践层面远比话语层面模糊。
-> - **vs [[John Dewey|杜威]]的[[Progressive Education|进步教育]]**：中国教育改革者将两者的关系建构为**理念-应用**关系——杜威提供了理论基础，素质教育提供了[[Sinicisation|中国化]]的政策框架。但 Schulte 的分析表明，这一关系实为[[Recontextualization|再脉络化]]：杜威的某些元素被选择性提取以匹配素质教育的政策议程，而非素质教育是杜威理论的自然延伸。
+> - **vs [[Examination-Oriented Education|应试教育]]（exam-oriented education）** 素质教育在官方话语中被建构为应试教育的对立面。应试教育被视为以考试分数为唯一目标、导致[[Rote Learning|死记硬背]]和创造力压抑；素质教育则被表述为以学生全面发展为导向。但 Schulte（2009, pp.91–92）指出，这一二元对立在政策实践层面远比话语层面模糊。
+> - **vs [[John Dewey|杜威]]的[[Progressive Education|进步教育]]** 中国教育改革者将两者的关系建构为**理念-应用**关系——杜威提供了理论基础，素质教育提供了[[Sinicisation|中国化]]的政策框架。但 Schulte 的分析表明，这一关系实为[[Recontextualization|再脉络化]]：杜威的某些元素被选择性提取以匹配素质教育的政策议程，而非素质教育是杜威理论的自然延伸。
 
 ---
 

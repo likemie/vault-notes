@@ -14,7 +14,9 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
-citation: "Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Springer."
+citation: "Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
 - region/global
 - level/higher-ed
@@ -37,7 +39,7 @@ related_concepts:
   - "[[International Education Hubs]]"
   - "[[Theory of Knowledge]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Third Mission (Universities)]]"
+  - "[[Third Mission|Third Mission (Universities)]]"
   - "[[Champ]]"
   - "[[Causality]]"
 related_theories:
@@ -109,7 +111,7 @@ Zapp 的论证起点是一个"缺席的在场"：自 1990 年代末以来，"全
 
 **传统国际关系学（现实主义 / 自由主义）的盲区** 传统国际关系学把世界想象成强者博弈的棋盘——大国之间比军事、比经济，一切都归结为"权力"或"交易成本"。在这种视角下，大学根本不值得被讨论——它没有军队，没有 GDP，没有投票权。
 
-**[[Constructivist Paradigm|建构主义]]国际关系学和 [[World Society Theory|世界社会理论]]的转向**：1990 年代以来，学者们开始关注一个奇怪的现象：为什么全世界各国的教育部结构相似？为什么"人权""可持续发展"这些概念能在没有强制力的情况下被几乎所有国家接受？答案是：**观念、知识、规范和[[Cultural Models|文化模型]]本身就是一种权力**——它们不是枪炮，但能改变"什么是合理的"这个基准线。当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"，这就是观念的治理力量(Barnett & Finnemore, 2004; Meyer et al., 1997)。
+**[[Constructivist Paradigm|建构主义]]国际关系学和 [[World Society Theory|世界社会理论]]的转向** 1990 年代以来，学者们开始关注一个奇怪的现象：为什么全世界各国的教育部结构相似？为什么"人权""可持续发展"这些概念能在没有强制力的情况下被几乎所有国家接受？答案是：**观念、知识、规范和[[Cultural Models|文化模型]]本身就是一种权力**——它们不是枪炮，但能改变"什么是合理的"这个基准线。当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"，这就是观念的治理力量(Barnett & Finnemore, 2004; Meyer et al., 1997)。
 
 这个转向的实践后果是：全球治理的分析焦点从传统的"安全"和"经济"两个领域，扩展到了社会政策、卫生、环境、教育和科学——恰好是大学最擅长的领域(p.145)。
 
@@ -163,7 +165,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 
 **风险一：科学的政治化（politicization of science）**。知识的政治化是"知识的科学化"（[[Scientization of Politics]]）的反面。当政策制定者越来越依赖科学证据时，他们也开始学会了操纵证据。Zapp 识别了三级恶化(p.155)：
 
-1. **[[Epistemic Drift|认识漂移]](epistemic drift, Elzinga, 1997)**：研究者逐渐把自己的研究兴趣对齐资助方的偏好，放弃了自己的学术议程——这是 [[Epistemic Governance|知识治理]]的内在风险之一。"反正申请 SDG 相关的经费容易中，我就做 SDG 相关的研究吧。"
+1. **[[Epistemic Drift|认识漂移]](epistemic drift, Elzinga, 1997)** 研究者逐渐把自己的研究兴趣对齐资助方的偏好，放弃了自己的学术议程——这是 [[Epistemic Governance|知识治理]]的内在风险之一。"反正申请 SDG 相关的经费容易中，我就做 SDG 相关的研究吧。"
 2. **证据的选择性使用和制造** 政策制定者只引用支持自己立场的科学证据(Steiner-Khamsi et al., 2020)；有政治倾向的研究者可能预设结论地"制造"证据(Zapp, 2020a)。——"我知道[[Endogenous and Exogenous Privatisation|教育私有化]]好，我就做一项研究来'证明'它好。"
 3. **对科学的公开压制** 威权政权直接压制学术机构——Zapp 举了 Viktor Orbán 的匈牙利为例：性别研究被禁止在大学教学、中欧大学（CEU）被骚扰和被迫迁离、科学院被政府严格控制(Scholars at Risk, 2019)。
 
@@ -211,7 +213,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 ### 内部政策对齐：大学社会责任的制度化
 
 - Corporate Register (2019) 和全球报告倡议组织(GRI, 2019)数据库共列出全球 200+ 所大学的企业社会责任（CSR）报告，大多数在过去 5 年内首次发布，呈指数增长趋势（Fig. 9.1, pp.152–153），参见 [[University Social Responsibility]]
-- 可持续发展已被视为大学的新型"[[Third Mission (Universities)|第三使命]]"甚至"宏大挑战"(Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013,p.150)
+- 可持续发展已被视为大学的新型"[[Third Mission|第三使命]]"甚至"宏大挑战"(Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013,p.150)
 - 2005 年 Carnegie Foundation 引入社区参与分类，旨在从根本上改变大学与社区的关系(Driscoll, 2009,p.149)
 
 ### 网络对齐：组建元组织联合行动
@@ -226,7 +228,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 - 大学知识全球化与大学被国家重新领土化为地缘政治竞争单位构成悖论：各国通过"卓越计划"、教育枢纽、智慧城市和技术极争夺全球人才与资本，二十国集团（G20）实施研究计分卡，高等教育是《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）最频繁被纳入的行业(Moisio, 2018; Knight, 2018,pp.155–157)
 
 > [!info]- 核心数据
-> - [[THE Impact Ranking]] 覆盖 **85 个国家近 800 所大学**(THE, 2020, p.147)
+> - [[THE Impact Ranking]] 覆盖 **85 个国家近 800 所大学(THE, 2020, p.147)**
 > - 全球 **200+ 所**大学的 CSR/可持续发展报告，大多数在过去 **5 年内**首次发布(Corporate Register, 2019, Fig. 9.1, pp.152–153)
 > - **185 个**大学协会/元组织，大多数在过去 **二十年**成立(Brankovic, 2018, p.153)
 > - 全球 **465,000 个**学位项目中 **22,451 个**具有国际取向(Zapp & Lerch, 2020, p.152)

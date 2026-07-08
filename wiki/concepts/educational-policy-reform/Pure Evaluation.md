@@ -50,7 +50,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs **[[Evidence-Based Education]]**：Pure Evaluation 是 EBE 方法论的极端形式，EBE 至少还保留了"什么有效"的问题意识，Pure Evaluation 进一步将评价本身变为教育
+> - vs **[[Evidence-Based Education]]** Pure Evaluation 是 EBE 方法论的极端形式，EBE 至少还保留了"什么有效"的问题意识，Pure Evaluation 进一步将评价本身变为教育
 > - vs 传统评价：传统评价是对教育实践的回溯性审查；Pure Evaluation 中评价即是教育本身
 
 ## 争议与批评

@@ -153,7 +153,7 @@ updated: 2026-06-17
 ## 研究程序
 
 > [!proc] 通用操作步骤
-> 1. **[[Random Assignment|随机分配]]**：将参与者随机分配至干预组（接受干预）和对照组。
+> 1. **[[Random Assignment|随机分配]]** 将参与者随机分配至干预组（接受干预）和对照组。
 > 2. **前测**（可选）：在干预前测量两组的基线水平。
 > 3. **实施干预** 干预组接受待评估的教育干预，对照组维持原有实践。
 > 4. **后测** 干预后测量两组的结果。
@@ -170,16 +170,16 @@ updated: 2026-06-17
 ### 复杂性理论的挑战
 
 > [!tension] [[Complexity Theory|复杂性理论]]对 RCT 黄金标准的根本性质疑
-> 复杂性理论对 RCT 构成了根本性挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+> 复杂性理论对 RCT 构成了根本性挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）：
 >
 > - **反线性因果** 混沌和复杂性理论反对线性的、决定论的、可普遍化的、原子化的、受控的封闭系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作（Gleick, 1987; Waldrop, 1992; Lewin, 1993）
-> - **反[[Variable|变量]]控制**：在一个动态、演化、流动、开放的情境中，保持变量恒常是误导性的——所测量到的已经是历史（What is measured is history, Morrison, 2001）
+> - **反[[Variable|变量]]控制** 在一个动态、演化、流动、开放的情境中，保持变量恒常是误导性的——所测量到的已经是历史（What is measured is history, Morrison, 2001）
 > - **整体论** 现象必须被整体地看待——将现象原子化为有限数量的变量会错过多个部分的必要动态互动（Morrison, 2008）
 > - **分析单位转向** 复杂性理论建议分析单位从个体/机构/制度转向网络或生态系统（Capra, 1996: 301）
 > - **测量之限** 人可以测量一个人的每一个可观察变量到无限微小的程度，但他的本质——是什么使他成为他——却逃逸了原子化和测量
 
 > [!quote] 赫拉克利特的名言
-> 古典实验方法遵循可复制性和可预测性的要求，但在复杂现象中，结果从来不是真正可复制或可预测的。正如赫拉克利特（Heraclitus）所言：**我们永远不会两次踏入同一条河流**（we never jump into the same river twice）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 古典实验方法遵循可复制性和可预测性的要求，但在复杂现象中，结果从来不是真正可复制或可预测的。正如赫拉克利特（Heraclitus）所言：**我们永远不会两次踏入同一条河流（we never jump into the same river twice）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）**。
 
 ---
 
@@ -245,9 +245,9 @@ updated: 2026-06-17
 > [!critique-method] 双盲在教育中不可能
 > 药物试验中，严格的双盲程序为排除医生和患者的主观意志影响以及制药公司的力量提供了重要的社会保护。但在教育中，不可能在没有师生注意到的情况下改变实践。药物试验试图消除人的因素因为"人的意志被视为污染物"，但社会变革恰恰通过人的能动性实现（Pawson, 2006, p. 27）（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 114–115]]）。
 >
-> **Heckman 的 AIDS 药物试验例证**（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.5]]）：参与者不知道自己是在药物组还是安慰剂组，所以**他们互相分享分配的药品**以最大化获得真药的机会，致使结果难以甚至无法解释。
+> **Heckman 的 AIDS 药物试验例证（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.5]]）** 参与者不知道自己是在药物组还是安慰剂组，所以**他们互相分享分配的药品**以最大化获得真药的机会，致使结果难以甚至无法解释。
 >
-> **Heckman 的 Head Start 例证**：未被分配至 Head Start 的家长做了其他安排——在某些情况下获得了比 Head Start 更高质量的托儿服务。
+> **Heckman 的 Head Start 例证** 未被分配至 Head Start 的家长做了其他安排——在某些情况下获得了比 Head Start 更高质量的托儿服务。
 
 ---
 

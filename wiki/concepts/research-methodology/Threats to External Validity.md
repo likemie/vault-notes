@@ -164,4 +164,4 @@ Onwuegbuzie & Leech (2006b: 237–8) 进一步识别了质性研究中跨越十�
 > | **判断者** | 研究者通过统计证据来判断 | 读者基于厚描述自行判断迁移是否可能 |
 
 > [!note] Schofield 的质性可推广性路径
-> Schofield (1996: 200) 认为质性研究提供清晰、详细和深入的描述至关重要——以便他人判断研究发现的可推广性。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性）；以及进行**多场所研究**（multi-site studies, Miles & Huberman, 1984）。Bogdan & Biklen (1992: 45) 总结说质性研究中更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+> Schofield (1996: 200) 认为质性研究提供清晰、详细和深入的描述至关重要——以便他人判断研究发现的可推广性。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性）；以及进行**多场所研究（multi-site studies, Miles & Huberman, 1984）**。Bogdan & Biklen (1992: 45) 总结说质性研究中更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]

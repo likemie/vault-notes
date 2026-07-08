@@ -99,7 +99,7 @@ updated: '2026-05-24'
 ## 定义
 
 > [!info] 定义
-> 证据本位改革（Evidence-Based Reform）是 Slavin (2002, 2017, 2019) 提出并持续倡导的教育政策框架：教育者与决策者将**关于有效性的研究证据**作为选择教育项目、产品和实践的核心标准。证据特指来自**严格[[Experimental Research|实验研究]]**（将使用实验项目的学生与传统方法的学生进行成就比较，理想上[[Random Assignment|随机分配]]）的结果。
+> 证据本位改革（Evidence-Based Reform）是 Slavin (2002, 2017, 2019) 提出并持续倡导的教育政策框架：教育者与决策者将**关于有效性的研究证据**作为选择教育项目、产品和实践的核心标准。证据特指来自**严格[[Experimental Research|实验研究]]（将使用实验项目的学生与传统方法的学生进行成就比较，理想上[[Random Assignment|随机分配]]）**的结果。
 >
 > > "Evidence-based reform refers to policies in which educators and policymakers use evidence of effectiveness as a criterion for choosing educational programs, products, and practices." ([[Argument_Slavin_2019_EP|Slavin, 2019, p. 3]])
 
@@ -149,9 +149,9 @@ Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Educati
 **教育处于"下降螺旋"** 政策制定者看不到研究的相关性 → 研究资助不足 → 缺少大型决[[Qualitative Research|定性研究]] → 政策制定者更不愿投资。证据本位改革旨在逆转此螺旋，创造**"上升螺旋"** 严格研究证明可复制项目有效 → 政策制定者增加资助 → 更多更好的研究 → 更多资助和更广泛的应用。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 16–17]])
 
 [[Argument_Slavin_2002_ER|Slavin (2002)]] 识别了三个正在[[Emergence|涌现]]的政策窗口：
-- **CSR 项目（1998）**：首次将联邦拨款与有效性证据挂钩——尽管执行中大多数资金仍流向未经证实的项目（仅 20.8% 流向强证据项目）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
-- **No Child Left Behind（2001）**：全文 110 次提及"科学本位研究"，将实验证据标准嵌入 Title I、Reading First 等核心联邦项目([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
-- **OERI 重组（2002）**：Whitehurst 制定战略计划，设定到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+- **CSR 项目（1998）** 首次将联邦拨款与有效性证据挂钩——尽管执行中大多数资金仍流向未经证实的项目（仅 20.8% 流向强证据项目）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+- **No Child Left Behind（2001）** 全文 110 次提及"科学本位研究"，将实验证据标准嵌入 Title I、Reading First 等核心联邦项目([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
+- **OERI 重组（2002）** Whitehurst 制定战略计划，设定到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 
 ### 开发-评估-推广范式（Development-Evaluation-Dissemination Paradigm）
 
@@ -210,7 +210,7 @@ ESSA (2015) 定义了四层证据标准，用于判定教育项目是否值得�
 | 等级 | 要求 |
 |------|------|
 | **强（Strong）** | 至少 1 项设计良好且实施良好的**[[Experimental Research\|实验研究]]**（随机分配） |
-| **中（Moderate）** | 至少 1 项设计良好且实施良好的**准实验研究**（[[Matching\|匹配]]样本） |
+| **中（Moderate）** | 至少 1 项设计良好且实施良好的**准实验研究（[[Matching\|匹配]]样本）** |
 | **有希望（Promising）** | 至少 1 项设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差） |
 | **基于原理（Demonstrates a rationale）** | 具有清晰[[Logic Model\|逻辑模型]]，并得到高质量研究或正向评价支持 |
 
@@ -221,7 +221,7 @@ ESSA (2015) 定义了四层证据标准，用于判定教育项目是否值得�
 
 Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三层分别填充经过验证的项目：
 
-- **[[Top Institute for Evidence-Based Education Research|TIER]] 1**：已验证的全班/全校方法（如 [[Success for All]]）
+- **[[Top Institute for Evidence-Based Education Research|TIER]] 1** 已验证的全班/全校方法（如 [[Success for All]]）
 - **Tier 2** 已验证的小组辅导（如经过培训的助教小组辅导）
 - **Tier 3** 已验证的一对一辅导（如 Reading Recovery）
 
@@ -252,11 +252,11 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 [[Argument_Slavin_2021_ROE|Slavin et al. (2021, p.19-21)]] 并列介绍了四个信息传播平台：
 
-- **[[What Works Clearinghouse]]**：美国 IES 旗舰项目，审查阅读、数学、科学等领域的实用项目研究，制作可读的"实践指南"
-- **Best-Evidence Encyclopedia ([[Best Evidence Encyclopedia|BEE]])**：JHU 团队创建和维护的免费网站，主要包含特定领域项目有效性的完整学术综述（如小学和中学阅读、数学、科学、学前项目等）
+- **[[What Works Clearinghouse]]** 美国 IES 旗舰项目，审查阅读、数学、科学等领域的实用项目研究，制作可读的"实践指南"
+- **Best-Evidence Encyclopedia ([[Best Evidence Encyclopedia|BEE]])** JHU 团队创建和维护的免费网站，主要包含特定领域项目有效性的完整学术综述（如小学和中学阅读、数学、科学、学前项目等）
 - **Evidence for ESSA** JHU 团队为教育者（非学术研究者）设计的网站，与 ESSA 证据标准对齐。截至 2020 年 1 月，约 100 个阅读和数学项目达到 ESSA 强/中/有希望标准（"强"类别数量最多），24 个社会情感学习项目和 8 个出勤项目达标，拥有 100,000+ 独立用户，每周新增约 800 用户（p.20）
 - **BEiB 与博客** BEiB 每两周向数万订阅者免费发送，[[Robert Slavin]] 维护每周博客
-- **[[Educational Evidence Clearinghouses|教育证据清算中心]]的一致性问题**：[[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 对 12 个美国/英国教育清算中心的比较显示，这类信息传播基础设施并不只是"把证据传递出去"的中性管道，而是通过项目纳入标准、研究设计标准、复制要求、[[Effect Size|效应量]]阈值和持续效果要求主动塑造"什么算作有效"。在 1,359 个项目中，83.2% 只被一个清算中心评级；对被多个清算中心评级的项目，类似评级约只出现在 30% 的情形([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 18]])。这意味着 EBR 所依赖的"可信赖证据审查"条件本身也需要被审查。
+- **[[Educational Evidence Clearinghouses|教育证据清算中心]]的一致性问题** [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 对 12 个美国/英国教育清算中心的比较显示，这类信息传播基础设施并不只是"把证据传递出去"的中性管道，而是通过项目纳入标准、研究设计标准、复制要求、[[Effect Size|效应量]]阈值和持续效果要求主动塑造"什么算作有效"。在 1,359 个项目中，83.2% 只被一个清算中心评级；对被多个清算中心评级的项目，类似评级约只出现在 30% 的情形([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 18]])。这意味着 EBR 所依赖的"可信赖证据审查"条件本身也需要被审查。
 
 ### 中国学者对证据本位研究的质疑
 
@@ -293,7 +293,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 **各方立场**
 - **批评者**[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 指出 RCT 中教师的热情（human will）是"必要但也是污染的"——使干预有效但也使其不可复制。当项目从研究环境扩展到全国实施时，实施质量和支持条件不可同日而语。
-- **[[Argument_Slavin_2019_EP|Slavin (2019, pp. 7–8)]] 的回应**：现代实验要求聚类级别分析（40–50 所学校），大大提升了[[External Validity|外部效度]]；Evidence for ESSA 报告每项研究的人口统计信息，供教育者自行判断与自身情境的匹配度。
+- **[[Argument_Slavin_2019_EP|Slavin (2019, pp. 7–8)]] 的回应** 现代实验要求聚类级别分析（40–50 所学校），大大提升了[[External Validity|外部效度]]；Evidence for ESSA 报告每项研究的人口统计信息，供教育者自行判断与自身情境的匹配度。
 
 **目前状态** 此争议在方法论[[Document|文献]]中持续，尚未有共识标准来判断"多大的外部效度是足够的"。
 
@@ -302,10 +302,10 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 **争议背景** EBR 将 RCT 置于证据层级的顶端，被批评为对一种特定研究方法的特权化——忽视了定性方法、[[Quasi-Experimental Designs|准实验设计]]和实践者知识的独特贡献。
 
 **各方立场**
-- **[[Argument_Slavin_2019_EP|Slavin (2019, p. 9)]]**：这不是对方法的特权，而是"方法匹配问题"——当问题是"与替代方案相比这个项目是否有效"时，实验是最佳设计。不同的[[Research Question|研究问题]]需要不同的方法。
-- **[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]]**：提出平衡立场——"长期来看，[[Random Assignment|随机化]]和严格匹配实验的混合比单一依赖随机化实验更健康"，但当前政治窗口需要"建立最高可能的证据标准"来展示教育研究能做什么。这与其 2019 年更明确的 RCT 优先立场有所不同。
-- **[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]**：问题恰恰在于 EBR 只允许"与替代方案相比这个项目是否有效"这一种问题——它系统性地排除了"这个项目为什么有效/无效？""对谁有效？""在什么条件下有效？"等同样重要的问题。
-- **[[Argument_Cowen_2019_ERE|Cowen (2019)]]**：从制度逻辑出发——RCT 的"优先地位"并非[[Epistemology|认识论]]优越性的结果，而是因为它对主权者（政策制定者）最"透明"——事先注册的方案和形式化的[[Effect Size|效应量]]使非专业决策者得以"审查"研究质量。
+- **[[Argument_Slavin_2019_EP|Slavin (2019, p. 9)]]** 这不是对方法的特权，而是"方法匹配问题"——当问题是"与替代方案相比这个项目是否有效"时，实验是最佳设计。不同的[[Research Question|研究问题]]需要不同的方法。
+- **[[Argument_Slavin_2002_ER|Slavin (2002, pp. 17–18)]]** 提出平衡立场——"长期来看，[[Random Assignment|随机化]]和严格匹配实验的混合比单一依赖随机化实验更健康"，但当前政治窗口需要"建立最高可能的证据标准"来展示教育研究能做什么。这与其 2019 年更明确的 RCT 优先立场有所不同。
+- **[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]** 问题恰恰在于 EBR 只允许"与替代方案相比这个项目是否有效"这一种问题——它系统性地排除了"这个项目为什么有效/无效？""对谁有效？""在什么条件下有效？"等同样重要的问题。
+- **[[Argument_Cowen_2019_ERE|Cowen (2019)]]** 从制度逻辑出发——RCT 的"优先地位"并非[[Epistemology|认识论]]优越性的结果，而是因为它对主权者（政策制定者）最"透明"——事先注册的方案和形式化的[[Effect Size|效应量]]使非专业决策者得以"审查"研究质量。
 
 **目前状态** 方法多元论的呼声在学术界广泛存在([[Argument_Cowen_2019_ERE|Cowen, 2019]]; [[Argument_Biesta_2010_SPE|Biesta, 2010]]; Hammersley, 2005)，但 ESSA 证据标准的法律效力已赋予 RCT 制度化的优先地位。
 
@@ -322,8 +322,8 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 **争议背景**[[Argument_Slavin_2019_EP|Slavin (2019)]] 明确反对"证据知情"（evidence-informed）的弱版本——"教师难以将通用原则转化为有效实践，不使用结构化材料和专业培训就会退回惯常方法"。这一立场与 Hammersley (2005)、Biesta (2007a, 2010) 对教师专业自主权的辩护直接对立。
 
 **各方立场**
-- **[[Argument_Slavin_2019_EP|Slavin (2019)]]**：教师需要经过验证的结构化项目而非通用原则——"等待教师自行开发或发现有效方法是无效的"，政府应通过拨款激励学校采用已验证项目。
-- **[[Argument_Biesta_2010_SPE|Biesta (2010, pp. 499–501)]]**：教育是目的性实践（teleological practice）——教师不仅需要判断"什么有效"，更需要判断"什么是教育上值得做的"。后者是价值判断，无法被实验证据替代。
+- **[[Argument_Slavin_2019_EP|Slavin (2019)]]** 教师需要经过验证的结构化项目而非通用原则——"等待教师自行开发或发现有效方法是无效的"，政府应通过拨款激励学校采用已验证项目。
+- **[[Argument_Biesta_2010_SPE|Biesta (2010, pp. 499–501)]]** 教育是目的性实践（teleological practice）——教师不仅需要判断"什么有效"，更需要判断"什么是教育上值得做的"。后者是价值判断，无法被实验证据替代。
 - **中间立场**Hammersley (2005) 论证研究证据和教师[[Professional Judgment|专业判断]]应互补而非替代——证据可以"告知"实践，但不能"决定"实践。
 
 **目前状态** 此张力在政策实践中体现为 ESSA"必须使用已验证项目"的命令与课堂教师"基于情境调整实施"的需要之间的持续摩擦。
@@ -338,7 +338,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 **争议背景**[[Argument_Peterson_2016_IJRME|Peterson (2016)]] 从实施可行性角度批判了 EBR 的核心运作[[Hypothesis|假设]]——即学校决策者可以随意采纳和实施教学程序项目。她指出"有多层决策者共同决定学校中发生的事情，从教育部长到教师。在一个情境中试验过的项目几乎不可能在另一个情境中完整实施：总是需要对当地学校和系统进行某种改编"（p. 305）。
 
-**核心论证**([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302, 305]])：
+**核心论证([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 301–302, 305]])**
 
 1. **项目采纳 ≠ 项目实施** 黑箱 RCT 评估的项目即使在试验中有效，推广至新情境时面临结构性改编需求——"知识由实验产生只有在更细粒度时才更可能有用；与其决定使用哪个预包装项目，教师需要详细的教学法和教学内容知识：哪些具体行动或策略能帮助学生学习"（p. 305, citing Villegas-Reimers, 2003, p. 39）
 

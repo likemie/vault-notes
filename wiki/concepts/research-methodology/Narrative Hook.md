@@ -59,7 +59,7 @@ Creswell & Creswell（2022, 第5章）提供了叙事钩子的具体写作建议
 3. **远离习语和陈词滥调** 避免使用惯用表达或陈腐短语
 4. **考虑数字信息** 用数字增强冲击力。例如："Every year, an estimated 5 million Americans experience the death of an immediate family member."
 5. **提出问题时** 用问题开篇可以创造读者兴趣
-6. **从[[Document|文献]]视角切入时**：以文献视角开始讨论[[Research Question|研究问题]]
+6. **从[[Document|文献]]视角切入时** 以文献视角开始讨论[[Research Question|研究问题]]
 
 > [!tip]- 学习途径
 > 要学习如何写好的叙事钩子，可以研究不同学科领域顶级期刊文章的第一句话。记者和作者在报纸和期刊文章的导语句中也提供了很好的范例。

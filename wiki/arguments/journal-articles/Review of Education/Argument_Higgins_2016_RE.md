@@ -227,7 +227,7 @@ Glass 命名元分析几年后，医学领域开始将元分析作为综合研�
 > [!note]- 固定效应与随机效应之争
 > Peto 主张当效果不完全相同时，按精度（方差倒数）加权估计加权平均，将元分析当作更大的单一研究处理。这就是[[Fixed-Effect and Random-Effects Models|固定效应模型]](p.39)。
 >
-> 更保守的方法是将每项研究视为干预的略有不同版本，有自己的随机变异需要被考虑，同时纳入研究内和研究间变异。这种[[Fixed-Effect and Random-Effects Models|随机效应模型]]由 Larry Hedges(1983)倡导，由 Rebecca DerSimonian 和 Nan Laird(1986)向医学研究者推广并提供了简化的计算公式。
+> 更保守的方法是将每项研究视为干预的略有不同版本，有自己的随机变异需要被考虑，同时纳入研究内和研究间变异。这种[[Fixed-Effect and Random-Effects Models|随机效应模型]]由 Larry Hedges(1983)倡导，由 Rebecca DerSimonian & Nan Laird(1986)向医学研究者推广并提供了简化的计算公式。
 
 ---
 

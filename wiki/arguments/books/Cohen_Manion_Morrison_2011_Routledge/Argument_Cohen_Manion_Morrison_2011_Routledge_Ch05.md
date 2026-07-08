@@ -21,6 +21,7 @@ year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
 citation_aliases: []
+publication_place: "London"
 tags:
   - method/research-ethics
   - source/textbook
@@ -74,7 +75,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-07-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05
 
@@ -134,7 +135,7 @@ updated: 2026-06-18
 > | 数据的报告方式 | 例如报告方式是否能让参与者理解 |
 
 > [!tension] 贯穿始终的核心张力
-> 一个根本性的伦理困境贯穿始终：在作为追求真理的专业科学家的要求与参与者的权利和价值观可能受到研究威胁之间取得平衡。这就是**成本/收益比**（[[Costs Benefits Ratio in Research Ethics|costs/benefits ratio]]），反复回归的核心概念（pp.75–76）。
+> 一个根本性的伦理困境贯穿始终：在作为追求真理的专业科学家的要求与参与者的权利和价值观可能受到研究威胁之间取得平衡。这就是**成本/收益比（[[Costs Benefits Ratio in Research Ethics|costs/benefits ratio]]）**，反复回归的核心概念（pp.75–76）。
 
 ---
 
@@ -169,7 +170,7 @@ updated: 2026-06-18
 > | **来源** | Howe & Moses (1999, p. 22) | Howe & Moses (1999, p. 23) | Hammersley (2009, p. 213) |
 
 > [!exegesis] 三种立场为何不可调和
-> 这三种立场代表了伦理判断的不同出发点：义务（道义论）、结果（后果论）和品格（德性伦理）。它们在同一情境中可能得出截然相反的结论。此处不做三者之间的裁断，而是持续展示在这些立场之间做出**情境化的**选择如何可能。这引向核心方法论立场：**[[Situated Ethics|情境伦理]]**（situated ethics）（pp.76–77）。
+> 这三种立场代表了伦理判断的不同出发点：义务（道义论）、结果（后果论）和品格（德性伦理）。它们在同一情境中可能得出截然相反的结论。此处不做三者之间的裁断，而是持续展示在这些立场之间做出**情境化的**选择如何可能。这引向核心方法论立场：**[[Situated Ethics|情境伦理]]（situated ethics）**（pp.76–77）。
 
 ---
 
@@ -270,7 +271,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > 基于对儿童和青少年的[[Ethnography|民族志]]和[[Participant Observation|参与观察]]研究，Fine & Sandstrom 提出了以下指导原则：
 >
 > - **指导原则** 缩小儿童与成人研究者之间的权力差距是可取的，但这种差异仍然存在，其消除可能在伦理上是不可取的
-> - **在[[Qualitative Research|质性研究]]中**：研究者必须提供可信且有意义的对其研究意图的解释，尤其是在他们几乎没有权威的情境中；儿童必须被给予真实和合法的机会说他们不想参加
+> - **在[[Qualitative Research|质性研究]]中** 研究者必须提供可信且有意义的对其研究意图的解释，尤其是在他们几乎没有权威的情境中；儿童必须被给予真实和合法的机会说他们不想参加
 > - **如果参与者拒绝** 不应被追问、其行为不应被记录、不应被纳入任何书或文章（即使使用化名）。如果他们是群体的一部分，可以作为集体的一部分被纳入
 > - **拒绝可能源于不信任** 在研究者能与群体建立更强的融洽关系后，最初拒绝的人可以在稍后日期再次被接触，可能私下进行
 
@@ -532,7 +533,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > - 如果你发现校长有严重的酗酒问题或正在与家长发生婚外情？
 > - 如果你的研究显示学校教师存在非常严重的弱点，以至于为了学生利益应终止他们的合同？
 >
-> 这些困境在教育中发生的可能性远低于社会心理学或医学，但当发生时，一般认为研究者应以避免两个极端的方式解决：一方面放弃研究，另一方面无视参与者的权利。**参与者的福利应始终被放在首位**（cf. BERA, 2004）——即使这意味着妥协研究的影响力。
+> 这些困境在教育中发生的可能性远低于社会心理学或医学，但当发生时，一般认为研究者应以避免两个极端的方式解决：一方面放弃研究，另一方面无视参与者的权利。**参与者的福利应始终被放在首位（cf. BERA, 2004）**——即使这意味着妥协研究的影响力。
 
 > [!warning] "强奸式研究"（Rape Research）
 > Sikes (2006, p. 112) 引用 Lather (1986) 的话描述了强奸式研究："研究者得到他们想要的然后离开，几乎不给任何回报，甚至可能造成伤害"。这是不伦理的。相关批判术语还包括 Laing (1967, p. 53) 的 capta vs data（数据不是"被给出"的，而是从不断变化的经验矩阵中"被取出"的）、"虚荣人种志"（vanity ethnography, Maynard, 1993）、"叙事宣泄"（narrative catharsis, Tierney, 2002）和"自恋"（narcissism, Reed-Danahay, 2002）（p.91）。
@@ -786,7 +787,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 > Walford (2005, p. 88) 的核心论点：**匿名承诺常被研究者用来获得准入，但实际上无法得到保证**——因此做出匿名承诺本身在伦理上就是有问题的。通过输入几个简单关键词进行互联网搜索就能识别机构。Oliver (2003, p. 80)："没有匿名的绝对保证，特别是对于担任命名职位的人。"
 
 > [!tension] 伪装 vs 扭曲
-> 保护匿名的多种手段被用于"转移视线"：使用化名、报告不同的地理位置、提供错误信息（故意给出不正确的年龄或性别信息）、隐藏识别细节（cf. Howe & Moses, 1999, p. 45）。这即是从"伪装"（disguise）转向"扭曲"（distortion）（Wiles et al., 2008, p. 422）。但这不仅带有说谎和不诚实的嫌疑，而且**实际上删除了对研究重要的许多情境数据**（Walford, 2005, p. 90），尤其是对于人种志研究。每所学校及其发展"只能在其历史和社会政治位置的语境中被理解"（Walford, 2005, p. 90）。
+> 保护匿名的多种手段被用于"转移视线"：使用化名、报告不同的地理位置、提供错误信息（故意给出不正确的年龄或性别信息）、隐藏识别细节（cf. Howe & Moses, 1999, p. 45）。这即是从"伪装"（disguise）转向"扭曲"（distortion）（Wiles et al., 2008, p. 422）。但这不仅带有说谎和不诚实的嫌疑，而且**实际上删除了对研究重要的许多情境数据（Walford, 2005, p. 90）**，尤其是对于人种志研究。每所学校及其发展"只能在其历史和社会政治位置的语境中被理解"（Walford, 2005, p. 90）。
 
 > [!evidence-grid] [[Rich and Thick Description|厚描述]] vs 薄描述
 > Howe & Moses (1999, pp. 44–45) 提出了强有力的反对隐私和保密的论证：解释性研究的"厚描述"需要一种如果要求隐私、保密和匿名就无法获得的细节层次。他们论证，随着描述趋向"客观"，它们变得更温和、失去了赖以展示的丰富性——即它们变成"薄的"。
@@ -851,7 +852,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 > [!tension] Morrison 的学校背信困境
 > Morrison (2006) 考虑了一所表现不佳、管理不善或领导糟糕的学校的情况。消费者乃至国家是否有权利或义务分别知情或解决这一问题——这种行动通常涉及将学校的缺点暴露给公众，这不会伤害在学校工作的个人、校长和教师吗？研究者对学校或对公众有什么"信义信任"（fiduciary trust, Mitchell, 1993）不伤害个人（"不伤害"的伦理问题），这两个潜在的矛盾要求如何调和？**应该暴露学校弱点（几乎肯定会伤害个人但可能符合公共利益），还是在 primum non nocere 的利益下保持沉默？**
 >
-> 问题取决于**信任** **追求真理和追求信任可能相互冲突**（Kelly, 1985, p. 147）；Kelly 本人写道："我认为我们还没有找到满意的方式来解决这一困境。"（p.109）
+> 问题取决于**信任** **追求真理和追求信任可能相互冲突（Kelly, 1985, p. 147）**；Kelly 本人写道："我认为我们还没有找到满意的方式来解决这一困境。"（p.109）
 
 > [!voice] Finch 的阶级背信焦虑
 > Finch (1985, pp. 117–118) 在报告其研究时担心"这很可能意味着我在进一步强化那些深深植根于我们文化和政治生活的假设：工人阶级女性（尤其是城市贫民）是不称职的母亲，太无能以致无法组织大多数正常女性能管理的设施"。她使用了"背信"一词，担心自己背叛了与她一起工作了三年的女性的信任，尤其是因为她们处于比她糟糕得多的经济和个人状态（pp.109–110）。
@@ -876,7 +877,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 > **欺骗发生在不告知全部真相中。** Bailey (1994, p. 463) 给出了一个清晰的例子：受访者被要求完成一份邮寄问卷，相信他们被要求提供关于邮资长度和类型的信息，而实际上该研究旨在比较不同类型的问卷。他报告其样本 457 项研究中有 88% 使用了欺骗（p.110）。
 
 > [!claim] 欺骗的证成逻辑
-> 欺骗方法的倡导者认为：如果欺骗实验是发现真正重要事物的唯一途径，只要不对参与者造成伤害，**所发现的真相就值得过程中所说的谎言**（Aronson et al., 1990）（p.110）。欺骗可在以下理由下被证成：
+> 欺骗方法的倡导者认为：如果欺骗实验是发现真正重要事物的唯一途径，只要不对参与者造成伤害，**所发现的真相就值得过程中所说的谎言（Aronson et al., 1990）**（p.110）。欺骗可在以下理由下被证成：
 > - 研究服务于公共利益
 > - 欺骗防止偏见进入研究
 > - 保护第三方（如资助方）的保密性
@@ -1201,7 +1202,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > 必须强调的是，**定制项目**（即旨在满足特定项目需求的）优于标准项目。Box 5.9 中的条目是说明性的，绝非穷尽的（p.135）。
 
 > [!quote] 结语
-> 期望读者能带着更大的觉知和更充分的理解来对待自己的项目，认识到潜伏在研究过程缝隙中的伦理困境和道德议题。无论在这些事务上多么没有经验，每个研究者都带着一种**是非感**（a sense of rightness, Huizinga, 1949），在此基础上他们可以构建适合自己情境的**理性原则**体系，基于个人、专业和社会价值观——**正是理性与是非感的结合，研究者必须守信的，如果他们要为工作带来丰富的伦理品质**（p.133）。
+> 期望读者能带着更大的觉知和更充分的理解来对待自己的项目，认识到潜伏在研究过程缝隙中的伦理困境和道德议题。无论在这些事务上多么没有经验，每个研究者都带着一种**是非感（a sense of rightness, Huizinga, 1949）**，在此基础上他们可以构建适合自己情境的**理性原则**体系，基于个人、专业和社会价值观——**正是理性与是非感的结合，研究者必须守信的，如果他们要为工作带来丰富的伦理品质**（p.133）。
 
 ---
 
@@ -1220,7 +1221,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > [!citation-card]- 隐私权的定义（SSHRC Canada）
 > 隐私权"延伸到所有与个人身体和精神状况、个人境况和社会关系相关的、尚未进入公共领域的信息。它赋予个人或集体自行决定何时何地、在什么境况下、以何种程度将个人态度、意见、习惯、怪癖、疑虑和恐惧传达给他人或保留的自由"（p.99）。
 >
-> The right to privacy 'extends to all information relating to a person's physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others' (Social Sciences and Humanities Research Council of Canada, 1981).
+> The right to privacy 'extends to all information relating to a person's physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others' (Social Sciences & Humanities Research Council of Canada, 1981).
 
 > [!citation-card]- [[Situated Ethics|情境伦理]]的核心主张（Simons & Usher）
 > "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（p.128）

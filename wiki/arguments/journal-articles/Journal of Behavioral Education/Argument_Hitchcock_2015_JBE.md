@@ -73,8 +73,8 @@ citation_aliases:
 > [!abstract] 理论框架
 > 论文以 **[[Campbellian Validity Framework]]**(Shadish, 1995; Shadish, Cook & Campbell, 2002)为理论基础：
 >
-> - **[[Internal Validity|内部效度]]**：[[Causality|因果关系]]在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non）(p.461)
-> - **[[External Validity|外部效度]]**：因果推断在多大程度上适用于不同情境、场所、测量、人群——与推广性密切相关，评估远比内部效度复杂(p.462)
+> - **[[Internal Validity|内部效度]]** [[Causality|因果关系]]在多大程度上成立——通过排除替代解释（威胁）来建立，是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non）(p.461)
+> - **[[External Validity|外部效度]]** 因果推断在多大程度上适用于不同情境、场所、测量、人群——与推广性密切相关，评估远比内部效度复杂(p.462)
 > - 内外部效度并非完全互斥：例如基线描述既用于建立实验控制（内部效度），也描述现状从而为推广性提供信息(p.463)
 >
 > 论文也将 [[Single-Case Design|SCD]] 置于证据本位实践（Evidence-Based Practice）的宏观框架中：开场即申明"长期以来一直存在使用具有强证据基础的干预的呼吁"(p.460)。
@@ -93,7 +93,7 @@ citation_aliases:
 >
 > Maggin et al. (2013) 得出"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论是"合理的——如果仅考虑 WWC 的 [[Single-Case Design|SCD]] 设计标准"(p.460)。但审查程序不能仅从设计标准本身理解：
 >
-> - **设计标准**只是三个组件之一——审查还必须考虑**审查协议**（指定[[Research Question|研究问题]]、目标人群、结果领域、场所）和 **[[Single-Case Design|SCD]] Review Guide**（一个系统化数据库，记录所有相关研究细节后再做评估）(p.461)
+> - **设计标准**只是三个组件之一——审查还必须考虑**审查协议（指定[[Research Question|研究问题]]、目标人群、结果领域、场所）**和 **[[Single-Case Design|SCD]] Review Guide**（一个系统化数据库，记录所有相关研究细节后再做评估）(p.461)
 > - 由于截至 2015 年 WWC 发布的 SCD 报告"极少"，公开可见的标准应用信息有限，"也许导致一些人[[Hypothesis|假设]]标准未处理这一重要问题"
 >
 > ### 2. 推广性细节确实被捕获
@@ -122,22 +122,22 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **[[Internal Validity|内部效度]]判断的一致性不令人惊讶**：Maggin et al. (2013) 发现 7 种量规在内部效度判断上合理一致——这在 Campbellian 框架下是可预期的，因为排除[[Threats to Internal Validity|内部效度威胁]]的逻辑适用于多种设计类型(p.462)
+> 1. **[[Internal Validity|内部效度]]判断的一致性不令人惊讶** Maggin et al. (2013) 发现 7 种量规在内部效度判断上合理一致——这在 Campbellian 框架下是可预期的，因为排除[[Threats to Internal Validity|内部效度威胁]]的逻辑适用于多种设计类型(p.462)
 >
-> 2. **[[External Validity|外部效度]]判断更复杂且有内在原因**：评估外部效度比内部效度更复杂，部分原因是"许多因素或实验特征可能代表推广能力的威胁，有些因素容易识别，有些则不是"；另一原因是审查者不知道消费者希望推广到何处(p.463)
+> 2. **[[External Validity|外部效度]]判断更复杂且有内在原因** 评估外部效度比内部效度更复杂，部分原因是"许多因素或实验特征可能代表推广能力的威胁，有些因素容易识别，有些则不是"；另一原因是审查者不知道消费者希望推广到何处(p.463)
 >
-> 3. **[[Single-Case Design|SCD]] 的外部效度面临额外的普遍偏见**：存在一种普遍（但错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广，尽管事实上可以(Barlow et al., 2009)，这使得 SCD 的外部效度评估比 [[Randomised Controlled Trials|RCT]] 更困难(p.467)
+> 3. **[[Single-Case Design|SCD]] 的外部效度面临额外的普遍偏见** 存在一种普遍（但错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广，尽管事实上可以(Barlow et al., 2009)，这使得 SCD 的外部效度评估比 [[Randomised Controlled Trials|RCT]] 更困难(p.467)
 >
-> 4. **[[What Works Clearinghouse|WWC]] 的 Repeated Reading 报告(2014)提供了具体例证**：附录 E 中包含一项通过标准的 SCD 研究及其推广性信息，展示了审查程序的实际运作(p.466)
+> 4. **[[What Works Clearinghouse|WWC]] 的 Repeated Reading 报告(2014)提供了具体例证** 附录 E 中包含一项通过标准的 SCD 研究及其推广性信息，展示了审查程序的实际运作(p.466)
 
 ## 可继续提取的信息
 
 > [!note-] 可继续提取的信息
-> - **[[Single-Case Design|SCD]] 的基础定义与适用范围**：论文明确将 [[Single-Case Design|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域(p.460)。
+> - **[[Single-Case Design|SCD]] 的基础定义与适用范围** 论文明确将 [[Single-Case Design|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域(p.460)。
 > - **单项 SCD 与政策证据之间的距离** 作者指出，一项 SCD 研究即便可能改变局部实践，也通常不足以支持[[Theories of Policy Change|政策变革]]；更强证据需要汇集不同研究团队、不同参与者和不同场所中的多项 SCD 研究。
 > - **推广性判断的具体信息项**[[What Works Clearinghouse|WWC]] SCD Review Guide 记录基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境(pp.464–466)。
-> - **[[External Validity|外部效度]]的结构性难题**：作者强调，审查者往往不知道消费者希望把证据推广到哪一个具体"点"；这解释了为什么 WWC 选择描述推广性信息，而不是给每个推广性维度设置统一阈值(pp.462–463, 466)。
-> - **SCD 证据的社会[[Epistemology|认识论]]问题**：论文指出，存在一种普遍但错误的信念，认为 SCD 证据不能推广；作者认为 SCD 信息如何支持原始研究场所以外的情境判断仍需进一步澄清(p.467)。
+> - **[[External Validity|外部效度]]的结构性难题** 作者强调，审查者往往不知道消费者希望把证据推广到哪一个具体"点"；这解释了为什么 WWC 选择描述推广性信息，而不是给每个推广性维度设置统一阈值(pp.462–463, 466)。
+> - **SCD 证据的社会[[Epistemology|认识论]]问题** 论文指出，存在一种普遍但错误的信念，认为 SCD 证据不能推广；作者认为 SCD 信息如何支持原始研究场所以外的情境判断仍需进一步澄清(p.467)。
 
 ## 关键引用
 
@@ -167,7 +167,7 @@ citation_aliases:
 > ### 外部批评视角
 >
 > 1. **回应性质的局限**作为对 Maggin et al. (2013) 的评论，论证的焦点是防御性澄清而非批判性检验——论文未深入讨论 WWC 审查程序的潜在问题
-> 2. **第一人称视角的[[Conflict of Interest in Research|利益冲突]]**：作者是 WWC [[Single-Case Design|SCD]] 标准的共同开发者，可能倾向于为其辩护而非独立评估
+> 2. **第一人称视角的[[Conflict of Interest in Research|利益冲突]]** 作者是 WWC [[Single-Case Design|SCD]] 标准的共同开发者，可能倾向于为其辩护而非独立评估
 > 3. **推广性评估的结构性空白** 即使审查程序捕获了推广性信息，将判断责任推给消费者的做法可能不公平——许多从业者和政策制定者缺乏评估推广性的方法论训练
 
 ## 来源

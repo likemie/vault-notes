@@ -39,7 +39,7 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Oxford UIDP Summit 2019]]"
-  - "[[Inventor-Owned IP Policy (University of Waterloo)]]"
+  - "[[University of Waterloo Inventor-Owned IP Policy|Inventor-Owned IP Policy (University of Waterloo)]]"
 related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
@@ -94,7 +94,7 @@ updated: 2026-06-10
 
 ### 多层次高等教育体系
 
-Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基于地点的生态系统需要一系列学院和大学，而非仅一所精英大学。[[California Master Plan for Higher Education|加州高等教育总体规划]]（Master Plan for Higher Education）下的三层体系——社区学院、加州州立大学和加州大学——共同支撑了硅谷创新经济的人才需求（pp.12–13）。
+Scott & Kirst（2017）在 Higher Education and Silicon Valley 中指出，基于地点的生态系统需要一系列学院和大学，而非仅一所精英大学。[[California Master Plan for Higher Education|加州高等教育总体规划]]（Master Plan for Higher Education）下的三层体系——社区学院、加州州立大学和加州大学——共同支撑了硅谷创新经济的人才需求（pp.12–13）。
 
 > [!quote]
 > "As the seat of a world-famous innovation economy, this region's success rests upon knowledge and training of its workforce."（Scott & Kirst, 2017，转引自 p.12）
@@ -156,7 +156,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 ## 理论基础
 
 > [!tip]-
-- [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的反馈循环描述为相互支撑的三重螺旋，是理解创新生态系统制度结构的核心理论（p.13）
+- [[Triple Helix]] — Etzkowitz & Leydesdorff（1995）将大学-产业-政府之间的反馈循环描述为相互支撑的三重螺旋，是理解创新生态系统制度结构的核心理论（p.13）
 - Schumpeter（1942）的创新理论 — "创造性破坏"（creative destruction）是创新生态系统动态演化的理论基础（p.12）
 - Ridley（2020）How Innovation Works — 强调自由、实验和开放竞争对创新的决定性作用（p.12）
 - [[Systems of Innovation|创新系统理论]]（Lundvall et al., 2002）— 创新生态系统的近邻理论，将创新理解为多行动者在制度环境下的集体学习活动，两者共享多行动者网络的分析视角([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.29–31]])
@@ -171,7 +171,7 @@ Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基
 > [!example]
 - **硅谷** 由斯坦福大学、周边企业（如 Hewlett Packard、Google、Apple）和政府投资共同构成的基于地点的创新生态系统。其多层次高等教育体系包括 UC Berkeley、UC San Francisco、San Jose State 等多所院校（pp.12–13）
 - **波士顿** 由 MIT 和哈佛大学锚定，以 Route 128 走廊为地理轴线的创新生态系统。Fischman et al.（2014）记录了 MIT 如何通过鼓励教师和学生创业来催化区域创新（pp.12–13）
-- **多伦多-滑铁卢走廊（Toronto-Waterloo Corridor）** 加拿大最密集的科技创新走廊之一，区域内拥有 **15,000 家**科技公司、超过 **315,000 名**科技从业者、**16 所**大学和学院，以及世界领先的医学、工程和人工智能专家([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.248]])。滑铁卢大学作为核心锚点，通过[[Cooperative Education|合作教育]]项目（每年 26,000 名本科生、8,000 多个雇主）和[[Inventor-Owned IP Policy (University of Waterloo)|发明人自有知识产权政策]]，自 1959 年建校起持续向生态系统注入[[University-Industry Collaboration|产学合作]]文化和创业人才。该走廊的一个独特特征是半乡村区位与高科技密度的并存：滑铁卢地处农田包围之中，充足的工业用地吸引了汽车制造和航空航天投资，同时大学对农业科技（机器人、无人机、环境建模）有直接的应用场景([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.248–249]])。该案例表明，成功的创新生态系统不一定要复制硅谷的城市密度模式——基于本地产业结构和地理特征的差异化生态位可能更具可持续性。
+- **多伦多-滑铁卢走廊（Toronto-Waterloo Corridor）** 加拿大最密集的科技创新走廊之一，区域内拥有 **15,000 家**科技公司、超过 **315,000 名**科技从业者、**16 所**大学和学院，以及世界领先的医学、工程和人工智能专家([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.248]])。滑铁卢大学作为核心锚点，通过[[Cooperative Education|合作教育]]项目（每年 26,000 名本科生、8,000 多个雇主）和[[University of Waterloo Inventor-Owned IP Policy|发明人自有知识产权政策]]，自 1959 年建校起持续向生态系统注入[[University-Industry Collaboration|产学合作]]文化和创业人才。该走廊的一个独特特征是半乡村区位与高科技密度的并存：滑铁卢地处农田包围之中，充足的工业用地吸引了汽车制造和航空航天投资，同时大学对农业科技（机器人、无人机、环境建模）有直接的应用场景([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.248–249]])。该案例表明，成功的创新生态系统不一定要复制硅谷的城市密度模式——基于本地产业结构和地理特征的差异化生态位可能更具可持续性。
 - **后 2008 年的政策转向** 自大衰退以来，美国州和地方政府越来越多地将大学视为经济发展的催化剂。APLU 设立了 Innovation and Economic Prosperity Program，为在区域经济参与方面取得成功的大学提供认证（p.13）
 ---
 

@@ -42,16 +42,16 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Inventor-Owned IP Policy (University of Waterloo)]]"
+  - "[[University of Waterloo Inventor-Owned IP Policy|Inventor-Owned IP Policy (University of Waterloo)]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
-  - "[[Global Futures Framework (University of Waterloo)]]"
+  - "[[University of Waterloo Global Futures Framework|Global Futures Framework (University of Waterloo)]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch13_Dean_2025|Ch13_Dean_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: '2026-06-08'
+updated: 2026-07-08
 year: 2025
 doi: ""
 citation_aliases:
@@ -63,7 +63,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 研究密集型大学面临传统研究资助渠道持续收窄的压力，产业合作成为重要的补充资金来源。然而不同院系的教师对[[University-Industry Collaboration|产学合作]]的接受度差异巨大，部分教师担心知识产权归属、发表权受限、保密条款约束、学术声誉受损和[[Conflict of Interest in Research|利益冲突]]。六位作者全部担任滑铁卢大学研究行政职务（科研副校长、协理副校长、伙伴关系总监、政府关系副主任等），因而面对一个直接的实践难题：即便滑铁卢大学自 1959 年建校起就将产业合作嵌入组织基因，拥有北美最大的[[Cooperative Education|合作教育]]项目（每年 26,000 名本科生、8,000 多个雇主）和[[Inventor-Owned IP Policy (University of Waterloo)|发明人自有知识产权政策]]，该校仍然面临前述所有障碍(pp.242–243)。
+> 研究密集型大学面临传统研究资助渠道持续收窄的压力，产业合作成为重要的补充资金来源。然而不同院系的教师对[[University-Industry Collaboration|产学合作]]的接受度差异巨大，部分教师担心知识产权归属、发表权受限、保密条款约束、学术声誉受损和[[Conflict of Interest in Research|利益冲突]]。六位作者全部担任滑铁卢大学研究行政职务（科研副校长、协理副校长、伙伴关系总监、政府关系副主任等），因而面对一个直接的实践难题：即便滑铁卢大学自 1959 年建校起就将产业合作嵌入组织基因，拥有北美最大的[[Cooperative Education|合作教育]]项目（每年 26,000 名本科生、8,000 多个雇主）和[[University of Waterloo Inventor-Owned IP Policy|发明人自有知识产权政策]]，该校仍然面临前述所有障碍(pp.242–243)。
 >
 > 推动产学合作不能只靠**文化基因**。核心问题是：**大学如何通过系统性的制度设计，将产学合作从少数教师的个人偏好转变为多数教师可以理性选择的行为？**具体而言，哪些激励机制对教师最有效？行政支持在降低合作摩擦中扮演什么角色？研究评估制度是否在根本上将产学合作视为负资产？
 
@@ -129,7 +129,7 @@ citation_aliases:
 
 4. 滑铁卢大学合作教育的规模使产业合作成为大学运作的常态而非例外。该校拥有全球最大的本科合作教育项目之一，每年将 **26,000 名**本科生与 **8,000 多个**国内外雇主连接(pp.243–244)。然而，工作整合学习机会在研究生层面面临更大的实际和后勤困难——加拿大经济以中小企业和外国跨国公司的分支工厂为主，全球总部较少，使得为研究生寻找有薪研究型实习岗位更具挑战性(p.244)。Mitacs Accelerate 项目正是对这一结构性困难的回应。对教师而言，能够为学生提供产业实践机会本身就成为研究生招生的差异化优势。
 
-5. 2022 年，滑铁卢大学发布了全球未来框架（[[Global Futures Framework (University of Waterloo)|Global Futures Framework]]），以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校跨学科的教育、研究和创新活动。每个维度都与其他维度重叠，交叉点正是滑铁卢大学识别新机会的优势领域(p.244)。该框架在产学合作语境中充当"协调器"——它将分散在各院系的合作努力纳入一个共同的战略叙事，使大学在面对外部伙伴时能够呈现一个清晰的方向(pp.244, 254)。
+5. 2022 年，滑铁卢大学发布了全球未来框架（[[University of Waterloo Global Futures Framework|Global Futures Framework]]），以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校跨学科的教育、研究和创新活动。每个维度都与其他维度重叠，交叉点正是滑铁卢大学识别新机会的优势领域(p.244)。该框架在产学合作语境中充当"协调器"——它将分散在各院系的合作努力纳入一个共同的战略叙事，使大学在面对外部伙伴时能够呈现一个清晰的方向(pp.244, 254)。
 
 ---
 
@@ -153,7 +153,7 @@ citation_aliases:
 
 10. **连接活动（connector events）**是研究办公室伙伴关系团队的核心功能之一。团队与各院系合作，根据院系需求、兴趣领域和潜在外部参与方来设计和执行校内活动。在校园内举办活动降低了教师的参与门槛——不需要出差、不需要特殊安排。疫情后的活动调查显示，**面对面互动在建立信任和尊重的基础方面具有不可替代的价值(p.249)**。
 
-11. **共同选址**（[[University-Industry Co-location|co-location]]）是缩短认知距离的最激进形式。当产业人员进驻大学校园——甚至进入合作教师的特定实验室——互动从安排一次会议变为日常的、非正式的接触。共同选址还可以催生更广泛的组织形式：研究开发集群、[[Innovation Park|研究园区]]、联合体、专用设备和服务的共享使用，以及招聘会、[[Industry Advisory Board|行业咨询委员会]]和赞助等非研究密集型活动(p.249)。
+11. **共同选址（[[University-Industry Co-location|co-location]]）**是缩短认知距离的最激进形式。当产业人员进驻大学校园——甚至进入合作教师的特定实验室——互动从安排一次会议变为日常的、非正式的接触。共同选址还可以催生更广泛的组织形式：研究开发集群、[[Innovation Park|研究园区]]、联合体、专用设备和服务的共享使用，以及招聘会、[[Industry Advisory Board|行业咨询委员会]]和赞助等非研究密集型活动(p.249)。
 
 12. 滑铁卢大学推动共同选址的一个实例是**加拿大国家研究理事会（NRC）与滑铁卢大学合作中心**。该中心聚焦人工智能、物联网和网络安全，为学生、政府和教师提供共同工作的物理空间，目标是在培养 HQP 技能的同时创造多样视角交汇的环境(p.249)。
 
@@ -165,7 +165,7 @@ citation_aliases:
 
 13. 大学在决定与哪些产业伙伴合作时，面临一个超越法律合规的价值判断问题。第一层当然是遵守法律和政府制裁规定。但法律底线之上还有道德和伦理考量：环境、社会和治理（ESG）因素是否应该进入合作决策？近年大学投资策略中对气候变化撤资的推动表明，大学对其所建立的关系负有道德责任(p.249)。
 
-14. **[[Research Security|研究安全]]**（research security）是地缘政治紧张背景下产学合作的新维度。滑铁卢大学采取了多层次策略(pp.249–250)：
+14. **[[Research Security|研究安全]]（research security）**是地缘政治紧张背景下产学合作的新维度。滑铁卢大学采取了多层次策略(pp.249–250)：
     - **第一阶段：教育与会诊**。研究办公室主办了**今日地缘政治时代的研究安全**会议，让利益相关方了解外国行为体对研究的威胁，并听取政府资助机构和官员的安全规划。
     - **第二阶段：制度化支持**。大学组建了**保障研究（Safeguarding Research）**团队，隶属研究办公室，为研究者的国际研究关系、参与和合作提供持续支持，工作原则是在透明性、可预测性、[[Academic Freedom|学术自由]]和开放科学规范之间寻求平衡(p.250)。
 

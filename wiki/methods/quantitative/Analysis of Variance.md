@@ -63,7 +63,7 @@ updated: 2026-05-31
 
 > [!tip]-
 > - **单因素 ANOVA（One-Way ANOVA）** 比较一个自[[Variable|变量]]（两个或多个水平）在一个因变量上的均值差异。使用 F 统计量。
-> - **[[Analysis of Covariance|ANCOVA]]（Analysis of Covariance）**：在 ANOVA 基础上加入一个或多个协变量，控制其影响后比较调整后的组间均值。
+> - **[[Analysis of Covariance|ANCOVA]]（Analysis of Covariance）** 在 ANOVA 基础上加入一个或多个协变量，控制其影响后比较调整后的组间均值。
 > - **MANOVA（Multivariate Analysis of Variance）** 同时比较两个或多个因变量在组间的差异。
 > - **因子 ANOVA** 在[[Factorial Design|因子设计]]中检验多个自变量的主效应和交互效应。
 > - vs [[t-test]] — ANOVA 可视为 t 检验在两组以上比较中的推广；两组比较时 ANOVA 的 F 值等于 t 值的平方。

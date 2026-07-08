@@ -37,7 +37,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 文化模型（cultural models）是一个人类学概念，指由文化的历史过程建立并随文化演进而持续修订的**共享概念框架**。它们塑造成员的体验——提供群体共享的方式来**解释、预测和理解**人们的思想、情感和行为；同时引导人们**形成目标**并**激励他们追求目标**([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])。
+> 文化模型（cultural models）是一个人类学概念，指由文化的历史过程建立并随文化演进而持续修订的**共享概念框架**。它们塑造成员的体验——提供群体共享的方式来**解释、预测和理解**人们的思想、情感和行为；同时引导人们**形成目标**并**激励他们追求目标([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])**。
 
 > [!quote]
 > "Cultural models are established through cultural historical processes and are subject to continuous revision as culture further evolves. They are conceptual frameworks that shape the experiences of their members—providing group-shared ways to interpret, predict, and understand people's thoughts, feelings, and actions. These frameworks also guide people in forming goals and motivate them to pursue those goals." ([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])
@@ -69,7 +69,7 @@ updated: 2026-06-02
 > 5. **理想形象承载** 文化模型也通过[[Ideal Learner|理想学习者]]等理想人格形象来存储——这是 [[Ideal Learner|理想学习者]] 研究的方法论基础([[Argument_Li_2012_Cambridge|Li, 2012, pp.94-96]])
 
 > [!example] Li 的教师形象示例
-> Li 用美国文化中的教师形象来说明文化模型：任何在美国从 K 到 12 年级上过学的人大概都知道——教师做什么、有什么权力和责任、学生应该怎样对教师、以及学生不服从教师要求时会发生什么。这不是说每个美国人对教师的看法完全相同，而是说存在一个**共享的、可识别的文化原型**([[Argument_Li_2012_Cambridge|Li, 2012, p.89]])。
+> Li 用美国文化中的教师形象来说明文化模型：任何在美国从 K 到 12 年级上过学的人大概都知道——教师做什么、有什么权力和责任、学生应该怎样对教师、以及学生不服从教师要求时会发生什么。这不是说每个美国人对教师的看法完全相同，而是说存在一个**共享的、可识别的文化原型([[Argument_Li_2012_Cambridge|Li, 2012, p.89]])**。
 
 ---
 
@@ -104,7 +104,7 @@ Li 的研究设计体现了一种**文化模型 → 实证验证 → 文化模�
 
 > [!warning]
 > - **文化模型可能过度强调同质性** Li 承认文化内部存在大量不一致和反作用力([[Argument_Li_2012_Cambridge|Li, 2012, p.xi]])，但全书聚焦一般文化取向。批评者可以主张：对共享性的强调可能使文化内部的冲突、抵抗 and 替代性模型不可见
-> - **语言 = 文化模型的[[Hypothesis|假设]]**：[[Prototype Methods|原型方法]]假设词汇承载文化模型——但词汇存在（lexical availability）不等于信念存在。一个文化可能保留了化石词汇（如成语），但成员已不再持有相应信念
+> - **语言 = 文化模型的[[Hypothesis|假设]]** [[Prototype Methods|原型方法]]假设词汇承载文化模型——但词汇存在（lexical availability）不等于信念存在。一个文化可能保留了化石词汇（如成语），但成员已不再持有相应信念
 
 ---
 

@@ -83,7 +83,7 @@ updated: '2026-05-18'
 
 
 - **国家冠军城市**Crouch & Le Galès（2012）观察到国家将资源大规模集中于首都和城市基础设施，发展"国家冠军城市或区域"——这正是 Porter 逻辑的政策表现([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
-- **[[Economic Patriotism|经济爱国主义]]**：Porter 理论与国家竞争叙事的结合催生了 [[Economic Patriotism]]——爱国情感被绑定到特定领土部分的利益推进上([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
+- **[[Economic Patriotism|经济爱国主义]]** Porter 理论与国家竞争叙事的结合催生了 [[Economic Patriotism]]——爱国情感被绑定到特定领土部分的利益推进上([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])
 - **城市竞争形态** 跨空间竞争"采取城市形式，特别围绕城市社会和物质基础设施的吸引力"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]])
 
 ---

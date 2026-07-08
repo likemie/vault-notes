@@ -300,6 +300,25 @@ cd /Users/shaoyangwu/Documents/MyNotes
 .venv/bin/python3 scripts/vault_lint.py --full --strict
 ```
 
+机械格式错误（加粗小标题冒号、英文注释在粗体外、英文双作者 and、summary 引号）可自动修复：
+
+```bash
+.venv/bin/python3 scripts/vault_lint.py --fix          # 增量
+.venv/bin/python3 scripts/vault_lint.py --full --fix   # 全库
+```
+
+引用显示文本的 a/b/c 后缀漂移（新增同作者同年文献后旧链接显示未更新）可自动改写：
+
+```bash
+.venv/bin/python3 scripts/citation_linker.py --fix-display --full
+```
+
+Git pre-commit hook（跑基础索引 + 增量 lint，lint 错误阻止提交）位于 `scripts/hooks/pre-commit`，安装：
+
+```bash
+cp scripts/hooks/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+```
+
 移动 wiki 条目时：
 
 - 只移动文件本身，不手动编辑 `wiki/index.json`、`wiki/index.md`、各类型索引页或 generated fields。

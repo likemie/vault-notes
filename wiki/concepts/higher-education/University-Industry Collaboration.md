@@ -30,7 +30,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
   - "[[Corporate R&D Labs]]"
-  - "[[Third Mission (Universities)]]"
+  - "[[Third Mission|Third Mission (Universities)]]"
   - "[[Knowledge Transfer]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Return on Investment]]"
@@ -93,12 +93,12 @@ related_facts:
   - "[[Synthesis and Solid State Pharmaceutical Centre]]"
   - "[[TUFF]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
-  - "[[Inventor-Owned IP Policy (University of Waterloo)]]"
+  - "[[University of Waterloo Inventor-Owned IP Policy|Inventor-Owned IP Policy (University of Waterloo)]]"
   - "[[Network of Academic Corporate Relations Officers]]"
   - "[[CHIPS and Science Act]]"
   - "[[Semiconductor Research Corporation]]"
-  - "[[University, Inc. (Washburn, 2005)]]"
-  - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[University Inc|University, Inc. (Washburn, 2005)]]"
+  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
   - "[[Argument_Swick_Jones_2025_AcademicHealthSystems]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
@@ -145,10 +145,10 @@ updated: 2026-06-05
 > **产学关系 vs 产学参与**Boccanfuso & Hall（2025）明确区分了单纯的产学"关系"（relationships）和有目的的产学"参与"（engagement）。关系可以是松散的、非正式的——每年一次联谊会、企业顾问委员会的空衔——而参与则以正式协议为框架，涉及具体的资金支付、知识产权安排和交付物要求。全书的核心理念是"力量和影响力不仅仅来自大学与企业之间的关系，而是在研究与学术、教育与学习以及公共效益方面的参与"（p.4）。
 
 > [!example]
-> **与 [[Technology Transfer]] 的关系**：[[Technology Transfer|技术转移]]是产学合作的一个具体维度——它关注的是知识产权从大学向商业应用的流动。产学合作的范围更广，还涵盖赞助研究、人才培养、联合体和战略联盟等形式。技术转移可以是产学合作的起点（发明已完成，寻找商业化伙伴），也可以是产学合作的产出（赞助研究产生了新知识产权）。
+> **与 [[Technology Transfer]] 的关系** [[Technology Transfer|技术转移]]是产学合作的一个具体维度——它关注的是知识产权从大学向商业应用的流动。产学合作的范围更广，还涵盖赞助研究、人才培养、联合体和战略联盟等形式。技术转移可以是产学合作的起点（发明已完成，寻找商业化伙伴），也可以是产学合作的产出（赞助研究产生了新知识产权）。
 
 > [!example]
-> **与 [[Innovation Ecosystem]] 的关系**：创新生态系统是产学合作所处的更广泛的制度环境——包括大学、企业、政府、风投机构和人才市场之间的互动网络。产学合作是创新生态系统内部的特定互动形式，而 [[Triple Helix]] 模型为理解这种互动提供了制度层面的理论框架。
+> **与 [[Innovation Ecosystem]] 的关系** 创新生态系统是产学合作所处的更广泛的制度环境——包括大学、企业、政府、风投机构和人才市场之间的互动网络。产学合作是创新生态系统内部的特定互动形式，而 [[Triple Helix]] 模型为理解这种互动提供了制度层面的理论框架。
 
 > [!example]
 > **产学合作中的专业角色与能力**
@@ -170,7 +170,7 @@ updated: 2026-06-05
 > - 二战后，Vannevar Bush 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调了[[Blue Skies Research|基础研究]]和开放式研究在美国的战略重要性，催生了国家科学基金会（[[National Science Foundation|NSF]]）和国防部对大学基础研究的支持（p.13）
 > - 近几十年来，"界面"上的创新速度加快，产生了大量的回报（p.4）
 - 1980 年代后，在冷战结束、[[Corporate R&D Labs|企业中央研发实验室]]衰落和全球竞争加剧的背景下，大学经历了从与产业"脱钩"到重新"嵌入"[[Systems of Innovation|创新系统]]的转变。美国 1980 年 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 给予大学对联邦资助研究成果的知识产权所有权；英国 1983 年取消 British Technology Group 对大学 IP 的垄断、1993 年发布 *Realising Our Potential* 白皮书；中国 1993 年通过《科学技术进步法》建立了相当于 Bayh-Dole 的制度框架([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.38–41]])
-- 2000 年代后，大学日益深入地嵌入创新系统，"寻求积极促进互动和溢出效应以连接研究与应用和商业化，承担起催化和推动经济和社会发展的角色"（Youtie & Shapira, 2008, p.1189，引自 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.42]]）。这催生了正式的制度化的[[Third Mission (Universities)|大学第三使命]]([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.41–44]])
+- 2000 年代后，大学日益深入地嵌入创新系统，"寻求积极促进互动和溢出效应以连接研究与应用和商业化，承担起催化和推动经济和社会发展的角色"（Youtie & Shapira, 2008, p.1189，引自 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.42]]）。这催生了正式的制度化的[[Third Mission|大学第三使命]]([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.41–44]])
 - 2019 年，牛津大学与 [[University Industry Demonstration Partnership|UIDP]] 联合举办首届 [[Oxford UIDP Summit 2019]]，汇集 149 名产学政高层代表。峰会识别了政策环境的根本转向——从"资助科学"转向"催化影响"，美英欧的科学政策日益强调"有影响的知识"（knowledge with impact）。英国在 2021/22 前的四年期间追加 47 亿英镑科学预算，大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund|ISCF]]）投入产业主导的研究与创新优先领域；美国通过 [[ROI Initiative for Unleashing American Innovation]] 致力于最大化联邦约 1,500 亿美元年度研发投资的价值转化([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.5-7]])
 - 同期，产学互动的规模大幅增长：美国大学来自产业的研发资金从 1990 年的 22 亿美元增至 2022 年的 57 亿美元（按 2022 年不变价）；英国大学[[Knowledge Transfer|知识转移]]活动收入从 2004 年的 43 亿美元增至 2022 年的 87 亿美元([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])
 - 2023 年，ODwyer、Filieri 和 OMalley 基于爱尔兰 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 制药产学合作网络的[[Case Study|案例研究]]，提出了产学合作演化的 四阶段模型，胚胎期（正式合作前）、启动期（第 1–3 年）、参与期（第 4–7 年）、确立期（第 8 年至今）。该模型的核心贡献是揭示了障碍和促进因素的**时间维度** 强不信任和知识泄露恐惧主导胚胎期，知识产权协议缺失主导启动期，信任演化和互惠性主导参与期。政府资助的均等分配和协作式知识产权协议的制定被识别为两个关键突破机制[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(ODwyer et al., 2023)]]
@@ -226,12 +226,12 @@ updated: 2026-06-05
 - **研究生奖学金与联合培养**
 - **原型开发与测试服务** 利用大学设施进行产品测试
 - **联合开发物理设施** 共同投资实验室、中试车间等
-- **培训与[[Executive Education|高管教育]]**：为企业员工提供[[Further Education|继续教育]]。高管教育处于大学与产业的界面上，既是产学合作的产物，也是深化合作关系的入口。定制化高管教育项目将大学的前沿研究翻译为产业可用的知识框架，为更长期的研究合作和人才合作奠定信任基础([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al., 2025, pp.155-170]])
+- **培训与[[Executive Education|高管教育]]** 为企业员工提供[[Further Education|继续教育]]。高管教育处于大学与产业的界面上，既是产学合作的产物，也是深化合作关系的入口。定制化高管教育项目将大学的前沿研究翻译为产业可用的知识框架，为更长期的研究合作和人才合作奠定信任基础([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al., 2025, pp.155-170]])
 - **人员交流（people exchange）** 实习、联合聘任（[[Joint Faculty Appointments|joint appointments]]）、借调（secondments）
-- **共同选址**（[[University-Industry Co-location|co-location]]）：产业人员在大学校园内专用空间中与大学研究人员共同开展合作或独立研究。通过缩短物理距离来降低沟通和文化壁垒，促进思想交流——典型案例包括联合利华在瓦赫宁根大学的 Hive 中心（500 名员工驻校）和 Mars 在 UC Davis 的 MARI 研究院([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, pp.317–318]])
+- **共同选址（[[University-Industry Co-location|co-location]]）** 产业人员在大学校园内专用空间中与大学研究人员共同开展合作或独立研究。通过缩短物理距离来降低沟通和文化壁垒，促进思想交流——典型案例包括联合利华在瓦赫宁根大学的 Hive 中心（500 名员工驻校）和 Mars 在 UC Davis 的 MARI 研究院([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, pp.317–318]])
 - **非正式互动** 网络活动、联合参加会议、邀请企业进校园讲座——这些活动对建立社会关系和促进隐性知识流动至关重要
 
-> 在互动层次上，UIDP（2012）通过 [[Partnership Continuum|伙伴关系连续体]] 将每个合作领域内的互动区分为三个层级：交易（Transaction）——战术性的价值交换；协作（Collaboration）——双方分享想法预期互惠；联盟（Alliance）——共享愿景、长期实质性承诺。这三个层级不是线性的阶段模型——合作可以从任何层级开始，也可以在不同层级之间双向移动。详见 [[Partnership Continuum]]([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, p.7]])。Perkmann 和 Salter（2012）则按价值主张区分了四种合作模式：创意实验室（吸引新伙伴、建立关系）、重大挑战协作（适合通过联合体或中心组织）、扩展工作台（解决近期问题）、深度探索（长期产业资助大学研究中心）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.45–46]])。
+> 在互动层次上，UIDP（2012）通过 [[Partnership Continuum|伙伴关系连续体]] 将每个合作领域内的互动区分为三个层级：交易（Transaction）——战术性的价值交换；协作（Collaboration）——双方分享想法预期互惠；联盟（Alliance）——共享愿景、长期实质性承诺。这三个层级不是线性的阶段模型——合作可以从任何层级开始，也可以在不同层级之间双向移动。详见 [[Partnership Continuum]]([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, p.7]])。Perkmann & Salter（2012）则按价值主张区分了四种合作模式：创意实验室（吸引新伙伴、建立关系）、重大挑战协作（适合通过联合体或中心组织）、扩展工作台（解决近期问题）、深度探索（长期产业资助大学研究中心）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.45–46]])。
 
 > 关系型互动（relational）已取代交易型互动（transactional）成为主导——这反映了隐性知识在思想和[[Technology Transfer|技术转移]]中的关键作用（Schartinger et al., 2002）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。大企业也经历了从大量零散学术互动向少数战略性大学伙伴集中的转变([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.44–45]])。
 
@@ -283,9 +283,9 @@ updated: 2026-06-05
 
 **共同选址** 共同选址通过持续面对面互动建立信任。疫情后调查显示面对面互动在伙伴关系建立中具有不可替代的价值。[[Schlegel-UW Research Institute for Aging|RIA]] 是共同选址的典型案例——临床医生、科学家和工程师在同一物理空间中并肩工作，研究者和终端用户之间的即时反馈循环加速了从研究到应用的转化([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249, 251–254]])。
 
-**[[Research Security|研究安全]]支持**：在地缘政治紧张背景下，[[Research Security|研究安全]]成为产学合作中不可回避的维度。大学需要通过专门的制度性支持团队（如滑铁卢大学的"保障研究"团队）来管理国际研究合作中的安全风险，在透明性、可预测性、[[Academic Freedom|学术自由]]和开放科学之间寻求平衡，使安全从"阻碍合作的壁垒"转化为"促进信任的机制"([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])。
+**[[Research Security|研究安全]]支持** 在地缘政治紧张背景下，[[Research Security|研究安全]]成为产学合作中不可回避的维度。大学需要通过专门的制度性支持团队（如滑铁卢大学的"保障研究"团队）来管理国际研究合作中的安全风险，在透明性、可预测性、[[Academic Freedom|学术自由]]和开放科学之间寻求平衡，使安全从"阻碍合作的壁垒"转化为"促进信任的机制"([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])。
 
-**[[Cooperative Education|合作教育]]文化**：[[Cooperative Education|合作教育]]（co-op）文化为产学合作提供了制度基础——学生工学交替的模式使产学互动成为大学日常运作的一部分，降低了教师对产业合作的心理门槛。滑铁卢大学自 1959 年建校起就将合作教育作为核心模式，与[[Inventor-Owned IP Policy (University of Waterloo)|发明人自有知识产权政策]]共同构成了有利于产学合作的制度生态([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.242–243, 254]])。
+**[[Cooperative Education|合作教育]]文化** [[Cooperative Education|合作教育]]（co-op）文化为产学合作提供了制度基础——学生工学交替的模式使产学互动成为大学日常运作的一部分，降低了教师对产业合作的心理门槛。滑铁卢大学自 1959 年建校起就将合作教育作为核心模式，与[[University of Waterloo Inventor-Owned IP Policy|发明人自有知识产权政策]]共同构成了有利于产学合作的制度生态([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.242–243, 254]])。
 
 > [!warning]
 > 需要注意的是，产业赞助研究（[[Sponsored Research Agreement|sponsored research]]）虽然属于合同研究的一种，但几乎从不催生[[University Spin-Out|大学衍生企业]]。原因在于赞助协议中的知识产权（IP）独占安排——企业要求排他性使用权或商业化权利、限定[[Research Scope|研究范围]]为不足以独立成为产品的一小块拼图、并在衍生企业中保留治理权——构成了一颗"IP 毒丸"，使衍生企业无法进入更广泛的资本市场，从而削弱了研究人员的创业动力([[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp.143-144]])。详见 [[University Spin-Out]]。
@@ -304,7 +304,7 @@ updated: 2026-06-05
 
 ### 联盟、联合体与组织化参与
 
-当产学合作从单个项目扩展到跨越多个实验室、院系甚至多所大学时，单纯的项目管理已不足以支撑。Hoffman、Radasch 和 Thorsell（2025）区分了两种更高级的组织形式（pp.103–104）：
+当产学合作从单个项目扩展到跨越多个实验室、院系甚至多所大学时，单纯的项目管理已不足以支撑。Hoffman、Radasch & Thorsell（2025）区分了两种更高级的组织形式（pp.103–104）：
 
 > [!info]
 > - **产学联盟（UI Alliance）** 企业与大学之间的双边综合伙伴关系——当合作"大于单个研究者或实验室"、同时覆盖大学和企业的多个部分时，关系被视为联盟，需要集中化管理。联盟涵盖赞助研究、学生培养、设施共享和政府资助联合申请等多重互动
@@ -326,7 +326,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 三种成功要素被识别为任何联盟与联合体的基础（pp.105–108）：
 - **价值主张** 必须从企业角度定义、能在"电梯上升的短时间内讲清楚"。最常见的问题是：一线技术赞助人和大学教授清楚合作价值，但预算的真正决策者（企业高管层）不清楚
 - **关系经理** 双方都需要有明确责任的人认领关系，通过定期、不可跳过的会议维持对话。关系经理还需要理解对方的预算和决策日历——企业预算周期往往与大学学术日历冲突
-- **[[Master Agreement|主协议]]（Master Agreement）**：覆盖知识产权归属与使用、赔偿、治理结构、出版、保密等关键条款。理想的主协议长期不变，每隔几年审查一次以适应新法律。已有主协议的企业可以在年底未花完预算时快速拨款给大学——这是主协议的一个常被低估的价值
+- **[[Master Agreement|主协议]]（Master Agreement）** 覆盖知识产权归属与使用、赔偿、治理结构、出版、保密等关键条款。理想的主协议长期不变，每隔几年审查一次以适应新法律。已有主协议的企业可以在年底未花完预算时快速拨款给大学——这是主协议的一个常被低估的价值
 
 ### 障碍与促进因素的动态演化
 
@@ -430,11 +430,11 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 ## 理论基础
 
 > [!tip]-
-> - [[Triple Helix]] — Etzkowitz 和 Leydesdorff（1995）将大学-产业-政府之间的反馈循环理解为相互支撑的三重螺旋。产学合作是 Triple Helix 中大学-产业这一边的具体互动形式，其运作深受政府政策（如 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、[[National Science Foundation|NSF]] 资助机制）的塑造（p.13）
+> - [[Triple Helix]] — Etzkowitz & Leydesdorff（1995）将大学-产业-政府之间的反馈循环理解为相互支撑的三重螺旋。产学合作是 Triple Helix 中大学-产业这一边的具体互动形式，其运作深受政府政策（如 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]、[[National Science Foundation|NSF]] 资助机制）的塑造（p.13）
 > - [[Innovation Ecosystem]] — 产学合作发生在创新生态系统内部；大学作为生态系统的"锚点"，通过与企业和其他机构的互动催化知识创造和商业化（pp.12–13）
 > - Kerr 的 [[Multi-University]] 概念（2001）— 多元大学的三大使命（研究、教学、公共服务）恰好对应产学合作的三重回报（研究与学术、教育与学习、公共效益），同时财务资源和声誉是维持多元大学运转的[[Necessary and Sufficient Conditions|必要条件]]（pp.5–7）
 > - [[Values Alignment Model|价值对齐模型]] — [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.190–191)]]提出以促进者（如 [[Academic Health System|AHS]]）为枢纽，通过终端用户中心的透镜重新对齐大学、产业和医院各方的优先差异与 [[Return on Investment|ROI]] 定义。该模型为理解产学合作中目标对齐的操作机制提供了框架
-> - [[King-Persily Model|King-Persily 模型]] — King 和 Persily（2019）提出通过独立第三方委员会解耦研究者对产业数据的完全访问，解决产学合作中的数据治理与专有信息保护矛盾([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.188–189]])
+> - [[King-Persily Model|King-Persily 模型]] — King & Persily（2019）提出通过独立第三方委员会解耦研究者对产业数据的完全访问，解决产学合作中的数据治理与专有信息保护矛盾([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.188–189]])
 > - 合作光谱 — Swick 和 Jones（2025, p.187, Fig. 10.4）从创新来源和伙伴角色的角度补充了另一种视角：合作从"交易型"（产业出创新、大学出场景）到"创新型"（大学出创新、产业出规模化能力）。详见 [[Partnership Continuum]]
 
 ---
@@ -470,18 +470,18 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 > 产学合作面临深层结构性挑战：
 
 - **治理模式差异** 美国顶尖大学多有一百年以上历史，采用教师与行政之间的"共享治理"（shared governance），作为非营利法人运作；主导企业多在近五十年内成立，以营利为目的，上市公司需对股东负责。初创企业通常由创始人和风投投资者持有（pp.8–9）
-- **[[Academic Freedom|学术自由]]与知识产权控制的张力**：大学重视学术自由（academic freedom），教职员工和学生有追求个人兴趣的自主权，大学在信息、人员和创意上"具有渗透性"（porous）；企业则限制有价值的知识产权——发明、数据、软件、出版物和媒体的流动（pp.8–9）。这一差异可归因于"提升声誉的工作相对于提升商业化的工作的相对重要性"（p.9）
+- **[[Academic Freedom|学术自由]]与知识产权控制的张力** 大学重视学术自由（academic freedom），教职员工和学生有追求个人兴趣的自主权，大学在信息、人员和创意上"具有渗透性"（porous）；企业则限制有价值的知识产权——发明、数据、软件、出版物和媒体的流动（pp.8–9）。这一差异可归因于"提升声誉的工作相对于提升商业化的工作的相对重要性"（p.9）
 - **谈判耗时且可能无果** 每个协商事项都可能涉及大学内部多方（教师项目负责人、院系、合同与拨款部门、技术许可办公室）和企业内部多方（研究伙伴、管理层、合同部门等），导致谈判耗费大量时间。有些谈判因目标上的硬性分歧或一方无法满足另一方的预期而永远无法完成（pp.9–10）
 - **IP 利益的系统性冲突** 大学与产业在知识产权上的结构性张力源于组织使命差异。大学以知识传播和发表为核心使命，产业以市场竞争优势和股东回报为目标。这一差异在 IP 谈判中具体化为四个维度的对立：大学要求发表不可延迟而产业要求发表前审查可专利主题；大学保留 IP 所有权而产业希望获得广泛权利；大学希望协议对背景 IP（[[Background IP]], BIP）保持沉默而产业需要[[Freedom to Operate|自由实施权]]（Freedom to Operate, FTO）保证；大学期望获得研究成果的全部价值而产业期望仅为"已支付"的研究支付象征性费用([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, pp.276–277]])。更深层的矛盾在于：产学合作的研究资助覆盖的是**研究成本**而非后续发明的价值，而创新不可预测，任何由此产生的发明可能具有远超研究投入的价值（pp.276–277）。此外，"搭便车"问题——产业方有时能受益于由联邦资助机构或非营利基金会支持的研究成果——需要大学谨慎处理，避免产生"公共资源被不当用于支持私人利益"的印象（p.274）
 - **大学与企业的竞争** 与内战至一战期间大学与企业的关系不同，当今领先企业也生产、传播、处理、存储和分析信息，能够提供教育课程和项目，雇用大量博士训练的研究人员。大学和企业"作为依赖声誉和信息收入的企业，已经变得更加相似"（p.10）
-- **价值观冲突的批评** 有论者批评大学为追求利润丰厚的产业关系而牺牲自身价值。Washburn（2005）在 [[University, Inc. (Washburn, 2005)|University, Inc.]] 中写道："功利主义、市场模式的大学的出现，加上要求学校推动国家和区域经济增长的响亮呼声，现在威胁要抹杀学术研究文化的独特性"（p.10）
-- **"学术纯洁性"的[[Cultural Barrier|文化障碍]]**：大学如果缺乏[[Technology Transfer|技术转移]]经验，可能对产业伙伴持怀疑态度。"学术纯洁性"（academic purity）的传统至今仍会在部分院校存留，限制了全校范围的产学协作。这种视角自然限制了支持活跃[[Innovation Park|研究园区]]所需的整体性合作([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.127–128]])
+- **价值观冲突的批评** 有论者批评大学为追求利润丰厚的产业关系而牺牲自身价值。Washburn（2005）在 [[University Inc|University, Inc.]] 中写道："功利主义、市场模式的大学的出现，加上要求学校推动国家和区域经济增长的响亮呼声，现在威胁要抹杀学术研究文化的独特性"（p.10）
+- **"学术纯洁性"的[[Cultural Barrier|文化障碍]]** 大学如果缺乏[[Technology Transfer|技术转移]]经验，可能对产业伙伴持怀疑态度。"学术纯洁性"（academic purity）的传统至今仍会在部分院校存留，限制了全校范围的产学协作。这种视角自然限制了支持活跃[[Innovation Park|研究园区]]所需的整体性合作([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.127–128]])
 - **长期投入与快速见效的张力** 产学合作需要长期投资心态，几乎不会有快速见效的方案。最新一代学生和早期职业工作者的优先事项不断变化，区域需要在产学合作中创造一致的激励来维持参与([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.128]])
 - **创新的高成本与薄利润** 在医疗等领域，机构的利润率极为微薄（2023 年医院利润率 −6.8% 到 12.2%），独立的创新投资——尤其商业化前景不确定的早期创新——很难获得内部资源支持。产学合作可以将创新成本在伙伴之间分摊，但前提是各方对 [[Return on Investment|ROI]] 的定义能够对齐([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.183–184]])
 - **超亚专业化与 T 型技能需求** 当代专家的超亚专业化使他们"看不到全局"，围绕志同道合者组成的团队只能产生渐进式改进。产学合作需要兼具专业深度和跨领域广度的 T 型技能人才来充当翻译者和整合者([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.185–186]])
 - **技术变革速度超出单一组织能力** 在深度学习时代，计算能力每 6 个月翻一番。投资技术以保持创新前沿是昂贵但必要的，单一组织很难独立承担这种投入速度([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.186]])
 - **新模式实验的系统性障碍** 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 指出，实施新合作模式需要克服维护现状的多重障碍——找到愿意共同承担实验风险的合适伙伴更加困难；需要说服内外部利益相关者离开传统工作方式；新模式涉及更多参与方和更复杂的协调。小型试点实验可展示解锁新价值的潜力，所有参与方应承诺定期审查、灵活调整甚至必要时终止项目([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.16-17]])
-- **[[Research Security|研究安全]]与地缘政治风险**：地缘政治紧张使产学合作面临新的安全审查维度。大学需要在保持学术开放和防止外国干预之间寻求平衡。滑铁卢大学的"保障研究"（Safeguarding Research）团队提供了一个制度化的应对模式——为研究者的国际合作关系提供持续支持和风险评估，在学术自由与安全合规之间建立可操作的中间地带([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])
+- **[[Research Security|研究安全]]与地缘政治风险** 地缘政治紧张使产学合作面临新的安全审查维度。大学需要在保持学术开放和防止外国干预之间寻求平衡。滑铁卢大学的"保障研究"（Safeguarding Research）团队提供了一个制度化的应对模式——为研究者的国际合作关系提供持续支持和风险评估，在学术自由与安全合规之间建立可操作的中间地带([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.249–250]])
 - **终身教职评审低估产学合作产出** 现行研究评估制度中，教师的工作产出几乎完全由同行评审出版物衡量，导致专利、技术转移、产业合作等商业化活动被系统性地低估——教师可以理解地认为任何不服务于出版物产出的研究活动都是浪费时间。[[Declaration on Research Assessment|DORA]] 倡导的全面评估视角——关注研究影响力而非[[Document|文献]]计量指标——为将产学合作"计入正资产"提供了改革方向。更全面的评估也有助于解决公平问题：发展产学合作耗时费力，而女性、种族化群体和残障人士在校内外面临更紧迫的时间压力([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.250–251]])
 
 ---
@@ -489,13 +489,13 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 ## 争议与批评
 
 > [!warning]
-> **Washburn（2005）的市场化批判**：在 [[University, Inc. (Washburn, 2005)|University, Inc.]] 中，Washburn 认为大学对产业资金的追求正在侵蚀学术研究的独特文化——当研究议程由企业需求而非学术好奇心驱动时，大学可能失去其作为独立[[Knowledge Production|知识生产]]者的制度价值（p.10）。
+> **Washburn（2005）的市场化批判** 在 [[University Inc|University, Inc.]] 中，Washburn 认为大学对产业资金的追求正在侵蚀学术研究的独特文化——当研究议程由企业需求而非学术好奇心驱动时，大学可能失去其作为独立[[Knowledge Production|知识生产]]者的制度价值（p.10）。
 
 > [!warning]
 > **反方观点——产业资源的不可替代性** 另一种立场认为，如果没有产业贡献的独特技能、基础设施和"活实验室"（living laboratories）的观察测试可能性，许多新颖的研究可能根本无法进行。问题不在于是否合作，而在于如何在合作中保护学术价值和公共利益（p.10）。
 
 > [!warning]
-> **[[Academic Freedom|学术自由]]与知识产权控制的持续张力**：这一张力不是偶然摩擦，而是两种制度逻辑在"界面"上相遇时的系统性产物。大学在信息、人员和创意上"具有渗透性"（porous），企业则必须限制有价值的知识产权流动。这种差异根植于"提升声誉的工作相对于提升商业化的工作的相对重要性"不同（p.9）。详见 [[Academic Freedom]]。
+> **[[Academic Freedom|学术自由]]与知识产权控制的持续张力** 这一张力不是偶然摩擦，而是两种制度逻辑在"界面"上相遇时的系统性产物。大学在信息、人员和创意上"具有渗透性"（porous），企业则必须限制有价值的知识产权流动。这种差异根植于"提升声誉的工作相对于提升商业化的工作的相对重要性"不同（p.9）。详见 [[Academic Freedom]]。
 
 ---
 
@@ -503,7 +503,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 
 > [!example]
 - IBM 与斯坦福大学合作开发无需铂等重金属的催化技术，发现了一种解聚聚对苯二甲酸乙二醇酯（PET）的方法，为回收塑料瓶和聚酯纤维提供了新途径（p.7）
-- 波音与谢菲尔德大学合作建立[[Advanced Manufacturing Research Centre (AMRC)|先进制造研究中心]]（AMRC），截至 2024 年拥有 600 多名研究人员、技术人员和支持人员，120 多个行业成员，年研究经费约 4000 万英镑（pp.7–8）
+- 波音与谢菲尔德大学合作建立[[Advanced Manufacturing Research Centre|先进制造研究中心]]（AMRC），截至 2024 年拥有 600 多名研究人员、技术人员和支持人员，120 多个行业成员，年研究经费约 4000 万英镑（pp.7–8）
 - Houston Methodist 与 Medtronic 合作开展经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的产学合作：从 2007 年起通过四轮递进式[[Clinical Trial|临床试验]]（极端风险→高风险→中等风险→低风险），将 TAVR 发展为主动脉瓣狭窄全风险谱系的标准疗法。30 天死亡率从 7.2% 降至 2.5%，2019 年 TAVR 年手术量首次超过传统外科手术([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.192–194]])
 - Mars 与加州大学戴维斯分校和阿肯色大学合作研究水稻"干湿交替"（AWD）灌溉技术，显著减少用水和温室气体排放而不降低产量（p.8）
 

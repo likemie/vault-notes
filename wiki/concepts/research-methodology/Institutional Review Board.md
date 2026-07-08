@@ -95,7 +95,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 
 1. **提交 IRB 申请** 在数据收集之前，向所在校区的 IRB 委员会提交研究方案，说明研究程序、参与者信息和风险管控措施
 2. **获得 IRB 批准** 委员会审查参与者风险程度后决定是否批准
-3. **获取参与者[[Informed Consent|知情同意]]**：在数据收集前，确保每位参与者签署[[Informed Consent|知情同意书]]
+3. **获取参与者[[Informed Consent|知情同意]]** 在数据收集前，确保每位参与者签署[[Informed Consent|知情同意书]]
 4. **获取现场许可** 同时需要获得研究场所负责人（[[Gatekeepers]]）的准入许可
 5. **持续合规** 研究过程中遵守 IRB 批准的方案，如有变更需重新报批
 
@@ -146,7 +146,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 
 ## 敏感研究中的 IRB 与正式审查的局限
 
-在[[Sensitive Research|敏感研究]]中，正式伦理审查框架的局限被暴露得尤为明显（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 209–215]], 229–230）。
+在[[Sensitive Research|敏感研究]]中，正式伦理审查框架的局限被暴露得尤为明显（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 209–215]], 229–230）。
 
 > [!claim] 情境化伦理对规则化审查的挑战
 > Simons & Usher (2000) 主张伦理是情境化的（situated）——取决于具体的地方环境和情境。普适的伦理守则和审查指南可能有帮助，但通常不解决实际问题；它们必须在具体情境的特殊性中被解释和协商。这在敏感研究中尤为关键：研究者面临的伦理困境——如[[Guilty Knowledge|有罪知识]]、[[Covert Research|隐蔽研究]]的正当性、隐私与公共利益的权衡——很少能通过事前提交 IRB 申请来预见或解决（p.230）。

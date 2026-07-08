@@ -74,7 +74,7 @@ updated: 2026-06-02
 > 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将 ROI 的清晰阐明和理解列为建立有效产学联合体的核心前提之一。峰会指出，联合体必须能够清晰区分**产出（outputs）**与**创造和获取的价值（value created and captured）**，并管理各方对合作可能产生什么回报的期望。仅计数产出（会议次数、技术报告、专利数量）并不说明合作是否产生了实际效果——许多产出可能并未为伙伴组织创造任何价值([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.11-12, 23-24]])。
 
 > [!info] 影响的额外性
-> 评估[[University-Industry Collaboration|产学合作]]的 ROI 还必须考虑**[[Counterfactual|反事实]]**（counterfactual）——在没有这些投资的情况下会实现什么结果和影响。这一概念被称为影响的**额外性（additionality）**。峰会指出，评估如果没有回答"这些影响在合作不存在的情况下是否仍会发生"，就无法确定合作的真正价值。这一原则与 [[University Industry Demonstration Partnership|UIDP]] 2017 年发布的 Collaboration Metrics Guide 一致——该指南强调指标需要关注评估**结果和影响**，而非仅关注投入（pp.23-24）。
+> 评估[[University-Industry Collaboration|产学合作]]的 ROI 还必须考虑**[[Counterfactual|反事实]]（counterfactual）**——在没有这些投资的情况下会实现什么结果和影响。这一概念被称为影响的**额外性（additionality）**。峰会指出，评估如果没有回答"这些影响在合作不存在的情况下是否仍会发生"，就无法确定合作的真正价值。这一原则与 [[University Industry Demonstration Partnership|UIDP]] 2017 年发布的 Collaboration Metrics Guide 一致——该指南强调指标需要关注评估**结果和影响**，而非仅关注投入（pp.23-24）。
 
 > [!example] UIDP Collaboration Metrics 的 ROI 视角
 > UIDP 指南的核心原则包括：指标需要根据利益相关者定制并成为叙事的一部分；组织应关心对伙伴重要的指标而非仅关心对自身有价值的指标——因为成功的伙伴关系需要所有参与方的持续支持和承诺；指标应被纳入整体叙事中，使伙伴关系"活起来"，提供仅靠数字无法捕捉的合作具体理由（pp.23-24）。
@@ -86,5 +86,5 @@ updated: 2026-06-02
 > [!note]-
 > 在国际[[University-Industry Collaboration|产学合作]]中，ROI 的定义分歧更加显著。美国公立与赠地大学协会（Association of Public and Land-Grant Universities, APLU, 2022）的访谈发现，大学寻求"在产生产业价值的领域进行科学发现"的伙伴，而产业则以 ROI 评估合作（p.311–312）。双方对价值的理解偏差"更多来自感知而非现实"，增加沟通和明确共同激励机制可以缓解这一问题（p.312）。
 
-> 这一发现与 Swick 和 Jones（2025）的核心主张形成互补：ROI 差异是结构性存在的，关键在于通过透明沟通将其从障碍转化为驱动力。在国际情境中，沟通的额外成本（语言、时区、文化差异）使得这一转化更加困难，但也更加必要。
+> 这一发现与 Swick & Jones（2025）的核心主张形成互补：ROI 差异是结构性存在的，关键在于通过透明沟通将其从障碍转化为驱动力。在国际情境中，沟通的额外成本（语言、时区、文化差异）使得这一转化更加困难，但也更加必要。
 

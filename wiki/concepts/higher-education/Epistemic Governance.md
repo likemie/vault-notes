@@ -126,7 +126,7 @@ updated: 2026-06-26
 
 > [!warning]
 > - **科学的政治化风险** 知识的政治化（politicization of science）是 [[Scientization of Politics|政策的科学化]] 的内在悖论——政策制定者借用科学权威支撑政治行动，科学家则在政治兴趣中寻找填补缩减资金线的机会，研究在精准性、碎片化和情境依赖性的特点使其易受操纵、争议甚至压制（Cozzens & Woodhouse, 1995; Klees & Edwards, 2014，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, pp.154–155]]）
-> - **[[Epistemic Drift|认识漂移]]**：研究者将自身兴趣与外部需求对齐，牺牲内部学术议程（Elzinga, 1997，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.155]]）
+> - **[[Epistemic Drift|认识漂移]]** 研究者将自身兴趣与外部需求对齐，牺牲内部学术议程（Elzinga, 1997，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.155]]）
 > - **选择性引用** 政策制定者可能极其选择性地引用科学证据以支撑自身议程（Steiner-Khamsi et al., 2020，引自）
 > - **伪科学与反科学** Trump 和 Bolsonaro 等民粹领导人对气候变化科学共识和公共卫生专业知识的拒绝，同时提供"替代事实"，是科学-政治关系恶化的极端案例（Barrera et al., 2020; Hopf et al., 2019，引自）
 

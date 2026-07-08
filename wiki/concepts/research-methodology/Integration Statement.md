@@ -53,13 +53,13 @@ updated: 2026-06-02
 > [!tip]-
 > 整合陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.251–252]])。
 
-**[[Convergent Design|聚敛式设计]]**：
+**[[Convergent Design|聚敛式设计]]**
 > "integration involved comparing the results from the quantitative and qualitative data by merging so that a more complete understanding emerges than provided by the quantitative or the qualitative results alone."
 
-**[[Explanatory Sequential Design|解释性序列设计]]**：
+**[[Explanatory Sequential Design|解释性序列设计]]**
 > "Integration involved explaining the results of the initial quantitative phase by connecting or following up the quantitative phase with a qualitative phase. This connecting would include what questions need further probing and what individuals can help best explain the quantitative results."
 
-**[[Exploratory Sequential Design|探索性序列设计]]**：
+**[[Exploratory Sequential Design|探索性序列设计]]**
 > "Integration involved exploring initially by gathering qualitative data, analyzing it, and using the qualitative results for building a culturally specific measure or instrument for quantitative testing with a large sample."
 
 > [!example]

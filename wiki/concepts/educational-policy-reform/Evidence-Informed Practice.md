@@ -71,7 +71,7 @@ updated: '2026-05-23'
 
 [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p.129)]] 把 EIP 概括成四类资源的整合：
 
-1. **[[Professional Judgment|专业判断]]**：教育者基于经验、价值观和情境理解作出的判断
+1. **[[Professional Judgment|专业判断]]** 教育者基于经验、价值观和情境理解作出的判断
 2. **系统层面数据** 学校、学区、州/省或国家的管理与评估数据
 3. **课堂数据**[[Formative Assessment|形成性评估]]、观察、学生[[Homework|作业]]等现场信息
 4. **研究证据** 来自学术研究的发现，包括但不限于[[Experimental Research|实验研究]]
@@ -133,7 +133,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 
 > [!success] 实证发现
 > - **教师间传播占主导** 教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
-> - **实践产生的证据使用比[[Research Utilization|研究使用]]更普遍**：即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
+> - **实践产生的证据使用比[[Research Utilization|研究使用]]更普遍** 即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
 > - **同伴推荐和本地试点仍然重要** 教育产品消费者报告很少使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些来源更能回答实施、成本和使用体验问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 > - **复杂改革需要多目标解释**[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 > - **EIP 的积极影响已有初步证据，但仍不足** 关于 EIP 对学校改进的影响已有一些支持性发现，但 Dagenais et al. (2012) 仍被概括为“证据很少”([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.131]])。

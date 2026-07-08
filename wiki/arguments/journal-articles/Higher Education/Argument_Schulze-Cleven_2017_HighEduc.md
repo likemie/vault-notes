@@ -64,7 +64,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Research Excellence Framework]]"
-  - "[[Excellence Initiative (Germany)]]"
+  - "[[German Excellence Initiative|Excellence Initiative (Germany)]]"
   - "[[CNRS]]"
   - "[[National Science Foundation]]"
 related_arguments: []
@@ -184,7 +184,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 
 从 1975 年 ISI 发布第一个 Journal Citation Report 引入影响因子，到 2003 年上海交通大学的 [[Academic Ranking of World Universities]] 首次发布全球大学排名，再到 2004 年 Times Higher Education 跟进，指标化评估已经从学术交流的辅助工具演变成为高等教育治理的核心基础设施(pp.801–802)。
 
-这些评估工具不仅"测量"现实，更在"制造"现实。当英国政府将 [[Research Excellence Framework]]（REF）的评估结果直接与拨款挂钩时，大学的战略行为发生了系统性改变，院系开始按照 REF 的游戏规则来招聘、晋升和配置资源。德国的Excellence Initiative 更为戏剧性，少数被认定为卓越的大学获得了巨额额外资助，而未被选上的大学则在声望和资源上遭受双重打击。详见 [[Research Excellence Framework]] 和 [[Excellence Initiative (Germany)]]。
+这些评估工具不仅"测量"现实，更在"制造"现实。当英国政府将 [[Research Excellence Framework]]（REF）的评估结果直接与拨款挂钩时，大学的战略行为发生了系统性改变，院系开始按照 REF 的游戏规则来招聘、晋升和配置资源。德国的Excellence Initiative 更为戏剧性，少数被认定为卓越的大学获得了巨额额外资助，而未被选上的大学则在声望和资源上遭受双重打击。详见 [[Research Excellence Framework]] 和 [[German Excellence Initiative|Excellence Initiative (Germany)]]。
 
 > [!example] 一个院系会议的场景，指标如何塑造日常学术生活
 > 设想一所英国大学社会学系的年度规划会议。系主任展示了一组数据："我们 REF 的 4* 产出占比是 32%，Russell Group 同行的中位数是 38%。如果我们明年达不到 36%，学院预算可能削减 15%。"接下来的讨论不是"哪些研究方向最有学术价值"，而是"哪些人最可能在 top journal 发表、哪些人的引用数据更好看"。教授们开始盘算是否要放弃自己深耕多年的冷门领域，转向更容易在高影响因子期刊发表的"热点话题"。年轻的讲师们感到焦虑，他们在地方性期刊上发表的社区研究根本无法进入 REF 的评分框架。
@@ -334,7 +334,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 > - **等级被竞争固化而非消解** 市场化和评估治理倾向于**强化现有的等级而非松动它们**。精英机构利用既有的资源和声望优势，在公平竞争的规则中进一步扩大领先，规则本身就偏向已有优势的玩家(pp.798–799, 801–802)
 > - **排名和指标具有履行性，它们制造所测量的现象**[[Global Universities Rankings|全球大学排名]]不是对学术质量的被动"反映"，而是主动**重塑**了什么是好大学、什么是好研究、什么是好的学术生涯。评估工具同时完成三重操作：分配资源、制造合法性、把不平等的结果归咎于落选者不够卓越(pp.801–802, 805–807)
 > - **新封建主义提供了超越市场逻辑的分析视角** 学术等级不仅通过市场竞争维持，更通过忠诚联盟、群体特权、制度声望展示和准国家化权力网络来巩固，这些机制更接近封建制的运作逻辑而非自由市场(pp.798–799, 805–806)
-> - **三种[[Theoretical Perspective|理论取向]]互补大于对立**：制度主义的"规则"视角、马克思主义的"谁受益"视角、话语分析的"为什么接受"视角，不是三选一，而是三个光源照亮同一复杂对象的三个面。这一[[Analytic Framework|分析框架]]的核心贡献不在于选边站，而在于展示了这三种光源如何可以被组合使用(pp.807–809)
+> - **三种[[Theoretical Perspective|理论取向]]互补大于对立** 制度主义的"规则"视角、马克思主义的"谁受益"视角、话语分析的"为什么接受"视角，不是三选一，而是三个光源照亮同一复杂对象的三个面。这一[[Analytic Framework|分析框架]]的核心贡献不在于选边站，而在于展示了这三种光源如何可以被组合使用(pp.807–809)
 
 ---
 

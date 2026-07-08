@@ -1,5 +1,5 @@
 ---
-title: "Third Mission (Universities)"
+title: "Third Mission"
 aliases:
   - "大学第三使命"
   - "第三使命"
@@ -42,7 +42,7 @@ created: 2026-05-27
 updated: 2026-05-30
 ---
 
-# Third Mission (Universities)
+# Third Mission
 
 ## 定义
 

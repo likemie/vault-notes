@@ -77,7 +77,7 @@ updated: 2026-07-02
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> - 个案研究不追求统计代表性的"普遍化"（generalization），但追求在地方性知识基础上"以小见大"，建立**社会意义的理论推论**（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - 个案研究不追求统计代表性的"普遍化"（generalization），但追求在地方性知识基础上"以小见大"，建立**社会意义的理论推论（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）**
 > - 研究逻辑：宏观社会过程会以不同方式投射到不同个人身上，影响其生命历程并反映在个人意义建构中——因此可以通过对少数典型个案的深度考察，发现超越个案的社会机制（，引生活史社会学传统）
 > - Yin（2009）从方法论角度提出，个案研究结果可以通过**复制逻辑（replication logic）**推广到更广泛的理论——类似于[[Experimental Research|实验研究]]中通过重复实验来验证理论的方式。当[[Qualitative Research|质性研究]]者研究额外的案例并将发现应用于新案例时，推广就发生了。前提是需要对质性程序进行详细记录，包括案例研究协议和全面的案例研究数据库（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.215）。
 > - Stake（1995）则从读者视角提出[[Naturalistic Generalization|自然主义概括]]——个案研究的丰富描述为读者提供了判断研究发现与自身情境相似性的基础，推广的责任从研究者转移到了读者。
@@ -113,7 +113,7 @@ updated: 2026-07-02
 >
 > **目的抽样（Purpose Sampling）** 根据[[Research Question|研究问题]]和[[Analytic Framework|分析框架]]的需要有目的地选取能带来最大理论潜力的个案
 >
-> **[[Theoretical Sampling|理论抽样]]（[[Theoretical Sampling]]）**：围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
+> **[[Theoretical Sampling|理论抽样]]（[[Theoretical Sampling]]）** 围绕分析过程中建构理论框架的需要，在关键特征上增加个案差异性：
 > - 院系/学科背景力求差异
 > - 家庭社会经济背景力求差异
 > - 内化学校主流价值观的程度力求差异

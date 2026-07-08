@@ -105,7 +105,7 @@ updated: '2026-06-08'
 
 **四分类模型** 在双模式基础上纳入价值信念驱动力维度，形成 2×2 四分类：[[Self-Driven Mode|自主驱动者]]（目标掌控+强价值信念）、[[Opportunist Mode|机会主义者]]（目标掌控+弱价值信念）、[[Lost Mode|迷失无从者]]（直觉依赖+弱价值信念）、[[Value Conformist Mode|价值归顺者]]（直觉依赖+强价值信念）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
-**[[Cultural Barrier|文化障碍]]的二重性**：郑雅君进一步将[[Cultural Barrier|文化障碍]]厘清为两重维度——[[Cultural Disembedding|文化脱嵌]]（对物理环境和社会文化环境的全面疏离感）和[[Cultural Disorientation|文化迷失]]（场域转换造成的内在自我冲突和目标策略迷失）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+**[[Cultural Barrier|文化障碍]]的二重性** 郑雅君进一步将[[Cultural Barrier|文化障碍]]厘清为两重维度——[[Cultural Disembedding|文化脱嵌]]（对物理环境和社会文化环境的全面疏离感）和[[Cultural Disorientation|文化迷失]]（场域转换造成的内在自我冲突和目标策略迷失）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ### 方法论立场
 

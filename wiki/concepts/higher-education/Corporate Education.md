@@ -57,8 +57,8 @@ updated: 2026-05-18
 ## 概念辨析
 
 > [!example]
-> - **vs [[Further Education]]**：企业教育是继续教育的子集——专指由企业为其雇员提供或资助的教育培训。继续教育还包括非企业主体（专业协会、营利性提供商、咨询公司等）提供的培训([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.180, 190]])
-> - **vs [[Corporate University]]**：企业教育是公司所有教育培训活动的总称，涵盖从一线工人培训到高管培养的整个光谱；企业大学（CU）是企业教育中集中化、制度化程度最高的组织形式，是 MNCs 为提升培训声誉而创造的品牌化框架([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.185–186]])
+> - **vs [[Further Education]]** 企业教育是继续教育的子集——专指由企业为其雇员提供或资助的教育培训。继续教育还包括非企业主体（专业协会、营利性提供商、咨询公司等）提供的培训([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.180, 190]])
+> - **vs [[Corporate University]]** 企业教育是公司所有教育培训活动的总称，涵盖从一线工人培训到高管培养的整个光谱；企业大学（CU）是企业教育中集中化、制度化程度最高的组织形式，是 MNCs 为提升培训声誉而创造的品牌化框架([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.185–186]])
 
 ---
 
@@ -69,7 +69,7 @@ updated: 2026-05-18
 > - **软权力功能** 企业教育是[[Cultural Political Economy|文化政治经济学]]所称的"经济想象"（economic imaginary）的载体——它生产和传播关于市场如何运作、公司应该追求什么的共享认知，是市场运作的关键促成因素([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.180]])
 > - **组织嵌入性** 企业教育的形式和国际化程度与 MNC 组织类型深度挂钩——联邦型、国际型和跨国型 MNCs 分别偏好不同的培训标准化水平和权威策略。详见 [[Corporate University]] 中 MNC 类型 × CU 类型的对应分析([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.186–188]])
 > - **权威依赖性** 公司管理层虽有权力命令员工参训，但这不等同于培训被视为高质量。企业教育需借助外部权威来源（模仿高等教育、专业认证、同行评审、外包给营利性提供商）来获取合法性。四种策略详见 [[Argument_Hartmann_2022_CorporateEducation]] 第四步([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.188–191]])
-> - **[[Varieties of Capitalism|生产体制]]制约**：IVET 在协调型市场经济体（CMEs，如德国）中高度制度化，依赖行业协会、工会和政府之间的复杂非市场安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立学徒制的尝试均告失败
+> - **[[Varieties of Capitalism|生产体制]]制约** IVET 在协调型市场经济体（CMEs，如德国）中高度制度化，依赖行业协会、工会和政府之间的复杂非市场安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立学徒制的尝试均告失败
 
 ---
 

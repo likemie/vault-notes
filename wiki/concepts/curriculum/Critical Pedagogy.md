@@ -64,7 +64,7 @@ updated: 2026-06-17
 
 ## 争议与批评
 
-> [!critique] Miedama and Wardekker（1999）的根本性质疑
+> [!critique] Miedama & Wardekker（1999）的根本性质疑
 > 批判教育学可能已经过时了，它是一个死胎（stillborn child）。[[Critical Theory|批判理论]]本身可能是没有科学的科学哲学（Miedama and Wardekker, 1999: 68, 75）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011c, p. 149)]]
 
 > [!warning] 方法论批评与适用局限

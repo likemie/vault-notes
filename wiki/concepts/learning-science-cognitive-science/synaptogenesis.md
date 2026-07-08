@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-07-08
 ---
 
 ## 定义
@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 核心特征
 
 > [!abstract] 核心特征
-> - 涉及中枢神经系统中神经元和连接的**过度生产**([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.6,引用 Selemon, 2013]])
+> - 涉及中枢神经系统中神经元和连接的**过度生产([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.6,引用 Selemon, 2013]])**
 > - 这些连接随后通过[[Synaptic Pruning|突触修剪]]过程被磨炼和精炼([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.6]])
 > - 突触发生与突触修剪一起统称为**突触可塑性（Synaptic Plasticity）**，是脑可塑性的两个主要过程
 

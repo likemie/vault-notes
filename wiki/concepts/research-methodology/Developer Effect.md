@@ -67,7 +67,7 @@ updated: '2026-05-18'
 >
 > - **研究设计（实验 vs. 准实验）** 开发者的准实验比例更高（51% vs. 15%），但控制后效应仍在
 > - **结果测量类型（研究者/开发者自编 vs. 独立测量）**
-> - **[[Sample Size Determination|样本量]]**（开发者[[Study Population and Sample|研究样本]]量更小，均值 392 vs. 659）
+> - **[[Sample Size Determination|样本量]]（开发者[[Study Population and Sample|研究样本]]量更小，均值 392 vs. 659）**
 > - **年级段、学科、项目类型、交付方式、是否教育技术**
 
 
@@ -75,10 +75,10 @@ updated: '2026-05-18'
 > [[Argument_Wolf_2020_JREE|Wolf et al. (2020, pp. 442–443)]] 讨论了五种可能解释，但强调无法确定[[Causality|因果关系]]：
 >
 > 1. **选择性报告（Selective Reporting）** 开发者研究中负面效应量仅占 14%，独立研究占 20%；开发者效应量 >0.20 的占 61%，独立研究占 49%
-> 2. **[[Publication Bias|发表偏倚]]（Publication Bias）**：使用 Vevea & Hedges (1995) 权重函数模型校正后，开发者与独立研究的效应量差异从 0.115 降至 0.076，表明发表偏倚可能解释约 **66%** 的开发者效应([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 442]])
-> 3. **[[Researcher Degrees of Freedom|研究者自由度]]（Researcher Degrees of Freedom）**：开发者可能在样本选择、变量选择、案例排除等分析决策中更积极地优化结果
+> 2. **[[Publication Bias|发表偏倚]]（Publication Bias）** 使用 Vevea & Hedges (1995) 权重函数模型校正后，开发者与独立研究的效应量差异从 0.115 降至 0.076，表明发表偏倚可能解释约 **66%** 的开发者效应([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 442]])
+> 3. **[[Researcher Degrees of Freedom|研究者自由度]]（Researcher Degrees of Freedom）** 开发者可能在样本选择、变量选择、案例排除等分析决策中更积极地优化结果
 > 4. **控制组差异** 开发者研究中 86% 为"照常教学"控制组，独立研究为 80%——差异不大
-> 5. **[[Implementation Fidelity|实施忠实度]]（Treatment Fidelity）**：开发者可能在[[Categorical Funding|委托研究]]中确保更高的实施质量，但 [[What Works Clearinghouse|WWC]] 数据中无实施忠实度信息，无法检验
+> 5. **[[Implementation Fidelity|实施忠实度]]（Treatment Fidelity）** 开发者可能在[[Categorical Funding|委托研究]]中确保更高的实施质量，但 [[What Works Clearinghouse|WWC]] 数据中无实施忠实度信息，无法检验
 
 
 > [!abstract] [[Heterogeneity|异质性]]
@@ -107,9 +107,9 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **[[Causality|因果]]不确定性**：[[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 442)]] 明确承认"我们无法确定此开发者效应的来源"，研究本质上是描述性的而非[[Causality|因果性]]的
+> - **[[Causality|因果]]不确定性** [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 442)]] 明确承认"我们无法确定此开发者效应的来源"，研究本质上是描述性的而非[[Causality|因果性]]的
 > - **Vevea-Hedges 校正的局限** 该校正使用研究级平均[[Effect Size|效应量]]而非个体效应量，且对开发者研究，校正后效应量与原始效应量差异不显著
-> - **[[What Works Clearinghouse|WWC]] 数据的样本偏差**：由于联邦报告要求，独立研究中的零结果可能在 WWC 中比在其他数据源中被包含得更多
+> - **[[What Works Clearinghouse|WWC]] 数据的样本偏差** 由于联邦报告要求，独立研究中的零结果可能在 WWC 中比在其他数据源中被包含得更多
 
 ## 相关案例／政策
 

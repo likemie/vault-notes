@@ -2,7 +2,7 @@
 title: Centre for Independent Studies
 aliases:
   - 澳大利亚独立研究中心
-summary: 澳大利亚右翼保守主义游说智库，成立于1976年。该智库通过资助教育出版物、推广认知负荷理论并运作跨界政策精英（如Jennifer Buckingham），在《强劲开端》教师教育改革中实现了私人游说文献的强制消费，成为理念编排权力的典型节点。
+summary: "澳大利亚右翼保守主义游说智库，成立于1976年。该智库通过资助教育出版物、推广认知负荷理论并运作跨界政策精英（如Jennifer Buckingham），在《强劲开端》教师教育改革中实现了私人游说文献的强制消费，成为理念编排权力的典型节点。"
 type: fact
 subtype: organization
 region: australia

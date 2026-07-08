@@ -48,7 +48,7 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 status: draft
 created: 2026-06-23
-updated: 2026-06-25
+updated: 2026-07-08
 ---
 # Reliability
 
@@ -89,7 +89,7 @@ updated: 2026-06-25
 在[[Positivism|实证主义]][[Quantitative Research|量化研究]]中，有三种主要的信度类型（Carmines & Zeller, 1979）（pp.200–204）：
 
 > [!dimension] 量化信度的三种类型
-> - **信度作为稳定性**（Reliability as stability，即[[Test-Retest Reliability|重测信度]]）
+> - **信度作为稳定性（Reliability as stability，即[[Test-Retest Reliability|重测信度]]）**
 >   测量**随时间推移**和**跨相似样本**的一致性。一个可靠的漏水的水龙头每天漏水一升——可靠地漏；而一个有些天漏一升有些天漏两升的水龙头则不可靠。
 >   
 >   > [!feature] 操作要点
@@ -103,8 +103,8 @@ updated: 2026-06-25
 >   
 >   > [!feature] 两种形式
 >   > - **等价形式（equivalent forms / alternate forms）** 设计出工具的等价形式并产生相似结果。实验中的前测和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
->   > - **[[Inter-Rater Reliability|评分者间信度]]**（inter-rater reliability） 对于观察数据，通过培训课程使用视频材料确保录入数据的同等性。简单计算可用评分者间一致性百分比；Robson (2002: 341) 提出了更复杂的方法。
-> - **信度作为[[Internal Consistency|内部一致性]]**（Reliability as internal consistency）
+>   > - **[[Inter-Rater Reliability|评分者间信度]]（inter-rater reliability）** 对于观察数据，通过培训课程使用视频材料确保录入数据的同等性。简单计算可用评分者间一致性百分比；Robson (2002: 341) 提出了更复杂的方法。
+> - **信度作为[[Internal Consistency|内部一致性]]（Reliability as internal consistency）**
 >   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过半分法和 Cronbach alpha 系数来衡量多项目量表中条目之间的一致性。详细公式、操作流程和解读标准见 [[Internal Consistency|内部一致性]] 条目。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 200–204)]]
@@ -134,10 +134,10 @@ updated: 2026-06-25
 
 ### 质性信度：可依赖性与可信赖性
 
-[[Qualitative Research|质性研究]]中"信度"一词的恰当性是**有争议的**（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）。Lincoln & Guba (1985) 偏好用**可信性、中立性、可确认性、可依赖性、一致性、适用性、[[Trustworthiness|可信赖性]]和可迁移性**来替代"信度"——尤其是**可依赖性（dependability）**概念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 204–207)]]
+[[Qualitative Research|质性研究]]中"信度"一词的恰当性是**有争议的（Winter, 2000; Stenbacka, 2001; Golafshani, 2003）**。Lincoln & Guba (1985) 偏好用**可信性、中立性、可确认性、可依赖性、一致性、适用性、[[Trustworthiness|可信赖性]]和可迁移性**来替代"信度"——尤其是**可依赖性（dependability）**概念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 204–207)]]
 
 > [!tension] [[Qualitative Reliability|质性信度]]的两个立场
-> - **量化信度标准对质性研究不可行** LeCompte & Preissle (1993: 332) 认为量化研究的信度标准根本无法用于质性研究——量化[[Hypothesis|研究假设]]**可复制性**的可能，但这**扭曲了现象的自然发生**（[[Ecological Validity|生态效度]]）。自然主义研究的前提恰恰包括情境的**独特性和特殊性**——研究不能被复制，这正是其优势而非劣势。
+> - **量化信度标准对质性研究不可行** LeCompte & Preissle (1993: 332) 认为量化研究的信度标准根本无法用于质性研究——量化[[Hypothesis|研究假设]]**可复制性**的可能，但这**扭曲了现象的自然发生（[[Ecological Validity|生态效度]]）**。自然主义研究的前提恰恰包括情境的**独特性和特殊性**——研究不能被复制，这正是其优势而非劣势。
 > - **质性研究仍需复制要素** LeCompte & Preissle (1993: 334) 同时主张质性研究应努力在以下方面进行复制：研究者的地位位置、信息提供者/受访者选择、社会情境和条件、分析[[Construct|构念]]和前提、资料收集和分析方法。
 
 Bogdan & Biklen (1992: 48) 提出了质性信度的一个[[Definition of Terms|操作性定义]]：**"研究者记录为数据的内容与在被研究的自然情境中实际发生的内容之间的吻合度"**——即一定程度的准确性和覆盖面的全面性。但这**不是追求一致性**——两位研究者研究同一情境可能得出截然不同但两套发现都可能可靠的发现。经典例证是 Nissan 英国汽车工厂研究（p.206）：Wickens (1987) 发现了"良性循环"（灵活性、团队合作、质量意识），而 Garrahan & Stewart (1992) 发现了"恶性循环"（剥削、监视、控制）——**同一现实的两个版本共存，因为现实是多层次的**。
@@ -171,4 +171,4 @@ Denzin & Lincoln (1994) 认为质性研究中信度作为可复制性可通过�
 ## 争议与批评
 
 > [!conclusion] 信度争论的结论：目的的适切性
-> 量化与[[Qualitative Research|质性研究]]中的信度争论排练了[[Paradigm Wars|范式战争]]。量化测量被批评为"过程的复杂和精细化与概念的粗糙"相结合（Ruddock, 1981），且未能区分教育的和统计的显著性（Eisner, 1985）；质性方法论虽具有即时性、灵活性、真实性和坦诚性，却被批评为印象主义、有偏、不可推广和主观（Ruddock, 1981）。但这是一个无益的辩论——问题在于**目的的适切性**（[[Fitness for Purpose]]）。量化方法论中的信度标准与质性方法论中的信度标准不同：在质性方法论中，信度包括对真实生活的忠实、情境特定性、真实性、全面性、细节、诚实、回应的深度和对受访者的意义性（p.207）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+> 量化与[[Qualitative Research|质性研究]]中的信度争论排练了[[Paradigm Wars|范式战争]]。量化测量被批评为"过程的复杂和精细化与概念的粗糙"相结合（Ruddock, 1981），且未能区分教育的和统计的显著性（Eisner, 1985）；质性方法论虽具有即时性、灵活性、真实性和坦诚性，却被批评为印象主义、有偏、不可推广和主观（Ruddock, 1981）。但这是一个无益的辩论——问题在于**目的的适切性（[[Fitness for Purpose]]）**。量化方法论中的信度标准与质性方法论中的信度标准不同：在质性方法论中，信度包括对真实生活的忠实、情境特定性、真实性、全面性、细节、诚实、回应的深度和对受访者的意义性（p.207）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]

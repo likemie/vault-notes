@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-07-08
 ---
 
 # Otherhood
@@ -41,7 +41,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> Otherhood 指组织为其他行动者（other actors）、非行动者实体（non-actor entities）和现代性原则（principles of modernity）行使代理权（agency）的社会过程（Meyer & Jepperson, 2000; Meyer, 2019; Zapp, 2020a）。该概念由 Meyer 和 Jepperson（2000）在分析现代社会中的能动者建构时提出，Zapp（2020a, 2022）将其系统应用于分析大学在全球治理中的角色。Otherhood 是 [[Organizational Actorhood]] 的一种特殊表现形式——组织的能动性不是指向自身利益，而是指向"他者"的利益和福祉。
+> Otherhood 指组织为其他行动者（other actors）、非行动者实体（non-actor entities）和现代性原则（principles of modernity）行使代理权（agency）的社会过程（Meyer & Jepperson, 2000; Meyer, 2019; Zapp, 2020a）。该概念由 Meyer & Jepperson（2000）在分析现代社会中的能动者建构时提出，Zapp（2020a, 2022）将其系统应用于分析大学在全球治理中的角色。Otherhood 是 [[Organizational Actorhood]] 的一种特殊表现形式——组织的能动性不是指向自身利益，而是指向"他者"的利益和福祉。
 
 > [!quote]
 > "Otherhood, here, refers to the social process of enacting agency for other actors (e.g. nation-states), non-actor entities (e.g. the world's children; endangered species) and principles (e.g. human rights)."（Meyer & Jepperson, 2000，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]）

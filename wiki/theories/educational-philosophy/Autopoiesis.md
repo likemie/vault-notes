@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-07-08
 ---
 
 ## 核心主张
@@ -48,14 +48,14 @@ updated: '2026-05-18'
 
 > [!abstract] 核心命题
 > - **自我生产** 生命系统的每一组件参与自身和其他组件的持续生产，系统边界由其自我生产的动态过程定义（Maturana & Varela, 1987）
-> - **自组织与[[Emergence|涌现]]**：社会转型不是被设计出来的，而是涌现的——依赖自组织和被组织过程的混合交互（Escobar, 2018, p.152）
+> - **自组织与[[Emergence|涌现]]** 社会转型不是被设计出来的，而是涌现的——依赖自组织和被组织过程的混合交互（Escobar, 2018, p.152）
 > - **去中心化变革** 解决人类面临的大规模问题（气候变化、不平等）不能依赖大型集体如民族国家，而应由小单元通过联网和连接在全球尺度作出贡献([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])
 >
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **[[Sympoiesis]] 批评**：[[Donna Haraway]] 提出 sympoiesis（共同制造）作为替代概念，批评 autopoiesis 过度强调自我指涉性而忽视"与他人一起、[[Humility in Learning|谦逊]]地、response-able 地回应彼此需求"的维度。Haraway 强调 sympoiesis 与 autopoiesis 之间的差异并否定后者的自我指涉中心性，但 Amos 认为两种立场共同之处多于分歧([[Argument_Amos_2022_Springer|Amos, 2022, pp.62–63]])
+> - **[[Sympoiesis]] 批评** [[Donna Haraway]] 提出 sympoiesis（共同制造）作为替代概念，批评 autopoiesis 过度强调自我指涉性而忽视"与他人一起、[[Humility in Learning|谦逊]]地、response-able 地回应彼此需求"的维度。Haraway 强调 sympoiesis 与 autopoiesis 之间的差异并否定后者的自我指涉中心性，但 Amos 认为两种立场共同之处多于分歧([[Argument_Amos_2022_Springer|Amos, 2022, pp.62–63]])
 >
 
 ## 相关研究

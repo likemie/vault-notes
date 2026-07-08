@@ -2,7 +2,6 @@
 title: Sampling Error
 aliases:
   - 抽样误差
-  - standard error
   - sampling distribution
   - 抽样分布
 summary: "从同一总体中多次抽样时样本统计量之间的变异，以均值的标准误（SEM）和比例的标准误度量，其分布规律由中心极限定理描述，是确定样本量和置信区间的基础概念"
@@ -66,12 +65,12 @@ updated: 2026-06-21
 ### 中心极限定理
 
 > [!feature]
-> - **[[Central Limit Theorem|中心极限定理]]（Central Limit Theorem）**：若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布，且样本均值的均值将近似等于总体均值。[[Sample Size Determination|样本量]]越大，样本均值的分布越接近正态分布——无论原始总体的形状如何。Hopkins 等（1996: 159, 388）指出，除非存在极不寻常的分布，25 例及以上的样本通常即可产生正态的均值抽样分布。Rose & Sullivan（1993: 144）提醒，95% 的所有样本均值落在总体均值加减 1.96 个[[Standard Error|标准误]]的范围内。
+> - **[[Central Limit Theorem|中心极限定理]]（Central Limit Theorem）** 若从任何总体中反复抽取等大的随机大样本，这些样本的均值将近似正态分布，且样本均值的均值将近似等于总体均值。[[Sample Size Determination|样本量]]越大，样本均值的分布越接近正态分布——无论原始总体的形状如何。Hopkins 等（1996: 159, 388）指出，除非存在极不寻常的分布，25 例及以上的样本通常即可产生正态的均值抽样分布。Rose & Sullivan（1993: 144）提醒，95% 的所有样本均值落在总体均值加减 1.96 个[[Standard Error|标准误]]的范围内。
 
 ### 均值的标准误
 
 > [!feature]
-> - **均值的标准误**（Standard Error of the Mean, [[Causal Modeling|SEM]]）：抽样分布的标准差，是抽样误差的基本度量。$SEM = \frac{SD_{s}}{\sqrt{N}}$，其中 $SD_{s}$ 为样本标准差，$N$ 为样本量。严格公式以总体标准差为分母，但因通常无法获取总体标准差，故用样本标准差替代。SEM 越小，样本均值越接近总体均值。当 $SD_{pop}$ 很大时，$N$ 需非常大以抵消之；当 $SD_{pop}$ 很小时，$N$ 也可较小。
+> - **均值的标准误（Standard Error of the Mean, [[Causal Modeling|SEM]]）** 抽样分布的标准差，是抽样误差的基本度量。$SEM = \frac{SD_{s}}{\sqrt{N}}$，其中 $SD_{s}$ 为样本标准差，$N$ 为样本量。严格公式以总体标准差为分母，但因通常无法获取总体标准差，故用样本标准差替代。SEM 越小，样本均值越接近总体均值。当 $SD_{pop}$ 很大时，$N$ 需非常大以抵消之；当 $SD_{pop}$ 很小时，$N$ 也可较小。
 
 ### 比例的标准误
 
@@ -81,8 +80,8 @@ updated: 2026-06-21
 ### 置信水平与置信区间
 
 > [!feature]
-> - **[[Confidence Interval|置信水平]]**（Confidence Level）：通常以百分比表示（95% 或 99%），是对回应落在给定变异范围内的确信程度指标。95% 置信水平意味着 95% 的情况下结果落在指定范围内。
-> - **[[Confidence Interval|置信区间]]**（Confidence Interval）：希望确保的变异程度或变异范围（如 ± 1%、± 2%、± 3%）。置信区间越小，所需样本量越大。常规抽样策略使用 95% 置信水平和 3% 置信区间。
+> - **[[Confidence Interval|置信水平]]（Confidence Level）** 通常以百分比表示（95% 或 99%），是对回应落在给定变异范围内的确信程度指标。95% 置信水平意味着 95% 的情况下结果落在指定范围内。
+> - **[[Confidence Interval|置信区间]]（Confidence Interval）** 希望确保的变异程度或变异范围（如 ± 1%、± 2%、± 3%）。置信区间越小，所需样本量越大。常规抽样策略使用 95% 置信水平和 3% 置信区间。
 
 ---
 

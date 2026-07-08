@@ -4,7 +4,7 @@ aliases:
   - 认识论
   - epistemological assumptions
   - 认识论假设
-summary: 关于知识的本质、形式和获取方式的哲学假设。不同研究范式基于不同的认识论立场：实证主义的科学检验、诠释的多重实在理解、复杂性理论的多因果方向、意识形态批判的明确政治性、混合方法的实用主义组合。
+summary: "关于知识的本质、形式和获取方式的哲学假设。不同研究范式基于不同的认识论立场：实证主义的科学检验、诠释的多重实在理解、复杂性理论的多因果方向、意识形态批判的明确政治性、混合方法的实用主义组合。"
 type: concept
 domain: "educational-philosophy"
 related_count: 17
@@ -41,14 +41,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-06-21
+updated: 2026-07-08
 ---
 # Epistemology
 
 ## 定义
 
 > [!def] 认识论（Epistemology）
-> 关于知识本身基础的[[Hypothesis|假设]]——知识的本质和形式，知识如何被获取，以及如何传递给其他人。一个人在这一问题上的立场，深刻影响其如何着手揭示关于社会行为的知识（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 关于知识本身基础的[[Hypothesis|假设]]——知识的本质和形式，知识如何被获取，以及如何传递给其他人。一个人在这一问题上的立场，深刻影响其如何着手揭示关于社会行为的知识（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 认识论回答"我们如何知道"以及"什么构成有效知识"。它涉及知识的性质、结构、组织方式，以及我们如何探究知识和现象。
@@ -59,7 +59,7 @@ updated: 2026-06-21
 
 ## 客观主义与主观主义的认识论
 
-沿主观–客观维度，认识论呈现两种对立的立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+沿主观–客观维度，认识论呈现两种对立的立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）：
 
 > [!line-a] [[Positivism|实证主义]]认识论
 > 知识是硬性的、客观的、可触知的（hard, objective and tangible）。要求研究者扮演观察者角色，效忠于自然科学的方法。将知识视为某种能够被传递的、具有可触知形式的东西。
@@ -92,10 +92,10 @@ updated: 2026-06-21
 
 ## 后实证主义的挑战
 
-[[Postpositivism|后实证主义]]对传统认识论提出了根本性挑战：事实和理论是可错的（fallible）；事实和观察是理论负载和价值负载的（theory-laden and value-laden, Popper, 1980; Feyerabend, 1975）；社会事实甚至思维方式都是社会建构，而非客观和普遍真实的（Nisbett, 2005）。事实与价值的分离不可持续——研究者的价值观和[[Paradigm|范式]]决定了研究焦点、方法和解释（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+[[Postpositivism|后实证主义]]对传统认识论提出了根本性挑战：事实和理论是可错的（fallible）；事实和观察是理论负载和价值负载的（theory-laden and value-laden, Popper, 1980; Feyerabend, 1975）；社会事实甚至思维方式都是社会建构，而非客观和普遍真实的（Nisbett, 2005）。事实与价值的分离不可持续——研究者的价值观和[[Paradigm|范式]]决定了研究焦点、方法和解释（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 ---
 
 ## 在研究层级中的位置
 
-认识论是 Hitchcock and Hughes（1995: 21）五层框架的第三层：[[Axiology|价值论]] → [[Ontology|本体论]] → 认识论 → 方法论 → 工具。本体论[[Hypothesis|假设]]衍生出认识论假设——研究者对"实在是什么"的回答决定了他们对"知识是什么以及如何获取"的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+认识论是 Hitchcock and Hughes（1995: 21）五层框架的第三层：[[Axiology|价值论]] → [[Ontology|本体论]] → 认识论 → 方法论 → 工具。本体论[[Hypothesis|假设]]衍生出认识论假设——研究者对"实在是什么"的回答决定了他们对"知识是什么以及如何获取"的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。

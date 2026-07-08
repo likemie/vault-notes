@@ -63,16 +63,16 @@ updated: 2026-05-27
 > [!example]
 > **vs 学术会议** 学术会议以学术交流为目的，参与者主要是研究者；贸易代表团以商务对接为目的，参与者主要是企业决策者和政府官员。大学在学术会议上展示论文，在贸易代表团中展示研究能力和合作潜力。两者的受众和对话逻辑不同。
 >
-> **vs [[University-Industry Collaboration|产学合作]]的其他连接渠道**：校友网络、[[Industry Advisory Board|行业咨询委员会]]和产学专业活动（[[University Industry Demonstration Partnership|UIDP]]、[[Network of Academic Corporate Relations Officers|NACRO]]）主要在国内运作；贸易代表团的独特价值在于跨境连接——它同时打开外国市场、外国大学和本国政府资源三个通道。
+> **vs [[University-Industry Collaboration|产学合作]]的其他连接渠道** 校友网络、[[Industry Advisory Board|行业咨询委员会]]和产学专业活动（[[University Industry Demonstration Partnership|UIDP]]、[[Network of Academic Corporate Relations Officers|NACRO]]）主要在国内运作；贸易代表团的独特价值在于跨境连接——它同时打开外国市场、外国大学和本国政府资源三个通道。
 
 ---
 
 ## 相关案例
 
 > [!example]
-> **普林斯顿大学与 ChooseNJ 贸易代表团（2018 年至今）**：普林斯顿大学通过新泽西州经济发展机构 ChooseNJ 组织的州长贸易代表团，自 2018 年起参与了赴印度、以色列、爱尔兰、英国和东亚（日本、韩国、台湾）的贸易访问([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.76]])。
+> **普林斯顿大学与 ChooseNJ 贸易代表团（2018 年至今）** 普林斯顿大学通过新泽西州经济发展机构 ChooseNJ 组织的州长贸易代表团，自 2018 年起参与了赴印度、以色列、爱尔兰、英国和东亚（日本、韩国、台湾）的贸易访问([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.76]])。
 >
-> **日本企业关系催化（2023 年）**：2023 年 10 月，新泽西州东亚贸易代表团与 [[University Industry Demonstration Partnership|UIDP]] 东京会议时间重合。普林斯顿利用这一叠加机会，实现了两项突破：一是将一家大型汽车公司多年零散、不协调的多子公司资助关系升级为有明确联络人和审查机制的战略伙伴关系；二是与一家日本重工业企业从零建立了合作，通过出访前的电话准备和"Research with Princeton"数据库匹配，在会面前已识别潜在合作方向，会面后迅速进入资助研究阶段([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.80–81]])。
+> **日本企业关系催化（2023 年）** 2023 年 10 月，新泽西州东亚贸易代表团与 [[University Industry Demonstration Partnership|UIDP]] 东京会议时间重合。普林斯顿利用这一叠加机会，实现了两项突破：一是将一家大型汽车公司多年零散、不协调的多子公司资助关系升级为有明确联络人和审查机制的战略伙伴关系；二是与一家日本重工业企业从零建立了合作，通过出访前的电话准备和"Research with Princeton"数据库匹配，在会面前已识别潜在合作方向，会面后迅速进入资助研究阶段([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.80–81]])。
 
 ---
 

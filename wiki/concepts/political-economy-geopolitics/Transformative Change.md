@@ -46,7 +46,7 @@ updated: 2026-05-27
 ## 定义
 
 > [!info]
-> 变革转型（Transformative Change）是 Schot 和 Steinmueller（2018）识别的第三个[[Innovation Policy Paradigms|创新政策范式]]——继"科学促增长"（Science for Growth）和"[[Systems of Innovation|创新系统]]"（Systems of Innovation）之后的最新阶段。其核心主张是：创新系统[[Paradigm|范式]]虽然擅长诊断各种系统失灵，但在面对气候变化、生物多样性丧失、人口老龄化、资源稀缺等"棘手问题"（wicked problems）时过于被动和反应性。变革转型范式要求政策从"修复系统"升级为"主动导向"——不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.32–34]])。
+> 变革转型（Transformative Change）是 Schot & Steinmueller（2018）识别的第三个[[Innovation Policy Paradigms|创新政策范式]]——继"科学促增长"（Science for Growth）和"[[Systems of Innovation|创新系统]]"（Systems of Innovation）之后的最新阶段。其核心主张是：创新系统[[Paradigm|范式]]虽然擅长诊断各种系统失灵，但在面对气候变化、生物多样性丧失、人口老龄化、资源稀缺等"棘手问题"（wicked problems）时过于被动和反应性。变革转型范式要求政策从"修复系统"升级为"主动导向"——不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.32–34]])。
 
 > 这一范式目前仍处于早期阶段，少有大规模实施的实例（Lindner et al., 2024）（p.34）。
 
@@ -78,7 +78,7 @@ updated: 2026-05-27
 | **方向性失灵（directionality failure）** | 社会无法就"往哪个方向走"达成共识——不同利益群体对发展路径有竞争性的主张，缺乏做出集体社会选择的机制 | 能源转型中：一些人主张核能、一些人主张可再生能源、一些人主张碳捕集——但缺乏有效的制度来协调这些选择 |
 | **政策协调失灵（policy coordination failure）** | 不同政府部门、不同政府层级的政策目标相互矛盾或缺乏协同 | 科技部推动电动车创新、环保部设定排放标准、财政部削减相关补贴——三个部门三种方向 |
 | **需求表达失灵（demand articulation failure）** | 无法有效理解和预判未来知识使用者和创新采纳者的需求，无法将潜在需求转化为明确的信号 | 在氢能技术成熟之前，很难准确预测哪些行业将成为氢能的"最大客户"以及它们的实际需求是什么 |
-| **[[Reflexivity\|反思性]]失灵**（reflexivity failure） | 长期变革充满不确定性，但现有制度不奖励"承认不确定"——缺乏对目标进展的持续监测、反思性讨论、策略调整和深度学习的能力 | 一个十年的气候创新项目按照五年前设定的 KPI 运行，但没有机制让参与者定期[[Probes\|追问]]"我们确定在解决对的问题吗？" |
+| **[[Reflexivity\|反思性]]失灵（reflexivity failure）** | 长期变革充满不确定性，但现有制度不奖励"承认不确定"——缺乏对目标进展的持续监测、反思性讨论、策略调整和深度学习的能力 | 一个十年的气候创新项目按照五年前设定的 KPI 运行，但没有机制让参与者定期[[Probes\|追问]]"我们确定在解决对的问题吗？" |
 
 > 与系统范式的关键区别：系统范式关注的是"阻碍创新发生的障碍是什么"（诊断问题）；变革转型范式关注的是"创新应该被引导到哪里"（设定方向）。前者像修理工，后者像导航员。
 

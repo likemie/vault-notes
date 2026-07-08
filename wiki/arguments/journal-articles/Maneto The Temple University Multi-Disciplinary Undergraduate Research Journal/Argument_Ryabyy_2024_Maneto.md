@@ -69,8 +69,8 @@ citation_aliases:
 > [!abstract] 理论框架
 > 该研究没有使用显式的理论框架，它的分析逻辑是"多源资料交叉验证"（cross-referencing of multiple archival sources）——围绕三组行动者，分别从他们的视角阅读档案，然后比对同一个事件在不同来源中如何呈现(pp.102–103, 107–109)：
 >
-> - **美国教育者代表团**（以 [[John Dewey]] 为核心）——作为文化使者进入苏联，其私人通信是研究的主要一手资料
-> - **苏联教育者与官员**（[[Stanislav Shatskii]]、[[Anatoly Lunacharsky]]、Kalashnikov et al.）——视 Dewey 为他们长期研读的对象，接待代表团的同时也在传递自己的诉求
+> - **美国教育者代表团（以 [[John Dewey]] 为核心）**——作为文化使者进入苏联，其私人通信是研究的主要一手资料
+> - **苏联教育者与官员（[[Stanislav Shatskii]]、[[Anatoly Lunacharsky]]、Kalashnikov et al.）**——视 Dewey 为他们长期研读的对象，接待代表团的同时也在传递自己的诉求
 > - **美国政府与反共舆论（Welsh、Castle、Schurman、纽约时报等）**——在访问前后监控和评判此行的政治意涵
 >
 > > 打个比方：这就像一起事件有三个不同立场的目击者——当事人写的日记、记者写的新闻报道、警察写的内部报告。三者单独看都有偏向，但合在一起比对，就能看到更接近全貌的画面。
@@ -78,10 +78,10 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **[[Archival Correspondence Analysis|档案通信分析]]**：以 Dewey 在 1928 年 5–8 月的私人通信为核心一手资料，包括他收到的和发出的信件，逐日重建其行程和会面对象(p.102)
+> - **[[Archival Correspondence Analysis|档案通信分析]]** 以 Dewey 在 1928 年 5–8 月的私人通信为核心一手资料，包括他收到的和发出的信件，逐日重建其行程和会面对象(p.102)
 > - **报纸报道追踪** 系统检索纽约时报 1928 年 5 月 14 日至 7 月 22 日期间关于此行的连续报道（至少六篇），分析此行如何被公众舆论呈现(pp.104–106)
 > - **外交函件分析** 使用美国国务院档案中的三份关键文件——Welsh 1928 年 5 月 16 日的指控信、助理国务卿 Castle 5 月 29 日的监控指示、驻德外交官 Schurman 7 月 26 日的总结报告——重建政府层面对此行的态度(pp.107–109)
-> - **[[Primary and Secondary Documents|二手文献]]补充**：Dewey 传记（Martin 2003; Dykhuizen 1973）、苏联教育史研究（Fitzpatrick; Holmes; Kirschenbaum; Partlett 2011）和 Dewey 在俄接受史研究（Mchitarjan 2000; Gorshkova 2015）提供历史背景和解读框架
+> - **[[Primary and Secondary Documents|二手文献]]补充** Dewey 传记（Martin 2003; Dykhuizen 1973）、苏联教育史研究（Fitzpatrick; Holmes; Kirschenbaum; Partlett 2011）和 Dewey 在俄接受史研究（Mchitarjan 2000; Gorshkova 2015）提供历史背景和解读框架
 >
 > 该研究的核心方法操作是：将三组不同来源的资料按时间线对齐，对比同一事件在私人通信、公开报道和政府档案中的不同呈现，从中识别出每一方的视角偏向和利益(pp.102–103)。
 
@@ -193,7 +193,7 @@ citation_aliases:
 > > [!quote]
 > > "我们必须开启这项伟大的事业——让世界上更民主的国家走到一起。"
 >
-> "民主"（democracy）这个词不是随意选的。Shatskii 知道 Dewey 的整个教育哲学建立在"教育与民主"的关系之上——在 Democracy and Education(1916)中，Dewey 将民主界定为一种"联合生活方式"而不仅是政治制度。Shatskii 在告别信中使用"民主"一词，是在用 Dewey 的语言向他致敬，同时也在传递一种政治愿景——尽管这愿景在斯大林时代的苏联已经变得越来越不可能。
+> "民主"（democracy）这个词不是随意选的。Shatskii 知道 Dewey 的整个教育哲学建立在"教育与民主"的关系之上——在 Democracy & Education(1916)中，Dewey 将民主界定为一种"联合生活方式"而不仅是政治制度。Shatskii 在告别信中使用"民主"一词，是在用 Dewey 的语言向他致敬，同时也在传递一种政治愿景——尽管这愿景在斯大林时代的苏联已经变得越来越不可能。
 >
 > > 这一步骤的关键在于：它展示了这次访问中真正的思想交流——不是单向的"美国人教苏联人"，而是两个已经各自实践了十多年进步教育的改革者之间的对话。他们用的是同一种"语言"（进步教育的话语），但他们所处的政治条件完全不同。
 >

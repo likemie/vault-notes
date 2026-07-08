@@ -111,8 +111,8 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **Vevea-Hedges 校正的[[Hypothesis|假设]]**：权重函数模型依赖于对发表概率与 p 值关系的假设，且仅适用于研究级平均[[Effect Size|效应量]]，忽略研究内效应量变异([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 442]])
-> - **[[What Works Clearinghouse|WWC]] 数据的特殊性**：由于联邦报告要求，WWC 可能比一般学术期刊包含更多独立研究的零结果，因此发表偏倚在一般[[Document|文献]]中可能比在 WWC 中更严重
+> - **Vevea-Hedges 校正的[[Hypothesis|假设]]** 权重函数模型依赖于对发表概率与 p 值关系的假设，且仅适用于研究级平均[[Effect Size|效应量]]，忽略研究内效应量变异([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 442]])
+> - **[[What Works Clearinghouse|WWC]] 数据的特殊性** 由于联邦报告要求，WWC 可能比一般学术期刊包含更多独立研究的零结果，因此发表偏倚在一般[[Document|文献]]中可能比在 WWC 中更严重
 
 
 > [!warning] Wecker 等人（2016）的中央证据数据库提案

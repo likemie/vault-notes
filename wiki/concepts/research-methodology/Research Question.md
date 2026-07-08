@@ -139,7 +139,7 @@ updated: 2026-06-25
 1. **陈述变量** 量化[[Research Utilization|研究使用]]三类变量——比较组间自变量以观察其对因变量的影响（实验或组间比较）；将预测变量与结果变量相关联（[[Survey Research|调查研究]]）；描述变量的得分（报告均值、标准差和范围）。
 2. **包含理论** 最严格的量化研究以检验理论为起点，研究问题或假设应逻辑上跟随或挑战该理论。
 3. **区分描述性和关系型**[[Descriptive Research Question|描述性研究问题]]描述单一变量的频率和变异；关系型研究问题考察变量间的关系，使用推论性统计基于样本对总体做出推论。
-4. **创建[[Alternative Hypothesis|方向性备择假设]]**：[[Null Hypothesis|零假设]]预测总体中无关系或无显著差异；备择假设预测存在显著关系，且最好写为方向性形式。
+4. **创建[[Alternative Hypothesis|方向性备择假设]]** [[Null Hypothesis|零假设]]预测总体中无关系或无显著差异；备择假设预测存在显著关系，且最好写为方向性形式。
 5. **使用方向性量化词汇** affect, influence, predict, impact, determine, cause, relate。
 
 > [!tip]- [[Research Writing Script|写作脚本]]

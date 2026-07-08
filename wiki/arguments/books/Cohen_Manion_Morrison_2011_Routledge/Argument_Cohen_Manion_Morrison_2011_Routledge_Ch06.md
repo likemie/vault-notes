@@ -21,6 +21,7 @@ year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
 citation_aliases: []
+publication_place: "London"
 tags:
   - method/research-design
   - source/textbook

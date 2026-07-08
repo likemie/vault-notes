@@ -5,7 +5,7 @@ aliases:
   - non-maleficence
   - primum non nocere
   - 不伤害原则
-summary: 研究伦理中一对相辅相成的核心原则：不伤害要求研究不对参与者造成身体、心理、情感或职业损害；行善要求研究为参与者和更广泛社区带来实际收益
+summary: "研究伦理中一对相辅相成的核心原则：不伤害要求研究不对参与者造成身体、心理、情感或职业损害；行善要求研究为参与者和更广泛社区带来实际收益"
 type: concept
 domain: "research-methodology"
 related_count: 5
@@ -36,7 +36,7 @@ updated: 2026-06-19
 ## 定义
 
 > [!def] 不伤害（Non-maleficence）
-> 不伤害原则源于希波克拉底誓言中的 primum non nocere（首先，不伤害），在[[Research Ethics|研究伦理]]中意味着研究不应对参与者在身体、心理、情感、职业或个人等任何层面造成损害。这是一条黄金法则：**参与者研究结束时的状况不得比研究开始时更差**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 89–91]]）。
+> 不伤害原则源于希波克拉底誓言中的 primum non nocere（首先，不伤害），在[[Research Ethics|研究伦理]]中意味着研究不应对参与者在身体、心理、情感、职业或个人等任何层面造成损害。这是一条黄金法则：**参与者研究结束时的状况不得比研究开始时更差（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 89–91]]）**。
 
 > [!def] 行善（Beneficence）
 > 行善是不伤害的对应面——研究将带来什么收益，对谁？参与者可能因研究改善学习、增加资源、提高自尊或增强自我意识（Oliver, 2003, p. 35）。行善不仅是伦理要求，也可能是[[Institutional Review Board|伦理审查委员会]]或资助方的实际要求（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 90–91]]）。
@@ -53,10 +53,10 @@ updated: 2026-06-19
 ### 不伤害
 
 > [!feature] 不伤害的操作含义
-> Aronson & Carlsmith (1969) 最初表达了[[Research Ethics|研究伦理]]中的核心张力：社会对自由科学探究以追求真理和知识的信念，与社会对个体尊严的信念之间的紧张。Social Sciences and Humanities Research Council of Canada (1981) 的立场是：对物理、心理、人道、财产和文化价值的风险必须给予比对知识潜在贡献更大的考量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 89]]）。
+> Aronson & Carlsmith (1969) 最初表达了[[Research Ethics|研究伦理]]中的核心张力：社会对自由科学探究以追求真理和知识的信念，与社会对个体尊严的信念之间的紧张。Social Sciences & Humanities Research Council of Canada (1981) 的立场是：对物理、心理、人道、财产和文化价值的风险必须给予比对知识潜在贡献更大的考量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 89]]）。
 
 > [!warning] 什么构成伤害是不清楚的
-> 一个人的伤害可能是社会的收益；一点小伤害对少数人是否在为所有人带来重大利益的情况下可容忍。核心问题在于：**目的正当化手段吗？**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 90]]）
+> 一个人的伤害可能是社会的收益；一点小伤害对少数人是否在为所有人带来重大利益的情况下可容忍。核心问题在于：**目的正当化手段吗？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 90]]）**
 
 > [!feature] Bailey 的七种避免伤害方法
 > Bailey (1994, p. 457) 提出（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 91–92]]）：
@@ -81,7 +81,7 @@ updated: 2026-06-19
 ### 行善
 
 > [!finding-cards] 行善的收益分配问题
-> 行善的核心困境不在于是否应当产生收益，而在于**谁受益**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 90–91]]）：
+> 行善的核心困境不在于是否应当产生收益，而在于**谁受益（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 90–91]]）**
 >
 > - **研究者可能获得** 晋升、出版、学位、研究赞助和名声
 > - **参与者可能状态** 原封不动——处于弱势、在肮脏和资源不足的条件下生活和工作

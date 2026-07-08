@@ -3,7 +3,7 @@ title: Document
 aliases:
   - 文献
   - documentary source
-summary: 研究中的文献是对事件或过程的记录，由个人或群体生产，包括私人文本、官方档案、媒体报道、小说、日记、信件与电子记录等多种形式，是历史与文献研究方法的基石分析单位。
+summary: "研究中的文献是对事件或过程的记录，由个人或群体生产，包括私人文本、官方档案、媒体报道、小说、日记、信件与电子记录等多种形式，是历史与文献研究方法的基石分析单位。"
 type: concept
 domain: "research-methodology"
 related_count: 3

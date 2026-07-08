@@ -26,7 +26,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[University-Based Research Center]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Third Mission (Universities)]]"
+  - "[[Third Mission|Third Mission (Universities)]]"
   - "[[Knowledge Exchange]]"
   - "[[Innovation Park]]"
   - "[[Innovation Ecosystem]]"
@@ -66,10 +66,10 @@ updated: 2026-06-10
 ## 核心主张
 
 > [!tip]-
-> Triple Helix（三重螺旋）由 Etzkowitz 和 Leydesdorff（1995）提出，核心主张是：在以知识为基础的经济（[[Knowledge-Based Economy]]）中，大学、产业和政府三个制度领域不再各自独立运作，而是日益相互交织——每一方都可以承担其他方的部分传统角色，形成一个动态的[[Systems of Innovation|创新系统]]。三者之间的关系不是线性的（政府资助大学 → 大学产出知识 → 企业应用），而是一种相互支撑的反馈循环（[[Feedback]] loop），每一方既影响其他两方，也被其他两方影响。
+> Triple Helix（三重螺旋）由 Etzkowitz & Leydesdorff（1995）提出，核心主张是：在以知识为基础的经济（[[Knowledge-Based Economy]]）中，大学、产业和政府三个制度领域不再各自独立运作，而是日益相互交织——每一方都可以承担其他方的部分传统角色，形成一个动态的[[Systems of Innovation|创新系统]]。三者之间的关系不是线性的（政府资助大学 → 大学产出知识 → 企业应用），而是一种相互支撑的反馈循环（[[Feedback]] loop），每一方既影响其他两方，也被其他两方影响。
 
 > [!quote]
-> "Etzkowitz and Leydesdorff (1995) characterize the feedback loop among government, universities, and industry as a mutually supportive 'triple Helix.'"（p.13, paraphrased）
+> "Etzkowitz & Leydesdorff (1995) characterize the feedback loop among government, universities, and industry as a mutually supportive 'triple Helix.'"（p.13, paraphrased）
 > 
 > Etzkowitz 和 Leydesdorff 将政府、大学与产业之间的反馈循环描述为相互支持的三重螺旋。
 
@@ -115,7 +115,7 @@ updated: 2026-06-10
 
 ### 2000 年代至今：制度化与战略化
 
-三重螺旋在 2000 年代后从政策倡导进入大学组织结构层面。大学正式承担**[[Third Mission (Universities)|第三使命]]**（Third Mission）——在研究和教学之外的 innovation 和经济发展职能（Ulrichsen, 2024）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.41–44]])。具体表现包括：大学设立分管[[Knowledge Exchange|知识交流]]的专门领导角色和支持单位、建立内部转化基金和[[Innovation Park|科技园区]]、挑战导向的研究中心跨越传统学科-产业边界。英国从项目制竞争性资金转向公式驱动的长期稳定拨款——评估表明这种长期稳定性对扩展产学互动极为宝贵([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.42–43]])。美国则以 2022 年 [[CHIPS and Science Act]] 和 NSF 新设技术创新与伙伴关系局为代表，将大学-产业-投资者三重螺旋置于国家竞争力战略的核心([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.43–44]])。
+三重螺旋在 2000 年代后从政策倡导进入大学组织结构层面。大学正式承担**[[Third Mission|第三使命]]（Third Mission）**——在研究和教学之外的 innovation 和经济发展职能（Ulrichsen, 2024）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.41–44]])。具体表现包括：大学设立分管[[Knowledge Exchange|知识交流]]的专门领导角色和支持单位、建立内部转化基金和[[Innovation Park|科技园区]]、挑战导向的研究中心跨越传统学科-产业边界。英国从项目制竞争性资金转向公式驱动的长期稳定拨款——评估表明这种长期稳定性对扩展产学互动极为宝贵([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.42–43]])。美国则以 2022 年 [[CHIPS and Science Act]] 和 NSF 新设技术创新与伙伴关系局为代表，将大学-产业-投资者三重螺旋置于国家竞争力战略的核心([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.43–44]])。
 
 ---
 

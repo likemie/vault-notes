@@ -79,7 +79,7 @@ updated: 2026-06-22
 
 ## 理论抽样的操作案例
 
-Flick（2004b: 151）将理论抽样称为"[[Qualitative Research|质性研究]]的皇家大道"。以下教育案例展示了其完整操作逻辑（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 421–423）：
+Flick（2004b: 151）将理论抽样称为"[[Qualitative Research|质性研究]]的皇家大道"。以下教育案例展示了其完整操作逻辑（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011b]], pp. 421–423）：
 
 > [!exegesis]- 理论抽样的教育研究案例
 > 第一步：研究者访谈教师士气→初步理论生成：士气受破坏性学生行为负面影响→进行"关键案例抽样"：访谈面对大量破坏性学生的高困难校教师。
@@ -88,7 +88,7 @@ Flick（2004b: 151）将理论抽样称为"[[Qualitative Research|质性研究]]
 >
 > 焦点转移：转向破坏性学生很少的学校——竟发现这群教师经历极低士气。研究者[[Hypothesis|假设]]逻辑链浮现：高期望→仅一二学生不遵守→期望落空→更高士气打击（因为被视为教师弱点，同事互助少）。理论被精炼：教师士气受期望的影响大于受破坏性行为本身→进行"最大变异抽样"→跨校探究期望与士气的关系。抽样随研究推进和理论[[Emergence|涌现]]而变化——这就是理论抽样。
 
-Ezzy（2002: 74–75）在其失业研究中给出了另一个示例：初步理论认为失业者的痛苦程度受财务困难影响。他访谈了有债务和无债务的低收入与高收入失业群体，发现痛苦程度更受收入与债务之比的影响，而非绝对收入水平。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 422)]]
+Ezzy（2002: 74–75）在其失业研究中给出了另一个示例：初步理论认为失业者的痛苦程度受财务困难影响。他访谈了有债务和无债务的低收入与高收入失业群体，发现痛苦程度更受收入与债务之比的影响，而非绝对收入水平。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 422)]]
 
 ---
 
@@ -108,4 +108,4 @@ Ezzy（2002: 74–75）在其失业研究中给出了另一个示例：初步理
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍理论抽样作为[[Grounded Theory|扎根理论]]的核心方法，以及 Glaser & Strauss（1967）的理论饱和概念。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11)]] — 通过教育案例（教师士气研究）和 Ezzy 失业研究展示理论抽样的完整操作逻辑，阐述其与[[Analytic Induction|分析归纳法]]的延伸关系，以及理论饱和的终点标准。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b, Ch. 11)]] — 通过教育案例（教师士气研究）和 Ezzy 失业研究展示理论抽样的完整操作逻辑，阐述其与[[Analytic Induction|分析归纳法]]的延伸关系，以及理论饱和的终点标准。

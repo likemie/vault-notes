@@ -5,7 +5,7 @@ aliases:
   - ANT
   - actor-network theory
   - 多行动者分析
-summary: Latour 等人提出的社会理论，将人类和非人类行动者视为对等的网络节点，通过转译过程追踪社会-物质关系的组装与重构
+summary: "Latour 等人提出的社会理论，将人类和非人类行动者视为对等的网络节点，通过转译过程追踪社会-物质关系的组装与重构"
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 18
@@ -53,7 +53,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 行动者网络理论（Actor-Network Theory, ANT）是 20 世纪 70 年代末在法国实用社会学传统中兴起的社会理论，由 Latour 和 Woolgar (1979) 在《实验室生活》中首次提出。ANT 将人类和非人类行动者（objects）视为对等的网络节点，通过「[[Transfer Translation Transformation|转译]]」（translation）过程追踪社会-物质关系的[[Assemblage|组装]]（assemblage）与重构([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
+> 行动者网络理论（Actor-Network Theory, ANT）是 20 世纪 70 年代末在法国实用社会学传统中兴起的社会理论，由 Latour & Woolgar (1979) 在《实验室生活》中首次提出。ANT 将人类和非人类行动者（objects）视为对等的网络节点，通过「[[Transfer Translation Transformation|转译]]」（translation）过程追踪社会-物质关系的[[Assemblage|组装]]（assemblage）与重构([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])。
 
 ---
 
@@ -61,7 +61,7 @@ updated: 2026-06-07
 
 > [!abstract]
 > - **对称性原则（symmetry）**。ANT 基于[[Posthumanism|后人类主义]]的激进社会观，假定非人类物体具有能动性（agency），不应与人类区别对待，因为「没有非人类，人类连一分钟都撑不过」（Latour, 2004, p.91, 引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]）。物体施加力量、产生吸引或排斥，与其他物体和人类结合并在过程中发生变化。
-> - **[[Transfer Translation Transformation|转译]]**（translation）。转译是行动者加入网络、[[Assemblage|组装]]被聚合在一起的过程。在此过程中，人类和非人类实体相互作用并相互改变，从而成为执行特定目标的协调行动者网络的一部分（Callon, 1986, 引自）。
+> - **[[Transfer Translation Transformation|转译]]（translation）**。转译是行动者加入网络、[[Assemblage|组装]]被聚合在一起的过程。在此过程中，人类和非人类实体相互作用并相互改变，从而成为执行特定目标的协调行动者网络的一部分（Callon, 1986, 引自）。
 > - **组装（assemblage）**。人类和非人类的网络被称为组装。组装的稳定性通常被视为理所当然，其中的权力关系被「黑箱化」。但任何一天，组装中的某个连接都可能断裂，暴露出组装的本质。
 > - **打破二元对立**。ANT 旨在克服社会理论的二元论：微观-宏观、个体-集体、主体-客体、社会-自然、物质-文化、人类-非人类、技术-社会等。这些二元对立应被解释为同一事物的两面，而非本质性的对立，而是网络的效果（Latour, 1990, 1999, 2005, 引自）。
 

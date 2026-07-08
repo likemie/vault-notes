@@ -66,7 +66,7 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）**：研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.123–124]])。
+> **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.123–124]])。
 
 > [!example]
 > **目的陈述 vs 研究问题（Research Questions）** 研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含[[Hypothesis|假设]]([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.124]])。

@@ -131,5 +131,5 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **与 Rømer (2019) 的理论定位分歧**：Rømer 将 [[Visible Learning|VL]] 的理论基础解读为[[Radical Constructivism|激进建构主义]]（radical constructivism），而 Nielsen & Klitmøller 论证 VL 的内核是[[Technical Rationality|技术理性]]——两者虽然从不同理论基础出发，但对 VL 的批评形成互补
+> - **与 Rømer (2019) 的理论定位分歧** Rømer 将 [[Visible Learning|VL]] 的理论基础解读为[[Radical Constructivism|激进建构主义]]（radical constructivism），而 Nielsen & Klitmøller 论证 VL 的内核是[[Technical Rationality|技术理性]]——两者虽然从不同理论基础出发，但对 VL 的批评形成互补
 > - **反馈审查的稳健性** Nielsen & Klitmøller 对反馈[[Meta-analysis|元分析]]的细读审查聚焦于概念匹配（Hattie 定义的反馈 vs 元分析实际研究的内容）而非统计技术——支持者可能质疑"概念匹配"标准本身，但这一方法论选择反映了他们"Hattie 是教育理论家"的核心论证方向

@@ -90,7 +90,7 @@ updated: 2026-06-16
 > - **自我呈现 / 官方视角** 声称扮演价值中性、基于科学的客观第三方机构，为学校和政策提供客观、无意识形态偏见的“最佳循证实践指南”。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **学术批判 / 教师自主视角** 指出其推行的全国大纲涉嫌以脑科学简化论取代大学教师的教育学[[Professional Judgment|专业判断]]，并主导了向大学教师施压的惩罚性问责。
 > - **政策治理 / 制度架构视角** 通过与 [[Australian Institute for Teaching and School Leadership|AITSL]] 和 ACARA 共享 [[Educational Services Australia|ESA]] 底层架构，使 AERO 等少数外部中介实体绕过正常的学术和民主监督，直接塑造公共大学的核心课程。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
-> - **跨国资本 / [[Venture Philanthropy|风险慈善]]视角**：BHP 基金会通过定向注资跨国项目催生和塑造 AERO 的运行轨迹，表明跨国资本如何作为隐形底流，推动主权国家教育体系向合规审计治理转型。
+> - **跨国资本 / [[Venture Philanthropy|风险慈善]]视角** BHP 基金会通过定向注资跨国项目催生和塑造 AERO 的运行轨迹，表明跨国资本如何作为隐形底流，推动主权国家教育体系向合规审计治理转型。
 
 > [!tension] 争议焦点
 > - **自证清白的“专家闭环”** 其桌面审查（Abdo et al., 2021）所咨询并声称达成共识的外部专家，大多数来自其委托的 [[Centre for Evidence and Implementation|CEI]] 机构内部和“什么有效”分支中心，构成高度自我引用的封闭网络。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])

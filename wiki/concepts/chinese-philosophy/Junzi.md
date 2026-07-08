@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-07-08
 ---
 
 # Junzi
@@ -58,7 +58,7 @@ updated: 2026-05-22
 > **Junzi vs 士（scholar-apprentice）** 士是已经获得一些美德、理解道德原则、并超越了家庭和本地社群、致力于追求仁的学习者。但士仍有大量的学习和[[Self-Cultivation|修身]]工作要做。Junzi 则更接近[[Self-Cultivation|修身]]的终极目标，已达到相当程度的道德成熟和个人的从容优雅([[Argument_Li_2012_Cambridge|Li, 2012, p.41-42]])。
 
 > [!example]
-> **Junzi vs [[Sage|圣人]]（Sage）**：圣人（sheng, 聖或圣贤）是比 junzi 更高的层次——即使君子也敬畏圣人，成为圣人的目标对普通人来说遥不可及。圣人是那些爱、关心并将仁爱扩展到全人类的人，如尧、舜、禹、文王、武王和周公——以及被后世视为圣人的[[Confucius|孔子]]和[[Mencius|孟子]]([[Argument_Li_2012_Cambridge|Li, 2012, p.42]])。
+> **Junzi vs [[Sage|圣人]]（Sage）** 圣人（sheng, 聖或圣贤）是比 junzi 更高的层次——即使君子也敬畏圣人，成为圣人的目标对普通人来说遥不可及。圣人是那些爱、关心并将仁爱扩展到全人类的人，如尧、舜、禹、文王、武王和周公——以及被后世视为圣人的[[Confucius|孔子]]和[[Mencius|孟子]]([[Argument_Li_2012_Cambridge|Li, 2012, p.42]])。
 
 > [!example]
 > **Junzi 去贵族化** 虽然 junzi 字面意思可追溯为**君之子**（贵族的后代），但[[Confucius|孔子]]彻底重塑了这个概念——junzi 不再指血统上的贵族，而是指**道德品质上的卓越者**。任何人，无论出身，都可以通过[[Self-Cultivation|修身]]成为 junzi([[Argument_Li_2012_Cambridge|Li, 2012, pp.41-42]])。

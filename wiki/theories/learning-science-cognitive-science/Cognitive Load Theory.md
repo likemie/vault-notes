@@ -62,7 +62,7 @@ updated: 2026-06-16
 ## 核心命题与机制
 
 > [!proposition-chain] 认知建构与教学干预机制
-> - **[[Working Memory|工作记忆]]限制与图式化**：新信息必须通过通道极窄的工作记忆进行加工。一旦加工完毕，信息将以“图式”的形式沉淀入长期记忆。图式将多个元素打包为单一单元，被提取时仅占用一个工作记忆考量位置，从而绕过了工作记忆的物理限制。
+> - **[[Working Memory|工作记忆]]限制与图式化** 新信息必须通过通道极窄的工作记忆进行加工。一旦加工完毕，信息将以“图式”的形式沉淀入长期记忆。图式将多个元素打包为单一单元，被提取时仅占用一个工作记忆考量位置，从而绕过了工作记忆的物理限制。
 > - **生物初级知识与次级知识的划分** 人类天生具备获取“生物初级知识”（Biologically Primary Knowledge，如口语、面部识别）的进化机制，无需刻意教学；但对于“生物次级知识”（Biologically Secondary Knowledge，如阅读、数学、科学）的获取，则高度依赖明确的指导与长期的刻意练习（Sweller, 2021）。
 > - **明确教学（Explicit Instruction）的必要性** 对于缺乏先验知识的“新手”（Novices）而言，任何形式的最小指导（Minimal Guidance）教学（如探究式学习、发现学习）都会因缺乏图式支撑而导致工作记忆过载（Cognitive Overload），从而阻碍学习；只有通过提供“工作示例”（Worked Examples）和明确的讲解才能实现最有效的认知构建（Sweller, 2021）。
 
@@ -71,7 +71,7 @@ updated: 2026-06-16
 ## 关键概念与理论构件
 
 > [!theory-components] 理论构件
-> - **[[Working Memory|工作记忆]]（Working Memory）**：加工新信息的场所，通常仅能同时处理4±1个信息元素。
+> - **[[Working Memory|工作记忆]]（Working Memory）** 加工新信息的场所，通常仅能同时处理4±1个信息元素。
 > - **内在认知负荷（Intrinsic Load）** 由学习内容本身的元素交互性（Element Interactivity）以及学习者的先验知识水平共同决定，无法直接消除，但可通过教学分步优化。
 > - **外在认知负荷（Extraneous Load）** 由不当的教学呈现方式或冗余的探究任务产生，不直接促进学习，应予以消除。
 > - **生物次级知识（Biologically Secondary Knowledge）** 不属于人类天生进化适应范围的知识体系，必须依靠社会制度化的教育与明确指导来传递（Sweller, 2021）。
@@ -82,7 +82,7 @@ updated: 2026-06-16
 
 > [!theory-stance] [[Theoretical Standpoint|理论立场]]
 > - **认知主义（Cognitivism）** 将大脑视为一个类似于计算机的信息处理系统（Information Processing Model），学习的本质就是信息在大脑内部输入、加工、储存和提取的回路。
-> - **[[Positivism|实证主义]]倾向**：主张通过控制[[Variable|变量]]的定量实验（如对比明确指导与探究学习效果的 [[Randomised Controlled Trials|RCT]] [[Mechanism Experiments|机制实验]]）来获取“什么有效”（What Works）的教学科学证据，排斥思辨性的教育理念。
+> - **[[Positivism|实证主义]]倾向** 主张通过控制[[Variable|变量]]的定量实验（如对比明确指导与探究学习效果的 [[Randomised Controlled Trials|RCT]] [[Mechanism Experiments|机制实验]]）来获取“什么有效”（What Works）的教学科学证据，排斥思辨性的教育理念。
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-06-16
 > [!critique-fatal] 生物简化主义与赤字思维的政治风险
 > 批判政策社会学者指出，CLT 在被转换为政策话语时，暴露出深层的生物简化主义（Biological Reductionism）风险（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 6–7]])）：
 > 1. **隐性种族主义与“赤字思维”（Deficit Tropes）** 将复杂的社会经济不平等和[[Learning Gap|学习差距]]硬套入大脑结构和[[Working Memory|工作记忆]]容量的生物学解释，容易固化针对低社会经济地位（SES）或少数族裔学生的“赤字固定形象”（deficit fixed tropes），暗示其认知能力天生落后，从而为教育公平的推卸提供伪科学依据。
-> 2. **[[Screening Off|屏蔽]]历史局限与优生学阴影**：政策文本在强推基于大脑和认知负荷的科学话语时，系统性地对脑科学历史上曾与优生学（Eugenics）和心智测量歧视绑定的黑历史保持沉默，也完全忽视了[[OECD]]（2002, 2007）关于“神经科学绝非教育万能药”的严肃警告（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 7]])）。
+> 2. **[[Screening Off|屏蔽]]历史局限与优生学阴影** 政策文本在强推基于大脑和认知负荷的科学话语时，系统性地对脑科学历史上曾与优生学（Eugenics）和心智测量歧视绑定的黑历史保持沉默，也完全忽视了[[OECD]]（2002, 2007）关于“神经科学绝非教育万能药”的严肃警告（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 7]])）。
 
 > [!tension] 政策工具化与智库的[[Policy Network|理念编排]]
 > 在当前的教育治理中，CLT 被英澳等国的保守智库（如[[Community Innovation Survey|CIS]]）和官方证据中介（如[[Education Endowment Foundation|EEF]]、[[Australian Education Research Organisation|AERO]]）高度工具化。

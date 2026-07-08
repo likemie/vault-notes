@@ -16,7 +16,9 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
-citation: "Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 217–230). Springer."
+citation: "Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 217–230). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - region/global
   - region/germany
@@ -46,7 +48,7 @@ related_methods: []
 related_persons:
   - "[[Immanuel Kant]]"
 related_facts:
-  - "[[Excellence Initiative (Germany)]]"
+  - "[[German Excellence Initiative|Excellence Initiative (Germany)]]"
   - "[[Research Excellence Framework]]"
 related_arguments: []
 sources:
@@ -73,9 +75,9 @@ citation_aliases:
 > [!abstract]
 > 本章以两个相互补充的[[Theoretical Perspective|理论视角]]为[[Analytic Framework|分析框架]]：
 
-- **Foucault [[Governmentality|治理术]]（governmentality）**：借鉴 Foucault（1993, 2004）对治理术的分析——即"行为的引导"（conduct of conduct），关注权力如何通过塑造主体的自我理解而非直接强制来运作。[[Online Self-Assessment|OSA]] 被视为一种"自我技术"（technology of the self），通过让潜在学生对自身进行自我评估和自我优化，引导他们"自由地"做出符合治理目标的选择(pp.220–221)。
+- **Foucault [[Governmentality|治理术]]（governmentality）** 借鉴 Foucault（1993, 2004）对治理术的分析——即"行为的引导"（conduct of conduct），关注权力如何通过塑造主体的自我理解而非直接强制来运作。[[Online Self-Assessment|OSA]] 被视为一种"自我技术"（technology of the self），通过让潜在学生对自身进行自我评估和自我优化，引导他们"自由地"做出符合治理目标的选择(pp.220–221)。
 
-- **Deleuze [[Societies of Control|控制社会]]（societies of control）**：借鉴 Deleuze(1992)关于从[[Disciplina and Doctrina|规训]]社会向控制社会转型的分析。在规训社会中，个体经历一系列封闭机构（家庭→学校→工厂→军营），每次"毕业"意味着从一个机构中被释放。在控制社会中，调制（modulation）取代了模具（mold）——权力不再通过封闭空间运作，而是通过持续的数字追踪和调制，使"解雇"不再存在(pp.221–222)。OSA 作为一种持续的调制机制在入学前就开始运作，将学生纳入一种"永无止境"的优化过程。
+- **Deleuze [[Societies of Control|控制社会]]（societies of control）** 借鉴 Deleuze(1992)关于从[[Disciplina and Doctrina|规训]]社会向控制社会转型的分析。在规训社会中，个体经历一系列封闭机构（家庭→学校→工厂→军营），每次"毕业"意味着从一个机构中被释放。在控制社会中，调制（modulation）取代了模具（mold）——权力不再通过封闭空间运作，而是通过持续的数字追踪和调制，使"解雇"不再存在(pp.221–222)。OSA 作为一种持续的调制机制在入学前就开始运作，将学生纳入一种"永无止境"的优化过程。
 
 二者的结合提供了一种分析高等教育的竞争性治理技术的综合视角。
 
@@ -104,7 +106,7 @@ citation_aliases:
 将 [[Online Self-Assessment|OSA]] 置于竞争性大学的更广框架中理解：借助 Moisio(2018)对[[Knowledge-Based Economy|知识经济]]地缘政治的分析，竞争力已成为重新组织高等教育的"地缘政治装置"（geopolitical apparatus）：
 
 - 排名和指标化实践将大学转化为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用(p.220)
-- 在科研领域，Bröckling & Peter(2017)已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——[[Excellence Initiative (Germany)|德国卓越计划]]和英国 [[Research Excellence Framework|REF]] 就是通过指标和排名构建市场环境的典型技术(p.220)
+- 在科研领域，Bröckling & Peter(2017)已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——[[German Excellence Initiative|德国卓越计划]]和英国 [[Research Excellence Framework|REF]] 就是通过指标和排名构建市场环境的典型技术(p.220)
 - 在教学领域，竞争力表现为对**学生成功的预期管理**——大学竞争的是学生的"潜在未来努力"(p.220)
 
 > 例：两所大学竞争——A 大学和 B 大学。在科研方面，它们可以通过论文数量、引用率、第三方经费等指标直接比较。但在教学方面，它们如何比较？答案是：通过毕业率、学生满意度、雇主评价等"成功"指标——但这些指标衡量的是**已经发生的**结果，而大学真正需要的是在入学前就预判哪些学生有潜力贡献这些指标。这就是为什么 OSA 作为**提前的**管理工具变得至关重要。
@@ -126,8 +128,8 @@ OSA 不能被简化为一种"限制入学"的方法——它通过"匹配"和"�
 OSA 运作的技术-主体机制如下(pp.224–226)：
 
 - **数据化推动**[[Learning Analytics|学习分析]]和教育数据挖掘的兴起提供了"解释学生失败指标"的技术可能性。Antunes(2010)提到的"ASAP 分类器"（ASAP classifiers）——能够自动预测学生成功或失败概率的算法——就是一个典型案例(p.224)
-- **[[Digital Self|数字自我]]的建构**：通过收集和评估学生的兴趣、期望、动机和认知技能数据，OSA 构建了一个"数字自我"（digital self）——一个"统计人造物"(Bächle, 2016, p.194)。但这一过程不是中立的"反映"——正如 Kitchin(2014)和 Espeland & Stevens(2008)对量化所做的批判性分析所示，数据并不"为自己说话"，测量也不"提供通向真实的特权通道"(p.225)
-- **[[Digital Optimum|数字最优]]的生成**：算法理性在持续应用于评估环境的同时，也优化和标准化了评估过程——产生一个"数字最优"（digital optimum），即"完美起点"的理想形象(p.226)
+- **[[Digital Self|数字自我]]的建构** 通过收集和评估学生的兴趣、期望、动机和认知技能数据，OSA 构建了一个"数字自我"（digital self）——一个"统计人造物"(Bächle, 2016, p.194)。但这一过程不是中立的"反映"——正如 Kitchin(2014)和 Espeland & Stevens(2008)对量化所做的批判性分析所示，数据并不"为自己说话"，测量也不"提供通向真实的特权通道"(p.225)
+- **[[Digital Optimum|数字最优]]的生成** 算法理性在持续应用于评估环境的同时，也优化和标准化了评估过程——产生一个"数字最优"（digital optimum），即"完美起点"的理想形象(p.226)
 - **差异驱动的治理** 数字自我与数字最优之间的差距形成了一种**差异**，这种差异施加着算法治理(algorithmic governance, Beer, 2016)。学生面对 OSA 结果，被要求管理自己的"学习组合"——例如，如果 OSA 显示外语经历不足，就主动弥补。这是一种通过数据进行的"质询"（interpellation of data），呼唤风险管理和自我优化(p.226)
 
 > 例：一位高中生对小语种感兴趣，完成了一所大学的 OSA。结果显示她的"外语经历"得分较低（因为她只在课堂上学过英语），但在"文化兴趣"维度上得分很高。系统给出的建议是："你的文化兴趣与本专业高度匹配，但在外语经历方面，你需要额外投入。建议你在入学前参加语言交换项目或暑期语言班。"这位学生可能会接受这个建议——不是因为大学强迫她，而是因为 OSA 的逻辑让她**自己觉得**这是合理的。这就是权力通过自我技术运作的典型机制：不是"你必须做 X"，而是"根据你的数据，X 对你来说是有益的"。

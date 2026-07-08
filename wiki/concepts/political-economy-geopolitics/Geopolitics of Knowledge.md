@@ -114,9 +114,9 @@ updated: 2026-05-20
 > "geopolitics of"之后最常见的名词从 2010 年起已是 Knowledge——超越 energy、oil、capitalism、Europe、war——知识已成为当代地缘政治中书写和辩论最密集的主题。（[[Argument_Partaken_2022_Springer|Partaken, 2022, p.68]]）
 
 > [!boundary]- 概念边界
-> - **不等于[[Classical Geopolitics|古典地缘政治]]**：古典地缘政治以领土控制、军事力量和民族国家为中心；GPK 关注[[Relational Space|关系性空间]]构型，核心维度是政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]（Thompson & Parreira do Amaral, 2022, pp.9–11）。
+> - **不等于[[Classical Geopolitics|古典地缘政治]]** 古典地缘政治以领土控制、军事力量和民族国家为中心；GPK 关注[[Relational Space|关系性空间]]构型，核心维度是政治想象、全球连接性和[[Knowledge-Based Economization|知识经济化]]（Thompson & Parreira do Amaral, 2022, pp.9–11）。
 > - **不等于地缘经济学（geoeconomics）** 地缘经济学强调贸易、投资和市场逻辑，与 GPK 共享经济竞争关注但较少涉及[[Knowledge Production|知识生产]]的政治和[[Epistemology|认识论]]维度（Thompson & Parreira do Amaral, 2022, p.11）。
-> - **不限于[[International Education|国际教育]]政策**：GPK 渗透到认识论治理（研究资助分配机制）和主体性生产的微观层面，远超出国际教育政策范畴。
+> - **不限于[[International Education|国际教育]]政策** GPK 渗透到认识论治理（研究资助分配机制）和主体性生产的微观层面，远超出国际教育政策范畴。
 
 ---
 
@@ -191,7 +191,7 @@ updated: 2026-05-20
 > ```
 
 > [!line-a] 空间竞争与知识经济化
-> 高等教育被嵌入关于未来、竞争力、经济增长的集体**政治想象**之中，这些想象驱动政策和制度变革（Thompson & Parreira do Amaral, 2022, p.11）。在此过程中，高等教育机构从民族国家框架中"脱位"并在全球政治经济[[Champ|场域]]中"再定位"，物理空间（从知识储存场所转变为"makerspaces"）和社会空间全面**重构**（Thompson & Parreira do Amaral, 2022, pp.6–7）。[[Knowledge-Based Economization|知识经济化]]将知识视为产生价值和比较优势的关键资产——包括专有知识（专利、创新）、创新学习环境和人力资本（Thompson & Parreira do Amaral, 2022, p.9）。
+> 高等教育被嵌入关于未来、竞争力、经济增长的集体**政治想象**之中，这些想象驱动政策和制度变革（Thompson & Parreira do Amaral, 2022, p.11）。在此过程中，高等教育机构从民族国家框架中"脱位"并在全球政治经济[[Champ|场域]]中"再定位"，物理空间（从知识储存场所转变为"makerspaces"）和社会空间全面**重构（Thompson & Parreira do Amaral, 2022, pp.6–7）**。[[Knowledge-Based Economization|知识经济化]]将知识视为产生价值和比较优势的关键资产——包括专有知识（专利、创新）、创新学习环境和人力资本（Thompson & Parreira do Amaral, 2022, p.9）。
 
 > [!line-b] Hub-Flow 想象与固着-流动张力
 > [[Knowledge-Based Economization|知识经济化]]的核心地缘政治悖论是[[Fixity-Motion Tension|固着-流动张力]]：国家和地方的空间配置被创造出来以锚定和促进全球资本流动，但流动性本身又不断动摇这些配置的稳定性。集群、创意城市、学习区域、[[Innovation Ecosystem|创新生态系统]]等成为[[Knowledge-Based Economy|知识经济]]空间组织的具体表述——[[Hub and Flow Imaginaries]]将世界划分为知识资本流动的枢纽中心与边缘区域，正是这种地缘政治想象的当代表现（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]]）。
@@ -207,7 +207,7 @@ updated: 2026-05-20
 ---
 
 > [!line-a] [[Knowledge Production|知识生产]]与转移的双面（Partaken）
-> [[Argument_Partaken_2022_Springer|Partaken（2022）]]批评后殖民 GPK 传统过度聚焦**知识生产**（谁生产、以何种视角、为谁的利益），而忽视了知识一旦被生产后进入的动态过程——**[[Knowledge Transfer|知识转移]]**：挪用、传授、窃取、审查、监视和破坏。当前国际关系默认以自上而下模态运作——从强制转移、间谍、监视、审查到破坏，这些动态构成了当代 GPK 竞争的实际主战场（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]]）。详见 [[Knowledge Transfer#核心要素]]。
+> [[Argument_Partaken_2022_Springer|Partaken（2022）]]批评后殖民 GPK 传统过度聚焦**知识生产**（谁生产、以何种视角、为谁的利益），而忽视了知识一旦被生产后进入的动态过程——**[[Knowledge Transfer|知识转移]]** 挪用、传授、窃取、审查、监视和破坏。当前国际关系默认以自上而下模态运作——从强制转移、间谍、监视、审查到破坏，这些动态构成了当代 GPK 竞争的实际主战场（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]]）。详见 [[Knowledge Transfer#核心要素]]。
 
 > [!line-b] 叙事知识衰退与认识论选择
 > Lyotard（1979/1984）区分的叙事知识（narrative knowledge）在全球 GPK 中处于急剧衰退——具有商业价值的科学知识得到国家和产业的有力赞助，叙事知识（人文社科的意义建构和伦理判断功能）被系统性边缘化（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75]]）。这与认识论治理的制度逻辑相互强化：不具商业价值的知识不仅得不到赞助，还被制度设计排除出"合理知识"的范畴（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–49]]）。详见 [[Narrative Knowledge]]。
@@ -404,7 +404,7 @@ updated: 2026-05-20
 
 > [!tension] 核心争议
 > GPK 内部存在三组理论张力：
-> - **[[Critical Geopolitics|批判地缘政治学]] vs 去殖民传统**：谁的问题更根本？建构地缘政治秩序的空间想象（批判传统）vs [[Epistemology|认识论]]本身的殖民性（去殖民传统）。二者可综合互补（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）
+> - **[[Critical Geopolitics|批判地缘政治学]] vs 去殖民传统** 谁的问题更根本？建构地缘政治秩序的空间想象（批判传统）vs [[Epistemology|认识论]]本身的殖民性（去殖民传统）。二者可综合互补（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39–40]]）
 > - **Partaken 的两面批判** 后殖民 GPK 传统是否过度聚焦[[Knowledge Production|知识生产]]而忽视[[Knowledge Transfer|知识转移]]的动态现实——挪用、间谍、审查和破坏才是当代 GPK 竞争的主战场？（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75]]）
 > - **经济中心化争议** GPK 框架是否过度强调经济逻辑，从而系统性地忽视高等教育的文化、伦理和民主功能？（Thompson & Parreira do Amaral, 2022, pp.12–13）
 

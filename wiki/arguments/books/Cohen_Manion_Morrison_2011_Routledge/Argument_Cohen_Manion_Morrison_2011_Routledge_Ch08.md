@@ -21,6 +21,7 @@ year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
 citation_aliases: []
+publication_place: "London"
 tags:
   - method/sampling
   - source/textbook
@@ -89,7 +90,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08
 
@@ -145,7 +146,7 @@ updated: 2026-06-21
 >
 > 研究者在决定抽样策略时必须就以下五项因素做出判断（pp.143–144）：
 >
-> 1. **[[Sample Size Determination|样本量]]**（sample size），即多少案例才算足够
+> 1. **[[Sample Size Determination|样本量]]（sample size）**，即多少案例才算足够
 > 2. **样本的代表性与参数特征（representativeness and parameters）**，即[[Sampling Frame|抽样框]]（sampling frame），明确界定谁属于总体、谁不属于
 > 3. **样本的准入（access to the sample）**，不仅准入是否被允许，还需确保准入实际上可行
 > 4. **抽样策略（sampling strategy）**，选择[[Random Sampling|概率抽样]]（每个成员有均等概率被选中）还是[[Non-probability Sampling|非概率抽样]]（某些成员肯定被排除、另一些肯定被纳入）
@@ -197,7 +198,7 @@ updated: 2026-06-21
 >
 > - **总体变异性越大，所需样本越大** Gorard（2003: 62）指出，调查 IQ（范围约 70–150）这类高变异变量，可能需要比低变异变量更大的样本。
 > - **名义数据需要更大样本** Oppenheim（1992: 44）指出，名义数据的样本量可能需要比等距和比率数据更大，本质上是子组数量的问题，可能类别越多，样本越大。
-> - **Borg & Gall（1979: 195）的五条大样本规则**：当变量多、预期差异或关系小、样本需分子组、总体在关键变量上[[Heterogeneity|异质性]]强、因变量的可靠测量不可得时，样本量应当更大。
+> - **Borg & Gall（1979: 195）的五条大样本规则** 当变量多、预期差异或关系小、样本需分子组、总体在关键变量上[[Heterogeneity|异质性]]强、因变量的可靠测量不可得时，样本量应当更大。
 
 ---
 
@@ -458,7 +459,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 > - **参与者自身原因** 逃学者因定义就不会在场；受创伤的 AIDS 咨询师无法面对研究者再次讨论痛苦工作，做这份工作已经够痛苦了，不需要和研究者再经历一遍。
 > - **实际原因** 医生或教师根本没有时间与研究者相处。
 > - **保护性原因** 刚收到差评的学校有事需要保护；有新发明或重要发现的人不想披露成功的秘密，知识产权交易使这成为一个活生生的研究者问题。
-> - **[[Gatekeepers|守门人]]（Gatekeepers）**：控制研究者接触目标人群的人。对学校员工是校长、校董、学校秘书、班主任；对学生是朋友、帮派成员、家长、社工（p.154）。
+> - **[[Gatekeepers|守门人]]（Gatekeepers）** 控制研究者接触目标人群的人。对学校员工是校长、校董、学校秘书、班主任；对学生是朋友、帮派成员、家长、社工（p.154）。
 
 ---
 
@@ -503,7 +504,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 >
 > 例如学校有 $N = 1400$ 名学生，随机样本表指示需 $sn = 301$ 人，则 $f = 1400 / 301 \approx 5$，即每隔五人选取一人。
 >
-> **周期性风险（Periodicity）**（Calder, 1979）：若名单存在规律性排序，例如先列全部女生再列全部男生（可能等不到男生就已达样本量），或按班级从高能力到低能力排列（每班约 30 人，每隔 30 人选取意味着几乎全部抽到低能力学生），系统抽样会严重扭曲样本。更根本的是，系统抽样违反了概率抽样的基本前提，被跳过的名字（如第 1–4、6–9 名）不可能被选中，每个人有均等被选中的机会这一原则不成立。
+> **周期性风险（Periodicity）（Calder, 1979）** 若名单存在规律性排序，例如先列全部女生再列全部男生（可能等不到男生就已达样本量），或按班级从高能力到低能力排列（每班约 30 人，每隔 30 人选取意味着几乎全部抽到低能力学生），系统抽样会严重扭曲样本。更根本的是，系统抽样违反了概率抽样的基本前提，被跳过的名字（如第 1–4、6–9 名）不可能被选中，每个人有均等被选中的机会这一原则不成立。
 >
 > 缓解方法是确保初始名单随机排列，且起始点随机选择（pp.155–156）。
 
@@ -616,9 +617,9 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 > - 通信网络不发达的情境，如寻找代课替补教师但没有正式名单
 > - 外部研究者难以通过正式渠道进入学校的场景，通过朋友和熟人的非正式网络而非正式渠道
 >
-> **受访者驱动抽样**（Respondent-Driven Sampling, Heckathorn, 1997, 2002）：受访者不仅识别更多联系人，还主动招募他们参与研究，参与者可能对同伴的招募比对研究者的招募更合作。在研究隐藏人群（hidden populations）时特别有用，因为通常没有抽样框，人群可能守卫隐私，且即使准入获得，真实回应也未必可得。
+> **受访者驱动抽样（Respondent-Driven Sampling, Heckathorn, 1997, 2002）** 受访者不仅识别更多联系人，还主动招募他们参与研究，参与者可能对同伴的招募比对研究者的招募更合作。在研究隐藏人群（hidden populations）时特别有用，因为通常没有抽样框，人群可能守卫隐私，且即使准入获得，真实回应也未必可得。
 >
-> **声誉滚雪球**（Reputational Snowball, Farquharson, 2005）：利用人们的声誉联系识别[[Policy Network|政策网络]]中的关键人物，对研究有权势的个人和政策制定者尤为有效。
+> **声誉滚雪球（Reputational Snowball, Farquharson, 2005）** 利用人们的声誉联系识别[[Policy Network|政策网络]]中的关键人物，对研究有权势的个人和政策制定者尤为有效。
 >
 > > [!warning] 滚雪球抽样的偏差风险
 > >
@@ -644,7 +645,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 >
 > 决策基于理论相关性，即那些有助于生成尽可能多属性和类别的群体。样本量相对不重要，样本量可以无限大，或者作为退路，大到足以使类别和问题饱和。
 >
-> **理论饱和**（Theoretical Saturation, Glaser & Strauss, 1967: 61）：当新数据不再推进、修改、限定、扩展或增加已发展的理论时，抽样结束。由于事先不知道需要多少数据或什么范围的数据，样本量难以提前确定，这是一个迭代过程而非预先规划（pp.163–164）。
+> **理论饱和（Theoretical Saturation, Glaser & Strauss, 1967: 61）** 当新数据不再推进、修改、限定、扩展或增加已发展的理论时，抽样结束。由于事先不知道需要多少数据或什么范围的数据，样本量难以提前确定，这是一个迭代过程而非预先规划（pp.163–164）。
 
 ---
 
@@ -693,11 +694,11 @@ Teddlie & Tashakkori（2009: 180–91）指出，混合方法研究通常在同�
 
 > [!taxonomy] 混合方法抽样的三种基本设计
 >
-> **[[Parallel Mixed Methods Sampling|平行混合方法抽样]]**（Parallel Mixed Methods Sampling）：概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集。Onwuegbuzie & Leech（2007: 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）（p.165）。
+> **[[Parallel Mixed Methods Sampling|平行混合方法抽样]]（Parallel Mixed Methods Sampling）** 概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集。Onwuegbuzie & Leech（2007: 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）（p.165）。
 >
-> **[[Sequential Mixed Methods Sampling|顺序混合方法抽样]]**（Sequential Mixed Methods Sampling）：一种样本先于另一种并影响后续样本。例如定量数据为[[Qualitative Interview|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、焦点小组）为量化调查识别议题（pp.165–166）。
+> **[[Sequential Mixed Methods Sampling|顺序混合方法抽样]]（Sequential Mixed Methods Sampling）** 一种样本先于另一种并影响后续样本。例如定量数据为[[Qualitative Interview|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、焦点小组）为量化调查识别议题（pp.165–166）。
 >
-> **[[Multilevel Mixed Methods Sampling|多层次混合方法抽样]]**（Multilevel Mixed Methods Sampling）：不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie & Leech（2007: 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
+> **[[Multilevel Mixed Methods Sampling|多层次混合方法抽样]]（Multilevel Mixed Methods Sampling）** 不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie & Leech（2007: 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
 
 ---
 

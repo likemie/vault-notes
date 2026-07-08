@@ -7,7 +7,7 @@ aliases:
   - non-directional hypothesis
   - one-tailed hypothesis
   - two-tailed hypothesis
-summary: 假设检验中根据是否预测关系方向区分的两种假设类型：方向性假设陈述差异或关系的方向（需单尾检验），非方向性假设仅预测存在差异或关系（需双尾检验），各自适用于不同的研究情境。
+summary: "假设检验中根据是否预测关系方向区分的两种假设类型：方向性假设陈述差异或关系的方向（需单尾检验），非方向性假设仅预测存在差异或关系（需双尾检验），各自适用于不同的研究情境。"
 type: concept
 domain: "research-methodology"
 related_count: 8

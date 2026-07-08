@@ -64,13 +64,13 @@ RIA 的独特之处在于其运行模式从一开始就是"共同设计"（co-de
 > [!abstract]
 > RIA 的运作建立在多重机制的协同之上([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.252–254]])：
 
-**共同选址（[[University-Industry Co-location|co-location]]）**：临床医生、科学家和工程师在同一物理空间中并肩工作。这一安排使研究者和终端用户只需走过走廊就能看到研究进展的实际应用，创造了即时反馈循环。
+**共同选址（[[University-Industry Co-location|co-location]]）** 临床医生、科学家和工程师在同一物理空间中并肩工作。这一安排使研究者和终端用户只需走过走廊就能看到研究进展的实际应用，创造了即时反馈循环。
 
-**[[Knowledge Mobilisation|知识动员]]网络**：通过 Schlegel Villages 的退休住宅网络，新入住居民可参与 Schlegel 功能性体适能评估方案（Functional Fitness Assessment）。RIA 开发的新技术——如脑血管健康生物标志物检测——被直接嵌入该评估方案，实现了从实验室到临床的快速转化。
+**[[Knowledge Mobilisation|知识动员]]网络** 通过 Schlegel Villages 的退休住宅网络，新入住居民可参与 Schlegel 功能性体适能评估方案（Functional Fitness Assessment）。RIA 开发的新技术——如脑血管健康生物标志物检测——被直接嵌入该评估方案，实现了从实验室到临床的快速转化。
 
 **人才培养** 研究生在 RIA 研究人员的指导下参与跨学科老龄化研究项目，RIA 还与 Conestoga 学院合作进行护理培训。产业环境中的研究经历直接回应了博士毕业生就业多元化的现实需求。
 
-**创新模型（[[RIA Model for Innovation]]）**：包含四个阶段——知识生成（Knowledge Generation）、孵化（Incubation，发现和开发创新）、加速（Acceleration，在新环境中扩展和评估创新）、动员（Mobilization，分享知识惠及各地老年人）。
+**创新模型（[[RIA Model for Innovation]]）** 包含四个阶段——知识生成（Knowledge Generation）、孵化（Incubation，发现和开发创新）、加速（Acceleration，在新环境中扩展和评估创新）、动员（Mobilization，分享知识惠及各地老年人）。
 
 **跨院系参与** 三个学院的参与使 RIA 的成功经验在校内产生示范效应。参与 RIA 的教师成为同院系同伴的榜样和导师，以自身成功经验降低其他教师对[[University-Industry Collaboration|产学合作]]的疑虑。
 

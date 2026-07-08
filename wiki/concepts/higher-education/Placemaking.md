@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-07-08
 ---
 
 # Placemaking
@@ -73,7 +73,7 @@ TUFF 将其与传统的建筑资产管理区分开来——后者关注建筑本
 > [!example]
 > - **[[Tech Square at Georgia Tech|Tech Square]]**（佐治亚理工学院）：[[TUFF]] 的 Tom Hall 在此创新了"非传统激活"概念。Tech Square 经历了两次全国严重衰退和全球疫情，仍保持活力。TUFF 认为其韧性来自成功的文化建设、长期投资和真正响应性的场所营造（pp.136–137, 139）
 > - **[[Research Triangle Park]]**（RTP）：如今已发展为一个拥有多种混合用途场馆的充满活力的社区，有进一步开发混合用途建筑和基础设施的计划，以鼓励创业者、学者和产业伙伴之间有意义的互动。RTP 总裁兼 CEO Scott Levitan 强调，基于现有基础设施和人才设计项目与场所营造至关重要（pp.130–131）
-> - **[[Purdue Discovery Park|Purdue Discovery District]]**：其官网在突出研发成功的同时也强调对潜在居民的综合价值——展示区域的可步行性、顶级公立学校和快速扩张的混合用途房地产（p.132）
+> - **[[Purdue Discovery Park|Purdue Discovery District]]** 其官网在突出研发成功的同时也强调对潜在居民的综合价值——展示区域的可步行性、顶级公立学校和快速扩张的混合用途房地产（p.132）
 
 ---
 

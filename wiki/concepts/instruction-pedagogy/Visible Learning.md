@@ -167,7 +167,7 @@ updated: 2026-06-10
 > [!proc] 操作步骤
 > 1. **确定 6 个影响源（sources of influence）** 家庭、学校（作为环境和行政机构）、教师、课程、教学策略与方法、学生
 > 2. **每个影响源下设评估[[Variable|变量]]**（共 138 个因素），从 Piaget 的儿童智力发展阶段到暑假
-> 3. **对每个因素综合各[[Meta-analysis|元分析]]，计算平均[[Effect Size|效应量]]**（d），范围 -2 到 2
+> 3. **对每个因素综合各[[Meta-analysis|元分析]]，计算平均[[Effect Size|效应量]]（d）**，范围 -2 到 2
 
 ### 效应量排名
 
@@ -182,7 +182,7 @@ updated: 2026-06-10
 
 ### 学习方差分解
 
-> [!stat-cards] 影响学业成就的方差来源（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.87–88]]）
+> [!stat-cards] 影响学业成就的方差来源（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.87–88]]）
 >
 > | 方差来源 | 估计比例/效果 | 说明 |
 > |---------|-------------|------|
@@ -247,7 +247,7 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 
 ### 八项教师思维框架（Mind Frames）
 
-> [!frames-ref] 八项教师思维框架（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.88–89]]）
+> [!frames-ref] 八项教师思维框架（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.88–89]]）
 > 1. **Know thy impact** — 每日追问影响的含义、幅度与覆盖学生比例；是所有框架的[[Epistemology|认识论]]核心
 > 2. **I am a change agent** — 教师是主动改变学生学习轨迹的推动者，而非被动传递者
 > 3. **Inform from the outset** — 课程开始明确成功标准，将目标从隐性变为显性
@@ -292,7 +292,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 
 ---
 
-> [!abstract] 高等教育应用（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.80–81]]）
+> [!abstract] 高等教育应用（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.80–81]]）
 > 影响不仅通过测试分数衡量，也通过[[Student Engagement|学生投入]]程度、对错误的容忍度、合作意愿与高度兴趣体现。
 
 > [!stat-cards] 六项高影响条件
@@ -305,10 +305,10 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > | 适当挑战 | 0.57 | 设置适当挑战水平，不只要求"尽力而为" |
 
 > [!finding-cards] 应用发现
-> 1. **问题式学习（[[Problem-Based Learning|PBL]]）**（9项元分析）— 总体效应低（d≈0.08–0.24）；先备知识不足时效果尤差（d=−0.79）。引入时机比形式本身更关键，新手倾向逆向推理导致更多错误（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.84–85]]）。
-> 2. **在线 / 远程 vs 面授**（17项元分析）— 成绩无显著差异（d≈0.12）。方法本身不重要，重要的是成功标准、挑战与反馈质量（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.86]]）。
-> 3. **学生评教**（7项元分析，141研究）— 与教师有效性高度相关（d=0.47）；关键不在评教准确性而在教师是否利用反馈改进教学（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, pp.86–87]]）。
-> 4. **笔记与回顾** — 记笔记改善有限（d=0.34），但回顾笔记效应极大（d=1.56）——"重要的不是记，而是回顾"（[[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.84]]）。
+> 1. **问题式学习（[[Problem-Based Learning|PBL]]）**（9项元分析）— 总体效应低（d≈0.08–0.24）；先备知识不足时效果尤差（d=−0.79）。引入时机比形式本身更关键，新手倾向逆向推理导致更多错误（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.84–85]]）。
+> 2. **在线 / 远程 vs 面授**（17项元分析）— 成绩无显著差异（d≈0.12）。方法本身不重要，重要的是成功标准、挑战与反馈质量（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, p.86]]）。
+> 3. **学生评教**（7项元分析，141研究）— 与教师有效性高度相关（d=0.47）；关键不在评教准确性而在教师是否利用反馈改进教学（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.86–87]]）。
+> 4. **笔记与回顾** — 记笔记改善有限（d=0.34），但回顾笔记效应极大（d=1.56）——"重要的不是记，而是回顾"（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, p.84]]）。
 
 ---
 
@@ -425,7 +425,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 ---
 
 > [!citation-card]-
-> "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015, p.81]])
+> "It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical." ([[Argument_Hattie_2015_SOTLP|Hattie, 2015b, p.81]])
 
 ---
 

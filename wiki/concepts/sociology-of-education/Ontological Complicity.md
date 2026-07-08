@@ -46,7 +46,7 @@ updated: 2026-06-10
 ## 定义
 
 > [!info] 核心定义
-> **[[Ontology|本体论]]共谋**（Ontological Complicity）是法国社会学家[[Pierre Bourdieu|皮埃尔·布迪厄]]关系社会学中的一个核心概念，指行动者的惯习（[[Habitus]]）与他们所处的社会[[Champ|场域]]（field）之间一种深层的、具身性（embodied）和前[[Reflexivity|反思性]]（pre-reflexive）的双向调整与相互契合关系。在这种共谋状态下，行动者在潜意识中将场域的既有规则和权力关系视为理所当然，从而在无意识中参与了社会场域现状与支配结构的再生产，增加了打破现状的阻力。([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 414]])
+> **[[Ontology|本体论]]共谋（Ontological Complicity）**是法国社会学家[[Pierre Bourdieu|皮埃尔·布迪厄]]关系社会学中的一个核心概念，指行动者的惯习（[[Habitus]]）与他们所处的社会[[Champ|场域]]（field）之间一种深层的、具身性（embodied）和前[[Reflexivity|反思性]]（pre-reflexive）的双向调整与相互契合关系。在这种共谋状态下，行动者在潜意识中将场域的既有规则和权力关系视为理所当然，从而在无意识中参与了社会场域现状与支配结构的再生产，增加了打破现状的阻力。([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 414]])
 
 > [!quote]
 > 在布迪厄的社会学中，本体论共谋是指客观结构与主观认知图式之间的前反思性吻合。这种深植于惯习中的共谋，使得行动者几乎不可能自发与他们所习以为常的世界割裂。

@@ -45,7 +45,7 @@ updated: '2026-05-18'
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> My School 网站提供所有澳大利亚学校的**人口统计信息**，特别侧重于**基于 NAPLAN 标准化考试成绩比较学校**（Keddie et al., 2020, p.434）。
+> My School 网站提供所有澳大利亚学校的**人口统计信息**，特别侧重于**基于 NAPLAN 标准化考试成绩比较学校（Keddie et al., 2020, p.434）**。
 >
 > > 网站的一个关键理由是为家长提供关于学校质量的透明度，以支持其为子女做出知情的[[School Choice|学校选择]]（Keddie et al., 2020, p.434, citing Doolan & Blackmore, 2018; Lingard, Sellar, & Savage, 2014）。
 >
@@ -73,7 +73,7 @@ updated: '2026-05-18'
 ## 效果与评价
 
 > [!success] 效果与评价
-> **市场问责模型驱动的分层效应**（Keddie et al., 2020, p.434）：
+> **市场问责模型驱动的分层效应（Keddie et al., 2020, p.434）**
 >
 > My School 体现了"该市场问责模型[[Hypothesis|假设]]：失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"。
 >

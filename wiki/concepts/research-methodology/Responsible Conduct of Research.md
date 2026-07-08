@@ -50,7 +50,7 @@ updated: 2026-06-04
 > [!abstract]
 > RCR 涵盖以下四个维度([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.265–266]])：
 
-1. **[[Research Ethics|研究伦理]]**：包括人类受试者保护（[[Institutional Review Board|IRB]] 审查与[[Informed Consent|知情同意]]）、动物受试者保护和研究场所安全
+1. **[[Research Ethics|研究伦理]]** 包括人类受试者保护（[[Institutional Review Board|IRB]] 审查与[[Informed Consent|知情同意]]）、动物受试者保护和研究场所安全
 2. **数据管理** 数据的收集、存储、安全保护和共享规范，确保数据的真实性、保密性和连续性
 3. **实验设计** 研究设计的严谨性，包括方法选择的合理性、[[Variable|变量]]控制和可重复性
 4. **成果报告** 诚实报告研究发现，避免选择性报告正面结果、伪造数据或不当署名

@@ -81,7 +81,7 @@ updated: '2026-06-19'
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **近年（截至 2015 年）**：作为卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）的关键研究者，将来自组织研究和公共健康的[[Improvement Science|改进科学]]方法论系统性地引入美国教育研究。
+> - **近年（截至 2015 年）** 作为卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）的关键研究者，将来自组织研究和公共健康的[[Improvement Science|改进科学]]方法论系统性地引入美国教育研究。
 > - **2015 年** 与合著者发表里程碑式著作 *Learning to Improve*，标志着教育改进科学与[[Snowball Sampling|网络化]]改进共同体理论与实践的正式确立。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 
 ---

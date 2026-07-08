@@ -77,7 +77,7 @@ citation_aliases:
 ## 理论立场
 
 > [!abstract] [[Theoretical Standpoint|理论立场]]
-> Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本**（evidence-based, 非 evidence-informed）：教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效实践；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
+> Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本（evidence-based, 非 evidence-informed）** 教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效实践；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
 >
 > > “该定义并非仅仅指传播关于有效实践的一般原则的信息，通常发现这种做法对实践或结果并不能产生多大影响。”
 > ("This definition does not refer to simply disseminating information about generic principles of effective practice, which has not generally been found to make much of a difference in practices or outcomes.") (p. 3)
@@ -182,9 +182,9 @@ citation_aliases:
 > **批评内容** Slavin 未实质性回应 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 的三重缺陷批判、[[Argument_Cowen_2019_ERE|Cowen (2019)]] 的官僚功能分析、Deaton & Cartwright (2018) 的 [[Randomised Controlled Trials|RCT]] 哲学批评——仅将所有这些工作笼统归为"怀疑论"（skepticism），以此规避与批判阵营的核心论点进行正面交锋。
 >
 > **回避的核心论点**
-> - **Biesta**：知识缺陷——证据无法提供确定性，只提供过去关系的记录
-> - **Cowen**：[[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
-> - **Deaton & Cartwright**：RCT 不解决[[External Validity|外部效度]]问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
+> - **Biesta** 知识缺陷——证据无法提供确定性，只提供过去关系的记录
+> - **Cowen** [[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
+> - **Deaton & Cartwright** RCT 不解决[[External Validity|外部效度]]问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
 >
 > **影响** 此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效对话——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/Hattie 的支持）。
 >

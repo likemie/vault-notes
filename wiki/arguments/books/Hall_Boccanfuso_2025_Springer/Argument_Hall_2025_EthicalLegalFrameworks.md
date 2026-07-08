@@ -3,7 +3,9 @@ summary: "产学合作协议的类型学与谈判框架梳理，从法律、伦�
 type: argument
 authors:
   - "Hall, R."
-citation: "Hall, R. (2025). Ethical relationships, legal frameworks, and agreements. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 259–270). Springer."
+citation: "Hall, R. (2025). Ethical relationships, legal frameworks, and agreements. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 259–270). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/research-governance"

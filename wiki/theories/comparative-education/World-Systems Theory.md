@@ -69,7 +69,7 @@ updated: '2026-05-18'
 
 > [!info]
 > - 以政治经济为根本决定因素，科学和高等教育被视为上层建筑，缺乏相对于经济基础的自主性
-> - 其刚性空间性[[Hypothesis|假设]]无法容纳变革——Marginson 指出世界体系理论犯了**[[Methodological Globalism|方法论全球主义]]**（methodological globalism）的错误，即认为国家尺度完全由全球尺度决定。这是**[[Methodological Nationalism|方法论民族主义]]**的镜像错误：一个只看见国家，另一个只看见全球系统([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])
+> - 其刚性空间性[[Hypothesis|假设]]无法容纳变革——Marginson 指出世界体系理论犯了**[[Methodological Globalism|方法论全球主义]]（methodological globalism）**的错误，即认为国家尺度完全由全球尺度决定。这是**[[Methodological Nationalism|方法论民族主义]]**的镜像错误：一个只看见国家，另一个只看见全球系统([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 13]])
 
 ---
 

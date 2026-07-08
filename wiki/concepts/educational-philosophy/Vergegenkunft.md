@@ -29,7 +29,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-07-08
 ---
 
 ## 定义
@@ -52,6 +52,6 @@ updated: '2026-05-18'
 
 > [!abstract] 核心要素
 > - **三重时间的融合** Vergangenheit（过去）+ Gegenwart（现在）+ Zukunft（未来）= Vergegenkunft——一个字里同时容纳三个时间维度
-> - **非线性的[[Causality|因果]]**：不是"A（过去）→ B（现在）→ C（未来）"，而是 A、B、C 同时在场、互相塑造
+> - **非线性的[[Causality|因果]]** 不是"A（过去）→ B（现在）→ C（未来）"，而是 A、B、C 同时在场、互相塑造
 >
 

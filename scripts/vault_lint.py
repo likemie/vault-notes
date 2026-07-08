@@ -1072,13 +1072,13 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                 seen_alias_keys.add(key)
                 if title_key and key == title_key:
                     issues.append(Issue("WARN", rel(path), f"alias duplicates the entry title and is redundant: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
-                has_cjk = any("㐀" <= ch <= "鿿" for ch in a)
+                alias_has_cjk = any("㐀" <= ch <= "鿿" for ch in a)
                 has_latin_word = re.search(r"[A-Za-z]{2,}", a) is not None
-                if has_cjk and has_latin_word:
+                if alias_has_cjk and has_latin_word:
                     issues.append(Issue("WARN", rel(path), f"alias mixes Chinese and English; split into separate aliases: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
-                if not has_cjk and len(a) <= 2:
+                if not alias_has_cjk and len(a) <= 2:
                     issues.append(Issue("WARN", rel(path), f"alias is too short and ambiguous for auto-linking: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
-                if has_cjk and len(a) == 1:
+                if alias_has_cjk and len(a) == 1:
                     issues.append(Issue("INFO", rel(path), f"single-character Chinese alias is usually too broad; keep only if it is a strong standalone term: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
 
     # Only Argument pages maintain source record links.
@@ -1235,7 +1235,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                         ))
 
         publication_type = str(data.get("publication_type") or "").strip()
-        if publication_type in {"book", "edited-volume", "book-chapter"}:
+        if publication_type in {"book", "edited-volume", "book-chapter"} and TEMPLATES_DIR not in path.parents:
             publisher = str(data.get("publisher") or "").strip()
             publication_place = str(data.get("publication_place") or "").strip()
             if not publication_place:
@@ -2303,7 +2303,12 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
             text = read_text(path)
         except Exception:
             continue
-        new_text, n1 = fix_body_spans(text, argument_citations)
+        new_text, n1 = text, 0
+        for _ in range(3):  # english-outside fixes can expose new colon issues
+            new_text, n = fix_body_spans(new_text, argument_citations)
+            n1 += n
+            if not n:
+                break
         new_text, n2 = fix_summary_quotes(new_text)
         if new_text != text:
             path.write_text(new_text, encoding="utf-8")

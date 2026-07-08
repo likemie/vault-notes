@@ -5,7 +5,7 @@ aliases:
   - external generalizability
   - 内部推广性
   - 外部推广性
-summary: Onwuegbuzie & Leech（2007）对质性研究推广性的区分：内部推广性指子组数据推广到整个样本，外部推广性指样本推广到更广泛的总体，前者在质性研究中更常见可行
+summary: "Onwuegbuzie & Leech（2007）对质性研究推广性的区分：内部推广性指子组数据推广到整个样本，外部推广性指样本推广到更广泛的总体，前者在质性研究中更常见可行"
 type: concept
 domain: "research-methodology"
 related_count: 7

@@ -47,7 +47,7 @@ updated: 2026-05-26
 ## 与创新生态系统的关系
 
 > [!note]-
-> Scott 和 Kirst（2017）在 Higher Education and Silicon Valley 中指出，基于地点的[[Innovation Ecosystem|创新生态系统]]需要一系列学院和大学，而非仅一所精英大学。加州高等教育总体规划下的三层体系共同支撑了硅谷创新经济的人才需求——不仅是公司创始人，还包括"整个劳动力队伍"（the entirety of the workforce）（p.12）。
+> Scott & Kirst（2017）在 Higher Education and Silicon Valley 中指出，基于地点的[[Innovation Ecosystem|创新生态系统]]需要一系列学院和大学，而非仅一所精英大学。加州高等教育总体规划下的三层体系共同支撑了硅谷创新经济的人才需求——不仅是公司创始人，还包括"整个劳动力队伍"（the entirety of the workforce）（p.12）。
 
 > [!quote]
 > "As the seat of a world-famous innovation economy, this region's success rests upon knowledge and training of its workforce."（Scott & Kirst, 2017，转引自 p.12）

@@ -73,4 +73,4 @@ updated: 2026-06-09
 ## 实证案例 / 政策映射
 
 > [!example]
-> - **“[[Visible Learning|可见的学习]]”（Visible Learning，VL）的商业网络**：[[John Hattie|哈蒂]]与 Corwin 出版社以及澳大利亚教育领导者理事会（ACEL）形成广泛的商业合作，推销其标准化的“VL学校（Hattie Schools）”认证。这让大量学校主动剪裁自己的本地情境与文化特色，在组织身份上贴标为“VL学校”以迎合系统的效率问责，这复刻了卡拉汉所描述的工商业模式对学校文化的全面收编。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 419]])
+> - **“[[Visible Learning|可见的学习]]”（Visible Learning，VL）的商业网络** [[John Hattie|哈蒂]]与 Corwin 出版社以及澳大利亚教育领导者理事会（ACEL）形成广泛的商业合作，推销其标准化的“VL学校（Hattie Schools）”认证。这让大量学校主动剪裁自己的本地情境与文化特色，在组织身份上贴标为“VL学校”以迎合系统的效率问责，这复刻了卡拉汉所描述的工商业模式对学校文化的全面收编。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 419]])

@@ -21,6 +21,7 @@ year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
 citation_aliases: []
+publication_place: "London"
 tags:
   - method/research-methods
   - source/textbook
@@ -75,7 +76,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-07-08
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04
 
@@ -110,9 +111,9 @@ updated: 2026-06-17
 #### 本章定位与问题起点
 
 > [!nav] 本章导览
-> 教育研究者和社会科学家不仅关心什么有效（what works），更关心为什么（why）、如何（how）、对谁（for whom）以及在什么条件和情境下（under what conditions and circumstances）。他们希望预测：如果引入某项干预会发生什么、它如何以及为什么会产出特定效果。这指向教育研究的一个核心特征：**寻找[[Causality|因果性]]**（causation），即什么是原因的效果（effects of causes），以及什么是效果的原因（causes of effects）。
+> 教育研究者和社会科学家不仅关心什么有效（what works），更关心为什么（why）、如何（how）、对谁（for whom）以及在什么条件和情境下（under what conditions and circumstances）。他们希望预测：如果引入某项干预会发生什么、它如何以及为什么会产出特定效果。这指向教育研究的一个核心特征：**寻找[[Causality|因果性]]（causation）**，即什么是原因的效果（effects of causes），以及什么是效果的原因（causes of effects）。
 >
-> 这不是一项简单的任务。因果性通常不可直接观察，只能推断。在社会科学中，几乎不可能完全发现无可争议的因果性。更恰切的刻画方式是**[[Probabilistic Causation|概率因果性]]**（probabilistic causation），因果性常被视为教育研究中的圣杯（holy grail）（pp.53–54）。
+> 这不是一项简单的任务。因果性通常不可直接观察，只能推断。在社会科学中，几乎不可能完全发现无可争议的因果性。更恰切的刻画方式是**[[Probabilistic Causation|概率因果性]]（probabilistic causation）**，因果性常被视为教育研究中的圣杯（holy grail）（pp.53–54）。
 
 > [!question] 因果研究的核心关切
 > | # | 问题 | 所属议题 |
@@ -144,7 +145,7 @@ updated: 2026-06-17
 
 #### 反事实推理：因果识别的关键标志
 
-区分因果是否正在发生（或已经发生）的一个关键指标是**[[Counterfactual|反事实]]**（counterfactuals）（Mackie, 1993）——即确定[[Hypothesis|假设]]原因 X 的缺失会导致效果 Y 的缺失（pp.55–56）。
+区分因果是否正在发生（或已经发生）的一个关键指标是**[[Counterfactual|反事实]]（counterfactuals）（Mackie, 1993）**——即确定[[Hypothesis|假设]]原因 X 的缺失会导致效果 Y 的缺失（pp.55–56）。
 
 > [!claim] 反事实推理的操作逻辑
 > 如果试图确定某因素是效果 Y 的一个促成原因 X，问自己：**如果没有那个假设的原因，效果还会发生或还是原来那样吗？** 如果答案是"否"，则可以推断 X 是一个真正的原因。
@@ -164,7 +165,7 @@ updated: 2026-06-17
 > 反事实推理虽具说服力，但存在根本困难：
 > - **证据问题** 如何知道如果没有冰会发生什么？如何以足够的确定性预测，进而归因于反事实因果？
 > - **实验中的解决方案** 在真实验中，控制组被假定为表明如果干预未发生会发生什么，控制组是反事实的代理。
-> - **非[[Experimental Research|实验研究]]的困境**：大量教育研究不是实验性的，控制组不存在，反事实推理因此依赖更不确定的假设和统计建模（p.56）。
+> - **非[[Experimental Research|实验研究]]的困境** 大量教育研究不是实验性的，控制组不存在，反事实推理因此依赖更不确定的假设和统计建模（p.56）。
 
 ---
 
@@ -173,7 +174,7 @@ updated: 2026-06-17
 在多重因果（multi-causal）情境中，核心困难是确定各原因在特定组合中的**相对强度**——因果网络中各项条件本身都对效果有贡献。当某些原因被纳入或排除时，其他原因的强度可能升高或降低（pp.56–57）。
 
 > [!claim] 原因不能孤立看待：[[Compound Causes|复合原因]]与交互效应
-> 冰面摔倒的例子同时揭示了一个重要特征：**原因不能孤立看待**。原因可能需要组合在一起，即**[[Compound Causes|复合原因]]**（compound causes），只有共同作用时才施加因果力，且原因之间可能存在**交互效应（interaction effects）**。
+> 冰面摔倒的例子同时揭示了一个重要特征：**原因不能孤立看待**。原因可能需要组合在一起，即**[[Compound Causes|复合原因]]（compound causes）**，只有共同作用时才施加因果力，且原因之间可能存在**交互效应（interaction effects）**。
 
 > [!ref-table] 冰面摔倒中单一因素的因果力分析
 > | 单一因素 | 单独是否充分？ | 与其他因素组合后？ |
@@ -257,7 +258,7 @@ updated: 2026-06-17
 
 #### 筛选隔离：区分相关与因果的分析工具
 
-Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离]]**（screening off）的分析概念（pp.59–60）：
+Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离]]（screening off）**的分析概念（pp.59–60）：
 
 > [!def] 筛选隔离的逻辑结构
 > 两个变量，气压计读数下降与暴风雨，被筛选隔离（screened off）：彼此分离、互不连接。二者有**相关关系**但没有**因果关系**。它们都由第三个因素——气压下降——所引起。
@@ -480,7 +481,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 #### 竞争解释与最佳因果解释
 
 > [!claim] 竞争解释的检验逻辑
-> 建立因果解释的一种方式是观察规律性（regularities），然后检验对这些规律性的**竞争解释（rival explanations）**和**竞争假设**（rival [[Hypothesis|hypotheses]]）。然而，规律性的观察对于理解因果性并非必需，所有案例都可能不同但同样具有因果力。最好的因果解释满足以下四项标准（p.70）：
+> 建立因果解释的一种方式是观察规律性（regularities），然后检验对这些规律性的**竞争解释（rival explanations）**和**竞争假设（rival [[Hypothesis|hypotheses]]）**。然而，规律性的观察对于理解因果性并非必需，所有案例都可能不同但同样具有因果力。最好的因果解释满足以下四项标准（p.70）：
 >
 > | # | 标准 | 说明 |
 > |---|------|------|
@@ -517,7 +518,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 > | **妻子** | 因受辱而请求丈夫杀死自己，混乱中丈夫死亡 | 保护自己的贞洁和忠诚形象 |
 > | **武士灵魂**（通过灵媒） | 自杀，因妻子的背叛而选择剖腹 | 保护武士荣誉，自杀比被杀更高贵 |
 >
-> **[[Epistemology|认识论]]后果**：最终没有一个版本被确定为正确的（correct）。原因可能是谋杀或自杀；性行为可能是自愿或强奸；忠诚或背叛。真理在认识论、感知和动机的泥沼中沉没（pp.72–73）。
+> **[[Epistemology|认识论]]后果** 最终没有一个版本被确定为正确的（correct）。原因可能是谋杀或自杀；性行为可能是自愿或强奸；忠诚或背叛。真理在认识论、感知和动机的泥沼中沉没（pp.72–73）。
 
 > [!warrant] 罗生门效应对因果研究的方法论含义
 > 存在不止一个因果解释。需要揭示这些多重解释，并通过归因于因果的行动者之眼来审视因果性。[[Action Narratives|行动叙事]]（action narratives）和能动性（agency）在解释因果与效果中具有核心重要性，正因情境中多重行动叙事和个体动机的存在，因果路径是**多重**的，而非简单的输入-输出模型。
@@ -544,7 +545,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 > 4. 因果推断将基于**什么依据**做出？
 > 5. 什么构成**一个原因是一个原因**的证据？什么构成**一个效果是一个效果**的证据？
 > 6. 什么构成一个原因是**那个**原因（而不是另一个原因）的证据？
-> 7. 研究的是**效果的原因**（事后回溯）还是**原因的效果**（[[Interventionist Strategy|干预主义策略]]）？
+> 7. 研究的是**效果的原因**（事后回溯）还是**原因的效果（[[Interventionist Strategy|干预主义策略]]）**？
 > 8. 如何**分离出**一系列可能的原因和效果？如何做出纳入/排除可能原因和效果的决策？
 > 9. 将选择什么**方法论**来检验原因的效果？
 > 10. 将选择什么**方法论**来检验效果的原因？
@@ -590,7 +591,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 >
 > **类比** 患者因消化问题去看医生，医生开了 6 种药——消化问题好了但出现胃溃疡。哪些药对治愈（或溃疡）负有因果责任？还是消化问题本会自然痊愈？
 >
-> 看似简单的因果归因**爆炸为一[[Multiplicity|多重性]]**（multiplicity）的原因和效果——原因 A 可能带来了效果 C，C 又成为效果 B 的原因；效果 B 可能实际并非假设原因 A 的结果，而是别的什么的结果（p.77）。
+> 看似简单的因果归因**爆炸为一[[Multiplicity|多重性]]（multiplicity）**的原因和效果——原因 A 可能带来了效果 C，C 又成为效果 B 的原因；效果 B 可能实际并非假设原因 A 的结果，而是别的什么的结果（p.77）。
 
 > [!example]- 图4.3：对原因与效果的建模
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_4-3_Modelling_Causes_and_Effects.jpg)
@@ -613,23 +614,23 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 ### 4.10 研究原因之效果
 
 > [!abstract] [[Interventionist Strategy|干预主义策略]]
-> 研究原因之效果通常采用**[[Interventionist Strategy|干预主义策略]]**（interventionist strategy）——施加一项干预，目的有两种可能：检验假设的因果影响或因果模型，或者利用已知的因果效应来产生预期效果（pp.74, 79–82）。非干预本身也可以是原因——不浇水导致植物死亡（p.79）。
+> 研究原因之效果通常采用**[[Interventionist Strategy|干预主义策略]]（interventionist strategy）**——施加一项干预，目的有两种可能：检验假设的因果影响或因果模型，或者利用已知的因果效应来产生预期效果（pp.74, 79–82）。非干预本身也可以是原因——不浇水导致植物死亡（p.79）。
 
 ---
 
 #### 操纵的三种形式及其局限
 
 > [!feature] 操纵（Manipulation）的三种形式
-> - **[[Action Research|行动研究]]**（action research，见第18章）：存在因缺乏控制和外部检查带来的严谨性问题——因果归因可能是错位的。
+> - **[[Action Research|行动研究]]（action research，见第18章）** 存在因缺乏控制和外部检查带来的严谨性问题——因果归因可能是错位的。
 > - **各种实验方法**（见第16章）：假定（可能正确也可能错误、可能可接受也可能不可接受）变量和人是可以被隔离、控制和操纵的。
-> - **[[Qualitative Research|质性研究]]中的[[Participant Observation|参与观察]]**（participant observation）：自然情境中探索因果过程，但不具备变量控制的实验精度（pp.79–80）。
+> - **[[Qualitative Research|质性研究]]中的[[Participant Observation|参与观察]]（participant observation）** 自然情境中探索因果过程，但不具备变量控制的实验精度（pp.79–80）。
 
 ---
 
 #### 干预研究必须关注的六项因素
 
 > [!warning] 干预策略的六项风险因素
-> 1. **情境效应** 干预的语境和情境权力可能影响参与者的结果和行为——包括**[[Hawthorne Effect|霍桑效应]]**（Hawthorne effect）和**路西法效应**（Lucifer effect，Zimbardo, 2007a）。
+> 1. **情境效应** 干预的语境和情境权力可能影响参与者的结果和行为——包括**[[Hawthorne Effect|霍桑效应]]（Hawthorne effect）**和**路西法效应（Lucifer effect，Zimbardo, 2007a）**。
 > 2. **同一原因不产生同一效果** 原因不是因果效果的机械保证。
 > 3. **前后测时机不当** 可能破坏关于原因效果的陈述的[[Reliability|可靠性]]。
 > 4. **[[Fundamental Problem of Causal Inference]]**（Holland, 1986, p. 947）：同一个人不能同时处于接受和不接受干预的组中，这一基本问题可能无法仅通过随机化充分缓解（见第16章）。
@@ -666,7 +667,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 >
 > 然而它们也面临与行动研究和实验相同的困难，同样必须提供因果过程和因果链的说明。进一步地，在探讨意向性和能动性时，参与者的感知可能是正确的，但也可能是错误的、片面的、不完整的、选择性的、盲目的或被误导的。一个人可能认为房间里有老鼠（原因）并据此行动（效果），但事实上房间里没有老鼠（p.82）。
 >
-> 人类倾向于基于个人感知和意见来判断数据和情境，即使这些判断与证据相悖，即**基础比率谬误**（base rate fallacy，Morrison, 2009, pp. 170–171）。这是因果推断中一个重要的不可靠性来源。
+> 人类倾向于基于个人感知和意见来判断数据和情境，即使这些判断与证据相悖，即**基础比率谬误（base rate fallacy，Morrison, 2009, pp. 170–171）**。这是因果推断中一个重要的不可靠性来源。
 
 ---
 

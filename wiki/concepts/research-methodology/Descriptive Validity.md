@@ -54,7 +54,7 @@ updated: 2026-06-23
 > - **描述效度**（本条目） 事实准确性——"发生了什么"——最基础层次
 > - **[[Interpretive Validity|解释效度]]** 这些事实对参与者而言意味着什么——"主观意义"层次
 > - **[[Theoretical Validity|理论效度]]** 如何用[[Construct|理论构念]]来解释这些现象——"理论解释"层次
-> - **[[External Validity|可推广性]]**（[[External Validity|generalizability]]） 产生的理论能在多大的范围内适用
+> - **[[External Validity|可推广性]]（[[External Validity|generalizability]]）** 产生的理论能在多大的范围内适用
 > - **[[Evaluative Validity|评价效度]]** 研究者如何评价所研究的现象——"价值判断"层次
 
 > [!note]- 描述效度包含[[Reliability|信度]]

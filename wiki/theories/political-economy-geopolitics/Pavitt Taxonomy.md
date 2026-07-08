@@ -95,9 +95,9 @@ updated: 2026-06-10
 ## 理论基础
 
 > [!tip]-
-> - **[[Evolutionary Economics|演化经济学]]**（Evolutionary Economics）— Pavitt 分类法的理论基础来自 Nelson 和 Winter（1982）的演化理论，强调经济活动的多样性和[[Heterogeneity|异质性]]以及[[Technological Trajectories|技术轨迹]]（technological trajectories）在塑造产业差异中的作用（p.155）
+> - **[[Evolutionary Economics|演化经济学]]（Evolutionary Economics）**— Pavitt 分类法的理论基础来自 Nelson & Winter（1982）的演化理论，强调经济活动的多样性和[[Heterogeneity|异质性]]以及[[Technological Trajectories|技术轨迹]]（technological trajectories）在塑造产业差异中的作用（p.155）
 > - **[[Systems of Innovation|创新系统理论]]** — Pavitt 分类法通过揭示不同产业在创新来源和知识流动上的系统性差异，为创新系统分析提供了微观基础
-> - **技术[[Paradigm|范式]]与技术轨迹**（Dosi, 1982, 1988）— 不同 Pavitt 类别对应不同的技术范式：科学基础型对应科学驱动范式，供应商主导型对应技术采用范式
+> - **技术[[Paradigm|范式]]与技术轨迹（Dosi, 1982, 1988）**— 不同 Pavitt 类别对应不同的技术范式：科学基础型对应科学驱动范式，供应商主导型对应技术采用范式
 
 ---
 ## 实证验证
@@ -117,7 +117,7 @@ updated: 2026-06-10
 
 > [!note]-
 > Pavitt 分类法已被广泛应用于创新经济学和产业政策研究：
-> - **创新与就业**Bogliacino 和 Pianta（2010）使用修订版分类法研究不同创新模式对就业的影响差异
+> - **创新与就业**Bogliacino & Pianta（2010）使用修订版分类法研究不同创新模式对就业的影响差异
 > - **创新与生产率** 不同 Pavitt 类别在创新投入向生产率转化效率上存在显著差异（Bogliacino & Pianta, 2011）
 > - **区域创新研究** Pavitt 类别已被用于分析意大利区域创新和专利活动的空间分布
 > - **合作创新研究**Freel（2003）使用 Pavitt 分组研究合作对不同类型企业创新性的影响

@@ -70,5 +70,5 @@ updated: 2026-06-03
 > - **拜耳研究与创新中心（BRIC）** 位于剑桥，紧邻 Broad Institute of MIT and Harvard，虽非严格意义的共同选址，但通过物理邻近性促进了长期合作（pp.317–318）
 > - **Mars 在 UC Davis** Mars 于 2004 年起在 UC Davis 校园嵌入技术负责人，2013 年设立 Mars 高级研究院（MARI）作为校内运营枢纽，使公司得以快速灵活接入全球科学专家网络（p.318）
 > - **NRC-滑铁卢大学合作中心** 加拿大国家研究理事会（NRC）与滑铁卢大学共同建立的合作中心，聚焦人工智能、物联网和网络安全，为学生、政府和教师提供共同工作的物理空间([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.249]])
-> - **Schlegel-UW 老龄化研究所（[[Schlegel-UW Research Institute for Aging|RIA]]）**：滑铁卢大学与 Schlegel Villages 于 2005 年建立的跨学科研究机构，共同选址是其核心运作模式——临床医生、科学家和工程师在同一物理空间中并肩工作，研究者和终端用户只需走过走廊就能看到研究进展的实际应用([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.251–253]])。详见 [[Schlegel-UW Research Institute for Aging]]
+> - **Schlegel-UW 老龄化研究所（[[Schlegel-UW Research Institute for Aging|RIA]]）** 滑铁卢大学与 Schlegel Villages 于 2005 年建立的跨学科研究机构，共同选址是其核心运作模式——临床医生、科学家和工程师在同一物理空间中并肩工作，研究者和终端用户只需走过走廊就能看到研究进展的实际应用([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.251–253]])。详见 [[Schlegel-UW Research Institute for Aging]]
 

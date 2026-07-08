@@ -62,7 +62,7 @@ updated: 2026-06-09
 
 课程[[Document|文件]]围绕学生必须发展的基本能力和技能来组织，包括创造力、适应性、学会学习、问题解决，分布在三大领域：
 
-- **语言、[[Coding in Qualitative Research|编码]]及其技术**（Languages, Codes and their Technologies）
+- **语言、[[Coding in Qualitative Research|编码]]及其技术（Languages, Codes and their Technologies）**
 - **自然科学、数学及其技术（Natural Sciences, Mathematics and their Technologies）**
 - **人文科学及其技术（Human Sciences and their Technologies）**
 

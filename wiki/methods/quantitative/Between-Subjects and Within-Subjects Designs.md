@@ -8,7 +8,7 @@ aliases:
   - mixed design
   - repeated measures design
   - 重复测量设计
-summary: 实验设计的两种基本类型，between-subjects 每位受试者只经历一个处理条件，within-subjects 每位受试者经历多个或全部处理条件
+summary: "实验设计的两种基本类型，between-subjects 每位受试者只经历一个处理条件，within-subjects 每位受试者经历多个或全部处理条件"
 type: method
 method_type: quantitative
 method_family: "quantitative"

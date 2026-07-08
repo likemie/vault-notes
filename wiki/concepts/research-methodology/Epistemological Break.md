@@ -74,7 +74,7 @@ updated: 2026-05-18
 >
 > > 例：研究"分布式领导"时直接接受政策[[Document|文件]]中对该概念的[[Definition of Terms|操作性定义]]（如"中层管理者参与决策"），然后寻找符合这一定义的学校案例加以分析，最终用同样的指标验证——形成同义反复，而未追问"领导力"这一建构本身如何被生产与合法化([[Argument_Eacott_2015_EPT|Eacott, 2015, p.321-322]])。
 >
-> 研究者在"前科学世界"中停留的另一动力是**市场化的[[Knowledge Production|知识生产]]体制**：大学的企业化推动研究者生产可市场化的产品（"领导力速成手册"类），这种 solicitation 使研究者沦为技术人员——"量化专家，甚至更糟，SPSS 软件包专家"——而非[[Reflexivity|反思性]]的科学家。
+> 研究者在"前科学世界"中停留的另一动力是**市场化的[[Knowledge Production|知识生产]]体制** 大学的企业化推动研究者生产可市场化的产品（"领导力速成手册"类），这种 solicitation 使研究者沦为技术人员——"量化专家，甚至更糟，SPSS 软件包专家"——而非[[Reflexivity|反思性]]的科学家。
 >
 > **断裂的具体操作**
 >
@@ -106,6 +106,6 @@ updated: 2026-05-18
 
 > [!warning] 争议与批评
 > - **是否可能完全断裂** Bourdieu 自己也承认研究者永远无法完全逃脱社会世界——"the inexhaustible intellectual project of getting beyond the everyday is never finally won"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322]])。批评者质疑这是否意味着"断裂"是一个永远达不到的理想状态。
-> - **与"实践相关性"的张力** 教育行政作为"应用领域"，其体制合法性部分来自与实践的紧密关联。彻底的断裂是否会使研究对实践者不可理解或无关？([[Argument_Eacott_2015_EPT|Eacott, 2015, p.319-320,讨论 Bachelard 和 Bourdieu 拒绝简化复杂内容]])
+> - **与"实践相关性"的张力** 教育行政作为"应用领域"，其体制合法性部分来自与实践的紧密关联。彻底的断裂是否会使研究对实践者不可理解或无关？([[Argument_Eacott_2015_EPT|Eacott, 2015, p.319-320,讨论 Bachelard & Bourdieu 拒绝简化复杂内容]])
 > - **Evers & Lakomski 立场** Evers & Lakomski（1991, 1996, 2000, 2012）认为问题不在科学，而在科学的模型——逻辑经验主义的狭隘[[Operationalization|操作化]]。若采用更丰富的科学模型（如自然主义的科学观），是否需要"断裂"本身也有待商榷([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 

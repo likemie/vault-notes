@@ -107,7 +107,7 @@ Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识�
 > [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp.800–801)]]将 Bayh-Dole Act 定位为美国高等教育市场化的关键政策节点。1980 年代至 2000 年代之间，一系列立法——以 Bayh-Dole Act 为首——创造和强化了高等教育部门与更广泛市场经济的连接：
 
 - **知识产权的商业化通道** Bayh-Dole Act 为联邦资助的研究成果开辟了从大学实验室到商业市场的合法路径。此前，联邦资助的发明归政府所有，商业化过程缓慢而复杂。Bayh-Dole Act 将所有权转移给大学，创造了对大学将研究成果商业化的制度激励
-- **[[Academic Capitalism|学术资本主义]]的法律基础设施**：Bayh-Dole Act 是[[Academic Capitalism|学术资本主义]]——大学日益卷入专利商业化、[[University-Industry Collaboration|产学合作]]和创收项目——的核心法律支柱。没有这部法案，大学通过专利许可获取收入的制度空间将受到根本性限制
+- **[[Academic Capitalism|学术资本主义]]的法律基础设施** Bayh-Dole Act 是[[Academic Capitalism|学术资本主义]]——大学日益卷入专利商业化、[[University-Industry Collaboration|产学合作]]和创收项目——的核心法律支柱。没有这部法案，大学通过专利许可获取收入的制度空间将受到根本性限制
 - **公共资金与私人利润的交织** 该法案制造了一个典型的"半市场"安排：研究由公共资金（联邦拨款）支付，但商业化的利润由私人（大学和企业）获取。学术界的"市场化"在相当程度上是公共资金换了一种方式继续流动——不是直接资助大学，而是通过专利许可和市场交易来间接实现。这也呼应了知识虚拟商品化的核心张力：公共生产的知识如何转化为可私人占有的资产
 
 ## 联邦研究资助的结构性变化

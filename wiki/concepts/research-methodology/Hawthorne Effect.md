@@ -46,7 +46,7 @@ updated: 2026-06-23
 - **反应性（reactivity）** 霍桑效应是反应性的一种特定形式。反应性是更广泛的概念——指研究本身改变正在研究的情境或参与者，而霍桑效应特指"因被关注/被观察而产生的改变"。
 - **新奇效应（novelty effect）** 任何新干预都可能产生暂时的表现提升，但这不是因为干预本身有效，而是因为其新颖性。新奇效应通常随干预的持续而消退。
 - **约翰·亨利效应（John Henry effect）** 对照组因知道自己是对照组而加倍努力以"击败"实验组——这是霍桑效应的对偶形式。
-- **[[Experimenter Bias|实验者偏差]]**（experimenter bias）：偏差来自研究者/实验者一方，而非受试者。
+- **[[Experimenter Bias|实验者偏差]]（experimenter bias）** 偏差来自研究者/实验者一方，而非受试者。
 
 ## 核心要素
 
@@ -58,7 +58,7 @@ updated: 2026-06-23
 
 ## 应对策略
 
-- **双盲设计**（[[Blinding|double-blind]] design）：研究者和受试者都不知道谁在实验组、谁在对照组
+- **双盲设计（[[Blinding|double-blind]] design）** 研究者和受试者都不知道谁在实验组、谁在对照组
 - **安慰剂对照组（placebo control）** 对照组接受看起来相似的但不含活性成分的"处理"
 - **长期田野参与（prolonged engagement）** 在[[Qualitative Research|质性研究]]中，通过足够长时间的在场使观察者的存在变得"被视为理所当然"
 - **习惯化期（habituation period）** 在正式数据收集前设置一段让受试者适应研究情境的预热期

@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-05-18
+updated: 2026-07-08
 ---
 
 # Habitus
@@ -62,7 +62,7 @@ updated: 2026-05-18
 > [!quote]
 > "实践者的行动受到既往经验塑造的行动图式系统——习性（habitus）的限制，在其所能调适的范围内享有各种思想、感知和行动的自由"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1990）
 
-[[Argument_Eacott_2011_JEAH|Eacott (2011)]]将习性描述为"通过暴露于特定经验而体现的一套行为倾向系统"，强调习性**仅在实践中显现且仅存在于实践中**([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.49]])。
+[[Argument_Eacott_2011_JEAH|Eacott (2011)]]将习性描述为"通过暴露于特定经验而体现的一套行为倾向系统"，强调习性**仅在实践中显现且仅存在于实践中([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.49]])**。
 
 ---
 
@@ -95,7 +95,7 @@ updated: 2026-05-18
 - **具身性** 习性铭刻在身体之中，表现为不经深思熟虑即可自然调用的感知、判断和行动倾向。用[[Yajun Zheng|郑雅君]]（2023）的话说，阶层条件"铭刻进了阶层成员各自的身体，化作了他们日用而不知的'上大学'的独特实践"
 - **生成性** 习性不是固定不变的程序，而是能够在不同社会情境中生成适应性策略的"生成语法"。Sewell（1992）指出文化图式是可迁移（transposable）和可推广的（generalizable）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Sewell, 1992）
 - **阶层特异性** 不同社会阶层成员因成长环境中可及的经验类型不同，内化形成不同的习性结构。这使得"特定文化工具的可及性和掌握熟练程度总是依习性结构的不同而有着系统性的差异"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
-- **前[[Reflexivity|反思性]]**：习性运作于意识反思之下——行动者通常不意识到自己的行为受习性引导，这正是其强大之处。正如郑雅君（2023）所示，[[Intuition-Dependent Mode|直觉依赖模式]]下的学生并非有意选择被动，而是习性使他们"浑然不觉"地按特定方式行事
+- **前[[Reflexivity|反思性]]** 习性运作于意识反思之下——行动者通常不意识到自己的行为受习性引导，这正是其强大之处。正如郑雅君（2023）所示，[[Intuition-Dependent Mode|直觉依赖模式]]下的学生并非有意选择被动，而是习性使他们"浑然不觉"地按特定方式行事
 
 ---
 
@@ -160,7 +160,7 @@ updated: 2026-05-18
 
 > [!warning]
 > - **决定论指控** 批评者认为习性概念过于强调社会再生产，低估了行动者的能动性和变革可能性。[[Argument_Eacott_2011_JEAH|Eacott (2011)]]的论文可以被视为对这一批评的回应——他运用 Bourdieu 框架恰恰是为了论证"替代性领导习性"的可能性
-> - **经验[[Operationalization|操作化]]困难**：如何在具体研究中实证地捕捉"习性"？[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以[[Qualitative Interview|深度访谈]]和[[Constructivist Grounded Theory|建构主义扎根理论]]的方法操作化习性概念，提供了可参照的范例，但大量[[Quantitative Research|定量研究]]仍难以直接测量习性本身
+> - **经验[[Operationalization|操作化]]困难** 如何在具体研究中实证地捕捉"习性"？[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以[[Qualitative Interview|深度访谈]]和[[Constructivist Grounded Theory|建构主义扎根理论]]的方法操作化习性概念，提供了可参照的范例，但大量[[Quantitative Research|定量研究]]仍难以直接测量习性本身
 > - **概念弹性过大** 习性几乎可以解释任何行为——优势阶层学生的成功归因于习性，其失败也可归因于习性滞后。批评者认为这种"解释一切"的弹性反而削弱了概念的分析力
 
 ---

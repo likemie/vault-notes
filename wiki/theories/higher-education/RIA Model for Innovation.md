@@ -59,7 +59,7 @@ updated: 2026-06-03
 > [!info]
 > [[Schlegel-UW Research Institute for Aging|RIA]] 创新模型的运作依赖以下条件([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.251–254]])：
 > - **共同选址** 研究者和终端用户在同一物理空间中日常共处，创造即时反馈循环。研究者"走过走廊就能看到研究进展的实际应用"（p.254）。
-> - **嵌入式[[Knowledge Mobilisation|知识动员]]网络**：RIA 通过 Schlegel Villages 的功能性体适能评估方案将新技术直接嵌入常规临床流程，例如脑血管健康生物标志物检测被添加到入院评估中（p.253）。
+> - **嵌入式[[Knowledge Mobilisation|知识动员]]网络** RIA 通过 Schlegel Villages 的功能性体适能评估方案将新技术直接嵌入常规临床流程，例如脑血管健康生物标志物检测被添加到入院评估中（p.253）。
 > - **多方持续投入** Schlegel 家族超过 5000 万加元的累计投资（大楼建设、12 个讲席教授、研究活动）和多院系参与（3/6 学院）提供了模型运作的物质和组织基础（pp.252–253）。
 
 ## 应用领域

@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-05-24
+updated: 2026-07-08
 ---
 
 # Doxa
@@ -108,13 +108,13 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 ### 智识-社交分离作为 doxa
 
-[[Argument_Li_2012_Cambridge|Li (2012)]]在第 6 章中揭示，西方学校文化中的**[[Intellectual-Social Divide|智识-社交分离]]**（intellectual-social divide）是 doxa 在学校[[Champ|场域]]中运作的典型案例([[Argument_Li_2012_Cambridge|Li, 2012, pp.91–94]])。这一 doxa 表现为：学术追求与社交生活被视为相互排斥——擅长学习的人被认为"不会社交"，受欢迎的人被认为"不学习"。
+[[Argument_Li_2012_Cambridge|Li (2012)]]在第 6 章中揭示，西方学校文化中的**[[Intellectual-Social Divide|智识-社交分离]]（intellectual-social divide）**是 doxa 在学校[[Champ|场域]]中运作的典型案例([[Argument_Li_2012_Cambridge|Li, 2012, pp.91–94]])。这一 doxa 表现为：学术追求与社交生活被视为相互排斥——擅长学习的人被认为"不会社交"，受欢迎的人被认为"不学习"。
 
 这一案例完整展示了 doxa 的所有核心要素：
 
 - **不言自明性** 当 Li 因儿子遭受 [[Nerd]] 骚扰而向校长求助时，校长的回应是"孩子就是这样——这是人性"（Kids are just like that — it's human nature）。将文化建构的产物自然化为"人性使然"，这正是 doxa 运作的经典标志([[Argument_Li_2012_Cambridge|Li, 2012, pp.93–94]])
 - **场域特定性** Li 的儿子转入私立学校后，"孩子突然就不再'是这样了'"——同一批孩子在不同学校结构中，doxa 的效力完全不同([[Argument_Li_2012_Cambridge|Li, 2012, p.94]])。这验证了 doxa 并非人性普遍现象，而是特定场域结构的产物
-- **与[[Talent Assumption|天赋假设]]的相互锚定**："智力是天生的、不可改变的"信念使学术能力被归入"固定属性"范畴，与社交能力（同样被视为"天生的魅力"）形成自然对立——两者都被视为先天禀赋，因此"擅长一方必不擅长另一方"成为不言自明的常识([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–98]])
+- **与[[Talent Assumption|天赋假设]]的相互锚定** "智力是天生的、不可改变的"信念使学术能力被归入"固定属性"范畴，与社交能力（同样被视为"天生的魅力"）形成自然对立——两者都被视为先天禀赋，因此"擅长一方必不擅长另一方"成为不言自明的常识([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–98]])
 - **结构性再生产** 美国高中的[[Tracking|分轨制]]（tracking）和教师对学生能力的固定标记制度化地再生产了这一 doxa——课程安排和教师判断不断确认"学术型"与"社交型"学生的分类([[Argument_Li_2012_Cambridge|Li, 2012, pp.98–99]])
 
 这一案例的核心洞察：nerd 同伴文化中的骚扰和排斥并非"人性之恶"，而是特定 doxa（智识-社交分离 + [[Talent Assumption|天赋假设]]）在学校场域中的结构性产物。完整的论证链见 Li (2012) 第 6 章。

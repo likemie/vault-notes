@@ -14,7 +14,9 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
-citation: "Moisio, S. (2022). In what sense a geopolitical knowledge-based economy? In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 21–33). Springer."
+citation: "Moisio, S. (2022). In what sense a geopolitical knowledge-based economy? In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 21–33). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
 - geopolitics
 - knowledge-based-economization
@@ -117,7 +119,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 5. **Jessop 的元治理定位**KBE 被 Jessop(2005)定位为"霸权的元治理对象"（hegemonic meta-object of governance），是 Atlantic Fordism 资本积累体制危机的回应。关键洞察：KBE 的治理力量部分源于"众多行动者被征召其背后"，且 KBE 作为成功的经济治理依赖经济形式与额外经济形式（科学、教育、法律、社会制度、传统）的"共在"（co-presence）(p.23)。
 
-6. **Moisio 的[[Definition of Terms|操作性定义]]**：他将 KBE 定义为一种"实际存在的经济"（actually existing economy），其价值创造与提取以及国家间、城市间、区域间政治竞争的核心要素为知识、创新、学习、高等教育、研发、技术和创业精神。通过引用 Sum & Jessop（2013, p.284）关于"一般智识在知识和设计密集型商品中的价值化"的经典定义，以及 Dunning（2000, p.8）关于财富来源从自然资源→有形资产→无形资产转变的历史论证，Moisio 确立了 KBE 的经验可分析性(pp.23–24)。
+6. **Moisio 的[[Definition of Terms|操作性定义]]** 他将 KBE 定义为一种"实际存在的经济"（actually existing economy），其价值创造与提取以及国家间、城市间、区域间政治竞争的核心要素为知识、创新、学习、高等教育、研发、技术和创业精神。通过引用 Sum & Jessop（2013, p.284）关于"一般智识在知识和设计密集型商品中的价值化"的经典定义，以及 Dunning（2000, p.8）关于财富来源从自然资源→有形资产→无形资产转变的历史论证，Moisio 确立了 KBE 的经验可分析性(pp.23–24)。
 
 ### 第二步：方法论转向——从 KBE 到知识经济化（2.3）
 
@@ -125,9 +127,9 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 1. **问题的提出** KBE 被呈现为具有"无限增长的诱人承诺"——作为对 1980 年代已显现的各种物质和环境增长极限的解毒剂。在这种能力中，"[[Knowledge-Based Economization|知识经济化]]话语与 1990 年代以来资本主义被呈现为唯一能提供无限增长和利润的社会系统的方式紧密绑定"(p.24)。
 
-2. **引入 Ҫalişkan & Callon(2009)的 economization 概念**：分析焦点从"经济"转向"经济化过程"。在这些过程中，"一系列社会议题被不断[[Transfer Translation Transformation|转译]]为经济议题，如同它们是纯粹的经济事务；反之亦然，经济相关事务也被表述为社会的、政治的和集体的'我们'议题"(p.25)。
+2. **引入 Ҫalişkan & Callon(2009)的 economization 概念** 分析焦点从"经济"转向"经济化过程"。在这些过程中，"一系列社会议题被不断[[Transfer Translation Transformation|转译]]为经济议题，如同它们是纯粹的经济事务；反之亦然，经济相关事务也被表述为社会的、政治的和集体的'我们'议题"(p.25)。
 
-3. **引入 Polanyi(1982)的经济作为制度化过程**：所有资本积累体制均可理解为制度化过程，"国家和不同的额外经济实践——从教育和科学到法律和集体身份——在其中扮演核心角色"(p.25)。这解释了为什么大学在 KBE 想象中被如此凸显。
+3. **引入 Polanyi(1982)的经济作为制度化过程** 所有资本积累体制均可理解为制度化过程，"国家和不同的额外经济实践——从教育和科学到法律和集体身份——在其中扮演核心角色"(p.25)。这解释了为什么大学在 KBE 想象中被如此凸显。
 
 4. **辨识知识的四种含义** Moisio 在 KBE 语境中区分了知识的四个相互关联维度——(a) 思想和创新在价值创造中的作用；(b) 专家对 KBE 本身的[[Knowledge Production|知识生产]]（"具有关键构成性和履行性作用"）；(c) 对政治社区作为知识经济体表现的数据采集；(d) 社会的数据化——数据成为可收集、储存、加工、商品化并实现为利润的有价值信息池(p.25)。
 
@@ -183,11 +185,11 @@ Moisio 在结论中勾勒了知识经济化的当代演变和后果：
 
 1. **三阶段演变** 知识经济化自 1990 年代初以来经历了质变——从晚期凯恩斯主义"技术极化"（technopolization）和"创业型国家"策略，到 1990 年代末基于"智能性"（smartness）的各种想象和实践，到 2008 年全球衰退后的创业经济（start-up economy）形式。发达资本主义社会正在经历"创业化和民族国家城市化过程的显著扩展"(pp.29–30)。
 
-2. **[[Spatial Sortings|空间分选]]与极化**：Moisio 论证知识经济化"有能力将某些地点和人口置于发展和资本积累的中心，同时将其他地点和人口边缘化"。城市创新综合体(Zukin, 2020)在主要城市中心兴起，与较小城市群和农村地区的边缘化同步发生——"支持创业生态系统形成的政策实际上生产了民族国家的战略性城市化"(pp.30–31)。
+2. **[[Spatial Sortings|空间分选]]与极化** Moisio 论证知识经济化"有能力将某些地点和人口置于发展和资本积累的中心，同时将其他地点和人口边缘化"。城市创新综合体(Zukin, 2020)在主要城市中心兴起，与较小城市群和农村地区的边缘化同步发生——"支持创业生态系统形成的政策实际上生产了民族国家的战略性城市化"(pp.30–31)。
 
-3. **三个[[Research Problem|研究议题]]**：(1) KBE 通过不同种类的空间分选被根本性地构成——这些分选既包含又排斥地点和行动者；(2) 后凯恩斯主义世界的核心组织逻辑是对人和传统资本主义的"驱逐"(expulsion, Sassen, 2010)以喂养高科技和高金融的需求；(3) 国家在导致空间分裂的过程中扮演关键但研究不足的角色(pp.31–32)。
+3. **三个[[Research Problem|研究议题]]** (1) KBE 通过不同种类的空间分选被根本性地构成——这些分选既包含又排斥地点和行动者；(2) 后凯恩斯主义世界的核心组织逻辑是对人和传统资本主义的"驱逐"(expulsion, Sassen, 2010)以喂养高科技和高金融的需求；(3) 国家在导致空间分裂的过程中扮演关键但研究不足的角色(pp.31–32)。
 
-4. **[[Progressive Neoliberalism|进步新自由主义]]的消退**：Moisio 援引 Davidson & Rees-Mogg(1999)近二十年前的预测——信息社会将产生"跨国认知精英"（赢家）与无法适应新跨国世界的人（输家）之间的深刻分化——论证这正是在欧洲和其他地区过去十年中实际发生的现象，"那些处于金字塔底部的人转向了高度报复性的民族主义政治"(pp.31–32)。Nancy Fraser(2019)关于 [[Progressive Neoliberalism|进步新自由主义]] 正在蒸发的论断被用来支撑这一观察——这种作为过去三十年知识经济化主要政治推力的"硅谷世界观"正在受到挑战。
+4. **[[Progressive Neoliberalism|进步新自由主义]]的消退** Moisio 援引 Davidson & Rees-Mogg(1999)近二十年前的预测——信息社会将产生"跨国认知精英"（赢家）与无法适应新跨国世界的人（输家）之间的深刻分化——论证这正是在欧洲和其他地区过去十年中实际发生的现象，"那些处于金字塔底部的人转向了高度报复性的民族主义政治"(pp.31–32)。Nancy Fraser(2019)关于 [[Progressive Neoliberalism|进步新自由主义]] 正在蒸发的论断被用来支撑这一观察——这种作为过去三十年知识经济化主要政治推力的"硅谷世界观"正在受到挑战。
 
 Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间组织，还要考察"知识工作者在这样一种经济形式之下和之中工作和生活的肉身表现和体验"；(2) 分析"日常国家性"（everyday statehood）——国家政策如何在日常层面控制和操纵公民和人力资本；(3) 将大学作为"知识经济化下的地缘政治场所"进行系统研究，需要"各种创新的[[Ethnography|民族志]]和其他方法"(pp.31–32)。
 

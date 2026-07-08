@@ -61,7 +61,7 @@ updated: '2026-06-22'
 
 > [!dev-timeline]- 事件经过
 > - **2018 — 项目启动与课程开设** SveaSus 项目在赫尔辛基大学教育科学学院正式立项并启动。面向学院全体学生开设选修课程，确立了教师、研究者、学生与艺术家的协同合作研究框架（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]）。
-> - **2018–2023 — 芬兰堡真实[[Champ|场域]]的跨学科教学实验**：
+> - **2018–2023 — 芬兰堡真实[[Champ|场域]]的跨学科教学实验**
 > - **现象核心确立** 项目以“可持续性（Sustainability）”为探究的现象核心，并将其与芬兰堡的特定地点（place）和时间（time）维度相绑定。
 >   - **多维教学法探索** 系统引入并测试了具身学习（Embodied learning，如在风雨交加的岛屿上身体行走、用触觉感知石墙以激活空间与身体的具身经验）、艺术本位（Art-based）和多语（Multilingual）教学方法（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。
 >   - **主体间反思实践** 师生、艺术家在特定时空中共同规划、讨论和解决问题，将情感（如信任、 Relational Anxiety）与合作责任融入探究过程（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]）。
@@ -95,7 +95,7 @@ updated: '2026-06-22'
 
 > [!tension] 争议焦点：质性探索 vs 经验测量
 > - **质性探索与自我转化（蓝方）** SveaSus 的价值在于证明现象本位学习是一场具身、情感与伦理交互的探究过程。真正的学习在于唤醒学生的 ethically conscious，反思自己与世界的关系，无法也无需被简单量化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4, 11]]）。
-> - **经验测量与[[Performance Indicators|绩效指标]]（红方）**：对于关注宏观成效和国际比较的决策者而言，SveaSus 类的项目因缺乏系统性的对照实验与学习成果的量化测量，难以证明其作为一种“高效教学法”的有效性和可在其他学校大规模复制推广的经验正当性（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 10–11]]）。
+> - **经验测量与[[Performance Indicators|绩效指标]]（红方）** 对于关注宏观成效和国际比较的决策者而言，SveaSus 类的项目因缺乏系统性的对照实验与学习成果的量化测量，难以证明其作为一种“高效教学法”的有效性和可在其他学校大规模复制推广的经验正当性（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 10–11]]）。
 
 ---
 

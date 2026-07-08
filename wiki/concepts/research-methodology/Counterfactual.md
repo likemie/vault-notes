@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-07-08
 ---
 
 # Counterfactual
@@ -50,7 +50,7 @@ updated: 2026-06-17
 ## 核心要素
 
 > [!feature] 反事实推理的操作逻辑
-> - **识别[[Hypothesis|假设]]原因 X**：明确哪个因素是待检验的候选原因。
+> - **识别[[Hypothesis|假设]]原因 X** 明确哪个因素是待检验的候选原因。
 > - **设想 X 不存在的情境** 构建"如果没有 X"的替代可能世界。
 > - **判断 Y 是否仍会发生** 评估效果在此替代情境中的状态。
 > - **归因判断** 如果 Y 不会发生或不会是原样，则 X 是一个促成原因——但通常只是众多原因之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 55–56]]）。

@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 法律基础
 
 > [!abstract] 法律基础
-> - **教育修正法案 2013**（Education Amendment Act 2013）：授权部长批准由营利或非营利赞助者运营的多所公费 PSKH 的合同([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.20]])
+> - **教育修正法案 2013（Education Amendment Act 2013）** 授权部长批准由营利或非营利赞助者运营的多所公费 PSKH 的合同([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.20]])
 > - PSKH 授权委员会（Partnership Schools Kura Hourua Authorisation Board）负责就哪些私营实体应获批准运营公费私立学校向政府提供建议；委员会成员曾在教育领域担任各种公共、私营和社区信托职务([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.11]])
 
 ## 规模与状况

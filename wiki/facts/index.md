@@ -81,7 +81,7 @@ Total entries: **270**
 > - [[Australian Curriculum]] — 2012 年 ACARA 批准的 AU 国家课程，三维度（学习领域、通用能力、跨课程优先事项），每年系统性评估，课程连接实践
 
 > [!trail]- Innovation systems (8)
-> - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
+> - [[Advanced Manufacturing Research Centre]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
 > - [[Akademgorodok]] — 1950年代末赫鲁晓夫效仿美国大学校园模式在新西伯利亚建造的苏联科学城，旨在打破垂直行政壁垒、营造产学研协同的创新环境，但最终在勃列日涅夫时代被重新纳入官僚化和意识形态保守的体制
 > - [[Alliance for Southern California Innovation]] — 2017 年成立的非营利组织，联合南加州顶尖研究机构、商界领袖和顾问，聚焦于弥合区域创新生态系统中的关键缺口，通过识别和培育高潜力初创企业来吸引新资本进入南加州
 > - [[APLU Innovation and Economic Prosperity Program]] — 美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定
@@ -101,7 +101,7 @@ Total entries: **270**
 > - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
 
 > [!trail]- University-industry links (8)
-> - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
+> - [[Advanced Manufacturing Research Centre]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
 > - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
 > - [[Alliance for Southern California Innovation]] — 2017 年成立的非营利组织，联合南加州顶尖研究机构、商界领袖和顾问，聚焦于弥合区域创新生态系统中的关键缺口，通过识别和培育高潜力初创企业来吸引新资本进入南加州
 > - [[APLU Innovation and Economic Prosperity Program]] — 美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定
@@ -166,9 +166,9 @@ Total entries: **270**
 ## Canada
 
 > [!index-list]- Event (3)
-> - [[Global Futures Framework (University of Waterloo)]] — 滑铁卢大学 2022 年发布的跨学科战略框架，以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校的教育、研究和创新活动
-> - [[Inventor-Owned IP Policy (University of Waterloo)]] — 滑铁卢大学自 1959 年建校起实行的知识产权归属政策，将发明所有权归于发明人个人而非大学，成为吸引教师和推动地方经济发展的关键制度因素
 > - [[Schlegel-UW Research Institute for Aging]] — 2005 年由滑铁卢大学与 Schlegel Villages 合作建立的大型跨学科产学合作研究机构，以共同选址、知识动员和临床即时反馈为核心运作模式，聚焦老龄化研究与技术创新
+> - [[University of Waterloo Global Futures Framework]] — 滑铁卢大学 2022 年发布的跨学科战略框架，以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校的教育、研究和创新活动
+> - [[University of Waterloo Inventor-Owned IP Policy]] — 滑铁卢大学自 1959 年建校起实行的知识产权归属政策，将发明所有权归于发明人个人而非大学，成为吸引教师和推动地方经济发展的关键制度因素
 
 ## China
 
@@ -260,7 +260,7 @@ Total entries: **270**
 ## Germany
 
 > [!index-list]- Event (1)
-> - [[Excellence Initiative (Germany)]] — 2005–2017 年德国联邦与州政府联合实施的竞争性资助计划，通过评选少数卓越大学并提供巨额额外拨款，制造了比全覆盖式评估更陡峭的高等教育等级结构
+> - [[German Excellence Initiative]] — 2005–2017 年德国联邦与州政府联合实施的竞争性资助计划，通过评选少数卓越大学并提供巨额额外拨款，制造了比全覆盖式评估更陡峭的高等教育等级结构
 
 > [!index-list]- Policy (3)
 > - [[Fraunhofer Society Model]] — 德国四大科研机构之一，专注于前沿关键技术的研发，由76家研究所组成，拥有逾3万名员工，年度预算29亿欧元，其中大部分来自科研合同收入，在科技成果转化中发挥关键作用。
@@ -422,7 +422,7 @@ Total entries: **270**
 
 > [!index-list]- Event (8)
 > - [[1970s Methodology Debates in Comparative Education]] — 1970年代初发生于英格兰比较教育学界的方法论分裂，以金（Edmund King）与阿彻（Margaret Archer）之间的学术规训论争为代表，标志着学科传统描述范式与结构社会学范式的决裂
-> - [[Advanced Manufacturing Research Centre (AMRC)]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
+> - [[Advanced Manufacturing Research Centre]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
 > - [[Areopagitica]] — Milton 向英国议会发表的反对出版许可令演说，提出寻求、接收和传递信息的三重权利，成为西方言论自由奠基性文本，Partaken 以其为审查批判的规范性基准
 > - [[Girls Into Science and Technology Project]] — 1980年代英国为期三年的女性主义行动研究项目，涉及2,000名学生和十所学校，通过同步整合行动研究刻意改变女孩的科学科目选择与职业抱负。
 > - [[Hargreaves 1996 TTA Lecture]] — David Hargreaves 在 TTA 年度讲座中将教育研究与医学进行不利比较，标志着英国 EBE 运动的政策起点
@@ -515,10 +515,10 @@ Total entries: **270**
 > - [[UCSD Innovation and Commercialization Office]] — 加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统企业来找大学的产学合作方向
 > - [[Universal Parallel Computing Research Centers]] — 2008 年 Intel 与 Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley 和 UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折
 > - [[University City Science Center]] — 费城的非营利产学合作组织，通过项目设计激励创业者关系发展并提供培训和资源，聚焦费城本地相对优势，后建立实体空间进一步集聚创业者、学者和产业伙伴
+> - [[University Inc]] — Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一
 > - [[University Industry Demonstration Partnership]] — 2004 年由美国国家科学院发起、2015 年独立为非营利组织的全球性产学合作组织，以合同共识和伙伴关系连续体为代表成果，同时是产学实践者的核心国际交流平台
 > - [[University of Illinois Research Park]] — 伊利诺伊大学的研究园区，执行主任同时兼任大学经济发展办公室主任，下设对外合作、孵化器 EnterpriseWorks、企业活动与创新外联等专职岗位，以整合组织架构链接产业伙伴与大学资源
 > - [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
-> - [[University, Inc. (Washburn, 2005)]] — Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一
 > - [[US-China Economic and Security Review Commission]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
 > - [[What Works Clearinghouse]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
 

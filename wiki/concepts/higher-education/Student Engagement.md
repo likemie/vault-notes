@@ -65,7 +65,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Student Involvement]]（Astin, 1984）— 两者"异曲同工"，核心[[Hypothesis|假设]]一致。Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**。在[[Yajun Zheng|郑雅君]]（2023）框架中，Astin 提供投入的**能量维度**，Kuh 提供投入的**行为[[Operationalization|操作化]]**（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984; Kuh, 1991）
+> - vs [[Student Involvement]]（Astin, 1984）— 两者"异曲同工"，核心[[Hypothesis|假设]]一致。Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**。在[[Yajun Zheng|郑雅君]]（2023）框架中，Astin 提供投入的**能量维度**，Kuh 提供投入的**行为[[Operationalization|操作化]]（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Astin, 1984; Kuh, 1991）**
 > - vs [[Academic and Social Integration]]（Tinto, 1993）— Tinto 更侧重从原有社会关系过渡到大学新群体的**心理融入过程**（分离-转折-习得），Kuh 更强调**可测量的行为投入**和学校的结构性支持。在郑雅君（2023）框架中，Tinto 提供投入的**心理机制**，Kuh 提供投入的**行为操作化**
 
 ---
@@ -123,7 +123,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning]
-> - **"中立过程"[[Hypothesis|假设]]**：投入被默认为"由学生自己决定、不牵涉阶层种族等社会因素的中立过程"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
+> - **"中立过程"[[Hypothesis|假设]]** 投入被默认为"由学生自己决定、不牵涉阶层种族等社会因素的中立过程"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
 > - **"投入越多越好"的线性假设**郑雅君的发现挑战了这一假设——投入的方向性和策略性可能比投入的总量对毕业出路的影响更关键。泽斌明确声称大学学习"也就占个不超过 20%"，但他通过策略性地将时间投入到实习和职业探索，最终获得满意就业结果。与之对照，牛铭同样投入了学生会和社团活动，但因"方向不明确"而未能有效转化
 > - 前沿研究已开始探索学生投入出现阶层差异的机制问题，但高等教育学领域整体仍将大学预设为公平竞技场
 
@@ -132,7 +132,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第4章将学生投入理论应用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 的投入差异——投入不仅有多寡之分，更有**方向性**的区别。约半数直觉依赖者在高年级完成了向目标掌控模式的转变，触发引擎往往是[[Social Engagement|社会性投入]]——这意味着投入不仅是**结果[[Variable|变量]]**（受阶层[[Habitus|习性]]影响），也可能成为**转化机制**（通过投入本身来改变投入模式）。详见 [[Argument_Zheng_2023_ShanghaiSanlian]]
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第4章将学生投入理论应用于分析 [[Goal-Controlled Mode|目标掌控模式]] 和 [[Intuition-Dependent Mode|直觉依赖模式]] 的投入差异——投入不仅有多寡之分，更有**方向性**的区别。约半数直觉依赖者在高年级完成了向目标掌控模式的转变，触发引擎往往是[[Social Engagement|社会性投入]]——这意味着投入不仅是**结果[[Variable|变量]]（受阶层[[Habitus|习性]]影响）**，也可能成为**转化机制**（通过投入本身来改变投入模式）。详见 [[Argument_Zheng_2023_ShanghaiSanlian]]
 > - 具体案例：泽斌的策略性投入分配 vs 牛铭的无方向投入，详见 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]]
 
 ---

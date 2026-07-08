@@ -77,7 +77,7 @@ updated: '2026-05-18'
 > [!abstract] Tennessee STAR 与加州班级缩减：Fidelity vs Adaptation 的经典案例([[Argument_Wiliam_2019_ERE|Wiliam, 2019]])
 > [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.5–7)]] 对 Tennessee STAR 项目和加州班级缩减政策进行了详细对比，揭示了 fidelity vs adaptation 辩论在大型教育政策中的具体表现：
 >
-> **Tennessee STAR (1985–1989) 的成功**：
+> **Tennessee STAR (1985–1989) 的成功**
 > - 幼儿园学生[[Random Assignment|随机分配]]至小班（13–17 人）、大班（22–26 人）或大班加教师助理
 > - 教师也被随机分配（在美国学区中属重要考量，因资深教师通常可表达偏好）
 > - 至二年级末：小班学生领先大班学生约 3 个月，贫困和少数族裔学生获益高达两倍（Grissmer, 1999; Molnar et al., 1999）
@@ -86,7 +86,7 @@ updated: '2026-05-18'
 >
 > **加州 1996 年复制失败的三层原因**
 >
-> 1. **支持因素（Support Factors）缺失（Cartwright & Hardie, 2012 的术语）**：加州缺乏足够合格教师和教室空间。未认证教师比例从 1990 年的约 1/200 飙升至 1997 年的约 1/8（Jepsen & Rivkin, 2002）。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
+> 1. **支持因素（Support Factors）缺失（Cartwright & Hardie, 2012 的术语）** 加州缺乏足够合格教师和教室空间。未认证教师比例从 1990 年的约 1/200 飙升至 1997 年的约 1/8（Jepsen & Rivkin, 2002）。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
 >
 > 2. **教师质量分布的系统性恶化** 新教师和未认证教师并非在全州范围内随机分配。Randy Ross (1999) 指出，许多有经验的教师离开城市学校到更富裕地区担任新设立的职位——净效应是降低全州平均教师质量，并将教师质量的降低集中在服务最弱势学生的学校。
 >

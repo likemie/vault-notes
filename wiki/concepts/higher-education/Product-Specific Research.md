@@ -24,7 +24,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
 confidence: medium
@@ -47,7 +47,7 @@ updated: 2026-05-28
 ## 核心要素
 
 > [!abstract]
-> 基于 [[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的制度实践（pp.114–115）：
+> 基于 [[Advanced Manufacturing Research Centre|AMRC]] 的制度实践（pp.114–115）：
 
 1. **独立于联合体协议** 产品专项项目的协议单独建立和资助，不走联合体的会员年费资金池。这使得每个项目可以有自己的 IP 条款、交付物和保密要求
 2. **企业专有信息的注入** 产品专项研究的[[Necessary and Sufficient Conditions|必要条件]]是赞助企业提供自己的专有信息。[[Precompetitive Research|前竞争研究]]使用所有成员都有权使用的通用知识，产品专项研究则加入了只有赞助企业才知道的具体参数——例如特定型号涡轮发动机叶片的材料特性、工作温度和装配公差
@@ -59,7 +59,7 @@ updated: 2026-05-28
 ## 两层轨道的衔接逻辑
 
 > [!note]-
-> [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]通过 [[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的案例展示了前竞争轨道和产品专项轨道如何互补运作（pp.114–115, 117–118）：
+> [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]通过 [[Advanced Manufacturing Research Centre|AMRC]] 的案例展示了前竞争轨道和产品专项轨道如何互补运作（pp.114–115, 117–118）：
 
 [[Precompetitive Research|前竞争研究]]用成员年费和政府拨款共同资助，所有成员平等使用研究成果。这一轨道的核心功能是消除竞争对手在同一张桌子上合作的最大障碍——没有人因为参与联合体而出让自己的竞争优势。
 

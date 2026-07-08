@@ -41,7 +41,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> Whole Sustainability（整体可持续性）是 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 理论中提出的可持续性概念，其核心主张是：**真正具有可持续性的项目必须纳入局部社区代表 [[Life Power|生命力量]] 的一切要素——包括记忆、口述传统、艺术、精神性、人际关系和日常实践——以及其面临的内外部威胁**([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注]])。
+> Whole Sustainability（整体可持续性）是 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 理论中提出的可持续性概念，其核心主张是：**真正具有可持续性的项目必须纳入局部社区代表 [[Life Power|生命力量]] 的一切要素——包括记忆、口述传统、艺术、精神性、人际关系和日常实践——以及其面临的内外部威胁([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注]])**。
 
 > Whole Sustainability 质疑从属于霸权发展模式的常规可持续性概念——后者将可持续性视为在现有发展[[Paradigm|范式]]内通过技术改良实现的"绿色增长"。"整体"（Whole = Ganz）在此不是静态的完整体，而是通过 [[Ganz-Methode]] 将所有相关的新旧张力同时纳入考量，在运动变化中不断重新连接。关于 Ganz 与 holistic 的核心区分，详见 [[Ganz-Methode#概念辨析]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注, 112]])。
 
@@ -63,11 +63,11 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract]
-> - **纳入[[Life Power|生命力量]]**：将局部社区代表"生命力量"的一切纳入可持续性考量——不仅包括可量化的自然资源和经济指标，更包括不可量化的存在意义要素（记忆、口述传统、艺术、精神性、人际关系）。详见 [[Life Power#核心要素]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注, 113–116]])
+> - **纳入[[Life Power|生命力量]]** 将局部社区代表"生命力量"的一切纳入可持续性考量——不仅包括可量化的自然资源和经济指标，更包括不可量化的存在意义要素（记忆、口述传统、艺术、精神性、人际关系）。详见 [[Life Power#核心要素]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注, 113–116]])
 > - **纳入内外部威胁** 同时识别和暴露威胁生命力量的内外部因素——内部（社区分化、记忆传承断裂），外部（经济开发压力、霸权[[Epistemology|认识论]]排斥）。这使可持续性分析超越"资源管理"而进入"权力和认识论"问题([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注, 115–118]])
 > - **整体即运动中的张力连接** "整体"（Whole = Ganz）永远处于运动变化之中，要求持续在局部与全球、新旧[[Paradigm|范式]]之间来回审视，而非一次性达成"完整体"。详见 [[Ganz-Methode#概念辨析]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注, 112, 117]])
 > - **质疑霸权发展模式的认识论** 常规可持续性默认当前发展轨道是给定的，仅需在其内部"绿化"。Whole Sustainability 的出发点是：不可持续性的根源在于认知世界的**方式**——Leff (2014) 论证环境危机本质上是"认知方式的危机"([[Argument_Delambre_2022_Springer|Delambre, 2022, p.108–109, 109 脚注]])
-> - **通过 Ganz-Methode [[Operationalization|操作化]]**：通过 Ganz-Methode 两步法 实现——承载新旧发展模式之间的张力，在承载的张力中发现和保护生命力量([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注, 112–116]])
+> - **通过 Ganz-Methode [[Operationalization|操作化]]** 通过 Ganz-Methode 两步法 实现——承载新旧发展模式之间的张力，在承载的张力中发现和保护生命力量([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109 脚注, 112–116]])
 
 ## 理论基础
 

@@ -44,7 +44,7 @@ updated: '2026-06-08'
 ## 定义
 
 > [!info] 定义
-> 伞状综述（Umbrella Review）是一种对已有[[Systematic Review|系统综述]]和[[Meta-analysis|元分析]]进行再综合的高级综述方法。Grant 和 Booth（2009）将其定义为一种整合多个综述的证据的综合形式。与[[Meta-meta-analysis|元-元分析]]直接合并[[Effect Size|效应量]]不同，伞状综述更强调以共同的方法论框架跨不同领域整合证据，为实践者提供可比较的信息([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
+> 伞状综述（Umbrella Review）是一种对已有[[Systematic Review|系统综述]]和[[Meta-analysis|元分析]]进行再综合的高级综述方法。Grant & Booth（2009）将其定义为一种整合多个综述的证据的综合形式。与[[Meta-meta-analysis|元-元分析]]直接合并[[Effect Size|效应量]]不同，伞状综述更强调以共同的方法论框架跨不同领域整合证据，为实践者提供可比较的信息([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 >
 > [[EEF Teaching and Learning Toolkit]] 是伞状综述在教育领域最具代表性的应用。[[Argument_Higgins_2016_RE|Higgins (2016)]]将 Toolkit 的摘要描述为一系列整合的伞状综述，以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结（p.47）。
 

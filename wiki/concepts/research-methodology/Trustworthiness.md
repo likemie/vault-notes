@@ -39,7 +39,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-08
 ---
 # Trustworthiness
 
@@ -48,7 +48,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 可信赖性（[[Qualitative Validity|trustworthiness]]）是 Lincoln & Guba (1985) 提出的[[Qualitative Research|质性研究]]质量的替代性总称概念，旨在以一套与[[Interpretive Paradigm|自然主义探究]][[Epistemology|认识论]]一致的标准来**替代**[[Positivism|实证主义]][[Paradigm|范式]]中的效度和[[Reliability|信度]]概念。它涵盖了四项核心标准：**可信性**（credibility，替代[[Internal Validity|内部效度]]）、**可迁移性**（transferability，替代[[External Validity|外部效度]]）、**可依赖性（dependability，替代信度）**和**可确认性（confirmability，替代客观性）**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, pp. 160–161]]）。在自然主义研究范式下，可信度被列为 Lincoln & Guba（1985: 39–43）的14条操作性含义之一——"可信度及其组成部分取代更常规的信度和效度观"——同时也是自然主义研究设计十项元素中的第10项：规划可信度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 404–405, 411]]）。
+> 可信赖性（[[Qualitative Validity|trustworthiness]]）是 Lincoln & Guba (1985) 提出的[[Qualitative Research|质性研究]]质量的替代性总称概念，旨在以一套与[[Interpretive Paradigm|自然主义探究]][[Epistemology|认识论]]一致的标准来**替代**[[Positivism|实证主义]][[Paradigm|范式]]中的效度和[[Reliability|信度]]概念。它涵盖了四项核心标准：**可信性（credibility，替代[[Internal Validity|内部效度]]）**、**可迁移性（transferability，替代[[External Validity|外部效度]]）**、**可依赖性（dependability，替代信度）**和**可确认性（confirmability，替代客观性）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, pp. 160–161]]）**。在自然主义研究范式下，可信度被列为 Lincoln & Guba（1985: 39–43）的14条操作性含义之一——"可信度及其组成部分取代更常规的信度和效度观"——同时也是自然主义研究设计十项元素中的第10项：规划可信度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011b, pp. 404–405, 411]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 可信赖性不是"质性研究的效度"——它是从根本上拒绝将实证主义效度标准应用于质性研究后提出的**替代性标准体系**。它标志着质性研究方法论从"模仿量化"到"建立自主标准"的范式转向。
@@ -64,7 +64,7 @@ updated: 2026-06-24
 >   替代量化[[Internal Validity|内部效度]]——研究发现对被研究者而言是可信的、真实的。可通过长期田野参与、持续观察、[[Triangulation|三角验证]]、同伴汇报、[[Negative Case Analysis|负面案例分析]]和[[Member Checking|成员核查]]来建立。
 > - **可迁移性（transferability）**
 >   替代量化[[External Validity|外部效度]]——研究发现可在类似情境中应用。研究者**不应**提供可迁移性指标——这是读者的任务。研究者应提供足够丰富的[[Rich and Thick Description|厚描述]]让读者自行判断迁移是否可能。
-> - **[[Reliability|可依赖性]]**（dependability）
+> - **[[Reliability|可依赖性]]（dependability）**
 >   替代量化信度——研究过程和结果是稳定、可追踪、可审计的。通过[[Audit Trail|审计追踪]]、成员核查、同伴汇报、三角验证、反思日志和独立审计来保障。
 > - **可确认性（confirmability）**
 >   替代量化客观性——研究发现由数据和参与者建构而来，而非研究者偏见。审计追踪是保障可确认性的核心操作——使[[External Auditor|外部审计者]]能追溯从数据到结论的推理链条。

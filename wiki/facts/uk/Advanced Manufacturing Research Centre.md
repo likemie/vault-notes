@@ -1,5 +1,5 @@
 ---
-title: Advanced Manufacturing Research Centre (AMRC)
+title: "Advanced Manufacturing Research Centre"
 aliases:
   - "先进制造研究中心"
   - "AMRC"

@@ -14,7 +14,9 @@ argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
-citation: "Amos, S. K. (2022). Which Vision of Education for Late Modernity? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 53–65). Springer."
+citation: "Amos, S. K. (2022). Which Vision of Education for Late Modernity? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 53–65). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - late-modernity
   - transitology
@@ -40,7 +42,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Learner Autonomy]]"
   - "[[Emergence]]"
-  - "[[SF (Haraway)]]"
+  - "[[Haraway's SF|SF (Haraway)]]"
   - "[[Humosity]]"
   - "[[Mondialisation]]"
   - "[[Epoché]]"
@@ -91,7 +93,7 @@ citation_aliases:
 >
 > > 用一个比喻来理解：如果把现代教育比作一栋国家建造的大楼——楼层分明、课程按年级排好、毕业证书盖着国家印章——那么晚期现代性就像一场持续的地震。大楼的框架仍在，但地基在摇晃，新的建筑商（市场、科技公司、国际组织）正在大楼旁边搭建各种临时和永久的结构。我们不知道最终会变成什么样子——是一栋翻新的大楼，还是一片没有中心建筑的分散聚落。
 >
-> 在这个前提下，Amos 设置了两种对立的教育愿景作为[[Analytic Framework|分析框架]]：一种是**技术优化的 [[Transhumanism]]**（以效率、最大化和增强为核心逻辑），另一种是**关系性的 [[Posthumanism]]**（以 connectivity 和 [[Response-ability]] 为核心伦理）。她并不声称哪一方"正确"，而是邀请读者参与讨论——尤其在全书关注高等教育的背景下。
+> 在这个前提下，Amos 设置了两种对立的教育愿景作为[[Analytic Framework|分析框架]]：一种是**技术优化的 [[Transhumanism]]**（以效率、最大化和增强为核心逻辑），另一种是**关系性的 [[Posthumanism]]（以 connectivity 和 [[Response-ability]] 为核心伦理）**。她并不声称哪一方"正确"，而是邀请读者参与讨论——尤其在全书关注高等教育的背景下。
 >
 > 整章的论证结构可理解为三次对比：**过去 vs 现在**（从国家中心到市场中心）、**技术路径 A vs B（超人类主义 vs 后人类主义）**、**描述 vs 规范（正在发生什么 vs 我们希望教育走向哪里）**。
 >
@@ -228,7 +230,7 @@ citation_aliases:
 >
 > 所有这些原则有一个共同特征：**拒绝宏大蓝图，拥抱地方实验**。这与 Cowen 市场驱动模型中的"标准化"和"效率最大化"形成鲜明对比。
 >
-> **Haraway：[[SF (Haraway)]] 叙事与 [[Sympoiesis]]**
+> **Haraway：[[Haraway's SF|SF (Haraway)]] 叙事与 [[Sympoiesis]]**
 >
 > 如果说 Escobar 偏向"设计"，Haraway 则偏向"讲故事"。她的核心方法论是 **SF**——这个缩写同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今）。核心是：通过讲故事的实践，创造涉及人类与非人类多重行动者的关系模式(p.62)。
 >
@@ -252,7 +254,7 @@ citation_aliases:
 >
 > Amos 指出，如果一定要为 Haraway 的愿景找一位教育理论家，那应该是 **[[John Dewey]]** 而非 Wilhelm von Humboldt 或 Maria Montessori。Dewey 强调教育与经验、与民主生活、与共同体的连续性——与 Haraway 的"在稠密的当下好好生、好好死"（live and die well together in a thick present）的伦理有相通之处。
 >
-> Escobar 依赖 Varela 的 *Ethical Know-How* (1999)——具体而言是"**自我的非固化**"（non-solidity of the self）概念：自我不是固态的、固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这种非固化，会产生一种根本性的**关爱心态（caring disposition）**。如何培育这种心态？不是通过理性干预、自我优化或规范灌输——而是通过**[[Epoché|悬置]]自我**（suspension of the ego），通过那些有助于发展"非自我中心"习惯的训练。
+> Escobar 依赖 Varela 的 *Ethical Know-How* (1999)——具体而言是"**自我的非固化**"（non-solidity of the self）概念：自我不是固态的、固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这种非固化，会产生一种根本性的**关爱心态（caring disposition）**。如何培育这种心态？不是通过理性干预、自我优化或规范灌输——而是通过**[[Epoché|悬置]]自我（suspension of the ego）**，通过那些有助于发展"非自我中心"习惯的训练。
 >
 > > 例：这里有一个直接的对比。超人类主义的教育技术：用 app 追踪你的学习进度、优化你的专注时间、评测你的认知水平——一切都是关于"你"的增强。Escobar-Varela 路径则建议：花时间在社区菜园里、学习与老人的跨代对话、练习关注他人的需要而非自己的成就——通过这些非自我中心的实践，发展出一种"我不需要站在宇宙中心"的习惯和感知方式。这两种路径的分歧不是技术问题，是关于"做一个人意味着什么"的根本立场分歧。
 >

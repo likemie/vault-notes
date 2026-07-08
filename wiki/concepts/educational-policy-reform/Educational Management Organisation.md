@@ -61,8 +61,8 @@ updated: '2026-05-18'
 
 在新西兰，EMO 概念仍处于早期阶段，但已通过立法修改获得鼓励([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.20]])：
 
-- **教育修正法案 2013**（Education Amendment Act 2013）：授权部长批准由营利或非营利赞助者运营的多所公费 PSKH 合同
-- **教育立法法案 2015**（Education Legislation Bill 2015）：提议允许校长在无合并校董会的情况下管理多所公立学校
+- **教育修正法案 2013（Education Amendment Act 2013）** 授权部长批准由营利或非营利赞助者运营的多所公费 PSKH 合同
+- **教育立法法案 2015（Education Legislation Bill 2015）** 提议允许校长在无合并校董会的情况下管理多所公立学校
 - **现有案例** Villa Education Trust 和 He Puna Marama Trust 各获批运营 2 所 PSKH；Vanguard Military School 公开表达了扩张愿望([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.20]])。详见 [[Partnership Schools Kura Hourua]]
 
 ### 混合型组织（Hybrid Organisation）

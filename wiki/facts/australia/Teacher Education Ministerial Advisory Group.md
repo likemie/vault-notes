@@ -63,7 +63,7 @@ updated: 2026-06-16
 > - **目标** 提高教师质量和“课堂准备度”，增强职前教师入行门槛的标准化把关。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **对象** 全国初始教师教育（ITE）课程提供商及职前教师。
 > - **工具**
->   - **[[LANTITE]]**：初始教师教育生读写和算术测试，作为毕业/注册前的强制统考。
+>   - **[[LANTITE]]** 初始教师教育生读写和算术测试，作为毕业/注册前的强制统考。
 >   - **教学表现评估（TPA）** 用于评估职前教师在教育实习期间的表现。
 > - **认证程序** 对ITE提供商的强制认证和定期审计。
 > - **约束方式** 通过资格门槛限制（LANTITE不合格者无法毕业/注册）与课程认证注销风险，对大学ITE项目实施标准化硬约束。
@@ -85,8 +85,8 @@ updated: 2026-06-16
 > [!actor-grid] 实施主体与机制
 > - **发布主体** 澳大利亚联邦政府（Department of Education）。
 > - **执行主体**
->   - **[[Australian Institute for Teaching and School Leadership|AITSL]]**：受托制定具体的认证标准与程序，并管理教学表现评估（TPA）的实施标准。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **[[Australian Council for Educational Research|ACER]]**：受托独立运营和管理全国[[LANTITE]]测试。
+>   - **[[Australian Institute for Teaching and School Leadership|AITSL]]** 受托制定具体的认证标准与程序，并管理教学表现评估（TPA）的实施标准。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **[[Australian Council for Educational Research|ACER]]** 受托独立运营和管理全国[[LANTITE]]测试。
 > - **适用对象** 澳大利亚各大学的初始教师教育项目及职前教师。
 > - **政策工具** 标准化认证审查、毕业生标准审计以及全国性强制测试。
 

@@ -62,7 +62,7 @@ Thompson 等人（2022, p.225）强调"数字自我"这一术语的关键洞见�
 数字自我的核心洞见是它**不是**对真实自我的透明反映，而是一种建构：
 
 - Kitchin（2014, p.5）指出数据并不"为自己说话"（speak for themselves）——这一信念本身就是一种误解
-- Espeland 和 Stevens（2008, p.432）批判了测量"提供通向真实的特权通道或独占通道"的前提[[Hypothesis|假设]]
+- Espeland & Stevens（2008, p.432）批判了测量"提供通向真实的特权通道或独占通道"的前提[[Hypothesis|假设]]
 - Goriunova（2019）从后人类视角指出，数字主体是通过匹配、关联和建模被建构的，且是在"远距离"被生产出来的([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
 
 > [!example]
@@ -79,7 +79,7 @@ Bächle（2016, p.188）用身份证（identity [[Document]]）的类比来说�
 > [!abstract]
 > 数字自我的治理效果依赖于与"[[Digital Optimum|数字最优]]"（digital optimum）之间的差异：
 
-- **[[Digital Optimum|数字最优]]**：算法理性在持续优化和标准化评估过程中产生的"完美起点"理想形象——它传递具体期望（如"外语专业的学生应该有过海外语言经历"），并构成一个参照标准([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
+- **[[Digital Optimum|数字最优]]** 算法理性在持续优化和标准化评估过程中产生的"完美起点"理想形象——它传递具体期望（如"外语专业的学生应该有过海外语言经历"），并构成一个参照标准([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 - **差异驱动的治理** 数字自我与数字最优之间的差距形成了一种"差异"（differential），这种差异施加着算法治理（algorithmic governance, Beer, 2016）。学生面对这一差距，被要求管理自己的"学习组合"、弥补不足、进行自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 - **数据的质询** 这种差异构成了一种"数据的质询"（interpellation of data）——不是通过直接的命令，而是通过数字差距来呼唤风险和机遇的自我管理([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 

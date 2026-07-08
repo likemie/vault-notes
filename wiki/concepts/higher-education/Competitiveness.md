@@ -34,14 +34,14 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Excellence Initiative (Germany)]]"
+  - "[[German Excellence Initiative|Excellence Initiative (Germany)]]"
   - "[[Research Excellence Framework]]"
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: 2026-05-20
+updated: 2026-07-08
 ---
 
 # Competitiveness in Higher Education
@@ -68,7 +68,7 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 
 在科研领域，Bröckling 和 Peter（2017, pp.292–294）论证了"卓越"（excellence）是如何通过构建一个基于指标和排名的市场环境而被"发现"的——这一过程的核心悖论在于，卓越不是被客观评估的，而是在被评估的过程中被**生产**出来的：
 
-- [[Excellence Initiative (Germany)|德国卓越计划]]（Exzellenzinitiative）和英国[[Research Excellence Framework|研究卓越框架]]（[[Research Excellence Framework]], REF，前身为 Research Assessment Exercise, RAE）是构建这类市场环境的典型技术([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
+- [[German Excellence Initiative|德国卓越计划]]（Exzellenzinitiative）和英国[[Research Excellence Framework|研究卓越框架]]（[[Research Excellence Framework]], REF，前身为 Research Assessment Exercise, RAE）是构建这类市场环境的典型技术([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
 - 同行研究者需要在出版物甚至未来研究计划的层面相互竞争——"谁有最具创新性的想法？"
 - Thompson 等人（2022, p.220）指出一个关键特征：学术组织在互联网络中构成了一种"审判"（tribunal）——它们同时是法官和被审判者。这种递归关系增强了组织对自我建立的卓越标准的认同
 
@@ -87,8 +87,8 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 > [!tip]-
 
 - **Moisio 的地缘政治分析**Moisio（2018）将连接性定位为全球网络文明中竞争的关键资源，国家边界在"超大城市争夺连接性"的格局中越来越不相关。大学在这一地缘政治框架中扮演着节点角色([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
-- **Foucault 的 [[Governmentality|治理术]]**：竞争力的运作不是通过直接强制，而是通过塑造主体的自我理解和行为——大学为自身利益而"自愿"参与竞争，研究人员"自愿"追求卓越，学生"自愿"进行自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]])
-- **Deleuze 的 [[Societies of Control|控制社会]]**：Deleuze（1992）描述了从[[Disciplina and Doctrina|规训]]社会向控制社会的转型——调制取代模具、网络取代封闭机构、持续追踪取代一次性考试。竞争力的治理逻辑恰恰体现了这一转型([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
+- **Foucault 的 [[Governmentality|治理术]]** 竞争力的运作不是通过直接强制，而是通过塑造主体的自我理解和行为——大学为自身利益而"自愿"参与竞争，研究人员"自愿"追求卓越，学生"自愿"进行自我优化([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]])
+- **Deleuze 的 [[Societies of Control|控制社会]]** Deleuze（1992）描述了从[[Disciplina and Doctrina|规训]]社会向控制社会的转型——调制取代模具、网络取代封闭机构、持续追踪取代一次性考试。竞争力的治理逻辑恰恰体现了这一转型([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
 
 ## 争议与批评
 
@@ -96,5 +96,5 @@ Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地
 
 - **测量的循环** 大学认同于由自身参与建立的评估标准，形成一种封闭的自我参照循环——"卓越"的定义权掌握在参与竞争的人手中，但没有人能退出这场竞争([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
 - **教学竞争力的悖论性** 当大学竞争的是学生"潜在的未来努力"时，竞争的基础是不稳定的——它依赖的是尚未发生的行为。这意味着大学必须通过提前的管理技术（如 [[Online Self-Assessment|OSA]]）将不确定性转化为可治理的对象([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])
-- **[[Stakeholder University|利益相关者大学]]的兴起**：Wæraas 和 Solbakk（2009, p.450）指出，现代大学正从"学术共同体"转变为"利益相关者大学"（stakeholder university）——学生、教师、政府机构、商业服务提供者乃至自动化计算机代理之间的连接性，将大学转化为地缘政治的机会节点，这可能在根本上改变大学作为学术共同体的本质([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
+- **[[Stakeholder University|利益相关者大学]]的兴起** Wæraas 和 Solbakk（2009, p.450）指出，现代大学正从"学术共同体"转变为"利益相关者大学"（stakeholder university）——学生、教师、政府机构、商业服务提供者乃至自动化计算机代理之间的连接性，将大学转化为地缘政治的机会节点，这可能在根本上改变大学作为学术共同体的本质([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])
 

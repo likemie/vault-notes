@@ -2,7 +2,7 @@
 authors:
   - Schaffar, B.
   - Wolff, L.-A.
-summary: 历史与哲学分析：系统追溯芬兰现象本位学习（PhBL）的现象学、德语区教化/教学论传统及建构主义心理学根源，揭示整体性教育潜能与新自由主义可测量性及技能原子化政策之间的内在张力。
+summary: "历史与哲学分析：系统追溯芬兰现象本位学习（PhBL）的现象学、德语区教化/教学论传统及建构主义心理学根源，揭示整体性教育潜能与新自由主义可测量性及技能原子化政策之间的内在张力。"
 type: argument
 subtype: journal-article
 publication_type: journal-article

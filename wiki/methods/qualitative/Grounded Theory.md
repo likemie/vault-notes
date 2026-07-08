@@ -44,7 +44,7 @@ updated: 2026-05-30
 ## 定义
 
 > [!info]
-> 扎根理论（Grounded Theory）是一种源自社会学的[[Qualitative Research|质性研究]]设计。研究者通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。其主要代表人物包括 Charmaz（[[Constructivist Paradigm|建构主义]]取向）、Corbin 和 Strauss（系统化取向），以及创始者 Glaser 和 Strauss（1967）。
+> 扎根理论（Grounded Theory）是一种源自社会学的[[Qualitative Research|质性研究]]设计。研究者通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。其主要代表人物包括 Charmaz（[[Constructivist Paradigm|建构主义]]取向）、Corbin 和 Strauss（系统化取向），以及创始者 Glaser & Strauss（1967）。
 
 ## 研究程序
 
@@ -58,7 +58,7 @@ updated: 2026-05-30
 ## 研究问题
 
 > [!info]
-> 扎根理论的[[Research Question|研究问题]]指向**生成关于某一过程的理论**（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。与其他质性路径不同，扎根理论的[[Research Question|研究问题]]不是为了描述经验的本质（[[Phenomenology|现象学]]）或理解文化（[[Ethnography|民族志]]），而是为了解释一个社会或互动过程如何展开。
+> 扎根理论的[[Research Question|研究问题]]指向**生成关于某一过程的理论（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）**。与其他质性路径不同，扎根理论的[[Research Question|研究问题]]不是为了描述经验的本质（[[Phenomenology|现象学]]）或理解文化（[[Ethnography|民族志]]），而是为了解释一个社会或互动过程如何展开。
 
 典型的扎根理论研究问题示例："在医院环境中，照顾者和病人如何互动？"（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。这类问题聚焦于**过程（process）**和**互动（interaction）**，反映扎根理论以生成理论解释过程为核心目标的方法论定位。
 

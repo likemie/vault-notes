@@ -4,7 +4,9 @@ authors:
   - "Hall, R."
 summary: "构建产学参与的活动-基础-特征三维框架，通过65所大学网站分析和产学双方问卷调查，发现五种常见组织模式且无一完全全面，中心办公室仅充当导航者而非执行者，双方在互利关系上高度一致但组织实践高度碎片化"
 type: argument
-citation: "Boccanfuso, A., & Hall, R. (2025). Organization and Strategy for University-Industry Relationships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 51–71). Springer."
+citation: "Boccanfuso, A., & Hall, R. (2025). Organization and Strategy for University-Industry Relationships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 51–71). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
@@ -55,7 +57,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: '2026-06-08'
+updated: 2026-07-08
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
@@ -100,7 +102,7 @@ citation_aliases:
 - 类型：实证研究，兼有框架建构
 - 方法：[[Mixed Methods Research|混合方法]]——三步设计，每一步都为下一步提供基础
 - **第一步（框架建构）** 基于 Boccanfuso & Hall 四十余年[[University-Industry Collaboration|产学合作]]领导经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），咨询八位资深产学参与官员，参考既有[[Document|文献]]，反复修订形成框架；再通过四所美国大学、两所非美国大学和两家企业的反馈进行完善(pp.55–56)
-- **第二步（[[Website Content Analysis|网站内容分析]]）**：对 65 所 UIDP 成员大学的产学参与中心网页进行系统内容分析，按组织模式分类，统计办公室名称中的关键词频率，评估各办公室在八项产学活动（教育、学生参与、研究、经济发展、许可与[[Technology Transfer|技术转移]]、临床、辅助、捐赠）中的权限级别——从"未提及"到"直接负责"共六级(p.56)
+- **第二步（[[Website Content Analysis|网站内容分析]]）** 对 65 所 UIDP 成员大学的产学参与中心网页进行系统内容分析，按组织模式分类，统计办公室名称中的关键词频率，评估各办公室在八项产学活动（教育、学生参与、研究、经济发展、许可与[[Technology Transfer|技术转移]]、临床、辅助、捐赠）中的权限级别——从"未提及"到"直接负责"共六级(p.56)
 - **第三步（问卷调查）** 通过 Qualtrics 向 124 名大学指定代表（回复率 35%）和 600 名企业代表（回复率 7%）发放问卷，收集组织特征、活动范围和策略重要性感知数据(pp.56–57)
 - 样本特征：美国大学联邦研发支出平均 $409M，产业研发支出平均 $44M（2019 学年）；大学受访者中 65% 学生规模超 30,000 人，69% 年研发支出超 $500M，69% 为公立(pp.56–57, 64)
 
@@ -136,7 +138,7 @@ citation_aliases:
 顶层是五个跨越使命的活动——这些不是某一个院系的工作，而是需要大学最高领导层（校长、教务长、学术评议会、董事会）来推动的：
 
 - **战略（Strategy）** 大学是否将产学合作纳入战略规划？校长和教务长是否公开表态支持？
-- **价值观（Values）** 大学如何看待与产业合作——是学术独立的威胁，还是学术使命的自然延伸？
+- **价值观（Values）** 大学如何看待与产业合作——是学术独立的威胁，还是学术使命的自然延伸？将其视为威胁的立场以 Washburn 的[[University Inc|《University, Inc.》]]公司化批判为经典代表
 - **组织（Organization）** 大学如何整合不同单位和应用来服务产业伙伴？
 - **产业集中（Concentrations）** 大学是否在特定产业领域（如生物医药、人工智能、清洁能源）建立重点方向？
 - **重大挑战（Grand Challenges）** 大学是否围绕气候变化、健康寿命等社会性宏大议题组织产学合作？

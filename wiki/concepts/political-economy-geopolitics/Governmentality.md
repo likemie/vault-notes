@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-20
-updated: 2026-05-23
+updated: 2026-07-08
 ---
 
 # Governmentality
@@ -110,7 +110,7 @@ updated: 2026-05-23
 ---
 
 > [!line-a] 远距治理（Governing at a Distance）
-> 远距治理是治理术运作的空间机制：权力并不直接作用于被治理者，而是通过重塑关系、想象和话语——在"远处"组织行为。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022, pp.251-252）]]援引 Bell 和 Green（2016, p.240）将新自由主义界定为一种**理性**，它"重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现远距治理"。远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**——通过创造可欲的自我引导形式来操控个体。[[Single-Case Design|SCD]] 框架不被任何单一机构或政府所控制，却通过界定"未来所需技能"远距塑造全球教育政策和个体行为（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.259-260]]）。
+> 远距治理是治理术运作的空间机制：权力并不直接作用于被治理者，而是通过重塑关系、想象和话语——在"远处"组织行为。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022, pp.251-252）]]援引 Bell & Green（2016, p.240）将新自由主义界定为一种**理性**，它"重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现远距治理"。远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**——通过创造可欲的自我引导形式来操控个体。[[Single-Case Design|SCD]] 框架不被任何单一机构或政府所控制，却通过界定"未来所需技能"远距塑造全球教育政策和个体行为（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.259-260]]）。
 
 > [!line-b] 全球治理技术（Global Governmental Technology）
 > [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022, pp.264-265）]]将（新）[[Geopolitics of Knowledge|知识地缘政治]]概念化为一种全球治理技术，识别出三重运作机制：（1）**问题化与个体化**——教育挑战被表述为 [[VUCA]]，结构性问题转化为个体装备技能的责任；（2）**授权[[Knowledge Production|知识生产]]手段**——特定人群得以定义"卓越"与"创新"，强化其权力地位并排斥无法承诺于此类生产的人；（3）**主体化、区分与创造自由**——推崇[[Self-Entrepreneur|自我企业家]]精神的同时，将排除者框定为"脆弱者"，双重操作全覆盖地塑造全球教育秩序中的主体（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.265]]）。
@@ -132,7 +132,7 @@ updated: 2026-05-23
 ## 认识论立场
 
 > [!info]
-> - **[[Ontology|本体论]]与[[Epistemology|认识论]]立场**：治理术属于[[Post-structuralism|后结构主义]]认识论传统——拒绝权力/自由的二元对立，将治理视为一种"在自由中的治理"；拒绝将主体视为权力的被动承受者，而是关注权力如何积极地"生产"主体
+> - **[[Ontology|本体论]]与[[Epistemology|认识论]]立场** 治理术属于[[Post-structuralism|后结构主义]]认识论传统——拒绝权力/自由的二元对立，将治理视为一种"在自由中的治理"；拒绝将主体视为权力的被动承受者，而是关注权力如何积极地"生产"主体
 > - **常用分析方法** 话语分析、政策文本分析、非参与式观察
 
 ---

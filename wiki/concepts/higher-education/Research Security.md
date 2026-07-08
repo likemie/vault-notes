@@ -4,7 +4,7 @@ aliases:
   - 研究安全
   - safeguarding research
   - research security in universities
-summary: 大学为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡
+summary: "大学为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡"
 type: concept
 domain: "higher-education"
 related_count: 7

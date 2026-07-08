@@ -4,7 +4,9 @@ authors:
   - "Jones, E. A."
 summary: "论证学术健康系统是一种不同于传统学术医学中心的独特产学合作组织载体，以医师科学家为关键催化者，通过价值对齐模型将大学、产业和医院的优先差异重新聚焦到患者中心，从而促进医用创新的翻译和部署"
 type: argument
-citation: "Swick, M. C., & Jones, E. A. (2025). The unique role of academic health systems in facilitating innovative UI partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 175–199). Springer."
+citation: "Swick, M. C., & Jones, E. A. (2025). The unique role of academic health systems in facilitating innovative UI partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 175–199). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"

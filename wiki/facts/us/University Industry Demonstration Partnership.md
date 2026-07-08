@@ -89,14 +89,14 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 ### 合作框架与度量
 
-- **[[Partnership Continuum|Partnership Continuum]] & Avenues for Engagement**：识别伙伴关系模式并详细说明不同的合作模型。灵感来自 Hewlett Packard 高管 Wayne Johnson 团队在 2009 年前开发的合作关系阶段图，2012 年由 UIDP 正式发布（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.16, 18]]）
+- **[[Partnership Continuum|Partnership Continuum]] & Avenues for Engagement** 识别伙伴关系模式并详细说明不同的合作模型。灵感来自 Hewlett Packard 高管 Wayne Johnson 团队在 2009 年前开发的合作关系阶段图，2012 年由 UIDP 正式发布（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.16, 18]]）
 - **Collaboration Metrics** 提供超过 100 个指标的菜单，供企业和大学评估产学伙伴关系时选用。对于许多组织而言，"识别能够有效传达产学合作价值（如[[Return on Investment|投资回报]]）和质量的引人注目的指标一直极为困难"（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.18]]）
 
 ### 组织与人才指南
 
 - **Academic Research Engagement Teams (ARET)** 提供企业在战略性对接大学时可采用的不同报告结构概览，涵盖 ARET 在企业中的位置、人员配置和资金来源（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.18–19]]）
 - **Insights for Researchers** 汇编来自 15 个以上 UIDP 出版物的研究者导向指南，帮助研究人员理解其大学和企业同行在合作者识别、预算和知识产权等问题上的视角（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.18]]）
-- **[[Joint Faculty Appointments|联合教职]]报告（2024）**：发布 *The Evolution and Impact of Joint Faculty Employment in University-Industry Collaborations*，系统分析联合教职作为产学合作新兴模式的实践与影响（UIDP, 2024，转引自 [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p.230]]）。详见 [[Joint Faculty Appointments]]
+- **[[Joint Faculty Appointments|联合教职]]报告（2024）** 发布 *The Evolution and Impact of Joint Faculty Employment in University-Industry Collaborations*，系统分析联合教职作为产学合作新兴模式的实践与影响（UIDP, 2024，转引自 [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p.230]]）。详见 [[Joint Faculty Appointments]]
 
 ---
 

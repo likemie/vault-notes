@@ -97,11 +97,11 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 
 1. **参与者意义（Participants' Meanings）** 研究聚焦于参与者对问题所持有的意义，而非研究者或[[Document|文献]]中表达的意义。
 2. **自然情境（Natural Setting）** 研究者在参与者经历[[Research Question|研究问题]]的现场收集数据，不将个体带入实验室或发送工具让他们完成，而是通过直接交谈和观察收集近距离信息。
-3. **[[Researcher as Key Instrument|研究者作为关键工具]]（Researcher as Key Instrument）**：研究者自行收集数据——检查文件、观察行为或访谈参与者。可能使用记录工具，但研究者是信息的收集者和解释者。
+3. **[[Researcher as Key Instrument|研究者作为关键工具]]（Researcher as Key Instrument）** 研究者自行收集数据——检查文件、观察行为或访谈参与者。可能使用记录工具，但研究者是信息的收集者和解释者。
 4. **多种数据来源（Multiple Sources of Data）** 研究者收集多种形式的数据（访谈、观察、文件、[[Audiovisual, Social Media, and Digital Materials|视听材料]]），而非依赖单一数据来源，然后将所有数据组织为[[Coding in Qualitative Research|编码]]和主题。
 5. **归纳与演绎数据分析（Inductive and Deductive Data Analysis）** 研究者以归纳方式从底部向上建构模式、类别和主题；然后以演绎方式从主题回到数据，检查是否有更多证据支持每个主题。
-6. **[[Emergent Design|涌现式设计]]（[[Emergent Design]]）**：初始计划不固定，在研究过程中演变。研究问题、数据收集形式、个体和场所都可能变化。
-7. **[[Reflexivity|反身性]]**：研究者反思自身角色、背景、文化和经验如何塑造解释，明确识别偏见、价值观和个人背景。
+6. **[[Emergent Design|涌现式设计]]（[[Emergent Design]]）** 初始计划不固定，在研究过程中演变。研究问题、数据收集形式、个体和场所都可能变化。
+7. **[[Reflexivity|反身性]]** 研究者反思自身角色、背景、文化和经验如何塑造解释，明确识别偏见、价值观和个人背景。
 8. **研究者角色（Researcher's Role）** 说明研究者与参与者或研究场所之间可能影响解释的联系，警惕"[[Backyard Research|后院研究]]"（backyard research）的风险。
 9. **复杂性描述（A Complex Account）** 研究者尝试呈现关于研究问题的复杂图景——报告多种视角、识别情境中的多种因素，形成一个非线性的、多重因素交互的视觉模型。
 
@@ -113,7 +113,7 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 ## 操作步骤
 
 > [!example] 操作步骤
-> - **不操纵自[[Variable|变量]]**：质性研究在该文分类中属于[[Non-intervention Research|非干预研究]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **不操纵自[[Variable|变量]]** 质性研究在该文分类中属于[[Non-intervention Research|非干预研究]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 > - **使用文本数据** 数据例子包括访谈文本和观察文本。
 > - **以解释和理解为主要目标** 该文没有展开质性分析程序，但将其放入方法多元化趋势中，强调不同经验方法可通过不同透镜研究教育现象([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
@@ -125,8 +125,8 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 > |---|---|---|---|
 > | **观察（Observations）** | 完全参与者——研究者隐藏角色；作为参与者的观察者——研究者角色已知；作为观察者的参与者——观察角色次要于参与者角色；完全观察者——研究者观察但不参与 | 研究者有一手经验；可在信息发生时即时记录；可注意到不寻常的方面；适合探索参与者不便讨论的话题 | 研究者可能被视为侵入者；可能观察到无法报告的隐私信息；研究者可能缺乏足够的观察技能；某些参与者（如儿童）可能带来建立信任关系的特殊困难 |
 > | **访谈（Interviews）** | 面对面——一对一现场访谈；电话——研究者通过电话访谈；焦点小组——研究者以小组形式访谈参与者；电子邮件/互联网访谈 | 在无法直接观察参与者时有用；参与者可提供历史信息；允许研究者控制问题线索 | 通过受访者视角过滤的间接信息；在指定场所而非自然田野环境中进行；可能因研究者在场产生偏差；并非所有人都同样善于表达和敏锐 |
-> | **[[Document\|文件]]**（Documents） | 公共文件——会议记录或报纸；私人文件——日记、日志或信件 | 使研究者能获取参与者的语言和措辞；可在研究者方便的时间获取——非侵入性信息来源；代表了参与者已关注的数据；节省转录时间与费用（已有书面形式） | 并非所有文件都同样清晰和敏锐；可能是不对公共或私人访问开放的保护信息；需要研究者在难以找到的地方搜寻；需要转录或光学扫描以便计算机录入；材料可能不完整；文件可能不真实或不准确 |
-> | **视听与数字材料**（[[Audiovisual, Social Media, and Digital Materials]]） | 照片、录像带、艺术品、计算机消息、声音、电影 | 可能是一种非侵入性的数据收集方法；为参与者提供直接分享自身现实的机会；具有创意性，能视觉化地吸引注意力 | 可能难以解释；可能无法公开或私下获取；观察者（如摄影师）的存在可能干扰并影响反应 |
+> | **[[Document\|文件]]（Documents）** | 公共文件——会议记录或报纸；私人文件——日记、日志或信件 | 使研究者能获取参与者的语言和措辞；可在研究者方便的时间获取——非侵入性信息来源；代表了参与者已关注的数据；节省转录时间与费用（已有书面形式） | 并非所有文件都同样清晰和敏锐；可能是不对公共或私人访问开放的保护信息；需要研究者在难以找到的地方搜寻；需要转录或光学扫描以便计算机录入；材料可能不完整；文件可能不真实或不准确 |
+> | **视听与数字材料（[[Audiovisual, Social Media, and Digital Materials]]）** | 照片、录像带、艺术品、计算机消息、声音、电影 | 可能是一种非侵入性的数据收集方法；为参与者提供直接分享自身现实的机会；具有创意性，能视觉化地吸引注意力 | 可能难以解释；可能无法公开或私下获取；观察者（如摄影师）的存在可能干扰并影响反应 |
 >
 > 来源：改编自 Bogdan & Biklen (1992), Creswell & Poth (2018), Merriam (1998); Creswell & Creswell (2022, Ch9, Table 9.2)。
 
@@ -139,7 +139,7 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 ## 局限性
 
 > [!warning] 局限性
-> - **[[Recommendations for Practice|实践建议]]边界**：2020 年五本期刊中 65% 的质性研究包含 RFP；如果这些建议暗含"改变实践会改善结果"的[[Causality|因果]]结构，就需要谨慎区分解释性发现与因果行动建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
+> - **[[Recommendations for Practice|实践建议]]边界** 2020 年五本期刊中 65% 的质性研究包含 RFP；如果这些建议暗含"改变实践会改善结果"的[[Causality|因果]]结构，就需要谨慎区分解释性发现与因果行动建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
 > - **比例可能受专刊影响** JEP 2020 年质性研究专刊使该年度 JEP 的质性研究数量增加；但排除该专刊后，五刊中质性研究仍占 19%，说明增长并非完全由专刊造成([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.5-6]])。
 
 ## 相关理论
@@ -153,10 +153,10 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 
 1. **组织和准备数据** 转录访谈、光学扫描材料、录入田野笔记、编目所有视觉材料，并按信息来源排序整理数据。
 2. **通读所有数据** 获得整体感知和反思的机会——参与者说了什么？思路的基调是什么？整体深度、可[[Reliability|信度]]和信息可用性的印象如何？
-3. **[[Coding in Qualitative Research|编码]]数据**：将文本或图像数据拆分为片段，用代表类别的词标注这些片段（详见 [[Coding in Qualitative Research]]）。
+3. **[[Coding in Qualitative Research|编码]]数据** 将文本或图像数据拆分为片段，用代表类别的词标注这些片段（详见 [[Coding in Qualitative Research]]）。
 4. **识别主题** 将编码归并为少量主题或类别（通常五到七个），可以是关于场所或个体的描述，也可以是关于[[Research Question|研究问题]]的主题。主题应展示来自个体的多元视角，包含多样化的引语和具体证据。
-5. **发展[[Story Line|故事线]]解释**：将主题相互连接为故事线，呈现问题的发展编年史。故事线可以聚焦单一个体或群体，通常出现在期刊论文的讨论部分。
-6. **使用[[Analytic Framework|分析框架]]进一步分析**：在 code-to-theme 的[[Descriptive Analysis|描述性分析]]基础上，使用[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]或其他分析框架进行更深层次的分析。
+5. **发展[[Story Line|故事线]]解释** 将主题相互连接为故事线，呈现问题的发展编年史。故事线可以聚焦单一个体或群体，通常出现在期刊论文的讨论部分。
+6. **使用[[Analytic Framework|分析框架]]进一步分析** 在 code-to-theme 的[[Descriptive Analysis|描述性分析]]基础上，使用[[Narrative Research|叙事研究]]、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]或其他分析框架进行更深层次的分析。
 7. **呈现和解释数据** 通常以叙事段落传达分析发现，可以整合编年史、完整主题讨论（含子主题、具体说明、多重视角和引语）或主题间关系的讨论。质性研究者也常使用视觉模型、图表或表格辅助呈现。
 
 > [!example]- 图9.3：质性数据分析流程的步骤
@@ -168,9 +168,9 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 
 质性研究的分析路径可分为两个层次（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
-**[[Descriptive Methods|描述性方法]]**（Descriptive Methods）是基础性分析路径，研究者贴近数据本身，使用有限的框架和解释，将信息归类为主题。它基于参与者日常语言，追求抽样中的最大变异度。
+**[[Descriptive Methods|描述性方法]]（Descriptive Methods）**是基础性分析路径，研究者贴近数据本身，使用有限的框架和解释，将信息归类为主题。它基于参与者日常语言，追求抽样中的最大变异度。
 
-**[[Analytic Framework|分析框架]]**（Analytic Framework）在描述性方法的基础上叠加特定的解释传统。包括[[Narrative Research|叙事研究]]（重构参与者故事）、[[Phenomenology|现象学]]（分析意义单元和本质描述）、[[Grounded Theory|扎根理论]]（开放[[Coding in Qualitative Research|编码]]、轴心编码、选择性编码的系统步骤）、[[Ethnography|民族志]]和[[Case Study|案例研究]]（详细场所描述后分析主题）。
+**[[Analytic Framework|分析框架]]（Analytic Framework）**在描述性方法的基础上叠加特定的解释传统。包括[[Narrative Research|叙事研究]]（重构参与者故事）、[[Phenomenology|现象学]]（分析意义单元和本质描述）、[[Grounded Theory|扎根理论]]（开放[[Coding in Qualitative Research|编码]]、轴心编码、选择性编码的系统步骤）、[[Ethnography|民族志]]和[[Case Study|案例研究]]（详细场所描述后分析主题）。
 
 > [!example]- 图9.1：描述性方法与源于传统的分析方法
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_9-1_Descriptive_Methods_Analytic_Frameworks.jpg)

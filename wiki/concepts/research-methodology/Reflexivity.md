@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-06-24
+updated: 2026-07-08
 ---
 
 # Reflexivity
@@ -50,7 +50,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 反思性（Reflexivity）
-> 反思性是[[Qualitative Research|质性研究]]的核心特征之一：研究者反思自身在研究中的角色以及个人背景、文化和经验如何潜在地塑造其解释——包括他们提出的主题和赋予数据的意义。研究者明确地识别可能塑造研究解释的偏见、价值观和个人背景（如性别、历史、文化和社会经济地位）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。在诠释研究传统中，反思性有双重哲学根基，分别来自[[Phenomenology|现象学]]和[[Ethnomethodology|俗民方法学]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 反思性是[[Qualitative Research|质性研究]]的核心特征之一：研究者反思自身在研究中的角色以及个人背景、文化和经验如何潜在地塑造其解释——包括他们提出的主题和赋予数据的意义。研究者明确地识别可能塑造研究解释的偏见、价值观和个人背景（如性别、历史、文化和社会经济地位）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。在诠释研究传统中，反思性有双重哲学根基，分别来自[[Phenomenology|现象学]]和[[Ethnomethodology|俗民方法学]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 研究者将自身作为研究对象的一部分进行审视——承认自己不是中立的观察者，而是带着价值观、偏见和世界观参与意义建构的行动者。
@@ -79,14 +79,14 @@ updated: 2026-06-24
 ### 现象学根基：舒茨的回顾性赋予意义
 
 > [!info] 舒茨（[[Alfred Schutz]]）的反思性
-> 舒茨关注日常生活世界的意义结构。他在"意识流"（stream of consciousness）中寻找意义的起源——本质上是一股不间断的活经验之流（an unbroken stream of lived experiences），这些经验本身没有意义（which have no meaning in themselves）。人们只能通过反思性来回顾性地赋予意义——即回到自身并审视已经发生的事情。对舒茨而言，通过反思性赋予意义取决于人们识别他们所寻求的目的或目标（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 舒茨关注日常生活世界的意义结构。他在"意识流"（stream of consciousness）中寻找意义的起源——本质上是一股不间断的活经验之流（an unbroken stream of lived experiences），这些经验本身没有意义（which have no meaning in themselves）。人们只能通过反思性来回顾性地赋予意义——即回到自身并审视已经发生的事情。对舒茨而言，通过反思性赋予意义取决于人们识别他们所寻求的目的或目标（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 舒茨的反思性是时间性的——意义不是即时给定的，而是在事后回顾中建构的。研究者在解释田野笔记时，实际上正在对自己的经验进行反思性回顾。
 
 ### 俗民方法学根基：加芬克尔的相互依存
 
 > [!info] 加芬克尔（[[Harold Garfinkel]]）的反思性
-> 在[[Ethnomethodology|俗民方法学]]中，反思性指所有关于社会情境的说明（accounts of social settings——描述、分析、批评等）和产生这些说明的社会情境本身是相互依存的（mutually interdependent）。说明既是社会情境的产物，也构成该情境的一部分并在其中发挥作用（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 在[[Ethnomethodology|俗民方法学]]中，反思性指所有关于社会情境的说明（accounts of social settings——描述、分析、批评等）和产生这些说明的社会情境本身是相互依存的（mutually interdependent）。说明既是社会情境的产物，也构成该情境的一部分并在其中发挥作用（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 加芬克尔的反思性是构成性的——说明不是外在于情境的报告，而是情境本身的构成元素。例如教师在课堂上说"大家今天很安静"——这句话既是对课堂状态的描述，同时也改变了课堂状态。
 
@@ -106,14 +106,14 @@ updated: 2026-06-24
 在自然主义和[[Ethnography|民族志研究]]中，反身性不仅是研究者对自身角色的反思，更是对"客观现实"这一概念本身的质疑。
 
 > [!claim] 研究者不可消除，须置于审视之下
-> Hammersley & Atkinson（1983: 14）明确指出：研究者不可避免地是社会世界的一部分，而且这个世界本身已被行动者事先诠释，这瓦解了客观现实的根基。研究者"在世界之中且属于世界"，将自己的传记带入研究情境。质性探究不是中立的活动，研究者也不是中立的——他们有自己的价值观、偏见和世界观，这些是观察和诠释参与者已被诠释的世界的透镜（Preissle, 2006: 691）。反身性因此要求研究者承认并披露自我，而不是试图消除研究者效应——因为这是不可能的。Cooley（1902）的"镜中自我"概念被用于描述这一姿态：研究者应将自身置于审视之下。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 409–410)]]
+> Hammersley & Atkinson（1983: 14）明确指出：研究者不可避免地是社会世界的一部分，而且这个世界本身已被行动者事先诠释，这瓦解了客观现实的根基。研究者"在世界之中且属于世界"，将自己的传记带入研究情境。质性探究不是中立的活动，研究者也不是中立的——他们有自己的价值观、偏见和世界观，这些是观察和诠释参与者已被诠释的世界的透镜（Preissle, 2006: 691）。反身性因此要求研究者承认并披露自我，而不是试图消除研究者效应——因为这是不可能的。Cooley（1902）的"镜中自我"概念被用于描述这一姿态：研究者应将自身置于审视之下。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 409–410)]]
 
 > [!citation-card]- 研究者是卓越的研究工具
-> 研究者是卓越的研究工具。行为和态度通常在跨情境中不稳定，而研究者可能在塑造情境中发挥关键作用——这成为分析的核心。我们发展的用来解释所研究人群行为的理论，也应在相关时适用于我们自身作为研究者的活动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 409)]]
+> 研究者是卓越的研究工具。行为和态度通常在跨情境中不稳定，而研究者可能在塑造情境中发挥关键作用——这成为分析的核心。我们发展的用来解释所研究人群行为的理论，也应在相关时适用于我们自身作为研究者的活动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 409)]]
 >
 > *He or she [the researcher] is the research instrument par excellence. The fact that behaviour and attitudes are often not stable across contexts and that the researcher may play a part in shaping the context becomes central to the analysis... The theories we develop to explain the behaviour of the people we study should also, where relevant, be applied to our own activities as researchers. (Hammersley & Atkinson, 1983: 18–19)*
 
-McCormick & James（1988: 191）进一步论述了操作含义：高度的反身性要求研究者密切且持续地监控自己与参与者的互动、自身的反应、角色、偏见以及任何可能影响研究的其他因素。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 410)]]
+McCormick & James（1988: 191）进一步论述了操作含义：高度的反身性要求研究者密切且持续地监控自己与参与者的互动、自身的反应、角色、偏见以及任何可能影响研究的其他因素。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 410)]]
 
 ---
 
@@ -133,5 +133,5 @@ McCormick & James（1988: 191）进一步论述了操作含义：高度的反身
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将反身性定位为[[Qualitative Research|质性研究]]的核心特征之一，强调过去经验与研究之间的关联以及经验如何塑造解释。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 阐述反身性的双重哲学根基：舒茨的[[Phenomenology|现象学]]反思性（时间性、回顾性）和加芬克尔的[[Ethnomethodology|俗民方法学]]反思性（社会性、构成性）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011a, Ch. 1)]] — 阐述反身性的双重哲学根基：舒茨的[[Phenomenology|现象学]]反思性（时间性、回顾性）和加芬克尔的[[Ethnomethodology|俗民方法学]]反思性（社会性、构成性）。
 > - Cohen et al. — 在自然主义[[Ethnography|民族志]]的语境中展开反身性：Hammersley & Atkinson 的"研究者是卓越的研究工具"、Preissle 的中立性质疑、Cooley 的镜中自我、McCormick & James 的[[Operationalization|操作化]]监控，以及在[[Critical Ethnography|批判民族志]]中升级为政治行动主义。

@@ -48,7 +48,7 @@ Stevens（2019）在毒品政策研究中发现的原始形态。政策制定者
 
 > 核心特征：**被动回避** —— 决策者不想面对证据时，以道德话语绕开。
 
-Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来解释这一机制：代表社会优势群体的 corporate agency 通过规范性价值和结构主导政治景观；而 primary agency（利益分散、被排除在集体行动之外的群体）缺乏影响决策的能力。回避型侧步的整体效果是**保护既有利益和权力失衡**([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9–10]])。
+Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来解释这一机制：代表社会优势群体的 corporate agency 通过规范性价值和结构主导政治景观；而 primary agency（利益分散、被排除在集体行动之外的群体）缺乏影响决策的能力。回避型侧步的整体效果是**保护既有利益和权力失衡([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9–10]])**。
 
 ### 建构型道德侧步（Constructive Moral Sidestep）
 

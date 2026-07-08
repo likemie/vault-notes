@@ -6,7 +6,7 @@ aliases:
   - relativist ethics
   - 绝对主义伦理
   - 相对主义伦理
-summary: 研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则
+summary: "研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则"
 type: theory
 theory_field: "research-methodology"
 theory_related_count: 5

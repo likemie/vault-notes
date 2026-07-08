@@ -55,7 +55,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: '2026-06-20'
+updated: 2026-07-08
 ---
 
 # Heterogeneity
@@ -94,7 +94,7 @@ updated: '2026-06-20'
 > [!feature] 核心要素
 > - **异质性检测与量化** 通过 Q 检验判断研究间变异是否超出随机误差；通过 $I^2$ 统计量描述异质性占总观测变异的比例。此外，[[Forest Plot|森林图]]是直观展示变异性的重要可视化工具。
 > - **统计模型选择**[[Fixed-Effect and Random-Effects Models|固定效应模型]][[Hypothesis|假设]]所有研究估计同一个真实[[Effect Size|效应量]]，观测差异仅来自[[Sampling Error|抽样误差]]；随机效应模型则承认每项研究有其随机变异，同时考虑研究内和研究间变异([[Argument_Higgins_2016_RE|Higgins, 2016, p. 39]])。
-> - **调节[[Variable|变量]]探索**：通过调节[[Variable|变量]]分析（[[Moderator Analysis]]）识别与较大或较小效应相关的特征（如学生年龄、干预时长等），使研究从“有没有效”转向“对谁、在什么情境下有效”([[Argument_Higgins_2016_RE|Higgins, 2016, p. 32]])。
+> - **调节[[Variable|变量]]探索** 通过调节[[Variable|变量]]分析（[[Moderator Analysis]]）识别与较大或较小效应相关的特征（如学生年龄、干预时长等），使研究从“有没有效”转向“对谁、在什么情境下有效”([[Argument_Higgins_2016_RE|Higgins, 2016, p. 32]])。
 
 ---
 
@@ -129,7 +129,7 @@ updated: '2026-06-20'
 
 > [!dev-timeline] 概念演变
 > - **1904 — 起源阶段**[[Karl Pearson]] 在跨研究合并分析中首次同时关注“合并数据能否给出可靠答案”以及“效果变异（即异质性）的原因”这两个基本维度([[Argument_Higgins_2016_RE|Higgins, 2016, p. 33]])。
-> - **1970s–1980s — [[Meta-analysis|元分析]]倡导**：[[Gene Glass]] 创立“元分析”概念，并明确警告：元分析 the 最终结果“绝对不应该是一个平均数，而应该是一张显示变异性（异质性）的图表”([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
+> - **1970s–1980s — [[Meta-analysis|元分析]]倡导** [[Gene Glass]] 创立“元分析”概念，并明确警告：元分析 the 最终结果“绝对不应该是一个平均数，而应该是一张显示变异性（异质性）的图表”([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
 > - **1995 — 方法论解构与批评**医学统计学家 Alvan Feinstein (1995) 批评元分析是“21世纪的统计炼金术”，指出它将不同病理状态的研究强行合流，从而将重要的异质性埋入统计泥浆之中。
 > - **2002 — 教育研究的测量批评**Robert Coe (2002) 警告，在测量工具、干预实施强度和目标人群大相径庭 of 教育研究中，将这些[[Effect Size|效应量]]进行平均在数学上是完全没有意义的。
 > - **2010s — 多级聚合失真与实在论转向**Ray Pawson (2006) 和 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 解构了从第一级 [[Randomised Controlled Trials|RCT]] 到第二级元分析再到第三级[[Meta-meta-analysis|元-元分析]]（如[[John Hattie|哈蒂]]的《[[Visible Learning|可见的学习]]》（Visible Learning，VL） and [[Education Endowment Foundation|EEF]] 工具包）的逐级消洗过程，指出“洗涤”使得[[Causality|因果]]解释性信息完全消失，主张转向探求“背景-机制-结果”的实在论综合([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])。
@@ -140,11 +140,11 @@ updated: '2026-06-20'
 
 > [!tension] 核心争议
 > 围绕异质性处理的核心分歧在于：
-> - **[[Positivism|实证主义]]技术[[Paradigm|范式]]**：认为通过统计技术（如[[Moderator Analysis|调节变量分析]]或[[Fixed-Effect and Random-Effects Models|随机效应模型]]）足以在数字层面平差 and 修正异质性，以计算可供决策参考 of 平均效应。
-> - **[[Critical Realism|批判实在论]]与[[Realist Evaluation|实在论评估]]范式**：主张在开放系统中，异质性无法通过数学加权来解决。当合并的研究具有异质性时，计算平均效应是数学上的错误。必须转向对个案进行质性、深层的理论还原，寻找底层[[Causality|因果]]机制([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])。
+> - **[[Positivism|实证主义]]技术[[Paradigm|范式]]** 认为通过统计技术（如[[Moderator Analysis|调节变量分析]]或[[Fixed-Effect and Random-Effects Models|随机效应模型]]）足以在数字层面平差 and 修正异质性，以计算可供决策参考 of 平均效应。
+> - **[[Critical Realism|批判实在论]]与[[Realist Evaluation|实在论评估]]范式** 主张在开放系统中，异质性无法通过数学加权来解决。当合并的研究具有异质性时，计算平均效应是数学上的错误。必须转向对个案进行质性、深层的理论还原，寻找底层[[Causality|因果]]机制([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])。
 
 > [!warning] 方法论批评与适用局限
-> - **测量学系统偏误（Simpson 2017）**：[[Argument_Simpson_2017_JEP|Simpson (2017)]] 进一步指出，在 [[Education Endowment Foundation|EEF]] 工具包等平台中，所谓的异质性变异并不一定反映了实际教育成效的多样性，而往往是由测量学的系统性偏差所致，包括对照组效应、范围限制（标准差分母收窄）以及测试设计偏误([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])。
+> - **测量学系统偏误（Simpson 2017）** [[Argument_Simpson_2017_JEP|Simpson (2017)]] 进一步指出，在 [[Education Endowment Foundation|EEF]] 工具包等平台中，所谓的异质性变异并不一定反映了实际教育成效的多样性，而往往是由测量学的系统性偏差所致，包括对照组效应、范围限制（标准差分母收窄）以及测试设计偏误([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])。
 
 ---
 

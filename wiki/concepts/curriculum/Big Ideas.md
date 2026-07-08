@@ -3,7 +3,7 @@ title: Big Ideas
 aliases:
   - 大概念
   - big ideas
-summary: 课程设计中的核心概念或主题，用于组织学科知识并促进学生对学科本质的理解，在 UbD 框架和新西兰课程改革中被广泛使用
+summary: "课程设计中的核心概念或主题，用于组织学科知识并促进学生对学科本质的理解，在 UbD 框架和新西兰课程改革中被广泛使用"
 type: concept
 domain: "curriculum"
 related_count: 5

@@ -68,7 +68,7 @@ updated: 2026-06-19
 > - **前提一：认知评估中介** 情绪过程起源于对事件的心理表征和分类（[[Coding in Qualitative Research|编码]]），即评估“这对我意味着什么”。([[Argument_Li_2012_Cambridge|Li, 2012, p. 54]])
 > - **前提二：生理与行动倾向的关联** 评估结果直接触发相应的生理反应模式（如脸红、心跳加速）以及从行为库中选择下一步行动的准备状态。
 > - **机制：文化全面调节** 文化并非只在最后的“表达调节”起作用，而是深入参与情绪生成的每一个环节（从前因事件的选择、事件编码、意义评估，到生理反应模式、行动准备、情绪行为和最终调节）。([[Argument_Li_2012_Cambridge|Li, 2012, p. 55–56]])
-> - **结果判断：情绪体验的跨文化[[Heterogeneity|异质性]]**：由于不同文化拥有不同的[[Cultural Models|文化模型]]，各文化群体在情绪的激活频率、行动倾向选择和调节模式上存在系统性差异。([[Argument_Li_2012_Cambridge|Li, 2012, p. 55]])
+> - **结果判断：情绪体验的跨文化[[Heterogeneity|异质性]]** 由于不同文化拥有不同的[[Cultural Models|文化模型]]，各文化群体在情绪的激活频率、行动倾向选择和调节模式上存在系统性差异。([[Argument_Li_2012_Cambridge|Li, 2012, p. 55]])
 
 > [!mechanism-map]- 情绪生成与文化调节机制图
 > ```mermaid
@@ -101,15 +101,15 @@ updated: 2026-06-19
 
 > [!theory-components] 理论构件
 > - **评估 (Appraisal)** 理论的核心构件，指个体对事件之于自我的意义 and 重要性所做的认知评价过程。([[Argument_Li_2012_Cambridge|Li, 2012, p. 54]])
-> - **事件[[Coding in Qualitative Research|编码]] (Event Coding)**：将前因事件按文化所认可的类别进行归类的心理表征过程。
-> - **[[Cultural Models|文化模型]]**：提供评估标准和分类图式，规范个体在各阶段的情绪反应和行为选择。([[Argument_Li_2012_Cambridge|Li, 2012, p. 55]])
+> - **事件[[Coding in Qualitative Research|编码]] (Event Coding)** 将前因事件按文化所认可的类别进行归类的心理表征过程。
+> - **[[Cultural Models|文化模型]]** 提供评估标准和分类图式，规范个体在各阶段的情绪反应和行为选择。([[Argument_Li_2012_Cambridge|Li, 2012, p. 55]])
 
 ---
 
 ## 认识论与方法含义
 
 > [!theory-stance] [[Epistemology|认识论]]与方法含义
-> - **[[Ontology|本体论]]**：情绪不是生理实体，而是以主客体交互的认知关系为前提的心理-社会建构。
+> - **[[Ontology|本体论]]** 情绪不是生理实体，而是以主客体交互的认知关系为前提的心理-社会建构。
 > - **认识论** 反对情绪是外部刺激的直接反射（行为主义观），主张通过主观认知评估的逻辑来解释情绪的多样性。
 > - **方法含义** 要求在研究情绪时，不能仅测量生理指标，必须结合[[Coding in Qualitative Research|质性编码]]、访谈或情境实验来测量个体的评估维度和文化图式。
 > - **不能直接推出的东西** 不能由相同的外部物理刺激直接推导或预测个体的最终情绪体验，必须引入其中介评估和文化背景。
@@ -138,7 +138,7 @@ updated: 2026-06-19
 > [!dev-timeline] 发展脉络
 > - **1986 — Frijda (The Emotions)** 提出认知评估在情绪生成中的核心地位。
 > - **1992 — Mesquita & Frijda (Psychological Bulletin)** 将文化维度全面引入情绪的七个生成阶段，建立文化情绪心理学[[Analytic Framework|分析框架]]。
-> - **2012 — 教育研究应用 ([[Argument_Li_2012_Cambridge|Li, 2012]])**：Li 将该理论引入对中西家庭母子互动和[[Parental Cognitive and Affective Socialization|情感社会化]]的对比分析中。
+> - **2012 — 教育研究应用 ([[Argument_Li_2012_Cambridge|Li, 2012]])** Li 将该理论引入对中西家庭母子互动和[[Parental Cognitive and Affective Socialization|情感社会化]]的对比分析中。
 
 ---
 

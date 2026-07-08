@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-18
+updated: 2026-07-08
 ---
 
 # Causality
@@ -58,7 +58,7 @@ updated: 2026-06-18
 ## 定义
 
 > [!def] 核心定义
-> 因果性（causality）指原因导致效果的关系。在[[Quantitative Research|量化研究]]中，因果性不仅意味着[[Variable|变量]]间的关联，还要求同时满足三个要件：变量间存在关系的证据；原因在时间上先于结果；排除合理的替代解释（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]]）。在更广泛的教育研究语境中，因果性通常不可直接观察而只能推断——社会科学中几乎不可能发现绝对确定的因果性。因果性应当被区分为两种刻画方式：**决定论因果性（deterministic causation）**——X 必然导致 Y；**[[Probabilistic Causation|概率因果性]]**（probabilistic causation）——X 提高 Y 发生的可能性而非保证 Y 发生。教育研究中更恰切的是后者（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 54, 58–59]]）。
+> 因果性（causality）指原因导致效果的关系。在[[Quantitative Research|量化研究]]中，因果性不仅意味着[[Variable|变量]]间的关联，还要求同时满足三个要件：变量间存在关系的证据；原因在时间上先于结果；排除合理的替代解释（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]]）。在更广泛的教育研究语境中，因果性通常不可直接观察而只能推断——社会科学中几乎不可能发现绝对确定的因果性。因果性应当被区分为两种刻画方式：**决定论因果性（deterministic causation）**——X 必然导致 Y；**[[Probabilistic Causation|概率因果性]]（probabilistic causation）**——X 提高 Y 发生的可能性而非保证 Y 发生。教育研究中更恰切的是后者（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 54, 58–59]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 因果性是变量、事件或过程之间"引起-被引起"的关系，涉及原因如何产生效果以及效果由什么原因导致。
@@ -121,7 +121,7 @@ updated: 2026-06-18
 
 ### 反事实推理
 
-区分因果是否发生的一个关键指标是**[[Counterfactual|反事实]]**（counterfactuals）：如果 X（[[Hypothesis|假设]]的原因）不存在，那么 Y（效果）也不会发生（Mackie, 1993）。反事实推理追问："如果那个假设的原因不存在，效果还会发生或还是原来那样吗？"如果答案是"否"，则 X 是真正的原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 55–56]]）。
+区分因果是否发生的一个关键指标是**[[Counterfactual|反事实]]（counterfactuals）** 如果 X（[[Hypothesis|假设]]的原因）不存在，那么 Y（效果）也不会发生（Mackie, 1993）。反事实推理追问："如果那个假设的原因不存在，效果还会发生或还是原来那样吗？"如果答案是"否"，则 X 是真正的原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 55–56]]）。
 
 在真实验中，反事实问题通过**控制组**来回答——控制组被假定为表明如果干预未发生会发生什么。但大量教育研究并非实验性的，反事实推理因此依赖更不确定的假设和统计建模。Holland（1986: 947）提出了"[[Fundamental Problem of Causal Inference|因果推断的基本问题]]"——同一个人不能同时处于接受和未接受处理的状态——这一问题即使在[[Random Assignment|随机化]]实验中也无法完全解决（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
 
@@ -129,13 +129,13 @@ updated: 2026-06-18
 
 ### 必要条件、充分条件与复合原因
 
-原因的效果依赖于**条件组合** 是[[Necessary and Sufficient Conditions|必要条件]]与充分条件的特定组合产生了效果，而非单个原因。原因可能需要组合在一起才能发挥因果力——**[[Compound Causes|复合原因]]**（compound causes）只有在共同作用时才施加因果力，且原因之间可能存在**交互效应（interaction effects）**。单个原因在语境化情境中可能既不充分也不必要（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
+原因的效果依赖于**条件组合** 是[[Necessary and Sufficient Conditions|必要条件]]与充分条件的特定组合产生了效果，而非单个原因。原因可能需要组合在一起才能发挥因果力——**[[Compound Causes|复合原因]]（compound causes）**只有在共同作用时才施加因果力，且原因之间可能存在**交互效应（interaction effects）**。单个原因在语境化情境中可能既不充分也不必要（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
 
 ---
 
 ### 混淆变量与筛选隔离
 
-评估因果主张时的一个重要考量是未测量的第三变量是否导致了结果。更系统的分析框架是 Reichenbach（1956）和 Salmon（1998）提出的**[[Screening Off|筛选隔离]]**（screening off）：当两个变量被一个共同原因所驱动时，二者之间只有相关关系而无因果关系。在因果分析中，应通过**偏相关**和**结构方程模型**等技术筛掉无关变量，确保一个变量不被误认为对另一个变量有因果影响（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 59–60]]；[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]]）。
+评估因果主张时的一个重要考量是未测量的第三变量是否导致了结果。更系统的分析框架是 Reichenbach（1956）和 Salmon（1998）提出的**[[Screening Off|筛选隔离]]（screening off）** 当两个变量被一个共同原因所驱动时，二者之间只有相关关系而无因果关系。在因果分析中，应通过**偏相关**和**结构方程模型**等技术筛掉无关变量，确保一个变量不被误认为对另一个变量有因果影响（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 59–60]]；[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]]）。
 
 > [!warning]
 > 如果研究目标是检验两个或多个变量之间的因果主张，最佳选择是进行真实验（[[Experimental Research|true experiment]]），因为这能对潜在的未测量变量提供更强的控制（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.57]]）。

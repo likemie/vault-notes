@@ -62,9 +62,9 @@ updated: '2026-05-23'
 >
 > | 等级 | 英文 | 研究方法要求 | 最低研究数量 |
 > |------|------|------------|------------|
-> | **强** | Strong | 设计良好且实施良好的**[[Experimental Research\|实验研究]]**（随机分配，randomized design） | 至少 1 项 |
-> | **中** | Moderate | 设计良好且实施良好的**准实验研究**（[[Matching\|匹配]]样本，matched or [[Quasi-Experimental Designs\|quasi-experimental design]]） | 至少 1 项 |
-> | **有希望** | Promising | 设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差，correlational design with statistical controls for selection bias） | 至少 1 项 |
+> | **强** | Strong | 设计良好且实施良好的**[[Experimental Research\|实验研究]]（随机分配，randomized design）** | 至少 1 项 |
+> | **中** | Moderate | 设计良好且实施良好的**准实验研究（[[Matching\|匹配]]样本，matched or [[Quasi-Experimental Designs\|quasi-experimental design]]）** | 至少 1 项 |
+> | **有希望** | Promising | 设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]（统计控制选择偏差，correlational design with statistical controls for selection bias）** | 至少 1 项 |
 >
 > 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**。
 
@@ -76,7 +76,7 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > Evidence for ESSA (2019) 和 [[What Works Clearinghouse]] (2019) 对 ESSA 标准的[[Operationalization|操作化]]解释：
 >
 > - **测量工具** 必须独立于项目开发者或研究者
-> - **[[Sample Size Determination|样本量]]和持续时间**：需要足够的样本量和研究持续时间（Evidence for ESSA 要求最少 12 周）
+> - **[[Sample Size Determination|样本量]]和持续时间** 需要足够的样本量和研究持续时间（Evidence for ESSA 要求最少 12 周）
 > - **聚类分析** 对学校或班级层面的干预，必须在聚类层面进行统计分析（如 HLM，Raudenbush & Bryk, 2002）——通常需要 40–50 所学校
 > - **前测匹配** 准实验和[[Observational and Correlational Research|相关性研究]]要求在成就和人口统计[[Variable|变量]]上前测匹配
 

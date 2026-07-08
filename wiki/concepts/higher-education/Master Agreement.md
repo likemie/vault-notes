@@ -28,7 +28,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
 confidence: medium
@@ -92,7 +92,7 @@ updated: 2026-05-28
 > - vs 单项目合同（Project-Specific Contract）— 单项目合同为特定研究项目定制，包含该项目的所有条款；主协议是框架性的，覆盖所有合作共用的基础条款。两者的关系是"宪法 vs 法律"
 > - vs 捐赠协议（Gift Agreement）— 捐赠协议用于无直接交付物、无 IP 回报的企业资助，法律复杂度低；主协议用于预期产生研究成果和 IP 的合作，条款全面得多
 > - vs 保密协议（Non-Disclosure Agreement, NDA）— NDA 只覆盖信息保密这一维度，主协议覆盖合作关系的全部法律维度。在实际操作中，NDA 往往在主协议谈判之前单独签署，为主协议谈判期间的敏感信息提供保护
-> - vs 联合体协议（Consortium Agreement）— 联合体协议是主协议在多边情境下的特殊形式，区别在于需要处理多家企业成员的权利平等性、投票机制和新成员加入程序。本章讨论的 [[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的联合体协议就是一个多边主协议的实例
+> - vs 联合体协议（Consortium Agreement）— 联合体协议是主协议在多边情境下的特殊形式，区别在于需要处理多家企业成员的权利平等性、投票机制和新成员加入程序。本章讨论的 [[Advanced Manufacturing Research Centre|AMRC]] 的联合体协议就是一个多边主协议的实例
 
 ---
 
@@ -101,7 +101,7 @@ updated: 2026-05-28
 > [!success]
 > 企业在评估大学合作效率时，签约速度往往是首要关注点之一。Hoffman et al.指出，"在产业调查中，一项针对各种研究合同的漫长谈判和大学审批过程"持续被列为[[University-Industry Collaboration|产学合作]]的最大摩擦点（p.107）。
 
-[[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 的经验验证了主协议的价值。联合体在 2001 年启动时就建立了完整的联合体协议，涵盖了两层会员制、双委员会治理和两层 IP 模型。在此之后二十余年中，新成员加入和新项目启动都直接调用现有框架，无需重新谈判基础条款。这一制度设计是 AMRC 能从 1 家创始成员扩展到 120+ 家产业成员的法律基础——每增加一个成员或项目，增加的是边际执行成本而非边际谈判成本（pp.114–117）。
+[[Advanced Manufacturing Research Centre|AMRC]] 的经验验证了主协议的价值。联合体在 2001 年启动时就建立了完整的联合体协议，涵盖了两层会员制、双委员会治理和两层 IP 模型。在此之后二十余年中，新成员加入和新项目启动都直接调用现有框架，无需重新谈判基础条款。这一制度设计是 AMRC 能从 1 家创始成员扩展到 120+ 家产业成员的法律基础——每增加一个成员或项目，增加的是边际执行成本而非边际谈判成本（pp.114–117）。
 
 ---
 

@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-07-08
 ---
 
 ## 定义
@@ -66,6 +66,6 @@ updated: '2026-05-18'
 > - **排他性与不平等** 超人类主义声称普世但在技术实践中暴露选择性。其后果将是教育供给和获取的清晰分层——高端全球教育科技产业设定标准和节奏([[Argument_Amos_2022_Springer|Amos, 2022, p.59]])
 > - **物种主义偏见** 超人类主义以人类为中心，具有 speciesist bias
 > - **"谁是完整的人"的问题** 超人类主义项目的核心问题是：谁被视为完全的人、因而可以被纳入优化和完善的对象范围？
-> - **与[[Posthumanism|后人类主义]]的对抗**：后人类主义者如 Haraway 和 Escobar 对分层和社会区隔的崇拜没有兴趣，超人类主义者在不平等中繁荣，后人类主义者在共同体关爱中寻求出路([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])
+> - **与[[Posthumanism|后人类主义]]的对抗** 后人类主义者如 Haraway 和 Escobar 对分层和社会区隔的崇拜没有兴趣，超人类主义者在不平等中繁荣，后人类主义者在共同体关爱中寻求出路([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])
 >
 

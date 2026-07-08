@@ -4,7 +4,9 @@ authors:
   - "Patera, A."
 summary: "从产学关系实践者角度，提出通过连接、探索发现与关系建设三步构建战略性产学伙伴关系的框架，强调大学企业参与专员的中介角色"
 type: argument
-citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, and Building Partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 73–83). Springer."
+citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, and Building Partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 73–83). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags: ["theme/university-industry-collaboration", "theme/partnership", "theme/corporate-engagement"]
 related_concepts:
   - "[[Research Question]]"
@@ -120,7 +122,7 @@ citation_aliases:
    - **公司校友群体** 将同一公司的校友员工组织成一个集体，共同关注公司利益，同时集体为母校的价值主张发声。
    - **校友创业者对接** 识别正在创业的校友，将其与研究方向互补的教师匹配，可能催生联合创业、衍生企业或赞助研究。
    - **创业展示与黑客马拉松** 邀请校友参与学生和教师的创新竞赛，在评审过程中自然发现投资或合作机会。
-   - **[[Executive Education|高管教育]]项目**：利用校友专长开发面向特定行业的高管培训课程，校友成为课程的共同设计者和授课者。
+   - **[[Executive Education|高管教育]]项目** 利用校友专长开发面向特定行业的高管培训课程，校友成为课程的共同设计者和授课者。
 
 7. 政府贸易代表团是另一个被低估的连接渠道。以普林斯顿大学参与新泽西州州长贸易代表团为例，自 2018 年以来参与了赴印度、以色列、爱尔兰、英国和东亚（日本、韩国、台湾）的贸易访问。尽管贸易代表团投入的时间成本很高，但带来了五重收益(p.76)：
    - 提升州政府对大学研究专长的认知，使州政府在制定经济政策时将大学纳入考量；

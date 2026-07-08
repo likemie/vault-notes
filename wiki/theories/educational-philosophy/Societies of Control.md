@@ -58,7 +58,7 @@ updated: 2026-06-02
 
 Deleuze 用**模具（mold）**和**调制（modulation）**的隐喻来区分两种权力运作方式(Deleuze, 1992, p.4; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.222]])：
 
-- **[[Disciplina and Doctrina|规训]]社会 = 模具**：每一次进入一个机构（学校→工厂→军营）都是一次成型——你被塑造成特定的形态，然后在毕业或退役时被释放
+- **[[Disciplina and Doctrina|规训]]社会 = 模具** 每一次进入一个机构（学校→工厂→军营）都是一次成型——你被塑造成特定的形态，然后在毕业或退役时被释放
 - **控制社会 = 调制** 像一种永远在变化的铸模，参数持续调整——你从未被释放，只是从一个调制进入另一个调制
 
 > [!example]

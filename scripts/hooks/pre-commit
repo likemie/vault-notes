@@ -1,0 +1,27 @@
+#!/bin/sh
+# Vault pre-commit hook: refresh base indexes and block commits with lint errors.
+# Install (once):  cp scripts/hooks/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+set -e
+cd "$(git rev-parse --show-toplevel)"
+
+PY=".venv/bin/python3"
+[ -x "$PY" ] || PY="python3"
+
+echo "[pre-commit] vault_index.py (base index)..."
+"$PY" scripts/vault_index.py >/dev/null
+
+# Re-stage generated surfaces so the commit stays consistent.
+git add wiki/index.json wiki/index.md \
+    wiki/concepts/index.md wiki/theories/index.md wiki/methods/index.md \
+    wiki/instruments/index.md wiki/persons/index.md wiki/facts/index.md \
+    wiki/arguments/index.md citation/citation_full.json citation/citation_ambiguous.json 2>/dev/null || true
+
+echo "[pre-commit] vault_lint.py (incremental)..."
+if ! "$PY" scripts/vault_lint.py --quiet; then
+    echo ""
+    echo "[pre-commit] lint errors found - commit blocked."
+    echo "[pre-commit] fix mechanical issues with: $PY scripts/vault_lint.py --fix"
+    echo "[pre-commit] bypass once with: git commit --no-verify"
+    exit 1
+fi
+echo "[pre-commit] ok"

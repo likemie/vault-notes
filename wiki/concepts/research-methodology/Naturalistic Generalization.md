@@ -42,7 +42,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 自然主义概括（naturalistic generalization）是 Stake（1995）在[[Case Study|案例研究]]方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。在更广泛的[[Qualitative Research|质性研究]]方法论中，自然主义概括指一种不由研究者通过统计抽样完成、而由**读者**通过将案例的[[Rich and Thick Description|厚描述]]与自身情境进行对照来完成的认知推广过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 444–446)]]
+> 自然主义概括（naturalistic generalization）是 Stake（1995）在[[Case Study|案例研究]]方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。在更广泛的[[Qualitative Research|质性研究]]方法论中，自然主义概括指一种不由研究者通过统计抽样完成、而由**读者**通过将案例的[[Rich and Thick Description|厚描述]]与自身情境进行对照来完成的认知推广过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 444–446)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种读者驱动的概括形式：研究者提供充分的厚描述，读者自行判断研究发现与自身情境的相似性和可迁移性。
@@ -62,7 +62,7 @@ updated: 2026-06-24
 
 ## 概括性在质性研究中的三种形式
 
-Larsson（2009）进一步系统化了[[Qualitative Research|质性研究]]的概括性推理，提出三种形式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 444–446）：
+Larsson（2009）进一步系统化了[[Qualitative Research|质性研究]]的概括性推理，提出三种形式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011b]], pp. 444–446）：
 
 > [!dimension] Larsson（2009）的三种质性概括性推理
 > - **最大化变异以增强概括潜力**
@@ -78,7 +78,7 @@ Larsson（2009: 36）最终论证：质性研究概括化的**责任在于读者
 
 ## 概括性的操作标准：可比较性与可翻译性
 
-LeCompte & Preissle（1993: 47）将[[Ethnography|民族志]]的概括性重释为两个操作标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 406–407）：
+LeCompte & Preissle（1993: 47）将[[Ethnography|民族志]]的概括性重释为两个操作标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011b]], pp. 406–407）：
 
 > [!term] 可比较性（Comparability）与可翻译性（Translatability）
 > **可比较性**——所研究群体特征需充分明确描述，以便读者与其他群体比较。**可翻译性**——分析范畴和研究群体特征需明确化，以便跨群体和学科的有意义比较。
@@ -100,4 +100,4 @@ LeCompte & Preissle（1993: 47）将[[Ethnography|民族志]]的概括性重释�
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 系统阐述[[Qualitative Research|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体[[Descriptive Research Question|描述性研究]]需要概括性价值的论述。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 系统阐述[[Qualitative Research|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体[[Descriptive Research Question|描述性研究]]需要概括性价值的论述。

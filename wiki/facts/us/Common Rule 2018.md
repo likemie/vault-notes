@@ -53,8 +53,8 @@ updated: 2026-06-04
 > [!abstract]
 > Common Rule 的核心要求包括两个相互关联的机制（p.265）：
 
-> 1. **[[Institutional Review Board|机构审查委员会]]（[[Institutional Review Board|IRB]]）审批**：所有涉及人类受试者的研究方案必须在研究开始前获得所在机构的 IRB 审查和批准。IRB [[Evaluation Research|评估研究]]参与者的风险水平，决定审批、要求修改或拒绝方案
-> 2. **[[Informed Consent|知情同意]]（Informed Consent）**：研究者必须获得每位研究受试者的知情同意，确保参与者了解[[Research Purpose|研究目的]]、程序、风险和权利
+> 1. **[[Institutional Review Board|机构审查委员会]]（[[Institutional Review Board|IRB]]）审批** 所有涉及人类受试者的研究方案必须在研究开始前获得所在机构的 IRB 审查和批准。IRB [[Evaluation Research|评估研究]]参与者的风险水平，决定审批、要求修改或拒绝方案
+> 2. **[[Informed Consent|知情同意]]（Informed Consent）** 研究者必须获得每位研究受试者的知情同意，确保参与者了解[[Research Purpose|研究目的]]、程序、风险和权利
 
 > [!quote]
 > Common Rule 将"研究"（research）定义为"旨在发展或贡献可推广知识（generalizable knowledge）的系统性调查，包括研究开发、测试和评估"（OHRP, 2018, cited in [[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, p.265]]）。

@@ -51,5 +51,5 @@ updated: 2026-05-29
 > - 通过与社区领袖合作，解决区域性问题，包括留住顶尖 STEM 人才和增加本地机构资本基础
 
 > [!example]
-> **[[First Look SoCal]] 展示会**：联盟过去七年每年举办的前沿科技和生命科学衍生企业展示会，来自南加州顶尖研究机构（UCLA、USC、Caltech、UCSD 等十余所）的 24 家初创企业向投资者和企业领袖进行路演。几乎所有入选企业都已获得某种形式的[[Non-dilutive Funding|非稀释性资助]]，并拥有通过[[Technology Transfer|技术转移]]办公室保护的知识产权（pp.144-145）。
+> **[[First Look SoCal]] 展示会** 联盟过去七年每年举办的前沿科技和生命科学衍生企业展示会，来自南加州顶尖研究机构（UCLA、USC、Caltech、UCSD 等十余所）的 24 家初创企业向投资者和企业领袖进行路演。几乎所有入选企业都已获得某种形式的[[Non-dilutive Funding|非稀释性资助]]，并拥有通过[[Technology Transfer|技术转移]]办公室保护的知识产权（pp.144-145）。
 

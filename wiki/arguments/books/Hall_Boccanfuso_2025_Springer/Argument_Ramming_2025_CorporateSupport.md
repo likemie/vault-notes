@@ -15,7 +15,9 @@ argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
-citation: "Ramming, C. (2025). Gaining Support Within Companies for Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 217-239). Springer."
+citation: "Ramming, C. (2025). Gaining Support Within Companies for Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 217-239). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
@@ -389,7 +391,7 @@ citation_aliases:
    - **SRC（Semiconductor Research Corporation）** 一个长期存在的行业 PPP，多家半导体公司（包括直接竞争对手）共同资助前竞争阶段的大学研究并支持人才发展，展示了"竞争者在研究层面合作"的制度化可能
    - **制造端的独立演化** Intel 的制造部门继续推进工艺技术的尺寸缩放，SRC 是这一轨道的核心工具
    - **2020 年代的新格局** 随着尺寸缩放逼近渐近极限(Kim, 2024)，fabless 公司（如 Nvidia）通过架构差异化在 AI 等关键应用中获得巨大竞争优势，其市值相对于制造商（Intel、TSMC）持续增长
-   - **[[CHIPS and Science Act|CHIPS 与科学法案]](2022)**：计算能力日益成为国家安全资产，促使两党立法投入数百亿美元重振美国半导体产业。NSTC（国家半导体技术中心）的建立代表了 UPCRC 所开创的"企业+大学+政府"三方合作模式的制度化升级——从一次性项目变为持久制度安排
+   - **[[CHIPS and Science Act|CHIPS 与科学法案]](2022)** 计算能力日益成为国家安全资产，促使两党立法投入数百亿美元重振美国半导体产业。NSTC（国家半导体技术中心）的建立代表了 UPCRC 所开创的"企业+大学+政府"三方合作模式的制度化升级——从一次性项目变为持久制度安排
 
    对半导体 和 计算行业的 AET 实践者而言，NSTC 是一个"强制函数"（forcing function）：它迫使每个公司重新审视自己的大学合作策略，在 NSTC 和 SRC 这两个大型 PPP 框架下，大学合作需要重新定位(p.236)。
 

@@ -15,7 +15,9 @@ argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
-citation: 'Jornitz, S., & Klinge, D. (2022). "Bildung" as a Forgotten Aspect of Algorithmic Technologies. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 231–249). Springer.'
+citation: 'Jornitz, S., & Klinge, D. (2022). "Bildung" as a Forgotten Aspect of Algorithmic Technologies. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 231–249). Cham: Springer.'
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - bildung
   - algorithmic-governance
@@ -70,9 +72,9 @@ citation_aliases:
 > [!abstract]
 > 分析从三个理论资源出发，三者层层递进：
 
-- **[[Bildung]] 传统**：以 Humboldt(1793)的经典定义——个体与世界之间"最独立的交互作用"——为出发点。Bildung 不是一个"学习结果"，而是一个开放的人格形成过程：它要求时间、反思和容纳歧义的空间。结合 Nordenbo(2002)强调的"主动内核"——Bildung 不能被外部灌输，只能由主体主动参与自身的形成——以及 Masschelein & Ricken(2010)的三维度拆解（自我关系、他者关系、世界关系），Bildung 提供了一个评判算法技术之教育后果的规范性标准(pp.237–239, 246)。
+- **[[Bildung]] 传统** 以 Humboldt(1793)的经典定义——个体与世界之间"最独立的交互作用"——为出发点。Bildung 不是一个"学习结果"，而是一个开放的人格形成过程：它要求时间、反思和容纳歧义的空间。结合 Nordenbo(2002)强调的"主动内核"——Bildung 不能被外部灌输，只能由主体主动参与自身的形成——以及 Masschelein & Ricken(2010)的三维度拆解（自我关系、他者关系、世界关系），Bildung 提供了一个评判算法技术之教育后果的规范性标准(pp.237–239, 246)。
 
-- **Gruschka 的[[Didaktik|教学理论]]**：将教学行动理解为 [[Bildung]]、Erziehung（教育／教养）和 [[Didaktik]]（教学法）三者交织的"整合性星座"。Bildung 是教学的理由和目标——"处理所有从课程内容中[[Emergence|涌现]]的理解问题"(Gruschka, 2019, p.675)；Erziehung 帮助学生在 Bildung 的方向上定向；Didaktik 是教师对"哪部分知识在什么时间点、以什么数量被呈现"的安排(Gruschka, 2019, p.676)。三者不可分割——当数字工具接管了 Didaktik 和反馈的决策权，Bildung 的目标也就随之被重新定义(pp.238–239)。
+- **Gruschka 的[[Didaktik|教学理论]]** 将教学行动理解为 [[Bildung]]、Erziehung（教育／教养）和 [[Didaktik]]（教学法）三者交织的"整合性星座"。Bildung 是教学的理由和目标——"处理所有从课程内容中[[Emergence|涌现]]的理解问题"(Gruschka, 2019, p.675)；Erziehung 帮助学生在 Bildung 的方向上定向；Didaktik 是教师对"哪部分知识在什么时间点、以什么数量被呈现"的安排(Gruschka, 2019, p.676)。三者不可分割——当数字工具接管了 Didaktik 和反馈的决策权，Bildung 的目标也就随之被重新定义(pp.238–239)。
 
 - **算法意义建构分析** 从信息论（Wiener, Kübler）、算法研究（Stalder, Berry）和界面设计（GUI/API 双层结构）出发，拆解算法系统如何通过数字化、量化和可视化这三个相互衔接的步骤来建构"知识"——以及这种建构与教育学意义上的知识建构为何截然对立(pp.232–236)。
 
@@ -107,7 +109,7 @@ citation_aliases:
 
 算法意义建构的第二个步骤是量化。人类要对数字技术变得"可检测"，就必须通过刺激-反应关系和行为数据——那些不可观察的维度（思维、体验、感受）必须被（暂时）忽略或转化为可追踪的维度(p.233)。
 
-量化作为一种"社会技术"有悠久的传统——它"推动准确性的价值向前"并"增强对行为及其产物的[[Reliability|可靠性]]、客观性和安全性的信心"(Hörning, 2001, p.126)。但 Heintz（2010, p.169）指出了一个关键事实：可比较性并非内在于对象之中，而是诸多决策和标准化努力的**产物**。在教育学领域，这一逻辑尤为危险——因为量化、比较和测量的实践**同时生产和改变了被测量的对象**(Manhart, 2016)。
+量化作为一种"社会技术"有悠久的传统——它"推动准确性的价值向前"并"增强对行为及其产物的[[Reliability|可靠性]]、客观性和安全性的信心"(Hörning, 2001, p.126)。但 Heintz（2010, p.169）指出了一个关键事实：可比较性并非内在于对象之中，而是诸多决策和标准化努力的**产物**。在教育学领域，这一逻辑尤为危险——因为量化、比较和测量的实践**同时生产和改变了被测量的对象(Manhart, 2016)**。
 
 > 例：学校分数从来不是"客观"的。一个学生得了"B"，这个 B 在多大程度上反映她的数学能力、在多大程度上反映她当天的身体状态、在多大程度上反映教师对"好答案"的期待、在多大程度上反映她与同班同学的相对位置——这些都无法从"B"这个符号本身读出。但分数一旦被录入数字系统，它就变成了一个可以进行计算、排名、预测的"数据点"——原来的复杂性被压平了。算法系统不仅"记录"了 B，它还重新定义了 B 在教育过程中的意义：它变成了一个可以兑换成金币、星星或百分比的"货币"。
 
@@ -241,7 +243,7 @@ Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批�
 
 **Bildung 的规范立场未经充分辩护** 论证预设了 Bildung 是"好的"——但在讨论全球教育治理时，Bildung 是一个特定于欧洲（主要是德国）的规范性概念，其普遍适用性存疑。对于缺乏 Bildung 传统的教育体系，这一批判的规范性基础需要更多的论证。
 
-**[[Gamification]] 的简化理解**：讨论侧重 Gamification 的行为主义根源（操作条件反射），但未充分处理当代 Gamification 设计中可能存在的更复杂动机理论（如自我决定理论 SDT）——这些理论同样关注内在动机和自主性，与纯粹的 Skinner 式行为调节有质的区别。
+**[[Gamification]] 的简化理解** 讨论侧重 Gamification 的行为主义根源（操作条件反射），但未充分处理当代 Gamification 设计中可能存在的更复杂动机理论（如自我决定理论 SDT）——这些理论同样关注内在动机和自主性，与纯粹的 Skinner 式行为调节有质的区别。
 
 **教师角色的理想化** 论证暗示教师天然地提供比算法更好的反馈——但现实中，教师反馈本身也可能缺乏反思空间（如标准化考试中的分数反馈），将教师角色设置为比较的基准而未对教师实践本身进行批判性审视。
 

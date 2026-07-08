@@ -75,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-06-24
+updated: 2026-07-08
 ---
 
 # Ethnography
@@ -83,13 +83,13 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 民族志（Ethnography）是一种源自人类学和社会学的[[Qualitative Research|质性研究]]设计。研究者在自然情境中长时间观察一个完整文化群体（cultural group），研究其共享的行为模式、语言和行动（Wolcott, 1994）。数据收集通常包括观察和访谈（Fetterman, 2010; Wolcott, 2008）。LeCompte & Preissle（1993）进一步将民族志定义为兼具**探究方法、探究结果和探究记录**的过程，旨在尽可能生动地重构所研究的文化或群体（p.235）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 405–406)]]
+> 民族志（Ethnography）是一种源自人类学和社会学的[[Qualitative Research|质性研究]]设计。研究者在自然情境中长时间观察一个完整文化群体（cultural group），研究其共享的行为模式、语言和行动（Wolcott, 1994）。数据收集通常包括观察和访谈（Fetterman, 2010; Wolcott, 2008）。LeCompte & Preissle（1993）进一步将民族志定义为兼具**探究方法、探究结果和探究记录**的过程，旨在尽可能生动地重构所研究的文化或群体（p.235）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 405–406)]]
 
 > [!term] 自然主义/民族志 vs 质性方法
-> 自然主义方法和民族志方法意味着对个体、群体或特定社群的**长期驻留（long-term residence）**，研究者需在自然情境中长期沉浸。质性方法则关乎数据的性质和所欲回答的问题类型，不必遵循自然主义原则。小规模短期质性研究（如[[Qualitative Interview|质性访谈]]）可能只采集一次数据，不涉及长期驻留，但仍属于质性研究范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 402–403)]]
+> 自然主义方法和民族志方法意味着对个体、群体或特定社群的**长期驻留（long-term residence）**，研究者需在自然情境中长期沉浸。质性方法则关乎数据的性质和所欲回答的问题类型，不必遵循自然主义原则。小规模短期质性研究（如[[Qualitative Interview|质性访谈]]）可能只采集一次数据，不涉及长期驻留，但仍属于质性研究范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 402–403)]]
 
 > [!citation-card]- LeCompte & Preissle 的经典定义
-> 民族志是一个涉及探究方法、探究结果和探究产生的记录的过程。其意图是尽可能生动地重构所研究的文化或群体。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]
+> 民族志是一个涉及探究方法、探究结果和探究产生的记录的过程。其意图是尽可能生动地重构所研究的文化或群体。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 405)]]
 >
 > *Ethnographic research is a process involving methods of enquiry, an outcome and a resultant record of the enquiry. The intention of the research is to create as vivid a reconstruction as possible of the culture or groups being studied. (LeCompte & Preissle, 1993: 235)*
 
@@ -162,9 +162,9 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。意义从社会情境中产生并通过诠释过程处理。现实是多元的、建构的、整体的；认识者与被认识者互动且不可分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 403–404)]]
-> - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。研究者需管理"边际性"：在组织之中但不属于组织，在智识上保持熟悉与陌生的平衡，在社交上保持局外人与朋友的平衡（Hammersley & Atkinson, 1983: 97–99）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 426–427)]]
-> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler & Spindler（1992: 65）认为民族志效度通过研究者在场时间足够长、观察到事件重复发生来获得。概括性被重释为**可比较性（comparability）**和**可翻译性（translatability）**（LeCompte & Preissle, 1993: 47）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 406–407)]]
+> - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。意义从社会情境中产生并通过诠释过程处理。现实是多元的、建构的、整体的；认识者与被认识者互动且不可分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 403–404)]]
+> - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。研究者需管理"边际性"：在组织之中但不属于组织，在智识上保持熟悉与陌生的平衡，在社交上保持局外人与朋友的平衡（Hammersley & Atkinson, 1983: 97–99）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 426–427)]]
+> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler & Spindler（1992: 65）认为民族志效度通过研究者在场时间足够长、观察到事件重复发生来获得。概括性被重释为**可比较性（comparability）**和**可翻译性（translatability）（LeCompte & Preissle, 1993: 47）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 406–407)]]
 > - **不能声称回答的问题** 不能估计[[Causality|因果]][[Effect Size|效应量]]；不能统计概括到人口总体；不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
@@ -185,7 +185,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > 5. **生成整体性描述** 生成关于该文化群体的整体性描述（holistic description）。
 > 6. **[[Reflexivity|反身性]]审视** 研究者反思自身文化背景如何影响对研究群体的理解（[[Reflexivity|反身性]]）。
 
-[[Qualitative Research|质性研究]]的12阶段操作模型为民族志研究提供了一个系统导航框架（综合了 Hitchcock & Hughes, 1989; Bogdan & Biklen, 1992; LeCompte & Preissle, 1993）。实际操作中各阶段之间存在往复运动，过程是迭代和递归的（Flick, 2009: 133）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 407–408)]]
+[[Qualitative Research|质性研究]]的12阶段操作模型为民族志研究提供了一个系统导航框架（综合了 Hitchcock & Hughes, 1989; Bogdan & Biklen, 1992; LeCompte & Preissle, 1993）。实际操作中各阶段之间存在往复运动，过程是迭代和递归的（Flick, 2009: 133）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 407–408)]]
 
 > [!seq-table] 民族志研究的12阶段操作概览
 > | 阶段 | 民族志语境下的要点 |
@@ -203,7 +203,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > | 11. 离开现场 | 以最小干扰脱离；处理参与者想保持联系的期待；避免被利用感或背叛感。 |
 > | 12. 撰写报告 | 案例研究为主要载体；[[Rich and Thick Description\|厚描述]]呈现情境感受；可信度由可信性、可转移性、可靠性和确认性定义。 |
 
-进入现场时，Wolff（2004）和 Flick（1998）指出六项关键观察：研究始终是对社会系统的侵入和干预；系统与研究间存在相互不透明性；进入时应追求协议作为过程推进；数据存储权会增加协议复杂性；现场只有进入后才会变得清晰；研究通常对被研究系统无任何直接回报。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 425–426)]]
+进入现场时，Wolff（2004）和 Flick（1998）指出六项关键观察：研究始终是对社会系统的侵入和干预；系统与研究间存在相互不透明性；进入时应追求协议作为过程推进；数据存储权会增加协议复杂性；现场只有进入后才会变得清晰；研究通常对被研究系统无任何直接回报。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 425–426)]]
 
 Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 
@@ -230,7 +230,7 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 >   研究临近结束，参与者意识到研究者即将离开，关系进入终结阶段。
 
 > [!case] Swain（2006）小学民族志：权力如何覆盖在融洽关系之上
-> Swain 作为成年人在小学课堂开展民族志研究。在某些时刻（如学生打架），他有义务采取成人的控制立场。他比学生更高、更年长、声音低沉、穿着不同，他不能假装自己不是成人。尽管如此，他刻意采取了一种明确非教师的身份，让孩子们以自己希望的方式自由回应提问。核心洞察：数据收集过程本身就是社会性地情境化的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 430)]]
+> Swain 作为成年人在小学课堂开展民族志研究。在某些时刻（如学生打架），他有义务采取成人的控制立场。他比学生更高、更年长、声音低沉、穿着不同，他不能假装自己不是成人。尽管如此，他刻意采取了一种明确非教师的身份，让孩子们以自己希望的方式自由回应提问。核心洞察：数据收集过程本身就是社会性地情境化的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 430)]]
 
 ---
 
@@ -259,7 +259,7 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 > - 适合研究教育政策的实施过程，如 Beech & Artopoulos (2015) 使用民族志方法研究阿根廷 [[Conectar Igualdad]] 项目，通过三年的[[Fieldwork|田野工作]]（访谈国家和省级官员、校长、教师和学生，观察课堂和学校活动）揭示了传统[[Analytic Framework|分析框架]]难以察觉的权力关系。
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要深度理解群体文化、意义建构和行为情境的研究；探索性研究或新领域研究；涉及隐性知识、默会实践或不宣之规则的情况。[[Interpretive Paradigm|自然主义探究]]的主要类型中，民族志专门用于对社会群体和情境在其真实生活背景中的描绘和解释（Arsenault & Anderson, 1998; Flick, 2004a, 2004b）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 405–406)]]
+> - **适合使用** 需要深度理解群体文化、意义建构和行为情境的研究；探索性研究或新领域研究；涉及隐性知识、默会实践或不宣之规则的情况。[[Interpretive Paradigm|自然主义探究]]的主要类型中，民族志专门用于对社会群体和情境在其真实生活背景中的描绘和解释（Arsenault & Anderson, 1998; Flick, 2004a, 2004b）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 405–406)]]
 > - **谨慎使用** 高度敏感的研究场景（犯罪团体、权力高度不对称的机构）；研究者可能与参与者[[Conflict of Interest in Research|利益冲突]]的情境；参与者高度脆弱的情况。
 > - **不适合使用** 需要大样本统计概括的研究；需要精确[[Causality|因果关系]]估计的[[Experimental Research|实验研究]]；时间资源极度受限的短期项目。
 
@@ -313,4 +313,4 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 系统介绍民族志研究设计的基本步骤、Spradley 的[[Research Question|研究问题]]分类法以及[[Critical Ethnography|批判民族志]]的定位。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 系统介绍民族志的[[Paradigm|范式]]基础、LeCompte & Preissle 的八项要素、Spindler & Spindler 的11条标志、Hitchcock & Hughes 的六项产出、Lofland 的七个观察维度、有效民族志的操作标准以及十大内在困难。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 系统介绍民族志的[[Paradigm|范式]]基础、LeCompte & Preissle 的八项要素、Spindler & Spindler 的11条标志、Hitchcock & Hughes 的六项产出、Lofland 的七个观察维度、有效民族志的操作标准以及十大内在困难。

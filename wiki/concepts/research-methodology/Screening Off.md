@@ -47,8 +47,8 @@ updated: 2026-06-17
 > [!feature] 筛选隔离的逻辑结构
 > - **共同原因 C** 一个第三[[Variable|变量]]同时导致 A 和 B。
 > - **表面关联 A ↔ B** A 和 B 在数据上表现出伴随变化，但这完全由 C 解释。
-> - **[[Causality|因果]]独立**：在控制 C 的条件下，A 和 B 之间的关联消失——它们彼此不产生因果影响。
-> - **[[Operationalization|操作化]]**：通过偏相关（partial correlation）或结构方程模型等技术"筛掉"不相关的因变量。
+> - **[[Causality|因果]]独立** 在控制 C 的条件下，A 和 B 之间的关联消失——它们彼此不产生因果影响。
+> - **[[Operationalization|操作化]]** 通过偏相关（partial correlation）或结构方程模型等技术"筛掉"不相关的因变量。
 
 ## 围绕概念形成的命题
 

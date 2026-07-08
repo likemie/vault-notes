@@ -20,7 +20,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Causality]]"
   - "[[New Geopolitics]]"
-  - "[[Infrastructures of (Im)mobility]]"
+  - "[[Infrastructures of Immobility|Infrastructures of (Im)mobility]]"
   - "[[Champ]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Document]]"
@@ -60,7 +60,7 @@ updated: 2026-06-26
 
 > [!dimension] 高等教育空间生产的三元维度
 > - **空间物质性（Spatial Materiality）**
->   参照索亚（E. Soja）对"第一空间"的界定，空间展现为可感知的、经验性的物质形式——特定的地理布局与空间构型。这种物质性并非预设的中性物理容器，而是权力通过制度安排、资源配置与基础设施建设持续干预的结果。高等教育领域的体现包括：校园空间的安全治理与功能分区、海外分校与合作实体的布局、科研资源的层级配置、"卓越大学"工程、以及签证、奖学金与跨境合作办学构成的[[Infrastructures of (Im)mobility|流动基础设施]]。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 12–13)]]
+>   参照索亚（E. Soja）对"第一空间"的界定，空间展现为可感知的、经验性的物质形式——特定的地理布局与空间构型。这种物质性并非预设的中性物理容器，而是权力通过制度安排、资源配置与基础设施建设持续干预的结果。高等教育领域的体现包括：校园空间的安全治理与功能分区、海外分校与合作实体的布局、科研资源的层级配置、"卓越大学"工程、以及签证、奖学金与跨境合作办学构成的[[Infrastructures of Immobility|流动基础设施]]。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 > - **空间表征性（Spatial Representation）**
 >   空间不仅是可见的实体，更是通过话语、分类与评价体系被不断命名、比较与等级化的象征秩序。空间表征并非中性的认知过程，而是一种嵌入支配与治理逻辑的概念化实践。通过排名（QS, THE, [[Academic Ranking of World Universities|ARWU]]等）、指标、语言体系与学术分类，特定的大学、城市与国家被持续定位于"中心"或"边缘"，将物理空间转化为具有不平等差异的地缘政治—经济资产。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 13)]]
 > - **空间关系性（Spatial Relationality）**

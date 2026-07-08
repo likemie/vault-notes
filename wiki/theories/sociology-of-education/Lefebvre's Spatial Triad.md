@@ -39,7 +39,7 @@ updated: 2026-06-11
 ## 核心主张
 
 > [!abstract]
-> Lefebvre 的空间三元辩证法（Spatial Triad）是 Henri Lefebvre 在《空间的产生》（The Production of Space, 1991）中提出的空间[[Analytic Framework|分析框架]]，其核心主张是：空间不是中性的容器或被动的背景，而是由社会关系和实践**主动产生**的。空间通过三个辩证互动的维度构成：感知空间（perceived space）、构想空间（conceived space）和活生生空间（lived space）。Cai、Gao 和 Liu（2025）将这一框架应用于[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高等教育空间的分析，揭示了关键节点教师如何在三个空间维度中桥接学术、产业和政府网络[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]。
+> Lefebvre 的空间三元辩证法（Spatial Triad）是 Henri Lefebvre 在《空间的产生》（The Production of Space, 1991）中提出的空间[[Analytic Framework|分析框架]]，其核心主张是：空间不是中性的容器或被动的背景，而是由社会关系和实践**主动产生**的。空间通过三个辩证互动的维度构成：感知空间（perceived space）、构想空间（conceived space）和活生生空间（lived space）。Cai、Gao & Liu（2025）将这一框架应用于[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高等教育空间的分析，揭示了关键节点教师如何在三个空间维度中桥接学术、产业和政府网络[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]。
 
 ---
 ## 三个维度

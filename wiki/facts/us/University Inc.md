@@ -1,6 +1,7 @@
 ---
-title: University, Inc. (Washburn, 2005)
+title: "University Inc"
 aliases:
+  - "University, Inc. (Washburn, 2005)"
   - "University, Inc."
   - "大学公司化批判"
   - "Washburn 大学公司化"
@@ -34,7 +35,7 @@ created: 2026-05-26
 updated: 2026-05-26
 ---
 
-# University, Inc. (Washburn, 2005)
+# University Inc
 
 ## 内容
 

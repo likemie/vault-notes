@@ -254,7 +254,7 @@ Castells 据此区分了两种空间逻辑：
 
 > [!actor-grid] 全球教育政策空间中的四类主要行动者
 > - **国际多边机构**[[OECD]]、世界银行、UNESCO、国际货币基金组织（International Monetary Fund，IMF）等。它们之间有悠久的协作历史，但竞争和势力范围的划分同样显著(Jones & Coleman, 2005, 引自 p.351)。
-> - **[[Global Citizenship|全球公民]]社会与非政府组织（Non-Governmental Organization，NGO）**：多边组织越来越多地与被视作新兴"全球公民社会"代表的 NGO 协作，形成跨国倡导联盟(Mundy & Murphy, 2001, p.86, 引自 p.351)。
+> - **[[Global Citizenship|全球公民]]社会与非政府组织（Non-Governmental Organization，NGO）** 多边组织越来越多地与被视作新兴"全球公民社会"代表的 NGO 协作，形成跨国倡导联盟(Mundy & Murphy, 2001, p.86, 引自 p.351)。
 > - **跨国教育服务企业** 以 剑桥教育（Cambridge Education） 为代表的私营公司，向泰国、中国省级政府、美国各州及孟加拉国、柬埔寨等地直接出售“教育政策方案”(Ball, 2009)。
 > - **智库与亲市场基金会** 如 弗雷泽研究所（Fraser Institute）、邓普顿基金会（John Templeton Foundation，Templeton Foundation）、卡托研究所（Cato Institute）和 弗里德曼基金会（Friedman Foundation），为跨国企业在各地的政策咨询和公共服务角色提供理论与合法性支持(Ball, 2007, 2009)。
 

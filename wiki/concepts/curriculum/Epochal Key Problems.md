@@ -47,7 +47,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - **1997**[[Wolfgang Klafki]] 在关于欧洲教育的讨论中提出，以 key problems 作为面向未来课程工作的中心点。问题包括环境危机、社会不平等和战争等具有时代性、全球性和伦理政治后果的议题([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.7]])。
-> - **芬兰 [[Phenomenon-Based Learning|PhBL]] 语境**：这一概念为 [[Phenomenon-Based Learning]] 提供课程选择依据。PhBL 可被理解为一种围绕复杂现象组织学习的 didactical tool，而不是取消学科的改革口号([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.7, 11]])。
+> - **芬兰 [[Phenomenon-Based Learning|PhBL]] 语境** 这一概念为 [[Phenomenon-Based Learning]] 提供课程选择依据。PhBL 可被理解为一种围绕复杂现象组织学习的 didactical tool，而不是取消学科的改革口号([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.7, 11]])。
 
 ## 核心要素
 

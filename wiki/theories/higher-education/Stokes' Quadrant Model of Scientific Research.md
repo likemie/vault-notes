@@ -42,7 +42,7 @@ updated: 2026-06-02
 > [!quote]
 > "traditional linear models viewed basic and applied research as opposite ends of a spectrum, but Stokes argued that both could exist in the same research program. Pasteur's fundamental discoveries in microbiology both advanced fundamental understanding of fermentation and disease mechanisms and served the practical needs of food preservation and disease treatment—a type of research Stokes called 'use-inspired basic research.'" (summarized from Stokes, 1997)
 > 
-> 传统线性模型将基础研究和应用研究视为谱系的两端，但 Stokes 指出两者可以同时存在于同一研究项目中。巴斯德在微生物学的基础发现既推进了对发酵和疾病机制的基本理解，也直接服务于食品保存和疾病治疗。这种**应用启发的基础研究**（use-inspired basic research）在传统谱系中无处可容（p.310）。
+> 传统线性模型将基础研究和应用研究视为谱系的两端，但 Stokes 指出两者可以同时存在于同一研究项目中。巴斯德在微生物学的基础发现既推进了对发酵和疾病机制的基本理解，也直接服务于食品保存和疾病治疗。这种**应用启发的基础研究（use-inspired basic research）**在传统谱系中无处可容（p.310）。
 
 ## 四象限结构
 
@@ -52,14 +52,14 @@ updated: 2026-06-02
 | 象限 | 基础理解 | 应用考虑 | 典型代表 | 研究特征 |
 |------|---------|---------|---------|---------|
 | **玻尔象限(Bohr's Quadrant)** | 高 | 低 | 尼尔斯·玻尔 | 纯[[Blue Skies Research\|基础研究]]，追求对自然现象的根本理解，不考虑实际应用 |
-| **巴斯德象限** ([[Use-Inspired Basic Research\|Pasteur's Quadrant]]) | 高 | 高 | 路易·巴斯德 | 应用启发的基础研究，同时追求基础理解和实际应用 |
+| **巴斯德象限([[Use-Inspired Basic Research\|Pasteur's Quadrant]])** | 高 | 高 | 路易·巴斯德 | 应用启发的基础研究，同时追求基础理解和实际应用 |
 | **爱迪生象限(Edison's Quadrant)** | 低 | 高 | 托马斯·爱迪生 | 纯[[Evaluation Research\|应用研究]]，以解决具体问题为导向，不追求深层机制理解 |
 | **第四象限** | 低 | 低 | — | 既无基础理解追求也无应用考虑（如特定物种分类学中的探索性研究） |
 
 ## 应用领域
 
 > [!success]
-> - **国际[[University-Industry Collaboration|产学合作]]定位**：国际产学合作被定位在[[Use-Inspired Basic Research|巴斯德象限]]，学术界的深度研究能力与产业界的现实问题驱动相结合，产生既有科学价值又有应用前景的研究（p.310）
+> - **国际[[University-Industry Collaboration|产学合作]]定位** 国际产学合作被定位在[[Use-Inspired Basic Research|巴斯德象限]]，学术界的深度研究能力与产业界的现实问题驱动相结合，产生既有科学价值又有应用前景的研究（p.310）
 ... Applied fuzzy match at line 41-72.
 > - **研究政策分析** 该模型为分析各国研究资助政策提供了概念工具，不同政策工具倾向于支持不同象限的研究
 > - 模型同时为理解 [[Use-Inspired Basic Research]] 提供了完整的理论框架

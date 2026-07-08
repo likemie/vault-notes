@@ -145,7 +145,7 @@ citation_aliases:
 > - **注意力与 EF 预测** 注意力 (Attention) 在约 4–6 个月开始显现，被认为是后期 EF 表现（如抑制控制和[[Working Memory|工作记忆]]广度）的底层预测指标；12个月至4岁儿童的[[Cognitive Shifting|认知转换]] (Cognitive Shifting) 表现高度依赖注意力控制（p.10）。
 
 > [!line-b] 脑发育生理机制
-> - **爆发性[[Synaptogenesis|突触发生]] (Synaptogenesis)**：7–12 个月期间，背外侧前额叶皮层 (Dorsolateral Prefrontal Cortex, dlPFC) 第 III 层锥体细胞 (Layer III Pyramidal Cells) 的树突突触连结迅速延伸并达到成人长度，该长度将维持到至少 27 岁（p.9）。
+> - **爆发性[[Synaptogenesis|突触发生]] (Synaptogenesis)** 7–12 个月期间，背外侧前额叶皮层 (Dorsolateral Prefrontal Cortex, dlPFC) 第 III 层锥体细胞 (Layer III Pyramidal Cells) 的树突突触连结迅速延伸并达到成人长度，该长度将维持到至少 27 岁（p.9）。
 > - **PFC 整体发育的延迟性** 尽管 dlPFC 锥体细胞连结生长迅速，但 PFC 整体树突连结到 2 岁时仅达到成人水平的一半，凸显了 PFC 发育的Protracted（延时）特征。
 > - **神经元体积与神经化学变化** 7.5–12 个月间 PFC 神经元胞体增大。多巴胺和乙酰胆碱等神经递质在 PFC 相对其他脑区发生快速的化学重组。至 12 个月时，PFC 的葡萄糖代谢 (Glucose Metabolism) 水平已达到成人水平，表明细胞代谢活动加剧，支撑了早期 EF 任务的执行。
 
@@ -164,9 +164,9 @@ citation_aliases:
 > - **更新功能的脑与行为变化** 有声书任务 (Noisy Book Task)（按动物声音按钮并重复序列）显示3-4岁更新能力记增。数字广度任务 (Digit Span Task) 在4-6岁显著增长（倒背从1.58个词增加到2.88个词）（pp.10-11）。
 
 > [!line-b] 脑发育生理机制
-> - **灰质峰值与[[Synaptic Pruning|突触修剪]] (Synaptic Pruning)**：PFC 灰质密度在大约 3 岁时达到最大密度（p.12）。此后经验期望 (Experience-Expectant) 的突触修剪大量铺开，PFC 突触密度从 2 岁时比成人高 55% 快速下降至 7 岁时的仅比成人高 10%（尤其是 dlPFC 区域），清除了多余和无效率的连结。
-> - **[[Myelination|髓鞘化]] (Myelination) 与白质线性增长**：由于轴突髓鞘化开始，白质体积增加。dlPFC 第 III 层锥体细胞的树突轴突在 2–5 岁间迅速扩张，电信号传导被显著加速。
-> - **脑激活的右侧偏向 (NIRS/[[Functional Magnetic Resonance Imaging|fMRI]])**：Moriguchi & Hiraki (2013) 利用功能成像发现，5 岁儿童只有在完美通过 DCCS 任务时才会激活右下 PFC，而成人通常激活左下 PFC；若儿童出错则右侧无激活，表明右下 PFC 是此阶段认知转换的直接神经动力（p.11）。
+> - **灰质峰值与[[Synaptic Pruning|突触修剪]] (Synaptic Pruning)** PFC 灰质密度在大约 3 岁时达到最大密度（p.12）。此后经验期望 (Experience-Expectant) 的突触修剪大量铺开，PFC 突触密度从 2 岁时比成人高 55% 快速下降至 7 岁时的仅比成人高 10%（尤其是 dlPFC 区域），清除了多余和无效率的连结。
+> - **[[Myelination|髓鞘化]] (Myelination) 与白质线性增长** 由于轴突髓鞘化开始，白质体积增加。dlPFC 第 III 层锥体细胞的树突轴突在 2–5 岁间迅速扩张，电信号传导被显著加速。
+> - **脑激活的右侧偏向 (NIRS/[[Functional Magnetic Resonance Imaging|fMRI]])** Moriguchi & Hiraki (2013) 利用功能成像发现，5 岁儿童只有在完美通过 DCCS 任务时才会激活右下 PFC，而成人通常激活左下 PFC；若儿童出错则右侧无激活，表明右下 PFC 是此阶段认知转换的直接神经动力（p.11）。
 
 ---
 
@@ -237,7 +237,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - **心理学与神经影像学的年龄鸿沟** 大部分[[Functional Magnetic Resonance Imaging|功能性磁共振成像]] (fMRI) 和正电子发射断层扫描 (PET) 研究仅招募 7 岁以上的儿童，导致 7 岁以下（如感觉运动与前运算早期）脑区功能的实时影像学数据极为匮乏，尚待高密度[[Electroencephalography|脑电图]] (EEG) 等技术进一步补充（p.9）。
-> - **认知[[Executive Function|执行功能]]界定的变动性与测量困境**：执行功能 (EF) 成分界定复杂，测量任务也高度混杂，不同任务形式的发展进程因特定知识素养要求而不同（pp.19–20）。
+> - **认知[[Executive Function|执行功能]]界定的变动性与测量困境** 执行功能 (EF) 成分界定复杂，测量任务也高度混杂，不同任务形式的发展进程因特定知识素养要求而不同（pp.19–20）。
 > - **个体差异与外部环境干扰** 该模型仅描述普遍发展轨迹，未考虑巨大个体差异。例如双语环境能显著加速儿童 EF 发展，而低社会经济地位 (Low Socioeconomic Status, Low SES)、压力、药物或虐待则会导致 [[Prefrontal Cortex|PFC]] 结构与 EF 表现缩水。
 > - **教育干预与年龄推迟** 未探讨特定教育教学干预的影响。例如研究显示，由于学校过度强调浅表思维，学生进入形式运算阶段的平均年龄已推迟至约 15 岁，不能生硬死板地将特定认知能力与生理年龄挂钩（p.20）。
 

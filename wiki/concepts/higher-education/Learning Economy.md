@@ -39,7 +39,7 @@ updated: 2026-06-09
 ## 定义
 
 > [!info] 核心定义
-> 学习经济（learning economy）是 Lundvall 和 Johnson（1994）提出的经济分析视角。其核心主张是：在全球化与技术加速变迁的环境中，个人、企业和经济体的竞争力越来越取决于其学习能力，而非静态的知识存量或传统的生产要素禀赋。学习经济不是对[[Knowledge-Based Economy|知识经济]]的替代，而是对其的深化——它强调的不是拥有多少知识，而是能够多快地学习、遗忘旧知识和吸收新知识。[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, p. 864)]]
+> 学习经济（learning economy）是 Lundvall & Johnson（1994）提出的经济分析视角。其核心主张是：在全球化与技术加速变迁的环境中，个人、企业和经济体的竞争力越来越取决于其学习能力，而非静态的知识存量或传统的生产要素禀赋。学习经济不是对[[Knowledge-Based Economy|知识经济]]的替代，而是对其的深化——它强调的不是拥有多少知识，而是能够多快地学习、遗忘旧知识和吸收新知识。[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, p. 864)]]
 
 > [!boundary]- 概念边界
 > - 不等于知识经济（Knowledge Economy） — 知识经济强调知识作为一种生产要素的存量价值；学习经济强调学习过程和学习能力的流量价值。
@@ -65,7 +65,7 @@ updated: 2026-06-09
 > 学习经济的概念起源于北欧创新研究传统，尤其与 Aalborg 大学的 IKE 研究组密切相关。
 
 > [!note]- 1990s：概念提出
-> Lundvall 和 Johnson（1994）在《工业研究杂志》上正式提出学习经济概念，将学习和知识置于经济分析的中心。该概念是对 1980 年代末 Lundvall 关于国家[[Systems of Innovation|创新系统]]和用户-生产者互动研究的概念化延伸。
+> Lundvall & Johnson（1994）在《工业研究杂志》上正式提出学习经济概念，将学习和知识置于经济分析的中心。该概念是对 1980 年代末 Lundvall 关于国家[[Systems of Innovation|创新系统]]和用户-生产者互动研究的概念化延伸。
 
 > [!note]- 2000s：与创新模型整合
 > Caraça、Lundvall 和 Mendonça（2009）将学习经济作为[[Multi-channel Interactive Learning Model|多通道互动学习模型]]的宏观语境，论证了为什么组织学习能力——而非单纯的科学投入——决定创新绩效。这一整合使学习经济从一个宏观诊断概念延伸为对创新过程微观机制的分析视角。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]

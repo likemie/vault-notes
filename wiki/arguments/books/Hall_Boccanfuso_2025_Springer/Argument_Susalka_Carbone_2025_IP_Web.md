@@ -4,7 +4,9 @@ type: argument
 authors:
   - "Susalka, S. J."
   - "Carbone, H. D."
-citation: "Susalka, S. J., & Carbone, H. D. (2025). Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 271–287). Springer."
+citation: "Susalka, S. J., & Carbone, H. D. (2025). Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 271–287). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - theme/intellectual-property
   - theme/university-industry-collaboration
@@ -32,7 +34,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: '2026-06-08'
+updated: 2026-07-08
 subtype: book-chapter
 publication_type: book
 title: "Argument_Susalka_Carbone_2025_IP_Web"
@@ -68,9 +70,9 @@ citation_aliases:
 > [!note]- 分析视角
 > 不采用严格的学术理论，而是基于[[University-Industry Collaboration|产学合作]]实务中的制度分析视角。核心逻辑链为：**组织使命差异 → IP 利益的结构性冲突 → 合同条款的精细化设计来弥合冲突**。论证围绕三组概念展开：
 >
-> - **[[Foreground IP|前景知识产权]]（Foreground IP, FIP）**：合作期间产生的知识产权，定义通常争议较小
-> - **[[Background IP|背景知识产权]]（Background IP, BIP）**：合作前各方独立拥有的知识产权，是谈判的焦点战场
-> - **[[Freedom to Operate|自由实施权]]（Freedom to Operate, FTO）**：企业商业化所需的知识产权自由实施空间，是产业方评估 BIP 需求时的核心关切
+> - **[[Foreground IP|前景知识产权]]（Foreground IP, FIP）** 合作期间产生的知识产权，定义通常争议较小
+> - **[[Background IP|背景知识产权]]（Background IP, BIP）** 合作前各方独立拥有的知识产权，是谈判的焦点战场
+> - **[[Freedom to Operate|自由实施权]]（Freedom to Operate, FTO）** 企业商业化所需的知识产权自由实施空间，是产业方评估 BIP 需求时的核心关切
 >
 > 此外，论证还覆盖了 IP 类型的法律基础（专利、版权、商标、商业秘密）和权利转让的谱系（从赠款的"零权利回授"到技术服务协议的"企业拥有全部权利"）。
 
@@ -346,7 +348,7 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 >
 > - **结构性冲突的根源在于组织使命差异** 大学以知识传播和发表为核心使命，产业以市场竞争优势和股东回报为核心目标。这一根本差异不可消除，只能通过制度设计来管理(pp.272–273)。
 >
-> - **[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 的制度遗产是双重的**：该法案释放了巨大的创新能量，使大学能够将联邦资助产生的发明以专利许可的方式推向市场；同时，联邦研究资助占比的持续下降（从 1991 年的约 70% 到 2021 年的不足 60%）使得[[University-Industry Collaboration|产学合作]]从"锦上添花"变为"结构性必需"(p.273)。
+> - **[[Bayh-Dole Act of 1980|Bayh-Dole Act]] 的制度遗产是双重的** 该法案释放了巨大的创新能量，使大学能够将联邦资助产生的发明以专利许可的方式推向市场；同时，联邦研究资助占比的持续下降（从 1991 年的约 70% 到 2021 年的不足 60%）使得[[University-Industry Collaboration|产学合作]]从"锦上添花"变为"结构性必需"(p.273)。
 >
 > - **[[Foreground IP|FIP]] 的定义通常争议较小、"所有权跟随发明人"是美国主流原则**；[[Background IP|BIP]] 条款才是谈判的焦点战场。BIP 通过时间限制、空间限制（合作 PI 实验室）、必要性限制和排除已被束缚 IP 的组合策略，可以在大学和产业的矛盾利益之间找到可操作的中间地带(pp.279–281)。
 >

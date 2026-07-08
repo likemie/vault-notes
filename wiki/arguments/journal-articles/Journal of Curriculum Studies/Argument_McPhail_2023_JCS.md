@@ -113,8 +113,8 @@ citation_aliases:
 >
 > 两种知识形式的区分来自[[Lev Vygotsky|维果茨基]]的科学概念和自发概念：
 >
-> - **[[Knowledge-that and Know-how-to|知其然]]**（knowledge-that）包括命题（提出主要主张的陈述）、学科概念（通过词语或短语表达的抽象思想）和内容（概念的具体体现，可包括事实、情境等）。
-> - **[[Knowledge-that and Know-how-to|知其所用]]**（know-how-to）包括技能、能力和学科实践，即通过学科相关的技能或实践来应用知识。
+> - **[[Knowledge-that and Know-how-to|知其然]]（knowledge-that）**包括命题（提出主要主张的陈述）、学科概念（通过词语或短语表达的抽象思想）和内容（概念的具体体现，可包括事实、情境等）。
+> - **[[Knowledge-that and Know-how-to|知其所用]]（know-how-to）**包括技能、能力和学科实践，即通过学科相关的技能或实践来应用知识。
 >
 > CDCM 的核心主张是，[[Knowledge-that and Know-how-to|知其然]]和[[Knowledge-that and Know-how-to|知其所用]]的连接是[[Surface and Deep Learning|深层学习]]的先决条件。当学生能够将所学知识应用于新情境，并清楚阐述知识之间的联系时，深层学习才真正发生。课程设计的目标是实现深层设计连贯性，即让课程设计与知识的认识论结构对齐，避免三种失衡，过于抽象（只讲概念）、过于拥挤（只堆事实）或过于工具化（只练技能）。
 
@@ -135,7 +135,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 使用 [[Curriculum Design Coherence Model|CDCM]] 的翻译装置，基于 Bratland 和 El Ghami (2022) 为挪威课程改革研究开发的分析量规，分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]][[Document|文件]]的两个方面：
+> 使用 [[Curriculum Design Coherence Model|CDCM]] 的翻译装置，基于 Bratland & El Ghami (2022) 为挪威课程改革研究开发的分析量规，分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]][[Document|文件]]的两个方面：
 >
 > - 改革的目的声明和整体结构（学习进步和 UKD 结构）
 > - 社会科学、英语、数学和统计、以及新西兰历史的进度成果，以十年级末为例
@@ -156,7 +156,7 @@ citation_aliases:
 - Kelly 称之为「严格折衷主义」（rigorous eclecticism）（引自 Clark, 2004, p.130）：课程借鉴了认识论差异很大的多种方法（[[Postpositivism|后实证主义]]实在论、工具理性主义、[[Postmodernism|后现代主义]]、进步主义、建构主义），这些方法之间存在潜在矛盾
 - 二十年后，课程改革仍在延续这种折衷方法
 
-**新自由主义和建构主义对知识理解的改变**(Lourie, 2020)：
+**新自由主义和建构主义对知识理解的改变(Lourie, 2020)**
 - 对技能和能力的日益强调是以牺牲知识为代价的，这是对[[Knowledge-Based Economy|知识经济]]话语的回应，该话语「倾向于以功能主义的方式框定教育」(p.124)
 - 具体表现：知识更新太快所以不再需要教授(De Bruychere et al., 2015)；通用技能如「学会学习」被认为比学什么更重要(Claxton, 2013)；期望学生自己建构知识(McPhail, 2017)
 
@@ -370,7 +370,7 @@ citation_aliases:
 > [!warning]
 > - **部分完成**。课程改革在分析时仍在进行中，许多学科尚未开发。但已有足够证据判断课程[[Document|文件]]是否展示了向学科知识的更强转向。分析以十年级末（中学第二年）为例，这一阶段代表了学生在课程中进展的关键节点。
 > - **分析范围**。并非对[[Recontextualization|再脉络化]]原则的完整分析，而是揭示了一种持续的折衷方法——试图将[[Epistemology|认识论]]、理论和思想差异很大的各种取向整合在一起。例如，[[Mātauranga Māori|毛利知识体系]]的核心关切与课程声称已转向关注学习进步和增长之间存在潜在的[[Ontology|本体论]]和认识论张力，教师如何处理这种张力仍有待观察。
-> - **方法论说明**。分析使用了基于 Bratland 和 El Ghami (2022) 为挪威课程改革研究开发的分析量规，该量规基于 [[Curriculum Design Coherence Model|CDCM]] 的原则。作者主要借鉴了模型的关键原则，而非其具体设计细节。
+> - **方法论说明**。分析使用了基于 Bratland & El Ghami (2022) 为挪威课程改革研究开发的分析量规，该量规基于 [[Curriculum Design Coherence Model|CDCM]] 的原则。作者主要借鉴了模型的关键原则，而非其具体设计细节。
 > - **未来分析**。未来的分析可以进一步追问：
 >   - 课程改革是否真正以公认的[[Theory of Knowledge (ToK)|知识理论]]为基础（如 [[Johan Muller]], 2009; [[Gilbert Ryle]], 1946; Winch, 2013）？
 >   - 市场新自由主义和工具主义的影响是否已被显著削弱？

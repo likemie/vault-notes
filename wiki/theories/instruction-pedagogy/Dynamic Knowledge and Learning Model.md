@@ -90,7 +90,7 @@ updated: '2026-05-18'
 ## 研究用途（可操作化方向）
 
 
-- **作为"学习结果[[Coding in Qualitative Research|编码]]框架"**：在综述或[[Meta-analysis|元分析]]中，可先把 outcome 指标按一阶至四阶知识进行编码，再比较不同干预主要作用于哪一阶知识。
+- **作为"学习结果[[Coding in Qualitative Research|编码]]框架"** 在综述或[[Meta-analysis|元分析]]中，可先把 outcome 指标按一阶至四阶知识进行编码，再比较不同干预主要作用于哪一阶知识。
 - **作为"课程与评价对齐工具"** 若课程目标强调三阶/四阶知识（如创新、批判反思），测量工具就不能仅依赖事实回忆型测验。
 - **作为"教学设计诊断镜头"** 同一课堂活动可能同时触发多阶知识生成，避免将教学策略与单一学习层次机械绑定。
 
@@ -118,6 +118,6 @@ updated: '2026-05-18'
 
 > [!example] 交叉阅读路径
 > - **方法论链**[[Effect Size]] → [[Meta-analysis]] → [[Meta-meta-analysis]] → [[Dynamic Knowledge and Learning Model]]
-> - **[[Visible Learning|VL]] 内部修正链**：[[Visible Learning]] → [[Popper's Three Worlds Theory]] → [[Dynamic Knowledge and Learning Model]]
+> - **[[Visible Learning|VL]] 内部修正链** [[Visible Learning]] → [[Popper's Three Worlds Theory]] → [[Dynamic Knowledge and Learning Model]]
 > - **政策批判链**[[Evidence-Based Education]] → [[Scientism]] → [[Cargo Cult Science]]
 

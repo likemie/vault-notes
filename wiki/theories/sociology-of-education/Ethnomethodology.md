@@ -21,7 +21,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-07-08
 ---
 
 # Ethnomethodology
@@ -29,9 +29,9 @@ updated: 2026-06-13
 ## 定义与起源
 
 > [!def] 俗民方法学（Ethnomethodology）
-> 加芬克尔（Harold Garfinkel, 1967）创立的研究取向，其目标是"将实践活动、实践情境和实践的社会学推理作为经验研究的课题，并通过给予日常生活最普通的活动通常只给予非凡事件的关注，寻求将其作为自有权利的现象来研究"（Garfinkel, 1967: vii）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 加芬克尔（Harold Garfinkel, 1967）创立的研究取向，其目标是"将实践活动、实践情境和实践的社会学推理作为经验研究的课题，并通过给予日常生活最普通的活动通常只给予非凡事件的关注，寻求将其作为自有权利的现象来研究"（Garfinkel, 1967: vii）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
-加芬克尔对社会世界的研究者提出了一个激进挑战：社会世界的研究者必须怀疑那个世界的实在性。因为未能以更加怀疑的态度看待人类行为，社会学家们创造了一个有序的社会实在——而与真实情况几乎无关（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+加芬克尔对社会世界的研究者提出了一个激进挑战：社会世界的研究者必须怀疑那个世界的实在性。因为未能以更加怀疑的态度看待人类行为，社会学家们创造了一个有序的社会实在——而与真实情况几乎无关（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 ## 两个核心概念
 
@@ -43,4 +43,4 @@ updated: 2026-06-13
 
 ## 两种取向
 
-俗民方法学可分为语言取向（聚焦于对话结构和未明说的"理所当然"意义）和情境取向（聚焦于人们如何协商社会语境，可能刻意扰乱日常情境中的有序元素来揭示底层过程）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+俗民方法学可分为语言取向（聚焦于对话结构和未明说的"理所当然"意义）和情境取向（聚焦于人们如何协商社会语境，可能刻意扰乱日常情境中的有序元素来揭示底层过程）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。

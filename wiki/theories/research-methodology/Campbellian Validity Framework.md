@@ -75,7 +75,7 @@ updated: '2026-05-18'
 >
 > > 例：在评估一种新的阅读干预时，如果学生的阅读成绩在干预后提高了，这可能是干预的效果，也可能是因为学生自然成熟（maturation）或在干预期间学校同时推行了其他阅读计划（history）。一个好的实验设计需要排除这些替代解释。
 >
-> **内部效度的常见威胁**(Shadish et al., 2002;)：
+> **内部效度的常见威胁(Shadish et al., 2002;)**
 >
 > | 威胁 | 含义 | [[Single-Case Design\|SCD]] 中的控制方式 |
 > |------|------|-----------------|
@@ -95,7 +95,7 @@ updated: '2026-05-18'
 >
 > > 例：一项在郊区高收入学校进行的 SCD 研究发现某种行为干预有效——但该发现能否推广到城市低收入学校？能否推广到不同年龄的学生？能否推广到不同的行为结果（如从课堂参与推广到学业成绩）？这些都是外部效度问题。
 >
-> **评估外部效度的复杂性**([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.462–463]])：
+> **评估外部效度的复杂性([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.462–463]])**
 >
 > Hitchcock et al. 指出，评估外部效度远比评判内部效度复杂，原因至少有三：
 >
@@ -103,7 +103,7 @@ updated: '2026-05-18'
 > 2. **推广目标未知** 进行证据综合的审查者"可能不知道信息消费者希望推广到哪个点"（p.463）——消费者可能是政策制定者（关注全国范围推广）、学区管理者（关注本地适配）或一线教师（关注特定学生群体）
 > 3. **SCD 面临额外偏见** 存在一种普遍（但错误）的信念认为 SCD 证据不能推广，尽管事实上它可以(Barlow et al., 2009; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])
 >
-> **外部效度的常见威胁**(Kazdin, 2011; Shadish et al., 2002;)：
+> **外部效度的常见威胁(Kazdin, 2011; Shadish et al., 2002;)**
 >
 > | 威胁 | 含义 |
 > |------|------|
@@ -125,23 +125,23 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> 该框架的演进可追溯至 Campbell 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook 和 Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity|构念效度]]、[[External Validity|外部效度]]）。
+> 该框架的演进可追溯至 Campbell 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook & Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity|构念效度]]、[[External Validity|外部效度]]）。
 >
 > [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生[[Causality|因果]]证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[Single-Case Design|SCD]] 量规在内部效度判断上产生了合理一致的结果。
 
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
-> - **[[Epistemology|认识论]]立场**：Campbellian 框架植根于[[Postpositivism|后实证主义]]传统——它接受[[Causality|因果推断]]的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
+> - **[[Epistemology|认识论]]立场** Campbellian 框架植根于[[Postpositivism|后实证主义]]传统——它接受[[Causality|因果推断]]的可行性，但要求通过系统性排除威胁来逐步逼近，而非一次性"证明"
 > - **对实验设计的统一性** 该框架的关键洞察是不同实验设计（[[Randomised Controlled Trials|RCT]]、准实验、[[Single-Case Design|SCD]]）共享相同的因果推断逻辑——都通过排除替代解释来建立因果关系——因此可以被统一的理论框架所涵盖([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 > - **常用方法** RCT、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design]]——该框架为所有这些设计提供统一的效度评估语言
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **[[External Validity|外部效度]]的结构性不对称**：[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462, 467)]] 指出，[[Internal Validity|内部效度]]有"一套明确定义的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导
+> - **[[External Validity|外部效度]]的结构性不对称** [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462, 467)]] 指出，[[Internal Validity|内部效度]]有"一套明确定义的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导
 > - **在实践中更多是门控工具而非推广工具**[[What Works Clearinghouse|WWC]] 使用该框架时，内部效度用于严格的门控判断（达标/不达标），但外部效度仅被"描述"而不被"评分"，由消费者自行判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.466]])——这实质上将框架中最困难的部分（推广性判断）转嫁给了可能缺乏方法论训练的政策制定者和从业者
-> - **[[Single-Case Design|SCD]] 推广性的特殊偏见**：存在"一种普遍（且错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])——这意味着框架在面对 SCD 时面临额外的社会[[Epistemology|认识论]]障碍，不仅仅是方法论障碍
+> - **[[Single-Case Design|SCD]] 推广性的特殊偏见** 存在"一种普遍（且错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])——这意味着框架在面对 SCD 时面临额外的社会[[Epistemology|认识论]]障碍，不仅仅是方法论障碍
 
 ## 相关研究
 

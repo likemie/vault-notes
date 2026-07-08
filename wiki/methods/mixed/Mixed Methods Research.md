@@ -73,7 +73,7 @@ updated: 2026-06-21
 ## 定义
 
 > [!def] 混合方法研究（Mixed Methods Research）
-> 核心特征是同时收集并整合（"混合"）量化与质性数据，以获取超越单一方法的额外洞察。它被称为"第三种方法论运动"（the third methodological movement, Teddlie and Tashakkori, 2009）、"第三种研究[[Paradigm|范式]]"（the third research paradigm, Johnson and Onwuegbuzie, 2004; Denscombe, 2008）和"第三条道路"（the third path, Gorard and Taylor, 2004）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 核心特征是同时收集并整合（"混合"）量化与质性数据，以获取超越单一方法的额外洞察。它被称为"第三种方法论运动"（the third methodological movement, Teddlie and Tashakkori, 2009）、"第三种研究[[Paradigm|范式]]"（the third research paradigm, Johnson and Onwuegbuzie, 2004; Denscombe, 2008）和"第三条道路"（the third path, Gorard and Taylor, 2004）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 >
 > Leech and Onwuegbuzie (2009: 265) 将其[[Operationalization|操作化]]定义为："在一项单一研究或一系列研究同一底层现象的研究中，收集、分析和解释量化与质性数据"（collecting, analyzing, and interpreting quantitative and qualitative data in a single study or in a series of studies that investigate the same underlying phenomenon）。
 
@@ -123,7 +123,7 @@ updated: 2026-06-21
 
 ### 范式战争
 
-混合方法研究的兴起根植于量化与质性方法之间的"[[Paradigm Wars|范式战争]]"（paradigm wars, Gage, 1989）。混合方法研究认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"（Gorard and Smith, 2006: 61），主张更少的对抗、更多的趋同（Brannen, 2005）和更大的对话（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+混合方法研究的兴起根植于量化与质性方法之间的"[[Paradigm Wars|范式战争]]"（paradigm wars, Gage, 1989）。混合方法研究认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"（Gorard and Smith, 2006: 61），主张更少的对抗、更多的趋同（Brannen, 2005）和更大的对话（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 ### 发展里程碑
 
@@ -139,7 +139,7 @@ updated: 2026-06-21
 
 ## 哲学基础：实用主义
 
-[[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和[[Epistemology|认识论]]为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而混合方法取向则以[[Pragmatic Paradigm|实用主义]]（pragmatism）的本体论和认识论为前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+[[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和[[Epistemology|认识论]]为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而混合方法取向则以[[Pragmatic Paradigm|实用主义]]（pragmatism）的本体论和认识论为前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 实用主义本质上是实践驱动的（practice-driven, Denscombe, 2008: 280）：
 
@@ -159,7 +159,7 @@ updated: 2026-06-21
 
 ### Teddlie & Tashakkori 六种设计
 
-Teddlie and Tashakkori (2009) 提出了六种设计（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+Teddlie & Tashakkori (2009) 提出了六种设计（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）：
 
 > [!designs] 六种混合方法设计（Teddlie & Tashakkori, 2009）
 > - **平行混合设计（parallel / concurrent）**量化和质性方法同时独立运行（类似于[[Triangulation|三角验证]]）
@@ -189,24 +189,24 @@ Teddlie and Tashakkori (2009) 提出了六种设计（[[Argument_Cohen_Manion_Mo
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-2_Three_Core_Designs.jpg)
 
 > [!designs] 三种核心设计（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）
-> - **[[Convergent Design|聚敛式设计]]**（Convergent Design）同时收集量化与质性数据，合并分析结果形成综合解释
-> - **[[Explanatory Sequential Design|解释性序列设计]]**（Explanatory Sequential Design）先量化后质性，用质性数据深入解释量化结果
-> - **[[Exploratory Sequential Design|探索性序列设计]]**（Exploratory Sequential Design）先质性后量化，用质性探索现象、量化检验推广
+> - **[[Convergent Design|聚敛式设计]]（Convergent Design）**同时收集量化与质性数据，合并分析结果形成综合解释
+> - **[[Explanatory Sequential Design|解释性序列设计]]（Explanatory Sequential Design）**先量化后质性，用质性数据深入解释量化结果
+> - **[[Exploratory Sequential Design|探索性序列设计]]（Exploratory Sequential Design）**先质性后量化，用质性探索现象、量化检验推广
 
 ---
 
 ## 数据整合策略
 
-Caracelli and Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+Caracelli & Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）：
 
 > [!finding-cards]
-> - **[[Data Transformation|数据转换]]**（data transformation）质性数据被"量化"（quantitized）或量化数据被"质化"（qualitized）
+> - **[[Data Transformation|数据转换]]（data transformation）**质性数据被"量化"（quantitized）或量化数据被"质化"（qualitized）
 > - **类型学发展（typology development）**从一组数据产生的分类被应用到另一组数据
 > - **极端案例分析（extreme case analysis）**在一种数据中发现的极端值使用不同数据和方法探索
 > - **数据合并（data consolidation/merging）**通过合并数据创建新[[Variable|变量]]
 
 > [!example] 为什么简单统计不足以说明问题
-> 研究者发现 100 个人认为学校像监狱。其中 40 人认为因为限制自由和严厉纪律，20 人认为因为过度拥挤，15 人认为因为食物糟糕，10 人认为因为暴力和欺凌，10 人认为因为教人偷窃和犯罪，5 人认为因为学生只要遵守规则就能过轻松生活。一个简单统计背后隐藏着完全不同的理由——这正是质性数据可以为简单统计数字提供大量有用洞察的地方（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 研究者发现 100 个人认为学校像监狱。其中 40 人认为因为限制自由和严厉纪律，20 人认为因为过度拥挤，15 人认为因为食物糟糕，10 人认为因为暴力和欺凌，10 人认为因为教人偷窃和犯罪，5 人认为因为学生只要遵守规则就能过轻松生活。一个简单统计背后隐藏着完全不同的理由——这正是质性数据可以为简单统计数字提供大量有用洞察的地方（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 ---
 
@@ -235,7 +235,7 @@ Caracelli and Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_M
 
 ## 是否为真正的新范式
 
-关于混合方法研究是否真正构成一个新[[Paradigm|范式]]仍存在开放争论（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。倡导者推崇它由[[Pragmatic Paradigm|实用主义]]驱动、能对真实问题给出真实答案；但混合方法在实践中已存在多年，深层结构仍然是量化和质性两种范式。只要有必要和相关，就应当结合使用多种方法，但不必急于判断它是否构成一个新范式。
+关于混合方法研究是否真正构成一个新[[Paradigm|范式]]仍存在开放争论（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。倡导者推崇它由[[Pragmatic Paradigm|实用主义]]驱动、能对真实问题给出真实答案；但混合方法在实践中已存在多年，深层结构仍然是量化和质性两种范式。只要有必要和相关，就应当结合使用多种方法，但不必急于判断它是否构成一个新范式。
 
 ---
 

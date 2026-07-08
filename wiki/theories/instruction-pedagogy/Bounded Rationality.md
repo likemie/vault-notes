@@ -39,7 +39,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 有限理性（Bounded Rationality）是 [[Herbert A. Simon]]（1969/1996）在 *The Sciences of the Artificial* 中提出的理论，其基本主张是：专业任务如教学不是可以在输入-输出模型中概念化的简单任务，而是**复杂任务**。复杂专业任务的共同特征是：**任务的复杂性大于专业人员的实践能力**([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])。
+> 有限理性（Bounded Rationality）是 [[Herbert A. Simon]]（1969/1996）在 *The Sciences of the Artificial* 中提出的理论，其基本主张是：专业任务如教学不是可以在输入-输出模型中概念化的简单任务，而是**复杂任务**。复杂专业任务的共同特征是：**任务的复杂性大于专业人员的实践能力([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])**。
 >
 > > "A common characteristic of complex professional tasks is that the complexity of the task is bigger than the practical capacity of the professional."（Simon, 1969/1996，引自 Qvortrup, 2019, p.6）
 

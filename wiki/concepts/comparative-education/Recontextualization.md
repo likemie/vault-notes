@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-06-06
+updated: 2026-07-08
 ---
 
 # Recontextualization
@@ -95,10 +95,10 @@ updated: 2026-06-06
 > [!example] [[John Dewey|杜威]]在中国的再脉络化
 > [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] 以杜威在中国 1919–2009 年间的四次再脉络化为核心案例：
 >
-> - **民国时期（1912–1949）**：[[Hu Shi|胡适]]将[[Pragmatic Paradigm|实用主义]]极端化为反迷信的唯一武器，同时实用一词被嫁接在经世致用的本土话语上，杜威成为朋友。
-> - **毛泽东时代（1949–1976）**：杜威的自然主义、反科学、不确定性被挑出来攻击，因为它们分别威胁了马克思主义世界观的三个根基，杜威成为魔鬼。
+> - **民国时期（1912–1949）** [[Hu Shi|胡适]]将[[Pragmatic Paradigm|实用主义]]极端化为反迷信的唯一武器，同时实用一词被嫁接在经世致用的本土话语上，杜威成为朋友。
+> - **毛泽东时代（1949–1976）** 杜威的自然主义、反科学、不确定性被挑出来攻击，因为它们分别威胁了马克思主义世界观的三个根基，杜威成为魔鬼。
 > - **1980 年代** 通过[[Tao Xingzhi|陶行知]]的间接中介恢复杜威，将其重塑为科学与现代化旗帜。
-> - **当代（1990s–2009）**：杜威被部署为[[Quality Education|素质教育]]代言人、反新自由主义武器。
+> - **当代（1990s–2009）** 杜威被部署为[[Quality Education|素质教育]]代言人、反新自由主义武器。
 >
 > 最终产物是杜威（Duwei），一个与 John Dewey 有联系但已经质变的中国知识建构物([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.93]])。
 

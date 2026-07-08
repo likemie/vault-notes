@@ -70,10 +70,10 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **社会正义理论 vs [[Discipline-Based Theory|学科理论]]**：学科理论从学科[[Document|文献]]中提取，以[[Variable|变量]]间关系的解释和预测为核心；社会正义理论以赋权边缘群体、改变不平等结构为核心使命。前者追求科学解释，后者追求社会变革。
+> **社会正义理论 vs [[Discipline-Based Theory|学科理论]]** 学科理论从学科[[Document|文献]]中提取，以[[Variable|变量]]间关系的解释和预测为核心；社会正义理论以赋权边缘群体、改变不平等结构为核心使命。前者追求科学解释，后者追求社会变革。
 
 > [!example]
-> **社会正义理论 vs [[Theoretical Standpoint|理论立场]]**：两者都关注边缘群体和权力关系，但社会正义理论是[[Mixed Methods Research|混合方法研究]]中的用法——研究者同时收集量化和质性数据，在两类数据中整合变革性视角；理论立场是[[Qualitative Research|质性研究]]中的用法，主要通过质性方法赋予参与者声音。
+> **社会正义理论 vs [[Theoretical Standpoint|理论立场]]** 两者都关注边缘群体和权力关系，但社会正义理论是[[Mixed Methods Research|混合方法研究]]中的用法——研究者同时收集量化和质性数据，在两类数据中整合变革性视角；理论立场是[[Qualitative Research|质性研究]]中的用法，主要通过质性方法赋予参与者声音。
 
 ## 理论基础
 

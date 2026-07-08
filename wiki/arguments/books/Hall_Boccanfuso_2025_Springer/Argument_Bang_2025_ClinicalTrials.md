@@ -3,7 +3,9 @@ summary: "以临床试验各阶段为框架，分析产学在生物制药临床�
 type: argument
 authors:
   - "Bang, S."
-citation: "Bang, S. (2025). University–Industry Relations in Clinical Trials. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 201–215). Springer."
+citation: "Bang, S. (2025). University–Industry Relations in Clinical Trials. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 201–215). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-trials
@@ -44,7 +46,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: '2026-06-08'
+updated: 2026-07-08
 subtype: book-chapter
 publication_type: book
 title: "Argument_Bang_2025_ClinicalTrials"
@@ -82,8 +84,8 @@ citation_aliases:
 > 论证围绕[[Clinical Trial|临床试验]]的完整生命周期展开——从临床前[[Translational Research|转化研究]]到上市后监测（IV 期），但分析视角始终设在产业方一侧：在每个阶段，大学为试验贡献什么？产业方承担的成本和风险是什么？双方的制度摩擦在哪里产生？
 >
 > 核心分析工具是两组对比维度：
-> - **[[Academic Medical Center|学术医学中心]]与非学术试验基地的启动效率对比**（Table 11.2）：包括从基地选择到激活的周期时间、委员会审查数量、监管包提交到[[Institutional Review Board|机构审查委员会]]（Institutional Review Board, IRB）批准的时间、合同/预算的审查与签署时间、合同执行到激活的时间
-> - **产业方对试验基地的运营与入组[[Performance Indicators|绩效指标]]**（Table 11.3）：从激活到首例患者同意的时间、从同意到首次给药的时间、数据录入速度、数据查询（query）数量和解决天数
+> - **[[Academic Medical Center|学术医学中心]]与非学术试验基地的启动效率对比（Table 11.2）** 包括从基地选择到激活的周期时间、委员会审查数量、监管包提交到[[Institutional Review Board|机构审查委员会]]（Institutional Review Board, IRB）批准的时间、合同/预算的审查与签署时间、合同执行到激活的时间
+> - **产业方对试验基地的运营与入组[[Performance Indicators|绩效指标]]（Table 11.3）** 从激活到首例患者同意的时间、从同意到首次给药的时间、数据录入速度、数据查询（query）数量和解决天数
 
 ---
 

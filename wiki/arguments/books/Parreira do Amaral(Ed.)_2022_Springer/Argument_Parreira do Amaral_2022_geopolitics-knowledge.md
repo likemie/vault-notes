@@ -14,7 +14,9 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
-citation: "Parreira do Amaral, M. (2022). Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 35–51). Springer."
+citation: "Parreira do Amaral, M. (2022). Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 35–51). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
 - geopolitics-of-knowledge
 - higher-education
@@ -136,11 +138,11 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 ## 主要发现
 
 > [!success]
-- **"新[[Geopolitics of Knowledge|知识地缘政治]]"的出现**：创新、科研能力和教育被视为在全球经济竞争中取得成功的关键。高等教育机构成为知识密集型资本主义想象的核心——被同时视为专有知识、创新学习环境和驱动创新的主体性的主要生产场所。[[Knowledge Production|知识生产]]被整合进国家、区域和企业在全球经济中的战略定位(pp.38–39)
+- **"新[[Geopolitics of Knowledge|知识地缘政治]]"的出现** 创新、科研能力和教育被视为在全球经济竞争中取得成功的关键。高等教育机构成为知识密集型资本主义想象的核心——被同时视为专有知识、创新学习环境和驱动创新的主体性的主要生产场所。[[Knowledge Production|知识生产]]被整合进国家、区域和企业在全球经济中的战略定位(pp.38–39)
 - **知识范畴的三重窄化** 在这一语境中，"知识"主要指向：(a) 创意及相关创新在生产链中创造价值的角色；(b) 将知识商品化的尝试，包括专家、学者等生产知识的过程；(c) 关于政治社群作为[[Knowledge-Based Economy|知识经济]]体表现的数据的持续收集(Moisio, 2018, p.9, p.39)
 - **两条地缘政治脉络的共构性**[[Classical Geopolitics|古典地缘政治]]和关系性地缘政治并非前后替代关系而是共构——如 RCEP 协议中既包含全球连接性的开放流动话语，又包含国家层面的权力博弈（中国的战略计算旨在超越美国主导的 TPP），两者共同构成当代地缘政治的实际运作逻辑(pp.37–38)
-- **[[Global Regionalisms|全球区域主义]]中的高等教育角色转变**：Robertson et al. (2016) 的研究实现了关键的[[Epistemology|认识论]]转向——从"国际组织如何影响教育"转向"教育项目如何参与想象和建构世界区域本身"——发现了高等教育在话语层面构成区域地缘政治想象的核心支柱。这种转向也揭示了区域之间的差异不仅是经济关系侧重点不同的结果，更是因为政治、文化和历史动态中介了制度形态和其他社会关系的性质(p.41)
-- **[[Global Education Industry|GEI]] 作为系统性[[Champ|场域]]**：GEI 不仅是一系列经济过程的集合，更是一个包含"自身过程、规则系统和社会力量"的独立运作领域(Verger et al., 2016, p.4)。其"建立在以经济为基础的立论基础上"的概念已成为全球教育改革和重组的普遍话语资源(pp.42–43)
+- **[[Global Regionalisms|全球区域主义]]中的高等教育角色转变** Robertson et al. (2016) 的研究实现了关键的[[Epistemology|认识论]]转向——从"国际组织如何影响教育"转向"教育项目如何参与想象和建构世界区域本身"——发现了高等教育在话语层面构成区域地缘政治想象的核心支柱。这种转向也揭示了区域之间的差异不仅是经济关系侧重点不同的结果，更是因为政治、文化和历史动态中介了制度形态和其他社会关系的性质(p.41)
+- **[[Global Education Industry|GEI]] 作为系统性[[Champ|场域]]** GEI 不仅是一系列经济过程的集合，更是一个包含"自身过程、规则系统和社会力量"的独立运作领域(Verger et al., 2016, p.4)。其"建立在以经济为基础的立论基础上"的概念已成为全球教育改革和重组的普遍话语资源(pp.42–43)
 - **IEHs 作为治理理性转换的信号** 高等教育治理的基本理性正从社会/教育范畴（可及性、公平、质量、开放研究）转向经济范畴（收入创造、可专利的非开放研究、竞争力）(pp.44–45)
 - **Minerva 项目作为"场所无涉"想象的原型** Minerva 展示了知识地缘政治在机构层面的物质化——一个具有弥赛亚式使命（"为了世界的利益"）的全球营利性大学，结合教育技术乌托邦主义、风险资本和全球学生流动(pp.45–48)
 

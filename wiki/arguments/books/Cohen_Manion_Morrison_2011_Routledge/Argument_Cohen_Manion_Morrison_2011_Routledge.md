@@ -23,6 +23,7 @@ citation: ""
 citation_aliases:
   - "Cohen et al., 2011a"
   - "Cohen et al. (2011a)"
+publication_place: "London"
 tags:
   - method/research-methods
   - source/textbook

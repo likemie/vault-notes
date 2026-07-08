@@ -25,7 +25,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
-  - "[[Infrastructures of (Im)mobility]]"
+  - "[[Infrastructures of Immobility|Infrastructures of (Im)mobility]]"
   - "[[Space Production]]"
   - "[[Governmentality]]"
   - "[[Knowledge Production]]"
@@ -100,7 +100,7 @@ journal: "高等教育研究"
 > [!concept-lens] 阅读透镜
 > - **对象** 国际文献中高等教育地缘政治视角的发展脉络、关键议题和理论范式演化。
 > - **张力** 传统地缘政治（物质性、国家中心、空间为竞争容器）与新地缘政治（观念性、[[Constructivist Paradigm|建构主义]]、空间为社会建构）之间的本体论张力。
-> - **贡献** 首次在中文文献中系统整合空间、权力与高等教育的[[Analytic Framework|分析框架]]，将[[Epistemology|认识论]]治理、[[Infrastructures of (Im)mobility|流动基础设施]]、[[Space Production|空间生产]]等概念引入高等教育研究体系。
+> - **贡献** 首次在中文文献中系统整合空间、权力与高等教育的[[Analytic Framework|分析框架]]，将[[Epistemology|认识论]]治理、[[Infrastructures of Immobility|流动基础设施]]、[[Space Production|空间生产]]等概念引入高等教育研究体系。
 
 ---
 
@@ -362,7 +362,7 @@ journal: "高等教育研究"
 #### 流动基础设施概念：制度性空间的筛选机制
 
 > [!claim] 海外分校既是知识与人才流通的节点，也是流动限制与筛选的场所
-> [[Infrastructures of (Im)mobility|流动基础设施]]（infrastructures of (im)mobility）概念最初来源于移民研究（Xiang & Lindquist, 2014; Lin et al., 2017），经济地理学家克莱伯特（J. Kleibert）在跨境高等教育研究中应用并发展了它（Kleibert, 2018, 2020）。制度性与空间性因素——签证机制、地理区位、话语规范等——可以协同运作，实现对跨境流动的引导、规训与筛选。流动基础设施有两种形态：
+> [[Infrastructures of Immobility|流动基础设施]]（infrastructures of (im)mobility）概念最初来源于移民研究（Xiang & Lindquist, 2014; Lin et al., 2017），经济地理学家克莱伯特（J. Kleibert）在跨境高等教育研究中应用并发展了它（Kleibert, 2018, 2020）。制度性与空间性因素——签证机制、地理区位、话语规范等——可以协同运作，实现对跨境流动的引导、规训与筛选。流动基础设施有两种形态：
 > - **物质性** 奖学金分配系统等
 > - **制度性** 国际办学网络、签证制度等
 >
@@ -550,7 +550,7 @@ journal: "高等教育研究"
 
 > [!finding-cards] 核心发现
 > 1. **[[Geopolitics of Higher Education|高等教育的地缘政治]]研究经历从相对不可见到非自觉再到自觉的演变** 在[[Classical Geopolitics|古典地缘政治]]阶段，高等教育不被视为独立分析对象（缺乏概念工具）；冷战时期，它仅被理解为国家战略的附属工具；冷战结束后，非自觉的研究用中心-边缘理论描述不平等但未追溯到地缘政治理论；近年来的自觉研究主动引入[[Critical Geopolitics|批判地缘政治]]和[[Space Production|空间生产]]理论（pp.3–6）。
-> 2. **四项关键议题共享空间与权力的分析逻辑** 人的培养（从人力资本到[[Geopolitical Subject|地缘政治主体]]性生产，涉及政府、教育机构和课程教学三个层面）、[[Knowledge Production|知识生产]]（[[Epistemology|认识论]]殖民到认识论治理，通过排名、出版平台和学者自我[[Disciplina and Doctrina|规训]]三层机制再生产全球知识等级）、学术流动（从个体选择到被流动的地缘政治实践，引入[[Infrastructures of (Im)mobility|流动基础设施]]概念分析制度性筛选机制）、跨境合作（从[[Soft Power|软实力]]到[[Knowledge Diplomacy|知识外交]]到空间项目，揭示不同国家的差异化空间策略）。四项议题共同揭示高等教育如何通过其核心功能参与全球空间秩序的生产与再生产（pp.5–12）。
+> 2. **四项关键议题共享空间与权力的分析逻辑** 人的培养（从人力资本到[[Geopolitical Subject|地缘政治主体]]性生产，涉及政府、教育机构和课程教学三个层面）、[[Knowledge Production|知识生产]]（[[Epistemology|认识论]]殖民到认识论治理，通过排名、出版平台和学者自我[[Disciplina and Doctrina|规训]]三层机制再生产全球知识等级）、学术流动（从个体选择到被流动的地缘政治实践，引入[[Infrastructures of Immobility|流动基础设施]]概念分析制度性筛选机制）、跨境合作（从[[Soft Power|软实力]]到[[Knowledge Diplomacy|知识外交]]到空间项目，揭示不同国家的差异化空间策略）。四项议题共同揭示高等教育如何通过其核心功能参与全球空间秩序的生产与再生产（pp.5–12）。
 > 3. **传统地缘政治与[[New Geopolitics|新地缘政治]]在空间观、权力观和高等教育角色上存在根本性[[Ontology|本体论]]差异，但当代呈现复合嵌套形态** 传统[[Paradigm|范式]]将空间视为客观地理实体、权力体现为军事控制，新范式将空间视为社会建构、权力体现为知识与话语的空间秩序塑造能力。当代研究在吸收批判地缘政治成果的基础上重新纳入物质性与安全议题的分析（pp.11–13）。
 > 4. **空间生产三元维度（物质性、表征性、关系性）为整合分析提供框架** 该框架能够同时容纳传统地缘政治对物质权力的关切和新地缘政治对空间建构的分析，将高等教育空间实践分解为制度装置的物质布局、象征等级的合法性生产和行动者网络的动态协商三个彼此嵌套的维度（pp.12–13）。
 

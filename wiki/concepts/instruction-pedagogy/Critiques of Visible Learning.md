@@ -209,7 +209,7 @@ Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] �
 > [!critique] 五大核心批评
 > - **研究质量未被评估** Hattie 声称"不是一本关于研究批评的书"，但任何未排除低质量研究的[[Meta-analysis|元分析]]都是误导性的——"垃圾进垃圾出"（Eysenk）（p. 94–95）。Hattie 在处理 charter schools 和 learning styles 时选择性排除低质量研究，暴露了其标准的不一致（p. 95）。
 >
-> - **[[Effect Size|效应量]] $d=0.40$ 截断值武断**：0.4 的关节点选择任意，小效应量在高质量大规模研究中意义重大——医学中阿司匹林降低心脏病风险的效应量仅 $d=0.07$，却意味着每 1000 人拯救 34 人（p. 99）。Hattie 本人在户外教育的"跟进"效应中因效应量 $0.17$ 而兴奋，暴露了其阈值应用的不一致（p. 99–100）。
+> - **[[Effect Size|效应量]] $d=0.40$ 截断值武断** 0.4 的关节点选择任意，小效应量在高质量大规模研究中意义重大——医学中阿司匹林降低心脏病风险的效应量仅 $d=0.07$，却意味着每 1000 人拯救 34 人（p. 99）。Hattie 本人在户外教育的"跟进"效应中因效应量 $0.17$ 而兴奋，暴露了其阈值应用的不一致（p. 99–100）。
 >
 > - **社会背景被系统性排除** Hattie 选择性地搁置阶级、贫困、家庭资源、健康和营养，但这些因素解释 **70–80%** 的校间差异（Gray, Jesson & Jones, 1986; Harker, 1995）（p. 98）。Snook 区分了两类"学校效应"研究——比较社会[[Variable|变量]]与学校变[[Quantitative Research|量的研究]]（发现社会变量贡献 70–80%）vs 仅比较校内变量的研究（发现教师最重要）——政策制定者经常混淆这两类（p. 99）。
 >
@@ -228,7 +228,7 @@ Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡�
 
 #### 全语言在 VL 中的数据基础
 
-Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，在 VL 中占 **5 段文字、1.5 页**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 143]])。Hattie 报告的效应量 $d=0.06$ 是通过对四项元分析效应量进行简单算术平均得出：$(0.09+0.15+0.65+(-0.65))/4=0.06$([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 145]])。
+Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，在 VL 中占 **5 段文字、1.5 页([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 143]])**。Hattie 报告的效应量 $d=0.06$ 是通过对四项元分析效应量进行简单算术平均得出：$(0.09+0.15+0.65+(-0.65))/4=0.06$([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 145]])。
 
 > [!critique] 四项具体问题
 > - **分类错误** 四项"全语言"元分析中的第一项（Stahl & Miller, 1989）实际研究的是[[Language Experience Approach|语言经验法]]（Language Experience Approach）而非全语言。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl, McKenna & Pagnucco（1994）本人后来承认将两者等同是"时代错误的"（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 144–145]]）。
@@ -237,7 +237,7 @@ Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，�
 >
 >   Krashen（2002）后来详细论证 Jeynes & Littell 的多项效应量计算存在错误，并得出"几乎完全相反"的结论。但 VL 未提及此批评——与 VL 对其他元分析批判性[[Primary and Secondary Documents|次级文献]]的系统性忽略一致（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp. 146–147]]）。
 >
-> - **对正面发现的选择性修正**Gee（1995）报告全语言效应量 $d=+0.65$。Hattie 以三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。O'Connor 指出这是 **VL 800+ 元分析中唯一被 Hattie 通过选择性删除研究而修正效应量的案例**（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 148]]）。
+> - **对正面发现的选择性修正**Gee（1995）报告全语言效应量 $d=+0.65$。Hattie 以三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。O'Connor 指出这是 **VL 800+ 元分析中唯一被 Hattie 通过选择性删除研究而修正效应量的案例（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 148]]）**。
 >
 > 对于被删除的研究之一（Trachtenburg & Ferruggia, 1989，报告 $d=1.7$），O'Connor 论证其使用大书（Big Books）、儿童自选单词、基于学生语言聚焦字母-声音关系等方法与全语言框架完全一致——全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献。
 >
@@ -458,8 +458,8 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 "在对同一主题的评论进行总结时，通常会出现问题，即大部分主要研究已经找到了要总结的几篇评论。"
 
 > [!case] 重叠案例：基于网络的学习（重叠率 93%）
-> - **Olson & Wisher（2002）**：15 项主要研究
-> - **Sitzmann 等人（2006）**：涵盖其中 14/15 项，**重叠率 = 93%**
+> - **Olson & Wisher（2002）** 15 项主要研究
+> - **Sitzmann 等人（2006）** 涵盖其中 14/15 项，**重叠率 = 93%**
 > - Hattie 将二者作为独立来源纳入二级汇总——同一批受试者被重复计数
 
 > [!case] 重叠后果：未加权平均 $d = 0.59$ vs 正确加权 $d = 0.23$
@@ -485,7 +485,7 @@ Wecker 等人展示了正确加权如何改变效应量估计：
 > [!case] 权重计算案例："直接指导"主题（Haas, 2005）
 > - 元分析效应量 $d = 0.59$，$SD_d = 0.59$，$k = 19$
 > - **Hattie 的 $SE$** $SD_d/\sqrt{k} = 0.59/\sqrt{19} \approx 0.135$ → 权重 $w = 1/0.135^2 \approx 54.9$
-> - **正确的 $SE$**（基于主要[[Study Population and Sample|研究样本]]量）：$0.092$ → 权重 $w = 1/0.092^2 \approx 118.1$
+> - **正确的 $SE$（基于主要[[Study Population and Sample|研究样本]]量）** $0.092$ → 权重 $w = 1/0.092^2 \approx 118.1$
 > - **权重低估约 53%**——该元分析在二级加权中的影响力被系统性压缩
 
 > [!case] 排名剧变案例：基于网络的学习
@@ -665,7 +665,7 @@ Hattie (2009) 的反馈综合基于 23 项元分析（67,931 人），$d=0.73$�
 > |--------|:---:|---:|---:|------|
 > | Lysakowski & Walberg (1980) | ✗ | 4,842 | **1.17** | 39 种**强化技术（reinforcement techniques）**；Hattie 本人亦批评"奖励是否应被视为反馈值得怀疑" |
 > | Lysakowski & Walberg (1982) | ✗ | 15,689 | **0.97** | **线索、参与和纠正性强化**；聚焦教学策略而非反馈 |
-> | Kluger & DeNisi (1996) | ✓ | 12,652 | **0.38** | **反馈干预**（[[Feedback\|FI]]）——唯一符合 Hattie 定义；但 *d* 仅 0.38，且 **38% 效应为负** |
+> | Kluger & DeNisi (1996) | ✓ | 12,652 | **0.38** | **反馈干预（[[Feedback\|FI]]）**——唯一符合 Hattie 定义；但 *d* 仅 0.38，且 **38% 效应为负** |
 > | Witt et al. (2004) | ✗ | 24,474 | **1.15** | **教师即时性（verbal & nonverbal immediacy）**；"文本中未提及反馈"；22/34 项未发表 |
 > | Swanson & Lussier (2001) | ✗ | 5,104 | **1.12** | **考官辅助／动态评估**；研究考官在测试中提供的"线索、暗示或提示" |
 
@@ -673,7 +673,7 @@ Hattie (2009) 的反馈综合基于 23 项元分析（67,931 人），$d=0.73$�
 > 5 项中仅 Kluger & DeNisi（1996）与 Hattie 反馈定义一致——其效应量 **0.38** 不到综合结果（**0.73**）的一半。Hattie 将强化、线索、即时性、考官辅助统一纳入"反馈"汇总，**结论因此无效**。
 
 > [!case] Witt et al. (2004)：贡献最大却最不相关（Nielsen & Klitmøller, 2021, pp. 10–11）
-> Witt et al. 是 5 项中样本量最大、效应量最高的元分析（**N = 24,474**，***d* = 1.15**），却研究的是"教师语言和非语言即时性与学生情感、认知和感知学习结果的关系"——文本中**未提及反馈**（Witt et al., 2004, p. 150）。
+> Witt et al. 是 5 项中样本量最大、效应量最高的元分析（**N = 24,474**，***d* = 1.15**），却研究的是"教师语言和非语言即时性与学生情感、认知和感知学习结果的关系"——文本中**未提及反馈（Witt et al., 2004, p. 150）**。
 >
 > 逐项抽查 3 项基础研究，均未明确涉及反馈：
 > - **Chesebro & McCroskey (2001)** 研究接收者焦虑
@@ -923,7 +923,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 作者指出 Hattie 自己明确表示**数据不是重点，理论综合才是**。Hattie 承认：*"我是一名测量研究者，我是统计学家，我不是理论家……但我当然有一个非常强大的教学模型"*（原文：*"I am a measurement researcher, I am a statistician, I am not a theoretician... But of course I have a very strong model of teaching"*）([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p. 259, cited in Nielsen & Klitmøller, 2021, p. 80]])。但 Hattie 所称的"理论"实际上是一种"无意识理论"（unconscious theory, Costall, 2013）——它虽未被明确阐述，却对 VL 施加了巨大影响。
 
-作者论证这个"无意识理论"的内核是 [[Technical Rationality|技术理性]]（Technical Rationality）（Schön, 1983, 1987）。技术理性是**[[Positivism|实证主义]]的遗产**（Nielsen & Klitmøller, 2021, pp. 81–82）：
+作者论证这个"无意识理论"的内核是 [[Technical Rationality|技术理性]]（Technical Rationality）（Schön, 1983, 1987）。技术理性是**[[Positivism|实证主义]]的遗产（Nielsen & Klitmøller, 2021, pp. 81–82）**
 
 > [!citation-card]- Schön, 1983, p. 31（引自 Nielsen & Klitmøller, 2021, p. 82）
 > *"技术理性是实证主义的遗产。实证主义是一种强大的哲学学说，兴起于十九世纪，既是对科学与技术崛起的解释，也是一场旨在将科学与技术成就应用于人类福祉的社会运动。"*
@@ -953,7 +953,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 **第三步：合法化危机的结构性矛盾**
 
-Habermas（1976, 1984）论证这一转变不可避免地引发合法化危机，因为现代国家机构面临**两个利益对立的主人的矛盾**（Nielsen & Klitmøller, 2021, pp. 85–86）：
+Habermas（1976, 1984）论证这一转变不可避免地引发合法化危机，因为现代国家机构面临**两个利益对立的主人的矛盾（Nielsen & Klitmøller, 2021, pp. 85–86）**
 
 > [!tension] 合法化危机的结构性矛盾：两个利益对立的主人
 > - **市场的特殊利益** — 教育系统需要培养具备特定技能的劳动力，以维持国家经济竞争力
@@ -963,7 +963,7 @@ Habermas（1976, 1984）论证这一转变不可避免地引发合法化危机�
 
 **第四步：系统对生活世界的殖民化**
 
-Habermas（1984）将此过程理论化为**系统（system）对生活世界（lifeworld）的殖民化**（Nielsen & Klitmøller, 2021, pp. 85–86）：
+Habermas（1984）将此过程理论化为**系统（system）对生活世界（lifeworld）的殖民化（Nielsen & Klitmøller, 2021, pp. 85–86）**
 
 > [!critique-logic] 系统对生活世界的殖民化：三重机制
 > - **生活世界（lifeworld）** — 由交往理性（communicative rationality）治理，涉及公民的意义生产、动机维持和身份认同。*"The communicative lifeworld is governed by a struggle for consensus"*（p. 86）
@@ -974,9 +974,9 @@ Habermas（1984）将此过程理论化为**系统（system）对生活世界（
 
 #### 论证步骤四：Hattie 的 VL 如何回应合法化危机
 
-**合法化危机的核心需求** 在共识理性失效后，教育系统需要一种**新的方式**向公众证明其存在的合理性和运作的有效性。[[PISA]] 提供了跨国排名和问责的外部框架，但**没有提供"如何改进"的操作方案**（Nielsen & Klitmøller, 2021, p. 82）。
+**合法化危机的核心需求** 在共识理性失效后，教育系统需要一种**新的方式**向公众证明其存在的合理性和运作的有效性。[[PISA]] 提供了跨国排名和问责的外部框架，但**没有提供"如何改进"的操作方案（Nielsen & Klitmøller, 2021, p. 82）**。
 
-**Hattie 的回应**（Nielsen & Klitmøller, 2021, pp. 86–88）：
+**Hattie 的回应（Nielsen & Klitmøller, 2021, pp. 86–88）**
 
 **(1) VL 提供了一套"统一的教学理论"，直接回应了合法化需求的三个层面：**
 
@@ -1147,9 +1147,9 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 
 > [!critique] 角度一：方法论不透明——"Bullying by Numbers"
 > Johnson & Janzen 对 Hattie 的[[Meta-meta-analysis|元-元分析]]方法论进行了从读者视角的透明度批判（详见 [[Argument_Johnson_2023_CE]]）：
-> - **[[Homework]] 效应的逐步解构**：Hattie 仅用一段话解释方法——综合 5 项[[Meta-analysis|元分析]]（161 项研究、100K+ 学生）→ $d=0.29$。通过手动搜索附录 A，Johnson & Janzen 找到 5 个被隐藏的 d 值（$0.36, 0.21, 0.39, 0.21, 0.28$），确认算术平均为 $0.29$——但指出这在方法论上是无加权、无质量评估的简单平均（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 25–26]]）
+> - **[[Homework]] 效应的逐步解构** Hattie 仅用一段话解释方法——综合 5 项[[Meta-analysis|元分析]]（161 项研究、100K+ 学生）→ $d=0.29$。通过手动搜索附录 A，Johnson & Janzen 找到 5 个被隐藏的 d 值（$0.36, 0.21, 0.39, 0.21, 0.28$），确认算术平均为 $0.29$——但指出这在方法论上是无加权、无质量评估的简单平均（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 25–26]]）
 > - **Homework 内部的极端变异性** $d=0.29$ 掩盖了小学 $d=0.15$ vs 高中 $d=0.64$ 的巨大差异——高中作业若单独排名可达 17/138（pp. 26–27）
-> - **Glass & Smith (1979) [[Effect Size|效应量]]提取不透明**：VL 从此元分析提取的 $d=0.09$ 并非原作者报告的值，且与原文的明确结论（40 人与 1 人之间相差超过 30 百分位等级）严重矛盾（pp. 32–33）
+> - **Glass & Smith (1979) [[Effect Size|效应量]]提取不透明** VL 从此元分析提取的 $d=0.09$ 并非原作者报告的值，且与原文的明确结论（40 人与 1 人之间相差超过 30 百分位等级）严重矛盾（pp. 32–33）
 > - **方法论不透明定性** *"我们认为这种不透明的方法论陈述有悖科学探究的精神"*（*"We view this opaque exposition of methodology as outside the spirit of scientific inquiry"*）（p. 26）
 
 > [!critique] 角度二：[[Neo-Taylorism|新泰勒主义]]——教师监视与去专业化
@@ -1157,7 +1157,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > - **asTTle 的全景设计**Hattie 等（2003）明确写道*"允许管理者监控全校六个科目的 asTTle 使用情况"*——VL 的气压计图形直接进口自此工具（p. 28）
 > - **Hattie 对教师的贬低** 记录 Hattie 在 VL 中将教学定性为*"不成熟的职业"*、将教师的故事贬为*"战争故事和轶事"*的多处原文（pp. 28–29）
 > - **贬低修辞服务于私有化议程** 如果教学可被打造为不成熟、不专业、简单和技术性的，对教师及其工会的支持就会软化，私人利益便以*"廉价解决方案"*的承诺渗透（p. 29）
-> - **澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 的实施后果**：在基于 VL 的 HITS 实施地区，教师被强迫执行 简单化的表演性技术操作（如在课前将课题写在白板上），教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022; Wescott, 2022）（pp. 29–30）
+> - **澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 的实施后果** 在基于 VL 的 HITS 实施地区，教师被强迫执行 简单化的表演性技术操作（如在课前将课题写在白板上），教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022; Wescott, 2022）（pp. 29–30）
 
 > [!critique] 角度三：新自由主义商业化——经济利益追踪
 > Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了[[Conflict of Interest in Research|利益冲突]]、[[Class Size|班级规模]]作为 [[Global Education Reform Movement|GERM]] 紧缩工具、以及*"饥饿-危机-私有化"*循环。详见 [[Visible Learning Branding and Global Influences]]。

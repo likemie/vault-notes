@@ -3,7 +3,9 @@ summary: "产学合作中数据的定义、所有权与使用权的法律区分�
 type: argument
 authors:
   - "Brock, E. L."
-citation: "Brock, E. L. (2025). Data: Access, generation, use. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 289–307). Springer."
+citation: "Brock, E. L. (2025). Data: Access, generation, use. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 289–307). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/research-governance"

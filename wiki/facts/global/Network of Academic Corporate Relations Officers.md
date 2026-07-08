@@ -57,9 +57,9 @@ updated: 2026-05-28
 ## 概念辨析
 
 > [!example]
-> **vs [[University Industry Demonstration Partnership|UIDP]]**：UIDP 聚焦于[[University-Industry Collaboration|产学合作]]的合同、协议和操作性问题的解决（如 Contract Accords 和 [[Partnership Continuum|伙伴关系连续体]]）；NACRO 则聚焦于大学企业关系职能本身的专业化——即企业关系官应如何组织、应具备哪些能力、如何获得制度支持。
+> **vs [[University Industry Demonstration Partnership|UIDP]]** UIDP 聚焦于[[University-Industry Collaboration|产学合作]]的合同、协议和操作性问题的解决（如 Contract Accords 和 [[Partnership Continuum|伙伴关系连续体]]）；NACRO 则聚焦于大学企业关系职能本身的专业化——即企业关系官应如何组织、应具备哪些能力、如何获得制度支持。
 >
-> **vs [[University Industry Innovation Network|UIIN]]**：UIIN（University Industry Innovation Network）侧重产学创新的网络建设和知识分享；NACRO 则更具行业协会色彩，以白皮书和标准制定为主要工作方式。
+> **vs [[University Industry Innovation Network|UIIN]]** UIIN（University Industry Innovation Network）侧重产学创新的网络建设和知识分享；NACRO 则更具行业协会色彩，以白皮书和标准制定为主要工作方式。
 
 ---
 

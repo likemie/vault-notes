@@ -107,7 +107,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 >
 > 1. **研究者身份** 明确说明谁在开展这项研究
 > 2. **资助机构身份** 说明研究的资助方或隶属机构
-> 3. **[[Research Purpose|研究目的]]**：用通俗语言说明研究的总体目标
+> 3. **[[Research Purpose|研究目的]]** 用通俗语言说明研究的总体目标
 > 4. **参与收益** 说明参与者可以从研究中获得什么
 > 5. **参与程度和类型** 说明参与者需要做什么、花多少时间
 > 6. **潜在风险声明** 如实告知可能的风险
@@ -202,7 +202,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 ## 敏感研究中的知情同意
 
-在[[Sensitive Research|敏感研究]]中，知情同意的伦理张力被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 210–212]]）。
+在[[Sensitive Research|敏感研究]]中，知情同意的伦理张力被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 210–212]]）。
 
 > [!tension] 知情同意 vs [[Research Practicability|研究可行性]]
 > - **知情同意作为不可协商的底线** 不获得知情同意可能导致参与者感到被欺骗、被剥削和被利用。当研究结果最终发表、参与者意识到自己未经同意就被研究时，研究者被视为捕食者（Lee, 1993, p. 157），利用研究作为地位和职业晋升的工具。

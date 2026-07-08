@@ -134,8 +134,8 @@ updated: '2026-06-19'
 
 > [!method-limits] 方法局限
 > - **“糟糕随机化”导致的统计偏误风险** 当实验[[Sample Size Determination|样本量]]较小或学校自主选择性退出时，随机分配极易失衡，造成“糟糕的随机化”（Bad Randomisation）。此时干预组和控制组在前测阶段就存在显著的基线差异。如果简单采用平均后测得分差计算[[Effect Size|效应量]]（ES），会产生严重的“数据包装”偏误。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])
-> - **[[Causality|因果]]归因的“黑箱化”**：随机分配将复杂的教学过程简化为输入（干预项目）和输出（效应量）的对比，却无法诊断“为什么”学生会产生困难，也过滤掉了教师的推理和情境脉络，将因果机制置于统计黑箱之中。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6]])
-> - **实验室“封闭系统”[[Hypothesis|假设]]与教育“开放系统”现实的冲突**：随机分配的哲学前提是能像物理实验室那样隔离外界干扰（封闭系统）。但在现实教育系统（开放系统）中，外部政策、学校文化、[[Student-Teacher Relationship|师生关系]]的[[Emergence|涌现]]性因果力量无处不在。完美的随机分配只是一个无法在现实中完整复制的“休谟式规则性”幻象。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
+> - **[[Causality|因果]]归因的“黑箱化”** 随机分配将复杂的教学过程简化为输入（干预项目）和输出（效应量）的对比，却无法诊断“为什么”学生会产生困难，也过滤掉了教师的推理和情境脉络，将因果机制置于统计黑箱之中。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6]])
+> - **实验室“封闭系统”[[Hypothesis|假设]]与教育“开放系统”现实的冲突** 随机分配的哲学前提是能像物理实验室那样隔离外界干扰（封闭系统）。但在现实教育系统（开放系统）中，外部政策、学校文化、[[Student-Teacher Relationship|师生关系]]的[[Emergence|涌现]]性因果力量无处不在。完美的随机分配只是一个无法在现实中完整复制的“休谟式规则性”幻象。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 
 > [!critique-method] Fresh Start 案例解构：随机化失败的实证证据
 > 英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）曾对一项针对中一阅读困难学生的拼读干预项目（Fresh Start）进行[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCTs）评估，其行政摘要宣称项目带来了 $+0.24$ SD 的效应量（相当于 3 个月额外进步），并将该项目奉为循证黄金标准。

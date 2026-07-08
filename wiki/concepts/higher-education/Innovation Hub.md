@@ -44,7 +44,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
   - "[[University City Science Center]]"
-  - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
 related_arguments:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
@@ -76,16 +76,16 @@ updated: 2026-05-28
 ## 概念辨析
 
 > [!example]
-> **vs [[Innovation Ecosystem]]（创新生态系统）**：创新生态系统是更广泛的概念，指人际和组织通过互动进行创新的网络，不一定是人为设计和管理的。创新中心是创新生态系统中一种有意识设计和制度化的组织形态，可以理解为创新生态系统的"引擎房"。
+> **vs [[Innovation Ecosystem]]（创新生态系统）** 创新生态系统是更广泛的概念，指人际和组织通过互动进行创新的网络，不一定是人为设计和管理的。创新中心是创新生态系统中一种有意识设计和制度化的组织形态，可以理解为创新生态系统的"引擎房"。
 
 > [!example]
-> **vs [[Innovation Park]]（研究园区／科技园区）**：研究园区侧重为科技企业提供物理空间和基础设施。创新中心更侧重组织利益相关者之间的协作关系和共同研究议程，物理设施只是其中一部分。但在实践中两者高度重叠——[[TUFF]] 同时为研究园区和创新中心提供开发服务，成功的研究园区通常同时是活跃的创新中心([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
+> **vs [[Innovation Park]]（研究园区／科技园区）** 研究园区侧重为科技企业提供物理空间和基础设施。创新中心更侧重组织利益相关者之间的协作关系和共同研究议程，物理设施只是其中一部分。但在实践中两者高度重叠——[[TUFF]] 同时为研究园区和创新中心提供开发服务，成功的研究园区通常同时是活跃的创新中心([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
 
 > [!example]
-> **vs [[University-Based Research Center|大学研究型中心]]**：大学研究型中心以一所大学为主办方，研究议程由大学确定后产业成员加入。创新中心通常有多方发起者（大学、企业、政府），愿景是共同制定的而非大学单方面设定的([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.108–113]])。
+> **vs [[University-Based Research Center|大学研究型中心]]** 大学研究型中心以一所大学为主办方，研究议程由大学确定后产业成员加入。创新中心通常有多方发起者（大学、企业、政府），愿景是共同制定的而非大学单方面设定的([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.108–113]])。
 
 > [!example]
-> **vs 企业联盟计划（[[Industry Affiliate Program]]）**：企业联盟计划以会员费为纽带、以研究社区接入为核心价值；创新中心以大规模共同投资为基础、以区域经济转型为核心目标([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.108–113]])。
+> **vs 企业联盟计划（[[Industry Affiliate Program]]）** 企业联盟计划以会员费为纽带、以研究社区接入为核心价值；创新中心以大规模共同投资为基础、以区域经济转型为核心目标([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.108–113]])。
 
 > [!example]
 > **vs 创新区（Innovation District）** 创新区是更侧重城市规划和房地产的概念，指创新驱动型企业和机构在特定城区的地理集聚。创新中心可以位于创新区内，但创新中心更强调制度化的协调机制和共同研究议程，而非单纯的地理邻近([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.125, 137]])。
@@ -171,7 +171,7 @@ updated: 2026-05-28
 > 创新中心的研究和[[Document|文献]]支撑来自多个学科方向([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.125–126]])：
 
 - **[[Triple Helix]]**（Etzkowitz & Leydesdorff, 1995）：大学-产业-政府三者之间的反馈循环，解释了创新中心为何需要三方同时在场
-- **利益相关者理论**（Stakeholder Theory, Freeman, 1984）：最初用于量化企业在利益相关者网络中的商业回报。采用整体性网络建设方法的[[Innovation Park|研究园区]]似乎更有效地利用区域资源，也遇到更少的行政障碍（Darmody & Bendis, 2021）
+- **利益相关者理论（Stakeholder Theory, Freeman, 1984）** 最初用于量化企业在利益相关者网络中的商业回报。采用整体性网络建设方法的[[Innovation Park|研究园区]]似乎更有效地利用区域资源，也遇到更少的行政障碍（Darmody & Bendis, 2021）
 - **地点基础因素（Place-based factors）** 文化、经济和学术特征显著影响[[University-Industry Collaboration|产学合作]]的形式和基础设施，确认了不存在"一刀切"的成功模型（Rissola et al., 2019）
 
 > [!abstract]
@@ -226,16 +226,16 @@ updated: 2026-05-28
 > **[[Kendall Square|CIC]]/肯德尔广场**（1999 年成立）：作为独立机构推动联合办公和跨校协同研发，同时作为协调化的创业生态系统，通过社交和专业活动中心推动早期开发与投资。已拥有超过 10,000 家客户组织，客户累计吸引投资超过 170 亿美元（p.128）。
 
 > [!example]
-> **[[Purdue Discovery Park|普渡发现园]]**：利用未充分利用的房地产起步，Lilly Endowment 和印第安纳州各约 1500 万美元初始投资，吸引了 Bayer、Rolls-Royce 和 Saab 等产业伙伴。如今发展为超过 10 亿美元的 Discovery District，涵盖纳米技术和先进计算等领域（p.132）。
+> **[[Purdue Discovery Park|普渡发现园]]** 利用未充分利用的房地产起步，Lilly Endowment 和印第安纳州各约 1500 万美元初始投资，吸引了 Bayer、Rolls-Royce 和 Saab 等产业伙伴。如今发展为超过 10 亿美元的 Discovery District，涵盖纳米技术和先进计算等领域（p.132）。
 
 > [!example]
 > **[[Central Florida Research Park|中佛罗里达研究园]]**（1978 年建立）：1993 年海军空战中心训练系统部迁入后，大学和州政府持续投资吸引国防部租户，现拥有超过 9,500 名雇员和 Northrop Grumman、Boeing 等主要国防承包商。UCF 研发支出十年翻番（p.132）。
 
 > [!example]
-> **[[University City Science Center|大学城科学中心]]（费城）**：利用非营利结构创建激励创业者关系发展的项目，聚焦费城本地相对优势，后建实体空间集中创业者、学者和产业伙伴。建有全面的整合传播策略，官网面向六类受众（pp.126–127, 133）。
+> **[[University City Science Center|大学城科学中心]]（费城）** 利用非营利结构创建激励创业者关系发展的项目，聚焦费城本地相对优势，后建实体空间集中创业者、学者和产业伙伴。建有全面的整合传播策略，官网面向六类受众（pp.126–127, 133）。
 
 > [!example]
-> **[[Advanced Manufacturing Research Centre (AMRC)|AMRC]] 园区（谢菲尔德大学）**：随 AMRC 发展，波音等主要产业伙伴在园区建立制造工厂，形成集研究-培训-制造为一体的创新中心([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.115–116]])。
+> **[[Advanced Manufacturing Research Centre|AMRC]] 园区（谢菲尔德大学）** 随 AMRC 发展，波音等主要产业伙伴在园区建立制造工厂，形成集研究-培训-制造为一体的创新中心([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.115–116]])。
 
 ---
 

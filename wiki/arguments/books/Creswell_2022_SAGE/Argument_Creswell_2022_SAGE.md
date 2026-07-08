@@ -16,7 +16,8 @@ authors:
   - "[[John W. Creswell|Creswell, J. W.]]"
   - "[[J. David Creswell|Creswell, J. D.]]"
 publisher: "SAGE Publications"
-citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications."
+citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). Thousand Oaks, CA: SAGE Publications."
+publication_place: "Thousand Oaks, CA"
 tags: [source/textbook]
 related_concepts:
   - "[[Crotty's Four Levels of Research Design]]"
@@ -199,7 +200,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-30
-updated: '2026-06-08'
+updated: 2026-07-08
 year: 2022
 doi: ""
 citation_aliases:
@@ -626,7 +627,7 @@ citation_aliases:
 - **女性主义视角（Feminist perspectives）** 视女性的压迫性处境及其制度框架为问题所在(Olesen, 2000)
 - **种族化话语（Racialized discourses）** 提出谁控制[[Knowledge Production|知识生产]]的问题，尤其关注有色人种群体(Ladson-Billings, 2000)
 - **批判理论视角（Critical theory perspectives）** 赋权人类超越种族、阶级和性别约束(Fay, 1987)
-- **[[Queer Theory|酷儿理论]]**（Queer theory）：聚焦 LGBTQ2A+ 个体身份，反对客体化(Gamson, 2000)
+- **[[Queer Theory|酷儿理论]]（Queer theory）** 聚焦 LGBTQ2A+ 个体身份，反对客体化(Gamson, 2000)
 - **残障探究（Disability inquiry）** 从社会文化视角理解残障人群(Mertens, 2009)
 
 Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联的主张：研究本质上涉及权力问题；研究报告由具有种族、性别、阶级和政治取向的个体所撰写；种族、阶级和性别（以及性取向、身体状况、第一语言等）对理解经验至关重要；传统研究历史上压制了受压迫和边缘化群体的声音(p.91)。
@@ -1492,7 +1493,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 2. **通读所有数据** 获得整体感知——参与者说了什么？思路基调如何？整体深度和可信度印象？
 3. **编码数据**Tesch(1990)的八步编码流程——从通读全稿获得整体感，到挑选文档逐行追问、形成话题清单、回数据检验编码、将话题转化为类别、确定最终缩写、按类别汇集分析、必要时重新编码。
 4. **识别主题** 将编码归并为五到七个主题，可以是场所描述或关于问题的主题，应展示多元视角和多样化引语。
-5. **发展[[Story Line|故事线]]解释**：将主题相互连接为故事线，呈现问题发展的编年史，可聚焦单一个体或群体。
+5. **发展[[Story Line|故事线]]解释** 将主题相互连接为故事线，呈现问题发展的编年史，可聚焦单一个体或群体。
 6. **使用分析框架进一步分析** 在 code-to-theme 基础上叠加叙事研究、现象学、扎根理论、民族志、案例研究等框架。
 7. **呈现和解释数据** 以叙事段落传达发现，辅以视觉模型、图表或表格。
 

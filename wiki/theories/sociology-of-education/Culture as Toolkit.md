@@ -76,7 +76,7 @@ updated: 2026-06-02
 
 ### 与价值观驱动范式的对比
 
-工具箱[[Paradigm|范式]]直接挑战了文化社会学中更古老的 Weber-Parsons **价值观驱动范式**([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])：
+工具箱[[Paradigm|范式]]直接挑战了文化社会学中更古老的 Weber-Parsons **价值观驱动范式([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])**
 
 | 维度 | 价值观驱动范式（Weber-Parsons） | 工具箱范式（Swidler, 1986） |
 |------|----------------------------------------|-------------------------------------|
@@ -92,7 +92,7 @@ updated: 2026-06-02
 ## 发展脉络
 
 > [!note]-
-> - **1986 [[Paradigm|范式]]挑战**：Swidler 在 *ASR* 发表 Culture in Action: Symbols and Strategies，以文化工具箱范式挑战 Weber-Parsons 价值观驱动范式的垄断地位。核心观察：人们对事物抱有的观念在很多情况下难以连贯地解释他们的行动（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Swidler, 1986）。
+> - **1986 [[Paradigm|范式]]挑战** Swidler 在 *ASR* 发表 Culture in Action: Symbols and Strategies，以文化工具箱范式挑战 Weber-Parsons 价值观驱动范式的垄断地位。核心观察：人们对事物抱有的观念在很多情况下难以连贯地解释他们的行动（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Swidler, 1986）。
 > - **1992 补充论证** Sewell 在 *AJS* 上进一步论证文化图式的可迁移性和[[External Validity|可推广性]]，强化了工具箱范式的理论基础（，引 Sewell, 1992）。
 > - **2009 Vaisey 调和** Stephen Vaisey 在 *AJS* 发表 Motivation and Justification，援引认知科学双过程理论论证两种范式在**不同意识层次**上互补运作——价值观驱动范式在深层无意识层面运作，工具箱范式在浅层有意识层面运作。详见 [[Dual-Process Model of Culture in Action]]（，引 Vaisey, 2009）。
 > - **2023 教育研究应用**[[Yajun Zheng|郑雅君]]在《金榜题名之后》中将该理论系统应用于中国精英大学学生出路分化分析，从 Swidler 的两种生活状态出发建构了 [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 的区分。

@@ -1,6 +1,7 @@
 ---
-title: Public Space (University Role)
+title: "University as Public Space"
 aliases:
+  - "Public Space (University Role)"
   - "大学公共空间角色"
   - "public space role of university"
 summary: "Lester（2005）提出的概念，指大学作为本地创新系统中中性的、持续对话的场所，催化不同行动者之间的互动，为技术、市场和产业未来方向的讨论提供平台，是大学常被低估的间接经济贡献"
@@ -34,7 +35,7 @@ created: 2026-06-10
 updated: 2026-06-10
 ---
 
-# Public Space (University Role)
+# University as Public Space
 
 ---
 ## 定义

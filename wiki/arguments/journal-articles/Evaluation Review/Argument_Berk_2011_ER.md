@@ -69,7 +69,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > Berk 不依赖单一理论框架，而是基于[[Evaluation Research|评估研究]]方法论的演进历史进行[[Reflexivity|反思性]]分析。他的论证锚定在：
-> - **[[Potential Outcomes Framework|潜在结果框架]]**（Neyman-Rubin-Holland-Pearl）作为[[Causality|因果]]效应定义的概念基础
+> - **[[Potential Outcomes Framework|潜在结果框架]]（Neyman-Rubin-Holland-Pearl）**作为[[Causality|因果]]效应定义的概念基础
 > - **Campbell & Stanley (1963)** 的四种效度框架作为实验设计评估的参照
 > - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（[[Daubert v Merrell Dow Pharmaceuticals 1993]]）
 
@@ -91,7 +91,7 @@ citation_aliases:
 > ### 2. 随机实验的优势与局限
 >
 > 随机实验的[[Internal Validity|内部效度]]优势被认可(Campbell, 1969; Campbell & Stanley, 1963)，但广泛使用导致两个不良后果：
-> - **集群[[Random Assignment|随机化]]问题**：随机化单位（教室）与政策兴趣单位（学生）不一致，导致[[Sample Size Determination|样本量]]不足、[[Stable Unit Treatment Value Assumption|SUTVA]] 违反——"单一的因果效应不再存在"(p.195)
+> - **集群[[Random Assignment|随机化]]问题** 随机化单位（教室）与政策兴趣单位（学生）不一致，导致[[Sample Size Determination|样本量]]不足、[[Stable Unit Treatment Value Assumption|SUTVA]] 违反——"单一的因果效应不再存在"(p.195)
 > - **非随机研究被断然否定** "这是一个严重错误"，因为内部效度只是多种效度之一——没有[[External Validity|外部效度]]，[[Randomised Controlled Trials|RCT]] 结果对政策毫无用处
 >
 > Berk 的平衡立场：RCT 的最强理由并非其方法论优越性，而是"比其它设计更能防止研究者犯严重的[[Type I and Type II Errors|统计错误]]"(p.196)——同时承认设计不如 RCT 但具有更好外部效度的观察性研究"有时可以提供有启发性的结果"。
@@ -118,8 +118,8 @@ citation_aliases:
 > 2. **垃圾科学的两类制造者** 一类不知道自己在做什么但使用表面特征；另一类明知故犯并使用表面特征掩盖(p.192)
 > 3. **不存在简单的解码装置** 任何易于实施的规则集都可能扼杀创新(pp.192–193)
 > 4. **随机实验的社会保护功能**[[Randomised Controlled Trials|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"(p.196)
-> 5. **[[Causal Modeling|因果建模]]的韧性**：尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"(p.197)
-> 6. **[[Meta-analysis|元分析]]被严重过度评价**：常规[[Literature Review|文献综述]]"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响
+> 5. **[[Causal Modeling|因果建模]]的韧性** 尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"(p.197)
+> 6. **[[Meta-analysis|元分析]]被严重过度评价** 常规[[Literature Review|文献综述]]"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响
 
 ## 关键引用
 
@@ -146,7 +146,7 @@ citation_aliases:
 >
 > 1. **中立专家委员会审查** 在有重要政策问题和矛盾证据时，由知识渊博的中立委员会（如美国国家科学院国家研究理事会）进行审查。Pew Charitable Trust 等基金会有时也支持独立小组或员工审查。
 >
-> 2. **团队[[Evaluation Research|评估研究]]**：评估研究最好由包含**真正具备统计程序专业知识**的个人的团队进行。Rand、MDRC 和 Mathematica 等大型研究公司通常尝试这样做——"当然不能保证在任一环境中所需的专业知识都会被恰当地代表，但至少存在一种可以让其发生的结构"(p.200)。
+> 2. **团队[[Evaluation Research|评估研究]]** 评估研究最好由包含**真正具备统计程序专业知识**的个人的团队进行。Rand、MDRC 和 Mathematica 等大型研究公司通常尝试这样做——"当然不能保证在任一环境中所需的专业知识都会被恰当地代表，但至少存在一种可以让其发生的结构"(p.200)。
 >
 > 3. **保持与"数据科学"同步** 评估研究者需要跟上统计学、计量经济学和计算机科学的发展。Berk 预测计算机科学将在未来十年对评估研究产生影响，正如统计学在 1970 年代所做的那样——"因为数据科学如此受到计算能力和大型数据集日益可用性的推动，变化将非常迅速地到来"。在社会科学的评估研究相关研究生培养中，至少需要硕士水平的数据科学训练。
 

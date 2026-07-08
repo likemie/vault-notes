@@ -81,17 +81,17 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Wrigley 的学术贡献集中在**对 [[Evidence-Based Education|EBE]] 方法论的多层次解构**：
+> Wrigley 的学术贡献集中在**对 [[Evidence-Based Education|EBE]] 方法论的多层次解构**
 >
 > 1. **三层批判框架** Wrigley 独特之处在于不只在 [[Randomised Controlled Trials|RCT]] 层面批判，而是追踪问题在**统计聚合的每一级被放大**——RCT 层面的简化在[[Meta-analysis|元分析]]中复合，在[[Meta-meta-analysis|元-元分析]]（Hattie / [[Education Endowment Foundation|EEF]] Toolkit）中进一步失真。
 >
-> 2. **[[Critical Realism|批判实在论]]视角**：Wrigley 引入 Bhaskar 的三层[[Ontology|本体论]]（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找[[Causality|因果]]机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
+> 2. **[[Critical Realism|批判实在论]]视角** Wrigley 引入 Bhaskar 的三层[[Ontology|本体论]]（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找[[Causality|因果]]机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
 >
 > 3. **新自由主义框架分析** Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的话语通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
 >
 > > "The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation." ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])
 >
-> 4. **"简单科学观"批判**（与 McCusker 合作，2019）：[[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 将批判从方法论层次提升至**科学哲学**层次——论证 EBT 倡导者的"科学"宣称依赖于一种过分简化的**民间科学观**（folk-view of science, Thomas, 2012, p. 28），它捕捉了科学的表面特征（实验、测量、统计）但缺乏对[[Scientific Method|科学方法]]的理论理解。通过 [[EEF Teaching and Learning Toolkit]] 体育参与条目的深度案例追踪，展示了元-元分析如何在多级统计聚合中系统性消除因果解释信息。详见 [[Argument_Wrigley_2019_ERE]]。
+> 4. **"简单科学观"批判（与 McCusker 合作，2019）** [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 将批判从方法论层次提升至**科学哲学**层次——论证 EBT 倡导者的"科学"宣称依赖于一种过分简化的**民间科学观（folk-view of science, Thomas, 2012, p. 28）**，它捕捉了科学的表面特征（实验、测量、统计）但缺乏对[[Scientific Method|科学方法]]的理论理解。通过 [[EEF Teaching and Learning Toolkit]] 体育参与条目的深度案例追踪，展示了元-元分析如何在多级统计聚合中系统性消除因果解释信息。详见 [[Argument_Wrigley_2019_ERE]]。
 >
 > > "It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science." ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 111]])
 
@@ -128,4 +128,4 @@ updated: '2026-06-08'
 > [!warning] 争议与批评
 > - **替代方案的具体性不足** Wrigley 推崇 Pawson 的"实在论综合"作为统计[[Meta-analysis|元分析]]的替代，但未讨论如何将其简化为一线教师可用的工具——实在论综合比"计算平均[[Effect Size|效应量]]并放入排名表"复杂得多。
 > - **对量化方法的全面不信任** 论文论证火力几乎全部指向统计方法的缺陷，在 [[Evidence-Based Education|EBE]] 辩论中容易被定位为"反量化"而非"方法多元"——尽管 Wrigley 明确承认"数字本身不是问题"。
-> - **[[ResearchED]] 分析的简化**：将 ResearchED 定性为服务于政府议程的"草根运动"可能低估了一线教师主动参与 ResearchED 的专业自主性。
+> - **[[ResearchED]] 分析的简化** 将 ResearchED 定性为服务于政府议程的"草根运动"可能低估了一线教师主动参与 ResearchED 的专业自主性。

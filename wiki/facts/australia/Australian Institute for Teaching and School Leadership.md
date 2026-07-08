@@ -93,7 +93,7 @@ updated: 2026-06-16
 > - **市场运作者 / 商业化视角** 标准的不断强化直接喂养了庞大的教育测评和认证商业链条，如 [[Australian Council for Educational Research|ACER]] 实施的 [[LANTITE]] 教师统考每年仅考试费就产生约 370 万澳元的营收。
 
 > [!tension] 争议焦点
-> - **巴金汉的“双重跨界与[[Policy Network|理念编排]]”**：巴金汉一方面长期担任右翼保守智库 [[Community Innovation Survey|CIS]] 的董事和高级研究员，该智库出资并出版了核心参考文献 Sweller (2021) 报告；另一方面，她同时担任 AITSL 的非执行董事。这为智库大纲的法定转换和官方合规把关构建了利益高度纠缠的通路。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **巴金汉的“双重跨界与[[Policy Network|理念编排]]”** 巴金汉一方面长期担任右翼保守智库 [[Community Innovation Survey|CIS]] 的董事和高级研究员，该智库出资并出版了核心参考文献 Sweller (2021) 报告；另一方面，她同时担任 AITSL 的非执行董事。这为智库大纲的法定转换和官方合规把关构建了利益高度纠缠的通路。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **大一统标准与“回应性教学”的智识矛盾** AITSL 大纲在强力灌输脑科学一统大纲与指定教材的同时，又在大纲中保留了“基于地方文化和情境的回应性教学”。批判学者指出，将复杂的教学活动机械化和客观真理化，与尊重本土特殊情境的回应性教学在理智和逻辑上是完全冲突且不可兼容的。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 6, p. 11]])
 
 ---

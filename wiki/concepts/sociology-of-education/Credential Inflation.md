@@ -57,7 +57,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Economy of Experience]] — 文凭通胀是**结构性条件**（文凭供给过剩），履历经济学是**行为后果**（学生被迫将课余生活工具化以积累[[Employability|就业力]]）。两者在[[Yajun Zheng|郑雅君]]（2023）分析中构成[[Causality|因果]]链——文凭通胀 → [[Soft Power|软实力]]竞争 → 履历经济学([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+> - vs [[Economy of Experience]] — 文凭通胀是**结构性条件**（文凭供给过剩），履历经济学是**行为后果（学生被迫将课余生活工具化以积累[[Employability|就业力]]）**。两者在[[Yajun Zheng|郑雅君]]（2023）分析中构成[[Causality|因果]]链——文凭通胀 → [[Soft Power|软实力]]竞争 → 履历经济学([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 > - vs [[Employability]] — 文凭通胀是就业力从绝对概念转向相对概念的结构性前提：当大学文凭的交换价值缩水，就业力的比较性竞争加剧（，引 Brown, 2003）
 > - vs Lucas 的"有效维持的不平等"（EMI）— 文凭通胀与 EMI [[Hypothesis|假设]]互补：当某一级教育的数量饱和后，竞争转向质量维度（重点中学、声望更高的大学、热门专业），不平等在教育[[Champ|场域]]的更精英层级继续维持
 
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 
 > [!note]-
 > - **1979 提出** Collins 在 *The Credential Society* 中提出文凭通胀概念，论证教育扩张并不一定促进社会流动，反而可能导致文凭的交换价值缩水（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Collins, 1979）
-> - **2003–2004 [[Employability|就业力]]转向**：Brown & Hesketh 将文凭通胀的逻辑延伸至就业力分析——当硬通货缩水，[[Soft Power|软实力]]成为新的竞争维度，"就业力的个人化"由此兴起（，引 Brown & Hesketh, 2003, 2004）
+> - **2003–2004 [[Employability|就业力]]转向** Brown & Hesketh 将文凭通胀的逻辑延伸至就业力分析——当硬通货缩水，[[Soft Power|软实力]]成为新的竞争维度，"就业力的个人化"由此兴起（，引 Brown & Hesketh, 2003, 2004）
 > - **2023 中国经验数据**[[Yajun Zheng|郑雅君]]以中国 1999 年扩招以来的数据验证文凭通胀的逻辑——2011–2020 年间中国高等教育毕业生累计约一亿人，普通高校毕业生约 7000 万人
 
 ---

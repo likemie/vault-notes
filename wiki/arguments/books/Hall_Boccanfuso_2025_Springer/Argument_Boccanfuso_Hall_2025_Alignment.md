@@ -4,7 +4,9 @@ authors:
   - "Hall, R."
 summary: "以2024年诺贝尔奖为引，论证产学合作的三重回报框架，分析大学与企业目标对齐的结构性挑战，通过历史追溯和UIDP案例说明如何克服障碍实现界面上的创新"
 type: argument
-citation: "Boccanfuso, A., & Hall, R. (2025). Alignment, Engagement, and Public Benefits. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 3–23). Springer."
+citation: "Boccanfuso, A., & Hall, R. (2025). Alignment, Engagement, and Public Benefits. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 3–23). Cham: Springer."
+publication_place: "Cham"
+publisher: "Springer"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
@@ -39,7 +41,7 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[National Science Foundation]]"
-  - "[[Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[San Francisco Bay Area]]"
@@ -52,7 +54,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-26
-updated: '2026-06-08'
+updated: 2026-07-08
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_Alignment"
@@ -162,7 +164,7 @@ citation_aliases:
 
 四个案例展示了产学合作的可能性和多样性(pp.7–8)：
 - **IBM-斯坦福** 合作研发无需铂等贵金属的催化技术，发现了回收 PET 塑料瓶和聚酯纤维的新方法
-- **波音-谢菲尔德大学** 建立[[Advanced Manufacturing Research Centre (AMRC)|先进制造研究中心]]（AMRC），截至 2024 年拥有 600+ 研究人员、120+ 行业成员、年经费约 4000 万英镑
+- **波音-谢菲尔德大学** 建立[[Advanced Manufacturing Research Centre|先进制造研究中心]]（AMRC），截至 2024 年拥有 600+ 研究人员、120+ 行业成员、年经费约 4000 万英镑
 - **Houston Methodist-Medtronic** 合作开展经导管主动脉瓣置换术（TAVR）的临床试验，改变了心脏瓣膜修复的[[Paradigm|范式]]
 - **Mars-UC Davis-阿肯色大学** 合作研究水稻"干湿交替"（AWD）灌溉技术，显著减少用水和温室气体排放而不减产
 
@@ -223,8 +225,8 @@ citation_aliases:
 
 美国大学体系为何特别有利于产学合作？几个关键节点(pp.11–12)：
 
-- **1862 年 [[Morrill Land-Grant Act of 1862|Morrill Act]]（赠地法案）**：将高等教育从精英的"精修学校"扩展为面向更多人的实践教育，专业教育成为明确目标，工程技术类大学得以建立。公共高等教育由各州主导、联邦支持的结构由此确立。
-- **1914 年 [[Smith Lever Act of 1914|Smith Lever Act]]**：在赠地大学建立农业推广服务（extension services），直接支持美国农业产业，建立起了连接研究与实际应用的制度桥梁。
+- **1862 年 [[Morrill Land-Grant Act of 1862|Morrill Act]]（赠地法案）** 将高等教育从精英的"精修学校"扩展为面向更多人的实践教育，专业教育成为明确目标，工程技术类大学得以建立。公共高等教育由各州主导、联邦支持的结构由此确立。
+- **1914 年 [[Smith Lever Act of 1914|Smith Lever Act]]** 在赠地大学建立农业推广服务（extension services），直接支持美国农业产业，建立起了连接研究与实际应用的制度桥梁。
 - **1920 年前** 美国大学的核心特征——博士教育（受德国大学启发）、专业学位项目、产学互动以及作为制度价值的学术自由与客观性——已基本确立。
 
 与欧洲国家不同，美国从未采用国立大学体系，公共大学由各州负责，独立私立大学同时繁荣发展。Hollingsworth & Hollingsworth（2011, p.27）指出："现代社会中持续高水平的激进创新需要组织形式的多样性、组织结构的[[Heterogeneity|异质性]]和思想的多样性"——这些正是美国体系的特征(p.12)。

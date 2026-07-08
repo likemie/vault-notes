@@ -146,7 +146,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > - **使用机械手段记录、存储和检索数据（mechanical means）** 录音、录像等技术手段减少人为记忆偏差
 
 > [!feature] 质性内部效度的八种主导类型（LeCompte & Preissle, 1993: 323–4）
-> - **数据置[[Reliability|信度]]**（confidence） 研究结论被数据充分支撑的程度
+> - **数据置[[Reliability|信度]]（confidence）** 研究结论被数据充分支撑的程度
 > - **数据真实性（authenticity）** 通过参与者视角报告情境的能力
 > - **数据说服力（cogency）** 论证的逻辑力量和连贯性
 > - **研究设计稳健性（soundness）** 研究设计本身的合理性和严谨性
@@ -162,11 +162,11 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > [!dimension] 真实性的五个维度（LeCompte & Preissle）
 > - **公平性（fairness）**
 >   对情境中多重现实和建构的完整、平衡呈现——不应有任何一个相关群体的视角被忽略
-> - **[[Ontology|本体论]]真实性**（ontological authenticity）
+> - **[[Ontology|本体论]]真实性（ontological authenticity）**
 >   研究应提供对情境更精微（more sophisticated）的理解——使熟悉变得陌生（[[Making the Familiar Strange]]），这是减少研究者文化盲视（cultural blindness）的重要特征（Brock-Utne, 1996: 610）
 > - **教育真实性（educative authenticity）**
 >   研究应对这些理解产生新的认识——不仅仅是复现已知，而是让参与者（和读者）以新的眼光看待熟悉的情境
-> - **[[Catalytic Validity|催化真实性]]**（catalytic authenticity）
+> - **[[Catalytic Validity|催化真实性]]（catalytic authenticity）**
 >   研究应引发具体行动——研究不应止于描述，而应推动改变
 > - **策略真实性（tactical authenticity）**
 >   研究应惠及所有涉及者（benefit to all involved）——这是受益（beneficence）伦理问题的体现

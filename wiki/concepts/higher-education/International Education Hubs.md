@@ -85,7 +85,7 @@ Knight & Lee (2014) 提出了 IEHs 的三类递进模型（详见 [[#核心要�
 
 - **学生枢纽** 以教育服务出口为目标，扩大入学机会、提升系统形象、创造收入
 - **人才枢纽** 转向人力资本积累，扩大技能劳动力储备、增强经济竞争力
-- **知识/[[Innovation Hub|创新枢纽]]**：聚焦商业应用导向的新[[Knowledge Production|知识生产]]，与[[Knowledge-Based Economy|知识经济]]逻辑最深度整合
+- **知识/[[Innovation Hub|创新枢纽]]** 聚焦商业应用导向的新[[Knowledge Production|知识生产]]，与[[Knowledge-Based Economy|知识经济]]逻辑最深度整合
 
 Knight 的研究为 IEH 提供了基本的概念坐标，但其框架主要采用政策倡导导向的肯定性立场。后续研究从地缘政治角度对这一框架进行了批判性拓展。
 
@@ -104,7 +104,7 @@ Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性
 
 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 通过对新加坡和阿联酋的[[Comparative Case Study|比较案例研究]]，在 Rizvi 的宏观地缘政治判断之外提供了中观的运作机制分析。其核心贡献是指出 IEHs 同时运作于两个功能不同的维度([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.205–211]])：
 
-- **[[Cultural Diplomacy|文化外交]]维度**：国家利用高等教育投射进步、现代的国际形象，通过引入知名外国大学和高端文化机构提升[[Soft Power|软实力]]
+- **[[Cultural Diplomacy|文化外交]]维度** 国家利用高等教育投射进步、现代的国际形象，通过引入知名外国大学和高端文化机构提升[[Soft Power|软实力]]
 - **政治经济维度** 国家将高等教育视为可直接产生经济回报的产业，通过市场自由化创造高等教育产业环境
 
 这两个维度的区分揭示了一个深层逻辑：高等教育被同时用作**经济工具**和**外交资源**——但两者的操作逻辑和治理需求可能产生摩擦。具体案例机制分析详见 [[Argument_Erfurth_2022_education-hubs#论证结构]]([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.205–211]])。
@@ -135,13 +135,13 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 
 - **学生枢纽（Student Hub）** 旨在扩大高等教育入学机会、现代化和国际化本国高校、提升国家高等教育系统形象、并通过外国学生流入创造收入。主要功能聚焦于教育服务出口
 - **人才枢纽（Talent Hub）** 旨在扩大技能劳动力储备、为服务型和/或[[Knowledge-Based Economy|知识型经济]]做出贡献、增强经济竞争力并提高劳动力的质量和相关性。关注焦点从教育出口转向人力资本积累
-- **知识/[[Innovation Hub|创新枢纽]]（Knowledge/Innovation Hub）**：聚焦于具有商业应用潜力的新知识的生产和应用，其范畴远超高等教育，涵盖公共和私营部门合作研究及企业部门的研发活动。这是三类模型中与经济竞争力逻辑最深度整合的一类
+- **知识/[[Innovation Hub|创新枢纽]]（Knowledge/Innovation Hub）** 聚焦于具有商业应用潜力的新知识的生产和应用，其范畴远超高等教育，涵盖公共和私营部门合作研究及企业部门的研发活动。这是三类模型中与经济竞争力逻辑最深度整合的一类
 
 ### Erfurth 的双重运作维度
 
 由 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022, pp.205–211)]] 基于新加坡和阿联酋案例提出（详见 [[Argument_Erfurth_2022_education-hubs]]）：
 
-- **[[Cultural Diplomacy|文化外交]]（cultural-diplomatic）维度**：通过高等教育提升国际形象和[[Soft Power|软实力]]
+- **[[Cultural Diplomacy|文化外交]]（cultural-diplomatic）维度** 通过高等教育提升国际形象和[[Soft Power|软实力]]
 - **政治经济（politico-economic）维度** 通过高等教育产业直接推动经济增长和多元化
 
 两个维度在同一枢纽中共存但可能产生摩擦。
@@ -150,7 +150,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 
 - **国家角色转变** IEHs 体现国家功能从垄断教育供给向强化监管角色的转变——国家成为"权力连接器"（power connector），协调全球流通与本地治理（Erfurth, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）
 - **治理理性的转换** 高等教育治理的基本理性正从社会和教育范畴（可及性、可负担性、公平性、质量、流动性、开放研究、进步）转向经济范畴（收入创造、可专利的非开放研究和知识的生产、经济竞争力）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.45]])
-- **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的国家枢纽角色**：IEHs 是 Moisio (2018) 的 Hub and [[Flow]] 想象在高等教育领域最直接的国家层面物质化——各国通过 IEH 项目将自身塑造为全球知识流动网络中的"枢纽"，吸引并锚定人才、资本和知识的跨国流动([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]])
+- **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的国家枢纽角色** IEHs 是 Moisio (2018) 的 Hub and [[Flow]] 想象在高等教育领域最直接的国家层面物质化——各国通过 IEH 项目将自身塑造为全球知识流动网络中的"枢纽"，吸引并锚定人才、资本和知识的跨国流动([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]])
 - **与 Minerva 项目的对照** IEHs 和 Minerva 代表了[[Geopolitics of Knowledge|知识地缘政治]]中两种不同的空间策略——IEHs 体现以国家领土为锚点的"枢纽"逻辑，Minerva 则体现以资本和技术为驱动的"流动"逻辑。两者共同构成 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 所谓"新知识地缘政治"中领土固着与场所无涉两种空间想象的张力([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])。详见 知识地缘政治 > 两条理论脉络
 
 ---

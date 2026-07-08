@@ -21,14 +21,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-07-08
 ---
 
 # Post-structuralism
 
 ## 定义
 
-后结构主义与[[Postmodernism|后现代主义]]一样有多种不同解释。教材采取了刻意选择性的解释，聚焦于那些与教育研究的基础和行为相关的特征。在这一意义上，后结构主义可被视为对**结构功能主义（structural-functionalists）**的反驳——后者将社会或行为视为一组相互关联的部分，以类法则的方式（in law-like fashion）模式化并整齐地嵌套进固定的世界观中，个体行为主要由给定的社会结构特征（如社会阶级、社会地位、社会角色）所决定（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+后结构主义与[[Postmodernism|后现代主义]]一样有多种不同解释。教材采取了刻意选择性的解释，聚焦于那些与教育研究的基础和行为相关的特征。在这一意义上，后结构主义可被视为对**结构功能主义（structural-functionalists）**的反驳——后者将社会或行为视为一组相互关联的部分，以类法则的方式（in law-like fashion）模式化并整齐地嵌套进固定的世界观中，个体行为主要由给定的社会结构特征（如社会阶级、社会地位、社会角色）所决定（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
 
 ## 核心主张
 
@@ -41,4 +41,4 @@ updated: 2026-06-14
 
 ## 与批判理论的关系
 
-后结构主义通过知识–权力的关系与[[Critical Theory|批判理论]]相连，但哈贝马斯（Habermas, 1987）反对批判理论与[[Postmodernism|后现代主义]]或后结构主义的亲缘性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+后结构主义通过知识–权力的关系与[[Critical Theory|批判理论]]相连，但哈贝马斯（Habermas, 1987）反对批判理论与[[Postmodernism|后现代主义]]或后结构主义的亲缘性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。

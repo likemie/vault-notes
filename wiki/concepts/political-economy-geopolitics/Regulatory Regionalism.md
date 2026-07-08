@@ -60,15 +60,15 @@ updated: '2026-05-18'
 > [!example]
 > - vs **政府间主义（Intergovernmentalism）** 政府间主义强调成员国对政策的主导控制，决策通过国家间谈判达成；监管区域主义则强调超国家机构通过监管框架获得相对自主的影响力——这种影响力不依赖于正式的立法权力，而是通过指标、排名和基准的规范性压力运作（Thompson & Parreira do Amaral, 2022, p.11）
 > - vs **全球教育治理（Global Education Governance）** 全球教育治理涵盖更广的全球层面（如 [[OECD]]、UNESCO 的治理活动）；监管区域主义聚焦于区域层面（EU、ASEAN 等）的制度性监管机制，强调"区域"作为治理的空间单元
-> - vs **[[Performance Indicators]]**：监管区域主义是宏观治理模式，绩效指标是这一模式中具体政策工具的运作机制。两者是分析层级的关系：监管区域主义描述"超国家组织如何治理"的模式，绩效指标分析则说明"具体通过什么工具和机制来治理"
+> - vs **[[Performance Indicators]]** 监管区域主义是宏观治理模式，绩效指标是这一模式中具体政策工具的运作机制。两者是分析层级的关系：监管区域主义描述"超国家组织如何治理"的模式，绩效指标分析则说明"具体通过什么工具和机制来治理"
 
 ## 概念演变
 
 > [!note]-
-> - **Jayasuriya（2010）**：提出监管区域主义概念框架，分析超国家组织如何通过监管机制而非传统政府间谈判来行使治理权力
-> - **Robertson（2010）**：在欧盟语境中发展了"监管型国家区域主义"（regulatory state regionalism）概念，揭示欧盟如何通过[[Bologna Process|博洛尼亚进程]]等机制构建新的高等教育治理模式
-> - **Robertson et al.（2016）**：在 [[Global Regionalisms]] 中进一步将高等教育定位为区域地缘政治想象的核心支柱，监管区域主义成为理解区域高等教育整合的关键分析工具（Thompson & Parreira do Amaral, 2022, p.11）
-> - **[[Argument_Rambla_2022_Springer|Rambla (2022)]]**：通过对 [[Innovation Union]] 和 [[EU Skills Agenda]] 的分析，为监管区域主义提供了具体的经验案例——EUROSTAT 的区域创新记分牌和 NUTS2 [[Performance Indicators|教育指标]]如何通过"治理的间接性"塑造成员国和地方层面的政策选择与认知框架（p.165–175）
+> - **Jayasuriya（2010）** 提出监管区域主义概念框架，分析超国家组织如何通过监管机制而非传统政府间谈判来行使治理权力
+> - **Robertson（2010）** 在欧盟语境中发展了"监管型国家区域主义"（regulatory state regionalism）概念，揭示欧盟如何通过[[Bologna Process|博洛尼亚进程]]等机制构建新的高等教育治理模式
+> - **Robertson et al.（2016）** 在 [[Global Regionalisms]] 中进一步将高等教育定位为区域地缘政治想象的核心支柱，监管区域主义成为理解区域高等教育整合的关键分析工具（Thompson & Parreira do Amaral, 2022, p.11）
+> - **[[Argument_Rambla_2022_Springer|Rambla (2022)]]** 通过对 [[Innovation Union]] 和 [[EU Skills Agenda]] 的分析，为监管区域主义提供了具体的经验案例——EUROSTAT 的区域创新记分牌和 NUTS2 [[Performance Indicators|教育指标]]如何通过"治理的间接性"塑造成员国和地方层面的政策选择与认知框架（p.165–175）
 
 ## 核心要素
 
@@ -120,7 +120,7 @@ updated: '2026-05-18'
 > [!warning]
 > - **去政治化风险** 监管机制通过看似技术性的手段（如排名和指标）运作，但其政治意涵往往被自然化——即"去政治化的政治"。当价值判断（如"研发密集型创新优于其他创新""就业优先于赋权"）被嵌入指标体系，本应属于民主审议的政治选择被技术化为"客观标准"。这与 [[Scientization of Politics]] 的诊断相通([[Argument_Rambla_2022_Springer|Rambla, 2022, p.175–176]])
 > - **区域不平等的固化** 监管区域主义通过将高度异质的区域纳入统一的排名框架，可能固化而非缩小区域不平等。"创新领导者"更易吸引投资和人才，"一般创新者"则陷入资源劣势的累积循环——分类本身从描述性标签演变为自我实现的预言([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])
-> - **高等教育[[Epistemology|认识论]]多样性**：对区域主义监管的研究需进一步关注其对高等教育认识论多样性和学科自主性的影响——当研究资助的优先级由服务于技术和政策议程的程度决定时，不以直接应用为导向的[[Blue Skies Research|基础研究]]和批判性学术可能被系统性边缘化（Thompson & Parreira do Amaral, 2022, pp.11–12）
+> - **高等教育[[Epistemology|认识论]]多样性** 对区域主义监管的研究需进一步关注其对高等教育认识论多样性和学科自主性的影响——当研究资助的优先级由服务于技术和政策议程的程度决定时，不以直接应用为导向的[[Blue Skies Research|基础研究]]和批判性学术可能被系统性边缘化（Thompson & Parreira do Amaral, 2022, pp.11–12）
 
 ## 相关案例／政策
 

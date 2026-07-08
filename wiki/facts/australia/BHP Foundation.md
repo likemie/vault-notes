@@ -78,7 +78,7 @@ updated: 2026-06-16
 ## 争议与评论
 
 > [!actor-grid] 评论视角图
-> - **基金会官方 / [[Venture Philanthropy|风险慈善]]视角**：强调其资助活动致力于人类发展和资源治理，通过科学透明的“全球证据项目”帮助合作伙伴国家提升教学效能，提供[[Value Neutrality|价值中立]]的知识产品。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **基金会官方 / [[Venture Philanthropy|风险慈善]]视角** 强调其资助活动致力于人类发展和资源治理，通过科学透明的“全球证据项目”帮助合作伙伴国家提升教学效能，提供[[Value Neutrality|价值中立]]的知识产品。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **批判政策社会学视角** 揭示了跨国采矿巨头的慈善基金会通过其资金杠杆介入国家教育政策，构成了绕过民主监督机制的“异层治理”（[[Policy Network|heterarchy]]），模糊了公共和私人利益的界限。
 > - **实践者与大学研究者视角** 担忧私人跨国企业资金主导了教师毕业准入核心大纲的设计倾向，将大学教师大纲改造为特定资本利益和智库游说所期望的标准化模式。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
 

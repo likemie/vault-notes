@@ -58,7 +58,7 @@ updated: '2026-06-08'
 >
 > **四个决策问题框架** 评估教育优先事项时应问：(1) 这解决我们面临的问题吗？(2) 我们能获得多少改进？(3) 成本多少？(4) 它在这里有效吗？其中第四个问题只有拥有 Hayek (1945) 所谓"特定时间和地点环境的知识"的人才能回答。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.11–12]])
 >
-> **对[[Meta-meta-analysis|元-元分析]]的彻底否定**：Wiliam 断言元-[[Meta-analysis|元分析]]（如 Hattie 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit）在教育政策制定中"绝对没有任何角色"——尽管 Simpson 较为节制地指出在某些条件下合并[[Effect Size|效应量]]可能是适当的。
+> **对[[Meta-meta-analysis|元-元分析]]的彻底否定** Wiliam 断言元-[[Meta-analysis|元分析]]（如 Hattie 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit）在教育政策制定中"绝对没有任何角色"——尽管 Simpson 较为节制地指出在某些条件下合并[[Effect Size|效应量]]可能是适当的。
 
 ## 主要贡献
 

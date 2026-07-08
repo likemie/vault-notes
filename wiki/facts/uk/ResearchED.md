@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-06-20
+updated: 2026-07-08
 ---
 
 # ResearchED
@@ -76,7 +76,7 @@ updated: 2026-06-20
 > 
 > > *“1. Form a question... 2. Form a [[Hypothesis]]... 3. Make a prediction... 4. Test the prediction... 5. Analyse...”* —— [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]] (citing Bennett, 2013, p. 21) 
 > 
-> **[[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 批评**：该描述将复杂的科学理论作用完全琐碎化（trivialise），取消了[[Causality|因果]]机制探究和理论建构的位置，反映出一种粗糙的“民间科学观”（folk-view of science）。
+> **[[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 批评** 该描述将复杂的科学理论作用完全琐碎化（trivialise），取消了[[Causality|因果]]机制探究和理论建构的位置，反映出一种粗糙的“民间科学观”（folk-view of science）。
 
 > [!citation-card]- 科学修辞的政治使用
 > “学习风格已被彻底揭穿，你还不如去抽塔罗牌。”（Carl Hendrick 语） / “开放大学（Open University），理清你们的脑子。学习风格 = 彩虹独角兽。”（Tom Bennett 语）
@@ -105,7 +105,7 @@ updated: 2026-06-20
 
 > [!tension] 争议焦点
 > - **自主草根运动 vs. 官方权力工具** 运动标榜的“赋权教师、去除权威”与教育部高官对其深度绑定的现实存在直接矛盾，批评者认为其已成为政府利益的传声筒([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
-> - **单一实验[[Paradigm|范式]] vs. 方法论多元主义**：争论在于教育改善是应盲目遵循去情境化的“黄金标准”数据，还是承认教育是包含多层嵌套的开放系统，从而采用[[Qualitative Observation|质性观察]]、实在论综合等多元研究路径([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14–15]])。
+> - **单一实验[[Paradigm|范式]] vs. 方法论多元主义** 争论在于教育改善是应盲目遵循去情境化的“黄金标准”数据，还是承认教育是包含多层嵌套的开放系统，从而采用[[Qualitative Observation|质性观察]]、实在论综合等多元研究路径([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14–15]])。
 
 ---
 

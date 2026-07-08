@@ -51,9 +51,9 @@ Hatch Act 的意义在于：它比 [[Morrill Land-Grant Act of 1862|Morrill Act]
 > [!note]-
 在美国[[University-Industry Collaboration|产学合作]]的历史制度遗产中，Hatch Act 处于承上启下的位置（p.51）：
 
-- **1862 年 [[Morrill Land-Grant Act of 1862|Morrill Act]]**：建立赠地大学，将实践训练和研发（R&D）引入高等教育，催化了农业现代化和新制造业的创建
+- **1862 年 [[Morrill Land-Grant Act of 1862|Morrill Act]]** 建立赠地大学，将实践训练和研发（R&D）引入高等教育，催化了农业现代化和新制造业的创建
 - **1887 年 Hatch Act** 在赠地大学建立农业实验站，将大学研究与产业需求直接连接——这是美国产学合作最早的制度化形式之一
-- **1914 年 [[Smith Lever Act of 1914|Smith Lever Act]]**：建立农业推广服务（extension services），将大学研究延伸到农场和社区——完成了"教学-研究-推广"三位一体的赠地大学体系
+- **1914 年 [[Smith Lever Act of 1914|Smith Lever Act]]** 建立农业推广服务（extension services），将大学研究延伸到农场和社区——完成了"教学-研究-推广"三位一体的赠地大学体系
 
 这一序列展示了美国高等教育从一开始就将产业服务（最初是农业）嵌入大学使命的制度传统——这一传统在二十世纪后期通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 扩展到所有技术领域。
 

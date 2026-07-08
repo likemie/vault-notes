@@ -52,7 +52,7 @@ updated: 2026-06-03
 > [!info]
 > [[Technology Transfer|技术转移]]办公室（Technology Transfer Office, TTO）是大学内部负责[[Technology Transfer|技术转移]]操作的专业职能部门。其核心职责包括协商知识产权许可条款、评估技术的可专利性和商业化前景、管理专利申请与维护、以及支持[[University Spin-Out|大学衍生企业]]的创建。TTO 通常隶属于大学的科研副校长（Vice President of Research），与合同与拨款办公室（Contracts and Grants Office）和赞助项目办公室（Sponsored Programs Office, SPO）并列，有时合并到企业参与办公室（Office of Corporate Engagement）（p.14）。
 
-Debackere 和 Veugelers（2005）指出，TTO 可以充当分散的研究团队与产业伙伴之间的"信息科学链接"（information science links），兼具[[Boundary Spanner|中介者]]（intermediary）和聚焦许可的交易专家（transaction specialist）双重角色（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
+Debackere & Veugelers（2005）指出，TTO 可以充当分散的研究团队与产业伙伴之间的"信息科学链接"（information science links），兼具[[Boundary Spanner|中介者]]（intermediary）和聚焦许可的交易专家（transaction specialist）双重角色（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
 
 ---
 

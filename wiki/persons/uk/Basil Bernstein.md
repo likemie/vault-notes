@@ -4,7 +4,7 @@ aliases:
   - Bernstein, B.
   - 巴兹尔·伯恩斯坦
   - 伯恩斯坦
-summary: 英国教育社会学传统中的关键理论家，以横向知识结构、教育知识分类与框架、教育话语理论影响教育社会学。
+summary: "英国教育社会学传统中的关键理论家，以横向知识结构、教育知识分类与框架、教育话语理论影响教育社会学。"
 type: person
 nationality: uk
 person_region: "uk"
