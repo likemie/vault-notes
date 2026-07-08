@@ -84,35 +84,32 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-### 命题一　<类型名称>（<English Name>）
+### 命题一　<用完整判定性陈述句写出第一类命题的核心理论断言>
 
-%% [!concept-lens] 的标题"<命题类型归纳标题>"需替换为本命题类型的实际名称，例如"课程内容选择的教化正当性"。 %%
-> [!concept-lens] <命题类型归纳标题>
-> 说明这类命题围绕什么核心问题展开，各学者的共同倾向在哪里。
-
-> [!claim] <Lastname, I.>
-> 学者 A 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
-> [!claim] <Lastname, I.>
-> 学者 B 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+%% 规则：
+   1. H3 标题必须是完整的判定性陈述句本身，去除英文翻译，以全角空格与“命题一”分隔。
+   2. [!concept-lens] 的标题需替换为本命题类型的探讨维度，正文简述该维度核心问题，不得包含“说明……”等模板指令词。
+   3. [!claim] 块内加粗小标题（如“情境的不可移植性”）不得带“命题”后缀。
+   4. 学者的核心判定与完整的推导/论证逻辑必须全部写在 [!claim] 块内，不得将论证过程剥离到独立的 exegesis 块中。 %%
+> [!concept-lens] <核心探讨维度名称>
+> 简述这类命题围绕什么核心机制或理论冲突展开，以及各学者的共同倾向。
 
 > [!claim] <Lastname, I.>
-> 学者 C 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> **<论点引导词（不得带“命题”字样）>** 学者的具体判定，以及该判定在文献中是如何被论证、推导和展开的完整逻辑过程。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+
+> [!claim] <Lastname, I.>
+> **<论点引导词（不得带“命题”字样）>** 学者的具体判定及完整论证推导过程。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 
-### 命题二　<类型名称>（<English Name>）
+### 命题二　<用完整判定性陈述句写出第二类命题的核心理论断言>
 
 %% 如无第二类命题可删除本节；如有更多类型，复制上方结构继续添加。 %%
-%% [!concept-lens] 的标题"<命题类型归纳标题>"需替换为本命题类型的实际名称。 %%
-> [!concept-lens] <命题类型归纳标题>
-> 说明这类命题的核心问题与共同倾向。
+> [!concept-lens] <核心探讨维度名称>
+> 简述这类命题的核心探讨维度与学者共同倾向。
 
 > [!claim] <Lastname, I.>
-> 学者 D 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-
-> [!claim] <Lastname, I.>
-> 学者 E 的具体观点。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> **<论点引导词（不得带“命题”字样）>** 学者的具体判定及完整论证推导过程。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 

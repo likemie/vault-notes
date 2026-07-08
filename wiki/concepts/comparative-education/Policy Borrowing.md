@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-07-05'
+updated: '2026-07-08'
 ---
 
 # Policy Borrowing
@@ -168,7 +168,7 @@ updated: '2026-07-05'
 
 > [!features] 政策借用行为的特征
 > - **选择性借用（Selective Borrowing）** 决策者并不照搬外部的整个体系，而是有选择地抽取适合国内议程的特定政策元素。
-> - **翻译与变异（Translation and Morphing）** 借用的政策元素在进入本地语境时发生实质性的形态翻译与功能[[Transfer Translation Transformation|转译]]，以适应本土环境并承载不同的政治意图。[[Argument_Cowen_2009_CE|Cowen, 2009]])
+> - **翻译与变异（Translation and Morphing）** 借用的政策元素在进入本地语境时发生实质性的形态翻译与功能[[Transfer Translation Transformation|转译]]，以适应本土环境并承载不同的政治意图。([[Argument_Cowen_2009_CE|Cowen, 2009]])
 > - **吸引力“火花”（Attraction Sparks）** 在政策辩论中调动外部范例的四种修辞动机，包括丑闻化、合法化、警示与颂扬。
 > - **认证效应（Certification Effect）** 跨国教育理念或实践的借用对本地教育改革产生认证效应，为本地已启动或酿响中的改革提供声望与正当性。
 
@@ -254,10 +254,8 @@ updated: '2026-07-05'
 > - **2006 — 跨国吸引力情境地图** Rappleye 提出推拉力情境概念地图，理清了[[Pre-Transfer Agency|前转移能动性]]与多层次结构因素的作用机制。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
 > - **2009 — 形态变异理论主张** Cowen 建立“转移—[[Transfer Translation Transformation|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。([[Argument_Cowen_2009_CE|Cowen, 2009]])
 > - **2012 — 政治借用与实质学习的系统区隔** Steiner-Khamsi 系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
-> - **2015–2016 — 课程选择性借用的经验验证** Forestier 等人通过对比香港 [[Liberal Studies|LS]] 与 [[IB Diploma Programme|IBDP]] 的课程选择，实证揭示了剔除批判核心、仅保留探究形式的裁剪机制。
-> - **2019 — 拒绝借用博弈的实证展示** Golovchin 追踪 Hattie 的 [[Visible Learning]] 在俄罗斯被引进与学界反思，详尽勾勒了“建议拒绝借用”的理性博弈过程。([[Argument_Golovchin_2019_ESC|Golovchin, 2019]])
-> - **2023 — 怀特三大传统地缘解构** Klerides 引入[[Wight's Three Traditions of International Theory|国际关系三大传统]]，从现实主义、理性主义和[[Revolutionism|革命主义]]哲学底层解构比较教育的流动底色。([[Argument_Klerides_2023_CE|Klerides, 2023]])
-> - **2025 — 威权/高压政治语境下的分析边界** [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪通识科创立与废除的完整生命周期，确立了政策借用作为合法化工具在行政强制力下的分析失效边界。
+> - **2023 — 怀特三大传统地缘解构** Klerides 将国际关系三大传统（现实主义、理性主义和革命主义）引入政策借用研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。([[Argument_Klerides_2023_CE|Klerides, 2023]])
+> - **2025 — 威权/高压政治语境下的分析失效边界** 政策借用作为合法化工具的理论适用性被明确界定在“半开放协商政治”的权力边界内，高压威权与行政命令直接接管的现象为该框架确立了失效边界。([[Argument_Yan_2025_JCS|Yan & Morris, 2025]])
 
 ---
 
