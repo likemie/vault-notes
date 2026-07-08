@@ -60,7 +60,7 @@ updated: 2026-06-26
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Depoliticalization of Ethnic Policy]] | 概念 | 该概念由马戎首次完整提出，成为其学术生涯的核心理论标志。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]]) |
-> | [[Second-generation Ethnic Policy]] | 概念 | 马戎的去政治化学说为第二代民族政策的制定提供了底座性支撑。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]]) |
+> | [[Second-generation Ethnic Policy]] | 概念 | 马戎的去政治化学说为第二代民族政策的制定提供了底座性支撑。 |
 > | [[Zhonghua Minzu]] | 概念 | 利用其去政治化逻辑，论证推进单一“中华民族”国族实体建设的历史正当性。 |
 
 ---

@@ -81,7 +81,7 @@ updated: '2026-05-18'
 > - **校园建设与运营** 能源、水、交通、废物和食品的全校园可持续使用，将校园转变为"活实验室"（living laboratories）和"可持续发展试验台"（testbeds for sustainability）。例：ETH Zurich 推行"2000 Watt Society"项目，将全校能源效率目标与教学研究结合；Oberlin College 推行"Oberlin Project"旨在创建美国首批气候积极城市之一([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.150–151]])
 > - **可持续发展管理** 通过专门的办公室和组织单元将 USR 管理化和正式化——这是持久制度化的重要指标（USRN, 2019）。Zapp 强调，仅发布一份 CSR 报告不等于制度化；真正的制度化需要专门的组织结构、预算和人员配置([[Argument_Zapp_2022_Springer|Zapp, 2022, p.153]])
 > - **全球意识与学生参与** 促进全球意识、全球学生参与和员工能力建设——如 Manchester 大学提供关于发展中国家水供应与卫生政策的 MOOCs 和 Global Health and Humanitarianism 课程([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.151–152]])
-> - **全球议题研究** 以全球问题为导向的研究，直接服务于 [[UN Sustainable Development Goals|SDGs]] 等全球议程。例：Manchester 开发碳足迹工具追踪全球"碳热点"，UBC 开发保护生物多样性的传感器和软件，Auckland 与航运业合作追踪鲸鱼迁徙路线([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.150–151]])
+> - **全球议题研究** 以全球问题为导向的研究，直接服务于 [[UN Sustainable Development Goals|SDGs]] 等全球议程。例：Manchester 开发碳足迹工具追踪全球"碳热点"，UBC 开发保护生物多样性的传感器和软件，Auckland 与航运业合作追踪鲸鱼迁徙路线
 
 ---
 ## 理论基础

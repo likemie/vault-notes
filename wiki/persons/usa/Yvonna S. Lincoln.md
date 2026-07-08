@@ -58,7 +58,7 @@ updated: '2026-06-08'
 > [!quote]
 > "Lincoln and Guba (1985) referred to 'pattern theories' as explanations developing during naturalistic or qualitative research."（引自 Creswell & Creswell, 2022, p.67）
 > 
-> Lincoln 和 Guba (1985) 将模式理论称为在自然主义或质性研究过程中发展的解释。
+> Lincoln 和 Guba 将模式理论称为在自然主义或质性研究过程中发展的解释。
 
 ## 影响
 

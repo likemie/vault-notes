@@ -43,7 +43,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> 学术医学中心（Academic Medical Center, AMC）传统上定义为"大学或医学院及其合作教学医院"（"a university or medical school and its partner teaching hospital"）([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。其核心构成包括三个要素：教学医院（teaching hospital）、联合聘任到大学的临床教师（clinical faculty jointly appointed to the university）、以及社区中的附属私人执业医师（affiliated private-practice physicians in the community）([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。
+> 学术医学中心（Academic Medical Center, AMC）传统上定义为"大学或医学院及其合作教学医院"（"a university or medical school and its partner teaching hospital"）([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。其核心构成包括三个要素：教学医院（teaching hospital）、联合聘任到大学的临床教师（clinical faculty jointly appointed to the university）、以及社区中的附属私人执业医师（affiliated private-practice physicians in the community）。
 
 AMC 的本质是一种学术-临床二元结构：将大学的医学教育、基础科研与医院的临床诊疗结合在一起。这是目前最常见的学术医疗机构组织形态，但具体组织结构在不同机构之间存在广泛差异([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.179]])。
 
@@ -99,7 +99,7 @@ AMC 启动缓慢的根源在于多重委员会审查的串行机制：方案审�
 > 这一成本结构使 AMC 面临双重竞争压力：社区或去中心化基地以更快的启动速度和更低的管理费构成替代选项，国际基地的成本有时仅为美国 AMC 的六分之一([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.206]])。
 
 > [!success] 高绩效 AMC 的突破路径
-> 尽管存在上述结构性劣势，部分 AMC 通过组织优化显著缩小了效率差距。拥有高度投入的主要研究者（Principal Investigator, PI）和专门研究支持团队的机构可以在 60 天内完成试验激活——远优于典型 AMC 的 120 天以上([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])。高绩效 AMC 的关键做法包括([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])：
+> 尽管存在上述结构性劣势，部分 AMC 通过组织优化显著缩小了效率差距。拥有高度投入的主要研究者（Principal Investigator, PI）和专门研究支持团队的机构可以在 60 天内完成试验激活——远优于典型 AMC 的 120 天以上([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])。高绩效 AMC 的关键做法包括：
 > - 专门的监管团队、预算和合同专家以及合规人员并行工作
 > - 使用中心或单一 IRB 依赖协议，在收到监管[[Document|文件]]后高效实施机构修改
 > - 部署 Florence™ eBinders 等数字化监管管理工具

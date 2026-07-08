@@ -238,7 +238,7 @@ Hattie 对全语言的评估仅基于 **4 项元分析、共 64 项研究**，�
 >
 > - **对正面发现的选择性修正**Gee（1995）报告全语言效应量 $d=+0.65$。Hattie 以三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。O'Connor 指出这是 **VL 800+ 元分析中唯一被 Hattie 通过选择性删除研究而修正效应量的案例**（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 148]]）。
 >
->   对于被删除的研究之一（Trachtenburg & Ferruggia, 1989，报告 $d=1.7$），O'Connor 论证其使用大书（Big Books）、儿童自选单词、基于学生语言聚焦字母-声音关系等方法与全语言框架完全一致——全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 148]]）。
+> 对于被删除的研究之一（Trachtenburg & Ferruggia, 1989，报告 $d=1.7$），O'Connor 论证其使用大书（Big Books）、儿童自选单词、基于学生语言聚焦字母-声音关系等方法与全语言框架完全一致——全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的文献。
 >
 > - **不加权平均** Hattie 未对不同元分析的研究数量或质量进行任何加权——基于 2 项研究的元分析与基于 20 项研究的元分析在计算中等同对待（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 145]]）。
 
@@ -810,7 +810,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 > 1. **评价支配了教育过程** VL 的教育目标是学习者成为"自我监控、自我评价、自我评估、自我学习"——评价不是教育之后的事，教育直接被定义为评价本身([[Argument_Rømer_2018_EPT|Rømer, 2018, p. 2]])
 > 2. **教育理论缺席** Hattie 的关键参考[[Document|文献]]指向评价理论家（Biggs, Walberg, Glass, Bloom, Cronbach, Scriven）而非教育理论家；学科、世界、开启、引导、[[Bildung]]、民主、权威、纪律等概念无处可寻([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 2–3]])
 > 3. **"Know thy impact" 作为评价座右铭** 教师成为"自身效果的学徒"，教学被天真地概念化为"干预"，学习被概念化为可隔离的"效果"([[Argument_Rømer_2018_EPT|Rømer, 2018, p. 3]])
-> 4. **元评价的全球形式** Hattie 的[[Meta-meta-analysis|元-元分析]]是一种"[[Pure Evaluation|纯粹评价]]"（Tanggaard, Rømer, & Brinkmann, 2014）——评价被抽出时间和地点，重构为全球的数字结构([[Argument_Rømer_2018_EPT|Rømer, 2018, p. 3]])
+> 4. **元评价的全球形式** Hattie 的[[Meta-meta-analysis|元-元分析]]是一种"[[Pure Evaluation|纯粹评价]]"（Tanggaard, Rømer, & Brinkmann, 2014）——评价被抽出时间和地点，重构为全球的数字结构
 
 > [!proc] 评价吞噬教育的逻辑过程（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 5]]）
 > 1. 开始于一个通过 200 年的争论和延续发展而来的教育传统
@@ -863,7 +863,7 @@ Hattie 将 Popper 的三个世界（World 1 物理/World 2 主观/World 3 文化
 [[Argument_Larsen_2019_EducSci|Larsen (2019)]]从教育哲学角度对 VL 提出了四个维度的批判，其核心论点是：**盲视（blindness）是教育观看中不可避免的组成部分**——"强大的科学与政治学习追随者不能看见他们不能看见的东西——无论当他们看见他们认为自己看见的东西时，还是当他们没有看见他们不想看见的东西时"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 10]])。
 
 > [!critique-logic] 批评一：学习对学习主体并非即时可见
-> Larsen 提出的第一个哲学论证是：学习从来不能是一种即时的、简单的、可见的现象——无论对教师还是对学习主体本身。你在此刻可能正在学习某件事，但你不知道它会在 10 年或 20 年后对你的生活产生微小影响还是重大冲击。因此，"学习不能作为一种可在当下把握和描绘的可见现象来理解"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 3]])。Larsen 援引 Knud Illeris 的核心定义——"学习广义上可定义为能力的永久性变化"——来论证"定性存在性时间因素（即个体对时间和意义的[[Phenomenology|现象学]]经验）和独特生命经验远比学习结果数字、分数和其他'快照'重要得多"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 3]])。
+> Larsen 提出的第一个哲学论证是：学习从来不能是一种即时的、简单的、可见的现象——无论对教师还是对学习主体本身。你在此刻可能正在学习某件事，但你不知道它会在 10 年或 20 年后对你的生活产生微小影响还是重大冲击。因此，"学习不能作为一种可在当下把握和描绘的可见现象来理解"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 3]])。Larsen 援引 Knud Illeris 的核心定义——"学习广义上可定义为能力的永久性变化"——来论证"定性存在性时间因素（即个体对时间和意义的[[Phenomenology|现象学]]经验）和独特生命经验远比学习结果数字、分数和其他'快照'重要得多"。
 
 > [!example]- 「20年后才显现」的学习影响
 > 一个学生此刻在课堂上感到极度无聊和烦躁——"哦，语法，这有什么意义？发霉的历史书、社会分层研究、没完没了的科学课……为什么我要关心这些科目？"但在未来某个时刻，那天、那月或那年发生的事情可能被证明非常重要。Hattie 的[[Effect Size|效应量]]在学期末的标准化测试中测量——但学习的真正影响可能在 20 年后才显现。
@@ -871,7 +871,7 @@ Hattie 将 Popper 的三个世界（World 1 物理/World 2 主观/World 3 文化
 Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie & Zierer, 2018, p. 90）——被 Larsen 指出即使是这一估计也过高，且"未以论证、证据或参考文献支撑"。而更关键的是，Hattie 和 Zierer 将这一自我批判的认识论提醒转而用作呼吁更多 VL 研究的理由——Larsen 诊断这恰恰落入了 Luhmann 所描述的盲点困境([[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 3–4]])。
 
 > [!critique-logic] 批评二：大脑-身体-社会复杂性不可还原为简单测量
-> Larsen 从[[Neuroplasticity|神经可塑性]]出发提供了对 VL 的科学批判。人脑约含 860 亿个神经元、约 13 万亿个突触，而大脑不是漂浮在缸中的独立器官——"去学校读书的是完整的、具身的、情境化的、思考着的个体人类，不是大脑"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 5]])。Larsen 的核心论点是：任何将学习定位和识别于大脑中的尝试都在"制造关于学习存在公分母的神话"，而"每一次试图将复杂神经可塑性翻译和简化为简单信息的尝试都是徒劳的——甚至更糟：未能达到甚至违反科学家通常尊重和遵守的科学规范"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 5]])。Larsen 进一步论证了人类经验的"中间存在"（in-betweeners）特征：我们不经验突触层面的神经活动（微观），也不经验光速或星系旋转（宏观）——我们生活在"中间"，在日常宏观现象中生活([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 6]])。
+> Larsen 从[[Neuroplasticity|神经可塑性]]出发提供了对 VL 的科学批判。人脑约含 860 亿个神经元、约 13 万亿个突触，而大脑不是漂浮在缸中的独立器官——"去学校读书的是完整的、具身的、情境化的、思考着的个体人类，不是大脑"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 5]])。Larsen 的核心论点是：任何将学习定位和识别于大脑中的尝试都在"制造关于学习存在公分母的神话"，而"每一次试图将复杂神经可塑性翻译和简化为简单信息的尝试都是徒劳的——甚至更糟：未能达到甚至违反科学家通常尊重和遵守的科学规范"。Larsen 进一步论证了人类经验的"中间存在"（in-betweeners）特征：我们不经验突触层面的神经活动（微观），也不经验光速或星系旋转（宏观）——我们生活在"中间"，在日常宏观现象中生活([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 6]])。
 
 > [!tension] 批评三：教师VL ≠ 学生有意识／无意识学习
 > Larsen 区分了三个“世界”：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 4]])。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 7]])。"他肯定不是在作为概念史家或现象学家工作"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]])。
@@ -1067,7 +1067,7 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 > - 对[[Direct Instruction|直接教学]]的热情支持，对"[[Jean-Jacques Rousseau|卢梭]]式方法"（Rousseian inspired methods, p. 258）、"促进和探究方法"（facilitative and inquiry methods）、"[[Constructivist Paradigm|建构主义]]潮流"（constructivist fad, p. 243）的明确敌意
 > - 将教师分为"作为激活者的教师"（teacher as activator，基于直接教学）vs."作为促进者的教师"（teacher as facilitator，包括探究式教学、小班教学、问题式学习、[[Whole Language|全语言]]）
 > - 明确排除校外因素："关于阶级、贫困、家庭资源、家庭健康和营养的批判性讨论未被纳入"（Hattie, 2009, p.viii，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 150]]）
-> - 将减少班级规模和改进学校基础设施的投资称为"干扰政治"（politics of distraction）（Hattie, 2015, pp. 7–32，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 150]]）
+> - 将减少班级规模和改进学校基础设施的投资称为"干扰政治"（politics of distraction）（Hattie, 2015, pp. 7–32，引自）
 
 > [!conclusion] O'Connor 的结论
 > 这些先验立场直接决定了数据选择与效应量修正——全语言案例中唯一被 Hattie 通过选择性删除研究来修正效应量的操作，正是在与其明确立场相符的方向上进行的。
@@ -1099,7 +1099,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 >
 > 4. **VL 忽视关怀伦理** — VL 将对社区和他人的关怀伦理推入女性化与贬值的地位——爱、同僚情谊、慷慨，这些难以测量和货币化的东西被边缘化（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 38]]）。Noddings（1986）关于*"关怀社区"*的追问在 VL 框架内无处容身；知识的中心从课堂和学校转移到大学和学者手中，最具渗透力的权力属于能做[[Randomised Controlled Trials|随机对照试验]]的人。*"忠实"*（fidelity）对 Noddings 意味着对学生的忠诚，VL 则将其重新定义为对外部概念的服从。
 >
-> 5. **VL 接近法西斯主义** — 没有任何迹象表明 VL 专业学习项目包含对 VL 自身的批评（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 38]]）。它是极权主义*"有组织的遗忘"*（Kundera, 1981）的一部分，忽视 Foucault（1975/1995）的警告——*"可见性是一个陷阱"*，将[[Disciplina and Doctrina|规训]]渗透到最微小的细节中。Pinar（2011）警告：不加理解地应用课程，*"只有景观，即我们时代的法西斯主义"*。在 Gramsci 意义上，VL 是景观式霸权的：职前教师被要求进入教室后立即走向白板张贴学习意图，禁止任何其他方式开始上课（McKnight, 2016），教师在女性化职业中被煽动*"将自己生产为凝视的对象"*（Walkerdine & Ringrose, 2006, p. 37）。
+> 5. **VL 接近法西斯主义** — 没有任何迹象表明 VL 专业学习项目包含对 VL 自身的批评。它是极权主义*"有组织的遗忘"*（Kundera, 1981）的一部分，忽视 Foucault（1975/1995）的警告——*"可见性是一个陷阱"*，将[[Disciplina and Doctrina|规训]]渗透到最微小的细节中。Pinar（2011）警告：不加理解地应用课程，*"只有景观，即我们时代的法西斯主义"*。在 Gramsci 意义上，VL 是景观式霸权的：职前教师被要求进入教室后立即走向白板张贴学习意图，禁止任何其他方式开始上课（McKnight, 2016），教师在女性化职业中被煽动*"将自己生产为凝视的对象"*（Walkerdine & Ringrose, 2006, p. 37）。
 >
 > 6. **VL 过度简化** — 尽管堆砌了复杂的[[Effect Size|效应量]]与数字，VL 最终是一个过于简单的咒语——[[Hypothesis|假设]]教师能看到学生所看到的（既是能力主义的也是傲慢的），将成长仅定义为*"达到下一个水平"*（Hattie, in Waack, 2018）。*"Know thy impact"*带圣经式语气，是在[[Post-structuralism|后结构主义]]对知识的质疑之后对确定性的加固（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 40]]）；*"Impact"*（有力的接触）的词源以子弹和炮弹为例，眼睛将其不足隐藏在傲慢背后——而[[Positivism|实证主义]]科学不过是众多研究叙事之一（p. 41）。
 >
@@ -1189,7 +1189,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] 的[[Whole Language|全语言]]案例审查为批评者关于先验偏见驱动数据选择的论点提供了系统性文本证据：分类错误、不对称审查、选择性修正、不加权平均和次级[[Document|文献]]系统性忽略
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] 从[[Epistemology|认识论]]（稳定性/变异性双重困境）、[[Didaktik|教学理论]]（[[Bildung]] 缺失）和 Foucault 政治哲学（可见性作为精致的支配）三维度论证*“很明显 Hattie 事实上没有找到圣杯”*（[[Argument_Terhart_2011_JCS|Terhart, 2011, p. 436]]）
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 虽然承认 Hattie 的愿景“有远见”且“为他赢得了宝贵而持久的优点”，但方法*“在当前出版条件下以科学合理的方式是不可行的”*（p. 1, pp. 34–35）
-> - [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 提出学校中本应出现但缺席的论述：抗制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂（p. 42）
+> - McKnight & Whitburn 提出学校中本应出现但缺席的论述：抗制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂（p. 42）
 > - Nielsen & Klitmøller（2021）从 [[Jürgen Habermas|Habermas]] 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
 
 

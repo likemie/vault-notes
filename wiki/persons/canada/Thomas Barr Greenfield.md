@@ -56,15 +56,15 @@ updated: '2026-06-08'
 >
 > **"人性科学"的提出**
 >
-> Greenfield 主张以**[[Subjectivism|主观主义]]/[[Phenomenology|现象学]]方法**进行教育行政学术研究，呼吁一种"人性科学"（humane science）（见 Greenfield & Ribbins, 1993，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]]）。
+> Greenfield 主张以**[[Subjectivism|主观主义]]/[[Phenomenology|现象学]]方法**进行教育行政学术研究，呼吁一种"人性科学"（humane science）（见 Greenfield & Ribbins, 1993，引自）。
 >
 > > 例：与其假设可以通过统计方法客观测量"领导力有效性"，Greenfield 式研究会追问：在该组织的具体文化和社会脉络中，成员**如何理解和体验**领导力？这种主观理解如何塑造了他们的行动？
 >
 > **历史背景**
 >
-> Greenfield 的挑战并非孤立事件。同一时期，Bates（1980, 1983）从批判[[Theoretical Standpoint|理论立场]]也对逻辑经验主义提出了批评。这些批判共同导致了教育行政学界许多人认为：追求教育行政的科学既不值得也不可行([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
+> Greenfield 的挑战并非孤立事件。同一时期，Bates（1980, 1983）从批判[[Theoretical Standpoint|理论立场]]也对逻辑经验主义提出了批评。这些批判共同导致了教育行政学界许多人认为：追求教育行政的科学既不值得也不可行。
 >
-> > Evers & Lakomski（1991, 1996, 2000, 2012）后来一致论证：问题不在科学本身，而在科学的模型。他们接受 Greenfield 对逻辑经验主义的批评，但拒绝由此推论一切科学探究都不可能——主张需要一个更丰富的科学模型([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
+> > Evers & Lakomski（1991, 1996, 2000, 2012）后来一致论证：问题不在科学本身，而在科学的模型。他们接受 Greenfield 对逻辑经验主义的批评，但拒绝由此推论一切科学探究都不可能——主张需要一个更丰富的科学模型。
 
 ## 主要贡献
 

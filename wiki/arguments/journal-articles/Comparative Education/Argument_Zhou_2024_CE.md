@@ -82,7 +82,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > - **[[Transfer Translation Transformation|3T 框架]]**（Cowen 2009）：3T 被用作**结构性分析工具**而非装饰性引用——三个分析阶段直接对应 3T 的三个概念。Transfer 关注[[John Dewey|杜威]]讲演如何跨越太平洋、被何种渠道引入中国；Translation 关注中国改革者如何用自己的制度语言（七项标准、学分制课程）重新[[Coding in Qualitative Research|编码]]杜威；Transformation 关注翻译产物在中国政治语境中如何再次变形——这次变形并非回到杜威原意，而是彻底进入了一条新轨道(p.611)。
 > - **杜威的两个分析维度** 杜威的思想被拆解为一个"目标-方法"对——民主教育（目标）和渐进[[Pragmatism in China|实验主义]]（方法）。整篇论证围绕这对关系在接受语境中的命运展开：什么时候它们是统一的、什么时候开始分离、最终变成了什么(pp.610–611)。
-> - **接受语境分析（contextual reception analysis）** 隐性调用了比较教育中的接受研究传统（Schriewer 2012; Mayer 2019），强调"精确的转移过程和具体语境"——不是看杜威"是否被正确理解"，而是看特定社会政治条件如何从杜威思想中筛选出它能用的部分(p.611)。
+> - **接受语境分析（contextual reception analysis）** 隐性调用了比较教育中的接受研究传统（Schriewer 2012; Mayer 2019），强调"精确的转移过程和具体语境"——不是看杜威"是否被正确理解"，而是看特定社会政治条件如何从杜威思想中筛选出它能用的部分。
 
 ---
 
@@ -105,7 +105,7 @@ citation_aliases:
 > - 散篇报刊文章：来自《新闻报》《解放与改造》《教育潮》等
 > - 用于重建教育改革者内部的争论、分歧以及话语转向
 >
-> **资料来源** 瀚文民国书库、中文期刊全文数据库，以及通过馆际互借获取的重印文献(p.612)。
+> **资料来源** 瀚文民国书库、中文期刊全文数据库，以及通过馆际互借获取的重印文献。
 
 > [!warning] 讲演记录的编译问题
 > 三类来源均依赖重印版本和数字化数据库。杜威在华讲演——经过口译、笔录、整理、再版——经历了多层"[[Transfer Translation Transformation|转译]]"。这些编译行为本身是否已经构成 Cowen 意义上的"translation"甚至"transformation"？论文未讨论这一问题——它默认讲演记录忠实地反映了杜威的原意。但如果记录本身已经经历了中国的"折射"，那么在 Transfer 阶段被分析的杜威可能已经是某种被初步翻译过的版本。
@@ -352,7 +352,7 @@ citation_aliases:
 > 2. 杜威在民国时期被"碎片化"——其思想的不同元素被不同阵营切割出来、分别服务于截然相反的政治议程：激进派用民主目标；温和派用实验方法；民族主义者用教育连接社会的论述(pp.622–623)。
 > 3. 1922 年学制对杜威实施了"双重折扣"——"民主教育"标准因"平民"一词的语义模糊而去政治化（民主教育 → 普及教育）；新旧关系被建构为替代关系而非渐进关系，违背了杜威的实验方法(pp.617–618)。
 > 4. 1923 年后新教育经历了从"民主"原则到"[[Scientific Attitude|科学态度]]"原则的[[Paradigm|范式转换]]——其制度标志是《新教育评论》取代《新教育》——这不是对杜威的"背离"而是对杜威**另一部分**的再发现和使用(pp.619–621)。
-> 5. 杜威的"多面孔化"不是偶然现象——它揭示了知识跨文化转移的一个结构性特征：接受国分裂的社会政治语境会系统性地将一个复合思想家的思想拆解为服务于各阵营的独立元素(pp.622–623)。
+> 5. 杜威的"多面孔化"不是偶然现象——它揭示了知识跨文化转移的一个结构性特征：接受国分裂的社会政治语境会系统性地将一个复合思想家的思想拆解为服务于各阵营的独立元素。
 > 6. 1923 年课程在追随杜威"适应地方生活"建议时反而取消了农业科目——这表明即使是最忠实于原意的"翻译"也可能产生与原意相反的"转化"效果(p.618)。
 > 7. [[Tao Xingzhi|陶行知]]从 1919 年激进派到 1925 年温和派的转变——从学校作为独立"小共和国"到认同政府管教育——体现了社会政治语境对个体思想者的塑造力量(pp.620–621)。
 
@@ -371,10 +371,10 @@ citation_aliases:
 > ("This article further considers this phenomenon, and what at times has been referred to as the malleability of Dewey. It indicates that Dewey was, and had to be, something different in the specific context of the Republic of China.")(p.622)
 >
 > > “杜威可以被用来支持激进或温和的立场，既可以用来支持强调民主教育的新教育，也可以用来支持强调[[Scientific Attitude|科学态度]]的新教育。杜威不仅可以成为促进外国理想的框架的一部分，也可以成为促进国家发展的框架的一部分。”
-> ("Dewey could be used to support either radical or moderate positions, and both a new education stressing democratic education and one emphasising the [[Scientific Attitude]]. Dewey could not only be part of a framework promoting foreign ideals but also part of one promoting national development.")(p.622)
+> ("Dewey could be used to support either radical or moderate positions, and both a new education stressing democratic education and one emphasising the [[Scientific Attitude]]. Dewey could not only be part of a framework promoting foreign ideals but also part of one promoting national development.")
 >
 > > “由于反映了当时的社会、政治和教育动荡，中华民国因此预示了众所周知的对杜威的碎片化（接受）。”
-> ("Reflecting the social, political and educational turmoil of the time, the Republic of China consequently heralded the proverbial fragmentation of Dewey.")(p.622)
+> ("Reflecting the social, political and educational turmoil of the time, the Republic of China consequently heralded the proverbial fragmentation of Dewey.")
 
 ---
 
@@ -395,7 +395,7 @@ citation_aliases:
 >
 > ### 缺少国际比较维度
 >
-> 在结论中指出了全球比较方向——"this article raises further questions regarding the role of Dewey in other parts of the world"(p.622)——但正文中没有展开与其他杜威同样受到广泛关注的国家（如日本、土耳其、墨西哥、印度）的比较。杜威的"碎片化"是"民国中国特有的"还是"缺民主社会的一般现象"？前者指向中国特殊性（历史路径依赖），后者指向结构性普遍性（民主缺席本身导致碎片化）。这个问题被提出了但没有被检验。
+> 在结论中指出了全球比较方向——"this article raises further questions regarding the role of Dewey in other parts of the world"——但正文中没有展开与其他杜威同样受到广泛关注的国家（如日本、土耳其、墨西哥、印度）的比较。杜威的"碎片化"是"民国中国特有的"还是"缺民主社会的一般现象"？前者指向中国特殊性（历史路径依赖），后者指向结构性普遍性（民主缺席本身导致碎片化）。这个问题被提出了但没有被检验。
 
 ---
 

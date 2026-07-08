@@ -96,8 +96,8 @@ updated: 2026-06-22
 > - **置信水平** 对区间覆盖真值的确信程度。常用 95% 或 99%。95% 意味着若重复抽样 100 次，约 95 个区间会包含总体真值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al. (2011, Ch. 8, p. 147)]]
 > - **边际误差** 区间半宽 $e$，由研究者的精度需求决定。$e$ 越小，CI 越窄，所需[[Sample Size Determination|样本量]]越大。
 > - **[[Sampling Error\|标准误]]**：CI 的构建材料，$CI = \text{估计值} \pm Z \times [[School Effectiveness|SE]]$。二级[[Meta-analysis|元分析]]若缺少 $[[Standard Error|SE]]$，读者无法自行判断联合效应量估计是否稳定。[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 29)]]
-> - **区间重叠规则** 当两个估计值的 CI 重叠时，仅凭点估计大小不能判断二者有统计显著差异。$d = 0.71$ 与 $d = 0.72$ 这类相邻值本身不足以证明两个干预不同。[[Argument_Allerup_2015_Paideia|Allerup (2015, p. 47)]]
-> - **常规策略** 抽样中使用 95% 置信水平和 $\pm 3\%$ 置信区间作为折中方案。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al. (2011, Ch. 8, p. 147)]]
+> - **区间重叠规则** 当两个估计值的 CI 重叠时，仅凭点估计大小不能判断二者有统计显著差异。$d = 0.71$ 与 $d = 0.72$ 这类相邻值本身不足以证明两个干预不同。Allerup
+> - **常规策略** 抽样中使用 95% 置信水平和 $\pm 3\%$ 置信区间作为折中方案。Cohen et al.
 
 ---
 
@@ -134,7 +134,7 @@ updated: 2026-06-22
 > [!finding-cards] 关键实证发现
 > - **Hattie 排名缺少 CI** Hattie 的二级综合通常不进行显著性检验或不给出[[Effect Size|效应量]]估计的 CI；对于效应量较小的因素，是否存在效应因此并不清楚。[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 30)]]
 > - **点估计排名的误导性** 只给点估计的效应量表不像带有横向误差范围的排名那样呈现精度，无法判断 $d = 0.71$ 与 $d = 0.72$ 是否有统计可区分差异。[[Argument_Allerup_2015_Paideia|Allerup (2015, p. 47)]]
-> - **[[School Effectiveness|SE]] 缺失使 CI 无法计算**：如果[[Sampling Error|标准误]]本身计算错误或缺失，即使读者想自行判断相邻排名是否显著不同，也缺少必要信息。[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 30)]]
+> - **[[School Effectiveness|SE]] 缺失使 CI 无法计算**：如果[[Sampling Error|标准误]]本身计算错误或缺失，即使读者想自行判断相邻排名是否显著不同，也缺少必要信息。Wecker et al.
 
 ---
 

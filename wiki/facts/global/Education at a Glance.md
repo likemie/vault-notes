@@ -46,16 +46,16 @@ updated: '2026-05-18'
 > [!info] 定义
 > Education at a Glance (EAG) 是 [[OECD]] 的年度旗舰出版物，汇集 30 项[[International Education|国际教育]]指标，以 230 张表格、140 张图表和超过 100,000 个数据点描述 OECD 成员国及部分非成员国的教育系统状况。尽管名为"概览"，实际上是一份约 550 页的深度报告([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.4]])。
 >
-> > "the authoritative source for accurate and relevant information on the state of education around the world"（OECD, 2012, back cover; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.4]]）
+> > "the authoritative source for accurate and relevant information on the state of education around the world"（OECD, 2012, back cover;）
 
 ## 历史沿革
 
 > [!note-] 历史沿革
 > - **1992 年** 首版 EAG 出版，英法双语合订，仅 150 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
-> - **1993 年** 第二版翻倍至 300 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
-> - **1995 年** 英法版本分开发行，各 370 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
+> - **1993 年** 第二版翻倍至 300 页
+> - **1995 年** 英法版本分开发行，各 370 页
 > - **2002 年** 概念框架重组，[[Performance Indicators|绩效指标]]从最后一节移至第一节，标志从"广泛趋势分析"转向"以产出/绩效为核心"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13–14]])
-> - **至今** 约 550 页，涵盖更多教育系统和新指标([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
+> - **至今** 约 550 页，涵盖更多教育系统和新指标
 
 ## 核心要素
 

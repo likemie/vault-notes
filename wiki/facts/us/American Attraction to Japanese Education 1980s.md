@@ -77,7 +77,7 @@ updated: '2026-05-28'
 >
 > ### 1995：延迟的反击
 >
-> - **1995** — Berliner & Biddle 出版 *The Manufactured Crisis*，系统反驳"美国教育危机"叙事——但出版于吸引力高峰的十余年之后，属于对改革方狂热的延迟回应，而非主动提供了另一种理解日本教育的替代框架([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 235]])
+> - **1995** — Berliner & Biddle 出版 *The Manufactured Crisis*，系统反驳"美国教育危机"叙事——但出版于吸引力高峰的十余年之后，属于对改革方狂热的延迟回应，而非主动提供了另一种理解日本教育的替代框架
 
 ---
 

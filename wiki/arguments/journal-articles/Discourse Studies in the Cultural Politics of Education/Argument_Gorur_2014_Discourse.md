@@ -66,7 +66,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > - **[[Science and Technology Studies]]** — 以 Latour 的"科学在行动"为方法论指南，将指标开发视为"正在制造中的科学"(p.6)
 > - **[[Sociology of Measurement]]**（Woolgar） — 分析测量的工具主义（instrumentalism：事物如何在实用意义上被"弄到运作"）和施行性（[[Performativity]]：测量如何制造世界）(p.6–7)
-> - **共同生产（Co-production）**(Jasanoff, 2004) — 科学与治理相互构成的[[Analytic Framework|分析框架]](p.6)
+> - **共同生产（Co-production）**(Jasanoff, 2004) — 科学与治理相互构成的[[Analytic Framework|分析框架]]
 
 ## 研究方法
 

@@ -41,7 +41,7 @@ updated: '2026-05-18'
 > [!info] 核心主张
 > Miyake 的[[Executive Function|执行功能]]统一性与多样性框架（Unity and Diversity Framework of Executive Function）提出，执行功能（executive-function）由三个基本但相互关联的成分构成，三者共同形成我们所称的执行功能([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
 >
-> > "Miyake et al. (2000) were among the first to develop a comprehensive multidimensional model of EF. In particular, they created a unity and diversity framework of EF where three fundamental but correlated components were identified."([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])
+> > "Miyake et al. (2000) were among the first to develop a comprehensive multidimensional model of EF. In particular, they created a unity and diversity framework of EF where three fundamental but correlated components were identified."
 >
 > **统一性（Unity）：** 三个成分彼此相关，共同构成执行功能整体。
 > **多样性（Diversity）：** 每个成分有其独特的功能和发展轨迹。
@@ -59,7 +59,7 @@ updated: '2026-05-18'
 
 > [!note-] 发展脉络
 > - 2000 年 Miyake et al. 首次开发出综合性的 [[Executive Function|EF]] 多维模型([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])
-> - 2012 年 Miyake & Friedman 进一步发展了统一性与多样性框架([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])
+> - 2012 年 Miyake & Friedman 进一步发展了统一性与多样性框架
 
 ## 研究范式
 

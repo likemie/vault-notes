@@ -116,7 +116,7 @@ updated: 2026-07-05
 > 科学主义不仅通过测量和量化运作，还可以通过[[Critical Thinking|批判性思维]]课程本身的框架设计来隐性执行。这种形态比测量中心的科学主义更隐蔽，因为它包装在"学生中心""自由探究"的修辞中。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
 
 > [!claim] [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]：[[Theory of Knowledge|TOK]] 课程作为隐性科学主义的案例
-> [[International Baccalaureate|IB]] 的 [[Theory of Knowledge|TOK]] 课程声称培养学生的批判性思维和自由探究精神，但其评估框架以自创术语体系（认知方式、知识领域等）作为评分依据，暗中[[Disciplina and Doctrina|规训]]学生接受科学作为最权威的知识形式。当教师用书明确指示教师展示科学中有某种奇妙的东西、将其他学科描述为经过几千年探究仍然离确定答案很远而科学在短短几百年内就取得了惊人成就时，科学主义已经嵌入了课程的评价标准而非仅存在于教学内容中（pp.177–178）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
+> [[International Baccalaureate|IB]] 的 [[Theory of Knowledge|TOK]] 课程声称培养学生的批判性思维和自由探究精神，但其评估框架以自创术语体系（认知方式、知识领域等）作为评分依据，暗中[[Disciplina and Doctrina|规训]]学生接受科学作为最权威的知识形式。当教师用书明确指示教师展示科学中有某种奇妙的东西、将其他学科描述为经过几千年探究仍然离确定答案很远而科学在短短几百年内就取得了惊人成就时，科学主义已经嵌入了课程的评价标准而非仅存在于教学内容中（pp.177–178）。
 
 > [!contrast-table] 两种科学主义形态的对比
 > | 维度 | 以测量为中心的科学主义 | 以课程框架为载体的科学主义 |
@@ -145,7 +145,7 @@ updated: 2026-07-05
 > [!dev-timeline] 概念演变
 > - **1940s — 早期系统批评** Hayek（1942–1944）系统批评 scientistic 取向，反对把自然[[Scientific Method|科学方法]]机械移植到社会科学
 > - **1970s — 法兰克福学派奠基** 哈贝马斯（Habermas, 1972）和霍克海默（Horkheimer, 1972）提供了最系统的社会理论层面的批判：科学心态被提升至几乎不容置疑的地位——近乎一种宗教，成为西方唯一合法的[[Epistemology|认识论]]；所有知识都被等同于科学知识（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
->   - 同时期的其他批评者：Ions（1977）警告量化作为目的本身带来的去人格化风险；Roszak（1970, 1972）批评科学在追求客观性中是对真实自我的疏离；Holbrook（1977）批评[[Positivism|实证主义]]对内在世界和道德性的破产（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
+> - 同时期的其他批评者：Ions（1977）警告量化作为目的本身带来的去人格化风险；Roszak（1970, 1972）批评科学在追求客观性中是对真实自我的疏离；Holbrook（1977）批评[[Positivism|实证主义]]对内在世界和道德性的破产（, Ch. 1）
 >   - 维特根斯坦（1974）的名言：当所有可能的科学问题都得到回答时，生活的主要问题仍然没有被触及
 > - **2001 — 哲学立场分析** Stenmark 将 scientism 分析为关于科学能力边界的主张，强调其哲学立场属性，而非单一研究方法问题
 > - **2010s — 教育政策批判** Ross et al. (2018) 提示 scientism 在当代也可能以"只有科学能给出最终可信知识"的强断言形式出现。在教育政策与改进话语中，scientism 常与"可量化=可改进"的治理逻辑绑定（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）

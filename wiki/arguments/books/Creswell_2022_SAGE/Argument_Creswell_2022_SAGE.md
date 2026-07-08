@@ -339,7 +339,7 @@ citation_aliases:
 
 > [!quote]
 > “我们选择使用‘世界观’一词，意思是‘指导行动的一套基本信念’(Guba, 1990, p. 17)。”
-> ("We have chosen to use the term worldview as meaning 'a basic set of beliefs that guide action' (Guba, 1990, p. 17).")（第1章, p.7）
+> ("We have chosen to use the term worldview as meaning 'a basic set of beliefs that guide action'.")（第1章, p.7）
 
 - [[Postpositivism|后实证主义]] 持决定论和还原论立场。知识是推测性的，绝对真理无法被找到；研究者从理论出发，通过经验观察与测量收集数据，检验、验证并完善理论。它来自 19 世纪的 [[Auguste Comte|Comte]]、Mill、Durkheim、Newton、Locke，以及 Phillips & Burbules(2000)，是量化研究的主导哲学。
 - [[Constructivist Paradigm|建构主义]] 认为个体通过与世界的互动和社会历史背景建构主观意义。研究目标是理解参与者的多元和复杂视角，问题设计宽泛而开放。它从数据中归纳生成意义模式，不预设理论。思想来源包括 Berger & Luckmann(1967)、Lincoln & Guba(1985)、Crotty (1998) 等。它是质性研究的主导哲学。
@@ -878,7 +878,7 @@ Creswell 用一个四阶段流程图（图 6.1）展示研究焦点的逐步收�
 
 > [!quote]
 > “McCracken (1988) 提到在[[Qualitative Interview|质性访谈]]中需要让受访者描述他们的经历。访谈者（或目的陈述写作者）如果使用暗示方向性倾向的词语，就很容易违反质性研究中的‘[[Nondirectional Language|非方向性法则]]’ (McCracken, 1988, p. 21)。”
-> ("McCracken (1988) referred to the need in qualitative interviews to let the respondents describe their experiences. Interviewers (or purpose statement writers) can violate easily the '[[Nondirectional Language|law of nondirection]]' (McCracken, 1988, p. 21) in qualitative research by using words that suggest a directional orientation.")（第6章, p.126）
+> ("McCracken referred to the need in qualitative interviews to let the respondents describe their experiences. Interviewers (or purpose statement writers) can violate easily the '[[Nondirectional Language|law of nondirection]]' in qualitative research by using words that suggest a directional orientation.")（第6章, p.126）
 
 应探索"个体的自我表达经验"而非"个体的成功自我表达"（[[Nondirectional Language]]）。
 
@@ -1435,7 +1435,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 > [!quote]
 > “[[Analytic Framework|分析框架]]意味着超越参与者的日常语言，使用'分析传统'(Braun & Clark, 2006, p.78)。”
-> (“An analytic framework means going beyond the everyday language of participants and using an 'analytic tradition' (Braun & Clark, 2006, p.78).”)（第9章, p.196）
+> (“An analytic framework means going beyond the everyday language of participants and using an 'analytic tradition'.”)（第9章, p.196）
 
 描述性方法不因”基础性”而在价值上低于分析框架(pp.196–197)。
 
@@ -1583,7 +1583,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 > [!quote]
 > “混合方法研究作为一种独特的方法论，起源于 1980 年代末左右……它与另外两种方法论——量化和质性研究——并称为‘第三次方法论运动’(Tashakkori & Teddlie, 2010)。”
-> ("Mixed methods research as a distinct methodology originating around the late 1980s... It has been called the 'third methodological movement' (Tashakkori & Teddlie, 2010) alongside the other two—quantitative and qualitative research.")（第10章, p.232）
+> ("Mixed methods research as a distinct methodology originating around the late 1980s... It has been called the 'third methodological movement' alongside the other two—quantitative and qualitative research.")（第10章, p.232）
 
 2014 年[[Mixed Methods International Research Association|MMIRA]]的成立标志着该方法论在国际层面的制度化。其核心主张是"挖掘"（mining）数据——整合量化和质性两类数据能产生比单独使用任一种方法更强的理解。
 

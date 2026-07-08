@@ -38,7 +38,7 @@ updated: '2026-06-10'
 > [!info] 核心定义
 > 注意力惯性（Attentional Inertia）指个体在进行[[Cognitive Shifting|认知转换]]（Cognitive Shifting / Task Switching）时，由于过度关注先前具有相关性的规则或刺激特征，导致难以将注意力转移并压制旧规则以执行新规则的认知控制受阻现象。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]
 >
-> 这一概念通常用于解释幼童在规则转换任务中的行为表现，即他们能够口头陈述新规则，但在实际操作中仍然重复执行旧规则的特征。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]
+> 这一概念通常用于解释幼童在规则转换任务中的行为表现，即他们能够口头陈述新规则，但在实际操作中仍然重复执行旧规则的特征。
 
 ---
 
@@ -52,7 +52,7 @@ updated: '2026-06-10'
 > [!tension] 神经病理学类比
 > 这种虽然能口述规则却无法在行动中抑制旧规则、强行执行新规则的注意力惯性表现，与[[Prefrontal Cortex|前额叶皮层]] (PFC) 受损的成年患者表现出惊人的相似性。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]
 > 
-> 在生理上，这反映了 3–4 岁幼童的前额叶皮层及其相关网络发育尚未完全成熟，导致他们缺乏足够的抑制控制能力来克服注意力的粘性。[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]
+> 在生理上，这反映了 3–4 岁幼童的前额叶皮层及其相关网络发育尚未完全成熟，导致他们缺乏足够的抑制控制能力来克服注意力的粘性。
 
 ---
 

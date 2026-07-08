@@ -46,8 +46,8 @@ updated: 2026-05-22
 > [!note]-
 > - 1996 年底 文莱政府邀请 [[Cognition Education|Multi Serve]] 与时任 CEO Ron Perkinson 进入谈判，讨论建立一所新的私立[[International Schools|国际学校]]。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.21-22]])
 > - 1997 年 公司提出约 0.8M 美元方案，负责学校设计、课程设计、运作系统建立与教师招聘，后续范围扩展到寄宿设施。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22]])
-> - 1997 年 Prince Jefri 通过其个人投资公司 Amadeo 直接关注项目，介入认证、寄宿设施与资金支持，并以 30M 美元个人支票为首年运营兜底。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22]])
-> - 1997 至 1998 年 项目在复杂政治和文化环境中推进，学校最终按时、按预算完成建设并开学。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22]])
+> - 1997 年 Prince Jefri 通过其个人投资公司 Amadeo 直接关注项目，介入认证、寄宿设施与资金支持，并以 30M 美元个人支票为首年运营兜底。
+> - 1997 至 1998 年 项目在复杂政治和文化环境中推进，学校最终按时、按预算完成建设并开学。
 > - 1998 年 Prince Jefri 的政治与财政地位骤变，项目合同在运行两年多后突然终止，两项后续业务计划也一并中断。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22-23]])
 
 ## 关键文件／声明
@@ -60,13 +60,13 @@ updated: 2026-05-22
 > [!success]
 > - 该项目让公司首次系统积累了在陌生司法与文化环境中管理大型教育项目的经验，后来成为其进入 Qatar 和 Abu Dhabi 等市场的重要前置能力。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22-23]])
 > - 项目成功强化了公司把 [[Tomorrow's Schools Reforms]] 形成的教育治理经验向海外输出的想象，但作者也指出这种可移植性后来暴露出明显限制。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.23]])
-> - Jerudong 项目成为公司国际化雄心的心理催化剂，但其突然终止也说明海外教育市场高度受本地政治经济条件影响，难以维持稳定常驻业务。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22-23]])
+> - Jerudong 项目成为公司国际化雄心的心理催化剂，但其突然终止也说明海外教育市场高度受本地政治经济条件影响，难以维持稳定常驻业务。
 
 ## 争议与评论
 
 > [!warning]
 > - 项目虽然成功完成，但实施过程需要比预期更高程度的人际接触与政治文化协调，说明跨国教育咨询的关键困难不只在技术方案，而在复杂关系管理。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22]])
-> - 董事会一度因东南亚区域山火烟霾讨论是否临时把学校迁往英国，显示该项目还受环境与后勤风险影响。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22]])
+> - 董事会一度因东南亚区域山火烟霾讨论是否临时把学校迁往英国，显示该项目还受环境与后勤风险影响。
 
 ## 相关概念／政策
 

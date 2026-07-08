@@ -67,7 +67,7 @@ updated: '2026-05-23'
 > - **Comprehensive School Reform (CSR)**
 > - 以及其他多个组成部分
 >
-> ESEA 整体拨款因该法案增加了 **18%**，为"有史以来最大增幅"。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]])
+> ESEA 整体拨款因该法案增加了 **18%**，为"有史以来最大增幅"。
 
 NCLB 是美国证据问责运动的重要起点：NCLB 对“科学本位研究”的定义明确偏好随机实验；随后 [[What Works Clearinghouse|WWC]] 和 ESSA 进一步把 [[Randomised Controlled Trials|RCT]] 与 [[Quasi-Experimental Designs|QED]] 转化为教育项目证据等级中的核心方法([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 
@@ -130,7 +130,7 @@ NCLB 是美国证据问责运动的重要起点：NCLB 对“科学本位研究�
 > - **对问责制的依赖**[[Argument_Slavin_2002_ER|Slavin (2002, p. 19)]] 指出问责制是"必要但不充分的"——"教师和管理者需要专业发展、有效材料和其他与州标准紧密对齐的支持"。仅靠奖惩不足以改善实践。
 > - **AYP 的不切实际** 100% 熟练水平目标被广泛批评为统计学上不可能实现——导致绝大多数学校被标记为"失败"，削弱了问责制的公信力。
 > - **课程窄化** 对阅读和数学测试的高度强调被批评为导致了科学、社会研究、艺术等科目的缩减。
-> - **语音教学强制化**[[Argument_OConnor_2020_AJLL|O'Connor (2020, p.147)]]指出 NCLB 具有特定的教学法偏好——法案实际上禁止联邦资助不支持合成语音（synthetic phonics）项目的学区，体现了联邦政府对特定教学方法的直接干预。这一政策立场必须置于 1990 年代美国福音派基督教团体和共和党右翼发起反[[Whole Language|全语言]]运动的更广泛政治背景中理解（Weaver & Brinkley, 1998，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]]）。
+> - **语音教学强制化**[[Argument_OConnor_2020_AJLL|O'Connor (2020, p.147)]]指出 NCLB 具有特定的教学法偏好——法案实际上禁止联邦资助不支持合成语音（synthetic phonics）项目的学区，体现了联邦政府对特定教学方法的直接干预。这一政策立场必须置于 1990 年代美国福音派基督教团体和共和党右翼发起反[[Whole Language|全语言]]运动的更广泛政治背景中理解（Weaver & Brinkley, 1998，引自）。
 
 ## 相关概念／政策
 

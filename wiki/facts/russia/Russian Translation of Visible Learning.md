@@ -50,7 +50,7 @@ updated: '2026-05-18'
 > - 该书出版后在俄罗斯教育界引起广泛关注和讨论，包括教师网络研讨会（webinars）层面的积极传播
 > - **2018 年** — N.A. Borisenko 在 *Voprosy obrazovaniya*（Educational Studies）发表书评，称 VL 的出版是"近年来翻译教育[[Document|文献]]出版领域的主要事件之一"，并指出该书是"迄今为止唯一对影响学童教育成就的最重要因素进行评估的科学著作"([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237, citing Borisenko, 2018]])
 > - I.V. Vachkov 和 S.N. Vachkova（2018）基于对 Hattie 理念的分析，得出结论认为有必要使用[[Meta-analysis|元分析]]来"检验教学创新的生产力"([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237]])
-> - E.A. Sokolova（2017）发现 Hattie 的研究与俄罗斯联邦国家教育标准（FSES）中关于培养学生[[Critical Thinking|批判性思维]]的规定存在联系([[Argument_Golovchin_2019_ESC|Golovchin, 2019, p.237]])
+> - E.A. Sokolova（2017）发现 Hattie 的研究与俄罗斯联邦国家教育标准（FSES）中关于培养学生[[Critical Thinking|批判性思维]]的规定存在联系
 
 ## 关键文件／声明
 

@@ -56,7 +56,7 @@ updated: 2026-05-23
 
 > [!note]-
 > - 2008 — 意大利教育部推动 Azione LIM，提供 35,114 块互动白板和相应教师培训([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])。
-> - 2016 — 互动白板已覆盖意大利 42% 的班级([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])。
+> - 2016 — 互动白板已覆盖意大利 42% 的班级。
 
 ## 实施情况
 
@@ -70,8 +70,8 @@ updated: 2026-05-23
 
 > [!info]- 核心数据
 > - 35,114 块互动白板([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])
-> - 总成本 EUR 93,354,571([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])
-> - 2016 年覆盖 42% 班级([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])
+> - 总成本 EUR 93,354,571
+> - 2016 年覆盖 42% 班级
 
 ## 争议与评论
 

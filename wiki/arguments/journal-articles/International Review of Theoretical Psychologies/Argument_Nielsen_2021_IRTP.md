@@ -90,7 +90,7 @@ citation_aliases:
 > - 去情境化标准：d=0.40 截断点任意设定（类比：低剂量阿司匹林预防心脏病）
 > - 苹果与橘子比较：将根本不同的现象聚合在同一[[Effect Size|效应量]]下
 > - 垃圾进垃圾出：纳入低质量研究
-> - 统计问题：效应量计算错误(Bergeron, 2017; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; Topphol, 2011)
+> - 统计问题：效应量计算错误(Bergeron, 2017;; Topphol, 2011)
 >
 > 尽管如此，VL 仍被 Mansell (2008) 称为"教学的圣杯"，Evans (2012) 称 Hattie 为"可能是世界上最有影响力的教育学者"。丹麦教育研究者称之为"Hattie 革命"([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]])，有学者警告："拒绝使用 Hattie 结果的人承担了实质性的道德责任"([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, p. 7]])。
 >
@@ -136,7 +136,7 @@ citation_aliases:
 > - **反馈取代对话** 人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
 >
 > > “在 Hattie 的可见的学习理论中，教师必须利用反馈（向后反馈、向上反馈和向前反馈），创造一个环境，在其中学生……将学生的活动引向已经制定好的学习目标。这是一个封闭的系统，其中学习目标使教学手段变得神圣化。”
-> ("In Hattie's theory of [[Visible Learning]], the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students... direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching.") (pp. 88-89)
+> ("In Hattie's theory of [[Visible Learning]], the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students... direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching.")
 >
 > > “因此，Hattie 的学习理论具有‘使技术的学习途径变得[[Doxa|不言自明]]且占据主导地位的意识形态功能’。”
 > ("Hattie's theory of learning thus has 'the ideological function of making the technical approach to learning self-evident and dominant'") (p. 89, citing Kvale, 1976, p. 106)

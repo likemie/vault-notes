@@ -267,7 +267,7 @@ Bourdieu 的社会理论包含一套系统的[[Epistemology|认识论]]预备。
 
 ### 中国高等教育研究中的再运用
 
-- [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将 Bourdieu 的[[Habitus|习性]]、[[Champ|场域]]和[[Cultural Capital|文化资本]]用于解释中国精英大学生毕业出路分化：家庭背景通过中学教育经历和父母决策角色被“资本化”为学生进入大学时的习性差异与初始竞争优势([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+- [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将 Bourdieu 的[[Habitus|习性]]、[[Champ|场域]]和[[Cultural Capital|文化资本]]用于解释中国精英大学生毕业出路分化：家庭背景通过中学教育经历和父母决策角色被“资本化”为学生进入大学时的习性差异与初始竞争优势。
 - 其[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]受到 *Les Héritiers* 中“考试能手”与“浅薄涉猎者”区分的启发，并被延伸到 21 世纪中国精英大学场域([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 - [[Cultural Disembedding|文化脱嵌]]与[[Cultural Disorientation|文化迷失]]可被理解为 Bourdieu 习性错置、习性滞后和习性分裂问题在中国高等教育场域中的经验化表达([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 

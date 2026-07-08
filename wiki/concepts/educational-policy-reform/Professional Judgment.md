@@ -84,8 +84,8 @@ updated: 2026-06-19
 
 > [!feature] 核心要素
 > - **伦理与帮助维度 (Helping Dimension)** 基于伦理标准的实践。专业人士在决策时，必须有明确的伦理视角以关照学生作为人的发展（[[Bildung]]），而非仅关注测试分数。([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 6]])
-> - **方法与执行维度 (Doing Dimension)** 基于方法论上明确的实践。教师能够引用科学的教育学原则与实践逻辑，有目的地引导教学过程。([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 6]])
-> - **认知与知识维度 (Knowing Dimension)** 实践由研究知识提供信息。教师积极获取并理解相关的概率性研究证据，作为决策的重要信息源。([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 6]])
+> - **方法与执行维度 (Doing Dimension)** 基于方法论上明确的实践。教师能够引用科学的教育学原则与实践逻辑，有目的地引导教学过程。
+> - **认知与知识维度 (Knowing Dimension)** 实践由研究知识提供信息。教师积极获取并理解相关的概率性研究证据，作为决策的重要信息源。
 > - **反思实践循环 (Reflective Practice)** 包括“实践中反思”（持续自我评估）与“对实践的反思”（事后与同事协同研讨），将上述三个维度在具体教学交互中动态统合。([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 6; Schön, 1983]])
 
 > [!logic-map]- 专业判断的要素与决策关系

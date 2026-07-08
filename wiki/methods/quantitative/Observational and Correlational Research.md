@@ -1,7 +1,6 @@
 ---
 title: Observational and Correlational Research
 aliases:
-  - 观察研究
   - 相关性研究
 summary: "不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联"
 type: method
@@ -65,8 +64,8 @@ updated: 2026-05-18
 
 > [!example] 操作步骤
 > - **选择[[Variable|变量]]与样本**：研究者在既有情境中测量学生、教师、课堂或学校变量，而不是主动设置干预([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
-> - **收集量化数据** 数据可来自自陈问卷、大型数据库或其他量化测量。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 提到，一些[[Research Utilization|研究使用]]数万名学生的自陈变量并以结构方程模型分析([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
-> - **分析变量关系** 研究通常估计变量间关联、预测关系、中介或模型路径；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 指出，建模方法的术语可能诱发"predictors""mediators""outcomes"等带有[[Causality|因果]]色彩的表达([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
+> - **收集量化数据** 数据可来自自陈问卷、大型数据库或其他量化测量。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 提到，一些[[Research Utilization|研究使用]]数万名学生的自陈变量并以结构方程模型分析。
+> - **分析变量关系** 研究通常估计变量间关联、预测关系、中介或模型路径；Brady et al. 指出，建模方法的术语可能诱发"predictors""mediators""outcomes"等带有[[Causality|因果]]色彩的表达([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
 > - **生成后续[[Hypothesis|假设]]**：在研究序列中，描述性和相关性研究可识别可能的[[Causality|因果关系]]，随后应通过干预或[[Experimental Research|实验研究]]正式检验([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ## 适用场景
@@ -74,7 +73,7 @@ updated: 2026-05-18
 > [!success] 适用场景
 > - 用于研究早期阶段，帮助理解研究情境、识别重要[[Variable|变量]]和可能的[[Causality|因果关系]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 > - 当研究者关注大规模既有数据、无法或尚未操纵变量时，观察/相关研究可以提供描述性和探索性证据([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3, 8]])。
-> - 当目标是生成干预[[Hypothesis|假设]]而非直接宣称干预有效时，该方法与教育心理学"从探索到干预"的研究序列相容([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
+> - 当目标是生成干预[[Hypothesis|假设]]而非直接宣称干预有效时，该方法与教育心理学"从探索到干预"的研究序列相容。
 
 ## 局限性
 

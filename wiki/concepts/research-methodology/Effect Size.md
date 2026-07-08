@@ -133,7 +133,7 @@ updated: '2026-05-23'
 > [!note-] 时间线
 > 效应量先是统计综合工具，后来进入教育干预排名和政策传播，随后围绕解释边界、聚合方式和政策用途产生系统争议。
 > - **1964** — Benjamin Bloom 在 Stability and Change in Human Characteristics 中呈现了相关系数的聚合图表，其"两个标准差问题"（寻找与一对一辅导同样有效的小组教学方法）以标准差单位表述，为效应量在教育研究中的使用提供了早期范例([[Argument_Higgins_2016_RE|Higgins, 2016, p.37]])。
-> - **1966** — Robert Rosenthal 出版 Experimenter Effects in Behavioral Research，包含大量标准化平均差异的计算并跨领域比较。Glass 本人承认 Rosenthal 发展了效应量的基础度量([[Argument_Higgins_2016_RE|Higgins, 2016, p.37]])。
+> - **1966** — Robert Rosenthal 出版 Experimenter Effects in Behavioral Research，包含大量标准化平均差异的计算并跨领域比较。Glass 本人承认 Rosenthal 发展了效应量的基础度量。
 > - **1969** — [[Jacob Cohen]] 出版 [[Power Analysis|statistical power analysis]] for the Behavioral Sciences 第 1 版，引入 Cohen's d 作为标准化均值差的度量。
 > - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具([[Argument_Higgins_2016_RE|Higgins, 2016, pp.36–37]])。
 > - **1980** — Cooper 和 Rosenthal 的实证检验表明，[[Meta-analysis|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
@@ -192,7 +192,7 @@ $d$ 的直观解释隐含若干统计前提：前后分布应近似对称且接�
 
 约一半因素的效应量超过 0.4。Hattie 将 $d = 0.40$ 固定为"一个因素可以被认真视为可识别的阈值"([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]])。基于此框架，Hattie 将[[Whole Language|全语言]]的效应量 $d = 0.06$ 解释为"零实际影响"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]])。
 
-**关节点的经验起源**：[[Argument_Hattie_2010_NZJES|Hattie (2010, p.89)]]事后澄清，该截断值”也许它是任意的，但肯定不是反复无常的”，它是基于 800 多项元分析的经验平均值，用作”创造一个故事（关于什么在此效应之上和之下的共同特征）”的叙事工具，而非不可逾越的绝对阈值。关于户外教育 $d = 0.17$ 的”不一致”，批评者指出 Hattie 对此低效应量感到兴奋、与 0.40 阈值矛盾。Hattie 澄清这是罕见的”附加效应”案例：该 0.17 叠加在项目立即效应 $d = 0.60$ 之上，总效应达 0.77([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.89]])。
+**关节点的经验起源**：[[Argument_Hattie_2010_NZJES|Hattie (2010, p.89)]]事后澄清，该截断值”也许它是任意的，但肯定不是反复无常的”，它是基于 800 多项元分析的经验平均值，用作”创造一个故事（关于什么在此效应之上和之下的共同特征）”的叙事工具，而非不可逾越的绝对阈值。关于户外教育 $d = 0.17$ 的”不一致”，批评者指出 Hattie 对此低效应量感到兴奋、与 0.40 阈值矛盾。Hattie 澄清这是罕见的”附加效应”案例：该 0.17 叠加在项目立即效应 $d = 0.60$ 之上，总效应达 0.77。
 
 **2015 年的再解释：参考点而非戒律。** Hattie 在 Paideia 文章中进一步把 $d = 0.40$ 解释为所有可见教育影响的平均值，而不是脱离情境的硬边界。他特别指出，澳大利亚国家评估计划数据中学生一年平均增长约 $d = 0.40$，但小学约 $d = 0.55$，中学约 $d = 0.25$，因此同一个 $d$ 值必须结合学段、结果类型和同类研究背景解释（Hattie, 2015, p.11）。他还用网络学习三项元分析的平均 $d = 0.18$ 说明，低于 0.40 的效果不必然无价值；更合理的比较对象可能是同类网络学习研究，而不是全部教育影响的总平均（Hattie, 2015, p.17）。
 

@@ -43,14 +43,14 @@ updated: '2026-05-18'
 > [!info] 定义
 > 结构耦合（Structural Coupling）是 [[Niklas Luhmann]]（1997, pp.92-134）[[Luhmann's Systems Theory|系统理论]]中的概念，描述两个封闭的、自我指涉的（self-referential）、复杂的和不可预测的系统之间的关系——这种关系不是[[Causality|因果性]]的输入-输出，而是两个系统之间的"链接"（link）。[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.4)]]将其引入教育研究，用以描述教师的教学与学生的学习之间的关系。
 >
-> > "Teaching and learning are not causally related. The relation is a link, or a 'structural coupling' (Luhmann, 1997, pp. 92–134), between two closed, self-referential, complex and unpredictable reflection loops: The reflection loop of the learning student, and the reflection loop of the teacher as a reflective practitioner."([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.4]])
+> > "Teaching and learning are not causally related. The relation is a link, or a 'structural coupling' (Luhmann, 1997, pp. 92–134), between two closed, self-referential, complex and unpredictable reflection loops: The reflection loop of the learning student, and the reflection loop of the teacher as a reflective practitioner."
 
 ## 核心要素
 
 > [!abstract] 核心要素
 > - **封闭系统的链接** 教学系统与学习系统各自是自我指涉的封闭系统，结构耦合描述它们之间的互动方式——不是[[Causality|因果]]传输，而是相互"刺激"
 > - **不可预测性** 教师的教学干预会"扰动"（irritate）学生的内部认知系统，促使其自问如何反应，但具体反应对每个个案都是不可预测的([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])
-> - **非[[Causality|因果性]]**：教学干预不直接"导致"学习结果——"咖啡机类比"不适用（按特定按钮每次产出黑咖啡），外部教学干预必须经过学生的闭合反思循环才能产生反应([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])
+> - **非[[Causality|因果性]]**：教学干预不直接"导致"学习结果——"咖啡机类比"不适用（按特定按钮每次产出黑咖啡），外部教学干预必须经过学生的闭合反思循环才能产生反应
 >
 > > 例：教师讲解同样的内容，两个学生可能产生完全不同的理解——一个将其与已有知识连接形成新的洞察，另一个可能完全误解或忽略。这不是因为教师的"输入"不同，而是因为两个学生的内部认知系统以不同的方式处理了同样的"扰动"。
 

@@ -2,7 +2,6 @@
 title: Research Practicability
 aliases:
   - 研究可行性
-  - 研究可行性
   - research feasibility
   - practicability of research
   - practical constraints in research

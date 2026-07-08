@@ -56,7 +56,7 @@ updated: '2026-06-08'
 > [!info] 简介
 > Adrian Simpson 是英国杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长。他的研究兴趣横跨数学教育（推理与证明、中学到大学的过渡）和教育研究方法论（人们如何使用证据），但以对[[Effect Size|效应量]]概念在[[Evidence-Based Education|证据本位教育]]中应用的**系统技术批判**而获得最广泛的学术影响([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]]; [[Argument_Simpson_2019_ERE|Simpson, 2019, p.109]])。
 >
-> > "Adrian Simpson is Professor of Mathematics Education and the Principal of Josephine Butler College, one of the constituent colleges of Durham University. His research interests include reasoning and proof, the transition from school to university and how people make use of evidence." ([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]])
+> > "Adrian Simpson is Professor of Mathematics Education and the Principal of Josephine Butler College, one of the constituent colleges of Durham University. His research interests include reasoning and proof, the transition from school to university and how people make use of evidence."
 
 ## 生平与职涯
 
@@ -93,7 +93,7 @@ updated: '2026-06-08'
 >
 > **测量设计——聚焦度与精确度**([[Argument_Simpson_2017_JEP|Simpson, 2017, pp.11–14]])：聚焦度——[[Hypothesis|假设]]肥料仅对阳光下豆子有效，测量阳光下的豆子 → 更大效应量。精确度——选 5 颗 vs 10 颗豆子测量 → 后者效应量可达前者的 140%。教育中非标准化测试平均比标准化测试高约 40%（[[Education Endowment Foundation|EEF]] Toolkit 14 项元分析）；对 α=0.75 的测试，20 题使效应量翻倍以上（Figure 3）。
 >
-> **核心洞察**([[Argument_Simpson_2017_JEP|Simpson, 2017, p.5]])：好的实验者**合法地操纵 d** 来增强实验灵敏度——这是良好实验设计的体现。但操纵自由度因教育领域而异：反馈和[[Metacognition|元认知]]研究可限制样本、设计聚焦测试、选择无干预比较；延长学校日或校服研究无法如此。"联盟表"排名较高的领域仅是研究者**更容易设计敏感试验**的领域，而非干预更有效的领域。
+> **核心洞察**：好的实验者**合法地操纵 d** 来增强实验灵敏度——这是良好实验设计的体现。但操纵自由度因教育领域而异：反馈和[[Metacognition|元认知]]研究可限制样本、设计聚焦测试、选择无干预比较；延长学校日或校服研究无法如此。"联盟表"排名较高的领域仅是研究者**更容易设计敏感试验**的领域，而非干预更有效的领域。
 >
 > **效应量应更名为"效应清晰度"**([[Argument_Simpson_2017_JEP|Simpson, 2017, p.14]])：效应量"名字起得不好"——应称为 effect clarity。大 d 表示差异"非常清晰"，但并不意味着差异大、重要或具有教育显著性。研究者通过减少干预以外来源的方差来放大效应量——正如 Lipsey & Hurley (2009) 推荐的最小化组内变异——但这与干预的教育价值无关。
 >
@@ -131,10 +131,10 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - [[Effect Size]] — 提供了效应量批判的技术核心：效应量不是有效性的测量而是试验灵敏度（effect clarity）的指标（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2019）
-> - [[Evidence-Based Education]] — 对 EBE 方法论的核心分析工具（效应量和[[Meta-analysis|元分析]]）提供最详细的技术批判（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2019）
+> - [[Evidence-Based Education]] — 对 EBE 方法论的核心分析工具（效应量和[[Meta-analysis|元分析]]）提供最详细的技术批判
 > - [[Meta-analysis]] — 论证元分析的两项核心[[Hypothesis|假设]]（可比较性、可合并性）被系统性地违背，且偏差随研究领域变化而非随机([[Argument_Simpson_2017_JEP|Simpson, 2017, pp.4–5]])
 > - [[Meta-meta-analysis]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名，以这些排名驱动公共政策是"误导"([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]])
-> - [[EEF Teaching and Learning Toolkit]] — 论证 Toolkit 以效应量为基本分析单位，而效应量本身已被证明不可靠([[Argument_Simpson_2017_JEP|Simpson, 2017]])
+> - [[EEF Teaching and Learning Toolkit]] — 论证 Toolkit 以效应量为基本分析单位，而效应量本身已被证明不可靠
 > - [[Visible Learning]] — 论证 Hattie 的"影响气压计"排名反映的是各领域研究者设计敏感试验的难易程度([[Argument_Simpson_2017_JEP|Simpson, 2017, p.2]])
 
 ## 思想发展与影响
@@ -145,7 +145,7 @@ updated: '2026-06-08'
 > **对效应量批判[[Document|文献]]的影响**：Simpson 的论证被后续 EBE 批判广泛引用，构成方法论批判的技术支柱：
 >
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p.118)]]将 Simpson 的三大系统性偏差总结为效应量批判的核心构件，并整合进其三级失真框架——详见 [[Argument_Wrigley_2019_ERE]]
-> - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]明确引用 Simpson 的论证作为其"[[Meta-meta-analysis|元-元分析]]在教育政策中绝对没有任何角色"断言的方法论基础，同时肯定 Simpson 并非"把婴儿和洗澡水一起倒掉"——"Simpson is careful not to throw the baby out with the bathwater"([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.11]])——详见 Argument_Wiliam_2019_ERE
+> - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]明确引用 Simpson 的论证作为其"[[Meta-meta-analysis|元-元分析]]在教育政策中绝对没有任何角色"断言的方法论基础，同时肯定 Simpson 并非"把婴儿和洗澡水一起倒掉"——"Simpson is careful not to throw the baby out with the bathwater"——详见 Argument_Wiliam_2019_ERE
 > - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]在[[Whole Language|全语言]]案例的细读审查中运用 Simpson 效应量不可比性的论证，揭示 [[Visible Learning|VL]] 中分类错误和选择性排除的模式——详见 [[Argument_OConnor_2020_AJLL]]
 >
 > **对政策工具的直接影响** Simpson 的批判直接适用于 [[EEF Teaching and Learning Toolkit]] 和 [[Visible Learning]]——两者都以效应量为基本分析单位，而效应量本身已被论证为不可靠的测量指标。他的论证从技术层面支持了 Wrigley 的方法论批判和 Biesta 的哲学批判，使 EBE 批判形成了哲学-方法论-制度的完整框架。

@@ -56,9 +56,9 @@ updated: '2026-05-18'
 
 > [!abstract]
 > Partaken 通过三个案例说明强制[[Knowledge Transfer|知识转移]]的运作([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76]])：
-> - **Freire 的被压迫者教育学模型** 在"银行概念"（banking concept）中，"知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物"（Freire, 1972, p.17）；教授与被教授者之间的权力梯度决定了知识流动的方向——从压迫者的客观性向下流向被压迫者的主体性([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76]])
+> - **Freire 的被压迫者教育学模型** 在"银行概念"（banking concept）中，"知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物"（Freire, 1972, p.17）；教授与被教授者之间的权力梯度决定了知识流动的方向——从压迫者的客观性向下流向被压迫者的主体性
 > - **Herbart 的五段教学法** 准备—呈现—联想—概括—应用，可以被识别为强制知识转移的一种形式化步骤([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])
-> - **《[[Kokutai no Hongi|国体之本义]]》**：日本文部省思想局直接监督编写，将昭和天皇神化，大规模印刷并在日本帝国亚洲殖民地强制阅读——"[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])
+> - **《[[Kokutai no Hongi|国体之本义]]》**：日本文部省思想局直接监督编写，将昭和天皇神化，大规模印刷并在日本帝国亚洲殖民地强制阅读——"[[Knowledge Production|知识生产]]和通过教学的再生产是殖民化的工具"
 
 ## 概念辨析
 

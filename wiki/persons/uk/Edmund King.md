@@ -44,7 +44,7 @@ updated: '2026-06-08'
 
 > [!abstract]
 > - King, E. (1979). — 在 1970 年代方法论争论中公开试图[[Disciplina and Doctrina|规训]] Margaret Scotford Archer，确认了那一代英格兰比较教育学者对社会学缺乏共鸣和同情([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。
-> - King, E., & Archer, M. S. (1980). — 同上([[Argument_Cowen_2023_CE|Cowen, 2023, p.329]])。
+> - King, E., & Archer, M. S. (1980). — 同上。
 
 ---
 

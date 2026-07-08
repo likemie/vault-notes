@@ -53,8 +53,8 @@ updated: 2026-05-23
 
 > [!note]-
 > - 1999 — 伦敦会议提出为社会科学建立类似 Cochrane Collaboration 的综述中心，会议有来自四国的 80 人参加([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
-> - 2000 — Campbell Collaboration 成立([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
-> - 2007 — 国际 Campbell Collaboration 将主办公室迁至挪威，并由 Norwegian Institute of Public Health 提供资助([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.32]])。
+> - 2000 — Campbell Collaboration 成立。
+> - 2007 — 国际 Campbell Collaboration 将主办公室迁至挪威，并由 Norwegian Institute of Public Health 提供资助。
 
 ## 实施情况
 

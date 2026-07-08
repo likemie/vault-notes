@@ -56,7 +56,7 @@ updated: '2026-06-08'
 > [!quote]
 > "In [[Case Study]] research, Stake (1995) adds to a propositional generalization (the researcher's summary of interpretations and claims) the researcher's own personal experiences, called 'naturalistic generalizations' (p. 86)."（引自 Creswell & Creswell, 2022, p.67）
 > 
-> 在案例研究中，Stake (1995) 在命题性概括（研究者对解释和主张的总结）之外，加入了研究者自身的个人经验，称之为自然主义概括。
+> 在案例研究中，Stake 在命题性概括（研究者对解释和主张的总结）之外，加入了研究者自身的个人经验，称之为自然主义概括。
 
 ## 影响
 

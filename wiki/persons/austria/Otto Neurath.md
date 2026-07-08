@@ -124,7 +124,7 @@ updated: 2026-07-04
 > > [!axis] 教学实践中的适用性
 > > 纽拉特哲学是否适合高中课堂？[[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]认为纽拉特的反基础主义是比波普尔式[[Falsification|证伪主义]]更好的 [[Theory of Knowledge|TOK]] 课程起点，但这依赖于教师对科学哲学史的相当深入的理解，在实际推广中可能面临师资培训的瓶颈。
 > >
-> > - **[[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]** 认为纽拉特的反基础主义实证主义可以在课堂中通过具体的文本阅读和讨论（如"迷路者"比喻、不完全决定性游戏）来有效传达。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
+> > - **Zemplén** 认为纽拉特的反基础主义实证主义可以在课堂中通过具体的文本阅读和讨论（如"迷路者"比喻、不完全决定性游戏）来有效传达。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 
 ---
 

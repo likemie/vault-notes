@@ -195,4 +195,4 @@ Gewirtz & Ozga (1994, pp. 192–193) 将有权者研究中的守门问题总结�
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在[[Qualitative Research|质性研究]]设计中讨论守门人的审查框架（Bogdan & Biklen 五问题），将其定位为进入研究现场的关键步骤。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al. (2011, Ch. 5)]] — 在伦理章节中系统讨论守门人在准入谈判中的角色、Bell 的条件与保证框架、以及研究者与守门人的权力关系。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 在[[Sensitive Research|敏感研究]]章节中深入分析守门人的风险控制行为模式、Morrison 的十五项问题、Lee 的让步原则、守门人与担保人的对比、以及有权者研究中的守门问题（Gewirtz & Ozga）。
+> - Cohen et al. — 在[[Sensitive Research|敏感研究]]章节中深入分析守门人的风险控制行为模式、Morrison 的十五项问题、Lee 的让步原则、守门人与担保人的对比、以及有权者研究中的守门问题（Gewirtz & Ozga）。

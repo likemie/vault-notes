@@ -650,7 +650,6 @@
       "实验主义",
       "shiyanzhuyi",
       "shiyongzhuyi",
-      "pragmatism",
       "实用主义在中国"
     ]
   },
@@ -956,9 +955,19 @@
     ]
   },
   {
+    "title": "EST Integrated Development",
+    "type": "concept",
+    "path": "wiki/concepts/education-economics/EST Integrated Development.md",
+    "aliases": [
+      "教育科技人才一体化发展",
+      "Education-Science-Technology-Talent Integration",
+      "EST一体化"
+    ]
+  },
+  {
     "title": "New Quality Productive Forces",
     "type": "concept",
-    "path": "wiki/concepts/economics/New Quality Productive Forces.md",
+    "path": "wiki/concepts/education-economics/New Quality Productive Forces.md",
     "aliases": [
       "新质生产力",
       "new quality productive forces",
@@ -968,22 +977,12 @@
   {
     "title": "Total Factor Productivity",
     "type": "concept",
-    "path": "wiki/concepts/economics/Total Factor Productivity.md",
+    "path": "wiki/concepts/education-economics/Total Factor Productivity.md",
     "aliases": [
       "全要素生产率",
       "TFP",
       "multi-factor productivity",
       "Solow residual"
-    ]
-  },
-  {
-    "title": "EST Integrated Development",
-    "type": "concept",
-    "path": "wiki/concepts/education-economics/EST Integrated Development.md",
-    "aliases": [
-      "教育科技人才一体化发展",
-      "Education-Science-Technology-Talent Integration",
-      "EST一体化"
     ]
   },
   {
@@ -1748,8 +1747,7 @@
     "path": "wiki/concepts/educational-policy-reform/School Effectiveness.md",
     "aliases": [
       "学校效能",
-      "school effectiveness research",
-      "SE"
+      "school effectiveness research"
     ]
   },
   {
@@ -2405,8 +2403,6 @@
       "innovation hubs",
       "place-based innovation hub",
       "基于地点的创新中心",
-      "research park",
-      "研究园区",
       "innovation center"
     ]
   },
@@ -2749,9 +2745,7 @@
     "path": "wiki/concepts/higher-education/Pre-negotiated IP Rights.md",
     "aliases": [
       "预先协商知识产权",
-      "Pre-negotiated IP Rights",
       "预先协商IP权利",
-      "pre-negotiated IP rights",
       "first right to negotiate",
       "优先谈判权"
     ]
@@ -5375,8 +5369,7 @@
       "霍兰德因果推断基本问题",
       "因果推断的基本问题",
       "fundamental problem of causal inference",
-      "Holland's fundamental problem",
-      "Fundamental Problem of Causal Inference"
+      "Holland's fundamental problem"
     ]
   },
   {
@@ -6029,7 +6022,6 @@
     "aliases": [
       "实用主义",
       "实用主义范式",
-      "pragmatism",
       "pragmatic worldview"
     ]
   },
@@ -6065,10 +6057,7 @@
       "次级文献",
       "第一手资料",
       "第二手资料",
-      "二手文献",
-      "原始文献",
-      "初级文献",
-      "次级文献"
+      "原始文献"
     ]
   },
   {
@@ -6126,7 +6115,6 @@
     "aliases": [
       "目的陈述",
       "study aim",
-      "研究目的",
       "purpose of the study"
     ]
   },
@@ -6261,7 +6249,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Research Practicability.md",
     "aliases": [
-      "研究可行性",
       "研究可行性",
       "research feasibility",
       "practicability of research",
@@ -6428,10 +6415,6 @@
     "aliases": [
       "抽样误差",
       "standard error",
-      "标准误",
-      "standard error of the mean",
-      "均值的标准误",
-      "standard error of proportions",
       "sampling distribution",
       "抽样分布"
     ]
@@ -6566,8 +6549,6 @@
     "path": "wiki/concepts/research-methodology/Standard Error.md",
     "aliases": [
       "标准误",
-      "SE",
-      "SEM",
       "standard error of the mean",
       "均值的标准误",
       "standard error of proportions"
@@ -7641,7 +7622,6 @@
     "aliases": [
       "斯托克斯象限模型",
       "Stokes quadrant model",
-      "Pasteur's Quadrant",
       "巴斯德象限模型",
       "scientific research quadrants"
     ]
@@ -7948,8 +7928,7 @@
     "type": "theory",
     "path": "wiki/theories/research-methodology/Central Limit Theorem.md",
     "aliases": [
-      "中心极限定理",
-      "CLT"
+      "中心极限定理"
     ]
   },
   {
@@ -8366,8 +8345,7 @@
     "path": "wiki/methods/qualitative/Archival Correspondence Analysis.md",
     "aliases": [
       "档案通信分析",
-      "历史通信分析",
-      "档案研究"
+      "历史通信分析"
     ]
   },
   {
@@ -8764,7 +8742,6 @@
       "质性研究",
       "质的研究",
       "定性研究",
-      "描述性方法",
       "质性描述性方法",
       "Qualitative Descriptive Method",
       "descriptive qualitative research"
@@ -9163,7 +9140,6 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Observational and Correlational Research.md",
     "aliases": [
-      "观察研究",
       "相关性研究"
     ]
   },
@@ -9329,8 +9305,7 @@
     "path": "wiki/methods/quantitative/Single-Case Design.md",
     "aliases": [
       "单一个案设计",
-      "SCD",
-      "单一被试设计"
+      "SCD"
     ]
   },
   {
@@ -11673,7 +11648,6 @@
     "path": "wiki/facts/denmark/Hattie på dansk.md",
     "aliases": [
       "Hattie på dansk 2017",
-      "Hattie på dansk 2017",
       "丹麦版可见的学习（Visible Learning，VL）"
     ]
   },
@@ -11961,8 +11935,7 @@
     "aliases": [
       "国际文凭",
       "IB",
-      "IB Diploma",
-      "IB Diploma Program"
+      "IB Diploma"
     ]
   },
   {

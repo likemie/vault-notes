@@ -66,9 +66,9 @@ updated: 2026-05-18
 > [!info] 与[[Pierre Bourdieu|布迪厄]]概念的关系
 > 精英休克是布迪厄[[Habitus|习性]]理论在经验层面的具体化（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）：
 >
-> - **习性滞后（Habitus Hysteresis）** 布迪厄用以解释"机遇被错过"的概念——"习性滞后恐怕是机遇和在抓住机遇所需的倾向之间存在差距的根据之一"（Bourdieu, 1990，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。精英休克就是习性滞后在主观体验层面的表征
-> - **习性错置（Habitus Dislocation）** 习性进入不配合的[[Champ|场域]]时产生的如同"鱼离了水"的感觉（Bourdieu & Wacquant, 1992，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - **习性分裂（Habitus Divided Against Itself）** 最严重的情形——个体需要不断调和自身与新场域的矛盾，同时维持与旧有场域的联系，"产生一种习性分裂的体验"（Bourdieu, 1999, p.511，引自[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - **习性滞后（Habitus Hysteresis）** 布迪厄用以解释"机遇被错过"的概念——"习性滞后恐怕是机遇和在抓住机遇所需的倾向之间存在差距的根据之一"（Bourdieu, 1990，引自）。精英休克就是习性滞后在主观体验层面的表征
+> - **习性错置（Habitus Dislocation）** 习性进入不配合的[[Champ|场域]]时产生的如同"鱼离了水"的感觉（Bourdieu & Wacquant, 1992，引自）
+> - **习性分裂（Habitus Divided Against Itself）** 最严重的情形——个体需要不断调和自身与新场域的矛盾，同时维持与旧有场域的联系，"产生一种习性分裂的体验"（Bourdieu, 1999, p.511，引自）
 >
 
 ## 在郑雅君（2023）中的应用
@@ -76,8 +76,8 @@ updated: 2026-05-18
 > [!success] 在[[Yajun Zheng|郑雅君]]（2023）中的应用
 > 郑雅君将精英休克作为解释[[Intuition-Dependent Mode|直觉依赖模式]]**被激化**的关键机制：弱势学生在中小学阶段的应试[[Champ|场域]]中形成的[[Habitus|习性]]（刻苦、听话、以成绩定义自我）进入大学场域后不再有效——"原本得心应手的参赛策略和知识就不够用了，很多人甚至没有很快意识到这一点"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。自我认同的撕裂和对自信心的打击使得直觉依赖者"不再清楚自己是谁，更不用说树立目标，去定义自己想成为谁"。
 >
-> 精英休克的长期后果并非均一的：约半数直觉依赖者在大学期间完成了向[[Goal-Controlled Mode]]的转变，而未能转变者的出路则面临更大的不确定性([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+> 精英休克的长期后果并非均一的：约半数直觉依赖者在大学期间完成了向[[Goal-Controlled Mode]]的转变，而未能转变者的出路则面临更大的不确定性。
 >
-> [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第六章在此基础上进一步区分了精英休克所引发的两重[[Cultural Barrier|文化障碍]]——[[Cultural Disembedding|文化脱嵌]]（对物理和社会文化环境的全面疏离，多为短期性）和[[Cultural Disorientation|文化迷失]]（内在自我冲突与目标策略[[Lost Mode|迷失]]，更为根本和长期）。精英休克可被理解为两重障碍在入学初期的集中爆发。
+> 郑雅君第六章在此基础上进一步区分了精英休克所引发的两重[[Cultural Barrier|文化障碍]]——[[Cultural Disembedding|文化脱嵌]]（对物理和社会文化环境的全面疏离，多为短期性）和[[Cultural Disorientation|文化迷失]]（内在自我冲突与目标策略[[Lost Mode|迷失]]，更为根本和长期）。精英休克可被理解为两重障碍在入学初期的集中爆发。
 >
 

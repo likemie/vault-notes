@@ -73,7 +73,7 @@ updated: '2026-05-18'
 >   2. **制度理性**（机构层面）：满足研究基础设施需求、进行国际绩效对标、提升全球声誉和排名
 >   3. **国家经济理性**（国家层面）：服务于贸易目标、提升国家创新能力和经济竞争力
 >   4. **外交理性**（国家层面）：将研究合作作为公共外交工具，维护和拓展国际关系网络
-> - **[[Snowball Sampling|网络化]]转型**：Castells (1996) 的[[Network Society|网络社会]]理论和 Benkler (2006) 的"网络财富"概念为理解这一转型提供了分析资源——合作从双边线性关系转向多节点、分布式的网络结构([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
+> - **[[Snowball Sampling|网络化]]转型**：Castells (1996) 的[[Network Society|网络社会]]理论和 Benkler (2006) 的"网络财富"概念为理解这一转型提供了分析资源——合作从双边线性关系转向多节点、分布式的网络结构
 > - **国际[[University-Industry Collaboration|产学合作]]的五维挑战**：[[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al. (2025)]]从产学合作视角，将国际研究合作的成功条件归纳为五个维度（pp.311–316）：
 >   1. **目标与激励对齐（Strategy/Alignment）** 大学追求科学发现和发表，产业看重[[Return on Investment|投资回报]]；双方对价值的理解偏差更多源于感知而非现实，通过增加沟通可以缓解（pp.311–312）
 >   2. **合作经验与渠道（Know-how）** 许多机构缺乏启动国际合作的实务经验，可借助 Halo、SciVal 等在线工具寻找合作伙伴（pp.312–313）
@@ -85,14 +85,14 @@ updated: '2026-05-18'
 
 > [!tip]-
 > - [[Network Society|网络社会]]理论（Castells, 1996）— 解释跨国研究合作的[[Snowball Sampling|网络化]]结构转型([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
-> - "网络财富"（Benkler, 2006）— 解释社会生产如何通过网络化协作转变市场和自由([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])
+> - "网络财富"（Benkler, 2006）— 解释社会生产如何通过网络化协作转变市场和自由
 > - [[Geopolitics of Knowledge|知识地缘政治]] — 跨国研究合作是知识地缘政治在制度层面的关键运作[[Champ|场域]]，合作的条件、方向和收益分配深受地缘政治格局影响([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–100]])
 
 ## 实证发现
 
 > [!success]
 > - 澳大利亚政府基于《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》大量投资于 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF)，旨在与"高绩效国家"维持和加强研究关系（Barlow, 2014, p.13, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]]）
-> - 澳大利亚《[[International Education|国际教育]]国家战略 2025》以"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越和拥抱国际教育扩展机遇来使澳大利亚教育机构参与全球竞争"为目标([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])
+> - 澳大利亚《[[International Education|国际教育]]国家战略 2025》以"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越和拥抱国际教育扩展机遇来使澳大利亚教育机构参与全球竞争"为目标
 > - COVID-19 和中美地缘政治紧张改变了跨国研究合作的条件——知识流动的自由受到新的政治限制([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.100–101]])
 > - [[University-Industry Co-location|产学共同选址]]是促进国际[[University-Industry Collaboration|产学合作]]的有效空间策略：通过将产业人员嵌入大学校园，缩短物理距离以降低沟通和文化壁垒。典型案例包括联合利华在瓦赫宁根大学的 Hive 食品[[Innovation Hub|创新中心]]（500 名员工驻校）和 Mars 在 UC Davis 的 Mars 高级研究院（MARI）([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, pp.317–318]])
 

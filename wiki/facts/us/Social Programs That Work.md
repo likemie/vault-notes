@@ -72,7 +72,7 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — SPTW 是 12 个被比较的教育清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-> - [[Evidence-Based Education]] — SPTW 展示了社会项目清算中心如何把教育项目纳入更宽广的社会政策证据库([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
+> - [[Evidence-Based Education]] — SPTW 展示了社会项目清算中心如何把教育项目纳入更宽广的社会政策证据库。
 > - [[Randomised Controlled Trials]] — SPTW 对 RCT 的标准描述程度为 3，并接受总体流失低于 20% 的 RCT([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10]])。
 > - [[Intent-to-Treat Analysis]] — SPTW 是明确要求 ITT 分析的三个清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
 

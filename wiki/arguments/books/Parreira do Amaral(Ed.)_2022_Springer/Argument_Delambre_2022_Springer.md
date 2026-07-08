@@ -81,7 +81,7 @@ Delambre 的核心关切是：现有的知识地缘政治讨论（以 [[Walter M
 > 本文属于**理论建构 + 实践案例说明**的混合文章（非实证研究）。
 >
 > - **理论建构** 基于作者 2013–2020 年在巴西里约热内卢开展的多案例实践，归纳提出 [[Creative Tension of Sense]] [[Epistemology|认识论]]和 [[Ganz-Methode]] 方法论(p.107)
-> - **案例范围** 涵盖六个实践领域——个体发展、地方发展（通过 [[Ecomuseology|生态博物馆]] 和剧场）、商业发展、学校发展、制度发展、可持续发展(p.107)
+> - **案例范围** 涵盖六个实践领域——个体发展、地方发展（通过 [[Ecomuseology|生态博物馆]] 和剧场）、商业发展、学校发展、制度发展、可持续发展
 > - **关键案例** 里约热内卢 Rocinha 贫民窟的剧场项目（"Bando Cultural Favelados da Rocinha"），导演 [[Richard Castelo Branco]] 以自创的 EspectAtor 方法指导居民讲述自身的暴力创伤故事。该案例被用作"[[Epistemology of Resistance|抵抗认识论]]"（epistemology of resistance）在实践中的具体呈现(p.109–110)
 > - **方法论局限** 论文未提供案例的系统性数据（如访谈转录、参与者数量、评估指标），案例仅以简要叙述方式呈现，是"说明"而非"证明"
 

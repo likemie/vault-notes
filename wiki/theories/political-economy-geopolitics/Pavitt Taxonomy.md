@@ -48,7 +48,7 @@ updated: 2026-06-10
 ## 核心主张
 
 > [!abstract]
-> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的[[Hypothesis|假设]]来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源（内部研发 vs 外部供应商）**、**性质（产品创新 vs 流程创新）**和**企业规模与市场结构**，将制造业分为四个类别。[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016)]]。
+> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的[[Hypothesis|假设]]来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源（内部研发 vs 外部供应商）**、**性质（产品创新 vs 流程创新）**和**企业规模与市场结构**，将制造业分为四个类别。[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业。
 
 ---
 ## 理论框架

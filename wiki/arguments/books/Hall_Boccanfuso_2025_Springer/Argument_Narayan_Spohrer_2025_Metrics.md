@@ -154,7 +154,7 @@ citation_aliases:
 
 > 试想一所师范大学的战略重点从"课程与教学论"转向"教育技术"。与地方教育局的实习基地合作（Regions）、在职教师培训项目（Readiness）、毕业生招聘管道（Recruiting）未必需要随研究方向而变化。但如果度量指标只有"合作论文数"一项（Research），其他维度的价值就完全看不见，管理者也就无法做出分维度的精细调整。
 
-11. 六 R 框架的运作依赖于一个数据基础设施：IBM 的中央数据库追踪了全球约 2000 所高校的投资历史和成果，覆盖 30 余万员工、每年约 3 万新聘和实习人员的信息(p.89)。每位伙伴关系执行主管（Partnership Executive Program, PEP）在访问一所大学之前，可以调取一份关系全景报告：该校有多少教师接受过 IBM 研究资助、专业领域分布如何；历年从该校招聘的员工数量和学位分布、现任高管中的校友有多少；该校是否是 IBM 软件或超算的客户。所有这些信息汇总为一份大学作为"复杂企业"的剖面图(p.89)。
+11. 六 R 框架的运作依赖于一个数据基础设施：IBM 的中央数据库追踪了全球约 2000 所高校的投资历史和成果，覆盖 30 余万员工、每年约 3 万新聘和实习人员的信息(p.89)。每位伙伴关系执行主管（Partnership Executive Program, PEP）在访问一所大学之前，可以调取一份关系全景报告：该校有多少教师接受过 IBM 研究资助、专业领域分布如何；历年从该校招聘的员工数量和学位分布、现任高管中的校友有多少；该校是否是 IBM 软件或超算的客户。所有这些信息汇总为一份大学作为"复杂企业"的剖面图。
 
 12. 这一步的论证力量在于，它将"信任"从抽象的修辞转化为可追踪、可积累、可通过数据透明的管理实践。信任建立在双方共享的合作历史数据之上。当 PEP 主管带着对该校关系的全景理解走进大学校长办公室时，校长能感受到对方真的了解自己、重视这段关系，这种感受本身就是信任的具体载体。
 
@@ -188,22 +188,22 @@ citation_aliases:
 15. 中型项目（$250K–$1M/年）的特征是涉及一个科系的多位教授和研究生，目标是帮助企业实验室启动一个新研究领域并建立能力中心。Rensselaer-IBM 人工智能研究合作（Artificial Intelligence Research Collaboration, AIRC）暨计算未来研究所（Future of Computing Institute, FOCI）是这一规模的代表性案例。
 
 > [!example] Rensselaer-IBM AIRC/FOCI（中型 · 能力中心建设）
-> 致力于推进 AI 科学并促进 AI 和机器学习在双方共同感兴趣的研究调查、创新和应用中的使用(p.92)。这类广泛合作的成功依赖于双方高层的承诺。AIRC 项目由一位 IBM 高管和伦斯勒理工学院（Rensselaer Polytechnic Institute, RPI）的研究副校长共同推动；技术议程由一位 IBM Fellow 与 RPI 的首席信息官联合监督；另设项目管理者负责推进日常运行和度量产出(p.92)。这种三层治理结构（高管驱动 → 技术专家监督 → 项目经理执行）是中型项目区别于小型项目的关键特征：小型项目靠研究者个人关系运转，中型项目需要制度化的治理才能协调多位教授和研究生的产出。
+> 致力于推进 AI 科学并促进 AI 和机器学习在双方共同感兴趣的研究调查、创新和应用中的使用(p.92)。这类广泛合作的成功依赖于双方高层的承诺。AIRC 项目由一位 IBM 高管和伦斯勒理工学院（Rensselaer Polytechnic Institute, RPI）的研究副校长共同推动；技术议程由一位 IBM Fellow 与 RPI 的首席信息官联合监督；另设项目管理者负责推进日常运行和度量产出。这种三层治理结构（高管驱动 → 技术专家监督 → 项目经理执行）是中型项目区别于小型项目的关键特征：小型项目靠研究者个人关系运转，中型项目需要制度化的治理才能协调多位教授和研究生的产出。
 >
-> 合作产生了近 50 篇出版物。该项目的创新元素是 IBM 为一定数量的 RPI 学生提供实习保障，且实习在 IBM 全球多个实验室进行(p.92)。"实习保障"是一个重要的制度设计信号。在小型项目中，招聘成功是理想的附带结果；在中型项目中，招聘承诺变成了正式的合作条款。这意味着企业不仅把合作视为研究投入，也将其视为人才招聘的战略投资。中型项目的核心度量因此包括出版物数量、建立能力中心所需的时间、以及研究生管道的规模和质量。
+> 合作产生了近 50 篇出版物。该项目的创新元素是 IBM 为一定数量的 RPI 学生提供实习保障，且实习在 IBM 全球多个实验室进行。"实习保障"是一个重要的制度设计信号。在小型项目中，招聘成功是理想的附带结果；在中型项目中，招聘承诺变成了正式的合作条款。这意味着企业不仅把合作视为研究投入，也将其视为人才招聘的战略投资。中型项目的核心度量因此包括出版物数量、建立能力中心所需的时间、以及研究生管道的规模和质量。
 
 > 在教育领域，中型产学合作类似一所师范大学与一个地级市教育局共建"教师发展研究中心"。合作涉及大学多个系所（课程论、教育技术、教育管理），需要双方高层（大学分管副校长和教育局局长）制度化推动，设立专职项目协调人，度量看联合课题数、每年接收的实习教师数量和留任率、以及该中心从启动到稳定运转所需的时间。
 
 16. 大型项目（>$1M/年）和超大型项目（>$10M/年）的目标不再是启动一个研究领域，而是开创或大幅推进一个领域。这类合作往往需要多个利益相关方（企业、大学、政府、多个产业成员）的参与，风险和回报都呈数量级放大。作者呈现了三个案例，分别代表大型产学合作的不同模式。
 
 > [!example] IIDAI（大型 · 平台驱动型）
-> 伊利诺伊-IBM 发现加速器研究所（IBM-Illinois Discovery Accelerator Institute, IIDAI）于 2021 年秋季成立，最初设有四个研究推进方向：混合云与 AI、量子计算、材料发现、可持续性，每个方向旨在加速对复杂全球挑战的解决方案发现(p.93)。2023 年，研究所进入新阶段，将活动重新聚焦于开发一个开放式高性能计算平台以支持 AI 注入的应用。该平台将在基础设施层连接经典计算和量子计算，同时提供优化的 AI 模型训练和推理能力(p.93)。这一平台战略有一个重要的组织后果：它为项目选择提供了筛选标准。每个与 AI 相关的项目都可以申请资助，但只有能够利用或贡献于这个开放计算平台的项目才被优先考虑。平台既是技术基础设施，也是项目组合的管理工具。IIDAI 的度量体系跨越了六 R 框架中的多个领域：联合出版物和研究生论文属于 Research 和 Readiness，外部实习和博士后派驻 IBM 属于 Recruiting，IBM 研究人员在大学授课和影响课程设置属于 Responsibility，联合申请外部资金则涉及 Revenue 和 Regions(pp.93–94)。
+> 伊利诺伊-IBM 发现加速器研究所（IBM-Illinois Discovery Accelerator Institute, IIDAI）于 2021 年秋季成立，最初设有四个研究推进方向：混合云与 AI、量子计算、材料发现、可持续性，每个方向旨在加速对复杂全球挑战的解决方案发现(p.93)。2023 年，研究所进入新阶段，将活动重新聚焦于开发一个开放式高性能计算平台以支持 AI 注入的应用。该平台将在基础设施层连接经典计算和量子计算，同时提供优化的 AI 模型训练和推理能力。这一平台战略有一个重要的组织后果：它为项目选择提供了筛选标准。每个与 AI 相关的项目都可以申请资助，但只有能够利用或贡献于这个开放计算平台的项目才被优先考虑。平台既是技术基础设施，也是项目组合的管理工具。IIDAI 的度量体系跨越了六 R 框架中的多个领域：联合出版物和研究生论文属于 Research 和 Readiness，外部实习和博士后派驻 IBM 属于 Recruiting，IBM 研究人员在大学授课和影响课程设置属于 Responsibility，联合申请外部资金则涉及 Revenue 和 Regions(pp.93–94)。
 
 > [!example] MIT-IBM Watson AI Lab（大型 · [[Industry Affiliate Program|产业联盟]]型）
-> 该实验室成立于 2017 年，目前管理超过 80 个项目，重点是基于数据驱动的深度学习方法理解语言和视觉世界，以及使大规模 AI 系统更高效和鲁棒的技术(p.93)。实验室还开发面向医疗保健和各种决策应用的 AI 系统。2021 年，IBM 研究团队搬入 MIT 校园内 [[Kendall Square]] 的新办公室，与 MIT 师生同址办公(p.94)。这种物理共址（[[University-Industry Co-location|co-location]]）旨在降低日常沟通的摩擦成本。该案例最显著的创新是其产业成员模式：Shell、Evonik、Wells Fargo、Boston Scientific、Nexplore、Woodside 等大企业作为成员加入，在顾问委员会中拥有席位，通过领域知识影响研究组合(pp.94–95)。成员企业的收益分三个层次：第一，可商用 IP 条款——与通常只能非商业使用的开源代码不同，该合作中开发的 IP 可用于构建专有技术以产生商业影响；第二，IBM 科学家为成员企业提供战略咨询和规模化路径建议；第三，成员企业可参加研讨会、教程和网络研讨会以发展内部 AI 技能(p.94)。度量的核心是成员企业数量、成员企业对价值的反馈、以及 IP 被产业采纳的案例数，这些都是论文数之外的新维度。
+> 该实验室成立于 2017 年，目前管理超过 80 个项目，重点是基于数据驱动的深度学习方法理解语言和视觉世界，以及使大规模 AI 系统更高效和鲁棒的技术(p.93)。实验室还开发面向医疗保健和各种决策应用的 AI 系统。2021 年，IBM 研究团队搬入 MIT 校园内 [[Kendall Square]] 的新办公室，与 MIT 师生同址办公(p.94)。这种物理共址（[[University-Industry Co-location|co-location]]）旨在降低日常沟通的摩擦成本。该案例最显著的创新是其产业成员模式：Shell、Evonik、Wells Fargo、Boston Scientific、Nexplore、Woodside 等大企业作为成员加入，在顾问委员会中拥有席位，通过领域知识影响研究组合(pp.94–95)。成员企业的收益分三个层次：第一，可商用 IP 条款——与通常只能非商业使用的开源代码不同，该合作中开发的 IP 可用于构建专有技术以产生商业影响；第二，IBM 科学家为成员企业提供战略咨询和规模化路径建议；第三，成员企业可参加研讨会、教程和网络研讨会以发展内部 AI 技能。度量的核心是成员企业数量、成员企业对价值的反馈、以及 IP 被产业采纳的案例数，这些都是论文数之外的新维度。
 
 > [!example] Albany NanoTech / NY CREATES（大型 · 国家战略型）
-> 这是 IBM、纽约州政府与多所学术机构之间持续超过 20 年的半导体研发合作伙伴关系(pp.94–95)。该设施由纽约研究、经济促进、技术、工程与科学中心（Center for Research, Economic Advancement, Technology, Engineering and Science, NY CREATES）拥有和运营，是美国最大和最先进的非营利半导体研发设施之一。自成立以来，Albany NanoTech 园区的资本投资已超过 $150 亿，NY CREATES 的年度运营预算约 $3 亿且仍在增长(p.95)。园区企业合作伙伴包括 GlobalFoundries、Samsung、Applied Materials、Tokyo Electron、ASML 和 Lam Research，形成了完整的半导体制造生态。最新的技术突破是纳米片（nanosheet），铺平了通向 2 纳米节点的道路(p.95)。该合作还包含大量的劳动力培训维度，纽约州政府的重大投资正是出于这一考量。州政府关心的不仅是一篇论文或一项专利，而是半导体产业在纽约州创造的就业机会和技术人才储备。度量的重点因利益相关方而异：对企业，看先进制程的研发进展；对州政府，看就业和经济带动效应；对大学，看研究机会和学生就业。这种多利益相关方、多度量维度的复杂性，正是大型项目区别于中型项目的根本特征。
+> 这是 IBM、纽约州政府与多所学术机构之间持续超过 20 年的半导体研发合作伙伴关系(pp.94–95)。该设施由纽约研究、经济促进、技术、工程与科学中心（Center for Research, Economic Advancement, Technology, Engineering and Science, NY CREATES）拥有和运营，是美国最大和最先进的非营利半导体研发设施之一。自成立以来，Albany NanoTech 园区的资本投资已超过 $150 亿，NY CREATES 的年度运营预算约 $3 亿且仍在增长(p.95)。园区企业合作伙伴包括 GlobalFoundries、Samsung、Applied Materials、Tokyo Electron、ASML 和 Lam Research，形成了完整的半导体制造生态。最新的技术突破是纳米片（nanosheet），铺平了通向 2 纳米节点的道路。该合作还包含大量的劳动力培训维度，纽约州政府的重大投资正是出于这一考量。州政府关心的不仅是一篇论文或一项专利，而是半导体产业在纽约州创造的就业机会和技术人才储备。度量的重点因利益相关方而异：对企业，看先进制程的研发进展；对州政府，看就业和经济带动效应；对大学，看研究机会和学生就业。这种多利益相关方、多度量维度的复杂性，正是大型项目区别于中型项目的根本特征。
 
 > 三个大型案例放在教育语境下，对应着不同的合作[[Paradigm|范式]]。IIDAI 的平台驱动模式，类似一所师范大学与全省若干县市教育局共建教育数据平台——平台是共享基础设施，各县市在此之上开发自己的应用。MIT-IBM 的产业联盟模式，类似教育学院联合多家教育科技企业、出版商和公益基金会共建教育创新实验室，每家成员带来不同的领域知识和资源，共享研究成果和 IP。Albany 的国家战略模式，类似国家层面推动的区域教师发展中心——长期、大资本投入、政府深度参与、关键是产业生态的培育而不仅是短期项目成果。
 
@@ -217,7 +217,7 @@ citation_aliases:
 
 19. 第一个挑战：转化研究（translational research）存在系统性技能缺口。传统的产学分工是大学做探索性研究，产出论文和 IP，企业将[[Technology Transfer|技术转移]]到商业领域。但在这个分工链中有一个"[[Valley of Death|死亡之谷]]"：许多学术创新从未面世，因为大学里没有人有动力去完成从 IP 到产业需求的最后一公里连接；企业研究部门中，具备将研究创新推向硬化产品（hardened products）的工程师技能同样稀缺(p.95)。
 
-20. IBM 自身的经历为这一缺口提供了强有力的证据。IBM 在 1990–2020 年间连续近三十年位居美国专利数量榜首，但专利领导力并未匹配同等的产品创新成功：专利很多，变成畅销产品的很少(p.95)。一个关键的结构性因素是研究部门的人员构成：博士与学士/硕士的比例传统上约为 70/30。博士擅长提出新想法和发表论文，但将想法转化为可制造、可测试的原型，更多需要的是工程师技能，而这恰是学士和硕士训练的重心。IBM 近年刻意将这一比例调整为接近 50/50，希望加强转化研究能力(p.95)。
+20. IBM 自身的经历为这一缺口提供了强有力的证据。IBM 在 1990–2020 年间连续近三十年位居美国专利数量榜首，但专利领导力并未匹配同等的产品创新成功：专利很多，变成畅销产品的很少(p.95)。一个关键的结构性因素是研究部门的人员构成：博士与学士/硕士的比例传统上约为 70/30。博士擅长提出新想法和发表论文，但将想法转化为可制造、可测试的原型，更多需要的是工程师技能，而这恰是学士和硕士训练的重心。IBM 近年刻意将这一比例调整为接近 50/50，希望加强转化研究能力。
 
 > 在教育领域，这个缺口同样存在。教育研究者发表大量关于"[[Effective Teaching|有效教学]]策略"的论文，但这些研究发现与教师可直接使用的课堂实践之间，缺少关键环节。研究论文的语言（[[Effect Size|效应量]]、p 值、调节[[Variable|变量]]）与教师的日常决策语言（"这个班纪律差怎么办""这篇课文学生读不懂怎么办"）之间存在巨大的翻译鸿沟。教育领域同样需要转化研究的能力，将研究发现翻译为教师和校长可操作的实践指南。
 
@@ -265,10 +265,10 @@ citation_aliases:
 > ("AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't.")(Rouse & Spohrer, 2018, 转引自 p.97)
 >
 > > “成功孕育成功。与人才流动、宣传、出版物和商业产品的增加相关的指标突出了共同创造的新知识，这些是代代相传地重塑[[University-Industry Collaboration|产学合作]]文化中最关键的成果。”
-> ("Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation.")(p.90)
+> ("Success breeds success. Metrics associated with increasing flows of talent, publicity, publications and commercial offerings that highlight the new knowledge co-created are the outcomes that matter most in re-inventing a culture of [[University-Industry Collaboration|UI collaboration]] generation after generation.")
 >
 > > “商业条件和重点的每一次变化，都需要调整6 R投资选项，并重新校准指标、激励、奖励和文化以适应时代。”
-> ("Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times.")(p.90)
+> ("Every change in business conditions and focus requires adjusting 6 R investment options and recalibrating metrics, incentives, rewards, and culture to fit the times.")
 
 ---
 

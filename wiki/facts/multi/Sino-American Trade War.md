@@ -57,9 +57,9 @@ updated: '2026-05-18'
 
 > [!note]-
 > - 2018 年 7 月：中美贸易战正式爆发([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78]])
-> - 贸易战迅速升级为外交对抗和军事重新部署，政治分析人士和记者迅速将该现象标记为"新冷战"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78]])
-> - Partaken 认为"新冷战"的标签既"少说了什么"也"多说了什么"：少说了，因为中国没有名副其实的盟友来形成权力集团（与美苏冷战不同，当时每个国家都选边站或保持不结盟）；多说了，因为中美紧张关系的真正断层线可能在于心态、文化、[[Axiology|价值论]]和实践的差异([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78]])
-> - 在[[Knowledge Transfer|知识转移]]维度上，美国的最终目标（可能在 Trump 任期之后仍延续）是限制从美国向中国的[[Technology Transfer|技术转让]]，无论是合法还是非法的([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78]])
+> - 贸易战迅速升级为外交对抗和军事重新部署，政治分析人士和记者迅速将该现象标记为"新冷战"
+> - Partaken 认为"新冷战"的标签既"少说了什么"也"多说了什么"：少说了，因为中国没有名副其实的盟友来形成权力集团（与美苏冷战不同，当时每个国家都选边站或保持不结盟）；多说了，因为中美紧张关系的真正断层线可能在于心态、文化、[[Axiology|价值论]]和实践的差异
+> - 在[[Knowledge Transfer|知识转移]]维度上，美国的最终目标（可能在 Trump 任期之后仍延续）是限制从美国向中国的[[Technology Transfer|技术转让]]，无论是合法还是非法的
 
 ## 关键文件／声明
 
@@ -70,8 +70,8 @@ updated: '2026-05-18'
 
 > [!success]
 > - Partaken 将中美紧张关系定性为[[Geopolitics of Knowledge|GPK]]的"最好且最当下的例子"，见证了一场迅速升级的"脱钩"（decoupling）——涵盖贸易、技术、外交、军事和互联网领域([[Argument_Partaken_2022_Springer|Partaken, 2022, p.84]])
-> - 从"美国优先"霸权话语的视角看，这场跨太平洋"冷战 II"最强和最一致的开战理由（casus belli）是系统性持续的知识盗窃和间谍活动([[Argument_Partaken_2022_Springer|Partaken, 2022, p.84]])
-> - Partaken 认为中国的[[Knowledge Transfer|知识转移]]传统建立在教学者-学习者等级制和学者的道德卓越之上，而对合同诚信、权力分立、权利和义务等原则重视甚少([[Argument_Partaken_2022_Springer|Partaken, 2022, p.84]])
+> - 从"美国优先"霸权话语的视角看，这场跨太平洋"冷战 II"最强和最一致的开战理由（casus belli）是系统性持续的知识盗窃和间谍活动
+> - Partaken 认为中国的[[Knowledge Transfer|知识转移]]传统建立在教学者-学习者等级制和学者的道德卓越之上，而对合同诚信、权力分立、权利和义务等原则重视甚少
 
 ### 对国际高等教育的影响
 

@@ -65,7 +65,7 @@ updated: 2026-06-23
 > - **用途** 在研究设计阶段帮助研究者预见限制可推广性的因素并预先设计策略；在评估已有研究时提供批判性[[Evaluation Research|评估研究]]发现适用边界的结构化工具。
 > - **边界** 外部效度威胁不同于内部效度威胁——前者关注推广的边界（"这个发现能走多远？"），后者关注[[Causality|因果推断]]的内部可信性（"X 真的导致了 Y 吗？"）。Pilliner (1973) 指出两者之间的不对称关系：没有[[Internal Validity|内部效度]]，实验不可能有外部效度；但一个内部有效的实验可能有也可能没有外部效度。
 
-[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从[[Experimental Research|实验研究]]角度强调，外部效度威胁产生于实验者从样本数据中对其他人群、其他情境以及过去或未来情境做出错误推论时。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从[[Experimental Research|实验研究]]角度强调，外部效度威胁产生于实验者从样本数据中对其他人群、其他情境以及过去或未来情境做出错误推论时。
 
 ---
 

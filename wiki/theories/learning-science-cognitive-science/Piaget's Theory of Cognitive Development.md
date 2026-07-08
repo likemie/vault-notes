@@ -89,7 +89,7 @@ updated: 2026-06-10
 > - **1953 年** 皮亚杰 (Jean Piaget) 与 Cook 系统阐述了认知发展的四阶段模型，奠定了建构主义心理学的基石 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 2)]]。
 > - **1970 年** 胡安·帕斯卡尔-莱昂 ([[Juan Pascual-Leone]]) 首次将信息加工理论与皮亚杰理论整合，提出**心理能量 (M-power)** 和干扰算子 (I-operator) 的概念，开启了[[Neo-Piagetian Theories|新皮亚杰理论]] (Neo-Piagetian Theories)的发展 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3)]]。
 > - **1980 年** 库尔特·菲舍尔 ([[Kurt Fischer]]) 提出动力技能理论，引入代表性映射 (Representational Mapping) 并强调环境经验可塑性 (Experience-Dependent Plasticity) [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 4)]]。
-> - **1985–1992 年**[[Robbie Case|罗比·凯斯]] (Robbie Case) 进一步细化了领域的子阶段划分，并设计了平衡木测试 (Balancing Beam Test) 等定量工具评估[[Working Memory|工作记忆]]容量的阶段性增长 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3)]]。
+> - **1985–1992 年**[[Robbie Case|罗比·凯斯]] (Robbie Case) 进一步细化了领域的子阶段划分，并设计了平衡木测试 (Balancing Beam Test) 等定量工具评估[[Working Memory|工作记忆]]容量的阶段性增长。
 
 > [!note]- 认知神经科学维度的对齐
 > - **2017 年** Scott Bolton 与 [[John Hattie|约翰·哈蒂]] (John Hattie) 提出系统性的对齐模型，论证了皮亚杰的四个认知阶段与[[Prefrontal Cortex|前额叶皮层]] (PFC) 的解剖生理发育（突触密度变动、白质线性[[Myelination|髓鞘化]]）以及[[Executive Function|执行功能]] (EF) 三成分（抑制、转换、更新）的成熟在时间上高度平行对应，为经典的“心理阶段过渡”提供了物理与生理机制解释 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 1, p. 13)]]。
@@ -170,7 +170,7 @@ updated: 2026-06-10
   - *糖果延迟满足任务 (Treat Delay Task)*：2岁儿童仅 50% 能坚持等待 20 秒不吃糖；而 3 岁儿童则有 85% 能坚持等待 1 分钟，反映了抑制能力的迅速成熟 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 10)]]。
   - *维度变化卡片分类任务 (Dimensional Change Card Sort, DCCS)*：3–4岁儿童在切换前（如按颜色分类）完美通关，但在切换后（如要求改按形状分类）会因强烈的**[[Attentional Inertia|注意力惯性]] (Attentional Inertia)**而失败——即使他们能口述新规则，手指却依然把卡片分类到旧维度下。5岁时多数儿童才能成功克服惯性并完成转换 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]。
 - **脑发育生理机制**
-  - *灰质峰值与[[Synaptic Pruning|突触修剪]] (Synaptic Pruning)*：PFC 灰质在大约 3 岁时达到最大突触密度 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 12)]]。此后经验期望 (Experience-Expectant) 的突触修剪大量铺开，PFC 突触密度从 2 岁时比成人高 55% 快速下降至 7 岁时的仅比成人高 10%（尤其是 dlPFC 区域），清除了多余和无效率的连结 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 12)]]。
+  - *灰质峰值与[[Synaptic Pruning|突触修剪]] (Synaptic Pruning)*：PFC 灰质在大约 3 岁时达到最大突触密度 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 12)]]。此后经验期望 (Experience-Expectant) 的突触修剪大量铺开，PFC 突触密度从 2 岁时比成人高 55% 快速下降至 7 岁时的仅比成人高 10%（尤其是 dlPFC 区域），清除了多余和无效率的连结。
   - *[[Myelination|髓鞘化]] (Myelination) 与白质增长*：由于轴突髓鞘化开始，白质体积增加；dlPFC 第 III 层锥体细胞的树突轴突在 2–5 岁间迅速扩张，电信号传导被显著加速 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 12)]]。
   - *脑激活的右侧偏向*：研究发现，5 岁儿童只有在成功通过 DCCS 任务时才会激活右下前额叶皮层 (vlPFC)；若分类出错则右侧无激活，表明右下 PFC 是此阶段认知转换的直接神经动力 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 11)]]。
 - **执行功能 (EF) 表征**
@@ -225,10 +225,10 @@ updated: 2026-06-10
 >   Bryant & Trabasso (1971) 指出，皮亚杰的很多评估任务（如传递性推理）失败，可能是因为任务对[[Working Memory|工作记忆]]的负载过大，导致儿童在逻辑运算前就遗忘了前提，而不是其逻辑推理结构发育不全 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3)]]。当实验对前提进行强化记忆训练后，更年轻的儿童也能完成这些任务。
 > 
 > - **单一阶段假设的动摇 (Domain-Generality vs. Domain-Specificity)**  
->   皮亚杰认为儿童在某一时期只能整体处于某一个确定的认知阶段。然而，Flavell (1982) 和 Case (1992) 等人指出，认知发展具有领域特定性 (Domain-Specificity)，儿童在不同学科领域（如空间、数理、语言）的发展速度是不均衡的，可能在某些领域展现具体运算而在另一些领域仍处于前运算阶段（即水平差异 / Horizontal Decalage） [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3)]]。
+> 皮亚杰认为儿童在某一时期只能整体处于某一个确定的认知阶段。然而，Flavell (1982) 和 Case (1992) 等人指出，认知发展具有领域特定性 (Domain-Specificity)，儿童在不同学科领域（如空间、数理、语言）的发展速度是不均衡的，可能在某些领域展现具体运算而在另一些领域仍处于前运算阶段（即水平差异 / Horizontal Decalage）。
 > 
 > - **文化与社会背景的忽略 (Cultural Bias)**  
->   Dasen (1975)、Dasen & Heron (1981) 以及 Mishra (1997) 等跨文化研究表明，不同文化背景（如游牧民族与定居农耕民族）和生态环境会显著改变儿童通过各类守恒任务的年龄与顺序，证明认知发展并非纯粹的生物学成熟过程 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3)]]。
+> Dasen (1975)、Dasen & Heron (1981) 以及 Mishra (1997) 等跨文化研究表明，不同文化背景（如游牧民族与定居农耕民族）和生态环境会显著改变儿童通过各类守恒任务的年龄与顺序，证明认知发展并非纯粹的生物学成熟过程。
 > 
 > - **教育与学校教育对年龄节点的推迟 (Schooling Effects)**  
 >   经典的皮亚杰年龄界限具有流动性。例如，研究发现，由于现代学校课程过度强调浅表记忆而缺乏高阶思考训练，学生进入形式运算阶段的平均年龄已被推迟至约 15 岁，表明特定的认知水平并不生硬地与特定生理年龄绑定 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 20)]]。

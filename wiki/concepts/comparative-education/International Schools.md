@@ -66,7 +66,7 @@ updated: '2026-05-18'
 > [!note]-
 > - **1964 年** 全球仅约 50 所国际学校([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]])
 > - **1994 年** 约 1,000 所、教师 5 万、学生 50 万（Hayden & Thompson, 1998, p.333，转引自 Slethaug, 2010, p.22）
-> - **2005 年** 约 3,000 所、约 200 万学生（Greenlees, 2006，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.22–23]]）
+> - **2005 年** 约 3,000 所、约 200 万学生（Greenlees, 2006，转引自）
 > - 仅香港就有 58 所国际学校（2008 年），中国大陆全境仅 64 所、印度 76 所([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.22]])
 
 ### 去国家化：学生构成的根本逆转

@@ -56,7 +56,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - **vs [[Epistemic Governance|知识治理]]（Epistemic Governance）** — 政策的科学化是知识治理兴起的一个关键维度和前提条件：知识治理描述的是以规范、认知和知识为基础的治理机制整体；政策的科学化描述的是政策制定者接受科学证据作为决策合法性基础这一具体历史趋势，该趋势为知识治理的运作提供了制度入口([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145–146]])
-> - **vs [[Evidence-Based Education|证据本位教育]]（EBE）** — EBE 是政策的科学化在教育领域的具体表现：当教育政策制定者接受"决策应依据科学证据"这一前提时，EBE 作为方法论框架和政策议程获得了合法性基础。[[Argument_Zapp_2022_Springer|Zapp (2022)]] 将 EBE 定位为政策的科学化的一个关键经验案例([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145–146]])
+> - **vs [[Evidence-Based Education|证据本位教育]]（EBE）** — EBE 是政策的科学化在教育领域的具体表现：当教育政策制定者接受"决策应依据科学证据"这一前提时，EBE 作为方法论框架和政策议程获得了合法性基础。[[Argument_Zapp_2022_Springer|Zapp (2022)]] 将 EBE 定位为政策的科学化的一个关键经验案例
 > - **vs 科学的政治化（Politicization of Science）** — 两者是一体两面的关系。政策的科学化描述了科学向政治的渗透（scientization of politics）；科学的政治化描述了政治对科学的反向渗透和控制（politicization of science）。Zapp 论证两者的同时加剧构成当代知识治理的核心张力([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.154–155]])
 
 ---
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 
 ### 知识社会学的理论奠基
 
-Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学化提供了理论基础。[[Argument_Zapp_2022_Springer|Zapp (2022, p.146)]] 在讨论全球治理研究的"知识转向"时援引 Weingart (1999)，将其定位为识别科学-政治关系结构性转变的关键先行研究。
+Weingart (1999) 对科学与政治之间关系的分析为理解政策的科学化提供了理论基础。[[Argument_Zapp_2022_Springer|Zapp (2022, p.146)]] 在讨论全球治理研究的"知识转向"时援引 Weingart，将其定位为识别科学-政治关系结构性转变的关键先行研究。
 
 ### 全球治理研究的知识转向
 

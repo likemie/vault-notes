@@ -66,7 +66,7 @@ updated: '2026-05-23'
 > | **中** | Moderate | 设计良好且实施良好的**准实验研究**（[[Matching\|匹配]]样本，matched or [[Quasi-Experimental Designs\|quasi-experimental design]]） | 至少 1 项 |
 > | **有希望** | Promising | 设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差，correlational design with statistical controls for selection bias） | 至少 1 项 |
 >
-> 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])。
+> 所有层级均需至少一项严格研究证明**统计显著**的正向效果，且**无研究显示负面效果**。
 
 ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Controlled Trials|RCT]]；中等证据对应 [[Quasi-Experimental Designs|QED]]；有希望证据对应带有选择偏差统计控制的相关研究；第四层是“展示理论依据”，即由研究支持且说明清楚的[[Logic Model|逻辑模型]]([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 
@@ -85,8 +85,8 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > [!abstract] 激励机制
 > ESSA 对证据标准设有具体的财政激励机制([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])：
 >
-> 1. **学校改进拨款（School Improvement Grants）** 低成就学校寻求学校改进资金**必须**选择至少有一项严格研究显示统计显著正向效果（且无研究显示负面效果）的项目([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])
-> 2. **竞争性偏好分（Competitive Preference Points）** 在学校改进之外的部分联邦拨款项目中，申请人如果提议使用达到 ESSA 证据标准的项目可获得加分([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 428]])
+> 1. **学校改进拨款（School Improvement Grants）** 低成就学校寻求学校改进资金**必须**选择至少有一项严格研究显示统计显著正向效果（且无研究显示负面效果）的项目
+> 2. **竞争性偏好分（Competitive Preference Points）** 在学校改进之外的部分联邦拨款项目中，申请人如果提议使用达到 ESSA 证据标准的项目可获得加分
 > 3. **州级扩展** 部分州将类似标准应用于州级拨款计划（Klein, 2018; 引自 Wolf et al., 2020, p. 428）
 >
 > 部分州走得更远：

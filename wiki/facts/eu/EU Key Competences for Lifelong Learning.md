@@ -58,7 +58,7 @@ updated: 2026-05-23
 
 > [!note]-
 > - 2006 — 欧盟发布关于[[Lifelong Learning|终身学习]][[21st Century Skills and Competencies Discourse|关键能力]]的初始建议([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.39]])。
-> - 2018 — 欧盟理事会通过修订版终身学习关键能力建议([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.39]])。
+> - 2018 — 欧盟理事会通过修订版终身学习关键能力建议。
 
 ## 实施情况
 
@@ -72,7 +72,7 @@ updated: 2026-05-23
 
 > [!info]- 核心数据
 > - 八项[[21st Century Skills and Competencies Discourse|关键能力]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.39]])
-> - 能力由知识、技能和态度组成([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.39]])
+> - 能力由知识、技能和态度组成
 > - 评估原则包括公平、可靠、有效、学习者中心([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.41]])
 
 ## 争议与评论

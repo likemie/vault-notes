@@ -119,7 +119,7 @@ Spronken-Smith（2018）在 O'Brien 的三素养基础上补充的第四个维�
 > [!info]- 核心数据
 > - 博士全球公民属性发展均值（满分 5）：环境素养 2.8、文化理解 3.2、全球视野 3.4([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.89–90]])
 > - 本科 UK 大学环境意识覆盖率：11%([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1348]])
-> - 本科 UK 大学国际网络与外语技能覆盖率：8%([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1348]])
+> - 本科 UK 大学国际网络与外语技能覆盖率：8%
 
 ---
 
@@ -153,7 +153,7 @@ Spronken-Smith（2018）在 O'Brien 的三素养基础上补充的第四个维�
 > [!example]
 > - NZU 博士毕业生 profile — 明确列出三项全球公民属性：全球视野（global perspective）、文化理解（cultural understanding）和环境素养（environmental literacy），是少数将全球公民[[Operationalization|操作化]]为具体博士培养目标的大学之一([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.88]])
 > - Manchester 大学[[Graduate Attributes|毕业生特质]]表述 — "毕业生被鼓励和赋能去面对作为地方、区域和全球公民的公民价值观和责任"([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1347]])
-> - Keele 大学毕业生特质 — 毕业生能够并有动力"作为积极公民负责任地和协作地参与其所生活和工作的社群"([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1347]])
+> - Keele 大学毕业生特质 — 毕业生能够并有动力"作为积极公民负责任地和协作地参与其所生活和工作的社群"
 
 ---
 

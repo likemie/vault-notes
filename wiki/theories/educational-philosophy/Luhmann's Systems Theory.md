@@ -46,7 +46,7 @@ updated: '2026-05-18'
 > [!info] 核心主张
 > [[Niklas Luhmann]] 的社会系统理论将社会理解为一个由[[Autopoiesis|自创生]]（autopoietic）沟通系统构成的整体，与个体的心理系统（意识）严格区分。其核心立场是：社会沟通系统永远无法观察个体心理系统，两者不共享[[Coding in Qualitative Research|编码]]且彼此不透明([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])。
 >
-> > "The social communicative system—of the teacher, the school leader, the researcher, and/or the local or national educational policymaker—can never view the psychic system of the individual pupil or student. These two systems are not code-identical, nor are they transparent to one another."([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])
+> > "The social communicative system—of the teacher, the school leader, the researcher, and/or the local or national educational policymaker—can never view the psychic system of the individual pupil or student. These two systems are not code-identical, nor are they transparent to one another."
 
 ## 理论内部结构
 
@@ -58,7 +58,7 @@ updated: '2026-05-18'
 > - **盲点（Blinder Fleck）** — 每一次观察都基于一个观察者无法看见的盲点。观察者在观察时无法看见自身。看到某物的条件恰恰是建立了看见与看不见之间的区分。所有自我观察都受制于盲点——它之所以可能，恰恰因为它无法看见自身的看见([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
 >   > 例：当 [[Visible Learning|VL]] 研究者通过[[Effect Size|效应量]]数据观察"什么在教学中有效"时，他们建立了一个区分（可量化的效果 vs 不可量化的过程），但他们无法在观察框架内部看到这个区分本身的局限性和任意性。
 > - **[[Structural Coupling|结构耦合]]（Structural Coupling）** — 两个封闭、自我指涉系统之间的非[[Causality|因果]]链接。如在教育中，教学（社会系统）与学习（心理系统）之间不是[[Causality|因果关系]]而是结构耦合——教学不能直接'生产'学习，只能通过结构耦合间接地'扰动'学习者的心理系统
-> - **对不可知的无知** — 个体完全不可能知道自己不知道什么（Luhmann, 1997, p.39）。这一[[Epistemology|认识论]]上的根本限制意味着任何宣称全面捕捉了"什么有效"的知识体系（如 VL）都必然包含系统性的未知盲区([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
+> - **对不可知的无知** — 个体完全不可能知道自己不知道什么（Luhmann, 1997, p.39）。这一[[Epistemology|认识论]]上的根本限制意味着任何宣称全面捕捉了"什么有效"的知识体系（如 VL）都必然包含系统性的未知盲区
 
 ## 发展脉络
 

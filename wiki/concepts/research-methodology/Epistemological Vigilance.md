@@ -58,13 +58,13 @@ updated: 2026-05-18
 >
 > **所有技术程序都无法彻底替代警觉**
 >
-> "所有高级研究的技术和程序都不能完全克服教育行政学者嵌入且具身的本质"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322-323]])。因为研究者与研究对象之间的（社会）关系，"学术从来不是纯粹真理的追求（如果这种东西存在的话）"。因此，不适当地将学术叙事精心打造为仿佛独立于社会政治、文化和时间条件的存在。
+> "所有高级研究的技术和程序都不能完全克服教育行政学者嵌入且具身的本质"。因为研究者与研究对象之间的（社会）关系，"学术从来不是纯粹真理的追求（如果这种东西存在的话）"。因此，不适当地将学术叙事精心打造为仿佛独立于社会政治、文化和时间条件的存在。
 >
-> > "it is inappropriate to craft a scholarly narrative as though it exists separate to the socio-political, cultural and temporal conditions in which it is brought into being"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])
+> > "it is inappropriate to craft a scholarly narrative as though it exists separate to the socio-political, cultural and temporal conditions in which it is brought into being"
 >
 > **常识的持续回潮**
 >
-> "社会的常识或理所当然会持续再现（如果它曾经消失的话），因此学术中需要不断的警觉"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322]])。这使得认识论警觉是一个"永无止境"的任务——与物理学家的实验室与日常生活的分离相比，社会科学家更不可能实现彻底的分离，"部分因为学科的智识资源——在此例中为教育行政——很少提供有意义的工具来突破日常语言"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.322-323]])。
+> "社会的常识或理所当然会持续再现（如果它曾经消失的话），因此学术中需要不断的警觉"。这使得认识论警觉是一个"永无止境"的任务——与物理学家的实验室与日常生活的分离相比，社会科学家更不可能实现彻底的分离，"部分因为学科的智识资源——在此例中为教育行政——很少提供有意义的工具来突破日常语言"。
 >
 > **Bourdieu 的批判：[[Positivism|实证主义]]的无辜幻想**
 >

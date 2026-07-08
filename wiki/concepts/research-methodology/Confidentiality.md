@@ -141,4 +141,4 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al. (2011, Ch. 5)]] — 在伦理章节中系统讨论保密作为参与者隐私保护的基本方式，包括 Frankfort-Nachmias 四项技术、Cooper & Schindler 额外措施、Kimmel 可[[Reliability|信度]]分析、以及打破保密的争议。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 在[[Sensitive Research|敏感研究]]章节中深入讨论[[Deductive Disclosure|演绎披露]]（Boruch & Cecil, 1979）和[[Linked File System|链接文件系统]]（Lee, 1993）作为敏感研究中保护保密性的核心技术工具，以及匿名化边界的问题。
+> - Cohen et al. — 在[[Sensitive Research|敏感研究]]章节中深入讨论[[Deductive Disclosure|演绎披露]]（Boruch & Cecil, 1979）和[[Linked File System|链接文件系统]]（Lee, 1993）作为敏感研究中保护保密性的核心技术工具，以及匿名化边界的问题。

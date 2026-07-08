@@ -72,7 +72,7 @@ updated: '2026-06-19'
 > [!citation-card]- 关键表述：推理与资源
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
 >
-> Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (引自 [[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
+> Social programmes... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (引自)
 
 ---
 
@@ -81,7 +81,7 @@ updated: '2026-06-19'
 > [!proposition-chain] 实在论评估命题链
 > - **前提一：生成性[[Causality|因果]]观 (Generative [[Causality]])**：因果关系不在于观察到的恒常规则性（X 导致 Y），而在于事物内部蕴含的因果力量与机制。在开放系统（如学校）中，这些机制可能处于休眠状态，只有在适宜的环境背景中才会被激活。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 > - **前提二：推理与资源的整合** 干预项目本身不能直接“产生”变化，它只提供资源（自[[Variable|变量]]）；结果（因变量）必须经由人（受试者）的能动性与信念进行推理（中介变量）而产生。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
-> - **机制：CMO 配置 (Context-Mechanism-Outcome Configuration)** 因果机制（Mechanism, M）被引入不同的社会背景（Context, C）中，会因为背景对机制的触发或抑制而导致完全不同的结果（Outcome, O）。即：\(C + M \rightarrow O\)。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])；另见 ([[Argument_Rambla_2022_Springer|Rambla, 2022, p. 165]])
+> - **机制：CMO 配置 (Context-Mechanism-Outcome Configuration)** 因果机制（Mechanism, M）被引入不同的社会背景（Context, C）中，会因为背景对机制的触发或抑制而导致完全不同的结果（Outcome, O）。即：\(C + M \rightarrow O\)。；另见 ([[Argument_Rambla_2022_Springer|Rambla, 2022, p. 165]])
 > - **结果判断：去情境化统计聚合的失效** 将不同情境的研究混为一谈并计算“平均[[Effect Size|效应量]]”（如在[[Meta-analysis|元分析]]中）是盲目的经验主义。这种“洗涤过程”抹杀了关键机制与背景，无法指导任何具体的教育改进。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])
 
 > [!mechanism-map]- CMO 机制激活图
@@ -167,7 +167,7 @@ updated: '2026-06-19'
 
 > [!tension] 争议焦点
 > - **操作的极高复杂性** 由于需要深入追踪每个情境下的机制，实在论评估和综合在实操中极其耗费时间和精力，且难以标准化。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
-> - **对决策者的沟通障碍** 政策制定者更青睐直观、简化的[[Effect Size|效应量]]排行榜或“几个月额外进步”的数字，实在论评估所提供的复杂情境叙事难以提供瞬间的决策支持。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
+> - **对决策者的沟通障碍** 政策制定者更青睐直观、简化的[[Effect Size|效应量]]排行榜或“几个月额外进步”的数字，实在论评估所提供的复杂情境叙事难以提供瞬间的决策支持。
 
 ---
 

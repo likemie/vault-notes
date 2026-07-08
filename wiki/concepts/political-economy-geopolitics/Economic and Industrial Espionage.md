@@ -65,7 +65,7 @@ updated: '2026-05-18'
 > - 1450–1550 年：威尼斯出现原始专利法，表明对知识产权的争夺早于工业时代（Prager, 1944; 引自 Partaken, 2022, p.77）
 > - 18 世纪：英法之间围绕煤燃料技术[[Knowledge Transfer|知识转移]]的工业间谍（Harris, 1998; 引自 Partaken, 2022, p.77）
 > - 1970 年：专利合作条约（Patent Cooperation Treaty）由八国签署，国际专利法律体系开始建立([[Argument_Partaken_2022_Springer|Partaken, 2022, p.70]])
-> - 2000 年：专利法条约（Patent Law Treaty）获得 53 国和欧洲专利组织签署([[Argument_Partaken_2022_Springer|Partaken, 2022, p.70]])
+> - 2000 年：专利法条约（Patent Law Treaty）获得 53 国和欧洲专利组织签署
 > - 2000 年：[[US-China Economic and Security Review Commission|USCC]] 成立，系统监控中美知识转移([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78–79]])
 
 ---

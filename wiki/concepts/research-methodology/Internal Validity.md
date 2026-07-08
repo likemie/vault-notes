@@ -53,7 +53,7 @@ updated: 2026-06-23
 > [!def] 核心定义
 > 内部效度（Internal validity）寻求证明：一项研究对某一特定事件、问题或数据集的解释**实际上能为数据所支撑**。在[[Experimental Research|实验研究]]中，它衡量[[Causality|因果推断]]的质量——研究者能否从实验数据中正确推断出被操纵的[[Variable|变量]]确实导致了观察到的效果。Onwuegbuzie & Leech (2006b: 234) 将其扩展定义为"在底层情境或群体内解释和结论的真值、适用性、一致性、中立性、[[Reliability|可依赖性]]和可信性"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 164)]]
 
-[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从实验研究角度强调，内部效度越高，研究者越有信心将结果差异归因于处理本身，而非其他未控制的因素。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 从实验研究角度强调，内部效度越高，研究者越有信心将结果差异归因于处理本身，而非其他未控制的因素。
 
 > [!citation-card]- Creswell 对[[Threats to Internal Validity|内部效度威胁]]的定义
 > 内部效度威胁是实验程序、处理或参与者的经历，它们威胁研究者从实验数据中对总体做出正确推论的能力。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]

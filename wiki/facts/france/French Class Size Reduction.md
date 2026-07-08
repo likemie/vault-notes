@@ -65,7 +65,7 @@ updated: 2026-05-23
 
 > [!info]- 核心数据
 > - 班额从 24 人降至 12 人([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])
-> - Bressoux 等 2003 年研究：阅读 ES = +.14，拼写 ES = +.22([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])
+> - Bressoux 等 2003 年研究：阅读 ES = +.14，拼写 ES = +.22
 > - Campbell 元分析：阅读 ES = +.11，p = .0003；数学 ES = -.03，p = .75([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]])
 
 ## 争议与评论

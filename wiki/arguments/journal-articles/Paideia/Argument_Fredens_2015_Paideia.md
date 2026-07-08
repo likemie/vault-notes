@@ -93,15 +93,15 @@ citation_aliases:
 > [!success] 主要发现
 > - 书评总体正面评价该书，称其"videnskabeligt funderet"（科学根基扎实），并以从实验室到课堂的可及性为最大优势(p.74–75)
 > - 指出书中九个原则被组织为三部分 31 章：课堂中的学习、学习的基础、认识你自己(p.71)
-> - 批评 recitationsmetoden（传统问答法）：学生学会说教师想听的话而非思考，发展出"说老师想听的，让聪明人解决其余"的生存策略(p.71)
+> - 批评 recitationsmetoden（传统问答法）：学生学会说教师想听的话而非思考，发展出"说老师想听的，让聪明人解决其余"的生存策略
 > - 区分教师激活（aktivere）与促进（facilitere）：促进者在场边观察，激活者则论证、指导和示范(p.73)
 > - 指出该书以认知视角为主，但横跨阅读可发现文化视角——学校是"tilværelsesoplysning"（存在启蒙，引 Løgstrup）(p.74)
-> - 对 Hattie & Yates 声称好教师不能以特定人格类型定义的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要(p.73)
+> - 对 Hattie & Yates 声称好教师不能以特定人格类型定义的立场提出质疑，引用 Lambert & Barley (2001) 发现治疗师人格是治疗关系中最重要的因素——比所用方法更重要
 >
 > ### Fredens 的补充性批评
 >
 > - **默认网络的功能** Hattie & Yates 强调注意力中断的缺点，但 Fredens 补充指出好处——当大脑"走神"时，前额叶关闭并转入默认网络（社会脑），在恢复的同时产生联想和创意发展。这种注意力"缺失"在创造性过程中至关重要(p.71–72)
-> - **认知负荷与不必要指导** Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——[[Working Memory|工作记忆]]被不必要信息填满的状态(p.73)
+> - **认知负荷与不必要指导** Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——[[Working Memory|工作记忆]]被不必要信息填满的状态
 
 ## 关键引用
 

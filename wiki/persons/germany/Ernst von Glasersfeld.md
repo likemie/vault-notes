@@ -64,7 +64,7 @@ updated: '2026-06-08'
 >
 > > "Learning must in the last instance be done by the individual himself—solipsistic!"（Bjørgen, 2000, p.236，转引自 Rømer, 2018, p.7）
 >
-> Glasersfeld 的理论受 [[George Berkeley]]（唯我论哲学）、Kant（剔除审美和规范性维度的选择性阅读）和 Piaget（认知发展）的共同影响([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7]])。
+> Glasersfeld 的理论受 [[George Berkeley]]（唯我论哲学）、Kant（剔除审美和规范性维度的选择性阅读）和 Piaget（认知发展）的共同影响。
 
 ## 主要贡献
 

@@ -59,14 +59,14 @@ updated: '2026-06-08'
 > [!info] [[Bounded Rationality|有限理性]]
 > Simon 挑战了古典经济学的"完全理性"[[Hypothesis|假设]]——人类决策者并非拥有无限信息处理能力、无限时间和无限制的计算资源的"经济人"，而是在认知限制、信息不完整和时间约束下做出"足够好"而非"最优"的决策([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])。
 >
-> 在教学中的应用：教学的复杂性（影响和刺激个体学生及学生共同体）大于教师的实践能力。教师始终在理性赤字的条件下工作，必须依靠反馈作为持续的修正机制([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])。
+> 在教学中的应用：教学的复杂性（影响和刺激个体学生及学生共同体）大于教师的实践能力。教师始终在理性赤字的条件下工作，必须依靠反馈作为持续的修正机制。
 
 ## 主要贡献
 
 > [!success] 主要贡献
 > - [[Bounded Rationality]] — 有限理性理论，被 Qvortrup (2019) 用作理解教学-学习关系的核心理论基础
 > - 人工智能 — 与 Allen Newell 共同开发了早期 AI 程序（Logic Theorist, General Problem Solver），奠定了符号 AI 的基础
-> - [[Professional Judgment]] — Simon 的有限理性理论为 Qvortrup (2019) 的专业判断框架提供理论基础
+> - [[Professional Judgment]] — Simon 的有限理性理论为 Qvortrup 的专业判断框架提供理论基础
 
 ## 思想发展与影响
 

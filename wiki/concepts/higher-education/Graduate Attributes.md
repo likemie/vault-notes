@@ -90,7 +90,7 @@ updated: '2026-05-26'
 - **研究素养**（16%）：[[Critical Thinking|批判性思维]]、证据评估、知识创造意识、研究程序的理解与应用
 - **伦理责任与可持续性** 诚信研究、平等机会承诺、数字平台上的伦理行为
 
-博士层次，研究技能是发展感知最强的维度。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的调查显示，研究技能（均值 4.4/5）、分析技能（4.4）、学术严谨性（4.3）是博士毕业生评价最高的特质（pp.89–90）。Senekal et al.（2022）的十域分类和 Spronken-Smith et al.（2024）的七域分类都将"研究"和"知识"列为独立的核心域([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.98, Table 5]])。
+博士层次，研究技能是发展感知最强的维度。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的调查显示，研究技能（均值 4.4/5）、分析技能（4.4）、学术严谨性（4.3）是博士毕业生评价最高的特质（pp.89–90）。Senekal et al.（2022）的十域分类和 Spronken-Smith et al.的七域分类都将"研究"和"知识"列为独立的核心域([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.98, Table 5]])。
 
 ### 沟通与人际协作
 

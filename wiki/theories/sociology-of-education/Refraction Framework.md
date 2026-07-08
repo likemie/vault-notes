@@ -45,9 +45,9 @@ updated: 2026-05-18
 > [!info] 核心主张
 > Refraction Framework（折射框架）是 [[Argument_Downey_2016_SoE|Downey & Condron (2016)]] 提出的理解学校与不平等关系的理论框架。其核心主张：学校是"不平等折射器"（refractors of inequality）——正如光线进入新介质（如从空气到水）时会发生折射，不平等在学生进入学校时也会改变轨迹([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.5]])。
 >
-> > "Much like light is refracted when it enters a new medium (e.g., from air to water), we argue that inequalities are refracted when children enter schools." ([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.5]])
+> > "Much like light is refracted when it enters a new medium (e.g., from air to water), we argue that inequalities are refracted when children enter schools."
 >
-> 光在不同介质中折射方式不同（进入更慢、更快或相似速度的介质），同样，不平等进入学校后的变化取决于新介质（学校）如何改变不平等的轨迹相对于前一介质（非学校环境）。学校可能扮演三种角色([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.5]])：
+> 光在不同介质中折射方式不同（进入更慢、更快或相似速度的介质），同样，不平等进入学校后的变化取决于新介质（学校）如何改变不平等的轨迹相对于前一介质（非学校环境）。学校可能扮演三种角色：
 >
 > 1. **中性（neutral）** 学校不改变不平等的轨迹
 > 2. **加剧性（exacerbatory）** 学校使不平等恶化
@@ -69,7 +69,7 @@ updated: 2026-05-18
 > [!abstract] 三个补偿机制
 > [[Argument_Downey_2016_SoE|Downey & Condron (2016, pp.6–7)]] 初步识别了三个可能使学校发挥补偿作用的机制：
 >
-> 1. **课程整合（curriculum consolidation）** 学校按年龄分组，使技能水平差异极大的儿童接触相同的课程挑战。ECLS-K 数据显示 40% 的幼儿园儿童阅读能力超过底部 10% 的一年级学生，且少数幼儿园儿童的阅读能力超过五年级学生——但绝大多数按年龄分组的儿童留在同年级，这使得高能力学生难以在低于其水平的材料中获得学业进步。这一做法可能是补偿性的([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.6–7]])。
+> 1. **课程整合（curriculum consolidation）** 学校按年龄分组，使技能水平差异极大的儿童接触相同的课程挑战。ECLS-K 数据显示 40% 的幼儿园儿童阅读能力超过底部 10% 的一年级学生，且少数幼儿园儿童的阅读能力超过五年级学生——但绝大多数按年龄分组的儿童留在同年级，这使得高能力学生难以在低于其水平的材料中获得学业进步。这一做法可能是补偿性的。
 >    > 例：如果一个幼儿园儿童已经能读五年级水平的书，却被放在幼儿园教室里学习字母，那么她的学业进步速度将被系统性地"刹车"，而落后同龄人的同学则获得赶上来的机会。
 >
 > 2. **向弱势群体倾斜的资源分配（targeted resources）** Title 1、Head Start、1973 年《康复法》、1990 年《美国残疾人法》等政策旨在改善弱势儿童的学校条件。2007 年肯塔基州数据：平均每位特殊需求儿童获额外 USD 11,970/年，而天才儿童仅获额外 USD 62/年（Seiler et al., 2008, cited in [[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.7]]）。

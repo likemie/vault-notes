@@ -53,7 +53,7 @@ Pellegrini & Vivanet 将这一悖论移用到 [[Evidence-Based Education|证据�
 > [!abstract]
 > 1. 情境贴合提高有效性：项目若围绕特定目标、教学策略和学生群体设计，可能更能回应本地需求([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.36]])。
 > 2. 情境贴合降低可复用性：同一项目换到不同目标、不同年级或不同课程大纲时，原有效果的概率会降低([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.35]])。
-> 3. 通用设计降低特定有效性：若项目为了适用于很多情境而不针对任何具体情境，它可能难以充分满足某一学校或课程的具体需要([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.36]])。
+> 3. 通用设计降低特定有效性：若项目为了适用于很多情境而不针对任何具体情境，它可能难以充分满足某一学校或课程的具体需要。
 
 ## 实证发现
 

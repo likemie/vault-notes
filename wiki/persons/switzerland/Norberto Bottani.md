@@ -55,7 +55,7 @@ updated: '2026-06-08'
 > [!info] 早期乐观主义（1992–1998）
 > Bottani 认为[[International Education|国际教育]]指标在"理解其局限性的人手中"可以提供有价值的信息。他主张指标不应被用于科学研究的严格效度标准来衡量——因为它们"并非主要为科学研究设计"(Bottani, 1994, p.335; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])。
 >
-> > "The point is that indicators are not primarily designed for scientific research. They can be useful in a more limited and practical way, even if they do not account fully for these complexities."(Bottani, 1994, p.335; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
+> > "The point is that indicators are not primarily designed for scientific research. They can be useful in a more limited and practical way, even if they do not account fully for these complexities."(Bottani, 1994, p.335;)
 
 
 > [!info] 后期幻灭（2008）
@@ -77,9 +77,9 @@ updated: '2026-06-08'
 
 > [!abstract] 主要著作
 > - Bottani, N. (1994). The [[OECD]] [[International Education]] indicators. *Assessment in Education: Principles, Policy and Practice*, 1, 333–350. — 早期综述([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.19]])
-> - Bottani, N. (1996). OECD [[Internationalization of Higher Education|international education]] indicators. *International Journal of Educational Research*, 25, 279–288. — 详述指标的技术框架和挑战([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.19]])
-> - Bottani, N. (1998). The OECD educational indicators: Purposes, limits and production processes. *Prospects*, 28(1), 61–75. — 阐述指标的协作风格和俱乐部效应([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.19]])
-> - Bottani, N. (2008). The oil level, the engine and the car: The stakes involved in assessing the quality of education on the basis of indicators. *Éducation et Société*, 18(2), 11–23. — 幻灭之作，系统批判[[Performance Indicators|绩效指标]]霸权和对指标的误用([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.19]])
+> - Bottani, N. (1996). OECD [[Internationalization of Higher Education|international education]] indicators. *International Journal of Educational Research*, 25, 279–288. — 详述指标的技术框架和挑战
+> - Bottani, N. (1998). The OECD educational indicators: Purposes, limits and production processes. *Prospects*, 28(1), 61–75. — 阐述指标的协作风格和俱乐部效应
+> - Bottani, N. (2008). The oil level, the engine and the car: The stakes involved in assessing the quality of education on the basis of indicators. *Éducation et Société*, 18(2), 11–23. — 幻灭之作，系统批判[[Performance Indicators|绩效指标]]霸权和对指标的误用
 
 ## 思想发展与影响
 

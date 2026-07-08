@@ -56,9 +56,9 @@ updated: '2026-06-08'
 
 > [!note]-
 > - 1130：出生于南宋([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])
-> - 深受[[Cheng Brothers|程颢]]（1032–1085）和程颐（1033–1107）兄弟思想的影响([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])
+> - 深受[[Cheng Brothers|程颢]]（1032–1085）和程颐（1033–1107）兄弟思想的影响
 > - 担任朝廷官员，属于"学者型官员"（scholar-official）——一种独特于儒家的精英类型([[Argument_Li_2012_Cambridge|Li, 2012, p.47]])
-> - 1200：逝世([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])
+> - 1200：逝世
 
 ---
 
@@ -107,7 +107,7 @@ updated: '2026-06-08'
 > [!success]
 > - 四书体系主导中国教育近千年，直到 1949 年([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])
 > - 格物致知的学习路径被后世儒家广泛接受，影响深远
-> - 程朱学派在宋以后长期主导中国正统教育([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])
+> - 程朱学派在宋以后长期主导中国正统教育
 > - "[[Take the World Upon Oneself|以天下为己任]]"中的个人自主性——de Bary 将朱熹的观点概括为"个体是自我决定的道德能动者"([[Argument_Li_2012_Cambridge|Li, 2012, p.46]])
 
 ---

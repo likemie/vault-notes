@@ -47,16 +47,16 @@ updated: '2026-05-18'
 
 > [!note]-
 > - Great Firewall 与 Big Data 监控配对运行，是"最成功的审查系统之一"，控制着对知识的获取和言论自由([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
-> - 强制用户以真实身份注册是其主要运作方式之一([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
-> - 通过追踪社交媒体中的政治敏感观点和意见，甚至无预警删除内容来运作([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
-> - 中国大陆大学学者无法访问大量社会科学和人文学科的学术论文([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
-> - 中国不承认网络中立性（Net Neutrality），因为这一理想与中国对其人口和知识的控制目标根本矛盾([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
+> - 强制用户以真实身份注册是其主要运作方式之一
+> - 通过追踪社交媒体中的政治敏感观点和意见，甚至无预警删除内容来运作
+> - 中国大陆大学学者无法访问大量社会科学和人文学科的学术论文
+> - 中国不承认网络中立性（Net Neutrality），因为这一理想与中国对其人口和知识的控制目标根本矛盾
 
 ## 影响与后果
 
 > [!success]
 > - 信息多样性的减少最终将削弱人们在全球舞台上创新和竞争的能力([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
-> - Partaken 以德川日本锁国时期（1639–1853）为历史类比：锁国虽使日本实现内部统一，但最终导致其在科技知识上远远落后于西方，明治维新后的模仿欧洲地缘政治与军国主义最终毁灭了日本([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])
+> - Partaken 以德川日本锁国时期（1639–1853）为历史类比：锁国虽使日本实现内部统一，但最终导致其在科技知识上远远落后于西方，明治维新后的模仿欧洲地缘政治与军国主义最终毁灭了日本
 > - Partaken 认为，中国近年从邓小平的开放低调路线（"韬光养晦"）倒退为自我孤立，伴随着强硬外交、内外审查和激进的领土争端([[Argument_Partaken_2022_Springer|Partaken, 2022, p.83]])
 
 ## 争议与评论

@@ -129,7 +129,7 @@ updated: 2026-07-04
 > | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | Y12 622<br>Y11 620 | Y12 4.85（1.05）<br>Y11 4.62（1.08） | — | $t(1240)=3.04$<br>$p<.001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | 总 $N=1,242$<br>分组 n — | Y12 4.69（1.15）<br>Y11 4.48（1.22） | — | $t(1240)=3.04$<br>$p<.01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
+> | Cole et al. | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | 总 $N=1,242$<br>分组 n — | Y12 4.69（1.15）<br>Y11 4.48（1.22） | — | $t(1240)=3.04$<br>$p<.01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
 
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -146,7 +146,7 @@ updated: 2026-07-04
 > | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | Abrami et al. (2008) | 教学路径（显性独立 vs 隐性融入） | 亚组分析 | 显性教学条件效应更大 | — | — | 预设 | — |
-> | Abrami et al. (2008) | 教师培训（受培训且受评估 vs 未受培训） | 亚组分析 | 教师接受专门培训且教学受评估时效应最大 | — | — | 预设 | — |
+> | Abrami et al. | 教师培训（受培训且受评估 vs 未受培训） | 亚组分析 | 教师接受专门培训且教学受评估时效应最大 | — | — | 预设 | — |
 >
 > 待处理该文献后回填各亚组的条件效应量和交互检验结果。
 

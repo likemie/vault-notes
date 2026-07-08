@@ -36,7 +36,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 功能性磁共振成像（fMRI）是一种功能神经影像技术，通过测量特定脑区血液成分的存在来记录解剖学定义的脑活动，同时参与者在完成任务或活动([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])。fMRI 在确定空间信息方面优于时间信息([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])。
+> 功能性磁共振成像（fMRI）是一种功能神经影像技术，通过测量特定脑区血液成分的存在来记录解剖学定义的脑活动，同时参与者在完成任务或活动([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])。fMRI 在确定空间信息方面优于时间信息。
 
 ## 操作原理
 

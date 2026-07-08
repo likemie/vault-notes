@@ -3,7 +3,6 @@ title: Archival Correspondence Analysis
 aliases:
   - 档案通信分析
   - 历史通信分析
-  - 档案研究
 summary: "利用个人通信、报纸报道和外交函件等一手档案资料交叉验证以重建历史事件的研究方法，常用于教育史和历史研究"
 type: method
 method_type: qualitative

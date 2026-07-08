@@ -87,9 +87,9 @@ updated: 2026-05-18
 
 > [!note]-
 > - **Weber（1978）**：区分权力（Macht）与权威（Herrschaft），识别科学、法律和规则为现代权力的主要合法性来源，与魅力型权威形成对比。Weber 指出："权力成为权威（Herrschaft）增加了'一个具有特定内容的命令将被特定人群服从的概率'"（Weber, 1978, p.52, cited in [[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.183]]）
-> - **Meyer & Rowan（1977）**：解构 Weber 的现代主义偏见——科学、法律和规则本身并不自动提供合法性；是广泛共享的规范、价值和知识使某些制度安排（包括教育）被视为适当([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.183]])
+> - **Meyer & Rowan（1977）**：解构 Weber 的现代主义偏见——科学、法律和规则本身并不自动提供合法性；是广泛共享的规范、价值和知识使某些制度安排（包括教育）被视为适当
 > - **Powell & DiMaggio（1983）**：在"铁笼再访"中系统阐述三种制度同构机制，将权力斗争和竞争引入制度分析——不同规范之间就"什么最适当"展开竞争([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.183–184]])
-> - **Berger & Luckmann（1966/1991）**：补充社会建构维度——合法性不仅告诉个体应该如何行动，也告诉个体为什么事物是其所是；知识的合法性建构先于价值判断([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.183]])
+> - **Berger & Luckmann（1966/1991）**：补充社会建构维度——合法性不仅告诉个体应该如何行动，也告诉个体为什么事物是其所是；知识的合法性建构先于价值判断
 
 ---
 

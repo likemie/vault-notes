@@ -77,7 +77,7 @@ updated: '2026-06-08'
 > [!note]- 起源与资金背景
 > Toolkit 的初始工作基于 2008 至 2011 年间英国经济与社会研究委员会研究者发展计划编制的教育干预发现[[Meta-analysis|元分析]]数据库([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
 >
-> 与 Sutton Trust 的进一步合作使得一系列[[Abstract|研究摘要]]得以开发，帮助学校决定如何分配新宣布的学生津贴资金。学生津贴是英国政府为经济弱势学生拨付的额外经费，学校可自主决定其用途([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
+> 与 Sutton Trust 的进一步合作使得一系列[[Abstract|研究摘要]]得以开发，帮助学校决定如何分配新宣布的学生津贴资金。学生津贴是英国政府为经济弱势学生拨付的额外经费，学校可自主决定其用途。
 >
 > 在 EEF 成立后，这些摘要被进一步发展为整合的系列工具。
 
@@ -166,7 +166,7 @@ updated: '2026-06-08'
 > - Toolkit 在排除缺乏证据支持的热门干预措施方面特别有效，如学习风格被排除([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
 > - 呈现方式有吸引力且色彩丰富([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.19]])
 > - 对教师理解哪些干预主动有害（如[[Tracking|能力分组]]）提供了有力参考([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.23]])
-> - 一位新教师形容为通往高质量证据的捷径([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
+> - 一位新教师形容为通往高质量证据的捷径
 > - Toolkit 的详细文件对教师[[Professional Judgment|专业判断]]的重要性给予了值得赞赏的强调([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.21–22]])
 
 ---
@@ -221,7 +221,7 @@ updated: '2026-06-08'
 
 > [!warning] 平均效应量的误导潜力
 > - 小正向效应（如两个月进步）与零效应之间的区分在统计上可能不可靠([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.20]])
-> - 学术发表中对[[Statistical Significance|统计显著性]]的偏好可能筛选掉了效应量可观但统计不显著的结果([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.20]])
+> - 学术发表中对[[Statistical Significance|统计显著性]]的偏好可能筛选掉了效应量可观但统计不显著的结果
 > - 某些正面效应在长期可能难以维持，但联盟表格式的呈现可能掩盖这一事实
 
 > [!warning] 非学业结果的忽视

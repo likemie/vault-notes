@@ -58,7 +58,7 @@ updated: 2026-06-22
 > [!contrast-table] 概念辨析
 > | 维度 | Disciplina (规训/教规) | Doctrina (教学/更新) |
 > |------|---|---|
-> | **核心指向** | 巩固、存储并复制既有的知识与规范（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]）。 | 生产、质疑、调整并更新人类的知识系统（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]）。 |
+> | **核心指向** | 巩固、存储并复制既有的知识与规范（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]）。 | 生产、质疑、调整并更新人类的知识系统。 |
 > | **教育手段** | 方法灌输、纪律约束、对错误的纠正或惩罚。 | 行动者反思、社会互动协作、批判性对话与未知探索。 |
 > | **时间取向** | 面向过去（维护传统的稳定性与继承性）。 | 面向未知和 radical 开放的未来（非目的论过程）。 |
 > | **政策表现** | 标准化测试、成果导向课程、细分技能指标考核。 | 跨学科探究、围绕[[Epochal Key Problems\|时代关键问题]]开展非预设讨论。 |
@@ -69,7 +69,7 @@ updated: 2026-06-22
 
 > [!feature] 核心要素
 > - **Disciplina 的静态存储性** 扮演“存放已发现知识的场所”角色，其将知识结构化为严密的科目，主要执行代际间的社会化与再生产职能（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
-> - **Doctrina 的动态生产性** 视知识为动态演化的体系，承认过去的知识无法完全涵盖未来的可能性，因此教学必须向学生的提问与创新开放（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
+> - **Doctrina 的动态生产性** 视知识为动态演化的体系，承认过去的知识无法完全涵盖未来的可能性，因此教学必须向学生的提问与创新开放。
 > - **绩效时代的失衡** 当代全球教育行业（[[Global Education Industry|GEI]]）过度追求“可测量结果”与“横向绩效评估”，通过技能原子化技术，强行将具备 `doctrina` 特质的探究活动塞入 `disciplina` 的流水线框架，损害了教育作为自我转变和民主反思的过程（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-06-22
 
 > [!dev-timeline] 概念演变
 > - **中世纪 — 术语起源** 大学和修道院教育中分化出 `disciplina`（强调对学生行为的惩戒、纠错和规训）与 `doctrina`（强调真理的讲授和知识研究的进展）（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
-> - **现代 — 知识社会学分析**Stichweh (2001) 追溯学科建制与社会系统的演化，将二者界定为知识在“静态沉积”与“动态自我更新”之间的基本张力（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
+> - **现代 — 知识社会学分析**Stichweh (2001) 追溯学科建制与社会系统的演化，将二者界定为知识在“静态沉积”与“动态自我更新”之间的基本张力。
 > - **21世纪 — 课程政策批判应用** 该二元概念被引入针对 [[OECD]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 ---

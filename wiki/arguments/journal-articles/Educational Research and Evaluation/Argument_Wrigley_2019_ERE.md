@@ -70,7 +70,7 @@ citation_aliases:
 > 证据本位教学（evidence-based teaching）的倡导者坚称这是一种严格的[[Scientific Method|科学方法]]。本文质疑 [[Randomised Controlled Trials|RCT]] 和[[Meta-analysis|元分析]]是教育研究中唯一真正科学方法的观点，指出这些宣称往往依赖于一种过于简单的"科学"概念。
 >
 > > “我们的观点是，这些对科学的诉诸为了修辞效果，使用了一种有缺陷且刻板的自然科学的白话形象或‘民间观点’(Thomas, 2012, p. 28)，但未能充分探究科学的真正特征。”
-> ("It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' (Thomas, 2012, p. 28) of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science.") (p. 111)
+> ("It is our contention that these appeals to science use a flawed and stereotyped vernacular image or 'folk-view' of the natural sciences for rhetorical effect but fail to probe sufficiently into the true characteristics of science.") (p. 111)
 
 ## 理论框架
 
@@ -90,11 +90,11 @@ citation_aliases:
 > [!example] 核心论证
 > ### 1. EBT 的科学观是过分简化的"民间科学观"
 >
-> EBT 倡导者将科学等同于实验，但许多科学领域（天文学、气象学、进化论、生物学的大部分）极少使用实验。实验通常用于验证知识而非推进知识，许多重大发现（青霉素、尼龙、超导性、飞机）并非来自系统程序(p. 111)。Thomas (2004, p. 10) 区分了证据使用的不同阶段——拼凑/直觉阶段、灵感阶段、发现阶段、确认阶段——而 EBT 只关注确认阶段(p. 111)。
+> EBT 倡导者将科学等同于实验，但许多科学领域（天文学、气象学、进化论、生物学的大部分）极少使用实验。实验通常用于验证知识而非推进知识，许多重大发现（青霉素、尼龙、超导性、飞机）并非来自系统程序(p. 111)。Thomas (2004, p. 10) 区分了证据使用的不同阶段——拼凑/直觉阶段、灵感阶段、发现阶段、确认阶段——而 EBT 只关注确认阶段。
 >
 > ### 2. [[Ontology|本体论]]层次混淆与还原论
 >
-> Sayer (2010, p. 5) 区分了物理、化学、生物和社会层次，谴责用低层次[[Scientific Method|科学方法]]研究高层次现象的还原论。教育涉及可持续的认知、伦理和审美发展，其复杂性超过了 [[Randomised Controlled Trials|RCT]] 研究"什么有效"的能力(p. 112)。Steven Rose (2005, p. 28) 警告：实验通过还原方法论的人为控制提供"至多是非常简化的模型，甚至可能是错误的模型"(p. 112)。
+> Sayer (2010, p. 5) 区分了物理、化学、生物和社会层次，谴责用低层次[[Scientific Method|科学方法]]研究高层次现象的还原论。教育涉及可持续的认知、伦理和审美发展，其复杂性超过了 [[Randomised Controlled Trials|RCT]] 研究"什么有效"的能力(p. 112)。Steven Rose (2005, p. 28) 警告：实验通过还原方法论的人为控制提供"至多是非常简化的模型，甚至可能是错误的模型"。
 >
 > ### 3. [[Emergence|涌现]]与开放系统
 >
@@ -175,14 +175,14 @@ citation_aliases:
 > ("Education is marked by a [[Multiplicity]] of aims — acquisition of factual knowledge, skilled performance, problem solving, longer term cognitive development, aesthetic or ethical qualities, socialisation.") (p. 124)
 >
 > > “以‘科学’之名，结合高风险问责系统的动态机制，我们正在目睹一种反启蒙的现象：各种理解和参与世界的方式正在被封闭。”
-> ("In the name of 'science' and in conjunction with the dynamics of high-stakes accountability systems, we are witnessing an anti-enlightenment closing down of ways of understanding and engaging with the world.") (p. 124)
+> ("In the name of 'science' and in conjunction with the dynamics of high-stakes accountability systems, we are witnessing an anti-enlightenment closing down of ways of understanding and engaging with the world.")
 
 ## 局限性与批评
 
 > [!warning] 局限性与批评
 > - 论文自身承认其论证可能被误读为"研究对教师无实际益处"——作者澄清研究（包括 [[Randomised Controlled Trials|RCT]]）可以挑战既有专业习惯和提供替代方案，但许多其他形式的研究比 RCT 和[[Meta-analysis|元分析]]更擅长这一点(p. 123)
 > - 体育参与案例只是 [[Education Endowment Foundation|EEF]] Toolkit 35 个条目之一，单一案例的泛化能力有限——不过作者论证这说明了系统性问题而非孤立失误
-> - 对 RCT 的批判可能导致"反科学"的指控——作者明确否认这一立场，强调意图是"更认真对待科学探究"(p. 123)
+> - 对 RCT 的批判可能导致"反科学"的指控——作者明确否认这一立场，强调意图是"更认真对待科学探究"
 
 ## 来源
 

@@ -71,7 +71,7 @@ updated: '2026-06-08'
 >
 > > "At the dawn of the 21st century, educational research is finally entering the 20th century." ([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 >
-> > "Once we have dozens or hundreds of randomized or carefully matched experiments going on each year on all aspects of educational practice, we will begin to make steady, irreversible progress. Until then, we are merely riding the pendulum of educational fashion." ([[Argument_Slavin_2002_ER|Slavin, 2002, p. 19]])
+> > "Once we have dozens or hundreds of randomized or carefully matched experiments going on each year on all aspects of educational practice, we will begin to make steady, irreversible progress. Until then, we are merely riding the pendulum of educational fashion."
 
 ## 主要贡献
 

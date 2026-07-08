@@ -110,7 +110,7 @@ citation_aliases:
 >
 > 本章引用了利益相关者理论(Stakeholder Theory, Freeman, 1984)，借以说明创新中心采取整体性网络建设方式的合理性，但未将其作为正式[[Analytic Framework|分析框架]](pp.125–126)。
 >
-> TUFF 的实践框架有相当规模的[[Document|文献]]支持。Battelle 技术合作实践（Battelle Technology Partnership Practice）2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(p.125)。在学术产出方面，Dooley & Kirk(2007)证明了创新中心对大学研发和[[Technology Transfer|技术转移]]的净正面影响；Chai & Shih(2016)发现产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量。Katz & Ordover(1990)指出，创新园区能够打破大学内部各院系之间的孤岛，或创造出原本不存在的跨学科研发合作激励。区域经济政策层面，Cullum Clark(2022)的研究表明，支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环(p.125)。不过，关于较新的产学合作的研究尚不充分，指向利益相关者[[Theoretical Validity|理论有效性]]的证据目前"更加定性和轶事性"（more qualitative and anecdotal, p.126）。
+> TUFF 的实践框架有相当规模的[[Document|文献]]支持。Battelle 技术合作实践（Battelle Technology Partnership Practice）2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(p.125)。在学术产出方面，Dooley & Kirk(2007)证明了创新中心对大学研发和[[Technology Transfer|技术转移]]的净正面影响；Chai & Shih(2016)发现产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量。Katz & Ordover(1990)指出，创新园区能够打破大学内部各院系之间的孤岛，或创造出原本不存在的跨学科研发合作激励。区域经济政策层面，Cullum Clark(2022)的研究表明，支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环。不过，关于较新的产学合作的研究尚不充分，指向利益相关者[[Theoretical Validity|理论有效性]]的证据目前"更加定性和轶事性"（more qualitative and anecdotal, p.126）。
 
 ---
 
@@ -354,7 +354,7 @@ citation_aliases:
 > [!example]
 > 乐高搭建比赛、知识问答之夜、桌游下午茶、Taco Tuesday。两个平时在各自实验室里埋头工作的人，可能因为拼乐高时聊到"你做什么的"而发现，一个人正在做的机器学习模型，恰好可以解决另一个人实验室里困扰了三年的数据标注问题(pp.136–137)。
 
-25. TUFF 的座右铭"密度就是命运"（density is destiny）指向的不仅是物理邻近性——人和人是否在同一栋楼里——更是由强有力的、响应性的活动设计所推动的人际互动频率和质量(p.137)。其深层逻辑是，创新中心应当创造信任的环境，因为经济增长和发展是最终目标。TUFF 的理解是，商业由社区赋能（commerce enabled by community），社区由人际体验的密度和持久的个人纽带赋能（community enabled by density of human experience and lasting interpersonal bonds）(p.137)。
+25. TUFF 的座右铭"密度就是命运"（density is destiny）指向的不仅是物理邻近性——人和人是否在同一栋楼里——更是由强有力的、响应性的活动设计所推动的人际互动频率和质量(p.137)。其深层逻辑是，创新中心应当创造信任的环境，因为经济增长和发展是最终目标。TUFF 的理解是，商业由社区赋能（commerce enabled by community），社区由人际体验的密度和持久的个人纽带赋能（community enabled by density of human experience and lasting interpersonal bonds）。
 
 26. 场所营造还面临数据收集的挑战，即如何衡量活动的效果，如何建立持续反馈和改进机制。TUFF 的经验是，投入精力在活动中收集数据、不断提问，可以赋权创新中心持续改进活动设计，避免陷入停滞。场所营造要求建筑管理方从传统的"被动物业管理"（passive property management）转向更主动的、以社区为导向的方式，由此创造出一种"公民意识和参与的文化"，这种文化天然关注整个社区的福祉(pp.136–137)。
 
@@ -387,7 +387,7 @@ citation_aliases:
 > [!warning]
 > **疫情后的商业地产困境反证了核心论点**
 > - [[Tech Square at Georgia Tech|Tech Square]] 经历了两次全国最严重的衰退和一场全球疫情，后者既扰乱了商业地产市场，又似乎永久性地改变了美国工作者的心理。以强大学术-产业合作为基础的[[Innovation Park|创新园区]]，比纯商业地产在面对远程办公趋势和市场波动时更具韧性，因为园区提供的核心价值是"社区"而非仅仅是"空间"(p.139)
-> - 减少官僚障碍和繁文缛节，可能比增加资金对创新中心成功的贡献更大(p.139)
+> - 减少官僚障碍和繁文缛节，可能比增加资金对创新中心成功的贡献更大
 
 > [!abstract]
 > **[[TUFF]] 总结的四个成功主题**(pp.139–140)：

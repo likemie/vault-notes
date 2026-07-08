@@ -96,7 +96,7 @@ updated: '2026-05-18'
 > [!example]
 > - Apple University — 高级研究院型典型案例，模仿常春藤，由前耶鲁院长领导，直接向 CEO 汇报([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.189]])
 > - McDonald's Hamburger University — 学校型典型案例，高度标准化与全球合规([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.186]])
-> - Mars Corporate University — 学院型典型案例，以对齐策略推进公司整体转型([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.186]])
+> - Mars Corporate University — 学院型典型案例，以对齐策略推进公司整体转型
 > - Microsoft 认证体系 — 通过 IPR 排他性授权培训中心形成全球标准化网络，规范扩散近乎强制型同构。详见 [[Corporate Education]] 中的分析([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.192–193]])
 > - Mercer — 全球最大人力资源咨询公司之一，22,000+ 员工、140+ 国家，提供广泛 HRM 培训，代表外包策略中的咨询公司模式([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.191]])
 > - 全球企业大学理事会（GlobalCCU）与 EFMD CLIP 认证 — 跨国同行评审网络，为 CU 提供规范型同构的合法性来源([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.189–190]])

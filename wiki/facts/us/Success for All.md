@@ -49,7 +49,7 @@ updated: '2026-05-18'
 > [!info] 清算中心评级分歧
 > 五个清算中心都没有给出负面评价，但评价强度不同。Blueprints、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 和 [[Social Programs That Work|SPTW]] 将其评为 promising；[[What Works Clearinghouse|WWC]] 根据不同结果域给出从 recommended 到 mixed 的判断；[[Best Evidence Encyclopedia|BEE]] 对不同项目变体给出 strong 或 modest evidence of effectiveness([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
 >
-> 用于评价 SFA 的研究数量差异很大：SPTW 使用 6 项研究，CMFR 使用 8 项，WWC 使用 9 项，Blueprints 考察 16 项但只认证 1 项。Borman et al. (2007) 是四个清算中心共同审查的核心 [[Randomised Controlled Trials|RCT]]，但它们对该研究的基线等值、随访期和结果域解释仍有差异([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
+> 用于评价 SFA 的研究数量差异很大：SPTW 使用 6 项研究，CMFR 使用 8 项，WWC 使用 9 项，Blueprints 考察 16 项但只认证 1 项。Borman et al. (2007) 是四个清算中心共同审查的核心 [[Randomised Controlled Trials|RCT]]，但它们对该研究的基线等值、随访期和结果域解释仍有差异。
 
 ## 案例意义
 
@@ -60,6 +60,6 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — SFA 是 Wadhwa et al. 用来说明"相对一致但仍需细读"的项目案例([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
-> - [[What Works Clearinghouse]] — WWC 对 SFA 按结果域给出差异化判断，而不是将项目聚合为单一总体评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
-> - [[Best Evidence Encyclopedia]] — BEE 以标准化[[Effect Size|效应量]]区分不同 SFA 选项，说明效应量阈值会影响项目变体排序([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
+> - [[What Works Clearinghouse]] — WWC 对 SFA 按结果域给出差异化判断，而不是将项目聚合为单一总体评级。
+> - [[Best Evidence Encyclopedia]] — BEE 以标准化[[Effect Size|效应量]]区分不同 SFA 选项，说明效应量阈值会影响项目变体排序。
 

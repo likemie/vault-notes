@@ -52,7 +52,7 @@ updated: '2026-06-08'
 > - 在巴西里约热内卢生活和创作，为 Rocinha 贫民窟剧场团体"Bando Cultural Favelados da Rocinha"的导演([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 > - 开发自创剧场方法 EspectAtor，以[[Epistemology of Resistance|抵抗认识论]]为核心，指导贫民窟居民通过表演讲述自身遭受的暴力创伤故事([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Branco, 2020]])
 > - 2020 年通过 YouTube 频道"Favelaflix"发布剧场作品([[Argument_Delambre_2022_Springer|Delambre, 2022, p.122, 参考书目 Branco, 2020]])
-> - 与 [[Dell Delambre]] 和 [[Camilla de Hollanda Amado]] 合作——Amado 通过"Bora Bora em Bando"项目为这一剧场团体争取社会可见度和认可([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
+> - 与 [[Dell Delambre]] 和 [[Camilla de Hollanda Amado]] 合作——Amado 通过"Bora Bora em Bando"项目为这一剧场团体争取社会可见度和认可
 
 ## 主要著作与思想发展
 

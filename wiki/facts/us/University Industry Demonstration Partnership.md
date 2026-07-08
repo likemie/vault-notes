@@ -71,8 +71,8 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 > [!abstract]
 > - **会员制** 邀请制，成员包括来自全球的大学和具备强大学术合作能力的跨国公司。政府机构不加入会员，但参与活动并通过非经常性资助支持工作（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.19–20]]）
 > - **独立非营利** 2015 年从国家科学院"毕业"成为独立 501(c)(3) 组织，此前在国家科学院框架内运作了十余年（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.19]]）
-> - **全球化** 截至 2025 年，12% 的会员为非美国组织。2016 年启动国际试点，邀请牛津大学、多伦多大学、东京大学等非美国大学加入（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.19]]）
-> - **产出导向** 截至 2025 年拥有超过 60 个"操作指南"出版物，从合同条款扩展到人才、战略关系和[[Innovation Ecosystem|创新生态系统]]等领域（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.19–20]]）
+> - **全球化** 截至 2025 年，12% 的会员为非美国组织。2016 年启动国际试点，邀请牛津大学、多伦多大学、东京大学等非美国大学加入
+> - **产出导向** 截至 2025 年拥有超过 60 个"操作指南"出版物，从合同条款扩展到人才、战略关系和[[Innovation Ecosystem|创新生态系统]]等领域
 > - **跨部门连接** 与 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Innovation Network|UIIN]] 和 Government-University-Industry Philanthropy Research Roundtable 并列，构成产学实践者社区的核心交汇空间([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.74]])
 
 ---
@@ -138,7 +138,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 > [!note]-
 > - **2004 年** 委员会发布白皮书，提议在国家科学院框架内创建 University-Industry Demonstration Partnership（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.16]]）
-> - **2006 年** 发布 Guiding Principles to University-Industry Endeavors 作为创始原则。获得 [[National Science Foundation|NSF]]、Kauffman Foundation、UCLA、University of Illinois、Hewlett Packard、Pfizer 和 ExOne 等机构的初始资助（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.16]]）
+> - **2006 年** 发布 Guiding Principles to University-Industry Endeavors 作为创始原则。获得 [[National Science Foundation|NSF]]、Kauffman Foundation、UCLA、University of Illinois、Hewlett Packard、Pfizer 和 ExOne 等机构的初始资助
 > - **2012 年** 发布 [[Partnership Continuum]]([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012]])，将[[University-Industry Collaboration|产学合作]]形式按五个领域和三个参与层级系统分类，其开发过程始于 2009 年 UIDP 春季会议上 Wayne Johnson 的初步分类框架，经项目工作组（Jeff Southerton、Geanie Umberger、Goran Matijasevic、Scott Steele、Wayne Johnson）多次电话会议、邮件交流和面对面讨论，并在 UIDP 成员社区的反复反馈中迭代完善([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, pp.4–5]])
 
 ---
@@ -147,7 +147,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 > [!note]-
 > - **2015 年 7 月** UIDP 从国家科学院"毕业"，成为独立的非营利组织。企业会员在全球运营，表达了将大学会员扩展到美国之外的兴趣（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.19]]）
-> - **2016 年** 启动国际试点，邀请牛津大学、多伦多大学、东京大学等关键非美国大学加入（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.19]]）
+> - **2016 年** 启动国际试点，邀请牛津大学、多伦多大学、东京大学等关键非美国大学加入
 > - **2019 年** 与牛津大学联合举办首届 [[Oxford UIDP Summit 2019]]，汇集 149 名来自大学、企业和政府的高层代表，围绕十大关键议题进行三天密集讨论，产出报告 *Developing University-Industry Partnerships Fit for the Future*（[[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.2–3]]）。峰会项目委员会在会前确定了三个优先探索领域：开发可收集和具有说服力的度量指标；理解 AI 和机器学习在产学合作决策中的机会；探索应对全球结构变化的新合作模式
 > - **截至 2025 年** UIDP 拥有超过 60 个"操作指南"出版物，项目内容已从合同共识扩展到人才、战略关系和[[Innovation Ecosystem|创新生态系统]]与经济发展等领域（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.19–20]]）
 

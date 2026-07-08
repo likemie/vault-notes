@@ -84,8 +84,8 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Evidence-Based Education]] — 教育项目和实践应更多依靠高质量研究证据，尤其是能够评价可复制项目效果的研究(p.26)。
-> - [[Evidence-Informed Practice]] — 欧洲[[Document|文件]]和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Experimental Research|实验研究]]，政策文件也多是指导而非强制规定(p.26)。
-> - [[Evidence-Based Reform]] — Slavin 的定义把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则(p.26)。
+> - [[Evidence-Informed Practice]] — 欧洲[[Document|文件]]和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Experimental Research|实验研究]]，政策文件也多是指导而非强制规定。
+> - [[Evidence-Based Reform]] — Slavin 的定义把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则。
 
 ## 研究方法
 
@@ -150,7 +150,7 @@ citation_aliases:
 > - 意大利 2008 年 “[[Azione LIM|Azione LIM]]” 提供 35,114 块互动白板，总成本 EUR 93,354,571；2016 年互动白板覆盖 42% 班级(p.27)。
 > - 法国 2017 年将 disadvantaged areas 一、二年级[[Class Size|班额]]从 24 人降至 12 人，但相关证据显示班额缩小的阅读效应较小，数学效应可为负且不显著(pp.27-28)。
 > - EU-22 从小学到高等教育平均每生年支出 USD 10,555；成员国范围从希腊 USD 5,470 到卢森堡 USD 22,430(p.37)。
-> - 欧盟成员国教育支出平均约占 GDP 5.0%，瑞典 7.1%、芬兰 6.8%；占公共支出 10.6%(p.37)。
+> - 欧盟成员国教育支出平均约占 GDP 5.0%，瑞典 7.1%、芬兰 6.8%；占公共支出 10.6%。
 
 ## 关键引用
 

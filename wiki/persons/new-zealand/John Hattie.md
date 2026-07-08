@@ -144,7 +144,7 @@ updated: '2026-06-08'
 >
 > Visible Learning 已在至少 23 个国家被采用([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]])，Hattie 本人也因此成为教育界的国际名人，被澳大利亚广播公司电视系列片 *Revolution School*（2017）描绘为公共教育的拯救者([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.32]])。Hattie 同时担任澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）主席，其工作已深度嵌入澳大利亚教师和校长的国家专业标准、年度绩效评估和持续认证体系([[Argument_Eacott_2017_SLM|Eacott, 2017, p.421]])。
 >
-> Hattie 的职业生涯横跨多个领域：多年从事教学和教师的实证研究、诊断、评估和反馈([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。他与 Timperley（2007）合作发表了关于反馈效应的高影响力元分析。Visible Learning 实验室（奥克兰大学）提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。他是新西兰政府的重要顾问，但"作为科学家和政治顾问，他在新西兰相当有争议"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。
+> Hattie 的职业生涯横跨多个领域：多年从事教学和教师的实证研究、诊断、评估和反馈([[Argument_Terhart_2011_JCS|Terhart, 2011, p.426]])。他与 Timperley（2007）合作发表了关于反馈效应的高影响力元分析。Visible Learning 实验室（奥克兰大学）提供付费的教师[[Further Education|继续教育]]和培训项目，包括对学生的持续测试和结果反馈。他是新西兰政府的重要顾问，但"作为科学家和政治顾问，他在新西兰相当有争议"。
 >
 
 ---
@@ -155,8 +155,8 @@ updated: '2026-06-08'
 
 > [!note]- 学术起步
 > - **1998** 年从美国返回新西兰，任奥克兰大学教育学教授兼教育学院院长([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
-> - **1999 至 2000** 年通过奥克兰大学受教育部合同领导开发 asTTle（教学与学习评估工具），基于光盘的教师管理型国家课程测试系统，用于[[Formative Assessment|形成性评估]]，任项目主任([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
-> - **2000 年代中期** 教育部合同开发升级版在线系统([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
+> - **1999 至 2000** 年通过奥克兰大学受教育部合同领导开发 asTTle（教学与学习评估工具），基于光盘的教师管理型国家课程测试系统，用于[[Formative Assessment|形成性评估]]，任项目主任
+> - **2000 年代中期** 教育部合同开发升级版在线系统
 
 ---
 
@@ -165,7 +165,7 @@ updated: '2026-06-08'
 > [!note]- 商业化与政策参与
 > - **2006 年** 注册《[[Visible Learning|可见的学习]]》商标并创建实验室，为评估工具使用提供支持和专业发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.47]])
 > - **2006 年** 成为 [[Cognition Education]] 董事([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.48]])
-> - **2009 年** Cognition Education 开始在澳大利亚提供《可见的学习》plus 专业发展工作坊([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.48]])
+> - **2009 年** Cognition Education 开始在澳大利亚提供《可见的学习》plus 专业发展工作坊
 > - **2009 至 2010 年** 新西兰推行国家标准政策。Hattie 被邀加入技术顾问组，其领导的新西兰评估学院受教育部邀请对标准技术层面提供评论。总理在标准发布时公开感谢 Hattie 的推动，媒体因此将其描绘为标准政策的核心推手([[Argument_Hattie_2010_NZJES|Hattie, 2010, pp.91–92]])
 > - **2010 至 2014 年** 从 Cognition Education 获得第三方付款累计约 87 万美元([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49]])
 
@@ -175,7 +175,7 @@ updated: '2026-06-08'
 
 > [!note]- 全球扩张
 > - **2011 年** 转至墨尔本大学教育研究生院任教授兼研究所主任([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49]])
-> - **2013 年** 成为 1600 万澳元科学学习研究中心副主任([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49]])
+> - **2013 年** 成为 1600 万澳元科学学习研究中心副主任
 > - **2014 年** 被任命为澳大利亚教学与[[School Leadership|学校领导力]]研究院董事会主席([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.50]])
 > - **2015 年** 开发 Visible Classroom 应用，原始试点由英国[[Education Endowment Foundation|教育捐赠基金会]]资助 36 万英镑([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.49–50]])
 > - **2015 年** 培生集团在其网站发布 Hattie 的两篇思想领导力文章，致谢名单揭示了横跨学术界、全球教育商业和《可见的学习》商业运营的[[Policy Network|政策网络]]连接([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.50–51]])
@@ -323,7 +323,7 @@ updated: '2026-06-08'
 >
 > **第二回合：[[Argument_Hattie_2010_NZJES|Hattie (2010)]] — [[Critic and Conscience of Society]]**
 >
-> [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 以 *On Being a 'Critic and Conscience of Society'* 回应（详见 [[Argument_Hattie_2010_NZJES]]），援引新西兰《教育法》赋予学者的法定角色为公共参与伦理基础，以 Alexander (2010) 的四种腐蚀性话语（二分法、嘲弄、神话、意义虚无）分析批评模式：
+> Hattie 以 *On Being a 'Critic and Conscience of Society'* 回应（详见 [[Argument_Hattie_2010_NZJES]]），援引新西兰《教育法》赋予学者的法定角色为公共参与伦理基础，以 Alexander (2010) 的四种腐蚀性话语（二分法、嘲弄、神话、意义虚无）分析批评模式：
 > - 研究质量：澄清"不是一本关于研究批评的书"被误读；凡已知质量影响之处均已标注
 > - d=0.40："perhaps it was arbitrary, but it was certainly not capricious"——基于 800+ 元分析经验平均值，用作叙事工具
 > - 班级规模：重申减班确实提高成绩（d≈0.20），但教师很少因此改变教学方法
@@ -345,17 +345,17 @@ updated: '2026-06-08'
 >
 > 在这场论战之外，Hattie 在新西兰还面临更广泛的争议：被批评在 asTTle 评估工具的推广中存在经济利益，模糊了科学家、政治顾问和商业利益者之间的界限；被指控提倡绩效薪酬、忽视社会背景和不平等([[Argument_Terhart_2011_JCS|Terhart, 2011, p.434–435]])。
 >
-> **论战的核心分歧** 双方在第一原则上一致（学术批评应聚焦观点而非人身攻击；Dewey [[Pragmatic Paradigm|实用主义]]知识观——证据不提供行动规则，只为明智问题解决提供[[Hypothesis|假设]]），但在以下问题上根本分歧：(1) 是否可能将质量参差不齐的元分析纳入同一综合而不引入不可容忍的偏差；(2) 平均效应量是否掩盖了特定群体和条件下的重要差异；(3) 在缺乏本地研究验证时，是否应从主要为美国的研究推广政策建议；(4) 学者参与政策制定时，asTTle 等商业利益是否构成[[Conflict of Interest in Research|利益冲突]]。[[Argument_Terhart_2011_JCS|Terhart (2011, p.435)]]评论这场争论实质上是"自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略"。
+> **论战的核心分歧** 双方在第一原则上一致（学术批评应聚焦观点而非人身攻击；Dewey [[Pragmatic Paradigm|实用主义]]知识观——证据不提供行动规则，只为明智问题解决提供[[Hypothesis|假设]]），但在以下问题上根本分歧：(1) 是否可能将质量参差不齐的元分析纳入同一综合而不引入不可容忍的偏差；(2) 平均效应量是否掩盖了特定群体和条件下的重要差异；(3) 在缺乏本地研究验证时，是否应从主要为美国的研究推广政策建议；(4) 学者参与政策制定时，asTTle 等商业利益是否构成[[Conflict of Interest in Research|利益冲突]]。Terhart评论这场争论实质上是"自下而上的学校改革者反对技术官僚的、行政驱动的、中央集权的新自由主义策略"。
 
 
 > [!warning] Grace 的介入 (2010)
 > 在 Hattie (2010) 和 [[Argument_Snook_2010_NZJES|Snook et al. (2010)]] 的论战之后，[[Gerald Grace]]——"[[Critic and Conscience of Society]]"概念的原作者和新西兰大学立法中该条款的推动者——在同一卷 NZJES（Vol. 45, No. 2）发表评论，质疑 Hattie 是否真正理解了该概念的含义([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])。
 >
-> Grace 的核心论点是：Hattie 混淆了两种不同的学术角色([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])：
+> Grace 的核心论点是：Hattie 混淆了两种不同的学术角色：
 > - **学术领域的批评者** 在学科内部对研究质量和方法进行技术性批判——这属于正常学术工作范畴。Hattie 在 *Visible Learning* 中批评评估、教学和学习领域的现有研究质量，正属于这一角色
 > - **社会的批评者与良知** 必须将非学校因素纳入所有教育成就差异的分析——因为这些因素"代表社会"
 >
-> Grace 指出，Hattie 明确将非学校因素排除在 《可见的学习》的分析范围之外（Hattie, 2009, pp.viii–ix），这与他声称的"critic and conscience of society"角色存在根本矛盾。Grace 以 [[Basil Bernstein]] 的 *Education Cannot Compensate for Society*（1970）和 Roy Nash 的 *Social Class and Education in New Zealand*（2003）为例，说明真正的"critic and conscience of society"应将非学校因素置于分析的核心([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。Grace 呼吁 Hattie 写一本续作，详细讨论非学校因素对教育成就的影响——唯有如此，他才能合法地声称自己履行了该角色([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。
+> Grace 指出，Hattie 明确将非学校因素排除在 《可见的学习》的分析范围之外（Hattie, 2009, pp.viii–ix），这与他声称的"critic and conscience of society"角色存在根本矛盾。Grace 以 [[Basil Bernstein]] 的 *Education Cannot Compensate for Society*（1970）和 Roy Nash 的 *Social Class and Education in New Zealand*（2003）为例，说明真正的"critic and conscience of society"应将非学校因素置于分析的核心([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。Grace 呼吁 Hattie 写一本续作，详细讨论非学校因素对教育成就的影响——唯有如此，他才能合法地声称自己履行了该角色。
 
 
 > [!warning] 方法论批评

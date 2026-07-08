@@ -59,7 +59,7 @@ updated: 2026-06-16
 > - **发布时间 / 发布主体** 2023年正式发布，由澳大利亚联邦教育部长杰森·克莱尔（Jason Clare）于2022年9月任命的教师教育专家小组（Teacher Education Expert Panel, TEEP）起草。[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]])
 > - **适用地区 / 对象** 适用于澳大利亚全国初始教师教育（Initial Teacher Education, ITE）提供商（大学）与职前教师。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **问题背景** 政策发起于全国性严重的教师流失与短缺危机，但政府倾向于将危机表征为教师培训质量缺陷与“课堂准备度”不够。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]])
-> - **制度位置** 延续了2015年《行动方案》（[[Teacher Education Ministerial Advisory Group|TEMAG]] Report）与2021年优质初始教师教育（QITE）审查报告（*Next Steps*）的惩罚性问责逻辑，但首次将脑科学转向作为核心特征。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]])
+> - **制度位置** 延续了2015年《行动方案》（[[Teacher Education Ministerial Advisory Group|TEMAG]] Report）与2021年优质初始教师教育（QITE）审查报告（*Next Steps*）的惩罚性问责逻辑，但首次将脑科学转向作为核心特征。
 
 ---
 
@@ -85,7 +85,7 @@ updated: 2026-06-16
 
 > [!timeline] 政策时间线
 > - 2022-09 教师教育专家小组正式成立。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]])
-> - 2023 报告起草完成并向全国公布，提出14项政策建议。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]])
+> - 2023 报告起草完成并向全国公布，提出14项政策建议。
 > - 2025（预计）核心内容强制嵌入全国所有 ITE 项目认证中。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 6]])
 
 ---
@@ -109,8 +109,8 @@ updated: 2026-06-16
 
 > [!stat-cards]- 核心文本分析数据
 > - 200次：“证据”（evidence）一词在政策文本中出现的次数。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - 197次：“认证”（accreditation）一词在政策文本中出现的次数。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - 90次：“评估”（assessment）一词在政策文本中出现的次数。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - 197次：“认证”（accreditation）一词在政策文本中出现的次数。
+> - 90次：“评估”（assessment）一词在政策文本中出现的次数。
 > - 4大领域：强制性核心内容（大脑与学习、[[Effective Teaching|有效教学]]实践、[[Classroom Management|课堂管理]]、回应性教学）。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 
 ---
@@ -132,8 +132,8 @@ updated: 2026-06-16
 > |---|---|---|
 > | [[Bacchi's WPR Approach]] | 用来分析和解构《强劲开端》报告中“问题是如何被界定的”。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]]) |
 > | [[What Works Movement]] | 解释报告背后证据中介和跨国[[Policy Network\|政策网络]]运作的理论传统。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
-> | [[Australian Education Research Organisation]] | 专家小组证据和核心大纲设计方案背后的关键中介组织。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
+> | [[Australian Education Research Organisation]] | 专家小组证据和核心大纲设计方案背后的关键中介组织。 | |
 > | [[Australian Institute for Teaching and School Leadership]] | 负责将核心大纲作为附表强制纳入全国认证标准的权力机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]]) |
 > | [[Centre for Independent Studies]] | 资助和推广作为强制大纲必修参考[[Document\|文献]]的保守智库。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 9–10]]) |
-> | [[John Sweller]] | [[Cognitive Load Theory\|认知负荷理论]]提出者，其文献被强制列为核心大纲指定文献。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 9–10]]) |
+> | [[John Sweller]] | [[Cognitive Load Theory\|认知负荷理论]]提出者，其文献被强制列为核心大纲指定文献。 | |
 > | [[Educational Services Australia]] | 在底层技术与系统行政层面上共同支撑 AITSL 和 AERO 运行的机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |

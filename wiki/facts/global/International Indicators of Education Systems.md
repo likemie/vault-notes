@@ -57,12 +57,12 @@ updated: '2026-05-18'
 > - **1970s**[[OECD]] 首次尝试开发[[Performance Indicators|教育指标]]，1973 年发布 *A System of Education Indicators to Guide Public Policy Decisions*，但因概念难题（内部因素与外部因素无法分解）而失败，专家工作组放弃了理论模型，转向以可用性为导向的经验方法，但指标从未被实际计算([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.10]])
 > - **1983** *[[A Nation at Risk 1983|A Nation at Risk]]* 引发教育质量恐慌，重新点燃对国际指标的兴趣([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8, 10]])
 > - **1987** 华盛顿会议（22 成员国 + 专家），明确国际基准比较已成为"提升教育质量的组成部分"(Bottani & Walberg, 1992, p.7; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
-> - **1988** INES 正式启动([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
+> - **1988** INES 正式启动
 > - **1989** 第一届 INES 全体大会（奥地利 Semmering），列出约 160 项初始指标，未讨论即被认为不可管理([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
 > - **1991** 第二届全体大会（瑞士 Lugano），削减至约 50 项"理想"指标；激烈辩论后决定纳入学生成绩数据([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11–12]])
-> - **1992** 首版 [[Education at a Glance|EAG]] 出版([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
+> - **1992** 首版 [[Education at a Glance|EAG]] 出版
 > - **1995** 第三届全体大会（芬兰 Lahti），最后一次真正的全体大会([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
-> - **2000** 第四届全体大会（东京）"名存实亡"——每国代表团人数受限制，指标生产者不再参与，实为政府间会议(Bottani, 2008, p.17; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
+> - **2000** 第四届全体大会（东京）"名存实亡"——每国代表团人数受限制，指标生产者不再参与，实为政府间会议(Bottani, 2008, p.17;)
 
 ## 核心要素
 
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] "新型合作方式"
-> 项目需要"发明一种新型的成员国间合作方式"，以产生相互信任和共识(Bottani, 1998, p.71; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.16]])。数据生产国需要同意新的数据收集方式或将本国数据翻译为与 INES 对接的格式([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.16]])。
+> 项目需要"发明一种新型的成员国间合作方式"，以产生相互信任和共识(Bottani, 1998, p.71; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.16]])。数据生产国需要同意新的数据收集方式或将本国数据翻译为与 INES 对接的格式。
 
 ## 与相关概念的区别
 

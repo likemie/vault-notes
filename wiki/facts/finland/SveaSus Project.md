@@ -62,7 +62,7 @@ updated: '2026-06-22'
 > [!dev-timeline]- 事件经过
 > - **2018 — 项目启动与课程开设** SveaSus 项目在赫尔辛基大学教育科学学院正式立项并启动。面向学院全体学生开设选修课程，确立了教师、研究者、学生与艺术家的协同合作研究框架（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]）。
 > - **2018–2023 — 芬兰堡真实[[Champ|场域]]的跨学科教学实验**：
->   - **现象核心确立** 项目以“可持续性（Sustainability）”为探究的现象核心，并将其与芬兰堡的特定地点（place）和时间（time）维度相绑定（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]）。
+> - **现象核心确立** 项目以“可持续性（Sustainability）”为探究的现象核心，并将其与芬兰堡的特定地点（place）和时间（time）维度相绑定。
 >   - **多维教学法探索** 系统引入并测试了具身学习（Embodied learning，如在风雨交加的岛屿上身体行走、用触觉感知石墙以激活空间与身体的具身经验）、艺术本位（Art-based）和多语（Multilingual）教学方法（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。
 >   - **主体间反思实践** 师生、艺术家在特定时空中共同规划、讨论和解决问题，将情感（如信任、 Relational Anxiety）与合作责任融入探究过程（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]）。
 > - **2023 — 项目收官与学术转化** 项目圆满结束，相关研究成果和实践经验被系统整理并向国际学术界输出，成为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在高等和教师教育领域最独特的实证案例之一（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 10–11]]）。

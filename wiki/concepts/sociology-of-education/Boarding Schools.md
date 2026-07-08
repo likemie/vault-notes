@@ -74,7 +74,7 @@ updated: '2026-05-18'
 > [!info]
 > - **英国** 超过 700 所寄宿学校，每年教育超过 100,000 名学生，[[Chinese Learner|中国学习者]]占比日益增加([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.20–21]])
 > - **澳大利亚** 101 所寄宿学校（主要与宗教相关），因地理位置更接近亚洲且费用低于英镑/欧元而吸引亚洲学生([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.21]])
-> - **加拿大** 约 60 所寄宿学校，同样依赖中国学习者维持日益增长的预算份额([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.21]])
+> - **加拿大** 约 60 所寄宿学校，同样依赖中国学习者维持日益增长的预算份额
 
 ---
 

@@ -88,7 +88,7 @@ updated: 2026-06-21
 > - **1886–1887年** 受布伦塔诺推荐，追随卡尔·施图姆普夫（Carl Stumpf）前往哈勒大学，并于1887年完成大学授课资格论文（Habilitation）《论数的概念》（*Über den Begriff der Zahl*）。同年与马尔维娜·施泰因施奈德（Malvine Steinschneider）结婚并改信基督教路德宗。（根据维基百科的生平记载）
 > - **1887–1901年** 在哈勒大学担任无薪私人讲师（Privatdozent）。1891年发表《算术哲学》（*Philosophie der Arithmetik*），并于1894年遭遇哥特洛布·弗雷格（Gottlob Frege）针对该书“心理学主义”立场的严厉批评，促使其深刻反思并转向纯粹逻辑研究。（根据维基百科的生平记载）
 > - **1900–1901年** 发表《逻辑研究》（*Logical Investigations*），系统性驳斥了心理学主义，确立纯粹逻辑的客观理想性，标志着[[Phenomenology|现象学]]作为独立学派的正式诞生。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
-> - **1901–1916年** 任教于哥廷根大学，期间形成哥廷根现象学圈子。1913年发表《纯粹现象学和现象学哲学的观念第一卷》（*Ideas I*），转向“先验现象学”，将意识确立为万物意义的源泉，并阐发[[Epoché|悬置]]（Epoché）方法。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]
+> - **1901–1916年** 任教于哥廷根大学，期间形成哥廷根现象学圈子。1913年发表《纯粹现象学和现象学哲学的观念第一卷》（*Ideas I*），转向“先验现象学”，将意识确立为万物意义的源泉，并阐发[[Epoché|悬置]]（Epoché）方法。
 > - **1914–1918年（一战期间）** 承受重大个人打击。次子沃尔夫冈（Wolfgang Husserl）于1916年在凡尔登战役中阵亡；长子格哈特（Gerhart Husserl）负伤；母亲于同年去世；杰出弟子阿道夫·赖纳赫（Adolf Reinach）于1917年在弗兰德斯阵亡。（根据维基百科的生平记载）
 > - **1916–1928年** 接替新[[Immanuel Kant|康德]]主义者海因里希·李凯尔特（Heinrich Rickert）担任弗莱堡大学讲席教授。埃迪特·施泰因（Edith Stein）于1916至1918年担任其助手，马丁·海德格尔（Martin Heidegger）于1920至1923年接任助手。1928年退休，由海德格尔接任教席。（根据维基百科的生平记载）
 > - **1929年** 在巴黎索邦大学举办讲座，后整理发表为《[[René Descartes|笛卡尔]]式的沉思》（*Cartesian Meditations*，1931），系统阐述先验自我与主体间性（Intersubjectivity）的构成。同年因发现海德格尔在《存在与时间》中用“此在”（Dasein）取代纯粹自我、将现象学降维为人类学而产生哲学分歧。（根据维基百科的生平记载）
@@ -139,7 +139,7 @@ updated: 2026-06-21
 > [!influence-path] 影响路径
 > - **理论路径** 直接开创了欧陆[[Phenomenology|现象学]]学派，深刻影响了海德格尔、萨特、梅洛-庞蒂等后继者的存在主义与具身现象学。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3]]
 > - **方法路径**[[Epoché|悬置]]和现象学还原方法成为[[Qualitative Research|质性研究]]中[[Interpretive Paradigm|诠释范式]]的核心研究方法，为现象学叙事和[[Philosophical Analysis in Education|哲学分析]]奠定了证据标准。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]
-> - **跨领域传播** 其主体间性与生活世界概念被舒茨（[[Alfred Schutz]]）[[Transfer Translation Transformation|转译]]并带入社会学中，成为社会现象学的基石，并在当代教师教育中作为批判课程政策原子化与工具化的思想资源。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 11]]
+> - **跨领域传播** 其主体间性与生活世界概念被舒茨（[[Alfred Schutz]]）[[Transfer Translation Transformation|转译]]并带入社会学中，成为社会现象学的基石，并在当代教师教育中作为批判课程政策原子化与工具化的思想资源。; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 11]]
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]] — 探讨了胡塞尔的先验现象学、意向性及生活世界概念，如何作为芬兰跨学科[[Phenomenon-Based Learning|现象本位学习]]（PhBL）核心哲学根源的演化与转译。

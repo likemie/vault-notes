@@ -93,9 +93,9 @@ citation_aliases:
 > - 新西兰教育部报告确认：同一所学校内学生成绩差异巨大，因此个体学校和教师而非政府或系统对有效教育负有最大责任(p.124)
 > - 澳大利亚维多利亚州开发了 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略），源自 Hattie 和 Marzano 的研究(p.126)
 > - 新西兰 ERO（Education Review Office）帮助教师与家长和社区合作，澄清有效教师的特征：灵活回应学生、使用不同教学方法、借助其他成人和社区成员的专业知识(p.127)
-> - 澳大利亚 Gonski 2.0(2018)提出以个体进步而非年龄基准衡量成功学习(p.127)
+> - 澳大利亚 Gonski 2.0(2018)提出以个体进步而非年龄基准衡量成功学习
 > - [[Australian Curriculum]](2012)包含三个维度：学习领域、通用能力和跨课程优先事项，各校有独特实施方式(p.128)
-> - [[The New Zealand Curriculum]](2010)包含八项原则（高期望、学会学习、未来焦点等），ERO 定期评估实施情况(p.128)
+> - [[The New Zealand Curriculum]](2010)包含八项原则（高期望、学会学习、未来焦点等），ERO 定期评估实施情况
 > - 两国学校实践课程连接（curriculum connection），被认为能有效促进师生协作(p.128–129)
 > - [[Visible Learning|VL]] 面临两类批评：方法论批评（[[Effect Size|效应量]]计算"统计上不复杂"）和理论批评（属于[[Radical Constructivism|激进建构主义]][[Paradigm|范式]]，导致教学本质的双重崩溃）(p.121–122)
 

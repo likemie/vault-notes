@@ -88,7 +88,7 @@ updated: '2026-06-22'
 > | 维度 | 全球教育产业 (GEI) | [[Endogenous and Exogenous Privatisation\|教育私有化]] | 教育市场化 (Marketisation) | [[Knowledge-Based Economization\|知识化经济化]] |
 > |------|--------|----------------|----------------|----------------|
 > | **分析对象** | 跨国教育产业场域及被经济理性形塑的教育供给、政策与想象（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]]）。 | 公共教育中私营参与的具体政策机制与运营形式（内生/外生）。 | 公共教育体制内部引入的竞争、选择与准市场化激励机制。 | 知识密集型资本主义中，国家以经济竞争力为目标对教育和研究的重组。 |
-> | **核心机制** | 涵盖私有化、金融化、商品化，以及通过国际组织进行的政策软治理与标准量化（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]]）。 | 外部承包、教育券、私营资本进入公立教育系统或转为准企业运营。 | 自主办学、[[School Choice\|择校]]制度、以绩效为基础的财政拨款等。 | 培育知识经济所需的劳动力（人力资本）、促进大学知识的商业转化（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]]）。 |
+> | **核心机制** | 涵盖私有化、金融化、商品化，以及通过国际组织进行的政策软治理与标准量化（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024]]）。 | 外部承包、教育券、私营资本进入公立教育系统或转为准企业运营。 | 自主办学、[[School Choice\|择校]]制度、以绩效为基础的财政拨款等。 | 培育知识经济所需的劳动力（人力资本）、促进大学知识的商业转化。 |
 > | **适用范围** | 包含 EdTech、[[Corporate Education\|企业教育]]、跨国咨询公司、横向能力指标等广泛的全球[[Champ\|场域]]。 | 侧重公共教育体系的产权、供给及决策权的转移。 | 侧重国家或地区层面的公共教育制度与治理结构变革。 | 聚焦国家发展战略宏观视角，探讨教育作为知识资本的政治经济学定位。 |
 
 ---
@@ -97,10 +97,10 @@ updated: '2026-06-22'
 
 > [!feature] 核心要素
 > - **多重经济理性** 在经济化、市场化、私有化、商品化和金融化等多重理性交织中运作（Verger et al., 2016; Parreira do Amaral et al., 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 42]]）。
-> - **独立的规则系统** 由自身的过程集合、规则系统和社会力量构成，作用于教育服务和商品的生产、供给和需求的生成中（Verger et al., 2016, p. 4, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 42]]）。
+> - **独立的规则系统** 由自身的过程集合、规则系统和社会力量构成，作用于教育服务和商品的生产、供给和需求的生成中（Verger et al., 2016, p. 4, cited in）。
 > - **多样化的行动者网络** 包含跨国公司、慈善基金会、社会企业、数据经纪人以及私营教育提供者等，通过数字平台、行业联盟和复杂连结构成跨国政策影响网络（Parreira do Amaral & Thompson, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 43]]）。
 > - **教育想象的话语生产** 不限于物质的商业交易，而是通过关于“技能缺口”、“个性化学习”与“教育创新”的话语，生产一套替代性或颠覆性的教育想象，侵蚀公立教育的合法性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp. 42–43]]）。
-> - **全球渗透性与软治理** 通过以经济为基础的概念（如效率、竞争），以及国际组织（如 [[OECD]]、欧盟）的标准化测量与基准比较（Benchmarking），全球渗透至各国的教育改革议程中（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 43]]；[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–9]]）。
+> - **全球渗透性与软治理** 通过以经济为基础的概念（如效率、竞争），以及国际组织（如 [[OECD]]、欧盟）的标准化测量与基准比较（Benchmarking），全球渗透至各国的教育改革议程中（；[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–9]]）。
 > - **[[Corporate Education\|企业教育]]与技能采购市场**：企业培训是 GEI 极其庞大的板块。欧盟三分之一至三分之二的企业培训已外包给第三方提供商。该市场由在线学习平台、管理咨询公司和 IT 巨头垄断，并通过证书认证体系确立了事实上的准入标准（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp. 190–193]]）。
 > - **技能原子化与测量驱动** 强调将复杂的、整体性的教育实践（如跨学科学习）拆解为细小的、可标准化的、具有明确经济实用价值的技能单元（如 [[21st Century Skills and Competencies Discourse|21世纪技能]] 或横向能力），使之适合进行[[External Auditor|外部审计]]、比较和市场化交易（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 

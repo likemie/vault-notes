@@ -49,13 +49,13 @@ updated: '2026-05-18'
 > [!note]-
 > - 该计划以"Brain Gain"模式运作，为中国海外专业人士提供巨大的财务和职业激励以返回中国([[Argument_Partaken_2022_Springer|Partaken, 2022, p.79]])
 > - FBI 截至 2019 年 7 月约有 1000 项对中国[[Economic and Industrial Espionage|知识产权盗窃]]的调查，其中包括对千人计划的调查（AFP, 2019; 引自 Partaken, 2022, p.79）
-> - 美国司法部（FBI）对 165 家公司的调查显示，50% 承认商业机密或知识产权被盗，95% 怀疑中国是幕后黑手([[Argument_Partaken_2022_Springer|Partaken, 2022, p.79]])
+> - 美国司法部（FBI）对 165 家公司的调查显示，50% 承认商业机密或知识产权被盗，95% 怀疑中国是幕后黑手
 
 ## 影响与后果
 
 > [!success]
 > - 在美国政府视角中，千人计划"可能只是又一台中国国家机器，将知识盗窃正式化和加剧化"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.79]])
-> - 该计划成为中美技术紧张关系的焦点之一，FBI 局长 Christopher Wray 称中国为"最严重的反情报威胁"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.79]])
+> - 该计划成为中美技术紧张关系的焦点之一，FBI 局长 Christopher Wray 称中国为"最严重的反情报威胁"
 
 ## 争议与评论
 

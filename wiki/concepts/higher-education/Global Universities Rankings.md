@@ -90,7 +90,7 @@ updated: 2026-05-20
 
 > 2014 年一项国际调查显示：84% 的受调查高校已建立内部机制审视自身排名，"绝大多数"用排名指导战略决策、设定目标和塑造优先事项（Hazelkorn, 2015, pp.xix–xv, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.125]]）。Philip Altbach（2011, p.2）指出："如果排名不存在，有人会发明它们"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.130]])。
 
-> **2019 年**，THE 推出了首个基于联合国 [[UN Sustainable Development Goals|SDGs]] 的全球大学影响力排名，标志着排名逻辑的一个显著转向：从仅衡量研究卓越和声誉，扩展到衡量大学对解决紧迫社会问题（性别平等、气候行动、可持续城市等）的贡献。该排名 2020 年覆盖 85 个国家近 800 所大学，其中 SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标([[Argument_Zapp_2022_Springer|Zapp, 2022, p.147]])。O'Malley & Mitchell（2019）将其描述为"世界上首次全球性尝试，记录高等教育影响力的证据，提供一种定义卓越的新方式，并认可大学为社会福祉所做的出色工作"([[Argument_Zapp_2022_Springer|Zapp, 2022, p.147]])。
+> **2019 年**，THE 推出了首个基于联合国 [[UN Sustainable Development Goals|SDGs]] 的全球大学影响力排名，标志着排名逻辑的一个显著转向：从仅衡量研究卓越和声誉，扩展到衡量大学对解决紧迫社会问题（性别平等、气候行动、可持续城市等）的贡献。该排名 2020 年覆盖 85 个国家近 800 所大学，其中 SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标([[Argument_Zapp_2022_Springer|Zapp, 2022, p.147]])。O'Malley & Mitchell（2019）将其描述为"世界上首次全球性尝试，记录高等教育影响力的证据，提供一种定义卓越的新方式，并认可大学为社会福祉所做的出色工作"。
 
 ---
 
@@ -149,7 +149,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 排名与国际教育的循环效应
 
-[[Argument_Marginson_2025_ROE|Marginson (2025)]]以澳大利亚为案例揭示了排名与国际学生市场之间的自我强化循环：澳大利亚大学以国际学生费用资助了约四分之一的大学科研，提升了研究产出和排名；排名的提升又强化了其在全球学生市场中的招生吸引力，从而维持了费用收入和排名位置。"全球排名维持了澳大利亚在全球学生市场中的招生，这又维持了排名——一种循环效应"([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 19]])。2019 年，人口仅 2500 万的澳大利亚有 7 所大学进入 ARWU 前 100 名，高引用论文比例与英国持平([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 19]])。
+[[Argument_Marginson_2025_ROE|Marginson (2025)]]以澳大利亚为案例揭示了排名与国际学生市场之间的自我强化循环：澳大利亚大学以国际学生费用资助了约四分之一的大学科研，提升了研究产出和排名；排名的提升又强化了其在全球学生市场中的招生吸引力，从而维持了费用收入和排名位置。"全球排名维持了澳大利亚在全球学生市场中的招生，这又维持了排名——一种循环效应"([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 19]])。2019 年，人口仅 2500 万的澳大利亚有 7 所大学进入 ARWU 前 100 名，高引用论文比例与英国持平。
 
 ---
 
@@ -206,7 +206,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 否定多样性，推行一刀切模式
 
-所有排名系统——尤其是全球排名——将特定类型的 HEI（研究型大学、侧重自然科学）视为规范，以同一套指标衡量所有机构，"增强了某些机构的声望，但以牺牲其他机构为代价"（Kehm, 2014, p.104, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.132]]）。例如，德国的 Fachhochschulen、芬兰、瑞士和法国的应用科学大学尽管有悠久传统和高度声望，在全球排名中却被系统性低估（Marginson & Van der Wende, 2007, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.132]]）。
+所有排名系统——尤其是全球排名——将特定类型的 HEI（研究型大学、侧重自然科学）视为规范，以同一套指标衡量所有机构，"增强了某些机构的声望，但以牺牲其他机构为代价"（Kehm, 2014, p.104, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.132]]）。例如，德国的 Fachhochschulen、芬兰、瑞士和法国的应用科学大学尽管有悠久传统和高度声望，在全球排名中却被系统性低估（Marginson & Van der Wende, 2007, cited in）。
 
 ### 对质量的狭隘定义
 
@@ -218,7 +218,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 光环效应与对增值的忽视
 
-全球排名不考虑高校的起点差异，不奖励发展程度或改进速度。"排名强化了领先大学的优势……后来者、新兴大学和国家难以打入"（Marginson, 2014, p.46, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.135]]）。排名的声誉调查"通常再生产已经建立的声望，无论实际成就如何"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.135]])。
+全球排名不考虑高校的起点差异，不奖励发展程度或改进速度。"排名强化了领先大学的优势……后来者、新兴大学和国家难以打入"（Marginson, 2014, p.46, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.135]]）。排名的声誉调查"通常再生产已经建立的声望，无论实际成就如何"。
 
 ### 作为象征和经济权力的机器
 

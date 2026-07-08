@@ -107,7 +107,7 @@ issuing_organization: ""
 > 由于研究者之间即使在方法论和原则上达成一致也可能公开分歧，反对[[Evidence-Based Reform|证据本位改革]]的人会利用这些分歧。因此需要频繁组建代表多元观点的独立审查委员会，"在从业者和政策制定者能接触的语言中产生关于什么有效的共识"。(p. 19)
 >
 > ### 6. 问责制需要证据本位实践的补充
-> 自 1980 年代初以来问责制一直是主导政策焦点，但"问责制是必要但不充分的学校改革策略"。年度测试分数的波动因人口变化、学生流动、特殊教育政策调整等百余种原因不可靠。学校应同时关注**项目证据基础**和**本校结果**——正如医院不会梦想实施与研究证据不一致的程序。(p. 19)
+> 自 1980 年代初以来问责制一直是主导政策焦点，但"问责制是必要但不充分的学校改革策略"。年度测试分数的波动因人口变化、学生流动、特殊教育政策调整等百余种原因不可靠。学校应同时关注**项目证据基础**和**本校结果**——正如医院不会梦想实施与研究证据不一致的程序。
 
 ---
 
@@ -115,7 +115,7 @@ issuing_organization: ""
 
 > [!success] 主要发现
 > - 截至 2002 年，CSR 拨款中仅 20.8% 流向具有"强证据"的项目，63.2% 流向混合/无研究的项目或自创模型。(p. 15)
-> - OERI 战略计划（2002–2007）设定了到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标，而当时该比例可能低于 5%。(p. 15)
+> - OERI 战略计划（2002–2007）设定了到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标，而当时该比例可能低于 5%。
 > - 随机化实验在大多数政策相关的项目评估领域是可能的，需要充足的资源 and 政策制定者的合作。(pp. 17–18)
 > - 延迟处理对照组设计（delayed treatment control group）是一种在实践中更易招募学校的随机化替代方案：将学校随机分配到立即实施组和一年后实施组。(p. 18)
 
@@ -134,7 +134,7 @@ issuing_organization: ""
 > ("Before the Wright brothers, many inventors launched airplanes that were based on exactly the same scientifically based aviation research as the Wright brothers used at Kitty Hawk, but the other airplanes never got off the ground.") (p. 19)
 >
 > > “一旦我们每年在教育实践的各个方面开展数十或数百项随机或仔细匹配的实验，我们将开始取得稳步、不可逆转的进展。在此之前，我们只是在乘坐教育时尚的钟摆。”
-> ("Once we have dozens or hundreds of randomized or carefully matched experiments going on each year on all aspects of educational practice, we will begin to make steady, irreversible progress. Until then, we are merely riding the pendulum of educational fashion.") (p. 19)
+> ("Once we have dozens or hundreds of randomized or carefully matched experiments going on each year on all aspects of educational practice, we will begin to make steady, irreversible progress. Until then, we are merely riding the pendulum of educational fashion.")
 
 ---
 

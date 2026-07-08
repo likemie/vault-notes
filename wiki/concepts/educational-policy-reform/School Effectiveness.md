@@ -3,7 +3,6 @@ title: School Effectiveness
 aliases:
   - 学校效能
   - school effectiveness research
-  - SE
 summary: "以学校差异解释学生成绩差异的研究取向，在政策中把学校转译为可测量、可比较、可干预的组织对象。"
 type: concept
 domain: "educational-policy-reform"

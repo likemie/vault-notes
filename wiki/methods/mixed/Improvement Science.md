@@ -52,9 +52,9 @@ updated: '2026-05-18'
 > [!info] 定义
 > 改进科学（Improvement Science）是一套源自组织研究领域（Langley et al., 2009）的方法集合，被倡导为教育研究中一个高杠杆的替代[[Paradigm|范式]]（Bryk et al., 2015; Lewis, 2015）。其核心特征是将教育实践作为**系统**来研究，关注**跨情境的变异性**，并从变异性中学习——变异的实例代表了生成关于"什么在什么情境中导致更多改进"洞见的可能性([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
 >
-> > "Key aspects of improvement science involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
+> > "Key aspects of improvement science involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability."
 >
-> 改进科学强调需要关注参与变革的**人类行动者**的情境和视角（Langley et al., 2009），生成关于**互动和过程**如何产生变革（改进）的证据，而非关于**项目**是否有效的证据([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
+> 改进科学强调需要关注参与变革的**人类行动者**的情境和视角（Langley et al., 2009），生成关于**互动和过程**如何产生变革（改进）的证据，而非关于**项目**是否有效的证据。
 
 ## 历史沿革
 
@@ -107,7 +107,7 @@ updated: '2026-05-18'
 > 5. **行动（Taking Action）** 实施改变
 > 6. **检查（Checking）** 检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师与学生的个别或小团体对话
 >
-> > "When teachers are involved in ongoing inquiry work, they are more likely to find out about new evidence and to incorporate into their practice in an ongoing way." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
+> > "When teachers are involved in ongoing inquiry work, they are more likely to find out about new evidence and to incorporate into their practice in an ongoing way."
 >
 > 实证研究已为探究螺旋底层的行动理论提供了证据（McGregor, 2013; Timperley, Parr, & Meisel, 2010）。[[OECD]] (2015) 特别强调探究螺旋支持新学习和教学方法规模化实施的能力。
 

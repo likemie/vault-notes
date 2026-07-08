@@ -83,7 +83,7 @@ citation_aliases:
 > - T 型技能 — 医师科学家所需的双重能力结构：纵向深度（|）用于识别专业领域的临床问题，横向广度（—）用于与不同学科的合作伙伴有效沟通。在超亚专业化时代，两个维度缺一不可(pp.185–186)。
 > - [[Team Science|团队科学]] — 以跨学科、大规模团队协作应对复杂科学问题的研究模式。[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]趋势显示获奖者越来越多地代表数百人规模的大型团队，而非孤立的个体天才(pp.178–179)。
 > - [[Partnership Continuum|伙伴关系连续体]] — [[University Industry Demonstration Partnership|大学产业示范伙伴关系]](University Industry Demonstration Partnership, UIDP, 2012)的合作分类框架，从交易型（共享策略）到协作型（共享想法）再到联盟型（共享愿景）。AHS 可以在所有三个级别上与同一伙伴同时维持多个合作关系(p.188)。
-> - [[Triple Helix|三重螺旋模型]] — Etzkowitz 与 Leydesdorff(1995)的大学-产业-政府关系模型。从 AHS 视角来看，政府更多扮演法规制定者和监管者角色，而非合作伙伴。例外情况包括政府通过竞争性合同资助研究时(p.188)。
+> - [[Triple Helix|三重螺旋模型]] — Etzkowitz 与 Leydesdorff(1995)的大学-产业-政府关系模型。从 AHS 视角来看，政府更多扮演法规制定者和监管者角色，而非合作伙伴。例外情况包括政府通过竞争性合同资助研究时。
 > - [[King-Persily Model|King-Persily 模型]] — King 与 Persily(2019)提出的产学合作数据治理模型，通过引入独立第三方委员会来解耦研究者对产业数据与专有信息的完全访问。在医疗场景中需额外考虑患者数据去标识化和学术健康系统对患者的信托责任(pp.188–189)。
 > - [[Values Alignment Model|价值对齐模型]] — 核心框架：以 AHS 为促进者，通过患者中心的透镜重新对齐大学、产业、医院和医师各方的优先差异，找出共享价值并尊重不共享的价值(pp.190–191, Fig. 10.5)。
 
@@ -130,7 +130,7 @@ citation_aliases:
 > [!example]- Houston Methodist 的"中心辐射"结构
 > 以 Houston Methodist 为例，AHS 呈现"中心辐射"（hub-and-spoke）模式（Fig. 10.2）：旗舰医院与研究所为核心，八个区域性医院为辐射节点，外层为初级保健诊所、急诊中心等接入点，并通过与联邦认证健康中心（Federally Qualified Health Center, FQHC）合作覆盖服务不足人群(pp.180–181)。详见 [[Academic Health System]]。
 >
-> 论证关键在于：这种结构创造出**"双向学术管线"（bidirectional academic pipeline）**——创新从旗舰研究所向外推送至多样化诊疗环境接受验证，临床需求从区域和社区反馈回研究所触发新发现。**将研究带到患者身边**，而非要求患者来到研究所，从根本上扩展了临床试验的入口和部署场景(pp.180–181)。
+> 论证关键在于：这种结构创造出**"双向学术管线"（bidirectional academic pipeline）**——创新从旗舰研究所向外推送至多样化诊疗环境接受验证，临床需求从区域和社区反馈回研究所触发新发现。**将研究带到患者身边**，而非要求患者来到研究所，从根本上扩展了临床试验的入口和部署场景。
 
 > [!example]- 图10-2：学术健康系统的组织结构（Structure of an Academic Health System）
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-2_Structure_of_Academic_Health_System.jpg)
@@ -145,7 +145,7 @@ citation_aliases:
 ### 第三步：AHS 在产学合作中面临七重结构性挑战，恰恰构成了产学合作不可替代的论证
 
 > [!warning] 挑战一：创新的成本
-> 医院大部分收入来自与私人保险公司和公共支付方（Medicare、Medicaid）谈判达成的价格协议(pp.183–184)。2023 年利润率分析显示医院利润率从 −6.8% 到 12.2%，许多医院处于亏损或微利状态，有时必须延迟或放弃对直接有益于患者的新技术的投资。如果达不到收支平衡，医院就会消亡，在农村地区这一问题尤为普遍。但与此同时，医院必须投资新技术以保持竞争力。在这种利润挤压下，独立的创新投资，尤其商业化前景不确定的早期创新，很难获得内部资源支持(pp.183–184)。
+> 医院大部分收入来自与私人保险公司和公共支付方（Medicare、Medicaid）谈判达成的价格协议(pp.183–184)。2023 年利润率分析显示医院利润率从 −6.8% 到 12.2%，许多医院处于亏损或微利状态，有时必须延迟或放弃对直接有益于患者的新技术的投资。如果达不到收支平衡，医院就会消亡，在农村地区这一问题尤为普遍。但与此同时，医院必须投资新技术以保持竞争力。在这种利润挤压下，独立的创新投资，尤其商业化前景不确定的早期创新，很难获得内部资源支持。
 
 ---
 
@@ -159,7 +159,7 @@ citation_aliases:
 ---
 
 > [!warning] 挑战三：患者数据管理的严格要求
-> 《健康保险携带和责任法案》（Health Insurance Portability and Accountability Act of 1996, HIPAA）要求医院在高度监管的环境中保护患者信息(p.184)。HIPAA 合规需要专门的数据基础设施、增强的员工培训和先进的数据安全技术，均需持续投入。当试图引入研究用途时，复杂性进一步升级：研究者必须获取[[Informed Consent|知情同意]]；涉及弱势群体（儿童、孕妇）或危重患者的研究还需额外的监管审查层(p.184)。
+> 《健康保险携带和责任法案》（Health Insurance Portability and Accountability Act of 1996, HIPAA）要求医院在高度监管的环境中保护患者信息(p.184)。HIPAA 合规需要专门的数据基础设施、增强的员工培训和先进的数据安全技术，均需持续投入。当试图引入研究用途时，复杂性进一步升级：研究者必须获取[[Informed Consent|知情同意]]；涉及弱势群体（儿童、孕妇）或危重患者的研究还需额外的监管审查层。
 
 ---
 
@@ -201,7 +201,7 @@ citation_aliases:
 ---
 
 > [!note]- 框架二：[[Triple Helix|三重螺旋模型]] — 政府角色的修正
-> Etzkowitz & Leydesdorff(1995)的大学-产业-政府关系模型，从 AHS 视角来看需要一项关键修正：在 AHS 运作中，政府更多扮演监管者而非合作伙伴——"government entities function more as the operating bodies that codify and set forth regulations and standards"(p.188)。例外是政府通过竞争性合同资助研究时更接近伙伴形态。AHS 本身也可被构想为替代政府的第三方(p.188)。详见 [[Triple Helix]]。
+> Etzkowitz & Leydesdorff(1995)的大学-产业-政府关系模型，从 AHS 视角来看需要一项关键修正：在 AHS 运作中，政府更多扮演监管者而非合作伙伴——"government entities function more as the operating bodies that codify and set forth regulations and standards"(p.188)。例外是政府通过竞争性合同资助研究时更接近伙伴形态。AHS 本身也可被构想为替代政府的第三方。详见 [[Triple Helix]]。
 
 ---
 
@@ -220,7 +220,7 @@ citation_aliases:
 >
 > 在产业和学术搁置分歧完成任务的共同决策下，结合"曲速行动"（Operation Warp Speed）的充分资金，数种高效疫苗在创纪录时间内问世。AMC 和 AHS 在全国联合为 Pfizer、Moderna 和 Johnson & Johnson 的 III 期试验提供场所。**疫苗学在 1–2 年内达到了本来需要数十年才能实现的水准(p.190)**。
 >
-> 然而 COVID-19 也暴露了合作的脆弱性：增强的合作是短暂的。后 COVID-19 时代各方迅速回归旧有障碍和保守立场，有些甚至摆荡到了更保守的位置(p.190)。但这种对比揭示了一个关键事实：**当各方拥有对齐的目标和强烈的紧迫感时，能够实现远超常态的成果**。
+> 然而 COVID-19 也暴露了合作的脆弱性：增强的合作是短暂的。后 COVID-19 时代各方迅速回归旧有障碍和保守立场，有些甚至摆荡到了更保守的位置。但这种对比揭示了一个关键事实：**当各方拥有对齐的目标和强烈的紧迫感时，能够实现远超常态的成果**。
 
 ---
 
@@ -229,7 +229,7 @@ citation_aliases:
 > - COVID-19 是不加区分、高度传染性的，"不惜任何代价行动"的必要性直接可感
 > - NCDs（心血管疾病、癌症、神经退行性疾病）进展缓慢，给人一种"可以推迟"的错觉
 >
-> 但对 NCD 患者及其照护者而言，其处境紧迫程度与 COVID-19 对全球人口一样真实。在某个时间点，**当前最佳的标准疗法也会对 NCD 患者失效(p.190)**。AHS 特别敏锐地意识到这一事实。如果合作各方能充分理解患者面临的紧迫感，将患者置于中心，这可以成为各方在产学合作中的重要动力。
+> 但对 NCD 患者及其照护者而言，其处境紧迫程度与 COVID-19 对全球人口一样真实。在某个时间点，**当前最佳的标准疗法也会对 NCD 患者失效**。AHS 特别敏锐地意识到这一事实。如果合作各方能充分理解患者面临的紧迫感，将患者置于中心，这可以成为各方在产学合作中的重要动力。
 
 ---
 
@@ -247,7 +247,7 @@ citation_aliases:
 > [!abstract] 四方的优先差异与 ROI 定义
 > 对齐的目标通常始于"我们想治疗 X 疾病"，但医院、产业、大学和医师对同一目标有着根本不同的优先排序和 ROI 定义(pp.190–191)。详见 [[Values Alignment Model]] 和 [[Return on Investment]]。
 >
-> 价值对齐的关键不在于消除差异，而在于通过**"患者中心的透镜"（patient-centered lens）**审视所有优先事项：产业的利润只有在产品对患者安全有效时才有意义；大学的发表只有转化为患者受益时才实现社会价值(pp.191–192)。AHS 作为促进者的核心任务是平衡向内拉力（共享价值）与向外拉力（反向力量），既不让商业逻辑凌驾于患者安全之上（如果创新不安全，ROI 降为零），也不让监管保守主义扼杀创新(pp.191–192)。
+> 价值对齐的关键不在于消除差异，而在于通过**"患者中心的透镜"（patient-centered lens）**审视所有优先事项：产业的利润只有在产品对患者安全有效时才有意义；大学的发表只有转化为患者受益时才实现社会价值(pp.191–192)。AHS 作为促进者的核心任务是平衡向内拉力（共享价值）与向外拉力（反向力量），既不让商业逻辑凌驾于患者安全之上（如果创新不安全，ROI 降为零），也不让监管保守主义扼杀创新。
 
 
 > [!example]- 学术健康系统促进创新 UI 合作的独特角色
@@ -289,13 +289,13 @@ citation_aliases:
 > [!success] 扩散、迭代与经济学证据
 > **扩散(p.194)** TAVR 年手术量 2011 年起持续增长，2019 年超过 SAVR。如今被视为全风险谱系的标准疗法，在全美 50 个州可及。Houston Methodist 在系统内六所医院提供 TAVR，旗舰 Valve Clinic 完成超过 2000 例装置植入(Carroll et al., 2021, 转引自 p.194)。
 >
-> **持续创新(p.194)** 技术现称为经导管心脏瓣膜（Transcatheter Heart Valve, THV）设计，两种主要路线：
+> **持续创新** 技术现称为经导管心脏瓣膜（Transcatheter Heart Valve, THV）设计，两种主要路线：
 > - 球囊膨胀式瓣膜（Balloon-Expandable Valves, BEV）— Edwards Sapien X4
 > - 自膨胀式瓣膜（Self-Expanding Valves, SEV）— Medtronic Evolut FX
 >
 > 关键改善：30 天死亡率 7.2% → 2.5%，中风风险 2.75% → 2.3%(Zaid et al., 2023, 转引自 p.194)。
 >
-> **经济学(p.194)** 2023 年分析预测 TAVR 有 95% 概率使增量成本效益比（Incremental Cost-Effectiveness Ratio, ICER）低于 $50,000/质量调整生命年（Quality-Adjusted Life-Year, QALY），属于高经济价值策略。无形收益包括住院时间更短、再入院更少、感染和并发症减少。
+> **经济学** 2023 年分析预测 TAVR 有 95% 概率使增量成本效益比（Incremental Cost-Effectiveness Ratio, ICER）低于 $50,000/质量调整生命年（Quality-Adjusted Life-Year, QALY），属于高经济价值策略。无形收益包括住院时间更短、再入院更少、感染和并发症减少。
 
 ---
 
@@ -337,8 +337,8 @@ citation_aliases:
 > - 计算能力在深度学习时代每 6 个月翻一番，对比摩尔定律的每 2 年(Sevilla et al., 2022, 转引自 p.186)
 > - 2019 年 TAVR 年手术量首次超过 SAVR(p.194)
 > - TAVR 30 天死亡率从 7.2% 降至 2.5%，中风风险从 2.75% 降至 2.3%(Carroll et al., 2021; Zaid et al., 2023, 转引自 p.194)
-> - Houston Methodist Valve Clinic 完成了超过 2000 例 TAVR 装置植入(p.194)
-> - 2023 年经济学分析：TAVR 有 95% 概率使 ICER 低于 $50,000/QALY，属于高经济价值策略(p.194)
+> - Houston Methodist Valve Clinic 完成了超过 2000 例 TAVR 装置植入
+> - 2023 年经济学分析：TAVR 有 95% 概率使 ICER 低于 $50,000/QALY，属于高经济价值策略
 
 ---
 

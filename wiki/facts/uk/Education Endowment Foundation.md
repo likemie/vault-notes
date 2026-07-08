@@ -77,7 +77,7 @@ updated: 2026-06-20
 > [!dev-timeline]- 机构发展与全球扩张
 > - **2011 — 创立与工具包开发** 萨顿信托联合慈善信托在英国政府资助下创立教育捐赠基金会（EEF），着手开发《教学与学习工具包》（Teaching and Learning Toolkit），以比较性量表的形式为学校决策提供循证支持。
 > - **2016 — 模式国际辐射** 澳大利亚政府生产力委员会建议应当以英国的 EEF 为直接蓝本，建立本土的证据中介机构，直接催生了后来的 [[Australian Education Research Organisation|AERO]] 组织([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
-> - **2018 — 私人资本注资与全球网络构建** EEF 启动“全球证据生态系统”扩张计划，获得跨国矿业巨头旗下**[[BHP Foundation|必和必拓基金会]]**的大额资金支持，通过资助澳大利亚社会风险投资公司旗下的“学习证据”（E4L），在全球复制“EEF式”的本地证据治理组织([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
+> - **2018 — 私人资本注资与全球网络构建** EEF 启动“全球证据生态系统”扩张计划，获得跨国矿业巨头旗下**[[BHP Foundation|必和必拓基金会]]**的大额资金支持，通过资助澳大利亚社会风险投资公司旗下的“学习证据”（E4L），在全球复制“EEF式”的本地证据治理组织。
 > - **2020–2023 — 跨国治理与认知心理学推广** EEF 创始人柯林斯爵士（Sir Kevan Collins）直接担任澳大利亚 AERO 专家委员会成员。2023年，EEF 发布证据综述报告《课堂中的认知[[Scientific Method|科学方法]]》，积极推广以[[Cognitive Load Theory|认知负荷理论]]为核心的认知心理学教学实践([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 8, 11]])。
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-06-20
 
 > [!finding-cards] 影响与后果
 > - **跨国[[Policy Network|政策网络]]构建** EEF 通过在美、澳、新等多国扶植镜像组织，成功地将英国的话语体系转化为全球证据标准，成为跨国“理念编排”（idea orchestration）的制度化中介([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
-> - **初始教师教育课程干预** 在澳大利亚 2023 年《强劲开端》报告制定的初始教师教育大纲中，EEF 推荐的科学[[Document|文献]]被列为必修核心课程的指定参考文献，从而直接干预了主权国家的教师能力培养框架([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
+> - **初始教师教育课程干预** 在澳大利亚 2023 年《强劲开端》报告制定的初始教师教育大纲中，EEF 推荐的科学[[Document|文献]]被列为必修核心课程的指定参考文献，从而直接干预了主权国家的教师能力培养框架。
 > - **证据官僚功能的异化** 尽管 EEF Toolkit 在修辞上被宣称为客观教学指南，但在制度实践中，其真正功能往往转变为满足管理主义的问责需求（“以数字治理”）。在实际政策制定中，政府甚至会回避 Toolkit 代表的学术证据，转而使用非同行评议的 [[Ofsted]] 评级进行决策([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p. 27]])、[[Argument_Cowen_2019_ERE|Cowen, 2019, p. 11]]。
 
 ---

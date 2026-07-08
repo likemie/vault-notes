@@ -75,9 +75,9 @@ updated: 2026-06-17
 
 > [!feature] 核心要素
 > - **理念编排（Idea Orchestration）** 网络内部各节点（如智库、中介）协同宣传并推广特定的科学或政策话语（如将特定认知科学理论列为唯一科学真理），以框定政策讨论的前提和沉默范围。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **人事与资金的网状穿梭（[[Boundary Spanner|boundary spanning]]）**：网络核心行动者在官方监管机构、民间保守智库与中介组织之间进行多重身份穿梭（如詹妮弗·巴金汉（Jennifer Buckingham）兼任保守智库董事与官方教师监管机构董事），实现政策意图的隐性合流。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **数字与技术基础设施底座（Shared Infrastructure）** 各网络节点在底层技术、系统托管及数据交换上高度集成（如官方大纲设计机构、课程认证机构与证据中介共享同一个底层技术提供商），形成行政上的合规问责闭环。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **循证政策的商业变现（Commercial Monetisation）** 网络中推荐的强制性评估（如初始教师准入测试）通过行政手段落地，为特定非政府节点带来巨额且稳定的商业营收，达成商业与制度的深度共生。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **人事与资金的网状穿梭（[[Boundary Spanner|boundary spanning]]）**：网络核心行动者在官方监管机构、民间保守智库与中介组织之间进行多重身份穿梭（如詹妮弗·巴金汉（Jennifer Buckingham）兼任保守智库董事与官方教师监管机构董事），实现政策意图的隐性合流。
+> - **数字与技术基础设施底座（Shared Infrastructure）** 各网络节点在底层技术、系统托管及数据交换上高度集成（如官方大纲设计机构、课程认证机构与证据中介共享同一个底层技术提供商），形成行政上的合规问责闭环。
+> - **循证政策的商业变现（Commercial Monetisation）** 网络中推荐的强制性评估（如初始教师准入测试）通过行政手段落地，为特定非政府节点带来巨额且稳定的商业营收，达成商业与制度的深度共生。
 
 ---
 

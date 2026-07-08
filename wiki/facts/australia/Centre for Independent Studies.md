@@ -48,8 +48,8 @@ updated: 2026-06-16
 > [!event-context] 机构背景
 > - **时间 / 地点** 1976年成立于悉尼，主要活跃于澳大利亚全国政策游说中。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9]])
 > - **关键主体** 独立研究中心（[[Community Innovation Survey|CIS]]）、董事会成员及高级研究员詹妮弗·巴金汉博士（Dr Jennifer Buckingham）。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **制度背景** 被政策社会学家界定为典型的“保守派右翼倡导型智库”，其财务收支及资金注入来源不对公众公开。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9]])
-> - **触发条件** 新自由主义与保守派势力试图绕过公共大学管理，重塑国家教育准入机制与课程导向的政治动员。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9]])
+> - **制度背景** 被政策社会学家界定为典型的“保守派右翼倡导型智库”，其财务收支及资金注入来源不对公众公开。
+> - **触发条件** 新自由主义与保守派势力试图绕过公共大学管理，重塑国家教育准入机制与课程导向的政治动员。
 
 ---
 
@@ -57,7 +57,7 @@ updated: 2026-06-16
 
 > [!timeline] 机构发展与关键活动
 > - 1976 成立，开始通过出版物、公共论坛和[[Policy Network|政策网络]]，长期倡导自由市场与保守主义经济及社会政策大纲。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9]])
-> - 2021 出资赞助并出版了教育心理学家 [[John Sweller]] 撰写的 Analysis Paper 24《为什么探究式学习有害学生学习》，作为攻击[[Progressive Education|进步主义教育]]大纲的游说手册。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9]])
+> - 2021 出资赞助并出版了教育心理学家 [[John Sweller]] 撰写的 Analysis Paper 24《为什么探究式学习有害学生学习》，作为攻击[[Progressive Education|进步主义教育]]大纲的游说手册。
 > - 2023 其资助出版的研究报告（Sweller, 2021）通过人事交叉通道（巴金汉的双重身份）被直接吸纳并强制嵌入联邦《强劲开端》报告附录D中，上升为法定初始教师教育（ITE）认证核心课程的指定参考[[Document|文献]]。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 9, p. 11]])
 
 ---
@@ -98,6 +98,6 @@ updated: 2026-06-16
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
 > | [[Strong Beginnings Report]] | 强制指定其资助的报告为全国初始教师教育大纲参考[[Document\|文献]]的国家改革文本。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]]) |
-> | [[John Sweller]] | 长期与 [[Community Innovation Survey\|CIS]] 保持学术合作关系、其智库报告的实际作者。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]]) |
+> | [[John Sweller]] | 长期与 [[Community Innovation Survey\|CIS]] 保持学术合作关系、其智库报告的实际作者。 | |
 > | [[Australian Institute for Teaching and School Leadership]] | 负责将核心参考文献嵌入规范的国家监管机构，其董事会包含 CIS 董事。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
-> | [[Cognitive Load Theory]] | CIS 在教师教育改革中推广的认知心理学核心理论。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]]) |
+> | [[Cognitive Load Theory]] | CIS 在教师教育改革中推广的认知心理学核心理论。 | |

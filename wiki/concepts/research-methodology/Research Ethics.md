@@ -138,7 +138,7 @@ updated: 2026-06-18
 > | | 提供伦理合规证明与无[[Conflict of Interest in Research\|利益冲突]]声明 | 披露研究资助方和获益方 |
 > | | 明确数据所有权 | 将所有权归于研究者、参与者和导师 |
 >
-> 来源：改编自 APA (2020); Creswell & Poth (2018); Lincoln (2009); Mertens & Ginsberg (2009); Salmons (2010)。
+> 来源：改编自 APA; Creswell & Poth (2018); Lincoln (2009); Mertens & Ginsberg (2009); Salmons (2010)。
 
 ### 研究开始之前
 

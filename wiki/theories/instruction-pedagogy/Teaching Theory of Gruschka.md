@@ -87,7 +87,7 @@ Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要
 > [!warning]
 > - **德国语境的特殊性** 该理论深深根植于德国 [[Bildung]]/[[Didaktik]] 传统，其核心概念（Bildung, Erziehung, Didaktik）在其他教育文化中缺乏精确的对应概念，跨国适用性有待验证（Jornitz & Klinge, 2022 本身即是将该理论应用于全球 EdTech 分析的一次尝试）
 > - **经验基础的可见性**虽然 Gruschka（2013）声称基于经验研究，但在当前仅通过 Jornitz & Klinge（2022）一章的引用，尚无法全面评估其经验基础的质量和范围
-> - **信息量限制**本条目仅基于 Jornitz & Klinge（2022）对 Gruschka 理论的总结性介绍，Gruschka 原著的完整论证有待直接阅读后补充
+> - **信息量限制**本条目仅基于 Jornitz & Klinge对 Gruschka 理论的总结性介绍，Gruschka 原著的完整论证有待直接阅读后补充
 
 ## 相关研究
 

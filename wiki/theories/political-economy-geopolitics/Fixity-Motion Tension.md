@@ -49,7 +49,7 @@ updated: '2026-05-18'
 >
 > > "Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time."（Harvey, 2001, p.333, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]]）
 >
-> Moisio 将该张力定位为[[Knowledge-Based Economization|知识经济化]]地缘政治的根本动力来源："[[Knowledge-Based Economy|知识经济]]化的地缘政治正源于资本主义空间流通过程内部的这一张力——积累地理中固着与流动之间的张力"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]])。
+> Moisio 将该张力定位为[[Knowledge-Based Economization|知识经济化]]地缘政治的根本动力来源："[[Knowledge-Based Economy|知识经济]]化的地缘政治正源于资本主义空间流通过程内部的这一张力——积累地理中固着与流动之间的张力"。
 >
 
 ## 为什么固着和流动必然冲突？——因果链拆解

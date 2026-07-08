@@ -80,12 +80,12 @@ updated: '2026-06-19'
 > [!citation-card]- 关键表述：社会干预的因果机制
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（reasoning）。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
 >
-> Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (引自 [[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
+> Social programmes... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (引自)
 
 > [!citation-card]- 关键表述：因果力的触发与阻断
 > 因果力量属于“深层”实在，可能在它们试图实现的环境中被其他力量或环境的各个方面所触发或阻断。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])
 >
-> Causal forces belong to the 'deep' reality, and may be triggered or blocked by other forces or by aspects of the environment in which they attempt to materialise. (引自 [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])
+> Causal forces belong to the 'deep' reality, and may be triggered or blocked by other forces or by aspects of the environment in which they attempt to materialise. (引自)
 
 ---
 
@@ -96,8 +96,8 @@ updated: '2026-06-19'
 >   > [!warrant]- 为什么这一前提重要
 >   > 区分三层本体论使得研究者能够穿透表面的统计数字（经验界），探究是什么深层因果机制（实在界）在何种情境（实际界）下导致了事件的发生，从而避免陷入经验主义的盲目测量。
 > - **前提二：社会结构的[[Emergence|涌现]]性（Emergence of Social Structures）**：社会结构拥有无法被个体行动者简单加总或还原的涌现权力（Emergent Powers）。虽然结构需要个体活动来维持和再生产，但它们独立并先于任何特定个体的存在。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
-> - **机制：开放系统中的因果实现（Causal Realisation in Open Systems）** 教育与社会场景是典型的“开放系统”，存在多重且可能相互冲突的因果力。因果机制的触发是非线性的涌现过程，取决于事物本身的属性（Nature）与具体背景（Context）的交互，而不是休谟式的经验重复。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
-> - **结果判断：对“什么有效”经验法则的解构** 由于因果机制可能被环境因素阻断，相同的教学法（机制）在不同的情境（学校 culture、[[Student-Teacher Relationship|师生关系]]、学生特征）下会产生完全不同的结果。仅凭去情境化的平均数排行榜无法指导具体的教育实践。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])
+> - **机制：开放系统中的因果实现（Causal Realisation in Open Systems）** 教育与社会场景是典型的“开放系统”，存在多重且可能相互冲突的因果力。因果机制的触发是非线性的涌现过程，取决于事物本身的属性（Nature）与具体背景（Context）的交互，而不是休谟式的经验重复。；另见
+> - **结果判断：对“什么有效”经验法则的解构** 由于因果机制可能被环境因素阻断，相同的教学法（机制）在不同的情境（学校 culture、[[Student-Teacher Relationship|师生关系]]、学生特征）下会产生完全不同的结果。仅凭去情境化的平均数排行榜无法指导具体的教育实践。；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])
 
 > [!mechanism-map]- 机制图
 > ```mermaid
@@ -152,7 +152,7 @@ updated: '2026-06-19'
 > - **作为理论框架** 用以批评主流[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）的过度简化倾向，打破其将医学[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCTs）[[Paradigm|范式]]盲目照搬到复杂教育开放系统中的[[Scientism|科学主义]]幻想。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 4]])
 > - **作为分析工具** 在教育项目评估中，将分析焦点从“平均效应量是多少”转向“该项目在哪些学校背景中触发了教师/学生的哪些推理过程，从而产生了何种差异化结果”。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 14]])
 > - **作为批判视角** 审查新自由主义管理主义下的审计文化（Audit Culture）与“数字治理”（Governance by Numbers）。揭示统计排行榜如何将复杂的“教育陶冶（[[Bildung]]）”异化为纯粹的技术效率传递，从而剥夺关于教育价值与民主目的的政治讨论，消解教师的[[Professional Judgment|专业判断力]]。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
-> - **报告方式** 写作时应避免单纯汇报均值与 p 值，而应提供多层级背景描述（阶级、学校制度、文化）与过程追踪，呈现干预和反思交互的涌现轨迹。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
+> - **报告方式** 写作时应避免单纯汇报均值与 p 值，而应提供多层级背景描述（阶级、学校制度、文化）与过程追踪，呈现干预和反思交互的涌现轨迹。
 
 > [!logic-map]- 分析流程图
 > ```mermaid
@@ -181,8 +181,8 @@ updated: '2026-06-19'
 
 > [!dev-timeline] 发展脉络
 > - **1978 年 — 经典文本奠定科学哲学基础**[[Roy Bhaskar|罗伊·巴斯卡]]（[[Roy Bhaskar]]）出版 *A Realist Theory of Science*，区分三层[[Ontology|本体论]]和开放/封闭系统，提出批判实在论的自然科学哲学基础。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 112]])
-> - **1979 年 — 扩展至人文社会科学** 巴斯卡出版 *The Possibility of Naturalism*，系统论证社会结构的[[Emergence|涌现]]性，为人文与社会科学建构了独特的[[Interpretive Paradigm|反实证主义]]实在论框架。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 112]])
-> - **2000 年 — 社会[[Scientific Method|科学方法]]论指南**：安德鲁·塞耶（Andrew Sayer）出版 *Realism and Social Science*，为社会科学研究者将批判实在论转化为具体方法论提供了操作指南，深入讨论了还原论与[[Heterogeneity|异质性]]。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 112]])
+> - **1979 年 — 扩展至人文社会科学** 巴斯卡出版 *The Possibility of Naturalism*，系统论证社会结构的[[Emergence|涌现]]性，为人文与社会科学建构了独特的[[Interpretive Paradigm|反实证主义]]实在论框架。
+> - **2000 年 — 社会[[Scientific Method|科学方法]]论指南**：安德鲁·塞耶（Andrew Sayer）出版 *Realism and Social Science*，为社会科学研究者将批判实在论转化为具体方法论提供了操作指南，深入讨论了还原论与[[Heterogeneity|异质性]]。
 > - **2006 年 — 应用于循证政策批判与方法替代**[[Ray Pawson]] 出版 *Evidence-based Policy: A Realist Perspective*，将批判实在论应用于社会政策分析，系统性地构建了“实在论综合（Realist Synthesis）”与 CMO 分析配置，提供替代[[Meta-analysis|元分析]]的路径。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 114]])
 > - **2018 年 — [[Evidence-Based Education|循证教育]]方法论的三层解构**：[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] 发表 *The power of 'evidence': Reliable science or a set of blunt tools?*，以批判实在论作为[[Analytic Framework|分析框架]]，解构了教育实验中统计均值三层失真机制，并直指其新自由主义意识形态本质。
 > - **2019 年 — 对证据本位教学科学观的全面剖析**[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] 发表研究，以批判实在论系统解构 [[Education Endowment Foundation|EEF]] Toolkit 的科学观缺陷，提供体育参与等经典案例的实在论分析。

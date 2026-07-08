@@ -103,7 +103,7 @@ updated: '2026-05-25'
 > - **2021 年 2 月** — [[Citizenship and Social Development|CSD]] 取代 LS，国民教育正式成为高中课程的必修核心组成部分
 > - **2022 年** — CSD 教科书首批两个主题出版（"[[One Country, Two Systems|一国两制]]下的香港"与"改革开放以来的国家"），教科书纳入教育局评审制度，作者和顾问团队重组——社会史学家 Lui Tai-lok 被 Tang Fei（邓飞，教联会副会长、委任立法会议员）和 Hoey Simon Lee（华润集团[[Guangdong-Hong Kong-Macau Greater Bay Area|大湾区]]首席战略官、清华大学法学博士）取代([[Argument_Vickers_2024_CE|Vickers, 2024, pp.147–148]])
 > - **2022 年 7 月** — 习近平访港出席回归 25 周年典礼，以"青年"为讲话核心主题；同日新设的民政及青年事务局正式成立([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])
-> - **2022 年 12 月** — 港府发布《[[Youth Development Blueprint|青年发展蓝图]]》，四大主题为：探索、希望、赋能、贡献——将青年问题框架化为"培养积极思维"而非回应政治参与诉求([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])
+> - **2022 年 12 月** — 港府发布《[[Youth Development Blueprint|青年发展蓝图]]》，四大主题为：探索、希望、赋能、贡献——将青年问题框架化为"培养积极思维"而非回应政治参与诉求
 
 ---
 

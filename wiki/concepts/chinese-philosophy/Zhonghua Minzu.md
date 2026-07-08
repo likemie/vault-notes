@@ -56,7 +56,7 @@ updated: '2026-06-25'
 > [!citation-card]- 关键表述
 > “费孝通对中华民族的定义，试图将（中华人民共和国宪法中）定义的多民族国家转变为具有‘族群’多样性的单一‘国族’。”([[Argument_Bulag_2024_CE|Bulag, 2024, p. 101]])
 > 
-> *“Fei’s definition of Zhonghua minzu attempts to turn what is defined (in the PRC constitution) as a multinational state into a single ‘nation’ with ‘ethnic’ diversity”* ([[Argument_Bulag_2024_CE|Bulag, 2024, p. 101]])
+> *“Fei’s definition of Zhonghua minzu attempts to turn what is defined (in the PRC constitution) as a multinational state into a single ‘nation’ with ‘ethnic’ diversity”*
 
 ---
 
@@ -64,9 +64,9 @@ updated: '2026-06-25'
 
 > [!dev-timeline] 概念史演变脉络
 > - **1902 年 — 概念引入** 梁启超首次引入“中华民族”一词。近期词源学研究表明，英文“Chinese nation”早于该词出现，但早期仅指代汉人。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 104]])
-> - **1912 年 — 五族共和** 中华民国建立并采用“五族共和”说。但孙中山（Sun Yat-sen）等早期民族主义者视满清统治者为外来入侵者，其“恢复”主要是驱逐满人。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 104]])
-> - **1943 年 — 宗族化论述** 蒋介石（Chiang Kai-shek）在《中国之命运》中将五族重新定义为中华民族的“宗族”（zongzu），追溯共同的炎黄祖先。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 104]])
-> - **1949 年 — 多民族国家确立** 中华人民共和国建立并拒绝了国民党的中华民族说（视其为大汉族主义），转而确立多民族国家模式，开展民族识别。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 104]])
+> - **1912 年 — 五族共和** 中华民国建立并采用“五族共和”说。但孙中山（Sun Yat-sen）等早期民族主义者视满清统治者为外来入侵者，其“恢复”主要是驱逐满人。
+> - **1943 年 — 宗族化论述** 蒋介石（Chiang Kai-shek）在《中国之命运》中将五族重新定义为中华民族的“宗族”（zongzu），追溯共同的炎黄祖先。
+> - **1949 年 — 多民族国家确立** 中华人民共和国建立并拒绝了国民党的中华民族说（视其为大汉族主义），转而确立多民族国家模式，开展民族识别。
 > - **1988 年 — 多元一体确立**[[Fei Xiaotong|费孝通]]提出“中华民族多元一体格局”，强调中华民族从前现代的“自在”到鸦片战争冲击后的“自觉”的转变。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 101, p. 105]])
 > - **2002 年 — 制度化转型** 中共十六大修改党章，将党重新界定为“中国工人阶级的先锋队，同时是中国人民和中华民族的先锋队”，标志着国家从多民族国家向单一国族政治模式转型。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 102]])
 > - **2012 年至今 — 铸牢共同体意识** 习近平（Xi Jinping）提出“中华民族伟大复兴的中国梦”（2012），并于 2014 年提出“铸牢中华民族共同体意识”。2018 年“中华民族”被写入宪法序言。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 97]])
@@ -78,10 +78,10 @@ updated: '2026-06-25'
 > [!theory-components] 核心要素
 > - **[[Fei Xiaotong|费孝通]]多元一体格局的双重目的**：
 >   1. *建立等级制*：将 56 个民族隶属于新想象的中华民族之下，削弱少数民族的独立存在和自治权利。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
->   2. *赋予汉人联合主体地位*：强调汉文化的同化力，能将内陆亚洲的北方征服者吸纳入中华民族，同时排斥西方与日本帝国主义。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
+> 2. *赋予汉人联合主体地位*：强调汉文化的同化力，能将内陆亚洲的北方征服者吸纳入中华民族，同时排斥西方与日本帝国主义。
 > - **自在（zizai）与自觉（zijue）的双重维度**
->   - *自在的共同体*：前现代各民族在贸易、互动中无意识形成的联系。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
->   - *自觉的共同体*：各民族在共同抵抗西方帝国主义侵略时形成的、具有共同命运的自觉群体。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 105]])
+> - *自在的共同体*：前现代各民族在贸易、互动中无意识形成的联系。
+> - *自觉的共同体*：各民族在共同抵抗西方帝国主义侵略时形成的、具有共同命运的自觉群体。
 
 ---
 

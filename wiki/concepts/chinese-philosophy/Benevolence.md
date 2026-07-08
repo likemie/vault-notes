@@ -52,7 +52,7 @@ updated: 2026-06-02
 > [!quote]
 > Ren 在仅约 55 页的《论语》碎片化段落中出现了 105 次，足见其核心地位([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])。Li 将 ren 概括为：
 > 
-> "one who is devoted to the process of becoming the most sincere, genuine, and human person he/she can become... this process must be never-ending." ([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> "one who is devoted to the process of becoming the most sincere, genuine, and human person he/she can become... this process must be never-ending."
 > 
 > 一个真正仁的人，是终身致力于成为他／她所能成为的最真诚、最真挚、最富人性的人，这一过程必须永无止境。
 
@@ -85,11 +85,11 @@ updated: 2026-06-02
 
 > [!abstract]
 > 1. **终身性 (never-ending)** 追求 ren 不是一次性成就，而是永无止境的过程。仁以为己任，不亦重乎？死而后已，不亦远乎？([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 2. **自主性 (self-chosen)** ren 是个人自主选择的生命道路，不是外部强加的规范([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 3. **警觉的自我审视 (vigilant self-watchfulness)** 以敬畏和尊重的精神，对每一件事、每一个行为、每一个念头进行自我审查([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 4. **开放性与创造性 (open and creative)** 因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 5. **深刻的内在喜乐 (deep joy)** 在追求 ren 的过程中，人见证自己的生命工程，伴随着深深的喜悦、满足和充实感([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
-> 6. **即世间而超越 (earthly bound and spiritually transcendent)** ren 既是脚踏实地的日常实践，又具有精神超越的维度([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> 2. **自主性 (self-chosen)** ren 是个人自主选择的生命道路，不是外部强加的规范
+> 3. **警觉的自我审视 (vigilant self-watchfulness)** 以敬畏和尊重的精神，对每一件事、每一个行为、每一个念头进行自我审查
+> 4. **开放性与创造性 (open and creative)** 因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性
+> 5. **深刻的内在喜乐 (deep joy)** 在追求 ren 的过程中，人见证自己的生命工程，伴随着深深的喜悦、满足和充实感
+> 6. **即世间而超越 (earthly bound and spiritually transcendent)** ren 既是脚踏实地的日常实践，又具有精神超越的维度
 
 ---
 
@@ -98,7 +98,7 @@ updated: 2026-06-02
 > [!tip]-
 > - [[Confucius]] — ren 的原始提出者和最高典范([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
 > - [[Self-Cultivation]] — ren 是修身所要达到的最终目标
-> - [[Junzi]] — 君子是致力于追求 ren 的过程并遵循仁道的人([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
+> - [[Junzi]] — 君子是致力于追求 ren 的过程并遵循仁道的人
 
 ---
 

@@ -182,21 +182,21 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > > 核心问题是：某些研究方法的内在逻辑是否与知情同意的要求根本冲突？支持者认为知情同意是所有研究的底线程序，反对者则认为特定方法若不突破此程序将无法执行。
 > >
 > > - **Patrick（格拉斯哥帮派研究）** 隐蔽观察本质上无法事先告知参与者，否则研究对象将不复存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 82)]]
-> > - **Milgram（1963）** 服从权威实验中的欺骗技术若提前告知参与者，实验情境将无法成立。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 82)]]
+> > - **Milgram（1963）** 服从权威实验中的欺骗技术若提前告知参与者，实验情境将无法成立。
 > > - **Oliver（2003, p. 53）** 知情同意可能带来[[Hawthorne Effect|霍桑效应]]——告知参与者研究可能干扰其自然行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
 >
 > > [!abstract] [[Qualitative Research|质性研究]]适用性争议
 > > 核心问题是：知情同意是否适配质性研究的[[Emergence|涌现]]性和开放性特征？反对者认为同意应是持续的协商过程，而非一次性签署。
 > >
-> > - **Wax（1982, p. 44）** 知情同意对质性研究既太多又太少：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中过度谨慎且具有破坏性，同时[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西——信任、参与者的积极协助和同事关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
-> > - **持续协商派** 知情同意不是一次性程序，在质性的、涌现性的研究中必须持续协商，而非一次性签署。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 83)]]
+> > - **Wax（1982, p. 44）** 知情同意对质性研究既太多又太少：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中过度谨慎且具有破坏性，同时[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西——信任、参与者的积极协助和同事关系。
+> > - **持续协商派** 知情同意不是一次性程序，在质性的、涌现性的研究中必须持续协商，而非一次性签署。
 > > - **数据丰富性派** 寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据——参与者可能更加警惕他们披露的内容。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 83–84)]]
 >
 > > [!abstract] 排斥与覆盖范围争议
 > 核心问题是：正式知情同意是否会导致研究回避脆弱群体和社区层面的伦理问题？
 > >
 > > - **Humphreys（1975, p. 169）** 正式知情同意可能导致研究只关注容易研究的主题，忽视脆弱和排斥群体。一个社会科学家对这个人能做的最大的伤害就是忽视他。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 84)]]
-> > - **Howe & Moses（1999, pp. 33–34）** 知情同意不仅意味着个体的同意，还包括社区的同意——由个体社区成员来给予知情同意让社会研究者窥视社区的社会生活，并非总是他们能给予的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 84)]]
+> > - **Howe & Moses（1999, pp. 33–34）** 知情同意不仅意味着个体的同意，还包括社区的同意——由个体社区成员来给予知情同意让社会研究者窥视社区的社会生活，并非总是他们能给予的。
 
 ---
 ---

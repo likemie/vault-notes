@@ -56,7 +56,7 @@ updated: 2026-06-16
 > - 2010 正式成立，作为澳大利亚教育数据与基础设施的核心承载公司。
 > - 2010s 承建并运营一系列国家级教育技术平台，包括 NAPLAN 在线测试系统、澳大利亚国家数字内容库（Scootle）等。
 > - 2011后 随着教师教育准入改革的收紧，ESA 在底层为[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]]（[[Australian Institute for Teaching and School Leadership|AITSL]]）和[[Australian Curriculum|澳大利亚课程]]评估与报告局（ACARA）提供共享的技术支持和行政外包系统。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - 2020 [[Australian Education Research Organisation|澳大利亚教育研究组织]]（[[Australian Education Research Organisation|AERO]]）成立。ESA 的技术与行政底层系统支撑矩阵进一步扩展，将 AERO 的证据发布平台和标准数据库纳入其技术与托管生态。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
+> - 2020 [[Australian Education Research Organisation|澳大利亚教育研究组织]]（[[Australian Education Research Organisation|AERO]]）成立。ESA 的技术与行政底层系统支撑矩阵进一步扩展，将 AERO 的证据发布平台和标准数据库纳入其技术与托管生态。
 
 ---
 
@@ -82,5 +82,5 @@ updated: 2026-06-16
 > | 条目 | 关系 | 来源 |
 > |---|---|---|
 > | [[Australian Institute for Teaching and School Leadership]] | AITSL 在底层系统与日常数字平台上高度依赖 ESA 提供的基础设施支撑。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]] |
-> | [[Australian Education Research Organisation]] | AERO 在成立后被编织入 ESA 的跨机构底层系统与行政服务网中。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]] |
-> | [[Strong Beginnings Report]] | 2023 年改革报告所推动的强制性问责审计，其落地实施高度依赖 ESA 提供的数字化支撑底座。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]] |
+> | [[Australian Education Research Organisation]] | AERO 在成立后被编织入 ESA 的跨机构底层系统与行政服务网中。 | |
+> | [[Strong Beginnings Report]] | 2023 年改革报告所推动的强制性问责审计，其落地实施高度依赖 ESA 提供的数字化支撑底座。 | |

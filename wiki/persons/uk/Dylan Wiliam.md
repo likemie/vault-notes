@@ -54,11 +54,11 @@ updated: '2026-06-08'
 >
 > **"什么有效"是错误的问题** 几乎任何事情在某个地方有效，但没有事情在所有地方有效。正确的问题是"在什么条件下这个干预有效？"使用研究改进教育不能通过奴隶式遵循"主权者"指定的配方来实现——利益相关者必须成为批判性教育研究消费者。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.11]])
 >
-> **效度是推论的属性**Wiliam 继承 Cronbach (1971) 和 Messick (1989) 的传统，主张效度不是实验或测试的属性，而是从数据中得出推论的属性。验证是一个永无止境的证据汇总过程——一方面支持首选解释，另一方面证明替代解释较不合理。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.9–10]])
+> **效度是推论的属性**Wiliam 继承 Cronbach (1971) 和 Messick (1989) 的传统，主张效度不是实验或测试的属性，而是从数据中得出推论的属性。验证是一个永无止境的证据汇总过程——一方面支持首选解释，另一方面证明替代解释较不合理。
 >
 > **四个决策问题框架** 评估教育优先事项时应问：(1) 这解决我们面临的问题吗？(2) 我们能获得多少改进？(3) 成本多少？(4) 它在这里有效吗？其中第四个问题只有拥有 Hayek (1945) 所谓"特定时间和地点环境的知识"的人才能回答。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.11–12]])
 >
-> **对[[Meta-meta-analysis|元-元分析]]的彻底否定**：Wiliam 断言元-[[Meta-analysis|元分析]]（如 Hattie 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit）在教育政策制定中"绝对没有任何角色"——尽管 Simpson 较为节制地指出在某些条件下合并[[Effect Size|效应量]]可能是适当的。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.11]])
+> **对[[Meta-meta-analysis|元-元分析]]的彻底否定**：Wiliam 断言元-[[Meta-analysis|元分析]]（如 Hattie 的 [[Visible Learning]] 和 [[Education Endowment Foundation|EEF]] Toolkit）在教育政策制定中"绝对没有任何角色"——尽管 Simpson 较为节制地指出在某些条件下合并[[Effect Size|效应量]]可能是适当的。
 
 ## 主要贡献
 

@@ -113,7 +113,7 @@ Bourdieu 区分文化资本的三种存在形态：
 
 ### 资本化过程：家庭资源 → 大学场域中的文化资本
 
-[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在其"大学过程"[[Analytic Framework|分析框架]]中将文化资本的作用机制概念化为**资本化过程（Capitalization Process）**——家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑，构成三个嵌套过程中最外层的结构性约束([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在其"大学过程"[[Analytic Framework|分析框架]]中将文化资本的作用机制概念化为**资本化过程（Capitalization Process）**——家庭赋予的经济、文化和社会资源如何在大学[[Champ|场域]]中被转化为竞争优势或劣势。这一过程是社会出身对[[Habitus]]和[[Cultural Capital]]的模塑，构成三个嵌套过程中最外层的结构性约束。
 
 在 [[Goal-Controlled Mode]] 中，资本化过程表现为优势家庭将场域规则认知、策略思维和生涯规划意识作为具身化文化资本传递给子女；在 [[Intuition-Dependent Mode]] 中，资本化过程则体现为弱势家庭在这一传递链条上的断裂([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 

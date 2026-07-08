@@ -47,15 +47,15 @@ updated: '2026-05-18'
 
 > [!info] 测量方式
 > - **非语言面孔任务（Non-verbal Face Task）** — 参与者在脑海中保持面部图像，在定时延迟后对其做出反应。难度越大，延迟越长([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])
-> - **空间自排序任务（Spatial Self-ordered Task）** — 以递增难度获取和排序隐藏令牌([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])
+> - **空间自排序任务（Spatial Self-ordered Task）** — 以递增难度获取和排序隐藏令牌
 > - **噪声书任务（Noisy Book Task）** — 儿童按下按钮发出不同动物声音，需复述不同声音序列([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
 
 ## 发展轨迹
 
 > [!note-] 发展轨迹
 > - 15 个月至 30 个月出现初始发展突增([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
-> - 3–5 岁出现大幅变化，接近 7 岁趋于平缓([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
+> - 3–5 岁出现大幅变化，接近 7 岁趋于平缓
 > - 4 岁儿童在三项和四项搜索的自排序任务中表现差于 7–8 岁儿童；六项搜索中同样如此([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11,引用 Luciana & Nelson, 1998]])
 > - 儿童能按顺序记住的项目数从 4 岁到 6 岁增加；倒序记忆从 1.58 增加到 2.88 个项目（[[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11,引用 Carlson, 2005]]; Carlson, Moses, & Breton, 2002）
-> - 由于复杂更新任务的难度，大多数研究不考察 3 岁以下儿童，该年龄组数据较少([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.11]])
+> - 由于复杂更新任务的难度，大多数研究不考察 3 岁以下儿童，该年龄组数据较少
 

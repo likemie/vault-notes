@@ -60,5 +60,5 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — PALS 是 Wadhwa et al. 用来说明研究集合、结果域和项目组件切分如何共同制造评级分歧的案例([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.23–24]])。
 > - [[What Works Clearinghouse]] — WWC 对 PALS 按五个主题领域分别审查，通常发现阅读收益证据强于数学收益证据([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.24]])。
-> - [[Blueprints for Healthy Youth Development]] — Blueprints 只认证一项 [[Randomised Controlled Trials|RCT]]，因缺少另一项严谨研究而只能给出 promising 评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.24]])。
+> - [[Blueprints for Healthy Youth Development]] — Blueprints 只认证一项 [[Randomised Controlled Trials|RCT]]，因缺少另一项严谨研究而只能给出 promising 评级。
 

@@ -43,7 +43,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > Sociology of Measurement（测量社会学）是 Steve Woolgar 提出的[[Analytic Framework|分析框架]]，将 measurement 视为一种"技术"（technology），关注测量的两个关键维度：instrumentalism（工具主义——事物如何被"弄到能用"的实用操作）与 [[Performativity]]（施行性——测量不只是描述世界，更是制造世界）([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])。
 >
-> > 测量社会学关注"测量实践的工具主义（使事物在实用意义上'运作'的方式）以及仪器的使用"(Woolgar, 1991b; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
+> > 测量社会学关注"测量实践的工具主义（使事物在实用意义上'运作'的方式）以及仪器的使用"(Woolgar, 1991b;)
 
 ## 历史沿革
 
@@ -51,7 +51,7 @@ updated: '2026-05-18'
 > - Woolgar (1991a, 1991b) 最早提出该框架([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6, 18]])
 > - Derksen (2000) 在 DNA 鉴定案例中进一步发展了测量社会学([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] 将其应用于教育政策领域，研究 [[OECD]] [[International Education|国际教育]]指标的发展([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
-> - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] 在 *European Educational Research Journal* 中进一步阐述了"迈向教育政策中的测量技术社会学"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
+> - Gorur 在 *European Educational Research Journal* 中进一步阐述了"迈向教育政策中的测量技术社会学"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
 
 ## 核心要素
 
@@ -62,7 +62,7 @@ updated: '2026-05-18'
 > [!abstract] [[Performativity]]（施行性 / 生产性）
 > 测量一旦开始，就作用于世界，改变优先事项、影响行为、政策和实践。这是"世界制造"过程(Knorr Cetina, 1999; Law, 2009a; Pickering, 1995; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7, 17–18]])。
 >
-> > 例：[[Education at a Glance|EAG]] 指标存在本身就产生了政治压力——教师和学校可能试图影响数据以利于自身，或影响指标的选择(Oakes, 1986; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
+> > 例：[[Education at a Glance|EAG]] 指标存在本身就产生了政治压力——教师和学校可能试图影响数据以利于自身，或影响指标的选择(Oakes, 1986; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
 
 ## 与相关概念的区别
 
@@ -75,8 +75,8 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - **[[Science and Technology Studies]]** — 共享 STS 的核心关注：知识如何被生产、动员、验证和挑战；拒绝自然/科学、社会/文化的二分([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **Latour 的"科学在行动"** — 关注科学实践本身，而非科学的成品（Latour, 1987, 1999; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]]）
-> - **Jasanoff 的共同生产（co-production）** — 科学与国家相互构成(Jasanoff, 2004; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> - **Latour 的"科学在行动"** — 关注科学实践本身，而非科学的成品（Latour, 1987, 1999;）
+> - **Jasanoff 的共同生产（co-production）** — 科学与国家相互构成(Jasanoff, 2004;)
 
 ## 实证发现
 
@@ -84,7 +84,7 @@ updated: '2026-05-18'
 > Gorur 以 [[OECD]] 指标开发为案例展示测量社会学的应用：
 > - [[International Indicators of Education Systems|INES]] 项目通过一系列"排序"操作（Berg & Timmermans, 2000; Bowker & STAR, 2000; Law, 1994）将多样化世界标准化([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.9–10]])
 > - "共识"可视为一种"[[Transfer Translation Transformation|转译]]"（Callon, 1986; Latour, 1999），它消除或最小化阻碍([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
-> - 方法论的程序化产生了一种"机械客观性"（Porter, 1995），为政策制定者所珍视([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
+> - 方法论的程序化产生了一种"机械客观性"（Porter, 1995），为政策制定者所珍视
 
 ## 争议与批评
 

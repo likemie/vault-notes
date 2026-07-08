@@ -194,4 +194,4 @@ updated: 2026-06-24
 > | [[Geopolitics of Knowledge]] | 概念 | 其叙事知识的式微与科学知识的主导性博弈，被用于揭示全球化背景下软实力与可测量[[Performance Indicators\|绩效指标]]的跨国博弈。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75)]] |
 > | [[Academic Capitalism]] | 概念 | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation\|研究转化]]为以效率与可见度为目标的商业性输出。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 71)]] |
 > | [[Phenomenology]] | 理论 | 现象学为其早期现象学导论著作与晚期奥古斯丁时间现象学阐释提供了核心哲学框架。（根据维基百科关于生平与著作的记载） |
-> | [[PISA]] | 政策 | 其评估与排名机制在学校实践中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 352)]] |
+> | [[PISA]] | 政策 | 其评估与排名机制在学校实践中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |

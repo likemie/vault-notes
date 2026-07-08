@@ -102,9 +102,9 @@ updated: 2026-05-20
 > 3. 公共资金削减迫使大学采纳企业化运营模式：NPM 的"理念、技术和实践从企业部门被广泛引入，以使公立高等教育机构更像企业运作"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])
 > 4. 企业化运营反过来使大学更依赖国际学生市场收入 → 加固了第 1 步
 >
-> 最终结果：内生私有化成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]]）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–100]])。
+> 最终结果：内生私有化成为大多数西方国家公立高等教育的"永久特征"（Ball, 2012, cited in）。澳大利亚是最激进的案例——其高等教育机构在国际招生方面的成功使政府有底气推动其他市场导向政策，包括《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》和《[[International Education|国际教育]]国家战略 2025》([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–100]])。
 >
-> 此外，国际学生市场催生了一个复杂的招生基础设施——本地代理网络遍布亚洲、大量跨国项目、特许经营安排、复杂的学分衔接和双联安排——彻底改造了全球高等教育的空间架构([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])。详见 Rizvi 论证 > 第四步。
+> 此外，国际学生市场催生了一个复杂的招生基础设施——本地代理网络遍布亚洲、大量跨国项目、特许经营安排、复杂的学分衔接和双联安排——彻底改造了全球高等教育的空间架构。详见 Rizvi 论证 > 第四步。
 
 
 > [!note-] 在学术准市场中的运作
@@ -124,8 +124,8 @@ updated: 2026-05-20
 > - **绩效标准与测量** 考试成绩、基准测试、质量保证框架成为核心管理工具([[Argument_Møller_2017_EERJ|Møller, 2017, pp.381–382]])
 > - **产出控制** 以可量化的"产出"指标（毕业率、就业率、论文发表数）而非专业投入来评价教育机构
 > - **供给竞争** 学校、大学之间为生源、资金和排名竞争——在高等教育中体现为对全额付费国际学生的争夺([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])
-> - **管理问责** 管理者对"有效和高效运行"负责，专业自主被管理问责取代([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.52]]; [[Argument_Møller_2017_EERJ|Møller, 2017, pp.381–382]])
-> - **[[Public-Private Partnership in Research|公私合作伙伴关系]]**：公共教育机构与企业部门的深度整合——在教育国际化中表现为教育出口产业话语的兴起([[Argument_Amos_2022_Springer|Amos, 2022, p.56]]; [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])
+> - **管理问责** 管理者对"有效和高效运行"负责，专业自主被管理问责取代([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.52]];)
+> - **[[Public-Private Partnership in Research|公私合作伙伴关系]]**：公共教育机构与企业部门的深度整合——在教育国际化中表现为教育出口产业话语的兴起([[Argument_Amos_2022_Springer|Amos, 2022, p.56]];)
 - **作为竞争性治理的制度条件**Thompson 等人（2022, pp.219–220）的分析表明，NPM 所推动的绩效测量和审计文化构成了 [[Competitiveness|高等教育竞争力]] 作为地缘政治装置运作的制度条件——排名 和指标化的"描述即规定"效应之所以有效，正是因为大学已被 NPM 重塑为关注[[Performance Indicators|绩效指标]]、接受产出控制、参与市场竞争的组织形态
 >
 

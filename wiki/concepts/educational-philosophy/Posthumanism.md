@@ -77,7 +77,7 @@ updated: '2026-05-18'
 
 > [!abstract] 核心要素
 > - **去人类中心** 彻底拒绝"人是万物的尺度"。在 Haraway 的世界里，人类只是巨大循环过程中的一个物种([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])
-> - **关系性[[Ontology|本体论]]**：存在不是个体的属性，而是在与他者的关系中构成。"与他人一起、[[Humility in Learning|谦逊]]地、有[[Response-ability|回应能力]]地存在"是后人类主义的基本伦理姿态([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])
+> - **关系性[[Ontology|本体论]]**：存在不是个体的属性，而是在与他者的关系中构成。"与他人一起、[[Humility in Learning|谦逊]]地、有[[Response-ability|回应能力]]地存在"是后人类主义的基本伦理姿态
 > - **[[Sympoiesis]] > [[Autopoiesis]]**：Haraway 以"共同制造"取代 Maturana & Varela 的"自我制造"，认为后者过度强调自我指涉性而忽视相互依存([[Argument_Amos_2022_Springer|Amos, 2022, pp.62–63]])
 > - **世界制造（world making）** 世界不是给定的，而是通过叙事、设计和实践被持续制造——Haraway 通过 [[SF (Haraway)]]（讲故事），Escobar 通过设计
 > - **自我的非固化（non-solidity of the self）**Escobar 援引 Varela (1999) 的伦理诀窍——自我不是固定的实体，而是分布式系统通过社会交互[[Emergence|涌现]]的"虚拟自我"。接受这一点，产生一种根本性的关爱心态([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])

@@ -70,7 +70,7 @@ citation_aliases:
 > - **学术领域的批评者** 在学科内部对研究质量和方法进行技术性批评——这是正常学术工作
 > - **[[Critic and Conscience of Society|社会的批评者与良知]]**：必须将非学校因素（社会阶级、贫困、家庭资源等）纳入所有分析
 >
-> Hattie 的 *[[Visible Learning]]* 及其 2010 年文章所扮演的是前者，而非后者——Hattie 批评了评估、教学和学习领域的研究质量，但这属于"教育教授们正常的学术工作"(p.90)。
+> Hattie 的 *[[Visible Learning]]* 及其 2010 年文章所扮演的是前者，而非后者——Hattie 批评了评估、教学和学习领域的研究质量，但这属于"教育教授们正常的学术工作"。
 >
 > ### 论证二：排除非学校因素与"critic and conscience"角色根本矛盾
 >
@@ -100,10 +100,10 @@ citation_aliases:
 > ("The education academic in the role of [[Critic and Conscience of Society]] has an obligation to include non-school factors in all analyses of differential educational achievement because otherwise both politicians and citizens are encouraged to believe that changes in educational arrangements alone can solve much of the existing inequalities in educational achievements.") (p.91)
 >
 > > “这种认为单靠学校教育就能决定学业成就的还原论和幼稚观点，对政治家和政策制定者来说非常方便，因为它将人们的注意力从关于社会中社会和经济不平等的更根本问题上转移开了。”
-> ("This reductionist and naive view of the influence of schooling alone in determining educational achievements is very convenient for politicians and policy makers because it diverts attention away from more fundamental questions about social and economic inequalities in society.") (p.91)
+> ("This reductionist and naive view of the influence of schooling alone in determining educational achievements is very convenient for politicians and policy makers because it diverts attention away from more fundamental questions about social and economic inequalities in society.")
 >
 > > “在这个角色中，Bernstein 是在扮演社会批评家和良知的角色：即，他唤起了人们对非学校因素至关重要性的关注。”
-> ("In this role, Bernstein was acting as a critic and conscience of society: that is, he drew attention to the crucial importance of non-school factors.") (p.91)
+> ("In this role, Bernstein was acting as a critic and conscience of society: that is, he drew attention to the crucial importance of non-school factors.")
 
 ## 局限性与批评
 

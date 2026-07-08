@@ -62,7 +62,7 @@ updated: 2026-05-23
 
 > [!success]
 > - Maine 的一对一笔记本项目在长期评价中显示多方面影响，包括若干学科成就提升、写作技能改善，以及信息定位和评价能力提升([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.114]])。
-> - North Carolina Mooresville 学区的一对一笔记本项目与教学实践变化、社区互联网可及性提高、学生用电脑完成[[Homework|家庭作业]]增加相关；短期成就没有提高，但中期数学成绩提高 .13 SD([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.114]])。
+> - North Carolina Mooresville 学区的一对一笔记本项目与教学实践变化、社区互联网可及性提高、学生用电脑完成[[Homework|家庭作业]]增加相关；短期成就没有提高，但中期数学成绩提高.13 SD。
 > - BCPS 的 [[Students and Teachers Accessing Tomorrow|STAT]] 案例显示，技术融入在教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学方面有较一致积极进展，但英语语言艺术和数学成就证据并不明确([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.118-123]])。
 
 ## 争议与批评

@@ -34,13 +34,13 @@ updated: '2026-05-18'
 > [!info] 定义
 > 解释社群（Interpretation Community）是 Stanley Fish（1980）提出的概念，指一个群体中某种特定的、有时不正确的解释获得动量（momentum）——例如因为它支持政治或意识形态利益——并逐渐从一种观点演变为此群体中广泛接受的事实([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])。
 >
-> > "A particular, sometimes incorrect, interpretation gains momentum, e.g. because it supports political or ideological interests, and gradually it emerges from being an opinion to becoming a broadly accepted fact."([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])
+> > "A particular, sometimes incorrect, interpretation gains momentum, e.g. because it supports political or ideological interests, and gradually it emerges from being an opinion to becoming a broadly accepted fact."
 
 ## 核心要素
 
 > [!abstract] 核心要素
 > - **解释的动量** 某种解释在社群中获得传播和接受，不是因为其准确性，而是因为其服务于社群的政治或意识形态利益([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])
-> - **从观点到事实的演变** 重复传播使特定解释失去其"观点"标记，被当作[[Doxa|不言自明]]的事实([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])
+> - **从观点到事实的演变** 重复传播使特定解释失去其"观点"标记，被当作[[Doxa|不言自明]]的事实
 > - **自我强化机制** 解释社群的形成使成员相互强化特定解读，外部纠正难以进入
 
 ## 理论基础

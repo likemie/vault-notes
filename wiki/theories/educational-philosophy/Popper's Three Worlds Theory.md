@@ -98,7 +98,7 @@ updated: '2026-05-18'
 
 > [!success] 应用领域
 > - [[Visible Learning]] — Hattie 以（被严重误读的）[[Karl Popper|Popper]] 三个世界理论作为 VL 的[[Epistemology|认识论]]基础；在回应 Eacott 的 [[Cult of the Guru]] 批评时，[[Argument_Hattie_2017_SLM|Hattie (2017, p.428)]]再度援引 Popper [[Falsification|证伪主义]]，声称 VL 包含"大胆猜想"因此"容易被证伪"——[[Argument_Rømer_2018_EPT|Rømer (2018)]]和 Johnson & Janzen（2023）指出 Popper 的 fallibilism 旨在区分科学与伪科学，而非为未经证伪的猜想提供免于批评的盾牌
-> - [[Surface and Deep Learning]] — Hattie 将表层学习映射到 World 1、深层学习映射到 World 2、建构性理解映射到 World 3；[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证此映射严重误读了 Popper
+> - [[Surface and Deep Learning]] — Hattie 将表层学习映射到 World 1、深层学习映射到 World 2、建构性理解映射到 World 3；Rømer 论证此映射严重误读了 Popper
 > - [[Dynamic Knowledge and Learning Model]] — [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从 VL 内部指出 Popper/Bereiter、Bloom 和 SOLO 之间的知识层次对应不清，因而提出动态模型作为替代性概念化路径
 > - [[Radical Constructivism]] — 与 Popper 的科学实在论处于认识论的对立两极
 

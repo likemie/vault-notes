@@ -41,7 +41,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 意向治疗（ITT）分析是 [[Randomised Controlled Trials|RCT]] 中的一种估计方法：无论被试是否实际接受了干预，均按其原始[[Random Assignment|随机分配]]组别进行分析。ITT 估计反映的是"干预可获得性（availability）"的效果，而非"干预实际接受（uptake）"的效果([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])。
 >
-> > "such models usually offer intent-to-treat (ITT) estimates which is of great importance for policy and practice 'as policymakers and administrators often have control only over the availability of an intervention, and not its uptake'"([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
+> > "such models usually offer intent-to-treat (ITT) estimates which is of great importance for policy and practice 'as policymakers and administrators often have control only over the availability of an intervention, and not its uptake'"
 
 ## 核心要素
 
@@ -60,7 +60,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - Schweig & Pane (2016) 的模拟研究表明，在部分嵌套 [[Randomised Controlled Trials|RCT]] 设计中，集群效应和非合规"可能对 ITT 效应的统计推断产生实质性影响"([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
-> - 非合规在教育研究中是"具有实际重要性的问题"([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
+> - 非合规在教育研究中是"具有实际重要性的问题"
 > - 在[[Educational Evidence Clearinghouses|教育证据清算中心]]的评级标准中，[[Blueprints for Healthy Youth Development]]、[[Social Programs That Work]] 和 [[Promise Neighborhoods Research Consortium]] 明确要求 ITT 分析；[[What Works Clearinghouse]] 则在特定条件下允许计算 CACE。这说明 ITT 不只是 RCT 统计技术，也是部分清算中心判定研究质量的显性标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
 
 ## 争议与批评

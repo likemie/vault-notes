@@ -177,8 +177,8 @@ updated: 2026-06-23
 
 > [!proposition-chain] 核心命题链
 > - **命题一：效度是程度问题** 效度不应被视为绝对状态（Gronlund, 1981）。[[Quantitative Research|量化研究]]包含必须被承认的内在[[Sampling Error|标准误]]差；质性数据中的受访者主观性、态度和视角共同构成一定程度的偏见。因此研究者的目标不是追求 100% 完美效度，而是**最小化无效度（minimize invalidity）**和**最大化效度（maximize validity）（p.157）**。
-> - **命题二：信度是效度的必要非[[Necessary and Sufficient Conditions|充分条件]]** reliability is a necessary but insufficient condition for validity；信度是效度的必要前提（necessary precondition），而效度可能是信度的充分但非必要条件。这一逻辑关系贯穿全章，意味着：一项研究可以可靠（稳定一致）但无效（测量了错误的东西），但一项有效的研究必须以可靠为前提（p.157）。
-> - **命题三：信度不是量化研究的专属领地** Brock-Utne (1996: 612) 认为"信度是量化研究的专属领地"这一广泛持有的观点必须被打破。[[Qualitative Research|质性研究]]同样需要信度——只是以不同的方式、不同的标准来定义和达成（p.157）。
+> - **命题二：信度是效度的必要非[[Necessary and Sufficient Conditions|充分条件]]** reliability is a necessary but insufficient condition for validity；信度是效度的必要前提（necessary precondition），而效度可能是信度的充分但非必要条件。这一逻辑关系贯穿全章，意味着：一项研究可以可靠（稳定一致）但无效（测量了错误的东西），但一项有效的研究必须以可靠为前提。
+> - **命题三：信度不是量化研究的专属领地** Brock-Utne (1996: 612) 认为"信度是量化研究的专属领地"这一广泛持有的观点必须被打破。[[Qualitative Research|质性研究]]同样需要信度——只是以不同的方式、不同的标准来定义和达成。
 
 > [!claim] 核心论证主张
 > 效度与信度在量化和质性研究中有不同的含义，研究者不仅需要清楚说明这些差异，还必须展示对自身研究路径（approach）的效度和信度原则的忠诚（fidelity）。效度必须在研究者所使用的研究[[Paradigm|范式]]中定位讨论，但这不意味着研究应该被范式束缚（paradigm-bound），那是停滞和保守的配方。Hammersley (1992a: 39) 认为只有量化和质性两种范式且它们几乎互斥；但本书前三章的目的之一就是展示范式的多元性。这里引用量化和质性范式仅为简便的启发式目的（p.158）。
@@ -1516,7 +1516,7 @@ Plummer (1983) 提供了四种效度检查：
 > [!citation-card]- Lincoln & Guba 四项[[Qualitative Validity|质性效度]]标准
 > Lincoln & Guba (1985) 认为[[Qualitative Research|质性研究]]中的效度的关键标准是：（a）可信性（替代量化[[Internal Validity|内部效度]]概念）；（b）可迁移性（替代量化[[External Validity|外部效度]]概念）；（c）可依赖性（替代量化信度概念）；（d）可确认性（替代量化客观性概念）。（第10章, p.161）
 >
-> *Lincoln & Guba (1985) suggest that key criteria of validity in qualitative research are: (a) credibility (replacing the quantitative concepts of internal validity); (b) transferability (replacing the quantitative concept of external validity); (c) dependability (replacing the quantitative concept of reliability); and (d) confirmability (replacing the quantitative concept of objectivity).*
+> *Lincoln & Guba suggest that key criteria of validity in qualitative research are: (a) credibility (replacing the quantitative concepts of internal validity); (b) transferability (replacing the quantitative concept of external validity); (c) dependability (replacing the quantitative concept of reliability); and (d) confirmability (replacing the quantitative concept of objectivity).*
 
 > [!citation-card]- [[Qualitative Reliability|质性信度]]作为吻合度
 > 在质性研究中，信度可被视为研究者记录为数据的内容和在被研究的自然情境中实际发生的内容之间的吻合度——即一定程度的准确性和覆盖面的全面性。（第10章, p.205）

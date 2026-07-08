@@ -37,7 +37,7 @@ updated: '2026-06-08'
 
 > [!info] 核心思想
 > - Meyer 提出了一份包含十项[[Effective Teaching|有效教学]]质量的清单。虽然 Laursen 没有逐项列出该清单，但他指出 Meyer 与 Hattie、Helmke 在核心方向上高度一致：三者都强调教师领导、照顾个别学生、清晰目标和学习导向的课堂气氛([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.35]])。
-> - Meyer 的综合比 Hattie 的核心要点更细致。Meyer 和 Helmke 的十项清单与 Hattie 的概括虽有细微差异，但相似性十分显著([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.35]])。
+> - Meyer 的综合比 Hattie 的核心要点更细致。Meyer 和 Helmke 的十项清单与 Hattie 的概括虽有细微差异，但相似性十分显著。
 
 ## 主要贡献
 

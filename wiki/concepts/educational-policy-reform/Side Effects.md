@@ -38,7 +38,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 教育中"副作用"（side effects）的概念由 Zhao (2017) 从医学引入教育研究。剑桥英语词典将副作用定义为："伴随某事物期望效果而来的非期望或意外的结果或状况"([[Argument_Zhao_2017_JEC|Zhao, 2017, p.2]])。在教育语境中，副作用指教育干预在产生预期效果的同时，可能对学生的其他能力、态度或发展维度造成的负面损害。
 >
-> > "Side effect is defined... as 'an unwanted or unexpected result or condition that comes along with the desired effects of something.'" ([[Argument_Zhao_2017_JEC|Zhao, 2017, p.2]])
+> > "Side effect is defined... as 'an unwanted or unexpected result or condition that comes along with the desired effects of something.'"
 >
 > Zhao 的核心论点是：与医学不同，教育研究几乎只关注证明干预的有效性，而系统性地忽视了"什么有效可能同时有害"的可能性。Zhao 指出他未找到任何教育产品附带类似药品的警告标签——如"本项目能提高你学生的阅读考试成绩，但可能使他们永远厌恶阅读"([[Argument_Zhao_2017_JEC|Zhao, 2017, p.4]])。
 

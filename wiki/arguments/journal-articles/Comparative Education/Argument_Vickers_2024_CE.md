@@ -75,7 +75,7 @@ citation_aliases:
 > [!info] [[Research Question|研究问题]]
 > 2020 年《[[National Security Law|香港国安法]]》颁布后，港府对"国民教育"的推行展现了前所未有的力度和紧迫性。2022 年，[[Citizenship and Social Development|公民与社会发展科]]（CSD）正式取代了自 2009 年起作为高中必修科的通识教育科（[[Liberal Studies|LS]]）。这场课程替换的背后是一个值得追问的问题：CSD 仅是对官方身份话语的强化，把原来 LS 中已有的"爱国"内容做得更响亮，还是标志着一种**质的变化（qualitative change）**，即教育目标本身从"培养能批判思考的公民"转向了"灌输单一国族身份"？(p.138)
 >
-> 这个问题的经验锚点是教科书，因为教科书是课程意识形态最凝缩、最可视化的载体。这场转变在四个维度上展开，通过对比 2020 年版 LS 教科书与 2022 年版 CSD 教科书来追踪：(1) 身份认同的历史叙事框架；(2) [[One Country, Two Systems|一国两制]]的宪制解释；(3) 文化在定义"香港之于中国"中的地位；(4) 公民权利、法治与"国家安全"的张力处理。(p.138)
+> 这个问题的经验锚点是教科书，因为教科书是课程意识形态最凝缩、最可视化的载体。这场转变在四个维度上展开，通过对比 2020 年版 LS 教科书与 2022 年版 CSD 教科书来追踪：(1) 身份认同的历史叙事框架；(2) [[One Country, Two Systems|一国两制]]的宪制解释；(3) 文化在定义"香港之于中国"中的地位；(4) 公民权利、法治与"国家安全"的张力处理。
 
 ---
 
@@ -91,7 +91,7 @@ citation_aliases:
 >
 > - **[[Culturalisation of Politics|政治的文化化]]（Culturalisation of Politics）** — 借用 Chen (2023) 的概念：当一个政权不能或不愿公开以政治意识形态（如共产主义、阶级斗争）来论证其统治合法性时，它转而使用文化、历史、传统和身份的话语来包装政治控制。教材对比反复验证了这一点：[[Citizenship and Social Development|CSD]] 教科书用"中华传统文化"的温情叙事替代了 LS 中对政治制度和权力安排的理性讨论(p.154)。
 > - **青年问题的"[[Psychologisation|心理化]]"（psychologisation）** — 当社会不满无法被表达为政治诉求时，官方将其重新定义为个体的心理问题："你不快乐不是因为这个社会不公，而是因为你不够积极乐观"。这是一种治理策略，与中共在内地的"感恩教育"一脉相承（Wan & Vickers forthcoming）(pp.153–154)。
-> - **去殖民思维的悖论** — 援引 Táíwò (2022) 对"去殖民"话语的批判：过度关注思想的"出身谱系"（pedigree）会遮蔽本地人的"能动性"（agency）。在香港情境中，因为法治、公民权利和香港的独立地位源自英国殖民主义，就去质疑它们的正当性，这实际上是**以反殖民的名义剥夺了香港人选择保留什么、拒绝什么的权利(p.155)**。
+> - **去殖民思维的悖论** — 援引 Táíwò (2022) 对"去殖民"话语的批判：过度关注思想的"出身谱系"（pedigree）会遮蔽本地人的"能动性"（agency）。在香港情境中，因为法治、公民权利和香港的独立地位源自英国殖民主义，就去质疑它们的正当性，这实际上是**以反殖民的名义剥夺了香港人选择保留什么、拒绝什么的权利**。
 
 ---
 
@@ -274,16 +274,16 @@ citation_aliases:
 > ("The post-2020 overhaul of the curriculum for [[Liberal Studies]] / [[Citizenship and Social Development|CSD]] signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.")(p.154)
 >
 > > “虽然在香港内部，政治和意识形态话语对中共及习近平本人的致敬不如在内地那样直接或明确，但在历史、文化、价值观和认同叙事上的日益趋同是显而易见的。”
-> ("While within Hong Kong, political and ideological discourse pays less direct or explicit homage to the CCP and the person of Xi himself than on the mainland, a growing convergence in narratives of history, culture, values and identity is clear.")(p.154)
+> ("While within Hong Kong, political and ideological discourse pays less direct or explicit homage to the CCP and the person of Xi himself than on the mainland, a growing convergence in narratives of history, culture, values and identity is clear.")
 >
 > > “与此同时，官方话语将青年的疏离感简化为个体心理异常的问题。随着对既定秩序的批评如今被定性为叛国并被宣布为非法，对公众不满的解释就必须在私人或个体适应不良的层面上去寻找了。”
-> ("Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.")(p.154)
+> ("Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.")
 >
 > > “因此，香港成为了一个警告，警示了‘去殖民化’思维在沉迷于思想的‘血统’时，是如何可能忽视本土‘能动性’的重要性的。”
 > ("Hong Kong thus stands as a warning of how 'decolonial' thinking, in obsessing over the 'pedigree' of ideas, can overlook the importance of native 'agency'.")(p.155)
 >
 > > “为了实现关于文化、种族和国家主权的法西斯式愿景，新香港的政治不再被呈现为公民能动性的竞技场，而是作为表演爱国忠诚的舞台。”
-> ("In fulfilment of a fascistic vision of culture, race and state sovereignty, politics in the new Hong Kong is no longer presented as an arena for civic agency, but as a stage for performing patriotic loyalty.")(p.155)
+> ("In fulfilment of a fascistic vision of culture, race and state sovereignty, politics in the new Hong Kong is no longer presented as an arena for civic agency, but as a stage for performing patriotic loyalty.")
 
 ---
 

@@ -130,8 +130,8 @@ updated: '2026-06-20'
 > [!dev-timeline] 概念演变
 > - **1904 — 起源阶段**[[Karl Pearson]] 在跨研究合并分析中首次同时关注“合并数据能否给出可靠答案”以及“效果变异（即异质性）的原因”这两个基本维度([[Argument_Higgins_2016_RE|Higgins, 2016, p. 33]])。
 > - **1970s–1980s — [[Meta-analysis|元分析]]倡导**：[[Gene Glass]] 创立“元分析”概念，并明确警告：元分析 the 最终结果“绝对不应该是一个平均数，而应该是一张显示变异性（异质性）的图表”([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
-> - **1995 — 方法论解构与批评**医学统计学家 Alvan Feinstein (1995) 批评元分析是“21世纪的统计炼金术”，指出它将不同病理状态的研究强行合流，从而将重要的异质性埋入统计泥浆之中([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
-> - **2002 — 教育研究的测量批评**Robert Coe (2002) 警告，在测量工具、干预实施强度和目标人群大相径庭 of 教育研究中，将这些[[Effect Size|效应量]]进行平均在数学上是完全没有意义的([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
+> - **1995 — 方法论解构与批评**医学统计学家 Alvan Feinstein (1995) 批评元分析是“21世纪的统计炼金术”，指出它将不同病理状态的研究强行合流，从而将重要的异质性埋入统计泥浆之中。
+> - **2002 — 教育研究的测量批评**Robert Coe (2002) 警告，在测量工具、干预实施强度和目标人群大相径庭 of 教育研究中，将这些[[Effect Size|效应量]]进行平均在数学上是完全没有意义的。
 > - **2010s — 多级聚合失真与实在论转向**Ray Pawson (2006) 和 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 解构了从第一级 [[Randomised Controlled Trials|RCT]] 到第二级元分析再到第三级[[Meta-meta-analysis|元-元分析]]（如[[John Hattie|哈蒂]]的《[[Visible Learning|可见的学习]]》（Visible Learning，VL） and [[Education Endowment Foundation|EEF]] 工具包）的逐级消洗过程，指出“洗涤”使得[[Causality|因果]]解释性信息完全消失，主张转向探求“背景-机制-结果”的实在论综合([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])。
 
 ---

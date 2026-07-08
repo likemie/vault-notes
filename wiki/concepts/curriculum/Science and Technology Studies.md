@@ -48,7 +48,7 @@ updated: 2026-05-18
 > [!info] 核心主张
 > STS（Science and Technology Studies，又称 Science Studies 或 Science, Technology and Society）的核心立场是：科学不仅是人类事业，更是一个社会系统。STS 拒绝自然/科学、社会/文化等二分法，其核心关注是理解知识如何被生产、动员、验证、流通和挑战([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])。
 >
-> > "explore how knowledge-making is incorporated into practices of state-making, or of governance more broadly, and, in reverse, how practices of governance influence the making and use of knowledge. States, we may say, are made of knowledge, just as knowledge is constituted by states."(Jasanoff, 2004, p.3; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> > "explore how knowledge-making is incorporated into practices of state-making, or of governance more broadly, and, in reverse, how practices of governance influence the making and use of knowledge. States, we may say, are made of knowledge, just as knowledge is constituted by states."(Jasanoff, 2004, p.3;)
 
 ## 理论内部结构
 
@@ -59,7 +59,7 @@ updated: 2026-05-18
 > > 例：[[OECD]] [[Performance Indicators|教育指标]]既是科学知识的产物（依赖统计方法论、分类框架），也是治理工具（用于比较国家表现、影响政策决策）——这两方面无法分离
 >
 > **科学在行动（Science in Action）**（Latour, 1987, 1999）
-> 关注科学实践（science in the making）而非科学成品（ready-made science）。Gorur 将 OECD 指标开发视为"正在制造中的科学"，就像 Latour 研究实验室中的科学家一样([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])。
+> 关注科学实践（science in the making）而非科学成品（ready-made science）。Gorur 将 OECD 指标开发视为"正在制造中的科学"，就像 Latour 研究实验室中的科学家一样。
 >
 > > 例：[[International Indicators of Education Systems|INES]] 早期科学家放弃寻找统一理论模型，转而采用以可用性为导向的经验方法——这不是科学的失败，而是科学在治理压力下的实践性[[Transfer Translation Transformation|转译]]([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.10]])
 >
@@ -69,7 +69,7 @@ updated: 2026-05-18
 > > 例：1991 Lugano 大会上政策制定者和科学家之间的激烈辩论，最终以纳入学生成绩数据的妥协告终——这是一个转译时刻，科学家的关注被政策制定者的需求"驯化"了([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12–13]])
 >
 > **机械客观性（Mechanical Objectivity）**（Porter, 1995）
-> 数字之所以被信任，不是因为它们更准确，而是因为方法论程序化产生了一种"机械客观性"——这恰恰是政策制定者所珍视的。标准化的程序规则替代了个人判断([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])。
+> 数字之所以被信任，不是因为它们更准确，而是因为方法论程序化产生了一种"机械客观性"——这恰恰是政策制定者所珍视的。标准化的程序规则替代了个人判断。
 >
 > > 例：EAG 指标的年度常规化生产——相同的统计公式、相同的分类框架、相同的协商程序——使得指标获得了一种程序产生的可[[Reliability|信度]]，即使底层数据充满妥协
 >
@@ -79,18 +79,18 @@ updated: 2026-05-18
 > > 例：ISCED（[[International Education|国际教育]]标准分类）是这种排序操作的典型案例：各国的教育体系必须被翻译为统一的分类框架才能进行比较——这意味着每个国家的独特性必须被压缩到可比较的类别中([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.5, 16]])
 >
 > **统计与治理的纠缠**（Desrosières, 1998; Scott, 1998）
-> - Desrosières (1998) 探讨了"大数字的政治学"，[[Descriptive Analysis|描述统计]]学家实践和科学意义如何随时间变化，以及这些变化如何影响并被国家治理需求影响([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - Scott (1998) 描述了秩序和测量如何使治理成为可能，而排序和测量世界的行动同时也改变世界([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - Porter (1995) 描述了数字如何被信任以及"客观性"如何被附加于数字([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> - Desrosières (1998) 探讨了"大数字的政治学"，[[Descriptive Analysis|描述统计]]学家实践和科学意义如何随时间变化，以及这些变化如何影响并被国家治理需求影响
+> - Scott (1998) 描述了秩序和测量如何使治理成为可能，而排序和测量世界的行动同时也改变世界
+> - Porter (1995) 描述了数字如何被信任以及"客观性"如何被附加于数字
 
 ## 发展脉络
 
 > [!note-] 发展脉络
 > - **1960s** STS 起源于历史学家、科学哲学家、社会学家、人类学家、经济学家和政治/法律学者的汇集([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 > - **1987** Latour 出版 *Science in Action*，确立"跟随科学家和工程师穿越社会"的方法论([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
-> - **1995** Porter 出版 *Trust in Numbers*，分析量化与客观性的关系([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **1998** Desrosières 出版 *The Politics of Large Numbers*，探讨统计推理史([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
-> - **2004** Jasanoff 编辑 *States of Knowledge*，系统阐述共同生产（co-production）概念([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> - **1995** Porter 出版 *Trust in Numbers*，分析量化与客观性的关系
+> - **1998** Desrosières 出版 *The Politics of Large Numbers*，探讨统计推理史
+> - **2004** Jasanoff 编辑 *States of Knowledge*，系统阐述共同生产（co-production）概念
 > - **2014** Gorur 将 STS 和[[Sociology of Measurement|测量社会学]]框架应用于教育政策领域([[Argument_Gorur_2014_Discourse|Gorur, 2014]])
 
 ## 研究范式

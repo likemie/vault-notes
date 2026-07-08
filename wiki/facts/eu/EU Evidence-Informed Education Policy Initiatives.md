@@ -81,9 +81,9 @@ updated: 2026-05-23
 > - 2006 — 欧洲理事会春季结论强调建立评价文化，鼓励系统使用证据来推动教育系统现代化和平等化；同年 “Efficiency and Equity in European Education and Training Systems” 强调验证和传播良好实践的重要性([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.28]])。
 > - 2007 — 欧洲委员会发布 “Towards More Knowledge-Based Policy and Practice in Education and Training”，提出知识创造、知识应用和知识中介三类挑战，并指出各国在研究、政策和实践关系上的发展程度差异明显([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.29]])。
 > - 2009 — ET 2020 把周期性进展监测视为证据本位政策制定的重要贡献；2015 年联合报告再次强调分析证据和进展监测对 ET 2020 框架有效性的重要性([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.30]])。
-> - 2009-2013 — 欧盟发起知识中介网络提案，EIPPEE 项目于 2010-2013 年运行，调查欧洲国家连接研究和政策的做法，并提出提高[[Research Utilization|研究使用]]的建议([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.30]])。
+> - 2009-2013 — 欧盟发起知识中介网络提案，EIPPEE 项目于 2010-2013 年运行，调查欧洲国家连接研究和政策的做法，并提出提高[[Research Utilization|研究使用]]的建议。
 > - 2017 — Eurydice 报告系统梳理欧洲证据本位政策制定支持机制，显示多数国家已有官方安排和组织为政策提供证据，但形式差异很大([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.31]])。
-> - 2017 — 英国推出 SSIF 和 TLIF；SSIF 资助弱势学校并偏好有有效性证据支持的项目，TLIF 则资助学校专业和领导力发展项目并开展[[Mixed Methods Research|混合方法]]评价([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.31]])。
+> - 2017 — 英国推出 SSIF 和 TLIF；SSIF 资助弱势学校并偏好有有效性证据支持的项目，TLIF 则资助学校专业和领导力发展项目并开展[[Mixed Methods Research|混合方法]]评价。
 
 ## 实施情况
 

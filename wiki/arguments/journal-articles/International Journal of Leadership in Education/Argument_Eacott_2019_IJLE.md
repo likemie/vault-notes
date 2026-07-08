@@ -59,7 +59,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Pierre Bourdieu]] — Eacott 遵循 Bourdieu 的学术逻辑立场：学术工作的逻辑应是论证与反驳（argument and refutation），而非 thesis-antithesis-synthesis(p.774)
-> - 社会[[Epistemology|认识论]]（social epistemology）— Eacott 将其先前关于教育行政与领导力社会认识论的工作(Eacott, 2017b)引入本文，关注该领域[[Knowledge Production|知识生产]]的社会条件和逻辑(p.774)
+> - 社会[[Epistemology|认识论]]（social epistemology）— Eacott 将其先前关于教育行政与领导力社会认识论的工作(Eacott, 2017b)引入本文，关注该领域[[Knowledge Production|知识生产]]的社会条件和逻辑
 
 ## 研究方法
 
@@ -83,7 +83,7 @@ citation_aliases:
 > - 教育行政与领导力领域的博士项目、会议和期刊均未为学者准备对话和辩论的能力(p.774)
 > - 该领域曾有过学术交锋的传统——如 Willower (1983)、Hills (1982, 1983)、Gronn (1982, 1987) 和 Thomas (1986) 之间关于观察性研究的有用性的往返交流，以及 Evers 和 Lakomski 的 trilogy 中的论证、批评和辩护——但这些已"早已远去"(p.774-775)
 > - Eacott 2017 年论文的传播过程被视为"成功"——下载量超过 1000 次，带来地区级和州级专业协会的演讲邀请(p.776)
-> - 负面反应虽远少于正面，但 Eacott 承认"困扰我的始终是后者"(p.776)
+> - 负面反应虽远少于正面，但 Eacott 承认"困扰我的始终是后者"
 > - Hattie 的回应(2017)被不经同行评审地在两天内接收和发表——Eacott 指出这本身"将是证实我关于大师地位被编辑合法化的主张的证据"(p.777)
 > - Eacott 被 *[[School Leadership]] & Management* 编辑拒绝发表对 Hattie 回应的再回应(p.778)
 > - Eacott 未提供"如何挑战现有体制"的清单——提供这样的清单"将违反我在本文中所主张的原则"(p.780)
@@ -107,7 +107,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - Eacott 承认本文仅基于 n=1 的个人经验案例，因此"将被那些以不同标准论证知识主张合理性的人所否定"(p.775)
-> - Eacott 声明本文"不是对学科边界的评论（如 Oplatka, 2009）或教育行政与领导力领域内各种传统的评论（如 Gunter, 2016）"(p.775)
+> - Eacott 声明本文"不是对学科边界的评论（如 Oplatka, 2009）或教育行政与领导力领域内各种传统的评论（如 Gunter, 2016）"
 > - 本文未提供具体的"如何改进学术对话"的操作方案——Eacott 认为提供这样的清单将违背本文的核心主张(p.780)
 
 ## 来源

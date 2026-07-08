@@ -55,7 +55,7 @@ updated: 2026-05-22
 
 > [!example]
 > ### vs 成就动机（Achievement Motivation）
-> 西方心理学中的"成就动机"关注个体追求成功、避免失败的内驱力，通常以可量化的目标达成为导向。好學心则不以"成就"为参照——它描述的是学习者对学习本身的渴望，而非对学习结果的追求。根本差异在于翻译上的语义断裂：在中文日常用语中，"动机"偏指向犯罪意图（如"杀人动机"），而非学习意愿([[Argument_Li_2012_Cambridge|Li, 2012, p.ix]])。因此当 Li 的母亲听到"成就动机"时，"完全无法产生任何中文联想"——这不是文化隔阂，而是翻译制造了一个在目标语言中不存在日常语义锚点的概念([[Argument_Li_2012_Cambridge|Li, 2012, p.ix]])。
+> 西方心理学中的"成就动机"关注个体追求成功、避免失败的内驱力，通常以可量化的目标达成为导向。好學心则不以"成就"为参照——它描述的是学习者对学习本身的渴望，而非对学习结果的追求。根本差异在于翻译上的语义断裂：在中文日常用语中，"动机"偏指向犯罪意图（如"杀人动机"），而非学习意愿([[Argument_Li_2012_Cambridge|Li, 2012, p.ix]])。因此当 Li 的母亲听到"成就动机"时，"完全无法产生任何中文联想"——这不是文化隔阂，而是翻译制造了一个在目标语言中不存在日常语义锚点的概念。
 
 > [!example]
 > ### vs 西方学习传统
@@ -80,7 +80,7 @@ updated: 2026-05-22
 > [!note]-
 > 该概念来自 Li 的母亲在对话中的建议。当 Li 向母亲询问西方心理学的"成就动机"概念时，母亲完全无法产生任何中文联想——因为在中文中 motivation 和 motive 均被译为"動機"。母亲在沉默许久后说："学习和动机有什么关系？！我只知道杀人动机。"([[Argument_Li_2012_Cambridge|Li, 2012, p.ix]])当 Li 转而问她用什么中文概念来描述人想学习的欲望时，母亲毫不犹豫地说出了"好學心"。
 
-Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可这一概念([[Argument_Li_2012_Cambridge|Li, 2012, p.x]])。在后续比较研究中，好學心逐步成为代表中国学习模型的核心概念，与欧裔美国精英学生的西方学习概念形成系统性对比([[Argument_Li_2012_Cambridge|Li, 2012, p.x]])。
+Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可这一概念([[Argument_Li_2012_Cambridge|Li, 2012, p.x]])。在后续比较研究中，好學心逐步成为代表中国学习模型的核心概念，与欧裔美国精英学生的西方学习概念形成系统性对比。
 
 ### 文化濡化：概念的隐形传递
 
@@ -119,7 +119,7 @@ Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可�
 > ![](https://img.mylikemie.icu/books/Li_2012_Cambridge/figures/Chinese%20Conceptualization%20of%20Learning.png)
 >
 > - 好學心（heart and mind for wanting to learn）是中文学习概念地图中**最大的集群**——占全部 225 个术语的 46%（64 个术语），远超过其他任何集群([[Argument_Li_2012_Cambridge|Li, 2012, p.97]])
-> - 好學心集群包含四个子维度：终身追求（life-long pursuit）、学习美德四重奏（diligence, hardship, steadfastness, concentration）、[[Humility in Learning|谦虚]]（humility）、渴望（desire）([[Argument_Li_2012_Cambridge|Li, 2012, p.97]])
+> - 好學心集群包含四个子维度：终身追求（life-long pursuit）、学习美德四重奏（diligence, hardship, steadfastness, concentration）、[[Humility in Learning|谦虚]]（humility）、渴望（desire）
 > - 相比之下，欧裔美国学习概念地图的最大集群是"主动学习"（active learning），占 203 个术语的 48%（70 个术语），其核心是思考、探究、沟通和认知技能——与道德自我完善完全无关([[Argument_Li_2012_Cambridge|Li, 2012, p.94]])
 
 > [!info]- 核心数据

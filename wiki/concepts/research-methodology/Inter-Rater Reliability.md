@@ -53,7 +53,7 @@ updated: 2026-06-23
 > [!def] 核心定义
 > 评分者间[[Reliability|信度]]（Inter-rater reliability）指多位独立评判者或专家使用同一工具对相同对象进行评分时，彼此评分之间的一致性程度。它是信度作为**等值性（reliability as equivalence）**的核心形式之一——如果多于一位研究者参与研究，人类判断易出错，必须确保所有研究者在数据录入上一致。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 201–202)]]
 
-从[[Quantitative Research|量化研究]]角度，评分者间信度适用于涉及多位评判者进行观察评定的情境。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 将其定义为"不同独立评判者在评分中达成一致的程度"。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+从[[Quantitative Research|量化研究]]角度，评分者间信度适用于涉及多位评判者进行观察评定的情境。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 将其定义为"不同独立评判者在评分中达成一致的程度"。
 
 > [!citation-card]- Creswell 对评分者间信度的定义
 > 评分者间信度在这些研究中是需要建立的重要信度形式，指不同独立评判者在评分中达成一致的程度。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]

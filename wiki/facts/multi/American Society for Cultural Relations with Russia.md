@@ -42,7 +42,7 @@ updated: 2026-05-26
 ## 背景
 
 > [!info]
-> 1917 年俄国十月革命后，美国拒绝承认布尔什维克领导的苏俄新政府，两国在此后十六年间无正式外交关系([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])。但民间层面，美苏之间的文化交流并未中断——1924 年苏联成立了全联盟对外文化关系协会（VOKS），公开目标为"在苏联与外国文化和科学机构之间建立更密切的关系"([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.104]])。1927 年初，VOKS 派遣 Roman Weller 前往美国建立文化关系类的组织，ASCRR 随即在纽约成立([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。[[John Dewey]] 出任该协会副主席([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.104]])。
+> 1917 年俄国十月革命后，美国拒绝承认布尔什维克领导的苏俄新政府，两国在此后十六年间无正式外交关系([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.102]])。但民间层面，美苏之间的文化交流并未中断——1924 年苏联成立了全联盟对外文化关系协会（VOKS），公开目标为"在苏联与外国文化和科学机构之间建立更密切的关系"([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.104]])。1927 年初，VOKS 派遣 Roman Weller 前往美国建立文化关系类的组织，ASCRR 随即在纽约成立([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。[[John Dewey]] 出任该协会副主席。
 
 ## 经过
 
@@ -50,8 +50,8 @@ updated: 2026-05-26
 > - **1927 年初** VOKS 派遣 Roman Weller 赴美建立文化关系组织，ASCRR 随即成立([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。
 > - **1927–1928** ASCRR 的核心活动为书籍、报告和期刊的跨国交换。成立仅九个月，该协会在美国收到 41,040 册苏联出版物，向苏联发送 18,572 册([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.104]])。协会还设立了外国访客服务处（Service Bureau for Foreign Visitors），协助前往苏联进行研究或学习的美国人，并"为来访的教授、科学家等安排参观行程"([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.105]])。
 > - **1928 年夏季** ASCRR 组织了由 [[John Dewey]] 率领的 25 名美国教育者代表团访问苏联([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102, 105]])。代表团由 Lunacharsky 亲自邀请，苏联方面给予了高规格接待。
-> - **1928 年 7 月 27 日** VOKS 官员 Kiritchkov 致信 Dewey，承诺寄送苏联教育者的最新外文出版物和 Shatskii 关于苏联小学的报告——延续了 ASCRR 既有的书籍交换模式([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.104]])。
-> - **1929 年 4 月 7 日** 纽约时报以"Cultural Ties With Russia To Be Promoted In America"为题报道 ASCRR，称其正在美俄音乐家的协助下创建当代俄国音乐图书馆。报道还将 ASCRR 描述为关于苏联信息的"最佳来源"，并称协会计划于 1929 年秋季组织首批旅行团([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.105]])。
+> - **1928 年 7 月 27 日** VOKS 官员 Kiritchkov 致信 Dewey，承诺寄送苏联教育者的最新外文出版物和 Shatskii 关于苏联小学的报告——延续了 ASCRR 既有的书籍交换模式。
+> - **1929 年 4 月 7 日** 纽约时报以"Cultural Ties With Russia To Be Promoted In America"为题报道 ASCRR，称其正在美俄音乐家的协助下创建当代俄国音乐图书馆。报道还将 ASCRR 描述为关于苏联信息的"最佳来源"，并称协会计划于 1929 年秋季组织首批旅行团。
 
 ## 关键文件／声明
 

@@ -170,7 +170,7 @@ Smith & Glass（1987）将研究（以及与之共享方法的评估）的操作
 > | **意图与目的** | 推进知识前沿，贡献理论，追求概括性 | 较少关心理论贡献或普遍知识体。评估比研究更偏狭（parochial）而非普遍（universal）（pp.33–34） |
 > | **调查范围** | 范围较集中、聚焦 | 更全面（comprehensive），涵盖项目更多方面的数量和种类（p.34） |
 > | **价值立场** | 追求[[Value Neutrality in Research\|价值中立]]（value neutrality） | 必须呈现**多重价值立场**并包含关于这些价值的数据 |
-> | **调查起源** | 源于研究者的好奇心和求知欲（p.34）；研究者向同行和科学界问责；研究者自主 | 源于委托方（client）；评估者向委托方和利益相关者问责；评估者受委托驱动，动机是解决问题、分配资源和做出决策。研究是公开的，评估面向受限受众 |
+> | **调查起源** | 源于研究者的好奇心和求知欲；研究者向同行和科学界问责；研究者自主 | 源于委托方（client）；评估者向委托方和利益相关者问责；评估者受委托驱动，动机是解决问题、分配资源和做出决策。研究是公开的，评估面向受限受众 |
 > | **调查用途** | 用于推进知识 | 用于为决策提供信息 |
 > | **时间性** | 不必受时间限制 | 必须及时（timely），时间表由委托方给定 |
 > | **评判标准** | 方法论标准和对领域的贡献（[[Internal Validity\|内部效度]]与[[External Validity\|外部效度]]） | 效用（utility）和可信度（credibility） |
@@ -251,7 +251,7 @@ Morrison（1993: 2）由此给出评估的简洁定义：
 > *The evaluator is faced with competing interest groups, with divergent definitions of the situation and conflicting informational needs. ... He has to decide which decision makers he will serve, what information will be of most use, when it is needed and how it can be obtained. ... The resolution of these issues commits the evaluator to a political stance, an attitude to the government of education. No such commitment is required of the researcher. He stands outside the political process, and values his detachment from it. For him the production of new knowledge and its social use are separated. The evaluator is embroiled in the action, built into a political process which concerns the distribution of power, i.e. the allocation of resources and the determination of goals, roles and tasks. ... When evaluation data influences power relationships the evaluator is compelled to weight carefully the consequences of his task specification. ... The researcher is free to select his questions, and to seek answers to them. The evaluator, on the other hand, must never fall into the error of answering questions which no one but he is asking.*
 
 > [!taxonomy] MacDonald（1987）的评估政治类型学
-> MacDonald（1987）提出了一个广被引用的三分类框架来理解评估的政治立场（p.36；另见 Chelinsky & Mulhauser, 1993, p. 54 论"政治的不可逃避性"）：
+> MacDonald提出了一个广被引用的三分类框架来理解评估的政治立场（p.36；另见 Chelinsky & Mulhauser, 1993, p. 54 论"政治的不可逃避性"）：
 > - **专制型评估（Autocratic Evaluation）** 评估服务于权力持有者的议程——评估结果被用于加强既有权威和决策。
 > - **官僚型评估（Bureaucratic Evaluation）** 评估服务于机构的管理需求——评估被视为组织运行的技术环节。
 > - **民主型评估（Democratic Evaluation）** 评估服务于多元利益相关者的知情参与——评估信息和判断向所有相关群体公开，支持民主审议。
@@ -264,7 +264,7 @@ MacDonald（1987）进而提出了一个颠覆性的主张（p.36）：
 > *The danger therefore of conceptualizing evaluation as a branch of research is that evaluators become trapped in the restrictive tentacles of research respectability. Purity may be substituted for utility, trivial proofs for clumsy attempts to grasp complex significance. How much more productive it would be to define research as a branch of evaluation, a branch whose task it is to solve the technological problems encountered by the evaluator.*
 
 > [!exegesis] 为什么 MacDonald（1987）主张"倒转"研究-评估关系
-> MacDonald（1987）的逻辑是：如果评估被视为研究的分支，评估者就会以研究的标准（方法论纯粹性、理论贡献、内部效度）来评判自己的工作，而这些标准恰恰不是评估的委托人（决策者、公众、利益相关者）所关心的。评估者需要的是**效用（utility）**而非**纯粹（purity）**。倒转关系之后，研究只是评估工具包中的一个技术分支——这一定位使研究的方法论工具仍然可用，但不再让方法论标准绑架评估的政治和实用功能。然而正如后续讨论所示，现实中的[[Categorical Funding|分类资助]]正在从反方向——将研究拉向评估——模糊这一关系。
+> MacDonald的逻辑是：如果评估被视为研究的分支，评估者就会以研究的标准（方法论纯粹性、理论贡献、内部效度）来评判自己的工作，而这些标准恰恰不是评估的委托人（决策者、公众、利益相关者）所关心的。评估者需要的是**效用（utility）**而非**纯粹（purity）**。倒转关系之后，研究只是评估工具包中的一个技术分支——这一定位使研究的方法论工具仍然可用，但不再让方法论标准绑架评估的政治和实用功能。然而正如后续讨论所示，现实中的[[Categorical Funding|分类资助]]正在从反方向——将研究拉向评估——模糊这一关系。
 
 ---
 
@@ -367,7 +367,7 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 > ```
 > - **环节一：资助决定研究什么**。Burgess（1993）注意到一个系统性转变：从研究者指定研究主题向赞助方指定研究焦点的转变。资助被限定在政策相关的范围内，即研究必须指导政策决策、改善政策制定者关注的领域质量、促进政策实施、评估政策执行效果。如果[[Research Problem|研究议题]]不涉及政策问题，就很难获得资助。
 > - **环节二：传播决定谁看到什么**。资助问题从委托延伸到传播：谁将收到或获取研究结果？结果将如何被使用和报告？不利的报告可能被扣留一段时间、压制或选择性发布。研究可以被纳入服务于更广泛的教育目的，包括地方教育当局乃至政府机构的政治。
-> - **环节三：数据所有权决定谁能说话**。这从根本上引发了谁拥有和控制数据、谁控制研究结果的发布的问题。当数据所有权在合同中转让给赞助方时，研究者失去了对自身研究叙事的基本控制权。Burgess（1993）因此强调研究者必须在合同阶段就积极谈判数据所有权和知识产权。
+> - **环节三：数据所有权决定谁能说话**。这从根本上引发了谁拥有和控制数据、谁控制研究结果的发布的问题。当数据所有权在合同中转让给赞助方时，研究者失去了对自身研究叙事的基本控制权。Burgess因此强调研究者必须在合同阶段就积极谈判数据所有权和知识产权。
 
 ---
 
@@ -376,7 +376,7 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 研究与政治的纠缠是复杂的，因为**研究设计旨在处理复杂的社会现实**（Anderson & Biddle, 1991），一项研究不会简单或直接地输入到一项具体政策制定中。相反，研究产生多种不同类型的知识（p.42）：
 
 > [!taxonomy] Caplan（1991）的研究知识类型学
-> 研究产出包含多种知识类型，Caplan（1991）将其归纳为以下七类：
+> 研究产出包含多种知识类型，Caplan将其归纳为以下七类：
 > - **概念（Concepts）** 重新框定政策问题的新概念工具
 > - **命题（Propositions）** 可检验的关系陈述
 > - **解释（Explanations）** 关于机制和[[Causality|因果]]的理论说明

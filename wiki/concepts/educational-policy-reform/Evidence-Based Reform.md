@@ -350,7 +350,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 ### EEF Toolkit 的方法论争议
 
-见上文「Toolkit 和 Hattie 的方法论批评」中 Wrigley (2018) 和 Simpson (2017) 的三层技术批评。核心争议在于：Toolkit 的"[[Meta-meta-analysis|元-元分析]]"形式（以单一效应量排名 30+ 类干预）是否将统计简化推至了产生系统性误导的程度？[[Argument_Simpson_2017_JEP|Simpson (2017)]] 用 Fresh Start 案例（声称 +0.24SD 在匹配子集分析中消失）论证答案是肯定的。
+见上文「Toolkit 和 Hattie 的方法论批评」中 Wrigley (2018) 和 Simpson (2017) 的三层技术批评。核心争议在于：Toolkit 的"[[Meta-meta-analysis|元-元分析]]"形式（以单一效应量排名 30+ 类干预）是否将统计简化推至了产生系统性误导的程度？Simpson 用 Fresh Start 案例（声称 +0.24SD 在匹配子集分析中消失）论证答案是肯定的。
 
 ## 与相关概念的比较
 

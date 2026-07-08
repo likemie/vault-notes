@@ -44,7 +44,7 @@ updated: '2026-06-08'
 > - **沉默算子（Silent Operators）** — 总体的认知硬件，心智能力的基础设施
 > - **主观算子（Subjective Operators）** — [[Jean Piaget|皮亚杰]]所描述的支配思维的结构和图式
 >
-> 核心主张：心智能力（Mental Power）——同时保持和使用独立信息单元的能力——随年龄增长而增加，是皮亚杰阶段递进的基础。这一心智能力被**中断算子（Interrupt Operator）** 所抵消，后者在需要时停用主观算子图式([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.3]])。
+> 核心主张：心智能力（Mental Power）——同时保持和使用独立信息单元的能力——随年龄增长而增加，是皮亚杰阶段递进的基础。这一心智能力被**中断算子（Interrupt Operator）** 所抵消，后者在需要时停用主观算子图式。
 
 ## 主要贡献
 
@@ -56,4 +56,4 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - 其双因素模型被 [[Robbie Case]] (1985, 1992) 进一步发展为四子域发展模型([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.3]])
-> - [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie (2017)]] 将其作为[[Neo-Piagetian Theories|新皮亚杰理论]]谱系的起点([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.3]])
+> - [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie (2017)]] 将其作为[[Neo-Piagetian Theories|新皮亚杰理论]]谱系的起点

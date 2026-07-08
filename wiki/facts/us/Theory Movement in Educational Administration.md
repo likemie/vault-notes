@@ -61,7 +61,7 @@ updated: 2026-05-18
 >
 > **理论主张**
 >
-> 理论运动大量借鉴 **Herbert Feigl** 的早期著作（Feigl 与维也纳学派有关联），试图以"**客观性、[[Reliability|可靠性]]、[[Definition of Terms|操作性定义]]、连贯或系统的结构以及全面性**"来刻画教育行政研究（Griffiths, 1959, p.45，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.315]]）。
+> 理论运动大量借鉴 **Herbert Feigl** 的早期著作（Feigl 与维也纳学派有关联），试图以"**客观性、[[Reliability|可靠性]]、[[Definition of Terms|操作性定义]]、连贯或系统的结构以及全面性**"来刻画教育行政研究（Griffiths, 1959, p.45，引自）。
 >
 > 关键特征：
 > - 试图将教育行政研究**从实践者/研究者的无理论知识中分离**出来
@@ -92,13 +92,13 @@ updated: 2026-05-18
 >
 > 1974 年（或如 Bates 所论证的，实际上始于 1973 年 New Orleans 的 AERA 年会），在英国 Bristol 的国际互访项目（International Intervisitation Programme）上，**[[Thomas Barr Greenfield]]** 挑战了理论运动的美国实用经验主义和一个客观行政科学的知识论[[Hypothesis|假设]]([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])。
 >
-> Greenfield 的核心知识论主张：我们所有关于实在——自然和社会——的知识都包含不可还原的主观成分；**客观性是一个神话**——在自然科学和社会科学中都是如此。他呼吁一种"人性科学"（humane science）（Greenfield & Ribbins, 1993，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]]）。
+> Greenfield 的核心知识论主张：我们所有关于实在——自然和社会——的知识都包含不可还原的主观成分；**客观性是一个神话**——在自然科学和社会科学中都是如此。他呼吁一种"人性科学"（humane science）（Greenfield & Ribbins, 1993，引自）。
 >
 > **后续发展**
 >
 > - Bates（1980, 1983）的**教育行政[[Critical Theory|批判理论]]**也对逻辑经验主义提出了批判
 > - Gunter（2010）记录的**教育行政社会学方法**进一步挑战了实证主义范式
-> - Evers & Lakomski（1991, 1996, 2000, 2012）一致论证：**问题不在科学，而在科学的模型**——是逻辑经验主义这一狭窄[[Operationalization|操作化]]的问题，而非科学探究本身的追求不值得或不可能([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])
+> - Evers & Lakomski（1991, 1996, 2000, 2012）一致论证：**问题不在科学，而在科学的模型**——是逻辑经验主义这一狭窄[[Operationalization|操作化]]的问题，而非科学探究本身的追求不值得或不可能
 > - 这些批判导致许多人相信教育行政科学的追求既不值得也不可行
 
 ## 争议与评论

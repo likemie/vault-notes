@@ -85,7 +85,7 @@ citation_aliases:
 > ("When teachers see teaching and learning through the eyes of their students, and when students become their own teachers then outcomes and engagement are maximized.") (p.79)
 >
 > > “由于几乎所有的干预措施都能显示出一些成功的证据，我们需要问的不是‘什么有效？’而是‘什么最有效’，并寻求对影响学生学习的不同方式进行比较。”
-> ("As nearly every intervention can show some evidence of success, we need to ask not 'What works?' but 'What works best' and seek comparisons between different ways of influencing student learning.") (p.79)
+> ("As nearly every intervention can show some evidence of success, we need to ask not 'What works?' but 'What works best' and seek comparisons between different ways of influencing student learning.")
 >
 > > “这较少关乎教师在教学中做了什么，而更多关乎他们如何思考自己的角色。他们对教与学的心智框架或思维方式，才是最关键的。”
 > ("It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical.") (p.81)

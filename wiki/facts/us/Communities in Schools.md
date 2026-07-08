@@ -50,7 +50,7 @@ updated: 2026-05-18
 > [!info] 清算中心评级分歧
 > [[Community Innovation Survey|CIS]] 在五个清算中心中呈现明显分歧：[[National Dropout Prevention Center|NDPC]] 推荐该项目，[[Promising Practices Network|PPN]] 和 [[CNCS Evidence Exchange]] 将其评为 promising 或者中等支持，[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 和 Blueprints 不背书该项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
 >
-> NDPC 的推荐基于未知数量的学生层级 [[Randomised Controlled Trials|RCT]] 和一项学校层级 [[Quasi-Experimental Designs|QED]]，声称这些研究在高中辍学、毕业、GPA、学分完成、出勤、八年级数学和阅读等结果上显示正向效果，但研究无法被识别。PPN 在 2009 年基于一项未匹配干预与比较青少年的多地点 QED 给出 promising 判断。CNCS Evidence Exchange 基于一项 2 年 RCT 和一项 ITS 研究给出中等支持，但 ITS 中处理组 3 年后毕业和辍学率改善没有超过比较组自发改善。Blueprints 因研究不足或方法限制认为证据 inconclusive；CMFR 因到 2018 年 2 月未找到 peer-reviewed 发表研究而得出类似结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
+> NDPC 的推荐基于未知数量的学生层级 [[Randomised Controlled Trials|RCT]] 和一项学校层级 [[Quasi-Experimental Designs|QED]]，声称这些研究在高中辍学、毕业、GPA、学分完成、出勤、八年级数学和阅读等结果上显示正向效果，但研究无法被识别。PPN 在 2009 年基于一项未匹配干预与比较青少年的多地点 QED 给出 promising 判断。CNCS Evidence Exchange 基于一项 2 年 RCT 和一项 ITS 研究给出中等支持，但 ITS 中处理组 3 年后毕业和辍学率改善没有超过比较组自发改善。Blueprints 因研究不足或方法限制认为证据 inconclusive；CMFR 因到 2018 年 2 月未找到 peer-reviewed 发表研究而得出类似结论。
 
 ## 案例意义
 
@@ -61,6 +61,6 @@ updated: 2026-05-18
 
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — [[Community Innovation Survey|CIS]] 是 Wadhwa et al. 用来说明最大评级分歧的关键案例([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
-> - [[National Dropout Prevention Center]] — NDPC 是唯一完全推荐 [[Community Innovation Survey|CIS]] 的清算中心，但其依据研究在 Wadhwa et al. 的描述中无法被识别([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
-> - [[CNCS Evidence Exchange]] — CNCS Evidence Exchange 的中等支持判断基于 [[Randomised Controlled Trials|RCT]] 与 ITS 证据，但 ITS 改善未超过比较组自发改善([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
+> - [[National Dropout Prevention Center]] — NDPC 是唯一完全推荐 [[Community Innovation Survey|CIS]] 的清算中心，但其依据研究在 Wadhwa et al. 的描述中无法被识别。
+> - [[CNCS Evidence Exchange]] — CNCS Evidence Exchange 的中等支持判断基于 [[Randomised Controlled Trials|RCT]] 与 ITS 证据，但 ITS 改善未超过比较组自发改善。
 

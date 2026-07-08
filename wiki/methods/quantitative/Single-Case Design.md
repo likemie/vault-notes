@@ -3,7 +3,6 @@ title: Single-Case Design
 aliases:
   - 单一个案设计
   - SCD
-  - 单一被试设计
 summary: "通过在不同条件下对个体或小群体进行重复测量并让其作为自身控制的实验方法，适合评估小样本干预效果"
 type: method
 method_type: quantitative
@@ -61,7 +60,7 @@ updated: '2026-05-18'
 >
 > > "SCDs are experimental methods consisting of various designs involving repeated measures of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460, citing Kazdin, 2011]])
 >
-> SCD 起源于心理学领域，已被广泛应用于教育、医学、言语和语言治疗等多个学科([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。
+> SCD 起源于心理学领域，已被广泛应用于教育、医学、言语和语言治疗等多个学科。
 
 ## 认识论立场
 

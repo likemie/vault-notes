@@ -68,5 +68,5 @@ updated: '2026-05-18'
 > - [[Educational Evidence Clearinghouses]] — PPN 是 12 个被比较的教育清算中心之一，但未进入最终一致性分析([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 15]])。
 > - [[Evidence-Based Education]] — PPN 展示了"promising practices"类证据中介如何以正向效果项目和[[Effect Size|效应量]]阈值来组织证据([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
 > - [[Randomised Controlled Trials]] — PPN 承认 RCT，但作者[[Coding in Qualitative Research|编码]]显示其 RCT 标准描述程度为 1([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
-> - [[Effect Size]] — PPN 最高评级要求至少 0.25 SD 的差异([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
+> - [[Effect Size]] — PPN 最高评级要求至少 0.25 SD 的差异。
 

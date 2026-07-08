@@ -71,7 +71,7 @@ updated: '2026-05-18'
 >
 > > "Similarly externalization to 'tradition' are not directed at historicizing educational theory traditions or experiences, but rather react to the need to reinterpret and actualize these traditions' theoretical and/or normative potential in the face of urgent present-day concerns." (Schriewer & Martinez, 2004, p. 32，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 232]])
 >
-> > 例：二战后盟军占领当局试图改革德国教育时，德国抵制者质疑美国是否有任何东西可以"教"德国——鉴于德国教育传统的辉煌历史（Phillips, 1995）。这是将外化到"历史荣耀"来抵制外部驱动的改革。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 232]])
+> > 例：二战后盟军占领当局试图改革德国教育时，德国抵制者质疑美国是否有任何东西可以"教"德国——鉴于德国教育传统的辉煌历史（Phillips, 1995）。这是将外化到"历史荣耀"来抵制外部驱动的改革。
 
 
 > [!abstract] 外化与情境的"双层结构"

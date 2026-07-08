@@ -71,7 +71,7 @@ updated: '2026-06-08'
 > [!info] 亚洲崛起作为高等教育转型的独立[[Causality|因果]]力量
 > Rizvi 的核心贡献在于论证：亚洲的经济和政治崛起不是高等教育全球转型的"背景"或"结果"，而是一个**独立的、有方向性的因果力量**。既有解释——[[Knowledge Capitalism|知识资本主义]]（Peters, 2013）、工作性质转变（Brown & Lauder, 2016）、全球化和技术创新——都有道理，但普遍将亚洲崛起视为这些全球趋势的"案例"或"表现"，而非塑造这些趋势的独立动力([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.90]])。
 >
-> Rizvi 的策略是"补充"而非"替代"：他写道"along with these factors, the economic and political rise of Asia has also played a highly consequential role"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.90]])。这一策略避免了在单一因果与多元解释之间做出非此即彼的选择。
+> Rizvi 的策略是"补充"而非"替代"：他写道"along with these factors, the economic and political rise of Asia has also played a highly consequential role"。这一策略避免了在单一因果与多元解释之间做出非此即彼的选择。
 
 
 > [!info] 国际化理性的双重结构：发展主义 vs 市场理性

@@ -5,7 +5,6 @@ aliases:
   - 因果推断的基本问题
   - fundamental problem of causal inference
   - Holland's fundamental problem
-  - Fundamental Problem of Causal Inference
 summary: "Holland (1986) 提出的因果推断根本性困难：同一个人不能同时处于接受和不接受干预的状态，因此因果效应在个体层面无法被观察"
 type: concept
 domain: "research-methodology"

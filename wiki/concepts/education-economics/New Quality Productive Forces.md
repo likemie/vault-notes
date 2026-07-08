@@ -6,7 +6,7 @@ aliases:
   - "xin zhi sheng chan li"
 summary: "习近平提出的经济概念，指以创新为主导、摆脱传统经济增长方式的先进生产力质态，具有高科技、高效能、高质量特征。"
 type: concept
-domain: "economics"
+domain: "education-economics"
 related_count: 2
 related_level: 0
 related_stars: "☆"

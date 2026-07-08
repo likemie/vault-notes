@@ -43,9 +43,9 @@ updated: '2026-05-18'
 > [!info] 定义
 > 潜在结果框架（Potential outcomes Framework）是[[Causality|因果推断]]的核心概念框架，其关键思想是：**因果效应需要被概念化为[[Hypothesis|假设]]性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑([[Argument_Berk_2011_ER|Berk, 2011, p.193]])。
 >
-> > "One imagines what the outcome would be for an inmate under the treatment condition, and what the outcome would be for that same inmate under the comparison condition. Both outcomes are hypothetical. They are carefully considered before any data are analyzed." ([[Argument_Berk_2011_ER|Berk, 2011, p.193]])
+> > "One imagines what the outcome would be for an inmate under the treatment condition, and what the outcome would be for that same inmate under the comparison condition. Both outcomes are hypothetical. They are carefully considered before any data are analyzed."
 >
-> 例：假设一项监狱犯人职业培训评估——处理条件是提供职业培训，对照条件是在监狱院子里自由活动，结果是释放后的劳动力市场成功。因果效应被定义为该犯人在职业培训条件下的潜在收入与同一犯人在自由活动条件下的潜在收入之间的比较([[Argument_Berk_2011_ER|Berk, 2011, p.193]])。
+> 例：假设一项监狱犯人职业培训评估——处理条件是提供职业培训，对照条件是在监狱院子里自由活动，结果是释放后的劳动力市场成功。因果效应被定义为该犯人在职业培训条件下的潜在收入与同一犯人在自由活动条件下的潜在收入之间的比较。
 
 ## 历史沿革
 
@@ -61,7 +61,7 @@ updated: '2026-05-18'
 > [!abstract] [[Causality|因果]]效应的定义与估计的区分
 > 潜在结果框架的核心贡献在于清楚地区分了因果效应的**定义**与因果效应的**估计**——此前两者常被混淆。如果因果效应没有被明确定义，正在估计什么也必然是不清楚的([[Argument_Berk_2011_ER|Berk, 2011, p.193]])。
 >
-> > "The potential outcomes formulation allows one to clearly distinguish between the definition of a causal effect and the estimation of a causal effect. This is an important advance. Too often the two have been conflated with confusion the usual result." ([[Argument_Berk_2011_ER|Berk, 2011, p.193]])
+> > "The potential outcomes formulation allows one to clearly distinguish between the definition of a causal effect and the estimation of a causal effect. This is an important advance. Too often the two have been conflated with confusion the usual result."
 
 
 > [!abstract] 五种平均处理效应（Imbens, 2004）
@@ -73,7 +73,7 @@ updated: '2026-05-18'
 > 4. **处理组样本平均处理效应（sample average treatment effect on the treated）**——研究样本中实际接受处理者的平均因果效应
 > 5. **条件于协[[Variable|变量]]的样本平均处理效应**（average sample treatment effect conditional on sample covariates）——特定协变量子群中的平均因果效应
 >
-> 每种定义识别了一组特定的研究对象，对其需要平均因果效应([[Argument_Berk_2011_ER|Berk, 2011, p.194]]; Imbens, 2004, pp.6–7)。如果这些区分被忽视，"可信的证据不太可能产生"([[Argument_Berk_2011_ER|Berk, 2011, p.194]])。
+> 每种定义识别了一组特定的研究对象，对其需要平均因果效应([[Argument_Berk_2011_ER|Berk, 2011, p.194]]; Imbens, 2004, pp.6–7)。如果这些区分被忽视，"可信的证据不太可能产生"。
 
 
 > [!abstract] 稳定单位处理价值[[Hypothesis|假设]]（[[Stable Unit Treatment Value Assumption|SUTVA]]）

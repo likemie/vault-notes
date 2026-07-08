@@ -38,7 +38,7 @@ updated: '2026-05-18'
 > [!info] 背景
 > 1985–86 年新西兰议会教育与科学选择委员会（Education and Science Select Committee）对教师质量进行调查，旨在探讨如何测量和提高教学表现([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.103]])。
 >
-> > 五位委员中包括 Ruth Richardson，她后来在 1990 年后国家党政府中担任财政部长，是教育券制度的倡导者，并非"工会的附庸"或"心软的左派"([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.103]])。
+> > 五位委员中包括 Ruth Richardson，她后来在 1990 年后国家党政府中担任财政部长，是教育券制度的倡导者，并非"工会的附庸"或"心软的左派"。
 
 ## 政策文本摘要
 

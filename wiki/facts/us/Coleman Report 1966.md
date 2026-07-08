@@ -89,7 +89,7 @@ updated: '2026-06-02'
 >
 > ### 方法论特征
 >
-> 值得注意：Coleman 时代的统计技术（主要是[[Multiple Regression|多元回归]]）无法像现代[[Causality|因果推断]]方法那样处理选择偏误。研究测量的是**已可测量**的学校和家庭特征——教师质量、课程内容、教学实践等软性但可能更重要的学校维度并未被纳入([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.2]])。
+> 值得注意：Coleman 时代的统计技术（主要是[[Multiple Regression|多元回归]]）无法像现代[[Causality|因果推断]]方法那样处理选择偏误。研究测量的是**已可测量**的学校和家庭特征——教师质量、课程内容、教学实践等软性但可能更重要的学校维度并未被纳入。
 
 ## 关键文件／声明
 
@@ -115,27 +115,27 @@ updated: '2026-06-02'
 >
 > #### 常见的误读
 >
-> [[Argument_Downey_2016_SoE|Downey & Condron (2016, p.2)]] 特别指出，Coleman 和 Jencks 的研究经常被误读为学校不重要（schools do not matter）。更准确的解读是：**学校在塑造成就差距方面只起次要作用（schools play only a minor role in shaping achievement gaps）**。这一微妙但关键的区分——学校对个体学习的绝对影响 vs 学校对群体间差距的相对影响——在后续的学术辩论中经常被混淆。
+> Downey & Condron 特别指出，Coleman 和 Jencks 的研究经常被误读为学校不重要（schools do not matter）。更准确的解读是：**学校在塑造成就差距方面只起次要作用（schools play only a minor role in shaping achievement gaps）**。这一微妙但关键的区分——学校对个体学习的绝对影响 vs 学校对群体间差距的相对影响——在后续的学术辩论中经常被混淆。
 >
 > #### 催生的独立研究路线
 >
-> Coleman Report 影响了一条持续至今的研究传统，其核心特征是将分析焦点从学校内部过程转移到**非学校来源**的儿童教育机会和结果差异：家庭资源、邻里环境、同伴网络、暑期经历等([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.2]])。
+> Coleman Report 影响了一条持续至今的研究传统，其核心特征是将分析焦点从学校内部过程转移到**非学校来源**的儿童教育机会和结果差异：家庭资源、邻里环境、同伴网络、暑期经历等。
 >
 > ### 与批判视角的时间线关系
 >
-> [[Argument_Downey_2016_SoE|Downey & Condron (2016, p.2)]] 揭示了一个经常被忽略的学术史事实：**Coleman Report（1966）的发表比 Bowles & Gintis 的 *Schooling in Capitalist America*（1976）早了整整十年**。在批判视角（再生产理论和加剧理论）兴起之前，Coleman 已经提供了经验证据表明非学校环境是成就差距的主要驱动力。
+> Downey & Condron 揭示了一个经常被忽略的学术史事实：**Coleman Report（1966）的发表比 Bowles & Gintis 的 *Schooling in Capitalist America*（1976）早了整整十年**。在批判视角（再生产理论和加剧理论）兴起之前，Coleman 已经提供了经验证据表明非学校环境是成就差距的主要驱动力。
 >
 > 在随后的几十年里，教育社会学逐渐转向关注学校因素，Coleman Report 失宠——这源于方法论的、政治的和学术[[Paradigm|范式]]的多重原因（见争议与评论章节）。
 >
 > ### Jencks 之后的再验证：Downey, von Hippel & Hughes (2008)
 >
-> 约四十年后，Downey、von Hippel 和 Hughes (2008) 使用[[Seasonal Comparison|季节性比较]]方法（学年 vs 暑假学习率差异作为学校质量的测量指标），分析了 287 所学校的全国代表性样本，发现这一学校质量指标与学校免费／减免午餐学生比例之间**没有关系**([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.8–9]])。这一发现从新的方法论角度支持了 Coleman 的核心直觉——可测量的学校特征与 SES 构成之间缺乏强关联。
+> 约四十年后，Downey、von Hippel 和 Hughes 使用[[Seasonal Comparison|季节性比较]]方法（学年 vs 暑假学习率差异作为学校质量的测量指标），分析了 287 所学校的全国代表性样本，发现这一学校质量指标与学校免费／减免午餐学生比例之间**没有关系**([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.8–9]])。这一发现从新的方法论角度支持了 Coleman 的核心直觉——可测量的学校特征与 SES 构成之间缺乏强关联。
 >
 > Lauen & Gaddis (2013) 以及 Lubienski & Lubienski (2013，私立学校并不比公立学校产生更多学习）的研究提供了一致但独立于 Coleman 传统的证据([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.9]])。
 >
 > ### 政治框定的翻转
 >
-> Coleman Report 经历了一个引人深思的政治框定翻转([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.2]])：
+> Coleman Report 经历了一个引人深思的政治框定翻转：
 >
 > - **1966–1970s** 报告被视为**保守派**立场——因为它将 SES 成就差距的源头归于家庭和社区而非学校，暗示政府无需为教育不平等承担全部责任。与此同时，Bowles & Gintis (1976) 的马克思主义批判——学校是资本主义再生产机器——被视为**激进左派**。
 > - **1980s 初** 保守派全面接受学校是问题的叙事，标志性事件包括 [[A Nation at Risk 1983]]（National Commission on Excellence in Education, 1984）。具有讽刺意味的是，曾经被视为保守派的 Coleman 立场反而被保守派抛弃。
@@ -151,15 +151,15 @@ updated: '2026-06-02'
 >
 > - **遗漏[[Variable|变量]]问题**：批评者指出——且 Downey & Condron 认为这一批评是正确的（correctly）——Coleman 和 Jencks 可能未能测量学校最重要的方面：那些真正产生不平等的特征，如教师质量、课程内容、教学实践、学校氛围等。如果这些未测量的学校因素系统性偏向高 SES 学生，那么 Coleman Report 将系统性低估学校对不平等的贡献。
 > - **统计方法局限** 1960 年代的回归技术无法有效处理选择偏误——儿童并非[[Random Assignment|随机分配]]到学校，观察到的校际差异可能混杂了非学校因素的效应。传统策略（统计控制可测量的家庭背景维度、预测学习增值而非单一时间点的结果）仅部分有效——Burkam et al. (2004) 发现最好的模型也仅解释了不到 15% 的暑期学习方差([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.3]])。
-> - **低估的原因可能被低估了** 如果传统统计方法解释了不到 15% 的非学校学习方差，那意味着 85%+ 的非学校特征在大规模调查中无法测量——使用这些技术的学校效应估计将系统性高估学校效应，而非低估([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.3]])。这意味着：Coleman 可能低估了学校效应（因为遗漏了关键学校变量），但批评者所依赖的传统方法则可能高估了学校效应（因为未能充分控制非学校因素）。
+> - **低估的原因可能被低估了** 如果传统统计方法解释了不到 15% 的非学校学习方差，那意味着 85%+ 的非学校特征在大规模调查中无法测量——使用这些技术的学校效应估计将系统性高估学校效应，而非低估。这意味着：Coleman 可能低估了学校效应（因为遗漏了关键学校变量），但批评者所依赖的传统方法则可能高估了学校效应（因为未能充分控制非学校因素）。
 >
 > ### 责备受害者争议
 >
-> 对家庭因素研究的热情因对 **Moynihan Report (1965)** 的敌对反应而受到进一步打击([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.2]])：
+> 对家庭因素研究的热情因对 **Moynihan Report (1965)** 的敌对反应而受到进一步打击：
 >
 > - 1965 年，Daniel Patrick Moynihan（时任劳工部助理部长）发布 *The Negro Family: The Case for National Action*，将非裔美国人的经济不平等与家庭结构联系起来。
 > - 该报告被广泛批评为**责备受害者（blaming the victim）**——将结构性问题归咎于受害者自身的行为或文化特征（Ryan, 1976）。
-> - Moynihan Report 引发的争议使任何强调家庭因素（而非结构／学校因素）的学术研究在政治上变得敏感——Coleman Report 因同样强调家庭背景的核心作用而受到了间接的连带影响([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.2]])。
+> - Moynihan Report 引发的争议使任何强调家庭因素（而非结构／学校因素）的学术研究在政治上变得敏感——Coleman Report 因同样强调家庭背景的核心作用而受到了间接的连带影响。
 >
 > ### Hanushek 的政策[[Pragmatic Paradigm|实用主义]]
 >
@@ -196,7 +196,7 @@ updated: '2026-06-02'
 >
 > #### 核心教训
 >
-> > "The primary need for change, in our view, lies in how education scholars frame their questions. Scholars tend to ask, are there school processes that favor advantaged children? If they find them, then they conclude that schools are culprits." ([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.10]])
+> > "The primary need for change, in our view, lies in how education scholars frame their questions. Scholars tend to ask, are there school processes that favor advantaged children? If they find them, then they conclude that schools are culprits."
 > > 
 > > 在我们看来，变革的首要需求在于教育学者如何构建他们的问题。学者们倾向于问，是否存在有利于优势儿童的学校过程？如果他们发现了，他们就会断定学校是罪魁祸首。
 >
@@ -214,7 +214,7 @@ updated: '2026-06-02'
 >
 > ### Downey & Condron 的犬儒但完全合理的解读
 >
-> [[Argument_Downey_2016_SoE|Downey & Condron (2016, p.11)]] 提出了一个他们称之为犬儒但完全合理（cynical—and entirely plausible）的解读：
+> Downey & Condron 提出了一个他们称之为犬儒但完全合理（cynical—and entirely plausible）的解读：
 >
 > > "A cynical—and entirely plausible—interpretation of the greater emphasis on reforming schools relative to reforming other institutions is that it serves a purpose: It distracts people from the real sources of inequality, thereby serving the interests of those who benefit from current social arrangements."
 > > 
@@ -226,7 +226,7 @@ updated: '2026-06-02'
 >
 > [[Argument_Downey_2016_SoE|Downey & Condron (2016, pp.9–11)]] 从 Coleman Report 的遗产中推导出直接的政策含义：
 >
-> 1. **延长学年应成为优先政策选项** 如果学校已经是补偿性的，那么延长学年（保持当前学校质量分布不变）将系统性地改善弱势儿童的认知技能——因为他们将在补偿性环境中度过更长时间。但由于"学校服务于弱势儿童的质量很差"的叙事主导了公共话语，政策制定者合理地反问"为什么花钱增加学校教育的数量，如果质量如此之差？"——学者们无意中削弱了对增加学校暴露时间的支持([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.10]])。
+> 1. **延长学年应成为优先政策选项** 如果学校已经是补偿性的，那么延长学年（保持当前学校质量分布不变）将系统性地改善弱势儿童的认知技能——因为他们将在补偿性环境中度过更长时间。但由于"学校服务于弱势儿童的质量很差"的叙事主导了公共话语，政策制定者合理地反问"为什么花钱增加学校教育的数量，如果质量如此之差？"——学者们无意中削弱了对增加学校暴露时间的支持。
 >
 > 2. **学校改革可能不是减少成就差距的最佳策略** 差距主要在学校入学前形成（ECLS-K 数据：幼儿园至八年级 SES 阅读差距仅增长约 12%，数学差距实际缩小；加拿大 4–5 岁儿童的 PPVT 阅读分数已领先美国同龄人 .31 SD，与 15–16 岁 [[PISA]] 差距 .30 SD 几乎相同）。这意味着问题不在于学校改革是否**可能**缩小差距——而在于学校改革是否**是缩小差距的最佳策略**([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.8, 10]])。
 >

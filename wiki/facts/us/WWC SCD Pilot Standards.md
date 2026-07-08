@@ -74,7 +74,7 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > [[What Works Clearinghouse|WWC]] [[Single-Case Design|SCD]] Pilot Standards（全称：[[Single-Case Design]] Technical Documentation Version 1.0 (Pilot)）由 Kratochwill 和 Hitchcock 以及专家组为 Institute of Education Sciences (IES) 在合同 ED-07-CO-0062 下与 Mathematica Policy Research, Inc. 合作开发([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])。
 >
-> > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works Clearinghouse (WWC)." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])
+> > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works Clearinghouse (WWC)."
 >
 > 标准的核心设计逻辑基于 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生[[Causality|因果]]证据的多种设计类型([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 
@@ -99,7 +99,7 @@ updated: '2026-05-18'
 >
 > #### Table 1：[[What Works Clearinghouse|WWC]] SCD Review Guide 捕获的推广性信息
 >
-> 该表回应 Maggin et al. (2013) 对 WWC SCD 标准的批评：如果只看 SCD 设计标准，似乎 WWC 没有处理推广性；但若把 SCD Review Guide 纳入，就能看到 WWC 系统记录了基线、因变量、自变量、参与者和场所等推广性信息([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.465]])。
+> 该表回应 Maggin et al. (2013) 对 WWC SCD 标准的批评：如果只看 SCD 设计标准，似乎 WWC 没有处理推广性；但若把 SCD Review Guide 纳入，就能看到 WWC 系统记录了基线、因变量、自变量、参与者和场所等推广性信息。
 >
 > | Maggin et al. 的推广性标准 | WWC SCD Review Guide 中对应的信息项 | 信息用途 |
 > |---|---|---|
@@ -127,7 +127,7 @@ updated: '2026-05-18'
 > [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[Single-Case Design|SCD]] 评估量规时，仅审查了 [[Single-Case Design|SCD]] 设计标准[[Document|文件]]本身，得出了"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
 >
 > 1. WWC 设计标准**不能孤立看待**——它们必须与审查协议和 SCD Review Guide 一起理解（p.461）
-> 2. Review Guide 系统地捕获了 Maggin et al. (2013) 列出的所有推广性标准：基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量描述、参与者描述、场所描述（p.465, Table 1）
+> 2. Review Guide 系统地捕获了 Maggin et al. 列出的所有推广性标准：基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量描述、参与者描述、场所描述（p.465, Table 1）
 > 3. 推广性细节**不被评分**（即不设"是否足够好"的阈值）而是**被详细描述**，以便消费者自行判断（p.466）
 > 4. 唯一的例外是 5-3-20 规则，它提供了证据是否被充分重复的阈值（p.466）
 
@@ -167,5 +167,5 @@ updated: '2026-05-18'
 > - [[Single-Case Design]] — [[Single-Case Design|SCD]] 是被该标准审查的方法本体；[[What Works Clearinghouse|WWC]] SCD Pilot Standards 2010 是其在 WWC 审查体系中的制度化标准，而非 SCD 的完整定义([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.459–461]])
 > - [[5-3-20 Rule]] — 标准中定义的证据充分性阈值
 > - [[Gating Procedure]] — 标准实施中采用的[[Systematic Review|系统综述]]策略
-> - [[What Works Clearinghouse]] — SCD Pilot Standards 是 WWC 证据审查系统中专门用于 SCD 研究的技术标准，而非独立机构或完整手册([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.459–461]])
+> - [[What Works Clearinghouse]] — SCD Pilot Standards 是 WWC 证据审查系统中专门用于 SCD 研究的技术标准，而非独立机构或完整手册
 

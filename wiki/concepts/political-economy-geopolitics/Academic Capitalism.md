@@ -87,12 +87,12 @@ updated: 2026-06-01
 > - **保守主义国家**（以德国为代表）：允许社会群体自我规制，市场化改革的引入和撤回呈现拉锯——部分州在 2000 年代初引入学费后被学生抗议撤销
 > - **社会民主主义国家**（以挪威为代表）：强国家干预传统，高等教育市场化程度较低，公共供给仍占主导
 >
-> 三种模式均经历了自由化（liberalization），但结果强烈路径依赖，差异反映在各国更广泛经济的组织方式和动力上([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.803–804]])。
+> 三种模式均经历了自由化（liberalization），但结果强烈路径依赖，差异反映在各国更广泛经济的组织方式和动力上。
 
 ## 争议与批评
 
 > [!warning]
 > - 部分学者质疑古典政治经济学概念能否直接应用于学术转型——高等教育中的"市场"往往不依赖价格机制和利润动机，准市场和声望竞争与经典市场模型存在显著差异(Marginson, 2006; Rhoades & Slaughter, 2006; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.797]])
-> - 学术资本主义概念过于侧重经济维度，忽略了高等教育的公共功能——如提供可及的知识基础设施和高质量教育(Rhoten & Calhoun, 2011; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.797]])
+> - 学术资本主义概念过于侧重经济维度，忽略了高等教育的公共功能——如提供可及的知识基础设施和高质量教育(Rhoten & Calhoun, 2011;)
 > - 将大学转型简单归因于市场力量，可能低估了国家政策、[[Academic Oligarchy|专业寡头]]和话语实践在塑造高等教育秩序中的独立作用([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–799]])
 

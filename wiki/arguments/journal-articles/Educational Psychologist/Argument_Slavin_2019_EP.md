@@ -159,7 +159,7 @@ citation_aliases:
 > ("The design should be appropriate to the question being asked. ... When we want to know 'what works,' we must ask, 'Compared to what?'") (p. 10)
 >
 > > “其中的赢家将是数以百万计的儿童，特别是那些在当前体系中服务最不到位的儿童。”
-> ("The winners in this would be millions of children, especially those who are least well served by the current system.") (p. 12)
+> ("The winners in this would be millions of children, especially those who are least well served by the current system.")
 >
 > > “具备坚实证据基础且能像在验证研究中那样被实施的项目，很可能为儿童产生更好的结果。”
 > ("Programs with a strong evidence base that are implemented as they were in the validating research are likely to produce better outcomes for children.") (p. 3)
@@ -182,9 +182,9 @@ citation_aliases:
 > **批评内容** Slavin 未实质性回应 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 的三重缺陷批判、[[Argument_Cowen_2019_ERE|Cowen (2019)]] 的官僚功能分析、Deaton & Cartwright (2018) 的 [[Randomised Controlled Trials|RCT]] 哲学批评——仅将所有这些工作笼统归为"怀疑论"（skepticism），以此规避与批判阵营的核心论点进行正面交锋。
 >
 > **回避的核心论点**
-> - **[[Argument_Biesta_2010_SPE|Biesta (2010)]]**：知识缺陷——证据无法提供确定性，只提供过去关系的记录
-> - **[[Argument_Cowen_2019_ERE|Cowen (2019)]]**：[[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
-> - **Deaton & Cartwright (2018)**：RCT 不解决[[External Validity|外部效度]]问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
+> - **Biesta**：知识缺陷——证据无法提供确定性，只提供过去关系的记录
+> - **Cowen**：[[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
+> - **Deaton & Cartwright**：RCT 不解决[[External Validity|外部效度]]问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
 >
 > **影响** 此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效对话——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/Hattie 的支持）。
 >
@@ -205,7 +205,7 @@ citation_aliases:
 > - **项目实施的衰退** 项目从研究条件扩展到全国实施时，实施质量和效应量通常显著下降——这是医学（从 III 期到 IV 期）和教育共有的问题
 > - **证据标准的政治可操纵性** ESSA 的三级标准是政治妥协的产物——当政府变迁时，证据定义可能被重新协商
 >
-> **目前状态** Slavin 的良性循环愿景提供了方向性激励，但 Cowen (2019) 从制度逻辑角度指出 EBE 的韧性可能恰恰来自其服务于官僚需求（而非教育改进）——这一诊断暗示良性循环在制度层面面临的结构性障碍比 Slavin 承认的更为根本。
+> **目前状态** Slavin 的良性循环愿景提供了方向性激励，但 Cowen 从制度逻辑角度指出 EBE 的韧性可能恰恰来自其服务于官僚需求（而非教育改进）——这一诊断暗示良性循环在制度层面面临的结构性障碍比 Slavin 承认的更为根本。
 >
 > ### 对副作用的回避：Goodhart/Campbell 定律
 >

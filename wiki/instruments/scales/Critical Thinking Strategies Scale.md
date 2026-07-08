@@ -77,19 +77,19 @@ updated: 2026-07-01
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
 > | 1 | 努力澄清含义，并界定自己不熟悉的术语<br><small>Work to clarify meaning and define terms with which you are unfamiliar</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 2 | 努力理解新材料的重要性，判断它如何与既有知识或经验相衔接<br><small>Work to understand the significance of the new material to see how it fits with your prior knowledge or experience</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 3 | 用几种方式重新表述新问题，以澄清其含义和范围<br><small>Express the new question in several ways to clarify its meaning and scope</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 4 | 将问题拆分为若干子问题<br><small>Break the question into sub-questions</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 5 | 尝试识别正在提出的论证<br><small>Seek to identify arguments being made</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 6 | 努力分析正在提出的论证<br><small>Work to analyse arguments being made</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 7 | 尝试评估正在提出的主张，而不是被动接受<br><small>Seek to assess claims being made rather than passively accepting those claims</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 8 | 设想解决同一问题的替代方式<br><small>Imagine alternative ways to solve the same problem</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 9 | 根据现有证据对问题作出结论<br><small>Draw conclusions about a problem based on the evidence at hand</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 10 | 将自己的主张限制在现有证据能够支持的范围内<br><small>Restrict your claims to those supported by the evidence you have</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 11 | 搜索反对自己立场的信息，也搜索支持自己立场的信息<br><small>Search for information that opposes your position as well as information that supports it</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 12 | 思考自己的假设如何塑造自身观点<br><small>Consider how your assumptions are shaping your point of view</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 13 | 为自己解决问题或构建论证时使用的策略提供辩护<br><small>Be able to justify the strategies that you used to solve a problem or create an argument</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
-> | 14 | 以他人能够理解的方式呈现自己的论证<br><small>Be able to present your argument to others in a way that they will understand</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
+> | 2 | 努力理解新材料的重要性，判断它如何与既有知识或经验相衔接<br><small>Work to understand the significance of the new material to see how it fits with your prior knowledge or experience</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 3 | 用几种方式重新表述新问题，以澄清其含义和范围<br><small>Express the new question in several ways to clarify its meaning and scope</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 4 | 将问题拆分为若干子问题<br><small>Break the question into sub-questions</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 5 | 尝试识别正在提出的论证<br><small>Seek to identify arguments being made</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 6 | 努力分析正在提出的论证<br><small>Work to analyse arguments being made</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 7 | 尝试评估正在提出的主张，而不是被动接受<br><small>Seek to assess claims being made rather than passively accepting those claims</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 8 | 设想解决同一问题的替代方式<br><small>Imagine alternative ways to solve the same problem</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 9 | 根据现有证据对问题作出结论<br><small>Draw conclusions about a problem based on the evidence at hand</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 10 | 将自己的主张限制在现有证据能够支持的范围内<br><small>Restrict your claims to those supported by the evidence you have</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 11 | 搜索反对自己立场的信息，也搜索支持自己立场的信息<br><small>Search for information that opposes your position as well as information that supports it</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 12 | 思考自己的假设如何塑造自身观点<br><small>Consider how your assumptions are shaping your point of view</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 13 | 为自己解决问题或构建论证时使用的策略提供辩护<br><small>Be able to justify the strategies that you used to solve a problem or create an argument</small> | 1 至 7 | 正向计分 | Cole et al. |
+> | 14 | 以他人能够理解的方式呈现自己的论证<br><small>Be able to present your argument to others in a way that they will understand</small> | 1 至 7 | 正向计分 | Cole et al. |
 
 ---
 

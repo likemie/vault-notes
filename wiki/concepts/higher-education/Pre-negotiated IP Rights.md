@@ -2,9 +2,7 @@
 title: Pre-negotiated IP Rights
 aliases:
   - 预先协商知识产权
-  - Pre-negotiated IP Rights
   - 预先协商IP权利
-  - pre-negotiated IP rights
   - first right to negotiate
   - 优先谈判权
 summary: "国际产学合作中的知识产权策略概念，指在合作启动前、资产价值尚未显现的概念阶段预先协商权利安排，以避免资产升值后陷入竞争性谈判僵局"

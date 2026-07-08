@@ -54,8 +54,8 @@ updated: '2026-05-18'
 > - 差异表现：女生在教师评定成绩上整体高于男生，语文相关科目差异更明显([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, p.82]])。
 > - 关键机制：[[School Norm Adaptation]] 与 [[Motivation and Work Effort]] 是最强预测[[Variable|变量]]([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, pp.83-84]])。
 > - 作用路径：性别影响主要是间接作用，经由行为与评价机制交互实现([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, p.83]])。
-> - 测量差异：教师评定维度中的性别差异普遍大于学生自评维度，提示"评分来源"本身是解释框架的一部分([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, p.82]])。
-> - 教师评定行为维度中，[[Self-control]] 与 [[Assertiveness]] 也存在性别差异，但[[Effect Size|效应量]]低于规范适应与动机投入([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, p.82]])。
+> - 测量差异：教师评定维度中的性别差异普遍大于学生自评维度，提示"评分来源"本身是解释框架的一部分。
+> - 教师评定行为维度中，[[Self-control]] 与 [[Assertiveness]] 也存在性别差异，但[[Effect Size|效应量]]低于规范适应与动机投入。
 
 ## 与相关概念的区别
 
@@ -73,8 +73,8 @@ updated: '2026-05-18'
 > [!success] 实证发现
 > - 在 4128 名 5-10 年级学生样本中，性别差异与教师评定[[Variable|变量]]关联更强，学生自评变量的性别差异较小([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, pp.82-83]])。
 > - 分层回归显示，校内行为与动机变量可解释较大比例成绩方差，且对男女生方向一致([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, p.83]])。
-> - 回归模型解释率较高（男生 Adjusted R²=0.483；女生 Adjusted R²=0.452），说明校内变量可解释相当比例成绩波动([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, p.83]])。
-> - 性别变量在模型末端新增解释率约 0.2%，支持"非直接决定"结论([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, p.83]])。
+> - 回归模型解释率较高（男生 Adjusted R²=0.483；女生 Adjusted R²=0.452），说明校内变量可解释相当比例成绩波动。
+> - 性别变量在模型末端新增解释率约 0.2%，支持"非直接决定"结论。
 
 ## 待补充研究
 
@@ -87,7 +87,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - 如果成绩和关键解释[[Variable|变量]]都依赖教师评分，可能高估行为变量与成绩之间的关系强度([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, p.85]])。
-> - 研究虽强调性别不是直接决定因素，但对校外社会结构变量涉及有限([[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015, p.85]])。
+> - 研究虽强调性别不是直接决定因素，但对校外社会结构变量涉及有限。
 
 ## 相关案例／政策
 

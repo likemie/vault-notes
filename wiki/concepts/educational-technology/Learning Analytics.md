@@ -73,7 +73,7 @@ Behrens 和 DiCerbo（2014, pp.39–40）将教育数据的增长描述为从"�
 
 ### 学习者建模与预测
 
-学习分析的核心技术产出是"学习者模型"（learner models）——通过收集和分析学生的兴趣、动机、认知技能和行为数据，识别学业成功的预测因子(Pea, 2014; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。Antunes（2010, pp.353–363）提出的"ASAP 分类器"（ASAP classifiers）是一个典型例子：能够自动预测学生成功或失败概率的算法，以便在最早阶段实施对策([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。
+学习分析的核心技术产出是"学习者模型"（learner models）——通过收集和分析学生的兴趣、动机、认知技能和行为数据，识别学业成功的预测因子(Pea, 2014; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。Antunes（2010, pp.353–363）提出的"ASAP 分类器"（ASAP classifiers）是一个典型例子：能够自动预测学生成功或失败概率的算法，以便在最早阶段实施对策。
 
 ### 反馈与适应循环
 

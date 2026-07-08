@@ -122,7 +122,7 @@ Marton 的团队使用[[Phenomenology|现象学]]方法（phenomenological metho
 > [!success]
 > - Ference Marton 团队的[[Phenomenology|现象学]]研究表明，[[Chinese Learner|中国学习者]]将记忆作为通往理解的第一步而非终点([[Argument_Li_2012_Cambridge|Li, 2012, pp.138-139]])
 > - 越南学生中重复性学习与[[Surface and Deep Learning|深层学习]]策略之间存在强相关，而德国学生中几乎不存在此相关——研究者认定重复性学习对亚洲学生并非机械活动([[Argument_Li_2012_Cambridge|Li, 2012, p.139]])
-> - Li 指出，在这个问题上，研究者需要找到证据来"证明"中国／亚洲学习者确实在理解——这一事实本身就反映了"死记硬背"标签的广泛传播和根深蒂固的偏见([[Argument_Li_2012_Cambridge|Li, 2012, pp.138-139]])
+> - Li 指出，在这个问题上，研究者需要找到证据来"证明"中国／亚洲学习者确实在理解——这一事实本身就反映了"死记硬背"标签的广泛传播和根深蒂固的偏见
 
 ---
 

@@ -222,7 +222,7 @@ updated: 2026-05-20
 > - [[Decolonial Geopolitics of Knowledge]] — Mignolo 和 Dussel 的去殖民批判揭示当前知识经济化在[[Epistemology|认识论]]层面的殖民性延续
 > - [[Doreen Massey]] — Massey（2005）的[[Relational Space|关系性空间]]理论为 GPK 提供核心[[Ontology|本体论]]基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.5–7]]）
 > - [[Space-Making]] — [[Argument_Marginson_2025_ROE|Marginson（2025）]]基于 Lefebvre 和 Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践）
-> - [[Multiplicity]] — Massey 的多重性概念预测并解释全球化意外促进[[Heterogeneity|异质性]]而非同质化的趋势（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.5–7]]）
+> - [[Multiplicity]] — Massey 的多重性概念预测并解释全球化意外促进[[Heterogeneity|异质性]]而非同质化的趋势
 > - [[Global Regionalisms]] — Robertson et al.（2016）揭示高等教育如何通过区域整合项目成为地缘政治想象的核心支柱
 > - [[Global Education Industry]] — 经济化、商品化、私有化等概念为 GPK 提供"肥沃的土壤和生产性的推力"（Thompson & Parreira do Amaral, 2022, p.12）
 
@@ -372,7 +372,7 @@ updated: 2026-05-20
 > [!finding-cards]
 > 1. **作为国家权力的标志** "排名构成了国家权力的标志之一"（Cantwell, 2016, p.316）——拥有顶尖排名大学可以提升国家的国际声望和软实力（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.138]]）
 > 2. **作为不平等合法化的工具** 排名"确认、巩固和再生产高等教育的声望和权力"（Marginson, 2009, p.600），将全球[[Knowledge Production|知识生产]]中的资源差异和不均衡结构合法化为"自然的"等级秩序（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132, 134]]）
-> 3. **作为全球竞争驱动者** 排名驱动"高等教育中的市场式竞争"（Marginson, 2014, p.47），使高等教育从"以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16）（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.138]]）
+> 3. **作为全球竞争驱动者** 排名驱动"高等教育中的市场式竞争"（Marginson, 2014, p.47），使高等教育从"以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16）
 > 4. **认识论层面的治理效应** 排名"惩罚"那些履行公共使命而非追求研究卓越的机构——肯塔基大学案例中，USNWR 因该大学招收大量低收入和少数族裔学生而系统性压低其排名，迫使其在排名目标和赠地使命之间做出选择（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.125–126]]）
 > 5. **光环效应与路径依赖** "后来者、新兴大学和国家难以打入。排名对竞争中的大学并不'公平'——出发位置明显不对等"（Marginson, 2014, p.46, cit. in Boyadjieva, 2022, p.135）
 

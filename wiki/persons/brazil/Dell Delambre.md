@@ -56,7 +56,7 @@ updated: '2026-06-08'
 > - 在巴西里约热内卢工作和生活，任职于 WTS Sustainable Business & Coaching([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105]])
 > - 2013–2020 年在里约热内卢开展多案例实践研究，涵盖个体发展、地方发展（通过 [[Ecomuseology|生态博物馆]] 和剧场）、商业发展、学校发展、制度发展和可持续发展([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107]])
 > - 与巴西著名女演员和剧场导演 [[Camilla de Hollanda Amado]]（1941–2021）共同创立 Bora Bora em Bando 项目。Amado 的梦想是看到贫民窟知识被用于国家发展，该项目旨在帮助 Rocinha 贫民窟的 Bando Cultural Favelados da Rocinha 剧场团体获得社会可见度和认可。Amado 于 2021 年 6 月 6 日去世，享年 82 岁([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
-> - 开发 WTS Coaching 项目——将 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] [[Operationalization|操作化]]为教练实践([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107]])
+> - 开发 WTS Coaching 项目——将 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] [[Operationalization|操作化]]为教练实践
 
 ---
 

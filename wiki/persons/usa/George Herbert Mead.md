@@ -113,9 +113,9 @@ updated: '2026-06-22'
 
 > [!influence-path] 影响路径
 > - **理论路径** 其思想经学生布鲁默提炼为“[[Symbolic Interactionism|符号互动论]]”，并深刻启发了芝加哥社会学派的微观互动理论（如 Goffman 的拟剧论、Becker 的标签理论），成为诠释主义社会学的主要流派。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
-> - **方法路径** 为学校[[Ethnography|民族志]]、师生日常互动研究等微观教育社会学研究奠定了微观分析基础，并为[[Grounded Theory|扎根理论]]、[[Phenomenology|现象学]]研究等[[Qualitative Research|质性研究]][[Paradigm|范式]]提供了方法论辩护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
+> - **方法路径** 为学校[[Ethnography|民族志]]、师生日常互动研究等微观教育社会学研究奠定了微观分析基础，并为[[Grounded Theory|扎根理论]]、[[Phenomenology|现象学]]研究等[[Qualitative Research|质性研究]][[Paradigm|范式]]提供了方法论辩护。
 > - **政策路径** 并未直接进入联邦或国家层面的硬性政策文本，但其关于人与环境互动、主客体辩证建构的思想，为后期北欧等地的[[Progressive Education|进步主义教育]]与综合学校教育改革提供了民主和人本主义政策话语支持。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 7–8)]]
-> - **跨国／跨领域传播** 在 1990 年代被芬兰教育心理学家 Rauste-von Wright [[Transfer Translation Transformation|转译]]并与[[John Dewey|杜威]]思想融合，转化为“[[Pragmatic Constructivism|实用主义建构主义]]”，作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策的直接心理学与课程论基础。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 7–8)]]
+> - **跨国／跨领域传播** 在 1990 年代被芬兰教育心理学家 Rauste-von Wright [[Transfer Translation Transformation|转译]]并与[[John Dewey|杜威]]思想融合，转化为“[[Pragmatic Constructivism|实用主义建构主义]]”，作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策的直接心理学与课程论基础。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]] — 阐述了米德关于扮演他人角色以及符号沟通的思想如何奠定了质性研究中的[[Interpretive Paradigm|诠释范式]]。

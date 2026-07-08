@@ -50,7 +50,7 @@ updated: 2026-05-18
 >
 > > 该立法将"经过验证"（proven）定义为基于实验-对照组比较的、使用标准本位测量工具的证据。据 [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]] 所述，这是**历史上首次将联邦教育拨款与有效性证据直接挂钩**。
 >
-> 至 2001 年，CSR 拨款逐步增加至**每年 USD 310M**，已向超过 **2,600 所**学校提供资助——其中大多数为高贫困学校。(Southwest Educational Research Laboratory, 2002, cited in [[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+> 至 2001 年，CSR 拨款逐步增加至**每年 USD 310M**，已向超过 **2,600 所**学校提供资助——其中大多数为高贫困学校。(Southwest Educational Research Laboratory, 2002, cited in)
 
 ## 时间线
 
@@ -58,7 +58,7 @@ updated: 2026-05-18
 > - **1997** — Slavin 在 *Educational Researcher* 发表"Design Competitions"，提出将证据标准纳入联邦教育拨款的方案（Slavin, 1997, cited in [[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]]）
 > - **1998** — Obey-Porter 立法通过，CSR 拨款 USD 150M/年启动
 > - **1999** — 美国研究院（AIR）发布对 24 个全面改革模式的研究审查（Herman, 1999），将各类模式分为：强证据、有希望、边际、混合、弱/无效果、或无研究
-> - **1998–2002** — 共发放 2,665 笔 CSR 拨款，但仅 20.8% 流向强证据项目，63.2% 流向混合/无研究项目或未纳入 AIR 审查的自创/地方模型（Southwest Educational Research Laboratory, 2002, cited in [[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]]）
+> - **1998–2002** — 共发放 2,665 笔 CSR 拨款，但仅 20.8% 流向强证据项目，63.2% 流向混合/无研究项目或未纳入 AIR 审查的自创/地方模型（Southwest Educational Research Laboratory, 2002, cited in）
 > - **2001** — CSR 拨款增至 USD 310M/年；[[No Child Left Behind Act 2001|NCLB]] 通过，收紧"经过验证"和"全面"的定义，更强调科学本位证据
 > - **2002** — 美国教育部发布 CSR 更新指南，但州级官员仍保留广泛裁量权
 

@@ -92,11 +92,11 @@ citation_aliases:
 >
 > ### 2. 现实案例验证
 >
-> **Merrell & Kasim (2015) 语音干预**：同一干预在同一样本上，NGRT d=0.43，SWRT d=0.38，PhAB d=0.23(p.102)。
+> **Merrell & Kasim (2015) 语音干预**：同一干预在同一样本上，NGRT d=0.43，SWRT d=0.38，PhAB d=0.23。
 >
 > **REACH 阅读支持项目**(Sibieta, 2016)：同一样本，NGRT d=0.33，阅读理解 d=-0.08，阅读准确性 d=0.17——"按 EEF 的月数进步指标，我们不得不得出结论：同一干预导致了 4 个月进步、2 个月进步和 1 个月退步"(p.103)。
 >
-> **Nuffield 早期语言干预**(Sibieta, Kotecha, & Skipp, 2016)：主要结果（四项测量复合）d=0.27，次要结果（三项测量复合）d=0.06(p.103)。
+> **Nuffield 早期语言干预**(Sibieta, Kotecha, & Skipp, 2016)：主要结果（四项测量复合）d=0.27，次要结果（三项测量复合）d=0.06。
 >
 > ### 3. 效应量的真实含义：试验清晰度
 >
@@ -116,15 +116,15 @@ citation_aliases:
 > 将效应量误认为教育影响力的测量是一个**范畴错误（category error）**，但范畴错误有轻重之分(p.105)：
 > - 按身高而非腿长选购裤子——**较小的范畴错误**（两者有相关性，偶尔能碰对）
 > - 按姓氏长度选购裤子——**较大的范畴错误**（无相关，不比随机更好）
-> - 效应量作为教育影响力的代理——属于后者：教育影响力是情境绑定的概念，效应量取决于研究者设计选择，"几乎没有明显的理由相信教育影响力与研究的清晰度（或噪声的缺乏）密切相关"(p.105)
+> - 效应量作为教育影响力的代理——属于后者：教育影响力是情境绑定的概念，效应量取决于研究者设计选择，"几乎没有明显的理由相信教育影响力与研究的清晰度（或噪声的缺乏）密切相关"
 >
 > **CPR 教学反例(p.105-106)** 教人心脏复苏术——在正确情境下"字面意义上救命"——如果在异质样本上测试、使用标准化急救测试（而非 CPR 专项测试）、与某种较有效的替代教学法比较（而非"无 CPR 教学"对照），可能产生很小的效应量。"如果我们把效应量解读为实践显著性而非试验清晰度，我们可能拒绝一个实际上非常重要的方法。"
 >
 > ### 5. 效应量的合法技术角色
 >
-> 效应量在**研究设计**中有合法用途：它可以告诉未来的研究者，在类似的测试（以及样本和控制活动）下，他们可以预期的噪声水平，从而调整样本量、减少样本[[Heterogeneity|异质性]]、选择和修改测量工具、增强与控制组的对比度等(p.104)。
+> 效应量在**研究设计**中有合法用途：它可以告诉未来的研究者，在类似的测试（以及样本和控制活动）下，他们可以预期的噪声水平，从而调整样本量、减少样本[[Heterogeneity|异质性]]、选择和修改测量工具、增强与控制组的对比度等。
 >
-> 合并效应量仅在极端条件下有意义："当且仅当同一干预在多项研究中使用相同的样本、与相同的控制活动比较、在相同的测量上（并使用相同的研究设计和统计分析方法）进行评估时，才能合并这些研究的效应量"(p.106)。"当然，在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"(p.106)。
+> 合并效应量仅在极端条件下有意义："当且仅当同一干预在多项研究中使用相同的样本、与相同的控制活动比较、在相同的测量上（并使用相同的研究设计和统计分析方法）进行评估时，才能合并这些研究的效应量"(p.106)。"当然，在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"。
 
 ## 主要发现
 
@@ -144,7 +144,7 @@ citation_aliases:
 > ("Mistaking effect size for a measure of educational importance or influence is, then, a category error.") (p.105)
 >
 > > “像反馈和元认知这样的[[Direct Instruction|直接教学]]干预出现在[[Meta-meta-analysis|元-元分析]]榜单顶部，只能被视为一种证据：表明与行为干预或暑期学校相比，研究者发现这些领域更容易开展低噪音的实验。”
-> ("The appearance of [[Direct Instruction]] interventions like [[Feedback]] and meta-cognition at the top of meta-meta-analytic tables should be taken only as evidence that researchers have found it easier to conduct less noisy experiments in these areas compared to behaviour interventions or summer schools.") (p.105)
+> ("The appearance of [[Direct Instruction]] interventions like [[Feedback]] and meta-cognition at the top of meta-meta-analytic tables should be taken only as evidence that researchers have found it easier to conduct less noisy experiments in these areas compared to behaviour interventions or summer schools.")
 >
 > > “某些干预形式被推广为更有效，而事实上，证据仅仅表明在这些领域开展更清晰的研究可能更容易。这种错误识别正在引导政策，驱动稀缺资源的使用，并导致教学方法的重大改变。这就是危害所在。”
 > ("Forms of intervention are promoted as more effective when, in fact, the evidence merely indicates they are areas in which it may be easier to conduct clearer studies. This misidentification is leading policy, driving the use of scarce resources and causing major changes in teaching methods. There's the harm.") (p.108)

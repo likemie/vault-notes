@@ -4,7 +4,6 @@ aliases:
   - 质性研究
   - 质的研究
   - 定性研究
-  - 描述性方法
   - 质性描述性方法
   - Qualitative Descriptive Method
   - descriptive qualitative research
@@ -115,7 +114,7 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 
 > [!example] 操作步骤
 > - **不操纵自[[Variable|变量]]**：质性研究在该文分类中属于[[Non-intervention Research|非干预研究]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
-> - **使用文本数据** 数据例子包括访谈文本和观察文本([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **使用文本数据** 数据例子包括访谈文本和观察文本。
 > - **以解释和理解为主要目标** 该文没有展开质性分析程序，但将其放入方法多元化趋势中，强调不同经验方法可通过不同透镜研究教育现象([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ## 数据收集类型
@@ -199,7 +198,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 
 > [!example] 示例分析：Miller（1992）——完整质性方法部分的逐项拆解
 >
-> Miller（1992）的博士论文方案以[[Ethnography|民族志]]方法研究一所四年制州立学院新校长第一年的经历。第 9 章将其完整方法部分逐段呈现并标注了对应的章节主题。以下按 Miller 原文的结构逐项拆解。
+> Miller的博士论文方案以[[Ethnography|民族志]]方法研究一所四年制州立学院新校长第一年的经历。第 9 章将其完整方法部分逐段呈现并标注了对应的章节主题。以下按 Miller 原文的结构逐项拆解。
 >
 > **一、质性研究[[Paradigm|范式]]的声明**
 >

@@ -58,9 +58,9 @@ updated: '2026-05-18'
 > [!info] 核心主张
 > Campbellian 效度框架是一个关于实验设计中[[Causality|因果推断]]效度的[[Luhmann's Systems Theory|系统理论]]框架，其核心主张是：任何能够产生因果证据的实验设计都需要通过排除对[[Internal Validity|内部效度]]的威胁来建立因果关系，然后才能进一步考虑这种因果关系的推广范围([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 >
-> > "The Campbellian validity framework (Shadish 1995; Shadish et al. 2002) applies to a broad number of designs that are capable of yielding causal evidence." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
+> > "The Campbellian validity framework (Shadish 1995; Shadish et al. 2002) applies to a broad number of designs that are capable of yielding causal evidence."
 >
-> 该框架的适用范围不限于某一特定设计类型——它统一适用于[[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design|单一个案设计]]（[[Single-Case Design|SCD]]）等多种能够产生因果证据的设计([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
+> 该框架的适用范围不限于某一特定设计类型——它统一适用于[[Randomised Controlled Trials|随机对照试验]]（RCT）、[[Quasi-Experimental Designs|准实验设计]]、[[Single-Case Design|单一个案设计]]（[[Single-Case Design|SCD]]）等多种能够产生因果证据的设计。
 >
 > > 例：无论是 RCT 通过[[Random Assignment|随机分配]]控制选择偏差，还是 SCD 通过重复测量和阶段对比排除成熟效应，两者都在应用 Campbellian 框架的同一逻辑——识别并排除对因果推断的替代解释。
 
@@ -75,7 +75,7 @@ updated: '2026-05-18'
 >
 > > 例：在评估一种新的阅读干预时，如果学生的阅读成绩在干预后提高了，这可能是干预的效果，也可能是因为学生自然成熟（maturation）或在干预期间学校同时推行了其他阅读计划（history）。一个好的实验设计需要排除这些替代解释。
 >
-> **内部效度的常见威胁**(Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])：
+> **内部效度的常见威胁**(Shadish et al., 2002;)：
 >
 > | 威胁 | 含义 | [[Single-Case Design\|SCD]] 中的控制方式 |
 > |------|------|-----------------|
@@ -85,13 +85,13 @@ updated: '2026-05-18'
 > | 处理扩散（Diffusion of Treatment） | 干预效果扩散到控制条件 | 需要验证控制条件是否未被干预"污染" |
 > | 工具化（Instrumentation） | 测量工具或观察者标准变化 | 要求结果被可靠测量（[[Reliability\|信度]]证据） |
 >
-> [[Single-Case Design|SCD]] 可以通过设计使这些替代解释变得不可信。识别这些设计特征的存在即可产生关于"干预是否按预期起作用"的判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
+> [[Single-Case Design|SCD]] 可以通过设计使这些替代解释变得不可信。识别这些设计特征的存在即可产生关于"干预是否按预期起作用"的判断。
 
 
 > [!abstract] [[External Validity|外部效度]]（External Validity）
 > **定义**[[External Validity|外部效度]]指某项研究的因果推断在不同情境、场所、测量工具、人群等条件下仍然成立的程度——可视为推广性（generalization）的一个广泛面向(Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 >
-> > "External validity refers to the extent to which causal inference from a particular study holds over different contexts, settings, measures, populations, and so on." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
+> > "External validity refers to the extent to which causal inference from a particular study holds over different contexts, settings, measures, populations, and so on."
 >
 > > 例：一项在郊区高收入学校进行的 SCD 研究发现某种行为干预有效——但该发现能否推广到城市低收入学校？能否推广到不同年龄的学生？能否推广到不同的行为结果（如从课堂参与推广到学业成绩）？这些都是外部效度问题。
 >
@@ -103,7 +103,7 @@ updated: '2026-05-18'
 > 2. **推广目标未知** 进行证据综合的审查者"可能不知道信息消费者希望推广到哪个点"（p.463）——消费者可能是政策制定者（关注全国范围推广）、学区管理者（关注本地适配）或一线教师（关注特定学生群体）
 > 3. **SCD 面临额外偏见** 存在一种普遍（但错误）的信念认为 SCD 证据不能推广，尽管事实上它可以(Barlow et al., 2009; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])
 >
-> **外部效度的常见威胁**(Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])：
+> **外部效度的常见威胁**(Kazdin, 2011; Shadish et al., 2002;)：
 >
 > | 威胁 | 含义 |
 > |------|------|
@@ -112,7 +112,7 @@ updated: '2026-05-18'
 > | 跨被试推广性（Generality across Subjects） | 效果是否适用于不同于原研究被试特征的人群 |
 > | 跨结果推广性（Generality across Outcomes） | 效果是否在类似但不同的结果变量上成立 |
 >
-> 这些威胁处理的基本问题：观察到的效果是否会在被试特征、场所细节和类似但不同的结果类型的变化下仍然成立([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
+> 这些威胁处理的基本问题：观察到的效果是否会在被试特征、场所细节和类似但不同的结果类型的变化下仍然成立。
 
 
 > [!abstract] 内部效度与外部效度的关系

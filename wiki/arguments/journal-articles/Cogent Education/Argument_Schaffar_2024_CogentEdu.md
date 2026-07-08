@@ -140,12 +140,12 @@ updated: 2026-06-22
 > [!chain-link] [[Phenomenology|现象学]]体验链
 > - **回到事物本身（Zurück zu den Sachen selbst）** 依据 Kant 与 Husserl 的哲学命题，任何意义皆源于直觉（Intuitions），必须回归事物本身，且事物始终与人的意识相互关联。(pp.3–4)
 > - **生活世界的嵌入性（Lifeworld Embedding）** Husserl 提出体验主体在世存在（Being in the world）并嵌入日常生活世界之中，一切真知皆源于主观经验的意义建构。(p.4)
-> - **具身认知与主体间性（Embodiment & Intersubjectivity）** Merleau-Ponty 进一步将具身（Embodied）经验置于认知之前，强调人的社会性与身体在世存在。主体间性包含个人反思，并指向共同体在特定时空中的协同反思、信任与情感共鸣。(p.4)
+> - **具身认知与主体间性（Embodiment & Intersubjectivity）** Merleau-Ponty 进一步将具身（Embodied）经验置于认知之前，强调人的社会性与身体在世存在。主体间性包含个人反思，并指向共同体在特定时空中的协同反思、信任与情感共鸣。
 
 > [!exegesis]- 现象学概念的教育解读与范例
 > 为使上述抽象概念易于理解，可将其置于具体的教育情境中。
 > - **回到事物本身的教学含义** 例如学生在生物课上学习叶子。对学生而言，叶子首先是通过绿色、粗糙的质感、叶绿素的气味以及校门口大树的记忆被直观感知到的。教学应从这种丰富的直观联系开始，而不应直接跳入抽象的生化公式与中立标本。(p.4)
-> - **生活世界的教学含义** 例如学习气候变化时不应仅呈现全球气温曲线等抽象数据，而应连接到学生的生活世界，如观察家乡的冬天变暖、学校操场的草坪提前干枯、或因极端高温不得不缩短户外体育课。知识的建构必须以这些切身的日常体验为根基。(p.4)
+> - **生活世界的教学含义** 例如学习气候变化时不应仅呈现全球气温曲线等抽象数据，而应连接到学生的生活世界，如观察家乡的冬天变暖、学校操场的草坪提前干枯、或因极端高温不得不缩短户外体育课。知识的建构必须以这些切身的日常体验为根基。
 > - **具身与主体间性的教学含义** 例如在 SveaSus 项目中，学生在风吹雨打的芬兰堡岛屿上用双脚行走，亲手触摸历史石墙并感受空气的冷冽，这展现了**具身学习**。在小组合作讨论如何保护遗产地时，他们分享彼此的担忧、信任与困惑，在共同的时空交互中建立集体责任感，这展现了学习中的**主体间性**。(pp.1, 4)
 
 > [!warrant]- 推理桥梁：体验的存在论本质
@@ -161,9 +161,9 @@ updated: 2026-06-22
 > [!contrast-table] 学科秩序的演变与整合
 > | 历史阶段 / 理论 | 知识组织方式 | 对现象的理解方式 |
 > |-----------------|--------------|------------------|
-> | **古希腊亚里士多德秩序**<br>Aristotelian Order | 区分理论科学（数学/物理/生物）、实践科学（伦理/政治）与生产科学（技术/艺术）。(p.5) | 将知识归于宇宙秩序定位与人类社会实践的不同现象。(p.5) |
-> | **中世纪七艺**<br>Seven Liberal Arts | 分为三科（Trivium：语法/逻辑/修辞）与四艺（Quadrivium：算术/几何/音乐/天文）。(p.5) | 视沟通媒介与时空数量关系为观察世界的系统窗口。(p.5) |
-> | **批判现实主义知识观**<br>Critical Realism (Wheelahan) | 强调[[Discipline-Based Theory\|学科理论]]知识具有自身的[[Ontology\|本体论]]深度（Ontological depth）和内在逻辑结构。(p.5) | 警告将系统知识拆解为细碎能力单元会削弱学科的教育价值。(p.5) |
+> | **古希腊亚里士多德秩序**<br>Aristotelian Order | 区分理论科学（数学/物理/生物）、实践科学（伦理/政治）与生产科学（技术/艺术）。(p.5) | 将知识归于宇宙秩序定位与人类社会实践的不同现象。 |
+> | **中世纪七艺**<br>Seven Liberal Arts | 分为三科（Trivium：语法/逻辑/修辞）与四艺（Quadrivium：算术/几何/音乐/天文）。 | 视沟通媒介与时空数量关系为观察世界的系统窗口。 |
+> | **批判现实主义知识观**<br>Critical Realism (Wheelahan) | 强调[[Discipline-Based Theory\|学科理论]]知识具有自身的[[Ontology\|本体论]]深度（Ontological depth）和内在逻辑结构。 | 警告将系统知识拆解为细碎能力单元会削弱学科的教育价值。 |
 
 > [!warrant]- 推理桥梁：从学科深度走向跨学科广度
 > 学科的演变逻辑表明，人类分类知识正是为了更好地解释特定现象。因此，PhBL 应当引导学生遵循人类好奇心的历史足迹，既尊重学科内部的理论逻辑，又根据[[Epochal Key Problems\|时代关键问题]]重新统合知识，而不应模糊学科边界。(pp.4–5)
@@ -188,8 +188,8 @@ updated: 2026-06-22
 
 > [!timeline] 芬兰教育心理学与建构主义演进史
 > - **19世纪末至20世纪初** Herbart 的心理学教育观在芬兰占据主导地位（由 Soininen 和 Lilius 推动），注重实证教育研究。同时，Meumann 在汉堡的实验教育学实验室成为芬兰学界效仿的典范。(p.7)
-> - **20世纪中叶** 战后芬兰教育心理学经历了两十余年的行为主义霸权统治，倾向于通过外部刺激控制和测量学习行为。(p.7)
-> - **20世纪末的建构主义转向** 学界重新关注学生的自我调节（Self-regulation）与主动认知建构。(p.7)
+> - **20世纪中叶** 战后芬兰教育心理学经历了两十余年的行为主义霸权统治，倾向于通过外部刺激控制和测量学习行为。
+> - **20世纪末的建构主义转向** 学界重新关注学生的自我调节（Self-regulation）与主动认知建构。
 > - **1990年代 PhBL 模型的诞生** 赫尔辛基大学的 Rauste-von Wright 将 Dewey 的反思理念与 [[George Herbert Mead|Mead]] 的社会互动理论融合为[[Pragmatic Constructivism|实用主义建构主义]]。她系统化了 PhBL 模型，并称其为课程的自我修正模型（Self-correcting model of curriculum），旨在打破理论与实践的传统隔阂。(pp.7–8)
 
 ---
@@ -236,7 +236,7 @@ updated: 2026-06-22
 
 > [!finding-cards] 核心发现
 > 1. **学科建制依然稳固** 芬兰基础教育改革并未用 [[Phenomenon-Based Learning|PhBL]] 全面取代传统学科，国际上关于芬兰学校取消学科分类的报道属媒体误读。(p.2)
-> 2. **课程文本的概念隐匿** 在芬兰语核心课程文本原版中并不存在现象本位学习（PhBL）这一专属复合术语，而是通过高频使用现象（ilmiö）概念及其与其他词汇的动态组合来渗透其教学精神。(p.2)
+> 2. **课程文本的概念隐匿** 在芬兰语核心课程文本原版中并不存在现象本位学习（PhBL）这一专属复合术语，而是通过高频使用现象（ilmiö）概念及其与其他词汇的动态组合来渗透其教学精神。
 > 3. **[[Pragmatic Constructivism|实用主义建构主义]]的奠基** Rauste-von Wright 在1990年代将 Dewey 的反思理念与 [[George Herbert Mead|Mead]] 的社会互动理论结合，界定 PhBL 为课程自我修正模型，构成了芬兰 PhBL 政策的心理学基石。(pp.7–8)
 > 4. **新自由主义治理悖论** PhBL 的课程化过程深度卷入了 [[OECD]] 及欧盟的全球教育治理框架，导致其整体性体验理想与绩效问责下的技能原子化倾向产生持续张力。(pp.8–10)
 
@@ -247,17 +247,17 @@ updated: 2026-06-22
 > [!citation-card]- 关于 [[Phenomenon-Based Learning|PhBL]] 定位与局限的反思
 > 现象导向学习方法并非包治百病的灵丹妙药，也不是能够迅速解决教育问题的权宜之计……(p.11)
 > 
-> *The PhBL approach is neither a salvation approach, nor a quick-fix-method...*(p.11)
+> *The PhBL approach is neither a salvation approach, nor a quick-fix-method...*
 
 > [!citation-card]- 国际媒体对芬兰学科的误读澄清
 > 芬兰的课程体系仍然是建立在传统学校学科的基础之上……(p.2)
 > 
-> *The Finnish curriculum is still structured according to traditional school subjects...*(p.2)
+> *The Finnish curriculum is still structured according to traditional school subjects...*
 
 > [!citation-card]- 学习的[[Phenomenology|现象学]]本质
 > 现象学学习观将学习视为具身的、情绪化的和实验性的，而非能够被量化或项目化的东西。(p.4)
 > 
-> *A phenomenological approach to learning sees learning as something embodied, emotional, and experimental, and not as something quantified or itemized.*(p.4)
+> *A phenomenological approach to learning sees learning as something embodied, emotional, and experimental, and not as something quantified or itemized.*
 
 ---
 

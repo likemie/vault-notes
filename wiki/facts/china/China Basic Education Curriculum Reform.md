@@ -71,7 +71,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - **大城市先行** 北京、上海、广州等大城市的许多学校已深入推进改革([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.55]])
-> - **偏远地区跟进** 内蒙古（Mitchell, Ryan, Kang, & Erikson, 2007）和甘肃省（Hannum & Park, 2007; Robinson, 2008; Sargent & Hannum, 2008）也已展开相关工作([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.55]])
+> - **偏远地区跟进** 内蒙古（Mitchell, Ryan, Kang, & Erikson, 2007）和甘肃省（Hannum & Park, 2007; Robinson, 2008; Sargent & Hannum, 2008）也已展开相关工作
 > - **教师层面的实践** 中国教师积极参与实验创新教学，包括高水平的师生互动和教学创新，并持续进行研究、发表、传播、反思和寻求对教学信念与实践的反馈（Mitchell, Ryan, Kang, & Erikson, 2007, 转引自 Ryan, 2010, pp.53–54）
 > - **国际交流** 中国学者与加拿大、澳大利亚学者就课程改革和教师专业发展开展合作([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.53]])
 

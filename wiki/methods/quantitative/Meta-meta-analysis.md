@@ -92,7 +92,7 @@ updated: '2026-05-21'
 ## 定义
 
 > [!info] 定义
-> 元-[[Meta-analysis|元分析]]（Meta-meta-analysis，也称 Mega-analysis）是一种将多个已发表的元分析结果在更高层次上进行统计综合的方法——"改变层次，组合元分析，尝试开发一个元-元分析"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])。与普通[[Meta-analysis|元分析]]综合原始研究不同，元-元分析综合的是已聚合的[[Effect Size|效应量]]，从而大幅扩大参照范围([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])。
+> 元-[[Meta-analysis|元分析]]（Meta-meta-analysis，也称 Mega-analysis）是一种将多个已发表的元分析结果在更高层次上进行统计综合的方法——"改变层次，组合元分析，尝试开发一个元-元分析"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])。与普通[[Meta-analysis|元分析]]综合原始研究不同，元-元分析综合的是已聚合的[[Effect Size|效应量]]，从而大幅扩大参照范围。
 >
 > > 例：Hattie (2009) 的 *[[Visible Learning]]* 综合了 816 项元分析（涵盖 52,649 项原始研究、83,033,433 名参与者、146,626 个效应量），产生 138 个影响因素的效应量排名——这是该方法的标志性应用([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]])。[[EEF Teaching and Learning Toolkit]] 是另一个采用类似逻辑的政策工具，将效应量转换为"额外学习月数"并按成本、有效性和证据确定性三个维度排名。
 >
@@ -111,9 +111,9 @@ updated: '2026-05-21'
 > | mega-analysis | Smith (1982) | 强调规模上的扩展 |
 > | super-analysis | Dillon (1982) | 强调层级上的超越 |
 > | super-synthesis | Sipe & Curlette (1996) | 强调综合过程 |
-> | meta-synthesis | Sipe & Curlette (1996); [[Argument_Higgins_2016_RE\|Higgins (2016)]] | 当前较通用的术语 |
+> | meta-synthesis | Sipe & Curlette; [[Argument_Higgins_2016_RE\|Higgins (2016)]] | 当前较通用的术语 |
 >
-> [[Argument_Higgins_2016_RE|Higgins (2016)]]区分了两种不同的用法：一些研究者将元分析作为单位来研究元分析过程本身的统计特征（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；另一些则试图将不同元分析合并为关于更一般主题的单一信息（如 Hattie, 1992; Marzano, 1998）。后者面临更深层的可比性挑战。
+> Higgins区分了两种不同的用法：一些研究者将元分析作为单位来研究元分析过程本身的统计特征（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；另一些则试图将不同元分析合并为关于更一般主题的单一信息（如 Hattie, 1992; Marzano, 1998）。后者面临更深层的可比性挑战。
 
 ---
 
@@ -130,19 +130,19 @@ updated: '2026-05-21'
 >
 > **Sipe & Curlette（1997）——系统性方法论推进**
 >
-> Sipe & Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行[[Moderator Analysis|调节变量分析]]。他们估计其纳入的元分析与 Fraser et al.（1987）和 Hattie（1992）的重叠不到 10%([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
+> Sipe & Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行[[Moderator Analysis|调节变量分析]]。他们估计其纳入的元分析与 Fraser et al.和 Hattie的重叠不到 10%([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
 >
 > **Marzano（1998）——理论驱动的元综合**
 >
-> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验-控制组比较。其关键贡献是批评"品牌名"聚合做法——用宽泛标签代表包含多种活性成分的复杂干预——并按四层学习系统（知识、认知、[[Metacognition|元认知]]、自我系统）分类教学策略，追求课堂实践的可操作性([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
+> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验-控制组比较。其关键贡献是批评"品牌名"聚合做法——用宽泛标签代表包含多种活性成分的复杂干预——并按四层学习系统（知识、认知、[[Metacognition|元认知]]、自我系统）分类教学策略，追求课堂实践的可操作性。
 >
 > > [!warning] "品牌名"聚合的具体案例
-> > Marzano 以 Athappilly et al.（1983）的"现代数学"元分析为例。该元分析被纳入 Fraser et al.（1987），其中"现代数学"这个品牌名下包含多种不同成分：
+> > Marzano 以 Athappilly et al.（1983）的"现代数学"元分析为例。该元分析被纳入 Fraser et al.，其中"现代数学"这个品牌名下包含多种不同成分：
 > > - 使用操作教具，[[Effect Size|效应量]] 0.51
 > > - [[Direct Instruction|直接教学]]概念和原理，效应量 0.35
 > > - 使用探究方法，效应量 0.04
 > >
-> > 将这些聚合为单一品牌，掩盖了关于教学有效性的关键发现。更细粒度的类别才能为教师的课堂实践提供足够具体的指导([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
+> > 将这些聚合为单一品牌，掩盖了关于教学有效性的关键发现。更细粒度的类别才能为教师的课堂实践提供足够具体的指导。
 >
 > **Hattie（2008）——[[Visible Learning]]**
 >
@@ -296,11 +296,11 @@ updated: '2026-05-21'
 >
 > **[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]]——三种效应量公式的不可比性。** [[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017, pp.241–245)]]构造受控数值示例，证明组间比较、前后比较和相关转换三种公式对同一组数据产生不可调和的矛盾排名——详见 [[Effect Size#三种效应量公式及其不可比性]]。在元-元分析层面，这意味着 Hattie 混合使用了回答不同问题、使用不同分母的效应量，而二级汇总未做任何校正([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.241]])。
 >
-> **[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]——方法论不透明与读者无法验证。** [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]对 Hattie 的元-元分析进行了直接的透明度批判，其独特贡献在于**从读者视角**展示了方法论的不透明性如何使普通教育者无法验证其主张：
+> **[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]——方法论不透明与读者无法验证。** Johnson & Janzen对 Hattie 的元-元分析进行了直接的透明度批判，其独特贡献在于**从读者视角**展示了方法论的不透明性如何使普通教育者无法验证其主张：
 >
 > - **[[Homework|家庭作业]]效应量的逐步重构**：Hattie 声称综合了 5 项元分析（161 项研究、10 万多名学生）得出 d=0.29。Johnson & Janzen 通过手动搜索附录 A 找到了 5 个被隐藏的 Cohen's d 值（d=0.36, 0.21, 0.39, 0.21, 0.28），确认算术平均为 0.29，但指出 5、161、100,000 这些数字实际上并不构成 d=0.29 的计算基础，后者只是未声明数值的平均([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp.25–26]])
 > - **不透明与伪科学的关联** 伪科学工作的特征是既放大其数学 sophistication 又模糊其本质，而《可见的学习》的方法论章节篇幅极短却声称找到了教育的"圣杯"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.26]])
-> - **普通教育者无法验证** 一般的中小学教育者不太可能有时间、技能或渠道来挑战 Hattie 的主张([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.26]])
+> - **普通教育者无法验证** 一般的中小学教育者不太可能有时间、技能或渠道来挑战 Hattie 的主张
 > - **Glass & Smith (1979) 效应量提取不透明**：详见 [[Class Size#Johnson & Janzen (2023) 的五层拆解]]。《可见的学习》从 Glass & Smith 的最大规模班级规模元分析中提取的 d=0.09 并非 Glass & Smith 自己报告的值([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.32–33]])
 
 
@@ -309,13 +309,13 @@ updated: '2026-05-21'
 >
 > **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——信息损失与失真。** [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]识别了元-元分析最根本的局限——**通过反复累积，原始的详细经验信息系统性消失**。具体表现为：原始研究的情境细节被元分析消除；元分析的调节变量信息在二级聚合中进一步消失；不同质[[Quantitative Research|量的研究]]在各级聚合中被等同对待。
 >
-> > "你能用来自不同项目、不同方法的研究结果做同样的事吗？……还是你累积的越多，在更低分析层次已被累积的东西越多，证据的稳健性就越降低？"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
+> > "你能用来自不同项目、不同方法的研究结果做同样的事吗？……还是你累积的越多，在更低分析层次已被累积的东西越多，证据的稳健性就越降低？"
 >
-> **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——数据库质量异质性与纳入标准不透明。** 三个具体问题([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.428–429]])：(1) **质量异质性**——纳入的元分析"可能有且确实有不同的针对个体研究的严格纳入标准"，数据库的纯粹规模令人印象深刻但质量非常异质；(2) **纳入标准不透明**——Hattie 未"向读者提供关于他在决定某研究是否纳入时使用的质量标准的准确信息"；(3) **时效性问题**——多数元分析来自 1980s–1990s，考虑原始研究平均约 5 年前发表，"原始数据库的大部分大概不是最新的"。
+> **Terhart——数据库质量异质性与纳入标准不透明。** 三个具体问题([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.428–429]])：(1) **质量异质性**——纳入的元分析"可能有且确实有不同的针对个体研究的严格纳入标准"，数据库的纯粹规模令人印象深刻但质量非常异质；(2) **纳入标准不透明**——Hattie 未"向读者提供关于他在决定某研究是否纳入时使用的质量标准的准确信息"；(3) **时效性问题**——多数元分析来自 1980s–1990s，考虑原始研究平均约 5 年前发表，"原始数据库的大部分大概不是最新的"。
 
 
 > [!warning] [[Epistemology|认识论]]困境与角色争议
-> **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——稳定性与变异性的双重困境。** [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]提出了元-元分析的根本困境：(1) **稳定性假说**——许多因素的结果已高度稳定，进一步研究只会渐近逼近已知结论，"继续这个过程到什么时候才有意义？"；(2) **变异性假说**——某些领域的发现已过时（如 Hattie 关于教师教育影响的元-元分析在《可见的学习》出版时已被新的研究结果超越）。由于元-元分析同时支持两种假说，"很明显 Hattie 事实上没有找到圣杯"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])。
+> **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——稳定性与变异性的双重困境。** [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]提出了元-元分析的根本困境：(1) **稳定性假说**——许多因素的结果已高度稳定，进一步研究只会渐近逼近已知结论，"继续这个过程到什么时候才有意义？"；(2) **变异性假说**——某些领域的发现已过时（如 Hattie 关于教师教育影响的元-元分析在《可见的学习》出版时已被新的研究结果超越）。由于元-元分析同时支持两种假说，"很明显 Hattie 事实上没有找到圣杯"。
 >
 > **[[Argument_Wiliam_2019_ERE|Wiliam (2019)]]——元-元分析在教育政策中绝对没有任何角色。** [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]做出了[[Evidence-Based Education|证据本位教育]]批判文献中对元-元分析最彻底的否定：
 >
@@ -340,11 +340,11 @@ updated: '2026-05-21'
 >
 > Hattie 将它们相加除以 4 → d = 0.06，据此宣布全语言"对学习阅读的影响可忽略不计"——未对元分析的研究数量、质量或规模进行任何加权([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]])。
 >
-> **第一项元分析：研究的是另一回事。** Stahl & Miller（1989）的标题明确包含"Whole language **and language experience** approaches"。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl 本人在五年后承认将[[Language Experience Approach|语言经验法]]等同于全语言是"时代错误的"（anachronistic），并明确排除了纯粹涉及语言经验法的研究。Hattie 在《可见的学习》中对此只字不提([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.144–145]])。
+> **第一项元分析：研究的是另一回事。** Stahl & Miller的标题明确包含"Whole language **and language experience** approaches"。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl 本人在五年后承认将[[Language Experience Approach|语言经验法]]等同于全语言是"时代错误的"（anachronistic），并明确排除了纯粹涉及语言经验法的研究。Hattie 在《可见的学习》中对此只字不提([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.144–145]])。
 >
-> **第二项元分析：Jeynes & Littell 的 −0.65——极端异常值，不加审视。** Jeynes & Littell（2000）的 d=−0.65 是《可见的学习》800 多项元分析中仅有的两个低于 −0.5 的效应量之一。Hattie 未做审查([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
+> **第二项元分析：Jeynes & Littell 的 −0.65——极端异常值，不加审视。** Jeynes & Littell的 d=−0.65 是《可见的学习》800 多项元分析中仅有的两个低于 −0.5 的效应量之一。Hattie 未做审查([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
 >
-> *被掩盖的正面发现*：Jeynes & Littell 自己区分了四类全语言研究，其中被定义为"全语言热衷者会同意"的 2 项"纯粹"全语言研究效应量为 d=0.83。Hattie 只报告了四类汇总的总体负值([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
+> *被掩盖的正面发现*：Jeynes & Littell 自己区分了四类全语言研究，其中被定义为"全语言热衷者会同意"的 2 项"纯粹"全语言研究效应量为 d=0.83。Hattie 只报告了四类汇总的总体负值。
 >
 > *Krashen 的重新计算*：Krashen（2002）逐项检查后发现多项效应量计算错误([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])：
 >
@@ -358,7 +358,7 @@ updated: '2026-05-21'
 >
 > *作者背景*：[[William Jeynes|William H. Jeynes]] 是福音派牧师、God's Love Ministries 创始人，与共和党关系密切，曾进入 Trump 教育部长候选名单。Jeynes 的 −0.65 不仅是一个统计异常值——它嵌入了特定的政治议程([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147–148]])。
 >
-> **第三项元分析：Gee 的 +0.65——唯一被 Hattie 动手修改的。** Gee（1995）报告 d=+0.65。Hattie 以其中三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的专著——在有意义的语境中教技能恰恰是全语言的核心实践([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])。
+> **第三项元分析：Gee 的 +0.65——唯一被 Hattie 动手修改的。** Gee报告 d=+0.65。Hattie 以其中三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的专著——在有意义的语境中教技能恰恰是全语言的核心实践([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])。
 >
 > **关键的对比** 在《可见的学习》800 多项元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是  [[Cargo Cult Science]] 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
 >
@@ -382,7 +382,7 @@ updated: '2026-05-21'
 > - [[Argument_Wecker_2016_ZfE]] — 从[[Fixed-Effect and Random-Effects Models|固定效应模型]]数学基础对 Hattie 的《可见的学习》进行系统性的内部和外部方法论批判([[Argument_Wecker_2016_ZfE|Wecker et al., 2016]])
 > - [[Argument_Simpson_2017_JEP]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名([[Argument_Simpson_2017_JEP|Simpson, 2017]])
 > - Argument_Simpson_2019_ERE — 以思想实验证明效应量是试验清晰度的测量，元-元分析是对无效指标的高级统计操作([[Argument_Simpson_2019_ERE|Simpson, 2019]])
-> - [[Argument_Wrigley_2019_ERE]] — 以 EEF Toolkit 体育参与案例追踪元-元分析的三级统计失真([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])
+> - [[Argument_Wrigley_2019_ERE]] — 以 EEF Toolkit 体育参与案例追踪元-元分析的三级统计失真
 > - [[Argument_OConnor_2020_AJLL]] — 以《可见的学习》[[Whole Language|全语言]]处理为案例的细读审查，揭示分类错误、不对称审查和选择性排除([[Argument_OConnor_2020_AJLL|O'Connor, 2020]])
 
 ---

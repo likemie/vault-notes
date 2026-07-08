@@ -52,7 +52,7 @@ updated: '2026-05-18'
 >
 > > "Trials are not intended to provide information about how, why or under what conditions the programme works — hence, they leave the 'black box' unopened." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
 >
-> 尽管很少有评估者仍使用此标签，但"什么有效"的试验指南实质上与此描述一致：试验设计的优先目标是**对干预在规模推广时可能影响的准确估计**，而非证实或反驳应用理论（Cook, 2002; Torgerson & Torgerson, 2013）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
+> 尽管很少有评估者仍使用此标签，但"什么有效"的试验指南实质上与此描述一致：试验设计的优先目标是**对干预在规模推广时可能影响的准确估计**，而非证实或反驳应用理论（Cook, 2002; Torgerson & Torgerson, 2013）。
 
 ## 历史沿革
 
@@ -71,7 +71,7 @@ updated: '2026-05-18'
 >
 > 提高学生成就依赖于教师和校长的有效活动（Hattie & Anderman, 2013）。黑箱 RCT 几乎不提供信息来指导这些从业者的日常活动。在黑箱方法中，教师是向学生受试者成功交付项目设计的**管道**——极少数 RCT 设计考虑到实施者的经验([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 301]])。
 >
-> 此缺陷可追溯至医学起源：随机实验测试的是标准化产品（药物），但只有极少数的教育实践可以被商品化——如计算机软件或盒装社会和情感学习课程。Cook (2002) 的建议——聚焦于直接交付给学生的"不同课程"或"新技术"——被证明在没有教师支持时效果很小或无效果（Higgins, Xiao, & Katsipataki, 2012; Kremer, Brannen, & Glennerster, 2013）。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 301]])
+> 此缺陷可追溯至医学起源：随机实验测试的是标准化产品（药物），但只有极少数的教育实践可以被商品化——如计算机软件或盒装社会和情感学习课程。Cook (2002) 的建议——聚焦于直接交付给学生的"不同课程"或"新技术"——被证明在没有教师支持时效果很小或无效果（Higgins, Xiao, & Katsipataki, 2012; Kremer, Brannen, & Glennerster, 2013）。
 >
 > **2. 实施薄弱与规模扩展失败**
 >
@@ -81,7 +81,7 @@ updated: '2026-05-18'
 >
 > **3. 低采纳率**
 >
-> 从业者中研究发现"低采纳率"是教育中众所周知的问题（Levin, 2013; Walter, Nutley, & Davies, 2005）。EEF 目前资助多种策略的试验以改进证据使用——包括"打包"发现使其更易用或在学校中设立"研究冠军"（Brown, 2015）——但 Peterson 指出这些回应都[[Hypothesis|假设]]试验或评估过程本身不可能改变，而"使研究对教师更易获得并不解决采纳问题，如果证据不够清晰或足够强以回应他们的问题"([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 302]])。
+> 从业者中研究发现"低采纳率"是教育中众所周知的问题（Levin, 2013; Walter, Nutley, & Davies, 2005）。EEF 目前资助多种策略的试验以改进证据使用——包括"打包"发现使其更易用或在学校中设立"研究冠军"（Brown, 2015）——但 Peterson 指出这些回应都[[Hypothesis|假设]]试验或评估过程本身不可能改变，而"使研究对教师更易获得并不解决采纳问题，如果证据不够清晰或足够强以回应他们的问题"。
 >
 > **4. 仅适用于二选一决策**
 >

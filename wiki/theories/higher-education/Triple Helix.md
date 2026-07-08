@@ -71,7 +71,7 @@ updated: 2026-06-10
 > [!quote]
 > "Etzkowitz and Leydesdorff (1995) characterize the feedback loop among government, universities, and industry as a mutually supportive 'triple Helix.'"（p.13, paraphrased）
 > 
-> Etzkowitz 和 Leydesdorff (1995) 将政府、大学与产业之间的反馈循环描述为相互支持的三重螺旋。
+> Etzkowitz 和 Leydesdorff 将政府、大学与产业之间的反馈循环描述为相互支持的三重螺旋。
 
 ---
 
@@ -89,7 +89,7 @@ updated: 2026-06-10
 > [!note]-
 ### 三重螺旋的历史根源（1800s–1940s）
 
-许多当今顶尖研究型大学在 1800 年代创立时就内嵌了服务工业和地方经济的使命（Martin, 2012）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.37–38]])：英国 UCL、KCL、伯明翰、谢菲尔德、曼彻斯特等大学致力于服务现代工业社会；MIT（1861）、Georgia Tech（1885）、帝国理工（1907）等理工学院以专业技术培训和满足产业需求为核心使命；1862/1890 年美国 Morrill Acts 通过赠地建立学院并提供农业推广服务，将大学-政府-产业互动制度化([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.37–38]])。
+许多当今顶尖研究型大学在 1800 年代创立时就内嵌了服务工业和地方经济的使命（Martin, 2012）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.37–38]])：英国 UCL、KCL、伯明翰、谢菲尔德、曼彻斯特等大学致力于服务现代工业社会；MIT（1861）、Georgia Tech（1885）、帝国理工（1907）等理工学院以专业技术培训和满足产业需求为核心使命；1862/1890 年美国 Morrill Acts 通过赠地建立学院并提供农业推广服务，将大学-政府-产业互动制度化。
 
 但在二十世纪初期，大[[Corporate R&D Labs|企业中央研发实验室]]的兴起改变了三重螺旋的动态——企业建立内部科研能力，降低了对大学的依赖。AT&T 贝尔实验室、Xerox PARC、IBM Research 等企业实验室在科学产出上甚至可与顶尖大学匹敌（Arora et al., 2020）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.35–37]])。
 

@@ -101,7 +101,7 @@ citation_aliases:
 > - 纳入研究的质量未被评估：Hattie 承认"不是一本关于研究批评的书"，但当涉及 charter schools 和 learning styles 时又选择性排除低质量研究，存在不一致(p.95)
 > - [[Meta-analysis|元分析]]中的偏差通常不受控制：设计不良研究的元分析必然导致不可靠结论(p.96–97)
 > - [[Publication Bias|发表偏差]]：支持有利结论的研究更可能被发表和纳入元分析(p.97)
-> - [[Variable|变量]]界定困难：如[[Whole Language|全语言]]教学的不同分类导致同一批研究的元分析结论矛盾(p.97)
+> - [[Variable|变量]]界定困难：如[[Whole Language|全语言]]教学的不同分类导致同一批研究的元分析结论矛盾
 > - [[Class Size|班级规模]]效应复杂：STAR 研究（随机实验）发现[[Effect Size|效应量]]达 0.62–0.66(p.100–101)；Blatchford (2003) 伦敦研究发现 Reception 年有明显效果，尤其对低能力儿童(p.101)；Murnane & Levy (1996) 证明仅减班不加教学变革无效果，但班级缩减与教学变革结合产生巨大效果(p.101–102)
 > - [[Performance Pay|绩效工资]]与 Hattie 自身的教师文化论述矛盾：Hattie 强调"关爱、支持的教师休息室、容忍错误、互信、共享热情"，绩效工资制度恰恰摧毁这种氛围(p.103)
 

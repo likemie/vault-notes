@@ -56,7 +56,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 诠释[[Paradigm|范式]]（Interpretive Paradigm）
-> 与[[Positivism|实证主义]]相对的研究传统。核心立场是：社会世界只能从参与行动的个体的立场来理解，研究者必须分享参与者的参照框架（frame of reference），从内部而非外部来理解人们对世界的解释（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。社会和教育的世界是混乱、复杂、充满矛盾、多层且联结交织的，不能被量化的原子化过程所拆解，必须被整体地研究才能获得真正的理解（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], p. 403）。
+> 与[[Positivism|实证主义]]相对的研究传统。核心立场是：社会世界只能从参与行动的个体的立场来理解，研究者必须分享参与者的参照框架（frame of reference），从内部而非外部来理解人们对世界的解释（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。社会和教育的世界是混乱、复杂、充满矛盾、多层且联结交织的，不能被量化的原子化过程所拆解，必须被整体地研究才能获得真正的理解。
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种研究范式，主张社会现实由行动者主动建构，研究者须从参与者内部视角理解意义，而非从外部测量[[Variable|变量]]。
@@ -97,9 +97,9 @@ updated: 2026-06-24
 > | [[Positivism\|规范性范式（Normative）vs 诠释范式]] | 根本对立 | Douglas（1973）：规范性范式关注**行为**（behaviour，对刺激的反应，原因在过去），诠释范式关注**行动**（action，行为加意义，意向行为面向未来）。理论目的、实在观和理论形态均截然不同。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
 > | [[Emic and Etic\|主位（Emic）vs 客位（Etic）]] | 方法论区分 | LeCompte & Preissle（1993: 45）：主位进路捕捉参与者赋予情境的主观意义（内部人视角），客位进路识别研究者的客观建构（外部人视角）。诠释范式以主位进路为核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]] |
 > | [[Ethnography\|自然主义/民族志 vs 质性方法]] | 方法类型区分 | 自然主义/民族志要求长期驻留；质性方法关乎数据类型和问题类型，不强制长期驻留。小型短期质性研究属于质性但不属于自然主义/民族志。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 402–403)]] |
-> | [[Phenomenology\|现象学]] | 理论传统 | 核心研究传统之一，关注个体对生活世界的主观体验和意义建构。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
-> | [[Ethnomethodology\|俗民方法学]] | 理论传统 | 核心研究传统之一，研究人们如何通过日常互动方法建构和维持社会秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
-> | [[Symbolic Interactionism\|符号互动论]] | 理论传统 | 核心研究传统之一，关注人们通过符号和互动建构意义和自我（Blumer, 1969）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
+> | [[Phenomenology\|现象学]] | 理论传统 | 核心研究传统之一，关注个体对生活世界的主观体验和意义建构。 |
+> | [[Ethnomethodology\|俗民方法学]] | 理论传统 | 核心研究传统之一，研究人们如何通过日常互动方法建构和维持社会秩序。 |
+> | [[Symbolic Interactionism\|符号互动论]] | 理论传统 | 核心研究传统之一，关注人们通过符号和互动建构意义和自我（Blumer, 1969）。 |
 
 ---
 
@@ -134,4 +134,4 @@ updated: 2026-06-24
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 第1章系统介绍诠释[[Paradigm|范式]]的定义、与规范性范式的区分以及三大研究传统。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 第11章深度展开诠释范式的[[Epistemology|认识论]]公理、操作性含义、emic/etic区分、概括性重定义、Woods与Dobbert的争论，以及十大内在困难。
+> - Cohen et al. — 第11章深度展开诠释范式的[[Epistemology|认识论]]公理、操作性含义、emic/etic区分、概括性重定义、Woods与Dobbert的争论，以及十大内在困难。

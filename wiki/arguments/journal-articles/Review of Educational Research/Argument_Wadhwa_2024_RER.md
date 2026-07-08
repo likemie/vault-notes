@@ -94,13 +94,13 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Campbellian Validity Framework]] — 作者从 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 视角出发，把"evidence-based"当作教育科学实践中的[[Construct Validity|构念效度]]问题；重点不是区分有效/无效项目本身，而是考察不同清算中心的有效性判断是否收敛，因为[[Reliability|可靠性]]是[[Construct|构念]]效度的[[Necessary and Sufficient Conditions|必要条件]](p.4)。
-> - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的[[Hypothesis|假设]]作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）(p.4)。
+> - [[Evidence-Based Education]] — 论文将 EBE 中"科学证据能识别有效干预并大规模改进教育结果"的[[Hypothesis|假设]]作为研究背景，但同时区分了科学话语中的 evidence-based（依赖有根据的科学标准）与公共话语中的 evidence-based（通常仅意味着项目有正向效果）。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：比较综述与[[Descriptive Analysis|描述性分析]]。作者识别美国和英国 43 个清算中心，按是否发布自身有效性评级、是否可在线访问、是否聚焦 pre-K 至大学教育干预与教育结果筛选出 12 个教育清算中心(p.5)。
-> - 数据来源：2019 年 6 月至 2020 年 8 月，作者收集并[[Coding in Qualitative Research|编码]] 12 个清算中心网站资料，包括目标人群、政策焦点、资金来源、被评价干预类型、研究评级过程、单项研究与整体项目效果标准、项目纳入标准等(p.5)。
+> - 数据来源：2019 年 6 月至 2020 年 8 月，作者收集并[[Coding in Qualitative Research|编码]] 12 个清算中心网站资料，包括目标人群、政策焦点、资金来源、被评价干预类型、研究评级过程、单项研究与整体项目效果标准、项目纳入标准等。
 > - 样本：评级一致性分析最终包括 10 个清算中心的 1,359 个教育项目；两个清算中心被排除在量化一致性分析之外，原因是其项目评级方式或项目命名/状态不适合纳入同一比较框架(pp.16–17)。
 > - 案例分析：作者进一步细读 [[Open Court Reading]]、[[Success for All]]、[[Peer-Assisted Learning Strategies]]、[[Quantum Opportunity Program]]、[[Communities in Schools]] 五个被多个清算中心评价的项目，以解释评级差异的具体来源(pp.22–25)。
 
@@ -210,7 +210,7 @@ citation_aliases:
 >
 > ### Table 7：多重评级项目中"有效"判断比例
 >
-> 作者将 recommended 和 promising 合并为 effective，以观察较宽松意义上的正向判断是否一致(p.18)。
+> 作者将 recommended 和 promising 合并为 effective，以观察较宽松意义上的正向判断是否一致。
 >
 > | 多重评级情形 | "有效"判断分布 | 项目比例 |
 > |---|---|---:|
@@ -280,7 +280,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 论文没有考察政策制定者实际如何使用清算中心推荐，因此不能判断评级不一致对政策采购或学校实践造成了多大影响；作者指出，这一问题超出本文范围，但值得后续研究(p.28)。
 > - 分析只覆盖那些以认证干预有效/无效为任务的清算中心，尚不清楚结论能否推广到不进行项目效果认证、而承担知识经纪或证据中介功能的其他机构(pp.28–29)。
-> - 研究依赖清算中心网站公开发布的证据标准和项目概况；若某些实际决策规则没有在线记录，本文无法评估它们(p.28)。
+> - 研究依赖清算中心网站公开发布的证据标准和项目概况；若某些实际决策规则没有在线记录，本文无法评估它们。
 > - 清算中心网站和证据标准会随时间变化，因此本文是一个动态生态的时间切片；作者明确指出，不同清算中心吸收方法论发展的速度不同，网站内容、设计和结构也会变化(p.29)。
 
 ## 来源

@@ -35,7 +35,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 认知抑制（Cognitive Inhibition）是[[Executive Function|执行功能]]（executive-function）的核心成分之一，指在必要时故意抑制主导性、自动化或常见反应的能力([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
 >
-> 在 Miyake 的EF 统一性与多样性框架中，抑制主导性或优势反应（inhibition of dominant or proponent responses）被列为 EF 的三个基本成分之一([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
+> 在 Miyake 的EF 统一性与多样性框架中，抑制主导性或优势反应（inhibition of dominant or proponent responses）被列为 EF 的三个基本成分之一。
 
 ## 测量方式
 
@@ -47,9 +47,9 @@ updated: '2026-05-18'
 
 > [!note-] 发展轨迹
 > - 抑制在三种 [[Executive Function|EF]] 成分中最早发展，略早于转换和更新([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
-> - 大多数研究表明抑制的增长期从约 2 岁持续到 5 岁，儿童能抑制的时长逐渐增加([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
-> - Carlson (2005) 研究发现 2 岁和 3 岁儿童在抑制吃零食方面存在显著差异：50% 的 2 岁儿童能坚持 20 秒不吃，而 85% 的 3 岁儿童能坚持 1 分钟([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
-> - 4 岁左右出现一个"铰链点"（hinge point）：4 岁以下儿童觉得昼夜任务非常困难，4 岁以上觉得非常容易；但每年仍有持续改善([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
+> - 大多数研究表明抑制的增长期从约 2 岁持续到 5 岁，儿童能抑制的时长逐渐增加
+> - Carlson (2005) 研究发现 2 岁和 3 岁儿童在抑制吃零食方面存在显著差异：50% 的 2 岁儿童能坚持 20 秒不吃，而 85% 的 3 岁儿童能坚持 1 分钟
+> - 4 岁左右出现一个"铰链点"（hinge point）：4 岁以下儿童觉得昼夜任务非常困难，4 岁以上觉得非常容易；但每年仍有持续改善
 
 ## 与前额叶皮层的关系
 

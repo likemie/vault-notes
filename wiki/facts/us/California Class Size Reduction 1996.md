@@ -59,13 +59,13 @@ updated: '2026-05-18'
 >
 > ### 教师质量的量化后果([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
 >
-> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.7)]] 提供了此前[[Document|文献]]中未充分量化的教师质量恶化数据：
+> Wiliam 提供了此前[[Document|文献]]中未充分量化的教师质量恶化数据：
 >
 > - 加州未认证教师比例从 1990 年的**约 1/200** 飙升至 1997 年的**约 1/8**（Jepsen & Rivkin, 2002）
 > - 新教师和未认证教师并非在全州范围内[[Random Assignment|随机分配]]——Randy Ross (1999) 记录了许多有经验的教师**离开城市学校**到更富裕地区担任新设立的职位
 > - **净效应** 降低全州平均教师质量，并**将教师质量的降低集中在服务最弱势学生的学校**
 >
-> > "The net effect of class-size reduction in California was to reduce average teacher quality across the state, and to concentrate those reductions in the schools serving the most disadvantaged students." ([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
+> > "The net effect of class-size reduction in California was to reduce average teacher quality across the state, and to concentrate those reductions in the schools serving the most disadvantaged students."
 >
 > ### STAR 项目自身的随机分配问题
 >
@@ -89,7 +89,7 @@ updated: '2026-05-18'
 > - 此案例被 Cartwright & Hardie (2012) 用作论证以下观点的关键证据：成功实施证据本位政策需要在本地具备所有必要的"支持因素"（support factors），否则需要有替代方案或对原始方案进行重大修改([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.18]])
 > - 该案例成为 [[Programme Fidelity vs Adaptation]] 辩论中的经典反面教材
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 将此案例的教训推向更深层：问题不仅在于"支持因素是否可复制"，还在于 **[[Randomised Controlled Trials|RCT]] 试验本身的条件在大规模推广时可能系统性不成立**——STAR 仅需 50 名额外教师且可[[Hypothesis|假设]]其质量；全州推广需数千名教师且质量不可能同等。这不是"忠实 vs 适应"的执行选择问题，而是**试验条件本身在推广时就不再成立**([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
-> - 该案例还揭示了一个关键的**分布效应** 班级缩减不仅未能提高成就，而且**不成比例地伤害了最弱势学生**——因为教师质量的恶化集中在服务最弱势学生的学校([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
+> - 该案例还揭示了一个关键的**分布效应** 班级缩减不仅未能提高成就，而且**不成比例地伤害了最弱势学生**——因为教师质量的恶化集中在服务最弱势学生的学校
 
 ## 争议与评论
 

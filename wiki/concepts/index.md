@@ -107,12 +107,10 @@ Total entries: **713**
 > - [[Theory of Knowledge]] — IB 文凭项目的核心必修科目（100 小时），一门不教授固定知识内容、而是要求学生反思知识本质和思维过程的批判性思维课程。
 > - [[Tyler Rationale]] — Tyler（1949）提出的课程开发四问框架，是现代主义、实证主义课程观的经典表达，将课程视为受控、有序、预定和可预测的过程。
 
-> [!index-list]- Economics (2)
+> [!index-list]- Education Economics (3)
+> - [[EST Integrated Development]] — 教育（Education）、科技（Science and Technology）与人才（Talent）三个子系统协同演进的一体化发展概念，以系统论为理论基础，强调三者之间相互支撑、相互制约的耦合关系
 > - [[New Quality Productive Forces]] — 习近平提出的经济概念，指以创新为主导、摆脱传统经济增长方式的先进生产力质态，具有高科技、高效能、高质量特征。
 > - [[Total Factor Productivity]] — 衡量扣除资本和劳动投入贡献后产出增长剩余部分的生产率指标，用于衡量技术进步和技术效率变化
-
-> [!index-list]- Education Economics (1)
-> - [[EST Integrated Development]] — 教育（Education）、科技（Science and Technology）与人才（Talent）三个子系统协同演进的一体化发展概念，以系统论为理论基础，强调三者之间相互支撑、相互制约的耦合关系
 
 > [!index-list]- Educational Leadership Administration (9)
 > - [[Absorptive Capacity]] — 组织识别、吸收并应用外部知识的能力，在学区改革中取决于项目理解与开放沟通，在产学合作中则调节企业从大学研发合作中受益的程度

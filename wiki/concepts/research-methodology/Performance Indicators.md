@@ -81,7 +81,7 @@ updated: '2026-05-18'
 
 > [!note]-
 > - **1850s** 教育开始被认可为统计调查的领域，早期数据收集限于学校数量、学生入学人数、教师人数等([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
-> - **1970s–1980s**Sauvageot（1997）指出早期统计信息"不太有用"——数据不准确、不及时、不一致，太多细节而没有分析([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
+> - **1970s–1980s**Sauvageot（1997）指出早期统计信息"不太有用"——数据不准确、不及时、不一致，太多细节而没有分析
 > - **1988 年**[[OECD]] 启动 [[International Indicators of Education Systems]] 项目，系统开发[[International Education|国际教育]]指标([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
 > - **1992 年** 首版 [[Education at a Glance]] 出版，标志着教育指标的常规化年度生产([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
 > - **2000s** Bottani 称之为"对绩效指标的痴迷和心理测量比较的胜利"的十年([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13]])

@@ -84,7 +84,7 @@ updated: '2026-06-19'
 
 > [!work-line] 主要著作
 > - **1978 — *A realist theory of science***：[[Critical Realism\|批判实在论]]的科学哲学奠基著作，系统阐述了三层[[Ontology\|本体论]]以及深层[[Causality|因果]]机制与经验观察的分离。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 125]])
-> - **1979 — *The possibility of naturalism: A philosophical critique of the contemporary human sciences***：将批判实在论哲学拓宽至社会科学的纲领性著作，论证了社会结构对个体能动性的[[Emergence\|涌现]]权力。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 125]])
+> - **1979 — *The possibility of naturalism: A philosophical critique of the contemporary human sciences***：将批判实在论哲学拓宽至社会科学的纲领性著作，论证了社会结构对个体能动性的[[Emergence\|涌现]]权力。
 
 ---
 

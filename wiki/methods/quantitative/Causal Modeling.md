@@ -122,7 +122,7 @@ updated: 2026-06-18
 > 2. **批评与反思（1983–2005）**
 >    - 1983 — Ed Leamer 发表著名批评文章 "Let's Take the Con Out of Econometrics"（[[Argument_Berk_2011_ER|Berk, 2011, p.196]]）
 >    - 2004 — Berk 出版 *Regression Analysis: A Constructive Critique*
->    - 2005 — David Freedman 出版 *Statistical Models: Theory and Practice*，基于二十年的批判性关切提供了对因果建模"可能最彻底的处理"（[[Argument_Berk_2011_ER|Berk, 2011, p.196]]）
+> - 2005 — David Freedman 出版 *Statistical Models: Theory and Practice*，基于二十年的批判性关切提供了对因果建模"可能最彻底的处理"
 > 3. **当代定位（2011–至今）**
 >    - 2011 — Berk 系统回顾因果建模的局限，推荐匹配作为替代策略；Cohen, Manion & Morrison 指出 [[Standard Error|SEM]]、[[Multiple Regression|多元回归]]和多变量分析"不可能强大过支撑它们的因果[[Hypothesis|假设]]"，在追求简洁清晰模型的过程中"严重简化"了情境中原因的数量或范围（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 71]]）
 >    - 2023 — [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 从教育心理学期刊实践层面补充批评：依赖建模的分析更可能包含因果化语言，2010 年后建模类型和用途急剧增加
@@ -171,7 +171,7 @@ updated: 2026-06-18
 ### 因果语言风险
 
 > [!warning] 观察数据中的因果语言风险
-> [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 从教育心理学期刊实践层面补充了方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含[[Recommendations for Practice|实践建议]]（RFP），可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 原本计划继续[[Coding in Qualitative Research|编码]]"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（[[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]]）。
+> [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 从教育心理学期刊实践层面补充了方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/相关研究更可能包含[[Recommendations for Practice|实践建议]]（RFP），可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. 原本计划继续[[Coding in Qualitative Research|编码]]"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（[[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]]）。
 
 ---
 

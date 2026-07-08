@@ -90,7 +90,7 @@ updated: 2026-05-31
 
 ## 核心现象与质性核心研究问题
 
-在[[Qualitative Research|质性研究]]设计中，核心现象是[[Central Question|核心研究问题]]（central question）所询问的对象（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。质性核心[[Research Question|研究问题]]以"What is the [核心现象] for [参与者] at [研究场所]?"的脚本形式，将核心现象转化为一个开放的可探索问题。研究者被建议以一个单一核心现象开始研究，深入探索其细节——"What is the one single concept that you want to explore?"（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
+在[[Qualitative Research|质性研究]]设计中，核心现象是[[Central Question|核心研究问题]]（central question）所询问的对象（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。质性核心[[Research Question|研究问题]]以"What is the [核心现象] for [参与者] at [研究场所]?"的脚本形式，将核心现象转化为一个开放的可探索问题。研究者被建议以一个单一核心现象开始研究，深入探索其细节——"What is the one single concept that you want to explore?"（, Ch7）。
 
 核心现象的单一性也在核心研究问题层面得到延续：质性研究追求的不是多重[[Variable|变量]]关系的检验，而是对一个核心现象的深度理解。随着研究发展，多种影响因素会浮现，但研究之初的聚焦点应始终保持单一。
 
@@ -98,8 +98,8 @@ updated: 2026-05-31
 
 > [!example] 核心现象示例
 > - 教师身份的边缘化及学校中该身份的处境(Huber & Whelan, 1999; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.125]])
-> - 棒球文化——研究体育场员工的工作和交谈(Trujillo, 1992; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.125]])
-> - 个体如何在认知上表征艾滋病(Anderson & Spencer, 2002; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.125]])
+> - 棒球文化——研究体育场员工的工作和交谈(Trujillo, 1992;)
+> - 个体如何在认知上表征艾滋病(Anderson & Spencer, 2002;)
 > - 母亲失去晚期妊娠婴儿后的生活经验和记忆(Lauterbach, 1993; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.126–127]])
 > - 关系性和专业性实践——帮助有学校失败史的学生的教师实践(Frelin, 2015; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.127]])
 > - 族裔认同——一位中国移民学生在加拿大中学课程中家庭与学校叙事的交织(Chan, 2010; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.128]])

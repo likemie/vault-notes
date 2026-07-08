@@ -40,7 +40,7 @@ updated: 2026-06-11
 ## 核心主张
 
 > [!abstract]
-> 技术轨迹（Technological Trajectories）是 Pavitt（1984）和 Dosi（1982, 1988）在[[Evolutionary Economics|演化经济学]]框架下提出的概念，指不同产业沿着**根本不同的路径**进行技术变迁。[[Argument_Pavitt_1984_RP|Pavitt (1984)]]将技术轨迹定义为由三个因素共同塑造的产业创新方向：技术来源（sources of technology）、用户需求（requirements of users）和专有可能性（possibilities for appropriation）。不同类型的产业——供应商主导型、生产密集型（含规模密集和专业化供应商两个子类）、科学基础型——分别对应不同的技术轨迹[[Argument_Pavitt_1984_RP|(Pavitt, 1984)]]。
+> 技术轨迹（Technological Trajectories）是 Pavitt（1984）和 Dosi（1982, 1988）在[[Evolutionary Economics|演化经济学]]框架下提出的概念，指不同产业沿着**根本不同的路径**进行技术变迁。Pavitt将技术轨迹定义为由三个因素共同塑造的产业创新方向：技术来源（sources of technology）、用户需求（requirements of users）和专有可能性（possibilities for appropriation）。不同类型的产业——供应商主导型、生产密集型（含规模密集和专业化供应商两个子类）、科学基础型——分别对应不同的技术轨迹。
 
 技术轨迹的核心贡献在于：它将"产业间创新差异"从需要控制的噪音转化为需要解释的理论对象。在技术轨迹框架下，化学产业依赖基础科学的研发驱动轨迹与纺织产业依赖设备供应商的设备采用轨迹之间的差异，不是随机波动，而是由产业结构性特征决定的**系统性差异**。
 

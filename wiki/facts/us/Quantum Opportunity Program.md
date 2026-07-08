@@ -60,5 +60,5 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — QOP/EQOP 是 Wadhwa et al. 用来说明项目变体和纳入研究差异如何改变评级的案例([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.24–25]])。
 > - [[What Works Clearinghouse]] — WWC 只将一项 QOP 研究纳入达标证据，但该研究没有显示统计显著或实质重要效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
-> - [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — CMFR 因未找到相关已发表研究，未将 EQOP 评为 promising([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
+> - [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — CMFR 因未找到相关已发表研究，未将 EQOP 评为 promising。
 

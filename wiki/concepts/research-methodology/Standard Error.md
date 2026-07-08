@@ -2,8 +2,6 @@
 title: Standard Error
 aliases:
   - 标准误
-  - SE
-  - SEM
   - standard error of the mean
   - 均值的标准误
   - standard error of proportions

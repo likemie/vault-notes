@@ -54,11 +54,11 @@ updated: '2026-05-18'
 > **指标数量削减** 从 Semmering 的约 160 项削减至约 50 项"理想"指标，这些指标源自一个提供国际指标开发指导原则的概念框架(Bottani, 1996, pp.280–281; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11–12]])
 >
 > **学生成绩数据的纳入**（核心争议）：
-> - 统计学家反对纳入：鉴于数据质量参差不齐（"非常零散的数据"），从科学角度无法接受([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12]])
-> - 政策制定者坚持纳入：认为成绩数据对政策至关重要([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12]])
-> - 结果：政策制定者胜出——成员国授权 OECD 修订原型指标，纳入学生成绩部分([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12]])
+> - 统计学家反对纳入：鉴于数据质量参差不齐（"非常零散的数据"），从科学角度无法接受
+> - 政策制定者坚持纳入：认为成绩数据对政策至关重要
+> - 结果：政策制定者胜出——成员国授权 OECD 修订原型指标，纳入学生成绩部分
 >
-> > "It was following an intense discussion [between] opposing policy-makers and scientists during the Lugano plenary sessions that the member countries mandated OECD with revising the prototype set of indicators to include a section on student attainment, using the very patchy data available on the international scene at that time."(Bottani, 2008, p.16; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.12]])
+> > "It was following an intense discussion [between] opposing policy-makers and scientists during the Lugano plenary sessions that the member countries mandated OECD with revising the prototype set of indicators to include a section on student attainment, using the very patchy data available on the international scene at that time."(Bottani, 2008, p.16;)
 
 ## 影响与后果
 
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 >
 > ### 后续：全体大会的衰落
 > - 1995 年 Lahti（第三届）是最后一次真正的全体大会([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
-> - 2000 年东京（第四届）"名存实亡"——参与受限，指标生产者不再参与，蜕变为政府间会议(Bottani, 2008, p.17; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
+> - 2000 年东京（第四届）"名存实亡"——参与受限，指标生产者不再参与，蜕变为政府间会议(Bottani, 2008, p.17;)
 
 ## 关键文件／声明
 

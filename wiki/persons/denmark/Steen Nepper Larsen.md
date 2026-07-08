@@ -59,8 +59,8 @@ updated: '2026-06-08'
 > - 任职于奥胡斯大学丹麦教育学院（Danish School of Education, Aarhus University），位于哥本哈根
 > - 1965 年开始上学，亲身经历了丹麦教育从"indlæring"（注入式学习）话语到"læring"（学习）话语、再到当代 [[Learnification]] 的历史变迁([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.8]])
 > - 2018 年 10 月在哥本哈根与 [[John Hattie]] 进行公开对话，主题为"教育的目的"（The Purpose of Education）（[[Argument_Larsen_2019_EducSci|Larsen, 2019]], Ref.10）
-> - 2013 年在惠灵顿维多利亚大学发表关于[[Neuroplasticity|神经可塑性]]当代趣味与局限的分析（[[Argument_Larsen_2019_EducSci|Larsen, 2019]], Ref.24）
-> - 2015 年发表对 Hattie 证据信条的盲点分析（[[Argument_Larsen_2019_EducSci|Larsen, 2019]], Ref.3）
+> - 2013 年在惠灵顿维多利亚大学发表关于[[Neuroplasticity|神经可塑性]]当代趣味与局限的分析
+> - 2015 年发表对 Hattie 证据信条的盲点分析
 
 ## 主要著作
 
@@ -81,7 +81,7 @@ updated: '2026-06-08'
 >
 > 其哲学批判围绕以下主线展开：
 >
-> - **"观看中的盲视"（Blindness in Seeing）** — 核心论点：盲视是教育观看不可避免的组成部分。强大的科学与政治学习追随者"不能看见他们不能看见的东西"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
+> - **"观看中的盲视"（Blindness in Seeing）** — 核心论点：盲视是教育观看不可避免的组成部分。强大的科学与政治学习追随者"不能看见他们不能看见的东西"
 > - **反还原论（Anti-reductionism）** — 坚决反对将学习还原为数字、分数、[[Effect Size|效应量]]、测试答案或评估陈述。学习涉及复杂的神经突触连接、身体[[Phenomenology|现象学]]深度和社会历史互动整体，不可被简化为已知的简单因素([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.1]])
 > - **[[Ontology|本体论]]优先于[[Epistemology|认识论]]** — 人类存在的本体论基础先于科学（a priori to science）。作为-in-the-世界的学生或教师从来不是独立于情境、品质、情感、经验、希望、梦想、焦虑等的。VL [[Paradigm|范式]]似乎忽视或糟糕地'翻译'了深刻谜一般的存在本体论([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.4]])
 > - **学习非即时可见** — 学习不能作为一种可在当下把握和描绘的可见现象来理解。学习很少提供即时满足，也从来不能独立于不断变化的学习主体自身的动态解释而被理解或生活([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.3]])

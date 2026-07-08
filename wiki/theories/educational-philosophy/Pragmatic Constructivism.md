@@ -74,8 +74,8 @@ updated: '2026-06-22'
 > [!proposition-chain] 核心命题
 > - **前提一（[[John Dewey|杜威]]的反思）**：个体并非被动接受外部信息的容器，而是在面临新经验的挑战时，通过主动反思（Reflection）构建并重组自身的认知图式（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]）。
 > - **前提二（[[George Herbert Mead|米德]]的具身与社会互动）**：个体心智的发生与身体经验、自然及社会环境构成密不可分的联合系统。学习必须在主体间的社会互动（Social interaction）中实现（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 8]]）。
-> - **机制（自我修正）** 当学生将自身的生活世界经验带入学习情境，通过与环境、同伴和教师的交互探究，旧有认知与新体验发生碰撞，不断促成主体心智图式的自我更新与修正（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]）。
-> - **结果判断** 有效的教育必须植根于学生的生活世界与真实经历，课程不应在教学前被绝对固化，而必须作为反思实践的工具在交互中动态修正（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]）。
+> - **机制（自我修正）** 当学生将自身的生活世界经验带入学习情境，通过与环境、同伴和教师的交互探究，旧有认知与新体验发生碰撞，不断促成主体心智图式的自我更新与修正。
+> - **结果判断** 有效的教育必须植根于学生的生活世界与真实经历，课程不应在教学前被绝对固化，而必须作为反思实践的工具在交互中动态修正。
 
 > [!mechanism-map]- 机制图
 > ```mermaid
@@ -114,7 +114,7 @@ updated: '2026-06-22'
 
 > [!dev-timeline] 发展脉络
 > - **20世纪初 — 思想源头**[[John Dewey]] 阐发反思经验与教育的关系；[[George Herbert Mead]] 提出社会互动与心智起源（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]）。
-> - **1990s — 理论整合与 [[Phenomenon-Based Learning|PhBL]] 基础**：赫尔辛基大学的 Rauste-von Wright 系统地将二者结合，提出“课程自我修正模型”，作为芬兰教师教育中教学法设计的理论工具（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]）。
+> - **1990s — 理论整合与 [[Phenomenon-Based Learning|PhBL]] 基础**：赫尔辛基大学的 Rauste-von Wright 系统地将二者结合，提出“课程自我修正模型”，作为芬兰教师教育中教学法设计的理论工具。
 > - **2014 — 国家核心课程吸收** 该理论渗透至芬兰国家核心课程标准，推动跨学科“现象本位学习”走向学校实践（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8]]）。
 
 ---

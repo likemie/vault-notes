@@ -54,14 +54,14 @@ updated: '2026-05-18'
 > [!quote] 关键文件／声明
 > > "what under the famous Daubert ruling would be called junk science" ([[Argument_Berk_2011_ER|Berk, 2011, p.192]])
 >
-> [[Argument_Berk_2011_ER|Berk (2011)]] 将 Daubert 标准引入评估研究的方法论讨论——在评估研究领域，"垃圾科学"（junk science）问题同样严重：每有一项做得好且有价值的研究，至少有另一项在进行可被称为垃圾科学的工作([[Argument_Berk_2011_ER|Berk, 2011, p.192]])。
+> [[Argument_Berk_2011_ER|Berk (2011)]] 将 Daubert 标准引入评估研究的方法论讨论——在评估研究领域，"垃圾科学"（junk science）问题同样严重：每有一项做得好且有价值的研究，至少有另一项在进行可被称为垃圾科学的工作。
 
 ## 影响与后果
 
 > [!success] 影响与后果
 > - **法学领域** Daubert 标准成为美国联邦证据规则的基础，改变了专家证言在法庭中的使用方式
 > - **[[Evaluation Research|评估研究]]领域**：[[Argument_Berk_2011_ER|Berk (2011)]] 借用 Daubert 的"垃圾科学"概念来框架化评估研究中的方法论质量问题——政策制定者往往无法区分真正的证据和虚假的证据([[Argument_Berk_2011_ER|Berk, 2011, p.192]])
-> - Berk 指出，部分垃圾科学的制造者"不知道自己在做什么，但仍以高质量工作的所有表面特征进行"；另一些则"非常清楚自己在做什么，并利用这些表面特征来掩盖痕迹"([[Argument_Berk_2011_ER|Berk, 2011, p.192]])
+> - Berk 指出，部分垃圾科学的制造者"不知道自己在做什么，但仍以高质量工作的所有表面特征进行"；另一些则"非常清楚自己在做什么，并利用这些表面特征来掩盖痕迹"
 
 ## 争议与评论
 

@@ -47,7 +47,7 @@ updated: '2026-05-18'
 >
 > > "The first step of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 >
-> [[What Works Clearinghouse]] 对 [[Single-Case Design|SCD]] 研究和组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）均采用门控程序(WWC, 2013; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
+> [[What Works Clearinghouse]] 对 [[Single-Case Design|SCD]] 研究和组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）均采用门控程序(WWC, 2013;)。
 >
 > > 例：在 WWC 审查中，一项 [[Single-Case Design|SCD]] 研究首先被检查是否满足设计标准（足够的阶段对比、每阶段足够的数据点、可靠的结果测量、研究者主动操纵自[[Variable|变量]]）。只有通过此门槛的研究，其推广性信息才被进一步记录和描述。
 
@@ -85,7 +85,7 @@ updated: '2026-05-18'
 > [!warning] 局限性与批评
 > - **信息排除** 门控程序功能性地排除了来自弱[[Internal Validity|内部效度]]研究的信息——这些研究可能包含有价值的推广性洞见([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 > - **保守性偏差** 门控程序可能系统性地排除某些类型的证据（如特殊人群或难以实施严格实验设计的情境中的研究），导致证据基础的覆盖范围受限
-> - **与全纳入策略的永久权衡** 门控程序使发现更容易传播，但全纳入策略呈现证据全貌——两种策略之间存在不可消除的权衡([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
+> - **与全纳入策略的永久权衡** 门控程序使发现更容易传播，但全纳入策略呈现证据全貌——两种策略之间存在不可消除的权衡
 
 ## 相关概念
 

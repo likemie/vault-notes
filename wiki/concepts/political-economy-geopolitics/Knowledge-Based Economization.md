@@ -221,7 +221,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 > [!info]- 核心数据
 > - 美国大学来自产业的研发资金：1990 年 22 亿美元 → 2022 年 57 亿美元（按 2022 年不变价）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。
-> - 英国大学[[Knowledge Transfer|知识转移]]活动收入：2004 年 43 亿美元 → 2022 年 87 亿美元([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。
+> - 英国大学[[Knowledge Transfer|知识转移]]活动收入：2004 年 43 亿美元 → 2022 年 87 亿美元。
 
 ---
 

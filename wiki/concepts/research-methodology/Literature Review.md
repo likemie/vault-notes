@@ -222,5 +222,5 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将[[Document|文献]]综述作为研究方案的独立章节，系统阐述其在量化、质性和[[Mixed Methods Research|混合方法]]路径中的不同策略
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al. (2011, Ch.6)]] — 将文献综述作为[[Research Topic|研究选题]]的决策因素之一，提出七项目的框架和规模考量
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, Ch.7)]] — 强调文献综述的论证本质，提供了四步论证结构和实施撰写规则
+> - Cohen et al. — 强调文献综述的论证本质，提供了四步论证结构和实施撰写规则
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.1)]] — 提出文献综述的核心任务、两个基本条件、文献阅读方法、五部分撰写结构和撰写注意事项

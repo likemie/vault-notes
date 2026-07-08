@@ -55,7 +55,7 @@ updated: 2026-05-20
 > [!info] 定义
 > [[Sami Moisio]]（2022）提出地缘政治主体（geopolitical subject）概念，指被国家通过制度（尤其是高等教育）系统性形塑的一类理想化的人的类型——他们被装备上特定技能、行为取向和空间心态，能够在全球竞争中被调动起来服务于财富和竞争领土的生产([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]])。
 >
-> > "The concept of the geopolitical subject therefore refers to an organized set of human figures, who are, from the perspective of political power, equipped with particular ideal skills, behaviors, orientations and 'spatial mindsets' which can be harnessed in the production of territories of wealth and competition at the age of global competition."([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]])
+> > "The concept of the geopolitical subject therefore refers to an organized set of human figures, who are, from the perspective of political power, equipped with particular ideal skills, behaviors, orientations and 'spatial mindsets' which can be harnessed in the production of territories of wealth and competition at the age of global competition."
 >
 
 ## 为什么是"人形"而非"人"？

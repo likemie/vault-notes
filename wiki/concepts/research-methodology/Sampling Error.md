@@ -3,10 +3,6 @@ title: Sampling Error
 aliases:
   - 抽样误差
   - standard error
-  - 标准误
-  - standard error of the mean
-  - 均值的标准误
-  - standard error of proportions
   - sampling distribution
   - 抽样分布
 summary: "从同一总体中多次抽样时样本统计量之间的变异，以均值的标准误（SEM）和比例的标准误度量，其分布规律由中心极限定理描述，是确定样本量和置信区间的基础概念"

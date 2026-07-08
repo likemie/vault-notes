@@ -38,9 +38,9 @@ updated: '2026-05-18'
 > [!info] 定义
 > 执行功能（Executive Function, EF）是一个涵盖性术语（umbrella term），指一组高阶、通用目的的控制过程，用于调节多种认知功能（如思维和行为）以实现特定目标([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
 >
-> > "Executive function (EF) is an umbrella term for a set of higher order, general purpose control processes that regulate a number of different cognitive functions (such as thought and behavior) for the attainment of a specific goal."([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])
+> > "Executive function (EF) is an umbrella term for a set of higher order, general purpose control processes that regulate a number of different cognitive functions (such as thought and behavior) for the attainment of a specific goal."
 >
-> EF 涵盖广泛的认知过程，包括[[Working Memory|工作记忆]]、[[Cognitive Shifting|认知灵活性]]、注意力控制、计划、概念形成和反馈处理，各项复杂度不同([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
+> EF 涵盖广泛的认知过程，包括[[Working Memory|工作记忆]]、[[Cognitive Shifting|认知灵活性]]、注意力控制、计划、概念形成和反馈处理，各项复杂度不同。
 
 ## 核心要素
 
@@ -49,7 +49,7 @@ updated: '2026-05-18'
 >
 > - **抑制（[[Cognitive Inhibition|inhibition]]）** — 在必要时故意抑制主导性、自动化或常见反应的能力([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])
 > - **转换（Shifting）** — 亦称[[Cognitive Shifting|认知灵活性]]或任务切换，指在多个不同任务、操作或心理集之间来回切换的能力([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])
-> - **[[Updating and Monitoring|更新与监控]]（Updating and Monitoring）** — 动态操纵[[Working Memory|工作记忆]]所保持内容的能力([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])
+> - **[[Updating and Monitoring|更新与监控]]（Updating and Monitoring）** — 动态操纵[[Working Memory|工作记忆]]所保持内容的能力
 
 ## 发展轨迹
 
@@ -57,8 +57,8 @@ updated: '2026-05-18'
 > EF 在学龄期间持续改善，从约 16 岁到 30 岁出头改善速率逐渐下降([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])。三种 EF 成分的发展轨迹略有不同：
 >
 > - 抑制最早发展，略早于转换和更新([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
-> - 三种成分均在 3–5 岁出现大幅年龄相关变化或"铰链点"([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.10]])
-> - EF 的发展与[[Prefrontal Cortex|前额叶皮层]]（prefrontal-cortex）的成熟密切相关([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])
+> - 三种成分均在 3–5 岁出现大幅年龄相关变化或"铰链点"
+> - EF 的发展与[[Prefrontal Cortex|前额叶皮层]]（prefrontal-cortex）的成熟密切相关
 
 ## 与学业成就的关系
 

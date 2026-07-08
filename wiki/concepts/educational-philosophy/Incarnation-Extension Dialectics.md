@@ -44,15 +44,15 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > - **具身化（Incarnation）** — 每一次学习都具身化在你的身体存在中，而非仅存在于'内在'的心智认知结构中。学习同时是有意识和无意识的、可见和不可见的([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.9-10]])
 > - **扩展（Extension）** — 每次你具身化了值得具身化的东西，你就扩展了你的身体与心智综合（bodily and mental synthesis），意味着你现在更好地理解世界，获得了更广泛的行动范围和自由——把握和体验生活可以给你更多的东西([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
-> - **双向运动** — 具身化与扩展之间存在双向运动，对作为丰富的在世界之中存在（being-in-the-world）的人的发展至关重要([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
+> - **双向运动** — 具身化与扩展之间存在双向运动，对作为丰富的在世界之中存在（being-in-the-world）的人的发展至关重要
 >   > 例：学习一门新语言不仅是记住词汇和语法规则（外部输入），更是将这些语言能力具身化为可以自然调用的感知和表达方式（具身化），由此你获得了接触另一文化世界和以新方式思考的能力（扩展），而这又为进一步的学习提供了新的具身基础。
 
 ## 理论基础
 
 > [!info] 理论基础
 > - **Thomas Fuchs 的身体[[Phenomenology|现象学]]** — 人类运动可被描述为具身的、嵌入的、施行的（embodied, embedded, enacted）知识和经验，通过具身化-扩展辩证法的形式表达和感知([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
-> - **Fuchs & de Jaegher (2009)** 的参与式意义建构（participatory sense-making）和相互具身化（mutual incorporation）概念([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
-> - **Maxine Sheets-Johnstone** 的身体转向（corporeal turn）跨学科研究([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.10]])
+> - **Fuchs & de Jaegher (2009)** 的参与式意义建构（participatory sense-making）和相互具身化（mutual incorporation）概念
+> - **Maxine Sheets-Johnstone** 的身体转向（corporeal turn）跨学科研究
 
 ## 与相关概念的区别
 

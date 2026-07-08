@@ -51,7 +51,7 @@ updated: 2026-06-24
 > [!citation-card]- 关键表述
 > 分析归纳法的过程由 Znaniecki（1934）提出。研究者从一个理论出发（可能如[[Grounded Theory|扎根理论]]中那样从数据中涌现），随后有意识地寻找偏差或否证案例，为理论提供强有力的辩护。这与 Popper 的观念一致：严格的科学理论必须经得起证伪检验。在分析归纳法中，研究者有意识地寻找可能证伪理论的数据，从而增强最终理论的强度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 423)]]
 >
-> *An extension of theoretical sampling is 'analytic induction', a process advanced by Znaniecki (1934). Here the researcher starts with a theory (that may have emerged from the data as in grounded theory) and then deliberately proceeds to look for deviant or discrepant cases, to provide a robust defence of the theory. This accords with Popper's notion of a rigorous scientific theory having to stand up to falsifiability tests.*
+> *An extension of theoretical sampling is 'analytic induction', a process advanced by Znaniecki. Here the researcher starts with a theory (that may have emerged from the data as in grounded theory) and then deliberately proceeds to look for deviant or discrepant cases, to provide a robust defence of the theory. This accords with Popper's notion of a rigorous scientific theory having to stand up to falsifiability tests.*
 
 ## 核心要素
 

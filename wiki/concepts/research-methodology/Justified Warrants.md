@@ -56,8 +56,8 @@ updated: '2026-05-18'
 > - **暂定性（provisionality）** 担保而非确定，对批评和意外发现保持开放([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.6–7]])
 > - **逻辑推进（logical progression）** 研究的质量不仅取决于"如何做的"，更取决于从证据到担保性断言的逻辑推进是否合理，以及是否附有防止不切实际主张的保留条件([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.7]])
 > - **多元方法平等** 所有研究类型（量化、质性、混合）的证据均被视为同等有效且值得政策制定者考虑([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.6]])
-> - **研究者责任**Gorard（2002）指出许多关于研究证据及其适用性的混淆源于研究者做出了糟糕且不正当的担保——过度强调或混同了潜在的结论([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.7]])
-> - **打破学科与党派壁垒** 正当化担保的优势在于允许学者或政治家走出狭隘的研究壁垒和党派偏见([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.7]])
+> - **研究者责任**Gorard（2002）指出许多关于研究证据及其适用性的混淆源于研究者做出了糟糕且不正当的担保——过度强调或混同了潜在的结论
+> - **打破学科与党派壁垒** 正当化担保的优势在于允许学者或政治家走出狭隘的研究壁垒和党派偏见
 >
 
 ## 理论基础

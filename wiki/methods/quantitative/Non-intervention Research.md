@@ -55,7 +55,7 @@ updated: '2026-05-18'
 
 > [!example] 操作步骤
 > - **不操纵自[[Variable|变量]]**：研究者不主动引入处理或干预，这是非[[Intervention Research|干预研究]]与干预/[[Experimental Research|实验研究]]的核心区别([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
-> - **按数据类型区分子类** 观察/相关研究包含量化数据；[[Qualitative Research|质性研究]]包含访谈、观察等文本数据；[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]同时包含量化和质性数据([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **按数据类型区分子类** 观察/相关研究包含量化数据；[[Qualitative Research|质性研究]]包含访谈、观察等文本数据；[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]同时包含量化和质性数据。
 > - **生成而非检验干预[[Hypothesis|假设]]**：在理想研究序列中，非干预研究识别可能的[[Causality|因果关系]]，随后由干预研究或实验研究正式检验([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ## 适用场景

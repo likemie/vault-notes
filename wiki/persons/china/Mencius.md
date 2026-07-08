@@ -60,9 +60,9 @@ updated: '2026-06-08'
 > [!note]-
 > - ca. 372 BCE：出生于邹国([[Argument_Li_2012_Cambridge|Li, 2012, p.42]])
 > - 曾短暂在某一朝廷任大夫数年，但拒绝被任何国王"收买"或在其他角色下服务([[Argument_Li_2012_Cambridge|Li, 2012, p.45]])
-> - 坚持作为独立教师和独立思想者的身份，"在这一点上与[[Socrates|苏格拉底]]不无相似"([[Argument_Li_2012_Cambridge|Li, 2012, p.45]])
-> - 教导众多学生，同时辅导国王和贵族([[Argument_Li_2012_Cambridge|Li, 2012, p.45]])
-> - ca. 289 BCE：逝世([[Argument_Li_2012_Cambridge|Li, 2012, p.42]])
+> - 坚持作为独立教师和独立思想者的身份，"在这一点上与[[Socrates|苏格拉底]]不无相似"
+> - 教导众多学生，同时辅导国王和贵族
+> - ca. 289 BCE：逝世
 
 ---
 
@@ -119,7 +119,7 @@ updated: '2026-06-08'
 > [!success]
 > - 孟子对性善论的论证，为儒家[[Self-Cultivation|修身]]传统提供了从[[Confucius|孔子]]那里缺失的哲学基础([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-43]])
 > - "人人皆可为尧舜"的立场，使儒家道德理想从精英走向大众([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])
-> - "自得之"（finding it in oneself）成为[[Neo-Confucianism|宋明理学]]家重新发现[[Confucian Learning Tradition|儒家学习传统]]的关键概念([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])
+> - "自得之"（finding it in oneself）成为[[Neo-Confucianism|宋明理学]]家重新发现[[Confucian Learning Tradition|儒家学习传统]]的关键概念
 > - 作为独立思想者和批判声音的典范——"[[Take the World Upon Oneself|以天下为己任]]"——影响了后世无数中国知识分子([[Argument_Li_2012_Cambridge|Li, 2012, pp.45-46]])
 > - 与孔子一同被后世中国人尊为[[Sage|圣人]]([[Argument_Li_2012_Cambridge|Li, 2012, p.42]])
 

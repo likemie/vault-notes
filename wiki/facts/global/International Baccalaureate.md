@@ -4,7 +4,6 @@ aliases:
   - 国际文凭
   - IB
   - IB Diploma
-  - IB Diploma Program
 summary: "覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源"
 type: fact
 subtype: event
@@ -48,12 +47,12 @@ updated: 2026-06-30
 ## 定义
 
 > [!info] 定义
-> 国际文凭（International Baccalaureate, IB）是一套覆盖 3 至 19 岁学生的国际课程体系，包含小学、初中和高中三个项目，专为[[International Schools|国际学校]]设计，强调课程的可转移性([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。IB 源自多所国际学校的教学实践，现已被全球越来越多的国际学校乃至国家学校采用([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。
+> 国际文凭（International Baccalaureate, IB）是一套覆盖 3 至 19 岁学生的国际课程体系，包含小学、初中和高中三个项目，专为[[International Schools|国际学校]]设计，强调课程的可转移性([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。IB 源自多所国际学校的教学实践，现已被全球越来越多的国际学校乃至国家学校采用。
 
 ## 规模与增长
 
 
-截至 2009 年，IB 在 135 个国家拥有 709,000 名学生和 2,609 所学校，相较 2008 年的 596,000 名学生、2,218 所学校、125 个国家显著增长([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.28]])。地区分布为：美国 994 所、非洲/西亚/中东 698 所、亚太 362 所、拉丁美洲 254 所。这意味着超过四分之一的[[International Schools|国际学校]]使用 IB 课程([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.28]])。
+截至 2009 年，IB 在 135 个国家拥有 709,000 名学生和 2,609 所学校，相较 2008 年的 596,000 名学生、2,218 所学校、125 个国家显著增长([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.28]])。地区分布为：美国 994 所、非洲/西亚/中东 698 所、亚太 362 所、拉丁美洲 254 所。这意味着超过四分之一的[[International Schools|国际学校]]使用 IB 课程。
 
 ## 高中文凭项目结构
 
@@ -78,7 +77,7 @@ updated: 2026-06-30
 ## 意识形态中立性争议
 
 > [!warning] 意识形态中立性争议
-> IB 组织声称其课程"与全球化相连，但不受经济因素驱动，且没有政治和宗教的教条主义"（MacDonald, 2007，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.28]]）。然而，有教师提出质疑：以英语授课、要求英语学习熟练度本身已具有意识形态性质([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.28]])。
+> IB 组织声称其课程"与全球化相连，但不受经济因素驱动，且没有政治和宗教的教条主义"（MacDonald, 2007，转引自 [[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.28]]）。然而，有教师提出质疑：以英语授课、要求英语学习熟练度本身已具有意识形态性质。
 >
 > Drake（2004）指出，将具有西方、盎格鲁根源的 IB 课程直接引入不具备相同文化基础的亚洲学校，可能产生张力，因为 IB 对"多角度思考"和"开放心态"的强调，以及为实现这些目标所采用的教学方法[[Hypothesis|假设]]，可能与亚洲课堂文化存在冲突([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.29]])。
 

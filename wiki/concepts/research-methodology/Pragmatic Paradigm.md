@@ -1,6 +1,6 @@
 ---
 title: Pragmatic Paradigm
-aliases: [实用主义, 实用主义范式, pragmatism, pragmatic worldview]
+aliases: [实用主义, 实用主义范式, pragmatic worldview]
 summary: "混合方法研究的哲学基础，以实践驱动和适合目的为核心原则，不执着于任何单一哲学体系，以研究问题为中心选择方法。"
 type: concept
 domain: "research-methodology"

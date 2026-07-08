@@ -351,7 +351,7 @@ updated: '2026-06-17'
 ### PISA 作为循证政策制定的全球推动力
 
 > [!note]
-> Li et al.（2025）在对 85 篇实证研究的系统综述中指出，PISA 通过其数据驱动的比较分析和循证研究范式，在全球范围内推动了循证教育政策的制度化。德国在 PISA 冲击后将循证政策制定纳入教育治理新模式（Yore et al., 2010）；日本在 PISA 影响下建立了学校管理的"证据—改进循环"（Ninomiya, 2019）；约旦同样受到 PISA 循证范式的推动。PISA 使"以数据为基础的政策制定"成为全球教育改革的核心话语之一（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+> Li et al.（2025）在对 85 篇实证研究的系统综述中指出，PISA 通过其数据驱动的比较分析和循证研究范式，在全球范围内推动了循证教育政策的制度化。德国在 PISA 冲击后将循证政策制定纳入教育治理新模式（Yore et al., 2010）；日本在 PISA 影响下建立了学校管理的"证据—改进循环"（Ninomiya, 2019）；约旦同样受到 PISA 循证范式的推动。PISA 使"以数据为基础的政策制定"成为全球教育改革的核心话语之一。
 
 ### 起源：从循证医学到教育政策信号（1992–1996）
 
@@ -373,7 +373,7 @@ updated: '2026-06-17'
 > - **1998** — 美国国会首次将联邦教育拨款与有效性证据直接挂钩：[[Comprehensive School Reform Program]] 拨款 USD 150M/年，要求使用"经过验证的、全面的改革模式"（Obey-Porter 立法）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 > - **2001** — [[No Child Left Behind Act 2001]] 通过，全文提及"科学本位研究"110 次，定义该术语并奠定其作为 Title I、Reading First 等联邦项目的基础([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 > - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，旨在成为"关于教育中什么有效的科学证据的中央可信来源"([[Argument_Wiliam_2019|Wiliam, 2019, p.3]])
-> - **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+> - **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）
 > - **2010** — WWC 发布 [[Single-Case Design|SCD]] Pilot Standards，将[[Single-Case Design|单一个案设计]]认可为 [[Randomised Controlled Trials|RCT]] 之外的第二种实验证据生成方法；[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 随后澄清了其审查程序中推广性信息的捕获方式
 > - **2015** — ESSA 通过，正式定义强、中、有希望、基于原理四级证据标准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 
@@ -523,7 +523,7 @@ updated: '2026-06-17'
 > RCT 将教师热情和学生推理视为"污染源"加以控制——但这两者恰好是项目在真实课堂起效的深层机制。EBE 的方法论预设与其因果主张相互矛盾。[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]
 
 > [!note]- 批判实在论三层解构（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）
-> [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借助 [[Roy Bhaskar]] 与 Andrew Sayer 的[[Critical Realism|批判实在论]]哲学框架，对 EBE 进行了深层解构：
+> Wrigley 借助 [[Roy Bhaskar]] 与 Andrew Sayer 的[[Critical Realism|批判实在论]]哲学框架，对 EBE 进行了深层解构：
 > 
 > 1. **分层本体论（Stratified Ontology）** 批判实在论将实在区分为三层——"深层实在（Real，因果机制与结构）"、"实际发生（Actual，事件与结果）"与"经验现象（Empirical，观察到的恒常性）"。EBE 的[[Positivism|实证主义]]倾向只停留在经验层面计算效应量均值，却遗漏了深层真实的结构与机制分析。
 > 2. **开放系统与因果[[Emergence|涌现]]性（Emergence）**：教育是一个多层分层交互的"开放系统"（涵盖国家政策、学校制度、课堂互动、个体信念与 biographies）。整体的效果不能等同于各部分的线性累加，而是一个非线性的涌现过程。
@@ -597,7 +597,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 
 
 > [!note]- 三级失真机制详解（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018]]）
-> [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 深入剖析了证据自底层实验向上聚合至宏观政策工具时的三级失真机制：
+> Wrigley 深入剖析了证据自底层实验向上聚合至宏观政策工具时的三级失真机制：
 > - **Level 1（RCT 层面：实验简化与安慰剂缺失）** 控制组通常是"常规教学"（business as usual）的真实高强度教学而非医学上的空白安慰剂，这使效应量失去了绝对参考。此外，RCT 将教师的教学热情和学生的推理施为（Agency）视为干扰项进行严格[[Screening Off|屏蔽]]，形成了没有深层因果机制的"数据黑箱"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 5–6]]。
 > - **Level 2（元分析层面：[[Heterogeneity|异质性]]混淆与苹果橙子混合）**：元分析根据技术标准（如有无对照组）强行拼合极其异[[Qualitative Research|质的研究]]，将患者病情、教学情境等核心变量剥离，用平均数掩盖了实证研究中的变异性。Feinstein (1995) 批评这是"21世纪的统计炼金术"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]]。
 > - **Level 3（元-元分析层面：双重失真与排行榜修辞）** 以 Hattie 阀值和 EEF Toolkit 为代表的元-元分析，将前几级的统计偏误进一步累积和放大。其产出的"排行榜修辞"和"月份排行"彻底过滤掉了干预措施发挥作用的具体结构性与情境因素，为决策者提供了极具误导性的粗暴"钝器"[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 11–12]]。
@@ -623,7 +623,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > 科学不等于实验；许多科学领域不使用实验；许多重大发现并非来自系统程序。用低层次[[Scientific Method|科学方法]]研究高层次教育现象"从根本上是不科学的"（Thomas, 2012）。
 
 > [!note]- 核心论证（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）
-> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 从科学哲学角度对 EBT 的科学宣称进行了系统解构，论证其对"科学"的诉诸依赖于一种过分简化的**民间科学观**（folk-view of science, Thomas, 2012）：
+> Wrigley & McCusker 从科学哲学角度对 EBT 的科学宣称进行了系统解构，论证其对"科学"的诉诸依赖于一种过分简化的**民间科学观**（folk-view of science, Thomas, 2012）：
 > 
 > 1. **科学 ≠ 实验** 许多科学领域不使用实验（天文学、气象学、进化论）；许多重大发现并非来自系统程序（青霉素、尼龙、超导性、飞机）。
 > 2. **本体论层次混淆** 用低层次[[Scientific Method|科学方法]]研究高层次教育现象是"从根本上不科学的"（Thomas, 2012, p. 28）。
@@ -707,7 +707,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > EBE/Visible Learning 并非中立的技术工具，而是将教师知识商品化，与新自由主义监控文化结盟，系统性排斥难以测量的关怀伦理维度。[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]
 
 > [!note]- 核心论证与七点批评（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020]]）
-> [[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]] 以 [[John Hattie]] 的 [[Visible Learning]] 为分析对象，从文化政治视角开辟了批判维度：EBE 论述并非性别中立或能力中立的技术工具，而是在以女性为主的职业中推行男性化的视觉霸权，并将教师知识商品化后作为"外部专家建议"卖回给教师。
+> McKnight & Whitburn 以 [[John Hattie]] 的 [[Visible Learning]] 为分析对象，从文化政治视角开辟了批判维度：EBE 论述并非性别中立或能力中立的技术工具，而是在以女性为主的职业中推行男性化的视觉霸权，并将教师知识商品化后作为"外部专家建议"卖回给教师。
 > 
 > 七点批评摘要：
 > 1. **新自由主义政治包袱** VL 创造多层监控文化，否定了国家强制课程、测试制度等结构性暴力
@@ -733,7 +733,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > 2015–2019 年英国议会 11 场[[Grammar School|文法学校]]辩论分析：19 次与非轶事证据的交换中仅 6 次真正参与——其余转向道德侧步、轶事和党派攻击。[[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]
 
 > [!note]- 核心发现：议会中的证据回避（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]）
-> [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] 将 EBE 批判推进到议会政策制定的实际话语操作层面。对 2015–2019 年英国议会 11 场文法学校辩论的分析显示：
+> Bainbridge et al. 将 EBE 批判推进到议会政策制定的实际话语操作层面。对 2015–2019 年英国议会 11 场文法学校辩论的分析显示：
 > 
 > - 政府自身定义（Coldwell et al., 2017）要求使用[[Quantitative Research|量化研究]]和系统综述，但议会内部报告和 Ofsted 评级才是实际上最有影响力的证据来源
 > - 2016 年"教育与社会流动性"辩论中，19 次与非轶事证据的交换中仅 6 次真正参与了证据；5 次属于道德侧步

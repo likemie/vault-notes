@@ -104,7 +104,7 @@ citation_aliases:
 >
 > 论文汇编了 10+ 位学者的批评（Table 2, p.236），分为方法论和文化两个维度：
 >
-> **方法论批评** 元分析数据过时（Lupton, Terhart）；效应量平均化不当（Brown, Kamenetz）；异构研究"苹果与橘子"式比较([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Jones)；效应量非[[Causality|因果性]]([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；d=0.40 阈值任意([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；[[Qualitative Research|定性研究]]被忽略([[Argument_Terhart_2011_JCS|Terhart, 2011]]; [[Argument_Snook_2009_NZJES|Snook et al., 2009]])；未[[Societies of Control|控制社会]]环境因素([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS|Terhart, 2011]])；缺乏效度评估([[Argument_Snook_2009_NZJES|Snook et al., 2009]])；低于 0.40 的效应量不应被忽略（Slavin）；数据来自英语国家不可全球推广([[Argument_Snook_2009_NZJES|Snook et al., 2009]])
+> **方法论批评** 元分析数据过时（Lupton, Terhart）；效应量平均化不当（Brown, Kamenetz）；异构研究"苹果与橘子"式比较([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Jones)；效应量非[[Causality|因果性]]；d=0.40 阈值任意；[[Qualitative Research|定性研究]]被忽略([[Argument_Terhart_2011_JCS|Terhart, 2011]];)；未[[Societies of Control|控制社会]]环境因素；缺乏效度评估；低于 0.40 的效应量不应被忽略（Slavin）；数据来自英语国家不可全球推广
 >
 > Myburgh et al.识别了元-元分析的六项"慢性问题"：垃圾进垃圾出、[[Publication Bias|发表偏倚]]、苹果与橘子比较、效应量误用、经验偏见（只使用经验可得的指标）、应用局限（忽视社会互动因素）(p.237)
 >
@@ -128,7 +128,7 @@ citation_aliases:
 > 1. **方法无效** 效应量数据集不均匀，结论不可靠
 > 2. **文化不匹配** Hattie 将教师定位为"学生教育路径的调节者（moderator）而非专业教师"，这种"去专业化"（underprofessionalization）与俄罗斯 2016 年修订的《教师》职业标准（允许无师范教育背景者从教）形成危险共振，可能进一步降低教师职业的社会声望(p.240)
 > 3. **官僚化风险** VL 要求的持续监控和外部问责将增加教师的官僚负担。RANEPA 2018 年全俄监测显示 79% 的中学教师报告报表工作量显著增加，工作"越来越难"；Vologda 地区研究显示超过四分之一的想离职的教师主要担忧职业官僚化(p.240-241)
-> 4. **澳大利亚前车之鉴**[[Argument_Eacott_2017_SLM|Eacott (2017)]] 描述澳大利亚实施 VL 后形成的"持续数据生产"政策为"澳大利亚教育领导力的悲剧"(p.240)
+> 4. **澳大利亚前车之鉴**[[Argument_Eacott_2017_SLM|Eacott (2017)]] 描述澳大利亚实施 VL 后形成的"持续数据生产"政策为"澳大利亚教育领导力的悲剧"
 > 5. **教育中很少有简单的"有效"或"无效"** 正确的问题是"在什么条件下这在学校中有效？"——而这与 Hattie 的方法论逻辑相悖(p.241, citing Slavin)
 
 ## 主要发现

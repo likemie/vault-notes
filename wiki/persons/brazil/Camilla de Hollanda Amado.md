@@ -49,9 +49,9 @@ updated: '2026-06-08'
 
 > [!note]-
 > - 1941 年出生([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
-> - 巴西著名女演员和剧场导演，在巴西剧场界享有体制性地位和认可([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
-> - 与 [[Dell Delambre]] 共同创立 Bora Bora em Bando 项目，旨在为 Rocinha 贫民窟的剧场团体 Bando Cultural Favelados da Rocinha（由 [[Richard Castelo Branco]] 导演）争取社会可见度和文化认可([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
-> - 2021 年 6 月 6 日去世，享年 82 岁([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
+> - 巴西著名女演员和剧场导演，在巴西剧场界享有体制性地位和认可
+> - 与 [[Dell Delambre]] 共同创立 Bora Bora em Bando 项目，旨在为 Rocinha 贫民窟的剧场团体 Bando Cultural Favelados da Rocinha（由 [[Richard Castelo Branco]] 导演）争取社会可见度和文化认可
+> - 2021 年 6 月 6 日去世，享年 82 岁
 
 ## 主要著作与思想发展
 
@@ -69,7 +69,7 @@ updated: '2026-06-08'
 
 > [!success]
 > - 通过 Bora Bora em Bando 项目，Amado 为 Rocinha 贫民窟剧场团体和 [[Richard Castelo Branco]] 的[[Epistemology of Resistance|抵抗认识论]]实践争取了原本不会拥有的社会可见度和文化体制关注([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
-> - 她的去世被 Delambre 记录为巴西社区文化运动的重大损失——她在 2021 年 6 月 6 日去世，享年 82 岁这一信息被单独、郑重地在论文中提及。Delambre 与她的合作经历——将她看到贫民窟知识被用于国家发展的梦想转化为具体文化项目的过程——构成了 [[Ganz-Methode]] 实证基础的重要组成部分([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])。
+> - 她的去世被 Delambre 记录为巴西社区文化运动的重大损失——她在 2021 年 6 月 6 日去世，享年 82 岁这一信息被单独、郑重地在论文中提及。Delambre 与她的合作经历——将她看到贫民窟知识被用于国家发展的梦想转化为具体文化项目的过程——构成了 [[Ganz-Methode]] 实证基础的重要组成部分。
 
 ## 格言／关键表述
 

@@ -61,7 +61,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> Allerup 追问：[[John Hattie]] 在 *[[Visible Learning]]* 中用[[Effect Size|效应量]]对教学干预排序时，哪些统计技术前提必须成立，d 值才具有可比较的意义(p.42)。论文明确不讨论 Hattie 的[[Didaktik|教学理论]]和具体排名清单，而是从统计学角度检查效应量计算本身是否足以支撑跨干预排序(p.42)。这一问题直接关联 [[Meta-meta-analysis]] 的政策用途：当多个[[Meta-analysis|元分析]]被压缩为单一排名表时，点估计是否足以支持"哪个干预更有效"的判断。
+> Allerup 追问：[[John Hattie]] 在 *[[Visible Learning]]* 中用[[Effect Size|效应量]]对教学干预排序时，哪些统计技术前提必须成立，d 值才具有可比较的意义(p.42)。论文明确不讨论 Hattie 的[[Didaktik|教学理论]]和具体排名清单，而是从统计学角度检查效应量计算本身是否足以支撑跨干预排序。这一问题直接关联 [[Meta-meta-analysis]] 的政策用途：当多个[[Meta-analysis|元分析]]被压缩为单一排名表时，点估计是否足以支持"哪个干预更有效"的判断。
 
 ## 理论框架
 

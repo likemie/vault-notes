@@ -82,9 +82,9 @@ citation_aliases:
 >
 > ### 丹麦本土证据链
 >
-> SFI 报告提供了丹麦证据的主轴。它是丹麦关于"什么促进学生学习"的最大且方法上最先进的研究；报告以 Folkeskole 毕业考试成绩为主要学习指标，并在统计上控制学生社会背景。因此，它能够检验学业成绩意义上的[[Effective Teaching|有效教学]]，但不能穷尽教育的全部目的(p.37)。
+> SFI 报告提供了丹麦证据的主轴。它是丹麦关于"什么促进学生学习"的最大且方法上最先进的研究；报告以 Folkeskole 毕业考试成绩为主要学习指标，并在统计上控制学生社会背景。因此，它能够检验学业成绩意义上的[[Effective Teaching|有效教学]]，但不能穷尽教育的全部目的。
 >
-> Mehlbye (2004, 2010) 的高绩效学校研究提供了学校层面的补充证据。高要求、学业表现取向和明确课堂管理不仅出现在 SFI 报告中，也出现在丹麦高绩效学校研究中，尤其与弱社会背景学生的成绩提升相关(pp.37–38)。
+> Mehlbye (2004, 2010) 的高绩效学校研究提供了学校层面的补充证据。高要求、学业表现取向和明确课堂管理不仅出现在 SFI 报告中，也出现在丹麦高绩效学校研究中，尤其与弱社会背景学生的成绩提升相关。
 >
 > ### 测试与反馈的测量边界
 >
@@ -102,7 +102,7 @@ citation_aliases:
 > - 三个国际综合基本一致：[[Effective Teaching|有效教学]]的核心质量是教师领导、清晰目标、个体适配、良好气氛和学生主动参与，而不是某种固定教学方法(pp.35–36)。
 > - 丹麦 SFI 研究显示，明确一致的[[Classroom Management|课堂管理]]、清晰目标、高要求和良好社会环境促进学生成绩；教师在班级团队中的合作也与更好结果相关(p.37)。
 > - 丹麦证据与国际研究一致地显示，弱社会背景学生特别依赖清晰教师领导与目标，而开放教学对这类学生较不利(p.38)。
-> - 丹麦研究没有显示教学差异化能显著提升学生学习。这一点与 Hattie 对[[Individualised Instruction|个别化教学]]效应较小的判断相一致，也与 Helmke 对教学差异化经验证据不足的承认相呼应(p.38)。
+> - 丹麦研究没有显示教学差异化能显著提升学生学习。这一点与 Hattie 对[[Individualised Instruction|个别化教学]]效应较小的判断相一致，也与 Helmke 对教学差异化经验证据不足的承认相呼应。
 > - 频繁测试是丹麦证据与国际综合之间的主要偏差：SFI 和 Mehlbye 发现，丹麦学生在测试较频繁时学得更多；Mehlbye 还发现测试受到学生欢迎。这与 Hattie 关于频繁测试没有显著积极效果的结论不同(pp.38–39)。
 > - SFI 关于反馈的零效应不应被过度解释，因为相关问项只询问教师是否告诉学生其发展或表现如何，没有捕捉"下一步怎样改进"这一反馈核心(p.39)。
 > - Laursen 的最终区分是：语境当然重要，但学生社会背景这一语境比国家文化这一语境更能解释"什么有效"的差异(p.40)。
@@ -114,7 +114,7 @@ citation_aliases:
 > ("Svaret bliver et 'ja', og hvis man vil være forsigtig, kan man eventuelt tilføje et 'i det store og hele'.")(p.40)
 >
 > > “作为学生社会背景被理解的情境非常重要。但是，作为国家文化被理解的情境，似乎并没有发挥什么重要作用……”
-> ("Konteksten, forstået som elevernes sociale baggrund, betyder i høj grad noget. Men konteksten, forstået som den nationale kultur, ser ikke ud til at spille nogen større rolle...")（作为学生社会背景的语境非常重要；但作为国家文化的语境似乎并不发挥同样大的作用。）(p.40)
+> ("Konteksten, forstået som elevernes sociale baggrund, betyder i høj grad noget. Men konteksten, forstået som den nationale kultur, ser ikke ud til at spille nogen større rolle...")（作为学生社会背景的语境非常重要；但作为国家文化的语境似乎并不发挥同样大的作用。）
 
 ## 局限性与批评
 

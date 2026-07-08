@@ -83,7 +83,7 @@ citation_aliases:
 > - **分析对象** Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
 > - **分析视角** 作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究(p.33)
 > - **数据来源** Hattie 的出版物、[[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
-> - **局限性（作者自认）** 由于专门批评 VL 文化政治的[[Document|文献]]匮乏，论文直接进入批评而非常规[[Literature Review|文献综述]](p.34)
+> - **局限性（作者自认）** 由于专门批评 VL 文化政治的[[Document|文献]]匮乏，论文直接进入批评而非常规[[Literature Review|文献综述]]
 
 ## 核心论证
 
@@ -125,7 +125,7 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “‘可见的学习’是实现‘新管理全景敞视主义’(Ball, 2003, p. 219)的完美工具，而这种主义现在已经不再那么新鲜了；当学习必须变得可见时，每个人都可以监视其他人。”
-> ("[[Visible Learning]] is the perfect tool for the 'new management panopticism' (Ball, 2003, p. 219) that is not so new anymore; when learning must be visible, everyone can spy on everyone else.")(p.34)
+> ("[[Visible Learning]] is the perfect tool for the 'new management panopticism' that is not so new anymore; when learning must be visible, everyone can spy on everyone else.")(p.34)
 >
 > > “在‘可见的学习’的[[Meta-analysis|元分析]]中，教师的智慧被夺取、加工，并以一定的代价被重新提供回来。在一个女性化的职业中(Apple, 1986/2013)，教师们屈服于教育中异性恋正统的、性别歧视的和能力歧视的构建。”
 > ("In Visible Learning's [[Meta-analysis]], the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education.")(p.35)
@@ -147,7 +147,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - **论文自认局限** 非实证课堂研究，而是理论性参与；由于专门批评 [[Visible Learning|VL]] 文化政治的[[Document|文献]]匮乏，未进行常规[[Literature Review|文献综述]](p.34)；作者承认自己也可能同样"将教师定位为匮乏者、未被意识到的被接管者、被学者发声的腹语术人偶"(p.42)
 > - **立场** 作者来自包容性教育领域（残疾研究和性别研究），其文化政治立场明确，不声称[[Value Neutrality|价值中立]]
-> - **可能被驳回的方式** 作者预见到批评可能被"方便地驳回或边缘化，而不充分参与我们的想法"(p.42)，并呼吁"不回避审问论述的文化政治的、有力的辩论"
+> - **可能被驳回的方式** 作者预见到批评可能被"方便地驳回或边缘化，而不充分参与我们的想法"，并呼吁"不回避审问论述的文化政治的、有力的辩论"
 
 ## 来源
 

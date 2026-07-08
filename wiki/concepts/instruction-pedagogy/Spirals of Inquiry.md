@@ -58,8 +58,8 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - [[OECD]] (2015) 在 *Schooling Redesigned* 报告中特别强调探究螺旋支持新学习和教学方法规模化实施的能力([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
-> - 实证研究已为探究螺旋底层的行动理论提供了证据（McGregor, 2013; Timperley, Parr, & Meisel, 2010）([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
-> - [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 306)]] 将其定位为与"什么有效"策略互补——当教师参与持续探究工作时，他们更可能发现新证据并以持续的方式融入实践
+> - 实证研究已为探究螺旋底层的行动理论提供了证据（McGregor, 2013; Timperley, Parr, & Meisel, 2010）
+> - Peterson 将其定位为与"什么有效"策略互补——当教师参与持续探究工作时，他们更可能发现新证据并以持续的方式融入实践
 
 ## 与相关概念的区别
 

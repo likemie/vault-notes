@@ -93,10 +93,10 @@ updated: 2026-06-09
 
 > [!info]- 核心数据
 > - 促进与参与教师的学习与发展（promoting and participating in teacher learning and development）对学生学业成绩的[[Effect Size|效应量]]高达 **ES = 0.84**（[[School Effectiveness|SE]] = 0.14），是唯一具有高度影响力的维度。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
-> - 确立目标与期望（establishing goals and expectations）的效应量为 **ES = 0.42**（[[Standard Error|SE]] = 0.07）。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
-> - 规划、协调与评估教学及课程（planning, coordinating, and evaluating teaching and the curriculum）的效应量为 **ES = 0.42**（SE = 0.06）。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
-> - 战略性资源配置（strategic resourcing）的效应量为 **ES = 0.31**（SE = 0.10）。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
-> - 建立有序且支持性的环境（establishing an orderly and supportive environment）的效应量为 **ES = 0.27**（SE = 0.09）。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
+> - 确立目标与期望（establishing goals and expectations）的效应量为 **ES = 0.42**（[[Standard Error|SE]] = 0.07）。
+> - 规划、协调与评估教学及课程（planning, coordinating, and evaluating teaching and the curriculum）的效应量为 **ES = 0.42**（SE = 0.06）。
+> - 战略性资源配置（strategic resourcing）的效应量为 **ES = 0.31**（SE = 0.10）。
+> - 建立有序且支持性的环境（establishing an orderly and supportive environment）的效应量为 **ES = 0.27**（SE = 0.09）。
 
 ---
 

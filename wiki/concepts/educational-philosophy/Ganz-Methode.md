@@ -52,13 +52,13 @@ updated: '2026-05-18'
 >
 > Ganz-Methode 包含两个核心步骤：（1）承载张力以构建运动中的整体进路；（2）通过整体进路发现 [[Life Power|生命力量]] 和生命意义价值([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107–108, 112–113]])。其理论前提详见 [[Creative Tension of Sense#核心命题]]。
 >
-> > "Ganz 是对所有张力的同时识别与连接。因此，整体（the whole）是对永远在变化的现实的整体进路。"([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112]])
+> > "Ganz 是对所有张力的同时识别与连接。因此，整体（the whole）是对永远在变化的现实的整体进路。"
 
 ## 概念辨析
 
 > [!example]
 > - vs **整全方法论（holistic approach）** Delambre 明确区分 Ganz 与 holistic——后者暗示一个静态的、可被完整把握的整体，而 Ganz 强调整体始终在张力和运动之中，永远不能被一次性捕捉([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112]])
-> - vs **问题解决导向方法** 常规方法论以"解决问题"或"消解张力"为目标，而 Ganz-Methode 的核心是**承载张力**而非消解张力——允许新旧共存，为内部变化留出时间([[Argument_Delambre_2022_Springer|Delambre, 2022, p.112]])
+> - vs **问题解决导向方法** 常规方法论以"解决问题"或"消解张力"为目标，而 Ganz-Methode 的核心是**承载张力**而非消解张力——允许新旧共存，为内部变化留出时间
 
 ## 概念演变
 
@@ -106,6 +106,6 @@ updated: '2026-05-18'
 > - **经济张力** 有工人的公司 vs AI 自动化后无工人的公司；增长 vs 去增长（degrowth）([[Argument_Delambre_2022_Springer|Delambre, 2022, p.115–117]])
 > - **能源与发展张力** 化石燃料发展模式 vs 可再生能源模式，两种社会项目之间的选择([[Argument_Delambre_2022_Springer|Delambre, 2022, p.115–116]])
 > - **信息权威张力** 传统[[Knowledge Production|知识生产]]权威（大学、研究机构）vs 社交媒体影响者（influencers）——没有正式可[[Reliability|信度]]的人通过粉丝数量成为各领域权威([[Argument_Delambre_2022_Springer|Delambre, 2022, p.116]])
-> - **人际关系张力** 面对面交往 vs 虚拟社交网络——重新定义在场、缺席、距离、孤独、真实、谎言等基本概念([[Argument_Delambre_2022_Springer|Delambre, 2022, p.115–116]])
+> - **人际关系张力** 面对面交往 vs 虚拟社交网络——重新定义在场、缺席、距离、孤独、真实、谎言等基本概念
 > - **大学内部张力** 学科新旧内容之争、正式知识 vs 社会新兴知识、大学回应社会变化的速度远落后于变化本身的速度([[Argument_Delambre_2022_Springer|Delambre, 2022, p.114–115, 118–119]])
 

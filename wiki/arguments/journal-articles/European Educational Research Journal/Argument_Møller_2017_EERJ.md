@@ -86,10 +86,10 @@ citation_aliases:
 >
 > OECD 的 ISL 项目将[[School Leadership|学校领导力]]呈现为去政治化的"最佳实践"，但：
 > - 表面上政治中立的模型仍然是政治化的(p.377)
-> - 对绩效问责氛围没有实质性批评(p.377)
-> - 两个矛盾话语并行运作：专业化共同体 vs [[New Public Management|新公共管理]]的外部控制(p.377)
-> - [[PISA]] 嵌入 OECD 的政府间结构，塑造国家教育系统内部的绩效和风险管理(p.377)
-> - 为了建立跨国可比性，教育系统之间的差异被淡化——这是从非常不同的系统引进"最佳实践"的前提(p.377)
+> - 对绩效问责氛围没有实质性批评
+> - 两个矛盾话语并行运作：专业化共同体 vs [[New Public Management|新公共管理]]的外部控制
+> - [[PISA]] 嵌入 OECD 的政府间结构，塑造国家教育系统内部的绩效和风险管理
+> - 为了建立跨国可比性，教育系统之间的差异被淡化——这是从非常不同的系统引进"最佳实践"的前提
 >
 > **2. [[Reflexivity|反思性]]批判：ISSPP 类型研究的方法论局限**
 >
@@ -110,7 +110,7 @@ citation_aliases:
 > [!success] 主要发现
 > 1. **[[OECD]] 的两面性**：OECD 同时推广分布式领导的"专业共同体"话语和[[New Public Management|新公共管理]]的"外部控制"话语，二者并行运作构成悖论(p.377)
 >
-> 2. **ISSPP 的共同主题** 跨 20+ 国的成功校长叙事呈现共同主题——伦理关怀、道德使命感、关系信任、对社会正义的承诺(p.380)。但 Møller 提醒这些发现基于自我报告，校长可能知道"正确答案"(p.380)
+> 2. **ISSPP 的共同主题** 跨 20+ 国的成功校长叙事呈现共同主题——伦理关怀、道德使命感、关系信任、对社会正义的承诺(p.380)。但 Møller 提醒这些发现基于自我报告，校长可能知道"正确答案"
 >
 > 3. **高 stakes vs 低 stakes 的差异** 英语国家（高 stakes 问责）与北欧国家（低 stakes 福利传统）的政策环境根本不同，但校长表达的价值观相似性多于差异性(p.379-380)
 >
@@ -131,10 +131,10 @@ citation_aliases:
 > ("Education is and always will be a contested [[Champ|field]].")(p.383)
 >
 > > “成功要求我们追问：在什么方面或为了什么的成功，为谁而成功，谁获益，以及在什么条件下成功？”
-> ("Success requires that we ask: success in or for what, success for whom, who benefits, and success under what conditions?")(p.383)
+> ("Success requires that we ask: success in or for what, success for whom, who benefits, and success under what conditions?")
 >
 > > “什么算作证据，不应与更深层的哲学问题相脱离，因为教育本质上是一项道德事业。”
-> ("What counts as evidence should not be separated from deeper philosophical questions, because education is essentially a moral enterprise.")(p.383)
+> ("What counts as evidence should not be separated from deeper philosophical questions, because education is essentially a moral enterprise.")
 
 ## 局限性与批评
 

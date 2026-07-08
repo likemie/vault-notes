@@ -53,15 +53,15 @@ updated: '2026-05-18'
 > - [[OECD]] 启动 AHELO 可行性研究，试图开发跨国可比的高等教育学习成果评估工具（Tremblay, Lalancette & Roseveare, 2012, cited in Boyadjieva, 2022, p.136）
 > - 可行性研究获得的评估结果相当矛盾，未能证明该项目的技术可行性和国际可比性
 > - 项目遭到学术界的强烈反对——Philip Altbach（2015）批评"由于各国课程差异显著，AHELO 将是在测试苹果和橙子，更不用说猕猴桃和西兰花了"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.136]])
-> - 美国和加拿大顶尖大学的校长联合声明指出"AHELO 根本性地误解了学习成果评估的目的——学习成果应当是让各机构自行确定和定义他们期望学生达成的成就，并衡量他们是否成功实现了这些目标"（Husbands, 2015, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.136]]）
-> - AHELO 被众多学者定义为一次"失败"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.136]])
+> - 美国和加拿大顶尖大学的校长联合声明指出"AHELO 根本性地误解了学习成果评估的目的——学习成果应当是让各机构自行确定和定义他们期望学生达成的成就，并衡量他们是否成功实现了这些目标"（Husbands, 2015, cited in）
+> - AHELO 被众多学者定义为一次"失败"
 
 ---
 
 ## 影响与后果
 
 > [!success]
-> AHELO 的失败揭示了高等教育质量测量中的根本性困境：（1）高校课程和培养目标的跨国差异使得统一的学习成果测量在技术上极其困难；（2）排名系统并非中立的技术工具，而是"确认和再分配高等教育地位的基本机制"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.136]])；（3）AHELO 的支持者认为，顶尖大学对 AHELO 的抵制是"对特权的捍卫——顶尖大学知道他们会在声望和研究强度的比较中胜出，但他们不知道在教学和学习的比较中会如何"（Usher, 2015, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.136]]）。
+> AHELO 的失败揭示了高等教育质量测量中的根本性困境：（1）高校课程和培养目标的跨国差异使得统一的学习成果测量在技术上极其困难；（2）排名系统并非中立的技术工具，而是"确认和再分配高等教育地位的基本机制"([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.136]])；（3）AHELO 的支持者认为，顶尖大学对 AHELO 的抵制是"对特权的捍卫——顶尖大学知道他们会在声望和研究强度的比较中胜出，但他们不知道在教学和学习的比较中会如何"（Usher, 2015, cited in）。
 
 ---
 

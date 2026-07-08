@@ -205,8 +205,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1938c14344215b35",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "scripts/__pycache__/vault_lint.cpython-310.pyc",
+    "wiki/concepts/education-economics/Total Factor Productivity.md",
+    "wiki/concepts/education-economics/New Quality Productive Forces.md",
     "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
     "wiki/templates/template-concept.md",
     "wiki/concepts/comparative-education/Policy Borrowing.md",
@@ -237,9 +240,6 @@
     "wiki/persons/france/Bruno Latour.md",
     "wiki/persons/france/René Descartes.md",
     "wiki/concepts/educational-philosophy/Scientism.md.tmp.19113.119b61660730",
-    "wiki/theories/educational-philosophy/Pragma-Dialectics.md",
-    "wiki/concepts/learning-science-cognitive-science/Metacognition.md",
-    "wiki/concepts/higher-education/Knowledge Production.md",
     "wiki/concepts/research-methodology/Falsification.md.tmp.19113.115b6ad9f58c",
     "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md.tmp.19113.8b31e25f1468",
     "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md.tmp.19113.d030f5db451a",

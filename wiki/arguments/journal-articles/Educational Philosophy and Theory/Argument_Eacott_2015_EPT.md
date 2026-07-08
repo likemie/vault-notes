@@ -60,7 +60,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > 以 **[[Pierre Bourdieu]]** 的社会理论为理论资源，特别聚焦于 Bourdieu 通常被教育行政 Bourdieu 式研究所忽视的[[Epistemology|认识论]]维度——主要来自 Bourdieu, Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*(p.313)。
 >
-> Eacott 的 Bourdieu 运用既非亦步亦趋的忠诚，也非随意截取，而是以 Bourdieu 的认识论论证来**描述他在教育领导力、管理和行政学术中看到的正在发生的事情(p.313)**。
+> Eacott 的 Bourdieu 运用既非亦步亦趋的忠诚，也非随意截取，而是以 Bourdieu 的认识论论证来**描述他在教育领导力、管理和行政学术中看到的正在发生的事情**。
 >
 > 核心不满：大多数教育行政中的 Bourdieu 式研究优先使用[[Champ|场域]]-[[Habitus|习性]]-资本等思维工具，但未能处理 Bourdieu 的认识论预备——这导致这类研究"难以超越学校教育的行政管理的（再）生产本质"(p.313-314)。
 

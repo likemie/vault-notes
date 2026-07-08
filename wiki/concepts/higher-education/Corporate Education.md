@@ -69,7 +69,7 @@ updated: 2026-05-18
 > - **软权力功能** 企业教育是[[Cultural Political Economy|文化政治经济学]]所称的"经济想象"（economic imaginary）的载体——它生产和传播关于市场如何运作、公司应该追求什么的共享认知，是市场运作的关键促成因素([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.180]])
 > - **组织嵌入性** 企业教育的形式和国际化程度与 MNC 组织类型深度挂钩——联邦型、国际型和跨国型 MNCs 分别偏好不同的培训标准化水平和权威策略。详见 [[Corporate University]] 中 MNC 类型 × CU 类型的对应分析([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.186–188]])
 > - **权威依赖性** 公司管理层虽有权力命令员工参训，但这不等同于培训被视为高质量。企业教育需借助外部权威来源（模仿高等教育、专业认证、同行评审、外包给营利性提供商）来获取合法性。四种策略详见 [[Argument_Hartmann_2022_CorporateEducation]] 第四步([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.188–191]])
-> - **[[Varieties of Capitalism|生产体制]]制约**：IVET 在协调型市场经济体（CMEs，如德国）中高度制度化，依赖行业协会、工会和政府之间的复杂非市场安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立学徒制的尝试均告失败([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.184–185]])
+> - **[[Varieties of Capitalism|生产体制]]制约**：IVET 在协调型市场经济体（CMEs，如德国）中高度制度化，依赖行业协会、工会和政府之间的复杂非市场安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立学徒制的尝试均告失败
 
 ---
 
@@ -94,13 +94,13 @@ updated: 2026-05-18
 
 > [!success]
 > - 所有受访的德国 MNCs 都尝试在海外分支建立学徒制（[[German Dual Education System|双元制]]），但均遇到重大困难，表明 IVET 高度依赖国家层面的复杂非市场制度安排([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.185]])
-> - 超过 50% 的 MNCs 提供全球高潜力人才培训项目，管理培训的国际化程度最高([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.185]])
+> - 超过 50% 的 MNCs 提供全球高潜力人才培训项目，管理培训的国际化程度最高
 > - 国际型 MNCs（高整合、低本地响应）倾向于提供高度标准化的学校型企业教育，以在整个公司内确保合规；这类公司总部多位于美国或其他自由市场经济体（LMEs）([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.187–188]])
 > - 跨国型 MNCs（高整合、高本地响应）建立全球矩阵，将总部开发的管理能力框架交由各地分支根据本地情况修改——这种模式创造了一个既统一又兼顾差异的跨国教育空间([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.188]])
 
 > [!info]- 核心数据
 > - 2015 年全球前 100 大 MNCs 雇佣超过 1700 万员工，较 2014 年增长 9.4%（UNCTAD, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.181]]）
-> - MNCs 贡献全球约一半出口、近三分之一 GDP、约四分之一全球就业（OECD, 2018, cited in [[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.181]]）
+> - MNCs 贡献全球约一半出口、近三分之一 GDP、约四分之一全球就业（OECD, 2018, cited in）
 > - 企业培训支出遵循"滴漏策略"（trickle-down strategy）：员工正式资格越高、职位越高，获得培训的可能性越大（Brandon Hall Group, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.185]]）
 
 ---

@@ -39,9 +39,9 @@ updated: 2026-05-18
 > [!info] 定义
 > Parallel Monologues 是 [[Scott Eacott]] 提出的概念，描述教育行政与领导力研究领域中学者之间缺乏真正对话与辩论的现象——学者们在各自的学术社区内发表和引用，但很少认真尝试与他人的知识主张进行实质性交锋([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])。
 >
-> > "what we are more likely to experience, both as consumers and generators of research is 'parallel monologues'"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])
+> > "what we are more likely to experience, both as consumers and generators of research is 'parallel monologues'"
 >
-> Eacott 认为这一概念不仅适用于教育行政与领导力，也可能适用于更广泛的教育研究([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])。
+> Eacott 认为这一概念不仅适用于教育行政与领导力，也可能适用于更广泛的教育研究。
 
 ## 核心要素
 
@@ -49,7 +49,7 @@ updated: 2026-05-18
 > - **缺乏真正的学术交锋** 即使在期刊和会议中进行"辩论"，学者们也往往只致力于将自己的意见强加于他人，而非理解对方的知识主张([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774]])
 > - **学术社区的自我封闭** 学者们找到志同道合的同行社区及其对应的期刊、会议，在各自的子领域内建立事业，"常常愉快地不知晓其内外正在发生的学术对话和辩论"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.774-775]])
 > - **良性忽视而非[[Academic Engagement|学术参与]]**：Eacott 援引 Donmoyer（2001）、Thrupp & Willmott（2003）和 Blackmore（2010）的观点，指出在教育行政与领导力中，对待不同意见者的方式更多是"良性忽视和冷漠"而非智识参与([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
-> - **多学科／跨学科的呼吁停留于表面** 尽管学界呼吁多学科和跨学科方法，但[[Paradigm|范式]]战争的痕迹使得即使是最资深的教授也难以与不同立场的研究者进行有意义的交流([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775]])
+> - **多学科／跨学科的呼吁停留于表面** 尽管学界呼吁多学科和跨学科方法，但[[Paradigm|范式]]战争的痕迹使得即使是最资深的教授也难以与不同立场的研究者进行有意义的交流
 
 ## 历史沿革
 
@@ -74,7 +74,7 @@ updated: 2026-05-18
 > [!success] 实证发现
 > - Eacott 以其 2017 年关于"Hattie [[Cult of the Guru|大师崇拜]]"的论文为案例（n=1），描述了论文收到的反应模式：正面回应远多于负面，但 Eacott 承认"困扰我的始终是后者"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.775-776]])
 > - 一位早期博士候选人通过个人博客和 LinkedIn 攻击该论文为"纯粹意见文章"和"虚构而非研究"，但从未直接告知 Eacott——"愿意攻击某人的研究但不告知对方"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]])
-> - 另一人向 Eacott 所在大学的科研副校长投诉，认为该论文是对 Hattie 和证据本位策略的"攻击"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]])
+> - 另一人向 Eacott 所在大学的科研副校长投诉，认为该论文是对 Hattie 和证据本位策略的"攻击"
 > - Hattie 的回应（2017）被 Eacott 认为未能实质性参与其核心论证：Hattie 仅需"以 Ryle 的术语来说，这是'眨眼'的重演——关注几个词而不把握其底层生成意义"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.779]])
 > - *[[School Leadership]] & Management* 编辑拒绝了 Eacott 对 Hattie 回应的再回应，理由是期刊有大量新作者等待发表——Eacott 认为这体现了该领域学术工作的逻辑中对对话和辩论的低优先级([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 

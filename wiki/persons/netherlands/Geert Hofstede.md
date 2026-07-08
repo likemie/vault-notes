@@ -39,7 +39,7 @@ updated: '2026-06-08'
 
 > [!info] 核心思想
 > - [[Hofstede's Cultural Dimensions]] — Hofstede 的原始工作提出四个国家文化维度：个人主义/集体主义、权力距离、女性化/男性化、不确定性规避([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
-> - 国家文化价值相对稳定，并影响国家政策、制度实践以及共享该文化的人们的行为([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
+> - 国家文化价值相对稳定，并影响国家政策、制度实践以及共享该文化的人们的行为。
 
 ## 主要贡献
 

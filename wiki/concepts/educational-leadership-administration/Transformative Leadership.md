@@ -36,7 +36,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 变革型领导力（Transformative Leadership）是由 [[Carolyn Shields]]（2010, 2011）提出的教育领导力框架，其核心特征是**以权力为调查的起点（power is a starting point for the investigation）**，而非将领导力视为去政治化的组织管理行为([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])。
 >
-> > Møller 将其描述为一种使研究者能够"将专业工作和组织发展定位于权力结构之中，并调查如何改变权力结构以解决社会不平等问题"的视角([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])。
+> > Møller 将其描述为一种使研究者能够"将专业工作和组织发展定位于权力结构之中，并调查如何改变权力结构以解决社会不平等问题"的视角。
 
 ## 核心要素
 

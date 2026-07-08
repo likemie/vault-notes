@@ -263,7 +263,7 @@ citation_aliases:
 
 > [!info]- 核心数据
 > - 2019 年，澳大利亚 32.4% 的学生支付商业性国际学费，贡献了 27.3% 的大学收入(Australian government, 2024)(p. 19)
-> - 人口仅 2500 万的澳大利亚在 [[Academic Ranking of World Universities|ARWU]] 前 100 名中有 7 所大学，高引用论文比例与英国持平(NSB, 2022)(p. 19)
+> - 人口仅 2500 万的澳大利亚在 [[Academic Ranking of World Universities|ARWU]] 前 100 名中有 7 所大学，高引用论文比例与英国持平(NSB, 2022)
 > - 1990 年亚洲全球产出占比 29%，后升至超 50%(Pieterse, 2018)(p. 23)
 > - 英美殖民顶峰时期控制或强烈影响了地球 95% 以上的区域(p. 15)
 

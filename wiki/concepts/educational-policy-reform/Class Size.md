@@ -82,7 +82,7 @@ updated: '2026-05-23'
 > - 对课堂整体互动框架的影响：大班产生更多小组和更多组内学生人数，对教学、学习和学生注意力产生负面影响([[Argument_ONeill_2012_NZJES|O'Neill, 2012, p.157]])。
 > - 对教师的影响：小班中教师更有可能花时间与个别学生相处；大班中教师面临更多[[Classroom Management|课堂管理]]和控制压力，需要补偿性努力，并承受更大压力([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.157-158]])。
 > - 对学生的影响：小班中学生更可能积极参与学习、较少出现干扰行为；大班中学生更可能被动听教师讲课([[Argument_ONeill_2012_NZJES|O'Neill, 2012, p.158]])。
-> - 对低成就学生的意义：小班对所有学生都有教师注意力方面的可证明益处，但在小学低年级和中学低年级尤其重要，对低成就学生尤为关键，因为他们在大班中更可能脱离学习([[Argument_ONeill_2012_NZJES|O'Neill, 2012, p.158]])。
+> - 对低成就学生的意义：小班对所有学生都有教师注意力方面的可证明益处，但在小学低年级和中学低年级尤其重要，对低成就学生尤为关键，因为他们在大班中更可能脱离学习。
 
 ### 教学方式
 
@@ -175,9 +175,9 @@ Johnson & Janzen 指出，Hattie 在不同文本中使用的班级规模[[Meta-a
 > [!note]- Johnson & Janzen 的五点解构
 > - 元分析选择不一致：[[Visible Learning]] 仅使用 3 项元分析得出 d = 0.21，而 Hattie 早期综合曾使用 14 项元分析并报告 d = 0.13，显示效应量受研究选择影响([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.33]])。
 > - Glass & Smith 提取不透明：Hattie 从 Glass & Smith 元分析中提取 d = 0.09，但该值并非原作者自己的结论，且与其“小班学习更多”的解释存在张力([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.32]])。
-> - 加州案例语境扭曲：[[California Class Size Reduction 1996]] 缺少合格教师和教室空间，因此不能直接当作普通班额缩减无效的证据([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.33]])。
+> - 加州案例语境扭曲：[[California Class Size Reduction 1996]] 缺少合格教师和教室空间，因此不能直接当作普通班额缩减无效的证据。
 > - 论述权重异常：class size 在 Visible Learning 中出现 95 次，远高于排名第一的 self-reported grades，说明 Hattie 对“班额不重要”的论述投入了异常多的篇幅([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp.31-32]])。
-> - 定性维度缺失：即使接受成就效应量计算，仍应考察教师和学生在大小班中的经验差异，例如一对一时间、课堂社区、教师工作条件和标准化测试不可见的长期社会效益([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.32]])。
+> - 定性维度缺失：即使接受成就效应量计算，仍应考察教师和学生在大小班中的经验差异，例如一对一时间、课堂社区、教师工作条件和标准化测试不可见的长期社会效益。
 
 ### 政策误用
 

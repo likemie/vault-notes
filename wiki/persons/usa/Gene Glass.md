@@ -78,7 +78,7 @@ updated: '2026-06-19'
 
 > [!work-line] 主要著作
 > - **1977 — *[[Meta-analysis]] of psychotherapy outcome studies***：与玛丽·李·史密斯合作发表，首次大规模应用元分析方法综合心理治疗效果，发现平均[[Effect Size|效应量]]为 0.6 SD。 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
-> - **2000 — *Meta-analysis at 25***：元分析方法诞生 25 年后的回顾与反思，强调其在探索变异性上的原始科学价值。 ([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
+> - **2000 — *Meta-analysis at 25***：元分析方法诞生 25 年后的回顾与反思，强调其在探索变异性上的原始科学价值。
 
 ---
 

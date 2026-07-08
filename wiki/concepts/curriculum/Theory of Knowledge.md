@@ -131,11 +131,11 @@ updated: 2026-07-04
 > | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | Y12 622<br>Y11 620 | Y12 4.85（1.05）<br>Y11 4.62（1.08） | — | $t(1240)=3.04$<br>$p<.001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | 总 $N=1,242$<br>分组 n — | Y12 4.69（1.15）<br>Y11 4.48（1.22） | — | $t(1240)=3.04$<br>$p<.01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | ATAR | DP 94<br>非 DP 267 | DP 94.13（6.79）<br>非 DP 89.29（12.07） | — | $t(290)=4.76$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | — | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | 预期大学成果 | DP 99<br>非 DP 283 | DP 3.43（0.43）<br>非 DP 3.32（0.47） | — | $t(380)=2.25$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | DP 42<br>非 DP 126 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | — | 组间比较；完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
+> | Cole et al. | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | 总 $N=1,242$<br>分组 n — | Y12 4.69（1.15）<br>Y11 4.48（1.22） | — | $t(1240)=3.04$<br>$p<.01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
+> | Cole et al. | DP 与非 DP 毕业生 | ATAR | DP 94<br>非 DP 267 | DP 94.13（6.79）<br>非 DP 89.29（12.07） | — | $t(290)=4.76$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
+> | Cole et al. | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | — | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
+> | Cole et al. | DP 与非 DP 毕业生 | 预期大学成果 | DP 99<br>非 DP 283 | DP 3.43（0.43）<br>非 DP 3.32（0.47） | — | $t(380)=2.25$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
+> | Cole et al. | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | DP 42<br>非 DP 126 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | — | 组间比较；完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
 
 ---
 

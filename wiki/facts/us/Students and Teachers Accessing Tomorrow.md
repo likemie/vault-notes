@@ -54,9 +54,9 @@ updated: 2026-05-23
 > [!note]-
 > - **2014-2015** — 项目从 10 所 Lighthouse elementary schools 的 1-3 年级启动，用于试点和调整项目组件([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115-116]])。
 > - **2015-2016** — Lighthouse schools 扩展到 K、4、5、6 年级；全学区开始纳入 1-3 年级([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。
-> - **2016-2017** — Lighthouse schools 扩展到 7 年级和 9-12 年级；全学区扩展到 K、4、5、6 年级([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。
-> - **2017-2018** — Lighthouse schools 扩展到 8 年级；全学区扩展到 7-8 年级([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。
-> - **2018-2019** — 全学区扩展到 9-12 年级，完成分阶段推进([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。
+> - **2016-2017** — Lighthouse schools 扩展到 7 年级和 9-12 年级；全学区扩展到 K、4、5、6 年级。
+> - **2017-2018** — Lighthouse schools 扩展到 8 年级；全学区扩展到 7-8 年级。
+> - **2018-2019** — 全学区扩展到 9-12 年级，完成分阶段推进。
 
 ## 实施情况
 

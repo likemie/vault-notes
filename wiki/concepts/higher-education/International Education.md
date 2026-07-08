@@ -73,7 +73,7 @@ updated: '2026-05-18'
 > - 1978–2003 年，580,000 名中国本科和研究生赴美留学([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.17]])
 > - 截至 2006 年，全球超过 270 万大学生出国留学，且持续增长([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.1]])
 > - 2008 年，南亚和东亚（含中国）及印度次大陆学生占美国新入学国际学生的 61%([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])
-> - 加上短期交流、海外实习和教师交换，参与国际教育的人数总计超过 600 万([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.1]])
+> - 加上短期交流、海外实习和教师交换，参与国际教育的人数总计超过 600 万
 > - 中国自身也成为留学目的地：外国学生从 61,869（2001）增至 140,000+（2005）([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.18]])
 
 ### 评估框架：从国家考试到跨国比较

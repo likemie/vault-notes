@@ -84,7 +84,7 @@ updated: '2026-06-08'
 >
 > **Hattie（1992）的推进**
 >
-> Hattie 综合了 Fraser et al.（1987）中的 134 项元分析，引入"通用连续体"概念，将所有因素置于同一标准差量表上。平均[[Effect Size|效应量]]为 0.40，反馈是最强大的单一影响（1.13），[[Individualised Instruction|个别化教学]]效果最低（0.14）([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
+> Hattie 综合了 Fraser et al.中的 134 项元分析，引入"通用连续体"概念，将所有因素置于同一标准差量表上。平均[[Effect Size|效应量]]为 0.40，反馈是最强大的单一影响（1.13），[[Individualised Instruction|个别化教学]]效果最低（0.14）。
 
 ---
 

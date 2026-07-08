@@ -49,7 +49,7 @@ updated: '2026-05-18'
 > [!example] 概念辨析
 > - vs 西方个体主义 — Ubuntu 不是"我思故我在"（Descartes），而是"我们存在，故我在"（I am because we are）。个体身份不是先在的，而是从关系中[[Emergence|涌现]]的
 > - vs [[Buen Vivir]] — 两者都拒绝个体主义和消费主义，但 Ubuntu 更侧重人际关系的互依性（"通过他人成为人"），Buen Vivir 更侧重人与自然和共同体的和谐共处([[Argument_Amos_2022_Springer|Amos, 2022, p.64]])
-> - vs [[Posthumanism]] — Amos 指出 Ubuntu 与后人类主义共享关系性[[Ontology|本体论]]——"存在不是个体的属性，而是在与他者的关系中构成的"。区别在于 Ubuntu 来自非洲的本土哲学传统，而非西方学术话语([[Argument_Amos_2022_Springer|Amos, 2022, p.64]])
+> - vs [[Posthumanism]] — Amos 指出 Ubuntu 与后人类主义共享关系性[[Ontology|本体论]]——"存在不是个体的属性，而是在与他者的关系中构成的"。区别在于 Ubuntu 来自非洲的本土哲学传统，而非西方学术话语
 >
 
 ## 核心要素

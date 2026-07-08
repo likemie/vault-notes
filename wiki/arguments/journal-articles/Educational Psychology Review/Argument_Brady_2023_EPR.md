@@ -75,7 +75,7 @@ citation_aliases:
 > - 方法：期刊文章[[Coding in Qualitative Research|编码]]与趋势比较。
 > - 样本：核心 2020 年五刊样本为 255 篇经验文章，期刊包括 *Journal of Educational Psychology*、*American Educational Research Journal*、*Cognition and Instruction*、*Journal of Experimental Education* 和 *Contemporary Educational Psychology*；作者另编码 2019 年 *Journal of Educational Psychology* 的 87 篇文章以检验年度稳定性，二者合计 342 篇(pp.4-6)。
 > - 方法分类：观察/相关研究、[[Intervention Research|干预研究]]、[[Experimental Research|实验研究]]、[[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]。观察/相关研究不操纵自[[Variable|变量]]且含量化数据；干预与实验都操纵自变量，但实验进一步要求[[Random Assignment|随机分配]]；质性研究不操纵自变量且使用访谈、观察等文本数据；混合方法/多方法研究不操纵自变量且同时包含量化和质性数据(p.4)。
-> - RFP 编码：若文章暗示或明确说明采用/避免、增加/减少某实践会改善教师或学生结果，即编码为包含[[Recommendations for Practice|实践建议]](p.4)。
+> - RFP 编码：若文章暗示或明确说明采用/避免、增加/减少某实践会改善教师或学生结果，即编码为包含[[Recommendations for Practice|实践建议]]。
 > - [[Reliability|信度]]：所有作者先独立编码同一期 *Contemporary Educational Psychology* 文章并讨论达成共识；其后每人编码约 50 篇，并额外交叉编码 30 篇。研究方法编码一致率为 91%，RFP 编码一致率为 76%，所有分歧经小组讨论达成共识(p.5)。
 
 ## 核心论证
@@ -84,7 +84,7 @@ citation_aliases:
 > 1. **教育心理学研究序列正在停在相关阶段** 如果目标是指导实践，描述性和相关研究应通向干预[[Hypothesis|假设]]检验；但过去 30 年经验教育心理学期刊中[[Intervention Research|干预研究]]下降、观察/相关研究上升，显示研究序列常在非干预阶段结束(pp.2-3)。
 > 2. **[[Non-intervention Research|非干预研究]]的[[Recommendations for Practice|实践建议]]构成[[Causality|因果]]推论风险**：作者以一项结构方程模型研究为例说明，研究没有[[Variable|变量]]操纵，却在实践意义部分建议操纵某变量以改善另一变量；这体现了用观察数据推断[[Causality|因果关系]]并给出基于假定因果性的 RFP(p.3)。
 > 3. **2020 年趋势延续并复杂化** 干预研究比例自 2010 年后稳定在 25%，随机实验继续降至 20%；观察/相关研究比例从 2010 年的 66% 降至 2020 年的 46%，但这主要伴随[[Qualitative Research|质性研究]]上升至 22%，非干预研究总体仍约占四分之三(pp.6-7)。
-> 4. **RFP 在非干预研究中继续增长** 观察/相关文章含 RFP 的比例从 2000 年 41%、2010 年 46% 上升至 2020 年 66%；质性研究和[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中也分别有 65% 与 60% 包含 RFP，说明 2020 年约三分之二的非干预文章提出实践建议(pp.6-7)。
+> 4. **RFP 在非干预研究中继续增长** 观察/相关文章含 RFP 的比例从 2000 年 41%、2010 年 46% 上升至 2020 年 66%；质性研究和[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中也分别有 65% 与 60% 包含 RFP，说明 2020 年约三分之二的非干预文章提出实践建议。
 > 5. **出版制度可能强化这种错配** 作者观察到一些论文在讨论部分给出清晰 RFP，却在局限性部分承认不能得出因果结论、仍需[[Experimental Research|实验研究]]；期刊、审稿人或出版方对实践意义的期待可能形成反馈循环，使作者把 RFP 视为规范写作的一部分(p.9)。
 
 ## 主要发现
@@ -113,7 +113,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 作者没有[[Coding in Qualitative Research|编码]] RFP 的强度与范围，只记录是否存在 RFP；因此无法区分紧贴样本、措辞谨慎的建议与广泛、强[[Causality|因果]]语气的建议(p.9)。
 > - 2020 年 JEP 的[[Qualitative Research|质性研究]] special issue 可能使质性研究比例偏高；但排除 special issue 后，质性研究仍占 19%，因此质性研究上升趋势并非完全由该专刊造成(pp.5-6)。
-> - 研究未能继续使用 Reinhart et al. (2013) 对"建模"的编码，因为 2010 年后建模方法类型和使用方式急剧增加，区分"什么算建模"已变得不具实质意义(p.9)。
+> - 研究未能继续使用 Reinhart et al. (2013) 对"建模"的编码，因为 2010 年后建模方法类型和使用方式急剧增加，区分"什么算建模"已变得不具实质意义。
 
 ## 来源
 

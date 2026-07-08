@@ -88,14 +88,14 @@ citation_aliases:
 >
 > **2. 大脑-身体-社会的复杂性不可还原（Section 2）**
 > - ~860 亿神经元 × ~10,000 连接 × ~13 万亿突触 → 任何将学习定位和识别于大脑中的尝试都在"制造关于学习存在公分母的神话"(p.5)
-> - 大脑不是独立器官，而是身体的一部分；去学校读书的是完整的人，不是大脑(p.5)
+> - 大脑不是独立器官，而是身体的一部分；去学校读书的是完整的人，不是大脑
 > - 神经科学的宏观-微观尺度与人类日常经验不匹配：人类生活在"中间"——既不感受突触活动，也不感受光速或星系旋转(p.6)
 >
 > **3. 教师[[Visible Learning|可见的学习]]（Visible Learning，VL） ≠ 学生有意识/无意识学习（Section 3）**
 > - 对教师/测试者可见的东西不等同于学生复杂学习过程的内容
 > - 三个"世界"不可调和：学生的一阶[[Phenomenology|现象学]]内在、教师的评估外在、科学透明的外在(p.4)
 > - Hattie 尽管鼓励学校参与者多听彼此，却从不与他的研究"对象"——学习者——对话(p.7)
-> - 学习测量体制被比作奥古斯丁以来"全视上帝"权威的世俗化版本：从宗教的全能凝视，到科学家的穿透性观察，再到当代自动化算法和 [[PISA]] 分数(p.7)
+> - 学习测量体制被比作奥古斯丁以来"全视上帝"权威的世俗化版本：从宗教的全能凝视，到科学家的穿透性观察，再到当代自动化算法和 [[PISA]] 分数
 >
 > **4. 学习不是[[Value Neutrality|价值中立]]的概念——[[Bildung]] 要求更多（Section 4）**
 > - 学习概念的历史语义学分析：在丹麦，1960-70 年代"læring"曾是批判性、解放性的术语；1990 年代后被资本主义逻辑吸收，成为不可逃避的状况和强制要求(p.8-9)
@@ -106,9 +106,9 @@ citation_aliases:
 
 > [!success] 主要发现
 > - **盲视不可逃避** — [[Visible Learning|VL]] 的强大追随者"不能看见他们不能看见的东西——无论当他们看见他们认为自己看见的东西时，还是当他们没有看见他们不想看见的东西时"(p.10)
-> - **可见性意识形态的风险** — 如果忘记 Luhmann 的盲点论断，VL 追随者"就是在支持制造一种无边界的超积极可见性意识形态，并堆积有限数据来为大范围的视觉中心模拟做出贡献"(p.10)
+> - **可见性意识形态的风险** — 如果忘记 Luhmann 的盲点论断，VL 追随者"就是在支持制造一种无边界的超积极可见性意识形态，并堆积有限数据来为大范围的视觉中心模拟做出贡献"
 > - **Hattie 的自[[Reflexivity|反身性]]局限** — Hattie 和 Zierer 承认"课堂上只有 20% 可观察"（即使这个估计也被 Larsen 认为过高），但将这一自我批判的[[Epistemology|认识论]]提醒转而用作呼吁更多 VL 研究的理由——恰恰落入了 Luhmann 描述的盲点困境(p.3)
-> - **教育的目的是超越增强[[Visible Learning|VL]]过程和结果的** — 这远比 VL 所设想的更具挑战性和要求(p.10)
+> - **教育的目的是超越增强[[Visible Learning|VL]]过程和结果的** — 这远比 VL 所设想的更具挑战性和要求
 
 ## 关键引用
 
@@ -117,7 +117,7 @@ citation_aliases:
 > ("An international consensus seems to have developed in educational research—and among educational planners and policymakers—during the last 10–15 years proclaiming that learning is, and must be, a visible phenomenon. This paper questions this predominant view.")(p.1)
 >
 > > “其论点是，对学习拥有强大科学和政治话语权的拥护者们看不到他们看不见的东西——无论是在他们看到他们（以为自己）看到的东西时，还是在他们没有看到他们不（想）看到的东西时。”
-> ("The thesis is that powerful scientific and political adherents of learning cannot see what they cannot see—neither when they see what they (think they) see, nor when they do not see what they do not (want to) see.")(p.1)
+> ("The thesis is that powerful scientific and political adherents of learning cannot see what they cannot see—neither when they see what they (think they) see, nor when they do not see what they do not (want to) see.")
 >
 > > “教育的目的比增强可见的学习过程和结果要求更高，也更具挑战性。”
 > ("The purpose of education is much more demanding and challenging than enhancing [[Visible Learning]] processes and results.")(p.10)
@@ -129,7 +129,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 论文明确声明为"个人化论文"，不依赖对 Hattie 其他批评的[[Systematic Review|系统综述]]，这意味着其论证是选择性的(p.2-3)
-> - 未系统回答"为什么 Hattie 的 [[Visible Learning|VL]] 在[[International Education|国际教育]]政治中获得如此大的影响力"这一重要问题——Larsen 承认这一限制(p.2-3)
+> - 未系统回答"为什么 Hattie 的 [[Visible Learning|VL]] 在[[International Education|国际教育]]政治中获得如此大的影响力"这一重要问题——Larsen 承认这一限制
 > - [[Bildung]] 作为替代框架被 Larsen 自己承认需要"进一步加强和固化"(p.10)
 > - 该论文未提出任何经验数据支持其主张，属于纯哲学论证
 
