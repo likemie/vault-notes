@@ -115,10 +115,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **议程设置理论**<br>Agenda-Setting Theory | 解释 [[PISA]] 结果如何将教育问题推上公共政策议程。Martens & Niemann（2013）用以分析什么条件下数字（PISA 分数和排名）能产生政策影响。 |
-> | **当代人力资本理论与全球化治理框架**<br>Contemporary Human Capital Theory & Governance Frameworks | Sellar & Lingard（2018）用以解释 PISA 如何将教育投入与学生知识技能产出联系起来，为分析全球化与教育治理提供人力资本视角。 |
-> | **教育政策自愿趋同的因果机制理论**<br>Causal Mechanism Theory of Voluntary Convergence | Bieber & Martens（2011）通过建立教育政策自愿趋同的[[Causality\|因果]]机制框架，分析跨国沟通（cross-border communication）、规制竞争（regulatory competition）和独立问题解决（independent problem-solving）如何导致政策趋同。 |
-> | **体用框架**<br>Ti-Yong（体用）Framework | Xie et al.（2022）借用中国自古以来解释中西关系的体用框架：体指事物根本、内在和本质的性质，用指体之表现与功能。该框架用于分析中国在 PISA 外部影响下处理问题的政治行动。 |
+> | **议程设置理论**<br>agenda-setting theory | 解释 [[PISA]] 结果如何将教育问题推上公共政策议程。Martens & Niemann（2013）用以分析什么条件下数字（PISA 分数和排名）能产生政策影响。 |
+> | **当代人力资本理论与全球化治理框架**<br>human capital theory & global governance | Sellar & Lingard（2018）用以解释 PISA 如何将教育投入与学生知识技能产出联系起来，为分析全球化与教育治理提供人力资本视角。 |
+> | **教育政策自愿趋同的因果机制理论**<br>voluntary convergence | Bieber & Martens（2011）通过建立教育政策自愿趋同的[[Causality\|因果]]机制框架，分析跨国沟通、规制竞争和独立问题解决如何导致政策趋同。 |
+> | **体用框架**<br>Ti-Yong framework | Xie et al.（2022）借用中国自古以来解释中西关系的体用框架：体指事物根本、内在和本质的性质，用指体之表现与功能。该框架用于分析中国在 PISA 外部影响下处理问题的政治行动。 |
 > | **[[Actor-Network Theory\|行动者网络理论]]** | 将权力视为与知识、主体地位和参与者身份交织的治理网络。该框架指出政治情感（political sentiment）是[[Theories of Policy Change\|政策变革]]的重要杠杆；情感理论框架和批判话语分析有助于分析文本材料中的支配、权力和控制结构关系。 |
 
 > [!warrant]- 理论如何支撑论证
