@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/comparative-education/Policy Borrowing.md",
+                "file": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Policy Borrowing"
+              "title": "Argument_Li_2025_HSSC"
             }
           },
           {
@@ -207,9 +207,11 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
-    "wiki/templates/template-concept.md",
-    "wiki/concepts/comparative-education/Policy Borrowing.md",
+    "wiki/theories/comparative-education/Actor-Network Theory.md",
     "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
+    "wiki/concepts/educational-policy-reform/Theories of Policy Change.md",
+    "wiki/concepts/comparative-education/Policy Borrowing.md",
+    "wiki/templates/template-concept.md",
     "wiki/concepts/comparative-education/Reference Society.md",
     "wiki/concepts/comparative-education/PISA Shock.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
@@ -234,8 +236,6 @@
     "wiki/instruments/observations/ToK Classroom Observation Protocol.md",
     "scripts/__pycache__/vault_lint.cpython-310.pyc",
     "wiki/concepts/education-economics/Total Factor Productivity.md",
-    "wiki/concepts/education-economics/New Quality Productive Forces.md",
-    "wiki/instruments/inventories/California Critical Thinking Disposition Inventory.md",
     "sources/Li_2025_HSSC/figures",
     "sources/Li_2025_HSSC/Li_2025_HSSC.pdf",
     "sources/Li_2025_HSSC",
