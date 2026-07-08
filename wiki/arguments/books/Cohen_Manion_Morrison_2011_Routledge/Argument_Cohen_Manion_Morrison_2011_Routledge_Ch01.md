@@ -539,7 +539,7 @@ Woods (1983: 15–16)进一步总结了互动论的核心焦点：个体作为�
 
 #### 9.2 哲学基础：实用主义
 
-混合方法研究的哲学基础是[[Pragmatic Paradigm|实用主义]]([[Pragmatism in China|pragmatism]])(pp.647–651)：
+混合方法研究的哲学基础是[[Pragmatic Paradigm|实用主义]](pragmatism)(pp.647–651)：
 
 > [!abstract] 实用主义的核心原则
 > - **实践驱动**(practice-driven, Denscombe, 2008, p. 280)而非理想化
@@ -605,7 +605,7 @@ Teddlie and Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一�
 > - **优先级(priority)** 量化还是质性取向占主导地位，还是在数据收集和分析阶段被赋予同等权重
 > - **实施时机(implementation/timing)** 量化和质性数据收集与分析是同时进行还是一先一后进行
 > - **整合阶段(integration)** 量化和质性方法的整合发生在哪个阶段
-> - **焦点议题(issues)** 混合方法围绕哪些议题展开(如构念、变量、研究问题、[[Purpose Statement|研究目的]])
+> - **焦点议题(issues)** 混合方法围绕哪些议题展开(如构念、变量、研究问题、[[Research Purpose|研究目的]])
 > - **独立／互动程度(independence/interaction)** 不同方法在多大程度上被独立地或互动地概念化、设计和实施(Greene, 2008, p. 14)
 > - **变革意图(transformative intention)** 研究是否具有明确的政治议程
 > - **范围(scope)** 方法的混合发生在单一研究中还是跨越一个研究项目中的多个研究
