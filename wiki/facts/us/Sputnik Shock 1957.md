@@ -4,6 +4,7 @@ aliases:
   - Sputnik Shock
   - 斯普特尼克冲击
   - Sputnik
+  - 人造卫星冲击
 summary: "1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接"
 type: fact
 subtype: event

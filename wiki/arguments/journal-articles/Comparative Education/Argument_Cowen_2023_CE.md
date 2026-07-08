@@ -9,9 +9,9 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 51
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Cowen, R. (2023). Comparative education: and now? Comparative Education, 59(3), 326-340."
@@ -82,7 +82,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: '2026-07-04'
+updated: '2026-07-08'
 year: 2023
 doi: ""
 citation_aliases:

@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

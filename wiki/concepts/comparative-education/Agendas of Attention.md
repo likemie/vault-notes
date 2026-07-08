@@ -7,7 +7,7 @@ aliases:
 summary: "克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -69,7 +69,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: '2026-07-01'
+updated: '2026-07-08'
 year: 2009
 doi: ""
 citation_aliases:
