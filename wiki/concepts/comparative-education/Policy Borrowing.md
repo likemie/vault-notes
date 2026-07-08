@@ -28,13 +28,13 @@ related_concepts:
   - "[[Re-Westernisation]]"
   - "[[Orientalism]]"
   - "[[Analytic Framework]]"
-  - "[[IB Diploma Programme]]"
-  - "[[Visible Learning]]"
   - "[[Revolutionism]]"
   - "[[Government to Governance Shift]]"
   - "[[Methodological Nationalism]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[IB Diploma Programme]]"
+  - "[[Visible Learning]]"
   - "[[Heterogeneity]]"
   - "[[School Autonomy]]"
 related_theories:
@@ -61,8 +61,8 @@ related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
-  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Beech_2015_GSE]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: draft
@@ -254,7 +254,7 @@ updated: '2026-07-08'
 > - **2006 — 跨国吸引力情境地图** Rappleye 提出推拉力情境概念地图，理清了[[Pre-Transfer Agency|前转移能动性]]与多层次结构因素的作用机制。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
 > - **2009 — 形态变异理论主张** Cowen 建立“转移—[[Transfer Translation Transformation|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。([[Argument_Cowen_2009_CE|Cowen, 2009]])
 > - **2012 — 政治借用与实质学习的系统区隔** Steiner-Khamsi 系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
-> - **2023 — 怀特三大传统地缘解构** Klerides 将国际关系三大传统（现实主义、理性主义和革命主义）引入政策借用研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。([[Argument_Klerides_2023_CE|Klerides, 2023]])
+> - **2023 — 怀特三大传统地缘解构** Klerides 将[[Wight's Three Traditions of International Theory|国际关系三大传统]]（现实主义、理性主义和[[Revolutionism|革命主义]]）引入政策借用研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。([[Argument_Klerides_2023_CE|Klerides, 2023]])
 > - **2025 — 威权/高压政治语境下的分析失效边界** 政策借用作为合法化工具的理论适用性被明确界定在“半开放协商政治”的权力边界内，高压威权与行政命令直接接管的现象为该框架确立了失效边界。([[Argument_Yan_2025_JCS|Yan & Morris, 2025]])
 
 ---
