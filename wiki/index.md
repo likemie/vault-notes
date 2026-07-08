@@ -42,7 +42,7 @@ Total entries: **1549**
 > - [[Interpretation Community]] — 某种解释在特定社群中获得动量并从观点演变为广泛接受事实的机制，用于说明争议如何被共同语言、立场和制度位置稳定下来。
 
 > [!index-list]- Comparative Education (46)
-> - [[Agendas of Attention]] — Klerides（2023）从国际关系理论角度提出的概念，指比较教育在特定国际关系传统（现实主义、理性主义、革命主义）影响下选择性关注某些问题而忽略另一些问题的模式，揭示了比较教育知识生产的政治条件
+> - [[Agendas of Attention]] — 克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制
 > - [[Assemblage]] — 行动者网络理论的核心概念，指人类和非人类行动者通过转译过程聚合形成的网络，具有稳定性但也可能断裂和重构
 > - [[Circular Transfer]] — Steiner-Khamsi 提出的概念，指教育思想或实践在出借者和借用者之间来回移动的过程，如殖民地在独立前被用作教育改革的实验室
 > - [[Confucian Heritage Cultures]] — 受儒家学习传统影响的文化区域分类，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等国家和地区
@@ -769,7 +769,7 @@ Total entries: **1549**
 > - [[Institutional Isomorphism]] — 解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论
 > - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
 > - [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] — Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育政策的影响机制分为超国家、国家层面和内部行动者网络三个层级，强调全球教育场域中的双向互动
-> - [[Wight's Three Traditions of International Theory]] — Martin Wight 将国际关系思想归纳为现实主义（Machiavelli）、理性主义（Grotius）和革命主义（Kant）三大传统，分别以权力、权威和武力为核心概念，Klerides 将其引入比较教育以解构学科的注意力议程与知识生产
+> - [[Wight's Three Traditions of International Theory]] — 马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产
 > - [[World Society Theory]] — 把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同
 > - [[World-Systems Theory]] — 把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系
 
