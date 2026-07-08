@@ -21,7 +21,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Internal Validity]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
@@ -55,7 +55,7 @@ updated: 2026-06-24
 > 访谈效度的独特之处在于——它依赖于一种在其他方法中被视为"偏差来源"的因素：**人际互动**。在问卷中，标准化格式增强了[[Reliability|信度]]；在实验中，控制程序增强了[[Internal Validity|内部效度]]。但在访谈中——特别是开放式、非结构化访谈中——正是访谈者和受访者之间自然的人际互动使深度披露成为可能。标准化消除了这种互动，从而在增强信度的同时削弱了效度。
 
 > [!claim] Kitwood 的解决方向：明智的妥协
-> Kitwood 的建议是寻求一个**"明智的妥协"（judicious compromise）**——既不完全放弃结构化以追求纯粹的人际对话（那样会牺牲信度），也不完全标准化以追求纯粹的可复制性（那样会牺牲效度）。这一妥协的具体形式取决于[[Purpose Statement|研究目的]]——探索性研究可能更偏向效度（深度、人际性），确证性研究可能更偏向信度（标准化、可复制性）。
+> Kitwood 的建议是寻求一个**"明智的妥协"（judicious compromise）**——既不完全放弃结构化以追求纯粹的人际对话（那样会牺牲信度），也不完全标准化以追求纯粹的可复制性（那样会牺牲效度）。这一妥协的具体形式取决于[[Research Purpose|研究目的]]——探索性研究可能更偏向效度（深度、人际性），确证性研究可能更偏向信度（标准化、可复制性）。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 213)]]
 

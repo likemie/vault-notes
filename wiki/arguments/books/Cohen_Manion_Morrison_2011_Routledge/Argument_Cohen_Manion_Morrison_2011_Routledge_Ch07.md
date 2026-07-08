@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 54
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -27,7 +27,6 @@ tags:
   - theme/research-planning
 related_concepts:
   - "[[Fitness for Purpose]]"
-  - "[[Purpose Statement]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
@@ -119,7 +118,7 @@ updated: 2026-06-21
 
 ### 7.1 引言
 
-研究规划没有单一蓝图。研究设计由目的适切性（[[Fitness for Purpose]]）原则支配，[[Purpose Statement|研究目的]]决定了研究的方法论和设计。三种典型情境的对应关系清晰说明了这一原则：
+研究规划没有单一蓝图。研究设计由目的适切性（[[Fitness for Purpose]]）原则支配，[[Research Purpose|研究目的]]决定了研究的方法论和设计。三种典型情境的对应关系清晰说明了这一原则：
 
 > [!chain-link] 目的适切性的三重推理
 > - **情境与设计的直接对应**
@@ -899,7 +898,7 @@ Furlong and Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（
 > *At issue here is the need for researchers not only to consider the nature of the phenomenon under study, but what are or are not the ontological premises that underpin it, the epistemological bases for investigating it and conducting the research into it. These are points of reflection and decision, turning the planning of research from being solely a mechanistic or practical exercise into a reflection on the nature of knowledge and the nature of being.* (p.120)
 
 > [!citation-card]- [[Operationalization|操作化]]的本质
-> 操作化意味着指定一套可以被测量、处理或操纵的操作或行为。需要的是将一个非常一般的[[Purpose Statement|研究目的]]或意图转化为具体的、实在的问题，对这些问题的具体、实在的答案可以被给出。这个过程从一般走向特殊，从抽象到具体。（第7章, p.135）
+> 操作化意味着指定一套可以被测量、处理或操纵的操作或行为。需要的是将一个非常一般的[[Research Purpose|研究目的]]或意图转化为具体的、实在的问题，对这些问题的具体、实在的答案可以被给出。这个过程从一般走向特殊，从抽象到具体。（第7章, p.135）
 >
 > *Operationalization means specifying a set of operations or behaviours that can be measured, addressed or manipulated. What is required here is translating a very general research aim or purpose into specific, concrete questions to which specific, concrete answers can be given. The process moves from the general to the particular, from the [[Abstract]] to the concrete.* (p.135)
 

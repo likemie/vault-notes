@@ -28,7 +28,7 @@ tags:
 related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Sampling Frame]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Homework]]"
@@ -36,17 +36,17 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
-  - "[[School Effectiveness]]"
   - "[[Effect Size]]"
   - "[[Gatekeepers]]"
   - "[[Policy Network]]"
   - "[[Internal and External Generalizability]]"
   - "[[External Validity]]"
   - "[[Rich and Thick Description]]"
+  - "[[School Effectiveness]]"
   - "[[Research Question]]"
   - "[[Fitness for Purpose]]"
   - "[[Hypothesis]]"
-  - "[[Research Purpose]]"
+  - "[[Purpose Statement]]"
 related_theories:
   - "[[Central Limit Theorem]]"
 related_methods:
@@ -156,7 +156,7 @@ updated: 2026-06-21
 ### 8.2 样本量：多少案例才算足够？
 
 > [!claim] 核心前提
-> 样本量没有统一答案，正确的样本量取决于[[Purpose Statement|研究目的]]、总体性质、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量，以及研究是定量还是定性（p.144）。但[[Quantitative Research|定量研究]]中有一条基本原则：样本越大越好，这不仅提供更高的[[Reliability|可靠性]]（reliability），也使更复杂的统计方法成为可能。
+> 样本量没有统一答案，正确的样本量取决于[[Research Purpose|研究目的]]、总体性质、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量，以及研究是定量还是定性（p.144）。但[[Quantitative Research|定量研究]]中有一条基本原则：样本越大越好，这不仅提供更高的[[Reliability|可靠性]]（reliability），也使更复杂的统计方法成为可能。
 
 ---
 
@@ -371,7 +371,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 **比例的标准误（Standard Error of Proportions）**适用于分类/百分比数据：
 
 > [!formula] 比例的标准误
-> $$[[School Effectiveness|SE]] = \sqrt{\frac{P \times Q}{N}}$$
+> $$SE = \sqrt{\frac{P \times Q}{N}}$$
 >
 > - $P$：某类别的百分比
 > - $Q$：$100\% - P$
@@ -676,7 +676,7 @@ Teddlie & Tashakkori（2009: 180–91）指出，混合方法研究通常在同�
 
 ---
 
-> [!case] 学校效能研究的[[Multilevel Mixed Methods Sampling|多层次混合方法抽样]]
+> [!case] [[School Effectiveness|学校效能]]研究的[[Multilevel Mixed Methods Sampling|多层次混合方法抽样]]
 >
 > Teddlie & Tashakkori（2009: 191）提供了一个五层次抽样实例：
 >
@@ -783,9 +783,9 @@ Teddlie & Tashakkori（2009: 186–7）还推荐了两种混合变体：
 > *Sampling error is not necessarily the result of mistakes made in sampling procedures. Rather, variations may occur due to the chance selection of different individuals.* (Ch. 8, p. 149)
 
 > [!citation-card]- 样本量的复杂性
-> 一个经常困扰新手研究者的问题是：研究的样本应该多大？没有明确的答案，因为正确的样本量取决于[[Purpose Statement|研究目的]]、所审视总体的性质、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量，以及研究是定量还是定性。（第8章，p.144）
+> 一个经常困扰新手研究者的问题是：研究的样本应该多大？没有明确的答案，因为正确的样本量取决于[[Research Purpose|研究目的]]、所审视总体的性质、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量，以及研究是定量还是定性。（第8章，p.144）
 >
-> *A question that often plagues novice researchers is just how large their samples for the research should be. There is no clear-cut answer, for the correct sample size depends on the purpose of the study, the nature of the population under scrutiny, the level of accuracy required, the anticipated response rate, the number of variables that are included in the research, and whether the research is quantitative or qualitative.* (Ch. 8, p. 144)
+> *A question that often plagues novice researchers is just how large their samples for the research should be. There is no clear-cut answer, for the correct sample size depends on the [[Purpose Statement|purpose of the study]], the nature of the population under scrutiny, the level of accuracy required, the anticipated response rate, the number of variables that are included in the research, and whether the research is quantitative or qualitative.* (Ch. 8, p. 144)
 
 > [!citation-card]- [[Non-probability Sampling|非概率抽样]]的价值
 > 小规模研究常使用非[[Random Sampling|概率抽样]]，因为尽管存在非代表性的缺点，它们设置起来远不那么复杂，成本也低得多，并且在研究者不打算将发现推广到样本之外或仅进行问卷试点时完全够用。（第8章，p.158）

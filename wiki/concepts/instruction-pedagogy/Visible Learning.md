@@ -40,7 +40,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Sage]]"
   - "[[Educational Management Organisation]]"
-  - "[[Document]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
@@ -52,6 +51,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Didaktik]]"
+  - "[[Document]]"
   - "[[Pure Evaluation]]"
   - "[[Performativity of Measurement]]"
   - "[[Blind Spot in Observation]]"
@@ -71,7 +71,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"
@@ -222,7 +222,7 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 ### 教与学的可见性
 
 > [!finding-cards] 核心命题
-> - **通过学生眼睛看课堂** 教与学的双向可见性——教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）。Hattie 援引 Graham Nuthall 的课堂[[Observational and Correlational Research|观察研究]]：教师看不到或听不到课堂中 80% 发生的事情，核心思想由此转为"从谈论教学方式转向谈论教学的 impact"（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]]）。
+> - **通过学生眼睛看课堂** 教与学的双向可见性——教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）。Hattie 援引 Graham Nuthall 的课堂[[Observation Method|观察研究]]：教师看不到或听不到课堂中 80% 发生的事情，核心思想由此转为"从谈论教学方式转向谈论教学的 impact"（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]]）。
 > - **教师话语的盲点** Hattie 团队开发的 iPhone app 可在三秒内将教师课堂语言转录并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话实际占 70–80% 时间，但教师自认为只占 20–30%——这一认知错位本身就是"可见性"问题的缩影（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]]）。
 
 ### "Know thy impact"
@@ -358,7 +358,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > 
 >    [[EEF Teaching and Learning Toolkit]] 受 Hattie 将多元研究置于同一量表的比较性研究地图思路启发，成为英语国家政策引用 VL 的核心中介（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
 > 
->    **澳大利亚与新西兰**[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策[[Document|文件]]与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与学生领导力。
+>    **澳大利亚与新西兰**[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019, pp.122–125)]] 识别了 VL 在澳新传播中的"第三面"——在政策文件与学术争议之外，VL 触发了自下而上的教师反思运动。变革核心是将教育理解为教师教学与学生学习在课程目标下的协同，呼应 [[Dietrich Benner]] 的修正版教学三角模型。政策层面的实质转移：从校舍投入、家庭背景干预和技术采购，转向研究本位教学策略、师生互动质量与学生领导力。
 > 
 >    **丹麦** 2014 年公立学校改革明确引用 VL，要求教师以"学习目标"替代"活动目标"。改革后 Hattie 在丹麦从"教育英雄"变为"教育敌人"，引发 *[[Hattie på dansk]]*（2017）批评文集和 SFI 委托评估报告（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]]）。
 > 

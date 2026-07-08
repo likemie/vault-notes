@@ -9,7 +9,7 @@ aliases:
 summary: "Hart(1992)提出的评估儿童在研究和社会行动中参与程度的八级阶梯模型，从底层的操纵和装饰到顶层的儿童自主发起与主导，为包容性研究设计提供渐进标准"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Knowledge Production]]"
+  - "[[Research Purpose]]"
   - "[[Evaluation Research]]"
   - "[[Analytic Framework]]"
 status: draft
@@ -80,7 +81,7 @@ updated: 2026-06-22
 > - **[[Ontology|本体论]]** 儿童是社会行动者和[[Knowledge Production|知识生产]]者，而非成人知识的被动接受者或研究对象。
 > - **认识论** 儿童拥有关于自身生活的独特知识——成人若不将儿童纳入知识生产，就无法充分理解儿童的世界。
 > - **方法含义** 研究方法应使儿童能够以符合其发展水平的方式表达自身观点。研究者应主动检查自身研究在阶梯上的位置。
-> - **不能直接推出的东西** 不能从参与阶梯推出"所有研究都应追求最高层级"——[[Purpose Statement|研究目的]]、儿童的安全和实际可行性共同决定适当的参与层级。不能推出成人应放弃对儿童的保护责任。
+> - **不能直接推出的东西** 不能从参与阶梯推出"所有研究都应追求最高层级"——[[Research Purpose|研究目的]]、儿童的安全和实际可行性共同决定适当的参与层级。不能推出成人应放弃对儿童的保护责任。
 
 > [!theory-use] 研究中的使用方式
 > - **框架** 作为设计和[[Evaluation Research|评估研究]]中儿童参与程度的[[Analytic Framework|分析框架]]

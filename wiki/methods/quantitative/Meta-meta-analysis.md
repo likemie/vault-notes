@@ -12,7 +12,7 @@ summary: "在更高层次汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 53
+method_related_count: 52
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
-  - "[[School Effectiveness]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Homework]]"
@@ -215,7 +214,7 @@ updated: '2026-05-21'
 > **要求 1（效应量与方差的正确确定）**
 > - 选择统一的效应量测度（推荐 Hedges' g）
 > - 正确计算合并标准差：$SD_{pooled} = \sqrt{\frac{(n_E - 1)SD^2_E + (n_C - 1)SD^2_C}{n_E + n_C - 2}}$
-> - 正确区分标准误（$[[School Effectiveness|SE]] = SD/\sqrt{n}$）与标准差（SD）
+> - 正确区分标准误（$SE = SD/\sqrt{n}$）与标准差（SD）
 > - Fisher's z 转换必须执行：$z = \frac{1}{2}\ln\left(\frac{1+r}{1-r}\right)$
 >
 > **要求 2（一级加权估计）** 按精度反比加权（wⱼᵢ = 1/vⱼᵢ），不能使用简单算术平均值。
@@ -281,13 +280,13 @@ updated: '2026-05-21'
 > [!warning] 技术方法论缺陷
 > **LeLorier et al.（1997）——偏倚在聚合层级间传播。** LeLorier et al.（1997, p.536）在医学元分析[[Document|文献]]中最早警告："汇总结果纳入了个别研究的偏见，并体现新的偏见来源，主要是因为研究的选择和不可避免的[[Heterogeneity|异质性]]"（引自 O'Connor, 2020, p.147）。二级聚合中的偏见不仅继承自一级元分析的偏见，也在聚合决策（选择哪些元分析、如何加权、如何分类）中产生**新的偏见**([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])。
 >
-> **[[Argument_Allerup_2015_Paideia|Allerup (2015)]]——排名未报告[[Confidence Interval|置信区间]]与统计前提检查。** 二级综合若只发布 d 的点估计，而不报告置信区间、[[Sampling Error|标准误]]或相邻排名之间的显著性检验，就无法判断相邻干预是否真的不同。[[PISA]] 排名至少会用横向置信区间标出国家均值估计的误差范围；Hattie 的列表则没有类似信息，因此 d=0.71 与 d=0.72 这样的相邻差异可能只是估计误差([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。d 的解释还需要近似正态分布、相同标准差和可被理解为"均值平移"的分布结构；偏态分布、干预后离散度改变或 Cauchy 型厚尾分布都会削弱效应量的可解释性([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]]])。
+> **[[Argument_Allerup_2015_Paideia|Allerup (2015)]]——排名未报告[[Confidence Interval|置信区间]]与统计前提检查。** 二级综合若只发布 d 的点估计，而不报告置信区间、[[Standard Error|标准误]]或相邻排名之间的显著性检验，就无法判断相邻干预是否真的不同。[[PISA]] 排名至少会用横向置信区间标出国家均值估计的误差范围；Hattie 的列表则没有类似信息，因此 d=0.71 与 d=0.72 这样的相邻差异可能只是估计误差([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。d 的解释还需要近似正态分布、相同标准差和可被理解为"均值平移"的分布结构；偏态分布、干预后离散度改变或 Cauchy 型厚尾分布都会削弱效应量的可解释性([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]]])。
 >
 > 元-元分析中的单一边际效应量可能把第三[[Variable|变量]]误读为干预影响。TIMSS 2011 丹麦四年级数学中，教师学科专业资格的未控制效应量约为 0.15；加入学生社会经济背景作为协变量后，控制效应量降至 0.08 且不再显著([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.49–51]])。这说明排名表不仅受一级元分析质量影响，也受每项研究是否采用边际分析或多变量模型影响。
 >
 > **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]——6 项方法论要求的系统性违背。** Wecker, Vogel & Hetmanek（2016）以[[Fixed-Effect and Random-Effects Models|固定效应模型]]为数学基准，推导了二级元分析必须满足的 6 项方法论要求（详见上方[[#6 项方法论要求]]），并证明 Hattie 的 *[[Visible Learning]]* 在所有六个分析步骤中均存在方法论不足([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.26–30]])。关键发现：
 >
-> - **[[School Effectiveness|SE]]/SD 混淆**：在个别一级元分析的主要研究中，[[Standard Error|标准误]]被错误地当作标准差使用——例如 Eisenstaedt 等人（1990）中控制组 SE=2.74 被当作 SD 处理，导致效应量从约 −0.80 变为 −8.29([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.26–27]])
+> - **SE/SD 混淆** 在个别一级元分析的主要研究中，[[Standard Error|标准误]]被错误地当作标准差使用——例如 Eisenstaedt 等人（1990）中控制组 SE=2.74 被当作 SD 处理，导致效应量从约 −0.80 变为 −8.29([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.26–27]])
 > - **效应量测度混合使用不做转换** Hattie 交替使用 Cohen's d、Hedges' g、Glass' Δ 和 Fisher's z，但二级汇总时直接合并而不做相互转换——"如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的"([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.27]])
 > - **声称固定效应模型但实际使用未加权平均** 正确加权后效应量从 0.59 变为 0.23，排名从 #26 跌至 #98([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.29–30]])
 > - **误差传播** 一级中的偏差在二级汇总时作为"输入"，即使二级本身执行正确也无法纠正一级的偏差([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.33]])

@@ -26,7 +26,7 @@ related_concepts:
   - "[[Manipulation Check]]"
   - "[[Reflexivity]]"
   - "[[Cover Story]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Institutional Review Board]]"
   - "[[Internal Validity]]"
   - "[[Threats to Internal Validity]]"
@@ -100,7 +100,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 
 > [!info]
 > - **材料** 详细讨论用于操纵目标自变量的材料（如计算机辅助学习计划中的讲义、课程和书面指导）。可讨论[[Pilot Testing|试点测试]]和标准化施测所需的培训。
-> - **[[Cover Story|封面故事]]（Cover Story）**：撰写一个对[[Purpose Statement|研究目的]]和程序的合理解释（可能不真实），以向受试者解释实验。若使用欺骗，应制定适当的解除欺骗（debriefing）方法。所有程序和材料须经机构 [[Institutional Review Board|IRB]] 批准（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **[[Cover Story|封面故事]]（Cover Story）**：撰写一个对[[Research Purpose|研究目的]]和程序的合理解释（可能不真实），以向受试者解释实验。若使用欺骗，应制定适当的解除欺骗（debriefing）方法。所有程序和材料须经机构 [[Institutional Review Board|IRB]] 批准（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验程序
 

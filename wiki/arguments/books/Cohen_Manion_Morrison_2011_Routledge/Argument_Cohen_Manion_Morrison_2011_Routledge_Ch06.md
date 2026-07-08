@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Hypothesis]]"
   - "[[Research Purpose]]"
-  - "[[Purpose Statement]]"
   - "[[Descriptive Research Question]]"
   - "[[Homework]]"
   - "[[Causality]]"
@@ -73,7 +72,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Comparative Case Study]]"
   - "[[Grounded Theory]]"
-  - "[[Archival Correspondence Analysis]]"
+  - "[[Archival Research]]"
   - "[[Qualitative Interview]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -253,7 +252,7 @@ updated: 2026-06-19
 > - **明确研究的交付物**
 >   [[Research Purpose|研究目的]]是研究预期交付什么（what the research will deliver），即研究完成后哪些在研究开始前不知道的知识将被获得。
 > - **区分目的与预测**
->   [[Purpose Statement|研究目的]]不同于预测研究结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
+>   研究目的不同于预测研究结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
 > - **目的决定方法**
 >   不同的目的暗示不同的研究取向，因此目的适配性（fitness for purpose）决定随后的研究类型、方法、工具和设计。
 
@@ -393,7 +392,7 @@ updated: 2026-06-19
 > [!feature] 资源的三个类别
 > - **物质资源** 邮寄调查有印刷、分发、回邮和跟进提醒的成本。在线调查需考虑：所有教师是否都有便捷的网络访问？连接质量差、速度慢或系统不稳定是否会导致他们中途放弃？
 > - **人力资源** 大规模校园问卷需要学术和行政人员的配合来安排分发、收集和回收
-> - **档案资源** 历史[[Archival Correspondence Analysis|档案研究]]（如20世纪初苏格兰公共教育趋势分析）可能需要支付检索费、访问分散各地的档案馆、花时间坐在公共记录办公室的微缩胶片阅读器前
+> - **档案资源** 历史[[Archival Research|档案研究]]（如20世纪初苏格兰公共教育趋势分析）可能需要支付检索费、访问分散各地的档案馆、花时间坐在公共记录办公室的微缩胶片阅读器前
 
 ---
 
@@ -689,7 +688,7 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > 'What is the use of this research?' 'What is the point of doing this research?' 'Is this research worth doing?' If the answers to the last question is 'no', then maybe the researcher should abandon it, otherwise it ceases to be useful research and becomes an indulgence of the dilettante.
 
 > [!citation-card]- 目的适配性：让尾巴摇狗
-> 研究者不能简单地说他或她喜欢问卷、害怕数字或偏好访谈，或觉得做[[Covert Research|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Purpose Statement|研究目的]]决定随后的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]等。（第6章, p.91）
+> 研究者不能简单地说他或她喜欢问卷、害怕数字或偏好访谈，或觉得做[[Covert Research|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Research Purpose|研究目的]]决定随后的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]等。（第6章, p.91）
 >
 > The researcher cannot simply say that he or she likes questionnaires, or is afraid of numbers, or prefers to conduct interviews, or feels that it is wrong to undertake covert research so no covert research will be done. That is to have the tail wagging the dog. Rather, the [[Research Purpose|research purposes]] determine what follow in respect of the kind of research, the research questions, the instruments for data collection, the sampling, whether the research is overt or covert, the scope of the research and so on.
 

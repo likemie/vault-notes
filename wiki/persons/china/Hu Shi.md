@@ -41,7 +41,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> 胡适（1891–1962），中国现代作家、哲学家、外交官，[[New Culture Movement|新文化运动]]与[[May Fourth Movement|五四运动]]的核心人物。哥伦比亚大学毕业后师从[[John Dewey|杜威]]，是杜威 1919–1921 年访华期间的主要翻译者和中介人。他将[[Pragmatic Paradigm|实用主义]]（[[Pragmatic Paradigm|pragmatism]]）翻译为"[[Pragmatism in China|实验主义]]"（shiyanzhuyi），并将杜威的方法论极端化为一种彻底反传统、崇尚西方科学的立场，深刻影响了民国时期的中国思想界与教育改革([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.72–73]])。
+> 胡适（1891–1962），中国现代作家、哲学家、外交官，[[New Culture Movement|新文化运动]]与[[May Fourth Movement|五四运动]]的核心人物。哥伦比亚大学毕业后师从[[John Dewey|杜威]]，是杜威 1919–1921 年访华期间的主要翻译者和中介人。他将[[Pragmatic Paradigm|实用主义]]（pragmatism）翻译为"[[Pragmatism in China|实验主义]]"（shiyanzhuyi），并将杜威的方法论极端化为一种彻底反传统、崇尚西方科学的立场，深刻影响了民国时期的中国思想界与教育改革([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.72–73]])。
 
 ## 生平与职涯
 

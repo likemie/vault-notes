@@ -218,7 +218,7 @@ journal: "Australian Journal of Education"
 
 > [!claim] 步骤二主张
 > [!chain-link] 证据到判断
-> CTSS 和 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 两个独立量表均显示 12 年级显著高于 11 年级（见下表）。14 项具体技能中 11 项达到统计显著，三项未达显著（基于证据得出结论、限制主张范围、呈现论证）可能代表需要更长时间发展的高阶能力。
+> [[Critical Thinking Strategies Scale|CTSS]] 和 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 两个独立量表均显示 12 年级显著高于 11 年级（见下表）。14 项具体技能中 11 项达到统计显著，三项未达显著（基于证据得出结论、限制主张范围、呈现论证）可能代表需要更长时间发展的高阶能力。
 
 > [!contrast-table] CTSS 14 项技能的 Y11–Y12 逐项比较
 > | # | 技能（CTSS Item） | Y11 M (SD) | Y12 M (SD) | t | p |

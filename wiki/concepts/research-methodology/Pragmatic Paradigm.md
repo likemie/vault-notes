@@ -10,7 +10,6 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [research-philosophy, mixed-methods, epistemology, paradigm/pragmatic]
 related_concepts:
-  - "[[Pragmatism in China]]"
   - "[[Research Question]]"
   - "[[Positivism]]"
   - "[[Objectivism]]"
@@ -22,6 +21,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Causality]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Pragmatism in China]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -41,7 +41,7 @@ updated: 2026-06-14
 
 ## 定义
 
-> [!def] 实用主义（[[Pragmatism in China|pragmatism]]）
+> [!def] 实用主义（pragmatism）
 > 实用主义本质上是实践驱动的（practice-driven, Denscombe, 2008: 280）而非理想化的。它不执着于任何单一哲学或现实体系，而是以[[Research Question|研究问题]]为中心，使用所有可用的方法来理解问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 [[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和[[Epistemology|认识论]]为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而[[Mixed Methods Research|混合方法]]取向则以实用主义的本体论和认识论为前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

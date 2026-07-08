@@ -32,7 +32,7 @@ related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Critical Theory]]"
 related_methods:
-  - "[[Archival Correspondence Analysis]]"
+  - "[[Archival Research]]"
   - "[[Action Research]]"
   - "[[Ethnography]]"
 related_persons:
@@ -105,7 +105,7 @@ updated: '2026-05-18'
 > [!info]
 > - **[[Ontology|本体论]]**：实在不是单一的——存在多种同时有效的现实和存在方式（ontological pluralism）。欧洲现代性只是其中一种，不是普遍的基准
 > - **[[Epistemology|认识论]]**：所有知识都"位于"（situated）特定的地理-历史-政治位置中——不存在"无处所的"普遍知识。西方认识论将自身呈现为普遍有效，正是其霸权运作的核心机制——通过隐藏自身的位置性来主张普遍性
-> - **常用方法** 历史话语分析、殖民[[Archival Correspondence Analysis|档案研究]]、反叙事（counter-narrative）建构、参与式[[Action Research|行动研究]]
+> - **常用方法** 历史话语分析、殖民[[Archival Research|档案研究]]、反叙事（counter-narrative）建构、参与式[[Action Research|行动研究]]
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -22,52 +22,48 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Transitology]]"
-  - "[[IB Diploma Programme]]"
   - "[[Cross-National Attraction]]"
-  - "[[International Education]]"
-  - "[[Theory of Knowledge]]"
-  - "[[Critical Thinking]]"
-  - "[[Knowledge-Based Economy]]"
   - "[[Pre-Transfer Agency]]"
-  - "[[Causality]]"
   - "[[Reference Society]]"
   - "[[Re-Westernisation]]"
-  - "[[Global Citizenship]]"
-  - "[[Disciplina and Doctrina]]"
-  - "[[Revolutionism]]"
+  - "[[Orientalism]]"
   - "[[Analytic Framework]]"
+  - "[[IB Diploma Programme]]"
   - "[[Visible Learning]]"
+  - "[[Revolutionism]]"
+  - "[[Government to Governance Shift]]"
+  - "[[Methodological Nationalism]]"
   - "[[Lifelong Learning]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Heterogeneity]]"
   - "[[School Autonomy]]"
-  - "[[Paradigm]]"
-  - "[[Methodological Nationalism]]"
-  - "[[Soviet Statism]]"
-  - "[[Relational Space]]"
 related_theories:
   - "[[World Society Theory]]"
-  - "[[Dependency Theory]]"
+  - "[[Autopoiesis]]"
   - "[[Wight's Three Traditions of International Theory]]"
-  - "[[Actor-Network Theory]]"
-related_methods:
-  - "[[Case Study]]"
+related_methods: []
 related_persons:
   - "[[Michael Sadler]]"
+  - "[[Eleftherios Klerides]]"
+  - "[[Gita Steiner-Khamsi]]"
+  - "[[Robert Cowen]]"
+  - "[[Jurgen Schriewer]]"
+  - "[[Paul Morris]]"
 related_facts:
-  - "[[PISA]]"
-  - "[[OECD]]"
-  - "[[Liberal Studies]]"
   - "[[Sputnik Shock 1957]]"
-  - "[[Citizenship and Social Development]]"
+  - "[[OECD]]"
+  - "[[PISA]]"
+  - "[[Liberal Studies]]"
+  - "[[International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Argument_Cowen_2009_CE]]"
+  - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
-  - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Beech_2015_GSE]]"
-  - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -165,7 +161,7 @@ updated: '2026-07-05'
 > 4. **内化/本土化（Internalisation/Indigenisation）** 借用的外部政策与本土的已有制度结构、文化传统相融合，并作为本土系统的组成部分内化。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, pp. 225–226]])
 
 > [!features] 前后转移能动性
-> - **前转移能动性（Pre-Transfer Agency）** 外国范例引入之初的引入者及其动机，涉及官员、政策倡导者、智库及外部评估发布方。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
+> - **[[Pre-Transfer Agency|前转移能动性]]（Pre-Transfer Agency）** 外国范例引入之初的引入者及其动机，涉及官员、政策倡导者、智库及外部评估发布方。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
 > - **后转移能动性（Post-Transfer Agency）** 政策引进实施阶段本土学校、教师和社区的阻力与自发情境重构行为。
 
 ### 借用行为的特征
@@ -185,11 +181,11 @@ updated: '2026-07-05'
 > [!concept-lens] 工具性借用与情境冲突
 > 这一命题类型探讨地缘政治焦虑与生存危机如何驱动国家对外借鉴，以及本土情境与文化防护对跨国移植的排异机制。学者们普遍倾向于揭示工具性模仿与本土情境之间的冲突。
 
-> [!claim] Sadler, M.
+> [!claim] [[Michael Sadler|Sadler, M.]]
 > **情境的不可移植性** 教育体系并非可随时装卸的机械装置，而是民族生活的活体器官。由于教育体制与其深层社会历史、宗教文化网络深度共生，跨国移植外部教育时必须保持高度情境警觉：任何脱离其原有情境的工具性借用都会因“情境不兼容”而触及本土系统的自发性防护机制，遭遇本土利益相关者的防御性抵抗，引发制度排异并导致改革流产或回归传统。([[Argument_Amos_2022_Springer|Sadler, 1900, 引自 Amos, 2022, pp. 53–54]])
 
-> [!claim] Klerides, E.
-> **生存与地缘焦虑的驱动** 在国际自助竞争和主权无政府状态下，国家出于地缘竞争、工业落后恐慌或生存焦虑（如19世纪普法竞争、德美工业竞争、明治维新的黑船冲击、冷战人造卫星 Sputnik 冲击等），会将地缘位阶更高的强国体制建构为“参考社会”（Reference Societies），试图将其教育经验视为保障主权安全、赶超地缘对手并提升硬实力的工具性资本进行借用。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]])
+> [!claim] [[Eleftherios Klerides|Klerides, E.]]
+> **生存与地缘焦虑的驱动** 在国际自助竞争和主权无政府状态下，国家出于地缘竞争、工业落后恐慌或生存焦虑（如19世纪普法竞争、德美工业竞争、明治维新的黑船冲击、冷战人造卫星 [[Sputnik Shock 1957|Sputnik]] 冲击等），会将地缘位阶更高的强国体制建构为“[[Reference Society|参考社会]]”（Reference Societies），试图将其教育经验视为保障主权安全、赶超地缘对手并提升硬实力的工具性资本进行借用。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]])
 
 ---
 
@@ -198,30 +194,30 @@ updated: '2026-07-05'
 > [!concept-lens] 外部化合法化与政治修辞
 > 此维度聚焦政策借用背后的国内政治动因，剖析官方如何将外部声望话语作为“合法化修辞”来强推争议性本土方案。学者们普遍倾向于解构教育决策中理性技术外壳下的政治操纵属性。
 
-> [!claim] Steiner-Khamsi, G.
-> **外部化合法化功能** 政策借用的深层功能并非基于理性的技术性学习，而是一种对内的政治合法化修辞。当本土决策者在国内推行触动特定利益的教育改革时，会通过将国内政策“外化”（Externalization）到具有高国际声望的全球话语（如 OECD 指标、国际评估），将其包装为顺应全球化科学趋势的“唯一合理选择”，从而以“中立技术”的外衣降解国内政治博弈，为国内争议性方案提供正当性护航并降低反对阻力。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]，引自 Steiner-Khamsi, 2012)
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]
+> **外部化合法化功能** 政策借用的深层功能并非基于理性的技术性学习，而是一种对内的政治合法化修辞。当本土决策者在国内推行触动特定利益的教育改革时，会通过将国内政策“[[Externalization|外化]]”（Externalization）到具有高国际声望的全球话语（如 [[OECD]] 指标、国际评估），将其包装为顺应全球化科学趋势的“唯一合理选择”，从而以“中立技术”的外衣降解国内政治博弈，为国内争议性方案提供正当性护航并降低反对阻力。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]，引自 Steiner-Khamsi, 2012)
 
 > [!claim] Steiner-Khamsi, G.
 > **“方案先行、问题后建”的社会建构** 政策借用过程遵循“逆向技术流”：决策者并非在发现技术问题后寻找国际经验，而是往往在引入国际参考之前，已在国内秘密确立了偏好的“解决方案”。随后，为了合法化该既定方案，政府才在官方修辞中建构特定的本土“体系陈旧”或“教育质量危机”问题，使该方案显得具有不可避免的合理性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])
 
 > [!claim] Klerides, E.
-> **远处治理的技术中介** 在理性主义多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 PISA），实质上是超国家组织和跨国机构行使“远处治理”（governing from a distance）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> **远处治理的技术中介** 在理性主义多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使“远处治理”（governing from a distance）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 ---
 
 ### 命题类型三　教育政策在跨国转移中必然因微观政治介入而发生形态变异与本土转译
 
-> [!concept-lens] 流动转译与形态变异
+> [!concept-lens] 流动[[Transfer Translation Transformation|转译]]与形态变异
 > 这一视角关注教育政策跨国流动时的非线性转译特征，剖析外部元素在输入端被本土微观权力裁剪、扭曲和变形的微观过程。学者们共同致力于消解“原装移植”的幻想。
 
-> [!claim] Cowen, R.
+> [!claim] [[Robert Cowen|Cowen, R.]]
 > **“转移-转译-变形”的形态变异** 教育改革在跨国转移（Transfer）之初，就不可避免地与本土的微观政治权力、阶级关系与制度利益相缠斗。经过在语言层面的文字翻译和制度层面的本土转译（Translation）后，外部元素在本土落地实施的最终阶段必然发生功能和结构上的变形（Transformation/Morphing），重构为适应本土环境并服务于本土微观统治权力的工具。([[Argument_Cowen_2009_CE|Cowen, 2009, pp. 319–320]])
 
-> [!claim] Schriewer, J.
-> **自创生系统的自我参照** 教育系统作为一个“自创生”（Autopoietic）的闭环，不是被动的、刺激-反应的线性移入体系。任何被借用的国际参考或外部话语，都只是一个触发源，系统只以自身既有的运作逻辑对外部进行“自我参照的反射”，并由本土网络在本土语境下重新折射和构型。([[Argument_Rappleye_2006_RCIE|Schriewer, 2003, 引自 Rappleye, 2006, pp. 228–229]])
+> [!claim] [[Jurgen Schriewer|Schriewer, J.]]
+> **[[Autopoiesis|自创生]]系统的自我参照** 教育系统作为一个“自创生”（Autopoietic）的闭环，不是被动的、刺激-反应的线性移入体系。任何被借用的国际参考或外部话语，都只是一个触发源，系统只以自身既有的运作逻辑对外部进行“自我参照的反射”，并由本土网络在本土语境下重新折射和构型。([[Argument_Rappleye_2006_RCIE|Schriewer, 2003, 引自 Rappleye, 2006, pp. 228–229]])
 
 > [!claim] Klerides, E.
-> **再西方化认识型与他者化歧视** 跨国教育政策流动并非自愿的中立传播，而是西方中心主义知识对非西方社会的强加与“再西方化”（re-Westernisation）认识型的扩张。多边组织以发展援助或普遍标准（如 PISA）的形式，迫使非西方边缘国家去情境化地“追赶”西方模式以维系“中心-边缘”的认知和支配关系；在此过程中，即使非西方社会在量化评估中取得优异成绩，西方话语仍会诉诸“东方主义”（Orientalism）将其矮化或在借鉴中选择性地剪裁其内核，从而在再生产学科霸权的同时延续新殖民主义的心智奴役。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 427–428]])
+> **[[Re-Westernisation|再西方化]]认识型与他者化歧视** 跨国教育政策流动并非自愿的中立传播，而是西方中心主义知识对非西方社会的强加与“再西方化”（re-Westernisation）认识型的扩张。多边组织以发展援助或普遍标准（如 PISA）的形式，迫使非西方边缘国家去情境化地“追赶”西方模式以维系“中心-边缘”的认知和支配关系；在此过程中，即使非西方社会在量化评估中取得优异成绩，西方话语仍会诉诸“[[Orientalism|东方主义]]”（Orientalism）将其矮化或在借鉴中选择性地剪裁其内核，从而在再生产学科霸权的同时延续新殖民主义的心智奴役。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 427–428]])
 
 ---
 
@@ -230,8 +226,8 @@ updated: '2026-07-05'
 > [!concept-lens] 合法化功能与行政强力的边界
 > 该命题探究合法化修辞在不同国内权力政治结构下的适用限度，明确政策借用框架在强行政强制力支配下的失效边界。学者们聚焦于政策话语对特定协商性政治空间的依附性。
 
-> [!claim] Yan, Y. & Morris, P.
-> **半开放协商的政治边界** 外部化合法化修辞本质上是主权政府在面对国内妥协、寻求博弈共识格局下的政治话语策略，其有效性严格依赖于政府无法单方面强推决策的“半开放协商政治边界”。一旦内部政治格局发生断裂，国家强制性行政权力高度集中，政府可以直接依靠主权命令、法律惩戒和国家指令直接推行方案，对外部全球话语（如国际评估或课程）的合法性需求随之消失。全球参照话语因此在强强制性集权语境下被彻底剥离，政策借用分析框架随之触及其失效的权力边界。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 491]])
+> [!claim] Yan, Y. & [[Paul Morris|Morris, P.]]
+> **半开放协商的政治边界** 外部化合法化修辞本质上是主权政府在面对国内妥协、寻求博弈共识格局下的政治话语策略，其有效性严格依赖于政府无法单方面强推决策的“半开放协商政治边界”。一旦内部政治格局发生断裂，国家强制性行政权力高度集中，政府可以直接依靠主权命令、法律惩戒和国家指令直接推行方案，对外部全球话语（如国际评估或课程）的合法性需求随之消失。全球参照话语因此在强强制性集权语境下被彻底剥离，政策借用[[Analytic Framework|分析框架]]随之触及其失效的权力边界。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 491]])
 
 ---
 
@@ -251,16 +247,16 @@ updated: '2026-07-05'
 
 > [!dev-timeline] 政策借用概念的理论演变
 > - **1996–2000 — [[Transitology|转型学]]宏观背景** Cowen 提出 education 转型学双轴模型，将国际参照分析嵌入到晚期现代性社会系统翻转的宏观背景中。([[Argument_Amos_2022_Springer|Amos, 2022, pp. 53–56]])
-> - **2000 — 政策借用分析框架系统化** Steiner-Khamsi 系统阐述政策借用分析框架，向去政治化、中立移植的理性模式发起挑战，指出教育借用本质上属于政治合法化工具。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]])
+> - **2000 — 政策借用[[Analytic Framework|分析框架]]系统化** Steiner-Khamsi 系统阐述政策借用分析框架，向去政治化、中立移植的理性模式发起挑战，指出教育借用本质上属于政治合法化工具。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]])
 > - **2002 — [[Cross-National Attraction|跨国吸引力]]结构类型学** Ochs & Phillips 提出跨国吸引力的结构类型学，系统归纳了六类政策焦点与 13 种情境因子。([[Argument_Rappleye_2006_RCIE|Ochs & Phillips, 2002, 引自 Rappleye, 2006, pp. 225–226]])
 > - **2003 — [[Externalization|外化]]话语概念提出** Schriewer 提出教育系统通过“外部化”将国内问题投射到“国际趋势”或“传统”话语中的过滤与合法化机制。([[Argument_Rappleye_2006_RCIE|Schriewer, 2003, 引自 Rappleye, 2006, pp. 230–232]])
 > - **2003–2004 — 四阶段循环模型系统化** Phillips & Ochs 整合推出跨国吸引力、决策、实施、本土化的四阶段循环生命周期模型。([[Argument_Rappleye_2006_RCIE|Phillips & Ochs, 2003, 引自 Rappleye, 2006, p. 225]])
-> - **2006 — 跨国吸引力情境地图** Rappleye 提出推拉力情境概念地图，理清了前转移能动性与多层次结构因素的作用机制。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
-> - **2009 — 形态变异理论主张** Cowen 建立“转移—转译—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。([[Argument_Cowen_2009_CE|Cowen, 2009]])
+> - **2006 — 跨国吸引力情境地图** Rappleye 提出推拉力情境概念地图，理清了[[Pre-Transfer Agency|前转移能动性]]与多层次结构因素的作用机制。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
+> - **2009 — 形态变异理论主张** Cowen 建立“转移—[[Transfer Translation Transformation|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。([[Argument_Cowen_2009_CE|Cowen, 2009]])
 > - **2012 — 政治借用与实质学习的系统区隔** Steiner-Khamsi 系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
-> - **2015–2016 — 课程选择性借用的经验验证** Forestier 等人通过对比香港 LS 与 IBDP 的课程选择，实证揭示了剔除批判核心、仅保留探究形式的裁剪机制。
-> - **2019 — 拒绝借用博弈的实证展示** Golovchin 追踪 Hattie 的 Visible Learning 在俄罗斯被引进与学界反思，详尽勾勒了“建议拒绝借用”的理性博弈过程。([[Argument_Golovchin_2019_ESC|Golovchin, 2019]])
-> - **2023 — 怀特三大传统地缘解构** Klerides 引入国际关系三大传统，从现实主义、理性主义和革命主义哲学底层解构比较教育的流动底色。([[Argument_Klerides_2023_CE|Klerides, 2023]])
+> - **2015–2016 — 课程选择性借用的经验验证** Forestier 等人通过对比香港 [[Liberal Studies|LS]] 与 [[IB Diploma Programme|IBDP]] 的课程选择，实证揭示了剔除批判核心、仅保留探究形式的裁剪机制。
+> - **2019 — 拒绝借用博弈的实证展示** Golovchin 追踪 Hattie 的 [[Visible Learning]] 在俄罗斯被引进与学界反思，详尽勾勒了“建议拒绝借用”的理性博弈过程。([[Argument_Golovchin_2019_ESC|Golovchin, 2019]])
+> - **2023 — 怀特三大传统地缘解构** Klerides 引入[[Wight's Three Traditions of International Theory|国际关系三大传统]]，从现实主义、理性主义和[[Revolutionism|革命主义]]哲学底层解构比较教育的流动底色。([[Argument_Klerides_2023_CE|Klerides, 2023]])
 > - **2025 — 威权/高压政治语境下的分析边界** [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪通识科创立与废除的完整生命周期，确立了政策借用作为合法化工具在行政强制力下的分析失效边界。
 
 ---
@@ -277,12 +273,12 @@ updated: '2026-07-05'
 > > - **[[Argument_Yan_2025_JCS|Yan & Morris (2025)]]** 认为两者并非不可调和：创立阶段展现出工具性借用特征，但废除阶段全球话语消失也从反面验证了借用作为本土政治策略的依附性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–491]])
 
 > [!critique] 学术学理与方法论批判
-> - **书面文本偏见** 传统的政策借用研究过度局限于国家的官方书面政策文件，忽视了在“统治向治理转变”（Government to Governance Shift）中，非官方与去中心化网络中话语权力流转的微观机制。([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])
-> - **方法论国家主义（Methodological Nationalism）** 将主权国家预设为分析的自然与唯一单位，从而遮蔽了跨国资本、网络行动者在无边界空间中的流动，并掩盖了地缘支配的后殖民权力关系。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 421]])
+> - **书面文本偏见** 传统的政策借用研究过度局限于国家的官方书面政策文件，忽视了在“统治向治理转变”（[[Government to Governance Shift]]）中，非官方与去中心化网络中话语权力流转的微观机制。([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])
+> - **[[Methodological Nationalism|方法论国家主义]]（Methodological Nationalism）** 将主权国家预设为分析的自然与唯一单位，从而遮蔽了跨国资本、网络行动者在无边界空间中的流动，并掩盖了地缘支配的后殖民权力关系。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 421]])
 > - **“形态变异”的归因模糊性** 在经验上很难清晰辨定，政策转移到本地后的形态变异究竟是决策者在引入阶段的“主动裁剪”（如 Cowen 的 Morphing 理论），还是在本土实施过程中“被动发生的情境适应”。([[Argument_Cowen_2009_CE|Cowen, 2009]])
 
 > [!warning] 适用局限
-> - **高压政治语境下的分析失效** 政策借用框架仅在“政府仍需借助外部话语来降低国内阻力、获取合法性”的半开放政治边界内有效。当政府拥有超强且稳固的强制性主权权力时，其可直接依据法律与行政命令强推方案，外化到“国际先进经验”的需求彻底消失，该框架也随之失去了分析对象。[[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 491)]]
+> - **高压政治语境下的分析失效** 政策借用框架仅在“政府仍需借助外部话语来降低国内阻力、获取合法性”的半开放政治边界内有效。当政府拥有超强且稳固的强制性主权权力时，其可直接依据法律与行政命令强推方案，[[Externalization|外化]]到“国际先进经验”的需求彻底消失，该框架也随之失去了分析对象。[[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 491)]]
 
 ---
 
@@ -290,7 +286,7 @@ updated: '2026-07-05'
 
 > [!evidence-grid] 典型研究与应用案例
 > - **[[Liberal Studies|香港通识教育科]]（LS）创立与废除** [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪了 LS 从创立到废除的完整生命周期。在创立阶段（2009），港府以“[[Lifelong Learning|终身学习]]”“[[Knowledge-Based Economy|知识经济]]”和 [[IB Diploma Programme|IBDP]] 话语论证改革必要性，这些全球论述被高度工具性地用来解决本地政治问题（政府合法性下降、学制调整需求）。在废除阶段（2021），随着政治局势剧变，全球参照话语彻底消失，以“国家安全”和主权控制为唯一逻辑，展现了借用行为对本地政治合法性需求的依附。
-> - **香港与英格兰的双向借用及 LS 与 IBDP 比较** Forestier & Crossley (2015) 揭示了香港与英格兰之间“双向借用”的对流特征。而 Forestier et al. (2016) System 比较了香港通识科（LS）与国际文凭课程（IBDP）的课程设计，证实了“选择性借用”的运作机制：港府参照了 IBDP 的跨学科整合和独立探究形式，但排除了其国际化知识观和批判性哲学内核，使之服务于本地政策议程。
+> - **香港与英格兰的双向借用及 LS 与 IBDP 比较** Forestier & Crossley (2015) 揭示了香港与英格兰之间“双向借用”的对流特征。而 Forestier et al. (2016) System 比较了香港通识科（LS）与[[International Baccalaureate|国际文凭]]课程（IBDP）的课程设计，证实了“选择性借用”的运作机制：港府参照了 IBDP 的跨学科整合和独立探究形式，但排除了其国际化知识观和批判性哲学内核，使之服务于本地政策议程。
 > - **[[Visible Learning|Visible Learning]] 在俄罗斯的政策借用与拒绝** Hattie 的 Visible Learning 于 2017 年在俄罗斯翻译出版后受到学界与官僚体系的热烈欢迎。然而，[[Argument_Golovchin_2019_ESC|Golovchin (2019)]] 展示了俄罗斯本土学者基于方法论缺陷（[[Heterogeneity|异质性]]过高）、文化不匹配（教师“去专业化”风险）以及官僚化威胁（报表工作量激增），最终向政策决策提出“拒绝采用”建议的过程。
 > - **英国对东亚模式与芬兰模式的“话语借用”** You & Morris (2016) 记录了英格兰等国大量借用芬兰模式或东亚 [[PISA]] 优胜模式的话语，来论证本国[[School Autonomy|学校自主权]]与教师专业化改革的必要性，但实际体制并未发生对应移植，凸显了“话语借用”与“实践落地”之间的巨大鸿沟。
 > - **PISA 与[[Reference Society|参考社会]]的制度化** [[Argument_Li_2025_HSSC|Li et al. (2025)]] 综述了 PISA 如何通过国际排名将芬兰、上海、日本、香港确立为全球“参考社会”，为各国提供借用模板。韩国的案例显示，其政策参考社会经历了从传统的日本模式（PISA 前）到芬兰模式（PISA 2009 后）的动态切换。

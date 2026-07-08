@@ -8,7 +8,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义、功�
 type: person
 nationality: united-states
 person_region: "united-states"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Professional Judgment]]"
   - "[[Technical Rationality]]"
+  - "[[Theory of Knowledge]]"
   - "[[Cultural Diplomacy]]"
   - "[[Recontextualization]]"
   - "[[Junzi]]"
@@ -120,7 +121,7 @@ updated: '2026-06-08'
 
 ### 1920s–1930s — 公共性、确定性批判与跨国传播
 
-- 核心内容：从 *The Public and Its Problems*、*The Quest for Certainty* 到 *Logic: The Theory of Inquiry*，杜威进一步把探究理论扩展到公共生活、知识论和社会行动；1928 年访苏也使其[[Progressive Education|进步教育]]思想进入美苏[[Cultural Diplomacy|文化外交]]与教育交流的可见事件中([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]])。
+- 核心内容：从 *The Public and Its Problems*、*The Quest for Certainty* 到 *Logic: The Theory of Inquiry*，杜威进一步把探究理论扩展到公共生活、[[Theory of Knowledge|知识论]]和社会行动；1928 年访苏也使其[[Progressive Education|进步教育]]思想进入美苏[[Cultural Diplomacy|文化外交]]与教育交流的可见事件中([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]])。
 - 思想发展：杜威思想在中国、苏联等语境中被选择性吸收、批判和[[Recontextualization|再脉络化]]，民主理想、[[Scientific Attitude|科学态度]]与渐进实验方法不再总能保持原有统一关系([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.621–622]])。
 ...
 

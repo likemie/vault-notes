@@ -107,7 +107,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Critical Thinking\|批判性思维]]**| TOK 课程的核心理念。分析中引用 Delphi Report（Facione, 1990）的共识定义：批判性思维是有目的的、自我调节的判断，包含解释、分析、评价、推论以及对证据、概念、方法、标准或语境的说明。 |
+> | **[[Critical Thinking\|批判性思维]]**| [[Theory of Knowledge\|TOK]] 课程的核心理念。分析中引用 Delphi Report（Facione, 1990）的共识定义：批判性思维是有目的的、自我调节的判断，包含解释、分析、评价、推论以及对证据、概念、方法、标准或语境的说明。 |
 > | **[[Pragma-Dialectics]]**<br>（语用辩证学派） | van Eemeren & Grootendorst 的论证理论。作为三种解决路径之一，用于统一批判性思维教学和科学论证教学。 |
 > | **[[Duhem-Quine Thesis]]**<br>（迪昂-蒯因论题） | 不完全决定性（underdetermination）论题：逻辑本身无法唯一决定理论选择。用来解释为何简化版[[Falsification\|证伪主义]]不足以描述科学实践。 |
 

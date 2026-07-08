@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -49,9 +49,8 @@ related_concepts:
   - "[[Sponsor in Research]]"
   - "[[Reflexivity]]"
   - "[[Confidentiality]]"
-  - "[[Document]]"
   - "[[Screening Off]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Consequential Validity]]"
 related_theories:
   - "[[Hart's Ladder of Participation]]"
@@ -455,7 +454,7 @@ Doc 参与了写作过程——Whyte 将论文草稿拿给 Doc 审阅，其批�
 
 当研究者需要在保护保密性的前提下跨多个时间点收集同一参与者的数据时——例如追踪访谈——Lee (1993, p. 173) 提出了一个技术性解决方案（pp.212–213）：
 
-> [!proc] 链接[[Document|文件]]系统的三层架构
+> [!proc] 链接文件系统的三层架构
 > 1. **数据文件（File 1）** 保存所有研究数据（访谈记录、问卷回答等），为每位参与者分配任意编号（如 P001, P002）。此文件由研究者日常使用，不包含任何可识别身份的信息。
 > 2. **受访者名单（File 2）** 包含参与者的真实姓名和基本信息。此文件单独存放，不在日常分析中使用。
 > 3. **链接文件（File 3）** 包含将数据文件中的编号与受访者姓名关联所需的信息（如 P001 = 张三）。此文件由中立的"经纪人"（broker）——而非研究者本人——保管。
@@ -630,7 +629,7 @@ Hart (1992) 的"[[Hart's Ladder of Participation|参与阶梯]]"（Ladder of Par
 > - **儿童发起·与成人共同决策（Child initiated: shared decisions with adults）** 儿童发起研究，成人作为平等伙伴参与决策。
 
 > [!implication]- 如何使用参与阶梯
-> 研究者应将自身研究定位在阶梯的较高层级以实现包容性。但阶梯是反思框架而非评分工具，并非所有研究都需要追求最高层级。[[Purpose Statement|研究目的]]、儿童的安全、研究的实际可行性共同决定适当的参与层级。关键不在于"达到哪一级"，而在于避开哪一级：如果研究落在操纵或装饰层级，你实际上没有在研究，而是在利用儿童。
+> 研究者应将自身研究定位在阶梯的较高层级以实现包容性。但阶梯是反思框架而非评分工具，并非所有研究都需要追求最高层级。[[Research Purpose|研究目的]]、儿童的安全、研究的实际可行性共同决定适当的参与层级。关键不在于"达到哪一级"，而在于避开哪一级：如果研究落在操纵或装饰层级，你实际上没有在研究，而是在利用儿童。
 
 ---
 

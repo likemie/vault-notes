@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -59,12 +59,11 @@ related_theories:
   - "[[Absolutist and Relativist Ethics]]"
 related_methods:
   - "[[Ethnography]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Participant Observation]]"
   - "[[Qualitative Research]]"
   - "[[Fieldwork]]"
   - "[[Experimental Research]]"
   - "[[Member Checking]]"
-  - "[[Participant Observation]]"
   - "[[Action Research]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
@@ -268,7 +267,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > 迄今为止关于知情同意的论述可能[[Hypothesis|假设]]了平等者之间的关系，如研究者与教师、研究教授与研究生。但大量教育研究涉及**无法与研究者处于平等地位的儿童**，在研究的每个阶段（包括征求知情同意时）都必须牢记这一点（pp.79–82）。
 
 > [!feature] Fine & Sandstrom (1988) 的儿童研究伦理框架
-> 基于对儿童和青少年的[[Ethnography|民族志]]和参与[[Observational and Correlational Research|观察研究]]，Fine & Sandstrom 提出了以下指导原则：
+> 基于对儿童和青少年的[[Ethnography|民族志]]和[[Participant Observation|参与观察]]研究，Fine & Sandstrom 提出了以下指导原则：
 >
 > - **指导原则** 缩小儿童与成人研究者之间的权力差距是可取的，但这种差异仍然存在，其消除可能在伦理上是不可取的
 > - **在[[Qualitative Research|质性研究]]中**：研究者必须提供可信且有意义的对其研究意图的解释，尤其是在他们几乎没有权威的情境中；儿童必须被给予真实和合法的机会说他们不想参加

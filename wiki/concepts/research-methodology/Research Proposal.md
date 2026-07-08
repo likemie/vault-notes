@@ -9,7 +9,7 @@ aliases:
 summary: "教育研究中将研究问题转化为可操作的研究方案的系统过程，包括课题类型区分、选题过程、开题论证和课题设计论证书的撰写"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
   - "[[Study Population and Sample]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Research Topic]]"
   - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Descriptive Research Question]]"
   - "[[Reliability]]"
-  - "[[Research Purpose]]"
   - "[[Document]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -43,7 +42,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Intervention Research]]"
   - "[[Pilot Testing]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
   - "[[Action Research]]"
 related_persons: []
 related_facts: []
@@ -62,7 +61,7 @@ updated: 2026-06-25
 ## 定义
 
 > [!def] 研究课题论证（Research Proposal）
-> 课题论证是将[[Research Question|研究问题]]或[[Hypothesis|研究假设]]转化为具体化研究目标的系统过程。课题不仅是一个研究题目，它还要体现[[Research Scope|研究范围]]、[[Study Population and Sample|研究样本]]、研究工具、研究内容与[[Purpose Statement|研究目的]]等。课题论证部分是研究写作的重要组成部分（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
+> 课题论证是将[[Research Question|研究问题]]或[[Hypothesis|研究假设]]转化为具体化研究目标的系统过程。课题不仅是一个研究题目，它还要体现[[Research Scope|研究范围]]、[[Study Population and Sample|研究样本]]、研究工具、研究内容与[[Research Purpose|研究目的]]等。课题论证部分是研究写作的重要组成部分（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 课题论证是从研究问题到研究实施的桥梁，它将模糊的研究兴趣转化为可操作的、结构化的研究方案。
@@ -129,7 +128,7 @@ updated: 2026-06-25
 > [!proc] 选定课题五步法
 > 1. **[[Survey Research|调查研究]]，提出问题** 通过查阅资料（考察、论证所选课题是否有研究价值）、现场调查（到教学实践现场发现实际问题）和专家咨询（征询专家学者的意见，从中受到启发）三种方式，了解前人研究情况和发展趋势。
 > 2. **资料的分析与综合** 对调查资料进行归纳整理、分析综合：确保资料的真实性；整合分析收集的资料，找出内在关联性；对材料进行筛选；根据已有材料和相关性或[[Causality|因果关系]]提出课题。
-> 3. **提出课题的设想和设计** 明确课题名称；理清[[Purpose Statement|研究目的]]和意义；阐明与本课题相关的国内外研究现状和发展趋势；提出研究方法、途径、步骤以及所需经费、设备和达成预期目标的手段。
+> 3. **提出课题的设想和设计** 明确课题名称；理清[[Research Purpose|研究目的]]和意义；阐明与本课题相关的国内外研究现状和发展趋势；提出研究方法、途径、步骤以及所需经费、设备和达成预期目标的手段。
 > 4. **[[Pilot Testing|预实验]]或预调查** 对一些综合性、复杂的、探索性比较强的研究课题，通过小范围的模拟研究，对提出的研究目标、研究方法、调查工具的信效度等进行分析论证，以确保后期大范围研究实施的合理性与[[Reliability|可靠性]]。
 > 5. **课题确立** 向有关教育科研管理部门或教育行政部门提交课题申报书。申报书的具体内容包括：课题名称、研究类别、研究起止时间；课题负责人、参加者、承担单位及合作单位与分工；[[Research Purpose|研究目的]]、意义及国内外研究水平和发展趋势；研究内容及采用的方法、途径、手段；预期效果、成果形式及去向；研究基础和准备情况；研究步骤；经费估算及来源；单位意见；审批单位意见。
 
@@ -142,7 +141,7 @@ updated: 2026-06-25
 > [!proc] 课题设计论证四模块
 > 1. **选题依据** 包括国内外相关研究现状（突出研究者对所研究领域的了解程度、是否熟悉过去他人研究的主要趋势和见解）和本课题的学术价值与应用价值（分别从学术性和应用性两方面加以诠释）。
 > 2. **研究内容** 课题论证最为核心的部分。包括：研究内容（分几个模块展开论述，层次鲜明）；重点难点（从研究核心内容为重点，以研究中所预估的困难为主展开评述）；主要目标（本研究最终要解决的主要问题）；创新之处（从内容、观点、评论、意义中提炼，从理论、材料、研究视角、对象等多方面提出与以往研究的不同之处）。
-> 3. **思路方法** 包括：研究思路（研究方法框架，分步骤和时段性写作）；研究方法（[[Document|文献]]研究法、[[Survey Research|调查研究]]法、[[Observational and Correlational Research|观察研究]]法、思辨法、[[Action Research|行动研究]]法、历史研究法、概念分析法、比较研究法等，多种方法并用可规避单一方法的劣势）；研究计划（清晰地记录每个步骤的时间安排、地点、任务和目标、负责人）；可行性论证（课题研究所需的条件，如信息资料、实验器材、研究经费、学生的知识水平和技能及教师的指导能力，以及已做的前期工作）。
+> 3. **思路方法** 包括：研究思路（研究方法框架，分步骤和时段性写作）；研究方法（[[Document|文献]]研究法、[[Survey Research|调查研究]]法、[[Observation Method|观察研究]]法、思辨法、[[Action Research|行动研究]]法、历史研究法、概念分析法、比较研究法等，多种方法并用可规避单一方法的劣势）；研究计划（清晰地记录每个步骤的时间安排、地点、任务和目标、负责人）；可行性论证（课题研究所需的条件，如信息资料、实验器材、研究经费、学生的知识水平和技能及教师的指导能力，以及已做的前期工作）。
 > 4. **预期成果** 包括：成果形式（著作、研究论文或调查报告等，通过文字、图片、实物和多媒体等形式表现）；完成时间（根据研究计划安排确定）；使用去向（著作出版、论文发表等方式）。
 
 > [!warning] 课题论证的核心

@@ -5,7 +5,7 @@ aliases:
 summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Scientism]]"
+  - "[[Governing by Numbers]]"
   - "[[Bildung]]"
   - "[[Professional Judgment]]"
   - "[[Interpretive Paradigm]]"
@@ -151,7 +152,7 @@ updated: '2026-06-19'
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用以批评主流[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）的过度简化倾向，打破其将医学[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCTs）[[Paradigm|范式]]盲目照搬到复杂教育开放系统中的[[Scientism|科学主义]]幻想。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 4]])
 > - **作为分析工具** 在教育项目评估中，将分析焦点从“平均效应量是多少”转向“该项目在哪些学校背景中触发了教师/学生的哪些推理过程，从而产生了何种差异化结果”。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 14]])
-> - **作为批判视角** 审查新自由主义管理主义下的审计文化（Audit Culture）与“数字治理”（Governance by Numbers）。揭示统计排行榜如何将复杂的“教育陶冶（[[Bildung]]）”异化为纯粹的技术效率传递，从而剥夺关于教育价值与民主目的的政治讨论，消解教师的[[Professional Judgment|专业判断力]]。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
+> - **作为批判视角** 审查新自由主义管理主义下的审计文化（Audit Culture）与“[[Governing by Numbers|数字治理]]”（Governance by Numbers）。揭示统计排行榜如何将复杂的“教育陶冶（[[Bildung]]）”异化为纯粹的技术效率传递，从而剥夺关于教育价值与民主目的的政治讨论，消解教师的[[Professional Judgment|专业判断力]]。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
 > - **报告方式** 写作时应避免单纯汇报均值与 p 值，而应提供多层级背景描述（阶级、学校制度、文化）与过程追踪，呈现干预和反思交互的涌现轨迹。
 
 > [!logic-map]- 分析流程图

@@ -7,7 +7,7 @@ summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -21,7 +21,6 @@ tags:
 - region/netherlands
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemology]]"
   - "[[Value-Based Education]]"
@@ -64,14 +63,14 @@ updated: '2026-06-08'
 > - 曾任教于英国斯特灵大学（The Stirling Institute of Education）
 > - 后任卢森堡大学（University of Luxembourg）教授
 > - 现任爱丁堡大学（University of Edinburgh）教育和体育学院教授，兼任荷兰人文研究大学（University of Humanistic Studies）教育学教授
-> - 2003 年与 Burbules 合作出版 *[[Pragmatism in China|pragmatism]] and Educational Research*，奠定其 Dewey 式[[Pragmatic Paradigm|实用主义]]教育哲学基础
+> - 2003 年与 Burbules 合作出版 *pragmatism and Educational Research*，奠定其 Dewey 式[[Pragmatic Paradigm|实用主义]]教育哲学基础
 > - 2007–2010 年发表对[[Evidence-Based Education|证据本位教育]]的系列批判（2007a, 2010），确立其作为 EBE 最主要哲学批评者的地位
 > - 2010 年代后期关注教育中的"美"、被动性与教学的重塑（2017, 2022）
 
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Biesta, G. J. J., & Burbules, N. (2003). *[[Pragmatism in China|pragmatism]] and educational research*. Rowman & Littlefield. — 交易[[Epistemology|认识论]]的代表性阐述
+> - Biesta, G. J. J., & Burbules, N. (2003). *pragmatism and educational research*. Rowman & Littlefield. — 交易[[Epistemology|认识论]]的代表性阐述
 > - Biesta, G. J. J. (2007a). Why 'what works' won't work: Evidence-based practice and the democratic deficit of educational research. *Educational Theory*, 57(1), 1–22. — 对[[Evidence-Based Education|证据本位教育]]的首次系统批判
 > - Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to [[Value-Based Education]]. *Studies in Philosophy and Education*, 29(5), 491–503. — 三重缺陷框架的系统阐述
 > - Biesta, G. J. J. (2010a). *Good education in an age of measurement: Ethics, politics, democracy*. [[Paradigm]] Publishers. — 教育目的论的核心著作，提出资格化/社会化/主体化三维框架

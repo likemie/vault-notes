@@ -19,19 +19,19 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Objectivism]]"
-  - "[[Pragmatism in China]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Causality]]"
   - "[[Document]]"
+  - "[[Theory of Knowledge]]"
   - "[[Value-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[John Dewey]]"
@@ -82,7 +82,7 @@ updated: '2026-05-18'
 > [!note-] 发展脉络
 > - **1929** — Dewey 在 *The Quest for Certainty* 中批判西方哲学的"确定性追求"，提出"旁观者知识观"概念
 > - **1983** — Bernstein 在 *Beyond [[Objectivism]] and Relativism* 中重新阐释 Dewey 的[[Epistemology|认识论]]，挑战客观主义/相对主义的二元对立
-> - **2003** — Biesta & Burbules 在 *[[Pragmatism in China|pragmatism]] and Educational Research* 中系统阐述交易认识论对教育研究的意义
+> - **2003** — Biesta & Burbules 在 *pragmatism and Educational Research* 中系统阐述交易认识论对教育研究的意义
 > - **2007** — Biesta 在 "Why 'What Works' Won't Work" 中首次将交易认识论应用于对[[Evidence-Based Education|证据本位教育]]的批判
 > - **2010** — 本文将交易认识论确立为三重缺陷框架的认识论支柱
 
@@ -97,7 +97,7 @@ updated: '2026-05-18'
 > [!warning] 相对主义指控
 > 如果知识只是"行动-后果关系的记录"([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 495]])，那么是否任何知识都没有比其他知识更"真"？交易[[Epistemology|认识论]]是否削弱了区分"好证据"和"坏证据"的基础？
 >
-> - **批评立场** 若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials|RCT]] 和[[Observational and Correlational Research|观察研究]]"同样有效"的等同处理——[[Argument_Slavin_2019_EP|Slavin (2019)]] 会认为这放弃了[[Causality|因果]]推论的核心要求。
+> - **批评立场** 若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials|RCT]] 和[[Observation Method|观察研究]]"同样有效"的等同处理——[[Argument_Slavin_2019_EP|Slavin (2019)]] 会认为这放弃了[[Causality|因果]]推论的核心要求。
 > - **Dewey/Biesta 的回应** 交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。([[Argument_Biesta_2010_SPE|Biesta, 2010, pp. 494–495]])
 >
 > **目前状态** 此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Methods Research|混合方法]][[Document|文献]]中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
@@ -117,7 +117,7 @@ updated: '2026-05-18'
 ## 相关研究
 
 > [!example] 相关研究
-> - [[Argument_Biesta_2010_SPE]] — 将交易[[Epistemology|认识论]]应用于批判[[Evidence-Based Education|证据本位教育]]的知识论前提
+> - [[Argument_Biesta_2010_SPE]] — 将交易[[Epistemology|认识论]]应用于批判[[Evidence-Based Education|证据本位教育]]的[[Theory of Knowledge|知识论]]前提
 > - Biesta & Burbules (2003) — 全面阐述交易认识论对教育研究的意义
 
 ## 应用领域

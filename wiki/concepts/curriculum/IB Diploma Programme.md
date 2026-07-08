@@ -9,7 +9,7 @@ aliases:
 summary: "IB 为 16–19 岁学生设计的两年制大学预科课程，由六学科组加 TOK、EE、CAS 三项核心要素组成，以显性批判性思维教学和跨学科整合为特色"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,16 +26,19 @@ related_concepts:
   - "[[Variable]]"
   - "[[School Effectiveness]]"
   - "[[Academic Self-Concept]]"
+  - "[[Scientism]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-related_persons: []
+related_persons:
+  - "[[Bruno Latour]]"
 related_facts:
   - "[[International Baccalaureate]]"
   - "[[CNCS Evidence Exchange]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
+  - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Cole_2015_AJE]]"
 confidence: medium
 status: draft
@@ -67,7 +70,7 @@ updated: 2026-07-05
 > - **创造—行动—服务（CAS）** 要求学生参与社区服务、体育和创造性活动，培养全人发展。
 
 > [!info] TOK 评估结构
-> TOK 评估由两部分组成，均不采用选择题等快速反应测试，以呼应批判性思维需要充分反思时间的理念（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007, p. 171]]）：
+> TOK 评估由两部分组成，均不采用选择题等快速反应测试，以呼应[[Critical Thinking|批判性思维]]需要充分反思时间的理念（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007, p. 171]]）：
 > - **内部评估（1/3）** 学生完成一次与 TOK 相关的简短演讲，个人或小组形式均可。评分标准明确惩罚非个人化的套路性表达
 > - **外部评估（2/3）** 学生在家完成 1200–1600 字的论文，从每年公布的十个题目中选择一个，约半数题目与 NOS、HPS 或 SSI 直接相关
 
@@ -88,16 +91,16 @@ updated: 2026-07-05
 
 ## 与科学科目的结构性张力
 
-DP 的独特设计——将批判性思维课程（TOK）作为独立核心要素，与六组传统科学和人文科目并行——在创造跨学科反思空间的同时，也催生了两种教育议程之间的深层冲突。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
+DP 的独特设计——将[[Critical Thinking|批判性思维]]课程（[[Theory of Knowledge|TOK]]）作为独立核心要素，与六组传统科学和人文科目并行——在创造跨学科反思空间的同时，也催生了两种教育议程之间的深层冲突。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
 
 ### 为何冲突是结构性的
 
 > [!info] TOK 在 DP 中的双重角色
 > TOK 被赋予了两个难以同时满足的任务：
 > - **作为批判性思维的独立空间** 鼓励学生自由质疑一切知识主张的基础，包括科学知识的权威性
-> - **作为科学科目的补充和强化** 配合其他六组科目的教学，帮助学生理解科学的认识论地位
+> - **作为科学科目的补充和强化** 配合其他六组科目的教学，帮助学生理解科学的[[Epistemology|认识论]]地位
 >
-> 当 TOK 主要作为科学科目的附属品时，偏向科学主义议程是可接受的。但 DP 将 TOK 设计为独立课程后，继续将批判性思维从属于科学普及就不再合理（pp.180–181）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
+> 当 TOK 主要作为科学科目的附属品时，偏向[[Scientism|科学主义]]议程是可接受的。但 DP 将 TOK 设计为独立课程后，继续将批判性思维从属于科学普及就不再合理（pp.180–181）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
 
 > [!tension] DP 设计面临的两难
 > - **与科学科目兼容** TOK 可以与科学科目的议程兼容，但这要求妥协批判性思维要素——学生不能自由地质疑科学的基础预设和价值预设，否则与科学科目的教学目标发生冲突
@@ -108,7 +111,7 @@ DP 的独特设计——将批判性思维课程（TOK）作为独立核心要�
 Zemplén 进一步指出，TOK 的评估设计本身制造了三个相互嵌套的问题（pp.171–174）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
 
 > [!feature] 评估框架的三个结构性缺陷
-> - **框架问题（Framework-Problem）** TOK 不属于任何既有学科，必须自创一套术语（认知方式、知识领域等）来组织教学和评分。这套术语反而成为评分依据，学生学会套用术语模仿批判性反思的语气来获取分数，框架无法容纳布鲁诺·拉图尔式的主体消解或基于行动的感知理论等另类推理风格
+> - **框架问题（Framework-Problem）** TOK 不属于任何既有学科，必须自创一套术语（认知方式、知识领域等）来组织教学和评分。这套术语反而成为评分依据，学生学会套用术语模仿批判性反思的语气来获取分数，框架无法容纳[[Bruno Latour|布鲁诺·拉图尔]]式的主体消解或基于行动的感知理论等另类推理风格
 > - **黑箱化（Black-Boxing）** 评估程序一旦被接受为可靠，人们就不再追问它到底在测量什么。TOK 的课程审查讨论越来​​越多聚焦于寻找更好的评分描述符，而关于评估是否测量了正确的目标的根本问题反而被边缘化
 > - **批判性思维问题（Problem of Critical Thinking）** 课程没有明确期待什么层次、什么类型的批判性思维，而反思判断模型表明高中生的推理能力可能达不到课程隐含的期望水平
 
@@ -118,4 +121,4 @@ Zemplén 进一步指出，TOK 的评估设计本身制造了三个相互嵌套�
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]，检验澳大利亚 DP 中 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系。
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 TOK 课程为案例，揭示 DP 中批判性思维议程与科学教育议程之间的结构性冲突，指出 TOK 评估框架可能制造术语表演而非真正的批判性思维。
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 [[Theory of Knowledge|TOK]] 课程为案例，揭示 DP 中批判性思维议程与科学教育议程之间的结构性冲突，指出 TOK 评估框架可能制造术语表演而非真正的批判性思维。

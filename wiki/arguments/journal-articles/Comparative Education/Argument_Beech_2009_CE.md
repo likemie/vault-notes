@@ -18,7 +18,6 @@ tags:
   - region/global
   - region/latin-america
 related_concepts:
-  - "[[Document]]"
   - "[[Encyclopaedism]]"
   - "[[Educated Identity]]"
   - "[[Global Policy Space]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Document]]"
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
   - "[[Postmodernism]]"
@@ -83,7 +83,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 同一个教育理念，比如培养学生的能力或尊重多样性，出现在 [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，[[OECD]]）的报告里、巴西的国家课程[[Document|文件]]里、布宜诺斯艾利斯郊区教师的日常话语里，但它们的含义是相同的吗？如果不是，是什么机制导致了意义的变化？这些变化又产生了怎样的实际后果？
+> 同一个教育理念，比如培养学生的能力或尊重多样性，出现在 [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，[[OECD]]）的报告里、巴西的国家课程文件里、布宜诺斯艾利斯郊区教师的日常话语里，但它们的含义是相同的吗？如果不是，是什么机制导致了意义的变化？这些变化又产生了怎样的实际后果？
 
 比较教育长期关注一个核心问题：当教育思想从一个地方传播到另一个地方时，它发生了什么变化？传统的回答诉诸文化、政治制度、经济环境等语境因素来解释这种变化。例如法国[[Encyclopaedism|百科全书主义]]在阿根廷和巴西被作出了不同的解读，形成了各自特定的[[Educated Identity|受教育身份]]定义(Hans, 1958, 引自 pp.347–348)。
 
@@ -435,7 +435,7 @@ Castells 据此区分了两种空间逻辑：
 
 > [!finding-cards] 核心发现
 > 1. **[[Space of Flows and Space of Places|流动空间]]塑造话语机制** 全球教育网络受网络逻辑与[[Performativity|操演性]]驱动，为了获取最大的接受度，强制生产出脱离历史经验的、可塑且相对稳定的“[[Floating Signifier|漂浮能指]]”话语。(pp.350–353)
-> 2. **国家层面具体化并置** 国家在翻译全球话语时，因网络国家特征和[[Governance by Spin|舆论操控]]需要，在政策[[Document|文件]]中并置“革新”与“保守”的矛盾声明（如巴西课程中的跨学科与14门独立学科共存）。(pp.355–358)
+> 2. **国家层面具体化并置** 国家在翻译全球话语时，因网络国家特征和[[Governance by Spin|舆论操控]]需要，在政策文件中并置“革新”与“保守”的矛盾声明（如巴西课程中的跨学科与14门独立学科共存）。(pp.355–358)
 > 3. **实践中不一致化为障碍** 在具体学校实践中，政策文本层面的矛盾转变为实际行动障碍，实践者面临教学行动的“一致性要求”，被迫为模糊字眼分配明确的定义。(pp.358–359)
 > 4. **微观[[Transfer Translation Transformation|转译]]的物质约束** 全球话语的本土化[[Shape-Shifting|形变]]受制于既有认知框架（如用行为目标[[Absorptive Capacity|吸收能力]]）以及所处领土的物质现实（如布宜诺斯艾利斯郊区的“尊重多样性”转译为对贫困的默许）。(pp.358–361)
 

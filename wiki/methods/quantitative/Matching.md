@@ -19,10 +19,10 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Standard Error]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
+  - "[[Standard Error]]"
   - "[[Stable Unit Treatment Value Assumption]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
@@ -43,7 +43,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info] 定义
-> 匹配（Matching）是一种观察性研究的[[Causality|因果推断]]方法，通过在处理组和对照组之间匹配协[[Variable|变量]]分布相似的研究对象，使两组在可观测特征上变得可比。它被 [[Argument_Berk_2011_ER|Berk (2011)]] 推荐为[[Causal Modeling|因果建模]]（[[Standard Error|SEM]]）的替代方法——"更少依赖不可检验的[[Hypothesis|假设]]，更多受实证诊断约束，更不容易受统计不当行为的影响"([[Argument_Berk_2011_ER|Berk, 2011, p.198]])。
+> 匹配（Matching）是一种观察性研究的[[Causality|因果推断]]方法，通过在处理组和对照组之间匹配协[[Variable|变量]]分布相似的研究对象，使两组在可观测特征上变得可比。它被 [[Argument_Berk_2011_ER|Berk (2011)]] 推荐为[[Causal Modeling|因果建模]]（SEM）的替代方法——"更少依赖不可检验的[[Hypothesis|假设]]，更多受实证诊断约束，更不容易受统计不当行为的影响"([[Argument_Berk_2011_ER|Berk, 2011, p.198]])。
 
 ## 认识论立场
 

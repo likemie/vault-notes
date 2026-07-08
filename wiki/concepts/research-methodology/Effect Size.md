@@ -5,7 +5,7 @@ aliases:
 summary: "比较不同干预或变量影响强度的标准化统计指标，被广泛用于元分析与证据排序，但其解释边界、聚合方式和政策用途长期存在争议"
 type: concept
 domain: "research-methodology"
-related_count: 69
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
-  - "[[Sampling Error]]"
   - "[[Standard Error]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -121,7 +120,7 @@ updated: '2026-05-23'
 
 > [!example] 与相关概念的区别
 > - **vs [[Statistical Significance]]** — 效应量测量效果的大小，统计显著性测量效果是否可能仅由随机因素产生。统计显著性依赖于效应量和[[Sample Size Determination|样本量]]的乘积：$t = d\sqrt{n}$([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]])。在 n=25 的双侧检验中，临界 $t=2.060$ 对应 $d \approx 0.412$，刚好接近《[[Visible Learning|可见的学习]]》的 0.40 阈值，这意味着 0.40 在特定样本量下才与 p≈0.05 相连，并非脱离样本量的普遍边界。
-> - **vs [[Confidence Interval]]** — 效应量给出点估计，置信区间呈现该估计的误差范围。没有置信区间或[[Sampling Error|标准误]]时，相邻效应量排名无法判断是否真的不同([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。Hattie 的效应量排名仅给 d 的点估计，未系统报告置信区间或[[Standard Error|标准误]]，也未进行相邻排名之间的显著性检验。
+> - **vs [[Confidence Interval]]** — 效应量给出点估计，置信区间呈现该估计的误差范围。没有置信区间或[[Standard Error|标准误]]时，相邻效应量排名无法判断是否真的不同([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。Hattie 的效应量排名仅给 d 的点估计，未系统报告置信区间或[[Standard Error|标准误]]，也未进行相邻排名之间的显著性检验。
 > - **vs 原始分数差异（Raw Score Difference）** — 原始分数差异保留了原始测量单位，效应量通过除以标准差消除了单位——这使跨研究比较成为可能，但也抹除了效果的实际教育意义。
 > - **vs 意向处理分析效应** — 意向处理分析按原始[[Random Assignment|随机分配]]分析（无论实际接受与否），反映干预可获得性而非实际接受效果；效应量本身不区分这两种估计，但所基于的研究设计决定了其政策含义([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])。
 > - **vs 最小可检测效应量** — 效应量是事后度量（干预实际产生了多大效果），最小可检测效应量是事前设计参数（研究能够检测到多大效果），详见下方[[#最小可检测效应量]]。
@@ -479,7 +478,7 @@ Hattie 用此公式获得"创造力对学业成功的影响"（Kim, 2005），�
 
 Wecker, Vogel & Hetmanek（2016）在审查 Hattie 的二级元分析时，记录了效应量计算和聚合中的具体技术错误：
 
-- **[[Sampling Error|标准误]]与标准差的混淆**：在个别一级元分析的主要研究中，[[Standard Error|标准误]]被错误地当作标准差使用([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.26–27]])。例如 Eisenstaedt 等人（1990）的主要研究中，控制组的标准误=2.74 被当作标准差来处理，导致效应量计算严重错误（原应为 d=-0.80，而非 Hattie 引用的极端值）
+- **[[Standard Error|标准误]]与标准差的混淆**：在个别一级元分析的主要研究中，[[Standard Error|标准误]]被错误地当作标准差使用([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.26–27]])。例如 Eisenstaedt 等人（1990）的主要研究中，控制组的标准误=2.74 被当作标准差来处理，导致效应量计算严重错误（原应为 d=-0.80，而非 Hattie 引用的极端值）
 - **效应量测度混合使用** Hattie 交替使用 Cohen's d、Hedges' g、Glass' Δ 和 Fisher's z，但在二级元分析中对它们进行直接汇总而不做转换——"这两个变体中的任何一个都不一定比另一个更可取。然而，如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的，因为提到的测量没有相互转换"（p.27）
 - **[[Fixed-Effect and Random-Effects Models|固定效应模型]]的错误加权**：Hattie 声称使用固定效应模型（p.12），但实际执行中使用了未加权的简单算术平均值——Wecker 等人证明正确加权可将效应量从 0.59 变为 0.23（pp.29–30）
 

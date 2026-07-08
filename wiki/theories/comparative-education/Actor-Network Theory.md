@@ -8,10 +8,10 @@ aliases:
 summary: Latour 等人提出的社会理论，将人类和非人类行动者视为对等的网络节点，通过转译过程追踪社会-物质关系的组装与重构
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 13
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 18
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/social-theory
   - method/ethnography
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Network Governance]]"
   - "[[Analytic Framework]]"
+  - "[[Champ]]"
+  - "[[Policy Network]]"
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
@@ -33,8 +35,11 @@ related_persons:
   - "[[Max Weber]]"
 related_facts:
   - "[[Conectar Igualdad]]"
+  - "[[PISA]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Beech_2015_GSE]]"
+  - "[[Argument_Li_2025_HSSC]]"
 confidence: medium
 status: draft
 created: 2026-06-07
@@ -77,7 +82,7 @@ updated: 2026-06-07
 > - **课堂的物质建构**。McGregor (2004) 追踪科学实验室中不同物体（如实验室准备材料）如何塑造教学实践。Fenwick (1998) 展示了房间钥匙如何成为公立学校教师日常生活中的权力来源。Nespor (1994) 研究了大学物理和商业课程中通过不同时空组织方式创造的权力和知识网络（引自 Beech & Artopoulos, 2015）。
 > - **教育改革分析**。Resnik (2006–2012) 使用 ANT 在新[[Max Weber|韦伯]]主义视角下研究以色列和法国的教育改革，追踪影响和参与改革的政策行动者网络。她探索使用 ANT 构建「多尺度视野」，整合宏观、中观和微观层面的分析（引自 Beech & Artopoulos, 2015）。
 > - **阿根廷 [[Conectar Igualdad]] 项目**。[[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]] 使用 ANT 分析阿根廷「平等连接」项目（每台电脑分配给一名中学生），展示了如何通过重建课堂的社会-物质[[Assemblage|组装]]来揭示传统[[Analytic Framework|分析框架]]难以察觉的权力关系。
-> - **PISA 政策影响分析**。[[Argument_Li_2025_HSSC|Li et al. (2025)]]将 ANT 整合进 PISA 对全球教育改革影响的三层机制模型中——在内部行动者网络层级，国际组织（如 OECD）虽可被视为全球政治场域的重要政策行动者，但其对一国政策制定的影响是特定社会环境中嵌入政策网络的各类主体（政策制定者、政党、协会、媒体）动态博弈的结果。
+> - **[[PISA]] 政策影响分析**。[[Argument_Li_2025_HSSC|Li et al. (2025)]]将 ANT 整合进 PISA 对全球教育改革影响的三层机制模型中——在内部行动者网络层级，国际组织（如 [[OECD]]）虽可被视为全球政治[[Champ|场域]]的重要政策行动者，但其对一国政策制定的影响是特定社会环境中嵌入[[Policy Network|政策网络]]的各类主体（政策制定者、政党、协会、媒体）动态博弈的结果。
 
 ---
 

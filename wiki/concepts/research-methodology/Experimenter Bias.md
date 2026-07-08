@@ -18,7 +18,7 @@ tags:
   - bias
 related_concepts:
   - "[[Blinding]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -54,7 +54,7 @@ updated: 2026-06-01
 
 > [!example]
 > - vs [[Blinding|盲法]] — 实验者偏差是需要解决的问题，盲法是解决这一问题的主要技术手段。两者是问题与对策的关系，而非同一概念。
-> - vs 需求特征（Demand Characteristics） — 需求特征是受试者因猜测[[Purpose Statement|研究目的]]而改变行为；实验者偏差是实验者因知晓条件分配而改变行为。两者的偏差来源不同（受试者 vs 实验者），但都通过盲法设计来共同控制。
+> - vs 需求特征（Demand Characteristics） — 需求特征是受试者因猜测[[Research Purpose|研究目的]]而改变行为；实验者偏差是实验者因知晓条件分配而改变行为。两者的偏差来源不同（受试者 vs 实验者），但都通过盲法设计来共同控制。
 
 ## 争议与批评
 

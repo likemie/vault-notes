@@ -36,7 +36,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Feedback]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Literature Review]]"
   - "[[Document]]"
@@ -51,7 +51,7 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Systematic Review]]"
   - "[[Quantitative Research]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
   - "[[Random Assignment]]"
 related_persons:
   - "[[Gene Glass]]"
@@ -151,7 +151,7 @@ updated: '2026-05-21'
 > [!success] 作为追问变异和调节[[Variable|变量]]的工具
 > - Hattie（2015）从支持者立场强调，元分析最有价值的用法不是把平均效应当成最后答案，而是迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果，平均值背后的变异说明了什么（Hattie, 2015, pp.10–11, 14–15）
 > - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, pp.25–27)]]从支持者立场认为，教育元分析不需要等待所有[[Research Utilization|研究使用]]完全相同的学习结果定义才可比较；[[Effect Size|效应量]]提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。但这种比较的代价是学习结果变得抽象，研究者难以说明测量的是表层知识、深层理解、社会能力还是概念性学习([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])
-> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.5)]]从支持者立场提出"观察透镜"论证：元分析是系统观察的一种形式，所有观察都从特定位置和特定透镜进行，元分析透镜产生的图像与定性[[Observational and Correlational Research|观察研究]]的图像不同但互补——前提是两者均遵循高效度标准
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.5)]]从支持者立场提出"观察透镜"论证：元分析是系统观察的一种形式，所有观察都从特定位置和特定透镜进行，元分析透镜产生的图像与定性[[Observation Method|观察研究]]的图像不同但互补——前提是两者均遵循高效度标准
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]的谨慎立场：如果且仅当满足 11 项条件，元分析才可能值得严肃对待
 
 ---
@@ -236,7 +236,7 @@ updated: '2026-05-21'
 >
 > [[Argument_Snook_2010_NZJES|Snook et al. (2010, p.96)]]在回应 Hattie（2010）时，提出了一个常被忽略的更深层问题：元分析技术起源于医学科学——医学有经过仔细界定的概念和严谨的（通常为实验性）研究设计。然而在教育领域，"被研究的变量往往概念化差，研究也经常不够严格"：
 >
-> > "如何为[[Purpose Statement|研究目的]]清晰区分一个'以教师为中心'和一个'以学生为中心'的课堂？在比较它们时，如何在一个嘈杂繁忙、可能有 30 多个参与者的课堂中控制所有变量？"
+> > "如何为[[Research Purpose|研究目的]]清晰区分一个'以教师为中心'和一个'以学生为中心'的课堂？在比较它们时，如何在一个嘈杂繁忙、可能有 30 多个参与者的课堂中控制所有变量？"
 >
 > 经过四十年课堂细粒度研究，Graham Nuthall（2007, p.16）得出结论：虽然有大量已发表的教育研究报告，但"在识别那些对课堂教学有值得信赖的内容的研究时，你需要非常有选择性"([[Argument_Snook_2010_NZJES|Snook et al., 2010, p.97]])。Snook et al. 以 Nuthall 的 The Hidden Lives of Learners（基于数十年新西兰课堂研究）与 Hattie 的《可见的学习》（基于国际元分析）的书名对比，暗示两者在[[Epistemology|认识论]]取向上存在本质差异。
 >

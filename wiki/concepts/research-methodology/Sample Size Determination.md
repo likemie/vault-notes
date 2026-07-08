@@ -9,7 +9,7 @@ aliases:
 summary: "研究设计中确定样本大小的决策过程，涉及研究目的、总体规模、置信水平与置信区间、变量类型、统计方法要求、子组数量和预期无回应率等多重因素，是抽样规划的核心环节"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,10 +18,9 @@ tags:
   - quantitative-research
   - research-design
 related_concepts:
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
-  - "[[Research Purpose]]"
   - "[[Causality]]"
   - "[[Confidence Interval]]"
 related_theories: []
@@ -47,7 +46,7 @@ updated: 2026-06-21
 ## 定义
 
 > [!def] 核心定义
-> 样本量确定（Sample Size Determination）是研究设计中决定需要从总体中抽取多少个案例（个体、学校、班级等）作为样本的决策过程。正确的样本量取决于[[Purpose Statement|研究目的]]、总体的性质与[[Heterogeneity|异质性]]、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量、所需统计方法、子组数量以及研究是定量还是定性等多个相互交织的因素。样本量确定没有统一答案，但存在一系列经验法则、统计要求和数学公式可供参考。
+> 样本量确定（Sample Size Determination）是研究设计中决定需要从总体中抽取多少个案例（个体、学校、班级等）作为样本的决策过程。正确的样本量取决于[[Research Purpose|研究目的]]、总体的性质与[[Heterogeneity|异质性]]、所需准确度、预期回应率、研究包含的[[Variable|变量]]数量、所需统计方法、子组数量以及研究是定量还是定性等多个相互交织的因素。样本量确定没有统一答案，但存在一系列经验法则、统计要求和数学公式可供参考。
 
 > [!concept-lens] 概念透镜
 > - **含义** 样本量确定指向在资源约束与研究精确度之间做出权衡的决策过程，核心问题是"多少案例才算足够"。
@@ -66,7 +65,7 @@ updated: 2026-06-21
 ### 影响样本量的多重因素
 
 > [!feature] 影响样本量的因素
-> - **[[Purpose Statement|研究目的]]与设计**：[[Survey Research|调查研究]]通常需大样本（尤其是推论统计）；[[Ethnography|民族志]]或[[Qualitative Research|质性研究]]样本量通常较小。相关研究 ≥ 30 例，[[Causality|因果]]比较与实验 ≥ 15 例，调查每个主要子组 ≥ 100、每个次要子组 20–50（Borg & Gall, 1979: 194–5）。
+> - **[[Research Purpose|研究目的]]与设计**：[[Survey Research|调查研究]]通常需大样本（尤其是推论统计）；[[Ethnography|民族志]]或[[Qualitative Research|质性研究]]样本量通常较小。相关研究 ≥ 30 例，[[Causality|因果]]比较与实验 ≥ 15 例，调查每个主要子组 ≥ 100、每个次要子组 20–50（Borg & Gall, 1979: 194–5）。
 > - **总体规模与[[Heterogeneity|异质性]]**：总体越大，所需样本越大；总体异质性越强，所需样本越大。但 Krejcie & Morgan（1970）发现，当总体增至一定程度后，所需样本量趋于恒定（约 384 例）。
 > - **[[Confidence Interval|置信水平]]与[[Confidence Interval|置信区间]]**：置信水平越高（如 99% vs 95%），样本量越大；置信区间越小（如 ± 3% vs ± 5%），样本量越大。常规策略：95% 置信水平 + 3% 置信区间。
 > - **[[Variable|变量]]类型**：类别数据（categorical data）通常比连续数据（continuous data）需要更大的样本。类别数据边际误差通常取 5%，连续数据取 3%（Bartlett et al., 2001: 45）。

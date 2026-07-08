@@ -30,7 +30,7 @@ related_concepts:
   - "[[Concierge Service]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Co-location]]"
-  - "[[Innovation Hub]]"
+  - "[[Innovation Park]]"
   - "[[Industry Advisory Board]]"
   - "[[Research Security]]"
   - "[[Technology Infusion]]"
@@ -153,7 +153,7 @@ citation_aliases:
 
 10. **连接活动（connector events）**是研究办公室伙伴关系团队的核心功能之一。团队与各院系合作，根据院系需求、兴趣领域和潜在外部参与方来设计和执行校内活动。在校园内举办活动降低了教师的参与门槛——不需要出差、不需要特殊安排。疫情后的活动调查显示，**面对面互动在建立信任和尊重的基础方面具有不可替代的价值(p.249)**。
 
-11. **共同选址**（[[University-Industry Co-location|co-location]]）是缩短认知距离的最激进形式。当产业人员进驻大学校园——甚至进入合作教师的特定实验室——互动从安排一次会议变为日常的、非正式的接触。共同选址还可以催生更广泛的组织形式：研究开发集群、[[Innovation Hub|研究园区]]、联合体、专用设备和服务的共享使用，以及招聘会、[[Industry Advisory Board|行业咨询委员会]]和赞助等非研究密集型活动(p.249)。
+11. **共同选址**（[[University-Industry Co-location|co-location]]）是缩短认知距离的最激进形式。当产业人员进驻大学校园——甚至进入合作教师的特定实验室——互动从安排一次会议变为日常的、非正式的接触。共同选址还可以催生更广泛的组织形式：研究开发集群、[[Innovation Park|研究园区]]、联合体、专用设备和服务的共享使用，以及招聘会、[[Industry Advisory Board|行业咨询委员会]]和赞助等非研究密集型活动(p.249)。
 
 12. 滑铁卢大学推动共同选址的一个实例是**加拿大国家研究理事会（NRC）与滑铁卢大学合作中心**。该中心聚焦人工智能、物联网和网络安全，为学生、政府和教师提供共同工作的物理空间，目标是在培养 HQP 技能的同时创造多样视角交汇的环境(p.249)。
 

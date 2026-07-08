@@ -20,7 +20,6 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Causality]]"
-  - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Operationalization]]"
   - "[[Effect Size]]"
+  - "[[Standard Error]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
@@ -59,7 +59,7 @@ updated: 2026-06-18
 ## 定义
 
 > [!def] 方法定义
-> [[Causality|因果]]建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, [[Standard Error|SEM]]），是随机实验之外最常用的[[Causality|因果推断]]替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（[[Argument_Berk_2011_ER|Berk, 2011, p.196]]）。
+> [[Causality|因果]]建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, SEM），是随机实验之外最常用的[[Causality|因果推断]]替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（[[Argument_Berk_2011_ER|Berk, 2011, p.196]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象**[[Variable|变量]]之间的因果路径和结构关系，通常基于理论[[Hypothesis|假设]]构建模型。
@@ -124,7 +124,7 @@ updated: 2026-06-18
 >    - 2004 — Berk 出版 *Regression Analysis: A Constructive Critique*
 > - 2005 — David Freedman 出版 *Statistical Models: Theory and Practice*，基于二十年的批判性关切提供了对因果建模"可能最彻底的处理"
 > 3. **当代定位（2011–至今）**
->    - 2011 — Berk 系统回顾因果建模的局限，推荐匹配作为替代策略；Cohen, Manion & Morrison 指出 [[Standard Error|SEM]]、[[Multiple Regression|多元回归]]和多变量分析"不可能强大过支撑它们的因果[[Hypothesis|假设]]"，在追求简洁清晰模型的过程中"严重简化"了情境中原因的数量或范围（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 71]]）
+>    - 2011 — Berk 系统回顾因果建模的局限，推荐匹配作为替代策略；Cohen, Manion & Morrison 指出 SEM、[[Multiple Regression|多元回归]]和多变量分析"不可能强大过支撑它们的因果[[Hypothesis|假设]]"，在追求简洁清晰模型的过程中"严重简化"了情境中原因的数量或范围（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 71]]）
 >    - 2023 — [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 从教育心理学期刊实践层面补充批评：依赖建模的分析更可能包含因果化语言，2010 年后建模类型和用途急剧增加
 
 ---
@@ -137,7 +137,7 @@ updated: 2026-06-18
 > [[Argument_Berk_2011_ER|Berk (2011, p.197)]] 识别的最核心问题：[[Causality|因果]]建模的常见实践涉及在多个模型中选择"最佳"模型，但这使得基于同一数据集的统计推断变得无效（Leeb & Pötscher, 2005, 2006; Berk, Brown, & Zhao, 2010）。
 
 > [!critique-logic] [[Hypothesis|假设]]先于统计——模型无法超越其前提
-> 因果建模的力量不可能强大过支撑它的因果假设。统计——即使是 [[Standard Error|SEM]]、[[Multiple Regression|多元回归]]和多[[Variable|变量]]分析——"可能只是强化已有假设和模型而非识别实际[[Causality|因果性]]"。在追求简洁清晰模型的过程中，它们经常"严重简化了情境中原因的数量或范围"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 71]]）。
+> 因果建模的力量不可能强大过支撑它的因果假设。统计——即使是 SEM、[[Multiple Regression|多元回归]]和多[[Variable|变量]]分析——"可能只是强化已有假设和模型而非识别实际[[Causality|因果性]]"。在追求简洁清晰模型的过程中，它们经常"严重简化了情境中原因的数量或范围"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 71]]）。
 
 > [!critique-logic] 缺乏明确的经验边界
 > "因果建模的错误是程度问题。模型'足够接近正确'与模型'不正确'之间没有明确的经验界限。结果之一就是大量的回旋余地"（[[Argument_Berk_2011_ER|Berk, 2011, p.197]]）。

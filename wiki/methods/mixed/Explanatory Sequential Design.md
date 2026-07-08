@@ -8,7 +8,7 @@ summary: "先收集量化数据再以质性后续数据深入解释量化结果�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 18
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
-  - "[[Pragmatism in China]]"
   - "[[Research Question]]"
   - "[[Descriptive Analysis]]"
   - "[[Metainferences]]"
@@ -78,7 +77,7 @@ updated: 2026-06-02
 
 ## 3. 认识论立场
 
-> [!abstract] [[Postpositivism|后实证主义]]与[[Pragmatic Paradigm|实用主义]] (Post-[[Positivism]] & [[Pragmatism in China|pragmatism]])
+> [!abstract] [[Postpositivism|后实证主义]]与[[Pragmatic Paradigm|实用主义]] (Post-[[Positivism]] & pragmatism)
 > 该设计通常始于[[Postpositivism|后实证主义]]立场（强调通过量化测量识别客观规律），随后转向解释主义/[[Pragmatic Paradigm|实用主义]]立场（强调通过个体经验理解具体背景）。它体现了实用主义的灵活性，即根据[[Research Question|研究问题]]的不同阶段切换最有效的工具。
 
 ---

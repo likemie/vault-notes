@@ -8,7 +8,7 @@ aliases:
 summary: "量化研究数据分析的第一步，报告所有变量的均值、标准差和得分范围，并识别和报告缺失数据的程度与处理策略"
 type: concept
 domain: "research-methodology"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Hypothesis]]"
-  - "[[Sampling Error]]"
   - "[[Standard Error]]"
 related_theories: []
 related_methods:
@@ -78,6 +77,6 @@ updated: 2026-06-01
 
 > [!warning]
 > - 描述性分析只提供样本特征的总结，不能直接用于推断总体特征或检验[[Hypothesis|假设]]。
-> - 缺失数据的处理方式可能显著影响描述统计量的估计——不同的缺失数据处理策略可能产生不同的均值估计和[[Sampling Error|标准误]]。
+> - 缺失数据的处理方式可能显著影响描述统计量的估计——不同的缺失数据处理策略可能产生不同的均值估计和[[Standard Error|标准误]]。
 > - 仅报告均值而不报告变异指标（如标准差或[[Standard Error|标准误]]）可能导致对数据分布特征的误读。
 

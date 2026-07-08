@@ -8,10 +8,10 @@ aliases:
 summary: "研究现场中控制研究准入与再准入的个体或角色，在质性研究和敏感研究中是关键的权力节点——守门人可能批准、阻止或条件化研究，其行为模式直接影响研究设计、数据质量和伦理关系"
 type: concept
 domain: "research-methodology"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - qualitative-research
@@ -33,12 +33,11 @@ related_concepts:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Fieldwork]]"
-  - "[[Archival Correspondence Analysis]]"
+  - "[[Archival Research]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
 created: 2026-06-01
 updated: 2026-06-22
@@ -58,7 +57,7 @@ updated: 2026-06-22
 > [!boundary]- 概念边界
 > - 不等于 担保人（sponsor） — 守门人控制准入之门，担保人带领研究者穿门而入。守门人通常在群体外部或边界，担保人在群体内部。
 > - 不等于 [[Institutional Review Board|IRB]] — IRB 是制度层面的伦理审查机制，守门人是个体层面的准入控制者。一个研究可能通过了 IRB 审查但仍被守门人拒绝。
-> - 不适用于无准入控制的研究 — 如公开[[Archival Correspondence Analysis|档案研究]]、完全公开的在线数据收集。
+> - 不适用于无准入控制的研究 — 如公开[[Archival Research|档案研究]]、完全公开的在线数据收集。
 
 ---
 

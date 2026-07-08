@@ -17,7 +17,7 @@ tags:
   - method/qualitative
   - research-methodology
 related_concepts:
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Informed Consent]]"
   - "[[Central Phenomenon]]"
   - "[[Probes]]"
@@ -56,7 +56,7 @@ updated: 2026-06-01
 访谈协议包含四个核心部分，应按顺序编排（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 > [!example] 一、引言
-> - 介绍自己和[[Purpose Statement|研究目的]]（可以预先写好，直接朗读）
+> - 介绍自己和[[Research Purpose|研究目的]]（可以预先写好，直接朗读）
 > - 获取签署的[[Informed Consent|知情同意书]]
 > - 说明访谈的结构（如何开始、问题数量、大致时长）
 > - 询问受访者是否有任何问题

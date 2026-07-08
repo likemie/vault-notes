@@ -4,7 +4,7 @@ aliases: [假设, 研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁。好假设必须陈述变量关系、可被检验、方向清晰，并通过操作化转化为可测量的形式。"
 type: concept
 domain: "research-methodology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,13 +21,14 @@ related_concepts:
   - "[[Causality]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
+  - "[[Research Purpose]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []
@@ -144,7 +145,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 齐梅 (2015, Ch.2) 按研究假设的形成方式，将其分为三种：
 
 > [!feature] 按形成方式划分的假设类型
-> - **归纳性假设（Inductive Hypothesis）** 观察基础上的概括，是人们通过对一些个别事实材料的观察进行概括、推论得出的经验定律。例如，1943年肯纳（Kanner）教授通过对11个自闭症儿童的典型案例进行[[Observational and Correlational Research|观察研究]]，概括总结出自闭症患者的11个特征。
+> - **归纳性假设（Inductive Hypothesis）** 观察基础上的概括，是人们通过对一些个别事实材料的观察进行概括、推论得出的经验定律。例如，1943年肯纳（Kanner）教授通过对11个自闭症儿童的典型案例进行[[Observation Method|观察研究]]，概括总结出自闭症患者的11个特征。
 > - **演绎性假设（Deductive Hypothesis）** 从一般教育学原理或理论出发，依据这一理论推导出一些新的具体结论。例如，赵宋光教授提出的"综合构建教学新体系"，按照现代哲学、美学、心理学所揭示的儿童智力结构、意志结构、情感结构立体镶嵌、全面发展的规律，依据构建生成学习理论，提出了"语言符号镶嵌结构教学模式"。
 > - **研究性假设（Research Hypothesis）** 对研究变量间的差异性或相关性的说明。在研究性假设中，呈现出方向性假设和非方向性假设两类。方向性假设预示了结果的方向，如"二年级学生对学校的接受度比一年级低，但比三年级高"；非方向性假设对研究的结果无法做特定方向的预测，如"一、二、三年级对学校的感觉是不同的"。
 
@@ -171,7 +172,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 
 ### 假设的操作化
 
-将[[Purpose Statement|研究目的]]转化为假设属于[[Operationalization|操作化]]的过程。操作化意味着将假设中的每个概念转化为可测量或可操作的明确行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.138–139]]）：
+将[[Research Purpose|研究目的]]转化为假设属于[[Operationalization|操作化]]的过程。操作化意味着将假设中的每个概念转化为可测量或可操作的明确行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.138–139]]）：
 
 > [!example] 操作化示例
 > 假设"人们在安静条件下比在有噪音条件下工作更好"，必须定义：

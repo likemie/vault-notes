@@ -8,21 +8,30 @@ aliases:
 summary: "Toulmin 提出的领域依赖的论证结构模型，将论证拆解为六个部件，基于法律推理逻辑，广泛应用于科学教育和批判性思维教学"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theme/argumentation
   - theme/critical-thinking
   - theme/science-education
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
+  - "[[Document]]"
+  - "[[Analytic Framework]]"
+  - "[[Paradigm]]"
+  - "[[Theory of Knowledge]]"
+related_theories:
+  - "[[Pragma-Dialectics]]"
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[International Baccalaureate]]"
+related_arguments:
+  - "[[Argument_Zemplen_2007_SciEduc]]"
 confidence: medium
 status: draft
 created: 2026-07-05
@@ -75,9 +84,9 @@ updated: 2026-07-05
 
 ## 理论立场与使用方式
 
-> [!theory-stance] 认识论立场
-> - **本体论** 论证是发生在社会语境中的言语行为，不是脱离语境的形式结构。论证标准的合理性取决于特定领域的认识论实践。
-> - **认识论** 论证的合理性是领域依赖的——法律论证依赖判例和法条，科学论证依赖实验和理论，历史论证依赖文献和考古证据。不存在跨领域的普遍论证标准。
+> [!theory-stance] [[Epistemology|认识论]]立场
+> - **[[Ontology|本体论]]** 论证是发生在社会语境中的言语行为，不是脱离语境的形式结构。论证标准的合理性取决于特定领域的认识论实践。
+> - **认识论** 论证的合理性是领域依赖的——法律论证依赖判例和法条，科学论证依赖实验和理论，历史论证依赖[[Document|文献]]和考古证据。不存在跨领域的普遍论证标准。
 > - **方法含义** 分析论证时应识别六个部件，逐一检查每个部件的强度，特别注意保证和支撑是否在特定领域中成立。
 > - **不能直接推出的东西** 模型只分析论证的结构，不评价论证的质量。识别出保证和支撑不等于判断它们是否成立。模型不能替代领域知识。
 
@@ -101,14 +110,14 @@ updated: 2026-07-05
 ## 争议与批评
 
 > [!critique] 对图尔敏模型的批评
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 指出两个关键缺陷：第一，模型只能分析论证结构，不能评价论证质量——它帮你识别保证连接了数据和主张，但不帮你判断这个保证本身是否成立。第二，模型预设了单向的论证关系（一方提出主张和辩护，另一方只能提问），但科学争议的典型形态是双方各自持有完整立场并相互攻击。相比之下，[[Pragma-Dialectics|语用辩证学派]]提供了评价论证质量的规范标准和适用于双方对立的分析框架。
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 指出两个关键缺陷：第一，模型只能分析论证结构，不能评价论证质量——它帮你识别保证连接了数据和主张，但不帮你判断这个保证本身是否成立。第二，模型预设了单向的论证关系（一方提出主张和辩护，另一方只能提问），但科学争议的典型形态是双方各自持有完整立场并相互攻击。相比之下，[[Pragma-Dialectics|语用辩证学派]]提供了评价论证质量的规范标准和适用于双方对立的[[Analytic Framework|分析框架]]。
 
 > [!critique-logic] Hamblin (1970) 对"标准谬误处理"的批评
-> 图尔敏模型虽然比形式逻辑更贴近实际论证，但仍然属于"标准处理"范式。Hamblin 对传统谬误类型学的批评同样适用于仅依赖结构分析的论证教学方法：结构分析不能替代功能评价。
+> 图尔敏模型虽然比形式逻辑更贴近实际论证，但仍然属于"标准处理"[[Paradigm|范式]]。Hamblin 对传统谬误类型学的批评同样适用于仅依赖结构分析的论证教学方法：结构分析不能替代功能评价。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 在 IB TOK 课程的语境中批评图尔敏模型在科学教育中的局限，提出语用辩证学派作为替代方案。
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 在 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程的语境中批评图尔敏模型在科学教育中的局限，提出[[Pragma-Dialectics|语用辩证学派]]作为替代方案。

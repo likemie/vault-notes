@@ -8,7 +8,7 @@ aliases:
 summary: "研究规划的实操评估概念，涵盖研究准入、研究者自身、时间、资源、研究影响力和研究范围六个约束维度，以及对应的九项自检清单，确保研究在实际约束下可以完成"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Access and Acceptance in Research]]"
   - "[[Research Scope]]"
-  - "[[Purpose Statement]]"
   - "[[Research Purpose]]"
   - "[[Informed Consent]]"
   - "[[Research Topic]]"
@@ -27,7 +26,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories: []
 related_methods:
-  - "[[Archival Correspondence Analysis]]"
+  - "[[Archival Research]]"
   - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
@@ -48,7 +47,7 @@ updated: 2026-06-20
 > [!concept-lens] 概念透镜
 > - **含义** 可行性评估涵盖六个约束维度：[[Access and Acceptance in Research|研究准入]]、研究者自身特质与专长、时间、资源、研究影响力和[[Research Scope|研究范围]]。约束条件不总是一票否决——它们可能只要求修改而非放弃研究。
 > - **用途** 在研究规划的早期阶段运行可行性检查，防止投入大量精力制定计划后才发现不可行。关键是在制定详细计划之前识别关键瓶颈。
-> - **边界** 可行性是保障条件而非[[Purpose Statement|研究目的]]本身。一项完全可操作但毫无贡献的研究与一个贡献巨大但不可行的研究都有问题。需要在可行性与[[Research Purpose|研究目的]]之间取得平衡。
+> - **边界** 可行性是保障条件而非[[Research Purpose|研究目的]]本身。一项完全可操作但毫无贡献的研究与一个贡献巨大但不可行的研究都有问题。需要在可行性与[[Research Purpose|研究目的]]之间取得平衡。
 
 ---
 
@@ -101,7 +100,7 @@ updated: 2026-06-20
 
 - **物质资源** 邮寄调查有印刷、分发、回邮和跟进提醒的成本。在线调查需考虑所有教师是否都有便捷的网络访问，连接质量差是否会导致他们中途放弃
 - **人力资源** 大规模校园问卷需要学术和行政人员的配合来安排分发、收集和回收
-- **档案资源** 历史[[Archival Correspondence Analysis|档案研究]]可能需要支付检索费、访问分散各地的档案馆、花时间坐在公共记录办公室的微缩胶片阅读器前
+- **档案资源** 历史[[Archival Research|档案研究]]可能需要支付检索费、访问分散各地的档案馆、花时间坐在公共记录办公室的微缩胶片阅读器前
 
 ---
 

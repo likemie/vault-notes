@@ -27,7 +27,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -75,7 +75,7 @@ updated: '2026-05-18'
 >
 > 1. **RCT 的证据等级优先性被削弱** 即使 RCT 设计良好，如果后续证据揭示了先前未被排除的替代解释，其推论的效度同样受损
 > 2. **"什么有效"的知识主张必然是临时的** 新发现、新洞见和新理解将持续使先前可信的解释受到质疑([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.10]])
-> 3. **方法等级制的不合理** 效度取决于排除替代解释的能力，而非方法标签（RCT vs [[Observational and Correlational Research|观察研究]]）
+> 3. **方法等级制的不合理** 效度取决于排除替代解释的能力，而非方法标签（RCT vs [[Observation Method|观察研究]]）
 
 
 > [!abstract] 与 Goldman 区分理论的联系

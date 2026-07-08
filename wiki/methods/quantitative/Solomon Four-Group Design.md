@@ -18,7 +18,7 @@ tags:
   - quantitative-research
   - design-type
 related_concepts:
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Internal Validity]]"
   - "[[Sample Size Determination]]"
 related_theories: []
@@ -64,7 +64,7 @@ Group D  R ———————————————— O    (无前测 + �
 ## 适用场景
 
 > [!success]
-> - 当研究者担心前测可能使受试者对处理更加敏感（如前测让受试者意识到[[Purpose Statement|研究目的]]，从而改变其对处理的反应）时，Solomon 四组设计可以分离和评估前测效应。
+> - 当研究者担心前测可能使受试者对处理更加敏感（如前测让受试者意识到[[Research Purpose|研究目的]]，从而改变其对处理的反应）时，Solomon 四组设计可以分离和评估前测效应。
 > - 当研究领域存在关于前测效应的争议或理论关切时，该设计提供了强有力的[[Internal Validity|内部效度]]保障。
 
 ## 局限性

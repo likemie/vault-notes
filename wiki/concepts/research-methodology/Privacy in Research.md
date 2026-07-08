@@ -23,7 +23,7 @@ related_concepts:
   - "[[Sensitive Research]]"
 related_theories: []
 related_methods:
-  - "[[Observational and Correlational Research]]"
+  - "[[Observation Method]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -94,7 +94,7 @@ updated: 2026-06-22
 
 > [!case] 应用案例索引
 > - 研究者在调查家庭[[Bildung|教养]]方式时，在问卷中询问收入、宗教信仰和性取向等高度敏感信息——这些信息越敏感，保护措施应越多
-> - 课堂[[Observational and Correlational Research|观察研究]]——研究者应将观察限于公共行为，而非跟踪教师进入私人空间
+> - 课堂[[Observation Method|观察研究]]——研究者应将观察限于公共行为，而非跟踪教师进入私人空间
 
 ---
 

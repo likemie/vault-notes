@@ -10,7 +10,7 @@ aliases:
 summary: "把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
+  - "[[IB Diploma Programme]]"
   - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -120,7 +121,7 @@ Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践�
 
 - 2015 年 Silova & Brehm 批判性地审视该理论，质疑从神话到模型的再生产机制——理论不仅描述西方模型扩散，更在规范性上再生产了西方中心主义。
 - [[Argument_Klerides_2023_CE|Klerides (2023)]]将围绕世界社会理论的争论概括为"世界文化辩论"（world culture debate），区分了三种立场：世界文化理论家（Meyer & Ramirez）将转移视为行动者为实现归属于"世界社会"而进行的共识性内化过程；趋同批评者（Schriewer）探索全球现象的地方变异，质疑行动者不加反思地接受同一套普遍信息；全球—地方联结论者强调转移不仅是模仿和规范实践，也是强制和不平等权力关系的产物([[Argument_Klerides_2023_CE|Klerides, 2023, pp.425–426]])。这一辩论是理性主义比较教育内部的核心理论张力。
-- 2025 年 Yan & Morris 以[[Liberal Studies|香港通识教育科]]（LS）为案例对该理论进行检验和限定：**如果仅关注 LS 的创立（全球参照、IBDP 借用），该理论表面上成立；但将废除阶段（[[Citizenship and Social Development|CSD]] 取代 LS）纳入分析，趋同[[Hypothesis|假设]]难以解释国家安全的突变性介入**([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。详见 [[Argument_Yan_2025_JCS]]。
+- 2025 年 Yan & Morris 以[[Liberal Studies|香港通识教育科]]（LS）为案例对该理论进行检验和限定：**如果仅关注 LS 的创立（全球参照、[[IB Diploma Programme|IBDP]] 借用），该理论表面上成立；但将废除阶段（[[Citizenship and Social Development|CSD]] 取代 LS）纳入分析，趋同[[Hypothesis|假设]]难以解释国家安全的突变性介入**([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。详见 [[Argument_Yan_2025_JCS]]。
 
 ---
 ## 认识论立场

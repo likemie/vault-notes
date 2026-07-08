@@ -401,8 +401,8 @@ citation_aliases:
 ## 关键引用
 
 > [!quote]
-> “如果[[Innovation Hub|研究园区]]或创新中心的最终目的是通过增加商业活动和创业精神来提高生活水平，那么大学和产业合作伙伴就可以利用这些方法做出针对特定地点的决策，以创建互惠互利和正向强化的生态系统。”
-> ("If the ultimate purpose of a [[Innovation Hub|research park]] or an innovation center is to raise the standard of living through increased commercial activity and entrepreneurship, then university and industry partners can draw from these approaches to make location-specific decisions to create mutually beneficial and positively reinforcing ecosystems.")(p.124)
+> “如果研究园区或创新中心的最终目的是通过增加商业活动和创业精神来提高生活水平，那么大学和产业合作伙伴就可以利用这些方法做出针对特定地点的决策，以创建互惠互利和正向强化的生态系统。”
+> ("If the ultimate purpose of a research park or an innovation center is to raise the standard of living through increased commercial activity and entrepreneurship, then university and industry partners can draw from these approaches to make location-specific decisions to create mutually beneficial and positively reinforcing ecosystems.")(p.124)
 
 > [!quote]
 > “[[TUFF]] 认为激活与活动是在建筑‘内部’创造价值，而不是建筑‘本身’的价值——这强化了这样一种理念，即物理资产本身不会成为持久经济增长与发展的动力。”

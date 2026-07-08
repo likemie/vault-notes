@@ -5,7 +5,7 @@ aliases:
 summary: "因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 12
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Evaluation Research]]"
-  - "[[Standard Error]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
@@ -86,7 +85,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Causal Modeling]] — 潜在结果框架为[[Causality|因果]]效应提供定义性基础；因果建模（[[Standard Error|SEM]]）尝试通过模型[[Hypothesis|假设]]从观察数据中估计因果参数，但 [[Argument_Berk_2011_ER|Berk (2011)]] 认为后者存在严重的过度依赖不可检验假设的问题
+> - vs [[Causal Modeling]] — 潜在结果框架为[[Causality|因果]]效应提供定义性基础；因果建模（SEM）尝试通过模型[[Hypothesis|假设]]从观察数据中估计因果参数，但 [[Argument_Berk_2011_ER|Berk (2011)]] 认为后者存在严重的过度依赖不可检验假设的问题
 > - vs [[Randomised Controlled Trials]] — RCT 是估计因果效应的一种方法；潜在结果框架为理解 RCT 为何有效（[[Random Assignment|随机分配]]使潜在结果独立于处理分配）提供了概念基础
 
 ## 理论基础

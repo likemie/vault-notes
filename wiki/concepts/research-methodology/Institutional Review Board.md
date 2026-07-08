@@ -8,7 +8,7 @@ aliases:
 summary: "设立于高校和研究机构内部的伦理审查委员会，依据美国联邦法规在数据收集前审查涉及人类受试者的研究方案，在临床试验中同时也是影响启动效率的关键运营节点"
 type: concept
 domain: "research-methodology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,8 +21,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Gatekeepers]]"
   - "[[Informed Consent]]"
-  - "[[Document]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Covert Research]]"
   - "[[Research Ethics]]"
@@ -76,11 +75,11 @@ updated: 2026-06-18
 
 IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括：未成年人（不满 19 岁）、精神能力受限者、受害者、神经系统损伤者、孕妇或胎儿、囚犯，以及艾滋病患者（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
 
-[[Informed Consent|知情同意书]]（informed consent form）是 IRB 审查的核心[[Document|文件]]，研究者在提交 IRB 申请时需同时提交。同意书须包含以下标准要素（Sarantakos, 2005）：
+[[Informed Consent|知情同意书]]（informed consent form）是 IRB 审查的核心文件，研究者在提交 IRB 申请时需同时提交。同意书须包含以下标准要素（Sarantakos, 2005）：
 
 1. 研究者身份
 2. 资助机构身份
-3. [[Purpose Statement|研究目的]]
+3. [[Research Purpose|研究目的]]
 4. 参与收益
 5. 参与程度和类型
 6. 潜在风险声明
@@ -179,7 +178,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 > | **启动优势** | 申办方可预先选择熟悉的 IRB，免除机构间协议 | 需要定制[[Informed Consent\|知情同意书]]（Informed Consent Form, ICF），提交 IRB 依赖协议 |
 > | **管理费** | 纳入申办方预算 | 额外的机构 IRB 依赖管理费 |
 
-中心或单一 IRB 依赖协议（central or single IRB reliance agreements）被 [[Clinical Trials Transformation Initiative|CTTI]] 倡导为加速启动的关键措施之一——允许机构的修改在收到监管[[Document|文件]]后高效实施，而不需要从头走完本地 IRB 的完整审查周期([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])。
+中心或单一 IRB 依赖协议（central or single IRB reliance agreements）被 [[Clinical Trials Transformation Initiative|CTTI]] 倡导为加速启动的关键措施之一——允许机构的修改在收到监管文件后高效实施，而不需要从头走完本地 IRB 的完整审查周期([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])。
 
 > [!note]- IRB 的运营成本维度
 > 在临床试验启动的总成本中，IRB 相关费用是不可忽视的组成部分。AMC 的启动费用中包含"机构 IRB 依赖管理费"（institutional IRB reliance administration fee）和"中心 IRB 费"（central IRB fees）等专项收费([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, p.206]])。这些费用与医保覆盖分析（Medicare Coverage Analysis）和计费合规审查费等共同构成 AMC 启动成本从两万多美元到十五万美元以上的区间跨度。

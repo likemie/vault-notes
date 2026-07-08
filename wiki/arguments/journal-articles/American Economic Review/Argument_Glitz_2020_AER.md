@@ -24,7 +24,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Causality]]"
-  - "[[Sampling Error]]"
   - "[[Standard Error]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
@@ -52,7 +51,7 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -201,7 +200,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - **Shift-share 工具** 以 1970 年已在活动的线人（"老线人"）的信息份额和行业分布为固定权重，乘以当期老线人的总信息量构建预测流入。一阶段 F 统计量为 61.4（TFP）和 60.5（产出/工人），二阶段估计为 −0.072（p=0.150），略大于 OLS（pp.1080–1081, Table 3）。
 > - **退出工具** 利用高产线人（年均 20+ 条信息）突然停止提供信息的退出事件，以其退出前的平均行业信息量为权重构建预测流失。一阶段 F 统计量为 50.4（TFP），二阶段估计为 −0.120（p=0.149），约为 OLS 的 2.3 倍（pp.1081–1083, Table 3）。
-> - **退出工具的外生性证据** 退出工具与同期 TFP 增长的关系不显著（−0.062，[[Sampling Error|标准误]] 0.182），但与未来 TFP 增长显著正相关（0.528，[[Standard Error|标准误]] 0.144），排除了西德反间谍策略或斯塔西在落后行业系统退出线人的替代解释（pp.1083, Figure 4）。
+> - **退出工具的外生性证据** 退出工具与同期 TFP 增长的关系不显著（−0.062，[[Standard Error|标准误]] 0.182），但与未来 TFP 增长显著正相关（0.528，[[Standard Error|标准误]] 0.144），排除了西德反间谍策略或斯塔西在落后行业系统退出线人的替代解释（pp.1083, Figure 4）。
 
 > [!warrant]- 推理桥梁
 > 退出工具估计更大的原因在于退出线人群体高度集中在电子行业（78.2%），且提供的信息质量显著更高（"非常有价值"占比 2.8% vs 全样本 1.9%）。结合后文质量[[Heterogeneity|异质性]]分析——高质量信息影响远大于普通信息——更大的退出 IV 估计反映了局部平均处理效应（LATE）的异质性。（p.1084 fn.30, pp.1094–1096）
@@ -310,7 +309,7 @@ issuing_organization: ""
 > - **功能形式敏感性** 在不使用产出标准化的替代设定中，估计结果虽然符号与基线一致，但在统计上往往不显著，表明结论对功能形式[[Hypothesis|假设]]有一定敏感性（pp.1088–1089）。
 > - **成本数据的[[Reliability|可靠性]]** 成本收益分析中的成本数据来自斯塔西末任局长在议会的证词（约 17.5 百万东德马克 + 13.5 百万西德马克），真实成本可能被低估（pp.1098–1099）。
 > - **企业间间谍未覆盖** 本研究只能观测国家支持的工业间谍，无法涉及企业间直接进行的商业间谍活动，后者在竞争维度和效果上可能存在本质差异（p.1100）。
-> - **原始情报原件已销毁** 1990 年斯塔西解散时销毁了所有原始情报材料（[[Document|文件]]、照片、磁带、磁盘、蓝图等），SIRA 数据库仅保留了关键词等元数据，无法直接验证每条情报的具体内容（pp.1061）。
+> - **原始情报原件已销毁** 1990 年斯塔西解散时销毁了所有原始情报材料（文件、照片、磁带、磁盘、蓝图等），SIRA 数据库仅保留了关键词等元数据，无法直接验证每条情报的具体内容（pp.1061）。
 
 ---
 

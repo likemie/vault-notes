@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 110
+related_count: 111
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Theory of Knowledge]]"
   - "[[Hypothesis]]"
   - "[[Language Experience Approach]]"
   - "[[Primary and Secondary Documents]]"
@@ -43,8 +44,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"
-  - "[[School Effectiveness]]"
   - "[[Standard Error]]"
+  - "[[School Effectiveness]]"
   - "[[Falsification]]"
   - "[[Study Population and Sample]]"
   - "[[Causality]]"
@@ -214,7 +215,7 @@ Snook, O'Neill, Clark, O'Neill & Openshaw（2009）在 [[Visible Learning|VL]] �
 >
 > - **平均化掩盖复杂性** 以[[Homework|家庭作业]]为例，总体 $d=0.29$ 掩盖了小学 $d=0.15$、中学 $d=0.64$ 的巨大差异，以及数学（高效应）vs 科学和社会（低效应）的学科差异（p. 97）；[[Class Size|班级规模]]的平均效应量掩盖了高质量[[Randomised Controlled Trials|随机对照试验]]（[[Tennessee STAR Project 1985-1989|田纳西STAR项目]]）中发现的 $d=0.62$–$0.66$ 效应量（p. 100–101）。
 >
-> - **政策误用的系统风险** 论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p. 103）。论文引 Dewey 的知识论为基线立场：证据不提供行动规则，只为明智的问题解决提供[[Hypothesis|假设]]（p. 104）。
+> - **政策误用的系统风险** 论文警告 VL 可能被政策制定者、教师教育者和媒体误用——班级规模被解读为"无效果"从而为削减教育经费提供借口；[[Performance Pay|绩效工资]]被从"教师最重要"推论而出，但恰恰与 Hattie 强调的"关爱、信任的学校氛围"矛盾（p. 103）。论文引 Dewey 的[[Theory of Knowledge|知识论]]为基线立场：证据不提供行动规则，只为明智的问题解决提供[[Hypothesis|假设]]（p. 104）。
 
 Snook et al. 同时肯定 VL "对理解成功教学的变量做出了重大贡献"，是批评[[Document|文献]]中罕见的"肯定价值＋警示误用"平衡立场，预示了后来 [[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]、Bergeron (2017) 等方法论批评的核心方向。
 
@@ -397,7 +398,7 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 
 这是 Wecker 等人发现的最严重的技术问题之一。
 
-**（a）[[Sampling Error|标准误]]与标准差的混淆**（pp. 26–27）
+**（a）[[Standard Error|标准误]]与标准差的混淆**（pp. 26–27）
 
 在一个具体的案例重构中，Wecker 等人追踪了 Hattie 如何错误处理 Eisenstaedt 等人（1990）主要研究的数据：
 
@@ -412,7 +413,7 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 > | Hattie 的"$SD$" | **1.65** | **实为标准误 $SE$**，非标准差 |
 > | 错误效应量 | $d = (80.21-66.53)/1.65 = -8.291$ | ← 以 [[School Effectiveness\|SE]] 代入 SD 公式 |
 > 
-> **正确计算** $SD_C = [[School Effectiveness|SE]] \times \sqrt{n} = 2.74 \times \sqrt{107} \approx 28.35$，正确 $d \approx -0.80$
+> **正确计算** $SD_C = SE \times \sqrt{n} = 2.74 \times \sqrt{107} \approx 28.35$，正确 $d \approx -0.80$
 >
 > **误差倍率：约 10 倍** | "显然不是标准差的[[Standard Error|标准误]]差"（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 27]]）
 

@@ -9,7 +9,7 @@ summary: "同时收集量化和质性数据、分别分析后将结果合并比�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 34
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Pragmatism in China]]"
   - "[[Paradigm]]"
   - "[[Central Phenomenon]]"
   - "[[Document]]"
@@ -98,7 +97,7 @@ updated: 2026-06-30
 
 ## 3. 认识论立场
 
-> [!abstract] [[Pragmatic Paradigm|实用主义]] ([[Pragmatism in China|pragmatism]])
+> [!abstract] [[Pragmatic Paradigm|实用主义]] (pragmatism)
 > 聚敛式设计通常扎根于[[Pragmatic Paradigm|实用主义范式]]，强调什么有效（what works）来解决[[Research Question|研究问题]]。它不追求量化或质性[[Paradigm|范式]]的排他性，而是认为通过并行的数据收集可以从多维度捕捉现实，不同性质的证据可以互补以服务于对复杂教育现象的解释。
 
 ---
@@ -184,7 +183,7 @@ updated: 2026-06-30
 ## 8. 相关概念与理论
 
 > [!tip]-
-> - [[Pragmatism in China|pragmatism]] — 作为其哲学基础的[[Pragmatic Paradigm|实用主义]]。
+> - pragmatism — 作为其哲学基础的[[Pragmatic Paradigm|实用主义]]。
 > - [[Integration in Mixed Methods]] — [[Mixed Methods Research|混合方法研究]]的整合核心过程。
 > - [[Joint Display]] — 核心可视化整合工具。
 

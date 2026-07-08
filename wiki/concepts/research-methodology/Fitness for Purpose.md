@@ -8,7 +8,7 @@ aliases:
 summary: "研究规划中的核心原则，指研究方法、研究设计、资料收集工具和抽样策略应与研究目的相匹配，研究目的决定随后的方法选择而非相反"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
   - theme/research-planning
 related_concepts:
   - "[[Research Purpose]]"
-  - "[[Purpose Statement]]"
   - "[[Covert Research]]"
   - "[[Research Question]]"
   - "[[Research Ethics]]"
@@ -45,7 +44,7 @@ updated: 2026-06-19
 ## 定义
 
 > [!def] 核心定义
-> 目的适配性（fitness for purpose）是研究规划中的核心原则：研究方法、研究设计、资料收集工具、抽样策略和伦理决策必须与[[Research Purpose|研究目的]]相匹配。[[Purpose Statement|研究目的]]决定方法选择，而非研究者的个人偏好或对特定方法的熟悉程度。Cohen et al. 明确指出，研究设计没有单一蓝图，而是由目的适配性概念支配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, p.118]]）。
+> 目的适配性（fitness for purpose）是研究规划中的核心原则：研究方法、研究设计、资料收集工具、抽样策略和伦理决策必须与[[Research Purpose|研究目的]]相匹配。研究目的决定方法选择，而非研究者的个人偏好或对特定方法的熟悉程度。Cohen et al. 明确指出，研究设计没有单一蓝图，而是由目的适配性概念支配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, p.118]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 每一种研究方法都有其适合回答的问题类型。方法选择必须从"研究要达成什么"出发，而不是从研究者已有的技能、偏好或对方法的先入之见出发。
@@ -57,7 +56,7 @@ updated: 2026-06-19
 ## 核心命题
 
 > [!claim] 目的决定方法，而非方法决定目的
-> 研究者不能简单地说自己喜欢问卷、害怕数字或偏好访谈，也不能因为觉得[[Covert Research|隐蔽研究]]不道德就永远不做隐蔽研究。这是让尾巴摇狗。[[Purpose Statement|研究目的]]必须决定后续的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> 研究者不能简单地说自己喜欢问卷、害怕数字或偏好访谈，也不能因为觉得[[Covert Research|隐蔽研究]]不道德就永远不做隐蔽研究。这是让尾巴摇狗。[[Research Purpose|研究目的]]必须决定后续的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ### 三种典型情境的适配
 

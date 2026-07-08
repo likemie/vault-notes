@@ -17,7 +17,7 @@ tags:
 related_concepts:
   - "[[Progressive Focussing]]"
   - "[[Research Question]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
@@ -48,7 +48,7 @@ updated: 2026-06-22
 ## 研究程序
 
 > [!proc] 操作要点
-> 1. 明确各阶段的[[Purpose Statement|研究目的]]和选择标准。
+> 1. 明确各阶段的[[Research Purpose|研究目的]]和选择标准。
 > 2. 第一阶段按标准 A 选取样本。
 > 3. 第二阶段在第一阶段样本基础上按标准 B 进一步筛选。
 > 4. 依此类推，直至最终样本确定。

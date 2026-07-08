@@ -9,7 +9,7 @@ title: "Argument_Berk_2011_ER"
 argument_key: "Argument_Berk_2011_ER"
 argument_display_title: "Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[External Validity]]"
   - "[[Type I and Type II Errors]]"
-  - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
 related_theories:
@@ -97,7 +96,7 @@ citation_aliases:
 >
 > Berk 的平衡立场：RCT 的最强理由并非其方法论优越性，而是"比其它设计更能防止研究者犯严重的[[Type I and Type II Errors|统计错误]]"(p.196)——同时承认设计不如 RCT 但具有更好外部效度的观察性研究"有时可以提供有启发性的结果"。
 >
-> ### 3. [[Causal Modeling|因果建模]]（[[Standard Error|SEM]]）的过度使用
+> ### 3. [[Causal Modeling|因果建模]]（SEM）的过度使用
 >
 > 因果建模承诺整合理论与统计，但其过度承诺在 1980-1990 年代才逐渐显现。Berk 将问题归因于：模型选择使统计推断无效、缺乏明确的经验边界、点按软件使复杂方法"看似容易"(p.197)。引用了 Freedman (2005, p.195) 的修辞性回应清单作为因果建模支持者回避批评的证据。
 >

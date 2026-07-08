@@ -442,11 +442,11 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 ## 实证发现
 
 > [!success]
-> Battelle 技术合作实践 2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，[[Innovation Hub|研究园区]]附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(Battelle, 2013; [[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
+> Battelle 技术合作实践 2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(Battelle, 2013; [[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
 
 > [!success]
 > 多项研究提供了产学合作影响力的实证证据([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.125–126]])：
-> - 创新中心对学术研发和[[Technology Transfer|技术转移]]具有净正面影响（Dooley & Kirk, 2007）
+> - [[Innovation Hub|创新中心]]对学术研发和[[Technology Transfer|技术转移]]具有净正面影响（Dooley & Kirk, 2007）
 > - 产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量（Chai & Shih, 2016）
 > - 创新园区能够打破大学内部各院系之间的孤岛，创造跨学科研发合作激励（Katz & Ordover, 1990）
 > - 支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环（Cullum Clark, 2022）

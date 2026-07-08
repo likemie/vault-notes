@@ -5,7 +5,7 @@ summary: "结合量化与质性数据并通过特定设计进行整合的研究�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 46
+method_related_count: 45
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Pragmatism in China]]"
   - "[[Fitness for Purpose]]"
   - "[[Postpositivism]]"
   - "[[Data Transformation]]"
@@ -140,7 +139,7 @@ updated: 2026-06-21
 
 ## 哲学基础：实用主义
 
-[[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和[[Epistemology|认识论]]为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而混合方法取向则以[[Pragmatic Paradigm|实用主义]]（[[Pragmatism in China|pragmatism]]）的本体论和认识论为前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+[[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和[[Epistemology|认识论]]为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而混合方法取向则以[[Pragmatic Paradigm|实用主义]]（pragmatism）的本体论和认识论为前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 实用主义本质上是实践驱动的（practice-driven, Denscombe, 2008: 280）：
 

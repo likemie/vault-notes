@@ -8,7 +8,7 @@ aliases:
 summary: "从同一总体中多次抽样时样本统计量之间的变异，以均值的标准误（SEM）和比例的标准误度量，其分布规律由中心极限定理描述，是确定样本量和置信区间的基础概念"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Response Bias]]"
   - "[[Sampling Frame]]"
   - "[[Standard Error]]"
-  - "[[School Effectiveness]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
 related_theories:
@@ -77,7 +76,7 @@ updated: 2026-06-21
 ### 比例的标准误
 
 > [!feature]
-> - **比例的标准误（Standard Error of Proportions）** 适用于分类或百分比数据。$[[School Effectiveness|SE]] = \sqrt{\frac{P \times Q}{N}}$，其中 $P$ 为某类别的百分比，$Q = 100\% - P$。通常在此基础上应用有限总体校正（finite population correction, fpc）：$fpc = \sqrt{1 - f}$，其中 $f$ 为样本占总体的比例。例如样本为 100（总总体 1,000），$f = 0.1$。
+> - **比例的标准误（Standard Error of Proportions）** 适用于分类或百分比数据。$SE = \sqrt{\frac{P \times Q}{N}}$，其中 $P$ 为某类别的百分比，$Q = 100\% - P$。通常在此基础上应用有限总体校正（finite population correction, fpc）：$fpc = \sqrt{1 - f}$，其中 $f$ 为样本占总体的比例。例如样本为 100（总总体 1,000），$f = 0.1$。
 
 ### 置信水平与置信区间
 
@@ -109,7 +108,7 @@ updated: 2026-06-21
 
 > [!example] 比例[[Standard Error|标准误]]的数值实例
 >
-> 某校长随机询问 25 名学生，66% 赞成改变午休时间（$P = 66$, $Q = 34$, $N = 25$）。$[[School Effectiveness|SE]] = 9.4$。这意味着：
+> 某校长随机询问 25 名学生，66% 赞成改变午休时间（$P = 66$, $Q = 34$, $N = 25$）。$SE = 9.4$。这意味着：
 > - 赞成票可在 56.6%–75.4% 之间变动
 > - 反对票可在 43.4%–24.6% 之间变动
 >

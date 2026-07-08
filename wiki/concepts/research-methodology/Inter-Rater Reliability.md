@@ -9,7 +9,7 @@ aliases:
 summary: "多位独立评判者使用同一工具对相同对象评分时彼此一致的程度，是信度作为等值性的核心形式之一，在量化观察、质性编码、测验评分和访谈分析中均有对应操作"
 type: concept
 domain: "research-methodology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Qualitative Research]]"
+  - "[[Observation Method]]"
   - "[[Meta-analysis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -100,7 +101,7 @@ updated: 2026-06-23
 
 Denzin & Lincoln (1994) 将评分者间信度列为[[Qualitative Research|质性研究]]中信度作为可复制性的三种检验方式之一：**另一个拥有相同理论框架的观察者，观察相同现象，是否会以相同方式解释它们？（pp.205–206）**
 
-Kleven (1995) 在[[Observational and Correlational Research|观察研究]]中提出了对应的三个问题（pp.206–207）：
+Kleven (1995) 在[[Observation Method|观察研究]]中提出了对应的三个问题（pp.206–207）：
 1. 如果观察在不同时间进行，会做出相同的观察和解释吗？（稳定性版本）
 2. 如果在当时进行了其他观察，会做出相同的观察和解释吗？（平行形式版本）
 3. 另一个观察者，在相同的理论框架内工作，会做出相同的观察和解释吗？（评分者间版本）
@@ -136,7 +137,7 @@ Silverman (1993) 建议通过评分者间信度来增强访谈的信度——在
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究设计中涉及多位观察者对行为进行[[Coding in Qualitative Research|编码]]或评定时（如课堂[[Observational and Correlational Research|观察研究]]、临床行为评定）；[[Qualitative Research|质性研究]]的内容分析中多位编码者对文本进行编码时；系统性[[Literature Review|文献综述]]和[[Meta-analysis|元分析]]中多位筛选者独立筛选[[Document|文献]]时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
+> - **适合使用** 研究设计中涉及多位观察者对行为进行[[Coding in Qualitative Research|编码]]或评定时（如课堂[[Observation Method|观察研究]]、临床行为评定）；[[Qualitative Research|质性研究]]的内容分析中多位编码者对文本进行编码时；系统性[[Literature Review|文献综述]]和[[Meta-analysis|元分析]]中多位筛选者独立筛选[[Document|文献]]时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
 > - **谨慎使用** 在严格的[[Constructivist Paradigm|建构主义]]质性研究中——[[Hypothesis|假设]]不同研究者应产生相同解释的前提可能与[[Paradigm|研究范式]]冲突（Lincoln & Guba, 1985: 307）。
 > - **不适合使用** 当研究设计中只有一位评判者或编码者时，评分者间[[Reliability|信度]]不适用——此时应关注评分者[[Internal Consistency|内部一致性]]（intra-rater reliability）。
 

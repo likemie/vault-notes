@@ -46,7 +46,7 @@ updated: 2026-05-27
 ## 定义
 
 > [!info]
-> 应用启发的[[Blue Skies Research|基础研究]]（Use-Inspired Basic Research）是 Stokes（1997）在 [[Stokes' Quadrant Model of Scientific Research|Pasteur's Quadrant]]: Basic Science and Technological Innovation 中提出的概念，指一种同时追求对现象的基本理解（basic understanding）和实际应用（considerations of use）的研究模式。它打破了基础研究与[[Evaluation Research|应用研究]]之间的传统二分法——研究表明，两者并非对立的两端，而是可以共存的独立维度([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.39]])。
+> 应用启发的[[Blue Skies Research|基础研究]]（Use-Inspired Basic Research）是 Stokes（1997）在 Pasteur's Quadrant: Basic Science and Technological Innovation 中提出的概念，指一种同时追求对现象的基本理解（basic understanding）和实际应用（considerations of use）的研究模式。它打破了基础研究与[[Evaluation Research|应用研究]]之间的传统二分法——研究表明，两者并非对立的两端，而是可以共存的独立维度([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.39]])。
 
 > 这一概念以路易·巴斯德（Louis Pasteur）命名和典范化：巴斯德在微生物学领域的基础发现（如发酵机制、疾病的细菌理论）既是纯粹的基础科学突破，同时直接服务于食品保存、酿酒和疾病治疗等实际需求。
 

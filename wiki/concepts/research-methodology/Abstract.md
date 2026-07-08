@@ -4,7 +4,7 @@ aliases: ["文献摘要", "研究摘要", "abstracting studies", "literature abs
 summary: "学术写作中两种功能不同的文本类型：文献综述中加工研究文献的短段落（文献摘要），以及置于研究方案或论文开篇的全文概述（研究摘要），后者包含研究问题、数据来源、方法、发现和结论五个核心组成部分"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
   - "[[Hypothesis]]"
+  - "[[Research Purpose]]"
   - "[[Champ]]"
   - "[[Research Scope]]"
   - "[[Sample Size Determination]]"
@@ -79,7 +80,7 @@ updated: 2026-05-31
 > [!example] 方法论文章的摘要示例
 > Hirose & Creswell (2022) 一篇关于[[Mixed Methods Research|混合方法]]质量标准的文章摘要展示了方法论摘要的典型构成：
 >
-> "Recent published articles and comments by researchers, federal recommendations, and professional association standards have recommended core quality criteria for designing and writing mixed methods research. Unfortunately, a synthesis of recent timely recommendations has not been made...（[[Research Question|研究问题]]）This article presents six best practices in mixed methods culled from recent sources, discusses the need for each practice, and then illustrates its use in a recent empirical study from Japan（[[Purpose Statement|研究目的]]与主题）. This article contributes to the [[Champ|field]] of mixed methods methodology by providing a parsimonious list of core criteria...（贡献）"
+> "Recent published articles and comments by researchers, federal recommendations, and professional association standards have recommended core quality criteria for designing and writing mixed methods research. Unfortunately, a synthesis of recent timely recommendations has not been made...（[[Research Question|研究问题]]）This article presents six best practices in mixed methods culled from recent sources, discusses the need for each practice, and then illustrates its use in a recent empirical study from Japan（[[Research Purpose|研究目的]]与主题）. This article contributes to the [[Champ|field]] of mixed methods methodology by providing a parsimonious list of core criteria...（贡献）"
 >
 > 这个摘要仅 120 词（受期刊投稿指南限制），但简洁地传达了研究问题、目的、主题和贡献（引自 Creswell & Creswell, 2022）。
 

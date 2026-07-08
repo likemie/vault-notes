@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 108
+argument_related_count: 107
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -29,7 +29,7 @@ tags:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Reliability]]"
-  - "[[Sampling Error]]"
+  - "[[Standard Error]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
@@ -106,7 +106,7 @@ related_concepts:
   - "[[Kitwood's Paradox]]"
   - "[[Selectivity]]"
   - "[[Familiarization]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Test Validity]]"
   - "[[Champ]]"
   - "[[Deception in Research]]"
@@ -134,7 +134,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Random Sampling]]"
   - "[[Qualitative Observation]]"
-  - "[[Observational and Correlational Research]]"
   - "[[Participant Observation]]"
   - "[[Observation Method]]"
 related_facts:
@@ -176,7 +175,7 @@ updated: 2026-06-23
 三个层层递进的核心命题构建了论证骨架：
 
 > [!proposition-chain] 核心命题链
-> - **命题一：效度是程度问题** 效度不应被视为绝对状态（Gronlund, 1981）。[[Quantitative Research|量化研究]]包含必须被承认的内在[[Sampling Error|标准误]]差；质性数据中的受访者主观性、态度和视角共同构成一定程度的偏见。因此研究者的目标不是追求 100% 完美效度，而是**最小化无效度（minimize invalidity）**和**最大化效度（maximize validity）（p.157）**。
+> - **命题一：效度是程度问题** 效度不应被视为绝对状态（Gronlund, 1981）。[[Quantitative Research|量化研究]]包含必须被承认的内在[[Standard Error|标准误]]差；质性数据中的受访者主观性、态度和视角共同构成一定程度的偏见。因此研究者的目标不是追求 100% 完美效度，而是**最小化无效度（minimize invalidity）**和**最大化效度（maximize validity）（p.157）**。
 > - **命题二：信度是效度的必要非[[Necessary and Sufficient Conditions|充分条件]]** reliability is a necessary but insufficient condition for validity；信度是效度的必要前提（necessary precondition），而效度可能是信度的充分但非必要条件。这一逻辑关系贯穿全章，意味着：一项研究可以可靠（稳定一致）但无效（测量了错误的东西），但一项有效的研究必须以可靠为前提。
 > - **命题三：信度不是量化研究的专属领地** Brock-Utne (1996: 612) 认为"信度是量化研究的专属领地"这一广泛持有的观点必须被打破。[[Qualitative Research|质性研究]]同样需要信度——只是以不同的方式、不同的标准来定义和达成。
 
@@ -230,7 +229,7 @@ updated: 2026-06-23
 > - **路线一：真实性（authenticity）替代效度** Maxwell (1992) 和 Guba & Lincoln (1989) 主张质性研究者不应落入实证主义议程——不必证明[[Concurrent Validity|共时效度]]、[[Predictive Validity|预测效度]]、[[Convergent and Discriminant Validity|收敛效度]]、[[Criterion-related Validity|效标关联效度]]、[[Internal Validity|内部效度]]和外部效度。应用"真实性"取代实证主义的效度概念，用"理解"（understanding, Mishler, 1990）替代"效度"。研究者是被研究世界的一部分，我们无法完全客观，因此他人的视角和我们自己的视角同等有效。
 > - **路线二：质性研究需要更严格的效度** Hammersley (1992b: 144) 和 Silverman (1993: 153) 反驳说，密集型个人参与和深度回应并不自动保证效度和信度——个体在解释上并无特权位置。即时性和真实性可以产生有趣的新闻，但[[Ethnography|民族志]]必须具有更严格的效度和信度概念。必须超越仅仅选择符合预设概念或"戏剧性有趣"的数据（Fielding & Fielding, 1986）。数据必须代表样本、整个数据集和整个领域——必须解决内容效度、构念效度和共时效度。
 
-Hammersley (1992a: 50–1) 提出了一种调和立场：质性研究中的效度**用"置信度"（confidence）替代"确定性"（certainty）**——现实独立于研究者对其所做的主张而存在，我们的解释只能是现实的**表征（representations）**而非**复制（reproductions）**（p.160）。
+Hammersley (1992a: 50–1) 提出了一种调和立场：质性研究中的效度**用"置信度"（confidence）替代"确定性"（certainty）**——现实独立于研究者对其所做的主张而存在，我们的解释只能是现实的**表征（representations）**而非**复制（reproductions）（p.160）**。
 
 ---
 
@@ -1317,7 +1316,7 @@ Hudson & Miller (1997) 提出了最大化邮寄问卷回应率的十二项策略
 
 ### 10.14 观察中的效度与信度
 
-参与[[Observational and Correlational Research|观察研究]]面临两种效度问题（pp.219–220）：
+[[Participant Observation|参与观察]]研究面临两种效度问题（pp.219–220）：
 - **外部效度** 一项研究的**结果如何适用于其他情境**？——关于主观和特异性性质的评论，同时也是关于**结果的代表性**的担忧
 - **内部效度** 结果是否代表了**真实事物、真正产品**？——观察者的评判是否会受其与群体的**密切参与**影响？
 
@@ -1331,7 +1330,7 @@ Denzin (1989) 建议通过**数据来源和方法论的三角验证**来解决�
 
 在自然主义探究中，Lincoln & Guba (1985) 主张用**"可信赖性"（trustworthiness）取代**更传统的信度和效度观——落实到**可信性（credibility）**、**可确认性（confirmability）**、**可迁移性（transferability）**和**可依赖性（dependability）**四个维度。第 23 章详细说明了如何实现这些领域（p.220）。
 
-如果[[Observation Method|观察研究]]更加结构化并产生量化数据，则适用**评分者内和评分者间信度**的常规——确保观察者一致准确地将数据归入适当类别。为确保效度，必须进行**先导测试**以确保观察类别本身是**适当的、穷尽的、互斥的、无歧义的**，并有效将[[Purpose Statement|研究目的]]操作化。
+如果[[Observation Method|观察研究]]更加结构化并产生量化数据，则适用**评分者内和评分者间信度**的常规——确保观察者一致准确地将数据归入适当类别。为确保效度，必须进行**先导测试**以确保观察类别本身是**适当的、穷尽的、互斥的、无歧义的**，并有效将[[Research Purpose|研究目的]]操作化。
 
 ---
 

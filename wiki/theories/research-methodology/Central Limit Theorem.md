@@ -14,10 +14,10 @@ tags:
   - quantitative-research
   - sampling
 related_concepts:
-  - "[[Sampling Error]]"
+  - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
-  - "[[Standard Error]]"
+  - "[[Sampling Error]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Variable]]"
@@ -45,7 +45,7 @@ updated: 2026-06-22
 > - **解释对象** 为什么从同一总体中多次[[Random Sampling|随机抽样]]时，样本均值的分布呈现规律性——趋向正态分布，且样本均值的均值逼近总体均值。
 > - **理论问题** 样本统计量与总体参数之间的随机偏离是否有规律可循。[[Cognitive Load Theory|CLT]] 回答：有，且规律是正态分布。
 > - **理论类型** 概率论与数理统计中的数学定理，构成推论统计（inferential statistics）的理论基石。
-> - **知识位置** 位于概率论与研究方法之间——CLT 是数学定理，但其推论（[[Sampling Error|标准误]]、[[Confidence Interval|置信区间]]、显著性检验）直接支撑教育研究的量化方法。
+> - **知识位置** 位于概率论与研究方法之间——CLT 是数学定理，但其推论（[[Standard Error|标准误]]、[[Confidence Interval|置信区间]]、显著性检验）直接支撑教育研究的量化方法。
 
 ## 核心命题与机制
 
@@ -75,7 +75,7 @@ updated: 2026-06-22
 > [!theory-stance] [[Epistemology|认识论]]与方法含义
 > - **[[Ontology|本体论]]**：[[Cognitive Load Theory|CLT]] 不涉及本体论承诺——它是关于随机[[Variable|变量]]行为的数学定理。
 > - **认识论** CLT 提供了从样本推断总体的概率基础：不需要知道总体的分布形状，只要样本是随机的且足够大，样本均值的分布就是可知的（正态）。
-> - **方法含义** CLT 使[[Sampling Error|标准误]]、[[Confidence Interval|置信区间]]和显著性检验成为可能——这些方法都依赖"样本均值服从正态分布"这一前提。
+> - **方法含义** CLT 使[[Standard Error|标准误]]、[[Confidence Interval|置信区间]]和显著性检验成为可能——这些方法都依赖"样本均值服从正态分布"这一前提。
 > - **不能直接推出的东西** CLT 不保证任何单一样本的均值接近总体均值；它只保证在反复抽样的意义上，大多数样本均值会落在可计算的范围之内。CLT 也不保证小样本下均值的正态性。
 
 > [!theory-use] [[Research Utilization|研究使用]]方式

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 22
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -50,7 +50,6 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Ideology Critique]]"
   - "[[Archival Research]]"
-  - "[[Archival Correspondence Analysis]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
@@ -277,7 +276,7 @@ updated: 2026-06-24
 #### 档案中的研究实践
 
 > [!case] 新西兰青少年帮派调查委员会的档案（McCu​​lloch，2004，第4章）
-> 新西兰教育部奥克兰北部地区办公室保存的档案提供了一个[[Archival Correspondence Analysis|档案研究]]的示范性案例。其中一个文件系列涉及一个于1970年成立的委员会，该委员会负责调查当时日益引起关切的青少年帮派扩散问题。
+> 新西兰教育部奥克兰北部地区办公室保存的档案提供了一个档案研究的示范性案例。其中一个文件系列涉及一个于1970年成立的委员会，该委员会负责调查当时日益引起关切的青少年帮派扩散问题。
 >
 > 具体档案构成：
 > - **档案26/1/88** 包含该委员会完整和详细的会议记录（minutes）。会议记录使研究者能够追踪委员会成员之间就青少年帮派问题的定义、调查范围和可能的政策回应进行的内部辩论。
@@ -425,7 +424,7 @@ Jupp 和 Norris（1993）将文献分析的多元理论路径归纳为三种一�
 >
 > *Handling documentary source material is widely seen as the hallmark of the professional historian.*
 
-> [!citation-card]- 论[[Archival Correspondence Analysis|档案研究]]的现实
+> [!citation-card]- 论[[Archival Research|档案研究]]的现实
 > 你整天坐着阅读，以这个行业的特定方式阅读，以节省时间和金钱，并确信在你破译的一千行笔迹中，你也许只会用到一两行。（Steedman, 2001: 29，转引自第12章，p.16）
 >
 > *You sit all day long, reading in the particular manner of the trade, to save time and money, and in the sure knowledge that out of the thousand lines of handwriting you decipher, you will perhaps use one or two.*

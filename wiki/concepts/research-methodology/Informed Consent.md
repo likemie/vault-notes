@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖四个前提要素、合理知情同意策略、标准构成要素、儿童与弱势群体的特殊处理，以及在产学合作中因共同规则适用不对称而成为协议谈判中的不可协商前提"
 type: concept
 domain: "research-methodology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,11 +17,10 @@ tags:
   - theme/university-industry-collaboration
 related_concepts:
   - "[[Research Ethics]]"
-  - "[[Document]]"
   - "[[Institutional Review Board]]"
   - "[[Emergence]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Hawthorne Effect]]"
   - "[[Sensitive Research]]"
@@ -50,7 +49,7 @@ updated: 2026-06-20
 ## 定义
 
 > [!def] 知情同意
-> 知情同意（informed consent）是[[Research Ethics|研究伦理]]的基本程序：研究者在收集数据之前，须向潜在参与者提供书面[[Document|文件]]，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。Diener & Crandall (1978, p. 57) 将其定义为"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 77–79]]）。
+> 知情同意（informed consent）是[[Research Ethics|研究伦理]]的基本程序：研究者在收集数据之前，须向潜在参与者提供书面文件，说明研究的关键信息，参与者在完全自愿的基础上签署同意后方可参与。Diener & Crandall (1978, p. 57) 将其定义为"个体在被告知可能影响其决定的事实后，选择是否参与调查的程序"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 77–79]]）。
 >
 > 参与是自愿的，研究者不得强迫参与者签署同意书。知情同意既是法律要求（美国 共同规则（[[Common Rule 2018|Common Rule]]） 对 [[Institutional Review Board|IRB]] 审批的规定），也是研究伦理的基石。它的边界在于：不等于一次性签字即告完成——在质性、[[Emergence|涌现]]性研究中必须持续协商；也不等于 [[Institutional Review Board|IRB]] 审批，后者是机构层面的审查机制。在 [[University-Industry Collaboration|产学合作]]中，因共同规则的大学-企业适用不对称，知情同意成为协议谈判中的不可协商前提。
 
@@ -108,7 +107,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 >
 > 1. **研究者身份** 明确说明谁在开展这项研究
 > 2. **资助机构身份** 说明研究的资助方或隶属机构
-> 3. **[[Purpose Statement|研究目的]]**：用通俗语言说明研究的总体目标
+> 3. **[[Research Purpose|研究目的]]**：用通俗语言说明研究的总体目标
 > 4. **参与收益** 说明参与者可以从研究中获得什么
 > 5. **参与程度和类型** 说明参与者需要做什么、花多少时间
 > 6. **潜在风险声明** 如实告知可能的风险
@@ -125,7 +124,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 > [!timeline] 未成年人的知情同意两阶段
 > - **第一阶段：征询负责成年人的许可**
->   联系家长、教师、导师、心理医生、青年领袖或团队教练。[[Purpose Statement|研究目的]]被解释，问题被邀请，异议被尊重。
+>   联系家长、教师、导师、心理医生、青年领袖或团队教练。[[Research Purpose|研究目的]]被解释，问题被邀请，异议被尊重。
 > - **第二阶段：征询儿童本人的许可**
 >   儿童必须被给予真实和合法的机会说他们不想参加。
 
@@ -147,7 +146,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 >
 > 1. 在邀请函中附上资助方名称，以充分披露研究背景
 > 2. 不强求参与者签署，告知参与者有权拒绝签署
-> 3. 在数据收集开始时再次提醒参与者[[Purpose Statement|研究目的]]，防止参与者产生被欺骗感
+> 3. 在数据收集开始时再次提醒参与者[[Research Purpose|研究目的]]，防止参与者产生被欺骗感
 > 4. 对于弱势群体（如儿童），需同时获得监护人的同意和儿童本人的同意（assent）
 > 5. 对原住民群体，须联系部落首领，让他们参与研究的各个阶段，并尊重部落文化和章程
 

@@ -9,7 +9,7 @@ summary: "研究者有针对性地选择特定群体作为样本的抽样策略�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 27
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -21,9 +21,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Reliability]]"
-  - "[[Document]]"
   - "[[Gatekeepers]]"
   - "[[Naturalistic Generalization]]"
   - "[[Rich and Thick Description]]"
@@ -77,13 +76,13 @@ updated: 2026-06-22
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 非[[Random Sampling|概率抽样]]通常与诠释主义、[[Constructivist Paradigm|建构主义]]或[[Pragmatic Paradigm|实用主义]]知识观相配合，接受研究发现的局部性和情境性。
-> - **研究者角色** 研究者主动判断和选择案例，根据[[Purpose Statement|研究目的]]和问题决定纳入/排除标准，研究者判断是方法的核心而非偏差来源。
+> - **研究者角色** 研究者主动判断和选择案例，根据[[Research Purpose|研究目的]]和问题决定纳入/排除标准，研究者判断是方法的核心而非偏差来源。
 > - **有效性标准** 不适用统计推广标准；改用可[[Reliability|信度]]（credibility）、可转移性（transferability）、深度和丰富性等质性标准。
 > - **不声称回答的问题** 不能声称样本统计量代表总体参数；不能进行基于概率的统计推论；不能报告误差范围。
 
 > [!method-stack] 方法层级
 > - **研究设计**[[Case Study|案例研究]]、[[Ethnography|民族志]]、[[Action Research|行动研究]]、[[Grounded Theory|扎根理论]]、试点研究和小规模[[Survey Research|调查研究]]
-> - **数据收集** 访谈、观察、焦点小组、问卷试点、档案分析和[[Document|文件]]审查
+> - **数据收集** 访谈、观察、焦点小组、问卷试点、档案分析和文件审查
 > - **分析方法** 主题分析、叙事分析、扎根理论[[Coding in Qualitative Research|编码]]、案例内/跨案例分析
 > - **辅助技术** 滚雪球扩展、关键信息提供者识别、受访者驱动招募、加权调整
 

@@ -44,8 +44,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Necessary and Sufficient Conditions]]"
   - "[[Leading Questions]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Sample Size Determination]]"
 related_methods:
   - "[[Case Study]]"
@@ -139,7 +139,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > [!ref-table] 表1：研究参与者信息与自主性实践分析
 > | 认知者 | 年龄 | 先前教育背景 | 课堂参与特征 | 自主性实践与分析价值 |
 > |---|---|---|---|---|
-> | **Ariana** | 15 | 从 IB 中学项目（MYP）过渡至 DP；此前在肯尼亚接受 O-level 课程教育 | 积极参与：主动发言、回应他人观点、在作业中尝试超出课堂内容的例子 | **主动探索型自主** 最完整的 [[International Baccalaureate\|IB]] 教育轨迹与跨国教育经历（肯尼亚 $\rightarrow$ 巴基斯坦），赋予其极高的课程准备度与积极探索能力。三者中年龄最小（p.146）。 |
+> | **Ariana** | 15 | 从 [[International Baccalaureate\|IB]] 中学项目（MYP）过渡至 DP；此前在肯尼亚接受 O-level 课程教育 | 积极参与：主动发言、回应他人观点、在作业中尝试超出课堂内容的例子 | **主动探索型自主** 最完整的 [[International Baccalaureate\|IB]] 教育轨迹与跨国教育经历（肯尼亚 $\rightarrow$ 巴基斯坦），赋予其极高的课程准备度与积极探索能力。三者中年龄最小（p.146）。 |
 > | **Ayaan** | 19 | 完成巴基斯坦 Matriculation 考试，在软件公司工作后加入 IBDP | 替代性参与：课堂发言较少，但在阅读中深度反思，课余与教师单独探讨问题 | **深度反思型自主** 中学毕业后工作的间隔期（gap）赋予其不同的学习动机与[[Metacognition\|元认知]]深度，展现出非正式互动的自主性。三者中年龄最大（p.147）。 |
 > | **Sabaina** | 16 | 完成传统英式 O-level 体系（中等教育）后直接转入 IBDP | 依赖型参与：参与度较低，对学习能力存在不确定性，依赖外部确认与指导 | **受阻依赖型自主（反例）** 从传统应试体系向探究体系的过渡期，虽有基本认知能力，但因缺乏自我信心（self-confidence）导致自主实践受阻，构成了解析机制的关键反例（p.148）。 |
 > | **Simak** | — | 外国大学文学与经济学 B.A.，批判性与创造性思维 M.Ed.，五年教学经验 | 引导与对话：以兼职身份加入 The Urban Academy 担任 TOK 课程教师 | **自主空间的构建者** 通过以认知者为中心的对话式教学设计，为三位异质学生提供自主实践与元认知成长的弹性边界（p.149）。 |
@@ -273,7 +273,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > 自主性是在社会互动中实现的。即使在最独立的反思中（如 Ariana 在作业中尝试主观经验路径），经验仍根植于社会互动。认知者高度需要课堂中互动、讨论和对话的空间，这是最重要的实证发现之一（p.178）。
 
 > [!interdependence] 自主的相互依存性（autonomous interdependence）
-> Atkins（2006/2009）提出，自主性是在社会互动中实现的有支持的独立。**阅读不是自主学习经验的终点**（p.178）。认知失衡（disequilibrium）对[[Constructivist Paradigm|建构主义]]学习至关重要，正是认知者在知识建构中的能动性提出了解决方案（Moon, 2008）。教师的首要任务是帮助学生安于知识必然产生悖论这一事实。
+> Atkins（2006/2009）提出，自主性是在社会互动中实现的有支持的独立。**阅读不是自主学习经验的终点（p.178）**。认知失衡（disequilibrium）对[[Constructivist Paradigm|建构主义]]学习至关重要，正是认知者在知识建构中的能动性提出了解决方案（Moon, 2008）。教师的首要任务是帮助学生安于知识必然产生悖论这一事实。
 >
 > > [!col-l] 个体反思
 > > 认知者独立解读个人经验。即使在学习认识论课程，仍需要对自己的信念和知识主张进行独立的理性反思。如 Ariana 在作业中尝试主观经验路径，Ayaan 在论文中完成从体验到理论的整合。

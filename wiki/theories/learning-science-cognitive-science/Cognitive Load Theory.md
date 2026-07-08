@@ -52,7 +52,7 @@ updated: 2026-06-16
 ## 理论定位
 
 > [!theory-position] 理论定位
-> 认知负荷理论（Cognitive Load Theory, [[Central Limit Theorem|CLT]]）由教育心理学家[[John Sweller]]于1988年提出。该理论将人类认知架构（Cognitive Architecture）作为教学设计的出发点，核心前提是人类的[[Working Memory|工作记忆]]（Working Memory）在处理新信息时容量是极其有限的，而长期记忆（Long-term Memory）的容量在实践中是无限的（Sweller, 1988）。
+> 认知负荷理论（Cognitive Load Theory, CLT）由教育心理学家[[John Sweller]]于1988年提出。该理论将人类认知架构（Cognitive Architecture）作为教学设计的出发点，核心前提是人类的[[Working Memory|工作记忆]]（Working Memory）在处理新信息时容量是极其有限的，而长期记忆（Long-term Memory）的容量在实践中是无限的（Sweller, 1988）。
 
 > [!claim] 核心主张
 > 教学设计的主要目标应当是最小化不必要的“外在认知负荷”，以优化“内在认知负荷”，从而腾出有限的工作记忆资源用于“关联认知负荷”，即促进长期记忆中“图式”（Schemas）的建构与自动化（Sweller, 1988）。
@@ -89,7 +89,7 @@ updated: 2026-06-16
 ## 适用边界
 
 > [!theory-boundary] 理论边界与缺失
-> - **社会与情境维度的遮蔽**[[Central Limit Theorem|CLT]] 将学习完全还原为个体大脑内部的生理机制，系统性地[[Screening Off|屏蔽]]了学习的社会性、文化背景以及人际互动。[[Lev Vygotsky|维果茨基]]的社会文化理论强调，学习是一个深植于社会历史和人际交流的动态过程，单纯的[[Causality|因果]]生理逻辑无法解释意义的共同生成（Biesta et al., 2015; Vygotsky）。
+> - **社会与情境维度的遮蔽**CLT 将学习完全还原为个体大脑内部的生理机制，系统性地[[Screening Off|屏蔽]]了学习的社会性、文化背景以及人际互动。[[Lev Vygotsky|维果茨基]]的社会文化理论强调，学习是一个深植于社会历史和人际交流的动态过程，单纯的[[Causality|因果]]生理逻辑无法解释意义的共同生成（Biesta et al., 2015; Vygotsky）。
 > - **新手限制** CLT 的许多教学建议仅适用于新手的初始学习阶段。随着学习者转化为专家，原本有效的明确指导可能产生“专业反转效应”（Expertise Reversal Effect），反而增加外在负荷。
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-06-16
 ## 争议与批评
 
 > [!critique-fatal] 生物简化主义与赤字思维的政治风险
-> 批判政策社会学者指出，[[Central Limit Theorem|CLT]] 在被转换为政策话语时，暴露出深层的生物简化主义（Biological Reductionism）风险（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 6–7]])）：
+> 批判政策社会学者指出，CLT 在被转换为政策话语时，暴露出深层的生物简化主义（Biological Reductionism）风险（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 6–7]])）：
 > 1. **隐性种族主义与“赤字思维”（Deficit Tropes）** 将复杂的社会经济不平等和[[Learning Gap|学习差距]]硬套入大脑结构和[[Working Memory|工作记忆]]容量的生物学解释，容易固化针对低社会经济地位（SES）或少数族裔学生的“赤字固定形象”（deficit fixed tropes），暗示其认知能力天生落后，从而为教育公平的推卸提供伪科学依据。
 > 2. **[[Screening Off|屏蔽]]历史局限与优生学阴影**：政策文本在强推基于大脑和认知负荷的科学话语时，系统性地对脑科学历史上曾与优生学（Eugenics）和心智测量歧视绑定的黑历史保持沉默，也完全忽视了[[OECD]]（2002, 2007）关于“神经科学绝非教育万能药”的严肃警告（([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 7]])）。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "McPhail 提出的课程设计模型，基于社会实在论，将概念、内容和技能区分为不同类型的知识并要求在设计阶段明确其连接，以实现深层学习"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 12
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Document]]"
   - "[[Big Ideas]]"
 related_theories: []
 related_methods: []
@@ -71,7 +70,7 @@ updated: 2026-06-06
 > - **深层学习条件**。知其然（概念和内容）和知其所用（应用知识）的连接是深层学习的先决条件。深层学习被定义为看到学科[[Epistemology|认识论]]部分与整体之间联系的能力，进而通过将抽象概念应用于一系列情境（包括社会文化世界）来进行概括（McPhail, 2023）。
 > - **明智地知其所用**。当学生能够展示和阐述知其然和知其所用之间的联系时，就实现了「明智地知其所用」（intelligent know-how-to）和「知其所以然」（knowing-why）。这标志着深层学习，而非表面学习（如背诵事实或机械展示技能）([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 > - **避免三种设计失衡**。课程设计应避免三种失衡：过于抽象（只讲概念）、过于拥挤（只堆事实）或过于工具化（只练技能）（McPhail, 2023）。
-> - **翻译装置**。模型提供了一个翻译装置（translation device）或分析量规（analytic rubric），用于分析课程[[Document|文件]]中的知识元素（McPhail, 2023）。
+> - **翻译装置**。模型提供了一个翻译装置（translation device）或分析量规（analytic rubric），用于分析课程文件中的知识元素（McPhail, 2023）。
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "学校管理中关注课程、教学与评估等核心系统，并直接参与教师专业学习与发展以提升学生学业成绩的学校领导模式"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Causality]]"
   - "[[Effect Size]]"
-  - "[[Standard Error]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
@@ -92,8 +91,8 @@ updated: 2026-06-09
 > - **不同领导力维度的效应差异**[[Meta-analysis|元分析]]数据证明，教学领导力的不同子维度对学生表现的影响极不平衡，其中最有效的路径是直接介入教师的专业化成长。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
 
 > [!info]- 核心数据
-> - 促进与参与教师的学习与发展（promoting and participating in teacher learning and development）对学生学业成绩的[[Effect Size|效应量]]高达 **ES = 0.84**（[[School Effectiveness|SE]] = 0.14），是唯一具有高度影响力的维度。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
-> - 确立目标与期望（establishing goals and expectations）的效应量为 **ES = 0.42**（[[Standard Error|SE]] = 0.07）。
+> - 促进与参与教师的学习与发展（promoting and participating in teacher learning and development）对学生学业成绩的[[Effect Size|效应量]]高达 **ES = 0.84**（SE = 0.14），是唯一具有高度影响力的维度。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, p. 417]])
+> - 确立目标与期望（establishing goals and expectations）的效应量为 **ES = 0.42**（SE = 0.07）。
 > - 规划、协调与评估教学及课程（planning, coordinating, and evaluating teaching and the curriculum）的效应量为 **ES = 0.42**（SE = 0.06）。
 > - 战略性资源配置（strategic resourcing）的效应量为 **ES = 0.31**（SE = 0.10）。
 > - 建立有序且支持性的环境（establishing an orderly and supportive environment）的效应量为 **ES = 0.27**（SE = 0.09）。

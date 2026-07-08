@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 108
+person_related_count: 107
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -56,9 +56,8 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
-  - "[[Sampling Error]]"
+  - "[[Standard Error]]"
   - "[[Analytic Framework]]"
-  - "[[School Effectiveness]]"
   - "[[Language Experience Approach]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Cargo Cult Science]]"
@@ -360,8 +359,8 @@ updated: '2026-06-08'
 
 > [!warning] 方法论批评
 > - **[[Argument_Terhart_2011_JCS|Terhart (2011)]]** — 《可见的学习》最早的学术书评之一：识别[[Meta-meta-analysis|元-元分析]]的信息损失与稳定性/变异性双重困境；批评[[Didaktik|教学理论]]内容空洞（[[Karl Popper|Popper]] 误用、[[Bildung]] 缺失）；从 Foucault 视角定性可见性为"精致的支配形式"。结论："很明显 Hattie 事实上没有找到圣杯"（详见 [[Argument_Terhart_2011_JCS]]、[[Visible Learning#Terhart (2011)]])
-> - **[[Argument_Allerup_2015_Paideia|Allerup (2015)]]** — 从统计学角度批评 Hattie 用效应量给教学干预排序：d=0.40 与显著性的关系依赖[[Sample Size Determination|样本量]]，排名未系统报告[[Confidence Interval|置信区间]]、[[Sampling Error|标准误]]或相邻 d 值的显著性检验，且 TIMSS 2011 例子显示边际效应量在[[Societies of Control|控制社会]]经济背景后可明显下降（详见 [[Effect Size#基本公式与构成逻辑]]、[[Meta-meta-analysis#技术方法论缺陷]]）
-> - **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]** — 迄今最系统的技术评估：构建三层[[Analytic Framework|分析框架]]，发现六个分析步骤均存在方法论不足（数据基础缺失、Fisher's z 省略、[[School Effectiveness|SE]]/SD 混淆、重复数据未中和、简单平均替代加权、无 CI/显著性检验）；外部批判揭示[[Fixed-Effect and Random-Effects Models|固定效应模型]]不适、138 因素不可比、d=0.40 实质意义存疑。综合判断：愿景"有远见"但方法"以科学合理的方式不可行"（详见 [[Argument_Wecker_2016_ZfE]]、[[Visible Learning#Wecker et al. (2016)]])
+> - **[[Argument_Allerup_2015_Paideia|Allerup (2015)]]** — 从统计学角度批评 Hattie 用效应量给教学干预排序：d=0.40 与显著性的关系依赖[[Sample Size Determination|样本量]]，排名未系统报告[[Confidence Interval|置信区间]]、[[Standard Error|标准误]]或相邻 d 值的显著性检验，且 TIMSS 2011 例子显示边际效应量在[[Societies of Control|控制社会]]经济背景后可明显下降（详见 [[Effect Size#基本公式与构成逻辑]]、[[Meta-meta-analysis#技术方法论缺陷]]）
+> - **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]** — 迄今最系统的技术评估：构建三层[[Analytic Framework|分析框架]]，发现六个分析步骤均存在方法论不足（数据基础缺失、Fisher's z 省略、SE/SD 混淆、重复数据未中和、简单平均替代加权、无 CI/显著性检验）；外部批判揭示[[Fixed-Effect and Random-Effects Models|固定效应模型]]不适、138 因素不可比、d=0.40 实质意义存疑。综合判断：愿景"有远见"但方法"以科学合理的方式不可行"（详见 [[Argument_Wecker_2016_ZfE]]、[[Visible Learning#Wecker et al. (2016)]])
 > - **[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]]** — 统计学家视角定性为伪科学：CLE 计算错误（负概率）、基线比较任意性、三种效应量公式产生矛盾排名、r→d 转换危险、聚合任意性。结论："任何人都不应该复制这种方法论"（详见 [[Argument_Bergeron_2017_MJE]]、[[Visible Learning#Bergeron & Rivard (2017)]])
 > - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** — 变差系数检验：Vσ=56.87%，数据集"极端不均匀"；[[Systematic Review|系统综述]] 10+ 位批评者论点；建议俄罗斯教育政策不采用 VL（详见 [[Argument_Golovchin_2019_ESC]]、[[Visible Learning#Golovchin (2019)]])
 > - **[[Argument_OConnor_2020_AJLL|O'Connor (2020)]]** — [[Whole Language|全语言]]案例审查：分类错误（[[Language Experience Approach|语言经验法]]≠全语言）、不对称审查（接受 d=-0.65/修正 d=+0.65）、选择性修正（VL 唯一被修正的元分析），不加权平均、[[Primary and Secondary Documents|次级文献]]系统性忽略。论证先验偏见驱动数据选择（详见 [[Argument_OConnor_2020_AJLL]]、[[Visible Learning#O'Connor (2020)]])

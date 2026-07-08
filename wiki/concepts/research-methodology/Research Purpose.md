@@ -17,7 +17,6 @@ tags:
   - source/textbook
   - theme/research-planning
 related_concepts:
-  - "[[Purpose Statement]]"
   - "[[Research Question]]"
   - "[[Research Ethics]]"
   - "[[Document]]"
@@ -27,6 +26,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Evaluation Research]]"
   - "[[Covert Research]]"
+  - "[[Purpose Statement]]"
   - "[[Fitness for Purpose]]"
 related_theories: []
 related_methods:
@@ -51,7 +51,7 @@ updated: 2026-06-20
 ## 定义
 
 > [!def] 核心定义
-> [[Purpose Statement|研究目的]]（research purposes）是研究者对研究预期交付什么的明确陈述——研究完成后哪些在研究开始前不知道的知识将被获得。它回答的核心问题是：研究的产出（deliverables）是什么？研究要做什么？研究要找出什么？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）
+> 研究目的（research purposes）是研究者对研究预期交付什么的明确陈述——研究完成后哪些在研究开始前不知道的知识将被获得。它回答的核心问题是：研究的产出（deliverables）是什么？研究要做什么？研究要找出什么？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）
 
 > [!concept-lens] 概念透镜
 > - **含义** 研究目的不是预测研究结果（这等于操纵研究），而是声明研究所要提供的答案类型或信息类型。
@@ -62,7 +62,7 @@ updated: 2026-06-20
 
 ## 核心功能
 
-> [!dimension] [[Purpose Statement|研究目的]]的三种功能
+> [!dimension] 研究目的的三种功能
 > - **明确交付物**
 >   研究目的将模糊的研究意图转化为可陈述的预期产出——研究完成后哪些知识将被获得。这不同于预测研究结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
 > - **决定研究类型**
@@ -74,7 +74,7 @@ updated: 2026-06-20
 
 ## 目的-方法对应模式
 
-[[Purpose Statement|研究目的]]与研究方法之间存在内在的对应关系。教材提供了30组目的-方法配对，可归纳为六种基本模式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）：
+研究目的与研究方法之间存在内在的对应关系。教材提供了30组目的-方法配对，可归纳为六种基本模式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）：
 
 > [!contrast-table] 研究目的与方法的基本对应模式
 > | 目的类型 | 典型适配方法 | 示例 |
