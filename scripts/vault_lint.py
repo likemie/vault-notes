@@ -903,6 +903,36 @@ def load_index(issues: List[Issue]) -> Tuple[Dict[str, Dict[str, Any]], Dict[str
         by_title[title] = item
         path_to_title[path] = title
 
+    # Alias uniqueness across the vault. Aliases drive wiki_linker targets,
+    # so an alias shared by two entries makes auto-linking nondeterministic.
+    norm_title_owner = {unicodedata.normalize("NFC", t).lower().strip(): t for t in by_title}
+    alias_owners: Dict[str, List[Tuple[str, str]]] = {}
+    for item in entries:
+        if not isinstance(item, dict):
+            continue
+        owner = str(item.get("title", "")).strip()
+        if not owner:
+            continue
+        for alias in item.get("aliases") or []:
+            key = unicodedata.normalize("NFC", str(alias)).lower().strip()
+            if key:
+                alias_owners.setdefault(key, []).append((owner, str(alias)))
+    for key, owners in alias_owners.items():
+        titles = sorted({t for t, _ in owners})
+        if len(titles) > 1:
+            issues.append(Issue(
+                "ERROR", rel(INDEX_JSON),
+                f"alias {owners[0][1]!r} is used by multiple entries: {', '.join(titles)}",
+                code="ALIAS_DUPLICATE",
+            ))
+        shadowed = norm_title_owner.get(key)
+        if shadowed and all(t != shadowed for t in titles):
+            issues.append(Issue(
+                "ERROR", rel(INDEX_JSON),
+                f"alias {owners[0][1]!r} of {titles[0]!r} duplicates the title of another entry: {shadowed!r}",
+                code="ALIAS_DUPLICATE",
+            ))
+
     return by_title, path_to_title
 
 
@@ -999,6 +1029,12 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
             # Templater files use placeholders; normal entries should match filename.
             if "<%" not in title and title != stem and not title_matches_filename(title, stem):
                 issues.append(Issue("WARN", rel(path), f"title differs from filename stem: title={title!r}, filename={stem!r}", line=frontmatter_line_number(fm, "title"), code="TITLE_FILENAME_MISMATCH"))
+            # Schema section 4: no brackets, colons, or quote marks in titles of
+            # Concept / Theory / Method / Instrument / Fact entries (apostrophes allowed).
+            if "<%" not in title and typ in {"concept", "theory", "method", "instrument", "fact"}:
+                bad = re.findall(r"[()（）:：\"“”]", title)
+                if bad:
+                    issues.append(Issue("ERROR", rel(path), f"title must not contain brackets, colons, or quote marks (move abbreviations to aliases): {title!r}", line=frontmatter_line_number(fm, "title"), code="TITLE_FORBIDDEN_CHAR"))
 
     # type checks
     if is_wiki_entry_path(path):
@@ -1018,6 +1054,32 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
     # Non-argument wiki semantic entries should usually have aliases key.
     if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "instrument", "person", "fact"} and "aliases" not in data:
         issues.append(Issue("WARN", rel(path), f"type {typ!r} should include aliases field", code="ALIASES_MISSING"))
+
+    # Alias quality (schema section 4): precise, single-language, non-redundant.
+    if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "instrument", "person", "fact"}:
+        aliases_val = data.get("aliases")
+        if isinstance(aliases_val, list):
+            alias_line = frontmatter_line_number(fm, "aliases")
+            seen_alias_keys = set()
+            title_key = unicodedata.normalize("NFC", str(title)).lower().strip() if isinstance(title, str) else ""
+            for alias in aliases_val:
+                if not isinstance(alias, str) or not alias.strip():
+                    continue
+                a = alias.strip()
+                key = unicodedata.normalize("NFC", a).lower()
+                if key in seen_alias_keys:
+                    issues.append(Issue("WARN", rel(path), f"duplicate alias within entry (case or width variants count as one): {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
+                seen_alias_keys.add(key)
+                if title_key and key == title_key:
+                    issues.append(Issue("WARN", rel(path), f"alias duplicates the entry title and is redundant: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
+                has_cjk = any("㐀" <= ch <= "鿿" for ch in a)
+                has_latin_word = re.search(r"[A-Za-z]{2,}", a) is not None
+                if has_cjk and has_latin_word:
+                    issues.append(Issue("WARN", rel(path), f"alias mixes Chinese and English; split into separate aliases: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
+                if not has_cjk and len(a) <= 2:
+                    issues.append(Issue("WARN", rel(path), f"alias is too short and ambiguous for auto-linking: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
+                if has_cjk and len(a) == 1:
+                    issues.append(Issue("INFO", rel(path), f"single-character Chinese alias is usually too broad; keep only if it is a strong standalone term: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
 
     # Only Argument pages maintain source record links.
     if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "instrument", "person", "fact"} and "sources" in data:
@@ -1821,6 +1883,17 @@ def citation_display_has_author_year(display: str) -> bool:
     return any(ch.isalpha() or "\u3400" <= ch <= "\u9fff" for ch in prefix)
 
 
+def raw_citation_is_reference_fragment(display: str) -> bool:
+    """True for fragments of APA inverted-name reference lists, e.g. 'S. N. (2019)'.
+
+    RAW_CITATION_RE cannot include commas in the author part, so inside a
+    bibliography line like 'Larsen, S. N. (2019). ...' it matches only the
+    initials fragment. Those are references, not in-text citations.
+    """
+    prefix = re.split(r"[（(]", display, 1)[0].strip().rstrip(",， ")
+    return bool(re.fullmatch(r"(?:[A-ZÀ-ÖØ-Þ]\.(?:\s*-\s*[A-ZÀ-ÖØ-Þ]\.)?\s*)+", prefix))
+
+
 def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
     display = display.strip()
     normalized_display = normalize_citation_alias_text(display)
@@ -1950,6 +2023,8 @@ def check_duplicate_citations(
             display = match.group(1).strip()
             if not citation_display_text(display):
                 continue
+            if raw_citation_is_reference_fragment(display):
+                continue
             key = citation_identity(display)
             if key:
                 occurrences.setdefault(key, []).append((match.start(), display))
@@ -2071,6 +2146,8 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
         # Avoid matching page-only references and obvious template/examples.
         if not citation_display_text(txt):
             continue
+        if raw_citation_is_reference_fragment(txt):
+            continue
         if has_english_author_and(txt):
             issues.append(Issue("WARN", rel(path), f"English two-author citation should use '&': {txt!r} -> {fix_english_author_and(txt)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
         has_matching_argument = any(
@@ -2084,6 +2161,13 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
 def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Dict[str, str], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
     if is_generated_content_page(path):
         return
+
+    if unicodedata.normalize("NFC", path.name) != path.name:
+        issues.append(Issue(
+            "WARN", rel(path),
+            "filename is not NFC-normalized Unicode (macOS NFD); links may break on Linux/CI or Quartz builds — prefer ASCII names for new files",
+            code="FILENAME_NFD",
+        ))
 
     try:
         text = read_text(path)
@@ -2107,7 +2191,186 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_citation_card_language_order(path, text, issues)
 
 
-def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> List[Issue]:
+# -----------------------------
+# Auto-fix (--fix)
+# -----------------------------
+
+def mask_h2_sections_preserve(body: str, names: Iterable[str]) -> str:
+    """Like remove_h2_sections but length-preserving (blanks section content)."""
+    targets = {n.lower() for n in names}
+    lines = body.splitlines(keepends=True)
+    out: list[str] = []
+    skipping = False
+    for line in lines:
+        if line.startswith("## "):
+            skipping = line[3:].strip().lower() in targets
+        out.append(re.sub(r"[^\n]", " ", line) if skipping else line)
+    return "".join(out)
+
+
+def fix_body_spans(text: str, argument_citations: Dict[str, Dict[str, Any]]) -> Tuple[str, int]:
+    """Fix BOLD_HEADING_COLON, BOLD_HEADING_ENGLISH_OUTSIDE and CITATION_ENGLISH_AND."""
+    fm, body, _ = split_frontmatter(text)
+    head = text[: len(text) - len(body)]
+    scan = mask_markdown_code(body)
+    edits: List[Tuple[int, int, str]] = []  # (start, end, replacement) on body
+
+    # Bold heading followed by a colon: **X**： -> **X** (colon dropped, single space).
+    for m in re.finditer(r"(\*\*[^*\n]+?\*\*)[ \t]*[：:][ \t]*", scan):
+        seg = body[m.start(1):m.end(1)]
+        end = m.end()
+        trailing = " " if end < len(body) and body[end] not in "\n" else ""
+        edits.append((m.start(), end, seg + trailing))
+
+    # English annotation outside the bold heading: **中文**（English） -> **中文（English）**
+    for m in re.finditer(
+        r"\*\*([^*\n]*[㐀-鿿][^*\n]*)\*\*\s*([（(][^）)\n]*[A-Za-z][^）)\n]*[）)])",
+        scan,
+    ):
+        if re.fullmatch(r"[（(]\s*pp?\.\s*[^）)]+[）)]", m.group(2), flags=re.IGNORECASE):
+            continue
+        chinese = body[m.start(1):m.end(1)]
+        annotation = body[m.start(2):m.end(2)]
+        edits.append((m.start(), m.end(), f"**{chinese.strip()}{annotation}**"))
+
+    # English two-author citations: 'X and Y' / 'X 和 Y' -> 'X & Y'.
+    cite_scan = mask_h2_sections_preserve(scan, ["来源", "Sources", "Source"])
+    for m in WIKILINK_RE.finditer(cite_scan):
+        raw = m.group(1)
+        target = extract_wikilink_target(raw)
+        if "|" not in raw or target not in argument_citations:
+            continue
+        display = raw.split("|", 1)[1].strip()
+        if citation_display_text(display) and has_english_author_and(display):
+            fixed = fix_english_author_and(display)
+            inner_start = m.start(1) + raw.index("|") + 1
+            edits.append((inner_start, m.end(1), fixed))
+    masked_links = strip_existing_wikilinks(cite_scan)
+    for m in RAW_CITATION_RE.finditer(masked_links):
+        txt = m.group(1).strip()
+        if not citation_display_text(txt) or raw_citation_is_reference_fragment(txt):
+            continue
+        if has_english_author_and(txt):
+            edits.append((m.start(1), m.end(1), fix_english_author_and(body[m.start(1):m.end(1)])))
+
+    if not edits:
+        return text, 0
+    # Apply non-overlapping edits right-to-left.
+    edits.sort(key=lambda e: -e[0])
+    applied = 0
+    last_start = len(body) + 1
+    new_body = body
+    for s, e, repl in edits:
+        if e > last_start:
+            continue
+        if new_body[s:e] == repl:
+            continue
+        new_body = new_body[:s] + repl + new_body[e:]
+        last_start = s
+        applied += 1
+    return head + new_body, applied
+
+
+def fix_summary_quotes(text: str) -> Tuple[str, int]:
+    fm, body, _ = split_frontmatter(text)
+    if fm is None:
+        return text, 0
+    lines = text.split("\n")
+    fixed = 0
+    for i, l in enumerate(lines[: fm.count("\n") + 3]):
+        m = re.match(r"^(\s*summary\s*:\s*)(.+?)\s*$", l)
+        if not m:
+            continue
+        val = m.group(2)
+        if val.startswith('"') and val.endswith('"'):
+            break
+        stripped = val.strip("'\"")
+        if '"' in stripped:
+            break
+        lines[i] = f'{m.group(1)}"{stripped}"'
+        fixed = 1
+        break
+    return "\n".join(lines), fixed
+
+
+def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]) -> Tuple[int, int]:
+    changed_files = 0
+    total = 0
+    for path in files:
+        if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or is_generated_content_page(path):
+            continue
+        try:
+            text = read_text(path)
+        except Exception:
+            continue
+        new_text, n1 = fix_body_spans(text, argument_citations)
+        new_text, n2 = fix_summary_quotes(new_text)
+        if new_text != text:
+            path.write_text(new_text, encoding="utf-8")
+            changed_files += 1
+            total += n1 + n2
+            print(f"fixed {n1 + n2:3d}  {rel(path)}")
+    return changed_files, total
+
+
+AUTO_MAINTAINED_FM_RE = re.compile(
+    r"^[+-]\s*(?:---\s*$|(?:related_[a-z_]+|sources|extracted_to|updated|created|domain|aliases|"
+    r"citation_aliases|citation|tags|confidence|status|title|summary|type|subtype|journal|year|doi|isbn|"
+    r"authors|editors|source_language|argument_display_title|publication_place|publisher|part_of|processed_date)\s*:"
+    r"|\s+-\s|\s+\")"
+)
+
+
+def check_updated_freshness(files: List[Path], issues: List[Issue]) -> None:
+    """WARN when a git-modified wiki entry has body changes but a stale `updated` field."""
+    try:
+        out = subprocess.run(
+            ["git", "diff", "--name-only", "HEAD"],
+            cwd=ROOT, text=True, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=False,
+        )
+    except Exception:
+        return
+    if out.returncode != 0:
+        return
+    changed = {(ROOT / line.strip()).resolve() for line in out.stdout.splitlines() if line.strip()}
+    import datetime
+    today = datetime.date.today().isoformat()
+    for path in files:
+        if path.resolve() not in changed or not is_wiki_entry_path(path):
+            continue
+        if is_generated_content_page(path) or TEMPLATES_DIR in path.parents:
+            continue
+        try:
+            text = read_text(path)
+        except Exception:
+            continue
+        fm, _, _ = split_frontmatter(text)
+        if not fm:
+            continue
+        m = re.search(r"^updated\s*:\s*[\"']?(\d{4}-\d{2}-\d{2})", fm, flags=re.MULTILINE)
+        if not m or m.group(1) == today:
+            continue
+        diff = subprocess.run(
+            ["git", "diff", "-U0", "HEAD", "--", str(path)],
+            cwd=ROOT, text=True, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=False,
+        )
+        body_changed = False
+        for line in diff.stdout.splitlines():
+            if not line or line[0] not in "+-" or line.startswith(("+++", "---")):
+                continue
+            if AUTO_MAINTAINED_FM_RE.match(line):
+                continue
+            body_changed = True
+            break
+        if body_changed:
+            issues.append(Issue(
+                "WARN", rel(path),
+                f"entry body changed but frontmatter updated is stale ({m.group(1)}); set updated: {today}",
+                code="UPDATED_STALE",
+            ))
+
+
+def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False) -> List[Issue]:
     issues: List[Issue] = []
     check_required_files(issues)
     by_title, path_to_title = load_index(issues)
@@ -2138,6 +2401,10 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> L
             seen.add(rp)
             unique_files.append(p)
 
+    if fix:
+        changed_files, total_fixes = apply_fixes(unique_files, argument_citations)
+        print(f"--fix: {total_fixes} issue(s) fixed in {changed_files} file(s)\n")
+
     for p in unique_files:
         lint_file(p, by_title, path_to_title, argument_citations, issues)
 
@@ -2150,6 +2417,7 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False) -> L
         argument_check_files.extend(git_changed_md_files())
     check_new_entries_mentioned_in_arguments(argument_check_files, issues)
     check_citation_json_consistency(argument_citations, issues)
+    check_updated_freshness(unique_files, issues)
 
     return issues
 
@@ -2166,10 +2434,11 @@ def main() -> int:
     parser.add_argument("--full", action="store_true", help="lint the full vault instead of only git-changed Markdown files")
     parser.add_argument("--quiet", action="store_true", help="only print errors and summary")
     parser.add_argument("--show-info", action="store_true", help="include INFO items in text output")
+    parser.add_argument("--fix", action="store_true", help="auto-fix mechanical issues (bold-heading colon, English annotation outside bold, English 'and' in citations, summary quotes) before linting")
     args = parser.parse_args()
 
     paths = [(ROOT / p).resolve() if not Path(p).is_absolute() else Path(p).resolve() for p in args.path]
-    issues = lint_vault(paths, strict=args.strict, full=args.full)
+    issues = lint_vault(paths, strict=args.strict, full=args.full, fix=args.fix)
 
     errors = [i for i in issues if i.severity == "ERROR"]
     warns = [i for i in issues if i.severity == "WARN"]
