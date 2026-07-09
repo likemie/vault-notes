@@ -37,7 +37,8 @@
               "title": "Argument_Klerides_2023_CE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,11 +206,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "0ec4b7749d7a06eb",
   "lastOpenFiles": [
+    "wiki/concepts/research-methodology/Virtual Documents.md",
+    "wiki/methods/quantitative/Secondary Analysis.md",
+    "wiki/concepts/research-methodology/Linguistic Turn.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
     "wiki/methods/qualitative/Documentary Analysis.md",
     "wiki/concepts/political-economy-geopolitics/Governing at a Distance.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
     "wiki/concepts/research-methodology/Categorical Funding.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md",
     "wiki/concepts/research-methodology/Methodological Educationism.md",
@@ -231,9 +235,6 @@
     "wiki/concepts/comparative-education/European Education Space.md",
     "wiki/theories/educational-philosophy/Luhmann's Systems Theory.md",
     "wiki/theories/comparative-education/World Society Theory.md",
-    "wiki/facts/eu/Lisbon Strategy.md",
-    "wiki/concepts/comparative-education/Nordic Model of Education.md",
-    "wiki/facts/eu/Europe 2020 Strategy.md",
     "wiki/facts/switzerland",
     "scripts/hooks/pre-commit",
     "scripts/hooks",

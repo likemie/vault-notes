@@ -5681,6 +5681,15 @@
     ]
   },
   {
+    "title": "Linguistic Turn",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Linguistic Turn.md",
+    "aliases": [
+      "语言学转向",
+      "linguistic turn in documentary analysis"
+    ]
+  },
+  {
     "title": "Literature Review",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Literature Review.md",
@@ -6790,6 +6799,16 @@
     "aliases": [
       "变量",
       "variables"
+    ]
+  },
+  {
+    "title": "Virtual Documents",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Virtual Documents.md",
+    "aliases": [
+      "虚拟文献",
+      "digital primary documents",
+      "online documents"
     ]
   },
   {
@@ -9324,6 +9343,16 @@
     "aliases": [
       "季节性比较",
       "季节比较"
+    ]
+  },
+  {
+    "title": "Secondary Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Secondary Analysis.md",
+    "aliases": [
+      "二手分析",
+      "secondary data analysis",
+      "further analysis of existing data"
     ]
   },
   {
