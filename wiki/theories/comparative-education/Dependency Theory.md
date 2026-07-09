@@ -8,7 +8,7 @@ aliases:
 summary: "1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心与边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因。后于 1990 年代至 2010 年代初演化为对高等教育领域“学术依附”与“学术新殖民主义”的地缘政治非自觉批判。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Realism in International Relations]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Geopolitics of Higher Education]]"
@@ -64,7 +65,7 @@ updated: 2026-07-09
 > 欠发展的真正原因并非内部缺失，而是西方剥削和西方制定的资本主义世界秩序对穷国的结构性约束。比较教育的任务不是帮助发展，而是揭示剥削机制。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 426]])
 
 > [!boundary]- 理论边界
-> - 不适用于 — 解释主权国家在完全对称的权力地缘博弈中、以防沙自保为唯一目的主动向竞争对手借鉴教育制度的[[Pragmatic Paradigm|实用主义]]行为（此属于现实主义传统的借用解释范围）。
+> - 不适用于 — 解释主权国家在完全对称的权力地缘博弈中、以防沙自保为唯一目的主动向竞争对手借鉴教育制度的[[Pragmatic Paradigm|实用主义]]行为（此属于[[Realism in International Relations|现实主义]]传统的借用解释范围）。
 > - 局限性 — 过度强调结构性约束而容易低估边缘行动者的微观能动性与抵抗策略。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
 
 ---

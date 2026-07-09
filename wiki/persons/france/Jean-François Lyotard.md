@@ -8,7 +8,7 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Global Policy Space]]"
   - "[[Narrative Knowledge]]"
   - "[[Positivism]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Incommensurability]]"
   - "[[Postmodernism]]"
   - "[[Critical Pedagogy]]"
@@ -104,7 +105,7 @@ updated: 2026-06-24
 > - **1950s–1960s — [[Phenomenology|现象学]]与政治反思阶段** 主要回应现象学的学术奠基与极左翼政治反思，致力于寻找理解意识及反对教条主义政治的框架。
 >   - **代表著作** 《现象学》（*La phénoménologie*, 1954）、阿尔及利亚独立运动政治评论（后集结为《政治写作》*Political Writings*, 1993）。
 >   - **关键概念／方法** 现象学（[[Phenomenology]]）、革命政治分析。
->   - **阶段转向** 在索邦完成了以禅宗与道教为线索的伦理学论文，试图通过现象学克服[[Positivism|实证主义]]与理性主义的局限，并在秘密支持阿尔及利亚独立斗争中，反思正统马克思主义官僚体制对工人阶级斗争的压制。
+>   - **阶段转向** 在索邦完成了以禅宗与道教为线索的伦理学论文，试图通过现象学克服[[Positivism|实证主义]]与[[Rationalism in International Relations|理性主义]]的局限，并在秘密支持阿尔及利亚独立斗争中，反思正统马克思主义官僚体制对工人阶级斗争的压制。
 > - **Late 1960s–1970s中 — 感性美学与力比多经济学转向阶段** 回应经典马克思主义和结构主义对欲望的系统压制，转向力比多强度的释放。
 >   - **代表著作** 《论述，形象》（*Discours, figure*, 1971）、《力比多经济学》（*Libidinal Economy*, 1974）。
 >   - **关键概念／方法** 形象（Figure）解构、力比多流、欲望强度。

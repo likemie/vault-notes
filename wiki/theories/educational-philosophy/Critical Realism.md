@@ -5,7 +5,7 @@ aliases:
 summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
   - "[[Epistemology]]"
+  - "[[Realism in International Relations]]"
   - "[[Paradigm]]"
   - "[[Scientism]]"
   - "[[Governing by Numbers]]"
@@ -144,7 +145,7 @@ updated: '2026-06-19'
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]** 深度现实主义。世界是客观存在且分层的；社会结构（独立于人的意愿但依赖人的实践）是真实的，且拥有无法还原为个体特性的[[Emergence|涌现]][[Causality|因果]]力。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
+> - **[[Ontology|本体论]]** 深度[[Realism in International Relations|现实主义]]。世界是客观存在且分层的；社会结构（独立于人的意愿但依赖人的实践）是真实的，且拥有无法还原为个体特性的[[Emergence|涌现]][[Causality|因果]]力。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
 > - **认识论** 反经验主义、非绝对相对主义。知识是被概念中介的，观察并非中立，因此不能仅靠累加经验事实来获得因果解释；但通过批判性探究，人类能够获得对深层机制的合理且可靠的认识。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 > - **方法含义** 主张“方法论多元主义”与“实在论综合”。研究应揭示机制如何在特定背景下发挥作用，强调[[Qualitative Research|质性研究]]（如[[Qualitative Observation|质性观察]]、历史分析、[[Action Research|行动研究]]）与量化工具的协同使用，尊重行动者（教师与学生）的推理过程。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
 > - **不能直接推出的东西** 无法自动推导出一个在任何情境下都产生恒定[[Effect Size|效应量]]（如 $+0.40$）的黄金教学法则，也不能直接推出能流水线式复制的去情境干预指南。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 11]])

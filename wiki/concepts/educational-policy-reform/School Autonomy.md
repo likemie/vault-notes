@@ -5,7 +5,7 @@ aliases:
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排，用于组织学校层面的资源配置、课程决策和管理责任。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
 - paradigm/neoliberal
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Hypothesis]]"
   - "[[New Public Management]]"
   - "[[School Leadership]]"
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 >
 > 1. **经济效率与差异化拨款** 经济效率话语和公私部门间的差异化拨款构成学校"自主权"，制造经济不公
 > 2. **竞争与个人主义** 竞争和个人主义话语构成学校自主权，削弱系统层面的公平
-> 3. **权力下放与经济理性主义** 权力下放和经济理性主义构成学校自主权，使本已弱势的学校更加不利
+> 3. **权力下放与经济[[Rationalism in International Relations|理性主义]]** 权力下放和经济理性主义构成学校自主权，使本已弱势的学校更加不利
 > 4. **需求本位拨款** 需求本位拨款在缺乏透明度、精细度和行政支持时构成学校自主权，制造经济不公
 >
 > Dolan 的悖论框架将悖论理解为"由话语的构成性实践所形成，而非作为冲突或复杂性的表征"——目的是"问题化并使主导当代学校教育的话语变得脆弱"（Keddie et al., 2020, IJLE, p.5-6）。
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 >
 > 然而，当自主权在市场化的背景下运作时，市场逻辑将自主权扭曲为（Keddie et al., 2020, p.437-441）：
 >
-> 1. **经济效率压力** 伴随学校自主权改革的经济理性主义"倾向于破坏传统上与支持公立学校相关的中共教育官僚机构的结构、资源和项目"（p.433）。在 WA，如 1990s 的 Victoria，这种逻辑导致区域层面学校支持结构的拆除，对小规模、农村和偏远学校产生灾难性后果。
+> 1. **经济效率压力** 伴随学校自主权改革的经济[[Rationalism in International Relations|理性主义]]"倾向于破坏传统上与支持公立学校相关的中共教育官僚机构的结构、资源和项目"（p.433）。在 WA，如 1990s 的 Victoria，这种逻辑导致区域层面学校支持结构的拆除，对小规模、农村和偏远学校产生灾难性后果。
 >
 > 2. **竞争与等级化**[[My School Website|My School]] 网站的市场问责模型——"[[Hypothesis|假设]]失败的学校（随着家长需求的减少）将关闭而不论当地需要，而成功的学校将繁荣发展"——增加了公立系统内的分层和残余化（residualisation），即"通过基于学术测试成绩来评估（公开奖励）和贬低（公开羞辱）学校"（p.434）。
 >

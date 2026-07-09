@@ -7,7 +7,7 @@ aliases:
 summary: "克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,6 +16,8 @@ tags:
   - theme/geopolitics
   - theory/international-relations
 related_concepts:
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Knowledge Production]]"
   - "[[Screening Off]]"
@@ -60,7 +62,7 @@ updated: '2026-07-08'
 ## 定义
 
 > [!def] 核心定义
-> **注意力议程（Agendas of Attention）** 指比较教育研究由于受到特定国际关系传统（现实主义、理性主义、[[Revolutionism|革命主义]]）的影响，而在[[Knowledge Production|知识生产]]中有选择地关注某些问题（在场）并排斥、遗忘另一些问题（缺席）的过滤与控制机制。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 416]])
+> **注意力议程（Agendas of Attention）** 指比较教育研究由于受到特定国际关系传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）的影响，而在[[Knowledge Production|知识生产]]中有选择地关注某些问题（在场）并排斥、遗忘另一些问题（缺席）的过滤与控制机制。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 416]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向比较教育知识生产中由于底层地缘政治和国际关系设想的不同，导致研究重点呈现系统性偏倚、[[Screening Off|屏蔽]]和选择性呈现的规律。
@@ -92,7 +94,7 @@ updated: '2026-07-08'
 ## 核心要素
 
 > [!feature] 核心要素
-> - **在场（Presences）** 指在特定国关传统影响下，在比较教育研究中被高度强调、制度化显现并占据统治地位的主题（如现实主义下的民族国家、借用吸引与[[Reference Society|参考社会]]；或理性主义下的[[Governing at a Distance|远处治理]]与大数据评估）。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 420–425]])
+> - **在场（Presences）** 指在特定国关传统影响下，在比较教育研究中被高度强调、制度化显现并占据统治地位的主题（如[[Realism in International Relations|现实主义]]下的民族国家、借用吸引与[[Reference Society|参考社会]]；或[[Rationalism in International Relations|理性主义]]下的[[Governing at a Distance|远处治理]]与大数据评估）。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 420–425]])
 > - **缺席（Absences）** 指被学术话语系统性[[Screening Off|屏蔽]]、遗忘、排斥在研究视线之外的主题（如现实主义下被掩盖的殖民扩张暗面与权力不对称；或理性主义下被掩盖的[[OECD|经合组织]]数据独裁与新自由主义资本统治）。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 421]])
 > - **[[Epistemology|认识论]]混合（Intermixing of Epistemologies）** 三大传统的注意力议程不是割裂的，它们在比较教育的实际文本与历史演进中往往呈现出复杂的混合、妥协和交叉共存状态。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 431]])
 
@@ -116,7 +118,7 @@ updated: '2026-07-08'
 > 探讨注意力议程如何在中介底层政治[[Hypothesis|假设]]与表层学术选题之间起作用。学者们普遍倾向于揭示学术客观性背后的选择性偏差。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **注意力过滤** 对国际社会是处于“自助竞争”（现实主义）、“规则合作”（理性主义）还是“压迫抗争”（[[Revolutionism|革命主义]]）的不同设定，通过注意力议程在无意识中过滤了比较教育学者的视野，规定了什么是可以被看见并讨论的“在场”，以及什么是必须被排除并遗忘的“缺席”，由此决定了什么值得比较、如何比较以及比较服务于什么目的。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 431]])
+> **注意力过滤** 对国际社会是处于“自助竞争”（[[Realism in International Relations|现实主义]]）、“规则合作”（[[Rationalism in International Relations|理性主义]]）还是“压迫抗争”（[[Revolutionism|革命主义]]）的不同设定，通过注意力议程在无意识中过滤了比较教育学者的视野，规定了什么是可以被看见并讨论的“在场”，以及什么是必须被排除并遗忘的“缺席”，由此决定了什么值得比较、如何比较以及比较服务于什么目的。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 431]])
 
 ---
 
@@ -176,7 +178,7 @@ updated: '2026-07-08'
 > 
 > > [!axis] 单一视角的理想化 vs 经验现实的交叉混合
 > > 争论在于，注意力议程的三大分类是否过于理想化。
-> > - **分析工具的纯粹性** 现实主义、理性主义和[[Revolutionism|革命主义]]的注意力议程通常作为“理想类型”存在，用于协助学者剥离复杂的思想线索。
+> > - **分析工具的纯粹性** [[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]的注意力议程通常作为“理想类型”存在，用于协助学者剥离复杂的思想线索。
 > > - **混合形态的现实** 赫德利·布尔等人指出，任何具体的比较教育实践（如 [[PISA]] 或区域研究）在现实中往往交织着现实主义的国家竞争力逻辑、理性主义的数据治理逻辑与革命主义的改进道德热情。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 431]])
 
 > [!critique] 学理与方法论批判
@@ -188,8 +190,8 @@ updated: '2026-07-08'
 ## 相关研究
 
 > [!evidence-grid] 典型研究与应用案例
-> - **冷战人造卫星（[[Sputnik Shock 1957|Sputnik]]）冲击后的议程转换** 1957 年苏联成功发射首颗人造卫星触发了美国对自身科技教育落后的恐慌。这一现实主义的地缘生存与安全焦虑迅速主导了美国的注意力议程，促使联邦政府强力干预教育，并通过《国防教育法》直接借用苏联的理工与外语重视。这一转变展示了地缘秩序危机如何瞬间改变学科的注意力在场。
-> - **后冷战时期国际组织远程评估的注意力重构** 随着多边协商与[[Governing at a Distance|远处治理]]成为理性主义全球化的主导，世界银行和[[OECD|经合组织]]等通过基准测试和[[PISA|国际学生评估项目]]（PISA），将复杂的跨国教育比较重塑为技术性的全球排名。它选择性地让跨国治理指标和人力资本效能占据在场，同时掩盖了数据霸权背后的西方主导权，将政治权力冲突成功“技术化”。
+> - **冷战人造卫星（[[Sputnik Shock 1957|Sputnik]]）冲击后的议程转换** 1957 年苏联成功发射首颗人造卫星触发了美国对自身科技教育落后的恐慌。这一[[Realism in International Relations|现实主义]]的地缘生存与安全焦虑迅速主导了美国的注意力议程，促使联邦政府强力干预教育，并通过《国防教育法》直接借用苏联的理工与外语重视。这一转变展示了地缘秩序危机如何瞬间改变学科的注意力在场。
+> - **后冷战时期国际组织远程评估的注意力重构** 随着多边协商与[[Governing at a Distance|远处治理]]成为[[Rationalism in International Relations|理性主义]]全球化的主导，世界银行和[[OECD|经合组织]]等通过基准测试和[[PISA|国际学生评估项目]]（PISA），将复杂的跨国教育比较重塑为技术性的全球排名。它选择性地让跨国治理指标和人力资本效能占据在场，同时掩盖了数据霸权背后的西方主导权，将政治权力冲突成功“技术化”。
 > - **[[Dependency Theory|依附理论]]与去殖民比较教育的议程开辟** 1970 年代新马克思主义学者（如卡诺伊等）采用依附理论，将西方的教育援助和评估体系解构为对边缘国家心智的奴役。去殖民路径进一步致力于打破学科自身的殖民认识型（包括朱利安 1817 年学科奠基方案的帝国扩张烙印），将南南[[Knowledge Exchange|知识交流]]和原住民认知确立为在场，实现了对传统注意力边界的突破。
 > - **两次世界大战之间的教科书去民族偏见运动** 两次大战之间，国际联盟的国际知识合作组织与北欧协会等致力于通过教科书比较审查，消除历史叙事中的遗漏、歪曲和刻板印象。这一实践服务于塑造适应多边合作的“[[International Mind|国际心智]]”，标志着理性主义和平政治对学术界注意力在场的首次大规模制度化构建。
 

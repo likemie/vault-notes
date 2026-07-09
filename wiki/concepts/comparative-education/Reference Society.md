@@ -27,8 +27,8 @@ related_concepts:
   - "[[Nordic Model of Education]]"
   - "[[Reliability]]"
   - "[[Emergence]]"
-  - "[[PISA Literacy]]"
   - "[[Incommensurability]]"
+  - "[[Realism in International Relations]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
@@ -137,7 +137,7 @@ updated: 2026-07-05
 >   PISA 2000 首轮结果公布后，芬兰凭借全面优异的表现迅速成为全球参考社会。与此同时，德国因 PISA 冲击将注意力转向高表现国家的教育改革经验。PISA 开始将各国的教育表现转化为可比较的数字和排名，使参考社会的确立获得了量化基础（Grek, 2009）。
 >
 > - **2003–2009 — 参考社会的多元分化**
->   PISA 2003 结果推动韩国将参考社会从日本转向芬兰（Kim & Choi, 2023）。日本在 PISA 2003 后经历教育危机论争，[[PISA Literacy|PISA 素养]]概念被纳入国家课程——日本从被效仿者变为效仿者。PISA 排名驱动的参考社会开始呈现多元分化趋势，不同国家根据自身需求选择不同的模范社会。
+>   PISA 2003 结果推动韩国将参考社会从日本转向芬兰（Kim & Choi, 2023）。日本在 PISA 2003 后经历教育危机论争，PISA 素养概念被纳入国家课程——日本从被效仿者变为效仿者。PISA 排名驱动的参考社会开始呈现多元分化趋势，不同国家根据自身需求选择不同的模范社会。
 >
 > - **2009 年至今 — 上海的崛起与东亚参考社会的形成**
 >   PISA 2009 上海（中国）的优异表现使其迅速成为新的全球参考社会。Sellar & Lingard（2018）记录了澳大利亚对这一变化的反应——亚洲世纪（Asian Century）的崛起成为重要的情境因素。美国将上海的表现类比为新的 [[Sputnik Shock 1957|Sputnik]] 冲击，启动了新一轮教育改革（Martens & Niemann, 2013）。日本、上海和香港等东亚高表现体系开始被全球视为新的模范社会，标志着参考社会的重心从北欧向东亚部分转移——尽管文化偏见持续影响着西方国家的参照选择。PISA 现已吸引 90 多个国家和经济体参与，参考社会的版图仍在持续扩展和重构中（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
@@ -161,4 +161,4 @@ updated: 2026-07-05
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何通过设立参考社会影响各国的[[Policy Borrowing|政策借用]]行为。分析了芬兰、上海、日本、香港作为不同时期参考社会的演变，揭示了参考社会选择的动态性、文化偏见和双向话语建构机制。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 在[[Wight's Three Traditions of International Theory|国际关系三大传统]]框架下分析了现实主义比较教育中参考社会和反参考社会的建构机制，揭示了强国如何被奉为参照社会而地缘对手如何成为反参照社会。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 在[[Wight's Three Traditions of International Theory|国际关系三大传统]]框架下分析了[[Realism in International Relations|现实主义]]比较教育中参考社会和反参考社会的建构机制，揭示了强国如何被奉为参照社会而地缘对手如何成为反参照社会。

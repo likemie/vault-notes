@@ -7,7 +7,7 @@ aliases:
 summary: "将社会理解为人类与非人类行动者（异质性物质-符号实体）在持续关联中组装而成的异质网络理论。在比较教育研究中，它被用于解构国家层面的政策借用假说，通过追踪多尺度行动者网络、对称性关注非人类中介（如测评技术、协议、软件、物理硬件），揭示隐藏在教育转移与全球远处治理背后的非线性转译、变异、多行动者博弈及关系空间网络生产机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Policy Borrowing]]"
   - "[[Governing at a Distance]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Rich and Thick Description]]"
 related_theories: []
 related_methods:
@@ -157,7 +158,7 @@ updated: 2026-07-09
 > - **1986 — [[Transfer Translation Transformation|转译]]四阶段模式建立** Callon 提出转译四阶段分析模式，使 ANT 具备系统化[[Analytic Framework|分析框架]]。(Callon, 1986, 引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, p. 8]])
 > - **1990s — 教育研究物质建构应用** McGregor (2004)、Fenwick (1998) 和 Nespor (1994) 等学者将 ANT 引入课堂物质环境、时空组织及教师日常权力的微观建构分析。(引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, p. 9]])
 > - **2000s–2010s — 比较教育政策流转分析** Resnik 整合 ANT 构建教育改革多尺度视野；Beech & Artopoulos 使用 ANT 分析阿根廷数字教育项目，提出超越领土国家的“关系空间”政策流通论。(引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015, pp. 8–11]])
-> - **2020s 至今 — 全球多行动者网络与[[Governing at a Distance|远处治理]]** [[PISA]] 影响的超国家—国家—内部行动者网络三层政策转译机制模型确立；Klerides 追溯理性主义比较教育中引入 ANT 以分析全球治理流动话语与基准测评远处治理的黑箱。(引自 [[Argument_Li_2025_HSSC|Li et al., 2025, p. 6]] 与 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> - **2020s 至今 — 全球多行动者网络与[[Governing at a Distance|远处治理]]** [[PISA]] 影响的超国家—国家—内部行动者网络三层政策转译机制模型确立；Klerides 追溯[[Rationalism in International Relations|理性主义]]比较教育中引入 ANT 以分析全球治理流动话语与基准测评远处治理的黑箱。(引自 [[Argument_Li_2025_HSSC|Li et al., 2025, p. 6]] 与 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 ---
 
@@ -180,4 +181,4 @@ updated: 2026-07-09
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]] — 使用 ANT 框架分析阿根廷 [[Conectar Igualdad|PCI]] 数字教育项目的微观课堂[[Assemblage|组装]]，揭示了跨国企业商业权力绕过国家政策控制直接作用于教学空间的轨迹，为政策流通的关系空间转向提供论据。
 > - [[Argument_Li_2025_HSSC|Li et al., 2025]] — 将 ANT 置于内部行动者网络机制层面，解释国家内部多元[[Policy Network|政策网络]]如何以多行动者博弈和[[Transfer Translation Transformation|转译]]传递全球 [[PISA]] 信息。
-> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 追溯理性主义比较教育传统中引入 ANT，以分析全球教育治理中流动话语、政策图景与数据[[Governing at a Distance|远处治理]]的作用。
+> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 追溯[[Rationalism in International Relations|理性主义]]比较教育传统中引入 ANT，以分析全球教育治理中流动话语、政策图景与数据[[Governing at a Distance|远处治理]]的作用。

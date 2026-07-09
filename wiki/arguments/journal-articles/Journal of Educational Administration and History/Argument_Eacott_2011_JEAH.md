@@ -9,7 +9,7 @@ title: "Argument_Eacott_2011_JEAH"
 argument_key: "Argument_Eacott_2011_JEAH"
 argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Doxa]]"
   - "[[Document]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
 related_theories: []
@@ -91,7 +92,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 Eacott 论证 NSW 的校长培养方案（'principal preparation programme', 'highly effective leaders', 'great leaders, great teams, great results'）——大部分在 Scott 的 *Learning Principals*(2003)报告后建立——体现了一种特定的领导力 [[Doxa]](p.49-50)：
 
 1. **证据本位决策（evidence-based strategies）** Scott 宣称需要"来自稳健研究的证据本位策略"。English(2003)论证证据本位决策实际上"使学校变蠢"（dumbs down schools），因为教学被简化为数字，"什么重要实际上由所选择的问题决定"(p.50)
-2. **技术-理性主义（techno-rationalist approaches）** 改进通过一系列逻辑增量实现。这种 doxa"未能充分参与社会生活的复杂性以及人与组织互动的涨落"(p.50)。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"(p.57)
+2. **技术-[[Rationalism in International Relations|理性主义]]（techno-rationalist approaches）** 改进通过一系列逻辑增量实现。这种 doxa"未能充分参与社会生活的复杂性以及人与组织互动的涨落"(p.50)。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"(p.57)
 3. **理论与实践的工具性二分** Scott 主张领导力培养应"持续将理论与实践联系起来"——暗示二者分离存在。所谓"理论"仅指"教育管理者的知识专业化和问题解决工具"，而非"理解[[School Leadership|学校领导力]]现象的理论"(p.51)
 
 ### 第二步：立法和专业标准将校长固化为"交付者"
@@ -124,7 +125,7 @@ Eacott 提出(p.56-58)：
 
 1. NSW 公立学校系统的校长培养方案体现了教育[[Champ|场域]]被经济和政治场域渗透的系统性削弱——"校长培养不过是当代国家对公共部门管理主义干预的一部分"(p.45)
 2. [[School Leadership|学校领导力]] [[Doxa]] 通过学校本位规划、择优晋升、领导力能力框架和竞争性入学等结构安排，将校长身份建构为"国家改革的交付者"(p.45, 52)
-3. 证据本位实践和技术-理性主义方法构成了这一 doxa 的核心，但 English 论证其"使学校变蠢"——将教学简化为数字，消除了对"谁决定什么是重要的"这一问题的追问(p.50)
+3. 证据本位实践和技术-[[Rationalism in International Relations|理性主义]]方法构成了这一 doxa 的核心，但 English 论证其"使学校变蠢"——将教学简化为数字，消除了对"谁决定什么是重要的"这一问题的追问(p.50)
 4. 校长位于多重社会场域交叉点的独特社会空间——向内看（教育实践本身的目的）与向外看（经济和政治的成功衡量）之间的持续张力导致[[Habitus|习性]]"被分裂为对抗自身"(p.48-49)
 5. 替代方案需要一种基于"教育问题提出与争辩"的领导习性——引入参与者"加入世界对话"，这要求跨边界（地理和场域）的阅读(p.57-58)
 

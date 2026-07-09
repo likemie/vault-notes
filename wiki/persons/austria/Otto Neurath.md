@@ -8,7 +8,7 @@ summary: "奥地利哲学家、社会学家和经济学家，维也纳学派核�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Falsification]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Value Neutrality]]"
   - "[[Postpositivism]]"
   - "[[Science and Technology Studies]]"
@@ -54,7 +55,7 @@ updated: 2026-07-04
 > - **代表贡献** [[Duhem-Quine Thesis|不完全决定性论题]]发展史中的关键链接；反基础主义的实证主义科学哲学；ISOTYPE（国际图画语言）视觉教育系统的发明。
 
 > [!citation-card]- 人物定位的关键来源
-> 纽拉特现在被认可为迪昂和蒯因之间的连接人物，其纽拉特原则是迪昂整体论的延伸。纽拉特反对他所谓的伪理性主义（pseudo-rationalism）——一种赋予科学大厦不应得的认识论地位（伪基础）的态度。同时，他明确主张一种政治上介入的科学哲学——尽管他是一位彻底的实证主义哲学家。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
+> 纽拉特现在被认可为迪昂和蒯因之间的连接人物，其纽拉特原则是迪昂整体论的延伸。纽拉特反对他所谓的伪[[Rationalism in International Relations|理性主义]]（pseudo-rationalism）——一种赋予科学大厦不应得的认识论地位（伪基础）的态度。同时，他明确主张一种政治上介入的科学哲学——尽管他是一位彻底的实证主义哲学家。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 >
 > *Neurath is now acknowledged as a linking figure between Duhem and Quine, and his Neurath-principle as an extension of Duhemian holism. Neurath raised strong objections against what he called pseudo-rationalism (at its core a problem of dogmatism), the attitude that granted the edifice of science an undeserved epistemic status: pseudo-foundations. At the same time he explicitly argued for a politically engaged philosophy of science – while being a positivist philosopher to the bone.*
 

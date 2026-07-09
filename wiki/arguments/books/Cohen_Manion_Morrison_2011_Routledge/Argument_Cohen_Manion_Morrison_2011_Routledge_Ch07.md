@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Construct]]"
   - "[[Research Scope]]"
+  - "[[Realism in International Relations]]"
   - "[[Front-loaded and End-loaded Research]]"
   - "[[Research Utilization]]"
   - "[[Reliability]]"
@@ -311,7 +312,7 @@ updated: 2026-07-08
 > - **连锁三（信息来源）** 可能只有时间采访少数人
 > - **连锁四（焦点数量）** 有些焦点需要长时间收集相关数据
 > - **连锁五（报告）** 可能只有时间产出一份中期报告
-> - **效果** 通过澄清时间尺度，向研究注入宝贵的现实主义，使可行性问题得以回答（pp.123–124）
+> - **效果** 通过澄清时间尺度，向研究注入宝贵的[[Realism in International Relations|现实主义]]，使可行性问题得以回答（pp.123–124）
 
 ---
 

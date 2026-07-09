@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -31,7 +31,9 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Methodological Nationalism]]"
   - "[[Methodological Educationism]]"
+  - "[[Realism in International Relations]]"
   - "[[Policy Borrowing]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[PISA Shock]]"
   - "[[Governing by Numbers]]"
@@ -112,8 +114,8 @@ updated: 2026-07-09
 
 > [!spectrum] 国际政治理论透镜下的经合组织
 >
-> - **现实主义** OECD与比较教育被解构为服务于主权国家地缘竞争的工具。在冷战时期，OECD作为西方阵营的制度工具以应对美苏霸权竞争、拉拢第三世界；在后冷战时期，[[PISA]]等国际测评则成为国家评估自身实力、应对外部竞争焦虑并实施[[Policy Borrowing|政策借用]]的工具。
-> - **理性主义** OECD是多边协调和中立治理的成功样板。其构建的“国际认知共同体”以无约束力的数据排名引发同行压力，在不侵犯国家主权的前提下实现了全球政策协调；但也被批评用去政治化的技术指标遮蔽了地缘统治的权力不对称。
+> - **[[Realism in International Relations|现实主义]]** OECD与比较教育被解构为服务于主权国家地缘竞争的工具。在冷战时期，OECD作为西方阵营的制度工具以应对美苏霸权竞争、拉拢第三世界；在后冷战时期，[[PISA]]等国际测评则成为国家评估自身实力、应对外部竞争焦虑并实施[[Policy Borrowing|政策借用]]的工具。
+> - **[[Rationalism in International Relations|理性主义]]** OECD是多边协调和中立治理的成功样板。其构建的“国际认知共同体”以无约束力的数据排名引发同行压力，在不侵犯国家主权的前提下实现了全球政策协调；但也被批评用去政治化的技术指标遮蔽了地缘统治的权力不对称。
 > - **[[Revolutionism|革命主义]]** OECD被判定为“知识新帝国”与“平庸帝国主义”的最新化身。去殖民学者指出，OECD通过输出结果导向的 neoliberal 效率标准，强制将教育与资本主义积累绑定，以大数据的日常循环再生产对非西方的他者化。
 
 > [!tension] [[Governing at a Distance|远处治理]]的合法性争议

@@ -10,7 +10,7 @@ title: "Argument_Ryan_2010_HKUP"
 argument_key: "Argument_Ryan_2010_HKUP"
 argument_display_title: "International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Paradigm]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
@@ -72,7 +73,7 @@ citation_aliases:
 
 > [!abstract]
 > 全书未采用单一理论框架，但以下理论资源在各章中不同程度地被调用：
-> - **[[Paul Morris]] 的教育四象限**（学术理性主义、社会经济效率、儿童中心、社会重建）— Schmidt（第 5 章）用于论证价值观为本课程的理论定位(pp.6–7]])
+> - **[[Paul Morris]] 的教育四象限（学术[[Rationalism in International Relations|理性主义]]、社会经济效率、儿童中心、社会重建）**— Schmidt（第 5 章）用于论证价值观为本课程的理论定位(pp. 6–7)
 > - **[[Pierre Bourdieu]] 的认同与语言理论** — Miller（第 7 章）用于分析中国职前教师在澳大利亚的认同与语言问题(p.9]])
 > - **后现代文化[[Paradigm|范式]]** — Wang（第 8 章）引用，认为文化与认同是流动的，一种文化声称优于另一种即为"帝国主义"(p.11]])
 > - **Deveney 的 "[[Fourth Culture|第四文化]]"概念** — Jabal（第 4 章）用于分析在香港[[International Schools|国际学校]]中就读的[[Chinese Learner|中国学习者]]的特殊文化空间(p.5]])

@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 29
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -20,6 +20,8 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
   - "[[International Mind]]"
@@ -70,7 +72,7 @@ updated: '2026-07-08'
 > - **知识位置** 国际关系学派中的英国学派奠基性理论，由马丁·怀特于 1950 年代末提出，并由赫德利·布尔等继承；后由[[Eleftherios Klerides|克莱里德斯]]于 2023 年系统性地移植并发展于比较教育领域。
 
 > [!claim] 核心主张
-> 比较教育在学说、制度和大学建制上均是国际关系的产物与实践。对国际社会性质和政治运作规则的不同底层[[Hypothesis|假设]]（现实主义、理性主义和[[Revolutionism|革命主义]]），塑造了不同的比较教育学术形态、研究路径与[[Agendas of Attention|注意力议程]]。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 417]])
+> 比较教育在学说、制度和大学建制上均是国际关系的产物与实践。对国际社会性质和政治运作规则的不同底层[[Hypothesis|假设]]（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]），塑造了不同的比较教育学术形态、研究路径与[[Agendas of Attention|注意力议程]]。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 417]])
 
 > [!citation-card]- 关键表述
 > 比较教育学者作为“比较教育者”所付诸的实践，本质上取决于他们对国际社会的性质、主要行动者以及国际政治运作法则的底层预设。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 417)]]
@@ -85,8 +87,8 @@ updated: '2026-07-08'
 > 
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | **现实主义（Realism）** | 思想传统 | 马基雅维利传统：视国家为唯一行动者，核心是无政府斗争与“权力”，在比较教育中对应工具性借用与文明化工程。 |
-> | **理性主义（Rationalism）** | 思想传统 | 格劳秀斯传统：视国际社会为存在缺陷的合作体，核心是法律与“权威”，在比较教育中对应远处治理、多边合作与[[International Mind\|国际心智]]。 |
+> | **[[Realism in International Relations\|现实主义]]（Realism）** | 思想传统 | 马基雅维利传统：视国家为唯一行动者，核心是无政府斗争与“权力”，在比较教育中对应工具性借用与文明化工程。 |
+> | **[[Rationalism in International Relations\|理性主义]]（Rationalism）** | 思想传统 | 格劳秀斯传统：视国际社会为存在制度缺陷的合作体，核心是法律与“权威”，在比较教育中对应远处治理、多边合作与[[International Mind\|国际心智]]。 |
 > | **[[Revolutionism\|革命主义]]（Revolutionism）** | 思想传统 | [[Immanuel Kant\|康德]]传统：视政治的终极现实为普遍人类共同体，核心是推翻压迫的“武力”，在比较教育中对应揭露不平等和开辟去殖民的道德解放事业。 |
 > | [[Agendas of Attention\|注意力议程]] | 理论概念 | 决定了比较教育研究中哪些国家、政策和议题是“在场”的，哪些是被选择性忽略而“缺席”的。 |
 > | [[Readings of the Global\|阅读全球]] | 分析工具 | 将全球化及跨国政策流动视为多重文本，三大传统各自构成不同的阅读全球透镜。 |
@@ -97,7 +99,7 @@ updated: '2026-07-08'
 
 > [!proposition-chain] 核心命题一｜比较教育的学术形态由其对国际社会性质的底层政治哲学设定所决定
 > - **前提一** 比较教育并不是中立的技术性科学，其学术建制、期刊编委、学会名称和注意力选择高度受制于变迁的地缘政治秩序 (p. 416)。
-> - **前提二** 怀特的三大传统（现实主义、理性主义和[[Revolutionism|革命主义]]）为理解国际社会的本质提供了三种基本的理想类型，分别以权力、权威和武力为核心驱动力 (p. 417)。
+> - **前提二** 怀特的三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]）为理解国际社会的本质提供了三种基本的理想类型，分别以权力、权威和武力为核心驱动力 (p. 417)。
 > - **推导** 比较教育学者的[[Ontology|本体论]]和方法论偏好本质上是这三种底层国际关系预设在教育领域的折射，对国际社会性质的设想决定了什么值得比较、如何比较以及比较服务于什么目的。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 416–417]])
 
 > [!proposition-chain] 核心命题二｜无政府状态的现实主义[[Hypothesis|假设]]将比较教育塑造成国家实力竞争、地缘自保及殖民剥削的实用工具
@@ -165,7 +167,7 @@ updated: '2026-07-08'
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]** 国际社会并非静止的地理空间，而是由权力斗争（现实主义）、法律规则（理性主义）和压迫与解放（[[Revolutionism|革命主义]]）的多重本体建构而成的关系网络。
+> - **[[Ontology|本体论]]** 国际社会并非静止的地理空间，而是由权力斗争（[[Realism in International Relations|现实主义]]）、法律规则（[[Rationalism in International Relations|理性主义]]）和压迫与解放（[[Revolutionism|革命主义]]）的多重本体建构而成的关系网络。
 > - **认识论** 否认存在中立的比较教育学术，任何比较实践都是地缘关系与政治哲学的投影；主张通过话语的“在场”与“缺席”解构学科知识的权力本质。
 > - **方法含义** 要求研究者抛弃[[Methodological Nationalism|方法论国家主义]]，将教育转移与流动的分析放置于超国家资本和地缘支配的宏观格局中；提倡运用历史解构、批判性话语分析和地缘政治分析开展研究。
 > - **不能直接推出的东西** 本理论不提供关于“如何改良教育体系”的直接技术方案，也不提供某种具有普适性的最佳政策转移模式。

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Constructivist Paradigm]]"
   - "[[Emergence]]"
   - "[[Scientism]]"
@@ -292,7 +293,7 @@ updated: 2026-07-08
 > 三种兴趣的边界远比哈贝马斯所画的清晰：诠释知识和实证科学需要互相参照才能理解彼此和判断各自的状态（Hesse, 1982;Bernstein, 1983, p. 33）。在实践中，即使是最技术性的实证研究也依赖研究者对数据的诠释，而最诠释性的[[Qualitative Research|质性研究]]也包含关于因果和规律的隐含主张。
 
 > [!critique-logic] 批评二：意识形态批判与解放之间缺乏被证明的因果链
-> 一个人或社会是否**仅通过**意识形态批判就能获得解放，是经验问题而非逻辑必然（Morrison, 1995a, p. 67）。人们可以通过非意识形态批判的方式获得解放（如经济发展、政治运动、法律改革）；解放的社会未必表现出或要求意识形态批判的意识。相反，**理性主义的意识形态批判本身可能阻碍旨在解放的实际行动（Roderick, 1986, p. 65）** 不断地质询和反思可能使行动者瘫痪于批判中而无法行动。
+> 一个人或社会是否**仅通过**意识形态批判就能获得解放，是经验问题而非逻辑必然（Morrison, 1995a, p. 67）。人们可以通过非意识形态批判的方式获得解放（如经济发展、政治运动、法律改革）；解放的社会未必表现出或要求意识形态批判的意识。相反，**[[Rationalism in International Relations|理性主义]]的意识形态批判本身可能阻碍旨在解放的实际行动（Roderick, 1986, p. 65）** 不断地质询和反思可能使行动者瘫痪于批判中而无法行动。
 
 > [!critique-logic] 批评三：批判理论本身就是意识形态
 > 意识形态批判的倡导本身，可能和它所禁止的方法一样具有意识形态性（Roderick, 1986, p. 65）。哈贝马斯在坚持知识通过兴趣的社会建构这一观点时，也招致了**相对主义**的指控：如果所有知识都由利益构成，那么批判理论自身的知识同样由利益构成，其规范主张并不享有[[Epistemology|认识论]]上的特权。

@@ -8,10 +8,10 @@ summary: "塞浦路斯比较教育与教育史学者，塞浦路斯大学副教�
 type: person
 nationality: cyprus
 person_region: "cyprus"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - field/comparative-education
   - field/history-of-education
@@ -19,6 +19,8 @@ tags:
   - theme/geopolitics
   - region/greece
 related_concepts:
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
   - "[[Paradigm]]"
@@ -54,7 +56,7 @@ updated: 2026-07-08
 > [!person-profile] 人物档案
 > - **身份位置** 塞浦路斯比较教育与教育史学者，塞浦路斯大学（University of Cyprus）副教授。曾任[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe，CESE）秘书长。
 > - **核心角色** 比较教育与国际关系交叉研究的开创性学者。他通过引入[[Wight's Three Traditions of International Theory|国际关系理论]]（特别是马丁·怀特物国际理论三大传统），打破了比较教育长期存在的“去政治化”技术官僚叙事，系统揭示了跨国教育知识流动的地缘政治本质。
-> - **代表贡献** 将怀特国际理论三大传统（现实主义、理性主义、[[Revolutionism|革命主义]]）引入比较教育；提出“[[Agendas of Attention|注意力议程]]”（Agendas of Attention）概念分析学科随地缘变迁的[[Paradigm|范式]]转移。
+> - **代表贡献** 将怀特国际理论三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）引入比较教育；提出“[[Agendas of Attention|注意力议程]]”（Agendas of Attention）概念分析学科随地缘变迁的[[Paradigm|范式]]转移。
 
 ---
 
@@ -70,7 +72,7 @@ updated: 2026-07-08
 ## 核心思想
 
 > [!claim] 核心主张
-> 比较教育的[[Knowledge Production|知识生产]]与议程设置在本质上是国际关系（International Relations，IR）变迁的函数。通过马丁·怀特（Martin Wight）的国际理论三大传统，可以清晰解构比较教育的三种历史形态：现实主义（教育作为国家生存与竞争的工具，驱动政策掠夺与评测竞争）、理性主义（教育作为促进国际规则、相互理解与治理合作的工具）和[[Revolutionism|革命主义]]（教育作为挑战国家权力、追求人类全球正义与知识去殖民化的工具）。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 419–422)]]
+> 比较教育的[[Knowledge Production|知识生产]]与议程设置在本质上是国际关系（International Relations，IR）变迁的函数。通过马丁·怀特（Martin Wight）的国际理论三大传统，可以清晰解构比较教育的三种历史形态：[[Realism in International Relations|现实主义]]（教育作为国家生存与竞争的工具，驱动政策掠夺与评测竞争）、[[Rationalism in International Relations|理性主义]]（教育作为促进国际规则、相互理解与治理合作的工具）和[[Revolutionism|革命主义]]（教育作为挑战国家权力、追求人类全球正义与知识去殖民化的工具）。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 419–422)]]
 
 > [!citation-card]- 经典表述：三大传统与学科重组
 > 译文：对国际社会性质的不同理解使得不同的比较教育研究成为可能；比较教育的[[Agendas of Attention|注意力议程]]总是随着地缘政治与国际关系格局的变迁而转换。

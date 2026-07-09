@@ -8,7 +8,7 @@ aliases:
 summary: "Robert Cowen（2009）提出、Jason Beech（2009）拓展的教育知识流动三阶段分析框架，包括转移（跨境移动）、转译（本土政策重释）与转化（微观实践中受社会权力挤压而产生的结构重塑）"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,6 +27,8 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Floating Signifier]]"
   - "[[Paradigm]]"
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Governance by Spin]]"
   - "[[Encyclopaedism]]"
@@ -127,7 +129,7 @@ updated: 2026-06-24
 >   > [!features] 转移机制与特征
 >   > - **[[Space of Flows and Space of Places|流动空间]]与网络节点** 在跨国[[Network Society|网络社会]]中，教育转移主要发生在“流动空间”（Space of Flows）中，而非单纯的国家地理边界。[[Argument_Beech_2009_CE|Beech, 2009, p. 349]]
 >   > - **[[Performativity|操演性]]驱动与“[[Floating Signifier|漂浮能指]]”** 为追求在网络中的最大可见影响力，具体的教育理念被抽离出特定历史经验，变成语义高度可塑的漂浮能指（Floating Signifier）。
->   > - **国际关系[[Paradigm|范式]]** 转移受现实主义（权力扩散）、理性主义（非线性旅行政策）与[[Revolutionism|革命主义]]（反支配的斗争工具）三大范式塑造。[[Argument_Klerides_2023_CE|Klerides, 2023, pp. 422–427]]
+>   > - **国际关系[[Paradigm|范式]]** 转移受[[Realism in International Relations|现实主义]]（权力扩散）、[[Rationalism in International Relations|理性主义]]（非线性旅行政策）与[[Revolutionism|革命主义]]（反支配的斗争工具）三大范式塑造。[[Argument_Klerides_2023_CE|Klerides, 2023, pp. 422–427]]
 >
 > - **转译 (Translation) — 国家政策重编与话语杂糅**
 >
@@ -154,7 +156,7 @@ updated: 2026-06-24
 > - **1990s–2000s — 转移主题的重新聚焦 (Pre-3T Era)** 近年通过 Schriewer (1990, 2000)、Phillips (1993, 2004)、Popkewitz (1998, 2005) 等人的工作，重新确立了转移主题的重要性，从借用与转移、政治空间与国际权力、以及可见性话语等维度丰富了分析工具，超越了传统的二元成败借用研究。此前，学科曾被“方法论执迷”、“形式定义”与“情境描述”三个惯例分散了注意力，使转移作为理论问题退居幕后。[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 316–317]]
 > - **2009 — Cowen 3T 模型的正式提出 (Theory Formulation)**[[Robert Cowen]] 提出 3T 框架，将转移主题从“借用与否”的二元评价，升级为追踪教育现象在跨境移动中“空间转移、变色龙式转译、权力压缩下的转化”的三阶段过程模型。
 > - **2009 — Beech 的空间与实践拓展 (Empirical Mapping)**[[Jason Beech]] 结合 Castells 的[[Network Society|网络社会]]与[[Space of Flows and Space of Places|流动空间]]理论，将 3T 阶段分别与“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个具体的地理与社会空间进行了实证化映射与拓展。[[Argument_Beech_2009_CE|Beech, 2009, p. 348]]
-> - **2023 — Klerides 的国际关系[[Paradigm|范式]]引入 (Theoretical Expansion)** Klerides 从[[Wight's Three Traditions of International Theory|国际关系理论]]视角拓展 3T 研究，指出教育转移受三大范式塑造：**现实主义**视其为由国家/国际权力等级塑造的单向跨国移动；**理性主义**视其为多方行动者参与的非线性旅行政策与流动话语；**[[Revolutionism|革命主义]]**视其为反支配的阶级斗争工具。[[Argument_Klerides_2023_CE|Klerides, 2023, pp. 422–427]]
+> - **2023 — Klerides 的国际关系[[Paradigm|范式]]引入 (Theoretical Expansion)** Klerides 从[[Wight's Three Traditions of International Theory|国际关系理论]]视角拓展 3T 研究，指出教育转移受三大范式塑造：**[[Realism in International Relations|现实主义]]**视其为由国家/国际权力等级塑造的单向跨国移动；**[[Rationalism in International Relations|理性主义]]**视其为多方行动者参与的非线性旅行政策与流动话语；**[[Revolutionism|革命主义]]**视其为反支配的阶级斗争工具。[[Argument_Klerides_2023_CE|Klerides, 2023, pp. 422–427]]
 
 ---
 
@@ -246,5 +248,5 @@ updated: 2026-06-24
 > - **[[Argument_Cowen_2009_CE|Cowen (2009)]]** 提出 3T 核心[[Analytic Framework|分析框架]]，并使用战后驻日盟军总司令部（GHQ）与美占德国军事政府（OMGUS）对德日改革的移植，以及后殖民地教育重组作为案例予以阐释。
 > - **[[Argument_Beech_2009_CE|Beech (2009)]]** 应用 3T 框架分析拉美地区（巴西、阿根廷）在信息时代下有关能力与多样性的课程改革，引入[[Space of Flows and Space of Places|流动空间]]与网络国家等概念。
 > - **[[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]** 追踪[[John Dewey|杜威]]在中国长达 90 年的四次[[Recontextualization|再脉络化]]，展示了转译与转化阶段的微观过滤与变形机制。
-> - **[[Argument_Klerides_2023_CE|Klerides (2023)]]** 从[[Wight's Three Traditions of International Theory|国际关系理论]]（现实主义、理性主义、[[Revolutionism|革命主义]]）视角拓展了教育转移阶段的分析[[Paradigm|范式]]。
+> - **[[Argument_Klerides_2023_CE|Klerides (2023)]]** 从[[Wight's Three Traditions of International Theory|国际关系理论]]（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）视角拓展了教育转移阶段的分析[[Paradigm|范式]]。
 > - **[[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]** 应用 3T 框架拆解了民国时期杜威民主教育思想在中国的引进、转译折中与政治挤压下走向灭绝的过程。

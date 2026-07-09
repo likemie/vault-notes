@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Emergence]]"
   - "[[Blue Skies Research]]"
+  - "[[Realism in International Relations]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
@@ -277,7 +278,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 教育项目的现实主义[[Causality|因果]]观
+> [!citation-card]- 教育项目的[[Realism in International Relations|现实主义]][[Causality|因果]]观
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（Reasoning）。(p. 7)
 >
 > Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (Pawson, 2006, p. 45)

@@ -10,7 +10,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -20,6 +20,7 @@ tags:
   - theme/institutional-history
   - region/europe
 related_concepts:
+  - "[[Rationalism in International Relations]]"
   - "[[International Mind]]"
   - "[[Soft Power]]"
   - "[[Lifelong Learning]]"
@@ -77,7 +78,7 @@ updated: 2026-07-09
 
 > [!finding-cards] CESE对欧洲学科建制化的深远影响
 > - **专业身份认同与建制化** CESE 的创立是比较教育在欧洲走向成熟的里程碑，使学者拥有了跨国协作的独立学会平台，直接催生了以伦敦大学 IOE 比较教育学系为代表的一批大学专业教席与科系。
-> - **理性主义科学治理范本** 展现了典型的理性主义知识循环机制：国际组织为学者提供学术平台，学者的跨国协作加速学科制度化，而建制化的学科又反过来为超国家组织提供政策决策工具。
+> - **[[Rationalism in International Relations|理性主义]]科学治理范本** 展现了典型的理性主义知识循环机制：国际组织为学者提供学术平台，学者的跨国协作加速学科制度化，而建制化的学科又反过来为超国家组织提供政策决策工具。
 > - **教育民主化改革催化器** 学会搭建的跨国交换平台，系统地引导了战后欧洲中等教育的相互引介与综合化改制（Comprehensive School Reform），将“[[International Mind|国际心智]]”的塑造融合在各国的民主化公共学校系统重构中。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 
 ---

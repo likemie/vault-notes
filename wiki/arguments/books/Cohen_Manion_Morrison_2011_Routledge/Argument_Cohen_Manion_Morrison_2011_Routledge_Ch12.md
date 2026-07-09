@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Reliability]]"
   - "[[Boarding Schools]]"
+  - "[[Realism in International Relations]]"
   - "[[Selectivity]]"
   - "[[External Validity]]"
   - "[[Theoretical Perspective]]"
@@ -252,7 +253,7 @@ updated: 2026-07-09
 > Susan Ellsmore（2005）的进一步研究将分析范围拓展至电影，包括1939年制作的《Goodbye, Mr. Chips》电影版。这一扩展提醒研究者：同一叙事在不同媒介中的呈现方式本身就是分析对象：文字版和电影版在人物塑造、情感强度和视觉意象上的差异，揭示了不同时代和媒介对好教师这一文化原型的差异想象。
 
 > [!warning] 使用小说作为文献来源的注意事项
-> 研究者必须承认并在分析中明示它所依赖的戏剧化和类型化手段（plots and characterization）。现实主义小说对历史学家具有持续吸引力，但学术界对小说作为历史文献来源的使用方式也抱有相当程度的怀疑（Reid, 2009）。关键在于：小说不适合用来证明特定事件的具体经过，但可以用来理解社会对教育者、教育制度和教育经验的文化想象和情感结构。
+> 研究者必须承认并在分析中明示它所依赖的戏剧化和类型化手段（plots and characterization）。[[Realism in International Relations|现实主义]]小说对历史学家具有持续吸引力，但学术界对小说作为历史文献来源的使用方式也抱有相当程度的怀疑（Reid, 2009）。关键在于：小说不适合用来证明特定事件的具体经过，但可以用来理解社会对教育者、教育制度和教育经验的文化想象和情感结构。
 
 #### 个人文献：日记、信件与自传
 

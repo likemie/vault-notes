@@ -37,7 +37,8 @@
               "title": "Argument_Klerides_2023_CE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +206,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "0ec4b7749d7a06eb",
   "lastOpenFiles": [
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md",
+    "wiki/concepts/comparative-education/Rationalism in International Relations.md",
+    "wiki/concepts/comparative-education/Realism in International Relations.md",
+    "wiki/concepts/comparative-education/Rationalism (International Relations).md",
+    "wiki/concepts/comparative-education/Realism (International Relations).md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
     "vault-schema.md",
     "index.md",
     "GEMINI.md",
@@ -225,18 +231,13 @@
     "wiki/arguments/books/Cohen_etal_2011_Routledge/Argument_Cohen_etal_2011_Routledge_Ch13.md",
     "wiki/methods/quantitative/Internet-based Survey.md",
     "wiki/methods/quantitative/Trend Study.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md",
     "wiki/methods/quantitative/Cohort Study.md",
     "wiki/methods/quantitative/Cross-sectional Study.md",
     "wiki/methods/quantitative/Longitudinal Study.md",
     "wiki/arguments/books/Cohen_etal_2011_Routledge",
     "books/Cohen_etal_2011_Routledge/figures",
     "books/Cohen_etal_2011_Routledge",
-    "wiki/concepts/comparative-education/Revolutionism.md",
     "raw/027_13 Surveys, longitudinal, cross-sectional and trend studies.txt",
-    "wiki/methods/qualitative/Documentary Analysis.md",
-    "wiki/concepts/research-methodology/Primary and Secondary Documents.md",
-    "wiki/concepts/political-economy-geopolitics/De-Westernisation.md",
     "raw/026_12 Historical and documentary research in education.txt",
     "wiki/facts/switzerland",
     "scripts/hooks/pre-commit",

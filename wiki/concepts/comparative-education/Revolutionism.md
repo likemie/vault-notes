@@ -8,7 +8,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Kant 思想），将政治的终极现实视为普遍人类共同体而非国家间关系，以“武力”为推翻旧秩序的必要手段。在比较教育中，它塑造了以揭露不平等和开辟解放可能性为使命的道德事业形态，涵盖 1970 年代的新马克思主义依附论以及当代的后殖民与去殖民批判。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,8 @@ tags:
   - theme/colonialism
   - region/global
 related_concepts:
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Epistemological Break]]"
   - "[[Epistemology]]"
   - "[[Revoicing]]"
@@ -56,7 +58,7 @@ updated: 2026-07-09
 ## 定义
 
 > [!def] 核心定义
-> 革命主义（Revolutionism，亦称[[Immanuel Kant|康德]]传统 Kantian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory|国际关系三大传统]]中的变革性维度。与关注国家实力的现实主义和关注超国家制度的理性主义不同，革命主义将政治的终极现实置于个人与社会群体之间。它预设存在一个**普遍的人类共同体（universal human community）**，其终极实现要求打破传统的国家主权樊篱，“将国际社会硬化、界定并构建为一个世界国家（worldstate）或超国家”。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 418]])
+> 革命主义（Revolutionism，亦称[[Immanuel Kant|康德]]传统 Kantian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory|国际关系三大传统]]中的变革性维度。与关注国家实力的[[Realism in International Relations|现实主义]]和关注超国家制度的[[Rationalism in International Relations|理性主义]]不同，革命主义将政治的终极现实置于个人与社会群体之间。它预设存在一个**普遍的人类共同体（universal human community）**，其终极实现要求打破传统的国家主权樊篱，“将国际社会硬化、界定并构建为一个世界国家（worldstate）或超国家”。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 418]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 视国际政治为被统治-统治、压迫-抗争、解放-顺从所撕裂的道德冲突斗争，旨在彻底颠覆现存秩序，而非渐进改良。
@@ -76,7 +78,7 @@ updated: 2026-07-09
 ## 概念辨析
 
 > [!contrast-table] 关键理论构件对照表
-> | 维度 | Revolutionism (革命主义) | [[Wight's Three Traditions of International Theory\|Realism (现实主义)]] | [[Wight's Three Traditions of International Theory\|Rationalism (理性主义)]] |
+> | 维度 | Revolutionism (革命主义) | [[Realism in International Relations\|Realism (现实主义)]] | [[Rationalism in International Relations\|Rationalism (理性主义)]] |
 > |------|------------------------|------------------|---------------------|
 > | **行动主体** | 个体与跨国社会阶级（如中心/边缘）。 | 主权国家实体。 | 国家与超国家组织（如 [[OECD]]）。 |
 > | **核心概念** | 武力（Force/革命变革力量）。 | 权力（Power/国家实力与利益）。 | 权威（Authority/道德与合法规则）。 |
@@ -141,7 +143,7 @@ updated: 2026-07-09
 > > [!axis] 解放的传教激情 vs 强制的霸权再生产
 > > 争论革命主义消除人类苦难的强烈道德主张，究竟是带给边缘群体[[Epistemology|认识论]]上的彻底解放，还是包装了另一套普遍主义支配。
 > > - **革命/去殖民学者** 坚信必须斩断殖民羁绊，以道德博爱和南南方言重夺知识主权。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 427]])
-> > - **理性与现实主义学者** 指出革命主义由于其强烈的“传教士本性”，极易陷入二分法的狂热简化（将世界粗暴划分为信徒与阻碍者），在历史上已多次沦为极权统治的工具，忽视了非西方帝国主义同样具有压迫性的事实。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 419, 430]])
+> > - **理性与[[Realism in International Relations|现实主义]]学者** 指出革命主义由于其强烈的“传教士本性”，极易陷入二分法的狂热简化（将世界粗暴划分为信徒与阻碍者），在历史上已多次沦为极权统治的工具，忽视了非西方帝国主义同样具有压迫性的事实。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 419, 430]])
 
 ---
 

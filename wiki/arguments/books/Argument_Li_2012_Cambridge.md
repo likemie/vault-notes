@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 120
+argument_related_count: 121
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Metacognition]]"
   - "[[Causality]]"
   - "[[Examined Life]]"
@@ -500,7 +501,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 "认识世界"只是回答了什么值得认识，但没有回答**怎么知道我们认识的是对的**。第二个主题处理的就是这个问题。
 
 > [!abstract] 核心命题
-> 西方传统发展了一整套**论证工具**来确保人类能够获得确定的知识：逻辑、数学、演绎推理。这套工具箱的信念基础是**理性主义（rationalism）**——世界是有秩序的，人类可以通过理性来理解它(p.34)。
+> 西方传统发展了一整套**论证工具**来确保人类能够获得确定的知识：逻辑、数学、演绎推理。这套工具箱的信念基础是**[[Rationalism in International Relations|理性主义]]（rationalism）**——世界是有秩序的，人类可以通过理性来理解它(p.34)。
 
 > [!example] 逻辑与数学的结合
 > Li 引用罗素的话来说明数学在西方知识传统中的独特地位(pp.34-35)：

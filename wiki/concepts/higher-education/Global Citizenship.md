@@ -10,7 +10,7 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Re-Westernisation]]"
   - "[[Revolutionism]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Revoicing]]"
@@ -122,7 +123,7 @@ updated: 2026-07-09
 > 这一命题关注全球公民概念在跨国流通中如何被超国家组织塑造成一种中立客观的普世话语，但实质上充当了全球新自由主义经济教义的“受教育者身份”掩护。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **模糊性与[[Re-Westernisation|再西方化]]载体** 从国际关系视角的[[Revolutionism|革命主义]]传统指出，全球公民在理性主义话语中被视作挑战国民国家桎梏的国际主义概念，但由于缺乏精确性而成为掩盖霸权的“模糊概念”；在革命主义看来，它往往被新自由主义教义重新定义，与全球竞争力、雇主利益深度绑定，并在实质上成为了推动西方新自由主义普世学校模型输出与再西方化（re-Westernisation）地缘政治战略的隐性载体。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 425–429]])
+> **模糊性与[[Re-Westernisation|再西方化]]载体** 从国际关系视角的[[Revolutionism|革命主义]]传统指出，全球公民在[[Rationalism in International Relations|理性主义]]话语中被视作挑战国民国家桎梏的国际主义概念，但由于缺乏精确性而成为掩盖霸权的“模糊概念”；在革命主义看来，它往往被新自由主义教义重新定义，与全球竞争力、雇主利益深度绑定，并在实质上成为了推动西方新自由主义普世学校模型输出与再西方化（re-Westernisation）地缘政治战略的隐性载体。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 425–429]])
 
 ---
 
@@ -208,5 +209,5 @@ updated: 2026-07-09
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 在博士教育层面的七域[[Graduate Attributes|毕业生特质]]分类中[[Revoicing|重铸]]了该域，细化了由环境素养、文化理解和全球视野构成的实证评估赤字。
 > - [[Argument_Wong_2022_HERD|Wong et al. (2022)]] — 检视了英国高校本科毕业生特质话语，指出了全球公民话语的极高纸面覆盖度与其极低的环境、外语应用度之间的张力。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 从 Wight 的三个传统理论深度剖析了该概念，指出了其在理性主义中的国际社会强化逻辑与在[[Revolutionism|革命主义]]中的地缘政治[[Re-Westernisation|再西方化]]实质。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 从 Wight 的三个传统理论深度剖析了该概念，指出了其在[[Rationalism in International Relations|理性主义]]中的国际社会强化逻辑与在[[Revolutionism|革命主义]]中的地缘政治[[Re-Westernisation|再西方化]]实质。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 提到了多边组织将跨国非政府组织（NGO）视为新兴“全球公民社会”的代表以谋求合法性的宏观政策逻辑。

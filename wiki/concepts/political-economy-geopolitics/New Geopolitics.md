@@ -6,7 +6,7 @@ aliases:
 summary: "20世纪90年代以来以批判地缘政治为代表的一系列地缘政治理论范式，采取建构主义立场，将空间理解为流动的社会建构，将知识置于地缘政治分析的中心"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Governmentality]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Realism in International Relations]]"
 related_theories:
   - "[[Critical Geopolitics]]"
 related_methods: []
@@ -71,7 +72,7 @@ updated: 2026-06-26
 > | 维度 | 新地缘政治 | [[Classical Geopolitics]] / 传统地缘政治 |
 > |------|-----------|------------------------------------------|
 > | [[Ontology\|本体论]]位置 | 观念—科学端 | 物质—实践端 |
-> | [[Theoretical Standpoint\|理论立场]] | [[Constructivist Paradigm\|建构主义]] | 现实主义 |
+> | [[Theoretical Standpoint\|理论立场]] | [[Constructivist Paradigm\|建构主义]] | [[Realism in International Relations\|现实主义]] |
 > | 空间观 | 流动的社会建构；通过话语实践持续生产 | 可测量、可分割、可占有的客观地理实体 |
 > | 权力形式 | [[Knowledge Production\|知识生产]]、话语建构、规范制定与日常治理 | 军事力量、安全能力、领土控制 |
 > | 行动主体 | 多层级行动者网络（国家、机构、组织、个体） | 民族国家（唯一主体） |

@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "curriculum"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Constructivist Paradigm]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Realism in International Relations]]"
   - "[[Discipline-Based Theory]]"
   - "[[Didaktik]]"
   - "[[Reflexivity]]"
@@ -89,7 +90,7 @@ updated: '2026-06-21'
 > [!term] 知识结构辨析：[[Disciplina and Doctrina|disciplina]] 与 Doctrina
 > - **Disciplina（学科/纪律）** 词源学上强调“灌输知识的方法”及中世纪“训诫、纠错与惩戒”含义。它属于“寄存已发现知识的地方”，而非“动态的知识产出系统”。过度偏重 `disciplina` 易导致知识僵化和外部控制。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 > - **Doctrina（教导的动态发展）** 侧重于知识进一步更新与演进的可能性与需求，旨在使成熟知识与不确定未来及开放世界连接。
-> - **跨学科深度的关键（[[Critical Realism]] 视角）** 批判现实主义主张，[[Discipline-Based Theory|学科理论]]是人类探索生活世界不同现象过程中沉淀出的理论秩序，具备自身的本体论深度（Ontological depth）。PhBL 并非通过消解学科来减负，而是通过“现象”将 `disciplina` 与 `doctrina` 有机整合。
+> - **跨学科深度的关键（[[Critical Realism]] 视角）** 批判[[Realism in International Relations|现实主义]]主张，[[Discipline-Based Theory|学科理论]]是人类探索生活世界不同现象过程中沉淀出的理论秩序，具备自身的本体论深度（Ontological depth）。PhBL 并非通过消解学科来减负，而是通过“现象”将 `disciplina` 与 `doctrina` 有机整合。
 
 > [!boundary]- 概念边界与关联
 > - **有别于PBL（问题导向学习）** PBL 扎根于认知心理学，以解决特定预设问题为导向；而 PhBL 奠基于现象学、教化哲学与教学论传统，从生活世界体验的“现象”本身出发。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8]]

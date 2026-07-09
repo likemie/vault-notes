@@ -5,7 +5,7 @@ aliases:
 summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织。在理性主义比较教育中，该理论解释了教育系统在世界社会同质化压力下的自我参照与本国折射机制；在后人类主义教育学中，它与共同制造（Sympoiesis）相对，作为分析系统自组织涌现、去中心化转型与防范知识殖民的重要理论资源。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
   - "[[Response-ability]]"
+  - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Transition Design]]"
@@ -184,4 +185,4 @@ updated: 2026-07-09
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Amos_2022_Springer|Amos, 2022]] — 以 autopoiesis/[[Sympoiesis]] 的对照作为晚期现代性教育愿景的分析资源。
-> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 追溯了 1990 年代起自创生与[[Luhmann's Systems Theory|系统理论]]如何引入比较教育理性主义传统中用以解释外部化与折射抵抗。
+> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 追溯了 1990 年代起自创生与[[Luhmann's Systems Theory|系统理论]]如何引入比较教育[[Rationalism in International Relations|理性主义]]传统中用以解释外部化与折射抵抗。

@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Postpositivism]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Postmodernism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Powerful Knowledge]]"
@@ -154,7 +155,7 @@ citation_aliases:
 
 **「严格折衷主义」的传统**
 - Clark (2004) 在 2007 年课程发布前就对教育部的方法提出担忧，认为其缺乏「基本的总体中心哲学」
-- Kelly 称之为「严格折衷主义」（rigorous eclecticism）（引自 Clark, 2004, p.130）：课程借鉴了认识论差异很大的多种方法（[[Postpositivism|后实证主义]]实在论、工具理性主义、[[Postmodernism|后现代主义]]、进步主义、建构主义），这些方法之间存在潜在矛盾
+- Kelly 称之为「严格折衷主义」（rigorous eclecticism）（引自 Clark, 2004, p.130）：课程借鉴了认识论差异很大的多种方法（[[Postpositivism|后实证主义]]实在论、工具[[Rationalism in International Relations|理性主义]]、[[Postmodernism|后现代主义]]、进步主义、建构主义），这些方法之间存在潜在矛盾
 - 二十年后，课程改革仍在延续这种折衷方法
 
 **新自由主义和建构主义对知识理解的改变(Lourie, 2020)**

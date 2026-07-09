@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,8 @@ tags:
   - region/us
 related_concepts:
   - "[[International Education]]"
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Paradigm]]"
   - "[[Development Turn in Comparative Education]]"
@@ -64,7 +66,7 @@ updated: 2026-07-09
 > - **1956 — 比较教育学会（CES）在美成立** 伴随着战后比较教育学在大学中专业化网络的发展，美国学者在纽约正式创立“比较教育学会（CES）”，以推动国家间公共教育制度的对比研究。
 > - **1950s–1960s — 深度融入对外开发援助网络** 受到冷战意识形态动员及美国“[[Economics of Education Movement|教育经济学运动]]”的扩散驱使，学会会员大量出任美援项目及地中海区域项目的专家顾问，比较教育学术研究与实务干预的界线趋于模糊。
 > - **1969 — “国际”词汇的植入与正式更名** 学会决议在名称中加入“International”一词，更名为“比较与[[International Education|国际教育]]学会（CIES）”，象征着学术共同体对多边开发援助议程的正式制度化对接。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
-> - **1970s 至今 — 全球最大比较教育学社的发展** 学会规模与全球影响力迅速扩张，出版旗舰学术期刊《比较教育评论》（Comparative Education Review，CER），成为现实主义、理性主义和[[Revolutionism|革命主义]]（去殖民）等多维学术[[Paradigm|范式]]博弈的核心论坛。
+> - **1970s 至今 — 全球最大比较教育学社的发展** 学会规模与全球影响力迅速扩张，出版旗舰学术期刊《比较教育评论》（Comparative Education Review，CER），成为[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]（去殖民）等多维学术[[Paradigm|范式]]博弈的核心论坛。
 
 ---
 

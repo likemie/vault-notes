@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -47,6 +47,8 @@ related_concepts:
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Research Question]]"
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Discipline-Based Theory]]"
   - "[[Academic Freedom]]"
@@ -299,7 +301,7 @@ citation_aliases:
 > - **Maren Elfert (2023)**
 >   **国际组织的知识政治**<br>分析联合国教科文组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）和[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）之间从早期的人文主义承诺向现代数据化绩效治理的转变。Elfert 揭示了国际组织如何通过知识政治（politics of knowledge）将教育政策简化为可测量的技术性指标，脱离了传统的民主教育关切。(Elfert, 2023)
 > - **[[Eleftherios Klerides]] (2023)**
->   **[[Wight's Three Traditions of International Theory|国际关系理论]]的重新引入**<br>引入 Martin Wight 的经典国际关系理论三大传统（现实主义、理性主义、[[Revolutionism|革命主义]]），论证不同时代比较教育的重心和话语体系实际上受地缘政治秩序演变的支配，为[[Discipline-Based Theory|学科理论]]工作提供跨学科的新解释框架。([[Argument_Klerides_2023_CE|Klerides, 2023]])
+>   **[[Wight's Three Traditions of International Theory|国际关系理论]]的重新引入**<br>引入 Martin Wight 的经典国际关系理论三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]），论证不同时代比较教育的重心和话语体系实际上受地缘政治秩序演变的支配，为[[Discipline-Based Theory|学科理论]]工作提供跨学科的新解释框架。([[Argument_Klerides_2023_CE|Klerides, 2023]])
 > - **Terri Seddon (2023)**
 >   **去殖民化与行星关切**<br>讲述哈萨克斯坦等国在面对俄罗斯、中国和西方资本的多重挤压下开展的微妙但坚韧的去殖民化实践。Seddon 批评当代比较教育过度科学化，丧失了对行星关切（planetary concerns）的敏感，抹去了行动个体的复杂性。(Seddon, 2023)
 

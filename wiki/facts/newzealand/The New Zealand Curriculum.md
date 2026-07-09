@@ -8,7 +8,7 @@ subtype: policy
 region: newzealand
 fact_region: "newzealand"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Postmodernism]]"
   - "[[Constructivist Paradigm]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 > [!info] 背景
 > 新西兰在 1989–1999 年经历了以行政管理改革为主的 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 改革后，发现结构性变革不足以解决教育质量问题。改革评估显示 87% 校长认为政府资金不足、工作量增加、校际竞争加剧、教育质量不平等([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.120]])。这为推动以教与学关系为核心的课程改革提供了动力。
 >
-> 在 2007 年课程发布之前，Clark (2004) 就对教育部的课程开发方法提出了担忧，认为其缺乏「基本的总体中心哲学」，而是被 Kelly 称为「严格折衷主义」（rigorous eclecticism）——课程借鉴了[[Epistemology|认识论]]差异很大的多种方法（[[Postpositivism|后实证主义]]实在论、工具理性主义、[[Postmodernism|后现代主义]]、进步主义、[[Constructivist Paradigm|建构主义]]），这些方法之间存在潜在矛盾（Clark, 2004, 引自 [[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）。
+> 在 2007 年课程发布之前，Clark (2004) 就对教育部的课程开发方法提出了担忧，认为其缺乏「基本的总体中心哲学」，而是被 Kelly 称为「严格折衷主义」（rigorous eclecticism）——课程借鉴了[[Epistemology|认识论]]差异很大的多种方法（[[Postpositivism|后实证主义]]实在论、工具[[Rationalism in International Relations|理性主义]]、[[Postmodernism|后现代主义]]、进步主义、[[Constructivist Paradigm|建构主义]]），这些方法之间存在潜在矛盾（Clark, 2004, 引自 [[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）。
 
 ## 政策文本摘要
 

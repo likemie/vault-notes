@@ -5,7 +5,7 @@ aliases:
 summary: "以主观意识和直接经验为核心的哲学传统，关注意识如何主动赋予世界意义，是诠释范式的三大研究传统之一。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Causality]]"
   - "[[Research Question]]"
+  - "[[Realism in International Relations]]"
   - "[[Discipline-Based Theory]]"
   - "[[Operationalization]]"
   - "[[Transfer Translation Transformation]]"
@@ -148,7 +149,7 @@ updated: 2026-07-08
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 个体的深层意识体验、生活世界经验、复杂的反思与自我意识重构、教学中的情感和主体互动，以及对课程政策的哲学与规范性批判。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]]
-> - **谨慎使用** 在探讨大规模、宏观社会制度的结构性变迁或资源分配等问题时，需要辅之以批判现实主义（[[Critical Realism]]）或社会学结构理论，以补充对学科[[Ontology|本体论]]深度及客观制约条件的考量。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
+> - **谨慎使用** 在探讨大规模、宏观社会制度的结构性变迁或资源分配等问题时，需要辅之以批判[[Realism in International Relations|现实主义]]（[[Critical Realism]]）或社会学结构理论，以补充对学科[[Ontology|本体论]]深度及客观制约条件的考量。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 > - **不适合解释** 需要精确量化、进行[[Causality|因果]]控制实验的认知负荷、学习效率提升百分比等技术性问题。
 > - **常见误用** 将现象学理解为纯粹的“极端唯我主义”（认为没有客观现实），或者在教育实践中将其降维为没有任何[[Discipline-Based Theory|学科理论]]深度的“感官活动拼盘”，或者试图将现象学式的反思过程强行编制为标准化、可测量的技能技能点考核。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 5, 10]]
 
@@ -178,7 +179,7 @@ updated: 2026-07-08
 >
 > > [!axis] 唯我主义与[[Discipline-Based Theory|学科理论]]深度的张力
 > > 外部批评指出，过度沉溺于主体意识的直接呈现可能滑向主观唯我论，忽视外部实在的结构限制和系统知识的深度。
-> > - **Wheelahan 于 2012 年** 从批判现实主义出发，指出跨学科与现象探究不可削弱学科自身的理论深度与本体秩序，否则将阻碍学生获得深层系统性知识。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
+> > - **Wheelahan 于 2012 年** 从批判[[Realism in International Relations|现实主义]]出发，指出跨学科与现象探究不可削弱学科自身的理论深度与本体秩序，否则将阻碍学生获得深层系统性知识。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 
 > [!critique]- 批评索引
 > - [[Argument_Larsen_2019_EducSci|Larsen, 2019]] — 批判“可见学习”（[[Visible Learning]]）范式对学习可见性的盲目假定，指出其违背了现象学的自由本质、[[Neuroplasticity|神经可塑性]]与 [[Bildung]] 教化哲学。

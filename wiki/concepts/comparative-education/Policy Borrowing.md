@@ -5,7 +5,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -26,9 +26,11 @@ related_concepts:
   - "[[Pre-Transfer Agency]]"
   - "[[Reference Society]]"
   - "[[Governing at a Distance]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Re-Westernisation]]"
   - "[[Orientalism]]"
   - "[[Analytic Framework]]"
+  - "[[Realism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Government to Governance Shift]]"
   - "[[Methodological Nationalism]]"
@@ -202,7 +204,7 @@ updated: '2026-07-08'
 > **“方案先行、问题后建”的社会建构** 政策借用过程遵循“逆向技术流”：决策者并非在发现技术问题后寻找国际经验，而是往往在引入国际参考之前，已在国内秘密确立了偏好的“解决方案”。随后，为了合法化该既定方案，政府才在官方修辞中建构特定的本土“体系陈旧”或“教育质量危机”问题，使该方案显得具有不可避免的合理性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])
 
 > [!claim] Klerides, E.
-> **[[Governing at a Distance|远处治理]]的技术中介** 在理性主义多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使“远处治理”（governing from a distance）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> **[[Governing at a Distance|远处治理]]的技术中介** 在[[Rationalism in International Relations|理性主义]]多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使“远处治理”（governing from a distance）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 ---
 
@@ -255,7 +257,7 @@ updated: '2026-07-08'
 > - **2006 — 跨国吸引力情境地图** Rappleye 提出推拉力情境概念地图，理清了[[Pre-Transfer Agency|前转移能动性]]与多层次结构因素的作用机制。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006]])
 > - **2009 — 形态变异理论主张** Cowen 建立“转移—[[Transfer Translation Transformation|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。([[Argument_Cowen_2009_CE|Cowen, 2009]])
 > - **2012 — 政治借用与实质学习的系统区隔** Steiner-Khamsi 系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
-> - **2023 — 怀特三大传统地缘解构** Klerides 将[[Wight's Three Traditions of International Theory|国际关系三大传统]]（现实主义、理性主义和[[Revolutionism|革命主义]]）引入政策借用研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。([[Argument_Klerides_2023_CE|Klerides, 2023]])
+> - **2023 — 怀特三大传统地缘解构** Klerides 将[[Wight's Three Traditions of International Theory|国际关系三大传统]]（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]）引入政策借用研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。([[Argument_Klerides_2023_CE|Klerides, 2023]])
 > - **2025 — 威权/高压政治语境下的分析失效边界** 政策借用作为合法化工具的理论适用性被明确界定在“半开放协商政治”的权力边界内，高压威权与行政命令直接接管的现象为该框架确立了失效边界。([[Argument_Yan_2025_JCS|Yan & Morris, 2025]])
 
 ---

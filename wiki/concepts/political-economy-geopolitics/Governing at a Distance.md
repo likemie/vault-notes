@@ -10,7 +10,7 @@ aliases:
 summary: "权力不依赖直接命令或物理在场，而是通过重塑话语、想象、评估技术与自我导向机制在“远处”组织并塑造行为的治理空间机制。在教育全球治理中，它表现为超国家组织（如 OECD）借助标准化测评（如 PISA）和数据基准对主权国家政策进行的去政治化软性规训与交付。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Policy Entrepreneur]]"
   - "[[Governing by Numbers]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Re-Westernisation]]"
 related_theories: []
@@ -137,7 +138,7 @@ updated: 2026-07-09
 >
 > > [!axis] 技术效能工具 vs 霸权权力隐藏
 > > 争论远处治理输出的标准化数据是促进国际合作的“中立技术”，还是隐藏西方地缘政治主导权的“政治伪装”。
-> > - **理性主义传统学者** 认为远处治理提供的数据比对能促进分散权威下的多边秩序协调，为发展中国家发现政策赤字提供中立工具。
+> > - **[[Rationalism in International Relations|理性主义]]传统学者** 认为远处治理提供的数据比对能促进分散权威下的多边秩序协调，为发展中国家发现政策赤字提供中立工具。
 > > - **[[Revolutionism|革命主义]]传统学者** 指出这在科学性掩护下掩盖了不平等权力关系的运作，使“科学数据”成为[[Re-Westernisation|再西方化]]战略和跨国资本掠夺的免责护身符。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 > [!warning] 适用局限
@@ -148,5 +149,5 @@ updated: 2026-07-09
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 系统梳理了分散权威空间下基准数据和 [[PISA]] 测验作为理性主义比较教育远处治理政治手段的发展史。
+> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 系统梳理了分散权威空间下基准数据和 [[PISA]] 测验作为[[Rationalism in International Relations|理性主义]]比较教育远处治理政治手段的发展史。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022]] — 分析了新自由主义理性如何通过循证方法（[[Single-Case Design|SCD]]）和学术标准设计，实现对科研人员及评价体制的远距治理。

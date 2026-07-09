@@ -9,7 +9,7 @@ title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
 argument_display_title: "Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks"
 argument_kind: "book"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Paradigm]]"
+  - "[[Realism in International Relations]]"
   - "[[Performance Indicators]]"
   - "[[Research Problem]]"
   - "[[University Social Responsibility]]"
@@ -109,7 +110,7 @@ Zapp 的论证起点是一个"缺席的在场"：自 1990 年代末以来，"全
 
 为什么大学能进入全球治理舞台？Zapp 回顾了国际关系学（International Relations, IR）学术史中的一个关键[[Paradigm|范式]]转变(pp.145–146)：
 
-**传统国际关系学（现实主义 / 自由主义）的盲区** 传统国际关系学把世界想象成强者博弈的棋盘——大国之间比军事、比经济，一切都归结为"权力"或"交易成本"。在这种视角下，大学根本不值得被讨论——它没有军队，没有 GDP，没有投票权。
+**传统国际关系学（[[Realism in International Relations|现实主义]] / 自由主义）的盲区** 传统国际关系学把世界想象成强者博弈的棋盘——大国之间比军事、比经济，一切都归结为"权力"或"交易成本"。在这种视角下，大学根本不值得被讨论——它没有军队，没有 GDP，没有投票权。
 
 **[[Constructivist Paradigm|建构主义]]国际关系学和 [[World Society Theory|世界社会理论]]的转向** 1990 年代以来，学者们开始关注一个奇怪的现象：为什么全世界各国的教育部结构相似？为什么"人权""可持续发展"这些概念能在没有强制力的情况下被几乎所有国家接受？答案是：**观念、知识、规范和[[Cultural Models|文化模型]]本身就是一种权力**——它们不是枪炮，但能改变"什么是合理的"这个基准线。当"可持续发展"成为全球共识后，不遵守的国家会被视为"不合理的"，这就是观念的治理力量(Barnett & Finnemore, 2004; Meyer et al., 1997)。
 

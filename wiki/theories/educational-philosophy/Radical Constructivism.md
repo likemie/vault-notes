@@ -5,7 +5,7 @@ aliases:
 summary: "把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Post-structuralism]]"
   - "[[Posthumanism]]"
+  - "[[Realism in International Relations]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -92,7 +93,7 @@ updated: '2026-05-18'
 > 激进[[Constructivist Paradigm|建构主义]]消解了外部世界和规范性标准，导致无法区分好的建构与坏的建构、知识建构与谬误建构。教育判断（什么值得学、什么值得教）因此被排除在理论之外([[Argument_Rømer_2018_EPT|Rømer, 2018, p.6-7]])。
 
 
-> [!warning] 与现实主义的根本对立
+> [!warning] 与[[Realism in International Relations|现实主义]]的根本对立
 > [[Karl Popper|Popper]] 的哲学代表科学实在论：World 3 的文化与科学对象是"客观地伟大的"（objectively great）。激进建构主义代表其对立面——主观建构论。Hattie 试图桥接两者但失败：他将 Popper 的 World 3 化简为主观认知（World 2），相当于用建构主义吞噬了实在论([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])。
 
 

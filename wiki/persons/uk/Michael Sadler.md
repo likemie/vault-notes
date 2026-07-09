@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Reference Society]]"
   - "[[Cross-National Attraction]]"
+  - "[[Realism in International Relations]]"
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
   - "[[Epistemology]]"
@@ -80,7 +81,7 @@ updated: '2026-07-08'
 > - **1895–1903 — 地缘竞争与制度调查阶段** 这一阶段主要回应英国在第二次工业革命中面对德国、美国竞争时的工业焦虑与国家安全问题。
 >   - **代表著作** 特别调查与报告办公室发布的系列《教育问题特别报告》（*Special Reports on Educational Subjects*，1897–1903）。
 >   - **关键概念** [[Reference Society|参考社会]]、[[Cross-National Attraction|跨国吸引]]。
->   - **阶段特征** 此时的探索带有强烈的现实主义地缘政治底色，旨在通过系统研究德国职业教育和实科学校，为英国公共教育系统注入竞争活力，巩固国家竞争地位。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
+>   - **阶段特征** 此时的探索带有强烈的[[Realism in International Relations|现实主义]]地缘政治底色，旨在通过系统研究德国职业教育和实科学校，为英国公共教育系统注入竞争活力，巩固国家竞争地位。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
 > - **1900 至今 — 历史情境主义与方法论反思阶段** 这一阶段转而系统回应政策移植的技术主义幻觉，探讨如何从外国教育中获得“实践价值”而不导致体制排异。
 >   - **代表著作** 1900 年吉尔福德演讲：《我们能从外国教育系统的研究中获得多少有实践价值的启示？》（*How far can we learn anything of practical value from the study of foreign systems of education?*）。
 >   - **关键概念** 情境不可移植性、外部力量与因素（forces and factors outside the school）。
@@ -109,7 +110,7 @@ updated: '2026-07-08'
 > - **跨国传播** 其“盆栽移植”隐喻成为比较教育和[[Policy Borrowing|政策借用]]领域引用频率最高的方法论格言，在发展援助与[[International Education|国际教育]]流动中被用作反思技术援助失败的理论护盾。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 将萨德勒定位为现实主义国关传统在比较教育中的典型代拟节点，解析其背后的工业自保焦虑。
+> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 将萨德勒定位为[[Realism in International Relations|现实主义]]国关传统在比较教育中的典型代拟节点，解析其背后的工业自保焦虑。
 > - [[Argument_Cowen_2023_CE|Cowen, 2023]] — 批判比较教育学科对萨德勒“实用价值”格言的长期路径依赖，指出该学科应超越对这种古老辞藻的重复。
 > - [[Argument_Cowen_2009_CE|Cowen, 2009]] — 评价萨德勒关于外部力量与因素的洞察，批判其后续发展中沦为地理区域细节堆砌的[[Epistemology|认识论]]盲区。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye, 2006]] — 指出学界虽然继承了萨德勒关于情境重要的口号，但一个世纪以来始终没有提出去拆解情境中特定要素的系统性操作方法。
@@ -151,5 +152,5 @@ updated: '2026-07-08'
 > |:-----|:-----|:-----|
 > | [[Policy Borrowing]] | 概念 | 首次系统提出情境不可移植假说，奠定了反机械化借用的规范方法论边界。 |
 > | [[Cross-National Attraction]] | 概念 | 指出国家工业实力竞争构成了向他者学习和跨国政策吸引的核心地缘心理机制。 |
-> | [[Wight's Three Traditions of International Theory]] | 理论 | 作为现实主义思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
+> | [[Wight's Three Traditions of International Theory]] | 理论 | 作为[[Realism in International Relations\|现实主义]]思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
 > | [[OECD]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance\|远处治理]]技术。 |

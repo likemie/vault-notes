@@ -5,7 +5,7 @@ aliases:
 summary: "以企业管理逻辑重塑公共部门的改革浪潮，强调绩效标准、产出控制、供给竞争和管理问责。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Transitology]]"
   - "[[Champ]]"
+  - "[[Rationalism in International Relations]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -160,7 +161,7 @@ updated: 2026-05-20
 
 > [!warning] 争议与批评
 > - **民主 vs 市场的张力** 竞争与私有化话语支撑 NPM，与社会民主意识形态（公平、参与、综合教育）形成根本对立。Møller 呼吁更多了解维持"教育作为公共产品"的条件和过程([[Argument_Møller_2017_EERJ|Møller, 2017, p.382]])
-> - **领导力培养的管理主义化**[[Argument_Eacott_2011_JEAH|Eacott (2011)]]论证标准化校长培养方案将"证据本位策略"和技术-理性主义框定为[[Doxa|不言自明]]的前提，消除了对"谁决定什么是重要的"和"学校成功的衡量标准由谁设定"等前提性问题的追问([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.50]])
+> - **领导力培养的管理主义化**[[Argument_Eacott_2011_JEAH|Eacott (2011)]]论证标准化校长培养方案将"证据本位策略"和技术-[[Rationalism in International Relations|理性主义]]框定为[[Doxa|不言自明]]的前提，消除了对"谁决定什么是重要的"和"学校成功的衡量标准由谁设定"等前提性问题的追问([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.50]])
 > - **技术化遮蔽政治性** NPM 将教育治理转化为技术管理问题，使其脱离民主审议和公共辩论——正如 [[Argument_Amos_2022_Springer|Amos (2022, p.56)]] 观察，NPM 术语的深度嵌入使其话语被视为不言自明的前提
 >
 

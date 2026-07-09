@@ -7,7 +7,7 @@ aliases:
 summary: "后殖民与去殖民批判中指代美国与西方在新自由主义全球化下，通过输出所谓普世的学校教育模型、科学标准与评估技术（如 OECD 的 PISA 测评），重新巩固并延续西方在认识论、文化和政治控制主导权的空间机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Orientalism]]"
   - "[[Global Citizenship]]"
+  - "[[Rationalism in International Relations]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -124,7 +125,7 @@ updated: 2026-07-09
 >
 > > [!axis] 多元共生理念 vs 霸权话语强加
 > > 争论西方教育模式在全球的单向流动是推进理性人道主义的普世进步，还是维系殖民底色的隐性剥削。
-> > - **理性主义/世界社会学者** 认为世界文化的趋同体现了人权、科学与法治等普遍规范的合法扩散。(Meyer & Ramirez, 2000)
+> > - **[[Rationalism in International Relations|理性主义]]/世界社会学者** 认为世界文化的趋同体现了人权、科学与法治等普遍规范的合法扩散。(Meyer & Ramirez, 2000)
 > > - **去殖民主义学者** 坚称这是以“普世理性”为掩护的再西方化，旨在消灭地方性知识和生态，维系心灵的奴役。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
 
 ---

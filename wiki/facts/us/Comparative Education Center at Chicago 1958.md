@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Analytic Framework]]"
   - "[[Paradigm]]"
+  - "[[Realism in International Relations]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -64,7 +65,7 @@ updated: 2026-06-08
 
 > [!success]
 > - 芝加哥比较教育中心标志着比较教育从文化—历史分析向经济学化分析的一次重大转向。这一转向后来被 [[OECD]] 的 [[PISA]] 等国际比较评估制度化，使教育表现的量化比较成为比较教育的主流[[Paradigm|范式]]([[Argument_Klerides_2023_CE|Klerides, 2023, p.423]])。
-> - 在现实主义国际关系传统的透镜下，该中心是美国在冷战时期通过知识和制度手段扩展全球影响力的典型案例。比较教育被整合进美国的国际权力投射——不是通过军事手段，而是通过人力资本理论的传播和对"发展"的技术化定义([[Argument_Klerides_2023_CE|Klerides, 2023, pp.422–423]])。
+> - 在[[Realism in International Relations|现实主义]]国际关系传统的透镜下，该中心是美国在冷战时期通过知识和制度手段扩展全球影响力的典型案例。比较教育被整合进美国的国际权力投射——不是通过军事手段，而是通过人力资本理论的传播和对"发展"的技术化定义([[Argument_Klerides_2023_CE|Klerides, 2023, pp.422–423]])。
 
 ---
 

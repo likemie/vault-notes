@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_IJLE"
 argument_key: "Argument_Keddie_2020_IJLE"
 argument_display_title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_kind: "journal-article"
-argument_related_count: 5
+argument_related_count: 6
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[School Autonomy]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods:
@@ -83,7 +84,7 @@ citation_aliases:
 >
 > 1. **经济效率与差异化拨款** 经济效率话语和实践 + 公私部门间差异化拨款 → 构成学校"自主权" → 制造经济不公
 > 2. **竞争与个人主义** 竞争和个人主义话语和实践 → 构成[[School Autonomy|学校自主权]] → 削弱系统层面的公平（个别学校的成功以其他学校为代价）
-> 3. **权力下放与经济理性主义** 权力下放和经济理性主义 → 构成学校自主权 → 使本已弱势的学校（农村/偏远、低SES、小规模）更加不利
+> 3. **权力下放与经济[[Rationalism in International Relations|理性主义]]** 权力下放和经济理性主义 → 构成学校自主权 → 使本已弱势的学校（农村/偏远、低SES、小规模）更加不利
 > 4. **需求本位拨款** 需求本位拨款在缺乏透明度、精细度和行政支持时 → 构成学校自主权 → 制造经济不公（包括资金挪用和误用）
 >
 > 核心结论：补偿机制（如需求本位拨款）可以去一些缓解市场话语的构成性权力，但在拨款缺乏透明度和精细度、缺乏行政支持时，其补偿能力受到根本性削弱。此外，在当前的公私混合拨款模式下，需求本位拨款对缓解嵌入系统的结构性资源分配不公"几乎无能为力"(IJLE, p.12)。

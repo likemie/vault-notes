@@ -9,9 +9,9 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 89–103). Cham: Springer."
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Knowledge Capitalism]]"
   - "[[Causality]]"
+  - "[[Realism in International Relations]]"
   - "[[Classical Geopolitics]]"
   - "[[Hypothesis]]"
   - "[[Post-colonial Theory]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Technology Transfer]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Rationalism in International Relations]]"
   - "[[New Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Document]]"
@@ -93,7 +95,7 @@ Rizvi 的核心论点是：过去三十年间，高等教育的深刻转型（NP
 
 Rizvi 建立了一个对比框架，这是整章论证的概念基础：
 
-> [!info]- 现实主义地缘政治（Realist Geopolitics）
+> [!info]- [[Realism in International Relations|现实主义]]地缘政治（Realist Geopolitics）
 > 代表学者：Dalby (2013)
 >
 > Rizvi 以 Dalby 的现实主义地缘政治作为对照基线——这与他之前章节中 Moisio 和 Parreira do Amaral 讨论的[[Classical Geopolitics|古典地缘政治]]是同一个传统：国与国之间本质上是竞争关系，因为没有世界政府能约束国家行为，所以每个国家只能靠自利驱动。国家是唯一重要的行动者，它的核心任务是保护国内安全、抵御外部混乱。这种视角预设了一个"内部（安全、秩序）vs 外部（混乱、威胁）"的二元对立。
@@ -168,7 +170,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 | 分析方法  | 权力政治、军事战略 | 意识形态建构、话语分析、日常经验   |
 | 能看到什么 | 大国博弈、势力范围 | 市场想象、中产阶级教育选择、身份建构 |
 
-**为什么这个对比重要？** 因为 Rizvi 要分析的现象——亚洲中产阶级送孩子去西方读书、澳大利亚大学把国际招生当作商业模式、[[Transnational Research Collaboration|跨国研究合作]]中多重利益的捆绑——用现实主义地缘政治根本"看不见"。现实主义只会看到中美大国竞争，看不到一个曼谷中产家庭决定送女儿去悉尼读商科这件事本身就是一个地缘政治行为。
+**为什么这个对比重要？** 因为 Rizvi 要分析的现象——亚洲中产阶级送孩子去西方读书、澳大利亚大学把国际招生当作商业模式、[[Transnational Research Collaboration|跨国研究合作]]中多重利益的捆绑——用[[Realism in International Relations|现实主义]]地缘政治根本"看不见"。现实主义只会看到中美大国竞争，看不到一个曼谷中产家庭决定送女儿去悉尼读商科这件事本身就是一个地缘政治行为。
 
 **历史检验** Rizvi 接着用批判地缘政治学的视角快速扫描高等教育与地缘政治关系的历史演变，证明这个透镜的解释力：
 
@@ -367,7 +369,7 @@ Rizvi 的结论不是一个简单的"解决方案"，而是一组**方向性的�
 
 1. **超越商业逻辑** 后疫情时代的高等教育动态必须挑战导致了学生、资金和思想从"其余地区向西方"单向流动的不对称权力关系
 
-2. **多元知识传统** 地缘政治的变化要求新的国际化思维方式——"特别是面对与殖民现代性(Stein, 2017)和西方理性主义(Connell, 2007)之外的知识传统的日益增长的自我主张"(p.102)
+2. **多元知识传统** 地缘政治的变化要求新的国际化思维方式——"特别是面对与殖民现代性(Stein, 2017)和西方[[Rationalism in International Relations|理性主义]](Connell, 2007)之外的知识传统的日益增长的自我主张"(p.102)
 
 3. **对称性跨国连接** 跨国合作不应建立在教育市场逻辑之上，而应建立在"新兴的分布式知识发展和传播系统中所固有的对称性跨国连接的可能性"之上
 

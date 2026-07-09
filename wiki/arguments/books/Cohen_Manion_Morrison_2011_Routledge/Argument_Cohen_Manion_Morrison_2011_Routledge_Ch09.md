@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Reliability]]"
+  - "[[Realism in International Relations]]"
   - "[[Sponsor in Research]]"
   - "[[Reflexivity]]"
   - "[[Confidentiality]]"
@@ -320,7 +321,7 @@ Morrison (2006) 在敏感教育研究中具体发现了十五项与守门人相�
 > 15. 条件性准入导致研究者失去对研究议程的控制
 
 > [!tip]- 实用主义妥协：Lee 的建议
-> Lee (1993, p. 127) 的建议是现实主义的：研究者可能需要做一些让步——做一点守门人要求的事，总比根本无法做研究要好。但这是"程度"问题——在不可协商的伦理底线之内寻找可妥协的空间。
+> Lee (1993, p. 127) 的建议是[[Realism in International Relations|现实主义]]的：研究者可能需要做一些让步——做一点守门人要求的事，总比根本无法做研究要好。但这是"程度"问题——在不可协商的伦理底线之内寻找可妥协的空间。
 
 ---
 

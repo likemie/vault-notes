@@ -7,7 +7,7 @@ aliases:
 summary: "以国家为中心、将空间视为可占有客观地理实体的传统地缘政治范式，以社会有机体论为理论基石，关注领土控制、军事力量和硬实力竞争"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[New Geopolitics]]"
   - "[[Ontology]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Realism in International Relations]]"
   - "[[Constructivist Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Hypothesis]]"
@@ -87,7 +88,7 @@ updated: 2026-06-30
 > | 维度 | 古典地缘政治 | 新地缘政治 |
 > |------|-------------|-----------|
 > | [[Ontology\|本体论]]位置 | 物质—实践端 | 观念—科学端 |
-> | [[Theoretical Standpoint\|理论立场]] | 现实主义 | [[Constructivist Paradigm\|建构主义]] |
+> | [[Theoretical Standpoint\|理论立场]] | [[Realism in International Relations\|现实主义]] | [[Constructivist Paradigm\|建构主义]] |
 > | 理论源头 | 费舍尔的社会达尔文主义和斯宾塞的社会有机体概念 | 法兰克福学派及西方马克思主义 |
 > | 空间观 | 可测量、可分割、可占有的客观地理实体；竞争舞台 | 流动的社会建构；通过命名、分类与治理等话语实践不断生产的政治产物 |
 > | 权力形式 | 军事力量、安全能力、对关键空间（领土、通道、资源）的控制 | [[Knowledge Production\|知识生产]]、话语建构、规范制定与日常治理实现的空间秩序塑造能力 |
@@ -166,4 +167,4 @@ updated: 2026-06-30
 > - [[Fulbright Program|富布莱特计划]]与冷战高等教育 — 美苏通过学术流动输出意识形态，体现高等教育作为古典地缘政治附属工具的历史形态[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 4)]]
 
 > [!exegesis]- [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]：古典地缘政治作为高等教育分析的对照基线
-> Rizvi 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治为代表）作为其分析[[Geopolitics of Higher Education|高等教育地缘政治]]动态的对照基线。他的论点是：这一现实主义理解不足以解释当代高等教育中的地缘政治动态——它只能看到国家间的权力斗争，看不到新兴的跨国社会想象、[[Snowball Sampling|网络化]]关系和全球教育市场中意识形态与文化的多重维度。用[[Critical Geopolitics|批判地缘政治学]]的视角替代古典地缘政治，是 Rizvi 整章论证的概念起点。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 90–91)]]
+> Rizvi 将古典地缘政治（以 Dalby 2013 的现实主义地缘政治为代表）作为其分析[[Geopolitics of Higher Education|高等教育地缘政治]]动态的对照基线。他的论点是：这一[[Realism in International Relations|现实主义]]理解不足以解释当代高等教育中的地缘政治动态——它只能看到国家间的权力斗争，看不到新兴的跨国社会想象、[[Snowball Sampling|网络化]]关系和全球教育市场中意识形态与文化的多重维度。用[[Critical Geopolitics|批判地缘政治学]]的视角替代古典地缘政治，是 Rizvi 整章论证的概念起点。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 90–91)]]

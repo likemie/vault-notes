@@ -8,7 +8,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
   - region/germany
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Document]]"
   - "[[Champ]]"
   - "[[Causality]]"
@@ -51,7 +52,7 @@ updated: '2026-06-08'
 > Max Weber（马克斯·韦伯，1864–1920），德国社会学家、国民经济学和法学家，古典社会学三大奠基人之一（与 Marx 和 Durkheim 并列），诠释社会学和行动理论的创始人。尽管其学科训练为法学，他仍被视作社会学、文化科学、社会科学和历史科学的经典人物（Müller & Sigmund, 2014）。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以韦伯的诠释社会学作为全书的[[Epistemology|认识论]]锚点，并以韦伯对工具理性与价值理性的区分作为文化社会学章节的核心理论资源。
 
 > [!abstract] 阅读路径
-> 这条笔记按三个层次阅读最清楚：先看“生平与职涯”把握其从法学、国民经济学到社会学的转向；再看“主要著作与思想发展”理解其问题意识如何围绕西方理性主义逐步展开；最后看“核心思想”和“影响”进入教育研究中的可用概念。
+> 这条笔记按三个层次阅读最清楚：先看“生平与职涯”把握其从法学、国民经济学到社会学的转向；再看“主要著作与思想发展”理解其问题意识如何围绕西方[[Rationalism in International Relations|理性主义]]逐步展开；最后看“核心思想”和“影响”进入教育研究中的可用概念。
 
 > [!note]- 生平信息来源
 > 本节除特别标注外，生平信息主要依据以下标准传记：Marianne Weber (1926/1984) *Max Weber. Ein Lebensbild*；Kaesler (2014) *Max Weber. Preuße, Denker, Muttersohn*；Kaube (2014) *Max Weber. Ein Leben zwischen den Epochen*；Radkau (2005) *Max Weber. Die Leidenschaft des Denkens*；Müller & Sigmund (2014) *Max Weber-Handbuch. Leben – Werk – Wirkung*。
@@ -145,7 +146,7 @@ updated: '2026-06-08'
 
 - **APA** Weber, M. (1915–1920). *Die Wirtschaftsethik der Weltreligionen* [essays]. *Archiv für Sozialwissenschaft und Sozialpolitik*.
 - **核心内容** 通过儒教与道教、印度教与佛教、古代犹太教等比较研究，考察不同宗教伦理如何塑造经济行动、救赎路径和生活方式。
-- **思想位置** 这一组研究把《新教伦理》放进世界宗教比较框架中。印度、中国、以色列和前亚细亚成为检验西方理性主义路径独特性的比较[[Champ|场域]]（Michaels, 2001; Kippenberg & Riesebrodt, 2001）。
+- **思想位置** 这一组研究把《新教伦理》放进世界宗教比较框架中。印度、中国、以色列和前亚细亚成为检验西方[[Rationalism in International Relations|理性主义]]路径独特性的比较[[Champ|场域]]（Michaels, 2001; Kippenberg & Riesebrodt, 2001）。
 - **相关概念／理论** 世界宗教经济伦理、生活方式、西方理性主义、世界形象。
 
 ### 1917/1919 — *Wissenschaft als Beruf*
@@ -206,7 +207,7 @@ updated: '2026-06-08'
 
 ### 西方理性主义与世界的祛魅
 
-韦伯的核心主题是西方理性主义（okzidentaler Rationalismus）及其造成的"世界的祛魅"（Entzauberung der Welt）。这一历史进程贯穿于多个社会领域：西方城市的发展、理性法律、理性企业组织和官僚制管理、以及"有条理的"生活方式（Lebensführung）。现代资本主义被韦伯称为"我们现代生活中最具命运性的力量"（Weber, 1920, Vorbemerkung zu GARS）。
+韦伯的核心主题是西方[[Rationalism in International Relations|理性主义]]（okzidentaler Rationalismus）及其造成的"世界的祛魅"（Entzauberung der Welt）。这一历史进程贯穿于多个社会领域：西方城市的发展、理性法律、理性企业组织和官僚制管理、以及"有条理的"生活方式（Lebensführung）。现代资本主义被韦伯称为"我们现代生活中最具命运性的力量"（Weber, 1920, Vorbemerkung zu GARS）。
 
 ### 支配的类型学
 

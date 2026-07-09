@@ -6,7 +6,7 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和全球远处治理。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Educational Management Organisation]]"
   - "[[Variable]]"
+  - "[[Rationalism in International Relations]]"
 related_theories: []
 related_methods:
   - "[[Snowball Sampling]]"
@@ -190,4 +191,4 @@ updated: '2026-07-09'
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统使用并细化了该概念，深入剖析了新西兰公立教育体系中 [[John Hattie]] 等政策企业家在公共福利、非营利与营利三种运作动机间无缝跨界运作的路径与后果。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将政策企业家概念引入理性主义比较教育发展的第三阶段，用以解释数据[[Governing at a Distance|远处治理]]与分散权威空间的多行动者协调机制。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将政策企业家概念引入[[Rationalism in International Relations|理性主义]]比较教育发展的第三阶段，用以解释数据[[Governing at a Distance|远处治理]]与分散权威空间的多行动者协调机制。

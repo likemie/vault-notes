@@ -680,6 +680,18 @@
     ]
   },
   {
+    "title": "Rationalism in International Relations",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Rationalism in International Relations.md",
+    "aliases": [
+      "理性主义 (国际关系)",
+      "理性主义",
+      "Grotian tradition",
+      "格劳秀斯传统",
+      "rationalist tradition in comparative education"
+    ]
+  },
+  {
     "title": "Readings of the Global",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Readings of the Global.md",
@@ -688,6 +700,18 @@
       "readings of the global",
       "reading the global",
       "阅读全球"
+    ]
+  },
+  {
+    "title": "Realism in International Relations",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Realism in International Relations.md",
+    "aliases": [
+      "现实主义 (国际关系)",
+      "现实主义",
+      "Machiavellian tradition",
+      "马基雅维利传统",
+      "realist tradition in comparative education"
     ]
   },
   {

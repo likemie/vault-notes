@@ -55,6 +55,7 @@ related_concepts:
   - "[[Confucian Heritage Cultures]]"
   - "[[Zero-Sum Competition]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Realism in International Relations]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
   - "[[Transfer Translation Transformation]]"
@@ -83,7 +84,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -465,7 +466,7 @@ journal: "高等教育研究"
 > | 维度 | 传统地缘政治 | 新地缘政治 |
 > |------|-------------|-----------|
 > | 本体论位置 | 物质—实践端 | 观念—科学端 |
-> | [[Theoretical Standpoint\|理论立场]] | 现实主义 | 建构主义 |
+> | [[Theoretical Standpoint\|理论立场]] | [[Realism in International Relations\|现实主义]] | 建构主义 |
 > | 理论源头 | 费舍尔的社会达尔文主义和斯宾塞的社会有机体概念 | 法兰克福学派及西方马克思主义（阿多诺、哈贝马斯、德里达、福柯、葛兰西） |
 > | 空间观 | 可测量、可分割、可占有的客观地理实体；竞争舞台 | 流动的社会建构；通过命名、分类与治理等话语实践不断生产的政治产物 |
 > | 权力形式 | 军事力量、安全能力、对关键空间（领土、通道、资源）的控制 | 知识生产、话语建构、规范制定与日常治理实现的空间秩序塑造能力 |

@@ -5,7 +5,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以主权平等、不干涉和制度多样性为基础的国际秩序理解。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Radical Liberal Internationalism]]"
+  - "[[Realism in International Relations]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Internationalization of Higher Education]]"
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Radical Liberal Internationalism|激进自由国际主义]] — 主权国际主义容忍文明差异和多元政治制度，以不干涉为核心原则；激进自由国际主义则以西方规范评估所有社会，否定非自由政权的合法性，支持政权更迭。Sakwa（2023）将二者的关系描述为历史替代：后者在冷战后逐步取代前者([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 14]])
-> - vs 现实主义国际关系 — 主权国际主义包含多元世界主义理想，现实主义则认为国与国之间本质上是竞争关系。但两者都承认国家主权的基本地位
+> - vs [[Realism in International Relations|现实主义]]国际关系 — 主权国际主义包含多元世界主义理想，现实主义则认为国与国之间本质上是竞争关系。但两者都承认国家主权的基本地位
 
 ---
 

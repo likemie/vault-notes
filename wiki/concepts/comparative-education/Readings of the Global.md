@@ -8,10 +8,10 @@ aliases:
 summary: "Cowen 用于分析比较教育在不同时期关注哪个世界的五阶段历史分期框架，从 18 世纪末的世俗化阅读到冷战后的全球化"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/comparative-education
   - theory/comparative-education
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Transitology]]"
   - "[[Document]]"
   - "[[International Education]]"
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Theoretical Perspective]]"
   - "[[Cross-National Attraction]]"
@@ -90,7 +92,7 @@ updated: '2026-07-04'
 
 ## 国际关系理论中的延伸
 
-[[Argument_Klerides_2023_CE|Klerides (2023)]] 将 Cowen 的“全球阅读”概念与[[Wight's Three Traditions of International Theory|国际关系理论]]对接，论证国际关系的三大思想传统——现实主义、理性主义和[[Revolutionism|革命主义]]——各自构成了对全球的不同阅读方式。每一种传统都是一种阅读全球的透镜，照亮某些现象而遮蔽另一些，从而产生不同的[[Agendas of Attention|注意力议程]]和不同的比较教育形态。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 417]])
+[[Argument_Klerides_2023_CE|Klerides (2023)]] 将 Cowen 的“全球阅读”概念与[[Wight's Three Traditions of International Theory|国际关系理论]]对接，论证国际关系的三大思想传统——[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]——各自构成了对全球的不同阅读方式。每一种传统都是一种阅读全球的透镜，照亮某些现象而遮蔽另一些，从而产生不同的[[Agendas of Attention|注意力议程]]和不同的比较教育形态。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 417]])
 
 > [!dimension] 国际关系[[Theoretical Perspective|理论视角]]下的三种共时性全球阅读
 > - **现实主义全球阅读（Realism）**

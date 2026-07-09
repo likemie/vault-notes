@@ -9,9 +9,9 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416-435."
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Agendas of Attention]]"
   - "[[Analytic Framework]]"
   - "[[Readings of the Global]]"
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Multiplicity]]"
   - "[[Ontology]]"
@@ -118,7 +120,7 @@ citation_aliases:
 > | **[[Agendas of Attention\|注意力议程（Agendas of Attention）]]** | 源自[[Robert Cowen\|罗伯特·考恩]]（Robert Cowen, 2000）的[[Readings of the Global\|阅读全球]]（reading the global）。不同的传统代表不同的阅读方式，产生多重的比较教育（multiple comparative educations），即选择性关注某些问题而忽略另一些。 |
 > 
 > > [!warrant]- 理论如何支撑论证
-> > 怀特的三大传统（现实主义、理性主义、[[Revolutionism|革命主义]]）是分析的理想类型（ideal types），而非对经验现实的直接描述。虽然赫德利·布尔（Hedley Bull）指出这些传统过度欧洲中心主义，且其代表人物尼科洛·马基雅维利（Niccolò Machiavelli）、雨果·格劳秀斯（Hugo Grotius）和伊曼纽尔·[[Immanuel Kant|康德]]（Immanuel Kant）均来自西欧思想脉络(pp. 430–431)。然而，这一框架依然能够强有力地解释比较教育内部的核心论争（如[[Policy Borrowing|政策借用]]与情境理解、技术治理与批判解放的对立），展示这些分歧本质上是对国际社会性质底层设想的分歧。这些传统在打开未来的同时，生成了对比较教育学科多重且竞争性的身份与历史的感知。
+> > 怀特的三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]）是分析的理想类型（ideal types），而非对经验现实的直接描述。虽然赫德利·布尔（Hedley Bull）指出这些传统过度欧洲中心主义，且其代表人物尼科洛·马基雅维利（Niccolò Machiavelli）、雨果·格劳秀斯（Hugo Grotius）和伊曼纽尔·[[Immanuel Kant|康德]]（Immanuel Kant）均来自西欧思想脉络(pp. 430–431)。然而，这一框架依然能够强有力地解释比较教育内部的核心论争（如[[Policy Borrowing|政策借用]]与情境理解、技术治理与批判解放的对立），展示这些分歧本质上是对国际社会性质底层设想的分歧。这些传统在打开未来的同时，生成了对比较教育学科多重且竞争性的身份与历史的感知。
 
 ---
 
@@ -153,9 +155,9 @@ citation_aliases:
 > 国际关系的三大思想传统对国际社会性质有着截然不同的底层设定，这决定了学术研究和政策实践对国家行为模式的规范性预期(p. 417)。
 
 > [!theory-components] 怀特[[Wight's Three Traditions of International Theory|国际关系三大传统]]
-> - **现实主义（Realism）**
+> - **[[Realism in International Relations|现实主义]]（Realism）**
 >   尼科洛·马基雅维利（Niccolò Machiavelli）的传统。把主权领土国家视为国际政治的主要行动者，将国际政治看作自利国家之间的权力斗争。由于不存在中央权威，国际社会是一个自助竞技场（self-help arena），不安全与冲突是常态，稳定源于霸权或均势。其核心概念是权力(pp. 417–418)。
-> - **理性主义（Rationalism）**
+> - **[[Rationalism in International Relations|理性主义]]（Rationalism）**
 >   雨果·格劳秀斯（Hugo Grotius）的传统。认为无政府状态可以通过多边主义和法律约束得到缓解。国家虽然不服从一个上级，但仍然构成一个真正的社会，尽管制度上存在缺陷。其核心概念是权威，即因符合道德原则而获得正当性、能获得合作的权力(pp. 418–419)。
 > - **[[Revolutionism|革命主义]]（Revolutionism）**
 >   伊曼纽尔·[[Immanuel Kant|康德]]（Immanuel Kant）的传统。不把政治视为国家间关系，而是视为构成国家的个体与群体之间的关系。其终极理想是一个普遍的人类共同体，要求所有人为人类博爱而工作。其核心概念是武力，即推翻权力以执行革命教义、重建秩序的能力(p. 419)。
@@ -312,7 +314,7 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **多重比较教育形态的建构** 比较教育的不同学术形态（现实主义的现代主义借用、理性主义的[[Governing at a Distance|远处治理]]、[[Revolutionism|革命主义]]的道德解放）并非简单的学派分歧，而是对国际社会性质底层预设的直接反映(p. 417)。
+> 1. **多重比较教育形态的建构** 比较教育的不同学术形态（[[Realism in International Relations|现实主义]]的现代主义借用、[[Rationalism in International Relations|理性主义]]的[[Governing at a Distance|远处治理]]、[[Revolutionism|革命主义]]的道德解放）并非简单的学派分歧，而是对国际社会性质底层预设的直接反映(p. 417)。
 > 2. **学科内部矛盾的政治性解构** [[Policy Borrowing|政策借用]]与情境理解的冲突、技术评估与批判解放的对立，本质上是现实主义（权力斗争）、理性主义（规范治理）与革命主义（支配抵抗）冲突的表征，具有不可消除性(p. 431)。
 > 3. **[[Agendas of Attention|注意力议程]]对地缘的依附** 比较教育的注意力议程（谁值得被比较）在冷战对峙、[[Development Turn in Comparative Education|发展转向]]、新自由主义学术扩张等不同历史时期均受制于主权国力和地缘利益的消长(p. 421)。
 > 4. **地缘新变局下的学科走向** 随着美俄军事对抗再显主权回归，以及中国在[[De-Westernisation|去西方化]]权力矩阵中的经济博弈，比较教育将重设注意力议程以服务于新的集团生存或去西方化修辞(pp. 429–430)。
@@ -337,7 +339,7 @@ citation_aliases:
 > *The three traditions are crucial because they unveil the underlying values of our work, facilitating critical reflections on the issue of whose power we are historically and politically reproducing, or opposing, in and through this work.*
 
 > [!citation-card]- 比较教育史的未来难题
-> 中文译文：我们如何以既不单被理性主义的乐观所引导，也不单被[[Revolutionism|革命主义]]的道德激情所引导，同时又包含现实主义色彩（而非其犬儒主义）方式来书写这一领域？[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 431)]]
+> 中文译文：我们如何以既不单被[[Rationalism in International Relations|理性主义]]的乐观所引导，也不单被[[Revolutionism|革命主义]]的道德激情所引导，同时又包含[[Realism in International Relations|现实主义]]色彩（而非其犬儒主义）方式来书写这一领域？[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 431)]]
 > 
 > *How do we write about the field in ways that are not simply guided by the optimism of rationalism nor the moral passion of [[Revolutionism]], but that also include a realist(ic) flavour without its cynicism?*
 
