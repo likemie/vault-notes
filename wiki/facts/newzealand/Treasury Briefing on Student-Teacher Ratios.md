@@ -8,7 +8,7 @@ subtype: event
 region: newzealand
 fact_region: "newzealand"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: published
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: '2026-07-09'
 ---
 ## 背景
 

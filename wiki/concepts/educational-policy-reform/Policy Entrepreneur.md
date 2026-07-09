@@ -6,10 +6,10 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和全球远处治理。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-07-09
+updated: '2026-07-09'
 ---
 
 # Policy Entrepreneur
@@ -150,8 +150,8 @@ updated: 2026-07-09
 
 > [!dev-timeline] 概念演变
 > - **2000 — 教育系统内政策创业** Mintrom 首次系统化探讨教育系统内部自下而上的政策创业行为，关注其打破行政僵化、促进学校自主的潜力。(Mintrom, 2000)
-> - **2012 — 跨国[[Policy Network|政策网络]]拓展** Ball 在《全球教育公司》中将概念拓展至全球[[Network Governance|网络治理]]维度，揭示了全球教育资本与跨国政策企业家对国家主权的穿透。(Ball, 2012, 引自 [[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]])
-> - **2016 — 混合政策创业诊断** O'Neill 等通过对新西兰公立学校改革的研究，细化了政策企业家在公共福利、非营利与营利动机间无缝融合的运作细节，完成了对 [[John Hattie]] 与 [[Michael Barber]] 等典型案例的深度解剖。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]])
+> - **2012 — 跨国[[Policy Network|政策网络]]拓展** Ball (2012) 在《全球教育公司》中将概念拓展至全球[[Network Governance|网络治理]]维度，穿透国家主权边界 (引自 [[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]])。
+> - **2016 — 混合政策创业诊断** O'Neill 等通过对新西兰公立学校改革的研究，细化了政策企业家在公共福利、非营利与营利动机间无缝融合的运作细节，完成了对 [[John Hattie]] 与 [[Michael Barber]] 等典型案例的深度解剖 (引自 [[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 47–64]])。
 
 ---
 
@@ -160,9 +160,9 @@ updated: 2026-07-09
 > [!debates] 学术争议
 >
 > > [!axis] 自下而上的学校民主创新 vs 自上而下的新自由主义[[Disciplina and Doctrina|规训]]
-> > 争论教育系统内部的政策创业究竟是解放学校自主性、提供创新多元教育的民主工具，还是自上而下输出商业规训、加剧教育阶级分化的帮凶。
-> > - **Michael Mintrom (2000)** 强调政策创业在学校自主改革、打破教育科层制僵化方面的自下而上民主创新的积极潜力。(Mintrom, 2000, 引自 [[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]])
-> > - **Stephen Ball (2012)** 认为跨国政策企业家以数据和效率之名在跨国范围构建契约网络，实质上在以资本主义逻辑剥夺本地学校的民主自主权。(Ball, 2012, 引自 [[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]])
+> > 争论教育系统内部的政策创业究竟是解放学校自主性、提供创新多元教育的民主工具，还是自上而下输出商业规训、加剧教育阶级分化的帮凶 (引自 [[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]])。
+> > - **Michael Mintrom (2000)** 强调政策创业在学校自主改革、打破教育科层制僵化方面的自下而上民主创新的积极潜力。
+> > - **Stephen Ball (2012)** 认为跨国政策企业家以数据和效率之名在跨国范围构建契约网络，实质上在以资本主义逻辑剥夺本地学校的民主自主权。
 
 > [!critique] 外部批评
 > - **公共利益的非民主蚕食** 批评者指出，政策企业家由于不具备民主选举的政治代表性，其通过个人化的契约网络影响政策制定，在事实上蚕食了公立教育的公共治理基础，损害了公共决策过程的民主参与度和透明度。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 82]])
@@ -180,8 +180,8 @@ updated: 2026-07-09
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 新西兰注册慈善机构数据库（包含 6,059 个教育慈善组织） | 数据库财务与结构统计分析 | 政府拨款依赖度与贸易收入占比 | 仅 4.5% 机构主要依赖政府拨款，仅 3.9% 依赖服务与贸易收入 | — | 表明绝大多数所谓教育慈善组织在运营资金结构上并非传统的政府承包商，具有高度的非官方独立运作和潜在的政策创业自由度。 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 新西兰[[Educational Management Organisation\|教育管理组织]]与慈善基金会财务数据（2007–2015） | 财务报表个案审计研究 | 慈善性直接捐赠占集团总收入或投资收益的比例 | Cognition Education (2015) 直接捐赠比例仅占集团收入 0.9%；Foundation North (2010-2015) 投资收益分配为捐赠的比例仅为 23.3% | — | 说明所谓非营利性政策创业主体以慈善或利他话语运作，但在实际财务流动中，其大部分盈余流向了集团权益积累或运营费用，向学校返还的慈善价值微乎其微。 |
+| [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. xv)]] | 新西兰注册慈善机构数据库（包含 6,059 个教育慈善组织） | 数据库财务与结构统计分析 | 政府拨款依赖度与贸易收入占比 | 仅 4.5% 机构主要依赖政府拨款，仅 3.9% 依赖服务与贸易收入 | — | 表明绝大多数所谓教育慈善组织在运营资金结构上并非传统的政府承包商，具有高度的非官方独立运作和潜在的政策创业自由度。 |
+| [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 47–51)]] | 新西兰[[Educational Management Organisation\|教育管理组织]]与慈善基金会财务数据（2007–2015） | 财务报表个案审计研究 | 慈善性直接捐赠占集团总收入或投资收益的比例 | Cognition Education (2015) 直接捐赠比例仅占集团收入 0.9%；Foundation North (2010-2015) 投资收益分配为捐赠的比例仅为 23.3% | — | 说明所谓非营利性政策创业主体以慈善或利他话语运作，但在实际财务流动中，其大部分盈余流向了集团权益积累或运营费用，向学校返还的慈善价值微乎其微。 |
 
 ---
 
