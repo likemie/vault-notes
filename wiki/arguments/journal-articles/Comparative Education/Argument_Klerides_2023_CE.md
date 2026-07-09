@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -61,7 +61,6 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[Immanuel Kant]]"
   - "[[Michael Sadler]]"
-  - "[[Walter Mignolo]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[OECD]]"
@@ -283,17 +282,17 @@ citation_aliases:
 > 比较教育内部的长期矛盾由此获得了深层解释。例如，政策借用与情境理解之间的张力，不是方法论的分歧，而是现实主义预设（国家竞争）与反现实主义预设（文化差异）之间的张力。技术治理与批判解放之间的张力，不是政治立场的差异，而是理性主义预设（合作与规则）与革命主义预设（支配与抗争）之间的张力。这些张力是不可消除的，因为它们根植于对国际社会性质的最深层理解(p. 431)。
 
 > [!case] 案例一：主权领土国家的回归与美俄对抗
-> 美国的全球霸权正受到俄罗斯军事行为和中国经济实力的挑战。俄罗斯对乌克兰的军事行动使西方重新发现了国家独立和领土完整的价值。正如玛丽安娜·帕帕斯蒂芬努（Marianna Papastephanou）（2022, p. 82）所指出的，西方政治构型的“我们”走了一个完整的圈，从主权神化到对国家的大规模谴责，再到主权重新流行。
+> 美国的全球霸权正受到俄罗斯军事行为和中国经济实力的挑战。俄罗斯对乌克兰的军事行动使西方重新发现了国家独立和领土完整的价值。正如Papastephanou (2022, p. 82)所指出的，西方政治构型的“我们”走了一个完整的圈，从主权神化到对国家的大规模谴责，再到主权重新流行。
 > 
 > 这一转变带来了新的比较议程：主权领土国家将如何与恐惧政治(Wodak, 2015)结合来面对核威胁的回归？教育系统将被要求如何支持或阻碍美俄之间为支配或生存而进行的竞争？(p. 429)
 
 > [!case] 案例二：中国的“[[Re-Westernisation|去西方化]]”挑战
 > 中国的挑战与经济而非军事更为相关。北京拒绝华盛顿的经济教义，但寻求的不是变革世界经济秩序，而是从美国手中夺取对它的控制。不加约束的资本主义扩张与儒家家族主义式民族主义的结合，展示了中国对这一秩序的承诺。
 > 
-> 瓦尔特·米尼奥罗（[[Walter Mignolo]]）（2011, p. 47）指出，中国的去西方化与美国的再西方化共享资本主义的生存，对抗发生在殖民权力矩阵的其他层面（权威、知识与主体性领域）。这将在比较教育中产生新的注意力议程(p. 430)：
+> Mignolo (2011, p. 47)指出，中国的去西方化与美国的再西方化共享资本主义的生存，对抗发生在殖民权力矩阵的其他层面（权威、知识与主体性领域）。这将在比较教育中产生新的注意力议程(p. 430)：
 > 
 > > [!tension] 再西方化 vs 去西方化
-> > - **美国的再西方化（Re-Westernisation）** 旨在维护西方启蒙以来的知识、制度和意识形态的统治地位。(Mignolo, 2011, p. 47)
+> > - **美国的再西方化（Re-Westernisation）** 旨在维护西方启蒙以来的知识、制度和意识形态的统治地位。
 > > - **中国的去西方化（De-Westernisation）** 依托经济实力在权威、知识和主体性层面挑战西方霸权，但底层仍与资本主义共存。
 
 > [!challenges]- 重返档案与最终的学科难题
