@@ -210,7 +210,7 @@ issuing_organization: ""
 > - **接受新自由主义教育价值并增加教育支出**
 >   德国和法国在 PISA 冲击后大幅增加教育投入。德国社会在 2000 年 PISA 结果公布时受到冲击：从 1970 年代到 2000 年代初，德国未能创造人力资本，用 OECD 的话说，剥夺了大部分学生获得最佳工作回报所需学术素质的机会（Martens & Niemann, 2013）。PISA 将教育主题直接推上政策议程，强化了政策制定者弥补绩效缺陷的行动。
 > - **接受能力和素养概念**
->   日本在 2003 年 PISA 结果公布后，于 2004 年将 [[PISA Literacy|PISA 素养]]正式纳入国家教育政策的核心目标。PISA 素养聚焦高阶能力：问题解决、知识应用、创造性工作和知识回忆（Ninomiya, 2019），为日本教育带来了与以往学力理解不同的新含义。
+>   日本在 2003 年 PISA 结果公布后，于 2004 年将 [[PISA Literacy|PISA素养]]正式纳入国家教育政策的核心目标。PISA素养聚焦高阶能力：问题解决、知识应用、创造性工作和知识回忆（Ninomiya, 2019），为日本教育带来了与以往学力理解不同的新含义。
 > - **影响[[Reference Society|参考社会]]选择**
 >   韩国在 PISA 之前长期默然借用（silently borrowing）日本教育政策。PISA 2009 后，韩国将注意力转向 2003 年排名领先的芬兰（Kim & Choi, 2023）。PISA 排名直接重塑了各国政策借鉴的方向。
 > - **加强国际合作**
@@ -229,13 +229,15 @@ issuing_organization: ""
 > [!case] 案例 2：日本
 > 与德国不同，日本在 2003 年第二次 PISA 后意识到问题在于**教育内容**而非制度或组织（Ninomiya, 2019）。1980–1990 年代推行的宽松教育（ゆとり教育, yutori education）导致 20 世纪末日本学生学业水平和学习能力下降，引起教育学家、经济学家和行政官员的广泛关注。2003 年 PISA 结果公布后，众多新闻媒体广泛报道并比较 2003 年与 2000 年的结果：日本学生在多个重点领域的排名下滑（MEXT, 2004），证实了自 1980 年代以来学生学业水平下降和教育危机论的蔓延。
 >
-> 在 PISA 2003 结果的推动下，**PISA 素养（PISA literacy）**概念于 2004 年被正式纳入国家教育政策目标，指阅读和更广泛的课程知识，聚焦问题解决、知识应用、创造性工作和知识回忆等高阶能力（National Institute for Education Policy, 2019）。PISA 素养引入了与以往理解不同的新学力概念，即扎实的学力（robust academic proficiency），涉及高阶知识和技能的应用（Ninomiya, 2019）。
+> 在 PISA 2003 结果的推动下，**PISA素养（PISA literacy）**概念于 2004 年被正式纳入国家教育政策目标，指阅读和更广泛的课程知识，聚焦问题解决、知识应用、创造性工作和知识回忆等高阶能力（National Institute for Education Policy, 2019）。PISA素养引入了与以往理解不同的新学力概念，即扎实的学力（robust academic proficiency），涉及高阶知识和技能的应用（Ninomiya, 2019）。
 
 > [!dimension] 中观决策层面的三种表现
 > - **改善教师教育**
 >   约旦和法国通过建立大学内的教师教育学院来加强教师职前教育和持续专业发展。加拿大延长了教师培训时长（2012 年），同时削减了许多文科和人文学科教师的培训（Baird et al., 2016）。
 > - **对接 PISA 的全国性评估与教学标准审查**
->   瑞士通过 **[[HarmoS]]**（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule，州际义务教育协调协议）引入国家教育标准，标志着对学生能力的更大重视和一种不同测试文化的兴起，涉及从投入导向基本原则向以效率和产出控制为目标的底层逻辑的转变（Bieber & Martens, 2011）。加拿大[[Performance Indicators|教育指标]]计划（Canadian Education Indicators Program, CEIP）引入了与 OECD 报告相同的区域统一指标，包括基于 PISA 的学生成就卓越度（Student Achievement Excellence）指标，PISA 结果成为判断加拿大教育水平是否卓越、教育政策是否成功的依据（Baird et al., 2016）。中国于 2007 年建立了**义务教育质量监测中心（[[National Assessment of Education Quality China 2007|教育部基础教育质量监测中心]]，National Assessment of Education Quality, NAEQ）**，教育部报告参照 PISA 测试的教育质量和学生能力标准，基于对 PISA 指标的批判性研究和改编，描述了数学、语文、科学、道德、体育和艺术六项学科指标（Xie et al., 2022）。
+>   - **瑞士 [[HarmoS]]（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule，州际义务教育协调协议，2006 年）** 引入国家教育标准，标志着从投入导向基本原则向以效率和产出控制为目标的底层逻辑的转变（Bieber & Martens, 2011）。
+>   - **加拿大教育指标计划（Canadian Education Indicators Program, CEIP）** 引入与 OECD 报告相同的区域统一指标，包括基于 PISA 的学生成就卓越度（Student Achievement Excellence）指标，PISA 结果成为判断加拿大教育水平是否卓越、政策是否成功的依据（Baird et al., 2016）。
+>   - **中国 [[National Assessment of Education Quality China 2007|义务教育质量监测中心（NAEQ）]]**（2007 年）参照 PISA 标准并进行批判性改编，描述了数学、语文、科学、道德、体育和艺术六项学科指标（Xie et al., 2022）。
 > - **强化学校管理监测与持续改进**
 >   PISA 影响了日本学校教育管理体系中**证据—改进循环（evidence-improvement cycle）**的构建：学校管理者关注校内学业成就，根据设定目标检查教育过程和结果信息，并以这些信息作为证据推动教育管理改进（Ninomiya, 2019）。
 

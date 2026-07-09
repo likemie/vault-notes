@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 28
+fact_related_count: 24
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -75,7 +75,7 @@ updated: "2026-07-08"
 > - **1995–2000 — 设计与启动**
 >   [[OECD]] 于 1995 年提出 PISA，1997 年正式启动开发，2000 年实施首轮评估，涵盖 32 个参与教育系统。
 > - **2000–2009 — 全球扩散与 PISA 冲击**
->   PISA 2000 结果公布后，德国经历"PISA 冲击"，芬兰崛起为全球[[Reference Society|参考社会]]。PISA 2003 推动日本将 PISA 素养纳入国家课程，韩国将参考社会从日本转向芬兰。参与系统持续扩展。
+>   PISA 2000 结果公布后，德国经历"PISA 冲击"，芬兰崛起为全球[[Reference Society|参考社会]]。PISA 2003 推动日本将 PISA素养纳入国家课程，韩国将参考社会从日本转向芬兰。参与系统持续扩展。
 > - **2009 年至今 — 上海崛起与产品线扩张**
 >   PISA 2009 上海（中国）的优异表现引发全球关注，美国将其类比为"[[Sputnik Shock 1957|Sputnik]] 冲击"。PISA 扩展至 72 个参与系统（2015 年），评估领域从阅读、数学、科学扩展至财经素养、协作问题解决、全球能力（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）。
 
@@ -114,7 +114,7 @@ updated: "2026-07-08"
 
 > [!dimension] 质量路径：宏观—中观—微观三层决策
 > - **宏观决策层面**
->   接受新自由主义教育价值并增加教育支出（德国、法国）；接受能力与素养概念（日本 PISA 素养）；影响 [[Reference Society|参考社会]]选择（韩国从日本转向芬兰）；加强国际合作（南锥体国家）；推动 [[Evidence-Based Education|循证教育]]政策（日本、德国、约旦）。
+>   接受新自由主义教育价值并增加教育支出（德国、法国）；接受能力与素养概念（日本 PISA素养）；影响 [[Reference Society|参考社会]]选择（韩国从日本转向芬兰）；加强国际合作（南锥体国家）；推动 [[Evidence-Based Education|循证教育]]政策（日本、德国、约旦）。
 > - **中观决策层面**
 >   改善教师教育（约旦、法国、加拿大）；对接 PISA 标准的全国性教育评估体系建设（瑞士 HarmoS、中国 NAEQ、加拿大 CEIP）；强化学校管理监测与持续改进（日本证据—改进循环）。
 > - **微观决策层面**
@@ -182,5 +182,5 @@ updated: "2026-07-08"
 > | [[Governing by Numbers]] | 概念 | PISA 是数字治理的典型工具，通过排名和量化指标实现软性政策协调。 |
 > | [[Global Education Reform Movement]] | 概念 | PISA 是 GERM 标准化、问责和竞争逻辑的跨国制度载体。 |
 > | [[Evidence-Based Education]] | 概念 | PISA 推动了循证教育政策在全球的制度化，将数据驱动的决策[[Paradigm\|范式]]纳入教育治理。 |
-> | [[Systematic Review]] | 方法 | [[Argument_Li_2025_HSSC\|Li et al. (2025)]]通过系统综述方法综合了 85 篇 PISA 政策影响实证研究。 |
+> | [[Systematic Review]] | 方法 | Li et al.（2025）通过系统综述综合了 85 篇 PISA 政策影响实证研究。 |
 > | [[Baby PISA]] | 事实 | PISA 产品线向早期教育的扩展项目。 |

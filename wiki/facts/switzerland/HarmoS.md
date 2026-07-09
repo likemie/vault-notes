@@ -10,9 +10,9 @@ subtype: event
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
   - switzerland
@@ -84,10 +84,13 @@ updated: 2026-07-09
 
 ## 相关概念／政策
 
+> [!note]-
+> Li et al.（2025）的[[Systematic Review|系统综述]]将 HarmoS 作为 PISA 在中观决策层面影响教育改革的典型案例（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+
 > [!entry-map]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[PISA]] | 事实 | PISA 结果触发了瑞士的教育改革议程，HarmoS 直接纳入 [[OECD]] 建议。 |
 > | [[OECD]] | 事实 | 通过 PISA 为 HarmoS 提供了政策建议和制度模板。 |
-> | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | 论证 | [[Systematic Review\|系统综述]]中将 HarmoS 作为 PISA 在中观决策层面影响教育改革的典型案例。 |
+ [[Systematic Review\|系统综述]]中将 HarmoS 作为 PISA 在中观决策层面影响教育改革的典型案例。 |
