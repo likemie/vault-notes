@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长的单向因果链的创新过程概念模型，战后成为全球科学政策资源配置的主导理论依据，因其低估其他创新来源而受到 innovation studies 的系统性质疑"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Lisbon Strategy]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
@@ -68,7 +69,7 @@ updated: 2026-06-10
 > - **1945** 万尼瓦尔·布什（Vannevar Bush）在给美国总统的报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（Science, The Endless Frontier）中提出“[[Blue Skies Research|基础研究]]带来技术和工业进步”的政策想象，确立了二战后科学政策的核心逻辑。（引自）
 > - **1950s末** 理查德·尼尔森（Richard Nelson）和肯尼斯·阿罗（Kenneth Arrow）基于公共品理论，论证了由于科学知识的非排他性和非竞争性，政府必须主导对基础研究的公共投入，为线性模型确立了主流经济学理论基础。
 > - **1986** 斯蒂芬·克莱因（Stephen Kline）和内森·罗森伯格（Nathan Rosenberg）提出[[Chain-linked Model|链式模型]]，系统批评了线性模型单向[[Causality|因果]]的谬误，主张创新是一个包含复杂反馈的学习过程。（引自 [[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 863]]）
-> - **2000s** 欧盟里斯本议程设定巴塞罗那目标（R&D 占比达到 GDP 的 2% 私人和 1% 公共投入），说明线性模型至今依然在主导着当代国家级的宏观政策指针。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 861–862]]
+> - **2000s** 欧盟[[Lisbon Strategy|里斯本议程]]设定巴塞罗那目标（R&D 占比达到 GDP 的 2% 私人和 1% 公共投入），说明线性模型至今依然在主导着当代国家级的宏观政策指针。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 861–862]]
 > - **2009** 若昂·卡拉萨（João Caraça）等人提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，批判线性模型诱导的“大学专利化”误区，指出应在[[Learning Economy|学习经济]]和多层[[Innovation Ecosystem|创新生态系统]]中重新审视科学的作用。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 865]]
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-06-10
 ## 相关案例／政策
 
 > [!example] 巴塞罗那议程 2% + 1% 目标
-> 欧盟为回应美国竞争，在里斯本议程中设定了私人研发投入占 GDP 的 2%、公共投入占 1% 的量化指标。这直接体现了线性模型关于“增加科学投入即可带来增长”的政策说服力。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 861–862]]
+> 欧盟为回应美国竞争，在[[Lisbon Strategy|里斯本议程]]中设定了私人研发投入占 GDP 的 2%、公共投入占 1% 的量化指标。这直接体现了线性模型关于“增加科学投入即可带来增长”的政策说服力。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 861–862]]
 
 > [!example] 大学商业化与欧洲悖论
 > 欧洲在面临研发投入高而创新产出低的矛盾（即“欧洲悖论”）时，并未反思线性模型前提，反而反向逼迫学术体系直接进入 market。例如在各[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）国家中强力推行要求大学创办科技园、出售专利等政策，试图把大学重塑为直接经济转化中心。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]

@@ -165,7 +165,7 @@ citation_aliases:
 > 比较教育学科虽然在大学建制上获得了巨大成功，但其自我合法化的基础极其虚弱，长期依赖客观上已显陈旧的三大陈词滥调，且面临[[Epistemology|认识论]]碎片化的危险。(p.327)
 
 > [!chain-link] 证据到判断
-> - **先知化的焦虑与历史倒退** 2018年 CESE 塞浦路斯会议以教育中的身份认同（Identities in Education）为主题，由 [[Eleftherios Klerides]] 与 Stephen Carney (2021) 组织，António Nóvoa (2021) 做了精彩的主旨演讲。然而，在专门纪念 [[Andreas Kazamias]] 的特别讲座环节中，发言者即兴将 Kazamias 解读为一位正确预见了我们当前时代和问题的哲学先知（philosopher-prophet），宣称学界应走向希腊人文主义（Hellenistic Humanism）和灵魂教育（paideia，即教育的灵魂）来重新平衡自己。Kazamias 本人常倡导历史和人文主义，并将其概括为渐进、现代、改良与普罗米修斯式的比较教育，但他从未自封先知。这种将 Kazamias 历史先知化的姿态泄露了学科对于自身定位的深层焦虑：如果我们需要退回 50 年前 Kazamias 的历史人文学说，是否意味着过去半个世纪以来的科学化与制度繁荣其实是一个战略错误？(p.327)
+> - **先知化的焦虑与历史倒退** 2018年 [[Comparative Education Society in Europe|CESE]] 塞浦路斯会议以教育中的身份认同（Identities in Education）为主题，由 [[Eleftherios Klerides]] 与 Stephen Carney (2021) 组织，António Nóvoa (2021) 做了精彩的主旨演讲。然而，在专门纪念 [[Andreas Kazamias]] 的特别讲座环节中，发言者即兴将 Kazamias 解读为一位正确预见了我们当前时代和问题的哲学先知（philosopher-prophet），宣称学界应走向希腊人文主义（Hellenistic Humanism）和灵魂教育（paideia，即教育的灵魂）来重新平衡自己。Kazamias 本人常倡导历史和人文主义，并将其概括为渐进、现代、改良与普罗米修斯式的比较教育，但他从未自封先知。这种将 Kazamias 历史先知化的姿态泄露了学科对于自身定位的深层焦虑：如果我们需要退回 50 年前 Kazamias 的历史人文学说，是否意味着过去半个世纪以来的科学化与制度繁荣其实是一个战略错误？(p.327)
 > - **三大陈词滥调的惯例化使用** 学科极少丢弃旧信条，积累了过多的陈词滥调：
 >   1. [[Michael Sadler|迈克尔·萨德勒]][[Pragmatic Paradigm|实用主义]]试图从外国教育政策中获取实用价值。这在一百年后仍被常规使用，但它将比较教育矮化为了应对教育危机的高级应急社会管道工（emergency social plumbing），即通过机械嫁接外国经验来修理本国的政策漏水。
 >   2. 马克-安托万·朱利安科学理想宣称要让学科成为科学（science）的理想。这一口号已喊了近两百年，但学界至今仍未理清科学是指探寻事物原因，还是指像物理学一样进行准确预测。

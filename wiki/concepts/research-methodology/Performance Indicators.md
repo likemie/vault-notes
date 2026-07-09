@@ -8,7 +8,7 @@ aliases:
 summary: "经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators"
 type: concept
 domain: "research-methodology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[OECD]]"
   - "[[International Indicators of Education Systems]]"
+  - "[[Lisbon Strategy]]"
   - "[[Europe 2020 Strategy]]"
   - "[[YOUNG_ADULLLT]]"
   - "[[Innovation Union]]"
@@ -84,7 +85,7 @@ updated: '2026-05-18'
 > - **1988 年**[[OECD]] 启动 [[International Indicators of Education Systems]] 项目，系统开发[[International Education|国际教育]]指标([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.8]])
 > - **1992 年** 首版 [[Education at a Glance]] 出版，标志着教育指标的常规化年度生产([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])
 > - **2000s** Bottani 称之为"对绩效指标的痴迷和心理测量比较的胜利"的十年([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13]])
-> - **2001 年** 里斯本议程后，欧盟开始以十年战略规划（如 [[Europe 2020 Strategy]]）驱动绩效指标治理模式
+> - **2001 年** [[Lisbon Strategy|里斯本议程]]后，欧盟开始以十年战略规划（如 [[Europe 2020 Strategy]]）驱动绩效指标治理模式
 > - **2007 年** Jessop 在 State Power 中提出 [[Selectivity]] 概念，为分析指标的政治效应提供理论基础([[Argument_Rambla_2022_Springer|Rambla, 2022, p.166]])
 > - **2010 年代** EUROSTAT 的区域创新记分牌和 NUTS2 教育指标将绩效指标扩展至区域层面([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–170]])
 > - **2016 年** Le Galès 系统论证绩效指标作为政策工具的技术—权力双重性([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])

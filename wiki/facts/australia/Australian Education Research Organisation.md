@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Comparative Education Society in Europe]]"
   - "[[Education Endowment Foundation]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Educational Services Australia]]"
@@ -50,7 +51,7 @@ updated: 2026-06-16
 
 > [!event-context] 机构背景
 > - **时间 / 地点** 成立于2010年代后期，总部设在澳大利亚。[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **关键主体** 澳大利亚教育研究组织（AERO）、首席执行官杰妮·多诺万（Jenny Donovan，曾任新南威尔士州教育统计与评估中心 CESE 主任）、专家委员会委员柯文·科林斯爵士（Sir Kevan Collins）。
+> - **关键主体** 澳大利亚教育研究组织（AERO）、首席执行官杰妮·多诺万（Jenny Donovan，曾任新南威尔士州教育统计与评估中心 [[Comparative Education Society in Europe|CESE]] 主任）、专家委员会委员柯文·科林斯爵士（Sir Kevan Collins）。
 > - **制度背景** 2016年生产力委员会建议以英国[[Education Endowment Foundation|教育捐赠基金会]]（[[Education Endowment Foundation|EEF]]）为蓝本建立本土机构；与 ACARA、[[Australian Institute for Teaching and School Leadership|AITSL]] 类似，其技术与行政底层由注册慈善机构[[Educational Services Australia|ESA]]支撑。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
 > - **触发条件** 跨国“什么有效”（what works）运动在澳大利亚推进教育政策“循证改革”的制度化需要。
 

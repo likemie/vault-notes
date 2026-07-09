@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Reference Society]]"
+  - "[[PISA Literacy]]"
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
   - "[[Evidence-Based Education]]"
@@ -45,6 +46,9 @@ related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Baby PISA]]"
+  - "[[HarmoS]]"
+  - "[[National Assessment of Education Quality China 2007]]"
+  - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Zhao_2020_JEC]]"
@@ -75,7 +79,7 @@ updated: "2026-07-08"
 > - **1995–2000 — 设计与启动**
 >   [[OECD]] 于 1995 年提出 PISA，1997 年正式启动开发，2000 年实施首轮评估，涵盖 32 个参与教育系统。
 > - **2000–2009 — 全球扩散与 PISA 冲击**
->   PISA 2000 结果公布后，德国经历"PISA 冲击"，芬兰崛起为全球[[Reference Society|参考社会]]。PISA 2003 推动日本将 PISA 素养纳入国家课程，韩国将参考社会从日本转向芬兰。参与系统持续扩展。
+>   PISA 2000 结果公布后，德国经历"PISA 冲击"，芬兰崛起为全球[[Reference Society|参考社会]]。PISA 2003 推动日本将 [[PISA Literacy|PISA 素养]]纳入国家课程，韩国将参考社会从日本转向芬兰。参与系统持续扩展。
 > - **2009 年至今 — 上海崛起与产品线扩张**
 >   PISA 2009 上海（中国）的优异表现引发全球关注，美国将其类比为"[[Sputnik Shock 1957|Sputnik]] 冲击"。PISA 扩展至 72 个参与系统（2015 年），评估领域从阅读、数学、科学扩展至财经素养、协作问题解决、全球能力（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）。
 
@@ -114,9 +118,9 @@ updated: "2026-07-08"
 
 > [!dimension] 质量路径：宏观—中观—微观三层决策
 > - **宏观决策层面**
->   接受新自由主义教育价值并增加教育支出（德国、法国）；接受能力与素养概念（日本 PISA 素养）；影响 [[Reference Society|参考社会]]选择（韩国从日本转向芬兰）；加强国际合作（南锥体国家）；推动 [[Evidence-Based Education|循证教育]]政策（日本、德国、约旦）。
+>   接受新自由主义教育价值并增加教育支出（德国、法国）；接受能力与素养概念（日本 [[PISA Literacy|PISA 素养]]）；影响 [[Reference Society|参考社会]]选择（韩国从日本转向芬兰）；加强国际合作（南锥体国家）；推动 [[Evidence-Based Education|循证教育]]政策（日本、德国、约旦）。
 > - **中观决策层面**
->   改善教师教育（约旦、法国、加拿大）；对接 PISA 标准的全国性教育评估体系建设（瑞士 HarmoS、中国 NAEQ、加拿大 CEIP）；强化学校管理监测与持续改进（日本证据—改进循环）。
+>   改善教师教育（约旦、法国、加拿大）；对接 PISA 标准的全国性教育评估体系建设（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP）；强化学校管理监测与持续改进（日本证据—改进循环）。
 > - **微观决策层面**
 >   课程改革——接受 PISA 能力标准（德国 NES 课程引入科学素养概念）；学制调整（瑞士 HarmoS 延长义务教育 9→11 年）。
 > 各国案例及论证细节详见 [[Argument_Li_2025_HSSC|Li et al. (2025)]]。
@@ -131,7 +135,7 @@ updated: "2026-07-08"
 > 详见 [[Argument_Li_2025_HSSC|Li et al. (2025)]]。
 
 > [!factors] 三层影响机制
-> - **超国家层级** [[OECD]] 的软治理与模范社会塑造——国际认知共同体、[[Reference Society|参考社会]]设立、跨国压力与里斯本战略的协同。
+> - **超国家层级** [[OECD]] 的软治理与模范社会塑造——国际认知共同体、[[Reference Society|参考社会]]设立、跨国压力与[[Lisbon Strategy|里斯本战略]]的协同。
 > - **国家层级** 自我认知落差触发与文化-制度[[Transfer Translation Transformation|转译]]——两个关键条件（PISA 权重 + 认知落差）同时满足时产生政策冲击；各国的文化传统和政治制度构成外部影响的转译框架。
 > - **内部行动者网络** 政策制定者、政党、协会、媒体对 PISA 信息的转译与政治博弈——PISA 能否为决策者提供新的概念化方法或为既定政策方向提供正当性，是影响改革效果的核心。
 > PISA 与教育改革之间存在双向互动。详见 [[Argument_Li_2025_HSSC|Li et al. (2025)]]。

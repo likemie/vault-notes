@@ -6,7 +6,7 @@ aliases:
 summary: "指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,7 +26,8 @@ related_theories: []
 related_methods:
   - "[[Case Study]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 confidence: low
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 > Susan Robertson 及其合作者（Robertson et al., 2016）系统研究了高等教育如何被整合进全球区域主义项目、过程和政治。该领域的研究起源于：
 >
 > - 20 世纪末区域主义研究的兴起，以欧盟一体化为主要推动力
-> - 2000 年里斯本战略后，欧盟将教育和研究嵌入其作为"全球最具竞争力的[[Knowledge-Based Economy|知识经济]]体"的经济想象（Thompson & Parreira do Amaral, 2022, p.11）
+> - 2000 年[[Lisbon Strategy|里斯本战略]]后，欧盟将教育和研究嵌入其作为"全球最具竞争力的[[Knowledge-Based Economy|知识经济]]体"的经济想象（Thompson & Parreira do Amaral, 2022, p.11）
 > - 随后扩展到对 ASEAN、非洲联盟、南方共同市场等其他区域框架的比较研究
 >
 > Robertson et al. (2016) 在后续研究中推进了一次关键的[[Epistemology|认识论]]转向：从单纯分析国际/超国家组织对教育的影响，转向检视教育项目在想象和建构世界区域本身中的角色。他们论证：

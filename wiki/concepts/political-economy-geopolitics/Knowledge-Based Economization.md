@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -53,6 +53,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Lisbon Strategy]]"
   - "[[Europe 2020 Strategy]]"
   - "[[Innovation Union]]"
   - "[[Minerva University]]"
@@ -225,7 +226,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 ---
 
-> - **欧盟的制度化** 自 2000 年里斯本战略以来，教育和研究被系统性地嵌入欧洲经济想象（[[Europe 2020 Strategy|Europe 2020]]、[[Innovation Union]]、Horizon 2020），社会科学与人文学科被整合为服务于政策制定的证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）。
+> - **欧盟的制度化** 自 2000 年[[Lisbon Strategy|里斯本战略]]以来，教育和研究被系统性地嵌入欧洲经济想象（[[Europe 2020 Strategy|Europe 2020]]、[[Innovation Union]]、Horizon 2020），社会科学与人文学科被整合为服务于政策制定的证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）。
 > - **[[Global Education Industry|全球教育产业]]的兴起** 经济化、商品化、私有化、数字化、市场化和标准化构成了 [[Global Education Industry]] 的运作逻辑，为不同参与者的地缘政治抱负提供了肥沃的土壤和生产性的推力（Thompson & Parreira do Amaral, 2022, p.12）。
 > - **[[Minerva University]] 案例** 将高等教育彻底重塑为可扩展、可转让的商业和运营模型——无校园、全球城市沉浸、在线教学——体现了知识经济化在制度层面的极致运作（Thompson & Parreira do Amaral, 2022, pp.2–3）。
 > - **[[Spatial Sortings]]** 政策对创业生态系统和创新综合体的支持——被视为知识经济化的核心空间策略——实际上生产了民族国家的战略性城市化。公共和私人投资是这一结构过程的核心驱动因素。从[[Progressive Neoliberalism|进步新自由主义]]的视角看，枢纽地区（大型城市创新综合体）拥有增长潜力，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.30–31]])。

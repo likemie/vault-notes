@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Lisbon Strategy]]"
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[Youth Guarantee Scheme]]"
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> Europe 2020 Strategy（欧洲 2020 战略）是欧盟 2010–2020 年的十年战略规划，由欧盟委员会于 2010 年发布。它是 2001 年里斯本议程（Lisbon Agenda）的延续，继承了后者"使欧盟成为世界上最具竞争力和活力的[[Knowledge-Based Economy|知识经济]]体"的远景目标([[Argument_Rambla_2022_Springer|Rambla, 2022, p.164, 168]])。
+> Europe 2020 Strategy（欧洲 2020 战略）是欧盟 2010–2020 年的十年战略规划，由欧盟委员会于 2010 年发布。它是 2001 年[[Lisbon Strategy|里斯本议程]]（Lisbon Agenda）的延续，继承了后者"使欧盟成为世界上最具竞争力和活力的[[Knowledge-Based Economy|知识经济]]体"的远景目标([[Argument_Rambla_2022_Springer|Rambla, 2022, p.164, 168]])。
 >
 > 该战略的出台背景包括 2008 年全球金融危机后的财政紧缩环境，以及欧盟对自身在全球知识经济中竞争力下降的担忧。自 2001 年里斯本议程以来，欧盟的十年战略规划均以[[Performance Indicators|绩效指标]]驱动的基准管理（benchmarking）为核心治理机制（p.164, 169）。
 
@@ -89,7 +90,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 ## 时间线
 
 > [!note]-
-> - 2001 年：里斯本议程启动，首次尝试将创新和教育原则转化为可操作的十年目标([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169]])
+> - 2001 年：[[Lisbon Strategy|里斯本议程]]启动，首次尝试将创新和教育原则转化为可操作的十年目标([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169]])
 > - 2010 年：欧盟委员会发布《EUROPE 2020: 智能、可持续与包容性增长战略》通讯文件（European Commission, 2010）
 > - 2011 年：欧盟理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b）
 > - 2013 年：欧盟理事会发布 [[Youth Guarantee Scheme]] 建议书（European Council, 2013）

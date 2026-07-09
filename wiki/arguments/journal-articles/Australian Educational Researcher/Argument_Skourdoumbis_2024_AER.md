@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -59,6 +59,7 @@ related_facts:
   - "[[Community Innovation Survey]]"
   - "[[Education Endowment Foundation]]"
   - "[[OECD]]"
+  - "[[Comparative Education Society in Europe]]"
   - "[[BHP Foundation]]"
   - "[[Centre for Evidence and Implementation]]"
   - "[[LANTITE]]"
@@ -227,7 +228,7 @@ citation_aliases:
 > 神经科学这一问题表征并非自发形成，而是由[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）这一证据中介机构深度编排并直接起草的。AERO在改革中扮演了“自己出题、自己答题、自己判卷”的封闭角色，其背后潜藏着庞大的英澳跨国政策移动网络与惩罚性问责的制度偏好。
 
 > [!actor-grid] 循证政策移动的核心行动者与利益网络
-> - **跨界专家 (Jenny Donovan)** 既是 AERO 首席执行官，又是本次审查的专家起草小组成员（p. 94），曾任新南威尔士州教育评估中心（Centre for Education Statistics and Evaluation, CESE）主任，具有极强的量化绩效管理偏好。
+> - **跨界专家 (Jenny Donovan)** 既是 AERO 首席执行官，又是本次审查的专家起草小组成员（p. 94），曾任新南威尔士州教育评估中心（Centre for Education Statistics and Evaluation, [[Comparative Education Society in Europe|CESE]]）主任，具有极强的量化绩效管理偏好。
 > - **跨国中介代表 (Sir Kevan Collins)** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）创始人，直接在 AERO 的专家委员会任职（AERO, 2022），为英澳两国循证政策的跨国移动穿针引线。
 > - **跨国私人资本 ([[BHP Foundation]])** 资助了英国 EEF 的“全球循证生态建设计划”，旨在合作国家扶植“EEF式组织”（如 AERO）以推广标准化的证据垄断（EEF, 2024）。
 > - **封闭自我评级方 ([[Centre for Evidence and Implementation|CEI]])** 受 AERO 委托做桌面审查，但评估结论和专家的咨询多出自其自身组织和已有的“什么有效”中心，构成封闭的知识在生产循环。

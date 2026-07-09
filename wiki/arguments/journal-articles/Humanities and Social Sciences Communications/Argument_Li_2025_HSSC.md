@@ -38,7 +38,9 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Qualitative Codebook]]"
   - "[[Purpose Statement]]"
+  - "[[European Education Space]]"
   - "[[Research Scope]]"
+  - "[[PISA Literacy]]"
   - "[[Evidence-Based Education]]"
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
@@ -61,6 +63,9 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[HarmoS]]"
+  - "[[National Assessment of Education Quality China 2007]]"
+  - "[[Lisbon Strategy]]"
   - "[[Sputnik Shock 1957]]"
 related_arguments: []
 sources:
@@ -75,7 +80,7 @@ title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -184,7 +189,7 @@ issuing_organization: ""
 
 > [!warrant]- 推理桥梁
 > 区域集中性与三个因素有关：
-> - [[OECD]] 与欧盟委员会长期共享相似政策议程。OECD 定义和收集的欧洲教育体系数据与欧盟数据交叉，共同创建了**欧洲教育空间（European Education Space）**。
+> - [[OECD]] 与欧盟委员会长期共享相似政策议程。OECD 定义和收集的欧洲教育体系数据与欧盟数据交叉，共同创建了**[[European Education Space|欧洲教育空间]]（European Education Space）**。
 > - PISA 自首轮结果发布即塑造了欧洲教育网络的运作方式，政策领域自那时起就受到欧洲学者的广泛关注（Grek, 2009）。
 > - 欧洲代表了 OECD 世界的重要部分。
 
@@ -205,7 +210,7 @@ issuing_organization: ""
 > - **接受新自由主义教育价值并增加教育支出**
 >   德国和法国在 PISA 冲击后大幅增加教育投入。德国社会在 2000 年 PISA 结果公布时受到冲击：从 1970 年代到 2000 年代初，德国未能创造人力资本，用 OECD 的话说，剥夺了大部分学生获得最佳工作回报所需学术素质的机会（Martens & Niemann, 2013）。PISA 将教育主题直接推上政策议程，强化了政策制定者弥补绩效缺陷的行动。
 > - **接受能力和素养概念**
->   日本在 2003 年 PISA 结果公布后，于 2004 年将 PISA 素养正式纳入国家教育政策的核心目标。PISA 素养聚焦高阶能力：问题解决、知识应用、创造性工作和知识回忆（Ninomiya, 2019），为日本教育带来了与以往学力理解不同的新含义。
+>   日本在 2003 年 PISA 结果公布后，于 2004 年将 [[PISA Literacy|PISA 素养]]正式纳入国家教育政策的核心目标。PISA 素养聚焦高阶能力：问题解决、知识应用、创造性工作和知识回忆（Ninomiya, 2019），为日本教育带来了与以往学力理解不同的新含义。
 > - **影响[[Reference Society|参考社会]]选择**
 >   韩国在 PISA 之前长期默然借用（silently borrowing）日本教育政策。PISA 2009 后，韩国将注意力转向 2003 年排名领先的芬兰（Kim & Choi, 2023）。PISA 排名直接重塑了各国政策借鉴的方向。
 > - **加强国际合作**
@@ -230,7 +235,7 @@ issuing_organization: ""
 > - **改善教师教育**
 >   约旦和法国通过建立大学内的教师教育学院来加强教师职前教育和持续专业发展。加拿大延长了教师培训时长（2012 年），同时削减了许多文科和人文学科教师的培训（Baird et al., 2016）。
 > - **对接 PISA 的全国性评估与教学标准审查**
->   瑞士通过 **HarmoS**（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule，州际义务教育协调协议）引入国家教育标准，标志着对学生能力的更大重视和一种不同测试文化的兴起，涉及从投入导向基本原则向以效率和产出控制为目标的底层逻辑的转变（Bieber & Martens, 2011）。加拿大[[Performance Indicators|教育指标]]计划（Canadian Education Indicators Program, CEIP）引入了与 OECD 报告相同的区域统一指标，包括基于 PISA 的学生成就卓越度（Student Achievement Excellence）指标，PISA 结果成为判断加拿大教育水平是否卓越、教育政策是否成功的依据（Baird et al., 2016）。中国于 2007 年建立了**义务教育质量监测中心（教育部基础教育质量监测中心，National Assessment of Education Quality, NAEQ）**，教育部报告参照 PISA 测试的教育质量和学生能力标准，基于对 PISA 指标的批判性研究和改编，描述了数学、语文、科学、道德、体育和艺术六项学科指标（Xie et al., 2022）。
+>   瑞士通过 **[[HarmoS]]**（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule，州际义务教育协调协议）引入国家教育标准，标志着对学生能力的更大重视和一种不同测试文化的兴起，涉及从投入导向基本原则向以效率和产出控制为目标的底层逻辑的转变（Bieber & Martens, 2011）。加拿大[[Performance Indicators|教育指标]]计划（Canadian Education Indicators Program, CEIP）引入了与 OECD 报告相同的区域统一指标，包括基于 PISA 的学生成就卓越度（Student Achievement Excellence）指标，PISA 结果成为判断加拿大教育水平是否卓越、教育政策是否成功的依据（Baird et al., 2016）。中国于 2007 年建立了**义务教育质量监测中心（[[National Assessment of Education Quality China 2007|教育部基础教育质量监测中心]]，National Assessment of Education Quality, NAEQ）**，教育部报告参照 PISA 测试的教育质量和学生能力标准，基于对 PISA 指标的批判性研究和改编，描述了数学、语文、科学、道德、体育和艺术六项学科指标（Xie et al., 2022）。
 > - **强化学校管理监测与持续改进**
 >   PISA 影响了日本学校教育管理体系中**证据—改进循环（evidence-improvement cycle）**的构建：学校管理者关注校内学业成就，根据设定目标检查教育过程和结果信息，并以这些信息作为证据推动教育管理改进（Ninomiya, 2019）。
 
@@ -289,7 +294,7 @@ issuing_organization: ""
 > - **跨国情境因素**
 >   跨国压力、国际局势、区域经济发展政策和当代教育政策的主导框架是重要的决定性条件。PISA 常被视为教育全球化的一部分，即使高排名国家（如芬兰）也面临借鉴教育思想和实践的压力。
 > - **欧洲的特殊复杂性**
->   在欧洲尤其难以将 PISA 的影响从欧盟委员会的倡议中分离出来。OECD 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。PISA 的教育概念框架与欧盟**里斯本战略（Lisbon Strategy / Estratégia de Lisboa，全称里斯本议程 Lisbon Agenda，2000 年启动）**紧密相连，广泛推动了欧盟国家以使欧洲成为新世纪最具活力的[[Knowledge-Based Economy|知识经济]]为目标的教育改革。
+>   在欧洲尤其难以将 PISA 的影响从欧盟委员会的倡议中分离出来。OECD 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。PISA 的教育概念框架与欧盟**[[Lisbon Strategy|里斯本战略]]（Lisbon Strategy / Estratégia de Lisboa，全称里斯本议程 Lisbon Agenda，2000 年启动）**紧密相连，广泛推动了欧盟国家以使欧洲成为新世纪最具活力的[[Knowledge-Based Economy|知识经济]]为目标的教育改革。
 
 > [!factors] 第二层：国家层面
 > - **两个关键触发条件**

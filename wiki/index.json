@@ -419,6 +419,15 @@
     ]
   },
   {
+    "title": "European Education Space",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/European Education Space.md",
+    "aliases": [
+      "欧洲教育空间",
+      "European education space"
+    ]
+  },
+  {
     "title": "Externalization",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Externalization.md",
@@ -613,6 +622,16 @@
     "aliases": [
       "操演性",
       "绩效性"
+    ]
+  },
+  {
+    "title": "PISA Literacy",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/PISA Literacy.md",
+    "aliases": [
+      "PISA 素养",
+      "PISA 型読解力",
+      "PISA literacy"
     ]
   },
   {
@@ -11454,6 +11473,17 @@
     ]
   },
   {
+    "title": "National Assessment of Education Quality China 2007",
+    "type": "fact",
+    "path": "wiki/facts/china/National Assessment of Education Quality China 2007.md",
+    "aliases": [
+      "中国义务教育质量监测中心",
+      "NAEQ",
+      "教育部基础教育质量监测中心",
+      "National Assessment of Education Quality"
+    ]
+  },
+  {
     "title": "New Culture Movement",
     "type": "fact",
     "path": "wiki/facts/china/New Culture Movement.md",
@@ -11685,7 +11715,19 @@
     "path": "wiki/facts/eu/Comparative Education Society in Europe.md",
     "aliases": [
       "欧洲比较教育学会",
-      "欧洲比较教育学会成立"
+      "欧洲比较教育学会成立",
+      "CESE"
+    ]
+  },
+  {
+    "title": "Lisbon Strategy",
+    "type": "fact",
+    "path": "wiki/facts/eu/Lisbon Strategy.md",
+    "aliases": [
+      "里斯本战略",
+      "里斯本议程",
+      "Lisbon Agenda",
+      "Estratégia de Lisboa"
     ]
   },
   {
@@ -12680,6 +12722,16 @@
     "aliases": [
       "瑞典教育研究所",
       "Skolforskningsinstitutet"
+    ]
+  },
+  {
+    "title": "HarmoS",
+    "type": "fact",
+    "path": "wiki/facts/switzerland/HarmoS.md",
+    "aliases": [
+      "瑞士州际义务教育协调协议",
+      "Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule",
+      "Interstate Compulsory Education Harmonization Agreement"
     ]
   },
   {
