@@ -9,7 +9,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Machiavelli 思想），视主权领土国家为核心行动者，以无政府状态下的“权力”斗争与国家生存为核心逻辑。在比较教育中，它催生了工具性借用、参照社会与文明化工程等研究形态。"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
