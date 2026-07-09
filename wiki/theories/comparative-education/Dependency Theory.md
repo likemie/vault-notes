@@ -137,8 +137,8 @@ updated: 2026-07-09
 > [!dev-timeline] 发展脉络
 > - **1974 — 学科文化帝国主义奠基** Carnoy 出版 *Education as Cultural Imperialism*，系统批判教育在殖民与新殖民秩序中的顺从驯化功能，发出了打破“被殖民者接受被支配角色”的批判性追问。(Carnoy, 1974, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 426]])
 > - **1977–1978 — 心灵奴役与殖民教育汇编** Altbach 发表 *Servitude of the Mind?*，将依附论重心引向脑力依附的生成机制；随后与 Kelly 合编 *Education and Colonialism*。(Altbach, 1977; Altbach & Kelly, 1978, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 427]])
-> - **1980 — 世界体系引入与慈善批判** Arnove 将沃勒斯坦的世界体系论引入比较教育；并撰文批判洛克菲勒等慈善基金会作为文化帝国主义软支配工具的本质；Watson 梳理第三世界教育中的依附结构。(Arnove, 1980; Watson, 1980, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 427]])
-> - **1990 — 第三世界社会过渡探讨** Carnoy & Samoff 出版 *Education and Social Transition*，探究越南、古巴、莫桑比克等国在资本主义向社会主义过渡期，如何借助教育革命打破旧阶级结构。(Carnoy & Samoff, 1990, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 427]])
+> - **1980 — 世界体系引入与慈善批判** Arnove 将沃勒斯坦的世界体系论引入比较教育；并撰文批判洛克菲勒等慈善基金会作为文化帝国主义软支配工具的本质；Watson 梳理第三世界教育中的依附结构。(Arnove, 1980; Watson, 1980, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 426–427]])
+> - **1990 — 第三世界社会过渡探讨** Carnoy & Samoff 出版 *Education and Social Transition*，探究越南、古巴、莫桑比克等国在资本主义向社会主义过渡期，如何借助教育革命打破旧阶级结构。(Carnoy & Samoff, 1990, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 427–428]])
 > - **1990s–2010s — 高教领域的“非自觉地缘政治”演化** 随着全球化浪潮的高涨，传统的二元对抗被乐观的世界主义和大学第四职能话语掩盖。在此背景下，Altbach 等人（2004, 2007）继续以中心-边缘理论和依附论解构“学术依附”与“学术新殖民主义”，成为[[Geopolitics of Higher Education|高等教育地缘政治]]研究从非自觉走向自觉的桥梁。([[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊, 2025, pp. 4–5]])
 
 ---
