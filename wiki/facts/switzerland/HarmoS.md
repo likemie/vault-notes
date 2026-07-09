@@ -20,14 +20,17 @@ tags:
   - pisa
   - education-standards
   - harmonization
-related_concepts: []
+related_concepts:
+  - "[[Paradigm]]"
+  - "[[Hypothesis]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[PISA]]"
   - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
 confidence: medium

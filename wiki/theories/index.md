@@ -19,7 +19,7 @@ Total entries: **93**
 > - [[Nation Building through Education]] — 国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析
 > - [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] — Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育政策的影响机制分为超国家、国家层面和内部行动者网络三个层级，强调全球教育场域中的双向互动
 > - [[Wight's Three Traditions of International Theory]] — 马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产
-> - [[World Society Theory]] — 把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同
+> - [[World Society Theory]] — 将全球制度趋同阐释为世界文化模型（world culture models）扩散与模仿产物的新制度主义社会学理论。它主张全球化不是简单的功能主义或国家强权统治产物，而是以普世进步和正义规范为基础的去中心化“世界社会”在观念层面的建构，用于解释教育系统和组织形式在跨国范围内呈现的趋同趋势。
 > - [[World-Systems Theory]] — 把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系
 
 > [!index-list]- Curriculum (3)

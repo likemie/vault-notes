@@ -63,6 +63,7 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Walter Mignolo]]"
 related_facts:
+  - "[[Comparative and International Education Society]]"
   - "[[OECD]]"
   - "[[International Institute for Educational Planning]]"
   - "[[Comparative Education Society in Europe]]"

@@ -39,6 +39,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
 sources:
@@ -46,7 +47,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-07-09
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Caraca_2009_TFSC"
@@ -175,7 +176,7 @@ issuing_organization: ""
 
 **政策后果(p.862)**
 
-- 欧盟里斯本议程推出巴塞罗那目标：私人 R&D 占 GDP 2%、公共 R&D 占 GDP 1%。底层逻辑仍是线性模型。
+- 欧盟[[Lisbon Strategy|里斯本议程]]推出巴塞罗那目标：私人 R&D 占 GDP 2%、公共 R&D 占 GDP 1%。底层逻辑仍是线性模型。
 - 创新产出未反映科学投入时，落差被标记为欧洲悖论。
 - 政策反应不是反思线性模型的前提[[Hypothesis|假设]]，而是推动科学商业化。
 - 大学被推向专利生产者角色，其为产业和社会培养具有[[Critical Thinking|批判性思维]]的毕业生的根本功能被系统忽视。

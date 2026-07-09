@@ -7,7 +7,7 @@ aliases:
   - Stanford school
   - World Culture Theory
   - 世界文化理论
-summary: "把全球制度扩散理解为世界文化模型广泛传播与模仿结果的社会学理论，用于解释学校制度和大学组织为何在跨国范围内趋同"
+summary: "将全球制度趋同阐释为世界文化模型（world culture models）扩散与模仿产物的新制度主义社会学理论。它主张全球化不是简单的功能主义或国家强权统治产物，而是以普世进步和正义规范为基础的去中心化“世界社会”在观念层面的建构，用于解释教育系统和组织形式在跨国范围内呈现的趋同趋势。"
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 25
@@ -15,161 +15,185 @@ theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
 tags:
-- region/global
-- paradigm/globalization
-- subject/comparative-education
+  - region/global
+  - paradigm/globalization
+  - subject/comparative-education
 related_concepts:
+  - "[[Analytic Framework]]"
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
-  - "[[IB Diploma Programme]]"
-  - "[[Hypothesis]]"
-  - "[[Ontology]]"
-  - "[[Epistemology]]"
-  - "[[Constructivist Paradigm]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Development Turn in Comparative Education]]"
+  - "[[Critical Thinking]]"
+  - "[[IB Diploma Programme]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Policy Borrowing]]"
-  - "[[Document]]"
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Epistemic Governance]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Cultural Models]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John W. Meyer]]"
-  - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[PISA]]"
-  - "[[UN Sustainable Development Goals]]"
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
+  - "[[OECD]]"
+  - "[[UN Sustainable Development Goals]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Yan_2025_JCS]]"
-  - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
-confidence: medium
+  - "[[Argument_Amos_2022_Springer]]"
+confidence: high
 status: draft
-created: '2026-05-11'
-updated: '2026-06-02'
+created: 2026-05-11
+updated: 2026-07-09
 ---
 
 # World Society Theory
 
 ---
-## 核心主张
 
-> [!tip]-
-> 世界社会理论（world society theory，亦称世界政体理论或斯坦福学派）主张：在世界层面存在一个由[[Cultural Models|文化模型]]、规范和认知框架构成的世界社会（world society），它超越了以民族国家为中心的传统国际关系理解。这个世界社会缺乏传统的控制和权威机制（如中央政府和强制执行力），其运作本质上通过他者性（[[Otherhood]]）机制——即围绕进步与正义等宏大目标的文化模型的扩散与模仿——来建构和维持（Meyer et al., 1997，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145, 149]]）。该理论强调，民族国家的制度形式、组织的结构特征以及个体的身份认同，很大程度上是全球文化模型在地方层面落地的结果，而非纯粹的地方性或功能性产物。
+## 理论定位
 
-> [!quote]
-> "Lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood', that is, through the diffusion and mimesis of cultural models, usually revolving around broad goals of progress and justice often provided in a rationalized form by (social) scientists."（Meyer et al., 1997, cited in [[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]）
-> 
-> 由于缺乏传统的控制和权威机制，世界社会本质上是通过这种他者性（otherhood）来建构的，即通过文化模型的扩散与模仿，这些模型通常围绕进步与正义等宏大目标，并常由（社会）科学家以理智化的形式提供。
+> [!theory-position] 理论定位
+> - **解释对象** 全球范围内主权国家制度结构（如学校体系、宪法、公民身份）、组织特征与个体身份认同在非强制条件下的高度趋同（convergence）现象。
+> - **理论问题** 为什么在政治、经济与文化传统差异巨大的国家之间会形成惊人相似的大众教育体系，全球化如何在缺乏单一世界中央政府的情况下促成制度秩序的稳步扩散。
+> - **理论类型** 宏观社会学理论、新制度主义组织理论、全球文化[[Analytic Framework|分析框架]]。
+> - **知识位置** 斯坦福学派（Stanford School）新制度主义组织社会学，代表人物包括 [[John W. Meyer]]、Francisco O. Ramirez、John Boli等，核心成果为 Meyer 等人于1997年发表的经典论文。
 
----
-## 核心命题
+> [!claim] 核心主张
+> 在世界层面存在一个由普世理性[[Cultural Models|文化模型]]、规范和认知框架构成的“世界社会”。它缺乏传统的主权中央政府，本质上是通过“他者性（[[Otherhood]]）”机制——即国际组织、大学和科学家充当人权、进步和正义等普遍法则的无私代理人，在全球范围内输出并合法化文化模型，从而驱动主权国家进行自我模仿、同质化采纳与解耦运作。[[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]
 
-> [!abstract]
-> 世界社会理论的主要命题(综合自 Zapp, 2022, pp.145–149; [[Argument_Yan_2025_JCS|Yan & Morris, 2025]]; [[Argument_Amos_2022_Springer|Amos, 2022]])：
-
-### 世界社会的运作机制
-
-- **世界社会的文化建构性** 世界社会不是由权力和物质利益构成的实体，而是由共享的[[Cultural Models|文化模型]]、规范和认知框架建构而成。观念、知识、意义和规范在全球治理中扮演核心的构成性角色（Barnett & Finnemore, 2004; Meyer et al., 1997; Wendt, 1999）。
-- **[[Otherhood]] 作为世界社会的运作机制** 由于缺乏中央权威，世界社会通过为他人行动（otherhood）来运作——各类组织（国际组织、大学、NGO）将自己定义为他者的代理者，为民族国家、弱势群体、环境以及人权、正义等原则提供知识和规范支持（Meyer & Jepperson, 2000; Zapp, 2020a）。
-- **[[Organizational Actorhood|组织能动者身份]]的全球扩散** 在全球文化模型的压力下，各类组织日益获得能动者身份（actorhood）——自主性、目标导向、问责性和社会嵌入性成为正常组织的标准特征（Bromley & Meyer, 2015）。
-- **世界社会中的知识与科学权威** 科学知识因其普世性、独立性、怀疑精神和无私利性（Merton, 1973 [1942]）在世界社会中具有独特的合法化功能，大学和科学家因此成为世界社会中的关键行动者([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])。
-- **多行动者、多层次治理架构** 在去中心化和无定形的世界社会配置中，传统治理行动者（民族国家）与非国家行动者（国际组织、大学、NGO）共享 otherhood，构成多行动者、多层次全球治理架构（Barnett & Finnemore, 2004，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]）。
-
-### 全球学校模型的扩散与趋同
-
-- **全球扩散** 现代学校教育的基本形式（年龄分级、课程分类、标准化考试）在全球范围内趋同，动力是更普遍的现代民族国家文化（西方）模型在全球的扩散（Meyer et al., 1997，引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p.482]]）。
-- **西方模板** 扩散的方向是从西方（尤其是美国）向世界其他国家。Social Studies（Hamilton, 1973）和 Humanities（Stenhouse, 1968）——以综合学科替代单一学科的课程形式——最初在美英开发，随后扩散至全球([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p.482]])。
-- **趋同机制** 通过工业化、城市化和国家建构的标准化过程实现，而非强迫性政策转移。
-
-### 大众教育的政治建构
-
-Ramirez & Boli (1987) 重构了 18 世纪欧洲民族国家建构大众教育的历史过程：民族国家基于地缘政治动态（连同经济与宗教系统变革），通过教育创造 membership——建立忠诚与归属的纽带，同时也划定边界——公共教育的普遍性不延伸至国界之外([[Argument_Amos_2022_Springer|Amos, 2022, pp.54–55]])。
-
-> 现代教育的 DNA 里[[Coding in Qualitative Research|编码]]了内外之分——教育让你成为某个国家的公民，但同时通过划定谁不属于我们来运作。这一分析为世界社会理论提供了历史基线：全球教育趋同的根源在于民族国家共享的 membership 创造功能。
-
-### PISA 加速器
-
-Auld & Morris (2016) 指出，[[PISA]] 等国际比较测试作为最佳实践的标识器，加速了政策参照和课程趋同。
+> [!citation-card]- 关键表述
+> 由于缺乏传统的控制和权威机制，世界社会本质上是通过这种“他者性”（otherhood）来建构的，即通过文化模型的扩散与模仿，这些模型通常围绕进步与正义等宏大目标，并常由（社会）科学家以理智化的形式提供。[[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]
+>
+> *Lacking traditional mechanisms of control and authority, world society is essentially constructed through such 'otherhood', that is, through the diffusion and mimesis of cultural models, usually revolving around broad goals of progress and justice often provided in a rationalized form by (social) scientists.*
 
 ---
+
+## 关键概念与理论构件
+
+> [!entry-map]
+>
+> | 构件 | 类型 | 在理论中的功能 |
+> |:-----|:-----|:--------------|
+> | [[Otherhood]] | 概念 | 世界社会非强制运行的核心中立授权机制，非国家行动者充当无私代言人输出规范。 |
+> | [[Organizational Actorhood]] | 概念 | 全球[[Cultural Models\|文化模型]]塑造的组织自主性、目标性、问责性与嵌入性特征，是趋同的微观体现。 |
+> | [[Cultural Models]] | 概念 | 理智化、标准化的全球进步与正义模板，是跨国模仿和解耦实践的内容载体。 |
+> | [[Lifelong Learning]] | 概念 | 理性化世界文化在教育领域的典型政策表现，是超国家组织远程治理的表征。 |
+> | [[Knowledge-Based Economy]] | 概念 | 世界社会中占支配地位的理智化经济论述，为教育的资本投资重构提供神话支撑。 |
+
+---
+
+## 核心命题与机制
+
+> [!proposition-chain] 核心命题一｜世界社会是一个由共享的世界[[Cultural Models|文化模型]]和“他者性（[[Otherhood]]）”非强制机制建构与维系的观念空间
+> - **前提一** 世界社会缺乏具有强力行政和暴力制裁的世界中央政府。
+> - **前提二** 国际组织、大学、非政府组织（NGO）将自身定位为普世原则（如人权、发展、科学）的无私代言人，充当他者利益代理人（otherhood）以输出理智化政策倡议。[[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]
+> - **推导** ① 暴力缺失迫使全球秩序依赖文化说服；② 具有科学与道德权威的代理人通过 otherhood 将局部性西方模式转化为“客观普世规律”；③ 国家为彰显自身是现代“合法成员”，自发模仿这些模型，最终实现观念层面的秩序建构。
+
+> [!proposition-chain] 核心命题二｜全球学校制度的趋同源自世界文化模板的单向扩散与非强制性模仿
+> - **前提一** 全球大众教育在班级分级、课程分类、标准化测验等结构上呈现同质化趋同，且这种趋同不能用各国的实际效率或国内发展水平完全解释。[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p.482]]
+> - **前提二** 比较教育在二战后经历“[[Development Turn in Comparative Education|发展转向]]”，建构了由多边机构和技术顾问组成的研究网，单向将西方（尤其是美英）的教育模板理智化为唯一客观的科学设计。[[Argument_Klerides_2023_CE|Klerides, 2023, p.422]]
+> - **推导** ① 西方教育体系被奉为进步标志并转化为全球“最佳实践”；② 这些文化神话通过多边学术网络与资金援助渠道流转；③ 地方行动者为了确立现代国家合法性，在政策上口头采纳或制度上模仿这些模板，实现跨国趋同。
+
+> [!proposition-chain] 核心命题三｜大众教育系统最初是由民族国家基于地缘生存焦虑、为确立政治成员身份（membership）及边界而政治建构的
+> - **前提一** 18 世纪欧洲民族国家大众教育的兴起，主要源于应对地缘政治竞争的防御性动员，旨在通过教育创造公民对国家的忠诚。
+> - **前提二** 大众教育在确立国内成员身份（membership）的同时，通过国界限制，排他性地划定了谁不属于本国国民。[[Argument_Amos_2022_Springer|Amos, 2022, pp.54–55]]
+> - **推导** ① 大众教育最初并非出于全球文化融合，而是国家地缘争夺和身份固化的制度工具；② 国家通过教育分配成员地位，令教育制度深植于主权安全政治；③ 这为解析后冷战时代因地缘冲突加剧导致全球化教育政策逆转奠定了历史基线。
+
+> [!proposition-chain]- 延伸命题
+> - **推论一（源自核心命题一）** 大学（尤其是超级研究型大学）通过垄断科学解释与理性设计，成为世界社会中最具合法性的 explanation 制造机，其知识权威不受国家主权限制。[[Argument_Zapp_2022_Springer|Zapp, 2022, p.143]]
+> - **推论二（源自核心命题二）** 诸如 [[PISA]] 等大规模国际测评，通过输出简化的定量标准和同行压力，加速了政策参照和课程趋同，扮演着全球教育趋同“加速器”的角色。
+> - **应用命题** 当应用于地方教育变革分析时，该理论认为地方决策层往往倾向于选择性地在宏观政策文本中植入全球教育修辞（如“[[Lifelong Learning|终身学习]]”），以应付国内的合法性危机（即“解耦”现象）。[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]]
+
+> [!mechanism-map]- 机制图
+> ```mermaid
+> flowchart TD
+>   A[理智化文化模型] -->|Otherhood机制| B(无私代言人: 大学/IOs)
+>   B -->|非强制输出| C(民族国家政策采纳)
+>   C -->|制度化模仿| D[全球制度趋同]
+>   C -.地方政治危机/主权介入.-> E[政策废除与解耦失效]
+> ```
+
+> [!exegesis]- 教育研究例子
+> **以[[Liberal Studies|香港通识教育科]]（LS）的创制与废除为例** 
+> 针对**核心命题二**的全球模板扩散与**命题三**的本地主权边界冲突：
+> 1. **创立阶段（2004–2009）** 香港政府采纳了全球广泛流传的“[[Critical Thinking|批判性思维]]”、“终身学习”和“[[Knowledge-Based Economy|知识经济]]”话语，并直接借用 [[IB Diploma Programme|IBDP]] 的探究式课程框架作为 LS 的蓝本。此时期表面上印证了全球文化模型向东方社会的单向趋同与模仿。
+> 2. **废除阶段（2019–2021）** 在发生深度的本地地缘政治与意识形态危机后，主权国家的硬性权力直接干预，完全抛弃了全球话语，将 LS 彻底改组为以国家安全、国民认同为唯一导向的[[Citizenship and Social Development|公民与社会发展科]]（CSD）。这印证了命题三关于大众教育深嵌于政治边界防卫的本质，并揭示了全球趋同在国家主权强力干预下的高度工具性、修辞性与可逆性。[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]]
+
+---
+
+## 理论立场与使用方式
+
+> [!theory-stance] [[Epistemology|认识论]]立场
+> - **[[Ontology|本体论]]** [[Constructivist Paradigm|社会建构主义]]（Social Constructivism）。社会现实、组织建制与行动者能动性（actorhood）均非自然给定或出于技术效率需求，而是被宏观的世界[[Cultural Models|文化模型]]与规范仪式性地建构的。
+> - **认识论** 倾向于宏观结构主义分析。认为组织和地方的微观反应主要体现了全球宏观规范压力下的仪式性合规（institutional mimesis）与折射，偏重解释趋同而非自发的差异。
+> - **方法含义** 要求跨国纵向时间序列对比、全球政策话语网络[[Coding in Qualitative Research|编码]]、组织使命陈述的文本分析，以检验制度结构在没有实际功能效益需求时是否同步趋同。
+> - **不能直接推出的东西** 不能直接证明全球政策在具体班级教学或地方实施中的实际功能有效性，亦不能自动确立全球进步规范的道德正当性，不能证明个体心理层面的真实内化。
+
+> [!theory-use] 如何用于研究
+> - **作为理论框架** 解释为何许多发展中国家会建立起与本地生产力完全脱节的、高度现代化的大学组织或复杂的环境法案，证明其并非基于本土功能需求，而是仪式性合规。
+> - **作为分析工具** 将全球教育规划流转编码为“世界政体”理论中的理性神话，开发针对课程标准、学会建制更名、国际组织倡议扩散的话语追踪指标。
+> - **作为批判视角** 揭示世界银行或[[OECD|经合组织]]所推行的“最佳实践”在实质上并不具备普世的技术客观性，而是一种去情境化的世界文化模板，在客观上起到了消解非西方地方性认识论主权的效果。[[Argument_Klerides_2023_CE|Klerides, 2023, p.428]]
+
+---
+
+## 适用边界
+
+> [!theory-boundary] 适用边界
+> - **适合解释** 超国家多边协议的签署、全球教育课程大纲形式的同质化扩张、大学组织使命陈述与治理架构的趋同过程。
+> - **谨慎使用** 发生剧烈主权政治动荡、地缘意识形态对抗、以及强力政治控制重新定义课程边界的历史节点。
+> - **不适合解释** 微观课堂里的师生人际互动、地方教师对政策的隐性对抗与解耦细节、学生真实的知识掌握与学习效果。
+> - **常见误用** 混淆了政策的“名义采纳”与“实际运行”，在仅分析创立或规划文本时，过度推断全球趋同的不可逆性，低估了“解耦（decoupling）”和修辞性参照的工具特征。[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]]
+
+---
+
 ## 发展脉络
 
-> [!note]-
-
-### 理论奠基与系统阐述
-
-- 1970s  [[John W. Meyer]] 在斯坦福大学开始发展新制度主义组织理论，关注制度环境对组织形式的塑造作用。这一阶段的标志性成果是与 Brian Rowan 合作的 Institutionalized Organizations: Formal Structure as Myth & Ceremony (1977)，提出组织的正式结构反映制度环境中的理性神话而非技术效率需求。
-- 1980 年 Ramirez & Meyer 在 *Annual Review of Sociology* 发表奠基性论文，提出比较教育是社会建构的现代世界系统。
-- 1987 年 Ramirez & Boli 发表 The Political Construction of Mass Schooling，分析 18 世纪欧洲民族国家通过教育创造 membership 的历史过程([[Argument_Amos_2022_Springer|Amos, 2022, pp.54–55]])。
-- 1997 年 Meyer, Boli, Thomas & Ramirez 在 *American Journal of Sociology* 发表 World Society and the Nation-State，标志世界社会理论的系统阐述——论证民族国家的制度形式（如宪法、教育系统、公民身份概念）在全球范围内趋同，这种趋同无法由国家利益或功能性需求解释([[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]])。
-- 2000 年 Meyer & Jepperson 在 *Sociological Theory* 提出 [[Otherhood]] 概念，完善了世界社会理论中能动者的文化建构理论([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])。
-
-### 组织研究应用与高等教育扩展
-
-- 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中发展 [[Organizational Actorhood]] 理论，提出四维度模型（自主性、目标导向、问责性、社会嵌入性），将世界社会理论延伸至全球组织扩张的分析([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])。
-- 2020 年 Frank & Meyer 在 *The University and the Global Knowledge Society* 将世界社会理论系统应用于大学分析，论证大学——尤其是现代超级研究型大学——是全球知识社会的核心制度([[Argument_Zapp_2022_Springer|Zapp, 2022, p.143]])。
-- Zapp (2020a, 2020b, 2022) 将世界社会理论中的 otherhood 概念应用于分析国际组织和大学在全球治理中的知识行动者角色，以 [[UN Sustainable Development Goals|SDGs]] 为案例展示了大学通过四种机制嵌入全球治理，详见 [[Argument_Zapp_2022_Springer]]([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.148–154]])。
-
-### 批评与经验检验
-
-- 2015 年 Silova & Brehm 批判性地审视该理论，质疑从神话到模型的再生产机制——理论不仅描述西方模型扩散，更在规范性上再生产了西方中心主义。
-- [[Argument_Klerides_2023_CE|Klerides (2023)]]将围绕世界社会理论的争论概括为"世界文化辩论"（world culture debate），区分了三种立场：世界文化理论家（Meyer & Ramirez）将转移视为行动者为实现归属于"世界社会"而进行的共识性内化过程；趋同批评者（Schriewer）探索全球现象的地方变异，质疑行动者不加反思地接受同一套普遍信息；全球—地方联结论者强调转移不仅是模仿和规范实践，也是强制和不平等权力关系的产物([[Argument_Klerides_2023_CE|Klerides, 2023, pp.425–426]])。这一辩论是理性主义比较教育内部的核心理论张力。
-- 2025 年 Yan & Morris 以[[Liberal Studies|香港通识教育科]]（LS）为案例对该理论进行检验和限定：**如果仅关注 LS 的创立（全球参照、[[IB Diploma Programme|IBDP]] 借用），该理论表面上成立；但将废除阶段（[[Citizenship and Social Development|CSD]] 取代 LS）纳入分析，趋同[[Hypothesis|假设]]难以解释国家安全的突变性介入([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])**。详见 [[Argument_Yan_2025_JCS]]。
+> [!dev-timeline] 发展脉络
+> - **1977 — 制度化神话奠基** Meyer & Rowan 发表奠基性著作，提出组织的正式结构反映的是制度环境中的“理性神话”和仪式，而非技术效率。
+> - **1987 — 大众教育的政治建构** Ramirez & Boli 阐述欧洲大众教育的兴起是国家出于 membership 创造及地缘政治竞争的防御性动员产物。[[Argument_Amos_2022_Springer|Amos, 2022, pp.54–55]]
+> - **1997 — 理论系统化** Meyer 等人发表论文，标志世界社会理论的成熟，论证了国家主权形式在全球理性[[Cultural Models|文化模型]]下的广泛趋同。[[Argument_Zapp_2022_Springer|Zapp, 2022, p.145]]
+> - **2000 — 他者性机制** Meyer & Jepperson 提出 [[Otherhood]] 理论，阐明科学代言人与代理机构如何作为核心动力机制输出理性神话。[[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]]
+> - **2015 — 组织扩张与批判** Bromley & Meyer 提出 [[Organizational Actorhood]] 四维模型；同时 Silova & Brehm 批评该学说在规范上再生产了西方中心主义。
+> - **2020–2022 — 高等教育与多边治理** Frank & Meyer 阐明大学作为全球知识社会的关键地位；Zapp 检验了大学通过 otherhood 机制嵌入[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDGs）多边治理的四种具体知识活动。[[Argument_Zapp_2022_Springer|Zapp, 2022, pp.148–154]]
 
 ---
-## 认识论立场
 
-> [!info]
-> - [[Ontology|本体论]]与[[Epistemology|认识论]]立场：[[Constructivist Paradigm|社会建构主义]]——社会现实不是客观给定的，而是通过共享的[[Cultural Models|文化模型]]、规范和认知框架被建构的。
-> - 分析层次：宏观的全球层次，关注世界层面的制度化过程如何塑造民族国家、组织和个体。
-> - 常用研究方法：跨国比较分析、历史档案分析、全球文本和话语分析。
-
----
 ## 争议与批评
 
-> [!warning]
+> [!debates] 理论争议
+>
+> > [!axis] 比较教育中的“世界文化辩论（world culture debate）”
+> > 学界围绕政策转移的权力网络和变异性质展开辩论。
+> > - **世界文化理论家（[[John W. Meyer]]等）** 将[[Policy Borrowing|政策借用]]视为行动者为了将自身重构为世界社会合法成员而进行的共识性内化，趋同是主基调。
+> > - **地方变异折射论者（Schriewer）** 强调应关注全球现象引入本土时的折射、改组与解耦变异，地方折射限制了趋同效果。
+> > - **全球—地方联结论者（Carney等）** 强调政策流动不仅是模仿，也是地缘强权、资本主义核心-边缘不平等关系强行支配的产物。[[Argument_Klerides_2023_CE|Klerides, 2023, p.425]]
+>
+> > [!axis] 修辞趋同与本地政治安全的可逆冲突
+> > 争论全球制度趋同假说能否在面对强力政治安全介入时保持稳健。
+> > - **斯坦福学派** [[Hypothesis|假设]]跨国趋同是一个长期、去政治化且不可逆转的[[Cultural Models|文化模型]]扩散过程。
+> > - **国家安全与权力政治学者（Yan & Morris）** 论证全球话语仅是被地方政府当做应付政治危机的工具性修辞；当主权国家面临安全挑战时，全球话语随时会被瞬间抛弃，趋同具有高度可逆性。[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]]
+>
+> > [!axis] 科学普世理性 vs [[Epistemology|认识论]]帝国主义
+> > 争论世界社会的核心规范是否具有客观普遍的进步性质。
+> > - **普遍主义学者** 认为世界社会扩展的是无私的科学人文主义与客观治理规律，有利于落后地区改良。
+> > - **去殖民学者（Silova, Brehm）** 指出该理论以西方现代性为普世标准的假设，在客观上为“知识新帝国”的学术合法性辩护，是一种抹杀本土认识论主权的新殖民话语。[[Argument_Klerides_2023_CE|Klerides, 2023, p.428]]
 
-### 表面趋同 vs 功能差异
-
-理论将全球课程标准化视为西方现代性模型的趋同证据。但 Yan & Morris (2025) 以 [[Liberal Studies|LS]] 案例论证，全球参照可以是**修辞性**的——港府引用[[Lifelong Learning|终身学习]]和[[Knowledge-Based Economy]]的全球论述，其目的是解决国内政治问题（政府合法性、教师就业），而非真正追求全球趋同。若仅关注创立期，LS 似乎支持趋同[[Hypothesis|假设]]；将废除阶段纳入分析，全球论述完全消失、国家安全成为唯一逻辑——趋同假设立即崩塌([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。
-
-### 国家权力与国内政治的忽视
-
-Tröhler (2023) 批评理论将课程变革归因于全球文化扩散，而非国家建构、政治控制和利益竞争。LS 案例支持这一批评——废除阶段国家安全的本地政治逻辑成为唯一决策基础，全球话语被完全抛弃。[[Argument_Zapp_2022_Springer|Zapp (2022, pp.155–157)]] 同样指出理论低估了地缘政治冲突和市场逻辑对组织行为的持续塑造。
-
-### 单向扩散假设与西方中心主义
-
-理论假设西方（尤其是美国）的现代性模型单向向外扩散。Silova & Brehm (2015) 批判其从神话到模型的再生产机制——理论不仅描述西方模型扩散，更在**规范性上再生产了西方中心主义**（将西方视为标准，将地方差异视为偏离）。[[Policy Borrowing|政策借用]][[Document|文献]]（[[Gita Steiner-Khamsi]], 2012）论证各国选择性借用全球论述来合法化本地议程，借用方向并非单向——You & Morris (2016) 提供了英国参照东亚模式的案例。去殖民学者（如 Mignolo）批评理论的普世主义隐含了西方中心的[[Epistemology|认识论]]预设（参见 [[Geopolitics of Knowledge]]）。
-
-### 口头采纳与实际行动的区分不足
-
-全球[[Cultural Models|文化模型]]的扩散可能停留在表层制度（政策文本、使命陈述）而未能深入实际组织行为([[Argument_Zapp_2022_Springer|Zapp, 2022, p.153]])。LS 案例提供了清晰的证据：港府在创立阶段口头采纳了终身学习、全球竞争力等全球话语，但这些话语在政治危机中可以瞬间被抛弃——说明它们从未被真正内化为制度实践。
-
-### LS 案例的方法论启示
-
-[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 提出了一个方法论批评：如果研究者仅在 LS 创立阶段（2004–2009）进行分析，观察到的全球参照会**错误地支持**趋同预测。只有将分析时间范围扩展至废除阶段（2019–2021），才能揭示全球参照的工具性和可逆性([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp.491–492]])。这对比较教育研究提出了一个重要的分析设计问题——如何选择时间范围以避免对全球趋同的过度推断？
+> [!critique]- 批评索引
+> - [[Argument_Yan_2025_JCS|Yan & Morris, 2025]] — 以香港 [[Liberal Studies|LS]] 科创设与废除的周期历史为经验依据，批评了该理论选择性只看创立期的方法论盲区，证明趋同假设无法解释国家安全的强力介入。
+> - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 梳理了比较教育中的世界文化辩论，指出该学说在去政治化转移、遮蔽资本主义地缘剥削方面的理论缺陷。
 
 ---
+
 ## 相关研究
 
-...
-
-## 应用领域
-
-> [!success]
-> - [[Organizational Actorhood]] — 基于世界社会理论的组织分析概念
-> - [[Otherhood]] — 世界社会理论的核心运作机制概念
-> - [[Epistemic Governance]] — 世界社会理论在全球治理研究中的应用延伸
-> - [[Knowledge-Based Economy]] — 世界社会理论用于分析作为全球[[Cultural Models|文化模型]]的知识经济话语
-> - [[Geopolitics of Knowledge]] — 世界社会理论的趋同[[Hypothesis|假设]]为分析知识地缘政治中全球教育模型的扩散和标准化提供了理论参照
-> - [[Liberal Studies]] — 若仅看创立期，LS 可作为世界社会理论的佐证；但纳入废除阶段后，趋同假设受到挑战
-> - [[Policy Borrowing]] — 世界社会理论关注趋同（供给端），政策借用关注差异（需求端），两者构成互补的分析视角
-
----
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zapp_2022_Springer|Zapp, 2022]] — 深入应用并检验了世界社会理论，展示了大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种具体知识机制嵌入多边全球治理的完整过程。
