@@ -83,7 +83,7 @@ updated: 2026-07-09
 ## 相关概念／政策
 
 > [!note]-
-> Li et al.（2025）的[[Systematic Review|系统综述]]将 NAEQ 作为 PISA 在中观决策层面影响教育改革的典型案例（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+> [[Argument_Li_2025_HSSC|Li et al. (2025)]]的[[Systematic Review|系统综述]]将 NAEQ 作为 [[PISA]] 在中观决策层面影响教育改革的典型案例。
 
 > [!entry-map]
 >

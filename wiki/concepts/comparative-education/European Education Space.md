@@ -2,7 +2,6 @@
 title: European Education Space
 aliases:
   - 欧洲教育空间
-  - European education space
 summary: "OECD 教育体系数据与欧盟数据交叉形成的治理空间，使欧洲教育体系的比较和协调成为可能，PISA 是其核心数据工具，是解释 PISA 研究为何集中于欧洲的关键概念"
 type: concept
 domain: "comparative-education"
@@ -65,7 +64,7 @@ updated: 2026-07-09
 ## 围绕概念形成的命题
 
 > [!claim] 欧洲教育空间是 [[PISA]] 研究欧洲集中的结构性解释
-> Li et al.（2025）的[[Systematic Review|系统综述]]发现，62.4% 的 PISA 政策影响研究以欧盟/欧洲经济区成员国为对象，45.9% 集中于西欧。这一区域集中性不能仅归因于学者的研究兴趣——欧洲教育空间的数据基础设施和政策协调机制使得 PISA 在欧洲教育治理中的角色远比其他地区更为制度化，从而产生了更多的研究需求和学术产出（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+> [[Argument_Li_2025_HSSC|Li et al. (2025)]]的[[Systematic Review|系统综述]]发现，62.4% 的 PISA 政策影响研究以欧盟/欧洲经济区成员国为对象，45.9% 集中于西欧。这一区域集中性不能仅归因于学者的研究兴趣——欧洲教育空间的数据基础设施和政策协调机制使得 PISA 在欧洲教育治理中的角色远比其他地区更为制度化，从而产生了更多的研究需求和学术产出。
 
 ---
 

@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Reference Society]]"
+  - "[[PISA Literacy]]"
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
   - "[[Evidence-Based Education]]"
@@ -45,6 +46,9 @@ related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Baby PISA]]"
+  - "[[HarmoS]]"
+  - "[[National Assessment of Education Quality China 2007]]"
+  - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Zhao_2020_JEC]]"
@@ -52,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: "2026-05-17"
-updated: "2026-07-08"
+updated: "2026-07-09"
 ---
 
 # PISA
@@ -75,7 +79,7 @@ updated: "2026-07-08"
 > - **1995–2000 — 设计与启动**
 >   [[OECD]] 于 1995 年提出 PISA，1997 年正式启动开发，2000 年实施首轮评估，涵盖 32 个参与教育系统。
 > - **2000–2009 — 全球扩散与 PISA 冲击**
->   PISA 2000 结果公布后，德国经历"PISA 冲击"，芬兰崛起为全球[[Reference Society|参考社会]]。PISA 2003 推动日本将 PISA素养纳入国家课程，韩国将参考社会从日本转向芬兰。参与系统持续扩展。
+>   PISA 2000 结果公布后，德国经历"PISA 冲击"，芬兰崛起为全球[[Reference Society|参考社会]]。PISA 2003 推动日本将 [[PISA Literacy|PISA素养]]纳入国家课程，韩国将参考社会从日本转向芬兰。参与系统持续扩展。
 > - **2009 年至今 — 上海崛起与产品线扩张**
 >   PISA 2009 上海（中国）的优异表现引发全球关注，美国将其类比为"[[Sputnik Shock 1957|Sputnik]] 冲击"。PISA 扩展至 72 个参与系统（2015 年），评估领域从阅读、数学、科学扩展至财经素养、协作问题解决、全球能力（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）。
 
@@ -107,16 +111,16 @@ updated: "2026-07-08"
 ## 影响与后果
 
 > [!finding-cards] 核心影响
-> - **政策影响** PISA 将各国教育结果持续放在国际比较压力之下（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.8]]），强化了成绩变化需要政策回应的逻辑，常常成为改革、问责和学校改进的触发器。在瑞典案例中，PISA 2000–2009 的成绩下滑制造了强烈的改革压力（Håkansson, 2015, pp.585-586）。[[Argument_Li_2025_HSSC|Li et al. (2025)]]的[[Systematic Review|系统综述]]进一步揭示：PISA 对各国基础教育改革的影响在质量和公平两个核心维度上展开，通过超国家、国家层面和内部行动者网络三层机制实现；PISA 的影响远超其最初测量教育质量的功能，通过软治理深刻影响全球教育治理格局（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+> - **政策影响** PISA 将各国教育结果持续放在国际比较压力之下（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.8]]），强化了成绩变化需要政策回应的逻辑，常常成为改革、问责和学校改进的触发器。在瑞典案例中，PISA 2000–2009 的成绩下滑制造了强烈的改革压力（Håkansson, 2015, pp.585-586）。[[Argument_Li_2025_HSSC|Li et al. (2025)]]的[[Systematic Review|系统综述]]进一步揭示：PISA 对各国基础教育改革的影响在质量和公平两个核心维度上展开，通过超国家、国家层面和内部行动者网络三层机制实现；PISA 的影响远超其最初测量教育质量的功能，通过软治理深刻影响全球教育治理格局。
 > - **知识影响** PISA 使芬兰、香港、韩国、挪威和加拿大等高表现国家成为跨国借鉴的参照对象；东亚若干地区的成绩上升使高表现教育体系成为全球借鉴的主要目标；性别、移民背景和国家差异被持续纳入同一比较框架，进一步扩大了 PISA 的政策解释空间（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.8-9]]）。
 
 ### [[Argument_Li_2025_HSSC|Li et al. (2025)]] 的综述发现
 
 > [!dimension] 质量路径：宏观—中观—微观三层决策
 > - **宏观决策层面**
->   接受新自由主义教育价值并增加教育支出（德国、法国）；接受能力与素养概念（日本 PISA素养）；影响 [[Reference Society|参考社会]]选择（韩国从日本转向芬兰）；加强国际合作（南锥体国家）；推动 [[Evidence-Based Education|循证教育]]政策（日本、德国、约旦）。
+>   接受新自由主义教育价值并增加教育支出（德国、法国）；接受能力与素养概念（日本 [[PISA Literacy|PISA素养]]）；影响 [[Reference Society|参考社会]]选择（韩国从日本转向芬兰）；加强国际合作（南锥体国家）；推动 [[Evidence-Based Education|循证教育]]政策（日本、德国、约旦）。
 > - **中观决策层面**
->   改善教师教育（约旦、法国、加拿大）；对接 PISA 标准的全国性教育评估体系建设（瑞士 HarmoS、中国 NAEQ、加拿大 CEIP）；强化学校管理监测与持续改进（日本证据—改进循环）。
+>   改善教师教育（约旦、法国、加拿大）；对接 PISA 标准的全国性教育评估体系建设（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP）；强化学校管理监测与持续改进（日本证据—改进循环）。
 > - **微观决策层面**
 >   课程改革——接受 PISA 能力标准（德国 NES 课程引入科学素养概念）；学制调整（瑞士 HarmoS 延长义务教育 9→11 年）。
 > 各国案例及论证细节详见 [[Argument_Li_2025_HSSC|Li et al. (2025)]]。
@@ -131,7 +135,7 @@ updated: "2026-07-08"
 > 详见 [[Argument_Li_2025_HSSC|Li et al. (2025)]]。
 
 > [!factors] 三层影响机制
-> - **超国家层级** [[OECD]] 的软治理与模范社会塑造——国际认知共同体、[[Reference Society|参考社会]]设立、跨国压力与里斯本战略的协同。
+> - **超国家层级** [[OECD]] 的软治理与模范社会塑造——国际认知共同体、[[Reference Society|参考社会]]设立、跨国压力与[[Lisbon Strategy|里斯本战略]]的协同。
 > - **国家层级** 自我认知落差触发与文化-制度[[Transfer Translation Transformation|转译]]——两个关键条件（PISA 权重 + 认知落差）同时满足时产生政策冲击；各国的文化传统和政治制度构成外部影响的转译框架。
 > - **内部行动者网络** 政策制定者、政党、协会、媒体对 PISA 信息的转译与政治博弈——PISA 能否为决策者提供新的概念化方法或为既定政策方向提供正当性，是影响改革效果的核心。
 > PISA 与教育改革之间存在双向互动。详见 [[Argument_Li_2025_HSSC|Li et al. (2025)]]。
@@ -182,5 +186,5 @@ updated: "2026-07-08"
 > | [[Governing by Numbers]] | 概念 | PISA 是数字治理的典型工具，通过排名和量化指标实现软性政策协调。 |
 > | [[Global Education Reform Movement]] | 概念 | PISA 是 GERM 标准化、问责和竞争逻辑的跨国制度载体。 |
 > | [[Evidence-Based Education]] | 概念 | PISA 推动了循证教育政策在全球的制度化，将数据驱动的决策[[Paradigm\|范式]]纳入教育治理。 |
-> | [[Systematic Review]] | 方法 | Li et al.（2025）通过系统综述综合了 85 篇 PISA 政策影响实证研究。 |
+> | [[Systematic Review]] | 方法 | [[Argument_Li_2025_HSSC\|Li et al. (2025)]]通过系统综述综合了 85 篇 PISA 政策影响实证研究。 |
 > | [[Baby PISA]] | 事实 | PISA 产品线向早期教育的扩展项目。 |
