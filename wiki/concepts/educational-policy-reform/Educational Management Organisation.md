@@ -16,6 +16,7 @@ tags:
 - region/new-zealand
 - region/global
 related_concepts:
+  - "[[Policy Entrepreneur]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Network Governance]]"
   - "[[Venture Philanthropy]]"
@@ -67,7 +68,7 @@ updated: '2026-05-18'
 
 ### 混合型组织（Hybrid Organisation）
 
-Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织或设立营利性子机构的非营利组织，只要盈余专用于慈善目的。然而，除了这些营利性慈善子机构外，新西兰公立学校领域还出现了专门为投资者和所有者产生私人利润的新兴政策创业者([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.21–22]])：
+Poirier（2013）指出，新西兰慈善法包容收费服务的非营利组织或设立营利性子机构的非营利组织，只要盈余专用于慈善目的。然而，除了这些营利性慈善子机构外，新西兰公立学校领域还出现了专门为投资者和所有者产生私人利润的新兴[[Policy Entrepreneur|政策创业者]]([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.21–22]])：
 
 - **Future Schools Partners (FSP)**（前 Learning Infrastructure Partners）：2012 年获首个 [[Public-Private Partnership in Research|PPP]] 合同，在 Hobsonville Point 建设和维护中小学 25 年，由 Westpac 贷款和 Public Infrastructure Partners Fund（PIP Fund，基石投资者为新西兰超级基金）提供股权融资([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.22–23]])
 - **New Pedagogies for Deep Learning (NPDL)** 结构化为产生私人利润的实体，社会网络跨公共和私营部门多组织([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.22]])

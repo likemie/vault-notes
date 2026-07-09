@@ -24,6 +24,7 @@ related_concepts:
   - "[[Material Fallacies]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
+  - "[[Policy Entrepreneur]]"
   - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
 related_theories: []
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 > [!success] 影响与后果
 > - O'Neill 的评论引发了对教育研究证据在政策建议中被误用问题的学术讨论
 > - 该案例被用作教育政策话语中证据误用的典型范例，凸显研究者有责任警惕并挑战基于[[Material Fallacies|实质谬误]]的公共政策辩论
-> - 揭示了新西兰教育政策过程中存在的信任/不信任悖论（Ball, 2007）以及政策创业者（Mintrom, 2000）在改革话语中的角色
+> - 揭示了新西兰教育政策过程中存在的信任/不信任悖论（Ball, 2007）以及[[Policy Entrepreneur|政策创业者]]（Mintrom, 2000）在改革话语中的角色
 
 ## 争议与评论
 

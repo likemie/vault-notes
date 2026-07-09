@@ -21,6 +21,7 @@ tags:
   - region/new-zealand
   - education-policy
 related_concepts:
+  - "[[Policy Entrepreneur]]"
   - "[[Policy Network]]"
 related_theories: []
 related_methods: []
@@ -81,5 +82,5 @@ updated: 2026-05-18
 ## 分析意义
 
 > [!success] 分析意义
-> TFNZ 体现了政策创业者如何在公共福利话语（解决教育不平等）、非营利结构（慈善信托）和跨国私营部门连接（Aotearoa Foundation 美国对冲基金资助、Teach for All 全球网络）之间运作。O'Neill 等将其与 NZI（亲市场智库）作为新西兰[[Policy Network|政策网络]]的两个代表案例进行对比分析([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.x]])。
+> TFNZ 体现了[[Policy Entrepreneur|政策创业者]]如何在公共福利话语（解决教育不平等）、非营利结构（慈善信托）和跨国私营部门连接（Aotearoa Foundation 美国对冲基金资助、Teach for All 全球网络）之间运作。O'Neill 等将其与 NZI（亲市场智库）作为新西兰[[Policy Network|政策网络]]的两个代表案例进行对比分析([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.x]])。
 

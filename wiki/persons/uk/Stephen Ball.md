@@ -86,7 +86,7 @@ updated: '2026-06-19'
 > - **1994 年** 出版著作 *Education Reform: A Critical and Post-structural Approach*，提出著名的五重政策语境[[Analytic Framework|分析框架]]。
 > - **2008 年** 发表 *Some sociologies of education*，以福柯的 “目光” 概念重写英国教育社会学史，批判[[School Effectiveness|学校效能]]研究沦为可审计的权力技术。
 > - **2008 年** 与 Deborah Youdell 合作发布关于[[Endogenous and Exogenous Privatisation|教育私有化]]的重要报告，识别出公立学校系统的内生与外生私有化趋势。
-> - **2012 年** 出版 *Global Education Inc.*，分析全球教育私有化进程中跨国政策创业者的网络网络与流动。
+> - **2012 年** 出版 *Global Education Inc.*，分析全球教育私有化进程中跨国[[Policy Entrepreneur|政策创业者]]的网络网络与流动。
 
 ---
 
@@ -136,7 +136,7 @@ updated: '2026-06-19'
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** Youdell — 合作研究教育的隐性私有化趋势；批评对象/论敌：[[John Hattie]] — 视其为典型的 “政策创业者”，利用[[Meta-meta-analysis|元-元分析]]数字排行推动教育的商业化和绩效化治理。
+> - **师承／合作者** Youdell — 合作研究教育的隐性私有化趋势；批评对象/论敌：[[John Hattie]] — 视其为典型的 “[[Policy Entrepreneur|政策创业者]]”，利用[[Meta-meta-analysis|元-元分析]]数字排行推动教育的商业化和绩效化治理。
 
 ---
 

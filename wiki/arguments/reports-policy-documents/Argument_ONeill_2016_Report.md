@@ -25,6 +25,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Research Question]]"
+  - "[[Policy Entrepreneur]]"
   - "[[Literature Search]]"
 related_theories: []
 related_methods:
@@ -55,7 +56,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - Thompson (1991) 组织形式分类学：经典市场、科层制、网络与部落（clan）四种治理形式——报告提出新西兰公立学校教育治理正从市场/科层形式被网络/部落形式所取代
-> - Mintrom (2000) 政策创业者概念：在教育系统内运作的创业型行动者
+> - Mintrom (2000) [[Policy Entrepreneur|政策创业者]]概念：在教育系统内运作的创业型行动者
 > - Ball (2012) 跨国政策倡导概念：跨系统进行创业式运作的全球行动者
 
 ## 研究方法
