@@ -7,7 +7,7 @@ summary: "利用学年 vs 暑假作为自然实验的准实验研究设计，比
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Longitudinal Study]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Downey_2016_SoE]]"
@@ -65,7 +66,7 @@ updated: '2026-05-18'
 
 
 > [!example] 主要数据来源
-> - **ECLS-K 1998**（Early Childhood Longitudinal Study–Kindergarten Cohort）：第一个全国代表性的季节性收集数据，追踪从幼儿园到八年级（Downey et al., 2004）
+> - **ECLS-K 1998**（Early Childhood [[Longitudinal Study]]–Kindergarten Cohort）：第一个全国代表性的季节性收集数据，追踪从幼儿园到八年级（Downey et al., 2004）
 > - **ECLS-K 2011** 更新的队列，用于复制和扩展早期发现（Downey, Workman & von Hippel, 2016）
 > - **NWEA 数据（Northwest Evaluation Association）** 大规模学生评估数据（Yoon & Merry, 2015）
 > - **巴尔的摩纵向研究** Entwisle & Alexander 在 1980 年代开始的标志性地方性季节性研究（Entwisle & Alexander, 1992, 1994）
@@ -106,7 +107,7 @@ updated: '2026-05-18'
 > 关键研究及其发现([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.4–5]])：
 >
 > - **Heyns (1978)** 亚特兰大 42 所学校 3,000+ 名六七年级学生（1971–1972 学年和暑假）——开创性发现：暑假学习是纯粹的非学校因素产物，比较两个季节揭示学校如何发挥作用
-> - **Entwisle & Alexander (1992, 1994)** 巴尔的摩纵向研究：1980 年代追踪儿童在学校系统中的进展——进一步引起对季节性模式的关注
+> - **Entwisle & Alexander (1992, 1994)** 巴尔的摩[[Longitudinal Study|纵向研究]]：1980 年代追踪儿童在学校系统中的进展——进一步引起对季节性模式的关注
 > - **Downey et al. (2004)** 首次全国代表性 ECLS-K 分析——确认 SES 技能差距在暑假比在学年增长更快
 > - **Alexander (1997:12)** 总结季节性比较的含义："当涉及不平等时，'学校教育更多的是解决方案的一部分而非问题的一部分'"
 > - **von Hippel et al. (2007)** ECLS-K 数据分析发现儿童 BMI 在暑假期间增长速度约为学年期间的两倍——黑人和低 SES 儿童尤其脆弱

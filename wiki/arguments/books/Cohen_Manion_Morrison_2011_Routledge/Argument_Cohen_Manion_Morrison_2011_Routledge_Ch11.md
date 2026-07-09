@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -99,6 +99,7 @@ related_methods:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Ideology Critique]]"
   - "[[Autoethnography]]"
+  - "[[Longitudinal Study]]"
 related_persons:
   - "[[Karl Popper]]"
   - "[[Jürgen Habermas]]"
@@ -848,7 +849,7 @@ Larsson（2009: 36）最终论证：**质性研究概括化的责任在于受众
 > 1. **12阶段模型的线性外观具有误导性。** 实际操作中存在前后运动；过程比线性表象复杂得多（p.407）。小型[[Qualitative Research|质性研究]]可能不需所有阶段。
 > 2. **自然主义核心悖论。** [[Paradigm|范式]]要求最少干预，但研究者在场本身就等于干预，不可完全消除。
 > 3. **质性研究的概括性无法通过严格抽样实现。** 需重定义为可比较性和可翻译性。Larsson（2009: 36）论证概括化责任在受众，但带来正当性追问。
-> 4. **数据分析永不完全封闭。** 纵向研究中的下一轮数据恒可挑战先前解释，导致分析无终点的挫败（Thomson & Holland, 2003）。
+> 4. **数据分析永不完全封闭。** [[Longitudinal Study|纵向研究]]中的下一轮数据恒可挑战先前解释，导致分析无终点的挫败（Thomson & Holland, 2003）。
 
 ---
 

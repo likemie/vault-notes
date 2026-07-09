@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 87
+argument_related_count: 88
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -93,6 +93,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Constructivist Grounded Theory]]"
   - "[[Qualitative Interview]]"
+  - "[[Cohort Study]]"
   - "[[Grounded Theory]]"
   - "[[Multiple Regression]]"
   - "[[Mixed Methods Research]]"
@@ -198,7 +199,7 @@ citation_aliases:
 
 然而，近年来自"985 高校学生难以越过社会出身藩篱的喟叹帖"红遍网络（如《我上了 985,211，才发现自己一无所有》，2016），"985 废物""小镇做题家"成为社会热点词汇——自嘲背后是强烈的落差感和对前景的失望。
 
-量化学术研究佐证了这一主观感受：即便底层子女冲破了高考壁垒进入重点大学，其在学业成就、就业质量、升学选择、起薪、满意度等方面仍处于显著劣势。作者的导师牛新春和郑雅君本人(2018)的追踪研究已发现重点大学城乡学生的生涯定向存在系统性差距。
+量化学术研究佐证了这一主观感受：即便底层子女冲破了高考壁垒进入重点大学，其在学业成就、就业质量、升学选择、起薪、满意度等方面仍处于显著劣势。作者的导师牛新春和郑雅君本人(2018)的[[Cohort Study|追踪研究]]已发现重点大学城乡学生的生涯定向存在系统性差距。
 
 **第二步：指出现有解释的"黑箱"缺陷**
 

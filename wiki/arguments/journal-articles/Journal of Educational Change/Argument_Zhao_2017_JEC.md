@@ -9,9 +9,9 @@ title: "Argument_Zhao_2017_JEC"
 argument_key: "Argument_Zhao_2017_JEC"
 argument_display_title: "What works may hurt: Side effects in education"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: Journal of Educational Change
 citation: "Zhao, Y. (2017). What works may hurt: Side effects in education. Journal of Educational Change."
@@ -33,6 +33,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Longitudinal Study]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"
@@ -101,7 +102,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - 三个案例均为概念论证和[[Literature Review|文献回顾]]，未提供原创实证数据
-> - 东亚教育体系案例的推论基于跨国相关关系（非[[Causality|因果关系]]），需纵向研究确认
+> - 东亚教育体系案例的推论基于跨国相关关系（非[[Causality|因果关系]]），需[[Longitudinal Study|纵向研究]]确认
 > - 6 项行动建议未讨论实施这些建议本身的潜在副作用
 
 ## 来源

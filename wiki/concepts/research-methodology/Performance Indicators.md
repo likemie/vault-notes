@@ -8,7 +8,7 @@ aliases:
 summary: "经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,7 +33,8 @@ related_concepts:
 related_theories:
   - "[[Sociology of Measurement]]"
   - "[[Realist Evaluation]]"
-related_methods: []
+related_methods:
+  - "[[Trend Study]]"
 related_persons: []
 related_facts:
   - "[[Education at a Glance]]"
@@ -106,7 +107,7 @@ updated: '2026-05-18'
 
 ### 技术特征：指标的功能
 
-Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策者注意潜在问题，但不替代诊断。好指标的标准：围绕最重要的政策现象；简洁精确描述；提供概览；提供比较点和趋势分析；报告多样性或差距([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7–8]])。
+Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策者注意潜在问题，但不替代诊断。好指标的标准：围绕最重要的政策现象；简洁精确描述；提供概览；提供比较点和[[Trend Study|趋势分析]]；报告多样性或差距([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7–8]])。
 
 ### 政策工具维度：四维运作机制
 

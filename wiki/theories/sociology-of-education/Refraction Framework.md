@@ -5,7 +5,7 @@ aliases:
 summary: "Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Seasonal Comparison]]"
+  - "[[Longitudinal Study]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
 related_facts:
@@ -92,7 +93,7 @@ updated: 2026-05-18
 > [!note-] 发展脉络
 > - **1966** — [[Coleman Report 1966|Coleman Report]] 发布，结论：学校对成就差距的作用很小；家庭背景是主要驱动力（Coleman et al., 1966）
 > - **1970s–1990s** — "批判视角"兴起并主导教育社会学：学校要么再生产（Bourdieu, 1977; Bowles & Gintis, 1976）要么加剧不平等（Kozol, 1992; Oakes, 1985）
-> - **1978–2004** — [[Seasonal Comparison|季节性比较]]研究积累：Heyns (1978) 首次发现暑假 SES 差距扩大快于学年 → Entwisle & Alexander (1992, 1994) 巴尔的摩纵向研究 → Downey et al. (2004) 首次全国代表性 ECLS-K 分析，均指向学校对 SES 认知差距的补偿作用
+> - **1978–2004** — [[Seasonal Comparison|季节性比较]]研究积累：Heyns (1978) 首次发现暑假 SES 差距扩大快于学年 → Entwisle & Alexander (1992, 1994) 巴尔的摩[[Longitudinal Study|纵向研究]] → Downey et al. (2004) 首次全国代表性 ECLS-K 分析，均指向学校对 SES 认知差距的补偿作用
 > - **2016** — Downey & Condron 提出折射框架([[Argument_Downey_2016_SoE|Downey & Condron, 2016]])，试图调和批判视角与季节性比较证据之间的矛盾
 
 ## 研究范式

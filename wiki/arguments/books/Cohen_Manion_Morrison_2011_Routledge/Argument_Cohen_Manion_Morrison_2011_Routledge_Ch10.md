@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 107
+argument_related_count: 111
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -133,6 +133,10 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Cross-sectional Study]]"
+  - "[[Longitudinal Study]]"
+  - "[[Cohort Study]]"
+  - "[[Trend Study]]"
   - "[[Random Sampling]]"
   - "[[Qualitative Observation]]"
   - "[[Participant Observation]]"
@@ -824,7 +828,7 @@ Joy (2003: 1) 提出了十二个贯穿研究全过程的文化效度问题：
 
 > [!dimension] Denzin 的六种三角验证类型
 > - **时间三角验证（Time triangulation）**
->   通过使用**横截面设计**和**纵向设计**来考虑变化和过程因素。Kirk & Miller (1986) 提出：**历时信度（diachronic reliability）**寻求观察随时间推移的稳定性；**共时信度（synchronic reliability）**寻求同一时间收集的数据的相似性。横截面研究收集一个时间点的数据；纵向研究从同一群体在不同时间点收集数据。面板研究（panel studies）比较同一样本中相同个体在多个不同时间点的相同测量；趋势研究（trend studies）随时间的推移持续检查选定过程。
+>   通过使用**横截面设计**和**纵向设计**来考虑变化和过程因素。Kirk & Miller (1986) 提出：**历时信度（diachronic reliability）**寻求观察随时间推移的稳定性；**共时信度（synchronic reliability）**寻求同一时间收集的数据的相似性。[[Cross-sectional Study|横截面研究]]收集一个时间点的数据；[[Longitudinal Study|纵向研究]]从同一群体在不同时间点收集数据。[[Cohort Study|面板研究]]（panel studies）比较同一样本中相同个体在多个不同时间点的相同测量；[[Trend Study|趋势研究]]（trend studies）随时间的推移持续检查选定过程。
 > - **空间三角验证（Space triangulation）**
 >   通过使用**跨文化技术**克服在同一国家或同一亚文化内进行研究的狭隘主义。正如一位作者所言："不仅行为科学是受文化约束的，它们还是受亚文化约束的。然而许多学术著作写得好像发现了在任何社会、任何地方、任何时间都作为倾向性成立的基本原则"（Smith, 1975）。跨文化研究可能涉及在不同人群中检验理论（如 Piaget 和 Freud 心理学），或使用多种不同测量工具测量人群间差异。
 > - **组合层次三角验证（Combined levels of triangulation）**

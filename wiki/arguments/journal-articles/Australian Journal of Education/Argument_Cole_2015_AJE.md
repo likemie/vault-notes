@@ -47,6 +47,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Convenience Sampling]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Longitudinal Study]]"
 related_persons:
   - "[[Socrates]]"
 related_facts:
@@ -69,7 +70,7 @@ title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -203,7 +204,7 @@ journal: "Australian Journal of Education"
 > [!evidence-grid-a] 显性教学的实证优势
 > - **Abrami et al.（2008）元分析** 汇总 117 项研究（$N = 20,698$）。[[Critical Thinking|批判性思维]]技能在显性教学条件下增益最大，隐性融入时效果最低。教师接受专门培训且教学受评估时学生获益最高。（p.4）
 > - **Marin & Halpern（2011）随机对照实验** 在弱势学校的美国高中生中比较显性与隐性教学。接受显性CT教学的学生在前后测和组间比较中均表现出更大、显著的技能增益。该研究仍是高中阶段比较两种路径的唯一 RCT。（p.3）
-> - **Coca et al.（2011）芝加哥纵向研究** DP 毕业生完成四年大学课程的可能性高 $40\%$，进入更选拔性大学的可能性高 $50\%$，持续就读两年以上概率显著更高。获益最大的是非裔和拉丁裔学生。（pp.4–5）
+> - **Coca et al.（2011）芝加哥[[Longitudinal Study|纵向研究]]** DP 毕业生完成四年大学课程的可能性高 $40\%$，进入更选拔性大学的可能性高 $50\%$，持续就读两年以上概率显著更高。获益最大的是非裔和拉丁裔学生。（pp.4–5）
 
 > [!evidence-grid-b] 隐性融入路径的制度风险
 > - **教师自陈与实际教学的巨大鸿沟** $90\%$–$97\%$ 教师声称重视 CT 教学，但仅 $19\%$ 能清晰定义 CT，仅 $9\%$ 实际教授。教师倾向于认为 CT 仅与高成就学生相关。（Paul et al., 1997; Dweck, 2002; Halpern, 2003）（p.4）

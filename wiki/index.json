@@ -3842,6 +3842,16 @@
     ]
   },
   {
+    "title": "De-Westernisation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/De-Westernisation.md",
+    "aliases": [
+      "去西方化",
+      "dewesternisation",
+      "de-westernization"
+    ]
+  },
+  {
     "title": "Depoliticalization of Ethnic Policy",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Depoliticalization of Ethnic Policy.md",
@@ -4321,8 +4331,7 @@
     "aliases": [
       "再西方化",
       "rewesternisation",
-      "dewesternisation",
-      "去西方化"
+      "re-westernization"
     ]
   },
   {
@@ -8548,7 +8557,7 @@
     "aliases": [
       "文献分析",
       "documentary research method",
-      "文献研究方法"
+      "文献研究"
     ]
   },
   {
@@ -8984,6 +8993,20 @@
     ]
   },
   {
+    "title": "Cohort Study",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cohort Study.md",
+    "aliases": [
+      "队列研究",
+      "追踪研究",
+      "世代研究",
+      "panel study",
+      "面板研究",
+      "follow-up study",
+      "cohort analysis"
+    ]
+  },
+  {
     "title": "Combined Weighting AHP-EWM",
     "type": "method",
     "path": "wiki/methods/quantitative/Combined Weighting AHP-EWM.md",
@@ -9010,6 +9033,17 @@
     "aliases": [
       "协变量控制",
       "协变量调整"
+    ]
+  },
+  {
+    "title": "Cross-sectional Study",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cross-sectional Study.md",
+    "aliases": [
+      "横截面研究",
+      "横截面调查",
+      "cross-sectional survey",
+      "cross-sectional design"
     ]
   },
   {
@@ -9087,6 +9121,20 @@
     ]
   },
   {
+    "title": "Internet-based Survey",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Internet-based Survey.md",
+    "aliases": [
+      "互联网调查",
+      "网络调查",
+      "在线调查",
+      "web-based survey",
+      "online survey",
+      "email survey",
+      "internet survey"
+    ]
+  },
+  {
     "title": "Intervention Research",
     "type": "method",
     "path": "wiki/methods/quantitative/Intervention Research.md",
@@ -9114,6 +9162,17 @@
       "LISA时空路径",
       "LISA时间路径",
       "Local Indicators of Spatial Association Time Path"
+    ]
+  },
+  {
+    "title": "Longitudinal Study",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Longitudinal Study.md",
+    "aliases": [
+      "纵向研究",
+      "纵向调查",
+      "longitudinal research",
+      "longitudinal survey"
     ]
   },
   {
@@ -9459,6 +9518,19 @@
       "时间序列设计",
       "time series quasi-experiment",
       "interrupted time series"
+    ]
+  },
+  {
+    "title": "Trend Study",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Trend Study.md",
+    "aliases": [
+      "趋势研究",
+      "趋势分析",
+      "trend analysis",
+      "prediction study",
+      "预测研究",
+      "repeated cross-sectional study"
     ]
   },
   {
@@ -13908,6 +13980,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

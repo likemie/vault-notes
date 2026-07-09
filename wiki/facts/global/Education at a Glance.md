@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Performativity of Measurement]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Trend Study]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 > - **1992 年** 首版 EAG 出版，英法双语合订，仅 150 页([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
 > - **1993 年** 第二版翻倍至 300 页
 > - **1995 年** 英法版本分开发行，各 370 页
-> - **2002 年** 概念框架重组，[[Performance Indicators|绩效指标]]从最后一节移至第一节，标志从"广泛趋势分析"转向"以产出/绩效为核心"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13–14]])
+> - **2002 年** 概念框架重组，[[Performance Indicators|绩效指标]]从最后一节移至第一节，标志从"广泛[[Trend Study|趋势分析]]"转向"以产出/绩效为核心"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.13–14]])
 > - **至今** 约 550 页，涵盖更多教育系统和新指标
 
 ## 核心要素

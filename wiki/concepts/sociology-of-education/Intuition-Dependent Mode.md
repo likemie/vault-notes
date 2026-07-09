@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，表现为缺乏清晰规划、更多依赖直觉和情境反应来应对学习与发展选择。"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_theories:
   - "[[Rational Action Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Cohort Study]]"
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
@@ -113,7 +114,7 @@ updated: 2026-05-18
 
 > [!success]
 > - [[Quantitative Research|量化研究]]表明，即便在控制了学业表现的情况下，弱势家庭学生比优势家庭学生更倾向于选择直接就业而非继续升学，但就业结果却不如家境优势的同学（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引李春玲，2012；岳昌君和周丽萍，2016）
-> - 牛新春和[[Yajun Zheng|郑雅君]]的追踪研究发现，大二暑假期之后，生涯定向清晰度低的学生对高影响力活动的投入缺乏明确方向性（，引牛新春和郑雅君，2018）
+> - 牛新春和[[Yajun Zheng|郑雅君]]的[[Cohort Study|追踪研究]]发现，大二暑假期之后，生涯定向清晰度低的学生对高影响力活动的投入缺乏明确方向性（，引牛新春和郑雅君，2018）
 > - **模式转换** 约半数直觉依赖者在高年级或读研后（至少部分）完成了向[[Goal-Controlled Mode|目标掌控模式]]的转变。转变通常通过两条路径实现：文化移入与意义感重组（通过[[Social Engagement|社会性投入]]接触新价值图式）、行动策略的充实化（习得具体操作技能）。但转换面临信息障碍、时间成本和道德障碍，因此"寒门学子完全突破[[Cultural Barrier|文化障碍]]的机会仍然比较小"
 
 ---

@@ -5,7 +5,7 @@ aliases:
 summary: "以实验有效性证据作为选择教育项目和产品核心标准的改革框架，强调开发、评估、推广和政策激励之间的联动循环。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 65
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Case Study]]"
+  - "[[Longitudinal Study]]"
   - "[[Formative Program Evaluation]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
@@ -312,7 +313,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 法语比利时[[Pact for Educational Excellence|教育卓越公约]]显示，证据本位改革进入非英美语境时，常常不能直接复制 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 式的证据等级。2017 年工作组列出 425 个教学工具/项目，其中只有 61 个曾被教育研究者测试，只有 13 个即约 3% 采用实验设计；若严格套用实验优先的证据层级，几乎 97% 的候选工具会被排除([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.175]])。
 
-因此，改革团队建立了一个包容性验证类型学，把专家验证、[[Case Study|案例研究]]、横断研究、相关或纵向研究、实验与准[[Experimental Research|实验研究]]纳入同一框架，并为不同方法设置最低质量标准。这个选择不是否定实验研究，而是在本地证据库薄弱、学科教学专家参与教师培养且政治上需要协作的条件下，把实验方法作为逐步提高标准的方向，而不是一开始就作为排除性门槛([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-180]])。
+因此，改革团队建立了一个包容性验证类型学，把专家验证、[[Case Study|案例研究]]、横断研究、相关或[[Longitudinal Study|纵向研究]]、实验与准[[Experimental Research|实验研究]]纳入同一框架，并为不同方法设置最低质量标准。这个选择不是否定实验研究，而是在本地证据库薄弱、学科教学专家参与教师培养且政治上需要协作的条件下，把实验方法作为逐步提高标准的方向，而不是一开始就作为排除性门槛([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-180]])。
 
 这一案例补充了 EBR 的实施条件：Slavin 的三条件假定已经存在足够多“经验证项目”和面向教师的综述，但在法语比利时，第一项条件仍只是起步，第二项还受英语文献屏障限制；相对明确的进展是官方建议为学校实验和严格评价设置约 200 万欧元预算，体现第三项“提供实施资源”的制度基础([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.179-181]])。
 

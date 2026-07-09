@@ -9,10 +9,10 @@ aliases:
 summary: "东亚学校文化中以同伴互助为核心的学习方式，包括小组学习，课代表制度，优生帮后进生，将帮助同伴视为学习美德而非竞争威胁"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/east-asia
   - theme/peer-culture
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Zero-Sum Competition]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Longitudinal Study]]"
 related_persons: []
 related_facts:
   - "[[Three Excellences]]"
@@ -75,7 +76,7 @@ updated: 2026-05-25
 > [!success]
 > - 中国大学生描述[[Ideal Learner|理想学习者]]时，87% 认为同伴会尊重和钦佩高成就者，42% 认为同伴将其视为榜样并渴望与之交友([[Argument_Li_2012_Cambridge|Li, 2012, p.202]])。
 > - Heyman 等研究发现，中国小学生会向所有同伴（无论成绩高低）披露自己的成绩：向高成就者披露被视为寻求帮助，向低成就者披露被视为提供帮助([[Argument_Li_2012_Cambridge|Li, 2012, p.204–205]])。
-> - Chen 等纵向研究显示，中国中小学儿童加入高成就同伴群体两年后，社交能力显著提高；而仅社交能力高并不能反过来提高学业成绩，这与西方研究的结论相反。即使是学业较弱的学生，加入高成就群体也能减少社交问题([[Argument_Li_2012_Cambridge|Li, 2012, p.202–203]])。
+> - Chen 等[[Longitudinal Study|纵向研究]]显示，中国中小学儿童加入高成就同伴群体两年后，社交能力显著提高；而仅社交能力高并不能反过来提高学业成绩，这与西方研究的结论相反。即使是学业较弱的学生，加入高成就群体也能减少社交问题([[Argument_Li_2012_Cambridge|Li, 2012, p.202–203]])。
 > - 华裔移民高中生在美国低收入社区的实践中，即使父母不懂英文和课程内容，也自发组织小组共同完成[[Homework|作业]]，轮流分工([[Argument_Li_2012_Cambridge|Li, 2012, p.208]])。
 
 ## 概念辨析

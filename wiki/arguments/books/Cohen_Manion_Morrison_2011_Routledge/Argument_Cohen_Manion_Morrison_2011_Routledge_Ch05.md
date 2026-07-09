@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Fieldwork]]"
   - "[[Experimental Research]]"
+  - "[[Longitudinal Study]]"
   - "[[Member Checking]]"
   - "[[Action Research]]"
   - "[[Coding in Qualitative Research]]"
@@ -366,7 +367,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > - **班级教师**（如果涉及儿童）：研究者具有相当大的侵入和干扰潜力，尤其需要尽快与班级教师建立友好关系
 >
 > **第三层：建立善意和合作**
-> - 在纵向研究或人种志研究中尤为重要（持续数月甚至数年）
+> - 在[[Longitudinal Study|纵向研究]]或人种志研究中尤为重要（持续数月甚至数年）
 > - 一次性调查（受访者只需付出半小时）准入问题较小
 > - 内部研究者不应将合作视为理所当然
 >

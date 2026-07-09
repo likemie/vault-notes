@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 119
+argument_related_count: 120
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -124,6 +124,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Experience Sampling Method]]"
+  - "[[Longitudinal Study]]"
   - "[[Qualitative Research]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_facts:
@@ -2806,7 +2807,7 @@ Li 呈现了三个层级的学校机制，展示东亚同伴文化如何被制�
 > - 42% → 会谦逊地向他们学习、更加努力以赶上他们、把他们当作自己的榜样
 > - 43% → 视其为灵魂伴侣（soul mates）、渴望成为朋友(p.108)
 >
-> **"推"的方面** Chen et al.的纵向研究 →
+> **"推"的方面** Chen et al.的[[Longitudinal Study|纵向研究]] →
 > - 属于高成就群体的小学和初中儿童，**两年后社交能力更强**
 > - 高社交能力本身**没有反向效应**——socially competent 不等于 academically better
 > - 即使是学业较弱的儿童，只要属于高成就群体，也比属于低成就群体的儿童发展出更少的社交问题——**与高成就同伴交往对负面社交行为具有保护作用(p.102)**

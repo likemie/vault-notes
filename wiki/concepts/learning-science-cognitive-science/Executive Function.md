@@ -6,7 +6,7 @@ aliases:
 summary: "执行功能是一组用于目标导向控制的高阶认知过程，通常包括抑制、转换、更新与监控，用于调节思维和行为以完成任务。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,8 @@ related_concepts:
   - "[[Prefrontal Cortex]]"
 related_theories:
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
-related_methods: []
+related_methods:
+  - "[[Longitudinal Study]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 ## 与学业成就的关系
 
 > [!info] 与学业成就的关系
-> 大量证据表明 EF 的发展是学业表现的主要预测因素。多项纵向研究表明 EF 对学业成就有贡献，而非反之([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。时间因素在认知发展中尤为重要，往往是比智力和 IQ 更准确的学业成就变异预测指标([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])。
+> 大量证据表明 EF 的发展是学业表现的主要预测因素。多项[[Longitudinal Study|纵向研究]]表明 EF 对学业成就有贡献，而非反之([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。时间因素在认知发展中尤为重要，往往是比智力和 IQ 更准确的学业成就变异预测指标([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])。
 
 ## 与情绪和社会发展的关联
 

@@ -6,7 +6,7 @@ aliases:
 summary: "Parlett和Hamilton (1976) 提出的质性研究数据分析策略：从广角镜收集数据，通过筛选、归类与反思逐步收窄至情境的核心特征。"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Theoretical Sampling]]"
+  - "[[Longitudinal Study]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -62,7 +63,7 @@ updated: 2026-06-24
 > [!dev-timeline] 概念演变
 > - **1976 — 提出阶段** Parlett 和 Hamilton 在"作为启明的评估"（Evaluation as Illumination）[[Paradigm|研究范式]]中提出逐步聚焦，用于应对改革项目的复杂性和质性数据的庞大量。
 > - **1980s — 被纳入[[Qualitative Research|质性研究]]方法论** Miles & Huberman（1984）将逐步聚焦逻辑纳入其质性数据[[Analytic Framework|分析框架]]，强调数据缩减和展示的重要性。
-> - **2000s — 与纵向研究结合** 在纵向质性研究中，逐步聚焦帮助研究者管理持续涌入的新数据，在跨截面分析（cross-sectional）和纵向叙事分析（longitudinal narrative）之间取得平衡。
+> - **2000s — 与[[Longitudinal Study|纵向研究]]结合** 在纵向质性研究中，逐步聚焦帮助研究者管理持续涌入的新数据，在跨截面分析（cross-sectional）和纵向叙事分析（longitudinal narrative）之间取得平衡。
 
 ## 适用边界
 
@@ -73,4 +74,4 @@ updated: 2026-06-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 将逐步聚焦纳入质性数据分析的七步骤框架的总体策略，并指出其在纵向研究中的应用（p. 435–436）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 将逐步聚焦纳入质性数据分析的七步骤框架的总体策略，并指出其在[[Longitudinal Study|纵向研究]]中的应用（p. 435–436）。

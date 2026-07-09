@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -60,6 +60,8 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Causal Modeling]]"
   - "[[Multiple Regression]]"
+  - "[[Longitudinal Study]]"
+  - "[[Cross-sectional Study]]"
   - "[[Random Assignment]]"
   - "[[Action Research]]"
   - "[[Qualitative Research]]"
@@ -553,7 +555,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 > 12. **何时**收集数据才能从中推断因果性？
 
 > [!tip]- 数据收集时机的重要性
-> 建立因果过程和原因的效果的需求越大，数据收集点应越密集和越频繁。此外，量化数据更适合建立因果的"是什么"，质性数据在建立因果的"如何"方面可能占据优先地位。**纵向研究**可能比**横截面研究**产生更稳健的因果说明（p.75）。
+> 建立因果过程和原因的效果的需求越大，数据收集点应越密集和越频繁。此外，量化数据更适合建立因果的"是什么"，质性数据在建立因果的"如何"方面可能占据优先地位。**[[Longitudinal Study|纵向研究]]**可能比**[[Cross-sectional Study|横截面研究]]**产生更稳健的因果说明（p.75）。
 
 ---
 

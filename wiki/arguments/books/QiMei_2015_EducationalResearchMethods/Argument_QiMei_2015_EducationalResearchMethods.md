@@ -10,9 +10,9 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 99
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_count: 100
+argument_related_level: 6
+argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "教育研究方法"
 publication_place: "北京"
@@ -113,6 +113,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Intervention Research]]"
   - "[[Pilot Testing]]"
+  - "[[Documentary Analysis]]"
   - "[[Observation Protocol]]"
   - "[[Random Assignment]]"
   - "[[Random Sampling]]"
@@ -346,7 +347,7 @@ updated: 2026-07-08
 >
 > > [!step] 思路方法
 > > - **研究思路** 研究方法框架，分步骤和时段性写作。
-> > - **研究方法** 文献研究法、调查研究法、[[Observation Method|观察研究]]法、思辨法、[[Action Research|行动研究]]法、历史研究法、概念分析法、比较研究法等，多种方法并用可规避单一方法的劣势。
+> > - **研究方法** [[Documentary Analysis|文献研究]]法、调查研究法、[[Observation Method|观察研究]]法、思辨法、[[Action Research|行动研究]]法、历史研究法、概念分析法、比较研究法等，多种方法并用可规避单一方法的劣势。
 > > - **研究计划** 清晰记录每个步骤的时间安排、地点、任务和目标、负责人。
 > > - **可行性论证** 课题研究所需的条件（信息资料、实验器材、研究经费、学生的知识水平和技能及教师的指导能力），以及已做的前期工作。
 >

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 91
+argument_related_count: 98
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -106,6 +106,12 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Participant Observation]]"
   - "[[Documentary Analysis]]"
+  - "[[Survey Research]]"
+  - "[[Longitudinal Study]]"
+  - "[[Cross-sectional Study]]"
+  - "[[Trend Study]]"
+  - "[[Cohort Study]]"
+  - "[[Internet-based Survey]]"
   - "[[Meta-analysis]]"
   - "[[Action Research]]"
   - "[[Grounded Theory]]"
@@ -125,6 +131,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
@@ -156,7 +163,7 @@ updated: 2026-06-24
 > | **Part 3 教育研究的类型** | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|第13章 Naturalistic, qualitative and ethnographic research]] | 区分自然主义/民族志（长期驻留）与质性方法（数据类型）；梳理[[Interpretive Paradigm\|诠释范式]]的认识论原则；提出质性研究12阶段操作模型；介绍[[Critical Ethnography\|批判民族志]]及其五阶段模型；系统列出自然主义方法的十大问题。 | [[Qualitative Research]]、[[Ethnography]]、[[Reflexivity]]、[[Critical Ethnography]]、[[Participant Observation]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|第12章 Historical and documentary research in education]] | 系统介绍[[Document\|文献]]的四种类型划分轴线与一手/二手的复杂区分；详述六类一手文献（书籍、报告、报纸、小说、日记/信件/自传）及其教育研究案例；分析档案研究的方法、挑战与在线转型；拆解[[Documentary Analysis\|文献分析]]的五个程序环节（真实性、可靠性、意义、语境、理论化）及三种理论传统（实证主义、解释性、批判性）；梳理英国文献研究的核心法律框架与伦理议题。 | [[Document]]、[[Documentary Analysis]]、[[Reliability]]、[[Qualitative Research]] |
-> | 第15章 Surveys, longitudinal, cross-sectional and trend studies | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|第13章 Surveys, longitudinal, cross-sectional and trend studies]] | 系统介绍[[Survey Research\|调查]]的定义、特征与规划流程（14阶段）、低回应与无回应处理方法、抽样策略，以及[[Longitudinal Study\|纵向]]、[[Cross-sectional Study\|横截面]]、[[Trend Study\|趋势]]和[[Cohort Study\|队列研究]]的设计类型与优劣比较，最后比较邮寄、访谈、电话和[[Internet-based Survey\|互联网调查]]四种数据收集方式。 | [[Survey Research]]、[[Longitudinal Study]]、[[Cross-sectional Study]]、[[Cohort Study]]、[[Internet-based Survey]] |
 > | 第16章 Internet-based research and computer usage | | |
 > | 第17章 Case studies | | |
 > | 第18章 Ex post facto research | | |

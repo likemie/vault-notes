@@ -10,7 +10,7 @@ summary: "在研究人类行为的某一方面时使用两种或更多资料收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -39,6 +39,10 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Member Checking]]"
   - "[[Experimental Research]]"
+  - "[[Cross-sectional Study]]"
+  - "[[Longitudinal Study]]"
+  - "[[Cohort Study]]"
+  - "[[Trend Study]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Case Study]]"
 related_arguments:
@@ -111,7 +115,7 @@ updated: 2026-07-08
 
 > [!dimension] Denzin 的六种三角验证类型
 > - **时间三角验证（Time triangulation）**
->   通过使用**横截面设计**和**纵向设计**来考虑变化和过程因素。Kirk & Miller (1986) 提出历时[[Reliability|信度]]（diachronic reliability，观察的跨时间稳定性）和共时信度（synchronic reliability，同时收集的数据的相似性）。横截面研究收集一个时间点的数据；纵向研究从同一群体在不同时间点收集数据。面板研究（panel studies）比较同一样本中相同个体在多个时间点的相同测量；趋势研究（trend studies）随时间的推移持续检查选定过程。
+>   通过使用**横截面设计**和**纵向设计**来考虑变化和过程因素。Kirk & Miller (1986) 提出历时[[Reliability|信度]]（diachronic reliability，观察的跨时间稳定性）和共时信度（synchronic reliability，同时收集的数据的相似性）。[[Cross-sectional Study|横截面研究]]收集一个时间点的数据；[[Longitudinal Study|纵向研究]]从同一群体在不同时间点收集数据。[[Cohort Study|面板研究]]（panel studies）比较同一样本中相同个体在多个时间点的相同测量；[[Trend Study|趋势研究]]（trend studies）随时间的推移持续检查选定过程。
 > - **空间三角验证（Space triangulation）**
 >   通过使用**跨文化技术**克服在同一国家或同一亚文化内进行研究的狭隘主义。"不仅行为科学是受文化约束的，它们还是受亚文化约束的。然而许多学术著作写得好像发现了在任何社会、任何地方、任何时间都作为倾向性成立的基本原则"（Smith, 1975）。跨文化研究可能涉及在不同人群中检验理论（如 Piaget 和 Freud 心理学），或使用多种不同测量工具测量人群间差异。
 > - **组合层次三角验证（Combined levels of triangulation）**

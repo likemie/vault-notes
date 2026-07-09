@@ -8,10 +8,10 @@ aliases:
 summary: "研究设计中明确研究意图和预期交付物的核心决策点，区分研究原因与研究目的，通过目的决定随后的研究类型、方法和设计，并与目的适配性原则共同构成研究规划的逻辑起点"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-design
   - source/textbook
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Fitness for Purpose]]"
 related_theories: []
 related_methods:
+  - "[[Trend Study]]"
   - "[[Action Research]]"
   - "[[Ethnography]]"
   - "[[Observational and Correlational Research]]"
@@ -54,7 +55,7 @@ updated: 2026-06-20
 > 研究目的（research purposes）是研究者对研究预期交付什么的明确陈述——研究完成后哪些在研究开始前不知道的知识将被获得。它回答的核心问题是：研究的产出（deliverables）是什么？研究要做什么？研究要找出什么？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）
 
 > [!concept-lens] 概念透镜
-> - **含义** 研究目的不是预测研究结果（这等于操纵研究），而是声明研究所要提供的答案类型或信息类型。
+> - **含义** 研究目的不是[[Trend Study|预测研究]]结果（这等于操纵研究），而是声明研究所要提供的答案类型或信息类型。
 > - **用途** 研究目的是随后的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略和[[Research Ethics|研究伦理]]立场的决定因素。
 > - **边界** 研究目的 ≠ 研究动机。"为什么做这个研究"是歧义的："为什么"既可以指原因／起因（reasons/causes），也可以指目的（purposes），二者可能重叠。原因关注研究的重要性和合理性（如研究为什么值得做），目的关注研究希望达成什么（如研究要交付什么）。
 
@@ -64,7 +65,7 @@ updated: 2026-06-20
 
 > [!dimension] 研究目的的三种功能
 > - **明确交付物**
->   研究目的将模糊的研究意图转化为可陈述的预期产出——研究完成后哪些知识将被获得。这不同于预测研究结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
+>   研究目的将模糊的研究意图转化为可陈述的预期产出——研究完成后哪些知识将被获得。这不同于[[Trend Study|预测研究]]结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
 > - **决定研究类型**
 >   不同的目的暗示不同的研究取向。试图证明某事物在特定条件下有效 → 实验或[[Action Research|行动研究]]；增进对学习理论的理解 → [[Document|文献]]研究；识别成功学校的共同特征 → 研究综合或[[Descriptive Research Question|描述性研究]]。
 > - **决定研究方法与设计**

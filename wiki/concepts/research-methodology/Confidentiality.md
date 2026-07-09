@@ -7,10 +7,10 @@ aliases:
 summary: "研究伦理中研究者对参与者信息的保护义务——承诺不将可识别个人身份的信息公开披露或使个体可被追踪，在敏感研究中面临演绎披露和链接文件系统等特殊挑战"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-ethics
   - theme/research-governance
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Reliability]]"
 related_methods:
+  - "[[Cohort Study]]"
   - "[[Linked File System]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -43,7 +44,7 @@ updated: 2026-07-08
 > - **边界** 保密不等于匿名——匿名意味着研究者也无法识别参与者，保密意味着研究者知道但不公开。保密也不等于隐私——隐私是参与者有权不说、不被侵入的主动权利，保密是研究者不公开已知信息的承诺。
 
 > [!boundary]- 概念边界
-> - 不等于 匿名（[[Anonymity in Research|anonymity]]） — 匿名意味着信息无法追溯到提供者（包括研究者自己也无法追溯），保密意味着研究者可以追溯但承诺不公开。匿名是更强的保护但限制了追踪研究。
+> - 不等于 匿名（[[Anonymity in Research|anonymity]]） — 匿名意味着信息无法追溯到提供者（包括研究者自己也无法追溯），保密意味着研究者可以追溯但承诺不公开。匿名是更强的保护但限制了[[Cohort Study|追踪研究]]。
 > - 不等于 隐私（privacy） — 隐私是参与者的权利（不参与、不回答、不被侵入），保密是研究者的义务（不披露已获得的信息）。参与者可以放弃隐私，但研究者的保密义务在承诺后具有约束力。
 > - 不适用于已进入公共领域的信息 — 保密仅保护尚未公开的个人信息。
 
@@ -106,7 +107,7 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen
 
 #### 链接文件系统
 
-当研究者需要在保护保密性的同时跨多个时间点收集同一参与者的数据时——例如追踪研究——Lee (1993, p. 173) 提出了[[Linked File System|链接文件系统]]（linked file system）（pp.212–213）：
+当研究者需要在保护保密性的同时跨多个时间点收集同一参与者的数据时——例如[[Cohort Study|追踪研究]]——Lee (1993, p. 173) 提出了[[Linked File System|链接文件系统]]（linked file system）（pp.212–213）：
 
 > [!proc] 链接文件系统的三层架构
 > 1. **数据文件（File 1）** 保存所有研究数据，为每位参与者分配任意编号（如 P001, P002）。此文件由研究者日常使用，不包含可识别身份的信息。

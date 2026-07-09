@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 49
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -61,7 +61,9 @@ related_concepts:
   - "[[Access and Acceptance in Research]]"
 related_theories: []
 related_methods:
+  - "[[Trend Study]]"
   - "[[Action Research]]"
+  - "[[Documentary Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Participatory Research]]"
   - "[[Survey Research]]"
@@ -73,6 +75,8 @@ related_methods:
   - "[[Case Study]]"
   - "[[Comparative Case Study]]"
   - "[[Grounded Theory]]"
+  - "[[Longitudinal Study]]"
+  - "[[Internet-based Survey]]"
   - "[[Archival Research]]"
   - "[[Qualitative Interview]]"
   - "[[Qualitative Research]]"
@@ -253,7 +257,7 @@ updated: 2026-06-19
 > - **明确研究的交付物**
 >   [[Research Purpose|研究目的]]是研究预期交付什么（what the research will deliver），即研究完成后哪些在研究开始前不知道的知识将被获得。
 > - **区分目的与预测**
->   研究目的不同于预测研究结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
+>   研究目的不同于[[Trend Study|预测研究]]结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
 > - **目的决定方法**
 >   不同的目的暗示不同的研究取向，因此目的适配性（fitness for purpose）决定随后的研究类型、方法、工具和设计。
 
@@ -267,7 +271,7 @@ updated: 2026-06-19
 > | 研究目的 | 典型适配方法 |
 > |---|---|
 > | 证明某事物在特定条件下有效 | 实验；[[Action Research\|行动研究]] |
-> | 增进对学习理论的理解与知识 | 文献研究 |
+> | 增进对学习理论的理解与知识 | [[Documentary Analysis\|文献研究]] |
 > | 识别成功学校的共同特征 | 研究综合；[[Descriptive Research Question\|描述性研究]] |
 > | 检验早期音乐教育对一般智力的影响 | [[Meta-analysis\|元分析]]；多层次研究 |
 > | 开发与评估农村／分散社区的社区教育 | [[Participatory Research\|参与式研究]]；评估研究；行动研究 |
@@ -295,7 +299,7 @@ updated: 2026-06-19
 > | 理解暴力家庭中儿童的创伤性质与治疗 | [[Case Study\|案例研究]]；行动研究；[[Grounded Theory\|扎根理论]]；事后回溯研究 |
 > | 生成中学物理教学中教科书有效使用的理论 | [[Grounded Theory\|扎根理论]] |
 > | 澄清"刻板印象激活效应"概念以研究性别刻板印象对阅读的影响 | 调查；[[Case Study\|案例研究]]；实验；因果研究 |
-> | 检验"增加奖励随时间降低学生效果"的假设／理论 | 实验；调查；纵向研究；因果或相关研究 |
+> | 检验"增加奖励随时间降低学生效果"的假设／理论 | 实验；调查；[[Longitudinal Study\|纵向研究]]；因果或相关研究 |
 
 从上表可以清晰看出：**不同的目的暗示不同的研究取向**。[[Fitness for Purpose|目的适配性]]（fitness for purpose）因此在研究规划中占据核心位置。但实践中常见的误区是让方法偏好凌驾于目的之上——即**让尾巴摇狗（having the tail wagging the dog）**。
 
@@ -391,7 +395,7 @@ updated: 2026-06-19
 #### 6.5.4 资源
 
 > [!feature] 资源的三个类别
-> - **物质资源** 邮寄调查有印刷、分发、回邮和跟进提醒的成本。在线调查需考虑：所有教师是否都有便捷的网络访问？连接质量差、速度慢或系统不稳定是否会导致他们中途放弃？
+> - **物质资源** 邮寄调查有印刷、分发、回邮和跟进提醒的成本。[[Internet-based Survey|在线调查]]需考虑：所有教师是否都有便捷的网络访问？连接质量差、速度慢或系统不稳定是否会导致他们中途放弃？
 > - **人力资源** 大规模校园问卷需要学术和行政人员的配合来安排分发、收集和回收
 > - **档案资源** 历史[[Archival Research|档案研究]]（如20世纪初苏格兰公共教育趋势分析）可能需要支付检索费、访问分散各地的档案馆、花时间坐在公共记录办公室的微缩胶片阅读器前
 

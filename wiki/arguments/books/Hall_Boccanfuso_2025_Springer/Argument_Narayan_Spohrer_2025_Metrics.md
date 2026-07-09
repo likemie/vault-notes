@@ -29,7 +29,8 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Operationalization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Cohort Study]]"
 related_persons:
   - "[[Jim Spohrer]]"
 related_facts:
@@ -48,7 +49,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -209,7 +210,7 @@ citation_aliases:
 
 > 三个大型案例放在教育语境下，对应着不同的合作[[Paradigm|范式]]。IIDAI 的平台驱动模式，类似一所师范大学与全省若干县市教育局共建教育数据平台——平台是共享基础设施，各县市在此之上开发自己的应用。MIT-IBM 的产业联盟模式，类似教育学院联合多家教育科技企业、出版商和公益基金会共建教育创新实验室，每家成员带来不同的领域知识和资源，共享研究成果和 IP。Albany 的国家战略模式，类似国家层面推动的区域教师发展中心——长期、大资本投入、政府深度参与、关键是产业生态的培育而不仅是短期项目成果。
 
-17. 将三个规模层次放在一起，可以得出一个推论：没有一套普适的产学合作度量指标。小型项目需要轻量化度量，核心看人才和论文，IP 条款的过度谈判反而阻碍合作启动。中型项目的度量需要增加治理维度，包括建立能力中心的速度和研究生管道的制度保障。大型项目的度量是多维的，需要同时追踪研究产出、产业生态建设、经济利益相关方参与和外部资金撬动。度量的原则是匹配投资规模和合作性质，按场景选择合适的度量组合(p.91)。
+17. 将三个规模层次放在一起，可以得出一个推论：没有一套普适的产学合作度量指标。小型项目需要轻量化度量，核心看人才和论文，IP 条款的过度谈判反而阻碍合作启动。中型项目的度量需要增加治理维度，包括建立能力中心的速度和研究生管道的制度保障。大型项目的度量是多维的，需要同时[[Cohort Study|追踪研究]]产出、产业生态建设、经济利益相关方参与和外部资金撬动。度量的原则是匹配投资规模和合作性质，按场景选择合适的度量组合(p.91)。
 
 ---
 

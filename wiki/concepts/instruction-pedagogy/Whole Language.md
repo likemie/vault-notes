@@ -6,7 +6,7 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Cohort Study]]"
 related_persons:
   - "[[Ken Goodman]]"
   - "[[John Hattie]]"
@@ -139,7 +140,7 @@ citation_aliases: []
 
 ## 应用案例
 
-> [!case] Case 1: Dahl & Freppon (1994) 双城追踪研究
+> [!case] Case 1: Dahl & Freppon (1994) 双城[[Cohort Study|追踪研究]]
 > 该研究追踪了低收入内城区学校的 8 个班级两年（幼儿园到一年级），结果表明虽然量化阅读测试得分相似，但全语言班学生能生成更多故事语言的句法与词汇特征，并建立起极强的读写坚持性与 ownership（学习所有权），而技能本位班只有最 proficiency 的学生才有此类倾向 (p.146-147)。
 
 > [!case] Case 2: Trachtenburg & Ferruggia (1989) 共享大书实验

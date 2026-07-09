@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Methodological Educationism]]"
   - "[[Knowledge Exchange]]"
+  - "[[De-Westernisation]]"
   - "[[Re-Westernisation]]"
   - "[[Champ]]"
 related_theories:
@@ -287,10 +288,10 @@ citation_aliases:
 > 
 > 这一转变带来了新的比较议程：主权领土国家将如何与恐惧政治(Wodak, 2015)结合来面对核威胁的回归？教育系统将被要求如何支持或阻碍美俄之间为支配或生存而进行的竞争？(p. 429)
 
-> [!case] 案例二：中国的“[[Re-Westernisation|去西方化]]”挑战
+> [!case] 案例二：中国的“[[De-Westernisation|去西方化]]”挑战
 > 中国的挑战与经济而非军事更为相关。北京拒绝华盛顿的经济教义，但寻求的不是变革世界经济秩序，而是从美国手中夺取对它的控制。不加约束的资本主义扩张与儒家家族主义式民族主义的结合，展示了中国对这一秩序的承诺。
 > 
-> Mignolo (2011, p. 47)指出，中国的去西方化与美国的再西方化共享资本主义的生存，对抗发生在殖民权力矩阵的其他层面（权威、知识与主体性领域）。这将在比较教育中产生新的注意力议程(p. 430)：
+> Mignolo (2011, p. 47)指出，中国的去西方化与美国的[[Re-Westernisation|再西方化]]共享资本主义的生存，对抗发生在殖民权力矩阵的其他层面（权威、知识与主体性领域）。这将在比较教育中产生新的注意力议程(p. 430)：
 > 
 > > [!tension] 再西方化 vs 去西方化
 > > - **美国的再西方化（Re-Westernisation）** 旨在维护西方启蒙以来的知识、制度和意识形态的统治地位。
@@ -314,7 +315,7 @@ citation_aliases:
 > 1. **多重比较教育形态的建构** 比较教育的不同学术形态（现实主义的现代主义借用、理性主义的[[Governing at a Distance|远处治理]]、[[Revolutionism|革命主义]]的道德解放）并非简单的学派分歧，而是对国际社会性质底层预设的直接反映(p. 417)。
 > 2. **学科内部矛盾的政治性解构** [[Policy Borrowing|政策借用]]与情境理解的冲突、技术评估与批判解放的对立，本质上是现实主义（权力斗争）、理性主义（规范治理）与革命主义（支配抵抗）冲突的表征，具有不可消除性(p. 431)。
 > 3. **[[Agendas of Attention|注意力议程]]对地缘的依附** 比较教育的注意力议程（谁值得被比较）在冷战对峙、[[Development Turn in Comparative Education|发展转向]]、新自由主义学术扩张等不同历史时期均受制于主权国力和地缘利益的消长(p. 421)。
-> 4. **地缘新变局下的学科走向** 随着美俄军事对抗再显主权回归，以及中国在[[Re-Westernisation|去西方化]]权力矩阵中的经济博弈，比较教育将重设注意力议程以服务于新的集团生存或去西方化修辞(pp. 429–430)。
+> 4. **地缘新变局下的学科走向** 随着美俄军事对抗再显主权回归，以及中国在[[De-Westernisation|去西方化]]权力矩阵中的经济博弈，比较教育将重设注意力议程以服务于新的集团生存或去西方化修辞(pp. 429–430)。
 
 ---
 

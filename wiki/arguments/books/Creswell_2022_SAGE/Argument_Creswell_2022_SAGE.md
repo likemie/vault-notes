@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 170
+argument_related_count: 171
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -160,6 +160,7 @@ related_methods:
   - "[[Feminist Research]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
+  - "[[Longitudinal Study]]"
   - "[[Qualitative Documents]]"
   - "[[Causal Modeling]]"
   - "[[Qualitative Interview]]"
@@ -372,7 +373,7 @@ citation_aliases:
 > | 实验与准实验（Experimental and quasi-experimental） | [[Qualitative Research\|描述性方法]]（Descriptive method） | [[Convergent Design\|聚敛式]]（Convergent） |
 > | [[Single-Subject Design\|单受试者]]（Single-subject） | [[Narrative Research\|叙事研究]]（Narrative research） | [[Explanatory Sequential Design\|解释性序列]]（Explanatory sequential） |
 > | 非实验（如调查）（Nonexperimental such as surveys） | [[Phenomenology\|现象学]]（Phenomenology） | [[Exploratory Sequential Design\|探索性序列]]（Exploratory sequential） |
-> | 纵向研究（Longitudinal） | [[Grounded Theory\|扎根理论]]（Grounded theory） | [[Mixed Methods Research\|复杂设计]]（Complex designs with embedded core designs） |
+> | [[Longitudinal Study\|纵向研究]]（Longitudinal） | [[Grounded Theory\|扎根理论]]（Grounded theory） | [[Mixed Methods Research\|复杂设计]]（Complex designs with embedded core designs） |
 > | | [[Ethnography\|民族志]]（Ethnography） | |
 > | | [[Case Study\|案例研究]]（Case study） | |
 

@@ -3,24 +3,28 @@ title: Documentary Analysis
 aliases:
   - 文献分析
   - documentary research method
-  - 文献研究方法
+  - 文献研究
 summary: "一种通过系统评估文献的真实性、可靠性、意义和语境来解释历史与社会现象的研究方法，包含实证主义、解释性和批判性三种理论传统。"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
-  - method/historical-research
-  - method/textual-analysis
+  - method/documentary-analysis
+  - paradigm/qualitative
+  - theme/methodology
+  - subject/social-science
+  - region/global
 related_concepts:
   - "[[Document]]"
   - "[[Reliability]]"
   - "[[Theoretical Perspective]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
+  - "[[Linguistic Turn]]"
   - "[[Analytic Framework]]"
   - "[[Interpretive Paradigm]]"
   - "[[Causality]]"
@@ -34,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-09
 ---
 
 # Documentary Analysis
@@ -70,7 +74,7 @@ updated: 2026-06-24
 > [!method-stack] 方法层级
 > - **研究设计** 历史研究、[[Case Study|个案研究]]、政策分析、比较研究、多方法混合设计。
 > - **数据收集** 图书馆检索、档案查询、在线数字档案访问、个人收藏发现。
-> - **分析方法** 真实性验证、可靠性评估、文本阐释（解释学/语言学转向）、语境分析（作者、受众、后果）、理论化（实证主义、解释性或批判性路径）。
+> - **分析方法** 真实性验证、可靠性评估、文本阐释（解释学/[[Linguistic Turn|语言学转向]]）、语境分析（作者、受众、后果）、理论化（实证主义、解释性或批判性路径）。
 > - **辅助技术**[[Triangulation|三角互证]]（不同文献类型之间、文献与访谈之间相互验证）、文献编目与索引、数字检索工具。
 
 ---
@@ -94,7 +98,7 @@ updated: 2026-06-24
 ### 文本分析：解释学与语言学转向
 
 > [!info] 文本层面的深入分析
-> 近年来，对文本语言和形式的分析越来越受到重视。在解释学（hermeneutics）原则的影响下，并受文学批评的启发（Reinfandt, 2009），一些教育史学者开始创造性地运用"语言学转向"（linguistic turn），关注文本生产的符号学——包括意义如何在文本中被制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、话语共同体在文本接受中的角色等（Cohen, 1999: 81）。
+> 近年来，对文本语言和形式的分析越来越受到重视。在解释学（hermeneutics）原则的影响下，并受文学批评的启发（Reinfandt, 2009），一些教育史学者开始创造性地运用"[[Linguistic Turn|语言学转向]]"（linguistic turn），关注文本生产的符号学——包括意义如何在文本中被制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、话语共同体在文本接受中的角色等（Cohen, 1999: 81）。
 
 ### 三种理论传统
 

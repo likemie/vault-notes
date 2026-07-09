@@ -8,10 +8,10 @@ aliases:
 summary: "西方学校中一种将高学业成就与同伴接纳对立起来的同伴文化，理智好奇、努力学习的学生被冠以nerd等贬称并遭受同伴骚扰"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/western
   - theme/peer-culture
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Tongxue]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Longitudinal Study]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -120,7 +121,7 @@ Oakes 和 Guiton 对美国高中[[Tracking|分轨制]]（tracking）的长期研
 > [!example]
 > 与西方形成鲜明对比的是，在东亚学校中，"nerd"作为一个类型或分类似乎并不存在。在中国的校园里，只存在两个同伴群体：好学生群体和反社会／行为不良群体。高成就者通常被钦佩、受欢迎、被模仿、被寻求为朋友——无论他们在其他方面是否"不够酷"（如外貌、运动能力、纯社交能力）([[Argument_Li_2012_Cambridge|Li, 2012, pp.101–102]])。
 
-Chen 等人的纵向研究发现：属于高成就群体的小学和初中儿童，两年后社交能力变得更强。即使是学业较弱的学生，只要属于高成就群体，也比属于低成就群体的学生发展出更少的社交问题——在 China，与高成就同伴交往对负面社交行为具有保护作用([[Argument_Li_2012_Cambridge|Li, 2012, p.102]])。
+Chen 等人的[[Longitudinal Study|纵向研究]]发现：属于高成就群体的小学和初中儿童，两年后社交能力变得更强。即使是学业较弱的学生，只要属于高成就群体，也比属于低成就群体的学生发展出更少的社交问题——在 China，与高成就同伴交往对负面社交行为具有保护作用([[Argument_Li_2012_Cambridge|Li, 2012, p.102]])。
 
 这种差异的文化根源在于东亚的**可变自我观**和**环境影响力信念**——自我通过个人努力和社会影响是可变的。"近朱者赤，近墨者黑"概括了这种信念。当学习好还意味着品德好时，家长鼓励孩子与高成就者交朋友就是完全合理的([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
 

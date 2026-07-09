@@ -9,10 +9,10 @@ aliases:
 summary: "产学合作中最常见的合同类型，企业从内部资金中向大学提供特定研究项目资助，标准条款包括产业方自动获得前景 IP 的非排他免版税内部使用许可以及有时间限制的商业许可谈判选择权"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/intellectual-property
   - theme/university-industry-collaboration
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Academic Engagement Team]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Cohort Study]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -89,7 +90,7 @@ updated: 2026-06-04
 > [!note]-
 > [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.229–231)]]将 SRA 置于[[University-Industry Collaboration|产学合作]]协议工具的时间尺度谱系中。SRA 位于谱系的最长端——3 年以上、开放式[[Research Question|研究问题]]、产出以学术发表和人才培养为主——与咨询协议（最短端、具体产品工程问题）形成对比。
 
-从企业 [[Academic Engagement Team|AET]] 的组织角度看，SRA 的长周期特征决定了它不适合由分散化的业务部门直接管理。业务部门的季度规划周期和利润考核压力天然倾向于短期、目标明确的合作形式。SRA 需要中央化 AET 在早期阶段"孵育"——管理合作关系、追踪研究进展、维护学术联系——直到研究概念成熟到可以向业务部门利益相关者展示商业价值。此时 SRA 的"监护权"可以从中央 AET 转移到业务部门进行后续开发([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.230–231]])。
+从企业 [[Academic Engagement Team|AET]] 的组织角度看，SRA 的长周期特征决定了它不适合由分散化的业务部门直接管理。业务部门的季度规划周期和利润考核压力天然倾向于短期、目标明确的合作形式。SRA 需要中央化 AET 在早期阶段"孵育"——管理合作关系、[[Cohort Study|追踪研究]]进展、维护学术联系——直到研究概念成熟到可以向业务部门利益相关者展示商业价值。此时 SRA 的"监护权"可以从中央 AET 转移到业务部门进行后续开发([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.230–231]])。
 
 > [!example] SRA 的两阶段管理
 > 一家公司的中央研究 AET 与某大学签订了一项关于新型电池材料的三年 SRA。前两年由 AET 直接管理：季度研究评审、协调研究生实习、追踪学术发表。第三年，当研究团队在实验室条件下验证了关键性能指标后，AET 将项目介绍给公司电池产品部门的工程团队——邀请其人员参加研究评审并提供商业化场景的反馈。如果产品部门决定跟进，此时"监护权"从 AET 转移到业务部门，AET 的角色转为跟踪和记录商业化进展。

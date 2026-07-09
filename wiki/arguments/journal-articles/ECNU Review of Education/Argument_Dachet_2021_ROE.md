@@ -10,7 +10,7 @@ title: "Argument_Dachet_2021_ROE"
 argument_key: "Argument_Dachet_2021_ROE"
 argument_display_title: "Evidence-based education: The not so simple case of French-speaking Belgium"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Longitudinal Study]]"
   - "[[Case Study]]"
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
@@ -76,7 +77,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > - [[Evidence-Based Education]]：作为从循证医学迁移到教育领域的[[Paradigm|范式]]，强调专业实践应使用当前最佳研究证据，但教育领域同时存在对标准化、可复制性和[[Epistemology|认识论]]窄化的批评(pp.166-168)。
 > - [[Evidence-Based Reform]]：主要采用 Slavin 的三项杠杆作为[[Analytic Framework|分析框架]]，即提供广泛的经验证项目、提供教师友好的研究综述、为学校实施经验证项目提供资源(pp.166, 179-181)。
-> - 方法匹配而非单一证据层级：结构性教育改革很难总是用实验设计评估，因此可用相关研究、纵向研究或其他适合问题的问题-方法组合来判断现有最佳证据(pp.171, 179-180)。
+> - 方法匹配而非单一证据层级：结构性教育改革很难总是用实验设计评估，因此可用相关研究、[[Longitudinal Study|纵向研究]]或其他适合问题的问题-方法组合来判断现有最佳证据(pp.171, 179-180)。
 
 ## 研究方法
 
@@ -116,7 +117,7 @@ citation_aliases:
 
 ### 第五步：包容性验证类型学成为过渡机制
 
-作者团队建立了[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、[[Case Study|案例研究]]、横断研究、相关或纵向研究、实验和准[[Experimental Research|实验研究]]纳入同一框架，同时为每类方法设置最低质量标准(pp.175-178)。它的目的不是把弱证据伪装成强证据，而是在承认方法多样性的同时推动学科教学专家看到实验研究的附加价值(pp.175-176)。
+作者团队建立了[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、[[Case Study|案例研究]]、横断研究、相关或[[Longitudinal Study|纵向研究]]、实验和准[[Experimental Research|实验研究]]纳入同一框架，同时为每类方法设置最低质量标准(pp.175-178)。它的目的不是把弱证据伪装成强证据，而是在承认方法多样性的同时推动学科教学专家看到实验研究的附加价值(pp.175-176)。
 
 这种设计把 EBE 从“只承认 [[Randomised Controlled Trials|RCT]]”的冲突姿态，改造成一条可协商的能力建设路径：先承认现有工具清单和专家工作有价值，再逐步要求更系统的实施研究、准实验评价和本地有效性验证。
 

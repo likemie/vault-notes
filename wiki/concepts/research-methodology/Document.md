@@ -6,7 +6,7 @@ aliases:
 summary: "研究中的文献是对事件或过程的记录，由个人或群体生产，包括私人文本、官方档案、媒体报道、小说、日记、信件与电子记录等多种形式，是历史与文献研究方法的基石分析单位。"
 type: concept
 domain: "research-methodology"
-related_count: 3
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,10 @@ tags:
 related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Reliability]]"
+  - "[[Virtual Documents]]"
   - "[[Reflexivity]]"
+related_methods:
+  - "[[Documentary Analysis]]"
 confidence: medium
 status: draft
 created: 2026-06-24
@@ -30,7 +33,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 文献（document）是对一个事件或过程的记录。这类记录可以由个人或群体生产，形式极为多样。文献研究（documentary research）通常使用由他人事先生产、而非研究者在研究过程中自行制作的文献，以此区别于通过访谈记录或问卷收集的研究者自产资料（pp.12–13）。
+> 文献（document）是对一个事件或过程的记录。这类记录可以由个人或群体生产，形式极为多样。[[Documentary Analysis|文献研究]]（documentary research）通常使用由他人事先生产、而非研究者在研究过程中自行制作的文献，以此区别于通过访谈记录或问卷收集的研究者自产资料（pp.12–13）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 文献指向任何以固定形式留存的人为社会活动的痕迹，包括文字、图像、声音和物质遗存。
@@ -78,7 +81,7 @@ updated: 2026-06-24
 
 > [!dimension] 按与研究的关系划分
 > - **独立于研究者的文献**
->   为研究者控制之外的各种目的而生产。文献研究通常使用此类文献。
+>   为研究者控制之外的各种目的而生产。[[Documentary Analysis|文献研究]]通常使用此类文献。
 > - **研究者自产文献**
 >   由研究者自己作为研究数据制作的文献，如访谈转录稿或完成的问卷（Silverman, 2001, p. 119）。
 
@@ -100,7 +103,7 @@ updated: 2026-06-24
 > - **自传（autobiography）** 作者是事件的目击者或参与者（一手），但通常在数年乃至数十年后撰写，受记忆和选择性回忆的影响；同时自传也可能试图分析作者所经历的时代变迁（二手）（Hobsbawm, 2002）。
 > - **学术著作** 既可能是其领域的知识贡献（二手），又同时反映了特定时代或语境下对议题的态度（一手）。例如 Fred Clarke 的《Education and Social Change》（1940）既是对教育社会学和历史学的贡献，也表达了二战期间对社会政治议题的立场。
 > - **编辑与汇集文献（hybrid documents）** 日记、信件和自传的编辑版比原始文献更容易获取，但经过编辑过程可能改变了原始文献的某些特征，无论是微妙还是显著地——一手文献的一手特征因编辑与呈现过程而被"折中"（Fothergill, 1974）。
-> - **虚拟文献（virtual documents）** 通过互联网访问的电子化原始文献，在鼠标点击间即可获取（Guardian, 2003）。大多数极有价值（Crook, 2000），但政府和组织网站可能以对自身有利的方式呈现文献；许多历史学家认为它们失去了原始纸质文献的"直接性"（Schama, 1999）。
+> - **[[Virtual Documents|虚拟文献]]（virtual documents）** 通过互联网访问的电子化原始文献，在鼠标点击间即可获取（Guardian, 2003）。大多数极有价值（Crook, 2000），但政府和组织网站可能以对自身有利的方式呈现文献；许多历史学家认为它们失去了原始纸质文献的"直接性"（Schama, 1999）。
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 summary: "研究论文中把研究发现转化为采用、调整或避免某种实践的行动建议，用于连接研究结论与政策或教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Trend Study]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
   - "[[Qualitative Research]]"
@@ -53,7 +54,7 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1994** — 既有趋势研究显示，约 30% 的相关性文章包含实践建议，说明[[Non-intervention Research|非干预研究]]中的 RFP 并非新现象，而是长期存在的出版实践([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
+> - **1994** — 既有[[Trend Study|趋势研究]]显示，约 30% 的相关性文章包含实践建议，说明[[Non-intervention Research|非干预研究]]中的 RFP 并非新现象，而是长期存在的出版实践([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
 > - **2010** — 相关性文章包含实践建议的比例上升至 46%，与教育心理学期刊中[[Intervention Research|干预研究]]下降、相关研究上升的趋势同步出现。
 > - **2020** — [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 发现，观察/相关研究中 66% 包含 RFP；[[Qualitative Research|质性研究]]中 65%、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中 60% 包含 RFP。综合来看，2020 年约三分之二的[[Non-intervention Research|非干预研究]]文章包含 RFP([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 

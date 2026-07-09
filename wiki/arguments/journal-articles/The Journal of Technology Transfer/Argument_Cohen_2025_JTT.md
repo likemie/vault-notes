@@ -11,7 +11,7 @@ title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -47,8 +47,10 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Longitudinal Study]]"
   - "[[Case Study]]"
   - "[[Qualitative Interview]]"
+  - "[[Cohort Study]]"
   - "[[Matching]]"
   - "[[Systematic Review]]"
 related_persons: []
@@ -200,7 +202,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 > [!example] 案例二：科研产出的增加或减少（I.3）——双向影响的典型
 > [[Document|文献]]对 UIC 如何影响学术发表存在显著分歧(pp.353–354)：
 > - **增加的情境** 当产业成员负责商业化活动、学术成员负责科学产出时，双方都能受益(Bikard et al., 2019)。例如生物技术行业中，企业科学家聚焦[[Clinical Trial|临床试验]]数据而大学团队负责机制研究论文，互补而非竞争。
-> - **减少的情境** 当合作项目高度偏向商业目标时，学术成员的精力从发表转向产品开发(Banal-Estañol et al., 2015)。一项纵向研究(Garcia et al., 2020)发现 UIC 对科研产出的正面效应随时间递减——早期合作带来新思路和新数据促进发表，但随着时间推移，商业化目标逐渐挤压了学术探索的空间。
+> - **减少的情境** 当合作项目高度偏向商业目标时，学术成员的精力从发表转向产品开发(Banal-Estañol et al., 2015)。一项[[Longitudinal Study|纵向研究]](Garcia et al., 2020)发现 UIC 对科研产出的正面效应随时间递减——早期合作带来新思路和新数据促进发表，但随着时间推移，商业化目标逐渐挤压了学术探索的空间。
 
 ---
 
@@ -334,7 +336,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 > [!success] 策略 5：数字与技术工具
 > **digital and technological tools**
 > 
-> 利用网络计量指标（altmetrics）和其他数字工具，追踪研究产出在学术圈之外的传播和讨论——包括社交媒体、新闻媒体报道、政策文件和行业白皮书中的引用和提及(Bornmann, 2017)。
+> 利用网络计量指标（altmetrics）和其他数字工具，[[Cohort Study|追踪研究]]产出在学术圈之外的传播和讨论——包括社交媒体、新闻媒体报道、政策文件和行业白皮书中的引用和提及(Bornmann, 2017)。
 > 
 > 传统引用指标（如期刊影响因子、h-index）只能捕捉学术共同体内部的关注度，但 UIC 的核心目标之一是产生社会影响——政策制定者是否参考了合作研究成果？从业者是否采纳了合作开发的新技术？患者群体是否从中受益？这些社会层面的影响不会出现在学术引用统计中，但可能在以下数字痕迹中留下信号：政府白皮书引用了合作项目的技术报告；非营利组织在社交平台上传播合作研究成果；行业媒体对合作的商业化进展做了专题报道。
 > 

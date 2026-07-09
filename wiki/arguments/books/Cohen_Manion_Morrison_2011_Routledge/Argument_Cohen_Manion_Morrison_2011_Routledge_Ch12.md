@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 21
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Virtual Documents]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
   - "[[Analytic Framework]]"
@@ -44,11 +45,13 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Theoretical Perspective]]"
   - "[[Positivism]]"
+  - "[[Linguistic Turn]]"
   - "[[Interpretive Paradigm]]"
   - "[[Doxa]]"
   - "[[Categorical Funding]]"
 related_methods:
   - "[[Documentary Analysis]]"
+  - "[[Secondary Analysis]]"
   - "[[Ideology Critique]]"
   - "[[Archival Research]]"
 sources:
@@ -82,12 +85,12 @@ updated: 2026-07-09
 >     G --> H
 > ```
 
-> [!example]- 图12-1 历史与文献研究的核心问题
+> [!example]- 图12-1 历史与[[Documentary Analysis|文献研究]]的核心问题
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_12-1_Chapter_Overview.jpg)
 
 ### 12.1 历史与文献研究的三个知识领域
 
-历史与[[Documentary Analysis|文献研究方法]]旨在进入并洞察关于人类社会活动的三个相互关联的知识领域。这三个领域形成了历史与文献研究的[[Epistemology|认识论]]根基。
+历史与文献研究方法旨在进入并洞察关于人类社会活动的三个相互关联的知识领域。这三个领域形成了历史与文献研究的[[Epistemology|认识论]]根基。
 
 > [!dimension] 历史与文献研究的三重功能
 > - **研究过去（the past）**
@@ -184,7 +187,7 @@ updated: 2026-07-09
 >   作为其领域的知识贡献，学术著作是典型的二手文献；但它们同时又反映了特定时代和语境下对议题的态度，在这一层面上，它们自身就是一手文献。Fred Clarke 的短著《Education and Social Change》（1940）即是一个经典案例：它既是对教育社会学和历史的学术贡献，又表达了二战背景下对社会政治议题的时代立场。研究者可以根据自己的关切，以其中一种或两种方式来阅读和使用这本书。
 > - **编辑汇集本（混合文献，hybrid documents）**
 >   日记、信件和自传的编辑版比原始文献更易获取，但它们经过了编辑过程，这个过程可能改变了原始文献的某些特征，无论是微妙还是显著地。编辑者可能倾向于突出特定类型的材料以使其更引人入胜或更（不）恭维作者，也可能反映特定利益取向（Fothergill, 1974）。因此，一手文献的一手性被编辑过程折中。
-> - **[[Virtual Documents|虚拟文献（virtual documents）]]**
+> - **[[Virtual Documents|虚拟文献]]（virtual documents）**
 >   通过互联网以数字形式访问的一手文献，即一点鼠标即可获取的虚拟文献（Guardian, 2003）。大多数虚拟文献对研究者有价值（Crook, 2000），但政府和组织的官方网站可能将文献以对自身有利的方式呈现。许多历史学家并不完全信服数字文献的优点，指出它们失去了原始纸质文献的直接性和物质感。正如 Schama（1999）所反思的，屏幕上的扫描件与发黄的纸页在手的感觉，对历史理解而言可能是两种不同的认知体验。
 
 > [!claim] 一手/二手的区分取决于使用方式
@@ -220,7 +223,7 @@ updated: 2026-07-09
 > [!warning] 使用报告时的注意事项
 > 报告提供的信息虽然往往极为有益，但不能假定其总是准确的，应与其他来源对校。政策报告也是揭示支撑改革方案的意识形态预设的窗口：它们代表特定立场或意识形态（Scott, 2000: 27），同时体现国家政策中固有的矛盾和张力（Codd, 1988）。此外，报告的物质形态也在变化：早期报告往往篇幅浩大、包含数卷附录（含证人口头和书面证据），而近几十年的报告则倾向于篇幅更短、焦点更窄、格式更读者友好以提升公众吸引力。这种形式变化本身就是研究政策话语变迁的材料。
 
-> [!case] Hakim（1982）的二手分析框架
+> [!case] Hakim（1982）的[[Secondary Analysis|二手分析]]框架
 > Hakim 将"[[Secondary Analysis|二手分析]]（secondary analysis）"定义为对已有数据集的进一步分析，这种分析以不同于原始调查的解释路径和发现方式推进对数据的理解。在教育领域，人口普查报告和专门的数据集，如英国的[全国儿童发展研究](https://www.esds.ac.uk)（National Child Development Study）为此类分析提供了丰富资源。二手分析的方法论优势在于：研究者可以绕过一手数据收集的巨大成本和时间，直接进入分析层面；而其挑战则在于必须充分理解原始数据的收集方式、[[Variable|变量]]定义和[[Sampling Frame|抽样框架]]，以避免不恰当的比较或推断。
 
 议会辩论记录是另一种官方出版物。英国的 Hansard（以1812年开始出版下议院和上议院辩论的出版者 Thomas Hansard 命名）和美国的 Congressional Record（自1873年首次出版）现均可在线获取。它们提供了事件后短时间内产生的逐日公开记录，对于追踪政策议题如何在政治[[Champ|场域]]中被框架、争论和妥协具有重要价值。
@@ -349,8 +352,8 @@ updated: 2026-07-09
 
 近年来，文献分析在文本层面经历了重要的方法论深化。受解释学（hermeneutics）原则的影响并受到文学批评的启发（Reinfandt, 2009），研究者转向探究文献的语言和形式如何**建构**其所呈现的**事实**和**论证**，不再满足于从文献中**提取**信息。
 
-> [!def] 语言学转向在文献分析中的核心议题
-> 一些教育史学者开始创造性地运用[[Linguistic Turn|语言学转向（linguistic turn）]]，将文献理解为一个符号学场域。Sol Cohen（1999: 81）提出了一个系统的分析议程：文献应被理解为与以下问题相关：文本生产的符号学（意义如何在文本中被制造）、读者如何从文本中获取意义、作者意图相对于读者解释的地位（作者的意图能在多大程度上控制读者的理解？）、话语共同体（community of discourse）在文本接受中的角色（同一个文本在不同的话语共同体中可能被以完全不同的方式理解和利用）。
+> [!def] [[Linguistic Turn|语言学转向]]在文献分析中的核心议题
+> 一些教育史学者开始创造性地运用语言学转向（linguistic turn），将文献理解为一个符号学场域。Sol Cohen（1999: 81）提出了一个系统的分析议程：文献应被理解为与以下问题相关：文本生产的符号学（意义如何在文本中被制造）、读者如何从文本中获取意义、作者意图相对于读者解释的地位（作者的意图能在多大程度上控制读者的理解？）、话语共同体（community of discourse）在文本接受中的角色（同一个文本在不同的话语共同体中可能被以完全不同的方式理解和利用）。
 
 在语境层面，理解一份教育政策文献（例如一份关于课程改革的政府白皮书）意味着必须回答它与更广泛的制度、社会和政治语境之间的三维关系：它从何而来（谁写的、在什么制度位置上写的、写的过程中经历了什么协商和妥协）、它面向谁（主要受众是谁、作者期待或畏惧什么样的反应）、以及它产生了什么影响（是否改变了政策方向、是否形塑了公众讨论的框架、是否有未预期的后果）。
 
@@ -455,7 +458,7 @@ Jupp & Norris（1993）将文献分析的多元理论路径归纳为三种一般
 >
 > *There is the frustration of events reported without follow up, individuals not clearly identified, ambiguous accounts or those which provide a wealth of detail except that which is desperately sought.*
 
-> [!citation-card]- 论文献的语言学转向分析
+> [!citation-card]- 论文献的[[Linguistic Turn|语言学转向]]分析
 > 文献应被理解为与文本生产的符号学相关：意义如何在文本中制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、话语共同体在文本接受中的角色等。（Cohen, 1999: 81，转引自第12章，p.18）
 >
 > *Documents should be understood in relation to the semiotics of text production, how meaning is made in text, how readers take meaning from text, the status of authorial intention versus the reader's interpretation, the role of the community of discourse in the reception of text, and so forth.*
