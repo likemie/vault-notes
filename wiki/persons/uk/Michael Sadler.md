@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
   - "[[Epistemology]]"
+  - "[[Governing at a Distance]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
 related_methods:
@@ -151,4 +152,4 @@ updated: '2026-07-08'
 > | [[Policy Borrowing]] | 概念 | 首次系统提出情境不可移植假说，奠定了反机械化借用的规范方法论边界。 |
 > | [[Cross-National Attraction]] | 概念 | 指出国家工业实力竞争构成了向他者学习和跨国政策吸引的核心地缘心理机制。 |
 > | [[Wight's Three Traditions of International Theory]] | 理论 | 作为现实主义思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
-> | [[OECD]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边远处治理技术。 |
+> | [[OECD]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance\|远处治理]]技术。 |

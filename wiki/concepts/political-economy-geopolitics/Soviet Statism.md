@@ -1,6 +1,7 @@
 ---
 title: Soviet Statism
-aliases: ["苏联国家主义", "Soviet statism", "statism", "国家主义"]
+aliases:
+  - 苏联国家主义
 summary: "一种围绕国家机器权力最大化而组织的社会系统，在苏联表现为党对国家和国家对社会的全面控制，通过中央计划经济和马克思列宁主义意识形态运作，其内在逻辑与信息化所要求的开放网络和水平协作存在结构性不相容"
 type: concept
 domain: "political-economy-geopolitics"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-07-09
 ---
 
 # Soviet Statism

@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 73
+related_count: 74
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[National Competitive Advantage]]"
   - "[[Analytic Framework]]"
   - "[[Governmentality]]"
+  - "[[Governing at a Distance]]"
   - "[[Hegemony]]"
   - "[[Soft Power]]"
   - "[[Multiplicity]]"
@@ -143,7 +144,7 @@ updated: 2026-05-20
 > - **2010s** 知识明显超越能源、石油等自然资源，成为"geopolitics of"语境中书写最密集的主题（[[Argument_Partaken_2022_Springer|Partaken, 2022, p.68]]）
 > - **2018** [[Sami Moisio]] 提出[[Knowledge-Based Economization|知识经济化]]概念，整合 Harvey 的[[Fixity-Motion Tension|固着-流动张力]]与 Porter 的[[National Competitive Advantage|国家竞争优势]]，将批判地缘政治学与全球经济过程相链接
 > - **2022a** [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]将两条脉络综合为"新知识地缘政治"[[Analytic Framework|分析框架]]，以 [[Horizon 2020 SSH Integration|Horizon 2020 SSH]] 整合为[[Epistemology|认识论]]治理的典型案例
-> - **2022b** [[Argument_Thompson_2022_Promising_Student|Thompson et al.（2022）]]将 GPK 延伸至数字教学治理微观层面；[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示远距治理的三重机制
+> - **2022b** [[Argument_Thompson_2022_Promising_Student|Thompson et al.（2022）]]将 GPK 延伸至数字教学治理微观层面；[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示[[Governing at a Distance|远距治理]]的三重机制
 > - **2025** [[Argument_Marginson_2025_ROE|Marginson（2025）]]基于 Massey [[Relational Space|关系性空间]]理论，将 1990–2015 与 2015 至今界定为 GPK 的两个历史阶段，理论化西方部分去全球化与中美脱钩
 
 ---
@@ -199,7 +200,7 @@ updated: 2026-05-20
 ---
 
 > [!line-a] [[Geopolitical Subject|地缘政治主体]]的生产与[[Governmentality|治理术]]
-> 大学在知识经济化中成为根本性的地缘政治场所——高等教育空间被用于塑造知识密集型资本主义所需的主体性（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]]）。从宏观到微观：排名与竞争力话语重塑机构行为 → [[Online Self-Assessment|OSA]] 将 GPK 竞争逻辑[[Operationalization|操作化]]为个体化自我评估 → [[Promising Student|有前景的学生]]作为教学治理层的主体形态（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]]）。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]进一步将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示其通过远距治理机制运作。详见 [[Governmentality#全球治理技术]]。
+> 大学在知识经济化中成为根本性的地缘政治场所——高等教育空间被用于塑造知识密集型资本主义所需的主体性（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]]）。从宏观到微观：排名与竞争力话语重塑机构行为 → [[Online Self-Assessment|OSA]] 将 GPK 竞争逻辑[[Operationalization|操作化]]为个体化自我评估 → [[Promising Student|有前景的学生]]作为教学治理层的主体形态（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]]）。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]进一步将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示其通过[[Governing at a Distance|远距治理]]机制运作。详见 [[Governmentality#全球治理技术]]。
 
 > [!line-b] 认识论治理与治理理性转换
 > GPK 渗透到认识论治理层面：**研究资助的分配机制**通过制度设计将特定的认识论[[Paradigm|范式]]固化为唯一合理的选择——不宣称任何认识论立场，而是通过制度安排使其默认化（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]]）。典型案例：Horizon 2020 将 SSH 研究从独立资助渠道改为横向嵌入，要求"直接为政策制定的证据基础做贡献"，实质上将其缩减为对技术科学创新和经济竞争力的工具性辅助（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。[[International Education Hubs|国际教育枢纽]]等项目同时指示了**治理理性转换** 从社会/教育范畴（可及性、公平、开放研究）转向经济范畴（收入创造、可专利研究、经济竞争力）（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）。
@@ -352,7 +353,7 @@ updated: 2026-05-20
 > 1. **SCD 作为 GPK 的话语装置** SCD 不受限于任何特定机构，但占据并再生产新自由主义知识型社会的地缘政治空间——通过排名、影响因子和国际合作标准等隐性成功标准保障霸权地位（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]]）
 > 2. **主体性生产的三组张力** SCD 通过愿意／不愿主体、结果导向／品质本位素养、经济增长／社会包容三组张力对，将 GPK 的竞争逻辑转化为个体的自我引导模式。详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]
 > 3. **[[Self-Entrepreneur|自我企业家]]：GPK 的全球主体形态** SCD 所生产的自我企业家——以[[Employability|就业力]]和市场为导向、以意愿和激情为生产要素的主体性——正在全球范围内成为"心灵景观"（Moisio & Kangas, 2016, p.275, cit. by Zelinka, 2022, p.260）
-> 4. **远距治理的微观运作** SCD 框架通过界定"未来所需的关键技能"进行远距治理——不依赖直接命令，而是通过创造可欲的自我引导形式使各国和个体"自愿"采纳。详见 [[Governmentality#远距治理]]（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.264-265]]）
+> 4. **[[Governing at a Distance|远距治理]]的微观运作** SCD 框架通过界定"未来所需的关键技能"进行远距治理——不依赖直接命令，而是通过创造可欲的自我引导形式使各国和个体"自愿"采纳。详见 [[Governmentality#远距治理]]（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.264-265]]）
 
 详见 [[Argument_Zelinka_2022_SCD_subjectivity]]。
 

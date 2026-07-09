@@ -4,7 +4,7 @@ aliases: ["信息化", "信息化的", "informationalisation"]
 summary: "一种以知识和信息为基础优化生产要素组合与使用的发展模式，与依赖重工业物质投入的工业化形成对比，强调信息自由流动是其运作的核心前提"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -12,7 +12,6 @@ tags:
   - paradigm/information-society
   - theme/development
 related_concepts:
-  - "[[Soviet Statism]]"
   - "[[State Vertical]]"
 related_theories:
   - "[[Informationalism]]"
@@ -64,7 +63,7 @@ updated: 2026-06-12
 > - **1970年代中期** 信息技术革命在全球范围成形，信息化作为一个新的发展现象开始被关注。
 > - **1980年代** 个人计算机革命在美国将信息化推向新阶段，苏联则因体制障碍被推到技术外围。
 > - **1990年代–2000年代** Castells 完成《信息时代》三部曲（1996–1998初版，2010再版），系统阐述信息化作为新发展模式的理论框架。
-> - **2010年代** 信息化概念被用于分析后共产主义国家的转型挑战，解释[[Soviet Statism|国家主义]]体制在新信息环境中的结构性困境[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015）]]。
+> - **2010年代** 信息化概念被用于分析后共产主义国家的转型挑战，解释国家主义体制在新信息环境中的结构性困境[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015）]]。
 
 ---
 ## 理论语境

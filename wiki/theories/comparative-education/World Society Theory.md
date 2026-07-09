@@ -10,7 +10,7 @@ aliases:
 summary: "将全球制度趋同阐释为世界文化模型（world culture models）扩散与模仿产物的新制度主义社会学理论。它主张全球化不是简单的功能主义或国家强权统治产物，而是以普世进步和正义规范为基础的去中心化“世界社会”在观念层面的建构，用于解释教育系统和组织形式在跨国范围内呈现的趋同趋势。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Organizational Actorhood]]"
   - "[[Lifelong Learning]]"
+  - "[[Governing at a Distance]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Critical Thinking]]"
@@ -86,7 +87,7 @@ updated: 2026-07-09
 > | [[Otherhood]] | 概念 | 世界社会非强制运行的核心中立授权机制，非国家行动者充当无私代言人输出规范。 |
 > | [[Organizational Actorhood]] | 概念 | 全球[[Cultural Models\|文化模型]]塑造的组织自主性、目标性、问责性与嵌入性特征，是趋同的微观体现。 |
 > | [[Cultural Models]] | 概念 | 理智化、标准化的全球进步与正义模板，是跨国模仿和解耦实践的内容载体。 |
-> | [[Lifelong Learning]] | 概念 | 理性化世界文化在教育领域的典型政策表现，是超国家组织远程治理的表征。 |
+> | [[Lifelong Learning]] | 概念 | 理性化世界文化在教育领域的典型政策表现，是超国家组织[[Governing at a Distance\|远程治理]]的表征。 |
 > | [[Knowledge-Based Economy]] | 概念 | 世界社会中占支配地位的理智化经济论述，为教育的资本投资重构提供神话支撑。 |
 
 ---

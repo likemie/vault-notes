@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[International Education]]"
   - "[[Reference Society]]"
+  - "[[Governing at a Distance]]"
   - "[[Policy Entrepreneur]]"
   - "[[Global Citizenship]]"
   - "[[Educated Identity]]"
@@ -113,7 +114,7 @@ updated: '2026-07-08'
 >   > - **建制合流与新自由主义延续** 世界银行和[[OECD|经合组织]]等多边组织将教育视作人力资本投资，制造代表后福特主义效率的“最佳实践”话语，延续了全球支配关系 (p. 422)。
 > - **推导** 比较教育在现实主义下演变为一种现代主义的工具，驱使国家出于地缘竞争和工业焦虑疯狂观摩“[[Reference Society|参考社会]]”，同时也使比较教育沦为列强推行殖民同化和地缘干预的“文明化工程”。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 419–422]])
 
-> [!proposition-chain] 核心命题三｜理性主义的制度正当性假设将比较教育重塑为多行动者网络远处治理的技术中介与促进和平的[[International Mind|国际心智]]平台
+> [!proposition-chain] 核心命题三｜理性主义的制度正当性假设将比较教育重塑为多行动者网络[[Governing at a Distance|远处治理]]的技术中介与促进和平的[[International Mind|国际心智]]平台
 > - **前提一** 理性主义认为无政府状态下的冲突可以通过法律、规则和多边协商得到缓解，使权力转化为具有正当性的“权威”；教育不再是国家单向输出，而是被视为分散权威在跨国多行动者网络中的机制。
 >   > [!evidence-grid]- 证据
 >   > - **远处治理与基准测试** 诺沃亚与雅里夫-马沙尔指出，多边组织广泛使用的基准测试和数据评估不仅仅是研究方法，更是在科学客观性名义下推行远处治理的政治手段 (p. 425)。
@@ -170,7 +171,7 @@ updated: '2026-07-08'
 > - **不能直接推出的东西** 本理论不提供关于“如何改良教育体系”的直接技术方案，也不提供某种具有普适性的最佳政策转移模式。
 
 > [!theory-use] 如何用于研究
-> - **作为理论框架** 用于解构教育流动和[[Policy Borrowing|政策借用]]事件。分析特定的跨国教育援助项目、课程改革（如通识科的创立与废除）如何折射出不同阶段多边机构的“远处治理”政治或主权国家意志的“现实主义自保”。
+> - **作为理论框架** 用于解构教育流动和[[Policy Borrowing|政策借用]]事件。分析特定的跨国教育援助项目、课程改革（如通识科的创立与废除）如何折射出不同阶段多边机构的“[[Governing at a Distance|远处治理]]”政治或主权国家意志的“现实主义自保”。
 > - **作为分析工具** 用于审视比较教育的知识地图，提炼其历史文本、大学学科建置、期刊编委会构成背后的地缘政治注意力转换。
 > - **作为批判视角** 揭示以[[PISA|国际学生评估项目]]（PISA）为代表的“循证科学”与国际比较数据背后的霸权底色；提供反思研究者自身所属学科制度殖民认识型的反思透镜。
 

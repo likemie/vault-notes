@@ -4,7 +4,7 @@ aliases: ["话语性机会结构", "话语机会结构", "discursive and institu
 summary: "Parreira do Amaral & Dale (2015) 提出的教育治理分析概念，区分制度性机会结构和话语性机会结构——后者指话语框定思维与行动可能性的方式，调节全球高等教育中服务、职位和实践的可及性"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Self-Entrepreneur]]"
   - "[[Governmentality]]"
+  - "[[Governing at a Distance]]"
 related_theories: []
 related_methods:
   - "[[Single-Case Design]]"
@@ -57,5 +58,5 @@ SCD 话语通过界定"未来所需的关键技能"，塑造了个体在全球�
 - 个体应如何理解自身与劳动市场的关系（作为需持续更新技能的[[Self-Entrepreneur|自我企业家]]）
 - 什么样的教育轨迹被视为"成功"（与全球竞争性劳动市场对接的）
 
-这一分析将 DOS 概念与 [[Governmentality|治理术]] 框架连接：话语性机会结构是远距治理的关键运作渠道——治理不通过直接命令，而是通过塑造个体所面对的"可行选择"的范围和意义来引导行为。详见 [[Governmentality#远距治理]] 和 [[Governmentality#全球治理技术]]。
+这一分析将 DOS 概念与 [[Governmentality|治理术]] 框架连接：话语性机会结构是[[Governing at a Distance|远距治理]]的关键运作渠道——治理不通过直接命令，而是通过塑造个体所面对的"可行选择"的范围和意义来引导行为。详见 [[Governmentality#远距治理]] 和 [[Governmentality#全球治理技术]]。
 

@@ -133,7 +133,7 @@ updated: 2026-06-24
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Beech_2009_CE\|Beech, 2009]] — 引入 Castells 的空间二分法、网络国家和媒体政治概念，建立解释全球教育话语在流动—地方空间多层流转中发生变异的[[Analytic Framework|分析框架]]。
-> - [[Argument_Chan_2015_Intersect\|Chi Ling Chan, 2015]] — 运用 Castells 关于[[Soviet Statism|国家主义]]与[[Informationalization|信息化]]不相容的理论命题，剖析中国 and 苏联的高等教育体制变革及学术自主性变迁。
+> - [[Argument_Chan_2015_Intersect\|Chi Ling Chan, 2015]] — 运用 Castells 关于国家主义与[[Informationalization|信息化]]不相容的理论命题，剖析中国 and 苏联的高等教育体制变革及学术自主性变迁。
 
 ---
 

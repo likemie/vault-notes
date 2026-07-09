@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -24,12 +24,13 @@ related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[International Education]]"
   - "[[Causality]]"
+  - "[[Governing at a Distance]]"
   - "[[Paradigm]]"
   - "[[Soft Power]]"
   - "[[Reference Society]]"
   - "[[Evidence-Based Education]]"
   - "[[Methodological Nationalism]]"
-  - "[[Soviet Statism]]"
+  - "[[Methodological Educationism]]"
   - "[[Policy Borrowing]]"
   - "[[Revolutionism]]"
   - "[[PISA Shock]]"
@@ -72,7 +73,7 @@ updated: 2026-07-09
 > - **1948 — 欧洲经济合作组织（OEEC）的奠基** 美国政府创建OEEC以负责管理二战后的马歇尔计划。这一技术援助框架从一开始就孕育了教育规划与西欧经济复兴的关联。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
 > - **1961 — 经合组织（OECD）的正式改组** OECD正式取代OEEC，系统地将教育规划纳入其经济增长议程。在冷战动员和美国[[Economics of Education Movement|教育经济学运动]]的影响下，教育在技术官僚话语中从传统的文化陶冶重构为能带来高收益回报的“资本投资”。
 > - **1960s–1970s — 冷战时期的[[Development Turn in Comparative Education|发展转向]]与人力资本扩张** OECD与联合国教科文组织[[International Education|国际教育]]规划研究所（[[International Institute for Educational Planning|IIEP]]）形成双翼，成为比较教育“发展转向”的关键载体。通过将教育投资[[Causality|因果]]链作为援助的科学条件，将人力资本理论从美国学术界成功扩散到西欧、南欧和拉丁美洲地区。
-> - **1990s 至今 — 新自由主义全球化与大数据远处治理** 苏联解体后，冷战发展[[Paradigm|范式]]平稳过渡为新自由主义的“最佳实践”输出话语。OECD于2000年推出[[PISA]]项目，通过软治理和基准数据比较协调全球教育政策，转型为实质性全球教育治理的核心协调者([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])。
+> - **1990s 至今 — 新自由主义全球化与大数据[[Governing at a Distance|远处治理]]** 苏联解体后，冷战发展[[Paradigm|范式]]平稳过渡为新自由主义的“最佳实践”输出话语。OECD于2000年推出[[PISA]]项目，通过软治理和基准数据比较协调全球教育政策，转型为实质性全球教育治理的核心协调者([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])。
 
 ---
 
@@ -103,7 +104,7 @@ updated: 2026-07-09
 > [!finding-cards] 经合组织对教育治理的深远影响
 > - **政策影响** OECD通过[[PISA]]评估，将冷战地缘博弈中确立的“教育质量—科技实力—国家竞争力”政策链条全球制度化，促使各国在中观层面建立起与PISA测验标准对接的全国性教育质量监测与考问责机制，例如挪威、瑞士和中国的国家教育监测体系([[Argument_Li_2025_HSSC|Li et al., 2025]])。
 > - **实践影响** 确立了“超国家—国家—内部行动者网络”的三层政策传导路径。在超国家层面实施以量化指标为基础的[[Soft Power|软实力]]协调；在国家层面建立“[[Reference Society|参考社会]]”模范，导致德国、日本等国爆发“PISA冲击”，倒逼落后国家借用高表现者的“最佳实践”模式。
-> - **知识影响** 推动了比较教育领域向“[[Evidence-Based Education|循证教育]]政策”的科学化与实证化转向。但也通过标准和去情境化的数据排名，固化了[[Methodological Nationalism|方法论国家主义]]、[[Soviet Statism|statism]]（国家主义）及教育主义的认识型，用技术主义效率掩盖了新自由主义资本积累的逻辑([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])。
+> - **知识影响** 推动了比较教育领域向“[[Evidence-Based Education|循证教育]]政策”的科学化与实证化转向。但也通过标准和去情境化的数据排名，固化了[[Methodological Nationalism|方法论国家主义]]、statism（国家主义）及[[Methodological Educationism|教育主义]]的认识型，用技术主义效率掩盖了新自由主义资本积累的逻辑([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])。
 
 ---
 
@@ -115,7 +116,7 @@ updated: 2026-07-09
 > - **理性主义** OECD是多边协调和中立治理的成功样板。其构建的“国际认知共同体”以无约束力的数据排名引发同行压力，在不侵犯国家主权的前提下实现了全球政策协调；但也被批评用去政治化的技术指标遮蔽了地缘统治的权力不对称。
 > - **[[Revolutionism|革命主义]]** OECD被判定为“知识新帝国”与“平庸帝国主义”的最新化身。去殖民学者指出，OECD通过输出结果导向的 neoliberal 效率标准，强制将教育与资本主义积累绑定，以大数据的日常循环再生产对非西方的他者化。
 
-> [!tension] 远处治理的合法性争议
+> [!tension] [[Governing at a Distance|远处治理]]的合法性争议
 > - **去情境化科学中立（蓝方）** OECD声称其测试和数据库是科学客观、跨国可比的，旨在提供诊断教育短板的有效证据，引导全球教育改革迈向公平和质量的提升。
 > - **标准化资本运作逻辑（红方）** 批评者指出，OECD将教育窄化为人力资本投资，通过数据垄断剥夺了非西方教育传统的多元价值，实质上在不经意间将西方的教育现代化形式施加于非西方国家。
 

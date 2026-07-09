@@ -10,7 +10,7 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,7 @@ related_concepts:
   - "[[Educated Identity]]"
   - "[[Graduate Attributes]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Soviet Statism]]"
+  - "[[Methodological Educationism]]"
   - "[[Reflexivity]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
@@ -72,7 +72,7 @@ updated: 2026-07-09
 > - **边界** 不能与单纯用于跨国商业竞争的“全球胜任力”或局限于特定国家内部参与的“积极公民身份”等同，它更带有伦理关怀与去中心化认同。
 
 > [!citation-card]- 关键表述
-> 全球公民、人权与生态身份挑战了基于方法论[[Soviet Statism|国家主义]]、国家集权 (statism) 及教育主义的传统国民身份。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> 全球公民、人权与生态身份挑战了基于方法论国家主义、国家集权 (statism) 及[[Methodological Educationism|教育主义]]的传统国民身份。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 > [!boundary]- 概念边界
 > - 不等于 [[Graduate Attributes|毕业生特质]] — 毕业生特质是涵盖学术技能、团队协作和专业研究等在内的总集，全球公民仅是其中一个涉及全球视野与责任伦理的特定功能子域。
@@ -94,10 +94,11 @@ updated: 2026-07-09
 ## 核心要素
 
 > [!feature] 核心要素
-> - **数字素养（Digital Literacy）** 通过于多元媒介和信息通信技术与全球多元受众有效沟通、在虚拟跨国团队中协作并管理专业数字形象的能力。(O'Brien, 2011, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 87]])
-> - **文化素养（Cultural Literacy）** 对自我文化[[Hypothesis|假设]]保持高度[[Reflexivity|反思性]]（Reflexivity），以同理心接近差异，并在多元视角交汇处保持开放的姿态。(O'Brien, 2011, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 87]])
-> - **社会沟通素养（Socio-communicative Literacy）** 跨越多元文化立场与规范差异进行建设性协商和价值共识达成的能力。(O'Brien, 2011, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 87]])
-> - **环境素养（Environmental Literacy）** 对全球生态可持续性和气候正义的意识与深度理解。(Spronken-Smith, 2018, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 87]])
+> 以下是基于 O'Brien (2011) 的三素养框架与 Spronken-Smith (2018) 补充后形成的核心要素 (引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 87]])：
+> - **数字素养（Digital Literacy）** 通过于多元媒介和信息通信技术与全球多元受众有效沟通、在虚拟跨国团队中协作并管理专业数字形象的能力。
+> - **文化素养（Cultural Literacy）** 对自我文化[[Hypothesis|假设]]保持高度[[Reflexivity|反思性]]（Reflexivity），以同理心接近差异，并在多元视角交汇处保持开放的姿态。
+> - **社会沟通素养（Socio-communicative Literacy）** 跨越多元文化立场与规范差异进行建设性协商和价值共识达成的能力。
+> - **环境素养（Environmental Literacy）** 对全球生态可持续性和气候正义的意识与深度理解。
 > - **倡导与社会正义取向（Advocacy & Social Justice Orientation）** 将权力关系和不平等结构作为分析视角，主动为边缘人群与生态正义发声和行动的倾向。([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 98]])
 
 > [!logic-map]- 要素关系
@@ -152,24 +153,24 @@ updated: 2026-07-09
 
 > [!dev-timeline] 概念演变
 > - **2005 — 博士公民意识呼吁** Nerad 率先呼吁博士培养必须超越单纯的学术专精，涵盖公民参与和世界公民身份（world citizenship）的承诺。(Nerad, 2005, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 87]])
-> - **2011 — 四维[[Analytic Framework|分析框架]]建立** O'Brien 提出包含数字、文化与社会沟通的三素养分析框架，后经 Spronken-Smith (2018) 补充“环境素养”演变为经典的四维分析模式。(O'Brien, 2011, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 87]])
+> - **2011 — 四维[[Analytic Framework|分析框架]]建立** O'Brien 提出包含数字、文化与社会沟通的三素养分析框架，后经 Spronken-Smith (2018) 补充“环境素养”演变为经典的四维分析模式。(O'Brien, 2011, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp. 87–88]])
 > - **2022–2024 — 高教[[Graduate Attributes|毕业生特质]]检视** Wong 等揭示英国本科高教特质的表面化修辞，Spronken-Smith 等将全球公民明确列为博士特质七域分类的独立维度，并通过[[Mixed Methods Research|混合方法]]对 PhD 毕业生的实证数据进行了赤字确诊。([[Argument_Wong_2022_HERD|Wong et al., 2022, p. 1347]]; [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp. 98–99]])
 
 ---
 
 ## 争议与批评
 
-> [!debates] 学术争议
+> [!debates] 学术争议 (本争议整理自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 96]])
 >
 > > [!axis] 硬科学学科专精 vs 公民身份泛化
 > > 争论博士培养应仅聚焦于制造物理、工程等精深领域的学术专家，还是应泛化培养其公民意识。
-> > - **Maree (USU2)** 认为博士的唯一目的是成为粒子物理等硬科学领域的学科专家，公民素养应当是本科或社会教育阶段的职责。(Maree, USU2, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 96]])
-> > - **Omar & Veronica (USU1)** 主张全球公民特质应当作为一种学科意识系统化嵌入高度专业化的博士培养中。(Omar & Veronica, USU1, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 96]])
+> > - **Maree (USU2)** 认为博士的唯一目的是成为粒子物理等硬科学领域的学科专家，公民素养应当是本科或社会教育阶段的职责。
+> > - **Omar & Veronica (USU1)** 主张全球公民特质应当作为一种学科意识系统化嵌入高度专业化的博士培养中。
 >
 > > [!axis] 自然代际拥有的禀赋 vs 必须系统化培养的素养
 > > 争论全球视野与跨文化同理心是否是年轻一代自然拥有的代际特征。
-> > - **Simon (USU2)** 认为年轻一代本身就具有强烈的全球公民关怀，属于代际特征，高校无需在博士阶段重复教授。(Simon, USU2, 引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 96]])
-> > - **[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]** 指出校友的实证自评数据处于历史低点，混淆“关怀态度”与“实际跨文化行动力”会导致培养体系的彻底缺位。([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 96]])
+> > - **Simon (USU2)** 认为年轻一代本身就具有强烈的全球公民关怀，属于代际特征，高校无需在博士阶段重复教授。
+> > - **[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]** 指出校友的实证自评数据处于历史低点，混淆“关怀态度”与“实际跨文化行动力”会导致培养体系的彻底缺位。
 
 > [!critique] 外部批评
 > - **伞状术语下的政治模糊性** 比较教育学者指出，全球公民由于概念缺乏精确性，沦为政治上高度模糊（vagueness）的表面修辞，缺乏实际可供监督和测量的微观行为指标。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
@@ -187,8 +188,8 @@ updated: 2026-07-09
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] | 三所新西兰大学的 136 名 PhD 毕业生校友 | [[Mixed Methods Research\|混合方法]]问卷调查与访谈研究 | 毕业生各项特质的发展感知评分（1–5 Likert量表） | 全球公民子项均值最低：环境素养 2.8/5、文化理解 3.2/5、全球视野 3.4/5 | 三所大学无统计学显著差异 (p > 0.05) | 表明在高度专精的博士培养中，全球公民素养的缺失是一个跨体制的系统性赤字，未因大学定位不同而改变。 |
-> | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] | 三所新西兰大学的 136 名 PhD 毕业生校友 | 混合方法问卷调查与访谈研究 | 毕业生各项特质的实际职场应用感知评分（1–5 Likert量表） | 全球公民子项应用分偏低：环境素养 3.0/5、全球视野 3.7/5、文化理解 3.9/5 | 明显低于研究与专业学术技能 (4.2/5) | 与博士毕业生当前过度集中在传统学术圈就业（59%）的保守劳动力结构有关，随着向非学术界转移，其应用需求可能会发生重置。 |
+> | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024, pp. 89–90)]] | 三所新西兰大学的 136 名 PhD 毕业生校友 | [[Mixed Methods Research\|混合方法]]问卷调查与访谈研究 | 毕业生各项特质的发展感知评分（1–5 Likert量表） | 全球公民子项均值最低：环境素养 2.8/5、文化理解 3.2/5、全球视野 3.4/5 | 三所大学无统计学显著差异 (p > 0.05) | 表明在高度专精的博士培养中，全球公民素养的缺失是一个跨体制的系统性赤字，未因大学定位不同而改变。 |
+> | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024, p. 93)]] | 三所新西兰大学的 136 名 PhD 毕业生校友 | 混合方法问卷调查与访谈研究 | 毕业生各项特质的实际职场应用感知评分（1–5 Likert量表） | 全球公民子项应用分偏低：环境素养 3.0/5、全球视野 3.7/5、文化理解 3.9/5 | 明显低于研究与专业学术技能 (4.2/5) | 与博士毕业生当前过度集中在传统学术圈就业（59%）的保守劳动力结构有关，随着向非学术界转移，其应用需求可能会发生重置。 |
 > | [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] | 英国 76 所明确列出[[Graduate Attributes\|毕业生特质]]的大学官方文本库 | 文本质性映射与内容分析 | 全球公民与参与话语及其子维度的覆盖率 | 总体覆盖率 70% (53/76 所)，但环境意识仅占 11% (8 所)，外语与国际网络仅占 8% | — | 证明英国本科层次的“全球公民”教育目标存在严重的结构性口号化与口惠而实不至的失衡。 |
 
 ---

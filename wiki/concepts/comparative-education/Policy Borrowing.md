@@ -5,7 +5,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Reference Society]]"
+  - "[[Governing at a Distance]]"
   - "[[Re-Westernisation]]"
   - "[[Orientalism]]"
   - "[[Analytic Framework]]"
@@ -201,7 +202,7 @@ updated: '2026-07-08'
 > **“方案先行、问题后建”的社会建构** 政策借用过程遵循“逆向技术流”：决策者并非在发现技术问题后寻找国际经验，而是往往在引入国际参考之前，已在国内秘密确立了偏好的“解决方案”。随后，为了合法化该既定方案，政府才在官方修辞中建构特定的本土“体系陈旧”或“教育质量危机”问题，使该方案显得具有不可避免的合理性。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])
 
 > [!claim] Klerides, E.
-> **远处治理的技术中介** 在理性主义多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使“远处治理”（governing from a distance）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> **[[Governing at a Distance|远处治理]]的技术中介** 在理性主义多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使“远处治理”（governing from a distance）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
+  - "[[Governing at a Distance]]"
   - "[[Assemblage]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[VUCA]]"
@@ -109,7 +110,7 @@ updated: 2026-07-08
 
 ---
 
-> [!line-a] 远距治理（Governing at a Distance）
+> [!line-a] [[Governing at a Distance|远距治理]]（Governing at a Distance）
 > 远距治理是治理术运作的空间机制：权力并不直接作用于被治理者，而是通过重塑关系、想象和话语——在"远处"组织行为。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022, pp.251-252）]]援引 Bell & Green（2016, p.240）将新自由主义界定为一种**理性**，它"重新想象、解释和[[Assemblage|组装]]人与物之间的关系以实现远距治理"。远距治理的关键不在于物理距离，而在于治理**不依赖直接命令**——通过创造可欲的自我引导形式来操控个体。[[Single-Case Design|SCD]] 框架不被任何单一机构或政府所控制，却通过界定"未来所需技能"远距塑造全球教育政策和个体行为（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.259-260]]）。
 
 > [!line-b] 全球治理技术（Global Governmental Technology）
@@ -125,7 +126,7 @@ updated: 2026-07-08
 > - **1990s–2000s** 治理术分析被广泛应用于教育研究，包括[[Lifelong Learning|终身学习]]治理（Olssen, 2006）、高等教育[[New Public Management|新公共管理]]（Dean, 2010）、[[International Education|国际教育]]政策比较研究
 > - **2008** 教育社会学史本身也可被治理术化地理解：[[Political Arithmetic]]、[[New Sociology of Education]] 和 [[School Effectiveness]] 分别把家庭、学校知识和学校组织构造成可见、可描述、可干预的政策对象（[[Argument_Ball_2008_SR|Ball, 2008, pp.651, 654-665]]）
 > - **2022a** Thompson 等人将治理术应用于数字教育治理分析，结合 [[Online Self-Assessment|OSA]] 和 [[Digital Self|数字自我]] 展示治理术在算法时代的运作形态（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]]）
-> - **2022b** Zelinka 将治理术分析扩展至全球尺度的[[Geopolitics of Knowledge|知识地缘政治]]，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 21 世纪 [[Single-Case Design|SCD]] 为案例揭示远距治理的三重运作机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.251-265]]）
+> - **2022b** Zelinka 将治理术分析扩展至全球尺度的[[Geopolitics of Knowledge|知识地缘政治]]，将（新）[[Geopolitics of Knowledge]] 概念化为全球治理技术，以 21 世纪 [[Single-Case Design|SCD]] 为案例揭示[[Governing at a Distance|远距治理]]的三重运作机制——问题化与个体化、授权[[Knowledge Production|知识生产]]手段、通过主体化和区分创造自由（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.251-265]]）
 
 ---
 
@@ -160,7 +161,7 @@ updated: 2026-07-08
 > - [[Online Self-Assessment]] — 作为治理术工具（technology of governmentality），通过自我选择机制引导潜在学生
 > - [[Promising Student]] — 治理术视角下的主体形态分析：如何通过自我技术被"呼唤"出来
 > - [[Competitiveness]] — 竞争力作为地缘政治装置，通过[[Performance Indicators|绩效指标]]和排名塑造大学的治理术自我理解
-> - [[Geopolitics of Knowledge]] — [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]]将其概念化为全球治理技术，通过远距治理的三重机制运作（问题化与个体化、授权[[Knowledge Production|知识生产]]、主体化与区分）
+> - [[Geopolitics of Knowledge]] — [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]]将其概念化为全球治理技术，通过[[Governing at a Distance|远距治理]]的三重机制运作（问题化与个体化、授权[[Knowledge Production|知识生产]]、主体化与区分）
 > - [[21st Century Skills and Competencies Discourse]] — [[Single-Case Design|SCD]] 框架是远距治理的典型案例：通过界定"未来所需技能"远距引导各国教育政策和个体的自我塑造([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.258-260]])
 > - [[School Effectiveness]] — 学校效能研究在英国政策中的[[Transfer Translation Transformation|转译]]可被理解为一种把学校构造成可检查、可比较、可改进对象的治理技术；它通过测量、检查、排行榜和失败学校命名等机制，把学校与教师重新纳入政策管理([[Argument_Ball_2008_SR|Ball, 2008, pp.663-665]])
 

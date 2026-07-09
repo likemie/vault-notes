@@ -6,7 +6,7 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和全球远处治理。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Pre-Transfer Agency]]"
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Governing at a Distance]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Policy Network]]"
   - "[[Visible Learning]]"
@@ -91,7 +92,7 @@ updated: '2026-07-09'
 > [!feature] 核心要素
 > - **跨领域无缝切换（Seamless Straddling）** 政策企业家能够根据政策情境，在公共福利（提供学术标准或测试）、非营利（担任教育基金会或信托董事）和营利（通过商业公司将教育产品全球出售）等三重身份之间灵活切换，将冲突的动机转化为合力的网络流。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]])
 > - **[[Snowball Sampling|网络化]]能动作用（Networked Agency）** 依赖于个人化和非正式的社交网络（Social Networks），绕过传统的科层规制，以契约合作、多边联盟的方式建立跨系统的新型影响力。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 47]])
-> - **知识产权的品牌商业化（Brand Monetisation）** 擅长将纯学术的研究成果（如[[Meta-analysis|元分析]]数据）包装为极易操作、模块化且可复制的品牌产品（如教师工作坊、学校认证体系），从而通过市场化手段在全球范围内扩散，建立实质性的远处治理标准。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. viii–ix]])
+> - **知识产权的品牌商业化（Brand Monetisation）** 擅长将纯学术的研究成果（如[[Meta-analysis|元分析]]数据）包装为极易操作、模块化且可复制的品牌产品（如教师工作坊、学校认证体系），从而通过市场化手段在全球范围内扩散，建立实质性的[[Governing at a Distance|远处治理]]标准。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. viii–ix]])
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -108,7 +109,7 @@ updated: '2026-07-09'
 
 ### 命题一　政策企业家是全球分散权威空间中远处治理的核心协调者
 
-> [!concept-lens] 远处治理与[[Snowball Sampling|网络化]]协调
+> [!concept-lens] [[Governing at a Distance|远处治理]]与[[Snowball Sampling|网络化]]协调
 > 这一命题关注在去中心化的全球教育治理中，政策企业家如何利用数据和评估指标，绕过国家主权屏障，在跨国尺度上实施软性政策控制。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
@@ -189,4 +190,4 @@ updated: '2026-07-09'
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统使用并细化了该概念，深入剖析了新西兰公立教育体系中 [[John Hattie]] 等政策企业家在公共福利、非营利与营利三种运作动机间无缝跨界运作的路径与后果。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将政策企业家概念引入理性主义比较教育发展的第三阶段，用以解释数据远处治理与分散权威空间的多行动者协调机制。
+> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将政策企业家概念引入理性主义比较教育发展的第三阶段，用以解释数据[[Governing at a Distance|远处治理]]与分散权威空间的多行动者协调机制。

@@ -16,8 +16,8 @@ tags:
   - theme/science-policy
   - theme/innovation
 related_concepts:
-  - "[[Soviet Statism]]"
   - "[[State Vertical]]"
+  - "[[Soviet Statism]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -58,7 +58,7 @@ updated: 2026-06-12
 ## 影响与后果
 
 > [!success]
-> - Akademgorodok 的实验表明，单纯的空间集聚和人才集中不足以克服[[Soviet Statism|国家主义]]体制的垂直结构。即使将最优秀的科学家聚集在一起，如果没有与工业界的水平联结、没有企业对前沿技术的需求信号、没有容忍"创造性破坏"的经济体制，科学城仍然无法驱动整体经济的技术升级（p.9）。
+> - Akademgorodok 的实验表明，单纯的空间集聚和人才集中不足以克服国家主义体制的垂直结构。即使将最优秀的科学家聚集在一起，如果没有与工业界的水平联结、没有企业对前沿技术的需求信号、没有容忍"创造性破坏"的经济体制，科学城仍然无法驱动整体经济的技术升级（p.9）。
 > - 正如 Josephson（1998）所评价的，Akademgorodok 最终沦为"日益吱吱作响的苏联工业机器中的又一个齿轮"。
 
 > [!quote]
@@ -70,7 +70,7 @@ updated: 2026-06-12
 ## 争议与评论
 
 > [!warning]
-> Akademgorodok 的失败也包含一个悖论：如果科学院不是独立于中央指令经济发展，它会被[[State Vertical|国家垂直结构]]束缚；但如果它与工业分离，就无法响应产业需求，也就难以"现代化"苏联经济，而这正是赫鲁晓夫通过这个项目试图实现的目标[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015, p.9）]]。这一悖论揭示了在[[Soviet Statism|国家主义]]体制内进行局部改革的根本困境。
+> Akademgorodok 的失败也包含一个悖论：如果科学院不是独立于中央指令经济发展，它会被[[State Vertical|国家垂直结构]]束缚；但如果它与工业分离，就无法响应产业需求，也就难以"现代化"苏联经济，而这正是赫鲁晓夫通过这个项目试图实现的目标[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015, p.9）]]。这一悖论揭示了在国家主义体制内进行局部改革的根本困境。
 
 ---
 ## 相关概念／政策

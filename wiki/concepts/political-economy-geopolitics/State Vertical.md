@@ -13,9 +13,9 @@ tags:
   - theme/organizational-structure
   - paradigm/statism
 related_concepts:
-  - "[[Soviet Statism]]"
   - "[[Informationalization]]"
   - "[[Evaluation Research]]"
+  - "[[Soviet Statism]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -35,7 +35,7 @@ updated: 2026-06-12
 ## 定义
 
 > [!info] 核心定义
-> State Vertical（国家垂直结构）指[[Soviet Statism|国家主义]]体制中由垂直行政层级主导的组织结构，其核心特征是：决策和资源分配沿着自上而下的行政链条流动，而跨部门、跨机构的水平联结（horizontal linkages）严重匮乏。苏联经济被描述为一台"由庞大官僚机构的垂直行政决策推动的巨型机器"[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015, p.8）]]，包含无数的计划机构、执行部门和生产单位，但各单位之间的交流由各自上级主管部门预先设定，极少存在自主的横向联系。
+> State Vertical（国家垂直结构）指国家主义体制中由垂直行政层级主导的组织结构，其核心特征是：决策和资源分配沿着自上而下的行政链条流动，而跨部门、跨机构的水平联结（horizontal linkages）严重匮乏。苏联经济被描述为一台"由庞大官僚机构的垂直行政决策推动的巨型机器"[[Argument_Chan_2015_Intersect|（Chi Ling Chan, 2015, p.8）]]，包含无数的计划机构、执行部门和生产单位，但各单位之间的交流由各自上级主管部门预先设定，极少存在自主的横向联系。
 
 > [!quote]
 > 整个苏联经济是一台由庞大官僚机构的垂直行政决策推动的巨型机器，拥有无数计划机构、执行部门和生产单位。因此，机构之间几乎没有水平联系，交流由各自的上级主管部门预先设定。

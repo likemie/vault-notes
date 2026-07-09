@@ -3982,6 +3982,19 @@
     ]
   },
   {
+    "title": "Governing at a Distance",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Governing at a Distance.md",
+    "aliases": [
+      "远处治理",
+      "远距治理",
+      "遥控治理",
+      "远程治理",
+      "governing from a distance",
+      "governance at a distance"
+    ]
+  },
+  {
     "title": "Governmentality",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Governmentality.md",
@@ -4433,10 +4446,7 @@
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Soviet Statism.md",
     "aliases": [
-      "苏联国家主义",
-      "Soviet statism",
-      "statism",
-      "国家主义"
+      "苏联国家主义"
     ]
   },
   {
@@ -5753,6 +5763,15 @@
       "meta-inferences",
       "元推断",
       "整合推论"
+    ]
+  },
+  {
+    "title": "Methodological Educationism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Methodological Educationism.md",
+    "aliases": [
+      "方法论教育主义",
+      "教育主义"
     ]
   },
   {

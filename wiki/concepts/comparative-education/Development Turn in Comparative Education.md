@@ -7,7 +7,7 @@ aliases:
 summary: "Gita Gita Steiner-Khamsi (2006)提出的概念，指二战后领土帝国崩溃、冷战超级大国争夺新独立国家背景下，比较教育的资金、焦点和方法系统性转向发展中国家教育的过程。在冷战地缘博弈和科学主义的合谋下，该转向将教育规划重构为经济投资，并在后冷战时期演变为新自由主义全球治理下的“最佳实践”输出机制。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Causality]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Governing at a Distance]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Dependency Theory]]"
@@ -140,7 +141,7 @@ updated: 2026-07-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **地缘知识型合谋** | 探讨地缘政治利益如何催生科学主义的人力资本评估以实现合法干预。 | 冷战时期美苏对第三世界的教育援助与学科建制。 | Gita Steiner-Khamsi (2006); Anderson (1958) |
-> | **新自由主义延续** | 探讨冷战后的发展话语如何演变为以数据和指标为基础的全球新自由主义远处治理。 | 后冷战时代超国家组织对全球教育系统的评估与重塑。 | Tikly (2004); Brehm (2023) |
+> | **新自由主义延续** | 探讨冷战后的发展话语如何演变为以数据和指标为基础的全球新自由主义[[Governing at a Distance\|远处治理]]。 | 后冷战时代超国家组织对全球教育系统的评估与重塑。 | Tikly (2004); Brehm (2023) |
 
 ---
 
@@ -148,13 +149,13 @@ updated: 2026-07-09
 
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 冷战驱动的发展转向与多边建制化** [[Sputnik Shock 1957|Sputnik]]人造卫星发射成功在美国激发了地缘与科技恐慌，直接催生了[[Economics of Education Movement|教育经济学运动]]。芝加哥大学Anderson中心促进了学科融合，协助人力资本理论在国际项目（如地中海区域项目）中全球扩散；[[OECD|经合组织]]（1961年）与[[International Education|国际教育]]规划研究所（1963年）等机构在此时期成立，为发展中国家教育规划提供技术援助。
-> - **1990s 至今 — 新自由主义远处治理下的“最佳实践”输出** 苏联解体后，“发展[[Paradigm|范式]]”平稳过渡为新自由主义的全球标准话语。OECD通过[[PISA]]测验等量化指标实施远处治理，将早期的“技术援助”升级为制造高效教育系统模型的“最佳实践”，以维持后福特主义的全球资本积累与西方知识霸权。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
+> - **1990s 至今 — 新自由主义[[Governing at a Distance|远处治理]]下的“最佳实践”输出** 苏联解体后，“发展[[Paradigm|范式]]”平稳过渡为新自由主义的全球标准话语。OECD通过[[PISA]]测验等量化指标实施远处治理，将早期的“技术援助”升级为制造高效教育系统模型的“最佳实践”，以维持后福特主义的全球资本积累与西方知识霸权。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
 
 ---
 
 ## 争议与批评
 
-> [!tension] 远处治理的本质争议
+> [!tension] [[Governing at a Distance|远处治理]]的本质争议
 > - **去政治化的客观援助（蓝方）** 倡导者认为发展转向带来了规范化的计划管理和[[Evidence-Based Education|循证教育]]政策，为缺乏资源的国家提供了基于客观数据和科学模型的“最佳实践”，有助于提升教育质量与经济发展水平。
 > - **知识殖民与资本[[Disciplina and Doctrina|规训]]（红方）** 批判学者指出，发展话语构建了“西方即标准”的落后[[Paradigm|范式]]，通过把教育窄化为生产力工具剥夺了本土文化主权，实质上是以“技术中立”为掩护实施的知识殖民。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
 

@@ -21,7 +21,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Classical Geopolitics]]"
   - "[[International Education]]"
-  - "[[Soviet Statism]]"
+  - "[[Methodological Educationism]]"
   - "[[Hypothesis]]"
   - "[[Recontextualization]]"
   - "[[Relational Space]]"
@@ -90,7 +90,7 @@ updated: 2026-06-24
 > - **国家作为唯一分析单位** 将教育系统理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性或衍生性的。[[Argument_Marginson_2025_ROE|Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009, p. 348]]
 > - **遮蔽全球性现象** 系统性阻挡了对科学（就其[[Epistemology|认识论]]自主性而言）、生态和跨国网络等无法还原为国家属性的全球性现象的观察。
 > - **语言概念的潜在偏见** 比较教育常用的“跨国”（transnational，跨越国家）与“国际”（international，国家之间）均预设了国家作为活动基础；即使是“超国家”（supranational，国家之上）也仍是以民族国家为基准定位该空间。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
-> - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与方法论国家中心主义（methodological [[Soviet Statism|statism]]，将国家视为唯一行动者）和方法论教育主义（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
+> - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与方法论国家中心主义（methodological statism，将国家视为唯一行动者）和[[Methodological Educationism|方法论教育主义]]（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 > - **与规范性民族主义共谋** 认为“国家是唯一分析单位”的预设会强化“本国优先”的价值立场，Massey（2005）称之为“对连贯国族性的浪漫幻想”和净化国家空间的徒劳尝试。
 > - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
 > - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的[[Hypothesis|假设]]。即使文化主义视角强调本地适应 and [[Recontextualization|再脉络化]]，仍然基于地缘政治和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
@@ -128,7 +128,7 @@ updated: 2026-06-24
 > 传统比较教育在探讨教育转移时，倾向于将生产地和接收地视为固定的国家领土，形成一种“静态的转移解释”。应将教育转移理解为关系性维度的流通与[[Recontextualization|再脉络化]]。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
 
 > [!claim] Dale, R. & Robertson, S.
-> 全球化背景下的教育研究不仅受限于方法论民族主义，还会与方法论国家中心主义和方法论教育主义叠加，系统性地遮蔽跨国治理网络、非国家行动者 and 学校以外的教育实践。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
+> 全球化背景下的教育研究不仅受限于方法论民族主义，还会与方法论国家中心主义和[[Methodological Educationism|方法论教育主义]]叠加，系统性地遮蔽跨国治理网络、非国家行动者 and 学校以外的教育实践。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 
 ---
 
@@ -188,4 +188,4 @@ updated: 2026-06-24
 > - **[[Argument_Marginson_2025_ROE|Marginson (2025)]]** — 论证 Massey 的关系空间理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。[[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]]
 > - **[[Argument_Beech_2009_CE|Beech (2009)]]** — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows and Space of Places|流动空间与地方空间]]重构教育政策话语的三级[[Transfer Translation Transformation|转译]]。[[Argument_Beech_2009_CE|Beech, 2009, pp. 348–349]]
 > - **[[Argument_Beech_2015_GSE|Beech & Artopoulos (2015)]]** — 揭示传统比较教育中静态教育转移的国家领土[[Hypothesis|假设]]，提出关系性流通的阐释。
-> - **[[Argument_Klerides_2023_CE|Klerides (2023)]]** — 运用该概念批判历史和比较教育研究中的“方法论民族主义、[[Soviet Statism|国家主义]]、教育主义叠加”现象，阐释其对跨国教育网络研究的遮蔽。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
+> - **[[Argument_Klerides_2023_CE|Klerides (2023)]]** — 运用该概念批判历史和比较教育研究中的“方法论民族主义、国家主义、[[Methodological Educationism|教育主义]]叠加”现象，阐释其对跨国教育网络研究的遮蔽。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]

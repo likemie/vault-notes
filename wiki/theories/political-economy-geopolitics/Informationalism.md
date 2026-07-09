@@ -14,10 +14,10 @@ tags:
 related_concepts:
   - "[[Analytic Framework]]"
   - "[[Informationalization]]"
-  - "[[Soviet Statism]]"
   - "[[Military-Industrial Black Hole]]"
   - "[[Ideological Capture of Science]]"
   - "[[State Vertical]]"
+  - "[[Soviet Statism]]"
   - "[[Operationalization]]"
 related_theories:
   - "[[Network Society]]"
@@ -56,13 +56,13 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 >
 > Original: Informationalization is a mode of development in which the main source of productivity lies in the qualitative capacity to optimize combination and use factors of production on the basis of knowledge and information.
 
-该理论还包含对[[Soviet Statism|国家主义]]体制（statism）的整合分析。Castells 将国家主义社会系统定义为"围绕国家机器权力持有者对社会经济剩余的占有而组织起来的系统"[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。资本主义追求利润最大化，国家主义则追求国家机器权力最大化。两种体制在信息时代面临截然不同的适应压力。国家主义被论证为在结构上与信息化不相容。
+该理论还包含对国家主义体制（statism）的整合分析。Castells 将国家主义社会系统定义为"围绕国家机器权力持有者对社会经济剩余的占有而组织起来的系统"[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。资本主义追求利润最大化，国家主义则追求国家机器权力最大化。两种体制在信息时代面临截然不同的适应压力。国家主义被论证为在结构上与信息化不相容。
 
 ---
 ## 核心命题
 
 > [!abstract]
-> Informationalism 包含两个相互关联的核心命题。第一个命题确立工业化与[[Informationalization|信息化]]作为两种性质不同的发展模式；第二个命题论证[[Soviet Statism|国家主义]]体制在结构上无法满足信息化的制度前提。
+> Informationalism 包含两个相互关联的核心命题。第一个命题确立工业化与[[Informationalization|信息化]]作为两种性质不同的发展模式；第二个命题论证国家主义体制在结构上无法满足信息化的制度前提。
 
 > [!line-a] 命题一：发展模式转换（Mode Transition）
 > 工业化与信息化是两种性质不同的发展模式，而非同一现代化进程的不同阶段。工业化依赖物质投入的线性扩张。正因如此，苏联的中央计划模式在工业追赶期极为有效。信息化依赖知识的自由流动、信息网络的扩散和迭代创新过程。成功完成工业化并不自动带来信息化成功：苏联在1980年代钢铁产量超过美国80%、水泥超过78%、石油超过42%，拥有全球最高比例的科学家和工程师，却在PC革命中被完全绕过[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
@@ -93,4 +93,4 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 ## 相关研究
 
 > [!example]
-> - [[Argument_Chan_2015_Intersect]] — 运用 Informationalism 框架分析苏联科技落后的五个机制，论证[[Soviet Statism|国家主义]]逻辑与[[Informationalization|信息化]]要求之间的结构性不相容。
+> - [[Argument_Chan_2015_Intersect]] — 运用 Informationalism 框架分析苏联科技落后的五个机制，论证国家主义逻辑与[[Informationalization|信息化]]要求之间的结构性不相容。

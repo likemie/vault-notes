@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -40,12 +40,13 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Reference Society]]"
   - "[[Hypothesis]]"
+  - "[[Governing at a Distance]]"
   - "[[International Mind]]"
   - "[[Policy Entrepreneur]]"
   - "[[Educated Identity]]"
   - "[[Global Citizenship]]"
   - "[[Methodological Nationalism]]"
-  - "[[Soviet Statism]]"
+  - "[[Methodological Educationism]]"
   - "[[Knowledge Exchange]]"
   - "[[Re-Westernisation]]"
   - "[[Champ]]"
@@ -210,7 +211,7 @@ citation_aliases:
 ### 第三步：理性主义如何塑造比较教育
 
 > [!claim] 步骤三主张
-> 从理性主义视角出发，全球治理机制和多边主义的兴起，将比较教育从国家主导的借用工具重塑为分析分散权威（dispersed authority）的治理平台，并将比较本身重构为一种远处治理的政治技术(p. 425)。
+> 从理性主义视角出发，全球治理机制和多边主义的兴起，将比较教育从国家主导的借用工具重塑为分析分散权威（dispersed authority）的治理平台，并将比较本身重构为一种[[Governing at a Distance|远处治理]]的政治技术(p. 425)。
 
 > [!dev-timeline] 理性主义比较教育的演进脉络
 > - **1919–1939 — 国际理解与和平政治的萌芽** 国际联盟国际知识合作组织（IIIC）等跨国机构在两次世界大战期间推动教科书修订以消除歪曲和民族偏见，将比较作为服务于 Zimmern 所定义的“[[International Mind|国际心智]]”（消除民族偏见的普遍合作心态）的中立平台(p. 424)。
@@ -222,7 +223,7 @@ citation_aliases:
 > - **2000s 至今 — 分散权威与基准数据治理** 全球治理取代了国家单向输出，大数据和 [[PISA]] 等基准测试以中立客观之名实施远处治理（governing from a distance），教育政策呈现为由国际组织、非政府组织、跨国公司及[[Policy Entrepreneur|政策企业家]]共同交织的多行动者网络(pp. 424–425)。
 >   - 子事件：跨国多行动者网络下，非国家行动者、慈善资本及跨国公司推进教育服务私有化，政策企业家推销“循证政策”方案。
 >   - 子事件：引入[[Actor-Network Theory|行动者网络理论]]（ANT），提出“政策图景”和“流动话语”以分析分散的全球教育空间。
->   - 子事件：[[Educated Identity|受教育身份]]多元化，[[Global Citizenship|全球公民]]、人权与生态身份挑战了基于[[Methodological Nationalism|方法论国家主义]]、 [[Soviet Statism|statism]] 及教育主义（Methodological Educationism）的传统国民身份。
+>   - 子事件：[[Educated Identity|受教育身份]]多元化，[[Global Citizenship|全球公民]]、人权与生态身份挑战了基于[[Methodological Nationalism|方法论国家主义]]、 statism 及[[Methodological Educationism|教育主义]]（Methodological Educationism）的传统国民身份。
 
 > [!evidence-grid-a] 在场（Presences）
 > - **跨国与全球治理分析** 照亮了多行动者网络、国际组织、慈善事业及跨国公司的政策影响力。
@@ -310,7 +311,7 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **多重比较教育形态的建构** 比较教育的不同学术形态（现实主义的现代主义借用、理性主义的远处治理、[[Revolutionism|革命主义]]的道德解放）并非简单的学派分歧，而是对国际社会性质底层预设的直接反映(p. 417)。
+> 1. **多重比较教育形态的建构** 比较教育的不同学术形态（现实主义的现代主义借用、理性主义的[[Governing at a Distance|远处治理]]、[[Revolutionism|革命主义]]的道德解放）并非简单的学派分歧，而是对国际社会性质底层预设的直接反映(p. 417)。
 > 2. **学科内部矛盾的政治性解构** [[Policy Borrowing|政策借用]]与情境理解的冲突、技术评估与批判解放的对立，本质上是现实主义（权力斗争）、理性主义（规范治理）与革命主义（支配抵抗）冲突的表征，具有不可消除性(p. 431)。
 > 3. **[[Agendas of Attention|注意力议程]]对地缘的依附** 比较教育的注意力议程（谁值得被比较）在冷战对峙、[[Development Turn in Comparative Education|发展转向]]、新自由主义学术扩张等不同历史时期均受制于主权国力和地缘利益的消长(p. 421)。
 > 4. **地缘新变局下的学科走向** 随着美俄军事对抗再显主权回归，以及中国在[[Re-Westernisation|去西方化]]权力矩阵中的经济博弈，比较教育将重设注意力议程以服务于新的集团生存或去西方化修辞(pp. 429–430)。

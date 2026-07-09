@@ -16,9 +16,9 @@ related_concepts:
   - "[[Scientific Autarky]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
-  - "[[Soviet Statism]]"
   - "[[Informationalization]]"
   - "[[Analytic Framework]]"
+  - "[[Soviet Statism]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -78,7 +78,7 @@ updated: 2026-06-12
 > [!timeline] 概念演变
 > - **1930s–1960s** 苏联科学意识形态化达到顶峰，[[Lysenkoism|李森科主义]]主导生物学，相对论遭到官方批判。
 > - **1990** Graham 编著的 *Science and the Soviet Social Order* 系统分析了苏联科学的社会—政治嵌入性。
-> - **2010s** Castells 将科学意识形态化纳入[[Soviet Statism|国家主义]]体制与[[Informationalization|信息化]]不相容的[[Analytic Framework|分析框架]]，视为五个破坏性机制之一。
+> - **2010s** Castells 将科学意识形态化纳入国家主义体制与[[Informationalization|信息化]]不相容的[[Analytic Framework|分析框架]]，视为五个破坏性机制之一。
 > - **2015** Chan 将科学意识形态化作为苏联技术落后的关键机制之一进行详细论证[[Argument_Chan_2015_Intersect|Chi Ling Chan, 2015]]。
 
 ---
