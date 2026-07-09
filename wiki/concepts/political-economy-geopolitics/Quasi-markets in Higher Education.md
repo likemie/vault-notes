@@ -30,7 +30,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
-  - "[[German Excellence Initiative|Excellence Initiative (Germany)]]"
+  - "[[German Excellence Initiative]]"
   - "[[National Science Foundation]]"
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"

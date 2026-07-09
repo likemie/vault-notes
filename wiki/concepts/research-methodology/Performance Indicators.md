@@ -8,7 +8,7 @@ aliases:
 summary: "经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Performativity]]"
   - "[[Performativity of Measurement]]"
-  - "[[Document]]"
   - "[[Innovation Ecosystem]]"
   - "[[Lifelong Learning]]"
   - "[[Heterogeneity]]"
@@ -134,7 +133,7 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 ## 实证发现
 
 > [!success]
-> 以下发现来自 [[OECD]] 指标体系的历史分析([[Argument_Gorur_2014_Discourse|Gorur, 2014]])和欧盟政策[[Document|文件]]与 [[YOUNG_ADULLLT]] 定性数据的综合分析([[Argument_Rambla_2022_Springer|Rambla, 2022]])。
+> 以下发现来自 [[OECD]] 指标体系的历史分析([[Argument_Gorur_2014_Discourse|Gorur, 2014]])和欧盟政策文件与 [[YOUNG_ADULLLT]] 定性数据的综合分析([[Argument_Rambla_2022_Springer|Rambla, 2022]])。
 
 ### OECD 层面的指标运作
 

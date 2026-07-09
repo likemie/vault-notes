@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -28,11 +28,14 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Li_2025_HSSC]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[PISA]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
@@ -91,7 +94,7 @@ updated: '2026-06-08'
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 按照 PRISMA 框架从 SSCI 和 Scopus 数据库系统检索并筛选 85 篇 PISA 政策影响实证研究，使用编码分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 按照 PRISMA 框架从 SSCI 和 Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
 
 ---
 

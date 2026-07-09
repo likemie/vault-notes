@@ -10,7 +10,7 @@ aliases:
 summary: "混合方法研究中的两类基本数据形式，开放式数据由参与者自由表达而研究者不预设回答选项，封闭式数据由研究者提供预设回答选项（如评分量表），区分两类数据比数字-文本二分法更精确"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ tags:
   - mixed-methods
   - data-collection
 related_concepts:
-  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Variable]]"
 related_theories: []
@@ -43,7 +42,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 开放式数据（Open-Ended Data）指研究者提问但不提供预设回答选项，由参与者自由表达观点并由研究者记录的数据形式。应用于[[Qualitative Observation|质性观察]]和[[Document|文件]]时，研究者在观察或检视文件时不使用预设的回应类别，而是看资料中浮现的意义([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.232]])。
+> 开放式数据（Open-Ended Data）指研究者提问但不提供预设回答选项，由参与者自由表达观点并由研究者记录的数据形式。应用于[[Qualitative Observation|质性观察]]和文件时，研究者在观察或检视文件时不使用预设的回应类别，而是看资料中浮现的意义([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.232]])。
 
 > [!info]
 > 封闭式数据（Closed-Ended Data）指研究者向参与者提供预设回答选项的数据形式，如从"非常同意"到"非常不同意"的评分量表([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.232]])。

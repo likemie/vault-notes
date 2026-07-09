@@ -5,7 +5,7 @@ aliases:
 summary: "Massey 的空间理论概念，指空间中差异、关系和多重轨迹的共存，由此带来开放性和不可预测性。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[International Education]]"
   - "[[Emergence]]"
+  - "[[Space Production]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Space-Making]]"
 related_theories: []
@@ -76,7 +77,7 @@ updated: '2026-05-18'
 
 > [!tip]-
 > - [[Doreen Massey]] — 多重性是 Massey 空间理论的核心概念，建立在其开放[[Ontology|本体论]]之上，详见 Massey > 核心思想
-> - Lefebvre（1991）空间生产理论 — 为多重性提供了"空间是社会产物"的前提，但 Massey 比 Lefebvre 更强调空间的开放性和未完成性
+> - Lefebvre（1991）[[Space Production|空间生产]]理论 — 为多重性提供了"空间是社会产物"的前提，但 Massey 比 Lefebvre 更强调空间的开放性和未完成性
 
 ---
 

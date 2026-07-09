@@ -35,7 +35,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre]]"
   - "[[National Science Foundation]]"
   - "[[Manufacturing USA]]"
 related_arguments: []

@@ -6,7 +6,7 @@ aliases:
 summary: "Beech 基于 Castells 网络社会理论提出的概念，指全球教育场场域中多元行动者通过跨国网络协作与竞争、生产并倡导教育政策方案的空间，其话语兼具稳定性与可塑性且抽离于地方历史经验"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Floating Signifier]]"
-  - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Network Society]]"
@@ -105,7 +104,7 @@ updated: 2026-06-23
 > [!feature] 全球教育政策话语的运行特征
 > - **稳定性与可塑性（Stability & Malleability）** 整合不同利益和文化背景的需要决定了话语的二元结构：既有核心品牌的稳定性以维持其全球权威，又有极强的可塑性允许各方自行填空。([[Argument_Beech_2009_CE\|Beech, 2009, p. 353]])
 > - **[[Floating Signifier|漂浮能指]]（Floating Signifier）** 话语脱离了它在特定地方的时间、空间及斗争经验，成为无固定具体所指的抽象符号，其传播效力恰恰来自其能在各种本土语境中被差异化[[Coding in Qualitative Research|编码]]。(pp. 353–355)
-> - **不兼容声明的组合（Incongruent Statements）** 在同一政策[[Document|文件]]中并存逻辑矛盾的陈述，以获取最广泛的政治同盟。(p. 353)
+> - **不兼容声明的组合（Incongruent Statements）** 在同一政策文件中并存逻辑矛盾的陈述，以获取最广泛的政治同盟。(p. 353)
 
 > [!exegesis]- 机制解读一：稳定性与可塑性的政治隐喻
 > 这表明全球政策并非一套具体的铁律，而是一个“可弹性裁剪”的话语包，使截然不同的行动者（即使其理念相反）能在此框架下找到合法化自身教育改革的词汇。

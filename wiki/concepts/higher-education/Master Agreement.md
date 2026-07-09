@@ -10,7 +10,7 @@ aliases:
 summary: "产学合作中一次性覆盖知识产权、赔偿、治理、出版、保密、出口管制等基础条款的框架性法律协议，后续每个具体项目无需重新谈判这些条款，降低重复合作的交易成本"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,12 +23,11 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Foreground IP]]"
   - "[[Background IP]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre]]"
 related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
 confidence: medium
@@ -82,7 +81,7 @@ updated: 2026-05-28
 
 **抓住企业预算窗口**。企业的研发预算往往在财年末有未花完的余额。如果主协议已签署，关系经理可以在"两周内"将这笔预算转化为一个试点研究项目。如果协议还在法务排队，预算窗口关闭后资金即消失（pp.106–107）。
 
-**建立稳定的制度预期**。主协议不是一份静止的[[Document|文件]]——理想情况下它长期不变，每隔几年审查一次以适应新的法律法规或合作需求变化。这种稳定性使大学和企业都能在明确的规则框架内进行长期规划，各院系和业务部门不需要担心法律条款的突然变化（p.108）。
+**建立稳定的制度预期**。主协议不是一份静止的文件——理想情况下它长期不变，每隔几年审查一次以适应新的法律法规或合作需求变化。这种稳定性使大学和企业都能在明确的规则框架内进行长期规划，各院系和业务部门不需要担心法律条款的突然变化（p.108）。
 
 ---
 

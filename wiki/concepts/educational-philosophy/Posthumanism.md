@@ -21,7 +21,7 @@ related_concepts:
   - "[[Humosity]]"
   - "[[Sympoiesis]]"
   - "[[Response-ability]]"
-  - "[[Haraway's SF|SF (Haraway)]]"
+  - "[[Haraway's SF]]"
   - "[[Mondialisation]]"
   - "[[Ubuntu]]"
   - "[[Buen Vivir]]"

@@ -9,9 +9,9 @@ subtype: policy
 region: hongkong
 fact_region: "hongkong"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 4
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: Home and Youth Affairs Bureau
 tags:
@@ -22,7 +22,6 @@ tags:
   - region/hong-kong
   - region/china
 related_concepts:
-  - "[[Document]]"
   - "[[Psychologisation]]"
 related_theories: []
 related_methods: []
@@ -43,7 +42,7 @@ updated: 2026-05-25
 ## 背景
 
 > [!info]
-> 2022 年 7 月习近平访港出席回归 25 周年典礼，以"青年"为讲话核心主题；同日新设的民政及青年事务局（Home and Youth Affairs Bureau）正式成立。在此背景下，港府于 2022 年 12 月发布《青年发展蓝图》（Youth Development Blueprint），作为特区政府首份系统的青年政策[[Document|文件]]([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])。
+> 2022 年 7 月习近平访港出席回归 25 周年典礼，以"青年"为讲话核心主题；同日新设的民政及青年事务局（Home and Youth Affairs Bureau）正式成立。在此背景下，港府于 2022 年 12 月发布《青年发展蓝图》（Youth Development Blueprint），作为特区政府首份系统的青年政策文件([[Argument_Vickers_2024_CE|Vickers, 2024, p.153]])。
 
 ---
 

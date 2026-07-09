@@ -26,7 +26,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[University-Based Research Center]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Third Mission|Third Mission (Universities)]]"
+  - "[[Third Mission]]"
   - "[[Knowledge Exchange]]"
   - "[[Innovation Park]]"
   - "[[Innovation Ecosystem]]"

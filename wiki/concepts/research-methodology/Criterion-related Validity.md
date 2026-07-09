@@ -9,7 +9,7 @@ aliases:
 summary: "将测量工具的结果与外部标准关联以验证效度的方式，包含预测效度和共时效度两种形式，核心逻辑是用一个已知有效的标准来检验未知的工具"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Predictive Validity]]"
   - "[[Concurrent Validity]]"
-  - "[[Document]]"
 related_methods:
   - "[[Triangulation]]"
 related_arguments:
@@ -53,7 +52,7 @@ updated: 2026-06-23
 > - **[[Predictive Validity|预测效度]]（Predictive validity）**
 >   第一轮数据与**未来**某一时间点获取的数据高度相关。典型场景：16 岁考试成绩与 18 岁同批学生考试成绩高度相关 → 第一次考试**预测**了未来的表现。时间要素是预测效度的核心特征——工具被用来预测标准在未来才会出现的结果。
 > - **[[Concurrent Validity|共时效度]]（Concurrent validity）**
->   使用一种工具收集的数据与**同时**使用另一种工具收集的数据高度相关。不存在时间要素——两种工具在同一时间点施测。典型场景：研究者通过观察、访谈和[[Document|文件]]三种不同工具评估同一学生的问题解决能力，如果三种工具的评估结果一致（concurred），则共时效度得到证明。共时效度的重要合作伙伴是[[Triangulation|三角验证]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 179)]]
+>   使用一种工具收集的数据与**同时**使用另一种工具收集的数据高度相关。不存在时间要素——两种工具在同一时间点施测。典型场景：研究者通过观察、访谈和文件三种不同工具评估同一学生的问题解决能力，如果三种工具的评估结果一致（concurred），则共时效度得到证明。共时效度的重要合作伙伴是[[Triangulation|三角验证]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 179)]]
 
 > [!example] 预测效度的教育案例
 > 如果一批学生在 16 岁时的数学考试成绩能够高度预测他们在 18 岁时同一批学生的数学考试成绩，那么 16 岁的考试就被认为具有对 18 岁数学能力的**预测效度**。大学入学考试（如 SAT、A-levels）的效度论证本质上依赖于预测效度——它们被设计来预测申请者在大学学业中的成功。

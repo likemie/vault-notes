@@ -12,7 +12,7 @@ subtype: policy
 region: russia
 fact_region: "russia"
 fact_kind: "policy"
-fact_related_count: 0
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -21,12 +21,16 @@ tags:
   - "policy/regulation"
   - "level/higher-education"
   - "region/russia"
-related_concepts: []
+related_concepts:
+  - "[[Blue Skies Research]]"
+  - "[[Scientific Autarky]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Federal Law No. 121-FZ on Foreign Agents]]"
+related_arguments:
+  - "[[Argument_Dezhina_2022_ECO]]"
 confidence: medium
 status: draft
 created: '2026-06-30'
@@ -64,7 +68,7 @@ updated: '2026-06-30'
 
 > [!timeline] 政策时间线
 > - **2015** 5月签署第129-FZ号法案，建立“不受欢迎外国组织”名录与取缔制度。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, p. 44]])
-> - **2016** 美俄“尤里卡”（EUREKA）联合项目与CRDF Global“基础研究与高等教育”计划受制裁影响，被迫终止或撤出。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, pp. 46–47]])
+> - **2016** 美俄“尤里卡”（EUREKA）联合项目与CRDF Global“[[Blue Skies Research|基础研究]]与高等教育”计划受制裁影响，被迫终止或撤出。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, pp. 46–47]])
 > - **2021** 6月30日，长期资助青年人文社科学者的奥克斯福德俄罗斯基金（Oxford Russia Fund）被俄罗斯官方宣布为“非友好组织”并强制关停。
 
 ---

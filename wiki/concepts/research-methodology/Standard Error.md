@@ -42,7 +42,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 核心定义
-> 标准误（[[Sampling Error|standard error]], SE）是抽样分布的标准差，度量样本统计量（如均值、比例）围绕总体参数的理论变异程度。它是[[Central Limit Theorem|中心极限定理]]的直接推论——[[Cognitive Load Theory|CLT]] 表明样本均值趋近正态分布，SE 则量化了该分布的宽度。SE 越小，样本估计越精确。SE 是[[Confidence Interval|置信区间]]的核心构建材料：$CI = \text{点估计} \pm Z \times SE$。
+> 标准误（standard error, SE）是[[Sampling Error|抽样分布]]的标准差，度量样本统计量（如均值、比例）围绕总体参数的理论变异程度。它是[[Central Limit Theorem|中心极限定理]]的直接推论——[[Cognitive Load Theory|CLT]] 表明样本均值趋近正态分布，SE 则量化了该分布的宽度。SE 越小，样本估计越精确。SE 是[[Confidence Interval|置信区间]]的核心构建材料：$CI = \text{点估计} \pm Z \times SE$。
 
 > [!concept-lens] 概念透镜
 > - **含义** SE 指向从样本推断总体时固有的不确定性——不是某个具体样本的误差，而是抽样过程本身产生的理论变异。

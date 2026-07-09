@@ -17,7 +17,7 @@ tags:
 related_concepts:
   - "[[Organizational Actorhood]]"
   - "[[Knowledge Production]]"
-  - "[[Third Mission|Third Mission (Universities)]]"
+  - "[[Third Mission]]"
   - "[[Technology Transfer]]"
   - "[[Global Citizenship]]"
   - "[[Otherhood]]"

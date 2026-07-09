@@ -7,7 +7,7 @@ summary: "英国教育评估学者，形成性评价研究代表人物和教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,12 +20,13 @@ tags:
 related_concepts:
   - "[[Formative Assessment]]"
   - "[[Evidence-Based Education]]"
-  - "[[Epistemology]]"
+  - "[[Theory of Knowledge]]"
   - "[[Tracking]]"
   - "[[Emergence]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -48,7 +49,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> **教育知识是局部且临时的**运用 Goldman (1976) 的区分理论（Discrimination [[Epistemology|theory of knowledge]]），Wiliam 论证教育研究的知识主张（如"[[Tracking|能力分组]]降低成就"）随着新证据的[[Emergence|涌现]]而可能在后续被质疑——这不是因为原始研究质量不足，而是因为新证据揭示此前无法区分的替代状态。知识的地位取决于是否存在相关的替代状态而我们知道者能否区分之。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.9–10]])
+> **教育知识是局部且临时的**运用 Goldman (1976) 的区分理论（Discrimination [[Theory of Knowledge]]），Wiliam 论证教育研究的知识主张（如"[[Tracking|能力分组]]降低成就"）随着新证据的[[Emergence|涌现]]而可能在后续被质疑——这不是因为原始研究质量不足，而是因为新证据揭示此前无法区分的替代状态。知识的地位取决于是否存在相关的替代状态而我们知道者能否区分之。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.9–10]])
 >
 > > 例：Wiliam 以自身的能力分组研究为例：Boaler, Wiliam, & Brown (2000) 和 Wiliam & Bartholomew (2004) 使用差异中差法发现能力分组降低成就。但后来关于教师质量变异性的证据（Hanushek & Rivkin, 2010）揭示：教师间一标准差差异对应学生成就 0.15 SD 的差异——远大于能力分组安排的效应。这意味着原来观察到的"能力分组效应"可能是"教师分配效应"，而研究当时未收集教师质量数据，因此无法区分这两种状态。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.8]])
 >

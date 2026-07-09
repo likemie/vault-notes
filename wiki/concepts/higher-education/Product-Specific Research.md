@@ -24,7 +24,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre]]"
 related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
 confidence: medium

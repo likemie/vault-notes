@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育的四种理解形式之一，认为不同社会的教育系统正在趋向相似，经历了从 UNESCO 科学理想到新制度主义的多个阶段"
 type: concept
 domain: "comparative-education"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,9 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
-related_theories: []
+  - "[[Hegemony]]"
+related_theories:
+  - "[[Institutional Isomorphism]]"
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
@@ -69,7 +71,7 @@ updated: 2026-06-06
 ## 核心要素
 
 > [!abstract]
-> - **趋同假设**。不同社会的教育系统正在趋向相似，这一假设贯穿趋同理论的所有历史阶段。
+> - **趋同[[Hypothesis|假设]]**。不同社会的教育系统正在趋向相似，这一假设贯穿趋同理论的所有历史阶段。
 > - **温和的动词（Semantic Strategy of Gentle Verbs）**。趋同理论大量使用温和、中性的动词（如出现/emerge、发生/happen、成形/take shape），且行动主体模糊不清（unclear agents of action），这一语义策略故意规避了对主导政策施动者的拷问，从而掩盖了趋同过程中的权力和胁迫关系([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 > - **中性化与良性化伪装**。将全球同构（isomorphisms）的发生和蔓延框架化为一种自然、进化且普遍良性的过程，从而在理论表述上使全球教育制度的同构化显得天然、正常和良性，实际上消解了其地缘政治和意识形态对抗属性。
 
@@ -78,7 +80,7 @@ updated: 2026-06-06
 ## 争议与批评
 
 > [!warning]
-> - **政治中性的幻觉**。趋同理论掩盖了新制度同构背后的权力关系。同构的成长并非自然演化，而是政治、经济与文化霸权机制（如国际援助、有条件贷款、地缘博弈和西方模式的制度输出）共同作用的权力后果([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> - **政治中性的幻觉**。趋同理论掩盖了新[[Institutional Isomorphism|制度同构]]背后的权力关系。同构的成长并非自然演化，而是政治、经济与[[Hegemony|文化霸权]]机制（如国际援助、有条件贷款、地缘博弈和西方模式的制度输出）共同作用的权力后果([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 > - **能动性与主体的双重遮蔽**。由于缺乏明确的行动主体，该理论遮蔽了“谁在推动趋同”、“出于何种政治与经济动机”以及“谁在趋同中获益或受损”等关于学科核心权力运作的问题。
 
 ---

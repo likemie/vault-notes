@@ -7,7 +7,7 @@ aliases:
 summary: "Lester（2005）提出的概念，指大学作为本地创新系统中中性的、持续对话的场所，催化不同行动者之间的互动，为技术、市场和产业未来方向的讨论提供平台，是大学常被低估的间接经济贡献"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,8 +27,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Lester_2005_MIT]]"
+related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-10

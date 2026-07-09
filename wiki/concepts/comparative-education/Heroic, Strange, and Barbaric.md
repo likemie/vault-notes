@@ -16,12 +16,12 @@ tags:
   - theory/critical-theory
 related_concepts:
   - "[[Educated Identity]]"
-  - "[[Readings of the Global]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Robert Cowen]]"
-related_facts: []
+related_facts:
+  - "[[National Security Law]]"
 related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
 confidence: medium
@@ -64,11 +64,11 @@ updated: '2026-07-04'
 > 旨在在极端政治干预和战争动荡的生存境遇中，如何利用道德震荡词汇解构中立偏见。
 
 > [!claim] [[Argument_Cowen_2023_CE|Cowen (2023)]]
-> 当国家暴力和极端地缘政治干预（如香港国安法下的课程重塑、阿富汗对女性教育的封锁、乌克兰战火对学校的摧残）阻止了常规的学术实证研究时，比较教育学者不能假装无事发生或进行无痛的常规对比。必须引入“英雄的”、“陌生的”与“野蛮的”等形容词作为批判武器，突破因情境求同存异而忽视国家暴力的去政治化倾向，直面并记录受教育身份（Educated Identity）所遭受的破坏性后果。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 335, p. 336]])
+> 当国家暴力和极端地缘政治干预（如[[National Security Law|香港国安法]]下的课程重塑、阿富汗对女性教育的封锁、乌克兰战火对学校的摧残）阻止了常规的学术实证研究时，比较教育学者不能假装无事发生或进行无痛的常规对比。必须引入“英雄的”、“陌生的”与“野蛮的”等形容词作为批判武器，突破因情境求同存异而忽视国家暴力的去政治化倾向，直面并记录[[Educated Identity|受教育身份]]（Educated Identity）所遭受的破坏性后果。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 335, p. 336]])
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 系统提出“英雄、陌生与野蛮”作为批判话语工具，以辅助转移与受教育身份的伦理拷问，批判新自由主义测评效率对生命脉络的抽空。
+> - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 系统提出“英雄、陌生与野蛮”作为批判话语工具，以辅助转移与[[Educated Identity|受教育身份]]的伦理拷问，批判新自由主义测评效率对生命脉络的抽空。

@@ -7,10 +7,10 @@ aliases:
 summary: "研究伦理中研究者对参与者信息的保护义务——承诺不将可识别个人身份的信息公开披露或使个体可被追踪，在敏感研究中面临演绎披露和链接文件系统等特殊挑战"
 type: concept
 domain: "research-methodology"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/research-governance
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Privacy in Research]]"
   - "[[Sensitive Research]]"
   - "[[Deductive Disclosure]]"
-  - "[[Document]]"
   - "[[Informed Consent]]"
   - "[[Reliability]]"
 related_methods:
@@ -27,7 +26,6 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
 created: 2026-06-18
 updated: 2026-07-08
@@ -110,7 +108,7 @@ Cooper & Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Cohen
 
 当研究者需要在保护保密性的同时跨多个时间点收集同一参与者的数据时——例如追踪研究——Lee (1993, p. 173) 提出了[[Linked File System|链接文件系统]]（linked file system）（pp.212–213）：
 
-> [!proc] 链接[[Document|文件]]系统的三层架构
+> [!proc] 链接文件系统的三层架构
 > 1. **数据文件（File 1）** 保存所有研究数据，为每位参与者分配任意编号（如 P001, P002）。此文件由研究者日常使用，不包含可识别身份的信息。
 > 2. **受访者名单（File 2）** 包含参与者的真实姓名和基本信息，单独存放，不在日常分析中使用。
 > 3. **链接文件（File 3）** 将数据编号与姓名关联所需的信息，由中立的经纪人（broker）而非研究者保管。

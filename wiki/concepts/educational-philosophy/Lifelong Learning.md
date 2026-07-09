@@ -6,7 +6,7 @@ aliases:
 summary: "20 世纪后半叶兴起的全球教育改革理念，主张学习贯穿人的一生，与知识经济话语共同构成各国课程改革的合法化框架"
 type: concept
 domain: "educational-philosophy"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,6 @@ tags:
   - policy/education
 related_concepts:
   - "[[Knowledge-Based Economy]]"
-  - "[[Document]]"
   - "[[Externalization]]"
   - "[[Policy Borrowing]]"
 related_theories: []
@@ -64,7 +63,7 @@ updated: '2026-06-07'
 > [!note]- 终身学习作为政策话语
 > 终身学习在许多国家的课程改革中扮演了双重角色。一方面，它确实回应了[[Knowledge-Based Economy|知识经济]]时代对学习能力的需求；另一方面，它也被决策者用作合法化国内改革的修辞工具。
 >
-> 以香港为例，港府在 2000 年代初的教育改革中大量引用终身学习话语。1998 年《施政报告》指出，香港要成为信息时代的知识经济体，就必须拥抱终身学习（Tung, 1998, p. 20）。2001 年课程发展议会发布的《学会学习》[[Document|文件]]将终身学习作为学校课程的总体目标。然而，[[Argument_Yan_2025_JCS|Yan & Morris (2025)]]指出，这些全球论述的实际功能是"外部化"（[[Externalization]]）国内问题，将改革包装为回应全球趋势的必要举措（p. 487）。
+> 以香港为例，港府在 2000 年代初的教育改革中大量引用终身学习话语。1998 年《施政报告》指出，香港要成为信息时代的知识经济体，就必须拥抱终身学习（Tung, 1998, p. 20）。2001 年课程发展议会发布的《学会学习》文件将终身学习作为学校课程的总体目标。然而，[[Argument_Yan_2025_JCS|Yan & Morris (2025)]]指出，这些全球论述的实际功能是"外部化"（[[Externalization]]）国内问题，将改革包装为回应全球趋势的必要举措（p. 487）。
 >
 > 这一模式符合 [[Policy Borrowing|政策借用]] 框架的分析：决策者借用全球话语来合法化国内议程，而非因全球扩散而被动采纳改革（Steiner-Khamsi, 2012）。
 

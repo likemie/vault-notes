@@ -44,7 +44,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
   - "[[University City Science Center]]"
-  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre]]"
 related_arguments:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"

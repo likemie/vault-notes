@@ -23,7 +23,6 @@ tags:
   - theme/recontextualization
   - theme/modernization
 related_concepts:
-  - "[[Document]]"
   - "[[Causality]]"
   - "[[Recontextualization]]"
   - "[[Junzi]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Analytic Framework]]"
   - "[[Abstract]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -73,7 +73,7 @@ citation_aliases:
 > 一个外国教育思想家的影响力，究竟是思想本身的力量所致，还是接受国的知识分子按照自身议程对其主动塑造的结果？具体而言：[[John Dewey|杜威]]（John Dewey）在 1919 年访华后的九十年间，经历了从"朋友"到"魔鬼"再到"现代化旗帜"的剧烈身份转换。这一现象如何解释？它揭示了教育思想跨国转移中的什么规律？
 
 > [!info]
-> 该研究属于教育史与比较教育的交叉领域，采用的是历史话语分析（historical discourse analysis）：以中国学术界和教育界围绕[[John Dewey|杜威]]的出版文本（期刊文章、演讲记录、政策[[Document|文件]]）为主要素材，追踪同一个教育思想家的话语形象如何在不同政治时期被彻底重构。覆盖时段从 1919 年到 2009 年，共九十年、四个时段。不是实证研究，不对政策效果做[[Causality|因果推断]]。
+> 该研究属于教育史与比较教育的交叉领域，采用的是历史话语分析（historical discourse analysis）：以中国学术界和教育界围绕[[John Dewey|杜威]]的出版文本（期刊文章、演讲记录、政策文件）为主要素材，追踪同一个教育思想家的话语形象如何在不同政治时期被彻底重构。覆盖时段从 1919 年到 2009 年，共九十年、四个时段。不是实证研究，不对政策效果做[[Causality|因果推断]]。
 
 ---
 

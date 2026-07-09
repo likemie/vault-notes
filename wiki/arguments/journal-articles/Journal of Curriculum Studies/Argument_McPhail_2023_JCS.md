@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
   - theory/social-realism
   - critique/curriculum
 related_concepts:
-  - "[[Document]]"
   - "[[Surface and Deep Learning]]"
   - "[[Social Realism]]"
   - "[[Epistemology]]"
@@ -41,8 +40,10 @@ related_concepts:
   - "[[Causality]]"
   - "[[Global Citizenship]]"
   - "[[Ontology]]"
+  - "[[Document]]"
   - "[[Big Ideas]]"
   - "[[Epistemic Ascent]]"
+  - "[[Theory of Knowledge]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
 related_methods:
@@ -77,7 +78,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> **国际背景** 多个国家的课程发展出现了对学科知识的新强调，如挪威(Bratland & El Ghami, 2022)、瑞典(Adolfsson, 2018)、英格兰(Spielman, 2018)和南非(Hoadley, 2018)。[[OECD]] 2030 学习指南也包含了关于知识的讨论，与之前倡导通用技能和能力的报告形成鲜明对比。OECD [[Document|文件]]指出：「学科知识……继续是理解的基本基础……获得学科知识的机会也是公平的基础」(OECD, 2019)。
+> **国际背景** 多个国家的课程发展出现了对学科知识的新强调，如挪威(Bratland & El Ghami, 2022)、瑞典(Adolfsson, 2018)、英格兰(Spielman, 2018)和南非(Hoadley, 2018)。[[OECD]] 2030 学习指南也包含了关于知识的讨论，与之前倡导通用技能和能力的报告形成鲜明对比。OECD 文件指出：「学科知识……继续是理解的基本基础……获得学科知识的机会也是公平的基础」(OECD, 2019)。
 >
 > **新西兰契机**
 > - 2019 年新西兰历史教师协会向政府递交「给我历史！」（Give me my History!）请愿书，时任总理阿德恩表示支持
@@ -121,7 +122,7 @@ citation_aliases:
 ---
 
 > [!example]- 翻译装置
-> CDCM 提供了一个翻译装置，用于分析课程[[Document|文件]]中的知识元素。该装置将知识形式分为四类，每类有对应的指标和实证示例：
+> CDCM 提供了一个翻译装置，用于分析课程文件中的知识元素。该装置将知识形式分为四类，每类有对应的指标和实证示例：
 >
 > | 知识形式 | 模型要素 | 含义 | 举例（以黑人生命攸关运动为例） |
 > |---------|---------|------|---------|
@@ -135,7 +136,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 使用 [[Curriculum Design Coherence Model|CDCM]] 的翻译装置，基于 Bratland & El Ghami (2022) 为挪威课程改革研究开发的分析量规，分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]][[Document|文件]]的两个方面：
+> 使用 [[Curriculum Design Coherence Model|CDCM]] 的翻译装置，基于 Bratland & El Ghami (2022) 为挪威课程改革研究开发的分析量规，分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]文件的两个方面：
 >
 > - 改革的目的声明和整体结构（学习进步和 UKD 结构）
 > - 社会科学、英语、数学和统计、以及新西兰历史的进度成果，以十年级末为例
@@ -174,7 +175,7 @@ citation_aliases:
 
 ### 第二步：规约性话语的主导
 
-课程改革的[[Regulative and Instructional Discourse|规约性话语]]借助[[Mātauranga Māori]]（毛利知识体系）形成了强烈的双文化凝聚力。课程[[Document|文件]]声称 [[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]] 的设计意在落实怀唐伊条约（Te Tiriti o Waitangi，新西兰的建国文件，旨在建立毛利人与英国王室之间的伙伴关系）的承诺，突出毛利知识体系和毛利语言的地位，以改变毛利人的教育不平等。
+课程改革的[[Regulative and Instructional Discourse|规约性话语]]借助[[Mātauranga Māori]]（毛利知识体系）形成了强烈的双文化凝聚力。课程文件声称 [[NZ Curriculum Refresh 2021-2026|Te Mātaiaho]] 的设计意在落实怀唐伊条约（Te Tiriti o Waitangi，新西兰的建国文件，旨在建立毛利人与英国王室之间的伙伴关系）的承诺，突出毛利知识体系和毛利语言的地位，以改变毛利人的教育不平等。
 
 > [!warning] 规约性话语的三个组成部分
 > [[Basil Bernstein|伯恩斯坦]] (2000) 理论化了[[Regulative and Instructional Discourse|规约性话语]]，即创造秩序、关系和身份的道德话语。教学性话语（教什么和怎么教）嵌入更强的规约性话语之中。在课程改革中，规约性话语通过以下方式运作：
@@ -197,7 +198,7 @@ citation_aliases:
 > **三种再脉络化原则之间的张力**
 > - 毛利知识体系的核心关切与课程声称已转向关注学习进步和增长之间存在潜在矛盾——两者建立在不同的[[Ontology|本体论]]和认识论基础上(Hikuroa, 2017; Stewart, 2022)
 > - 高期望原则要求教师「将学习者带出其直接经验、激发好奇心、打开新视野」，这可能与强烈的地方化倾向存在矛盾
-> - 教育部声称「课程受到知识景观和一系列课程理论洞见的启发」(p.12)，但课程文件中并未提供具体的文献引用来说明所借鉴的教育理论是什么，特别是关于学习如何发生的理论
+> - 教育部声称「课程受到知识景观和一系列课程理论洞见的启发」(p.12)，但课程文件中并未提供具体的[[Document|文献]]引用来说明所借鉴的教育理论是什么，特别是关于学习如何发生的理论
 
 ---
 
@@ -368,11 +369,11 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> - **部分完成**。课程改革在分析时仍在进行中，许多学科尚未开发。但已有足够证据判断课程[[Document|文件]]是否展示了向学科知识的更强转向。分析以十年级末（中学第二年）为例，这一阶段代表了学生在课程中进展的关键节点。
+> - **部分完成**。课程改革在分析时仍在进行中，许多学科尚未开发。但已有足够证据判断课程文件是否展示了向学科知识的更强转向。分析以十年级末（中学第二年）为例，这一阶段代表了学生在课程中进展的关键节点。
 > - **分析范围**。并非对[[Recontextualization|再脉络化]]原则的完整分析，而是揭示了一种持续的折衷方法——试图将[[Epistemology|认识论]]、理论和思想差异很大的各种取向整合在一起。例如，[[Mātauranga Māori|毛利知识体系]]的核心关切与课程声称已转向关注学习进步和增长之间存在潜在的[[Ontology|本体论]]和认识论张力，教师如何处理这种张力仍有待观察。
 > - **方法论说明**。分析使用了基于 Bratland & El Ghami (2022) 为挪威课程改革研究开发的分析量规，该量规基于 [[Curriculum Design Coherence Model|CDCM]] 的原则。作者主要借鉴了模型的关键原则，而非其具体设计细节。
 > - **未来分析**。未来的分析可以进一步追问：
->   - 课程改革是否真正以公认的[[Theory of Knowledge (ToK)|知识理论]]为基础（如 [[Johan Muller]], 2009; [[Gilbert Ryle]], 1946; Winch, 2013）？
+>   - 课程改革是否真正以公认的[[Theory of Knowledge|知识理论]]为基础（如 [[Johan Muller]], 2009; [[Gilbert Ryle]], 1946; Winch, 2013）？
 >   - 市场新自由主义和工具主义的影响是否已被显著削弱？
 >   - 在课程的实际制定中，地方化与国家化孰占主导？
 

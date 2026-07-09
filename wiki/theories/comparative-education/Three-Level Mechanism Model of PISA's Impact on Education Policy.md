@@ -6,7 +6,7 @@ aliases:
 summary: "Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育政策的影响机制分为超国家、国家层面和内部行动者网络三个层级，强调全球教育场域中的双向互动"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 22
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Variable]]"
   - "[[Champ]]"
-  - "[[PISA Shock]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Causality]]"
@@ -114,7 +113,7 @@ updated: 2026-07-05
 > ```
 
 > [!exegesis]- 教育研究例子
-> 以德国 [[PISA Shock|PISA 冲击]]为例说明三层机制的运作：**超国家层级**——OECD 通过 PISA 排名将德国教育体系的问题量化为跨国可比的绩效差距；**国家层级**——德国长期的教育强国自我认知与 2000 年 PISA 结果之间出现巨大落差，触发了全面改革议程；**内部行动者网络**——政策制定者、媒体和公众舆论在 PISA 冲击下形成改革共识，推动了三项产出导向改革规范的快速制度化。相比之下，美国在 2001 年同样表现不佳但未经历类似冲击，因为国内行动者网络对 PISA 的权重认定不同——结果只是确认了已有的"美国教育低于国际标准"共识，而非引发新的政策行动（Bieber & Martens, 2011）。
+> 以德国 PISA 冲击为例说明三层机制的运作：**超国家层级**——OECD 通过 PISA 排名将德国教育体系的问题量化为跨国可比的绩效差距；**国家层级**——德国长期的教育强国自我认知与 2000 年 PISA 结果之间出现巨大落差，触发了全面改革议程；**内部行动者网络**——政策制定者、媒体和公众舆论在 PISA 冲击下形成改革共识，推动了三项产出导向改革规范的快速制度化。相比之下，美国在 2001 年同样表现不佳但未经历类似冲击，因为国内行动者网络对 PISA 的权重认定不同——结果只是确认了已有的"美国教育低于国际标准"共识，而非引发新的政策行动（Bieber & Martens, 2011）。
 
 ---
 

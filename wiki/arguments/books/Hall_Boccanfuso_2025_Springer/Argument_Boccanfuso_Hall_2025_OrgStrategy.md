@@ -51,6 +51,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[National Science Foundation]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[University Inc]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch3_Boccanfuso_Hall_2025|Ch3_Boccanfuso_Hall_2025]]"
@@ -64,7 +65,7 @@ title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_key: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -138,7 +139,7 @@ citation_aliases:
 顶层是五个跨越使命的活动——这些不是某一个院系的工作，而是需要大学最高领导层（校长、教务长、学术评议会、董事会）来推动的：
 
 - **战略（Strategy）** 大学是否将产学合作纳入战略规划？校长和教务长是否公开表态支持？
-- **价值观（Values）** 大学如何看待与产业合作——是学术独立的威胁，还是学术使命的自然延伸？将其视为威胁的立场以 Washburn 的[[University Inc|《University, Inc.》]]公司化批判为经典代表
+- **价值观（Values）** 大学如何看待与产业合作——是学术独立的威胁，还是学术使命的自然延伸？将其视为威胁的立场以 Washburn 的《[[University Inc|University, Inc.]]》公司化批判为经典代表
 - **组织（Organization）** 大学如何整合不同单位和应用来服务产业伙伴？
 - **产业集中（Concentrations）** 大学是否在特定产业领域（如生物医药、人工智能、清洁能源）建立重点方向？
 - **重大挑战（Grand Challenges）** 大学是否围绕气候变化、健康寿命等社会性宏大议题组织产学合作？

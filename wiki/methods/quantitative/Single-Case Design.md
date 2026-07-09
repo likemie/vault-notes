@@ -7,7 +7,7 @@ summary: "通过在不同条件下对个体或小群体进行重复测量并让�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 24
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,7 +35,6 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Single-Subject Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Intervention Research]]"
   - "[[Gating Procedure]]"
@@ -56,7 +55,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 单一个案设计（[[Single-Subject Design|single-case design]], SCD）是一类实验方法，由多种设计组成，涉及在不同条件下对特定行为或技能进行重复测量，以评估干预对个体或小群体的有效性，个体或小群体作为自身的控制组(Kazdin, 2011; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。
+> 单一个案设计（single-case design, SCD）是一类实验方法，由多种设计组成，涉及在不同条件下对特定行为或技能进行重复测量，以评估干预对个体或小群体的有效性，个体或小群体作为自身的控制组(Kazdin, 2011; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。
 >
 > > "SCDs are experimental methods consisting of various designs involving repeated measures of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460, citing Kazdin, 2011]])
 >

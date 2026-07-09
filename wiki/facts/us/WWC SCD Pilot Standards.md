@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
-  - "[[Document]]"
   - "[[Causality]]"
   - "[[Evaluation Research]]"
   - "[[Reliability]]"
@@ -63,7 +62,7 @@ updated: '2026-05-18'
 ## 与 WWC 的关系
 
 > [!example] 与 [[What Works Clearinghouse|WWC]] 的关系
-> WWC [[Single-Case Design|SCD]] Pilot Standards 2010 不是独立清算中心，也不是 WWC 的整体证据标准手册，更不是 [[Single-Case Design]] 方法本身；它是 WWC 审查系统中专门用于 SCD 研究的技术标准[[Document|文件]]。该技术文档由 Kratochwill、Hitchcock 和专家组为 IES 开发，并处于 Mathematica Policy Research, Inc. 运营 WWC 的合同框架下([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])。
+> WWC [[Single-Case Design|SCD]] Pilot Standards 2010 不是独立清算中心，也不是 WWC 的整体证据标准手册，更不是 [[Single-Case Design]] 方法本身；它是 WWC 审查系统中专门用于 SCD 研究的技术标准文件。该技术文档由 Kratochwill、Hitchcock 和专家组为 IES 开发，并处于 Mathematica Policy Research, Inc. 运营 WWC 的合同框架下([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])。
 >
 > 两者的层级关系可以概括为：[[What Works Clearinghouse]] 是发布教育干预证据审查与报告的机构/平台；WWC SCD Pilot Standards 2010 是 WWC 为了把 SCD 研究纳入其证据审查而开发的一套设计标准；具体审查时，这套标准必须与 WWC 的审查协议（review protocols）和 SCD Review Guide 一起使用，不能孤立理解([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.460–461]])。
 >
@@ -124,7 +123,7 @@ updated: '2026-05-18'
 ## 标准中的推广性处理
 
 > [!abstract] 标准中的推广性处理
-> [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[Single-Case Design|SCD]] 评估量规时，仅审查了 [[Single-Case Design|SCD]] 设计标准[[Document|文件]]本身，得出了"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
+> [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[Single-Case Design|SCD]] 评估量规时，仅审查了 [[Single-Case Design|SCD]] 设计标准文件本身，得出了"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
 >
 > 1. WWC 设计标准**不能孤立看待**——它们必须与审查协议和 SCD Review Guide 一起理解（p.461）
 > 2. Review Guide 系统地捕获了 Maggin et al. 列出的所有推广性标准：基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量描述、参与者描述、场所描述（p.465, Table 1）

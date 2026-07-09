@@ -9,7 +9,7 @@ aliases:
 summary: "通过收集、分析和报告学习过程中的数字痕迹来理解和优化学习的技术实践，在教育治理中也常被用于风险预判、行为干预和学生管理。"
 type: concept
 domain: "educational-technology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Transhumanism]]"
   - "[[Bildung]]"
   - "[[Gamification]]"
+  - "[[Theory of Knowledge]]"
   - "[[Data Behaviorism]]"
 related_theories: []
 related_methods: []
@@ -133,5 +134,5 @@ Behrens & DiCerbo（2014, pp.39–40）将教育数据的增长描述为从"数�
 
 在 bettermarks 等数学平台中，[[Gamification]] 元素（金币、星星）与学习分析数据并列展示，但 Gamification 符号的视觉权重（黄色、大尺寸）远超百分比数字——创造了一套按游戏逻辑而非教学逻辑构造的"货币"。详见 [[Gamification#在教育中的应用与问题]] 和 论证拆解 7b。
 
-从知识论角度看，这一整套"量化→可视化→Gamification 反馈"的逻辑根植于 [[Data Behaviorism|数据行为主义]]：算法绕过人类的意义建构过程，直接从行为数据模式中生成"知识"并驱动干预。
+从[[Theory of Knowledge|知识论]]角度看，这一整套"量化→可视化→Gamification 反馈"的逻辑根植于 [[Data Behaviorism|数据行为主义]]：算法绕过人类的意义建构过程，直接从行为数据模式中生成"知识"并驱动干预。
 

@@ -77,4 +77,4 @@ updated: 2026-06-26
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理高等教育地缘政治视角的发展脉络、关键议题（人的培养、[[Knowledge Production|知识生产]]、学术流动、跨境合作）和理论[[Paradigm|范式]]演化（传统地缘政治与[[New Geopolitics|新地缘政治]]）。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理高等教育地缘政治视角的发展脉络、关键议题（人的培养、[[Knowledge Production|知识生产]]、学术流动、跨境合作）和理论[[Paradigm|范式]]演化（[[Classical Geopolitics|传统地缘政治]]与[[New Geopolitics|新地缘政治]]）。

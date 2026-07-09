@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ROE"
 argument_key: "Argument_Marginson_2025_ROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Definition of Terms]]"
+  - "[[Classical Geopolitics]]"
   - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
@@ -186,7 +187,7 @@ citation_aliases:
 
 **3b. 扩展地缘政治的行动者范围** — 地缘政治不只是国家的事——公司(Hartmann, 2021)、NGO、城市和大学也同时活跃于地缘政治场域。国际组织尤其参与其中，尽管主要大国之间的不平等关系更具决定性。
 
-**3c. 论证地缘政治包含合作维度** — 这是对传统地缘政治理解的重要修正。Marginson 指出，地缘政治关系可以是双赢（win-win）也可以是零和（win-lose/z​​ero-sum）。特别是在高等教育的科学领域，地缘政治关系比国家间的政治、经济和军事关系更具**合作性**——尽管高等教育在地缘政治上可能更等级化和不平等(p. 11)。
+**3c. 论证地缘政治包含合作维度** — 这是对[[Classical Geopolitics|传统地缘政治]]理解的重要修正。Marginson 指出，地缘政治关系可以是双赢（win-win）也可以是零和（win-lose/z​​ero-sum）。特别是在高等教育的科学领域，地缘政治关系比国家间的政治、经济和军事关系更具**合作性**——尽管高等教育在地缘政治上可能更等级化和不平等(p. 11)。
 
 > 例：即使在中美关系紧张的 2018–2024 年期间，中美科学家之间的联合发表数量依然巨大——科学合作有自身的逻辑和惯性，不完全随政治关系的波动而起伏。这就是"半自主性"的具体体现。
 

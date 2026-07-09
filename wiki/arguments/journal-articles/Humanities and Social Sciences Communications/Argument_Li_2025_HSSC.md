@@ -39,7 +39,6 @@ related_concepts:
   - "[[Qualitative Codebook]]"
   - "[[Purpose Statement]]"
   - "[[Research Scope]]"
-  - "[[PISA Shock]]"
   - "[[Evidence-Based Education]]"
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
@@ -76,7 +75,7 @@ title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -204,7 +203,7 @@ issuing_organization: ""
 
 > [!dimension] 宏观决策层面的五种表现
 > - **接受新自由主义教育价值并增加教育支出**
->   德国和法国在 [[PISA Shock|PISA 冲击]]后大幅增加教育投入。德国社会在 2000 年 PISA 结果公布时受到冲击：从 1970 年代到 2000 年代初，德国未能创造人力资本，用 OECD 的话说，剥夺了大部分学生获得最佳工作回报所需学术素质的机会（Martens & Niemann, 2013）。PISA 将教育主题直接推上政策议程，强化了政策制定者弥补绩效缺陷的行动。
+>   德国和法国在 PISA 冲击后大幅增加教育投入。德国社会在 2000 年 PISA 结果公布时受到冲击：从 1970 年代到 2000 年代初，德国未能创造人力资本，用 OECD 的话说，剥夺了大部分学生获得最佳工作回报所需学术素质的机会（Martens & Niemann, 2013）。PISA 将教育主题直接推上政策议程，强化了政策制定者弥补绩效缺陷的行动。
 > - **接受能力和素养概念**
 >   日本在 2003 年 PISA 结果公布后，于 2004 年将 PISA 素养正式纳入国家教育政策的核心目标。PISA 素养聚焦高阶能力：问题解决、知识应用、创造性工作和知识回忆（Ninomiya, 2019），为日本教育带来了与以往学力理解不同的新含义。
 > - **影响[[Reference Society|参考社会]]选择**

@@ -16,13 +16,13 @@ tags:
 - region/global
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Snowball Sampling]]"
 related_persons:
   - "[[Stephen Ball]]"
   - "[[John Hattie]]"
+  - "[[Michael Barber]]"
 related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Cognition Education]]"
@@ -64,7 +64,7 @@ updated: '2026-05-18'
 [[Stephen Ball]] (1994) 提出了五重语境框架来理解教育政策制定([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.1–2]])：
 
 1. **影响语境（Context of influence）** 利益群体争夺政策问题的定义和论述
-2. **政策文本生产语境（Context of policy text production）** 政策[[Document|文件]]和相关文本被制作出来
+2. **政策文本生产语境（Context of policy text production）** 政策文件和相关文本被制作出来
 3. **实践语境（Context of practice）** 政策在学校、课堂中被解读和执行
 4. **结果语境（Context of outcomes）** 政策的实际效应和影响
 5. **政治策略语境（Context of political strategy）** 政策所服务/推进的更广泛政治议程
@@ -90,5 +90,5 @@ O'Neill 等的报告主要聚焦第一和第二语境——识别和分析"谁"�
 
 ## 跨国政策创业
 
-Ball (2012) 的概念适用于分析 Pearson 的 Sir Michael Barber 等人物——其以教育思想领导力、风险投资（Pearson Affordable Learning Fund）和数据驱动政策话语（The Learning Curve）在全球范围内塑造学校教育政策论述([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.x, pp.59–64]])。
+Ball (2012) 的概念适用于分析 Pearson 的 [[Michael Barber|Sir Michael Barber]] 等人物——其以教育思想领导力、风险投资（Pearson Affordable Learning Fund）和数据驱动政策话语（The Learning Curve）在全球范围内塑造学校教育政策论述([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.x, pp.59–64]])。
 

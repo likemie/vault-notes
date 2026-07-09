@@ -6,10 +6,10 @@ aliases:
 summary: "知识经济时代围绕毕业生可雇用性形成的比较排序逻辑，文凭只是入场门槛，个体还需通过经历管理和能力展示争取竞争优势"
 type: concept
 domain: "higher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - employability
 - higher-education
@@ -29,6 +29,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Governmentality]]"
   - "[[Academic Engagement]]"
+  - "[[Critical Thinking]]"
   - "[[Causality]]"
   - "[[Goal-Controlled Mode]]"
 related_theories: []

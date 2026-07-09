@@ -7,7 +7,7 @@ aliases:
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Mind-Oriented Learning Process]]"
+  - "[[Critical Thinking]]"
   - "[[Reflexivity]]"
   - "[[Academic Freedom]]"
   - "[[Halo Effect]]"

@@ -20,7 +20,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Ontology]]"
   - "[[Posthumanism]]"
-  - "[[Haraway's SF|SF (Haraway)]]"
+  - "[[Haraway's SF]]"
   - "[[Humosity]]"
   - "[[Epoché]]"
 related_theories:

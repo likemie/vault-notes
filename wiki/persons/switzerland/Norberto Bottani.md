@@ -7,7 +7,7 @@ summary: "瑞士教育政策研究者和OECD指标专家，INES项目创始人�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Epistemology]]"
-  - "[[Internationalization of Higher Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Performativity]]"
   - "[[Science and Technology Studies]]"
@@ -77,7 +76,7 @@ updated: '2026-06-08'
 
 > [!abstract] 主要著作
 > - Bottani, N. (1994). The [[OECD]] [[International Education]] indicators. *Assessment in Education: Principles, Policy and Practice*, 1, 333–350. — 早期综述([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.19]])
-> - Bottani, N. (1996). OECD [[Internationalization of Higher Education|international education]] indicators. *International Journal of Educational Research*, 25, 279–288. — 详述指标的技术框架和挑战
+> - Bottani, N. (1996). OECD international [[Performance Indicators|education indicators]]. *International Journal of Educational Research*, 25, 279–288. — 详述指标的技术框架和挑战
 > - Bottani, N. (1998). The OECD educational indicators: Purposes, limits and production processes. *Prospects*, 28(1), 61–75. — 阐述指标的协作风格和俱乐部效应
 > - Bottani, N. (2008). The oil level, the engine and the car: The stakes involved in assessing the quality of education on the basis of indicators. *Éducation et Société*, 18(2), 11–23. — 幻灭之作，系统批判[[Performance Indicators|绩效指标]]霸权和对指标的误用
 

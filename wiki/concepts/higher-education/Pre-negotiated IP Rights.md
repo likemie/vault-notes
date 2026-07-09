@@ -39,7 +39,7 @@ updated: 2026-06-02
 ## 定义
 
 > [!info]
-> 预先协商知识产权（[[Pre-negotiated IP Rights|pre-negotiated IP rights]]）指在[[University-Industry Collaboration|产学合作]]正式启动前、待开发资产的价值尚未显现时，双方预先确定知识产权归属、使用权和商业化权利的基本框架。其核心策略逻辑是：在概念阶段完成权利框架的建立，避免资产价值明朗化后因双方博弈升级而陷入谈判僵局（p.314）。
+> 预先协商知识产权（pre-negotiated IP rights）指在[[University-Industry Collaboration|产学合作]]正式启动前、待开发资产的价值尚未显现时，双方预先确定知识产权归属、使用权和商业化权利的基本框架。其核心策略逻辑是：在概念阶段完成权利框架的建立，避免资产价值明朗化后因双方博弈升级而陷入谈判僵局（p.314）。
 
 ## 核心机制
 

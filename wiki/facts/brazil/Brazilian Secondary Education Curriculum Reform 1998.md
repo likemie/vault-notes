@@ -10,9 +10,9 @@ subtype: policy
 region: brazil
 fact_region: "brazil"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 tags:
   - theme/curriculum-reform
@@ -22,7 +22,6 @@ tags:
   - level/k12
 related_concepts:
   - "[[Encyclopaedism]]"
-  - "[[Document]]"
   - "[[Floating Signifier]]"
   - "[[Governance by Spin]]"
   - "[[Transfer Translation Transformation]]"
@@ -49,7 +48,7 @@ updated: 2026-06-09
 > [!info]
 > 1990 年代，阿根廷、巴西和智利的中等教育课程改革在官方修辞上强烈批判传统的[[Encyclopaedism|百科全书主义]]（强调学生需记忆大量脱离语境的事实知识），转向以能力发展为导向的教育理念。这一转向呼应了[[OECD]]、世界银行和 UNESCO 等国际机构在全球层面倡导的能力话语。[[Argument_Beech_2009_CE|(Beech, 2009, p. 356)]]
 
-巴西先前的教育形式被官方[[Document|文件]]描述为去语境化、被切割为隔间、基于信息积累。改革的核心目标是将学校知识从碎片化的学科分类转向以跨学科能力为基础的整合框架。[[Argument_Beech_2009_CE|(Beech, 2009, p. 356)]]
+巴西先前的教育形式被官方文件描述为去语境化、被切割为隔间、基于信息积累。改革的核心目标是将学校知识从碎片化的学科分类转向以跨学科能力为基础的整合框架。[[Argument_Beech_2009_CE|(Beech, 2009, p. 356)]]
 
 ---
 
@@ -60,7 +59,7 @@ updated: 2026-06-09
 
 ### 三大领域
 
-课程[[Document|文件]]围绕学生必须发展的基本能力和技能来组织，包括创造力、适应性、学会学习、问题解决，分布在三大领域：
+课程文件围绕学生必须发展的基本能力和技能来组织，包括创造力、适应性、学会学习、问题解决，分布在三大领域：
 
 - **语言、[[Coding in Qualitative Research|编码]]及其技术（Languages, Codes and their Technologies）**
 - **自然科学、数学及其技术（Natural Sciences, Mathematics and their Technologies）**

@@ -7,7 +7,7 @@ aliases:
 summary: "中国对香港和澳门特别行政区的宪制框架，在主张中央不可争议主权的同时承诺高度自治，国安法后官方解释向一国是前提两制从属的方向转变"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,8 +17,7 @@ tags:
   - policy/constitutional
   - theme/national-identity
   - theme/sovereignty
-related_concepts:
-  - "[[Document]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons:
@@ -61,7 +60,7 @@ updated: 2026-05-25
 > 自 1997 年香港回归以来，"一国两制"的官方解释经历了重大转变——尤其是在 2020 年《[[National Security Law|香港国安法]]》颁布之后。
 
 > [!note]- 阶段一：回归初期的"高度自治"解释（1997–2019）
-> 在回归后较长的时期内，"一国两制"在香港公共话语和教育中被普遍理解为保障本地自治的宪制安排。2014 年的 [[Liberal Studies|LS]] 课程框架中，《基本法》被表述为在香港具有"最高地位"的法律[[Document|文件]]，界定"特区与中央政府的管治范围"，从而"维持香港社会稳定"([[Argument_Vickers_2024_CE|Vickers, 2024, p.149]])。在此框架下，"两制"之间的边界被视为相对明确的，香港的法治、公民权利和政治参与得到了有意义的制度保障。
+> 在回归后较长的时期内，"一国两制"在香港公共话语和教育中被普遍理解为保障本地自治的宪制安排。2014 年的 [[Liberal Studies|LS]] 课程框架中，《基本法》被表述为在香港具有"最高地位"的法律文件，界定"特区与中央政府的管治范围"，从而"维持香港社会稳定"([[Argument_Vickers_2024_CE|Vickers, 2024, p.149]])。在此框架下，"两制"之间的边界被视为相对明确的，香港的法治、公民权利和政治参与得到了有意义的制度保障。
 >
 > - 2020 年版 LS 教科书极少直接使用"一国两制"这一术语本身，而是强调《基本法》作为法治基础——这实际上是将概念的内涵偏向"两制"的保障而非"一国"的优先性。
 

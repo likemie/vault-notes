@@ -7,7 +7,7 @@ summary: "法国哲学家、数学家与科学家，近代哲学之父，以我�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 11
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,21 +23,25 @@ tags:
   - theme/metaphysics
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Metacognition]]"
   - "[[Ontology]]"
   - "[[Critical Thinking]]"
+  - "[[Metacognition]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Falsification]]"
   - "[[Reliability]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Socrates]]"
   - "[[Plato]]"
+  - "[[Otto Neurath]]"
   - "[[George Berkeley]]"
   - "[[Immanuel Kant]]"
-  - "[[Otto Neurath]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Zemplen_2007_SciEduc]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -52,8 +56,8 @@ updated: 2026-07-05
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国哲学家、数学家和自然科学家（1596–1650），常被称为近代哲学之父，理性主义传统的奠基人
-> - **核心角色** 以彻底的怀疑为起点，以我思故我在（*Cogito, ergo sum*）为第一确定性，构建了心物二元论的认识论和形而上学体系，标志着西方哲学从经院传统向现代主体性哲学的决定性转向。在数学上发明了解析几何（笛卡尔坐标系），直接影响了微积分的创立
-> - **代表贡献** [[Epistemology|认识论]]的重新奠基（cogito）、心物二元论、解析几何、先天观念论在苏格拉底—柏拉图传统中的顶峰式复兴
+> - **核心角色** 以彻底的怀疑为起点，以我思故我在（*Cogito, ergo sum*）为第一确定性，构建了心物二元论的[[Epistemology|认识论]]和形而上学体系，标志着西方哲学从经院传统向现代主体性哲学的决定性转向。在数学上发明了解析几何（笛卡尔坐标系），直接影响了微积分的创立
+> - **代表贡献** [[Epistemology|认识论]]的重新奠基（cogito）、心物二元论、解析几何、先天观念论在[[Socrates|苏格拉底]]—[[Plato|柏拉图]]传统中的顶峰式复兴
 
 > [!citation-card]- Li 对笛卡尔历史位置的定位
 > 苏格拉底的知识即回忆说、柏拉图的理型论，在西方智识史上一再复苏，在笛卡尔的 cogito 中达到顶峰。[[Argument_Li_2012_Cambridge|(Li, 2012, p.28)]]
@@ -68,7 +72,7 @@ updated: 2026-07-05
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Epistemology]] | Concept | 将认识论确立为哲学的首要问题，取代了经院哲学的本体论优先 |
+> | [[Epistemology]] | Concept | 将认识论确立为哲学的首要问题，取代了经院哲学的[[Ontology\|本体论]]优先 |
 > | [[Ontology]] | Concept | 心物二元论——思维实体与广延实体的根本区分 |
 > | [[Critical Thinking]] | Concept | 笛卡尔怀疑的方法深刻影响了现代批判性思维训练 |
 > | [[Otto Neurath]] | Person | 纽拉特的反基础主义（1913）直接以笛卡尔的基础主义为批判对象 |
@@ -118,7 +122,7 @@ updated: 2026-07-05
 > - **理论路径** 笛卡尔被视为近代哲学之父——他将[[Epistemology|认识论]]（我们如何知道？）确立为哲学的首要问题，取代了经院哲学的[[Ontology|本体论]]优先。此后的斯宾诺莎、莱布尼茨、洛克、[[George Berkeley|贝克莱]]、休谟、[[Immanuel Kant|康德]]全都在回应他设定或遗留的问题（待核）
 > - **数学与科学路径** 笛卡尔坐标系（解析几何）统一了代数和几何，为牛顿和莱布尼茨的微积分奠定了基础。笛卡尔的机械自然观（物质世界即广延 + 运动）构成了牛顿物理学的哲学前提（待核）
 > - **教育路径** 笛卡尔怀疑的方法——将一切既有信念置于审判之下，只接受清晰且明确（clear and distinct）的真理——深刻影响了现代教育中的[[Critical Thinking|批判性思维]]训练
-> - **被批判路径** [[Otto Neurath|纽拉特]]（1913）在《笛卡尔的迷路者》（*Die Verirrten des Cartesius*）中直接挑战了笛卡尔的基础主义。笛卡尔的方法要求先找到绝对确定的起点（cogito），再以此为基础构建知识大厦。纽拉特用一个比喻回应：水手在海上修船，不能回到港口从头开始，只能一块木板一块木板地替换，脚下踩着要被替换的木板来施工。所有知识都是这样——没有笛卡尔式的绝对基础可供依赖。这一反基础主义洞见被 Zemplén 用作 TOK 课堂上替代简化版证伪主义的教学起点。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
+> - **被批判路径** 纽拉特（1913）在《笛卡尔的迷路者》（*Die Verirrten des Cartesius*）中直接挑战了笛卡尔的基础主义。笛卡尔的方法要求先找到绝对确定的起点（cogito），再以此为基础构建知识大厦。纽拉特用一个比喻回应：水手在海上修船，不能回到港口从头开始，只能一块木板一块木板地替换，脚下踩着要被替换的木板来施工。所有知识都是这样——没有笛卡尔式的绝对基础可供依赖。这一反基础主义洞见被 Zemplén 用作 [[Theory of Knowledge|TOK]] 课堂上替代简化版[[Falsification|证伪主义]]的教学起点。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 
 ---
 
@@ -126,8 +130,8 @@ updated: 2026-07-05
 
 > [!person-network] 关系网络
 > - **思想前驱** [[Socrates|苏格拉底]]、[[Plato|柏拉图]]——笛卡尔的先天观念论被视为苏格拉底—柏拉图传统在近代的顶峰式复兴
-> - **继承者/回应者** [[George Berkeley|贝克莱]]、[[Immanuel Kant|康德]]——全都在回应笛卡尔设定或遗留的认识论问题
-> - **批评者** [[Otto Neurath|纽拉特]]——1913 年以迷路者比喻和海上修船隐喻直接挑战笛卡尔的基础主义，提出反基础主义的替代方案
+> - **继承者/回应者** [[George Berkeley|贝克莱]]、[[Immanuel Kant|康德]]——全都在回应笛卡尔设定或遗留的[[Epistemology|认识论]]问题
+> - **批评者** 纽拉特——1913 年以迷路者比喻和海上修船隐喻直接挑战笛卡尔的基础主义，提出反基础主义的替代方案
 
 ---
 
@@ -139,4 +143,4 @@ updated: 2026-07-05
 
 > [!critique] 外部批评
 > - **跨文化适用性** 笛卡尔的普遍怀疑——怀疑感官、身体乃至世界本身——在西方哲学中激发了[[Epistemology|认识论]]的重新奠基，但在 Li 的比较框架中暗示了一个问题：这种以思维优先于感官和身体为核心的心智观，在何种程度上是一种特定的西方文化建构？
-> - **纽拉特的迷路者批判** [[Otto Neurath|纽拉特]]（1913）指出笛卡尔基础主义的一个根本困境：笛卡尔的方法假设你可以找到一个绝对确定的出发点——我思——然后从这里开始构建知识。但纽拉特的迷路者比喻揭示了相反的情境：你在森林中迷路了，无法先找到绝对确定的位置再行动。你已经在森林里了，只能从当前位置出发，边找路边修正方向。知识不是从绝对基础向上构建的，而是在已有知识中不断修正。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
+> - **纽拉特的迷路者批判** 纽拉特（1913）指出笛卡尔基础主义的一个根本困境：笛卡尔的方法[[Hypothesis|假设]]你可以找到一个绝对确定的出发点——我思——然后从这里开始构建知识。但纽拉特的迷路者比喻揭示了相反的情境：你在森林中迷路了，无法先找到绝对确定的位置再行动。你已经在森林里了，只能从当前位置出发，边找路边修正方向。知识不是从绝对基础向上构建的，而是在已有知识中不断修正。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]

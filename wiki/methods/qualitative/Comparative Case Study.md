@@ -8,7 +8,7 @@ summary: "Bartlett 与 Vavrus 提出的比较案例研究方法，通过水平�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
-  - "[[Document]]"
   - "[[International Education Hubs]]"
   - "[[Cultural Diplomacy]]"
   - "[[Scale in Higher Education]]"
@@ -77,7 +76,7 @@ CCS 的核心操作是通过三个分析轴同时对现象进行比较：
 CCS 的研究操作不遵循固定的线性步骤，而是通过三个轴的**同时性**分析展开([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 204]])：
 
 1. **水平比较** 选择两个或多个地点，追踪相似政策如何在各自的社会、政治和经济条件下以不同方式展开。在 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 中，新加坡和阿联酋的教育枢纽政策构成水平比较的两个案例
-2. **垂直追踪** 在每个案例中，追踪政策如何在不同尺度（国家政策[[Document|文件]]、酋长国／部委层面的执行、国际组织的背书与评价）之间流动和转化
+2. **垂直追踪** 在每个案例中，追踪政策如何在不同尺度（国家政策文件、酋长国／部委层面的执行、国际组织的背书与评价）之间流动和转化
 3. **横贯追溯** 将现象放在历史脉络中，考察 1990–2018 年间教育枢纽如何随全球政治经济变迁（冷战结束、亚洲金融危机、全球金融危机）而演变。本章因着重讨论社会政治条件，重点使用横贯维度（Bartlett & Vavrus, 2017, p.92）
 
 三个轴在实际操作中不是先后执行的步骤，而是**同时进行**的分析运动——研究者在分析政策文件时，同时注意跨地点比较（水平）、跨尺度关联（垂直）和历时变迁（横贯）。
@@ -98,7 +97,7 @@ CCS 的研究操作不遵循固定的线性步骤，而是通过三个轴的**�
 
 > [!warning]
 - CCS 对研究者的**多[[Scale in Higher Education|尺度分析]]能力**要求较高——需要同时在三个分析轴上运作，可能导致分析过于宽泛而牺牲深度（基于 Erfurth, 2022, pp.212–213）
-- 如 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 自述，仅比较两个案例、主要依赖政策[[Document|文件]]作为单一数据来源时，CCS 的优势（多尺度、过程性）可能无法充分发挥（pp.212–213）
+- 如 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 自述，仅比较两个案例、主要依赖政策文件作为单一数据来源时，CCS 的优势（多尺度、过程性）可能无法充分发挥（pp.212–213）
 - 三个轴的**同时性**在实际操作中面临挑战——研究者往往只能在某一时刻聚焦于一个或两个轴，完全的"同时性"更接近理想类型
 
 ---

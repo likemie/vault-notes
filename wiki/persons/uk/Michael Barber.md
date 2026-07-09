@@ -9,7 +9,7 @@ summary: "英国政治与教育顾问，“交付学”（Deliverology）体系�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 4
+person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -18,8 +18,7 @@ tags:
   - theme/educational-policy-reform
   - region/uk
 related_concepts:
-  - "[[Policy Science in Comparative Education]]"
-  - "[[Performativity]]"
+  - "[[Performance Indicators]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -42,7 +41,7 @@ updated: '2026-07-04'
 > [!person-profile] 人物档案
 > - **身份位置** 英国政治与教育政策顾问。曾任英国教育与就业部学校标准首席顾问（1997–2001）、托尼·布莱尔内阁首相交付组（Prime Minister's Delivery Unit，PDU）负责人（2001–2005），后担任全球咨询顾问。
 > - **核心角色** 绩效控制管理技术“交付学”（Deliverology）体系的奠基人。在全球范围内推动基于目标设定、数据跟踪和交付问责的公共部门与教育体制量化改革。
-> - **代表贡献** 创立“交付学”改革体系；将国家教育行政机器重组为以绩效指标管理为核心的执行分支。
+> - **代表贡献** 创立“交付学”改革体系；将国家教育行政机器重组为以[[Performance Indicators|绩效指标]]管理为核心的执行分支。
 
 ---
 

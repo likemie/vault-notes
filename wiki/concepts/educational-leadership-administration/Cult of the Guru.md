@@ -154,7 +154,7 @@ updated: 2026-05-18
 > [!example] 相关案例／政策
 > - ACEL 与 Corwin 合作（2015）— 澳大利亚最大的[[School Leadership|学校领导力]]专业协会与 Hattie 的出版商正式合作推广 [[Visible Learning|VL]] 工作坊
 > - [[Australian Institute for Teaching and School Leadership|AITSL]] — Hattie 担任澳大利亚教学与学校领导力研究院主席，其工作已嵌入国家专业标准和认证体系
-> - Melbourne Declaration of Educational Goals for Young Australians（MCEETYA, 2008）— 国家政策[[Document|文件]]的抱负性语调与"需要知道什么最有效"的理性/控制需求之间的张力
+> - Melbourne Declaration of Educational Goals for Young Australians（MCEETYA, 2008）— 国家政策文件的抱负性语调与"需要知道什么最有效"的理性/控制需求之间的张力
 
 
 > [!example] [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] 对大师崇拜商业维度的补充

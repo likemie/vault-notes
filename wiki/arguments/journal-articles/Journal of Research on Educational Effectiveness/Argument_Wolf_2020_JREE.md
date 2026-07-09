@@ -85,7 +85,7 @@ citation_aliases:
 
 > [!example] 核心论证
 > 1. **前提/观察** ESSA 2015 将联邦拨款与项目有效性证据绑定，开发者面临前所未有的经济激励去证明其产品有效(p. 428)
-> 2. **[[Hypothesis|假设]]** 开发者可能通过研究设计特征（更小样本、自编测量）、[[Document|文件]]抽屉效应、[[Researcher Degrees of Freedom|研究者自由度]]三重机制抬高[[Effect Size|效应量]](p. 429)
+> 2. **[[Hypothesis|假设]]** 开发者可能通过研究设计特征（更小样本、自编测量）、文件抽屉效应、[[Researcher Degrees of Freedom|研究者自由度]]三重机制抬高[[Effect Size|效应量]](p. 429)
 > 3. **方法步骤** 使用 [[What Works Clearinghouse|WWC]] 全数据库，先估计零模型，再加入开发者和协[[Variable|变量]]的元回归模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释(pp. 437–438)
 > 4. **结论** 在控制可观测研究设计特征和项目特征后，[[Developer Effect|开发者效应]]仍然存在（全样本差异 0.141 SD，同一干预差异 0.130 SD），[[Publication Bias|发表偏倚]]估计可解释约 66%，但剩余部分不能由现有数据明确解释(pp. 441–443)
 

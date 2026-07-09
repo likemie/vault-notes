@@ -39,7 +39,7 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Oxford UIDP Summit 2019]]"
-  - "[[University of Waterloo Inventor-Owned IP Policy|Inventor-Owned IP Policy (University of Waterloo)]]"
+  - "[[University of Waterloo Inventor-Owned IP Policy]]"
 related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Argument_Dean_2025_UICollaborationSupport]]"

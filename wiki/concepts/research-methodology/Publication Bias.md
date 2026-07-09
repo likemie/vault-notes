@@ -49,7 +49,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 发表偏倚（Publication Bias），也称"[[Document|文件]]抽屉效应"（File Drawer Effect），指具有统计显著或正面结果的研究比零结果或负面结果的研究更有可能被发表或传播的系统性倾向。在教育项目评估中，发表偏倚意味着已发表文献中的平均[[Effect Size|效应量]]可能高估了干预的真实有效性。
+> 发表偏倚（Publication Bias），也称"文件抽屉效应"（File Drawer Effect），指具有统计显著或正面结果的研究比零结果或负面结果的研究更有可能被发表或传播的系统性倾向。在教育项目评估中，发表偏倚意味着已发表[[Document|文献]]中的平均[[Effect Size|效应量]]可能高估了干预的真实有效性。
 >
 > > "Developer-commissioned studies with lackluster results may be withheld to a greater extent than those of independent parties, resulting in more bias due to a 'file drawer effect'." ([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 429, citing Polanin, Tanner-Smith, & Hennessy, 2016]]; Sterling, Rosenbaum, & Weinkam, 1995)
 
@@ -91,12 +91,12 @@ updated: '2026-05-18'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **1940** — Pratt 和 Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中，首次估计了未发表论文对总体汇总效果的影响，这是[[Document|文件]]抽屉问题最早的系统性检测尝试([[Argument_Higgins_2016_RE|Higgins, 2016, p.35]])
+> - **1940** — Pratt 和 Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中，首次估计了未发表论文对总体汇总效果的影响，这是文件抽屉问题最早的系统性检测尝试([[Argument_Higgins_2016_RE|Higgins, 2016, p.35]])
 > - **1995** — Sterling, Rosenbaum & Weinkam 系统记录文件抽屉效应
 > - **1995** — Vevea & Hedges 提出权重函数模型用于[[Meta-analysis|元分析]]中发表偏倚的统计校正
 > - **2016** — Polanin, Tanner-Smith & Hennessy 发表关于已发表与未发表[[Effect Size|效应量]]差异的元综述（meta-review）
 > - **2020** — Wolf et al. 首次将 Vevea-Hedges 校正应用于开发者 vs. 独立研究的效应量比较
-> - **2023** — Kraft 在教育 [[Randomised Controlled Trials|RCT]] 效应量经验分布讨论中指出，发表偏倚意味着教育干预"失败"（效应量接近零）的比例可能高于已发表文献显示的 36%([[Argument_Kraft_2023_ER|Kraft, 2023, pp.183, 186]])
+> - **2023** — Kraft 在教育 [[Randomised Controlled Trials|RCT]] 效应量经验分布讨论中指出，发表偏倚意味着教育干预"失败"（效应量接近零）的比例可能高于已发表[[Document|文献]]显示的 36%([[Argument_Kraft_2023_ER|Kraft, 2023, pp.183, 186]])
 
 ---
 

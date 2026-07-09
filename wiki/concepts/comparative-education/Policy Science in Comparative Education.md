@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育的四种理解形式之一，认为比较教育可以且应该是政策科学，代表人物包括 Holmes 和 King，政治上是与自由民主国家权力的联盟"
 type: concept
 domain: "comparative-education"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,8 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Reflexivity]]"
+  - "[[Pragmatic Paradigm]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -65,17 +67,17 @@ updated: 2026-06-06
 ## 核心要素
 
 > [!abstract]
-> - **本质定位**。政策科学是关于比较教育本质与认识论形式的陈述。该主张认为学科的合理形式和基本功能就是服务政策，它在挣扎着成为、现在已经是、且将更好地成为一门政策科学([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> - **本质定位**。政策科学是关于比较教育本质与[[Epistemology|认识论]]形式的陈述。该主张认为学科的合理形式和基本功能就是服务政策，它在挣扎着成为、现在已经是、且将更好地成为一门政策科学([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 > - **与权力的显性联盟**。政治上并非中性，而是直接与国家机器结盟。具体而言，它是与自由民主国家中的“民主权力”结盟，默认国家权力的合理性与善意。
-> - **关键决策时刻的服务**。这一联盟的核心体现是 Edmund King 所宣称的在国家决策的“关键决策时刻”（critical points of decision），由学者向权力机器提供专业比较建议，提供危机处理的技艺。
+> - **关键决策时刻的服务**。这一联盟的核心体现是 [[Edmund King]] 所宣称的在国家决策的“关键决策时刻”（critical points of decision），由学者向权力机器提供专业比较建议，提供危机处理的技艺。
 
 ---
 
 ## 争议与批评
 
 > [!warning]
-> - **学术批判反思的消解**。政策科学公开与国家权力机器结盟，代价极其高昂：它削弱了学者进行理论批判、保持学者中立性和保持反思性学术距离的可能性，极易沦为合理化特定国家政治议程的行政或咨询工具([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
-> - **实用主义化与理论退化**。这一立场将比较教育降格为解决具体教育问题的“社会应急管道工”（emergency social plumbing），依靠机械移植外国经验解决局部政策危机，导致学科复杂的社会学想象力被抽空，认识论被窄化为解决短期政策目标的工具理性([[Argument_Cowen_2023_CE|Cowen, 2023, p.327, p.333]])。
+> - **学术批判反思的消解**。政策科学公开与国家权力机器结盟，代价极其高昂：它削弱了学者进行理论批判、保持学者中立性和保持[[Reflexivity|反思性]]学术距离的可能性，极易沦为合理化特定国家政治议程的行政或咨询工具([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> - **[[Pragmatic Paradigm|实用主义]]化与理论退化**。这一立场将比较教育降格为解决具体教育问题的“社会应急管道工”（emergency social plumbing），依靠机械移植外国经验解决局部政策危机，导致学科复杂的社会学想象力被抽空，[[Epistemology|认识论]]被窄化为解决短期政策目标的工具理性([[Argument_Cowen_2023_CE|Cowen, 2023, p.327, p.333]])。
 
 ---
 

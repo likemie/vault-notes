@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Innovation Ecosystem]]"
   - "[[Theories of Policy Change]]"
-  - "[[Document]]"
   - "[[Network Governance]]"
   - "[[Doxa]]"
   - "[[Heterogeneity]]"
@@ -91,7 +90,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 
 > [!note]-
 > - 2001 年：里斯本议程启动，首次尝试将创新和教育原则转化为可操作的十年目标([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169]])
-> - 2010 年：欧盟委员会发布《EUROPE 2020: 智能、可持续与包容性增长战略》通讯[[Document|文件]]（European Commission, 2010）
+> - 2010 年：欧盟委员会发布《EUROPE 2020: 智能、可持续与包容性增长战略》通讯文件（European Commission, 2010）
 > - 2011 年：欧盟理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b）
 > - 2013 年：欧盟理事会发布 [[Youth Guarantee Scheme]] 建议书（European Council, 2013）
 > - 2016 年：欧盟委员会发布"新技能议程"（[[EU Skills Agenda]]）（European Commission, 2016）

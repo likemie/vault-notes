@@ -17,7 +17,7 @@ argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 editors:
   - "Parreira do Amaral, M."
-  - "Thompson, C."
+  - "[[Christiane Thompson|Thompson, C.]]"
 publication_place: Cham
 publisher: Springer
 citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation. Cham: Springer."

@@ -130,7 +130,7 @@ updated: 2026-05-20
 > | **核心机制** | [[Knowledge-Based Economization\|知识经济化]]、政治想象、认识论治理 | 权力平衡、地理决定论、势力范围 | 相对收益、贸易壁垒、产业政策 |
 > | **代表学者** | Moisio, Thompson, Parreira do Amaral, Partaken | Mackinder, Ratzel, Kjellén | Luttwak, Blackwill & Harris |
 
-[[Argument_Partaken_2022_Springer|Partaken (2022)]] 从另一角度切入，将 GPK 的概念分析区分为"两面"（two faces）：[[Knowledge Production|知识生产]]（knowledge production）与[[Knowledge Transfer|知识转移]]（[[Knowledge Exchange|knowledge transfer]] / knowledge exchange）。他批评后殖民 GPK 传统过度关注知识生产——即谁生产知识、以何种视角、为谁的利益——而忽视了知识一旦被生产后进入的动态过程：知识在运动中的挪用、传授、窃取、审查、监视和破坏。Partaken 主张 GPK 的真正核心是知识转移而非知识生产（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]]）。
+[[Argument_Partaken_2022_Springer|Partaken (2022)]] 从另一角度切入，将 GPK 的概念分析区分为"两面"（two faces）：[[Knowledge Production|知识生产]]（knowledge production）与[[Knowledge Transfer|知识转移]]（knowledge transfer / [[Knowledge Exchange]]）。他批评后殖民 GPK 传统过度关注知识生产——即谁生产知识、以何种视角、为谁的利益——而忽视了知识一旦被生产后进入的动态过程：知识在运动中的挪用、传授、窃取、审查、监视和破坏。Partaken 主张 GPK 的真正核心是知识转移而非知识生产（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]]）。
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 summary: "研究结论应提供暂定、可修正的担保断言而非确定性证明，可用于评估政策论证是否真正由证据支持而不是靠修辞跳跃推进"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,6 +14,7 @@ tags:
 - evidence-based-policy
 - research-methodology
 related_concepts:
+  - "[[Theory of Knowledge]]"
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -38,7 +39,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Justified warrants（正当化担保）是 Malone & Hogan（2020）基于 Dewey 知识论发展的概念，主张研究应提供经得起批评的、附有保留条件的担保性断言（warranted assertions），而非确定性的"证明"。与追求可复制性和确定性的线性证据观不同，该概念将研究证据视为开放的、可修正的可能性陈述。
+> Justified warrants（正当化担保）是 Malone & Hogan（2020）基于 Dewey [[Theory of Knowledge|知识论]]发展的概念，主张研究应提供经得起批评的、附有保留条件的担保性断言（warranted assertions），而非确定性的"证明"。与追求可复制性和确定性的线性证据观不同，该概念将研究证据视为开放的、可修正的可能性陈述。
 >
 > > "Research guided by expectations of providing warranted assertions, as opposed to certainty, would be more provisional, open to criticism, while also being open to surprise and unexpected nuance"([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.6–7]])
 >

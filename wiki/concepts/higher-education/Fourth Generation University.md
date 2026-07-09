@@ -21,7 +21,7 @@ tags:
   - "theme/higher-education-policy"
 related_concepts:
   - "[[Research Translation]]"
-  - "[[Third Mission|Third Mission (Universities)]]"
+  - "[[Third Mission]]"
   - "[[Knowledge Exchange]]"
   - "[[Knowledge Production]]"
   - "[[Entrepreneurial University]]"

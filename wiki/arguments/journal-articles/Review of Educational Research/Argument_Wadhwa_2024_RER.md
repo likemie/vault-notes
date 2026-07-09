@@ -69,7 +69,7 @@ related_facts:
   - "[[CNCS Evidence Exchange]]"
   - "[[Promise Neighborhoods Research Consortium]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Centre for Independent Studies]]"
+  - "[[Community Innovation Survey]]"
 related_arguments: []
 sources:
   - "[[sources/Wadhwa_2024_RER|Wadhwa_2024_RER]]"

@@ -7,7 +7,7 @@ subtype: event
 region: europe
 fact_region: "europe"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -18,7 +18,6 @@ tags:
   - policy/higher-education
   - level/higher-education
 related_concepts:
-  - "[[Document]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Exchange]]"
   - "[[Professors of Practice]]"
@@ -41,7 +40,7 @@ updated: 2026-06-10
 ## 背景
 
 > [!info]
-> LERU 是由欧洲研究密集型大学组成的联盟，在研究和创新政策领域发布立场[[Document|文件]]和报告，影响欧洲高等教育和科研政策。在 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 上，LERU 2018 年的研究报告《Delivering Talent: Careers of Researchers Inside and Outside Academia》被作为核心参考，讨论了博士和博士后研究者的职业发展问题。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 37-38)]]
+> LERU 是由欧洲研究密集型大学组成的联盟，在研究和创新政策领域发布立场文件和报告，影响欧洲高等教育和科研政策。在 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 上，LERU 2018 年的研究报告《Delivering Talent: Careers of Researchers Inside and Outside Academia》被作为核心参考，讨论了博士和博士后研究者的职业发展问题。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 37-38)]]
 
 ---
 ## 关于博士职业发展的主要发现

@@ -12,21 +12,26 @@ subtype: policy
 region: russia
 fact_region: "russia"
 fact_kind: "policy"
-fact_related_count: 0
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "State Duma of the Russian Federation"
 tags:
   - "policy/regulation"
   - "level/higher-education"
   - "region/russia"
-related_concepts: []
+related_concepts:
+  - "[[Academic Freedom]]"
+  - "[[Scientific Autarky]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Federal Law No. 129-FZ on Undesirable Organizations]]"
+  - "[[Federal Law No. 85-FZ on Enlightenment Activities]]"
+related_arguments:
+  - "[[Argument_Dezhina_2022_ECO]]"
 confidence: medium
 status: draft
 created: '2026-06-30'
@@ -100,7 +105,7 @@ updated: '2026-06-30'
 > > 俄罗斯官方主张该法案是参考美国1938年《外国代理人登记法》（FARA）的对等立法。但学者指出两者存在根本逻辑分歧：
 > > 
 > > - **美国（FARA定位）** 随着历史演变，FARA的监管重点逐步窄化，仅针对直接受外国政府或政治势力“控制或指示”进行政治游说的实体，且由司法部反间谍部门实施，实际诉讼和处罚极为罕见。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, p. 45]])
-> > - **俄罗斯（No. 121-FZ定位）** 俄罗斯的外国代理人立法经历了逆向扩张，认定边界不断扩大，将任何接受境外资金支持或仅在观念上受境外指导的主体都纳入范畴，并大幅提高了刑事和行政处罚强度，将其演变成压制学术自由和公民社会的制度工具。
+> > - **俄罗斯（No. 121-FZ定位）** 俄罗斯的外国代理人立法经历了逆向扩张，认定边界不断扩大，将任何接受境外资金支持或仅在观念上受境外指导的主体都纳入范畴，并大幅提高了刑事和行政处罚强度，将其演变成压制[[Academic Freedom|学术自由]]和公民社会的制度工具。
 
 ---
 

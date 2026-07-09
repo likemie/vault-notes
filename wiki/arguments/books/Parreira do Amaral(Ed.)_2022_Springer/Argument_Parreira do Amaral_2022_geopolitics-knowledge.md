@@ -9,7 +9,7 @@ title: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_key: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_display_title: "Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Geopolitics of Higher Education]]"
   - "[[International Education Hubs]]"
   - "[[Innovation Hub]]"
+  - "[[Critical Thinking]]"
   - "[[Epistemic Governance]]"
   - "[[Champ]]"
   - "[[Document]]"

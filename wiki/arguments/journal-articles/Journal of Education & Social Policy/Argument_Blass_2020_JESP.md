@@ -9,9 +9,9 @@ title: "Argument_Blass_2020_JESP"
 argument_key: "Argument_Blass_2020_JESP"
 argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Education & Social Policy
 citation: "Blass, E. (2020). Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia. Journal of Education & Social Policy, 7(4), 91–97."
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
+  - "[[Critical Thinking]]"
   - "[[Problem-Based Learning]]"
   - "[[Literature Review]]"
   - "[[Surface and Deep Learning]]"

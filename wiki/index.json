@@ -620,7 +620,8 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/PISA Shock.md",
     "aliases": [
-      "国际学生评估项目冲击"
+      "国际学生评估项目冲击",
+      "PISA震动"
     ]
   },
   {
@@ -11953,9 +11954,9 @@
     "type": "fact",
     "path": "wiki/facts/global/International Institute for Educational Planning.md",
     "aliases": [
-      "UNESCO国际教育规划研究所",
       "IIEP",
-      "UNESCO IIEP"
+      "UNESCO IIEP",
+      "国际教育规划研究所"
     ]
   },
   {
@@ -13096,6 +13097,16 @@
     "path": "wiki/facts/us/Communities in Schools.md",
     "aliases": [
       "学校中的社区"
+    ]
+  },
+  {
+    "title": "Comparative and International Education Society",
+    "type": "fact",
+    "path": "wiki/facts/us/Comparative and International Education Society.md",
+    "aliases": [
+      "比较与国际教育学会",
+      "CIES",
+      "Comparative Education Society"
     ]
   },
   {

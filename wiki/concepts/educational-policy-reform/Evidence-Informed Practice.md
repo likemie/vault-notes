@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据视为多种决策资源之一的实践取向，强调教育者通过专业判断整合研究、课堂数据和系统信息来形成行动。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Formative Assessment]]"
   - "[[Homework]]"
-  - "[[Document]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Causality]]"
@@ -83,7 +82,7 @@ updated: '2026-05-23'
 
 EIP 的核心分歧不在“要不要看研究”，而在“研究在决策里是什么地位”。这里研究证据不被理解成直接决定课堂行动的命令，而被理解成进入专业判断过程的一类输入([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.128–129]])。
 
-在欧洲政策语境中，evidence-informed education 还带有制度含义：欧盟[[Document|文件]]通常鼓励成员国使用证据，而不是规定统一证据标准或强制行动线；研究证据也不限于实验研究，而可以包括定性和[[Mixed Methods Research|混合方法]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.26]])。因此，EIP 在欧洲不仅是教师专业判断问题，也是一种适应成员国教育主权和多样化教育系统的政策语言。
+在欧洲政策语境中，evidence-informed education 还带有制度含义：欧盟文件通常鼓励成员国使用证据，而不是规定统一证据标准或强制行动线；研究证据也不限于实验研究，而可以包括定性和[[Mixed Methods Research|混合方法]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.26]])。因此，EIP 在欧洲不仅是教师专业判断问题，也是一种适应成员国教育主权和多样化教育系统的政策语言。
 
 ### 决策信息不止有效性指标
 

@@ -64,7 +64,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Research Excellence Framework]]"
-  - "[[German Excellence Initiative|Excellence Initiative (Germany)]]"
+  - "[[German Excellence Initiative]]"
   - "[[CNRS]]"
   - "[[National Science Foundation]]"
 related_arguments: []
@@ -315,7 +315,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 
 评估机制，质量与绩效测量，正是为这个问题提供答案的制度安排。通过建立教学和科研界的质量标准，评估机制为分配决策制造了客观、公正和"基于功绩"的外观。一个未获得拨款的申请人可以被告知"你的提案不够优秀"，而不是"你不在我们的人脉网络里"。
 
-但评估、测量和排名的过程本质上是**多价的（polyvalent）**(p.809)：它们同时完成三种操作。第一，符号分配：在学术世界的地位等级中定位机构和个体，谁在世界一流、谁在"有国际影响力"。第二，物质分配：决定拨款的流向、职位的配置、研究时间的分配。第三，合法性制造：当不平等的结果出现时（A 大学拿到拨款，B 大学没拿到），评估机制提供了公正的解释，不是因为 B 大学出身不好或人脉不够，而是因为 B 大学不够卓越。
+但评估、测量和排名的过程本质上是**多价的（polyvalent）(p.809)** 它们同时完成三种操作。第一，符号分配：在学术世界的地位等级中定位机构和个体，谁在世界一流、谁在"有国际影响力"。第二，物质分配：决定拨款的流向、职位的配置、研究时间的分配。第三，合法性制造：当不平等的结果出现时（A 大学拿到拨款，B 大学没拿到），评估机制提供了公正的解释，不是因为 B 大学出身不好或人脉不够，而是因为 B 大学不够卓越。
 
 > [!example] 多价性的一个具体场景
 > [[Research Excellence Framework|REF]] 2021 的结果发布后，一所 Russell Group 大学庆祝其 85% 的研究被评为"世界领先或国际优秀"（符号分配），同一套评分却导致一所 1992 年后升格的大学面临预算削减 12% 和三个研究方向关闭（物质分配）。这套标准同时为两种后果提供了看似公正的解释：这是独立专家评审的结果（合法性制造）。详见 [[Research Excellence Framework]]。

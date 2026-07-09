@@ -7,10 +7,10 @@ aliases:
 summary: "大学医学院及其合作教学医院组成的高教与医疗机构，以学术-临床二元结构为特征，在产学临床试验中既是核心执行主体，也因高管理费率和长启动周期构成效率瓶颈"
 type: concept
 domain: "higher-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-trials
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Academic Health System]]"
   - "[[Institutional Review Board]]"
   - "[[Performance Indicators]]"
-  - "[[Document]]"
   - "[[Translational Research]]"
   - "[[Contract Research Organization]]"
 related_theories: []
@@ -101,7 +100,7 @@ AMC 启动缓慢的根源在于多重委员会审查的串行机制：方案审�
 > [!success] 高绩效 AMC 的突破路径
 > 尽管存在上述结构性劣势，部分 AMC 通过组织优化显著缩小了效率差距。拥有高度投入的主要研究者（Principal Investigator, PI）和专门研究支持团队的机构可以在 60 天内完成试验激活——远优于典型 AMC 的 120 天以上([[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp.210–211]])。高绩效 AMC 的关键做法包括：
 > - 专门的监管团队、预算和合同专家以及合规人员并行工作
-> - 使用中心或单一 IRB 依赖协议，在收到监管[[Document|文件]]后高效实施机构修改
+> - 使用中心或单一 IRB 依赖协议，在收到监管文件后高效实施机构修改
 > - 部署 Florence™ eBinders 等数字化监管管理工具
 > - 持续追踪启动绩效指标并与产业方主动沟通激活要求
 

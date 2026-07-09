@@ -41,7 +41,7 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[National Science Foundation]]"
-  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[San Francisco Bay Area]]"

@@ -7,7 +7,7 @@ summary: "英国哲学家，批判实在论创始人，为教育研究在实证�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Governing by Numbers]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -116,7 +117,7 @@ updated: '2026-06-19'
 > [!influence-path] 影响路径
 > - **理论路径** 在科学哲学界树立了[[Critical Realism\|批判实在论]]流派，启发了安德鲁·塞耶（Andrew Sayer）等社会学家对[[Positivism\|实证主义]]方法论的批判。
 > - **方法路径** 成为[[Ray Pawson\|雷·波森]]（Ray Pawson）等人创立 “[[Realist Evaluation\|实在论评估]]” 和 “实在论综合” 的哲学基础，提供了解构 [[Randomised Controlled Trials\|RCT]] 和[[Meta-analysis\|元分析]]的[[Ontology\|本体论]]武器。
-> - **政策路径** 通过特里·里格利（[[Terry Wrigley]]）等人的教育批判研究，进入教育政策和社会学辩论，成为批判新自由主义审计文化与 “以数字治理” 政策的哲学批判工具。
+> - **政策路径** 通过特里·里格利（[[Terry Wrigley]]）等人的教育批判研究，进入教育政策和社会学辩论，成为批判新自由主义审计文化与 “[[Governing by Numbers|以数字治理]]” 政策的哲学批判工具。
 
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 将巴斯卡的开放系统和[[Causality|因果]]机制概念应用于[[Evidence-Based Education|证据本位教育]]，剖析 [[Education Endowment Foundation|EEF]] 评估案例中的简单民间科学观。

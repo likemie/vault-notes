@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Policy Network]]"
   - "[[Document]]"
+  - "[[Governing by Numbers]]"
   - "[[Causality]]"
   - "[[Knowledge Production]]"
   - "[[Variable]]"
@@ -94,7 +95,7 @@ updated: 2026-06-20
 > [!finding-cards] 影响与后果
 > - **跨国[[Policy Network|政策网络]]构建** EEF 通过在美、澳、新等多国扶植镜像组织，成功地将英国的话语体系转化为全球证据标准，成为跨国“理念编排”（idea orchestration）的制度化中介([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
 > - **初始教师教育课程干预** 在澳大利亚 2023 年《强劲开端》报告制定的初始教师教育大纲中，EEF 推荐的科学[[Document|文献]]被列为必修核心课程的指定参考文献，从而直接干预了主权国家的教师能力培养框架。
-> - **证据官僚功能的异化** 尽管 EEF Toolkit 在修辞上被宣称为客观教学指南，但在制度实践中，其真正功能往往转变为满足管理主义的问责需求（“以数字治理”）。在实际政策制定中，政府甚至会回避 Toolkit 代表的学术证据，转而使用非同行评议的 [[Ofsted]] 评级进行决策([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p. 27]])、[[Argument_Cowen_2019_ERE|Cowen, 2019, p. 11]]。
+> - **证据官僚功能的异化** 尽管 EEF Toolkit 在修辞上被宣称为客观教学指南，但在制度实践中，其真正功能往往转变为满足管理主义的问责需求（“[[Governing by Numbers|以数字治理]]”）。在实际政策制定中，政府甚至会回避 Toolkit 代表的学术证据，转而使用非同行评议的 [[Ofsted]] 评级进行决策([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p. 27]])、[[Argument_Cowen_2019_ERE|Cowen, 2019, p. 11]]。
 
 ---
 

@@ -42,9 +42,9 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[University of Waterloo Inventor-Owned IP Policy|Inventor-Owned IP Policy (University of Waterloo)]]"
+  - "[[University of Waterloo Inventor-Owned IP Policy]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
-  - "[[University of Waterloo Global Futures Framework|Global Futures Framework (University of Waterloo)]]"
+  - "[[University of Waterloo Global Futures Framework]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch13_Dean_2025|Ch13_Dean_2025]]"

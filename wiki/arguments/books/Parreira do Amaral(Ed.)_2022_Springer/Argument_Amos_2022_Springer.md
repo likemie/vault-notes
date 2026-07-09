@@ -42,7 +42,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Learner Autonomy]]"
   - "[[Emergence]]"
-  - "[[Haraway's SF|SF (Haraway)]]"
+  - "[[Haraway's SF]]"
   - "[[Humosity]]"
   - "[[Mondialisation]]"
   - "[[Epoché]]"

@@ -2,6 +2,7 @@
 title: PISA Shock
 aliases:
   - 国际学生评估项目冲击
+  - PISA震动
 summary: "2001 年德国首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德国教育政策制定的决定性分水岭，导致全面的教育改革议程"
 type: concept
 domain: "comparative-education"
@@ -61,7 +62,7 @@ updated: 2026-07-08
 > - **触发条件** Martens & Niemann (2013) 指出 PISA 冲击的发生需要两个条件同时满足：PISA 评估内容在国家话语中被赋予权重、国家自我认知与实证结果之间存在巨大落差。
 
 > [!exegesis]- 与其他国家的对比
-> 并非所有 PISA 成绩不佳的国家都经历了 PISA 冲击。美国在 2001 年 PISA 中的表现同样低于国际标准，但 Bieber & Martens (2011) 发现 PISA 结果在美国并未产生类似德国的政策冲击——美国的实证发现只是确认了该国早已达成的共识，即美国教育体系低于国际水平。相比之下，2009 年上海（中国）在 PISA 中的优异表现却触发了美国的政策关注，被奥巴马总统类比为"新的 [[Sputnik Shock 1957|Sputnik 冲击]]"（Martens & Niemann, 2013）。
+> 并非所有 PISA 成绩不佳的国家都经历了 PISA 冲击。美国在 2001 年 PISA 中的表现同样低于国际标准，但 Bieber & Martens (2011) 发现 PISA 结果在美国并未产生类似德国的政策冲击——美国的实证发现只是确认了该国早已达成的共识，即美国教育体系低于国际水平。相比之下，2009 年上海（中国）在 PISA 中的优异表现却触发了美国的政策关注，被奥巴马总统类比为"新的 [[Sputnik Shock 1957|Sputnik]] 冲击"（Martens & Niemann, 2013）。
 
 ---
 

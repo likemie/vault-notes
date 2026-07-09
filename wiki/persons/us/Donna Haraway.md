@@ -19,7 +19,7 @@ tags:
 related_concepts:
   - "[[Posthumanism]]"
   - "[[Sympoiesis]]"
-  - "[[Haraway's SF|SF (Haraway)]]"
+  - "[[Haraway's SF]]"
   - "[[Humility in Learning]]"
   - "[[Response-ability]]"
   - "[[Humosity]]"

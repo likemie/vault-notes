@@ -84,7 +84,7 @@ issuing_organization: ""
 > [!info] 研究方法
 > - **方法** 政策分析与方法论论证（非实证研究）
 > - **发表于** 2002 年 AERA 年会 Dewitt Wallace-Reader's Digest 杰出讲座
-> - **证据基础** 引用美国联邦教育政策[[Document|文件]]（CSR 拨款数据、[[No Child Left Behind Act 2001|NCLB]] 法案文本、OERI 战略计划）、方法论文献、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment|随机化]]评估经验）
+> - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001|NCLB]] 法案文本、OERI 战略计划）、方法论[[Document|文献]]、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment|随机化]]评估经验）
 
 ---
 

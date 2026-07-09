@@ -7,7 +7,7 @@ aliases:
 summary: "Meyer 提出的概念，指大学与社会之间关于毕业生地位、资格和社会认可的不成文约定。"
 type: concept
 domain: "higher-education"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ tags:
 - sociology-of-education
 - level/higher-ed
 related_concepts:
-  - "[[Document]]"
   - "[[Global Universities Rankings]]"
   - "[[Hypothesis]]"
 related_theories: []
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 
 ### 不成文性
 
-社会宪章没有书面载体——不存在一份叫"哈佛社会宪章"的[[Document|文件]]。它通过社会共识和期望隐性运作：学生入学前就已经知道一个模糊但真实的社会预期——四年后将被社会视为什么样的人([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.128]])。
+社会宪章没有书面载体——不存在一份叫"哈佛社会宪章"的文件。它通过社会共识和期望隐性运作：学生入学前就已经知道一个模糊但真实的社会预期——四年后将被社会视为什么样的人([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.128]])。
 
 ### 地位分配功能
 

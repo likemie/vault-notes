@@ -4559,7 +4559,7 @@
   color: rgb(80, 92, 105);
 }
 
-/* ─── frames-ref（思维框架参考卡 — 紧凑双列 + 钢蓝） ──────── */
+/* ─── frames-ref（思维框架参考卡 — 自适应卡片 + 钢蓝） ──────── */
 .callout[data-callout="frames-ref"] {
   --callout-color: 72, 108, 150;
   --callout-icon: lucide-layout-list;
@@ -4579,10 +4579,10 @@
 .callout[data-callout="frames-ref"] .callout-content > ol,
 .callout[data-callout="frames-ref"] .callout-content > ul {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.3rem 0.55rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(26rem, 100%), 1fr));
+  gap: 0.65rem 0.75rem;
   padding-inline-start: 0;
-  margin-block: 0.4rem 0.1rem;
+  margin-block: 0.75rem 0.1rem;
   list-style: none;
   counter-reset: frame;
 }
@@ -4590,37 +4590,43 @@
 .callout[data-callout="frames-ref"] .callout-content > ol > li,
 .callout[data-callout="frames-ref"] .callout-content > ul > li {
   counter-increment: frame;
-  display: flex;
-  align-items: baseline;
-  gap: 0.38rem;
-  padding: 0.32rem 0.55rem;
-  border-radius: 5px;
+  position: relative;
+  display: block;
+  min-width: 0;
+  padding: 0.75rem 0.85rem 0.75rem 3rem;
+  border-radius: 8px;
   background: rgba(72, 108, 150, 0.055);
-  border: 1px solid rgba(72, 108, 150, 0.10);
+  border: 1px solid rgba(72, 108, 150, 0.13);
   font-size: var(--fs-table);
-  line-height: 1.45;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
 }
 
 .callout[data-callout="frames-ref"] .callout-content > ol > li::before,
 .callout[data-callout="frames-ref"] .callout-content > ul > li::before {
   content: counter(frame);
-  flex-shrink: 0;
-  width: 1.1rem;
-  height: 1.1rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.8rem;
+  width: 1.35rem;
+  height: 1.35rem;
   display: grid;
   place-items: center;
   border-radius: 50%;
   background: rgba(72, 108, 150, 0.18);
   color: rgb(65, 130, 195);
-  font-size: 0.72em;
+  font-size: 0.78em;
   font-weight: 800;
-  margin-top: 0.1rem;
 }
 
 .callout[data-callout="frames-ref"] .callout-content > ol > li strong:first-child,
 .callout[data-callout="frames-ref"] .callout-content > ul > li strong:first-child {
   color: rgb(65, 130, 195);
+  display: block;
   font-size: var(--fs-body);
+  line-height: 1.45;
+  margin-bottom: 0.25rem;
+  overflow-wrap: anywhere;
 }
 
 /* 最后一项若为奇数，独占全行 */

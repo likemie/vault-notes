@@ -58,7 +58,7 @@ related_concepts:
   - "[[Alternative Hypothesis]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Reflexivity]]"
-  - "[[Qualitative Validity]]"
+  - "[[Trustworthiness]]"
   - "[[Abstract]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -853,7 +853,7 @@ Furlong & Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（pp
 >
 > - **认识论维度（Epistemic dimension）**
 >   理论与方法论的坚实性：
->   - 可信度（[[Qualitative Validity|trustworthiness]]）
+>   - 可信度（[[Trustworthiness]]）
 >   - 对知识的贡献
 >   - 设计与报告的明晰性
 >   - 合宜性（法律和伦理要求）

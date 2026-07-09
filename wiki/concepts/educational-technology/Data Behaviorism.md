@@ -6,7 +6,7 @@ aliases:
 summary: "Rouvroy 提出的概念，指算法系统通过实时运作绕过解释和符号化等意义建构过程，以行为数据关联取代主观理解的知识生产模式。"
 type: concept
 domain: "educational-technology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Learning Analytics]]"
   - "[[Bildung]]"
+  - "[[Theory of Knowledge]]"
   - "[[Hypothesis]]"
   - "[[Gamification]]"
 related_theories: []
@@ -60,7 +61,7 @@ updated: 2026-05-20
 
 > [!example]
 > - vs [[Bildung]]——Bildung 要求主体主动参与自身的形成过程，通过反思、批判和理解来建构意义（Nordenbo, 2002）；数据行为主义根本绕过了主体——它直接从行为模式中生成"知识"，不要求也不需要主体的理解和参与([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.234–235]])
-> - vs [[Learning Analytics|学习分析]]——学习分析是具体的技术实践（收集、分析和报告学习数据）；数据行为主义是对这种实践所预设的知识论立场的理论概括——它描述的不是技术做了什么，而是技术背后关于"什么是知识"的根本[[Hypothesis|假设]]
+> - vs [[Learning Analytics|学习分析]]——学习分析是具体的技术实践（收集、分析和报告学习数据）；数据行为主义是对这种实践所预设的[[Theory of Knowledge|知识论]]立场的理论概括——它描述的不是技术做了什么，而是技术背后关于"什么是知识"的根本[[Hypothesis|假设]]
 > - vs [[Gamification]]——Gamification 是数据行为主义逻辑在界面设计层面的具体实现：通过积分和徽章追踪和调节行为，不需要理解为什么([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.236–237]])
 
 ## 争议与批评

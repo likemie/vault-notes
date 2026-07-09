@@ -7,7 +7,7 @@ aliases:
 summary: "Ronald Burt（2000）提出的社会网络理论概念，指社会网络中不同群体之间的断连位置，占据这些位置的个体获得信息优势和控制优势。Cai 等（2025）将其从社会网络扩展到空间维度，分析关键节点教师如何填补粤港澳大湾区三个空间维度之间的结构性空洞"
 type: concept
 domain: "sociology-of-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - theme/social-capital
   - theme/higher-education
 related_concepts:
+  - "[[Space Production]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Lefebvre's Spatial Triad]]"
@@ -51,7 +52,7 @@ Burt 的核心洞察是：社会资本不是由网络的"封闭性"（紧密联�
 > - **信息优势** 占据结构洞的个体能够接触不同群体的多样化信息，比只在一个群体内部的个体更早发现机会
 > - **控制优势** 在断连群体之间调解信息流动的能力赋予个体对资源和合作机会的优先获取权
 > - **网络桥接** 结构洞的价值不在于"有多少联系人"，而在于联系人之间"是否互不相连"——即网络的多样性和非冗余性
-> - **空间扩展**Cai 等（2025）将结构洞从社会网络延伸到空间生产维度，指出不同空间维度之间的断连同样是结构性空洞的来源
+> - **空间扩展**Cai 等（2025）将结构洞从社会网络延伸到[[Space Production|空间生产]]维度，指出不同空间维度之间的断连同样是结构性空洞的来源
 
 ---
 ## 在 GBA 研究中的应用

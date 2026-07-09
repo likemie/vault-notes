@@ -9,7 +9,7 @@ aliases:
 summary: "西方学习传统第三主题，苏格拉底的名言代表质疑一切理所当然之事的智识态度，是批判性思维的西方文化根源"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 - theme/critical-thinking
 - theme/learning
 related_concepts:
+  - "[[Critical Thinking]]"
   - "[[Academic Freedom]]"
   - "[[Sage]]"
   - "[[Faust]]"

@@ -8,9 +8,9 @@ type: fact
 subtype: organization
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dcfce7"
 tags:
   - "theme/university-industry-collaboration"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Strategic Partnership]]"
   - "[[Partnership Continuum]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -58,7 +57,7 @@ updated: 2026-05-28
 > [!example]
 > **vs [[University Industry Demonstration Partnership|UIDP]]** UIDP 以解决[[University-Industry Collaboration|产学合作]]的操作性问题为核心（合同模板、[[Partnership Continuum|伙伴关系连续体]]、合作度量指标）；UIIN 更侧重研究出版物和知识分享，其杂志为实践者和研究者提供经验总结和[[Case Study|案例研究]]。
 >
-> **vs [[Network of Academic Corporate Relations Officers|NACRO]]** NACRO 聚焦企业关系职能的专业化和标准制定（白皮书、立场[[Document|文件]]）；UIIN 更具国际网络色彩，通过杂志和活动连接全球产学创新实践者。
+> **vs [[Network of Academic Corporate Relations Officers|NACRO]]** NACRO 聚焦企业关系职能的专业化和标准制定（白皮书、立场文件）；UIIN 更具国际网络色彩，通过杂志和活动连接全球产学创新实践者。
 
 ---
 

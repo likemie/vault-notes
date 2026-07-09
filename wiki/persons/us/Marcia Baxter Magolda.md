@@ -26,8 +26,8 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
 related_persons:
-  - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
+  - "[[Pierre Bourdieu]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -65,7 +65,7 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - 在大学生发展理论领域具有广泛影响，[[Self-Authorship|自我主导性]]被视作高等教育的重要发展目标之一（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - 郑雅君将 Baxter Magolda 的自我主导理论列为建构[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]双模式框架的三个理论灵感来源之一，另外两个为[[Pierre Bourdieu|布迪厄]]的《继承人》和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论
+> - [[Yajun Zheng|郑雅君]]将 Baxter Magolda 的自我主导理论列为建构[[Goal-Controlled Mode|目标掌控模式]]与[[Intuition-Dependent Mode|直觉依赖模式]]双模式框架的三个理论灵感来源之一，另外两个为[[Pierre Bourdieu|布迪厄]]的《继承人》和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论
 > - 在四分类模型中，[[Self-Driven Mode|自主驱动者]]是目标掌控模式与强价值信念的结合——这类学生不仅在认知上达到了 Baxter Magolda 所定义的自我主导性（基于内在信念体系做出判断、形成整合的自我认同、维持真实的人际关系），而且在行动上能有效运用文化工具箱中的策略资源，将自我主导性转化为清晰的生涯目标与行动路线。郑雅君第五章的案例（经纬、彦超、思同、钦凯、宇森、友斌）展示了自主驱动者如何在择业中实现"方向导引"——其内化的价值图式如灯塔般驱动和指引出路选择
 >
 

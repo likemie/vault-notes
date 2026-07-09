@@ -21,7 +21,7 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Posthumanism]]"
   - "[[Humosity]]"
-  - "[[Haraway's SF|SF (Haraway)]]"
+  - "[[Haraway's SF]]"
   - "[[Learning Analytics]]"
 related_theories: []
 related_methods: []

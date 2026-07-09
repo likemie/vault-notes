@@ -10,9 +10,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Causality]]"
   - "[[Performance Indicators]]"
-  - "[[Document]]"
   - "[[Network Governance]]"
   - "[[Lifelong Learning]]"
   - "[[Policy Network]]"
@@ -81,7 +80,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 > [!note]-
 > - 2011 年：欧盟理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b），为 Skills Agenda 奠定政策基础
 > - 2013 年：[[Youth Guarantee Scheme]] 建立，将就业与教育培训衔接制度化
-> - 2016 年：欧盟委员会发布《欧洲新技能议程》通讯[[Document|文件]]（European Commission, 2016）
+> - 2016 年：欧盟委员会发布《欧洲新技能议程》通讯文件（European Commission, 2016）
 > - 2018 年：欧盟委员会发布数字技能与就业联盟行动计划（European Commission, 2018）
 
 ## 实施情况

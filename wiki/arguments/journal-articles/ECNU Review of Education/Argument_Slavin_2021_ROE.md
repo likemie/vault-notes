@@ -29,9 +29,9 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[School Leadership]]"
-  - "[[Document]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Operationalization]]"
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
 related_theories: []
 related_methods:
@@ -72,7 +72,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：国际比较综述（international comparative review）
-> - 数据来源：中国 CNKI 数据库（~5000 篇"教育实证研究"文献计量分析）、五种 CSSCI 期刊 2012-2016 年出版物分析(Wang, 2017)、ECNU 五届教育实证研究论坛资料（2015-2019）、美英政策[[Document|文件]]（ESSA、[[Investing in Innovation Program|i3]]/[[Entrepreneur in Residence|EIR]]、[[Education Endowment Foundation|EEF]]）和网站（[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、Evidence for ESSA、[[Best Evidence in Brief|BEiB]]）
+> - 数据来源：中国 CNKI 数据库（~5000 篇"教育实证研究"文献计量分析）、五种 CSSCI 期刊 2012-2016 年出版物分析(Wang, 2017)、ECNU 五届教育实证研究论坛资料（2015-2019）、美英政策文件（ESSA、[[Investing in Innovation Program|i3]]/[[Entrepreneur in Residence|EIR]]、[[Education Endowment Foundation|EEF]]）和网站（[[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、Evidence for ESSA、[[Best Evidence in Brief|BEiB]]）
 > - 覆盖区域：中国（含大陆和香港）、美国、英国
 
 ## 核心论证

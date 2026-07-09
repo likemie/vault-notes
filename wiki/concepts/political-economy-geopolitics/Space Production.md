@@ -20,7 +20,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Causality]]"
   - "[[New Geopolitics]]"
-  - "[[Infrastructures of Immobility|Infrastructures of (Im)mobility]]"
+  - "[[Infrastructures of Immobility]]"
   - "[[Champ]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Document]]"

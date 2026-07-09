@@ -7,7 +7,7 @@ summary: "利用个人通信、报纸报道和外交函件等一手档案资料�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 6
+method_related_count: 5
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[International Education]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Historical Document Analysis of Curriculum]]"
@@ -91,7 +90,7 @@ updated: 2026-05-26
 ## 方法变体与相近方法
 
 > [!tip]-
-> - [[Historical Document Analysis of Curriculum]] — 聚焦课程[[Document|文件]]（课程标准、教科书等）的历史分析；档案通信分析更关注个人和机构间的互动记录。
+> - [[Historical Document Analysis of Curriculum]] — 聚焦课程文件（课程标准、教科书等）的历史分析；档案通信分析更关注个人和机构间的互动记录。
 > - 口述历史（Oral History） — 同为历史重建方法，但以访谈为资料来源；可与档案通信分析互补使用。
 
 ---

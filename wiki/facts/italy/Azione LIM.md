@@ -10,7 +10,7 @@ subtype: policy
 region: italy
 fact_region: "italy"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ tags:
   - theme/evidence-based-education
   - policy/technology-integration
 related_concepts:
-  - "[[Document]]"
   - "[[Effective Teaching]]"
   - "[[Effect Size]]"
   - "[[Technology Infusion]]"
@@ -45,7 +44,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> Azione LIM 是意大利教育部在 2008 年推动的互动白板行动。它出现在意大利官方[[Document|文件]]强调学校技术使用的政策背景中，体现了教育系统把技术创新引入课堂的趋势([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])。
+> Azione LIM 是意大利教育部在 2008 年推动的互动白板行动。它出现在意大利官方文件强调学校技术使用的政策背景中，体现了教育系统把技术创新引入课堂的趋势([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])。
 
 ## 政策文本摘要
 

@@ -7,7 +7,7 @@ title: "Argument_Bogliacino_Pianta_2016_EP"
 argument_key: "Argument_Bogliacino_Pianta_2016_EP"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Analytic Framework]]"
   - "[[Blue Skies Research]]"
-  - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
   - "[[Competitiveness]]"
@@ -48,8 +47,8 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Community Innovation Survey]]"
-  - "[[Centre for Independent Studies]]"
   - "[[Sectoral Innovation Database]]"
+  - "[[Centre for Independent Studies]]"
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
 sources:
@@ -143,7 +142,7 @@ updated: 2026-06-10
 > [!line-a] 专业供应商型（Specialized Suppliers, SS）
 > 生产资本品（设备和仪器）供给其他行业使用。核心特征是创新通过**设计改进**和**与客户的持续互动**产生，，不依赖正式的研发项目。企业通常为中小企业，研发密集度中等偏高，但创新的关键投入是专业知识和工程能力而非大规模的研发支出。
 >
-> 典型制造业包括机械工程和精密仪器。Pavitt 指出，SS 企业的"创新常常是隐性的——嵌入在工程师的头脑和手指中，而非专利[[Document|文件]]中"。这种创新模式使它们在创新来源上介于 SB 和 SI 之间（pp.156-158）。
+> 典型制造业包括机械工程和精密仪器。Pavitt 指出，SS 企业的"创新常常是隐性的——嵌入在工程师的头脑和手指中，而非专利文件中"。这种创新模式使它们在创新来源上介于 SB 和 SI 之间（pp.156-158）。
 
 > [!line-a] 规模密集型（Scale Intensive, SI）
 > 创新嵌入在大规模生产流程中，**规模经济**是核心驱动力。创新既包括流程创新，通过持续改进降低单位成本，也包括产品创新，属于渐进式改进。企业以大企业为主，通常运营连续流程或大规模装配线。

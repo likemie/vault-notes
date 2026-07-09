@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、开放的教学情境中整合研究知识、伦理标准和方法原则做出决策的能力，是把概率性的研究证据转化为具体教育行动的关键解释性中介"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
+  - "[[Governing by Numbers]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
   - "[[Formative Assessment]]"
@@ -127,7 +128,7 @@ updated: 2026-06-19
 
 ---
 
-> [!claim] 命题二：技术官僚的数字治理剥夺了教师的专业判断
+> [!claim] 命题二：技术官僚的[[Governing by Numbers|数字治理]]剥夺了教师的专业判断
 > 新自由主义政策盛行“以数字治理”，通过 [[Education Endowment Foundation|EEF]] 教学与学习工具包等排行榜仪表盘，向校长和教师推销“什么有效（what works）”的效率修辞。这种审计文化故意剥夺了关于教育目的（“为了什么目的，to what ends”）的价值探讨，迫使教师成为依照标准化清单进行技术传递的装配工人，导致了教师群体的严重去专业化（De-professionalisation）。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 4, 16; Biesta, 2010]])
 >
 > > [!implication]- 命题二的解释与实践后果

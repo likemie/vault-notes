@@ -9,7 +9,7 @@ aliases:
 summary: "在粒子物理、受控热核聚变等前沿物理领域建设的独特、高成本、大型科研基础设施。此类装置传统上依靠国际多边合作，但在地缘政治限制下也出现本土独资化建设的趋势。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,12 +17,17 @@ tags:
   - "theme/science-policy"
   - "level/higher-education"
   - "region/global"
-related_concepts: []
+related_concepts:
+  - "[[Paradigm]]"
+  - "[[Scientific Autarky]]"
+  - "[[Blue Skies Research]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Dezhina_2022_ECO]]"
 confidence: medium
 status: draft
 created: '2026-06-30'
@@ -63,7 +68,7 @@ updated: '2026-06-30'
 > [!concept-lens] 出资路径与治理模式的选择
 > 围绕大科学装置是应当遵循“多边国际联合共建”还是“本土单边独资建设”的战略抉择展开。
 
-> [!claim] 国际联合共建范式（多边范式）
+> [!claim] 国际联合共建[[Paradigm|范式]]（多边范式）
 > 由于大科学装置在技术和财务上面临极高的双重风险，国际主流实践普遍确立了多国联合出资的治理模型。例如，美国在取消了预算超支的超导超级对撞机（SSC）项目后，承认单边负担大型对撞机在财务上不具可行性，转而深度参与欧洲核子研究中心（CERN）的多边合作，以降低财政合规风险。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, p. 48]])
 
 > [!claim] 本土单边独资范式（自足范式）
@@ -76,7 +81,7 @@ updated: '2026-06-30'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **国际联合共建范式** | 分摊财政成本，促进全球物理学界要素流动与技术外溢，避免低水平重复。 | 开放的国际学术协作区（如CERN、ITER） | [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]]; American Academy of Arts & Sciences (2020) |
+> | **国际联合共建范式** | 分摊财政成本，促进全球物理学界要素流动与技术外溢，避免低水平重复。 | 开放的国际学术协作区（如CERN、ITER） | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]]; American Academy of Arts & Sciences (2020) |
 > | **本土单边独资范式** | 在地缘政治限制下确保技术主权，但承受极高的财政预算压力与科研孤立风险。 | 地缘政治脱钩与自给自足转型期 | Dezhina & Egerev; Bitzinger (2015) |
 
 ---
@@ -86,7 +91,7 @@ updated: '2026-06-30'
 > [!dev-timeline] 概念演变
 > - **1950s–1980s — 冷战多边科学外交** CERN等国际核子研究中心成立，大科学装置作为冷战时期缓和地缘关系、共享基础物理研究成果的多边外交平台得到蓬勃发展。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, p. 48]])
 > - **1990s — 单边主义挫折与合作深化** 美国超导超级对撞机（SSC）因超支在1993年被国会叫停，标志着单边主义强推大科学装置时代的终结，国际物理学界全面确立了共建共享的多边合作共识。
-> - **2010s 至今 — 地缘政治回潮与单边本土化** 地缘政治波及和科技主权焦虑上升，俄罗斯等国转向由本国财政独立负担的本土大科学装置建设，大科学装置重新成为大国博弈和科学自给自足政策的焦点投影面。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, pp. 47–48]])
+> - **2010s 至今 — 地缘政治回潮与单边本土化** 地缘政治波及和科技主权焦虑上升，俄罗斯等国转向由本国财政独立负担的本土大科学装置建设，大科学装置重新成为大国博弈和[[Scientific Autarky|科学自给自足]]政策的焦点投影面。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, pp. 47–48]])
 
 ---
 
@@ -107,7 +112,7 @@ updated: '2026-06-30'
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] | 俄罗斯与美国科研基建与预算对比 | 政策分析与国家预算对比 | 国家研发预算体量对比 | 美国科学 research and 研发总预算是俄罗斯的 13 倍，揭示了俄罗斯追求单边大科学装置面临的巨大财政鸿沟。 | — | 仅说明宏观预算差异，不能推断具体学科的配置效能。 |
 

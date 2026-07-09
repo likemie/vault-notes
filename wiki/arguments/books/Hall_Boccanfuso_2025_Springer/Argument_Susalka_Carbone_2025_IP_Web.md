@@ -18,7 +18,6 @@ related_concepts:
   - "[[Foreground IP]]"
   - "[[Background IP]]"
   - "[[Technology Transfer]]"
-  - "[[Document]]"
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer Office]]"
 related_theories: []
@@ -41,7 +40,7 @@ title: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_key: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_display_title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_kind: "book"
-argument_related_count: 11
+argument_related_count: 10
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -81,7 +80,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 实践指南类章节，基于作者在美国[[Technology Transfer|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识[[Document|文件]]系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 [[MN-IP Create]] 项目实例。非实证研究，无系统数据收集。
+> 实践指南类章节，基于作者在美国[[Technology Transfer|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识文件系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 [[MN-IP Create]] 项目实例。非实证研究，无系统数据收集。
 
 ---
 

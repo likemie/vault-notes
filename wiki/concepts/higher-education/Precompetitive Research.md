@@ -22,7 +22,7 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Advanced Manufacturing Research Centre|Advanced Manufacturing Research Centre (AMRC)]]"
+  - "[[Advanced Manufacturing Research Centre]]"
   - "[[Semiconductor Research Corporation]]"
 related_arguments:
   - "[[Argument_Narayan_Spohrer_2025_Metrics]]"

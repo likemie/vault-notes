@@ -9,10 +9,10 @@ aliases:
 summary: "用于入学前咨询和项目匹配的数字化自我评估工具，通常通过问卷和测试引导潜在学生评估自身特征、准备程度和就读适配性。"
 type: concept
 domain: "higher-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - osas
 - student-admission
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
   - "[[Digital Optimum]]"
-  - "[[Document]]"
   - "[[Governmentality]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Integration in Mixed Methods]]"
@@ -85,7 +84,7 @@ OSA 的运作依赖三个相互衔接的数据过程([[Argument_Thompson_2022_Pr
 
 ### 三种战略功能
 
-Thompson 等人（2022, pp.223–224）从大学政策[[Document|文件]]和进展报告中识别出 OSA 的三种战略意义：
+Thompson 等人（2022, pp.223–224）从大学政策文件和进展报告中识别出 OSA 的三种战略意义：
 
 1. **发现人才（talent discovery）** 寻找"最适合"项目的申请者，以资源导向识别学生的潜在优势，而不仅是指出缺陷
 2. **降低成本和风险（reduction of costs and risks）** 通过促进"有根据的自我选择"，提前减少潜在的辍学率，避免大学的资源投入无回报

@@ -34,7 +34,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[German Excellence Initiative|Excellence Initiative (Germany)]]"
+  - "[[German Excellence Initiative]]"
   - "[[Research Excellence Framework]]"
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"

@@ -5,7 +5,7 @@ aliases:
 summary: "以实验有效性证据作为选择教育项目和产品核心标准的改革框架，强调开发、评估、推广和政策激励之间的联动循环。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 66
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,8 +20,8 @@ tags:
 - region/uk
 related_concepts:
   - "[[School Leadership]]"
-  - "[[Document]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Causality]]"
   - "[[Research Utilization]]"
@@ -89,7 +89,6 @@ related_arguments:
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Peterson_2016_IJRME]]"
-  - "[[Argument_Simpson_2017_JEP]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -122,7 +121,7 @@ updated: '2026-05-24'
 
 ### 欧洲证据政策进展
 
-欧洲的证据本位改革路径比美国 ESSA 式证据标准更软。欧盟层面从 2006 年开始通过评价文化、知识本位政策[[Document|文件]]、ET 2020 进展监测、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 知识中介网络和 Eurydice 支持机制鼓励成员国在教育政策中使用证据；但这些文件主要是指导和协调，而不是强制规定统一行动线([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.28-31, 41-42]])。详见 [[EU Evidence-Informed Education Policy Initiatives]]。
+欧洲的证据本位改革路径比美国 ESSA 式证据标准更软。欧盟层面从 2006 年开始通过评价文化、知识本位政策文件、ET 2020 进展监测、[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 知识中介网络和 Eurydice 支持机制鼓励成员国在教育政策中使用证据；但这些文件主要是指导和协调，而不是强制规定统一行动线([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.28-31, 41-42]])。详见 [[EU Evidence-Informed Education Policy Initiatives]]。
 
 这种路径使欧洲更常采用 evidence-informed education 的表述：证据来源不限于实验研究，也包括定性和[[Mixed Methods Research|混合方法]]；政策上则强调为成员国提供方向，而非像 ESSA 那样把拨款和项目证据等级直接绑定([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.26]])。欧洲推进 EBR 的主要障碍不是“是否需要证据”，而是 43 个教育系统、24 种官方语言和不同课程标准使经验证项目难以直接跨国复用([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.36]])。
 

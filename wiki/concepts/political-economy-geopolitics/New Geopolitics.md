@@ -15,13 +15,13 @@ tags:
   - paradigm/constructivism
 related_concepts:
   - "[[Constructivist Paradigm]]"
+  - "[[Classical Geopolitics]]"
   - "[[Ontology]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
   - "[[Governmentality]]"
   - "[[Geopolitics of Higher Education]]"
-  - "[[Classical Geopolitics]]"
   - "[[Theoretical Standpoint]]"
 related_theories:
   - "[[Critical Geopolitics]]"
@@ -42,7 +42,7 @@ updated: 2026-06-26
 ## 定义
 
 > [!def] 核心定义
-> 新地缘政治（New Geopolitics）是20世纪90年代以来以[[Critical Geopolitics|批判地缘政治]]（Critical Geopolitics）为代表的一系列地缘政治理论的统称。它采取[[Constructivist Paradigm|建构主义]]立场，与处于物质—实践端的传统地缘政治形成[[Ontology|本体论]]上的根本差异：空间不是政治活动的客观背景，而是经由命名、叙述、分类及治理等话语实践不断生产与重组的社会政治产物；权力不再主要体现为军事力量或对领土的直接控制，而是表现为通过[[Knowledge Production|知识生产]]、话语建构、规范制定与日常治理实现的空间秩序塑造能力。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 11–12)]]
+> 新地缘政治（New Geopolitics）是20世纪90年代以来以[[Critical Geopolitics|批判地缘政治]]（Critical Geopolitics）为代表的一系列地缘政治理论的统称。它采取[[Constructivist Paradigm|建构主义]]立场，与处于物质—实践端的[[Classical Geopolitics|传统地缘政治]]形成[[Ontology|本体论]]上的根本差异：空间不是政治活动的客观背景，而是经由命名、叙述、分类及治理等话语实践不断生产与重组的社会政治产物；权力不再主要体现为军事力量或对领土的直接控制，而是表现为通过[[Knowledge Production|知识生产]]、话语建构、规范制定与日常治理实现的空间秩序塑造能力。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 11–12)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 新地缘政治不是传统地缘政治的升级版或替代品，而是在本体论上与后者形成延续与互补关系的另一种[[Paradigm|范式]]。它在"地缘政治是物质性还是观念性"和"是科学性（知识）还是实践性（行动）"两个本体论问题上选择了观念—科学端。
@@ -67,7 +67,7 @@ updated: 2026-06-26
 
 ## 概念辨析
 
-> [!contrast-table] 与传统地缘政治的辨析
+> [!contrast-table] 与[[Classical Geopolitics|传统地缘政治]]的辨析
 > | 维度 | 新地缘政治 | [[Classical Geopolitics]] / 传统地缘政治 |
 > |------|-----------|------------------------------------------|
 > | [[Ontology\|本体论]]位置 | 观念—科学端 | 物质—实践端 |
@@ -82,7 +82,7 @@ updated: 2026-06-26
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1945–1990 — 传统地缘政治在西方学术界影响式微** 二战结束后，传统地缘政治因与纳粹"生存空间"理论的关联而在西方学术界被边缘化，为数十年的理论反思与[[Paradigm|范式]]转型创造条件。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 12)]]
+> - **1945–1990 — [[Classical Geopolitics|传统地缘政治]]在西方学术界影响式微** 二战结束后，传统地缘政治因与纳粹"生存空间"理论的关联而在西方学术界被边缘化，为数十年的理论反思与[[Paradigm|范式]]转型创造条件。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 12)]]
 > - **1990s — [[Critical Geopolitics|批判地缘政治]]兴起** 以批判地缘政治为代表的新地缘政治理论逐渐兴起。其哲学基础源于法兰克福学派及西方马克思主义，空间被解构为生成性的关系结构，权力被重新定义为通过[[Knowledge Production|知识生产]]与话语建构实现的空间秩序塑造能力。
 > - **2010s后期至今 — 与传统地缘政治的复合嵌套** 大国竞争回归、技术民族主义兴起和全球治理碎片化，使得地缘政治的"物质性"与"实践性"重新凸显。[[Geopolitics of Higher Education|高等教育地缘政治]]研究呈现传统与新地缘政治范式并存、相互嵌套的复合形态——在吸收批判地缘政治关于空间社会生产和话语建构成果的基础上，重新纳入物质权力分析。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 
@@ -91,4 +91,4 @@ updated: 2026-06-26
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统阐释新地缘政治与传统地缘政治在[[Ontology|本体论]]上的差异，以及两种[[Paradigm|范式]]在当代[[Geopolitics of Higher Education|高等教育地缘政治]]研究中的复合嵌套形态。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统阐释新地缘政治与[[Classical Geopolitics|传统地缘政治]]在[[Ontology|本体论]]上的差异，以及两种[[Paradigm|范式]]在当代[[Geopolitics of Higher Education|高等教育地缘政治]]研究中的复合嵌套形态。

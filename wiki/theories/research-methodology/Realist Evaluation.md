@@ -10,7 +10,7 @@ aliases:
 summary: "由 Ray Pawson 和 Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Heterogeneity]]"
+  - "[[Governing by Numbers]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -130,7 +131,7 @@ updated: '2026-06-19'
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 替代传统的 [[Evidence-Based Education|EBE]] “什么有效”框架，分析政策在不同地域、学校或班级中实施时产生的[[Heterogeneity|异质性]]结果。
 > - **作为分析工具** 在评估具体教育项目（如项目制学习、合成拼读）时，构建 CMO 矩阵，[[Coding in Qualitative Research|编码]]并提取影响效果的深层组织和交互因素。
-> - **作为批判视角** 审查审计文化（Audit Culture）与“数字治理”（Governance by Numbers）。向决策者解释“为什么”此干预在此处成功而在彼处失败，而非仅提供一个效应量数字。
+> - **作为批判视角** 审查审计文化（Audit Culture）与“[[Governing by Numbers|数字治理]]”（Governance by Numbers）。向决策者解释“为什么”此干预在此处成功而在彼处失败，而非仅提供一个效应量数字。
 > - **报告方式** 撰写内容丰富的机制叙事报告，向决策者解释“为什么”此干预在此处成功而在彼处失败，而非仅提供一个效应量数字。
 
 > [!logic-map]- 实在论综合研究流程图

@@ -26,7 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Third Mission|Third Mission (Universities)]]"
+  - "[[Third Mission]]"
 related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 related_facts:

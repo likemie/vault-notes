@@ -21,17 +21,17 @@ related_concepts:
   - "[[Geopolitics of Higher Education]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
+  - "[[Classical Geopolitics]]"
   - "[[New Geopolitics]]"
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
   - "[[Epistemology]]"
-  - "[[Infrastructures of Immobility|Infrastructures of (Im)mobility]]"
+  - "[[Infrastructures of Immobility]]"
   - "[[Space Production]]"
   - "[[Governmentality]]"
   - "[[Knowledge Production]]"
   - "[[Epistemic Coloniality]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Classical Geopolitics]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Cultural Diplomacy]]"
   - "[[Global Citizenship]]"
@@ -95,7 +95,7 @@ journal: "高等教育研究"
 > 全球地缘政治竞争加剧正在深刻重塑高等教育的合作发展格局，而中文[[Document|文献]]中对[[Geopolitics of Higher Education|高等教育地缘政治]]意义的研究缺乏系统梳理。地缘政治视角在高等教育研究中经历了怎样的发展脉络，围绕哪些关键议题展开，其理论[[Paradigm|范式]]如何演化？
 
 > [!claim] 核心主张
-> 高等教育始终具有地缘政治属性，对它的地缘政治研究经历了一个从相对不可见到非自觉再到自觉的转变过程。围绕地缘政治是物质性还是观念性、是科学性（知识）还是实践性（行动）这两个[[Ontology|本体论]]问题，可分出传统地缘政治与[[New Geopolitics|新地缘政治]]两种范式，二者并非替代关系而是延续与互补。在当代多极化和碎片化的世界中，高等教育可以发挥能动性，通过积极参与世界空间秩序的建构与重构，为全球共同善作出贡献。
+> 高等教育始终具有地缘政治属性，对它的地缘政治研究经历了一个从相对不可见到非自觉再到自觉的转变过程。围绕地缘政治是物质性还是观念性、是科学性（知识）还是实践性（行动）这两个[[Ontology|本体论]]问题，可分出[[Classical Geopolitics|传统地缘政治]]与[[New Geopolitics|新地缘政治]]两种范式，二者并非替代关系而是延续与互补。在当代多极化和碎片化的世界中，高等教育可以发挥能动性，通过积极参与世界空间秩序的建构与重构，为全球共同善作出贡献。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 国际文献中高等教育地缘政治视角的发展脉络、关键议题和理论范式演化。
@@ -115,7 +115,7 @@ journal: "高等教育研究"
 > | **认识论殖民**<br>[[Epistemic Coloniality]] | 揭示全球知识体系以欧洲中心主义[[Epistemology\|认识论]]为基础，通过学术语言、量化评估标准和西方理论[[Paradigm\|范式]]构建排他性知识规则系统。用于分析排名、出版平台和科学语言如何维系[[Geopolitics of Knowledge\|知识地缘政治]]中的西方中心秩序。 |
 
 > [!warrant]- 理论如何支撑论证
-> 该文不是用单一理论框架去分析经验材料，而是以空间与权力的关系为组织线索，将地缘政治理论自身的范式演变作为分析对象，梳理传统地缘政治与新地缘政治在[[Ontology|本体论]]上的分化如何影响对高等教育角色（客体、载体还是行动者）的理解。空间生产理论的三元维度（物质性、表征性、关系性）为整合四项关键议题（人的培养、知识生产、学术流动、跨境合作）提供了统一的分析视角。
+> 该文不是用单一理论框架去分析经验材料，而是以空间与权力的关系为组织线索，将地缘政治理论自身的范式演变作为分析对象，梳理[[Classical Geopolitics|传统地缘政治]]与新地缘政治在[[Ontology|本体论]]上的分化如何影响对高等教育角色（客体、载体还是行动者）的理解。空间生产理论的三元维度（物质性、表征性、关系性）为整合四项关键议题（人的培养、知识生产、学术流动、跨境合作）提供了统一的分析视角。
 
 ---
 

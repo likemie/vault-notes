@@ -16,10 +16,10 @@ tags:
 - knowledge-economy
 - region/global
 related_concepts:
-  - "[[Knowledge Exchange]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Production]]"
+  - "[[Knowledge Exchange]]"
   - "[[Junzi]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
@@ -62,7 +62,7 @@ updated: '2026-05-18'
 # Knowledge Transfer
 
 > [!warning]- 术语歧义
-> "[[Knowledge Exchange|knowledge transfer]]"（知识转移）在教育研究中有两种不同的使用脉络：
+> "knowledge transfer"（知识转移）在教育研究中有两种不同的使用脉络：
 > - **含义一（地缘政治意义）**[[Argument_Partaken_2022_Springer|Partaken (2022)]]在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）框架下的概念，指知识在被生产后进入挪用、流通、审查、窃取或破坏等动态过程——知识在权力关系中的"运动"
 > - **含义二（[[University-Industry Collaboration|产学合作]]意义）** 在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，指知识在大学与产业之间的流动——包括从非正式的人际交流到高度结构化的合同协议的全谱系
 >
@@ -75,7 +75,7 @@ updated: '2026-05-18'
 ### 定义
 
 > [!info]
-> [[Argument_Partaken_2022_Springer|Partaken (2022)]] 提出，[[Geopolitics of Knowledge|知识地缘政治]]（GPK）的核心问题域应从[[Knowledge Production|知识生产]]（knowledge production）转向知识转移（[[Knowledge Exchange|knowledge transfer]]）。知识一旦被生产即进入挪用过程，成为知识生产者与获取者之间互动的对象——知识此时处于运动之中，可以被教授、学习、出售、购买、窃取、审查、分级、规定或公之于众。这一系列可能的运动统称为"知识转移"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.74–75]])。
+> [[Argument_Partaken_2022_Springer|Partaken (2022)]] 提出，[[Geopolitics of Knowledge|知识地缘政治]]（GPK）的核心问题域应从[[Knowledge Production|知识生产]]（knowledge production）转向知识转移（knowledge transfer）。知识一旦被生产即进入挪用过程，成为知识生产者与获取者之间互动的对象——知识此时处于运动之中，可以被教授、学习、出售、购买、窃取、审查、分级、规定或公之于众。这一系列可能的运动统称为"知识转移"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.74–75]])。
 
 > [!quote]
 > "Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of 'knowledge in motion' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship."([[Argument_Partaken_2022_Springer|Partaken, 2022, p.84]])
@@ -160,7 +160,7 @@ updated: '2026-05-18'
 ### 定义
 
 > [!info]
-> 在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，知识转移（[[Knowledge Exchange|knowledge transfer]]）指知识在大学与产业之间的流动——包括从非正式的个人交流到高度结构化的合同协议的全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.55]]）。
+> 在[[University-Industry Collaboration|产学合作]]和创新研究脉络中，知识转移（knowledge transfer）指知识在大学与产业之间的流动——包括从非正式的个人交流到高度结构化的合同协议的全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.55]]）。
 
 与[[Technology Transfer|技术转移]]不同，知识转移是一个更宽泛的概念：技术转移特指通过知识产权制度（专利、许可、衍生企业）进行的**商业化导向**的知识流动，而知识转移还包括非商业化的、非正式的知识流动——学术[[Document|文献]]、会议报告、校友网络中的信息交流、学生实习中的技能传递，以及教师咨询中的隐性知识分享（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.53–55]]）。
 

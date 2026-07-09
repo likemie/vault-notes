@@ -11,7 +11,7 @@ title: "Argument_SpronkenSmith_2024_AEHE"
 argument_key: "Argument_SpronkenSmith_2024_AEHE"
 argument_display_title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Outcomes-based Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Hypothesis]]"
+  - "[[Critical Thinking]]"
   - "[[Lifelong Learning]]"
   - "[[Document]]"
   - "[[Sample Size Determination]]"

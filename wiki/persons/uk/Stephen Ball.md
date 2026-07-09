@@ -7,10 +7,10 @@ summary: "英国教育社会学家，教育政策语境理论与私有化分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
   - stephen-ball
   - education-policy
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
+  - "[[Governing by Numbers]]"
   - "[[Document]]"
   - "[[Recontextualization]]"
   - "[[Evidence-Based Education]]"
@@ -93,7 +94,7 @@ updated: '2026-06-19'
 
 > [!work-line] 主要著作
 > - **1994 — *Education Reform: A Critical and Post-structural Approach***：奠定了政策社会学的批判框架，系统阐明了政策文本的语境、实践与结果交互。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 1–2]])
-> - **2008 — *Some sociologies of education: A history of problems and places, and segments and gazes***：批判性总结了教育社会学史，揭示量化指标如何把学校重构为可审计和可数字治理的组织。 ([[Argument_Ball_2008_SR|Ball, 2008, pp. 650-669]])
+> - **2008 — *Some sociologies of education: A history of problems and places, and segments and gazes***：批判性总结了教育社会学史，揭示量化指标如何把学校重构为可审计和可[[Governing by Numbers|数字治理]]的组织。 ([[Argument_Ball_2008_SR|Ball, 2008, pp. 650-669]])
 > - **2008 — *Hidden privatisation in public education***：与 Deborah Youdell 合作，系统梳理了[[Endogenous and Exogenous Privatisation|内生与外生私有化]]趋势，成为研究教育私有化的核心[[Document|文献]]。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 4]])
 
 ---
@@ -101,7 +102,7 @@ updated: '2026-06-19'
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育政策并不只是单向的、自上而下的政策文本，而是在多重复杂语境中不断生产和[[Recontextualization|再脉络化]]的话语争斗。新自由主义治理通过 “审计社会” 和 “以数字治理” 等绩效考核技术重塑公立教育，利用[[Evidence-Based Education|证据本位教育]]中 “[[Value Neutrality|价值中立]]” 的伪科学修辞来规避价值讨论，以此剥夺教师的专业反思和自主判断权力。这种[[Technical Rationality|技术理性]]的延伸最终将教育的民主陶冶目的降格为纯粹的技术效率传递，使教师异化为流水线操作工。
+> 教育政策并不只是单向的、自上而下的政策文本，而是在多重复杂语境中不断生产和[[Recontextualization|再脉络化]]的话语争斗。新自由主义治理通过 “审计社会” 和 “[[Governing by Numbers|以数字治理]]” 等绩效考核技术重塑公立教育，利用[[Evidence-Based Education|证据本位教育]]中 “[[Value Neutrality|价值中立]]” 的伪科学修辞来规避价值讨论，以此剥夺教师的专业反思和自主判断权力。这种[[Technical Rationality|技术理性]]的延伸最终将教育的民主陶冶目的降格为纯粹的技术效率传递，使教师异化为流水线操作工。
 
 ### 核心命题
 
@@ -128,7 +129,7 @@ updated: '2026-06-19'
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 运用鲍尔关于内生/外生私有化以及跨国政策创业理论，勾勒新西兰公立学校政策网络的商业化和治理重塑。
 > - [[Argument_Ball_2008_SR|Ball, 2008]] — 自行阐述教育社会学史和治理目光的变迁，解构绩效技术对学校的主导。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 引用鲍尔对新自由主义审计社会的剖析，批判[[Evidence-Based Education|循证教育]]运动如何用 “数字治理” 代替教育的民主目的与教师的[[Professional Judgment|专业判断]]。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 引用鲍尔对新自由主义审计社会的剖析，批判[[Evidence-Based Education|循证教育]]运动如何用 “[[Governing by Numbers|数字治理]]” 代替教育的民主目的与教师的[[Professional Judgment|专业判断]]。
 
 ---
 

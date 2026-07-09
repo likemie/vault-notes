@@ -18,7 +18,7 @@ tags:
   - "theme/knowledge-exchange"
 related_concepts:
   - "[[Technology Transfer]]"
-  - "[[Third Mission|Third Mission (Universities)]]"
+  - "[[Third Mission]]"
   - "[[Executive Education]]"
   - "[[Further Education]]"
   - "[[Joint Faculty Appointments]]"

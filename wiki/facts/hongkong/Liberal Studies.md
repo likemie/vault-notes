@@ -9,7 +9,7 @@ subtype: policy
 region: hongkong
 fact_region: "hongkong"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Examination-Oriented Education]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
   - "[[Construct]]"
   - "[[Multiplicity]]"
@@ -64,7 +65,7 @@ updated: '2026-05-25'
 ## 创立过程
 
 > [!note]- 创立过程
-> LS 的设计参照了 IBDP 的三个核心要素（[[Theory of Knowledge|知识论]] → 批判思维训练、延伸论文 → IES、创造行动服务 → 其他学习经历）。剑桥大学 Mary James 教授于 2007–2009 年担任课程发展议会海外委员，为 LS 提供国际背书([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 480]])。
+> LS 的设计参照了 [[IB Diploma Programme|IBDP]] 的三个核心要素（[[Theory of Knowledge|知识论]] → 批判思维训练、延伸论文 → IES、创造行动服务 → 其他学习经历）。剑桥大学 Mary James 教授于 2007–2009 年担任课程发展议会海外委员，为 LS 提供国际背书([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 480]])。
 >
 > LS 的引入也解决了新高中学制改革的一个实际问题：经济及公共事务、政府与公共行政、社会教育等学科在 NSS 课程中被取消，其教师通过教授 LS 保留了职位——LS 因此成为吸收"剩余教师"的制度安排([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]])。
 
@@ -118,7 +119,7 @@ updated: '2026-05-25'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Policy Borrowing]] — LS 的设计参照了 IBDP 的三个要素（[[Theory of Knowledge|知识论]]、延伸论文、创造行动服务），以此将自己定位为全球[[Progressive Education|进步教育]]的体现
+> - [[Policy Borrowing]] — LS 的设计参照了 [[IB Diploma Programme|IBDP]] 的三个要素（[[Theory of Knowledge|知识论]]、延伸论文、创造行动服务），以此将自己定位为全球[[Progressive Education|进步教育]]的体现
 > - [[Cuban's Curriculum Change Theory]] — LS 的创立和废除均受政治因素驱动，但体现在 Cuban 框架的不同维度
 > - [[World Society Theory]] — LS 的全球参照表面上支撑了该理论的趋同[[Hypothesis|假设]]
 

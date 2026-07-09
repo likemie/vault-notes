@@ -18,11 +18,11 @@ tags:
   - subject/research-methodology
 related_concepts:
   - "[[Central Phenomenon]]"
-  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Descriptive Analysis]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Research Writing Script]]"
   - "[[Construct]]"
@@ -52,7 +52,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> [[Qualitative Research|质性研究]]的核心问题（central question）是询问[[Central Phenomenon|核心现象]]的主要开放性问题，通过访谈参与者、观察环境或审阅[[Document|文件]]来回答([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
+> [[Qualitative Research|质性研究]]的核心问题（central question）是询问[[Central Phenomenon|核心现象]]的主要开放性问题，通过访谈参与者、观察环境或审阅文件来回答([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
 
 > [!quote]
 > "A central question in qualitative research is the major open-ended question being asked about the central phenomenon by interviewing participants, observing settings, or reviewing documents."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.146]])

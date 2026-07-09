@@ -7,7 +7,7 @@ aliases:
 summary: "Tyler（1949）提出的课程开发四问框架，是现代主义、实证主义课程观的经典表达，将课程视为受控、有序、预定和可预测的过程。"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - paradigm/positivism
 related_concepts:
   - "[[Positivism]]"
+  - "[[Theory of Knowledge]]"
   - "[[Emergence]]"
   - "[[Cultural Capital]]"
   - "[[Constructivist Paradigm]]"
@@ -44,7 +45,7 @@ updated: 2026-06-17
 > [!concept-lens] 概念透镜
 > - **含义** 课程是一个从确定目的到评估结果的完整技术流程。四个问题按固定顺序推进，每一步的逻辑输出是下一步的输入。
 > - **用途** 为课程开发提供一个系统化、可操作的规划框架。在课程标准化和问责制的制度环境中被广泛采纳。
-> - **边界** Tyler 原理是课程开发的技术模型，而非知识论或教学论。它规定课程"如何设计"，不规定"什么知识值得教"——但[[Critical Theory|批判理论]]指出，这种"技术中立"姿态本身就是意识形态性的。
+> - **边界** Tyler 原理是课程开发的技术模型，而非[[Theory of Knowledge|知识论]]或教学论。它规定课程"如何设计"，不规定"什么知识值得教"——但[[Critical Theory|批判理论]]指出，这种"技术中立"姿态本身就是意识形态性的。
 
 > [!boundary]- 概念边界
 > - 不等于课程本身——它是课程的开发方法，不是课程内容。

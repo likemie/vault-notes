@@ -1,9 +1,9 @@
 ---
 title: International Institute for Educational Planning
 aliases:
-  - UNESCO国际教育规划研究所
   - IIEP
   - UNESCO IIEP
+  - 国际教育规划研究所
 summary: "UNESCO 于 1963 年创建的国际教育规划研究所，首任主任为前美国教育助理国务卿 Philip Coombs，世界银行和福特基金会为主要合作伙伴，冷战发展转向背景下为发展中国家教育规划提供技术援助的关键机构"
 type: fact
 subtype: event

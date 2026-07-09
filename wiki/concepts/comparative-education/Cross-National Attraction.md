@@ -6,7 +6,7 @@ aliases:
 summary: "政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Reference Society]]"
   - "[[Externalization]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
@@ -62,7 +63,7 @@ updated: 2026-05-18
 > - **[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]** — 提出跨国吸引力情境概念地图（Conceptual Map of the Context of Cross-National Attraction），系统区分结构推力／人的推力、结构阻力／抵制行动者、以及四种吸引力"火花"
 
 > [!note]- 国际关系视角下的跨国吸引
-> [[Argument_Klerides_2023_CE|Klerides (2023)]]从[[Wight's Three Traditions of International Theory|国际关系理论]]角度指出，跨国吸引力可被理解为现实主义比较教育的一个核心表现。在国际无政府状态下，国家将教育视为提升权力能力和维持国际地位的工具，由此驱动对外国教育模式的"贪婪而好奇"的观察（Tröhler, 2023, p.7）。跨国吸引不仅是教育改良的手段，更是国际竞争和生存焦虑的产物。[[Sputnik Shock 1957|Sputnik]] 冲击（[[Sputnik Shock 1957]]）提供了典型例证：苏联卫星发射触发了美国对自身科技教育落后的恐慌，促使美国同时转向苏联的科学教育模式和英国的儿童中心教学法。这一逻辑也解释了"参照社会"（reference societies）和"反参照社会"（counter reference societies）的形成——国家选择性地关注某些外国教育系统以验证自身位置或建构他者形象([[Argument_Klerides_2023_CE|Klerides, 2023, pp.420–421]])。
+> [[Argument_Klerides_2023_CE|Klerides (2023)]]从[[Wight's Three Traditions of International Theory|国际关系理论]]角度指出，跨国吸引力可被理解为现实主义比较教育的一个核心表现。在国际无政府状态下，国家将教育视为提升权力能力和维持国际地位的工具，由此驱动对外国教育模式的"贪婪而好奇"的观察（Tröhler, 2023, p.7）。跨国吸引不仅是教育改良的手段，更是国际竞争和生存焦虑的产物。[[Sputnik Shock 1957|Sputnik]] 冲击（[[Sputnik Shock 1957]]）提供了典型例证：苏联卫星发射触发了美国对自身科技教育落后的恐慌，促使美国同时转向苏联的科学教育模式和英国的儿童中心教学法。这一逻辑也解释了"[[Reference Society|参照社会]]"（reference societies）和"反参照社会"（counter reference societies）的形成——国家选择性地关注某些外国教育系统以验证自身位置或建构他者形象([[Argument_Klerides_2023_CE|Klerides, 2023, pp.420–421]])。
 
 ## 核心要素
 

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -61,11 +61,10 @@ related_concepts:
   - "[[Flanders Interaction Analysis Categories]]"
   - "[[Emergence]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Pragmatism in China]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Question]]"
   - "[[Data Transformation]]"
-  - "[[Purpose Statement]]"
+  - "[[Research Purpose]]"
   - "[[Postmodernism]]"
   - "[[Post-structuralism]]"
   - "[[Feedback]]"

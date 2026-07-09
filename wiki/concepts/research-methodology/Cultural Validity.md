@@ -6,10 +6,10 @@ aliases:
 summary: "一项研究对进行研究的文化环境的恰当程度，适用于研究全阶段，要求研究者在规划、实施和传播中对参与者文化和处境保持敏感"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-methods
   - theme/validity
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Research Question]]"
   - "[[Gatekeepers]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
@@ -58,7 +57,7 @@ Joy (2003: 1) 提出了贯穿研究全过程的十二个问题框架，每个问
 > 5. 是否选择了适当的**[[Gatekeepers|守门人]]和信息提供者**？
 > 6. 研究设计和工具在目标文化的标准下是否**伦理和适当**？
 > 7. 目标文化成员如何**定义**研究中的重要术语？
-> 8. [[Document|文件]]和其他信息是否以**文化适当**的方式翻译？
+> 8. 文件和其他信息是否以**文化适当**的方式翻译？
 > 9. 研究的可能结果对目标文化是否具有**潜在价值和益处**？
 > 10. 对结果的解释是否包含目标文化成员的**意见和观点**？
 > 11. 结果是否**提供给目标文化成员审查和评论**？

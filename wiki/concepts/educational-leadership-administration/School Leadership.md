@@ -16,12 +16,12 @@ tags:
   - level/k12
 related_concepts:
   - "[[Transformative Leadership]]"
-  - "[[Document]]"
   - "[[Doxa]]"
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
+  - "[[Document]]"
   - "[[New Public Management]]"
   - "[[School Autonomy]]"
 related_theories: []
@@ -73,7 +73,7 @@ updated: 2026-05-18
 
 > [!example] 与相关概念的区别
 > - vs [[Transformative Leadership]] — 传统的学校领导力研究倾向于关注组织内部的领导者行为和个人能力，而变革型领导力以权力结构为分析起点，关注如何改变导致社会不平等的权力结构([[Argument_Møller_2017_EERJ|Møller, 2017, p.381]])
-> - vs 分布式领导 — 分布式领导模型（distributed leadership）虽然在学校领导力研究和政策[[Document|文件]]中获得重视，但通常被去情境化，很少处理此类工作的政治和规范维度
+> - vs 分布式领导 — 分布式领导模型（distributed leadership）虽然在学校领导力研究和政策文件中获得重视，但通常被去情境化，很少处理此类工作的政治和规范维度
 
 ## 理论视角
 

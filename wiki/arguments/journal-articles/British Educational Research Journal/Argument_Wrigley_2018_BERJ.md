@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
+  - "[[Governing by Numbers]]"
   - "[[Emergence]]"
   - "[[Blue Skies Research]]"
 related_theories:
@@ -240,7 +241,7 @@ citation_aliases:
 > 汤姆·贝内特（Tom Bennett）创立的 [[ResearchED]] 表面上是赋予一线教师声音，实际上将教师引导向单一的 RCT 量化 [[Paradigm|范式]]。这种“伪草根运动”得到了前教育部部长尼克·吉布（Nick Gibb）的强力背书。其本质是用符合政府偏好的“草根”来边缘化大学教育学院的学术研究与批判力量。
 
 > [!warrant]- 推理桥梁：技术效率对民主讨论的剥夺
-> 新自由主义政策通过“以数字治理”，制造了“别无选择的专政（dictatorship of no alternatives）”。当教育政策被包装成“无党派偏见、客观中立的科学证据”时，关于教育目的、社会阶级、不平等和解放的民主讨论就被技术性地压制了。教师从具有反思能力的专业人员，退化为被动接受“最佳证据”并流水线操作的技术工。
+> 新自由主义政策通过“[[Governing by Numbers|以数字治理]]”，制造了“别无选择的专政（dictatorship of no alternatives）”。当教育政策被包装成“无党派偏见、客观中立的科学证据”时，关于教育目的、社会阶级、不平等和解放的民主讨论就被技术性地压制了。教师从具有反思能力的专业人员，退化为被动接受“最佳证据”并流水线操作的技术工。
 
 ---
 

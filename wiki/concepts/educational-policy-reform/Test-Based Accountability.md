@@ -8,10 +8,10 @@ aliases:
 summary: "以学生标准化考试成绩来评估、监督和规制学校与教师教学实践的制度安排，核心在于将评价结果制度化地与奖惩挂钩，是全球教育体系中最显著的特征之一"
 type: concept
 domain: "educational-policy-reform"
-related_count: 6
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/accountability
   - theme/examination
@@ -21,14 +21,18 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Learner-Centred Education]]"
   - "[[Examination-Oriented Education]]"
+  - "[[Global Education Reform Movement]]"
   - "[[Quality Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Systematic Review]]"
 related_persons: []
 related_facts:
   - "[[Civil Service Examination]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
+  - "[[Argument_Li_2025_HSSC]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -77,7 +81,7 @@ updated: 2026-05-26
 > [!success]
 > - 在中国，考试问责的传统可追溯至 6 世纪的[[Civil Service Examination|科举制度]]，这一传统使社会广泛认同以考试衡量教育成功，教师将追求考试优秀内化为对学生未来的道德义务——而不仅是对外部制裁的回应（Feng, 1995；Wang & McLaughlin, 2025, pp.587-589）。这构成了中国[[Examination-Oriented Education|应试教育]]独特的社会心理基础。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp.593-600)]]发现，在考试问责高度制度化的中国学校中，教师普遍将教师主导教学法与完成考试目标绑定，但部分学校通过建立学校特定的发展目标找到了考试问责与 [[Learner-Centred Education|LCE]] 之间的共享空间——这表明考试问责与教育改革的关系需要情境化理解，而非一概而论（详见 [[Argument_Wang_2025_CE]]）。
-> - [[Argument_Li_2025_HSSC|Li et al. (2025)]]系统综述发现，PISA 推动了各国在中观决策层面引入与 PISA 标准对接的全国性教育评估和监测体系——如瑞士 HarmoS 标准、挪威和中国的国家教育质量监测、加拿大的教育指标计划。这些评估体系将 PISA 的比较逻辑嵌入国内考试问责制度，强化了以标准化测试驱动教育改革的 GERM 逻辑。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]][[Systematic Review|系统综述]]发现，[[PISA]] 推动了各国在中观决策层面引入与 PISA 标准对接的全国性教育评估和监测体系——如瑞士 HarmoS 标准、挪威和中国的国家教育质量监测、加拿大的[[Performance Indicators|教育指标]]计划。这些评估体系将 PISA 的比较逻辑嵌入国内考试问责制度，强化了以标准化测试驱动教育改革的 [[Global Education Reform Movement|GERM]] 逻辑。
 
 ---
 

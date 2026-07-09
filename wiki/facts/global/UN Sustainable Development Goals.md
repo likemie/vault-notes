@@ -22,7 +22,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Emergence]]"
-  - "[[Third Mission|Third Mission (Universities)]]"
+  - "[[Third Mission]]"
   - "[[Research Problem]]"
   - "[[University Social Responsibility]]"
 related_theories: []

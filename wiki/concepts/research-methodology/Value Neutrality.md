@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值与偏见、保持客观中立的认识论规范；实证主义视其为科学基石，而批判理论与循证教育批判则指出其声称本身即是维护现状或推行数字治理的意识形态立场。"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Critical Pedagogy]]"
   - "[[Evidence-Based Education]]"
+  - "[[Governing by Numbers]]"
   - "[[What Works Movement]]"
   - "[[Effect Size]]"
   - "[[Bildung]]"
@@ -113,7 +114,7 @@ updated: 2026-06-18
 > [!claim] 命题二：声称价值中立本身就是一种意识形态立场
 > [[Critical Pedagogy|批判教育学]]与批判社会学理论（如 Jurgen [[Jürgen Habermas|Habermas]] 的解放旨趣）指出，所有的[[Knowledge Production|知识生产]]都由特定的利益（Knowledge-constitutive Interests）所构成。在充满权力不对等 and 阶级压迫的社会中，声称“价值中立”的研究由于不挑战现有的权力秩序，在实效上起到了维护 status quo（现状）的作用。这种“政治中立”的呼吁本身就是意识形态饱和的，它通过假装无辜来掩盖自身服务于支配阶级利益的事实。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 29]]); ([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 113]])
 
-> [!claim] 命题三：[[Evidence-Based Education|循证教育]]中的“中立证据”修辞是新自由主义以数字治理的工具
+> [!claim] 命题三：[[Evidence-Based Education|循证教育]]中的“中立证据”修辞是新自由主义[[Governing by Numbers|以数字治理]]的工具
 > 在循证教育（EBE）与“什么有效”运动（[[What Works Movement]]）中，政策制定者和技术官僚宣扬以“客观、中立、去价值”的 [[Randomised Controlled Trials|RCT]] [[Effect Size|效应量]] and 统计均值来直接指导教学。[[Terry Wrigley]] 指出，这种价值中立的科学修辞本质上是新自由主义审计文化的体现：它故意避开关于教育目的（如陶冶 [[Bildung]]、解放、社会正义）的民主价值审议，将本质上高度 contestable（有争议）的政治与价值抉择，转化为纯粹关于效率传递的技术性数学计算。通过将政策包装为“中立证据的自然推导”，它确立了标准知识的霸权，压制了关于社会不平等的民主讨论，从而消解了教师的[[Professional Judgment|专业判断]]力。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 4]]); ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
 
 ---

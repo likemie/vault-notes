@@ -6,7 +6,7 @@ aliases:
 summary: "以学校差异解释学生成绩差异的研究取向，在政策中把学校转译为可测量、可比较、可干预的组织对象。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,7 +24,8 @@ related_concepts:
   - "[[School Leadership]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Michael Barber]]"
 related_facts:
   - "[[Ofsted]]"
 related_arguments:
@@ -73,7 +74,7 @@ updated: 2026-05-23
 > [!note]- 发展脉络
 > - 1980 年代，教育社会学中的阶级分析被种族、性别、残障和性取向等分析视角分化；部分研究者转向课程、政策、组织和管理研究，学校效能研究也在这一背景中出现([[Argument_Ball_2008_SR|Ball, 2008, p.662]])。
 > - 在英国，学校效能研究源自 David Reynolds 及其合作者的经验研究，并逐渐与政策内部形成关系([[Argument_Ball_2008_SR|Ball, 2008, pp.662-663]])。
-> - 1997-2002 年，Michael Barber 领导 DfEE Standards and Effectiveness Unit，标志着学校效能语言进入国家政策机器([[Argument_Ball_2008_SR|Ball, 2008, p.663]])。
+> - 1997-2002 年，[[Michael Barber]] 领导 DfEE Standards and Effectiveness Unit，标志着学校效能语言进入国家政策机器([[Argument_Ball_2008_SR|Ball, 2008, p.663]])。
 > - 1990 年代以后，学校效能参与形成新的教育改革时代精神：学校被从社会背景中剥离出来，按照它们制造的差异被检查、评价和比较([[Argument_Ball_2008_SR|Ball, 2008, p.665]])。
 
 ## 争议与批评

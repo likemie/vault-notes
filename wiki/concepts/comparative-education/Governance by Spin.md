@@ -6,7 +6,7 @@ aliases:
 summary: "一种试图管理、遏制或使政策争议不可见的治理过程，同时运作于公众感知控制和政策本身的构建两个层面，在教育研究中用于解释国家政策话语为何以及如何将矛盾声明组合进同一份政策文件"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Floating Signifier]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
   - "[[Theoretical Perspective]]"
   - "[[Global Citizenship]]"
 related_theories: []
@@ -121,7 +120,7 @@ updated: 2026-06-24
 ## 争议与批评
 
 > [!warning] [[Epistemology|认识论]]矛盾与“认识论大杂烩”
-> 教师教育者指出，国家通过舆论操控制造出的“包容性政策[[Document|文件]]”实际上强行挪用了在认识论上不可调和的[[Theoretical Perspective|理论取向]]，形成了“认识论大杂烩（epistemological salad）”。这种话语虽然成功地在中立化反对意见上发挥了政治功能，但使实践层面的接收者产生概念性混乱。[[Argument_Beech_2009_CE|Beech, 2009, pp. 358–359]]
+> 教师教育者指出，国家通过舆论操控制造出的“包容性政策文件”实际上强行挪用了在认识论上不可调和的[[Theoretical Perspective|理论取向]]，形成了“认识论大杂烩（epistemological salad）”。这种话语虽然成功地在中立化反对意见上发挥了政治功能，但使实践层面的接收者产生概念性混乱。[[Argument_Beech_2009_CE|Beech, 2009, pp. 358–359]]
 
 > [!critique] 实践侧面的负面后果：以“尊重多样性”[[Transfer Translation Transformation|转译]]为“尊重贫困”为例
 > 舆论操控在政策上的抽象表白可能会在微观实践中产生意想不到的退化效果。例如，在布宜诺斯艾利斯郊区，极端贫困的物质条件中介了教师对“尊重多样性”的理解。在此语境下，“尊重多样性”被转译为“尊重贫困”，导致中产阶级教师消极顺应学生的贫困现状，放弃在学术标准上挑战他们，从而在实践中默许并再生产了社会的结构性不平等。[[Argument_Beech_2009_CE|Beech, 2009, pp. 360–361]]

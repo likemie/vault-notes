@@ -22,8 +22,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Positivism]]"
   - "[[Concurrent Validity]]"
 related_methods:
@@ -63,7 +63,7 @@ updated: 2026-06-23
 > - **量化操作：区分效度**
 >   使用差异检验（t 检验、[[Chi-Squared Test|卡方检验]]、[[Analysis of Variance|方差分析]]）或共线性诊断来检验假设应不同的测量之间是否存在低相关系数或显著差异。在因子分析中，如果跨因子的项目显示出低交叉载荷，则区分效度成立。
 > - **质性操作：收敛效度**
->   使用 N-Vivo "接近性搜索"（proximity searches），整合来自不同群体、样本和子样本的数据，检查是否发现了趋同的模式。如果来自不同来源（访谈、观察、[[Document|文件]]）的数据在关键主题上趋于一致，收敛效度得到质性证明。
+>   使用 N-Vivo "接近性搜索"（proximity searches），整合来自不同群体、样本和子样本的数据，检查是否发现了趋同的模式。如果来自不同来源（访谈、观察、文件）的数据在关键主题上趋于一致，收敛效度得到质性证明。
 > - **质性操作：区分效度**
 >   检查负面案例（negative cases）和偏差案例（deviant cases），比较来自子群体的数据，以确定差异是否确实存在于关键因素、[[Construct|构念]]、子元素或问题之间。如果[[Hypothesis|研究假设]]应存在差异的地方确实发现了有意义的差异，区分效度得到质性证明。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 177–178)]]
 

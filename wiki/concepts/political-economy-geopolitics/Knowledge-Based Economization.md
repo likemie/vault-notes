@@ -35,7 +35,7 @@ related_concepts:
   - "[[Transformative Change]]"
   - "[[Epistemic Governance]]"
   - "[[Champ]]"
-  - "[[Third Mission|Third Mission (Universities)]]"
+  - "[[Third Mission]]"
   - "[[Knowledge Exchange]]"
   - "[[Innovation Park]]"
   - "[[Knowledge Transfer]]"

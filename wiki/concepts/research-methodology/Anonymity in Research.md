@@ -8,7 +8,7 @@ aliases:
 summary: "研究伦理中通过移除个人标识符使参与者身份无法被追踪的保护技术，包括化名、编码和聚合等多种手段，是保护参与者隐私的基本方式之一"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,6 @@ tags:
   - method/research-ethics
   - theme/research-governance
 related_concepts:
-  - "[[Document]]"
   - "[[External Validity]]"
 related_theories: []
 related_methods:
@@ -55,7 +54,7 @@ updated: 2026-06-18
 1. **不使用姓名或其他个人标识** 最基本的方法——问卷不包含姓名、地址、职业细节或[[Coding in Qualitative Research|编码]]符号
 2. **使用化名（aliases / pseudonyms）** 为参与者分配虚构姓名代替真实姓名
 3. **使用编码标识个人** 将个人信息与接触信息分离，只有研究者持有编码密钥
-4. **使用密码保护[[Document|文件]]** 通过技术手段限制对可识别数据的访问
+4. **使用密码保护文件** 通过技术手段限制对可识别数据的访问
 5. **数据聚合（aggregation）** 在某些情况下聚合数据，使个体回答不可知
 
 > [!info] 匿名的适用范围

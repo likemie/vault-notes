@@ -39,7 +39,7 @@ related_concepts:
   - "[[International Education Hubs]]"
   - "[[Theory of Knowledge]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Third Mission|Third Mission (Universities)]]"
+  - "[[Third Mission]]"
   - "[[Champ]]"
   - "[[Causality]]"
 related_theories:

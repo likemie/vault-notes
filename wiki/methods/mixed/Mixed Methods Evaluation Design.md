@@ -9,7 +9,7 @@ summary: "将量化和质性数据及核心混合方法设计嵌入评价框架�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 7
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#fef3c7"
@@ -18,7 +18,6 @@ tags:
   - method/evaluation
   - method/complex-design
 related_concepts:
-  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Evaluation Research]]"
 related_theories: []
@@ -53,7 +52,7 @@ updated: 2026-06-02
 > 典型的[[Mixed Methods Research|混合方法]]评价流程包含五个阶段([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.248–249]])：
 >
 > **阶段一：需求评估（Needs Assessment）** — 质性为主
-> - 通过访谈、观察和[[Document|文件]]分析来了解评价对象的需求和情境
+> - 通过访谈、观察和文件分析来了解评价对象的需求和情境
 >
 > **阶段二：理论概念化（Theory Conceptualization）** — 量化为主
 > - 基于需求评估的发现，进行[[Literature Review|文献回顾]]，将质性发现与已有理论对接
