@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-07-08'
+updated: 2026-07-09
 ---
 
 # Policy Borrowing

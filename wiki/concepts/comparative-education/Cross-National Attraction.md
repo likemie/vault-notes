@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-05-18
+updated: 2026-07-10
 ---
 
 ## 定义
@@ -47,8 +47,6 @@ updated: 2026-05-18
 > 跨国吸引力（Cross-National Attraction）是 Phillips & Ochs [[Policy Borrowing|政策借用]]四阶段模型中的第一阶段，指一国的教育政策、实践或话语引起他国关注并被认为具有参照价值的过程。它启动整个政策借用循环，是教育转移的初始动力来源。
 >
 > [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 进一步将此概念理论化，指出"跨国吸引力"一词内在地将单一民族国家视为行动者，但现实中吸引力由多元行动者——民选官员、[[Policy Entrepreneur|政策企业家]]、智库、媒体、超国家组织等——在具体教育改革辩论中生产和调动，而非由抽象的"国家"整体产生。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
->
-> 本概念在本库中的完整论证入口见 [[Argument_Rappleye_2006_RCIE]]。
 >
 > > "The 'cross-national attraction' stage...is of particular importance because it initiates the entire policy-borrowing cycle." ([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 225]])
 

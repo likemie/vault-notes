@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: '2026-07-08'
+updated: 2026-07-09
 ---
 
 # Wight's Three Traditions of International Theory

@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: '2026-06-08'
+updated: 2026-07-10
 ---
 # Joseph Lauwerys
 
@@ -62,6 +62,6 @@ updated: '2026-06-08'
 ## 与比较教育传统的关系
 
 > [!note]-
-> 从 Klerides（2023）的[[Analytic Framework|分析框架]]来看，Lauwerys 是[[Rationalism in International Relations|理性主义]]比较教育的典范人物。与[[Michael Sadler]]不同——后者的比较教育驱动力是国家竞争焦虑——Lauwerys 的比较教育驱动力是对国际合作和人类改善的信念。这种对比精准地体现了[[Realism in International Relations|现实主义]]与理性主义两条比较教育路径的根本差异：一个服务于国家权力，一个服务于国际社会的和平与民主建设（pp.420–425）。
+> 从 [[Argument_Klerides_2023_CE|Klerides (2023)]]的[[Analytic Framework|分析框架]]来看，Lauwerys 是[[Rationalism in International Relations|理性主义]]比较教育的典范人物。与[[Michael Sadler]]不同——后者的比较教育驱动力是国家竞争焦虑——Lauwerys 的比较教育驱动力是对国际合作和人类改善的信念。这种对比精准地体现了[[Realism in International Relations|现实主义]]与理性主义两条比较教育路径的根本差异：一个服务于国家权力，一个服务于国际社会的和平与民主建设（pp.420–425）。
 
 ---

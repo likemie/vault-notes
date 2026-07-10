@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: '2026-06-08'
+updated: 2026-07-10
 ---
 # Max Weber
 
@@ -216,7 +216,7 @@ updated: '2026-06-08'
 - **卡里斯马型支配** 基于对某人人格神圣性、英雄力量或典范性的情感献身
 - **法制型支配** 基于对成文法规合法性的信仰，其行政机构为官僚制
 
-韦伯对权力（Macht）与权威（Herrschaft）的区分——前者是"让你不得不听"，后者是"你心甘情愿听"——为[[Institutional Isomorphism|制度同构]]理论提供了合法性分析的基础。[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 将这一区分应用于[[Corporate Education|企业教育]]的分析：公司管理层可以命令员工参加培训（权力），但这不等同于培训被视为高质量（权威）。企业教育需借助外部权威来源——模仿高等教育、专业认证、同行评审、外包给营利性提供商——才能获得合法性([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.182–183]])。详见 [[Argument_Hartmann_2022_CorporateEducation]] 理论框架部分
+韦伯对权力（Macht）与权威（Herrschaft）的区分——前者是"让你不得不听"，后者是"你心甘情愿听"——为[[Institutional Isomorphism|制度同构]]理论提供了合法性分析的基础。[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 将这一区分应用于[[Corporate Education|企业教育]]的分析：公司管理层可以命令员工参加培训（权力），但这不等同于培训被视为高质量（权威）。企业教育需借助外部权威来源——模仿高等教育、专业认证、同行评审、外包给营利性提供商——才能获得合法性([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.182–183]])（详见该 Argument 理论框架部分）
 
 ### 信念伦理与责任伦理
 

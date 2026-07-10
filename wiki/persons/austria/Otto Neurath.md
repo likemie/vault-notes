@@ -1,21 +1,20 @@
 ---
 title: Otto Neurath
 aliases:
-  - 奥托·纽拉特
-  - Neurath
-  - Neurath, O.
+- 奥托·纽拉特
+- Neurath, O.
 summary: "奥地利哲学家、社会学家和经济学家，维也纳学派核心成员，以反基础主义实证主义、纽拉特原则（Neurath-principle）和百科全书主义著称，在迪昂与蒯因之间构成不完全决定性论题发展的重要桥梁"
 type: person
 nationality: austria
-person_region: "austria"
+person_region: austria
 person_related_count: 14
 person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_stars: ⭐
+person_related_color: '#dbeafe'
 tags:
-  - theme/philosophy-of-science
-  - theme/epistemology
-  - theme/positivism
+- theme/philosophy-of-science
+- theme/epistemology
+- theme/positivism
 related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-07-09
 ---
 
 # Otto Neurath

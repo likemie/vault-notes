@@ -43,6 +43,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Gatekeepers]]"
+  - "[[Construct Validity]]"
   - "[[Operationalization]]"
   - "[[Informed Consent]]"
   - "[[Covert Research]]"
@@ -91,7 +92,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-21
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07
 
@@ -266,7 +267,7 @@ updated: 2026-07-08
 > | 要素 |
 > |---|
 > | 对促成研究的问题/需求的清晰陈述 |
-> | 文献中的清晰根基（理论、实质、概念、方法论），服务于[[Construct Validity in Quantitative Measurement\|构念效度]]和内容效度 |
+> | 文献中的清晰根基（理论、实质、概念、方法论），服务于[[Construct Validity|构念效度]]和内容效度 |
 > | 研究约束（如准入、时间、人员、政治） |
 > | 一般研究目的和意图 |
 > | 预期成果——研究会做什么、可交付成果是什么 |

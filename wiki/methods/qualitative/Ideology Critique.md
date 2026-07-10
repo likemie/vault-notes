@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-07-09
 ---
 
 # Ideology Critique

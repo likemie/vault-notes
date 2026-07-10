@@ -1,21 +1,20 @@
 ---
 title: Readings of the Global
 aliases:
-  - 全球解读
-  - readings of the global
-  - reading the global
-  - 阅读全球
+- 全球解读
+- reading the global
+- 阅读全球
 summary: "Cowen 用于分析比较教育在不同时期关注哪个世界的五阶段历史分期框架，从 18 世纪末的世俗化阅读到冷战后的全球化"
 type: concept
-domain: "comparative-education"
+domain: comparative-education
 related_count: 21
 related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_stars: ⭐⭐
+related_color: '#99f6e4'
 tags:
-  - theme/comparative-education
-  - theory/comparative-education
-  - paradigm/historical
+- theme/comparative-education
+- theory/comparative-education
+- paradigm/historical
 related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: '2026-07-04'
+updated: 2026-07-09
 ---
 
 # Readings of the Global

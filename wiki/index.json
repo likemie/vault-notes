@@ -697,7 +697,6 @@
     "path": "wiki/concepts/comparative-education/Readings of the Global.md",
     "aliases": [
       "全球解读",
-      "readings of the global",
       "reading the global",
       "阅读全球"
     ]
@@ -730,7 +729,6 @@
     "aliases": [
       "参考社会",
       "参照社会",
-      "reference society",
       "model society",
       "模范社会"
     ]
@@ -4252,8 +4250,7 @@
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/New Geopolitics.md",
     "aliases": [
-      "新地缘政治",
-      "new geopolitics"
+      "新地缘政治"
     ]
   },
   {
@@ -9700,7 +9697,6 @@
     "path": "wiki/persons/austria/Otto Neurath.md",
     "aliases": [
       "奥托·纽拉特",
-      "Neurath",
       "Neurath, O."
     ]
   },

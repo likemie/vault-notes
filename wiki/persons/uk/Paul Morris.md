@@ -40,7 +40,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-07-09
 ---
 ## 简介
 
@@ -66,7 +66,7 @@ updated: '2026-06-08'
 > - **[[PISA]] 的政治解读** — Auld & Morris (2016) 揭示了 PISA 如何通过"翻译和说服"将复杂的教育条件转化为跨国"最佳实践"
 > - **香港教育的批判性历史** — Morris & Adamson (2010) 系统梳理了香港从殖民地到回归后的课程政治
 > - **国家安全的课程后果** — Vickers & Morris (2022) 最早将《国安法》与课程变革直接联系起来
-> - [[Transnationalism and America Project SYSU]] — Morris 的教育四象限（学术[[Rationalism in International Relations|理性主义]]、社会经济效率、儿童中心、社会重建）被 Schmidt (2010) 在 [[Argument_Ryan_2010_HKUP]] 中用于论证香港[[International Schools|国际学校]]价值观为本课程的理论定位
+> - [[Transnationalism and America Project SYSU]] — Morris 的教育四象限（学术[[Rationalism in International Relations|理性主义]]、社会经济效率、儿童中心、社会重建）被 Schmidt (2010) 在 [[Argument_Ryan_2010_HKUP|Ryan & Slethaug (2010)]] 中用于论证香港[[International Schools|国际学校]]价值观为本课程的理论定位
 
 ## 主要著作
 

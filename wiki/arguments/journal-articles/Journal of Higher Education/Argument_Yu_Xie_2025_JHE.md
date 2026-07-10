@@ -77,7 +77,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-06-27
+updated: 2026-07-09
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yu_Xie_2025_JHE"
