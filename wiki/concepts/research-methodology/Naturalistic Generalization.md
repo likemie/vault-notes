@@ -18,7 +18,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
   - "[[Theoretical End Point]]"
-  - "[[Descriptive Research Question]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -100,4 +99,4 @@ LeCompte & Preissle（1993: 47）将[[Ethnography|民族志]]的概括性重释�
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 系统阐述[[Qualitative Research|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体[[Descriptive Research Question|描述性研究]]需要概括性价值的论述。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 系统阐述[[Qualitative Research|质性研究]]的概括性问题，包括 Larsson（2009）的三种概括性推理形式、LeCompte & Preissle（1993）的可比较性与可翻译性标准、Lincoln & Guba 的可转移性概念，以及 Wolcott（1994）关于个体描述性研究需要概括性价值的论述。

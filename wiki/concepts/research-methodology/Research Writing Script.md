@@ -18,7 +18,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Purpose Statement]]"
   - "[[Central Phenomenon]]"
-  - "[[Descriptive Research Question]]"
   - "[[Central Question]]"
   - "[[Mixed Methods Question]]"
 related_theories: []
@@ -105,7 +104,7 @@ Creswell & Creswell (2022, Ch7)：
 
 > What is the frequency and variation of scores on ____（变量名称____）for ____（参与者____）in the study?
 
-该问题描述变量分数的频率和变异。数据分析包括均值、标准差、方差和单一变量得分的范围。该类型问题涉及[[Descriptive Research Question|描述性研究]]。
+该问题描述变量分数的频率和变异。数据分析包括均值、标准差、方差和单一变量得分的范围。该类型问题涉及描述性研究。
 
 ### 关系型量化研究问题与方向性假设脚本
 

@@ -23,7 +23,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Causality]]"
-  - "[[Descriptive Research Question]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Research Writing Script]]"
   - "[[Operationalization]]"
@@ -56,7 +55,7 @@ updated: 2026-06-21
 > [!boundary]- 概念边界
 > - 不等于 [[Null Hypothesis|零假设]]：备择假设预测存在关系或差异，零假设预测无关系或无差异
 > - 不等于 广义假设：广义假设泛指所有变量间关系的预测性陈述；备择假设是正式假设检验框架中专与零假设配对的术语
-> - 不适用于纯粹的[[Descriptive Research Question|描述性研究]]和探索性[[Qualitative Research|质性研究]]
+> - 不适用于纯粹的描述性研究和探索性[[Qualitative Research|质性研究]]
 
 ---
 

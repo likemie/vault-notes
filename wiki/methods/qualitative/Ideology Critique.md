@@ -20,7 +20,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Descriptive Research Question]]"
   - "[[Rationalism in International Relations]]"
   - "[[Knowledge Production]]"
 related_theories:
@@ -113,7 +112,7 @@ updated: 2026-07-09
 > [!method-fit] 适用判断
 > - **适合使用** 教育政策分析、课程意识形态检视、教育不平等研究、制度性歧视分析、赋权导向的社区研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 117–149)]]
 > - **谨慎使用** 需要与被研究者建立信任关系，避免研究者以"批判"之名行"知识支配"之实；批判分析应辅以变革实践，而非停留在揭露层面。
-> - **不适合使用** 纯技术性的教学效果比较；不涉及权力和利益问题的[[Descriptive Research Question|描述性研究]]。
+> - **不适合使用** 纯技术性的教学效果比较；不涉及权力和利益问题的描述性研究。
 
 ---
 

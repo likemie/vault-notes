@@ -17,7 +17,6 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Reflexivity]]"
-  - "[[Descriptive Research Question]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -67,5 +66,5 @@ updated: 2026-06-01
 ## 适用场景
 
 > [!success]
-> 适用于所有包含[[Qualitative Observation|田野观察]]的[[Qualitative Research|质性研究]]设计，包括[[Ethnography|民族志]]、[[Case Study|案例研究]]、[[Narrative Research|叙事研究]]和[[Descriptive Research Question|描述性研究]]。观察协议为观察数据提供了系统的记录框架，有助于确保多次观察之间的记录一致性。
+> 适用于所有包含[[Qualitative Observation|田野观察]]的[[Qualitative Research|质性研究]]设计，包括[[Ethnography|民族志]]、[[Case Study|案例研究]]、[[Narrative Research|叙事研究]]和描述性研究。观察协议为观察数据提供了系统的记录框架，有助于确保多次观察之间的记录一致性。
 

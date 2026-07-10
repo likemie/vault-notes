@@ -2,7 +2,6 @@
 title: Descriptive Research Question
 aliases:
   - 描述性研究问题
-  - 描述性研究
   - descriptive quantitative research question
   - descriptive question
 summary: "量化研究中描述单一变量频率和变异的研究问题类型，使用均值、标准差、方差和范围等描述性统计进行分析，与关系型推论性研究问题形成对比"

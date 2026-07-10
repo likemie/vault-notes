@@ -28,7 +28,6 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Positivism]]"
   - "[[Causality]]"
-  - "[[Descriptive Research Question]]"
   - "[[Reliability]]"
   - "[[Document]]"
 related_theories:
@@ -100,7 +99,7 @@ updated: 2026-06-25
 
 ### 描述性研究与干预性研究
 
-> [!contrast-table] [[Descriptive Research Question|描述性研究]] vs [[Intervention Research|干预性研究]]
+> [!contrast-table] 描述性研究 vs [[Intervention Research|干预性研究]]
 > | 维度 | 描述性研究（Descriptive Research） | 干预性研究（[[Intervention Research]]） |
 > |---|---|---|
 > | 目的 | 对具有普遍性、代表性的现象进行描述，客观考察事物的存在状态 | 通过对事物现状的改变，寻找或证明事物间的[[Causality\|因果关系]] |

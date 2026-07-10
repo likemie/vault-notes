@@ -29,7 +29,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Recommendations for Practice]]"
   - "[[Causality]]"
-  - "[[Descriptive Research Question]]"
   - "[[Hypothesis]]"
   - "[[Multimethod Research]]"
   - "[[Variable]]"
@@ -67,7 +66,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 本文没有使用独立理论框架，而是以教育心理学"研究应改善学生学习"的应用使命与[[Causality|因果]]推论边界之间的张力为论证基础。作者认为，当研究目标是指导政策与实践时，研究序列应从概念发展和[[Descriptive Research Question|描述性研究]]走向[[Hypothesis|假设]]检验：早期[[Qualitative Observation|质性观察]]和量化自陈调查可帮助理解情境，相关研究可识别可能的[[Causality|因果关系]]，而真正的干预假设需要通过[[Intervention Research|干预研究]]和随机实验进行正式检验(p.2)。
+> 本文没有使用独立理论框架，而是以教育心理学"研究应改善学生学习"的应用使命与[[Causality|因果]]推论边界之间的张力为论证基础。作者认为，当研究目标是指导政策与实践时，研究序列应从概念发展和描述性研究走向[[Hypothesis|假设]]检验：早期[[Qualitative Observation|质性观察]]和量化自陈调查可帮助理解情境，相关研究可识别可能的[[Causality|因果关系]]，而真正的干预假设需要通过[[Intervention Research|干预研究]]和随机实验进行正式检验(p.2)。
 
 ## 研究方法
 

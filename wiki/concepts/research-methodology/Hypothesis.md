@@ -14,7 +14,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
-  - "[[Descriptive Research Question]]"
   - "[[Paradigm]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Research Topic]]"
@@ -56,7 +55,7 @@ updated: 2026-07-08
 > [!boundary]- 概念边界
 > - 不等于 [[Research Question|研究问题]]：研究问题就变量间关系提问，假设对变量间关系做出方向性预测并通过统计检验
 > - 不等于 [[Purpose Statement|目的陈述]]：目的陈述说明研究总体意图，假设将意图转化为可检验的具体预测
-> - 不适用于纯粹的[[Descriptive Research Question|描述性研究]]、探索性[[Qualitative Research|质性研究]]（这些研究可能不预设假设）
+> - 不适用于纯粹的描述性研究、探索性[[Qualitative Research|质性研究]]（这些研究可能不预设假设）
 
 > [!citation-card]- Medawar 论假设的创造性本质
 > 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972: 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）
