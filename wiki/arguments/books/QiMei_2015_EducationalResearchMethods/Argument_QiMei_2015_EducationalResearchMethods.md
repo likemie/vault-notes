@@ -10,9 +10,9 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 100
-argument_related_level: 6
-argument_related_stars: "⭐⭐⭐⭐⭐⭐"
+argument_related_count: 99
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "教育研究方法"
 publication_place: "北京"

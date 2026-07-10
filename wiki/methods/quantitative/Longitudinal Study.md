@@ -9,9 +9,9 @@ summary: "在多个时间点对同一或不同受访者收集数据的调查研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -116,11 +116,10 @@ updated: 2026-07-11
 
 ### 前瞻性纵向研究
 
-**队列研究（Cohort Study）** 追踪具有某种共同特征的具体群体。Borg & Gall (1979, p. 291)区分了队列与面板：队列研究中特定总体在特定时间段内被追踪，但在该样本内进行选择性抽样，某些成员可能并非每次都纳入。其典型代表是英国全国儿童发展研究（National Child Development Study，NCDS），始于 1958 年，追踪同一年某一周出生的约 17,000 名英国人，是世界上运行时间最长的出生队列研究之一。英国队列研究（British Cohort Study，BCS70）和千禧年队列研究（Millennium Cohort Study，MCS）分别追踪 1970 年和 2000 年出生的队列，均由伦敦大学学院教育研究所的纵向研究中心（Centre for Longitudinal Studies，CLS）管理。
-
-**面板研究（Panel Study）** 追踪每个相同的个体。Lazarsfeld 在 1940 年代引入面板概念，旨在识别[[Causality|因果]]模式和追踪因果关系中的困难（Ruspini, 2002, p. 13）。典型代表是英国家庭面板调查（British Household Panel Survey，BHPS），1991–2008 年每年访谈约 5,500 个家庭的 10,000 名个体，2009 年并入更大规模的 Understanding Society 研究。
-
-**趋势研究（Trend Study）** 关注因素而非人群，持续研究这些因素随时间的变化。在数据收集的每个阶段抽取新样本但聚焦相同因素。每次抽取不同样本可以避免反应性（reactivity）问题——首次调查可能改变参与者的认知或行为（预试敏感化，pre-test sensitisation），趋势研究通过每轮更换样本切断这种"自我污染"的链条（p.269）。详见 [[Trend Study]] 条目。
+> [!feature] 三种前瞻性子类型
+> - **队列研究（Cohort Study）** 追踪具有某种共同特征的具体群体。Borg & Gall (1979, p. 291)区分了队列与面板：队列研究中特定总体被追踪但在样本内进行选择性抽样，某些成员可能并非每次都纳入。典型代表：英国全国儿童发展研究（National Child Development Study，NCDS，1958 年启动，追踪约 17,000 人）、英国队列研究（BCS70，1970 年）、千禧年队列研究（MCS，2000 年），均由伦敦大学学院教育研究所的纵向研究中心（CLS）管理。
+> - **面板研究（Panel Study）** 追踪每个相同的个体。Lazarsfeld 在 1940 年代引入面板概念，旨在识别[[Causality|因果]]模式和追踪因果关系中的困难（Ruspini, 2002, p. 13）。典型代表：英国家庭面板调查（British Household Panel Survey，BHPS，1991–2008，每年访谈约 10,000 人），2009 年并入 Understanding Society 研究。
+> - **趋势研究（Trend Study）** 关注因素而非人群，在数据收集的每个阶段抽取新样本但聚焦相同因素。每次抽取不同样本可以避免反应性（reactivity）问题——首次调查可能改变参与者的认知或行为（预试敏感化，pre-test sensitisation），趋势研究通过每轮更换样本切断这种"自我污染"的链条（p.269）。详见 [[Trend Study]] 条目。
 
 ### 回溯性纵向研究
 
@@ -128,7 +127,15 @@ updated: 2026-07-11
 
 回溯分析不限于纵向研究：Rose & Sullivan (1993, p. 185)和 Ruane (2005, p. 87)建议横截面研究也可使用回溯性事实问题（先前职业、家庭成员出生日期、结婚/离婚日期），但 Rose & Sullivan 建议不要在横截面研究中收集其他类型的回溯性数据——回溯越远，数据质量越差（p.268）。
 
-回溯性纵向研究依赖参与者的记忆，这些记忆可能不可靠。记忆受六项因素影响（Ruspini, 2002, p. 97）：事件距今的时间（越远越容易扭曲）、事件对参与者的意义、研究所需要的信息量（越多越难提供）、类似事件的其他记忆的干扰效应、内容的情感色彩或社会期望性、参与者接受访谈时的心理状态。此外，参与者会通过后见之明和后续事件的透镜来看待过去事件，而非那些事件在当时的意义。事实性数据的缺失同样构成威胁——某些过去时间的数据根本不存在（如医疗记录、收入数据），或无法找到或恢复（p.271）。
+> [!challenges] 回溯性记忆的六项威胁
+> - **事件距今的时间**，越远越容易扭曲或无法回忆
+> - **事件对参与者的意义**，越重要记忆越清晰
+> - **研究所需要的信息量**，越多越难提供
+> - **类似事件记忆的污染/干扰效应**，无法分离相似事件
+> - **内容的情感色彩或社会期望性**
+> - **参与者接受访谈时的心理状态**
+
+此外，参与者会通过后见之明和后续事件的透镜来看待过去事件，而非那些事件在当时的意义。事实性数据的缺失同样构成威胁——某些过去时间的数据根本不存在（如医疗记录、收入数据），或无法找到或恢复（p.271）。
 
 ---
 

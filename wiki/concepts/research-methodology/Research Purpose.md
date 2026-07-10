@@ -8,10 +8,10 @@ aliases:
 summary: "研究设计中明确研究意图和预期交付物的核心决策点，区分研究原因与研究目的，通过目的决定随后的研究类型、方法和设计，并与目的适配性原则共同构成研究规划的逻辑起点"
 type: concept
 domain: "research-methodology"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-design
   - source/textbook
