@@ -6,8 +6,8 @@ aliases:
   - 维维安·罗宾逊
 summary: "新西兰教育领导力学者，倡导学生中心与教学领导力，通过元分析确立了教学领导力的实证优势"
 type: person
-nationality: "New Zealand"
-person_region: "New Zealand"
+nationality: new-zealand
+person_region: "new-zealand"
 person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"

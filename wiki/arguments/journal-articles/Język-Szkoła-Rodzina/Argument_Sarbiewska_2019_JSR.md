@@ -18,7 +18,7 @@ citation: "Sarbiewska, A. (2019). Visible Learning and educational policies in N
 tags:
 - visible-learning
 - evidence-based-education
-- region/newzealand
+- region/new-zealand
 - region/australia
 - level/k12
 related_concepts:

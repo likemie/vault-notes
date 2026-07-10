@@ -15,7 +15,7 @@ tags:
   - theme/learning
   - theme/parenting
   - theme/socialization
-  - region/west
+  - region/western
 related_concepts:
   - "[[Cognitive Source]]"
   - "[[Causality]]"

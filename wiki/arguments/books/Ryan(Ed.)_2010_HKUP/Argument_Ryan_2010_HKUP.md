@@ -24,7 +24,7 @@ publication_place: "Hong Kong"
 tags:
   - region/global
   - region/china
-  - region/hongkong
+  - region/hong-kong
   - level/k12
   - level/higher-ed
 related_concepts:

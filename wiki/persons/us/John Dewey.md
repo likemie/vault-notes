@@ -6,8 +6,8 @@ aliases:
   - 杜威
 summary: "美国哲学家、心理学家与教育改革家，实用主义、功能心理学和进步教育代表人物，以经验、探究、民主和成长重构教育与公共生活，1919–1921 年访华深刻影响中国新教育运动。"
 type: person
-nationality: united-states
-person_region: "united-states"
+nationality: us
+person_region: "us"
 person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"

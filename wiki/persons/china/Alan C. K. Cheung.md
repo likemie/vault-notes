@@ -14,7 +14,7 @@ person_related_color: "#dbeafe"
 tags:
 - alan-c-k-cheung
 - region/china
-- region/hongkong
+- region/hong-kong
 related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"

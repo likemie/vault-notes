@@ -10,7 +10,7 @@ related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
-- region/hongkong
+- region/hong-kong
 - level/k12
 related_concepts:
   - "[[International Schools]]"

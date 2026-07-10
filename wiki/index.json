@@ -9692,15 +9692,6 @@
     ]
   },
   {
-    "title": "Otto Neurath",
-    "type": "person",
-    "path": "wiki/persons/austria/Otto Neurath.md",
-    "aliases": [
-      "奥托·纽拉特",
-      "Neurath, O."
-    ]
-  },
-  {
     "title": "Alfred Schutz",
     "type": "person",
     "path": "wiki/persons/austria/Alfred Schutz.md",
@@ -9717,6 +9708,15 @@
       "卡尔·波普尔",
       "Popper",
       "Sir Karl Popper"
+    ]
+  },
+  {
+    "title": "Otto Neurath",
+    "type": "person",
+    "path": "wiki/persons/austria/Otto Neurath.md",
+    "aliases": [
+      "奥托·纽拉特",
+      "Neurath, O."
     ]
   },
   {
@@ -10118,15 +10118,6 @@
     ]
   },
   {
-    "title": "Thomas Aastrup Rømer",
-    "type": "person",
-    "path": "wiki/persons/denmark/Thomas Aastrup Rømer.md",
-    "aliases": [
-      "Rømer, T. A.",
-      "托马斯·奥斯特鲁普·勒默"
-    ]
-  },
-  {
     "title": "Søren Kierkegaard",
     "type": "person",
     "path": "wiki/persons/denmark/Søren Kierkegaard.md",
@@ -10134,6 +10125,15 @@
       "索伦·克尔凯郭尔",
       "Kierkegaard",
       "S. Kierkegaard"
+    ]
+  },
+  {
+    "title": "Thomas Aastrup Rømer",
+    "type": "person",
+    "path": "wiki/persons/denmark/Thomas Aastrup Rømer.md",
+    "aliases": [
+      "Rømer, T. A.",
+      "托马斯·奥斯特鲁普·勒默"
     ]
   },
   {
@@ -10152,6 +10152,15 @@
     "aliases": [
       "Engeström, Y.",
       "于尔约·恩格斯特罗姆"
+    ]
+  },
+  {
+    "title": "Auguste Comte",
+    "type": "person",
+    "path": "wiki/persons/france/Auguste Comte.md",
+    "aliases": [
+      "奥古斯特·孔德",
+      "Comte"
     ]
   },
   {
@@ -10221,15 +10230,6 @@
     ]
   },
   {
-    "title": "Auguste Comte",
-    "type": "person",
-    "path": "wiki/persons/france/Auguste Comte.md",
-    "aliases": [
-      "奥古斯特·孔德",
-      "Comte"
-    ]
-  },
-  {
     "title": "Andreas Helmke",
     "type": "person",
     "path": "wiki/persons/germany/Andreas Helmke.md",
@@ -10254,6 +10254,16 @@
     "aliases": [
       "Benner, D.",
       "迪特里希·本纳"
+    ]
+  },
+  {
+    "title": "Edmund Husserl",
+    "type": "person",
+    "path": "wiki/persons/germany/Edmund Husserl.md",
+    "aliases": [
+      "埃德蒙德·胡塞尔",
+      "Edmund G. A. Husserl",
+      "Edmund Gustav Albrecht Husserl"
     ]
   },
   {
@@ -10293,6 +10303,15 @@
     ]
   },
   {
+    "title": "Jürgen Habermas",
+    "type": "person",
+    "path": "wiki/persons/germany/Jürgen Habermas.md",
+    "aliases": [
+      "尤尔根·哈贝马斯",
+      "Habermas"
+    ]
+  },
+  {
     "title": "Max Weber",
     "type": "person",
     "path": "wiki/persons/germany/Max Weber.md",
@@ -10319,25 +10338,6 @@
     "aliases": [
       "Klafki, W.",
       "沃尔夫冈·克拉夫基"
-    ]
-  },
-  {
-    "title": "Jürgen Habermas",
-    "type": "person",
-    "path": "wiki/persons/germany/Jürgen Habermas.md",
-    "aliases": [
-      "尤尔根·哈贝马斯",
-      "Habermas"
-    ]
-  },
-  {
-    "title": "Edmund Husserl",
-    "type": "person",
-    "path": "wiki/persons/germany/Edmund Husserl.md",
-    "aliases": [
-      "埃德蒙德·胡塞尔",
-      "Edmund G. A. Husserl",
-      "Edmund Gustav Albrecht Husserl"
     ]
   },
   {
@@ -10412,16 +10412,6 @@
     ]
   },
   {
-    "title": "Viviane Robinson",
-    "type": "person",
-    "path": "wiki/persons/new-zealand/Viviane Robinson.md",
-    "aliases": [
-      "Robinson, V. M. J.",
-      "Viviane M. J. Robinson",
-      "维维安·罗宾逊"
-    ]
-  },
-  {
     "title": "John Hattie",
     "type": "person",
     "path": "wiki/persons/new-zealand/John Hattie.md",
@@ -10429,6 +10419,16 @@
       "Hattie, J.",
       "约翰·哈蒂",
       "哈蒂"
+    ]
+  },
+  {
+    "title": "Viviane Robinson",
+    "type": "person",
+    "path": "wiki/persons/new-zealand/Viviane Robinson.md",
+    "aliases": [
+      "Robinson, V. M. J.",
+      "Viviane M. J. Robinson",
+      "维维安·罗宾逊"
     ]
   },
   {
@@ -10630,6 +10630,16 @@
     "aliases": [
       "King, E.",
       "埃德蒙·金"
+    ]
+  },
+  {
+    "title": "Francis Bacon",
+    "type": "person",
+    "path": "wiki/persons/uk/Francis Bacon.md",
+    "aliases": [
+      "弗朗西斯·培根",
+      "Bacon",
+      "Sir Francis Bacon"
     ]
   },
   {
@@ -10890,36 +10900,6 @@
     ]
   },
   {
-    "title": "Francis Bacon",
-    "type": "person",
-    "path": "wiki/persons/uk/Francis Bacon.md",
-    "aliases": [
-      "弗朗西斯·培根",
-      "Bacon",
-      "Sir Francis Bacon"
-    ]
-  },
-  {
-    "title": "John Dewey",
-    "type": "person",
-    "path": "wiki/persons/us/John Dewey.md",
-    "aliases": [
-      "Dewey, J.",
-      "约翰·杜威",
-      "杜威"
-    ]
-  },
-  {
-    "title": "Sherwood Eddy",
-    "type": "person",
-    "path": "wiki/persons/us/Sherwood Eddy.md",
-    "aliases": [
-      "Eddy, S.",
-      "宣夏德",
-      "谢伍德·埃迪"
-    ]
-  },
-  {
     "title": "Amelia Peterson",
     "type": "person",
     "path": "wiki/persons/us/Amelia Peterson.md",
@@ -11012,6 +10992,16 @@
     ]
   },
   {
+    "title": "John Dewey",
+    "type": "person",
+    "path": "wiki/persons/us/John Dewey.md",
+    "aliases": [
+      "Dewey, J.",
+      "约翰·杜威",
+      "杜威"
+    ]
+  },
+  {
     "title": "John W. Meyer",
     "type": "person",
     "path": "wiki/persons/us/John W. Meyer.md",
@@ -11076,16 +11066,13 @@
     ]
   },
   {
-    "title": "Stevenson and Stigler",
+    "title": "Sherwood Eddy",
     "type": "person",
-    "path": "wiki/persons/us/Stevenson and Stigler.md",
+    "path": "wiki/persons/us/Sherwood Eddy.md",
     "aliases": [
-      "Stevenson & Stigler, H. & J. W.",
-      "史蒂文森和斯蒂格勒",
-      "Harold Stevenson",
-      "James Stigler",
-      "The Learning Gap",
-      "学习鸿沟"
+      "Eddy, S.",
+      "宣夏德",
+      "谢伍德·埃迪"
     ]
   },
   {
@@ -11099,6 +11086,19 @@
       "史蒂芬·斯塔尔",
       "史蒂芬·斯塔尔（Steven Stahl）",
       "斯塔尔"
+    ]
+  },
+  {
+    "title": "Stevenson and Stigler",
+    "type": "person",
+    "path": "wiki/persons/us/Stevenson and Stigler.md",
+    "aliases": [
+      "Stevenson & Stigler, H. & J. W.",
+      "史蒂文森和斯蒂格勒",
+      "Harold Stevenson",
+      "James Stigler",
+      "The Learning Gap",
+      "学习鸿沟"
     ]
   },
   {

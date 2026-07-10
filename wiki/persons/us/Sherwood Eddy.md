@@ -6,8 +6,8 @@ aliases:
   - 谢伍德·埃迪
 summary: "美国著名新教传教士和教育者，1931年出版 The Challenge of Russia 论证美国应承认苏联，大量引用 Dewey 1928年访苏的观察作为苏联教育进步的证据"
 type: person
-nationality: united-states
-person_region: "united-states"
+nationality: us
+person_region: "us"
 person_related_count: 2
 person_related_level: 0
 person_related_stars: "☆"

@@ -12,7 +12,7 @@ related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
 tags:
   - region/china
-  - region/hongkong
+  - region/hong-kong
   - region/singapore
   - region/taiwan
   - level/k12

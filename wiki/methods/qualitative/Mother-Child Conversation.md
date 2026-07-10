@@ -18,7 +18,7 @@ tags:
   - theme/socialization
   - theme/learning
   - region/east-asia
-  - region/west
+  - region/western
 related_concepts:
   - "[[External Validity]]"
   - "[[Reliability]]"

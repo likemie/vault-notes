@@ -16,7 +16,7 @@ tags:
   - theme/learning
   - method/discourse-analysis
   - region/east-asia
-  - region/west
+  - region/western
 related_concepts:
   - "[[Learning Virtues]]"
   - "[[Pride in Learning]]"

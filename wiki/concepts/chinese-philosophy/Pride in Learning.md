@@ -18,7 +18,7 @@ tags:
   - theme/self-conscious-emotion
   - theme/achievement
   - region/east-asia
-  - region/west
+  - region/western
 related_concepts:
   - "[[Humility in Learning]]"
   - "[[Western Learner]]"

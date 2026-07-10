@@ -3,6 +3,7 @@ title: Alfred Schutz
 aliases: [阿尔弗雷德·舒茨, Schutz]
 summary: "奥地利裔美国社会学家和哲学家，将胡塞尔的现象学习入社会学，创立存在现象学，关注日常生活世界的意义结构、类型化和多重实在。"
 type: person
+nationality: austria
 person_region: "austria"
 person_related_count: 4
 person_related_level: 0

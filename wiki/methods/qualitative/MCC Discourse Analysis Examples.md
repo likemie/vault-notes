@@ -17,7 +17,7 @@ tags:
   - theme/learning
   - theme/parenting
   - region/east-asia
-  - region/west
+  - region/western
   - method/discourse-analysis
   - method/qualitative
 related_concepts:

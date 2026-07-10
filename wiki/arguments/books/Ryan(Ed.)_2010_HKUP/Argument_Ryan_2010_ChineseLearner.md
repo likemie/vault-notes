@@ -19,7 +19,7 @@ publication_place: "Hong Kong"
 publisher: "Hong Kong University Press"
 tags:
 - region/china
-- region/hongkong
+- region/hong-kong
 - level/higher-ed
 - level/k12
 - theme/cross-cultural

@@ -5,6 +5,7 @@ aliases:
   - Comte
 summary: "19世纪法国哲学家，实证主义（Positivism）的创始人，首次将实证主义一词用于哲学立场，并催生了作为独立学科的社会学。"
 type: person
+nationality: france
 person_region: "france"
 person_related_count: 5
 person_related_level: 0
