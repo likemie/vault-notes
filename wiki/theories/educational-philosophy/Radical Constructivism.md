@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-07-09
+updated: 2026-07-10
 ---
 
 ## 核心主张
