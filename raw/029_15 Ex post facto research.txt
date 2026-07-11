@@ -1,0 +1,393 @@
+15 Ex post facto research
+=========================
+
+Ex post facto research
+
+CHAPTER 15
+
+This kind of research may be unfamiliar to novice researchers. Hence this chapter introduces ex post facto research, its key features and how to conduct such a project. It includes:
+
+[图片: images/029_15 Ex post facto research/001_box.jpg | image]
+ co- relational and criterion groups designs
+
+[图片: images/029_15 Ex post facto research/002_box.jpg | image]
+ characteristics of ex post facto research
+
+[图片: images/029_15 Ex post facto research/003_box.jpg | image]
+ occasions when appropriate
+
+[图片: images/029_15 Ex post facto research/004_box.jpg | image]
+ advantages and disadvantages of ex post facto research
+
+[图片: images/029_15 Ex post facto research/005_box.jpg | image]
+ designing an ex post facto investigation
+
+[图片: images/029_15 Ex post facto research/006_box.jpg | image]
+ procedures in ex post facto research
+
+As an introduction to experiments in educational research in Chapter 16, this chapter indicates how researchers can work with data to construct forms of experimentation and to explore cause and effect in such studies.
+
+15.1 Introduction
+
+When translated literally, ex post facto means ‘after the fact’; it signifies ‘from what is done afterwards’, ‘from after the event’ or ‘from what has happened’. In the context of social and educational research the phrase means ‘retrospectively’ and refers to those studies which investigate possible cause- and-effect relationships by observing an existing condition or state of affairs and searching back in time for plausible causal factors. In terms of Chapter 4 on causation, this is examining the causes of effects, and we advise readers to refer to that chapter. Here researchers ask themselves what factors seem to be associated with certain occurrences, or conditions, or aspects of behaviour. As they have happened already, the researcher has to hypothesize possible causes and then test them against the evidence, for example by holding factors constant and by controlling and matching the samples.
+
+Ex post facto research is a method of teasing out possible antecedents of events that have happened and cannot, therefore, be controlled, engineered or manipulated by the investigator (Cooper and Schindler, 2001: 136). Researchers can only report what has happened or what is happening, by trying to hold factors constant by careful attention to the sampling. Independent variables cannot be manipulated as in true experiments, as they have already happened. Hence the researcher is in the realms of probabilistic causation, inferring causes tentatively rather than being able to demonstrate causality unequivocally.
+
+Ex post facto research can be used to study groups which are similar and which have had the same experience with the exception of one condition, and here the effect of the one differing condition on the dependent variable can be assessed. Ex post facto research, then, is a form of experiment, but without the stringent controls of a true experiment; there are control and ‘experimental’ groups (the latter where a particular condition has been applied), but, since there is little or no rigorous manipulation of the independent variables or conditions, and since there is no random allocation of subjects to groups, any inferences of causation are tentative.
+
+The following example will illustrate the basic idea. Imagine a situation in which there has been a dramatic increase in the number of fatal road accidents in a particular locality. An expert is called in to investigate. Naturally, there is no way in which she can study the actual accidents because they have happened; nor can she turn to technology for a video replay of the incidents; nor can she require a participant to run under a bus or a lorry, or to stand in the way of a speeding motorcycle in order to discover the effects. What she can do, however, is to study hospital records to see which groups have experienced the greatest trauma – bus, lorry or motorcycle impact victims. Or she can attempt a reconstruction by studying the statistics, examining the accident spots, and taking note of the statements given by victims and witnesses. In this way the expert will be in a position to identify possible determinants of the accidents, looking at the outcomes and working backwards to examine possible causes. These may include excessive speed, poor road conditions, careless driving, frustration, inefficient vehicles, the effects of drugs or alcohol and so on. On the basis of her examination, she can formulate hypotheses as to the likely causes and submit them to the appropriate authority in the form of recommendations. These may include improving road conditions, or lowering the speed limit, or increasing police surveillance, for instance. The point of interest to us is that in identifying the causes retrospectively, the expert adopts an ex post facto perspective.
+
+Ex post facto research is a method that can also be used instead of an experiment, to test hypotheses about cause and effect in situations where it is impossible, impractical or unethical to control or manipulate the dependent variable or, indeed, the independent variables. We cannot expose people, say, to an aeroplane crash or place emotionally stable children in controlled traumatic environments in order to study the effects (Lord, 1973: 2).
+
+For example, let us say that we wish to test the hypothesis that family violence causes poor school performance. Here, ethically speaking, we should not expose a student to family violence. However, one could put students into two groups, matched carefully on a range of factors, with one group comprising those who have experienced family violence and the other whose domestic circumstances are more acceptable. If the hypothesis is supportable then the researcher should be able to discover a difference in school performance between the two groups when the other variables are matched or held as constant as possible.
+
+Kerlinger (1970) has defined ex post facto research as that in which the independent variable or variables have already occurred and in which the researcher starts with the observation of a dependent variable or variables. She then studies the independent variable or variables in retrospect for their possible relationship to, and effects on, the dependent variable or variables. The researcher is thus examining retrospectively the effects of a naturally occurring event on a subsequent outcome with a view to establishing a causal link between them. The key to establishing the causes is the careful identi-fication of those that are possible, testing each against the evidence, and then eliminating the ones that do not stand up to the test, ensuring that attention is paid to careful sampling and to controls – holding fixed some variables.
+
+Some instances of ex post facto designs correspond to experimental research in reverse, for instead of taking groups that are equivalent and subjecting them to different treatments so as to bring about differences in the dependent variables to be measured, an ex post facto experiment begins with groups that are already different in some respect and searches in retrospect for the factor that brought about the difference. Indeed Spector (1993: 42) suggests that ex post facto research is a procedure that is intended to transform a non-experimental research design into a pseudo-experimental form. An ex post facto experiment, then, is a form of quasi- experiment (see Chapter 16).
+
+One can discern two approaches to ex post facto research. In the first approach one commences with subjects who differ on an independent variable, for example their years of study in mathematics, and then study how they differ on the dependent variable, e.g. a mathematics test. In a second approach, one can commence with subjects who differ on the dependent variable (e.g. their performance in a mathematics test) and discover how they differ on a range of independent variables (e.g. their years of study, their liking for the subject, the amount of homework they do in mathematics). The ex post facto research here seeks to discover the causes of a particular outcome (mathematics test performance) by comparing those students in whom the outcome is high (high marks on the mathematics test) with students whose outcome is low (low marks on the mathematics test), after the independent variable has occurred.
+
+Ary et al. (2009: 335) discuss ‘proactive’ and ‘retroactive’ ex post facto research designs. In the former, the subjects are grouped on the basis of the presence or absence of an independent variable, and then the researcher compares the groups in terms of the outcomes – the dependent variable. In the latter, the dependent variable is constant, and the researcher seeks to discover the independent variables that might have contributed to the outcome, hypothesizing about these independent variables and then testing them against the evidence. Figure 15.1 indicates these two main types of ex post facto research designs.
+
+An example of an ex post facto piece of research can be presented. It has been observed that staff at a very large secondary school have been absent on days when they teach difficult classes. An ex post facto piece of research was conducted to try to establish the causes of this. Staff absences on days when teaching difficult secondary classes were noted.
+
+Days when teaching difficult secondary classes
+
+Absences
+
+Yes
+
+No
+
+High
+
+26
+
+30
+
+Low
+
+22
+
+50
+
+Total
+
+48
+
+80
+
+Overall total: 128
+
+Here the question of time was important: were the staff absent only on days when they were teaching difficult classes or at other times? Were there other variables that could be factored into the study, for example age groups? Hence the study was refined further, collecting more data.
+
+[图片: images/029_15 Ex post facto research/007_f0305-01.jpg | image]
+
+FIGURE 15.1 Four types of ex post facto research
+
+Days when teaching difficult secondary classes
+
+Days when not teaching difficult secondary classes
+
+Age
+
+High absence
+
+Low absence
+
+High absence
+
+Low absence
+
+< 30 years old
+
+30
+
+6
+
+16
+
+10
+
+30–50 years old
+
+4
+
+4
+
+4
+
+20
+
+> 50 years old
+
+2
+
+2
+
+2
+
+28
+
+Total
+
+36
+
+12
+
+22
+
+58
+
+Overall total: 128
+
+This shows that age was also a factor as well as days when teaching difficult secondary classes: younger people are more likely to be absent. Most teachers who were absent were under 30 years of age. Within age groups, it is also clear that young teachers have a higher incidence of excessive absence when teaching difficult secondary classes than teachers of the same (young) age group when they are not teaching difficult secondary classes.
+
+Of course, a further check here would be to compare the absence rates of the same teachers when they do and do not teach difficult classes, and conduct difference tests (e.g. t- tests, ANOVA: see Chapter 36) to examine differences between the two sets of scores (days when difficult classes were taught and days when they were not taught; differences between age groups in respect of the days when difficult classes were and were not taught).
+
+15.2 Co- relational and criterion groups designs
+
+Two kinds of design may be identified in ex post facto research – the co- relational study and the criterion group study. The former is sometimes termed ‘causal research’ and the latter, ‘causal- comparative research’. A co- relational (or causal) study is concerned with identifying the antecedents of a present condition. As its name suggests, it involves the collection of two sets of data, one of which will be retrospective, with a view to determining the relationship between them. The basic design of such an experiment may be represented thus (using the symbols from Campbell and Stanley, 1963, where X = the independent variable and O = the dependent variable, discussed below):
+
+X → O
+
+A study by Borkowsky (l970) was based upon this kind of design. He attempted to show a relationship between the quality of a music teacher’s undergraduate training (X) and his subsequent effectiveness as a teacher of his subject (O). Measures of the quality of a music teacher’s college training can include grades in specific courses, overall grade average and self-ratings, etc. Teacher effectiveness can be assessed by indices of pupil performance, pupil knowledge, pupil attitudes and judgement of experts, etc. Correlations between all measures were obtained to determine the relationship. At most, this study could show that a relationship existed, after the fact, between the quality of teacher preparation and subsequent teacher effectiveness. Where a strong relationship is found between the independent and dependent variables, three possible interpretations are open to the researcher:
+
+1 that the variable X has caused O;
+
+2 that the variable O has caused X; or
+
+3 that some third unidentified, and therefore unmeasured, variable has caused X and O.
+
+It is often the case that a researcher cannot tell which of these is correct. This raises the issue of the direction of causality: it is difficult in an ex post facto experiment to determine what causes what: whether A causes B or B causes A.
+
+The value of co- relational or causal studies lies chiefly in their exploratory or suggestive character for, as we have seen, while they are not always adequate in themselves for establishing causal relationships among variables, they are a useful first step in this direction in that they do yield measures of association.
+
+In the criterion group (or causal- comparative) approach, the investigator sets out to discover possible causes for a phenomenon being studied, by comparing the subjects in which the variable is present with similar subjects in whom it is absent, i.e. noting the circumstances in which a given effect occurs and does not occur (Lord, 1973: 3). The basic design in this kind of study may be represented thus:
+
+[图片: images/029_15 Ex post facto research/008_f0306-01.jpg | image]
+
+If, for example, a researcher chose such a design to investigate factors contributing to teacher effectiveness, the criterion group O1 (the effective teachers) and its counterpart O2 (a group not showing the characteristics of the criterion group) are identified by measuring the differential effects of the groups on classes of children. The researcher may then examine X, some variable or event, such as the background, training, skills and personality of the groups, to discover what might ‘cause’ only some teachers to be effective.
+
+Morrison (2009: 181) gives an example of a criterion group piece of ex post facto research. He writes thus:
+
+Let us imagine, for example, that the researcher is seeking to establish the cause of effective teaching, and hypothesizes that one cause is collegial curriculum planning with other members of the department. The research could be designed [as in Figure 15.2].
+
+Here there are two criterion groups: (a) the presence of collegial curriculum planning; and (b) the absence of collegial curriculum planning. By examining the difference in teaching effectiveness between those teachers (however one wished to measure ‘effective teaching’) who did and did not plan their curriculum with colleagues (collegial curriculum planning) one could infer a possible causal difference. But one has to be cautious: at most this is a correlational study and causation is not the same as correlation. Indeed . . . a third cause may be influencing both the effective/ineffective teaching and the presence/absence of collegial curriculum planning, e.g. staff sociability.
+
+(Morrison, 2009: 181)
+
+[图片: images/029_15 Ex post facto research/009_f0306-02.jpg | image]
+
+FIGURE 15.2 Two causes and two effects
+
+The causal-comparative design is different from a historical design, in that the former is concerned with present events, whereas the latter traces the history of past events (Lord, 1973: 4).
+
+Criterion group or causal- comparative studies may be seen as bridging the gap between descriptive research methods on the one hand and true experimental research on the other.
+
+15.3 Characteristics of ex post facto research
+
+In ex post facto research the researcher takes the effect (or dependent variable) and examines the data retrospectively to establish causes, relationships or associations, and their meanings.
+
+Other characteristics of ex post facto research become apparent when it is contrasted with true experimental research. Kerlinger (1970) describes the modus operandi of the experimental researcher. (‘If x, then y’ in Kerlinger’s usage. We have substituted X for x and O for y to fit in with Campbell and Stanley’s (1963) conventions throughout the chapter.) Kerlinger hypothesizes: if X, then O; if frustration, then aggression. Depending on circumstances and his own predilections in research design, he uses some method to manipulate X. He then observes O to see if concomitant variation, the variation expected or predicted from the variation in X, occurs. If it does, this is evidence for the validity of the proposition, X-O , meaning ‘If X, then O’. Note that the scientist here predicts from a controlled X to O. To help him achieve control, he can use the principle of randomization and active manipulation of X and can assume, other things being equal, that O is varying as a result of the manipulation of X.
+
+In ex post facto designs, on the other hand, O is observed. Then a retrospective search for X ensues. An X is found that is plausible and agrees with the hypothesis. Due to lack of control of X and other possible Xs, the truth of the hypothesized relation between X and O cannot be asserted with the confidence of the experimental researcher. Basically, then, ex post facto investigations have, so to speak, a built- in weakness: lack of control of the independent variable or variables. As Spector (1993: 43) suggests, it is impossible to isolate and control every possible variable, or to know with absolute certainty which are the most crucial variables.
+
+This brief comparison highlights the most important difference between the two designs – control. In the experimental situation, investigators at least have manipulative control; they have as a minimum one active variable. If an experiment is a ‘true’ experiment, they can also exercise control by randomization. They can assign subjects to groups randomly; or, at the very least, they can assign treatments to groups at random. In the ex post facto research situation, this control of the independent variable is not possible, and, perhaps more important, neither is randomization. Investigators must take things as they are and try to disentangle them, though having said this, they can make use of selected procedures that will give them an element of control in this research. These we shall touch upon shortly.
+
+By their very nature, ex post facto experiments can provide support for any number of different, perhaps even contradictory, hypotheses; they are so completely flexible that it is largely a matter of postulating hypotheses according to one’s personal preference. The investigator begins with certain data and looks for an interpretation consistent with them; often, however, a number of interpretations may be at hand. Consider again the hypothetical increase in road accidents in a given town. A retrospective search for causes will disclose half a dozen plausible ones.
+
+Experimental studies, by contrast, begin with a specific interpretation and then determine whether it is congruent with externally derived data. Frequently, causal relationships seem to be established on nothing more substantial than the premise that any related event occurring prior to the phenomenon under study is assumed to be its cause – the classical post hoc, ergo propter hoc fallacy (‘after this, therefore because of this’); just because one variable precedes another in time, it does not follow that the first variable causes the second: I may drink coffee and then have a sleepless night, but it does not follow that drinking the coffee caused the sleepless night – there may have been other causes (Cohen and Nagel, 1961). Even when we do find a relationship between two variables, we must recognize the possibility that both are individual results of a common third factor rather than the first being necessarily the cause of the second.
+
+As we have seen earlier, there is also the real possibility of reverse causation, e.g. that a heart condition promotes obesity rather than the other way around, or that they encourage each other. The point is that the evidence simply illustrates the hypothesis; it does not test it, since hypotheses cannot be tested on the same data from which they were derived. The relationship noted may actually exist, but it is not necessarily the only relationship, or perhaps the crucial one. Before we can accept that smoking is the primary cause of lung cancer, we have to rule out alternative hypotheses.
+
+Further, a researcher may find that watching television correlates with poor school performance. Now, it may be there is a causal effect here: watching television causes poor school performance; or there may be reverse causality: poor school performance causes students to watch more television. However, there may be a third explanation: students who, for whatever reason (e.g. ability, motivation), do not do well at school also like watching television; it may be the third variable (the independent variable of ability or motivation) that is causing the other two outcomes (watching a lot of television or poor school performance).
+
+We must not conclude from what has just been said that ex post facto studies are of little value; many of our important investigations in education and psychology are ex post facto designs. There is often no choice in the matter: an investigator cannot cause one group to become failures, delinquent, suicidal, brain-damaged or dropouts. Research must of necessity rely on existing groups. On the other hand, the inability of ex post facto designs to incorporate the basic need for control (e.g. through manipulation or randomization) makes them vulnerable from a scientific point of view and the possibility of their being misleading should be clearly acknowledged. Ex post facto designs are probably better conceived more circumspectly, not as experiments with the greater certainty that these denote, but more as surveys, useful as sources of hypotheses to be tested by more conventional experimental means at a later date.
+
+15.4 Occasions when appropriate
+
+Ex post facto designs are appropriate in circumstances where the more powerful experimental method is not possible. These arise when, for example, it is not possible to select, control and manipulate the factors necessary to study cause-and-effect relationships directly; or when the control of all variables except a single independent variable may be unrealistic and artificial, preventing the normal interaction with other influential variables; or when laboratory controls for many research purposes would be impractical, costly or ethically undesirable.
+
+Ex post facto research is particularly suitable in social, educational and – to a lesser extent – psychological contexts where the independent variable or variables lie outside the researcher’s control. Examples of the method abound in these areas: the research on cigarette smoking and lung cancer, for instance; or studies of teacher characteristics; or studies examining the relationship between political and religious affiliation and attitudes; or investigations into the relationship between school achievement and independent variables such as social class, race, sex and intelligence. Many of these may be divided into large-scale or small-scale ex post facto studies, for example Stables’ (1990) large-scale study of differences between students from mixed and single-sex schools and Arnold and Atkins’s (1991) small-scale study of the social and emotional adjustment of hearing-impaired students.
+
+Ayres (2008) demonstrates the power of probabilities and regularities in ex post facto designs (e.g. surveys), yielded by data sets from extremely large samples and subsamples, particularly when the analysis takes account of standard deviations (two standard deviations accounting for 95 per cent of the population). These are important in evidence-based education and may be more reliable than human intuition (e.g. Ayres 2008: chapter 10).
+
+For educational research, public domain databases and data sets can be used for conducting ex post facto educational research, for example databases and data sets produced by:
+
+[图片: images/029_15 Ex post facto research/010_box.jpg | image]
+ governments (e.g. http://data.gov.uk/data/all; www.dcsf.gov.uk/rsgateway/; data.gov.uk/data/list?keyword=education); www.hesa.ac.uk; www.gsr.gov.uk;
+
+[图片: images/029_15 Ex post facto research/011_box.jpg | image]
+ research agencies (e.g. www.data-archive.ac.uk/);
+
+[图片: images/029_15 Ex post facto research/012_box.jpg | image]
+ consortia (e.g. www.icpsr.umich.edu/icpsrweb/ICPSR/access/index.jsp; www.socsciresearch.com/r6.html);
+
+[图片: images/029_15 Ex post facto research/013_box.jpg | image]
+ organizations (e.g:
+
+[图片: images/029_15 Ex post facto research/014_box.jpg | image]
+ The European Union: http://eacea.ec.europa.eu/portal/page/portal/Eurydice/EuryPresentation;
+
+[图片: images/029_15 Ex post facto research/015_box.jpg | image]
+ The OECD: http://stats.oecd.org/index.aspx; www.oecd.org/document/54/0,3343,en_2649_39 263238_38082166_l_l_l_37455,00.html; www.oecd.org/statsportal/0,3352,en_2825_293564_l_l_l_l_l,00.html; www.oecd.org/document/54/0,3343,en_2649_39263238_38082166_l_l_l_374 55,00.html; www.oecd.org/topicstatsportal/0,2647,en_2825_495609_l_l_l_l_l,00.html;
+
+[图片: images/029_15 Ex post facto research/016_box.jpg | image]
+ UNESCO (Institute for Statistics): www.uis.unesco.org/ev.php?URL_ID=2867&URL_DO=DO_TOPIC&URL_SECTION=201; http://stats.uis.unesco.org/unesco/TableViewer/document.aspx?ReportId=143&IF_Language=eng;
+
+[图片: images/029_15 Ex post facto research/017_box.jpg | image]
+ The PISA database (http://pisa2006.acer.edu. sal);
+
+[图片: images/029_15 Ex post facto research/018_box.jpg | image]
+ The World Bank: http://web.worldbank.org/WBSITE/EXTERNAL/DATASTATISTICS/0.contentMDK:20519297~pagePK:64133150~piPK :64133175~theSitePK:239419,00.html;
+
+[图片: images/029_15 Ex post facto research/019_box.jpg | image]
+ The TIMSS database (http://nces.ed.gov/timss/datafiles.asp);
+
+[图片: images/029_15 Ex post facto research/020_box.jpg | image]
+ individual data sets (e.g. www.bera.ac.uk/the-use-of-large-scale-data-sets-in-educational-research/);
+
+[图片: images/029_15 Ex post facto research/021_box.jpg | image]
+ data sets held in higher education institutions (e.g. www.bristol.ac.uk/cmpo/plug/; www.bristol.ac.uk/cmpo/plug/support-docs/; www.cls.ioe.ac.uk/text.asp?section=000100010002).
+
+15.5 Advantages and disadvantages of ex post facto research
+
+Among the advantages of the approach are the following:
+
+[图片: images/029_15 Ex post facto research/022_box.jpg | image]
+ Ex post facto research meets an important need of the researcher where the more rigorous experimental approach is not possible. In the case of the alleged relationship between smoking and lung cancer, for instance, this cannot be tested experimentally (at least as far as human beings are concerned).
+
+[图片: images/029_15 Ex post facto research/023_box.jpg | image]
+ The method yields useful information concerning the nature of phenomena – what goes with what and under what conditions. In this way, ex post facto research is a valuable exploratory tool.
+
+[图片: images/029_15 Ex post facto research/024_box.jpg | image]
+ Improvements in statistical techniques and general methodology have made ex post facto designs more defensible.
+
+[图片: images/029_15 Ex post facto research/025_box.jpg | image]
+ In some ways and in certain situations the method is more useful than the experimental method, especially where the setting up of the latter would introduce a note of artificiality into research proceedings.
+
+[图片: images/029_15 Ex post facto research/026_box.jpg | image]
+ Ex post facto research is particularly appropriate when simple cause-and-effect relationships are being explored.
+
+[图片: images/029_15 Ex post facto research/027_box.jpg | image]
+ The method can give a sense of direction and provide a fruitful source of hypotheses that can subsequently be tested by the more rigorous experimental method.
+
+Among the limitations and weaknesses of ex post facto designs the following may be mentioned:
+
+[图片: images/029_15 Ex post facto research/028_box.jpg | image]
+ There is the problem of lack of control in that the researcher is unable to manipulate the independent variable or to randomize her subjects.
+
+[图片: images/029_15 Ex post facto research/029_box.jpg | image]
+ One cannot know for certain whether the causative factor has been included or even identified.
+
+[图片: images/029_15 Ex post facto research/030_box.jpg | image]
+ It may be that no single factor is the cause.
+
+[图片: images/029_15 Ex post facto research/031_box.jpg | image]
+ A particular outcome may result from different causes on different occasions.
+
+[图片: images/029_15 Ex post facto research/032_box.jpg | image]
+ When a relationship has been discovered, there is the problem of deciding which is the cause and which the effect; the possibility of reverse causation must be considered.
+
+[图片: images/029_15 Ex post facto research/033_box.jpg | image]
+ The relationship of two factors does not establish cause and effect.
+
+[图片: images/029_15 Ex post facto research/034_box.jpg | image]
+ The ex post facto hypothesis is generated after the data have been collected, so it is not possible to disconfirm it (Babbie, 2010: 462).
+
+[图片: images/029_15 Ex post facto research/035_box.jpg | image]
+ Classifying into dichotomous groups can be problematic.
+
+[图片: images/029_15 Ex post facto research/036_box.jpg | image]
+ There is the difficulty of interpretation and the danger of the post hoc assumption being made, that is believing that because X precedes 0, X causes O.
+
+[图片: images/029_15 Ex post facto research/037_box.jpg | image]
+ As the researcher attempts to match groups on key variables, this leads to shrinkage of sample (Spector, 1993: 43). (Lewis-Beck (1993: 43) reports an example of such shrinkage from a sample of 1,194 to 46 after matching had been undertaken.)
+
+[图片: images/029_15 Ex post facto research/038_box.jpg | image]
+ It often bases its conclusions on too limited a sample or number of occurrences.
+
+[图片: images/029_15 Ex post facto research/039_box.jpg | image]
+ It frequently fails to single out the really significant factor or factors, and fails to recognize that events have multiple rather than single causes.
+
+[图片: images/029_15 Ex post facto research/040_box.jpg | image]
+ As a method it is regarded by some as too flexible.
+
+[图片: images/029_15 Ex post facto research/041_box.jpg | image]
+ It lacks nullifiability and confirmation.
+
+15.6 Designing an ex post facto investigation
+
+We earlier referred to the two basic designs embraced by ex post facto research – the co-relational (or causal) model and the criterion group (or causal-comparative) model. As we saw, the causal model attempts to identify the antecedent of a present condition and may be represented thus:
+
+Independent variable
+
+Dependent variable
+
+X
+
+O
+
+Although one variable in an ex post facto study cannot be confidently said to depend upon the other as would be the case in a truly experimental investigation, it is nevertheless usual to designate one of the variables as independent (X) and the other as dependent (O). The left to right dimension indicates the temporal order, though having established this, we must not overlook the possibility of reverse causality.
+
+In a typical investigation of this kind, then, two sets of data relating to the independent and dependent variables respectively will be gathered. As indicated earlier in the chapter, the data on the independent variable (X) will be retrospective in character and as such will be prone to the kinds of weakness, limitations and distortions to which all historical evidence is subject. Let us now translate the design into a hypothetical situation. Imagine a secondary school in which it is hypothesized that low staff morale (O) has come about as a direct result of reorganization some two years earlier, say. A number of key factors distinguishing the new organization from the previous one can be readily identified. Collectively these could represent or contain the independent variable X and data on them could be accumulated retrospectively. They could include, for example, the introduction of mixed ability and team teaching, curricular innovation, loss of teacher status, decline in student motivation, modifications to the school catchment area or the appointment of a new headteacher. These could then be checked against a measure of prevailing teachers’ attitudes (O), thus providing the researcher with some leads at least as to possible causes of current discontent.
+
+The second model, the causal-comparative, may be represented schematically as:
+
+Group
+
+Independent variable
+
+Dependent variable
+
+E
+
+X
+
+O1
+
+C
+
+O2
+
+Using this model, the investigator hypothesizes the independent variable and then compares two groups, an experimental group (E) which has been exposed to the presumed independent variable X and a control group (C) which has not. (The dashed line in the model shows that the comparison groups E and C are not equated by random assignment.) Alternatively, she may examine two groups that are different in some way or ways and then try to account for the difference or differences by investigating possible antecedents. These two examples reflect two types of approach to causal-comparative research: the ‘cause-to-effect’ kind and the ‘effect-to-cause’ kind.
+
+The basic design of causal-comparative investigations is similar to an experimentally designed study. The chief difference resides in the nature of the independent variable, X. In a truly experimental situation, this will be under the control of the investigator and may therefore be described as manipulable. In the causal-comparative model (and also the causal model), however, the independent variable is beyond her control, having already occurred. It may therefore be described in this design as non-manipulable.
+
+15.7 Procedures in ex post facto research
+
+Ex post facto research is concerned with discovering relationships among variables in one’s data; and we have seen how this may be accomplished by using either a causal or causal-comparative model. We now examine the steps involved in implementing a piece of ex post facto research. We may begin by identifying the problem area to be investigated. This stage will be followed by a clear and precise statement of the hypothesis to be tested or questions to be answered. The next step will be to make explicit the assumptions on which the hypothesis and subsequent procedures will be based. A review of the research literature will follow. This will enable the investigator to ascertain the kinds of issues, problems, obstacles and findings disclosed by previous studies in the area. There will then follow the planning of the actual investigation and this will consist of three broad stages – identification of the population and samples; the selection and construction of techniques for collecting data; and the establishment of categories for classifying the data. The final stage will involve the description, analysis and interpretation of the findings.
+
+Drawing on Lord (1973: 6) we can set out several stages in conducting an ex post facto piece of research:
+
+Stage 1: Define the problem and survey the literature. Stage 2: State the hypotheses and the assumptions or premises on which the hypotheses and research procedures are based.
+
+Stage 3: Select the subjects (sampling) and identify the methods for collecting the data.
+
+Stage 4: Identify the criteria and categories for classifying the data to fit the purposes of the study and which are as unambiguous as possible and which will enable relationships and similarities to be found.
+
+Stage 5: Gather data on those factors which are always present in which the given outcome occurs, and discard the data in which those factors are not always present.
+
+Stage 6: Gather data on those factors which are always present in which the given outcome does not occur.
+
+Stage 7: Compare the two sets of data (i.e. subtract the former (Stage 5) from the latter (Stage 6), in order to be able to infer the causes that are responsible for the occurrence or non-occurrence of the outcome.
+
+Stage 8: Analyse, interpret and report the findings.
+
+One has to bear in mind that the evidence illustrates rather than tests the hypothesis here (Lord, 1973: 7). It was noted earlier that the principal weakness of ex post facto research is the absence of control over the independent variable influencing the dependent variable in the case of causal designs or affecting observed differences between dependent variables in the case of causal-comparative designs. Although the ex post facto researcher is denied not only this kind of control but also the principle of randomization, she can nevertheless utilize procedures that provide some measure of control in her investigation; it is to some of these that we now turn.
+
+One of the commonest means of introducing control into this type of research is that of matching the subjects in the experimental and control groups where the design is causal-comparative. Ary et al. (2009) indicate that matched pair designs (see Chapter 16) are careful to match the participants on important and relevant characteristics that may have a bearing on the research (for an example of this see Leow, 2009).
+
+There are difficulties with this procedure, however, for it assumes that the investigator knows what the relevant factors are, that is the factors that may be related to the dependent variable. Further, there is the possibility of losing those subjects who cannot be matched, thus reducing one’s sample.
+
+As an alternative procedure for introducing a degree of control into ex post facto research, Ary and his colleagues (2009) suggest building the extraneous independent variables into the design and then using an analysis of variance technique. For example, if intelligence is a relevant extraneous variable but it is not possible to control it through matching or other means, then it could be added to the research as another independent variable, with the participants being classified in terms of intelligence levels. Through analysis of variance techniques the dependent variable measures would then be analysed and this would reveal the main and interaction effects of intelligence, indicating any statistically significant differences between the groups on the dependent variable, even though no causal relationship between intelligence and the dependent variable could be assumed.
+
+Yet another procedure which may be adopted for introducing a measure of control into ex post facto design is that of selecting samples that are as homogeneous as possible on a given variable. For example, Ary et al. (2009) suggest that if intelligence were a relevant extraneous variable, its effects could be controlled by including participants from only one intelligence level. This would disentangle the independent variable from other variables with which it is commonly associated, so that any effects found could be associated justifiably with the independent variable.
+
+Finally, control may be introduced into an ex post facto investigation by stating and testing any alternative hypotheses that might be plausible explanations for the empirical outcomes of the study. A researcher has thus to beware of accepting the first likely explanation of relationships in an ex post facto study as necessarily the only or final one. A well-known instance to which reference has already been made is the presumed relationship between cigarette smoking and lung cancer. Health officials have been quick to seize on the explanation that smoking causes lung cancer. Tobacco firms, however, have put forward an alternative hypothesis -that both smoking and lung cancer are possibly the result of a third, as yet unspecified, factor, i.e. the possibility that both the independent and dependent variables are simply two separate results of a single common cause cannot be ignored.
+
+[图片: images/029_15 Ex post facto research/042_common.jpg | image]
+Companion Website
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. This resource can be found online at www.routledge.com/textbooks/cohen7e.
