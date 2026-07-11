@@ -9052,6 +9052,17 @@
     ]
   },
   {
+    "title": "Binary Logistic Regression",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Binary Logistic Regression.md",
+    "aliases": [
+      "二元 Logistic 回归",
+      "二元逻辑回归",
+      "Binary Logistic Regression Model",
+      "二元逻辑回归模型"
+    ]
+  },
+  {
     "title": "Black Box RCTs",
     "type": "method",
     "path": "wiki/methods/quantitative/Black Box RCTs.md",
