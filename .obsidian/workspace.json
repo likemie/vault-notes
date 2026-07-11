@@ -90,7 +90,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,7 +206,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "d00f681a3c9d908b",
   "lastOpenFiles": [
     "wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md",
     "wiki/methods/quantitative/Binary Logistic Regression.md",
