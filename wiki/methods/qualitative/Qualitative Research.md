@@ -11,7 +11,7 @@ summary: "通过访谈、观察和文本材料理解行动者经验、意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 53
+method_related_count: 54
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -59,6 +59,7 @@ related_methods:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Mixed Methods Research]]"
   - "[[Intervention Research]]"
+  - "[[Field Notes]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
   - "[[Ethnography]]"
@@ -151,7 +152,7 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 
 Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，从具体到一般，涉及多个分析层次：
 
-1. **组织和准备数据** 转录访谈、光学扫描材料、录入田野笔记、编目所有视觉材料，并按信息来源排序整理数据。
+1. **组织和准备数据** 转录访谈、光学扫描材料、录入[[Field Notes|田野笔记]]、编目所有视觉材料，并按信息来源排序整理数据。
 2. **通读所有数据** 获得整体感知和反思的机会——参与者说了什么？思路的基调是什么？整体深度、可[[Reliability|信度]]和信息可用性的印象如何？
 3. **[[Coding in Qualitative Research|编码]]数据** 将文本或图像数据拆分为片段，用代表类别的词标注这些片段（详见 [[Coding in Qualitative Research]]）。
 4. **识别主题** 将编码归并为少量主题或类别（通常五到七个），可以是关于场所或个体的描述，也可以是关于[[Research Question|研究问题]]的主题。主题应展示来自个体的多元视角，包含多样化的引语和具体证据。
@@ -273,7 +274,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 >
 > 此外，5 月底安排两次后续访谈。五条数据流并行收集的设计本身就是[[Triangulation\|三角验证]]的[[Operationalization|操作化]]——多种来源的数据汇聚于同一现象。
 >
-> 数据记录采用三层系统：**田野日志**（记录在场时间分配的计划与实际对比）、**田野笔记本**（观察细节的记录）、**田野日记**（记录研究者的思考、感受、经验和认知过程）。三者各自对应不同的信息层次——时间管理、客观记录和主观反思。
+> 数据记录采用三层系统：**田野日志**（记录在场时间分配的计划与实际对比）、**[[Field Notes|田野笔记]]本**（观察细节的记录）、**田野日记**（记录研究者的思考、感受、经验和认知过程）。三者各自对应不同的信息层次——时间管理、客观记录和主观反思。
 >
 > **七、数据分析程序**
 >

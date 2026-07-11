@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 71
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -71,6 +71,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Reflexivity]]"
   - "[[Hawthorne Effect]]"
+  - "[[Respondent Validation]]"
   - "[[Negative Case Analysis]]"
   - "[[Leading Questions]]"
   - "[[Halo Effect]]"
@@ -94,6 +95,7 @@ related_methods:
   - "[[Convenience Sampling]]"
   - "[[Snowball Sampling]]"
   - "[[Theoretical Sampling]]"
+  - "[[Field Notes]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Ideology Critique]]"
   - "[[Autoethnography]]"
@@ -607,7 +609,7 @@ Morse（1994: 228）将信息提供者分为两类：
 
 #### 阶段8：现场数据收集（Data Collection in Situ）
 
-Lincoln & Guba（1985: 199）区分"干扰性"方法（访谈、观察、非言语语言，有他人在场）和"非干扰性"方法（文档和记录，无他人在场）。质性研究者可使用田野笔记、[[Participant Observation|参与观察]]、半结构化访谈、日记、生命史、[[Document|文献]]和[[Audiovisual, Social Media, and Digital Materials|视听材料]]等多种工具。
+Lincoln & Guba（1985: 199）区分"干扰性"方法（访谈、观察、非言语语言，有他人在场）和"非干扰性"方法（文档和记录，无他人在场）。质性研究者可使用[[Field Notes|田野笔记]]、[[Participant Observation|参与观察]]、半结构化访谈、日记、生命史、[[Document|文献]]和[[Audiovisual, Social Media, and Digital Materials|视听材料]]等多种工具。
 
 **[[Qualitative Interview|质性访谈]]。** 半结构化访谈是最广泛使用的技术，时间表足够开放以允许重新排序、题外话、新路径加入和进一步追问。Carspecken（1996: 159–160）从"温和鼓励"→"非引导性"引导→主动倾听→低推断改述→中推断改述→高推断改述的光谱。质性访谈从预结构化转向开放式/半结构化，允许灵活性而非固定的讨论序列。
 Lincoln & Guba（1985: 268–270）提出访谈的四类目的：
@@ -782,7 +784,7 @@ Larsson（2009: 36）最终论证：**质性研究概括化的责任在于受众
 
 > [!proc] 批判民族志的五阶段模型（Carspecken, 1996）
 > 1. **编制初步记录：独白式数据收集** 研究者较被动，即参与观察者。独白指仅为自己写笔记。效度检查：多种录制设备+多观察者；灵活观察表；足够长时间克服[[Hawthorne Effect|霍桑效应]]；低推断术语；同伴情况报告；参与者验证。借鉴 [[Jürgen Habermas|Habermas]] 有效性主张：**真理性**（话语真相）、**正当性**（说话者权利）、**可理解性**和**真诚性（pp.448–449）**。
-> 2. **初步重构分析** 揭示参与者对情境的"想当然"意义成分和抽象，识别引导情境的价值系统、规范、关键概念。Carspecken（1996: 42）指出重构性意味着将通常不被参与者自身表达出的文化主题/社会系统因素**重构表达出来**→**使不言之物成为话语**。效度：与参与者访谈和小组讨论；成员检查以平等化权力关系；同伴情况报告；长期参与；片段分析；[[Negative Case Analysis|负面案例分析]]（pp.449–450）。
+> 2. **初步重构分析** 揭示参与者对情境的"想当然"意义成分和抽象，识别引导情境的价值系统、规范、关键概念。Carspecken（1996: 42）指出重构性意味着将通常不被参与者自身表达出的文化主题/社会系统因素**重构表达出来**→**使不言之物成为话语**。效度：与参与者访谈和小组讨论；[[Respondent Validation|成员检查]]以平等化权力关系；同伴情况报告；长期参与；片段分析；[[Negative Case Analysis|负面案例分析]]（pp.449–450）。
 > 3. **对话式数据生成** 参与者被要求反思自己的情境、处境、生活并对自己的生活进行理论化→使参与者有**发声权**、**民主化研究**，可能产生挑战前两个阶段的新数据。效度：一致性检查；重复访谈；使观察与叙述匹配；避免[[Leading Questions|引导性问题]]（同伴情况报告检查）；参与者验证；让参与者用自身术语描述情境（pp.450–451）。
 > 4. **发现系统关系** 将研究群体与影响的更广泛因素关联：本地社区群体、产生文化产品的本地场所等。效度：维持早期阶段要求、研究分析与参与者评论匹配、同伴情况报告+参与者验证。
 > 5. **运用系统关系解释发现** 依据宏观社会理论审视发现；本质上是将研究发现置于社会理论中的匹配练习（p.451）。

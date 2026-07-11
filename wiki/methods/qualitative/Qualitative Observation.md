@@ -9,9 +9,9 @@ summary: "质性研究中研究者在研究现场对个体行为和活动进行�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 25
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
+  - "[[Respondent Validation]]"
   - "[[Research Ethics]]"
   - "[[Rich and Thick Description]]"
   - "[[Hawthorne Effect]]"
@@ -33,6 +34,7 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Field Notes]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Ethnography]]"
@@ -58,7 +60,7 @@ updated: '2026-06-19'
 ## 定义
 
 > [!def] 方法定义
-> 质性观察（Qualitative Observation）是[[Qualitative Research|质性研究]]中研究者在研究现场记录个体行为和活动并撰写田野笔记的数据收集方法。研究者以非结构化或半结构化的方式记录现场活动（使用一些预先想了解的问题）。([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch9, p. 199]])
+> 质性观察（Qualitative Observation）是[[Qualitative Research|质性研究]]中研究者在研究现场记录个体行为和活动并撰写[[Field Notes|田野笔记]]的数据收集方法。研究者以非结构化或半结构化的方式记录现场活动（使用一些预先想了解的问题）。([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch9, p. 199]])
 
 > [!method-scope] 方法范围
 > - **研究对象** 特定教育现场或社会场景中个体与群体的言语、行为、互动以及物理环境。
@@ -83,9 +85,9 @@ updated: '2026-06-19'
 
 > [!method-stack] 方法层级
 > - **研究设计**[[Ethnography\|民族志]]、[[Qualitative Research\|质性研究]]、[[Case Study|个案研究]]。
-> - **数据收集** 参与式观察、[[Non-participant Observation|非参与式观察]]、田野笔记记录。
+> - **数据收集** 参与式观察、[[Non-participant Observation|非参与式观察]]、[[Field Notes|田野笔记]]记录。
 > - **分析方法**[[Coding in Qualitative Research\|质性编码]]、主题分析、叙事重构。
-> - **辅助技术**[[Triangulation\|三角互证]]、成员检查、[[Observation Protocol\|观察协议]]。
+> - **辅助技术**[[Triangulation\|三角互证]]、[[Respondent Validation|成员检查]]、[[Observation Protocol\|观察协议]]。
 
 ---
 
@@ -95,8 +97,8 @@ updated: '2026-06-19'
 > 1. **明确观察问题与伦理** 明确进入现场的时机、[[Reflexivity|反身性]]与伦理关系，获取进入许可。
 > 2. **选择观察者角色** 根据现场特征确定在“参与到观察”连续谱中的位置（如完全观察者或作为参与者的观察者）。
 > 3. **记录田野数据** 利用[[Observation Protocol|观察协议]]开展实地观察，分别记录描述性笔记与反思性笔记。
-> 4. **质量控制与[[Triangulation|三角验证]]** 利用三角互证、成员检查等方式提高可[[Reliability|信度]]。
-> 5. **提炼与叙事** 整合田野笔记，进行[[Coding in Qualitative Research|质性编码]]，提炼主题或开展个案叙事。
+> 4. **质量控制与[[Triangulation|三角验证]]** 利用三角互证、[[Respondent Validation|成员检查]]等方式提高可[[Reliability|信度]]。
+> 5. **提炼与叙事** 整合[[Field Notes|田野笔记]]，进行[[Coding in Qualitative Research|质性编码]]，提炼主题或开展个案叙事。
 
 ### 质性方法模块
 

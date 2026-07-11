@@ -9,7 +9,7 @@ summary: "质性研究中贴近数据本身、使用有限框架和解释、将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Field Notes]]"
   - "[[Grounded Theory]]"
 related_persons: []
 related_facts: []
@@ -58,7 +59,7 @@ updated: 2026-06-01
 描述性方法的核心程序是从[[Coding in Qualitative Research|编码]]到主题的分析过程，称为"code-to-theme"分析（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 > [!example] 分析流程
-> 1. 组织和准备数据以供分析（转录访谈、整理田野笔记等）
+> 1. 组织和准备数据以供分析（转录访谈、整理[[Field Notes|田野笔记]]等）
 > 2. 通读所有数据，获得整体感知
 > 3. 对数据进行 [[Coding in Qualitative Research|编码]]
 > 4. 将编码归并为主题（通常五到七个）

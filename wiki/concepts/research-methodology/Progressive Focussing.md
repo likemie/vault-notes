@@ -6,7 +6,7 @@ aliases:
 summary: "Parlett和Hamilton (1976) 提出的质性研究数据分析策略：从广角镜收集数据，通过筛选、归类与反思逐步收窄至情境的核心特征。"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Theoretical Sampling]]"
+  - "[[Field Notes]]"
   - "[[Longitudinal Study]]"
 related_persons: []
 related_facts: []
@@ -53,7 +54,7 @@ updated: 2026-07-11
 ## 核心要素
 
 > [!feature] 核心要素
-> - **广角收集（Wide Angle Collection）** 初始阶段不加预设地广泛收集各类质性数据（观察、访谈、文档、田野笔记等），确保不遗漏可能重要的维度。
+> - **广角收集（Wide Angle Collection）** 初始阶段不加预设地广泛收集各类质性数据（观察、访谈、文档、[[Field Notes|田野笔记]]等），确保不遗漏可能重要的维度。
 > - **筛选与归类（Sifting and Sorting）** 对大量数据进行初步组织和分组，识别重复出现的主题、模式和差异。
 > - **审视与反思（Reviewing and Reflecting）** 对初步归类进行批判性审视，评估哪些特征最显著、最频繁出现、对理解情境最核心。
 > - **聚焦（Focussing）** 将识别的显著特征作为后续数据收集和分析的核心议程，丢弃次要线索，集中资源深入关键维度。

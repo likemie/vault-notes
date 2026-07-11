@@ -8671,6 +8671,15 @@
     ]
   },
   {
+    "title": "Field Notes",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Field Notes.md",
+    "aliases": [
+      "田野笔记",
+      "fieldnotes"
+    ]
+  },
+  {
     "title": "Fieldwork",
     "type": "method",
     "path": "wiki/methods/qualitative/Fieldwork.md",

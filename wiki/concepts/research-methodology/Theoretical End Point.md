@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中理论作为研究终点的运用方式，指从数据归纳生成的理论模型、模式或概括出现在研究末尾，是质性研究归纳逻辑的最终产物"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Field Notes]]"
   - "[[Case Study]]"
   - "[[Grounded Theory]]"
   - "[[Quantitative Research]]"
@@ -52,7 +53,7 @@ updated: 2026-05-31
 
 > [!info] 归纳逻辑的五个阶段
 > 1. 研究者收集信息（如访谈、观察）
-> 2. 研究者向参与者提出开放性问题或记录田野笔记
+> 2. 研究者向参与者提出开放性问题或记录[[Field Notes|田野笔记]]
 > 3. 研究者分析数据以形成主题或类别
 > 4. 研究者从主题或类别中寻找广泛的模式、概括或理论
 > 5. 研究者基于过去经验和文献提出概括或理论

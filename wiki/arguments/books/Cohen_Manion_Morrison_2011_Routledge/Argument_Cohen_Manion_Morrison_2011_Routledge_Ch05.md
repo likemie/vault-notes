@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Research Scope]]"
   - "[[Confidentiality]]"
+  - "[[Respondent Validation]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Research Purpose]]"
   - "[[Research Topic]]"
@@ -62,6 +63,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Participant Observation]]"
   - "[[Qualitative Research]]"
+  - "[[Field Notes]]"
   - "[[Fieldwork]]"
   - "[[Experimental Research]]"
   - "[[Longitudinal Study]]"
@@ -322,7 +324,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > 告知人们研究可能引发[[Hawthorne Effect|霍桑效应]]（第10章讨论）或干扰参与者的自然行为（Oliver, 2003, p. 53）：他们会意识到被观察。寻求正式知情同意可能导致数据范围狭窄，忽视最丰富、最真实的数据，因为参与者可能更加警惕他们披露的内容（如关于人际关系的信息）。
 >
 > **3. Wax (1982, p. 44) 的"既太多又太少"论证**
-> "太多"：在质性研究的涌现性情境中"过度谨慎且具有破坏性"，因为随意谈话是田野笔记的重要组成部分；"太少"：[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西，包括信任、参与者的"积极协助"和"同事关系"。Wax 甚至认为知情同意强化了而非平衡了研究者与参与者之间的权力不对称。他还提出了一个有力观点（p. 42）：在许多类型的研究中，知情同意不是"一锤子买卖"（如[[Experimental Research|实验研究]]），而是在质性、涌现性研究中必须**持续协商**的。
+> "太多"：在质性研究的涌现性情境中"过度谨慎且具有破坏性"，因为随意谈话是[[Field Notes|田野笔记]]的重要组成部分；"太少"：[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西，包括信任、参与者的"积极协助"和"同事关系"。Wax 甚至认为知情同意强化了而非平衡了研究者与参与者之间的权力不对称。他还提出了一个有力观点（p. 42）：在许多类型的研究中，知情同意不是"一锤子买卖"（如[[Experimental Research|实验研究]]），而是在质性、涌现性研究中必须**持续协商**的。
 >
 > **4. 可能只研究"安全"主题**
 > 正式知情同意可能导致研究只关注"安全"、容易研究的主题，忽视脆弱和排斥群体。但 Humphreys (1975, p. 169)——著名研究 *Tearoom Trade* (1970)（同性恋会面安排研究）的作者——在其1975年伦理后记中写道："一个社会科学家对这个人能做的最大的伤害就是忽视他。"（p.84）
@@ -422,7 +424,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 >
 > 1. 所有参与者必须有机会保持匿名（All participants must be given the chance to remain anonymous）
 > 2. 所有数据必须被严格保密（All data must be given strict [[Confidentiality]]）
-> 3. 受访者应有机会在报告起草阶段核实陈述——受访者验证（[[Member Checking|respondent validation]]）
+> 3. 受访者应有机会在报告起草阶段核实陈述——[[Respondent Validation|受访者验证]]（[[Member Checking|respondent validation]]）
 > 4. 参与者应获得最终报告副本
 > 5. 出版许可必须从参与者处获得
 > 6. 如果可能，研究报告应对学校和参与者有益

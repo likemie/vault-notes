@@ -11,7 +11,7 @@ summary: "通过与参与者进行开放式对话以理解其主观经验和意�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Field Notes]]"
   - "[[Interview Protocol]]"
   - "[[Member Checking]]"
   - "[[Triangulation]]"
@@ -110,7 +111,7 @@ Silverman（1993: 92–93）补充了访谈的六项用途：
 > | 引出理由和解释 | 获取参与者自身的归因和阐释。 |
 
 > [!warning] 访谈不是自动适用
-> 某些文化参与者可能觉得访谈（或任何正式言语沟通）是异化的。在敏感群体中（如海洛因使用者），问太多问题不明智——正式访谈可能异化，不如用非正式对话和田野笔记替代（Maxwell, 2005: 93; Whyte, 1993: 303）。Miller & Dingwall（1997）也指出访谈对部分参与者来说可能太正式或不自然——它不同于日常对话，部分参与者在非对话情境中可能不会敞开心扉。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 432–433)]]
+> 某些文化参与者可能觉得访谈（或任何正式言语沟通）是异化的。在敏感群体中（如海洛因使用者），问太多问题不明智——正式访谈可能异化，不如用非正式对话和[[Field Notes|田野笔记]]替代（Maxwell, 2005: 93; Whyte, 1993: 303）。Miller & Dingwall（1997）也指出访谈对部分参与者来说可能太正式或不自然——它不同于日常对话，部分参与者在非对话情境中可能不会敞开心扉。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 432–433)]]
 
 ---
 

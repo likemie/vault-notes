@@ -8,7 +8,7 @@ summary: "研究者不参与群体活动而从外部系统观察和记录行为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Observation Method]]"
+  - "[[Field Notes]]"
   - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
@@ -61,7 +62,7 @@ updated: 2026-07-11
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Case Study|个案研究]]、结构化[[Observation Method|观察研究]]、纵向观察追踪、调查补充
-> - **数据收集** 结构化观察表、时间抽样（如每三秒编码一次）、事件抽样、田野笔记、视频/音频记录
+> - **数据收集** 结构化观察表、时间抽样（如每三秒编码一次）、事件抽样、[[Field Notes|田野笔记]]、视频/音频记录
 > - **分析方法** 频数统计、序列分析、行为模式识别、类别比较
 > - **辅助技术** 观察表设计与试测、观察者培训、观察者间信度检验、[[Qualitative Codebook|编码手册]]
 
@@ -78,7 +79,7 @@ updated: 2026-07-11
 > [!sample-panel] 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 结构化观察表、编码记录、视频/音频记录、田野笔记 |
+> | 材料来源 | 结构化观察表、编码记录、视频/音频记录、[[Field Notes\|田野笔记]] |
 > | 抽样或选案 | 时间抽样（如每三秒或每十秒记录一次）、事件抽样（特定行为发生时记录）、个体抽样 |
 > | 研究者位置 | 外部观察者——保持物理距离和社会距离，不参与任何群体活动 |
 > | 资料边界 | 限于可观察的外显行为；不记录参与者的内在状态或意图解释 |

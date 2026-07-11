@@ -8,7 +8,7 @@ aliases:
 summary: "研究现场中控制研究准入与再准入的个体或角色，在质性研究和敏感研究中是关键的权力节点——守门人可能批准、阻止或条件化研究，其行为模式直接影响研究设计、数据质量和伦理关系"
 type: concept
 domain: "research-methodology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Evaluation Research]]"
+  - "[[Respondent Validation]]"
   - "[[Informed Consent]]"
   - "[[Reliability]]"
   - "[[Research Problem]]"
@@ -116,7 +117,7 @@ Bogdan & Biklen（1992）提出了守门人审查研究方案时应回答的问�
 > 在研究准入阶段，研究者可向守门人提供以下条件与保证（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 86–87]]）：
 > 1. 所有参与者必须有机会保持匿名
 > 2. 所有数据必须被严格保密
-> 3. 受访者应有机会在报告起草阶段核实陈述（受访者验证）
+> 3. 受访者应有机会在报告起草阶段核实陈述（[[Respondent Validation|受访者验证]]）
 > 4. 参与者应获得最终报告副本
 > 5. 出版许可必须从参与者处获得
 > 6. 如果可能，研究报告应对学校和参与者有益

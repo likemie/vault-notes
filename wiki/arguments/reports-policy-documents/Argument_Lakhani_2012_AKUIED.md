@@ -22,7 +22,7 @@ title: "Argument_Lakhani_2012_AKUIED"
 argument_key: "Argument_Lakhani_2012_AKUIED"
 argument_display_title: "Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum"
 argument_kind: "conference-paper"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Sample Size Determination]]"
+  - "[[Respondent Validation]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Triangulation]]"
@@ -328,7 +329,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 >
 > **横断设计的时序局限** 数据收集限于 IBDP 第一年。学生在两年项目结束时，经过更长时间的 [[Theory of Knowledge|TOK]] 训练和更多的论文写作经验后，可能出现不同的自主性实践模式。由于没有进行纵向追踪，无法判断观察到的三种角色是稳定特征还是发展阶段的产物。
 >
-> **未讨论的[[Reflexivity|反身性]]问题** 研究未报告研究者自身在田野中的位置、与被研究学校的关系以及这些因素对数据收集和解读的潜在影响。在巴基斯坦的多语环境中，访谈语言（英语还是乌尔都语）可能影响学生表达的丰富性和准确性，但论文未对此做出说明。研究也没有报告是否对参与者进行了成员检查（[[Member Checking]]）或同伴审阅。
+> **未讨论的[[Reflexivity|反身性]]问题** 研究未报告研究者自身在田野中的位置、与被研究学校的关系以及这些因素对数据收集和解读的潜在影响。在巴基斯坦的多语环境中，访谈语言（英语还是乌尔都语）可能影响学生表达的丰富性和准确性，但论文未对此做出说明。研究也没有报告是否对参与者进行了[[Respondent Validation|成员检查]]（[[Member Checking]]）或同伴审阅。
 
 ---
 

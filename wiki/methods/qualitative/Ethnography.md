@@ -10,9 +10,9 @@ summary: "一种源自人类学的质性研究设计，要求研究者在自然�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 49
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 51
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - qualitative-research
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
+  - "[[Respondent Validation]]"
   - "[[Effect Size]]"
   - "[[Domain Analysis]]"
   - "[[Progressive Focussing]]"
@@ -61,6 +62,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Autoethnography]]"
   - "[[Non-participant Observation]]"
+  - "[[Field Notes]]"
   - "[[Theoretical Sampling]]"
   - "[[Snowball Sampling]]"
   - "[[Fieldwork]]"
@@ -165,12 +167,12 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。意义从社会情境中产生并通过诠释过程处理。现实是多元的、建构的、整体的；认识者与被认识者互动且不可分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 403–404)]]
 > - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。研究者需管理"边际性"：在组织之中但不属于组织，在智识上保持熟悉与陌生的平衡，在社交上保持局外人与朋友的平衡（Hammersley & Atkinson, 1983: 97–99）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 426–427)]]
-> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler & Spindler（1992: 65）认为民族志效度通过研究者在场时间足够长、观察到事件重复发生来获得。概括性被重释为**可比较性（comparability）**和**可翻译性（translatability）（LeCompte & Preissle, 1993: 47）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 406–407)]]
+> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、[[Respondent Validation|成员检查]]、同伴情况报告。Spindler & Spindler（1992: 65）认为民族志效度通过研究者在场时间足够长、观察到事件重复发生来获得。概括性被重释为**可比较性（comparability）**和**可翻译性（translatability）（LeCompte & Preissle, 1993: 47）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 406–407)]]
 > - **不能声称回答的问题** 不能估计[[Causality|因果]][[Effect Size|效应量]]；不能统计概括到人口总体；不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Autoethnography|自我民族志]]。
-> - **数据收集** [[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、田野笔记、半结构化访谈、非正式对话、文档收集、日记和生命史、视听记录（Hammersley & Atkinson, 1983）。
+> - **数据收集** [[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、[[Field Notes|田野笔记]]、半结构化访谈、非正式对话、文档收集、日记和生命史、视听记录（Hammersley & Atkinson, 1983）。
 > - **分析方法** [[Coding in Qualitative Research|编码]]、[[Domain Analysis|领域分析]]、主题分析、[[Progressive Focussing|逐步聚焦]]、叙事分析、[[Analytic Induction|分析归纳法]]。
 > - **辅助技术** [[Theoretical Sampling|理论抽样]]、目的抽样、[[Snowball Sampling|滚雪球抽样]]、[[Gatekeepers|守门人]]关系管理。
 
@@ -198,7 +200,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > | 5. 找到角色并管理进入 | 识别[[Gatekeepers\|守门人]]；进入即侵入；管理边际性（在组织中但不属于组织）；从陌生人到入门者的四角色光谱。 |
 > | 6. 寻找信息提供者 | 评估[[Reliability\|可靠性]]、代表性和知识深度；区分主要/次要信息提供者；警惕自我选择的边缘人。 |
 > | 7. 发展和维持现场关系 | 建立融洽和信任；关系随时间涌现需持续协商；权力不对称覆盖在融洽之上（如成人研究儿童）。 |
-> | 8. 现场数据收集 | 参与观察为核心；辅以半结构化访谈、田野笔记、文档和实物；民族志学者是方法论杂食者。 |
+> | 8. 现场数据收集 | 参与观察为核心；辅以半结构化访谈、[[Field Notes\|田野笔记]]、文档和实物；民族志学者是方法论杂食者。 |
 > | 9. 场外数据收集 | 超出群体边界寻找宏观结构解释（如学校隐性课程如何连接资本主义体系）。 |
 > | 10. 数据分析 | [[Progressive Focussing\|逐步聚焦]]（广角→筛选→聚焦）；范畴化与连接策略并重；主动寻找负面和偏差案例以强化理论。 |
 > | 11. 离开现场 | 以最小干扰脱离；处理参与者想保持联系的期待；避免被利用感或背叛感。 |
@@ -273,7 +275,7 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 > |------|------|-----------|
 > | 时间与资源 | 需在现场长时间投入，时间和资源成本高。 | 研究设计阶段应合理规划驻留长度和资源分配。 |
 > | 进入障碍 | 进入某些[[Champ\|场域]]可能面临制度性障碍。 | 识别[[Gatekeepers\|守门人]]、灵活协商、将进入视为随时间展开的过程（Walford, 2001）。 |
-> | 研究者效应 | 研究者的文化背景影响观察和解释，需高度[[Reflexivity\|反身性]]。 | 反身性日志、同伴情况报告、成员检查。 |
+> | 研究者效应 | 研究者的文化背景影响观察和解释，需高度[[Reflexivity\|反身性]]。 | 反身性日志、同伴情况报告、[[Respondent Validation\|成员检查]]。 |
 > | 研究者效应 | 研究者的在场改变情境（[[Reactivity in Qualitative Research\|反应性]]），即[[Hawthorne Effect\|霍桑效应]]。 | 长期驻留使参与者回归自然行为；谨慎自我呈现。 |
 > | 研究者偏见 | [[Halo Effect\|光环效应]]（过度正面评价）与牛角效应（过度负面评价）影响观察。 | 广泛、[[Triangulation\|三角验证]]的数据库和外部观察者协助。 |
 > | 真实性 | 参与者对情境的定义没有智慧垄断权，可能虚假意识或故意歪曲。 | 三角验证、成员检查、寻找偏差案例。 |

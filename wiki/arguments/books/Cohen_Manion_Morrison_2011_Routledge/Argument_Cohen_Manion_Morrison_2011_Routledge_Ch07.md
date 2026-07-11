@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -82,6 +82,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Documentary Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Field Notes]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
 related_persons: []
@@ -574,7 +575,7 @@ updated: 2026-07-10
 > [!seq-table]- 13种质性数据分析技术
 > | 技术 | 简述 |
 > |---|---|
-> | 田野笔记的**[[Coding in Qualitative Research\|编码]]和内容分析（Miles and Huberman, 1984）** | 将田野笔记中的质性材料分解为类别、主题或模式，进行系统标注与归类 |
+> | 田野笔记的**[[Coding in Qualitative Research\|编码]]和内容分析（Miles and Huberman, 1984）** | 将[[Field Notes\|田野笔记]]中的质性材料分解为类别、主题或模式，进行系统标注与归类 |
 > | **认知地图（Jones, 1987; Morrison, 1993）** | 用图示方式呈现个体或群体的概念结构、信念关系或决策逻辑 |
 > | 寻找**回应模式** | 在受访者的回答中识别反复出现的主题、比喻或叙事结构 |
 > | 寻找**因果路径和连接（Miles and Huberman, 1984）** | 追踪事件、行动与结果之间的链条关系，构建因果解释网络 |

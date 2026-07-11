@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 171
+argument_related_count: 173
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -88,6 +88,7 @@ related_concepts:
   - "[[Descriptive Research Question]]"
   - "[[Paradigm]]"
   - "[[Study Population and Sample]]"
+  - "[[Self-report Bias]]"
   - "[[Ecological Validity]]"
   - "[[Big Ideas]]"
   - "[[Sample Size Determination]]"
@@ -163,6 +164,7 @@ related_methods:
   - "[[Longitudinal Study]]"
   - "[[Qualitative Documents]]"
   - "[[Causal Modeling]]"
+  - "[[Field Notes]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
   - "[[Random Sampling]]"
@@ -642,7 +644,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 > [!example]- The Inductive Logic of Research in a Qualitative Study
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_3-5_Inductive_Logic_Research.jpg)
 
-归纳逻辑（图 3.5）从下往上依次是：收集详细信息 → 提出开放问题或记录田野笔记 → 分析数据形成主题或类别 → 寻找广泛的模式、概括或理论 → 基于过去经验和文献提出概括或理论。
+归纳逻辑（图 3.5）从下往上依次是：收集详细信息 → 提出开放问题或记录[[Field Notes|田野笔记]] → 分析数据形成主题或类别 → 寻找广泛的模式、概括或理论 → 基于过去经验和文献提出概括或理论。
 
 理论终点的形式因设计而异：案例研究中为[[Naturalistic Generalization|自然主义概括]](Stake, 1995)，扎根理论中为从参与者信息归纳生成的理论(Strauss & Corbin, 1998)，Lincoln & Guba (1985) 则称之为模式理论（pattern theories）——相互关联的思想或部分连接为整体。示例 3.3 展示了 Creswell & Brown (1992) 使用 33 次与学术系主任的访谈，将归纳发展的理论模型放在文章末尾。
 

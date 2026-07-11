@@ -8,7 +8,7 @@ aliases:
 summary: "研究者反思自身角色、背景和立场如何塑造研究解释的核心概念。在现象学和俗民方法学中有双重哲学根基，在自然主义民族志中更是对客观现实概念本身的质疑。"
 type: concept
 domain: "research-methodology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Field Notes]]"
   - "[[Ethnography]]"
 related_persons:
   - "[[Alfred Schutz]]"
@@ -81,7 +82,7 @@ updated: 2026-07-11
 > [!info] 舒茨（[[Alfred Schutz]]）的反思性
 > 舒茨关注日常生活世界的意义结构。他在"意识流"（stream of consciousness）中寻找意义的起源——本质上是一股不间断的活经验之流（an unbroken stream of lived experiences），这些经验本身没有意义（which have no meaning in themselves）。人们只能通过反思性来回顾性地赋予意义——即回到自身并审视已经发生的事情。对舒茨而言，通过反思性赋予意义取决于人们识别他们所寻求的目的或目标（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
-舒茨的反思性是时间性的——意义不是即时给定的，而是在事后回顾中建构的。研究者在解释田野笔记时，实际上正在对自己的经验进行反思性回顾。
+舒茨的反思性是时间性的——意义不是即时给定的，而是在事后回顾中建构的。研究者在解释[[Field Notes|田野笔记]]时，实际上正在对自己的经验进行反思性回顾。
 
 ### 俗民方法学根基：加芬克尔的相互依存
 
