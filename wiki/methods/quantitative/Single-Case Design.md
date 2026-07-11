@@ -3,11 +3,11 @@ title: Single-Case Design
 aliases:
   - 单一个案设计
   - SCD
-summary: "通过在不同条件下对个体或小群体进行重复测量并让其作为自身控制的实验方法，适合评估小样本干预效果"
+summary: "多义词：量化实验中个体作为自身控制的重复测量设计（ABAB、多基线等），或个案研究中只选取一个案例的研究设计类型（Yin, 2009）"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -16,6 +16,8 @@ tags:
 - scd
 - experimental-design
 - evidence-based-education
+- case-study
+- research-design
 related_concepts:
   - "[[Epistemology]]"
   - "[[Causality]]"
@@ -42,6 +44,7 @@ related_persons: []
 related_arguments:
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[WWC SCD Pilot Standards]]"
@@ -49,21 +52,40 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-07-11
+---
+
+## 概念辨析：两种含义
+
+Single-case design 在教育研究方法论中有两种截然不同的含义，分属不同方法论传统：
+
+> [!contrast-table] 量化实验 SCD 与个案研究单案例设计
+> | 维度 | 量化实验 SCD（本条目） | 个案研究单案例设计（[[Case Study\|个案研究]]语境） |
+> |---|---|---|
+> | 方法论传统 | 量化实验，[[Campbellian Validity Framework]] | 质性/混合方法，[[Case Study\|个案研究]]方法论 |
+> | 典型设计 | ABAB、多基线、交替处理 | 关键案例、极端案例、独特案例、启示性案例、纵向案例 |
+> | 分析单位 | 个体作为自身控制，重复测量 | 一个案例（可包含多个子分析单位） |
+> | 因果逻辑 | 通过撤除/引入干预排除替代解释 | 通过深度理解情境中的机制建立因果解释 |
+> | 推广方式 | 复制逻辑（跨被试、跨情境） | [[Analytic Generalization\|分析性推广]]，案例不是样本 |
+> | 代表文献 | Kazdin (2011); Hitchcock et al. (2015) | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
+> | 核心风险 | 推广性受限，单一研究不足以支撑政策变革 | 全有或全无风险，把所有鸡蛋放在一个篮子里 |
+
+本条目聚焦量化实验传统中的 SCD。个案研究中的单案例设计见 [[Case Study]] 和 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]]。
+
 ---
 
 ## 定义
 
-> [!info] 定义
-> 单一个案设计（single-case design, SCD）是一类实验方法，由多种设计组成，涉及在不同条件下对特定行为或技能进行重复测量，以评估干预对个体或小群体的有效性，个体或小群体作为自身的控制组(Kazdin, 2011; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。
+> [!def] 方法定义
+> 单一个案设计（single-case design, SCD）是一类实验方法，由多种设计组成，涉及在不同条件下对特定行为或技能进行重复测量，以评估干预对个体或小群体的有效性，个体或小群体作为自身的控制组（Kazdin, 2011; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460]]）。
 >
-> > "SCDs are experimental methods consisting of various designs involving repeated measures of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460, citing Kazdin, 2011]])
+> > "SCDs are experimental methods consisting of various designs involving repeated measures of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460, citing Kazdin, 2011]])
 >
 > SCD 起源于心理学领域，已被广泛应用于教育、医学、言语和语言治疗等多个学科。
 
-## 认识论立场
+## 方法定位
 
-> [!abstract] [[Epistemology|认识论]]立场
+> [!method-position] [[Epistemology|认识论]]立场
 > SCD 共享 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生[[Causality|因果]]证据的多种设计类型。SCD 的[[Causality|因果推断]]逻辑与组间实验设计（[[Randomised Controlled Trials|RCT]]、准实验）一致：通过控制对[[Internal Validity|内部效度]]的常见威胁（成熟、历史、回归均值、处理扩散、工具化等），使替代解释变得不可信([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 >
 > > 例：在一个 ABAB 设计中，通过交替引入和撤除干预，研究者可以排除成熟效应（随时间自然改善）和历史效应（外部事件）作为行为变化的替代解释。
@@ -79,52 +101,25 @@ updated: '2026-05-18'
 
 ## 常见设计类型
 
-
-[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.466)]] 列举了 [[What Works Clearinghouse|WWC]] 审查中可能遇到的 SCD 设计类型：
-
-- **ABAB 设计（撤回设计）** 交替引入和撤除干预以建立实验控制，可能仅有一名学生参与（p.466）
-- **多基线设计（Multiple-Baseline Design）** 在不同时间点对不同个体、行为或情境引入干预，可能包含多人（p.466）
-- **交替处理设计（Alternating Treatment Design）** 在同一时期内交替施加不同干预条件
-- **聚合单元设计** 使用班级等聚合单元进行 ABAB 设计（p.466）
+> [!feature] [[What Works Clearinghouse|WWC]] 审查中的 SCD 设计类型
+> - **ABAB 设计（撤回设计）** 交替引入和撤除干预以建立实验控制，可能仅有一名学生参与（[[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 466]]）
+> - **多基线设计（Multiple-Baseline Design）** 在不同时间点对不同个体、行为或情境引入干预，可能包含多人（p. 466）
+> - **交替处理设计（Alternating Treatment Design）** 在同一时期内交替施加不同干预条件
+> - **聚合单元设计** 使用班级等聚合单元进行 ABAB 设计（p. 466）
 
 ## WWC 审查中的操作步骤
 
-> [!example] [[What Works Clearinghouse|WWC]] 审查中的操作步骤
-> [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 通过 WWC SCD 审查流程间接描述了 WWC 如何评估 SCD 研究；这些步骤属于 [[WWC SCD Pilot Standards]] 及其配套审查协议和 SCD Review Guide 的制度化应用，而不是所有 SCD 研究必须遵循的通用研究步骤([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.460–466]])：
+[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 通过 WWC SCD 审查流程间接描述了 WWC 如何评估 SCD 研究；这些步骤属于 [[WWC SCD Pilot Standards]] 及其配套审查协议和 SCD Review Guide 的制度化应用，而不是所有 SCD 研究必须遵循的通用研究步骤（[[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp. 460–466]]）：
 
-
-> [!example] 1. 初步筛选（Screening）
-> 对照审查协议确定研究是否有资格纳入审查：干预是否符合条件、因[[Variable|变量]]和参与者特征是否符合协议参数、研究是否在指定场所进行([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.464–465]])。
->
-> > 例：一个审查协议可能规定干预必须在 K-12 学校环境中实施，在普通教室中可以接受，但在高度专业化人员配置的住宿项目中可能不相关（p.465）。
-
-
-> [!example] 2. [[Internal Validity|内部效度]]评估（Internal Validity Evaluation）
-> [[Evaluation Research|评估研究]]的实验控制水平，包括([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.465]])：
-> - 阶段对比（phase contrasts）的数量
-> - 每个阶段的数据点数量
-> - 结果是否被可靠测量
-> - 研究者是否主动操纵了自变量
-> - 通过视觉分析（visual analysis）评估基线表现相对于干预阶段的表现
-
-
-> [!example] 3. 研究细节描述（Study Details Description）
-> 系统记录以下信息以支持推广性判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.465–466]])：
-> - 场所描述
-> - 设计类型
-> - 参与者特征和[[Sample Size Determination|样本量]]
-> - 因变量的[[Definition of Terms|操作性定义]]和记录方法
-> - 基线和干预条件（会话次数、干预时长）
-> - 实施者及其接受的培训
-> - 干预忠实度（treatment fidelity）
-
-
-> [!example] 4. 证据综合阈值判定（[[5-3-20 Rule]]）
-> 应用 5-3-20 规则判断 SCD 证据是否足够充分以生成 WWC 干预报告（详见 [[5-3-20 Rule]]）。
+> [!proc] WWC SCD 审查流程
+> 1. **初步筛选（Screening）** 对照审查协议确定研究是否有资格纳入审查：干预是否符合条件、因[[Variable|变量]]和参与者特征是否符合协议参数、研究是否在指定场所进行（pp. 464–465）。例如一个审查协议可能规定干预必须在 K-12 学校环境中实施，普通教室可接受，但高度专业化人员配置的住宿项目可能不相关（p. 465）
+> 2. **[[Internal Validity|内部效度]]评估** 评估研究的实验控制水平，包括：阶段对比的数量、每个阶段的数据点数量、结果是否被可靠测量、研究者是否主动操纵了自变量、通过视觉分析评估基线表现相对于干预阶段的表现（p. 465）
+> 3. **研究细节描述** 系统记录以下信息以支持推广性判断：场所描述、设计类型、参与者特征和[[Sample Size Determination|样本量]]、因变量的[[Definition of Terms|操作性定义]]和记录方法、基线和干预条件、实施者及其培训、干预忠实度（pp. 465–466）
+> 4. **证据综合阈值判定** 应用 [[5-3-20 Rule]] 判断 SCD 证据是否足够充分以生成 WWC 干预报告
 
 ## 适用场景
 
-> [!success] 适用场景
+> [!method-fit] 适用判断
 > - **个体或小群体干预评估** 当研究聚焦于个体行为变化而非群体平均效应时([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])
 > - **特殊教育领域** SCD 在特殊教育中被广泛用于识别循证实践（Horner et al., 2005）
 > - **行为[[Intervention Research|干预研究]]** 适用于需要密集、纵向测量的行为改变研究
@@ -134,30 +129,33 @@ updated: '2026-05-18'
 ## 内部效度与外部效度的关系
 
 
-[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 援引 Shadish et al. (2002) 的论证：[[Internal Validity|内部效度]]是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑[[External Validity|外部效度]]（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 SCD 审查中采用**门控程序（[[Gating Procedure]]）** 只有通过内部效度门槛的研究才进入后续的推广性评估（详见 [[Gating Procedure]]）。
+[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462)]] 援引 Shadish et al. (2002) 的论证：[[Internal Validity|内部效度]]是实验设计的"[[Necessary and Sufficient Conditions|必要条件]]"（sin qua non）——如果无法证明干预与结果之间存在[[Causality|因果关系]]，就没有多大必要仔细考虑[[External Validity|外部效度]]（推广性）问题。因此 [[What Works Clearinghouse|WWC]] 在 SCD 审查中采用**门控程序（[[Gating Procedure]]）** 只有通过内部效度门槛的研究才进入后续的推广性评估。
 
 > 例：如果一项 ABAB 设计的基线阶段数据点不足或测量[[Reliability|信度]]存疑，则该研究将被判定为未达到设计标准，不会进入推广性描述阶段。
 
 ## 局限性
 
-> [!warning] 局限性
+> [!method-limits] 方法局限
 > - **推广性挑战** 评估 SCD 的[[External Validity|外部效度]]比评判[[Internal Validity|内部效度]]更复杂——研究者进行证据综合时可能不知道信息消费者希望推广到何种情境([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.462–463]])
 > - **[[Threats to External Validity|外部效度威胁]]多样** 多重处理干扰、跨情境推广性、跨被试推广性、跨结果推广性(Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 > - **普遍信念偏见** 存在一种普遍（但错误）的信念认为 SCD 证据不能推广，尽管事实上它可以(Barlow et al., 2009; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])
 > - **单一研究不足以支撑[[Theories of Policy Change|政策变革]]** 一项 SCD 研究不太可能产生足够的实证证据来支持政策变革，即使它可能推动局部实践的调整([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])
 > - **5-3-20 阈值的任意性**[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, pp.466–467)]] 坦承 5-3-20 标准"在某种程度上是任意的"（somewhat arbitrary），基于专家判断和逻辑，可能过于严格或过于宽松，需要在实践中检验和修订
 
-## 相关概念
+## 相关理论与方法
 
-
-- [[Gating Procedure]] — [[What Works Clearinghouse|WWC]] 在 SCD 审查中采用的门控程序
-- [[5-3-20 Rule]] — WWC 用于判断 SCD 证据充分性的阈值
-- [[Educational Evidence Clearinghouses]] — WWC 和 [[Home Visiting Evidence of Effectiveness|HomVEE]] 展示了 SCD 如何被纳入证据清算中心的设计标准体系([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])
-- [[What Works Clearinghouse]] — 将 SCD 列为可纳入的影响研究设计，并使用门控程序与 5-3-20 规则审查 SCD 证据([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.462, 466]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–9]])
-- [[WWC SCD Pilot Standards]] — SCD 在 WWC 审查体系中的专门技术标准；它规范 WWC 如何审查 SCD 研究，但不等同于 SCD 方法本身([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.459–461]])
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Gating Procedure]] | 方法 | WWC 在 SCD 审查中采用的门控程序，只有通过内部效度门槛的研究才进入推广性评估 |
+> | [[5-3-20 Rule]] | 概念 | WWC 用于判断 SCD 证据充分性的阈值 |
+> | [[Educational Evidence Clearinghouses]] | 概念 | WWC 和 [[Home Visiting Evidence of Effectiveness\|HomVEE]] 展示了 SCD 如何被纳入证据清算中心的设计标准体系 |
+> | [[What Works Clearinghouse]] | 事实 | 将 SCD 列为可纳入的影响研究设计，并使用门控程序与 5-3-20 规则审查 SCD 证据 |
+> | [[WWC SCD Pilot Standards]] | 事实 | SCD 在 WWC 审查体系中的专门技术标准，规范 WWC 如何审查 SCD 研究，但不等同于 SCD 方法本身 |
 
 ## 使用此方法的研究
 
-> [!example] 使用此方法的研究
-> - [[Argument_Hitchcock_2015_JBE]] — 澄清 [[What Works Clearinghouse|WWC]] SCD 审查程序如何捕获推广性信息
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 澄清 [[What Works Clearinghouse|WWC]] SCD 审查程序如何捕获推广性信息
 
