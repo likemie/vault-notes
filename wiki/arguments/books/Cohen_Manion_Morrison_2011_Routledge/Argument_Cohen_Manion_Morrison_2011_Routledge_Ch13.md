@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
-  - "[[Self-report Bias]]"
   - "[[Research Topic]]"
   - "[[Research Question]]"
   - "[[Null Hypothesis]]"
@@ -53,10 +52,10 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
+  - "[[Pre-test Sensitisation]]"
   - "[[Document]]"
   - "[[Emergence]]"
   - "[[International Education]]"
-  - "[[Pre-test Sensitisation]]"
   - "[[Sensitive Research]]"
   - "[[Internal Consistency]]"
 related_methods:
@@ -209,7 +208,7 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 
 两个核心问题：数据由研究者录入还是参与者自填？调查通过何种方式施测（邮寄、电话、互联网、面对面访谈、电子邮件）？
 
-> [!warning] [[Self-report Bias|自报（self-reporting）]]的三重偏差风险
+> [!warning] 自报（self-reporting）的三重偏差风险
 > 自报与面对面调查访谈或电话访谈获得的回答可能存在显著差异(Dale, 2006, p. 145)。偏差来源有三：
 >
 > 1. **低报（under-report）** 回避社会不期望的回答，如青少年低报饮酒、吸烟或药物使用量
@@ -302,7 +301,7 @@ Fowler (2009, p. 15)指出受访者给出的答案是**真实回答 + 回答误�
 
 #### 插补方法：从简单到复杂
 
-Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150)和 Durrant (2006, 2009)回顾了一系列**[[Imputation Methods|插补方法（imputation methods）]]**，即用"合理值"填充缺失数据，使数据集完整同时减少无回应偏倚——无回应者的值可能系统性不同于有回应者，直接删除会扭曲结果(Durrant, 2009, p. 295)。选择哪种方法取决于无回应集中在一个变量还是多个变量、是否存在可识别的无回应模式：
+Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150)和 Durrant (2006, 2009)回顾了一系列**[[Imputation Methods|插补方法]]（imputation methods）**，即用"合理值"填充缺失数据，使数据集完整同时减少无回应偏倚——无回应者的值可能系统性不同于有回应者，直接删除会扭曲结果(Durrant, 2009, p. 295)。选择哪种方法取决于无回应集中在一个变量还是多个变量、是否存在可识别的无回应模式：
 
 > [!chain-link] 插补方法链：从简单均值到倾向得分赋权
 > - **回归插补**
@@ -438,7 +437,7 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 > | 代表设计 | 队列研究、趋势研究 | 关注已达到定义终点的个体 |
 > | 典型问题 | "这些个体随时间如何变化？" | "过去什么可以解释他们目前的处境？" |
 > | 需明确 | 数据收集的时间点和频率 | 回溯的时间段（如一年、五年） |
-> | 关键风险 | 样本流失、预试敏感化 | 记忆偏差（越远越严重） |
+> | 关键风险 | 样本流失、[[Pre-test Sensitisation\|预试敏感化]] | 记忆偏差（越远越严重） |
 
 Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。Lazarsfeld 在 1940 年代引入面板概念，旨在识别因果模式和追踪因果关系中的困难(Ruspini, 2002, p. 13) (p.267）。
 
