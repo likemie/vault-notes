@@ -616,16 +616,16 @@ Lofland（1971）推荐的和King（1979）及Wolcott（1973）在其民族志�
 Yin（2009, p. 133）做出了一个重要观点：个案研究报告应考虑对发现的竞争性解释，并说明所采纳的解释为何优于其竞争者：
 
 > [!feature] Yin（2009, pp. 133–135）的九类竞争性解释
-> - **偶然/巧合的作用（the role of chance/coincidence）**
-> - **[[Experimenter Bias|实验者效应]]或情境效应（experimenter effects or situation effects）**，即反应性
-> - **研究者偏见（researcher bias）**
-> - **对案例的其他影响（other influences on the case）**
-> - **协变性或另一变量的影响（covariance or the influence of another variable）**，即不同于报告中的干预或情境的另一个原因解释了效应
-> - **对数据显示内容的替代解释（alternative explanations of what the data show）**
-> - **干预的过程而非其内容解释了结果（the process of the intervention, rather than its contents, explain the outcome）**
-> - **不同的理论可以更充分和更贴切地解释发现（a different theory can explain the findings more fully and fittingly）**
-> - **干预是在个案研究时已经在发生的更大干预的一部分（the intervention was part of a much bigger intervention that was already taking place）**，因此被纳入该更大干预之中
-> - **观察到的变化可能无论如何都会发生（observed changes might have happened anyway）**，即使没有个案研究的干预
+> - **偶然或巧合** 结果可能只是碰巧出现
+> - **[[Experimenter Bias|实验者效应]]或情境效应** 即反应性，研究行为本身改变了情境
+> - **研究者偏见** 研究者选择性收集或解释数据
+> - **对案例的其他影响** 案例之外的因素导致了观察到的变化
+> - **协变性或另一变量的影响** 一个未测量的第三变量同时解释了干预和结果
+> - **对数据的替代解释** 同样的数据可以有不同的解读
+> - **干预的过程而非内容解释了结果** 起作用的是实施方式，而非干预本身的设计
+> - **不同理论可以更充分解释发现** 存在比研究者采纳的理论更有解释力的竞争理论
+> - **干预是更大干预的一部分** 案例被纳入已经在进行的更大范围变革，效果无法分离
+> - **变化可能无论如何都会发生** 即使没有个案研究的干预，观察到的变化也可能自然出现
 
 ---
 
