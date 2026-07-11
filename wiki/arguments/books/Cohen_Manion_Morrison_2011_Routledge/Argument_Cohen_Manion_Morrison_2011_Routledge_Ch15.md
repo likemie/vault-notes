@@ -341,19 +341,15 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 
 #### 可用于事后回溯研究的公共数据库
 
-> [!feature] 六类数据来源（pp. 311–312）
-> - **政府数据库**
->   data.gov.uk、DfE（www.gov.uk/dfe）、HESA（www.hesa.ac.uk）、GSR（www.gsr.gov.uk）
-> - **研究机构**
->   UK Data Service（www.data-archive.ac.uk）
-> - **研究联盟**
->   ICPSR（www.icpsr.umich.edu）
-> - **国际组织**
->   欧盟 Eurydice（eurydice.eacea.ec.europa.eu）、[[OECD]]（stats.oecd.org）、[[PISA]]（www.oecd.org/pisa/）、UNESCO（www.uis.unesco.org）、世界银行（data.worldbank.org）、TIMSS（nces.ed.gov/timss/）
-> - **个别数据集**
->   BERA（www.bera.ac.uk）
-> - **高校持有数据集**
->   CLS 英国队列研究（www.cls.ioe.ac.uk）、SCI-Hub（sci-hub.sg）
+> [!ref-table] 教育研究可用的公共领域数据库与数据集（pp. 311–312）
+> | 类别 | 来源 |
+> |---|---|
+> | 政府数据库 | [英国政府开放数据（data.gov.uk）](https://data.gov.uk)、[教育部（DfE）](https://www.gov.uk/dfe)、[高等教育统计局（HESA）](https://www.hesa.ac.uk)、[政府社会研究（GSR）](https://www.gsr.gov.uk) |
+> | 研究机构 | [英国数据服务（UK Data Service）](https://www.data-archive.ac.uk) |
+> | 研究联盟 | [校际政治与社会研究联盟（ICPSR）](https://www.icpsr.umich.edu) |
+> | 国际组织 | [欧盟教育信息网络（Eurydice）](https://eurydice.eacea.ec.europa.eu)、[[OECD]]、[国际学生评估（PISA）](https://www.oecd.org/pisa/)、[教科文组织统计所（UNESCO）](https://www.uis.unesco.org)、[世界银行（World Bank）](https://data.worldbank.org)、[国际数学与科学趋势（TIMSS）](https://nces.ed.gov/timss/) |
+> | 个别数据集 | [英国教育研究协会（BERA）](https://www.bera.ac.uk) |
+> | 高校数据集 | [英国队列研究（CLS）](https://www.cls.ioe.ac.uk)
 
 ---
 
