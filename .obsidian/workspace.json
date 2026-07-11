@@ -37,7 +37,8 @@
               "title": "Pierre Bourdieu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +206,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "0ec4b7749d7a06eb",
   "lastOpenFiles": [
-    "wiki/concepts/research-methodology/Experimenter Bias.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
+    "wiki/concepts/research-methodology/Progressive Focussing.md",
+    "wiki/concepts/research-methodology/Experimenter Bias.md",
     "wiki/persons/france/Pierre Bourdieu.md",
     "wiki/methods/quantitative/Single-Case Design.md",
     "wiki/concepts/research-methodology/Analytic Generalization.md",
@@ -234,7 +236,6 @@
     "wiki/concepts/political-economy-geopolitics/Governing at a Distance.md",
     "wiki/concepts/political-economy-geopolitics/Banal Imperialism.md",
     "wiki/concepts/research-methodology/Self-report Bias.md",
-    "wiki/methods/quantitative/Random Sampling.md",
     "wiki/facts/hong-kong",
     "wiki/facts/new-zealand",
     "wiki/arguments/books/Cohen_etal_2011_Routledge",
