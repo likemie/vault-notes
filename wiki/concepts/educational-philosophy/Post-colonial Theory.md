@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-07-11
 ---
 
 # Post-colonial Theory
@@ -36,7 +36,7 @@ updated: 2026-06-17
 ## 定义
 
 > [!def] 核心定义
-> 后殖民理论与[[Postmodernism|后现代主义]]有亲缘性，处理后殖民社会的经验（通常通过电影、文学、文化研究、政治和社会科学）和殖民主义的文化遗产。它审视帝国主义、支配和压制的意识形态与话语的后效——包括西方价值观的支配和非西方价值观的去合法化——及其对参与者日常生活经验的实质性影响（materiality）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011c, pp. 412–413)]]
+> 后殖民理论与[[Postmodernism|后现代主义]]有亲缘性，处理后殖民社会的经验（通常通过电影、文学、文化研究、政治和社会科学）和殖民主义的文化遗产。它审视帝国主义、支配和压制的意识形态与话语的后效——包括西方价值观的支配和非西方价值观的去合法化——及其对参与者日常生活经验的实质性影响（materiality）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 412–413)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 殖民主义不仅是一个历史事件，更是一套持续运作的话语和意识形态系统——即使在正式殖民结束后，西方知识体系和价值观仍然以"普适性"为名支配着非西方社会对自身的理解。后殖民理论的任务是揭示、批判和解构这一延续。
@@ -48,7 +48,7 @@ updated: 2026-06-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **[[Orientalism|东方主义]]（Orientalism）** Said（1978）的奠基性概念——西方学术和文化传统如何将非西方群体系统性地建构为"他者"（the other），即神秘的、落后的、需要被西方文明[[Bildung|教化]]的对象。东方主义不是关于东方的客观知识，而是**权力和知识的共谋**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011c, pp. 412–413)]]
+> - **[[Orientalism|东方主义]]（Orientalism）** Said（1978）的奠基性概念——西方学术和文化传统如何将非西方群体系统性地建构为"他者"（the other），即神秘的、落后的、需要被西方文明[[Bildung|教化]]的对象。东方主义不是关于东方的客观知识，而是**权力和知识的共谋**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 412–413)]]
 > - **多元声音与[[Heterogeneity|异质性]]的价值化** Babha（1994: 113）主张后殖民社会中的多元声音和异质性不应被视为"问题"或"落后"，而应被价值化——这些声音本身就是对单一支配叙事的抵抗。
 > - **抵抗边缘化** 后殖民理论关注后殖民社会中的群体如何抵抗被边缘化——不仅是政治抵抗，更是文化和话语层面的抵抗。
 > - **身份的建构** 在殖民和新殖民条件下，身份的建构是一个持续的斗争过程——被殖民者如何在被强加的身份（他者）和自我定义的身份之间协商。
@@ -58,4 +58,4 @@ updated: 2026-06-17
 ## 应用案例
 
 > [!case] 应用案例索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011c, pp. 412–413)]] — 后殖民理论被列为[[Critical Theory|批判理论]]伞下的重要取向，Said 的[[Orientalism|东方主义]]和 Babha 的多元声音是核心概念。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 412–413)]] — 后殖民理论被列为[[Critical Theory|批判理论]]伞下的重要取向，Said 的[[Orientalism|东方主义]]和 Babha 的多元声音是核心概念。

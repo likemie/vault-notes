@@ -58,7 +58,7 @@ updated: 2026-07-11
 纵向研究的吸引力在于其能够建立因果关系和进行推断。Ruspini (2002, p. 26)补充指出，纵向研究能够"构建比纯粹的横截面或时间序列数据更复杂的行为模型"，它们捕捉了人类行为的复杂性。此外，纵向研究可以结合数值数据和质性数据（p.268）。
 
 > [!citation-card]- 关键定义
-> 纵向研究可以结合数值数据和质性数据，构建比纯粹的横截面或时间序列数据更复杂的行为模型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]]
+> 纵向研究可以结合数值数据和质性数据，构建比纯粹的横截面或时间序列数据更复杂的行为模型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]]
 >
 > *Longitudinal studies can combine numerical and qualitative data. They enable researchers to [[Construct]] more complicated behavioural models than purely cross-sectional or time-series data.* (Ruspini, 2002, p. 26)
 
@@ -168,7 +168,7 @@ updated: 2026-07-11
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要建立[[Causality|因果关系]]和进行推断的研究；需要追踪个体或群体随时间变化的研究（如人类发展、教育增值、职业生涯追踪）；需要分析社会现象持续时间的研究；需要区分年龄效应、队列效应和时期效应的研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]]
+> - **适合使用** 需要建立[[Causality|因果关系]]和进行推断的研究；需要追踪个体或群体随时间变化的研究（如人类发展、教育增值、职业生涯追踪）；需要分析社会现象持续时间的研究；需要区分年龄效应、队列效应和时期效应的研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]]
 > - **谨慎使用** 时间框架和预算有限的研究（纵向研究耗时且昂贵）；样本流失风险高的群体（如流动人口、弱势群体）；需要快速产出结果以满足政策或资助截止日期的项目。
 > - **不适合使用** 仅需总体单一时刻"快照"的描述性研究（此时[[Cross-sectional Study|横截面研究]]更合适）；无法保证多轮数据收集的可行性和连续性的情境；研究团队不稳定或数据收集工具无法在时间上保持严格一致的情境。
 
@@ -200,4 +200,4 @@ updated: 2026-07-11
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]] — 系统讨论了纵向研究作为[[Survey Research|调查研究]]设计的定义、类型（前瞻性/回溯性、队列/面板/趋势）、优势与局限，以及与其他研究设计的比较。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统讨论了纵向研究作为[[Survey Research|调查研究]]设计的定义、类型（前瞻性/回溯性、队列/面板/趋势）、优势与局限，以及与其他研究设计的比较。

@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-07-05
+updated: 2026-07-11
 ---
 
 # René Descartes

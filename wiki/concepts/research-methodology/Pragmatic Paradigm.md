@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-07-11
 ---
 
 # Pragmatic Paradigm
@@ -42,9 +42,9 @@ updated: 2026-06-14
 ## 定义
 
 > [!def] 实用主义（pragmatism）
-> 实用主义本质上是实践驱动的（practice-driven, Denscombe, 2008: 280）而非理想化的。它不执着于任何单一哲学或现实体系，而是以[[Research Question|研究问题]]为中心，使用所有可用的方法来理解问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+> 实用主义本质上是实践驱动的（practice-driven, Denscombe, 2008: 280）而非理想化的。它不执着于任何单一哲学或现实体系，而是以[[Research Question|研究问题]]为中心，使用所有可用的方法来理解问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
-[[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和[[Epistemology|认识论]]为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而[[Mixed Methods Research|混合方法]]取向则以实用主义的本体论和认识论为前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+[[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和[[Epistemology|认识论]]为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而[[Mixed Methods Research|混合方法]]取向则以实用主义的本体论和认识论为前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ---
 
@@ -78,7 +78,7 @@ updated: 2026-06-14
 
 ## 实践共同体
 
-Denscombe（2008）从库恩的[[Paradigm|范式]]论出发，主张将[[Mixed Methods Research|混合方法]]范式定义为一个新的"实践共同体"（community of practice）——由采纳混合方法研究原则的志同道合的研究者组成。以实践共同体的方式来理解混合方法取向，尊重了这一取向的实用主义底蕴（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+Denscombe（2008）从库恩的[[Paradigm|范式]]论出发，主张将[[Mixed Methods Research|混合方法]]范式定义为一个新的"实践共同体"（community of practice）——由采纳混合方法研究原则的志同道合的研究者组成。以实践共同体的方式来理解混合方法取向，尊重了这一取向的实用主义底蕴（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ---
 

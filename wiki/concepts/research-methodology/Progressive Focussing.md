@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 
 # Progressive Focussing
@@ -38,7 +38,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 逐步聚焦是 Parlett & Hamilton（1976）提出的[[Qualitative Research|质性研究]]数据分析策略。研究者首先以广角镜头（wide angle lens）收集数据，随后通过筛选（sifting）、归类（sorting）、审视（reviewing）和反思（reflecting），逐步识别出情境中最显著的突出特征（salient features），并将这些特征作为后续聚焦的议程。整个过程如同漏斗过滤——从宽泛走向精炼。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 435)]]
+> 逐步聚焦是 Parlett & Hamilton（1976）提出的[[Qualitative Research|质性研究]]数据分析策略。研究者首先以广角镜头（wide angle lens）收集数据，随后通过筛选（sifting）、归类（sorting）、审视（reviewing）和反思（reflecting），逐步识别出情境中最显著的突出特征（salient features），并将这些特征作为后续聚焦的议程。整个过程如同漏斗过滤——从宽泛走向精炼。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 435)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种质性研究的数据收集与分析策略，强调在初始阶段尽量开放地收集数据，再通过反复的筛选、比较和反思逐步收窄焦点。
@@ -46,7 +46,7 @@ updated: 2026-06-24
 > - **边界** 不等于随机或无序的数据收集——逐步聚焦是有意识的策略性收窄。也不等于[[Grounded Theory|扎根理论]]的[[Theoretical Sampling|理论抽样]]——虽然两者都强调从数据出发，但逐步聚焦更侧重于从广到窄的聚焦过程，而非理论生成导向的抽样决策。
 
 > [!citation-card]- 关键表述
-> 逐步聚焦从研究者以广角镜头收集数据开始，然后通过筛选、归类、审视和反思，情境中最显著的突出特征浮现出来。这些特征随后被用作后续聚焦的议程。整个过程如同从宽泛走向狭窄的漏斗过滤。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 435)]]
+> 逐步聚焦从研究者以广角镜头收集数据开始，然后通过筛选、归类、审视和反思，情境中最显著的突出特征浮现出来。这些特征随后被用作后续聚焦的议程。整个过程如同从宽泛走向狭窄的漏斗过滤。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 435)]]
 >
 > *Progressive focussing starts with the researcher taking a wide angle lens to gather data, and then, by sifting, sorting, reviewing and reflecting on them, the salient features of the situation emerge. These are then used as the agenda for subsequent focusing. The process is like funnelling from the wide to the narrow.*
 
@@ -74,4 +74,4 @@ updated: 2026-06-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 将逐步聚焦纳入质性数据分析的七步骤框架的总体策略，并指出其在[[Longitudinal Study|纵向研究]]中的应用（p. 435–436）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将逐步聚焦纳入质性数据分析的七步骤框架的总体策略，并指出其在[[Longitudinal Study|纵向研究]]中的应用（p. 435–436）。

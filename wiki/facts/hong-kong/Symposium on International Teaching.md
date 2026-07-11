@@ -14,7 +14,7 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
-- region/hongkong
+- region/hong-kong
 - level/k12
 - level/higher-ed
 related_concepts:

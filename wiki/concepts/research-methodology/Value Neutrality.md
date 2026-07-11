@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-18
+updated: 2026-07-11
 ---
 
 # Value Neutrality
@@ -71,16 +71,16 @@ updated: 2026-06-18
 ## 定义
 
 > [!def] 核心定义
-> 价值中立（Value neutrality / Value freedom / 德语：Wertfreiheit）是主张科学研究应系统排除研究者个人的价值偏好、偏见、意识形态和利益立场，以客观、中性的程序追求客观知识的主张。它强调“事实判断”（Fact）与“价值判断”（Value）之间的二分，要求研究发现不受研究者主观信念的干扰。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 29]])
+> 价值中立（Value neutrality / Value freedom / 德语：Wertfreiheit）是主张科学研究应系统排除研究者个人的价值偏好、偏见、意识形态和利益立场，以客观、中性的程序追求客观知识的主张。它强调“事实判断”（Fact）与“价值判断”（Value）之间的二分，要求研究发现不受研究者主观信念的干扰。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 29]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种[[Positivism|实证主义]]的[[Epistemology|认识论]]立场，预设外部客观实在可以与研究者的主观世界相分离，知识的有效性仅取决于程序和证据的科学性。
-> - **用途** 在科学哲学中用作区分科学与非科学的边界标尺，在研究方法论中也常被用作区分“科学研究”（追求中立规律）与“项目评估”（需呈现多重利益相关者的价值立场）的关键指标。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 34]])
+> - **用途** 在科学哲学中用作区分科学与非科学的边界标尺，在研究方法论中也常被用作区分“科学研究”（追求中立规律）与“项目评估”（需呈现多重利益相关者的价值立场）的关键指标。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 34]])
 > - **边界** 它指的是[[Knowledge Production|知识生产]]过程中的方法论规范，并不等同于研究者在伦理上的冷漠，亦非要求研究者作为公民放弃道德立场。
 
 > [!boundary] 概念边界
 > - **不等于客观性（Objectivity）** 客观性关注的是研究结果与外部事实的符合程度，而价值中立关注的是研究者在得出结论时是否清除了个人价值偏好的干扰。
-> - **不等于意识形态真空** 批判社会科学认为，声称中立的尝试往往由于预设了现有社会体制的合理性，从而在效果上走向了维护既得利益现状的意识形态立场。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 29]])
+> - **不等于意识形态真空** 批判社会科学认为，声称中立的尝试往往由于预设了现有社会体制的合理性，从而在效果上走向了维护既得利益现状的意识形态立场。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 29]])
 
 ---
 
@@ -109,10 +109,10 @@ updated: 2026-06-18
 ## 围绕概念形成的命题
 
 > [!claim] 命题一：价值中立是研究区别于评估的关键边界
-> Smith & Glass (1987) 将价值立场列为区分研究（Research）与评估（Evaluation）的八个根本维度之一。研究的[[Epistemology|认识论]]旨趣是发现普适性的客观规律，因而追求价值中立；而评估是为了服务于具体的决策和改进，必须积极呈现包括资助方、教师、学生 and 社区在内的多重价值立场，并包含关于这些价值冲突的数据。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 34]])
+> Smith & Glass (1987) 将价值立场列为区分研究（Research）与评估（Evaluation）的八个根本维度之一。研究的[[Epistemology|认识论]]旨趣是发现普适性的客观规律，因而追求价值中立；而评估是为了服务于具体的决策和改进，必须积极呈现包括资助方、教师、学生 and 社区在内的多重价值立场，并包含关于这些价值冲突的数据。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 34]])
 
 > [!claim] 命题二：声称价值中立本身就是一种意识形态立场
-> [[Critical Pedagogy|批判教育学]]与批判社会学理论（如 Jurgen [[Jürgen Habermas|Habermas]] 的解放旨趣）指出，所有的[[Knowledge Production|知识生产]]都由特定的利益（Knowledge-constitutive Interests）所构成。在充满权力不对等 and 阶级压迫的社会中，声称“价值中立”的研究由于不挑战现有的权力秩序，在实效上起到了维护 status quo（现状）的作用。这种“政治中立”的呼吁本身就是意识形态饱和的，它通过假装无辜来掩盖自身服务于支配阶级利益的事实。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 29]]); ([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 113]])
+> [[Critical Pedagogy|批判教育学]]与批判社会学理论（如 Jurgen [[Jürgen Habermas|Habermas]] 的解放旨趣）指出，所有的[[Knowledge Production|知识生产]]都由特定的利益（Knowledge-constitutive Interests）所构成。在充满权力不对等 and 阶级压迫的社会中，声称“价值中立”的研究由于不挑战现有的权力秩序，在实效上起到了维护 status quo（现状）的作用。这种“政治中立”的呼吁本身就是意识形态饱和的，它通过假装无辜来掩盖自身服务于支配阶级利益的事实。([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 29]]); ([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 113]])
 
 > [!claim] 命题三：[[Evidence-Based Education|循证教育]]中的“中立证据”修辞是新自由主义[[Governing by Numbers|以数字治理]]的工具
 > 在循证教育（EBE）与“什么有效”运动（[[What Works Movement]]）中，政策制定者和技术官僚宣扬以“客观、中立、去价值”的 [[Randomised Controlled Trials|RCT]] [[Effect Size|效应量]] and 统计均值来直接指导教学。[[Terry Wrigley]] 指出，这种价值中立的科学修辞本质上是新自由主义审计文化的体现：它故意避开关于教育目的（如陶冶 [[Bildung]]、解放、社会正义）的民主价值审议，将本质上高度 contestable（有争议）的政治与价值抉择，转化为纯粹关于效率传递的技术性数学计算。通过将政策包装为“中立证据的自然推导”，它确立了标准知识的霸权，压制了关于社会不平等的民主讨论，从而消解了教师的[[Professional Judgment|专业判断]]力。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 4]]); ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
@@ -142,7 +142,7 @@ updated: 2026-06-18
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 揭示[[Evidence-Based Education|循证教育]]如何利用“价值中立”的统计均值修辞，压制关于教育目的与阶级不平等的民主审议。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]] — 阐述了[[Critical Theory|批判理论]]对价值中立的批判，指出政治中立本身即是维护现状的意识形态。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]] — 阐述了[[Critical Theory|批判理论]]对价值中立的批判，指出政治中立本身即是维护现状的意识形态。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]] — 批评澳大利亚官方强制推行脑科学核心课程，指出其并非价值中立的循证决策，而是权力网络确立知识霸权的政治动员。
 > - [[Argument_Rambla_2022_Springer|Rambla, 2022]] — 论证学校绩效排名和指标体系绝非客观中立的测量，而是嵌入了特定意识形态利益的政治权力工具。
 

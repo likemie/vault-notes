@@ -7,8 +7,8 @@ aliases:
   - 克雷斯维尔
 summary: "美国混合方法研究方法论学者，密歇根大学家庭医学教授，混合方法研究国际研究协会创始主席，Journal of Mixed Methods Research 创刊主编"
 type: person
-nationality: usa
-person_region: "usa"
+nationality: us
+person_region: "us"
 person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"

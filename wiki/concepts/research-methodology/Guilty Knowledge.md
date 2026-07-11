@@ -24,14 +24,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-11
 ---
 # Guilty Knowledge
 
 ## 定义
 
 > [!def] 核心定义
-> 有罪知识（guilty knowledge）指研究者在[[Sensitive Research|敏感研究]]中，因接触越轨群体或秘密行为而持有的、可能给研究者和参与者双方带来个人与职业风险的知识（De Laine, 2000, p. 67）。这一概念与 Klockars (1979) 的"肮脏之手（dirty hands）"密切相关——研究者在知晓越轨行为或反态度时，自身也陷入了伦理困境（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 209]]）。
+> 有罪知识（guilty knowledge）指研究者在[[Sensitive Research|敏感研究]]中，因接触越轨群体或秘密行为而持有的、可能给研究者和参与者双方带来个人与职业风险的知识（De Laine, 2000, p. 67）。这一概念与 Klockars (1979) 的"肮脏之手（dirty hands）"密切相关——研究者在知晓越轨行为或反态度时，自身也陷入了伦理困境（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 209]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 有罪知识描述的是研究者作为信息持有者所处的困境：知晓了可能伤害他人、违法或违背公共利益的信息，但披露这些信息又可能破坏研究关系、违背[[Confidentiality|保密承诺]]或危及自身安全。
@@ -51,7 +51,7 @@ updated: 2026-06-22
 > | 典型情境 | 受访者在访谈中意外透露校长的酗酒问题 | 研究者潜入帮派后目睹犯罪活动却保持沉默 |
 > | 关系 | 有罪知识常常导致肮脏之手——被动获取的信息使研究者陷入主动的伦理困境 | 肮脏之手是有罪知识的实践后果 |
 
-两者紧密关联：有罪知识描述的是研究者知道了什么，肮脏之手描述的是研究者因知道而变成了什么。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011a, p. 209)]] 将两者并列讨论，因为它们共同指向[[Sensitive Research|敏感研究]]的核心伦理问题：容忍的界限在哪里。
+两者紧密关联：有罪知识描述的是研究者知道了什么，肮脏之手描述的是研究者因知道而变成了什么。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, p. 209)]] 将两者并列讨论，因为它们共同指向[[Sensitive Research|敏感研究]]的核心伦理问题：容忍的界限在哪里。
 
 ---
 
@@ -68,7 +68,7 @@ updated: 2026-06-22
 ## 应用案例
 
 > [!case] 经典案例
-> - **Patrick (1973) 的格拉斯哥帮派研究** 研究者目睹了一起谋杀——应报告警方从而暴露身份，还是保持沉默以维持与帮派的接触？后者违反法律（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 209]]）。
+> - **Patrick (1973) 的格拉斯哥帮派研究** 研究者目睹了一起谋杀——应报告警方从而暴露身份，还是保持沉默以维持与帮派的接触？后者违反法律（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 209]]）。
 > - **教师访谈中的有罪知识** 在访谈教师关于校长领导力时，受访者透露校长与某位家长有性关系，或有酗酒问题。研究者应当如何处理这些信息？。
 > - **De Laine (2000)** 指出有罪知识可能来自同事——研究者在学校中接触到关于同事的敏感信息，带来个人和职业风险（p. 67）。
 

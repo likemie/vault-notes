@@ -31,7 +31,7 @@ related_methods:
   - "[[Triangulation]]"
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 # Halo Effect
 
@@ -68,7 +68,7 @@ updated: 2026-06-24
 
 ## 光环效应与牛角效应
 
-在自然主义和[[Ethnography|民族志研究]]中，光环效应和牛角效应被列为影响研究[[Reliability|可靠性]]和可信度的十大内在困难之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011b]], p. 452）：
+在自然主义和[[Ethnography|民族志研究]]中，光环效应和牛角效应被列为影响研究[[Reliability|可靠性]]和可信度的十大内在困难之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], p. 452）：
 
 > [!contrast-table] 光环效应 vs 牛角效应
 > | 维度 | 光环效应（Halo Effect） | 牛角效应（Horns Effect） |

@@ -6,7 +6,7 @@ aliases:
   - 富布莱特项目
 summary: "1946年由美国参议员富布莱特推动设立的国际教育交流项目，冷战期间被用作传播美国价值观、培养亲美政治主体和消除苏联威胁的地缘政治工具。"
 type: fact
-fact_region: "usa"
+fact_region: "us"
 fact_kind: "unknown"
 fact_related_count: 5
 fact_related_level: 0
@@ -17,7 +17,7 @@ tags:
   - cultural-diplomacy
   - cold-war
   - international-education
-  - region/usa
+  - region/us
   - theme/geopolitics
 related_concepts:
   - "[[International Education]]"

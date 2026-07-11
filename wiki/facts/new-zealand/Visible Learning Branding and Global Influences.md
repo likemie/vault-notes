@@ -17,7 +17,7 @@ tags:
 - commercialization
 - branding
 - global-policy-adoption
-- region/newzealand
+- region/new-zealand
 - region/australia
 - region/denmark
 - region/sweden

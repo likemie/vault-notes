@@ -68,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-02
+updated: 2026-07-11
 ---
 
 # Qualitative Interview
@@ -84,7 +84,7 @@ updated: 2026-06-02
 
 ## 访谈在自然主义研究中的定位
 
-在半结构化的自然主义/[[Ethnography|民族志]]访谈中，Carspecken（1996: 159–160）描述了访谈者干预程度的光谱：从"温和鼓励"（bland encouragements）→"非引导性"引导→主动倾听→低推断改述→中推断改述→高推断改述。自然主义访谈的有效性标准包括诚实性、回答的深度、丰富性以及受访者的投入程度（Oppenheim, 1992）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 431–432)]]
+在半结构化的自然主义/[[Ethnography|民族志]]访谈中，Carspecken（1996: 159–160）描述了访谈者干预程度的光谱：从"温和鼓励"（bland encouragements）→"非引导性"引导→主动倾听→低推断改述→中推断改述→高推断改述。自然主义访谈的有效性标准包括诚实性、回答的深度、丰富性以及受访者的投入程度（Oppenheim, 1992）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 431–432)]]
 
 Lincoln & Guba（1985: 268–270）提出访谈的四类目的：
 
@@ -109,7 +109,7 @@ Silverman（1993: 92–93）补充了访谈的六项用途：
 > | 引出理由和解释 | 获取参与者自身的归因和阐释。 |
 
 > [!warning] 访谈不是自动适用
-> 某些文化参与者可能觉得访谈（或任何正式言语沟通）是异化的。在敏感群体中（如海洛因使用者），问太多问题不明智——正式访谈可能异化，不如用非正式对话和田野笔记替代（Maxwell, 2005: 93; Whyte, 1993: 303）。Miller & Dingwall（1997）也指出访谈对部分参与者来说可能太正式或不自然——它不同于日常对话，部分参与者在非对话情境中可能不会敞开心扉。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 432–433)]]
+> 某些文化参与者可能觉得访谈（或任何正式言语沟通）是异化的。在敏感群体中（如海洛因使用者），问太多问题不明智——正式访谈可能异化，不如用非正式对话和田野笔记替代（Maxwell, 2005: 93; Whyte, 1993: 303）。Miller & Dingwall（1997）也指出访谈对部分参与者来说可能太正式或不自然——它不同于日常对话，部分参与者在非对话情境中可能不会敞开心扉。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 432–433)]]
 
 ---
 

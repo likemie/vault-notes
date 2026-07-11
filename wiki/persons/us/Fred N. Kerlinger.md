@@ -7,8 +7,8 @@ aliases:
   - 科林格
 summary: "美国教育心理学家和方法论学者，以 Foundations of Behavioral Research 和对量化研究中理论的经典定义而著称"
 type: person
-nationality: usa
-person_region: "usa"
+nationality: us
+person_region: "us"
 person_related_count: 5
 person_related_level: 0
 person_related_stars: ""

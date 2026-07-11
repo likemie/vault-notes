@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-20
+updated: 2026-07-11
 ---
 # Informed Consent
 
@@ -202,7 +202,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 
 ## 敏感研究中的知情同意
 
-在[[Sensitive Research|敏感研究]]中，知情同意的伦理张力被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 210–212]]）。
+在[[Sensitive Research|敏感研究]]中，知情同意的伦理张力被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 210–212]]）。
 
 > [!tension] 知情同意 vs [[Research Practicability|研究可行性]]
 > - **知情同意作为不可协商的底线** 不获得知情同意可能导致参与者感到被欺骗、被剥削和被利用。当研究结果最终发表、参与者意识到自己未经同意就被研究时，研究者被视为捕食者（Lee, 1993, p. 157），利用研究作为地位和职业晋升的工具。

@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 
 # Rapport in Qualitative Research
@@ -35,7 +35,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 融洽关系（rapport）是质性[[Fieldwork|田野研究]]中研究者与参与者之间建立的信任、相互理解和合作的工作关系。它不是一个有或无的二元状态，也不是可以一次性达成的静态成就——融洽关系的性质、程度和类型随时间、人和事件的演变而持续变化，需要不断协商和重新协商。融洽关系的有无直接影响数据收集质量、抽样决策和研究设计的推进。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 428–430)]]
+> 融洽关系（rapport）是质性[[Fieldwork|田野研究]]中研究者与参与者之间建立的信任、相互理解和合作的工作关系。它不是一个有或无的二元状态，也不是可以一次性达成的静态成就——融洽关系的性质、程度和类型随时间、人和事件的演变而持续变化，需要不断协商和重新协商。融洽关系的有无直接影响数据收集质量、抽样决策和研究设计的推进。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 428–430)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种动态的、情境依赖的研究关系质量，不仅包括参与者是否愿意提供信息，还包括信息提供的深度、开放性和真实性。
@@ -43,7 +43,7 @@ updated: 2026-06-24
 > - **边界** 不等于友谊或亲密关系——融洽关系虽然包含人际温暖，但其根本目的是服务于研究，需要保持研究-参与者的专业边界。过多的融洽可能引入新的偏误（如参与者只为取悦研究者而提供信息）。Seidman（1998: 80–82）指出融洽关系的量并非越多越好——太多或太少都可能成为问题。
 
 > [!citation-card]- 关键表述
-> 融洽关系是一个有问题的概念，因为它不是一个关于数量或程度的单一概念（事实上一个人可能有太多或太少），而是其性质和类型随时间、人和事件的演变而变化。融洽关系和关系影响数据收集、抽样和研究设计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 429–430, 引自Maxwell, 2005: 83)]]
+> 融洽关系是一个有问题的概念，因为它不是一个关于数量或程度的单一概念（事实上一个人可能有太多或太少），而是其性质和类型随时间、人和事件的演变而变化。融洽关系和关系影响数据收集、抽样和研究设计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 429–430, 引自Maxwell, 2005: 83)]]
 >
 > *Rapport is a problematic concept in discussing relationships, as it is not a unitary concept concerning its amount or degree (indeed one may have too much or too little of it), but its nature and kind changes over time, as people and events evolve. Rapport and relationships influence the data collection, sampling and research design.*
 
@@ -64,4 +64,4 @@ updated: 2026-06-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 在[[Qualitative Research|质性研究]]12阶段模型的第7阶段（发展和维持现场关系）中详细讨论了融洽关系的定义、要素和难度，以及其在[[Longitudinal Study|纵向研究]]中的特殊作用（pp. 428–430）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 在[[Qualitative Research|质性研究]]12阶段模型的第7阶段（发展和维持现场关系）中详细讨论了融洽关系的定义、要素和难度，以及其在[[Longitudinal Study|纵向研究]]中的特殊作用（pp. 428–430）。

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-07-08
+updated: 2026-07-11
 ---
 
 # Falsification
@@ -51,7 +51,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!def] 核心定义
-> 波普尔（Karl Popper, 1968）提出的科学划界标准：科学理论的标志不是它能被证实，而是它能被证伪，即理论必须明确什么样的经验证据将构成对它的反驳。一个无法被任何可能观察到的事实所反驳的理论，不属于科学。科学进步通过大胆的推测（conjectures）和严格的驳斥（refutations）的循环来实现。知识是推测性的（conjectural）、可证伪的（falsifiable）、可挑战的（challengeable）、变化中的（changing）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+> 波普尔（Karl Popper, 1968）提出的科学划界标准：科学理论的标志不是它能被证实，而是它能被证伪，即理论必须明确什么样的经验证据将构成对它的反驳。一个无法被任何可能观察到的事实所反驳的理论，不属于科学。科学进步通过大胆的推测（conjectures）和严格的驳斥（refutations）的循环来实现。知识是推测性的（conjectural）、可证伪的（falsifiable）、可挑战的（challengeable）、变化中的（changing）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 证伪主义是一种科学哲学立场，核心主张是：科学理论的价值不在于它能被经验证据证实，而在于它明确指出了哪些可能的观察结果会构成对它的反驳——即它承担了被证伪的风险。
@@ -63,7 +63,7 @@ updated: 2026-07-08
 ## 核心要素
 
 > [!feature] 证伪主义的构成要素
-> - **推测与反驳的循环** 科学进步不是通过积累证实性证据，而是通过提出大胆推测然后用严格检验尝试推翻它。未被推翻的理论被暂时接受，但永远面临新的检验（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+> - **推测与反驳的循环** 科学进步不是通过积累证实性证据，而是通过提出大胆推测然后用严格检验尝试推翻它。未被推翻的理论被暂时接受，但永远面临新的检验（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 > - **严格检验（Severe Test）** 有效的经验理论应在与产生它的语境不同的语境中进行检验，而非仅仅在相同条件下进行证实和归纳。Laudan（1990）进一步指出，有效理论应识别出所需证据的类型来确认或反驳该理论（, Ch. 1）。
 > - **可证伪性作为有效理论的[[Necessary and Sufficient Conditions|必要条件]]** 证伪性是有效经验理论九大特征之一：理论应阐明自身的证伪和验证条件，识别严格检验的性质和操作。其他八个特征包括可推导性、兼容性、简约性、解释与预测力、回应异常、生育力、可[[Operationalization|操作化]]和可复制性（, Ch. 1）。
 
@@ -104,7 +104,7 @@ updated: 2026-07-08
 > 这些矛盾不是 Alchin 个人的知识不足——他引用了 Polanyi 和 Lakatos——而是 TOK 课程的深层设计矛盾：[[Critical Thinking|批判性思维]]要求自由审查一切知识主张，但科学教育的制度性任务是将科学呈现为最权威的知识形式。当这两个要求在同一个课程空间中碰撞，简化版证伪主义成了最安全的折中方案。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 175–178)]]
 
 > [!critique] 证伪主义不能描述科学实践
-> 证伪主义作为科学划界标准面临两个经典反驳。第一，拉卡托斯指出科学史上科学家经常在理论被反常"证伪"后继续使用和修改该理论，证伪在历史实践中极少是决定性的。第二，迪昂-蒯因的[[Duhem-Quine Thesis|不完全决定性论题]]表明，孤立的假说从来不能被单独检验——当预测失败时，逻辑无法指定该否定核心假说还是辅助假说或测量程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
+> 证伪主义作为科学划界标准面临两个经典反驳。第一，拉卡托斯指出科学史上科学家经常在理论被反常"证伪"后继续使用和修改该理论，证伪在历史实践中极少是决定性的。第二，迪昂-蒯因的[[Duhem-Quine Thesis|不完全决定性论题]]表明，孤立的假说从来不能被单独检验——当预测失败时，逻辑无法指定该否定核心假说还是辅助假说或测量程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 
 > [!warrant]- Zemplén 的教学替代方案
 > 与其用简化版证伪主义作为科学方法的入门，不如从不完全决定性入手——用简单的规则寻找游戏（如 2、4、6 猜规则游戏）让学生发现同样的数据可以支持多个理论。纽拉特的反基础主义[[Positivism|实证主义]]承认科学受价值驱动，为 SSI 教育提供了一个不反科学的起点（pp.183–184）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
@@ -125,5 +125,5 @@ updated: 2026-07-08
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011a)]] — 在研究方法教科书的哲学基础章节中介绍了证伪主义作为[[Postpositivism|后实证主义]][[Paradigm|范式]]的基础概念，将推测与反驳循环纳入科学发现逻辑。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书的哲学基础章节中介绍了证伪主义作为[[Postpositivism|后实证主义]][[Paradigm|范式]]的基础概念，将推测与反驳循环纳入科学发现逻辑。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 教科书为案例，分析了证伪主义在[[Critical Thinking|批判性思维]]课程中被简化和误用的结构性问题，提出以不完全决定性和纽拉特的反基础主义[[Positivism|实证主义]]作为替代教学起点。

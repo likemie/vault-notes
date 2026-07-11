@@ -9,14 +9,14 @@ Total entries: **274**
 | Lens | Count |
 |---|---:|
 | Fact entries | 274 |
-| Regions / contexts | 30 |
+| Regions / contexts | 29 |
 | Fact types | 7 |
 
 ## Region Hotspots
 
 | Region | Entries |
 |---|---:|
-| US | 81 |
+| US | 82 |
 | China | 27 |
 | Global | 27 |
 | UK | 27 |
@@ -554,8 +554,6 @@ Total entries: **274**
 > [!index-list]- Region (2)
 > - [[New York Bay Area]] — 世界级金融湾区，经历制造业中心到金融中心再到全球科技创新高地的多次产业转型，以金融科技为核心驱动力，拥有全球市值最大的纽约证券交易所和纳斯达克，是美国产学研协同创新的发源地
 > - [[San Francisco Bay Area]] — 以硅谷为核心的全球科技创新高地，聚集斯坦福大学等20多所世界一流大学，以电子与信息技术产业为代表形成全球最大产业创新集聚区，以风险投资、开放文化和灵活法律环境为三大支柱，自下而上自发形成创新生态系统
-
-## Usa
 
 > [!index-list]- Unknown (1)
 > - [[Fulbright Program]] — 1946年由美国参议员富布莱特推动设立的国际教育交流项目，冷战期间被用作传播美国价值观、培养亲美政治主体和消除苏联威胁的地缘政治工具。

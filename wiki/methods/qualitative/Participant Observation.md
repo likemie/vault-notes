@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 
 # Participant Observation
@@ -62,7 +62,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 方法定义
-> 参与观察是[[Qualitative Research|质性研究]]的核心数据收集方法。研究者进入被研究群体的自然情境，同时扮演"参与者"（加入群体活动、分享经验）和"观察者"（系统记录和分析行为与互动）的双重角色。这一方法植根于[[Ethnography|民族志]]传统——Malinowski（1922）的"把握土著人的观点"和人类学的[[Fieldwork|田野工作]]传统——后被广泛应用于教育研究等领域。目标是以内部人视角（主位视角）获取对群体文化、行为和社会互动的深度理解。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 408, 425, 430)]]
+> 参与观察是[[Qualitative Research|质性研究]]的核心数据收集方法。研究者进入被研究群体的自然情境，同时扮演"参与者"（加入群体活动、分享经验）和"观察者"（系统记录和分析行为与互动）的双重角色。这一方法植根于[[Ethnography|民族志]]传统——Malinowski（1922）的"把握土著人的观点"和人类学的[[Fieldwork|田野工作]]传统——后被广泛应用于教育研究等领域。目标是以内部人视角（主位视角）获取对群体文化、行为和社会互动的深度理解。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 408, 425, 430)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 社群或群体的日常行为、互动模式、仪式、语言使用、权力关系和文化实践。
@@ -118,10 +118,10 @@ Wolff（2004: 195–196）和 Flick（1998: 57）指出进入现场的六项关�
 > | 现场进入后才显现 | 被研究现场的真实面貌只有在研究者进入之后才会逐渐清晰。 |
 > | 研究无回报 | 研究通常对被研究系统没有任何直接回报，但也没有理由拒绝。 |
 
-Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段过程：新人→临时接纳→类别接纳→个人接纳→即将迁移者。Loftland（1971）建议采取"可接受的无能者"角色，平衡侵入和知道何时保持距离。在[[Covert Research|隐蔽研究]]中，印象管理（Hammersley & Atkinson, 1983: 78ff.）具有额外紧迫性——一次失误即可暴露身份。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 425–427)]]
+Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段过程：新人→临时接纳→类别接纳→个人接纳→即将迁移者。Loftland（1971）建议采取"可接受的无能者"角色，平衡侵入和知道何时保持距离。在[[Covert Research|隐蔽研究]]中，印象管理（Hammersley & Atkinson, 1983: 78ff.）具有额外紧迫性——一次失误即可暴露身份。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 425–427)]]
 
 > [!case] Patrick（1973）：格拉斯哥帮派[[Ethnography|民族志]]中的角色张力
-> Patrick 以隐蔽研究者身份进入一个格拉斯哥帮派开展参与观察。他必须完全融入帮派文化——采纳其语言、着装和行为规范——同时秘密记录田野笔记。当目击一起谋杀时，两难达到顶点：举报意味着暴露身份并危及自身生命，不举报则意味着对严重犯罪保持沉默。这个极端案例揭示了参与观察中角色、伦理和安全之间不可调和的张力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 416–417)]]
+> Patrick 以隐蔽研究者身份进入一个格拉斯哥帮派开展参与观察。他必须完全融入帮派文化——采纳其语言、着装和行为规范——同时秘密记录田野笔记。当目击一起谋杀时，两难达到顶点：举报意味着暴露身份并危及自身生命，不举报则意味着对严重犯罪保持沉默。这个极端案例揭示了参与观察中角色、伦理和安全之间不可调和的张力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 416–417)]]
 
 ---
 
@@ -130,7 +130,7 @@ Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段�
 参与观察的核心操作概念是"边际性"（marginality）——研究者"在组织之中但不属于组织"（Hammersley & Atkinson, 1983: 97–99）：
 
 > [!citation-card]- 边际性管理
-> [[Ethnography|民族志]]学者必须在智识上保持"熟悉"与"陌生"之间的平衡，同时在社交上保持"局外人"和"朋友"之间的平衡。这种多重角色的管理，尤其是边际性的管理，可能产生一种持续的不安全感。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 427)]]
+> [[Ethnography|民族志]]学者必须在智识上保持"熟悉"与"陌生"之间的平衡，同时在社交上保持"局外人"和"朋友"之间的平衡。这种多重角色的管理，尤其是边际性的管理，可能产生一种持续的不安全感。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 427)]]
 >
 > *The ethnographer must be intellectually poised between '[[Familiarization|familiarity]]' and 'strangeness', while socially he or she is poised between 'stranger' and 'friend'... this management of several roles, not least the management of marginality, can engender 'a continual sense of insecurity'. (Hammersley & Atkinson, 1983: 97–100)*
 
@@ -152,4 +152,4 @@ Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 教材将参与观察列为自然主义和[[Ethnography|民族志研究]]的主要数据收集方法，讨论了研究者角色的光谱（完全观察到完全参与）和角色冲突/边际性管理（pp. 425–427, 430）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 教材将参与观察列为自然主义和[[Ethnography|民族志研究]]的主要数据收集方法，讨论了研究者角色的光谱（完全观察到完全参与）和角色冲突/边际性管理（pp. 425–427, 430）。

@@ -5,8 +5,8 @@ aliases:
   - 罗伯特·马扎诺
 summary: "美国教育研究者，提出理论驱动的元综合框架，将教学策略按知识、认知、元认知和自我系统四层分类，追求课堂实践指导的可操作性"
 type: person
-nationality: usa
-person_region: "usa"
+nationality: us
+person_region: "us"
 person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
@@ -17,7 +17,7 @@ tags:
 - meta-synthesis
 - instructional-strategies
 - evidence-based-education
-- region/usa
+- region/us
 related_concepts:
   - "[[School Effectiveness]]"
   - "[[Evaluation Research]]"

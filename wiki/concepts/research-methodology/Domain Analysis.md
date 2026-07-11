@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 
 # Domain Analysis
@@ -36,7 +36,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 领域分析是质性数据分析的第二步（位于建立分析单元之后），指将[[Coding in Qualitative Research|编码]]后的数据条目和单元归入相关的群组（clusters）、主题（themes）和模式（patterns）。一个"领域"（domain）是包含若干其他范畴的上位范畴。该步骤的主要目标是避免数据的碎片化和去情境化——在保持数据丰富性和"情境扎根性"（context-groundedness）的同时，将大量质性材料组织成可管理的分析结构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 440)]]
+> 领域分析是质性数据分析的第二步（位于建立分析单元之后），指将[[Coding in Qualitative Research|编码]]后的数据条目和单元归入相关的群组（clusters）、主题（themes）和模式（patterns）。一个"领域"（domain）是包含若干其他范畴的上位范畴。该步骤的主要目标是避免数据的碎片化和去情境化——在保持数据丰富性和"情境扎根性"（context-groundedness）的同时，将大量质性材料组织成可管理的分析结构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 440)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 质性数据分析中的范畴组织策略：将基础编码单元按照语义关系、主题相似性或功能关联归入更高层次的领域范畴。
@@ -54,4 +54,4 @@ updated: 2026-06-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 将领域分析定位为质性数据分析七步骤框架的第二步，并与[[Progressive Focussing|逐步聚焦]]、[[Analytic Induction|分析归纳法]]和[[Grounded Theory|扎根理论]]共同构成质性分析的完整逻辑（pp. 439–442）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将领域分析定位为质性数据分析七步骤框架的第二步，并与[[Progressive Focussing|逐步聚焦]]、[[Analytic Induction|分析归纳法]]和[[Grounded Theory|扎根理论]]共同构成质性分析的完整逻辑（pp. 439–442）。

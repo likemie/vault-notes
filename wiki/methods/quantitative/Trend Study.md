@@ -11,9 +11,9 @@ summary: "关注因素而非人群、在不同时间点抽取不同样本但聚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 13
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -21,6 +21,22 @@ tags:
   - longitudinal
   - trend
   - research-design
+related_concepts:
+  - "[[Variable]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
+  - "[[Causality]]"
+  - "[[Study Population and Sample]]"
+  - "[[Sampling Error]]"
+  - "[[Ecological Fallacy]]"
+  - "[[Hypothesis]]"
+related_methods:
+  - "[[Cross-sectional Study]]"
+  - "[[Longitudinal Study]]"
+  - "[[Cohort Study]]"
+  - "[[Survey Research]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 confidence: medium
 status: draft
 created: 2026-07-09
@@ -40,10 +56,10 @@ updated: 2026-07-11
 > - **分析单位** 因素或[[Variable|变量]]层面的聚合数据，非个体。
 > - **输出形式** 趋势线、预测模型、跨时间点比较和聚合统计。
 
-趋势或预测研究对教育管理者或规划者具有明显的重要性：检查已记录的数据以建立已发生的变化模式，从而预测未来可能发生的情况。在趋势研究中，两项或更多横截面研究在多个时间点对相同年龄组进行，以便进行跨时间比较——如美国学术能力与成就测试（Scholastic Aptitude and Achievement tests）(Keeves, 1997a, p. 141)和美国国家教育进展评估（National Assessment of Educational Progress，NAEP）(Lietz & Keeves, 1997, p. 122)（p.269）。
+趋势或预测研究对教育管理者或规划者具有明显的重要性：检查已记录的数据以建立已发生的变化模式，从而预测未来可能发生的情况。在趋势研究中，两项或更多[[Cross-sectional Study|横截面研究]]在多个时间点对相同年龄组进行，以便进行跨时间比较——如美国学术能力与成就测试（Scholastic Aptitude and Achievement tests）(Keeves, 1997a, p. 141)和美国国家教育进展评估（National Assessment of Educational Progress，NAEP）(Lietz & Keeves, 1997, p. 122)（p.269）。
 
 > [!citation-card]- 关键定义
-> 趋势研究关注因素而非人群，这些因素随时间被研究。在数据收集的每个阶段抽取新样本，但聚焦于相同的因素。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]]
+> 趋势研究关注因素而非人群，这些因素随时间被研究。在数据收集的每个阶段抽取新样本，但聚焦于相同的因素。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]]
 >
 > *Trend studies focus on factors rather than people, and these factors are studied over time. New samples are drawn at each stage of the data collection, but focusing on the same factors.* (p. 267)
 
@@ -52,7 +68,7 @@ updated: 2026-07-11
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 宏观层面的[[Positivism|实证主义]]视角；关注聚合层面的变化和预测。趋势研究不追踪个体，而是在因素和变量层面监测宏观变化。
+> - **知识观** 宏观层面的[[Positivism|实证主义]]视角；关注聚合层面的变化和预测。趋势研究不追踪个体，而是在因素和[[Variable|变量]]层面监测宏观变化。
 > - **研究者角色** 研究者不直接追踪个体，而是通过重复抽取样本监测因素层面的变化。
 > - **有效性标准** 跨轮次样本的可比性、测量工具在时间上的一致性、预测的准确性。
 > - **不声称回答的问题** 不能进行个体层面（微观层面）分析；不能建立个体变化的[[Causality|因果关系]]。
@@ -70,7 +86,7 @@ updated: 2026-07-11
 趋势研究有三个核心特征使其区别于其他纵向设计。
 
 > [!feature] 避免预试敏感化
-> - **反应性问题** 在追踪同一批人的纵向研究中，首次调查本身可能改变参与者的认知或行为——例如健康调查提醒了吸烟的危害，使受访者在第二轮前主动戒烟，此时记录的变化是调查"制造"的而非自然发生的（即预试敏感化，pre-test sensitisation）
+> - **反应性问题** 在追踪同一批人的[[Longitudinal Study|纵向研究]]中，首次调查本身可能改变参与者的认知或行为——例如健康调查提醒了吸烟的危害，使受访者在第二轮前主动戒烟，此时记录的变化是调查"制造"的而非自然发生的（即预试敏感化，pre-test sensitisation）
 > - **趋势研究的解决方案** 每轮更换样本，切断"自我污染"的链条，每一轮的数据都来自对调查主题完全新鲜的受访者
 > - **特别适用场景** 敏感议题研究——早期提出敏感问题可能改变个体行为，进而影响后续轮次的回答
 >
@@ -125,7 +141,7 @@ updated: 2026-07-11
 > - **无样本流失问题** 每轮独立抽样，不受上一轮流失影响。
 
 > [!weakness] 局限
-> - **不能进行个体层面分析** 这一点在[[Longitudinal Study|纵向分析]]中是优势，但趋势研究的聚合本质使其无法回答关于个体变化的问题（p.271）。
+> - **不能进行个体层面分析** 这一点在纵向分析中是优势，但趋势研究的聚合本质使其无法回答关于个体变化的问题（p.271）。
 > - **不同受访者导致的数据变异** 轮次间的变化可能源于样本构成差异而非真正的趋势变化。
 > - **长期预测准确度有限** 不可预测因素的侵入使基于历史数据的长期预测失效。
 > - **无法分析个体变化轨迹** 不包含相同受访者，无法追踪个体的发展和变化路径。
@@ -136,8 +152,8 @@ updated: 2026-07-11
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要监测宏观趋势和因素层面变化的研究（如全国教育成就监测、公众态度变迁）；敏感议题的跨时间研究（避免预试敏感化）；教育政策评估中需要跨队列比较的场景。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]]
-> - **谨慎使用** 需要个体层面因果推断的研究（此时[[Cohort Study|队列研究]]或面板研究更合适）；长期预测的研究（不可预测因素的干扰随预测跨度增大）；样本特征在跨时间点上可能发生变化的研究。
+> - **适合使用** 需要监测宏观趋势和因素层面变化的研究（如全国教育成就监测、公众态度变迁）；敏感议题的跨时间研究（避免预试敏感化）；教育政策评估中需要跨队列比较的场景。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]]
+> - **谨慎使用** 需要个体层面[[Causality|因果推断]]的研究（此时[[Cohort Study|队列研究]]或面板研究更合适）；长期预测的研究（不可预测因素的干扰随预测跨度增大）；样本特征在跨时间点上可能发生变化的研究。
 > - **不适合使用** 需要追踪个体变化轨迹的研究（如个人发展、职业生涯追踪）；需要建立个体层面[[Causality|因果关系]]的研究；样本框或总体定义在时间上不稳定的情境。
 
 ---
@@ -145,10 +161,10 @@ updated: 2026-07-11
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 轮次间样本构成差异可能被误读为趋势变化；测量工具在时间上的微小变动引入人为"趋势"；不可预测的外部事件（政策突变、经济危机、疫情等）使预测失效；每次独立抽样的抽样误差在不同轮次间不可比。
-> - **适用边界** 趋势结论仅适用于聚合层面，不能推论到个体；预测仅基于已观测的历史模式，无法预见结构性断裂（structural breaks）；适用于宏观趋势描述，不适用于精细的因果机制分析。
-> - **误用风险** 将聚合层面的趋势变化解释为个体层面的行为变化（生态谬误）；将短期趋势线性外推到长期预测；忽略测量工具和抽样方法的变化，将方法效应误读为实质趋势。
-> - **补救方式** 使用滚动样本设计增加跨轮次可比较性（Gorard, 2001b, p. 87）；进行敏感性分析以评估样本构成变化对趋势的影响；结合队列研究或面板研究进行多层次验证；明确标注预测的不确定性和假设条件。
+> - **偏误来源** 轮次间样本构成差异可能被误读为趋势变化；测量工具在时间上的微小变动引入人为"趋势"；不可预测的外部事件（政策突变、经济危机、疫情等）使预测失效；每次独立抽样的[[Sampling Error|抽样误差]]在不同轮次间不可比。
+> - **适用边界** 趋势结论仅适用于聚合层面，不能推论到个体；预测仅基于已观测的历史模式，无法预见结构性断裂（structural breaks）；适用于宏观趋势描述，不适用于精细的[[Causality|因果]]机制分析。
+> - **误用风险** 将聚合层面的趋势变化解释为个体层面的行为变化（[[Ecological Fallacy|生态谬误]]）；将短期趋势线性外推到长期预测；忽略测量工具和抽样方法的变化，将方法效应误读为实质趋势。
+> - **补救方式** 使用滚动样本设计增加跨轮次可比较性（Gorard, 2001b, p. 87）；进行敏感性分析以评估样本构成变化对趋势的影响；结合[[Cohort Study|队列研究]]或面板研究进行多层次验证；明确标注预测的不确定性和[[Hypothesis|假设]]条件。
 
 ---
 
@@ -168,4 +184,4 @@ updated: 2026-07-11
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]] — 系统讨论了趋势研究作为纵向研究设计的定义、核心特征（反应性、滚动样本、预测准确度）、优势与局限，以及与队列研究和面板研究的区别（图 13.2）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统讨论了趋势研究作为[[Longitudinal Study|纵向研究]]设计的定义、核心特征（反应性、滚动样本、预测准确度）、优势与局限，以及与[[Cohort Study|队列研究]]和面板研究的区别（图 13.2）。

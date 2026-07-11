@@ -14,7 +14,7 @@ fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
-- region/newzealand
+- region/new-zealand
 - level/k12
 - curriculum
 - visible-learning

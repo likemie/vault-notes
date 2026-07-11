@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 
 # Rich and Thick Description
@@ -47,7 +47,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 厚描述（Thick Description）是 Geertz（1973）在解释人类学中提出的核心概念，后被引入教育研究的质性方法论。它不仅要求对情境化行为进行详细的观察记录，还必须囊括：参与者赋予情境和行为的**意义**、参与者对情境的**诠释**、以及不可直接观察的**情境因素**。厚描述的根本目的是使读者能够充分理解行为发生的社会文化脉络，而非仅仅获得行为本身的外部描述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 403–404)]]
+> 厚描述（Thick Description）是 Geertz（1973）在解释人类学中提出的核心概念，后被引入教育研究的质性方法论。它不仅要求对情境化行为进行详细的观察记录，还必须囊括：参与者赋予情境和行为的**意义**、参与者对情境的**诠释**、以及不可直接观察的**情境因素**。厚描述的根本目的是使读者能够充分理解行为发生的社会文化脉络，而非仅仅获得行为本身的外部描述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 403–404)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种超越行为表面描述的质性写作策略，要求将行为嵌入其社会文化脉络中，呈现参与者自身赋予的意义和诠释。
@@ -55,7 +55,7 @@ updated: 2026-06-24
 > - **边界** 厚描述≠数据堆砌——Swain（2006）指出最终报告仅包含不到1%的收集数据，厚描述是选择性写作的纪律。厚描述也不能替代系统分析，需与[[Coding in Qualitative Research|编码]]、主题分析和理论生成配合。
 
 > [!citation-card]- Geertz 的经典表述
-> 厚描述不仅需要详细的观察数据，还需要关于意义、参与者对情境的诠释以及不可观察因素的数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 404)]]
+> 厚描述不仅需要详细的观察数据，还需要关于意义、参与者对情境的诠释以及不可观察因素的数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 404)]]
 >
 > *Thick descriptions require inclusion not only of detailed observational data but data on meanings, participants' interpretations of situations and unobserved factors. (Geertz, 1973)*
 
@@ -83,9 +83,9 @@ updated: 2026-06-24
 > [!feature] 厚描述的五项核心功能
 > - **传达情境感受** 将读者"传送"到研究场所，赋予讨论一种共享经验的元素。当质性研究者提供详细的场所描述，或就一个主题提供多种视角时，结果变得更加真实和丰富（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.213）。
 > - **支持效度判断** 丰富密集的描述是八种[[Qualitative Validity|质性效度]]策略中使用最频繁、最容易实施的策略之一。它不仅服务于效度目的——保证读者有足够的背景信息来判断研究发现的迁移性——也服务于质性写作本身的可读性和感染力（, Ch9）。
-> - **支撑概括性判断** 在[[Ethnography|民族志]]和[[Case Study|案例研究]]中尤为关键。Stake（1995）强调案例研究中的丰富描述为读者提供了进行[[Naturalistic Generalization|自然主义概括]]的基础——即读者基于自身经验判断研究发现与自身情境的相似性。Larsson（2009: 32）进一步论证，研究者的任务是为受众提供充分的厚描述，以便他们做出关于概括性的知情判断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 444–445)]]
-> - **平衡独特性与规律性** Dobbert & Kurth-Schai（1992: 150）认为民族志学者的任务是平衡两种承诺：通过厚描述捕捉社会互动的多样性、变异性、创造性和独特性，同时寻求其中的规律性、秩序和模式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 406)]]
-> - **使隐性知识显性化** Spindler & Spindler（1992: 72–74）指出某些影响行为和沟通的社会文化知识是隐性的、默会的，甚至不为参与者自身所知。厚描述的任务之一就是将这种隐性的社会文化知识对读者显性化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 407)]]
+> - **支撑概括性判断** 在[[Ethnography|民族志]]和[[Case Study|案例研究]]中尤为关键。Stake（1995）强调案例研究中的丰富描述为读者提供了进行[[Naturalistic Generalization|自然主义概括]]的基础——即读者基于自身经验判断研究发现与自身情境的相似性。Larsson（2009: 32）进一步论证，研究者的任务是为受众提供充分的厚描述，以便他们做出关于概括性的知情判断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 444–445)]]
+> - **平衡独特性与规律性** Dobbert & Kurth-Schai（1992: 150）认为民族志学者的任务是平衡两种承诺：通过厚描述捕捉社会互动的多样性、变异性、创造性和独特性，同时寻求其中的规律性、秩序和模式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 406)]]
+> - **使隐性知识显性化** Spindler & Spindler（1992: 72–74）指出某些影响行为和沟通的社会文化知识是隐性的、默会的，甚至不为参与者自身所知。厚描述的任务之一就是将这种隐性的社会文化知识对读者显性化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 407)]]
 
 ---
 
@@ -103,7 +103,7 @@ updated: 2026-06-24
 
 ## 操作层面
 
-Lincoln & Guba（1985: 365–366）在[[Case Study|案例研究]]撰写指南中明确了厚描述的实践原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 443–444)]]）：
+Lincoln & Guba（1985: 365–366）在[[Case Study|案例研究]]撰写指南中明确了厚描述的实践原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 443–444)]]）：
 
 > [!proc] 厚描述的撰写原则
 > 1. **追求非正式风格** 写作应追求非正式风格以捕捉非正式性——厚描述不是冷冰冰的技术报告。
@@ -112,7 +112,7 @@ Lincoln & Guba（1985: 365–366）在[[Case Study|案例研究]]撰写指南中
 > 4. **数据来源可追溯** 数据来源需明确，使读者可检查信效度和推断——厚描述需要"可见的根基"。
 
 > [!warning] 厚描述的选择性纪律
-> Swain（2006: 202）指出，在写作[[Ethnography|民族志]]或[[Qualitative Research|质性研究]]报告时存在一个实质性的纪律：最终报告中可能只包含不到1%的被收集数据，即使包含了所有被收集数据，也只会构成一切发生的事或研究者经历的事的不到1%。对细节的忠诚与对数据的最终的、必然选择性的使用之间处于根本张力之中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 443)]]
+> Swain（2006: 202）指出，在写作[[Ethnography|民族志]]或[[Qualitative Research|质性研究]]报告时存在一个实质性的纪律：最终报告中可能只包含不到1%的被收集数据，即使包含了所有被收集数据，也只会构成一切发生的事或研究者经历的事的不到1%。对细节的忠诚与对数据的最终的、必然选择性的使用之间处于根本张力之中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 443)]]
 
 ---
 
@@ -120,4 +120,4 @@ Lincoln & Guba（1985: 365–366）在[[Case Study|案例研究]]撰写指南中
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将厚描述定位为八种[[Qualitative Validity|质性效度]]策略之一，强调其在[[Ethnography|民族志]]和[[Case Study|案例研究]]中的核心作用以及与[[Naturalistic Generalization|自然主义概括]]的关系。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 将厚描述定位为自然主义[[Paradigm|范式]]的核心公理，系统阐述其[[Epistemology|认识论]]根基（Geertz, 1973）、在可[[Reliability|信度]]框架中的位置（Lincoln & Guba, 1985）、平衡功能（Dobbert & Kurth-Schai, 1992）、概括性支撑功能（Larsson, 2009）以及选择性纪律（Swain, 2006）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将厚描述定位为自然主义[[Paradigm|范式]]的核心公理，系统阐述其[[Epistemology|认识论]]根基（Geertz, 1973）、在可[[Reliability|信度]]框架中的位置（Lincoln & Guba, 1985）、平衡功能（Dobbert & Kurth-Schai, 1992）、概括性支撑功能（Larsson, 2009）以及选择性纪律（Swain, 2006）。

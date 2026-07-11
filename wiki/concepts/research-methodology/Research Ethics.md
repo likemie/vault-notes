@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-18
+updated: 2026-07-11
 ---
 
 # Research Ethics
@@ -316,7 +316,7 @@ Creswell & Creswell (2022, 第4章) 提供了三个研究者在实际研究中�
 
 ## 敏感研究中的伦理极端化
 
-在[[Sensitive Research|敏感研究]]中，日常研究伦理的张力被推向极端——日常研究中的可协商灰色地带，在敏感研究中可能变成不可调和的冲突（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 209–215]]）。
+在[[Sensitive Research|敏感研究]]中，日常研究伦理的张力被推向极端——日常研究中的可协商灰色地带，在敏感研究中可能变成不可调和的冲突（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 209–215]]）。
 
 ### 有罪知识与肮脏之手
 

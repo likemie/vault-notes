@@ -9,7 +9,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Grotius 思想），视国际社会为通过多边合作与规则缓和无政府冲突的“存在制度缺陷的社会”，以“权威”为核心概念。在比较教育中，它将学科塑造成促进国际理解与远处治理规范趋同的“理性事业”。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,8 +37,10 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Policy Borrowing]]"
   - "[[Global Citizenship]]"
+  - "[[Travelling Policy]]"
   - "[[Methodological Educationism]]"
   - "[[Methodological Nationalism]]"
+  - "[[Methodological Statism]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Actor-Network Theory]]"
@@ -54,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-07-11
 ---
 
 # Rationalism in International Relations
@@ -136,7 +138,7 @@ updated: 2026-07-09
 > [!dev-timeline] 发展脉络
 > - **1920s–1940s — 国联智力合作与教科书改革** IIIC 开启跨国教科书修编，旨在破除极端国家性格，培育具有合作精神的“[[International Mind|国际心智]]”。(引自 [[Argument_Klerides, 2023, pp. 423–424]])
 > - **1950s–1970s — UNESCO 科学人道主义与 [[Comparative Education Society in Europe|CESE]] 成立** 随着 Lauwerys 等人的推动，理性主义以国际大学建制和欧洲学术交换为载体，在冷战对峙缝隙中搭建制度化合作桥梁。(引自 [[Argument_Klerides, 2023, p. 424]])
-> - **2000s 至今 — 新自由主义软治理与数据流变** [[PISA]] 基准测试全面崛起，比较教育演变为“[[Governing at a Distance|远处治理]]模式”；[[Actor-Network Theory|ANT]] 理论被引入解析[[Policy Entrepreneur|政策企业家]]与 travelling policies 的网格化交互。(引自 [[Argument_Klerides, 2023, pp. 424–425]])
+> - **2000s 至今 — 新自由主义软治理与数据流变** [[PISA]] 基准测试全面崛起，比较教育演变为“[[Governing at a Distance|远处治理]]模式”；[[Actor-Network Theory|ANT]] 理论被引入解析[[Policy Entrepreneur|政策企业家]]与 [[Travelling Policy\|travelling policies]] 的网格化交互。(引自 [[Argument_Klerides, 2023, pp. 424–425]])
 
 ---
 
@@ -147,7 +149,7 @@ updated: 2026-07-09
 > > [!axis] 多边合作理性趋同 vs 方法论国家/[[Methodological Educationism|教育主义]]盲区
 > > 争论世界文化的规范性趋同究竟是促进全球民主与人权的进步合作，还是打着“中立科学”旗号对异质本土情境的体制化抹杀。
 > > - **理性世界文化论者 (Meyer, Ramirez)** 认为全球教育标准的一致化代表了人类尊严、人权和科学理性的合法单向整合。(引自 [[Argument_Klerides, 2023, p. 425]])
-> > - **去国家中心批判学者 (Dale, Robertson)** 犀利指出，理性主义的研究极易陷入“[[Methodological Nationalism|方法论国家主义]]、方法论国家中心主义和方法论 educationism”的陷阱，由于过度依赖多边指标而忽视了这些指标在实质上复制和掩盖了新自由主义资本主义的不平等权力压迫。(引自 [[Argument_Klerides, 2023, p. 423]])
+> > - **去国家中心批判学者 (Dale, Robertson)** 犀利指出，理性主义的研究极易陷入“[[Methodological Nationalism|方法论国家主义]]、[[Methodological Statism|方法论国家中心主义]]和方法论 educationism”的陷阱，由于过度依赖多边指标而忽视了这些指标在实质上复制和掩盖了新自由主义资本主义的不平等权力压迫。(引自 [[Argument_Klerides, 2023, p. 423]])
 
 ---
 

@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-07-11
 ---
 
 # Critical Theory
@@ -50,10 +50,10 @@ updated: 2026-06-16
 > - **解释对象** 教育中的权力不平等、[[Knowledge Production|知识生产]]中的意识形态运作、学校与社会之间的压迫与再生产关系。
 > - **理论问题**[[Positivism|实证主义]]和[[Interpretive Paradigm|诠释范式]]忽视政治与意识形态语境，未能解释教育如何维持或挑战社会不平等——批判理论补充了这一缺失。
 > - **理论类型** 规范性的社会理论（prescriptive and normative），兼具解释框架、批判工具和变革实践三重功能。
-> - **知识位置** 法兰克福学派（阿多诺、马尔库塞、霍克海默、弗洛姆）和哈贝马斯早期著作（1972）为直接思想来源；马克思的政治经济学批判为远源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 25–31)]]
+> - **知识位置** 法兰克福学派（阿多诺、马尔库塞、霍克海默、弗洛姆）和哈贝马斯早期著作（1972）为直接思想来源；马克思的政治经济学批判为远源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 25–31)]]
 
 > [!claim] 核心主张
-> 实证主义和诠释[[Paradigm|范式]]分别只关注技术知识和诠释知识，对社会行为的政治和意识形态语境关注不足。批判理论主张研究的目的是改变而非仅仅理解社会——解放被压迫群体、纠正不平等、在民主社会中促进个人自由。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 26–27)]]
+> 实证主义和诠释[[Paradigm|范式]]分别只关注技术知识和诠释知识，对社会行为的政治和意识形态语境关注不足。批判理论主张研究的目的是改变而非仅仅理解社会——解放被压迫群体、纠正不平等、在民主社会中促进个人自由。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 26–27)]]
 
 > [!citation-card]- 关键表述
 > 批判理论的意图不仅是说明社会和行为的现状，更是实现一个基于全体成员平等与民主的社会。其目的不仅是理解情境和现象，而是改变它们。它特别寻求解放被剥夺权力者、纠正不平等、在民主社会中促进个人自由。（第2章，2.1节）
@@ -65,12 +65,12 @@ updated: 2026-06-16
 ## 核心命题与机制
 
 > [!proposition-chain] 命题链
-> - **前提一：知识不中立** 知识——包括研究知识——服务于不同利益。利益是"知识构成性的"（knowledge-constitutive），因为它们塑造和决定了什么算作知识的对象和类型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, p. 35)]]
+> - **前提一：知识不中立** 知识——包括研究知识——服务于不同利益。利益是"知识构成性的"（knowledge-constitutive），因为它们塑造和决定了什么算作知识的对象和类型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, p. 35)]]
 >   > [!warrant]- 为什么这个前提重要
 >   > 这一前提瓦解了[[Positivism|实证主义]]声称的[[Value Neutrality|价值中立]]和客观性。研究者不再能声称中立和意识形态上的无辜——研究本身是一种政治活动。
-> - **前提二：社会情境是问题性的而非自然的** 教育现象不是自然发生的，而是特定利益和权力被保护和压制的产物或过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, p. 63)]]
-> - **机制：[[Ideology Critique|意识形态批判]]** 通过揭示虚假意识和破碎意识（false/fragmented consciousness），暴露服务于特定群体利益而压制其他群体的意识形态运作，使被压迫者认识到自身处境的社会根源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 29, 63)]]
-> - **结果判断：解放与社会民主** 研究的最终目的是使个人和群体从压迫中解放，走向平等主义的民主社会。变革是批判理论的实践核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 27–28)]]
+> - **前提二：社会情境是问题性的而非自然的** 教育现象不是自然发生的，而是特定利益和权力被保护和压制的产物或过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, p. 63)]]
+> - **机制：[[Ideology Critique|意识形态批判]]** 通过揭示虚假意识和破碎意识（false/fragmented consciousness），暴露服务于特定群体利益而压制其他群体的意识形态运作，使被压迫者认识到自身处境的社会根源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 29, 63)]]
+> - **结果判断：解放与社会民主** 研究的最终目的是使个人和群体从压迫中解放，走向平等主义的民主社会。变革是批判理论的实践核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 27–28)]]
 
 > [!mechanism-map]- 机制图
 > ```mermaid
@@ -155,16 +155,16 @@ updated: 2026-06-16
 > - **停留在思辨层面（Lakomski, 1999）** 哈贝马斯的著作对社会变革保持沉默，缺乏经验检验，其理论仅依靠概念模糊性而存活（Kolakowski, 1978）。
 
 > [!critique] 批评索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 107–116)]] — 第2.2节系统梳理了对批判理论的四重批评：三种兴趣的人为分离、意识形态批判与解放的不确定关系、政治议程与研究者客观性的张力、[[Action Research|行动研究]]的赋权效果缺乏证据。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 107–116)]] — 第2.2节系统梳理了对批判理论的四重批评：三种兴趣的人为分离、意识形态批判与解放的不确定关系、政治议程与研究者客观性的张力、[[Action Research|行动研究]]的赋权效果缺乏证据。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 117–149)]] — 第2.3节展示了批判理论在课程研究中的应用：Tyler原理的[[Positivism|实证主义]]预设被批判，课程被重读为意识形态选择。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 151–203)]] — 第2.4节介绍了[[Participatory Research|参与式研究]]作为批判理论的实践表达。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 205–408)]] — 第2.5节讨论了[[Feminist Research|女性主义研究]]对批判理论传统的延续与拓展。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 117–149)]] — 第2.3节展示了批判理论在课程研究中的应用：Tyler原理的[[Positivism|实证主义]]预设被批判，课程被重读为意识形态选择。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 151–203)]] — 第2.4节介绍了[[Participatory Research|参与式研究]]作为批判理论的实践表达。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 205–408)]] — 第2.5节讨论了[[Feminist Research|女性主义研究]]对批判理论传统的延续与拓展。
 
 ---
 

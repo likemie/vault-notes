@@ -15,7 +15,7 @@ fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
-- region/hongkong
+- region/hong-kong
 - level/k12
 related_concepts:
   - "[[Chinese Learner]]"

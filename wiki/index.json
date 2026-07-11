@@ -797,6 +797,17 @@
     ]
   },
   {
+    "title": "Travelling Policy",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Travelling Policy.md",
+    "aliases": [
+      "旅途政策",
+      "travelling policies",
+      "travelling reforms",
+      "旅途改革"
+    ]
+  },
+  {
     "title": "Atomisation of Knowledge and Skills",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Atomisation of Knowledge and Skills.md",
@@ -3836,6 +3847,15 @@
     ]
   },
   {
+    "title": "Banal Imperialism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Banal Imperialism.md",
+    "aliases": [
+      "平庸的帝国主义",
+      "平庸帝国主义"
+    ]
+  },
+  {
     "title": "Classical Geopolitics",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
@@ -5829,6 +5849,15 @@
     ]
   },
   {
+    "title": "Methodological Statism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Methodological Statism.md",
+    "aliases": [
+      "方法论国家主义",
+      "方法论国家中心主义"
+    ]
+  },
+  {
     "title": "Mixed Methods Question",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Mixed Methods Question.md",
@@ -6101,6 +6130,19 @@
       "实用主义",
       "实用主义范式",
       "pragmatic worldview"
+    ]
+  },
+  {
+    "title": "Pre-test Sensitisation",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Pre-test Sensitisation.md",
+    "aliases": [
+      "预试敏感化",
+      "前测敏感化",
+      "panel conditioning",
+      "面板条件化",
+      "time-in-sample bias",
+      "样本内时间偏倚"
     ]
   },
   {
@@ -6545,6 +6587,16 @@
       "筛选隔离",
       "屏蔽",
       "screening off"
+    ]
+  },
+  {
+    "title": "Self-report Bias",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Self-report Bias.md",
+    "aliases": [
+      "自报偏差",
+      "自我报告偏差",
+      "self-reporting bias"
     ]
   },
   {
@@ -9132,6 +9184,17 @@
     ]
   },
   {
+    "title": "Imputation Methods",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Imputation Methods.md",
+    "aliases": [
+      "插补方法",
+      "缺失值插补",
+      "imputation",
+      "missing data imputation"
+    ]
+  },
+  {
     "title": "Intent-to-Treat Analysis",
     "type": "method",
     "path": "wiki/methods/quantitative/Intent-to-Treat Analysis.md",
@@ -10899,6 +10962,16 @@
     ]
   },
   {
+    "title": "Albert Bandura",
+    "type": "person",
+    "path": "wiki/persons/us/Albert Bandura.md",
+    "aliases": [
+      "Bandura, A.",
+      "阿尔伯特·班杜拉",
+      "班杜拉"
+    ]
+  },
+  {
     "title": "Amelia Peterson",
     "type": "person",
     "path": "wiki/persons/us/Amelia Peterson.md",
@@ -10954,6 +11027,47 @@
     ]
   },
   {
+    "title": "Egon G. Guba",
+    "type": "person",
+    "path": "wiki/persons/us/Egon G. Guba.md",
+    "aliases": [
+      "Guba, E. G.",
+      "Egon Guba",
+      "埃贡·古巴"
+    ]
+  },
+  {
+    "title": "Fred N. Kerlinger",
+    "type": "person",
+    "path": "wiki/persons/us/Fred N. Kerlinger.md",
+    "aliases": [
+      "Kerlinger, F. N.",
+      "Fred Kerlinger",
+      "弗雷德·科林格",
+      "科林格"
+    ]
+  },
+  {
+    "title": "Gene Glass",
+    "type": "person",
+    "path": "wiki/persons/us/Gene Glass.md",
+    "aliases": [
+      "Glass, G.",
+      "吉恩·格拉斯"
+    ]
+  },
+  {
+    "title": "George Herbert Mead",
+    "type": "person",
+    "path": "wiki/persons/us/George Herbert Mead.md",
+    "aliases": [
+      "乔治·赫伯特·米德",
+      "Mead",
+      "G. H. Mead",
+      "米德"
+    ]
+  },
+  {
     "title": "Gita Steiner-Khamsi",
     "type": "person",
     "path": "wiki/persons/us/Gita Steiner-Khamsi.md",
@@ -10972,6 +11086,15 @@
     ]
   },
   {
+    "title": "Harold Garfinkel",
+    "type": "person",
+    "path": "wiki/persons/us/Harold Garfinkel.md",
+    "aliases": [
+      "哈罗德·加芬克尔",
+      "Garfinkel"
+    ]
+  },
+  {
     "title": "Herbert A. Simon",
     "type": "person",
     "path": "wiki/persons/us/Herbert A. Simon.md",
@@ -10982,12 +11105,42 @@
     ]
   },
   {
+    "title": "Herbert Blalock",
+    "type": "person",
+    "path": "wiki/persons/us/Herbert Blalock.md",
+    "aliases": [
+      "Blalock, H.",
+      "赫伯特·布莱洛克"
+    ]
+  },
+  {
+    "title": "J. David Creswell",
+    "type": "person",
+    "path": "wiki/persons/us/J. David Creswell.md",
+    "aliases": [
+      "Creswell, J. D.",
+      "J. 大卫·克雷斯维尔",
+      "David Creswell"
+    ]
+  },
+  {
     "title": "Jacob Cohen",
     "type": "person",
     "path": "wiki/persons/us/Jacob Cohen.md",
     "aliases": [
       "Cohen, J.",
       "雅各布·科恩"
+    ]
+  },
+  {
+    "title": "Jim Spohrer",
+    "type": "person",
+    "path": "wiki/persons/us/Jim Spohrer.md",
+    "aliases": [
+      "Spohrer, J.",
+      "James Spohrer",
+      "Jim C. Spohrer",
+      "J. C. Spohrer"
     ]
   },
   {
@@ -11001,6 +11154,17 @@
     ]
   },
   {
+    "title": "John W. Creswell",
+    "type": "person",
+    "path": "wiki/persons/us/John W. Creswell.md",
+    "aliases": [
+      "Creswell, J. W.",
+      "John Creswell",
+      "约翰·克雷斯维尔",
+      "克雷斯维尔"
+    ]
+  },
+  {
     "title": "John W. Meyer",
     "type": "person",
     "path": "wiki/persons/us/John W. Meyer.md",
@@ -11008,6 +11172,16 @@
       "Meyer, J. W.",
       "John Meyer",
       "约翰·迈耶"
+    ]
+  },
+  {
+    "title": "Julian B. Rotter",
+    "type": "person",
+    "path": "wiki/persons/us/Julian B. Rotter.md",
+    "aliases": [
+      "Rotter, J. B.",
+      "Julian Rotter",
+      "朱利安·罗特"
     ]
   },
   {
@@ -11056,6 +11230,25 @@
     ]
   },
   {
+    "title": "Robert E. Stake",
+    "type": "person",
+    "path": "wiki/persons/us/Robert E. Stake.md",
+    "aliases": [
+      "Stake, R. E.",
+      "Robert Stake",
+      "罗伯特·斯塔克"
+    ]
+  },
+  {
+    "title": "Robert Marzano",
+    "type": "person",
+    "path": "wiki/persons/us/Robert Marzano.md",
+    "aliases": [
+      "Marzano, R.",
+      "罗伯特·马扎诺"
+    ]
+  },
+  {
     "title": "Robert Slavin",
     "type": "person",
     "path": "wiki/persons/us/Robert Slavin.md",
@@ -11101,6 +11294,16 @@
     ]
   },
   {
+    "title": "Thomas Kuhn",
+    "type": "person",
+    "path": "wiki/persons/us/Thomas Kuhn.md",
+    "aliases": [
+      "托马斯·库恩",
+      "Kuhn",
+      "Thomas S. Kuhn"
+    ]
+  },
+  {
     "title": "William Jeynes",
     "type": "person",
     "path": "wiki/persons/us/William Jeynes.md",
@@ -11114,149 +11317,9 @@
     ]
   },
   {
-    "title": "Albert Bandura",
-    "type": "person",
-    "path": "wiki/persons/usa/Albert Bandura.md",
-    "aliases": [
-      "Bandura, A.",
-      "阿尔伯特·班杜拉",
-      "班杜拉"
-    ]
-  },
-  {
-    "title": "Harold Garfinkel",
-    "type": "person",
-    "path": "wiki/persons/usa/Harold Garfinkel.md",
-    "aliases": [
-      "哈罗德·加芬克尔",
-      "Garfinkel"
-    ]
-  },
-  {
-    "title": "Thomas Kuhn",
-    "type": "person",
-    "path": "wiki/persons/usa/Thomas Kuhn.md",
-    "aliases": [
-      "托马斯·库恩",
-      "Kuhn",
-      "Thomas S. Kuhn"
-    ]
-  },
-  {
-    "title": "Egon G. Guba",
-    "type": "person",
-    "path": "wiki/persons/usa/Egon G. Guba.md",
-    "aliases": [
-      "Guba, E. G.",
-      "Egon Guba",
-      "埃贡·古巴"
-    ]
-  },
-  {
-    "title": "Fred N. Kerlinger",
-    "type": "person",
-    "path": "wiki/persons/usa/Fred N. Kerlinger.md",
-    "aliases": [
-      "Kerlinger, F. N.",
-      "Fred Kerlinger",
-      "弗雷德·科林格",
-      "科林格"
-    ]
-  },
-  {
-    "title": "Gene Glass",
-    "type": "person",
-    "path": "wiki/persons/usa/Gene Glass.md",
-    "aliases": [
-      "Glass, G.",
-      "吉恩·格拉斯"
-    ]
-  },
-  {
-    "title": "George Herbert Mead",
-    "type": "person",
-    "path": "wiki/persons/usa/George Herbert Mead.md",
-    "aliases": [
-      "乔治·赫伯特·米德",
-      "Mead",
-      "G. H. Mead",
-      "米德"
-    ]
-  },
-  {
-    "title": "Herbert Blalock",
-    "type": "person",
-    "path": "wiki/persons/usa/Herbert Blalock.md",
-    "aliases": [
-      "Blalock, H.",
-      "赫伯特·布莱洛克"
-    ]
-  },
-  {
-    "title": "J. David Creswell",
-    "type": "person",
-    "path": "wiki/persons/usa/J. David Creswell.md",
-    "aliases": [
-      "Creswell, J. D.",
-      "J. 大卫·克雷斯维尔",
-      "David Creswell"
-    ]
-  },
-  {
-    "title": "Jim Spohrer",
-    "type": "person",
-    "path": "wiki/persons/usa/Jim Spohrer.md",
-    "aliases": [
-      "Spohrer, J.",
-      "James Spohrer",
-      "Jim C. Spohrer",
-      "J. C. Spohrer"
-    ]
-  },
-  {
-    "title": "John W. Creswell",
-    "type": "person",
-    "path": "wiki/persons/usa/John W. Creswell.md",
-    "aliases": [
-      "Creswell, J. W.",
-      "John Creswell",
-      "约翰·克雷斯维尔",
-      "克雷斯维尔"
-    ]
-  },
-  {
-    "title": "Julian B. Rotter",
-    "type": "person",
-    "path": "wiki/persons/usa/Julian B. Rotter.md",
-    "aliases": [
-      "Rotter, J. B.",
-      "Julian Rotter",
-      "朱利安·罗特"
-    ]
-  },
-  {
-    "title": "Robert E. Stake",
-    "type": "person",
-    "path": "wiki/persons/usa/Robert E. Stake.md",
-    "aliases": [
-      "Stake, R. E.",
-      "Robert Stake",
-      "罗伯特·斯塔克"
-    ]
-  },
-  {
-    "title": "Robert Marzano",
-    "type": "person",
-    "path": "wiki/persons/usa/Robert Marzano.md",
-    "aliases": [
-      "Marzano, R.",
-      "罗伯特·马扎诺"
-    ]
-  },
-  {
     "title": "Yvonna S. Lincoln",
     "type": "person",
-    "path": "wiki/persons/usa/Yvonna S. Lincoln.md",
+    "path": "wiki/persons/us/Yvonna S. Lincoln.md",
     "aliases": [
       "Lincoln, Y. S.",
       "Yvonna Lincoln",
@@ -12348,7 +12411,7 @@
   {
     "title": "2012 Moral and National Education Controversy",
     "type": "fact",
-    "path": "wiki/facts/hongkong/2012 Moral and National Education Controversy.md",
+    "path": "wiki/facts/hong-kong/2012 Moral and National Education Controversy.md",
     "aliases": [
       "Moral and National Education Controversy",
       "2012国民教育争议"
@@ -12357,7 +12420,7 @@
   {
     "title": "2019 Hong Kong Protests",
     "type": "fact",
-    "path": "wiki/facts/hongkong/2019 Hong Kong Protests.md",
+    "path": "wiki/facts/hong-kong/2019 Hong Kong Protests.md",
     "aliases": [
       "2019香港抗议",
       "反修例运动",
@@ -12368,7 +12431,7 @@
   {
     "title": "English Schools Foundation Hong Kong",
     "type": "fact",
-    "path": "wiki/facts/hongkong/English Schools Foundation Hong Kong.md",
+    "path": "wiki/facts/hong-kong/English Schools Foundation Hong Kong.md",
     "aliases": [
       "ESF",
       "英基学校基金会",
@@ -12378,7 +12441,7 @@
   {
     "title": "National Security Law",
     "type": "fact",
-    "path": "wiki/facts/hongkong/National Security Law.md",
+    "path": "wiki/facts/hong-kong/National Security Law.md",
     "aliases": [
       "香港国安法",
       "国安法对香港教育的影响",
@@ -12388,7 +12451,7 @@
   {
     "title": "Symposium on International Teaching",
     "type": "fact",
-    "path": "wiki/facts/hongkong/Symposium on International Teaching.md",
+    "path": "wiki/facts/hong-kong/Symposium on International Teaching.md",
     "aliases": [
       "Symposium on International Teaching 2007",
       "国际教学研讨会2007"
@@ -12397,7 +12460,7 @@
   {
     "title": "2009 Hong Kong NSS Curriculum Reform",
     "type": "fact",
-    "path": "wiki/facts/hongkong/2009 Hong Kong NSS Curriculum Reform.md",
+    "path": "wiki/facts/hong-kong/2009 Hong Kong NSS Curriculum Reform.md",
     "aliases": [
       "香港新高中课程改革",
       "3+3+4 学制改革",
@@ -12408,7 +12471,7 @@
   {
     "title": "Citizenship and Social Development",
     "type": "fact",
-    "path": "wiki/facts/hongkong/Citizenship and Social Development.md",
+    "path": "wiki/facts/hong-kong/Citizenship and Social Development.md",
     "aliases": [
       "公民与社会发展科",
       "CSD"
@@ -12417,7 +12480,7 @@
   {
     "title": "Liberal Studies",
     "type": "fact",
-    "path": "wiki/facts/hongkong/Liberal Studies.md",
+    "path": "wiki/facts/hong-kong/Liberal Studies.md",
     "aliases": [
       "香港通识教育科",
       "LS"
@@ -12426,7 +12489,7 @@
   {
     "title": "My Pledge to Act",
     "type": "fact",
-    "path": "wiki/facts/hongkong/My Pledge to Act.md",
+    "path": "wiki/facts/hong-kong/My Pledge to Act.md",
     "aliases": [
       "我的行动承诺"
     ]
@@ -12434,7 +12497,7 @@
   {
     "title": "National Education",
     "type": "fact",
-    "path": "wiki/facts/hongkong/National Education.md",
+    "path": "wiki/facts/hong-kong/National Education.md",
     "aliases": [
       "香港国民教育",
       "National Education in Hong Kong"
@@ -12443,7 +12506,7 @@
   {
     "title": "Youth Development Blueprint",
     "type": "fact",
-    "path": "wiki/facts/hongkong/Youth Development Blueprint.md",
+    "path": "wiki/facts/hong-kong/Youth Development Blueprint.md",
     "aliases": [
       "青年发展蓝图",
       "香港青年发展蓝图"
@@ -12612,7 +12675,7 @@
   {
     "title": "Cognition Education",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Cognition Education.md",
+    "path": "wiki/facts/new-zealand/Cognition Education.md",
     "aliases": [
       "Cognition Education Group",
       "Cognition Education Trust",
@@ -12623,7 +12686,7 @@
   {
     "title": "Manaiakalani Education Trust",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Manaiakalani Education Trust.md",
+    "path": "wiki/facts/new-zealand/Manaiakalani Education Trust.md",
     "aliases": [
       "Manaiakalani教育信托"
     ]
@@ -12631,7 +12694,7 @@
   {
     "title": "Partnership Schools Kura Hourua",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Partnership Schools Kura Hourua.md",
+    "path": "wiki/facts/new-zealand/Partnership Schools Kura Hourua.md",
     "aliases": [
       "伙伴学校Kura Hourua",
       "特许学校"
@@ -12640,7 +12703,7 @@
   {
     "title": "Teach First New Zealand",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Teach First New Zealand.md",
+    "path": "wiki/facts/new-zealand/Teach First New Zealand.md",
     "aliases": [
       "TFNZ",
       "Ako Mātātupu",
@@ -12650,7 +12713,7 @@
   {
     "title": "Treasury Briefing on Student-Teacher Ratios",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Treasury Briefing on Student-Teacher Ratios.md",
+    "path": "wiki/facts/new-zealand/Treasury Briefing on Student-Teacher Ratios.md",
     "aliases": [
       "财政部师生比简报"
     ]
@@ -12658,7 +12721,7 @@
   {
     "title": "Visible Learning Branding and Global Influences",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Visible Learning Branding and Global Influences.md",
+    "path": "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
     "aliases": [
       "可见的学习（Visible Learning，VL）品牌化与全球影响"
     ]
@@ -12666,7 +12729,7 @@
   {
     "title": "Contestable School Support Services",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Contestable School Support Services.md",
+    "path": "wiki/facts/new-zealand/Contestable School Support Services.md",
     "aliases": [
       "可竞争学校支持服务"
     ]
@@ -12674,7 +12737,7 @@
   {
     "title": "Foundation North Māori and Pasifika Education Initiative",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Foundation North Māori and Pasifika Education Initiative.md",
+    "path": "wiki/facts/new-zealand/Foundation North Māori and Pasifika Education Initiative.md",
     "aliases": [
       "北方基金会毛利与太平洋岛民教育计划",
       "MPEI"
@@ -12683,7 +12746,7 @@
   {
     "title": "Learning for Life Report",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Learning for Life Report.md",
+    "path": "wiki/facts/new-zealand/Learning for Life Report.md",
     "aliases": [
       "Learning for Life Report 1989",
       "为生活而学习报告"
@@ -12692,7 +12755,7 @@
   {
     "title": "New Zealand National Standards",
     "type": "fact",
-    "path": "wiki/facts/newzealand/New Zealand National Standards.md",
+    "path": "wiki/facts/new-zealand/New Zealand National Standards.md",
     "aliases": [
       "新西兰国家标准"
     ]
@@ -12700,7 +12763,7 @@
   {
     "title": "The New Zealand Curriculum",
     "type": "fact",
-    "path": "wiki/facts/newzealand/The New Zealand Curriculum.md",
+    "path": "wiki/facts/new-zealand/The New Zealand Curriculum.md",
     "aliases": [
       "新西兰课程"
     ]
@@ -12708,7 +12771,7 @@
   {
     "title": "The Scott Report",
     "type": "fact",
-    "path": "wiki/facts/newzealand/The Scott Report.md",
+    "path": "wiki/facts/new-zealand/The Scott Report.md",
     "aliases": [
       "The Scott Report 1986",
       "斯科特报告"
@@ -12717,7 +12780,7 @@
   {
     "title": "Tomorrow's Schools Reforms",
     "type": "fact",
-    "path": "wiki/facts/newzealand/Tomorrow's Schools Reforms.md",
+    "path": "wiki/facts/new-zealand/Tomorrow's Schools Reforms.md",
     "aliases": [
       "明日学校改革",
       "Tomorrow's Schools"
@@ -12726,7 +12789,7 @@
   {
     "title": "NZ Curriculum Refresh 2021-2026",
     "type": "fact",
-    "path": "wiki/facts/newzealand/NZ Curriculum Refresh 2021-2026.md",
+    "path": "wiki/facts/new-zealand/NZ Curriculum Refresh 2021-2026.md",
     "aliases": [
       "新西兰课程改革",
       "NZ curriculum refresh",
@@ -13913,7 +13976,7 @@
   {
     "title": "Fulbright Program",
     "type": "fact",
-    "path": "wiki/facts/usa/Fulbright Program.md",
+    "path": "wiki/facts/us/Fulbright Program.md",
     "aliases": [
       "富布莱特计划",
       "富布赖特计划",

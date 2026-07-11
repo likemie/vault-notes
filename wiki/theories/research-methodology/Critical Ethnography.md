@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 
 # Critical Ethnography
@@ -48,10 +48,10 @@ updated: 2026-06-24
 > - **知识位置**[[Critical Theory|批判理论]]传统（法兰克福学派、哈贝马斯）、文化马克思主义、[[Post-colonial Theory|后殖民理论]]、女性主义理论；核心文本包括 Thomas (1993)、Carspecken (1996)、Madison (2005)。
 
 > [!claim] 核心主张
-> 批判民族志将民族志方法从"发现和描述"推进到"质疑和改变"：研究不仅是对社会现实的记录，更是揭露压迫、赋权被研究群体、推动社会正义的政治行动和行动主义。研究者既非中立也非无辜——[[Reflexivity|反身性]]不只是自我审视，而是积极干预。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 446–451)]]
+> 批判民族志将民族志方法从"发现和描述"推进到"质疑和改变"：研究不仅是对社会现实的记录，更是揭露压迫、赋权被研究群体、推动社会正义的政治行动和行动主义。研究者既非中立也非无辜——[[Reflexivity|反身性]]不只是自我审视，而是积极干预。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 446–451)]]
 
 > [!citation-card]- 关键表述
-> 传统民族志关注是什么，批判民族志关注可能是什么。（Thomas, 1993: 4）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 446)]]
+> 传统民族志关注是什么，批判民族志关注可能是什么。（Thomas, 1993: 4）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 446)]]
 >
 > *Whereas conventional ethnography is concerned with what is, critical ethnography concerns itself with what could be.*
 
@@ -69,9 +69,9 @@ updated: 2026-06-24
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题
-> - **前提一** 研究和思维由权力关系中转，具有社会和历史定位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 447)]]
-> - **前提二** 事实与价值不可分离；各种压迫形式（种族、性别、阶级等）相互中介，必须共同考虑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 448)]]
-> - **机制** 通过描述情境→理解情境→质疑情境→改变情境的四阶段递进，批判[[Ethnography|民族志]]将民族志描述暴露于[[Ideology Critique|意识形态批判]]之下，使被压迫者发声和参与理论化，将微观发现与宏观系统关系相关联。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 450–451)]]
+> - **前提一** 研究和思维由权力关系中转，具有社会和历史定位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 447)]]
+> - **前提二** 事实与价值不可分离；各种压迫形式（种族、性别、阶级等）相互中介，必须共同考虑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 448)]]
+> - **机制** 通过描述情境→理解情境→质疑情境→改变情境的四阶段递进，批判[[Ethnography|民族志]]将民族志描述暴露于[[Ideology Critique|意识形态批判]]之下，使被压迫者发声和参与理论化，将微观发现与宏观系统关系相关联。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 450–451)]]
 > - **结果判断** 研究应促进自由、社会正义、公平和福祉，积极干预以改变压迫性社会结构，而非仅仅记录或理解它们。
 
 > [!exegesis]- 教育研究例子
@@ -114,13 +114,13 @@ updated: 2026-06-24
 > > [!axis] 研究者是否应该成为行动主义者？
 > > 批判[[Ethnography|民族志]]要求研究者从描述者转变为社会变革的行动者。但这是否混淆了研究和政治行动主义的边界？
 > >
-> > - **Quantz (1992)** 认为研究不可避免地服务某些利益，在批判民族志中研究者必须揭示这些利益并推动参与者走向解放和自由。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 448)]]
+> > - **Quantz (1992)** 认为研究不可避免地服务某些利益，在批判民族志中研究者必须揭示这些利益并推动参与者走向解放和自由。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 448)]]
 > > - **质疑立场** 研究者作为局外人将自己的政治议程加诸被研究群体，可能构成新的殖民和话语霸权。
 >
 > > [!axis] 客观性是否可能或被期待？
 > > 批判民族志主张事实与价值不可分，拒斥传统的中立研究立场。但这是否削弱了研究被其他立场者接受的可能性？
 > >
-> > - **Madison (2005)** 认为无论是主体性还是客观性，都需因其政治立场和效应而被审视，研究者和研究既非中立也非无辜。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 447)]]
+> > - **Madison (2005)** 认为无论是主体性还是客观性，都需因其政治立场和效应而被审视，研究者和研究既非中立也非无辜。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 447)]]
 > > - **批评者** 认为当研究结论被政治承诺预先决定时，研究就失去了发现意外事实和纠正研究者错误认知的能力。
 
 > [!critique]- 批评索引

@@ -7,10 +7,10 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 34
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - method/research-methods
   - theme/validity
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Operationalization]]"
   - "[[Ecological Validity]]"
+  - "[[Sample Size Determination]]"
   - "[[Research Utilization]]"
   - "[[Construct]]"
   - "[[Catalytic Validity]]"
@@ -42,12 +43,17 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Random Sampling]]"
+  - "[[Survey Research]]"
+  - "[[Non-probability Sampling]]"
+  - "[[Longitudinal Study]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 status: draft
 created: 2026-05-31
-updated: 2026-06-23
+updated: 2026-07-11
 ---
 # External Validity
 
@@ -109,6 +115,22 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 168–171)]]
 
+### 调查研究中特有的外部效度考量
+
+[[Survey Research|调查研究]]的可推广性面临若干独特威胁，[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|第13章]]对此有集中讨论：
+
+> [!challenges] 调查推广性的三重威胁
+> - **无回应偏倚** Dale (2006, p. 148)指出"无回应者几乎总是与回应者不同"，直接影响所获回应的外部效度。低回应率（可低至 20–30%）意味着实现样本系统性偏离计划样本，不知发现可否推广到更广泛总体（p.265）。
+> - **样本-总体鸿沟** 调查的吸引力在于泛化性，但其解释力会被脱离时间、空间和具体情境的宽泛概括所淹没——"个体实例被牺牲在聚合回应中"（p.259）。追求泛化性时应使用概率样本；非概率样本的泛化性受限（p.260）。
+> - **[[Sample Size Determination|样本量]]悖论** Fowler (2009, p. 44)指出 150 人的样本描述 15,000 人或 2,500 万人的总体在准确性上大致相同——[[Sampling Error|抽样误差]]取决于样本量 $N$ 而非样本占总体的比例。超过 150–200 人仅带来精度上的适度增益（p.45）。这意味着增加样本量并非无限提升外部效度的捷径。
+
+> [!tip] 增强调查外部效度的策略
+> - 使用[[Random Sampling|概率抽样]]而非[[Non-probability Sampling|非概率抽样]]，除非有充分理由（Fowler, 2009, p. 45）
+> - 为低回应率做计划——增加初始样本量以缓冲（Punch, 2003, p. 43）
+> - 跟进提醒可使 ¼–⅓ 的初始无回应者最终参与（Fowler, 2009, p. 57）
+> - 对极小总体子群使用过采样 + 加权校正以保持代表性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|第8章 §8.4]]）
+> - 在[[Longitudinal Study|纵向调查]]中，样本流失（attrition）随时间威胁外部效度——留存者往往更中产阶级化、更稳定，需在分析中评估流失偏倚（p.270）
+
 ---
 
 ## 质性研究中的外部效度
@@ -157,8 +179,8 @@ Bogdan & Biklen (1992: 45) 从更广泛的角度总结：在质性研究中，�
 
 > [!note] 两种额外的效度威胁
 > 除内部效度和外部效度外，Creswell & Creswell (2022, Ch8) 还提到了另外两种效度威胁：
-> - **统计结论效度（Statistical Conclusion Validity）** 因统计功效不足或违反统计[[Hypothesis|假设]]而导致研究者从数据中得出不准确的推论。
-> - **[[Construct Validity|构念效度]]威胁（Threats to [[Construct]] Validity）** 研究者使用不恰当的[[Variable|变量]]定义和测量方式，导致构念的[[Operationalization|操作化]]无法准确反映理论构念。
+> - **统计结论效度（Statistical Conclusion Validity）** 因统计功效不足或违反统计[[Hypothesis|假设]]而从数据中得出不准确的推论。
+> - **[[Construct Validity|构念效度]]威胁（Threats to [[Construct]] Validity）** 不恰当的[[Variable|变量]]定义和测量方式导致构念的[[Operationalization|操作化]]无法准确反映理论构念。
 
 > [!tension] 可推广性的[[Paradigm Wars|范式之争]]
 > - **量化立场** 可推广性是[[Necessary and Sufficient Conditions|必要条件]]（sine qua non）。通过[[Random Sampling|随机抽样]]、大样本和统计推断，从样本推广到总体——去情境化是前提而非缺陷。

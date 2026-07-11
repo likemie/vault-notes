@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-07-11
 ---
 
 # Tyler Rationale
@@ -40,7 +40,7 @@ updated: 2026-06-17
 ## 定义
 
 > [!def] 核心定义
-> Tyler（1949）提出的课程开发四问框架，被认为是现代主义、[[Positivism|实证主义]]课程观最具影响力的表达。其核心逻辑是：目的先行，经验服务目的，组织服务效率，评估服务验证——一个从目标到结果的线性、闭环控制系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011c, pp. 121–125)]]
+> Tyler（1949）提出的课程开发四问框架，被认为是现代主义、[[Positivism|实证主义]]课程观最具影响力的表达。其核心逻辑是：目的先行，经验服务目的，组织服务效率，评估服务验证——一个从目标到结果的线性、闭环控制系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 121–125)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 课程是一个从确定目的到评估结果的完整技术流程。四个问题按固定顺序推进，每一步的逻辑输出是下一步的输入。
@@ -62,7 +62,7 @@ updated: 2026-06-17
 > 4. 如何判断这些目的是否正在实现？（How can we determine whether these purposes are being attained?）
 
 > [!feature] 底层预设
-> Tyler 原理的四问隐含着对课程的深层预设：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011c, pp. 131–133)]]
+> Tyler 原理的四问隐含着对课程的深层预设：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 131–133)]]
 > - **可控性** 课程是可以且应该被控制的。目的是预先确定的，经验是可以被选择的，组织是可以被优化的。
 > - **有序性** 四问之间有严格的逻辑顺序——必须先确定目的，再选择经验，然后组织，最后评估。
 > - **预定性与统一性** 所有学生面对相同的目标和评估标准。
@@ -74,10 +74,10 @@ updated: 2026-06-17
 ## 围绕概念形成的命题
 
 > [!claim] 命题一：Tyler 原理是技术兴趣的课程表达
-> Tyler 原理与哈贝马斯的技术兴趣（预测与控制）共振：将课程呈现为需要"交付"给被动接受者的商品，课程只是消费者社会中另一种商品，其中差异化的[[Cultural Capital|文化资本]]不可避免。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011c, pp. 141–142)]]
+> Tyler 原理与哈贝马斯的技术兴趣（预测与控制）共振：将课程呈现为需要"交付"给被动接受者的商品，课程只是消费者社会中另一种商品，其中差异化的[[Cultural Capital|文化资本]]不可避免。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 141–142)]]
 
 > [!claim] 命题二：Tyler 原理代表了封闭的课程系统
-> Doll（1993）批评 Tyler 原理代表了一个封闭的规划和实践系统，与教育的开放过程本质、后现代社会的开放与多样、以及[[Constructivist Paradigm|建构主义]]心理学的进展这三者根本冲突。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011c, p. 133)]]
+> Doll（1993）批评 Tyler 原理代表了一个封闭的规划和实践系统，与教育的开放过程本质、后现代社会的开放与多样、以及[[Constructivist Paradigm|建构主义]]心理学的进展这三者根本冲突。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, p. 133)]]
 
 ---
 
@@ -96,4 +96,4 @@ updated: 2026-06-17
 ## 应用案例
 
 > [!case] 应用案例索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011c, pp. 121–149)]] — Tyler 原理被用作[[Critical Theory|批判理论]]课程分析的靶子：英格兰和威尔士国家课程被论证为在技术兴趣上重、解放兴趣上轻，有意或无意地支持了社会不平等的再生产。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 121–149)]] — Tyler 原理被用作[[Critical Theory|批判理论]]课程分析的靶子：英格兰和威尔士国家课程被论证为在技术兴趣上重、解放兴趣上轻，有意或无意地支持了社会不平等的再生产。

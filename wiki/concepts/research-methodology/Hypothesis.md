@@ -38,14 +38,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-07-08
+updated: 2026-07-11
 ---
 # Hypothesis
 
 ## 定义
 
 > [!def] 假设（Hypothesis）
-> Kerlinger（1970）将假设定义为两个或多个[[Variable|变量]]之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"（an educated guess），但不同于普通猜测，假设往往是大量研究、[[Reflexivity|反思性]]思考和观察的结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, pp.138–140]]）。
+> Kerlinger（1970）将假设定义为两个或多个[[Variable|变量]]之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"（an educated guess），但不同于普通猜测，假设往往是大量研究、[[Reflexivity|反思性]]思考和观察的结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, pp.138–140]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 假设是对变量间关系的有根据预测，它既是理论的检验工具，也是经验研究的逻辑起点。在[[Quantitative Research|量化研究]]中连接理论与数据。
@@ -58,7 +58,7 @@ updated: 2026-07-08
 > - 不适用于纯粹的描述性研究、探索性[[Qualitative Research|质性研究]]（这些研究可能不预设假设）
 
 > [!citation-card]- Medawar 论假设的创造性本质
-> 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972: 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）
+> 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972: 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
 >
 > *All advances of scientific understanding, at every level, begin with a speculative adventure, an imaginative preconception of what might be true – a preconception which always, and necessarily, goes a little way (sometimes a long way) beyond anything which we have logical or factual authority to believe in. The conjecture is then exposed to criticism to find out whether or not that imagined world is anything like the real one.* (Medawar, 1972: 22)
 
@@ -83,7 +83,7 @@ updated: 2026-07-08
 来自三位学者的标准相互补充。Kerlinger 从形式逻辑出发，Medawar 关注可检验性边界，Creswell 强调操作层面，Cohen et al. (Ch.7) 补充了方向性维度。
 
 > [!assumptions] Kerlinger 的好假设标准
-> （[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）
+> （[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
 > - **关系陈述** 假设是[[Variable|变量]]之间关系的陈述。例如"社会阶级背景决定学业成就"陈述了一个变量（社会阶级）与另一个变量（学业成就）之间的关系
 > - **可检验性** 假设必须蕴含明确的检验含义来检验所述关系——上述例子中，社会阶级和学业成就都可被测量
 > - **兼容性**（辅助）假设应与现有知识兼容
@@ -102,7 +102,7 @@ updated: 2026-07-08
 > - **经得起检验** 假设应该是经得起检验的，这是假设区别于普通猜测的关键特征
 
 > [!warning] 好假设的关键：逻辑即时性（Medawar, 1981）
-> 一个假设如果松散到可以容纳任何现象，它就精确地告诉了我们零信息；它禁止的现象越多，它提供的信息就越多。好假设还必须具有逻辑即时性（logical immediacy），它必须为需要解释的现象提供解释，而不是为其他现象提供解释。Medawar 指出："可溶之艺的大部分，就是设计可通过可行实验来检验的假设之艺。"（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）
+> 一个假设如果松散到可以容纳任何现象，它就精确地告诉了我们零信息；它禁止的现象越多，它提供的信息就越多。好假设还必须具有逻辑即时性（logical immediacy），它必须为需要解释的现象提供解释，而不是为其他现象提供解释。Medawar 指出："可溶之艺的大部分，就是设计可通过可行实验来检验的假设之艺。"（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
 ---
 
 ### 方向性假设与非方向性假设
@@ -191,7 +191,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 
 ### 假设的重要性
 
-Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）：
+Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!feature] 假设的四重重要性
 > - **组织研究者的努力** 假设所表达的关系指示研究者应当做什么，为收集、分析和解释数据提供框架
@@ -218,5 +218,5 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011a)]] — Ch.1 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性；Ch.7 系统阐述方向性/[[Directional and Non-directional Hypotheses|非方向性假设]]区分、假设[[Operationalization|操作化]]程序和中介[[Variable|变量]]
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — Ch.1 引入 Kerlinger 的好假设标准、Medawar 的逻辑即时性概念和假设四重重要性；Ch.7 系统阐述方向性/[[Directional and Non-directional Hypotheses|非方向性假设]]区分、假设[[Operationalization|操作化]]程序和中介[[Variable|变量]]
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — Ch.7 提出方向性/可检验性/理论基础/具体性四特征，以及[[Quantitative Research|量化研究]]问题与假设的区分

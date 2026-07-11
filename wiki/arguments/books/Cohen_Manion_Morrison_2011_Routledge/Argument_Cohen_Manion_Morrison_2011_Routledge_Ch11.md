@@ -6,24 +6,22 @@ authors:
 summary: "系统介绍自然主义、质性与民族志研究的认识论基础、规划流程、12阶段操作模型、批判民族志五阶段模型及十大内在局限，为从范式到操作提供全流程指南。"
 type: argument
 subtype: textbook
-publication_type: book
+publication_type: book-chapter
 title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
-argument_display_title: "Research Methods in Education"
-argument_kind: "book"
+argument_display_title: "Research Methods in Education · Ch11"
+argument_kind: "book-chapter"
 argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#ede9fe"
+argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
 publication_place: "London"
 year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
-citation_aliases:
-  - "Cohen et al., 2011b"
-  - "Cohen et al. (2011b)"
+citation_aliases: []
 tags:
   - method/research-methods
   - paradigm/qualitative
@@ -110,7 +108,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11
 

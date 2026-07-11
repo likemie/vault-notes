@@ -7,23 +7,21 @@ source_language: en
 summary: "系统拆解调查研究的定义与14项特征、从一般目的到具体信息的三步递进逻辑、14阶段规划流程与四类误差来源、低回应与无回应的插补方法链与提高回应率的18项策略、抽样决策的七因素框架与过采样加权技术、纵向/横截面/趋势/队列四种研究设计的定义边界与优劣比较（含Box 13.1 Douglas六项辩护），以及邮寄/访谈/电话/互联网四种数据收集方式的完整特征矩阵"
 type: argument
 subtype: textbook
-publication_type: book
+publication_type: book-chapter
 title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
-argument_display_title: "Research Methods in Education"
-argument_kind: "book"
+argument_display_title: "Research Methods in Education · Ch13"
+argument_kind: "book-chapter"
 argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
-argument_related_color: "#ede9fe"
+argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
 publisher: "Routledge"
 year: 2011
 doi: ""
-citation_aliases:
-  - "Cohen et al., 2011d"
-  - "Cohen et al. (2011d)"
+citation_aliases: []
 isbn: "978-0-415-58336-7"
 citation: ""
 tags:
@@ -40,6 +38,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
+  - "[[Self-report Bias]]"
   - "[[Research Topic]]"
   - "[[Research Question]]"
   - "[[Null Hypothesis]]"
@@ -57,6 +56,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Emergence]]"
   - "[[International Education]]"
+  - "[[Pre-test Sensitisation]]"
   - "[[Sensitive Research]]"
   - "[[Internal Consistency]]"
 related_methods:
@@ -68,6 +68,7 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Internet-based Survey]]"
+  - "[[Imputation Methods]]"
   - "[[Stratified Sampling]]"
   - "[[Multi-phase Sampling]]"
   - "[[Cohort Study]]"
@@ -208,7 +209,7 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 
 两个核心问题：数据由研究者录入还是参与者自填？调查通过何种方式施测（邮寄、电话、互联网、面对面访谈、电子邮件）？
 
-> [!warning] 自报（self-reporting）的三重偏差风险
+> [!warning] [[Self-report Bias|自报（self-reporting）]]的三重偏差风险
 > 自报与面对面调查访谈或电话访谈获得的回答可能存在显著差异(Dale, 2006, p. 145)。偏差来源有三：
 >
 > 1. **低报（under-report）** 回避社会不期望的回答，如青少年低报饮酒、吸烟或药物使用量
@@ -301,7 +302,7 @@ Fowler (2009, p. 15)指出受访者给出的答案是**真实回答 + 回答误�
 
 #### 插补方法：从简单到复杂
 
-Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150)和 Durrant (2006, 2009)回顾了一系列**插补方法（imputation methods）**，即用"合理值"填充缺失数据，使数据集完整同时减少无回应偏倚——无回应者的值可能系统性不同于有回应者，直接删除会扭曲结果(Durrant, 2009, p. 295)。选择哪种方法取决于无回应集中在一个变量还是多个变量、是否存在可识别的无回应模式：
+Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150)和 Durrant (2006, 2009)回顾了一系列**[[Imputation Methods|插补方法（imputation methods）]]**，即用"合理值"填充缺失数据，使数据集完整同时减少无回应偏倚——无回应者的值可能系统性不同于有回应者，直接删除会扭曲结果(Durrant, 2009, p. 295)。选择哪种方法取决于无回应集中在一个变量还是多个变量、是否存在可识别的无回应模式：
 
 > [!chain-link] 插补方法链：从简单均值到倾向得分赋权
 > - **回归插补**
@@ -547,7 +548,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 #### 趋势研究
 
 > [!def] 趋势研究的运作机制
-> 趋势研究关注**因素而非人群**，持续研究这些因素随时间的变化。在数据收集的每个阶段抽取**新样本**，但聚焦**相同因素**。每次抽取不同样本可以避免**反应性（reactivity）**问题：在追踪同一批人的纵向研究中，首次调查本身可能改变参与者的认知或行为——例如健康调查提醒了吸烟的危害，使受访者在第二轮前主动戒烟，此时记录的变化是调查"制造"的而非自然发生的（即预试敏感化，pre-test sensitisation）。趋势研究通过每轮更换样本切断了这种"自我污染"的链条，每一轮的数据都来自对调查主题完全新鲜的受访者（p.269）。
+> 趋势研究关注**因素而非人群**，持续研究这些因素随时间的变化。在数据收集的每个阶段抽取**新样本**，但聚焦**相同因素**。每次抽取不同样本可以避免**反应性（reactivity）**问题：在追踪同一批人的纵向研究中，首次调查本身可能改变参与者的认知或行为——例如健康调查提醒了吸烟的危害，使受访者在第二轮前主动戒烟，此时记录的变化是调查"制造"的而非自然发生的（即[[Pre-test Sensitisation|预试敏感化]]，pre-test sensitisation）。趋势研究通过每轮更换样本切断了这种"自我污染"的链条，每一轮的数据都来自对调查主题完全新鲜的受访者（p.269）。
 
 趋势或预测研究对教育管理者或规划者具有明显的重要性。趋势研究检查已记录的数据以建立已发生的变化模式，从而预测未来可能发生的情况。在趋势研究中，两项或更多横截面研究在多个时间点对相同年龄组进行，以便进行跨时间比较，如美国学术能力与成就测试（Scholastic Aptitude and Achievement tests）(Keeves, 1997a, p. 141)和美国国家教育进展评估（National Assessment of Educational Progress，NAEP）结果(Lietz & Keeves, 1997, p. 122)。
 

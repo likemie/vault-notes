@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 
 # Interpretive Paradigm
@@ -56,7 +56,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 诠释[[Paradigm|范式]]（Interpretive Paradigm）
-> 与[[Positivism|实证主义]]相对的研究传统。核心立场是：社会世界只能从参与行动的个体的立场来理解，研究者必须分享参与者的参照框架（frame of reference），从内部而非外部来理解人们对世界的解释（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。社会和教育的世界是混乱、复杂、充满矛盾、多层且联结交织的，不能被量化的原子化过程所拆解，必须被整体地研究才能获得真正的理解。
+> 与[[Positivism|实证主义]]相对的研究传统。核心立场是：社会世界只能从参与行动的个体的立场来理解，研究者必须分享参与者的参照框架（frame of reference），从内部而非外部来理解人们对世界的解释（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。社会和教育的世界是混乱、复杂、充满矛盾、多层且联结交织的，不能被量化的原子化过程所拆解，必须被整体地研究才能获得真正的理解。
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种研究范式，主张社会现实由行动者主动建构，研究者须从参与者内部视角理解意义，而非从外部测量[[Variable|变量]]。
@@ -67,7 +67,7 @@ updated: 2026-06-24
 
 ## 核心特征
 
-诠释/自然主义取向的六个核心公理（Boas, 1943; Blumer, 1969; Lincoln & Guba, 1985; Woods, 1992; LeCompte & Preissle, 1993）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011b]], pp. 403–404）：
+诠释/自然主义取向的六个核心公理（Boas, 1943; Blumer, 1969; Lincoln & Guba, 1985; Woods, 1992; LeCompte & Preissle, 1993）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 403–404）：
 
 > [!feature] 诠释/自然主义[[Paradigm|范式]]的核心公理
 > - **人类主动建构自己的意义** 意义从社会情境中产生并通过诠释过程处理。行为和数据是社会性地情境化的：情境关联、情境依赖、情境丰富。理解情境才能理解行为，因为情境影响行为与视角，反之亦然。
@@ -77,7 +77,7 @@ updated: 2026-06-24
 > - **研究者即研究工具（Eisner, 1991）** 研究者生成而非检验假设，不知事先会看到什么、寻求什么。社会研究须以参与者眼光审视情境——[[Ethnography|民族志]]的任务如 Malinowski（1922: 25）所言，是把握"土著的视角"。研究应在自然、非人为的、真实世界场景中进行，研究者干预尽可能少。
 > - **归纳式数据分析和[[Emergence|涌现]]式理论** 数据分析是归纳的，[[Construct|构念]]从数据中衍生。理论是派生的、扎根的（Glaser & Strauss, 1967）；数据提示理论而非相反。概括性被重释为对可识别特定场景和主体的概括，而非普遍概括。情境独特；研究过程和结果同等重要。
 
-在此基础上，早期表述还包括（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）：
+在此基础上，早期表述还包括（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!finding-cards]
 > - **人的能动性** 人有意识地、创造性地行动，通过活动建构意义（Blumer, 1969）；人不是被动的"文化傀儡"（cultural dopes, Garfinkel, 1967）
@@ -107,7 +107,7 @@ updated: 2026-06-24
 
 ### 概括性的重新定义
 
-从诠释[[Paradigm|范式]]的[[Epistemology|认识论]]立场出发，概括性不能等同于统计概括。LeCompte & Preissle（1993: 47）将[[Ethnography|民族志]]的概括性重释为两个标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011b]], pp. 406–407）：
+从诠释[[Paradigm|范式]]的[[Epistemology|认识论]]立场出发，概括性不能等同于统计概括。LeCompte & Preissle（1993: 47）将[[Ethnography|民族志]]的概括性重释为两个标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 406–407）：
 
 > [!term] 可比较性（Comparability）与可翻译性（Translatability）
 > **可比较性**——所研究群体特征需充分明确描述以便读者与其他群体比较；**可翻译性**——分析范畴和研究群体特征需明确化以便跨群体和学科的有意义比较。
@@ -133,5 +133,5 @@ updated: 2026-06-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011a)]] — 第1章系统介绍诠释[[Paradigm|范式]]的定义、与规范性范式的区分以及三大研究传统。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 第1章系统介绍诠释[[Paradigm|范式]]的定义、与规范性范式的区分以及三大研究传统。
 > - Cohen et al. — 第11章深度展开诠释范式的[[Epistemology|认识论]]公理、操作性含义、emic/etic区分、概括性重定义、Woods与Dobbert的争论，以及十大内在困难。

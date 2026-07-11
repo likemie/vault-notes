@@ -10,7 +10,7 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Educated Identity]]"
   - "[[Graduate Attributes]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Methodological Statism]]"
   - "[[Methodological Educationism]]"
   - "[[Reflexivity]]"
   - "[[Knowledge-Based Economy]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-26
-updated: 2026-07-09
+updated: 2026-07-11
 ---
 
 # Global Citizenship
@@ -73,7 +74,7 @@ updated: 2026-07-09
 > - **边界** 不能与单纯用于跨国商业竞争的“全球胜任力”或局限于特定国家内部参与的“积极公民身份”等同，它更带有伦理关怀与去中心化认同。
 
 > [!citation-card]- 关键表述
-> 全球公民、人权与生态身份挑战了基于方法论国家主义、国家集权 (statism) 及[[Methodological Educationism|教育主义]]的传统国民身份。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> 全球公民、人权与生态身份挑战了基于[[Methodological Statism|方法论国家主义]]、国家集权 (statism) 及[[Methodological Educationism|教育主义]]的传统国民身份。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 > [!boundary]- 概念边界
 > - 不等于 [[Graduate Attributes|毕业生特质]] — 毕业生特质是涵盖学术技能、团队协作和专业研究等在内的总集，全球公民仅是其中一个涉及全球视野与责任伦理的特定功能子域。

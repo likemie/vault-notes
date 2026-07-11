@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-07-08
+updated: 2026-07-11
 ---
 
 # Scientism
@@ -58,7 +58,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!def] 核心定义
-> 霍克海默（Horkheimer, 1972）将科学主义描述为科学对自身的信念——相信自己是进行研究和解释现象的唯一方式（science's belief in itself as the only way of conducting research and explaining phenomena），以及关于自然的概念的数学化（the mathematization of concepts about nature）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+> 霍克海默（Horkheimer, 1972）将科学主义描述为科学对自身的信念——相信自己是进行研究和解释现象的唯一方式（science's belief in itself as the only way of conducting research and explaining phenomena），以及关于自然的概念的数学化（the mathematization of concepts about nature）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学主义是一种[[Epistemology|认识论]]立场，它将自然科学的方法和权威过度扩展到原本不适用或不充分的领域，将科学知识视为唯一合法的知识形式。
@@ -144,7 +144,7 @@ updated: 2026-07-08
 
 > [!dev-timeline] 概念演变
 > - **1940s — 早期系统批评** Hayek（1942–1944）系统批评 scientistic 取向，反对把自然[[Scientific Method|科学方法]]机械移植到社会科学
-> - **1970s — 法兰克福学派奠基** 哈贝马斯（Habermas, 1972）和霍克海默（Horkheimer, 1972）提供了最系统的社会理论层面的批判：科学心态被提升至几乎不容置疑的地位——近乎一种宗教，成为西方唯一合法的[[Epistemology|认识论]]；所有知识都被等同于科学知识（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）
+> - **1970s — 法兰克福学派奠基** 哈贝马斯（Habermas, 1972）和霍克海默（Horkheimer, 1972）提供了最系统的社会理论层面的批判：科学心态被提升至几乎不容置疑的地位——近乎一种宗教，成为西方唯一合法的[[Epistemology|认识论]]；所有知识都被等同于科学知识（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
 > - 同时期的其他批评者：Ions（1977）警告量化作为目的本身带来的去人格化风险；Roszak（1970, 1972）批评科学在追求客观性中是对真实自我的疏离；Holbrook（1977）批评[[Positivism|实证主义]]对内在世界和道德性的破产（, Ch. 1）
 >   - 维特根斯坦（1974）的名言：当所有可能的科学问题都得到回答时，生活的主要问题仍然没有被触及
 > - **2001 — 哲学立场分析** Stenmark 将 scientism 分析为关于科学能力边界的主张，强调其哲学立场属性，而非单一研究方法问题
@@ -156,7 +156,7 @@ updated: 2026-07-08
 ## 争议与批评
 
 > [!tension] 核心张力
-> - **科学主义批判** [[Scientific Method|科学方法]]不能回答所有问题。哈贝马斯和霍克海默指出，科学解释成为解释行为的唯一手段时，它严重削弱了使人之为人的特征，造就了一个没有良知的社会（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）
+> - **科学主义批判** [[Scientific Method|科学方法]]不能回答所有问题。哈贝马斯和霍克海默指出，科学解释成为解释行为的唯一手段时，它严重削弱了使人之为人的特征，造就了一个没有良知的社会（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
 > - **语境依赖** 反对科学主义不等于反对实证研究。[[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, p.72)]] 指出，在 1910–1920 年代的中国，[[Hu Shi|胡适]]并不担心科学主义——他认为迷信才是现代科学的主要敌人。[[John Dewey|杜威]]在美国语境中批评科学主义有其合理性，因为科学在那里已获得近乎不受质疑的权威；但在当时的中国，科学恰恰缺乏这种权威。科学主义批判的有效性取决于特定社会中科学相对于其他认知权威的实际地位
 
 > [!critique] 科学主义对教育的损害
@@ -167,7 +167,7 @@ updated: 2026-07-08
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011a)]] — 在研究方法教科书中系统介绍了法兰克福学派对科学主义的批判，以及 Hayek、Ions、Roszak 等早期批评者的立场
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书中系统介绍了法兰克福学派对科学主义的批判，以及 Hayek、Ions、Roszak 等早期批评者的立场
 > - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 以 Hattie 的 [[Visible Learning]] 为案例，分析教育领域科学主义的表现形态和政策后果
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程为案例，揭示了科学主义通过课程评估框架隐性运作的新形态，扩展了科学主义的识别范围
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 指出科学主义批判的语境依赖性：在科学尚未获得权威的社会中，科学主义的危险性不同于在科学已占主导地位的社会

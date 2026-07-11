@@ -6,23 +6,21 @@ authors:
 summary: "系统介绍历史与文献研究方法的核心分析单位（文献的四轴类型划分与一手/二手复杂区分）、六类一手文献及其教育研究案例、档案研究的类型与挑战、文献分析五程序环节（真实性、可靠性、意义、语境、理论化）、三种理论传统（实证主义、解释性、批判性），以及文献研究的伦理与法律框架。"
 type: argument
 subtype: textbook
-publication_type: book
+publication_type: book-chapter
 title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
-argument_display_title: "Research Methods in Education"
-argument_kind: "book"
+argument_display_title: "Research Methods in Education · Ch12"
+argument_kind: "book-chapter"
 argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
-argument_related_color: "#ede9fe"
+argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
 year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
-citation_aliases:
-  - "Cohen et al., 2011c"
-  - "Cohen et al. (2011c)"
+citation_aliases: []
 publication_place: "London"
 tags:
   - method/research-methods
@@ -57,9 +55,10 @@ related_methods:
   - "[[Archival Research]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
+part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
-updated: 2026-07-09
+updated: 2026-07-11
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12
 

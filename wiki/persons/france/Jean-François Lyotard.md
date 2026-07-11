@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 
 # Jean-François Lyotard

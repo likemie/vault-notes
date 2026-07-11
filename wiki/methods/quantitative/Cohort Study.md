@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-07-11
 ---
 
 # Cohort Study
@@ -117,4 +117,4 @@ Douglas（1976）对队列研究相对于横截面设计的优势进行了有力
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]] — 该章系统讨论了队列研究作为[[Longitudinal Study|纵向研究]]设计的定义、特征、优势（Box 13.1）和局限，并区分了队列研究与面板研究。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 该章系统讨论了队列研究作为[[Longitudinal Study|纵向研究]]设计的定义、特征、优势（Box 13.1）和局限，并区分了队列研究与面板研究。

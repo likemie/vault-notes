@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-07-11
 ---
 
 # Feminist Research
@@ -53,7 +53,7 @@ updated: 2026-06-16
 ## 定义
 
 > [!def] 方法定义
-> 女性主义研究是一种以[[Critical Theory|批判理论]]为根基的研究方法论，其核心主张是：传统[[Positivism|实证主义]]研究服务于既有的权力关系——赋权白人男性主导的研究共同体，而压制其他群体的声音。女性主义研究旨在用赋权（empowerment）、发声（voice）、解放（emancipation）、平等（equality）和代表（representation）的议程取而代之。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 205–224)]]
+> 女性主义研究是一种以[[Critical Theory|批判理论]]为根基的研究方法论，其核心主张是：传统[[Positivism|实证主义]]研究服务于既有的权力关系——赋权白人男性主导的研究共同体，而压制其他群体的声音。女性主义研究旨在用赋权（empowerment）、发声（voice）、解放（emancipation）、平等（equality）和代表（representation）的议程取而代之。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 205–224)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 女性的生活经验、性别压迫机制、父权制[[Knowledge Production|知识生产]]、教育中的性别不平等。
@@ -138,7 +138,7 @@ updated: 2026-06-16
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 性别不平等研究、女性经验研究、教育中的性别差异与歧视分析、女性赋权项目评估。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 205–408)]]
+> - **适合使用** 性别不平等研究、女性经验研究、教育中的性别差异与歧视分析、女性赋权项目评估。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 205–408)]]
 > - **谨慎使用** 研究者需反思自身与参与者之间的权力和身份差异——白人女性研究非白人女性时，亲近可能带来殖民风险（Gillies and Alldred, 2002: 39–40）。亲密的友谊式研究关系可能同样具有剥削性（Stacey, 1988）。
 > - **不适合使用** 纯统计性的性别差异描述（但女性主义量化研究同样合法——Jayaratne, 1993; Oakley, 1998）。
 
@@ -171,4 +171,4 @@ updated: 2026-06-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 205–408)]] — 第2.5节系统介绍了女性主义研究的理论原则、方法论原则、教学法应用和 [[Girls Into Science and Technology Project|GIST]] 项目案例。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 205–408)]] — 第2.5节系统介绍了女性主义研究的理论原则、方法论原则、教学法应用和 [[Girls Into Science and Technology Project|GIST]] 项目案例。

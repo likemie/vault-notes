@@ -6,8 +6,8 @@ aliases:
   - 罗伯特·斯塔克
 summary: "美国著名的评估理论家和质性研究专家，以开发响应式评估（Responsive Evaluation）和案例研究（Case Study）方法论著称，强调对教育实践情境性的深度理解。"
 type: person
-nationality: usa
-person_region: "usa"
+nationality: us
+person_region: "us"
 person_related_count: 7
 person_related_level: 0
 person_related_stars: ""

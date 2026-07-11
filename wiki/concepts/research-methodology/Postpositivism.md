@@ -31,16 +31,16 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-07-08
+updated: 2026-07-11
 ---
 
 # Postpositivism
 
 ## 定义
 
-后[[Positivism|实证主义]]挑战了现代主义的实证世界观——后者将世界描绘为一个有序的、可控的、可预测的、标准化的、机械的、决定论的、稳定的、客观的、理性的、非人格的、基本不灵活的封闭系统（an ordered, controllable, predictable, standardized, mechanistic, deterministic, stable, objective, rational, impersonal, largely inflexible, closed system），其研究产生不可变的、普遍的法则和行为模式——一种"宏大叙事""元叙事"（a 'grand narrative', a 'metanarrative'），可通过[[Scientific Method|科学方法]]直接研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+后[[Positivism|实证主义]]挑战了现代主义的实证世界观——后者将世界描绘为一个有序的、可控的、可预测的、标准化的、机械的、决定论的、稳定的、客观的、理性的、非人格的、基本不灵活的封闭系统（an ordered, controllable, predictable, standardized, mechanistic, deterministic, stable, objective, rational, impersonal, largely inflexible, closed system），其研究产生不可变的、普遍的法则和行为模式——一种"宏大叙事""元叙事"（a 'grand narrative', a 'metanarrative'），可通过[[Scientific Method|科学方法]]直接研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
-与此相对，后实证主义遵循波普尔（Popper, 1968）的立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）：
+与此相对，后实证主义遵循波普尔（Popper, 1968）的立场（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!def] 后实证主义的核心立场
 > 关于世界的知识是推测性的（conjectural）、可[[Falsification|证伪]]的（falsifiable）、可挑战的（challengeable）、变化中的（changing）。安全的、一劳永逸的基础知识和关于单一客观实在的宏大叙事，被尝试性的推测（tentative speculation）所取代——研究者提出多重视角和多重理据（multiple perspectives and multiple warrants）；世界是多层次的（multilayered），能够容纳多重解释。
@@ -55,7 +55,7 @@ updated: 2026-07-08
 
 ## 两种取向
 
-后[[Positivism|实证主义]]在实在观上呈现两种取向（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）：
+后[[Positivism|实证主义]]在实在观上呈现两种取向（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!line-a] 多元实在论
 > 主张客观实在持续存在（the continuing existence of an objective reality），但采取多元主义观点——存在多重共存的实在（multiple, coexisting realities），而非单一实在。
@@ -65,4 +65,4 @@ updated: 2026-07-08
 
 ## 共同主张
 
-后[[Positivism|实证主义]]、[[Postmodernism|后现代主义]]与[[Post-structuralism|后结构主义]]三者之间存在亲和性：它们共同支撑着诠释和[[Qualitative Research|质性研究]]取向、[[Complexity Theory|复杂性理论]]和[[Critical Theory|批判理论]]；共同强调个体和主观叙述在研究过程中的重要性以及研究者的[[Reflexivity|反思性]]。三者主张为多重解释提供空间（multiple interpretations of a phenomenon to be provided），赋予个体声音以合法性（accord legitimacy to individual voices），放弃对决定论的、简单的线性[[Causality|因果]]行为法则的寻求。但教材也审慎指出，许多后实证主义者会拒绝如此简单的亲缘归类（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+后[[Positivism|实证主义]]、[[Postmodernism|后现代主义]]与[[Post-structuralism|后结构主义]]三者之间存在亲和性：它们共同支撑着诠释和[[Qualitative Research|质性研究]]取向、[[Complexity Theory|复杂性理论]]和[[Critical Theory|批判理论]]；共同强调个体和主观叙述在研究过程中的重要性以及研究者的[[Reflexivity|反思性]]。三者主张为多重解释提供空间（multiple interpretations of a phenomenon to be provided），赋予个体声音以合法性（accord legitimacy to individual voices），放弃对决定论的、简单的线性[[Causality|因果]]行为法则的寻求。但教材也审慎指出，许多后实证主义者会拒绝如此简单的亲缘归类（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

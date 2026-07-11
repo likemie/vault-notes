@@ -5,8 +5,8 @@ aliases:
   - 吉恩·格拉斯
 summary: "美国教育心理学家，1976年创造元分析一词并发展其方法论，以心理治疗效果研究挑战学术共识，被誉为元分析之父"
 type: person
-nationality: usa
-person_region: "usa"
+nationality: us
+person_region: "us"
 person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
@@ -17,7 +17,7 @@ tags:
   - effect-size
   - evidence-based-education
   - methodology
-  - region/usa
+  - region/us
 related_concepts:
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"

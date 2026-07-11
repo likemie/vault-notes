@@ -29,14 +29,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-07-08
+updated: 2026-07-11
 ---
 
 # Postmodernism
 
 ## 定义
 
-虽然后现代主义者反对任何单一或包罗万象的定义——他们恰恰反对此类做法——但詹姆逊（Jameson, 1991）在一部开创性著作中识别出后现代主义具有若干显著标志。教材对这一解释做了刻意选择性的呈现，聚焦于那些影响教育研究的行为和意义的特征，而非后现代主义在理解文化和文化研究中的角色，也非其作为"晚期资本主义的文化逻辑"（Jameson, 1991）的面向（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+虽然后现代主义者反对任何单一或包罗万象的定义——他们恰恰反对此类做法——但詹姆逊（Jameson, 1991）在一部开创性著作中识别出后现代主义具有若干显著标志。教材对这一解释做了刻意选择性的呈现，聚焦于那些影响教育研究的行为和意义的特征，而非后现代主义在理解文化和文化研究中的角色，也非其作为"晚期资本主义的文化逻辑"（Jameson, 1991）的面向（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心特征（Based on Jameson, 1991）
 
@@ -54,8 +54,8 @@ updated: 2026-07-08
 
 ## 亲缘性
 
-后现代主义具有"变色龙"般的性质（a chameleon-like nature）：在一种意义上它支持[[Interpretive Paradigm|诠释范式]]，在另一种意义上它支持[[Complexity Theory|复杂性理论]]，在第三种意义上它支持[[Critical Theory|批判理论]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+后现代主义具有"变色龙"般的性质（a chameleon-like nature）：在一种意义上它支持[[Interpretive Paradigm|诠释范式]]，在另一种意义上它支持[[Complexity Theory|复杂性理论]]，在第三种意义上它支持[[Critical Theory|批判理论]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 共同主张
 
-[[Postpositivism|后实证主义]]、后现代主义与[[Post-structuralism|后结构主义]]三者之间存在亲和性——它们共同支撑着诠释和[[Qualitative Research|质性研究]]取向、[[Complexity Theory|复杂性理论]]和[[Critical Theory|批判理论]]；共同强调个体和主观叙述在研究过程中的重要性以及研究者的[[Reflexivity|反思性]]。三者主张：为多重解释提供空间，赋予个体声音以合法性，放弃对决定论的、简单的线性[[Causality|因果]]行为法则的寻求。但教材也审慎指出，许多后[[Positivism|实证主义]]者、后现代主义者和后结构主义者会拒绝如此简单的亲缘归类（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+[[Postpositivism|后实证主义]]、后现代主义与[[Post-structuralism|后结构主义]]三者之间存在亲和性——它们共同支撑着诠释和[[Qualitative Research|质性研究]]取向、[[Complexity Theory|复杂性理论]]和[[Critical Theory|批判理论]]；共同强调个体和主观叙述在研究过程中的重要性以及研究者的[[Reflexivity|反思性]]。三者主张：为多重解释提供空间，赋予个体声音以合法性，放弃对决定论的、简单的线性[[Causality|因果]]行为法则的寻求。但教材也审慎指出，许多后[[Positivism|实证主义]]者、后现代主义者和后结构主义者会拒绝如此简单的亲缘归类（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

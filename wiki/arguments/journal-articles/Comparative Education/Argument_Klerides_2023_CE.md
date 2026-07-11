@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -45,10 +45,13 @@ related_concepts:
   - "[[Governing at a Distance]]"
   - "[[International Mind]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Travelling Policy]]"
   - "[[Educated Identity]]"
   - "[[Global Citizenship]]"
   - "[[Methodological Nationalism]]"
+  - "[[Methodological Statism]]"
   - "[[Methodological Educationism]]"
+  - "[[Banal Imperialism]]"
   - "[[Knowledge Exchange]]"
   - "[[De-Westernisation]]"
   - "[[Re-Westernisation]]"
@@ -78,7 +81,7 @@ sources:
 part_of: ''
 status: active
 created: 2026-06-08
-updated: 2026-07-09
+updated: 2026-07-11
 year: 2023
 doi: "10.1080/03050068.2023.2216045"
 citation_aliases:
@@ -225,8 +228,8 @@ citation_aliases:
 >   - 1990s 起 联结论学者强调教育转移背后隐藏的新帝国主义资本积累和强制性干预关系(Carney et al., 2012)。
 > - **2000s 至今 — 分散权威与基准数据治理** 全球治理取代了国家单向输出，大数据和 [[PISA]] 等基准测试以中立客观之名实施远处治理（governing from a distance），教育政策呈现为由国际组织、非政府组织、跨国公司及[[Policy Entrepreneur|政策企业家]]共同交织的多行动者网络(pp. 424–425)。
 >   - 子事件：跨国多行动者网络下，非国家行动者、慈善资本及跨国公司推进教育服务私有化，政策企业家推销“循证政策”方案。
->   - 子事件：引入[[Actor-Network Theory|行动者网络理论]]（ANT），提出“政策图景”和“流动话语”以分析分散的全球教育空间。
->   - 子事件：[[Educated Identity|受教育身份]]多元化，[[Global Citizenship|全球公民]]、人权与生态身份挑战了基于[[Methodological Nationalism|方法论国家主义]]、 statism 及[[Methodological Educationism|教育主义]]（Methodological Educationism）的传统国民身份。
+>   - 子事件：引入[[Actor-Network Theory|行动者网络理论]]（ANT），提出[[Travelling Policy|旅途政策]]、流动话语（flowing discourses）与政策景观（policyscapes）以分析分散的全球教育空间。
+>   - 子事件：[[Educated Identity|受教育身份]]多元化，[[Global Citizenship|全球公民]]、人权与生态身份挑战了基于[[Methodological Nationalism|方法论民族主义]]、[[Methodological Statism|方法论国家主义]]及[[Methodological Educationism|方法论教育主义]]的传统国民身份。
 
 > [!evidence-grid-a] 在场（Presences）
 > - **跨国与全球治理分析** 照亮了多行动者网络、国际组织、慈善事业及跨国公司的政策影响力。
@@ -255,7 +258,7 @@ citation_aliases:
 >   - 1974年 卡诺伊出版《教育作为文化帝国主义》，主张通过“解放学校”打破社会阶级等级。
 >   - 1970s-1980s 越南、古巴和莫桑比克等革命政府借鉴苏联“工人学院”模式，从工农中重塑社会主义知识分子以取代资产阶级精英(Kaiser, 2015)。
 > - **2000s 至今 — 后殖民与去殖民比较教育的兴起** 摆脱了传统的二元阶级斗争框架，要求与西方认识型彻底脱钩，挑战殖民性在殖民地（通过本土精英）与宗主国（东方主义式看待东亚 PISA 表现，Takayama, 2018a）的双向延续(Silova et al., 2020)。
->   - 子事件：去殖民视角下解构 OECD/PISA 为“平庸的帝国主义”和知识的现代化新帝国。
+>   - 子事件：去殖民视角下解构 OECD/PISA 为“[[Banal Imperialism|平庸的帝国主义]]”和知识的现代化新帝国。
 >   - 子事件：推动南南[[Knowledge Exchange|知识交流]]和引入南方理论以打破西方普遍性解释霸权。
 
 > [!evidence-grid-a] 在场（Presences）

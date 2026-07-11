@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-07-11
 ---
 
 # Complexity Theory
@@ -37,7 +37,7 @@ updated: 2026-06-13
 ## 定义
 
 > [!def] 复杂性理论（Complexity Theory）
-> 教育研究中一个正在兴起的新[[Paradigm|范式]]（Medd, 2002; Radford, 2006, 2007, 2008; Kuhn, 2007; Morrison, 2002a, 2008），将学校视为"复杂适应系统"（complex adaptive systems, Kauffman, 1995）。它以有机的、非线性的和整体的方法取代简单的[[Causality|因果]]模型和原子化的分析方法（Santonus, 1998: 3）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+> 教育研究中一个正在兴起的新[[Paradigm|范式]]（Medd, 2002; Radford, 2006, 2007, 2008; Kuhn, 2007; Morrison, 2002a, 2008），将学校视为"复杂适应系统"（complex adaptive systems, Kauffman, 1995）。它以有机的、非线性的和整体的方法取代简单的[[Causality|因果]]模型和原子化的分析方法（Santonus, 1998: 3）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 核心概念
 
@@ -59,7 +59,7 @@ updated: 2026-06-13
 
 ## 方法论含义
 
-复杂性理论倡导[[Case Study|案例研究]]方法论、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元[[Causality|因果性]]、多元视角和多元效应；主张教师即研究者运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）。
+复杂性理论倡导[[Case Study|案例研究]]方法论、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元[[Causality|因果性]]、多元视角和多元效应；主张教师即研究者运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 > [!axioms] 复杂性研究的五条公理（Kuhn, 2007: 172–3）
 > - **动态实在** 实在是动态的、[[Emergence|涌现]]的、自组织的，需要多重视角来把握
@@ -71,4 +71,4 @@ updated: 2026-06-13
 ## 关键引用
 
 > [!citation-card]-
-> 秩序是免费的，它取代了控制。秩序不是被强加的，而是[[Emergence|涌现]]的。（Kauffman, 1995，[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, Ch. 1]]）
+> 秩序是免费的，它取代了控制。秩序不是被强加的，而是[[Emergence|涌现]]的。（Kauffman, 1995，[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）

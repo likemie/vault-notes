@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-07-11
 ---
 
 # Participatory Research
@@ -43,7 +43,7 @@ updated: 2026-06-16
 ## 定义
 
 > [!def] 方法定义
-> 参与式研究（Participatory Research, PR）是与人和社区一起做研究（doing research with people and communities），而非对人或为人做研究（doing research to or for people）。其核心信念是：普通人完全有能力对自己的处境进行[[Reflexivity|反思性]]和批判性分析。PR 是深刻民主的，所有参与者平等，致力于参与式民主而非代议制民主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 151–162)]]
+> 参与式研究（Participatory Research, PR）是与人和社区一起做研究（doing research with people and communities），而非对人或为人做研究（doing research to or for people）。其核心信念是：普通人完全有能力对自己的处境进行[[Reflexivity|反思性]]和批判性分析。PR 是深刻民主的，所有参与者平等，致力于参与式民主而非代议制民主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 151–162)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 被压迫、被剥夺权力、贫困和被剥削的社区和群体的生活境况。
@@ -114,7 +114,7 @@ updated: 2026-06-16
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 被压迫和被边缘化社区的赋权和发展；社区驱动的教育改善项目；参与式课程开发。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 151–191)]]
+> - **适合使用** 被压迫和被边缘化社区的赋权和发展；社区驱动的教育改善项目；参与式课程开发。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 151–191)]]
 > - **谨慎使用** 需考虑权力精英的可能抵制——PR 挑战现有权力结构，参与者可能面临实质性风险（Brown and Tandon, 2005: 65）。研究者与社区成员之间的文化差异需被反思而非忽视。
 > - **不适合使用** 需要严格控制[[Variable|变量]]以推断[[Causality|因果关系]]的研究；社区内部权力分裂严重以至于无法形成集体行动的情境。
 
@@ -147,4 +147,4 @@ updated: 2026-06-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 151–191)]] — 第2.4节以 PR 为例展示[[Critical Theory|批判理论]]在社区赋权中的实践应用，包含 Tandon 的步骤序列和 Hall 的六项原则。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 151–191)]] — 第2.4节以 PR 为例展示[[Critical Theory|批判理论]]在社区赋权中的实践应用，包含 Tandon 的步骤序列和 Hall 的六项原则。

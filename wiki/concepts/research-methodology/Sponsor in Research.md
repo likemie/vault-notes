@@ -25,14 +25,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-11
 ---
 # Sponsor in Research
 
 ## 定义
 
 > [!def] 核心定义
-> 研究担保人（sponsor）是研究群体内部提供准入、信息和支持的人物（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 207–208]]）。与[[Gatekeepers|守门人]]不同——守门人通常在群体外部控制准入，而担保人是群体内部的成员，以自身的社会资本为研究者"担保"，帮助研究者融入群体并获得信任。
+> 研究担保人（sponsor）是研究群体内部提供准入、信息和支持的人物（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 207–208]]）。与[[Gatekeepers|守门人]]不同——守门人通常在群体外部控制准入，而担保人是群体内部的成员，以自身的社会资本为研究者"担保"，帮助研究者融入群体并获得信任。
 
 > [!concept-lens] 概念透镜
 > - **含义** 担保人是研究者在田野中的"引路人"——他们不仅提供信息，还教导研究者如何在群体中恰当地行为，介绍研究者认识关键人物，并在研究者与群体之间建立信任桥梁。
@@ -44,7 +44,7 @@ updated: 2026-06-22
 ## 核心要素
 
 > [!case] 经典案例：Whyte《街角社会》中的 Doc
-> William Foote Whyte (1993, 原版 1943) 在芝加哥的"街角社会"研究中，Doc 作为帮派核心人物担任了担保人角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 207–208]]）：
+> William Foote Whyte (1993, 原版 1943) 在芝加哥的"街角社会"研究中，Doc 作为帮派核心人物担任了担保人角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 207–208]]）：
 >
 > "你告诉我你想让我看什么，我们来安排。当你想了解信息时，我会去问，你听着。当你想了解他们的人生哲学时，我会挑起争论并为你获取它……你以朋友的身份进来。"（Whyte, 1993, p. 292）
 >

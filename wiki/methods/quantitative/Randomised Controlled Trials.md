@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-06-17
+updated: 2026-07-11
 ---
 
 # Randomised Controlled Trials
@@ -170,7 +170,7 @@ updated: 2026-06-17
 ### 复杂性理论的挑战
 
 > [!tension] [[Complexity Theory|复杂性理论]]对 RCT 黄金标准的根本性质疑
-> 复杂性理论对 RCT 构成了根本性挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）：
+> 复杂性理论对 RCT 构成了根本性挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 >
 > - **反线性因果** 混沌和复杂性理论反对线性的、决定论的、可普遍化的、原子化的、受控的封闭系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作（Gleick, 1987; Waldrop, 1992; Lewin, 1993）
 > - **反[[Variable|变量]]控制** 在一个动态、演化、流动、开放的情境中，保持变量恒常是误导性的——所测量到的已经是历史（What is measured is history, Morrison, 2001）
@@ -179,7 +179,7 @@ updated: 2026-06-17
 > - **测量之限** 人可以测量一个人的每一个可观察变量到无限微小的程度，但他的本质——是什么使他成为他——却逃逸了原子化和测量
 
 > [!quote] 赫拉克利特的名言
-> 古典实验方法遵循可复制性和可预测性的要求，但在复杂现象中，结果从来不是真正可复制或可预测的。正如赫拉克利特（Heraclitus）所言：**我们永远不会两次踏入同一条河流（we never jump into the same river twice）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a]], Ch. 1）**。
+> 古典实验方法遵循可复制性和可预测性的要求，但在复杂现象中，结果从来不是真正可复制或可预测的。正如赫拉克利特（Heraclitus）所言：**我们永远不会两次踏入同一条河流（we never jump into the same river twice）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）**。
 
 ---
 

@@ -8,10 +8,10 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/international-relations
   - subject/comparative-education
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Educated Identity]]"
   - "[[Re-Westernisation]]"
+  - "[[Banal Imperialism]]"
   - "[[Knowledge Exchange]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-07-09
+updated: 2026-07-11
 ---
 
 # Wight's Three Traditions of International Theory
@@ -134,7 +135,7 @@ updated: 2026-07-09
 >   > - **教育作为激进重构的工具** 革命主义赋予教育打破社会等级角色，如越南、古巴和莫桑比克的革命政府从苏联借用“工人学院”模式，重塑工农阶级知识分子以替代旧资产阶级精英 (p. 427)。
 > - **前提二** 全球政策流动、西方评估体系及学科自身的认识型制造本质上是新殖民主义对非西方心智的“[[Re-Westernisation|再西方化]]”奴役与剥削，必须从根本上予以解构。
 >   > [!evidence-grid]- 证据
->   > - **解构评估与概念** 后殖民学者将[[PISA|国际学生评估项目]]等评估体系重构为“平庸的帝国主义”，指出“全球公民”限制了受教育者身份的定义 (p. 428)。
+>   > - **解构评估与概念** 后殖民学者将[[PISA|国际学生评估项目]]等评估体系重构为“[[Banal Imperialism|平庸的帝国主义]]”，指出“全球公民”限制了受教育者身份的定义 (p. 428)。
 >   > - **反思学科自身的殖民性** 揭示朱利安 1817 年学科奠基计划源自帝国政策扩张的差异分类；批判英语语言的主导权与西方理论解释非西方经验的知识垄断 (p. 428)。
 >   > - **去殖民化的路径开辟** 开辟南南[[Knowledge Exchange|知识交流]]，确立非西方教学模式的[[Reliability|信度]]，引入南方理论与原住民认知以实现与西方地平线的脱钩。
 > - **推导** 比较教育在革命主义下放弃了以国家为中心的分析方法，转而揭示教育转移和学科自身的殖民认识型，致力于与西方知识地平线决裂，寻求南南知识互惠与原住民认知解放。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 426–428]])

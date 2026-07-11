@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 
 # Making the Familiar Strange
@@ -36,7 +36,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> "使熟悉变陌生"（Making the Familiar Strange）是 Delamont（1981）提出的[[Ethnography|民族志研究]]策略，用于克服研究者（以及参与者）因过于靠近研究情境而忽视某些往往隐性方面的认知盲区。当研究者长期沉浸于一个熟悉的社会环境——如学校——时，容易将许多日常实践视为理所当然，从而无法识别其中蕴含的研究价值。该策略通过刻意改变观察视角来打破这种"熟悉性盲区"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 452)]]
+> "使熟悉变陌生"（Making the Familiar Strange）是 Delamont（1981）提出的[[Ethnography|民族志研究]]策略，用于克服研究者（以及参与者）因过于靠近研究情境而忽视某些往往隐性方面的认知盲区。当研究者长期沉浸于一个熟悉的社会环境——如学校——时，容易将许多日常实践视为理所当然，从而无法识别其中蕴含的研究价值。该策略通过刻意改变观察视角来打破这种"熟悉性盲区"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 452)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种刻意的[[Cognitive Shifting|认知转换]]策略：将对研究者而言"自然"和"理所当然"的日常情境重新审视，使其呈现出陌生和新颖的面貌，从而揭示此前被忽视的社会文化结构和互动模式。
@@ -55,13 +55,13 @@ Delamont（1981）提出了四种使熟悉变陌生的具体策略：
 > - **研究类似但不同的机构** 例如，研究学校时也可以考察医院、监狱等其他"总体性机构"（total institutions）。通过比较不同类型的机构如何运作，使学校的独特组织逻辑变得可见。
 > - **刻意聚焦重大议题** 选取一个具有分析意义的议题（如性别化行为）并刻意将观察聚焦于它。这种有意识的聚焦能够使原本散布在日常背景中的相关现象集中显现。
 
-Erickson（1973）也提出了类似的倡议，主张教育研究者应走出自己熟悉的机构类型，以获得新的分析视角。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, p. 452)]]
+Erickson（1973）也提出了类似的倡议，主张教育研究者应走出自己熟悉的机构类型，以获得新的分析视角。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 452)]]
 
 ---
 
 ## 在民族志研究中的位置
 
-使熟悉变陌生是自然主义和[[Ethnography|民族志]]方法的十大内在困难之一的直接应对策略。自然主义方法的第五项困难是"难以聚焦熟悉之物"——参与者（可能也包括研究者本人）因距离情境太近而忽视某些往往隐性的方面。该策略直接回应了这一困难，同时也呼应对过度强调情境差异而忽视整体相似性的第六项批评。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011b, pp. 452–453)]]
+使熟悉变陌生是自然主义和[[Ethnography|民族志]]方法的十大内在困难之一的直接应对策略。自然主义方法的第五项困难是"难以聚焦熟悉之物"——参与者（可能也包括研究者本人）因距离情境太近而忽视某些往往隐性的方面。该策略直接回应了这一困难，同时也呼应对过度强调情境差异而忽视整体相似性的第六项批评。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 452–453)]]
 
 > [!entry-map]
 >
@@ -76,4 +76,4 @@ Erickson（1973）也提出了类似的倡议，主张教育研究者应走出�
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011b)]] — 将 Delamont（1981）的使熟悉变陌生策略列为自然主义方法十大内在困难中第五项的应对方案，并详细阐述了四条具体操作路径。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将 Delamont（1981）的使熟悉变陌生策略列为自然主义方法十大内在困难中第五项的应对方案，并详细阐述了四条具体操作路径。

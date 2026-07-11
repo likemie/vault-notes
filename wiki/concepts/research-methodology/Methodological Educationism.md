@@ -6,7 +6,7 @@ aliases:
 summary: "将“教育”等同于“学校教育”（schooling）的还原论认识论倾向。在比较教育研究中，它被用于批判将复杂的教育社会化过程狭隘地等同于正式学校制度和国家课程的局限性；它常与方法论国家主义和方法论国家中心主义叠加，构成传统国民教育研究的限制性视角。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Methodological Nationalism]]"
+  - "[[Methodological Statism]]"
   - "[[Soviet Statism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Governing at a Distance]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-07-11
 ---
 
 # Methodological Educationism
@@ -48,7 +49,7 @@ updated: 2026-07-09
 ## 定义
 
 > [!def] 核心定义
-> 方法论教育主义（Methodological Educationism）是指在教育研究和政策制定中，将广义的“教育”（education）无意识地简化或等同于正式的“学校教育”（schooling，即由国家和行政力量主导的正式学校体制、班级授课制与制度化课程体系）的还原论[[Epistemology|认识论]]立场。这一概念主要由 Roger Dale 提出，用于批判传统研究忽视非正式学习、家庭与社群教育，以及过度依赖学校体制改革来解决深层社会问题的局限性。它常与[[Methodological Nationalism|方法论国家主义]]（Methodological Nationalism）及方法论国家中心主义（Methodological Statism）叠加运作。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]])
+> 方法论教育主义（Methodological Educationism）是指在教育研究和政策制定中，将广义的“教育”（education）无意识地简化或等同于正式的“学校教育”（schooling，即由国家和行政力量主导的正式学校体制、班级授课制与制度化课程体系）的还原论[[Epistemology|认识论]]立场。这一概念主要由 Roger Dale 提出，用于批判传统研究忽视非正式学习、家庭与社群教育，以及过度依赖学校体制改革来解决深层社会问题的局限性。它常与[[Methodological Nationalism|方法论国家主义]]（Methodological Nationalism）及[[Methodological Statism|方法论国家中心主义]]（Methodological Statism）叠加运作。 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种将复杂的社会化与知识传递过程还原为单一“学校机构”的认识论偏差。
@@ -101,7 +102,7 @@ updated: 2026-07-09
 > 这一命题关注研究者如何将阶级和制度不平等简化为学校数据指标和课程设置问题，进而实现新自由主义意识形态的脱敏。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **三主义叠加与受教育者身份控制** 论证在[[Rationalism in International Relations|理性主义]]比较教育传统中，[[Methodological Nationalism|方法论国家主义]]、方法论国家中心主义和方法论教育主义相互交织、三位一体，它们共同将“受教育者”定义为仅属于国家学校的国民。这种叠加偏见使得全球[[Governing at a Distance|远处治理]]能够通过输出所谓的“中立学校基准数据”（如 [[PISA]] 质量标准），将复杂的阶级不平等掩盖为学校内部效率的技术缺失，误导各国相信仅靠对学校进行新自由主义管理技术性改革即可消除危机。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 423–425]])
+> **三主义叠加与受教育者身份控制** 论证在[[Rationalism in International Relations|理性主义]]比较教育传统中，[[Methodological Nationalism|方法论国家主义]]、[[Methodological Statism|方法论国家中心主义]]和方法论教育主义相互交织、三位一体，它们共同将“受教育者”定义为仅属于国家学校的国民。这种叠加偏见使得全球[[Governing at a Distance|远处治理]]能够通过输出所谓的“中立学校基准数据”（如 [[PISA]] 质量标准），将复杂的阶级不平等掩盖为学校内部效率的技术缺失，误导各国相信仅靠对学校进行新自由主义管理技术性改革即可消除危机。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 423–425]])
 
 ---
 

@@ -6,8 +6,8 @@ aliases:
   - 伊冯娜·林肯
 summary: "美国教育研究方法论学者，与 Guba 合著 Naturalistic Inquiry 开创自然主义探究范式，提出质性研究可信性四标准和模式理论概念"
 type: person
-nationality: usa
-person_region: "usa"
+nationality: us
+person_region: "us"
 person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"

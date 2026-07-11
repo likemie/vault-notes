@@ -21,8 +21,8 @@ year: 2011
 isbn: "978-0-415-58336-7"
 citation: ""
 citation_aliases:
-  - "Cohen et al., 2011a"
-  - "Cohen et al. (2011a)"
+  - "Cohen et al., 2011"
+  - "Cohen et al. (2011)"
 publication_place: "London"
 tags:
   - method/research-methods
@@ -137,7 +137,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-06-24
+updated: 2026-07-11
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 

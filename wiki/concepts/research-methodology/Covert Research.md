@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-22
+updated: 2026-07-11
 ---
 
 # Covert Research
@@ -69,7 +69,7 @@ updated: 2026-06-22
 
 ### 敏感研究中的隐蔽研究
 
-在[[Sensitive Research|敏感研究]]中，隐蔽研究的伦理议题被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 210–212]]）：
+在[[Sensitive Research|敏感研究]]中，隐蔽研究的伦理议题被推向极端（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 210–212]]）：
 
 **隐蔽研究的正当性论证** 当有权者控制准入和参与者生活的其他方面（如晋升、在职培训、工作分配）时，隐蔽研究或欺骗可能是唯一途径（Munro et al., 2004, p. 295; Morrison, 2006）。如果研究者向暴力教师寻求研究其暴力行为的知情同意，研究几乎不可能开展；但如果研究者请求研究学生课堂行为而隐瞒真实目的，准入更可能获得批准——而从公共利益出发，暴露问题是重要的。
 

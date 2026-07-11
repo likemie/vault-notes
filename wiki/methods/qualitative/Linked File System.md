@@ -30,14 +30,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-11
 ---
 # Linked File System
 
 ## 定义
 
 > [!def] 核心定义
-> 链接文件系统（linked file system）是 Lee (1993, p. 173) 提出的一种保护参与者保密性的程序，允许研究者在保证匿名的前提下跨多个时间点收集同一参与者的数据。其核心架构是将数据、身份信息和链接信息分别存储在三个独立文件中，由不同角色控制（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 212–213]]）。
+> 链接文件系统（linked file system）是 Lee (1993, p. 173) 提出的一种保护参与者保密性的程序，允许研究者在保证匿名的前提下跨多个时间点收集同一参与者的数据。其核心架构是将数据、身份信息和链接信息分别存储在三个独立文件中，由不同角色控制（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 212–213]]）。
 
 ## 方法定位
 
@@ -53,7 +53,7 @@ updated: 2026-06-22
 > 2. **受访者名单（File 2）** 包含参与者的真实姓名和基本信息。此文件单独存放，不在日常分析中使用。
 > 3. **链接文件（File 3）** 包含将数据文件中的任意编号与受访者名单中的姓名关联所需的信息（如"P001 = 张三"）。此文件由中立的"经纪人"（broker）保管，而非研究者。
 
-这一程序类似于双盲临床实验——研究者不知道哪些人接受实验药物或安慰剂（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 213]]）。
+这一程序类似于双盲临床实验——研究者不知道哪些人接受实验药物或安慰剂（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 213]]）。
 
 ## 适用场景
 

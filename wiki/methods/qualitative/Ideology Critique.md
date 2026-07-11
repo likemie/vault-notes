@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-07-09
+updated: 2026-07-11
 ---
 
 # Ideology Critique
@@ -45,7 +45,7 @@ updated: 2026-07-09
 ## 定义
 
 > [!def] 方法定义
-> 意识形态批判通过反思实践揭示特定社会情境中被压制的可普遍化利益（generalizable interests），暴露支配群体如何以"普遍利益"之名推进其部门利益，使参与者认识到自身处境的社会根源并推动变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 63–65)]]
+> 意识形态批判通过反思实践揭示特定社会情境中被压制的可普遍化利益（generalizable interests），暴露支配群体如何以"普遍利益"之名推进其部门利益，使参与者认识到自身处境的社会根源并推动变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 63–65)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 教育制度、课程政策、学校组织、知识选择过程中隐藏的利益运作和权力关系。
@@ -92,7 +92,7 @@ updated: 2026-07-09
 > 3. **对抗（confront）**——我如何变成这样的？（How did I come to be like this?）
 > 4. **重建（reconstruct）**——我如何以不同方式做事？（How might I do things differently?）
 
-意识形态批判在此既有反思的、理论的一面，也有实践的一面——没有反思，批判是空洞的；没有实践，批判是空虚的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 93–101)]]
+意识形态批判在此既有反思的、理论的一面，也有实践的一面——没有反思，批判是空洞的；没有实践，批判是空虚的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 93–101)]]
 
 ---
 
@@ -110,7 +110,7 @@ updated: 2026-07-09
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 教育政策分析、课程意识形态检视、教育不平等研究、制度性歧视分析、赋权导向的社区研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 117–149)]]
+> - **适合使用** 教育政策分析、课程意识形态检视、教育不平等研究、制度性歧视分析、赋权导向的社区研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 117–149)]]
 > - **谨慎使用** 需要与被研究者建立信任关系，避免研究者以"批判"之名行"知识支配"之实；批判分析应辅以变革实践，而非停留在揭露层面。
 > - **不适合使用** 纯技术性的教学效果比较；不涉及权力和利益问题的描述性研究。
 
@@ -120,7 +120,7 @@ updated: 2026-07-09
 
 > [!method-limits] 方法局限
 > - **偏误来源** 研究者自身的意识形态立场可能影响利益分析的方向；研究者与被研究者之间的权力不对称可能使批判本身成为新的支配形式。
-> - **适用边界** 意识形态批判揭示了问题但不必然带来变革——批判与解放之间的[[Causality|因果]]链需要经验验证而非逻辑假定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011b, pp. 107–110)]]
+> - **适用边界** 意识形态批判揭示了问题但不必然带来变革——批判与解放之间的[[Causality|因果]]链需要经验验证而非逻辑假定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 107–110)]]
 > - **误用风险** 意识形态批判容易被简化为"揭露问题"而不提出变革方案；[[Rationalism in International Relations|理性主义]]的批判姿态本身可能阻碍旨在解放的实际行动（Roderick, 1986）。
 > - **补救方式** 与[[Action Research|行动研究]]结合，确保批判通向实践；引入参与者验证，避免研究者单向定义"压迫"。
 
@@ -142,4 +142,4 @@ updated: 2026-07-09
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011b, pp. 117–149)]] — 以哈贝马斯三种认识兴趣为框架，对 Tyler 的课程原理和英国国家课程进行意识形态批判，揭示技术兴趣在课程中的支配地位和解放兴趣的缺失。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 117–149)]] — 以哈贝马斯三种认识兴趣为框架，对 Tyler 的课程原理和英国国家课程进行意识形态批判，揭示技术兴趣在课程中的支配地位和解放兴趣的缺失。

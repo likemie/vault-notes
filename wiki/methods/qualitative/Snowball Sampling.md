@@ -46,14 +46,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-11
 ---
 # Snowball Sampling
 
 ## 定义
 
 > [!def] 方法定义
-> 滚雪球抽样（Snowball Sampling），亦称链式转介法（chain-referral methods），是[[Non-probability Sampling|非概率抽样]]的一种。研究者识别少数具备所需特征的个体（种子），利用他们的社会网络和人际联系逐层识别更多合格者，后者再转介更后者——由此得名滚雪球。该方法本质上是社会性的（Noy, 2008, p. 332），依赖人际信任和强关系网络。在[[Sensitive Research|敏感研究]]中，Lee (1993, p. 66) 将其称为网络化（networking），强调其利用社会关系链绕过正式准入障碍的功能（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 203–205]]）。
+> 滚雪球抽样（Snowball Sampling），亦称链式转介法（chain-referral methods），是[[Non-probability Sampling|非概率抽样]]的一种。研究者识别少数具备所需特征的个体（种子），利用他们的社会网络和人际联系逐层识别更多合格者，后者再转介更后者——由此得名滚雪球。该方法本质上是社会性的（Noy, 2008, p. 332），依赖人际信任和强关系网络。在[[Sensitive Research|敏感研究]]中，Lee (1993, p. 66) 将其称为网络化（networking），强调其利用社会关系链绕过正式准入障碍的功能（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 203–205]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 难以接触人群（隐藏人群）、敏感话题参与者、通信网络不发达群体、政策精英。
@@ -92,7 +92,7 @@ updated: 2026-06-22
 
 ### 敏感研究中的网络化操作
 
-在[[Sensitive Research|敏感研究]]中，滚雪球抽样以网络化（networking）的形式被广泛应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, pp. 203–205]]）。其操作逻辑与常规滚雪球抽样一致，但在功能上有特殊侧重：
+在[[Sensitive Research|敏感研究]]中，滚雪球抽样以网络化（networking）的形式被广泛应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 203–205]]）。其操作逻辑与常规滚雪球抽样一致，但在功能上有特殊侧重：
 
 > [!case] Morrison (2006) 的网络化实践
 > 在中国进行敏感教育研究时，Morrison 广泛使用非正式网络。当[[Gatekeepers|守门人]]（校长或高级职员）拒绝准入时，研究者通过联系朋友和专业同事来绕过正式渠道，这些朋友再联系他们的朋友和专业同事，逐层扩展接触面。这一策略有效地回避了学校正式层级对研究者准入的封锁。
@@ -126,7 +126,7 @@ Lee (1993, p. 66) 指出网络化策略的两个关键限制：
 > - **初始种子偏差** 初始种子的特征可能过度主导后续样本。Browne (2005) 在研究非异性恋女性时发现，作为白人、中产阶级群体的一员，她的联系人倾向来自相似背景，其他群体因不在同一社交圈被排除。
 > - **[[Gatekeepers|守门人]]保护偏差** 守门人可能通过不转介朋友来保护他们（Heckathorn, 1997, p. 175），偏差既可纳入也可排除某些群体成员。
 > - **同质性偏差（来自 Ch09 的补充）** 滚雪球样本内的关系可能由互惠性和传递性（reciprocity and transitivity）构成（Lee, 1993, p. 67）。参与者之间关系紧密且不愿打破这些关系，导致样本属性的高度同质化。研究者通过一个朋友网络找到的人，往往在关键特征上系统性相似。
-> - **研究性质蜕变为[[Convenience Sampling|便利抽样]]** 使用滚雪球抽样可能将原本设计的随机、分层或比例抽样转变为[[Convenience Sampling|便利抽样]]，从而损害[[External Validity|可推广性]]，或需要通过综合多个[[Case Study|案例研究]]来获得可推广性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011a, p. 205]]）。
+> - **研究性质蜕变为[[Convenience Sampling|便利抽样]]** 使用滚雪球抽样可能将原本设计的随机、分层或比例抽样转变为[[Convenience Sampling|便利抽样]]，从而损害[[External Validity|可推广性]]，或需要通过综合多个[[Case Study|案例研究]]来获得可推广性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 205]]）。
 > - **选择困境** 面临的选择往往是接受非概率策略或什么都不做。妥协进行的研究总比因为追求方法论纯粹性而完全放弃的研究好——但这一[[Pragmatic Paradigm|实用主义]]立场本身需要被透明地承认和报告。
 > - **缓解方式** 采用多波次、多起点以覆盖不同子群；结合关键信息提供者抽样和靶向抽样；在报告中对样本代表性的局限性进行充分透明的讨论。
 
