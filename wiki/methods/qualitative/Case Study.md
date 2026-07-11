@@ -6,6 +6,11 @@ aliases:
 summary: "以单个或少数个案为分析单位深入追踪过程、情境和机制的研究设计，适合解释复杂现象如何在具体场域中展开"
 type: method
 method_type: qualitative
+method_family: "qualitative"
+method_related_count: 41
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_color: "#dbeafe"
 tags:
 - case-study
 - qualitative-research
