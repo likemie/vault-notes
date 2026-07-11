@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 58
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -67,7 +67,6 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Covert Research]]"
   - "[[Realism in International Relations]]"
-  - "[[Respondent Validation]]"
   - "[[Progressive Focussing]]"
   - "[[Champ]]"
   - "[[Fitness for Purpose]]"
@@ -93,7 +92,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 status: draft
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-12
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -179,7 +178,7 @@ Hitchcock & Hughes（1995, pp. 317, 319）从两个互补角度描述个案研�
 > [!contrast-table] 个案研究与历史研究的区别
 > | 维度 | 个案研究 | 历史研究 |
 > |---|---|---|
-> | 数据来源 | 直接观察、访谈参与者，可接触活着的当事人 | 依赖档案、[[Document\|文献]]、二手记录，当事人通常已不在世 |
+> | 数据来源 | 直接观察、访谈参与者，可接触活着的当事人 | 依赖档案、文献、二手记录，当事人通常已不在世 |
 > | 与研究对象的关系 | 研究者可进入现场，与参与者互动 | 研究者与研究对象之间存在时间距离，无法直接接触 |
 > | 核心优势 | 捕捉正在进行中的行为和当下感知（Yin, 2009, p. 11） | 追溯长时段的变化脉络和制度演变 |
 > | 数据类型 | 多种类型混合（观察、访谈、文件、实物，Robson, 2002, p. 178） | 以文献和档案为主 |
@@ -218,17 +217,17 @@ Simons（1996）认为个案研究需要同时拥抱六组看似矛盾的立场�
 > [!contrast-table] 五种分类体系的对比
 > | 学者 | 分类标准 | 类型 | 说明 |
 > |---|---|---|---|
-> | **Yin（1984）** | 研究产出 | 探索性 | 作为试点，为后续调查、实验生成[[Hypothesis\|假设]] |
+> | **Yin（1984）** | 研究产出 | 探索性 | 作为试点，为后续调查、实验生成假设 |
 > | | | 描述性 | 提供叙事叙述 |
 > | | | 解释性 | 检验理论，回答如何和为什么 |
-> | **Merriam（1988）** | [[Research Purpose\|研究目的]] | 描述性 | 叙事叙述 |
+> | **Merriam（1988）** | 研究目的 | 描述性 | 叙事叙述 |
 > | | | 解释性 | 归纳发展概念类别，检验初始假设 |
 > | | | 评价性 | 解释和判断 |
 > | **Stake（1994）** | 研究动机 | 本质性 | 为理解特定案例本身 |
 > | | | 工具性 | 通过案例洞察某个议题或理论 |
 > | | | 集合性 | 成组研究以获得更完整画面 |
 > | **Sturman（1999）** | 方法论传统 | 民族志个案研究 | 单一深度研究 |
-> | | | [[Action Research\|行动研究]]个案研究 | 以行动研究为方法论 |
+> | | | 行动研究个案研究 | 以行动研究为方法论 |
 > | | | 评价性个案研究 | 以评价为目的 |
 > | | | 教育个案研究 | 教育领域的独立类别 |
 > | **Robson（2002）** | 分析对象 | 个体个案研究 | 单一个体 |
@@ -340,7 +339,7 @@ Yin（2009, p. 35）补充：理论生成应包含在个案研究的研究设计
 > [!contrast-table] [[Analytic Generalization|分析性推广]] vs 统计推广
 > | 维度 | 统计推广 | 分析性推广 |
 > |---|---|---|
-> | 逻辑基础 | 从样本到总体，基于抽样策略、频率、[[Statistical Significance\|统计显著性]]和[[Effect Size\|效应量]] | 从案例到理论，基于逻辑连接而非统计连接 |
+> | 逻辑基础 | 从样本到总体，基于抽样策略、频率、统计显著性和效应量 | 从案例到理论，基于逻辑连接而非统计连接 |
 > | 关注点 | 代表性样本 | 案例只代表自己，贡献于理论的扩展和推广 |
 > | 案例与总体关系 | 案例是样本 | 案例不是样本 |
 > | 推广对象 | 总体参数 | 更广泛的理论，帮助理解其他类似案例、现象或情境 |
@@ -470,7 +469,7 @@ Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩�
 > | 与被观察者关系 | 融入群体，被视作自己人 | 保持距离，明确的外部者身份 |
 > | 典型情境 | 自然情境（课堂、帮派、社区） | 人工/半人工情境、结构化课堂观察 |
 > | 核心优势 | 获取内部人视角，理解群体文化 | 标准化记录，可精确量化行为频数 |
-> | 数据形式 | [[Field Notes\|田野笔记]]、非正式对话、印象 | 结构化观察表、时间抽样、[[Coding in Qualitative Research\|编码]]记录 |
+> | 数据形式 | 田野笔记、非正式对话、印象 | 结构化观察表、时间抽样、编码记录 |
 > | 经典示例 | Patrick（1973）隐蔽于格拉斯哥帮派四个月；Willis（1977）作为班级成员参与 | King（1979）站立保持距离、避免眼神接触；后排每三秒编码一次 |
 > | 主要风险 | 角色冲突，伦理与安全张力 | 无法获取内部人视角和深层意义 |
 
@@ -505,7 +504,7 @@ Schutz（1962）指出自然科学家探索的领域对分子、原子和电子�
 > - **研究的实施**
 >   - 一手和二手来源的使用
 >   - 检查数据的机会
->   - 三角验证，包括同行对发现的检查、[[Respondent Validation|受访者验证]]和[[Reflexivity|反身性]]
+>   - 三角验证，包括同行对发现的检查、受访者验证和[[Reflexivity|反身性]]
 >   - 数据收集方法：在[[Interpretive Paradigm|诠释范式]]中个案研究倾向于使用半结构化和开放式访谈、观察、叙事叙述和文件、日记，也许还有测试，而非调查或实验等方法。Nisbet & Watt（1984）建议在实施访谈时，最好稍后再访谈高级人员，以便在充分了解情况后最有效地利用讨论时间
 >   - 数据分析和解释，以及适当时的理论生成
 >   - 报告写作：Nisbet & Watt建议将结论与证据分开，主要证据包含在正文中，并平衡插图与分析/推广
@@ -522,7 +521,7 @@ Nisbet & Watt（1984, p. 78）建议个案研究的三个主要阶段：
 > 2. **渐进聚焦（[[Progressive Focussing|progressive focusing]]）** 建立更窄的焦点领域，识别后续研究和数据收集的关键焦点
 > 3. **草稿解释（draft interpretation）** 准备草稿解释，需要在最终形式出现前与受访者检查
 
-Nisbet & Watt（p. 79）建议不要在个案研究中过早生成假设；重要的是先开放地收集数据。[[Respondent Validation|受访者验证]]特别有用，受访者可能建议更好的表述方式或希望添加或限定观点。但存在风险：他们可能不同意某种解释。Nisbet & Watt（1984, p. 81）指出需要谈判否决权的权利。他们还建议研究者：(a) 承诺受访者可以看到报告中涉及他们的章节（受保密控制，如个案研究中的其他人）；(b) 充分采纳受访者的建议和回应并尽可能修改叙述；(c) 在研究者与受访者分歧的情况下，承诺将受访者的评论和批评与研究者的报告并列发布（pp. 293–294）。
+Nisbet & Watt（p. 79）建议不要在个案研究中过早生成假设；重要的是先开放地收集数据。受访者验证特别有用，受访者可能建议更好的表述方式或希望添加或限定观点。但存在风险：他们可能不同意某种解释。Nisbet & Watt（1984, p. 81）指出需要谈判否决权的权利。他们还建议研究者：(a) 承诺受访者可以看到报告中涉及他们的章节（受保密控制，如个案研究中的其他人）；(b) 充分采纳受访者的建议和回应并尽可能修改叙述；(c) 在研究者与受访者分歧的情况下，承诺将受访者的评论和批评与研究者的报告并列发布（pp. 293–294）。
 
 ---
 
@@ -679,12 +678,12 @@ Yin（2009, pp. 185–189）认为一项典范（exemplary）个案研究必须�
 > [!citation-card]- 案例不是样本：[[Analytic Generalization|分析性推广]]的核心命题
 > Yin（2009, p. 43）做出了有力论断：推定推广只能是从样本到总体/全域的观点，在个案研究这一特殊情况下完全是错误的、不相关的、不适当的和不适用。相反，个案研究可帮助推广到更广泛的理论，理论可以在一个或多个经验案例中检验（在此意义上类似单次实验或准实验），并可以被证明不支持竞争性（即使是看似合理的）理论。（第14章，pp. 288–289）
 >
-> *Yin (2009, p. 43) makes the telling point that to assume that generalization is only from sample to population/universe is simply incorrect, irrelevant, inappropriate and inapplicable in respect of case studies. Rather, case studies can help to generalize to a broader theory, in that the theory can be tested in one or more empirical cases... and can be shown not to support rival, even if plausible, theories.*
+> *...to assume that generalization is only from sample to population/universe is simply incorrect, irrelevant, inappropriate and inapplicable in respect of case studies. Rather, case studies can help to generalize to a broader theory.*
 
 > [!citation-card]- 复杂议题比单独[[Variable|变量]]具有更低的变异性
 > Verschuren（2003, p. 137）论证：复杂议题总体上比单独变量具有低得多的变异性。个案研究包含许多变量；多变量现象的特征是同质性而非高变异性；因此如果研究者能够识别捕捉变异性范围的个案研究，则[[External Validity|外部效度]]，即可推广性，可以得到展示。（第14章，p. 288）
 >
-> *'Complex issues in general have a much lower variability than separate variables' (Verschuren, 2003, p. 137), i.e. the researcher can generalize from a small number of case studies that represent the complex issues in general.*
+> *'Complex issues in general have a much lower variability than separate variables'.*
 
 > [!citation-card]- [[Chain of Evidence|证据链]]：使外部研究者能够追踪每一步
 > Yin（2009, pp. 41, 122–124）呼吁提供证据链，使外部研究者能够追踪个案研究的每一步：从起始到[[Research Question|研究问题]]、设计、数据来源、工具、数据（证据及其收集的情境，包括时间、地点和人员/地点/事物的功能互联）和结论。记录个案研究数据收集的时间和地点非常重要：不仅因为许多行动和事件是情境特定的且属于[[Rich and Thick Description|厚描述]]的一部分，而且这将使任何复制研究能够被规划（Macpherson et al., 2000, p. 56）。（第14章，p. 289）
