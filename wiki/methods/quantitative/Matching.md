@@ -6,7 +6,7 @@ summary: "观察性研究中的因果推断方法，通过匹配协变量分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -31,13 +31,15 @@ related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Covariate Adjustment]]"
   - "[[Non-intervention Research]]"
+  - "[[Ex Post Facto Research]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Berk_2011_ER]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
 confidence: low
 status: draft
 created: 2026-05-03
-updated: 2026-07-08
+updated: 2026-07-12
 ---
 
 ## 定义
@@ -105,4 +107,10 @@ updated: 2026-07-08
 - [[Causal Modeling]] — [[Argument_Berk_2011_ER|Berk (2011)]] 将匹配定位为因果建模的替代路径，认为其较少依赖不可检验模型[[Hypothesis|假设]]
 - [[Covariate Adjustment]] — 匹配和协[[Variable|变量]]控制都试图处理第三变量问题；前者通过样本平衡改善可比性，后者在模型中纳入协变量调整效应估计
 - [[Non-intervention Research]] — 匹配属于在非干预数据中改善[[Causality|因果推断]]的策略，但不改变研究本身未操纵自变量这一事实
+
+## 使用此方法的研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Berk_2011_ER|Berk (2011)]] — 将匹配推荐为[[Causal Modeling|因果建模]]的替代方法，论证其更少依赖不可检验[[Hypothesis|假设]]，更多受实证诊断约束。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al. (2011, Ch. 15)]] — 将匹配列为[[Ex Post Facto Research|事后回溯研究]]中最常用的控制手段之一，在[[Causality|因果]]-比较设计中通过匹配实验组与对照组的关键特征提高可比性；同时指出匹配可能导致样本大幅缩减（Lewis-Beck, 1993 报告从 1,194 缩减至 46 的实例）。
 

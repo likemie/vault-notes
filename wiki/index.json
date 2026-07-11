@@ -9166,6 +9166,17 @@
     ]
   },
   {
+    "title": "Ex Post Facto Research",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Ex Post Facto Research.md",
+    "aliases": [
+      "事后回溯研究",
+      "Ex Post Facto Design",
+      "Causal-comparative Research",
+      "Causal Research"
+    ]
+  },
+  {
     "title": "Experience Sampling Method",
     "type": "method",
     "path": "wiki/methods/quantitative/Experience Sampling Method.md",
@@ -14109,6 +14120,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

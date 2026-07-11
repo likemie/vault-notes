@@ -10,7 +10,7 @@ aliases:
 summary: "教育研究中指原因导致效果的关系，涵盖决定论因果与概率因果两种刻画方式，涉及时间顺序、排除混淆变量、反事实推理和因果过程等核心议题"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Random Assignment]]"
   - "[[Experimental Research]]"
+  - "[[Ex Post Facto Research]]"
   - "[[Ethnography]]"
   - "[[Mixed Methods Research]]"
   - "[[Causal Modeling]]"
@@ -165,7 +166,7 @@ updated: 2026-07-08
 > | 维度 | 研究原因之效果 | 研究效果之原因 |
 > |------|--------------|--------------|
 > | **方向** | 前向——施加干预，观察效果 | 后向——从效果回溯寻找原因 |
-> | **典型方法** | [[Experimental Research\|实验法]]、行动研究、调查分析、观察法 | 事后回溯研究、七步推理过程（Morrison, 2009） |
+> | **典型方法** | [[Experimental Research\|实验法]]、行动研究、调查分析、观察法 | [[Ex Post Facto Research\|事后回溯研究]]、七步推理过程（Morrison, 2009） |
 > | **确定性** | 相对较高——能操纵[[Variable\|变量]] | 更尝试性和推断性——数据不完整 |
 > | **核心挑战** | 隔离与控制全部变量、[[Causal Processes\|因果过程]]可能被忽视 | 从海量潜在原因中确定真正原因、竞争[[Hypothesis\|假设]]的检验 |
 

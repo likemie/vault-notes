@@ -6,7 +6,7 @@ aliases:
 summary: "研究原因之效果的核心策略，通过施加干预并观察效果来建立因果推断，与回溯效果之原因的事后策略形成对照"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_methods:
   - "[[Action Research]]"
   - "[[Qualitative Research]]"
   - "[[Experimental Research]]"
+  - "[[Ex Post Facto Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
   - "[[Ethnography]]"
@@ -67,7 +68,7 @@ updated: 2026-06-18
 > | 研究逻辑 | 操纵[[Variable\|变量]] → 观察差异 → 归因 | 观察效果 → 提出[[Hypothesis\|假设]]原因 → 检验竞争假设 |
 > | 确定性 | 相对较高——能操纵变量以观察效果 | 更尝试性和推断性——数据不完整，回溯因果链困难 |
 > | 核心挑战 | 隔离和控制所有变量、[[Causal Processes\|因果过程]]可能被忽视 | 从大量潜在原因中确定真正的原因 |
-> | 典型方法 | [[Experimental Research\|实验法]]、行动研究、调查分析、观察法 | 事后回溯研究、七步推理过程 |
+> | 典型方法 | [[Experimental Research\|实验法]]、行动研究、调查分析、观察法 | [[Ex Post Facto Research\|事后回溯研究]]、七步推理过程 |
 
 ## 围绕概念形成的命题
 

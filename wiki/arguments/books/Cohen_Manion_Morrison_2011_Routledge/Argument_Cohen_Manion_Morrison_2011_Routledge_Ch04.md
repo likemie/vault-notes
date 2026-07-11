@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -69,6 +69,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Observation Method]]"
   - "[[Non-participant Observation]]"
+  - "[[Ex Post Facto Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Snowball Sampling]]"
 related_persons: []
@@ -683,7 +684,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 
 #### 事后回溯研究与七步过程
 
-Morrison（2009）提出了两种回溯因果推断方法：（a）各种形式的事后回溯研究（ex post facto research，见第15章）；（b）一个七步推理过程（pp.82–83）：
+Morrison（2009）提出了两种回溯因果推断方法：（a）各种形式的[[Ex Post Facto Research|事后回溯研究]]（ex post facto research，见第15章）；（b）一个七步推理过程（pp.82–83）：
 
 > [!proc] 从效果追溯原因的七步过程
 > 1. **确立需要解释的究竟是什么** 明确效果、规律性或现象。

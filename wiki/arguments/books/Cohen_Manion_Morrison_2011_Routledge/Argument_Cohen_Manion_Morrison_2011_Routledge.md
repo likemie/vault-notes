@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 102
+argument_related_count: 106
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -115,6 +115,9 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Internet-based Survey]]"
   - "[[Case Study]]"
+  - "[[Ex Post Facto Research]]"
+  - "[[Random Assignment]]"
+  - "[[Matching]]"
   - "[[Meta-analysis]]"
   - "[[Action Research]]"
   - "[[Grounded Theory]]"
@@ -136,12 +139,13 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-07-11
+updated: 2026-07-12
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
@@ -170,7 +174,7 @@ updated: 2026-07-11
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|第13章 Surveys, longitudinal, cross-sectional and trend studies]] | 系统介绍[[Survey Research\|调查]]的定义、特征与规划流程（14阶段）、低回应与无回应处理方法、抽样策略，以及[[Longitudinal Study\|纵向]]、[[Cross-sectional Study\|横截面]]、[[Trend Study\|趋势]]和[[Cohort Study\|队列研究]]的设计类型与优劣比较，最后比较邮寄、访谈、电话和[[Internet-based Survey\|互联网调查]]四种数据收集方式。 | [[Survey Research]]、[[Longitudinal Study]]、[[Cross-sectional Study]]、[[Cohort Study]]、[[Internet-based Survey]] |
 > | 第16章 Internet-based research and computer usage | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|第14章 Case studies]] | 系统介绍[[Case Study\|个案研究]]的定义、Hitchcock-Hughes七特征与三大类型体系（Yin/Merriam/Stake），Yin四类设计类型与单/多案例权衡；区分分析性推广与统计推广；阐述六项效度信度准则与证据链要求；通过六种研究示例展示从参与式到非参与式观察的连续体；提供规划三阶段模型、Yin六类证据来源与质性软件分析工具；介绍Lofland田野笔记原则、Walker 12项选择问题与六种写作结构。 | [[Case Study]]、[[Participant Observation]]、[[Triangulation]]、[[Ecological Validity]]、[[Analytic Generalization]] |
-> | 第18章 Ex post facto research | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|第15章 Ex post facto research]] | 系统介绍[[Ex Post Facto Research\|事后回溯研究]]的定义与基本逻辑、共变关系研究与标准组研究两种设计类型、前瞻性与回溯性两种研究路径、与真正实验的核心区别（缺乏控制与[[Random Assignment\|随机化]]）、适用时机与典型场景、优势与劣势，以及八阶段操作程序与四种引入控制的手段。 | [[Ex Post Facto Research]]、[[Matching]]、[[Causality]] |
 > | 第19章 Experiments, quasi-experiments, single-case research and [[Meta-analysis]] | | |
 > | 第20章 [[Action Research]] | | |
 > | **Part 4 资料收集的策略与工具** | | |
