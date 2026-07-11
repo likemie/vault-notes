@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 45
+method_related_count: 47
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Heterogeneity]]"
+  - "[[Pre-test Sensitisation]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -62,6 +63,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Trend Study]]"
   - "[[Cohort Study]]"
+  - "[[Imputation Methods]]"
   - "[[Observational and Correlational Research]]"
   - "[[Experimental Research]]"
 related_persons: []
@@ -71,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-07-09
+updated: 2026-07-11
 ---
 
 # Survey Research
@@ -236,7 +238,7 @@ Fowler（2009: 15）指出，受访者给出的答案是真实回答加上回答
 
 如果无回应来自同质性较高的样本，问题可能较小；如果来自特定子群体（如非常低或非常高的社会经济群体），则会系统性偏倚结果。如果无回应在样本中随机分布，问题可能比系统性无回应更小（Durrant, 2009: 295）。
 
-对于处理无回应，存在多种插补方法（imputation methods）（Rubin, 1987; Little & Rubin, 1989; Allison, 2001; Durrant, 2006, 2009）：
+对于处理无回应，存在多种[[Imputation Methods|插补方法]]（imputation methods）（Rubin, 1987; Little & Rubin, 1989; Allison, 2001; Durrant, 2006, 2009）：
 
 - **回归插补** 使用辅助变量通过回归技术计算缺失值
 - **热卡方法（hot deck）** 基于辅助变量分数构建子群体，将无回应者与有回应者的结果进行比较
@@ -272,7 +274,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 > - **[[Cross-sectional Study|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Observational and Correlational Research|相关性研究]]问题，但难以建立[[Causality|因果关系]]。
 > - **[[Longitudinal Study|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临样本流失（attrition）和控制效应（control effect）等问题。
 > - **[[Cohort Study|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国[[Document|文献]]中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。
-> - **[[Trend Study|趋势研究]]（Trend Study）** 关注因素而非人群，在不同时间点抽取不同样本但聚焦相同因素，避免了预试敏感化（pre-test sensitisation）问题。
+> - **[[Trend Study|趋势研究]]（Trend Study）** 关注因素而非人群，在不同时间点抽取不同样本但聚焦相同因素，避免了[[Pre-test Sensitisation|预试敏感化]]（pre-test sensitisation）问题。
 > - **[[Internet-based Survey|互联网调查]]** 通过互联网进行数据收集，成本低、速度快，可触及广泛人群，但面临抽样偏差和低回应率等挑战。
 > - vs [[Experimental Research|实验研究]] — 调查收集的是自然状态下的数据，不涉及处理操纵，因而不适用于直接的[[Causality|因果推断]]。
 

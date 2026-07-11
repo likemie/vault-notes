@@ -4652,6 +4652,16 @@
     ]
   },
   {
+    "title": "Analytic Generalization",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Analytic Generalization.md",
+    "aliases": [
+      "分析性推广",
+      "分析式概括",
+      "analytical generalization"
+    ]
+  },
+  {
     "title": "Analytic Induction",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Analytic Induction.md",
@@ -4843,6 +4853,15 @@
       "qualitative central question",
       "质性子问题",
       "qualitative sub-questions"
+    ]
+  },
+  {
+    "title": "Chain of Evidence",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Chain of Evidence.md",
+    "aliases": [
+      "证据链",
+      "evidential chain"
     ]
   },
   {
@@ -8751,6 +8770,16 @@
       "叙事探究",
       "narrative inquiry",
       "narrative design"
+    ]
+  },
+  {
+    "title": "Non-participant Observation",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Non-participant Observation.md",
+    "aliases": [
+      "非参与观察",
+      "非参与式观察",
+      "non-participant observer"
     ]
   },
   {
@@ -14066,6 +14095,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

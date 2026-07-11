@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 88
+argument_related_count: 89
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -71,6 +71,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Coherence in Writing]]"
+  - "[[Chain of Evidence]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Structural Holes]]"
   - "[[Self-Authorship]]"
@@ -725,7 +726,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 |---------|-----------|---------|
 | 风险-收益的阶层差异 | P3-Q5（家人意见 vs 实际情况的矛盾） | 探测家庭对教育决策的风险评估——弱势家庭是否更倾向于"求稳"（选择就业而非深造），以及这种倾向与被访者自身意愿的张力 |
 | 信息偏差 | P2-Q1（对大学的预期来源）；P3-Q4（同学区分"好工作"的标准） | 探测被访者所依赖的信息环境的范围和偏差——信息环境本身即由社会阶层和同辈网络共同塑造 |
-| 次属效应（second effects） | Q-家庭基本信息（父母教育程度、职业）；P1-Q4（父母培养方式）；P3-Q5（家人意见） | 即使学业水平相当，家庭背景仍通过风险偏好和信息渠道间接影响教育选择——三组数据共同构成次属效应的经验证据链 |
+| 次属效应（second effects） | Q-家庭基本信息（父母教育程度、职业）；P1-Q4（父母培养方式）；P3-Q5（家人意见） | 即使学业水平相当，家庭背景仍通过风险偏好和信息渠道间接影响教育选择——三组数据共同构成次属效应的经验[[Chain of Evidence\|证据链]] |
 
 **（五）操作化策略的总体特征**
 

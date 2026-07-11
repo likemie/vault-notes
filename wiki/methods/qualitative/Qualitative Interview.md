@@ -11,9 +11,9 @@ summary: "通过与参与者进行开放式对话以理解其主观经验和意�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Reflexivity]]"
   - "[[External Validity]]"
+  - "[[Analytic Generalization]]"
   - "[[University-Industry Collaboration]]"
   - "[[Critical Thinking]]"
   - "[[Space Production]]"
@@ -225,7 +226,7 @@ Silverman（1993: 92–93）补充了访谈的六项用途：
 > 回应（Arksey & Knight, 1999; 杨善华 & 孙飞宇, 2005）：
 > - 深度访谈的目的在于获取**意义**和**机制**，而非统计分布——样本应"少而典型"
 > - 来自生活史社会学的研究表明：宏观社会过程会以不同方式投射到不同个人身上，影响其生命历程并反映在个人意义建构中——可以"以小见大"，在地方性知识的基础上建立具有社会意义的理论推论
-> - 深度访谈的"[[External Validity|可推广性]]"是分析性的（analytical generalization），而非统计性的（statistical generalization）——将发现推广到理论，而非推广到总体
+> - 深度访谈的"[[External Validity|可推广性]]"是分析性的（[[Analytic Generalization|analytical generalization]]），而非统计性的（statistical generalization）——将发现推广到理论，而非推广到总体
 
 ---
 

@@ -7,9 +7,9 @@ summary: "质性研究中研究者同时扮演参与者和观察者角色，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 33
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -42,15 +42,18 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Grounded Theory]]"
   - "[[Autoethnography]]"
+  - "[[Non-participant Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Theoretical Sampling]]"
   - "[[Purposeful Sampling]]"
   - "[[Snowball Sampling]]"
   - "[[Experimental Research]]"
+  - "[[Observation Method]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 confidence: medium
 status: draft
 created: 2026-06-24
@@ -80,7 +83,7 @@ updated: 2026-07-11
 
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Grounded Theory|扎根理论]]民族志、[[Autoethnography|自我民族志]]。
-> - **数据收集** 参与观察、非参与观察、田野笔记、半结构化访谈、非正式对话、文档收集、日记和生命史、视听记录。
+> - **数据收集** 参与观察、[[Non-participant Observation|非参与观察]]、田野笔记、半结构化访谈、非正式对话、文档收集、日记和生命史、视听记录。
 > - **分析方法**[[Coding in Qualitative Research|编码]]（实体/描述/理论编码）、[[Domain Analysis|领域分析]]、主题分析、[[Progressive Focussing|逐步聚焦]]、叙事分析、[[Analytic Induction|分析归纳法]]。
 > - **辅助技术** 抽样（[[Theoretical Sampling|理论抽样]]、目的抽样、滚雪球）、[[Gatekeepers|守门人]]关系管理、[[Reflexivity|反身性]]日志。
 
@@ -151,5 +154,18 @@ Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段�
 
 ## 使用此方法的研究
 
+### Bailey（1994: 243–244）的四项固有优势
+
+[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14, p. 293)]]引述Bailey的总结：
+
+> [!strength] Bailey（1994: 243–244）的四项优势
+> - **非语言行为数据的优势** [[Observation Method|观察研究]]在收集非语言行为数据时优于实验和调查
+> - **辨别正在发生的行为** 研究者能够辨别正在发生的行为并记录其显著特征
+> - **更亲密和非正式的关系** 因为观察发生在延长时间段内，研究者可以与观察对象建立更亲密和非正式的关系，通常在比实验和调查更自然的环境中
+> - **更少反应性** [[Case Study|案例研究]]观察比其他数据收集方法更少反应性——在实验室实验和依赖对结构化问题的言语反应的调查中，偏误可能被引入数据本身
+
+此外，[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14, p. 293)]]指出直接观察忠实于个案研究的真实生活、原址和整体性质（Verschuren, 2003: 131）。在实际案例中，Acker（1990）基于数百小时参与观察进行[[Ethnography|民族志研究]]；Patrick（1973）在格拉斯哥帮派中保持隐蔽身份四个月，在目击谋杀时面临角色/伦理/安全之间的极端张力；Willis（1977）作为"班级成员而非教师"对工人阶级男孩进行参与观察。
+
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 教材将参与观察列为自然主义和[[Ethnography|民族志研究]]的主要数据收集方法，讨论了研究者角色的光谱（完全观察到完全参与）和角色冲突/边际性管理（pp. 425–427, 430）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材将参与观察列为个案研究的核心观察方式，讨论了参与观察的四项优势（Bailey, 1994）、与[[Non-participant Observation|非参与式观察]]的连续体区分，以及六种研究类型示例（Acker/Boulton/Wild/Blease & Cohen/Antonsen/Houghton）（pp. 290–293）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch11)]] — 教材将参与观察列为自然主义和[[Ethnography|民族志研究]]的主要数据收集方法，讨论了研究者角色的光谱（完全观察到完全参与）和角色冲突/边际性管理（pp. 425–427, 430）。

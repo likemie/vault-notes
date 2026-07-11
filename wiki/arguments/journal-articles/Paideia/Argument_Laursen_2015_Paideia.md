@@ -9,7 +9,7 @@ title: "Argument_Laursen_2015_Paideia"
 argument_key: "Argument_Laursen_2015_Paideia"
 argument_display_title: "Er Hattie og co"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Document]]"
   - "[[Classroom Management]]"
+  - "[[Chain of Evidence]]"
   - "[[Individualised Instruction]]"
   - "[[Causality]]"
 related_theories:
@@ -80,7 +81,7 @@ citation_aliases:
 >
 > 丹麦 SFI 报告和 Mehlbye et al.研究总体支持国际综合：清晰一致的[[Classroom Management|课堂管理]]、清晰目标、高要求、良好社会环境、教师团队合作和学业表现取向均与更好学习结果相关(pp.37–38)。对社会背景较弱的学生而言，明确领导和清晰目标尤其重要；开放教学则更多有利于社会背景较强的学生(p.38)。因此，文章并不是用丹麦本土证据否定国际综合，而是说明：国际综合在丹麦大体成立，但仍需要结合学生社会背景、测试使用水平和概念测量方式来解释具体差异。
 >
-> ### 丹麦本土证据链
+> ### 丹麦本土[[Chain of Evidence|证据链]]
 >
 > SFI 报告提供了丹麦证据的主轴。它是丹麦关于"什么促进学生学习"的最大且方法上最先进的研究；报告以 Folkeskole 毕业考试成绩为主要学习指标，并在统计上控制学生社会背景。因此，它能够检验学业成绩意义上的[[Effective Teaching|有效教学]]，但不能穷尽教育的全部目的。
 >

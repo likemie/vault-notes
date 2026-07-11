@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -18,7 +18,8 @@ tags:
   - mixed-methods
   - research-methodology
   - academic-association
-related_concepts: []
+related_concepts:
+  - "[[Chain of Evidence]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -50,7 +51,7 @@ updated: 2026-06-02
 > [!success]
 > MMIRA 的成立标志着[[Mixed Methods Research|混合方法研究]]从方法论文本和期刊论文中的学术讨论走向了制度化的学术共同体建设。国际分会的扩展使混合方法研究在不同国家和学科传统中获得了本地化的组织支持，区域会议为研究者提供了跨国交流和方法论培训的常规平台。
 >
-> 这一发展与同期其他制度性进展——如 NIH 混合方法培训项目在 Johns Hopkins、Harvard 和 Michigan 的设立（2015）、以及 APA 出版手册纳入混合方法标准（2020）——共同构成了混合方法研究作为独立方法论在学术制度层面被广泛认可的证据链条。
+> 这一发展与同期其他制度性进展——如 NIH 混合方法培训项目在 Johns Hopkins、Harvard 和 Michigan 的设立（2015）、以及 APA 出版手册纳入混合方法标准（2020）——共同构成了混合方法研究作为独立方法论在学术制度层面被广泛认可的[[Chain of Evidence|证据链]]条。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Bates_2017_CognitionEducationTrust"
 argument_key: "Argument_Bates_2017_CognitionEducationTrust"
 argument_display_title: "Darwin's Finch: A Short History of Cognition"
 argument_kind: "book"
-argument_related_count: 6
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -20,6 +20,7 @@ publication_place: "Auckland"
 tags: [region/new-zealand, source/book, theme/organisational-history, theme/education-marketisation]
 related_concepts:
   - "[[Story Line]]"
+  - "[[Chain of Evidence]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -107,7 +108,7 @@ citation_aliases:
 > [!success]
 > - 这本书的核心工作不是证明某个外部学术命题，而是把 [[Cognition Education]] 的多次转向组织成一套关于适应性的内部解释。(p.7-9, p.75-76)
 > - 全书最关键的分析动作，是把公司史持续放回 [[Tomorrow's Schools Reforms]] 及其后续国家采购重组中理解，从而把成败解释为制度环境与组织适应的关系，而不只是管理能力问题。(p.11-18, p.76)
-> - 国际扩张、中东高增长与编织河道（braided river）式重组，在书中都不是孤立章节，而是被串成同一条组织神话的证据链。(p.35-63)
+> - 国际扩张、中东高增长与编织河道（braided river）式重组，在书中都不是孤立章节，而是被串成同一条组织神话的[[Chain of Evidence|证据链]]。(p.35-63)
 > - 第五章把公益从外围慈善提升为组织合法性的核心，这使全书始终能把商业扩张和教育公益讲成互相支撑的关系。(p.69-74)
 > - 因此，这部书最有分析价值的地方，不在于提供最完整的公司发展史，而在于揭示机构如何叙述和正当化自己的历史。(p.7-9)
 

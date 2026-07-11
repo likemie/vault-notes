@@ -10,7 +10,7 @@ summary: "教育研究中基本的资料收集方法，通过有目的、有计�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Participant Observation]]"
+  - "[[Non-participant Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Survey Research]]"
   - "[[Case Study]]"
@@ -77,7 +78,7 @@ updated: 2026-06-25
 > - **不声称回答的问题** 单纯的观察不能直接确立[[Causality|因果关系]]（需要结合实验设计）；不能替代对研究对象内在心理过程的直接测量。
 
 > [!method-stack] 方法层级
-> - **研究设计** 自然观察、实验观察、[[Participant Observation|参与观察]]、非参与观察、结构式观察、非结构式观察。
+> - **研究设计** 自然观察、实验观察、[[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、结构式观察、非结构式观察。
 > - **数据收集** 描述观察（日记描述法、轶事记录法、连续记录法）、取样观察（时间取样、活动取样、事件取样）、行为检核法。
 > - **分析方法** 定性分析（文字描述、叙事分析）、定量分析（[[Coding in Qualitative Research|编码]]体系、记号体系、等级量表）。
 > - **辅助技术** 观察仪器和记录设备（录音、录像、高速摄影）、预先制作的观察量表、观察笔记。

@@ -8,7 +8,7 @@ summary: "基于认知心理学原型理论、通过语言词汇的自由联想�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ideal Learner]]"
   - "[[Study Population and Sample]]"
+  - "[[Chain of Evidence]]"
   - "[[Reliability]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -144,7 +145,7 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 > - **样本代表性问题** Li 的[[Study Population and Sample|研究样本]]均为大学生——通常是该文化中受教育程度最高、年龄最集中的群体。这些参与者可能不是各自文化整体人口的代表性样本（Li 未在研究中直接讨论此限制）
 > - **语言 vs 信念的差距** 原型方法[[Hypothesis|假设]]语言材料直接反映文化信念，但词汇存在（lexical availability）不等于信念存在——一个文化可能保留了某些"化石词汇"（如成语），但成员已不再持有相应的信念
 > - **聚类分析的主观性** 虽然聚类分析是统计方法，但参与者在"按意义相似性分组"时仍然涉及大量主观判断——不同的分组标准（如按功能、按情境、按情感效价）可能产生不同的概念地图。Li 没有报告分组指导语的详细措辞，也没有讨论不同分组策略的可能性
-> - **方法不直接解释行为** 原型方法产出的是概念结构而非行为数据——即使两种文化的学习概念地图完全不同，也不能直接推断两种文化成员的实际学习行为不同。Li 意识到了这一局限，因此通过引述其他研究（课堂观察、归因研究等）来补充行为层面的证据链([[Argument_Li_2012_Cambridge|Li, 2012, pp.76-87]])
+> - **方法不直接解释行为** 原型方法产出的是概念结构而非行为数据——即使两种文化的学习概念地图完全不同，也不能直接推断两种文化成员的实际学习行为不同。Li 意识到了这一局限，因此通过引述其他研究（课堂观察、归因研究等）来补充行为层面的[[Chain of Evidence|证据链]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.76-87]])
 > - **翻译对等性问题** 交叉翻译和评分程序虽然减少了但不完全消除了翻译偏差——"學習"和"learn/learning"在各自的语义网络中与不同的概念关联，即使它们是各自语言中最接近的对等词
 
 ---

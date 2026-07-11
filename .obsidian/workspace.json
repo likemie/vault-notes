@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/quantitative/Imputation Methods.md",
+                "file": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Imputation Methods"
+              "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
             }
           },
           {
@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md",
+                "file": "wiki/concepts/sociology-of-education/Cultural Capital.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
+              "title": "Cultural Capital"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,35 +205,36 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0ec4b7749d7a06eb",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/concepts/research-methodology/Causality.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
+    "wiki/concepts/sociology-of-education/Cultural Capital.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md",
-    "raw/028_14 Case studies.txt",
+    "wiki/methods/qualitative/Snowball Sampling.md",
+    "wiki/methods/mixed/Mixed Methods Research.md",
+    "wiki/methods/quantitative/Imputation Methods.md",
+    "wiki/concepts/research-methodology/Chain of Evidence.md",
+    "wiki/concepts/research-methodology/Analytic Generalization.md",
+    "wiki/methods/qualitative/Non-participant Observation.md",
+    "tmp/Teng_2025_CE.txt",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Klerides_2023_CE.md",
+    "wiki/methods/index.md",
+    "wiki/persons/index.md",
+    "wiki/concepts/index.md",
+    "wiki/index.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md",
+    "raw/028_14 Case studies.txt",
     "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md",
     "wiki/arguments/journal-articles/Australian Journal of Education/Argument_Cole_2015_AJE.md",
     "wiki/concepts/political-economy-geopolitics/Governing at a Distance.md",
     "wiki/concepts/political-economy-geopolitics/Banal Imperialism.md",
-    "wiki/methods/quantitative/Imputation Methods.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13.md",
     "wiki/concepts/research-methodology/Self-report Bias.md",
     "wiki/methods/quantitative/Random Sampling.md",
     "wiki/methods/quantitative/Multi-phase Sampling.md",
     "wiki/methods/quantitative/Random Assignment.md",
     "wiki/concepts/research-methodology/Pre-test Sensitisation.md",
     "wiki/methods/quantitative/Trend Study.md",
-    "wiki/methods/quantitative/Cohort Study.md",
-    "wiki/concepts/research-methodology/Fitness for Purpose.md",
-    "wiki/concepts/research-methodology/Institutional Review Board.md",
-    "wiki/concepts/research-methodology/Scale of Measurement.md",
-    "wiki/concepts/research-methodology/Study Population and Sample.md",
-    "wiki/concepts/research-methodology/Story Line.md",
-    "wiki/concepts/research-methodology/Trustworthiness.md",
-    "wiki/concepts/research-methodology/Validity as Inferences.md",
-    "wiki/concepts/research-methodology/Variable.md",
-    "wiki/concepts/research-methodology/Virtual Documents.md",
-    "wiki/concepts/research-methodology/Value Neutrality.md",
-    "wiki/concepts/research-methodology/Writing Habit.md",
     "wiki/facts/hong-kong",
     "wiki/facts/new-zealand",
     "wiki/arguments/books/Cohen_etal_2011_Routledge",
@@ -243,7 +243,6 @@
     "raw/027_13 Surveys, longitudinal, cross-sectional and trend studies.txt",
     "raw/026_12 Historical and documentary research in education.txt",
     "wiki/facts/switzerland",
-    "scripts/hooks/pre-commit",
     "tmp/pdfs/cole-2015/page-18.png",
     "tmp/pdfs/cole-2015/page-12.png",
     "tmp/pdfs/cole-2015/page-09.png",

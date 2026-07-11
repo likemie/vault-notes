@@ -11,7 +11,7 @@ summary: "关注因素而非人群、在不同时间点抽取不同样本但聚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Causality]]"
+  - "[[Pre-test Sensitisation]]"
   - "[[Study Population and Sample]]"
   - "[[Sampling Error]]"
   - "[[Ecological Fallacy]]"
@@ -85,7 +86,7 @@ updated: 2026-07-11
 
 趋势研究有三个核心特征使其区别于其他纵向设计。
 
-> [!feature] 避免预试敏感化
+> [!feature] 避免[[Pre-test Sensitisation|预试敏感化]]
 > - **反应性问题** 在追踪同一批人的[[Longitudinal Study|纵向研究]]中，首次调查本身可能改变参与者的认知或行为——例如健康调查提醒了吸烟的危害，使受访者在第二轮前主动戒烟，此时记录的变化是调查"制造"的而非自然发生的（即预试敏感化，pre-test sensitisation）
 > - **趋势研究的解决方案** 每轮更换样本，切断"自我污染"的链条，每一轮的数据都来自对调查主题完全新鲜的受访者
 > - **特别适用场景** 敏感议题研究——早期提出敏感问题可能改变个体行为，进而影响后续轮次的回答
@@ -125,7 +126,7 @@ updated: 2026-07-11
 > | 追踪对象 | 因素/[[Variable\|变量]] | 具有共同特征的群体 | 相同的具体个体 |
 > | 样本 | 每轮不同 | 选择性抽样，部分成员可能轮换 | 每轮完全相同 |
 > | 个体层面分析 | 不能 | 有限 | 能够 |
-> | 预试敏感化 | 避免 | 可能存在 | 可能存在 |
+> | [[Pre-test Sensitisation\|预试敏感化]] | 避免 | 可能存在 | 可能存在 |
 > | 样本流失 | 无此问题 | 存在 | 严重 |
 > | 适用场景 | 宏观趋势、敏感议题、教育监测 | 发展研究、[[Causality\|因果]]分析 | 精细的个体变化追踪 |
 
@@ -134,7 +135,7 @@ updated: 2026-07-11
 ## 优势与局限
 
 > [!strength] 优势
-> - **避免预试敏感化** 通过每次使用不同样本，切断调查本身对后续轮次的"污染"。
+> - **避免[[Pre-test Sensitisation|预试敏感化]]** 通过每次使用不同样本，切断调查本身对后续轮次的"污染"。
 > - **适合敏感议题研究** 无需担心早期提问改变后续行为。
 > - **成本低于面板或[[Cohort Study|队列研究]]** 不追踪相同个体，无需维护长期面板。
 > - **对教育规划者和政策制定者具有直接实践价值** 短期预测相对准确。
@@ -152,7 +153,7 @@ updated: 2026-07-11
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要监测宏观趋势和因素层面变化的研究（如全国教育成就监测、公众态度变迁）；敏感议题的跨时间研究（避免预试敏感化）；教育政策评估中需要跨队列比较的场景。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]]
+> - **适合使用** 需要监测宏观趋势和因素层面变化的研究（如全国教育成就监测、公众态度变迁）；敏感议题的跨时间研究（避免[[Pre-test Sensitisation|预试敏感化]]）；教育政策评估中需要跨队列比较的场景。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]]
 > - **谨慎使用** 需要个体层面[[Causality|因果推断]]的研究（此时[[Cohort Study|队列研究]]或面板研究更合适）；长期预测的研究（不可预测因素的干扰随预测跨度增大）；样本特征在跨时间点上可能发生变化的研究。
 > - **不适合使用** 需要追踪个体变化轨迹的研究（如个人发展、职业生涯追踪）；需要建立个体层面[[Causality|因果关系]]的研究；样本框或总体定义在时间上不稳定的情境。
 

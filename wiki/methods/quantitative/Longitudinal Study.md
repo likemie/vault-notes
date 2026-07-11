@@ -9,9 +9,9 @@ summary: "在多个时间点对同一或不同受访者收集数据的调查研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Internal Validity]]"
   - "[[Research Purpose]]"
+  - "[[Pre-test Sensitisation]]"
   - "[[Document]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
@@ -104,7 +105,7 @@ updated: 2026-07-11
 > | 代表设计 | [[Cohort Study\|队列研究]]、[[Trend Study\|趋势研究]]、面板研究 | 关注已达到定义终点的个体 |
 > | 典型问题 | "这些个体随时间如何变化？" | "过去什么可以解释他们目前的处境？" |
 > | 需明确 | 数据收集的时间点和频率 | 回溯的时间段（如一年、五年） |
-> | 关键风险 | 样本流失、预试敏感化 | 记忆偏差（越远越严重） |
+> | 关键风险 | 样本流失、[[Pre-test Sensitisation\|预试敏感化]] | 记忆偏差（越远越严重） |
 
 > [!contrast-table] 队列研究 vs 面板研究
 > | 维度 | 队列研究（Cohort Study） | 面板研究（Panel Study） |
@@ -154,7 +155,7 @@ updated: 2026-07-11
 > [!weakness] 局限
 > - **样本流失（attrition）** 参与者随时间推移退出研究，是[[Cohort Study|面板研究]]的特有问题。Gorard (2001b)报告一项职业与身份研究首轮回应率 60–70%，到第三轮可能降至 25%，且每轮变得更中产阶级化；英国青年队列研究（Youth Cohort Study）仅 45% 受访者参加全部三轮。Ruspini (2002, p. 72)指出 1997 年英国欧洲共同体家庭面板调查（European Community Household Panel，ECHP）三轮中流失率达 78%（p.270）。
 > - **测量误差的累积放大** 小误差随时间推移会累积放大，如收入误差在某个时间点发生，可能导致关于贫困和失业的"虚假转变"（false transitions）（Ruspini, 2002, p. 72）。
-> - **预试敏感化（pre-test sensitisation）** 也称面板条件化（panel conditioning）或样本内时间偏倚（time-in-sample bias）：第一次访谈可能引发在第二次访谈中被记录的变化——例如健康调查可能提高参与者对吸烟危害的意识，使其在第二轮数据收集前减少或戒烟（Dooley, 2001, p. 120; Ruspini, 2002, p. 73）。
+> - **[[Pre-test Sensitisation|预试敏感化]]（pre-test sensitisation）** 也称面板条件化（panel conditioning）或样本内时间偏倚（time-in-sample bias）：第一次访谈可能引发在第二次访谈中被记录的变化——例如健康调查可能提高参与者对吸烟危害的意识，使其在第二轮数据收集前减少或戒烟（Dooley, 2001, p. 120; Ruspini, 2002, p. 73）。
 > - **研究团队变化** 不同研究者在时间上的变化可能导致受访者回答的差异，即使使用相同工具，不同研究者可能以不同方式使用它们（Dooley, 2001）。
 > - **数据在时间上的可比较性** 公共考试名称不变（普通中等教育证书 GCSE 和 A levels），其内容和格式却已变化。初始轮次需预见并包含所有后续[[Variable|变量]]（p.271）。
 > - **样本死亡（sample mortality）的补救困境** 有时试图通过"补充"（topping up）来减轻——在每次重新测试时从同一总体中抽取相同数量的受访者。但风险是数据差异可能被解释为受访者的差异而非真实变化或趋势（p.272）。
@@ -177,7 +178,7 @@ updated: 2026-07-11
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 样本流失偏误（流失者系统性不同于留存者）；预试敏感化（首次测量改变后续行为）；历史效应和成熟效应混淆[[Causality|因果推断]]；测量工具在时间上的不一致（即使名称不变，内容和标准可能变化）；研究团队和方法的变更引入额外变异。
+> - **偏误来源** 样本流失偏误（流失者系统性不同于留存者）；[[Pre-test Sensitisation|预试敏感化]]（首次测量改变后续行为）；历史效应和成熟效应混淆[[Causality|因果推断]]；测量工具在时间上的不一致（即使名称不变，内容和标准可能变化）；研究团队和方法的变更引入额外变异。
 > - **适用边界** 因果推断的有效性依赖面板数据质量和足够的时间点；个体层面分析仅适用于追踪同一受访者的设计（[[Cohort Study|面板研究]]），[[Trend Study|趋势研究]]和重复横截面设计不能进行个体层面分析；回溯性纵向研究依赖参与者记忆的准确性和完整性，越远[[Reliability|可靠性]]越低。
 > - **误用风险** 将趋势研究或重复横截面的聚合数据解释为个体层面变化；忽视样本流失导致的系统性偏倚（留存者往往更中产阶级化、更健康、更稳定）；将调查本身引发的行为改变误读为自然变化。
 > - **补救方式** 在开始时抽取尽可能大的样本以缓冲流失（Wilson et al., 2006, p. 354）；使用统计方法（如多重插补、逆概率加权）处理缺失数据和选择性流失；采用混合设计——结合面板追踪和补充样本（topping up）；进行敏感性分析以评估流失对结论的影响；通过试测和标准化培训降低研究者变异。
@@ -191,7 +192,7 @@ updated: 2026-07-11
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Cohort Study]] | 子类型 | 追踪具有共同特征的特定群体，每次可选择性抽样；英国[[Document\|文献]]常用术语。 |
-> | [[Trend Study]] | 子类型 | 关注因素而非同一人群，通过每轮更换样本避免预试敏感化。 |
+> | [[Trend Study]] | 子类型 | 关注因素而非同一人群，通过每轮更换样本避免[[Pre-test Sensitisation\|预试敏感化]]。 |
 > | [[Cross-sectional Study]] | 替代方法 | 横截面研究提供快照，成本低、速度快，但无法进行[[Causality\|因果]]分析或个体层面追踪。 |
 > | [[Survey Research]] | 前置方法 | 调查是纵向研究最常用的数据收集框架。 |
 

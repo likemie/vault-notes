@@ -7,7 +7,7 @@ summary: "通过操纵教育处理、项目或实践条件来检验效果及因�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Homework]]"
   - "[[Evidence-Based Education]]"
+  - "[[Chain of Evidence]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -101,7 +102,7 @@ updated: '2026-05-18'
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education]] — 干预研究承担从"可能相关"走向"可支持[[Recommendations for Practice|实践建议]]"的[[Causality|因果]]检验功能，是 EBE 证据链中的关键方法环节。
+> - [[Evidence-Based Education]] — 干预研究承担从"可能相关"走向"可支持[[Recommendations for Practice|实践建议]]"的[[Causality|因果]]检验功能，是 EBE [[Chain of Evidence|证据链]]中的关键方法环节。
 
 ---
 

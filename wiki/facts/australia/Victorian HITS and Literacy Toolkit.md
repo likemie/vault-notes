@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Whole Language]]"
+  - "[[Chain of Evidence]]"
   - "[[Professional Judgment]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -95,7 +96,7 @@ citation_aliases: []
 > [!timeline] 维州政策的出台与反思节点
 > - **2016年** — 商业出版巨头 Corwin（拥有 [[Visible Learning]] plus 品牌）出版《VL读写教学》，成为后续政策的蓝本 (p.141)。
 > - **2017年** — 维州教育部正式发布 10 项 HITS 及官方读写教学工具包 (p.141)。
-> - **2020年** — 维州教师帕特里克·奥康纳（Patrick O'Connor）发表批判性研究，揭示 HITS 证据链底部的科学漏洞，引发对证据本位政策的广泛反思。
+> - **2020年** — 维州教师帕特里克·奥康纳（Patrick O'Connor）发表批判性研究，揭示 HITS [[Chain of Evidence|证据链]]底部的科学漏洞，引发对证据本位政策的广泛反思。
 
 ---
 

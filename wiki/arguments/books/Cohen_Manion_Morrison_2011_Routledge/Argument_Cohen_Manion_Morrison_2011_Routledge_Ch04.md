@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -68,6 +68,7 @@ related_methods:
   - "[[Participant Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Observation Method]]"
+  - "[[Non-participant Observation]]"
   - "[[Mixed Methods Research]]"
   - "[[Snowball Sampling]]"
 related_persons: []
@@ -665,7 +666,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 #### 观察法作为替代与基础比率谬误
 
 > [!tip]- [[Observation Method|观察法]]的优势与风险
-> 作为行动研究和实验方法的替代，**参与和非参与观察法**（见第23章）可以比实验方法更充分地捕捉人类意向性、能动性以及对因果性和事件的感知。它们还可以提供关于因果过程和因果链的说明。
+> 作为行动研究和实验方法的替代，**参与和[[Non-participant Observation|非参与观察]]法**（见第23章）可以比实验方法更充分地捕捉人类意向性、能动性以及对因果性和事件的感知。它们还可以提供关于因果过程和因果链的说明。
 >
 > 然而它们也面临与行动研究和实验相同的困难，同样必须提供因果过程和因果链的说明。进一步地，在探讨意向性和能动性时，参与者的感知可能是正确的，但也可能是错误的、片面的、不完整的、选择性的、盲目的或被误导的。一个人可能认为房间里有老鼠（原因）并据此行动（效果），但事实上房间里没有老鼠（p.82）。
 >

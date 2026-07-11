@@ -3,6 +3,7 @@ title: 研究地图
 related_concepts:
   - "[[Document]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Chain of Evidence]]"
   - "[[Analytic Framework]]"
   - "[[Knowledge Production]]"
   - "[[Causality]]"
@@ -20,18 +21,18 @@ related_methods:
   </div>
 
   <div class="research-map-stats" aria-label="Wiki 规模概览">
-    <a href="/wiki/concepts"><span>概念</span><strong>727</strong></a>
-    <a href="/wiki/arguments"><span>论证</span><strong>171</strong></a>
+    <a href="/wiki/concepts"><span>概念</span><strong>729</strong></a>
+    <a href="/wiki/arguments"><span>论证</span><strong>172</strong></a>
     <a href="/wiki/facts"><span>事实</span><strong>274</strong></a>
     <a href="/wiki/persons"><span>人物</span><strong>175</strong></a>
     <a href="/wiki/theories"><span>理论</span><strong>93</strong></a>
-    <a href="/wiki/methods"><span>方法</span><strong>128</strong></a>
+    <a href="/wiki/methods"><span>方法</span><strong>129</strong></a>
     <a href="/wiki/instruments"><span>测量工具</span><strong>6</strong></a>
   </div>
 
   <div class="research-map-grid">
     <a class="research-map-card primary" href="/wiki/concepts"><span>Concepts</span><strong class="research-map-card-title">概念库</strong><p>解释教育研究里反复出现、却常被默认理解的关键词：证据、测量、治理、课程、学习、<span class="research-map-inline-link">[[Knowledge-Based Economy|知识经济]]</span>。</p><strong>从这里建立词汇坐标</strong></a>
-    <a class="research-map-card primary" href="/wiki/arguments"><span>Arguments</span><strong class="research-map-card-title">论证框架</strong><p>把论文和章节拆成问题、证据链、推理步骤与结论，适合快速判断一篇文献到底在争什么。</p><strong>从这里进入文献脉络</strong></a>
+    <a class="research-map-card primary" href="/wiki/arguments"><span>Arguments</span><strong class="research-map-card-title">论证框架</strong><p>把论文和章节拆成问题、[[Chain of Evidence|证据链]]、推理步骤与结论，适合快速判断一篇文献到底在争什么。</p><strong>从这里进入文献脉络</strong></a>
     <a class="research-map-card" href="/wiki/theories"><span>Theories</span><strong class="research-map-card-title">理论工具箱</strong><p>收纳<span class="research-map-inline-link">[[Analytic Framework|分析框架]]</span>和解释模型，用来把孤立材料组织成可比较、可反驳、可继续推进的问题。</p><strong>看框架如何工作</strong></a>
     <a class="research-map-card" href="/wiki/facts"><span>Facts</span><strong class="research-map-card-title">事实档案</strong><p>按国家、地区和全球组织记录政策、改革、事件与制度背景，让概念和理论落回具体场景。</p><strong>把抽象拉回现场</strong></a>
     <a class="research-map-card" href="/wiki/persons"><span>Persons</span><strong class="research-map-card-title">人物索引</strong><p>记录学者、政策行动者与关键作者，让<span class="research-map-inline-link">[[Knowledge Production|知识生产]]</span>不只是概念之间的漂浮关系，也能看到人。</p><strong>追踪思想的携带者</strong></a>

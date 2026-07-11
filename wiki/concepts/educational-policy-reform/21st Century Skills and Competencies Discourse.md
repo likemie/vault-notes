@@ -11,7 +11,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括4C技能的主导地位和对非认知能力的边缘化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
+  - "[[Chain of Evidence]]"
   - "[[Causality]]"
   - "[[Operationalization]]"
   - "[[Disciplina and Doctrina]]"
@@ -275,7 +276,7 @@ SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养�
 > [!abstract] 实践层面分化的理论意义
 > 这四种解读揭示了一个核心困境：能力这一全球[[Floating Signifier|漂浮能指]]的可塑性在全球和国家层面是其传播的功能性优势，但在实践层面转化为教学行动时，可塑性变成了概念混乱。将抽象的能力话语转化为互动的、可持续的教学实践，涉及根本性的重新解释和本土化，不是简单的操作方法问题。在那些学校知识传统上被定义为获取事实和信息的地方，设计和发展传递能力所需的教学活动尤为困难。[[Argument_Beech_2009_CE|(Beech, 2009, p. 359)]]
 >
-> 这一发现与前述博士层次的实证数据形成尺度上的互补：博士数据展示的是教育产出端（毕业生）的技能缺口，Beech 的访谈展示的是教育输入端（教师教育者）的概念混乱。两条证据链共同指向 SCD 的一个根本矛盾——话语越能在全球层面传播，越难以在实践层面被一致地理解和执行。
+> 这一发现与前述博士层次的实证数据形成尺度上的互补：博士数据展示的是教育产出端（毕业生）的技能缺口，Beech 的访谈展示的是教育输入端（教师教育者）的概念混乱。两条[[Chain of Evidence|证据链]]共同指向 SCD 的一个根本矛盾——话语越能在全球层面传播，越难以在实践层面被一致地理解和执行。
 
 ---
 

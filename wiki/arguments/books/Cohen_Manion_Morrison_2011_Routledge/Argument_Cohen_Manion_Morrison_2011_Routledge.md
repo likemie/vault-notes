@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 98
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_count: 102
+argument_related_level: 6
+argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -80,6 +80,8 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Reflexivity]]"
   - "[[Document]]"
+  - "[[Ecological Validity]]"
+  - "[[Analytic Generalization]]"
   - "[[Construct]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -112,6 +114,7 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Cohort Study]]"
   - "[[Internet-based Survey]]"
+  - "[[Case Study]]"
   - "[[Meta-analysis]]"
   - "[[Action Research]]"
   - "[[Grounded Theory]]"
@@ -132,6 +135,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
@@ -165,7 +169,7 @@ updated: 2026-07-11
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|第12章 Historical and documentary research in education]] | 系统介绍[[Document\|文献]]的四种类型划分轴线与一手/二手的复杂区分；详述六类一手文献（书籍、报告、报纸、小说、日记/信件/自传）及其教育研究案例；分析档案研究的方法、挑战与在线转型；拆解[[Documentary Analysis\|文献分析]]的五个程序环节（真实性、可靠性、意义、语境、理论化）及三种理论传统（实证主义、解释性、批判性）；梳理英国文献研究的核心法律框架与伦理议题。 | [[Document]]、[[Documentary Analysis]]、[[Reliability]]、[[Qualitative Research]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|第13章 Surveys, longitudinal, cross-sectional and trend studies]] | 系统介绍[[Survey Research\|调查]]的定义、特征与规划流程（14阶段）、低回应与无回应处理方法、抽样策略，以及[[Longitudinal Study\|纵向]]、[[Cross-sectional Study\|横截面]]、[[Trend Study\|趋势]]和[[Cohort Study\|队列研究]]的设计类型与优劣比较，最后比较邮寄、访谈、电话和[[Internet-based Survey\|互联网调查]]四种数据收集方式。 | [[Survey Research]]、[[Longitudinal Study]]、[[Cross-sectional Study]]、[[Cohort Study]]、[[Internet-based Survey]] |
 > | 第16章 Internet-based research and computer usage | | |
-> | 第17章 Case studies | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|第14章 Case studies]] | 系统介绍[[Case Study\|个案研究]]的定义、Hitchcock-Hughes七特征与三大类型体系（Yin/Merriam/Stake），Yin四类设计类型与单/多案例权衡；区分分析性推广与统计推广；阐述六项效度信度准则与证据链要求；通过六种研究示例展示从参与式到非参与式观察的连续体；提供规划三阶段模型、Yin六类证据来源与质性软件分析工具；介绍Lofland田野笔记原则、Walker 12项选择问题与六种写作结构。 | [[Case Study]]、[[Participant Observation]]、[[Triangulation]]、[[Ecological Validity]]、[[Analytic Generalization]] |
 > | 第18章 Ex post facto research | | |
 > | 第19章 Experiments, quasi-experiments, single-case research and [[Meta-analysis]] | | |
 > | 第20章 [[Action Research]] | | |
@@ -190,6 +194,7 @@ updated: 2026-07-11
 > | 第37章 Inferential statistics: difference tests | | |
 > | 第38章 Inferential statistics: regression analysis and standardization | | |
 > | 第39章 Factor analysis, cluster analysis and structural equation modelling | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|第14章]] | | |
 > > [!knowledge-map]- 知识路线图
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Knowledge_Map.jpg)
 

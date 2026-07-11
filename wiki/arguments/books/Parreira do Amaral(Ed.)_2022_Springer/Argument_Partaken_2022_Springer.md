@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Axiology]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
+  - "[[Chain of Evidence]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Virtue-Oriented Learning Process]]"
@@ -189,7 +190,7 @@ Partaken 将中美技术紧张作为整个论证的经验验证案例嵌入此�
 1. 2018 年 3 月，美国与所有其他盟友的贸易争端都结束了——"唯独中国除外"。这揭示中国不是一般贸易伙伴，而是被识别为 GPK 的核心对手(p.78)。
 2. 贸易战迅速升级为"新冷战"标签，但 Partaken 指出这个标签既"少说了什么"（中国没有苏联式的盟友集团，四十年"自我中心的商业实践"——国际合作伙伴关系经常以知识挪用和消灭伙伴告终——使其缺乏"患难之交"），也"多说了什么"（真正的断层线可能在于心态、文化、[[Axiology|价值论]]和实践的差异——Huntington 的文明冲突论在此被援引作为[[Analytic Framework|分析框架]]）(p.78)。
 3. 在知识转移维度上，美国的终极目标（超越 Trump 任期）是"限制从美国向中国的[[Technology Transfer|技术转让]]，无论是合法还是非法"(p.78)。
-4. 制度证据链：[[US-China Economic and Security Review Commission|USCC]]（2000 年由国会立法设立，系统监控中美知识转移）→ FBI 调查（165 家公司中 50% 承认知识产权被盗，95% 怀疑中国；截至 2019 年 7 月约 1000 项对中国[[Economic and Industrial Espionage|知识产权盗窃]]的立案调查）→ [[Thousand Talents Program]]（被美方视为知识盗窃的国家制度化）(p.78–79)。
+4. 制度[[Chain of Evidence|证据链]]：[[US-China Economic and Security Review Commission|USCC]]（2000 年由国会立法设立，系统监控中美知识转移）→ FBI 调查（165 家公司中 50% 承认知识产权被盗，95% 怀疑中国；截至 2019 年 7 月约 1000 项对中国[[Economic and Industrial Espionage|知识产权盗窃]]的立案调查）→ [[Thousand Talents Program]]（被美方视为知识盗窃的国家制度化）(p.78–79)。
 5. 理论综合：回归 Katz (1965) 的三因素——中美 GPK 冲突可归因于权力（中共与国家科技领导小组）、资源（Made in China 2025 战略）、意识形态（中国梦）三种不可化约的冲突源(p.79)。
 
 > 一个关键的辩证翻转在此发生：Partaken 指出，依赖间谍获取知识的国家可能陷入悖论——"一个国家，任何国家，可以悖论性地转向内部，远离对引领真实创新至关重要的全球知识流动的开放"。内向型的知识获取策略导致"自我强加的排斥"，反过来又收紧对媒体、公共教育和基本权利的控制(p.79)。这一观察将间谍活动从"手段"的逻辑推进到"后果"的逻辑——间谍不是中立的工具，它会重塑使用者的内部政治结构。

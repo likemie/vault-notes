@@ -6,9 +6,9 @@ summary: "不直接操纵处理条件而观察现象、关系或过程的研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
 - non-intervention-research
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"
+  - "[[Chain of Evidence]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -74,7 +75,7 @@ updated: '2026-05-18'
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education]] — 非[[Intervention Research|干预研究]]为证据链提供探索和描述性材料，但若直接承担"什么有效"的实践处方功能，就会引发[[Causality|因果]]推论争议。
+> - [[Evidence-Based Education]] — 非[[Intervention Research|干预研究]]为[[Chain of Evidence|证据链]]提供探索和描述性材料，但若直接承担"什么有效"的实践处方功能，就会引发[[Causality|因果]]推论争议。
 
 ## 与相关方法的区别
 

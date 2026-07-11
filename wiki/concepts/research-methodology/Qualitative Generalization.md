@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中以有限方式使用的概念，指将案例研究发现推广到更广泛理论的能力，强调特定性而非统计推广"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[External Validity]]"
+  - "[[Analytic Generalization]]"
   - "[[Naturalistic Generalization]]"
 related_theories: []
 related_methods:
@@ -47,6 +48,6 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs 量化推广 — [[Quantitative Research|量化研究]]的推广建立在[[Random Sampling|随机抽样]]和统计推断基础上，从样本推广到总体；[[Qualitative Research|质性研究]]的推广是分析性推广（analytic generalization），从案例推广到理论。
+> - vs 量化推广 — [[Quantitative Research|量化研究]]的推广建立在[[Random Sampling|随机抽样]]和统计推断基础上，从样本推广到总体；[[Qualitative Research|质性研究]]的推广是[[Analytic Generalization|分析性推广]]（analytic generalization），从案例推广到理论。
 > - vs [[Naturalistic Generalization|自然主义概括]] — Stake（1995）提出的自然主义概括强调读者基于自身经验对研究发现进行自我投射和迁移，而非研究者主动声称推广。
 

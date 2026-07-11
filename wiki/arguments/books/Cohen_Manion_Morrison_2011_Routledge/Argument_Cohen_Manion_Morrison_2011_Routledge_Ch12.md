@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Virtual Documents]]"
   - "[[Research Question]]"
+  - "[[Chain of Evidence]]"
   - "[[Hypothesis]]"
   - "[[Analytic Framework]]"
   - "[[Variable]]"
@@ -200,7 +201,7 @@ updated: 2026-07-11
 以下逐一考察六类可用于教育历史与文献研究的一手文献，每类附已发表的研究案例来说明其使用方式、分析潜力和内在局限。
 
 > [!info] 六类一手文献
-> 书籍与教科书、报告与议会记录、报纸与杂志、小说与戏剧、个人文献（日记、信件、自传）、数据集。它们经常被组合使用，形成多来源的文献证据链。
+> 书籍与教科书、报告与议会记录、报纸与杂志、小说与戏剧、个人文献（日记、信件、自传）、数据集。它们经常被组合使用，形成多来源的文献[[Chain of Evidence|证据链]]。
 
 #### 书籍与教科书
 

@@ -6,9 +6,9 @@ summary: "不操纵自变量而以量化资料分析变量关系、模式和相�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - observational-research
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"
+  - "[[Chain of Evidence]]"
   - "[[Multimethod Research]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Classroom Learning Culture]]"
@@ -85,7 +86,7 @@ updated: 2026-05-18
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education]] — 观察/相关研究可为证据链的早期阶段提供[[Variable|变量]]关系线索，但在 EBE 语境中，其结果常被要求转化为[[Recommendations for Practice|实践建议]]，因而产生[[Causality|因果]]推论边界问题。
+> - [[Evidence-Based Education]] — 观察/相关研究可为[[Chain of Evidence|证据链]]的早期阶段提供[[Variable|变量]]关系线索，但在 EBE 语境中，其结果常被要求转化为[[Recommendations for Practice|实践建议]]，因而产生[[Causality|因果]]推论边界问题。
 
 ## 与相关方法的区别
 

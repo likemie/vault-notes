@@ -10,9 +10,9 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 99
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_count: 100
+argument_related_level: 6
+argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "教育研究方法"
 publication_place: "北京"
@@ -74,6 +74,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Emergence]]"
   - "[[Performance Pay]]"
+  - "[[Chain of Evidence]]"
   - "[[Research Purpose]]"
   - "[[Falsification]]"
   - "[[Epistemology]]"
@@ -755,7 +756,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > | 多重功能性 | 可建构和检验理论，也可探索、描述与解释现象。 |
 > | 深入性 | 个案数量少，不局限于现象表面，能对现象乃至事物发展变化的动态过程和机制展开深入细致的研究。 |
 > | 研究的自然性 | 不对研究变量进行控制，在自然情境下展开研究。 |
-> | 资料来源与收集方法的多样性 | 从多种渠道、运用多种方式收集资料，通过数据之间形成证据链以实现研究的整体性。 |
+> | 资料来源与收集方法的多样性 | 从多种渠道、运用多种方式收集资料，通过数据之间形成[[Chain of Evidence\|证据链]]以实现研究的整体性。 |
 
 > [!ref-table] 案例研究的优势与局限
 > | 优势 | 局限 |

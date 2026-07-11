@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Analytic Framework]]"
+  - "[[Chain of Evidence]]"
   - "[[University-Industry Co-location]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Epistemology]]"
@@ -56,7 +57,7 @@ title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -76,7 +77,7 @@ citation_aliases:
 > [!question]
 > 国际产学（University-Industry, UI）研究合作的出版物数量在过去二十年显著增长，尤其是涉及三个及以上国家的合作(p.311)。然而跨国研究团队不仅面临一般[[University-Industry Collaboration|产学合作]]中的目标分歧和知识产权障碍，还叠加了跨境特有的地缘政治风险、法律框架冲突和文化沟通壁垒。这些额外复杂性的来源是什么？它们如何相互关联？是否存在可复制的成功模式？
 >
-> 国际 UI 合作的五重挑战具有内在递进结构，两个[[Analytic Framework|分析框架]]分别从横向维度和纵向层次提供了解释资源。Mars 与 UC Davis 四十年合作中的三个案例构成一条证据链，共同指向一个结论：国际 UI 合作的成功不仅取决于逐个克服上述挑战，更取决于建立一种以互利（mutuality）为核心的组织机制。共同选址（[[University-Industry Co-location|co-location]]）是该机制关键的落地策略。
+> 国际 UI 合作的五重挑战具有内在递进结构，两个[[Analytic Framework|分析框架]]分别从横向维度和纵向层次提供了解释资源。Mars 与 UC Davis 四十年合作中的三个案例构成一条[[Chain of Evidence|证据链]]，共同指向一个结论：国际 UI 合作的成功不仅取决于逐个克服上述挑战，更取决于建立一种以互利（mutuality）为核心的组织机制。共同选址（[[University-Industry Co-location|co-location]]）是该机制关键的落地策略。
 
 ---
 
@@ -189,7 +190,7 @@ citation_aliases:
 
 ### 第五步：Mars 与 UC Davis 的案例链
 
-> [!note]- 三个案例构成一条证据链
+> [!note]- 三个案例构成一条[[Chain of Evidence|证据链]]
 > Mars 与 UC Davis 的合作由三个相互关联、层层扩展的案例构成一条证据链。它们共同展示了一条路径：从单个科学问题的识别（AWD），到跨国多边合作网络的建立（[[African Orphan Crops Consortium|AOCC]]），再到制度化创新平台的构建（[[Innovation Institute for Food and Health|IIFH]]）。每一步都在解决前一阶段暴露出的结构性局限。
 
 ---

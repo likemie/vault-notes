@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 121
+argument_related_count: 122
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -85,6 +85,7 @@ related_concepts:
   - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Emic and Etic]]"
   - "[[Lifelong Learning]]"
+  - "[[Chain of Evidence]]"
   - "[[Flow]]"
   - "[[Executive Function]]"
   - "[[Analytic Framework]]"
@@ -1557,7 +1558,7 @@ Table 3.2(pp.90-91)归纳了四个维度的系统性差异：
 > | **"努力"的可见度** | Hypocognized——相关词汇在 500 词词表中**未出现** | Hypercognized——36 个核心词，构成好學心集群的主体 |
 >
 > > [!success] 为什么好學心是最大集群——以及它如何连接传统与实证
-> > 好學心占中国可取学习方式中近一半的词汇——这意味着对当代中国大学生来说，"学习"首先不是关于方法或内容，而是关于**是否有心向学**。一个不爱学习的人不是一个"低效的学习者"——他根本没有进入"学习"概念的核心定义圈。这个实证发现与第 2 章的理论追溯构成了一条完整的证据链：[[Confucius|孔子]]在 2,500 年前说"知之者不如好之者，好之者不如乐之者"（《论语·雍也》）——**好之（heart and mind for wanting to learn）**被置于**知之（knowing）**之上；Li 在第 2 章中将好學心确立为儒家学习传统的核心动力概念；本章的聚类数据证明：这一 2,500 年前的等级排序**仍然是 21 世纪中国大学生组织"学习"概念的首要原则**。传统—实证的对应是如此精确，以至于它不再是一个"有趣的巧合"，而是一个**需要被认真对待的理论主张** 文化学习模型确实以可测量的方式塑造了文化成员的概念结构。
+> > 好學心占中国可取学习方式中近一半的词汇——这意味着对当代中国大学生来说，"学习"首先不是关于方法或内容，而是关于**是否有心向学**。一个不爱学习的人不是一个"低效的学习者"——他根本没有进入"学习"概念的核心定义圈。这个实证发现与第 2 章的理论追溯构成了一条完整的[[Chain of Evidence|证据链]]：[[Confucius|孔子]]在 2,500 年前说"知之者不如好之者，好之者不如乐之者"（《论语·雍也》）——**好之（heart and mind for wanting to learn）**被置于**知之（knowing）**之上；Li 在第 2 章中将好學心确立为儒家学习传统的核心动力概念；本章的聚类数据证明：这一 2,500 年前的等级排序**仍然是 21 世纪中国大学生组织"学习"概念的首要原则**。传统—实证的对应是如此精确，以至于它不再是一个"有趣的巧合"，而是一个**需要被认真对待的理论主张** 文化学习模型确实以可测量的方式塑造了文化成员的概念结构。
 
 ##### 研究二：理想学习者形象
 

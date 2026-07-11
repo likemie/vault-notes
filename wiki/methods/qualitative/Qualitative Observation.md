@@ -9,7 +9,7 @@ summary: "质性研究中研究者在研究现场对个体行为和活动进行�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Ethnography]]"
   - "[[Case Study]]"
+  - "[[Non-participant Observation]]"
   - "[[Observation Protocol]]"
   - "[[Non-probability Sampling]]"
 related_persons: []
@@ -82,7 +83,7 @@ updated: '2026-06-19'
 
 > [!method-stack] 方法层级
 > - **研究设计**[[Ethnography\|民族志]]、[[Qualitative Research\|质性研究]]、[[Case Study|个案研究]]。
-> - **数据收集** 参与式观察、非参与式观察、田野笔记记录。
+> - **数据收集** 参与式观察、[[Non-participant Observation|非参与式观察]]、田野笔记记录。
 > - **分析方法**[[Coding in Qualitative Research\|质性编码]]、主题分析、叙事重构。
 > - **辅助技术**[[Triangulation\|三角互证]]、成员检查、[[Observation Protocol\|观察协议]]。
 

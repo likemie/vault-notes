@@ -28,6 +28,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Observation Protocol]]"
+  - "[[Non-participant Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
 related_instruments: []
@@ -51,7 +52,7 @@ updated: 2026-07-01
 > - **工具类型** 半结构化课堂观察工具，以田野笔记（[[Champ|field]] notes）为记录形式。
 > - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
 > - **测量目的** 记录 ToK 课堂教学实践，分析[[Critical Thinking|批判性思维]]在课堂中的呈现方式和教学有效性。
-> - **实施方式** 研究者进入课堂进行非参与式观察，以预设重点为指引记录田野笔记，不录音录像。
+> - **实施方式** 研究者进入课堂进行[[Non-participant Observation|非参与式观察]]，以预设重点为指引记录田野笔记，不录音录像。
 
 ---
 

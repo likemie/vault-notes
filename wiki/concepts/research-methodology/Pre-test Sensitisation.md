@@ -10,7 +10,7 @@ aliases:
 summary: "纵向或重复测量研究中，前一轮数据收集本身改变参与者后续认知或行为的现象，导致记录的变化是调查制造而非自然发生的，威胁内部效度"
 type: concept
 domain: "research-methodology"
-related_count: 2
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
