@@ -341,19 +341,19 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 
 #### 可用于事后回溯研究的公共数据库
 
-> [!ref-table] 教育研究可用的公共领域数据库与数据集
-> | 来源 | 数据库 / 网址 |
-> |---|---|
-> | 政府数据库 | data.gov.uk、DCSF（www.dcsf.gov.uk/rsgateway/）、HESA（www.hesa.ac.uk）、GSR（www.gsr.gov.uk） |
-> | 研究机构 | UK Data Archive（www.data-archive.ac.uk/） |
-> | 研究联盟 | ICPSR（www.icpsr.umich.edu） |
-> | 欧盟 | Eurydice（http://eacea.ec.europa.eu） |
-> | [[OECD]] | stats.oecd.org、[[PISA]] 数据库（http://pisa2006.acer.edu.au） |
-> | UNESCO | 统计研究所（www.uis.unesco.org） |
-> | 世界银行 | data.worldbank.org |
-> | TIMSS | 数据库（http://nces.ed.gov/timss/datafiles.asp） |
-> | 个别数据集 | BERA（www.bera.ac.uk/the-use-of-large-scale-data-sets-in-educational-research/） |
-> | 高校持有数据集 | Bristol CMPO（www.bristol.ac.uk/cmpo/plug/）、CLS（www.cls.ioe.ac.uk） |
+> [!feature] 六类数据来源（pp. 311–312）
+> - **政府数据库**
+>   data.gov.uk、DfE（www.gov.uk/dfe）、HESA（www.hesa.ac.uk）、GSR（www.gsr.gov.uk）
+> - **研究机构**
+>   UK Data Service（www.data-archive.ac.uk）
+> - **研究联盟**
+>   ICPSR（www.icpsr.umich.edu）
+> - **国际组织**
+>   欧盟 Eurydice（eurydice.eacea.ec.europa.eu）、[[OECD]]（stats.oecd.org）、[[PISA]]（www.oecd.org/pisa/）、UNESCO（www.uis.unesco.org）、世界银行（data.worldbank.org）、TIMSS（nces.ed.gov/timss/）
+> - **个别数据集**
+>   BERA（www.bera.ac.uk）
+> - **高校持有数据集**
+>   CLS 英国队列研究（www.cls.ioe.ac.uk）、SCI-Hub（sci-hub.sg）
 
 ---
 

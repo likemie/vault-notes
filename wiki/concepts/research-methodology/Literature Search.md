@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,11 +38,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-06-25
+updated: 2026-07-12
 ---
 # Literature Search
 
@@ -195,6 +196,13 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [EU Gateway](https://european-union.europa.eu) | 欧盟政策、统计（Eurostat）与法律文件 |
 > | [CESSDA](https://www.cessda.org) | 欧洲社会科学数据档案联盟，跨国数据检索 |
 > | [Council of Europe](https://www.coe.int) | 欧洲人权、教育、文化政策 |
+> | [HESA](https://www.hesa.ac.uk) | 英国高等教育统计局，学生、教职工、财务数据 |
+> | [GSR](https://www.gsr.gov.uk) | 英国政府社会研究，方法论与数据服务 |
+> | [ICPSR](https://www.icpsr.umich.edu) | 美国校际政治与社会研究数据联盟，需机构订阅 |
+> | [Eurydice](https://eurydice.eacea.ec.europa.eu) | 欧盟教育制度比较数据 |
+> | [CLS](https://www.cls.ioe.ac.uk) | 英国队列研究，纵向追踪数据（1958、1970、2000+） |
+> | [data.gov.uk](https://data.gov.uk) | 英国政府开放数据，含 DfE 教育统计 |
+> | [TIMSS / PIRLS](https://nces.ed.gov/timss/) | 国际数学与科学趋势研究数据 |
 
 > [!index-table] 图书馆与档案
 > | 资源 | 说明 |
