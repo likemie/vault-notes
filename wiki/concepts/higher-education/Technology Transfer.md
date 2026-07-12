@@ -28,6 +28,7 @@ related_concepts:
   - "[[Background IP]]"
   - "[[Freedom to Operate]]"
   - "[[Sponsored Research Agreement]]"
+  - "[[Conatus]]"
   - "[[Joint Ownership of IP]]"
   - "[[Total Factor Productivity]]"
   - "[[Absorptive Capacity]]"

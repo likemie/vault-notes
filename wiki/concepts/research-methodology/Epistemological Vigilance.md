@@ -18,6 +18,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Effective Teaching]]"
   - "[[Positivism]]"
+  - "[[Conatus]]"
   - "[[Epistemological Break]]"
   - "[[Reflexivity]]"
   - "[[Operationalization]]"

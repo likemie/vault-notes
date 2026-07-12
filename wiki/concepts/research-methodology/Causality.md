@@ -20,6 +20,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Probabilistic Causation]]"
   - "[[Effect Size]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Screening Off]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Purpose Statement]]"

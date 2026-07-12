@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Paradigm]]"
-  - "[[Causality]]"
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Variable]]"

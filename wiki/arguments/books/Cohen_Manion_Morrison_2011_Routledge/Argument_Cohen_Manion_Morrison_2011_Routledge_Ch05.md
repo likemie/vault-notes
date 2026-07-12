@@ -37,6 +37,7 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Hypothesis]]"
   - "[[Gatekeepers]]"
+  - "[[Conatus]]"
   - "[[Hawthorne Effect]]"
   - "[[Research Scope]]"
   - "[[Confidentiality]]"

@@ -21,8 +21,8 @@ tags:
   - region/western
 related_concepts:
   - "[[Humility in Learning]]"
+  - "[[Conatus]]"
   - "[[Western Learner]]"
-  - "[[Causality]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:

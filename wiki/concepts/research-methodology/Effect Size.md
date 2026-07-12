@@ -36,6 +36,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Research Utilization]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Class Size]]"
   - "[[Metacognition]]"
   - "[[Critical Thinking]]"

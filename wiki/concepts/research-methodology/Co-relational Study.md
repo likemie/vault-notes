@@ -17,10 +17,10 @@ tags:
   - ex-post-facto
   - subject/research-methodology
 related_concepts:
-  - "[[Causality]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
+  - "[[Causality]]"
 related_methods:
   - "[[Ex Post Facto Research]]"
 related_arguments:

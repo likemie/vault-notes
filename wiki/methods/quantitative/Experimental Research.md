@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Institutional Review Board]]"
   - "[[Internal Validity]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Interaction Effect]]"
   - "[[Threats to Internal Validity]]"
   - "[[Attrition]]"
@@ -129,7 +130,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - 平行行之间用水平线分隔表示比较组不等价（非随机分配）；无线表示随机分配
 
 > [!note]- [[True Experimental Design|真实验设计]]的四种类型
-> - **[[Pretest-Posttest Control Group Design|前后测对照组设计]]（Pretest–Posttest Control-Group Design）** 两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
+> - **[[Pretest-Posttest Control Group Design|前后测对照组设计]]（[[Pre-test and Post-test|pretest]]–Posttest Control-Group Design）** 两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
 > - **[[Posttest-Only Control Group Design|仅后测对照组设计]]（Posttest-Only Control-Group Design）** 控制前测的混淆效应，随机分配后仅实验组接受处理，两组均接受后测。Group A R——X—O / Group B R————O
 > - **Solomon 四组设计（[[Solomon Four-Group Design]]）** 2 × 2 因子设计的特例，四组分别在前测和处理上有所变化，全部接受后测，用于评估前测的影响。
 > - **[[Factorial Design]]** 同时操纵两个或多个自变量，检验主效应和[[Interaction Effect|交互效应]]（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
@@ -208,7 +209,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ## 适用场景
 
 > [!success]
-> - 需要检验特定干预或处理是否产生[[Causality|因果]]效应时。
+> - 需要检验特定干预或处理是否产生因果效应时。
 > - 适合确认性的、理论驱动的[[Research Question|研究问题]]。
 
 ## 局限性

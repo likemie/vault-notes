@@ -23,7 +23,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
-  - "[[Causality]]"
   - "[[Habitus]]"
   - "[[Knowledge Exchange]]"
   - "[[Global Policy Space]]"

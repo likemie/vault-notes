@@ -15,10 +15,11 @@ tags:
   - topic/causation
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Causality]]"
   - "[[Causal Processes]]"
   - "[[Hawthorne Effect]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Reliability]]"
   - "[[Independent Variable]]"
 related_theories: []

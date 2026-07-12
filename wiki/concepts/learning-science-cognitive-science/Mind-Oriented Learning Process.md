@@ -21,6 +21,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Western Learner]]"
   - "[[Metacognition]]"
+  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Research Topic]]"
   - "[[Reflexivity]]"

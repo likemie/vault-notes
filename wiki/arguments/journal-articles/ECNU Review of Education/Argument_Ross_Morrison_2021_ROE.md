@@ -29,7 +29,6 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
   - "[[Technology Infusion]]"
-  - "[[Causality]]"
   - "[[Logic Model]]"
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"

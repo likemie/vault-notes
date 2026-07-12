@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Classroom Management]]"
+  - "[[Conatus]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Effect Size]]"
@@ -24,7 +25,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[Material Fallacies]]"
-  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

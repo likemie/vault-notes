@@ -29,7 +29,6 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Progressive Education]]"
   - "[[New Public Management]]"
-  - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -111,7 +110,7 @@ updated: '2026-06-02'
 
 > [!warning] 争议与评论
 > - **危机叙事的争议** 教师协会和[[Progressive Education|进步教育]]运动者质疑教育质量危机的存在（特别是在公共部门），认为这场危机被夸大以推行基于[[New Public Management|新公共管理]]技术的教育改革(Bottani, 2008, p. 16; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 9]])。
-> - **全球化链条的远距离后果**[[Argument_Gorur_2014_Discourse|Gorur (2014)]] 揭示了一个引人深思的[[Causality|因果]]链——一份关于美国教育的国内报告触发了全球[[Performance Indicators|教育指标]]体系的建立，最终塑造了全球教育治理格局。
+> - **全球化链条的远距离后果**[[Argument_Gorur_2014_Discourse|Gorur (2014)]] 揭示了一个引人深思的因果链——一份关于美国教育的国内报告触发了全球[[Performance Indicators|教育指标]]体系的建立，最终塑造了全球教育治理格局。
 > - **政治框定的翻转**[[Argument_Downey_2016_SoE|Downey & Condron (2016, p. 2)]] 指出 *A Nation at Risk* 标志着美国教育政治话语的重要翻转——1966 年 [[Coleman Report 1966]] 的结论（家庭和社区是学业差距的源头）最初被视为保守立场，Bowles & Gintis (1976) 对学校加剧不平等的批判被视为激进左派；到了 1980 年代初期，保守派已全面接受学校是问题的叙事，*A Nation at Risk* 正是这一翻转的标志性事件。
 > - **危机化作为政治策略**[[Argument_Rappleye_2006_RCIE|Rappleye (2006, p. 233)]] 引述 Halpin & Troyna (1995) 的[[Hypothesis|假设]]——政治家可能为政治利益而将教育现状危机化——*A Nation at Risk* 的军事危机语言是否为这种策略性使用的典型表现，值得在具体历史语境中评估。
 

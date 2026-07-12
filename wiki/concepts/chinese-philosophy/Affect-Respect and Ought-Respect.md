@@ -19,6 +19,7 @@ tags:
   - theme/teacher-student-relationship
 related_concepts:
   - "[[Student-Teacher Relationship]]"
+  - "[[Conatus]]"
   - "[[Learning Virtues]]"
 related_theories: []
 related_methods: []

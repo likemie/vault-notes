@@ -26,7 +26,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Theories of Policy Change]]"
-  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -119,7 +118,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 > [!tip]-
 > - [[Performance Indicators]] — 区域创新记分牌是绩效指标作为政策工具的典型案例
-> - [[Theories of Policy Change]] — Innovation Union 承载"[[Innovation Ecosystem|创新生态]]体系→经济增长"的核心[[Causality|因果]]叙事
+> - [[Theories of Policy Change]] — Innovation Union 承载"[[Innovation Ecosystem|创新生态]]体系→经济增长"的核心因果叙事
 > - [[Selectivity]] — Innovation Union 通过指标定义"什么是创新"，系统性地优先技术研发型创新
 > - [[EU Skills Agenda]] — 同为 [[Europe 2020 Strategy|Europe 2020]] 旗舰，共享"创新+教育协同演化"的变革理论
 > - [[Europe 2020 Strategy]] — Innovation Union 所属的十年战略框架

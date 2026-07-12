@@ -22,6 +22,7 @@ related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
   - "[[Humility in Learning]]"
+  - "[[Conatus]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
 related_theories:
@@ -93,7 +94,7 @@ updated: 2026-06-19
 > ```
 
 > [!exegesis]- 教育研究中的[[Parental Cognitive and Affective Socialization|情感社会化]]例子
-> 在学习情境中，如果某种文化（如东亚儒家文化）强调对学习成就的[[Pride in Learning|骄傲]]需保持[[Humility in Learning|谦逊]]，而另一种文化（如美国个人主义文化）则大力鼓励表达骄傲，这就导致两类文化背景的学习者在“事件编码”和“情绪行为/调节”上产生完全不同的评估路径：前者可能将高分编码为“需继续努力的起点”并调节骄傲情绪，后者则将其评估为“个人能力的彰显”并积极表达。([[Argument_Li_2012_Cambridge|Li, 2012, p. 56]])
+> 在学习情境中，如果某种文化（如东亚儒家文化）强调对学习成就的[[Pride in Learning|骄傲]]需保持[[Humility in Learning|谦逊]]，而另一种文化（如美国个人主义文化）则大力鼓励表达骄傲，这就导致两类文化背景的学习者在“事件编码”和“情绪行为/调节”上产生完全不同的评估路径：前者可能将高分编码为“需继续[[Conatus|努力]]的起点”并调节骄傲情绪，后者则将其评估为“个人能力的彰显”并积极表达。([[Argument_Li_2012_Cambridge|Li, 2012, p. 56]])
 
 ---
 

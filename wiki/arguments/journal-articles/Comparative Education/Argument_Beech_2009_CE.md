@@ -42,6 +42,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
+  - "[[Conatus]]"
   - "[[Absorptive Capacity]]"
 related_theories:
   - "[[Network Society]]"

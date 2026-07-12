@@ -24,6 +24,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Hawthorne Effect]]"
   - "[[Operationalization]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
   - "[[Sample Size Determination]]"

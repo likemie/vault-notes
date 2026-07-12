@@ -37,6 +37,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performativity of Measurement]]"
+  - "[[Conatus]]"
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"

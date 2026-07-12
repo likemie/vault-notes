@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Conatus]]"
   - "[[Further Education]]"
   - "[[Corporate Education]]"
   - "[[Lifelong Learning]]"

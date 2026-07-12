@@ -26,7 +26,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
   - "[[Effect Size]]"
-  - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Document]]"
 related_theories: []

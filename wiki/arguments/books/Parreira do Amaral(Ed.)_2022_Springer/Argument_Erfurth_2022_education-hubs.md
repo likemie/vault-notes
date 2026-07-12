@@ -19,6 +19,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
+  - "[[Conatus]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Production]]"

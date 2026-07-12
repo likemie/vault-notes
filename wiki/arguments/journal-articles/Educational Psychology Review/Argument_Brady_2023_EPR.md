@@ -28,8 +28,8 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Recommendations for Practice]]"
-  - "[[Causality]]"
   - "[[Hypothesis]]"
+  - "[[Causality]]"
   - "[[Multimethod Research]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"

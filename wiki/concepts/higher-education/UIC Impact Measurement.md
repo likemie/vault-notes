@@ -22,7 +22,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Document]]"
   - "[[Responsible Innovation]]"
-  - "[[Causality]]"
   - "[[Counterfactual]]"
   - "[[Variable]]"
 related_theories: []

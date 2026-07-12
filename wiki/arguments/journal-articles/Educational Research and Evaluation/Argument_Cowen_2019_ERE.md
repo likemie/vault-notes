@@ -30,7 +30,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Opportunist Mode]]"
-  - "[[Causality]]"
   - "[[External Validity]]"
   - "[[Document]]"
   - "[[Analytic Framework]]"

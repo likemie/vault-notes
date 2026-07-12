@@ -18,9 +18,9 @@ tags:
   - subject/research-methodology
   - topic/causation
 related_concepts:
-  - "[[Causality]]"
   - "[[Compound Causes]]"
   - "[[Interaction Effect]]"
+  - "[[Causality]]"
   - "[[Variable]]"
 related_theories: []
 related_methods: []

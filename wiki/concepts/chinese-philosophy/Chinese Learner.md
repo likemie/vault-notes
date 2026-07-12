@@ -42,6 +42,7 @@ related_concepts:
   - "[[Familiarization]]"
   - "[[Quality Education]]"
   - "[[Heart and Mind for Wanting to Learn]]"
+  - "[[Conatus]]"
   - "[[Ideal Learner]]"
   - "[[Bildung]]"
   - "[[Examination Hell]]"

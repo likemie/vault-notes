@@ -19,6 +19,7 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Hypothesis]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []

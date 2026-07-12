@@ -43,7 +43,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
   - "[[Cult of the Guru]]"
-  - "[[Causality]]"
   - "[[Material Fallacies]]"
   - "[[Surface and Deep Learning]]"
   - "[[Global Education Reform Movement]]"
@@ -323,7 +322,7 @@ updated: '2026-05-18'
 >
 > **（2）术语口号化。** "优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）在新西兰学术和政策话语中日益被当作口号使用——引发"基于词汇熟悉度而非理性的膝跳反射式赞同或反对"（Kreeft, 2010, p.78）（ONeill, 2012, pp.154-155）。
 >
-> **（3）Hattie 本人警示被系统性忽略。** Treasury 忽略了 Hattie 的多处关键警示：相关不等于[[Causality|因果]]（p.3）、成功效应多来自创新而非日常课堂（p.6）、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据（p.255）。更严重的是，Treasury 建议增加生师比直接与 Hattie 本人结论矛盾——"[[Effect Size|效应量]]的正向符号表明增加[[Class Size|班级规模]]是糟糕的政策"（Hattie, 2009a, p.88）（ONeill, 2012, pp.156-157）。
+> **（3）Hattie 本人警示被系统性忽略。** Treasury 忽略了 Hattie 的多处关键警示：相关不等于因果（p.3）、成功效应多来自创新而非日常课堂（p.6）、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据（p.255）。更严重的是，Treasury 建议增加生师比直接与 Hattie 本人结论矛盾——"[[Effect Size|效应量]]的正向符号表明增加[[Class Size|班级规模]]是糟糕的政策"（Hattie, 2009a, p.88）（ONeill, 2012, pp.156-157）。
 >
 > **（4）综合混入非学校阶段研究。** Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均效应量和排名位置（ONeill, 2012, pp.155-156）。
 >

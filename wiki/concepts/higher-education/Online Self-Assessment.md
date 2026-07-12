@@ -23,6 +23,7 @@ tags:
 - theme/subjectification
 - theme/competitiveness
 related_concepts:
+  - "[[Conatus]]"
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
   - "[[Digital Optimum]]"

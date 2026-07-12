@@ -23,7 +23,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
-  - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Standard Error]]"
   - "[[Heterogeneity]]"

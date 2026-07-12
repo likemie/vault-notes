@@ -24,7 +24,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Realism in International Relations]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Causality]]"
   - "[[Document]]"
   - "[[Theory of Knowledge]]"
   - "[[Value-Based Education]]"
@@ -98,7 +97,7 @@ updated: 2026-07-10
 > [!warning] 相对主义指控
 > 如果知识只是"行动-后果关系的记录"([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 495]])，那么是否任何知识都没有比其他知识更"真"？交易[[Epistemology|认识论]]是否削弱了区分"好证据"和"坏证据"的基础？
 >
-> - **批评立场** 若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials|RCT]] 和[[Observation Method|观察研究]]"同样有效"的等同处理——[[Argument_Slavin_2019_EP|Slavin (2019)]] 会认为这放弃了[[Causality|因果]]推论的核心要求。
+> - **批评立场** 若所有知识都是情境依赖的"关系记录"，则失去了判断不同研究质量高低的跨情境标准。这可能导致对 [[Randomised Controlled Trials|RCT]] 和[[Observation Method|观察研究]]"同样有效"的等同处理——[[Argument_Slavin_2019_EP|Slavin (2019)]] 会认为这放弃了因果推论的核心要求。
 > - **Dewey/Biesta 的回应** 交易认识论不是相对主义——"warranted assertions"的"依据"（warrant）来自实验过程的严谨性和公开可检验性。区别在于它承认这些断言的情境限制和未来不确定性，而非否定证据的价值。([[Argument_Biesta_2010_SPE|Biesta, 2010, pp. 494–495]])
 >
 > **目前状态** 此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Methods Research|混合方法]][[Document|文献]]中提供了折中方案——承认知识的交易性但不放弃跨情境比较。

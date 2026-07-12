@@ -38,6 +38,7 @@ related_concepts:
   - "[[Gamification]]"
   - "[[Knowledge Production]]"
   - "[[Reliability]]"
+  - "[[Conatus]]"
   - "[[Variable]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []

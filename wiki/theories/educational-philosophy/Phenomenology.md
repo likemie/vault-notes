@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Realism in International Relations]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Conatus]]"
   - "[[Operationalization]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Constructivist Paradigm]]"
@@ -127,7 +128,7 @@ updated: 2026-07-11
 > - **[[Ontology|本体论]]** 社会、自我和客观世界不是独立于人类意识而存在的纯粹中立对象；世界是被主体经历和赋予意义的生活世界，人类是具身且社会性共在的主体。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3, 4]]
 > - **认识论** 知识并非中立的客观事实，而是扎根于主体意识与主体间体验之中的意义沉淀。真理在于去蔽、回到直接经验本身，并通过多维视角审视事物。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **方法含义** 要求采用[[Qualitative Research|质性研究]]设计、诠释学分析、现象学教育学叙事或[[Philosophical Analysis in Education|哲学分析]]。偏好自然主义情境，强调研究者自身的[[Reflexivity|反思性]]（Reflexivity）和对天然态度的[[Epoché|悬置]]。
-> - **不能直接推出的东西** 该理论不能直接证明客观[[Causality|因果]]规律，不适用于大规模定量[[Causality|因果推断]]，也不支持将学习效果直接降维为去情境化、可标量化的标准化[[Performance Indicators|绩效指标]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]
+> - **不能直接推出的东西** 该理论不能直接证明客观因果规律，不适用于大规模定量[[Causality|因果推断]]，也不支持将学习效果直接降维为去情境化、可标量化的标准化[[Performance Indicators|绩效指标]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 将学生或教师的“生活世界”和“直接经验”作为分析的起点，组织[[Research Question|研究问题]]（例如探究“学生如何经历跨学科可持续探究”）。
@@ -150,7 +151,7 @@ updated: 2026-07-11
 > [!theory-boundary] 适用边界
 > - **适合解释** 个体的深层意识体验、生活世界经验、复杂的反思与自我意识重构、教学中的情感和主体互动，以及对课程政策的哲学与规范性批判。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]]
 > - **谨慎使用** 在探讨大规模、宏观社会制度的结构性变迁或资源分配等问题时，需要辅之以批判[[Realism in International Relations|现实主义]]（[[Critical Realism]]）或社会学结构理论，以补充对学科[[Ontology|本体论]]深度及客观制约条件的考量。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
-> - **不适合解释** 需要精确量化、进行[[Causality|因果]]控制实验的认知负荷、学习效率提升百分比等技术性问题。
+> - **不适合解释** 需要精确量化、进行因果控制实验的认知负荷、学习效率提升百分比等技术性问题。
 > - **常见误用** 将现象学理解为纯粹的“极端唯我主义”（认为没有客观现实），或者在教育实践中将其降维为没有任何[[Discipline-Based Theory|学科理论]]深度的“感官活动拼盘”，或者试图将现象学式的反思过程强行编制为标准化、可测量的技能技能点考核。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 5, 10]]
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-07-11
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **19–20 世纪之交 — 经典奠基** 胡塞尔提出“回到事物本身”的口号，创立先验现象学，确立意向性与[[Epoché|悬置]]方法，视 living subject 为[[Ontology|本体论]]和[[Epistemology|认识论]]努力的核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> - **19–20 世纪之交 — 经典奠基** 胡塞尔提出“回到事物本身”的口号，创立先验现象学，确立意向性与[[Epoché|悬置]]方法，视 living subject 为[[Ontology|本体论]]和[[Epistemology|认识论]][[Conatus|努力]]的核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **20 世纪中期 — 存在、社会与具身转向** 舒茨将现象学引入社会学，创立存在现象学，关注日常生活世界的意义结构与主体间性分析。 同期，Heidegger、Sartre 与 梅洛-庞蒂发展了存在与具身转向，特别是梅洛-庞蒂将身体经验置于知觉之前，批判[[René Descartes|笛卡尔]]二元论。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 3]]
 > - **21 世纪初 — 教育哲学与学习现象学** Biesta、Küpers 等将现象学应用于反思当代教育，提出“学习现象学”（Phenomenology of learning），突出具身、情绪、体验和响应性的学习过程，用以批判绩效测量与知识技能原子化。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3, 10]]
 > - **2014年至今 — 跨学科课程化与实证应用** 芬兰等国将跨学科探究政策化，现象学作为 [[Phenomenon-Based Learning|现象本位学习]]（PhBL） 的关键哲学根源，在教师教育和可持续发展项目（如 SveaSus 项目）中获得实证、艺术及多语教学层面的实践检验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 2]]

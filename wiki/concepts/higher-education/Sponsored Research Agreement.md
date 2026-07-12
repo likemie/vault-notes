@@ -23,6 +23,7 @@ related_concepts:
   - "[[Foreground IP]]"
   - "[[Background IP]]"
   - "[[Freedom to Operate]]"
+  - "[[Conatus]]"
   - "[[Master Agreement]]"
   - "[[Research Question]]"
   - "[[Academic Engagement Team]]"

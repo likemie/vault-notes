@@ -42,6 +42,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Convergence Research]]"
   - "[[Fourth Industrial Revolution]]"
+  - "[[Conatus]]"
   - "[[Technology Readiness Level]]"
   - "[[Absorptive Capacity]]"
   - "[[Operationalization]]"

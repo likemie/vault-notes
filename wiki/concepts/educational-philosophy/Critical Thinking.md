@@ -18,6 +18,7 @@ tags:
   - theme/higher-order-thinking
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Conatus]]"
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Effect Size]]"

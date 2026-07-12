@@ -17,7 +17,8 @@ tags:
   - theme/speaking
   - theme/cross-cultural-communication
   - field/communication-discourse
-related_concepts: []
+related_concepts:
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []

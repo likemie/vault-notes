@@ -16,8 +16,8 @@ tags:
   - theme/affect
   - theme/achievement
 related_concepts:
-  - "[[Causality]]"
   - "[[Locus of Control]]"
+  - "[[Conatus]]"
   - "[[Pride in Learning]]"
 related_theories: []
 related_methods: []
@@ -36,7 +36,7 @@ updated: 2026-05-23
 ## 核心主张
 
 > [!tip]-
-> Weiner 的归因理论认为，人类天然倾向于寻找事件的[[Causality|因果]]解释（做出因果归因），尤其是那些对自身重要的事件（如学业表现）。这些因果归因反过来又影响个体在后续成就情境中的行为和情感反应([[Argument_Li_2012_Cambridge|Li, 2012, p.60–61]])。
+> Weiner 的归因理论认为，人类天然倾向于寻找事件的因果解释（做出因果归因），尤其是那些对自身重要的事件（如学业表现）。这些因果归因反过来又影响个体在后续成就情境中的行为和情感反应([[Argument_Li_2012_Cambridge|Li, 2012, p.60–61]])。
 
 该理论是在 Rotter 的 [[Locus of Control|控制点]] 理论基础上的进一步发展。Weiner 将 Rotter 的单一控制点维度扩展为三个独立且相互作用的因素([[Argument_Li_2012_Cambridge|Li, 2012, p.61]])。
 
@@ -48,7 +48,7 @@ updated: 2026-05-23
 > 归因理论的三个维度如下([[Argument_Li_2012_Cambridge|Li, 2012, p.61]])：
 
 **1. 来源（locus）**
-原因被个体感知为位于内部（如能力、努力）还是外部（如运气、任务难度）。
+原因被个体感知为位于内部（如能力、[[Conatus|努力]]）还是外部（如运气、任务难度）。
 
 **2. 稳定性（stability）**
 原因在时间上是稳定的（如能力被视为相对固定）还是不稳定的（如努力在不同任务间可能波动）。
@@ -66,7 +66,7 @@ updated: 2026-05-23
 > Weiner 的理论激发了大量研究，记录了与三个归因维度相关的具体情感([[Argument_Li_2012_Cambridge|Li, 2012, p.61]])：
 
 - **意外/惊讶** 当将成功或失败归因于运气时
-- **内疚** 当将失败归因于缺乏努力时
+- **内疚** 当将失败归因于缺乏[[Conatus|努力]]时
 - **感激** 因接受他人帮助而成功时
 - **[[Pride in Learning|骄傲]]** 当将成功归因于内部因素（能力或勤奋）时
 - **羞耻** 当将失败归因于内部因素（如缺乏努力）时

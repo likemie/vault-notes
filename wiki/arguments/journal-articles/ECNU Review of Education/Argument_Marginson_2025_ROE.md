@@ -25,7 +25,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Multiplicity]]"
   - "[[Heterogeneity]]"
-  - "[[Causality]]"
   - "[[Power-Geometries]]"
   - "[[Space Production]]"
   - "[[Analytic Framework]]"

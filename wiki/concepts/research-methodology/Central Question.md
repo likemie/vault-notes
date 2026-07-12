@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Emergence]]"
-  - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Descriptive Analysis]]"
   - "[[Document]]"

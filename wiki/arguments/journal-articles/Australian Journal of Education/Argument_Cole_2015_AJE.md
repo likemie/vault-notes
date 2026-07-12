@@ -29,6 +29,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Sample Size Determination]]"
   - "[[Document]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Domain Analysis]]"

@@ -42,6 +42,7 @@ related_methods:
   - "[[Single-Case Design]]"
   - "[[Random Assignment]]"
   - "[[Experimental Research]]"
+  - "[[ABAB Design]]"
   - "[[Gating Procedure]]"
 related_persons: []
 related_facts:
@@ -81,7 +82,7 @@ updated: 2026-07-13
 >
 > | 威胁 | 含义 | [[Single-Case Design\|SCD]] 中的控制方式 |
 > |------|------|-----------------|
-> | 成熟（Maturation） | 被试随时间自然发展或变化 | 通过 ABAB 设计中的撤除和再引入阶段，若行为随干预的有无系统性变化则排除成熟效应 |
+> | 成熟（Maturation） | 被试随时间自然发展或变化 | 通过 [[ABAB Design\|ABAB 设计]]中的撤除和再引入阶段，若行为随干预的有无系统性变化则排除成熟效应 |
 > | 历史（History） | 实验期间发生的外部事件 | 多基线设计在不同时间点引入干预，若每个基线在干预引入时才变化则排除历史效应 |
 > | 回归均值（Regression to the Mean） | 极端分数向均值自然回归 | 稳定的基线模式（足够多的基线数据点）可排除此威胁 |
 > | 处理扩散（Diffusion of Treatment） | 干预效果扩散到控制条件 | 需要验证控制条件是否未被干预"污染" |
@@ -129,7 +130,7 @@ updated: 2026-07-13
 > [!note-] 发展脉络
 > 该框架的演进可追溯至 Campbell 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook & Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity|构念效度]]、[[External Validity|外部效度]]）。
 >
-> [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生[[Causality|因果]]证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[Single-Case Design|SCD]] 量规在内部效度判断上产生了合理一致的结果。
+> [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[Single-Case Design|SCD]] 量规在内部效度判断上产生了合理一致的结果。
 
 ## 研究范式
 

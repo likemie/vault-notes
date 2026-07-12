@@ -21,7 +21,6 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Pride in Learning]]"
   - "[[Benevolence]]"
-  - "[[Causality]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
   - "[[Hypothesis]]"

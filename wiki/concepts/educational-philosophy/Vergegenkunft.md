@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Transitology]]"
   - "[[Hypothesis]]"
-  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []

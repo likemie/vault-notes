@@ -24,10 +24,11 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
-  - "[[Sample Size Determination]]"
+  - "[[Pre-test and Post-test]]"
 related_methods:
   - "[[Random Assignment]]"
   - "[[Intent-to-Treat Analysis]]"
+  - "[[Cross-sectional Study]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Sampling]]"
 related_arguments:

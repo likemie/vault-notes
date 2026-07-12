@@ -22,10 +22,12 @@ related_concepts:
   - "[[Student Engagement]]"
   - "[[Operationalization]]"
   - "[[Student Involvement]]"
+  - "[[Attrition]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Construct]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Conatus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
 related_theories: []

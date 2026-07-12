@@ -20,7 +20,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Total Factor Productivity]]"
   - "[[Paradigm]]"
-  - "[[Causality]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
   - "[[Technological Trajectories]]"
@@ -65,4 +64,4 @@ updated: 2026-06-10
 > - **创新与就业** Bogliacino 和 Pianta（2010, 2011, 2013）使用演化框架研究不同创新策略对就业和生产率的差异化影响，区分了"技术竞争力"（产品创新，开拓新市场）和"成本竞争力"（流程创新，降低成本）两种演化路径
 > - **[[Systems of Innovation|创新系统]]** [[Systems of Innovation|创新系统理论]]（Lundvall, 1992; Nelson, 1993）在演化经济学的基础上发展而来，将创新理解为多行动者在制度环境下的集体学习过程
 
-演化经济学对 Pavitt 分类法的核心贡献在于：它将"差异"从需要消除的计量误差重新定义为需要解释的理论对象。Pavitt 分类法通过将产业归入四个创新模式类别，为演化经济学提供了最具操作性的经验工具——不同类别不仅描述了创新模式差异，还在创新投入如何转化为经济绩效上具有[[Causality|因果]]解释力[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp.170-175)]]。
+演化经济学对 Pavitt 分类法的核心贡献在于：它将"差异"从需要消除的计量误差重新定义为需要解释的理论对象。Pavitt 分类法通过将产业归入四个创新模式类别，为演化经济学提供了最具操作性的经验工具——不同类别不仅描述了创新模式差异，还在创新投入如何转化为经济绩效上具有因果解释力[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp.170-175)]]。

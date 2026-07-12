@@ -22,6 +22,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Emergence]]"
+  - "[[Conatus]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
@@ -57,7 +58,7 @@ updated: 2026-05-20
 
 1. **[[Bildung]]——教学的理由与目标** Bildung 是教学存在的根本理由和终极指向。它处理所有从课程内容中[[Emergence|涌现]]的理解问题（Gruschka, 2019, p.675）。这意味着 Bildung 不是一个教完之后才出现的副产品——它是教学从一开始就朝向的目标。每一节课、每一个教学决策，都应被 Bildung 的目标所引导。
 
-2. **Erziehung（教育／教养）——朝向 Bildung 的定向** Erziehung 不仅对儿童和青少年的整体发展必不可少，在学校的教学语境中，教师的 Erziehung 任务具体表现为：帮助学生将自身定向于 Bildung 的目标——即帮助学生形成我愿意理解、我应该投入努力去理解的态度和习惯。
+2. **Erziehung（教育／教养）——朝向 Bildung 的定向** Erziehung 不仅对儿童和青少年的整体发展必不可少，在学校的教学语境中，教师的 Erziehung 任务具体表现为：帮助学生将自身定向于 Bildung 的目标——即帮助学生形成我愿意理解、我应该投入[[Conatus|努力]]去理解的态度和习惯。
 
 3. **[[Didaktik]]（教学法）——目标的安排与呈现** Didaktik 指教师如何同时安排 Bildung 的目标（就学校主题或学科而言）和 Erziehung 的层面（帮助学生聚焦）。Didaktik 包括关于哪部分知识必须在什么时间点、以什么数量被呈现的决策（Gruschka, 2019, p.676）。这不是一个纯粹的技术问题——它要求教师判断什么内容在什么时刻最能激发理解、最有助于学生朝向 Bildung。
 

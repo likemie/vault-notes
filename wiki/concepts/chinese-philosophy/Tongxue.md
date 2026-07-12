@@ -21,6 +21,7 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Class Size]]"
   - "[[Homework]]"
+  - "[[Conatus]]"
   - "[[Zero-Sum Competition]]"
 related_theories: []
 related_methods: []

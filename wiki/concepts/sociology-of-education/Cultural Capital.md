@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Habitus]]"
+  - "[[Conatus]]"
   - "[[Bildung]]"
   - "[[Cultural Barrier]]"
   - "[[School Choice]]"
@@ -98,7 +99,7 @@ updated: 2026-07-11
 ### 命题一　学校教育并非价值中立，而是将优势阶层的文化资本作为隐性筛选机制
 
 > [!concept-lens] 教育再生产维度
-> 探讨教育系统如何通过默认要求特定的文化习惯与品位，将社会经济地位的不平等合法化为个人天赋和努力的差距，从而实现阶层再生产。
+> 探讨教育系统如何通过默认要求特定的文化习惯与品位，将社会经济地位的不平等合法化为个人天赋和[[Conatus|努力]]的差距，从而实现阶层再生产。
 
 > [!claim] [[Pierre Bourdieu|Bourdieu, P.]]
 > **学术选拔的隐性前提** 教育系统倾向于把有[[Bildung|教养]]阶级传递的知识、本领和表达模式作为默认前提，使得没有这些资本的弱势家庭子女在学业选拔中面临系统性的歧视，从而合法化了社会出身的特权差距。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu & Passeron, 1979）

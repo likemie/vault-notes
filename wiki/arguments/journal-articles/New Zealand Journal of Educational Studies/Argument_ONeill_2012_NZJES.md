@@ -29,7 +29,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
-  - "[[Causality]]"
   - "[[Class Size]]"
   - "[[Familiarization]]"
 related_theories: []

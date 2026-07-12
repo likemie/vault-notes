@@ -18,6 +18,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[PISA Score Negative Correlation]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []

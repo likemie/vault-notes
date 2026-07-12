@@ -19,7 +19,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Sample Size Determination]]"
   - "[[Research Question]]"
-  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Chain of Evidence]]"
   - "[[Hypothesis]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Analytic Generalization]]"
   - "[[Falsification]]"
+  - "[[Causality]]"
   - "[[Document]]"
   - "[[Formative Assessment]]"
   - "[[Learner-Centred Education]]"
@@ -85,7 +85,7 @@ updated: 2026-07-12
 
 > [!method-scope] 方法范围
 > - **研究对象** 一个受时空限定的案例：个体、群体、组织、项目、事件或过程
-> - **问题类型** 适合探究如何（how）和为什么（why）类[[Research Question|研究问题]]——需要理解[[Causality|因果]]机制而非仅判定相关关系
+> - **问题类型** 适合探究如何（how）和为什么（why）类[[Research Question|研究问题]]——需要理解因果机制而非仅判定相关关系
 > - **分析单位** 案例本身（可包含多个子分析单位），不是样本中的个体
 > - **输出形式** 叙事报告、主题分析、跨案例比较、理论建构
 
@@ -105,7 +105,7 @@ updated: 2026-07-12
 > [!method-position] [[Epistemology|认识论]]定位
 > - **知识观** 个案研究不追求统计代表性的普遍化，但追求在地方性知识基础上以小见大。Yin（2009）提出复制逻辑推广到更广泛的理论；Stake（1995）则提出[[Naturalistic Generalization|自然主义概括]]——推广的责任从研究者转移到读者（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch9, p. 215]]）
 > - **研究者角色** 研究者在个案中深度卷入，其人格和判断会影响研究（Hitchcock & Hughes, 1995）。不同于实验者操控[[Variable|变量]]或调查者询问标准化问题，个案研究者通过长期驻留和深度互动获取理解
-> - **有效性标准** [[Construct Validity|建构效度]]、[[Internal Validity|内部效度]]（[[Causality|因果]]解释性研究）、[[External Validity|外部效度]]、并发效度（[[Triangulation|三角验证]]）、[[Ecological Validity|生态效度]]、[[Reliability|信度]]（复制性和[[Internal Consistency|内部一致性]]）、避免偏误（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al., 2011, Ch14]]）
+> - **有效性标准** [[Construct Validity|建构效度]]、[[Internal Validity|内部效度]]（因果解释性研究）、[[External Validity|外部效度]]、并发效度（[[Triangulation|三角验证]]）、[[Ecological Validity|生态效度]]、[[Reliability|信度]]（复制性和[[Internal Consistency|内部一致性]]）、避免偏误（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al., 2011, Ch14]]）
 > - **不声称回答的问题** 不能进行统计推广（从样本到总体）；不能替代[[Experimental Research|实验研究]]进行精确的因果估计
 
 > [!method-stack] 方法层级
@@ -122,7 +122,7 @@ updated: 2026-07-12
 
 > [!feature] 个案研究的质量检验
 > - **[[Construct Validity|建构效度]]** 对研究概念形成正确可操作的测量，需确定[[Variable|变量]]变异水平、筛选反映变异的案例、采用多元证据来源并进行核实
-> - **[[Internal Validity|内在效度]]** 仅适用于[[Causality|因果]]解释性案例研究。包括理论解释与数据的吻合程度，以及排除竞争性解释的程度
+> - **[[Internal Validity|内在效度]]** 仅适用于因果解释性案例研究。包括理论解释与数据的吻合程度，以及排除竞争性解释的程度
 > - **外在效度** 研究结论的推广性程度，即能否推广到更多案例之中
 > - **[[Reliability|信度]]** 研究数据的可靠性程度。主要通过三角测量策略来提高，建立案例研究草案和数据库也有利于提高信度
 
@@ -192,7 +192,7 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 探究如何（how）和为什么（why）类[[Research Question|研究问题]]——需要理解[[Causality|因果]]机制而非仅判定相关关系；在已有关联性证据但缺乏过程理解的领域进行机制性探索；研究复杂社会过程中结构与能动性的互动
+> - **适合使用** 探究如何（how）和为什么（why）类[[Research Question|研究问题]]——需要理解因果机制而非仅判定相关关系；在已有关联性证据但缺乏过程理解的领域进行机制性探索；研究复杂社会过程中结构与能动性的互动
 > - **谨慎使用** 需要大样本统计推广的研究；时间资源极度受限的短期项目；高度敏感且无法进入现场的研究场景
 > - **不适合使用** 需要精确[[Causality|因果关系]]估计的[[Experimental Research|实验研究]]；仅需描述总体分布频率的调查
 

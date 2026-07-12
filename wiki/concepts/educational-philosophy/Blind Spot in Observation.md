@@ -22,7 +22,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[School Leadership]]"
   - "[[Structural Coupling]]"
-  - "[[Causality]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Phenomenology]]"

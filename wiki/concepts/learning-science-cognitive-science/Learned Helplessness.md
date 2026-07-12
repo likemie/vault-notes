@@ -16,6 +16,7 @@ tags:
   - theme/self-belief
 related_concepts:
   - "[[Entity vs Incremental Intelligence]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []

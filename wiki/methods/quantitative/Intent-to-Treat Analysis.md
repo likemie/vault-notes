@@ -15,7 +15,6 @@ tags:
 - method/intent-to-treat-analysis
 - method/quantitative
 related_concepts:
-  - "[[Causality]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
@@ -54,7 +53,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs 处理效应（Treatment Effect） — ITT 估计干预"提供"的效果，而非"接受"的效果
-> - vs 依从者平均[[Causality|因果]]效应（CACE） — CACE 估计实际接受干预者的效果，需要额外建模
+> - vs 依从者平均因果效应（CACE） — CACE 估计实际接受干预者的效果，需要额外建模
 
 ## 实证发现
 

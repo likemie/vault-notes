@@ -35,7 +35,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Fieldwork]]"
   - "[[Archival Research]]"
-  - "[[Member Checking]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"

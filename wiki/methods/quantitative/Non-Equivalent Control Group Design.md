@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Threats to Internal Validity]]"
   - "[[Causality]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Internal Validity]]"
 related_theories: []
 related_methods:
@@ -67,13 +68,13 @@ Campbell & Stanley (1963) 符号表示为：
 
 1. 在关键自[[Variable|变量]]上对实验组和控制组进行**匹配（[[Matching]]）**，然后[[Random Assignment|随机分配]]至两组。
 2. 若匹配不可行，使用**来自同一总体的样本**或尽可能相似的样本（Kerlinger, 1970）。
-3. 若完整组别差异较大，匹配可能因**回归效应（regression effects）**导致后测均值差异，此时匹配效果不佳。
+3. 若完整组别差异较大，匹配可能因**回归效应（regression effects）**导致[[Pre-test and Post-test|后测]]均值差异，此时匹配效果不佳。
 
 ## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用** 教育研究中无法[[Random Assignment|随机分配]]学校或班级的场景；需要对已有组别进行干预效果评估。
-> - **谨慎使用** 组间前测差异较大时；缺乏匹配[[Variable|变量]]时。
+> - **谨慎使用** 组间[[Pre-test and Post-test|前测]]差异较大时；缺乏匹配[[Variable|变量]]时。
 > - **不适合使用** 需要严格[[Causality|因果推断]]的研究。
 
 ## 局限性

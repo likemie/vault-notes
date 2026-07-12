@@ -23,6 +23,7 @@ related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Epistemology]]"
   - "[[Ideal Learner]]"
+  - "[[Conatus]]"
   - "[[Study Population and Sample]]"
   - "[[Chain of Evidence]]"
   - "[[Reliability]]"
@@ -115,7 +116,7 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 **四个探测维度([[Argument_Li_2012_Cambridge|Li, 2012, pp.95-96]])**
 1. 对知识本质、学习目的与过程、智力与卓越的看法
 2. 学习与道德发展之间关系的理解
-3. 日常学习情境中的行为（如高成就、高智力、失败、不理解概念、努力无效、无聊）
+3. 日常学习情境中的行为（如高成就、高智力、失败、不理解概念、[[Conatus|努力]]无效、无聊）
 4. 与好坏学习相关的情感模式
 
 **分析方法** 对书面描述同时进行质性分析和量化分析，生成四个维度的理想学习者画像([[Argument_Li_2012_Cambridge|Li, 2012, p.96]])。

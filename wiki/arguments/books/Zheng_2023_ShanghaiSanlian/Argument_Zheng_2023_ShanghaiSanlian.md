@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Hypothesis]]"
   - "[[Cultural Capital]]"
+  - "[[Conatus]]"
   - "[[Analytic Framework]]"
   - "[[Habitus]]"
   - "[[Champ]]"

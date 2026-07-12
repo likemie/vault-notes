@@ -21,6 +21,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods:

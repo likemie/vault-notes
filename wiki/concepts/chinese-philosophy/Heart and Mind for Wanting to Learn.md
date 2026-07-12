@@ -19,6 +19,7 @@ related_concepts:
   - "[[Faust]]"
   - "[[Enculturation]]"
   - "[[Learning Virtues]]"
+  - "[[Conatus]]"
   - "[[Cross-cultural Validity]]"
   - "[[Humility in Learning]]"
   - "[[Lifelong Learning]]"

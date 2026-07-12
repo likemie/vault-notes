@@ -29,6 +29,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Homework]]"
   - "[[Learning Gap]]"

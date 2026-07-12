@@ -38,7 +38,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Causality]]"
   - "[[External Validity]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"

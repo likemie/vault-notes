@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
+  - "[[Conatus]]"
   - "[[Implementation Fidelity]]"
   - "[[Literature Review]]"
 related_theories: []

@@ -20,12 +20,12 @@ tags:
   - experiment
   - online-research
 related_concepts:
-  - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Variable]]"
@@ -55,7 +55,7 @@ updated: 2026-07-13
 
 > [!method-scope] 方法范围
 > - **研究对象** 远程参与者，在其自身环境中接受实验刺激并作出反应。
-> - **问题类型** 与传统实验相同——检验干预或操纵是否产生[[Causality|因果]]效应，但增加了对远程参与行为和技术变异本身的研究。
+> - **问题类型** 与传统实验相同——检验干预或操纵是否产生因果效应，但增加了对远程参与行为和技术变异本身的研究。
 > - **分析单位** 个体参与者的反应数据（反应时、选择、问卷回答）。
 > - **输出形式** 组间比较（实验组 vs 控制组）、退出率分析、技术变异分析。
 
@@ -67,7 +67,7 @@ updated: 2026-07-13
 > - **不能推出的结论** 网络实验的结果不能自动等同于实验室实验的结果；技术变异和样本偏差可能产生系统性差异。
 
 > [!method-stack] 方法层级
-> - **研究设计** 沿用传统实验设计的逻辑（[[Random Assignment|随机分配]]、控制组、前测后测），但在远程环境中实施。
+> - **研究设计** 沿用传统实验设计的逻辑（[[Random Assignment|随机分配]]、控制组、[[Pre-test and Post-test|前测]]后测），但在远程环境中实施。
 > - **数据收集** 网页表单、邮件回复、聊天室记录、下载后离线运行再上传。
 > - **分析方法** 与传统实验相同的组间比较，额外关注退出率作为[[Dependent Variable|因变量]]、动机混淆检测、技术变异控制。
 > - **辅助技术** 商业网络实验软件（确保跨平台兼容性）、单次密码系统、一致性检查程序。

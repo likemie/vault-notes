@@ -26,6 +26,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Analytic Framework]]"
   - "[[Reliability]]"
+  - "[[Virtual Documents]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
 confidence: medium

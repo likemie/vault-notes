@@ -21,6 +21,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Operationalization]]"
   - "[[Order Effects]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Test-Retest Reliability]]"
   - "[[Construct]]"
   - "[[Internal Consistency]]"

@@ -45,6 +45,7 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Performativity]]"
   - "[[Matthew Effect in Academia]]"
+  - "[[Conatus]]"
   - "[[Varieties of Capitalism]]"
   - "[[Quasi-commodification of Knowledge]]"
   - "[[Knowledge Capitalism]]"
@@ -52,7 +53,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Field Images]]"
   - "[[Positioning Practice]]"
-  - "[[Causality]]"
   - "[[Analytic Framework]]"
   - "[[Sociology of Valuation and Evaluation]]"
 related_theories:

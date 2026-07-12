@@ -39,7 +39,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
-  - "[[Methodological Nationalism]]"
+  - "[[Methodological Statism]]"
 related_theories:
   - "[[Dependency Theory]]"
 related_methods: []
@@ -170,7 +170,7 @@ updated: 2026-07-11
 > [!theory-stance] [[Epistemology|认识论]]立场
 > - **[[Ontology|本体论]]** 国际社会并非静止的地理空间，而是由权力斗争（[[Realism in International Relations|现实主义]]）、法律规则（[[Rationalism in International Relations|理性主义]]）和压迫与解放（[[Revolutionism|革命主义]]）的多重本体建构而成的关系网络。
 > - **认识论** 否认存在中立的比较教育学术，任何比较实践都是地缘关系与政治哲学的投影；主张通过话语的“在场”与“缺席”解构学科知识的权力本质。
-> - **方法含义** 要求研究者抛弃[[Methodological Nationalism|方法论国家主义]]，将教育转移与流动的分析放置于超国家资本和地缘支配的宏观格局中；提倡运用历史解构、批判性话语分析和地缘政治分析开展研究。
+> - **方法含义** 要求研究者抛弃[[Methodological Statism|方法论国家主义]]，将教育转移与流动的分析放置于超国家资本和地缘支配的宏观格局中；提倡运用历史解构、批判性话语分析和地缘政治分析开展研究。
 > - **不能直接推出的东西** 本理论不提供关于“如何改良教育体系”的直接技术方案，也不提供某种具有普适性的最佳政策转移模式。
 
 > [!theory-use] 如何用于研究

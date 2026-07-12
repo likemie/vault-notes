@@ -19,7 +19,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"
-  - "[[Causality]]"
   - "[[Effect Size]]"
   - "[[Domain Analysis]]"
   - "[[Progressive Focussing]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Familiarization]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Causality]]"
 related_theories:
   - "[[Critical Ethnography]]"
 related_methods:
@@ -40,7 +40,6 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Case Study]]"
   - "[[Triangulation]]"
-  - "[[Member Checking]]"
   - "[[Grounded Theory]]"
   - "[[Autoethnography]]"
   - "[[Non-participant Observation]]"
@@ -80,8 +79,8 @@ updated: 2026-07-11
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。
 > - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。角色在参与-观察光谱上滑动（Figure 11.4），Swain（2006）指出研究者在实践中可能需要在从完全被动到完全积极的整个连续体上切换角色。
-> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、[[Respondent Validation|成员检查]]、同伴情况报告。Spindler 和 Spindler（1992: 65）认为[[Ethnography|民族志]]效度通过研究者在场时间足够长、观察到事件重复发生来获得。
-> - **不声称回答的问题** 不能估计[[Causality|因果]][[Effect Size|效应量]]、不能统计概括到人口总体、不能从观察中直接推断参与者的内在心理状态。
+> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler 和 Spindler（1992: 65）认为[[Ethnography|民族志]]效度通过研究者在场时间足够长、观察到事件重复发生来获得。
+> - **不声称回答的问题** 不能估计因果[[Effect Size|效应量]]、不能统计概括到人口总体、不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Grounded Theory|扎根理论]]民族志、[[Autoethnography|自我民族志]]。
@@ -103,7 +102,7 @@ updated: 2026-07-11
 > 1. 书写详尽的田野笔记——既在现场书写也远离现场补充——记录观察到的行为、对话、非语言线索和研究者自身的反应。
 > 2. 将田野笔记和转录材料[[Coding in Qualitative Research|编码]]为分析单元；进行[[Domain Analysis|领域分析]]以归组相关主题；识别核心主题和"底层关联"。
 > 3. 撰写分析备忘录，记录[[Reflexivity|反身性]]观察、临时[[Hypothesis|假设]]和理论之间的关系发展。
-> 4. 使用[[Triangulation|三角验证]]（多数据源、多方法）、[[Respondent Validation|成员检查]]和同伴情况报告来增强可[[Reliability|信度]]；主动寻找负面案例和偏差案例。
+> 4. 使用[[Triangulation|三角验证]]（多数据源、多方法）、成员检查和同伴情况报告来增强可[[Reliability|信度]]；主动寻找负面案例和偏差案例。
 
 ---
 
@@ -152,7 +151,7 @@ Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段�
 > - **偏误来源** 反应性（研究者改变情境）、研究者偏见（选择性注意和解释）、光环/牛角效应（对参与者的预判影响观察）。
 > - **适用边界** 研究发现通常不可统计概括到总人口；严重依赖研究者在场时间长度和质量；进入和维持[[Champ|场域]]关系可能极困难或不可能。
 > - **误用风险** 将短暂的现场访问等同于参与观察；未进行足够时间的驻留即声称达到"饱和"；以研究者自身解释替代参与者观点。
-> - **补救方式** 延长驻留、[[Respondent Validation|成员检查]]、[[Triangulation|三角验证]]（多方法、多观察者）、[[Reflexivity|反身性]]日志、同伴情况报告。
+> - **补救方式** 延长驻留、成员检查、[[Triangulation|三角验证]]（多方法、多观察者）、[[Reflexivity|反身性]]日志、同伴情况报告。
 
 ## 使用此方法的研究
 

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[T-Shaped Skills]]"
+  - "[[Conatus]]"
   - "[[Literature Search]]"
   - "[[Operationalization]]"
 related_theories: []

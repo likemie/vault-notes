@@ -18,6 +18,7 @@ tags:
 - sociology-of-education
 - level/higher-ed
 related_concepts:
+  - "[[Conatus]]"
   - "[[Global Universities Rankings]]"
   - "[[Hypothesis]]"
 related_theories: []

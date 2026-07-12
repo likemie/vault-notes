@@ -11,11 +11,11 @@ theory_related_color: "#e0e7ff"
 tags: [theory/complexity, paradigm/complexity, theme/research-philosophy]
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Causality]]"
   - "[[Emergence]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Causality]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
@@ -48,7 +48,7 @@ updated: 2026-07-13
 ## 理论定位
 
 > [!def] 复杂性理论
-> 教育研究中一个正在兴起的新[[Paradigm|范式]]（Medd, 2002; Radford, 2006, 2007, 2008; Kuhn, 2007; Morrison, 2002a, 2008），将学校视为**复杂适应系统（complex adaptive systems, Kauffman, 1995）**。它以有机的、非线性的和整体的方法取代简单的[[Causality|因果]]模型和原子化的分析方法（Santonus, 1998: 3; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。
+> 教育研究中一个正在兴起的新[[Paradigm|范式]]（Medd, 2002; Radford, 2006, 2007, 2008; Kuhn, 2007; Morrison, 2002a, 2008），将学校视为**复杂适应系统（complex adaptive systems, Kauffman, 1995）**。它以有机的、非线性的和整体的方法取代简单的因果模型和原子化的分析方法（Santonus, 1998: 3; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。
 
 > [!theory-position] 复杂性理论在知识地图中的位置
 > - **解释对象** 教育系统中的非线性变化、[[Emergence|涌现]]行为、自组织和不可预测性——这些是线性因果模型无法解释的现象。
@@ -61,11 +61,11 @@ updated: 2026-07-13
 ### 核心主张：线性因果模型在复杂教育系统中失效
 
 > [!claim] 复杂理论对传统实验逻辑的根本挑战
-> 传统实验方法假定：控制[[Variable|变量]]→操纵[[Independent Variable|自变量]]→测量[[Dependent Variable|因变量]]变化→推断[[Causality|因果]]。复杂性理论指出，这一假定依赖三个在真实教育情境中不成立的前提：(1) 原因和效果之间存在线性关系（小原因小效果、大原因大效果）；(2) 变量可以被隔离和控制而不改变系统的其他部分；(3) 实验室中的发现在开放系统中可以推广。
+> 传统实验方法假定：控制[[Variable|变量]]→操纵[[Independent Variable|自变量]]→测量[[Dependent Variable|因变量]]变化→推断因果。复杂性理论指出，这一假定依赖三个在真实教育情境中不成立的前提：(1) 原因和效果之间存在线性关系（小原因小效果、大原因大效果）；(2) 变量可以被隔离和控制而不改变系统的其他部分；(3) 实验室中的发现在开放系统中可以推广。
 
 > [!proposition-chain] 复杂性理论的核心命题链
 > - **前提一：教育系统是复杂适应系统** 学校由大量相互连接的要素（学生、教师、家庭、社区、政策）组成，要素之间的互动产生不可预测的全局行为。
-> - **前提二：非线性因果关系** 小原因可产生大效应，大原因可能无效应。将现象原子化为可测量变量会错失协同效应和整体精神（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 319]]）。
+> - **前提二：非线性[[Causality|因果关系]]** 小原因可产生大效应，大原因可能无效应。将现象原子化为可测量变量会错失协同效应和整体精神（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 319]]）。
 > - **前提三：[[Emergence|涌现]]替代控制** 系统从低层复杂性产生高层复杂性和新形式，源于相对简单的局部规则——全局秩序是涌现的而非设计或控制的（Waldrop, 1992: 16–17）。
 > - **结论** 在动态、演化、流动、开放的情境中保持变量恒定是误导性的。[[Randomised Controlled Trials|RCT]] 属于一种已被质疑的[[Positivism|实证主义]]科学观（Morrison, 2001; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 319–320]]）。
 
@@ -112,8 +112,8 @@ updated: 2026-07-13
 ## 适用边界
 
 > [!theory-boundary] 复杂性理论的适用边界
-> - **适合** 研究涉及多层互动、不可预测的变化、网络效应或[[Emergence|涌现]]行为的现象；批判传统线性[[Causality|因果]]模型时；设计[[Mixed Methods Research|混合方法]]或[[Longitudinal Study|纵向研究]]时。
-> - **谨慎** 需要明确的因果推断时——复杂性理论本身不能替代因果推断方法，只能框定其适用范围。
+> - **适合** 研究涉及多层互动、不可预测的变化、网络效应或[[Emergence|涌现]]行为的现象；批判传统线性因果模型时；设计[[Mixed Methods Research|混合方法]]或[[Longitudinal Study|纵向研究]]时。
+> - **谨慎** 需要明确的[[Causality|因果推断]]时——复杂性理论本身不能替代因果推断方法，只能框定其适用范围。
 > - **不适合** 需要确定单一干预的因果效应且系统相对封闭时（如药物实验）——在这种条件下，传统实验方法仍然是合适的选择。
 > - **常见误用** 以"复杂性"为借口放弃严谨——复杂性理论要求更精细的研究设计，而非更随意的方法选择。
 

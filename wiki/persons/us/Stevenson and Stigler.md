@@ -18,6 +18,7 @@ person_related_color: "#e5e7eb"
 tags: ["region/us", "field/comparative-education", "field/developmental-psychology"]
 related_concepts:
   - "[[Learning Gap]]"
+  - "[[Conatus]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
@@ -45,7 +46,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]-
-> Stevenson 和 Stigler 的核心命题是：东亚学生在数学和科学成就上的持续领先，不能简单归因于先天能力差异或考试制度压力，而应追溯至更深层的文化信念和实践模式。他们发现，美国儿童、家长和教师倾向于用能力 (ability) 来解释学业成就，而东亚对应群体则归因于努力 (effort)。他们将这一系统性差异命名为**学习鸿沟（the [[Learning Gap]]）([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])**。
+> Stevenson 和 Stigler 的核心命题是：东亚学生在数学和科学成就上的持续领先，不能简单归因于先天能力差异或考试制度压力，而应追溯至更深层的文化信念和实践模式。他们发现，美国儿童、家长和教师倾向于用能力 (ability) 来解释学业成就，而东亚对应群体则归因于[[Conatus|努力]] (effort)。他们将这一系统性差异命名为**学习鸿沟（the [[Learning Gap]]）([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])**。
 
 > [!quote]
 > "They found that whereas American children, parents, and teachers explained children's achievement based on the notion of ability, their Asian counterparts attributed children's achievement to their effort. They dubbed this learning difference the 'learning gap'."([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])
@@ -55,6 +56,6 @@ updated: '2026-06-08'
 ## 影响
 
 > [!success]
-> - 开启了西方学界对东亚学生学习机制的大规模比较研究兴趣，使能力与努力的归因差异成为跨文化学习研究的核心议题之一([[Argument_Li_2012_Cambridge|Li, 2012, p.70]])。
+> - 开启了西方学界对东亚学生学习机制的大规模比较研究兴趣，使能力与[[Conatus|努力]]的归因差异成为跨文化学习研究的核心议题之一([[Argument_Li_2012_Cambridge|Li, 2012, p.70]])。
 > - 其研究发现直接推动了后续对[[Chinese Learner|中国学习者]]努力概念的深入探索。例如，香港研究者发现，对西方学生而言努力是情境性、不稳定的内部因素，但对中国学生而言努力是跨越时间与情境的稳定特质([[Argument_Li_2012_Cambridge|Li, 2012, p.70-71]])。
 > - 激发了一系列关于美亚课程差异、课堂教学差异和家庭因素的后续研究，覆盖范围从日本扩展到新加坡、韩国、香港和台湾([[Argument_Li_2012_Cambridge|Li, 2012, p.71-72]])。

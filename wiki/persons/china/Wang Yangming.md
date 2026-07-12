@@ -26,6 +26,7 @@ related_concepts:
   - "[[Sage]]"
   - "[[Four Sprouts]]"
   - "[[Subjectivism]]"
+  - "[[Conatus]]"
 related_theories:
   - "[[Neo-Confucianism]]"
 related_methods: []
@@ -131,7 +132,7 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning]
-> - 王阳明对"良知"的强调，如果脱离了严格的[[Self-Cultivation|修身]]实践，可能导致[[Subjectivism|主观主义]]——"既然良知人人都有，那还需要努力学习吗？"（这一点在阳明后学中确实出现了"空谈心性"的流弊）
+> - 王阳明对"良知"的强调，如果脱离了严格的[[Self-Cultivation|修身]]实践，可能导致[[Subjectivism|主观主义]]——"既然良知人人都有，那还需要[[Conatus|努力]]学习吗？"（这一点在阳明后学中确实出现了"空谈心性"的流弊）
 > - 程朱与阳明之争持续数百年，到清代考据学兴起后，两者的对立也被学者反思和调和
 
 ---

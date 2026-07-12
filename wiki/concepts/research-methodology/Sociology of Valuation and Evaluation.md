@@ -21,7 +21,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Performativity of Measurement]]"
-  - "[[Causality]]"
   - "[[Reliability]]"
   - "[[Discursive Stratification]]"
   - "[[Knowledge Capitalism]]"
@@ -52,7 +51,7 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs [[Performativity of Measurement]]：测量的履行性关注指标如何改变被测量者的行为——一个更具体的[[Causality|因果]]机制。评估与赋值社会学关注更广泛的制度和文化过程——评估工具如何建立信任、制造合法性和塑造公平标准。
+> - vs [[Performativity of Measurement]]：测量的履行性关注指标如何改变被测量者的行为——一个更具体的因果机制。评估与赋值社会学关注更广泛的制度和文化过程——评估工具如何建立信任、制造合法性和塑造公平标准。
 > - vs [[Cultural Political Economy]]：CPE 关注符号与物质在宏观经济政治秩序中的相互构成；评估与赋值社会学更聚焦于中观层面的评价工具和评价实践的社会效应。
 > - vs 批判话语分析：两者都关注评价话语的建构性，但评估与赋值社会学更注重经验性的比较研究（如 Lamont 2009 对同行评审中学科特定公平标准的跨国比较），而非哲学性的解构。
 

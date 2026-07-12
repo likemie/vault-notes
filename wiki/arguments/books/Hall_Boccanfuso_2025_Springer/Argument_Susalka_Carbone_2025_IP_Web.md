@@ -19,6 +19,7 @@ related_concepts:
   - "[[Background IP]]"
   - "[[Technology Transfer]]"
   - "[[Blue Skies Research]]"
+  - "[[Conatus]]"
   - "[[Technology Transfer Office]]"
 related_theories: []
 related_methods: []

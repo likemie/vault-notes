@@ -25,11 +25,11 @@ tags:
 related_concepts:
   - "[[Analytic Framework]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
   - "[[Educated Identity]]"
   - "[[Graduate Attributes]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Methodological Statism]]"
   - "[[Methodological Educationism]]"
   - "[[Reflexivity]]"
   - "[[Knowledge-Based Economy]]"

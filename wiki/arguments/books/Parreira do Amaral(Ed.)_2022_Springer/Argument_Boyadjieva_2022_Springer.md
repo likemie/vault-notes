@@ -31,6 +31,7 @@ related_concepts:
   - "[[Social Charter]]"
   - "[[Champ]]"
   - "[[Document]]"
+  - "[[Conatus]]"
   - "[[Employability]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"

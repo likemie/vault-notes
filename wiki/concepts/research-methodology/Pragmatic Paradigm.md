@@ -19,7 +19,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Postpositivism]]"
-  - "[[Causality]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatism in China]]"
 related_theories: []

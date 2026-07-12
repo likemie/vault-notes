@@ -21,6 +21,7 @@ tags:
   - theme/self-development
 related_concepts:
   - "[[Pride in Learning]]"
+  - "[[Conatus]]"
   - "[[Learning Virtues]]"
   - "[[Causality]]"
 related_theories:

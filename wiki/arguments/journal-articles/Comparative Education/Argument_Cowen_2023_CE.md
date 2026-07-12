@@ -31,6 +31,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Deductive Rationality]]"
   - "[[Heroic, Strange, and Barbaric]]"
+  - "[[Conatus]]"
   - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Document]]"

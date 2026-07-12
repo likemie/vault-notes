@@ -22,6 +22,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Internal Validity]]"
   - "[[Research Purpose]]"
+  - "[[Conatus]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft

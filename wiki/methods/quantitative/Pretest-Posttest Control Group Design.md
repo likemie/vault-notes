@@ -18,13 +18,14 @@ tags:
   - quantitative-research
   - design-type
 related_concepts:
-  - "[[Causality]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
   - "[[Threats to Internal Validity]]"
   - "[[Internal Validity]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Variable]]"
   - "[[Counterfactual]]"
+  - "[[Causality]]"
   - "[[Interaction Effect]]"
   - "[[Sample Size Determination]]"
   - "[[Ecological Validity]]"
@@ -46,8 +47,8 @@ updated: 2026-07-13
 
 ## 定义
 
-> [!def] 前后测控制组设计
-> 前后测控制组设计（Pretest-Posttest Control Group Design）是最经典的[[True Experimental Design|真实验设计]]：参与者通过[[Random Assignment|随机分配]]分为实验组和控制组，两组均接受前测（O₁ 和 O₃）和后测（O₂ 和 O₄），仅实验组接受干预（X）。[[Causality|因果]]效应的估计量为 (O₂−O₁) − (O₄−O₃)（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 317–319]]）。
+> [!def] 前[[Pre-test and Post-test|后测]]控制组设计
+> 前后测控制组设计（Pretest-Posttest Control Group Design）是最经典的[[True Experimental Design|真实验设计]]：参与者通过[[Random Assignment|随机分配]]分为实验组和控制组，两组均接受前测（O₁ 和 O₃）和后测（O₂ 和 O₄），仅实验组接受干预（X）。因果效应的估计量为 (O₂−O₁) − (O₄−O₃)（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 317–319]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至实验组和控制组的参与者。
@@ -58,7 +59,7 @@ updated: 2026-07-13
 ## 方法定位
 
 > [!method-position] 在[[True Experimental Design|真实验设计]]中的核心地位
-> - **为何是金标准** Campbell & Stanley (1963) 认为该设计强大到足以控制第 10 章中识别的所有[[Threats to Internal Validity|内部效度威胁]]——[[Random Assignment|随机化]]排除选择偏差，控制组排除历史和成熟效应，前测验证基线等价。
+> - **为何是金标准** Campbell & Stanley (1963) 认为该设计强大到足以控制第 10 章中识别的所有[[Threats to Internal Validity|内部效度威胁]]——[[Random Assignment|随机化]]排除选择偏差，控制组排除历史和成熟效应，[[Pre-test and Post-test|前测]]验证基线等价。
 > - **有效性标准** [[Internal Validity|内部效度]]最高——是区分真实验与准实验的基准设计。
 > - **不能回答的问题** 无法区分干预效应中是否有[[Pre-test Sensitisation|前测敏感化]]的贡献——前测可能使受试者对干预更加敏感（Good, 1963）。如需分离前测效应，需升级至[[Solomon Four-Group Design|所罗门四组设计]]。
 
@@ -70,13 +71,13 @@ updated: 2026-07-13
 
 ## 研究程序
 
-> [!design-notation] 前后测控制组设计
+> [!design-notation] 前[[Pre-test and Post-test|后测]]控制组设计
 > 参与者[[Random Assignment|随机分配]]至实验组和控制组，两组均接受前测和后测，仅实验组接受干预（pp. 317–319）：
 >
 > - **实验组** **R** ==O₁== `X` ==O₂==
 > - **控制组** **R** ==O₃== ~~·~~ ==O₄==
 
-$$\text{[[Causality|因果]]效应} = (O_2 - O_1) - (O_4 - O_3)$$
+$$\text{因果效应} = (O_2 - O_1) - (O_4 - O_3)$$
 
 > [!warrant]- 为什么需要前测和随机分配？
 > **前测（O₁ 和 O₃）**确保两组在干预前基线等价——如果随机化成功，O₁ 和 O₃ 的均值应接近。**随机分配（R）**使两组在所有已知和未知[[Variable|变量]]上等价，排除选择偏差。**控制组**提供[[Counterfactual|反事实]]参照——O₄−O₃ 是自然变化，O₂−O₁ 是干预+自然变化，两者相减即得纯净的干预效应。
@@ -84,14 +85,14 @@ $$\text{[[Causality|因果]]效应} = (O_2 - O_1) - (O_4 - O_3)$$
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 可以[[Random Assignment|随机分配]]参与者且可以进行前测时；需要最高[[Internal Validity|内部效度]]的[[Causality|因果推断]]时；经典的教育实验情境。
+> - **适合使用** 可以[[Random Assignment|随机分配]]参与者且可以进行[[Pre-test and Post-test|前测]]时；需要最高[[Internal Validity|内部效度]]的[[Causality|因果推断]]时；经典的教育实验情境。
 > - **谨慎使用** 担心前测可能产生敏感化效应时——考虑升级至[[Solomon Four-Group Design|所罗门四组设计]]。
 > - **不适合使用** 无法随机分配时（使用[[Quasi-Experimental Designs|准实验设计]]）；前测不可能或不道德时（使用仅后测设计）。
 
 ## 局限性
 
 > [!method-limits]
-> - **[[Pre-test Sensitisation|前测敏感化]]** 前测可能使受试者对干预更加敏感，前测×处理的[[Interaction Effect|交互效应]]可能混淆干预效应的估计（Good, 1963）。
+> - **[[Pre-test Sensitisation|前测敏感化]]** [[Pre-test and Post-test|前测]]可能使受试者对干预更加敏感，前测×处理的[[Interaction Effect|交互效应]]可能混淆干预效应的估计（Good, 1963）。
 > - **[[Sample Size Determination|样本量]]需求** 两组设计需要足够的样本量才能使[[Random Assignment|随机化]]发挥有效控制。
 > - **推广性受限** 实验室或高度受控情境中的发现可能缺乏[[Ecological Validity|生态效度]]。
 
@@ -108,5 +109,5 @@ $$\text{[[Causality|因果]]效应} = (O_2 - O_1) - (O_4 - O_3)$$
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 将前后测控制组设计列为[[True Experimental Design|真实验设计]]的基本形式，以 Campbell & Stanley 符号系统表示。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 将前[[Pre-test and Post-test|后测]]控制组设计列为[[True Experimental Design|真实验设计]]的基本形式，以 Campbell & Stanley 符号系统表示。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Bhadwal & Panda (1991) 印度农村阅读研究为例，展示前后测控制组加两个控制组的扩展设计。

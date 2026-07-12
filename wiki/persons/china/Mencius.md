@@ -26,6 +26,7 @@ related_concepts:
   - "[[Benevolence]]"
   - "[[Rightness]]"
   - "[[Ritual Propriety]]"
+  - "[[Conatus]]"
   - "[[Junzi]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Bildung]]"
@@ -98,7 +99,7 @@ updated: '2026-06-08'
 
 ### 3. 自力得之：修身的个人责任
 
-四端只是萌芽（mere germinations）——"单凭这些人类能力本身并不会导致伟大的道德成就"。每个人必须付出巨大努力来持续学习和自我完善，以实现自己的全部道德潜能([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
+四端只是萌芽（mere germinations）——"单凭这些人类能力本身并不会导致伟大的道德成就"。每个人必须付出巨大[[Conatus|努力]]来持续学习和自我完善，以实现自己的全部道德潜能([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
 
 孟子建议学习者："[[Junzi|君子]]深造之以道，欲其自得之也"——君子深研道，是因为他想在自己身上找到它（自得之）([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
 

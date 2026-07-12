@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Criterion-related Validity]]"
   - "[[Concurrent Validity]]"
+  - "[[Pre-test and Post-test]]"
 related_methods:
   - "[[Triangulation]]"
 related_arguments:

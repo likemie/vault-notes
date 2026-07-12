@@ -15,12 +15,13 @@ tags:
   - method/research-methods
   - theme/validity
 related_concepts:
+  - "[[Conatus]]"
   - "[[Experimenter Bias]]"
-  - "[[Causality]]"
   - "[[Informed Consent]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
 related_methods:
   - "[[Random Assignment]]"

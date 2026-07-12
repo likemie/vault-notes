@@ -21,6 +21,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Conatus]]"
   - "[[Academic Capitalism]]"
   - "[[Fictitious Commodity of Knowledge]]"
   - "[[Knowledge-Based Economy]]"

@@ -102,14 +102,14 @@ updated: 2026-07-13
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - 当随机实验不可行、不道德或成本过高时，匹配提供了从观察数据中推断[[Causality|因果]]效应的替代方法
+> - 当随机实验不可行、不道德或成本过高时，匹配提供了从观察数据中推断因果效应的替代方法
 > - 当研究人员有过去研究和理论的坚实基础来论证相关协[[Variable|变量]]已被纳入匹配时——因为"样本中的平衡并不意味着未观测协变量也存在平衡"([[Argument_Berk_2011_ER|Berk, 2011, p.198]])
 > - 大型观察性研究中"使用匹配来调整混杂因素有时可以提供有启发性的结果"([[Argument_Berk_2011_ER|Berk, 2011, p.195]])
 
 ## 局限性
 
 > [!method-limits]
-> - **对未观测混杂因素的敏感性** "样本中的平衡并不意味着未观测协[[Variable|变量]]也存在平衡"([[Argument_Berk_2011_ER|Berk, 2011, p.198]])。匹配仅能基于已观测和已包含的协变量建立可比性——如果关键混杂因素未被测量，结果的[[Causality|因果]]解释仍然脆弱。
+> - **对未观测混杂因素的敏感性** "样本中的平衡并不意味着未观测协[[Variable|变量]]也存在平衡"([[Argument_Berk_2011_ER|Berk, 2011, p.198]])。匹配仅能基于已观测和已包含的协变量建立可比性——如果关键混杂因素未被测量，结果的因果解释仍然脆弱。
 > - **需要满足与随机实验相同的[[Hypothesis|假设]]** 匹配不能豁免随机实验所需的关键假设——同样必须满足无干扰（no interference）的 [[Stable Unit Treatment Value Assumption|SUTVA]] 要求([[Argument_Berk_2011_ER|Berk, 2011, p.199]])。
 > - **远不如[[Random Assignment|随机化]]** Smith (1991, p. 215) 指出匹配最常用于准实验和非[[Experimental Research|实验研究]]，在排除替代因果解释方面远不如随机化——随机化控制所有变量，匹配只控制命名变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 323]]）。
 > - **样本缩减风险** 匹配可能导致样本大幅缩减——Lewis-Beck (1993) 报告了一个从 1,194 缩减至 46 的实例（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch15]]）。
@@ -131,5 +131,5 @@ updated: 2026-07-13
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Berk_2011_ER|Berk (2011)]] — 将匹配推荐为[[Causal Modeling|因果建模]]的替代方法，论证其更少依赖不可检验[[Hypothesis|假设]]，更多受实证诊断约束。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al. (2011, Ch. 15)]] — 将匹配列为[[Ex Post Facto Research|事后回溯研究]]中最常用的控制手段之一，在[[Causality|因果]]-比较设计中通过匹配实验组与对照组的关键特征提高可比性；同时指出匹配可能导致样本大幅缩减（Lewis-Beck, 1993 报告从 1,194 缩减至 46 的实例）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al. (2011, Ch. 15)]] — 将匹配列为[[Ex Post Facto Research|事后回溯研究]]中最常用的控制手段之一，在因果-比较设计中通过匹配实验组与对照组的关键特征提高可比性；同时指出匹配可能导致样本大幅缩减（Lewis-Beck, 1993 报告从 1,194 缩减至 46 的实例）。
 

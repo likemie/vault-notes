@@ -24,12 +24,19 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Ontology]]"
-  - "[[Causality]]"
   - "[[Visible Learning]]"
-  - "[[Statistical Significance]]"
   - "[[Variable]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Sampling Error]]"
+  - "[[Fitness for Purpose]]"
+  - "[[Reliability]]"
+  - "[[Statistical Significance]]"
   - "[[Research Utilization]]"
+  - "[[Class Size]]"
   - "[[Publication Bias]]"
+  - "[[Critique of Meta-analysis]]"
+  - "[[Document]]"
   - "[[Whole Language]]"
   - "[[Homework]]"
   - "[[External Validity]]"
@@ -39,8 +46,6 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Literature Review]]"
-  - "[[Document]]"
-  - "[[Class Size]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -51,6 +56,8 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Systematic Review]]"
   - "[[Quantitative Research]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Experimental Research]]"
   - "[[Observation Method]]"
   - "[[Random Assignment]]"
 related_persons:
@@ -62,6 +69,7 @@ related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Snook_2010_NZJES]]"
   - "[[Argument_Berk_2011_ER]]"
@@ -126,7 +134,7 @@ updated: 2026-07-08
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 元分析隐含经验主义认识论：[[Hypothesis|假设]]通过对多个研究的[[Effect Size|效应量]]进行统计平均，可以产生关于干预有效性的可靠知识。[[Critical Realism|批判实在论]]从三层[[Ontology|本体论]]（实在/实际/经验）角度批评这一假设——元分析停留在"经验"层面（观察到的效应量），未能深入"实在"层面（产生效应的[[Causality|因果]]机制及其激活条件）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 116–117]])。
+> 元分析隐含经验主义认识论：[[Hypothesis|假设]]通过对多个研究的[[Effect Size|效应量]]进行统计平均，可以产生关于干预有效性的可靠知识。[[Critical Realism|批判实在论]]从三层[[Ontology|本体论]]（实在/实际/经验）角度批评这一假设——元分析停留在"经验"层面（观察到的效应量），未能深入"实在"层面（产生效应的因果机制及其激活条件）([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 116–117]])。
 
 ## 操作步骤
 
@@ -142,20 +150,20 @@ updated: 2026-07-08
 
 Glass et al.（1981）和 Hunter et al.（1982）提出了八步程序（pp.105–118）：
 
-1. 确定关注的变量（自变量和因变量）
-2. 识别所有涉及这些变量的研究
-3. 对每项研究编码可能预测结果和效应量的特征（如参与者年龄、性别、种族、干预持续时间）
+1. 确定关注的[[Variable|变量]]（[[Independent Variable|自变量]]和[[Dependent Variable|因变量]]）
+2. 识别所有涉及这些变[[Quantitative Research|量的研究]]
+3. 对每项研究[[Coding in Qualitative Research|编码]]可能预测结果和效应量的特征（如参与者年龄、性别、种族、干预持续时间）
 4. 计算每对变量（因变量和自变量）的效应量（见 Glass, 1977），按样本量加权
 5. 计算跨研究效应量的均值和标准差（跨研究方差）
-6. 确定抽样误差、测量误差和范围限制的影响
+6. 确定[[Sampling Error|抽样误差]]、测量误差和范围限制的影响
 7. 如果方差的大部分可归因于步骤 6 的问题，平均效应量可被视为变量间关系的准确估计
 8. 如果方差的大部分不可归因于步骤 6，则审查与效应量相关的特征
 
 Cook et al.（1992: 7–12）提出了四阶段整合性综述模型（pp.120–132）：
 
 1. **问题形成** 高质量元分析必须在综述的设计、执行和分析上保持严谨
-2. **数据收集** 纳入研究的抽样必须展示目的适配性
-3. **数据检索与分析** 处理非实验研究（整合性综述即属此类）中的效度威胁——效度必须展示目的适配性、编码信度，并关注原始研究的方法论严谨性
+2. **数据收集** 纳入研究的抽样必须展示[[Fitness for Purpose|目的适配性]]
+3. **数据检索与分析** 处理非[[Experimental Research|实验研究]]（整合性综述即属此类）中的效度威胁——效度必须展示目的适配性、编码[[Reliability|信度]]，并关注原始研究的方法论严谨性
 4. **分析与解释** 多项研究的累积发现应被视为复杂数据点，需要通过细致的统计分析来解释
 
 Fitz-Gibbon（1984: 141–142）的四步法（pp.134–142）：
@@ -196,7 +204,7 @@ Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不�
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.5)]]从支持者立场提出"观察透镜"论证：元分析是系统观察的一种形式，所有观察都从特定位置和特定透镜进行，元分析透镜产生的图像与定性[[Observation Method|观察研究]]的图像不同但互补——前提是两者均遵循高效度标准
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]的谨慎立场：如果且仅当满足 11 项条件，元分析才可能值得严肃对待
 
-> [!example]- 案例：班级规模与学习成就（Glass & Smith, 1978）
+> [!example]- 案例：[[Class Size|班级规模]]与学习成就（Glass & Smith, 1978）
 > Glass & Smith（1978）和 Glass et al.（1981: 35–44）识别了 77 项关于班级规模与学生学习的实证研究。这些研究产生了 725 项关于较小班级和较大班级成就的比较，数据累积来自近 90 万名各年龄段和能力的学生，学习各学科。使用回归分析，725 项比较被整合为一条显示班级规模与成就关系的单一曲线。该曲线揭示了班级规模与学生学习之间存在明确的负相关。当研究者为不同情境（如年级水平、学科、学生能力等）推导类似曲线时，几乎没有任何特殊情境改变了这一基本关系。只有一个因素显著影响了曲线——原始研究是否在将学生和教师分配到大小班级时进行了充分的实验控制。控制充分和不充分的曲线见图 17.1。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, pp.237–244)]]
 
 ---
@@ -204,7 +212,7 @@ Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不�
 ## 局限性
 
 > [!warning] 批判总览
-> 元分析面临来自方法论前提、操作程序、统计推断和政策用途等多层面的系统批判，涵盖研究可比性（苹果和橙子问题）、输入质量（垃圾进垃圾出）、[[Publication Bias|发表偏倚]]、非独立数据、过度简化、伪精确性、抽样与伦理问题等。详细的批判维度与回应见 [[Critique of Meta-analysis]]。以下聚焦已被其他文献深入讨论的关键局限。
+> 元分析面临来自方法论前提、操作程序、统计推断和政策用途等多层面的系统批判，涵盖研究可比性（苹果和橙子问题）、输入质量（垃圾进垃圾出）、[[Publication Bias|发表偏倚]]、非独立数据、过度简化、伪精确性、抽样与伦理问题等。详细的批判维度与回应见 [[Critique of Meta-analysis]]。以下聚焦已被其他[[Document|文献]]深入讨论的关键局限。
 > **Eysenck (1978) — 垃圾进，垃圾出**
 >
 > Eysenck（1978, p.517）对元分析提出了著名的早期批评，指出元分析的不加区分性质——每个与选定领域相关的研究都被用于计算[[Effect Size|效应量]]，而不论不同研究的质量或严谨性：
@@ -289,7 +297,7 @@ Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不�
 > 这一批评的核心在于：元分析在医学中成功运作的条件（概念清晰、设计标准化、机制可分离）在教育领域经常不成立——这不是方法论执行缺陷的问题，而是方法本身与研究对象之间的基础性不匹配。
 
 
-> [!warning] 平均效应的误导性与[[Causality|因果]]信息的丧失
+> [!warning] 平均效应的误导性与因果信息的丧失
 > **Kluger & DeNisi (1996) — 反馈元分析：平均效应的误导性案例**
 >
 > [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.10–11)]]以 Kluger & DeNisi的反馈元分析为例展示平均效应量的误导性：
@@ -383,7 +391,7 @@ Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不�
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Critical Realism]] — 为元分析的经验主义[[Hypothesis|假设]]提供了系统的哲学批判：[[Causality|因果]]机制而非[[Effect Size|效应量]]平均值才是科学知识的真正对象
+> - [[Critical Realism]] — 为元分析的经验主义[[Hypothesis|假设]]提供了系统的哲学批判：因果机制而非[[Effect Size|效应量]]平均值才是科学知识的真正对象
 
 ---
 
@@ -400,7 +408,7 @@ Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不�
 ## 替代方案
 
 
-Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研究综述应基于[[Causality|因果]]理论（干预"为什么有效、对谁有效、在什么条件下有效"），基于理论和相关性而非纯技术标准选择源研究，并以揭示效应变异性的分散图景（而非单一平均值）为输出形式([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 119, 123]])。
+Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研究综述应基于因果理论（干预"为什么有效、对谁有效、在什么条件下有效"），基于理论和相关性而非纯技术标准选择源研究，并以揭示效应变异性的分散图景（而非单一平均值）为输出形式([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 119, 123]])。
 
 ---
 

@@ -20,7 +20,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Bildung]]"
   - "[[Effect Size]]"
-  - "[[Causality]]"
   - "[[Governing by Numbers]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"

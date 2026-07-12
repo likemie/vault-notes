@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
-  - "[[Causality]]"
   - "[[Reliability]]"
   - "[[Scientific Method]]"
   - "[[Variable]]"

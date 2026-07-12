@@ -18,7 +18,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Knowledge Production]]"
   - "[[Operationalization]]"
-  - "[[Causality]]"
   - "[[New Geopolitics]]"
   - "[[Infrastructures of Immobility]]"
   - "[[Champ]]"

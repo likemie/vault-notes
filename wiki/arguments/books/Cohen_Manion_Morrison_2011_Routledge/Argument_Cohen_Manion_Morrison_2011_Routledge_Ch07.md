@@ -60,6 +60,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Attrition]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Reflexivity]]"

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Cultural Barrier]]"
+  - "[[Conatus]]"
   - "[[Academic and Social Integration]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"

@@ -18,6 +18,7 @@ tags:
   - region/china
   - level/higher-ed
 related_concepts:
+  - "[[Conatus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Self-Driven Mode]]"
@@ -44,7 +45,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info] 定义
-> 毕业出路产生机制的四分类模型是[[Yajun Zheng|郑雅君]]（2023）在"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"的二分类基础上，纳入价值信念驱动力维度后得出的 2×2 分类框架，用以解释不同家庭背景的大学生获得毕业出路的四种机制。该模型的核心论点是：学生能在生涯选择上享有多大程度的自由，取决于两个要素——（1）内化的价值观念是否驱动了自洽的、明晰的目标；（2）学生作为理性行动者使用文化工具达成目标的能力([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+> 毕业出路产[[Conatus|生机]]制的四分类模型是[[Yajun Zheng|郑雅君]]（2023）在"[[Goal-Controlled Mode|目标掌控模式]]"与"[[Intuition-Dependent Mode|直觉依赖模式]]"的二分类基础上，纳入价值信念驱动力维度后得出的 2×2 分类框架，用以解释不同家庭背景的大学生获得毕业出路的四种机制。该模型的核心论点是：学生能在生涯选择上享有多大程度的自由，取决于两个要素——（1）内化的价值观念是否驱动了自洽的、明晰的目标；（2）学生作为理性行动者使用文化工具达成目标的能力([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 >
 
 ## 两个轴

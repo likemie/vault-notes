@@ -97,7 +97,6 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Ideology Critique]]"
-  - "[[Member Checking]]"
   - "[[Autoethnography]]"
   - "[[Longitudinal Study]]"
 related_persons:

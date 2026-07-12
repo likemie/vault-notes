@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Performativity of Measurement]]"
+  - "[[Conatus]]"
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"

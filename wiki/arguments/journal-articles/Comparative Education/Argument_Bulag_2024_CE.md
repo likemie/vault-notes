@@ -21,6 +21,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Wuhu Ruhua]]"
   - "[[Second-generation Ethnic Policy]]"
+  - "[[Conatus]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Operationalization]]"
   - "[[External Validity]]"

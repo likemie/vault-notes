@@ -30,6 +30,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Global Policy Space]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Conatus]]"
   - "[[Metacognition]]"
   - "[[Floating Signifier]]"
   - "[[Postmodernism]]"

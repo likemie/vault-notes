@@ -21,6 +21,7 @@ related_concepts:
   - "[[Necropolitics]]"
   - "[[Hegemony]]"
   - "[[Paradigm]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []

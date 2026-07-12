@@ -48,7 +48,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
   - "[[Research Problem]]"
-  - "[[Causality]]"
   - "[[Confidence Interval]]"
   - "[[Positivism]]"
 related_theories: []

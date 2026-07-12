@@ -27,6 +27,10 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Reflexivity]]"
   - "[[IB Diploma Programme]]"
+  - "[[Empty Knower]]"
+  - "[[Bildung]]"
+  - "[[Conatus]]"
+  - "[[International Spinozian Curriculum]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Attrition]]"
@@ -46,6 +50,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Cole_2005_JRIE]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"

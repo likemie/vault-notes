@@ -81,7 +81,7 @@ updated: '2026-06-19'
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1997 — *Realistic evaluation***：与 Nick Tilley 合作发表，是[[Realist Evaluation\|实在论评估]]的宣言书，论证了社会干预的[[Causality|因果]]机制必须嵌套在具体社会背景中。
+> - **1997 — *Realistic evaluation***：与 Nick Tilley 合作发表，是[[Realist Evaluation\|实在论评估]]的宣言书，论证了社会干预的因果机制必须嵌套在具体社会背景中。
 > - **2006 — *Evidence-based policy: A realist perspective***：核心方法论著作，系统解构了 [[Randomised Controlled Trials\|RCT]] 和[[Meta-analysis\|元分析]]在社会政策领域的技术局限，并详细描绘了 “实在论综合” 的操作路线。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 125]])
 
 ---
@@ -103,7 +103,7 @@ updated: '2026-06-19'
 > 在自然科学实验室之外，社会和教育情境是无法封闭的开放系统。教育 RCT 中的控制组绝不是静止的真空，其控制班级 and 区域可能自身正进行着繁多、忙碌的教学自主改进，这使得以控制组为基准线计算出的效应量变得极其模糊和不可靠。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])
 
 > [!exegesis] 医学研究与教育学 RCT 的本质区别（Theory Precedence）
-> 医学 RCT 绝不是盲目的试错，在开展临床 RCT 之前，通常已经过数十年的药理学 and 生理学基础理论检验，研究者对其[[Causality|因果]]机制已了然于胸。而教育 RCT 往往在因果机制不明确、理论缺位的情况下，盲目地将拼读法或教学助理等复杂活动包入数据黑箱进行测量。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 10]])
+> 医学 RCT 绝不是盲目的试错，在开展临床 RCT 之前，通常已经过数十年的药理学 and 生理学基础理论检验，研究者对其因果机制已了然于胸。而教育 RCT 往往在因果机制不明确、理论缺位的情况下，盲目地将拼读法或教学助理等复杂活动包入数据黑箱进行测量。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 10]])
 
 > [!pathways] 替代方案：实在论综合（Realist Synthesis）
 > 以实在论综合代替传统统计元分析。实在论综合是一条基于理论（Theory-driven）的综述路径，它不追求计算平均效应量，而是识别干预在什么背景下激活了什么机制、产生了什么结果，虽然实操上极具复杂性，但能为政策和学校实践提供真正的因果指南。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14-15]])

@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Causality]]"
   - "[[Externalization]]"
+  - "[[Conatus]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
 related_theories: []

@@ -19,6 +19,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Direct Instruction]]"
   - "[[Operationalization]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []

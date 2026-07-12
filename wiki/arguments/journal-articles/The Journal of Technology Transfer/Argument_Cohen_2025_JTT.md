@@ -37,12 +37,12 @@ related_concepts:
   - "[[UIC Impact Measurement]]"
   - "[[Clinical Trial]]"
   - "[[Knowledge Transfer]]"
-  - "[[Causality]]"
   - "[[Counterfactual]]"
   - "[[Knowledge Exchange]]"
   - "[[Hypothesis]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
+  - "[[Causality]]"
   - "[[Blue Skies Research]]"
 related_theories: []
 related_methods:

@@ -20,8 +20,8 @@ tags:
   - theme/comparative-education
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Methodological Nationalism]]"
   - "[[Methodological Statism]]"
+  - "[[Methodological Nationalism]]"
   - "[[Soviet Statism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Governing at a Distance]]"

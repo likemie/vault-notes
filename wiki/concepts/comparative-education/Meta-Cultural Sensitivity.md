@@ -18,7 +18,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Hypothesis]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Causality]]"
   - "[[Orientalism]]"
 related_theories: []
 related_methods: []

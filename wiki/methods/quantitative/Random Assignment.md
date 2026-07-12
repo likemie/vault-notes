@@ -29,6 +29,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Attrition]]"
@@ -93,14 +94,14 @@ updated: 2026-07-13
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 基于[[Positivism|实证主义]]与经验主义[[Causality|因果]]观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性（X 导致 Y）推导出[[Causality|因果关系]]。Cohen, Manion & Morrison (2011) 将样本随机化列为[[Quantitative Research|量化研究]]效度的九项实证主义前提之一——与可控性、可复制性、可预测性、[[External Validity|可推广性]]、去情境化、碎片化、中立性和可观测性并置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
+> - **知识观** 基于[[Positivism|实证主义]]与经验主义因果观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性（X 导致 Y）推导出[[Causality|因果关系]]。Cohen, Manion & Morrison (2011) 将样本随机化列为[[Quantitative Research|量化研究]]效度的九项实证主义前提之一——与可控性、可复制性、可预测性、[[External Validity|可推广性]]、去情境化、碎片化、中立性和可观测性并置。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 > - **在因果推断中的角色** 随机化是对 Holland (1986) 因果推断基本问题的统计解决方案——一个人不能同时处于实验组和控制组，但随机化使两组在期望上等价，从而用控制组平均结果替代实验组的[[Counterfactual|反事实]]结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 313]]）。
 > - **研究者角色** 作为客观的操控者和观察者，设计随机程序以隔离混杂变量，排除主观判断干扰。
 > - **有效性标准** 主要服务于[[Internal Validity|内部效度]]。高[[Reliability|信度]]的随机分配能最大限度排除选择偏误（Selection Bias）。
 > - **不声称观察的问题** 不能回答干预”为什么”起作用的深层因果机制，也不能回答干预在未经随机化控制的现实 “开放社会系统” 中如何运作。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6, 8]])
 
 > [!method-stack] 方法层级
-> - **研究设计** [[True Experimental Design|真实验设计]]（True Experimental Designs，如前测-后测控制组设计、[[Posttest-Only Control Group Design|仅后测控制组设计]]）。
+> - **研究设计** [[True Experimental Design|真实验设计]]（True Experimental Designs，如[[Pre-test and Post-test|前测]]-后测控制组设计、[[Posttest-Only Control Group Design|仅后测控制组设计]]）。
 > - **数据收集** 前测与后测的测验得分、问卷量表得分、行政记录等定量数据。
 > - **分析方法** 组间独立样本 t 检验、[[Analysis of Variance|方差分析]]（ANOVA）、[[Analysis of Covariance|协方差分析]]（ANCOVA）及[[Effect Size|效应量]]（ES）计算。
 > - **辅助技术** 随机数生成器、分层随机化（Stratified Randomisation）、匹配随机化（Matched Randomisation）。
@@ -125,7 +126,7 @@ updated: 2026-07-13
 > 1. **确定实验处理条件** 界定独立[[Variable|变量]]的各个水平（如：使用新软件的干预组 vs. 一切照旧的控制组）。
 > 2. **生成随机分配序列** 使用随机数生成器、计算机算法或随机数表，为每个进入实验的受试者（或学校）生成概率均等的分配指令。
 > 3. **隐蔽分配与实施** 确保分配序列对受试者和一线执行人员隐蔽（如可能，实施单盲或双盲），将受试者依次分派入组。
-> 4. **基线平衡检验 (Baseline Balance Test)** 在实验开始前测量并比对干预组与控制组的前测成绩（Pre-test）及关键特征，检验随机化是否成功消除组间系统性差异。
+> 4. **基线平衡检验 (Baseline Balance Test)** 在实验开始[[Pre-test and Post-test|前测]]量并比对干预组与控制组的前测成绩（Pre-test）及关键特征，检验随机化是否成功消除组间系统性差异。
 > 5. **后测与净效应估计** 在干预结束后测量后测成绩（Post-test），计算并报告[[Effect Size|效应量]]（ES）。
 
 ### 量化方法模块
@@ -153,7 +154,7 @@ Smith (1991, p. 215) 明确指出：匹配在排除替代因果解释方面**远
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 当[[Research Purpose|研究目的]]在于评估某项标准化干预（如某种教学软件、标准化测试）对学业成绩的纯粹[[Causality|因果]]净效应，且[[Sample Size Determination|样本量]]足够大、环境相对封闭时。
+> - **适合使用** 当[[Research Purpose|研究目的]]在于评估某项标准化干预（如某种教学软件、标准化测试）对学业成绩的纯粹因果净效应，且[[Sample Size Determination|样本量]]足够大、环境相对封闭时。
 > - **谨慎使用** 在复杂的教育生态中，受试者（如[[School Leadership|学校领导]]、教师）的态度和信念在随机分配前已高度分化。由于无法实施双盲，教师的热情与主动施为（Agency）会污染实验过程，导致[[Effect Size|效应量]]（ES）难以归因。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6]])
 > - **不适合使用** 许多教育研究情境中，由于行政限制、伦理冲突（如不能随机剥夺一部分学生接受优质教学的机会），随机分配在实践上不可行，此时应使用[[Quasi-Experimental Designs|准实验设计]]或质性[[Case Study|个案研究]]。
 
@@ -162,10 +163,10 @@ Smith (1991, p. 215) 明确指出：匹配在排除替代因果解释方面**远
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **”糟糕随机化”导致的统计偏误风险** 当实验[[Sample Size Determination|样本量]]较小或学校自主选择性退出时，随机分配极易失衡，造成”糟糕的随机化”（Bad Randomisation）。此时干预组和控制组在前测阶段就存在显著的基线差异。如果简单采用平均后测得分差计算[[Effect Size|效应量]]（ES），会产生严重的”数据包装”偏误。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])
+> - **”糟糕随机化”导致的统计偏误风险** 当实验[[Sample Size Determination|样本量]]较小或学校自主选择性退出时，随机分配极易失衡，造成”糟糕的随机化”（Bad Randomisation）。此时干预组和控制组在[[Pre-test and Post-test|前测]]阶段就存在显著的基线差异。如果简单采用平均后测得分差计算[[Effect Size|效应量]]（ES），会产生严重的”数据包装”偏误。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])
 > - **小样本中的偶然效应** 随机化依赖大样本才能有效运作。小样本中偶然因素可能导致严重失衡——例如 40 名学生中有 4 名阅读障碍者，全部四人随机落入同一组的概率不可忽略。可通过**最小化（minimisation）**策略刻意确保关键特征均匀分配（Torgerson & Torgerson, 2003b, p. 40; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）。
 > - **颠覆偏差（Subversion Bias）** 研究者可能故意违反随机分配要求——例如为了让”更有希望”的学生进入实验组而操纵分配。因此需要双盲实验，或确保执行分配者不参与研究（Torgerson & Torgerson, 2003b, p. 40; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）。
-> - **[[Causality|因果]]归因的”黑箱化”** 随机分配将复杂的教学过程简化为输入（干预项目）和输出（效应量）的对比，却无法诊断”为什么”学生会产生困难，也过滤掉了教师的推理和情境脉络，将因果机制置于统计黑箱之中。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6]])
+> - **因果归因的”黑箱化”** 随机分配将复杂的教学过程简化为输入（干预项目）和输出（效应量）的对比，却无法诊断”为什么”学生会产生困难，也过滤掉了教师的推理和情境脉络，将因果机制置于统计黑箱之中。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6]])
 > - **实验室”封闭系统”[[Hypothesis|假设]]与教育”开放系统”现实的冲突** 随机分配的哲学前提是能像物理实验室那样隔离外界干扰（封闭系统）。但在现实教育系统（开放系统）中，外部政策、学校文化、[[Student-Teacher Relationship|师生关系]]的[[Emergence|涌现]]性因果力量无处不在。完美的随机分配只是一个无法在现实中完整复制的”休谟式规则性”幻象。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 
 > [!critique-method] Fresh Start 案例解构：随机化失败的实证证据

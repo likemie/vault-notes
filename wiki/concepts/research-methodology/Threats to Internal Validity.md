@@ -25,6 +25,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Type I and Type II Errors]]"
   - "[[Attrition]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Conatus]]"
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
@@ -86,7 +88,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 >   实验组和对照组在成熟速度上不同，这种差异被误判为处理效应——是选择偏差与成熟效应的复合威胁。
 
 > [!example]- 受试者威胁的案例
-> **历史（History）** 一学期的数学教学法实验中，学校恰好推行了新的课后辅导政策。即使实验组后测成绩更高，也无法区分是教学法的效果还是课后辅导的效果。两组都经历了新政策时，这一威胁得到控制。
+> **历史（History）** 一学期的数学教学法实验中，学校恰好推行了新的课后辅导政策。即使实验组[[Pre-test and Post-test|后测]]成绩更高，也无法区分是教学法的效果还是课后辅导的效果。两组都经历了新政策时，这一威胁得到控制。
 >
 > **成熟（Maturation）** 为期一年的阅读[[Intervention Research|干预研究]]中，对照组学生的阅读成绩也在提高，因为他们自然长大了、认知能力在发展。如果不设对照组，这些自然成长会被误判为干预效果。选取同年级学生作为对照组可以控制这一威胁。
 >
@@ -113,7 +115,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 >
 > **补偿性怨恨（Compensatory/Resentful Demoralization）** 学校推行一项新的免费午餐计划，只有实验班学生可以领取。对照班学生知道后感到不公平，在后期测试中消极应答或故意表现差，导致组间差异被人为放大。应对方式是承诺实验结束后给予对照组同等待遇。
 >
-> **补偿性竞争（Compensatory Rivalry）** 对照组的教师知道自己是"对照组"后，加倍努力教学以证明自己不比实验组差——对照组结果因此被拉高，处理效应被低估。这是 John Henry 效应的一种形式。应对方式是不过度强调"实验 vs 对照"的标签，或给予对照组一个有意义的替代任务，使其感到自己的工作同样重要。
+> **补偿性竞争（Compensatory Rivalry）** 对照组的教师知道自己是"对照组"后，加倍[[Conatus|努力]]教学以证明自己不比实验组差——对照组结果因此被拉高，处理效应被低估。这是 John Henry 效应的一种形式。应对方式是不过度强调"实验 vs 对照"的标签，或给予对照组一个有意义的替代任务，使其感到自己的工作同样重要。
 
 ### 与实验程序相关的威胁（Procedure Threats）
 
@@ -160,7 +162,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性[[Internal Validity|内部效度]]
 > - **8. 反应性（Reactivity）** 研究在多大程度上改变了正在研究的情境或参与者——例如[[Hawthorne Effect|霍桑效应]]和新奇效应（novelty effect）。
 > - **9. 确认偏差（Confirmation bias）** 研究倾向于确认已有发现或假设——寻找支持已有信念的证据而忽略反证。
 > - **10. 虚假确认（Illusory confirmation）** 在实际不存在关系时倾向于发现关系——过度解释数据中的偶然模式。
-> - **11. [[Causality|因果]]错误（Causal error）** 在不存在[[Causality|因果关系]]或未提供因果证据时推断因果关系。
+> - **11. 因果错误（Causal error）** 在不存在[[Causality|因果关系]]或未提供因果证据时推断因果关系。
 > - **12. [[Effect Size|效应量]]忽略（Effect size）** 在量化效应量能为质性分析带来精确性和意义时，未能将其纳入考虑。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 167–168)]]

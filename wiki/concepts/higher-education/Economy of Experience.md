@@ -24,7 +24,6 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"

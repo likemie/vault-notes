@@ -19,9 +19,9 @@ tags:
   - method/evaluation
   - paradigm/critical
 related_concepts:
-  - "[[Causality]]"
   - "[[Positivism]]"
   - "[[Interaction Effect]]"
+  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Effect Size]]"
@@ -64,7 +64,7 @@ updated: 2026-07-13
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 社会政策、教育干预及改进项目在复杂社会系统中的[[Causality|因果]]实现机制。
+> - **解释对象** 社会政策、教育干预及改进项目在复杂社会系统中的因果实现机制。
 > - **理论问题** 批判[[Positivism|实证主义]]将评估等同于单纯测量“干预是否有效”的扁平化经验规律（休谟因果观），回应“什么在什么情境中对谁有效，为什么，以及如何有效”的现实评估需求。
 > - **理论类型** 社会科学评估理论与研究方法论框架。
 > - **知识位置** 由[[Ray Pawson\|雷·波森]]（Ray Pawson）与尼克·蒂利（Nick Tilley, 1997, 2006）提出，其哲学根基为[[Roy Bhaskar\|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism\|批判实在论]]（Depth Realism）。
@@ -82,7 +82,7 @@ updated: 2026-07-13
 ## 核心命题与机制
 
 > [!proposition-chain] 实在论评估命题链
-> - **前提一：生成性[[Causality|因果]]观 (Generative [[Causality]])** 因果关系不在于观察到的恒常规则性（X 导致 Y），而在于事物内部蕴含的因果力量与机制。在开放系统（如学校）中，这些机制可能处于休眠状态，只有在适宜的环境背景中才会被激活。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
+> - **前提一：生成性因果观 (Generative [[Causality]])** 因果关系不在于观察到的恒常规则性（X 导致 Y），而在于事物内部蕴含的因果力量与机制。在开放系统（如学校）中，这些机制可能处于休眠状态，只有在适宜的环境背景中才会被激活。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 > - **前提二：推理与资源的整合** 干预项目本身不能直接“产生”变化，它只提供资源（自[[Variable|变量]]）；结果（[[Dependent Variable|因变量]]）必须经由人（受试者）的能动性与信念进行推理（中介变量）而产生。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
 > - **机制：CMO 配置 (Context-Mechanism-Outcome Configuration)** 因果机制（Mechanism, M）被引入不同的社会背景（Context, C）中，会因为背景对机制的触发或抑制而导致完全不同的结果（Outcome, O）。即：\(C + M \rightarrow O\)。；另见 ([[Argument_Rambla_2022_Springer|Rambla, 2022, p. 165]])
 > - **结果判断：去情境化统计聚合的失效** 将不同情境的研究混为一谈并计算“平均[[Effect Size|效应量]]”（如在[[Meta-analysis|元分析]]中）是盲目的经验主义。这种“洗涤过程”抹杀了关键机制与背景，无法指导任何具体的教育改进。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])
@@ -125,7 +125,7 @@ updated: 2026-07-13
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]** 深度实在论（Depth Realism）。世界是分层的，结构和机制是真实的，且其[[Causality|因果]]力量独立于我们的观察。
+> - **[[Ontology|本体论]]** 深度实在论（Depth Realism）。世界是分层的，结构和机制是真实的，且其因果力量独立于我们的观察。
 > - **认识论**[[Interpretive Paradigm|反实证主义]]/经验主义。知识是概念中介的；[[Causality|因果关系]]不等于恒常规则性，而是机制在开放系统中的复杂[[Emergence|涌现]]。
 > - **方法含义** 方法论多元主义（Methodological Pluralism）。结合[[Qualitative Observation|质性观察]]、历史分析、[[Action Research|行动研究]]和统计分析，重在追踪和验证机制的运作，而非单纯估计[[Effect Size|效应量]]。
 > - **不能直接推出的东西** 不能直接推导出放之四海而皆准的“最佳实践”处方，或独立于情境的绝对平均效应值。
@@ -153,7 +153,7 @@ updated: 2026-07-13
 > - **适合解释** 复杂的、涉及多层利益相关者互动、高度依赖情境的政策与教育改革评估。
 > - **谨慎使用** 在纯粹物理或生理参数控制极严的封闭系统实验评估中。
 > - **不适合解释** 寻求单一、标准化、可完全复制的机械操作规程。
-> - **常见误用** 将实在论评估误解为完全排斥量化数据；或者仅将“C-M-O”作为静态的分类标签，而未能动态揭示它们之间的[[Causality|因果]]推理生成关系。
+> - **常见误用** 将实在论评估误解为完全排斥量化数据；或者仅将“C-M-O”作为静态的分类标签，而未能动态揭示它们之间的因果推理生成关系。
 
 ---
 
@@ -177,6 +177,6 @@ updated: 2026-07-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究与应用索引
-> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 用实在论评估的[[Causality|因果]]机制观，深度解构了 [[Education Endowment Foundation|EEF]] Fresh Start 拼读项目和教学助理项目由于去情境化聚合导致的政策误导。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 用实在论评估的因果机制观，深度解构了 [[Education Endowment Foundation|EEF]] Fresh Start 拼读项目和教学助理项目由于去情境化聚合导致的政策误导。
 > - [[Argument_Rambla_2022_Springer|Rambla, 2022]] — 将实在论评估框架应用于剖析[[EU Skills Agenda\|欧盟技能议程]]政策，分析特定政策干预在特定情境中激活的因果机制。
 > - [[Professional Judgment]] — 实在论评估对个体推理和能动性的强调，为重构和确立教师在循证实践中的专业判断力提供了理论支撑。

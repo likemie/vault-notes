@@ -15,13 +15,20 @@ tags:
   - theme/epistemology
   - level/k12
   - subject/curriculum
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Theory of Knowledge]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Conatus]]"
+  - "[[Paradigm]]"
+related_theories:
+  - "[[Network Society]]"
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[International Baccalaureate]]"
+related_arguments:
+  - "[[Argument_Cole_2005_JRIE]]"
 confidence: medium
 status: draft
 created: 2026-07-13

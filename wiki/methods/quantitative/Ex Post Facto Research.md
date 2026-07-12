@@ -18,10 +18,10 @@ tags:
   - quasi-experiment
   - subject/research-methodology
 related_concepts:
-  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Hypothesis]]"
+  - "[[Causality]]"
   - "[[Dependent Variable]]"
   - "[[Epistemology]]"
   - "[[Internal Validity]]"
@@ -59,7 +59,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 事后回溯研究的定义
-> 事后回溯研究（ex post facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的[[Causality|因果]]因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable|变量]]（DV）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable|自变量]]（IV），然后通过[[Hypothesis|假设]]、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，因果推断属于概率性因果关系的范畴（p.304）。
+> 事后回溯研究（ex post facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的因果因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable|变量]]（DV）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable|自变量]]（IV），然后通过[[Hypothesis|假设]]、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，[[Causality|因果推断]]属于概率性因果关系的范畴（p.304）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 已发生的自然事件、条件或处理对后续结果的影响，如家庭暴力对学生成绩的影响、教师培训质量对教学效能的影响。
@@ -146,8 +146,8 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 
 > [!method-fit] 适用判断
 > - **适合使用** 更严格的实验方法不可行时：自[[Variable|变量]]超出研究者控制时；实验室控制不切实际、成本过高或不符合伦理时；特别是在社会、教育和心理情境中[[Independent Variable|自变量]]通常无法被操纵时（p. 310）。
-> - **谨慎使用** 简单[[Causality|因果]]-效应关系探索；变量之间的相关较强且替代解释可被排除时；拥有大型公共数据库可供分析时（Ayres, 2008）；作为[[Experimental Research|实验研究]]的预备探索阶段生成[[Hypothesis|假设]]时。
-> - **不适合使用** 需要确定性因果推断的情境；自变量可以被直接操纵时；需要[[Random Assignment|随机分配]]以控制所有混淆变量时；可能存在反向因果或强的第三变量解释时。
+> - **谨慎使用** 简单因果-效应关系探索；变量之间的相关较强且替代解释可被排除时；拥有大型公共数据库可供分析时（Ayres, 2008）；作为[[Experimental Research|实验研究]]的预备探索阶段生成[[Hypothesis|假设]]时。
+> - **不适合使用** 需要确定性[[Causality|因果推断]]的情境；自变量可以被直接操纵时；需要[[Random Assignment|随机分配]]以控制所有混淆变量时；可能存在反向因果或强的第三变量解释时。
 
 > [!example] 典型应用示例
 > - 吸烟与肺癌的关系研究
@@ -185,5 +185,5 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]] — 本章以事后回溯研究本身为对象，系统论述其定义、设计类型、特征、适用时机、优势和局限，并以 Morrison（2009）的[[Effective Teaching|有效教学]][[Causality|因果]]-比较研究为示例。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 第4章系统阐述了事后回溯研究所依赖的概率性因果关系、[[Counterfactual|反事实推理]]和[[Causal Over-determination|因果过度决定]]等概念基础。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]] — 本章以事后回溯研究本身为对象，系统论述其定义、设计类型、特征、适用时机、优势和局限，并以 Morrison（2009）的[[Effective Teaching|有效教学]]因果-比较研究为示例。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 第4章系统阐述了事后回溯研究所依赖的概率性[[Causality|因果关系]]、[[Counterfactual|反事实推理]]和[[Causal Over-determination|因果过度决定]]等概念基础。

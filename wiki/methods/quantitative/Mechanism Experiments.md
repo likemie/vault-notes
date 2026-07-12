@@ -18,10 +18,10 @@ tags:
 - improvement-science
 - paradigm/positivist
 related_concepts:
-  - "[[Causality]]"
   - "[[Champ]]"
   - "[[Counterfactual]]"
   - "[[Paradigm]]"
+  - "[[Causality]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
@@ -49,7 +49,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 机制实验（Mechanism Experiments）是小规模现场实验，旨在测试一个特定的行为理论或[[Causality|因果]]机制，而非评估整个项目或干预包的总体效果。与"黑箱 [[Randomised Controlled Trials|RCT]]"不同，机制实验不满足于回答"这个项目有效吗"，而是追问"什么使这个项目有效——通过什么因果路径"。
+> 机制实验（Mechanism Experiments）是小规模现场实验，旨在测试一个特定的行为理论或因果机制，而非评估整个项目或干预包的总体效果。与"黑箱 [[Randomised Controlled Trials|RCT]]"不同，机制实验不满足于回答"这个项目有效吗"，而是追问"什么使这个项目有效——通过什么因果路径"。
 >
 > > "Mechanism experiments are small-scale [[Champ|field]] experiments to test a specific behavioural theory." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 303, citing Ludwig, Kling, & Mullainathan, 2011]])
 >
@@ -99,14 +99,14 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs [[Black Box RCTs]]** — 黑箱 [[Randomised Controlled Trials|RCT]] 评估整个项目而不打开[[Causality|因果]]机制；机制实验以机制为分析单位
+> - **vs [[Black Box RCTs]]** — 黑箱 [[Randomised Controlled Trials|RCT]] 评估整个项目而不打开因果机制；机制实验以机制为分析单位
 > - **vs [[Randomised Controlled Trials]]** — 机制实验是 RCT 的一种特定设计取向，不是替代 RCT 而是改革其设计方式
 > - **vs 理论驱动评估（Theory-Based Evaluation）** — 理论驱动评估仍紧密链接到特定项目的"项目理论"；机制实验聚焦于可在多个项目中迁移的机制原则([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 303]])
 
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Cartwright's Three-Stage Knowledge Framework]] — 机制实验通过关注[[Causality|因果]]机制而非完整项目，直接回应 Cartwright 的外推挑战（it-works-somewhere → it-will-work-for-us）
+> - [[Cartwright's Three-Stage Knowledge Framework]] — 机制实验通过关注因果机制而非完整项目，直接回应 Cartwright 的外推挑战（it-works-somewhere → it-will-work-for-us）
 > - **发展经济学的[[Random Assignment|随机化]]传统** — Duflo, Glennerster, & Kremer (2006) 的方法论指导明确强调理论在实验设计和结果解释中的必要作用
 
 ## 实证发现
@@ -121,7 +121,7 @@ updated: '2026-05-18'
 > [!warning] 机制定义的根本困难
 > **争议背景** 机制的统一定义在教育和社会科学中尚未达成共识。
 >
-> - **[[Counterfactual|反事实]]/[[Variable|变量]]取向** 机制等同于可观测的中介变量——可通过统计方法（如[[Causality|因果]]中介分析）隔离和估计（Imai, Tingley, & Yamamoto, 2013; Keele, Tingley, & Yamamoto, 2015）
+> - **[[Counterfactual|反事实]]/[[Variable|变量]]取向** 机制等同于可观测的中介变量——可通过统计方法（如因果中介分析）隔离和估计（Imai, Tingley, & Yamamoto, 2013; Keele, Tingley, & Yamamoto, 2015）
 > - **实在论取向** 机制大多是"隐藏的"且不能被直接研究——[[Realist Evaluation|实在论评估]]者寻求"未言明的"机制和小的"推动"式特征，这些特征塑造决策和行为（Pawson, 2013, pp. 127–128; Astbury & Leeuw, 2010, p. 368）
 >
 > [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 303)]] 承认这一争论在"什么有效"指导中"未解决"，但提出务实的中间立场：在教育反事实[[Paradigm|范式]]中，将机制定义为"影响学习的最直接因素"是可操作的。

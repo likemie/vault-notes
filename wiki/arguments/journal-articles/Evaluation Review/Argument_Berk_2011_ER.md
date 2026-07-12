@@ -25,9 +25,9 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
-  - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Literature Review]]"
+  - "[[Causality]]"
   - "[[Document]]"
   - "[[Internal Validity]]"
   - "[[Sample Size Determination]]"

@@ -43,6 +43,7 @@ related_concepts:
   - "[[Enculturation]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Epistemology]]"
+  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"

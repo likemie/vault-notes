@@ -15,7 +15,6 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Post-structuralism]]"
   - "[[Reflexivity]]"
-  - "[[Causality]]"
   - "[[Positivism]]"
 related_theories:
   - "[[Critical Theory]]"

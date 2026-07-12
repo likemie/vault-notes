@@ -17,9 +17,9 @@ tags:
   - design-type
 related_concepts:
   - "[[Internal Validity]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
-  - "[[Causality]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Variable]]"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Interaction Effect]]"
+  - "[[Causality]]"
   - "[[Research Question]]"
 related_methods:
   - "[[Experimental Research]]"
@@ -54,11 +55,11 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 真实验设计
-> 真实验设计（True [[Experimental Research|experimental design]]）是[[Internal Validity|内部效度]]最高的实验设计类别，必须具备以下**全部八个特征**，缺少任何一个即降级为准实验：一个或多个控制组；一个或多个实验组；[[Random Assignment|随机分配]]至各组；前测以保证等价；后测以观察[[Dependent Variable|因变量]]效应；对实验组施加干预；隔离、控制和操纵[[Independent Variable|自变量]]；控制组与实验组不相互污染（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 317]]）。
+> 真实验设计（True [[Experimental Research|experimental design]]）是[[Internal Validity|内部效度]]最高的实验设计类别，必须具备以下**全部八个特征**，缺少任何一个即降级为准实验：一个或多个控制组；一个或多个实验组；[[Random Assignment|随机分配]]至各组；[[Pre-test and Post-test|前测]]以保证等价；后测以观察[[Dependent Variable|因变量]]效应；对实验组施加干预；隔离、控制和操纵[[Independent Variable|自变量]]；控制组与实验组不相互污染（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 317]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至控制组和实验组的参与者。
-> - **问题类型** X 是否导致了 Y？干预的[[Causality|因果]]效应大小和方向如何？
+> - **问题类型** X 是否导致了 Y？干预的因果效应大小和方向如何？
 > - **分析单位** 个体参与者，随机分配至实验条件。
 > - **输出形式** 因果效应估计量、[[Effect Size|效应量]]、[[Statistical Significance|统计显著性]]检验。
 
@@ -70,7 +71,7 @@ updated: 2026-07-13
 > - **不能回答的问题** 高度受控的实验发现能否推广到真实教室和社区（[[Ecological Validity|生态效度]]）？
 
 > [!method-stack] 方法层级
-> - **研究设计** 随机分配 + 控制组 + 前测 + 干预 + 后测（及其变体）。
+> - **研究设计** 随机分配 + 控制组 + [[Pre-test and Post-test|前测]] + 干预 + 后测（及其变体）。
 > - **数据收集** 前测和后测的定量数据。
 > - **分析方法** t 检验、[[Analysis of Variance|ANOVA]]、[[Analysis of Covariance|ANCOVA]]、[[Effect Size|效应量]]计算。
 > - **辅助技术** 随机数生成器、[[Blinding|盲法]]、安慰剂。
@@ -83,7 +84,7 @@ updated: 2026-07-13
 > 1. 一个或多个控制组
 > 2. 一个或多个实验组
 > 3. [[Random Assignment|随机分配]]至控制组和实验组
-> 4. 前测（pre-test）以保证各组等价
+> 4. [[Pre-test and Post-test|前测]]（pre-test）以保证各组等价
 > 5. 后测（post-test）以观察对[[Dependent Variable|因变量]]的效应
 > 6. 对实验组施加一个或多个干预
 > 7. 隔离、控制和操纵[[Independent Variable|自变量]]

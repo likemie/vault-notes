@@ -50,6 +50,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Academic Freedom]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Conatus]]"
   - "[[Policy Network]]"
   - "[[Relational Space]]"
   - "[[Confucian Heritage Cultures]]"

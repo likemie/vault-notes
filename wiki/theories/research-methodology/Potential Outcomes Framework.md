@@ -57,7 +57,7 @@ updated: '2026-05-18'
 
 ## 核心要素
 
-> [!abstract] [[Causality|因果]]效应的定义与估计的区分
+> [!abstract] 因果效应的定义与估计的区分
 > 潜在结果框架的核心贡献在于清楚地区分了因果效应的**定义**与因果效应的**估计**——此前两者常被混淆。如果因果效应没有被明确定义，正在估计什么也必然是不清楚的([[Argument_Berk_2011_ER|Berk, 2011, p.193]])。
 >
 > > "The potential outcomes formulation allows one to clearly distinguish between the definition of a causal effect and the estimation of a causal effect. This is an important advance. Too often the two have been conflated with confusion the usual result."
@@ -85,11 +85,11 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Causal Modeling]] — 潜在结果框架为[[Causality|因果]]效应提供定义性基础；因果建模（SEM）尝试通过模型[[Hypothesis|假设]]从观察数据中估计因果参数，但 [[Argument_Berk_2011_ER|Berk (2011)]] 认为后者存在严重的过度依赖不可检验假设的问题
+> - vs [[Causal Modeling]] — 潜在结果框架为因果效应提供定义性基础；因果建模（SEM）尝试通过模型[[Hypothesis|假设]]从观察数据中估计因果参数，但 [[Argument_Berk_2011_ER|Berk (2011)]] 认为后者存在严重的过度依赖不可检验假设的问题
 > - vs [[Randomised Controlled Trials]] — RCT 是估计因果效应的一种方法；潜在结果框架为理解 RCT 为何有效（[[Random Assignment|随机分配]]使潜在结果独立于处理分配）提供了概念基础
 
 ## 理论基础
 
 > [!info] 理论基础
-> - Neyman-Rubin [[Causality|因果]]模型 — 该框架的数学基础，将因果效应形式化为潜在结果的比较
+> - Neyman-Rubin 因果模型 — 该框架的数学基础，将因果效应形式化为潜在结果的比较
 

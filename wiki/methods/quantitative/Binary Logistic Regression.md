@@ -23,7 +23,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
-  - "[[Causality]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
 related_theories: []
@@ -69,7 +68,7 @@ updated: 2026-07-13
 > - **知识观** 基于概率论和[[Positivism|实证主义]]，认为社会选择行为在群体层面上遵循特定的概率分布规律，可以通过数学模型加以测度和预测。
 > - **研究者角色** 模型构建与参数解释者。研究者需基于理论[[Hypothesis|假设]]选择自[[Variable|变量]]与控制变量，指定参照组，并进行共线性诊断以避免过拟合。
 > - **有效性标准** 统计结论效度（显著性水平）、模型拟合优度（如 Nagelkerke $R^2$ 或 Hosmer-Lemeshow 检验的 p 值）、预测准确率以及共线性指标（VIF）。
-> - **不声称回答的问题** 该模型本身无法直接推导[[Causality|因果]]方向。若使用横截面数据，显著的回归系数仅代表预测因子与[[Dependent Variable|因变量]]之间的关联，不能排除反向因果或遗漏变量偏误。
+> - **不声称回答的问题** 该模型本身无法直接推导因果方向。若使用横截面数据，显著的回归系数仅代表预测因子与[[Dependent Variable|因变量]]之间的关联，不能排除反向因果或遗漏变量偏误。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Quantitative Research|量化研究]]、[[Mixed Methods Research|混合方法研究]]（解释性顺序设计）。

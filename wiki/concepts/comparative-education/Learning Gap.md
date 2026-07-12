@@ -20,6 +20,7 @@ tags:
 - theme/achievement
 - theme/attribution
 related_concepts:
+  - "[[Conatus]]"
   - "[[International Education]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"

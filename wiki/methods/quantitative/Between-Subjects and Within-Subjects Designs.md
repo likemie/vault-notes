@@ -18,6 +18,7 @@ tags:
   - design-type
 related_concepts:
   - "[[Variable]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Sample Size Determination]]"
   - "[[Order Effects]]"
 related_theories: []
@@ -54,14 +55,14 @@ updated: 2026-07-13
 > 三种设计的典型模式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 
 - **受试者间设计** 将受试者[[Random Assignment|随机分配]]到不同处理条件中，每组只接受一种处理。例如，将护士随机分配到全职或兼职工作条件。
-- **[[Repeated Measures Design|受试者内设计]]** 同一组受试者在不同时间点经历所有处理条件。重复测量设计（Repeated Measures Design）是典型例子，如在干预前后使用同一测量工具，使"时间"（前测 vs 后测）成为受试者内[[Variable|变量]]。
+- **[[Repeated Measures Design|受试者内设计]]** 同一组受试者在不同时间点经历所有处理条件。重复测量设计（Repeated Measures Design）是典型例子，如在干预前后使用同一测量工具，使"时间"（[[Pre-test and Post-test|前测]] vs 后测）成为受试者内[[Variable|变量]]。
 - **混合设计** 同时包含至少一个受试者间变量和一个受试者内变量。例如，将护士随机分配到全职或兼职工作（受试者间变量），并在工作操作前后测量倦怠症状（受试者内变量"时间"）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 适用场景
 
 > [!success]
 > - 受试者间设计适合以下情况：不同处理条件之间可能存在学习或疲劳效应，受试者接触一个条件后不应再接触另一个条件。
-> - [[Repeated Measures Design|受试者内设计]]适合以下情况：希望减少受试者间的个体差异误差，以较小的[[Sample Size Determination|样本量]]获得较高的统计功效；或当处理条件为可逆的、时间推移因素时（如前后测）。
+> - [[Repeated Measures Design|受试者内设计]]适合以下情况：希望减少受试者间的个体差异误差，以较小的[[Sample Size Determination|样本量]]获得较高的统计功效；或当处理条件为可逆的、时间推移因素时（如前[[Pre-test and Post-test|后测]]）。
 > - 混合设计适合以下情况：研究同时涉及可[[Random Assignment|随机分配]]的分组[[Variable|变量]]和所有受试者都必须经历的时间变量（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 局限性

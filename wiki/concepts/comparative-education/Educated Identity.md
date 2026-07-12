@@ -25,6 +25,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Floating Signifier]]"
   - "[[Paradigm]]"
+  - "[[Conatus]]"
   - "[[International Education]]"
   - "[[Operationalization]]"
   - "[[Totally Pedagogised Society]]"

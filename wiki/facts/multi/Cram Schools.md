@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Homework]]"
   - "[[Nerd]]"
+  - "[[Conatus]]"
   - "[[Examination Hell]]"
 related_theories: []
 related_methods: []
@@ -70,7 +71,7 @@ updated: 2026-05-23
 - 存在普遍的同伴压力，人人都在追求更好的学业成绩
 - 学业好的人更受同伴喜欢和接纳，不被贴上"[[Nerd|书呆子]]"标签（与美国不同）
 - 学业差反而可能导致同伴排斥
-- 因此，尽管不喜欢上更多课，他们视额外学习为重要和必要的，并愿意继续在补习班努力学习([[Argument_Li_2012_Cambridge|Li, 2012, p.68–69]])
+- 因此，尽管不喜欢上更多课，他们视额外学习为重要和必要的，并愿意继续在补习班[[Conatus|努力]]学习([[Argument_Li_2012_Cambridge|Li, 2012, p.68–69]])
 
 **日本类似现象：**
 日本青少年参加塾（Juku）和课外训练学校（Bukatsu）的研究也显示了相同模式：在这些时段中未报告非常积极的情绪，但仍表示愿意去 Juku 和在 Bukatsu 努力训练。这反映了日本文化中 gambaru（坚持的内在价值）概念的深层影响([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])。

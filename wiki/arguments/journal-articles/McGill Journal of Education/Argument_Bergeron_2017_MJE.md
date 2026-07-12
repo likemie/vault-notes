@@ -29,7 +29,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Scientific Method]]"
   - "[[Effect Size]]"
-  - "[[Causality]]"
   - "[[Class Size]]"
 related_theories: []
 related_methods:

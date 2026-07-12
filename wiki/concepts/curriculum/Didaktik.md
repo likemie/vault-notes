@@ -19,7 +19,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Critical Thinking]]"
   - "[[Discipline-Based Theory]]"
-  - "[[Causality]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
 related_theories: []

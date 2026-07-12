@@ -15,6 +15,38 @@ tags:
   - evidence-based-education
   - research-synthesis
   - effect-size
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Causality]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[Construct]]"
+  - "[[Operationalization]]"
+  - "[[Heterogeneity]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Class Size]]"
+  - "[[Reliability]]"
+  - "[[Publication Bias]]"
+  - "[[Interaction Effect]]"
+  - "[[Intercoder Agreement]]"
+  - "[[Sampling Error]]"
+  - "[[Sample Size Determination]]"
+  - "[[External Validity]]"
+  - "[[Informed Consent]]"
+  - "[[Attrition]]"
+  - "[[Internal Validity]]"
+  - "[[Falsification]]"
+  - "[[Scientific Method]]"
+  - "[[Research Question]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Quantitative Research]]"
+  - "[[Random Assignment]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
 confidence: medium
 status: draft
 created: 2026-07-13

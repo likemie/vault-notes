@@ -17,6 +17,7 @@ tags:
   - source/textbook
   - paradigm/positivist
 related_concepts:
+  - "[[Pre-test and Post-test]]"
   - "[[Reliability]]"
   - "[[Causality]]"
   - "[[Order Effects]]"
@@ -41,7 +42,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 时间序列设计
-> 时间序列设计（Time Series Design）是对一个非随机取样的实验组（或控制组），在接受实验处理**之前和之后各进行多次重复测量**，而非仅在处理前后各测一次的[[Quasi-Experimental Designs|准实验设计]]。通过比较前后测数列的变化趋势——而非单次前后测的差异——来判断处理效果（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.4]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 328]]）。
+> 时间序列设计（Time Series Design）是对一个非随机取样的实验组（或控制组），在接受实验处理**之前和之后各进行多次重复测量**，而非仅在处理前后各测一次的[[Quasi-Experimental Designs|准实验设计]]。通过比较前[[Pre-test and Post-test|后测]]数列的变化趋势——而非单次前后测的差异——来判断处理效果（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch.4]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 328]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 固定整组，常用于学校课堂教学研究——受试者成为自身的控制。
@@ -52,7 +53,7 @@ updated: 2026-07-13
 ## 方法定位
 
 > [!method-position] 在[[Quasi-Experimental Designs|准实验设计]]中的位置
-> - **与单次前后测的区分** 单次前后测只能捕捉两个时间点的差异，无法区分"干预效应"和"已有趋势的延续"。多次前测建立了**干预前的趋势基线**——如果前测数列稳定而后测跃升，干预效应的推断更有力。
+> - **与单次前[[Pre-test and Post-test|后测]]的区分** 单次前后测只能捕捉两个时间点的差异，无法区分"干预效应"和"已有趋势的延续"。多次前测建立了**干预前的趋势基线**——如果前测数列稳定而后测跃升，干预效应的推断更有力。
 > - **有效性标准** 通过多次测量提高[[Reliability|信度]]，避免仅依赖前后各一个数据收集点。受试者成为自身控制，降低了反应性效应。
 > - **不能回答的问题** 无法像真实验那样排除所有替代解释——历史事件（同时事件）的影响无法通过时间序列本身消除。
 
@@ -65,7 +66,7 @@ updated: 2026-07-13
 ## 研究程序
 
 > [!design-notation] 单组时间序列设计
-> 单一实验组接受多次前测和多次后测，受试者成为自身的控制（p. 328）：
+> 单一实验组接受多次[[Pre-test and Post-test|前测]]和多次后测，受试者成为自身的控制（p. 328）：
 >
 > - **实验组** ==O₁== ==O₂== ==O₃== `X` ==O₄== ==O₅== ==O₆==
 
@@ -104,7 +105,7 @@ updated: 2026-07-13
 ## 效度特征
 
 > [!feature] 时间序列设计的控制能力
-> - **可有效控制** 成熟、测验、测量工具、统计回归、选择偏差、被试[[Attrition|流失]]——通过系列前测与后测对一组被试的稳定变化有所了解，也能对两组处理前后的稳定变化进行比较。
+> - **可有效控制** 成熟、测验、测量工具、统计回归、选择偏差、被试[[Attrition|流失]]——通过系列[[Pre-test and Post-test|前测与后测]]对一组被试的稳定变化有所了解，也能对两组处理前后的稳定变化进行比较。
 > - **无法避免** 同时事件（历史因素）、[[Hawthorne Effect|霍桑效应]]、练习误差——测验的反作用或[[Interaction Effect|交互作用]]效果以及实验安排的反作用效果无法避免。
 
 ## 适用场景
@@ -136,4 +137,4 @@ updated: 2026-07-13
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.4)]] — 系统介绍时间序列设计的三种形式（单组、控制组、相等时间样本）及其效度控制特征。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Campbell & Stanley (1963) 符号系统表示单组时间序列设计，说明多次前测和后测使受试者成为自身控制，可观察无效应、明显效应和延迟效应三种趋势。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Campbell & Stanley (1963) 符号系统表示单组时间序列设计，说明多次[[Pre-test and Post-test|前测]]和后测使受试者成为自身控制，可观察无效应、明显效应和延迟效应三种趋势。

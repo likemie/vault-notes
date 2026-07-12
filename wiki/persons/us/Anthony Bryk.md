@@ -27,7 +27,6 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Paradigm Wars]]"
   - "[[Effect Size]]"
-  - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
 related_theories: []
@@ -142,7 +141,7 @@ updated: '2026-06-19'
 ## 争议与批评
 
 > [!tension] 争议焦点
-> - **争议对象**[[Improvement Science|改进科学]]的[[Causality|因果]]估计稳健性与方法碎片化风险。
+> - **争议对象**[[Improvement Science|改进科学]]的因果估计稳健性与方法碎片化风险。
 > - **批评立场** 实验科学学者批评改进科学缺乏高[[Internal Validity|内部效度]]（internal validity）的稳健因果估计，难以直接证实特定局部改变的净因果效应；同时其强调过度改编的实践可能引发方法碎片化。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 > - **证据依据** NICs 产生的证据以描述性的局部反馈数据为主，较难在不借助严密随机对照设计的条件下排除混杂[[Variable|变量]]。
 > - **余留问题** Bryk 及其倡导者强调，改进科学并非为宏观二选一设计，而是适应日常教与学的持续小微调整。彼得森进而主张通过[[Mechanism Experiments|机制实验]]提供方向性因果构建块，而让 NICs 作为其实施和反馈的基础设施，以此克服两者的局限。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])

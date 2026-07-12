@@ -58,7 +58,6 @@ related_methods:
   - "[[Participant Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
-  - "[[Member Checking]]"
   - "[[Case Study]]"
   - "[[Autoethnography]]"
   - "[[Non-participant Observation]]"
@@ -67,6 +66,7 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Fieldwork]]"
   - "[[Experimental Research]]"
+  - "[[Member Checking]]"
   - "[[Grounded Theory]]"
   - "[[Ideology Critique]]"
 related_persons: []
@@ -167,8 +167,8 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。意义从社会情境中产生并通过诠释过程处理。现实是多元的、建构的、整体的；认识者与被认识者互动且不可分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 403–404)]]
 > - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。研究者需管理"边际性"：在组织之中但不属于组织，在智识上保持熟悉与陌生的平衡，在社交上保持局外人与朋友的平衡（Hammersley & Atkinson, 1983: 97–99）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 426–427)]]
-> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、[[Respondent Validation|成员检查]]、同伴情况报告。Spindler & Spindler（1992: 65）认为民族志效度通过研究者在场时间足够长、观察到事件重复发生来获得。概括性被重释为**可比较性（comparability）**和**可翻译性（translatability）（LeCompte & Preissle, 1993: 47）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 406–407)]]
-> - **不能声称回答的问题** 不能估计[[Causality|因果]][[Effect Size|效应量]]；不能统计概括到人口总体；不能从观察中直接推断参与者的内在心理状态。
+> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler & Spindler（1992: 65）认为民族志效度通过研究者在场时间足够长、观察到事件重复发生来获得。概括性被重释为**可比较性（comparability）**和**可翻译性（translatability）（LeCompte & Preissle, 1993: 47）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 406–407)]]
+> - **不能声称回答的问题** 不能估计因果[[Effect Size|效应量]]；不能统计概括到人口总体；不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Autoethnography|自我民族志]]。

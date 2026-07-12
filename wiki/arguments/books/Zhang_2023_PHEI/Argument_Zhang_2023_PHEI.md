@@ -47,6 +47,7 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Innovation Park]]"
   - "[[Evaluation Research]]"
+  - "[[Conatus]]"
   - "[[International Education]]"
   - "[[Document]]"
 related_theories:

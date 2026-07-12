@@ -19,12 +19,12 @@ tags:
 - region/global
 related_concepts:
   - "[[Technology Transfer]]"
+  - "[[Conatus]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
   - "[[Research Utilization]]"
   - "[[Total Factor Productivity]]"
   - "[[Absorptive Capacity]]"
-  - "[[Causality]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []

@@ -15,13 +15,26 @@ related_color: "#e5e7eb"
 tags:
   - theme/epistemology
   - subject/educational-philosophy
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Theory of Knowledge]]"
+  - "[[Rationalism in International Relations]]"
+  - "[[Big Ideas]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Reflexivity]]"
+  - "[[Rote Learning]]"
+  - "[[Critical Thinking]]"
+  - "[[Epistemology]]"
+  - "[[Bildung]]"
+  - "[[Conatus]]"
+related_theories:
+  - "[[Phenomenology]]"
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[International Baccalaureate]]"
+related_arguments:
+  - "[[Argument_Cole_2005_JRIE]]"
 confidence: medium
 status: draft
 created: 2026-07-13

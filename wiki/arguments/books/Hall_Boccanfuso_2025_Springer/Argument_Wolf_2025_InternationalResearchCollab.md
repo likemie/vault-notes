@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Innovation Hub]]"
+  - "[[Conatus]]"
   - "[[Literature Search]]"
   - "[[External Validity]]"
 related_theories:

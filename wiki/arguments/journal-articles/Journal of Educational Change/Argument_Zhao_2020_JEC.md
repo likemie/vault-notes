@@ -28,6 +28,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Hypothesis]]"
   - "[[Sampling Frame]]"
+  - "[[Conatus]]"
   - "[[Humility in Learning]]"
 related_theories: []
 related_methods:

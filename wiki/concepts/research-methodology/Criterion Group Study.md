@@ -18,11 +18,11 @@ tags:
   - ex-post-facto
   - subject/research-methodology
 related_concepts:
-  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Hypothesis]]"
+  - "[[Causality]]"
   - "[[Effective Teaching]]"
 related_methods:
   - "[[Ex Post Facto Research]]"

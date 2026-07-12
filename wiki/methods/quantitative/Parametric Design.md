@@ -20,6 +20,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Interaction Effect]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Research Purpose]]"
   - "[[Sample Size Determination]]"
 related_methods:
@@ -56,7 +57,7 @@ updated: 2026-07-13
 
 > [!method-stack] 方法层级
 > - **研究设计** 真实验——[[Random Assignment|随机分配]]至自变量固定水平的组别。
-> - **数据收集** 各组前测和后测数据。
+> - **数据收集** 各组[[Pre-test and Post-test|前测]]和后测数据。
 > - **分析方法** 比较各组[[Effect Size|效应量]]的差异模式；[[Trend Study|趋势分析]]。
 > - **辅助技术** 随机数生成器。
 
@@ -77,7 +78,7 @@ updated: 2026-07-13
 > [!method-fit] 适用判断
 > - **适合使用** [[Independent Variable|自变量]]是连续[[Variable|变量]]且有理由相信不同水平会产生不同效应时；需要发现干预对哪个区间最有效时。
 > - **谨慎使用** 自变量水平划分的合理性需要基于理论或先前研究；分组过多会导致[[Sample Size Determination|样本量]]需求过大。
-> - **不适合使用** 自变量是二分类时（使用标准前后测设计）；需要同时检验多个自变量交互时（使用[[Factorial Design|因子设计]]）。
+> - **不适合使用** 自变量是二分类时（使用标准前[[Pre-test and Post-test|后测]]设计）；需要同时检验多个自变量交互时（使用[[Factorial Design|因子设计]]）。
 
 ## 局限性
 

@@ -17,6 +17,7 @@ tags:
   - quantitative-research
   - bias
 related_concepts:
+  - "[[Conatus]]"
   - "[[Blinding]]"
   - "[[Research Purpose]]"
 related_theories: []

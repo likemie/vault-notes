@@ -183,6 +183,6 @@ updated: 2026-07-08
 
 ## 相关方法
 
-- [[Causal Modeling]] — 通过统计模型表示变量之间[[Causality|因果]]路径并同时估计多重关系的量化方法
+- [[Causal Modeling]] — 通过统计模型表示变量之间因果路径并同时估计多重关系的量化方法
 - [[Quantitative Research]] — 量化研究以检验变量间关系或群体间比较为核心
 

@@ -29,7 +29,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Technical Rationality]]"
   - "[[Literature Review]]"
-  - "[[Causality]]"
   - "[[Interaction Effect]]"
   - "[[Effect Size]]"
   - "[[Didaktik]]"

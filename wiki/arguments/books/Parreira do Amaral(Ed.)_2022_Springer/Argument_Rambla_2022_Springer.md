@@ -28,7 +28,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Performance Indicators]]"
   - "[[Analytic Framework]]"
-  - "[[Causality]]"
   - "[[Theories of Policy Change]]"
   - "[[Selectivity]]"
   - "[[Return on Investment]]"

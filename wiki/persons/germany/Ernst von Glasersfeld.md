@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
+  - "[[Conatus]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Luhmann's Systems Theory]]"
@@ -79,4 +80,4 @@ updated: '2026-06-08'
 > [!warning] 争议与批评
 > - **规范性缺失**[[Radical Constructivism|激进建构主义]]无法区分好知识与坏知识、知识与谬误，使教育判断失去基础([[Argument_Rømer_2018_EPT|Rømer, 2018, p.6-7]])
 > - **外部世界的消解** Rømer 论证 Glasersfeld 的唯我论前提使教育中的社会、政治、文化和科学维度全部退场
-> - **与科学实在论的对立**[[Karl Popper|Popper]] 的哲学代表了 Glasersfeld 立场的精确对立面，Hattie 试图桥接两者的努力因此注定失败([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])
+> - **与科学实在论的对立**[[Karl Popper|Popper]] 的哲学代表了 Glasersfeld 立场的精确对立面，Hattie 试图桥接两者的[[Conatus|努力]]因此注定失败([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])

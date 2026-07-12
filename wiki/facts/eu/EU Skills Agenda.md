@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Causality]]"
   - "[[Performance Indicators]]"
   - "[[Network Governance]]"
   - "[[Lifelong Learning]]"
@@ -73,7 +72,7 @@ updated: '2026-05-18'
 
 ### 共同的变革理论
 
-Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theories of Policy Change]]）：[[Innovation Ecosystem|创新生态]]体系与教育培训体系协同演化 → 产生互利增效 → 实现智能、可持续与包容性增长。这一[[Causality|因果]]叙事未经独立实证检验，而是作为 [[Performance Indicators]] 的内在成分被嵌入政策工具中([[Argument_Rambla_2022_Springer|Rambla, 2022, p.166, 170–171]])。
+Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theories of Policy Change]]）：[[Innovation Ecosystem|创新生态]]体系与教育培训体系协同演化 → 产生互利增效 → 实现智能、可持续与包容性增长。这一因果叙事未经独立实证检验，而是作为 [[Performance Indicators]] 的内在成分被嵌入政策工具中([[Argument_Rambla_2022_Springer|Rambla, 2022, p.166, 170–171]])。
 
 ## 时间线
 
@@ -127,7 +126,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心变革理论（[[Theori
 > [!tip]-
 > - [[Performance Indicators]] — EUROSTAT 区域教育指标是 Skills Agenda 的核心治理工具
 > - [[Selectivity]] — Skills Agenda 在[[Lifelong Learning|终身学习]]中系统性地优先就业维度
-> - [[Theories of Policy Change]] — 与 [[Innovation Union]] 共享"创新+教育协同演化"的[[Causality|因果]]叙事
+> - [[Theories of Policy Change]] — 与 [[Innovation Union]] 共享"创新+教育协同演化"的因果叙事
 > - [[Network Governance]] — Skills Agenda 在地方层面的实施呈现官僚制与网络治理的混合模式
 > - [[Youth Guarantee Scheme]] — 将教育与就业衔接制度化的配套政策
 > - [[Innovation Union]] — 同为 [[Europe 2020 Strategy|Europe 2020]] 旗舰，共享变革理论

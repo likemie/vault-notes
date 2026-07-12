@@ -27,6 +27,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Science and Technology Studies]]"
   - "[[Knowledge Production]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -98,7 +99,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> 被描述为"有史以来规模最大的教育研究努力之一"：到 1991 年探索与开发阶段结束时，数百名政策制定者、高级政府官员和顶尖学者参与其中(Walberg & Zhang, 1998, pp.55–56; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.9]])。
+> 被描述为"有史以来规模最大的教育研究[[Conatus|努力]]之一"：到 1991 年探索与开发阶段结束时，数百名政策制定者、高级政府官员和顶尖学者参与其中(Walberg & Zhang, 1998, pp.55–56; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.9]])。
 
 ## 争议与批评
 

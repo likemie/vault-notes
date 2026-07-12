@@ -23,6 +23,8 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Paradigm]]"
   - "[[Attrition]]"
+  - "[[Conatus]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Ontology]]"
   - "[[Making the Familiar Strange]]"
   - "[[Catalytic Validity]]"

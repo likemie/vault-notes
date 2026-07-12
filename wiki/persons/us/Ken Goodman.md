@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Whole Language]]"
   - "[[Hypothesis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
@@ -63,7 +64,7 @@ updated: '2026-06-08'
 
 
 > [!info] 对行为主义心理学研究方法的警告
-> Goodman（1989）警告不要仅依赖行为主义心理学基础的读写研究方法——那些仅考察后测技能增长的方法。他主张研究必须考察学习者在真实读写情境中如何发展和使用策略([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
+> Goodman（1989）警告不要仅依赖行为主义心理学基础的读写研究方法——那些仅考察[[Pre-test and Post-test|后测]]技能增长的方法。他主张研究必须考察学习者在真实读写情境中如何发展和使用策略([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
 
 ## 主要贡献
 

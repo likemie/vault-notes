@@ -22,7 +22,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
-  - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Scientism]]"
   - "[[Ontology]]"
@@ -76,7 +75,7 @@ updated: 2026-07-08
 > 
 > > *“1. Form a question... 2. Form a [[Hypothesis]]... 3. Make a prediction... 4. Test the prediction... 5. Analyse...”* —— [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 118]] (citing Bennett, 2013, p. 21) 
 > 
-> **[[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 批评** 该描述将复杂的科学理论作用完全琐碎化（trivialise），取消了[[Causality|因果]]机制探究和理论建构的位置，反映出一种粗糙的“民间科学观”（folk-view of science）。
+> **[[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 批评** 该描述将复杂的科学理论作用完全琐碎化（trivialise），取消了因果机制探究和理论建构的位置，反映出一种粗糙的“民间科学观”（folk-view of science）。
 
 > [!citation-card]- 科学修辞的政治使用
 > “学习风格已被彻底揭穿，你还不如去抽塔罗牌。”（Carl Hendrick 语） / “开放大学（Open University），理清你们的脑子。学习风格 = 彩虹独角兽。”（Tom Bennett 语）
@@ -90,7 +89,7 @@ updated: 2026-07-08
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **教师专业视野的窄化** 通过在 [[Randomised Controlled Trials|RCT]] 与其他研究（定性、案例、[[Action Research|行动研究]]）之间划定严格的科学二分法，诱使教师将复杂的课堂[[Causality|因果]]简化为单一的实验数据，过滤掉教师对社会阶层、公平及本地情境的政治性反思([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 124]])。
+> - **教师专业视野的窄化** 通过在 [[Randomised Controlled Trials|RCT]] 与其他研究（定性、案例、[[Action Research|行动研究]]）之间划定严格的科学二分法，诱使教师将复杂的课堂因果简化为单一的实验数据，过滤掉教师对社会阶层、公平及本地情境的政治性反思([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 124]])。
 > - **对政府保守议程的护航** ResearchED 标榜的“证据[[Paradigm|范式]]”在事实上为政府强推的“合成拼读法”（systematic synthetic phonics）等特定课程项目提供了合法性背书，削弱了大学本位的批判性研究([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
 > - **传输式教育模式的固化** 正如 Black (2018) 所分析，将研究简化为“开箱即用”的干预证据，在实质上配合了高利害问责制，固化了将知识单向输送给学生的“灌输式教育”。
 

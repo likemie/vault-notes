@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"
+  - "[[Conatus]]"
   - "[[Learning Virtues]]"
   - "[[Champ]]"
 related_theories:

@@ -23,7 +23,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Analytic Framework]]"
-  - "[[Causality]]"
   - "[[Scientism]]"
   - "[[Hypothesis]]"
   - "[[Homework]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
+  - "[[Conatus]]"
   - "[[Value Neutrality]]"
   - "[[Science and Technology Studies]]"
   - "[[Epistemology]]"
@@ -57,7 +57,6 @@ related_persons:
   - "[[René Descartes]]"
   - "[[Socrates]]"
   - "[[Plato]]"
-  - "[[Otto Neurath]]"
   - "[[Jean Piaget]]"
 related_facts:
   - "[[International Baccalaureate]]"

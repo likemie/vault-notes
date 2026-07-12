@@ -21,7 +21,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
-  - "[[Causality]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods: []
@@ -75,5 +74,5 @@ updated: '2026-05-18'
 
 > [!success] 应用领域
 > - [[Professional Judgment]] — [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 将有限理性作为专业判断的核心理论基础
-> - [[Visible Learning]] — Qvortrup 运用有限理性解释为何 Hattie 的[[Effect Size|效应量]]提供的是概率信息而非[[Causality|因果]]食谱
+> - [[Visible Learning]] — Qvortrup 运用有限理性解释为何 Hattie 的[[Effect Size|效应量]]提供的是概率信息而非因果食谱
 

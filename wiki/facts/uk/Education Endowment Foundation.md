@@ -28,8 +28,8 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Document]]"
   - "[[Governing by Numbers]]"
-  - "[[Causality]]"
   - "[[Knowledge Production]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
@@ -103,13 +103,13 @@ updated: 2026-06-20
 
 > [!actor-grid] 评论视角
 > - **官方与当事方视角** 认为 EEF 提供了高概率成功的证据资源，帮助学校（特别是弱势生源学校）更科学地分配 Pupil Premium 资金，通过实验评价提升了学校资源的利用效率。
-> - **学术 / 方法视角**[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 等[[Critical Realism|批判实在论]]学者指出，EEF 推广的“去情境化”证据观将复杂的教育退化为“投入-产出”的机械[[Causality|因果]]链，抹杀了因果机制与能动性。
+> - **学术 / 方法视角**[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 等[[Critical Realism|批判实在论]]学者指出，EEF 推广的“去情境化”证据观将复杂的教育退化为“投入-产出”的机械因果链，抹杀了因果机制与能动性。
 > - **政策 / 制度视角**[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] 认为，EEF 与[[BHP Foundation|必和必拓基金会]]等跨国巨头私人资本的绑定，凸显了新自由主义管理逻辑对主权国家公共教育[[Knowledge Production|知识生产]]的隐性操纵与合法化危机([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
 
 > [!critique-data]- 命题/案例一：“新起点”[[Randomised Controlled Trials|RCT]] 评估的数据包装与[[Random Assignment|随机分配]]失败
 > EEF 行政摘要宣称，针对初中一年级阅读困难学生的“新起点”（Fresh Start）合成拼读干预带来了 $+0.24$ 标准差（SD）的[[Effect Size|效应量]]（等同于 3 个月额外进步）。
 > 
-> 然而，深度技术拆解表明，由于随机分配严重失衡，干预组前测成绩远低于对照组。当研究者筛选出前测成绩完全相同的低分学生匹配子集时，干预组和对照组的进步幅度和后测成绩**几乎完全相同（效应量为 $+0.00$ SD）([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])**。所谓的额外进步纯粹是糟糕的随机分配带来的数据偏误幻象。
+> 然而，深度技术拆解表明，由于随机分配严重失衡，干预组[[Pre-test and Post-test|前测]]成绩远低于对照组。当研究者筛选出前测成绩完全相同的低分学生匹配子集时，干预组和对照组的进步幅度和后测成绩**几乎完全相同（效应量为 $+0.00$ SD）([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]])**。所谓的额外进步纯粹是糟糕的随机分配带来的数据偏误幻象。
 
 > [!critique-method]- 命题/案例二：教学助理（TA）类目的去情境化排名与政策风险
 > Toolkit 将 TA 归入“低影响、高成本”（效应量仅 $+0.08$）排行榜底部。

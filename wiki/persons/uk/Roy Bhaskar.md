@@ -84,7 +84,7 @@ updated: '2026-06-19'
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1978 — *A realist theory of science***：[[Critical Realism\|批判实在论]]的科学哲学奠基著作，系统阐述了三层[[Ontology\|本体论]]以及深层[[Causality|因果]]机制与经验观察的分离。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 125]])
+> - **1978 — *A realist theory of science***：[[Critical Realism\|批判实在论]]的科学哲学奠基著作，系统阐述了三层[[Ontology\|本体论]]以及深层因果机制与经验观察的分离。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 125]])
 > - **1979 — *The possibility of naturalism: A philosophical critique of the contemporary human sciences***：将批判实在论哲学拓宽至社会科学的纲领性著作，论证了社会结构对个体能动性的[[Emergence\|涌现]]权力。
 
 ---
@@ -92,7 +92,7 @@ updated: '2026-06-19'
 ## 核心思想
 
 > [!claim] 核心主张
-> 世界是由不同层级构成的开放系统，真正的科学探索不应局限于观察表面上的经验规则性，而应解释引发事件发生的深层[[Causality|因果]]机制。社会结构具有[[Emergence|涌现]]的特征和因果力量（结构先于个体存在，但依赖人的意图和能动性来维持或再生产）。[[Critical Realism|批判实在论]]旨在解决休谟式[[Positivism|实证主义]]（还原论）与后现代相对主义的对立，为社会与教育政策的批判性评估重建了可靠的[[Ontology|本体论]]基础。
+> 世界是由不同层级构成的开放系统，真正的科学探索不应局限于观察表面上的经验规则性，而应解释引发事件发生的深层因果机制。社会结构具有[[Emergence|涌现]]的特征和因果力量（结构先于个体存在，但依赖人的意图和能动性来维持或再生产）。[[Critical Realism|批判实在论]]旨在解决休谟式[[Positivism|实证主义]]（还原论）与后现代相对主义的对立，为社会与教育政策的批判性评估重建了可靠的[[Ontology|本体论]]基础。
 
 ### 核心命题
 
@@ -120,7 +120,7 @@ updated: '2026-06-19'
 > - **政策路径** 通过特里·里格利（[[Terry Wrigley]]）等人的教育批判研究，进入教育政策和社会学辩论，成为批判新自由主义审计文化与 “[[Governing by Numbers|以数字治理]]” 政策的哲学批判工具。
 
 > [!evidence-grid-a]- 相关研究
-> - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 将巴斯卡的开放系统和[[Causality|因果]]机制概念应用于[[Evidence-Based Education|证据本位教育]]，剖析 [[Education Endowment Foundation|EEF]] 评估案例中的简单民间科学观。
+> - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 将巴斯卡的开放系统和因果机制概念应用于[[Evidence-Based Education|证据本位教育]]，剖析 [[Education Endowment Foundation|EEF]] 评估案例中的简单民间科学观。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 运用批判实在论的分层本体论解构循证教学中 RCT 的实验神话以及元分析对因果机制的遮蔽，并主张以基于实在论的多元主义代替单一排行。
 
 ---

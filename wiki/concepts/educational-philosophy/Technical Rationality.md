@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Positivism]]"
   - "[[Effect Size]]"
-  - "[[Causality]]"
   - "[[Value Neutrality]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"

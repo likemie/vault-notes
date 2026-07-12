@@ -21,6 +21,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Bildung]]"
   - "[[Wuhu Ruhua]]"
+  - "[[Conatus]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sacrifice Theory]]"
   - "[[Settler Colonialism]]"

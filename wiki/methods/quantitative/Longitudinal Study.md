@@ -120,7 +120,7 @@ updated: 2026-07-13
 
 > [!feature] 三种前瞻性子类型
 > - **队列研究（Cohort Study）** 追踪具有某种共同特征的具体群体。Borg & Gall (1979, p. 291)区分了队列与面板：队列研究中特定总体被追踪但在样本内进行选择性抽样，某些成员可能并非每次都纳入。典型代表：英国全国儿童发展研究（National Child Development Study，NCDS，1958 年启动，追踪约 17,000 人）、英国队列研究（BCS70，1970 年）、千禧年队列研究（MCS，2000 年），均由伦敦大学学院教育研究所的纵向研究中心（CLS）管理。
-> - **面板研究（Panel Study）** 追踪每个相同的个体。Lazarsfeld 在 1940 年代引入面板概念，旨在识别[[Causality|因果]]模式和追踪因果关系中的困难（Ruspini, 2002, p. 13）。典型代表：英国家庭面板调查（British Household Panel Survey，BHPS，1991–2008，每年访谈约 10,000 人），2009 年并入 Understanding Society 研究。
+> - **面板研究（Panel Study）** 追踪每个相同的个体。Lazarsfeld 在 1940 年代引入面板概念，旨在识别因果模式和追踪[[Causality|因果关系]]中的困难（Ruspini, 2002, p. 13）。典型代表：英国家庭面板调查（British Household Panel Survey，BHPS，1991–2008，每年访谈约 10,000 人），2009 年并入 Understanding Society 研究。
 > - **趋势研究（Trend Study）** 关注因素而非人群，在数据收集的每个阶段抽取新样本但聚焦相同因素。每次抽取不同样本可以避免反应性（reactivity）问题——首次调查可能改变参与者的认知或行为（预试敏感化，pre-test sensitisation），趋势研究通过每轮更换样本切断这种"自我污染"的链条（p.269）。详见 [[Trend Study]] 条目。
 
 ### 回溯性纵向研究

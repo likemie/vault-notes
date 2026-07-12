@@ -23,6 +23,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Recommendations for Practice]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Homework]]"
   - "[[Attrition]]"
   - "[[Evidence-Based Education]]"
@@ -73,7 +74,7 @@ updated: 2026-07-13
 ## 适用场景
 
 > [!success] 适用场景
-> - 当研究目标是为教育政策或实践提供[[Causality|因果]]依据时，干预研究是从相关线索走向[[Recommendations for Practice|实践建议]]的重要环节([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-3]])。
+> - 当研究目标是为教育政策或实践提供因果依据时，干预研究是从相关线索走向[[Recommendations for Practice|实践建议]]的重要环节([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-3]])。
 > - 当论文希望提出强 [[Recommendations for Practice|实践建议]] 时，[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 认为研究方法必须能够识别[[Causality|因果关系]]；干预研究因此比[[Non-intervention Research|非干预研究]]更适合支撑"改变实践会改善结果"的主张([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3, 9]])。
 
 ---
@@ -83,7 +84,7 @@ updated: 2026-07-13
 > [!warning] 三种效果量不可混为一谈
 > [[Argument_Higgins_2016_RE|Higgins (2016, p.44)]]指出，在[[Meta-analysis|元分析]]中混合不同类型的效果量是有风险的：
 >
-> - **干预效果** 相对于比较组或控制组的改善，其设计考虑了前后测之间的增长
+> - **干预效果** 相对于比较组或控制组的改善，其设计考虑了前[[Pre-test and Post-test|后测]]之间的增长
 > - **成熟差异** 单组设计，只考虑了随时间的增长
 > - **相关效果** 如[[Homework|作业]]与学业表现之间的关系，与干预效果（有作业与无作业的比较）本质不同
 >
@@ -104,7 +105,7 @@ updated: 2026-07-13
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education]] — 干预研究承担从"可能相关"走向"可支持[[Recommendations for Practice|实践建议]]"的[[Causality|因果]]检验功能，是 EBE [[Chain of Evidence|证据链]]中的关键方法环节。
+> - [[Evidence-Based Education]] — 干预研究承担从"可能相关"走向"可支持[[Recommendations for Practice|实践建议]]"的因果检验功能，是 EBE [[Chain of Evidence|证据链]]中的关键方法环节。
 
 ---
 

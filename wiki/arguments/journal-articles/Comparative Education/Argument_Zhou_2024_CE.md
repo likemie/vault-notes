@@ -32,6 +32,7 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Document]]"
   - "[[Champ]]"
+  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Knowledge Transfer]]"
   - "[[Paradigm]]"

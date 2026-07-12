@@ -20,11 +20,11 @@ tags:
   - theme/intelligence
 related_concepts:
   - "[[Learned Helplessness]]"
+  - "[[Conatus]]"
   - "[[Nerd]]"
   - "[[Talent Assumption]]"
   - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"
-  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []

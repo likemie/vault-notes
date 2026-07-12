@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
+  - "[[Conatus]]"
   - "[[Translational Research]]"
   - "[[Working Memory]]"
 related_theories: []

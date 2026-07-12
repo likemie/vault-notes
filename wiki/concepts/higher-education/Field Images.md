@@ -19,7 +19,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
-  - "[[Causality]]"
   - "[[Discursive Stratification]]"
   - "[[Performativity of Measurement]]"
 related_theories: []

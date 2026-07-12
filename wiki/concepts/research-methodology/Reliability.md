@@ -26,6 +26,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Positivism]]"
   - "[[Statistical Significance]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Parallel-Forms Reliability]]"
   - "[[Split-Half Reliability]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Qualitative Reliability]]"
   - "[[Hypothesis]]"
   - "[[Ecological Validity]]"
+  - "[[Conatus]]"
   - "[[Definition of Terms]]"
   - "[[Qualitative Validity]]"
   - "[[Variable]]"
@@ -102,7 +104,7 @@ updated: 2026-07-08
 >   如果多于一位研究者参与研究，人类判断易出错，必须确保所有研究者在数据录入上一致。
 >   
 >   > [!feature] 两种形式
->   > - **等价形式（equivalent forms / alternate forms）** 设计出工具的等价形式并产生相似结果。实验中的前测和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
+>   > - **等价形式（equivalent forms / alternate forms）** 设计出工具的等价形式并产生相似结果。实验中的[[Pre-test and Post-test|前测]]和后测预设了这种信度。通过 t 检验、高相关系数及相似均值和标准差衡量。
 >   > - **[[Inter-Rater Reliability|评分者间信度]]（inter-rater reliability）** 对于观察数据，通过培训课程使用视频材料确保录入数据的同等性。简单计算可用评分者间一致性百分比；Robson (2002: 341) 提出了更复杂的方法。
 > - **信度作为[[Internal Consistency|内部一致性]]（Reliability as internal consistency）**
 >   测试/重测和等价形式要求两次施测，而内部一致性只需要**一次**——通过半分法和 Cronbach alpha 系数来衡量多项目量表中条目之间的一致性。详细公式、操作流程和解读标准见 [[Internal Consistency|内部一致性]] 条目。
@@ -138,7 +140,7 @@ updated: 2026-07-08
 
 > [!tension] [[Qualitative Reliability|质性信度]]的两个立场
 > - **量化信度标准对质性研究不可行** LeCompte & Preissle (1993: 332) 认为量化研究的信度标准根本无法用于质性研究——量化[[Hypothesis|研究假设]]**可复制性**的可能，但这**扭曲了现象的自然发生（[[Ecological Validity|生态效度]]）**。自然主义研究的前提恰恰包括情境的**独特性和特殊性**——研究不能被复制，这正是其优势而非劣势。
-> - **质性研究仍需复制要素** LeCompte & Preissle (1993: 334) 同时主张质性研究应努力在以下方面进行复制：研究者的地位位置、信息提供者/受访者选择、社会情境和条件、分析[[Construct|构念]]和前提、资料收集和分析方法。
+> - **质性研究仍需复制要素** LeCompte & Preissle (1993: 334) 同时主张质性研究应[[Conatus|努力]]在以下方面进行复制：研究者的地位位置、信息提供者/受访者选择、社会情境和条件、分析[[Construct|构念]]和前提、资料收集和分析方法。
 
 Bogdan & Biklen (1992: 48) 提出了质性信度的一个[[Definition of Terms|操作性定义]]：**"研究者记录为数据的内容与在被研究的自然情境中实际发生的内容之间的吻合度"**——即一定程度的准确性和覆盖面的全面性。但这**不是追求一致性**——两位研究者研究同一情境可能得出截然不同但两套发现都可能可靠的发现。经典例证是 Nissan 英国汽车工厂研究（p.206）：Wickens (1987) 发现了"良性循环"（灵活性、团队合作、质量意识），而 Garrahan & Stewart (1992) 发现了"恶性循环"（剥削、监视、控制）——**同一现实的两个版本共存，因为现实是多层次的**。
 

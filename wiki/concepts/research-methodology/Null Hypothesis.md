@@ -20,6 +20,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Alternative Hypothesis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:

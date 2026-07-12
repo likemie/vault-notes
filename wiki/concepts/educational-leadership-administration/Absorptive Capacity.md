@@ -28,7 +28,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
   - "[[Logic Model]]"
-  - "[[Causality]]"
   - "[[Operationalization]]"
   - "[[Formative Assessment]]"
   - "[[Analytic Framework]]"

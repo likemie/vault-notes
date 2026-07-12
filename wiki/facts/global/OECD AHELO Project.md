@@ -23,6 +23,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Global Universities Rankings]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 > [!warning]
 > - **反对立场（Altbach、顶尖大学校长）** 高等教育课程和培养目标的多样化是有价值的、不应被统一标准抹平；学习成果评估应由各机构自主定义和实施
 > - **支持立场（Usher、部分政策制定者）** 缺乏统一的教学质量测量使排名完全由研究产出主导，不利于重视教学的高校；顶尖大学的反对实际上是维护既有优势
-> - 深层方法论困境：试图"为人类活动的每一个粒子赋予一个数字"（Stephen, 2019）的努力本身具有去人性化的危险，"在定量和定性评估模式之间找到适当平衡是一项需要持续警惕和协商的任务"（Stephen, 2019, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.134]]）
+> - 深层方法论困境：试图"为人类活动的每一个粒子赋予一个数字"（Stephen, 2019）的[[Conatus|努力]]本身具有去人性化的危险，"在定量和定性评估模式之间找到适当平衡是一项需要持续警惕和协商的任务"（Stephen, 2019, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.134]]）
 
 ---
 

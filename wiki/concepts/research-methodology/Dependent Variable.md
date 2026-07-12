@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Causality]]"
   - "[[Construct]]"
   - "[[Operationalization]]"

@@ -21,6 +21,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epoché]]"
   - "[[Critical Pedagogy]]"
+  - "[[Conatus]]"
   - "[[Positivism]]"
   - "[[Scientific Method]]"
   - "[[Phenomenon-Based Learning]]"
@@ -62,7 +63,7 @@ updated: 2026-07-11
 > - **代表贡献** 提出[[Epoché|悬置]]（Epoché）与现象学还原方法，确立“意向性”与生活世界作为人类认识生成的基础。
 
 > [!citation-card]- 人物定位的关键来源
-> 胡塞尔将体验的主体视为本体论和认识论努力的核心。与当时飞速发展的[[Positivism|实证主义]]与[[Scientific Method|经验科学]]相反，胡塞尔将体验着的主体视为“在世存在”，并认为其属于构成其日常情境的“生活世界”。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> 胡塞尔将体验的主体视为本体论和认识论[[Conatus|努力]]的核心。与当时飞速发展的[[Positivism|实证主义]]与[[Scientific Method|经验科学]]相反，胡塞尔将体验着的主体视为“在世存在”，并认为其属于构成其日常情境的“生活世界”。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 >
 > *Husserl suggested considering the living subject as the core of ontological and epistemological endeavours. In contrast to the immense development of empiric and positivistic approaches to science... Husserl considered the experiencing subject as 'being in the world', and a part of a 'lifeworld' that is their everyday context.*
 

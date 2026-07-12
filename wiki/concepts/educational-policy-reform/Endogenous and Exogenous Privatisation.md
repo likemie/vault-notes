@@ -24,7 +24,6 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Policy Entrepreneur]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Causality]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []

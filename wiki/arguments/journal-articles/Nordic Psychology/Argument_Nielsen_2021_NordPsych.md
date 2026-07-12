@@ -31,7 +31,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Visible Learning]]"
   - "[[Hypothesis]]"
-  - "[[Causality]]"
   - "[[Class Size]]"
   - "[[Homework]]"
   - "[[Effect Size]]"

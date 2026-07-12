@@ -16,9 +16,9 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
-  - "[[Causality]]"
   - "[[Dependent Variable]]"
   - "[[Document]]"
+  - "[[Causality]]"
   - "[[Independent Variable]]"
 related_theories: []
 related_methods:

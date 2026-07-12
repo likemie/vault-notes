@@ -27,6 +27,9 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
+  - "[[IB Diploma Programme]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Empty Knower]]"
 related_theories:
   - "[[Autopoiesis]]"
 related_methods: []
@@ -37,6 +40,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Argument_Cole_2005_JRIE]]"
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"

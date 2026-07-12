@@ -30,7 +30,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Literature Review]]"
-  - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Evaluation Research]]"

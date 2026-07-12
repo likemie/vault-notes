@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Classroom Management]]"
   - "[[Effective Teaching]]"
-  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -58,5 +57,5 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 现有来源只提供 Mehlbye 研究的主要发现，没有提供研究设计、样本或[[Causality|因果]]强度等方法细节；这些内容需待直接处理 Mehlbye 原始报告后再补充([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–40]])。
+> - 现有来源只提供 Mehlbye 研究的主要发现，没有提供研究设计、样本或因果强度等方法细节；这些内容需待直接处理 Mehlbye 原始报告后再补充([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–40]])。
 > - 关于频繁测试的解释仍是 Laursen 的推测：丹麦学校测试可能少于最有利于学习的水平，而高测试国家可能已经测试过多；这一解释并非 Mehlbye 研究本身直接证明的结论([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.39]])。

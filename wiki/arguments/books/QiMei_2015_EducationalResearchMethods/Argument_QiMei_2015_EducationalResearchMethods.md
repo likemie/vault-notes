@@ -60,6 +60,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Value Neutrality]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Attrition]]"
   - "[[Interaction Effect]]"
   - "[[Hawthorne Effect]]"

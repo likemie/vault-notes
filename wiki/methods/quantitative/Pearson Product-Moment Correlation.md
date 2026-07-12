@@ -23,7 +23,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Multiple Regression]]"
@@ -76,5 +75,5 @@ updated: 2026-05-31
 > [!warning]
 > - 只衡量线性关系——两个[[Variable|变量]]可能存在强的非线性关系但 r 值接近 0。
 > - 对异常值（outliers）敏感——少数极端值可以显著改变 r 值。
-> - 相关不等于[[Causality|因果]]——高相关不意味着一个变量导致了另一个变量的变化；混淆变量（第三变量 Z）可能同时驱动两个变量的变化（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - 相关不等于因果——高相关不意味着一个变量导致了另一个变量的变化；混淆变量（第三变量 Z）可能同时驱动两个变量的变化（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

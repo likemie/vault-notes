@@ -13,6 +13,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Benevolence]]"
   - "[[Ritual Propriety]]"
+  - "[[Conatus]]"
   - "[[Sage]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"

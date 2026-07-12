@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Conatus]]"
   - "[[Lost Mode]]"
   - "[[Habitus]]"
 related_theories:

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Experimenter Bias]]"
   - "[[Informed Consent]]"
+  - "[[Conatus]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"

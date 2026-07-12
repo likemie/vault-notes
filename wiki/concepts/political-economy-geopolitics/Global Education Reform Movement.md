@@ -23,7 +23,6 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
-  - "[[PISA Literacy]]"
   - "[[Reference Society]]"
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"

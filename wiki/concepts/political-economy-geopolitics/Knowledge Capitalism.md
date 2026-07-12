@@ -19,7 +19,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Analytic Framework]]"
   - "[[Performance Indicators]]"

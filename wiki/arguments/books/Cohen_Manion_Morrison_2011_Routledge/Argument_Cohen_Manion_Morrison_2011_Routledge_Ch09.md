@@ -43,6 +43,7 @@ related_concepts:
   - "[[Researching Up and Researching Down]]"
   - "[[Knowledge Production]]"
   - "[[Study Population and Sample]]"
+  - "[[Conatus]]"
   - "[[Access and Acceptance in Research]]"
   - "[[External Validity]]"
   - "[[Pragmatic Paradigm]]"

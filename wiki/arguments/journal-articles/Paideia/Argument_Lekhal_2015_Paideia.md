@@ -33,6 +33,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Learning-Impeding Behavior]]"
   - "[[School Norm Adaptation]]"
+  - "[[Conatus]]"
   - "[[Dependent Variable]]"
   - "[[Gender Differences in Academic Achievement]]"
   - "[[Independent Variable]]"

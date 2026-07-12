@@ -24,6 +24,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons:

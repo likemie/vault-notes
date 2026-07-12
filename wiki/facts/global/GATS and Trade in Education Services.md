@@ -25,6 +25,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Conatus]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Doxa]]"
   - "[[Geopolitics of Knowledge]]"
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> 在 2000 年代初期，世界贸易组织（WTO）主导了推动教育服务全球贸易的努力。其《服务贸易总协定》（General Agreement on Trade in Services, GATS）是一项多边协定，鼓励 WTO 成员接受服务贸易的自愿自由化([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])。
+> 在 2000 年代初期，世界贸易组织（WTO）主导了推动教育服务全球贸易的[[Conatus|努力]]。其《服务贸易总协定》（General Agreement on Trade in Services, GATS）是一项多边协定，鼓励 WTO 成员接受服务贸易的自愿自由化([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])。
 
 ## 政策文本摘要
 

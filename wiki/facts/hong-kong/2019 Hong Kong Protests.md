@@ -22,8 +22,7 @@ tags:
   - policy/national-security
   - theme/curriculum-reform
   - theme/history-education
-related_concepts:
-  - "[[Causality]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
@@ -94,7 +93,7 @@ updated: 2026-07-13
 ## 争议与评论
 
 > [!warning] 争议与评论
-> ### 教育后果的[[Causality|因果]]归因：教育真的导致了抗议吗？
+> ### 教育后果的因果归因：教育真的导致了抗议吗？
 >
 > [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 的核心论证不是通识教育科 (LS) 确实导致年轻人参与抗议——而是分析**叙事如何被构建以服务于政策目的**。官媒的攻击将复杂的政治抗议简化为教育失败，为课程替代提供了合法性。这一逻辑同样适用于 [[Argument_Xu_2024_CE|Xu (2024)]] 揭示的中国历史课程改革：**抗议被用作加速一项已在进行的改革的政治窗口**——即使没有抗议，课程改革也会推进；抗议的作用是为加速提供了危机合法性。
 ...

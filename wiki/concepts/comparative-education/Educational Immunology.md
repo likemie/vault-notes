@@ -24,6 +24,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Geometries of Insertion]]"
   - "[[Social Cloning]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons:

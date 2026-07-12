@@ -18,6 +18,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
 related_theories: []

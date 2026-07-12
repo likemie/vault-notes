@@ -59,6 +59,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Research Question]]"
+  - "[[Conatus]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[21st Century Skills and Competencies Discourse]]"

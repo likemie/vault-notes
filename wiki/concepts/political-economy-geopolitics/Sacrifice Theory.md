@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Necropolitics]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Conatus]]"
   - "[[Retrotopia]]"
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"

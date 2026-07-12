@@ -26,7 +26,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Rich and Thick Description]]"
   - "[[Emergence]]"

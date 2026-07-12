@@ -37,6 +37,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
+  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Quality Education]]"

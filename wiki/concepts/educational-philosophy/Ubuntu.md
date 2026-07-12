@@ -18,6 +18,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Posthumanism]]"
+  - "[[Conatus]]"
   - "[[Transhumanism]]"
   - "[[Emergence]]"
   - "[[Buen Vivir]]"

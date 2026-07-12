@@ -19,7 +19,6 @@ tags:
   - "paradigm/interpretivist"
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Question]]"
@@ -53,7 +52,7 @@ updated: 2026-05-27
 ## 认识论立场
 
 > [!abstract]
-网站内容分析属于**解释主义（interpretivist）**研究[[Paradigm|范式]]，通常不追求统计推断或[[Causality|因果]]识别。其核心[[Hypothesis|假设]]是：组织网站的公开内容是一种经过精心策划的"自我呈现"（self-presentation）——它既不完全等同于组织的实际运作（可能夸大或省略某些职能），也不完全是虚构（因为它受到组织内部审核和外部期待的约束）。研究的任务不是简单地"相信"或"否定"网站内容，而是解读组织通过网站**选择呈现什么、忽略什么、强调什么**，以及这些选择所反映的组织逻辑和制度环境（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.56]]）。
+网站内容分析属于**解释主义（interpretivist）**研究[[Paradigm|范式]]，通常不追求统计推断或因果识别。其核心[[Hypothesis|假设]]是：组织网站的公开内容是一种经过精心策划的"自我呈现"（self-presentation）——它既不完全等同于组织的实际运作（可能夸大或省略某些职能），也不完全是虚构（因为它受到组织内部审核和外部期待的约束）。研究的任务不是简单地"相信"或"否定"网站内容，而是解读组织通过网站**选择呈现什么、忽略什么、强调什么**，以及这些选择所反映的组织逻辑和制度环境（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.56]]）。
 
 ## 研究程序
 

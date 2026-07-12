@@ -20,6 +20,7 @@ related_concepts:
   - "[[School Norm Adaptation]]"
   - "[[Variable]]"
   - "[[Motivation and Work Effort]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []

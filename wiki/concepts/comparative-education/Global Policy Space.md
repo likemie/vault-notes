@@ -23,6 +23,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Floating Signifier]]"
+  - "[[Conatus]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Network Society]]"

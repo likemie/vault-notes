@@ -16,7 +16,8 @@ tags:
   - theme/confucian-political-thought
   - theme/social-ideal
   - region/china
-related_concepts: []
+related_concepts:
+  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []

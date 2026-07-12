@@ -29,7 +29,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Document]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"

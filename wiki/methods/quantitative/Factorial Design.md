@@ -23,6 +23,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Causality]]"
   - "[[Effect Size]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Confidence Interval]]"
   - "[[Dependent Variable]]"
   - "[[Sample Size Determination]]"
@@ -65,7 +66,7 @@ updated: 2026-07-13
 
 > [!method-stack] 方法层级
 > - **研究设计** 真实验——多自变量 × 多水平，[[Random Assignment|随机分配]]至各条件组合。
-> - **数据收集** 各组后测数据（可选择性包含前测）。
+> - **数据收集** 各组[[Pre-test and Post-test|后测]]数据（可选择性包含前测）。
 > - **分析方法** [[Analysis of Variance|ANOVA]] 检验主效应和交互效应；报告[[Effect Size|效应量]]和[[Confidence Interval|置信区间]]。
 > - **辅助技术** 随机数生成器；交互效应图。
 
@@ -102,7 +103,7 @@ updated: 2026-07-13
 > [!method-fit] 适用判断
 > - **适合使用** 理论预测处理效果可能依赖于另一个条件时；需要同时检验多个[[Independent Variable|自变量]]的独立和联合效应时；希望在一个实验中回答多个[[Research Question|研究问题]]时。
 > - **谨慎使用** 自[[Variable|变量]]超过三个时——组合数和[[Sample Size Determination|样本量]]需求指数增长；高阶交互解释困难。
-> - **不适合使用** 只关心单个自变量的主效应时（标准前后测设计即可）；样本量不足以覆盖所有条件组合时。
+> - **不适合使用** 只关心单个自变量的主效应时（标准前[[Pre-test and Post-test|后测]]设计即可）；样本量不足以覆盖所有条件组合时。
 
 ## 局限性
 
@@ -118,7 +119,7 @@ updated: 2026-07-13
 > |---|---|---|
 > | [[True Experimental Design]] | 方法 | 所属类别——因子设计是真实验的一种变体 |
 > | [[Interaction Effect]] | 概念 | 核心检验对象——因子设计的核心价值就是检验交互效应 |
-> | [[Solomon Four-Group Design]] | 方法 | 特例——所罗门四组是 2 × 2 因子设计的特殊案例（前测×处理） |
+> | [[Solomon Four-Group Design]] | 方法 | 特例——所罗门四组是 2 × 2 因子设计的特殊案例（[[Pre-test and Post-test\|前测]]×处理） |
 > | [[Analysis of Variance]] | 方法 | 分析方法——ANOVA 是因子设计标准的数据分析工具 |
 > | [[Parametric Design]] | 方法 | 互补方法——参数设计关注单一[[Variable\|变量]]的剂量-反应，因子设计关注多变量交互 |
 

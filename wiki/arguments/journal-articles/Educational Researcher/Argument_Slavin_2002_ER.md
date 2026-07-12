@@ -24,7 +24,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Document]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Causality]]"
   - "[[Research Utilization]]"
   - "[[Hypothesis]]"
 related_theories: []

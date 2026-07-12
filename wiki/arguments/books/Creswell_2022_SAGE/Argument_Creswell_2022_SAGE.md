@@ -109,6 +109,7 @@ related_concepts:
   - "[[Cover Story]]"
   - "[[Campbell and Stanley Notation System]]"
   - "[[Experimenter Bias]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Threats to Internal Validity]]"
   - "[[Attrition]]"
   - "[[Threats to External Validity]]"

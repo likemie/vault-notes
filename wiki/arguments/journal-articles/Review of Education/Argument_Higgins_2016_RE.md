@@ -42,8 +42,8 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Visible Learning]]"
   - "[[Counterfactual]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Abstract]]"
-  - "[[Causality]]"
   - "[[Evaluation Research]]"
   - "[[Professional Judgment]]"
 related_theories:

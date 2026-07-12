@@ -45,7 +45,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Sage]]"
-  - "[[Causality]]"
   - "[[Knowledge Sabotage]]"
   - "[[Positivism]]"
 related_theories:

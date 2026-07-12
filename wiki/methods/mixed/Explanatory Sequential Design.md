@@ -23,7 +23,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Descriptive Analysis]]"
   - "[[Metainferences]]"
-  - "[[Causality]]"
   - "[[Purpose Statement]]"
   - "[[Independent Variable]]"
 related_theories: []
@@ -131,7 +130,7 @@ updated: 2026-06-02
 
 ### 效度威胁 (Validity Threats)
 - **跟进选项不全** 研究者应全面评估量化结果中所有值得解释的维度（异常值、显著差异等），而非仅盯住单一维度。
-- **忽略机制解释** 过度关注人口学[[Variable|变量]]差异，而忽略了对[[Causality|因果]]机制或中介过程的深入探究。
+- **忽略机制解释** 过度关注人口学[[Variable|变量]]差异，而忽略了对因果机制或中介过程的深入探究。
 - **样本不一致** 若质性参与者不来自量化样本内部，将削弱两个阶段之间的逻辑关联。
 
 ---

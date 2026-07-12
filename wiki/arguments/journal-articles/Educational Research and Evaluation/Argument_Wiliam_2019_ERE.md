@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
+  - "[[Conatus]]"
   - "[[Effect Size]]"
   - "[[Emergence]]"
 related_theories:

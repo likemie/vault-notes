@@ -26,7 +26,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Document]]"
-  - "[[Causality]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -77,7 +76,7 @@ updated: '2026-07-04'
 ## 争议与评论
 
 > [!tension] 争议焦点：描述性情境主义 vs 结构社会学
-> - **传统描述性情境主义（金的立场）** 强调比较教育的核心应是深入历史和具体文化情境的Verstehen（理解），排斥将教育系统简化为硬性的社会学[[Causality|因果]]结构，试图通过确立传统的学术规范来[[Disciplina and Doctrina|规训]]“跨界”的社会学者。
+> - **传统描述性情境主义（金的立场）** 强调比较教育的核心应是深入历史和具体文化情境的Verstehen（理解），排斥将教育系统简化为硬性的社会学因果结构，试图通过确立传统的学术规范来[[Disciplina and Doctrina|规训]]“跨界”的社会学者。
 > - **历史与结构社会学（阿彻的立场）** 主张必须突破纯粹的情境描述，以宏观社会学理论（如国家政权力量、社会分工变迁）来解释教育系统的深层权力结构与阶级再生产机制，拒绝接受旧有学科权威的行政和学术规训。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 329)]]
 
 ---

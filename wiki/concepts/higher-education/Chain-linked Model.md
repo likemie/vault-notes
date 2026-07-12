@@ -16,7 +16,6 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Linear Model of Innovation]]"
-  - "[[Causality]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Analytic Framework]]"
   - "[[Learning Economy]]"

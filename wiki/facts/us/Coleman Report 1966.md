@@ -25,6 +25,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Counterfactual]]"
+  - "[[Conatus]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
@@ -230,7 +231,7 @@ updated: '2026-06-02'
 >
 > 2. **学校改革可能不是减少成就差距的最佳策略** 差距主要在学校入学前形成（ECLS-K 数据：幼儿园至八年级 SES 阅读差距仅增长约 12%，数学差距实际缩小；加拿大 4–5 岁儿童的 PPVT 阅读分数已领先美国同龄人 .31 SD，与 15–16 岁 [[PISA]] 差距 .30 SD 几乎相同）。这意味着问题不在于学校改革是否**可能**缩小差距——而在于学校改革是否**是缩小差距的最佳策略([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.8, 10]])**。
 >
-> 3. **缩小差距需要为弱势儿童创造显著优于优势儿童的学校环境** 如果低 SES 儿童目前享有与高 SES 儿童大致相似的学习环境（当 school 效应被仔细分离后），那么仅仅将低 SES 学校提升到高 SES 学校水平不足以缩小差距——需要创造**显著优于**高 SES 儿童所享受的学校条件（如 Harlem Children's Zone 和 KIPP [[Partnership Schools Kura Hourua|特许学校]]那样，通过大幅延长在校时间和吸引高质量教师）。扩大此类努力的规模——并重要的是，**仅**向低 SES 儿童提供而非高 SES 儿童——将面临巨大的政治障碍([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.9]])。
+> 3. **缩小差距需要为弱势儿童创造显著优于优势儿童的学校环境** 如果低 SES 儿童目前享有与高 SES 儿童大致相似的学习环境（当 school 效应被仔细分离后），那么仅仅将低 SES 学校提升到高 SES 学校水平不足以缩小差距——需要创造**显著优于**高 SES 儿童所享受的学校条件（如 Harlem Children's Zone 和 KIPP [[Partnership Schools Kura Hourua|特许学校]]那样，通过大幅延长在校时间和吸引高质量教师）。扩大此类[[Conatus|努力]]的规模——并重要的是，**仅**向低 SES 儿童提供而非高 SES 儿童——将面临巨大的政治障碍([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.9]])。
 
 ## 相关概念／政策
 

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Chinese Learner]]"
   - "[[Western Learner]]"
+  - "[[Conatus]]"
   - "[[Pride in Learning]]"
   - "[[Sage]]"
   - "[[Mind-Oriented Learning Process]]"

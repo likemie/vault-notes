@@ -25,7 +25,6 @@ tags:
 - geopolitics
 related_concepts:
   - "[[Knowledge Capitalism]]"
-  - "[[Causality]]"
   - "[[Realism in International Relations]]"
   - "[[Classical Geopolitics]]"
   - "[[Hypothesis]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Transnational Research Collaboration]]"
   - "[[Analytic Framework]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Conatus]]"
   - "[[International Schools]]"
   - "[[Doxa]]"
   - "[[Champ]]"

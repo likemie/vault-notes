@@ -14,10 +14,10 @@ tags:
   - subject/research-methodology
   - topic/causation
 related_concepts:
-  - "[[Causality]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Causal Over-determination]]"
   - "[[Interaction Effect]]"
+  - "[[Causality]]"
   - "[[Variable]]"
 related_theories: []
 related_methods: []

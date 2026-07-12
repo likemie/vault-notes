@@ -18,6 +18,7 @@ tags:
 - level/k12
 - region/norway
 related_concepts:
+  - "[[Conatus]]"
   - "[[Homework]]"
   - "[[Feedback]]"
   - "[[Variable]]"

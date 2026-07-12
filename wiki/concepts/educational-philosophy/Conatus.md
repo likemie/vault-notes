@@ -16,13 +16,22 @@ related_color: "#e5e7eb"
 tags:
   - theme/epistemology
   - subject/educational-philosophy
-related_concepts: []
+related_concepts:
+  - "[[Transfer Translation Transformation]]"
+  - "[[Learner Autonomy]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Bildung]]"
+  - "[[Critical Pedagogy]]"
+  - "[[Critical Thinking]]"
+  - "[[Ontology]]"
+  - "[[Theory of Knowledge]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cole_2005_JRIE]]"
 confidence: medium
 status: draft
 created: 2026-07-13

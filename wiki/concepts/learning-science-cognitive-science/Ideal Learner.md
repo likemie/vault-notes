@@ -19,6 +19,7 @@ tags:
 - method/narrative
 related_concepts:
   - "[[Enculturation]]"
+  - "[[Conatus]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
 related_theories:

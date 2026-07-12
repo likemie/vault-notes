@@ -19,7 +19,6 @@ tags:
 - implementation
 - theory-of-change
 related_concepts:
-  - "[[Causality]]"
   - "[[University-Industry Collaboration]]"
   - "[[Counterfactual]]"
   - "[[Technology Infusion]]"

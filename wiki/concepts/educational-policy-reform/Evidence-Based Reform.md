@@ -23,7 +23,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
   - "[[Emergence]]"
-  - "[[Causality]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"

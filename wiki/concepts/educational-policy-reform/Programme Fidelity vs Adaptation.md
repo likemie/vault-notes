@@ -21,7 +21,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Causality]]"
+  - "[[Conatus]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"

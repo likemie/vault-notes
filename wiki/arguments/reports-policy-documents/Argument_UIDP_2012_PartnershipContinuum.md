@@ -37,6 +37,7 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
+  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Further Education]]"
 related_theories: []

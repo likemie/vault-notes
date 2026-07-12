@@ -25,9 +25,9 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Realism in International Relations]]"
   - "[[Epistemology]]"
-  - "[[Causality]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Revolutionism]]"
+  - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
   - "[[Value Neutrality]]"
   - "[[Paradigm]]"
@@ -99,7 +99,7 @@ updated: 2026-07-09
 > 这一命题关注如何将第三世界的发展问题从“管理落后”的技术归因还原为地缘支配的本质。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **发展主义批判** 拒绝将“第三世界”教育系统的不完善归结为管理低效、投入不足或标准落后等技术性“缺失”；指出这些充斥着现代化与人力资本投资[[Causality|因果]]链的“发展主义话语”，本质上是以技术改进掩盖了资本主义世界体系地缘权力剥削的殖民主义修辞。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 426]])
+> **发展主义批判** 拒绝将“第三世界”教育系统的不完善归结为管理低效、投入不足或标准落后等技术性“缺失”；指出这些充斥着现代化与人力资本投资因果链的“发展主义话语”，本质上是以技术改进掩盖了资本主义世界体系地缘权力剥削的殖民主义修辞。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 426]])
 
 ---
 
@@ -148,7 +148,7 @@ updated: 2026-07-09
 
 > [!philosophy] [[Epistemology|认识论]]与方法论立场
 > - **[[Ontology|本体论]]** 将国际社会视为被支配-从属阶级斗争和资本主义全球掠夺所撕裂的冲突体（符合[[Revolutionism|革命主义]]传统）。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 417]])
-> - **方法论** 打破[[Methodological Nationalism|方法论国家主义]]（Methodological Nationalism），在跨国及全球尺度下聚焦资本流转与话语剥削链条。
+> - **方法论** 打破[[Methodological Statism|方法论国家主义]]（[[Methodological Nationalism]]），在跨国及全球尺度下聚焦资本流转与话语剥削链条。
 > - **规范立场** 坚定地承诺于边缘群体的解放和变革，彻底抛弃学术“[[Value Neutrality|价值中立]]”（Value Neutrality）的客观面具。
 
 > [!debates] 理论争议

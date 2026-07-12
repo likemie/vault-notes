@@ -22,6 +22,7 @@ related_concepts:
   - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Transitology]]"
   - "[[Document]]"
+  - "[[Conatus]]"
   - "[[International Education]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"

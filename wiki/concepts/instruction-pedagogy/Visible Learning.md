@@ -28,6 +28,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
+  - "[[Conatus]]"
   - "[[Epistemology]]"
   - "[[Feedback]]"
   - "[[Professional Judgment]]"

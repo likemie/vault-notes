@@ -39,6 +39,7 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Innovation Hub]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Conatus]]"
   - "[[Economic Patriotism]]"
   - "[[Selectivity]]"
   - "[[Geopolitical Subject]]"

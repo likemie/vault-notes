@@ -20,7 +20,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Clinical Trial]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -48,7 +47,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 黑箱 [[Randomised Controlled Trials|RCT]]（Black Box RCTs）是 Scriven (1994) 提出的标签，指不提供关于干预**如何**、**为什么**或在**什么条件下**产生效果的信息的随机对照试验——它们仅输出一个[[Effect Size|效应量]]估计，而将[[Causality|因果]]机制的"黑箱"保持未打开状态。
+> 黑箱 [[Randomised Controlled Trials|RCT]]（Black Box RCTs）是 Scriven (1994) 提出的标签，指不提供关于干预**如何**、**为什么**或在**什么条件下**产生效果的信息的随机对照试验——它们仅输出一个[[Effect Size|效应量]]估计，而将因果机制的"黑箱"保持未打开状态。
 >
 > > "Trials are not intended to provide information about how, why or under what conditions the programme works — hence, they leave the 'black box' unopened." ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
 >
@@ -97,7 +96,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - **vs [[Randomised Controlled Trials]]** — 黑箱 RCT 是 RCT 的一种特定设计取向（或缺乏设计取向），而非 RCT 方法本身的必然特征。Peterson 的立场是保留 RCT 但改革其设计——从黑箱取向转向机制取向
-> - **vs [[Mechanism Experiments]]** — 直接对立：黑箱 RCT 不打开[[Causality|因果]]机制，机制实验以因果机制为分析单位
+> - **vs [[Mechanism Experiments]]** — 直接对立：黑箱 RCT 不打开因果机制，机制实验以因果机制为分析单位
 > - **vs 理论驱动评估（Theory-Based Evaluation）** — 理论驱动评估（Chen, 1990; Weiss, 1995）长期倡导打开黑箱，但 Peterson 认为其仍过于紧密链接到特定项目的"项目理论"，而非真正聚焦于可被教师改编和采纳的原则([[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 302–303]])
 
 ## 理论基础
@@ -116,7 +115,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> 评估界对黑箱 [[Randomised Controlled Trials|RCT]] 的拒绝已有悠久历史（Chen, 1990; Weiss, 1995），但 Peterson (2016) 的独特贡献在于：她不是在"放弃 RCT"和"坚持黑箱 RCT"之间做选择，而是提出了**第三条道路**——通过[[Mechanism Experiments|机制实验]]将 RCT 改建为生成与教师探究实践兼容的[[Causality|因果]]知识。
+> 评估界对黑箱 [[Randomised Controlled Trials|RCT]] 的拒绝已有悠久历史（Chen, 1990; Weiss, 1995），但 Peterson (2016) 的独特贡献在于：她不是在"放弃 RCT"和"坚持黑箱 RCT"之间做选择，而是提出了**第三条道路**——通过[[Mechanism Experiments|机制实验]]将 RCT 改建为生成与教师探究实践兼容的因果知识。
 >
 > [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 明确声明其提案从"[[Random Assignment|随机化]]评估将继续是教育研究的主要组成部分"这一立场出发——部分原因是随机化评估"更不易腐败和'伪评估'（Fowler, 2012）且与其他影响评估相比未显示[[Publication Bias|发表偏差]]（Vivalt, forthcoming）"。
 

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Empty Knower]]"
   - "[[International Spinozian Curriculum]]"
   - "[[Conatus]]"
+  - "[[Postmodernism]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Ontology]]"
   - "[[Document]]"

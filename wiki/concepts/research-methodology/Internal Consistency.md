@@ -23,6 +23,7 @@ related_concepts:
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Heterogeneity]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Split-Half Reliability]]"
   - "[[Document]]"
   - "[[Study Population and Sample]]"

@@ -24,7 +24,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
-  - "[[Causality]]"
   - "[[Response Bias]]"
   - "[[Research Utilization]]"
   - "[[Back Translation]]"

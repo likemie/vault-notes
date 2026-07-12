@@ -19,14 +19,19 @@ tags:
   - subject/research-methodology
   - experiment
 related_concepts:
-  - "[[Internal Validity]]"
-  - "[[Pre-test Sensitisation]]"
-  - "[[Causality]]"
   - "[[Dependent Variable]]"
+  - "[[Causality]]"
+  - "[[Variable]]"
+  - "[[Independent Variable]]"
+  - "[[Pre-test Sensitisation]]"
+  - "[[Interaction Effect]]"
+  - "[[Order Effects]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Pretest-Posttest Control Group Design]]"
-  - "[[Repeated Measures Design]]"
+  - "[[Random Assignment]]"
+  - "[[Solomon Four-Group Design]]"
+  - "[[Time Series Design]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft

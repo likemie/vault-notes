@@ -20,10 +20,12 @@ related_concepts:
   - "[[Causality]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Research Purpose]]"
   - "[[Operationalization]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Conatus]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"

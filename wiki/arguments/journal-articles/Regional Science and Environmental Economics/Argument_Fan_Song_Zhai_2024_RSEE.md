@@ -35,6 +35,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Spatial Sortings]]"
   - "[[Causality]]"
+  - "[[Conatus]]"
   - "[[Document]]"
 related_theories:
   - "[[Coupling Coordination Theory]]"

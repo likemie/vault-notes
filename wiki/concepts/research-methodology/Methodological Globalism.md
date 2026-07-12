@@ -18,7 +18,6 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Epistemology]]"
   - "[[Scale in Higher Education]]"
-  - "[[Causality]]"
   - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Semi-Autonomy of Higher Education]]"

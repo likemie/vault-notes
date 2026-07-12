@@ -15,6 +15,7 @@ tags:
   - quantitative-research
   - design-type
 related_concepts:
+  - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Causality]]"
@@ -35,7 +36,7 @@ updated: 2026-07-13
 
 ## 定义
 
-> [!def] 单组前后测设计
+> [!def] 单组前[[Pre-test and Post-test|后测]]设计
 > 单组前后测设计（One-Group Pretest-Posttest Design）是最简单的[[Pre-Experimental Designs|前实验设计]]：仅对**单一组**参与者进行前测（O₁）、施加干预（X）、再进行后测（O₂），将 O₁−O₂ 的差异归因于干预。该设计无控制组、无[[Random Assignment|随机分配]]，Campbell & Stanley (1963) 将其列为展示混淆[[Variable|变量]]危及[[Internal Validity|内部效度]]的"坏例子"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 326–327]]）。
 
 > [!method-scope] 方法范围
@@ -47,7 +48,7 @@ updated: 2026-07-13
 ## 方法定位
 
 > [!method-position] 在[[Pre-Experimental Designs|前实验设计]]中的位置
-> - **为何是坏例子** 教育实验永远无法达到物理科学中的控制水平。一位物理学家加热金属棒可以自信地将膨胀归因于温度升高——因为她在实验室内排除了所有其他变异来源（Pilliner, 1973）。同样的控制程度在教育实验中永远无法达到：学生特征、教师特征、学校氛围、课堂组织、测量方式、学期内的上千件其他事件都可能影响前后测差异。
+> - **为何是坏例子** 教育实验永远无法达到物理科学中的控制水平。一位物理学家加热金属棒可以自信地将膨胀归因于温度升高——因为她在实验室内排除了所有其他变异来源（Pilliner, 1973）。同样的控制程度在教育实验中永远无法达到：学生特征、教师特征、学校氛围、课堂组织、测量方式、学期内的上千件其他事件都可能影响前[[Pre-test and Post-test|后测]]差异。
 > - **有效性标准** [[Internal Validity|内部效度]]极低——无法区分干预效果与成熟、历史、测验效应、工具变化和回归均值的混淆。
 > - **不能回答的问题** 无法回答"变化是否由干预导致"——只能报告"干预前后发生了变化"，但变化可能有十几个替代解释。
 
@@ -59,7 +60,7 @@ updated: 2026-07-13
 
 ## 研究程序
 
-> [!design-notation] 单组前后测设计
+> [!design-notation] 单组前[[Pre-test and Post-test|后测]]设计
 > 单一组接受前测、干预和后测，无控制组，无[[Random Assignment|随机分配]]（pp. 326–327）：
 >
 > - **实验组** ==O₁== `X` ==O₂==
@@ -79,7 +80,7 @@ updated: 2026-07-13
 ## 局限性
 
 > [!method-limits]
-> - **无控制组** 无法区分干预效果与自然成熟或历史事件的影响——前后测差异可能完全来自外部因素。
+> - **无控制组** 无法区分干预效果与自然成熟或历史事件的影响——前[[Pre-test and Post-test|后测]]差异可能完全来自外部因素。
 > - **无[[Random Assignment|随机分配]]** 无法排除选择偏差——单组本身可能具有特定特征使其对干预异常敏感（或不敏感）。
 > - **多重混淆无法分离** 成熟、历史、测验效应、工具变化、回归均值——所有这些威胁同时存在且无法分离。
 > - **[[Causality|因果推断]]几乎不可能** Campbell & Stanley (1963) 将其描述为展示混淆[[Variable|变量]]的"坏例子"——该设计只能产生[[Hypothesis|假设]]，不能检验假设。
@@ -89,7 +90,7 @@ updated: 2026-07-13
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Pre-Experimental Designs]] | 方法 | 所属类别——单组前后测是前实验设计的典型形式 |
+> | [[Pre-Experimental Designs]] | 方法 | 所属类别——单组前[[Pre-test and Post-test\|后测]]是前实验设计的典型形式 |
 > | [[Pretest-Posttest Control Group Design]] | 方法 | 升级版——增加控制组和[[Random Assignment\|随机分配]]，[[Internal Validity\|内部效度]]质的提升 |
 > | [[Quasi-Experimental Designs]] | 方法 | 升级替代——增加控制组（即使非随机）即可显著改善 |
 > | [[Random Assignment]] | 方法 | 缺失的关键——该设计最根本的缺陷就是缺乏随机分配 |
@@ -97,5 +98,5 @@ updated: 2026-07-13
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 将单组前后测设计列为[[Pre-Experimental Designs|前实验设计]]的一种，[[Internal Validity|内部效度]]最低。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8)]] — 将单组前[[Pre-test and Post-test|后测]]设计列为[[Pre-Experimental Designs|前实验设计]]的一种，[[Internal Validity|内部效度]]最低。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Adeyemi (1992) 博茨瓦纳社会科教师培训研究为例，展示单组前后测设计的应用和自我警惕；以 Campbell & Stanley (1963) 和 Pilliner (1973) 的类比说明其方法论缺陷。

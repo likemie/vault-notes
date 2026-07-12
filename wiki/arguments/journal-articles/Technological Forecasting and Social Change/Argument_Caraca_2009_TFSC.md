@@ -18,11 +18,11 @@ tags:
   - theme/university-industry-relations
   - region/global
 related_concepts:
-  - "[[Causality]]"
   - "[[Chain-linked Model]]"
   - "[[Learning Economy]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Causality]]"
   - "[[Blue Skies Research]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"

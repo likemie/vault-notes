@@ -73,7 +73,7 @@ updated: 2026-07-13
 > - **A₂（撤除）** ~~·~~ ==O₇== ==O₈== ==O₉==
 > - **B₂（再引入）** `X` ==O₁₀== ==O₁₁== ==O₁₂==
 
-> [!phase] ABAB 四个阶段的[[Causality|因果]]逻辑
+> [!phase] ABAB 四个阶段的因果逻辑
 >
 > - **A₁ 阶段（基线）**
 >
@@ -89,7 +89,7 @@ updated: 2026-07-13
 >
 > - **B₂ 阶段（再引入）**
 >
->   再次施加干预，观测行为是否**再次改善**。B₂ 是对 B₁ 的复制——两次独立验证使因果推断的可[[Reliability|信度]]大幅提升。
+>   再次施加干预，观测行为是否**再次改善**。B₂ 是对 B₁ 的复制——两次独立验证使[[Causality|因果推断]]的可[[Reliability|信度]]大幅提升。
 
 ## 适用场景
 
@@ -118,4 +118,4 @@ updated: 2026-07-13
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Kazdin (1982) ABAB 设计为框架，系统介绍四阶段的[[Causality|因果]]逻辑，并以 Dietz (1977) 在特殊教育中对一名青少年男孩使用 DRL 程序减少课堂干扰为例展示完整 ABAB 循环（Figure 16.5–16.6）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Kazdin (1982) ABAB 设计为框架，系统介绍四阶段的因果逻辑，并以 Dietz (1977) 在特殊教育中对一名青少年男孩使用 DRL 程序减少课堂干扰为例展示完整 ABAB 循环（Figure 16.5–16.6）。

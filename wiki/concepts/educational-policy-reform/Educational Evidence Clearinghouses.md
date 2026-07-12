@@ -21,7 +21,6 @@ tags:
 - region/eu
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Causality]]"
   - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
   - "[[Research Translation]]"

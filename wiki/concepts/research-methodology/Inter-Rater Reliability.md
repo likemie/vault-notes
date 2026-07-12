@@ -23,6 +23,7 @@ related_concepts:
   - "[[Test-Retest Reliability]]"
   - "[[Heterogeneity]]"
   - "[[Internal Consistency]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Halo Effect]]"

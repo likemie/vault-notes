@@ -21,7 +21,7 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Cognitive Source]]"
-  - "[[Causality]]"
+  - "[[Conatus]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
   - "[[Document]]"

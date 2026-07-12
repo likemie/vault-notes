@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Conatus]]"
   - "[[Progressive Education]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"

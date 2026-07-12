@@ -27,6 +27,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Evaluation Research]]"
   - "[[Academic Freedom]]"
+  - "[[Conatus]]"
   - "[[Concierge Service]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Co-location]]"

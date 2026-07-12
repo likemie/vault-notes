@@ -23,7 +23,6 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[School Leadership]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Causality]]"
   - "[[International Education]]"
   - "[[Competitiveness]]"
   - "[[Performance Indicators]]"

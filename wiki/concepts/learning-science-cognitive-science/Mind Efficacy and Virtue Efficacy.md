@@ -18,9 +18,10 @@ tags:
   - field/comparative-education
   - field/cultural-psychology
 related_concepts:
-  - "[[Causality]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
+  - "[[Causality]]"
+  - "[[Conatus]]"
   - "[[Cognitive Source]]"
   - "[[Chinese Learner]]"
   - "[[Western Learner]]"

@@ -98,7 +98,7 @@ Design-Based Research Collective (2003, p. 5) 和 Shavelson et al. (2003, p. 26)
 ## 资料与分析
 
 > [!info]
-> 设计研究开发的是**多[[Variable|变量]]剖面（profile of multiple variables）**，而非检验单一[[Hypothesis|假设]]（Lobato, 2003, p. 19）。数据收集贯穿整个迭代过程，包括参与者的观察记录、测量数据、反馈意见，以及设计者自身的设计日志。McCandliss et al. (2003, p. 15) 建议使用视频记录跨越时间捕获有效数据；Shavelson et al. (2003) 建议使用纵向叙事数据追踪跨时间的发展和[[Causality|因果]]演化，捕捉内在于设计研究原则中的复杂性和情境化特征。但叙事记述存在循环论证的风险，需要外部核查和制衡来验证知识宣称（Shavelson et al., 2003, p. 27）。
+> 设计研究开发的是**多[[Variable|变量]]剖面（profile of multiple variables）**，而非检验单一[[Hypothesis|假设]]（Lobato, 2003, p. 19）。数据收集贯穿整个迭代过程，包括参与者的观察记录、测量数据、反馈意见，以及设计者自身的设计日志。McCandliss et al. (2003, p. 15) 建议使用视频记录跨越时间捕获有效数据；Shavelson et al. (2003) 建议使用纵向叙事数据追踪跨时间的发展和因果演化，捕捉内在于设计研究原则中的复杂性和情境化特征。但叙事记述存在循环论证的风险，需要外部核查和制衡来验证知识宣称（Shavelson et al., 2003, p. 27）。
 
 Design-Based Research Collective (2003, p. 8) 将其生成的知识概括为四类（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）：
 

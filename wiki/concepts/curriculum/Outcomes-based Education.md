@@ -20,6 +20,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Powerful Knowledge]]"
   - "[[Educated Identity]]"
+  - "[[Conatus]]"
   - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"

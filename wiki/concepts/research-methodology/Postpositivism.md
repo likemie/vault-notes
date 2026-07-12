@@ -17,7 +17,6 @@ related_concepts:
   - "[[Postmodernism]]"
   - "[[Post-structuralism]]"
   - "[[Reflexivity]]"
-  - "[[Causality]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Complexity Theory]]"

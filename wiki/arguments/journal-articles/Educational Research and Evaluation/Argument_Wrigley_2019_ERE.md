@@ -33,8 +33,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Emergence]]"
-  - "[[Causality]]"
   - "[[Effect Size]]"
+  - "[[Causality]]"
   - "[[Visible Learning]]"
   - "[[Multiplicity]]"
 related_theories:

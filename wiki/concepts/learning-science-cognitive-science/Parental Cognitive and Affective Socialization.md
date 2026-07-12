@@ -20,7 +20,7 @@ tags:
   - field/cultural-psychology
 related_concepts:
   - "[[Learning Virtues]]"
-  - "[[Causality]]"
+  - "[[Conatus]]"
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
   - "[[Heart and Mind for Wanting to Learn]]"

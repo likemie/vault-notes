@@ -15,7 +15,6 @@ tags:
   - topic/educational-policy
   - topic/evaluation
 related_concepts:
-  - "[[Causality]]"
   - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
   - "[[Positivism]]"

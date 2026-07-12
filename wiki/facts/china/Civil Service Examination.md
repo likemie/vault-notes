@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Sage]]"
+  - "[[Conatus]]"
   - "[[Chinese Learner]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -72,7 +73,7 @@ updated: 2026-05-22
 具体而言：
 
 1. **学习的神圣化** 不论实际动机如何（物质回报或道德追求），愿意经受科举的严酷学习过程本身就证明了个人力量和承诺，"这就是值得尊重的理由"([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
-2. **分层激励** 达到[[Sage|圣人]]级别的伟人受敬畏，尽了最大努力但未走远的人也因其付出而受赞赏([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
+2. **分层激励** 达到[[Sage|圣人]]级别的伟人受敬畏，尽了最大[[Conatus|努力]]但未走远的人也因其付出而受赞赏([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
 3. **学与禄统一** "[[Self-Cultivation|修身]]学"与"获得人生中一切美好事物"合流为一，"通过历史代代相传，成为同一条路径"([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
 4. **文化持久性** Li 的实证研究表明，"尽管近几十年来经历了剧烈的政治、社会和经济变化，这种看待和投入学习的方式至今没有太大改变"([[Argument_Li_2012_Cambridge|Li, 2012, p.48]])
 

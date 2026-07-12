@@ -24,6 +24,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Chinese Learner]]"
   - "[[Paradox of the Chinese Learner]]"
+  - "[[Conatus]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
   - "[[Popper's Three Worlds Theory]]"

@@ -16,6 +16,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Conatus]]"
   - "[[Relational Space]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"

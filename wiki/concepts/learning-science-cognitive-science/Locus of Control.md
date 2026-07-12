@@ -17,6 +17,7 @@ tags:
   - theme/attribution
   - theme/achievement
 related_concepts:
+  - "[[Conatus]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
 related_theories:

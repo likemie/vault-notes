@@ -22,6 +22,7 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Otherhood]]"
   - "[[Document]]"
+  - "[[Conatus]]"
 related_theories:
   - "[[World Society Theory]]"
 related_methods: []

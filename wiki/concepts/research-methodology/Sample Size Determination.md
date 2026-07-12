@@ -21,7 +21,6 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
-  - "[[Causality]]"
   - "[[Confidence Interval]]"
   - "[[Independent Variable]]"
   - "[[Attrition]]"
@@ -67,7 +66,7 @@ updated: 2026-07-13
 ### 影响样本量的多重因素
 
 > [!feature] 影响样本量的因素
-> - **[[Research Purpose|研究目的]]与设计** [[Survey Research|调查研究]]通常需大样本（尤其是推论统计）；[[Ethnography|民族志]]或[[Qualitative Research|质性研究]]样本量通常较小。相关研究 ≥ 30 例，[[Causality|因果]]比较与实验 ≥ 15 例，调查每个主要子组 ≥ 100、每个次要子组 20–50（Borg & Gall, 1979: 194–5）。
+> - **[[Research Purpose|研究目的]]与设计** [[Survey Research|调查研究]]通常需大样本（尤其是推论统计）；[[Ethnography|民族志]]或[[Qualitative Research|质性研究]]样本量通常较小。相关研究 ≥ 30 例，因果比较与实验 ≥ 15 例，调查每个主要子组 ≥ 100、每个次要子组 20–50（Borg & Gall, 1979: 194–5）。
 > - **总体规模与[[Heterogeneity|异质性]]** 总体越大，所需样本越大；总体异质性越强，所需样本越大。但 Krejcie & Morgan（1970）发现，当总体增至一定程度后，所需样本量趋于恒定（约 384 例）。
 > - **[[Confidence Interval|置信水平]]与[[Confidence Interval|置信区间]]** 置信水平越高（如 99% vs 95%），样本量越大；置信区间越小（如 ± 3% vs ± 5%），样本量越大。常规策略：95% 置信水平 + 3% 置信区间。
 > - **[[Variable|变量]]类型** 类别数据（categorical data）通常比连续数据（continuous data）需要更大的样本。类别数据边际误差通常取 5%，连续数据取 3%（Bartlett et al., 2001: 45）。

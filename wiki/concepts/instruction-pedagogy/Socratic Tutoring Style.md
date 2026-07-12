@@ -18,7 +18,6 @@ tags:
   - region/western
 related_concepts:
   - "[[Cognitive Source]]"
-  - "[[Causality]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
   - "[[Confucian Tutoring Style]]"

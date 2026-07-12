@@ -23,6 +23,7 @@ related_concepts:
   - "[[Performativity of Measurement]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Universities Rankings]]"
+  - "[[Conatus]]"
   - "[[Learning Analytics]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"

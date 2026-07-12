@@ -29,6 +29,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Employability]]"
   - "[[Outcomes-based Education]]"
+  - "[[Conatus]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"

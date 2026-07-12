@@ -31,6 +31,7 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
   - "[[Homework]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Metacognition]]"
   - "[[Critical Thinking]]"
   - "[[Sample Size Determination]]"

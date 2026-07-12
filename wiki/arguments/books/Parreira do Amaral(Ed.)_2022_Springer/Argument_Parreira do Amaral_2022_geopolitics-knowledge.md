@@ -32,6 +32,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Classical Geopolitics]]"
+  - "[[Conatus]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Knowledge-Based Economization]]"

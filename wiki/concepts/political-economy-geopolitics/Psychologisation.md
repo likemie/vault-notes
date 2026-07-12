@@ -19,7 +19,6 @@ tags:
   - region/china
 related_concepts:
   - "[[Disciplina and Doctrina]]"
-  - "[[Causality]]"
   - "[[Progressive Education]]"
   - "[[Benevolence]]"
 related_theories: []

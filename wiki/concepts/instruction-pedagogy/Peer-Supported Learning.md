@@ -23,6 +23,7 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Class Size]]"
   - "[[Homework]]"
+  - "[[Conatus]]"
   - "[[Ideal Learner]]"
   - "[[Nerd]]"
   - "[[Zero-Sum Competition]]"

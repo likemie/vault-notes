@@ -16,7 +16,6 @@ tags:
 - causal-inference
 related_concepts:
   - "[[Multimethod Research]]"
-  - "[[Causality]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Evidence-Based Education]]"

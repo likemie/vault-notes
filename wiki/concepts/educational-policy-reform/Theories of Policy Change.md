@@ -15,7 +15,6 @@ tags:
   - governance
   - region/global
 related_concepts:
-  - "[[Causality]]"
   - "[[Performance Indicators]]"
   - "[[Return on Investment]]"
   - "[[Hypothesis]]"

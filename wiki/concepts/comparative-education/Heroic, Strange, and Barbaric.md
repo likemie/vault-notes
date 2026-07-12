@@ -15,6 +15,7 @@ tags:
   - theme/comparative-education
   - theory/critical-theory
 related_concepts:
+  - "[[Conatus]]"
   - "[[Educated Identity]]"
 related_theories: []
 related_methods: []

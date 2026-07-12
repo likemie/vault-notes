@@ -28,7 +28,6 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Positivism]]"
-  - "[[Causality]]"
   - "[[Interpretive Paradigm]]"
   - "[[Champ]]"
   - "[[Value Neutrality]]"
@@ -44,6 +43,7 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Research Question]]"
   - "[[Scientific Method]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Statistical Significance]]"
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"

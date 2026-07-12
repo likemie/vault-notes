@@ -21,7 +21,6 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Document]]"
   - "[[Asymmetric Brain Circulation]]"
-  - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Blue Skies Research]]"
 related_theories: []

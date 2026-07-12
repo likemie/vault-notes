@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Return on Investment]]"
   - "[[Preregistration]]"
+  - "[[Conatus]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Informed Consent]]"
   - "[[Paradigm]]"

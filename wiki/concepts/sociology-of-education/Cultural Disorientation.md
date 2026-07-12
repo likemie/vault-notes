@@ -27,6 +27,7 @@ related_concepts:
   - "[[Value Conformist Mode]]"
   - "[[Reflexivity]]"
   - "[[The Shock of the Elite]]"
+  - "[[Conatus]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
@@ -90,6 +91,6 @@ updated: 2026-05-18
 > [!example] 概念辨析
 > - vs [[Cultural Disembedding]] — "文化脱嵌"侧重外部环境的疏离感，是短期性的第一重障碍；"文化[[Lost Mode|迷失]]"侧重内在自我的冲突和方向丧失，是更根本的、长期性的第二重障碍（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - vs [[The Shock of the Elite]] — 精英休克描述了弱势学生进入精英大学后的整体冲击（包括物质、认同和信息三个层面），"文化迷失"则聚焦于冲击后果中的目标失焦和内在自我冲突这一特定面向。两者在[[Habitus|习性]]裂化这一点上高度重叠
-> - vs [[Lost Mode]] — 迷失无从者是文化迷失在毕业出路产生机制中的极端表现：既缺乏策略性工具，也未能内化一套自洽的价值信念，在四类中处于最不利地位
+> - vs [[Lost Mode]] — 迷失无从者是文化迷失在毕业出路产[[Conatus|生机]]制中的极端表现：既缺乏策略性工具，也未能内化一套自洽的价值信念，在四类中处于最不利地位
 >
 

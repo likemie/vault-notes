@@ -19,6 +19,7 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Self-Cultivation]]"
+  - "[[Conatus]]"
   - "[[Ideal Learner]]"
   - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"
@@ -31,7 +32,6 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
-  - "[[Causality]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Rote Learning]]"
   - "[[Hypothesis]]"

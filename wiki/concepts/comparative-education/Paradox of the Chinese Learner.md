@@ -23,6 +23,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Examination Hell]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Conatus]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Learning Gap]]"

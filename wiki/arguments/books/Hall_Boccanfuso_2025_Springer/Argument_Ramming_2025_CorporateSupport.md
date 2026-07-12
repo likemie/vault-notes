@@ -35,10 +35,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Joint Faculty Appointments]]"
   - "[[Research Question]]"
+  - "[[Conatus]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Research Scope]]"
   - "[[Precompetitive Research]]"
-  - "[[Causality]]"
   - "[[Return on Investment]]"
 related_theories:
   - "[[Triple Helix]]"

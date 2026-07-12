@@ -23,7 +23,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Independent Variable]]"
-  - "[[Causality]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Dependent Variable]]"
   - "[[Research Writing Script]]"

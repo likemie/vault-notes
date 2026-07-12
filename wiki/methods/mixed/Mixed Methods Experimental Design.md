@@ -19,6 +19,7 @@ tags:
   - method/experimental
   - method/complex-design
 related_concepts:
+  - "[[Pre-test and Post-test]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods:
@@ -56,7 +57,7 @@ updated: 2026-06-02
 > 质性数据嵌入实验的三个时间点和对应的核心设计([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.245–246]])：
 >
 > **1. 实验前——嵌入[[Exploratory Sequential Design|探索性序列设计]]**
-> - 质性数据用于：招募参与者、开发可操作的干预措施、开发好的前后测测量工具
+> - 质性数据用于：招募参与者、开发可操作的干预措施、开发好的前[[Pre-test and Post-test|后测]]测量工具
 > - 质性发现为实验设计提供基础
 >
 > **2. 实验中——嵌入[[Convergent Design|聚敛式设计]]**
@@ -87,7 +88,7 @@ updated: 2026-06-02
 ## 使用此方法的研究
 
 > [!example]
-> - Betancourt et al. (2011) — 在卢旺达使用[[Mixed Methods Research|混合方法研究]]来调整和评价一项家庭强化干预，先从[[Qualitative Interview|质性访谈]]和[[Literature Review|文献回顾]]出发开发文化适切的测量工具，再在实验干预中使用这些工具作为前后测评估([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.248]])。
+> - Betancourt et al. (2011) — 在卢旺达使用[[Mixed Methods Research|混合方法研究]]来调整和评价一项家庭强化干预，先从[[Qualitative Interview|质性访谈]]和[[Literature Review|文献回顾]]出发开发文化适切的测量工具，再在实验干预中使用这些工具作为前[[Pre-test and Post-test|后测]]评估([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.248]])。
 
 ---
 

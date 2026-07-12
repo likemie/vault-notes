@@ -23,6 +23,7 @@ related_concepts:
   - "[[Paradox of the Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Bildung]]"
+  - "[[Conatus]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"

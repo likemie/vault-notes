@@ -29,6 +29,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Revoicing]]"
+  - "[[Conatus]]"
   - "[[Return on Investment]]"
 related_theories: []
 related_methods:

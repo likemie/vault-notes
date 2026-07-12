@@ -30,7 +30,6 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Chain of Evidence]]"
   - "[[Individualised Instruction]]"
-  - "[[Causality]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
   - "[[Societies of Control]]"

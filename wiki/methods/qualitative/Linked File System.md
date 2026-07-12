@@ -20,6 +20,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[External Validity]]"
   - "[[Deductive Disclosure]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Research Topic]]"
   - "[[Reliability]]"
   - "[[Sensitive Research]]"
@@ -58,7 +59,7 @@ updated: 2026-07-11
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合** 需要跨多个时间点跟踪同一参与者（如前后测、追踪访谈），同时又必须保护参与者匿名性的研究；参与者因[[Research Topic|研究主题]]敏感而特别需要身份保护的情况。
+> - **适合** 需要跨多个时间点跟踪同一参与者（如前[[Pre-test and Post-test|后测]]、追踪访谈），同时又必须保护参与者匿名性的研究；参与者因[[Research Topic|研究主题]]敏感而特别需要身份保护的情况。
 > - **谨慎** [[Qualitative Research|质性研究]]中，参与者的叙述细节本身可能暴露其身份（[[Deductive Disclosure|演绎披露]]风险），即使链接文件系统防止了直接识别。
 > - **不适合** 完全匿名且单次接触的研究（不需要跟踪同一参与者）；参与者身份必须在分析中保留的研究。
 

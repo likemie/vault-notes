@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Self-Efficacy]]"
-  - "[[Causality]]"
   - "[[Effect Size]]"
 related_theories: []
 related_methods:

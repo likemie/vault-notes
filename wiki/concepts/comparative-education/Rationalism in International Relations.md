@@ -39,7 +39,6 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Travelling Policy]]"
   - "[[Methodological Educationism]]"
-  - "[[Methodological Nationalism]]"
   - "[[Methodological Statism]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
