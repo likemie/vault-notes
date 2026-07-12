@@ -116,7 +116,7 @@ citation_aliases:
 > > 如果研究者聚焦于转移的内容，总能找到共同点；但如果把本地情境放到前景、关注借出与借入的能动者、追问"为什么某个理念或话语被转移了"，就会得到完全不同的理解(p. 158，引自 p. 224)
 >
 >
-> Phillips & Ochs 的框架是这个领域最系统的努力，但他们自己也承认瓶颈所在。结构性类型学（Structural Typology）列出了 13 种情境因素，但在"如何从列举走向分析"这一步停住了。Phillips & Ochs (2004a) 坦承："评估一项在别处观察到的政策被有目的地采纳和调整以适应本国环境的程度……是[[Policy Borrowing|政策借用]]研究者面临的最困难任务"(p. 782，引自 p. 226)。
+> Phillips & Ochs 的框架是这个领域最系统的[[Conatus|努力]]，但他们自己也承认瓶颈所在。结构性类型学（Structural Typology）列出了 13 种情境因素，但在"如何从列举走向分析"这一步停住了。Phillips & Ochs (2004a) 坦承："评估一项在别处观察到的政策被有目的地采纳和调整以适应本国环境的程度……是[[Policy Borrowing|政策借用]]研究者面临的最困难任务"(p. 782，引自 p. 226)。
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig2_Structural_Typology.png)
 >

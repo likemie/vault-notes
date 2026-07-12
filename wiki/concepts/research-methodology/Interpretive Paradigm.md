@@ -61,7 +61,7 @@ updated: 2026-07-11
 > [!concept-lens] 概念透镜
 > - **含义** 一种研究范式，主张社会现实由行动者主动建构，研究者须从参与者内部视角理解意义，而非从外部测量[[Variable|变量]]。
 > - **用途** 为[[Qualitative Research|质性研究]]提供[[Ontology|本体论]]和[[Epistemology|认识论]]基础，指引研究者以描述而非预测、归纳而非演绎、整体而非原子化的方式理解和研究社会现象。
-> - **边界** 不能推出量化概括、[[Causality|因果]]效应估计或普遍法则；不同构型与不同理论传统（[[Symbolic Interactionism|符号互动论]]、[[Phenomenology|现象学]]、[[Ethnomethodology|俗民方法学]]等）交叉。
+> - **边界** 不能推出量化概括、因果效应估计或普遍法则；不同构型与不同理论传统（[[Symbolic Interactionism|符号互动论]]、[[Phenomenology|现象学]]、[[Ethnomethodology|俗民方法学]]等）交叉。
 
 ---
 

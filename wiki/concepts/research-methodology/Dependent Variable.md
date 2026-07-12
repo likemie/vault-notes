@@ -54,7 +54,7 @@ updated: 2026-07-12
 > [!def] 因[[Variable|变量]]
 > 因变量（dependent variable）是实验或[[Quantitative Research|量化研究]]中的**输出变量**，即**结果变量（outcome variable）**。因变量的变化被假定为[[Independent Variable|自变量]]的操纵或选择所导致，通过测量因变量在干预前后的变化来评估干预的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）。
 
-在真实验中，因变量在前测和后测两个时间点被测量，前后测之间的差异（控制组与实验组对比）提供了干预效应的估计。在[[Ex Post Facto Research|事后回溯研究]]中，因变量是已发生的自然结果，回溯性地搜索可能的原因变量。
+在真实验中，因变量在[[Pre-test and Post-test|前测]]和后测两个时间点被测量，前后测之间的差异（控制组与实验组对比）提供了干预效应的估计。在[[Ex Post Facto Research|事后回溯研究]]中，因变量是已发生的自然结果，回溯性地搜索可能的原因变量。
 
 > [!concept-lens] 因变量在[[Causality|因果推断]]中的角色
 > - **含义** 因变量是因果链条中的**后果**，被假定为受自变量影响的变量。因变量不是操纵的对象，而是被观察和记录的对象。
@@ -75,9 +75,9 @@ updated: 2026-07-12
 > - **有效指标** 操作性指标必须是[[Hypothesis|假设]]变量的有效指标，体操测试是体适能的合理代理，身高则不是。因变量与其所代表的[[Construct|构念]]之间的对应关系直接影响研究的[[Internal Validity|内部效度]]（p. 330）。
 > - **敏感性与变化范围** 因变量必须对[[Independent Variable|自变量]]的变化足够敏感，能够反映出干预产生的差异。如果因变量的测量精度不足或变化范围过窄，即使干预有效也可能检测不到（pp. 330–331）。
 > - **多重测量** 同一因变量可以通过多种方式测量（如行为测量和自评测量），以增强结果的可[[Reliability|信度]]和构念覆盖面（p. 330）。
-> - **时机考量** 因变量的后测时机直接影响结果：过早可能错失延迟效应，过晚则无法排除其他因素的干扰（pp. 334–335）。
+> - **时机考量** 因变量的[[Pre-test and Post-test|后测]]时机直接影响结果：过早可能错失延迟效应，过晚则无法排除其他因素的干扰（pp. 334–335）。
 
-在[[Pretest-Posttest Control Group Design|前后测控制组设计]]中，[[Causality|因果]]效应被量化为实验组前后测差异减去控制组前后测差异，即 $(E_1 - E_2) - (C_1 - C_2)$，其中后测测量的是因变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 314]]）。
+在[[Pretest-Posttest Control Group Design|前后测控制组设计]]中，因果效应被量化为实验组前后测差异减去控制组前后测差异，即 $(E_1 - E_2) - (C_1 - C_2)$，其中后测测量的是因变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 314]]）。
 
 因变量的[[Operationalization|操作化]]质量是[[External Validity|外部效度]]的关键威胁之一。如果因变量的操作性定义不充分，测量到的不是真正的[[Construct|构念]]，则整个研究的结论可能指向错误的对象。在 Shevington 语言教学研究中，因缺乏足够难度的标准化阅读测验作为后测，不得不自行编制测验且未提供信效度信息，这引入了工具化威胁（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 336–337]]）。
 
@@ -91,7 +91,7 @@ updated: 2026-07-12
 > | **角色** | 输出（outcome），结果 | 输入（input），原因 |
 > | **操纵方式** | 被观察和测量，不被操纵 | 被主动操纵或选择 |
 > | **[[Causality\|因果]]位置** | 后果（presumed effect） | 前因（presumed cause） |
-> | **研究设计中的处理** | 通过前测和后测测量其变化 | 控制、隔离、操纵其水平 |
+> | **研究设计中的处理** | 通过[[Pre-test and Post-test\|前测]]和后测测量其变化 | 控制、隔离、操纵其水平 |
 > | **示例** | 考试成绩、康复速度、阅读能力 | 教学方法、药物剂量、课程时长 |
 
 ---

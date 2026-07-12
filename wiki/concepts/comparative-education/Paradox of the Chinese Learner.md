@@ -108,7 +108,7 @@ updated: '2026-05-23'
 这一层面的研究直接挑战了"[[Rote Learning|死记硬背]]"标签：
 
 - **记忆作为深度策略** Marton、Dall'Alba 和 Tse 发现[[Chinese Learner|中国学习者]]的记忆**不是目的本身**，而是达成深度理解的更大策略的第一步([[Argument_Li_2012_Cambridge|Li, 2012, p.86]])。详见 [[Surface and Deep Learning#跨文化挑战：中国学习者的记忆-理解路径]]
-- **两种"理解"概念** Dahlin 和 Watkins 发现英国学生用重复来**检查**是否记住了，中国学生用重复来创造"深刻印象"以奠定理解基础；英国学生认为理解是突然顿悟，中国学生认为理解是长期智力努力的过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.86-87]])
+- **两种"理解"概念** Dahlin 和 Watkins 发现英国学生用重复来**检查**是否记住了，中国学生用重复来创造"深刻印象"以奠定理解基础；英国学生认为理解是突然顿悟，中国学生认为理解是长期智力[[Conatus|努力]]的过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.86-87]])
 - **四步学习链** Pratt、Kelly 和 Wong 发现中国学生遵循记忆→理解→应用→质疑与修正的四步序列——前三个步骤更适合独自学习和沉思，第四步才是口头互动性的。这意味着中国学习者的学习过程不受即时口头交流的约束([[Argument_Li_2012_Cambridge|Li, 2012, pp.87-88]])
 - **自主选择的文化差异** Iyengar 和 Lepper 发现个人自主选择对欧裔美国儿童的学习有益，但对亚裔美国儿童并非如此——后者在重要他人为他们选择任务时同样表现良好([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])
 
@@ -125,7 +125,7 @@ updated: '2026-05-23'
 > - [[Surface and Deep Learning]] — 悖论的"低效学习方法"一面涉及对该二分法的跨文化挑战：[[Confucian Heritage Cultures|CHC]] 研究显示"记忆"可以是通往深层理解的路径而非其替代品
 > - [[Cultural Models]] — Li 的研究框架：文化模型影响和引导（但不决定）成员行为，因此 CHC 学习者的行为需要在 CHC 文化模型内而非西方模型内被理解
 > - [[Chinese Learner]] — Li 从儒家文本和实证研究中提炼的系统性学习者画像，为悖论提供了解释框架
-> - [[Learning Gap]] — Stevenson 和 Stigler 的归因研究发现（努力 vs 能力）为悖论提供了认知层面的解释
+> - [[Learning Gap]] — Stevenson 和 Stigler 的归因研究发现（[[Conatus|努力]] vs 能力）为悖论提供了认知层面的解释
 
 ---
 

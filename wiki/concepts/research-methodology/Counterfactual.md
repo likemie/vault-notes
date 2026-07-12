@@ -57,7 +57,7 @@ updated: 2026-07-08
 
 ## 围绕概念形成的命题
 
-> [!claim] 反事实作为[[Causality|因果]]识别的标志
+> [!claim] 反事实作为因果识别的标志
 > 一个区分因果是否发生的标志是反事实的存在——即确定 X（[[Hypothesis|假设]]的原因）的缺失会导致 Y（效果）的缺失（Mackie, 1993）。这与单纯的时间先后形成对比：休谟的"优先性"标准（原因先于效果）只是因果的[[Necessary and Sufficient Conditions|必要条件]]，反事实则提供了一个更强的检验。
 
 > [!claim] 反事实推理在实验与非[[Experimental Research|实验研究]]中的不对称性
@@ -71,7 +71,7 @@ updated: 2026-07-08
 ## 应用案例
 
 > [!case] 冰面摔倒的例子
-> 如果路上没有冰，我不会摔倒并骨折——因此冰的存在是效果的促成原因之一。但冰不是充分原因：即使有冰，如果我的平衡感好、视力好、光线充足、鞋底有抓地力、骨质不脆，我也不会摔断手臂。这说明了反事实推理在多重[[Causality|因果]]情境中的使用边界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 55–56]]）。
+> 如果路上没有冰，我不会摔倒并骨折——因此冰的存在是效果的促成原因之一。但冰不是充分原因：即使有冰，如果我的平衡感好、视力好、光线充足、鞋底有抓地力、骨质不脆，我也不会摔断手臂。这说明了反事实推理在多重因果情境中的使用边界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 55–56]]）。
 
 > [!case] 实验控制组作为反事实
 > 在教育实验中，控制组充当了反事实的代理——控制组的结果被假定为反映了实验组"如果没有接受干预"会发生的情况。这一假定的有效性取决于[[Random Assignment|随机分配]]是否成功实现了 ceteris paribus（其他条件相同）条件（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 56]]）。

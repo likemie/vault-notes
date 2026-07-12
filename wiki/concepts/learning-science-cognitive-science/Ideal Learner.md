@@ -92,7 +92,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 >    - 高智力（high intelligence）
 >    - 失败（failure）
 >    - 不理解概念（not understanding concepts）
->    - 努力后仍学不会（inability to learn despite effort）
+>    - [[Conatus|努力]]后仍学不会（inability to learn despite effort）
 >    - 无聊（boredom）
 > 4. **情感模式** 与好学习和坏学习相关的情感——学习者感受到什么、对成就和失败做出怎样的情感反应
 

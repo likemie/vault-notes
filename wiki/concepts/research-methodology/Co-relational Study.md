@@ -37,11 +37,11 @@ updated: 2026-07-12
 ## 定义
 
 > [!def] 共变关系研究（Co-relational Study）
-> 共变关系研究是[[Ex Post Facto Research|事后回溯研究]]中的一种基本设计类型，有时也称[[Causality|因果]]研究（causal research）。它旨在识别当前条件的先行因素（antecedents），通过收集两组数据（其中一组为回溯性数据）来确定[[Independent Variable|自变量]]（X）与[[Dependent Variable|因变量]]（O）之间的关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 307]]）。
+> 共变关系研究是[[Ex Post Facto Research|事后回溯研究]]中的一种基本设计类型，有时也称因果研究（causal research）。它旨在识别当前条件的先行因素（antecedents），通过收集两组数据（其中一组为回溯性数据）来确定[[Independent Variable|自变量]]（X）与[[Dependent Variable|因变量]]（O）之间的关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 307]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 共变关系研究的基本设计可表示为 X → O（Campbell & Stanley, 1963 符号：X = 自变量，O = 因变量）。研究者收集自[[Variable|变量]]和因变量各一组数据，通过计算关联度量来探索二者之间是否存在事后关系。
-> - **用途** 作为探索性工具，产出的关联度量是朝因果关系方向推进的有用第一步。虽然自身通常不足以建立因果关系，但能揭示变量之间"什么与什么相伴"的模式。
+> - **用途** 作为探索性工具，产出的关联度量是朝[[Causality|因果关系]]方向推进的有用第一步。虽然自身通常不足以建立因果关系，但能揭示变量之间"什么与什么相伴"的模式。
 > - **边界** 共变关系研究无法确定因果方向。即使发现强相关，三种竞争性解释仍然开放：X 导致 O、O 导致 X、或某个未识别的第三变量同时导致 X 和 O（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 307]]）。
 
 ---

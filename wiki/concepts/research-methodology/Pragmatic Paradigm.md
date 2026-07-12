@@ -91,6 +91,6 @@ Denscombe（2008）从库恩的[[Paradigm|范式]]论出发，主张将[[Mixed M
 ## 概念辨析
 
 > [!example] 与相关概念的区别
-> - vs [[Postpositivism]] — 后[[Positivism|实证主义]]以理论检验和[[Causality|因果]]识别为核心，实用主义以[[Research Question|研究问题]]为中心、以方法多元为手段，不以单一[[Ontology|本体论]]为皈依
+> - vs [[Postpositivism]] — 后[[Positivism|实证主义]]以理论检验和因果识别为核心，实用主义以[[Research Question|研究问题]]为中心、以方法多元为手段，不以单一[[Ontology|本体论]]为皈依
 > - vs [[Constructivist Paradigm]] — 建构主义专注于参与者的主观意义，实用主义则关注行动的实际后果和问题的有效解决
 > - vs [[Pragmatism in China]] — Pragmatism in China 讨论的是实用主义哲学（尤其是 Dewey 的实用主义）在中国的传播与接受史，属比较教育领域；本条目聚焦于实用主义作为研究哲学立场在方法论层面的应用

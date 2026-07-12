@@ -149,7 +149,7 @@ updated: 2026-07-11
 > > [!axis] 多边合作理性趋同 vs 方法论国家/[[Methodological Educationism|教育主义]]盲区
 > > 争论世界文化的规范性趋同究竟是促进全球民主与人权的进步合作，还是打着“中立科学”旗号对异质本土情境的体制化抹杀。
 > > - **理性世界文化论者 (Meyer, Ramirez)** 认为全球教育标准的一致化代表了人类尊严、人权和科学理性的合法单向整合。(引自 [[Argument_Klerides, 2023, p. 425]])
-> > - **去国家中心批判学者 (Dale, Robertson)** 犀利指出，理性主义的研究极易陷入“[[Methodological Nationalism|方法论国家主义]]、[[Methodological Statism|方法论国家中心主义]]和方法论 educationism”的陷阱，由于过度依赖多边指标而忽视了这些指标在实质上复制和掩盖了新自由主义资本主义的不平等权力压迫。(引自 [[Argument_Klerides, 2023, p. 423]])
+> > - **去国家中心批判学者 (Dale, Robertson)** 犀利指出，理性主义的研究极易陷入“[[Methodological Statism|方法论国家主义]]、[[Methodological Statism|方法论国家中心主义]]和方法论 educationism”的陷阱，由于过度依赖多边指标而忽视了这些指标在实质上复制和掩盖了新自由主义资本主义的不平等权力压迫。(引自 [[Argument_Klerides, 2023, p. 423]])
 
 ---
 

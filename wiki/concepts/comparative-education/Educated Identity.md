@@ -97,7 +97,7 @@ updated: 2026-06-23
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1965 — 文化理解[[Paradigm|范式]] (Verstehen)** Lauwerys (1965) 提出以理解国家教育理想的方式来对比英、法、美、苏的受教育身份模型，强调其背后不同的哲学和文化脉络，此阶段受教育身份是理解文化的努力。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 333]])
+> - **1965 — 文化理解[[Paradigm|范式]] (Verstehen)** Lauwerys (1965) 提出以理解国家教育理想的方式来对比英、法、美、苏的受教育身份模型，强调其背后不同的哲学和文化脉络，此阶段受教育身份是理解文化的[[Conatus|努力]]。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 333]])
 > - **1970s 至今 — 量化与效率导向的异化** [[International Education|国际教育]]成就评价协会（International Association for the Evaluation of Educational Achievement，IEA）和[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）国际测试兴起，将受教育身份[[Operationalization|操作化]]为可测量的、通用的学习结果与绩效数据，导致比较教育重心从文化理解转向效率衡量，沦为效率运动的附属品。([[Argument_Cowen_2023_CE|Cowen, 2023, pp. 333–334]])
 > - **2009 — [[Global Policy Space|全球政策空间]]下的多级[[Transfer Translation Transformation|转译]]** [[Argument_Beech_2009_CE|Beech (2009)]] 指出信息时代的受教育身份被超国家机构重构为“能力”和“多样性”等[[Floating Signifier|漂浮能指]]，并追踪其在降落到拉美地方实践时经历的多级[[Shape-Shifting|形变]]与妥协。([[Argument_Beech_2009_CE|Beech, 2009, pp. 353–361]])
 > - **2023 — 重建未来的道德与智识支点** [[Argument_Cowen_2023_CE|Cowen (2023)]] 将其提炼为重构学科未来的二元支点之一，用以在人工智能（Artificial Intelligence，AI）教学与监控资本主义主导的“[[Totally Pedagogised Society|全盘教育化社会]]”中重新确立人道主义与生命伦理底线。([[Argument_Cowen_2023_CE|Cowen, 2023, pp. 335–336]])

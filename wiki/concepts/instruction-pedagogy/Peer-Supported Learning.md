@@ -69,7 +69,7 @@ updated: 2026-05-25
 > Peer-Supported Learning 的文化基础：
 > - 同学 — 同伴即"一同学习的朋友"，而非地位平等的竞争者
 > - [[Learning Virtues|学习美德]] — 帮人者展现慷慨与责任，求助者展现[[Humility in Learning|谦逊]]，均属学习美德
-> - 自我可塑性信念 — 东亚文化相信人人可通过努力改善学业，因此学业水平不是固定标签([[Argument_Li_2012_Cambridge|Li, 2012, p.210–211]])
+> - 自我可塑性信念 — 东亚文化相信人人可通过[[Conatus|努力]]改善学业，因此学业水平不是固定标签([[Argument_Li_2012_Cambridge|Li, 2012, p.210–211]])
 
 ## 实证发现
 
@@ -82,6 +82,6 @@ updated: 2026-05-25
 ## 概念辨析
 
 > [!example]
-> - vs [[Nerd]] (School Peer Culture) — 在西方学校中，对学业感兴趣并努力学习的学生被污名化为"书呆子"并遭受同伴骚扰；在东亚学校中，同样特征的学生则受到尊重、被视为榜样
+> - vs [[Nerd]] (School Peer Culture) — 在西方学校中，对学业感兴趣并[[Conatus|努力]]学习的学生被污名化为"书呆子"并遭受同伴骚扰；在东亚学校中，同样特征的学生则受到尊重、被视为榜样
 > - vs [[Zero-Sum Competition]] (School) — 西方学生将竞争视为零和博弈（一人赢意味着他人输）；Peer-Supported Learning 中的互助模式使得合作与竞争并存，所有参与者共同提高
 

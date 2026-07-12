@@ -78,7 +78,7 @@ updated: 2026-07-13
 >
 > $$\text{平均因果效应} = (E_1 - E_2) - (C_1 - C_2)$$
 >
-> - **数学解释** E₁ = 实验组后测，E₂ = 实验组前测，C₁ = 控制组后测，C₂ = 控制组前测。(E₁−E₂) 是实验组的干预+自然变化，(C₁−C₂) 是控制组的纯自然变化，两者相减得纯净的干预效应。
+> - **数学解释** E₁ = 实验组[[Pre-test and Post-test|后测]]，E₂ = 实验组前测，C₁ = 控制组后测，C₂ = 控制组前测。(E₁−E₂) 是实验组的干预+自然变化，(C₁−C₂) 是控制组的纯自然变化，两者相减得纯净的干预效应。
 > - **前提条件** 依赖于**其他条件不变（ceteris paribus）**——除干预外，两组在所有其他方面完全相同。[[Random Assignment|随机化]]正是试图满足这一前提的关键手段（Morrison, 2009, pp. 143–144）。
 
 > [!quote]
@@ -179,7 +179,7 @@ updated: 2026-07-13
 > 评估因果主张时的一个重要考量是未测量的第三变量是否导致了结果。Reichenbach (1956) 和 Salmon (1998) 提出的筛选隔离（screening off）框架指出：当两个变量被一个共同原因所驱动时，二者之间只有相关关系而无因果关系。在因果分析中，应通过**偏相关**和**结构方程模型**等技术筛掉无关变量，确保一个变量不被误认为对另一个变量有因果影响（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 59–60]]；[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.56]]）。
 
 > [!warning]
-> 如果研究目标是检验两个或多个变量之间的因果主张，最佳选择是进行真实验（[[Experimental Research|true experiment]]），因为这能对潜在的未测量变量提供更强的控制（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.57]]）。
+> 如果研究目标是检验两个或多个变量之间的因果主张，最佳选择是进行真实验（true experiment），因为这能对潜在的未测量变量提供更强的控制（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.57]]）。
 
 ---
 

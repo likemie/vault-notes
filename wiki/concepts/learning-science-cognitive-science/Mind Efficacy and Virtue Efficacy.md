@@ -63,7 +63,7 @@ updated: 2026-05-25
 > [!abstract]
 > 台湾母亲的 Virtue Efficacy 归因模式：
 
-- **美德来源** 母亲在对话中强化[[Learning Virtues|学习美德]]的[[Causality|因果关系]]——"你付出了努力才学会的""你坚持不懈地练习""你不能懒惰"([[Argument_Li_2012_Cambridge|Li, 2012, p.259–265]])。
+- **美德来源** 母亲在对话中强化[[Learning Virtues|学习美德]]的[[Causality|因果关系]]——"你付出了[[Conatus|努力]]才学会的""你坚持不懈地练习""你不能懒惰"([[Argument_Li_2012_Cambridge|Li, 2012, p.259–265]])。
 - **美德效力的因果链** 以游泳学习为例，母亲引导孩子的因果推理链条为：孩子最初害怕水 → 有人教导技术 → 孩子掌握技术，克服恐惧 → 但掌握需要通过大量练习 → 练习越多，进步越大 → 努力（辛苦）是学习的必然代价 → 做任何事都不能懒惰([[Argument_Li_2012_Cambridge|Li, 2012, p.260–265]])。
 - **美德的普遍性** 母亲最终将具体学习情境中的美德上升为普遍原则——"种瓜得瓜，种豆得豆"（as thou sow, so you shall reap）([[Argument_Li_2012_Cambridge|Li, 2012, p.264–265]])。
 
@@ -80,14 +80,14 @@ updated: 2026-05-25
 > [!example]
 > - vs 学习[[Pride in Learning|骄傲]] — Mind Efficacy 与[[Western Learner|西方学习者]]因展示高能力而感到骄傲的文化一致；Virtue Efficacy 则使东亚学习者更强调[[Humility in Learning|谦逊]]而非骄傲
 > - vs [[Establishing One's Will|立志]] — Mind Efficacy 将学习动力归于情境性兴趣和好奇心；Virtue Efficacy 将学习动力归于长期志向和承诺
-> - vs Weiner [[Attribution Theory|归因理论]] — 西方归因理论将"能力"和"努力"作为两个平行的内部归因维度；Virtue Efficacy 则将努力视为道德修养的核心，能力是努力的结果而非独立维度
+> - vs Weiner [[Attribution Theory|归因理论]] — 西方归因理论将"能力"和"[[Conatus|努力]]"作为两个平行的内部归因维度；Virtue Efficacy 则将努力视为道德修养的核心，能力是努力的结果而非独立维度
 
 ## 实证发现
 
 > [!success]
 > - Li 和 Fung 收集了 160 组母-子对话（欧美与台湾各半），通过结构分析、序列分析和话语分析发现：两组母亲都积极社会化孩子的学习信念，但认知框架迥异([[Argument_Li_2012_Cambridge|Li, 2012, p.238–240]])。
 > - 序列分析显示：无论以什么话题开始，欧美母-子对话最终都围绕"积极情感"和"心智/学习活动"展开；台湾母-子对话最终都围绕"[[Learning Virtues|学习美德]]"展开([[Argument_Li_2012_Cambridge|Li, 2012, p.240–248]])。
-> - 话语分析进一步揭示：欧美母亲引导孩子将好成绩归因于"照相式记忆力""聪明"等心智特质；台湾母亲引导孩子将成功归因于"自己付出了努力""坚持练习不放弃"([[Argument_Li_2012_Cambridge|Li, 2012, p.248–265]])。
+> - 话语分析进一步揭示：欧美母亲引导孩子将好成绩归因于"照相式记忆力""聪明"等心智特质；台湾母亲引导孩子将成功归因于"自己付出了[[Conatus|努力]]""坚持练习不放弃"([[Argument_Li_2012_Cambridge|Li, 2012, p.248–265]])。
 > - 欧美母亲对好学习的因果链以心智理解力为核心环节——母亲用自己的心智帮助孩子"figure out"问题([[Argument_Li_2012_Cambridge|Li, 2012, p.256–258]])。
 > - 台湾母亲对好学习的因果链以持续练习为核心环节——"你练习了又练习，然后越来越好"([[Argument_Li_2012_Cambridge|Li, 2012, p.260–261]])。
 

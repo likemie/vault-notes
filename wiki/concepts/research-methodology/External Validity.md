@@ -106,7 +106,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > > | | 总体缺乏代表性 | 样本不代表[[Study Population and Sample\|目标总体]] |
 > > | | [[Hawthorne Effect\|霍桑效应]] | 受试者因被研究而改变行为 |
 > > | | 因变量[[Operationalization\|操作化]]不充分 | 测量在真实世界中缺乏效度 |
-> > | | 对实验条件敏感化 | 前测改变了受试者对干预的反应 |
+> > | | 对实验条件敏感化 | [[Pre-test and Post-test\|前测]]改变了受试者对干预的反应 |
 > > | | 外来因素[[Interaction Effect\|交互效应]] | 混淆因素与处理交互作用 |
 > > | | 工具无效或不可靠 | 数据本身不可信 |
 > > | | [[Ecological Validity\|生态效度]] | 一种情境的发现能否推广到另一情境 |

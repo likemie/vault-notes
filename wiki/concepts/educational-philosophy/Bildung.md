@@ -171,7 +171,7 @@ updated: 2026-07-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **IB DP 知识论课程批判** 分析了 TOK 课程将学生设定为“空无知者”的黑格尔式教化预设，揭示了缺乏具身想象力和情感支持的理性训练容易异化为策略性应试。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212–213]]
+> - **[[IB Diploma Programme|IB DP]] [[Theory of Knowledge|知识论]]课程批判** 分析了 TOK 课程将学生设定为“[[Empty Knower|空无知者]]”的黑格尔式教化预设，揭示了缺乏具身想象力和情感支持的理性训练容易异化为策略性应试。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212–213]]
 > - **丹麦公立学校改革** 2014 年改革在课程中嵌入近 3000 个细碎的学习目标，体现了学习[[Paradigm|范式]]对教化空间的挤压。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]]
 > - **芬兰基础教育国家核心课程** 其倡导的跨学科[[Phenomenon-Based Learning|现象本位学习]]，在哲学上可理解为通过教化和教学论传统对抗技能原子化倾向的政策尝试。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 > - **SveaSus 项目** 高等教师教育领域的教学实验，提供了一个围绕可持续性开展具身、情感与认知多维教化实践的具体情境。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]

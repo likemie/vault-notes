@@ -67,7 +67,7 @@ updated: 2026-06-23
 > | **核心问题** | 条目是否一致地测量同一[[Construct\|构念]]？ | 测量在不同时间是否稳定？ | 不同评分者是否一致？ |
 > | **施测次数** | 一次 | 两次（间隔一定时间） | 一次（但多位评分者） |
 > | **偏差来源** | 条目之间的[[Heterogeneity\|异质性]] | 时间带来的变化 | 评分者之间的主观差异 |
-> | **典型指标** | Cronbach's α、Spearman-Brown | 前后测相关系数 | Cohen's κ、Fleiss' κ、ICC |
+> | **典型指标** | Cronbach's α、Spearman-Brown | 前[[Pre-test and Post-test\|后测]]相关系数 | Cohen's κ、Fleiss' κ、ICC |
 > | **[[Reliability\|信度]]类型** | 内部一致性 | 稳定性 | 等值性 |
 
 ---

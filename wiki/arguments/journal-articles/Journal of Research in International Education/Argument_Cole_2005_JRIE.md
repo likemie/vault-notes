@@ -92,7 +92,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **黑格尔教育哲学**<br>[[Bildung]] & [[Empty Knower]] | 将教育界定为通过辩证否定脱离直接自然生活的艰苦教化过程（Bildung）。学生被预设为空无的认知者，通过理性的限制和反思，从个体的欲望上升到国家与公民社会的普遍秩序。（pp.212, 219, 221） |
 > | **斯宾诺莎一元论与情感政治**<br>[[Conatus]] & [[International Spinozian Curriculum]] | 反对思维与物质的二元对立，将世界视为无否定和矛盾的内在性平面。人是由欲望，即欲力（conatus）驱动的具身存在，理性和直觉植根于想象力的感知，情感是认知的前置力量。（pp.213–214, 221–222） |
-> | **后现代知识状况** | 让-弗朗索瓦·利奥塔（Jean-François Lyotard）认为在完美信息可触及的后现代环境下，知识的产出不再依赖信息垄断，而是取决于能够建立全新联系、改变游戏规则的想象力，这构成了后现代知识状况（the postmodern condition）的变革。（p.220） |
+> | **后现代知识状况** | [[Jean-François Lyotard\|让-弗朗索瓦·利奥塔]]（Jean-François Lyotard）认为在完美信息可触及的后现代环境下，知识的产出不再依赖信息垄断，而是取决于能够建立全新联系、改变游戏规则的想象力，这构成了后现代知识状况（the [[Postmodernism\|postmodern]] condition）的变革。（p.220） |
 
 > [!warrant]- 理论如何支撑论证
 > 作者首先使用黑格尔的教化和空无的认知者概念剖析[[Theory of Knowledge|知识论]]课程将理性作为外部纪律规范在应试体制下的失败，接着引入斯宾诺莎的情感政治和欲力学说，论证课堂中被压抑的情感风暴实际上是认知生成的本源力量，最后结合利奥塔的后现代知识理论，指出在信息泛滥的当今，必须依靠斯宾诺莎的想象力课程作为连接不同学科的创新滋养机制，从而将学生的哲学探索从被动的应试训练转变为主动的自主解放。（pp.212, 220–222）
@@ -104,13 +104,13 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **哲学阐释与文本互证**<br>Philosophical hermeneutics | 对比阐释黑格尔《精神现象学》（Phenomenology of Spirit）中的辩证意识形成、教化逻辑及《法哲学原理》（Elements of the Philosophy of Right）中的公民社会与市场体系，与斯宾诺莎《伦理学》（Ethics）中实体的一元属性、想象力、欲力及《神学政治论》（Tractatus Theologico-Politicus）中的群体力量等概念，解析两套哲学在教育目的、师生关系与知识性质上的本体论分歧。（pp.212–215, 218, 222） |
-> | **经验批判与政策分析**<br>Experience critique & Policy analysis | 剖析国际文凭知识论官方指南（TOK Guide）中涉及认知者、认知方式与知识领域的三角结构，并结合创办人亚历克·彼得森（Alec Peterson）的历史文献，反思评估标准与实际课堂上师生权力互动的偏离，运用梅根·博勒（Megan Boler）的情感政治分析框架剖析课堂上的情感落差（educational fallout）与权力运作。（pp.212–213, 215, 222） |
+> | **哲学阐释与文本互证**<br>Philosophical hermeneutics | 对比阐释黑格尔《精神[[Phenomenology\|现象学]]》（Phenomenology of Spirit）中的辩证意识形成、[[Bildung\|教化]]逻辑及《法哲学原理》（Elements of the Philosophy of Right）中的公民社会与市场体系，与斯宾诺莎《伦理学》（Ethics）中实体的一元属性、想象力、[[Conatus\|欲力]]及《神学政治论》（Tractatus Theologico-Politicus）中的群体力量等概念，解析两套哲学在教育目的、[[Student-Teacher Relationship\|师生关系]]与知识性质上的[[Ontology\|本体论]]分歧。（pp.212–215, 218, 222） |
+> | **经验批判与政策分析**<br>Experience critique & Policy analysis | 剖析[[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]官方指南（TOK Guide）中涉及认知者、认知方式与知识领域的三角结构，并结合创办人亚历克·彼得森（Alec Peterson）的历史[[Document\|文献]]，反思评估标准与实际课堂上师生权力互动的偏离，运用梅根·博勒（Megan Boler）的情感政治[[Analytic Framework\|分析框架]]剖析课堂上的情感落差（educational fallout）与权力运作。（pp.212–213, 215, 222） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **理论文本** | 黑格尔（Wood, 1998; Pinkard, 1994）、斯宾诺莎（Gilles Deleuze, 1992; Michael Hardt, 1993）、让-弗朗索瓦·利奥塔（Jean-François Lyotard, 1984）的经典学术论著，以及托马斯·霍布斯（Thomas Hobbes）、让-雅克·卢梭（Jean-Jacques Rousseau）的社会契约（social contract）文本。（pp.212, 218, 220, 222） |
+> | **理论文本** | 黑格尔（Wood, 1998; Pinkard, 1994）、斯宾诺莎（Gilles Deleuze, 1992; Michael Hardt, 1993）、[[Jean-François Lyotard\|让-弗朗索瓦·利奥塔]]（Jean-François Lyotard, 1984）的经典学术论著，以及托马斯·霍布斯（Thomas Hobbes）、让-雅克·[[Jean-Jacques Rousseau\|卢梭]]（Jean-Jacques Rousseau）的社会契约（social contract）文本。（pp.212, 218, 220, 222） |
 > | **实证情境** | 作者在阿根廷圣乔治北校（St George's College North）担任英语与知识论主管期间（2000–2003）的一线教学案例，以及在埃及、哥伦比亚、法国、德国等[[International Schools\|国际学校]]的长期跨文化教育观察。（pp.211, 224） |
 
 ---

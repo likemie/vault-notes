@@ -79,5 +79,5 @@ updated: 2026-07-03
 
 > [!evidence-grid] 教育免疫学与情境抗性研究
 > - **[[Argument_Cowen_2009_CE|Cowen (2009)]]** 奠定教育免疫学的理论本源，通过德国对美式综合中学的抗拒和中国对[[John Dewey|杜威]]思想的过滤，阐述情境防卫的重要性。
-> - **[[Geometries of Insertion]]** 反向反映了新自由主义政策借鉴试图攻破本土文化免疫防线、实现“无缝[[Social Cloning|社会克隆]]”的嵌入努力与伦理边界。
+> - **[[Geometries of Insertion]]** 反向反映了新自由主义政策借鉴试图攻破本土文化免疫防线、实现“无缝[[Social Cloning|社会克隆]]”的嵌入[[Conatus|努力]]与伦理边界。
 > - **[[Transfer Translation Transformation]]** 框架中的转化（Transformation）阶段，是本土免疫反应与外来嵌入政策展开长期拉锯、最终实现 indigenisation 或 extinction 的主战场。

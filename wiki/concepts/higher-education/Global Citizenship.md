@@ -66,7 +66,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 核心定义
-> 全球公民（Global Citizenship，在教育研究中常延伸为全球公民教育 GCED）在教育语境中不是一个法定的主权身份概念，而是一个关于能力、品质与责任维度的[[Analytic Framework|分析框架]]。它界定了使个体在全球互联的世界中有效行动、理解多元文化、践行社会正义并关注全球共同议题（如生态可持续性）的一组[[21st Century Skills and Competencies Discourse|核心素养]]。这一概念挑战了基于[[Methodological Nationalism|方法论国家主义]]（Methodological Nationalism）的传统国民身份认同。 (引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 87]] 与 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
+> 全球公民（Global Citizenship，在教育研究中常延伸为全球公民教育 GCED）在教育语境中不是一个法定的主权身份概念，而是一个关于能力、品质与责任维度的[[Analytic Framework|分析框架]]。它界定了使个体在全球互联的世界中有效行动、理解多元文化、践行社会正义并关注全球共同议题（如生态可持续性）的一组[[21st Century Skills and Competencies Discourse|核心素养]]。这一概念挑战了基于[[Methodological Statism|方法论国家主义]]（[[Methodological Nationalism]]）的传统国民身份认同。 (引自 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p. 87]] 与 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种超越主权国家边界的、跨文化的、生态关怀的受教育者身份（[[Educated Identity]]）重构。

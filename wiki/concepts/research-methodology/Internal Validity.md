@@ -108,8 +108,8 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > > | | [[Attrition\|流失]]（Mortality/Attrition） | 退出者可能恰好是效果最差的受试者 |
 > > | **实验处理** | 处理扩散（Diffusion） | 对照组与实验组交流导致交叉污染 |
 > > | | 补偿性怨恨（Resentful Demoralization） | 对照组因不公平感而消极表现 |
-> > | | 补偿性竞争（Compensatory Rivalry） | 对照组加倍努力以证明不差于实验组 |
-> > | **实验程序** | 测验（Testing） | 前测使受试者熟悉工具或记住答案 |
+> > | | 补偿性竞争（Compensatory Rivalry） | 对照组加倍[[Conatus\|努力]]以证明不差于实验组 |
+> > | **实验程序** | 测验（Testing） | [[Pre-test and Post-test\|前测]]使受试者熟悉工具或记住答案 |
 > > | | 工具（Instrumentation） | 前后测之间测量工具或评分者变化 |
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 164–166)]]

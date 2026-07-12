@@ -111,7 +111,7 @@ updated: 2026-07-08
 > [[Argument_Li_2025_HSSC|Li et al. (2025)]]在对 85 篇 PISA 政策影响实证研究的[[Systematic Review|系统综述]]中揭示，PISA 通过新自由主义教育价值（问责、标准化、学校间竞争）的全球扩散，推动各国接受以排名和比较数据为基础的改革逻辑，使 GERM 的五大核心支柱获得了前所未有的跨国制度载体。PISA 在宏观、中观和微观三层决策上驱动各国接受 GERM 的核心要素——标准化的能力测评框架、基于比较数据的政策问责、去情境化的最佳实践转移（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 
 > [!claim] 命题二：GERM 通过 PISA 的三层运作机制实现全球化
-> PISA 驱动 GERM 的三层运作机制（[[Argument_Li_2025_HSSC|Li et al., 2025]]）：在**宏观决策层面**，PISA 推动各国接受新自由主义教育价值（德国、法国增加支出，日本纳入 [[PISA Literacy|PISA 素养]]，韩国改变[[Reference Society|参考社会]]选择），呼应 GERM 的标准化和市场化支柱；在**中观决策层面**，PISA 推动了各国建立与 PISA 对接的全国性教育评估和监测体系（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP），直接服务于 GERM 的测试问责和偏狭关注支柱；在**微观决策层面**，PISA 推动课程改革和学制调整（德国 NES 课程、瑞士义务教育延长），呼应 GERM 的低风险路径和标准化教学支柱。
+> PISA 驱动 GERM 的三层运作机制（[[Argument_Li_2025_HSSC|Li et al., 2025]]）：在**宏观决策层面**，PISA 推动各国接受新自由主义教育价值（德国、法国增加支出，日本纳入 PISA 素养，韩国改变[[Reference Society|参考社会]]选择），呼应 GERM 的标准化和市场化支柱；在**中观决策层面**，PISA 推动了各国建立与 PISA 对接的全国性教育评估和监测体系（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP），直接服务于 GERM 的测试问责和偏狭关注支柱；在**微观决策层面**，PISA 推动课程改革和学制调整（德国 NES 课程、瑞士义务教育延长），呼应 GERM 的低风险路径和标准化教学支柱。
 
 > [!chain-link] PISA 的软治理 → GERM 的跨国制度化
 > [[OECD]] 通过 PISA 建立国际认知共同体——以相同概念和分数讨论教育政策（Rautalin & Alasuutari, 2009）→ PISA 排名设立模范社会（芬兰、上海），为各国提供[[Policy Borrowing|政策借用]]制度模板 → 各国在排名压力下参照模范社会进行教育改革，接受 GERM 的标准化和问责逻辑 → PISA 的三层影响机制（超国家软治理、国家自我认知落差、内部行动者[[Transfer Translation Transformation|转译]]）使 GERM 在不施加法律强制的情况下实现全球扩散（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
@@ -149,7 +149,7 @@ updated: 2026-07-08
 > 2001 年 PISA 结果公布后，德国经历了 PISA 冲击——PISA 暴露了德国教育体系的隐患，直接推动了三项产出导向改革规范：建立教育标准与集中监测、去顶层化治理、提高教育标准（Niemann et al., 2017）。Yore et al.（2010）指出德国改革反映了从投入导向到产出导向的范式转换——教育政策制定融入了循证治理模式，完全契合 GERM 的企业管理和测试问责逻辑（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 
 > [!case] 日本：从宽松教育到证据—改进循环
-> 日本 1980–1990 年代的宽松教育（yutori education）在 PISA 2003 结果公布后受到质疑，[[PISA Literacy|PISA 素养]]概念于 2004 年被纳入国家课程目标（Ninomiya, 2019）。PISA 进一步影响了日本学校教育管理体系中证据—改进循环（evidence-improvement cycle）的构建——学校管理者以学业成就数据为证据推动管理改进，体现了 GERM 的标准化课程和测试问责在日本教育体系中的制度化（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+> 日本 1980–1990 年代的宽松教育（yutori education）在 PISA 2003 结果公布后受到质疑，PISA 素养概念于 2004 年被纳入国家课程目标（Ninomiya, 2019）。PISA 进一步影响了日本学校教育管理体系中证据—改进循环（evidence-improvement cycle）的构建——学校管理者以学业成就数据为证据推动管理改进，体现了 GERM 的标准化课程和测试问责在日本教育体系中的制度化（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 
 > [!case] 瑞士、挪威与加拿大：评估基础设施的 GERM 化
 > 瑞士通过 [[HarmoS]]（Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule）引入全国统一教育标准和延长义务教育（9→11 年），标志着从投入导向到产出控制的范式转变（Bieber & Martens, 2011）。加拿大 CEIP 引入基于 PISA 的学生成就卓越度指标（Baird et al., 2016）。挪威同样在 PISA 影响下建立了国家教育质量监测体系。展示了 GERM 的标准化评估和问责逻辑如何通过 PISA 在全球范围内获得制度基础设施（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。

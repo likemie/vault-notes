@@ -97,7 +97,7 @@ citation_aliases:
 > - Gu et al. (2020) 在南京实施的大规模准实验，验证了在线英语学习平台的有效性，且教师及其教学行为对成功至关重要
 >
 > **传播知晓维度：**
-> - Slavin et al. (2020) 介绍了 Johns Hopkins University 教育改革研究中心通过网站、通讯和博客传播研究证据的努力
+> - Slavin et al. (2020) 介绍了 Johns Hopkins University 教育改革研究中心通过网站、通讯和博客传播研究证据的[[Conatus|努力]]
 > - [[What Works Clearinghouse]] 作为 IES 旗舰项目，审查多领域的实践方案研究
 >
 > **实施激励维度：**

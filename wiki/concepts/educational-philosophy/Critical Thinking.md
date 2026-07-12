@@ -66,7 +66,7 @@ updated: 2026-07-04
 ## 核心要素
 
 > [!feature] 批判性思维的核心技能（基于 Delphi Report, Facione, 1990）
-> - **澄清意义（Clarification）** 努力澄清不熟悉术语的含义和定义，确保理解的精确性。
+> - **澄清意义（Clarification）** [[Conatus|努力]]澄清不熟悉术语的含义和定义，确保理解的精确性。
 > - **理解新材料的关联（Integration）** 将新材料与已有知识或经验建立联系。
 > - **多角度表述问题（Reformulation）** 以多种方式重新表述问题，以澄清其含义和范围。
 > - **分解问题（Decomposition）** 将复杂问题分解为子问题逐一处理。

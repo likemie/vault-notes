@@ -70,12 +70,12 @@ updated: 2026-05-18
 >
 > > "The positivists dream of an epistemological state of perfect innocence papers over the fact that the crucial difference is not between a science that effects construction and one that does not, but between a science that does this without knowing it and one that, being aware of the work of construction, strives to discover and master as completely as possible the nature of its inevitable acts of construction and the equally inevitable effects those acts produce."（Bourdieu et al., 1993/1999, p.608，引自 Eacott, 2015, p.323）
 >
-> 核心区分不是"建构的科学"与"不建构的科学"，而是**知道自己正在建构并努力理解这一建构过程的科学**与**不知道自己正在建构的科学**。
+> 核心区分不是"建构的科学"与"不建构的科学"，而是**知道自己正在建构并[[Conatus|努力]]理解这一建构过程的科学**与**不知道自己正在建构的科学**。
 
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Epistemological Break]] — 断裂是**初始的决裂**，警觉是**持续的维护**。断裂是"转身"的动作，警觉是"不往回走"的努力
+> - vs [[Epistemological Break]] — 断裂是**初始的决裂**，警觉是**持续的维护**。断裂是"转身"的动作，警觉是"不往回走"的[[Conatus|努力]]
 > - vs [[Reflexivity]]（反思性） — 两者高度相关但侧重不同：反思性更广泛地指研究者对自身社会位置的审视，[[Epistemology|认识论]]警觉特别聚焦于**日常语言和前科学概念**的渗透问题
 
 ## 理论基础

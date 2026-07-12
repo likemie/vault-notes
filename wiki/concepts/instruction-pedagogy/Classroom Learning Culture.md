@@ -56,5 +56,5 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - 与 [[School Norm Adaptation]] 相比，它是班级层面的环境[[Variable|变量]]；与 [[Motivation and Work Effort]] 相比，它强调班级学习氛围，不直接描述个体努力程度。
+> - 与 [[School Norm Adaptation]] 相比，它是班级层面的环境[[Variable|变量]]；与 [[Motivation and Work Effort]] 相比，它强调班级学习氛围，不直接描述个体[[Conatus|努力]]程度。
 

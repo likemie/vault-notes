@@ -76,7 +76,7 @@ updated: 2026-06-23
 > |---|---|---|---|
 > | **核心问题** | 不同的人在评分时是否一致？ | 量表内部条目间是否一致？ | 同一工具在不同时间点是否稳定？ |
 > | **偏差来源** | 评判者之间的主观差异 | 条目之间的[[Heterogeneity\|异质性]] | 时间带来的变化 |
-> | **典型指标** | Cohen's κ、Fleiss' κ、ICC | [[Internal Consistency\|Cronbach's α]] | 前后测相关系数 |
+> | **典型指标** | Cohen's κ、Fleiss' κ、ICC | [[Internal Consistency\|Cronbach's α]] | 前[[Pre-test and Post-test\|后测]]相关系数 |
 > | **典型场景** | [[Observational and Correlational Research\|观察研究]]、测验评分 | 量表开发与验证 | [[Longitudinal Study\|纵向研究]]、实验前后测 |
 
 ---

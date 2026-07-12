@@ -42,7 +42,7 @@ updated: 2026-07-12
 ## 定义
 
 > [!def] 标准组研究（Criterion Group Study）
-> 标准组研究是[[Ex Post Facto Research|事后回溯研究]]中的一种基本设计类型，有时也称[[Causality|因果]]-比较研究（causal-comparative research）。它通过比较[[Variable|变量]]存在的被试（标准组）与变量不存在的相似被试（对照组），即注意给定效应在何种情境下出现与不出现，来发现所研究现象的可能原因（Lord, 1973, p. 3）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 307]]）。
+> 标准组研究是[[Ex Post Facto Research|事后回溯研究]]中的一种基本设计类型，有时也称因果-比较研究（causal-comparative research）。它通过比较[[Variable|变量]]存在的被试（标准组）与变量不存在的相似被试（对照组），即注意给定效应在何种情境下出现与不出现，来发现所研究现象的可能原因（Lord, 1973, p. 3）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 307]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 标准组研究的基本设计可表示为：实验组 E（暴露于 X → 产生 O₁）与对照组 C（未暴露于 X → 产生 O₂）的比较。虚线表示两组不是通过[[Random Assignment|随机分配]]来等价的。
@@ -62,5 +62,5 @@ updated: 2026-07-12
 
 ## 应用案例
 
-> [!case] Morrison（2009, p. 181）：[[Effective Teaching|有效教学]]的[[Causality|因果]]-比较研究
+> [!case] Morrison（2009, p. 181）：[[Effective Teaching|有效教学]]的因果-比较研究
 > [[Hypothesis|假设]]要建立有效教学的原因，并假设一个原因是与部门同事进行课程规划（collegial curriculum planning）。研究设计包含两个标准组：(a) 存在同事课程规划；(b) 不存在同事课程规划。通过检查两组教师在教学效能上的差异，可以推断一个可能的因果差异。但第三因素（如教职工社交性）可能同时影响有效/无效教学和有无同事课程规划，即两条因果路径可能共享一个共同原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, pp. 307–308]]）。
