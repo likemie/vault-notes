@@ -3,8 +3,6 @@ title: Ex Post Facto Research
 aliases:
   - 事后回溯研究
   - Ex Post Facto Design
-  - Causal-comparative Research
-  - Causal Research
 summary: "一种回溯性非实验研究设计，通过观察已发生的因变量并逆向搜索可能的自变量来探索因果关系，属于准实验的一种形式"
 type: method
 method_type: quantitative

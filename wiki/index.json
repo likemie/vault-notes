@@ -4865,6 +4865,16 @@
     ]
   },
   {
+    "title": "Co-relational Study",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Co-relational Study.md",
+    "aliases": [
+      "共变关系研究",
+      "Causal Research",
+      "co-relational design"
+    ]
+  },
+  {
     "title": "Coherence in Writing",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Coherence in Writing.md",
@@ -5032,6 +5042,17 @@
       "covert observation",
       "秘密参与",
       "隐蔽参与"
+    ]
+  },
+  {
+    "title": "Criterion Group Study",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Criterion Group Study.md",
+    "aliases": [
+      "标准组研究",
+      "Causal-comparative Research",
+      "criterion group design",
+      "causal-comparative design"
     ]
   },
   {
@@ -9192,9 +9213,7 @@
     "path": "wiki/methods/quantitative/Ex Post Facto Research.md",
     "aliases": [
       "事后回溯研究",
-      "Ex Post Facto Design",
-      "Causal-comparative Research",
-      "Causal Research"
+      "Ex Post Facto Design"
     ]
   },
   {
