@@ -118,7 +118,7 @@ updated: 2026-07-13
 
 > [!dev-timeline] ToK 作为 [[International Baccalaureate|IB]] 核心要素的发展
 > - **1968 — [[IB Diploma Programme|IB DP]] 创立** IB 文凭项目正式启动，ToK 作为三项核心要素之一被纳入。
-> - **2005 — 课程哲学的批判与重构** Cole (2005) 批判了 TOK 将学生设定为“[[Empty Knower|空无知者]]”并过度依赖黑格尔教化哲学的局限，提出以想象力与欲力（[[Conatus]]）为核心的“[[International Spinozian Curriculum|国际斯宾诺莎主义课程]]”替代方案，将其概念化为一种通过释放想象力来连接后现代知识领域的“滋养机制”。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 212, 220)]]
+> - **2005 — 课程哲学的批判与重构** [[Argument_Cole_2005_JRIE|Cole (2005)]] 批判了 TOK 将学生设定为“[[Empty Knower|空无知者]]”并过度依赖黑格尔教化哲学的局限，提出以想象力与欲力（[[Conatus]]）为核心的“[[International Spinozian Curriculum|国际斯宾诺莎主义课程]]”替代方案，将其概念化为一种通过释放想象力来连接后现代知识领域的“滋养机制”。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 212, 220)]]
 > - **2014：澳大利亚全国研究** Cole et al.（2014）完成 IB 委托的首个澳大利亚 ToK 全国研究，系统检验了 ToK 与批判性思维技能发展的关系。
 > - **2015 — 澳大利亚实证证据** 量化结果显示 ToK 学生的批判性思维技能随年级提高，DP 毕业生进入大学时的学术准备指标也高于非 DP 毕业生。[[Argument_Cole_2015_AJE|Cole et al. (2015)]]
 

@@ -144,7 +144,7 @@ updated: 2026-07-13
 
 真实验（true experiment）、准实验（quasi-experiment）、[[ABAB Design|单一案研究]]、[[Design-Based Research|设计研究]]和[[Internet-Based Experiments|网络实验]]五类方法的逻辑、设计类型和效度考量，在第15章[[Ex Post Facto Research|事后回溯研究]]之后展开。核心主题是[[Causality|因果推断]]，每种设计都在不同程度上回应如何排除替代解释以建立因果关系这一问题（pp. 311–342）。
 
-作为研究设计选型的参考手册：先明确[[Random Assignment|随机化]]的可行性，再根据是否有对照组、是否有前测、是否操纵多个自[[Variable|变量]]等条件选择对应的设计类型。同时可结合因果关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|第4章]]）、效度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|第10章]]）、事后回溯研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|第15章]]）、[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|第17章]]）、[[t-test|t检验]]与[[Analysis of Variance|方差分析]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch36|第36章]]）。
+作为研究设计选型的参考手册：先明确[[Random Assignment|随机化]]的可行性，再根据是否有对照组、是否有[[Pre-test and Post-test|前测]]、是否操纵多个自[[Variable|变量]]等条件选择对应的设计类型。同时可结合因果关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|第4章]]）、效度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|第10章]]）、事后回溯研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|第15章]]）、[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|第17章]]）、[[t-test|t检验]]与[[Analysis of Variance|方差分析]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch36|第36章]]）。
 
 ---
 
@@ -379,7 +379,7 @@ $$\text{因果效应} = (O_2 - RO_1) - (O_4 - RO_3)$$
 
 #### 仅后测控制组与实验组设计
 
-[[Posttest-Only Control Group Design|仅后测控制组与实验组设计]]是真实验设计的变体：随机分配后取消前测，仅依赖随机化本身保证组间基线等价。
+仅后测控制组与实验组设计是[[True Experimental Design|真实验设计]]的变体：随机分配后取消前测，仅依赖随机化本身保证组间基线等价。
 
 > [!warrant]- 为什么取消前测？
 > 前测本身可能使受试者对实验变量敏感（[[Pre-test Sensitisation|前测敏感化]]），也可能让参与者猜到[[Research Purpose|研究目的]]而改变行为。当随机化已确保组间等价、且担心前测污染时，取消前测是合理选择。代价是无法用前测分数验证随机化是否成功、无法测量个体层面的变化量，只能依赖组间后测差异推断因果。
@@ -571,7 +571,7 @@ Mitchell & Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题�
 >
 > - **实验组** ~~·~~ ==O₁== `X` ==O₂==
 
-Campbell & Stanley (1963) 将[[One-Group Pretest-Posttest Design|单组前后测设计]]描述为展示混淆变量危及[[Internal Validity|内部效度]]的坏例子。表面逻辑是 O₁–O₂ 的差异归因于 X，但教育实验永远无法达到物理科学中的控制水平：
+Campbell & Stanley (1963) 将单组前后测设计描述为展示混淆变量危及[[Internal Validity|内部效度]]的坏例子。表面逻辑是 O₁–O₂ 的差异归因于 X，但教育实验永远无法达到物理科学中的控制水平：
 
 > [!critique-method] 教育实验 vs 物理实验的控制鸿沟
 > 一位物理学家对金属棒加热，可以自信地将观察到的膨胀归因于温度升高，因为在实验室的范围内，她已**排除（即控制）了所有其他外部变异来源（Pilliner, 1973）**。
@@ -842,7 +842,7 @@ Torgerson & Torgerson (2003b) 系统识别了 RCT 中的多种偏差（pp. 332�
 
 #### 实例 1：前实验设计，博茨瓦纳社会科教师培训
 
-Adeyemi (1992) 使用[[One-Group Pretest-Posttest Design|单组前后测设计]]研究 1991–92 年度研究生教育文凭（Postgraduate Diploma in Education）学生经过一年社会科教学培训后，其教学哲学取向是否发生变化。
+Adeyemi (1992) 使用单组前后测设计研究 1991–92 年度研究生教育文凭（Postgraduate Diploma in Education）学生经过一年社会科教学培训后，其教学哲学取向是否发生变化。
 
 > [!design-notation] Adeyemi (1992) 研究设计
 > 单组前后测，无控制组，无随机分配（p. 335）：
