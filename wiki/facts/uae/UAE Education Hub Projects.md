@@ -10,7 +10,7 @@ subtype: policy
 region: uae
 fact_region: "uae"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"

@@ -10,7 +10,7 @@ summary: "测量两个连续变量间关联强度与方向的推断统计方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

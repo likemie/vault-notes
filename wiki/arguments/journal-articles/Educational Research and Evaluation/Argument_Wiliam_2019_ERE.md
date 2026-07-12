@@ -9,7 +9,7 @@ title: "Argument_Wiliam_2019_ERE"
 argument_key: "Argument_Wiliam_2019_ERE"
 argument_display_title: "Some reflections on the role of evidence in improving education"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

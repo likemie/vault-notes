@@ -11,10 +11,10 @@ aliases:
 summary: "实验中在干预前后分别进行的测量，前测建立基线等价性，后测测量干预效应，两者的时机安排直接影响因果推断的有效性"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - experiment

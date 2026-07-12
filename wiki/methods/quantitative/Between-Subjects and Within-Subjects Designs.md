@@ -8,7 +8,7 @@ summary: "实验设计的两种基本类型，between-subjects 每位受试者�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

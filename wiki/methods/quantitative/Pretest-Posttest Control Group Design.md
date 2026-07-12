@@ -9,7 +9,7 @@ summary: "最经典的真实验设计，随机分配参与者至实验组和控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

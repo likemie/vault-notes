@@ -6,7 +6,7 @@ aliases:
 summary: "Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 5
+theory_related_count: 6
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"

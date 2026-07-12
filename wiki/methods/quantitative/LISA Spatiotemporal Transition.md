@@ -9,7 +9,7 @@ summary: "一种基于Moran散点图像限转移矩阵的探索性时空数据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 5
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"

@@ -5,7 +5,7 @@ aliases:
 summary: "弱势背景学生在场域转换过程中出现的自我冲突、目标迷失和行动失向，用于描述高等教育文化障碍的定向失调维度。"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

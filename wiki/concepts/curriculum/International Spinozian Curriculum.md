@@ -6,7 +6,7 @@ aliases:
 summary: "由 Cole (2005) 提出的一种以想象力和情感政治为核心的课程设计主张，主张在内在性平面上通过组合学生身体的相遇与欲力以引导智识创新。"
 type: concept
 domain: "curriculum"
-related_count: 0
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

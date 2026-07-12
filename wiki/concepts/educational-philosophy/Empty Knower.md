@@ -8,10 +8,10 @@ aliases:
 summary: "黑格尔主义教育哲学中的一个学生隐喻，指在尚未填充具体课程内容时虽缺乏实质知识储备，但被设想为天然具备理性精神潜能，能够通过辩证否定走向绝对精神的认知主体。"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/epistemology
   - subject/educational-philosophy

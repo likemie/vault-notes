@@ -8,7 +8,7 @@ aliases:
 summary: "儒家政治社会思想中千年之久的理想社会形态，强调每个家庭有充足食物与安稳生活，1982年被中国政府设为经济社会发展目标并实现"
 type: concept
 domain: "chinese-philosophy"
-related_count: 1
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

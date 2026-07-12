@@ -11,7 +11,7 @@ summary: "美国比较教育心理学家，通过 The Learning Gap 等跨国比�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

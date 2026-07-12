@@ -11,7 +11,7 @@ summary: "ESSA证据层级中对应中等证据的量化研究设计，核心判
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

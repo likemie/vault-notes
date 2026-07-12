@@ -7,7 +7,7 @@ aliases:
 summary: "解释大学生如何通过学术融入与社交融入逐步稳定留在高等教育体系中的学生发展概念，强调归属感与参与质量的重要性"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

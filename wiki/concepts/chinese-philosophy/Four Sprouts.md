@@ -4,7 +4,7 @@ aliases: ["四端", "siduan", "four beginnings"]
 summary: "孟子提出的性善论基础，四种先天的道德萌芽，恻隐之心，羞恶之心，辞让之心，是非之心，为修身提供人性论依据"
 type: concept
 domain: "chinese-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

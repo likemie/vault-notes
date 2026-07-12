@@ -8,10 +8,10 @@ summary: "澳大利亚教育心理学家，中国学习者悖论的核心研究�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags: ["region/australia", "field/comparative-education", "field/educational-psychology"]
 related_concepts:
   - "[[Paradox of the Chinese Learner]]"

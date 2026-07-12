@@ -8,7 +8,7 @@ aliases:
 summary: "Kitwood (1977) 提出的访谈研究中信度与效度的根本矛盾——通过标准化和理性化增强信度的程度越高，访谈的效度就越低，因为访谈中独特的人性元素对其效度是必要的"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

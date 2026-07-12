@@ -9,7 +9,7 @@ aliases:
 summary: "教育研究中指原因导致效果的关系，涵盖决定论因果与概率因果两种刻画方式，涉及时间顺序、排除混淆变量、反事实推理和因果过程等核心议题"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

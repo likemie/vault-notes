@@ -8,7 +8,7 @@ summary: "准实验设计的一种，对非随机取样的组在接受实验处�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

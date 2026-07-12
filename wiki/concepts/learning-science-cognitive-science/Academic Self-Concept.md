@@ -8,7 +8,7 @@ aliases:
 summary: "个体对自己学术能力的整体感知和评价，既受实际成绩影响也反向影响学习动机和投入，是学业成就的中介变量和代理指标"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

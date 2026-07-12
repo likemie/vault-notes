@@ -7,7 +7,7 @@ summary: "美国教育研究者与组织改进学者，卡内基教学促进基�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

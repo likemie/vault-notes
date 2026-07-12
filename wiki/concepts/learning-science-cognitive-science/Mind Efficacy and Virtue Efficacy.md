@@ -8,7 +8,7 @@ aliases:
 summary: "Li (2012) 识别的两种文化特有的学习因果归因模式，西方父母将学习成果归因于心智能力，东亚父母归因于学习美德与努力，反映两种文化对学习本质的根本不同理解"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

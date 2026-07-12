@@ -9,7 +9,7 @@ summary: "最常用的准实验设计之一，实验组与控制组未通过随�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

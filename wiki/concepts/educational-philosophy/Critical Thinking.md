@@ -8,7 +8,7 @@ aliases:
 summary: "以有目的的、自我调节的判断为核心的思维技能与倾向，被广泛认为是大学学习和专业工作的核心学术能力。其教学方式存在显性独立课程与隐性学科融入两种路径的持续争论。"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

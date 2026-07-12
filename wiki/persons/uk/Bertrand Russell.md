@@ -7,7 +7,7 @@ summary: "英国哲学家、逻辑学家与数学家，分析哲学奠基人之�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

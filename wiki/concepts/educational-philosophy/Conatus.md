@@ -9,7 +9,7 @@ aliases:
 summary: "斯宾诺莎主义哲学中的核心概念，指个体维持与保存自我存在的努力与挣扎；在教育中被阐发为指向主体内在情感与潜意识的学习驱动力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

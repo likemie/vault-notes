@@ -15,7 +15,7 @@ aliases:
 summary: "一手文献是由事件目击者或参与者作为直接记录而生产的文献，二手文献是通过对一手文献的分析形成的阐述。二者的区分并非文献的内在属性，而是取决于研究者的使用方式和研究问题。"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

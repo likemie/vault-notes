@@ -7,10 +7,10 @@ summary: "美国社会学家和计量方法论学者，因果建模和社会科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 tags:
   - discipline/sociology
   - field/methodology

@@ -11,7 +11,7 @@ aliases:
 summary: "实验中参与者因各种原因中途退出导致组间不等价的内部效度威胁，退出者与留下者可能存在系统性差异，仅分析留守者会高估或低估干预效果"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

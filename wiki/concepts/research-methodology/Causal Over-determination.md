@@ -7,7 +7,7 @@ aliases:
 summary: "一个效果是多个原因的产物，而其中每一个原因本身都足以单独产生该效果——这一现象对单一干预归因的主张构成挑战"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

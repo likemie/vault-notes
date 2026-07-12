@@ -7,7 +7,7 @@ summary: "真实验设计的变体，将参与者随机分配到自变量水平�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

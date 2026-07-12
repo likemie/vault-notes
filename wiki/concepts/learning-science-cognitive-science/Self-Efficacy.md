@@ -7,7 +7,7 @@ aliases:
 summary: "Bandura 提出的动机概念，指个体对自身在特定任务上表现能力的自我评价，不同于一般能力感或实际能力水平"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 1
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

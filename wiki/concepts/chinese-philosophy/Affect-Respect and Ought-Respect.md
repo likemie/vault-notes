@@ -8,7 +8,7 @@ aliases:
 summary: "尊重的双类型理论，区分基于权利原则的义务性尊重与基于他人品质认可和仰慕的情感性尊重"
 type: concept
 domain: "chinese-philosophy"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

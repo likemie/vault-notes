@@ -9,7 +9,7 @@ summary: "同时操纵两个或多个自变量以检验每个变量的主效应�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

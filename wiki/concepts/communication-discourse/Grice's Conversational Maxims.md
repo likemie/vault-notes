@@ -8,7 +8,7 @@ aliases:
 summary: "Grice 提出的四条会话合作原则，包括量、质、关联和清晰，可用于比较不同文化中的说话风格与互动期待"
 type: concept
 domain: "communication-discourse"
-related_count: 1
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

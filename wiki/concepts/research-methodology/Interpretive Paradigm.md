@@ -11,7 +11,7 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从参与者内部视角理解社会世界，关注主观意义、个体独特性、情境复杂性和价值负载性，采用质性方法在自然状态下整体地研究人的意向行为。"
 type: concept
 domain: "research-methodology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

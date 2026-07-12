@@ -6,7 +6,7 @@ aliases:
 summary: "哈尔伯塔尔提出的政治哲学理论，认为政治共同体通过成员的自我牺牲和殉道获得道德价值，牺牲与感恩构成闭合循环"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

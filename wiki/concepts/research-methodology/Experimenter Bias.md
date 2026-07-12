@@ -8,7 +8,7 @@ aliases:
 summary: "实验中实验者知晓受试者所属条件后以更积极或更有暗示性的方式施测结果测量，从而人为放大处理效应的系统性偏差"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

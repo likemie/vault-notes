@@ -9,9 +9,9 @@ subtype: policy
 region: bolivia
 fact_region: "bolivia"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 tags:
   - theme/curriculum-reform

@@ -7,7 +7,7 @@ aliases:
 summary: "研究对象因意识到被观察而改变行为的现象，源自霍桑工厂实验，在教育研究中作为内部效度和外部效度的共同威胁"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

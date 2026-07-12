@@ -9,7 +9,7 @@ summary: "将受试者随机分配到四组的真实验设计，通过操纵前�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

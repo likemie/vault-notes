@@ -7,7 +7,7 @@ summary: "具备随机分配、控制组、前测后测和变量操纵全部特�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"

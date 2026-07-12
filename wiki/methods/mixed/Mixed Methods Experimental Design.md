@@ -10,7 +10,7 @@ summary: "将质性数据收集嵌入实验或干预过程多个时间点的复�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"

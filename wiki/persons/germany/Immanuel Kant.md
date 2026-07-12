@@ -7,7 +7,7 @@ summary: "德国哲学家，启蒙运动与德国古典哲学的核心人物，�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

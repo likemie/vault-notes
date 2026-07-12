@@ -7,7 +7,7 @@ aliases:
 summary: "中文对学校同伴的称谓，字面意为一起学习的人，与西方强调平等地位的peer概念形成对比，反映东亚文化中同伴作为学习朋友的功能定位"
 type: concept
 domain: "chinese-philosophy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

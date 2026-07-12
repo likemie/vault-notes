@@ -7,7 +7,7 @@ aliases:
 summary: "将社会理解为人类与非人类行动者（异质性物质-符号实体）在持续关联中组装而成的异质网络理论。在比较教育研究中，它被用于解构国家层面的政策借用假说，通过追踪多尺度行动者网络、对称性关注非人类中介（如测评技术、协议、软件、物理硬件），揭示隐藏在教育转移与全球远处治理背后的非线性转译、变异、多行动者博弈及关系空间网络生产机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 26
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"

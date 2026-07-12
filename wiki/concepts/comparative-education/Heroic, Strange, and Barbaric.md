@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2023）提出的比较教育批判工具词汇，用以打破精致中立的专业相对主义滤镜，直面学校系统和教育政策背后的国家暴力与人道后果"
 type: concept
 domain: "comparative-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
