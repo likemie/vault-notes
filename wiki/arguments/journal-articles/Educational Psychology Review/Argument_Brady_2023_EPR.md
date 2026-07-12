@@ -13,7 +13,7 @@ title: "Argument_Brady_2023_EPR"
 argument_key: "Argument_Brady_2023_EPR"
 argument_display_title: "How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Multimethod Research]]"
   - "[[Variable]]"
+  - "[[Independent Variable]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods:
@@ -73,7 +74,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：期刊文章[[Coding in Qualitative Research|编码]]与趋势比较。
 > - 样本：核心 2020 年五刊样本为 255 篇经验文章，期刊包括 *Journal of Educational Psychology*、*American Educational Research Journal*、*Cognition and Instruction*、*Journal of Experimental Education* 和 *Contemporary Educational Psychology*；作者另编码 2019 年 *Journal of Educational Psychology* 的 87 篇文章以检验年度稳定性，二者合计 342 篇(pp.4-6)。
-> - 方法分类：观察/相关研究、[[Intervention Research|干预研究]]、[[Experimental Research|实验研究]]、[[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]。观察/相关研究不操纵自[[Variable|变量]]且含量化数据；干预与实验都操纵自变量，但实验进一步要求[[Random Assignment|随机分配]]；质性研究不操纵自变量且使用访谈、观察等文本数据；混合方法/多方法研究不操纵自变量且同时包含量化和质性数据(p.4)。
+> - 方法分类：观察/相关研究、[[Intervention Research|干预研究]]、[[Experimental Research|实验研究]]、[[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]。观察/相关研究不操纵自[[Variable|变量]]且含量化数据；干预与实验都操纵[[Independent Variable|自变量]]，但实验进一步要求[[Random Assignment|随机分配]]；质性研究不操纵自变量且使用访谈、观察等文本数据；混合方法/多方法研究不操纵自变量且同时包含量化和质性数据(p.4)。
 > - RFP 编码：若文章暗示或明确说明采用/避免、增加/减少某实践会改善教师或学生结果，即编码为包含[[Recommendations for Practice|实践建议]]。
 > - [[Reliability|信度]]：所有作者先独立编码同一期 *Contemporary Educational Psychology* 文章并讨论达成共识；其后每人编码约 50 篇，并额外交叉编码 30 篇。研究方法编码一致率为 91%，RFP 编码一致率为 76%，所有分歧经小组讨论达成共识(p.5)。
 

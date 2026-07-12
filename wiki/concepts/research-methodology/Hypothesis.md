@@ -4,7 +4,7 @@ aliases: [假设, 研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁。好假设必须陈述变量关系、可被检验、方向清晰，并通过操作化转化为可测量的形式。"
 type: concept
 domain: "research-methodology"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,8 @@ related_concepts:
   - "[[Alternative Hypothesis]]"
   - "[[Research Purpose]]"
   - "[[Operationalization]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -183,7 +185,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 
 ### 中介变量
 
-使用假设进行研究时，需准备多个假设以抓住所研究现象的复杂性，尤其是中介[[Variable|变量]]（mediating variables）必须纳入研究。例如，组织中员工"自愿合作程度"（因变量）受"专业领导力"（自变量）和"领导者个人领导品质"（中介变量）的影响，中介变量同样需要被操作化（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）。
+使用假设进行研究时，需准备多个假设以抓住所研究现象的复杂性，尤其是中介[[Variable|变量]]（mediating variables）必须纳入研究。例如，组织中员工"自愿合作程度"（[[Dependent Variable|因变量]]）受"专业领导力"（[[Independent Variable|自变量]]）和"领导者个人领导品质"（中介变量）的影响，中介变量同样需要被操作化（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）。
 
 ---
 
@@ -202,7 +204,7 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 ---
 ### 假设在理论发展中的角色
 
-理论的发展过程与假设的反复检验密不可分。研究者将自[[Variable|变量]]、中介变量和因变量组合为预测性陈述（即假设）。当研究者在不同情境和不同人群中反复检验此类假设时，一个理论便逐渐浮现并被赋予名称（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]]）。
+理论的发展过程与假设的反复检验密不可分。研究者将自[[Variable|变量]]、中介变量和[[Dependent Variable|因变量]]组合为预测性陈述（即假设）。当研究者在不同情境和不同人群中反复检验此类假设时，一个理论便逐渐浮现并被赋予名称（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]]）。
 
 研究者在研究方案中以多种方式陈述理论，假设是其中最基本的形式之一（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.57–60]]）：
 
@@ -210,7 +212,7 @@ Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument
 > | 形式 | 说明 | 示例 |
 > |---|---|---|
 > | **假设链（interconnected hypotheses）** | 以一系列相互关联的假设陈述理论 | Hopkins (1964) 将影响力过程理论表述为 15 条假设 |
-> | **"如果—那么"逻辑陈述（if-then logic statements）** | 解释为何自变量会影响因变量 | Homans (1950): "如果互动频率增加，好感程度也会增加" |
+> | **"如果—那么"逻辑陈述（if-then logic statements）** | 解释为何[[Independent Variable\|自变量]]会影响因变量 | Homans (1950): "如果互动频率增加，好感程度也会增加" |
 > | **视觉模型（visual model）** | 将变量关系转化为可视化图示 | 路径分析、[[Causal Modeling\|结构方程建模]] |
 
 ---

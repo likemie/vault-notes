@@ -6,7 +6,7 @@ summary: "澳大利亚教育心理学家，新南威尔士大学名誉教授，�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Progressive Education]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
-related_methods: []
+related_methods:
+  - "[[Design-Based Research]]"
 related_persons: []
 related_facts:
   - "[[Strong Beginnings Report]]"
@@ -85,7 +86,7 @@ updated: 2026-06-16
 > [!concept-lens]- 思想透镜
 > - **问题意识** 如何根据人类已知的认知结构（特别是受限的工作记忆和无限的长期记忆）来设计最有效的教学程序，以最大化学习效率。
 > - **概念工具** [[Cognitive Load Theory|认知负荷理论]]、新手与专家大脑差异、生物初级与次级知识获取。
-> - **研究影响** 其理论不仅深刻塑造了20世纪末以来的多媒体学习与教学设计研究，更在21世纪被引入[[Evidence-Based Education|循证教育]]改革，成为惩罚性问责和脚本化教学标准化的“科学底座”。
+> - **研究影响** 其理论不仅深刻塑造了20世纪末以来的多媒体学习与教学[[Design-Based Research|设计研究]]，更在21世纪被引入[[Evidence-Based Education|循证教育]]改革，成为惩罚性问责和脚本化教学标准化的“科学底座”。
 
 ---
 

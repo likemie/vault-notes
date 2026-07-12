@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,7 +34,9 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Homework]]"
   - "[[Heterogeneity]]"
+  - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
+  - "[[Independent Variable]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
   - "[[Effect Size]]"
@@ -198,7 +200,7 @@ updated: 2026-07-08
 >
 > - **总体变异性越大，所需样本越大** Gorard（2003: 62）指出，调查 IQ（范围约 70–150）这类高变异变量，可能需要比低变异变量更大的样本。
 > - **名义数据需要更大样本** Oppenheim（1992: 44）指出，名义数据的样本量可能需要比等距和比率数据更大，本质上是子组数量的问题，可能类别越多，样本越大。
-> - **Borg & Gall（1979: 195）的五条大样本规则** 当变量多、预期差异或关系小、样本需分子组、总体在关键变量上[[Heterogeneity|异质性]]强、因变量的可靠测量不可得时，样本量应当更大。
+> - **Borg & Gall（1979: 195）的五条大样本规则** 当变量多、预期差异或关系小、样本需分子组、总体在关键变量上[[Heterogeneity|异质性]]强、[[Dependent Variable|因变量]]的可靠测量不可得时，样本量应当更大。
 
 ---
 
@@ -251,7 +253,7 @@ updated: 2026-07-08
 > | 常用边际误差 | 5% | 3% |
 > | 样本量趋势 | 更大 | 相对较小 |
 > | 总体 ≥ 2,000 时样本量 | 仍随总体增加 | 不再变化 |
-> | 多元回归最小比率（观察值:自变量） | 5:1（建议 10:1） | 5:1（建议 10:1） |
+> | 多元回归最小比率（观察值:[[Independent Variable\|自变量]]） | 5:1（建议 10:1） | 5:1（建议 10:1） |
 > | 5:1 比率下最小样本量 | ≥ 313，自变量 ≤ 62 | ≥ 111，自变量 ≤ 22 |
 > | 10:1 比率下最小样本量 | ≥ 313，自变量 ≤ 31 | ≥ 111，自变量 ≤ 11 |
 

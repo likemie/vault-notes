@@ -5167,6 +5167,21 @@
     ]
   },
   {
+    "title": "Dependent Variable",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Dependent Variable.md",
+    "aliases": [
+      "因变量",
+      "dependent variables",
+      "DV",
+      "outcome variable",
+      "结果变量",
+      "response variable",
+      "criterion variable",
+      "效标变量"
+    ]
+  },
+  {
     "title": "Descriptive Analysis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Descriptive Analysis.md",
@@ -5573,6 +5588,20 @@
       "incommensurable",
       "范式不可通约性",
       "paradigm incommensurability"
+    ]
+  },
+  {
+    "title": "Independent Variable",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Independent Variable.md",
+    "aliases": [
+      "自变量",
+      "independent variables",
+      "IV",
+      "predictor variable",
+      "预测变量",
+      "treatment variable",
+      "manipulated variable"
     ]
   },
   {
@@ -8349,6 +8378,19 @@
     ]
   },
   {
+    "title": "Design-Based Research",
+    "type": "method",
+    "path": "wiki/methods/mixed/Design-Based Research.md",
+    "aliases": [
+      "设计研究",
+      "DBR",
+      "design experiment",
+      "design study",
+      "设计实验",
+      "design-based study"
+    ]
+  },
+  {
     "title": "Explanatory Sequential Design",
     "type": "method",
     "path": "wiki/methods/mixed/Explanatory Sequential Design.md",
@@ -9074,12 +9116,8 @@
     "path": "wiki/methods/quantitative/Between-Subjects and Within-Subjects Designs.md",
     "aliases": [
       "受试者间设计",
-      "受试者内设计",
       "between-subjects design",
-      "within-subjects design",
-      "mixed design",
-      "repeated measures design",
-      "重复测量设计"
+      "mixed design"
     ]
   },
   {
@@ -9291,6 +9329,18 @@
     ]
   },
   {
+    "title": "Internet-Based Experiments",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Internet-Based Experiments.md",
+    "aliases": [
+      "网络实验",
+      "互联网实验",
+      "internet experiment",
+      "web-based experiment",
+      "online experiment"
+    ]
+  },
+  {
     "title": "Internet-based Survey",
     "type": "method",
     "path": "wiki/methods/quantitative/Internet-based Survey.md",
@@ -9343,6 +9393,17 @@
       "纵向调查",
       "longitudinal research",
       "longitudinal survey"
+    ]
+  },
+  {
+    "title": "Matched Pairs Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Matched Pairs Design.md",
+    "aliases": [
+      "配对设计",
+      "匹配对设计",
+      "matched pairs",
+      "paired design"
     ]
   },
   {
@@ -9410,6 +9471,17 @@
       "多重回归",
       "multiple linear regression",
       "OLS regression"
+    ]
+  },
+  {
+    "title": "Non-Equivalent Control Group Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Non-Equivalent Control Group Design.md",
+    "aliases": [
+      "非等价控制组设计",
+      "不等价控制组设计",
+      "non-equivalent group design",
+      "NEGD"
     ]
   },
   {
@@ -9562,6 +9634,18 @@
     "aliases": [
       "Rasch模型",
       "Rasch 模型"
+    ]
+  },
+  {
+    "title": "Repeated Measures Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Repeated Measures Design.md",
+    "aliases": [
+      "重复测量设计",
+      "repeated measures",
+      "within-subjects design",
+      "受试者内设计",
+      "crossover design"
     ]
   },
   {
@@ -14164,6 +14248,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causal Processes]]"
   - "[[Screening Off]]"
+  - "[[Dependent Variable]]"
   - "[[Causal Over-determination]]"
   - "[[Homework]]"
   - "[[Exogenous and Endogenous Variables]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Epistemology]]"
   - "[[Action Narratives]]"
+  - "[[Independent Variable]]"
   - "[[Interventionist Strategy]]"
   - "[[Hawthorne Effect]]"
   - "[[Reliability]]"
@@ -271,7 +273,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_4-1_Two_Unrelated_Factors_Caused_by_Third_Factor.jpg)
 
 > [!warrant] 筛选隔离的操作含义
-> 在归因真正的因果性时，必须筛掉不相关的因变量，将那些与正在被研究的情境直接相关的变量之外的变量排除。这包括通过**偏相关（partial correlation）**和**结构方程模型（structural equation modelling）**控制额外变量的效应，以确保一个变量不会被误认为对另一个变量有因果影响，而事实并非如此。
+> 在归因真正的因果性时，必须筛掉不相关的[[Dependent Variable|因变量]]，将那些与正在被研究的情境直接相关的变量之外的变量排除。这包括通过**偏相关（partial correlation）**和**结构方程模型（structural equation modelling）**控制额外变量的效应，以确保一个变量不会被误认为对另一个变量有因果影响，而事实并非如此。
 >
 > Pearl（2009: 423–7）提供了系统识别哪些因素应从哪些因素中筛选掉的方法框架。但在多重因果（或[[Causal Over-determination|过度决定]]）情境中，这几乎是不可能的，因为可能无法判断应该筛掉什么（p.60）。
 
@@ -534,7 +536,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 #### 微观-宏观的因果过程连接
 
 > [!example] 案例11：性别如何成为因果因素？
-> 在一项调查中，要求受访者标明性别是常见的做法。但即使男性和女性在调查量表中给出不同回答，说性别导致了回答差异则是完全不同的事情。性别**如何**成为一个因果因素？在聚合的自变量（性别）和因变量之间是一整套因果过程，这些过程可能实际影响着效果，必须在任何因果解释中被纳入考量（p.74）。
+> 在一项调查中，要求受访者标明性别是常见的做法。但即使男性和女性在调查量表中给出不同回答，说性别导致了回答差异则是完全不同的事情。性别**如何**成为一个因果因素？在聚合的[[Independent Variable|自变量]]（性别）和因变量之间是一整套因果过程，这些过程可能实际影响着效果，必须在任何因果解释中被纳入考量（p.74）。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 122
+argument_related_count: 123
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -101,6 +101,7 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Doxa]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Literature Review]]"
   - "[[Cognitive Source]]"
   - "[[Grice's Conversational Maxims]]"
@@ -2968,7 +2969,7 @@ Li 在这一部分引述 Fülöp 的完整发现（在第 3 步中已经引述�
 > Li 儿子的经历无意中成为了一个完美的自然实验：
 > - **控制[[Variable|变量]]** 同一个孩子（同样的性格、智力、社交能力）
 > - **操纵变量** 学校文化（公立学校的"try but not too hard" vs 私立学校的"高成就是学校荣誉"）
-> - **结果变量** 同伴关系与心理福祉
+> - **[[Dependent Variable|结果变量]]** 同伴关系与心理福祉
 >
 > 在人身上什么都没变的情况下，仅仅改变了学校的文化环境——nerd 骚扰就消失了。**这不是人性——这是文化。**
 

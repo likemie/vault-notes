@@ -6,7 +6,7 @@ summary: "不操纵自变量而以量化资料分析变量关系、模式和相�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -18,6 +18,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
+  - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
@@ -54,7 +55,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info] 定义
-> 观察/相关研究（Observational/Correlational Research）是不操纵自[[Variable|变量]]、以量化数据分析变量关系的[[Non-intervention Research|非干预研究]]设计。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 在[[Coding in Qualitative Research|编码]] 2020 年教育心理学期刊文章时，将"未操纵自变量且包含量化数据"的研究归入此类；他们把"没有操纵自变量"视为 ex post facto 观察/相关设计的标志([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3-4]])。
+> 观察/相关研究（Observational/Correlational Research）是不操纵自[[Variable|变量]]、以量化数据分析变量关系的[[Non-intervention Research|非干预研究]]设计。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 在[[Coding in Qualitative Research|编码]] 2020 年教育心理学期刊文章时，将"未操纵[[Independent Variable|自变量]]且包含量化数据"的研究归入此类；他们把"没有操纵自变量"视为 ex post facto 观察/相关设计的标志([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3-4]])。
 
 ## 认识论立场
 

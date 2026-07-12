@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -86,6 +86,7 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Participant Observation]]"
   - "[[Qualitative Research]]"
+  - "[[Design-Based Research]]"
   - "[[Quantitative Research]]"
   - "[[Ethnography]]"
   - "[[Triangulation]]"
@@ -405,7 +406,7 @@ Tyler（1949）的课程四问原理如下：
 > [!timeline-compact] Tandon（2005: 30）的理想 PR 步骤序列（Figure 2.1）
 > - 社区识别自身问题
 > - 社区与研究者建立平等伙伴关系
-> - 集体设计研究方案
+> - 集体[[Design-Based Research|设计研究]]方案
 > - 集体实施资料收集
 > - 集体分析数据
 > - 集体决定行动方案

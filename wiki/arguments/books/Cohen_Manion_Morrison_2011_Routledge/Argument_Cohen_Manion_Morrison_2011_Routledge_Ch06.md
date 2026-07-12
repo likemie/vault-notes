@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Research Practicability]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
+  - "[[Independent Variable]]"
   - "[[Self-Efficacy]]"
   - "[[Class Size]]"
   - "[[Policy Borrowing]]"
@@ -427,7 +428,7 @@ updated: 2026-06-19
 > [!case] 案例四：学生生物学学习动机——当课题失控
 > 如果要研究学生生物学学习动机，不仅涉及识别**大量自[[Variable|变量]]**，还需处理可能的数据过载，并确保**所有动机理论**都被纳入。这迅速失控，成为不可能完成的任务。
 >
-> 正确的做法是：处理**一到两种**动机理论，限定**明确的自变量范围**，针对**特定年龄段**或**特定经验类型**的学生。没有边界的课题会在任何地方漫游，实际上哪里也去不了。
+> 正确的做法是：处理**一到两种**动机理论，限定**明确的[[Independent Variable|自变量]]范围**，针对**特定年龄段**或**特定经验类型**的学生。没有边界的课题会在任何地方漫游，实际上哪里也去不了。
 
 > [!case] 案例五：Axline (1964) — 一个孩子的革命性研究
 > Axline 在 *Dibs in Search of Self* 中研究了**游戏治疗（play therapy）**对一名儿童 Dibs 的修复和治疗效果，样本仅为**一个孩子**。通过深度个案追踪，Axline 详细展示了游戏治疗如何帮助这名情感受创的儿童重建自我意识和人际关系能力。这本著作后来成为心理治疗和教育领域的经典。一个孩子的研究——当被仔细、深度、有限边界地执行时——可以产生对整个领域的巨大贡献。窄聚焦不意味着浅薄，恰恰相反，窄聚焦使深层理解成为可能。

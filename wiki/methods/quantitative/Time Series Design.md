@@ -8,7 +8,7 @@ summary: "准实验设计的一种，对非随机取样的组在接受实验处�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 confidence: medium
 status: draft
 created: 2026-06-25
@@ -92,3 +93,4 @@ O₁ O₂ O₃ — O₄ O₅ O₆（控制组）
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.4)]] — 系统介绍时间序列设计的三种形式及其效度控制特征。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Campbell & Stanley (1963) 符号系统表示单组时间序列设计，说明多次前测和后测使受试者成为自身控制，可观察无效应、明显效应和延迟效应三种趋势

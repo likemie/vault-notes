@@ -6,7 +6,7 @@ aliases:
 summary: "区别于因果事件和因果输入-输出模型的动态因果观，将因果性视为随时间展开的过程，涉及动机、语境和因素之间的动态互动"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -66,4 +68,4 @@ updated: 2026-06-18
 > 增加阅读时间导致阅读能力提高——这是输入-输出模型。但增加时间**如何**转化为能力提升？可能的因果过程包括：动机水平、专注持续时间、材料兴趣水平、文本难度、阅读目的、阅读能力与技能、环境噪音、阅读的地点与时长、阅读前讨论与准备、阅读后跟进活动、教师帮助与支持、前后测的性质与时机等 18 个维度。简单的输入[[Variable|变量]]可能只是众多原因之一，或者是一个伞状术语，或者解放了一系列其他直接和间接原因。
 
 > [!case] 性别如何成为因果因素？
-> 在调查中标记性别是常见做法，但即使男性和女性给出不同回答，说性别导致了回答差异则是完全不同的事。性别如何成为一个因果因素？在聚合的自变量（性别）和因变量之间是一整套因果过程——这些过程可能实际影响着效果，必须在任何因果解释中被纳入考量。
+> 在调查中标记性别是常见做法，但即使男性和女性给出不同回答，说性别导致了回答差异则是完全不同的事。性别如何成为一个因果因素？在聚合的[[Independent Variable|自变量]]（性别）和[[Dependent Variable|因变量]]之间是一整套因果过程——这些过程可能实际影响着效果，必须在任何因果解释中被纳入考量。

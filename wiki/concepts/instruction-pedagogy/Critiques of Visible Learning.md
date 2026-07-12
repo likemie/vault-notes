@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 111
+related_count: 113
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"
+  - "[[Dependent Variable]]"
   - "[[Standard Error]]"
   - "[[School Effectiveness]]"
   - "[[Falsification]]"
@@ -55,6 +56,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Operationalization]]"
   - "[[Internal Consistency]]"
+  - "[[Independent Variable]]"
   - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
   - "[[Value Neutrality]]"
@@ -379,7 +381,7 @@ Hattie 在不同元分析之间交替使用多种效应量测度而不做转换�
 
 **Fisher's z 转换的省略（p. 28）**
 
-当 Hattie 将同一元分析中报告的多个效应量（如针对不同因变量）汇总为一个时，如果原始效应量以相关系数 r 报告，正确的程序是：
+当 Hattie 将同一元分析中报告的多个效应量（如针对不同[[Dependent Variable|因变量]]）汇总为一个时，如果原始效应量以相关系数 r 报告，正确的程序是：
 > [!proc] 正确汇总相关系数的标准程序
 > 1. 将每个 $r$ 转换为 Fisher's z：$z = \frac{1}{2}\ln\left(\frac{1+r}{1-r}\right)$
 > 2. 计算 z 值的**算术平均值** $\bar{z}$
@@ -823,9 +825,9 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 [[Argument_Rømer_2018_EPT|Rømer (2018, pp. 5–6)]] 指出 Hattie 区分了[[Surface and Deep Learning|表层学习]]、深层学习和建构性理解三个层次，但未讨论它们之间的概念关系或如何对应实证分析中的[[Operationalization|操作化]]。作为 60,000 项评价发现的[[Meta-analysis|元分析]]综合，"学业成就"究竟测量的是哪个层次——无人知晓。这导致从教育研究的角度看，理论和实证数据之间没有系统性关系。
 
 > [!tension] "研究笼子"：高[[Reliability|信度]] vs 高效度（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 6]]）
-> Rømer 将此诊断为"研究笼子"（research cage）：系统具有高信度与高[[Internal Consistency|内部一致性]]，但因[[Variable|变量]]和自变量相互循环定义，与研究对象本身没有任何接触。代价是**高效度牺牲换取了高信度**。
+> Rømer 将此诊断为"研究笼子"（research cage）：系统具有高信度与高[[Internal Consistency|内部一致性]]，但因[[Variable|变量]]和[[Independent Variable|自变量]]相互循环定义，与研究对象本身没有任何接触。代价是**高效度牺牲换取了高信度**。
 
-丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 [[Karl Popper|Popper]]）重建因变量([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 5–6]])。
+丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 [[Karl Popper|Popper]]）重建[[Dependent Variable|因变量]]([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 5–6]])。
 
 #### 批评三：激进建构主义消解教学概念——双重瓦解
 

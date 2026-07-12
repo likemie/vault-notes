@@ -8,7 +8,7 @@ aliases:
 summary: "研究规划的实操评估概念，涵盖研究准入、研究者自身、时间、资源、研究影响力和研究范围六个约束维度，以及对应的九项自检清单，确保研究在实际约束下可以完成"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Literature Review]]"
   - "[[Variable]]"
+  - "[[Independent Variable]]"
 related_theories: []
 related_methods:
   - "[[Longitudinal Study]]"
@@ -119,7 +120,7 @@ updated: 2026-06-20
 > 一项研究应保持狭窄和有限的范围，以实现可管理性和严谨性。俗话说吃大象的最佳方式是一次一口。没有边界的课题会在任何地方漫游，实际上哪里也去不了（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 > [!case] 范围失控的典型：学生生物学学习动机研究
-> 如果要研究学生生物学学习动机，不仅涉及识别大量自[[Variable|变量]]，还需处理可能的数据过载，并确保所有动机理论都被纳入——这迅速失控，成为不可能完成的任务。正确的做法是：处理一到两种动机理论，限定明确的自变量范围，针对特定年龄段或特定经验类型的学生。
+> 如果要研究学生生物学学习动机，不仅涉及识别大量自[[Variable|变量]]，还需处理可能的数据过载，并确保所有动机理论都被纳入——这迅速失控，成为不可能完成的任务。正确的做法是：处理一到两种动机理论，限定明确的[[Independent Variable|自变量]]范围，针对特定年龄段或特定经验类型的学生。
 
 > [!success] 小样本窄聚焦的成功案例
 > Axline (1964) 在 *Dibs in Search of Self* 中研究了游戏治疗（play therapy）对一名儿童 Dibs 的修复和治疗效果，样本仅为一个孩子，成为心理治疗和教育领域的经典。Piaget (1932) 在 *The Moral Judgement of the Child* 中研究了儿童道德判断的发展，样本仅为少数几个孩子，通过[[Qualitative Interview|深度访谈]]和对游戏规则的细致观察，提出了从他律道德到自律道德的发展阶段模型，深刻影响了整个20世纪的发展心理学和教育学。两个案例共同说明：小样本、窄聚焦的研究可以产生卓越的成果。窄聚焦使深层理解成为可能，窄聚焦不意味着浅薄，恰恰相反（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。

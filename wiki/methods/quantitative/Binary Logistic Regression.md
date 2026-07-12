@@ -5,15 +5,17 @@ summary: "一种用于预测二分类因变量（如是否陪读、是否择校�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 3
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 20
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
   - method/regression
 related_concepts:
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
   - "[[Statistical Significance]]"
   - "[[Study Population and Sample]]"
   - "[[Standard Error]]"
@@ -50,7 +52,7 @@ updated: 2026-07-12
 ## 定义
 
 > [!def] 方法定义
-> 二元 Logistic 回归模型（Binary Logistic Regression Model）是一种专门用于因[[Variable|变量]]为二分类变量（Binary/Dichotomous Variable，例如是否[[Peidu|陪读]]、是否录取、是否流失）的广义线性回归分析方法。它通过 Logit 变换，将因变量发生的概率与不发生概率之比的对数（即 Logit 变换值）表示为自变量的线性组合，并在不受自变量分布限制的情况下，估计各预测因子的优势比（Odds Ratio, OR）并检验其[[Statistical Significance|统计显著性]]。
+> 二元 Logistic 回归模型（Binary Logistic Regression Model）是一种专门用于因[[Variable|变量]]为二分类变量（Binary/Dichotomous Variable，例如是否[[Peidu|陪读]]、是否录取、是否流失）的广义线性回归分析方法。它通过 Logit 变换，将[[Dependent Variable|因变量]]发生的概率与不发生概率之比的对数（即 Logit 变换值）表示为[[Independent Variable|自变量]]的线性组合，并在不受自变量分布限制的情况下，估计各预测因子的优势比（Odds Ratio, OR）并检验其[[Statistical Significance|统计显著性]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** 二分类分类变量与一组连续或分类自变量之间的统计预测关系。
@@ -66,7 +68,7 @@ updated: 2026-07-12
 > - **知识观** 基于概率论和[[Positivism|实证主义]]，认为社会选择行为在群体层面上遵循特定的概率分布规律，可以通过数学模型加以测度和预测。
 > - **研究者角色** 模型构建与参数解释者。研究者需基于理论[[Hypothesis|假设]]选择自[[Variable|变量]]与控制变量，指定参照组，并进行共线性诊断以避免过拟合。
 > - **有效性标准** 统计结论效度（显著性水平）、模型拟合优度（如 Nagelkerke $R^2$ 或 Hosmer-Lemeshow 检验的 p 值）、预测准确率以及共线性指标（VIF）。
-> - **不声称回答的问题** 该模型本身无法直接推导[[Causality|因果]]方向。若使用横截面数据，显著的回归系数仅代表预测因子与因变量之间的关联，不能排除反向因果或遗漏变量偏误。
+> - **不声称回答的问题** 该模型本身无法直接推导[[Causality|因果]]方向。若使用横截面数据，显著的回归系数仅代表预测因子与[[Dependent Variable|因变量]]之间的关联，不能排除反向因果或遗漏变量偏误。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Quantitative Research|量化研究]]、[[Mixed Methods Research|混合方法研究]]（解释性顺序设计）。
@@ -79,7 +81,7 @@ updated: 2026-07-12
 ## 研究程序
 
 > [!proc] 量化分析程序
-> 1. **明确因[[Variable|变量]]和参考组** 将二分类因变量[[Coding in Qualitative Research|编码]]为 0 和 1（1 代表目标事件发生，0 代表未发生），并为分类自变量指定合理的参照组。
+> 1. **明确因[[Variable|变量]]和参考组** 将二分类[[Dependent Variable|因变量]][[Coding in Qualitative Research|编码]]为 0 和 1（1 代表目标事件发生，0 代表未发生），并为分类[[Independent Variable|自变量]]指定合理的参照组。
 > 2. **筛选自变量与共线性诊断** 依据理论筛选自变量，并通过相关系数矩阵或方差膨胀因子（VIF）检验，确保预测变量间不存在严重的多重共线性。
 > 3. **模型估计与求解** 代入分析数据，采用最大似然估计法计算各变量的回归系数 $B$、[[Standard Error|标准误]] $SE$ 及其指数化后的优势比 $Exp(B)$。
 > 4. **模型拟合与诊断** 通过似然比检验评估模型整体显著性，采用 Hosmer-Lemeshow 检验诊断拟合程度，并计算 Pseudo $R^2$ 评估解释力。
@@ -91,8 +93,8 @@ updated: 2026-07-12
 
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据结构** 横截面数据（Cross-sectional Data）、时点统计数据或[[Longitudinal Study|纵向调查]]数据。
-> - **样本与单位** 通常要求较大的[[Sample Size Determination|样本量]]（每个自变量对应的最少事件数一般推荐为 10–20 个），分析单位为个体、家庭或学校。
-> - **变量或指标** 因变量为二分类（0/1）变量；自变量可为连续变量或分类变量（引入虚拟变量）。
+> - **样本与单位** 通常要求较大的[[Sample Size Determination|样本量]]（每个[[Independent Variable|自变量]]对应的最少事件数一般推荐为 10–20 个），分析单位为个体、家庭或学校。
+> - **变量或指标** [[Dependent Variable|因变量]]为二分类（0/1）变量；自变量可为连续变量或分类变量（引入虚拟变量）。
 > - **模型或统计量** 回归系数（B）、优势比（Exp(B)）、Wald $\chi^2$ 统计量、Pseudo $R^2$。
 > - **诊断与检验** Hosmer-Lemeshow 拟合优度检验、VIF 共线性诊断、异常值诊断（如 Cook's 距离）。
 
@@ -156,17 +158,17 @@ updated: 2026-07-12
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 因[[Variable|变量]]是二分类属性变量，自变量可以是连续或分类变量，旨在分析不同因素对选择行为、状态转变的预测效力与相对重要性时。
+> - **适合使用** 因[[Variable|变量]]是二分类属性变量，[[Independent Variable|自变量]]可以是连续或分类变量，旨在分析不同因素对选择行为、状态转变的预测效力与相对重要性时。
 > - **谨慎使用** [[Sample Size Determination|样本量]]较小（如目标事件发生次数少于 30 次），可能导致模型不稳定，[[Confidence Interval|置信区间]]过宽；或存在严重的自变量多重共线性时。
-> - **不适合使用** 因变量是多分类非顺序变量（改用多项 Logistic 回归）或因变量是连续变量（改用多元线性回归）。
+> - **不适合使用** [[Dependent Variable|因变量]]是多分类非顺序变量（改用多项 Logistic 回归）或因变量是连续变量（改用多元线性回归）。
 
 ---
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 遗漏关键[[Variable|变量]]偏误、多重共线性、因变量分类偏倚。
-> - **适用边界** 要求自变量间不存在高度线性相关，且[[Sample Size Determination|样本量]]需满足一定规模。
+> - **偏误来源** 遗漏关键[[Variable|变量]]偏误、多重共线性、[[Dependent Variable|因变量]]分类偏倚。
+> - **适用边界** 要求[[Independent Variable|自变量]]间不存在高度线性相关，且[[Sample Size Determination|样本量]]需满足一定规模。
 > - **误用风险** 容易将优势比（OR）直接解释为发生概率的增长倍数。在目标事件发生率较高（如 $>10\%$）时，OR 会高估自变量的影响力，不宜直接等同于比例或概率的增长倍数。
 > - **补救方式** 进行共线性检验（VIF）；结合 Hosmer-Lemeshow 检验诊断模型拟合；若事件发生率极高且旨在说明相对风险，可改用 Poisson 回归或 Log-linear 模型。
 
@@ -178,7 +180,7 @@ updated: 2026-07-12
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Variable]] | 概念 | 本方法的核心输入和输出载体，因变量和自变量均由各种类型的变量构成。 |
+> | [[Variable]] | 概念 | 本方法的核心输入和输出载体，[[Dependent Variable\|因变量]]和[[Independent Variable\|自变量]]均由各种类型的变量构成。 |
 > | [[Mixed Methods Research]] | 补充方法 | 在混合研究中，回归模型可作为第一阶段量化筛选，后续辅以[[Qualitative Interview\|质性访谈]]以深化对回归系数背后机制的阐释。 |
 
 ---
@@ -195,7 +197,7 @@ updated: 2026-07-12
 > [!pathways] 基于多阶段回归漏斗模型的研究设计设想
 > - **设想一 学生参与课外补习（影子教育的层级化资本购买）**
 >   - **Model 1（是否补习）** 因[[Variable|变量]] $Y_1 \in \{0, 1\}$。全体样本（$N$）。预测家庭资本如何突破进入补习市场的“第一道门槛”。
->   - **Model 2（补习质量）** 因变量 $Y_2 \in \{0, 1\}$（1 = 昂贵优质的一对一或名师辅导，0 = 低廉的大班或线上辅导）。补习样本（$n_1$）。分析资本在补习市场内部的二次分化。
+>   - **Model 2（补习质量）** [[Dependent Variable|因变量]] $Y_2 \in \{0, 1\}$（1 = 昂贵优质的一对一或名师辅导，0 = 低廉的大班或线上辅导）。补习样本（$n_1$）。分析资本在补习市场内部的二次分化。
 >   - **Model 3（学科与提分）** 因变量 $Y_3 \in \{0, 1\}$（1 = 数理化等硬核提分主科，0 = 艺术兴趣类或单纯托管）。优质补习样本（$n_2$）。分析资本如何精准转化为升学应试工具。
 > - **设想二 大学生毕业出路（分流与体制变现的漏斗模型）**
 >   - **Model 1（继续深造 vs 直接就业）** 因变量 $Y_1 \in \{0, 1\}$。全体毕业生（$N$）。检验家庭资本对子女推迟就业、进行学历通胀投资的保护伞效应。

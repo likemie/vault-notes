@@ -10,9 +10,9 @@ summary: "测量两个连续变量间关联强度与方向的推断统计方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/statistical
@@ -21,6 +21,8 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Research Question]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -49,8 +51,8 @@ updated: 2026-05-31
 > [!example]
 > Creswell & Creswell (2022, Ch8, Table 8.3) 提供的选择标准：
 > - [[Research Question|研究问题]]性质：关联[[Variable|变量]]（relate variables）
-> - 自变量数量：1
-> - 因变量数量：1
+> - [[Independent Variable|自变量]]数量：1
+> - [[Dependent Variable|因变量]]数量：1
 > - 协变量数量：0
 > - 变量类型：连续／连续（两个变量均为连续变量，如等距或比率量表）
 > - 分数分布：正态分布
@@ -58,7 +60,7 @@ updated: 2026-05-31
 ## 方法变体与相近方法
 
 > [!tip]-
-> - vs [[Multiple Regression|多元回归]] — Pearson 相关是双[[Variable|变量]]（bivariate）分析，一次只考察两个变量间的关系；多元回归将相关分析扩展到两个或以上的预测变量，同时评估多个预测变量对一个结果变量的相对预测力。
+> - vs [[Multiple Regression|多元回归]] — Pearson 相关是双[[Variable|变量]]（bivariate）分析，一次只考察两个变量间的关系；多元回归将相关分析扩展到两个或以上的[[Independent Variable|预测变量]]，同时评估多个预测变量对一个[[Dependent Variable|结果变量]]的相对预测力。
 > - vs Spearman 等级相关 — 当变量为顺序量表或分数非正态分布时，应使用 Spearman's ρ（rho）而非 Pearson's r。
 > - vs t 检验 — t 检验比较两组均值差异，Pearson 相关考察两个连续变量间的线性关联。
 

@@ -9,7 +9,7 @@ title: "Argument_Berk_2011_ER"
 argument_key: "Argument_Berk_2011_ER"
 argument_display_title: "Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Type I and Type II Errors]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
@@ -102,7 +103,7 @@ citation_aliases:
 >
 > ### 4. 匹配作为替代方法
 >
-> 匹配回避了因果建模的模型选择问题（匹配[[Variable|变量]]在不参考结果变量的情况下确定），但需要满足与随机实验相同的[[Hypothesis|假设]]（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反(pp.197–199)。
+> 匹配回避了因果建模的模型选择问题（匹配[[Variable|变量]]在不参考[[Dependent Variable|结果变量]]的情况下确定），但需要满足与随机实验相同的[[Hypothesis|假设]]（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反(pp.197–199)。
 >
 > ### 5. [[Meta-analysis|元分析]]的过度评价
 >

@@ -11,7 +11,7 @@ title: "Argument_Hitchcock_2015_JBE"
 argument_key: "Argument_Hitchcock_2015_JBE"
 argument_display_title: "What Works Clearinghouse standards and generalization of single-case design evidence"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
+  - "[[Independent Variable]]"
   - "[[5-3-20 Rule]]"
   - "[[Threats to Internal Validity]]"
   - "[[Theories of Policy Change]]"
@@ -102,7 +103,7 @@ citation_aliases:
 >
 > - **基线描述** → Review Guide 记录"第一阶段基线数据是否展示(a)关注的问题确实存在和(b)清晰定义的基线反应模式"，以及基线条件的详细描述（天数/周数/月数、会话次数、每次会话时长）
 > - **因[[Variable|变量]][[Definition of Terms|操作性定义]]** → 审查中评估"研究是否处理至少一个与审查协议相关的结果领域"，并"描述所有合格结果及其测量方式"
-> - **自变量描述** → 详细描述干预条件（天数/周数/月数、会话次数、时长、实施支持需求、维持阶段）
+> - **[[Independent Variable|自变量]]描述** → 详细描述干预条件（天数/周数/月数、会话次数、时长、实施支持需求、维持阶段）
 > - **参与者描述** → 审查中评估"研究是否满足协议中指定的样本特征要求""研究是否考察协议指定年龄/年级范围的学生"
 > - **场所描述** → 审查中评估"研究是否在协议指定的地点考察样本成员"
 >
@@ -135,7 +136,7 @@ citation_aliases:
 > [!note-] 可继续提取的信息
 > - **[[Single-Case Design|SCD]] 的基础定义与适用范围** 论文明确将 [[Single-Case Design|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域(p.460)。
 > - **单项 SCD 与政策证据之间的距离** 作者指出，一项 SCD 研究即便可能改变局部实践，也通常不足以支持[[Theories of Policy Change|政策变革]]；更强证据需要汇集不同研究团队、不同参与者和不同场所中的多项 SCD 研究。
-> - **推广性判断的具体信息项**[[What Works Clearinghouse|WWC]] SCD Review Guide 记录基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境(pp.464–466)。
+> - **推广性判断的具体信息项**[[What Works Clearinghouse|WWC]] SCD Review Guide 记录基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、[[Independent Variable|自变量]]/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境(pp.464–466)。
 > - **[[External Validity|外部效度]]的结构性难题** 作者强调，审查者往往不知道消费者希望把证据推广到哪一个具体"点"；这解释了为什么 WWC 选择描述推广性信息，而不是给每个推广性维度设置统一阈值(pp.462–463, 466)。
 > - **SCD 证据的社会[[Epistemology|认识论]]问题** 论文指出，存在一种普遍但错误的信念，认为 SCD 证据不能推广；作者认为 SCD 信息如何支持原始研究场所以外的情境判断仍需进一步澄清(p.467)。
 

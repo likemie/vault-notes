@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 71
+argument_related_count: 72
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -85,6 +85,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Design-Based Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Randomised Controlled Trials]]"
@@ -416,7 +417,7 @@ Popper (1968)、Lakatos (1970)、Mouly (1978)、Laudan (1990)和 Rasmussen (1990
 此处的论证逻辑是：**实证主义的弱点恰好定义了[[Interpretive Paradigm|反实证主义]]／诠释范式需要解决的问题空间**——如果不能从外部客观观察，那就从内部理解；如果不能发现普遍法则，那就关注独特案例；如果不能控制变量，那就保留自然情境的完整性。
 
 > [!exegesis]- 科学的四个假设在教育研究中如何体现？
-> - **决定论** 假设"教师反馈方式决定学生学业[[Self-Efficacy|自我效能感]]"，研究者设计实验来验证这一因果链
+> - **决定论** 假设"教师反馈方式决定学生学业[[Self-Efficacy|自我效能感]]"，研究者[[Design-Based Research|设计实验]]来验证这一因果链
 > - **经验主义** 这个假设不能只靠逻辑推导——必须进入课堂收集真实的反馈数据和效能感量表得分
 > - **简约原则** 如果能用"反馈的及时性"一个变量解释大部分效能感差异，就不必同时引入"反馈的语气""反馈的媒介""反馈的受众"等十几个变量
 > - **普遍性** 研究者在三所城市学校发现的关系，希望推广到全国乃至不同文化背景的学校——但这恰恰是教育研究中最困难的环节，因为课堂情境远比物理实验室复杂

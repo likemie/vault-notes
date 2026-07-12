@@ -11,7 +11,7 @@ summary: "ESSA证据层级中对应中等证据的量化研究设计，核心判
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -31,10 +31,12 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Random Assignment]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[ESSA 2015 Evidence Standards]]"
@@ -88,4 +90,5 @@ updated: 2026-05-23
 > - [[Educational Evidence Clearinghouses]] — 清算中心对 QED 的纳入和评级标准并不完全一致，具体差异集中写在清算中心条目中([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9-11]])。
 > - [[Implementation Fidelity]] — QED 的结果解释需要知道项目是否以足够质量和强度实施，以及对照条件是否足够可信([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
 > - [[Argument_Ross_Morrison_2021_ROE]] — 作为论证条目，讨论严格证据在学校项目选择中的作用和局限([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.109, 112]])。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍准实验的多种形式（非等价控制组、单组前后测、时间序列），并与真实验在[[Random Assignment|随机化]]、控制和[[Causality|因果推断]]力上进行系统对比。
 

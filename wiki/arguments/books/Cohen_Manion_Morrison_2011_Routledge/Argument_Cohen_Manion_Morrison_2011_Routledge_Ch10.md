@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 111
+argument_related_count: 113
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -69,6 +69,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Epistemology]]"
   - "[[Threats to External Validity]]"
+  - "[[Independent Variable]]"
   - "[[Study Population and Sample]]"
   - "[[Hawthorne Effect]]"
   - "[[Operationalization]]"
@@ -106,6 +107,7 @@ related_concepts:
   - "[[Interviewer Effects]]"
   - "[[Kitwood's Paradox]]"
   - "[[Selectivity]]"
+  - "[[Dependent Variable]]"
   - "[[Familiarization]]"
   - "[[Research Purpose]]"
   - "[[Test Validity]]"
@@ -517,7 +519,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为�
 > [!ref-table] 量化外部效度威胁速查
 > | 威胁 | 核心问题 |
 > |---|---|
-> | 自变量描述不充分 | 未来无法复制研究条件 |
+> | [[Independent Variable\|自变量]]描述不充分 | 未来无法复制研究条件 |
 > | 总体缺乏代表性 | 样本不代表[[Study Population and Sample\|目标总体]] |
 > | [[Hawthorne Effect\|霍桑效应]] | 受试者因被研究而改变行为 |
 > | 因变量[[Operationalization\|操作化]]不充分 | 测量在真实世界中缺乏效度 |
@@ -1270,7 +1272,7 @@ Kvale (1996: 148–9) 列出了熟练访谈者应具备的素质（pp.214–215�
 
 ### 10.12 实验中的效度与信度
 
-实验设计的根本目的是对可能混淆自变量对因变量真实效应的条件**施加控制（pp.215–216）**。
+实验设计的根本目的是对可能混淆自变量对[[Dependent Variable|因变量]]真实效应的条件**施加控制（pp.215–216）**。
 
 > [!warning] 实验中的内部效度威胁（重现 10.4.1）
 > 历史、成熟、统计回归、测验、工具、选择、实验损耗、工具反应性、选择-成熟交互。

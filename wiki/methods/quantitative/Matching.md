@@ -6,9 +6,9 @@ summary: "观察性研究中的因果推断方法，通过匹配协变量分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 17
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - matching
@@ -22,8 +22,10 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
+  - "[[Dependent Variable]]"
   - "[[Standard Error]]"
   - "[[Stable Unit Treatment Value Assumption]]"
+  - "[[Independent Variable]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
@@ -55,7 +57,7 @@ updated: 2026-07-12
 ## 操作步骤
 
 > [!example] 核心步骤
-> 1. **确定匹配[[Variable|变量]]** 选择用于匹配的协变量，关键操作原则是——匹配变量的选择**不参考结果变量**。[[Argument_Berk_2011_ER|Berk (2011, p.198)]] 强调："匹配变量的集合在不参考结果变量的情况下确定。目标是使样本达到平衡，为此，结果变量可以被锁在保险箱里。"
+> 1. **确定匹配[[Variable|变量]]** 选择用于匹配的协变量，关键操作原则是——匹配变量的选择**不参考[[Dependent Variable|结果变量]]**。[[Argument_Berk_2011_ER|Berk (2011, p.198)]] 强调："匹配变量的集合在不参考结果变量的情况下确定。目标是使样本达到平衡，为此，结果变量可以被锁在保险箱里。"
 >
 > 2. **匹配处理组与对照组** 将处理组和对照组的主体进行匹配，使两组在匹配变量上的分布有效相同
 >
@@ -106,7 +108,7 @@ updated: 2026-07-12
 - [[Observational and Correlational Research]] — 匹配是在观察性数据中尝试提高处理组与对照组可比性的策略，因此仍受未观测混杂因素与非操纵设计的限制
 - [[Causal Modeling]] — [[Argument_Berk_2011_ER|Berk (2011)]] 将匹配定位为因果建模的替代路径，认为其较少依赖不可检验模型[[Hypothesis|假设]]
 - [[Covariate Adjustment]] — 匹配和协[[Variable|变量]]控制都试图处理第三变量问题；前者通过样本平衡改善可比性，后者在模型中纳入协变量调整效应估计
-- [[Non-intervention Research]] — 匹配属于在非干预数据中改善[[Causality|因果推断]]的策略，但不改变研究本身未操纵自变量这一事实
+- [[Non-intervention Research]] — 匹配属于在非干预数据中改善[[Causality|因果推断]]的策略，但不改变研究本身未操纵[[Independent Variable|自变量]]这一事实
 
 ## 使用此方法的研究
 

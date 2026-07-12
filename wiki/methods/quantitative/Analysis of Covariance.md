@@ -7,7 +7,7 @@ summary: "在方差分析基础上加入一个或多个协变量以控制其影�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -17,6 +17,8 @@ tags:
   - group-comparison
 related_concepts:
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
 related_theories: []
@@ -42,7 +44,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 协[[Analysis of Variance|方差分析]]（Analysis of Covariance, ANCOVA）是 [[Analysis of Variance|ANOVA]] 的扩展，在比较组间均值差异时控制一个或多个协[[Variable|变量]]（covariates）的影响。它通过统计手段移除协变量对因变量的效应后，比较调整后的组间均值（adjusted means），从而更精确地评估自变量对因变量的独立效应（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 协[[Analysis of Variance|方差分析]]（Analysis of Covariance, ANCOVA）是 [[Analysis of Variance|ANOVA]] 的扩展，在比较组间均值差异时控制一个或多个协[[Variable|变量]]（covariates）的影响。它通过统计手段移除协变量对[[Dependent Variable|因变量]]的效应后，比较调整后的组间均值（adjusted means），从而更精确地评估[[Independent Variable|自变量]]对因变量的独立效应（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
@@ -50,9 +52,9 @@ updated: 2026-06-01
 > Creswell & Creswell (2022, Ch8, Table 8.3) 提供的选择标准：
 > - [[Research Question|研究问题]]性质：组间比较
 > - 自[[Variable|变量]]数量：1 个或以上
-> - 因变量数量：1
+> - [[Dependent Variable|因变量]]数量：1
 > - 协变量数量：1
-> - 变量类型：类别（自变量）/ 连续（因变量和协变量）
+> - 变量类型：类别（[[Independent Variable|自变量]]）/ 连续（因变量和协变量）
 > - 分数分布：正态
 
 > [!note]- ANCOVA 的核心逻辑
@@ -61,8 +63,8 @@ updated: 2026-06-01
 ## 方法变体与相近方法
 
 > [!tip]-
-> - vs [[Analysis of Variance|ANOVA]] — ANOVA 直接比较组间均值；ANCOVA 在控制协[[Variable|变量]]后比较调整均值。当各组在某一连续变量（如前测分数）上存在初始差异且该变量与因变量相关时，ANCOVA 比 ANOVA 更合适。
-> - vs [[Multiple Regression|多元回归]] — 多元回归使用连续预测变量；ANCOVA 同时包含类别自变量和连续协变量，可视为 ANOVA 和回归的混合形式。
+> - vs [[Analysis of Variance|ANOVA]] — ANOVA 直接比较组间均值；ANCOVA 在控制协[[Variable|变量]]后比较调整均值。当各组在某一连续变量（如前测分数）上存在初始差异且该变量与[[Dependent Variable|因变量]]相关时，ANCOVA 比 ANOVA 更合适。
+> - vs [[Multiple Regression|多元回归]] — 多元回归使用连续[[Independent Variable|预测变量]]；ANCOVA 同时包含类别自变量和连续协变量，可视为 ANOVA 和回归的混合形式。
 
 ## 适用场景
 
@@ -74,7 +76,7 @@ updated: 2026-06-01
 ## 局限性
 
 > [!warning]
-> - ANCOVA [[Hypothesis|假设]]协[[Variable|变量]]与因变量之间存在线性关系，且各组回归斜率相同（homogeneity of regression slopes）。若这一假设不成立，ANCOVA 的结果不可靠。
+> - ANCOVA [[Hypothesis|假设]]协[[Variable|变量]]与[[Dependent Variable|因变量]]之间存在线性关系，且各组回归斜率相同（homogeneity of regression slopes）。若这一假设不成立，ANCOVA 的结果不可靠。
 > - 协变量应在处理之前测量——若协变量本身可能受到处理的影响，则使用 ANCOVA 是不适当的（因为控制处理效应的中介变量会人为削弱处理效应）。
 > - 与其他[[Analysis of Variance|方差分析]]方法一样，对正态分布和方差同质性假设敏感。
 

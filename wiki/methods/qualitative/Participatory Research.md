@@ -7,7 +7,7 @@ summary: "一种批判理论驱动的研究方法，与社区和群体一起而�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Action Research]]"
+  - "[[Design-Based Research]]"
   - "[[Ideology Critique]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
@@ -81,7 +82,7 @@ updated: 2026-07-11
 > [!timeline-compact] Tandon（2005c: 30）的 PR 步骤序列（Figure 2.1）
 > - 社区识别自身问题
 > - 社区与研究者建立平等伙伴关系
-> - 集体设计研究方案
+> - 集体[[Design-Based Research|设计研究]]方案
 > - 集体实施资料收集
 > - 集体分析数据
 > - 集体决定行动方案

@@ -9,7 +9,7 @@ title: "Argument_Qvortrup_2015_Paideia"
 argument_key: "Argument_Qvortrup_2015_Paideia"
 argument_display_title: "Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Problem-Based Learning]]"
+  - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
@@ -101,7 +102,7 @@ citation_aliases:
 > - 多数关于教育干预与学习结果关系的评价和测试方法主要有效测量表层特征，对[[Surface and Deep Learning|深层学习]]有一定测量能力，但很少有效测量学生从课堂经验中建构出的概念表征；Qvortrup 将这视为 Hattie 自己也承认的限制(p.29)。
 > - Hattie 关于 [[Problem-Based Learning|PBL]] 的例子显示，同一教学法可能对不同知识层次产生不同效果：PBL 对表层知识的效果可能很低甚至负面，但在学生已有事实性知识和技能时，可能促进深层知识(p.28)。
 > - Qvortrup 的动态模型将知识分为四阶：一阶"知道某事"（knowing-that）、二阶"知道如何使用知识"（knowing-how）、三阶"知道为什么某物得以被如此构成"（knowing-why）、四阶"知道知识边界或共同知识视域"(pp.31–32)。
-> - 文章认为未来[[Meta-analysis|元分析]]可能朝 Glass 设想的复杂数据景观发展，即由原始数据档案呈现自[[Variable|变量]]、因变量和中介变量之间的复杂关系，而不只是输出单一平均效应(p.32)。
+> - 文章认为未来[[Meta-analysis|元分析]]可能朝 Glass 设想的复杂数据景观发展，即由原始数据档案呈现自[[Variable|变量]]、[[Dependent Variable|因变量]]和中介变量之间的复杂关系，而不只是输出单一平均效应(p.32)。
 
 ## 关键引用
 

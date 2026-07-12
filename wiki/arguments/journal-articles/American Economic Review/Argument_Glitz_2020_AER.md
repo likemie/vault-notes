@@ -24,6 +24,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Independent Variable]]"
   - "[[Standard Error]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
@@ -51,7 +52,7 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -188,7 +189,7 @@ issuing_organization: ""
 > - **安慰剂检验** 1,000 次随机重排情报流入的安慰剂估计分布中心在 0 附近（均值 0.0002，标准差 0.0013），排除了分母相同的机械相关性（pp.1088–1089）。
 
 > [!warrant]- 推理桥梁
-> OLS 已经通过行业固定效应吸收时不变行业特征、通过时间固定效应吸收共同冲击、通过专利差距控制创新活动。但斯塔西可能策略性地在预期技术落后的行业增派线人，导致低估；也可能因为西德创新更多自然带来更多可窃取信息，导致高估。IV 策略利用不受斯塔西当期策略控制的变异来源来解决这些内生性问题。
+> OLS 已经通过行业固定效应吸收时不变行业特征、通过时间固定效应吸收共同冲击、通过专利差距控制创新活动。但斯塔西可能策略性地在预期技术落后的行业增派线人，导致低估；也可能因为西德创新更多自然带来更多可窃取信息，导致高估。[[Independent Variable|IV]] 策略利用不受斯塔西当期策略控制的变异来源来解决这些内生性问题。
 
 ---
 

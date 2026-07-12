@@ -6,7 +6,7 @@ aliases:
 summary: "研究原因之效果的核心策略，通过施加干预并观察效果来建立因果推断，与回溯效果之原因的事后策略形成对照"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Hawthorne Effect]]"
   - "[[Reliability]]"
+  - "[[Independent Variable]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -84,7 +85,7 @@ updated: 2026-06-18
 ## 应用案例
 
 > [!case] [[Randomised Controlled Trials|随机对照试验]]作为干预主义策略的典型
-> [[Randomised Controlled Trials|RCT]] 是干预主义策略的极致形式——通过识别、隔离和控制自[[Variable|变量]]，操纵一个自变量观察其对结果的影响，同时保持其他变量不变。如果操纵该自变量导致结果变化，则该变化可归因于该自变量——它成为原因。但 RCT 同样受制于干预主义策略的局限：它可能建立[[Causality|因果关系]]，但不能揭示因果如何运作。
+> [[Randomised Controlled Trials|RCT]] 是干预主义策略的极致形式——通过识别、隔离和控制自[[Variable|变量]]，操纵一个[[Independent Variable|自变量]]观察其对结果的影响，同时保持其他变量不变。如果操纵该自变量导致结果变化，则该变化可归因于该自变量——它成为原因。但 RCT 同样受制于干预主义策略的局限：它可能建立[[Causality|因果关系]]，但不能揭示因果如何运作。
 
 > [!case] [[Action Research|行动研究]]作为干预主义策略
 > 教师在自己的课堂中引入新的教学方法（干预），观察学生表现的变化（效果）。这是干预主义策略的自然形式——但存在缺乏控制和外部检查的风险，因果归因可能是错位的。

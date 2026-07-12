@@ -7,7 +7,7 @@ aliases:
 summary: "Reichenbach (1956) 提出的因果分析概念，指两个看似相关的变量因被第三个共同原因隔开而彼此不存在因果关系"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Operationalization]]"
+  - "[[Dependent Variable]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -48,7 +49,7 @@ updated: 2026-06-17
 > - **共同原因 C** 一个第三[[Variable|变量]]同时导致 A 和 B。
 > - **表面关联 A ↔ B** A 和 B 在数据上表现出伴随变化，但这完全由 C 解释。
 > - **[[Causality|因果]]独立** 在控制 C 的条件下，A 和 B 之间的关联消失——它们彼此不产生因果影响。
-> - **[[Operationalization|操作化]]** 通过偏相关（partial correlation）或结构方程模型等技术"筛掉"不相关的因变量。
+> - **[[Operationalization|操作化]]** 通过偏相关（partial correlation）或结构方程模型等技术"筛掉"不相关的[[Dependent Variable|因变量]]。
 
 ## 围绕概念形成的命题
 
@@ -56,7 +57,7 @@ updated: 2026-06-17
 > 筛选隔离的核心洞见是：两个[[Variable|变量]]之间的相关关系不能自动等同于[[Causality|因果关系]]。气压计读数下降与暴风雨高度相关，但气压计读数下降不导致暴风雨——两者都被第三个因素（气压下降）所引起（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 59–60]]）。
 
 > [!claim] 筛选隔离要求识别并控制额外变量
-> 在确认真正的因果性时，研究者必须筛掉与所研究情境直接相关的变量无关的因变量——例如通过控制额外变量的效应（先验/外生变量或中介/内生变量），以确保一个变量不会被认为对另一个有影响而事实上并非如此（Pearl, 2009: 423–7）。
+> 在确认真正的因果性时，研究者必须筛掉与所研究情境直接相关的变量无关的[[Dependent Variable|因变量]]——例如通过控制额外变量的效应（先验/外生变量或中介/内生变量），以确保一个变量不会被认为对另一个有影响而事实上并非如此（Pearl, 2009: 423–7）。
 
 ## 应用案例
 

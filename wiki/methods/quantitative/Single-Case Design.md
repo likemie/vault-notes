@@ -7,9 +7,9 @@ summary: "多义词：量化实验中个体作为自身控制的重复测量设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 28
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
 - single-case-design
@@ -29,7 +29,9 @@ related_concepts:
   - "[[5-3-20 Rule]]"
   - "[[Variable]]"
   - "[[Evaluation Research]]"
+  - "[[Independent Variable]]"
   - "[[Sample Size Determination]]"
+  - "[[Dependent Variable]]"
   - "[[Definition of Terms]]"
   - "[[Heterogeneity]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -40,6 +42,7 @@ related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Repeated Measures Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Intervention Research]]"
   - "[[Gating Procedure]]"
@@ -48,6 +51,7 @@ related_arguments:
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[WWC SCD Pilot Standards]]"
@@ -82,7 +86,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 > [!def] 方法定义
 > 单一个案设计（single-case design, SCD）是一类实验方法，由多种设计组成，涉及在不同条件下对特定行为或技能进行重复测量，以评估干预对个体或小群体的有效性，个体或小群体作为自身的控制组（Kazdin, 2011; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460]]）。
 >
-> > "SCDs are experimental methods consisting of various designs involving repeated measures of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460, citing Kazdin, 2011]])
+> > "SCDs are experimental methods consisting of various designs involving [[Repeated Measures Design|repeated measures]] of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460, citing Kazdin, 2011]])
 >
 > SCD 起源于心理学领域，已被广泛应用于教育、医学、言语和语言治疗等多个学科。
 
@@ -116,8 +120,8 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 
 > [!proc] WWC SCD 审查流程
 > 1. **初步筛选（Screening）** 对照审查协议确定研究是否有资格纳入审查：干预是否符合条件、因[[Variable|变量]]和参与者特征是否符合协议参数、研究是否在指定场所进行（pp. 464–465）。例如一个审查协议可能规定干预必须在 K-12 学校环境中实施，普通教室可接受，但高度专业化人员配置的住宿项目可能不相关（p. 465）
-> 2. **[[Internal Validity|内部效度]]评估** [[Evaluation Research|评估研究]]的实验控制水平，包括：阶段对比的数量、每个阶段的数据点数量、结果是否被可靠测量、研究者是否主动操纵了自变量、通过视觉分析评估基线表现相对于干预阶段的表现（p. 465）
-> 3. **研究细节描述** 系统记录以下信息以支持推广性判断：场所描述、设计类型、参与者特征和[[Sample Size Determination|样本量]]、因变量的[[Definition of Terms|操作性定义]]和记录方法、基线和干预条件、实施者及其培训、干预忠实度（pp. 465–466）
+> 2. **[[Internal Validity|内部效度]]评估** [[Evaluation Research|评估研究]]的实验控制水平，包括：阶段对比的数量、每个阶段的数据点数量、结果是否被可靠测量、研究者是否主动操纵了[[Independent Variable|自变量]]、通过视觉分析评估基线表现相对于干预阶段的表现（p. 465）
+> 3. **研究细节描述** 系统记录以下信息以支持推广性判断：场所描述、设计类型、参与者特征和[[Sample Size Determination|样本量]]、[[Dependent Variable|因变量]]的[[Definition of Terms|操作性定义]]和记录方法、基线和干预条件、实施者及其培训、干预忠实度（pp. 465–466）
 > 4. **证据综合阈值判定** 应用 [[5-3-20 Rule]] 判断 SCD 证据是否足够充分以生成 WWC 干预报告
 
 ## 适用场景
@@ -161,4 +165,5 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 澄清 [[What Works Clearinghouse|WWC]] SCD 审查程序如何捕获推广性信息
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以 Kazdin (1982) ABAB 设计为框架介绍单一案实验的逻辑，并以 Dietz (1977) 在特殊教育中对一名青少年男孩使用差别性强化低频率行为（DRL）程序减少课堂干扰为例展示完整 ABAB 循环
 

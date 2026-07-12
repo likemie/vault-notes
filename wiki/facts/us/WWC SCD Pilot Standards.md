@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
+  - "[[Dependent Variable]]"
   - "[[Definition of Terms]]"
+  - "[[Independent Variable]]"
   - "[[Study Population and Sample]]"
   - "[[Tracking]]"
   - "[[5-3-20 Rule]]"
@@ -37,6 +39,7 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Design-Based Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
   - "[[Intervention Research]]"
@@ -55,7 +58,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> [[What Works Clearinghouse]] 最初的设计标准主要针对组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）。随着[[Single-Case Design|单一个案设计]]（[[Single-Case Design|SCD]]）在特殊教育、学校心理学等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的[[Internal Validity|内部效度]]和[[External Validity|外部效度]]([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。
+> [[What Works Clearinghouse]] 最初的设计标准主要针对组间[[Design-Based Research|设计研究]]（[[Randomised Controlled Trials|RCT]] 和准实验）。随着[[Single-Case Design|单一个案设计]]（[[Single-Case Design|SCD]]）在特殊教育、学校心理学等领域的广泛使用，需要一套专门的标准来评估 SCD 研究的[[Internal Validity|内部效度]]和[[External Validity|外部效度]]([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。
 >
 > SCD 已被认可为产生实证证据以指导治疗创新、采纳或改进的可行方法（Horner et al., 2005; Kratochwill & Levin, 2014），因此 WWC 需要建立相应的审查基础设施。
 
@@ -91,14 +94,14 @@ updated: '2026-05-18'
 > 一个系统化数据库工具，训练有素且经认证的审查员使用它来([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.464–465]])：
 >
 > - 记录研究的场所、设计、参与者特征和[[Sample Size Determination|样本量]]
-> - 记录因变量的[[Definition of Terms|操作性定义]]和测量方法
+> - 记录[[Dependent Variable|因变量]]的[[Definition of Terms|操作性定义]]和测量方法
 > - 记录基线和干预条件（会话次数、干预时长）
 > - 记录实施者和培训、干预忠实度
 > - 通过视觉分析评估实验控制
 >
 > #### Table 1：[[What Works Clearinghouse|WWC]] SCD Review Guide 捕获的推广性信息
 >
-> 该表回应 Maggin et al. (2013) 对 WWC SCD 标准的批评：如果只看 SCD 设计标准，似乎 WWC 没有处理推广性；但若把 SCD Review Guide 纳入，就能看到 WWC 系统记录了基线、因变量、自变量、参与者和场所等推广性信息。
+> 该表回应 Maggin et al. (2013) 对 WWC SCD 标准的批评：如果只看 SCD 设计标准，似乎 WWC 没有处理推广性；但若把 SCD Review Guide 纳入，就能看到 WWC 系统记录了基线、因变量、[[Independent Variable|自变量]]、参与者和场所等推广性信息。
 >
 > | Maggin et al. 的推广性标准 | WWC SCD Review Guide 中对应的信息项 | 信息用途 |
 > |---|---|---|
@@ -126,7 +129,7 @@ updated: '2026-05-18'
 > [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[Single-Case Design|SCD]] 评估量规时，仅审查了 [[Single-Case Design|SCD]] 设计标准文件本身，得出了"[[What Works Clearinghouse|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
 >
 > 1. WWC 设计标准**不能孤立看待**——它们必须与审查协议和 SCD Review Guide 一起理解（p.461）
-> 2. Review Guide 系统地捕获了 Maggin et al. 列出的所有推广性标准：基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、自变量描述、参与者描述、场所描述（p.465, Table 1）
+> 2. Review Guide 系统地捕获了 Maggin et al. 列出的所有推广性标准：基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、[[Independent Variable|自变量]]描述、参与者描述、场所描述（p.465, Table 1）
 > 3. 推广性细节**不被评分**（即不设"是否足够好"的阈值）而是**被详细描述**，以便消费者自行判断（p.466）
 > 4. 唯一的例外是 5-3-20 规则，它提供了证据是否被充分重复的阈值（p.466）
 

@@ -8,7 +8,7 @@ aliases:
 summary: "以有目的的、自我调节的判断为核心的思维技能与倾向，被广泛认为是大学学习和专业工作的核心学术能力。其教学方式存在显性独立课程与隐性学科融入两种路径的持续争论。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
@@ -134,7 +135,7 @@ updated: 2026-07-04
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
+> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
 > | Abrami et al. (2008) | 批判性思维技能 | 117 / 20,698 | — | — | — | — |
 >

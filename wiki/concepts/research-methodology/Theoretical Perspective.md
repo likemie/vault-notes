@@ -7,7 +7,7 @@ aliases:
 summary: "量化研究计划中专门阐述理论框架的独立章节，说明研究采用的理论、其核心命题和假设、已有应用文献，以及该理论如何连接到当前研究的变量和假设"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,8 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
   - "[[Hypothesis]]"
   - "[[Research Writing Script]]"
   - "[[Locus of Control]]"
@@ -49,7 +51,7 @@ updated: 2026-05-31
 理论在研究中可能以多种形式出现——作为论证、讨论、图示、依据或视觉模型（"A theory might appear in a research study as an argument, a discussion, a figure, a rationale, or a visual model," p.53）。
 
 > [!tip]- 彩虹比喻
-> 彩虹架起自[[Variable|变量]]和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。这一比喻形象地说明了理论视角章节的核心功能——连接变量并为变量间关系提供解释框架([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.53]])。
+> 彩虹架起自[[Variable|变量]]和[[Dependent Variable|因变量]]之间的桥梁，为"[[Independent Variable|自变量]]为何以及如何解释或预测因变量"提供总体解释。这一比喻形象地说明了理论视角章节的核心功能——连接变量并为变量间关系提供解释框架([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.53]])。
 
 ## 在量化研究中的位置
 
@@ -64,10 +66,10 @@ updated: 2026-05-31
 > 2. **说明理论来源** "该理论由_____（创始人或来源）提出"
 > 3. **回顾应用[[Document|文献]]** "它曾被用于研究_____（列出应用该理论的关键研究）"
 > 4. **陈述核心命题** "该理论指出_____（理论中的命题或[[Hypothesis|假设]]）"
-> 5. **关联当前研究** "应用于我的研究时，该理论认为我预期自[[Variable|变量]]_____会影响或因变量_____，因为_____（基于理论逻辑提供理由）"
+> 5. **关联当前研究** "应用于我的研究时，该理论认为我预期自[[Variable|变量]]_____会影响或[[Dependent Variable|因变量]]_____，因为_____（基于理论逻辑提供理由）"
 
 > [!example]
-> Crutchfield (1986) 在其博士论文中完整示范了这一结构。她的"理论视角"章节依次说明了所用理论（[[Social Learning Theory|社会学习理论]]）、理论的核心假设、已有应用文献、理论中的变量（行为、期望、强化、心理情境），以及将这些变量适应到学术生产力研究的具体方式。章节末尾以"如果—那么"逻辑将自变量（[[Locus of Control|控制点]]、人际信任、奖励价值、机构情境）与因变量（学术生产力水平）相关联（pp.12–16; 引自 Creswell & Creswell, 2022, pp.60–62）。
+> Crutchfield (1986) 在其博士论文中完整示范了这一结构。她的"理论视角"章节依次说明了所用理论（[[Social Learning Theory|社会学习理论]]）、理论的核心假设、已有应用文献、理论中的变量（行为、期望、强化、心理情境），以及将这些变量适应到学术生产力研究的具体方式。章节末尾以"如果—那么"逻辑将[[Independent Variable|自变量]]（[[Locus of Control|控制点]]、人际信任、奖励价值、机构情境）与因变量（学术生产力水平）相关联（pp.12–16; 引自 Creswell & Creswell, 2022, pp.60–62）。
 
 ## 概念辨析
 

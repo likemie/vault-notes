@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
   - "[[Hypothesis]]"
+  - "[[Dependent Variable]]"
   - "[[External Validity]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
@@ -160,7 +161,7 @@ sources:
 > | | 探索性(Exploratory) | 验证性(Confirmatory) |
 > |---|---|---|
 > | **描述性(Descriptive)** | 不预设模型，简单描述关注变量的数据分布 | 检验关于变量分布的假设 |
-> | **分析性(Analytic)** | 通过相关、回归、逐步回归和因子分析探索关系和模式 | 通过假设的预测或解释变量检验其对因变量的影响 |
+> | **分析性(Analytic)** | 通过相关、回归、逐步回归和因子分析探索关系和模式 | 通过假设的预测或解释变量检验其对[[Dependent Variable\|因变量]]的影响 |
 >
 > 描述性调查仅描述关注变量的数据；分析性调查通过假设的预测或解释变量检验其对因变量的影响（p.259）。
 

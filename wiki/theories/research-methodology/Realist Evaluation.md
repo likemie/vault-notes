@@ -10,7 +10,7 @@ aliases:
 summary: "由 Ray Pawson 和 Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Positivism]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Effect Size]]"
   - "[[Emergence]]"
   - "[[Epistemology]]"
@@ -81,7 +82,7 @@ updated: '2026-06-19'
 
 > [!proposition-chain] 实在论评估命题链
 > - **前提一：生成性[[Causality|因果]]观 (Generative [[Causality]])** 因果关系不在于观察到的恒常规则性（X 导致 Y），而在于事物内部蕴含的因果力量与机制。在开放系统（如学校）中，这些机制可能处于休眠状态，只有在适宜的环境背景中才会被激活。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
-> - **前提二：推理与资源的整合** 干预项目本身不能直接“产生”变化，它只提供资源（自[[Variable|变量]]）；结果（因变量）必须经由人（受试者）的能动性与信念进行推理（中介变量）而产生。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
+> - **前提二：推理与资源的整合** 干预项目本身不能直接“产生”变化，它只提供资源（自[[Variable|变量]]）；结果（[[Dependent Variable|因变量]]）必须经由人（受试者）的能动性与信念进行推理（中介变量）而产生。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])
 > - **机制：CMO 配置 (Context-Mechanism-Outcome Configuration)** 因果机制（Mechanism, M）被引入不同的社会背景（Context, C）中，会因为背景对机制的触发或抑制而导致完全不同的结果（Outcome, O）。即：\(C + M \rightarrow O\)。；另见 ([[Argument_Rambla_2022_Springer|Rambla, 2022, p. 165]])
 > - **结果判断：去情境化统计聚合的失效** 将不同情境的研究混为一谈并计算“平均[[Effect Size|效应量]]”（如在[[Meta-analysis|元分析]]中）是盲目的经验主义。这种“洗涤过程”抹杀了关键机制与背景，无法指导任何具体的教育改进。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])
 

@@ -10,7 +10,7 @@ summary: "检验两个类别变量之间是否存在关联的推断统计方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Research Question]]"
+  - "[[Dependent Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
@@ -51,7 +52,7 @@ updated: 2026-05-31
 > Creswell & Creswell (2022, Ch8, Table 8.3) 提供的选择标准：
 > - [[Research Question|研究问题]]性质：组间关联（association between groups）
 > - 自[[Variable|变量]]数量：1
-> - 因变量数量：1
+> - [[Dependent Variable|因变量]]数量：1
 > - 协变量数量：0
 > - 变量类型：类别／类别（两个变量均为类别变量，如性别 [男／女] × 投票意向 [支持／反对／未定]）
 > - 分数分布：非正态（non-normal）——类别变量本身不产生连续分布分数

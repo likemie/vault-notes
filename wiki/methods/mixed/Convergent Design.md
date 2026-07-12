@@ -9,7 +9,7 @@ summary: "同时收集量化和质性数据、分别分析后将结果合并比�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Dependent Variable]]"
   - "[[Central Phenomenon]]"
   - "[[Document]]"
   - "[[Data Transformation]]"
@@ -109,7 +110,7 @@ updated: 2026-06-30
 在研究开始前，研究者需明确阐述设计意图([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.136–137]])：
 
 > **英文脚本：**
-> This convergent mixed methods study will address ________ (overall intent). A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question. In the study, ________ (quantitative data) will be used to test the theory of ________ that predicts that ________ (independent [[Variable|variables]]) will influence ________ (dependent variables) for ________ (participants) at ________ (research site). The ________ (qualitative data) will explore the ________ ([[Central Phenomenon]]) for ________ (participants) at ________ (research site). The reason for collecting both quantitative and qualitative data is to ________ (merging the results).
+> This convergent mixed methods study will address ________ (overall intent). A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question. In the study, ________ (quantitative data) will be used to test the theory of ________ that predicts that ________ (independent [[Variable|variables]]) will influence ________ ([[Dependent Variable|dependent variables]]) for ________ (participants) at ________ (research site). The ________ (qualitative data) will explore the ________ ([[Central Phenomenon]]) for ________ (participants) at ________ (research site). The reason for collecting both quantitative and qualitative data is to ________ (merging the results).
 >
 > **中文译文：**
 > 本[[Mixed Methods Research|混合方法研究]]将解决________（总体意图）。采用聚敛式混合方法设计，在该设计中，质性数据和量化数据分别收集以提供对问题或[[Research Question|研究问题]]的多重视角。本研究中，________（量化数据）将用于检验________理论，该理论预测________自[[Variable|变量]]对________因变量在________研究场所________参与者的影响。________（质性数据）将探索________的________[[Central Phenomenon|核心现象]]。合并两类数据库的洞见将是________。

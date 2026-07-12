@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 173
+argument_related_count: 176
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -74,7 +74,9 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Positivism]]"
   - "[[Fitness for Purpose]]"
+  - "[[Independent Variable]]"
   - "[[Epistemology]]"
+  - "[[Dependent Variable]]"
   - "[[Operationalization]]"
   - "[[Multiplicity]]"
   - "[[Construct]]"
@@ -153,6 +155,7 @@ related_methods:
   - "[[Joint Display]]"
   - "[[Convergent Design]]"
   - "[[Mixed Methods Evaluation Design]]"
+  - "[[Design-Based Research]]"
   - "[[Narrative Research]]"
   - "[[Grounded Theory]]"
   - "[[Ethnography]]"
@@ -236,7 +239,7 @@ citation_aliases:
 
 #### 概览
 
-全书为研究者提供设计研究计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Methods Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学[[Hypothesis|假设]]、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]与假设，以及数据收集、分析和解释的方法程序。
+全书为研究者提供[[Design-Based Research|设计研究]]计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Methods Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学[[Hypothesis|假设]]、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]与假设，以及数据收集、分析和解释的方法程序。
 
 > [!quote]
 > “本书提出了一套框架、过程和写作方法，用于在人类科学、健康科学和社会科学领域设计质性、量化和混合方法研究计划或项目。”
@@ -414,7 +417,7 @@ citation_aliases:
 
 **如何选择研究路径？** 世界观、设计和方法的匹配只是基础，最终决策还需叠加三个因素的考量。
 
-第一，研究问题本身的性质。如果问题需要识别影响结果的因素、检验干预效果或了解最佳预测变量，量化路径最合适；如果某一概念或现象尚缺乏研究、涉及未被充分研究的样本、既有理论不适用于该群体，质性路径更恰当；如果单一方法不足以全面回答研究问题——例如既需要将发现推广至总体，又需要深入理解个体对某一现象的意义——混合方法路径能发挥两类数据的互补优势。
+第一，研究问题本身的性质。如果问题需要识别影响结果的因素、检验干预效果或了解最佳[[Independent Variable|预测变量]]，量化路径最合适；如果某一概念或现象尚缺乏研究、涉及未被充分研究的样本、既有理论不适用于该群体，质性路径更恰当；如果单一方法不足以全面回答研究问题——例如既需要将发现推广至总体，又需要深入理解个体对某一现象的意义——混合方法路径能发挥两类数据的互补优势。
 
 第二，研究者的个人训练和经验。习惯技术性科学写作、统计和计算机统计程序的人倾向于量化设计；喜欢文学式写作、面对面访谈和近距离观察的人更适应质性路径。量化研究高度结构化、规则明确；质性研究允许更多创新和灵活的设计框架。从事社会正义或社区参与研究，质性路径通常最合适。混合方法研究者需要同时熟悉两类传统，且须有额外的时间和资源来收集和分析两类数据。
 
@@ -477,7 +480,7 @@ citation_aliases:
 
 **第四步：三种路径的组织逻辑。** 核心论断：文献综述的组织方式由[[Epistemology|认识论]]立场决定。
 
-量化研究以演绎方式使用文献，五部分结构围绕变量组织。关键在于第三部分（连接自变量与因变量的文献）——应相对简短且极其接近计划研究。
+量化研究以演绎方式使用文献，五部分结构围绕变量组织。关键在于第三部分（连接自变量与[[Dependent Variable|因变量]]的文献）——应相对简短且极其接近计划研究。
 
 > [!warning] 五部分结构的隐藏风险
 > 如果第三部分已经有很多高度相关的研究，计划研究的"贡献"就需要重新论证。第三部分的空白或稀疏，恰恰为计划研究提供了合法化空间。

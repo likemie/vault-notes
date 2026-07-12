@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 100
+argument_related_count: 102
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -51,6 +51,8 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Memos]]"
   - "[[Causality]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Bildung]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Blue Skies Research]]"
@@ -277,7 +279,7 @@ updated: 2026-07-08
 **变量的分类**可以从五个不同标准进行系统划分。这五类划分并非独立，在实际研究情境中相互交叉存在。
 
 > [!contrast-table] 按[[Causality\|因果关系]]
-> | 维度 | 自变量（Independent Variable） | 因变量（Dependent Variable） |
+> | 维度 | [[Independent Variable\|自变量]]（Independent Variable） | [[Dependent Variable\|因变量]]（Dependent Variable） |
 > |---|---|---|
 > | 定义 | 由研究者主动操纵而变化的变量，能独立变化并引起因变量变化 | 变化由自变量引起，是研究中主要测查的变量 |
 > | 角色 | 研究中的"原因" | 研究中的"结果" |

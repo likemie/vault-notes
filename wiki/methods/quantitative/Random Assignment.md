@@ -11,7 +11,7 @@ summary: "将受试者按概率均等原则分配到实验处理条件中，以�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Research Purpose]]"
   - "[[Sample Size Determination]]"
   - "[[School Leadership]]"
@@ -112,7 +114,7 @@ updated: '2026-06-19'
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 实验数据（前测与后测横截面数据或嵌套面板数据）。
 > - **样本与单位** 处理组/对照组，通常以学生个体为单位，或以班级/学校为聚类单位。
-> - **变量或指标** 自变量（处理状态：0=对照组，1=干预组）、因变量（后测表现）、控制变量（前测得分、社会经济背景等）。
+> - **变量或指标** [[Independent Variable|自变量]]（处理状态：0=对照组，1=干预组）、[[Dependent Variable|因变量]]（后测表现）、控制变量（前测得分、社会经济背景等）。
 > - **模型或统计量** 组间均值差异检验，以及考虑聚类效应的层级线性模型（HLM）。
 > - **诊断与检验** 组间基线不平衡诊断、样本流失率（Attrition Rate）检验。
 

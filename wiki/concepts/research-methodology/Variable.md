@@ -6,7 +6,7 @@ aliases:
 summary: "量化研究中可被测量或观察且在不同个体或组织之间变化的特征或属性，是构建理论、提出假设和检验因果关系的基本分析单位"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,8 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Bildung]]"
 related_theories: []
 related_methods:
@@ -113,14 +115,14 @@ updated: 2026-07-08
 
 ### 自变量（Independent Variable）
 
-自变量是研究中影响或导致结果的变量。之所以称为"独立"，是因为研究者在实验中系统操纵它们，使其独立于其他所有影响([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。在[[Experimental Research|实验研究]]中，自变量常被称为处理变量（treatment variable）或操纵变量（manipulated variable）。
+[[Independent Variable|自变量]]是研究中影响或导致结果的变量。之所以称为"独立"，是因为研究者在实验中系统操纵它们，使其独立于其他所有影响([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。在[[Experimental Research|实验研究]]中，自变量常被称为处理变量（treatment variable）或操纵变量（manipulated variable）。
 
 > [!example]
 > 一项为期 8 周的实验要求部分参与者每天饮用一杯红酒（红酒组），其他参与者维持正常饮酒习惯（对照组）。适度红酒消费是自变量([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。
 
 ### 因变量（Dependent Variable）
 
-因变量依赖于自变量，是受自变量影响的结果或结局([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。在实验中通常有多个因变量测量指标，如上述红酒实验中的心脏病发作率、中风发生率或血管斑块形成量。
+[[Dependent Variable|因变量]]依赖于自变量，是受自变量影响的结果或结局([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.54]])。在实验中通常有多个因变量测量指标，如上述红酒实验中的心脏病发作率、中风发生率或血管斑块形成量。
 
 ### 预测变量（Predictor Variable）
 
@@ -177,7 +179,7 @@ updated: 2026-07-08
 ## 理论基础
 
 > [!tip]-
-> 变量是理论在实证层面的操作性表达。[[Hypothesis|假设]]将变量组织为预测性陈述，理论则解释为什么这些变量之间存在关系。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.54)]] 用彩虹比喻理论的角色，将彩虹描述为架起自变量和因变量之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。
+> 变量是理论在实证层面的操作性表达。[[Hypothesis|假设]]将变量组织为预测性陈述，理论则解释为什么这些变量之间存在关系。[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.54)]] 用彩虹比喻理论的角色，将彩虹描述为架起[[Independent Variable|自变量]]和[[Dependent Variable|因变量]]之间的桥梁，为"自变量为何以及如何解释或预测因变量"提供总体解释。
 
 ## 相关方法
 

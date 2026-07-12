@@ -10,9 +10,9 @@ summary: "通过操纵处理条件、比较处理组与控制组的结果差异�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 42
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -23,7 +23,9 @@ related_concepts:
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
+  - "[[Independent Variable]]"
   - "[[Manipulation Check]]"
+  - "[[Dependent Variable]]"
   - "[[Reflexivity]]"
   - "[[Cover Story]]"
   - "[[Research Purpose]]"
@@ -57,7 +59,8 @@ related_methods:
   - "[[Solomon Four-Group Design]]"
   - "[[Analysis of Variance]]"
   - "[[Analysis of Covariance]]"
-  - "[[Between-Subjects and Within-Subjects Designs]]"
+  - "[[Design-Based Research]]"
+  - "[[Repeated Measures Design]]"
   - "[[Survey Research]]"
 related_persons: []
 related_facts: []
@@ -91,9 +94,9 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ### 变量
 
 > [!abstract]
-> - **自变量（Independent Variables）** 明确实验中的自变量及其操纵方式。可进行 2 × 2 受试者间[[Factorial Design|因子设计]]，同时操纵两个自变量。
+> - **[[Independent Variable|自变量]]（Independent Variables）** 明确实验中的自变量及其操纵方式。可进行 2 × 2 受试者间[[Factorial Design|因子设计]]，同时操纵两个自变量。
 > - **[[Manipulation Check|操纵检查]]（Manipulation Check）** 评估实验是否成功操纵了目标自变量。例如，若研究通过正面／负面测试反馈操纵自尊水平，可在操纵后施测状态自尊问卷，定量评估两组是否存在自尊差异（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
-> - **因变量（Dependent Variables）** 明确实验的结果变量，即被假定受自变量操纵影响或引起的结果或效标变量。可考虑使用多种方式测量同一结果（如攻击性的行为测量和自评测量）。
+> - **[[Dependent Variable|因变量]]（Dependent Variables）** 明确实验的结果变量，即被假定受自变量操纵影响或引起的结果或效标变量。可考虑使用多种方式测量同一结果（如攻击性的行为测量和自评测量）。
 > - **其他变量** 包括（1）受试者人口学特征（年龄、性别、族裔）；（2）可能增加研究设计噪音的变量（如自尊水平可能在一天中波动，可测量和记录时间作为协变量）；（3）潜在混淆变量（如批评者可能声称正面／负面反馈操作也无意中操纵了[[Reflexivity|反思性]]思维，可测量该变量以定量评估此主张）（, Ch8）。
 
 ### 工具与材料
@@ -158,7 +161,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 
 ### 实验方法计划检查清单
 
-> [!abstract] 表8.4：设计实验方法计划的检查清单
+> [!abstract] 表8.4：[[Design-Based Research|设计实验]]方法计划的检查清单
 >
 > **参与者**
 > - 研究的参与者是谁？
@@ -193,7 +196,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - **准实验（Quasi-Experiment）** 使用非随机化分配，在无法随机化（如使用已有班级或学校）时使用。
 > - **[[Single-Subject Design|单受试者设计]]（Single-Subject Design）** 在时间维度上对单个个体或少数个体施加、撤销处理，观察行为变化（Cooper et al., 2007; Neuman & McCormick, 1995）。
 > - **[[Factorial Design|因子设计]]（Factorial Design）** 同时操纵多个处理[[Variable|变量]]及其交互效应。
-> - **[[Between-Subjects and Within-Subjects Designs|重复测量设计]]（Repeated Measure Design）** 在不同时间点对同一组受试者重复测量，追踪处理效果的时间动态。
+> - **[[Repeated Measures Design|重复测量设计]]（Repeated Measure Design）** 在不同时间点对同一组受试者重复测量，追踪处理效果的时间动态。
 > - **纵向数据收集** 在较长时间跨度内收集数据，考察思想和趋势的发展变化。
 > - [[Quasi-Experimental Designs]] — 更详细的准实验变体。
 > - [[Survey Research]] — 描述性和相关性设计，不涉及处理操纵，无法直接推断[[Causality|因果关系]]。

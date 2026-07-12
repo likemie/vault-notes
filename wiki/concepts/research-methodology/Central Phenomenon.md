@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中所探索或理解的单一概念或想法，是质性目的陈述的核心组成部分，不同于量化研究中对变量间关系或组间比较的聚焦"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,8 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Purpose Statement]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Research Topic]]"
   - "[[Research Writing Script]]"
   - "[[Constructivist Paradigm]]"
@@ -57,7 +59,7 @@ updated: 2026-05-31
 ## 概念辨析
 
 > [!example]
-> **核心现象 vs [[Variable|变量]]（Variable）** 核心现象是[[Qualitative Research|质性研究]]中需要探索和理解的单一整体性概念；变量是[[Quantitative Research|量化研究]]中可测量且在不同个体间变化的具体特征。核心现象不能用"自变量-因变量"的框架来框定，它的价值恰恰在于其开放性、未预设的复杂性。
+> **核心现象 vs [[Variable|变量]]（Variable）** 核心现象是[[Qualitative Research|质性研究]]中需要探索和理解的单一整体性概念；变量是[[Quantitative Research|量化研究]]中可测量且在不同个体间变化的具体特征。核心现象不能用"[[Independent Variable|自变量]]-[[Dependent Variable|因变量]]"的框架来框定，它的价值恰恰在于其开放性、未预设的复杂性。
 
 > [!example]
 > **核心现象 vs [[Research Topic|研究主题]]（Research Topic）** 研究主题是研究的宽泛领域或方向；核心现象是主题之下被具体聚焦和加以探索的那一个概念。例如，研究主题可能是"教师专业发展"，核心现象则可能是"教师身份的边缘化"。

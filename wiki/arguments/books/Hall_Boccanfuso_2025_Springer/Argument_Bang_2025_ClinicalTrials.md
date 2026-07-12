@@ -18,6 +18,7 @@ related_concepts:
   - "[[Master Protocol]]"
   - "[[Analytic Framework]]"
   - "[[Translational Research]]"
+  - "[[Independent Variable]]"
   - "[[Institutional Review Board]]"
   - "[[Performance Indicators]]"
   - "[[Conflict of Interest in Research]]"
@@ -52,7 +53,7 @@ title: "Argument_Bang_2025_ClinicalTrials"
 argument_key: "Argument_Bang_2025_ClinicalTrials"
 argument_display_title: "University–Industry Relations in Clinical Trials"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -80,7 +81,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] [[Analytic Framework|分析框架]]：[[Clinical Trial|临床试验]]生命周期 × 产业方视角
-> 论证围绕[[Clinical Trial|临床试验]]的完整生命周期展开——从临床前[[Translational Research|转化研究]]到上市后监测（IV 期），但分析视角始终设在产业方一侧：在每个阶段，大学为试验贡献什么？产业方承担的成本和风险是什么？双方的制度摩擦在哪里产生？
+> 论证围绕[[Clinical Trial|临床试验]]的完整生命周期展开——从临床前[[Translational Research|转化研究]]到上市后监测（[[Independent Variable|IV]] 期），但分析视角始终设在产业方一侧：在每个阶段，大学为试验贡献什么？产业方承担的成本和风险是什么？双方的制度摩擦在哪里产生？
 >
 > 核心分析工具是两组对比维度：
 > - **[[Academic Medical Center|学术医学中心]]与非学术试验基地的启动效率对比（Table 11.2）** 包括从基地选择到激活的周期时间、委员会审查数量、监管包提交到[[Institutional Review Board|机构审查委员会]]（Institutional Review Board, IRB）批准的时间、合同/预算的审查与签署时间、合同执行到激活的时间
@@ -128,7 +129,7 @@ citation_aliases:
 
 **3. 临床试验的五阶段架构提供了产学分工的清晰框架，但每一阶段的制度摩擦点并不相同**
 
-临床试验按开发阶段分为 0 期到 IV 期，各有明确的关键目标、关键活动和产学产出（Table 11.1）。试验类型包括多中心试验（multi-centered）、研究者发起试验（investigator-initiated）和申办方发起试验（sponsor-initiated）(p.203)。
+临床试验按开发阶段分为 0 期到 [[Independent Variable|IV]] 期，各有明确的关键目标、关键活动和产学产出（Table 11.1）。试验类型包括多中心试验（multi-centered）、研究者发起试验（investigator-initiated）和申办方发起试验（sponsor-initiated）(p.203)。
 
 > [!info] 临床试验各阶段速览(pp.203–204)
 > - **0 期（探索性研究性新药，Exploratory Investigational New Drug, IND）** 微剂量给药于少数志愿者，了解药代动力学（Pharmacokinetics, PK）和药效学（Pharmacodynamics, PD），不期待治疗或毒性效果。产出为是否继续推进临床开发的决策信息。

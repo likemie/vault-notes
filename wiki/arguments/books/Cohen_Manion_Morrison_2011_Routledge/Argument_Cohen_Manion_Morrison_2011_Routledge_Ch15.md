@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_display_title: "Research Methods in Education · Ch15"
 argument_kind: "book-chapter"
-argument_related_count: 22
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -34,10 +34,15 @@ related_concepts:
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
   - "[[Homework]]"
+  - "[[Co-relational Study]]"
+  - "[[Criterion Group Study]]"
   - "[[Sample Size Determination]]"
   - "[[Effective Teaching]]"
   - "[[Document]]"
+  - "[[Post Hoc Ergo Propter Hoc Fallacy]]"
   - "[[Research Purpose]]"
   - "[[Evidence-Based Education]]"
   - "[[Falsification]]"
@@ -51,6 +56,7 @@ related_methods:
   - "[[t-test]]"
   - "[[Analysis of Variance]]"
   - "[[Matching]]"
+  - "[[Matched Pairs Design]]"
 related_facts:
   - "[[OECD]]"
 related_arguments:
@@ -98,7 +104,7 @@ sources:
 > [!def] 事后回溯研究的正式定义
 > 事后回溯研究是一种梳理已发生事件的先行因素的方法，这些事件已发生因此无法被控制、设计或操纵（Cooper & Schindler, 2001, p. 136）。只能报告已发生或正在发生的事情，通过谨慎关注抽样来设法将因素保持不变。自[[Variable|变量]]无法像在真正实验中那样被操纵，因为它们已经发生。因此整个推断在概率性因果关系的领域内进行：试探性地推断原因（inferring causes tentatively），无法确定性地展示因果关系（p. 304）。
 
-事后回溯研究可用于研究相似但仅在一个条件上不同的群体，评估那个不同条件对因变量的效应。它因此是一种实验形式，但没有真正实验的严格控制：存在控制组和实验组（后者指某一特定条件被应用的组）。由于几乎没有或完全没有对自变量或条件的严格操纵，也没有对被试的[[Random Assignment|随机分配]]，任何因果推断都是试探性的（p. 304）。
+事后回溯研究可用于研究相似但仅在一个条件上不同的群体，评估那个不同条件对[[Dependent Variable|因变量]]的效应。它因此是一种实验形式，但没有真正实验的严格控制：存在控制组和实验组（后者指某一特定条件被应用的组）。由于几乎没有或完全没有对[[Independent Variable|自变量]]或条件的严格操纵，也没有对被试的[[Random Assignment|随机分配]]，任何因果推断都是试探性的（p. 304）。
 
 > [!case] 交通事故调查
 > 假设某地区致命交通事故急剧增加。一位专家被召来进行调查。她无法研究已发生的实际事故，它们已经发生了；无法调用技术手段回放事故录像；更无法要求参与者跑到公交车或卡车前面，或站在飞驰摩托车的前方以发现效果。
@@ -161,7 +167,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > [!example]- 图15.1 四种事后回溯研究类型
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_15-1_Four_Types_of_Ex_Post_Facto_Research.jpg)
 >
-> 该图以前瞻性/回溯性和共变关系研究/标准组研究两个维度，划分出四种事后回溯研究设计类型（p. 306）。
+> 该图以前瞻性/回溯性和[[Co-relational Study|共变关系研究]]/[[Criterion Group Study|标准组研究]]两个维度，划分出四种事后回溯研究设计类型（p. 306）。
 
 ---
 
@@ -462,7 +468,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 尽管事后回溯研究被剥夺了变量控制和随机化原则，研究者仍可采用若干程序引入一定程度的控制（pp. 316–317）：
 
 > [!feature] 四种控制手段
-> - **匹配被试（[[Matching]]）** 在因果-比较设计中，将实验组和对照组的被试在重要且相关的特征上进行匹配，这是最常用的引入控制的手段。Ary et al.（2009）指出配对设计（matched pair designs；见第16章）需仔细匹配可能影响研究的相关特征（示例见 Leow, 2009）。困难在于：(1) 未必知道哪些因素是相关的，即哪些因素可能与因变量有关；(2) 无法匹配的被试将被淘汰，导致样本缩减。Lewis-Beck（1993, p. 43）报告了一个从 1,194 缩减到 46 的匹配后样本缩减实例（p. 316）。
+> - **匹配被试（[[Matching]]）** 在因果-比较设计中，将实验组和对照组的被试在重要且相关的特征上进行匹配，这是最常用的引入控制的手段。Ary et al.（2009）指出[[Matched Pairs Design|配对设计]]（matched pair designs；见第16章）需仔细匹配可能影响研究的相关特征（示例见 Leow, 2009）。困难在于：(1) 未必知道哪些因素是相关的，即哪些因素可能与因变量有关；(2) 无法匹配的被试将被淘汰，导致样本缩减。Lewis-Beck（1993, p. 43）报告了一个从 1,194 缩减到 46 的匹配后样本缩减实例（p. 316）。
 > - **将额外自变量纳入设计并使用[[Analysis of Variance|方差分析]]** 作为匹配的替代程序，建议将外部自变量纳入设计然后使用方差分析。例如智力是相关的外部变量，但又无法通过匹配等方式控制时，可将其作为另一个自变量纳入研究，按智力水平对被试分类。通过方差分析揭示智力的主效应和交互效应，即使智力与因变量之间不能假设因果关系，也可显示组间在因变量上是否存在统计显著差异，以及智力对该差异的贡献（pp. 316–317）。
 > - **选择同质性样本** 建议在某一给定变量上选择尽可能同质的样本。例如智力是相关外部变量时，可通过只纳入一个智力水平的被试来控制其效应。这将自变量与其他常见关联的变量分离开（disentangle），使任何发现的效应可被合理地归因于自变量（p. 317）。
 > - **陈述并检验[[Alternative Hypothesis|替代假设]]** 明确陈述并检验能合理解释研究经验结果的其他可能假设。必须警惕，不要把事后回溯研究中第一个看起来合理的解释接受为必然唯一或最终的解释。经典案例：吸烟与肺癌的关系。卫生官员迅速接受"吸烟引发肺癌"的解释，而烟草公司提出替代假设：吸烟和肺癌可能都是某个尚未指明的第三因素的结果，即自变量和因变量都可能是单一共同原因的分别结果，这一可能性不可忽视。
@@ -479,14 +485,14 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > [!citation-card]- 概率性因果：试探性推断，无法确定性展示
 > 只能报告已发生或正在发生的事情，通过谨慎关注抽样来设法将因素保持不变。自[[Variable|变量]]无法像在真正实验中那样被操纵，因为它们已经发生。因此推断在概率性因果关系的领域内进行：试探性地推断原因，无法确定性地展示因果关系。（第15章，p. 304）
 >
-> *Researchers can only report what has happened or what is happening, by trying to hold factors constant by careful attention to the sampling. Independent variables cannot be manipulated as in true experiments, as they have already happened. Hence the researcher is in the realms of [[Probabilistic Causation]], inferring causes tentatively rather than being able to demonstrate causality unequivocally.*
+> *Researchers can only report what has happened or what is happening, by trying to hold factors constant by careful attention to the sampling. [[Independent Variable|independent variables]] cannot be manipulated as in true experiments, as they have already happened. Hence the researcher is in the realms of [[Probabilistic Causation]], inferring causes tentatively rather than being able to demonstrate causality unequivocally.*
 
 > [!citation-card]- 反向实验：事后回溯是实验的逻辑镜像
-> 事后回溯设计在某种程度上相当于反向进行的[[Experimental Research|实验研究]]：从已经在某些方面存在差异的组出发，回溯搜索导致差异的因素，而不是取等效组并施加不同处理以产生因变量差异。Spector（1993, p. 42）认为事后回溯研究是一种试图将非实验研究设计转化为伪实验形式的程序。（第15章，pp. 305–306）
+> 事后回溯设计在某种程度上相当于反向进行的[[Experimental Research|实验研究]]：从已经在某些方面存在差异的组出发，回溯搜索导致差异的因素，而不是取等效组并施加不同处理以产生[[Dependent Variable|因变量]]差异。Spector（1993, p. 42）认为事后回溯研究是一种试图将非实验研究设计转化为伪实验形式的程序。（第15章，pp. 305–306）
 >
 > *Some instances of ex post facto designs correspond to experimental research in reverse, for instead of taking groups that are equivalent and subjecting them to different treatments so as to bring about differences in the dependent variables to be measured, an ex post facto experiment begins with groups that are already different in some respect and searches in retrospect for the factor that brought about the difference.*
 
-> [!citation-card]- 事后归因谬误与反向因果
+> [!citation-card]- [[Post Hoc Ergo Propter Hoc Fallacy|事后归因谬误]]与反向因果
 > 因果关系的建立常常仅仅基于这样的前提：任何先于所研究现象发生的相关事件都被假定为其原因，即经典的事后归因谬误（post hoc, ergo propter hoc fallacy）。仅因一个变量在时间上先于另一个，不意味着前者引发后者。即使发现两个变量之间的关系，也必须认识到二者可能都是某个共同的第三因素的结果。还有反向因果的真实可能性，如心脏状况促进肥胖，反过来也可能成立。（第15章，pp. 309–310）
 >
 > *Frequently, causal relationships seem to be established on nothing more substantial than the premise that any related event occurring prior to the phenomenon under study is assumed to be its cause – the classical post hoc, ergo propter hoc fallacy. Even when we do find a relationship between two variables, we must recognize the possibility that both are individual results of a common third factor rather than the first being necessarily the cause of the second. There is also the real possibility of reverse causation.*

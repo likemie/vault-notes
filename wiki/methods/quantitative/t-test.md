@@ -11,7 +11,7 @@ summary: "比较两组均值的推断统计方法，包括比较两个独立组�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
   - group-comparison
 related_concepts:
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
@@ -52,7 +53,7 @@ updated: 2026-05-31
 > [!example]
 > t 检验的典型使用步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 
-1. 明确分组[[Variable|变量]]（二分类，如实验组 vs 对照组）和结果变量（连续变量）。
+1. 明确分组[[Variable|变量]]（二分类，如实验组 vs 对照组）和[[Dependent Variable|结果变量]]（连续变量）。
 2. 检查两组是否独立（独立样本 t 检验）或配对（配对样本 t 检验）。
 3. 检查正态分布[[Hypothesis|假设]]和方差同质性假设。
 4. 计算 t 统计量并比较 p 值与预设显著性水平。

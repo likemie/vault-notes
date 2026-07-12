@@ -8,7 +8,7 @@ summary: "先收集量化数据再以质性后续数据深入解释量化结果�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 17
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -20,10 +20,12 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
   - "[[Research Question]]"
+  - "[[Dependent Variable]]"
   - "[[Descriptive Analysis]]"
   - "[[Metainferences]]"
   - "[[Causality]]"
   - "[[Purpose Statement]]"
+  - "[[Independent Variable]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -88,7 +90,7 @@ updated: 2026-06-02
 在研究构思阶段，需明确两阶段的递进逻辑([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])：
 
 > **英文脚本：**
-> This study will address ________ (overall intent). An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data. In the first, quantitative phase of the study, ________ (quantitative instrument) data will be collected from ________ (participants) to test ________ (theory) and to assess whether ________ (independent [[Variable|variables]]) relate to ________ (dependent variables). The second, qualitative phase will follow up on the quantitative results to help explain the quantitative results in more depth. The insight to be gained from using qualitative data to explain the quantitative results will be ________.
+> This study will address ________ (overall intent). An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data. In the first, quantitative phase of the study, ________ (quantitative instrument) data will be collected from ________ (participants) to test ________ (theory) and to assess whether ________ (independent [[Variable|variables]]) relate to ________ ([[Dependent Variable|dependent variables]]). The second, qualitative phase will follow up on the quantitative results to help explain the quantitative results in more depth. The insight to be gained from using qualitative data to explain the quantitative results will be ________.
 > 
 > 中文译文：
 > 本研究将解决________（总体意图）。采用解释性序列[[Mixed Methods Research|混合方法]]设计，先收集量化数据，然后用深入的质性后续数据解释量化结果。第一量化阶段将从________参与者收集________（量化工具）的数据，以检验________理论并评估________自[[Variable|变量]]是否与________因变量有关。第二质性阶段将作为量化结果的后续，以帮助深入解释量化结果。用质性数据解释量化结果的洞见将是________。
@@ -163,7 +165,7 @@ updated: 2026-06-02
 > | **设计类型** | 解释性序列 (Sequential Explanatory)。 |
 > | **量化术语** | identify factors, predictors, statistical tests。 |
 > | **质性术语** | explore in more depth, case study analysis。 |
-> | **第一量化阶段** | 278 名学生调查；涵盖五类预测变量。 |
+> | **第一量化阶段** | 278 名学生调查；涵盖五类[[Independent Variable\|预测变量]]。 |
 > | **第二质性阶段** | 四个不同参与者群体的案例研究。 |
 > | **整合洞见** | 用案例研究解释统计结果——为量化发现提供机制性阐释。 |
 

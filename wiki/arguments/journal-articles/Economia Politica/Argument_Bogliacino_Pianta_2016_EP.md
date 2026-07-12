@@ -7,7 +7,7 @@ title: "Argument_Bogliacino_Pianta_2016_EP"
 argument_key: "Argument_Bogliacino_Pianta_2016_EP"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,8 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Variable]]"
   - "[[Competitiveness]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Causality]]"
   - "[[External Validity]]"
 related_theories:
@@ -194,7 +196,7 @@ updated: 2026-06-10
 > Tidd et al.（2005）提出将通信、金融、保险、零售和出版单独归为"信息密集型"类别。通过 $t$ 检验比较制造业 SI 与信息密集型候选产业在新设备采用率和设备支出上的差异：新设备采用率在 $5\%$ 水平上不显著（$t = -1.06$, $p = 0.28$），设备支出强度在 $1\%$ 水平上也不显著（$t = -2.44$, $p = 0.02$）。两者**无法统计区分**，支持将 ICT 密集型服务业归入 SII 而非单列一类（pp.167-170）。
 
 > [!line-a] 回归分析与跨国家稳健性
-> 以创新投入和创新产出为自变量，经济绩效为因变量，加入 Pavitt 类别虚拟变量及其交互项。结果确认不同类别在创新投入转化为经济绩效上存在显著且系统性的差异，证明了分类法既具有描述功能，也具有[[Causality|因果]]解释力。在七个国家和三轮社区创新调查（[[Community Innovation Survey]]，CIS）中分别运行相同模型，核心结构在所有国家和时间段上保持一致（pp.170-175）。
+> 以创新投入和创新产出为[[Independent Variable|自变量]]，经济绩效为[[Dependent Variable|因变量]]，加入 Pavitt 类别虚拟变量及其交互项。结果确认不同类别在创新投入转化为经济绩效上存在显著且系统性的差异，证明了分类法既具有描述功能，也具有[[Causality|因果]]解释力。在七个国家和三轮社区创新调查（[[Community Innovation Survey]]，CIS）中分别运行相同模型，核心结构在所有国家和时间段上保持一致（pp.170-175）。
 
 ---
 

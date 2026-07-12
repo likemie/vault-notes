@@ -7,10 +7,10 @@ aliases:
 summary: "Bandura (1977) 提出的统一理论框架，以认知、行为和环境因素之间的持续交互来解释人类行为，强调替代性学习、象征过程和自我调节在行为获得与改变中的作用"
 type: theory
 theory_field: "psychology"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/psychology
   - theory/learning
@@ -21,6 +21,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Locus of Control]]"
   - "[[Theoretical Perspective]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Self-control]]"
 related_theories: []
 related_methods: []
@@ -84,7 +86,7 @@ updated: 2026-06-02
 社会学习理论已被应用于广泛的社会行为研究，包括竞争性、攻击性、异常行为和病理行为（Bandura & Walters, 1963; Bandura, 1977; Mischel, 1968; Miller & Dollard, 1941; Rotter, 1954; Staats, 1975）。该理论也涉及人格评估技术（Mischel, 1968）以及临床和教育情境中的行为修正（Bandura, 1977; Bower & Hilgard, 1981; Rotter, 1954）([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.60–61]])。
 
 > [!example]
-> Crutchfield (1986) 在其博士论文中应用社会学习理论作为[[Theoretical Perspective|理论视角]]，研究护理教育者的学术生产力。她将 Rotter (1954) 的四类[[Variable|变量]]适应为：学术生产力 = 期望行为；[[Locus of Control|控制点]] = 广义期望；强化 = 学术工作的奖励及其价值；教育机构 = 提供学术生产力诸多奖励的心理情境。她使用**如果—那么**逻辑将自变量（控制点、人际信任、奖励价值、机构情境）与因变量（学术生产力水平）相关联([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.60–62]])。
+> Crutchfield (1986) 在其博士论文中应用社会学习理论作为[[Theoretical Perspective|理论视角]]，研究护理教育者的学术生产力。她将 Rotter (1954) 的四类[[Variable|变量]]适应为：学术生产力 = 期望行为；[[Locus of Control|控制点]] = 广义期望；强化 = 学术工作的奖励及其价值；教育机构 = 提供学术生产力诸多奖励的心理情境。她使用**如果—那么**逻辑将[[Independent Variable|自变量]]（控制点、人际信任、奖励价值、机构情境）与[[Dependent Variable|因变量]]（学术生产力水平）相关联([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.60–62]])。
 
 ## 相关概念
 

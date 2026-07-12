@@ -10,7 +10,7 @@ summary: "比较两组或多组均值差异的推断统计方法族，包括ANOV
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,9 +20,11 @@ tags:
   - group-comparison
 related_concepts:
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Independent Variable]]"
   - "[[Type I and Type II Errors]]"
 related_theories: []
 related_methods:
@@ -45,14 +47,14 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 方差分析（Analysis of Variance, ANOVA）是一族用于比较两组或多组均值差异的推断统计方法，使用 F 检验统计量。ANOVA 的核心思想是将总变异分解为组间变异和组内变异，通过比较两者的比值来判断各组均值是否存在显著差异。[[Analysis of Covariance|ANCOVA]]（协方差分析）是 ANOVA 的扩展，在比较组间差异时控制一个或多个协[[Variable|变量]]的影响；MANOVA（多元方差分析）则将 ANOVA 扩展到同时比较多个因变量（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 方差分析（Analysis of Variance, ANOVA）是一族用于比较两组或多组均值差异的推断统计方法，使用 F 检验统计量。ANOVA 的核心思想是将总变异分解为组间变异和组内变异，通过比较两者的比值来判断各组均值是否存在显著差异。[[Analysis of Covariance|ANCOVA]]（协方差分析）是 ANOVA 的扩展，在比较组间差异时控制一个或多个协[[Variable|变量]]的影响；MANOVA（多元方差分析）则将 ANOVA 扩展到同时比较多个[[Dependent Variable|因变量]]（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
 > [!example]
 > 方差分析的典型使用步骤（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）：
 
-1. 明确自[[Variable|变量]]（分组变量，通常为类别变量）和因变量（连续变量）。
+1. 明确自[[Variable|变量]]（分组变量，通常为类别变量）和[[Dependent Variable|因变量]]（连续变量）。
 2. 检查正态分布[[Hypothesis|假设]]和方差同质性假设。
 3. 计算 F 统计量 = 组间均方 / 组内均方。
 4. 比较 p 值与预设显著性水平（通常为 .05）。
@@ -62,10 +64,10 @@ updated: 2026-05-31
 ## 方法变体
 
 > [!tip]-
-> - **单因素 ANOVA（One-Way ANOVA）** 比较一个自[[Variable|变量]]（两个或多个水平）在一个因变量上的均值差异。使用 F 统计量。
+> - **单因素 ANOVA（One-Way ANOVA）** 比较一个自[[Variable|变量]]（两个或多个水平）在一个[[Dependent Variable|因变量]]上的均值差异。使用 F 统计量。
 > - **[[Analysis of Covariance|ANCOVA]]（Analysis of Covariance）** 在 ANOVA 基础上加入一个或多个协变量，控制其影响后比较调整后的组间均值。
 > - **MANOVA（Multivariate Analysis of Variance）** 同时比较两个或多个因变量在组间的差异。
-> - **因子 ANOVA** 在[[Factorial Design|因子设计]]中检验多个自变量的主效应和交互效应。
+> - **因子 ANOVA** 在[[Factorial Design|因子设计]]中检验多个[[Independent Variable|自变量]]的主效应和交互效应。
 > - vs [[t-test]] — ANOVA 可视为 t 检验在两组以上比较中的推广；两组比较时 ANOVA 的 F 值等于 t 值的平方。
 
 ## 适用场景
@@ -73,7 +75,7 @@ updated: 2026-05-31
 > [!success]
 > - [[Experimental Research|实验研究]]中比较不同处理条件组在连续结果[[Variable|变量]]上的均值差异。
 > - 需要有控制变量时使用 [[Analysis of Covariance|ANCOVA]]。
-> - 需要同时比较多个相关结果变量时使用 MANOVA（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - 需要同时比较多个相关[[Dependent Variable|结果变量]]时使用 MANOVA（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 局限性
 

@@ -7,10 +7,10 @@ summary: "美国社会学家和计量方法论学者，因果建模和社会科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - discipline/sociology
   - field/methodology
@@ -20,6 +20,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
@@ -49,7 +51,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]-
-> Blalock 在[[Quantitative Research|量化研究]]中的核心贡献是倡导[[Causal Modeling|因果建模]]（causal modeling）——将口头理论重构为[[Causality|因果]]模型，使读者能够可视化[[Variable|变量]]之间的相互联系。他提出了构建视觉因果图的符号规则：因变量置于右侧、自变量置于左侧；使用单向箭头表示因果方向；在路径上插入正负价符号表示关系方向；使用双向箭头连接模型中不受其他关系约束的变量之间的未分析关系([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.58]])。
+> Blalock 在[[Quantitative Research|量化研究]]中的核心贡献是倡导[[Causal Modeling|因果建模]]（causal modeling）——将口头理论重构为[[Causality|因果]]模型，使读者能够可视化[[Variable|变量]]之间的相互联系。他提出了构建视觉因果图的符号规则：[[Dependent Variable|因变量]]置于右侧、[[Independent Variable|自变量]]置于左侧；使用单向箭头表示因果方向；在路径上插入正负价符号表示关系方向；使用双向箭头连接模型中不受其他关系约束的变量之间的未分析关系([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.58]])。
 
 ## 思想发展
 

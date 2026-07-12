@@ -9,7 +9,7 @@ aliases:
 summary: "研究规划中的边界管理概念，指将研究课题收窄到可管理的比例以实现严谨性和可操作性，涉及范围限定、边界设定和窄聚焦策略"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - theme/research-planning
 related_concepts:
   - "[[Variable]]"
+  - "[[Independent Variable]]"
   - "[[Research Practicability]]"
   - "[[Fitness for Purpose]]"
   - "[[Reliability]]"
@@ -56,7 +57,7 @@ updated: 2026-06-20
 > - **设定清晰边界**
 >   没有边界的课题会在任何地方漫游，实际上哪里也去不了。如果边界不能清楚且毫不含糊地设定，研究者也许应重新考虑是否继续推进该计划。
 > - **限定[[Variable|变量]]与理论范围**
->   处理一到两种动机理论，限定明确的自变量范围，针对特定年龄段或特定经验类型的学生。试图覆盖所有动机理论和所有自变量只会导致研究失控。
+>   处理一到两种动机理论，限定明确的[[Independent Variable|自变量]]范围，针对特定年龄段或特定经验类型的学生。试图覆盖所有动机理论和所有自变量只会导致研究失控。
 > - **对可用时间保持现实**
 >   可用时间内能完成什么，以及范围限制是否可能损害研究的可行性或价值，必须纳入范围决策。
 

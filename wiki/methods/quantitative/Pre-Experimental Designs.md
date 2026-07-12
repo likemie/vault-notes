@@ -12,9 +12,9 @@ summary: "研究单一组并实施干预的实验设计类型，不设对照组�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -23,15 +23,18 @@ tags:
 related_concepts:
   - "[[Internal Validity]]"
   - "[[Causality]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Design-Based Research]]"
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -43,7 +46,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 前实验设计（Pre-Experimental Designs）是[[Experimental Research|实验研究]]中[[Internal Validity|内部效度]]最低的一类设计。这类设计研究单一组并实施干预，不设对照组与实验组进行比较，或使用的比较组不等价（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 前实验设计（Pre-Experimental Designs）是[[Experimental Research|实验研究]]中[[Internal Validity|内部效度]]最低的一类设计。这类[[Design-Based Research|设计研究]]单一组并实施干预，不设对照组与实验组进行比较，或使用的比较组不等价（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 方法变体
 
@@ -111,4 +114,9 @@ Group B  X2 ———————————————— O
 > [!tip]-
 > - [[Quasi-Experimental Designs]] — 准实验设计增加了对照组和时间序列观测，[[Internal Validity|内部效度]]高于前实验设计。
 > - [[Experimental Research]] — 真实验通过[[Random Assignment|随机分配]]获得最高的内部效度。
+
+## 使用此方法的研究
+
+> [!example]
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — Adeyemi (1992) 在博茨瓦纳使用单组前后测设计（O₁ X O₂），以 BSSPS 量表测量 48 名研究生文凭学生对社会科教学哲学取向的变化；Campbell & Stanley (1963) 将单组前后测设计描述为展示混淆[[Variable|变量]]危及[[Internal Validity|内部效度]]的"坏例子"。
 

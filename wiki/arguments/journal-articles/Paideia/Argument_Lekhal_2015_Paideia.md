@@ -12,7 +12,7 @@ title: "Argument_Lekhal_2015_Paideia"
 argument_key: "Argument_Lekhal_2015_Paideia"
 argument_display_title: "Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,7 +33,9 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Learning-Impeding Behavior]]"
   - "[[School Norm Adaptation]]"
+  - "[[Dependent Variable]]"
   - "[[Gender Differences in Academic Achievement]]"
+  - "[[Independent Variable]]"
   - "[[Motivation and Work Effort]]"
   - "[[Self-control]]"
   - "[[Assertiveness]]"
@@ -90,11 +92,11 @@ citation_aliases:
 >
 > | 变量（中文）    | 原文变量                                          | 信息源  | 变量组        | 题项数 / 量表范围 / Alpha | 关联条目                                             |
 > | --------- | --------------------------------------------- | ---- | ---------- | ------------------ | ------------------------------------------------ |
-> | 学业成绩（总分）  | School achievement (Norwegian, Math, English) | 教师评定 | 因变量        | 3 项 / 1-6 / .89    | [[Gender Differences in Academic Achievement]]   |
+> | 学业成绩（总分）  | School achievement (Norwegian, Math, English) | 教师评定 | [[Dependent Variable\|因变量]]        | 3 项 / 1-6 / .89    | [[Gender Differences in Academic Achievement]]   |
 > | 挪威语成绩     | Norwegian                                     | 教师评定 | 因变量子项      | 单项（总分子项）           | [[Gender Differences in Academic Achievement]]   |
 > | 数学成绩      | Mathematics                                   | 教师评定 | 因变量子项      | 单项（总分子项）           | [[Gender Differences in Academic Achievement]]   |
 > | 英语成绩      | English                                       | 教师评定 | 因变量子项      | 单项（总分子项）           | [[Gender Differences in Academic Achievement]]   |
-> | 学校规范适应    | Adaptation to school norms                    | 教师评定 | 自变量（行为/态度） | 9 项 / 1-4 / .95    | [[School Norm Adaptation]]                       |
+> | 学校规范适应    | Adaptation to school norms                    | 教师评定 | [[Independent Variable\|自变量]]（行为/态度） | 9 项 / 1-4 / .95    | [[School Norm Adaptation]]                       |
 > | 动机与努力投入   | [[Motivation and Work Effort]]                    | 教师评定 | 自变量（行为/态度） | 3 项 / 1-5 / .95    | [[Motivation and Work Effort]]                   |
 > | 自控        | [[Self-control]]                                  | 教师评定 | 自变量（行为）    | 9 项 / 1-4 / .95    | [[Self-control]]                                 |
 > | 自我主张      | [[Assertiveness]]                                 | 教师评定 | 自变量（行为）    | 8 项 / 1-4 / .91    | [[Assertiveness]]                                |

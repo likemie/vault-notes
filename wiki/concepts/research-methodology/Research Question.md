@@ -6,7 +6,7 @@ aliases:
 summary: "研究设计中将研究目的收窄为可回答的具体问题或预测的核心工具，涵盖量化研究问题与假设、质性研究问题、混合方法研究问题三种路径，以及30种问题类型谱系和无研究问题的边界情况"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Class Size]]"
   - "[[Research Utilization]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Descriptive Research Question]]"
   - "[[Alternative Hypothesis]]"
   - "[[Null Hypothesis]]"
@@ -136,7 +138,7 @@ updated: 2026-06-25
 
 五条核心指南（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
-1. **陈述变量** 量化[[Research Utilization|研究使用]]三类变量——比较组间自变量以观察其对因变量的影响（实验或组间比较）；将预测变量与结果变量相关联（[[Survey Research|调查研究]]）；描述变量的得分（报告均值、标准差和范围）。
+1. **陈述变量** 量化[[Research Utilization|研究使用]]三类变量——比较组间[[Independent Variable|自变量]]以观察其对[[Dependent Variable|因变量]]的影响（实验或组间比较）；将预测变量与结果变量相关联（[[Survey Research|调查研究]]）；描述变量的得分（报告均值、标准差和范围）。
 2. **包含理论** 最严格的量化研究以检验理论为起点，研究问题或假设应逻辑上跟随或挑战该理论。
 3. **区分描述性和关系型**[[Descriptive Research Question|描述性研究问题]]描述单一变量的频率和变异；关系型研究问题考察变量间的关系，使用推论性统计基于样本对总体做出推论。
 4. **创建[[Alternative Hypothesis|方向性备择假设]]** [[Null Hypothesis|零假设]]预测总体中无关系或无显著差异；备择假设预测存在显著关系，且最好写为方向性形式。

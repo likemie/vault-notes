@@ -5,7 +5,7 @@ aliases:
 summary: "研究者在样本选择、变量处理、模型设定和案例排除等分析决策上的自由度累积效应，用于解释结果偏差和可重复性问题。"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,8 @@ tags:
 related_concepts:
   - "[[Developer Effect]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
   - "[[Implementation Fidelity]]"
   - "[[Effect Size]]"
   - "[[Publication Bias]]"
@@ -50,7 +52,7 @@ updated: '2026-05-18'
 > [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 429)]] 总结了 Simmons et al. 的框架：
 >
 > 1. **样本选择** 包含或排除哪些参与者、学校、班级
-> 2. **[[Variable|变量]]选择** 选择哪些结果变量为主要结果、哪些为次要结果（因变量选择）；使用哪些协变量（自变量选择）
+> 2. **[[Variable|变量]]选择** 选择哪些[[Dependent Variable|结果变量]]为主要结果、哪些为次要结果（因变量选择）；使用哪些协变量（[[Independent Variable|自变量]]选择）
 > 3. **案例排除** 如何处理离群值（outliers）和缺失数据
 > 4. **分析选择** 选择何种统计模型、是否包含交互项、如何处理聚类
 >

@@ -6,7 +6,7 @@ aliases:
 summary: "研究因果性的质性路径，通过行动者自身对动机、理由和情境的叙事来揭示因果过程如何运作，与罗生门效应和多重因果路径密切相关"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Causal Processes]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Rashomon Effect]]"
 related_theories: []
 related_methods:
@@ -49,7 +50,7 @@ updated: 2026-06-18
 > [!feature] 行动叙事的方法论功能
 > - **揭示[[Causality|因果]]的"如何"** 统计能表明 X 与 Y 相关，但不能揭示 X 如何导致 Y。行动叙事通过获取情境中行动者对其动机、理由和行动的叙述来填补这个空隙。
 > - **展现多重因果路径** 同一情境中不同行动者可能有不同的动机和叙事，因此存在多重因果路径，而非简单的输入-输出模型。
-> - **支持微观-宏观连接** 聚合层面的自[[Variable|变量]]和因变量之间是一整套[[Causal Processes|因果过程]]——行动叙事有助于阐明宏观结构特征如何实际进入个体行动和互动，以及个体行动如何决定社会结构。
+> - **支持微观-宏观连接** 聚合层面的自[[Variable|变量]]和[[Dependent Variable|因变量]]之间是一整套[[Causal Processes|因果过程]]——行动叙事有助于阐明宏观结构特征如何实际进入个体行动和互动，以及个体行动如何决定社会结构。
 
 ## 围绕概念形成的命题
 

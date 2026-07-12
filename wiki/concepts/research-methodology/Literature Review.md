@@ -4,7 +4,7 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Postpositivism]]"
 related_theories: []
 related_methods:
@@ -187,8 +189,8 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 > [!proc] 量化文献综述的五部分结构
 > 1. **引言** 告知读者该章节包含哪些部分
-> 2. **主题一** 关于自变量（independent variable）的文献
-> 3. **主题二** 关于因变量（dependent variable）的文献
+> 2. **主题一** 关于[[Independent Variable|自变量]]（independent variable）的文献
+> 3. **主题二** 关于[[Dependent Variable|因变量]]（dependent variable）的文献
 > 4. **主题三** 将自变量与因变量联系起来的文献
 > 5. **总结** 突出最重要的研究，捕捉主要主题，说明为何需要更多研究
 

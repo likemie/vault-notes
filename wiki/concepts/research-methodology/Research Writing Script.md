@@ -8,7 +8,7 @@ aliases:
 summary: "研究写作中的填空式模板工具，包含陈述的主要词语和结构，研究者将自身项目信息填入预留空间以生成完整的目的陈述，Creswell & Creswell (2022) 为质性、量化和三种混合方法设计分别提供了对应的脚本"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,8 +16,10 @@ tags:
   - subject/research-methodology
 related_concepts:
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Purpose Statement]]"
   - "[[Central Phenomenon]]"
+  - "[[Independent Variable]]"
   - "[[Central Question]]"
   - "[[Mixed Methods Question]]"
 related_theories: []
@@ -69,7 +71,7 @@ updated: 2026-05-31
 2. **语法骨架** 提供完整的英语句子框架，包括主语、动词和连词。
 3. **填空空格** 以横线或括号标记研究者需要填入的具体内容，通常附带选项提示（如"understand? explore? discover?"）。
 4. **路径限位** 引导研究者选择与研究路径一致的术语（如质性脚本中的"探索""理解"对应量化脚本中的"检验""比较"）。
-5. **顺序约束** 按要素的逻辑顺序排列，如量化脚本中自[[Variable|变量]]在左、因变量在右。
+5. **顺序约束** 按要素的逻辑顺序排列，如量化脚本中自[[Variable|变量]]在左、[[Dependent Variable|因变量]]在右。
 
 ## 各项脚本
 
@@ -81,7 +83,7 @@ updated: 2026-05-31
 
 ### 量化目的陈述脚本
 
-> 本____（实验/调查____）研究的目的是检验____理论，该理论____（解释/预测____）____（自[[Variable|变量]]____与____（因变量____）____（比较/相关____）。本研究计划在____（研究场所____招募____（参与者____）。自变量____定义为____。因变量定义为____。
+> 本____（实验/调查____）研究的目的是检验____理论，该理论____（解释/预测____）____（自[[Variable|变量]]____与____（[[Dependent Variable|因变量]]____）____（比较/相关____）。本研究计划在____（研究场所____招募____（参与者____）。[[Independent Variable|自变量]]____定义为____。因变量定义为____。
 
 ### 聚敛式混合方法设计脚本
 

@@ -7,7 +7,7 @@ summary: "通过操纵教育处理、项目或实践条件来检验效果及因�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -18,6 +18,7 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Variable]]"
+  - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 干预研究（Intervention Research）是在研究中操纵自[[Variable|变量]]、检验某种教育处理或实践是否影响结果的研究设计。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 在[[Coding in Qualitative Research|编码]]教育心理学期刊文章时，将"干预研究"和"[[Experimental Research|实验研究]]"都定义为包含自变量操纵；二者区别在于实验研究进一步包含[[Random Assignment|随机分配]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> 干预研究（Intervention Research）是在研究中操纵自[[Variable|变量]]、检验某种教育处理或实践是否影响结果的研究设计。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 在[[Coding in Qualitative Research|编码]]教育心理学期刊文章时，将"干预研究"和"[[Experimental Research|实验研究]]"都定义为包含[[Independent Variable|自变量]]操纵；二者区别在于实验研究进一步包含[[Random Assignment|随机分配]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 
 ---
 
@@ -109,7 +110,7 @@ updated: '2026-05-18'
 ## 与相关方法的区别
 
 
-- vs [[Non-intervention Research]] — 干预研究操纵自[[Variable|变量]]，非干预研究不操纵自变量；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的核心批评正是教育心理学常把本应由干预研究检验的[[Causality|因果关系]]，提前写成非干预研究中的[[Recommendations for Practice|实践建议]]([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-4]])。
+- vs [[Non-intervention Research]] — 干预研究操纵自[[Variable|变量]]，非干预研究不操纵[[Independent Variable|自变量]]；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的核心批评正是教育心理学常把本应由干预研究检验的[[Causality|因果关系]]，提前写成非干预研究中的[[Recommendations for Practice|实践建议]]([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-4]])。
 - vs [[Randomised Controlled Trials]] — RCT 是干预研究的更强版本：二者都操纵自变量，但 RCT 还要求[[Random Assignment|随机分配]]；因此 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 同时报告"干预研究"比例和"随机实验"比例([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.4, 6-7]])。
 - vs [[Observational and Correlational Research]] — 观察/相关研究可以识别可能的因果线索，但不操纵变量；干预研究则把这些线索转化为可检验的处理[[Hypothesis|假设]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 

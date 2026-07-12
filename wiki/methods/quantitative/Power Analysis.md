@@ -10,7 +10,7 @@ summary: "一种在研究规划阶段用于估计检测特定效应量所需最�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
+  - "[[Independent Variable]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
@@ -60,7 +61,7 @@ updated: 2026-05-31
    - 预期[[Effect Size|效应量]]（effect size）——基于先前研究或理论预期估计[[Variable|变量]]间关系或组间差异的大小。
    - 显著性水平（α）——通常设定为 .05。
    - 期望功效（power）——通常设定为 .80，表示有 80% 的概率在效应真实存在时检测到该效应。
-   - 组数或预测变量数量——取决于研究设计。
+   - 组数或[[Independent Variable|预测变量]]数量——取决于研究设计。
 3. 使用功效分析软件计算所需的[[Sample Size Determination|样本量]]。
 
 常用的功效分析工具包括 G*Power（Faul et al., 2007; Faul et al., 2009）等免费在线或商业软件。

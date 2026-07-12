@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Fieldwork]]"
   - "[[Participatory Research]]"
+  - "[[Design-Based Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -656,7 +657,7 @@ Hart (1992) 的"[[Hart's Ladder of Participation|参与阶梯]]"（Ladder of Par
 
 Sudman & Bradburn (1982, pp. 50–51) 提供了问题设计的实证基础（pp.226–227）：
 
-> [!finding-cards] Sudman & Bradburn (1982) 的问题设计研究发现
+> [!finding-cards] Sudman & Bradburn (1982) 的问题[[Design-Based Research|设计研究]]发现
 > 1. **开放问题优于封闭问题** 开放问题让受访者用自己的语言回答——这对敏感话题更合适，因为受访者可以选择自己感到安全的表达方式和透露程度。
 > 2. **长问题优于短问题** 长问题更适合询问**行为（behavior）**，可以包含例子供受访者回应；短问题更适合收集**态度（attitudes）**。长问题可以减少敏感话题行为频率的**低报**——例如教师使用酒精或药物的情况。
 > 3. **使用熟悉的词汇** Lee (1993, p. 78) 倡导使用受访者熟悉的日常语言——降低处理敏感话题时的威胁感，帮助受访者更放松。

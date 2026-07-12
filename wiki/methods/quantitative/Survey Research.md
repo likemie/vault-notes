@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 47
+method_related_count: 49
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -34,6 +34,8 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Definition of Terms]]"
   - "[[Document]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Response Bias]]"
   - "[[Descriptive Analysis]]"
   - "[[Preregistration]]"
@@ -138,8 +140,8 @@ updated: 2026-07-11
 > >
 > > | 变量名（Variable Name） | 变量定义（Variable Definition） | 测量题项（Instrument Items） |
 > > |---|---|---|
-> > | **先前发表（Prior publications）**——预测变量 | 教师获得博士学位之前发表的出版物总数 | 对问题 11、12、13、14、15 求和：获得博士学位前发表的期刊论文、专著、会议论文、专著章节的数量 |
-> > | **获得资助（Grants funded）**——结果变量 | 教师在首个 7 年聘期内获得的研究资助总数 | 对问题 16、17、18 求和：7 年内来自基金会、联邦资助、州资助的资助总数 |
+> > | **先前发表（Prior publications）**——[[Independent Variable\|预测变量]] | 教师获得博士学位之前发表的出版物总数 | 对问题 11、12、13、14、15 求和：获得博士学位前发表的期刊论文、专著、会议论文、专著章节的数量 |
+> > | **获得资助（Grants funded）**——[[Dependent Variable\|结果变量]] | 教师在首个 7 年聘期内获得的研究资助总数 | 对问题 16、17、18 求和：7 年内来自基金会、联邦资助、州资助的资助总数 |
 > > | **生活事件压力（Life event stress）**——控制变量 | 使用 43 项 Social Readjustment Scale（Holmes & Rahe, 1967）改编为聚焦 7 年时间窗口的测量 | 对 43 个量表条目计算总影响得分 |
 > >
 > > 模板逻辑：预测变量置于最前（因）、结果变量随后（果）、控制变量最后。每个变量必须同时包含概念层面的定义和操作层面的测量题项，使读者可以完全复现测量过程。

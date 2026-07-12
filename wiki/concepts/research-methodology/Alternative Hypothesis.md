@@ -11,7 +11,7 @@ aliases:
 summary: "正式假设检验中预测变量间存在显著关系的假设形式，最好写为方向性形式以明确预期关系的方向，与零假设成对构成统计检验的完整框架，通常以H₁表示。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,8 +22,10 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
+  - "[[Independent Variable]]"
   - "[[Causality]]"
   - "[[Directional and Non-directional Hypotheses]]"
+  - "[[Dependent Variable]]"
   - "[[Research Writing Script]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -48,7 +50,7 @@ updated: 2026-06-21
 > 备择假设是正式假设检验中预测[[Variable|变量]]间存在显著关系的假设形式，通常写作 H₁。备择假设通常在[[Null Hypothesis|零假设]]被拒绝时得到支持——即如果[[Null Hypothesis|零假设]]不被支持，则备择假设被支持（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.140]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 备择假设是研究者真正想要支持的主张——它预测变量之间存在某种关系或差异，是研究假设的实质内容。
+> - **含义** 备择假设是研究者真正想要支持的主张——它[[Independent Variable|预测变量]]之间存在某种关系或差异，是研究假设的实质内容。
 > - **用途** 为研究提供可检验的方向性预测，决定研究设计和统计检验的类型（单尾或双尾）。
 > - **边界** 备择假设不能代替完整的理论说明，也没有预设[[Causality|因果]]方向。它在统计上只能被"支持"而非"证实"。
 
@@ -89,7 +91,7 @@ updated: 2026-06-21
 
 > [!feature] 写好备择假设的关键规则
 > （[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）
-> - **指明[[Variable|变量]]** 明确自变量、因变量、中介变量或调节变量
+> - **指明[[Variable|变量]]** 明确[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]、中介变量或调节变量
 > - **包含理论** 假设应逻辑上跟随或挑战已有理论
 > - **方向性** 不仅预测存在关系，还预测关系的方向
 > - **使用方向性量化词汇** affect, influence, predict, impact, determine, cause, relate
@@ -112,7 +114,7 @@ updated: 2026-06-21
 > [!tip]- [[Research Writing Script|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的关系型[[Quantitative Research|量化研究]]问题与方向性假设的写作脚本：
 >
-> 理论名称认为解释了[[Variable|变量]]间的关系。因此预测，预测变量与结果变量之间存在关系，且其方向为解释预测变量与结果变量之间效应的方向。
+> 理论名称认为解释了[[Variable|变量]]间的关系。因此预测，[[Independent Variable|预测变量]]与[[Dependent Variable|结果变量]]之间存在关系，且其方向为解释预测变量与结果变量之间效应的方向。
 >
 > *____ (theory name) posits that ____ (explain the relationship between variables). It is thus predicted that there will be a relationship between ____ (predictor variable) and ____ (outcome variable), such that ____ (explain the direction of the effect between predictor and outcome variables).*
 

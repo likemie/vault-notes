@@ -5,7 +5,7 @@ aliases:
 summary: "学生向人际互动、课外活动、组织参与和职业探索投入时间精力的社会性投入维度。"
 type: concept
 domain: "higher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
@@ -105,7 +106,7 @@ updated: '2026-05-18'
 > - **[[Goal-Controlled Mode|目标掌控模式]]** 社会性投入被视为**自我探寻和职业锚定的核心机制**——学生通过实习、人际网络、课外活动探索职业方向、积累雇主看重的软技能（如钦凯的"演绎"能力），并发展出顺藤摸瓜型或试错型的职业探索路径
 > - **[[Intuition-Dependent Mode|直觉依赖模式]]** 社会性投入**被习惯性忽略**——弱势学生在名校中面临"语言包"不适配（文化语码差距）、屡次社团面试失败后的"弃疗"、对社交的根本性疏离，导致出路决策高度被动
 >
-> **关键发现** 社会性投入不仅是结果[[Variable|变量]]（受阶层[[Habitus|习性]]影响），更可能是触发整个模式转换的**初始杠杆**——梓桐、高程等转变者均以社会性投入为转折引擎。这意味着投入不仅是**结果变量**，也可能成为**转化机制**。
+> **关键发现** 社会性投入不仅是结果[[Variable|变量]]（受阶层[[Habitus|习性]]影响），更可能是触发整个模式转换的**初始杠杆**——梓桐、高程等转变者均以社会性投入为转折引擎。这意味着投入不仅是**[[Dependent Variable|结果变量]]**，也可能成为**转化机制**。
 
 > [!info]- [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的[[Operationalization|操作化]]
 > 社会性投入的操作化通过量化与质性指标[[Triangulation|三角互证]]：量化方面以交友数量、师生交流频率、学生组织领导职务级别为指标，质性方面通过 P2-Q4（课外活动参与情况）和 P2-Q6（对师生的情感评价）判断投入的方向性和质量。完整操作化设计见 [[Student Engagement]]。

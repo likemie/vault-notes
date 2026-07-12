@@ -5,7 +5,7 @@ aliases:
 summary: "围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Threats to Internal Validity]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 > [!abstract] [[Internal Validity|内部效度]]（Internal Validity）
 > **定义**[[Internal Validity|内部效度]]指干预与结果[[Variable|变量]]之间[[Causality|因果关系]]的成立程度——即我们能否确信观察到的变化确实是由干预引起的(Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。
 >
-> > "Internal validity, or the degree to which a causal relationship exists between a treatment and outcome variable is valid, is the sin qua non of [[Experimental Research|experimental design]]." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461, citing Shadish et al., 2002]])
+> > "Internal validity, or the degree to which a causal relationship exists between a treatment and [[Dependent Variable|outcome variable]] is valid, is the sin qua non of [[Experimental Research|experimental design]]." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461, citing Shadish et al., 2002]])
 >
 > **判断程序** 首先明确手中的因果问题，然后选择能够控制常见[[Threats to Internal Validity|内部效度威胁]]的设计。这些威胁本质上是干预后因变量变化的各种替代解释([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 >

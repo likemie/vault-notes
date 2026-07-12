@@ -9,7 +9,7 @@ aliases:
 summary: "研究设计中确定样本大小的决策过程，涉及研究目的、总体规模、置信水平与置信区间、变量类型、统计方法要求、子组数量和预期无回应率等多重因素，是抽样规划的核心环节"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Confidence Interval]]"
+  - "[[Independent Variable]]"
 related_theories: []
 related_methods:
   - "[[Power Analysis]]"
@@ -69,7 +70,7 @@ updated: 2026-06-21
 > - **总体规模与[[Heterogeneity|异质性]]** 总体越大，所需样本越大；总体异质性越强，所需样本越大。但 Krejcie & Morgan（1970）发现，当总体增至一定程度后，所需样本量趋于恒定（约 384 例）。
 > - **[[Confidence Interval|置信水平]]与[[Confidence Interval|置信区间]]** 置信水平越高（如 99% vs 95%），样本量越大；置信区间越小（如 ± 3% vs ± 5%），样本量越大。常规策略：95% 置信水平 + 3% 置信区间。
 > - **[[Variable|变量]]类型** 类别数据（categorical data）通常比连续数据（continuous data）需要更大的样本。类别数据边际误差通常取 5%，连续数据取 3%（Bartlett et al., 2001: 45）。
-> - **统计方法要求**[[Chi-Squared Test|卡方检验]]要求 80% 单元格 ≥ 5 例；[[Multiple Regression|多元回归]]要求观察值与自变量比率 ≥ 5:1（连续数据建议 10:1）；因子分析要求 ≥ 100 例（Bartlett et al., 2001: 48–9）。
+> - **统计方法要求**[[Chi-Squared Test|卡方检验]]要求 80% 单元格 ≥ 5 例；[[Multiple Regression|多元回归]]要求观察值与[[Independent Variable|自变量]]比率 ≥ 5:1（连续数据建议 10:1）；因子分析要求 ≥ 100 例（Bartlett et al., 2001: 48–9）。
 > - **子组数量** 子组（strata）越多，样本量越大——通常呈几何级增长而非算术级。Borg & Gall（1979: 186）建议从最小子组"向上"计算总样本量。
 > - **预期无回应与流失** 需考虑无回应、不完整或无效回应、参与者流失和样本死亡。若无准入和回应保障，可能需要将所需样本量翻倍以建立冗余（Gorard, 2003: 60）。
 
@@ -100,7 +101,7 @@ updated: 2026-06-21
 > | 常用边际误差 | 5% | 3% |
 > | 样本量趋势 | 更大 | 相对较小 |
 > | 总体 2,000+ 时样本量 | 仍随总体增加 | 不再变化 |
-> | [[Multiple Regression\|多元回归]] 5:1 比率 | ≥ 313 例，自[[Variable\|变量]] ≤ 62 | ≥ 111 例，自变量 ≤ 22 |
+> | [[Multiple Regression\|多元回归]] 5:1 比率 | ≥ 313 例，自[[Variable\|变量]] ≤ 62 | ≥ 111 例，[[Independent Variable\|自变量]] ≤ 22 |
 > | 多元回归 10:1 比率 | ≥ 313 例，自变量 ≤ 31 | ≥ 111 例，自变量 ≤ 11 |
 
 ---

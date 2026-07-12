@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 56
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -56,6 +56,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -76,6 +78,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Ideology Critique]]"
   - "[[Quantitative Research]]"
+  - "[[Design-Based Research]]"
   - "[[Triangulation]]"
   - "[[Fieldwork]]"
   - "[[Participant Observation]]"
@@ -201,7 +204,7 @@ updated: 2026-07-10
 
 > [!proc] 质性或民族志研究
 > 1. **准备** 确定感兴趣的主题/群体/现象 → 文献综述
-> 2. **设计** 设计研究问题和研究及数据收集 → 定位研究[[Champ|场域]]和研究者的角色
+> 2. **设计** [[Design-Based Research|设计研究]]问题和研究及数据收集 → 定位研究[[Champ|场域]]和研究者的角色
 > 3. **进入田野** 定位信息提供者、[[Gatekeepers|守门人]]、信息来源 → 与参与者建立工作关系
 > 4. **执行** 同时实施研究和数据收集 → 数据分析（与研究同时，或在研究结束后进行）
 > 5. **收束** 报告结果和[[Emergence|涌现]]的扎根理论或对研究问题的回答 → 生成供进一步研究或检验的假设
@@ -534,7 +537,7 @@ updated: 2026-07-10
 > 完全操作化的假设：**人们在静音条件下测试时比在有音乐播放时测试时在数学测试中获得更高分数（p.139）**。
 
 > [!warning] 多重假设与中介[[Variable|变量]]
-> 需要准备使用**多个假设**以抓住复杂性（Muijs, 2004: 16），尤其因为必须纳入中介变量。例如，员工"自愿合作程度"（因变量）受"专业领导力"（自变量）和"领导者个人领导品质"（中介变量）的影响（p.140）。
+> 需要准备使用**多个假设**以抓住复杂性（Muijs, 2004: 16），尤其因为必须纳入中介变量。例如，员工"自愿合作程度"（[[Dependent Variable|因变量]]）受"专业领导力"（[[Independent Variable|自变量]]）和"领导者个人领导品质"（中介变量）的影响（p.140）。
 
 ##### H₀ 与 H₁ 的正式陈述
 

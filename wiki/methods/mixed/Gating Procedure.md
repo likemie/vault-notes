@@ -6,7 +6,7 @@ summary: "系统综述中的筛选程序，指只有内部效度达到门槛的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 12
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -19,6 +19,8 @@ tags:
 related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Definition of Terms]]"
   - "[[5-3-20 Rule]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -28,6 +30,7 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
   - "[[Single-Case Design]]"
+  - "[[Design-Based Research]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
@@ -47,7 +50,7 @@ updated: '2026-05-18'
 >
 > > "The first step of a gating procedure consists of identifying studies on a specific topic that will be included in the review. From there, only studies with strong internal validity are considered (i.e., studies must pass an internal validity gate before they are considered further)." ([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 >
-> [[What Works Clearinghouse]] 对 [[Single-Case Design|SCD]] 研究和组间设计研究（[[Randomised Controlled Trials|RCT]] 和准实验）均采用门控程序(WWC, 2013;)。
+> [[What Works Clearinghouse]] 对 [[Single-Case Design|SCD]] 研究和组间[[Design-Based Research|设计研究]]（[[Randomised Controlled Trials|RCT]] 和准实验）均采用门控程序(WWC, 2013;)。
 >
 > > 例：在 WWC 审查中，一项 [[Single-Case Design|SCD]] 研究首先被检查是否满足设计标准（足够的阶段对比、每阶段足够的数据点、可靠的结果测量、研究者主动操纵自[[Variable|变量]]）。只有通过此门槛的研究，其推广性信息才被进一步记录和描述。
 
@@ -67,8 +70,8 @@ updated: '2026-05-18'
 > 在 WWC 的 [[Single-Case Design|SCD]] 审查流程中，门控程序按以下顺序运作([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.464–465]])：
 >
 > 1. **初步筛选** 对照审查协议，判断研究的干预、因[[Variable|变量]]、场所和参与者特征是否符合协议参数
-> 2. **[[Internal Validity|内部效度]]评估（门控）** 评估阶段对比数量、每阶段数据点数量、结果是否被可靠测量、研究者是否主动操纵自变量；通过视觉分析进一步理解实验控制
-> 3. **研究细节描述（通过门控后）** 仅对通过设计标准的研究，系统记录场所、设计、参与者特征、因变量[[Definition of Terms|操作性定义]]、基线和干预条件、实施者和培训、干预忠实度等信息
+> 2. **[[Internal Validity|内部效度]]评估（门控）** 评估阶段对比数量、每阶段数据点数量、结果是否被可靠测量、研究者是否主动操纵[[Independent Variable|自变量]]；通过视觉分析进一步理解实验控制
+> 3. **研究细节描述（通过门控后）** 仅对通过设计标准的研究，系统记录场所、设计、参与者特征、[[Dependent Variable|因变量]][[Definition of Terms|操作性定义]]、基线和干预条件、实施者和培训、干预忠实度等信息
 > 4. **证据综合** 应用 [[5-3-20 Rule]] 判断 SCD 证据是否充分以生成干预报告
 
 ## 门控程序的合理性

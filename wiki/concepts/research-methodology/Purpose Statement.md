@@ -7,7 +7,7 @@ aliases:
 summary: "研究计划中传达研究总体意图和目标的陈述，是连接研究问题与研究问题的核心环节，量化、质性和混合方法三种路径各有不同的写作模板和要素要求"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,8 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Research Writing Script]]"
   - "[[Document]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Competitiveness]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -134,8 +136,8 @@ updated: 2026-05-31
 > [!abstract] 量化目的陈述要素
 > 1. 使用"目的""意图""目标"等信号词引入。
 > 2. 标明所使用的量化路径类型（如调查或实验）。
-> 3. 指出理论、模型或概念框架，以及它如何被用来解释或预测变量之间的关系。
-> 4. 明确自变量（独立、中介、调节）和因变量。
+> 3. 指出理论、模型或概念框架，以及它如何被用来解释或[[Independent Variable|预测变量]]之间的关系。
+> 4. 明确自变量（独立、中介、调节）和[[Dependent Variable|因变量]]。
 > 5. 使用连接变量的词语，如"关系"（relationship）、"比较"（comparison）、"决定因素"（determinants）、"相关性"（correlation）、"预测"（prediction）或"描述"（describe）。
 > 6. 按从左到右的顺序排列变量——自变量在前，因变量在后。中介变量置于两者之间，调节变量与自变量相关。
 > 7. 提及研究参与者（或分析单元）和研究场所。

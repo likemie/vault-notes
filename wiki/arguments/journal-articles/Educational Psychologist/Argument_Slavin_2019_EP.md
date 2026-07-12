@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
+  - "[[Independent Variable]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -202,7 +203,7 @@ citation_aliases:
 >
 > **具体问题**
 > - **政府拨款的不持续性**Slavin 自己记录了英国 Strategic School Improvement Fund(2018)在最后一刻被取消——这恰恰证明了良性循环被政治周期打断的脆弱性
-> - **项目实施的衰退** 项目从研究条件扩展到全国实施时，实施质量和效应量通常显著下降——这是医学（从 III 期到 IV 期）和教育共有的问题
+> - **项目实施的衰退** 项目从研究条件扩展到全国实施时，实施质量和效应量通常显著下降——这是医学（从 III 期到 [[Independent Variable|IV]] 期）和教育共有的问题
 > - **证据标准的政治可操纵性** ESSA 的三级标准是政治妥协的产物——当政府变迁时，证据定义可能被重新协商
 >
 > **目前状态** Slavin 的良性循环愿景提供了方向性激励，但 Cowen 从制度逻辑角度指出 EBE 的韧性可能恰恰来自其服务于官僚需求（而非教育改进）——这一诊断暗示良性循环在制度层面面临的结构性障碍比 Slavin 承认的更为根本。

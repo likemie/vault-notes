@@ -7,10 +7,10 @@ aliases:
 summary: "在量化研究中限制研究发现从样本推广到更广泛总体、情境和时间的系统性偏差来源，Campbell 和 Stanley 经典框架列出九种量化威胁，Lincoln 和 Guba 将其扩展至自然主义研究中的四种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - method/research-methods
   - theme/validity
@@ -23,7 +23,9 @@ related_concepts:
   - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
+  - "[[Independent Variable]]"
   - "[[Hawthorne Effect]]"
+  - "[[Dependent Variable]]"
   - "[[Operationalization]]"
   - "[[Ecological Validity]]"
   - "[[Class Size]]"
@@ -76,10 +78,10 @@ updated: 2026-06-23
 基于 Campbell & Stanley (1963)、Bracht & Glass (1968)、Hammersley & Atkinson (1983)、Vulliamy (1990) 和 Lewis-Beck (1993) 的工作，量化[[External Validity|外部效度]]面临九种主要威胁（pp.168–171）：
 
 > [!challenges] 九种量化外部效度威胁
-> - **未能明确描述自[[Variable|变量]]** 除非自变量得到充分描述，未来复制研究条件几乎不可能——这是科学可重复性危机的一个重要来源
+> - **未能明确描述自[[Variable|变量]]** 除非[[Independent Variable|自变量]]得到充分描述，未来复制研究条件几乎不可能——这是科学可重复性危机的一个重要来源
 > - **可用总体与[[Study Population and Sample|目标总体]]缺乏代表性** 参与研究者可能对可用总体有代表性，但对目标总体没有——抽样或[[Random Assignment|随机化]]不足
 > - **[[Hawthorne Effect|霍桑效应]]** 受试者因意识到被研究而改变行为——他们的行为不再是自然行为。医学研究长期用安慰剂和双盲设计应对，在教育研究中同样威胁着处理效度的可推广性
-> - **因变量[[Operationalization|操作化]]不充分** 操作化必须在非研究情境中也具有效度。例如职业选择的纸笔问卷在大学生实际就业决策方面可能几乎没有效度——操作化和真实世界之间存在鸿沟
+> - **[[Dependent Variable|因变量]][[Operationalization|操作化]]不充分** 操作化必须在非研究情境中也具有效度。例如职业选择的纸笔问卷在大学生实际就业决策方面可能几乎没有效度——操作化和真实世界之间存在鸿沟
 > - **对实验条件的敏感化/反应性** 前测可能改变受试者对干预变量的敏感性——后测表现反映的可能是对前测的记忆，而非干预的真实效果
 > - **外来因素与实验处理的交互效应** 多种混淆因素与处理之间的交互作用
 > - **工具的无效或不可靠** 使用产生不可信数据的工具

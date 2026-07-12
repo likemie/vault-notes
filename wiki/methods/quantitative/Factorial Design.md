@@ -9,7 +9,7 @@ summary: "同时操纵两个或多个独立变量以检验每个变量的主效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -19,6 +19,7 @@ tags:
   - design-type
 related_concepts:
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Hypothesis]]"
@@ -34,6 +35,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -55,7 +57,7 @@ updated: 2026-05-31
 1. 确定至少两个独立[[Variable|变量]]，每个变量至少有两个水平。
 2. 明确变量是受试者间还是受试者内类型。
 3. 使用[[Random Assignment|随机分配]]将受试者分配到各条件组合中（受试者间变量）。
-4. 收集因变量数据。
+4. 收集[[Dependent Variable|因变量]]数据。
 5. 使用[[Analysis of Variance|方差分析]]（ANOVA）检验：
    - 每个独立变量的主效应
    - 独立变量之间的交互效应
@@ -82,4 +84,5 @@ updated: 2026-05-31
 
 > [!example]
 > - [[Argument_Creswell_2022_SAGE]] — 以 2 × 4 混合因子设计为例，价值肯定条件（受试者间：肯定 vs 控制）和时间（受试者内：基线、20、30、45 分钟后测）各为因子，检验两者对压力荷尔蒙皮质醇响应的影响。（Ch8, Example 8.5）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以资源可用性（3 水平）× 学习动机（3 水平）的 3×3 设计为例说明因子设计的组合逻辑，并通过性别 × 年龄交互效应图（Figure 16.3）展示因子设计如何检验自[[Variable|变量]]间是否存在交互效应
 

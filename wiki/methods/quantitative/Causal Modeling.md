@@ -8,7 +8,7 @@ summary: "通过结构方程等统计模型表示变量之间因果路径并同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Statistical Significance]]"
   - "[[Exogenous and Endogenous Variables]]"
+  - "[[Dependent Variable]]"
+  - "[[Independent Variable]]"
   - "[[Recommendations for Practice]]"
   - "[[Research Question]]"
   - "[[Screening Off]]"
@@ -115,7 +117,7 @@ updated: 2026-06-18
 
 > [!dev-timeline]+ 发展脉络
 > 1. **奠基与推广（1969–1975）**
->    - 1969, 1985, 1991 — [[Herbert Blalock]] 倡导[[Causality|因果]]建模，将口头理论重构为因果模型以可视化[[Variable|变量]]之间的相互联系。他提出了构建视觉因果图的基本符号规则：因变量置于右侧、自变量置于左侧；单向箭头表示因果方向；正负价符号表示关系方向；双向箭头连接未分析关系（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.58]]）
+>    - 1969, 1985, 1991 — [[Herbert Blalock]] 倡导[[Causality|因果]]建模，将口头理论重构为因果模型以可视化[[Variable|变量]]之间的相互联系。他提出了构建视觉因果图的基本符号规则：[[Dependent Variable|因变量]]置于右侧、[[Independent Variable|自变量]]置于左侧；单向箭头表示因果方向；正负价符号表示关系方向；双向箭头连接未分析关系（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.58]]）
 >    - 1970s — 因果建模在计量经济学推动下进入社会科学，承诺将理论整合与统计建模正式结合
 >    - 1973 — Goldberger 发表 "Structural Equation Models: An Overview"
 >    - 1975 — Duncan 出版 *Introduction to Structural Equation Models*
@@ -194,7 +196,7 @@ updated: 2026-06-18
 > |------|------|------|
 > | [[Causality]] | 核心对象 | 因果性是因果建模所[[Operationalization\|操作化]]的核心概念，时间顺序是构建因果模型的基本前提 |
 > | [[Exogenous and Endogenous Variables]] | 结构基础 | 外生和内生[[Variable\|变量]]的区分是因果模型结构的基础，递归与非递归模型的选择决定了因果方向的设定 |
-> | [[Variable]] | 分析单位 | 因果模型中的基本分析单位，包括自变量、因变量、中介变量和调节变量 |
+> | [[Variable]] | 分析单位 | 因果模型中的基本分析单位，包括[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]、中介变量和调节变量 |
 > | [[Screening Off]] | 辅助工具 | Pearl 的图形方法可用于识别因果模型中应被筛选掉的因素（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]） |
 
 > [!ref-table] 相关方法

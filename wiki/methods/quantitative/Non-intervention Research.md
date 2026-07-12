@@ -6,7 +6,7 @@ summary: "不直接操纵处理条件而观察现象、关系或过程的研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Multimethod Research]]"
+  - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 非[[Intervention Research|干预研究]]（Non-intervention Research）是不操纵自[[Variable|变量]]的研究集合。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的分类中，观察/相关研究、[[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]都属于非干预研究；它们共同区别于操纵自变量的干预研究和[[Experimental Research|实验研究]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> 非[[Intervention Research|干预研究]]（Non-intervention Research）是不操纵自[[Variable|变量]]的研究集合。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的分类中，观察/相关研究、[[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]都属于非干预研究；它们共同区别于操纵[[Independent Variable|自变量]]的干预研究和[[Experimental Research|实验研究]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 
 ## 认识论立场
 
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 ## 与相关方法的区别
 
 
-- vs [[Intervention Research]] — 非干预研究不操纵自[[Variable|变量]]，适合生成干预[[Hypothesis|假设]]；干预研究操纵自变量，适合检验干预是否改善结果([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2, 4]])。
+- vs [[Intervention Research]] — 非干预研究不操纵自[[Variable|变量]]，适合生成干预[[Hypothesis|假设]]；干预研究操纵[[Independent Variable|自变量]]，适合检验干预是否改善结果([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2, 4]])。
 - vs [[Observational and Correlational Research]] — 观察/相关研究是非干预研究的量化子类，标准是"不操纵自变量 + 包含量化数据"([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 - vs [[Qualitative Research]] — 质性研究同样不操纵自变量，但数据形态是访谈、观察等文本资料，而非量化变量关系([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 - vs Mixed Method and [[Multimethod Research|multi-method research]] — [[Mixed Methods Research|混合方法]]/多方法研究也是非干预研究，但同时包含量化和质性数据；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将其从旧研究的观察/相关类别中单独拆出([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。

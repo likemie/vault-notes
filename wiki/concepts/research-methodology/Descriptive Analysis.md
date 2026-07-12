@@ -8,7 +8,7 @@ aliases:
 summary: "量化研究数据分析的第一步，报告所有变量的均值、标准差和得分范围，并识别和报告缺失数据的程度与处理策略"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - data-analysis
 related_concepts:
   - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
@@ -41,7 +42,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 描述性分析（Descriptive Analysis）是[[Quantitative Research|量化研究]]数据分析的基础步骤，报告所有预测[[Variable|变量]]和结果变量的均值（means）、标准差（standard deviations）和得分范围（range of scores）。它提供数据的整体图景，为后续的推断统计检验奠定基础（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 描述性分析（Descriptive Analysis）是[[Quantitative Research|量化研究]]数据分析的基础步骤，报告所有预测[[Variable|变量]]和[[Dependent Variable|结果变量]]的均值（means）、标准差（standard deviations）和得分范围（range of scores）。它提供数据的整体图景，为后续的推断统计检验奠定基础（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 核心要素
 
@@ -51,7 +52,7 @@ updated: 2026-06-01
 ### 调查数据分析中的描述性分析（步骤 3）
 
 > [!example]
-> - 对所有预测[[Variable|变量]]和结果变量计算均值、标准差和得分范围。
+> - 对所有预测[[Variable|变量]]和[[Dependent Variable|结果变量]]计算均值、标准差和得分范围。
 > - 识别数据中是否存在缺失数据——某些受试者可能未对某些题项或整个量表提供回应。
 > - 制定计划报告缺失数据的程度（如缺失百分比、缺失模式）。
 > - 制定缺失数据填补策略（如多重填补、全信息最大似然估计；Schafer & Graham, 2002; 引自 Creswell & Creswell, 2022, Ch8）。
