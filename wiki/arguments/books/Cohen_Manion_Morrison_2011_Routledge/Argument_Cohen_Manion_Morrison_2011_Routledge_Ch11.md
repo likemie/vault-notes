@@ -71,7 +71,6 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Reflexivity]]"
   - "[[Hawthorne Effect]]"
-  - "[[Respondent Validation]]"
   - "[[Negative Case Analysis]]"
   - "[[Leading Questions]]"
   - "[[Halo Effect]]"
@@ -98,6 +97,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Ideology Critique]]"
+  - "[[Member Checking]]"
   - "[[Autoethnography]]"
   - "[[Longitudinal Study]]"
 related_persons:

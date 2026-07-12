@@ -6,8 +6,8 @@ aliases:
 summary: "美国国防部下属的研究资助机构，以扁平化管理和“高风险、高回报”的容错机制著称，是互联网、GPS等众多颠覆性技术的策源地。"
 type: fact
 subtype: policy
-region: US
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 1
 fact_related_level: 0

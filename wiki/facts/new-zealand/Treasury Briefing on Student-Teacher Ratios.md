@@ -5,8 +5,8 @@ aliases:
 summary: "2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误"
 type: fact
 subtype: event
-region: newzealand
-fact_region: "newzealand"
+region: new-zealand
+fact_region: "new-zealand"
 fact_kind: "event"
 fact_related_count: 13
 fact_related_level: 1

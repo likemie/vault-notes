@@ -6,8 +6,8 @@ aliases:
 summary: "培养香港青少年对中华人民共和国的国家认同与爱国情感的教育实践，在国安法后成为课程核心"
 type: fact
 subtype: policy
-region: hongkong
-fact_region: "hongkong"
+region: hong-kong
+fact_region: "hong-kong"
 fact_kind: "policy"
 fact_related_count: 22
 fact_related_level: 2

@@ -8,8 +8,8 @@ aliases:
 summary: "1960 年加州通过的高等教育总体规划，建立了社区学院、加州州立大学和加州大学的三层公立高等教育体系，为硅谷创新经济提供了多层次人才支撑"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 2
 fact_related_level: 0

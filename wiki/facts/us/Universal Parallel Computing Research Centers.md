@@ -7,8 +7,8 @@ aliases:
 summary: "2008 年 Intel 与 Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley 和 UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折"
 type: fact
 subtype: event
-region: US
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 8
 fact_related_level: 1

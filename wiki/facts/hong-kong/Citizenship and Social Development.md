@@ -6,8 +6,8 @@ aliases:
 summary: "2021 年取代通识教育科的香港高中必修科，课程核心从批判性思维转向爱国主义与国家安全"
 type: fact
 subtype: policy
-region: hongkong
-fact_region: "hongkong"
+region: hong-kong
+fact_region: "hong-kong"
 fact_kind: "policy"
 fact_related_count: 17
 fact_related_level: 2

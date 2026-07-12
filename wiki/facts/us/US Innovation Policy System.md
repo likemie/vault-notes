@@ -8,8 +8,8 @@ aliases:
 summary: "美国联邦政府构建的多层次创新政策体系，涵盖战略技术清单、创新平台建设、中小企业支持计划、科技成果转化机构和AI专项政策，通过政产学研军深度融合推动科技与产业创新。"
 type: fact
 subtype: policy
-region: US
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0

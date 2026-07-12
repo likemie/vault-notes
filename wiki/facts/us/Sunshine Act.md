@@ -8,8 +8,8 @@ aliases:
 summary: "美国《平价医疗法案》2010 年组成部分，要求制药和医疗器械公司公开报告向医生和教学医院的所有支付，通过 Open Payments 数据库向公众披露，旨在增加产学临床试验中的财务透明度和防止利益冲突"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 2
 fact_related_level: 0

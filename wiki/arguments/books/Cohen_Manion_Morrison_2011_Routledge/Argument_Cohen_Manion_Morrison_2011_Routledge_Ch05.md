@@ -40,7 +40,6 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Research Scope]]"
   - "[[Confidentiality]]"
-  - "[[Respondent Validation]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Research Purpose]]"
   - "[[Research Topic]]"
@@ -424,7 +423,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 >
 > 1. 所有参与者必须有机会保持匿名（All participants must be given the chance to remain anonymous）
 > 2. 所有数据必须被严格保密（All data must be given strict [[Confidentiality]]）
-> 3. 受访者应有机会在报告起草阶段核实陈述——[[Respondent Validation|受访者验证]]（[[Member Checking|respondent validation]]）
+> 3. 受访者应有机会在报告起草阶段核实陈述——受访者验证（[[Member Checking|respondent validation]]）
 > 4. 参与者应获得最终报告副本
 > 5. 出版许可必须从参与者处获得
 > 6. 如果可能，研究报告应对学校和参与者有益

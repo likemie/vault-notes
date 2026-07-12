@@ -8,8 +8,8 @@ aliases:
 summary: "1945 年 Vannevar Bush 向美国总统提交的报告，强调基础与开放式研究的战略重要性，直接促成 NSF 创建，塑造了二战后美国联邦政府资助大学基础研究的制度框架"
 type: fact
 subtype: event
-region: US
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 7
 fact_related_level: 0

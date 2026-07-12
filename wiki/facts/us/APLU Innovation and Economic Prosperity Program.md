@@ -7,8 +7,8 @@ aliases:
 summary: "美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 2
 fact_related_level: 0

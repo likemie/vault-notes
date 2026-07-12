@@ -5,8 +5,8 @@ aliases:
 summary: "2019–2022 年香港教育局推行的校本奖励计划，要求学生快乐和感恩，是青年不满心理化治理的课外工具"
 type: fact
 subtype: policy
-region: hongkong
-fact_region: "hongkong"
+region: hong-kong
+fact_region: "hong-kong"
 fact_kind: "policy"
 fact_related_count: 5
 fact_related_level: 0

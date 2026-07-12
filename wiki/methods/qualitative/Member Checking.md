@@ -21,15 +21,14 @@ tags:
 related_concepts:
   - "[[Research Topic]]"
   - "[[Qualitative Validity]]"
-  - "[[Research Ethics]]"
   - "[[Reflexivity]]"
+  - "[[Research Ethics]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
+  - "[[Triangulation]]"
   - "[[Participatory Research]]"
   - "[[Action Research]]"
-  - "[[Case Study]]"
-  - "[[Triangulation]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"

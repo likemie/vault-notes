@@ -6,8 +6,8 @@ aliases:
 summary: "Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果"
 type: fact
 subtype: policy
-region: newzealand
-fact_region: "newzealand"
+region: new-zealand
+fact_region: "new-zealand"
 fact_kind: "policy"
 fact_related_count: 4
 fact_related_level: 0

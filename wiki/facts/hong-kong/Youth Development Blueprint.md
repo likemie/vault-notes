@@ -6,8 +6,8 @@ aliases:
 summary: "2022 年 12 月港府发布的青年政策文件，以探索、希望、赋能、贡献为主题，将青年问题框架化为培养积极思维"
 type: fact
 subtype: policy
-region: hongkong
-fact_region: "hongkong"
+region: hong-kong
+fact_region: "hong-kong"
 fact_kind: "policy"
 fact_related_count: 4
 fact_related_level: 0

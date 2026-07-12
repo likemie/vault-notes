@@ -19,13 +19,13 @@ tags:
 - case-study
 - research-design
 related_concepts:
+  - "[[Analytic Generalization]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[5-3-20 Rule]]"
   - "[[Variable]]"
-  - "[[Evaluation Research]]"
   - "[[Sample Size Determination]]"
   - "[[Definition of Terms]]"
   - "[[Heterogeneity]]"
@@ -37,14 +37,15 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Case Study]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Intervention Research]]"
   - "[[Gating Procedure]]"
 related_persons: []
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[WWC SCD Pilot Standards]]"

@@ -47,7 +47,6 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Sample Size Determination]]"
-  - "[[Respondent Validation]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Triangulation]]"

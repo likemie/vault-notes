@@ -37,7 +37,8 @@
               "title": "Argument_Teng_2025_CE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +206,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "0ec4b7749d7a06eb",
   "lastOpenFiles": [
-    "wiki/concepts/research-methodology/Alternative Hypothesis.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15.md",
+    "wiki/concepts/research-methodology/Alternative Hypothesis.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md",
     "wiki/concepts/research-methodology/Literature Search.md",
     "wiki/concepts/research-methodology/Literature Review.md",

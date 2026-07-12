@@ -12080,6 +12080,16 @@
     ]
   },
   {
+    "title": "Bologna Process",
+    "type": "fact",
+    "path": "wiki/facts/europe/Bologna Process.md",
+    "aliases": [
+      "博洛尼亚进程",
+      "博洛尼亚宣言",
+      "Bologna Declaration"
+    ]
+  },
+  {
     "title": "Community Innovation Survey",
     "type": "fact",
     "path": "wiki/facts/europe/Community Innovation Survey.md",
@@ -12113,16 +12123,6 @@
     "aliases": [
       "SSPC",
       "爱尔兰合成与固态制药中心"
-    ]
-  },
-  {
-    "title": "Bologna Process",
-    "type": "fact",
-    "path": "wiki/facts/europe/Bologna Process.md",
-    "aliases": [
-      "博洛尼亚进程",
-      "博洛尼亚宣言",
-      "Bologna Declaration"
     ]
   },
   {
@@ -12207,6 +12207,17 @@
     ]
   },
   {
+    "title": "Baby PISA",
+    "type": "fact",
+    "path": "wiki/facts/global/Baby PISA.md",
+    "aliases": [
+      "婴儿 PISA",
+      "Baby PISA",
+      "International Early Learning and Child Wellbeing Study",
+      "国际早期学习和儿童福祉研究"
+    ]
+  },
+  {
     "title": "Education at a Glance",
     "type": "fact",
     "path": "wiki/facts/global/Education at a Glance.md",
@@ -12286,6 +12297,16 @@
       "MMIRA",
       "混合方法国际研究协会",
       "Mixed Methods International Research Association (MMIRA)"
+    ]
+  },
+  {
+    "title": "Nobel Prize in Physiology or Medicine",
+    "type": "fact",
+    "path": "wiki/facts/global/Nobel Prize in Physiology or Medicine.md",
+    "aliases": [
+      "诺贝尔生理学或医学奖",
+      "Nobel Prize in Medicine",
+      "Nobel Prize Physiology or Medicine"
     ]
   },
   {
@@ -12444,27 +12465,6 @@
       "SDGs",
       "2030 Agenda",
       "可持续发展目标"
-    ]
-  },
-  {
-    "title": "Baby PISA",
-    "type": "fact",
-    "path": "wiki/facts/global/Baby PISA.md",
-    "aliases": [
-      "婴儿 PISA",
-      "Baby PISA",
-      "International Early Learning and Child Wellbeing Study",
-      "国际早期学习和儿童福祉研究"
-    ]
-  },
-  {
-    "title": "Nobel Prize in Physiology or Medicine",
-    "type": "fact",
-    "path": "wiki/facts/global/Nobel Prize in Physiology or Medicine.md",
-    "aliases": [
-      "诺贝尔生理学或医学奖",
-      "Nobel Prize in Medicine",
-      "Nobel Prize Physiology or Medicine"
     ]
   },
   {
@@ -12820,6 +12820,17 @@
     ]
   },
   {
+    "title": "NZ Curriculum Refresh 2021-2026",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/NZ Curriculum Refresh 2021-2026.md",
+    "aliases": [
+      "新西兰课程改革",
+      "NZ curriculum refresh",
+      "Te Mātaiaho",
+      "新西兰课程刷新"
+    ]
+  },
+  {
     "title": "The New Zealand Curriculum",
     "type": "fact",
     "path": "wiki/facts/new-zealand/The New Zealand Curriculum.md",
@@ -12843,17 +12854,6 @@
     "aliases": [
       "明日学校改革",
       "Tomorrow's Schools"
-    ]
-  },
-  {
-    "title": "NZ Curriculum Refresh 2021-2026",
-    "type": "fact",
-    "path": "wiki/facts/new-zealand/NZ Curriculum Refresh 2021-2026.md",
-    "aliases": [
-      "新西兰课程改革",
-      "NZ curriculum refresh",
-      "Te Mātaiaho",
-      "新西兰课程刷新"
     ]
   },
   {
@@ -13111,6 +13111,15 @@
     ]
   },
   {
+    "title": "EDEXCEL Perspectives on Science",
+    "type": "fact",
+    "path": "wiki/facts/uk/EDEXCEL Perspectives on Science.md",
+    "aliases": [
+      "EDEXCEL AS Perspectives on Science",
+      "Perspectives on Science course"
+    ]
+  },
+  {
     "title": "Education and Inspections Act 2006",
     "type": "fact",
     "path": "wiki/facts/uk/Education and Inspections Act 2006.md",
@@ -13242,15 +13251,6 @@
     "path": "wiki/facts/uk/What Works Network.md",
     "aliases": [
       "英国What Works网络"
-    ]
-  },
-  {
-    "title": "EDEXCEL Perspectives on Science",
-    "type": "fact",
-    "path": "wiki/facts/uk/EDEXCEL Perspectives on Science.md",
-    "aliases": [
-      "EDEXCEL AS Perspectives on Science",
-      "Perspectives on Science course"
     ]
   },
   {
@@ -14004,6 +14004,16 @@
     ]
   },
   {
+    "title": "Fulbright Program",
+    "type": "fact",
+    "path": "wiki/facts/us/Fulbright Program.md",
+    "aliases": [
+      "富布莱特计划",
+      "富布赖特计划",
+      "富布莱特项目"
+    ]
+  },
+  {
     "title": "MN-IP Create",
     "type": "fact",
     "path": "wiki/facts/us/MN-IP Create.md",
@@ -14030,16 +14040,6 @@
       "旧金山湾区",
       "科技湾区",
       "Silicon Valley Bay Area"
-    ]
-  },
-  {
-    "title": "Fulbright Program",
-    "type": "fact",
-    "path": "wiki/facts/us/Fulbright Program.md",
-    "aliases": [
-      "富布莱特计划",
-      "富布赖特计划",
-      "富布莱特项目"
     ]
   },
   {

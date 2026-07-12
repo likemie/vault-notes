@@ -6,8 +6,8 @@ aliases:
 summary: "2012 年德育及国民教育科争议引发学生占领抗议，成为 LS 政治化进程的起点"
 type: fact
 subtype: event
-region: hongkong
-fact_region: "hongkong"
+region: hong-kong
+fact_region: "hong-kong"
 fact_kind: "event"
 fact_related_count: 5
 fact_related_level: 0

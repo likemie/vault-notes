@@ -8,8 +8,8 @@ aliases:
 summary: "1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助"
 type: fact
 subtype: event
-region: US
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 14
 fact_related_level: 1

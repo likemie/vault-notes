@@ -8,8 +8,8 @@ aliases:
 summary: "2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全 crisis 后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式"
 type: fact
 subtype: event
-region: hongkong
-fact_region: "hongkong"
+region: hong-kong
+fact_region: "hong-kong"
 fact_kind: "event"
 fact_related_count: 4
 fact_related_level: 0

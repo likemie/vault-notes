@@ -5,13 +5,14 @@ aliases:
   - Perspectives on Science course
 summary: "英国 EDEXCEL 考试局 2004 年推出的 AS 级科学史与科学哲学课程，以严格的科学主义框架和报告式评估区别于 IB 的学生中心式 TOK 课程"
 type: fact
+subtype: policy
 region: uk
 fact_region: "uk"
-fact_kind: "unknown"
+fact_kind: "policy"
 fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#e5e7eb"
+fact_related_color: "#dbeafe"
 tags:
   - theme/science-education
   - theme/curriculum

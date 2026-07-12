@@ -9,8 +9,8 @@ aliases:
 summary: "英国实施的全国性大学研究评估体系（前身为 RAE），直接决定 QR 研究拨款的分配，是高等教育准市场与新公共管理（NPM）审计文化中最成熟的制度形式，深刻驱动了英国大学的管理主义形变"
 type: fact
 subtype: policy
-region: UK
-fact_region: "UK"
+region: uk
+fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 14
 fact_related_level: 1

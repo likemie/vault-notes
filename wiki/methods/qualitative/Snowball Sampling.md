@@ -21,30 +21,16 @@ tags:
   - method/sampling
   - qualitative-research
 related_concepts:
-  - "[[Sensitive Research]]"
   - "[[Gatekeepers]]"
-  - "[[Epistemology]]"
-  - "[[Heterogeneity]]"
-  - "[[Analytic Framework]]"
-  - "[[Sample Size Determination]]"
-  - "[[Sampling Frame]]"
-  - "[[Policy Network]]"
-  - "[[External Validity]]"
-  - "[[Pragmatic Paradigm]]"
 related_methods:
   - "[[Non-probability Sampling]]"
-  - "[[Qualitative Research]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Survey Research]]"
-  - "[[Random Sampling]]"
   - "[[Convenience Sampling]]"
-  - "[[Case Study]]"
   - "[[Purposeful Sampling]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
   - "[[Argument_Teng_2025_CE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 status: draft
 created: 2026-06-22
 updated: 2026-07-11

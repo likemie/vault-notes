@@ -8,8 +8,8 @@ aliases:
 summary: "2022 年白宫科技政策办公室主任 Alondra Nelson 发布的备忘录，要求所有联邦资助研发机构建立同行评审出版物和科学数据的公共获取政策"
 type: fact
 subtype: policy
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 5
 fact_related_level: 0

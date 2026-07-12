@@ -6,12 +6,13 @@ aliases:
   - Bologna Declaration
 summary: "1999年由29个欧洲国家发起的高等教育改革进程，旨在建立可比较的学位体系、学分转换制度和统一质量保障框架，是欧洲区域高等教育治理的标志性事件。"
 type: fact
+subtype: event
 fact_region: "europe"
-fact_kind: "unknown"
+fact_kind: "event"
 fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
-fact_related_color: "#e5e7eb"
+fact_related_color: "#fef3c7"
 tags:
   - bologna-process
   - european-higher-education

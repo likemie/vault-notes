@@ -9,8 +9,8 @@ aliases:
 summary: "1862 年美国联邦立法，通过赠地建立面向工业阶层的实践教育大学体系，将高等教育从精英教育扩展为大众实践教育，奠定产学合作的历史基础"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 2
 fact_related_level: 0

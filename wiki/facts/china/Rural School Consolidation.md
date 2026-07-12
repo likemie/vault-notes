@@ -8,8 +8,8 @@ aliases:
 summary: "自 2000 年代起中国大规模关闭合并农村小学与教学点的政策，至 2022 年间累计裁撤 83% 的农村小学，其主导逻辑由早期资源效率优化转变为将教育作为农村人口导入城镇的教育城镇化战略。"
 type: fact
 subtype: policy
-region: China
-fact_region: "China"
+region: china
+fact_region: "china"
 fact_kind: "policy"
 fact_related_count: 5
 fact_related_level: 0
@@ -23,7 +23,6 @@ tags:
   - policy/school-consolidation
 related_concepts:
   - "[[School Choice]]"
-  - "[[Class Size]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -76,8 +75,8 @@ updated: 2026-07-12
 
 > [!actor-grid] G 县的撤并案例运作
 > - **村级小学行政关停** 在湖北 G 县，2022 年村级学校 Village School 8 被地方政府行政关闭，绝大多数在读生源被迫面临分流，被强制划片至新建的城内 School X 就读。[[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 306–307)]]
-> - **县城公立跨步扩张** 为了吸纳被撤并的生源并吸纳农民进城，G 县在 2016 年新建专门招收农村随迁人口的 School 3，并于 2021 年新建 School X，采取放宽落户门槛且免除择校费的强拉力方式。
-> - **脱产陪读现象催生** 撤并带来的通勤危机让小龄初小儿童无法独立上下学，从而被迫催生了必须至少有一位家庭成年成员（通常为母亲或祖辈）脱产随迁进城生活的**[[Peidu|陪读]]**现象。
+> - **县城公立跨步扩张** 为了吸纳被撤并的生源并吸纳农民进城，G 县在 2016 年新建专门招收农村随迁人口的 School 3，并于 2021 年新建 School X，采取放宽落户门槛且免除[[School Choice|择校]]费的强拉力方式。
+> - **脱产[[Peidu|陪读]]现象催生** 撤并带来的通勤危机让小龄初小儿童无法独立上下学，从而被迫催生了必须至少有一位家庭成年成员（通常为母亲或祖辈）脱产随迁进城生活的**[[Peidu|陪读]]**现象。
 > - **基层治理的自发合谋** 县域教育官员和学校管理层普遍支持撤并后的向城集聚，认为此举让农村人享受了现代化的教育环境，视其为一种社会正和博弈。
 
 ---

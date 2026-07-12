@@ -5,8 +5,8 @@ aliases:
 summary: "Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议"
 type: fact
 subtype: event
-region: newzealand
-fact_region: "newzealand"
+region: new-zealand
+fact_region: "new-zealand"
 fact_kind: "event"
 fact_related_count: 63
 fact_related_level: 6

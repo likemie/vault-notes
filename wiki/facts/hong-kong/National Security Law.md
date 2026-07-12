@@ -7,8 +7,8 @@ aliases:
 summary: "2020 年颁布的香港国安法，为强制国民教育提供法律框架，关闭公民社会协商空间，实现教育决策从协商式到命令式的转变"
 type: fact
 subtype: event
-region: hongkong
-fact_region: "hongkong"
+region: hong-kong
+fact_region: "hong-kong"
 fact_kind: "event"
 fact_related_count: 10
 fact_related_level: 1

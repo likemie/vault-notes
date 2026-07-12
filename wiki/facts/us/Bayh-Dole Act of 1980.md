@@ -8,8 +8,8 @@ aliases:
 summary: "1980 年美国联邦立法，规定联邦政府资助下在大学产生的知识产权归大学所有，为大学技术转移和产学合作奠定了核心法律框架"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 14
 fact_related_level: 1

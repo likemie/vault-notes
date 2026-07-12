@@ -8,8 +8,8 @@ aliases:
 summary: "Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 3
 fact_related_level: 0

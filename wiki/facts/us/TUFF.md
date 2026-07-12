@@ -7,8 +7,8 @@ aliases:
 summary: "1982 年由 Georgia Tech 校友在亚特兰大创立的 501(c)(3) 运营基金会，以私营部门交付模式为大学建设研究设施，四十余年来为产学合作创新中心提供开发、融资和场所营造服务"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 8
 fact_related_level: 1

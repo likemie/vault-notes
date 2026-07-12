@@ -9,8 +9,8 @@ aliases:
 summary: "2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设"
 type: fact
 subtype: policy
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 12
 fact_related_level: 1

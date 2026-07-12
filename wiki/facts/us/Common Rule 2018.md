@@ -8,8 +8,8 @@ aliases:
 summary: "2018 年修订的美国联邦人类受试者研究保护法规，要求 IRB 审查与知情同意，将研究定义为旨在发展或贡献可推广知识的系统性调查，私企自有资金研发不受其约束，但大学以企业资金开展研究时自动引入 IRB 审查"
 type: fact
 subtype: policy
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 7
 fact_related_level: 0

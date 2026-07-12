@@ -7,8 +7,8 @@ aliases:
 summary: "2011 年由美国国家科学基金会启动的创业培训项目，已孵化超过 1000 家初创企业并累计获得超过 7.6 亿美元后续融资，核心是教授学者创业思维而非仅提供科研资金"
 type: fact
 subtype: event
-region: US
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 1
 fact_related_level: 0

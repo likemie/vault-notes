@@ -6,8 +6,8 @@ aliases:
 summary: "1939 年成立的法国国家级公共科研机构，其研究人员为终身制公务员并享有独立于大学的拨款渠道，与英美以项目竞争和评估驱动的研究治理模式形成制度替代路径"
 type: fact
 subtype: event
-region: "France"
-fact_region: "France"
+region: france
+fact_region: "france"
 fact_kind: "event"
 fact_related_count: 5
 fact_related_level: 0

@@ -5,8 +5,8 @@ aliases:
 summary: "教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M"
 type: fact
 subtype: policy
-region: newzealand
-fact_region: "newzealand"
+region: new-zealand
+fact_region: "new-zealand"
 fact_kind: "policy"
 fact_related_count: 4
 fact_related_level: 0

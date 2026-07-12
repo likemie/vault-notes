@@ -7,8 +7,8 @@ aliases:
 summary: "1982 年由一批美国精英研究型大学在 Bayh-Dole Act 通过后不久共同发布的产学关系原则声明，确立了大学-企业合作协议的透明性原则"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 4
 fact_related_level: 0

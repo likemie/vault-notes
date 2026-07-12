@@ -9,8 +9,8 @@ aliases:
 summary: "1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例"
 type: fact
 subtype: event
-region: UK
-fact_region: "UK"
+region: uk
+fact_region: "uk"
 fact_kind: "event"
 fact_related_count: 12
 fact_related_level: 1

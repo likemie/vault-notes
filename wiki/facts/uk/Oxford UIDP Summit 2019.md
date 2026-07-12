@@ -7,8 +7,8 @@ aliases:
 summary: "2019 年牛津大学与 UIDP 联合举办的首届产学合作高层峰会，汇集 149 名英国、美国、欧洲及其他地区的大学、企业和政府代表，围绕十大关键议题产出峰会报告 Developing University-Industry Partnerships Fit for the Future"
 type: fact
 subtype: event
-region: "UK"
-fact_region: "UK"
+region: uk
+fact_region: "uk"
 fact_kind: "event"
 fact_related_count: 10
 fact_related_level: 1

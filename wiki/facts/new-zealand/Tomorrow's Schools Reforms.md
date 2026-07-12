@@ -6,8 +6,8 @@ aliases:
 summary: "1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件"
 type: fact
 subtype: policy
-region: newzealand
-fact_region: "newzealand"
+region: new-zealand
+fact_region: "new-zealand"
 fact_kind: "policy"
 fact_related_count: 10
 fact_related_level: 1

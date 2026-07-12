@@ -8,8 +8,8 @@ aliases:
 summary: "2009 年实施的香港高中课程改革，从英式 3+2+2+3 学制转为 3+3+4 学制，引入通识教育科为必修科，统一考试为 HKDSE"
 type: fact
 subtype: policy
-region: hongkong
-fact_region: "hongkong"
+region: hong-kong
+fact_region: "hong-kong"
 fact_kind: "policy"
 fact_related_count: 11
 fact_related_level: 1

@@ -6,8 +6,8 @@ aliases:
 summary: "1978 年与中佛罗里达大学合作建立的研究园区，1993 年海军空战中心迁入后逐渐聚集国防承包商，现拥有超过 9,500 名雇员，推动 UCF 研发支出十年翻番"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 3
 fact_related_level: 0

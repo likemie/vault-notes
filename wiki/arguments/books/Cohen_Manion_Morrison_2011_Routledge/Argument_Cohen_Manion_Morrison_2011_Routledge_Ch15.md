@@ -53,7 +53,6 @@ related_methods:
   - "[[Matching]]"
 related_facts:
   - "[[OECD]]"
-  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"

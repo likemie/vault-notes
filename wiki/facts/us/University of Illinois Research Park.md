@@ -7,8 +7,8 @@ aliases:
 summary: "伊利诺伊大学的研究园区，执行主任同时兼任大学经济发展办公室主任，下设对外合作、孵化器 EnterpriseWorks、企业活动与创新外联等专职岗位，以整合组织架构链接产业伙伴与大学资源"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 4
 fact_related_level: 0

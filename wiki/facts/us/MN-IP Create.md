@@ -7,8 +7,8 @@ aliases:
 summary: "明尼苏达大学推出的菜单式产学合作 IP 预先定价项目，提供三种 FIP 权利选项，以固定预付费和延迟版税的组合缓解产业方对许可定价不确定性的担忧"
 type: fact
 subtype: program
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "program"
 fact_related_count: 5
 fact_related_level: 0

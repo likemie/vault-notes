@@ -7,8 +7,8 @@ aliases:
 summary: "2014 年生效的美国联邦拨款统一会计指南，规定大学研究预算须分离直接与间接成本、行政间接成本上限 26%，制度设计本身要求大学补贴研究项目，是产学合作预算谈判中企业最不适应的制度约束之一"
 type: fact
 subtype: policy
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 4
 fact_related_level: 0

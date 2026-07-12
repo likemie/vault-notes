@@ -9,8 +9,8 @@ aliases:
 summary: "2005–2017 年德国联邦与州政府联合实施的竞争性资助计划，通过评选少数卓越大学并提供巨额额外拨款，制造了比全覆盖式评估更陡峭的高等教育等级结构"
 type: fact
 subtype: event
-region: "Germany"
-fact_region: "Germany"
+region: germany
+fact_region: "germany"
 fact_kind: "event"
 fact_related_count: 4
 fact_related_level: 0

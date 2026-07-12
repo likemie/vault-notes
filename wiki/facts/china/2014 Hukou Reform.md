@@ -8,8 +8,8 @@ aliases:
 summary: "2014 年国务院发布户籍制度改革意见，允许迁移人口在除少数特大城市外的城镇获得当地户口，以推进新型城镇化，直接改变了农村人口的教育可及性格局"
 type: fact
 subtype: policy
-region: China
-fact_region: "China"
+region: china
+fact_region: "china"
 fact_kind: "policy"
 fact_related_count: 5
 fact_related_level: 0

@@ -49,7 +49,6 @@ related_concepts:
   - "[[Criterion-related Validity]]"
   - "[[Internal Validity]]"
   - "[[Audit Trail]]"
-  - "[[Respondent Validation]]"
   - "[[Negative Case Analysis]]"
   - "[[Document]]"
   - "[[Descriptive Validity]]"

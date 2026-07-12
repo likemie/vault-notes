@@ -38,7 +38,6 @@ related_facts:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft

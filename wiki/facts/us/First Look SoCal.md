@@ -6,8 +6,8 @@ aliases:
 summary: "南加州创新联盟自 2018 年起每年举办的前沿科技与生命科学衍生企业展示会，从十余所顶尖研究机构中甄选 24 家衍生企业向投资者路演，揭示了大学衍生企业普遍面临的早期融资困境"
 type: fact
 subtype: event
-region: US
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 9
 fact_related_level: 1

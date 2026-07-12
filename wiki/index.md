@@ -1339,7 +1339,7 @@ Total entries: **1583**
 
 ### Argentina
 
-> [!index-list]- Unknown (1)
+> [!index-list]- Program (1)
 > - [[Conectar Igualdad]] — 阿根廷 2010 年启动的每童一电脑项目，到 2014 年部署 380 万台电脑，是行动者网络理论分析教育权力关系的典型案例
 
 ### Australia
@@ -1459,14 +1459,12 @@ Total entries: **1583**
 
 ### Europe
 
-> [!index-list]- Event (4)
+> [!index-list]- Event (5)
+> - [[Bologna Process]] — 1999年由29个欧洲国家发起的高等教育改革进程，旨在建立可比较的学位体系、学分转换制度和统一质量保障框架，是欧洲区域高等教育治理的标志性事件。
 > - [[Community Innovation Survey]] — Eurostat 与欧盟成员国国家统计机构合作开展的统一创新调查，基于 Oslo Manual 方法论，是欧洲创新研究最核心的企业层面数据来源，覆盖产品创新、流程创新、研发支出、创新合作等多个维度
 > - [[League of European Research Universities]] — 欧洲研究型大学的联合组织，就研究与创新政策发布立场文件，包括关于博士和博士后研究者校内外职业发展的研究报告，主张重新审视博士培养模式以承认大多数博士将进入非学术劳动力市场
 > - [[Sectoral Innovation Database]] — 意大利 Urbino 大学开发的跨国家产业层面创新数据库，整合三轮社区创新调查（CIS 2、3、4）数据并匹配 STAN 经济表现指标，覆盖 8 个欧洲国家 38 个行业
 > - [[Synthesis and Solid State Pharmaceutical Centre]] — 爱尔兰政府资助的制药产学合作网络，由一位学术关键行动者发起，从 5 所大学和产业伙伴扩展至 8 所学术机构和 10 家跨国企业，经历胚胎期、启动期、参与期和确立期四个演化阶段，已成为全球制药研发卓越中心
-
-> [!index-list]- Unknown (1)
-> - [[Bologna Process]] — 1999年由29个欧洲国家发起的高等教育改革进程，旨在建立可比较的学位体系、学分转换制度和统一质量保障框架，是欧洲区域高等教育治理的标志性事件。
 
 ### Finland
 
@@ -1496,7 +1494,8 @@ Total entries: **1583**
 
 ### Global
 
-> [!index-list]- Event (13)
+> [!index-list]- Event (15)
+> - [[Baby PISA]] — OECD 发起的国际早期学习和儿童福祉研究，旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，是 PISA 企业向学前教育扩张的标志
 > - [[Education at a Glance]] — OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
 > - [[Education City Doha]] — 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
 > - [[INES Lugano General Assembly 1991]] — INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG
@@ -1506,6 +1505,7 @@ Total entries: **1583**
 > - [[ISSPP Project]] — Christopher Day 领导、自 2002 年起 20+ 国参与的国际成功学校校长项目，最全面的跨国学校领导力案例研究，Møller 以亲历者立场提出方法论反思
 > - [[Minerva University]] — 2012/2014 年由 Ben Nelson 创立的全球性营利大学，无校园、在线教学、全球城市沉浸，以颠覆传统大学和构建可扩展商业模式为目标
 > - [[Mixed Methods International Research Association]] — 2014 年成立的混合方法研究国际学术组织，随后在多个国家扩展分会、附属团体和区域会议，标志着混合方法研究作为独立方法论在国际层面的制度化
+> - [[Nobel Prize in Physiology or Medicine]] — 由诺贝尔大会在卡罗林斯卡学院颁发的年度奖项，最多可授予三人，是世界上最令人向往的科学奖项之一
 > - [[OECD]] — 1961年由前身欧洲经济合作组织（OEEC）正式改组演变而来的超国家政府间经济组织。OEEC最初由美国于1948年为管理马歇尔计划而创建。在冷战前沿地缘博弈和美国教育经济学运动的影响下，OECD系统地将教育规划重构为服务于经济增长的投资手段，后通过PISA等国际基准测评开展远处治理，成为主导全球教育改革与新自由主义资本秩序扩散的关键知识帝国。
 > - [[OECD AHELO Project]] — OECD 启动的高等教育学习成果评估可行性研究，试图以类似 PISA 的方式测量 HE 学习成果，因课程跨国不可比性和顶尖大学抵制被广泛定义为失败
 > - [[PISA]] — OECD 2000 年启动的跨国学生评估项目，通过比较 15 岁学生阅读、数学与科学素养，持续塑造各国对成绩危机、改革压力与政策优先事项的理解
@@ -1526,10 +1526,6 @@ Total entries: **1583**
 > - [[OECD Improving School Leadership Project]] — OECD 启动的 18+4 国参与项目，五项政策建议（吸引人才、界定职责、赋权自主、分布式领导、发展连续性），将学校领导力确立为全球教育政策优先议程
 > - [[THE Impact Ranking]] — 2019年THE推出的首个基于SDGs的全球大学影响力排名，覆盖85国近800所大学；SDG 17（促进目标实现的伙伴关系）为唯一强制报告指标
 > - [[UN Sustainable Development Goals]] — 2015年193个UN成员国通过的17项全球发展目标；在高等教育领域成为大学参与全球治理的关键催化剂，被视为大学的新型第三使命
-
-> [!index-list]- Unknown (2)
-> - [[Baby PISA]] — OECD 发起的国际早期学习和儿童福祉研究，旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，是 PISA 企业向学前教育扩张的标志
-> - [[Nobel Prize in Physiology or Medicine]] — 由诺贝尔大会在卡罗林斯卡学院颁发的年度奖项，最多可授予三人，是世界上最令人向往的科学奖项之一
 
 ### Hong Kong
 
@@ -1596,17 +1592,15 @@ Total entries: **1583**
 > - [[Treasury Briefing on Student-Teacher Ratios]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
 > - [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议
 
-> [!index-list]- Policy (7)
+> [!index-list]- Policy (8)
 > - [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
 > - [[Foundation North Māori and Pasifika Education Initiative]] — Foundation North 2009 年宣布的 USD 20M 五年投资计划，以社区提案驱动和网络识别两阶段模式改善 Māori 和 Pasifika 学生教育成果
 > - [[Learning for Life Report]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律
 > - [[New Zealand National Standards]] — 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
+> - [[NZ Curriculum Refresh 2021-2026]] — 新西兰 2021 年启动的课程改革，从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架，计划 2026 年完成
 > - [[The New Zealand Curriculum]] — 2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估
 > - [[The Scott Report]] — 新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实
 > - [[Tomorrow's Schools Reforms]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
-
-> [!index-list]- Unknown (1)
-> - [[NZ Curriculum Refresh 2021-2026]] — 新西兰 2021 年启动的课程改革，从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架，计划 2026 年完成
 
 ### Pakistan
 
@@ -1665,9 +1659,10 @@ Total entries: **1583**
 > [!index-list]- Organization (1)
 > - [[Education Endowment Foundation]] — 英国的教育证据中介组织，2011年成立，由公益基金资助，通过制作教学工具包和资助RCT来推广基于证据的教育实践，是全球what works运动在教育领域的制度化标杆。
 
-> [!index-list]- Policy (17)
+> [!index-list]- Policy (18)
 > - [[Centre for the Use of Research and Evidence in Education]] — 英国证据传播机构，主要把研究报告转化为教师和政策制定者可理解、可用于学校真实情境的材料。
 > - [[Committee for the Accreditation of Teacher Education]] — 1984年英国保守党政府设立的教师教育认证机制，将教师教育从学科基础转向课堂技能和能力导向的教师训练。
+> - [[EDEXCEL Perspectives on Science]] — 英国 EDEXCEL 考试局 2004 年推出的 AS 级科学史与科学哲学课程，以严格的科学主义框架和报告式评估区别于 IB 的学生中心式 TOK 课程
 > - [[Education and Inspections Act 2006]] — 英国法律禁止新建文法学校，但允许现有 163 所文法学校继续运作
 > - [[EEF Teaching and Learning Toolkit]] — 英国 EEF 发布的教学干预比较工具，按成本、效果和证据强度汇总 30 多类策略，已广泛影响学校决策并持续引发方法论争议
 > - [[Eleven-plus Exam]] — 英国 11 岁中等教育选拔考试，决定学生进入文法学校或综合学校，研究证据一致表明其加剧不平等且不促进社会流动
@@ -1683,9 +1678,6 @@ Total entries: **1583**
 > - [[Strength in Places Fund]] — 英国 2010 年代后期在产业战略框架下设立的 2.35 亿英镑基于地点的研究与创新资助基金，鼓励大学、企业、地方政府等组成区域联盟申请资源进行本地研发投资，标志着从全国卓越标准向地域因素的重大政策转向
 > - [[UK Knowledge Exchange Framework]] — 英国研究英格兰（Research England）开发的全国性知识交流评估框架，为高校提供知识交流绩效的理解、基准和改进工具，同时为知识用户和潜在用户提供大学伙伴的可见度和优势信息
 > - [[What Works Network]] — 英国政府建立的证据清算中心网络，EEF 是教育领域的旗舰中心，标志着证据本位方法在公共政策中的复兴
-
-> [!index-list]- Unknown (1)
-> - [[EDEXCEL Perspectives on Science]] — 英国 EDEXCEL 考试局 2004 年推出的 AS 级科学史与科学哲学课程，以严格的科学主义框架和报告式评估区别于 IB 的学生中心式 TOK 课程
 
 ### US
 
@@ -1773,15 +1765,13 @@ Total entries: **1583**
 > - [[US Innovation Policy System]] — 美国联邦政府构建的多层次创新政策体系，涵盖战略技术清单、创新平台建设、中小企业支持计划、科技成果转化机构和AI专项政策，通过政产学研军深度融合推动科技与产业创新。
 > - [[WWC SCD Pilot Standards]] — Kratochwill & Hitchcock 为 IES 开发的 WWC 单一个案设计审查试行标准，含 Review Guide 和 5-3-20 规则
 
-> [!index-list]- Program (1)
+> [!index-list]- Program (2)
+> - [[Fulbright Program]] — 1946年由美国参议员富布莱特推动设立的国际教育交流项目，冷战期间被用作传播美国价值观、培养亲美政治主体和消除苏联威胁的地缘政治工具。
 > - [[MN-IP Create]] — 明尼苏达大学推出的菜单式产学合作 IP 预先定价项目，提供三种 FIP 权利选项，以固定预付费和延迟版税的组合缓解产业方对许可定价不确定性的担忧
 
 > [!index-list]- Region (2)
 > - [[New York Bay Area]] — 世界级金融湾区，经历制造业中心到金融中心再到全球科技创新高地的多次产业转型，以金融科技为核心驱动力，拥有全球市值最大的纽约证券交易所和纳斯达克，是美国产学研协同创新的发源地
 > - [[San Francisco Bay Area]] — 以硅谷为核心的全球科技创新高地，聚集斯坦福大学等20多所世界一流大学，以电子与信息技术产业为代表形成全球最大产业创新集聚区，以风险投资、开放文化和灵活法律环境为三大支柱，自下而上自发形成创新生态系统
-
-> [!index-list]- Unknown (1)
-> - [[Fulbright Program]] — 1946年由美国参议员富布莱特推动设立的国际教育交流项目，冷战期间被用作传播美国价值观、培养亲美政治主体和消除苏联威胁的地缘政治工具。
 
 ---
 

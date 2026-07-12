@@ -7,8 +7,8 @@ aliases:
 summary: "1950 年代末在北卡罗来纳州建立的美国最大研究园区之一，联合 Duke、UNC-Chapel Hill 和 NC State 三所研究型大学，以 IBM 为早期锚定租户，是产学合作推动区域经济转型的经典案例"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 3
 fact_related_level: 0

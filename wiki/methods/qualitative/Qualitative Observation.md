@@ -23,7 +23,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
-  - "[[Respondent Validation]]"
   - "[[Research Ethics]]"
   - "[[Rich and Thick Description]]"
   - "[[Hawthorne Effect]]"
@@ -40,6 +39,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Non-participant Observation]]"
+  - "[[Member Checking]]"
   - "[[Observation Protocol]]"
   - "[[Non-probability Sampling]]"
 related_persons: []

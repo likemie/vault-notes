@@ -7,8 +7,8 @@ aliases:
 summary: "1914 年美国联邦立法，在赠地大学建立农业推广服务体系，以联邦资金直接支持农业产业的应用研究、教育和培训，是产学合作中连接研究与实际应用的早期制度模型"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 3
 fact_related_level: 0

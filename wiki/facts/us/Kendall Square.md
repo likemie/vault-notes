@@ -9,8 +9,8 @@ aliases:
 summary: "1999 年成立于 MIT 周边的产学合作创新区，以剑桥创新中心为核心，通过意向性网络建设和联合办公催生超过 10,000 家客户组织和 170 亿美元累计投资，是全球最成功的创新生态系统之一"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 8
 fact_related_level: 1

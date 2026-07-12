@@ -7,7 +7,7 @@ aliases:
 summary: "2018 年国际医学期刊编辑委员会生效的两项发表前置要求，临床试验须在首例受试者入组时或之前完成公共注册、稿件须包含数据共享声明，是产学合作中临床研究数据条款的重要制度约束"
 type: fact
 subtype: policy
-region: "global"
+region: global
 fact_region: "global"
 fact_kind: "policy"
 fact_related_count: 4

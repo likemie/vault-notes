@@ -8,8 +8,8 @@ aliases:
 summary: "2006年以来欧盟通过评价文化、知识中介网络和Eurydice支持机制推动成员国在教育决策中使用证据，但主要以指导和协调为主而非强制统一政策。"
 type: fact
 subtype: policy
-region: EU
-fact_region: "EU"
+region: eu
+fact_region: "eu"
 fact_kind: "policy"
 fact_related_count: 22
 fact_related_level: 2

@@ -6,8 +6,8 @@ aliases:
 summary: "新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实"
 type: fact
 subtype: policy
-region: newzealand
-fact_region: "newzealand"
+region: new-zealand
+fact_region: "new-zealand"
 fact_kind: "policy"
 fact_related_count: 3
 fact_related_level: 0

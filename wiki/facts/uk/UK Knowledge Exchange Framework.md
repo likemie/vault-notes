@@ -7,8 +7,8 @@ aliases:
 summary: "英国研究英格兰（Research England）开发的全国性知识交流评估框架，为高校提供知识交流绩效的理解、基准和改进工具，同时为知识用户和潜在用户提供大学伙伴的可见度和优势信息"
 type: fact
 subtype: policy
-region: "UK"
-fact_region: "UK"
+region: uk
+fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 7
 fact_related_level: 0

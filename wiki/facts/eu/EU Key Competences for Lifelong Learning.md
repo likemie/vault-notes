@@ -8,8 +8,8 @@ aliases:
 summary: "2018年欧盟理事会修订的终身学习关键能力框架，将能力定义为知识、技能和态度的动态组合，并提出八项关键能力及其评估挑战。"
 type: fact
 subtype: policy
-region: EU
-fact_region: "EU"
+region: eu
+fact_region: "eu"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0

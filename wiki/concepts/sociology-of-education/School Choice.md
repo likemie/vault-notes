@@ -17,21 +17,15 @@ tags:
   - theme/social-stratification
   - theme/educational-inequality
   - policy/neoliberalism
-related_concepts:
-  - "[[Cultural Capital]]"
-  - "[[Habitus]]"
-  - "[[Social Capital Theory]]"
-related_theories:
-  - "[[Rational Action Theory]]"
+related_concepts: []
+related_theories: []
 related_methods: []
-related_persons:
-  - "[[Pierre Bourdieu]]"
+related_persons: []
 related_facts:
   - "[[Peidu]]"
-  - "[[Rural School Consolidation]]"
-  - "[[Hukou System]]"
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 confidence: high
 status: draft
 created: 2026-05-26

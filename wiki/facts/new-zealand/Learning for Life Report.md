@@ -6,8 +6,8 @@ aliases:
 summary: "Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律"
 type: fact
 subtype: policy
-region: newzealand
-fact_region: "newzealand"
+region: new-zealand
+fact_region: "new-zealand"
 fact_kind: "policy"
 fact_related_count: 3
 fact_related_level: 0

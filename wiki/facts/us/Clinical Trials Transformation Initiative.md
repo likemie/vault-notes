@@ -6,8 +6,8 @@ aliases:
 summary: "2007 年由美国 FDA 和杜克大学共同发起的多利益相关方公私合作伙伴关系，已发布超过 30 套基于证据的建议、框架和工具，旨在提高临床试验的质量和效率"
 type: fact
 subtype: event
-region: "US"
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 3
 fact_related_level: 0

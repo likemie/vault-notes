@@ -8,8 +8,8 @@ aliases:
 summary: "1989 年新西兰学校改革催生的教育服务组织 从 Multi Serve 转型为 Cognition Education 通过国际咨询与 Visible Learningplus 扩张 并长期处于慈善使命与营利结构张力之中"
 type: fact
 subtype: event
-region: newzealand
-fact_region: "newzealand"
+region: new-zealand
+fact_region: "new-zealand"
 fact_kind: "event"
 fact_related_count: 13
 fact_related_level: 1

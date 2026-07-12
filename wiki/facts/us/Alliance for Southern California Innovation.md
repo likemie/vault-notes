@@ -7,8 +7,8 @@ aliases:
 summary: "2017 年成立的非营利组织，联合南加州顶尖研究机构、商界领袖和顾问，聚焦于弥合区域创新生态系统中的关键缺口，通过识别和培育高潜力初创企业来吸引新资本进入南加州"
 type: fact
 subtype: event
-region: US
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 3
 fact_related_level: 0

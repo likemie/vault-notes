@@ -6,8 +6,8 @@ aliases:
 summary: "美国半导体行业长期运作的公私合作伙伴关系，多家公司（包括直接竞争对手）共同资助前竞争阶段的大学研究并支持人才发展，是产学合作中竞争者在研究层面合作的制度化典范"
 type: fact
 subtype: event
-region: US
-fact_region: "US"
+region: us
+fact_region: "us"
 fact_kind: "event"
 fact_related_count: 7
 fact_related_level: 0

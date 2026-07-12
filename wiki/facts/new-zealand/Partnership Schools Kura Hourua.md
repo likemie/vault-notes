@@ -6,8 +6,8 @@ aliases:
 summary: "新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动"
 type: fact
 subtype: event
-region: newzealand
-fact_region: "newzealand"
+region: new-zealand
+fact_region: "new-zealand"
 fact_kind: "event"
 fact_related_count: 1
 fact_related_level: 0
