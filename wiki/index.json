@@ -9087,7 +9087,6 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Binary Logistic Regression.md",
     "aliases": [
-      "二元 Logistic 回归",
       "二元逻辑回归",
       "Binary Logistic Regression Model",
       "二元逻辑回归模型"
