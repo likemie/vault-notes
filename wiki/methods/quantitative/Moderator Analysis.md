@@ -7,9 +7,9 @@ summary: "元分析中识别和检验研究间效果变异来源的统计方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
 - moderator-analysis
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
+  - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: '2026-06-08'
+updated: 2026-07-13
 ---
 
 ## 定义
@@ -79,7 +80,7 @@ updated: '2026-06-08'
 
 > [!warning] 局限性
 > - 调节[[Variable|变量]]分析往往统计效力不足（Valentine et al., 2010, cited in [[Argument_Higgins_2016_RE|Higgins, 2016, p.38]]），难以可靠地识别[[Heterogeneity|异质性]]来源
-> - 当纳入研究数量有限时，调节变量分析的统计检验力较低，可能无法检测到真实的调节效应
+> - 当纳入研究数量有限时，调节变量分析的统计检验力较低，可能无法检测到真实的[[Interaction Effect|调节效应]]
 > - 调节变量之间的交互作用难以在[[Meta-analysis|元分析]]框架中被充分建模
 > - 在[[Meta-meta-analysis|元-元分析]]层面，每项一级元分析内部的调节变量信息在二级聚合时进一步丢失([[Argument_Higgins_2016_RE|Higgins, 2016, p.44]])
 

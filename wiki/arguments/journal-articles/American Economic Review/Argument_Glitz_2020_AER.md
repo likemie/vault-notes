@@ -24,10 +24,11 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Causality]]"
-  - "[[Independent Variable]]"
+  - "[[Attrition]]"
   - "[[Standard Error]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
+  - "[[Interaction Effect]]"
   - "[[Absorptive Capacity]]"
   - "[[Counterfactual]]"
   - "[[Return on Investment]]"
@@ -45,14 +46,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-07-13
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -189,7 +190,7 @@ issuing_organization: ""
 > - **安慰剂检验** 1,000 次随机重排情报流入的安慰剂估计分布中心在 0 附近（均值 0.0002，标准差 0.0013），排除了分母相同的机械相关性（pp.1088–1089）。
 
 > [!warrant]- 推理桥梁
-> OLS 已经通过行业固定效应吸收时不变行业特征、通过时间固定效应吸收共同冲击、通过专利差距控制创新活动。但斯塔西可能策略性地在预期技术落后的行业增派线人，导致低估；也可能因为西德创新更多自然带来更多可窃取信息，导致高估。[[Independent Variable|IV]] 策略利用不受斯塔西当期策略控制的变异来源来解决这些内生性问题。
+> OLS 已经通过行业固定效应吸收时不变行业特征、通过时间固定效应吸收共同冲击、通过专利差距控制创新活动。但斯塔西可能策略性地在预期技术落后的行业增派线人，导致低估；也可能因为西德创新更多自然带来更多可窃取信息，导致高估。IV 策略利用不受斯塔西当期策略控制的变异来源来解决这些内生性问题。
 
 ---
 
@@ -200,7 +201,7 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - **Shift-share 工具** 以 1970 年已在活动的线人（"老线人"）的信息份额和行业分布为固定权重，乘以当期老线人的总信息量构建预测流入。一阶段 F 统计量为 61.4（TFP）和 60.5（产出/工人），二阶段估计为 −0.072（p=0.150），略大于 OLS（pp.1080–1081, Table 3）。
-> - **退出工具** 利用高产线人（年均 20+ 条信息）突然停止提供信息的退出事件，以其退出前的平均行业信息量为权重构建预测流失。一阶段 F 统计量为 50.4（TFP），二阶段估计为 −0.120（p=0.149），约为 OLS 的 2.3 倍（pp.1081–1083, Table 3）。
+> - **退出工具** 利用高产线人（年均 20+ 条信息）突然停止提供信息的退出事件，以其退出前的平均行业信息量为权重构建预测[[Attrition|流失]]。一阶段 F 统计量为 50.4（TFP），二阶段估计为 −0.120（p=0.149），约为 OLS 的 2.3 倍（pp.1081–1083, Table 3）。
 > - **退出工具的外生性证据** 退出工具与同期 TFP 增长的关系不显著（−0.062，[[Standard Error|标准误]] 0.182），但与未来 TFP 增长显著正相关（0.528，[[Standard Error|标准误]] 0.144），排除了西德反间谍策略或斯塔西在落后行业系统退出线人的替代解释（pp.1083, Figure 4）。
 
 > [!warrant]- 推理桥梁
@@ -247,7 +248,7 @@ issuing_organization: ""
 > - **进口壁垒** 按进口强度差距四分位数未发现异质性——间谍在贸易开放和贸易受限行业中效用相似（Figure 6 Panel B）。
 
 > [!warrant]- 推理桥梁
-> 高质量信息的巨大效应和前沿距离的交互效应共同指向一个关键机制——工业间谍的效果取决于接收方的[[Absorptive Capacity]]。接近前沿的行业拥有更强的吸收能力，能够将获取的技术知识转化为实际生产率增长。前沿距离效应与传统 R&D 文献相反，进一步说明间谍情报作为知识来源的特殊性。
+> 高质量信息的巨大效应和前沿距离的[[Interaction Effect|交互效应]]共同指向一个关键机制——工业间谍的效果取决于接收方的[[Absorptive Capacity]]。接近前沿的行业拥有更强的吸收能力，能够将获取的技术知识转化为实际生产率增长。前沿距离效应与传统 R&D 文献相反，进一步说明间谍情报作为知识来源的特殊性。
 
 ---
 

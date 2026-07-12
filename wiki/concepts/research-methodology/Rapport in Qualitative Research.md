@@ -6,14 +6,15 @@ aliases:
 summary: "质性田野研究中研究者与参与者之间建立的信任、相互理解和合作关系，是有效数据收集的前提条件和持续过程。"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - paradigm/qualitative
   - method/data-collection
-related_concepts: []
+related_concepts:
+  - "[[Attrition]]"
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 
 # Rapport in Qualitative Research
@@ -39,7 +40,7 @@ updated: 2026-07-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种动态的、情境依赖的研究关系质量，不仅包括参与者是否愿意提供信息，还包括信息提供的深度、开放性和真实性。
-> - **用途** 作为有效数据收集的前提条件——帮助研究者获得参与者信任、减少参与者防御性、增加数据丰富性和真实性。在纵向[[Qualitative Research|质性研究]]中维持融洽关系有助于降低参与者和研究者的流失率。
+> - **用途** 作为有效数据收集的前提条件——帮助研究者获得参与者信任、减少参与者防御性、增加数据丰富性和真实性。在纵向[[Qualitative Research|质性研究]]中维持融洽关系有助于降低参与者和研究者的[[Attrition|流失]]率。
 > - **边界** 不等于友谊或亲密关系——融洽关系虽然包含人际温暖，但其根本目的是服务于研究，需要保持研究-参与者的专业边界。过多的融洽可能引入新的偏误（如参与者只为取悦研究者而提供信息）。Seidman（1998: 80–82）指出融洽关系的量并非越多越好——太多或太少都可能成为问题。
 
 > [!citation-card]- 关键表述
@@ -59,7 +60,7 @@ updated: 2026-07-11
 
 ## 在纵向研究中的特殊作用
 
-在纵向[[Qualitative Research|质性研究]]中，维持融洽关系的挑战更大，回报也更高。Thomson 和 Holland（2003: 235）报告维持长期积极关系对降低参与者流失率有显著贡献。Gordon 和 Lahelma（2003: 246）在研究青少年向成年过渡的过程中发现，维持融洽关系是纵向[[Ethnography|民族志研究]]的关键因素。融洽关系不仅体现在言语沟通的敏感处理中，也体现在对非言语沟通的关注中（p. 248）。
+在纵向[[Qualitative Research|质性研究]]中，维持融洽关系的挑战更大，回报也更高。Thomson 和 Holland（2003: 235）报告维持长期积极关系对降低参与者[[Attrition|流失]]率有显著贡献。Gordon 和 Lahelma（2003: 246）在研究青少年向成年过渡的过程中发现，维持融洽关系是纵向[[Ethnography|民族志研究]]的关键因素。融洽关系不仅体现在言语沟通的敏感处理中，也体现在对非言语沟通的关注中（p. 248）。
 
 ## 相关研究
 

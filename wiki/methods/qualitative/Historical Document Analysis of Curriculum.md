@@ -7,9 +7,9 @@ summary: "通过系统分析课程文件、政府政策、媒体报道和学术�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
 - document-analysis
@@ -37,12 +37,11 @@ related_persons: []
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
 related_facts:
-  - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: 2026-07-13
 ---
 
 ## 定义
@@ -50,7 +49,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 课程的历史[[Documentary Analysis|文献分析]]是一种[[Qualitative Research|质性研究]]方法，通过系统地分析课程指引、政府文件、政策文本、媒体报道和既有学术[[Document|文献]]，重建学校科目的演变历程，解释课程变革的政治与历史动力。
 >
-> [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 运用此方法分析了 [[Liberal Studies|LS]] 从 2009 年创立到 2021 年废除的完整历史，数据来源包括：
+> [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 运用此方法分析了 LS 从 2009 年创立到 2021 年废除的完整历史，数据来源包括：
 > - 课程指引（LS C&A Guide, 2007; [[Citizenship and Social Development|CSD]] C&A Guide, 2021）
 > - 政府政策文件（施政报告、教育委员会报告、立法会会议记录）
 > - 中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》）
@@ -65,7 +64,7 @@ updated: '2026-05-18'
 ## 操作步骤
 
 > [!example] 操作步骤
-> 1. **确定分析范围与时间跨度** — 界定哪些类型的文件、覆盖哪个历史时段（如 [[Liberal Studies|LS]]: 2005-2021）
+> 1. **确定分析范围与时间跨度** — 界定哪些类型的文件、覆盖哪个历史时段（如 LS: 2005-2021）
 > 2. **收集文件** — 系统收集官方课程文件、政府政策声明、媒体报道、既有学术[[Document|文献]]
 > 3. **时间线重建** — 按时间顺序排列关键事件和决定（参见 Yan & Morris 的 Table 1）
 > 4. **来源[[Triangulation|三角验证]]** — 交叉比对不同来源的叙述差异（如政府文件 vs. 官媒 vs. 学术文献）
@@ -84,7 +83,7 @@ updated: '2026-05-18'
 ## 局限性
 
 > [!warning] 局限性
-> - **仅限于"意图课程"** — 无法捕捉课堂实施和学生实际学习成果。[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 承认他们的分析停留在"intended curriculum"层面（p. 491）。在 [[Liberal Studies|LS]] 案例中，这意味着论文揭示了政策制定层面的政治动力，但未能回答"LS 在 400+ 所香港中学中实际如何被教授"以及"[[Citizenship and Social Development|CSD]] 在课堂中产生了什么教学行为"。
+> - **仅限于"意图课程"** — 无法捕捉课堂实施和学生实际学习成果。[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 承认他们的分析停留在"intended curriculum"层面（p. 491）。在 LS 案例中，这意味着论文揭示了政策制定层面的政治动力，但未能回答"LS 在 400+ 所香港中学中实际如何被教授"以及"[[Citizenship and Social Development|CSD]] 在课堂中产生了什么教学行为"。
 > - **文件可及性偏差** — 当一方的声音（如教师工会）在特定时期被系统性压制时，文件记录偏向于当权者的叙述。在 LS 废除阶段，教协已被关闭、批评媒体受压，这使得废除阶段的文件证据主要由政府声明和官媒构成——"缺失的声音"本身是政治压制的结果而非方法的疏忽。
 > - **[[Causality|因果推断]]受限** — 文件分析可以揭示叙事构建和政策论证的策略，但无法独立证明行动者的真实动机。例如：港府引用"全球化"论述推动 LS 创立——文件分析可以展示这种论述**如何被使用（[[Externalization|外化]]策略）**，但无法确定决策者**是否真诚相信**全球化论述。动机推断需要补充访谈或过程追踪方法。
 
@@ -96,5 +95,5 @@ updated: '2026-05-18'
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Yan_2025_JCS]] — 将 Cuban 框架应用于香港 [[Liberal Studies|LS]] 的历史分析，是此方法的示范性应用
+> - [[Argument_Yan_2025_JCS]] — 将 Cuban 框架应用于香港 LS 的历史分析，是此方法的示范性应用
 

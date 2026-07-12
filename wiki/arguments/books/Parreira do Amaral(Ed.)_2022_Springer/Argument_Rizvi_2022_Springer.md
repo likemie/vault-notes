@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[New Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Document]]"
+  - "[[Attrition]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Network Society]]"
@@ -64,7 +65,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-07-09
+updated: 2026-07-13
 year: 2022
 doi: ""
 citation_aliases:
@@ -444,7 +445,7 @@ Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原�
 > [!warning]
 > - **实证基础薄弱** 本章未提供系统的实证数据来支持"亚洲崛起重塑全球高等教育架构"这一核心主张。论证主要基于[[Document|文献]]综合和概念推演。例如，Rizvi 断言国际化的理性已从发展主义转向市场理性，但没有提供系统的政策文本分析或访谈数据来支撑这一判断——读者需要依赖 Rizvi 提供的案例（如澳大利亚）来推断这一转变的普遍性。
 > - **亚洲内部差异性处理较为概括** 将"亚洲"作为一个整体讨论——"亚洲中产阶级"、"亚洲高等教育系统"——可能掩盖了东亚（日韩台）、东南亚（新马泰印尼越南）和南亚（印度巴基斯坦孟加拉）之间在经济发展阶段、高等教育治理模式、殖民遗产和文化传统上的显著差异。例如，印度的国际学生流动模式与中国存在根本不同，但 Rizvi 没有对此进行区分讨论。
-> - **未充分讨论亚洲内部权力不对称** 虽然 Rizvi 批评了西方与亚洲之间的不对称关系，但他未充分讨论亚洲内部——特别是中国在亚洲高等教育中的主导地位及其对周边国家人才流失和学术依赖的影响。他提到了中国将高等教育"用作全球影响力的工具"(p.102)，但没有展开分析这对亚洲其他国家高等教育自主性的影响。
+> - **未充分讨论亚洲内部权力不对称** 虽然 Rizvi 批评了西方与亚洲之间的不对称关系，但他未充分讨论亚洲内部——特别是中国在亚洲高等教育中的主导地位及其对周边国家人才[[Attrition|流失]]和学术依赖的影响。他提到了中国将高等教育"用作全球影响力的工具"(p.102)，但没有展开分析这对亚洲其他国家高等教育自主性的影响。
 > - **"后疫情新国际化"愿景缺乏操作性** Rizvi 的结论部分提出了"对称性跨国连接"、"多元知识传统"等方向性原则，但这些原则如何从理念转化为制度和实践——例如，如何在实际的大学预算、排名压力和地缘政治现实约束下实现"超越商业逻辑的国际化"——未得到具体讨论。
 > - **对 COVID-19 影响的分析受限于时间** 本章写作时疫情仍在发展中，Rizvi 的分析依赖于对早期趋势的观察和推断。疫情对国际学生流动的长期结构性影响、中美技术脱钩对[[Transnational Research Collaboration|跨国研究合作]]的具体后果、以及亚洲高等教育系统在后疫情时代的战略调整——这些问题在 2022 年仍无法得到确切回答。
 

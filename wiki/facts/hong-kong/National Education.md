@@ -36,8 +36,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
-  - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
+  - "[[Liberal Studies]]"
   - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-25'
+updated: 2026-07-13
 ---
 
 ## 定义
@@ -68,7 +68,7 @@ updated: '2026-05-25'
 > 2. **中共忠诚** — 将中共定位为"[[Zhonghua Minzu|中华民族]]唯一合法代表"（Vickers & Morris, 2022, p. 47）
 > 3. **守法教育** — 法治被重新表述为对《国安法》和中央权威的服从
 > 4. **历史叙事统一** — 以中共批准的单一历史叙事取代多元视角
-> 5. **内地体验** — 通过强制性内地考察团（取代 [[Liberal Studies|LS]] 的 IES）让学生"亲身体验祖国发展"
+> 5. **内地体验** — 通过强制性内地考察团（取代 LS 的 IES）让学生"亲身体验祖国发展"
 
 ---
 
@@ -96,7 +96,7 @@ updated: '2026-05-25'
 > - **1997 年前** — 殖民地时期，教育体系刻意淡化中国国家认同，避免与中国建立文化政治纽带
 > - **1997 年回归** — 江泽民在特区成立庆典上强调"血浓于水"的亲情叙事，将回归描绘为"回归祖国怀抱"
 > - **1998-2000** — 首任特首董建华的《施政报告》逐步提出国民教育方向，但以"[[Lifelong Learning|终身学习]]"和"[[Knowledge-Based Economy|知识经济]]"等中性话语包装
-> - **2009** — [[Liberal Studies|LS]] 成为必修科，"现代中国"单元纳入课程，但内容不强调对中共的忠诚（反映了本地课程设计者对公民社会反弹的预判）
+> - **2009** — LS 成为必修科，"现代中国"单元纳入课程，但内容不强调对中共的忠诚（反映了本地课程设计者对公民社会反弹的预判）
 > - **2012** — 港府试图将"德育及国民教育科"（MNE）设为必修，引发大规模学生抗议，最终撤回并改为选修。这是国民教育议程的首次重大挫折
 > - **2019 [[2019 Hong Kong Protests|反修例运动]]后** — 中国官媒指摘 LS"缺乏中国坐标"，将年轻人参与抗议归咎于国民教育的缺位
 > - **2020 年 6 月** — 《[[National Security Law|香港国安法]]》颁布，为强制推行国民教育提供了法律框架
@@ -123,7 +123,7 @@ updated: '2026-05-25'
 > - Leibold & Dorjee (2024) 在西藏记录了强制性国民教育如何消除地方语言和文化认同
 > - Tobin (2024) 在新疆记录了"普通话化"的教育政策
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] 在内蒙古记录了"[[Zhonghua Minzu|中华民族]]"叙事如何替代蒙古族历史叙事
-> - [[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 490)]] 将香港纳入同一框架，论证这是中共在边疆地区推行"中华民族"统一认同的连贯策略——区别在于香港的'华化'（sinicisation）被更谨慎地执行，先以 [[Liberal Studies|LS]] 的温和"中国背景"为入口，后以 CSD 的强制爱国教育收尾。
+> - [[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 490)]] 将香港纳入同一框架，论证这是中共在边疆地区推行"中华民族"统一认同的连贯策略——区别在于香港的'华化'（sinicisation）被更谨慎地执行，先以 LS 的温和"中国背景"为入口，后以 CSD 的强制爱国教育收尾。
 >
 > **目前状态** 国际学术界日益将此视为跨国比较的研究对象，但在中国大陆内部这一比较被视为政治敏感。
 
@@ -153,7 +153,7 @@ updated: '2026-05-25'
 
 > [!example] 相关案例／政策
 > - 2012 MNE Controversy — 德育及国民教育科争议
-> - [[Citizenship and Social Development|CSD]] 取代 [[Liberal Studies|LS]] — LS 被 CSD 取代
+> - [[Citizenship and Social Development|CSD]] 取代 LS — LS 被 CSD 取代
 > - [[National Security Law|National Security Law Impact on Hong Kong Education]] — 国安法的教育后果
 
 ---

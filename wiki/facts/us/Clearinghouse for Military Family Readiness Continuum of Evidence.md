@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Causality]]"
+  - "[[Attrition]]"
   - "[[Study Population and Sample]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: 2026-07-13
 ---
 ## 概述
 
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 > [!abstract] 证据标准
 > CMFR 在设计标准[[Coding in Qualitative Research|编码]]中对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 3，对 RDD 和 ITS 均为 0。编码 3 表示清算中心为[[Causality|因果推断]]与实施质量提供了设计专属标准；因此 CMFR 是少数对 RCT 与一般 QED 都有详细标准的清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10, 29]])。
 >
-> CMFR 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 只纳入同行评审研究。它在 RCT 流失标准上接受总体流失低于 20%；在 QED 方面，它对匹配比较组设计和统计控制比较组设计使用不同标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
+> CMFR 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 只纳入同行评审研究。它在 RCT [[Attrition|流失]]标准上接受总体流失低于 20%；在 QED 方面，它对匹配比较组设计和统计控制比较组设计使用不同标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
 
 ## 复制与持续效果要求
 
@@ -72,5 +73,5 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — CMFR 是 12 个被比较的教育清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
 > - [[Evidence-Based Education]] — CMFR 展示了 EBE 评级中同行评审、详细 [[Quasi-Experimental Designs|QED]] 标准、独立复制和持续效果要求的组合([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–12]])。
-> - [[Randomised Controlled Trials]] — CMFR 对 RCT 的标准描述程度为 3，并接受总体流失低于 20% 的 RCT([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10]])。
+> - [[Randomised Controlled Trials]] — CMFR 对 RCT 的标准描述程度为 3，并接受总体[[Attrition|流失]]低于 20% 的 RCT([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10]])。
 

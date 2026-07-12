@@ -9,9 +9,9 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 4
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
 - moral-national-education
@@ -26,14 +26,13 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[National Education]]"
-  - "[[Liberal Studies]]"
   - "[[2019 Hong Kong Protests]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: 2026-07-13
 ---
 ## 背景
 
@@ -50,12 +49,12 @@ updated: '2026-05-18'
 ## 对通识教育科的影响
 
 > [!success] 对通识教育科的影响
-> [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 将 MNE 争议定位为 [[Liberal Studies|LS]] 政治生态的关键转折点：MNE 争议后，亲中政治力量开始将 LS 重新框定为问题——正是 LS 的存在为 MNE 的缺乏创造了条件。LS 此前被视为主流教育创新，此后开始被质疑为造就了易于接受反政府动员的学生群体。
+> [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 将 MNE 争议定位为 LS 政治生态的关键转折点：MNE 争议后，亲中政治力量开始将 LS 重新框定为问题——正是 LS 的存在为 MNE 的缺乏创造了条件。LS 此前被视为主流教育创新，此后开始被质疑为造就了易于接受反政府动员的学生群体。
 >
 > > "The MNE controversy marked a turn in the political framing of LS: from an educational innovation to a space that, by not promoting national identity, was perceived as enabling anti-government mobilisation."（基于 Yan & Morris, 2025, p. 488）
 
 ## 后续影响
 
 > [!success] 后续影响
-> MNE 争议是 2012–2021 年间 [[Liberal Studies|LS]] 逐步被政治化为"国家安全威胁"的起点。此后每次重大社会运动（2014 年雨伞运动、2016 年旺角骚乱、2019 年[[2019 Hong Kong Protests|反修例运动]]）亲中力量均将 LS 定性为年轻人参与抗议的驱动因素，最终在 2019 年后直接导致 LS 被废除。
+> MNE 争议是 2012–2021 年间 LS 逐步被政治化为"国家安全威胁"的起点。此后每次重大社会运动（2014 年雨伞运动、2016 年旺角骚乱、2019 年[[2019 Hong Kong Protests|反修例运动]]）亲中力量均将 LS 定性为年轻人参与抗议的驱动因素，最终在 2019 年后直接导致 LS 被废除。
 

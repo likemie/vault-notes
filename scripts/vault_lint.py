@@ -1447,9 +1447,10 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
         if field not in data:
             issues.append(Issue("WARN", rel(path), f"template missing common field: {field}", code="TEMPLATE_FIELD_MISSING"))
 
-    for field in RELATED_FIELDS:
-        if field not in data:
-            issues.append(Issue("WARN", rel(path), f"template missing relation field: {field}", code="TEMPLATE_REL_MISSING"))
+    if typ != "template":
+        for field in RELATED_FIELDS:
+            if field not in data:
+                issues.append(Issue("WARN", rel(path), f"template missing relation field: {field}", code="TEMPLATE_REL_MISSING"))
 
     if typ == "argument":
         if "aliases" in data:

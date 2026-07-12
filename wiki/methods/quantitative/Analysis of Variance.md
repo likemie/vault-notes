@@ -10,7 +10,7 @@ summary: "比较两组或多组均值差异的推断统计方法族，包括ANOV
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Independent Variable]]"
+  - "[[Interaction Effect]]"
   - "[[Type I and Type II Errors]]"
 related_theories: []
 related_methods:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-07-13
 ---
 
 # Analysis of Variance (ANOVA)
@@ -67,7 +68,7 @@ updated: 2026-05-31
 > - **单因素 ANOVA（One-Way ANOVA）** 比较一个自[[Variable|变量]]（两个或多个水平）在一个[[Dependent Variable|因变量]]上的均值差异。使用 F 统计量。
 > - **[[Analysis of Covariance|ANCOVA]]（Analysis of Covariance）** 在 ANOVA 基础上加入一个或多个协变量，控制其影响后比较调整后的组间均值。
 > - **MANOVA（Multivariate Analysis of Variance）** 同时比较两个或多个因变量在组间的差异。
-> - **因子 ANOVA** 在[[Factorial Design|因子设计]]中检验多个[[Independent Variable|自变量]]的主效应和交互效应。
+> - **因子 ANOVA** 在[[Factorial Design|因子设计]]中检验多个[[Independent Variable|自变量]]的主效应和[[Interaction Effect|交互效应]]。
 > - vs [[t-test]] — ANOVA 可视为 t 检验在两组以上比较中的推广；两组比较时 ANOVA 的 F 值等于 t 值的平方。
 
 ## 适用场景

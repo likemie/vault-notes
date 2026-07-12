@@ -11,9 +11,9 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: 国务院及地方政府
 tags:
@@ -23,6 +23,7 @@ tags:
   - policy/school-consolidation
 related_concepts:
   - "[[School Choice]]"
+  - "[[Attrition]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # Rural School Consolidation
@@ -86,7 +87,7 @@ updated: 2026-07-12
 > [!warning] 政策的负面反馈与循环衰退
 > 撤并政策带来的生源和优秀师资的空前集中，直接导致了留在原地的乡村剩余学校陷入不可逆转的荒漠化恶性循环。[[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 311–312)]]
 > 
-> - **经费坠崖与设施残破** 按照在校生基数下拨的生源公用经费随着撤并而大幅流失，学校硬件设施面临损坏无力维修的尴尬境地。
+> - **经费坠崖与设施残破** 按照在校生基数下拨的生源公用经费随着撤并而大幅[[Attrition|流失]]，学校硬件设施面临损坏无力维修的尴尬境地。
 > - **骨干教师县城借调** 县城学校规模膨胀导致城里师资极度匮乏，县教育局通过借调、转任机制将乡镇和村小年轻、教学表现优秀的骨干师资大量调入城内，村小只剩下临近退休的高龄教师。
 > - **班级教学氛围窒息** 留守生源的家庭经济与学习基础均处于底层，班级学生锐减到个位数（如仅剩 5 人），导致小组学习与课堂讨论彻底瘫痪。
 > - **乡村社会空心化加剧** 学校是乡村公共生活的重要纽带，学校的撤并彻底斩断了村民的地域认同，带走了中上层富裕农户，导致乡村社会面临治理空心化。

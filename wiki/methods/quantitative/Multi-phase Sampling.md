@@ -7,9 +7,9 @@ summary: "各阶段目的不同的概率抽样方法，每个阶段基于不同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/sampling
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Progressive Focussing]]"
   - "[[Research Question]]"
   - "[[Research Purpose]]"
+  - "[[Attrition]]"
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-13
 ---
 # Multi-phase Sampling
 
@@ -66,7 +67,7 @@ updated: 2026-06-22
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **样本流失** 每阶段筛选都会减少[[Sample Size Determination|样本量]]，多阶段累积可能导致最终样本过小。
+> - **[[Attrition|样本流失]]** 每阶段筛选都会减少[[Sample Size Determination|样本量]]，多阶段累积可能导致最终样本过小。
 > - **推广性受限** 经多重筛选后的最终样本可能与原始总体差异较大。
 > - **与[[Stage Sampling|阶段抽样]]易混淆** 两者关键区别在于各阶段目的是否变化。
 

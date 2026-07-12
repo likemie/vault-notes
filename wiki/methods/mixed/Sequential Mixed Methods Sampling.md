@@ -7,15 +7,16 @@ summary: "一种样本先于另一种并影响后续样本的混合方法抽样�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/sampling
   - mixed-methods
 related_concepts:
   - "[[Variable]]"
+  - "[[Attrition]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-13
 ---
 # Sequential Mixed Methods Sampling
 
@@ -56,7 +57,7 @@ updated: 2026-06-22
 
 > [!method-fit] 适用判断
 > - **适合使用** 研究设计为两阶段推进、前一阶段的结果需要直接指导后一阶段的抽样。
-> - **谨慎使用** 时间线较长时需考虑参与者流失和情境变化。
+> - **谨慎使用** 时间线较长时需考虑参与者[[Attrition|流失]]和情境变化。
 > - **不适合使用** 两种数据需要同时收集以进行同一时间点的比较时——此时应使用[[Parallel Mixed Methods Sampling|平行混合方法抽样]]。
 
 ## 局限性

@@ -7,7 +7,7 @@ aliases:
 summary: "Clark Kerr（1963/2001）对美国现代综合性大学的描述，以研究、教学和公共服务三重使命同时服务多元利益相关者，其运转高度依赖财务资源和正向声誉的良性循环"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Analytic Framework]]"
+  - "[[Attrition]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
@@ -30,7 +31,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-07-13
 ---
 
 # Multi-University
@@ -62,7 +63,7 @@ updated: 2026-05-26
 
 - **三重使命** 研究（知识创造）、教学（人才培养）和公共服务（社会贡献），三者互为支撑而非独立运作（p.5）
 - **财务资源** 多元大学需要大量资金来支持其多重使命。在美国，联邦政府是大学研究的最大资助方（占比远超一半），产业资助通常只占大学研究总支出的不到 6%（[[National Science Foundation|NSF]], 2023）。企业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元）也只占其研究总支出的 20%（p.5）
-- **正向声誉** 声誉反映在媒体、排名、公众情绪和统计数据中。声誉提升可以形成良性循环（吸引更好的学生、优秀教职员工、捐赠和政府资金）；声誉下降——排名下滑、负面报道、不良体验——可能触发螺旋式下降，导致资源流失（pp.5–6）。产学互动与声誉之间形成正反馈循环：合作产生研究成果和毕业生 → 社会影响和声誉提升 → 吸引人才和政府资助 → 进一步推动合作（p.5）
+- **正向声誉** 声誉反映在媒体、排名、公众情绪和统计数据中。声誉提升可以形成良性循环（吸引更好的学生、优秀教职员工、捐赠和政府资金）；声誉下降——排名下滑、负面报道、不良体验——可能触发螺旋式下降，导致资源[[Attrition|流失]]（pp.5–6）。产学互动与声誉之间形成正反馈循环：合作产生研究成果和毕业生 → 社会影响和声誉提升 → 吸引人才和政府资助 → 进一步推动合作（p.5）
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "由 Ray Pawson 和 Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Positivism]]"
+  - "[[Interaction Effect]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Effect Size]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-19'
-updated: '2026-06-19'
+updated: 2026-07-13
 ---
 
 # Realist Evaluation
@@ -69,7 +70,7 @@ updated: '2026-06-19'
 > - **知识位置** 由[[Ray Pawson\|雷·波森]]（Ray Pawson）与尼克·蒂利（Nick Tilley, 1997, 2006）提出，其哲学根基为[[Roy Bhaskar\|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism\|批判实在论]]（Depth Realism）。
 
 > [!claim] 核心主张
-> 社会与教育干预不是机械的物理因果（即“注射式”干预），而是通过向受试者提供资源，并依赖受试者对这些资源的认知与行动推理（Reasoning）来发挥作用。因此，因果效应的产生是机制（Mechanism）与特定背景（Context）交互作用并导致特定结果（Outcome）的非线性过程。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])；另见波森（Ray Pawson）于 2006 年的著作。
+> 社会与教育干预不是机械的物理因果（即“注射式”干预），而是通过向受试者提供资源，并依赖受试者对这些资源的认知与行动推理（Reasoning）来发挥作用。因此，因果效应的产生是机制（Mechanism）与特定背景（Context）[[Interaction Effect|交互作用]]并导致特定结果（Outcome）的非线性过程。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])；另见波森（Ray Pawson）于 2006 年的著作。
 
 > [!citation-card]- 关键表述：推理与资源
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])

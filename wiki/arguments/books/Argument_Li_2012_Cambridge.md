@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 123
+argument_related_count: 124
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -111,6 +111,7 @@ related_concepts:
   - "[[Xiaokang]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Research Utilization]]"
+  - "[[Interaction Effect]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -157,7 +158,7 @@ sources:
 part_of: []
 status: draft
 created: 2026-05-21
-updated: 2026-07-10
+updated: 2026-07-13
 year: 2012
 doi: ""
 citation_aliases:
@@ -3409,7 +3410,7 @@ Li 并非主张东亚不应向西方学习。她的核心批评在于学习的�
 **发现二：安静在不同学校语境中截然相反的命运**。Yamamoto 与 [[Argument_Li_2012_Cambridge|Li (2012)]]研究了两种学校情境中的中国移民儿童：（1）亚裔为主的幼儿园（50%或以上亚裔教职工与儿童，常见于唐人街等族群聚居区）；（2）欧裔美国人为主的幼儿园（几乎没有亚裔教职工与儿童，常见于中产华人移民聚居的郊区）。
 
 > [!success]
-> 研究发现：无论社会经济地位、英语熟练度或教师的族群背景如何，中国移民儿童的教师的确认定他们比欧裔美国同龄人更不善于自我表达、更安静。但关键的交互作用是——在欧裔美国人为主的学校中，安静的华人儿童表现出更低的学习投入和更差的同伴关系；而在亚裔为主的学校中，安静不仅与任何负面结果无关，还与学校适应和学习投入呈正相关。相比之下，欧裔美国儿童的安静对其学习投入、学校适应和同伴关系没有任何影响(pp.346-347)。
+> 研究发现：无论社会经济地位、英语熟练度或教师的族群背景如何，中国移民儿童的教师的确认定他们比欧裔美国同龄人更不善于自我表达、更安静。但关键的[[Interaction Effect|交互作用]]是——在欧裔美国人为主的学校中，安静的华人儿童表现出更低的学习投入和更差的同伴关系；而在亚裔为主的学校中，安静不仅与任何负面结果无关，还与学校适应和学习投入呈正相关。相比之下，欧裔美国儿童的安静对其学习投入、学校适应和同伴关系没有任何影响(pp.346-347)。
 
 Li 对这一发现的解释直指核心文化冲突(pp.347-348)：
 

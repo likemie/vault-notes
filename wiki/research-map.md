@@ -21,7 +21,7 @@ related_methods:
   </div>
 
   <div class="research-map-stats" aria-label="Wiki 规模概览">
-    <a href="/wiki/concepts"><span>概念</span><strong>734</strong></a>
+    <a href="/wiki/concepts"><span>概念</span><strong>737</strong></a>
     <a href="/wiki/arguments"><span>论证</span><strong>174</strong></a>
     <a href="/wiki/facts"><span>事实</span><strong>274</strong></a>
     <a href="/wiki/persons"><span>人物</span><strong>175</strong></a>

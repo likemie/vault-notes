@@ -5,7 +5,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Government to Governance Shift]]"
+  - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-07-09
+updated: 2026-07-13
 ---
 
 # Policy Borrowing
@@ -275,7 +276,7 @@ updated: 2026-07-09
 
 > [!critique] 学术学理与方法论批判
 > - **书面文本偏见** 传统的政策借用研究过度局限于国家的官方书面政策文件，忽视了在“统治向治理转变”（[[Government to Governance Shift]]）中，非官方与去中心化网络中话语权力流转的微观机制。([[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]])
-> - **[[Methodological Nationalism|方法论国家主义]]（Methodological Nationalism）** 将主权国家预设为分析的自然与唯一单位，从而遮蔽了跨国资本、网络行动者在无边界空间中的流动，并掩盖了地缘支配的后殖民权力关系。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 421]])
+> - **[[Methodological Statism|方法论国家主义]]（[[Methodological Nationalism]]）** 将主权国家预设为分析的自然与唯一单位，从而遮蔽了跨国资本、网络行动者在无边界空间中的流动，并掩盖了地缘支配的后殖民权力关系。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 421]])
 > - **“形态变异”的归因模糊性** 在经验上很难清晰辨定，政策转移到本地后的形态变异究竟是决策者在引入阶段的“主动裁剪”（如 Cowen 的 Morphing 理论），还是在本土实施过程中“被动发生的情境适应”。([[Argument_Cowen_2009_CE|Cowen, 2009]])
 
 > [!warning] 适用局限

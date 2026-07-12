@@ -10,7 +10,7 @@ summary: "通过操纵处理条件、比较处理组与控制组的结果差异�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 42
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,7 +31,9 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Institutional Review Board]]"
   - "[[Internal Validity]]"
+  - "[[Interaction Effect]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Attrition]]"
   - "[[External Validity]]"
   - "[[Hypothesis]]"
   - "[[Construct Validity]]"
@@ -69,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-05-31
+updated: 2026-07-13
 ---
 
 # Experimental Research
@@ -128,12 +130,12 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - **前后测对照组设计（Pretest–Posttest Control-Group Design）** 两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
 > - **仅后测对照组设计（Posttest-Only Control-Group Design）** 控制前测的混淆效应，随机分配后仅实验组接受处理，两组均接受后测。Group A R——X—O / Group B R————O
 > - **Solomon 四组设计（[[Solomon Four-Group Design]]）** 2 × 2 因子设计的特例，四组分别在前测和处理上有所变化，全部接受后测，用于评估前测的影响。
-> - **[[Factorial Design]]** 同时操纵两个或多个自变量，检验主效应和交互效应（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **[[Factorial Design]]** 同时操纵两个或多个自变量，检验主效应和[[Interaction Effect|交互效应]]（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 效度威胁
 
 > [!warning]
-> 实验研究者需要识别并最小化以下[[Threats to Internal Validity|内部效度威胁]]：历史、成熟、回归均值、选择、流失、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁（因统计功效不足或违反统计[[Hypothesis|假设]]导致不准确推论）**和**[[Construct Validity|构念效度]]威胁**（变量定义和测量不当）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 实验研究者需要识别并最小化以下[[Threats to Internal Validity|内部效度威胁]]：历史、成熟、回归均值、选择、[[Attrition|流失]]、处理扩散、补偿性／怨恨性士气低落、补偿性竞争、测验和工具（详见表 8.5）。以及[[External Validity|外部效度]]威胁：选择与处理的交互、情境与处理的交互、历史与处理的交互（详见表 8.6）。此外还需考虑**统计结论效度威胁（因统计功效不足或违反统计[[Hypothesis|假设]]导致不准确推论）**和**[[Construct Validity|构念效度]]威胁**（变量定义和测量不当）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ### 实验操作步骤
 
@@ -195,7 +197,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - **真实验（True Experiment）** 受试者被[[Random Assignment|随机分配]]到处理条件中，[[Internal Validity|内部效度]]最高（Campbell & Stanley, 1963）。
 > - **准实验（Quasi-Experiment）** 使用非随机化分配，在无法随机化（如使用已有班级或学校）时使用。
 > - **[[Single-Subject Design|单受试者设计]]（Single-Subject Design）** 在时间维度上对单个个体或少数个体施加、撤销处理，观察行为变化（Cooper et al., 2007; Neuman & McCormick, 1995）。
-> - **[[Factorial Design|因子设计]]（Factorial Design）** 同时操纵多个处理[[Variable|变量]]及其交互效应。
+> - **[[Factorial Design|因子设计]]（Factorial Design）** 同时操纵多个处理[[Variable|变量]]及其[[Interaction Effect|交互效应]]。
 > - **[[Repeated Measures Design|重复测量设计]]（Repeated Measure Design）** 在不同时间点对同一组受试者重复测量，追踪处理效果的时间动态。
 > - **纵向数据收集** 在较长时间跨度内收集数据，考察思想和趋势的发展变化。
 > - [[Quasi-Experimental Designs]] — 更详细的准实验变体。

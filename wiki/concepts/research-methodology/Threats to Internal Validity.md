@@ -7,7 +7,7 @@ aliases:
 summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell 和 Stanley 经典框架列出十种主要威胁，Onwuegbuzie 和 Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,25 +24,30 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Causality]]"
   - "[[Type I and Type II Errors]]"
+  - "[[Attrition]]"
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
+  - "[[Sample Size Determination]]"
+  - "[[Statistical Significance]]"
+  - "[[Effect Size]]"
   - "[[Descriptive Validity]]"
   - "[[Hawthorne Effect]]"
-  - "[[Effect Size]]"
   - "[[Negative Case Analysis]]"
   - "[[Positivism]]"
 related_methods:
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-06-25
+updated: 2026-07-13
 ---
 # Threats to Internal Validity
 
@@ -75,7 +80,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 >   选择极端得分的受试者，其得分自然会随时间向均值回归。应对：选择入组特征非极端得分的受试者。
 > - **选择（Selection）**
 >   受试者因具有某些特征而倾向于产生特定结果。应对：随机选择受试者，使特征在各实验组中概率均等分布。
-> - **流失/研究减员（Mortality/Attrition）**
+> - **[[Attrition|流失]]/研究减员（Mortality/Attrition）**
 >   受试者因多种原因退出实验，其结果是未知的。应对：招募大样本以应对退出，或比较退出者与继续者的结果特征。
 > - **选择-成熟交互（Selection-maturation interaction）**
 >   实验组和对照组在成熟速度上不同，这种差异被误判为处理效应——是选择偏差与成熟效应的复合威胁。
@@ -126,6 +131,17 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > **工具（Instrumentation）** 写作教学实验中，前测由一位老师评分，后测由另一位评分标准更宽松的老师评分。后测"提高"可能纯粹是评分标准差异导致的，而非写作能力的真实提升。前后测使用相同的评分者和评分标准可以消除这一威胁。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 164–166)]]
+
+### 随机化实验中的额外威胁
+
+> [!factors] [[Randomised Controlled Trials|RCT]] 中的额外偏差来源（Torgerson & Torgerson, 2003b）
+> - **随机化的实践局限** 并非所有混淆[[Variable|变量]]都能在随机化过程中得到适当控制——随机化在理论上完美，但在实践中受限于[[Sample Size Determination|样本量]]和实施质量（Hammersley, 2008, p. 4; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 332]]）。
+> - **小样本的偶然失衡** 小样本中偶然因素可能导致严重失衡——例如 40 名学生中有 4 名阅读障碍者，全部四人随机落入同一组的概率不可忽略。可通过**最小化（minimisation）**策略应对（Torgerson & Torgerson, 2003b, p. 40）。
+> - **稀释偏差（Dilution Bias）** 控制组因未接触干预而主动寻求补偿性处理——例如在测试增加数学关注效果的实验中，控制组学生自行参加私人数学课程（p. 38）。
+> - **流失偏差（Attrition Bias）** 实验组部分学生退出——若只分析留守学生的结果会高估干预效果。参加自愿周六早间加强班的学生中，退出者本身动机水平可能较低（Torgerson & Torgerson, 2003a, pp. 74–75）。
+> - **颠覆偏差（Subversion Bias）** 研究者故意违反[[Random Assignment|随机分配]]要求——因此需要双盲实验或确保研究者不参与随机分配过程（p. 40）。
+> - **排除偏差（Exclusion Bias）** 实验组部分成员因流失之外的原因未实际参与实验——名义上仍在组内但从未接受干预。
+> - **大样本的显著性陷阱** 大样本量下[[Statistical Significance|统计显著性]]比较容易获得，因此应更重视[[Effect Size|效应量]]而非单纯的统计显著性——统计显著性是样本量的函数，效应量才反映实际意义的大小（Kline, 2004; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 334]]）。
 
 ---
 

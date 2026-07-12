@@ -7,7 +7,7 @@ aliases:
 summary: "研究计划中传达研究总体意图和目标的陈述，是连接研究问题与研究问题的核心环节，量化、质性和混合方法三种路径各有不同的写作模板和要素要求"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Interaction Effect]]"
   - "[[Competitiveness]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-07-13
 ---
 
 # Purpose Statement
@@ -151,7 +152,7 @@ updated: 2026-05-31
 > 本研究的目的是考察在美国选定州立成人矫正机构中任教的认证教育者个人特征与工作动机之间的关系 ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States." pp.4–5)。
 
 > [!example] [[Experimental Research|实验研究]]示例（Esposito et al., 2017）
-> 本研究基于行为经济学[[Hypothesis|假设]]，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的交互作用 ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
+> 本研究基于行为经济学[[Hypothesis|假设]]，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的[[Interaction Effect|交互作用]] ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
 
 > [!example] 量化目的陈述要素拆解：DeGraw (1984) 调查研究
 >

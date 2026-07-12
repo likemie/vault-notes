@@ -7,7 +7,7 @@ summary: "英国教育社会学家，教育政策语境理论与私有化分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Network Governance]]"
+  - "[[Attrition]]"
   - "[[Policy Network]]"
   - "[[Policy Entrepreneur]]"
   - "[[Research Scope]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: '2026-07-09'
+updated: 2026-07-13
 ---
 
 # Stephen Ball
@@ -73,7 +74,7 @@ updated: '2026-07-09'
 > 
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
-> | 概念 | [[Endogenous and Exogenous Privatisation\|内生与外生私有化]] | 区分了学校内部的企业化运营（内生）与将学校和教学服务外包给私营部门（外生）的两种趋势，成为分析教育私有化及公共性流失的奠基框架。 |
+> | 概念 | [[Endogenous and Exogenous Privatisation\|内生与外生私有化]] | 区分了学校内部的企业化运营（内生）与将学校和教学服务外包给私营部门（外生）的两种趋势，成为分析教育私有化及公共性[[Attrition\|流失]]的奠基框架。 |
 > | 概念 | [[Policy Network\|政策网络]] | 分析传统的科层与市场治理如何被非正式、跨国的政策[[Network Governance\|网络治理]]形态所补充与重塑。 |
 > | 概念 | [[Policy Entrepreneur\|政策创业者]] | 将其[[Research Scope\|研究范围]]扩展至跨国维度，指认在全球范围内游说并推销私有化、绩效化方案的全球政策行动者。 |
 > | 概念 | [[Network Governance\|网络治理]] | 提供了探究多中心、多利益相关者非正式网络教育治理变迁的[[Analytic Framework\|分析框架]]。 |
@@ -109,7 +110,7 @@ updated: '2026-07-09'
 > [!taxonomy] [[Endogenous and Exogenous Privatisation|内生与外生私有化]]（Privatisation in Education）
 > 私有化并不等于简单的倒闭或售卖，而是分为：
 > - **内生私有化** 公立学校在内部运作中模仿企业（引入内部竞争、绩效评估和指标考核）。
-> - **外生私有化** 引入外部私营资本和公司直接介入学校建设与教学服务的交付。这构成了公立教育公共性流失的合力。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 4]])
+> - **外生私有化** 引入外部私营资本和公司直接介入学校建设与教学服务的交付。这构成了公立教育公共性[[Attrition|流失]]的合力。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 4]])
 
 > [!phase] 教育社会学史中的治理目光（Gazes and [[Governmentality]]）
 > 教育社会学史的研究目光经历了[[Political Arithmetic|政治算术]]（关注分配不平等）到[[New Sociology of Education|新教育社会学]]（关注课堂知识），再到[[School Effectiveness|学校效能]]（School Effectiveness）的转向。学校效能把复杂的学校重构为一种可测量、可比较和可审计的技术化存在，从而与国家的绩效化管理主义相契合。 ([[Argument_Ball_2008_SR|Ball, 2008, pp. 650-665]])

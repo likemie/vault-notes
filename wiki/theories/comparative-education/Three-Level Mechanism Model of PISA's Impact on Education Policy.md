@@ -6,7 +6,7 @@ aliases:
 summary: "Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育政策的影响机制分为超国家、国家层面和内部行动者网络三个层级，强调全球教育场域中的双向互动"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Interaction Effect]]"
   - "[[Policy Network]]"
   - "[[Variable]]"
   - "[[Champ]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-07-13
 ---
 
 # Three-Level Mechanism Model of PISA's Impact on Education Policy
@@ -63,7 +64,7 @@ updated: 2026-07-05
 > - **知识位置** 基于对 85 篇 PISA 政策影响实证研究的[[Systematic Review|系统综述]]，Li, Xue & Guo（2025）整合了议程设置理论、[[Actor-Network Theory|行动者网络理论]]和体用框架等多元理论资源，构建了这一综合模型。
 
 > [!claim] 核心主张
-> PISA 对各国教育政策的影响并非从 [[OECD]] 到国家的线性传递，而是在超国家组织（OECD 的软治理与[[Reference Society|模范社会]]塑造）、国家层面（[[Policy Borrowing|政策借用]]、自我认知落差与文化传统[[Transfer Translation Transformation|转译]]）和内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）三层机制的交互作用下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> PISA 对各国教育政策的影响并非从 [[OECD]] 到国家的线性传递，而是在超国家组织（OECD 的软治理与[[Reference Society|模范社会]]塑造）、国家层面（[[Policy Borrowing|政策借用]]、自我认知落差与文化传统[[Transfer Translation Transformation|转译]]）和内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）三层机制的[[Interaction Effect|交互作用]]下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 > [!citation-card]- [[Argument_Li_2025_HSSC|Li et al. (2025)]]
 > "The specific mechanism of the impact of PISA-related education policies is driven by the international political background established by the supranational OECD, the policy borrowing behavior from model societies at the nation-state level, and the effective information translation of internal actor networks."
@@ -127,7 +128,7 @@ updated: 2026-07-05
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于组织跨国比较研究——将不同国家对 PISA 的政策回应置于同一三层[[Analytic Framework|分析框架]]下进行系统比较，以识别影响强度和方向的层级间交互模式。
-> - **作为分析工具** 将每个案例分解为超国家影响、国家层级触发条件和内部行动者[[Transfer Translation Transformation|转译]]三个维度，追踪各维度在不同时间段中的变化及其交互效应。
+> - **作为分析工具** 将每个案例分解为超国家影响、国家层级触发条件和内部行动者[[Transfer Translation Transformation|转译]]三个维度，追踪各维度在不同时间段中的变化及其[[Interaction Effect|交互效应]]。
 > - **作为批判视角** 揭示"PISA 驱动教育改革"叙事的内在限度——改革效果并非由 PISA 自动产生，而是取决于各层级机制在具体情境中的生效条件。
 > - **报告方式** 按三层分别呈现证据，然后在综合讨论中分析层级间的交互关系和涌现效应。
 
@@ -147,7 +148,7 @@ updated: 2026-07-05
 
 > [!dev-timeline] 发展脉络
 > - **2025 — [[Systematic Review|系统综述]]的构建** Li, Xue & Guo 在对 85 篇 [[PISA]] 政策影响实证研究的系统综述中整合多元理论资源（议程设置理论、[[Actor-Network Theory|行动者网络理论]]、体用框架），提出三个[[Central Question|核心研究问题]]并构建该模型。模型明确区分了 PISA 影响教育政策的质量和公平两个核心维度。
-> - **待发展 — 实证检验与细化** 该模型作为系统综述的综合产物，尚需具体的跨国比较实证研究来检验各层级机制的交互效应和边界条件。
+> - **待发展 — 实证检验与细化** 该模型作为系统综述的综合产物，尚需具体的跨国比较实证研究来检验各层级机制的[[Interaction Effect|交互效应]]和边界条件。
 
 ---
 

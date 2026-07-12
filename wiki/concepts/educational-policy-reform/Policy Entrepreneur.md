@@ -6,7 +6,7 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和全球远处治理。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Visible Learning]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Attrition]]"
   - "[[Educational Management Organisation]]"
   - "[[Variable]]"
   - "[[Rationalism in International Relations]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: '2026-07-09'
+updated: 2026-07-13
 ---
 
 # Policy Entrepreneur
@@ -168,7 +169,7 @@ updated: '2026-07-09'
 
 > [!critique] 外部批评
 > - **公共利益的非民主蚕食** 批评者指出，政策企业家由于不具备民主选举的政治代表性，其通过个人化的契约网络影响政策制定，在事实上蚕食了公立教育的公共治理基础，损害了公共决策过程的民主参与度和透明度。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 82]])
-> - **教育价值榨取与资本流失** 外部财务审计表明，许多慈善性或混合性的[[Educational Management Organisation|教育管理组织]]（EMOs），以政策创业提供“最佳服务”为名，从公立教育系统中吸纳的合同金与咨询费，远远超过其通过慈善捐赠或直接服务返还给公立学校的价值，造成了公立体系向私人资本的净价值流失。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. xv]])
+> - **教育价值榨取与资本[[Attrition|流失]]** 外部财务审计表明，许多慈善性或混合性的[[Educational Management Organisation|教育管理组织]]（EMOs），以政策创业提供“最佳服务”为名，从公立教育系统中吸纳的合同金与咨询费，远远超过其通过慈善捐赠或直接服务返还给公立学校的价值，造成了公立体系向私人资本的净价值流失。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. xv]])
 
 > [!warning] 适用局限
 > 政策企业家的解释力依赖于国家治理向“[[Snowball Sampling|网络化]]”或“管理的教育市场”倾斜的制度安排；在强力中央控制或科层制行政命令绝对主导的刚性体系下，政策企业家的活动空间受限。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. xv]])

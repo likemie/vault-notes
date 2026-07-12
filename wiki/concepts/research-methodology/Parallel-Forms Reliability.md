@@ -9,7 +9,7 @@ aliases:
 summary: "使用相似测量工具评估同一构念时所得结果的一致性程度，属于跨形式之间一致性的等值系数"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[Operationalization]]"
+  - "[[Order Effects]]"
   - "[[Test-Retest Reliability]]"
   - "[[Construct]]"
   - "[[Internal Consistency]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-07-13
 ---
 
 # Parallel-Forms Reliability
@@ -47,7 +48,7 @@ updated: 2026-06-26
 
 > [!concept-lens] 概念透镜
 > - **含义** 复本信度是[[Reliability|信度]]作为**等值性（equivalence）**的[[Operationalization|操作化]]形式——衡量不同但等价工具之间分数的一致性，属于"跨形式之间一致性的等值系数"。
-> - **用途** 在需要避免练习效应的重复测量场景中（如前后测实验设计），使用两套平行版本替代同一工具重复施测。实验中的前测和后测预设了这种信度。
+> - **用途** 在需要避免[[Order Effects|练习效应]]的重复测量场景中（如前后测实验设计），使用两套平行版本替代同一工具重复施测。实验中的前测和后测预设了这种信度。
 > - **边界** 复本信度不同于[[Test-Retest Reliability|重测信度]]——重测是同一工具跨时间，复本是不同工具跨形式。它要求不同测量工具在测试目标和结构上高度一致，否则计算缺乏科学性。
 
 ---

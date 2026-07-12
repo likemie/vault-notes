@@ -8,7 +8,7 @@ aliases:
 summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化的概念，描述绩效拨款和排名如何使资源向已有资源的机构进一步集中，形成评估-拨款-资源累积的自我强化循环"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Quasi-markets in Higher Education]]"
   - "[[Non-monetary Competition]]"
+  - "[[Attrition]]"
   - "[[Return on Investment]]"
 related_theories: []
 related_methods: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-07-13
 ---
 
 # Matthew Effect in Academia
@@ -63,7 +64,7 @@ updated: 2026-06-01
 
 ### 评估-拨款循环
 
-一所大学在 [[Research Excellence Framework]]（REF） 或类似评估中获得高分 → 获得更多 Quality-Related（QR）研究拨款 → 用拨款招聘更多高水平研究者、建设更好设施 → 产出更多高质量研究 → 在下一次评估中获得更高分。未被选中的大学经历相反循环：低分 → 拨款削减 → 人才流失 → 产出下降 → 更低的评分。评估制度将一次性的资源差异转化为持续累积的结构性差距。
+一所大学在 [[Research Excellence Framework]]（REF） 或类似评估中获得高分 → 获得更多 Quality-Related（QR）研究拨款 → 用拨款招聘更多高水平研究者、建设更好设施 → 产出更多高质量研究 → 在下一次评估中获得更高分。未被选中的大学经历相反循环：低分 → 拨款削减 → 人才[[Attrition|流失]] → 产出下降 → 更低的评分。评估制度将一次性的资源差异转化为持续累积的结构性差距。
 
 ### 排名-声誉循环
 

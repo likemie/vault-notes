@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 113
+related_count: 114
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Falsification]]"
   - "[[Study Population and Sample]]"
+  - "[[Interaction Effect]]"
   - "[[Causality]]"
   - "[[Feedback]]"
   - "[[Statistical Significance]]"
@@ -139,7 +140,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-07-13
 ---
 
 # Critiques of Visible Learning
@@ -523,7 +524,7 @@ Wecker 等人展示了正确加权如何改变效应量估计：
 > | (6) 标准误 / CI / 显著性检验 | 计算联合 $SE_d = \sqrt{1/\sum_j w_j}$；报告 $95\%$ $CI$；进行显著性检验 | 不报告 $CI$ 或显著性检验；标准误计算错误；附录 A 信息不足以让读者自行计算 |
 
 > [!critique] 外部批判：五项方法论质疑
-> - **调节变量的不可考虑性** 方法论上无法将调节变量纳入二级分析，但调节效应在一级研究中已有记录，被平均化抹去
+> - **调节变量的不可考虑性** 方法论上无法将调节变量纳入二级分析，但[[Interaction Effect|调节效应]]在一级研究中已有记录，被平均化抹去
 >
 > - **固定效应模型的适当性** 在一级和二级层面均违反固定效应模型假设，导致标准误被系统性低估
 >

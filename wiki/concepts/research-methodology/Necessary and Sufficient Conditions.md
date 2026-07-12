@@ -10,7 +10,7 @@ aliases:
 summary: "因果分析中区分因果条件类型的逻辑工具：必要条件是不可缺少的前提，充分条件是单独足以产生效果的条件"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Compound Causes]]"
+  - "[[Interaction Effect]]"
   - "[[Variable]]"
 related_theories: []
 related_methods: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-07-13
 ---
 
 # Necessary and Sufficient Conditions
@@ -51,7 +52,7 @@ updated: 2026-06-17
 > - **必要条件** "没有 X 就没有 Y"。如：没有氧气，火柴不会燃烧——氧气是燃烧的必要条件。
 > - **充分条件** "有 X 就有 Y"。如：火柴划过粗糙表面足够使其点燃——但这不是必要条件，其他点火方式也能达到同样效果。
 > - **[[Compound Causes|复合原因]]（compound causes）** 某些原因只有共同作用时才施加[[Causality|因果]]力——它们不是独立充分也不是独立必要的，而是组合在一起才构成充分条件。
-> - **交互效应（interaction effects）** 原因之间可能相互增强或削弱，改变彼此在因果组合中的相对强度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
+> - **[[Interaction Effect|交互效应]]（interaction effects）** 原因之间可能相互增强或削弱，改变彼此在因果组合中的相对强度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 56–57]]）。
 
 ## 概念辨析
 

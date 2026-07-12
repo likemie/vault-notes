@@ -9,7 +9,7 @@ summary: "在单一时间点对总体进行快照式描述的调查研究设计�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Sampling Frame]]"
   - "[[International Education]]"
   - "[[Variable]]"
+  - "[[Attrition]]"
 related_methods:
   - "[[Random Sampling]]"
   - "[[Longitudinal Study]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 
 # Cross-sectional Study
@@ -93,7 +94,7 @@ updated: 2026-07-11
 > | [[Causality\|因果推断]] | 不适合 | 适合 |
 > | 个体变化 | 无法追踪 | 可以追踪 |
 > | 成本 | 较低 | 较高 |
-> | 样本流失 | 无此问题 | 面临流失风险 |
+> | [[Attrition\|样本流失]] | 无此问题 | 面临流失风险 |
 > | 控制效应 | 无 | 可能存在 |
 
 ## 优势与局限

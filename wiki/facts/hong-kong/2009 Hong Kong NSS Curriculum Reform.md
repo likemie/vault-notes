@@ -11,7 +11,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Liberal Studies]]"
   - "[[International Baccalaureate]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-07'
-updated: '2026-06-07'
+updated: 2026-07-13
 ---
 
 ## 背景
@@ -56,7 +55,7 @@ updated: '2026-06-07'
 > [!abstract] 核心内容
 > 改革将英式 3+2+2+3 学制（三年初中、两年高中、两年大学预科、三年大学）转为 3+3+4 学制（三年初中、三年高中、四年大学）。所有学生接受六年中学教育，统一参加香港中学文凭考试（Hong Kong Diploma of Secondary Education, HKDSE），取代此前的两套入学考试制度。
 >
-> 通识教育科（[[Liberal Studies|LS]]）被设计为新高中课程的核心必修科，旨在培养[[Critical Thinking|批判性思维]]、沟通能力和[[Lifelong Learning|终身学习]]技能，回应教育体制长期存在的过度依赖教科书和[[Rote Learning|死记硬背]]的问题([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 484–485]])。
+> 通识教育科（LS）被设计为新高中课程的核心必修科，旨在培养[[Critical Thinking|批判性思维]]、沟通能力和[[Lifelong Learning|终身学习]]技能，回应教育体制长期存在的过度依赖教科书和[[Rote Learning|死记硬背]]的问题([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 484–485]])。
 
 ---
 
@@ -68,7 +67,7 @@ updated: '2026-06-07'
 > - **2001** — 课程发展议会发布《学会学习：终身学习与全人发展》
 > - **2005** — 教统局发布《新学制行动计划》，确立 3+3+4 学制框架
 > - **2007** — 课程发展议会与香港考试及评核局联合发布《通识教育科课程及评估指引》
-> - **2009 年 9 月** — NSS 课程正式实施，[[Liberal Studies|LS]] 成为必修科
+> - **2009 年 9 月** — NSS 课程正式实施，LS 成为必修科
 
 ---
 
@@ -77,7 +76,7 @@ updated: '2026-06-07'
 > [!example] 结构性影响
 > **学制统一**。旧学制下存在两套大学入学考试：中文大学接受中六毕业生的高等程度会考，香港大学和其他院校则要求中七毕业生的高级程度会考。新学制统一为 HKDSE，消除了制度碎片化([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 484–485]])。
 >
-> **"过剩教师"问题**。学制改革导致原来的大学预科选修科目被取消或重组，教授这些科目（经济及公共事务、政府与公共行政、社会教育、综合人文、科学与技术）的教师面临失业风险。[[Liberal Studies|LS]] 的设计恰好可以吸收这批教师，因为 LS 没有单一学科基础、不需要学科专业训练，教育当局通过短期工作坊培训即可。许多原本教授被取消选修科的教师通过转教 LS 保留了职位（Yan, 2021, 引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]]）。
+> **"过剩教师"问题**。学制改革导致原来的大学预科选修科目被取消或重组，教授这些科目（经济及公共事务、政府与公共行政、社会教育、综合人文、科学与技术）的教师面临失业风险。LS 的设计恰好可以吸收这批教师，因为 LS 没有单一学科基础、不需要学科专业训练，教育当局通过短期工作坊培训即可。许多原本教授被取消选修科的教师通过转教 LS 保留了职位（Yan, 2021, 引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]]）。
 >
 > **课程参照**。LS 的设计大量参照了[[International Baccalaureate|国际文凭]]大学预科课程（[[IB Diploma Programme|IBDP]]），包括其他学习经历（对应 CAS）、[[Theory of Knowledge|知识论]]（对应 TOK）和独立专题探究（对应延伸论文）。港府还邀请剑桥大学 Mary James 教授担任课程发展议会海外委员，为改革提供国际背书([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])。
 
@@ -93,7 +92,7 @@ updated: '2026-06-07'
 ## 争议与评论
 
 > [!warning] 改革的后续逆转
-> NSS 改革引入的 [[Liberal Studies|LS]] 于 2021 年被[[Citizenship and Social Development|公民与社会发展科]]（CSD）取代。LS 的废除并非教育专业评估的结果（2020 年课程检讨报告仍建议保留 LS），而是《国安法》颁布后"国家安全"政治逻辑对教育逻辑的直接替代([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 489–490]])。
+> NSS 改革引入的 LS 于 2021 年被[[Citizenship and Social Development|公民与社会发展科]]（CSD）取代。LS 的废除并非教育专业评估的结果（2020 年课程检讨报告仍建议保留 LS），而是《国安法》颁布后"国家安全"政治逻辑对教育逻辑的直接替代([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 489–490]])。
 
 ---
 

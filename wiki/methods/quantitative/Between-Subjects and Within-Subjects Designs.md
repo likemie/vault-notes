@@ -8,9 +8,9 @@ summary: "实验设计的两种基本类型，between-subjects 每位受试者�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
+  - "[[Order Effects]]"
 related_theories: []
 related_methods:
   - "[[Repeated Measures Design]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-07-13
 ---
 
 # Between-Subjects and Within-Subjects Designs
@@ -67,7 +68,7 @@ updated: 2026-05-31
 
 > [!warning]
 > - 受试者间设计需要更大的[[Sample Size Determination|样本量]]（每组都需要足够的受试者），且可能受组间个体差异的干扰。
-> - [[Repeated Measures Design|受试者内设计]]容易受顺序效应（order effects）、疲劳效应和练习效应的影响，需要通过对冲（counterbalancing）来控制。
+> - [[Repeated Measures Design|受试者内设计]]容易受[[Order Effects|顺序效应]]（order effects）、疲劳效应和练习效应的影响，需要通过对冲（counterbalancing）来控制。
 > - 混合设计的统计分析和解释比单一类型的[[Variable|变量]]设计更复杂（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 方法变体与相近方法

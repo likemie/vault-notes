@@ -7,7 +7,7 @@ aliases:
 summary: "在量化研究中限制研究发现从样本推广到更广泛总体、情境和时间的系统性偏差来源，Campbell 和 Stanley 经典框架列出九种量化威胁，Lincoln 和 Guba 将其扩展至自然主义研究中的四种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Dependent Variable]]"
   - "[[Operationalization]]"
+  - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
   - "[[Class Size]]"
   - "[[Construct]]"
@@ -49,9 +50,10 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-07-13
 ---
 # Threats to External Validity
 
@@ -83,9 +85,9 @@ updated: 2026-06-23
 > - **[[Hawthorne Effect|霍桑效应]]** 受试者因意识到被研究而改变行为——他们的行为不再是自然行为。医学研究长期用安慰剂和双盲设计应对，在教育研究中同样威胁着处理效度的可推广性
 > - **[[Dependent Variable|因变量]][[Operationalization|操作化]]不充分** 操作化必须在非研究情境中也具有效度。例如职业选择的纸笔问卷在大学生实际就业决策方面可能几乎没有效度——操作化和真实世界之间存在鸿沟
 > - **对实验条件的敏感化/反应性** 前测可能改变受试者对干预变量的敏感性——后测表现反映的可能是对前测的记忆，而非干预的真实效果
-> - **外来因素与实验处理的交互效应** 多种混淆因素与处理之间的交互作用
+> - **外来因素与实验处理的[[Interaction Effect|交互效应]]** 多种混淆因素与处理之间的交互作用
 > - **工具的无效或不可靠** 使用产生不可信数据的工具
-> - **[[Ecological Validity|生态效度]]** 在一个情境中观察到的行为能否推广到另一个情境？Hammersley & Atkinson (1983: 10) 评论了从实验条件或访谈中获得的推论与日常生活之间关系的严重问题
+> - **[[Ecological Validity|生态效度]]** 在一个情境中观察到的行为能否推广到另一个情境？Hammersley & Atkinson (1983: 10) 评论了从实验条件或访谈中获得的推论与日常生活之间关系的严重问题。Hammersley (2008, p. 4) 进一步指出：控制变量的实验室试验在原则上就歪曲了教室的真实世界——在高度控制下发现的效应，可能不适用于变量控制弱得多的真实情境（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 332]]）
 > - **多重处理效度** 同时或依次施加多种处理可能导致处理间交互效应，难以隔离特定处理的效果
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 168–171)]]

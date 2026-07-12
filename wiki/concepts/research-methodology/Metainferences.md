@@ -9,7 +9,7 @@ aliases:
 summary: "混合方法研究中研究者从联合展示分析中得出的整合性洞察，过程是先分别得出量化推论和质性推论，再基于两者的组合得出超越单一数据类型的额外推论"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Construct Validity]]"
+  - "[[Order Effects]]"
   - "[[Data Transformation]]"
   - "[[Reliability]]"
 related_methods:
@@ -36,7 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-02
-updated: 2026-07-08
+updated: 2026-07-13
 ---
 # Metainferences
 
@@ -107,7 +108,7 @@ Onwuegbuzie & Johnson (2006) 在[[Mixed Methods Research|混合方法研究]]中
 
 > [!dimension] 与元推断相关的合法化维度
 > - **顺序合法化（Sequential legitimation）**
->   在多大程度上能最小化数据收集和分析产生的元推断的**顺序效应**——量化-质性还是质性-量化的顺序是否影响了元推断？如果对调顺序后元推断的解释力不受削弱，则顺序合法化程度高。
+>   在多大程度上能最小化数据收集和分析产生的元推断的**[[Order Effects|顺序效应]]**——量化-质性还是质性-量化的顺序是否影响了元推断？如果对调顺序后元推断的解释力不受削弱，则顺序合法化程度高。
 > - **转换合法化（Conversion legitimation）**
 >   将数值数据**质化（[[Data Transformation|qualitizing]]）**或将质性数据**量化（quantitizing）**在多大程度上有助于产出稳健的元推断——转换过程的质量直接影响元推断的可[[Reliability|信度]]。
 > - **政治合法化（Political legitimation）**

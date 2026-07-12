@@ -11,7 +11,7 @@ summary: "关注因素而非人群、在不同时间点抽取不同样本但聚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Study Population and Sample]]"
+  - "[[Attrition]]"
   - "[[Sampling Error]]"
   - "[[Ecological Fallacy]]"
   - "[[Hypothesis]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 
 # Trend Study
@@ -127,7 +128,7 @@ updated: 2026-07-11
 > | 样本 | 每轮不同 | 选择性抽样，部分成员可能轮换 | 每轮完全相同 |
 > | 个体层面分析 | 不能 | 有限 | 能够 |
 > | [[Pre-test Sensitisation\|预试敏感化]] | 避免 | 可能存在 | 可能存在 |
-> | 样本流失 | 无此问题 | 存在 | 严重 |
+> | [[Attrition\|样本流失]] | 无此问题 | 存在 | 严重 |
 > | 适用场景 | 宏观趋势、敏感议题、教育监测 | 发展研究、[[Causality\|因果]]分析 | 精细的个体变化追踪 |
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-07-11
 > - **适合敏感议题研究** 无需担心早期提问改变后续行为。
 > - **成本低于面板或[[Cohort Study|队列研究]]** 不追踪相同个体，无需维护长期面板。
 > - **对教育规划者和政策制定者具有直接实践价值** 短期预测相对准确。
-> - **无样本流失问题** 每轮独立抽样，不受上一轮流失影响。
+> - **无[[Attrition|样本流失]]问题** 每轮独立抽样，不受上一轮流失影响。
 
 > [!weakness] 局限
 > - **不能进行个体层面分析** 这一点在纵向分析中是优势，但趋势研究的聚合本质使其无法回答关于个体变化的问题（p.271）。

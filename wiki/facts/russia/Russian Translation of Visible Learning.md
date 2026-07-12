@@ -9,7 +9,7 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Document]]"
   - "[[Critical Thinking]]"
+  - "[[Attrition]]"
   - "[[Policy Borrowing]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-07-13
 ---
 ## 背景
 
@@ -73,7 +74,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与评论
 > - **俄语支持阵营（Borisenko, Vachkov, Sokolova）**[[Visible Learning|VL]] 为教师效能提供了科学基础，与 FSES 标准一致
-> - **俄语批评阵营（Golovchin）** VL 的方法论基础不可靠、文化不适配、可能加剧教师流失
+> - **俄语批评阵营（Golovchin）** VL 的方法论基础不可靠、文化不适配、可能加剧教师[[Attrition|流失]]
 > - **西方批评阵营（Snook et al., Terhart, Myburgh, McKnight & Whitburn）** 方法论缺陷（异构数据、"苹果与橘子"比较、d=0.40 阈值任意）和文化政治问题（新自由主义监控、能力主义、性别歧视）
 
 ## 相关概念／政策

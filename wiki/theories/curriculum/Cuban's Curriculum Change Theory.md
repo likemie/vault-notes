@@ -32,16 +32,16 @@ related_methods:
 related_persons:
   - "[[John Dewey]]"
 related_facts:
-  - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
   - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
+  - "[[Liberal Studies]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-06-02'
+updated: 2026-07-13
 ---
 
 ## 核心主张
@@ -60,7 +60,7 @@ updated: '2026-06-02'
 
 
 > [!abstract] 1. [[Progressive Education|进步教育]]运动
-> 以学生参与和[[Constructivist Paradigm|建构主义]]学习观为核心的进步教育运动在全球传播，被广泛推广为各国课程改革的核心方向。在 [[Liberal Studies|LS]] 案例中，这是创立阶段的主要论述资源。
+> 以学生参与和[[Constructivist Paradigm|建构主义]]学习观为核心的进步教育运动在全球传播，被广泛推广为各国课程改革的核心方向。在 LS 案例中，这是创立阶段的主要论述资源。
 >
 > > 例：[[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 486–487)]] 记录了 LS 创立阶段教育文件中对**以学生为中心**、**跨学科探究**、**[[Critical Thinking|批判性思维]]**、**独立专题探究（IES）**的反复强调——这些措辞直接源自进步教育运动的全球话语，并通过 [[IB Diploma Programme|IBDP]] 的课程框架（Extended Essay、[[Theory of Knowledge]]）获得具体形式。然而，当 LS 在 2021 年被 [[Citizenship and Social Development|CSD]] 取代时，这些进步教育话语被爱国守法、国家认同等国家安全话语完全覆盖——说明进步教育运动作为课程变革驱动力在高压政治语境下的脆弱性。
 
@@ -85,7 +85,7 @@ updated: '2026-06-02'
 > [!note-] 发展脉络
 > - **1992** — Cuban 在 AERA 课程研究手册中提出此框架，基于对美国课程变革的历史分析
 > - **2007** — Kan, Vickers & Morris 将此框架应用于香港中国历史科的课程变革，发现教师专业团体（科目协会）在美国和香港均扮演关键角色
-> - **2025** — Yan & Morris 将 Cuban 框架应用于 [[Liberal Studies|LS]] 案例，发现其部分因素在阐释力上存在显著变化——特别是协商与妥协在香港的后 2019 语境中完全消失
+> - **2025** — Yan & Morris 将 Cuban 框架应用于 LS 案例，发现其部分因素在阐释力上存在显著变化——特别是协商与妥协在香港的后 2019 语境中完全消失
 
 ## 在香港 LS 案例中的体现
 
@@ -113,7 +113,7 @@ updated: '2026-06-02'
 >
 > **各方立场**
 > - **批评立场** 在高度中央集权的教育体系中（如中国香港的后 2019 语境），政府可以直接通过法律和行政命令推行课程变革，而无需与独立利益团体协商。Cuban 框架中的多力量博弈前提在这些体系中可能完全不存在。
-> - **[[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 481)]] 的回应** 承认这一局限，但有意将其应用于香港的中央集权体系——目的不是验证框架的普遍性，而是**检验其解释力的边界**。研究发现：框架在 [[Liberal Studies|LS]] 创立阶段（存在多方协商）仍有解释力，但在废除阶段（国家安全成为命令逻辑、协商机制被关闭）框架的某些因素完全消失——这一失效本身就具有分析价值，揭示了政治语境变化如何改变课程变革的动力机制。
+> - **[[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 481)]] 的回应** 承认这一局限，但有意将其应用于香港的中央集权体系——目的不是验证框架的普遍性，而是**检验其解释力的边界**。研究发现：框架在 LS 创立阶段（存在多方协商）仍有解释力，但在废除阶段（国家安全成为命令逻辑、协商机制被关闭）框架的某些因素完全消失——这一失效本身就具有分析价值，揭示了政治语境变化如何改变课程变革的动力机制。
 >
 > **目前状态**[[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 的发现建议将 Cuban 框架视为**条件性框架（contextual framework）**而非普适模型——其解释力取决于政治体系的开放程度和公民社会的活动空间。
 
@@ -132,7 +132,7 @@ updated: '2026-06-02'
 ## 相关研究
 
 > [!example] 相关研究
-> - [[Argument_Yan_2025_JCS]] — 将 Cuban 框架应用于 [[Liberal Studies|LS]] 案例，揭示框架的条件性和因素权重的动态变化
+> - [[Argument_Yan_2025_JCS]] — 将 Cuban 框架应用于 LS 案例，揭示框架的条件性和因素权重的动态变化
 > - Kan, Vickers & Morris (2007) — 使用 Cuban 框架分析香港中国历史科的课程政治
 
 ## 应用领域

@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/comparative-education/Geometries of Insertion.md",
+                "file": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Geometries of Insertion 的反向链接列表"
+              "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16 的反向链接列表"
             }
           },
           {
@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/concepts/research-methodology/Internal Validity.md",
+                "file": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Internal Validity 的出链列表"
+              "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16 的出链列表"
             }
           },
           {
@@ -173,20 +173,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/concepts/research-methodology/Internal Validity.md",
+                "file": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Internal Validity 的大纲"
+              "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 282.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -208,11 +209,32 @@
   },
   "active": "0ec4b7749d7a06eb",
   "lastOpenFiles": [
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Vickers_2024_CE.md",
+    "wiki/concepts/research-methodology/Order Effects.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Vickers_2024_CE.md",
+    "wiki/concepts/research-methodology/Attrition.md",
+    "wiki/concepts/political-economy-geopolitics/Schmittian Sovereignty.md",
+    "wiki/facts/hong-kong/My Pledge to Act.md",
+    "wiki/concepts/research-methodology/Interaction Effect.md",
+    "wiki/facts/hong-kong/Youth Development Blueprint.md",
+    "wiki/methods/quantitative/Solomon Four-Group Design.md",
+    "wiki/concepts/research-methodology/Ecological Validity.md",
+    "wiki/concepts/political-economy-geopolitics/Culturalisation of Politics.md",
+    "wiki/methods/qualitative/Comparative Textbook Analysis.md",
+    "wiki/methods/quantitative/Longitudinal Study.md",
+    "wiki/concepts/research-methodology/Threats to External Validity.md",
+    "wiki/methods/quantitative/Matching.md",
+    "wiki/concepts/political-economy-geopolitics/Psychologisation.md",
+    "wiki/concepts/political-economy-geopolitics/One Country, Two Systems.md",
+    "wiki/methods/quantitative/Random Sampling.md",
+    "wiki/theories/educational-philosophy/Complexity Theory.md",
+    "wiki/concepts/research-methodology/Threats to Internal Validity.md",
+    "wiki/concepts/research-methodology/Blinding.md",
+    "wiki/methods/quantitative/Random Assignment.md",
+    "wiki/concepts/research-methodology/Hawthorne Effect.md",
+    "wiki/facts/hong-kong/Liberal Studies.md",
+    "wiki/concepts/research-methodology/Fundamental Problem of Causal Inference.md",
     "wiki/concepts/research-methodology/Dependent Variable.md",
-    "wiki/concepts/research-methodology/Independent Variable.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15.md",
     "scratch/fix_readability.py",
     "scratch/fix_style_numbers.py",
     "scratch/fix_duplicates_table.py",
@@ -221,29 +243,8 @@
     "scratch/update_argument.py",
     "scratch/vickers_text.txt",
     "scratch/extract_vickers.py",
-    "wiki/methods/quantitative/Internet-Based Experiments.md",
-    "wiki/methods/mixed/Design-Based Research.md",
-    "wiki/methods/quantitative/Repeated Measures Design.md",
-    "wiki/methods/quantitative/Matched Pairs Design.md",
-    "wiki/methods/quantitative/Non-Equivalent Control Group Design.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md",
     "raw/030_16 Experiments, quasi-experiments, single-case research and internet-based exper.txt",
-    "wiki/methods/quantitative/Ex Post Facto Research.md",
-    "wiki/methods/quantitative/Binary Logistic Regression.md",
-    "wiki/concepts/research-methodology/Criterion Group Study.md",
     "wiki/concepts/research-methodology/Criterion Group Study.md.tmp.33871.da7c5f98a523",
-    "wiki/concepts/research-methodology/Co-relational Study.md",
-    "wiki/concepts/research-methodology/Post Hoc Ergo Propter Hoc Fallacy.md",
-    "wiki/concepts/research-methodology/Alternative Hypothesis.md",
-    "wiki/concepts/research-methodology/Literature Search.md",
-    "wiki/concepts/research-methodology/Literature Review.md",
-    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Boccanfuso_Hall_2025_Alignment.md",
-    "wiki/concepts/research-methodology/Abstract.md",
-    "wiki/facts/global/OECD.md",
-    "wiki/methods/qualitative/Case Study.md",
-    "sources/Teng_2025_CE.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14.md",
-    "wiki/concepts/sociology-of-education/School Choice.md",
     "tmp/pdfs/cole-2015/page-18.png",
     "tmp/pdfs/cole-2015/page-12.png",
     "tmp/pdfs/cole-2015/page-09.png",

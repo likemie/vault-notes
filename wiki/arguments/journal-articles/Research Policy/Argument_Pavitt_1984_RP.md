@@ -7,7 +7,7 @@ title: "Argument_Pavitt_1984_RP"
 argument_key: "Argument_Pavitt_1984_RP"
 argument_display_title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
 argument_kind: "journal-article"
-argument_related_count: 6
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
+  - "[[Interaction Effect]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
   - "[[Technological Trajectories]]"
@@ -43,7 +44,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-07-13
 ---
 # Argument_Pavitt_1984_RP
 
@@ -139,7 +140,7 @@ Pavitt 通过三个维度的系统比较——企业规模分布、技术多样�
 
 ### 论证步骤三：技术轨迹——从描述到理论
 
-Pavitt 进一步将分类差异归因于三个因素的交互作用，并由此提出了**[[Technological Trajectories|技术轨迹]]（technological trajectories）**的概念——不同产业沿着根本不同的路径进行技术变迁：
+Pavitt 进一步将分类差异归因于三个因素的[[Interaction Effect|交互作用]]，并由此提出了**[[Technological Trajectories|技术轨迹]]（technological trajectories）**的概念——不同产业沿着根本不同的路径进行技术变迁：
 
 > [!line-a] 技术来源（Sources of Technology）
 > 不同产业依赖不同的知识基础。科学基础型（电子、化学）依赖基础科学和大学研究，通过内部研发产生创新。专业化供应商（机械工程、仪器）依赖与客户的持续互动和设计能力，知识积累体现在工程师的技能和经验中。规模密集型（金属、汽车）依赖生产工程和大规模设施运营经验。供应商主导型（纺织、农业）依赖外部设备供应商提供的技术。

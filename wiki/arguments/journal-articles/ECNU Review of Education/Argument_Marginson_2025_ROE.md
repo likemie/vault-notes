@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ROE"
 argument_key: "Argument_Marginson_2025_ROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Soft Power]]"
   - "[[International Education]]"
+  - "[[Attrition]]"
   - "[[Multi-University]]"
   - "[[Zero-Sum Competition]]"
   - "[[Internationalization of Higher Education]]"
@@ -64,7 +65,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-12'
-updated: '2026-06-08'
+updated: 2026-07-13
 year: 2025
 doi: ""
 citation_aliases:
@@ -223,7 +224,7 @@ citation_aliases:
 
 > 例：同样是"国际化"，澳大利亚的模式像一个精明的商人——利用靠近亚洲的地理优势和英语优势，把[[International Education|国际教育]]做成一门大生意，然后用赚来的钱提升科研排名，排名又吸引更多学生。中国的模式像一个战略规划者——不需要去海外开分校，而是把钱投在国内，建设世界一流的实验室和大学，让你自己来。两种模式都很成功，但逻辑完全不同。这就是 Massey 多重性的实证表现。
 
-**4e. 指出"国际化"的话语政治** — 这一时期盛行的 "国际化" 话语在很大程度上意味着西方化(Marginson, 2023)。英国、澳大利亚和新西兰的大学在"公共利益"的名义下建设了大规模的国际化教育商业产业，将资本从新兴国家抽出并加速人才流失——延续了殖民时代的模式。这一切被一种规范性的普世主义国际化话语所正当化(pp. 17–18)。
+**4e. 指出"国际化"的话语政治** — 这一时期盛行的 "国际化" 话语在很大程度上意味着西方化(Marginson, 2023)。英国、澳大利亚和新西兰的大学在"公共利益"的名义下建设了大规模的国际化教育商业产业，将资本从新兴国家抽出并加速人才[[Attrition|流失]]——延续了殖民时代的模式。这一切被一种规范性的普世主义国际化话语所正当化(pp. 17–18)。
 
 > 例：当一所英国大学以每年 £20,000 的学费招收一名尼日利亚学生时，它同时在运作多重逻辑：对英国财政部而言，这是减少了需补贴的本地生均拨款；对大学而言，这是收入来源和"国际化"指标；对尼日利亚学生家庭而言，这是社会流动的投资；对尼日利亚而言，这是资金和潜在人才的外流。同一个行为，在各方叙事中意味着完全不同的事。
 

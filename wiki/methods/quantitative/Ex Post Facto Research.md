@@ -7,7 +7,7 @@ summary: "一种回溯性非实验研究设计，通过观察已发生的因变�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -20,9 +20,9 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Hypothesis]]"
+  - "[[Dependent Variable]]"
   - "[[Epistemology]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Document]]"
   - "[[Falsification]]"
+  - "[[Interaction Effect]]"
   - "[[Counterfactual]]"
   - "[[Causal Over-determination]]"
 related_methods:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 # Ex Post Facto Research
 
@@ -58,11 +59,11 @@ updated: 2026-07-12
 ## 定义
 
 > [!def] 事后回溯研究的定义
-> 事后回溯研究（ex post facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的[[Causality|因果]]因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable|变量]]（[[Dependent Variable|DV]]）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable|自变量]]（IV），然后通过[[Hypothesis|假设]]、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，因果推断属于概率性因果关系的范畴（p.304）。
+> 事后回溯研究（ex post facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的[[Causality|因果]]因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable|变量]]（DV）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable|自变量]]（IV），然后通过[[Hypothesis|假设]]、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，因果推断属于概率性因果关系的范畴（p.304）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 已发生的自然事件、条件或处理对后续结果的影响，如家庭暴力对学生成绩的影响、教师培训质量对教学效能的影响。
-> - **问题类型** 探索因果关系或关联关系，适合因变量已发生、自变量无法操纵的情境；回答"什么因素与某结果有关"以及"可能的原因是什么"。
+> - **问题类型** 探索因果关系或关联关系，适合[[Dependent Variable|因变量]]已发生、自变量无法操纵的情境；回答"什么因素与某结果有关"以及"可能的原因是什么"。
 > - **分析单位** 个体、群体、组织；通常以组别（处理组/对照组，或按因变量高低分组）为比较单位。
 > - **输出形式** 组间差异比较、相关关系、可能的因果推断（试探性而非确定性）。
 
@@ -135,7 +136,7 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 
 > [!feature] 四种控制手段
 > - **匹配（[[Matching]]）** 在因果-比较设计中，将实验组和对照组的被试在重要相关特征上进行匹配（Ary et al., 2009）。困难在于研究者未必知道哪些因素是相关的，且无法匹配的被试会被舍弃，导致样本缩减。Lewis-Beck（1993, p. 43）报告了一个从 1,194 缩减到 46 的匹配后样本缩减实例。
-> - **将额外自变量纳入设计** 将无法控制的外部自变量作为一个额外的自变量纳入设计，使用[[Analysis of Variance|方差分析]]揭示其对因变量的主效应和交互效应（Ary et al., 2009）。例如将智力水平作为额外自变量纳入，以分离其对因变量的影响。
+> - **将额外自变量纳入设计** 将无法控制的外部自变量作为一个额外的自变量纳入设计，使用[[Analysis of Variance|方差分析]]揭示其对因变量的主效应和[[Interaction Effect|交互效应]]（Ary et al., 2009）。例如将智力水平作为额外自变量纳入，以分离其对因变量的影响。
 > - **选择同质性样本** 在某一特定变量上选择尽可能同质的样本，使该变量的效应被排除（Ary et al., 2009）。例如只纳入一个智力水平的学生，以排除智力差异的其他可能解释。
 > - **陈述并检验[[Alternative Hypothesis|替代假设]]** 明确陈述并检验能解释研究结果的其他可能假设（p. 317）。例如吸烟与肺癌的关系——烟草公司提出替代假设：吸烟和肺癌都可能是某个未指明的第三因素的结果。
 

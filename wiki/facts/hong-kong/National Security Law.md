@@ -10,98 +10,134 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
-- national-security-law
-- hong-kong
-- education-policy
-- curriculum-change
-- national-education
-- region/china
-- level/k12
+  - national-security-law
+  - hong-kong
+  - education-policy
+  - curriculum-change
+  - national-education
+  - region/china
+  - level/k12
 related_concepts:
+  - "[[Schmittian Sovereignty]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Psychologisation]]"
+  - "[[Paradigm]]"
   - "[[One Country, Two Systems]]"
   - "[[Zhonghua Minzu]]"
   - "[[Soft Power]]"
-  - "[[Causality]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[2019 Hong Kong Protests]]"
+  - "[[Citizenship and Social Development]]"
+  - "[[Youth Development Blueprint]]"
   - "[[National Education]]"
   - "[[Liberal Studies]]"
-  - "[[Citizenship and Social Development]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Vickers_2024_CE]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-25'
+updated: 2026-07-13
 ---
 
-## 定义
-
-> [!info] 定义
-> 2020 年 6 月 30 日，《中华人民共和国香港特别行政区维护国家安全法》（简称《香港国安法》）颁布实施。该法虽然以"国家安全"为核心，但其对香港教育体系的影响是深远且多维的：它为强制推行国民教育提供了法律框架，授权政府以"国家安全"为理由直接干预课程内容、教学材料和学校管理，从根本上改变了香港教育的政治和法律环境。
->
-> > "The introduction of the National Security Law in 2020 provided the legal framework for compulsory [[National Education]]." (基于 Yan & Morris, 2025, pp. 490–491)
+# National Security Law
 
 ---
 
-## 对教育的主要影响
+## 背景
 
-> [!success] 对教育的主要影响
-> 1. **课程合法化工具** 为 [[Liberal Studies|LS]] 的废除和 [[Citizenship and Social Development|CSD]] 的推行提供了法律依据——"国家安全"成为可强制执行的政策理由，取代了此前依赖的协商和共识机制。([[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 490]])
->
-> 2. **公民社会空间的关闭** 教协（香港教育专业人员协会）于 2021 年解散，批评媒体受压——2012 年成功抵抗 MNE 的学生组织和教师团体在《国安法》后已无法运作。（pp. 491–492）
->
-> 3. **教育决策模式的转变** 从协商式（2009 年 LS 创立经 5 年公众咨询和立法会讨论）转变为命令式（2020 年 11 月 CSD 宣布，10 个月后实施，无公众咨询）。
->
-> 4. **教师行为的自我审查** 法律的不确定性使教师在课堂讨论和材料选择中进行自我审查——特别是涉及中国政治、香港历史和公民议题的内容。
->
-> 5. **"[[One Country, Two Systems|一国两制]]"的教育内涵转变** 从"高度自治"下的多元课程体系，转向"一国是前提"下的统一爱国教育框架。（p. 489）
->
-> 6. **教科书内容的系统改造**[[Argument_Vickers_2024_CE|Vickers (2024, pp.148–153)]]通过对 2022 年 CSD 教科书与 2020 年 LS 教科书的对比，揭示了《国安法》后教科书在四个维度上的系统性转变（参见 [[Citizenship and Social Development]] 教科书内容分析）：
->    - **历史框架** 从承认香港为"移民社会"、呈现多元且演变的历史意识，转变为以 22 页篇幅从"不平等条约"开始论证香港"自古以来就是中国领土"，并要求学生培养"对我国和[[Zhonghua Minzu|中华民族]]的认同感和归属感"([[Argument_Vickers_2024_CE|Vickers, 2024, p.149]])。
->    - **"一国两制"解释** 从 LS 教科书极少直接使用该术语、强调《基本法》作为法治基础，转变为 CSD 教科书以整章标题明确"中国对香港拥有不可争议的主权和管辖权"，强调"一国是前提和基础，两制从属并派生于一国"([[Argument_Vickers_2024_CE|Vickers, 2024, pp.149–150]])。
->    - **文化角色** 从 LS 教科书强调"多重身份"和反对"用主流文化统一或同化其他文化"，转变为 CSD 教科书将文化定位为不可流动的本质——"中华文化为主体"，文化多元性仅具有服务经济发展的工具性价值，同时被框定为国家的"[[Soft Power|软实力]]"([[Argument_Vickers_2024_CE|Vickers, 2024, pp.150–152]])。
->    - **权利与自由** 从 LS 教科书将"占中"作为合法讨论议题、列出"七一游行"和"六四烛光晚会"为"集体行动"的形式，转变为 CSD 教科书中几乎所有抗议权利的讨论被删除——关于表达自由的讨论仅剩半页，并以粗体强调"这些权利不是绝对的"([[Argument_Vickers_2024_CE|Vickers, 2024, pp.152–153]])。
+> [!event-context] 事件背景
+> - **时间 / 地点** 2020年6月30日于中国香港特别行政区颁布并实施维护国家安全法（[[National Security Law]]）（简称香港国安法）（p.141）。
+> - **关键主体** 全国人民代表大会常务委员会（制定并颁布）、香港特别行政区政府与教育局（贯彻与执行）、香港教育专业人员协会（抵抗主体，后被迫解散）。
+> - **制度背景** 在2019年[[2019 Hong Kong Protests|反修例运动]]引发的政治危机后，中央政权为重构治港模式，通过颁布该法确立了主权决定[[Schmittian Sovereignty|例外状态]]的威权治理逻辑，将国家安全红线强加于香港的所有政治、司法与社会领域（pp.141, 155）。
+> - **触发条件** 港府与中央政权将通识教育科（LS）视作引发青年政治反叛的温床与国家安全隐患，决定利用国安法强制推行爱国[[Disciplina and Doctrina|规训]]以重构青年的身份认同。
 
 ---
 
-## 时间线
+## 经过
 
-> [!note]- 时间线
-> - **2020 年 6 月 30 日** — 《香港国安法》颁布实施
-> - **2020 年 7–9 月** — 中国官媒集中攻击 [[Liberal Studies|LS]]，将其定性为"国家安全危机"的组成部分
-> - **2020 年 9 月** — 教育局完成 LS 课程检讨报告（仍建议保留 LS）
-> - **2020 年 11 月** — 港府宣布取消 LS，以 [[Citizenship and Social Development|CSD]] 取代
-> - **2021 年 2 月** — CSD 课程及评估指引发布
-> - **2021 年 9 月** — CSD 正式实施
+> [!dev-timeline]- 事件经过
+> - **2020 — 国安法落地与通识科危机**
+>   - 2020-06-30 全国人大常委会正式颁布实施香港国安法，在教育体系中确立了强制国民教育的法定地位（p.141）。
+>   - 2020-07-09 中国官方媒体集中攻击通识教育科，将其归结为引发社会危机的根源。
+>   - 2020-09 教育局专责小组完成通识科课程检讨报告，仍建议在精简内容的前提下保留该学科。
+> - **2020–2021 — 核心科目的废除与新课程的强推**
+>   - 2020-11 教育局在未进行任何公众咨询的情况下，无预警宣布以[[Citizenship and Social Development|公民与社会发展科]]（[[Citizenship and Social Development|CSD]]）彻底取代通识科（p.148）。
+>   - 2021-02 教育局发布国家安全教育课程指引，将安全要求和仪式性顺从[[Disciplina and Doctrina|规训]]渗透至所有学科。
+>   - 2021-08 代表全港六万余名教师的香港教育专业人员协会被迫解散，标志着教育界抵抗空间的彻底消亡。
+>   - 2021-09 公社科在全港高中一年级正式开始实施，教材咨询团队与评审进行了大换血（pp.147–148）。
+> - **2022 — [[Psychologisation|心理化]]治理的延伸**
+>   - 2022-12 港府发布[[Youth Development Blueprint|青年发展蓝图]]（[[Youth Development Blueprint]]），推行以积极思维和感恩为核心的心理化政策，将青年的社会诉求转化为个人情绪管理问题（p.153）。
+
+---
+
+## 关键文件／声明
+
+> [!citation-card]- 国安法与国民教育的法定框架
+> 2020年引入的国安法为强制性国民教育提供了法律框架（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 490–491]]）。
+>
+> *“The introduction of the National Security Law in 2020 provided the legal framework for compulsory [[National Education]].”*
+
+> [!citation-card]- 国安法后的课程[[Paradigm|范式]]转型
+> 2020年后通识科与[[Citizenship and Social Development|公社科]]课程的重组标志着一个决定性的转变：从侧重于培养理性讨论和参与式公民所必需的素质，转向强加一种关于香港作为中国一部分的同质化和总体性的国族身份图景（[[Argument_Vickers_2024_CE|Vickers, 2024, p.154]]）。
+>
+> *“The post-2020 overhaul of the curriculum for [[Liberal Studies]] / [[Citizenship and Social Development|CSD]] signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.”*
+
+---
+
+## 影响与后果
+
+> [!finding-cards] 影响与后果
+> - **政策影响**
+>   - **课程法定化与决策命令化** 国安法将维护安全确立为可强制执行的法定义务，取代了过往依赖的共识与公众咨询机制，实现教育决策由协商式向命令式的彻底转型（p.141）。
+>   - **编写团队与评审大换血** 通过新的教材审查制度，清洗了原教科书顾问团队（如剔除戴耀廷和吕大乐），转由建制派与亲北京人士接任评审，从源头掌控教材编写的政治方向（pp.147–148）。
+> - **实践影响**
+>   - **公民社会与抵抗力量消亡** 强制解散了全港最大的专业教师工会（香港教育专业人员协会），清除了教育系统内的专业自治和集体抵抗空间。
+>   - **教师的结构性自我审查** 模糊且无所不包的国安红线引发了教学现场的恐惧，剥夺了教师的自主权，导致其在政治敏感议题上实施自我审查。
+>   - **教科书知识框架的系统重构** [[Citizenship and Social Development|公社科]]教材完成了四个维度的改写：历史叙事本质化、宪制解释从属化、文化定位工具化以及权利与抗议叙事的全面抹除（pp.148–153）。
+> - **知识影响**
+>   - **青年不满的[[Psychologisation|心理化]]治理** 配合国安[[Disciplina and Doctrina|规训]]，港府推行感恩与幸福教育，将青年对社会制度与权利的合理诉求矮化为个体的心理调试问题，从而解构政治能动性（p.153）。
+>   - **[[Schmittian Sovereignty|例外状态]]逻辑在香港落地** 施密特式主权例外逻辑在香港宪制体制中常态化，重塑了香港治理话语，完成了从法治到以法而治的[[Paradigm|范式转换]]（p.155）。
 
 ---
 
 ## 争议与评论
 
-> [!warning] "国家安全"的边界扩张
-> [[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 490)]] 指出，《国安法》在教育领域的应用展示了"国家安全"概念的弹性扩张——从直接的安全威胁（分裂、颠覆、恐怖活动、外国干预）扩展到课程内容、教学方法和评估方式。这一扩张使"国家安全"成为几乎任何教育政策决定都可援引的法律理由。
->
-> **各方立场**
-> - **支持立场** 基于中共官方叙事——教育是国家安全的前沿阵地，香港的"人心回归"需要通过教育完成。
-> - **批评立场** "国家安全"的弹性使用实质上消除了教育政策辩论的专业空间——任何课程决定都可以被"国家安全"理由所终结，无需教育专业论证。
->
-> **目前状态** 《国安法》对教育的具体实施机制（如学校如何执行、教师如何合规）仍在演化中，学术界对此的研究受限于数据获取的政治敏感性。
+> [!actor-grid] 评论视角
+> - **建制与官方立场** 强调国家安全是一切社会稳定与教育发展的前提，教育体系必须服务于主权利益，扫除通识教育科等危及安全的隐患，促进青年国族认同与人心回归。
+> - **专业与教学视角** 指出国安法在学校层面的广泛落实导致教学自主权彻底消丧，泛化的红线使教师和教育工作者产生严重的自我审查与生存恐惧（p.141）。
+> - **学术研究视角** 记录表明，国安法直接充当了废除通识科的推动力量，而非官方所谓的检讨结果。学者指出，国家安全概念的无限延伸实质上消除了专业论证的空间（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 489–490]]）。
+> - **去殖民理论反思** 去殖民学说如果只关注思想的出身（例如以法治起源于殖民统治而否定其价值），实质上剥夺了本土人保留制度的能动性，沦为为威权权力扩张提供虚无主义文化相对论的辩护工具（pp.154–155）。
 
+> [!tension] 争议焦点
+> - **国家安全无边界延伸（蓝方）** 将维护主权和政治稳定置于绝对优先地位，任何教育内容和教学自主必须让位于国家利益与安全控制（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 490]]）。
+> - **专业与学术自治（红方）** 强调教育应当保护学生的批判思考能力、教师的教学自主权，以及对多元身份与争议性议题进行理性探讨的学术与专业空间（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.141, 149]]）。
 
-> [!warning] 与 [[Liberal Studies|LS]] 废除的[[Causality|因果关系]]
-> [[Argument_Yan_2025_JCS|Yan & Morris (2025, pp. 489–490)]] 记录的时间线显示：2020 年 9 月的课程检讨仍建议保留 LS，但《国安法》颁布仅 5 个月后港府即宣布废除 LS——这一时序强烈暗示《国安法》是 LS 废除的直接推动力，而非仅仅是"背景因素"。
+> [!citation-card]- 青年异化的[[Psychologisation|心理化]]归因
+> 官方论述将青年的异化矮化为个人心理偏差问题。由于对现有秩序的批判已被定性为国安红线，对公众不满的解释只能诉诸个人或私人的适应不良（[[Argument_Vickers_2024_CE|Vickers, 2024, p.154]]）。
 >
-> **目前状态** 此[[Causality|因果关系]]在学术[[Document|文献]]中被广泛接受([[Argument_Yan_2025_JCS|Yan & Morris, 2025]]; Vickers & Morris, 2022)，但港府官方论述将 LS 废除表述为"课程检讨的结果"而非"国安法的要求"。
+> *“Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.”*
 
 ---
 
+## 相关概念／政策
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[One Country, Two Systems]] | 概念 | 指明一国两制的本质与中央权力的至上性。 |
+> | [[Zhonghua Minzu]] | 概念 | 国安教育教材强加的单一中华民族归属感。 |
+> | [[Soft Power]] | 概念 | 文化在国安法后被作为国家软实力与自信展示的工具。 |
+> | [[Schmittian Sovereignty]] | 概念 | 国安法实施展现的例外状态主权逻辑在香港的落地。 |
+> | [[National Education]] | 政策/事实 | 国安法为强制推行国民教育提供了法定框架。 |
+> | [[Liberal Studies]] | 政策/事实 | 被国安法直接推动并废除的高中核心科目。 |
+> | [[Citizenship and Social Development]] | 政策/事实 | 取代通识教育科并强制推行的新课程。 |

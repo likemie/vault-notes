@@ -34,6 +34,7 @@ related_concepts:
   - "[[Domain Analysis]]"
   - "[[School Leadership]]"
   - "[[Causality]]"
+  - "[[Attrition]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
   - "[[Epistemology]]"
@@ -63,14 +64,14 @@ related_instruments:
   - "[[Academic Self-Concept General Scale]]"
 status: draft
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-13
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -361,7 +362,7 @@ journal: "Australian Journal of Education"
 
 > [!warning] 研究设计局限
 > - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[International Baccalaureate|IB]] DP 课程（六门学科 + [[CNCS Evidence Exchange|EE]] + CAS + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp.10–11）
-> - **横断设计限制[[Causality|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性流失的替代解释（p.10）
+> - **横断设计限制[[Causality|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性[[Attrition|流失]]的替代解释（p.10）
 > - **选课效应无法排除** 选择 [[IB Diploma Programme|IB DP]] 的学生可能在入学前就具有更高的学术能力、更强的学习动机或更支持性的家庭背景。ATAR 差异（$+4.84$分）可能部分或全部反映的是选课效应而非 DP 的培养效应（p.12）
 
 > [!warning] 样本与测量局限

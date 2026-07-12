@@ -12,7 +12,7 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -26,9 +26,11 @@ related_concepts:
   - "[[Causality]]"
   - "[[Document]]"
   - "[[Epistemology]]"
+  - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Sample Size Determination]]"
+  - "[[Interaction Effect]]"
   - "[[Internal Validity]]"
   - "[[Pre-test Sensitisation]]"
 related_methods:
@@ -41,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 
 # Cohort Study
@@ -70,7 +72,7 @@ Lazarsfeld 在 1940 年代引入了面板（panel）的概念，试图识别[[Ca
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 发展视角；关注个体随时间的变化、[[Causality|因果]]机制和社会系统的动态。
 > - **研究者角色** 长期跟踪，需要在多轮数据收集中维持与参与者的关系。
-> - **有效性标准** 样本在时间上的代表性（应对流失）、因果推断的有效性、数据收集工具在时间上的一致性。
+> - **有效性标准** 样本在时间上的代表性（应对[[Attrition|流失]]）、因果推断的有效性、数据收集工具在时间上的一致性。
 > - **不声称回答的问题** 不适用于需要快速结果的研究；流失后样本可能不再具有初始代表性。
 
 ## 优势
@@ -98,9 +100,9 @@ Douglas（1976）对队列研究相对于横截面设计的优势进行了有力
 
 > [!weakness] 队列研究的主要困难
 > - **耗时和昂贵** 研究者必须等待生长数据积累（p.272）。
-> - **样本死亡（Sample Mortality）** 在长期队列研究过程中，受试者不可避免地退出、丢失或拒绝进一步合作。这种流失使得留在研究中的受试者不太可能像最初抽取的样本那样具有总体代表性。有时试图通过引入[[Cross-sectional Study|横截面研究]]设计来减轻样本死亡的影响——即在每次重新测试时从同一总体中抽取相同数量的受访者"补充"原始队列[[Sample Size Determination|样本量]]。但这样做的风险是，从一轮调查到下一轮调查的数据差异可能被解释为受访者的差异而非真实变化或趋势（p.272）。
+> - **样本死亡（Sample Mortality）** 在长期队列研究过程中，受试者不可避免地退出、丢失或拒绝进一步合作。这种[[Attrition|流失]]使得留在研究中的受试者不太可能像最初抽取的样本那样具有总体代表性。有时试图通过引入[[Cross-sectional Study|横截面研究]]设计来减轻样本死亡的影响——即在每次重新测试时从同一总体中抽取相同数量的受访者"补充"原始队列[[Sample Size Determination|样本量]]。但这样做的风险是，从一轮调查到下一轮调查的数据差异可能被解释为受访者的差异而非真实变化或趋势（p.272）。
 > - **控制效应（Control Effect）** 也称测量效应（measurement effect）：反复访谈往往对正在研究的行动或态度产生不期望的和令人困惑的影响，影响受试者的行为，使他们对迄今未被注意的事项变得敏感，或刺激他们就多余话题与他人交流（Riley, 1963）（p.272）。
-> - **生物、环境和干预影响的交互作用** 这三种影响可能互相交织（Keeves, 1997a: 139）（p.272）。
+> - **生物、环境和干预影响的[[Interaction Effect|交互作用]]** 这三种影响可能互相交织（Keeves, 1997a: 139）（p.272）。
 > - **组织和连续性挑战** 在教育中，队列研究面临相当大的组织问题，因为学生、教师、教学方法等持续变化。这些变化使得研究极不可能按照最初计划完成（p.272）。
 > - 长期研究中存在对[[Internal Validity|内部效度]]的威胁，源于需要"测试和重新测试相同的个体"（Gorard, 2001b: 86）。
 

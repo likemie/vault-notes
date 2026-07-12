@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
   - "[[Independent Variable]]"
+  - "[[Attrition]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
   - "[[Effect Size]]"
@@ -92,7 +93,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-21
-updated: 2026-07-08
+updated: 2026-07-13
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08
 
@@ -284,7 +285,7 @@ Bartlett et al.（2001: 48–9）还指出：
 
 确定样本量还必须考虑：
 - **无回应（non-response）** 部分参与者不返回问卷
-- **流失（attrition）** 参与者中途退出研究
+- **[[Attrition|流失]]（attrition）** 参与者中途退出研究
 - **受访者死亡（respondent mortality）** 参与者离开或因故无法继续
 - **无效回应** 不完整或损坏的问卷（如漏填项目、单选变多选）
 

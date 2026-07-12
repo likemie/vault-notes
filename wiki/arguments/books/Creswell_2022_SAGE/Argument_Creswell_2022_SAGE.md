@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 176
+argument_related_count: 178
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -110,7 +110,9 @@ related_concepts:
   - "[[Campbell and Stanley Notation System]]"
   - "[[Experimenter Bias]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Attrition]]"
   - "[[Threats to External Validity]]"
+  - "[[Interaction Effect]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Emergent Design]]"
   - "[[Memos]]"
@@ -206,7 +208,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-30
-updated: 2026-07-08
+updated: 2026-07-13
 year: 2022
 doi: ""
 citation_aliases:
@@ -1312,7 +1314,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 >
 > | 威胁类别 | 数量 | 核心问题 | 应对逻辑 | 详见 |
 > |---|---|---|---|---|
-> | [[Internal Validity\|内部效度威胁]]—受试者相关 | 5 种（历史、成熟、回归、选择、流失） | 受试者自身变化或特征是否替代了处理效应？ | 保持组间等价（随机分配、同质样本） | [[Internal Validity]] |
+> | [[Internal Validity\|内部效度威胁]]—受试者相关 | 5 种（历史、成熟、回归、选择、[[Attrition\|流失]]） | 受试者自身变化或特征是否替代了处理效应？ | 保持组间等价（随机分配、同质样本） | [[Internal Validity]] |
 > | [[Internal Validity\|内部效度威胁]]—处理相关 | 3 种（扩散、补偿性怨恨、补偿性竞争） | 组间互动或心理反应是否污染了处理效应？ | 隔离或补偿对照组 | [[Internal Validity]] |
 > | [[Internal Validity\|内部效度威胁]]—程序相关 | 2 种（测验、工具） | 测量过程本身是否改变了结果？ | 统一前后测工具、延长间隔 | [[Internal Validity]] |
 > | [[External Validity\|外部效度威胁]] | 3 种（选择×处理、情境×处理、历史×处理） | 结果能否推广到其他人群、情境和时间？ | 限制推广范围、在不同条件下复制 | [[External Validity]] |
@@ -1333,7 +1335,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 > “实验研究中的[[Blinding|盲法]]是指让实验者（和/或参与者）不了解参与者被分配到的研究条件。”
 > ("[[Blinding]] in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant's assigned study condition.")（第8章）
 
-数据分析以组间比较为核心，大量使用 ANOVA、[[Analysis of Covariance|ANCOVA]] 和 MANOVA；[[Factorial Design|因子设计]]检验主效应和交互效应；[[Single-Subject Design|单受试者设计]]使用折线图。
+数据分析以组间比较为核心，大量使用 ANOVA、[[Analysis of Covariance|ANCOVA]] 和 MANOVA；[[Factorial Design|因子设计]]检验主效应和[[Interaction Effect|交互效应]]；[[Single-Subject Design|单受试者设计]]使用折线图。
 
 
 ---

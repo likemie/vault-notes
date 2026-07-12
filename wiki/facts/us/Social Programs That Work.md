@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Attrition]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: 2026-07-13
 ---
 ## 概述
 
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 > [!abstract] 证据标准
 > 在设计标准[[Coding in Qualitative Research|编码]]中，SPTW 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。它是要求 [[Intent-to-Treat Analysis|ITT]] 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Promise Neighborhoods Research Consortium|PNRC]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
 >
-> SPTW 在 RCT 流失标准上接受总体流失低于 20%；在复制标准上，它强调多地点研究以及跨地点和文化情境复制的效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9, 11]])。
+> SPTW 在 RCT [[Attrition|流失]]标准上接受总体流失低于 20%；在复制标准上，它强调多地点研究以及跨地点和文化情境复制的效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9, 11]])。
 >
 > SPTW 与 Blueprints、[[Promising Practices Network|PPN]]、[[Best Evidence Encyclopedia|BEE]] 和 [[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 一样，只报告具有正向效果的项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
 
@@ -73,6 +74,6 @@ updated: '2026-05-18'
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — SPTW 是 12 个被比较的教育清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
 > - [[Evidence-Based Education]] — SPTW 展示了社会项目清算中心如何把教育项目纳入更宽广的社会政策证据库。
-> - [[Randomised Controlled Trials]] — SPTW 对 RCT 的标准描述程度为 3，并接受总体流失低于 20% 的 RCT([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10]])。
+> - [[Randomised Controlled Trials]] — SPTW 对 RCT 的标准描述程度为 3，并接受总体[[Attrition|流失]]低于 20% 的 RCT([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10]])。
 > - [[Intent-to-Treat Analysis]] — SPTW 是明确要求 ITT 分析的三个清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
 

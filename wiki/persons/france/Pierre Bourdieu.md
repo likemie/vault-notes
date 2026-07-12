@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemological Break]]"
   - "[[Doxa]]"
+  - "[[Interaction Effect]]"
   - "[[Epistemological Vigilance]]"
   - "[[Non-monetary Competition]]"
   - "[[School Leadership]]"
@@ -66,7 +67,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 
 # Pierre Bourdieu
@@ -144,7 +145,7 @@ updated: 2026-07-11
 ## 核心思想
 
 > [!claim] 核心主张
-> 社会实践并非来自有意识的理性计算，也不是社会结构的机械投影，而是[[Habitus|习性]]、资本与[[Champ|场域]]三者咬合的产物。实践是在特定场域中，由行动者所占有的资本结构与具身化的习性惯性交互作用，借助实践感所生成的策略行为。教育系统通过将特权阶层的文化特征伪装为普适的学术天分，建立了无可辩驳的合法性正统信念（[[Doxa]]），从而以符号暴力的隐蔽方式迫使被支配者认同自身的被支配地位，完成了阶级分层的合法再生产。
+> 社会实践并非来自有意识的理性计算，也不是社会结构的机械投影，而是[[Habitus|习性]]、资本与[[Champ|场域]]三者咬合的产物。实践是在特定场域中，由行动者所占有的资本结构与具身化的习性惯性[[Interaction Effect|交互作用]]，借助实践感所生成的策略行为。教育系统通过将特权阶层的文化特征伪装为普适的学术天分，建立了无可辩驳的合法性正统信念（[[Doxa]]），从而以符号暴力的隐蔽方式迫使被支配者认同自身的被支配地位，完成了阶级分层的合法再生产。
 
 > [!citation-card]- 关于场域与实践的表述
 > 实践不仅是资本占有状况的函数，也是场域逻辑与历史内化的习性相互遭遇的结果。如果忽视了社会科学研究者的[[Epistemology|认识论]]断警觉，我们就会在不知不觉中复制日常概念，从而使反思沦为装饰。[[Argument_Eacott_2015_EPT|Eacott (2015, pp. 322–323)]]（引自 Bourdieu, 1992）

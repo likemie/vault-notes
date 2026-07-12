@@ -6,7 +6,7 @@ aliases:
 summary: "政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Realism in International Relations]]"
   - "[[Reference Society]]"
+  - "[[Attrition]]"
   - "[[Externalization]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-07-10
+updated: 2026-07-13
 ---
 
 ## 定义
@@ -82,7 +83,7 @@ updated: 2026-07-10
 > - 知识／技能创新（如信息技术革命对劳动力技能的新要求）
 > - 政治变化（如保守党上台后推行市场化教育改革）
 >
-> > 例：1980 年代美国对日本教育的吸引力中，四项结构性推力同时作用——技能创新（美国制造业岗位流失）、政治变化（里根 1980 年当选）、负面外部评估（1983 年最早一批 IEA 研究发布）、新型态（日本经济预计超越美国）。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 234–235]])
+> > 例：1980 年代美国对日本教育的吸引力中，四项结构性推力同时作用——技能创新（美国制造业岗位[[Attrition|流失]]）、政治变化（里根 1980 年当选）、负面外部评估（1983 年最早一批 IEA 研究发布）、新型态（日本经济预计超越美国）。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 234–235]])
 > > 对应案例条目：[[American Attraction to Japanese Education 1980s]]
 
 

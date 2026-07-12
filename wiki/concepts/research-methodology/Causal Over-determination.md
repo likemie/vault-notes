@@ -7,7 +7,7 @@ aliases:
 summary: "一个效果是多个原因的产物，而其中每一个原因本身都足以单独产生该效果——这一现象对单一干预归因的主张构成挑战"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Homework]]"
   - "[[Compound Causes]]"
+  - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-07-13
 ---
 
 # Causal Over-determination
@@ -65,7 +66,7 @@ updated: 2026-06-17
 > | 维度 | 因果过度决定 | 多重因果 | 复合原因 |
 > |------|------------|---------|---------|
 > | 每个原因单独充分性 | 每个都足够 | 不一定——通常每个原因单独不充分 | 原因单独不充分 |
-> | 原因之间的关系 | 可相互替代 | 可相加或交互 | 必须同时作用（交互效应） |
+> | 原因之间的关系 | 可相互替代 | 可相加或交互 | 必须同时作用（[[Interaction Effect\|交互效应]]） |
 > | 归因逻辑 | 无法确定哪个真正产生效果 | 可能需要全部或部分 | 需要组合才能产生效果 |
 
 ## 应用案例

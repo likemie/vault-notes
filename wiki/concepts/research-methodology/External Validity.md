@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,8 +24,10 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Hawthorne Effect]]"
   - "[[Operationalization]]"
+  - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
   - "[[Sample Size Determination]]"
+  - "[[Attrition]]"
   - "[[Research Utilization]]"
   - "[[Construct]]"
   - "[[Catalytic Validity]]"
@@ -53,7 +55,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 status: draft
 created: 2026-05-31
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 # External Validity
 
@@ -105,7 +107,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > > | | [[Hawthorne Effect\|霍桑效应]] | 受试者因被研究而改变行为 |
 > > | | 因变量[[Operationalization\|操作化]]不充分 | 测量在真实世界中缺乏效度 |
 > > | | 对实验条件敏感化 | 前测改变了受试者对干预的反应 |
-> > | | 外来因素交互效应 | 混淆因素与处理交互作用 |
+> > | | 外来因素[[Interaction Effect\|交互效应]] | 混淆因素与处理交互作用 |
 > > | | 工具无效或不可靠 | 数据本身不可信 |
 > > | | [[Ecological Validity\|生态效度]] | 一种情境的发现能否推广到另一情境 |
 > > | | 多重处理效度 | 多种处理交互效应难以隔离 |
@@ -129,7 +131,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > - 为低回应率做计划——增加初始样本量以缓冲（Punch, 2003, p. 43）
 > - 跟进提醒可使 ¼–⅓ 的初始无回应者最终参与（Fowler, 2009, p. 57）
 > - 对极小总体子群使用过采样 + 加权校正以保持代表性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|第8章 §8.4]]）
-> - 在[[Longitudinal Study|纵向调查]]中，样本流失（attrition）随时间威胁外部效度——留存者往往更中产阶级化、更稳定，需在分析中评估流失偏倚（p.270）
+> - 在[[Longitudinal Study|纵向调查]]中，[[Attrition|样本流失]]（attrition）随时间威胁外部效度——留存者往往更中产阶级化、更稳定，需在分析中评估流失偏倚（p.270）
 
 ---
 

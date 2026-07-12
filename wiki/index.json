@@ -4407,6 +4407,7 @@
     "path": "wiki/concepts/political-economy-geopolitics/Schmittian Sovereignty.md",
     "aliases": [
       "施密特式主权",
+      "施米特式主权",
       "例外状态",
       "state of exception"
     ]
@@ -4691,6 +4692,20 @@
       "Publication Manual of the APA",
       "APA 7th edition",
       "APA第七版"
+    ]
+  },
+  {
+    "title": "Attrition",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Attrition.md",
+    "aliases": [
+      "流失",
+      "实验流失",
+      "样本流失",
+      "experimental mortality",
+      "attrition bias",
+      "流失偏差",
+      "dropout"
     ]
   },
   {
@@ -5173,7 +5188,6 @@
     "aliases": [
       "因变量",
       "dependent variables",
-      "DV",
       "outcome variable",
       "结果变量",
       "response variable",
@@ -5597,7 +5611,6 @@
     "aliases": [
       "自变量",
       "independent variables",
-      "IV",
       "predictor variable",
       "预测变量",
       "treatment variable",
@@ -5667,6 +5680,18 @@
       "interrater reliability",
       "inter-rater agreement",
       "评定者间信度"
+    ]
+  },
+  {
+    "title": "Interaction Effect",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Interaction Effect.md",
+    "aliases": [
+      "交互效应",
+      "交互作用",
+      "interaction effects",
+      "moderation effect",
+      "调节效应"
     ]
   },
   {
@@ -6092,6 +6117,19 @@
       "操作化",
       "operationalizing research",
       "研究操作化"
+    ]
+  },
+  {
+    "title": "Order Effects",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Order Effects.md",
+    "aliases": [
+      "顺序效应",
+      "carry-over effect",
+      "延续效应",
+      "practice effect",
+      "练习效应",
+      "sequence effect"
     ]
   },
   {
@@ -12645,7 +12683,8 @@
     "path": "wiki/facts/hong-kong/Citizenship and Social Development.md",
     "aliases": [
       "公民与社会发展科",
-      "CSD"
+      "CSD",
+      "公社科"
     ]
   },
   {
@@ -12653,8 +12692,7 @@
     "type": "fact",
     "path": "wiki/facts/hong-kong/Liberal Studies.md",
     "aliases": [
-      "香港通识教育科",
-      "LS"
+      "香港通识教育科"
     ]
   },
   {

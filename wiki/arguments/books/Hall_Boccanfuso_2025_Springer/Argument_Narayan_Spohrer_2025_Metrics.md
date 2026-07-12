@@ -16,6 +16,7 @@ related_concepts:
   - "[[Translational Research]]"
   - "[[Blue Skies Research]]"
   - "[[Academic Freedom]]"
+  - "[[Attrition]]"
   - "[[Document]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Industry Co-location]]"
@@ -42,14 +43,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: '2026-06-08'
+updated: 2026-07-13
 subtype: book-chapter
 publication_type: book
 title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -125,7 +126,7 @@ citation_aliases:
 
 ### 前提一：产学合作的风险恰好说明了度量、激励、奖励和文化为何必要
 
-3. 产学合作的成功案例固然令人瞩目，但挑战同样真实。三个典型摩擦领域(pp.86–87)：知识产权（IP），企业希望保护商业机密，大学则需要发表以维持学术声誉，当一方要求发表审查权而另一方坚持[[Academic Freedom|学术自由]]时，协议谈判可能耗时数月乃至数年。人才争端，企业从大学招聘不仅是正常的毕业生流动，当企业大规模挖走顶尖教师时，就构成了"脑力流失"（brain-drain），损害大学的教学和研究能力。优先事项和关键人物的更迭，大学换了校长、企业换了研发副总裁，原来推动合作的人走了，合作就可能无人接续。
+3. 产学合作的成功案例固然令人瞩目，但挑战同样真实。三个典型摩擦领域(pp.86–87)：知识产权（IP），企业希望保护商业机密，大学则需要发表以维持学术声誉，当一方要求发表审查权而另一方坚持[[Academic Freedom|学术自由]]时，协议谈判可能耗时数月乃至数年。人才争端，企业从大学招聘不仅是正常的毕业生流动，当企业大规模挖走顶尖教师时，就构成了"脑力[[Attrition|流失]]"（brain-drain），损害大学的教学和研究能力。优先事项和关键人物的更迭，大学换了校长、企业换了研发副总裁，原来推动合作的人走了，合作就可能无人接续。
 
 4. 这些风险恰好说明了度量、激励、奖励和文化为何必须存在。每一类摩擦都对应一个管理功能：IP 争端对应的是"哪些成果算合作产出、怎么度量"的度量设计问题。人才争端对应的是"企业从大学获得人才的同时能给大学回报什么"的激励设计问题。关键人物更迭对应的是"合作关系能不能从个人信赖升级为制度信赖"的文化建设问题。没有这些机制，合作完全依赖个人关系和运气；有了它们，合作才可能一代一代地传承下去(p.86)。
 

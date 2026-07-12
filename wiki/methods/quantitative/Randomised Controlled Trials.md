@@ -11,7 +11,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 68
+method_related_count: 69
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
   - "[[Sample Size Determination]]"
+  - "[[Attrition]]"
   - "[[Confidence Interval]]"
   - "[[Research Question]]"
   - "[[School Leadership]]"
@@ -96,7 +97,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 
 # Randomised Controlled Trials
@@ -188,7 +189,7 @@ updated: 2026-07-11
 
 > [!method-stack] 资料与分析摘要
 > - **资料类型** 标准化测验成绩、问卷量表、行为观察记录、行政数据（出勤率、升学率等）。
-> - **资料质量** 取决于[[Random Assignment|随机分配]]的成功程度、[[Sample Size Determination|样本量]]、流失率（attrition）、测量工具的信效度。缺失数据在大班中比小班中更常见会破坏随机化[[Hypothesis|假设]]（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6–7]]）。
+> - **资料质量** 取决于[[Random Assignment|随机分配]]的成功程度、[[Sample Size Determination|样本量]]、[[Attrition|流失]]率（attrition）、测量工具的信效度。缺失数据在大班中比小班中更常见会破坏随机化[[Hypothesis|假设]]（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6–7]]）。
 > - **分析策略** 均值比较、[[Effect Size|效应量]]估计、t 检验或[[Analysis of Variance|方差分析]]、多水平模型（处理集群随机化的嵌套结构）。
 > - **质量控制**[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）处理非合规问题；流失分析；基线等值检验。
 > - **输出形式** 标准化均值差（Cohen's d, Hedges' g）、[[Confidence Interval|置信区间]]、p 值、最小可检测效应量（MDES）。
@@ -207,7 +208,7 @@ updated: 2026-07-11
 ## 局限性
 
 > [!method-limits] 偏误来源、适用边界与误用风险
-> - **偏误来源** 样本偏误（参与学校系统性不同于总体）、分配偏误（家长干预、非随机流失）、测量偏误（评估工具偏袒干预内容）、[[Publication Bias|发表偏差]]、研究者偏差（作者与课程开发者关联）。
+> - **偏误来源** 样本偏误（参与学校系统性不同于总体）、分配偏误（家长干预、非随机[[Attrition|流失]]）、测量偏误（评估工具偏袒干预内容）、[[Publication Bias|发表偏差]]、研究者偏差（作者与课程开发者关联）。
 > - **适用边界** RCT 结果只能告诉我们"什么曾经有效"而非"什么将永远有效"——[[Counterfactual|反事实]]条件随时间变化（[[Argument_Higgins_2016_RE|Higgins, 2016, p.44]]）。教育干预的效果不是固定不变的，同一个干预在不同时期可能产生不同结果。
 > - **误用风险** 将 RCT 的统计显著效果误读为"干预在所有情境中有效"；仅报告[[Effect Size|效应量]]而不提供机制理解；忽视 RCT 无法回答的[[Causal Processes|因果过程]]问题——"因果过程（causal processes）和[[Causality|因果]]链没有被建立，只知道输入和输出的关系"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78–79]]）。
 > - **补救方式** 补充[[Qualitative Research|质性研究]]以揭示因果过程；[[Mechanism Experiments|机制实验]]设计；[[Meta-analysis|元分析]]综合多情境证据；透明报告样本特征和实施条件。
@@ -358,6 +359,6 @@ updated: 2026-07-11
 > [!evidence-grid-a] 研究索引
 > - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 在 2011 至 2015 年间资助了 100 项涉及 50 万以上学生的 RCT，并将证据综合进入 Toolkit 的[[Meta-analysis|元分析]]（[[Argument_Higgins_2016_RE|Higgins, 2016, p.49]]）
 > - [[Argument_Brady_2023_EPR]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其比例从 2010 年的 23% 降至 2020 年的 20%（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）
-> - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育清算中心如何为 RCT、[[Quasi-Experimental Designs|QED]]、RDD 和 ITS 设定证据标准；研究发现所有清算中心都偏好 RCT，但对随机分配层级、[[Intent-to-Treat Analysis|意向治疗分析]]、流失标准、基线等值检验和集群随机化的处理并不一致（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–11]]）
+> - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育清算中心如何为 RCT、[[Quasi-Experimental Designs|QED]]、RDD 和 ITS 设定证据标准；研究发现所有清算中心都偏好 RCT，但对随机分配层级、[[Intent-to-Treat Analysis|意向治疗分析]]、[[Attrition|流失]]标准、基线等值检验和集群随机化的处理并不一致（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–11]]）
 > - [[Tennessee STAR Project 1985-1989]] — 被 Mosteller 称为"有史以来最重要的教育调查之一"，但 Wiliam (2019) 揭示了其 RCT 外推的三重失败
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 系统分析 RCT 在建立[[Causality|因果性]]方面的效力与系统性局限；指出 RCT 忽视[[Causal Processes|因果过程]]、语境、参与者能动性和伦理；主张追问"什么对谁有效、在什么条件下、有什么伦理可辩护性"而非仅仅"什么有效"

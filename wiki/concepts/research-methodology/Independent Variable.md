@@ -3,7 +3,6 @@ title: Independent Variable
 aliases:
   - 自变量
   - independent variables
-  - IV
   - predictor variable
   - 预测变量
   - treatment variable
@@ -11,7 +10,7 @@ aliases:
 summary: "实验或量化研究中被有意识操纵、控制或选择以观察其对因变量效应的变量，是因果推断中的输入条件"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +20,7 @@ tags:
   - causal-inference
   - experiment
 related_concepts:
+  - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
@@ -28,8 +28,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Definition of Terms]]"
   - "[[Analytic Framework]]"
+  - "[[Interaction Effect]]"
   - "[[School Effectiveness]]"
-  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -42,13 +42,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 # Independent Variable
 
 ## 定义
 
-> [!def] 自变量
+> [!def] 自[[Variable|变量]]
 > 自变量（independent variable）是实验或[[Quantitative Research|量化研究]]中的**输入变量**，被有意识地操纵、控制或选择，以观察其变化对[[Dependent Variable|因变量]]（结果变量）产生的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）。
 
 在真实验中，自变量被主动操纵（manipulated），例如施加一种新的教学方法、给予不同剂量的干预。在[[Ex Post Facto Research|事后回溯研究]]中，自变量已经自然发生，只能选择而非操纵它，但分析逻辑相同：考察自变量的不同水平或取值如何与因变量的变化相关联。
@@ -67,25 +67,25 @@ updated: 2026-07-12
 
 ## 核心要素
 
-> [!feature] 自变量的关键属性
+> [!feature] 自[[Variable|变量]]的关键属性
 > - **可操纵性** 在真实验中，主动控制和改变自变量的水平（如施加/不施加干预）。在准实验和[[Ex Post Facto Research|事后回溯研究]]中，自变量的水平是自然存在的，只能选择组别而非操纵变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]）。
 > - **多水平取值** 自变量可以有两个或多个水平。最简单的形式是二分类（有/无干预），也可以有多个水平（如低/中/高剂量的干预），或连续取值（如学习时间长度）（pp. 323–324）。
 > - **控制与隔离** 在真实验中，除被操纵的自变量外，其他可能影响[[Dependent Variable|因变量]]的变量必须被控制或保持恒定，这是[[Causality|因果推断]]的核心前提（pp. 312–313）。
 > - **[[Definition of Terms|操作性定义]]** 自变量必须通过[[Operationalization|操作化]]使其可测量或可操纵。抽象的[[Construct|构念]]（如学习动机）需要通过具体的操作（如特定的激励方案）转化为可实施的自变量（p. 330）。
 > - **优先级排序** 当存在多个候选自变量时，最重要的变量在实验中操纵，其他的保持恒定或作为协变量处理（p. 330）。
 
-[[Factorial Design|因子设计]]中，两个或多个自变量同时被操纵，每个自变量的不同水平组合构成不同的实验条件。此时不仅可以检验每个自变量的主效应（main effect），还可以检验自变量之间的交互效应（interaction effect），即一个自变量的效应是否依赖于另一个自变量的水平（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 323–324]]）。
+[[Factorial Design|因子设计]]中，两个或多个自变量同时被操纵，每个自变量的不同水平组合构成不同的实验条件。此时不仅可以检验每个自变量的主效应（main effect），还可以检验自变量之间的[[Interaction Effect|交互效应]]（interaction effect），即一个自变量的效应是否依赖于另一个自变量的水平（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 323–324]]）。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 自变量 vs [[Dependent Variable|因变量]]
+> [!contrast-table] 自[[Variable|变量]] vs [[Dependent Variable|因变量]]
 > | 维度 | 自变量 | [[Dependent Variable\|因变量]] |
 > |---|---|---|
 > | **角色** | 输入（input），原因 | 输出（outcome），结果 |
 > | **操纵方式** | 被主动操纵或选择 | 被观察和测量 |
-> | **因果位置** | 前因（presumed cause） | 后果（presumed effect） |
+> | **[[Causality\|因果]]位置** | 前因（presumed cause） | 后果（presumed effect） |
 > | **研究设计中的处理** | 控制、隔离、操纵其水平 | 通过前测和后测测量其变化 |
 > | **示例** | 教学方法、药物剂量、课程时长 | 考试成绩、康复速度、阅读能力 |
 
@@ -94,4 +94,4 @@ updated: 2026-07-12
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — Kgaile & Morrison (2006) 识别了七个影响[[School Effectiveness|学校效能]]的自变量；小麦肥料实验中肥料是有无施加作为自变量；资源可用性（3 水平）和学习动机（3 水平）在[[Factorial Design|因子设计]]中各为自变量。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — Kgaile & Morrison (2006) 识别了七个影响[[School Effectiveness|学校效能]]的自[[Variable|变量]]；小麦肥料实验中肥料是有无施加作为自变量；资源可用性（3 水平）和学习动机（3 水平）在[[Factorial Design|因子设计]]中各为自变量。

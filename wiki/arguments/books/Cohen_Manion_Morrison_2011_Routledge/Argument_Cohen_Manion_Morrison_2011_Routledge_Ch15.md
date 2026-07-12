@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_display_title: "Research Methods in Education · Ch15"
 argument_kind: "book-chapter"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Falsification]]"
   - "[[Literature Review]]"
+  - "[[Interaction Effect]]"
   - "[[Alternative Hypothesis]]"
   - "[[Probabilistic Causation]]"
 related_methods:
@@ -64,7 +65,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 status: draft
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-13
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -469,7 +470,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 
 > [!feature] 四种控制手段
 > - **匹配被试（[[Matching]]）** 在因果-比较设计中，将实验组和对照组的被试在重要且相关的特征上进行匹配，这是最常用的引入控制的手段。Ary et al.（2009）指出[[Matched Pairs Design|配对设计]]（matched pair designs；见第16章）需仔细匹配可能影响研究的相关特征（示例见 Leow, 2009）。困难在于：(1) 未必知道哪些因素是相关的，即哪些因素可能与因变量有关；(2) 无法匹配的被试将被淘汰，导致样本缩减。Lewis-Beck（1993, p. 43）报告了一个从 1,194 缩减到 46 的匹配后样本缩减实例（p. 316）。
-> - **将额外自变量纳入设计并使用[[Analysis of Variance|方差分析]]** 作为匹配的替代程序，建议将外部自变量纳入设计然后使用方差分析。例如智力是相关的外部变量，但又无法通过匹配等方式控制时，可将其作为另一个自变量纳入研究，按智力水平对被试分类。通过方差分析揭示智力的主效应和交互效应，即使智力与因变量之间不能假设因果关系，也可显示组间在因变量上是否存在统计显著差异，以及智力对该差异的贡献（pp. 316–317）。
+> - **将额外自变量纳入设计并使用[[Analysis of Variance|方差分析]]** 作为匹配的替代程序，建议将外部自变量纳入设计然后使用方差分析。例如智力是相关的外部变量，但又无法通过匹配等方式控制时，可将其作为另一个自变量纳入研究，按智力水平对被试分类。通过方差分析揭示智力的主效应和[[Interaction Effect|交互效应]]，即使智力与因变量之间不能假设因果关系，也可显示组间在因变量上是否存在统计显著差异，以及智力对该差异的贡献（pp. 316–317）。
 > - **选择同质性样本** 建议在某一给定变量上选择尽可能同质的样本。例如智力是相关外部变量时，可通过只纳入一个智力水平的被试来控制其效应。这将自变量与其他常见关联的变量分离开（disentangle），使任何发现的效应可被合理地归因于自变量（p. 317）。
 > - **陈述并检验[[Alternative Hypothesis|替代假设]]** 明确陈述并检验能合理解释研究经验结果的其他可能假设。必须警惕，不要把事后回溯研究中第一个看起来合理的解释接受为必然唯一或最终的解释。经典案例：吸烟与肺癌的关系。卫生官员迅速接受"吸烟引发肺癌"的解释，而烟草公司提出替代假设：吸烟和肺癌可能都是某个尚未指明的第三因素的结果，即自变量和因变量都可能是单一共同原因的分别结果，这一可能性不可忽视。
 

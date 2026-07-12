@@ -9,7 +9,7 @@ aliases:
 summary: "评估同一测量工具在多次施测间得分稳定程度的信度指标，用于判断量表在不同时间点是否产生可比的分数"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Internal Consistency]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Construct]]"
+  - "[[Order Effects]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
 related_theories: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-26
+updated: 2026-07-13
 ---
 
 # Test-Retest Reliability
@@ -68,7 +69,7 @@ updated: 2026-06-26
 > 1. **首次施测** 在时间点 1 对一组受试者施测目标量表
 > 2. **间隔后重测** 在适当的时间间隔后对同一组受试者再次施测同一量表。常用适当间隔为两星期到一个月之间（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.5；Creswell & Creswell, 2022, Ch8）
 > 3. **计算相关系数** 一般使用皮尔逊积矩相关系数（[[Pearson Product-Moment Correlation]]）计算两次测量之间的相关。高相关（如 r > .70）表明量表具有良好的重测信度
-> 4. **报告均值差异** 评估是否存在系统性变化（如练习效应或疲劳效应）
+> 4. **报告均值差异** 评估是否存在系统性变化（如[[Order Effects|练习效应]]或疲劳效应）
 
 ### 计算公式与解读
 

@@ -10,7 +10,7 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
+  - "[[Attrition]]"
   - "[[Document]]"
   - "[[Causality]]"
   - "[[Value Neutrality]]"
@@ -61,7 +62,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-26
-updated: 2026-07-12
+updated: 2026-07-13
 year: 2025
 doi: "10.1080/03050068.2024.2398342"
 citation_aliases:
@@ -80,7 +81,7 @@ source_language: en
 > 近十年来中国农村出现大规模的[[Peidu|陪读]]（Peidu）现象，表现为农村家长放弃村级学校，选择在县城中心学校就读，并由成年家庭成员随迁陪同。这一教育迁移现象的本质是什么？作为一种在非市场化环境下发生的[[School Choice|择校]]（School Choice）行为，其过程是否仍受家庭资本与社会阶层的分层筛选？如果是，经济资本（Economic Capital）、社会资本（[[Social Capital Theory|social capital]]）和[[Cultural Capital|文化资本]]（Cultural Capital）是如何在小城市教育分层中发挥作用的？这给农村薄弱学校和城乡教育不平等带来了怎样的隐性后果？(pp.300–301)
 
 > [!claim] 核心主张
-> 中国小城市的择校迁移即陪读是由地方政府主导的、以学校集中化即撤点并校（[[Rural School Consolidation]]）与城镇学校扩张为核心的城镇化战略所强力驱动的。尽管放宽了户籍壁垒，但入学筛选并未导向教育公平，而是将传统的户口（[[Hukou System|hukou]]）行政壁垒隐性地置换为基于家庭资本的阶级壁垒。在这一机制下，经济资本决定了能否陪读，社会资本决定了能进入哪所声望梯度的学校（重点学校还是普通学校）。这一分层流失掏空了村落学校的生源和优质教师，加剧了农村教育系统性的恶性循环，实质上进一步拉大了城乡教育不平等。(pp.313–314)
+> 中国小城市的择校迁移即陪读是由地方政府主导的、以学校集中化即撤点并校（[[Rural School Consolidation]]）与城镇学校扩张为核心的城镇化战略所强力驱动的。尽管放宽了户籍壁垒，但入学筛选并未导向教育公平，而是将传统的户口（[[Hukou System|hukou]]）行政壁垒隐性地置换为基于家庭资本的阶级壁垒。在这一机制下，经济资本决定了能否陪读，社会资本决定了能进入哪所声望梯度的学校（重点学校还是普通学校）。这一分层[[Attrition|流失]]掏空了村落学校的生源和优质教师，加剧了农村教育系统性的恶性循环，实质上进一步拉大了城乡教育不平等。(pp.313–314)
 
 > [!concept-lens] 阅读透镜
 > - **探讨对象** 湖北省G县 12 所小学的农村家庭（包括县城陪读、乡镇陪读及非陪读）及当地教职工、官员的实证材料。(p.305)
@@ -173,7 +174,7 @@ source_language: en
 > - **村校撤并的强制推力** 自 2000 年代初以来，国家强力推行农村学校合并（[[Rural School Consolidation|农村学校撤并]]）政策。从 2000 年至 2022 年，中国农村小学的数量减少了 83%，即由 440,284 所跌至 76,093 所 (p.304)。农村学校大范围消失，导致大量学龄儿童面临长途通勤困难和食宿条件落后的处境，构成逼迫家庭离村的强大推力。
 > - **小城镇建设的政策拉力** 地方政府为推动小城镇建设、发展县域地产和繁荣城镇经济，有意通过教育服务集聚人口。G县教育局副局长在访谈中直言不讳地指出，政府鼓励农村居民搬迁到城镇，教育应当配合城市发展，通过在县城新建更多高标准学校来容纳并留住那些流向城镇的农村人口 (p.307)。
 > - **入学政策的行政松绑** G县政府在新建3号学校（2016年）及X号学校（2021年）时，暂停了传统的[[Hukou System|户籍制度]]（Hukou System）壁垒，实行不设户口限制、不收[[School Choice|择校]]费的开放性招生。X号学校校长确认，该校致力于向全县所有的孩子开放，不设置户籍限制。
-> - **数据与流向佐证** 调查问卷显示，72% 的陪读家庭表示搬迁的首要原因是为了获得更好的教育质量。生源在城镇学校的大量积聚与村庄学校的急剧流失，可以通过以下两份实证数据表（表 2、表 3）得到清晰证实 (p.306)。
+> - **数据与流向佐证** 调查问卷显示，72% 的陪读家庭表示搬迁的首要原因是为了获得更好的教育质量。生源在城镇学校的大量积聚与村庄学校的急剧[[Attrition|流失]]，可以通过以下两份实证数据表（表 2、表 3）得到清晰证实 (p.306)。
 
 > [!ref-table]- 表 2：县城与乡镇小学的跨学区农村生源占比 (2017/2018 学年)
 > | 学校位置 | 学校名称 | 在校生总数 (人) | 跨学区农村择校生 (人) | 占比 (%) |
@@ -448,7 +449,7 @@ source_language: en
 
 > [!stat-cards]- 核心统计数据
 > - **83%** 2000 年至 2022 年间，全国农村小学因合并政策而被关闭的比例。(p.304)
-> - **27.1%** G县被调查的 6 所农村学校仅保留了其对应学区服务人口内 27.1% 的学龄学生，生源流失极其惨重。(p.306, 表3)
+> - **27.1%** G县被调查的 6 所农村学校仅保留了其对应学区服务人口内 27.1% 的学龄学生，生源[[Attrition|流失]]极其惨重。(p.306, 表3)
 > - **68.1%** G县县城小学中，来自学区以外的农村随迁子女即择校迁移生源所占的比例。(p.306, 表2)
 > - **21,325 元** 2018 年G县县城陪读家庭的年均基本开支，是同期该县农村人均年收入即 10,340 元的 2.06 倍，构成了沉重的财务负担 (第 308 页)。
 > - **7,000 元** 2023 年追踪回访时，G县县城租房年租金的最低起步门槛价 (第 308 页)。
@@ -470,7 +471,7 @@ source_language: en
 > *The administrative discrimination based on [[Hukou System|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings.*
 
 > [!citation-card]- 村庄学校受到的附带损害
-> 农村儿童的流失使村级学校面临资金减少、教师流失加速、学业表现恶化以及最终学校关闭风险增加的困境。(pp.313–314)
+> 农村儿童的[[Attrition|流失]]使村级学校面临资金减少、教师流失加速、学业表现恶化以及最终学校关闭风险增加的困境。(pp.313–314)
 >
 > *The departure of rural children subjects village schools to decreased funding, accelerated teacher turnover, worsening academic performance, and an ultimately increased risk of school closures.*
 

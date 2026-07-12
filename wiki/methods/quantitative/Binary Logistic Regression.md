@@ -5,7 +5,7 @@ summary: "一种用于预测二分类因变量（如是否陪读、是否择校�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -14,6 +14,7 @@ tags:
   - method/regression
 related_concepts:
   - "[[Variable]]"
+  - "[[Attrition]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Statistical Significance]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # Binary Logistic Regression
@@ -52,7 +53,7 @@ updated: 2026-07-12
 ## 定义
 
 > [!def] 方法定义
-> 二元 Logistic 回归模型（Binary Logistic Regression Model）是一种专门用于因[[Variable|变量]]为二分类变量（Binary/Dichotomous Variable，例如是否[[Peidu|陪读]]、是否录取、是否流失）的广义线性回归分析方法。它通过 Logit 变换，将[[Dependent Variable|因变量]]发生的概率与不发生概率之比的对数（即 Logit 变换值）表示为[[Independent Variable|自变量]]的线性组合，并在不受自变量分布限制的情况下，估计各预测因子的优势比（Odds Ratio, OR）并检验其[[Statistical Significance|统计显著性]]。
+> 二元 Logistic 回归模型（Binary Logistic Regression Model）是一种专门用于因[[Variable|变量]]为二分类变量（Binary/Dichotomous Variable，例如是否[[Peidu|陪读]]、是否录取、是否[[Attrition|流失]]）的广义线性回归分析方法。它通过 Logit 变换，将[[Dependent Variable|因变量]]发生的概率与不发生概率之比的对数（即 Logit 变换值）表示为[[Independent Variable|自变量]]的线性组合，并在不受自变量分布限制的情况下，估计各预测因子的优势比（Odds Ratio, OR）并检验其[[Statistical Significance|统计显著性]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** 二分类分类变量与一组连续或分类自变量之间的统计预测关系。

@@ -5,7 +5,7 @@ aliases:
 summary: "围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Threats to Internal Validity]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
+  - "[[Interaction Effect]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Construct Validity]]"
   - "[[Paradigm]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-07-13
 ---
 
 ## 核心主张
@@ -108,7 +109,7 @@ updated: '2026-05-18'
 >
 > | 威胁 | 含义 |
 > |------|------|
-> | 多重处理干扰（Multiple-Treatment Interference） | 观察到的效果可能由多个交互作用的处理导致，则该效果不会推广到单一处理的情境 |
+> | 多重处理干扰（Multiple-Treatment Interference） | 观察到的效果可能由多个[[Interaction Effect\|交互作用]]的处理导致，则该效果不会推广到单一处理的情境 |
 > | 跨情境推广性（Generality across Settings） | 效果是否在不同类型的场所（学校/诊所/家庭）中成立 |
 > | 跨被试推广性（Generality across Subjects） | 效果是否适用于不同于原研究被试特征的人群 |
 > | 跨结果推广性（Generality across Outcomes） | 效果是否在类似但不同的结果变量上成立 |

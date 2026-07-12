@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Causality]]"
   - "[[Abstract]]"
+  - "[[Attrition]]"
   - "[[Statistical Significance]]"
   - "[[School Leadership]]"
   - "[[Effect Size]]"
@@ -76,7 +77,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-06-08'
+updated: 2026-07-13
 year: 2024
 doi: ""
 citation_aliases:
@@ -166,7 +167,7 @@ citation_aliases:
 > | 评级对象            | 单项研究；按结果域评价教育干预                                                         | 单项研究；具名项目 | 项目，不单独评级研究                                                     | 项目，不单独评级研究                                                                               |
 > | 项目/干预总体评级       | Positive; potentially positive; mixed; potentially negative; negative; no discernible effects；证据量标注为 medium to large 或 small | Model plus; model; promising; non-certified（证据不足/不确定、无效或有害）    | Strong、moderate、limited、insufficient evidence of effectiveness | Well-supported; supported; promising; evidence fails to demonstrate effect; NR           |
 > | 单项研究评级          | Meets standards without reservations; meets standards with reservations; does not meet standards                             | Certified 或 not certified                                      | 未说明                                                            | 提供[[Abstract\|研究摘要]]，但不为单项研究评级                                                                         |
-> | 最高研究质量/纳入规则     | 个体 RCT 低流失、cluster RCT 无偏倚风险、满足条件的 RDD；第二层级包括高流失 RCT 和满足基线等值等条件的 QED                                                         | 依据分配程序、流失、基线等值、统计方法、[[Intent-to-Treat Analysis\|ITT]]、结果性质、样本量、测量信效度评估                       | 未说明                                                            | 工作人员使用研究设计、控制/比较组性质、至少一个结果测量的信效度、所有干预组件是否一起分析等标准                                         |
+> | 最高研究质量/纳入规则     | 个体 RCT 低[[Attrition\|流失]]、cluster RCT 无偏倚风险、满足条件的 RDD；第二层级包括高流失 RCT 和满足基线等值等条件的 QED                                                         | 依据分配程序、流失、基线等值、统计方法、[[Intent-to-Treat Analysis\|ITT]]、结果性质、样本量、测量信效度评估                       | 未说明                                                            | 工作人员使用研究设计、控制/比较组性质、至少一个结果测量的信效度、所有干预组件是否一起分析等标准                                         |
 > | 最高项目评级所需研究数量与类型 | 至少两项研究，且至少一项为 "Meets WWC Evidence Standards Without Reservations"                                                            | 至少两项高质量 RCT，或一项高质量 RCT 加一项高质量 QED                              | 一项 RCT 或高质量 QED                                                | 至少两项非重叠样本的高质量 RCT                                                                        |
 > | 效果展示            | 指定结果上有正向效果                                                                                                                   | 指定结果上有正向效果                                                     | 指定结果上有正向效果                                                     | 指定结果上有正向效果                                                                               |
 > | [[Statistical Significance\|统计显著性]]           | 要求统计显著                                                                                                                       | 要求统计显著                                                         | 未说明                                                            | 未说明                                                                                      |
@@ -242,7 +243,7 @@ citation_aliases:
 
 > [!example] 核心论证
 > 1. 清算中心被设计为 [[Evidence-Based Education]] 的中介基础设施：它们设定科学质量标准，筛选和评价项目研究，综合证据，并把项目是否有效的结论传播给政策制定者、教师、[[School Leadership|学校领导]]和公众(p.4)。
-> 2. 但这些清算中心在机构任务、目标人群、资金结构、评价对象、项目纳入标准、研究纳入标准和[[Causality|因果]]设计标准上高度异质；虽然全部偏好 [[Randomised Controlled Trials|RCT]]，却对 RCT 实施质量、[[Quasi-Experimental Designs|QED]] 权重、RDD/ITS 地位、[[Intent-to-Treat Analysis|意向治疗分析]]、流失标准、基线等值检验等细节处理不同(pp.6–12)。
+> 2. 但这些清算中心在机构任务、目标人群、资金结构、评价对象、项目纳入标准、研究纳入标准和[[Causality|因果]]设计标准上高度异质；虽然全部偏好 [[Randomised Controlled Trials|RCT]]，却对 RCT 实施质量、[[Quasi-Experimental Designs|QED]] 权重、RDD/ITS 地位、[[Intent-to-Treat Analysis|意向治疗分析]]、[[Attrition|流失]]标准、基线等值检验等细节处理不同(pp.6–12)。
 > 3. 更关键的是，清算中心对"什么足以构成高等级项目证据"没有共识：有的接受单项统计显著研究，有的要求特定[[Effect Size|效应量]]、独立复制、跨地点复制或 6–12 个月以上的持续效果(pp.11–15)。
 > 4. 这种标准差异导致同一项目的推荐结论往往不一致。1,359 个项目中 83.2% 只被一个清算中心评级，只有 17% 有多重评级可供比较；在多重评级项目中，评级一致性有限，而且最容易达成一致的是"不推荐"，最难一致的是"推荐/最高等级"(pp.18–19)。
 > 5. 因此，清算中心语境中的"evidence-based"更像一个政策愿望，而不是已经可靠实现的研究实践；它具有有限的实践[[Construct Validity|构念效度]]，使用者应将单一清算中心评级视为带有特定标准[[Hypothesis|假设]]的判断，而不是中立认证(pp.3, 26–27)。

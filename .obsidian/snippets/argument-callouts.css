@@ -14182,3 +14182,358 @@
 .callout:has(.concept-meta-robustness-table-marker) td:nth-child(5) { width: 15% !important; }
 .callout:has(.concept-meta-robustness-table-marker) th:nth-child(6),
 .callout:has(.concept-meta-robustness-table-marker) td:nth-child(6) { width: 18% !important; }
+
+/* 通用横向滚动表格（scrollable-table-marker） */
+.scrollable-table-marker {
+  display: none;
+}
+
+.callout:has(.scrollable-table-marker) > .callout-content {
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scrollbar-gutter: stable;
+  padding-bottom: 0.18rem;
+}
+
+.callout:has(.scrollable-table-marker) table {
+  width: 100%;
+  min-width: 1200px;
+  table-layout: auto !important;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   design-notation — 实验/准实验设计 R/X/O 记号（Campbell & Stanley）
+   符号配色：组别标签＝主色徽章／R·NR＝靛蓝／X＝琥珀／O＝翠绿
+   ═══════════════════════════════════════════════════════════ */
+.callout[data-callout="design-notation"] {
+  --callout-color: 27, 121, 130;
+  --dn-assign: 214, 62, 70;   /* R / NR — 朱红 */
+  --dn-x: 217, 132, 22;       /* X — 琥珀 */
+  --dn-o: 13, 148, 110;       /* O — 翠绿 */
+  --callout-icon: lucide-shuffle;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(27, 121, 130, 0.22);
+  border-left: 6px solid rgb(27, 121, 130);
+  border-radius: 10px;
+  background:
+    radial-gradient(circle at 1px 1px, rgba(27, 121, 130, 0.10) 1px, transparent 1px),
+    linear-gradient(135deg, rgba(27, 121, 130, 0.08), rgba(27, 121, 130, 0.015)),
+    var(--background-primary);
+  background-size: 14px 14px, 100% 100%, 100% 100%;
+  box-shadow: 0 2px 10px rgba(27, 121, 130, 0.07);
+}
+
+/* 沿左边框流动的高光条 — 动感来源 1 */
+.callout[data-callout="design-notation"]::after {
+  content: "";
+  position: absolute;
+  left: -1px;
+  top: -35%;
+  width: 6px;
+  height: 35%;
+  background: linear-gradient(180deg, transparent, rgba(190, 235, 235, 0.95), transparent);
+  animation: dn-flow 2.6s ease-in-out infinite;
+  pointer-events: none;
+}
+
+@keyframes dn-flow {
+  0%   { top: -35%; }
+  100% { top: 100%; }
+}
+
+.callout[data-callout="design-notation"] > .callout-title {
+  color: rgb(27, 121, 130);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.callout[data-callout="design-notation"] > .callout-title .callout-title-inner::before {
+  content: "DESIGN";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(27, 121, 130, 0.13);
+  color: rgb(27, 121, 130);
+  font-size: var(--fs-label);
+  font-weight: 820;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="design-notation"] > .callout-content {
+  font-size: var(--fs-body);
+  line-height: 1.65;
+}
+
+/* 说明段落（记号列表之前的文字）与记号列表之间留出呼吸空间 */
+.callout[data-callout="design-notation"] > .callout-content > p {
+  margin: 0 0 0.3rem;
+}
+
+/* 记号列表容器：去掉默认项目符号，行与行之间留缝隙 */
+.callout[data-callout="design-notation"] > .callout-content ul {
+  list-style: none;
+  margin: 0.55rem 0 0.15rem;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+/* 每一行 = 一个组别：pill 徽章横向排列 + 悬停浮动 + 入场动画 */
+.callout[data-callout="design-notation"] > .callout-content li {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0.35rem 0.6rem;
+  border-radius: 8px;
+  list-style: none;
+  transition: background 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  animation: dn-rise 0.45s ease both;
+}
+
+.callout[data-callout="design-notation"] > .callout-content li::marker,
+.callout[data-callout="design-notation"] > .callout-content li::before,
+.callout[data-callout="design-notation"] > .callout-content li > p::marker,
+.callout[data-callout="design-notation"] > .callout-content li > p::before,
+.callout[data-callout="design-notation"][data-callout="design-notation"] .callout-content li::marker,
+.callout[data-callout="design-notation"][data-callout="design-notation"] .callout-content li::before {
+  content: none !important;
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+.callout[data-callout="design-notation"] > .callout-content ul,
+.callout[data-callout="design-notation"] > .callout-content li,
+.callout[data-callout="design-notation"] > .callout-content li > p,
+.callout[data-callout="design-notation"][data-callout="design-notation"] .callout-content ul,
+.callout[data-callout="design-notation"][data-callout="design-notation"] .callout-content li {
+  list-style: none !important;
+  list-style-type: none !important;
+  list-style-image: none !important;
+  list-style-position: outside !important;
+}
+
+/* 松散列表时 Obsidian 会给每个 li 内容包一层 <p>，让徽标选择器仍能命中 */
+.callout[data-callout="design-notation"] > .callout-content li > p {
+  display: contents;
+}
+
+.callout[data-callout="design-notation"] > .callout-content li:hover {
+  background: rgba(27, 121, 130, 0.06);
+  transform: translateX(3px);
+  box-shadow: 0 2px 8px rgba(27, 121, 130, 0.08);
+}
+
+.callout[data-callout="design-notation"] > .callout-content li:nth-child(1) { animation-delay: 0.02s; }
+.callout[data-callout="design-notation"] > .callout-content li:nth-child(2) { animation-delay: 0.10s; }
+.callout[data-callout="design-notation"] > .callout-content li:nth-child(3) { animation-delay: 0.18s; }
+.callout[data-callout="design-notation"] > .callout-content li:nth-child(4) { animation-delay: 0.26s; }
+.callout[data-callout="design-notation"] > .callout-content li:nth-child(5) { animation-delay: 0.34s; }
+
+@keyframes dn-rise {
+  from { opacity: 0; transform: translateY(7px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* 组别标签徽章（**粗体** = strong）— 蓝色，比记号徽标更宽更醒目
+   不再依赖 :first-child 排序：label 固定用 strong，R/NR 固定用 em，靠标签名而非位置区分 */
+.callout[data-callout="design-notation"] > .callout-content li > strong {
+  flex: 0 0 auto;
+  flex-shrink: 0;
+  min-width: 7.5em;
+  width: max-content;
+  white-space: nowrap;
+  padding: 0.3rem 1rem;
+  border-radius: 7px;
+  background: rgba(45, 95, 220, 0.14);
+  border: 1px solid rgba(45, 95, 220, 0.28);
+  color: rgb(35, 80, 195);
+  font-weight: 700;
+  font-size: 0.95em;
+  text-align: center;
+  letter-spacing: 0.01em;
+}
+
+/* R / NR 徽章（*斜体* = em）— 朱红圆角 pill，圆点前缀 */
+.callout[data-callout="design-notation"] > .callout-content li > em {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+  width: 2.7em;
+  justify-content: center;
+  padding: 0.18rem 0.3rem;
+  border-radius: 999px;
+  background: rgba(var(--dn-assign), 0.14);
+  border: 1px solid rgba(var(--dn-assign), 0.30);
+  color: rgb(var(--dn-assign));
+  font-family: var(--font-monospace);
+  font-style: normal;
+  font-weight: 800;
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+  transition: transform 0.15s ease;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.callout[data-callout="design-notation"] > .callout-content li > em::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: rgb(var(--dn-assign));
+}
+
+.callout[data-callout="design-notation"] > .callout-content li > em:hover {
+  transform: scale(1.08);
+}
+
+/* X 徽章（干预）— 琥珀 pill，带脉冲光晕提示"干预时刻" */
+.callout[data-callout="design-notation"] > .callout-content li > code {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.7em;
+  padding: 0.18rem 0.3rem;
+  border-radius: 999px;
+  background: rgba(var(--dn-x), 0.14);
+  border: 1px solid rgba(var(--dn-x), 0.32);
+  color: rgb(var(--dn-x));
+  font-family: var(--font-monospace);
+  font-weight: 800;
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+  animation: dn-pulse-x 2.4s ease-in-out infinite;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+@keyframes dn-pulse-x {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(var(--dn-x), 0.28); }
+  50%      { box-shadow: 0 0 0 4px rgba(var(--dn-x), 0); }
+}
+
+/* O 徽章（观测）— 翠绿 pill */
+.callout[data-callout="design-notation"] > .callout-content li > mark {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.7em;
+  padding: 0.18rem 0.3rem;
+  border-radius: 999px;
+  background: rgba(var(--dn-o), 0.14);
+  border: 1px solid rgba(var(--dn-o), 0.32);
+  color: rgb(var(--dn-o));
+  font-family: var(--font-monospace);
+  font-weight: 800;
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+/* 占位徽标（~~·~~）— 某组缺少该位置的记号时用它保留列宽，使各行纵向对齐；
+   几何尺寸与 R/X/O 徽标完全一致（同样的 box-sizing / width / padding），但不可见 */
+.callout[data-callout="design-notation"] > .callout-content li > del,
+.callout[data-callout="design-notation"] > .callout-content li > s {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.7em;
+  padding: 0.18rem 0.3rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  font-family: var(--font-monospace);
+  font-weight: 800;
+  font-size: 0.92em;
+  letter-spacing: 0.02em;
+  visibility: hidden;
+  text-decoration: none;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+/* 非等价分隔线（由正文 --- 生成）：虚线流动 + 居中 "非等价" 标签 */
+.callout[data-callout="design-notation"] > .callout-content hr {
+  position: relative;
+  margin: 0.7rem 0;
+  border: none;
+  height: 2px;
+  background: repeating-linear-gradient(90deg,
+    rgba(210, 90, 100, 0.55) 0 8px,
+    transparent 8px 16px);
+  background-size: 32px 2px;
+  animation: dn-dash-flow 1.3s linear infinite;
+}
+
+@keyframes dn-dash-flow {
+  from { background-position: 0 0; }
+  to   { background-position: 32px 0; }
+}
+
+.callout[data-callout="design-notation"] > .callout-content hr::after {
+  content: "非等价";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--background-primary);
+  padding: 0 0.6rem;
+  border-radius: 4px;
+  color: rgb(200, 80, 90);
+  font-size: var(--fs-label);
+  font-weight: 750;
+  letter-spacing: 0.06em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout[data-callout="design-notation"]::after,
+  .callout[data-callout="design-notation"] > .callout-content li,
+  .callout[data-callout="design-notation"] > .callout-content li > code,
+  .callout[data-callout="design-notation"] > .callout-content hr {
+    animation: none !important;
+  }
+}
+
+.theme-dark .callout[data-callout="design-notation"] {
+  --callout-color: 92, 209, 214;
+  --dn-assign: 240, 105, 110;  /* R / NR 暗色模式 — 亮朱红 */
+  --dn-x: 235, 165, 70;
+  --dn-o: 60, 200, 165;
+  border-color: rgba(92, 209, 214, 0.22);
+  border-left-color: rgb(92, 209, 214);
+  background:
+    radial-gradient(circle at 1px 1px, rgba(92, 209, 214, 0.08) 1px, transparent 1px),
+    linear-gradient(135deg, rgba(92, 209, 214, 0.08), rgba(92, 209, 214, 0.02)),
+    var(--background-primary);
+  background-size: 14px 14px, 100% 100%, 100% 100%;
+}
+
+.theme-dark .callout[data-callout="design-notation"] > .callout-title {
+  color: rgb(92, 209, 214);
+}
+
+.theme-dark .callout[data-callout="design-notation"] > .callout-title .callout-title-inner::before {
+  background: rgba(92, 209, 214, 0.14);
+  color: rgb(92, 209, 214);
+}
+
+.theme-dark .callout[data-callout="design-notation"] > .callout-content li > strong {
+  background: rgba(110, 150, 255, 0.16);
+  border-color: rgba(110, 150, 255, 0.32);
+  color: rgb(170, 195, 255);
+}
+
+.theme-dark .callout[data-callout="design-notation"] > .callout-content hr::after {
+  color: rgb(235, 130, 140);
+}

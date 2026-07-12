@@ -8,16 +8,19 @@ summary: "准实验设计的一种，对非随机取样的组在接受实验处�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental-design
   - source/textbook
   - paradigm/positivist
 related_concepts:
+  - "[[Order Effects]]"
+  - "[[Attrition]]"
   - "[[Hawthorne Effect]]"
+  - "[[Interaction Effect]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -31,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-13
 ---
 
 # Time Series Design
@@ -59,7 +62,7 @@ updated: 2026-06-25
 
 ### 相等时间样本设计
 
-相等时间样本设计是时间序列的变体，实验处理与控制处理在相等的时间内交互间隔出现，每位被试均重复接受这些处理。模式为：X₁ O₁ X₀ O₂ X₁ O₃ X₀ O₄ …（X₁ 为实验处理，X₀ 为不实施处理）。为控制练习效应，可设计成 ABBA 顺序安排（A 为无处理，B 为实施处理）（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.4）。
+相等时间样本设计是时间序列的变体，实验处理与控制处理在相等的时间内交互间隔出现，每位被试均重复接受这些处理。模式为：X₁ O₁ X₀ O₂ X₁ O₃ X₀ O₄ …（X₁ 为实验处理，X₀ 为不实施处理）。为控制[[Order Effects|练习效应]]，可设计成 ABBA 顺序安排（A 为无处理，B 为实施处理）（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.4）。
 
 ### 控制组时间序列设计
 
@@ -75,8 +78,8 @@ O₁ O₂ O₃ — O₄ O₅ O₆（控制组）
 ## 效度特征
 
 > [!feature] 时间序列设计的控制能力
-> - **可有效控制** 成熟、测验、测量工具、统计回归、选择偏差、被试流失——通过系列前测与后测对一组被试的稳定变化有所了解，也能对两组处理前后的稳定变化进行比较。
-> - **无法避免** 同时事件（历史因素）、[[Hawthorne Effect|霍桑效应]]、练习误差——测验的反作用或交互作用效果以及实验安排的反作用效果无法避免。
+> - **可有效控制** 成熟、测验、测量工具、统计回归、选择偏差、被试[[Attrition|流失]]——通过系列前测与后测对一组被试的稳定变化有所了解，也能对两组处理前后的稳定变化进行比较。
+> - **无法避免** 同时事件（历史因素）、[[Hawthorne Effect|霍桑效应]]、练习误差——测验的反作用或[[Interaction Effect|交互作用]]效果以及实验安排的反作用效果无法避免。
 
 ---
 
@@ -84,7 +87,7 @@ O₁ O₂ O₃ — O₄ O₅ O₆（控制组）
 
 > [!method-fit] 适用判断
 > - **适合使用** 固定整组的课堂教学研究；需要在自然情境下检验干预效果；无法[[Random Assignment|随机分组]]的场景。
-> - **谨慎使用** 实验时间较长时，历史事件的影响可能增大；需要对练习效应和[[Hawthorne Effect|霍桑效应]]有额外控制措施。
+> - **谨慎使用** 实验时间较长时，历史事件的影响可能增大；需要对[[Order Effects|练习效应]]和[[Hawthorne Effect|霍桑效应]]有额外控制措施。
 > - **不适合使用** 需要严格[[Causality|因果推断]]的研究（优先选择真实验设计）。
 
 ---

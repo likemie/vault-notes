@@ -44,6 +44,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
+  - "[[Interaction Effect]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Nordic Model of Education]]"
   - "[[Champ]]"
@@ -73,14 +74,14 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-07-08
+updated: 2026-07-13
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -284,7 +285,7 @@ issuing_organization: ""
 ### 论证步骤四：三层机制模型
 
 > [!claim]
-> PISA 对各国教育政策的影响不是直接的[[Causality|因果]]效应，而是在**超国家组织（OECD 的软治理与模范社会塑造）**、**国家层面（自我认知落差、文化-制度转译与[[Policy Borrowing|政策借用]]）**和**内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）**三个层级的交互作用下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。该模型揭示了 PISA 与教育改革之间的双向互动：PISA 通过超国家层级的软治理影响国家政策，各国也通过选择性政策借用和内部行动者转译来主动回应和重新解释 PISA 信息。
+> PISA 对各国教育政策的影响不是直接的[[Causality|因果]]效应，而是在**超国家组织（OECD 的软治理与模范社会塑造）**、**国家层面（自我认知落差、文化-制度转译与[[Policy Borrowing|政策借用]]）**和**内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）**三个层级的[[Interaction Effect|交互作用]]下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。该模型揭示了 PISA 与教育改革之间的双向互动：PISA 通过超国家层级的软治理影响国家政策，各国也通过选择性政策借用和内部行动者转译来主动回应和重新解释 PISA 信息。
 
 > [!factors] 第一层：超国家层级
 > - **OECD 的软治理模式**

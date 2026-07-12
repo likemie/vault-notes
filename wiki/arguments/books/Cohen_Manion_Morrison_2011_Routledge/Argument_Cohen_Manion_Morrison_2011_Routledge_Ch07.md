@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
+  - "[[Attrition]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Reflexivity]]"
   - "[[Trustworthiness]]"
@@ -96,7 +97,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-21
-updated: 2026-07-10
+updated: 2026-07-13
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07
 
@@ -648,7 +649,7 @@ updated: 2026-07-10
 
 ### 7.12 管理研究规划
 
-研究规划的复杂性意味着不能假定研究会始终按计划进行。样本流失、低回复率、行政支持不到位、时间滑移都可能导致问题。不是不制定计划，而是对其投以**绝对信任是危险的（pp.147–148）**。
+研究规划的复杂性意味着不能假定研究会始终按计划进行。[[Attrition|样本流失]]、低回复率、行政支持不到位、时间滑移都可能导致问题。不是不制定计划，而是对其投以**绝对信任是危险的（pp.147–148）**。
 
 #### 四阶段管理模型
 

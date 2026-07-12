@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
 - what-works-clearinghouse
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Causality]]"
+  - "[[Attrition]]"
   - "[[Effect Size]]"
   - "[[Internal Validity]]"
   - "[[Research Question]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: 2026-07-13
 ---
 ## 概述
 
@@ -91,7 +92,7 @@ updated: '2026-05-18'
 >
 > WWC 主题特定综述协议会规定结果域、研究焦点（仅影响研究）、样本特征、20 年出版滞后期、学校为主的研究场景、干预特征、英文报告，以及限定为 RCT、RDD、[[Single-Case Design|SCD]] 和 QED 的研究设计([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–9]])。
 >
-> WWC 对 RCT 的实施质量有详细规定：它是唯一对集群层级[[Random Assignment|随机分配]]提供深入说明的清算中心；它允许在特定条件下计算 CACE。其流失标准结合总体流失和差异流失：预期流失偏差低于可容忍水平（0.05 SD 或以下）时可获得最高研究评级；若基线差异低于 0.05 SD，可获得正向研究评级且无需统计调整；0.05–0.25 SD 之间需调整；超过 0.25 SD 则不能满足 WWC 质量标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
+> WWC 对 RCT 的实施质量有详细规定：它是唯一对集群层级[[Random Assignment|随机分配]]提供深入说明的清算中心；它允许在特定条件下计算 CACE。其[[Attrition|流失]]标准结合总体流失和差异流失：预期流失偏差低于可容忍水平（0.05 SD 或以下）时可获得最高研究评级；若基线差异低于 0.05 SD，可获得正向研究评级且无需统计调整；0.05–0.25 SD 之间需调整；超过 0.25 SD 则不能满足 WWC 质量标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
 >
 > WWC 的 Standards and Procedures Handbooks（Version 4.0）详细规定如何评估教育研究的严谨性。研究被分为三级：Meets Standards Without Reservations（仅限实验设计或满足特定标准的回归断点设计）、Meets Standards With Reservations（达到特定方法标准的准实验设计）、Does Not Meet Standards（未达标研究）。[[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 只纳入达到前两级标准的研究，最终样本为 755 个[[Effect Size|效应量]]，来自 169 项研究([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p.433]])。
 >

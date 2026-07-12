@@ -9,9 +9,9 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 49
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 50
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Heterogeneity]]"
+  - "[[Attrition]]"
   - "[[Pre-test Sensitisation]]"
 related_theories: []
 related_methods:
@@ -75,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 
 # Survey Research
@@ -274,7 +275,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 > [!tip]-
 > - **[[Cross-sectional Study|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Observational and Correlational Research|相关性研究]]问题，但难以建立[[Causality|因果关系]]。
-> - **[[Longitudinal Study|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临样本流失（attrition）和控制效应（control effect）等问题。
+> - **[[Longitudinal Study|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临[[Attrition|样本流失]]（attrition）和控制效应（control effect）等问题。
 > - **[[Cohort Study|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国[[Document|文献]]中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。
 > - **[[Trend Study|趋势研究]]（Trend Study）** 关注因素而非人群，在不同时间点抽取不同样本但聚焦相同因素，避免了[[Pre-test Sensitisation|预试敏感化]]（pre-test sensitisation）问题。
 > - **[[Internet-based Survey|互联网调查]]** 通过互联网进行数据收集，成本低、速度快，可触及广泛人群，但面临抽样偏差和低回应率等挑战。

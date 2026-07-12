@@ -10,7 +10,7 @@ aliases:
 summary: "基于地点的跨部门联合体，将区域内大学、企业、投资者和政府组织起来围绕共同愿景进行大规模创新投资，TUFF 以四个信条和六项优先领域为其实践框架，目标是提升社区居民生活水平"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[University-Based Research Center]]"
   - "[[Industry Affiliate Program]]"
+  - "[[Attrition]]"
   - "[[University-Industry Collaboration]]"
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-07-13
 ---
 
 # Innovation Hub
@@ -98,7 +99,7 @@ updated: 2026-05-28
 > 现代创新中心的发展经历了从早期[[Innovation Park|科技园区]]的物理空间逻辑到当代[[Innovation Ecosystem|创新生态系统]]的关系密度逻辑的转变。
 
 > [!note]-
-> - **1959**[[Research Triangle Park]]（RTP）在北卡罗来纳州启动，由杜克大学、北卡罗来纳大学教堂山分校和北卡罗来纳州立大学三校联合发起，最初是一个"不可能的概念"——由地区银行总裁和本地开发商推动的营利性项目，旨在扭转该州经济衰退和人才流失。IBM 的初始锚定投资为建设 60 万平方英尺设施。RTP 发展出"良性循环"模式：投资激励产业参与，产业参与进一步吸引投资([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.130–131]])
+> - **1959**[[Research Triangle Park]]（RTP）在北卡罗来纳州启动，由杜克大学、北卡罗来纳大学教堂山分校和北卡罗来纳州立大学三校联合发起，最初是一个"不可能的概念"——由地区银行总裁和本地开发商推动的营利性项目，旨在扭转该州经济衰退和人才[[Attrition|流失]]。IBM 的初始锚定投资为建设 60 万平方英尺设施。RTP 发展出"良性循环"模式：投资激励产业参与，产业参与进一步吸引投资([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.130–131]])
 > - **1978**[[Central Florida Research Park|中佛罗里达研究园]]通过与 UCF 合作建立，1993 年海军空战中心迁入成为转折点（p.132）
 > - **1982**[[TUFF]] 在佐治亚州亚特兰大成立，由 Georgia Tech 校友基于 Pettit 校长的三项授权创立，开创了以私营部门交付模式建设大学研究设施的先河（p.123）
 > - **1999**[[Kendall Square|剑桥创新中心]]（CIC）在马萨诸塞州剑桥市成立，推动联合办公和跨校协同研发（p.128）

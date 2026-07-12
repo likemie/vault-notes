@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/neuroscience
   - theme/accountability
 related_concepts:
+  - "[[Attrition]]"
   - "[[School Leadership]]"
   - "[[Effective Teaching]]"
   - "[[Classroom Management]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-06-16
+updated: 2026-07-13
 ---
 
 # Strong Beginnings Report
@@ -58,7 +59,7 @@ updated: 2026-06-16
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2023年正式发布，由澳大利亚联邦教育部长杰森·克莱尔（Jason Clare）于2022年9月任命的教师教育专家小组（Teacher Education Expert Panel, TEEP）起草。[[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]])
 > - **适用地区 / 对象** 适用于澳大利亚全国初始教师教育（Initial Teacher Education, ITE）提供商（大学）与职前教师。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
-> - **问题背景** 政策发起于全国性严重的教师流失与短缺危机，但政府倾向于将危机表征为教师培训质量缺陷与“课堂准备度”不够。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]])
+> - **问题背景** 政策发起于全国性严重的教师[[Attrition|流失]]与短缺危机，但政府倾向于将危机表征为教师培训质量缺陷与“课堂准备度”不够。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]])
 > - **制度位置** 延续了2015年《行动方案》（[[Teacher Education Ministerial Advisory Group|TEMAG]] Report）与2021年优质初始教师教育（QITE）审查报告（*Next Steps*）的惩罚性问责逻辑，但首次将脑科学转向作为核心特征。
 
 ---
@@ -118,7 +119,7 @@ updated: 2026-06-16
 ## 争议与评论
 
 > [!tension] 争议焦点
-> - **目标争议：回避工作量危机** 政策名义上回应教师短缺危机，但对 [[Australian Institute for Teaching and School Leadership|AITSL]] 调查中教师指出的最大流失原因——过重工作量保持沉默，反而病理化教师教育质量。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]])
+> - **目标争议：回避工作量危机** 政策名义上回应教师短缺危机，但对 [[Australian Institute for Teaching and School Leadership|AITSL]] 调查中教师指出的最大[[Attrition|流失]]原因——过重工作量保持沉默，反而病理化教师教育质量。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 3–4]])
 > - **工具争议：标准化与回应性教学冲突** 强制推行高度标准化的“脑科学”指令课程，与政策文本同时要求学生学习根据情境和文化提供“回应性教学”在逻辑和智识上是自我冲突的。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 6]])
 > - **执行争议：保守智库游说与意识形态俘获** 强制指定的参考[[Document|文献]]中包含由右翼保守智库 [[Community Innovation Survey|CIS]] 资助、且未经双盲评审的文献（Sweller, 2021），这使得私人利益在“中性科学”话语下完成了对公共教育大纲的隐形嵌入。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 9–10]])
 > - **价值争议：生物决定论的优生学历史风险** 政策将大脑视为中性硬件进行生物简化主义处理，忽视了教育史上生物决定论和缺陷大脑话语往往与优生学、社会达尔文主义及隐性种族主义紧密交织的惨重历史教训。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 7–8]])

@@ -9,7 +9,7 @@ summary: "利用初始份额分布与总体冲击的交互项构建工具变量�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Dependent Variable]]"
   - "[[Epistemology]]"
-  - "[[Independent Variable]]"
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-07-13
 ---
 
 # Shift-Share Instrument
@@ -62,7 +61,7 @@ updated: 2026-06-26
 > - **知识观** 计量经济学[[Causality|因果推断]]框架。前提是存在一个可用的初始截面分布，其本身不受后续处理分配策略的影响。
 > - **研究者角色** 研究者需要论证初始份额的历史或制度外生性，并在实证中报告一阶段 F 统计量和弱工具[[Variable|变量]]检验。
 > - **有效性标准** 相关性（一阶段 F > 10）和外生性（排他性约束），通常需结合定性论证和安慰剂检验。
-> - **不声称回答的问题** Shift-share [[Independent Variable|IV]] 识别的局部平均处理效应（LATE）——只能识别对"依从者"（compliers）的因果效应，不能直接推广到对整个样本的平均处理效应。
+> - **不声称回答的问题** Shift-share IV 识别的局部平均处理效应（LATE）——只能识别对"依从者"（compliers）的因果效应，不能直接推广到对整个样本的平均处理效应。
 
 > [!method-stack] 方法层级
 > - **研究设计** 面板数据因果推断，通常结合[[Fixed-Effect and Random-Effects Models|固定效应模型]]

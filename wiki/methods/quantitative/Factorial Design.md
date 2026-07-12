@@ -9,7 +9,7 @@ summary: "同时操纵两个或多个独立变量以检验每个变量的主效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -19,6 +19,7 @@ tags:
   - design-type
 related_concepts:
   - "[[Variable]]"
+  - "[[Interaction Effect]]"
   - "[[Dependent Variable]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-07-13
 ---
 
 # Factorial Design
@@ -47,7 +48,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 因子设计（Factorial Design）是[[Experimental Research|实验研究]]中同时操纵两个或多个独立[[Variable|变量]]，以检验每个变量的主效应（main effects）以及变量间交互效应（interactions）的设计类型。因子设计的命名基于独立变量的数量和水平数——例如 2 × 2 受试者间因子设计表示两个独立变量各自有两个水平，每个受试者只经历一个处理条件组合（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 因子设计（Factorial Design）是[[Experimental Research|实验研究]]中同时操纵两个或多个独立[[Variable|变量]]，以检验每个变量的主效应（main effects）以及变量间[[Interaction Effect|交互效应]]（interactions）的设计类型。因子设计的命名基于独立变量的数量和水平数——例如 2 × 2 受试者间因子设计表示两个独立变量各自有两个水平，每个受试者只经历一个处理条件组合（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
@@ -60,7 +61,7 @@ updated: 2026-05-31
 4. 收集[[Dependent Variable|因变量]]数据。
 5. 使用[[Analysis of Variance|方差分析]]（ANOVA）检验：
    - 每个独立变量的主效应
-   - 独立变量之间的交互效应
+   - 独立变量之间的[[Interaction Effect|交互效应]]
 6. 报告[[Effect Size|效应量]]和[[Confidence Interval|置信区间]]以评估实际意义。
 
 > [!note]- Solomon 四组设计
@@ -69,7 +70,7 @@ updated: 2026-05-31
 ## 适用场景
 
 > [!success]
-> - 当理论预测某个处理效果可能依赖于另一个条件时（存在交互效应[[Hypothesis|假设]]），因子设计是最合适的选择。
+> - 当理论预测某个处理效果可能依赖于另一个条件时（存在[[Interaction Effect|交互效应]][[Hypothesis|假设]]），因子设计是最合适的选择。
 > - 需要同时检验多个独立[[Variable|变量]]的独立和联合效应时。
 > - 希望在一个实验中同时回答多个[[Research Question|研究问题]]时。
 
@@ -77,12 +78,12 @@ updated: 2026-05-31
 
 > [!warning]
 > - 随着独立[[Variable|变量]]数量增加，所需的条件组合数和总[[Sample Size Determination|样本量]]呈指数增长。
-> - 三向或更高阶交互效应的解释困难，且通常需要很大的样本量才能检测到。
+> - 三向或更高阶[[Interaction Effect|交互效应]]的解释困难，且通常需要很大的样本量才能检测到。
 > - 研究设计的复杂性增加，对实验程序控制和统计分析的要求更高。
 
 ## 使用此方法的研究
 
 > [!example]
 > - [[Argument_Creswell_2022_SAGE]] — 以 2 × 4 混合因子设计为例，价值肯定条件（受试者间：肯定 vs 控制）和时间（受试者内：基线、20、30、45 分钟后测）各为因子，检验两者对压力荷尔蒙皮质醇响应的影响。（Ch8, Example 8.5）
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以资源可用性（3 水平）× 学习动机（3 水平）的 3×3 设计为例说明因子设计的组合逻辑，并通过性别 × 年龄交互效应图（Figure 16.3）展示因子设计如何检验自[[Variable|变量]]间是否存在交互效应
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 以资源可用性（3 水平）× 学习动机（3 水平）的 3×3 设计为例说明因子设计的组合逻辑，并通过性别 × 年龄[[Interaction Effect|交互效应]]图（Figure 16.3）展示因子设计如何检验自[[Variable|变量]]间是否存在交互效应
 

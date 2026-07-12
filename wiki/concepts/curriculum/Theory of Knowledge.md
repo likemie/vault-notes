@@ -9,7 +9,7 @@ aliases:
 summary: "IB 文凭项目的核心必修科目（100 小时），一门不教授固定知识内容、而是要求学生反思知识本质和思维过程的批判性思维课程。"
 type: concept
 domain: "curriculum"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Attrition]]"
   - "[[Falsification]]"
   - "[[Paradigm]]"
 related_theories:
@@ -54,7 +55,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-07-04
+updated: 2026-07-13
 ---
 
 # Theory of Knowledge
@@ -135,7 +136,7 @@ updated: 2026-07-04
 > | Cole et al. | DP 与非 DP 毕业生 | ATAR | DP 94<br>非 DP 267 | DP 94.13（6.79）<br>非 DP 89.29（12.07） | — | $t(290)=4.76$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
 > | Cole et al. | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | — | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
 > | Cole et al. | DP 与非 DP 毕业生 | 预期大学成果 | DP 99<br>非 DP 283 | DP 3.43（0.43）<br>非 DP 3.32（0.47） | — | $t(380)=2.25$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 ToK 与整个 DP，也不能排除选课效应 |
-> | Cole et al. | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | DP 42<br>非 DP 126 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | — | 组间比较；完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
+> | Cole et al. | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | DP 42<br>非 DP 126 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | — | 组间比较；完成者较少且存在额外登录造成的[[Attrition\|流失]]；便利样本不具代表性 |
 
 ---
 

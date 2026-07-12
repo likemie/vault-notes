@@ -40,7 +40,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-07-09
+updated: 2026-07-13
 ---
 ## 简介
 
@@ -74,8 +74,8 @@ updated: 2026-07-09
 > - Morris, P., & Adamson, B. (2010). *Curriculum, schooling and society in Hong Kong*. Hong Kong University Press. — 香港课程政治的历史分析
 > - Auld, E., & Morris, P. (2016). [[PISA]], policy and persuasion: Translating complex conditions into education 'best practice'. *Comparative Education*, 52(2), 202-229. — 批判性分析 PISA 如何在政策制定中被使用
 > - Vickers, E., & Morris, P. (2022). Accelerating Hong Kong's reeducation: 'mainlandisation', securitisation and the 2020 [[National Security Law]]. *Comparative Education*, 58(2), 187-205. — 国安法如何改变了香港教育的性质
-> - Forestier, K., Adamson, B., Han, C., & Morris, P. (2016). Referencing and borrowing from other systems: The Hong Kong education reforms. *Educational Research*, 58(2), 149-165. — [[Liberal Studies|LS]] 的 [[IB Diploma Programme|IBDP]] 参照分析
-> - Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. *Journal of Curriculum Studies*, 57(4), 480-494. — LS 兴衰的两阶段对比分析
+> - Forestier, K., Adamson, B., Han, C., & Morris, P. (2016). Referencing and borrowing from other systems: The Hong Kong education reforms. *Educational Research*, 58(2), 149-165. — LS 的 [[IB Diploma Programme|IBDP]] 参照分析
+> - Yan, K. C. A., & Morris, P. (2025). The life and death of [[Liberal Studies]]: explaining curriculum change in post-handover Hong Kong. *Journal of Curriculum Studies*, 57(4), 480-494. — LS 兴衰的两阶段对比分析
 
 ## 思想发展与影响
 

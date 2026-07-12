@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 102
+argument_related_count: 104
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -60,6 +60,8 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Value Neutrality]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Attrition]]"
+  - "[[Interaction Effect]]"
   - "[[Hawthorne Effect]]"
   - "[[Campbell and Stanley Notation System]]"
   - "[[Research Ethics]]"
@@ -139,7 +141,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-25
-updated: 2026-07-08
+updated: 2026-07-13
 ---
 # 教育研究方法
 
@@ -534,8 +536,8 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > | 测量工具（Instrumentation） | 测试方法技术或工具的无效或缺少一致性。如主持实验者的主观情绪变化、皮格马利翁效应、前后测难度不同、不同班级不同测验等。 | 精心选择测验及技术，谨慎观察，加强基本训练，严格测试手段 |
 > | 统计回归（Statistical Regression） | 根据极端分数选择被试时，第二次测量分数有向团体平均数回归的倾向。高分者分数降低，低分者分数升高。 | 避免采用两个极端的被试，或将极端分数者单独分组 |
 > | 选择偏差（Selection Bias） | 未做到随机抽样和随机分配，导致两组或多组被试在实验前就存在各方面能力的偏差。 | 随机抽样和随机分配 |
-> | 被试流失（Experimental Mortality） | 持续时间较长的实验中，被试更换、淘汰或中途退出可能显著影响结果。需注意缺席次数、学习时间、补习时间等是否相等。 | 采用消除法杜绝流失，或采用大样本以忽略个别流失 |
-> | 选择与成熟的交互作用（Selection-Maturation Interaction） | 上述七项因素彼此的交互作用。例如不同阶层被试的成熟速度不同，导致实验处理效果与成熟效果混淆。 | 随机化分组，确保各组在各方面特征上均衡 |
+> | 被试[[Attrition\|流失]]（Experimental Mortality） | 持续时间较长的实验中，被试更换、淘汰或中途退出可能显著影响结果。需注意缺席次数、学习时间、补习时间等是否相等。 | 采用消除法杜绝流失，或采用大样本以忽略个别流失 |
+> | 选择与成熟的[[Interaction Effect\|交互作用]]（Selection-Maturation Interaction） | 上述七项因素彼此的交互作用。例如不同阶层被试的成熟速度不同，导致实验处理效果与成熟效果混淆。 | 随机化分组，确保各组在各方面特征上均衡 |
 > | 实验处理的扩散（Diffusion of Treatment） | 实验组与控制组成员因接触、讨论而造成实验处理的扩散，控制组间接受到处理影响。 | 避免两组间接触，要求各组成员不可互通信息 |
 
 影响外在效度的四类因素：

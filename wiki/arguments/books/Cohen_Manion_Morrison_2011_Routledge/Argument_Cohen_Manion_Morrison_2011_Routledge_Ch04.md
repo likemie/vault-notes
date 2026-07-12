@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Hypothesis]]"
   - "[[Compound Causes]]"
+  - "[[Interaction Effect]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Variable]]"
   - "[[Causal Processes]]"
@@ -82,7 +83,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-07-08
+updated: 2026-07-13
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04
 
@@ -179,7 +180,7 @@ updated: 2026-07-08
 
 在多重因果（multi-causal）情境中，核心困难是确定各原因在特定组合中的**相对强度**——因果网络中各项条件本身都对效果有贡献。当某些原因被纳入或排除时，其他原因的强度可能升高或降低（pp.56–57）。
 
-> [!claim] 原因不能孤立看待：[[Compound Causes|复合原因]]与交互效应
+> [!claim] 原因不能孤立看待：[[Compound Causes|复合原因]]与[[Interaction Effect|交互效应]]
 > 冰面摔倒的例子同时揭示了一个重要特征：**原因不能孤立看待**。原因可能需要组合在一起，即**[[Compound Causes|复合原因]]（compound causes）**，只有共同作用时才施加因果力，且原因之间可能存在**交互效应（interaction effects）**。
 
 > [!ref-table] 冰面摔倒中单一因素的因果力分析

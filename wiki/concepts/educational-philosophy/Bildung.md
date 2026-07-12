@@ -6,12 +6,13 @@ aliases:
 summary: "源自德国精神科学传统的品格陶成与自我形成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与在线自我评估（Online Self-Assessment, OSA）可预测性逻辑构成根本张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 related_concepts:
   - "[[Operationalization]]"
+  - "[[Interaction Effect]]"
   - "[[Visible Learning]]"
   - "[[Learnification]]"
   - "[[Effect Size]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-06-21'
+updated: 2026-07-13
 ---
 
 # Bildung
@@ -57,7 +58,7 @@ updated: '2026-06-21'
 > 在芬兰教育史中，教化被视为连接个体自我形成、代际文化传递和开放未来的核心纽带，主张教育在传承文化的同时防止教育被还原为对既有规范的再生产。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 该概念指向个体与世界最独立的交互作用，强调人在无法预先规划终点的情况下持续实现人性的非预设过程。
+> - **含义** 该概念指向个体与世界最独立的[[Interaction Effect|交互作用]]，强调人在无法预先规划终点的情况下持续实现人性的非预设过程。
 > - **用途** 帮助研究者透视并批判将教育窄化为可测量结果、学习技能包或经济工具的绩效主义取向。
 > - **边界** 它有别于窄化的职业训练或外在社会规范灌输，必须通过主体的积极参与才能达成。
 

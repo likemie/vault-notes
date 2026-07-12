@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cooperative Education]]"
   - "[[Further Education]]"
   - "[[Executive Education]]"
+  - "[[Attrition]]"
   - "[[Clinical Trial]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
@@ -54,14 +55,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-26
-updated: 2026-07-08
+updated: 2026-07-13
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_key: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_display_title: "Alignment, Engagement, and Public Benefits"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -145,7 +146,7 @@ citation_aliases:
 
 ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/ui_engagement_loop_zh.svg)
 
-> 上图（Figure 1.1, p.5）展示了一个正反馈循环：产学互动产生研究成果、创新和毕业生——这些成果带来社会影响和声誉提升——声誉又反过来吸引人才、政府资助和捐赠——这些资源进一步推动产学互动。相反方向的逻辑同样成立：声誉下降（排名下滑、负面报道、不良体验）可能触发螺旋式下降，导致资源流失。因此声誉对大学而言不仅是面子问题——它是获取维持多元大学运转所需资源的战略杠杆。
+> 上图（Figure 1.1, p.5）展示了一个正反馈循环：产学互动产生研究成果、创新和毕业生——这些成果带来社会影响和声誉提升——声誉又反过来吸引人才、政府资助和捐赠——这些资源进一步推动产学互动。相反方向的逻辑同样成立：声誉下降（排名下滑、负面报道、不良体验）可能触发螺旋式下降，导致资源[[Attrition|流失]]。因此声誉对大学而言不仅是面子问题——它是获取维持多元大学运转所需资源的战略杠杆。
 
 大学与企业目标的重叠与分歧可以用 Venn 图来理解：
 

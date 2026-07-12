@@ -6,7 +6,7 @@ aliases:
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[External Validity]]"
   - "[[Paradigm]]"
+  - "[[Attrition]]"
   - "[[Ontology]]"
   - "[[Making the Familiar Strange]]"
   - "[[Catalytic Validity]]"
@@ -42,7 +43,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-05-31
-updated: 2026-06-23
+updated: 2026-07-13
 ---
 # Internal Validity
 
@@ -104,7 +105,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > > | | 成熟（Maturation） | 受试者自然成长被误判为处理效果 |
 > > | | 统计回归（Regression） | 极端得分随时间向均值回归 |
 > > | | 选择（Selection） | 组间系统性差异被误判为处理效应 |
-> > | | 流失（Mortality/Attrition） | 退出者可能恰好是效果最差的受试者 |
+> > | | [[Attrition\|流失]]（Mortality/Attrition） | 退出者可能恰好是效果最差的受试者 |
 > > | **实验处理** | 处理扩散（Diffusion） | 对照组与实验组交流导致交叉污染 |
 > > | | 补偿性怨恨（Resentful Demoralization） | 对照组因不公平感而消极表现 |
 > > | | 补偿性竞争（Compensatory Rivalry） | 对照组加倍努力以证明不差于实验组 |

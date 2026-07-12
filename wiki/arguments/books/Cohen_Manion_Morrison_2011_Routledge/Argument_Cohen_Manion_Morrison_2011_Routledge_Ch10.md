@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 113
+argument_related_count: 116
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Hawthorne Effect]]"
   - "[[Operationalization]]"
+  - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
   - "[[Research Utilization]]"
   - "[[Formative Assessment]]"
@@ -90,10 +91,12 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Reflexivity]]"
   - "[[Metainferences]]"
+  - "[[Order Effects]]"
   - "[[Data Transformation]]"
   - "[[Axiology]]"
   - "[[Incommensurability]]"
   - "[[Leading Questions]]"
+  - "[[Attrition]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Halo Effect]]"
   - "[[Test-Retest Reliability]]"
@@ -149,7 +152,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-07-08
+updated: 2026-07-13
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10
 
@@ -524,7 +527,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性内部效度的威胁系统化为�
 > | [[Hawthorne Effect\|霍桑效应]] | 受试者因被研究而改变行为 |
 > | 因变量[[Operationalization\|操作化]]不充分 | 测量在真实世界中缺乏效度 |
 > | 对实验条件敏感化/反应性 | 前测改变了受试者对干预的反应 |
-> | 外来因素交互效应 | 混淆因素与处理交互作用 |
+> | 外来因素[[Interaction Effect\|交互效应]] | 混淆因素与处理交互作用 |
 > | 工具无效或不可靠 | 数据本身不可信 |
 > | [[Ecological Validity\|生态效度]] | 一种情境的发现能否推广到另一情境 |
 > | 多重处理效度 | 多种处理交互效应难以隔离 |
@@ -873,7 +876,7 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 > - **弱点最小化（Weakness minimization）**
 >   一种方法的**弱点**在多大程度上被另一种方法的**优势**所补偿——并适当加权这些优势和弱势
 > - **顺序（Sequential）**
->   在多大程度上能最小化数据收集和分析产生的"**[[Metainferences|元推断]]**"（meta-inferences）的**顺序效应（量化-质性还是质性-量化）**，使得对调量化与质性数据的顺序和推断顺序不会削弱"元推断"的解释力
+>   在多大程度上能最小化数据收集和分析产生的"**[[Metainferences|元推断]]**"（meta-inferences）的**[[Order Effects|顺序效应]]（量化-质性还是质性-量化）**，使得对调量化与质性数据的顺序和推断顺序不会削弱"元推断"的解释力
 > - **转换（Conversion）**
 >   将数值数据**质化（[[Data Transformation|qualitizing]]）**或将质性数据**量化（quantitizing）**在多大程度上有助于产出稳健的"元推断"
 > - **范式混合（Paradigmatic mixing）**
@@ -929,7 +932,7 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 > [!ref-table] 资料收集阶段：参与者管理
 > | 措施 | 说明 |
 > |---|---|
-> | **避免受访者流失** | 长期研究中受试者退出可能混淆变量效果 |
+> | **避免受访者[[Attrition\|流失]]** | 长期研究中受试者退出可能混淆变量效果 |
 > | **避免问卷不回收** | 不回应者可能与回应者在关键变量上系统不同 |
 > | **建立在受访者的动机之上** | 理解并利用受访者参与研究的动机 |
 > | **调整工具以适应注意力集中期** | 并处理其他情境因素（如健康、环境、噪音、干扰、威胁） |

@@ -18,7 +18,8 @@ tags:
   - method/experimental
   - quantitative-research
   - design-type
-related_concepts: []
+related_concepts:
+  - "[[Order Effects]]"
 related_theories: []
 related_methods:
   - "[[Matched Pairs Design]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 # Repeated Measures Design
 
@@ -44,7 +45,7 @@ updated: 2026-07-12
 
 ## 研究程序
 
-核心挑战是**顺序效应（order effects）** 干预的呈现顺序可能影响结果——第一次干预可能对第二次产生延续效应（carry-over effect），早期干预可能比后期干预效应更大。
+核心挑战是**[[Order Effects|顺序效应]]（order effects）** 干预的呈现顺序可能影响结果——第一次干预可能对第二次产生延续效应（carry-over effect），早期干预可能比后期干预效应更大。
 
 ### 应对顺序效应
 
@@ -63,18 +64,18 @@ updated: 2026-07-12
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 顺序效应不重要或不太可能时；研究者无法确定个体差异是否会掩盖处理效应时。
+> - **适合使用** [[Order Effects|顺序效应]]不重要或不太可能时；研究者无法确定个体差异是否会掩盖处理效应时。
 > - **谨慎使用** 干预可能产生长期延续效应时；干预本身的性质可能在序列中发生变化时。
 > - **不适合使用** 干预效应不可逆时（如学习效应）。
 
 ## 局限性
 
 > [!method-limits]
-> - 顺序效应是最主要的威胁：前一次干预可能影响后一次干预的结果。
+> - [[Order Effects|顺序效应]]是最主要的威胁：前一次干预可能影响后一次干预的结果。
 > - 延续效应难以完全消除，即使通过拉丁方排列也只能均衡而非消除。
 > - 受试者疲劳或练习效应可能混淆处理效应。
 
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 介绍重复测量设计的逻辑、顺序效应挑战及拉丁方排列应对方案。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 介绍重复测量设计的逻辑、[[Order Effects|顺序效应]]挑战及拉丁方排列应对方案。

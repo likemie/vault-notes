@@ -5,7 +5,7 @@ aliases:
 summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
+  - "[[Interaction Effect]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Effect Size]]"
   - "[[Epistemology]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-07-09
+updated: 2026-07-13
 ---
 
 # Critical Realism
@@ -77,7 +78,7 @@ updated: 2026-07-09
 > - **知识位置** 由英国哲学家[[Roy Bhaskar\|罗伊·巴斯卡]]（Roy Bhaskar）于 20 世纪 70 年代中后期开创，后由安德鲁·塞耶（Andrew Sayer）、玛格丽特·阿彻（Margaret Archer）等人扩展至社会科学领域，并由[[Ray Pawson\|雷·波森]]（Ray Pawson）、特里·里格利（[[Terry Wrigley]]）等学者政策评估与[[Evidence-Based Education\|循证教育]]批判。
 
 > [!claim] 核心主张
-> 批判实在论（Critical Realism）主张实在（real）、实际（actual）和经验（empirical）之间的[[Ontology|本体论]]分层。它指出社会世界是一个由多重因果力量交互作用的 “开放系统”；因果力属于深层实在，可能在具体环境背景下被其他力量触发或阻断，以至于未能实际化或被观察到。因此，科学解释的本质在于探究深层的因果机制，而非仅测量表面的经验规则性。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
+> 批判实在论（Critical Realism）主张实在（real）、实际（actual）和经验（empirical）之间的[[Ontology|本体论]]分层。它指出社会世界是一个由多重因果力量[[Interaction Effect|交互作用]]的 “开放系统”；因果力属于深层实在，可能在具体环境背景下被其他力量触发或阻断，以至于未能实际化或被观察到。因此，科学解释的本质在于探究深层的因果机制，而非仅测量表面的经验规则性。([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 
 > [!citation-card]- 关键表述：社会干预的因果机制
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（reasoning）。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7]])

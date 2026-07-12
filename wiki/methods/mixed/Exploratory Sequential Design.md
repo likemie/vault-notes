@@ -8,7 +8,7 @@ summary: "先以小样本进行质性探索、基于质性发现开发或修改�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -16,6 +16,7 @@ tags:
   - method/mixed-methods
 related_concepts:
   - "[[Hypothesis]]"
+  - "[[Attrition]]"
   - "[[Postpositivism]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-02
+updated: 2026-07-13
 ---
 
 # Exploratory Sequential Design
@@ -70,7 +71,7 @@ updated: 2026-06-02
 
 探索性序列设计尤其适合以下情境([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.138]])：
 - **新兴现象探索** 研究对象缺乏既有量表，没有现成可用的测量工具。
-- **工具适切性存疑** 既有量表对特定文化群体的适用性不强（如翻译后的意义流失、经验覆盖不足）。
+- **工具适切性存疑** 既有量表对特定文化群体的适用性不强（如翻译后的意义[[Attrition|流失]]、经验覆盖不足）。
 - **植根性开发** 研究者希望新工具真正源自参与者的主观经验而非完全来自理论演绎。
 - **阶段性产出** 研究分为明显的先后阶段（先理解再检验），每个阶段可相对独立地完成。
 

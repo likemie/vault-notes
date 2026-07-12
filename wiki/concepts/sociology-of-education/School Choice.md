@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校。"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
+  - "[[Attrition]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # School Choice
@@ -127,7 +128,7 @@ updated: 2026-07-12
 > [!concept-lens] 抽水泵效应与学校极化维度
 > 探讨学生和家长的选择性流出对底层剩余学校造成的资源性与社会性毁灭后果。
 > 
-> - **Teng & Wang** 揭示了择校导致乡村学校陷入生源和经费流失的衰落螺旋。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 312)]]
+> - **Teng & Wang** 揭示了择校导致乡村学校陷入生源和经费[[Attrition|流失]]的衰落螺旋。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 312)]]
 > - **Ball** 指出选择流动抽空了薄弱学校的社会混合基础，导致阶级两极极化。
 
 > [!claim] Teng & Wang

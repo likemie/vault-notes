@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-07-09
+updated: 2026-07-13
 ---
 
 # World Society Theory
@@ -189,7 +189,7 @@ updated: 2026-07-09
 > > - **去殖民学者 (Silova & Brehm, 2015)** 指出该理论以西方现代性为普世标准的假设，在客观上为“知识新帝国”的学术合法性辩护，是一种抹杀本土认识论主权的新殖民话语 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])。
 
 > [!critique]- 批评索引
-> - [[Argument_Yan_2025_JCS|Yan & Morris, 2025]] — 以香港 [[Liberal Studies|LS]] 科创设与废除的周期历史为经验依据，批评了该理论选择性只看创立期的方法论盲区，证明趋同假设无法解释国家安全的强力介入。
+> - [[Argument_Yan_2025_JCS|Yan & Morris, 2025]] — 以香港 LS 科创设与废除的周期历史为经验依据，批评了该理论选择性只看创立期的方法论盲区，证明趋同假设无法解释国家安全的强力介入。
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 梳理了比较教育中的世界文化辩论，指出该学说在去政治化转移、遮蔽资本主义地缘剥削方面的理论缺陷。
 
 ---

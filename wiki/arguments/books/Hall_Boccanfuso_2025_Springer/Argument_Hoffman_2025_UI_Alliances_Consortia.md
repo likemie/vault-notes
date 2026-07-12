@@ -22,6 +22,7 @@ related_concepts:
   - "[[University-Based Research Center]]"
   - "[[Innovation Hub]]"
   - "[[Learning Analytics]]"
+  - "[[Attrition]]"
   - "[[Master Agreement]]"
   - "[[Foreground IP]]"
   - "[[Pre-negotiated IP Rights]]"
@@ -44,14 +45,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: 2026-07-08
+updated: 2026-07-13
 subtype: book-chapter
 publication_type: book
 title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_key: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_display_title: "University-Industry Alliances and Consortia"
 argument_kind: "book"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -118,7 +119,7 @@ citation_aliases:
 >
 > 最常见的失败模式是：一线技术对接人和大学教授彼此清楚合作的价值，但预算的真正决策者——企业业务部门主管或高管层——不了解。如果决策者看不到价值，合作在预算审查时就会被砍掉(p.106)。
 >
-> > 一个教育学院的例子：教授对企业说"我们可以合作研究教师专业发展"——这是从学术兴趣出发的。学区总监的回答是"所以呢？这能让我的教师流失率从 20% 降到 10% 吗？"如果教授回答不了这个"所以呢"——也就是说不清楚研究产出如何转化为企业的业务收益——价值主张就没有传达到位。大学的通病是用"我们有世界一流的 X 系"代替"我们能帮你解决 Y 问题"——前者是关于能力的陈述，后者是关于价值的承诺。
+> > 一个教育学院的例子：教授对企业说"我们可以合作研究教师专业发展"——这是从学术兴趣出发的。学区总监的回答是"所以呢？这能让我的教师[[Attrition|流失]]率从 20% 降到 10% 吗？"如果教授回答不了这个"所以呢"——也就是说不清楚研究产出如何转化为企业的业务收益——价值主张就没有传达到位。大学的通病是用"我们有世界一流的 X 系"代替"我们能帮你解决 Y 问题"——前者是关于能力的陈述，后者是关于价值的承诺。
 >
 > **关系经理** 双方都需要有明确责任的人"认领"这段关系。头衔可以是集中化的正式角色，也可以是嵌入院系或业务部门的联系人，核心是**有人对这个关系的存活负责**。关系必须通过定期、不可跳过的会议来维持(pp.106–107)。
 >

@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -20,6 +20,7 @@ tags:
 - dropout-prevention
 - region/us
 related_concepts:
+  - "[[Attrition]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Champ]]"
   - "[[Evidence-Based Education]]"
@@ -36,12 +37,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: 2026-07-13
 ---
 ## 概述
 
 > [!info] 概述
-> National Dropout Prevention Center（NDPC）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它的主要焦点领域是教育，目标人群为学生，资金组织类型为 nonprofit，评级对象为项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
+> National [[Attrition|dropout]] Prevention Center（NDPC）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它的主要焦点领域是教育，目标人群为学生，资金组织类型为 nonprofit，评级对象为项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
 
 ## 评级对象与范围
 

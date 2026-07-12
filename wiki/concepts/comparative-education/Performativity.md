@@ -6,7 +6,7 @@ aliases:
 summary: "Lyotard 提出的输入输出逻辑原则，要求社会系统不断优化表现并以可见的方式证明其表现，在教育研究中用于解释全球政策空间中行动者的实用主义联盟行为及其话语生产特征"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Network Governance]]"
   - "[[Space of Flows and Space of Places]]"
+  - "[[Attrition]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Soft Power]]"
 related_theories:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-06-24
+updated: 2026-07-13
 ---
 
 # Performativity
@@ -161,7 +162,7 @@ updated: 2026-06-24
 
 > [!critique] 外部批评 专业灵魂的侵蚀
 > - **对教师专业精神的侵蚀** [[Stephen Ball|斯蒂芬·鲍尔]]指出，绩效性导致了“捏造”（fabrication）文化。教师们被迫把大量精力用于制造能够向评估者证明“质量”的数据，合作关系被绩效考核驱动的竞争性嫉妒所替代，导致教育的实际体验被工具化数值所绑架。
-> - **教育多元价值的窒息** 毕奇指出，操演性以“影响力广度”作为评估标准，使得任何不能被跨语境通用、不能被标准化测量的教育哲学和本土经验被制度性忽视，从而导致了全球教育发展方案的单一化和本地意义的流失。([[Argument_Beech_2009_CE|Beech, 2009, pp. 352–353]])
+> - **教育多元价值的窒息** 毕奇指出，操演性以“影响力广度”作为评估标准，使得任何不能被跨语境通用、不能被标准化测量的教育哲学和本土经验被制度性忽视，从而导致了全球教育发展方案的单一化和本地意义的[[Attrition|流失]]。([[Argument_Beech_2009_CE|Beech, 2009, pp. 352–353]])
 
 > [!warning] 适用局限 非万能解释工具
 > - 操演性理论偏向于批判新自由主义教育治理的负面异化效应，但在解释具体学校层面如何通过绩效管理在有限资源下优化教学资源分配、以及量化绩效在某些发展中地区教育质量托底中的正面功能时，该概念存在视角盲区。

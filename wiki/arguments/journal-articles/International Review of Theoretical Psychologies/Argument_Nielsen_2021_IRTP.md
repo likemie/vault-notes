@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_IRTP"
 argument_key: "Argument_Nielsen_2021_IRTP"
 argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Literature Review]]"
   - "[[Causality]]"
+  - "[[Interaction Effect]]"
   - "[[Effect Size]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"
@@ -55,7 +56,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: 2026-07-13
 year: 2021
 doi: ""
 citation_aliases:
@@ -85,7 +86,7 @@ citation_aliases:
 >
 > 作者与多位研究者([[Argument_Snook_2009_NZJES|Snook et al., 2009]]; Bergeron, 2017; [[Argument_Simpson_2017_JEP|Simpson, 2017]]; Terhart, 2012; [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]])一致记录了 VL 的重大方法论缺陷(pp. 80-81, Table 1)：
 >
-> - 复杂性还原：将[[Causality|因果]]聚焦于单一因素而忽略交互效应
+> - 复杂性还原：将[[Causality|因果]]聚焦于单一因素而忽略[[Interaction Effect|交互效应]]
 > - 消除调节因素：如学生 SES
 > - 去情境化标准：d=0.40 截断点任意设定（类比：低剂量阿司匹林预防心脏病）
 > - 苹果与橘子比较：将根本不同的现象聚合在同一[[Effect Size|效应量]]下
