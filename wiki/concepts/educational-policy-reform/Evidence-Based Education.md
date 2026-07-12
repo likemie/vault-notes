@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 136
+related_count: 140
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Professional Judgment]]"
   - "[[Axiology]]"
-  - "[[Causality]]"
   - "[[Theory of Knowledge]]"
   - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
@@ -38,8 +37,10 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Clinical Trial]]"
   - "[[Ontology]]"
+  - "[[Causality]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Epistemology]]"
   - "[[Tracking]]"
   - "[[Transfer Translation Transformation]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Technical Rationality]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Statistical Significance]]"
   - "[[Research Utilization]]"
   - "[[Visible Learning]]"
   - "[[Scientism]]"
@@ -84,12 +86,12 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
   - "[[Pilot Testing]]"
   - "[[Non-intervention Research]]"
   - "[[Philosophical Analysis in Education]]"
-  - "[[Meta-analysis]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Qualitative Research]]"
@@ -116,6 +118,8 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[Hargreaves 1996 TTA Lecture]]"
+  - "[[Campbell Collaboration]]"
+  - "[[EPPI-Centre]]"
   - "[[Comprehensive School Reform Program]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -166,7 +170,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-06-17'
+updated: 2026-07-13
 ---
 
 # Evidence-Based Education
@@ -263,7 +267,7 @@ updated: '2026-06-17'
 
 > [!warrant]- 命题一的支撑理由
 > 随机对照试验通过随机化将未测量的混淆变量均匀分配在干预组与对照组中，是目前社会科学确立因果推断[[Internal Validity|内部效度]]最强大的工具，能防止因"相关性不等于因果性"导致的无效改革。[[Argument_Slavin_2002_ER|Slavin (2002, pp. 15–16)]].
-> - *反驳观点*：教育是分层的开放系统。RCT 缺乏双盲和安慰剂机制，前测失衡屡见不鲜；最关键的是，它将教师能动性这一产生效果的"必要机制"强行视为需要被控制的"污染源"，形成了逻辑悖论。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 5–6)]]; [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]].
+> - *反驳观点*：教育是分层的开放系统。RCT 缺乏双盲和安慰剂机制，[[Pre-test and Post-test|前测]]失衡屡见不鲜；最关键的是，它将教师能动性这一产生效果的"必要机制"强行视为需要被控制的"污染源"，形成了逻辑悖论。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 5–6)]]; [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]].
 
 #### 隐含假设
 
@@ -367,6 +371,13 @@ updated: '2026-06-17'
 > - **1996** — David Hargreaves 在 TTA 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（[[Argument_Wiliam_2019|Wiliam, 2019, pp.3–4]]; 参见 [[Hargreaves 1996 TTA Lecture]]）
 > - **1999** — Philip Davies 发表 *What is Evidence-Based Education?*（*British Journal of Educational Studies*），系统阐述 EBE 与循证医学的关系，强调教育者也需使用多种形式和来源的证据
 
+> [!timeline] 循证医学的制度化基础
+> - **1972** — Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导[[Randomised Controlled Trials|随机对照试验]]及其系统综述和文献记录，推动了 Cochrane 协作网（Cochrane Collaboration）的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp.48–49）
+> - **1993** — Cochrane 协作网正式成立，将系统综述和[[Meta-analysis|元分析]]制度化为医学证据综合的标准方法
+> - **1990s 后期** — 循证实践进入社会政策、社会工作（MacDonald, 1997）和教育领域（Fitz-Gibbon, 1997）。SPECTR（社会、心理、教育和犯罪学控制试验注册库）后来转移至 Campbell 协作网（[[Campbell Collaboration]]），成为 Cochrane 协作网在教育和社会科学领域的对应机构（pp.25–30）
+> - **1997** — Carol Fitz-Gibbon 提出循证方法的三个必要性论证：（a）挑战未经证实的实践的推行；（b）解决问题、避免有害程序；（c）创造改进，引导更有效的学习。她主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]（pp.52–53）
+> - **2000** — 伦敦大学 [[EPPI-Centre]]、杜伦大学 CEM 中心等机构成为循证教育研究的前沿。Morrison（2001）则指出"什么有效"这一宣称本身是可疑的（pp.23–46）
+
 ### 美国的制度化建设（1998–2015）
 
 > [!phase] 1998–2015 · 制度化建设期
@@ -431,7 +442,7 @@ updated: '2026-06-17'
 > 1. **清算中心结论不一致** Wadhwa 等发现不同教育证据清理机构对同一项目的评级一致性极低，仅为 30% 左右。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 3]]
 > 2. **大规模改革效果缺失** 英美主导的 [[Randomised Controlled Trials|RCT]] 评估投资巨大，但在大规模实施后，高达 90% 的干[[Pilot Testing|预实验]]显示零效应或未达显著影响。[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 231]]
 > 3. **[[Non-intervention Research|非干预研究]]的越界 RFP** 非[[Experimental Research|实验研究]]中高达 66% 包含[[Causality|因果性]][[Recommendations for Practice|实践建议]]（RFP），将相关性或观察性发现过度[[Transfer Translation Transformation|转译]]为行动指令。[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]]
-> 4. **前测失衡产生数据伪像** Wrigley 解构发现高评级拼读项目 RCT 宣称的 $+0.24SD$ [[Effect Size|效应量]]，在匹配前测分数子集后，净效应其实是 $+0.00SD$。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]
+> 4. **[[Pre-test and Post-test|前测]]失衡产生数据伪像** Wrigley 解构发现高评级拼读项目 RCT 宣称的 $+0.24SD$ [[Effect Size|效应量]]，在匹配前测分数子集后，净效应其实是 $+0.00SD$。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]
 
 > [!stat-cards] 关键数据卡片
 > - **83.2%** 清算中心被评级项目中仅由单一清算中心评级的比例，反映其标准的极端碎片化。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 18]]
@@ -843,7 +854,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 - [[ResearchED]] — 2013 年 Tom Bennett 创立的教师草根 [[Evidence-Informed Practice|EIP]] 运动
 - [[Playing for Success]] — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 揭示元-[[Meta-analysis|元分析]]程序缺陷的关键案例
 - [[Selective Schools Expansion Fund]] — [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] 揭示 EBE 在议会政策制定中被系统性回避的[[Case Study|案例研究]]
-- **Fresh Start 拼读干预案例（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]）**— EEF 资助的针对中一阅读困难学生的合成拼读项目。官方摘要宣称其[[Effect Size|效应量]]达 $+0.24SD$（等同于 3 个月额外进步），但深度技术拆解显示[[Random Assignment|随机化]]严重失衡，干预组前测成绩远低于对照组；当研究者筛选出前测成绩完全一致的低分匹配学生子集进行比较时，两组的进步幅度及后测成绩完全相同（净效应量为 $+0.00SD$），所谓的有效性纯粹是糟糕随机化带来的数据偏误幻象。
+- **Fresh Start 拼读干预案例（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]）**— EEF 资助的针对中一阅读困难学生的合成拼读项目。官方摘要宣称其[[Effect Size|效应量]]达 $+0.24SD$（等同于 3 个月额外进步），但深度技术拆解显示[[Random Assignment|随机化]]严重失衡，干预组[[Pre-test and Post-test|前测]]成绩远低于对照组；当研究者筛选出前测成绩完全一致的低分匹配学生子集进行比较时，两组的进步幅度及后测成绩完全相同（净效应量为 $+0.00SD$），所谓的有效性纯粹是糟糕随机化带来的数据偏误幻象。
 - **课堂教学助理（TA）结构性不当案例（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）**— EEF Toolkit 将 TA 排入低影响、高成本排行榜底部（效应量仅 $+0.08$），但 Blatchford 的实证研究表明，TA 的低效是因为学校未给他们预留与教师备课沟通的时间，且系统性地将低成就生推给 TA 授课，剥夺了他们接受合格教师教学的机会。Toolkit 的扁平排行过滤掉了这一结构性使用不当的具体情境。
 
 ### 美国

@@ -1,6 +1,7 @@
 ---
 citation: "Cole, D. R. (2005). An examination of Hegelian and Spinozian philosophy and their relationships with the International Baccalaureate subject, Theory of Knowledge. Journal of Research in International Education, 4(2), 211–226."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Cole_2005_JRIE]]"
 processed_date: 2026-07-13
 ---
 

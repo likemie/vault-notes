@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 118
+argument_related_count: 126
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -83,9 +83,12 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Analytic Generalization]]"
   - "[[Campbell and Stanley Notation System]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
+  - "[[Class Size]]"
+  - "[[Critique of Meta-analysis]]"
   - "[[Construct]]"
   - "[[Statistical Significance]]"
-  - "[[Effect Size]]"
   - "[[Descriptive Analysis]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -130,11 +133,15 @@ related_methods:
   - "[[Single-Case Design]]"
   - "[[Design-Based Research]]"
   - "[[Internet-Based Experiments]]"
+  - "[[Meta-analysis]]"
+  - "[[Systematic Review]]"
   - "[[Action Research]]"
   - "[[Grounded Theory]]"
 related_persons:
   - "[[Jürgen Habermas]]"
-related_facts: []
+related_facts:
+  - "[[EPPI-Centre]]"
+  - "[[Campbell Collaboration]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
@@ -152,6 +159,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
@@ -187,6 +195,7 @@ updated: 2026-07-13
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|第14章 Case studies]] | 系统介绍[[Case Study\|个案研究]]的定义、Hitchcock-Hughes七特征与三大类型体系（Yin/Merriam/Stake），Yin四类设计类型与单/多案例权衡；区分分析性推广与统计推广；阐述六项效度信度准则与证据链要求；通过六种研究示例展示从参与式到非参与式观察的连续体；提供规划三阶段模型、Yin六类证据来源与质性软件分析工具；介绍Lofland田野笔记原则、Walker 12项选择问题与六种写作结构。 | [[Case Study]]、[[Participant Observation]]、[[Triangulation]]、[[Ecological Validity]]、[[Analytic Generalization]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|第15章 Ex post facto research]] | 系统介绍[[Ex Post Facto Research\|事后回溯研究]]的定义与基本逻辑、共变关系研究与标准组研究两种设计类型、前瞻性与回溯性两种研究路径、与真正实验的核心区别（缺乏控制与[[Random Assignment\|随机化]]）、适用时机与典型场景、优势与劣势，以及八阶段操作程序与四种引入控制的手段。 | [[Ex Post Facto Research]]、[[Matching]]、[[Causality]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|第16章 Experiments, quasi-experiments, single-case research and internet-based experiments]] | 系统拆解[[Experimental Research\|真实验]]（前后测对照组、[[Solomon Four-Group Design\|Solomon四组]]、仅后测、[[Matched Pairs Design\|配对]]、[[Factorial Design\|因子]]、参数、[[Repeated Measures Design\|重复测量]]）、[[Quasi-Experimental Designs\|准实验]]（[[Non-Equivalent Control Group Design\|非等价控制组]]、[[Time Series Design\|时间序列]]）、[[Single-Case Design\|单一案ABAB]]、[[Design-Based Research\|设计研究]]和[[Internet-Based Experiments\|网络实验]]五类方法，详述[[Campbell and Stanley Notation System\|Campbell & Stanley符号系统]]、因果推断逻辑、内部与外部效度威胁及三则教育研究实例。 | [[Experimental Research]]、[[Quasi-Experimental Designs]]、[[Single-Case Design]]、[[Design-Based Research]]、[[Internet-Based Experiments]] |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|第17章 Meta-analysis, research syntheses and systematic reviews]] | 介绍[[Evidence-Based Education\|循证教育]]的制度基础（[[EPPI-Centre]]、[[Campbell Collaboration]]、Cochrane协作网等），详解[[Meta-analysis\|元分析]]的四种操作模型（Glass八步、Cook四阶段、Fitz-Gibbon四步、Gorard四步）与[[Effect Size\|效应量]]计算方法，以[[Class Size\|班级规模]]研究为案例，系统呈现元分析的多维度批判（[[Critique of Meta-analysis\|苹果与橙子、输入质量、发表偏倚、抽样与伦理等]]），并梳理[[Systematic Review\|系统综述]]的类型、EPPI-Centre标准、BERA指南及Evans & Benefield六原则。 | [[Meta-analysis]]、[[Systematic Review]]、[[Evidence-Based Education]]、[[Critique of Meta-analysis]]、[[Effect Size]] |
 > | 第20章 [[Action Research]] | | |
 > | **Part 4 资料收集的策略与工具** | | |
 > | 第21章 Questionnaires | | |
