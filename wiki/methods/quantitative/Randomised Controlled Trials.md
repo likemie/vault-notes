@@ -11,7 +11,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 69
+method_related_count: 70
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -62,6 +62,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Intervention Research]]"
+  - "[[True Experimental Design]]"
   - "[[Analysis of Variance]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Qualitative Research]]"
@@ -145,7 +146,7 @@ updated: 2026-07-13
 > - **不声称回答的问题** RCT 只能告诉我们"在已被测试的条件下已测试过的干预的效果"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]]），不能直接回答干预为什么有效、如何在其他情境中起作用、或未来是否仍然有效。
 
 > [!method-stack] 方法层级
-> - **研究设计** 真实验设计（随机分配至处理组和对照组）
+> - **研究设计** [[True Experimental Design|真实验设计]]（随机分配至处理组和对照组）
 > - **数据收集** 前测（可选）、后测、标准化测验、问卷或行政数据
 > - **分析方法** 均值差比较、标准化[[Effect Size|效应量]]计算、t 检验、[[Analysis of Variance|方差分析]]、多水平模型
 > - **辅助技术**[[Random Assignment|随机分配]]、[[Blinding|盲法]]（教育中常不可行）、[[Intent-to-Treat Analysis|意向治疗分析]]、集群随机化、部分嵌套设计

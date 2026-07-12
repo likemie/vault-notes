@@ -92,7 +92,7 @@ updated: '2026-06-21'
 > 这类命题关注“教什么”以及“为何教”，探讨什么样的知识具备[[Bildung|教化]]价值，主张在维护学科[[Ontology|本体论]]深度的前提下，围绕全球性、时代性的关键挑战来重组课程内容。
 
 > [!claim] 莉萨·维拉汉
-> [[Discipline-Based Theory|学科理论]]知识是具有[[Causality|因果]]脉络的深层理论体系。课程必须维护学科自身的本体论深度与逻辑完整性，任何将系统知识拆散为横向能力或技能指标清单的能力本位改革都会损害其教化价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
+> [[Discipline-Based Theory|学科理论]]知识是具有因果脉络的深层理论体系。课程必须维护学科自身的本体论深度与逻辑完整性，任何将系统知识拆散为横向能力或技能指标清单的能力本位改革都会损害其教化价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 
 > [!claim] [[Wolfgang Klafki|沃尔夫冈·克拉夫基]]
 > 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为统合学科深度与跨学科对话的教学[[Champ|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]

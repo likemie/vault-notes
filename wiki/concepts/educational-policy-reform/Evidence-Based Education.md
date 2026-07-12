@@ -216,7 +216,7 @@ updated: '2026-06-17'
 > EBE 与多个教育概念和研究传统存在交叉与张力，这些差异体现在对证据的定义、对[[Professional Judgment|专业判断]]的角色定位和对教育目的的理解上：
 > 
 > - **vs [[Value-Based Education]]** — [[Argument_Biesta_2010_SPE|Biesta (2010)]] 论证：证据本位教育将"什么有效"置于首位；价值本位教育将"什么是值得做的"置于首位
-> - **vs 循证医学（Evidence-Based Medicine, EBM）** 循证医学是 EBE 的起点与最强类比。但 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借用 Trish Greenhalgh (2014, 2015) 提出的"真实医学循证（Real EBM）"原则进行了有力反驳：真实的循证医学绝非机械照搬统计数据库，而是高度强调"为病患提供个性化的伦理关怀"、"利用专家临床经验进行诊断"、"结合病患意愿与偏好"等原则。相比之下，教育学 EBE 往往把医学简化为单一的药效 RCT 实验，抹杀了医生和教师都需要的专业临床判断力（Clinical Judgment）。此外，医学在实施 RCT 前通常已积累了丰富的生理学和药理学[[Causality|因果]]机制理论，而教育 RCT 往往是跳过因果机制的"黑箱测量"[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 6, 11)]]。
+> - **vs 循证医学（Evidence-Based Medicine, EBM）** 循证医学是 EBE 的起点与最强类比。但 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借用 Trish Greenhalgh (2014, 2015) 提出的"真实医学循证（Real EBM）"原则进行了有力反驳：真实的循证医学绝非机械照搬统计数据库，而是高度强调"为病患提供个性化的伦理关怀"、"利用专家临床经验进行诊断"、"结合病患意愿与偏好"等原则。相比之下，教育学 EBE 往往把医学简化为单一的药效 RCT 实验，抹杀了医生和教师都需要的专业临床判断力（Clinical Judgment）。此外，医学在实施 RCT 前通常已积累了丰富的生理学和药理学因果机制理论，而教育 RCT 往往是跳过因果机制的"黑箱测量"[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 6, 11)]]。
 > - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中常被忽视但不可或缺的互补性知识来源；[[Argument_Wiliam_2019|Wiliam (2019, pp.12–13)]] 以 Hayek (1945) 的[[Theory of Knowledge|知识理论]]为此提供政治经济学基础
 > - **vs [[Evidence-Informed Practice]]** — EBE 使研究证据成为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 Nelson & Campbell (2017) 系统阐述
 > - **vs [[Effect Size]]** — 效应量是 EBE 方法论的核心分析单位；Simpson 论证其测量试验灵敏度而非有效性；[[Argument_Wiliam_2019|Wiliam (2019, p.11)]] 明确断言"[[Meta-meta-analysis|元-元分析]]在教育政策制定中绝对没有任何角色"
@@ -376,7 +376,7 @@ updated: '2026-06-17'
 > - **1998** — 美国国会首次将联邦教育拨款与有效性证据直接挂钩：[[Comprehensive School Reform Program]] 拨款 USD 150M/年，要求使用"经过验证的、全面的改革模式"（Obey-Porter 立法）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 > - **2001** — [[No Child Left Behind Act 2001]] 通过，全文提及"科学本位研究"110 次，定义该术语并奠定其作为 Title I、Reading First 等联邦项目的基础([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 > - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，旨在成为"关于教育中什么有效的科学证据的中央可信来源"([[Argument_Wiliam_2019|Wiliam, 2019, p.3]])
-> - **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）
+> - **2002** — Bush 政府 OERI 主任 [[Grover Whitehurst]] 制定战略计划：到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]设计（当时该比例可能不足 5%）
 > - **2010** — WWC 发布 [[Single-Case Design|SCD]] Pilot Standards，将[[Single-Case Design|单一个案设计]]认可为 [[Randomised Controlled Trials|RCT]] 之外的第二种实验证据生成方法；[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 随后澄清了其审查程序中推广性信息的捕获方式
 > - **2015** — ESSA 通过，正式定义强、中、有希望、基于原理四级证据标准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 
@@ -795,7 +795,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > 4. *仅适用于二选一决策*：Cartwright & Hardie (2012) 指出 RCT 证据仅适用于评估是否采用项目 X，但教育情境中因素的相互依赖使单一二选一决策极少可行。
 
 > [!pathways] 处方：双组件整合
-> 1. *[[Mechanism Experiments|机制实验]]*：将 RCT 设计焦点从评估完整项目转为测试可迁移的教育变革机制——通过"鼓励设计"（Imai, Tingley & Yamamoto, 2013）隔离特定机制的独立[[Causality|因果]]贡献，产出更细粒度、更可迁移的知识。
+> 1. *[[Mechanism Experiments|机制实验]]*：将 RCT 设计焦点从评估完整项目转为测试可迁移的教育变革机制——通过"鼓励设计"（Imai, Tingley & Yamamoto, 2013）隔离特定机制的独立因果贡献，产出更细粒度、更可迁移的知识。
 > 2. *改进网络融入*（[[Improvement Science|改进科学]]、[[Spirals of Inquiry|探究螺旋]]）：将[[Snowball Sampling|网络化]]改进社区（Bryk et al., 2015）和探究螺旋（Timperley, Halbert & Kaser, 2014）作为补充——改进网络通过反馈循环提高实施质量，参与持续探究的教师更可能发现和融入新证据。
 > 3. *共享"构建块"作为整合媒介*：机制实验产生因果估计 → 作为"构建块"指导改进网络中的教师探究 → 网络实践洞见反馈回机制[[Hypothesis|假设]]进入新实验测试；同时开发教育变革机制分类学（类比行为改变技术分类学 BCT Taxonomy, Michie et al., 2013）。
 

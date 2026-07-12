@@ -9,7 +9,7 @@ summary: "将受试者随机分配到四组的真实验设计，通过操纵前�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -25,9 +25,12 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Research Question]]"
 related_methods:
+  - "[[True Experimental Design]]"
   - "[[Factorial Design]]"
   - "[[Random Assignment]]"
   - "[[Analysis of Variance]]"
+  - "[[Pretest-Posttest Control Group Design]]"
+  - "[[Posttest-Only Control Group Design]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
@@ -40,7 +43,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 所罗门四组设计
-> 所罗门四组设计（Solomon Four-Group Design）是一种真实验设计，是 2 × 2 [[Factorial Design|因子设计]]的特例。它将受试者[[Random Assignment|随机分配]]到四个组中，通过操纵前测（有 vs 无）和处理（有 vs 无）两个因素，来评估前测本身是否会对处理效果产生干扰效应。全部四个组均接受后测（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。
+> 所罗门四组设计（Solomon Four-Group Design）是一种[[True Experimental Design|真实验设计]]，是 2 × 2 [[Factorial Design|因子设计]]的特例。它将受试者[[Random Assignment|随机分配]]到四个组中，通过操纵前测（有 vs 无）和处理（有 vs 无）两个因素，来评估前测本身是否会对处理效果产生干扰效应。全部四个组均接受后测（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 被随机分配至四个组的受试者——两组接受前测、两组不接受；两组接受处理、两组不接受。
@@ -50,8 +53,8 @@ updated: 2026-07-13
 
 ## 方法定位
 
-> [!method-position] 在真实验设计中的独特位置
-> - **与标准前后测设计的关系** 标准前后测对照组设计只能回答"处理是否有效"，但无法区分处理效应中有多少来自前测的敏感化——前测可能使受试者对处理更加敏感（Good, 1963）。所罗门四组通过增设两个无前测组来**分离和量化**前测效应。
+> [!method-position] 在[[True Experimental Design|真实验设计]]中的独特位置
+> - **与标准前后测设计的关系** 标准[[Pretest-Posttest Control Group Design|前后测对照组设计]]只能回答"处理是否有效"，但无法区分处理效应中有多少来自前测的敏感化——前测可能使受试者对处理更加敏感（Good, 1963）。所罗门四组通过增设两个无前测组来**分离和量化**前测效应。
 > - **有效性标准** 能同时评估前测主效应、处理主效应和前测×处理[[Interaction Effect|交互效应]]——这是标准前后测设计无法做到的。
 > - **不能回答的问题** 无法区分前测效应的具体机制——是前测让受试者猜到了[[Research Purpose|研究目的]]（需求特征），还是前测本身提供了[[Order Effects|练习效应]]。
 
@@ -88,14 +91,14 @@ updated: 2026-07-13
 > [!method-fit] 适用判断
 > - **适合使用** 担心前测可能使受试者对处理更加敏感时（如前测让受试者意识到[[Research Purpose|研究目的]]从而改变反应）；研究领域存在关于前测效应的争议或理论关切时；需要同时评估处理效应和前测效应时。
 > - **谨慎使用** [[Sample Size Determination|样本量]]不足以支撑四组时（每组至少需要足够样本量以检测效应）；研究后勤和资源有限时。
-> - **不适合使用** [[Research Question|研究问题]]不涉及前测担忧时（仅后测对照组设计更经济）；前测在操作上不可能时（如一次性事件后的调查）。
+> - **不适合使用** [[Research Question|研究问题]]不涉及前测担忧时（[[Posttest-Only Control Group Design|仅后测对照组设计]]更经济）；前测在操作上不可能时（如一次性事件后的调查）。
 
 ## 局限性
 
 > [!method-limits]
 > - **[[Sample Size Determination|样本量]]需求翻倍** 需要四倍的样本量（四组而非两组），资源需求显著增加，在实际教育研究中执行门槛高。
 > - **统计分析复杂** 需要 2 × 2 [[Analysis of Variance|ANOVA]] 或混合模型来检验前测×处理的[[Interaction Effect|交互效应]]，分析复杂度高于标准前后测设计。
-> - **使用频率低** 由于后勤和伦理门槛高，所罗门四组设计的实际使用频率远低于仅后测对照组设计——许多研究者倾向于取消前测而非增设组别来控制前测效应。
+> - **使用频率低** 由于后勤和伦理门槛高，所罗门四组设计的实际使用频率远低于[[Posttest-Only Control Group Design|仅后测对照组设计]]——许多研究者倾向于取消前测而非增设组别来控制前测效应。
 
 ## 相关理论与方法
 

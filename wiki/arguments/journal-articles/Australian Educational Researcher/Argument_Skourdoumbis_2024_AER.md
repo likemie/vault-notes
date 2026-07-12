@@ -277,7 +277,7 @@ citation_aliases:
 > 3. **脑科学的简化主义和国际警示遗忘** 报告强制灌输“新手 vs 专家大脑”等生物简化二元论，排斥探究式学习，无视社会文化情境，且完全隐瞒了 [[OECD]] (2002, 2007) 关于神经科学可能导致过度顺从、科学神话与被滥用（如 eugenics 历史）的警示（pp. 6–7）。
 > 4. **未发表证据与跨国“什么有效”网络的知识垄断** 必修核心课程的设计完全基于 [[Australian Education Research Organisation|AERO]] 准备的、从未经过同行评审的未发表研究综合，其背后交织着英国 [[Education Endowment Foundation|EEF]]、[[BHP Foundation|必和必拓基金会]]的跨国政策资本移动，以及专家小组内部 AERO 董事会倾向的惩罚性问责立场（pp. 8–9）。
 > 5. **保守智库私人利益的强制消费** 附录D指定的必读参考文献直接包含了由右翼保守智库 CIS 资助的 Sweller (2021) 报告，暴露了 Jennifer Buckingham 等跨界政策精英如何在智库、[[Australian Institute for Teaching and School Leadership|AITSL]] 和改革推广中进行利益闭环的“[[Policy Network|理念编排]]”（pp. 9–10）。
-> 6. **惩罚性行政监控闭环与教育本质异化** AITSL认证权力的扩张、QA委员会的成立与绩效拨付挂钩，锁死了职前教师“脚本化教学”的监控闭环，将教育从“意义建构的人文事件”异化为“[[Causality|因果]]机制”的工业化监控（p. 10）。
+> 6. **惩罚性行政监控闭环与教育本质异化** AITSL认证权力的扩张、QA委员会的成立与绩效拨付挂钩，锁死了职前教师“脚本化教学”的监控闭环，将教育从“意义建构的人文事件”异化为“因果机制”的工业化监控（p. 10）。
 
 > [!stat-cards]- 核心数据
 > - **101次** 澳大利亚自1979年以来进行的政府主导教师教育审查次数，彰显了该国作为ITE政策试验场的特征。（p. 357）
@@ -306,7 +306,7 @@ citation_aliases:
 > 
 > The standardisation of core curriculum, which will be tied to accreditation processes and graduate teacher standards, is underpinned by a punitive-accountability based approach.
 
-> [!citation-card]- 教育存在论的破坏与[[Causality|因果]]异化
+> [!citation-card]- 教育存在论的破坏与因果异化
 > 这种强调重点的转变——即从将“教育视为人类沟通、意义建构和解释的事件”转向“[[Causality|因果关系]]”——其蕴含的危险对于所有参与澳大利亚教师教育的人来说都具有深远的关联。（Biesta et al., 2015, p. 11; 引自 p. 10）
 > 
 > The danger in this shift in emphasis from viewing 'education as a human event of communication, meaning making and interpretation towards cause-effect relationships' is of profound relevance for all involved in teacher education in Australia.

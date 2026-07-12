@@ -56,6 +56,8 @@ updated: 2026-07-13
 > 教化（Bildung，通常译为教养，英文亦作 character formation 或 edification of character）源自德国精神科学传统（geisteswissenschaftliche Tradition），指超越工具性学习和技能获取的自主人格形成过程。丹麦教育哲学家斯蒂恩·内佩尔·拉森（[[Steen Nepper Larsen]]）在 2019 年的研究中将其界定为决定自己的知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，具有内在价值和不可[[Operationalization|操作化]]的特征。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]]
 > 
 > 在芬兰教育史中，教化被视为连接个体自我形成、代际文化传递和开放未来的核心纽带，主张教育在传承文化的同时防止教育被还原为对既有规范的再生产。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
+> 
+> 德国哲学家黑格尔（G. W. F. Hegel）将教化界定为“从直接实质生活的艰苦浮现”，是一个在体验中经历辩证否定和矛盾冲突、发现并实际化自我主体性（selfhood）的过程，其终极目的指向使精神提升至普遍性并融入伦理生活与公民社会。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212, 221]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向个体与世界最独立的[[Interaction Effect|交互作用]]，强调人在无法预先规划终点的情况下持续实现人性的非预设过程。
@@ -110,6 +112,9 @@ updated: 2026-07-13
 > [!claim] Schleiermacher
 > 教化实践的核心路径在于学会在关于何为[[Buen Vivir|美好生活]]的“追问”而非“标准答案”中生活。教化是一个非预设方向的自主生长过程，无法通过灌输现成答案来达成。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 
+> [!claim] Hegel
+> **辩证解放与普遍精神的上升** 教化在绝对意义上是实现个体解放并迈向更高解放的劳动过程。它不仅是自然驱动力的净化，更是通过理性的表征和比较，让个体的内在欲望经历辩证否定，最终完成向精神的、普遍性伦理生活的绝对过渡。[[Argument_Cole_2005_JRIE|Cole, 2005, p. 221]]
+
 ---
 
 ### 命题类型二：教化环境中的反抗与相对独立性（Resistance and Relative Independence in Bildung Environment）
@@ -130,7 +135,7 @@ updated: 2026-07-13
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教化目的的自主人格性与开放性** | 强调教化作为非预设人格形成的内在尊严，反对将教育还原为标准化指标 | 批判原子化绩效改革与窄化的职业技能训练 | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]]; Schleiermacher |
+> | **教化目的的自主人格性与开放性** | 强调教化作为非预设人格形成的内在尊严，反对将教育还原为标准化指标 | 批判原子化绩效改革与窄化的职业技能训练 | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]]; Schleiermacher; Hegel |
 > | **教化环境中的反抗与相对独立性** | 强调教化需要维护自主空间以抵抗外部社会规训和数字化算法预测 | 批判高等教育数字化治理中的预测性技术与社会化规训 | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]]; [[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] |
 
 ---
@@ -166,6 +171,7 @@ updated: 2026-07-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - **IB DP 知识论课程批判** 分析了 TOK 课程将学生设定为“空无知者”的黑格尔式教化预设，揭示了缺乏具身想象力和情感支持的理性训练容易异化为策略性应试。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212–213]]
 > - **丹麦公立学校改革** 2014 年改革在课程中嵌入近 3000 个细碎的学习目标，体现了学习[[Paradigm|范式]]对教化空间的挤压。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]]
 > - **芬兰基础教育国家核心课程** 其倡导的跨学科[[Phenomenon-Based Learning|现象本位学习]]，在哲学上可理解为通过教化和教学论传统对抗技能原子化倾向的政策尝试。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 > - **SveaSus 项目** 高等教师教育领域的教学实验，提供了一个围绕可持续性开展具身、情感与认知多维教化实践的具体情境。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]

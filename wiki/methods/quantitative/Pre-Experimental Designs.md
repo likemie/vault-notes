@@ -5,8 +5,6 @@ aliases:
   - pre-experiments
   - one-shot case study
   - 单组后测设计
-  - one-group pretest-posttest design
-  - 单组前后测设计
   - static group comparison
 summary: "研究单一组并实施干预的实验设计类型，不设对照组或对照组不等价，内部效度最低"
 type: method

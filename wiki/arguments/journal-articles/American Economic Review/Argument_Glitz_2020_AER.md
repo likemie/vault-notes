@@ -182,7 +182,7 @@ issuing_organization: ""
 ### 论证步骤一：识别策略——从面板固定效应到工具变量
 
 > [!claim] 步骤一主张
-> 面板[[Fixed-Effect and Random-Effects Models|固定效应模型]]的 OLS 估计可能因遗漏[[Variable|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity|TFP]] 差距缩小的[[Causality|因果]]效应。
+> 面板[[Fixed-Effect and Random-Effects Models|固定效应模型]]的 OLS 估计可能因遗漏[[Variable|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity|TFP]] 差距缩小的因果效应。
 
 > [!chain-link] 证据到判断
 > - **基线 OLS 结果** 在控制行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入变量的系数为 −0.052（p=0.011），即一年标准差的额外情报流入（1.40 条/百万欧元产出）使 log TFP 差距缩小 7.3 个百分点（pp.1078–1079）。

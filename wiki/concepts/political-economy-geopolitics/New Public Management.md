@@ -96,7 +96,7 @@ updated: 2026-07-09
 > [!note-] 在[[Internationalization of Higher Education|高等教育国际化]]中的运作
 > [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 记录了 NPM 在高等教育国际化中的独特运作机制。其核心发现是：**国际化本身——特别是国际学生市场的成功——成为加速 NPM 渗透的催化剂**。
 >
-> 这一机制表现为一个自我强化的[[Causality|因果]]链条：
+> 这一机制表现为一个自我强化的因果链条：
 >
 > 1. 大学在招收全额付费国际学生方面取得成功 → 国际学生学费成为核心收入来源
 > 2. "政府不再感到有必要为高等教育机构提供所需的公共资金"([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])

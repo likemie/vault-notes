@@ -673,9 +673,9 @@ Aldridge & Levine (2001, p. 51–54)和 Fowler (2009, p. 80–83)提供了多种
 > *The results of a sample of 150 people will describe a population of 15,000 or 25 million with more or less the same degree of accuracy. Samples of more than 150 or 200 may not yield more than modest gains to the precision of the data. Sampling errors are more a function of sample size than of the proportions of the sample to the population.* (Fowler, 2009, p. 44–45)
 
 > [!citation-card]- Box 13.1：Douglas (1976)的六项辩护
-> [[Cohort Study|队列研究]]相对横截面设计有六项核心优势：信息时效性、无信息重复、变量遗漏的可补救性、更大规模的变量积累、从出生队列开始的抽样优势，以及克服[[Causality|因果]]分析的主要障碍（对记忆信息的重新解释以使其符合传统因果观点）。（第13章，Box 13.1, p.273）
+> [[Cohort Study|队列研究]]相对横截面设计有六项核心优势：信息时效性、无信息重复、变量遗漏的可补救性、更大规模的变量积累、从出生队列开始的抽样优势，以及克服因果分析的主要障碍（对记忆信息的重新解释以使其符合传统因果观点）。（第13章，Box 13.1, p.273）
 >
-> *Some types of information are only meaningful if collected contemporaneously. The omission of even a single variable, later found to be important, from a [[Cross-sectional Study]] is a disaster, whereas it is usually possible in a cohort study to fill the gap. Longitudinal studies are free of one of the major obstacles to causal analysis, namely the reinterpretation of remembered information so that it conforms with conventional views on causation.*
+> *Some types of information are only meaningful if collected contemporaneously. The omission of even a single variable, later found to be important, from a [[Cross-sectional Study]] is a disaster, whereas it is usually possible in a cohort study to fill the gap. Longitudinal studies are free of one of the major obstacles to causal analysis, namely the reinterpretation of remembered information so that it conforms with conventional views on [[Causality|causation]].*
 
 > [!citation-card]- 调查规划的精确性标准
 > 一项严格的调查制定清晰、具体的目标和[[Research Question|研究问题]]，确保工具、抽样和数据类型适合为研究问题提供答案，并确保数据分析的复杂性达到数据能够支撑的最高水平（但不要更高）。（第13章，p.264）

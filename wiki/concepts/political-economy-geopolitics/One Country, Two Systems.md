@@ -7,7 +7,7 @@ aliases:
 summary: "中国对香港和澳门特别行政区的宪制框架，在主张中央不可争议主权的同时承诺高度自治，国安法后官方解释向一国是前提两制从属的方向转变"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Schmittian Sovereignty]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Jiang Shigong]]"
 related_facts:
   - "[[Citizenship and Social Development]]"
   - "[[2019 Hong Kong Protests]]"
@@ -138,7 +139,7 @@ updated: 2026-07-13
 > > [!axis] 契约自治保障 vs. 主权例外表达
 > > 争论焦点在于一国两制是法律保障特区独特性的宪制妥协，还是主权者单向授权、可随时根据[[Schmittian Sovereignty|例外状态]]调整的策略性安排。
 > > - **自由派学者（2020）** 认为一国两制的基石是《基本法》所约定的高度自治和法治，中央必须克制对特区内部行政与教育事务的直接干预。
-> > - **强世功（Jiang Shigong）** 认为一国两制是一项平稳过渡的策略性安排，不意味着对永久文化独特性的承认，中央拥有最终的、不可抗拒的主权定义权（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.139, 155]]）。
+> > - **[[Jiang Shigong|强世功]]（Jiang Shigong）** 认为一国两制是一项平稳过渡的策略性安排，不意味着对永久文化独特性的承认，中央拥有最终的、不可抗拒的主权定义权（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.139, 155]]）。
 > 
 > > [!axis] 地图并列的政治明示
 > > 争议聚焦于在高中地理和历史教科书中，将香港、澳门与新疆、西藏等自治区并列所传递的身份暗示。

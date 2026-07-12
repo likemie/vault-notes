@@ -68,7 +68,7 @@ updated: 2026-06-10
 > - **1939** 约翰·德斯蒙德·贝尔纳（John Desmond Bernal）率先测量了英国研发（Research and Development, R&D）占国民生产总值（Gross National Product, GNP）的比例（当时仅为 0.2%），并主张将其提高到 2.0% 以推动经济增长，首次给出了科学政策的量化倡议。（引自 [[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]）
 > - **1945** 万尼瓦尔·布什（Vannevar Bush）在给美国总统的报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（Science, The Endless Frontier）中提出“[[Blue Skies Research|基础研究]]带来技术和工业进步”的政策想象，确立了二战后科学政策的核心逻辑。（引自）
 > - **1950s末** 理查德·尼尔森（Richard Nelson）和肯尼斯·阿罗（Kenneth Arrow）基于公共品理论，论证了由于科学知识的非排他性和非竞争性，政府必须主导对基础研究的公共投入，为线性模型确立了主流经济学理论基础。
-> - **1986** 斯蒂芬·克莱因（Stephen Kline）和内森·罗森伯格（Nathan Rosenberg）提出[[Chain-linked Model|链式模型]]，系统批评了线性模型单向[[Causality|因果]]的谬误，主张创新是一个包含复杂反馈的学习过程。（引自 [[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 863]]）
+> - **1986** 斯蒂芬·克莱因（Stephen Kline）和内森·罗森伯格（Nathan Rosenberg）提出[[Chain-linked Model|链式模型]]，系统批评了线性模型单向因果的谬误，主张创新是一个包含复杂反馈的学习过程。（引自 [[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 863]]）
 > - **2000s** 欧盟[[Lisbon Strategy|里斯本议程]]设定巴塞罗那目标（R&D 占比达到 GDP 的 2% 私人和 1% 公共投入），说明线性模型至今依然在主导着当代国家级的宏观政策指针。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 861–862]]
 > - **2009** 若昂·卡拉萨（João Caraça）等人提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，批判线性模型诱导的“大学专利化”误区，指出应在[[Learning Economy|学习经济]]和多层[[Innovation Ecosystem|创新生态系统]]中重新审视科学的作用。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 865]]
 
@@ -95,7 +95,7 @@ updated: 2026-06-10
 ## 实证发现
 
 > [!success] 核心发现与反思
-> - **研发投入与创新产出的非线性关联** 欧盟在落实巴塞罗那目标时发现，增加科学投入并未能显著提振欧洲的创新效率，这一落差被学者标记为“欧洲悖论”（European Paradox），实证挑战了线性模型关于“投入即产出”的[[Causality|因果]]想象。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
+> - **研发投入与创新产出的非线性关联** 欧盟在落实巴塞罗那目标时发现，增加科学投入并未能显著提振欧洲的创新效率，这一落差被学者标记为“欧洲悖论”（European Paradox），实证挑战了线性模型关于“投入即产出”的因果想象。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
 > - **经验型学习对创新的主导贡献** 莫滕·贝格·延森（Morten Berg Jensen）等人（2007）的研究指出，企业和部门的竞争力主要依赖两种创新模式：基于研发的科学与技术模式（Science, Technology and Innovation, STI）以及基于做、用、互动的经验型模式（Doing, Using and Interacting, DUI）。后者往往不依赖前沿科学投入，实证挑战了线性模型对经验学习的忽视。
 
 ---

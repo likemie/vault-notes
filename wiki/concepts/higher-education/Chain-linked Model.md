@@ -45,7 +45,7 @@ updated: 2026-06-09
 > In a complete picture we must recognize not only that innovation draws on science, but also that the demands of innovation often force the creation of science.
 
 > [!boundary]- 概念边界
-> - 不等于 [[Linear Model of Innovation|线性创新模型]] — 线性模型预设科学→技术→经济的单向[[Causality|因果]]；链式模型以反馈循环和知识的多点调用替代单向流动。
+> - 不等于 [[Linear Model of Innovation|线性创新模型]] — 线性模型预设科学→技术→经济的单向因果；链式模型以反馈循环和知识的多点调用替代单向流动。
 > - 不等于 [[Multi-channel Interactive Learning Model|多通道互动学习模型]] — 多通道模型是对链式模型的更新和扩展，补充了组织维度、三类知识池和界面概念。
 
 ---

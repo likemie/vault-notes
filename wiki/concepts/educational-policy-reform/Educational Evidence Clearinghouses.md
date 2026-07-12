@@ -97,7 +97,7 @@ updated: 2026-07-13
 > [!info] 定义
 > 教育证据清算中心（Educational Evidence Clearinghouses）是审查教育项目效果研究并发布项目有效性评级的机构。Wadhwa, Zheng & Cook 将 clearinghouse（清算中心）定义为一类实体：它们审查分析教育项目效果的研究，然后发布关于该项目"有多有效"的评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.5]])。
 >
-> 在[[Evidence-Based Education|证据本位教育]]中，清算中心承担五项功能：规定[[Causality|因果]]效应的科学标准、搜寻符合质量要求的研究、评价单项研究、综合研究结果以判断项目是否值得推荐，并向研究者、政策制定者、教师、学校管理者、家长和公众传播"有效、 promising、效果不清、无效或有害"等结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> 在[[Evidence-Based Education|证据本位教育]]中，清算中心承担五项功能：规定因果效应的科学标准、搜寻符合质量要求的研究、评价单项研究、综合研究结果以判断项目是否值得推荐，并向研究者、政策制定者、教师、学校管理者、家长和公众传播"有效、 promising、效果不清、无效或有害"等结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
 >
 > > "Clearinghouses set standards of scientific quality"([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.3]])
 
@@ -178,7 +178,7 @@ updated: 2026-07-13
 
 
 > [!warning] 标准化与[[Heterogeneity|异质性]]的两难
-> 清算中心生态不能简单通过宣布某个机构标准“最佳”来解决。更合理的问题是：哪些异质性源于尚无科学共识而应被保留，哪些异质性已可通过共识标准减少；可能的改进方向包括对复制要求、效应量阈值、持续效果时长等[[Causality|因果]]条件进行部分标准化([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.29-30]])。
+> 清算中心生态不能简单通过宣布某个机构标准“最佳”来解决。更合理的问题是：哪些异质性源于尚无科学共识而应被保留，哪些异质性已可通过共识标准减少；可能的改进方向包括对复制要求、效应量阈值、持续效果时长等因果条件进行部分标准化([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.29-30]])。
 
 ## 相关案例／政策
 

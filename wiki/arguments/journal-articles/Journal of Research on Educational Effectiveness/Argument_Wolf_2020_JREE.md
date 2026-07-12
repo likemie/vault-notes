@@ -114,7 +114,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **[[Causality|因果]]不确定性** 研究本质是描述性而非[[Causality|因果性]]——可以量化[[Developer Effect|开发者效应]]的存在和大小，但不能确定其来源(p. 442)
+> - **因果不确定性** 研究本质是描述性而非[[Causality|因果性]]——可以量化[[Developer Effect|开发者效应]]的存在和大小，但不能确定其来源(p. 442)
 > - **[[Implementation Fidelity|实施忠实度]]数据缺失** [[What Works Clearinghouse|WWC]] 数据中无实施忠实度信息，无法检验开发者是否通过更高实施质量达成更大[[Effect Size|效应量]](p. 443)
 > - **控制组细节有限** WWC 仅提供控制组的简要描述，控制组之间的微妙差异可能未充分捕捉
 > - **Vevea-Hedges 校正局限** 使用研究级平均效应量，且对开发者研究的校正差异不显著

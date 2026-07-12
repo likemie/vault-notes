@@ -78,7 +78,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > - **Tullock 的[[Tullock's Bureaucracy Theory|官僚制理论]](Tullock, 2005)** — 官僚制是信息处理金字塔，主权者面临的核心难题是知识问题和委托困境，而非简单的自利/[[Opportunist Mode|机会主义]]
 > - **公共选择理论（Public Choice）** — 方法个体主义分析集体决策；强调有限知识与有界理性下的协调问题
-> - **Cartwright 的[[Causality|因果]]推论哲学** — [[Randomised Controlled Trials|RCT]] 提供不偏估计但不解决[[External Validity|外部效度]]问题；[[Meta-analysis|元分析]]不解决归纳推理的谬误
+> - **Cartwright 的因果推论哲学** — [[Randomised Controlled Trials|RCT]] 提供不偏估计但不解决[[External Validity|外部效度]]问题；[[Meta-analysis|元分析]]不解决归纳推理的谬误
 >
 > 论文的创新在于将这三个框架**首次整合**用于解释 [[Evidence-Based Education|EBE]] 的制度韧性。
 
@@ -99,7 +99,7 @@ citation_aliases:
 > [!example] 核心论证
 > ### 1. [[Epistemology|认识论]]限度（承接 Cartwright 传统）
 >
-> [[Randomised Controlled Trials|RCT]] 在严格受控条件下提供无偏估计，但这正是其局限所在——研究者不知道[[Causality|因果]]效应在新环境中是否存活。[[Meta-analysis|元分析]]试图通过多场景合成解决[[External Validity|外部效度]]，但：
+> [[Randomised Controlled Trials|RCT]] 在严格受控条件下提供无偏估计，但这正是其局限所在——研究者不知道因果效应在新环境中是否存活。[[Meta-analysis|元分析]]试图通过多场景合成解决[[External Validity|外部效度]]，但：
 >
 > - 没有理论的引导，可能的影响因素组合是**无限的**
 > - 研究总体与实际[[Study Population and Sample|目标总体]]不匹配（进入 RCT 的群体更像便利样本而非[[Random Sampling|随机样本]]）
@@ -155,7 +155,7 @@ citation_aliases:
 >
 > 2. **[[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为"透明度技术"** 对主权者透明的简化结果，掩盖了被排除的理论背景和环境因素
 >
-> 3. **EBE 存在系统性"去理论化"** 不要求[[Causality|因果]]机制解释，只要求[[Effect Size|效应量]]估计——这背离有效实施干预所需的科学实践
+> 3. **EBE 存在系统性"去理论化"** 不要求因果机制解释，只要求[[Effect Size|效应量]]估计——这背离有效实施干预所需的科学实践
 >
 > 4. **结构性盲区** EBE 方法论将系统层面问题（资源配置、政策环境、治理结构）排除在研究议程之外，同时声称追求教育公平
 >
@@ -197,7 +197,7 @@ citation_aliases:
 >
 > ### 对 EBE 贡献的保留肯定：批判中的平衡
 >
-> **批评内容** Cowen 在批判 EBE 的同时，承认 EBE 至少将**[[Causality|因果]]推论**问题带入专业关注领域——相比于此前教育政策中基于直觉或"最佳实践"朴素模仿的决策方式，EBE 对因果证据的要求本身是一种进步。这一保留肯定在批判文献中相对少见。
+> **批评内容** Cowen 在批判 EBE 的同时，承认 EBE 至少将**因果推论**问题带入专业关注领域——相比于此前教育政策中基于直觉或"最佳实践"朴素模仿的决策方式，EBE 对因果证据的要求本身是一种进步。这一保留肯定在批判文献中相对少见。
 >
 > **意义** Cowen 的立场不是"废除 EBE"而是"改造 EBE"——他反对的不是证据的使用，而是特定方法论对证据定义的垄断及其与行政问责的捆绑。这使得 Cowen 的批判在政策辩论中比 Biesta 的全面重构方案更具操作性。
 >

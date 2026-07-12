@@ -81,7 +81,7 @@ citation_aliases:
 
 Rizvi 的核心论点是：过去三十年间，高等教育的深刻转型（NPM、市场化、[[Knowledge Capitalism|知识资本主义]]）已被广泛讨论，但这些讨论普遍**遗漏了一个关键因素**——亚洲的崛起及其引发的地缘政治转移。Rizvi 要论证的是：亚洲崛起不仅通过国际化政策影响了高等教育系统的构成方式，更通过知识的生产、传播和利用方式——跨越国界内外——深刻改变了全球高等教育的格局(pp.89–90)。
 
-这个问题的提出有一个重要背景：Rizvi 承认已有批判学者从知识资本主义(Peters, 2013)、工作性质的转变(Brown & Lauder, 2016)、全球化和技术创新等角度解释了高等教育的转型。但他认为这些分析不够充分——因为它们没有把亚洲崛起作为一个独立的[[Causality|因果]]力量来对待。他写道："along with these factors, the economic and political rise of Asia has also played a highly consequential role"(p.90)。这个"along with"表明他不是要推翻既有解释，而是要**补充一个被忽视的维度**。
+这个问题的提出有一个重要背景：Rizvi 承认已有批判学者从知识资本主义(Peters, 2013)、工作性质的转变(Brown & Lauder, 2016)、全球化和技术创新等角度解释了高等教育的转型。但他认为这些分析不够充分——因为它们没有把亚洲崛起作为一个独立的因果力量来对待。他写道："along with these factors, the economic and political rise of Asia has also played a highly consequential role"(p.90)。这个"along with"表明他不是要推翻既有解释，而是要**补充一个被忽视的维度**。
 
 ## 理论框架
 

@@ -151,7 +151,7 @@ Edovald & Nevill (2020) 总结了英国 [[Education Endowment Foundation|Educati
 [[Argument_Slavin_2002_ER|Slavin (2002)]] 识别了三个正在[[Emergence|涌现]]的政策窗口：
 - **CSR 项目（1998）** 首次将联邦拨款与有效性证据挂钩——尽管执行中大多数资金仍流向未经证实的项目（仅 20.8% 流向强证据项目）([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 - **No Child Left Behind（2001）** 全文 110 次提及"科学本位研究"，将实验证据标准嵌入 Title I、Reading First 等核心联邦项目([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
-- **OERI 重组（2002）** Whitehurst 制定战略计划，设定到 2004 年 75% 的[[Causality|因果]][[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
+- **OERI 重组（2002）** Whitehurst 制定战略计划，设定到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标([[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]])
 
 ### 开发-评估-推广范式（Development-Evaluation-Dissemination Paradigm）
 
@@ -214,7 +214,7 @@ ESSA (2015) 定义了四层证据标准，用于判定教育项目是否值得�
 | **有希望（Promising）** | 至少 1 项设计良好且实施良好的**[[Observational and Correlational Research\|相关研究]]**（统计控制选择偏差） |
 | **基于原理（Demonstrates a rationale）** | 具有清晰[[Logic Model\|逻辑模型]]，并得到高质量研究或正向评价支持 |
 
-前三个层级通常要求统计显著正向结果，并要求测量工具、[[Sample Size Determination|样本量]]、持续时间和分析方法足以支持[[Causality|因果]]或相关推断；第四层的门槛较低，重点是逻辑模型和可持续评价，而不是已经证明的成就效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
+前三个层级通常要求统计显著正向结果，并要求测量工具、[[Sample Size Determination|样本量]]、持续时间和分析方法足以支持因果或相关推断；第四层的门槛较低，重点是逻辑模型和可持续评价，而不是已经证明的成就效果([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 
 ## RTPI（Response to Proven Instruction）
 

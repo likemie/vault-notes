@@ -512,13 +512,24 @@ def is_source_section_heading(heading: str) -> bool:
     return title in SOURCE_SECTION_NAMES
 
 
-def split_protected_spans(text: str) -> list[tuple[bool, str]]:
+def split_protected_spans(text: str, protect_wikilinks: bool = True) -> list[tuple[bool, str]]:
     """
     Split section text into (protected, chunk).
 
     Protected chunks are not edited. This avoids frontmatter/body handled elsewhere,
     code blocks, headings, quote callouts, HTML, URLs/DOIs, Markdown links,
     existing wikilinks, and embeds. Non-quote Obsidian callouts remain linkable.
+
+    `protect_wikilinks=False` is used by normalize_bold_heading_style(). Ordinary
+    (non-Argument) wikilinks are left unprotected there, because protecting them
+    would hide any CJK text inside a freshly-inserted `[[Target|CJK]]` link from
+    the bold/English-annotation regex -- a term linked in the same sync_file()
+    pass right inside a `**CJK**（English）` span could never be detected and
+    repaired afterward. Argument links (citations, e.g.
+    `[[Argument_X|Author, 2011, p. 12]]`) stay protected even then: a citation
+    locator trailing a bold heading is a reference, not a translation, and must
+    not be pulled inside the bold span the way vault_lint.py's fix_body_spans
+    also excludes bare `(p. N)` locators.
     """
     protected: list[tuple[int, int]] = []
 
@@ -572,8 +583,11 @@ def split_protected_spans(text: str) -> list[tuple[bool, str]]:
             in_quote_callout = False
         pos = end
 
-    for rx in (EMBED_RE, WIKILINK_RE, MD_LINK_RE, URL_RE, HTML_TAG_RE):
+    for rx in (EMBED_RE, MD_LINK_RE, URL_RE, HTML_TAG_RE):
         for m in rx.finditer(text):
+            add(m.start(), m.end())
+    for m in WIKILINK_RE.finditer(text):
+        if protect_wikilinks or is_argument_target(m.group(1).strip()):
             add(m.start(), m.end())
 
     if not protected:
@@ -604,13 +618,28 @@ def normalize_bold_heading_style(text: str) -> tuple[str, int]:
     out: list[str] = []
     changes = 0
 
-    for protected, chunk in split_protected_spans(text):
+    for protected, chunk in split_protected_spans(text, protect_wikilinks=False):
         if protected:
             out.append(chunk)
             continue
 
+        def merge_bold_annotation(m: re.Match[str]) -> str:
+            # A trailing "(p. 12)" / "(pp. 12-15)" is a citation locator, not an
+            # English translation of the bold term. vault_lint.py's fix_body_spans
+            # excludes the same shape; mirror it here so the two scripts agree.
+            if re.fullmatch(r"[（(]\s*pp?\.\s*[^）)]+[）)]", m.group(2), flags=re.IGNORECASE):
+                return m.group(0)
+            # A bare "(Name, YEAR)" / "（Name, YEAR, p. N）" citation locator is not an
+            # English translation either. Mirrors vault_lint.py's BARE_CITATION_PARENS_RE.
+            if re.fullmatch(
+                r"[（(][A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)]",
+                m.group(2),
+            ):
+                return m.group(0)
+            return f"**{m.group(1).strip()}{m.group(2)}**"
+
         chunk, annotation_count = BOLD_HEADING_ENGLISH_OUTSIDE_RE.subn(
-            lambda m: f"**{m.group(1).strip()}{m.group(2)}**",
+            merge_bold_annotation,
             chunk,
         )
 

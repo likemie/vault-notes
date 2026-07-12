@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_display_title: "Research Methods in Education · Ch16"
 argument_kind: "book-chapter"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -85,14 +85,15 @@ related_methods:
   - "[[t-test]]"
   - "[[Analysis of Variance]]"
   - "[[Random Sampling]]"
+  - "[[Pretest-Posttest Control Group Design]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Matched Pairs Design]]"
   - "[[Matching]]"
   - "[[Factorial Design]]"
+  - "[[Parametric Design]]"
   - "[[Pilot Testing]]"
   - "[[Repeated Measures Design]]"
-  - "[[Pre-Experimental Designs]]"
   - "[[Non-Equivalent Control Group Design]]"
   - "[[Time Series Design]]"
   - "[[Longitudinal Study]]"
@@ -141,7 +142,7 @@ updated: 2026-07-13
 >     F --> F1["四类材料 · 退出率<br/>技术变异 · 伦理保护"]
 > ```
 
-真实验（[[Experimental Research|true experiment]]）、准实验（quasi-experiment）、单一案研究、[[Design-Based Research|设计研究]]和[[Internet-Based Experiments|网络实验]]五类方法的逻辑、设计类型和效度考量，在第15章[[Ex Post Facto Research|事后回溯研究]]之后展开。核心主题是[[Causality|因果推断]]，每种设计都在不同程度上回应如何排除替代解释以建立因果关系这一问题（pp. 311–342）。
+真实验（true experiment）、准实验（quasi-experiment）、[[ABAB Design|单一案研究]]、[[Design-Based Research|设计研究]]和[[Internet-Based Experiments|网络实验]]五类方法的逻辑、设计类型和效度考量，在第15章[[Ex Post Facto Research|事后回溯研究]]之后展开。核心主题是[[Causality|因果推断]]，每种设计都在不同程度上回应如何排除替代解释以建立因果关系这一问题（pp. 311–342）。
 
 作为研究设计选型的参考手册：先明确[[Random Assignment|随机化]]的可行性，再根据是否有对照组、是否有前测、是否操纵多个自[[Variable|变量]]等条件选择对应的设计类型。同时可结合因果关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|第4章]]）、效度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|第10章]]）、事后回溯研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|第15章]]）、[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|第17章]]）、[[t-test|t检验]]与[[Analysis of Variance|方差分析]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch36|第36章]]）。
 
@@ -149,7 +150,7 @@ updated: 2026-07-13
 
 ### 16.1 引言：实验的逻辑与因果推断
 
-> [!def] 实验研究的本质
+> [!def] [[Experimental Research|实验研究]]的本质
 > 实验研究的核心是**因果推断（causal inference）**和由此产生的预测能力。如果可以从研究中消除替代原因或替代解释，就可以建立清晰的因果关系（Smith, 1991, p. 177; Morrison, 2009）。实验方法直接关涉因果关系，虽然这一主张在本书第三部分受到了质疑（p. 311）。
 
 > [!info] 实验的基本操作
@@ -159,7 +160,7 @@ updated: 2026-07-13
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_16-1_Independent_and_Dependent_Variables.jpg)
 
 > [!info] 确认性与探索性实验
-> 在固定设计中，实验可以是**确认性**的（检验[[Null Hypothesis|零假设]]是否被支持）或**探索性**的（发现特定变量的效应）。后测测量[[Dependent Variable|因变量]]，[[Independent Variable|自变量]]被仔细隔离和控制（pp. 312–313）。
+> 在固定设计中，实验可以是**确认性**的（检验[[Null Hypothesis|零假设]]是否被支持）或**探索性**的（发现特定变量的效应）。后测测量[[Dependent Variable|因变量]]，[[Independent Variable|自变量]]被仔细隔离和控制。[[Pre-test and Post-test|前测与后测]]的时机安排直接关涉因果推断的有效性（pp. 312–313）。
 
 ---
 
@@ -325,7 +326,7 @@ $$\text{因果效应} = (O_2 - RO_1) - (O_4 - RO_3)$$
 > **前测（O₁ 和 O₃）**确保两组在干预前基线等价——如果随机化成功，O₁ 和 O₃ 的均值应接近。**随机分配（R）**使两组在所有已知和未知变量上等价，排除选择偏差。**控制组**提供"如果不干预会怎样"的[[Counterfactual|反事实]]参照——O₄−O₃ 是自然变化（成熟、历史等），O₂−O₁ 是干预+自然变化，两者相减即得**纯净的干预效应**。这就是该设计能控制所有[[Threats to Internal Validity|内部效度威胁]]的根本原因。
 
 > [!claim] 该设计的效力
-> Campbell & Stanley (1963) 认为，前后测控制组设计强大到足以控制第10章中识别的**所有[[Threats to Internal Validity|内部效度威胁]]**。
+> Campbell & Stanley (1963) 认为，[[Pretest-Posttest Control Group Design|前后测控制组设计]]强大到足以控制第10章中识别的**所有[[Threats to Internal Validity|内部效度威胁]]**。
 
 **随机化的力量演示** — Box 16.1（改编自 Pilliner, 1973）（pp. 318–319）：
 
@@ -377,6 +378,8 @@ $$\text{因果效应} = (O_2 - RO_1) - (O_4 - RO_3)$$
 ---
 
 #### 仅后测控制组与实验组设计
+
+[[Posttest-Only Control Group Design|仅后测控制组与实验组设计]]是真实验设计的变体：随机分配后取消前测，仅依赖随机化本身保证组间基线等价。
 
 > [!warrant]- 为什么取消前测？
 > 前测本身可能使受试者对实验变量敏感（[[Pre-test Sensitisation|前测敏感化]]），也可能让参与者猜到[[Research Purpose|研究目的]]而改变行为。当随机化已确保组间等价、且担心前测污染时，取消前测是合理选择。代价是无法用前测分数验证随机化是否成功、无法测量个体层面的变化量，只能依赖组间后测差异推断因果。
@@ -500,7 +503,7 @@ Mitchell & Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题�
 > [!warrant]- 为什么按自变量的固定水平分组？
 > 如果自变量是连续的（如阅读能力从低到高），将其分成几个固定水平来分组，可以绘制**剂量-反应曲线**——不同能力水平的学生对同一干预的反应可能截然不同。这比将所有能力水平的学生混在一个实验组中更敏感：可以发现干预对哪个区间最有效、对哪个区间无效甚至有害。代价是需要更大的样本量（每个水平一个组 + 控制组）。
 
-> [!def] 参数设计（Parametric Design）
+> [!def] [[Parametric Design|参数设计]]（Parametric Design）
 > 参数设计适用于某自变量被认为具有不同水平或取值范围、可能对结果产生不同影响时。参与者随机分配到自变量水平固定的组别中（p. 324）。
 
 > [!case] 阅读干预示例
@@ -563,12 +566,12 @@ Mitchell & Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题�
 
 ##### 单组前后测设计（前实验）
 
-> [!design-notation] [[Pre-Experimental Designs|单组前后测设计]]
+> [!design-notation] 单组前后测设计
 > 单一组接受前测、干预和后测，无控制组，无随机分配（pp. 326–327）：
 >
 > - **实验组** ~~·~~ ==O₁== `X` ==O₂==
 
-Campbell & Stanley (1963) 将其描述为展示混淆变量危及[[Internal Validity|内部效度]]的坏例子。表面逻辑是 O₁–O₂ 的差异归因于 X，但教育实验永远无法达到物理科学中的控制水平：
+Campbell & Stanley (1963) 将[[One-Group Pretest-Posttest Design|单组前后测设计]]描述为展示混淆变量危及[[Internal Validity|内部效度]]的坏例子。表面逻辑是 O₁–O₂ 的差异归因于 X，但教育实验永远无法达到物理科学中的控制水平：
 
 > [!critique-method] 教育实验 vs 物理实验的控制鸿沟
 > 一位物理学家对金属棒加热，可以自信地将观察到的膨胀归因于温度升高，因为在实验室的范围内，她已**排除（即控制）了所有其他外部变异来源（Pilliner, 1973）**。
@@ -653,7 +656,7 @@ Campbell & Stanley (1963) 将其描述为展示混淆变量危及[[Internal Vali
 
 #### ABAB 设计的逻辑
 
-Kazdin (1982) 提出 ABAB 设计作为单一案研究的基本实验格式（p. 329）：
+Kazdin (1982) 提出 [[ABAB Design|ABAB 设计]]作为单一案研究的基本实验格式（p. 329）：
 
 > [!design-notation] ABAB 设计的记号表示
 > 四阶段交替：A = 基线（无干预），B = 干预。每个阶段内进行多次重复观测，`X` = 干预施加（p. 329）：
@@ -839,7 +842,12 @@ Torgerson & Torgerson (2003b) 系统识别了 RCT 中的多种偏差（pp. 332�
 
 #### 实例 1：前实验设计，博茨瓦纳社会科教师培训
 
-Adeyemi (1992) 使用**单组前后测设计（O₁ X O₂）**研究 1991–92 年度研究生教育文凭（Postgraduate Diploma in Education）学生经过一年社会科教学培训后，其教学哲学取向是否发生变化。
+Adeyemi (1992) 使用[[One-Group Pretest-Posttest Design|单组前后测设计]]研究 1991–92 年度研究生教育文凭（Postgraduate Diploma in Education）学生经过一年社会科教学培训后，其教学哲学取向是否发生变化。
+
+> [!design-notation] Adeyemi (1992) 研究设计
+> 单组前后测，无控制组，无随机分配（p. 335）：
+>
+> - **实验组** ==O₁== `X` ==O₂==
 
 > [!case] 研究详情
 > **研究工具** Barth/Shermis 社会科偏好量表（BSSPS），45 题 Likert 量表，在美国、埃及和尼日利亚等不同文化中广泛使用，已满足信度和[[Internal Consistency|内部一致性]]信度的常规标准。

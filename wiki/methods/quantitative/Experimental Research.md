@@ -3,14 +3,13 @@ title: Experimental Research
 aliases:
   - 实验研究
   - 实验法
-  - true experiment
   - experimental design
   - randomized experiment
 summary: "通过操纵处理条件、比较处理组与控制组的结果差异来确定特定处理是否影响结果的量化研究设计"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 44
+method_related_count: 47
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -58,6 +57,9 @@ related_methods:
   - "[[Pre-Experimental Designs]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Subject Design]]"
+  - "[[True Experimental Design]]"
+  - "[[Pretest-Posttest Control Group Design]]"
+  - "[[Posttest-Only Control Group Design]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Analysis of Variance]]"
   - "[[Analysis of Covariance]]"
@@ -113,7 +115,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > **实验类型（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）**
 > - **[[Pre-Experimental Designs|前实验设计]]** 研究单一组并实施干预，无对照组比较，[[Internal Validity|内部效度]]最低。
 > - **[[Quasi-Experimental Designs|准实验设计]]** 使用对照组和实验组，但随机分配部分或完全缺失。
-> - **真实验（True Experiment）** 研究者随机分配受试者到处理组中，内部效度最高。
+> - **真实验（true experiment）** 研究者随机分配受试者到处理组中，内部效度最高。
 > - **[[Single-Subject Design|单受试者设计]]／N of 1 设计** 在时间维度上观察单个个体（或少数个体）的行为。
 
 > [!abstract] Campbell & Stanley 符号系统
@@ -126,9 +128,9 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 > - R = 随机分配
 > - 平行行之间用水平线分隔表示比较组不等价（非随机分配）；无线表示随机分配
 
-> [!note]- 真实验设计的四种类型
-> - **前后测对照组设计（Pretest–Posttest Control-Group Design）** 两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
-> - **仅后测对照组设计（Posttest-Only Control-Group Design）** 控制前测的混淆效应，随机分配后仅实验组接受处理，两组均接受后测。Group A R——X—O / Group B R————O
+> [!note]- [[True Experimental Design|真实验设计]]的四种类型
+> - **[[Pretest-Posttest Control Group Design|前后测对照组设计]]（Pretest–Posttest Control-Group Design）** 两组随机分配，均接受前后测，仅实验组接受处理。Group A R——O—X—O / Group B R——O———O
+> - **[[Posttest-Only Control Group Design|仅后测对照组设计]]（Posttest-Only Control-Group Design）** 控制前测的混淆效应，随机分配后仅实验组接受处理，两组均接受后测。Group A R——X—O / Group B R————O
 > - **Solomon 四组设计（[[Solomon Four-Group Design]]）** 2 × 2 因子设计的特例，四组分别在前测和处理上有所变化，全部接受后测，用于评估前测的影响。
 > - **[[Factorial Design]]** 同时操纵两个或多个自变量，检验主效应和[[Interaction Effect|交互效应]]（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
@@ -194,7 +196,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 ## 方法变体与相近方法
 
 > [!tip]-
-> - **真实验（True Experiment）** 受试者被[[Random Assignment|随机分配]]到处理条件中，[[Internal Validity|内部效度]]最高（Campbell & Stanley, 1963）。
+> - **真实验（true experiment）** 受试者被[[Random Assignment|随机分配]]到处理条件中，[[Internal Validity|内部效度]]最高（Campbell & Stanley, 1963）。
 > - **准实验（Quasi-Experiment）** 使用非随机化分配，在无法随机化（如使用已有班级或学校）时使用。
 > - **[[Single-Subject Design|单受试者设计]]（Single-Subject Design）** 在时间维度上对单个个体或少数个体施加、撤销处理，观察行为变化（Cooper et al., 2007; Neuman & McCormick, 1995）。
 > - **[[Factorial Design|因子设计]]（Factorial Design）** 同时操纵多个处理[[Variable|变量]]及其[[Interaction Effect|交互效应]]。

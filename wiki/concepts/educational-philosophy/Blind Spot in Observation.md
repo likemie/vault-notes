@@ -71,5 +71,5 @@ updated: '2026-05-18'
 
 > [!info] 理论基础
 > - [[Luhmann's Systems Theory]] — 盲点概念是 Luhmann 系统理论的核心构成要素
-> - [[Structural Coupling]] — Luhmann 的结构耦合概念，描述封闭、自我指涉系统之间的非[[Causality|因果]]链接，与盲点概念共同构成 Larsen 的批判工具
+> - [[Structural Coupling]] — Luhmann 的结构耦合概念，描述封闭、自我指涉系统之间的非因果链接，与盲点概念共同构成 Larsen 的批判工具
 

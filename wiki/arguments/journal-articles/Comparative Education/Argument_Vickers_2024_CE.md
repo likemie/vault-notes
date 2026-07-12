@@ -9,7 +9,7 @@ title: "Argument_Vickers_2024_CE"
 argument_key: "Argument_Vickers_2024_CE"
 argument_display_title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Culturalisation of Politics]]"
   - "[[Schmittian Sovereignty]]"
+  - "[[Decolonial Paradox]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Zhonghua Minzu]]"
   - "[[Champ]]"
@@ -39,7 +40,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Comparative Textbook Analysis]]"
-related_persons: []
+related_persons:
+  - "[[Jiang Shigong]]"
 related_facts:
   - "[[National Security Law]]"
   - "[[Citizenship and Social Development]]"
@@ -86,10 +88,10 @@ citation_aliases:
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **文化-种族国族主义（culturalist-racialist nationalism）** | 官方在习近平时代将统治合法性基础全面转向以中华优秀传统文化为核心的本质主义国族观，强调以汉族为中心的血缘与文化认同的绝对绑定（pp.138–139）。 |
-> | **[[Schmittian Sovereignty\|施密特（Carl Schmitt）式主权理论]]** | 主权者的本质在于决定例外状态（state of exception），而非制定规则。这一逻辑被强世功应用于香港，认为中央对香港主权在于定义法律的权力本身。国家安全法即是例外状态的制度化，将香港宪制从法治转变为以法而治（pp.139, 155）。 |
+> | **[[Schmittian Sovereignty\|施密特（Carl Schmitt）式主权理论]]** | 主权者的本质在于决定例外状态（state of exception），而非制定规则。这一逻辑被[[Jiang Shigong\|强世功]]应用于香港，认为中央对香港主权在于定义法律的权力本身。国家安全法即是例外状态的制度化，将香港宪制从法治转变为以法而治（pp.139, 155）。 |
 > | **[[Culturalisation of Politics\|政治的文化化（culturalisation of politics）]]** | 当政权无法或不愿直接以赤裸的政治意识形态论证合法性时，转而使用文化、传统和身份话语来包装政治控制，将政治归属转化为文化责任（p.154）。 |
 > | **[[Psychologisation\|青年问题的心理化（psychologisation）]]** | 当社会不满无法通过政治途径解决时，官方推行积极思维和感恩教育话语，将结构性的政治与社会矛盾转化为个体的心理适应问题，从而消解集体行动的合法性（pp.153–154）。 |
-> | **去殖民思维的悖论（decolonial thinking paradox）** | 仅凭制度的殖民起源便否定其正当性，实际上是以反殖民名义剥夺了本土人（native agency）的自主选择权，沦为新型威权主义的共犯（pp.154–155）。 |
+> | **[[Decolonial Paradox\|去殖民思维的悖论]]（decolonial thinking paradox）** | 仅凭制度的殖民起源便否定其正当性，实际上是以反殖民名义剥夺了本土人（native agency）的自主选择权，沦为新型威权主义的共犯（pp.154–155）。 |
 
 > [!warrant]- 理论如何支撑论证
 > 这些理论构建了经验证据到研究结论之间的推理桥梁。教科书的历史与文化改写并非孤立的教学调整，而是国家主权意志通过政治文化化手段在学校课程中的落地。同时，辅以青年问题心理化机制，将任何溢出的政治能动性压制或内耗于个人心理调适。最后，去殖民思维的悖论揭示了这一转型在国际学术界引起普遍失声的认知盲区。
@@ -222,11 +224,11 @@ citation_aliases:
 > [!claim] 步骤四主张
 > 课程转型标志着香港学校教育完成了从培养参与式公民到强加总体化臣民认同的[[Paradigm|范式转换]]。在此过程中，西方学术界因沉迷于本质主义的去殖民话语，对香港本土能动性的受挫普遍陷入失语状态与认知盲区（pp.154–155）。
 
-> [!chain-link] 臣民范式与去殖民悖论
+> [!chain-link] 臣民范式与[[Decolonial Paradox|去殖民悖论]]
 > - **政治生活作为忠诚表演的舞台** 转型后的政治生活不再是公民能动性（civic agency）实践的竞技场，而是退化为表演爱国忠诚的单向舞台（p.155）。
 > - **去殖民化叙事在非西方威权情境下的理论盲区** 盎格鲁学术界广泛流行去殖民化（decoloniality）宏大叙事，导致部分学者将香港的本土诉求机械地归结为西方地缘政治操纵或殖民遗毒，甚至在国际学术讨论中将民主抗议者斥为文化叛徒（cultural renegades）（p.154）。
 > - **观念起源谱系迷恋与本土能动性背叛的理论共谋** 针对这种过度关注思想出身（pedigree）的去殖民化思维，泰沃（Olúfẹ́mi Táíwò）指出，仅仅因为香港的法治和自由源于英国殖民主义的历史积淀便否定其正当性，实际上剥夺了本土人（native agency）选择保留何种制度的自决权（pp.154–155）。去殖民学者与威权主义国家在虚无主义的文化相对论上达成共谋，为强制性的权力扩张提供了理论辩护。
-> - **卡尔·施密特主权逻辑在香港宪制体制中的落地** 北京宪制学者强世功（Jiang Shigong）将卡尔·施密特（Carl Schmitt）的主权决定[[Schmittian Sovereignty|例外状态]]（state of exception）理论与福柯的“权力即知识”观念结合，论证中央对香港的绝对主权在于拥有定义和解释法律的最终权力。2020年颁布的《特区维护国家安全法》正是施密特式主权逻辑在香港宪制体制中的落地，将香港的宪政基础从“法治”转变为“以法而治”（rule by law），使中国Pedigree成为了无法抗拒的宿命。
+> - **卡尔·施密特主权逻辑在香港宪制体制中的落地** 北京宪制学者[[Jiang Shigong|强世功]]（Jiang Shigong）将卡尔·施米特（Carl Schmitt）的主权决定[[Schmittian Sovereignty|例外状态]]（state of exception）理论与福柯的“权力即知识”观念结合，论证中央对香港的绝对主权在于拥有定义和解释法律的最终权力。2020年颁布的《特区维护国家安全法》正是施密特式主权逻辑在香港宪制体制中的落地，将香港的宪政基础从“法治”转变为“以法而治”（rule by law），使中国Pedigree成为了无法抗拒的宿命。
 
 > [!warrant]- 学者的良知与概念重建
 > 在批判西方殖民主义的同时，必须保持对以反殖民或去殖民名义进行的威权压迫的理论警惕。重申本地人的能动性，而非机械地审查社会制度的殖民血统，是重建学术责任与重构分析概念的关键。

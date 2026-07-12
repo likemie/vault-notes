@@ -286,7 +286,7 @@ SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养�
 
 ### 方法论批评
 
-**[[Causality|因果]]证据匮乏**。Pellegrino & Hilton（2012, p.4）指出，迄今为止只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality|因果关系]]。公开宣称的技能（国际框架中）与正式要求的技能（求职时）之间的比较研究尚未完成([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
+**因果证据匮乏**。Pellegrino & Hilton（2012, p.4）指出，迄今为止只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality|因果关系]]。公开宣称的技能（国际框架中）与正式要求的技能（求职时）之间的比较研究尚未完成([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
 
 **测量困境**。如何衡量这些素养的获取以及它们之间的相互关系，仍然存在争议（Finegold & Notabartolo, 2010, p.30）。人际和内省技能无法通过制度化程序测量，而需要工作和生活文化的长期精炼([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.262]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]对[[Global Citizenship|全球公民]]的[[Operationalization|操作化]]尝试——将 O'Brien（2011）的数字、文化、社会沟通三种素养压缩为三个 Likert 评分项——也暴露了同样的测量挑战（pp.87–89）。
 

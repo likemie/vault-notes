@@ -892,6 +892,15 @@
     ]
   },
   {
+    "title": "International Spinozian Curriculum",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/International Spinozian Curriculum.md",
+    "aliases": [
+      "国际斯宾诺莎主义课程",
+      "international Spinozian curriculum"
+    ]
+  },
+  {
     "title": "Knowledge-that and Know-how-to",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Knowledge-that and Know-how-to.md",
@@ -1174,6 +1183,18 @@
     ]
   },
   {
+    "title": "Conatus",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Conatus.md",
+    "aliases": [
+      "欲力",
+      "自我保存的努力",
+      "conatus",
+      "努力",
+      "生机"
+    ]
+  },
+  {
     "title": "Critical Thinking",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Critical Thinking.md",
@@ -1208,6 +1229,17 @@
       "基于脑的教育",
       "neuroscience in education",
       "brain science"
+    ]
+  },
+  {
+    "title": "Empty Knower",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Empty Knower.md",
+    "aliases": [
+      "空无的认知者",
+      "虚空的知者",
+      "empty knower",
+      "空无知者"
     ]
   },
   {
@@ -3894,6 +3926,17 @@
     ]
   },
   {
+    "title": "Decolonial Paradox",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Decolonial Paradox.md",
+    "aliases": [
+      "去殖民悖论",
+      "去殖民化思维的悖论",
+      "decolonial thinking paradox",
+      "decoloniality paradox"
+    ]
+  },
+  {
     "title": "Depoliticalization of Ethnic Policy",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Depoliticalization of Ethnic Policy.md",
@@ -4840,7 +4883,6 @@
     "path": "wiki/concepts/research-methodology/Causality.md",
     "aliases": [
       "因果性",
-      "因果",
       "因果关系",
       "因果推断",
       "causal inference",
@@ -5080,6 +5122,14 @@
       "标准关联效度",
       "criterion validity",
       "criterion-related evidence"
+    ]
+  },
+  {
+    "title": "Critique of Meta-analysis",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
+    "aliases": [
+      "元分析批判"
     ]
   },
   {
@@ -6246,6 +6296,20 @@
       "实用主义",
       "实用主义范式",
       "pragmatic worldview"
+    ]
+  },
+  {
+    "title": "Pre-test and Post-test",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Pre-test and Post-test.md",
+    "aliases": [
+      "前测与后测",
+      "pretest and posttest",
+      "pre-test and post-test",
+      "前测",
+      "后测",
+      "pretest",
+      "posttest"
     ]
   },
   {
@@ -8421,7 +8485,6 @@
     "path": "wiki/methods/mixed/Design-Based Research.md",
     "aliases": [
       "设计研究",
-      "DBR",
       "design experiment",
       "design study",
       "设计实验",
@@ -9128,6 +9191,20 @@
     ]
   },
   {
+    "title": "ABAB Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/ABAB Design.md",
+    "aliases": [
+      "ABAB设计",
+      "ABAB实验设计",
+      "withdrawal design",
+      "撤回设计",
+      "reversal design",
+      "单一案研究",
+      "ABAB 设计"
+    ]
+  },
+  {
     "title": "Analysis of Covariance",
     "type": "method",
     "path": "wiki/methods/quantitative/Analysis of Covariance.md",
@@ -9309,7 +9386,6 @@
     "aliases": [
       "实验研究",
       "实验法",
-      "true experiment",
       "experimental design",
       "randomized experiment"
     ]
@@ -9539,6 +9615,23 @@
     ]
   },
   {
+    "title": "One-Group Pretest-Posttest Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/One-Group Pretest-Posttest Design.md",
+    "aliases": [
+      "单组前测后测设计"
+    ]
+  },
+  {
+    "title": "Parametric Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Parametric Design.md",
+    "aliases": [
+      "参数设计",
+      "parametric experiment"
+    ]
+  },
+  {
     "title": "Pearson Product-Moment Correlation",
     "type": "method",
     "path": "wiki/methods/quantitative/Pearson Product-Moment Correlation.md",
@@ -9576,6 +9669,17 @@
     ]
   },
   {
+    "title": "Posttest-Only Control Group Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Posttest-Only Control Group Design.md",
+    "aliases": [
+      "仅后测控制组设计",
+      "仅后测对照组设计",
+      "posttest-only control-group design",
+      "post-test only design"
+    ]
+  },
+  {
     "title": "Power Analysis",
     "type": "method",
     "path": "wiki/methods/quantitative/Power Analysis.md",
@@ -9596,9 +9700,18 @@
       "pre-experiments",
       "one-shot case study",
       "单组后测设计",
-      "one-group pretest-posttest design",
-      "单组前后测设计",
       "static group comparison"
+    ]
+  },
+  {
+    "title": "Pretest-Posttest Control Group Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Pretest-Posttest Control Group Design.md",
+    "aliases": [
+      "前后测控制组设计",
+      "前后测对照组设计",
+      "pretest-posttest control-group design",
+      "pre-test-post-test control group design"
     ]
   },
   {
@@ -9823,6 +9936,15 @@
       "prediction study",
       "预测研究",
       "repeated cross-sectional study"
+    ]
+  },
+  {
+    "title": "True Experimental Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/True Experimental Design.md",
+    "aliases": [
+      "真实验设计",
+      "true experimental designs"
     ]
   },
   {
@@ -10204,6 +10326,14 @@
       "Jiang, M.",
       "蒋梦麟",
       "Jiang Menglin"
+    ]
+  },
+  {
+    "title": "Jiang Shigong",
+    "type": "person",
+    "path": "wiki/persons/china/Jiang Shigong.md",
+    "aliases": [
+      "强世功"
     ]
   },
   {
@@ -14826,6 +14956,11 @@
     "title": "Argument_Zhao_2020_JEC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md"
+  },
+  {
+    "title": "Argument_Cole_2005_JRIE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Cole_2005_JRIE.md"
   },
   {
     "title": "Argument_Wolf_2020_JREE",

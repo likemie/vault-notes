@@ -11,7 +11,7 @@ summary: "将受试者按概率均等原则分配到实验处理条件中，以�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,6 +45,8 @@ related_theories:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Quantitative Research]]"
+  - "[[True Experimental Design]]"
+  - "[[Posttest-Only Control Group Design]]"
   - "[[Analysis of Variance]]"
   - "[[Analysis of Covariance]]"
   - "[[Random Sampling]]"
@@ -98,7 +100,7 @@ updated: 2026-07-13
 > - **不声称观察的问题** 不能回答干预”为什么”起作用的深层因果机制，也不能回答干预在未经随机化控制的现实 “开放社会系统” 中如何运作。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6, 8]])
 
 > [!method-stack] 方法层级
-> - **研究设计** 真实验设计（True Experimental Designs，如前测-后测控制组设计、仅后测控制组设计）。
+> - **研究设计** [[True Experimental Design|真实验设计]]（True Experimental Designs，如前测-后测控制组设计、[[Posttest-Only Control Group Design|仅后测控制组设计]]）。
 > - **数据收集** 前测与后测的测验得分、问卷量表得分、行政记录等定量数据。
 > - **分析方法** 组间独立样本 t 检验、[[Analysis of Variance|方差分析]]（ANOVA）、[[Analysis of Covariance|协方差分析]]（ANCOVA）及[[Effect Size|效应量]]（ES）计算。
 > - **辅助技术** 随机数生成器、分层随机化（Stratified Randomisation）、匹配随机化（Matched Randomisation）。

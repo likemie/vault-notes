@@ -2,7 +2,6 @@
 title: Design-Based Research
 aliases:
   - 设计研究
-  - DBR
   - design experiment
   - design study
   - 设计实验

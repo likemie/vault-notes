@@ -161,7 +161,7 @@ issuing_organization: ""
 > - **黑箱化（Black-Boxing）** 评估程序越可靠，人们就越少追问它在测量什么，讨论焦点从评估是否正确滑向评分是否一致。
 > - **批判性思维问题（Problem of Critical Thinking）** 课程期待的思维层次可能超出高中生的认知发展水平，评估测到的可能只是术语熟练度而非思维能力。
 
-这三个问题按[[Causality|因果]]顺序展开。框架问题是起点：TOK 不属于任何既有学科，课程开发者选择创建一个超学科（extra-disciplinary）框架（与此形成对照的是英国 [[EDEXCEL Perspectives on Science|EDEXCEL AS Perspectives on Science]] 课程，它留在[[Scientism|科学主义]]框架内部，以严格的科学报告格式作为评估核心），因此必须自创一套词汇来组织教学和评估（p.171, note 9）。评估标准的关键要素看起来需要真正的思考：识别知识问题、批判性反思不同观点、连接多种认知方式和知识领域。但实际上，学生只需在论文中反复出现这些术语并配上这引发了一个知识问题、不同的认知方式可能导致不同的结论等套话，就能满足评分要求。框架为评分提供了可操作的术语抓手：教师可以指着论文说这里提到了认知方式、这里连接了两个知识领域。但正是这种可操作性，让评分变得廉价，它测量的是术语使用的熟练度，而非批判性思维的质量（p.172）。
+这三个问题按因果顺序展开。框架问题是起点：TOK 不属于任何既有学科，课程开发者选择创建一个超学科（extra-disciplinary）框架（与此形成对照的是英国 [[EDEXCEL Perspectives on Science|EDEXCEL AS Perspectives on Science]] 课程，它留在[[Scientism|科学主义]]框架内部，以严格的科学报告格式作为评估核心），因此必须自创一套词汇来组织教学和评估（p.171, note 9）。评估标准的关键要素看起来需要真正的思考：识别知识问题、批判性反思不同观点、连接多种认知方式和知识领域。但实际上，学生只需在论文中反复出现这些术语并配上这引发了一个知识问题、不同的认知方式可能导致不同的结论等套话，就能满足评分要求。框架为评分提供了可操作的术语抓手：教师可以指着论文说这里提到了认知方式、这里连接了两个知识领域。但正是这种可操作性，让评分变得廉价，它测量的是术语使用的熟练度，而非批判性思维的质量（p.172）。
 
 > [!chain-link] 框架如何变成灌输（pp.171–172，note 11）
 > - **评估需要标准** TOK 声称由问题构成，但评估必须给出分数，分数依赖标准，标准必然使用术语。评估标准的关键要素是识别和理解相关知识问题、对不同观点进行批判性反思、以及连接多种认知方式和知识领域。
@@ -504,7 +504,7 @@ issuing_organization: ""
 > [!citation-card]- 三种路径的学术承诺
 > 三种方案都源于对某个框架的承诺：要么是纽拉特的反基础主义和多元[[Positivism|实证主义]]，要么是考察意见分歧如何被（或能被）解决的一般论证理论，要么是一种政治驱动的关于自我利益和社会领域协商的路径（p.189）。
 >
-> *They all stem from a commitment to a framework: either [[Otto Neurath|Neurath]]'s anti-foundationalist and pluralist positivism, or a general theory of argumentation that investigates how differences of opinion are (or can be) resolved, or a politically motivated approach to self-interest and negotiation in the social realm.*
+> *They all stem from a commitment to a framework: either Neurath's anti-foundationalist and pluralist positivism, or a general theory of argumentation that investigates how differences of opinion are (or can be) resolved, or a politically motivated approach to self-interest and negotiation in the social realm.*
 
 > [!citation-card]- 纽拉特的实践智慧
 > 不完全决定性是好事，因为它允许价值观在竞争理论之间做出选择，从而使进步的社会行动成为可能。承认科学不是[[Value Neutrality|价值无涉]]的、确实受价值驱动，反而允许一种更丰富但仍然实证主义的科学哲学路径（pp.183–184）。

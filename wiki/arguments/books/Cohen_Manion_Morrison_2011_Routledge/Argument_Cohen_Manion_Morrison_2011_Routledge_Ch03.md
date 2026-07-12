@@ -380,7 +380,7 @@ Morrison（1993）进一步指出，评估的政治化不仅限于大规模政�
 > 研究产出包含多种知识类型，Caplan将其归纳为以下七类：
 > - **概念（Concepts）** 重新框定政策问题的新概念工具
 > - **命题（Propositions）** 可检验的关系陈述
-> - **解释（Explanations）** 关于机制和[[Causality|因果]]的理论说明
+> - **解释（Explanations）** 关于机制和因果的理论说明
 > - **理论（Theories）** 系统化的解释框架
 > - **策略（Strategies）** 可操作的行动方案
 > - **证据（Evidence）** 经验数据和发现

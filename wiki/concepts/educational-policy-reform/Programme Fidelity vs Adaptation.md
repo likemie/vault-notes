@@ -107,12 +107,12 @@ updated: '2026-05-18'
 > [!example] 与相关概念的区别
 > - vs [[Evidence-Based Education]] — EBE 倾向于强调"什么有效"的证据生产，而 fidelity vs adaptation 关注证据实施过程中的操作决策
 > - vs [[Local Knowledge in Evidence-Based Policy]] — 本地知识是判断何时适应、如何适应的前提条件；[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.13)]] 以 Hayek (1945) 的"特定时间和地点环境的知识"为此提供理论基础
-> - vs [[Cartwright's Three-Stage Knowledge Framework]] — 三阶段框架为 fidelity vs adaptation 的决策提供了分析工具：理解[[Causality|因果]]机制（阶段二）才能判断哪些要素必须忠实复制、哪些可以本地替代
+> - vs [[Cartwright's Three-Stage Knowledge Framework]] — 三阶段框架为 fidelity vs adaptation 的决策提供了分析工具：理解因果机制（阶段二）才能判断哪些要素必须忠实复制、哪些可以本地替代
 
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Cartwright's Three-Stage Knowledge Framework]] — 判断是否需要忠实执行取决于：原始方案中的每个要素是[[Causality|因果]]必需的（不可替代）还是仅为支持条件之一（可能有功能等价替代）
+> - [[Cartwright's Three-Stage Knowledge Framework]] — 判断是否需要忠实执行取决于：原始方案中的每个要素是因果必需的（不可替代）还是仅为支持条件之一（可能有功能等价替代）
 
 ## 实证发现
 

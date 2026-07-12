@@ -64,13 +64,13 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 基于 35 年担任 *Evaluation Review* 创始编辑的经验，Berk 反思[[Evaluation Research|评估研究]]中证据与"垃圾科学"（junk science）的区别问题：为什么政策制定者往往无法区分两者？在[[Causality|因果]]效应估计的方法论前沿，证据与垃圾之间的关键战场在哪里？如何对抗垃圾科学？
+> 基于 35 年担任 *Evaluation Review* 创始编辑的经验，Berk 反思[[Evaluation Research|评估研究]]中证据与"垃圾科学"（junk science）的区别问题：为什么政策制定者往往无法区分两者？在因果效应估计的方法论前沿，证据与垃圾之间的关键战场在哪里？如何对抗垃圾科学？
 
 ## 理论框架
 
 > [!abstract] 理论框架
 > Berk 不依赖单一理论框架，而是基于[[Evaluation Research|评估研究]]方法论的演进历史进行[[Reflexivity|反思性]]分析。他的论证锚定在：
-> - **[[Potential Outcomes Framework|潜在结果框架]]（Neyman-Rubin-Holland-Pearl）**作为[[Causality|因果]]效应定义的概念基础
+> - **[[Potential Outcomes Framework|潜在结果框架]]（Neyman-Rubin-Holland-Pearl）**作为因果效应定义的概念基础
 > - **Campbell & Stanley (1963)** 的四种效度框架作为实验设计评估的参照
 > - Daubert 标准的"垃圾科学"概念作为区分证据与垃圾的司法类比（[[Daubert v Merrell Dow Pharmaceuticals 1993]]）
 
@@ -85,7 +85,7 @@ citation_aliases:
 > [!example] 核心论证
 > Berk 的论证围绕五个方法论战场展开，每个战场都存在证据与垃圾之间的张力：
 >
-> ### 1. [[Causality|因果]]效应的定义
+> ### 1. 因果效应的定义
 >
 > [[Potential Outcomes Framework|潜在结果框架]]的核心进步在于区分因果效应的**定义**与**估计**。但实践中不同的平均处理效应定义（总体 vs. 样本、处理组 vs. 全体）常被忽视，导致估计目标不明——"可信的证据不太可能产生"(p.194)。
 >

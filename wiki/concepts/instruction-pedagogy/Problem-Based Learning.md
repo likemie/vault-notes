@@ -48,7 +48,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 问题式学习（Problem-Based Learning, PBL）是一种以问题驱动学习的教学方法。学生在小组中协作，先面对一个问题以激活其先前知识，然后构建理论或心理模型来解释该问题的底层[[Causality|因果]]结构，随后通过持续学习、讨论和解决问题来精炼其心理模型（Schmidt, Rotgans, & Yew, 2011, p.793; Hattie, 2015, p.85）。
+> 问题式学习（Problem-Based Learning, PBL）是一种以问题驱动学习的教学方法。学生在小组中协作，先面对一个问题以激活其先前知识，然后构建理论或心理模型来解释该问题的底层因果结构，随后通过持续学习、讨论和解决问题来精炼其心理模型（Schmidt, Rotgans, & Yew, 2011, p.793; Hattie, 2015, p.85）。
 >
 > 在芬兰 [[Phenomenon-Based Learning]] 的讨论中，PBL 常被视为 PhBL 的近缘传统之一。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] 指出，芬兰 PhBL 确实吸收了 PBL 和 inquiry-based learning 的[[Constructivist Paradigm|建构主义]]学习观，但它还受[[Phenomenology|现象学]]、existentialism、[[Bildung]] 与 [[Didaktik]] 影响，因此不能简单等同于 PBL([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp.2, 8]])。
 >

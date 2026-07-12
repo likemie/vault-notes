@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 104
+argument_related_count: 105
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -121,6 +121,7 @@ related_methods:
   - "[[Observation Protocol]]"
   - "[[Random Assignment]]"
   - "[[Random Sampling]]"
+  - "[[True Experimental Design]]"
   - "[[Analysis of Covariance]]"
   - "[[Time Series Design]]"
   - "[[Non-probability Sampling]]"
@@ -559,7 +560,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > | 同一横行 | X 或 O 作用于同一组被试 |
 > | 虚线分隔 | 各组非同质，不能随机选择和部署两组 |
 
-真实验设计必须等组，有至少一组控制组，被试随机取样和随机分派。三种典型模式：
+[[True Experimental Design|真实验设计]]必须等组，有至少一组控制组，被试随机取样和随机分派。三种典型模式：
 
 > [!contrast-table] 真实验设计的三种典型模式
 > | 维度 | 实验组控制组后测设计 | 实验组控制组前后测设计 | [[Solomon Four-Group Design\|所罗门四组设计]] |

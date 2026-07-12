@@ -111,7 +111,7 @@ updated: 2026-05-18
 
 > [!example]
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第4章援引 Brown 的[[Employability|就业力]]概念及其派生的履历经济学，作为分析大学生[[Social Engagement|社会性投入]]重要性的理论依据。钦凯案例——广泛社交（多结交年长商界精英）、广泛兴趣（健身教练级、养殖热带鱼）——展示了履历经济学在精英大学中的运作逻辑。详见 [[Goal-Controlled Mode]]
-> - 与[[Credential Inflation|文凭通胀]]和[[Employability|就业力]]的关联：三者在郑雅君（2023）的分析中构成一条[[Causality|因果]]链——文凭通胀 → 就业力相对化 → 履历经济学
+> - 与[[Credential Inflation|文凭通胀]]和[[Employability|就业力]]的关联：三者在郑雅君（2023）的分析中构成一条因果链——文凭通胀 → 就业力相对化 → 履历经济学
 
 ---
 

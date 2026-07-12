@@ -94,7 +94,7 @@ citation_aliases:
 > 3. [[Evidence-Based Education|证据本位教育]]（Evidence-Based Education, EBE）的统计修辞如何与新自由主义政策框架合谋，进而导致一线教师的去专业化？
 
 > [!claim] 核心主张
-> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀[[Causality|因果]]机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality|价值中立]]（Value Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
+> 教育中的“证据本位”运动在技术上通过统计聚合层层剥离情境，哲学上基于休谟粗糙的经验论抹杀因果机制与人类能动性（Agency），其本质是新自由主义审计文化的体现，旨在用 [[Value Neutrality|价值中立]]（Value Neutrality）的科学修辞将教育的价值与政治问题转化为纯粹的效率传递技术。
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials\|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
@@ -113,7 +113,7 @@ citation_aliases:
 > | **新自由主义审计文化**<br>[[Stephen Ball\|Ball (2013)]]<br>Power (1997) | 剖析“审计社会”与“以数字治理”机制。揭示 EBE 如何将复杂的教育 [[Bildung\|陶冶（Bildung）]]转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
 
 > [!warrant]- 理论如何支撑论证
-> 批判实在论和实在论评估理论为解构 [[Evidence-Based Education\|EBE]] 提供了强大的 [[Epistemology|认识论]]武器。通过这套理论，作者能指出教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有[[Causality|因果]]效应（例如亚里士多德（Aristotle）所说的“目的因”）。这打破了 [[Randomised Controlled Trials\|RCT]] 将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
+> 批判实在论和实在论评估理论为解构 [[Evidence-Based Education\|EBE]] 提供了强大的 [[Epistemology|认识论]]武器。通过这套理论，作者能指出教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应（例如亚里士多德（Aristotle）所说的“目的因”）。这打破了 [[Randomised Controlled Trials\|RCT]] 将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
 
 ---
 
@@ -171,7 +171,7 @@ citation_aliases:
 >    - **数据包装**[[Education Endowment Foundation|EEF]] 行政摘要宣称该项目（针对初中一年级阅读困难学生的合成拼读干预）带来了 $+0.24$ 标准差（SD）的效应量，等同于“3 个月的额外进步”。
 >    - **随机分配失败的幻象** 深读技术报告会发现，由于学校自主分配，干预组的前测成绩远低于对照组的前测成绩。干预组的后测均值甚至仅略高于对照组的前测均值。
 > - **匹配子集拆解** 当研究者从中筛选出前测成绩完全相同的低分学生子集时，干预组和对照组 the 平均进步幅度和后测成绩**几乎完全相同**。所谓的“3 个月额外进步”纯粹是糟糕的随机分配带来的数据偏误幻象。
->    - **黑箱操作与机制缺失** 研究完全没有诊断**为什么**这些学生会出现阅读困难（[[Critical Realism|批判实在论]]所要求揭示的深层“[[Causality|因果]]机制”），而是将其塞入数据黑箱 (p. 6)。
+>    - **黑箱操作与机制缺失** 研究完全没有诊断**为什么**这些学生会出现阅读困难（[[Critical Realism|批判实在论]]所要求揭示的深层“因果机制”），而是将其塞入数据黑箱 (p. 6)。
 > 3. **施为者悖论** 报告指出“参与 [[School Leadership|学校领导]]在随机分配前已非常热情”，“合成拼读的成功离不开教师的热情、赞美与动态节奏”。这意味着干预的效果很大程度上依赖情感与意志，而 RCT 却必须将“人类意志”视为需要控制的“污染源”。
 > 
 > > [!contrast-table]- “新起点”宣称与现实的对比
@@ -190,7 +190,7 @@ citation_aliases:
 ### 论证步骤二：元分析与第二级（Level 2）异质性混淆
 
 > [!claim] [[Meta-analysis|元分析]]通过技术标准强行聚合异质研究，造成“苹果与橘子”的混淆
-> 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选[[Document|文献]]。这种去情境化的数据叠加，将本质不同的教学实践混为一谈，计算出的平均效应量毫无意义。
+> 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选[[Document|文献]]。这种去情境化的数据叠加，将本质不同的教学实践混为一谈，计算出的平均效应量毫无意义，这构成了[[Critique of Meta-analysis|元分析批判]]的关键论点。
 
 > [!critique-method] 统计炼金术与 [[Heterogeneity|异质性]]抹除
 > 1. **苹果与橘子的炼金术**Feinstein (1995) 曾痛陈元分析是“21世纪的统计炼金术”，它将患者病情严重程度等关键 [[Variable|变量]]剥离，把截然相反的实证结果强行合流，“将重要的不一致性埋入统计泥浆中” (p. 9)。
@@ -278,7 +278,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 教育项目的[[Realism in International Relations|现实主义]][[Causality|因果]]观
+> [!citation-card]- 教育项目的[[Realism in International Relations|现实主义]]因果观
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（Reasoning）。(p. 7)
 >
 > Social programmes ... offer resources (material, social, cognitive) to subjects, and whether they work depends on the reasoning of these individuals. (Pawson, 2006, p. 45)

@@ -7,7 +7,7 @@ summary: "多义词：量化实验中个体作为自身控制的重复测量设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Repeated Measures Design]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[ABAB Design]]"
   - "[[Intervention Research]]"
   - "[[Gating Procedure]]"
 related_persons: []
@@ -109,7 +110,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 ## 常见设计类型
 
 > [!feature] [[What Works Clearinghouse|WWC]] 审查中的 SCD 设计类型
-> - **ABAB 设计（撤回设计）** 交替引入和撤除干预以建立实验控制，可能仅有一名学生参与（[[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 466]]）
+> - **ABAB 设计（[[ABAB Design|撤回设计]]）** 交替引入和撤除干预以建立实验控制，可能仅有一名学生参与（[[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 466]]）
 > - **多基线设计（Multiple-Baseline Design）** 在不同时间点对不同个体、行为或情境引入干预，可能包含多人（p. 466）
 > - **交替处理设计（Alternating Treatment Design）** 在同一时期内交替施加不同干预条件
 > - **聚合单元设计** 使用班级等聚合单元进行 ABAB 设计（p. 466）

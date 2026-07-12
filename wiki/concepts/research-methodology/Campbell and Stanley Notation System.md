@@ -8,7 +8,7 @@ aliases:
 summary: "Campbell和Stanley（1963）提出的用于图示实验设计的经典符号系统，以X、O、R和水平分隔线等符号表示处理、测量、随机分配和组间关系"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Solomon Four-Group Design]]"
+  - "[[True Experimental Design]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -79,6 +80,6 @@ updated: 2026-06-01
 > [!tip]-
 > - [[Internal Validity]] — Campbell & Stanley 在同一著作中同时提出了[[Threats to Internal Validity|内部效度威胁]]的分类框架，符号系统与效度框架是同一理论体系的两个组成部分。
 > - [[External Validity]] — [[Threats to External Validity|外部效度威胁]]同样是 Campbell & Stanley 框架的组成部分。
-> - [[Solomon Four-Group Design]] — 运用该符号系统图示的最复杂的真实验设计之一。
+> - [[Solomon Four-Group Design]] — 运用该符号系统图示的最复杂的[[True Experimental Design|真实验设计]]之一。
 > - [[Campbellian Validity Framework]] — 以 Campbell 命名的效度框架，是符号系统的理论延伸。
 

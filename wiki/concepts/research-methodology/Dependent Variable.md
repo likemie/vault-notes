@@ -11,7 +11,7 @@ aliases:
 summary: "实验或量化研究中被观察和测量的结果变量，其变化被假定为自变量的操纵或选择所导致，是因果推断中的输出条件"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,6 +36,7 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Ex Post Facto Research]]"
+  - "[[Pretest-Posttest Control Group Design]]"
   - "[[Factorial Design]]"
 related_persons: []
 related_facts: []
@@ -76,7 +77,7 @@ updated: 2026-07-12
 > - **多重测量** 同一因变量可以通过多种方式测量（如行为测量和自评测量），以增强结果的可[[Reliability|信度]]和构念覆盖面（p. 330）。
 > - **时机考量** 因变量的后测时机直接影响结果：过早可能错失延迟效应，过晚则无法排除其他因素的干扰（pp. 334–335）。
 
-在前后测控制组设计中，[[Causality|因果]]效应被量化为实验组前后测差异减去控制组前后测差异，即 $(E_1 - E_2) - (C_1 - C_2)$，其中后测测量的是因变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 314]]）。
+在[[Pretest-Posttest Control Group Design|前后测控制组设计]]中，[[Causality|因果]]效应被量化为实验组前后测差异减去控制组前后测差异，即 $(E_1 - E_2) - (C_1 - C_2)$，其中后测测量的是因变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 314]]）。
 
 因变量的[[Operationalization|操作化]]质量是[[External Validity|外部效度]]的关键威胁之一。如果因变量的操作性定义不充分，测量到的不是真正的[[Construct|构念]]，则整个研究的结论可能指向错误的对象。在 Shevington 语言教学研究中，因缺乏足够难度的标准化阅读测验作为后测，不得不自行编制测验且未提供信效度信息，这引入了工具化威胁（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 336–337]]）。
 

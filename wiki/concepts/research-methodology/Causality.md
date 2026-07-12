@@ -2,7 +2,6 @@
 title: Causality
 aliases:
   - 因果性
-  - 因果
   - 因果关系
   - 因果推断
   - causal inference
@@ -10,7 +9,7 @@ aliases:
 summary: "教育研究中指原因导致效果的关系，涵盖决定论因果与概率因果两种刻画方式，涉及时间顺序、排除混淆变量、反事实推理和因果过程等核心议题"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,6 +40,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Pretest-Posttest Control Group Design]]"
   - "[[Random Assignment]]"
   - "[[Experimental Research]]"
   - "[[Ex Post Facto Research]]"
@@ -74,7 +74,7 @@ updated: 2026-07-13
 > - **边界** 因果推断不等于解释（解释可能错误）、不等于预测（预测可能基于错误的因果识别）、不等于相关（相关可能由第三变量驱动）。因果推断在社会科学中始终是概率性的——研究者积累证据支持因果主张，而非一劳永逸地证明因果关系。
 
 > [!formula-step] 真实验中的平均因果[[Effect Size|效应量]]化
-> 在前后测控制组设计中，平均因果效应可通过以下公式量化（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 314]]）：
+> 在[[Pretest-Posttest Control Group Design|前后测控制组设计]]中，平均因果效应可通过以下公式量化（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 314]]）：
 >
 > $$\text{平均因果效应} = (E_1 - E_2) - (C_1 - C_2)$$
 >

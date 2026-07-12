@@ -218,6 +218,10 @@ TEMPLATER_PLACEHOLDER_RE = re.compile(r"<%.*?%>")
 CITATION_PARENT_RE = re.compile(r"^\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)$")
 CITATION_NARRATIVE_RE = re.compile(r"^[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)]$")
 RAW_CITATION_RE = re.compile(r"(?<![\w\[])(\([A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?\)|（[A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?）|[A-Z][A-Za-z0-9 .&和-]+\s*[（(](?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)])")
+# A bare "(Name, YEAR)" / "（Name, YEAR, p. N）" citation locator immediately after a
+# bold CJK term is not an English translation of that term — it's a citation, and
+# should stay outside the bold (same principle as the Argument-wikilink exclusion below).
+BARE_CITATION_PARENS_RE = re.compile(r"[（(][A-Z][A-Za-z0-9 .&和-]+,\s*(?:19|20)\d{2}[a-z]?(?:,\s*pp?\.\s*\d+(?:[–-]\d+)?)?[）)]")
 PAGE_ONLY_REF_RE = re.compile(
     r"([（(]\s*pp?\.\s*\d+(?:\s*[–-]\s*\d+)?"
     r"(?:\s*[,，]\s*\d+(?:\s*[–-]\s*\d+)?)*\s*[）)])",
@@ -1736,6 +1740,10 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
         annotation = m.group(2)
         if re.fullmatch(r"[（(]\s*pp?\.\s*[^）)]+[）)]", annotation, flags=re.IGNORECASE):
             continue
+        if re.fullmatch(r"[（(]\s*\[\[Argument_[^\]]*\]\]\s*[）)]", annotation):
+            continue
+        if BARE_CITATION_PARENS_RE.fullmatch(annotation):
+            continue
         issues.append(
             Issue(
                 "ERROR",
@@ -2229,6 +2237,10 @@ def fix_body_spans(text: str, argument_citations: Dict[str, Dict[str, Any]]) -> 
         scan,
     ):
         if re.fullmatch(r"[（(]\s*pp?\.\s*[^）)]+[）)]", m.group(2), flags=re.IGNORECASE):
+            continue
+        if re.fullmatch(r"[（(]\s*\[\[Argument_[^\]]*\]\]\s*[）)]", m.group(2)):
+            continue
+        if BARE_CITATION_PARENS_RE.fullmatch(m.group(2)):
             continue
         chinese = body[m.start(1):m.end(1)]
         annotation = body[m.start(2):m.end(2)]

@@ -7,7 +7,7 @@ aliases:
 summary: "研究对象因意识到被观察而改变行为的现象，源自霍桑工厂实验，在教育研究中作为内部效度和外部效度的共同威胁"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Variable]]"
 related_methods:
   - "[[Random Assignment]]"
+  - "[[True Experimental Design]]"
   - "[[Experimental Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
@@ -79,7 +80,7 @@ updated: 2026-07-13
 ### 被观察意识是威胁效度的独立来源
 
 > [!claim] 霍桑效应混淆了干预效应与被研究效应
-> 在实验中，实验组的后测变化可能来自三个来源：干预本身的效果、自然成熟或历史事件、以及参与者因被研究而产生的额外努力或焦虑。[[Random Assignment|随机化]]和控制组可以排除第二类，但无法区分第一类和第三类——因为控制组同样知道自己正在被研究。因此，即使是最严格的真实验设计，霍桑效应也可能残留在效应估计中。
+> 在实验中，实验组的后测变化可能来自三个来源：干预本身的效果、自然成熟或历史事件、以及参与者因被研究而产生的额外努力或焦虑。[[Random Assignment|随机化]]和控制组可以排除第二类，但无法区分第一类和第三类——因为控制组同样知道自己正在被研究。因此，即使是最严格的[[True Experimental Design|真实验设计]]，霍桑效应也可能残留在效应估计中。
 
 ### 欺骗可以是合理的研究策略
 

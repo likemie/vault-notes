@@ -376,7 +376,7 @@ Hattie 的工作面临批评。核心假设是元综合中的研究按类型和�
 Toolkit 的灵感来自多个来源(pp.47–48)。
 
 - Hattie（1992/2008）的比较性[[研究地图]]
-- Sipe & Curlette(1996)的共同纳入标准（聚焦于学龄儿童、尽可能依赖有[[Causality|因果]]推论依据的[[Intervention Research|干预研究]]）和系统透明的搜索策略
+- Sipe & Curlette(1996)的共同纳入标准（聚焦于学龄儿童、尽可能依赖有因果推论依据的[[Intervention Research|干预研究]]）和系统透明的搜索策略
 - Marzano(1998)的实用目标
 
 在 [[Education Endowment Foundation|EEF]] 的支持下，这些摘要被概念化为一系列整合的[[Umbrella Review|伞状综述]]（umbrella reviews），以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结(p.47)。

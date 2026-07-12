@@ -8,7 +8,7 @@ aliases:
 summary: "Carl Schmitt 的主权理论，主权者的本质不在于制定规则而在于决定例外状态，即谁有权在紧急状态下悬置法律"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Attrition]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Jiang Shigong]]"
 related_facts:
   - "[[National Security Law]]"
   - "[[Citizenship and Social Development]]"
@@ -117,7 +118,7 @@ updated: 2026-07-13
 > 剖析威权政权如何在使用强力主权决断悬置法治边界的同时，协同使用柔性的[[Psychologisation|心理化]]学说抚慰社会不满，形成刚柔并济的双重统治技术。
 
 > [!claim] Vickers, 2024
-> **强世功宪政决断论与微观情感[[Disciplina and Doctrina|规训]]的共谋**
+> **[[Jiang Shigong|强世功]]宪政决断论与微观情感[[Disciplina and Doctrina|规训]]的共谋**
 > - **主权决断为课程接管开辟法律真空** 北京的宪法学者（如强世功）利用施米特式的决断理论，为中央政府在2020年后迅速中止通识教育科、清除独立专题探究（IES）、改以公社科取代的超速强推机制提供了法理依据（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.139, 155]]）。
 > - **福柯式微观治理对主权威慑的补充** 施米特式的强力决断只能建立行为的服从，而不能建立内心的顺从。因此，官方在课外协同推行[[Youth Development Blueprint|青年发展蓝图]]与[[My Pledge to Act|我的行动承诺]]，利用社会情感学习（SEL）话语将青年的政治异化翻译为微观的“情绪失调”和“感恩缺失”。
 > - **复合统治的刚柔并济** 通过将强力主权决断（施米特）与微观心理化治理（福柯）无缝结合，政权既实现了对制度性反抗的致命打击，又通过心理学话语消解了抗争在话语层面的正当性。
@@ -139,7 +140,7 @@ updated: 2026-07-13
 > [!dev-timeline] 概念演变
 > - **1922 — 决断论主权学说的提出** Carl Schmitt 面对魏玛宪政危机，发表《政治神学》，主张主权在于例外状态的决断。
 > - **2020 — 香港例外状态常态化的起点** [[National Security Law|香港国安法]]实施，国家安全委员会成立且其决策不受司法复核，确立了施米特式不受规范限制的决断机构在香港法治体系中的中心位置。
-> - **2024 — 比较教育视角的系统批判** Vickers 实证剖析了强世功等北京宪法学者如何引入施米特主权观以重塑[[One Country, Two Systems|一国两制]]，并全面接管和改写了高中的政治教育大纲（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.139, 155]]）。
+> - **2024 — 比较教育视角的系统批判** Vickers 实证剖析了[[Jiang Shigong|强世功]]等北京宪法学者如何引入施米特主权观以重塑[[One Country, Two Systems|一国两制]]，并全面接管和改写了高中的政治教育大纲（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.139, 155]]）。
 
 ---
 
@@ -150,7 +151,7 @@ updated: 2026-07-13
 > > [!axis] 主权决断优先 vs. 宪政契约法治优先
 > > 争论焦点在于特别行政区的高度自治是基于两制互不侵蚀的宪制法理约束，还是中央在政治权衡下可随时调整的临时性授权。
 > > - **[[Argument_Vickers_2024_CE|Vickers（2024）]]** 施米特式主权观在香港的全面落地，实质上以政治强力决断[[Epoché|悬置]]了基本法的宪政规范，将特区的法治降格为行政权力的工具（pp.149, 155）。
-> > - **强世功（Jiang Shigong）** 坚称[[One Country, Two Systems|一国两制]]必须明确一国是绝对的主权前提，在危及国家主权与安全的核心例外时刻，中央行使不受司法审查的决断权是捍卫宪法的终极法理基础。
+> > - **[[Jiang Shigong|强世功]]（Jiang Shigong）** 坚称[[One Country, Two Systems|一国两制]]必须明确一国是绝对的主权前提，在危及国家主权与安全的核心例外时刻，中央行使不受司法审查的决断权是捍卫宪法的终极法理基础。
 > 
 > > [!axis] 国家安全范畴无限泛化的合理性
 > > 争议聚焦于在高中教材中将国家安全延伸至生态、文化、太空等非政治领域是否有助于培养青年的国家认同。
