@@ -37,8 +37,7 @@
               "title": "Argument_Teng_2025_CE"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,16 +205,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0ec4b7749d7a06eb",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
-    "wiki/methods/quantitative/Binary Logistic Regression.md",
+    "raw/030_16 Experiments, quasi-experiments, single-case research and internet-based exper.txt",
+    "wiki/methods/quantitative/Ex Post Facto Research.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15.md",
     "wiki/arguments/journal-articles/Comparative Education/Argument_Teng_2025_CE.md",
+    "wiki/methods/quantitative/Binary Logistic Regression.md",
     "wiki/concepts/research-methodology/Criterion Group Study.md",
     "wiki/concepts/research-methodology/Criterion Group Study.md.tmp.33871.da7c5f98a523",
     "wiki/concepts/research-methodology/Co-relational Study.md",
     "wiki/concepts/research-methodology/Post Hoc Ergo Propter Hoc Fallacy.md",
-    "wiki/methods/quantitative/Ex Post Facto Research.md",
     "wiki/concepts/research-methodology/Alternative Hypothesis.md",
     "wiki/concepts/research-methodology/Literature Search.md",
     "wiki/concepts/research-methodology/Literature Review.md",
@@ -235,7 +235,6 @@
     "wiki/methods/qualitative/Snowball Sampling.md",
     "wiki/persons/france/Pierre Bourdieu.md",
     "wiki/concepts/research-methodology/Respondent Validation.md",
-    "wiki/methods/qualitative/Field Notes.md",
     "tmp/Teng_2025_CE.txt",
     "raw/028_14 Case studies.txt",
     "wiki/facts/hong-kong",
