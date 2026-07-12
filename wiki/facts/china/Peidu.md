@@ -28,6 +28,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Rural School Consolidation]]"
+  - "[[Partnership Schools Kura Hourua]]"
   - "[[Hukou System]]"
 related_arguments:
   - "[[Argument_Teng_2025_CE]]"
@@ -54,8 +55,8 @@ updated: 2026-07-12
 ## 概念辨析
 
 > [!boundary] 核心概念辨析与边界
-> - **与常规择校（School Choice）的对比**
->   国际语境下的择校通常由教育市场化、多元化政策（如特许学校、教育券）驱动，而中国的陪读现象则是由地方政府以优质教育资源向城镇集中来推进人口城镇化的发展战略所引导的。[[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 303–304)]]
+> - **与常规[[School Choice|择校]]（School Choice）的对比**
+>   国际语境下的择校通常由教育市场化、多元化政策（如[[Partnership Schools Kura Hourua|特许学校]]、教育券）驱动，而中国的陪读现象则是由地方政府以优质教育资源向城镇集中来推进人口城镇化的发展战略所引导的。[[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 303–304)]]
 > - **与常规劳动力迁移（Labor Migration）的对比**
 >   陪读迁移的核心动机在于子女教育，而非在迁入地寻求就业或改善居住水平。陪读的成年人（如母亲或祖辈）在城镇租房居住，通常不进入当地劳动力市场，家庭经济开支依赖在外地（如沿海城市）务工的父亲，呈现出家庭内部劳动力与抚育功能跨区域折叠的特殊空间结构。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 307)]]
 

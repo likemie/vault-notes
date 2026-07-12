@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_display_title: "Research Methods in Education · Ch15"
 argument_kind: "book-chapter"
-argument_related_count: 23
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -37,10 +37,10 @@ related_concepts:
   - "[[Homework]]"
   - "[[Sample Size Determination]]"
   - "[[Effective Teaching]]"
+  - "[[Document]]"
   - "[[Research Purpose]]"
   - "[[Evidence-Based Education]]"
   - "[[Falsification]]"
-  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Alternative Hypothesis]]"
   - "[[Probabilistic Causation]]"
@@ -268,7 +268,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > | 维度 | 因果-比较设计 | 历史设计 |
 > |---|---|---|
 > | 时间焦点 | 关注当前事件 | 追溯过去事件的历史 |
-> | 数据性质 | 可直接观察和访谈当前参与者 | 依赖档案、文献和二手记录 |
+> | 数据性质 | 可直接观察和访谈当前参与者 | 依赖档案、[[Document\|文献]]和二手记录 |
 > | 与研究对象的关系 | 研究者可接触活着的当事人 | 研究者与研究对象之间存在时间距离 |
 > | 核心任务 | 比较当前组别差异，逆向搜索原因 | 基于史料重建过去情境和因果脉络 |
 
@@ -299,7 +299,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 
 #### 事后归因谬误（post hoc, ergo propter hoc）
 
-> [!warning] 事后归因谬误（post hoc, ergo propter hoc fallacy）
+> [!warning] [[Post Hoc Ergo Propter Hoc Fallacy|事后归因谬误]]（post hoc, ergo propter hoc fallacy）
 > 因果关系常常建立在脆弱的基础上：仅因某变量先于所研究的现象发生，就假定它是原因（在此之后，因此因为此，after this, therefore because of this）。仅因一个变量在时间上先于另一个，并不意味前者引发了后者（p. 309）。
 
 > [!case] 咖啡与失眠
@@ -472,7 +472,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 ## 关键引用
 
 > [!citation-card]- 从结果逆向搜索原因
-> 事后回溯研究字面意为事后（after the fact）；在社会和教育研究中，指回溯性地研究可能的[[Causality|因果]]-效应关系，通过观察已存在的条件或状态，逆时间搜索可能的因果因素。（第15章，p. 304）
+> [[Ex Post Facto Research|事后回溯研究]]字面意为事后（after the fact）；在社会和教育研究中，指回溯性地研究可能的[[Causality|因果]]-效应关系，通过观察已存在的条件或状态，逆时间搜索可能的因果因素。（第15章，p. 304）
 >
 > *Ex post facto means 'after the fact' ... In the context of social and educational research the phrase means 'retrospectively' and refers to those studies which investigate possible cause-and-effect relationships by observing an existing condition or state of affairs and searching back in time for plausible causal factors.*
 

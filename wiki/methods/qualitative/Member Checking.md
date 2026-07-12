@@ -26,6 +26,7 @@ related_concepts:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
+  - "[[Case Study]]"
   - "[[Triangulation]]"
   - "[[Participatory Research]]"
   - "[[Action Research]]"
@@ -58,7 +59,7 @@ updated: 2026-07-11
 
 ### 个案研究中的受访者验证
 
-[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14, pp. 293–294)]]在个案研究语境中将此称为受访者验证（respondent validation），置于 Nisbet & Watt（1984）三阶段模型的第三阶段（草稿解释阶段），与[[Triangulation|三角验证]]、[[Reflexivity|反身性]]并列为提高个案研究质量的核心手段。其操作要点包括：
+[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14, pp. 293–294)]]在[[Case Study|个案研究]]语境中将此称为受访者验证（respondent validation），置于 Nisbet & Watt（1984）三阶段模型的第三阶段（草稿解释阶段），与[[Triangulation|三角验证]]、[[Reflexivity|反身性]]并列为提高个案研究质量的核心手段。其操作要点包括：
 
 > [!feature] Nisbet & Watt（1984）的操作建议
 > - **时机** 在准备草稿解释之后、最终定稿之前

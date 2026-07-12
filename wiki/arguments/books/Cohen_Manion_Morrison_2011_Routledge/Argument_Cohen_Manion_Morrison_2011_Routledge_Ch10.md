@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 112
+argument_related_count: 111
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -252,7 +252,7 @@ Lincoln & Guba (1985) 提出了质性研究效度的四项核心标准，每一�
 
 > [!tip]- 在这四项标准内达成严谨性的具体策略
 > - **[[Audit Trail|审计追踪]]（audit trails）** 记录研究全过程证据，包括原始数据、分析记录、数据还原与重构、过程笔记和工具开发信息
-> - **成员核查（[[Respondent Validation|member checking]] / respondent validation）** 在[[Coding in Qualitative Research|编码]]或分类时让参与者确认、修正或补充
+> - **成员核查（member checking / respondent validation）** 在[[Coding in Qualitative Research|编码]]或分类时让参与者确认、修正或补充
 > - **同伴汇报（[[Peer Debriefing]]）** 将研究暴露于无利害关系的同行面前进行交叉审问式检验
 > - **[[Negative Case Analysis|负面案例分析]]（negative case analysis）** 系统检验不符合已有假设的案例以修正和完善理论
 > - **结构互证（structural corroboration）** 即[[Triangulation|三角验证]]，在方法、来源、研究者和理论之间交叉检验

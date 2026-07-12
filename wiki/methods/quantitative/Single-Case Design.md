@@ -7,7 +7,7 @@ summary: "多义词：量化实验中个体作为自身控制的重复测量设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -19,13 +19,16 @@ tags:
 - case-study
 - research-design
 related_concepts:
-  - "[[Analytic Generalization]]"
-  - "[[Epistemology]]"
   - "[[Causality]]"
+  - "[[Analytic Generalization]]"
+  - "[[Document]]"
+  - "[[Theories of Policy Change]]"
+  - "[[Epistemology]]"
   - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[5-3-20 Rule]]"
   - "[[Variable]]"
+  - "[[Evaluation Research]]"
   - "[[Sample Size Determination]]"
   - "[[Definition of Terms]]"
   - "[[Heterogeneity]]"
@@ -33,7 +36,6 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Reliability]]"
   - "[[Threats to External Validity]]"
-  - "[[Theories of Policy Change]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -43,8 +45,8 @@ related_methods:
   - "[[Gating Procedure]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Wadhwa_2024_RER]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -60,16 +62,16 @@ updated: 2026-07-11
 
 Single-case design 在教育研究方法论中有两种截然不同的含义，分属不同方法论传统：
 
-> [!contrast-table] 量化实验 SCD 与个案研究单案例设计
+> [!contrast-table] 量化实验 SCD 与[[Case Study|个案研究]]单案例设计
 > | 维度 | 量化实验 SCD（本条目） | 个案研究单案例设计（[[Case Study\|个案研究]]语境） |
 > |---|---|---|
 > | 方法论传统 | 量化实验，[[Campbellian Validity Framework]] | 质性/混合方法，[[Case Study\|个案研究]]方法论 |
 > | 典型设计 | ABAB、多基线、交替处理 | 关键案例、极端案例、独特案例、启示性案例、纵向案例 |
 > | 分析单位 | 个体作为自身控制，重复测量 | 一个案例（可包含多个子分析单位） |
-> | 因果逻辑 | 通过撤除/引入干预排除替代解释 | 通过深度理解情境中的机制建立因果解释 |
+> | [[Causality\|因果]]逻辑 | 通过撤除/引入干预排除替代解释 | 通过深度理解情境中的机制建立因果解释 |
 > | 推广方式 | 复制逻辑（跨被试、跨情境） | [[Analytic Generalization\|分析性推广]]，案例不是样本 |
-> | 代表文献 | Kazdin (2011); Hitchcock et al. (2015) | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
-> | 核心风险 | 推广性受限，单一研究不足以支撑政策变革 | 全有或全无风险，把所有鸡蛋放在一个篮子里 |
+> | 代表[[Document\|文献]] | Kazdin (2011); [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
+> | 核心风险 | 推广性受限，单一研究不足以支撑[[Theories of Policy Change\|政策变革]] | 全有或全无风险，把所有鸡蛋放在一个篮子里 |
 
 本条目聚焦量化实验传统中的 SCD。个案研究中的单案例设计见 [[Case Study]] 和 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]]。
 
@@ -110,11 +112,11 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 
 ## WWC 审查中的操作步骤
 
-[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 通过 WWC SCD 审查流程间接描述了 WWC 如何评估 SCD 研究；这些步骤属于 [[WWC SCD Pilot Standards]] 及其配套审查协议和 SCD Review Guide 的制度化应用，而不是所有 SCD 研究必须遵循的通用研究步骤（[[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp. 460–466]]）：
+[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 通过 [[What Works Clearinghouse|WWC]] SCD 审查流程间接描述了 WWC 如何评估 SCD 研究；这些步骤属于 [[WWC SCD Pilot Standards]] 及其配套审查协议和 SCD Review Guide 的制度化应用，而不是所有 SCD 研究必须遵循的通用研究步骤（[[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp. 460–466]]）：
 
 > [!proc] WWC SCD 审查流程
 > 1. **初步筛选（Screening）** 对照审查协议确定研究是否有资格纳入审查：干预是否符合条件、因[[Variable|变量]]和参与者特征是否符合协议参数、研究是否在指定场所进行（pp. 464–465）。例如一个审查协议可能规定干预必须在 K-12 学校环境中实施，普通教室可接受，但高度专业化人员配置的住宿项目可能不相关（p. 465）
-> 2. **[[Internal Validity|内部效度]]评估** 评估研究的实验控制水平，包括：阶段对比的数量、每个阶段的数据点数量、结果是否被可靠测量、研究者是否主动操纵了自变量、通过视觉分析评估基线表现相对于干预阶段的表现（p. 465）
+> 2. **[[Internal Validity|内部效度]]评估** [[Evaluation Research|评估研究]]的实验控制水平，包括：阶段对比的数量、每个阶段的数据点数量、结果是否被可靠测量、研究者是否主动操纵了自变量、通过视觉分析评估基线表现相对于干预阶段的表现（p. 465）
 > 3. **研究细节描述** 系统记录以下信息以支持推广性判断：场所描述、设计类型、参与者特征和[[Sample Size Determination|样本量]]、因变量的[[Definition of Terms|操作性定义]]和记录方法、基线和干预条件、实施者及其培训、干预忠实度（pp. 465–466）
 > 4. **证据综合阈值判定** 应用 [[5-3-20 Rule]] 判断 SCD 证据是否足够充分以生成 WWC 干预报告
 
@@ -149,7 +151,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Gating Procedure]] | 方法 | WWC 在 SCD 审查中采用的门控程序，只有通过内部效度门槛的研究才进入推广性评估 |
+> | [[Gating Procedure]] | 方法 | [[What Works Clearinghouse\|WWC]] 在 SCD 审查中采用的门控程序，只有通过[[Internal Validity\|内部效度]]门槛的研究才进入推广性评估 |
 > | [[5-3-20 Rule]] | 概念 | WWC 用于判断 SCD 证据充分性的阈值 |
 > | [[Educational Evidence Clearinghouses]] | 概念 | WWC 和 [[Home Visiting Evidence of Effectiveness\|HomVEE]] 展示了 SCD 如何被纳入证据清算中心的设计标准体系 |
 > | [[What Works Clearinghouse]] | 事实 | 将 SCD 列为可纳入的影响研究设计，并使用门控程序与 5-3-20 规则审查 SCD 证据 |

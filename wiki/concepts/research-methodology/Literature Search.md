@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,8 @@ related_theories: []
 related_methods:
   - "[[Literature Map]]"
   - "[[Meta-analysis]]"
+  - "[[Cohort Study]]"
+  - "[[Trend Study]]"
 related_persons: []
 related_facts:
   - "[[EPPI-Centre]]"
@@ -200,9 +202,9 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [GSR](https://www.gsr.gov.uk) | 英国政府社会研究，方法论与数据服务 |
 > | [ICPSR](https://www.icpsr.umich.edu) | 美国校际政治与社会研究数据联盟，需机构订阅 |
 > | [Eurydice](https://eurydice.eacea.ec.europa.eu) | 欧盟教育制度比较数据 |
-> | [CLS](https://www.cls.ioe.ac.uk) | 英国队列研究，纵向追踪数据（1958、1970、2000+） |
+> | [CLS](https://www.cls.ioe.ac.uk) | 英国[[Cohort Study\|队列研究]]，纵向追踪数据（1958、1970、2000+） |
 > | [data.gov.uk](https://data.gov.uk) | 英国政府开放数据，含 DfE 教育统计 |
-> | [TIMSS / PIRLS](https://nces.ed.gov/timss/) | 国际数学与科学趋势研究数据 |
+> | [TIMSS / PIRLS](https://nces.ed.gov/timss/) | 国际数学与科学[[Trend Study\|趋势研究]]数据 |
 
 > [!index-table] 图书馆与档案
 > | 资源 | 说明 |
