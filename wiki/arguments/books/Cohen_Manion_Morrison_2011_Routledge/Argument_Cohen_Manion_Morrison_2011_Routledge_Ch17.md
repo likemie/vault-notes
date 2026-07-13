@@ -128,14 +128,16 @@ updated: 2026-07-13
 
 循证教育的影响力体现在一系列制度基础设施的建立上（pp. 329–335）：
 
-> [!feature] 循证教育的制度基础设施
-> - **伦敦大学 [[EPPI-Centre]]（Evidence for Policy and Practice Information and Co-ordinating Centre）**——证据知情政策与实践信息与协调中心
-> - **SPECTR 注册库（Social, Psychological, Educational and Criminological Controlled Trials Register）**——社会、心理、教育和犯罪学控制试验注册库（Milwain, 1998; Milwain et al., 1999），后转移至 Campbell 协作网，成为 Cochrane 协作网在教育和社会科学领域的对应机构
-> - **杜伦大学 CEM 中心（Curriculum, Evaluation and Management Centre）**——课程、评估与管理中心，Fitz-Gibbon 和 Tymms 在此展示了指标系统如何与实验方法结合，为[[Causality|因果性]]提供清晰证据
-> - **英国循证政策中心（UK Centre for Evidence-based Policy）**——来自英国经济与社会研究理事会
-> - **伦敦国王学院 Evidence Network**——证据网络
-> - **美国 [[What Works Clearinghouse]]（WWC）**——附带[[Recommendations for Practice|实践建议]]报告
-> - **英国政府"Research Informed Practice Site"**——研究知情实践网站
+> [!ref-table] 循证教育的制度基础设施（pp. 329–335）
+> | 机构 | 隶属与说明 | 功能与运营状况 |
+> |---|---|---|
+> | [[EPPI-Centre]]（[eppi.ioe.ac.uk](https://eppi.ioe.ac.uk/cms/)） | 证据知情政策与实践信息与协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre），原伦敦大学教育学院，现隶属于伦敦大学学院（UCL） | 教育与社会政策领域的系统综述方法论开发、证据使用研究和培训。持续运营中，由 David Gough 教授领导 |
+> | [[Campbell Collaboration]]（[campbellcollaboration.org](https://www.campbellcollaboration.org/)） | Campbell 协作网，前身为社会、心理、教育和犯罪学控制试验注册库（SPECTR）（Milwain, 1998; Milwain et al., 1999），Cochrane 协作网在教育和社会科学领域的平行机构 | 社会与教育领域控制试验的系统综述与元分析。持续运营中 |
+> | [CEM 中心](https://www.cem.org/)（课程、评估与管理中心，Curriculum, Evaluation and Management Centre） | 原属杜伦大学，由 Fitz-Gibbon 和 Tymms 创立，展示指标系统与实验方法结合以提供[[Causality]]因果推断证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
+> | [英国循证政策中心](https://www.ukri.org/councils/esrc/)（UK Centre for Evidence-based Policy） | 原属英国经济与社会研究理事会（ESRC），ESRC 后并入英国国家科研与创新署（UKRI） | 推动循证政策研究与实践。ESRC 原有专门页面已下线，职能可能已整合至 UKRI 体系 |
+> | [证据网络](https://www.kcl.ac.uk/policy-institute)（Evidence Network） | 原属伦敦国王学院 | 原为证据网络的建立与推广。网址已废弃，国王学院现由政策研究所（Policy Institute）承担类似职能 |
+> | [[What Works Clearinghouse]]（[ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc/)） | 美国教育部教育科学研究所（IES），附带[[Recommendations for Practice]]实践建议报告 | 教育干预证据的系统性审查与评级。2025 年 2 月因联邦合同取消而停止新审阅，网站可能保留为存档 |
+> | [研究知情实践网站](https://www.gov.uk/government/organisations/department-for-education)（Research Informed Practice Site） | 原属英国儿童、学校与家庭部（DCSF），DCSF 于 2010 年改组为教育部（DfE） | 提供研究主题与证据资源。原网址已废弃，相关职能并入英国教育部 GOV.UK 体系
 
 "证据"在这里通常来自各种形式的[[Randomised Controlled Trials|随机对照试验]]（Tymms, 1999; Coe et al., 2000; Thomas & Pring, 2004: 95），强调谨慎抽样、[[Variable|变量]]控制（包括外部变量和纳入变量）和[[Effect Size|效应量]]测量。循证研究也来自质性研究的系统综述。积累的证据旨在为政策和实践提供可靠的知识基础（Coe et al., 2000）。然而 Morrison（2001）指出"什么有效"这一宣称本身是可疑的（pp. 335–336）。
 
