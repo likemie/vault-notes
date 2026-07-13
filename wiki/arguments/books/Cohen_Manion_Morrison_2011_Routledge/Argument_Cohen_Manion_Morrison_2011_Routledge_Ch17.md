@@ -163,7 +163,7 @@ Anderson & Biddle（1991）和 Fitz-Gibbon 指出：政策制定者在制定政�
 > 2. **解决问题与避免有害程序** 识别并避免可能对学生产生负面影响的做法
 > 3. **创造改进** 引导更有效的学习
 >
-> Fitz-Gibbon 进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]。统计显著性在大样本中容易获得（Fitz-Gibbon, 1997: 118; Kline, 2004），而效应量受[[Sample Size Determination|样本量]]影响的方式更微妙，可以直接进入元分析的数据聚合（Glass et al., 1981; Lipsey, 1992; Coe, 2000, 2002）。Carver（1978）、Thompson（1994, 1996, 1998, 2001, 2002）和 Coe（2000）等人由此主张挣脱统计显著性的束缚，转向效应量这一更精细的尺度。评判标准也从"是否达到某个显著性阈值"变成[[Fitness for Purpose|目的适配性]]（fitness for purpose）：效应大小是否满足研究目的，而不是是否跨过了 5% 的任意门槛（pp. 339–340）。
+> Fitz-Gibbon 进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]。统计显著性在大样本中容易获得（Fitz-Gibbon, 1997: 118; Kline, 2004），而效应量受[[Sample Size Determination|样本量]]影响的方式更微妙，可以直接进入元分析的数据聚合（Glass et al., 1981; Lipsey, 1992; Coe, 2000, 2002）。Carver（1978）、Thompson（1994, 1996, 1998, 2001, 2002）和 Coe（2000）等人由此主张挣脱统计显著性的束缚，转向效应量这一更精细的尺度。评判标准也从"是否达到某个显著性阈值"变成[[Fitness for Purpose|目的适配性]]（fitness for purpose）：效应大小是否满足研究目的，而不是是否跨过了显著性水平的某个任意截断点（pp. 339–340）。
 
 > [!warning] 效应量转向的边界
 > 虽然效应量可能比统计显著性更精细，但小样本效应的[[External Validity|可推广性]]问题并不会因为使用效应量而消失，将小样本数据迁移到更大图景时仍面临可推广性挑战（pp. 340）。
@@ -388,9 +388,6 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 
 > [!critique] Wolf (1986) — 伪精确性与程序无效性
 > Wolf（1986: 16）的第六项批评警告：元分析表面上的客观性和精确性可能掩盖纳入研究中的程序缺陷，导致"**有害后果**"（mischievous consequences）。看似中立的数字，可能被用来为有缺陷的研究结论背书。
-
-> [!claim] McGaw (1997); Hunter et al. (1982) — 编码主观性
-> 编码类别的精确度、信度（如[[Intercoder Agreement|编码者间信度]]，相当于[[Inter-Rater Reliability|评分者间信度]]（见第10章），和效度必须明示（McGaw, 1997: 376–377）。如果抽样误差等因素不能解释超过 **75%** 的观察效应量方差，结果就不可接受。这意味着编码的可靠性直接决定了元分析的质量（pp. 362–363）。
 
 ---
 
