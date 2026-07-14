@@ -12516,6 +12516,14 @@
     ]
   },
   {
+    "title": "Evidence-Based Education Institutions",
+    "type": "fact",
+    "path": "wiki/facts/global/Evidence-Based Education Institutions.md",
+    "aliases": [
+      "循证教育机构"
+    ]
+  },
+  {
     "title": "INES Lugano General Assembly 1991",
     "type": "fact",
     "path": "wiki/facts/global/INES Lugano General Assembly 1991.md",
@@ -13319,6 +13327,24 @@
     ]
   },
   {
+    "title": "CEM Centre",
+    "type": "fact",
+    "path": "wiki/facts/uk/CEM Centre.md",
+    "aliases": [
+      "Curriculum, Evaluation and Management Centre",
+      "课程评估与管理中心",
+      "Cambridge CEM"
+    ]
+  },
+  {
+    "title": "Evidence Network",
+    "type": "fact",
+    "path": "wiki/facts/uk/Evidence Network.md",
+    "aliases": [
+      "证据网络"
+    ]
+  },
+  {
     "title": "Girls Into Science and Technology Project",
     "type": "fact",
     "path": "wiki/facts/uk/Girls Into Science and Technology Project.md",
@@ -13358,9 +13384,25 @@
     ]
   },
   {
+    "title": "Research Informed Practice Site",
+    "type": "fact",
+    "path": "wiki/facts/uk/Research Informed Practice Site.md",
+    "aliases": [
+      "研究知情实践网站"
+    ]
+  },
+  {
     "title": "ResearchED",
     "type": "fact",
     "path": "wiki/facts/uk/ResearchED.md"
+  },
+  {
+    "title": "UK Centre for Evidence-based Policy",
+    "type": "fact",
+    "path": "wiki/facts/uk/UK Centre for Evidence-based Policy.md",
+    "aliases": [
+      "英国循证政策中心"
+    ]
   },
   {
     "title": "Education Endowment Foundation",

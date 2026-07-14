@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,18 +52,19 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
   - "[[Class Size]]"
+  - "[[Research Scope]]"
   - "[[Emergence]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Publication Bias]]"
   - "[[Interaction Effect]]"
-  - "[[Intercoder Agreement]]"
-  - "[[Inter-Rater Reliability]]"
   - "[[Informed Consent]]"
   - "[[Attrition]]"
   - "[[Internal Validity]]"
   - "[[Scientific Method]]"
+  - "[[Intercoder Agreement]]"
+  - "[[Inter-Rater Reliability]]"
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
@@ -85,7 +86,13 @@ related_methods:
   - "[[Case Study]]"
 related_facts:
   - "[[EPPI-Centre]]"
+  - "[[Campbell Collaboration]]"
+  - "[[CEM Centre]]"
+  - "[[UK Centre for Evidence-based Policy]]"
+  - "[[Evidence Network]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Research Informed Practice Site]]"
+  - "[[Evidence-Based Education Institutions]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
 status: draft
@@ -133,11 +140,13 @@ updated: 2026-07-14
 > |---|---|---|
 > | [[EPPI-Centre]]（[eppi.ioe.ac.uk](https://eppi.ioe.ac.uk/cms/)） | 证据知情政策与实践信息与协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre），原伦敦大学教育学院，现隶属于伦敦大学学院（University College London，UCL） | 教育与社会政策领域的系统综述方法论开发、证据使用研究和培训。持续运营中，由 David Gough 教授领导 |
 > | [[Campbell Collaboration]]（[campbellcollaboration.org](https://www.campbellcollaboration.org/)） | Campbell 协作网，前身为社会、心理、教育和犯罪学控制试验注册库（SPECTR）（Milwain, 1998; Milwain et al., 1999），Cochrane 协作网在教育和社会科学领域的平行机构 | 社会与教育领域控制试验的系统综述与元分析。持续运营中 |
-> | [CEM 中心](https://www.cem.org/)（课程、评估与管理中心，Curriculum, Evaluation and Management Centre） | 原属杜伦大学，由 Fitz-Gibbon 和 Tymms 创立，展示指标系统与实验方法结合以提供[[Causality]]因果推断证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
-> | [英国循证政策中心](https://www.ukri.org/councils/esrc/)（UK Centre for Evidence-based Policy） | 原属英国经济与社会研究理事会（Economic and Social Research Council，ESRC），ESRC 后并入英国国家科研与创新署（UK Research and Innovation，UKRI） | 推动循证政策研究与实践。ESRC 原有专门页面已下线，职能可能已整合至 UKRI 体系 |
-> | [证据网络](https://www.kcl.ac.uk/policy-institute)（Evidence Network） | 原属伦敦国王学院 | 原为证据网络的建立与推广。网址已废弃，国王学院现由政策研究所（Policy Institute）承担类似职能 |
+> | [[CEM Centre]]（[cem.org](https://www.cem.org/)） | 原属杜伦大学，由 Fitz-Gibbon 和 Tymms 创立，展示指标系统与实验方法结合以提供[[Causality]]因果推断证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
+> | [[UK Centre for Evidence-based Policy]]（[ukri.org/councils/esrc](https://www.ukri.org/councils/esrc/)） | 原属英国经济与社会研究理事会（Economic and Social Research Council，ESRC），ESRC 后并入英国国家科研与创新署（UK Research and Innovation，UKRI） | 推动循证政策研究与实践。ESRC 原有专门页面已下线，职能已整合至 UKRI 体系 |
+> | [[Evidence Network]]（[kcl.ac.uk/policy-institute](https://www.kcl.ac.uk/policy-institute)） | 原属伦敦国王学院 | 原为证据网络的建立与推广。网址已废弃，国王学院现由政策研究所（Policy Institute）承担类似职能 |
 > | [[What Works Clearinghouse]]（[ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc/)） | 美国教育部教育科学研究所（Institute of Education Sciences，IES），附带[[Recommendations for Practice]]实践建议报告 | 教育干预证据的系统性审查与评级。2025 年 2 月因联邦合同取消而停止新审阅，网站可能保留为存档 |
-> | [研究知情实践网站](https://www.gov.uk/government/organisations/department-for-education)（Research Informed Practice Site） | 原属英国儿童、学校与家庭部（Department for Children, Schools and Families，DCSF），DCSF 于 2010 年改组为教育部（Department for Education，DfE） | 提供研究主题与证据资源。原网址已废弃，相关职能并入英国教育部 GOV.UK 体系
+> | [[Research Informed Practice Site]]（[gov.uk/dfe](https://www.gov.uk/government/organisations/department-for-education)） | 原属英国儿童、学校与家庭部（Department for Children, Schools and Families，DCSF），DCSF 于 2010 年改组为教育部（Department for Education，DfE） | 提供研究主题与证据资源。原网址已废弃，相关职能并入英国教育部 GOV.UK 体系
+
+以上七个机构构成了本教材第七版出版时（2011 年）循证教育制度基础设施的核心。此后二十余年间，该领域扩展至更多国家和机构类型，详见 [[Evidence-Based Education Institutions]]。
 
 "证据"在这里通常来自各种形式的[[Randomised Controlled Trials|随机对照试验]]（Tymms, 1999; Coe et al., 2000; Thomas & Pring, 2004: 95），强调谨慎抽样、[[Variable|变量]]控制（包括外部变量和纳入变量）和[[Effect Size|效应量]]测量。循证研究也来自质性研究的系统综述。这些证据积累起来，意在为政策和实践提供一个可靠的知识基础（Coe et al., 2000）。不过 Morrison（2001）指出，"什么有效"这一宣称本身就值得怀疑（pp. 335–336）。
 
@@ -288,7 +297,7 @@ Glass & Smith（1978）的[[Class Size|班级规模]]研究是元分析的经典
 
 > [!case] Glass & Smith · 班级规模与学习成就
 >
-> **研究范围与数据规模**
+> **[[Research Scope|研究范围]]与数据规模**
 > Glass & Smith（1978）和 Glass et al.（1981: 35–44）识别了 **77 项**关于[[Class Size|班级规模]]与学生学习的实证研究。这些研究产生了 **725 项**关于较小班级和较大班级成就的比较，数据累积来自近 **900,000 名**各年龄段和能力的学生，学习各学科（p. 357）。
 >
 > **分析方法** 使用回归分析，725 项比较被整合为一条显示班级规模与成就关系的单一曲线。该曲线揭示了班级规模与学生学习之间存在明确的**负相关**。
