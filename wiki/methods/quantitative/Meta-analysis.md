@@ -305,6 +305,12 @@ Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不�
 
 ---
 
+## 替代方案
+
+面对上述局限，Pawson（2006）提出了**实在论综合（Realist Synthesis）**作为替代路径。不同于元分析追求单一平均效应量，实在论综合基于因果理论追问干预"为什么有效、对谁有效、在什么条件下有效"，基于理论相关性而非纯技术标准选择源研究，输出形式为揭示效应变异性的分散图景（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 119, 123]]）。
+
+---
+
 ## 相关理论与方法
 
 > [!info] 相关理论
@@ -327,11 +333,5 @@ Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不�
 > - [[Argument_Wrigley_2019_ERE]] — 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
 > - [[Argument_Wrigley_2018_BERJ]] — 对元分析和元-元分析（Hattie / EEF Toolkit）的系统方法论批判
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 系统介绍元分析的四种操作模型（Glass 八步、Cook 四阶段、Fitz-Gibbon 四步、Gorard 四步）、[[Effect Size|效应量]]计算、[[Class Size|班级规模]]案例及多维度批判
-
----
-
-## 替代方案
-
-Pawson (2006) 提出**实在论综合（Realist Synthesis）**作为替代：研究综述应基于因果理论（干预"为什么有效、对谁有效、在什么条件下有效"），基于理论和相关性而非纯技术标准选择源研究，并以揭示效应变异性的分散图景（而非单一平均值）为输出形式（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 119, 123]]）。
 
 ---
