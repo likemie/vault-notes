@@ -235,7 +235,7 @@ updated: 2026-07-15
 
 ### 清算中心的最低效应阈值
 
-> [!ref-table] 清算中心的最低效应阈值
+> [!info] 清算中心的最低效应阈值
 > [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]]显示，部分[[Educational Evidence Clearinghouses|教育证据清算中心]]把最低效应量阈值直接写入项目评级规则：[[Promising Practices Network]] 的最高评级要求至少 0.25 个标准差的差异，[[Best Evidence Encyclopedia]] 要求至少 0.20 个标准差的影响。相比之下，[[What Works Clearinghouse]] 的最高项目效果判断要求统计显著正向效果，但不要求平均效果达到特定大小([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–15]])。这说明效应量不仅是研究报告中的统计指标，也会成为证据中介机构划定"推荐/有希望/不推荐"边界的制度阈值。
 
 ---
@@ -315,17 +315,17 @@ updated: 2026-07-15
 
 > [!claim] Slavin & Smith (2009)
 > 效应量与样本量的经验关系（引自 [[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 431]]）：
-
-| 样本量 | 平均效应量 |
-|---|---|
-| <50 | +0.44 |
-| 51–100 | +0.29 |
-| 101–150 | +0.22 |
-| 151–250 | +0.23 |
-| 251–400 | +0.15 |
-| 401–1,000 | +0.12 |
-| 1,001–2,000 | +0.20 |
-| 2,000+ | +0.09 |
+>
+> | 样本量 | 平均效应量 |
+> |---|---|
+> | <50 | +0.44 |
+> | 51–100 | +0.29 |
+> | 101–150 | +0.22 |
+> | 151–250 | +0.23 |
+> | 251–400 | +0.15 |
+> | 401–1,000 | +0.12 |
+> | 1,001–2,000 | +0.20 |
+> | 2,000+ | +0.09 |
 
 > Kulik & Fletcher（2016）在智能辅导系统综述中报告了类似模式：<80 人 +0.78，81–250 人 +0.53，>250 人 +0.30。两种理论解释：小规模研究更容易控制实施质量；小规模研究需要非常大的效应量才能达到统计显著，只有效应量足够大的小研究才被发表（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 431]]）。
 
@@ -376,6 +376,7 @@ updated: 2026-07-15
 > [!warning] 批判总览
 > 效应量在教育研究中的使用面临来自计算口径、聚合综合和政策解释三个层面的系统批判。不同公式产生不可比的排名、逐级聚合中标准误混淆和错误加权扭曲结果、平均值掩盖变异性——这些批评共同质疑了将效应量作为跨研究比较尺度和教育有效性排名的合法性。详细的批判论证见 [[Critique of Effect Size]]。
 
+---
 ## 应用案例
 
 > [!info] 如何读这些案例
@@ -383,17 +384,20 @@ updated: 2026-07-15
 
 ### 排名工具
 
-- [[EEF Teaching and Learning Toolkit]] — 以效应量转换的“额外学习月数”为核心排名格式([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.120-123]])。
-- [[Visible Learning]] — 以效应量排名为核心方法论的全球教育影响项目（Hattie, 2015, p.82）。
+> [!evidence-grid-a] 排名工具案例
+> - [[EEF Teaching and Learning Toolkit]] — 以效应量转换的”额外学习月数”为核心排名格式（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.120-123]]）
+> - [[Visible Learning]] — 以效应量排名为核心方法论的全球教育影响项目（Hattie, 2015, p.82）
 
 ### 政策误用与来源追踪
 
-- [[Playing for Success]] — [[Education Endowment Foundation|EEF]] 体育参与效应量 0.80 的来源案例，与普通“体育参与”几乎不可比([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.120-123]])。
-- [[Treasury Briefing on Student-Teacher Ratios]] — 政策行动者从效应量排名直接选取方案的典型案例([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.6-8]])。
+> [!evidence-grid-a] 政策误用案例
+> - [[Playing for Success]] — EEF 体育参与效应量 0.80 的来源案例，与普通”体育参与”几乎不可比（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.120-123]]）
+> - [[Treasury Briefing on Student-Teacher Ratios]] — 政策行动者从效应量排名直接选取方案的典型案例（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.6-8]]）
 
 ### 实践者解释
 
-- [[Argument_Ross_Morrison_2021_ROE]] — 集中说明效应量和[[Statistical Significance|统计显著性]]为什么必须与成本、实施、用户体验和地方语境一起解释([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
+> [!evidence-grid-a] 实践者解释案例
+> - [[Argument_Ross_Morrison_2021_ROE]] — 效应量和[[Statistical Significance|统计显著性]]必须与成本、实施、用户体验和地方语境一起解释（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]]）
 
 ---
 
