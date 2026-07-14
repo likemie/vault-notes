@@ -187,6 +187,11 @@ updated: 2026-07-13
 > - **用途** 推广经过严格科学检验的教育干预方案以提升教育系统的绩效，解决研究与实践脱节的问题。[[Argument_Slavin_2019_EP|Slavin, 2019, pp. 5–6]]
 > - **边界** 极易退化为追求"去情境化"的统计平均排行，在哲学上忽视受试者能动推理和教育价值反思。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 4, 7]]
 
+> [!boundary] 概念边界
+> - **不等于 [[Evidence-Informed Practice|证据知情实践]]（EIP）** EBE 将研究证据置于实践决策的核心；EIP 将证据定位为多种信息来源之一，由教师[[Professional Judgment|专业判断]]整合。
+> - **不适用于价值判断** EBE 回答"什么有效"（what works），不回答"什么是值得做的"（what is worth doing）——后者属于[[Value-Based Education|价值本位教育]]和[[Axiology|价值论]]的范畴。
+> - **不替代教师专业判断** 即使是最严格的 RCT 证据，其向具体课堂情境的迁移仍需要教师的专业判断作为中介。见 [[Critique of Evidence-Based Education]]。
+
 > [!info] 起源与基本理念
 > 证据本位教育（Evidence-Based Education, EBE）是将"专业实践应以最佳研究证据为基础或至少受其指导"这一理念应用于教育领域的实践和运动。它源自 1990 年代初期循证医学的发展（Guyatt et al., 1992），主张教育者的教学决策应从[[Experimental Research|实验研究]]——特别是[[Randomised Controlled Trials|随机对照试验]]（RCT）——中获取有效性依据，以回答"什么有效"（what works）的问题。
 
@@ -487,48 +492,51 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 
 ## 应用案例
 
-> [!example]
-> EBE 的理念在英国、美国、澳大利亚和新西兰等英语国家通过政策立法、制度建设、评估排名和草根运动等多种路径得到制度化实施，各国的采纳方式和制度载体各有不同。
+> [!info] 案例阅读指引
+> EBE 在英国、美国、澳大利亚和新西兰通过政策立法、制度建设、评估排名和草根运动等路径得到制度化实施。以下按国家分组，以一句话索引链接到对应 Fact 或 Argument 条目。
 
 ### 英国
 
-> [!case] 英国：[[Education Endowment Foundation|EEF]]、[[What Works Network]] 与草根运动并行的多层制度载体
-> 通过 EEF Toolkit、What Works Network 和 [[ResearchED]] 建立起 EBE 的制度基础设施；同时产生了 Fresh Start、TA 结构性不当等揭示方法论缺陷的标志性案例。
+> [!case] 英国：EEF、What Works Network 与草根运动
+> 通过 EEF Toolkit、What Works Network 和 [[ResearchED]] 建立起 EBE 的制度基础设施，同时产生了揭示方法论缺陷的标志性案例。
 
-- [[Hargreaves 1996 TTA Lecture]] — 英国 EBE 运动的政策起点([[Argument_Wiliam_2019|Wiliam, 2019]])
-- [[EEF Teaching and Learning Toolkit]] — EBE 最广为人知的政策输出，[[Meta-meta-analysis|元-元分析]]工具
-- [[What Works Network]] — 英国 EBE 的制度载体
-- [[ResearchED]] — 2013 年 Tom Bennett 创立的教师草根 [[Evidence-Informed Practice|EIP]] 运动
-- [[Playing for Success]] — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 揭示元-[[Meta-analysis|元分析]]程序缺陷的关键案例
-- [[Selective Schools Expansion Fund]] — [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] 揭示 EBE 在议会政策制定中被系统性回避的[[Case Study|案例研究]]
-- **Fresh Start 拼读干预案例（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]）**— EEF 资助的针对中一阅读困难学生的合成拼读项目。官方摘要宣称其[[Effect Size|效应量]]达 $+0.24SD$（等同于 3 个月额外进步），但深度技术拆解显示[[Random Assignment|随机化]]严重失衡，干预组[[Pre-test and Post-test|前测]]成绩远低于对照组；当研究者筛选出前测成绩完全一致的低分匹配学生子集进行比较时，两组的进步幅度及后测成绩完全相同（净效应量为 $+0.00SD$），所谓的有效性纯粹是糟糕随机化带来的数据偏误幻象。
-- **课堂教学助理（TA）结构性不当案例（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）**— EEF Toolkit 将 TA 排入低影响、高成本排行榜底部（效应量仅 $+0.08$），但 Blatchford 的实证研究表明，TA 的低效是因为学校未给他们预留与教师备课沟通的时间，且系统性地将低成就生推给 TA 授课，剥夺了他们接受合格教师教学的机会。Toolkit 的扁平排行过滤掉了这一结构性使用不当的具体情境。
+> [!evidence-grid-a] 英国案例索引
+> - [[Hargreaves 1996 TTA Lecture]] — 英国 EBE 运动的政策起点
+> - [[EEF Teaching and Learning Toolkit]] — EBE 最广为人知的政策输出工具
+> - [[What Works Network]] — 英国 EBE 的制度载体
+> - [[ResearchED]] — 2013 年 Tom Bennett 创立的教师草根运动
+> - [[Playing for Success]] — 揭示元-元分析程序缺陷的关键案例
+> - [[Selective Schools Expansion Fund]] — EBE 在议会政策制定中被系统性回避的案例
+> - **Fresh Start 拼读干预** 随机化严重失衡导致虚假有效性（效应量 $+0.00SD$）（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]）
+> - **课堂教学助理结构性不当** EEF Toolkit 的扁平排行掩盖了 TA 被系统性误用的情境（[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]]）
 
 ### 美国
 
-> [!case] 美国：联邦立法与 [[What Works Clearinghouse|WWC]] 主导的证据标准基础设施
-> 从 [[No Child Left Behind Act 2001|NCLB]] 到 ESSA，通过联邦立法和 What Works Clearinghouse 将 [[Randomised Controlled Trials|RCT]] 证据标准制度化；Tennessee STAR 和 [[Students and Teachers Accessing Tomorrow|STAT]] 等案例揭示了外推失败与证据解释争议。
+> [!case] 美国：联邦立法与 WWC 主导的证据标准
+> 从 NCLB 到 ESSA，通过联邦立法和 What Works Clearinghouse 将 RCT 证据标准制度化。
 
-- [[Tennessee STAR Project 1985-1989]] — [[Argument_Wiliam_2019|Wiliam (2019)]] 用作 [[Randomised Controlled Trials|RCT]] 外推失败的经典案例
-- [[California Class Size Reduction 1996]] — 揭示教师质量在大规模推广中的关键混淆作用
-- [[Comprehensive School Reform Program]] — 1998 年美国首次将联邦教育拨款与有效性证据直接挂钩
-- [[No Child Left Behind Act 2001]] — 将"科学本位研究"作为联邦教育项目核心标准
-- [[ESSA 2015 Evidence Standards]] — 以四级证据标准把 RCT、[[Quasi-Experimental Designs|QED]]、相关研究和基于原理的项目选择纳入联邦政策框架([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
-- [[Students and Teachers Accessing Tomorrow]] — 展示[[Technology Infusion|技术整合]]改革中，[[Formative Program Evaluation|形成性项目评价]]、成就结果和利益相关者价值排序如何共同影响证据解释([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121–123]])
-- [[What Works Clearinghouse]] — 美国 EBE 的制度基础设施([[Argument_Wiliam_2019|Wiliam, 2019]])
-- [[Educational Evidence Clearinghouses]] — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 比较 12 个教育清算中心，发现同一项目的 evidence-based 评级一致性有限，提示 EBE 认证基础设施本身存在[[Construct Validity|构念效度]]问题
+> [!evidence-grid-a] 美国案例索引
+> - [[Tennessee STAR Project 1985-1989]] — RCT 外推失败的经典案例
+> - [[California Class Size Reduction 1996]] — 教师质量在大规模推广中的关键混淆作用
+> - [[Comprehensive School Reform Program]] — 1998 年首次将联邦拨款与证据挂钩
+> - [[No Child Left Behind Act 2001]] — 将科学本位研究作为联邦教育项目核心标准
+> - [[ESSA 2015 Evidence Standards]] — 四级证据标准的联邦政策框架
+> - [[Students and Teachers Accessing Tomorrow]] — 技术整合改革中证据解释的多因素案例
+> - [[What Works Clearinghouse]] — 美国 EBE 的制度基础设施
+> - [[Educational Evidence Clearinghouses]] — 同一项目在不同清算中心的评级一致性有限
 
 ### 澳大利亚与新西兰
 
-> [!case] 澳大利亚与新西兰：[[Visible Learning|VL]]/EBE 的政策采纳与本地适应
-> 通过 Gonski 改革、Victorian [[Victorian HITS and Literacy Toolkit|HITS]]、NZ 课程将 Visible Learning 和 EBE 制度化；NZ Treasury 证据误用案例揭示了 EBE 证据被政策论述操弄的结构性脆弱点。
+> [!case] 澳大利亚与新西兰：Visible Learning 与 EBE 的政策采纳
+> 通过 Gonski 改革、Victorian HITS、NZ 课程将 Visible Learning 和 EBE 制度化。
 
-- [[The New Zealand Curriculum]] — 2010 年实施，ERO 定期评估，[[Visible Learning|VL]] 和 EBE 理念的制度化载体([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])
-- [[Australian Curriculum]] — 2012 年 ACARA 批准，三维度框架，系统性地以证据本位逻辑运作([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])
-- [[Gonski Reforms]] — 以个体进步替代年龄基准衡量成功学习，体现 EBE 的"什么有效"逻辑([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])
-- [[Victorian HITS and Literacy Toolkit]] — 以 VL 为首要参考的 10 项教学策略，EBE 在课堂层面的直接政策输出([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])
-- [[Tomorrow's Schools Reforms]] — NZ 从行政改革转向证据本位教学改革的转折背景([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]])
-- [[Treasury Briefing on Student-Teacher Ratios]] — [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 案例研究：EBE 证据在政策论述中被误用的典型范例
-- [[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019]] — 以 Benner 教学三角为框架系统记录 EBE/VL 在 NZ 和 AU 的政策采纳轨迹
+> [!evidence-grid-a] 澳新案例索引
+> - [[The New Zealand Curriculum]] — VL 和 EBE 理念的制度化载体
+> - [[Australian Curriculum]] — 三维度框架，系统性地以证据本位逻辑运作
+> - [[Gonski Reforms]] — 以个体进步替代年龄基准，体现 EBE 的"什么有效"逻辑
+> - [[Victorian HITS and Literacy Toolkit]] — EBE 在课堂层面的直接政策输出
+> - [[Tomorrow's Schools Reforms]] — NZ 行政改革转向证据本位教学的转折
+> - [[Treasury Briefing on Student-Teacher Ratios]] — EBE 证据在政策论述中被误用的典型范例
+> - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 系统记录 EBE/VL 在 NZ 和 AU 的政策采纳轨迹
 
 ---
