@@ -20,27 +20,29 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Sampling Error]]"
   - "[[Evidence-Based Education]]"
+  - "[[Analytic Framework]]"
   - "[[Sample Size Determination]]"
+  - "[[Forest Plot]]"
   - "[[Variable]]"
   - "[[Humility in Learning]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Ontology]]"
-  - "[[Forest Plot]]"
   - "[[Visible Learning]]"
+  - "[[Fitness for Purpose]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Fitness for Purpose]]"
   - "[[Interaction Effect]]"
-  - "[[Heterogeneity]]"
-  - "[[Intercoder Agreement]]"
   - "[[Statistical Significance]]"
-  - "[[Research Question]]"
   - "[[Hypothesis]]"
   - "[[Research Utilization]]"
   - "[[Class Size]]"
   - "[[Publication Bias]]"
+  - "[[Paradigm]]"
+  - "[[Heterogeneity]]"
+  - "[[Intercoder Agreement]]"
+  - "[[Research Question]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -49,12 +51,11 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Secondary Analysis]]"
-  - "[[Random Sampling]]"
   - "[[Analysis of Variance]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Systematic Review]]"
+  - "[[Random Sampling]]"
   - "[[Quantitative Research]]"
-  - "[[Experimental Research]]"
   - "[[Observation Method]]"
 related_persons:
   - "[[Gene Glass]]"
@@ -102,9 +103,9 @@ updated: 2026-07-14
 
 Glass（1976）和 Glass et al.（1981）区分了三个层次的分析（p.344）：
 
-> [!info] 三层分析框架
+> [!info] 三层[[Analytic Framework|分析框架]]
 > 1. **初级分析（Primary analysis）** 对原始数据的最初分析
-> 2. **次级分析（[[Secondary Analysis|Secondary analysis]]）** 使用不同统计量对数据的再分析，以回答新问题
+> 2. **次级分析（[[Secondary Analysis]]）** 使用不同统计量对数据的再分析，以回答新问题
 > 3. **元分析（Meta-analysis）** 对多项独立研究的结果进行统计分析以整合发现
 
 早期元分析使用组合概率和结果落入定义类别的频率（如在给定水平上是否显著），但[[Sample Size Determination|样本量]]差异混淆了严谨性：大样本可使微小效应显著，小样本的重要数据可能因未达显著性而被遗漏（Light & Smith, 1971; Glass et al., 1981; McGaw, 1997: 371）（pp.343–344）。
@@ -139,7 +140,7 @@ Glass（1976）和 Glass et al.（1981）区分了三个层次的分析（p.344�
 > [!critique] 叙事综述的九项缺陷
 > 1. **缺乏全面性** 具有选择性，只涉及部分研究
 > 2. **错误和粗略呈现** 对研究发现进行歪曲和粗糙的表述
-> 3. **过度依赖显著性检验** 忽视样本量对显著性水平的主要影响，也忽视效应量
+> 3. **过度依赖显著性检验** 忽视[[Sample Size Determination|样本量]]对显著性水平的主要影响，也忽视[[Effect Size|效应量]]
 > 4. **忽视[[Random Sampling|随机抽样]]误差** 未能认识到随机[[Sampling Error|抽样误差]]可以导致研究间发现的变化
 > 5. **忽视冲突发现** 忽略不同和相互矛盾的研究发现
 > 6. **未批判性审查先前综述** 未能审查先前综述的证据、方法和结论
@@ -183,16 +184,16 @@ Fitz-Gibbon（1985: 46）从实用角度列举了元分析的三项优势（p.34
 
 ### 详细操作模型
 
-四套操作模型共享一条核心逻辑——收集研究→编码特征→计算效应量→分析结果——但各模型的侧重点和精细程度不同（pp.343–357）：
+四套操作模型共享一条核心逻辑——收集研究→[[Coding in Qualitative Research|编码]]特征→计算效应量→分析结果——但各模型的侧重点和精细程度不同（pp.343–357）：
 
 > [!contrast-table] 四套元分析操作模型的异同
 > | 阶段 | Glass & Hunter (1981, 1982) · 八步 | Cook et al. (1992) · 四阶段 | Fitz-Gibbon (1984) · 四步 | Gorard (2001b) · 四步 |
 > |---|---|---|---|---|
-> | **收集研究** | 确定[[Variable]]→识别所有相关研究（步1–2） | 数据收集：抽样须展示[[Fitness for Purpose]]（阶段2） | 寻找可计算效应量的研究，含已发表和未发表（步1） | 收集所有适合纳入的研究（步1） |
-> | **编码特征** | 编码可能预测结果的[[Independent Variable]]和[[Dependent Variable]]（步3） | 数据检索与分析：关注效度威胁和[[Coding in Qualitative Research]][[Reliability]]（阶段3） | 编码日期、发表状态、设计特征和质量（步2） | —（合并至步2加权） |
-> | **计算效应量** | 计算每对变量的效应量，按样本量加权（步4） | 在数据检索中完成（阶段3） | 测量效应量为 z 分数，控制块状数据（步3） | 列出结果测量（步3） |
-> | **分析结果** | 计算均值/标准差→确定[[Sampling Error]]影响→审查相关特征（步5–8） | 分析与解释：累积发现为复杂数据点（阶段4） | 将效应量与情境变量关联，区分控制质量（步4） | 按数据性质选择聚合方法（步4） |
-> | **独特贡献** | 区分抽样误差归因 vs 实质变异（75%阈值） | 将元分析框架为完整研究过程，强调效度 | 将研究方法论质量作为调节变量检验 | 按研究规模和质素加权，最简洁 |
+> | **收集研究** | 确定[[Variable\|变量]]→识别所有相关研究（步1–2） | 数据收集：抽样须展示[[Fitness for Purpose\|目的适配性]]（阶段2） | 寻找可计算效应[[Quantitative Research\|量的研究]]，含已发表和未发表（步1） | 收集所有适合纳入的研究（步1） |
+> | **编码特征** | 编码可能预测结果的[[Independent Variable\|自变量]]和[[Dependent Variable\|因变量]]（步3） | 数据检索与分析：关注效度威胁和编码[[Reliability\|信度]]（阶段3） | 编码日期、发表状态、设计特征和质量（步2） | —（合并至步2加权） |
+> | **计算效应量** | 计算每对变量的效应量，按样本量加权（步4） | 在数据检索中完成（阶段3） | 测量效应量为标准化分数，控制块状数据（步3） | 列出结果测量（步3） |
+> | **分析结果** | 计算均值与标准差→确定[[Sampling Error\|抽样误差]]影响→审查相关特征（步5–8） | 分析与解释：累积发现为复杂数据点（阶段4） | 将效应量与情境变量关联，区分控制质量（步4） | 按数据性质选择聚合方法（步4） |
+> | **独特贡献** | 区分抽样误差归因与实质变异（75%阈值） | 将元[[Analytic Framework\|分析框架]]为完整研究过程，强调效度 | 将研究方法论质量作为调节变量检验 | 按研究规模和质素加权，最简洁 |
 
 其中最细致的是 Glass & Hunter 的八步法，完整展示了从变量确定到误差归因的全流程：
 
@@ -206,18 +207,18 @@ Fitz-Gibbon（1985: 46）从实用角度列举了元分析的三项优势（p.34
 > 7. **判断准确性** 若方差的大部分归因于步骤 6 的问题，平均效应量可被视为变量间关系的准确估计
 > 8. **审查相关特征** 若方差的大部分不可归因于步骤 6，则审查与效应量相关的特征
 
-四套模型的差异反映了不同的方法论关切：Glass 关注统计误差的归因与分解，Cook 关注元分析作为研究过程的整体效度，Fitz-Gibbon 关注研究方法论质量如何调节效应量，Gorard 关注操作的简洁性与研究权重的公正性。
+四套模型的差异反映了不同的方法论关切：Glass 关注统计误差的归因与分解，Cook 关注元分析作为研究过程的整体效度，Fitz-Gibbon 关注研究方法论质量如何[[Interaction Effect|调节效应]]量，Gorard 关注操作的简洁性与研究权重的公正性。
 
 ---
 
 ## 资料与分析
 
-效应量是元分析中优先于[[Statistical Significance|统计显著性]]的统计量，也是元分析的核心分析单位（pp.349–353）。
+[[Effect Size|效应量]]是元分析中优先于[[Statistical Significance|统计显著性]]的统计量，也是元分析的核心分析单位（pp.349–353）。
 
 > [!formula-step] Glass et al. (1981: 29, 102) 的效应量公式
 > $$\Delta = \frac{M_{\text{实验组}} - M_{\text{对照组}}}{SD_{\text{控制组}}}$$
 >
-> 其中 $M_{\text{实验组}}$ 为实验组均值，$M_{\text{对照组}}$ 为控制组均值，$SD_{\text{控制组}}$ 为控制组标准差。Wood（1995: 393）建议效应量也可通过将显著性水平除以样本量来计算。
+> 其中 $M_{\text{实验组}}$ 为实验组均值，$M_{\text{对照组}}$ 为控制组均值，$SD_{\text{控制组}}$ 为控制组标准差。Wood（1995: 393）建议效应量也可通过将显著性水平除以[[Sample Size Determination|样本量]]来计算。
 
 Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不同权重的替代公式。Lipsey（1992: 93–100）列出了处理效应量、效应量均值和同质性的系列统计检验。最常用的两种效应量指标是标准化均值差和相关系数（Glass et al., 1981: 373），非参数统计量（如中位数）也可使用。
 
@@ -278,7 +279,7 @@ Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不�
 
 ## 改进与替代方案
 
-面对元分析的多维度批判，学界提出了两个层面的回应：操作层面的程序改进（Wolf, 1986; Thomas & Pring, 2004），以及范式层面的替代路径（Pawson, 2006）。
+面对元分析的多维度批判，学界提出了两个层面的回应：操作层面的程序改进（Wolf, 1986; Thomas & Pring, 2004），以及[[Paradigm|范式]]层面的替代路径（Pawson, 2006）。
 
 ### Wolf (1986) 的十条程序改进建议
 
@@ -287,12 +288,12 @@ Wolf（1986: 55–56）聚焦于"如果要做元分析，怎样才能做得更�
 > [!proc] Wolf 的十条程序改进建议
 > 1. **明确纳入排除标准** 使研究的纳入和排除标准清晰
 > 2. **搜索未发表研究** 主动寻找未发表的研究
-> 3. **扩大编码范围** 制定涵盖最广泛已识别研究的编码类别
-> 4. **检查[[Interaction Effect|交互效应]]** 寻找[[Interaction Effect|交互效应]]，分别检查多个自变量和因变量
+> 3. **扩大[[Coding in Qualitative Research|编码]]范围** 制定涵盖最广泛已识别研究的编码类别
+> 4. **检查[[Interaction Effect|交互效应]]** 寻找[[Interaction Effect|交互效应]]，分别检查多个[[Independent Variable|自变量]]和[[Dependent Variable|因变量]]
 > 5. **检验[[Heterogeneity|异质性]]和异常值** 检验结果的[[Heterogeneity|异质性]]和异常值的影响，绘制结果分布图
 > 6. **检查[[Intercoder Agreement|编码者间信度]]** 检查[[Intercoder Agreement|编码者间信度]]
-> 7. **使用效应量指标** 使用效应量指标而非[[Statistical Significance|统计显著性]]
-> 8. **计算未调整和加权结果** 同时计算未调整（原始）和加权的检验与效应量，以检查样本量对结果的影响
+> 7. **使用[[Effect Size|效应量]]指标** 使用效应量指标而非[[Statistical Significance|统计显著性]]
+> 8. **计算未调整和加权结果** 同时计算未调整（原始）和加权的检验与效应量，以检查[[Sample Size Determination|样本量]]对结果的影响
 > 9. **结合定性与定量方法** 将定性和定量综述方法结合
 > 10. **报告局限性** 报告所进行元分析的局限性
 
