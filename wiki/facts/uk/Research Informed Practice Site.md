@@ -55,6 +55,12 @@ DCSF 于 2010 年改组为教育部（Department for Education，DfE），原网
 
 ---
 
+---
+
+## 影响与评价
+
+研究知情实践网站在 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]列举的循证教育制度基础设施中是唯一由政府部门直接运营、面向一线教师的平台。与 [[EPPI-Centre]] 面向研究者、[[Education Endowment Foundation|EEF]] 面向资助决策不同，该网站的定位是降低教师获取研究证据的门槛。其随 DCSF 改组而消失的轨迹，也反映了英国教育行政体制频繁重组对证据基础设施稳定性的影响。
+
 ## 相关条目
 
 > [!ref-table] 关联索引

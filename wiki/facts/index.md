@@ -272,7 +272,7 @@ Total entries: **279**
 > - [[Baby PISA]] — OECD 发起的国际早期学习和儿童福祉研究，旨在以 PISA 评估 15 岁学生的方式评估 5 岁儿童，是 PISA 企业向学前教育扩张的标志
 > - [[Education at a Glance]] — OECD 年度旗舰出版物，以 30 项国际教育指标描述各国教育系统，涵盖产出、投入、参与、环境四大维度
 > - [[Education City Doha]] — 卡塔尔首都多哈的多大学海外分校集中园区：康奈尔医学院、乔治城、卡内基梅隆等，标志大学全球化的新阶段
-> - [[Evidence-Based Education Institutions]] — 全球循证教育运动的制度基础设施汇总，涵盖证据清算中心、研究综合中心、政策推动机构和教师草根网络，按地区分类
+> - [[Evidence-Based Education Institutions]] — 全球循证教育运动的制度基础设施汇总，涵盖证据清算中心、研究综合中心、政策推动机构和教师草根网络，按类型分类
 > - [[INES Lugano General Assembly 1991]] — INES 第二届全体大会，科学家-政策制定者权力关系的分水岭：政策制定者强行将学生成绩数据纳入 EAG
 > - [[International Baccalaureate]] — 覆盖 3–19 岁的国际课程体系（PYP/MYP/DP），709K 学生 2,609 学校 135 国(2009)；六学科组+TOK+EE+CAS；主张意识形态中立但被质疑西方根源
 > - [[International Indicators of Education Systems]] — 1988 年 OECD 启动的国际教育指标开发项目，EAG 的前身和生产者
