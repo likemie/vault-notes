@@ -218,22 +218,14 @@ updated: 2026-07-13
 > | 维度 | 证据本位教育 (EBE) | [[Evidence-Informed Practice\|证据知情实践]] (EIP) | [[Value-Based Education\|价值本位教育]] (Value-Based) | 循证医学 (EBM) | [[Local Knowledge in Evidence-Based Policy\|地方知识]] (Local Knowledge) |
 > |------|--------|----------------|----------------|----------------|----------------|
 > | **分析对象** | 经严格实验评估（[[Randomised Controlled Trials\|RCT]]）的干预效果 | 多源证据的整合与实践应用过程 | 教育的根本目的与"什么是值得做的" | 临床诊断、治疗技术与病患个案的结合 | 特定时间和地点环境的独特经验与上下文 |
-> | **核心机制** | 强调以 RCT/[[Systematic Review\|系统综述]]的统计平均值作为实践决策的核心依据 | 视证据为重要信息来源，需通过[[Professional Judgment\|专业判断]]与情境调适结合 | 民主协商、伦理反思与[[Axiology\|价值论]]争 | 结合基础科学理论，通过实验确认药效 | 本地试点、同伴推荐、师生反馈与非正式探索 |
+> | **核心机制** | 以 RCT/[[Systematic Review\|系统综述]]的统计平均值作为实践决策核心依据 | 视证据为重要信息来源，需通过[[Professional Judgment\|专业判断]]与情境调适结合 | 民主协商、伦理反思与[[Axiology\|价值论]]争 | 结合基础科学理论，通过实验确认药效 | 本地试点、同伴推荐、师生反馈与非正式探索 |
 > | **适用范围** | 标准化项目推广、系统清算、政策合规评估 | 教师日常教学改进、学校探究网络、课堂设计 | 教育目的论证、课程大纲与政治抉择 | 具备生理机制一致性的病患护理与药物开发 | 复杂的课堂交互、偶发性教育情境的应对 |
 
 > [!info] 邻近概念辨析
-> EBE 与多个教育概念和研究传统存在交叉与张力，这些差异体现在对证据的定义、对[[Professional Judgment|专业判断]]的角色定位和对教育目的的理解上：
-> 
-> - **vs [[Value-Based Education]]** — [[Argument_Biesta_2010_SPE|Biesta (2010)]] 论证：证据本位教育将"什么有效"置于首位；价值本位教育将"什么是值得做的"置于首位
-> - **vs 循证医学（Evidence-Based Medicine, EBM）** 循证医学是 EBE 的起点与最强类比。但 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 借用 Trish Greenhalgh (2014, 2015) 提出的"真实医学循证（Real EBM）"原则进行了有力反驳：真实的循证医学绝非机械照搬统计数据库，而是高度强调"为病患提供个性化的伦理关怀"、"利用专家临床经验进行诊断"、"结合病患意愿与偏好"等原则。相比之下，教育学 EBE 往往把医学简化为单一的药效 RCT 实验，抹杀了医生和教师都需要的专业临床判断力（Clinical Judgment）。此外，医学在实施 RCT 前通常已积累了丰富的生理学和药理学因果机制理论，而教育 RCT 往往是跳过因果机制的"黑箱测量"[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 6, 11)]]。
-> - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中常被忽视但不可或缺的互补性知识来源；[[Argument_Wiliam_2019|Wiliam (2019, pp.12–13)]] 以 Hayek (1945) 的[[Theory of Knowledge|知识理论]]为此提供政治经济学基础
-> - **vs [[Evidence-Informed Practice]]** — EBE 使研究证据成为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 Nelson & Campbell (2017) 系统阐述
-> - **vs [[Effect Size]]** — 效应量是 EBE 方法论的核心分析单位；Simpson 论证其测量试验灵敏度而非有效性；[[Argument_Wiliam_2019|Wiliam (2019, p.11)]] 明确断言"[[Meta-meta-analysis|元-元分析]]在教育政策制定中绝对没有任何角色"
-> - **vs [[Dynamic Knowledge and Learning Model]]** — EBE 常回答"有没有效"；动态模型进一步追问"对哪一类知识有效"，用于细化 EBE 的结果解释层
-> - **vs [[Validity as Inferences]]** — [[Argument_Wiliam_2019|Wiliam (2019, pp.9–10)]] 将 Cronbach/Messick 的效度理论应用于教育研究方法论：效度是推论的属性，意味着 EBE 的"什么有效"知识永远是临时且局部的
-> - **vs [[Professional Judgment]]** — EBE 强版本将证据作为实践决策核心；[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 论证教师需要专业判断来整合证据与情境，而非被证据驱动
-> - **vs [[Epistemic Governance|知识治理]]（Epistemic Governance）** — EBE 主要在国家政策层面讨论"决策是否依据科学证据"这一工具性问题；知识治理是一个更广泛的生成性概念，关注"知识如何在去中心化的全球治理架构中产生治理效应"。[[Argument_Zapp_2022_Springer|Zapp (2022)]] 将 EBE 所体现的"[[Scientization of Politics|政策的科学化]]"定位为知识治理兴起的一个关键维度([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.145–146]])
-> - **vs [[Side Effects]]** — [[Argument_Zhao_2017_JEC|Zhao (2017)]] 论证 EBE 从医学借鉴了 [[Randomised Controlled Trials|RCT]] 却忽略了对副作用的系统性研究；效果与副作用是同一干预不可分离的双重结果
+> - **vs [[Evidence-Informed Practice]]** — 这是与 EBE 最紧密的邻近概念。EBE 将研究证据作为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 Nelson & Campbell (2017) 系统阐述。
+> - **vs 循证医学（Evidence-Based Medicine, EBM）** — 循证医学是 EBE 的直接起源与最强类比。但 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 指出，真实的循证医学高度强调个性化伦理关怀、专家临床经验和病患意愿，而教育学 EBE 常将医学简化为单一的药效 RCT 实验，抹杀了专业判断力。此外，医学 RCT 建立在丰富的因果机制理论之上，教育 RCT 往往是跳过机制的"黑箱测量"。
+> - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中被忽视但不可或缺的互补性知识来源。
+> - **vs [[Side Effects]]** — [[Argument_Zhao_2017_JEC|Zhao (2017)]] 论证 EBE 从医学借鉴了 RCT 却忽略了对副作用的系统性研究，效果与副作用是同一干预不可分离的双重结果。
 
 
 ---
@@ -374,6 +366,11 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > [!note]-
 > EBE 从 1990 年代的循证医学类比出发，经历了英美制度化建设、批判性文献兴起和中国作为[[Evidence-Based Reform|证据本位改革]]新兴力量的崛起，至今仍在方法论与哲学层面持续激辩。
 
+### PISA 作为循证政策制定的全球推动力
+
+> [!note]
+> [[Argument_Li_2025_HSSC|Li et al. (2025)]]在对 85 篇实证研究的[[Systematic Review|系统综述]]中指出，[[PISA]] 通过其数据驱动的比较分析和循证研究范式，在全球范围内推动了循证教育政策的制度化。德国在 PISA 冲击后将循证政策制定纳入教育治理新模式（Yore et al., 2010）；日本在 PISA 影响下建立了学校管理的"证据—改进循环"（Ninomiya, 2019）；约旦同样受到 PISA 循证范式的推动。PISA 使"以数据为基础的政策制定"成为全球教育改革的核心话语之一。
+
 ### 起源：从循证医学到教育政策信号（1992–1996）
 
 > [!phase] 1992–1996 · 奠基期
@@ -427,14 +424,26 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - **2019** — Slavin 从支持者立场总结三项进展（项目存量增长、ESSA 证据标准制度化、国际扩散）
 > - **2021** — Slavin, Cheung & Zhuang 在 *ECNU Review of Education* 发表首个中美英证据本位教育改革国际比较，系统记录中国教育实证研究的快速增长、制度化建设以及中国学者对证据本位研究范式的五类内部质疑([[Argument_Slavin_2021_ROE|Slavin et al., 2021]])
 
-### PISA 作为循证政策制定的全球推动力
+### 批判性文献的兴起与演进（2004–2019）
 
-> [!note]
-> [[Argument_Li_2025_HSSC|Li et al. (2025)]]在对 85 篇实证研究的[[Systematic Review|系统综述]]中指出，[[PISA]] 通过其数据驱动的比较分析和循证研究范式，在全球范围内推动了循证教育政策的制度化。德国在 PISA 冲击后将循证政策制定纳入教育治理新模式（Yore et al., 2010）；日本在 PISA 影响下建立了学校管理的"证据—改进循环"（Ninomiya, 2019）；约旦同样受到 PISA 循证范式的推动。PISA 使"以数据为基础的政策制定"成为全球教育改革的核心话语之一。
+> [!phase] 2004–2019 · 批判性反思期
+> Biesta、Wiliam、Wrigley、Cowen 等从哲学、方法论、制度和[[Epistemology|认识论]]多维系统解构 EBE，推动范式整合走向"证据知情"。
 
+> [!timeline] 关键事件
+> - **2004–2010** — 批判性文献兴起：Hammersley (2005)、Holmes et al. (2006)、Smeyers & Depaepe (2006)
+> - **2007** — Biesta 在 *Educational Theory* 发表 "Why 'what works' Won't Work"，提出"民主缺陷"概念
+> - **2010** — Biesta 正式提出**三重缺陷**的完整框架（知识缺陷、效力缺陷、应用缺陷）（详见 [[Argument_Biesta_2010_SPE|Biesta, 2010]]）
+> - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究 EBP 的实施困境（详见 [[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]）
+> - **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
+> - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），并识别 agency 作为核心哲学分歧([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])
+> - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的
+> - **2019** — Qvortrup 在 NordSTEP 发表 [[Visible Learning|VL]] 辩护讨论论文，提出"观察透镜"[[Epistemology|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]）
 
-> [!info] 批判性文献演进
-> 2004–2019 年间批判性文献的兴起与演进的详细时间线已移至 [[Critique of Evidence-Based Education]]。
+---
+
+---
+
+---
 
 ## 争议与批评
 
@@ -443,57 +452,20 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 >
 > 详尽的多维度批判论证、学者立场与回应见 [[Critique of Evidence-Based Education]]。
 
+---
 
 ## EBE 的改革与替代方案
 
-### Peterson 的"什么有效 2.0"改革提案
+> [!tension] 改革与替代的两种路径
+> - **内部改革（Peterson 的"什么有效 2.0"）** 接受 RCT 作为教育研究组成部分，但主张用[[Mechanism Experiments|机制实验]]替代黑箱 RCT，将[[Improvement Science|改进网络]]作为实施基础设施，产出细粒度因果机制而非粗粒度项目有效性判断（[[Argument_Peterson_2016_IJRME|Peterson, 2016]]）。
+> - **范式替代（从 EBE 到 EIP）** 将证据从决策核心降为信息来源之一，把能动性从政策端重新分配给教师和学习者。方向从"什么有效"转向"什么对谁有效、通过什么方式、在什么情境下"（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]]）。
 
-> [!info] Peterson (2016) 改革路径
-> 不同于 Biesta（放弃 EBE）和 Wrigley（揭露方法论缺陷），Peterson 接受 [[Randomised Controlled Trials|RCT]] 将继续是教育研究的主要组成部分，但主张从根本上改革其**设计方式**和**制度基础设施**。
+> [!implication] 整合方向
+> 以实在论因果命题为出发点，运用[[Mixed Methods Research|混合方法]]进行[[Multimethod Research|多方法]]跨情境验证，教师的[[Professional Judgment|专业判断]]从证据的被动接受者上升为共同生产者（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]；[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]]）。
 
-> [!warning] 诊断：黑箱 RCT 的四重局限（[[Argument_Peterson_2016_IJRME|Peterson, 2016, pp. 300–302]]）
-> 1. *与教师主导干预不匹配*：黑箱 RCT 将教师视为项目交付管道而非[[Professional Judgment|专业判断]]者，引导资金流向更程序化、更少教师主导的干预（Howe, 2004, p. 45）。
-> 2. *实施薄弱与规模扩展失败*：美国超 90% 教育有效性试验未显示影响（C4E, 2013），关键在于干预移出初始情境时的不完整实施。
-> 3. *低采纳率*：单纯使研究更易获得并不能解决采纳问题，如果证据不够清晰或强到能回应实践者的问题。
-> 4. *仅适用于二选一决策*：Cartwright & Hardie (2012) 指出 RCT 证据仅适用于评估是否采用项目 X，但教育情境中因素的相互依赖使单一二选一决策极少可行。
-
-> [!pathways] 处方：双组件整合
-> 1. *[[Mechanism Experiments|机制实验]]*：将 RCT 设计焦点从评估完整项目转为测试可迁移的教育变革机制——通过"鼓励设计"（Imai, Tingley & Yamamoto, 2013）隔离特定机制的独立因果贡献，产出更细粒度、更可迁移的知识。
-> 2. *改进网络融入*（[[Improvement Science|改进科学]]、[[Spirals of Inquiry|探究螺旋]]）：将[[Snowball Sampling|网络化]]改进社区（Bryk et al., 2015）和探究螺旋（Timperley, Halbert & Kaser, 2014）作为补充——改进网络通过反馈循环提高实施质量，参与持续探究的教师更可能发现和融入新证据。
-> 3. *共享"构建块"作为整合媒介*：机制实验产生因果估计 → 作为"构建块"指导改进网络中的教师探究 → 网络实践洞见反馈回机制[[Hypothesis|假设]]进入新实验测试；同时开发教育变革机制分类学（类比行为改变技术分类学 BCT Taxonomy, Michie et al., 2013）。
-
-> [!implication] Peterson 的改革立场
-> 在接受 RCT 方法的前提下主张从内部改革其设计和制度基础，而非仅从外部批判。这补充了 EBE 批判的改革建设维度。
-
-### Agency 作为核心哲学分歧
-
-> [!info] 能动性分配
-> 识别了"什么有效"辩论中一个此前未被充分阐明的根本维度——**能动性（agency）的分配**
-
-> [!line-a] 正统立场：教师-proof 执行管道
-> 假定所有能动性在政策和干预项目手中，追求"teacher-proof"方案，要求绝对忠实执行以排除教师个人变异。
-
-> [!line-b] 替代整合立场：教师与本地因素的能动性
-> 将能动性分配给教师和本地因素，承认教师的情感、热情和自主调适是干预成功的前提，允许教师作为中介根据情境微调项目（Hanley et al., 2016; [[Argument_Peterson_2016_IJRME|Peterson, 2016]]）。
-
-> [!implication] 核心盲点：学习者的能动性
-> Pampaka et al. 指出，两种立场都系统性忽略了"学习者同样是具有能动性的主体"这一核心事实。为了捕捉复杂的教与学关系，评估中除了学业成就指标外，必须测量学生对该学科的**态度、倾向（dispositions）和学业抱负（aspirations）**等非智力维度的替代性学习结果（Williams & Ryan, 2013; Pampaka et al., 2013）。
-
-### 从"什么有效"到"什么曾经有效，在哪里，如何，对谁"
-
-> [!implication] 实践知识需要超越政策便利
-> [[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016, pp. 234–235)]] 总结指出，实践需要的知识基础远比政策制定要宽阔和复杂得多。政策因为需要行政便利而倾向于寻求"简单性"（即单一排行榜和标准化干预）；但实践需要解答的是"为什么有效"、"在什么情境下有效"。Hanley et al. (2016, p. 296) 对此提出了极具代表性的呼吁：
-
-> "也许，'什么有效'（what works）议程的迟钝性（bluntness）是时候演化为进一步确定'什么对谁有效（what works for whom）、通过什么方式、在什么情境下'。" (cited in [[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p. 234]])
-
-> [!implication] [[Paradigm|范式]]整合的方向
-> 这一共识取向与 [[Evidence-Informed Practice|EIP]] 促进多源证据融合的主张([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]])，以及 Wiliam (2019) 指出的"在什么条件下这个干预有效"的追问高度契合，标志着批判性循证研究正走向实证层面的范式整合。
-
+---
 
 ## 应用案例
-
-> [!info] 案例阅读指引
-> EBE 在英国、美国、澳大利亚和新西兰通过政策立法、制度建设、评估排名和草根运动等路径得到制度化实施。以下按国家分组，以一句话索引链接到对应 Fact 或 Argument 条目。
 
 ### 英国
 

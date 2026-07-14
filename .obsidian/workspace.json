@@ -193,8 +193,9 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
-    "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md",
+    "wiki/facts/uk/ResearchED.md",
     "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
+    "wiki/arguments/journal-articles/Review of Education/Argument_Bainbridge_2022_ROE.md",
     "wiki/templates/template-concept.md",
     "wiki/concepts/educational-policy-reform/Critique of Evidence-Based Education.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md",
@@ -222,7 +223,6 @@
     "raw/cole2005.pdf",
     "wiki/methods/mixed/Design-Based Research.md",
     "wiki/methods/quantitative/Causal Modeling.md",
-    "wiki/concepts/research-methodology/Pre-test and Post-test.md",
     "scripts/__pycache__/wiki_linker.cpython-310.pyc",
     "scratch/fix_readability.py",
     "scratch/fix_style_numbers.py",
