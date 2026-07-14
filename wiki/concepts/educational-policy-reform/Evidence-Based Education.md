@@ -195,17 +195,8 @@ updated: 2026-07-13
 > [!info] 起源与基本理念
 > 证据本位教育（Evidence-Based Education, EBE）是将"专业实践应以最佳研究证据为基础或至少受其指导"这一理念应用于教育领域的实践和运动。它源自 1990 年代初期循证医学的发展（Guyatt et al., 1992），主张教育者的教学决策应从[[Experimental Research|实验研究]]——特别是[[Randomised Controlled Trials|随机对照试验]]（RCT）——中获取有效性依据，以回答"什么有效"（what works）的问题。
 
-> [!citation-card]- [[Argument_Biesta_2010_SPE|Biesta (2010, p. 491)]]
-> "The idea that professional practices such as education should be based upon or at least be informed by evidence continues to capture the imagination of many politicians, policy makers, practitioners and researchers."
-
-> [!citation-card]- [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]]
-> 证据本位教育政策是"依赖[[Random Assignment|随机化]]和严格匹配实验作为政策和实践的基础"——将可复制的教育项目和有前景的实践置于严格评估之下，仅推广那些被证明有效的。
-
 > [!implication] [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — "什么有效"是错误的问题
 > "在教育研究中，'什么有效'通常是错误的问题，因为几乎任何事情在某个地方都有效，但没有事情在所有地方都有效。更好的问题是'在什么条件下这个干预有效？'"([[Argument_Wiliam_2019|Wiliam, 2019, p.11]])
-
-> [!citation-card]- Coldwell et al. (2017) — 英国官方定义
-> 英国教育部明确将 Sutton Trust、[[Education Endowment Foundation|EEF]] 和 [[John Hattie]] 列为"approved"证据来源，同时排除了 [[Ofsted]] 报告和议会内部报告，强调创新必须是"被[[Disciplina and Doctrina|规训]]的"（disciplined）——建立在"什么有效以及为什么"的已有知识之上([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
 
 > [!quote] Wrigley 对证据窄化的批评
 > Terry Wrigley 指出，证据本位运动在行政政策中通过统计手段强行剥离复杂的课堂背景，将"证据"高度窄化为数值平均值。这种去情境化的倾向不仅使得关于教育价值和目的的讨论被压制，同时也消解了教师的专业自主判断。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 4, 16)]]
@@ -227,13 +218,16 @@ updated: 2026-07-13
 > - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中被忽视但不可或缺的互补性知识来源。
 > - **vs [[Side Effects]]** — [[Argument_Zhao_2017_JEC|Zhao (2017)]] 论证 EBE 从医学借鉴了 RCT 却忽略了对副作用的系统性研究，效果与副作用是同一干预不可分离的双重结果。
 
-
 ---
 
 ## 核心要素
 
-> [!info] 核心要素总览
-> EBE 的理论与实践结构由基本主张与隐含假设、证据到政策与实践的转化模型构成。改革方案见 [[#EBE 的改革与替代方案]]，方法论批评见 [[Critique of Evidence-Based Education]]。
+> [!feature] EBE 的核心构成要素
+> - **基本主张与假设** EBE 的四个核心主张（证据驱动决策、RCT 优先、医学模式模拟、研究评估层级区分）以及支撑它们的休谟因果观、机械干预假设和科学应用假设。
+> - **Fitz-Gibbon 的三个必要性论证** 挑战未经证实的实践、避免有害程序、创造改进——构成了 EBE 的实践正当性论证。
+> - **强版本与弱版本** 强版本（evidence-based）以 RCT 证据为核心依据，弱版本（evidence-informed）将证据定位为多种信息来源之一。
+> - **证据到政策与实践的转化模型** 政策转译的三种轨迹、研究资助的动力循环，以及证据进入课堂的四步转译链。
+
 
 ### EBE 的基本主张与假设
 
@@ -259,13 +253,16 @@ updated: 2026-07-13
    > [!info] 政策筛选的门槛
    > 这是 [[Argument_Slavin_2002_ER|Slavin (2002, pp. 18–19)]] 提出的关键概念区分：[[No Child Left Behind Act 2001|NCLB]] 法案中出现的"基于科学本位研究"是一个不足的标准——任何项目都能找到支持其原则的某些零散研究。Slavin 论证真正需要的是项目**本身**已经过严格实验评估并被证明有效。这一区分直接影响了后续 ESSA (2015) 的证据标准设计。
 
-> [!claim] 命题一：随机对照试验（RCT）等严格实验研究，是确立教育"什么有效"的黄金标准。
+---
+
+> [!claim] 核心方法论主张：RCT 是确立教育"什么有效"的黄金标准
 > 教育实践决策必须依赖于通过随机分配与控制[[Variable|变量]]确立的实验证据，以排除外部偏误，证明干预项目的可复制效果。[[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]]; [[Argument_Slavin_2019_EP|Slavin (2019, pp. 5–6)]].
 
-> [!warrant]- 命题一的支撑理由
+> [!warrant]- 支撑理由与反驳
 > 随机对照试验通过随机化将未测量的混淆变量均匀分配在干预组与对照组中，是目前社会科学确立因果推断[[Internal Validity|内部效度]]最强大的工具，能防止因"相关性不等于因果性"导致的无效改革。[[Argument_Slavin_2002_ER|Slavin (2002, pp. 15–16)]].
 > - *反驳观点*：教育是分层的开放系统。RCT 缺乏双盲和安慰剂机制，[[Pre-test and Post-test|前测]]失衡屡见不鲜；最关键的是，它将教师能动性这一产生效果的"必要机制"强行视为需要被控制的"污染源"，形成了逻辑悖论。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 5–6)]]; [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]].
 
+---
 #### Fitz-Gibbon 的三个必要性论证（1997）
 
 在 EBE 的早期制度化过程中，Carol Fitz-Gibbon（1997: 35–36）提出了循证方法的三个必要性论证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.338–339]]）：
@@ -279,30 +276,27 @@ updated: 2026-07-13
 
 Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定者在制定政策时经常回避证据，实践者在日常忙碌中依赖默会知识而非来自 RCT 的知识。她进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]——这一主张直接推动了效应量在元分析中的核心地位，也构成了 EBE 方法论讨论的关键转折（pp.339–340）。
 
-
+---
 #### 隐含假设
 
 证据本位教育的合法性建立在一组深层理论假设之上，这些假设在哲学上遭到了系统的解构：
 
-| 核心假设 | 对应领域 | 批判者与批判内容 |
-|---|---|---|
-| **休谟因果观** 因果关系等于观察到的经验恒常规则性（若 X 则 Y） | 存在论（Ontology） | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 借助[[Critical Realism\|批判实在论]]指出，教育是"开放系统"而非实验室封闭系统，因果取决于事物本质与环境交互，均值无法反映真实的因果机制 |
-| **机械干预假设** 干预措施如同药物注射，其效果与受试者的能动反思无关 | 实践论（Praxiology） | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] 与 Pawson (2006) 论证，教育项目提供的是资源，其起作用的关键在于受试者的"推理（Reasoning）"与主动能动性 |
-| **科学应用假设** 研究证据从"在某处有效"到"在这里有效"是线性的 | [[Epistemology\|认识论]]（Epistemology） | Cartwright & Hardie (2012) 提出[[Cartwright's Three-Stage Knowledge Framework\|三阶段知识框架]]，指出外推需要"支撑因素"和"本地情境规则"的配合，而非直接套用 |
+> [!ref-table] EBE 的三项深层假设及其哲学批判
+> | 核心假设 | 对应领域 | 批判者与批判内容 |
+> |---|---|---|
+> | **休谟因果观** 因果关系等于观察到的经验恒常规则性（若 X 则 Y） | 存在论（Ontology） | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 借助[[Critical Realism\|批判实在论]]指出，教育是"开放系统"而非实验室封闭系统，因果取决于事物本质与环境交互，均值无法反映真实的因果机制 |
+> | **机械干预假设** 干预措施如同药物注射，其效果与受试者的能动反思无关 | 实践论（Praxiology） | [[Argument_Biesta_2010_SPE\|Biesta (2010)]] 与 Pawson (2006) 论证，教育项目提供的是资源，其起作用的关键在于受试者的"推理（Reasoning）"与主动能动性 |
+> | **科学应用假设** 研究证据从"在某处有效"到"在这里有效"是线性的 | [[Epistemology\|认识论]]（Epistemology） | Cartwright & Hardie (2012) 提出[[Cartwright's Three-Stage Knowledge Framework\|三阶段知识框架]]，指出外推需要"支撑因素"和"本地情境规则"的配合，而非直接套用 |
 
 > [!warning] 教师质量作为 RCT 的结构性混淆因素
 > [[Argument_Wiliam_2019|Wiliam (2019, pp. 7–8)]] 从教师质量的未测量变异这一角度补充了效力缺陷的具体例证：[[Tracking|能力分组]]研究即使设计良好，如果未测量和未控制教师质量的变异（一标准差教师质量差异对应 0.15 SD 学生成就差异，Hanushek & Rivkin, 2010），观察到的"能力分组效应"可能实际上是"教师分配效应"。
 
+---
 #### 强版本 vs. 弱版本
 
-> [!line-a] 强版本（evidence-based）
-> 专业人士只应被允许做有正面研究证据支持的事——以 RCT 证据作为实践决策的核心或唯一依据。
-
-> [!line-b] 弱版本（evidence-informed）
-> 证据作为信息之一，与[[Professional Judgment|专业判断]]、情境理解等并列——教育者运用专业判断来整合证据，而非被证据驱动。
-
-> [!info] 实证问题转化
-> [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, pp. 128–129)]] 明确站在 [[Evidence-Informed Practice|EIP]] 一侧。[[Argument_Wiliam_2019|Wiliam (2019, p. 2)]] 将教师是"技术人员还是专业人员"的问题定位为实证问题：如果让教师遵循专业判断而不关注研究证据，学生成就是否提高？研究证据（无论来自 RCT、[[Systematic Review|系统综述]]还是其他研究）能否帮助改善学生成果？
+> [!tension] 证据本位（evidence-based）vs. 证据知情（evidence-informed）
+> - **强版本：以 RCT 证据为核心依据** 专业人士只应被允许做有正面研究证据支持的事，RCT 证据作为实践决策的核心或唯一依据。
+> - **弱版本：证据作为信息之一** 证据与[[Professional Judgment|专业判断]]、情境理解并列，教育者运用专业判断来整合证据，而非被证据驱动。[[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 明确站在 EIP 一侧；[[Argument_Wiliam_2019|Wiliam (2019)]] 将"教师是技术人员还是专业人员"定位为可检验的实证问题。
 
 ---
 
@@ -316,8 +310,8 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - **多流模型（Multiple Streams Model）** 政策决策受证据、经济因素和公众舆论三股力量（问题流、政策流和政治流）的同时影响，证据只是其中一股力量。
 > - **混战模型（Melee Model）** 科学证据、政治选票、经济成本和社会价值四种类型在决策过程中流动交互，政策结果是多方力量混战、权力妥协与话语斗争的产物。
 
-> [!info] 混战模型与制度障碍
-> Bainbridge et al. 认为混战模型最接近教育研究的情境，但这四个竞争因素被嵌入并受既有的新自由主义审计文化话语影响（Ball, 2016）。[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] 的研究结论是：研究对教育政策的影响仍然有限。多项研究识别了制度障碍：Ion & Lucu (2015) 强调需要使研究更可见和可转移；Newman et al. (2016) 指出若更明确政策决策应同时基于工具/技术假设和符号/价值假设，研究-政策关系将得到改善；Eurydice (2017) 强调需要"知识经纪人"促进学术界与政策制定者之间的信息流通。政治人物通常需要可在选前向公众清晰呈现的简单方案并希望看到短期效果，而学术研究的时间框架通常更长。近年来商业智库（think-tanks）的快速增长也与"证据本位政策"的兴起相关——智库研究可以更快产出且更符合政府既有观点，Harvey (2005) 指出这与新自由主义将高等教育研究定位为与政府意识形态冲突有关([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, pp. 8–9]])。
+> [!info] 转化过程的制度障碍
+> 多项研究识别了证据到政策转化中的系统性障碍：研究对政策的影响仍然有限（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021]]）；商业智库的快速增长与 EBE 兴起相伴——智库可以更快产出且更符合政府既有观点（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]）。
 
 #### 研究资助的动力循环：上升与下降螺旋
 
@@ -335,27 +329,14 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > 3. **识别真正的瓶颈在"转译"而不在"知道"** 学校常见问题不是没有研究，而是研究没有被翻译成教师日常行动，能力建设、课堂观察和共同反思是关键中介机制。
 > 4. **把失败改革重新诊断为知识与能力问题** 单纯依赖[[New Public Management|新公共管理]]式问责和竞争只会将问题误诊为"动力不足"，[[No Child Left Behind Act 2001|NCLB]] 正是这类误诊的反面案例([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p. 65]])。
 
-> [!note]-
-> 一个学校如果只是收到"成绩必须提高"的行政要求，它得到的是压力；如果它同时得到可讨论的研究知识、课堂观察安排、教师协作时间和数据回看机制，它才真正得到把证据转成行动的条件([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp. 65–67]])。
+#### 实践转化的前提条件与评估框架
 
-#### 证据知情实践的前提条件与策略框架
+> [!pathways] 证据知情实践的动员策略
+> [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] 提出"肥沃土壤"隐喻（研究证据生根需要教育者准备度、评估技能、组织中介和实践—研究整合意识四大前提）和[[Knowledge Mobilisation|知识动员]]四策略（传播、能力建设、伙伴关系、系统化支持）。
+>
+> [[Argument_Wiliam_2019|Wiliam (2019)]] 补充了实践者的四个决策评估维度——问题匹配度、改进幅度、成本效益和本地适用性——以及 Blass (2020) 的五要素框架（方法论、情境、假设、领导力、时效性），构成 EBE 证据向实践转化的完整评估链。
 
-> [!pathways] 证据知情实践的前提条件与动员策略
-> [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, pp. 127–131)]] 归纳了两个核心模型：
-> - **"肥沃土壤"隐喻** 研究证据只有在"肥沃的土壤"中才能生根发芽，需要四大前提条件：教育者的准备度、研究性分析立场与评估技能、组织的中介角色，以及对实践证据与研究证据的并列整合意识。
-> - **[[Knowledge Mobilisation|知识动员]]（Knowledge Mobilisation, KMb）四策略** 沟通与传播（制作可读性高、易于获取的研究综述与工具包）、能力建设（通过教师研究方法论培训提高素养）、伙伴关系与网络（建立跨校改进社区、探究网络及大学-学校协作）、系统化方法（在政策、财政和问责机制中为循证实践提供结构性支持）。
-
-#### 决策评估四问题与五要素
-
-> [!decisions] Wiliam 的四个决策评估问题
-> [[Argument_Wiliam_2019|Wiliam (2019, pp. 11–12)]] 为利益相关者评估教育优先事项提出了四个实用性指导问题：
-> 1. *这解决我们面临的问题吗？*：低收入国家教师缺勤率超过 30%，按绩效付薪可能有帮助；但富裕国家教师已经到岗，此类激励不太可能有效（Duflo, Hanna & Ryan, 2012）。
-> 2. *我们能获得多少改进？*：研究者的问题是"当正确实施时这有效吗？"政策制定者的问题是"如果我们采用此干预，事情会变好吗？好多少？"——高忠实度条件下的发现对政策制定者的参考意义有限。
-> 3. *成本多少？*：小[[Effect Size|效应量]]如果成本极低可能是非常值得的（例如 READY4K! 短信提醒项目，每名儿童成本仅约 USD 10）。Hattie (2009) 建议低于 0.4 SD 的效应量不值得关注，但 Wiliam 指出其混淆了效应量的绝对值与净值。
-> 4. *它在这里有效吗？*：只有拥有 Hayek (1945) 所谓特定时间和地点环境知识的实践者才能决定哪些创新可能有效，哪些可能适得其反。
-
-> [!info] 五要素评估框架
-> 学术证据在政策采纳前，须接受对**方法论、情境、假设、领导力和时效性**五个维度的系统性交叉评估——仅凭"在表面上似乎适用"而采纳学术论证可能是危险的。[[Argument_Blass_2020_JESP|Blass, 2020, p. 96]]
+---
 ## 概念演变
 
 > [!timeline] 概念演变时间线
@@ -440,11 +421,6 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - **2019** — Qvortrup 在 NordSTEP 发表 [[Visible Learning|VL]] 辩护讨论论文，提出"观察透镜"[[Epistemology|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]）
 
 ---
-
----
-
----
-
 ## 争议与批评
 
 > [!tension] 批判总览
@@ -464,6 +440,22 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > 以实在论因果命题为出发点，运用[[Mixed Methods Research|混合方法]]进行[[Multimethod Research|多方法]]跨情境验证，教师的[[Professional Judgment|专业判断]]从证据的被动接受者上升为共同生产者（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]；[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]]）。
 
 ---
+
+---
+
+## 关键引用
+
+> [!citation-card]- [[Argument_Biesta_2010_SPE|Biesta (2010, p. 491)]]
+> "The idea that professional practices such as education should be based upon or at least be informed by evidence continues to capture the imagination of many politicians, policy makers, practitioners and researchers."
+
+
+> [!citation-card]- [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]]
+> 证据本位教育政策是"依赖[[Random Assignment|随机化]]和严格匹配实验作为政策和实践的基础"——将可复制的教育项目和有前景的实践置于严格评估之下，仅推广那些被证明有效的。
+
+
+> [!citation-card]- Coldwell et al. (2017) — 英国官方定义
+> 英国教育部明确将 Sutton Trust、[[Education Endowment Foundation|EEF]] 和 [[John Hattie]] 列为"approved"证据来源，同时排除了 [[Ofsted]] 报告和议会内部报告，强调创新必须是"被[[Disciplina and Doctrina|规训]]的"（disciplined）——建立在"什么有效以及为什么"的已有知识之上([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
+
 
 ## 应用案例
 
