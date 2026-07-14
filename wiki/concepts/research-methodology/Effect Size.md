@@ -16,12 +16,16 @@ tags:
 - methodology
 - statistics
 related_concepts:
-  - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
-  - "[[Confidence Interval]]"
+  - "[[Critique of Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
+  - "[[Confidence Interval]]"
   - "[[Standard Error]]"
+  - "[[Developer Effect]]"
+  - "[[Evaluation Research]]"
+  - "[[Internal Validity]]"
+  - "[[Research Purpose]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Homework]]"
@@ -30,30 +34,22 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Causality]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Publication Bias]]"
-  - "[[Developer Effect]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Research Utilization]]"
-  - "[[Pre-test and Post-test]]"
-  - "[[Class Size]]"
-  - "[[Metacognition]]"
-  - "[[Critical Thinking]]"
-  - "[[School Leadership]]"
-  - "[[Material Fallacies]]"
-related_theories:
-  - "[[Dynamic Knowledge and Learning Model]]"
+  - "[[Publication Bias]]"
+  - "[[Construct]]"
+  - "[[Construct Validity]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Random Assignment]]"
   - "[[Power Analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Experimental Research]]"
+  - "[[Covariate Adjustment]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
-  - "[[Intervention Research]]"
+  - "[[Systematic Review]]"
+  - "[[Experimental Research]]"
 related_persons:
   - "[[Gene Glass]]"
   - "[[John Hattie]]"
@@ -71,24 +67,21 @@ related_facts:
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
-  - "[[Argument_Simpson_2019_ERE]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2019_ERE]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Kraft_2023_ER]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Wolf_2020_JREE]]"
-  - "[[Argument_Hattie_2017_SLM]]"
-  - "[[Argument_Bergeron_2017_MJE]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_ONeill_2012_NZJES]]"
 confidence: medium
 status: draft
@@ -145,8 +138,8 @@ updated: 2026-07-15
 
 > [!feature] 效应量的核心要素
 > - **技术定义与计算** 标准化均值差公式、与显著性检验和统计功效的关系、最小可检测效应量的设计含义
-> - **解释框架** Cohen 的经验法则、Hattie 的影响气压计与关节点、Terhart 的实质解释、Kraft 的教育 RCT 经验基准、清算中心的政策阈值
-> - **效应量变异的系统性来源** 测量类型、样本量、研究设计、项目类型、开发者效应和干预定义模糊性六类因素如何系统性地改变效应量
+> - **解释框架** Cohen 的经验法则、Hattie 的影响气压计与关节点、Terhart 的实质解释、Kraft 的教育 [[Randomised Controlled Trials|RCT]] 经验基准、清算中心的政策阈值
+> - **效应量变异的系统性来源** 测量类型、[[Sample Size Determination|样本量]]、研究设计、项目类型、[[Developer Effect|开发者效应]]和干预定义模糊性六类因素如何系统性地改变效应量
 
 ---
 
@@ -155,7 +148,7 @@ updated: 2026-07-15
 ### 技术定义与计算
 
 > [!info] Fitz-Gibbon 的早期推动（1985）
-> Fitz-Gibbon（1985: 45）在元分析发展早期即主张以效应量替代统计显著性作为评估研究的主要指标，将统计显著性重新定位为"内部效度众多可能威胁中的一个"——效应大小是否满足研究目的，而非是否跨过了显著性水平的任意截断点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.339–340]]）。
+> Fitz-Gibbon（1985: 45）在[[Meta-analysis|元分析]]发展早期即主张以效应量替代[[Statistical Significance|统计显著性]]作为[[Evaluation Research|评估研究]]的主要指标，将统计显著性重新定位为"[[Internal Validity|内部效度]]众多可能威胁中的一个"——效应大小是否满足[[Research Purpose|研究目的]]，而非是否跨过了显著性水平的任意截断点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.339–340]]）。
 
 > [!formula-step] 标准化均值差（Cohen's d）
 > $$d = \frac{M_{\text{干预组}} - M_{\text{对照组}}}{SD_{pooled}}$$
@@ -168,7 +161,7 @@ updated: 2026-07-15
 >
 > **统计前提** $d$ 的直观解释依赖于三个前提：（1）前后分布近似对称且接近正态；（2）两个分布的标准差相同，均值差才可解释为简单位移；（3）若分布右偏或左偏，均值并不在分布中心。极端情况下，若基础分布类似柯西分布（Cauchy distribution），均值和方差本身不稳定，$d$ 的计算基础会崩塌（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–49]]）。
 >
-> **第三变量影响** 边际分析与多[[Variable|变量]]控制会显著改变 $d$。TIMSS 2011 丹麦四年级数学中，教师学科专业资格的未控制效应量约 0.15，控制学生社会经济背景后降至 0.08 且不再显著——说明单个 $d$ 不能脱离第三变量独立解释（参见 [[Covariate Adjustment]]）。
+> **第三[[Variable|变量]]影响** 边际分析与多[[Variable|变量]]控制会显著改变 $d$。TIMSS 2011 丹麦四年级数学中，教师学科专业资格的未控制效应量约 0.15，控制学生社会经济背景后降至 0.08 且不再显著——说明单个 $d$ 不能脱离第三变量独立解释（参见 [[Covariate Adjustment]]）。
 
 ---
 
@@ -198,7 +191,7 @@ updated: 2026-07-15
 > - **发展效应区（$d = 0.0$–$0.15$）** 不上学也会发生的发展效应，如教师学科知识 $d = 0.09$
 > - **负面效应区（$d < 0$）** 负面效果，如留级 $d = -0.16$、看电视 $d = -0.18$
 >
-> 约一半因素的效应量超过 0.4。Hattie 据此将[[Whole Language|全语言]]的 $d = 0.06$ 解释为”零实际影响”（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]]）。Hattie（2010, p.89）事后澄清该截断值基于 800 多项元分析的经验平均值，是”创造一个故事”的叙事工具而非绝对阈值。关于户外教育 $d = 0.17$ 的不一致，Hattie 澄清这是罕见的”附加效应”案例：该 0.17 叠加在项目立即效应 $d = 0.60$ 之上，总效应达 0.77。在 2015 年 Paideia 文章中，他进一步将 $d = 0.40$ 定位为所有可见教育影响的平均值——小学约 $d = 0.55$，中学约 $d = 0.25$——同一 $d$ 值必须结合学段和同类研究背景解释。他用网络学习三项元分析的平均 $d = 0.18$ 说明低于 0.40 的效果不必然无价值（Hattie, 2015, pp.11, 17）。
+> 约一半因素的效应量超过 0.4。Hattie 据此将[[Whole Language|全语言]]的 $d = 0.06$ 解释为”零实际影响”（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]]）。[[Argument_Hattie_2010_NZJES|Hattie (2010, p.89)]]事后澄清该截断值基于 800 多项元分析的经验平均值，是”创造一个故事”的叙事工具而非绝对阈值。关于户外教育 $d = 0.17$ 的不一致，Hattie 澄清这是罕见的”附加效应”案例：该 0.17 叠加在项目立即效应 $d = 0.60$ 之上，总效应达 0.77。在 2015 年 Paideia 文章中，他进一步将 $d = 0.40$ 定位为所有可见教育影响的平均值——小学约 $d = 0.55$，中学约 $d = 0.25$——同一 $d$ 值必须结合学段和同类研究背景解释。他用网络学习三项元分析的平均 $d = 0.18$ 说明低于 0.40 的效果不必然无价值（Hattie, 2015, pp.11, 17）。
 
 > [!tip] 如何理解关节点
 > $d = 0.40$ 更像体检报告里的参考范围，而不是红绿灯。它能提醒教师这里值得追问，但不能替代[[Professional Judgment|专业判断]]。若一个中学阶段干预达到 $d = 0.30$，它可能低于《[[Visible Learning|可见的学习]]》总平均，却高于某些中学同类干预的常见水平；反之，一个 $d = 0.45$ 的项目若只测量短期记忆，也不能自动说明它促进了[[Surface and Deep Learning|深层学习]]。该关节点的争议详见 [[Critique of Effect Size]]。
@@ -301,16 +294,16 @@ updated: 2026-07-15
 ### 命题一　效应量随测量类型而变化：自编测量产生系统性更大的效应量
 
 > [!concept-lens] 测量工具的敏感性差异
-> 不同结果测量工具对干预效果的敏感度不同。研究者或开发者自编的测量往往比独立标准化测量更贴近干预内容，因此产生更大的效应量——这一差异并非反映干预真实效果的变化，而是测量工具与被测构念的对齐程度差异。
+> 不同结果测量工具对干预效果的敏感度不同。研究者或开发者自编的测量往往比独立标准化测量更贴近干预内容，因此产生更大的效应量——这一差异并非反映干预真实效果的变化，而是测量工具与被测[[Construct|构念]]的对齐程度差异。
 
-> [!claim] Wolf et al. (2020)
+> [!claim] [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]]
 > Cheung & Slavin（2016）、de Boer, Donker & van der Werf（2014）、Li & Ma（2010）等多个[[Meta-analysis|元分析]]发现自编测量产生的效应量比独立测量高 **0.20–0.29** 标准差。de Boer et al.（2014）发现其综述中 180 个测量中约三分之二是研究者或开发者自编的（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 431]]）。例：同一数学干预使用项目团队自编测试时效应量可能为 +0.45，使用州标准化测试时可能仅为 +0.20。
 
 ---
 
 ### 命题二　效应量随样本量增大而系统性减小
 
-> [!concept-lens] 样本量与统计功效的关联
+> [!concept-lens] [[Sample Size Determination|样本量]]与统计功效的关联
 > 效应量与样本量之间存在负向、准对数关系。小规模研究更容易控制实施质量且需要较大效应量才能达到统计显著，导致小样本研究的效应量系统性偏高。
 
 > [!claim] Slavin & Smith (2009)
@@ -327,14 +320,14 @@ updated: 2026-07-15
 > | 1,001–2,000 | +0.20 |
 > | 2,000+ | +0.09 |
 
-> Kulik & Fletcher（2016）在智能辅导系统综述中报告了类似模式：<80 人 +0.78，81–250 人 +0.53，>250 人 +0.30。两种理论解释：小规模研究更容易控制实施质量；小规模研究需要非常大的效应量才能达到统计显著，只有效应量足够大的小研究才被发表（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 431]]）。
+> Kulik & Fletcher（2016）在智能辅导[[Systematic Review|系统综述]]中报告了类似模式：<80 人 +0.78，81–250 人 +0.53，>250 人 +0.30。两种理论解释：小规模研究更容易控制实施质量；小规模研究需要非常大的效应量才能达到统计显著，只有效应量足够大的小研究才被发表（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 431]]）。
 
 ---
 
 ### 命题三　效应量随研究设计类型而变化：实验与非实验设计的差异证据不一
 
-> [!concept-lens] 研究设计的因果推断强度
-> 研究设计（实验 vs 非实验）对效应量的影响方向在文献中并无一致结论，需要区分具体领域和干预类型。
+> [!concept-lens] 研究设计的[[Causality|因果推断]]强度
+> 研究设计（实验 vs 非实验）对效应量的影响方向在[[Document|文献]]中并无一致结论，需要区分具体领域和干预类型。
 
 > [!claim] Cheung & Slavin (2016); Wilson et al. (2001)
 > Cheung & Slavin（2016）在 645 项研究的综合元分析中发现非实验设计平均效应量 +0.23 vs 实验设计 +0.16；Wilson, Gottfredson & Najaka（2001）发现非[[Experimental Research|实验研究]]效应量高 0.17 个标准差。但 Cook（2002）、de Boer et al.（2014）、Gersten et al.（2009）、Wilson & Lipsey（2001）均未发现实验与非实验设计间效应量的显著差异（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, pp. 431–432]]）。
@@ -347,7 +340,7 @@ updated: 2026-07-15
 > 干预越接近学生个体、越直接作用于学习过程，效应量越大。这与"干预对近端结果影响最大"的假说一致。
 
 > [!claim] Lipsey et al. (2012); Slavin & Lake (2008)
-> Lipsey et al.（2012）发现个体/小组干预效应量（+0.40/+0.26）> 全班（+0.18）> 全校（+0.10）；教学技巧（+0.35）和教学补充（+0.36）> 课程改革（+0.13）和全校倡议（+0.11）。Slavin & Lake（2008）在小学数学中发现类似模式：教学过程干预 +0.33 > 课程干预 +0.20 > 教育技术干预 +0.19（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 432]]）。
+> Lipsey et al.（2012）发现个体/小组干预效应量（+0.40/+0.26）> 全班（+0.18）> 全校（+0.10）；教学技巧（+0.35）和教学补充（+0.36）> 课程改革（+0.13）和全校倡议（+0.11）。Slavin & Lake（2008）在小学数学中发现类似模式（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 432]]）。
 
 ---
 
@@ -357,16 +350,16 @@ updated: 2026-07-15
 > 项目开发者委托或实施的研究平均效应量系统性高于独立评估，这一差异部分源于开发者更可能使用自编测量和较弱的研究设计。
 
 > [!claim] Wolf et al. (2020)
-> [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]]发现由项目开发者委托或实施的研究平均效应量比独立评估高 0.141 个标准差（全样本），约为独立研究的 1.8 倍。详见 [[Developer Effect]]。
+> 发现由项目开发者委托或实施的研究平均效应量比独立评估高 0.141 个标准差（全样本），约为独立研究的 1.8 倍。详见 [[Developer Effect]]。
 
 ---
 
 ### 命题六　效应量随干预定义的模糊性而变化：同一标签可能涵盖实质不同的干预
 
-> [!concept-lens] 术语的构念效度
+> [!concept-lens] 术语的[[Construct Validity|构念效度]]
 > 同一术语在不同研究中可能涵盖实质不同的干预实践，使效应量的跨研究聚合失去意义。
 
-> [!claim] Higgins (2016)
+> [!claim] [[Argument_Higgins_2016_RE|Higgins (2016)]]
 > [[Argument_Higgins_2016_RE|Higgins (2016, pp.37–38)]]以"[[Homework|家庭作业]]"为例：五岁儿童带书回家与父母共读、在家背单词、在"作业俱乐部"中做作业、为课堂做预习阅读、为考试背乘法表、在家完成考试课程作业——这些是否都是同一回事？如果合并所有这些研究得出"作业有效"，这并不意味着作业总是有效的。元分析聚合的不是同一种干预，而是同一标签下的不同实践。
 
 ---
@@ -374,7 +367,7 @@ updated: 2026-07-15
 ## 争议与批评
 
 > [!warning] 批判总览
-> 效应量在教育研究中的使用面临来自计算口径、聚合综合和政策解释三个层面的系统批判。不同公式产生不可比的排名、逐级聚合中标准误混淆和错误加权扭曲结果、平均值掩盖变异性——这些批评共同质疑了将效应量作为跨研究比较尺度和教育有效性排名的合法性。详细的批判论证见 [[Critique of Effect Size]]。
+> 效应量在教育研究中的使用面临来自计算口径、聚合综合和政策解释三个层面的系统批判。不同公式产生不可比的排名、逐级聚合中[[Standard Error|标准误]]混淆和错误加权扭曲结果、平均值掩盖变异性——这些批评共同质疑了将效应量作为跨研究比较尺度和教育有效性排名的合法性。详细的批判论证见 [[Critique of Effect Size]]。
 
 ---
 ## 应用案例
@@ -391,7 +384,7 @@ updated: 2026-07-15
 ### 政策误用与来源追踪
 
 > [!evidence-grid-a] 政策误用案例
-> - [[Playing for Success]] — EEF 体育参与效应量 0.80 的来源案例，与普通”体育参与”几乎不可比（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.120-123]]）
+> - [[Playing for Success]] — [[Education Endowment Foundation|EEF]] 体育参与效应量 0.80 的来源案例，与普通”体育参与”几乎不可比（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.120-123]]）
 > - [[Treasury Briefing on Student-Teacher Ratios]] — 政策行动者从效应量排名直接选取方案的典型案例（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.6-8]]）
 
 ### 实践者解释

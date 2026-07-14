@@ -14,6 +14,58 @@ tags:
   - meta-analysis
   - methodology-critique
   - evidence-based-education
+related_concepts:
+  - "[[Effect Size]]"
+  - "[[Critique of Meta-analysis]]"
+  - "[[Standard Error]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Research Utilization]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Document]]"
+  - "[[Hypothesis]]"
+  - "[[Pre-test and Post-test]]"
+  - "[[Visible Learning]]"
+  - "[[Class Size]]"
+  - "[[Whole Language]]"
+  - "[[Metacognition]]"
+  - "[[Causality]]"
+  - "[[School Leadership]]"
+  - "[[Critique of Evidence-Based Education]]"
+  - "[[Material Fallacies]]"
+  - "[[Sample Size Determination]]"
+  - "[[Publication Bias]]"
+related_theories:
+  - "[[Dynamic Knowledge and Learning Model]]"
+related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Random Assignment]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Intervention Research]]"
+related_persons:
+  - "[[Lars Qvortrup]]"
+  - "[[Gene Glass]]"
+related_facts:
+  - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Education Endowment Foundation]]"
+  - "[[Playing for Success]]"
+  - "[[Treasury Briefing on Student-Teacher Ratios]]"
+related_arguments:
+  - "[[Argument_Qvortrup_2015_Paideia]]"
+  - "[[Argument_Terhart_2011_JCS]]"
+  - "[[Argument_Kraft_2023_ER]]"
+  - "[[Argument_Simpson_2019_ERE]]"
+  - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Argument_Bergeron_2017_MJE]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_OConnor_2020_AJLL]]"
+  - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_ONeill_2012_NZJES]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
 confidence: medium
 status: draft
 created: 2026-07-15
@@ -36,7 +88,7 @@ updated: 2026-07-15
 
 > [!boundary] 概念边界
 > - **不等于对效应量的全面否定** 效应量作为标准化差异的描述指标有其统计价值。批判指向的是将其作为跨研究比较尺度和教育有效性排名的做法。
-> - **不等于对元分析的否定** 元分析的方法论批判见 [[Critique of Meta-analysis]]。本条目的焦点是效应量作为分析单位的解释边界。
+> - **不等于对[[Meta-analysis|元分析]]的否定** 元分析的方法论批判见 [[Critique of Meta-analysis]]。本条目的焦点是效应量作为分析单位的解释边界。
 > - **不替代技术计算讨论** 效应量的公式、计算方法和统计属性详见 [[Effect Size]]。
 
 ---
@@ -44,15 +96,15 @@ updated: 2026-07-15
 ## 核心要素
 
 > [!feature] 批判的三个层面
-> - **计算口径层面** 不同效应量公式使用不同的分母和比较基线，产生不可调和的结果——"同一干预用不同公式计算可以排在第一、第二、第三或最后"。
-> - **聚合与综合层面** 效应量从原始研究到元分析再到元-元分析的逐级聚合过程中，标准误混淆、错误加权、不加权平均和选择性修正系统性扭曲了最终结果。
+> - **计算口径层面** 不同[[Effect Size|效应量]]公式使用不同的分母和比较基线，产生不可调和的结果——"同一干预用不同公式计算可以排在第一、第二、第三或最后"。
+> - **聚合与综合层面** 效应量从原始研究到[[Meta-analysis|元分析]]再到[[Meta-meta-analysis|元-元分析]]的逐级聚合过程中，[[Standard Error|标准误]]混淆、错误加权、不加权平均和选择性修正系统性扭曲了最终结果。
 > - **解释与政策层面** 将效应量转化为排名表和政策建议时，平均值背后的变异性、比较基线的不对等性以及测量设计的系统性偏差被看似中立的数字掩盖。
 
 ---
 ## 争议与批评
 
 > [!warning] 争议结构
-> 效应量争议不是一个单点问题，而是一条从“计算口径”到“教育政策使用”的问题链。支持者强调它提供跨研究比较的共同尺度；批评者则指出，公式、测量、对照条件、聚合方式和政策[[Transfer Translation Transformation|转译]]都会改变效应量的含义。
+> [[Effect Size|效应量]]争议不是一个单点问题，而是一条从“计算口径”到“教育政策使用”的问题链。支持者强调它提供跨研究比较的共同尺度；批评者则指出，公式、测量、对照条件、聚合方式和政策[[Transfer Translation Transformation|转译]]都会改变效应量的含义。
 
 ---
 
@@ -61,7 +113,7 @@ updated: 2026-07-15
 > [!success] 支持者的核心论证
 
 > [!claim] Qvortrup, L. (2015) — 相对效果论证
-> [[Lars Qvortrup]]（2015, pp.25–27）从支持者立场认为，教育[[Meta-analysis|元分析]]不需要等待所有研究使用完全相同的学习结果定义才可比较；效应量提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。他同时承认这种比较的代价是学习结果变得抽象，因此提出[[Dynamic Knowledge and Learning Model]]来区分不同知识形式（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]]）。
+> [[Lars Qvortrup]]（2015, pp.25–27）从支持者立场认为，教育[[Meta-analysis|元分析]]不需要等待所有[[Research Utilization|研究使用]]完全相同的学习结果定义才可比较；效应量提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。他同时承认这种比较的代价是学习结果变得抽象，因此提出[[Dynamic Knowledge and Learning Model]]来区分不同知识形式（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]]）。
 
 > [!claim] Hattie, J. (2009) — 关节点论证
 > Hattie 将 $d = 0.40$ 设定为"期望效应"的关节点，认为它使研究者和实践者能够在统一的标尺上比较不同教育干预的相对效果。Hattie 强调该关节点的实证基础：约一半因素的效应量超过 0.4，$d = 0.40$ 大致对应教师在一学年中通常达到的平均效果（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]]）。
@@ -71,10 +123,10 @@ updated: 2026-07-15
 
 ---
 
-> [!ref-table] EBE 支持者的防御策略（Simpson, 2019）
+> [!ref-table] [[Evidence-Based Education|EBE]] 支持者的防御策略（[[Argument_Simpson_2019_ERE|Simpson, 2019]]）
 > [[Argument_Simpson_2019_ERE|Simpson (2019, pp. 106–108)]]引用 Freedman（2009）识别的统计论证被揭露缺陷后的防御策略清单：
 >
-> | 防御策略 | 效应量[[Document|文献]]中的表现 |
+> | 防御策略 | 效应量[[Document\|文献]]中的表现 |
 > | --- | --- |
 > | [[Hypothesis\|假设]]是合理的 | Schneider & Preckel（2017）和 Higgins & Katsipataki（2016）列出假设但不检验其是否成立 |
 > | 假设不重要 | "许多继续使用效应量代表教育有效性的人似乎无法区分有缺陷的论证和某些结论可能碰巧正确的可能性"（p. 107） |
@@ -87,7 +139,7 @@ updated: 2026-07-15
 ### 计算口径问题
 
 > [!critique-method] 计算口径问题
-> 效应量的计算公式不止一种，不同公式回答不同的问题、使用不同的分母，对同一组数据产生不可调和的矛盾排名。[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017, pp.243–244)]]构造了一个受控数值示例：四个独立学生组，初始成绩完全相同（正态分布，均值 75，标准差 5），三组随机分配至三种新教学法，一组为对照组。各组真实成绩变化由研究者设定——对照组 0 分，方法 1 增 1 分，方法 2 增 2 分，方法 3 增 3 分。
+> 效应量的计算公式不止一种，不同公式回答不同的问题、使用不同的分母，对同一组数据产生不可调和的矛盾排名。[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017, pp.243–244)]]构造了一个受控数值示例：四个独立学生组，初始成绩完全相同（正态分布，均值 75，标准差 5），三组[[Random Assignment|随机分配]]至三种新教学法，一组为对照组。各组真实成绩变化由研究者设定——对照组 0 分，方法 1 增 1 分，方法 2 增 2 分，方法 3 增 3 分。
 
 > [!formula-step] 公式 (a)：实验组与对照组（组间比较）
 > $$d = \frac{M_{\text{实验组}} - M_{\text{对照组}}}{SD_{\text{pooled}}}$$
@@ -97,7 +149,7 @@ updated: 2026-07-15
 > **结果** 方法 0（对照）$d = 0.00$；方法 1 $d = 0.14$；方法 2 $d = 0.27$；方法 3 $d = 0.39$。排名：方法 3 > 2 > 1 > 0，与实际设定的梯度真相一致。
 
 > [!formula-step] 公式 (b)：前后比较（组内变化）
-> $$d = \frac{M_{\text{后测}} - M_{\text{前测}}}{SD_{\text{变化}}}$$
+> $$d = \frac{M_{\text{[[Pre-test and Post-test|后测]]}} - M_{\text{前测}}}{SD_{\text{变化}}}$$
 >
 > **读法** 分母为每组内部成绩变化的标准差（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.243, Table 2]]）。
 >
@@ -156,7 +208,7 @@ updated: 2026-07-15
 
 #### [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]：标准误混淆与错误加权
 
-> [!critique-method] Wecker et al. (2016) — 标准误混淆与错误加权
+> [!critique-method] [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — [[Standard Error|标准误]]混淆与错误加权
 > Wecker, Vogel & Hetmanek（2016）在审查 Hattie 的二级元分析时，记录了效应量计算和聚合中的具体技术错误：
 >
 > - **[[Standard Error|标准误]]与标准差的混淆** 在个别一级元分析的主要研究中，[[Standard Error|标准误]]被错误地当作标准差使用（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.26–27]]）。例如 Eisenstaedt 等人（1990）的主要研究中，控制组的标准误=2.74 被当作标准差来处理，导致效应量计算严重错误（原应为 d=-0.80，而非 Hattie 引用的极端值）
@@ -167,7 +219,7 @@ updated: 2026-07-15
 
 #### [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]：不加权平均与选择性修正
 
-> [!critique-method] O'Connor (2020) — 不加权平均与选择性修正
+> [!critique-method] [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 不加权平均与选择性修正
 > [[Argument_OConnor_2020_AJLL|O'Connor (2020, p.145)]]记录了《可见的学习》中效应量聚合的一个具体问题。[[Whole Language|全语言]]的 $d = 0.06$ 是通过将四项元分析的效应量进行简单算术平均得出的：
 >
 > $$(0.09 + 0.15 + 0.65 + (-0.65)) / 4 = 0.06$$
@@ -194,7 +246,7 @@ updated: 2026-07-15
 > [!warning] 关节点 $d = 0.40$ 的争议
 > Hattie 设定的 0.40 阈值面临多重批评：截断值的选择可能忽视重要效应、绝对值与净值的混淆、以及阈值应用的不一致。
 
-> [!claim] Snook et al. (2009) — 关节点截断值的早期批评
+> [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 关节点截断值的早期批评
 > **早期批评** [[Argument_Snook_2009_NZJES|Snook et al. (2009, p.99)]]指出选择截断值是危险的操作，可能使潜在的重要效应被忽视。他们以医学类比论证：低剂量阿司匹林降低心脏病风险的效应量仅 0.07，但转化为每 1000 人拯救 34 人的结论。Hattie 在户外教育"跟进"效应中因 $d = 0.17$ 的正面结果而兴奋，远低于其常规阈值，暴露了其截断值应用的不一致([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.99–100]])。
 
 > [!warning] 绝对值与净值的混淆
@@ -246,7 +298,7 @@ updated: 2026-07-15
 #### 现实案例验证
 
 > [!example] 现实案例验证
-> [[Argument_Simpson_2019_ERE|Simpson (2019, pp. 102–103)]]引用 EEF 评估报告验证同一干预在不同结果测量上产生截然不同的效应量：
+> [[Argument_Simpson_2019_ERE|Simpson (2019, pp. 102–103)]]引用 [[Education Endowment Foundation|EEF]] 评估报告验证同一干预在不同结果测量上产生截然不同的效应量：
 >
 > - **Merrell & Kasim（2015）语音干预** 新组阅读测试 $d = 0.43$，标准化书面阅读测试 $d = 0.38$，语音评估 $d = 0.23$
 > - **REACH 阅读支持（Sibieta, 2016）** NGRT d=0.33，阅读理解 d=−0.08，阅读准确性 d=0.17——同一干预导致 4 个月进步、2 个月进步和 1 个月退步
@@ -289,8 +341,8 @@ updated: 2026-07-15
 > [!warning] 政策与实践使用风险
 > 效应量作为消费信息不完整。[[School Leadership|学校领导]]在采购项目时需要知道成本、实施要求、教师和学生使用体验、研究情境是否相似，以及对照组质量如何。
 
-> [!claim] Wiliam (2019) — 元-元分析的彻底否定
-> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]断言[[Meta-meta-analysis|元-元分析]]在教育政策制定中绝对没有任何角色，这是证据本位教育批判文献中对元-元分析最彻底的否定。但他同时指出 Simpson 小心地承认，在某些条件下合并效应量可能是适当的。
+> [!claim] [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 元-元分析的彻底否定
+> [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]断言[[Meta-meta-analysis|元-元分析]]在教育政策制定中绝对没有任何角色，这是[[Critique of Evidence-Based Education|证据本位教育批判]]文献中对元-元分析最彻底的否定。但他同时指出 Simpson 小心地承认，在某些条件下合并效应量可能是适当的。
 
 > [!warning] 排名选取方案的风险
 > **政策行动者直接从排名选取方案的风险**[[Argument_ONeill_2012_NZJES|O'Neill (2012)]]以新西兰财政部 2011 年简报为案例，揭示了政策行动者从一维效应量排名中直接挑选政策方案的实践危险——Hattie 本人的多处关键警示（相关≠因果、成功效应多来自创新、该书"不涉及课堂生活"）被完全忽略，且政策结论直接与 Hattie 本人结论矛盾（ONeill, 2012, pp.156-157）。详见 [[Treasury Briefing on Student-Teacher Ratios]]、[[Material Fallacies]]。
@@ -303,15 +355,15 @@ updated: 2026-07-15
 ## 谨慎使用原则
 
 > [!info] 谨慎使用原则
-> 效应量不是教育价值的单一排名。以下原则来自多位研究者的独立建议。
+> [[Effect Size|效应量]]不是教育价值的单一排名。以下原则来自多位研究者的独立建议。
 
-> [!claim] Simpson (2019) — 效应量的合法与非法用途
+> [!claim] [[Argument_Simpson_2019_ERE|Simpson (2019)]] — 效应量的合法与非法用途
 > [[Argument_Simpson_2019_ERE|Simpson (2019, p. 104)]]区分了效应量的技术用途和政策用途：**合法用途**为告知未来研究者在类似测试下可预期的噪声水平，以便调整[[Sample Size Determination|样本量]]和选择测量工具；**非法用途**为在误将更大效应量与更高教育有效性关联后，政策制定者在干预措施之间进行选择。效应量有意义的合并仅在极端条件下——同一干预使用相同样本、相同控制活动、相同测量、相同设计——"当然，在现实中，这种直接复制和比较并不会发生"（p. 106）。
 
-> [!claim] Wiliam (2019) — 11 点元分析评估清单
+> [!claim] [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 11 点[[Meta-analysis|元分析]]评估清单
 > [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]提出以下检查清单用于评估元分析是否值得严肃对待：包含的研究是否相关、效应量是干预还是关联、比较的是否相同事物、是否在同一层面、是否检查了[[Publication Bias|发表偏倚]]、干预持续时间和强度是否相似、结果测量是否测量同一事物、离散度和敏感度是否相似、参与者资质是否同等。"如果所有这些问题的答案都是肯定的，那么元分析可能值得认真对待。然而，如果任何一个问题的答案是否定的，那么元分析不太可能与真实的教育情境有多大关联。"
 
-> [!claim] Kraft (2023) — 经验分布替代方案
+> [!claim] [[Argument_Kraft_2023_ER|Kraft (2023)]] — 经验分布替代方案
 > 以教育[[Randomised Controlled Trials|随机对照试验]]效应量的经验分布（而非 Cohen 的 $0.2/0.5/0.8$ 通用锚点）作为解释参照系，以 36% 的效应量小于 0.05 这一"失败频率"作为最重要的解释基准（[[Argument_Kraft_2023_ER|Kraft, 2023]]）。
 
 ---
