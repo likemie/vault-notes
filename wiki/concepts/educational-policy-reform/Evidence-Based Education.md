@@ -228,7 +228,7 @@ updated: 2026-07-13
 > - **强版本与弱版本** 强版本（evidence-based）以 RCT 证据为核心依据，弱版本（evidence-informed）将证据定位为多种信息来源之一。
 > - **证据到政策与实践的转化模型** 政策转译的三种轨迹、研究资助的动力循环，以及证据进入课堂的四步转译链。
 
-
+---
 ### EBE 的基本主张与假设
 
 #### 核心主张
@@ -263,20 +263,6 @@ updated: 2026-07-13
 > - *反驳观点*：教育是分层的开放系统。RCT 缺乏双盲和安慰剂机制，[[Pre-test and Post-test|前测]]失衡屡见不鲜；最关键的是，它将教师能动性这一产生效果的"必要机制"强行视为需要被控制的"污染源"，形成了逻辑悖论。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 5–6)]]; [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]].
 
 ---
-#### Fitz-Gibbon 的三个必要性论证（1997）
-
-在 EBE 的早期制度化过程中，Carol Fitz-Gibbon（1997: 35–36）提出了循证方法的三个必要性论证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.338–339]]）：
-
-> [!claim] Fitz-Gibbon, C. (1997)
-> **挑战未经证实的实践的推行** 抵制未经验证的方案的强制实施，以系统性证据作为政策推行的门槛。
->
-> **解决问题与避免有害程序** 识别并避免可能对学生产生负面影响的做法——Fitz-Gibbon 认为，在缺乏证据的情况下实施教育干预，与在未经同意的情况下对患者使用未测试的医疗程序一样，都接近于不道德。
->
-> **创造改进，引导更有效的学习** EBE 的目标不仅是淘汰无效方案，更是通过证据积累不断改进教学实践的质量。
-
-Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定者在制定政策时经常回避证据，实践者在日常忙碌中依赖默会知识而非来自 RCT 的知识。她进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]——这一主张直接推动了效应量在元分析中的核心地位，也构成了 EBE 方法论讨论的关键转折（pp.339–340）。
-
----
 #### 隐含假设
 
 证据本位教育的合法性建立在一组深层理论假设之上，这些假设在哲学上遭到了系统的解构：
@@ -290,6 +276,21 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 
 > [!warning] 教师质量作为 RCT 的结构性混淆因素
 > [[Argument_Wiliam_2019|Wiliam (2019, pp. 7–8)]] 从教师质量的未测量变异这一角度补充了效力缺陷的具体例证：[[Tracking|能力分组]]研究即使设计良好，如果未测量和未控制教师质量的变异（一标准差教师质量差异对应 0.15 SD 学生成就差异，Hanushek & Rivkin, 2010），观察到的"能力分组效应"可能实际上是"教师分配效应"。
+
+---
+
+#### Fitz-Gibbon 的三个必要性论证（1997）
+
+在 EBE 的早期制度化过程中，Carol Fitz-Gibbon（1997: 35–36）提出了循证方法的三个必要性论证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.338–339]]）：
+
+> [!claim] Fitz-Gibbon, C. (1997)
+> **挑战未经证实的实践的推行** 抵制未经验证的方案的强制实施，以系统性证据作为政策推行的门槛。
+>
+> **解决问题与避免有害程序** 识别并避免可能对学生产生负面影响的做法——Fitz-Gibbon 认为，在缺乏证据的情况下实施教育干预，与在未经同意的情况下对患者使用未测试的医疗程序一样，都接近于不道德。
+>
+> **创造改进，引导更有效的学习** EBE 的目标不仅是淘汰无效方案，更是通过证据积累不断改进教学实践的质量。
+
+Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定者在制定政策时经常回避证据，实践者在日常忙碌中依赖默会知识而非来自 RCT 的知识。她进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]——这一主张直接推动了效应量在元分析中的核心地位，也构成了 EBE 方法论讨论的关键转折（pp.339–340）。
 
 ---
 #### 强版本 vs. 弱版本
@@ -343,14 +344,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - **1990年代初** 起源与医学类比。Guyatt 等人提出循证医学（EBM）[[Paradigm|范式]]，David Hargreaves 等人将教育研究与医学进行类比，开启了教育证据本位的探讨。
 > - **1998–2015年** 英美等国的强势政策与制度化建设。美国通过 [[No Child Left Behind Act 2001|NCLB]] 立法、设立 [[What Works Clearinghouse|WWC]]，英国建立 [[Education Endowment Foundation|EEF]]、[[What Works Network]]，将证据与联邦/中央拨款深度绑定。
 > - **2004–2020年** 批判性[[Document|文献]]与学术思潮的[[Emergence|涌现]]。以 Biesta、Wiliam、Wrigley 等为代表的学者，从哲学、方法论和政治经济学多角度对 EBE 的[[Technical Rationality|技术理性]]及统计窄化进行了系统性解构，推动了向"[[Evidence-Informed Practice|证据知情实践]]"（EIP）等替代方案的演进。
-
-> [!note]-
-> EBE 从 1990 年代的循证医学类比出发，经历了英美制度化建设、批判性文献兴起和中国作为[[Evidence-Based Reform|证据本位改革]]新兴力量的崛起，至今仍在方法论与哲学层面持续激辩。
-
-### PISA 作为循证政策制定的全球推动力
-
-> [!note]
-> [[Argument_Li_2025_HSSC|Li et al. (2025)]]在对 85 篇实证研究的[[Systematic Review|系统综述]]中指出，[[PISA]] 通过其数据驱动的比较分析和循证研究范式，在全球范围内推动了循证教育政策的制度化。德国在 PISA 冲击后将循证政策制定纳入教育治理新模式（Yore et al., 2010）；日本在 PISA 影响下建立了学校管理的"证据—改进循环"（Ninomiya, 2019）；约旦同样受到 PISA 循证范式的推动。PISA 使"以数据为基础的政策制定"成为全球教育改革的核心话语之一。
+> - **2000s–至今** [[PISA]] 作为全球推动力。[[PISA]] 的数据驱动比较分析和循证研究范式，使"以数据为基础的政策制定"成为全球教育改革的核心话语。德国在 PISA 冲击后将循证政策制定纳入教育治理新模式，日本建立了学校管理的"证据—改进循环"（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 
 ### 起源：从循证医学到教育政策信号（1992–1996）
 
@@ -440,9 +434,6 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > 以实在论因果命题为出发点，运用[[Mixed Methods Research|混合方法]]进行[[Multimethod Research|多方法]]跨情境验证，教师的[[Professional Judgment|专业判断]]从证据的被动接受者上升为共同生产者（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]；[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]]）。
 
 ---
-
----
-
 ## 关键引用
 
 > [!citation-card]- [[Argument_Biesta_2010_SPE|Biesta (2010, p. 491)]]
@@ -456,7 +447,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > [!citation-card]- Coldwell et al. (2017) — 英国官方定义
 > 英国教育部明确将 Sutton Trust、[[Education Endowment Foundation|EEF]] 和 [[John Hattie]] 列为"approved"证据来源，同时排除了 [[Ofsted]] 报告和议会内部报告，强调创新必须是"被[[Disciplina and Doctrina|规训]]的"（disciplined）——建立在"什么有效以及为什么"的已有知识之上([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.4]])。
 
-
+---
 ## 应用案例
 
 ### 英国

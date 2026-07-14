@@ -86,6 +86,7 @@ updated: 2026-07-14
 > - **30%** 多重评级项目中，不同机构给出一致有效性结论的比例。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 3]]
 > - **+0.24SD vs +0.00SD** Fresh Start 实验组前测低分偏差带来的官方效应量 vs 排除失衡后的真实匹配效应量。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 5]]
 > - **0.40** [[John Hattie]] [[Meta-meta-analysis|元-元分析]]用来划定教学法是否有影响的 Hingepoint 铰链点阀值。[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 11]]
+---
 
 ### 关联理论背景
 
@@ -97,6 +98,7 @@ updated: 2026-07-14
 > - **[[Critical Realism|批判实在论]]与开放系统** [[Critical Realism]] — [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 用作批判 EBE 方法论的哲学框架，区分三层[[Ontology|本体论]]和开放/封闭系统
 > - **区分理论与教育知识临时性**[[Goldman's Discrimination Theory of Knowledge]] — [[Argument_Wiliam_2019|Wiliam (2019)]] 运用此理论论证教育知识需要区分真实状态与相关替代状态的能力
 > - **因果关系与效度框架**[[Campbellian Validity Framework]] — Shadish, Cook & Campbell (2002) 的实验效度理论：[[Causality|因果推断]]需通过排除[[Internal Validity|内部效度]]威胁建立因果关系
+---
 
 ### 认识论与哲学基础批评
 
@@ -305,6 +307,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 **核心发现** 作者审查 2020 年五本经验教育心理学期刊，发现非[[Intervention Research|干预研究]]仍约占全部研究的四分之三；随机实验比例从 2010 年的 23% 降至 2020 年的 20%，而非干预文章中约三分之二包含 [[Recommendations for Practice|实践建议]]。在观察/相关研究中，含实践建议比例从 2000 年 41%、2010 年 46% 上升到 2020 年 66%；[[Qualitative Research|质性研究]]和[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中也分别有 65% 与 60% 包含实践建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6–7]])。
 
 **方法论含义** 问题并非[[Non-intervention Research|非干预研究]]没有价值，而是它在研究序列中更适合描述情境、识别变量关系和生成干预假设；若直接提出"采用某实践会改善某结果"的 RFP，就把本应由[[Intervention Research|干预研究]]或[[Experimental Research|实验研究]]检验的因果关系提前写成实践处方([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2–3, 9]])。
+---
 
 ### 实施、制度与政治批评
 
@@ -404,6 +407,7 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > 现行证据标准容易把"有效性"窄化为统计显著的成就效果；对每周使用数小时的教育技术补充项目而言，学生动机、教师时间、技术技能或教学多样化等结果未必能在短期成就测验中体现。STAT 案例进一步显示，复杂改革的证据解释具有价值冲突——支持者视为促进数字公民的成功，反对者视为成就未提高的失败。
 > 
 > EBE 的关键争议不只是"证据是否严格"，还包括谁有权解释证据、哪些结果值得被视为成功。[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.109–124]]
+---
 
 ### 综合框架
 
@@ -420,11 +424,3 @@ Pampaka 等进一步指出 RCT 领域正面临一种"萎靡感（malaise）"，�
 > | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 政策评估框架 | 五要素框架（方法论/情境/假设/领导力/时效性） |
 > | Nielsen & Klitmøller (2021) | 合法化功能 | [[Jürgen Habermas\|Habermas]] 合法化危机 + Schön [[Technical Rationality\|技术理性]] |
 
-> [!implication] 批评者的综合立场
-> Biesta 说 EBE **在哲学上是错的**；Cowen 说它**在制度上被选择并非因为对**；Wrigley & McCusker 说它**在方法论上逐级失真**且**对科学的理解本身就是片面的**；Wiliam 说**即使以上所有问题都被解决，EBE 在原则上仍然不可能成功**——因为教育知识本质上是局部且临时的；Peterson 说**接受 RCT 但从根本上改革其设计**；Zhao 说**只衡量效果不衡量副作用是系统性的盲点**；Blass 说**学术研究在政策中应用前须经五要素评估**；Nielsen & Klitmøller 说**VL 的流行满足了教育系统的合法化需求而非依靠科学质量**。
-
-
----
-
-
----
