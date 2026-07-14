@@ -28,7 +28,7 @@ updated: 2026-07-14
 ## 定义
 
 > [!def] 核心定义
-> [[Evidence-Based Education|循证教育]]（Evidence-Based Education，EBE）批判指围绕 EBE 的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系。这些批判并非对"教育实践应参考研究证据"这一基本理念的否定，而是追问：什么算作证据？谁来决定证据的等级？将医学的 RCT 范式移植到教育领域是否正当？"什么有效"（what works）的追问方式本身是否遮蔽了更根本的教育问题？
+> [[Evidence-Based Education|循证教育]]（Evidence-Based Education，EBE）批判指围绕 EBE 的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系。这些批判并非对"教育实践应参考研究证据"这一基本理念的否定，而是追问：什么算作证据？谁来决定证据的等级？将医学的随机对照试验（Randomised Controlled Trial，RCT）范式移植到教育领域是否正当？"什么有效"（what works）的追问方式本身是否遮蔽了更根本的教育问题？
 
 > [!concept-lens] 概念透镜
 > - **含义** 对 EBE 运动的哲学、方法论、制度和政治维度的系统性批评，揭示其隐含的认识论假设、方法论局限和制度后果。
@@ -52,10 +52,10 @@ updated: 2026-07-14
 > - **2004–2010** — 批判性文献兴起：Hammersley (2005)、Holmes et al. (2006)、Smeyers & Depaepe (2006)
 > - **2007** — Biesta 在 *Educational Theory* 发表 "Why 'what works' Won't Work"，提出"民主缺陷"概念
 > - **2010** — Biesta 正式提出**三重缺陷**的完整框架（知识缺陷、效力缺陷、应用缺陷）（详见 [[Argument_Biesta_2010_SPE|Biesta, 2010]]）
-> - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究 EBP 的实施困境（详见 [[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]）
+> - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究证据本位政策实践（Evidence-Based Policy，EBP）的实施困境（详见 [[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]）
 > - **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 RCT，以改进网络作为实施基础设施([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
 > - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），并识别 agency 作为核心哲学分歧([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])
-> - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的
+> - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性；Wrigley & McCusker 论证证据本位教学（Evidence-Based Teaching，EBT）的"科学"宣称基于过分简化的民间科学观；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的
 > - **2019** — Qvortrup 在 NordSTEP 发表 [[Visible Learning|VL]] 辩护讨论论文，提出"观察透镜"[[Epistemology|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]]）
 
 ---
@@ -109,8 +109,12 @@ updated: 2026-07-14
 
 > [!claim] Berliner D. (2002) — hard-to-do-science 论证
 > 教育研究是"难以完成的科学"：学校中的师生嵌套在复杂且不断变化的社会互动网络中，学习过程永远无法被完全控制；教育研究者"必须处理限制推广的本地条件"（Berliner, 2002: 18）。[[Argument_Møller_2017|Møller (2017, p.379)]]
+
 > [!claim] Biesta G. (2007 2010) — 民主缺陷与三重缺陷
 > **民主缺陷** 将教育决策从民主协商转移到技术官僚手中——"什么有效"的优先性遮蔽了"什么是值得做的"。Biesta (2007) 在 *Educational Theory* 发表 *Why 'what works' Won't Work*，首次提出这一概念。
+>
+> **三重缺陷** 从认识论（实验无法预测未来）、存在论（教育因果非线性）和实践论（科学应用不是线性传递）三个层面对 EBE 进行系统批判。这三重缺陷分别对应 EBE 在"实验证据能预测未来效果"、"教育因果是线性的"和"科学进步来自知识的应用"三个隐含[[Hypothesis|假设]]上的失败。[[Argument_Biesta_2010_SPE|Biesta (2010)]]
+
 > [!claim] Wrigley T. (2018) — 批判实在论与施为者悖论
 > Wrigley 借助 [[Roy Bhaskar]] 的[[Critical Realism|批判实在论]]对 EBE 进行深层解构：（1）实在区分为深层因果机制、实际事件与经验现象三层，EBE 只停留在经验层面计算效应量均值；（2）教育是多层交互的开放系统，整体效果不等于各部分线性累加；（3）RCT 极力控制并视为"污染源"的教师意志和学生推理，恰恰是产生教学效果的必要因果机制。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 6, 7, 15)]]
 
@@ -131,20 +135,20 @@ updated: 2026-07-14
 > [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]] 在 [[Visible Learning|VL]] 出版仅两年后就识别了[[Meta-meta-analysis|元-元分析]]（mega-analysis）的根本困境：元-元分析扩大了参照范围，"但同时也变得更加复杂、混乱和充满不一致……通过反复累积，原始的详细经验信息消失"（p.436）。Terhart 提出稳定性与变异性的双重困境——如果进一步研究只产生对已知结果的渐近逼近（稳定性假说），继续累积的意义何在？但如果某些领域的发现已被新结果超越（变异性假说），则元-元分析的结论始终是临时的。
 
 > [!claim] Wrigley & McCusker (2019) — 三级统计失真
-> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 以 EEF Toolkit 体育参与条目（效应量 0.17，约 +2 个月进步）为案例，逐层追踪了失真过程。该 0.17 是对四个效应量（来自三个元分析）加权平均得来。元分析层面，不同研究使用不可比的比较基线合并为单一效应量；元-元分析层面，叠加干预时长未控制、年龄效应、方向性混淆（前后比较 vs 组间比较）和结果类型混合（成绩 vs 毕业率，自评 vs 学业成就）等问题；政策工具层面，将效应量转换为"额外学习月数"时引入额外假设（如进步速度在全年龄段均匀分布）。追踪其中一个效应量 0.80 的来源发现来自 Newman et al.（2010）的 [[Playing for Success]]，一个在著名足球场进行的包含一对一辅导、专用 ICT 设备和个性化课程的高度资源密集型项目，与普通"体育参与"几乎不可比。
+> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 以 EEF Toolkit 体育参与条目（效应量 0.17，约 +2 个月进步）为案例，逐层追踪了失真过程。该 0.17 是对四个效应量（来自三个元分析）加权平均得来。元分析层面，不同研究使用不可比的比较基线合并为单一效应量；元-元分析层面，叠加干预时长未控制、年龄效应、方向性混淆（前后比较与组间比较）和结果类型混合（成绩与毕业率，自评与学业成就）等问题；政策工具层面，将效应量转换为"额外学习月数"时引入额外假设（如进步速度在全年龄段均匀分布）。追踪其中一个效应量 0.80 的来源发现来自 Newman et al.（2010）的 [[Playing for Success]]，一个在著名足球场进行的包含一对一辅导、专用 ICT 设备和个性化课程的高度资源密集型项目，与普通"体育参与"几乎不可比。
 
 > [!claim] Wrigley & McCusker (2019) — 简单科学观批判
 > EBE 对"科学"的诉诸依赖于一种过分简化的民间科学观，将科学等同于实验控制、统计显著性和效应量排名，忽视了科学实践中理论驱动、机制探索和价值判断的核心角色。
 
 > [!claim] Brady et al. (2023) — 非干预研究的实践建议越界
-> Brady et al. 审查 2020 年五本经验教育心理学期刊发现：非[[Intervention Research|干预研究]]占约四分之三，随机实验比例从 2010 年的 23% 降至 2020 年的 20%。非干预文章中约三分之二包含 [[Recommendations for Practice|实践建议]]（RFP），在观察/相关研究中该比例从 2000 年 41% 上升到 2020 年 66%。问题并非非干预研究没有价值，而是它在研究序列中更适合描述情境和生成假设；若直接提出"采用某实践会改善某结果"，就把本应由[[Experimental Research|实验研究]]检验的因果关系提前写成实践处方。[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 2–9]]
+> Brady et al. 审查 2020 年五本经验教育心理学期刊发现：非[[Intervention Research|干预研究]]占约四分之三，随机实验比例从 2010 年的 23% 降至 2020 年的 20%。非干预文章中约三分之二包含[[Recommendations for Practice|实践建议]]（Recommendations for Practice，RFP），在观察/相关研究中该比例从 2000 年 41% 上升到 2020 年 66%。问题并非非干预研究没有价值，而是它在研究序列中更适合描述情境和生成假设；若直接提出"采用某实践会改善某结果"，就把本应由[[Experimental Research|实验研究]]检验的因果关系提前写成实践处方。[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 2–9]]
 
 > [!contrast-table] EBE 方法偏好 vs 方法多元论（Cowen 2019）
 > | EBE 优先的方法 | EBE 排除或边缘化的方法 |
 > |---|---|
 > | RCT（个体随机分配） | 准实验、自然实验 |
-> | 系统综述 / 元分析 | 工具[[Variable|变量]]估计、合成控制、差异中差 |
-> | 效应量呈现（如 EEF Toolkit） | 调查、[[Participant Observation|参与观察]]、访谈、案例研究 |
+> | 系统综述 / 元分析 | 工具变量估计、合成控制、差异中差 |
+> | 效应量呈现（如 EEF Toolkit） | 调查、参与观察、访谈、案例研究 |
 > | 学校/课堂层面干预测试 | 过程追踪、分析性叙事 |
 
 ---
@@ -160,9 +164,11 @@ updated: 2026-07-14
 > [!claim] Pampaka et al. (2016) — 大规模干预的零效应与萎靡感
 > Pampaka, Williams & Homer 在 IJRME"什么有效"特刊导言中诊断了一个关键经验事实：尽管 [[Education Endowment Foundation|EEF]]（最初约 £125M）和美国 DOE 等机构对 RCT 进行了大量主导性资助，"至今很少有显著正向的教育实践在大规模上出现"（p.231）。这一发现直接动摇了 EBE 核心推动力的经验基础——如果大规模投入未能产生大规模效果，则"什么有效"议程本身的有效性需要被重新审视。RCT 领域正面临一种"萎靡感（malaise）"，源于"该方法未能识别大规模有效的干预"（p.233）。特刊中 Spybrook 等的 [[Cluster Randomized Trials|CRT]] 精度研究提供了技术层面的回应，但编者质疑这些技术改进"是否真的能产生必要的差异"。[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]]
 > 
+
 > [!claim] Wiliam D. (2019) — 反馈元分析-平均效应的误导性
 > Kluger & DeNisi (1996) 对 131 项研究的[[Meta-analysis|元分析]]发现反馈的平均[[Effect Size|效应量]]约 0.4 SD，但标准差约 1，607 个效应量中 38% 为负——在超过三分之一的案例中，不给予反馈反而更好。不了解干预如何产生效果，在错误情境应用干预可能产生持续负效果。[[Argument_Wiliam_2019|Wiliam (2019, pp.10–11)]]
 > 
+
 > [!claim] Wiliam D. (2019) — 教师质量-被系统性忽视的混淆变量
 > 教师间一标准差差异约对应 0.15 标准差学生成就差异（Hanushek & Rivkin, 2010），即使 RCT 随机分配学校，如果最有效教师被分配教高成就学生，观察到的效应可能完全是"教师分配效应"——其量级很可能远大于任何被评估的干预效应。[[Argument_Wiliam_2019|Wiliam (2019, pp.7–9)]]
 

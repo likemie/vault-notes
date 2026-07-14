@@ -127,7 +127,7 @@ updated: 2026-07-14
 
 与其他章节侧重单一方法不同，第17章在介绍方法的同时以相当篇幅展开了对元分析的多维度批判，这一批判体系同时构成了循证教育争议中方法论层面的核心论证。全章三节按逻辑递进：先建立循证研究的制度背景和核心论证（17.1），再展开元分析的方法步骤与批判（17.2），最后处理更广泛的研究综合与系统综述（17.3）。
 
-作为方法工具参考：先区分元分析（定量综合[[Effect Size|效应量]]）与研究综合（更广泛的伞式方法，可包含[[Qualitative Research|定性研究]]）；元分析的四种操作模型和效应量计算方法可直接用于实际研究设计；元分析的批判体系帮助研究者在解释和引用元分析结论时保持方法论警觉。可结合[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（第34章）、[[Randomised Controlled Trials|随机对照试验]]（第16章）、[[Coding in Qualitative Research|编码]]与[[Reliability|信度]]（第10章）和[[Evidence-Based Education|证据本位教育]]的更大争议（第1章、第2章）。
+作为方法工具参考：先区分元分析（定量综合[[Effect Size|效应量]]）与研究综合（更广泛的伞式方法，可包含[[Qualitative Research|定性研究]]）；元分析的四种操作模型和效应量计算方法可直接用于实际研究设计；元分析的批判体系帮助研究者在解释和引用元分析结论时保持方法论警觉。可结合[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（第34章）、[[Randomised Controlled Trials|随机对照试验]]（第16章）、[[Coding in Qualitative Research|编码]]与[[Reliability|信度]]（第10章）和[[Evidence-Based Education|证据本位教育]]的更大争议。效应量批判见 [[Critique of Effect Size]]（第1章、第2章）。
 
 ---
 
