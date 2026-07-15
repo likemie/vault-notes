@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,8 +193,10 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
-    "wiki/templates/template-concept.md",
+    "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md",
+    "wiki/concepts/educational-philosophy/Critical Thinking.md",
     "wiki/concepts/educational-policy-reform/Class Size.md",
+    "wiki/templates/template-concept.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md",
     "wiki/methods/quantitative/Secondary Analysis.md",
     "wiki/concepts/research-methodology/Fitness for Purpose.md",
@@ -217,8 +219,6 @@
     "wiki/facts/uk/UK Centre for Evidence-based Policy.md",
     "wiki/facts/uk/CEM Centre.md",
     "wiki/methods/quantitative/Meta-analysis.md",
-    "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
-    "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Cole_2005_JRIE.md",
     "wiki/arguments/journal-articles/Journal of Research in International Education",
     "raw/031_17 Meta-analysis, research syntheses and systematic reviews.txt",
     "sources/Cole_2005_JRIE.pdf",
