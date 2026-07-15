@@ -109,7 +109,7 @@ updated: 2026-07-15
 
 仅缩减班级规模而不改变教学方式，通常不足以改善学习结果。Murnane 与 Levy 对 15 所德州小学的研究显示，13 所学校只是用额外资金缩小班额，五年后无显著变化；2 所学校同时改变教学法、提供健康服务并增加家长参与，成绩才升至城市平均水平。若只看第一年数据会判断"无效"，合并 15 所学校会得到小型负效应，只看 2 所变革学校则会得到很大正效应([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.101-102]])。
 
-新西兰 PACE 项目也支持同一判断：小班需要与教师专业发展结合，才能让教师发展出小班中才可能的教学方式([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.102]])。这使班级规模问题与 [[Programme Fidelity vs Adaptation]] 和 [[Local Knowledge in Evidence-Based Policy]] 直接相连。
+新西兰 PACE（Promoting Achievement through Class-size Enhancement）项目也支持同一判断：小班需要与教师专业发展结合，才能让教师发展出小班中才可能的教学方式([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.102]])。这使班级规模问题与 [[Programme Fidelity vs Adaptation]] 和 [[Local Knowledge in Evidence-Based Policy]] 直接相连。
 
 > [!info] 德州 15 校研究的解释价值
 > 这项研究的价值不只是"13 所无效、2 所有效"这个结果，而是说明不同分析边界会生成不同政策结论：只看第一年会得出无效果，合并 15 所学校会得到小型负效应，只看两所同步改变教学和支持条件的学校则会得到巨大正效应。班额缩减的效果因此不能脱离教学法、健康服务和家长参与等支持条件来解释([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.101-102]])。
@@ -120,9 +120,11 @@ updated: 2026-07-15
 
 > [!dev-timeline] 班级规模研究的演进
 > - **1978 — Glass & Smith 的开拓性元分析** 收集 77 项研究、725 项比较、近 90 万学生数据，首次用回归分析揭示班级规模与成就的负相关，发现控制质量是关键调节变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.357–360]]）。
-> - **1985–1989 — STAR 随机试验** 田纳西州大型随机试验，小班 13–17 人 vs 大班 22–26 人，为班级规模效应提供了最严格实验证据。
+> - **1985–1989 — STAR 随机试验** 田纳西州大型随机试验，小班 13–17 人 与 22–26 人的大班进行比较，为班级规模效应提供了最严格实验证据。
 > - **1996 — 加州全州推广** 试图将 STAR 证据全州推广，因合格教师和教室不足导致效果稀释，成为 RCT 外推争论的关键反例。
 > - **2000s–至今 — 证据分化与政策争议** 班级规模证据呈现年龄、学科、社会经济背景的分化模式，政策讨论从"是否有效"转向"对谁有效、以什么成本、在什么条件下"。
+
+---
 
 ## 实证数据
 
@@ -139,7 +141,7 @@ updated: 2026-07-15
 >
 > | 研究 | 比较或干预 | 结果变量 | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 小班 13–17 人 vs 大班 22–25 人（STAR 项目） | 标准化测试成绩 | — | — | $d = 0.62$–$0.66$ | — | 随机实验设计，两年后测量；学校代表性、随机分配和教师质量影响外推 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 小班 13–17 人 与 22–25 人的大班进行比较（STAR 项目） | 标准化测试成绩 | — | — | $d = 0.62$–$0.66$ | — | 随机实验设计，两年后测量；学校代表性、随机分配和教师质量影响外推 |
 > | 同上 | Smith & Glass 班级规模元分析 | 阅读 | — | — | $d = 0.30$ | — | 采用更严格纳入标准后的估计 |
 > | 同上 | Smith & Glass 班级规模元分析 | 数学 | — | — | $d = 0.32$ | — | 同上 |
 > | 同上 | 伦敦班级规模研究 | 读写与算术 | 199 校 / 330 班 / 7,142 生 | Reception 年有明显效果 | — | Year 1 后效果不再明显 | 自然主义设计；效果集中在低年级和低能力儿童 |
@@ -153,14 +155,16 @@ updated: 2026-07-15
 > [!claim] Glass & Smith (1978)
 > 该研究收集了 **77 项**研究、**725 项**比较、近 **900,000 名**学生的数据，使用回归分析整合为单一曲线，揭示了班级规模与成就之间明确的**负相关**。几乎没有任何特殊情境改变了这一基本关系，只有一个因素显著影响了曲线形态——**原始研究是否进行了充分的实验控制**。值得注意的是，不充分的控制倾向于**低估**而非高估班级规模效应。Glass et al. 据此按控制质量分层呈现效应量，而非报告单一平均值（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.357–360]]）。详见 [[Meta-analysis]]。
 
+---
 ### 命题二　班级规模缩减可能是昂贵且相对低效的政策方案，替代策略可能更具成本效益
 
 > [!concept-lens] 成本效益与替代方案
 > 即使班级规模效应真实存在，大规模缩减班额的政策成本极高。需要在同等预算下比较不同干预方案的相对效果。
 
 > [!claim] Pellegrini & Vivanet (2021)
-> [[French Class Size Reduction]] 中法国教育部将弱势地区一、二年级班额从 24 人降至 12 人，[[Campbell Collaboration]] 元分析显示阅读效应小而显著，数学效应为负且不显著。Pellegrini 与 Vivanet 的判断是：减少不平等当然必要，但班额缩减可能是昂贵且相对低效的方案；成人辅导等策略在若干元分析中显示出更强的学业成就证据（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
+> [[French Class Size Reduction]] 中法国教育部将弱势地区一、二年级班额从 24 人降至 12 人，[[Campbell Collaboration|Campbell 协作网（Campbell Collaboration）]] 元分析显示阅读效应小而显著，数学效应为负且不显著。Pellegrini 与 Vivanet 的判断是：减少不平等当然必要，但班额缩减可能是昂贵且相对低效的方案；成人辅导等策略在若干元分析中显示出更强的学业成就证据（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
 
+---
 ### 命题三　班级规模效应依赖于教学方式的同步改变，仅缩减人数不足以保证效果
 
 > [!concept-lens] 人数与教学方式的交互
@@ -169,6 +173,8 @@ updated: 2026-07-15
 > [!claim] Hattie (2015); Snook et al. (2009)
 > Hattie 重申班级缩减效应小的主要原因是教师很少因班级规模改变而改变教学方式。新西兰 PACE 项目也支持同一判断：小班需要与教师专业发展结合，才能产生小班中才可能的教学方式（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p.102]]）。高等教育领域尚无专门的班级规模元分析，讲座具有成本效率，其真正值得追问的问题不是人数本身，而是如何通过辅导、互动工具和课程对齐策略改造教学（Hattie, 2015, pp.83-84）。
 
+---
+
 ## 争议与批评
 
 > [!warning] 争议总览
@@ -176,39 +182,26 @@ updated: 2026-07-15
 
 ### Hattie 立场与批评方立场
 
-Hattie 认为班级规模平均效应约为 d = 0.20，虽为正但小于其常用参照值 d = 0.40，因此相对于高成本不一定值得。Snook 等批评者反驳说，d = 0.20 并非可忽略，而且高质量研究如 STAR 与 Smith & Glass 的结果明显更大，平均效应可能掩盖研究质量和情境差异([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.99-101]]; [[Argument_Hattie_2010_NZJES|Hattie, 2010, p.90]])。
-
-> [!info] Hattie 的澄清
-> Hattie 并不是说缩小班级规模完全无效。他的澄清是：缩小班额的平均效应为正，约 d = 0.20，但相对于他所设定的 d = 0.40 参照线和高昂财政成本，这项政策未必是最优投资。Hattie 同时指出，如果平均效应约为 0.20，而 STAR 等研究显示大正效应，那么[[Meta-analysis|元分析]]中也必然存在低效或负效应研究，平均值的意义正在于调节极端发现([[Argument_Hattie_2010_NZJES|Hattie, 2010, p.90]])。
-
-> [!info] 批评方的回应
-> Snook 等人认为 d = 0.20 本身不应被轻率视为"不重要"。他们用医学中的阿司匹林例子说明，小效应也可能有重要公共意义；并进一步指出，STAR、Smith & Glass、Blatchford 等高质量或高[[Observational and Correlational Research|相关性研究]]显示，班级规模的效果可能在特定条件下远大于 Hattie 的平均估计([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.99-101]])。
+> [!tension] Hattie 的关节点立场 vs Snook 的批评方立场
+> - **Hattie 的立场：平均值视角** 班级规模平均效应约 $d = 0.20$，虽为正但小于 $d = 0.40$ 参照线，相对于高成本不一定值得。Hattie 澄清他并非说缩小班额完全无效——平均效应为正，只是相对于高昂财政成本未必是最优投资。若平均效应约 0.20 而 STAR 显示大正效应，元分析中必然存在低效或负效应研究，平均值的作用正是调节极端发现（[[Argument_Hattie_2010_NZJES|Hattie, 2010, p.90]]）。
+> - **Snook 的立场：小效应也有重要公共意义** $d = 0.20$ 本身不应被轻率视为"不重要"。以医学中的阿司匹林为例，小效应也可能有重要公共意义。STAR、Smith & Glass、Blatchford 等高质量研究显示班级规模效果在特定条件下远大于 Hattie 的平均估计，平均效应可能掩盖研究质量和情境差异（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.99-101]]）。
 
 ### 分析单元问题
 
-Berger 认为班级规模本身不能作为充分分析单元，必须结合学生能力、社会背景、班级[[Heterogeneity|异质性]]、教师能力和资源来理解。许多学生一天中在不同班级和小组之间流动，学校也可能策略性地把小班用于低龄或学业困难学生，因此"班级规模效应"很容易混合其他政策安排（Nielsen & Klitmøller, 2021, pp.4-5）。
-
-Hattie 本人也承认，大班教学可能需要更熟练的教师、更高度结构化的教学和更侧重基本技能的过度学习；这意味着不同班级规模中的"教学"本身可能不同。Nielsen 与 Klitmøller 指出，若这些条件没有进入分析，单一班级规模[[Effect Size|效应量]]就必须被视为有问题（Nielsen & Klitmøller, 2021, p.5）。
+> [!critique-method] 分析单元与混淆因素
+> 班级规模本身不能作为充分分析单元，必须结合学生能力、社会背景、班级[[Heterogeneity|异质性]]、教师能力和资源来理解。许多学生一天中在不同班级和小组之间流动，学校也可能策略性地把小班用于低龄或学业困难学生，因此"班级规模效应"很容易混合其他政策安排。Hattie 本人也承认大班教学可能需要更熟练的教师和更高度结构化的教学，若这些条件没有进入分析，单一班级规模[[Effect Size|效应量]]就必须被视为有问题（Nielsen & Klitmøller, 2021, pp.4-5）。
 
 ### 元分析与语境扭曲
 
-Johnson & Janzen 指出，Hattie 在不同文本中使用的班级规模[[Meta-analysis|元分析]]数量和效应量并不一致，显示效应量会受研究者选择影响；他们还批评 Hattie 对 Glass & Smith 元分析的效应量提取不透明，并认为 [[California Class Size Reduction 1996]] 可能被用来支持"缩小班额不值得"的一般结论，但加州案例本身受教师与教室供给不足严重影响，不能直接代表普通课堂中的班额问题([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp.31-33]])。
-
-> [!note]- Johnson & Janzen 的五点解构
-> - 元分析选择不一致：[[Visible Learning]] 仅使用 3 项元分析得出 d = 0.21，而 Hattie 早期综合曾使用 14 项元分析并报告 d = 0.13，显示效应量受研究选择影响([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.33]])。
-> - Glass & Smith 提取不透明：Hattie 从 Glass & Smith 元分析中提取 d = 0.09，但该值并非原作者自己的结论，且与其"小班学习更多"的解释存在张力([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.32]])。
-> - 加州案例语境扭曲：[[California Class Size Reduction 1996]] 缺少合格教师和教室空间，因此不能直接当作普通班额缩减无效的证据。
-> - 论述权重异常：class size 在 Visible Learning 中出现 95 次，远高于排名第一的 self-reported grades，说明 Hattie 对"班额不重要"的论述投入了异常多的篇幅([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp.31-32]])。
-> - 定性维度缺失：即使接受成就效应量计算，仍应考察教师和学生在大小班中的经验差异，例如一对一时间、课堂社区、教师工作条件和标准化测试不可见的长期社会效益。
+> [!critique-method] 元分析的选择性与语境扭曲
+> Johnson & Janzen 指出 Hattie 在不同文本中使用的班级规模[[Meta-analysis|元分析]]数量和效应量并不一致：[[Visible Learning]] 仅使用 3 项元分析得出 $d = 0.21$，而早期综合曾使用 14 项元分析并报告 $d = 0.13$，显示效应量受研究选择影响。Hattie 从 Glass & Smith 元分析中提取 $d = 0.09$，该值并非原作者自己的结论。[[California Class Size Reduction 1996]] 可能被用来支持"缩小班额不值得"的一般结论，但加州案例本身受教师与教室供给不足严重影响。班级规模在 Visible Learning 中出现 95 次，远高于排名第一的 self-reported grades，说明 Hattie 对"班额不重要"的论述投入了异常多的篇幅。即使接受成就效应量计算，仍应考察教师和学生在大小班中的经验差异（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp.31-33]]）。
 
 ### 政策误用
 
-[[Treasury Briefing on Student-Teacher Ratios]] 显示，班级规模证据容易在财政紧缩语境中被选择性使用。O'Neill 指出，Treasury 用"教学质量是最大校内影响因素"的说法支持提高生师比，却忽略 Hattie 原文关于增加班级规模是糟糕政策的警告，也忽略新西兰中小学生师比已高于 [[OECD]] 均值([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.153, 157-159]])。
+> [!critique-logic] 证据在财政语境中的选择性使用
+> [[Treasury Briefing on Student-Teacher Ratios]] 显示班级规模证据容易在财政紧缩语境中被选择性使用。O'Neill 指出 Treasury 用"教学质量是最大校内影响因素"的说法支持提高生师比，却忽略 Hattie 原文关于增加班级规模是糟糕政策的警告，也忽略新西兰中小学生师比已高于 [[OECD]] 均值。这涉及三类[[Material Fallacies|实质谬误]]：术语模糊（"教学质量"无清晰定义）、证据局限被忽视（Hattie 综合跨越早教到高等教育，且多次提醒相关不等于因果）、结论无效（建议提高生师比与 Hattie 原文矛盾）（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.153-159]]）。
 
-> [!note]- Treasury 案例中的三类[[Material Fallacies|实质谬误]]
-> - 术语模糊：简报中的"教学质量"没有对应到 Hattie 证据中适用于中小学政策的清晰定义([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.153-155]])。
-> - 证据局限被忽视：Hattie 的综合跨越早教到高等教育，且 Hattie 多次提醒相关不等于因果、创新效应不等于日常课堂效应([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.155-157]])。
-> - 结论无效：简报建议提高生师比，但 Hattie 原文明确说增加班级规模是糟糕政策；OECD 数据也显示新西兰中小学生师比已高于 OECD 均值([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.157-159]])。
+---
 
 ## 应用案例
 
@@ -219,7 +212,7 @@ Johnson & Janzen 指出，Hattie 在不同文本中使用的班级规模[[Meta-a
 
 > [!evidence-grid-a] 美国案例
 > - [[Tennessee STAR Project 1985-1989]] — 大型随机试验，小班 13–17 人，大班 22–26 人；小班学生到二年级末约领先 3 个月，低收入和少数族裔学生受益更大，但 Wiliam 指出其学校代表性、[[Random Assignment|随机分配]]和教师质量条件都影响外推([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.5-7]])。
-- [[California Class Size Reduction 1996]] — 试图把 STAR 证据全州推广，但合格教师和教室不足，导致新增教师质量下降且负担集中在弱势学校；这是 [[Programme Fidelity vs Adaptation]] 和 [[Randomised Controlled Trials|RCT]] 外推争论中的关键反例([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.17-18]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.33]])。
+- [[California Class Size Reduction 1996]] — 试图把 STAR 证据全州推广，但合格教师和教室不足，导致新增教师质量下降且负担集中在弱势学校；这是 [[Programme Fidelity vs Adaptation]] 和 [[Randomised Controlled Trials|随机对照试验（Randomised Controlled Trial，RCT）]] 外推争论中的关键反例([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, pp.17-18]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.33]])。
 - 德州 15 校研究 — 仅缩小班额的 13 所学校五年后无显著变化；同时改变教学法、健康服务和家长参与的 2 所学校成绩改善，说明班额政策与教学和支持系统交互([[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.101-102]])。
 
 ### 英国
