@@ -8481,8 +8481,7 @@
     "type": "method",
     "path": "wiki/methods/mixed/Action Research.md",
     "aliases": [
-      "行动研究",
-      "participatory action research"
+      "行动研究"
     ]
   },
   {
@@ -8812,6 +8811,16 @@
     ]
   },
   {
+    "title": "Delphi Technique",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Delphi Technique.md",
+    "aliases": [
+      "德尔菲技术",
+      "Delphi method",
+      "德尔菲法"
+    ]
+  },
+  {
     "title": "Descriptive Methods",
     "type": "method",
     "path": "wiki/methods/qualitative/Descriptive Methods.md",
@@ -8973,6 +8982,15 @@
     ]
   },
   {
+    "title": "Nominal Group Technique",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Nominal Group Technique.md",
+    "aliases": [
+      "名义小组技术",
+      "NGT"
+    ]
+  },
+  {
     "title": "Non-participant Observation",
     "type": "method",
     "path": "wiki/methods/qualitative/Non-participant Observation.md",
@@ -9011,6 +9029,15 @@
     "aliases": [
       "参与观察",
       "participant observer"
+    ]
+  },
+  {
+    "title": "Participatory Action Research",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Participatory Action Research.md",
+    "aliases": [
+      "参与式行动研究",
+      "PAR"
     ]
   },
   {
@@ -10727,6 +10754,16 @@
     "aliases": [
       "尤尔根·哈贝马斯",
       "Habermas"
+    ]
+  },
+  {
+    "title": "Kurt Lewin",
+    "type": "person",
+    "path": "wiki/persons/germany/Kurt Lewin.md",
+    "aliases": [
+      "库尔特·勒温",
+      "勒温",
+      "Lewin, K."
     ]
   },
   {
@@ -14485,6 +14522,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

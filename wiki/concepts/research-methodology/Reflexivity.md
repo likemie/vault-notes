@@ -8,10 +8,10 @@ aliases:
 summary: "研究者反思自身角色、背景和立场如何塑造研究解释的核心概念。在现象学和俗民方法学中有双重哲学根基，在自然主义民族志中更是对客观现实概念本身的质疑。"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - research-methodology
   - qualitative-research
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Research Question]]"
   - "[[Memos]]"
+  - "[[Epistemology]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Backyard Research]]"
   - "[[Operationalization]]"
@@ -32,6 +33,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Ethnography]]"
+  - "[[Action Research]]"
 related_persons:
   - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
@@ -40,10 +42,11 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-07-11
+updated: 2026-07-18
 ---
 
 # Reflexivity
@@ -118,6 +121,18 @@ McCormick & James（1988: 191）进一步论述了操作含义：高度的反身
 
 ---
 
+## 反身性在行动研究中的位置
+
+在[[Action Research|行动研究]]中，反身性是核心要素，因为研究者同时也是参与者和实践者——他们处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983: 14）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
+
+Hall（1996: 29）指出反身性是解放性行动研究的构成要素和[[Epistemology|认识论]]基础，因其采取如下知识建构观点：(a) 数据是真实的并反映所有参与者的经验；(b) 所有研究者之间存在民主关系——研究者的观点（可能是理论负载的）并不优先于参与者的观点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
+
+在行动研究中，反身性要求研究者对自身作为参与者-实践者-研究者对研究过程的影响保持自我意识——自身的价值观、态度、知觉、观点、行动、感受等如何进入所研究的情境（类似于辅导中"反移情"的概念）。参与者-实践者-研究者需要将同样的批判审视应用于自己和他人以及研究。
+
+反身性也涉及对可能偏见的意识：实践者同时也是研究者，可能并非完全无私（Newby, 2010: 64）——例如为给高级管理者留下印象而呈现更乐观的结果，或为争取更多资源而呈现比实际更消极的结果。在这里，伦理、效度和政治议程交汇。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 295)]]
+
+---
+
 ## 相关概念
 
 > [!entry-map]
@@ -135,4 +150,5 @@ McCormick & James（1988: 191）进一步论述了操作含义：高度的反身
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将反身性定位为[[Qualitative Research|质性研究]]的核心特征之一，强调过去经验与研究之间的关联以及经验如何塑造解释。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 阐述反身性的双重哲学根基：舒茨的[[Phenomenology|现象学]]反思性（时间性、回顾性）和加芬克尔的[[Ethnomethodology|俗民方法学]]反思性（社会性、构成性）。
-> - Cohen et al. — 在自然主义[[Ethnography|民族志]]的语境中展开反身性：Hammersley & Atkinson 的"研究者是卓越的研究工具"、Preissle 的中立性质疑、Cooley 的镜中自我、McCormick & James 的[[Operationalization|操作化]]监控，以及在[[Critical Ethnography|批判民族志]]中升级为政治行动主义。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch11)]] — 在自然主义[[Ethnography|民族志]]的语境中展开反身性：Hammersley & Atkinson 的"研究者是卓越的研究工具"、Preissle 的中立性质疑、Cooley 的镜中自我、McCormick & James 的[[Operationalization|操作化]]监控，以及在[[Critical Ethnography|批判民族志]]中升级为政治行动主义。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 在[[Action Research|行动研究]]语境中阐述反身性的功能：作为解放性行动研究的构成要素和[[Epistemology|认识论]]基础（Hall, 1996），以及研究者同时作为实践者身份对偏见和伦理的自我审视（Newby, 2010）。

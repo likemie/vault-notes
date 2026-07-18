@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -39,8 +39,10 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Reliability]]"
+  - "[[Critique of Effect Size]]"
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
+  - "[[Critique of Evidence-Based Education]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Sample Size Determination]]"
@@ -127,23 +129,23 @@ updated: 2026-07-15
 
 与其他章节侧重单一方法不同，第17章在介绍方法的同时以相当篇幅展开了对元分析的多维度批判，这一批判体系同时构成了循证教育争议中方法论层面的核心论证。全章三节按逻辑递进：先建立循证研究的制度背景和核心论证（17.1），再展开元分析的方法步骤与批判（17.2），最后处理更广泛的研究综合与系统综述（17.3）。
 
-作为方法工具参考：先区分元分析（定量综合[[Effect Size|效应量]]）与研究综合（更广泛的伞式方法，可包含[[Qualitative Research|定性研究]]）；元分析的四种操作模型和效应量计算方法可直接用于实际研究设计；元分析的批判体系帮助研究者在解释和引用元分析结论时保持方法论警觉。可结合[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（第34章）、[[Randomised Controlled Trials|随机对照试验]]（第16章）、[[Coding in Qualitative Research|编码]]与[[Reliability|信度]]（第10章）和[[Evidence-Based Education|证据本位教育]]的更大争议。效应量批判见 [[Critique of Effect Size]]（第1章、第2章）。
+作为方法工具参考：先区分元分析（定量综合[[Effect Size|效应量]]）与研究综合（更广泛的伞式方法，可包含[[Qualitative Research|定性研究]]）；元分析的四种操作模型和效应量计算方法可直接用于实际研究设计；元分析的批判体系帮助研究者在解释和引用元分析结论时保持方法论警觉。可结合[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（第34章）、[[Randomised Controlled Trials|随机对照试验]]（第16章）、[[Coding in Qualitative Research|编码]]与[[Reliability|信度]]（第10章）和[[Evidence-Based Education|证据本位教育]]的更大争议。[[Critique of Effect Size|效应量批判]]见 [[Critique of Effect Size]]（第1章、第2章）。
 
 ---
 
 ### 17.1 循证研究
 
-循证教育的影响力体现在一系列制度基础设施的建立上（pp. 329–335）：
+随着循证教育的推进，元分析和系统综述日益成为聚合多项研究、为政策制定和规划提供证据的方法工具（Sebba, 1999; Thomas & Pring, 2004）。其影响力体现在一系列制度基础设施的建立上（pp. 329–335）：
 
 > [!ref-table] 循证教育的制度基础设施（pp. 329–335）
 > | 机构 | 隶属与说明 | 功能与运营状况 |
 > |---|---|---|
 > | [[EPPI-Centre]]（[eppi.ioe.ac.uk](https://eppi.ioe.ac.uk/cms/)） | 证据知情政策与实践信息与协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre），原伦敦大学教育学院，现隶属于伦敦大学学院（University College London，UCL） | 教育与社会政策领域的系统综述方法论开发、证据使用研究和培训。持续运营中，由 David Gough 教授领导 |
 > | [[Campbell Collaboration]]（[campbellcollaboration.org](https://www.campbellcollaboration.org/)） | Campbell 协作网，前身为社会、心理、教育和犯罪学控制试验注册库（SPECTR）（Milwain, 1998; Milwain et al., 1999），Cochrane 协作网在教育和社会科学领域的平行机构 | 社会与教育领域控制试验的系统综述与元分析。持续运营中 |
-> | [[CEM Centre]]（[cem.org](https://www.cem.org/)） | 原属杜伦大学，由 Fitz-Gibbon 和 Tymms 创立，展示指标系统与实验方法结合以提供因果推断证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
+> | [[CEM Centre]]（[cem.org](https://www.cem.org/)） | 原属杜伦大学，由 Fitz-Gibbon 和 Tymms 创立，展示指标系统与实验方法结合以提供[[Causality\|因果推断]]证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
 > | [[UK Centre for Evidence-based Policy]]（[ukri.org/councils/esrc](https://www.ukri.org/councils/esrc/)） | 原属英国经济与社会研究理事会（Economic and Social Research Council，ESRC），ESRC 后并入英国国家科研与创新署（UK Research and Innovation，UKRI） | 推动循证政策研究与实践。ESRC 原有专门页面已下线，职能已整合至 UKRI 体系 |
 > | [[Evidence Network]]（[kcl.ac.uk/policy-institute](https://www.kcl.ac.uk/policy-institute)） | 原属伦敦国王学院 | 原为证据网络的建立与推广。网址已废弃，国王学院现由政策研究所（Policy Institute）承担类似职能 |
-> | [[What Works Clearinghouse]]（[ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc/)） | 美国教育部教育科学研究所（Institute of Education Sciences，IES），附带实践建议报告 | 教育干预证据的系统性审查与评级。2025 年 2 月因联邦合同取消而停止新审阅，网站可能保留为存档 |
+> | [[What Works Clearinghouse]]（[ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc/)） | 美国教育部教育科学研究所（Institute of Education Sciences，IES），附带[[Recommendations for Practice\|实践建议]]报告 | 教育干预证据的系统性审查与评级。2025 年 2 月因联邦合同取消而停止新审阅，网站可能保留为存档 |
 > | [[Research Informed Practice Site]]（[gov.uk/dfe](https://www.gov.uk/government/organisations/department-for-education)） | 原属英国儿童、学校与家庭部（Department for Children, Schools and Families，DCSF），DCSF 于 2010 年改组为教育部（Department for Education，DfE） | 提供研究主题与证据资源。原网址已废弃，相关职能并入英国教育部 GOV.UK 体系
 
 以上七个机构构成了本教材第七版出版时（2011 年）循证教育制度基础设施的核心。此后二十余年间，该领域扩展至更多国家和机构类型，详见 [[Evidence-Based Education Institutions]]。对 EBE 的系统性批判见 [[Critique of Evidence-Based Education]]。
@@ -156,7 +158,7 @@ updated: 2026-07-15
 
 > [!dev-timeline] 从 Cochrane 到 Campbell：循证实践的制度扩散
 > - **1972 — Cochrane 的奠基** Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导随机对照试验及其系统综述和[[Document|文献]]记录，推动了 Cochrane 协作网的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp. 336–337）。
-> - **1990s 后期 — 进入社会政策与教育** 循证实践进入社会政策、社会工作（MacDonald, 1997）和教育（Fitz-Gibbon, 1997）。在教育研究前沿的是伦敦大学 EPPI-Centre 和杜伦大学 CEM 中心（pp. 337–338）。
+> - **1990s 后期 — 进入社会政策与教育** 循证实践进入社会政策、社会工作（MacDonald, 1997）和教育（Fitz-Gibbon, 1997）。在教育研究前沿的是伦敦大学 EPPI-Centre 和杜伦大学 CEM 中心，Fitz-Gibbon 和 Tymms 展示了指标系统如何与实验方法结合，为"我们如何知道什么有效？"提供因果推断证据（Fitz-Gibbon, 1999: 33）（pp. 337–338）。
 > - **2000 — Campbell 协作网成立** SPECTR 注册库转移至 Campbell 协作网，成为 Cochrane 在教育和社会科学领域的平行机构（p. 330）。
 
 ---
@@ -172,7 +174,7 @@ Anderson & Biddle（1991）和 Fitz-Gibbon 指出：政策制定者在制定政�
 > 2. **解决问题与避免有害程序** 识别并避免可能对学生产生负面影响的做法
 > 3. **创造改进** 引导更有效的学习
 >
-> Fitz-Gibbon 进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]。统计显著性在大样本中容易获得（Fitz-Gibbon, 1997: 118; Kline, 2004），而效应量受[[Sample Size Determination|样本量]]影响的方式更微妙，可以直接进入元分析的数据聚合（Glass et al., 1981; Lipsey, 1992; Coe, 2000, 2002）。Carver（1978）、Thompson（1994, 1996, 1998, 2001, 2002）和 Coe（2000）等人由此主张挣脱统计显著性的束缚，转向效应量这一更精细的尺度。在以上讨论的基础上，Fitz-Gibbon 提出了另一层转向：决定一个研究发现有没有用的，应该是[[Fitness for Purpose|目的适配性]]（fitness for purpose）——效应量是否满足研究需要，而不是 p 值是否小于 0.05。p < 0.05 这个门槛来自约定俗成，样本足够大时再微小的效应也能跨过去，样本太小时真正有效的干预反而跨不过去，用它来裁决一个研究的价值是武断的（pp. 339–340）。
+> Fitz-Gibbon 进一步主张证据应检验[[Effect Size|效应量]]而非[[Statistical Significance|统计显著性]]。统计显著性在大样本中容易获得（Fitz-Gibbon, 1997: 118; Kline, 2004），而效应量受[[Sample Size Determination|样本量]]影响的方式更微妙，可以直接进入元分析的数据聚合（Glass et al., 1981; Lipsey, 1992; Coe, 2000, 2002）。Carver（1978）、Thompson（1994, 1996, 1998, 2001, 2002; Thompson & Snyder, 1997）和 Coe（2000）等人由此主张挣脱统计显著性的束缚，转向效应量这一更精细的尺度。在以上讨论的基础上，Fitz-Gibbon 提出了另一层转向：决定一个研究发现有没有用的，应该是[[Fitness for Purpose|目的适配性]]（fitness for purpose）——效应量是否满足研究需要，而不是 p 值是否小于 0.05。p < 0.05 这个门槛来自约定俗成，样本足够大时再微小的效应也能跨过去，样本太小时真正有效的干预反而跨不过去，用它来裁决一个研究的价值是武断的（pp. 339–340）。
 
 > [!warning] 效应量转向的边界
 > 虽然效应量可能比统计显著性更精细，但小样本效应的[[External Validity|可推广性]]问题并不会因为使用效应量而消失，将小样本数据迁移到更大图景时仍面临可推广性挑战（pp. 340）。
@@ -186,7 +188,7 @@ Anderson & Biddle（1991）和 Fitz-Gibbon 指出：政策制定者在制定政�
 >
 > *It is bordering on the unethical to implement untried and untested recommendations in educational practice, just as it is unethical to use untested products and procedures on hospital patients without their consent.*
 
-全球指标系统的发展，从评估和考试数据、检查发现到国内和国际成就比较再到目标设定，都证明了证据的重要性。循证教育的主张是：政策制定要依靠信息，政策决策要依据现有最佳证据，而不是直觉、意识形态或政治意志（pp. 341）。
+Fitz-Gibbon（1996）的提醒不会消失：教育界需要证据作为其判断和行动的基础。全球指标系统的发展，从评估和考试数据、检查发现到国内和国际成就比较再到目标设定，都证明了证据的重要性。循证教育的主张是：政策制定要依靠信息，政策决策要依据现有最佳证据，而不是直觉、意识形态或政治意志（pp. 341）。
 
 ---
 
@@ -197,7 +199,7 @@ Bhadwal & Panda（1991）的研究是探索课堂方法有效性的典型例子�
 > [!def] 元分析的核心定义
 > 元分析（Meta-analysis）是"对分析的分析"（the analysis of other analyses），即聚合和合并可比较研究的结果以发现主要效应。定量元分析的核心操作是：对多项独立研究的[[Effect Size|效应量]]进行统计综合，同时分析效应量与纳入研究特征之间的关系。统计处理用于减弱污染因素的影响，如[[Sampling Error|抽样误差]]、测量误差和范围限制。研究发现被编码为实质性类别以便概括（Glass et al., 1981），使传统叙事综述会错过的发现一致性得以揭示。质性元分析同样被倡导（p. 341–343）。
 >
-> 该术语由 Glass（1976）在美国教育研究协会主席演说中首次提出，Glass et al.（1981）将其发展为系统方法。早期元分析使用组合概率和结果落入定义类别的频率（如在给定水平上是否显著），但样本量差异混淆了严谨性：大样本可使微小效应显著，而小样本的重要数据可能因未达显著性而被遗漏（Light & Smith, 1971; Glass et al., 1981; McGaw, 1997: 371）（pp. 343–344）。
+> 该术语由 Glass（1976）在美国教育研究协会主席演说中首次提出，Glass et al.（1978, 1981）将其发展为系统方法，此后 Hedges & Olkin（1985）、Hedges（1990）和 Rosenthal（1991）等人进一步推进了这一方法。早期元分析使用组合概率和结果落入定义类别的频率（如在给定水平上是否显著），但样本量差异混淆了严谨性：大样本可使微小效应显著，而小样本的重要数据可能因未达显著性而被遗漏（Light & Smith, 1971; Glass et al., 1981; McGaw, 1997: 371）（pp. 343–344）。
 
 **三层分析（Glass, 1976; Glass et al., 1981）**（p. 344）：
 
@@ -326,7 +328,7 @@ Glass & Smith（1978）的[[Class Size|班级规模]]研究是元分析的经典
 
 #### 对元分析的批判与回应
 
-第17章以较大篇幅（pp. 356–383）展开了对[[Meta-analysis|元分析]]的多维度讨论。Wolf（1986: 14–17）将元分析面临的主要批评系统化为六个方面，随后用十条建议给出了程序层面的改进方案。以下先梳理八项核心批判及支持者的当场回应，再单独列出 Wolf 的改进方案和 Thomas & Pring 的补充。详细批判见 [[Critique of Meta-analysis]]。
+第17章以较大篇幅（pp. 356–383）展开了对[[Meta-analysis|元分析]]的多维度讨论。Wolf（1986: 14–17）将元分析面临的主要批评系统化为六个方面（亦见 Elliott, 2001; Thomas & Pring, 2004），随后用十条建议给出了程序层面的改进方案。以下先梳理八项核心批判及支持者的当场回应，再单独列出 Wolf 的改进方案和 Thomas & Pring 的补充。详细批判见 [[Critique of Meta-analysis]]。
 
 ##### 维度一：研究可比性——苹果与橙子问题
 
@@ -343,7 +345,7 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 > 这一追问直指元分析的前提：如果连是否在测量同一个东西都无法确认，合并效应量就失去了逻辑基础。
 
 > [!success] 支持者的回应与 Glass 本人的保留
-> 支持者回应：研究间差异可以被[[Coding in Qualitative Research|编码]]并在分析中处理。但这将问题从"是否可合并"转移为"如何更好地合并"，并未消除根本性的不可比问题。最值得玩味的是，Glass 本人，即元分析的创始人，也发出警告：元分析的结果永远不应该是平均值，而应该是一张图（Robinson, 2004, p. 29, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 119]]）。这句话既是方法论忠告，也隐含了对平均效应量使用的深刻保留（pp. 370–372）。
+> Smith & Glass（1977）、Glass et al.（1981: 218–220）、Slavin（1995）和 Evans et al.（2000）回应了这些批评，主张研究间差异可以被[[Coding in Qualitative Research|编码]]并在分析中处理。但这将问题从"是否可合并"转移为"如何更好地合并"，并未消除根本性的不可比问题。最值得玩味的是，Glass 本人，即元分析的创始人，也发出警告：元分析的结果永远不应该是平均值，而应该是一张图（Robinson, 2004, p. 29, cited in [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 119]]）。这句话既是方法论忠告，也隐含了对平均效应量使用的深刻保留（pp. 370–372）。
 
 ##### 维度二：输入质量——垃圾进，垃圾出
 
@@ -406,6 +408,8 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 > RCT 经常使用聚合和平均数据而非个体数据（Clarke & Dawson, 1999: 130），可能忽视数据的分布或传播。在医学 RCT 中，为确保因果关系清晰，患有多种疾病的患者可能被故意排除，导致样本非常小。在教育中同样如此，为了建立清晰的因果关系而将样本缩减至子集，可能产生统计上真实但微不足道的结果，无法推广到更广泛的人群或情境（pp. 376–377）。
 >
 > 简单通过元分析累积 RCT 结果是一种验证方式，延长 RCT 的持续时间也是一种方式，但这忽视了 RCT 周围发生的其他后果和活动。以癌症治疗为例：多项 RCT 可能显示某种治疗能有效减少癌症，这似乎为使用该治疗提供了充分理由，但治疗同时可能带来大量其他后果，在患者看来比癌症本身更糟（pp. 377）。
+>
+> RCT 在抽样上面临一个两难困境：样本大不一定好，样本小同样不行——"big is not necessarily beautiful, but neither is small!"（p. 377）。
 
 > [!critique] [[Random Assignment|随机化]]的伦理困境
 > 在医学和教育中，随机化引发了伦理质疑（pp. 378–380）：
@@ -416,7 +420,7 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 > - **自然正义冲突** Wilkins（1969）指出：在某些情况下随机化可能违反自然正义。例如，如果学校要试行某种惩罚措施，为了实验利益而豁免部分违规者接受惩罚，会与自然正义原则矛盾（Clarke & Dawson, 1999: 98）
 
 > [!critique-method] 实验死亡率与[[Attrition|样本流失]]
-> Clarke & Dawson（1999: 130）指出，在医疗保健中治疗可能产生不良反应，导致患者退出实验；其他人也可能直接离开。这导致"实验死亡率"或流失率的问题（Campbell & Stanley, 1963）。这会破坏对照组和实验组之间的预设对等性，而关于参与者在组内和组间的范围和特征，这种对等性本就存疑。
+> Clarke & Dawson（1999: 130）指出，在医疗保健中治疗可能产生不良反应，导致患者退出实验；其他人也可能直接离开。这导致"实验死亡率"或流失率的问题（Campbell & Stanley, 1963）。教育领域对这一问题的处理方式则不那么清晰（cf. Rossi & Freeman, 1993）。这会破坏对照组和实验组之间的预设对等性，而关于参与者在组内和组间的范围和特征，这种对等性本就存疑。
 >
 > 随着组的构成发生变化，无论多轻微（混沌理论提醒微小变化可产生巨大效应），情境的动态也在变化，研究协议、条件、背景和内容的一致性和可比性被破坏。应对这一问题需要不仅识别样本分配到控制组和实验组的精确因素，还需要识别两组之间的显著差异，判断两者之间的不相似是否可能超过相似（pp. 381–382）。
 
@@ -486,6 +490,8 @@ Thomas & Pring（2004: 54–55）从研究设计层面补充了元分析应明�
 >
 > **系统综述（Systematic Review）**是研究综合的一种更严格、更少"叙事"色彩的形式：要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议（Evans & Benefield, 2001: 529; Hemsley-Brown & Sharp, 2003）。正是这些标准使系统综述区别于传统叙事综述，后者更宽泛且选择标准更不明确（pp. 384–385）。
 
+研究综合追求两个并行目标：发现表面上相似的主要研究之间的**一致性**，同时**解释研究之间的变异性（Cooper & Hedges, 1994: 4）**，从而在所用研究的限度和情境内得出推广性结论（Davies, 2000: 366）。
+
 ---
 
 #### 研究综合的类型
@@ -507,6 +513,8 @@ Thomas & Pring（2004: 54–55）从研究设计层面补充了元分析应明�
 > | **内容分析** | 对研究内容的系统分析 | — |
 > | **案例调查** | 对多个[[Case Study\|案例研究]]的调查综合 | — |
 > | **质性比较分析** | 跨案例的质性比较 | — |
+
+关于定性研究综合的进一步介绍，教材指引读者参阅 Howell Major & Savin-Baden（2010）（p. 385）。
 
 ---
 

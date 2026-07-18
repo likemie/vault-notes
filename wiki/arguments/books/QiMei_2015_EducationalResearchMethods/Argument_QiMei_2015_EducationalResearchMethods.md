@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 106
+argument_related_count: 107
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -134,6 +134,7 @@ related_methods:
   - "[[Quota Sampling]]"
   - "[[Mixed Methods Research]]"
 related_persons:
+  - "[[Kurt Lewin]]"
   - "[[Jean Piaget]]"
   - "[[Fei Xiaotong]]"
 related_facts: []
@@ -160,7 +161,7 @@ updated: 2026-07-13
 > | 第6章 [[Case Study\|案例研究]] | 案例研究的含义与六项特点、六种分类体系、五步研究程序、质量检验标准以及优势与局限。 | [[Case Study]] |
 > | 第7章 [[Ethnography\|人类学研究]]方法 | 人类学/民族志/民族学的概念区分、[[Fieldwork\|田野调查]]的含义与特点、[[Participant Observation\|参与观察]]与访谈的资料搜集方式、类属分析与情境分析两种资料分析方法。 | [[Ethnography]]、[[Participant Observation]]、[[Rich and Thick Description\|深描]] |
 > | 第8章 [[Grounded Theory\|扎根理论]]及其应用 | 扎根理论的起源与特点、四种[[Coding in Qualitative Research\|编码]]程序（初始编码→轴心编码→聚焦编码→理论编码）、理论性抽样与理论建构、在教育研究中的适用性。 | [[Grounded Theory]]、[[Coding in Qualitative Research]]、[[Theoretical Sampling]] |
-> | 第9章 [[Action Research\|行动研究]] | 行动研究的定义与四项关键特征、勒温螺旋循环与凯米斯改进模型、九步研究过程、头脑风暴/三角形观察/中立主席三种方法、研究报告与叙事报告两种表述。 | [[Action Research]] |
+> | 第9章 [[Action Research\|行动研究]] | 行动研究的定义与四项关键特征、[[Kurt Lewin\|勒温]]螺旋循环与凯米斯改进模型、九步研究过程、头脑风暴/三角形观察/中立主席三种方法、研究报告与叙事报告两种表述。 | [[Action Research]] |
 > | 第10章 统计分析 | 变量分类与编码、基础统计分析（频数/集中趋势/离散程度/交叉分析）、假设检验（[[t-test\|t检验]]/[[Chi-Squared Test\|卡方检验]]/[[Analysis of Variance\|方差分析]]）、SPSS操作实例。 | [[Descriptive Analysis]]、[[Statistical Significance]]、[[Effect Size]] |
 > | 第11章 研究报告的撰写 | 研究报告的总体框架与基本格式（题目/署名/摘要/关键词/正文/参考文献）、不同类型报告的正文结构差异与撰写要求。 | [[Abstract]]、[[Research Writing Script]] |
 
@@ -968,7 +969,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 #### 章节内容
 
 > [!def] 行动研究（Action Research）
-> 研究者与实践者平等合作，通过计划→行动→观察→反思的螺旋循环过程，解决社会或教育情境中实际问题的一种[[Paradigm|研究范式]]。其基本目的是**改进实践而不是构建理论**。20 世纪 40 年代由科里尔（Collier）和勒温（Lewin）提出，60 年代在英国因"教师即研究者"运动复兴，强调"在研究中行动，在行动中研究"。
+> 研究者与实践者平等合作，通过计划→行动→观察→反思的螺旋循环过程，解决社会或教育情境中实际问题的一种[[Paradigm|研究范式]]。其基本目的是**改进实践而不是构建理论**。20 世纪 40 年代由科里尔（Collier）和[[Kurt Lewin|勒温]]（Lewin）提出，60 年代在英国因"教师即研究者"运动复兴，强调"在研究中行动，在行动中研究"。
 
 行动研究具有四项关键特征：
 

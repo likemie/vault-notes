@@ -4,10 +4,10 @@ aliases: [复杂性理论, complexity science, complex adaptive systems, 复杂�
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 25
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags: [theory/complexity, paradigm/complexity, theme/research-philosophy]
 related_concepts:
   - "[[Paradigm]]"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Reflexivity]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -38,10 +39,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 confidence: medium
 status: draft
 created: 2026-06-13
-updated: 2026-07-13
+updated: 2026-07-18
 ---
 # Complexity Theory
 
@@ -116,6 +118,23 @@ updated: 2026-07-13
 > - **谨慎** 需要明确的[[Causality|因果推断]]时——复杂性理论本身不能替代因果推断方法，只能框定其适用范围。
 > - **不适合** 需要确定单一干预的因果效应且系统相对封闭时（如药物实验）——在这种条件下，传统实验方法仍然是合适的选择。
 > - **常见误用** 以"复杂性"为借口放弃严谨——复杂性理论要求更精细的研究设计，而非更随意的方法选择。
+
+## 与行动研究的深层互补
+
+Phelps & Graham（2010: 184）论证[[Action Research|行动研究]]与复杂性理论之间存在"深层互补性"——行动研究"可以很容易地容纳复杂性理论的关键信条"[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 278–279)]]：
+
+> [!feature] 行动研究与复杂性理论的共鸣点
+> - **接受系统的不可预测性** 行动研究接受系统是不可预测的、开放的和非线性的
+> - **与环境适应共鸣** 行动研究与适应环境的问题共鸣
+> - **可导致分叉（bifurcation）** 行动研究可导致系统从一个稳定点移向另一个（p. 190）
+> - **颂扬参与者互动** 行动研究颂扬参与者的互动
+> - **需要反馈和前馈** 行动研究既需要反馈也需要前馈
+> - **具有[[Reflexivity|反思性]]** 行动研究是反思性的
+> - **对异常值感兴趣** 行动研究对"异常值"或离群值表现出兴趣（可导致重大变化，p. 194）
+> - **不控制[[Variable|变量]]** 行动研究不关心控制变量
+> - **接受系统的复杂性** 行动研究接受其所在的系统是复杂和动态的
+
+Davis & Sumara（2005: 455）在自组织的语境中强化了这一观点："连贯的集体行为和特征在个体行动者的活动和互动中[[Emergence|涌现]]。"Phelps & Graham（2010: 195）力图表明行动研究像复杂性理论一样，对[[Positivism|实证主义]]有一定反感。
 
 ## 关键引用
 
