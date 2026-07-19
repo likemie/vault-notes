@@ -6,9 +6,9 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 35
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/action-research
@@ -224,7 +224,7 @@ updated: 2026-07-19
 > [!info] 从[[Kurt Lewin|勒温]]螺旋到操作模型
 > 行动研究的核心操作逻辑是[[Kurt Lewin|勒温]]（Lewin, 1946, 1948）提出的螺旋循环——计划、行动、观察、反思，每一圈都在前一圈基础上深化。Kemmis 将其发展为计划→行动→观察→反思→再计划的迭代模型。勒温（1948, p. 205）视之为计划、行动和查证结果的螺旋。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 279–280)]]
 >
-> [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]]的九步程序和 Cohen et al.（2011）的综合八阶段模型从不同角度补充了这一基础框架：九步程序侧重实践操作流程，综合模型则增加了协商、[[Document|文献]]审查和正式传播等学术规范环节。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.9)]]
+> [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]]的九步程序和[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011)]]的综合八阶段模型从不同角度补充了这一基础框架：九步程序侧重实践操作流程，综合模型则增加了协商、[[Document|文献]]审查和正式传播等学术规范环节。
 
 > [!proc] 九步程序
 > 1. **发现问题** 问题来源于社会或教育情境和实践，需要提炼出[[Research Question|研究问题]]
