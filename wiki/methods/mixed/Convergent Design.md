@@ -20,6 +20,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
+  - "[[Questionnaire]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm]]"
   - "[[Dependent Variable]]"
@@ -92,7 +93,7 @@ updated: 2026-06-30
 聚敛式设计尤其适合以下情境([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.136–137]])：
 - **综合回应**[[Research Question|研究问题]]需要量化证据和质性情境理解同时回应，单一方法不足以提供完整答案。
 - **互相验证** 研究者希望通过两类数据的互相验证增强结论的可[[Reliability|信度]]。
-- **资源同步** 研究资源和时间允许同时进行两类数据收集（如调查问卷与访谈同期开展）。
+- **资源同步** 研究资源和时间允许同时进行两类数据收集（如调查[[Questionnaire|问卷]]与访谈同期开展）。
 - **受众需求** 希望在一个研究项目中同时满足量化导向受众和质性导向受众的期待。
 
 ---

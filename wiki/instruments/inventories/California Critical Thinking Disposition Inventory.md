@@ -19,6 +19,7 @@ tags:
   - instrument/self-report
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Questionnaire]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods: []
@@ -39,7 +40,7 @@ updated: 2026-07-01
 
 ## 工具定位
 
-> [!instrument-profile] 加州[[Critical Thinking|批判性思维]]倾向问卷
+> [!instrument-profile] 加州[[Critical Thinking|批判性思维]]倾向[[Questionnaire|问卷]]
 > - **工具类型** 七十五题商业化自陈问卷。
 > - **开发者与年份** Insight Assessment (2000)。
 > - **测量目的** 测量个体将批判性思维作为自然思维习惯加以运用的倾向，而非直接测量任务中的批判性思维表现。

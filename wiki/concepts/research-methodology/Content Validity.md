@@ -15,6 +15,7 @@ tags:
   - method/research-methods
   - theme/validity
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[Construct Validity]]"
   - "[[Criterion-related Validity]]"
   - "[[Professional Judgment]]"
@@ -42,7 +43,7 @@ updated: 2026-06-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 内容效度评估的不是"测量结果是否准确"，而是"测量内容是否充分"——即测试或工具的项目集合是否公平地抽样了它所指向的更大内容领域。
-> - **用途** 在开发测试、问卷和评估工具时，内容效度是第一个需要解决的效度问题——如果工具根本没有测量正确的内容，其他效度（如[[Construct Validity|构念效度]]、[[Criterion-related Validity|效标关联效度]]）就无从谈起。
+> - **用途** 在开发测试、[[Questionnaire|问卷]]和评估工具时，内容效度是第一个需要解决的效度问题——如果工具根本没有测量正确的内容，其他效度（如[[Construct Validity|构念效度]]、[[Criterion-related Validity|效标关联效度]]）就无从谈起。
 > - **边界** 内容效度是**判断**问题而非**测量**问题（Kerlinger, 1986）。它不是通过相关系数或统计分析来证明的，而是基于[[Professional Judgment|专业判断]]来评估项目的相关性和抽样充分性。
 
 ---

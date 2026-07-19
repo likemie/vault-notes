@@ -19,6 +19,7 @@ tags:
   - reliability
 related_concepts:
   - "[[Reliability]]"
+  - "[[Questionnaire]]"
   - "[[Operationalization]]"
   - "[[Order Effects]]"
   - "[[Pre-test and Post-test]]"
@@ -45,7 +46,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 复本[[Reliability|信度]]（Parallel-Forms Reliability）
-> 复本信度是使用相似测量工具所得测量结果的一致性程度——即使用同一测量目标的不同测量工具（如两套难度、结构和内容相当的平行问卷），对同一组受试者施测，所得结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.5）。
+> 复本信度是使用相似测量工具所得测量结果的一致性程度——即使用同一测量目标的不同测量工具（如两套难度、结构和内容相当的平行[[Questionnaire|问卷]]），对同一组受试者施测，所得结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.5）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 复本信度是[[Reliability|信度]]作为**等值性（equivalence）**的[[Operationalization|操作化]]形式——衡量不同但等价工具之间分数的一致性，属于"跨形式之间一致性的等值系数"。
@@ -57,7 +58,7 @@ updated: 2026-07-13
 ## 核心要素
 
 > [!proc] 复本[[Reliability|信度]]评估步骤
-> 1. **开发平行版本** 设计两套在测试目标、内容结构、难度水平和区分度上高度趋同的测量工具（如问卷 A 卷与 B 卷）。
+> 1. **开发平行版本** 设计两套在测试目标、内容结构、难度水平和区分度上高度趋同的测量工具（如[[Questionnaire|问卷]] A 卷与 B 卷）。
 > 2. **施测** 对同一组受试者分别使用两套工具进行测量（可同时或间隔施测）。
 > 3. **计算相关系数** 一般使用皮尔逊积矩相关系数（[[Pearson Product-Moment Correlation]]）计算两组得分之间的一致性。
 > 4. **判定** 高相关表明两套工具具有复本信度，可互为替代使用。

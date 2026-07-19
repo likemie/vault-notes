@@ -5150,6 +5150,19 @@
     ]
   },
   {
+    "title": "Covering Letter",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Covering Letter.md",
+    "aliases": [
+      "封面信",
+      "cover letter",
+      "covering sheet",
+      "封面页",
+      "follow-up letter",
+      "跟进信"
+    ]
+  },
+  {
     "title": "Covert Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Covert Research.md",
@@ -5941,6 +5954,17 @@
     ]
   },
   {
+    "title": "Likert Scale",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Likert Scale.md",
+    "aliases": [
+      "李克特量表",
+      "Likert-type scale",
+      "Likert scaling",
+      "李克特式量表"
+    ]
+  },
+  {
     "title": "Linguistic Turn",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Linguistic Turn.md",
@@ -6529,6 +6553,17 @@
     ]
   },
   {
+    "title": "Questionnaire",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Questionnaire.md",
+    "aliases": [
+      "问卷",
+      "问卷调查",
+      "survey questionnaire",
+      "self-completion questionnaire"
+    ]
+  },
+  {
     "title": "Rapport in Qualitative Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Rapport in Qualitative Research.md",
@@ -6845,6 +6880,17 @@
       "自报偏差",
       "自我报告偏差",
       "self-reporting bias"
+    ]
+  },
+  {
+    "title": "Semantic Differential",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Semantic Differential.md",
+    "aliases": [
+      "语义差异量表",
+      "语义微分",
+      "semantic differential scale",
+      "Osgood semantic differential"
     ]
   },
   {
@@ -14644,6 +14690,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

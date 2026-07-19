@@ -27,6 +27,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Post Hoc Ergo Propter Hoc Fallacy]]"
+  - "[[Questionnaire]]"
   - "[[Alternative Hypothesis]]"
   - "[[Co-relational Study]]"
   - "[[Criterion Group Study]]"
@@ -84,7 +85,7 @@ updated: 2026-07-13
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Quasi-Experimental Designs|准实验设计]]（quasi-experiment），属于非[[Experimental Research|实验研究]]设计的一种伪实验形式（Spector, 1993, p. 42）。
-> - **数据收集** 回溯性数据（档案、记录、问卷、现有数据库）与当前数据（[[Dependent Variable|因变量]]测量）相结合。
+> - **数据收集** 回溯性数据（档案、记录、[[Questionnaire|问卷]]、现有数据库）与当前数据（[[Dependent Variable|因变量]]测量）相结合。
 > - **分析方法** 组间比较（[[t-test|t检验]]、[[Analysis of Variance|ANOVA]]）、相关分析、列联表分析。
 > - **辅助技术** 匹配、将额外[[Independent Variable|自变量]]纳入设计、同质性抽样、[[Alternative Hypothesis|替代假设]]检验。
 

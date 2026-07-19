@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Flow]]"
   - "[[Hook and Eye Technique]]"
+  - "[[Questionnaire]]"
   - "[[Literature Review]]"
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
@@ -59,7 +60,7 @@ updated: 2026-05-31
 每句话应该是前一句话的逻辑延续（Zinsser, 1983）。检查工具是 [[Hook and Eye Technique|钩眼技术]]（Wilkinson, 1991）：圈出每句话的关键词（眼），用线连接相邻句子的关键词（钩）。连接顺畅表明连贯良好；连接困难则需添加过渡词、短语或句子。
 
 > [!example] 句子间连贯性断裂示例
-> "本研究采用问卷[[Survey Research|调查法]]。教育公平是社会关注的焦点。"这两句之间缺乏逻辑延续，读者需要自行补上缺失的推论（问卷调查测量什么、测量结果与教育公平的关系），这正是钩眼技术要暴露的断裂。
+> "本研究采用[[Questionnaire|问卷]][[Survey Research|调查法]]。教育公平是社会关注的焦点。"这两句之间缺乏逻辑延续，读者需要自行补上缺失的推论（问卷调查测量什么、测量结果与教育公平的关系），这正是钩眼技术要暴露的断裂。
 
 ### 段落层面
 

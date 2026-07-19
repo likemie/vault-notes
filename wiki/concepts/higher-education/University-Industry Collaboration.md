@@ -62,6 +62,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Research Translation]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Questionnaire]]"
   - "[[Absorptive Capacity]]"
   - "[[Multi-University]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -392,7 +393,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 ## 组织模式
 
 > [!abstract]
-> Boccanfuso & Hall（2025，第三章）通过对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站分析和问卷调查，识别出大学产学参与中心办公室的五种常见组织模式（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.60–62]]）：
+> Boccanfuso & Hall（2025，第三章）通过对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站分析和[[Questionnaire|问卷调查]]，识别出大学产学参与中心办公室的五种常见组织模式（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.60–62]]）：
 
 1. **科研办公室模式（Office of Research）** 由科研副校长办公室主管，聚焦[[Technology Transfer|技术转移]]、初创企业、企业赞助研究和经济发展——最常见于研究型大学（约 25%）
 2. **经济发展/政府关系模式（Economic Development/Government Relations）** 面向催化经济活动的政府关系，多见于公立大学，聚焦[[Innovation Hub|创新中心]]、商业园区、小企业支持和地方/州政府伙伴关系（约 3%）

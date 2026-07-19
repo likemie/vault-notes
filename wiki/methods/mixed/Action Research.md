@@ -32,6 +32,7 @@ related_concepts:
   - "[[Teacher-as-Researcher]]"
   - "[[Document]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Questionnaire]]"
   - "[[Research Problem]]"
   - "[[Causality]]"
   - "[[External Validity]]"
@@ -259,7 +260,7 @@ updated: 2026-07-19
 >
 > 5. **选择研究程序**
 >
->    涉及抽样、管理、材料选择、教学方法、资源配置等。可嵌入多种设计：前[[Pre-test and Post-test|后测]]调查、实验或准实验、[[Longitudinal Study|纵向研究]]、观察、访谈和[[Field Notes|田野笔记]]、[[Case Study|案例研究]]、文献记录和问卷。与案例研究的区分在于是否涉及变革和干预。
+>    涉及抽样、管理、材料选择、教学方法、资源配置等。可嵌入多种设计：前[[Pre-test and Post-test|后测]]调查、实验或准实验、[[Longitudinal Study|纵向研究]]、观察、访谈和[[Field Notes|田野笔记]]、[[Case Study|案例研究]]、文献记录和[[Questionnaire|问卷]]。与案例研究的区分在于是否涉及变革和干预。
 >
 > 6. **选择评价程序**
 >

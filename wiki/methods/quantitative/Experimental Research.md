@@ -24,6 +24,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Independent Variable]]"
   - "[[Manipulation Check]]"
+  - "[[Questionnaire]]"
   - "[[Dependent Variable]]"
   - "[[Reflexivity]]"
   - "[[Cover Story]]"
@@ -100,7 +101,7 @@ Creswell & Creswell (2022, Ch8) 将实验方法计划的标准组成部分分解
 
 > [!abstract]
 > - **[[Independent Variable|自变量]]（Independent Variables）** 明确实验中的自变量及其操纵方式。可进行 2 × 2 受试者间[[Factorial Design|因子设计]]，同时操纵两个自变量。
-> - **[[Manipulation Check|操纵检查]]（Manipulation Check）** 评估实验是否成功操纵了目标自变量。例如，若研究通过正面／负面测试反馈操纵自尊水平，可在操纵后施测状态自尊问卷，定量评估两组是否存在自尊差异（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **[[Manipulation Check|操纵检查]]（Manipulation Check）** 评估实验是否成功操纵了目标自变量。例如，若研究通过正面／负面测试反馈操纵自尊水平，可在操纵后施测状态自尊[[Questionnaire|问卷]]，定量评估两组是否存在自尊差异（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **[[Dependent Variable|因变量]]（Dependent Variables）** 明确实验的结果变量，即被假定受自变量操纵影响或引起的结果或效标变量。可考虑使用多种方式测量同一结果（如攻击性的行为测量和自评测量）。
 > - **其他变量** 包括（1）受试者人口学特征（年龄、性别、族裔）；（2）可能增加研究设计噪音的变量（如自尊水平可能在一天中波动，可测量和记录时间作为协变量）；（3）潜在混淆变量（如批评者可能声称正面／负面反馈操作也无意中操纵了[[Reflexivity|反思性]]思维，可测量该变量以定量评估此主张）（, Ch8）。
 

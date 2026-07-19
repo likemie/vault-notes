@@ -20,6 +20,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
+  - "[[Questionnaire]]"
   - "[[Research Purpose]]"
   - "[[Gatekeepers]]"
 related_theories: []
@@ -112,7 +113,7 @@ updated: 2026-06-19
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 87–88]]）：
 >
 > 1. **通过正式渠道获准开展研究**——一旦有商定的项目大纲，尽快正式请求许可
-> 2. **与将被要求合作的人员沟通**——获得 LEA 或校长的许可是一个方面，但需要获得将接受访谈或填写问卷的人的支持
+> 2. **与将被要求合作的人员沟通**——获得 LEA 或校长的许可是一个方面，但需要获得将接受访谈或填写[[Questionnaire|问卷]]的人的支持
 > 3. **向校长提交项目大纲**——列出希望访谈或发送问卷的人，说明研究进行的条件
 > 4. **决定匿名和保密的含义**——如果写"英语科主任"而学校只有一位，该人立即被识别
 > 5. **决定参与者是否收到报告副本和/或查阅草稿或访谈转录**——有成本和时间影响，在做出承诺前仔细考虑

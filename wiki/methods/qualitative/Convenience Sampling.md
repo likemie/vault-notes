@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Sampling Frame]]"
+  - "[[Questionnaire]]"
   - "[[External Validity]]"
   - "[[IB Diploma Programme]]"
 related_theories: []
@@ -60,7 +61,7 @@ updated: 2026-07-11
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用**[[Case Study|案例研究]]、问卷试点、资源极度有限的小规模研究。
+> - **适合使用**[[Case Study|案例研究]]、[[Questionnaire|问卷]]试点、资源极度有限的小规模研究。
 > - **谨慎使用** 需要对研究发现的[[External Validity|可推广性]]做出清晰说明。
 > - **不适合使用** 需要统计推广到更广泛总体、需要计算误差范围的研究。
 

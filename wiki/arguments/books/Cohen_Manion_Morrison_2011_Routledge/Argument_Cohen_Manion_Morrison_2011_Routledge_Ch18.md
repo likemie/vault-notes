@@ -58,6 +58,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Formative Assessment]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Questionnaire]]"
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
   - "[[Research Problem]]"
@@ -650,7 +651,7 @@ Phelps & Graham（2010, p. 184）论证行动研究与[[Complexity Theory|复杂
 >    - 访谈和[[Field Notes|田野笔记]]
 >    - 一个或多个案例研究
 >    - 参与者的文献记录
->    - 问卷数据
+>    - [[Questionnaire|问卷]]数据
 >
 >    与案例研究的区分：行动研究涉及研究者方面的行动/集体行动，涉及变革、发展和干预；案例研究则可能主要是数据收集。但两者存在大量重叠。如果希望识别[[Causality|因果关系]]，研究者可能希望在行动研究中嵌入实验或准实验方法（见第16章）。
 >

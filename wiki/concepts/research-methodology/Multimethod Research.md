@@ -17,6 +17,7 @@ tags:
   - mixed-methods
 related_concepts:
   - "[[Integration in Mixed Methods]]"
+  - "[[Questionnaire]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -56,7 +57,7 @@ updated: 2026-06-02
 > | **核心操作** | 在同类方法内收集多种来源 | 收集两类数据并合并/连接/嵌入 |
 >
 > **多方法研究的典型实例**
-> - 量化多方法：一项研究同时使用问卷调查和官方统计数据（两种都是量化来源）
+> - 量化多方法：一项研究同时使用[[Questionnaire|问卷调查]]和官方统计数据（两种都是量化来源）
 > - 质性多方法：一项研究同时使用[[Qualitative Interview|深度访谈]]和参与式观察（两种都是质性来源）
 >
 > **混合方法研究的典型实例**

@@ -36,6 +36,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Analytic Framework]]"
   - "[[Champ]]"
+  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -111,7 +112,7 @@ citation_aliases:
 > - [[Argument_Slethaug_2010_InternationalEducation]] — 考察全球化时代国际教育的增长、学生交流机会的扩张、[[International Schools|国际学校]]和海外大学项目的兴起，以及中国学习者在其中的重要角色（第 1 章）
 > - [[Argument_Ryan_2010_ChineseLearner]] — 审视关于中国学习者的缺陷型和优势型刻板印象，主张通过全面考察学生文化背景、教育经历和教师文化预设来打破本质化认知（第 2 章）
 > - Argument_Forse_2010_ESF — 从结构层面分析 [[English Schools Foundation Hong Kong|ESF]] 系统从英国国民学校向接纳 40%–50% 本地华人学生转型的过程及其对香港公校系统的冲击（第 3 章）
-> - Argument_Jabal_2010_InternationalSchooling — 以 1,270 份问卷调查和 34 人访谈为基础，考察香港华人学生在国际学校中的多元文化体验与"[[Fourth Culture|第四文化]]"调适复杂性（第 4 章）
+> - Argument_Jabal_2010_InternationalSchooling — 以 1,270 份[[Questionnaire|问卷调查]]和 34 人访谈为基础，考察香港华人学生在国际学校中的多元文化体验与"[[Fourth Culture|第四文化]]"调适复杂性（第 4 章）
 > - Argument_Schmidt_2010_SocialConscience — 论证价值观为本课程对培养中国学习者社会良知的价值，以香港国际学校为案例（第 5 章）
 > - Argument_Vinther_2010_DanishPerspective — 考察在丹麦独特民主教育文化中中国学习者的适应经验，发现其比欧洲学生适应更快（第 6 章）
 > - Argument_Miller_2010_PreServiceTeachers — 以 Bourdieu 理论为框架，通过两个[[Case Study|案例研究]]分析在澳中国职前教师的语言、认同与教学实践（第 7 章）

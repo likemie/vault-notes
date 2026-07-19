@@ -30,6 +30,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Questionnaire]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Attrition]]"
@@ -102,7 +103,7 @@ updated: 2026-07-13
 
 > [!method-stack] 方法层级
 > - **研究设计** [[True Experimental Design|真实验设计]]（True Experimental Designs，如[[Pre-test and Post-test|前测]]-后测控制组设计、[[Posttest-Only Control Group Design|仅后测控制组设计]]）。
-> - **数据收集** 前测与后测的测验得分、问卷量表得分、行政记录等定量数据。
+> - **数据收集** 前测与后测的测验得分、[[Questionnaire|问卷]]量表得分、行政记录等定量数据。
 > - **分析方法** 组间独立样本 t 检验、[[Analysis of Variance|方差分析]]（ANOVA）、[[Analysis of Covariance|协方差分析]]（ANCOVA）及[[Effect Size|效应量]]（ES）计算。
 > - **辅助技术** 随机数生成器、分层随机化（Stratified Randomisation）、匹配随机化（Matched Randomisation）。
 

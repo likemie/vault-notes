@@ -18,6 +18,7 @@ tags:
   - method/action-research
   - consensus-building
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Attrition]]"
 related_methods:
@@ -36,7 +37,7 @@ updated: 2026-07-19
 ## 定义
 
 > [!def] 德尔菲技术（Delphi Technique）
-> 德尔菲技术是[[Nominal Group Technique|名义小组技术]]的书面对应版本，是一种通过多轮书面问卷迭代收集、整理和反馈群体意见的结构化方法。其核心优势是不需要参与者同时到场会面，特别适用于时间宝贵且难以安排全体会议的情境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 287–288)]]
+> 德尔菲技术是[[Nominal Group Technique|名义小组技术]]的书面对应版本，是一种通过多轮书面[[Questionnaire|问卷]]迭代收集、整理和反馈群体意见的结构化方法。其核心优势是不需要参与者同时到场会面，特别适用于时间宝贵且难以安排全体会议的情境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 287–288)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 群体对特定问题或陈述的观点、共识和分歧。
@@ -56,7 +57,7 @@ updated: 2026-07-19
 
 > [!method-stack] 方法层级
 > - **研究设计** 多轮书面数据收集——可在个体或小组基础上灵活使用。
-> - **数据收集** 首轮书面问卷→组长整理聚类→发回参与者→征求意见和进一步讨论→重复迭代。
+> - **数据收集** 首轮书面[[Questionnaire|问卷]]→组长整理聚类→发回参与者→征求意见和进一步讨论→重复迭代。
 > - **分析方法** 组长进行聚类分析和频率统计；参与者对群体回应做出反应（同意或表达更大分歧）。
 > - **辅助技术** 保密性管理、匿名化、书面问卷设计。
 

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Document]]"
+  - "[[Questionnaire]]"
   - "[[Variable]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -99,7 +100,7 @@ updated: 2026-06-25
 
 > [!method-fit] 适用判断
 > - **适合使用** 需要理解和诠释特定群体的文化特征和意义体系；研究具有自然情境的教育现象；关注具体事物的特点及其发展转变历程而非整体趋势。
-> - **谨慎使用**[[Research Question|研究问题]]过于细碎（如单纯的消费状况调查），更适合用问卷等方法；研究者无法获得研究对象的接纳和配合时。
+> - **谨慎使用**[[Research Question|研究问题]]过于细碎（如单纯的消费状况调查），更适合用[[Questionnaire|问卷]]等方法；研究者无法获得研究对象的接纳和配合时。
 > - **不适合使用** 需要大规模统计推论的研究；[[Variable|变量]]可以清晰控制和分离的[[Experimental Research|实验研究]]。
 
 ---

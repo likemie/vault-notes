@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
+  - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
 related_theories: []
@@ -72,7 +73,7 @@ updated: 2026-07-13
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Quantitative Research|量化研究]]、[[Mixed Methods Research|混合方法研究]]（解释性顺序设计）。
-> - **数据收集** 问卷调查、行政登记数据、大规模统计调查等。
+> - **数据收集** [[Questionnaire|问卷调查]]、行政登记数据、大规模统计调查等。
 > - **分析方法** 最大似然估计（Maximum Likelihood Estimation, MLE）、Logit 变换、优势比计算。
 > - **辅助技术** 多重共线性诊断（VIF）、分类截断值敏感性检验。
 

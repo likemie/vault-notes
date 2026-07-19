@@ -16,6 +16,7 @@ tags:
   - method/research-ethics
   - theme/research-governance
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[External Validity]]"
 related_theories: []
 related_methods:
@@ -37,7 +38,7 @@ updated: 2026-06-18
 ## 定义
 
 > [!def] 核心定义
-> 研究匿名的本质是参与者提供的信息绝不应以任何方式揭示其身份（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 100]]）。当研究者或任何其他人无法从所提供的信息中识别参与者时，该参与者即被视为匿名的。例如，一份只包含编号而不包含姓名的问卷即确保了完全匿名。
+> 研究匿名的本质是参与者提供的信息绝不应以任何方式揭示其身份（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 100]]）。当研究者或任何其他人无法从所提供的信息中识别参与者时，该参与者即被视为匿名的。例如，一份只包含编号而不包含姓名的[[Questionnaire|问卷]]即确保了完全匿名。
 
 > [!concept-lens] 概念透镜
 > - **含义** 匿名指向信息与个人身份之间的不可链接性——数据本身不携带任何能将数据关联到特定个人的标识。
@@ -51,7 +52,7 @@ updated: 2026-06-18
 > [!feature] 匿名化的主要技术
 > Frankfort-Nachmias & Nachmias (1992) 列出的匿名化方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 100–101]]）：
 
-1. **不使用姓名或其他个人标识** 最基本的方法——问卷不包含姓名、地址、职业细节或[[Coding in Qualitative Research|编码]]符号
+1. **不使用姓名或其他个人标识** 最基本的方法——[[Questionnaire|问卷]]不包含姓名、地址、职业细节或[[Coding in Qualitative Research|编码]]符号
 2. **使用化名（aliases / pseudonyms）** 为参与者分配虚构姓名代替真实姓名
 3. **使用编码标识个人** 将个人信息与接触信息分离，只有研究者持有编码密钥
 4. **使用密码保护文件** 通过技术手段限制对可识别数据的访问

@@ -50,6 +50,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Memos]]"
+  - "[[Questionnaire]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -268,7 +269,7 @@ updated: 2026-07-13
 
 第一编"教育研究的基础"在第一章之后推进到[[Research Proposal|课题论证]]，分为两大部分：变量与[[Hypothesis|假设]]的理论基础，以及课题论证的操作实践。
 
-界定变量内涵直接影响研究设计的质量。不重视或不会界定变量会导致问卷信效度低、[[Interview Protocol|访谈提纲]]错乱无序等问题。界定变量内涵有两种方法：概念性定义和[[Definition of Terms|操作性定义]]。
+界定变量内涵直接影响研究设计的质量。不重视或不会界定变量会导致[[Questionnaire|问卷]]信效度低、[[Interview Protocol|访谈提纲]]错乱无序等问题。界定变量内涵有两种方法：概念性定义和[[Definition of Terms|操作性定义]]。
 
 > [!contrast-table] 概念性定义 vs 操作性定义
 > | 维度 | 概念性定义（Conceptual Definition） | 操作性定义（Operational Definition） |

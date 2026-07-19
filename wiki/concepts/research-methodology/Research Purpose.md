@@ -24,6 +24,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Homework]]"
   - "[[Evaluation Research]]"
+  - "[[Questionnaire]]"
   - "[[Covert Research]]"
   - "[[Purpose Statement]]"
   - "[[Fitness for Purpose]]"
@@ -84,7 +85,7 @@ updated: 2026-06-20
 > | **识别因素／关系** | 调查；[[Multiple Regression\|多元回归]]；结构方程模型；网络分析 | 识别影响学习动机的各因素强弱 → 调查 + 多元回归 |
 > | **评估／审查／批判** | [[Ideology Critique\|意识形态批判]]；[[Evaluation Research\|评估研究]]；话语分析；女性主义批判 | 审查政府晋升标准政策 → 意识形态批判 + 女性主义批判 |
 > | **生成理论** | [[Grounded Theory\|扎根理论]]；文献研究 | 生成教科书有效使用的理论 → 扎根理论 |
-> | **比较方法或工具** | 比较方法论；工具检验；比较研究 | 比较问卷与访谈在收集药物使用数据上的效果 → 工具检验 |
+> | **比较方法或工具** | 比较方法论；工具检验；比较研究 | 比较[[Questionnaire\|问卷]]与访谈在收集药物使用数据上的效果 → 工具检验 |
 
 三种最常见的跨模式方法组合是：**调查**（横跨证明效果、识别因素、收集意见）、**[[Case Study|案例研究]]**（横跨理解现象、检验效果、生成理论）和**[[Action Research|行动研究]]**（横跨证明效果、评估开发）。具体组合取决于研究目的的精确表述。完整30组配对详见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]（第6.4节）。
 

@@ -19,6 +19,7 @@ tags:
   - missing-data
   - data-processing
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
@@ -45,7 +46,7 @@ updated: 2026-07-11
 > 插补方法（Imputation Methods）是用"合理值"填充缺失数据的技术，使数据集完整同时减少无回应偏倚——无回应者的值可能系统性不同于有回应者，直接删除会扭曲结果（Durrant, 2009, p. 295）。Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150)和 Durrant (2006, 2009)系统回顾了这一方法家族。
 
 > [!method-scope] 方法范围
-> - **研究对象** 调查或实验数据中的缺失值（整份问卷缺失或特定题项缺失）。
+> - **研究对象** 调查或实验数据中的缺失值（整份[[Questionnaire|问卷]]缺失或特定题项缺失）。
 > - **问题类型** 减少因无回应导致的偏倚、呈现完整数据集、支持后续统计分析。
 > - **分析单位** [[Variable|变量]]或个案层面的缺失数据。
 > - **输出形式** 替换缺失值后的完整数据集。
@@ -104,7 +105,7 @@ updated: 2026-07-11
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 缺失数据比例不高且存在可用于预测缺失值的辅助[[Variable|变量]]；缺失机制为 MAR（随机缺失）时，多重插补和回归插补效果良好；调查数据中个别题项缺失而非整份问卷缺失的场景。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]]
+> - **适合使用** 缺失数据比例不高且存在可用于预测缺失值的辅助[[Variable|变量]]；缺失机制为 MAR（随机缺失）时，多重插补和回归插补效果良好；调查数据中个别题项缺失而非整份[[Questionnaire|问卷]]缺失的场景。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]]
 > - **谨慎使用** 缺失比例较高（如超过 30–40%）时，即使最复杂的插补方法也难以可靠恢复信息；缺失机制可能为 MNAR 时，需明确报告插补[[Hypothesis|假设]]的局限性；[[Sample Size Determination|样本量]]较小时，复杂插补方法的优势可能不显著。
 > - **不适合使用** 缺失数据占绝大多数（接近完全缺失）；缺失机制明确为 MNAR 且无法合理指定缺失模型；缺失是由研究设计本身决定的结构性缺失（如跳转逻辑过滤的题项）——此时不应插补。
 

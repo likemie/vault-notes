@@ -26,6 +26,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Positivism]]"
   - "[[Statistical Significance]]"
+  - "[[Questionnaire]]"
   - "[[Pre-test and Post-test]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Parallel-Forms Reliability]]"
@@ -96,7 +97,7 @@ updated: 2026-07-08
 >   
 >   > [!feature] 操作要点
 >   > - 在适当时间范围内进行测试和重测，通过相关系数计算（Pearson 或 Spearman），[[Statistical Significance|统计显著性]]应达到 0.05 或更高
->   > - 对在显著特征上紧密匹配的两组同时施测，应获得相似结果——这种形式在先导测试和问卷中特别有用
+>   > - 对在显著特征上紧密匹配的两组同时施测，应获得相似结果——这种形式在先导测试和[[Questionnaire|问卷]]中特别有用
 >   > - Cooper & Schindler (2001: 216) 提醒：测试-重测间隔不应长到情境改变、不应短到参与者记住前次测试
 >   
 >   详见 [[Test-Retest Reliability|重测信度]]。

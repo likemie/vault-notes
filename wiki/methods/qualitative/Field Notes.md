@@ -25,6 +25,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 related_concepts:
   - "[[Covert Research]]"
+  - "[[Questionnaire]]"
 confidence: medium
 status: draft
 created: 2026-07-11
@@ -75,7 +76,7 @@ updated: 2026-07-11
 > [!method-fit] 适用判断
 > - **适合使用** 所有涉及参与式观察或[[Non-participant Observation|非参与式观察]]的研究；[[Case Study|个案研究]]；[[Ethnography|民族志研究]]
 > - **谨慎使用** 研究者无法当场记录的情境（如[[Covert Research|隐蔽研究]]，Patrick 在格拉斯哥帮派中需秘密记录）
-> - **不适合使用** 仅依赖问卷或实验数据、不涉及现场观察的研究
+> - **不适合使用** 仅依赖[[Questionnaire|问卷]]或实验数据、不涉及现场观察的研究
 
 ## 局限性
 

@@ -39,12 +39,14 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Conatus]]"
   - "[[Hawthorne Effect]]"
+  - "[[Questionnaire]]"
   - "[[Research Scope]]"
   - "[[Confidentiality]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Research Purpose]]"
   - "[[Research Topic]]"
   - "[[Non-maleficence and Beneficence in Research]]"
+  - "[[Computer Simulation]]"
   - "[[Institutional Review Board]]"
   - "[[Sensitive Research]]"
   - "[[Rich and Thick Description]]"
@@ -330,7 +332,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > 正式知情同意可能导致研究只关注"安全"、容易研究的主题，忽视脆弱和排斥群体。但 Humphreys (1975, p. 169)——著名研究 *Tearoom Trade* (1970)（同性恋会面安排研究）的作者——在其1975年伦理后记中写道："一个社会科学家对这个人能做的最大的伤害就是忽视他。"（p.84）
 >
 > **5. 文化不适应**
-> 在某些文化中，Oliver (2003, p. 103) 写道，参与者可能觉得被要求完成问卷是一种不寻常的体验，可能将其视为"测试"。知情同意可能带来正式性，而某些文化和社区，无论是较低社会群体还是有权力的人，更倾向于保持非正式关系（Crow et al., 2006, pp. 88–89）。
+> 在某些文化中，Oliver (2003, p. 103) 写道，参与者可能觉得被要求完成[[Questionnaire|问卷]]是一种不寻常的体验，可能将其视为"测试"。知情同意可能带来正式性，而某些文化和社区，无论是较低社会群体还是有权力的人，更倾向于保持非正式关系（Crow et al., 2006, pp. 88–89）。
 >
 > **6. 社区层面的同意**
 > Howe & Moses (1999, pp. 33–34) 认为知情同意不仅意味着个体的同意，还包括社区的同意："由个体社区成员来给予知情同意让社会研究者窥视社区的社会生活，并非总是他们能给予的。"（p.83）

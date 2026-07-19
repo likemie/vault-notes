@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Attrition]]"
   - "[[Internal Validity]]"
+  - "[[Questionnaire]]"
   - "[[Research Purpose]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Document]]"
@@ -76,7 +77,7 @@ updated: 2026-07-13
 
 > [!method-stack] 方法层级
 > - **研究设计** 前瞻性纵向设计（[[Cohort Study|队列研究]]、面板研究、[[Trend Study|趋势研究]]）或回溯性纵向设计。
-> - **数据收集** 调查问卷、测试分数、访谈、观察、行政数据；可结合数值和质性数据。
+> - **数据收集** 调查[[Questionnaire|问卷]]、测试分数、访谈、观察、行政数据；可结合数值和质性数据。
 > - **分析方法** 时间序列分析、生长曲线建模、因果模型（如交叉滞后面板模型）、事件史分析、多层模型。
 > - **辅助技术** 为应对样本流失，在开始时尽可能抽取大的样本（Wilson et al., 2006, p. 354）；确保测量工具跨时间点一致；必要时使用过采样与加权校正样本构成。
 

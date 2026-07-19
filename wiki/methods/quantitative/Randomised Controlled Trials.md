@@ -35,6 +35,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Emergence]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Questionnaire]]"
   - "[[Blinding]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
@@ -148,7 +149,7 @@ updated: 2026-07-13
 
 > [!method-stack] 方法层级
 > - **研究设计** [[True Experimental Design|真实验设计]]（随机分配至处理组和对照组）
-> - **数据收集** [[Pre-test and Post-test|前测]]（可选）、后测、标准化测验、问卷或行政数据
+> - **数据收集** [[Pre-test and Post-test|前测]]（可选）、后测、标准化测验、[[Questionnaire|问卷]]或行政数据
 > - **分析方法** 均值差比较、标准化[[Effect Size|效应量]]计算、t 检验、[[Analysis of Variance|方差分析]]、多水平模型
 > - **辅助技术**[[Random Assignment|随机分配]]、[[Blinding|盲法]]（教育中常不可行）、[[Intent-to-Treat Analysis|意向治疗分析]]、集群随机化、部分嵌套设计
 
@@ -190,7 +191,7 @@ updated: 2026-07-13
 ## 资料与分析
 
 > [!method-stack] 资料与分析摘要
-> - **资料类型** 标准化测验成绩、问卷量表、行为观察记录、行政数据（出勤率、升学率等）。
+> - **资料类型** 标准化测验成绩、[[Questionnaire|问卷]]量表、行为观察记录、行政数据（出勤率、升学率等）。
 > - **资料质量** 取决于[[Random Assignment|随机分配]]的成功程度、[[Sample Size Determination|样本量]]、[[Attrition|流失]]率（attrition）、测量工具的信效度。缺失数据在大班中比小班中更常见会破坏随机化[[Hypothesis|假设]]（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6–7]]）。
 > - **分析策略** 均值比较、[[Effect Size|效应量]]估计、t 检验或[[Analysis of Variance|方差分析]]、多水平模型（处理集群随机化的嵌套结构）。
 > - **质量控制**[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）处理非合规问题；流失分析；基线等值检验。

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
+  - "[[Questionnaire]]"
 related_theories:
   - "[[Social Capital Theory]]"
 related_methods:
@@ -185,7 +186,7 @@ updated: 2026-07-11
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] | 湖北省 G 县 12 所小学的 814 名农村随迁及留守家庭 | 问卷调查与二元 Logistic 回归分析 | 父母最高教育程度为高中及以上对[[School Choice\|择校]]决策的预测作用 | 1. 预测是否进城陪读：胜算比（Exp(B)）为 2.402<br>2. 预测去县城还是去乡镇：胜算比为 3.175<br>3. 预测能否进入重点小学：胜算比为 2.784 | 1. p < 0.01<br>2. p < 0.01<br>3. p < 0.01 | 仅代表教育期望在观念层面的显著驱动，不代表其实施过程不需要社会资本的动员与折算 |
+> | [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] | 湖北省 G 县 12 所小学的 814 名农村随迁及留守家庭 | [[Questionnaire\|问卷调查]]与二元 Logistic 回归分析 | 父母最高教育程度为高中及以上对[[School Choice\|择校]]决策的预测作用 | 1. 预测是否进城陪读：胜算比（Exp(B)）为 2.402<br>2. 预测去县城还是去乡镇：胜算比为 3.175<br>3. 预测能否进入重点小学：胜算比为 2.784 | 1. p < 0.01<br>2. p < 0.01<br>3. p < 0.01 | 仅代表教育期望在观念层面的显著驱动，不代表其实施过程不需要社会资本的动员与折算 |
 
 ---
 

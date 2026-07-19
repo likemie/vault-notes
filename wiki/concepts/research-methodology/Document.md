@@ -14,6 +14,7 @@ tags:
   - method/historical-research
   - method/documentary-research
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Reliability]]"
   - "[[Virtual Documents]]"
@@ -33,7 +34,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 文献（document）是对一个事件或过程的记录。这类记录可以由个人或群体生产，形式极为多样。[[Documentary Analysis|文献研究]]（documentary research）通常使用由他人事先生产、而非研究者在研究过程中自行制作的文献，以此区别于通过访谈记录或问卷收集的研究者自产资料（pp.12–13）。
+> 文献（document）是对一个事件或过程的记录。这类记录可以由个人或群体生产，形式极为多样。[[Documentary Analysis|文献研究]]（documentary research）通常使用由他人事先生产、而非研究者在研究过程中自行制作的文献，以此区别于通过访谈记录或[[Questionnaire|问卷]]收集的研究者自产资料（pp.12–13）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 文献指向任何以固定形式留存的人为社会活动的痕迹，包括文字、图像、声音和物质遗存。
@@ -83,7 +84,7 @@ updated: 2026-06-24
 > - **独立于研究者的文献**
 >   为研究者控制之外的各种目的而生产。[[Documentary Analysis|文献研究]]通常使用此类文献。
 > - **研究者自产文献**
->   由研究者自己作为研究数据制作的文献，如访谈转录稿或完成的问卷（Silverman, 2001, p. 119）。
+>   由研究者自己作为研究数据制作的文献，如访谈转录稿或完成的[[Questionnaire|问卷]]（Silverman, 2001, p. 119）。
 
 ### 一手文献与二手文献
 

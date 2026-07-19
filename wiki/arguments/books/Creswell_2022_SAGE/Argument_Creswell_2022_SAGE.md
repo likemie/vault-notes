@@ -74,6 +74,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Positivism]]"
   - "[[Fitness for Purpose]]"
+  - "[[Questionnaire]]"
   - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Dependent Variable]]"
@@ -103,6 +104,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Reliability]]"
+  - "[[Covering Letter]]"
   - "[[Internal Consistency]]"
   - "[[Manipulation Check]]"
   - "[[Blinding]]"
@@ -385,7 +387,7 @@ citation_aliases:
 > | | [[Ethnography\|民族志]]（Ethnography） | |
 > | | [[Case Study\|案例研究]]（Case study） | |
 
-量化设计中，[[Survey Research|调查研究]]通过问卷或结构化访谈从样本收集数据以推广至总体(Fowler, 2008)。[[Experimental Research|实验研究]]通过[[Random Assignment|随机分配]]处理条件并比较组间差异来检验因果效应(Keppel, 1991)，真实验使用随机分配，准实验使用非随机分配，[[Single-Subject Design|单受试者设计]]在时间维度上对少数个体施加和撤销处理(Cooper et al., 2007)。
+量化设计中，[[Survey Research|调查研究]]通过[[Questionnaire|问卷]]或结构化访谈从样本收集数据以推广至总体(Fowler, 2008)。[[Experimental Research|实验研究]]通过[[Random Assignment|随机分配]]处理条件并比较组间差异来检验因果效应(Keppel, 1991)，真实验使用随机分配，准实验使用非随机分配，[[Single-Subject Design|单受试者设计]]在时间维度上对少数个体施加和撤销处理(Cooper et al., 2007)。
 
 质性设计中，[[Narrative Research|叙事研究]]研究个体生活故事并重构为叙事编年史(Clandinin & Connelly, 2000)；现象学描述多个个体对某一现象的共同本质体验(Moustakas, 1994)；[[Grounded Theory|扎根理论]]通过多阶段[[Coding in Qualitative Research|编码]]从参与者视角归纳生成抽象理论(Charmaz, 2006; Corbin & Strauss, 2007)；[[Ethnography|民族志]]在自然情境中长时间观察文化群体的共享行为模式(Wolcott, 1994)；案例研究对受时空限定的个案进行深度多源分析(Stake, 1995; Yin, 2009)。
 
@@ -1193,7 +1195,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 > “功效分析可以帮助你估计目标样本量。……这种用于确定样本量的功效分析应当在研究计划阶段、招募任何参与者之前完成。”
 > ("A [[Power Analysis]] can help you estimate a target sample size. ... This power analysis for sample size determination should be done during study planning and prior to enrolling any participants.")（第8章）
 
-**工具**涉及测量质量的两个支柱，效度（分数是否测准了？）和[[Reliability|信度]]（分数是否稳定？），以及工具内容构成（封面信、题项、量表类型）。在施测流程上，邮件调查被转化为一个工业化的四阶段时间线(Salant & Dillman, 1994; Dillman, 2007)：提前通知→问卷→明信片跟进→个性化跟进，共约 4 周。
+**工具**涉及测量质量的两个支柱，效度（分数是否测准了？）和[[Reliability|信度]]（分数是否稳定？），以及工具内容构成（[[Covering Letter|封面信]]、题项、量表类型）。在施测流程上，邮件调查被转化为一个工业化的四阶段时间线(Salant & Dillman, 1994; Dillman, 2007)：提前通知→问卷→明信片跟进→个性化跟进，共约 4 周。
 
 **变量**在方法部分需直接陈述名称、操作性定义和测量工具。创建变量—定义—工具项目对照表是一种极为有效的组织技术。
 

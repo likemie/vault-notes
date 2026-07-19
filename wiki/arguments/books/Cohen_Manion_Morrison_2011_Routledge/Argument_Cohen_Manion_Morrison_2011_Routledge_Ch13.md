@@ -31,6 +31,7 @@ tags:
   - method/cross-sectional
   - research-design
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Heterogeneity]]"
   - "[[Sample Size Determination]]"
+  - "[[Covering Letter]]"
   - "[[Research Purpose]]"
   - "[[Fitness for Purpose]]"
   - "[[Sampling Frame]]"
@@ -124,7 +126,7 @@ sources:
 > [!example]- 图13-1 调查规划的各阶段
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_13-1_Stages_in_the_Planning_of_a_Survey.jpg)
 
-调查研究有多种变体。阅读本章时可结合抽样（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|第8章]]）、问卷（第20章）、访谈（第21章）和数据分析技术等章节。许多攻读更高学位的研究者时间框架固定且较短，[[Longitudinal Study|纵向研究]]对他们来说可能不可行，但纵向研究仍是一种重要的研究类型。更常见的情况是，[[Cross-sectional Study|横截面调查]]研究适合更高学位研究，且被广泛使用（p.257）。
+调查研究有多种变体。阅读本章时可结合抽样（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|第8章]]）、[[Questionnaire|问卷]]（第20章）、访谈（第21章）和数据分析技术等章节。许多攻读更高学位的研究者时间框架固定且较短，[[Longitudinal Study|纵向研究]]对他们来说可能不可行，但纵向研究仍是一种重要的研究类型。更常见的情况是，[[Cross-sectional Study|横截面调查]]研究适合更高学位研究，且被广泛使用（p.257）。
 
 ### 13.1 什么是调查？
 
@@ -347,7 +349,7 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 在有些邮寄研究中，回应率可低至 20%–30%，计划样本与实现样本之间存在差距(Fogelman, 2002, p. 105)。Punch (2003, p. 43)建议**为低回应率做计划（如增加[[Sample Size Determination|样本量]]）**而非事后调整。
 
 > [!tip] 提高回应率
-> - **有效策略(Aldridge & Levine, 2001; Fowler, 2009, p. 56)** 跟进与礼貌提醒、提前通知、预付回邮信封、机构背书、经济激励、使调查易读易完成、避免开放式问题、封面信说明[[Research Purpose|研究目的]]、亲自递送、确保非评判性和保密性
+> - **有效策略(Aldridge & Levine, 2001; Fowler, 2009, p. 56)** 跟进与礼貌提醒、提前通知、预付回邮信封、机构背书、经济激励、使调查易读易完成、避免开放式问题、[[Covering Letter|封面信]]说明[[Research Purpose|研究目的]]、亲自递送、确保非评判性和保密性
 > - **三段跟进(Dillman, 2007)** 10 天后友好提醒 → 再 10 天后二次提醒 → 电话联系；可使 ¼–⅓ 的初始无回应者最终参与(Fowler, 2009, p. 57)
 > - **无效因素(Cooper & Schindler, 2001; Fowler, 2009, p. 58)** 个性化介绍信、匿名承诺、问卷长度/尺寸/颜色
 > - 调查时机需避开学校考试期或特殊时期(Fogelman, 2002, p. 106)

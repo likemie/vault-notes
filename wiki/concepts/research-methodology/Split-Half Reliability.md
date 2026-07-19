@@ -20,6 +20,7 @@ related_concepts:
   - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
   - "[[Parallel-Forms Reliability]]"
+  - "[[Questionnaire]]"
   - "[[Construct]]"
 related_theories: []
 related_methods: []
@@ -58,7 +59,7 @@ updated: 2026-06-26
 > - **两部分在难度、区分度和测量目标上高度趋同或相似**
 > - **被测者以相同的状态对待两部分问题或项目**（如情绪、压力、疲劳等状态）
 
-常用**奇偶数分半**而非前后折半——因为问卷内在结构往往具有前易后难的差异，前后折半会导致两半个分系统性不等价。
+常用**奇偶数分半**而非前后折半——因为[[Questionnaire|问卷]]内在结构往往具有前易后难的差异，前后折半会导致两半个分系统性不等价。
 
 ### 校正公式
 

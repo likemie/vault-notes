@@ -19,6 +19,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
+  - "[[Questionnaire]]"
   - "[[Dependent Variable]]"
   - "[[Construct]]"
   - "[[Hypothesis]]"
@@ -56,7 +57,7 @@ updated: 2026-05-31
 
 > [!example] 操纵检查实例
 > 若一项研究旨在通过正面测试反馈（高自尊条件）或负面测试反馈（低自尊条件）来操纵受试者的自尊水平：
-> - 研究者可在操纵后施测一份简短的状态自尊问卷作为操纵检查。
+> - 研究者可在操纵后施测一份简短的状态自尊[[Questionnaire|问卷]]作为操纵检查。
 > - 定量评估负面反馈条件组的受试者是否确实比正面反馈条件组的受试者具有更低的状态自尊得分。
 > - 若两组在操纵检查上无显著差异，说明操纵未成功——后续对[[Dependent Variable|因变量]]的任何组间差异都无法归因于自尊操纵（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 

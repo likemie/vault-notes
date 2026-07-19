@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Document]]"
   - "[[Ideal Learner]]"
+  - "[[Questionnaire]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Faust]]"
   - "[[Mind-Oriented Learning Process]]"
@@ -111,6 +112,7 @@ related_concepts:
   - "[[Devil's Advocate]]"
   - "[[Xiaokang]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
+  - "[[Avatar]]"
   - "[[Research Utilization]]"
   - "[[Interaction Effect]]"
   - "[[Heterogeneity]]"
@@ -191,7 +193,7 @@ citation_aliases:
 
 - **历史-文本分析（Ch2）** 追溯西方（古希腊 → 启蒙 → 现代心理学）与儒家（[[Confucius|孔子]] → 理学 → 当代民间）两种知识传统的经典文本，以《论语》《[[Mencius|孟子]]》等一手[[Document|文献]]为主
 - **[[Prototype Methods|原型方法]]（Ch3）** 自由联想提取"学习"相关词汇 → 聚类分析生成概念地图（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → 内容分析提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]
-- **跨文化[[Survey Research|调查研究]]（Ch3, Ch5, Ch6）** 归因问卷、课堂观察、家庭社会化调查、同伴态度测量、学习情感自述——多方法[[Triangulation|三角验证]]同一结论
+- **跨文化[[Survey Research|调查研究]]（Ch3, Ch5, Ch6）** 归因[[Questionnaire|问卷]]、课堂观察、家庭社会化调查、同伴态度测量、学习情感自述——多方法[[Triangulation|三角验证]]同一结论
 - **跨国评测数据（Ch3）** TIMSS 与 [[PISA]] 排名作为东亚学习成就的宏观佐证
 - **[[Mother-Child Conversation|MCC]] 方法（Ch7）** 母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ 话语分析（Vygotsky 认知支架 + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
 - **语用学比较（Ch8）** Grice 四准则与四条东亚替代准则逐条对照；Kim 生理实验（说话时的问题解决表现与皮质醇变化）
@@ -2504,7 +2506,7 @@ N. T. Feather 在 1989 年对 300+ 名澳大利亚高中生和 500+ 名大学生
 
 **第三层："Try but Not Too Hard" — Bishop 兄弟的大规模定量证据**
 
-如果 Feather 的研究告诉你"存在这种态度"，那么 John 和 Michael Bishop 的研究告诉你"这种态度有多普遍、多强烈地影响行为"。这是目前关于美国同伴规范最大规模的研究——先在 8 所白人上层中产郊区公立学校进行定性访谈（十年级学生），再基于访谈编制问卷，调查超过 **110,000 名**初中和高中学生，覆盖 24 所学校(pp.90–91)。
+如果 Feather 的研究告诉你"存在这种态度"，那么 John 和 Michael Bishop 的研究告诉你"这种态度有多普遍、多强烈地影响行为"。这是目前关于美国同伴规范最大规模的研究——先在 8 所白人上层中产郊区公立学校进行定性访谈（十年级学生），再基于访谈编制[[Questionnaire|问卷]]，调查超过 **110,000 名**初中和高中学生，覆盖 24 所学校(pp.90–91)。
 
 > [!success] Bishop 研究的核心发现(pp.90–91)
 >

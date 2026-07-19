@@ -17,6 +17,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Definition of Terms]]"
+  - "[[Questionnaire]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Independent Variable]]"
@@ -69,7 +70,7 @@ updated: 2026-07-08
 > 2. **运用归纳法** 从个别到一般，抽取同类事物的共同属性，确定本质特征。如"满足特殊学生的特殊需要而特别设计的教学"就是"特殊教育"的本质特征
 > 3. **将本质特征与上位概念整合** 形成完整的概念性定义。如：特殊教育是"满足特殊学生的特殊需要而特别设计的教学"
 
-概念性定义涵盖较多的研究变量所属特征，适用于逻辑分析和[[Qualitative Research|质性研究]]。但概念性定义不具有可操作性，无法依据其进行问卷设计或实验设计，不能重复实验以验证结果，因此不适合[[Quantitative Research|量化研究]]（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
+概念性定义涵盖较多的研究变量所属特征，适用于逻辑分析和[[Qualitative Research|质性研究]]。但概念性定义不具有可操作性，无法依据其进行[[Questionnaire|问卷]]设计或实验设计，不能重复实验以验证结果，因此不适合[[Quantitative Research|量化研究]]（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
 ### 操作性定义
 
@@ -164,7 +165,7 @@ updated: 2026-07-08
 > | | 因变量（dependent variable） | 变化由自变量引起，是研究中主要测查的变量 |
 > | 研究对象主体 | 主体变量（subjective variable） | 由于个体差异引起的研究对象本身的各种特性，如性别、年龄、教育水平、性格等 |
 > | | 客体变量（objective variable） | 存在于研究对象主体以外的各种变量，如他人行为、态度、家庭氛围等 |
-> | 是否可直接测得 | 直接测量变量（direct metrical variable） | 依据研究对象本身通过观察、问卷等方式可以直接测得的变量，如年龄、身高、体重、家庭结构等 |
+> | 是否可直接测得 | 直接测量变量（direct metrical variable） | 依据研究对象本身通过观察、[[Questionnaire\|问卷]]等方式可以直接测得的变量，如年龄、身高、体重、家庭结构等 |
 > | | 间接测量变量（indirect metrical variable） | 无法通过测量途径获取的内在心理状态、行为动机等变量，如动机、行为、态度、友谊等 |
 > | 是否可操作 | 操作性变量（operational variable） | 研究者可以通过行为对其进行操控的变量，如教学方法、惩罚方式、奖惩内容等 |
 > | | 非操作性变量（non-operational variable） | 在开始研究前已存在或研究者无法主动改变或操作的变量，如年龄、性别、社会地位等 |

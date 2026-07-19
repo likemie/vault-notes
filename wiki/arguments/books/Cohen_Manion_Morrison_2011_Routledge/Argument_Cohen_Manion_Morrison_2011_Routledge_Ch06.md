@@ -40,6 +40,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Construct]]"
   - "[[Grade Retention]]"
+  - "[[Questionnaire]]"
   - "[[Covert Research]]"
   - "[[Research Question]]"
   - "[[Informed Consent]]"
@@ -289,7 +290,7 @@ updated: 2026-06-19
 > | 检验早期学生辍学的长期影响 | 调查；因果或相关研究 |
 > | 检验[[Grade Retention\|留级]]是否提高学生表现 | 调查；概化；因果或相关研究 |
 > | 记录对中学班级破坏性学生进行辅导的效果 | [[Case Study\|案例研究]]；因果或相关研究 |
-> | 比较问卷与面对面访谈在收集学生药物使用数据上的效果 | 工具检验；方法论研究 |
+> | 比较[[Questionnaire\|问卷]]与面对面访谈在收集学生药物使用数据上的效果 | 工具检验；方法论研究 |
 > | 检验课堂问答环节中教师给学生的线索 | 话语分析 |
 > | 调查学校中的破坏行为 | [[Covert Research\|隐蔽研究]]；基于知情人的研究 |
 > | [[Comparative Case Study\|比较案例研究]]与调查在调查小学逃学问题上的有效性 | 比较方法论 |
@@ -694,7 +695,7 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > 'What is the use of this research?' 'What is the point of doing this research?' 'Is this research worth doing?' If the answers to the last question is 'no', then maybe the researcher should abandon it, otherwise it ceases to be useful research and becomes an indulgence of the dilettante.
 
 > [!citation-card]- 目的适配性：让尾巴摇狗
-> 研究者不能简单地说他或她喜欢问卷、害怕数字或偏好访谈，或觉得做[[Covert Research|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Research Purpose|研究目的]]决定随后的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]等。（第6章, p.91）
+> 研究者不能简单地说他或她喜欢[[Questionnaire|问卷]]、害怕数字或偏好访谈，或觉得做[[Covert Research|隐蔽研究]]是错的所以永远不做隐蔽研究。这是让尾巴摇狗。[[Research Purpose|研究目的]]决定随后的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]等。（第6章, p.91）
 >
 > The researcher cannot simply say that he or she likes questionnaires, or is afraid of numbers, or prefers to conduct interviews, or feels that it is wrong to undertake covert research so no covert research will be done. That is to have the tail wagging the dog. Rather, the [[Research Purpose|research purposes]] determine what follow in respect of the kind of research, the research questions, the instruments for data collection, the sampling, whether the research is overt or covert, the scope of the research and so on.
 

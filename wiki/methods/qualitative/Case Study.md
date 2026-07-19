@@ -30,6 +30,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Reliability]]"
   - "[[Internal Consistency]]"
+  - "[[Questionnaire]]"
   - "[[Reflexivity]]"
   - "[[Analytic Generalization]]"
   - "[[Falsification]]"
@@ -110,7 +111,7 @@ updated: 2026-07-12
 
 > [!method-stack] 方法层级
 > - **研究设计** 单案例设计、嵌入式单案例设计、多案例设计、嵌入式多案例设计（Yin, 2009, pp. 46ff.）
-> - **数据收集** 访谈、观察、文件、档案记录、实物、问卷等（Yin 六类证据来源）
+> - **数据收集** 访谈、观察、文件、档案记录、实物、[[Questionnaire|问卷]]等（Yin 六类证据来源）
 > - **分析方法** 主题分析、跨案例分析、模式匹配、时间序列分析、[[Grounded Theory|扎根理论]]、[[Coding in Qualitative Research|编码]]
 > - **辅助技术** 个案研究数据库、[[Chain of Evidence|证据链]]、[[Triangulation|三角验证]]、受访者验证、[[Reflexivity|反身性]]
 
@@ -202,7 +203,7 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > [!evidence-grid] 多位学者的优势汇总
 > - **现实感强，情境真实** 个案研究数据贴近现实、接地气，与读者自身经验协调；在真实场景中收集数据，支撑结论有效性（Adelman et al., 1980; Nisbet & Watt, 1984; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
 > - **研究对象广阔，可推广** 从小到微观个体、大到民族国家均可研究；允许从实例到类别的推广，关注案例的微妙性和复杂性（Adelman et al., 1980; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
-> - **研究功能与方法多样** 探索、描述、解释、理解多重功能；观察、访谈、问卷、[[Document|文献]]等可混合使用，可与实证研究和解释学研究互补（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
+> - **研究功能与方法多样** 探索、描述、解释、理解多重功能；观察、访谈、[[Questionnaire|问卷]]、[[Document|文献]]等可混合使用，可与实证研究和解释学研究互补（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
 > - **结果更易被广泛受众理解** 常用日常、非专业语言书写，立即清晰易懂（Nisbet & Watt, 1984）
 > - **识别社会真理的复杂性和嵌入性** 呈现参与者观点之间的差异或冲突，最好的个案研究能为替代解释提供支持（Adelman et al., 1980）
 > - **形成可再解释的档案，捕捉独特特征** 作为产品可形成足够丰富的描述性材料档案；捕捉大规模数据中可能丢失的独特特征（Adelman et al., 1980; Nisbet & Watt, 1984）

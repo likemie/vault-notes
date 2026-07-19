@@ -25,6 +25,7 @@ tags:
   - instrument/self-report
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Questionnaire]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods: []
@@ -47,7 +48,7 @@ updated: 2026-07-01
 ## 工具定位
 
 > [!instrument-profile] MSLQ [[Critical Thinking|批判性思维]]分量表
-> - **工具类型** 学习动机策略问卷中的五题自陈分量表。
+> - **工具类型** 学习动机策略[[Questionnaire|问卷]]中的五题自陈分量表。
 > - **开发者与年份** Pintrich et al. (1993)。
 > - **测量目的** 测量学生自报的批判性思维策略使用，可作为 [[Critical Thinking Strategies Scale|CTSS]] 的既有量表参照。
 > - **实施方式** 自陈。

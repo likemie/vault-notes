@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Study Population and Sample]]"
   - "[[Sampling Frame]]"
+  - "[[Questionnaire]]"
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Attrition]]"
@@ -75,7 +76,7 @@ updated: 2026-07-13
 > 1. 明确[[Research Purpose|研究目的]]和[[Research Question|研究问题]]。
 > 2. 界定[[Study Population and Sample|目标总体]]和[[Sampling Frame|抽样框架]]。
 > 3. 选择[[Random Sampling|概率抽样]]策略以确保样本代表性。
-> 4. 设计和试测数据收集工具（问卷、测验、态度量表）。
+> 4. 设计和试测数据收集工具（[[Questionnaire|问卷]]、测验、态度量表）。
 > 5. 在单一时间点施测。
 > 6. 进行描述性、相关性和组间比较分析。
 > 7. 谨慎解读结果——不能推断[[Causality|因果关系]]。

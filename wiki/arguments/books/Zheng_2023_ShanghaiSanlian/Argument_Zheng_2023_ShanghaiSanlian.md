@@ -37,6 +37,7 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Questionnaire]]"
   - "[[Emergence]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -82,6 +83,7 @@ related_concepts:
   - "[[Work Meaning Schemas]]"
   - "[[Graduation Pathway Typology]]"
   - "[[Sense of Shame]]"
+  - "[[Avatar]]"
   - "[[Refined Mastery]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
@@ -165,7 +167,7 @@ citation_aliases:
 > - **田野点** 两所化名为"北方大学"和"南方大学"的顶尖研究型大学——同为百年名校，但学科结构、精神传统和所在地构成系统性对比（北京"又红又专" vs 上海"自由而无用"）
 > - **样本** 62 名毕业班学生的跟踪式[[Qualitative Interview|深度访谈]]（每人均保持联系至确定毕业去向），外加 8 名增补受访者用于第五章分析
 > - **抽样** 两阶段目的抽样——第一阶段 38 名男生（控制性别和 GPA），第二阶段补充 24 名（增加女生和弱势学生）；兼顾学科、家境、价值观内化程度的差异性分布
-> - **数据来源** 渐进式聚焦访谈（个人生活史→大学就读体验→人生价值与工作，平均约 3 小时，累计 >150 万字转录文本）+ 背景信息问卷 + 实地观察笔记
+> - **数据来源** 渐进式聚焦访谈（个人生活史→大学就读体验→人生价值与工作，平均约 3 小时，累计 >150 万字转录文本）+ 背景信息[[Questionnaire|问卷]] + 实地观察笔记
 > - **分析策略** 理论演绎与现象归纳循环迭代，从经验材料中[[Emergence|涌现]]类型化发现（韦伯意义上的"理念型"建构）
 
 
@@ -588,7 +590,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 - 访谈时长：一般 2.5–3.5 小时，最长 6 小时
 - 录音转录：累计超过 150 万字
-- 辅助来源：背景信息问卷、实地观察笔记（校园文化风景/器物的拍摄与说明）、两校官方网站和典礼讲话、校友网络论坛描述
+- 辅助来源：背景信息[[Questionnaire|问卷]]、实地观察笔记（校园文化风景/器物的拍摄与说明）、两校官方网站和典礼讲话、校友网络论坛描述
 
 **（e）资料分析方法——[[Constructivist Grounded Theory|建构主义扎根理论]]**
 

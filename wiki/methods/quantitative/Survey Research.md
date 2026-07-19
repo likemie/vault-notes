@@ -18,6 +18,7 @@ tags:
   - survey
   - data-collection
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Study Population and Sample]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Covering Letter]]"
   - "[[Evaluation Research]]"
   - "[[Definition of Terms]]"
   - "[[Document]]"
@@ -84,7 +86,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!info]
-> 调查研究（Survey Research）是一种[[Quantitative Research|量化研究]]设计，通过研究一个总体中的样本，提供关于该总体的趋势、态度或意见的量化或数值描述（Fowler, 2008）。调查是[[Quantitative Research|量化研究]]中最常用的设计类型之一，包括使用问卷或结构化访谈进行数据收集，目的是从样本推广到总体。
+> 调查研究（Survey Research）是一种[[Quantitative Research|量化研究]]设计，通过研究一个总体中的样本，提供关于该总体的趋势、态度或意见的量化或数值描述（Fowler, 2008）。调查是[[Quantitative Research|量化研究]]中最常用的设计类型之一，包括使用[[Questionnaire|问卷]]或结构化访谈进行数据收集，目的是从样本推广到总体。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体、群体、机构的态度、意见、行为、经历、事实信息和偏好，包括过去和现在的状态。
@@ -122,11 +124,11 @@ updated: 2026-07-13
 ### 工具
 
 > [!info]
-> - **工具与测量** 工具（instrument）是收集变量测量值的设备（如温度计之于体温，问卷之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
+> - **工具与测量** 工具（instrument）是收集变量测量值的设备（如温度计之于体温，[[Questionnaire|问卷]]之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
 > - **工具的效度** 报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity|构念效度]]（工具是否准确测量目标[[Construct|构念]]）和效标／[[Concurrent Validity|同时效度]]（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 > - **工具的[[Reliability|信度]]** 报告分数的[[Internal Consistency|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 Cronbach's α 值量化（范围 0–1，最佳值.7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α =.84–.86。[[Test-Retest Reliability|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（, Ch8）。
 > - **[[Inter-Rater Reliability|评分者间信度]]（Inter-Rater Reliability）** 当多位评判者或专家使用同一工具评分时，需要评估独立评分者之间的一致性程度。
-> - **工具内容** 包括封面信（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。
+> - **工具内容** 包括[[Covering Letter|封面信]]（Dillman, 2007 提供了封面信应包含的项目清单）、题项（人口学、态度、行为、事实题项）和结束说明。量表类型包括连续量表（如 strongly agree 到 strongly disagree）和类别量表（如 yes/no、重要性排名）。
 > - **[[Pilot Testing|试点测试]]（Pilot Testing）** 评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时[[Evaluation Research|评估研究]]耗时和受试者疲劳风险。说明测试人数和修改计划（, Ch8）。
 > - **调查施测** 邮寄调查可采用四阶段施测流程（Salant & Dillman, 1994; Dillman, 2007）：（1）提前通知信 →（2）约 1 周后邮寄实际问卷 →（3）4–8 天后邮寄明信片跟进 →（4）3 周后向未回应者邮寄个性化封面信和问卷。整个施测期约 4 周。
 
@@ -293,7 +295,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 ## 局限性
 
 > [!warning]
-> - 调查结果受限于问卷设计和抽样质量；低回复率可能导致无答复偏差。
+> - 调查结果受限于[[Questionnaire|问卷]]设计和抽样质量；低回复率可能导致无答复偏差。
 > - 自我报告数据可能受社会期望偏差影响。
 > - 横截面设计难以建立[[Causality|因果关系]]。
 > - 如果研究者关注捕捉地方性、制度性或小规模因素和[[Variable|变量]]——描绘情境的特殊性、独特性和复杂性、人际动态，以及解释为何某种情境发生或某人为何表现出特定行为——则调查方法可能并不适合。其解释潜力和细节精细度有限，它会牺牲在不受时间、空间或地方情境影响的概括性泛化中（p.259）。

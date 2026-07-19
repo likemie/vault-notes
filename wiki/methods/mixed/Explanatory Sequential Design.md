@@ -21,6 +21,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Research Question]]"
   - "[[Dependent Variable]]"
+  - "[[Questionnaire]]"
   - "[[Descriptive Analysis]]"
   - "[[Metainferences]]"
   - "[[Purpose Statement]]"
@@ -96,7 +97,7 @@ updated: 2026-06-02
 
 ### 4.2 执行程序：四阶段基本流程
 操作逻辑为先量化、后质性、以质性解释量化：
-1. **第一量化阶段** 使用量化工具（如调查问卷）从大样本收集数据，产出[[Descriptive Analysis|描述统计]]、相关性或回归模型等结果。
+1. **第一量化阶段** 使用量化工具（如调查[[Questionnaire|问卷]]）从大样本收集数据，产出[[Descriptive Analysis|描述统计]]、相关性或回归模型等结果。
 2. **中间过渡阶段** 识别量化结果中需要深入解释的关键点（如意外结果、显著差异、异常值）。
 3. **第二质性阶段** 基于量化发现，有目的地选择参与者（[[Purposeful Sampling]]），通过访谈或[[Case Study|案例研究]]探索背后的过程与机制。
 4. **整合解释** 将质性解释与量化结果对接，形成量化模式 + 质性机制的完整解释链。
@@ -146,7 +147,7 @@ updated: 2026-06-02
 ## 7. 使用此方法的研究
 
 > [!example] 案例 1：Ivankova & Stick (2007)
-> 对 278 名学生进行问卷调查以识别持续就学的预测因素，随后选择四类学生各一人进行质性案例分析，深入解释统计结果中的组间差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])。
+> 对 278 名学生进行[[Questionnaire|问卷调查]]以识别持续就学的预测因素，随后选择四类学生各一人进行质性案例分析，深入解释统计结果中的组间差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])。
 
 > [!example] [[Purpose Statement|目的陈述]]要素拆解：Ivankova & Stick (2007)
 >

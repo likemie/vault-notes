@@ -13,6 +13,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Abstract]]"
   - "[[Research Question]]"
+  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
@@ -20,6 +21,7 @@ related_concepts:
   - "[[Alternative Hypothesis]]"
   - "[[Research Practicability]]"
   - "[[Fitness for Purpose]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Documentary Analysis]]"
@@ -28,6 +30,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 confidence: medium
 status: draft
 created: 2026-06-21
@@ -59,7 +62,7 @@ updated: 2026-06-21
 > - **选择焦点** 鉴于初始分解的范围过大，选择其中一个维度作为研究焦点。在上述例子中，决定聚焦于教学法的连续性（pp.126–127）。
 > - **进一步拆解焦点** 将选定的焦点维度继续分解为更具体的子问题。教学法连续性被进一步拆解为：连续性的水平、性质、成功程度、责任归属、记录与文档、可用资源等（pp.127–128）。
 > - **形成具体[[Research Question|研究问题]]** 为每个子维度拟定具体研究问题，如：每个课程领域在教学过渡阶段发生了多少教学法连续性？各课程领域使用什么教学风格？连续性是偶然发生的还是有计划的？谁在过渡点负有连续性责任？（pp.128–129）。
-> - **识别所需工具** 操作化完成后，不仅能明确具体要问的问题，还能识别可能需要的数据收集工具。在上述例子中，可能需要半结构化访谈、问卷评分量表或[[Documentary Analysis|文献分析]]（p.129）。
+> - **识别所需工具** 操作化完成后，不仅能明确具体要问的问题，还能识别可能需要的数据收集工具。在上述例子中，可能需要半结构化访谈、[[Questionnaire|问卷]]评分量表或[[Documentary Analysis|文献分析]]（p.129）。
 
 > [!warning] 问题数量控制
 > 操作化后产生的研究问题数量可能很大，可能需要缩减到最多四到五个，以使研究可控（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.129]]）。
@@ -104,3 +107,18 @@ updated: 2026-06-21
 - [[Alternative Hypothesis]] — 备择假设通常被写为方向性形式进行检验
 - [[Fitness for Purpose]] — 操作化必须服从此原则：操作化后的方法必须适合[[Research Purpose|研究目的]]
 - [[Research Practicability]] — 操作化直接决定研究的可操作性
+
+---
+
+## 问卷操作化
+
+在[[Questionnaire|问卷]]设计中，操作化是将一般[[Research Purpose|研究目的]]转化为具体题项的过程（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 108–113]]）：
+
+> [!proc] 问卷操作化的三步推进
+> 1. **明确首要目标** 将一般目的转化为具体、实在的目标。例如从"探索教师对在职教育的看法"转化为"获取中小学教师在在职教育课程提供方面的优先事项的详细描述"。
+> 2. **识别并列举附属议题** 围绕核心目的拆解子议题。例如在职教育的附属议题包括：课程类型、课程内容、地点、时间安排、课程设计和经费。
+> 3. **制定每个附属议题的具体信息需求** 进一步操作化为具体题项。例如"课程类型"需要知道：持续时间、课程地位（有/无学分）、课程取向（理论型/实践型）。
+
+Wilson和McLean（1994: 8–9）提出替代路径：识别[[Research Question|研究问题]] → 澄清相关概念或[[Construct|构念]] → 识别这些概念的经验指标（如存在性、强度、主要特征、关键要素等）。
+
+问卷操作化最终必须确保六项要求：目的清晰、覆盖内容明确、覆盖元素穷尽、提问类型适当、引出适合回答研究目的的数据类型、收集经验数据（p. 109）。

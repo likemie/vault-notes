@@ -27,6 +27,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Return on Investment]]"
   - "[[Joint Faculty Appointments]]"
+  - "[[Questionnaire]]"
   - "[[Trade Mission]]"
   - "[[Conatus]]"
 related_theories: []
@@ -110,7 +111,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 **社区召集者**。UIDP 年度会议和项目活动是产学专业人员识别潜在合作者、交流最佳实践和建立同行网络的核心平台。[[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera (2025, p.74)]]将 UIDP 与 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Innovation Network|UIIN]] 并列为产学关系"拥护者"集中的关键交汇空间。
 
-**研究基础设施**。UIDP 的会员网络为产学合作研究提供了独特的数据来源。Boccanfuso & Hall（2025，第三章）以 UIDP 成员大学为样本，对 65 所研究活跃的成员大学进行了[[Website Content Analysis|网站内容分析]]，并向 124 名大学指定代表和 600 名企业代表发放了问卷调查（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.56–57]]）。
+**研究基础设施**。UIDP 的会员网络为产学合作研究提供了独特的数据来源。Boccanfuso & Hall（2025，第三章）以 UIDP 成员大学为样本，对 65 所研究活跃的成员大学进行了[[Website Content Analysis|网站内容分析]]，并向 124 名大学指定代表和 600 名企业代表发放了[[Questionnaire|问卷调查]]（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, pp.56–57]]）。
 
 > [!example]
 > **UIDP 东京会议与[[Trade Mission|贸易代表团]]的催化叠加（2023 年）**

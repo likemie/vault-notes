@@ -30,6 +30,7 @@ related_concepts:
   - "[[Computer Simulation]]"
   - "[[Research Question]]"
   - "[[Flanders Interaction Analysis Categories]]"
+  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Participant Observation]]"
@@ -233,7 +234,7 @@ updated: 2026-06-25
 > - **偏误来源** 观察者主观偏见、对观察事物的科学知识匮乏、观察工具信效度不足、先入为主的[[Hypothesis|假设]]影响、学术诚信问题。
 > - **适用边界** 主要收集外显行为数据，对内在心理过程的推断需谨慎；观察结果受时间、场合和观察对象的人口统计学特征影响。
 > - **误用风险** 将相关关系误判为[[Causality|因果关系]]；忽视观察者培训的重要性；将非结构化观察数据过度量化。
-> - **补救方式** 加强观察者培训；采用多人同步观察和反复观察；结合多种观察策略和记录方式；使用成熟的观察量表；辅以访谈或问卷调查进行[[Triangulation|三角互证]]。
+> - **补救方式** 加强观察者培训；采用多人同步观察和反复观察；结合多种观察策略和记录方式；使用成熟的观察量表；辅以访谈或[[Questionnaire|问卷调查]]进行[[Triangulation|三角互证]]。
 
 ---
 

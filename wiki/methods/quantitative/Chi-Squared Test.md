@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Dependent Variable]]"
+  - "[[Questionnaire]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
@@ -72,7 +73,7 @@ updated: 2026-05-31
 > [!success]
 > - [[Survey Research|调查研究]]中检验两个类别[[Variable|变量]]间是否存在显著关联——如性别与教育水平、族裔与投票偏好。
 > - 报告样本特征分布是否与总体已知分布一致时（拟合优度）。
-> - 分析问卷中多选题或单选题的交叉表数据时。
+> - 分析[[Questionnaire|问卷]]中多选题或单选题的交叉表数据时。
 
 ## 局限性
 

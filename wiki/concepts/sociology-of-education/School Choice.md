@@ -23,6 +23,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Attrition]]"
   - "[[Variable]]"
+  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -174,7 +175,7 @@ updated: 2026-07-13
 > 
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-> | [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] | G 县 814 份问卷及 128 例访谈 | [[Mixed Methods Research\|混合方法]]实证研究 | 择校进城成本与比例 | 县城随迁择校家庭年生活成本逾 2 万元，占家庭总收入 40% 以上 | — | 反映小城镇低门槛入学下的高昂私人财务负担 |
+> | [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] | G 县 814 份[[Questionnaire\|问卷]]及 128 例访谈 | [[Mixed Methods Research\|混合方法]]实证研究 | 择校进城成本与比例 | 县城随迁择校家庭年生活成本逾 2 万元，占家庭总收入 40% 以上 | — | 反映小城镇低门槛入学下的高昂私人财务负担 |
 
 ---
 

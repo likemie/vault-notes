@@ -18,6 +18,7 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Research Purpose]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Questionnaire]]"
   - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
@@ -156,7 +157,7 @@ updated: 2026-07-11
 
 **[[Institutional Review Board|IRB]] 审批。** 研究者须在研究开始前向所在校区的 IRB 委员会提交研究方案，由委员会评估参与者风险并做出批准决定。
 
-**获得现场许可。** 需向研究场所的负责人（[[Gatekeepers]]）提交书面申请，说明研究时长、潜在影响和预期成果。涉及网络问卷或电子访谈时，先获许可再发送。
+**获得现场许可。** 需向研究场所的负责人（[[Gatekeepers]]）提交书面申请，说明研究时长、潜在影响和预期成果。涉及网络[[Questionnaire|问卷]]或电子访谈时，先获许可再发送。
 
 **选择无利益关系的研究场所。** 选择研究者对结果没有个人利害关系的场所，以保持[[Quantitative Research|量化研究]]的客观性或[[Qualitative Research|质性研究]]中多元视角的完整呈现。
 

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Transformative Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Document]]"
+  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
@@ -56,14 +57,14 @@ updated: 2026-05-31
 > **第三层：方法论路径（Methodological Approach）**。在理论透镜之下，选择具体的研究方法论路径，如[[Ethnography|民族志]]、实验、[[Mixed Methods Research|混合方法]]等。
 
 > [!abstract]
-> **第四层：数据收集方法（Methods of Data Collection）**。最具体的层次，涉及实际操作技术，如访谈、问卷、观察清单和测量工具等。
+> **第四层：数据收集方法（Methods of Data Collection）**。最具体的层次，涉及实际操作技术，如访谈、[[Questionnaire|问卷]]、观察清单和测量工具等。
 
 ## 在方法论中的运用
 
 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, p.71)]] 使用 Crotty 的四层框架来区分世界观与理论。世界观在最上层，涉及研究者的信念和价值观，在抽象层面运作。理论在第二层，较不抽象，从[[Document|文献]]中提取，为研究设计的诸多方面提供具体指导。从理论出发，再到方法论路径，最后到具体的数据收集方法。这四层之间存在自上而下的逻辑关系——每一层的选择都约束和引导着下一层的决策。
 
 > [!example] 示例
-> 一项[[Mixed Methods Research|混合方法研究]]可能沿着四层展开：世界观层采用[[Pragmatic Paradigm|实用主义]] → 理论透镜层采用女性主义视角 → 方法论路径层选择混合方法[[Convergent Design|聚敛式设计]] → 数据收集方法层同时使用 Likert 量表问卷和半结构化访谈。
+> 一项[[Mixed Methods Research|混合方法研究]]可能沿着四层展开：世界观层采用[[Pragmatic Paradigm|实用主义]] → 理论透镜层采用女性主义视角 → 方法论路径层选择混合方法[[Convergent Design|聚敛式设计]] → 数据收集方法层同时使用 Likert 量表[[Questionnaire|问卷]]和半结构化访谈。
 
 ## 概念辨析
 

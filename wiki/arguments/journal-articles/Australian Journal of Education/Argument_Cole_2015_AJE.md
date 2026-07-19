@@ -29,6 +29,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Sample Size Determination]]"
   - "[[Document]]"
+  - "[[Questionnaire]]"
   - "[[Pre-test and Post-test]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -157,7 +158,7 @@ journal: "Australian Journal of Education"
 > [!method-panel] 阶段三设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **招募：DP 毕业生** | 通过澳大利亚 IBO 校友联系名单，由 IBO 发送电子邮件邀请（含在线问卷 URL）给上一届 DP 毕业生 |
+> | **招募：DP 毕业生** | 通过澳大利亚 IBO 校友联系名单，由 IBO 发送电子邮件邀请（含在线[[Questionnaire\|问卷]] URL）给上一届 DP 毕业生 |
 > | **招募：非 DP 毕业生** | 通过各大学单元的在线内容管理系统（如 Blackboard）发布定向电子邮件或在线公告。多所大学被定向接触，但仅悉尼大学和昆士兰科技大学协助了招募 |
 > | **测量工具一 [[California Critical Thinking Disposition Inventory\|CCTDI]]** | [[California Critical Thinking Disposition Inventory\|CCTDI]]测量七个维度的批判性思维倾向，用于比较 DP 与非 DP 毕业生 |
 > | **测量工具二 [[Academic Self-Concept\|ASC]]** | [[Academic Self-Concept General Scale\|ASC]]测量一般学术自我概念，并在跨学校成绩难以标准化时作为实际学业成果的代理指标 |

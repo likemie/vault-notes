@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Anonymity in Research]]"
   - "[[Privacy in Research]]"
+  - "[[Questionnaire]]"
   - "[[Sensitive Research]]"
   - "[[Deductive Disclosure]]"
   - "[[Informed Consent]]"
@@ -57,7 +58,7 @@ updated: 2026-07-11
 > |---|---|---|---|
 > | 谁控制 | 研究者（义务） | 研究设计（结构） | 参与者（权利） |
 > | 追溯能力 | 研究者可以追溯到个人但不公开 | 无人可以追溯到个人 | 参与者决定什么信息被收集 |
-> | 典型场景 | 面对面访谈——研究者知道受访者身份但以化名引用 | 在线匿名问卷——没有姓名或IP被记录 | 参与者拒绝回答特定问题 |
+> | 典型场景 | 面对面访谈——研究者知道受访者身份但以化名引用 | 在线匿名[[Questionnaire\|问卷]]——没有姓名或IP被记录 | 参与者拒绝回答特定问题 |
 > | 在[[Sensitive Research\|敏感研究]]中的特殊挑战 | [[Deductive Disclosure\|演绎披露]]可能破坏保密 | 某些场所（如独特学校）无法匿名 | 有权者可能要求控制信息边界 |
 
 ---

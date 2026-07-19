@@ -32,8 +32,10 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Reflexivity]]"
   - "[[Qualitative Validity]]"
+  - "[[Questionnaire]]"
   - "[[Academic Self-Concept]]"
   - "[[Critical Thinking]]"
+  - "[[Virtual World]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -49,6 +51,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
@@ -176,7 +179,7 @@ updated: 2026-07-08
 > [!method-fit] 适用判断
 > - **适合使用** 三角验证适用于所有研究设计——量化、质性和[[Mixed Methods Research|混合方法]]。特别适合：（a）当单一方法可能产生偏倚或扭曲图景时；（b）当需要更全面的现象理解时（如 Mortimore et al., 1988 的学校效能研究）；（c）当复杂现象需要阐明时；（d）当[[Case Study|个案研究]]涉及复杂现象的特定实例时（Adelman et al., 1980）。三角验证是[[Qualitative Research|质性研究]]方法课程中最常被教授的基础效度策略，也是八种[[Qualitative Validity|质性效度]]策略中使用最频繁、最容易实施的策略之一。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch9)]]
 > - **谨慎使用** 在严格的[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]框架内，三角验证中隐含的"存在一个可以通过多种方法逼近的真实现象"的预设需要反思。
-> - **不适合使用** 三角验证不能替代深度的单一方法研究——多方法的浅层使用不如单一方法的深度使用。当方法之间的对比度过低时（如同时使用两种非常相似的问卷），三角验证失去其方法论意义。
+> - **不适合使用** 三角验证不能替代深度的单一方法研究——多方法的浅层使用不如单一方法的深度使用。当方法之间的对比度过低时（如同时使用两种非常相似的[[Questionnaire|问卷]]），三角验证失去其方法论意义。
 
 ---
 
@@ -185,7 +188,7 @@ updated: 2026-07-08
 > [!method-limits] 方法局限
 > - **[[Positivism|实证主义]]预设** 三角验证[[Hypothesis|假设]]存在一个可以通过多种方法逼近的真实现象——这一立场与严格的[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]之间存在张力。不应默认"趋同 = 有效、不趋同 = 无效"。
 > - **不一致的理论意义** 不同来源证据之间的"不一致"本身可能具有重要的理论意义，反映了现实的多层性，而不应简单地被视为效度不足的表现。Nissan 英国工厂的研究中，Wickens (1987) 发现"良性循环"而 Garrahan & Stewart (1992) 发现"恶性循环"——两套发现同时成立，因为现实是多层次的。
-> - **方法对比度不足时失效** 如果使用的方法过于相似（如两种问卷），三角验证只是用同样的偏差复制了同样的错误。
+> - **方法对比度不足时失效** 如果使用的方法过于相似（如两种[[Questionnaire|问卷]]），三角验证只是用同样的偏差复制了同样的错误。
 > - **不能替代深度** 多种方法的浅层使用不如单一方法的深度使用——三角验证应在每种方法都得到充分执行的前提下使用。
 
 ---

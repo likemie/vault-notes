@@ -37,6 +37,7 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Computer Simulation]]"
   - "[[Virtual World]]"
+  - "[[Ideal Speech Situation]]"
   - "[[Operationalization]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -49,9 +50,11 @@ related_concepts:
   - "[[Construct]]"
   - "[[Rationalism in International Relations]]"
   - "[[Causality]]"
+  - "[[Presence]]"
   - "[[Externalization]]"
   - "[[Epoché]]"
   - "[[Research Question]]"
+  - "[[Questionnaire]]"
   - "[[Pre-test and Post-test]]"
   - "[[Independent Variable]]"
   - "[[Document]]"
@@ -103,7 +106,7 @@ updated: 2026-07-19
 > ```
 
 > [!abstract] 论证主线
-> 从[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]的基本定义与对比出发，阐明二者在[[Complexity Theory|复杂性理论]]、基于主体建模和哈贝马斯理想言说情境中的理论基础，展示虚拟世界在教育研究中的五种应用方向，并以一个公民教育虚拟世界研究（Martin, 2010）为完整案例详细拆解研究设计的每一步，最后系统讨论机遇与局限、操作指南、伦理议题和在线数据收集工具。论证链条为：**定义与区分（19.1）→ 理论基础（19.2）→ 应用（19.3）→ 案例展示（19.4）→ 反思与[[Operationalization|操作化]]（19.5–19.9）→ 结论（19.10）**。
+> 从[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]的基本定义与对比出发，阐明二者在[[Complexity Theory|复杂性理论]]、基于主体建模和哈贝马斯[[Ideal Speech Situation|理想言说情境]]中的理论基础，展示虚拟世界在教育研究中的五种应用方向，并以一个公民教育虚拟世界研究（Martin, 2010）为完整案例详细拆解研究设计的每一步，最后系统讨论机遇与局限、操作指南、伦理议题和在线数据收集工具。论证链条为：**定义与区分（19.1）→ 理论基础（19.2）→ 应用（19.3）→ 案例展示（19.4）→ 反思与[[Operationalization|操作化]]（19.5–19.9）→ 结论（19.10）**。
 
 ---
 
@@ -377,7 +380,7 @@ updated: 2026-07-19
 > | 阶段 | 关键决策 | 操作细节 |
 > |---|---|---|
 > | **抽样** | 代表性样本 | 中等教育阶段青少年；无法涵盖所有人，抽取公平（有代表性）样本以使发现可靠推广回更广泛总体。样本需包括男性和女性、不同年龄段、文化背景、宗教信仰等，按正确比例。为避免样本过于庞杂，需限制声明范围：如特定年龄段或年级，对**试图推广到的总体保持明确**。 |
-> | **问卷开发** | 焦点小组→主题→项目 | 通过与总体代表进行焦点小组讨论开发问卷。识别人口因素、身份、公民身份、宽容和赋权的关键主题和项目。为每个主题设计多个 Likert 式问题，由焦点小组评估每个项目的**相关性、清晰度和适合度**。修改后在实验前[[Pre-test and Post-test\|后测]]量。 |
+> | **[[Questionnaire\|问卷]]开发** | 焦点小组→主题→项目 | 通过与总体代表进行焦点小组讨论开发问卷。识别人口因素、身份、公民身份、宽容和赋权的关键主题和项目。为每个主题设计多个 Likert 式问题，由焦点小组评估每个项目的**相关性、清晰度和适合度**。修改后在实验前[[Pre-test and Post-test\|后测]]量。 |
 > | **虚拟环境** | 类似 Second Life 但自托管 | 构建类似 Second Life 的虚拟环境，但安全托管在自有计算机上，仅通过**安全密码系统**进入以解决访问顾虑。环境包含从焦点小组讨论开发的物品清单（inventory）。化身访问清单选择和使用物品，每次必须附加价值观和相关定义。价值观和定义存储在**价值观词典（Values Dictionary）**中，随时间积累。 |
 > | **[[Independent Variable\|自变量]]** | 问卷收集 | 通过问卷收集基本人口统计信息，用作分析中的[[Independent Variable\|自变量]]；同时测量适当的公民身份相关态度。 |
 
@@ -573,7 +576,7 @@ updated: 2026-07-19
 >
 > *Complex, patterned behaviour emerges from simple rules, and the patterns cannot be understood entirely in terms of the initial conditions that gave rise to them — the new whole is greater than the sum of the parts.*
 
-> [!citation-card]- 虚拟世界中沟通的理想言说情境
+> [!citation-card]- 虚拟世界中沟通的[[Ideal Speech Situation|理想言说情境]]
 > 共识仅源于更好论证的力量，而非参与者的位置或政治权力。（Habermas, 1979, 1984; Morrison, 1995a, p. 102; pp. 158–159）
 >
 > *The consensus resulting from discussion derives from the force of the better argument alone, and not from the positional or political power of the participants.*

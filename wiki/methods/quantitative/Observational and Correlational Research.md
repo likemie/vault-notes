@@ -21,6 +21,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Questionnaire]]"
   - "[[Research Utilization]]"
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
@@ -66,7 +67,7 @@ updated: 2026-05-18
 
 > [!example] 操作步骤
 > - **选择[[Variable|变量]]与样本** 研究者在既有情境中测量学生、教师、课堂或学校变量，而不是主动设置干预([[Argument_Brady_2023_EPR|Brady et al., 2023, p.3]])。
-> - **收集量化数据** 数据可来自自陈问卷、大型数据库或其他量化测量。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 提到，一些[[Research Utilization|研究使用]]数万名学生的自陈变量并以结构方程模型分析。
+> - **收集量化数据** 数据可来自自陈[[Questionnaire|问卷]]、大型数据库或其他量化测量。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 提到，一些[[Research Utilization|研究使用]]数万名学生的自陈变量并以结构方程模型分析。
 > - **分析变量关系** 研究通常估计变量间关联、预测关系、中介或模型路径；Brady et al. 指出，建模方法的术语可能诱发"predictors""mediators""outcomes"等带有因果色彩的表达([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
 > - **生成后续[[Hypothesis|假设]]** 在研究序列中，描述性和相关性研究可识别可能的[[Causality|因果关系]]，随后应通过干预或[[Experimental Research|实验研究]]正式检验([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 

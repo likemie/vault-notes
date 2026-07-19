@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Document]]"
+  - "[[Questionnaire]]"
   - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
 related_theories: []
@@ -104,7 +105,7 @@ citation_aliases:
 >
 > ### 三、核心转向：教师不是收集数据的人，而是解释证据的人
 >
-> 7. 文章把 Visible Learning 的核心压缩为“认识你的影响”。教师的角色不是简单收集数据、填问卷、写报告，而是成为证据的优秀解释者，判断干预对学生产生的好处、价值和重要性。
+> 7. 文章把 Visible Learning 的核心压缩为“认识你的影响”。教师的角色不是简单收集数据、填[[Questionnaire|问卷]]、写报告，而是成为证据的优秀解释者，判断干预对学生产生的好处、价值和重要性。
 > 8. 这种评价不是个人英雄主义。教师需要共同判断影响的大小、深度和可比性；[[School Leadership|学校领导]]要为这种讨论提供安全、公平、可合作的环境(pp.12-13)。
 > 9. Hattie 将教师的工作概括为 DIE：诊断学生进入课堂时的状态，准备多种干预方式，并评价学生对干预的反应(p.13)。
 >

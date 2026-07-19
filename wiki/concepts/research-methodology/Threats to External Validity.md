@@ -27,6 +27,7 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Dependent Variable]]"
   - "[[Operationalization]]"
+  - "[[Questionnaire]]"
   - "[[Pre-test and Post-test]]"
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
@@ -84,7 +85,7 @@ updated: 2026-07-13
 > - **未能明确描述自[[Variable|变量]]** 除非[[Independent Variable|自变量]]得到充分描述，未来复制研究条件几乎不可能——这是科学可重复性危机的一个重要来源
 > - **可用总体与[[Study Population and Sample|目标总体]]缺乏代表性** 参与研究者可能对可用总体有代表性，但对目标总体没有——抽样或[[Random Assignment|随机化]]不足
 > - **[[Hawthorne Effect|霍桑效应]]** 受试者因意识到被研究而改变行为——他们的行为不再是自然行为。医学研究长期用安慰剂和双盲设计应对，在教育研究中同样威胁着处理效度的可推广性
-> - **[[Dependent Variable|因变量]][[Operationalization|操作化]]不充分** 操作化必须在非研究情境中也具有效度。例如职业选择的纸笔问卷在大学生实际就业决策方面可能几乎没有效度——操作化和真实世界之间存在鸿沟
+> - **[[Dependent Variable|因变量]][[Operationalization|操作化]]不充分** 操作化必须在非研究情境中也具有效度。例如职业选择的纸笔[[Questionnaire|问卷]]在大学生实际就业决策方面可能几乎没有效度——操作化和真实世界之间存在鸿沟
 > - **对实验条件的敏感化/反应性** [[Pre-test and Post-test|前测]]可能改变受试者对干预变量的敏感性——后测表现反映的可能是对前测的记忆，而非干预的真实效果
 > - **外来因素与实验处理的[[Interaction Effect|交互效应]]** 多种混淆因素与处理之间的交互作用
 > - **工具的无效或不可靠** 使用产生不可信数据的工具
@@ -150,7 +151,7 @@ Onwuegbuzie & Leech (2006b: 237–8) 进一步识别了质性研究中跨越十�
 > - **总体/生态/时间可推广性** 研究者是否成功地将推广和非推广的边界保持在合理范围内
 > - **研究者偏差** 研究者偏见对外部效度的威胁——与[[Threats to Internal Validity|内部效度威胁]]共享
 > - **反应性** 研究对情境的改变效应对外部效度的威胁——与内部效度威胁共享
-> - **顺序偏差** 访谈/观察/问卷中问题顺序对结果[[Reliability|可依赖性]]的影响，进而限制推广
+> - **顺序偏差** 访谈/观察/[[Questionnaire|问卷]]中问题顺序对结果[[Reliability|可依赖性]]的影响，进而限制推广
 > - **[[Effect Size|效应量]]** 未能将效应量纳入质性分析，限制了发现的精确性和可推广性
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 172–173)]]

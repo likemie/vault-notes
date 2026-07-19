@@ -20,6 +20,7 @@ tags:
   - experiment
   - online-research
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Internal Validity]]"
@@ -56,7 +57,7 @@ updated: 2026-07-13
 > [!method-scope] 方法范围
 > - **研究对象** 远程参与者，在其自身环境中接受实验刺激并作出反应。
 > - **问题类型** 与传统实验相同——检验干预或操纵是否产生因果效应，但增加了对远程参与行为和技术变异本身的研究。
-> - **分析单位** 个体参与者的反应数据（反应时、选择、问卷回答）。
+> - **分析单位** 个体参与者的反应数据（反应时、选择、[[Questionnaire|问卷]]回答）。
 > - **输出形式** 组间比较（实验组 vs 控制组）、退出率分析、技术变异分析。
 
 ## 方法定位

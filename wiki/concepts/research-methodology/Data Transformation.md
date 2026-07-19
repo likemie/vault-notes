@@ -10,6 +10,7 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [mixed-methods, research-methodology, data-analysis]
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[Variable]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Analytic Framework]]"
@@ -51,7 +52,7 @@ updated: 2026-07-11
 > 将质性数据转换为数值形式。例如给特定回应、[[Coding in Qualitative Research|编码]]或主题赋予**频率计数（frequency counts）**以建立规律性或特殊性（Sandelowski et al., 2009: 210），或赋予**强度评定量表（rating scales of intensity, Teddlie and Tashakkori, 2009: 269）**。Miles & Huberman (1994) 是这一方法的早期倡导者。Bazeley (2006: 68) 报告了可辅助研究者的软件（如 [[Qualitative Computer Software|QDAS]]），例如用于频率计数。
 
 > [!line-b] 质化（Qualitizing）
-> 将量化数据转换为叙事形式，然后用质性数据分析程序处理。例如将问卷调查中的数值回答转化为关于参与者经验的叙事性描述，或从统计模式中提取质性主题。
+> 将量化数据转换为叙事形式，然后用质性数据分析程序处理。例如将[[Questionnaire|问卷调查]]中的数值回答转化为关于参与者经验的叙事性描述，或从统计模式中提取质性主题。
 
 ---
 

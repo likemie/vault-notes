@@ -23,6 +23,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
+  - "[[Questionnaire]]"
   - "[[Content Validity]]"
   - "[[Reliability]]"
   - "[[Construct]]"
@@ -98,7 +99,7 @@ updated: 2026-07-13
 ### 4.2 执行程序：三阶段基本流程
 操作逻辑为先探索、再开发、后检验：
 1. **第一质性阶段** 从小样本（通常 10-30 人）收集质性数据（如[[Qualitative Interview|深度访谈]]），产出对现象的丰富理解（主题、维度或过程模型）。
-2. **工具开发阶段** 核心桥梁。将质性主题转化为问卷条目，通过专家审查或认知访谈验证[[Content Validity|内容效度]]，形成初步量化工具。
+2. **工具开发阶段** 核心桥梁。将质性主题转化为[[Questionnaire|问卷]]条目，通过专家审查或认知访谈验证[[Content Validity|内容效度]]，形成初步量化工具。
 3. **第三量化阶段** 在大样本施测，通过因子分析、[[Reliability|信度]]分析等评估测量属性，并检验基于质性发现推导的[[Hypothesis|研究假设]]。
 
 ### 4.3 桥梁逻辑：从文字到数字的翻译
@@ -153,7 +154,7 @@ updated: 2026-07-13
 ## 7. 使用此方法的研究
 
 > [!example] 案例：Enosh et al. (2015)
-> 首先通过[[Qualitative Interview|质性访谈]]探索社会工作者遭受客户暴力的经历，基于发现开发了客户暴力问卷（CVQ），随后通过两种不同的调查程序应用并检验了该工具([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.138–139]])。
+> 首先通过[[Qualitative Interview|质性访谈]]探索社会工作者遭受客户暴力的经历，基于发现开发了客户暴力[[Questionnaire|问卷]]（CVQ），随后通过两种不同的调查程序应用并检验了该工具([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.138–139]])。
 
 ---
 

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Research Translation]]"
   - "[[Clinical Trial]]"
+  - "[[Questionnaire]]"
   - "[[Informationalization]]"
   - "[[University-Industry Co-location]]"
   - "[[Further Education]]"
@@ -192,7 +193,7 @@ citation_aliases:
 
 9. 大型大学拥有研究中心、实验室、专利、校友网络、产业关系等丰富资源，但这些资源往往分散在不同的院系和研究所里，运作在平行孤岛（parallel silos）中。管理学院在做创业孵化，工程学院在做[[Technology Transfer|技术转移]]，医学院在做[[Clinical Trial|临床试验]]，各自有产业伙伴，但彼此之间几乎没有协调(p.126)。
 
-10. 资产映射系统地把这些分散的资产梳理出来，建立一张"谁有什么、谁需要什么"的地图。其实质是真实的关系建立（authentic relationship building），通过与每个利益相关者坐下来对话，了解他们的优势、需求和优先事项。这区别于填表格或做问卷调查，因为后者能收集数据却无法建立信任(p.126)。
+10. 资产映射系统地把这些分散的资产梳理出来，建立一张"谁有什么、谁需要什么"的地图。其实质是真实的关系建立（authentic relationship building），通过与每个利益相关者坐下来对话，了解他们的优势、需求和优先事项。这区别于填表格或做[[Questionnaire|问卷调查]]，因为后者能收集数据却无法建立信任(p.126)。
 
 > [!example]
 > 一所综合性大学要建教育科技创新中心。资产映射的第一步是派一名资深职员逐个拜访以下各方。教育学院的研究团队正在做什么方向的教育研究？计算机系的 AI 实验室有哪些技术可以转化到教育场景？附属中学有哪些真实的课堂痛点需要技术解决？本地教育局在推什么教育[[Informationalization|信息化]]政策？校友中的教育科技创业者当年为什么离开本地去别的城市创业？只有跑完这些对话，才能画出一张准确的"资产地图"，知道谁是真正的技术供给方、谁是需求方、谁是可能的出资方、还缺什么。

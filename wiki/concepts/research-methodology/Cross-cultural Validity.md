@@ -27,6 +27,7 @@ related_concepts:
   - "[[Response Bias]]"
   - "[[Research Utilization]]"
   - "[[Back Translation]]"
+  - "[[Questionnaire]]"
   - "[[Concurrent Validity]]"
   - "[[Reliability]]"
   - "[[Internal Consistency]]"
@@ -86,7 +87,7 @@ updated: 2026-06-23
 ## 保障技术：回译与七步法
 
 > [!proc] [[Back Translation|回译]]（Back translation）的标准流程
-> 1. **原文 → 译文** 将原始语言版本（如英文问卷）翻译为目标语言（如中文）
+> 1. **原文 → 译文** 将原始语言版本（如英文[[Questionnaire|问卷]]）翻译为目标语言（如中文）
 > 2. **译文 → 回译** 将译文交给**未见过原始版本**的第三方，由该第三方将译文回译为原文语言
 > 3. **两个原文版本比较** 比较原始版本与回译版本——检查意义是否相同
 > 4. **判断与迭代** 意义相同 → 译文可接受；意义不一致 → 修改译文并重新进行此过程

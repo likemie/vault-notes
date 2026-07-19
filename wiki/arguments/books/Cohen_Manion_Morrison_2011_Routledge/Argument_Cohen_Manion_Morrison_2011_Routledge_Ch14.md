@@ -37,6 +37,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Research Purpose]]"
+  - "[[Questionnaire]]"
   - "[[Research Question]]"
   - "[[Formative Assessment]]"
   - "[[Reflexivity]]"
@@ -71,6 +72,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Fitness for Purpose]]"
   - "[[Experimenter Bias]]"
+  - "[[Presence]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Ethnography]]"
@@ -252,7 +254,7 @@ Yin的四种设计类型横跨单案例/多案例和整体性/嵌入性两个维
 
 > [!feature] Yin（2009, p. 46ff.）的四种设计类型
 > - **单案例设计（[[Single-Case Design]]）** 可聚焦于：(a) 关键案例，具备理论预测的所有条件；(b) 极端案例或独特案例；(c) 代表性或典型案例；(d) 启示性案例（revelatory case），研究此前未被研究过的案例的机会，如Whyte的《街角社会》（见第11章）；(e) 纵向案例。风险是把所有鸡蛋放在一个篮子里，全有或全无
-> - **嵌入式单案例设计（embedded single-case design）** 将多个分析单位纳入同一设计。例如对整所学校的个案研究同时使用班级、教师、学生、家长等子单位，每种子单位可能需要不同的数据收集工具（问卷、访谈、观察等）
+> - **嵌入式单案例设计（embedded single-case design）** 将多个分析单位纳入同一设计。例如对整所学校的个案研究同时使用班级、教师、学生、家长等子单位，每种子单位可能需要不同的数据收集工具（[[Questionnaire|问卷]]、访谈、观察等）
 > - **多案例设计（multiple-case design）** 比较性个案研究或复制性个案研究。Campbell（1975, p. 180）反对单案例研究，认为有两个案例用于比较目的，其价值超过单案例研究数据量翻倍。类似准实验：一个地方教育当局可能想看到一项新创新（如数学教学）在三种条件下的效果，教师接受校内教师发展、教师参加外部课程、教师同时接受两种形式。个案研究观察每所学校的效果（cf. Yin, 2009, pp. 54–55）
 > - **嵌入式多案例设计（embedded multiple-case design）** 不同案例中涉及不同子单位，每种子单位可使用多种工具（问卷、访谈、观察、档案记录等），每个案例的数据保持独立
 
@@ -698,7 +700,7 @@ Yin（2009, pp. 185–189）认为一项典范（exemplary）个案研究必须�
 > [!citation-card]- 在先前观察的笔记完成之前，绝不要恢复观察
 > Wolcott的一条有用提示：仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。（第14章，p.296）
 >
-> *One useful tip from this experienced ethnographer is worth noting: never resume your observations until the notes from the preceding observation are complete. There is nothing to be gained merely by your presence as an observer.*
+> *One useful tip from this experienced ethnographer is worth noting: never resume your observations until the notes from the preceding observation are complete. There is nothing to be gained merely by your [[Presence]] as an observer.*
 
 > [!citation-card]- [[Non-participant Observation|非参与观察]]者的经典实践：King（1979）在幼儿课堂中
 > King回忆他如何通过认识到幼儿将任何成人视为另一位教师或代课教师来牢固确立他的非参与地位。因此他会站立保持社会距离，故意避免显示即时兴趣和回避眼神接触。（第14章，p.291）

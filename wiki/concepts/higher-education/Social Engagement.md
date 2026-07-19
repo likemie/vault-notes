@@ -21,6 +21,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
   - "[[Economy of Experience]]"
+  - "[[Questionnaire]]"
   - "[[Operationalization]]"
   - "[[Habitus]]"
   - "[[Student-Teacher Relationship]]"
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Academic Engagement]] — 社会性投入聚焦人际互动和课外活动（学生组织、实习、同伴交往），学业投入聚焦学术相关活动（课程学习、师生学术互动、学术规范）。两者在[[Yajun Zheng|郑雅君]]（2023）框架中构成"投入过程"的两个互补维度
-> - vs Tinto 的社交融入（Social integration）— Tinto 侧重**心理层面**的融入感（"社交环境与自己的偏好或期待相协调的程度"），Kuh 的社会性投入侧重**行为层面**的时间精力分配。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]综合使用两者——问卷测量行为投入，访谈评估融入质量（，引 Tinto, 1993; Kuh, 1991）
+> - vs Tinto 的社交融入（Social integration）— Tinto 侧重**心理层面**的融入感（"社交环境与自己的偏好或期待相协调的程度"），Kuh 的社会性投入侧重**行为层面**的时间精力分配。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]综合使用两者——[[Questionnaire|问卷]]测量行为投入，访谈评估融入质量（，引 Tinto, 1993; Kuh, 1991）
 
 ---
 

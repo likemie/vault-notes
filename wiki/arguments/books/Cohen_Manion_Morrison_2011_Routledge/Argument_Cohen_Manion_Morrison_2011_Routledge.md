@@ -87,6 +87,13 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Class Size]]"
   - "[[Critique of Meta-analysis]]"
+  - "[[Computer Simulation]]"
+  - "[[Virtual World]]"
+  - "[[Avatar]]"
+  - "[[Questionnaire]]"
+  - "[[Likert Scale]]"
+  - "[[Semantic Differential]]"
+  - "[[Covering Letter]]"
   - "[[Construct]]"
   - "[[Statistical Significance]]"
   - "[[Descriptive Analysis]]"
@@ -139,6 +146,9 @@ related_methods:
   - "[[Participatory Action Research]]"
   - "[[Nominal Group Technique]]"
   - "[[Delphi Technique]]"
+  - "[[Agent-based Modelling]]"
+  - "[[Projection Technique]]"
+  - "[[Pilot Testing]]"
   - "[[Grounded Theory]]"
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -165,6 +175,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
@@ -204,7 +215,7 @@ updated: 2026-07-18
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|第18章 Action research]] | 系统介绍[[Action Research\|行动研究]]的定义谱系、原则与特征、[[Participatory Action Research\|参与式行动研究]]、作为批判实践的三分类型学、与[[Complexity Theory\|复杂性理论]]的关联、操作程序（含[[Nominal Group Technique\|名义小组技术]]和[[Delphi Technique\|德尔菲技术]]）、报告撰写、[[Reflexivity\|反身性]]及实践与理论议题。 | [[Action Research]]、[[Participatory Action Research]]、[[Reflexivity]]、[[Nominal Group Technique]]、[[Delphi Technique]] |
 > | **Part 4 资料收集的策略与工具** | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|第19章 Virtual worlds in educational research]] | 介绍[[Computer Simulation\|计算机模拟]]和[[Virtual World\|虚拟世界]]的定义与特征对比、[[Complexity Theory\|复杂性理论]]与哈贝马斯理想言说情境的理论基础、[[Agent-based Modelling\|基于主体建模]]和[[Projection Technique\|投射技术]]，以及虚拟世界在教育研究中的应用案例、操作指南、伦理议题和在线数据收集工具。 | [[Virtual World]]、[[Computer Simulation]]、[[Agent-based Modelling]]、[[Avatar]]、[[Projection Technique]] |
-> | 第21章 Questionnaires | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|第20章 Questionnaires]] | 系统介绍[[Questionnaire\|问卷]]设计的全流程：从伦理议题（知情同意、保密、方法论严谨性即伦理问题）、规划与[[Operationalization\|操作化]]（八阶段序列、Selltiz四类决策、以数据分析为规划导向）、题型体系（二分类、多选、排序、[[Likert Scale\|李克特量表]]、[[Semantic Differential\|语义差异量表]]、固定总和、比率、开放题、矩阵题、条件/过滤/分支题）到敏感问题处理、措辞十大陷阱、题目排序、布局、[[Covering Letter\|封面信]]与跟进信、[[Pilot Testing\|预测试]]的双重类型（格式预测试与统计缩减预测试）、自填与邮寄施测以及数据处理（编辑、编码）的完整操作指南。 | [[Questionnaire]]、[[Likert Scale]]、[[Semantic Differential]]、[[Pilot Testing]]、[[Operationalization]] |
 > | 第22章 Interviews | | |
 > | 第23章 Accounts | | |
 > | 第24章 Observation | | |

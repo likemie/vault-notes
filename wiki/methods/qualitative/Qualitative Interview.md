@@ -34,6 +34,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
+  - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Reflexivity]]"
   - "[[External Validity]]"
@@ -213,7 +214,7 @@ Silverman（1993: 92–93）补充了访谈的六项用途：
 > 深度访谈的效度不依赖[[Sample Size Determination|样本量]]，而依赖资料收集和分析过程中的严谨性。常见策略包括：
 >
 > - **人员校验法（[[Member Checking|member check]]）** 受访者陈述重要观点后，研究者用自身语言复述一遍与受访者确认，确保对意义的准确理解
-> - **[[Triangulation|三角互证]]法（triangulation）** 将访谈结果与观察记录、文件资料、问卷数据等进行交叉对照
+> - **[[Triangulation|三角互证]]法（triangulation）** 将访谈结果与观察记录、文件资料、[[Questionnaire|问卷]]数据等进行交叉对照
 > - **跟踪式设计** 在条件允许时，与受访者保持长期联系，观察其实际行动以检视叙述的[[Reliability|可靠性]]
 > - **[[Reflexivity|反身性]]记录** 研究者持续记录自身前见、情绪反应和访谈过程中的意外，以便在分析阶段区分"受访者的意义"与"研究者的投射"
 

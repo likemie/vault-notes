@@ -18,6 +18,11 @@ tags:
   - theme/research-planning
 related_concepts:
   - "[[Research Purpose]]"
+  - "[[Effect Size]]"
+  - "[[Statistical Significance]]"
+  - "[[Evaluation Research]]"
+  - "[[Critique of Effect Size]]"
+  - "[[Questionnaire]]"
   - "[[Covert Research]]"
   - "[[Research Question]]"
   - "[[Research Ethics]]"
@@ -25,15 +30,16 @@ related_concepts:
   - "[[Causality]]"
 related_theories: []
 related_methods:
+  - "[[Mixed Methods Research]]"
   - "[[Stratified Sampling]]"
   - "[[Action Research]]"
   - "[[Ethnography]]"
-  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
 confidence: medium
 status: draft
 created: 2026-06-19
@@ -53,19 +59,19 @@ updated: 2026-07-15
 
 > [!boundary] 概念边界
 > - **不等于方法偏好** 研究者的技能或方法偏好不能替代目的适配性判断——"让尾巴摇狗"是本末倒置。
-> - **不排斥混合方法** 适配性在[[Mixed Methods Research|混合方法研究]]中同样适用，需要在质性和量化成分之间同时建立内在一致性。
+> - **不排斥[[Mixed Methods Research|混合方法]]** 适配性在[[Mixed Methods Research|混合方法研究]]中同样适用，需要在质性和量化成分之间同时建立内在一致性。
 > - **不替代具体方法选择** 目的适配性提供的是排除失配的框架，而非自动选择方法的算法。
 
 ### Fitz-Gibbon 在效应量语境中的使用
 
-Fitz-Gibbon（1985）将目的适配性引入效应量讨论：主张以[[Effect Size|效应量]]替代[[Statistical Significance|统计显著性]]作为评估研究的主要指标。效应大小是否满足研究目的，而非是否跨过了显著性水平的任意截断点（如 5%），才应成为判断研究发现有用性的标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.339–340]]）。这一用法将目的适配性从研究规划的方法选择原则扩展到了统计推断的解释准则——同一效应量在不同研究目的下有不同的意义，没有一个一刀切的判断标准。参见 [[Critique of Effect Size]]。
+Fitz-Gibbon（1985）将目的适配性引入[[Effect Size|效应量]]讨论：主张以[[Effect Size|效应量]]替代[[Statistical Significance|统计显著性]]作为[[Evaluation Research|评估研究]]的主要指标。效应大小是否满足研究目的，而非是否跨过了显著性水平的任意截断点（如 5%），才应成为判断研究发现有用性的标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.339–340]]）。这一用法将目的适配性从研究规划的方法选择原则扩展到了统计推断的解释准则——同一效应量在不同研究目的下有不同的意义，没有一个一刀切的判断标准。参见 [[Critique of Effect Size]]。
 
 ---
 
 ## 核心命题
 
 > [!claim] 目的决定方法，而非方法决定目的
-> 研究者不能简单地说自己喜欢问卷、害怕数字或偏好访谈，也不能因为觉得[[Covert Research|隐蔽研究]]不道德就永远不做隐蔽研究。这是让尾巴摇狗。[[Research Purpose|研究目的]]必须决定后续的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> 研究者不能简单地说自己喜欢[[Questionnaire|问卷]]、害怕数字或偏好访谈，也不能因为觉得[[Covert Research|隐蔽研究]]不道德就永远不做隐蔽研究。这是让尾巴摇狗。[[Research Purpose|研究目的]]必须决定后续的研究类型、[[Research Question|研究问题]]、资料收集工具、抽样策略、[[Research Ethics|研究伦理]]和[[Research Scope|研究范围]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ### 三种典型情境的适配
 

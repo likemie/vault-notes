@@ -26,6 +26,7 @@ related_concepts:
   - "[[Order Effects]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
+  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Pearson Product-Moment Correlation]]"
@@ -99,7 +100,7 @@ updated: 2026-07-13
 ### 适用条件
 
 > [!info] 适用范围与注意事项
-> 重测信度一般适用于**事实性的问卷调查**，或不易受环境影响的**态度、意识等主观状况**。但它易受某些活动的影响，因此时间间隔不宜过长。选择适当的时间间隔需要基于对[[Construct|构念]]稳定性的理论理解：间隔过短可能受记忆效应影响（受试者记住前次回答），间隔过长可能反映构念本身的真实变化而非测量不稳定（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.5；[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。
+> 重测信度一般适用于**事实性的[[Questionnaire|问卷调查]]**，或不易受环境影响的**态度、意识等主观状况**。但它易受某些活动的影响，因此时间间隔不宜过长。选择适当的时间间隔需要基于对[[Construct|构念]]稳定性的理论理解：间隔过短可能受记忆效应影响（受试者记住前次回答），间隔过长可能反映构念本身的真实变化而非测量不稳定（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.5；[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。
 
 > [!example] PSS 重测信度
 > Perceived Stress Scale（PSS; Cohen et al., 1983）在很多已发表报告中具有良好的[[Internal Consistency|内部一致性]]（α = .84–.86），同时研究者也可以评估其重测信度——即 PSS 在间隔一个月后重复施测时是否产生稳定的知觉压力估计值。这一信息有助于判断 PSS 是适合评估长期压力水平（高重测信度）还是对近期事件更敏感（低重测信度）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。

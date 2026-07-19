@@ -26,6 +26,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Interaction Effect]]"
+  - "[[Questionnaire]]"
   - "[[Competitiveness]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -158,7 +159,7 @@ updated: 2026-07-13
 >
 > **完整目的陈述**
 >
-> "本研究的目的是考察个人特征与在美国选定州立成人矫正机构中任教的认证教育者工作动机之间的关系。个人特征分为受访者背景信息（即机构信息、教育水平、先前培训等）和受访者对更换工作的想法两类……工作动机由教育工作成分研究（EWCS）问卷（Miskel & Heller, 1973）中识别出的六个一般因素定义。这六个因素是：个人挑战与发展的潜力；竞争性；成功的渴望与回报；对工作压力的容忍度；保守的安全感；以及在不确定性中寻求回报的意愿 vs 回避。" ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States. Personal characteristics were divided into background information about the respondent (i.e., institutional information, education level, prior training, etc.) and information about the respondents' thoughts of changing jobs. . . . Job motivation was defined by six general factors identified in the educational work components study (EWCS) questionnaire (Miskel & Heller, 1973). These six factors are: potential for personal challenge and development; [[Competitiveness]]; desirability and reward of success; tolerance for work pressures; conservative security; and willingness to seek reward in spite of uncertainty vs. avoidance." pp.4–5)
+> "本研究的目的是考察个人特征与在美国选定州立成人矫正机构中任教的认证教育者工作动机之间的关系。个人特征分为受访者背景信息（即机构信息、教育水平、先前培训等）和受访者对更换工作的想法两类……工作动机由教育工作成分研究（EWCS）[[Questionnaire|问卷]]（Miskel & Heller, 1973）中识别出的六个一般因素定义。这六个因素是：个人挑战与发展的潜力；竞争性；成功的渴望与回报；对工作压力的容忍度；保守的安全感；以及在不确定性中寻求回报的意愿 vs 回避。" ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States. Personal characteristics were divided into background information about the respondent (i.e., institutional information, education level, prior training, etc.) and information about the respondents' thoughts of changing jobs. . . . Job motivation was defined by six general factors identified in the educational work components study (EWCS) questionnaire (Miskel & Heller, 1973). These six factors are: potential for personal challenge and development; [[Competitiveness]]; desirability and reward of success; tolerance for work pressures; conservative security; and willingness to seek reward in spite of uncertainty vs. avoidance." pp.4–5)
 
 >
 > **要素对照**

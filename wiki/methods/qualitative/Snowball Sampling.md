@@ -22,6 +22,7 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Research Question]]"
+  - "[[Questionnaire]]"
   - "[[Sensitive Research]]"
   - "[[Gatekeepers]]"
   - "[[Epistemology]]"
@@ -76,7 +77,7 @@ updated: 2026-07-11
 > - **研究对象** 难以通过正式渠道接触的隐藏人群、具有高度同质性与防御性的紧密社群、政策精英、敏感话题参与者。
 > - **问题类型** 适合回答探索性、解释性、描述性以及涉及社会关系网络的[[Research Question|研究问题]]，特别是正式进入门槛较高的制度与空间博弈问题。
 > - **分析单位** 个体或嵌入特定人际关系网络中的社会行动者。
-> - **输出形式** 经由社会网络推荐链建立的非概率样本，主要以[[Qualitative Interview|质性访谈]]转录材料或探索性问卷数据形式呈现。
+> - **输出形式** 经由社会网络推荐链建立的非概率样本，主要以[[Qualitative Interview|质性访谈]]转录材料或探索性[[Questionnaire|问卷]]数据形式呈现。
 
 > [!citation-card]- 关键定义
 > 滚雪球抽样在[[Sensitive Research|敏感研究]]中通常被称为网络化，旨在强调其借助社会关系链来规避行政审查与[[Gatekeepers|守门人]]门槛的核心功能。每一波推荐不仅扩大了样本，同时也由于人际背书而在研究者与参与者之间建立了一层安全保护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]]（引自 Lee, 1993, p. 66）

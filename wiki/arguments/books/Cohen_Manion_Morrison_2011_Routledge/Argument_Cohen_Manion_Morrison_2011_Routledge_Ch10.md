@@ -42,6 +42,7 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Qualitative Validity]]"
   - "[[Rich and Thick Description]]"
+  - "[[Questionnaire]]"
   - "[[Emergence]]"
   - "[[Concurrent Validity]]"
   - "[[Predictive Validity]]"
@@ -226,7 +227,7 @@ updated: 2026-07-13
 > - **研究者是被研究世界的一部分** 研究者不是站在世界之外的观察者，而是在世界之中
 > - **双重诠释学（double hermeneutic, Giddens, 1979）** 我们生活在一个已经被解释过的世界中，研究者需要理解他人如何理解世界。悖论在于：理解人类生命的最充分复杂的工具是另一个人类（Lave & Kvale, 1995: 220），但这同时也带来了各种形式的人类错误风险
 > - **研究中的整体论（holism）** 不将现象碎片化，而是在整体中理解部分
-> - **研究者是关键工具** 研究者而非问卷或量表是研究的关键工具
+> - **研究者是关键工具** 研究者而非[[Questionnaire|问卷]]或量表是研究的关键工具
 > - **数据是描述性的** 以文字和叙述而非数字为主要呈现形式
 > - **关注过程而非仅仅关注结果** 关注"如何发生"和"为什么发生"
 > - **归纳分析** 不使用先验范畴，让范畴从数据中[[Emergence|涌现]]

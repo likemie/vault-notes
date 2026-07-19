@@ -50,6 +50,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Research Scope]]"
   - "[[Realism in International Relations]]"
+  - "[[Questionnaire]]"
   - "[[Front-loaded and End-loaded Research]]"
   - "[[Research Utilization]]"
   - "[[Reliability]]"
@@ -326,7 +327,7 @@ updated: 2026-07-13
 > [!chain-link] 范例二：成本约束的连锁效应
 > - **约束前提** 压倒性特征是研究在时间、人员和材料方面的成本几乎为零
 > - **连锁一（研究问题）** 采访在管理和转录方面时间成本高；商业数据收集工具（如测试）和计算机服务成本高昂
-> - **连锁二（工具数量）** 邮寄问卷在复印和邮资方面成本高昂
+> - **连锁二（工具数量）** 邮寄[[Questionnaire|问卷]]在复印和邮资方面成本高昂
 > - **连锁三（接触人员）** 如果教师需要脱产接受采访，可能需要找人代课
 > - **连锁四（焦点数量）** 有些焦点在研究者的时间方面成本高昂
 > - **连锁五（报告）** 书面报告数量、召集会议的成本

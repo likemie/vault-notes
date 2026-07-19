@@ -18,6 +18,7 @@ tags:
   - qualitative-research
   - quantitative-research
 related_concepts:
+  - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
@@ -59,7 +60,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> 非[[Random Sampling|概率抽样]]（Non-probability Sampling）是研究者有针对性地选择特定群体作为样本的抽样策略，总体中每个成员被选入样本的概率未知。与[[Random Sampling|概率抽样]]不同，非概率抽样中某些成员肯定会被排除、另一些肯定会被纳入——研究者有意地选择了总体的特定部分。它不试图代表更广泛的总体，只代表自身或同类群体中的实例。尽管存在非代表性的缺点，但设置简单、成本低，在研究不打算推广或仅进行问卷试点时完全够用。
+> 非[[Random Sampling|概率抽样]]（Non-probability Sampling）是研究者有针对性地选择特定群体作为样本的抽样策略，总体中每个成员被选入样本的概率未知。与[[Random Sampling|概率抽样]]不同，非概率抽样中某些成员肯定会被排除、另一些肯定会被纳入——研究者有意地选择了总体的特定部分。它不试图代表更广泛的总体，只代表自身或同类群体中的实例。尽管存在非代表性的缺点，但设置简单、成本低，在研究不打算推广或仅进行[[Questionnaire|问卷]]试点时完全够用。
 
 > [!method-scope] 方法范围
 > - **研究对象** 特定群体、难以接触人群、关键信息提供者或典型案例
@@ -82,7 +83,7 @@ updated: 2026-06-22
 
 > [!method-stack] 方法层级
 > - **研究设计**[[Case Study|案例研究]]、[[Ethnography|民族志]]、[[Action Research|行动研究]]、[[Grounded Theory|扎根理论]]、试点研究和小规模[[Survey Research|调查研究]]
-> - **数据收集** 访谈、观察、焦点小组、问卷试点、档案分析和文件审查
+> - **数据收集** 访谈、观察、焦点小组、[[Questionnaire|问卷]]试点、档案分析和文件审查
 > - **分析方法** 主题分析、叙事分析、扎根理论[[Coding in Qualitative Research|编码]]、案例内/跨案例分析
 > - **辅助技术** 滚雪球扩展、关键信息提供者识别、受访者驱动招募、加权调整
 

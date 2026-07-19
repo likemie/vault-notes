@@ -37,8 +37,10 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
   - "[[Independent Variable]]"
+  - "[[Questionnaire]]"
   - "[[Attrition]]"
   - "[[Sampling Error]]"
+  - "[[Computer Simulation]]"
   - "[[Standard Error]]"
   - "[[Effect Size]]"
   - "[[Gatekeepers]]"
@@ -284,7 +286,7 @@ Bartlett et al.（2001: 48–9）还指出：
 #### 非回应、流失与过度抽样
 
 确定样本量还必须考虑：
-- **无回应（non-response）** 部分参与者不返回问卷
+- **无回应（non-response）** 部分参与者不返回[[Questionnaire|问卷]]
 - **[[Attrition|流失]]（attrition）** 参与者中途退出研究
 - **受访者死亡（respondent mortality）** 参与者离开或因故无法继续
 - **无效回应** 不完整或损坏的问卷（如漏填项目、单选变多选）
@@ -792,7 +794,7 @@ Teddlie & Tashakkori（2009: 186–7）还推荐了两种混合变体：
 > *A question that often plagues novice researchers is just how large their samples for the research should be. There is no clear-cut answer, for the correct sample size depends on the [[Purpose Statement|purpose of the study]], the nature of the population under scrutiny, the level of accuracy required, the anticipated response rate, the number of variables that are included in the research, and whether the research is quantitative or qualitative.* (Ch. 8, p. 144)
 
 > [!citation-card]- [[Non-probability Sampling|非概率抽样]]的价值
-> 小规模研究常使用非[[Random Sampling|概率抽样]]，因为尽管存在非代表性的缺点，它们设置起来远不那么复杂，成本也低得多，并且在研究者不打算将发现推广到样本之外或仅进行问卷试点时完全够用。（第8章，p.158）
+> 小规模研究常使用非[[Random Sampling|概率抽样]]，因为尽管存在非代表性的缺点，它们设置起来远不那么复杂，成本也低得多，并且在研究者不打算将发现推广到样本之外或仅进行[[Questionnaire|问卷]]试点时完全够用。（第8章，p.158）
 >
 > *Small-scale research often uses non-probability samples because, despite the disadvantages that arise from their non-representativeness, they are far less complicated to set up, are considerably less expensive and can prove perfectly adequate where researchers do not intend to generalize their findings beyond the sample in question, or where they are simply piloting a questionnaire as a prelude to the main study.* (Ch. 8, p. 158)
 

@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Causality]]"
+  - "[[Questionnaire]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Study Population and Sample]]"
   - "[[Attrition]]"
@@ -77,7 +78,7 @@ updated: 2026-07-13
 
 > [!method-stack] 方法层级
 > - **研究设计** 重复横截面设计——在不同时间点对相同年龄组或相同总体抽取不同样本。
-> - **数据收集** 标准化测试、问卷、行政数据、公开统计数据。
+> - **数据收集** 标准化测试、[[Questionnaire|问卷]]、行政数据、公开统计数据。
 > - **分析方法** 趋势线拟合、时间序列分析、预测建模、跨队列比较。
 > - **辅助技术** 滚动样本设计（保留部分旧样本 + 补充新样本）；确保测量工具跨时间点严格一致。
 
