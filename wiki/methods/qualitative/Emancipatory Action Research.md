@@ -42,6 +42,7 @@ related_methods:
   - "[[Participatory Research]]"
 related_persons:
   - "[[Jürgen Habermas]]"
+  - "[[Stephen Kemmis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
@@ -55,7 +56,7 @@ updated: 2026-07-19
 ## 定义
 
 > [!def] 解放性[[Action Research|行动研究]]（Emancipatory Action Research）
-> 解放性行动研究是[[Action Research|行动研究]]中最激进的分支，以哈贝马斯（[[Jürgen Habermas|Habermas]]）的[[Critical Theory|批判理论]]为[[Epistemology|认识论]]基础，旨在发展参与者对阻碍其自主与自由的制度性和人际性约束的理解，帮助参与者从束缚走向自由、自主和社会正义（Grundy, 1987, pp. 146–147）。其核心目的不仅是技术和实践改进，还包括改变系统本身或阻碍系统改进的条件，没有层级，只有开放和对称沟通（Zuber-Skerritt, 1996a, p. 5）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–280)]]
+> 解放性行动研究是[[Action Research|行动研究]]中最激进的分支，以[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas|Jürgen Habermas]]）的[[Critical Theory|批判理论]]为[[Epistemology|认识论]]基础，旨在发展参与者对阻碍其自主与自由的制度性和人际性约束的理解，帮助参与者从束缚走向自由、自主和社会正义（雪莉·格伦迪（Shirley Grundy）, 1987, pp. 146–147）。其核心目的不仅是技术和实践改进，还包括改变系统本身或阻碍系统改进的条件，没有层级，只有开放和对称沟通（奥特伦·祖伯-斯凯里特（Ortrun Zuber-Skerritt）, 1996a, p. 5）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–280)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 阻碍参与者自主与自由的制度性和人际性约束——不合法的压制、支配和控制结构。
@@ -63,7 +64,7 @@ updated: 2026-07-19
 > - **分析单位** 制度结构、权力关系、社会情境中的个体与群体、参与者共同体。
 > - **输出形式** 实践变革、意识提升和系统层面的政治行动；通常以合作撰写的研究报告呈现。
 
-> [!citation-card]- Zuber-Skerritt 论解放性行动研究的系统变革目标
+> [!citation-card]- 祖伯-斯凯里特（Zuber-Skerritt）论解放性行动研究的系统变革目标
 > 解放性行动研究不仅旨在技术和实践改进以及参与者更好的理解，还旨在改变系统本身或阻碍系统改进的条件。没有层级，只有开放和对称沟通。（Zuber-Skerritt, 1996a, p. 5）
 >
 > *Emancipatory action research ... aims not only at technical and practical improvement and the participants' better understanding ... but also at changing the system itself or those conditions which impede desired improvement in the system/organization. ... There is no hierarchy, but open and 'symmetrical communication'.*
@@ -88,27 +89,27 @@ updated: 2026-07-19
 
 ## 理论框架：三种行动研究的区分
 
-解放性行动研究是 Grundy（1987）基于哈贝马斯（1972, 1974）知识构成性兴趣建构的[[Action Research|行动研究]]三分类型学中的第三类。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
+解放性[[Action Research|行动研究]]是格伦迪（Grundy, 1987）基于哈贝马斯（Habermas, 1972, 1974）知识构成性兴趣建构的[[Action Research|行动研究]]三分类型学中的第三类。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 
 > [!contrast-table] 三种行动研究的对比
 > | 维度 | 技术性（Technical） | 实践性（Practical） | 解放性（Emancipatory） |
 > |---|---|---|---|
 > | **知识兴趣（[[Jürgen Habermas\|Habermas]]）** | 技术兴趣：预测与控制 | 实践兴趣：理解与诠释 | 解放兴趣：自由与自主 |
 > | **核心目标** | 使现有情境更有效率 | 促进教师专业性，借助知情判断 | 发展参与者对约束的理解，从束缚走向自由、自主和社会正义 |
-> | **理论对应** | Argyris (1990) 单环学习；Schön (1987) 行动中反思 | Schön 行动后反思；诠释学活动 | 哈贝马斯解放兴趣；Argyris 双环学习 |
+> | **理论对应** | 阿吉里斯（Argyris, 1990）单环学习；舍恩（Schön, 1987）行动中反思 | 舍恩（Schön）行动后反思；诠释学活动 | 哈贝马斯解放兴趣；阿吉里斯（Argyris）双环学习 |
 > | **教师角色** | 技术执行者 | [[Reflexivity\|反思性]]专业者 | 批判性变革者 |
 > | **议程来源** | 外部设定（效率导向） | 教师[[Professional Judgment\|专业判断]]驱动 | 参与者自主识别权力约束 |
 > | **赋权含义** | 技术熟练 | 专业自主 | 社会民主与正义 |
-> | **核心局限** | Elliott (1991, p. 55)：过于个体化，忽视更广泛的课程结构 | 停留在理解层面，未触及结构性权力不平等 | 乌托邦性受到广泛批评 |
+> | **核心局限** | 埃利奥特（Elliott, 1991, p. 55）：过于个体化，忽视更广泛的课程结构 | 停留在理解层面，未触及结构性权力不平等 | 乌托邦性受到广泛批评 |
 
 > [!info] 技术性行动研究
-> 旨在使现有情境更有效率，偏重功能性和短期性。Elliott（1991, p. 55）认为这一观点过于个体化，将教师作为孤立个体，忽视了更广泛的课程结构和制度因素。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 272)]]
+> 旨在使现有情境更有效率，偏重功能性和短期性。埃利奥特（Elliott, 1991, p. 55）认为这一观点过于个体化，将教师作为孤立个体，忽视了更广泛的课程结构和制度因素。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 272)]]
 
 > [!info] 实践性行动研究
-> 支撑"[[Teacher-as-Researcher|教师即研究者]]"运动（teacher-as-researcher, Stenhouse, 1975）。Kincheloe（2003, p. 42）主张行动研究拒绝[[Positivism|实证主义]]的理性、客观性和真理观念，偏好诠释学理解和解放性实践。他进一步指出（p. 108）教师即研究者运动是政治事业，而非琐碎的食谱式技术方案。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 272)]]
+> 支撑"[[Teacher-as-Researcher|教师即研究者]]"运动（teacher-as-researcher, 劳伦斯·斯滕豪斯（Lawrence Stenhouse）, 1975）。乔·金奇洛（Joe L. Kincheloe, 2003, p. 42）主张行动研究拒绝[[Positivism|实证主义]]的理性、客观性和真理观念，偏好诠释学理解和解放性实践。他进一步指出（p. 108）教师即研究者运动是政治事业，而非琐碎的食谱式技术方案。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 272)]]
 
 > [!info] 解放性行动研究
-> 具有明确的政治议程，其政治性与教育性同样重要。Grundy（1987, pp. 146–147）指出解放性行动研究旨在发展参与者对阻碍其自主与自由的**不合法的结构性**和**人际性约束**的理解——这些约束基于不合法的压制、支配和控制。当参与者发展出对这些约束的意识，他们开始从不自由和约束走向自由、自主和社会正义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
+> 具有明确的政治议程，其政治性与教育性同样重要。格伦迪（Grundy, 1987, pp. 146–147）指出解放性行动研究旨在发展参与者对阻碍其自主与自由的**不合法的结构性**和**人际性约束**的理解——这些约束基于不合法的压制、支配和控制。当参与者发展出对这些约束的意识，他们开始从不自由和约束走向自由、自主和社会正义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 
 ---
 
@@ -118,18 +119,18 @@ updated: 2026-07-19
 > 实践（praxis）定义为通过反思赋予信息并以解放为目标的行动。它融合理论与实践于一个平等的社会秩序之中——[[Action Research|行动研究]]设计以改善社会、走向更公正平等的政治议程为目的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 273)]]
 
 > [!info] 赋权的两种含义
-> Kemmis（1997, p. 177）区分了行动研究中的两种"赋权"（empowerment）理解，这构成了[[Reflexivity|反思性]]实践传统与[[Critical Theory|批判理论]]传统之间的核心分歧（pp. 276–277）：
+> [[Stephen Kemmis|斯蒂芬·凯米斯]]（Kemmis, 1997, p. 177）区分了行动研究中的两种"赋权"（empowerment）理解，这构成了[[Reflexivity|反思性]]实践传统与[[Critical Theory|批判理论]]传统之间的核心分歧（pp. 276–277）：
 >
-> - **反思性实践传统（Elliott, Schwab, Schön）** 赋权意味着通过专业发展实现专业自主，在个体能力和工作情境范围内改进专业实践。
-> - **批判理论传统（Carr & Kemmis）** 赋权意味着在公正、平等、民主的社会中掌控自身生活，将行动研究作为改变教育、学校教育和社会的更广泛议程的一部分。
+> - **反思性实践传统（埃利奥特（Elliott）、施瓦布（Schwab）、舍恩（Schön））** 赋权意味着通过专业发展实现专业自主，在个体能力和工作情境范围内改进专业实践。
+> - **批判理论传统（卡尔（Carr）与凯米斯（Kemmis））** 赋权意味着在公正、平等、民主的社会中掌控自身生活，将行动研究作为改变教育、学校教育和社会的更广泛议程的一部分。
 
 ---
 
 ## 研究程序
 
-### Zuber-Skerritt 的四步循环
+### 祖伯-斯凯里特（Zuber-Skerritt）的四步循环
 
-> [!proc] Zuber-Skerritt (1996a, p. 3) 的解放性[[Action Research|行动研究]]四步循环
+> [!proc] 祖伯-斯凯里特（Zuber-Skerritt, 1996a, p. 3）的解放性[[Action Research|行动研究]]四步循环
 >
 > 1. **战略规划**
 >
@@ -147,9 +148,9 @@ updated: 2026-07-19
 >
 >    反思前三步结果，识别改进空间，为下一循环做决定。
 
-### Kincheloe 的七步过程
+### 金奇洛（Kincheloe）的七步过程
 
-> [!proc] Kincheloe (2003, pp. 138–139) 的解放性行动研究七步过程
+> [!proc] 金奇洛（Kincheloe, 2003, pp. 138–139）的解放性行动研究七步过程
 >
 > 1. **建构意义系统** 参与者建立对自身情境和其中意义的理解框架。
 > 2. **理解主导研究方法及其效应** 批判审视主流研究方法如何塑造知识的合法性和权力。
@@ -161,13 +162,13 @@ updated: 2026-07-19
 
 ### 理想言说情境
 
-解放性行动研究的方法论前提建立在哈贝马斯后期"[[Ideal Speech Situation|理想言说情境]]"（ideal speech situation）构想之上。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 275–276)]]
+解放性行动研究的方法论前提建立在哈贝马斯（[[Jürgen Habermas|Habermas]]）后期"[[Ideal Speech Situation|理想言说情境]]"（ideal speech situation）构想之上。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 275–276)]]
 
 > [!axioms] 理想言说情境下的解放性行动研究前提
 > - **具有政治议程的[[Reflexivity|反思性]]实践** 行动研究不只是技术方法，而是承载政治意图的反思性实践
 > - **所有参与者是平等的** 不存在研究者与被研究者的等级关系
 > - **对话性而非独白性** 行动研究必然是人际对话的，而非个体独白的
-> - **沟通是内在要素** 沟通发生于平等者共同体之中——Grundy & Kemmis（1988, p. 87）称其为对称沟通（symmetrical communication）
+> - **沟通是内在要素** 沟通发生于平等者共同体之中——格伦迪与[[Stephen Kemmis|凯米斯]]（Grundy & Kemmis, 1988, p. 87）称其为对称沟通（symmetrical communication）
 > - **民主并促进民主** 因为是平等者共同体，行动研究必然是民主的并促进民主
 > - **追求共识** 共识要求多于一个参与者，因此要求合作与参与
 
@@ -182,13 +183,13 @@ updated: 2026-07-19
 
 ## 解放性行动研究的障碍
 
-> [!warning] Zuber-Skerritt (1996b, p. 90) 识别的四个主要障碍
+> [!warning] 祖伯-斯凯里特（Zuber-Skerritt, 1996b, p. 90）识别的四个主要障碍
 > - **单环学习而非双环学习** 只解决表层问题而不质疑前提[[Hypothesis|假设]]，无法触及根本的结构性约束
 > - **过度依赖专家或上级** 独立思考和表达被权威压制
 > - **效率导向而非研究开发导向** 缺乏反思和提问的空间
 > - **关注操作性思维而非战略性思考** 被日常事务束缚，无法进行系统和长远的批判分析
 
-Zuber-Skerritt（1996a, p. 17）进一步指出四个实践问题：如何在正常工作量和有限时间内设计经济的数据收集方法；如何使技术足够具体以产生真正新见解而不被认为过于单薄或过于繁复；如何让方法容易被任何希望实践的人获得和使用；如何为投入的时间和精力回报真正的理解和技能进步。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 296)]]
+祖伯-斯凯里特（Zuber-Skerritt, 1996a, p. 17）进一步指出四个实践问题：如何在正常工作量和有限时间内设计经济的数据收集方法；如何使技术足够具体以产生真正新见解而不被认为过于单薄或过于繁复；如何让方法容易被任何希望实践的人获得和使用；如何为投入的时间和精力回报真正的理解和技能进步。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 296)]]
 
 ---
 
@@ -209,7 +210,7 @@ Zuber-Skerritt（1996a, p. 17）进一步指出四个实践问题：如何在正
 ### 权力分析与方法论缺陷
 
 > [!critique-method] 权力分析与方法论缺陷
-> - **假设理性共识可通过辩论达成，但低估权力问题** Grundy（1996, p. 111）指出更好的论证来自有更多证据和理由的人，这些资源更容易为有权者所用，平等的条件因此值得怀疑
+> - **假设理性共识可通过辩论达成，但低估权力问题** 格伦迪（Grundy, 1996, p. 111）指出更好的论证来自有更多证据和理由的人，这些资源更容易为有权者所用，平等的条件因此值得怀疑
 > - **高估共识导向研究的可取性** 以共识为目标的取向忽视了权力本身的复杂性——共识可能只是强势声音压制异议的结果
 > - **权力不能仅凭理性重新分配** 结构性的权力不平等不能仅靠理性辩论来消解，需要制度层面的变革
 > - **对群体理解天真** 颂扬群体胜于个体，特别是内群体而非外群体，忽视群体内部同样存在权力等级和排斥机制
@@ -219,14 +220,14 @@ Zuber-Skerritt（1996a, p. 17）进一步指出四个实践问题：如何在正
 ### 实践后果与可行性
 
 > [!critique] 实践后果与可行性
-> - **削弱个体[[Teacher-as-Researcher|教师即研究者]]** 偏袒自我批判的共同体，忽视了个体教师在课堂层面的能动性。Kemmis & McTaggart（1992, p. 152）自己也质疑为什么行动研究必须是群体过程
+> - **削弱个体[[Teacher-as-Researcher|教师即研究者]]** 偏袒自我批判的共同体，忽视了个体教师在课堂层面的能动性。凯米斯与麦克塔格特（Kemmis & McTaggart, 1992, p. 152）自己也质疑为什么行动研究必须是群体过程
 > - **减少实践影响** 将行动研究局限于学术界的知识商品化，脱离改进实践的根本目的
 > - **促进服从** 通过对批判正统的盲从反而促进方法论服从，与解放的目标自相矛盾
 > - **精英主义** 以学术理论家的批判话语主导行动研究议程，却声称服务平等主义
 > - **狭隘和特殊主义的解放观** 对什么是解放以及如何进行行动研究采用单一、排他的定义
 
 > [!note] 批评的综合判断
-> 批判性行动研究与其试图攻击的那些控制性议程一样具有控制性（Morrison, 1995b）。Melrose（1996, p. 52）进一步指出：批判性研究因自身价值负载而放弃中立，在审视特定情境中价值观、伦理、道德和政治的幌子下，实际上旨在改变现状。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 278)]]
+> 批判性行动研究与其试图攻击的那些控制性议程一样具有控制性（莫里森（Morrison）, 1995b）。梅尔罗斯（Melrose, 1996, p. 52）进一步指出：批判性研究因自身价值负载而放弃中立，在审视特定情境中价值观、伦理、道德和政治的幌子下，实际上旨在改变现状。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 278)]]
 
 ---
 
