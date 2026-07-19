@@ -1909,6 +1909,25 @@
     ]
   },
   {
+    "title": "Avatar",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Avatar.md",
+    "aliases": [
+      "化身",
+      "avatars"
+    ]
+  },
+  {
+    "title": "Computer Simulation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Computer Simulation.md",
+    "aliases": [
+      "计算机模拟",
+      "computer simulations",
+      "simulation"
+    ]
+  },
+  {
     "title": "Data Behaviorism",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Data Behaviorism.md",
@@ -1978,6 +1997,16 @@
       "技术融入",
       "技术整合",
       "technology integration"
+    ]
+  },
+  {
+    "title": "Virtual World",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Virtual World.md",
+    "aliases": [
+      "虚拟世界",
+      "virtual worlds",
+      "synthetic world"
     ]
   },
   {
@@ -8485,6 +8514,17 @@
     ]
   },
   {
+    "title": "Agent-based Modelling",
+    "type": "method",
+    "path": "wiki/methods/mixed/Agent-based Modelling.md",
+    "aliases": [
+      "基于主体的建模",
+      "agent-based modeling",
+      "ABM",
+      "agent-based models"
+    ]
+  },
+  {
     "title": "Convergent Design",
     "type": "method",
     "path": "wiki/methods/mixed/Convergent Design.md",
@@ -9067,6 +9107,16 @@
     "aliases": [
       "教育中的哲学分析",
       "哲学分析"
+    ]
+  },
+  {
+    "title": "Projection Technique",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Projection Technique.md",
+    "aliases": [
+      "投射技术",
+      "projection techniques",
+      "IT-facilitated projection technique"
     ]
   },
   {
@@ -14547,6 +14597,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

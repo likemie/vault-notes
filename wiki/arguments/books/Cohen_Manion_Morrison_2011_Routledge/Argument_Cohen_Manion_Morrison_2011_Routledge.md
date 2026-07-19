@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 130
+argument_related_count: 131
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -164,6 +164,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
@@ -202,6 +203,7 @@ updated: 2026-07-18
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|第17章 Meta-analysis, research syntheses and systematic reviews]] | 介绍[[Evidence-Based Education\|循证教育]]的制度基础（[[EPPI-Centre]]、[[Campbell Collaboration]]、Cochrane协作网等），详解[[Meta-analysis\|元分析]]的四种操作模型（Glass八步、Cook四阶段、Fitz-Gibbon四步、Gorard四步）与[[Effect Size\|效应量]]计算方法，以[[Class Size\|班级规模]]研究为案例，系统呈现元分析的多维度批判（[[Critique of Meta-analysis\|苹果与橙子、输入质量、发表偏倚、抽样与伦理等]]），并梳理[[Systematic Review\|系统综述]]的类型、EPPI-Centre标准、BERA指南及Evans & Benefield六原则。 | [[Meta-analysis]]、[[Systematic Review]]、[[Evidence-Based Education]]、[[Critique of Meta-analysis]]、[[Effect Size]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|第18章 Action research]] | 系统介绍[[Action Research\|行动研究]]的定义谱系、原则与特征、[[Participatory Action Research\|参与式行动研究]]、作为批判实践的三分类型学、与[[Complexity Theory\|复杂性理论]]的关联、操作程序（含[[Nominal Group Technique\|名义小组技术]]和[[Delphi Technique\|德尔菲技术]]）、报告撰写、[[Reflexivity\|反身性]]及实践与理论议题。 | [[Action Research]]、[[Participatory Action Research]]、[[Reflexivity]]、[[Nominal Group Technique]]、[[Delphi Technique]] |
 > | **Part 4 资料收集的策略与工具** | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|第19章 Virtual worlds in educational research]] | 介绍[[Computer Simulation\|计算机模拟]]和[[Virtual World\|虚拟世界]]的定义与特征对比、[[Complexity Theory\|复杂性理论]]与哈贝马斯理想言说情境的理论基础、[[Agent-based Modelling\|基于主体建模]]和[[Projection Technique\|投射技术]]，以及虚拟世界在教育研究中的应用案例、操作指南、伦理议题和在线数据收集工具。 | [[Virtual World]]、[[Computer Simulation]]、[[Agent-based Modelling]]、[[Avatar]]、[[Projection Technique]] |
 > | 第21章 Questionnaires | | |
 > | 第22章 Interviews | | |
 > | 第23章 Accounts | | |

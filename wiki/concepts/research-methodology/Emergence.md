@@ -52,6 +52,9 @@ updated: 2026-07-11
 > [!example] 学校作为涌现系统
 > 学校的"文化"——如"这所学校的学生很勤奋"——不是一个可以被直接设计或灌输的属性。它从师生的日常互动、课堂规范的反复协商、个别教师的率先突破和同伴模仿、考试结果的反馈放大等局部互动中层层涌现出来。改变校长的行政命令不等于改变学校文化（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
+> [!example] 基于主体建模中的涌现：Reynolds 的 boids
+> Reynolds（1987）通过三条简单规则成功模拟了鸟群的集群飞行行为：保持与他者的最小距离、匹配他者的速度、向群体中心移动。从这些局部规则中涌现出高度复杂、模式化的全局飞行行为——这一涌现模式不能通过分解为初始条件来理解，新整体大于部分之和。[[Agent-based Modelling|基于主体的建模]]（ABM）将这一原理扩展至社会系统：在[[Virtual World|虚拟世界]]中，参与者的局部互动同样通过自组织产生不可预测的全局模式——这与涂尔干的社会事实概念一致：对个体施加外部约束且独立于个体表现而存在的行为方式（Durkheim, 1982, p. 59）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 155–157]]）。
+
 ## 涌现作为质性研究的方法论原则
 
 在[[Qualitative Research|质性研究]]方法论中，涌现是诠释/自然主义[[Paradigm|范式]]的核心公理之一。Lincoln & Guba（1985: 39–43）将其列为操作性含义的两个独立项（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], pp. 404–405）：
