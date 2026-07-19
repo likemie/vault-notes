@@ -29,6 +29,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Knowledge Production]]"
   - "[[Professional Judgment]]"
+  - "[[Teacher-as-Researcher]]"
   - "[[Document]]"
   - "[[Pre-test and Post-test]]"
   - "[[Research Problem]]"
@@ -39,6 +40,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Emancipatory Action Research]]"
   - "[[Case Study]]"
   - "[[Quantitative Research]]"
   - "[[Longitudinal Study]]"
@@ -107,7 +109,7 @@ updated: 2026-07-19
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 行动研究跨越[[Positivism|实证主义]]与[[Interpretive Paradigm|诠释范式]]。技术性行动研究接近实证逻辑，实践性行动研究植根于诠释学理解，解放性行动研究以[[Critical Theory|批判理论]]为认识论基础。
+> - **知识观** 行动研究跨越[[Positivism|实证主义]]与[[Interpretive Paradigm|诠释范式]]。技术性行动研究接近实证逻辑，实践性行动研究植根于诠释学理解，[[Emancipatory Action Research|解放性行动研究]]以[[Critical Theory|批判理论]]为认识论基础。
 > - **研究者角色** 研究者同时也是参与者、实践者或促进者。在技术性类型中研究者主导设计；在实践性类型中研究者作为反思伙伴；在解放性类型中研究者是平等共同体中的一员。
 > - **有效性标准** 行动研究的有效性不在于统计推广，而在于实践改进的可验证性、过程的系统性和反思的深度（Kemmis & McTaggart, 1992, p. 10）。
 > - **不声称回答的问题** 不声称从单一个案中得出统计性推广结论；不声称[[Value Neutrality|价值中立]]——解放性行动研究具有明确的政治议程。
@@ -211,7 +213,7 @@ updated: 2026-07-19
 > | **议程来源** | 外部设定（效率导向） | 教师[[Professional Judgment\|专业判断]]驱动 | 参与者自主识别权力约束 |
 
 > [!info] 三种类型的详细说明
-> 技术性行动研究旨在使现有情境更有效率（Grundy, 1987, p. 154），但 Elliott（1991, p. 55）认为过于个体化，将教师孤立于更广泛因素之外。实践性行动研究支撑教师即研究者运动（Stenhouse, 1975），Kincheloe（2003, p. 42）主张其拒绝[[Positivism|实证主义]]的理性和客观性观念。解放性行动研究具有明确的政治议程（Grundy, 1987, pp. 146–147），但受到多重批评：乌托邦性、过于控制性、削弱个体教师即研究者、三分类型化站不住脚、低估权力问题、高估共识导向、非批判和自相矛盾等。
+> 技术性行动研究旨在使现有情境更有效率（Grundy, 1987, p. 154），但 Elliott（1991, p. 55）认为过于个体化，将教师孤立于更广泛因素之外。实践性行动研究支撑[[Teacher-as-Researcher|教师即研究者]]运动（Stenhouse, 1975），Kincheloe（2003, p. 42）主张其拒绝[[Positivism|实证主义]]的理性和客观性观念。[[Emancipatory Action Research|解放性行动研究]]具有明确的政治议程（Grundy, 1987, pp. 146–147），但受到多重批评：乌托邦性、过于控制性、削弱个体教师即研究者、三分类型化站不住脚、低估权力问题、高估共识导向、非批判和自相矛盾等。
 
 > [!tension] 行动研究的两个阵营
 > - **反思性实践传统（Elliott, Stenhouse, Schön）** 在个体能力和情境范围内改进专业实践，赋权意味着专业自主
@@ -303,7 +305,7 @@ updated: 2026-07-19
 ## 行动研究中的反身性
 
 > [!info] [[Reflexivity|反身性]]的核心地位
-> [[Reflexivity|反身性]]是行动研究的核心，因为研究者同时也是参与者和实践者，处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983, p. 14）。Hall（1996, p. 29）指出反身性是解放性行动研究的[[Epistemology|认识论]]基础：数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
+> [[Reflexivity|反身性]]是行动研究的核心，因为研究者同时也是参与者和实践者，处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983, p. 14）。Hall（1996, p. 29）指出反身性是[[Emancipatory Action Research|解放性行动研究]]的[[Epistemology|认识论]]基础：数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
 
 > [!warning] 反身性与偏见
 > 实践者同时也是研究者，可能并非完全无私（Newby, 2010, p. 64），例如为给高级管理者留下印象而呈现更乐观的结果，或为争取资源而呈现更消极的结果。伦理、效度和政治议程在此交汇。

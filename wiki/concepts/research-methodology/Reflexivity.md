@@ -34,6 +34,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Ethnography]]"
   - "[[Action Research]]"
+  - "[[Emancipatory Action Research]]"
 related_persons:
   - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
@@ -123,10 +124,10 @@ McCormick & James（1988: 191）进一步论述了操作含义：高度的反身
 
 ## 反身性在行动研究中的位置
 
-> [!info] 行动研究中反身性的特殊地位
+> [!info] [[Action Research|行动研究]]中反身性的特殊地位
 > 在[[Action Research|行动研究]]中，反身性是核心要素，因为研究者同时也是参与者和实践者——他们处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983, p. 14）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
 
-> [!claim] 反身性作为解放性行动研究的认识论基础
+> [!claim] 反身性作为[[Emancipatory Action Research|解放性行动研究]]的[[Epistemology|认识论]]基础
 > Hall（1996, p. 29）指出反身性是解放性行动研究的构成要素和[[Epistemology|认识论]]基础，因其采取如下知识建构观点：(a) 数据是真实的并反映所有参与者的经验；(b) 所有研究者之间存在民主关系——研究者的观点（可能是理论负载的）并不优先于参与者的观点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
 
 > [!note] 行动研究中反身性的操作要求
@@ -155,4 +156,4 @@ McCormick & James（1988: 191）进一步论述了操作含义：高度的反身
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将反身性定位为[[Qualitative Research|质性研究]]的核心特征之一，强调过去经验与研究之间的关联以及经验如何塑造解释。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 阐述反身性的双重哲学根基：舒茨的[[Phenomenology|现象学]]反思性（时间性、回顾性）和加芬克尔的[[Ethnomethodology|俗民方法学]]反思性（社会性、构成性）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch11)]] — 在自然主义[[Ethnography|民族志]]的语境中展开反身性：Hammersley & Atkinson 的"研究者是卓越的研究工具"、Preissle 的中立性质疑、Cooley 的镜中自我、McCormick & James 的[[Operationalization|操作化]]监控，以及在[[Critical Ethnography|批判民族志]]中升级为政治行动主义。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 在[[Action Research|行动研究]]语境中阐述反身性的功能：作为解放性行动研究的构成要素和[[Epistemology|认识论]]基础（Hall, 1996），以及研究者同时作为实践者身份对偏见和伦理的自我审视（Newby, 2010）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 在[[Action Research|行动研究]]语境中阐述反身性的功能：作为[[Emancipatory Action Research|解放性行动研究]]的构成要素和[[Epistemology|认识论]]基础（Hall, 1996），以及研究者同时作为实践者身份对偏见和伦理的自我审视（Newby, 2010）。

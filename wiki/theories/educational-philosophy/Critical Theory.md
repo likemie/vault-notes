@@ -20,6 +20,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Theoretical Perspective]]"
   - "[[Analytic Framework]]"
+  - "[[Ideal Speech Situation]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Causality]]"
@@ -30,12 +31,15 @@ related_methods:
   - "[[Ideology Critique]]"
   - "[[Action Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Emancipatory Action Research]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
+  - "[[Participatory Action Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 confidence: medium
 status: draft
 created: 2026-06-16
@@ -94,7 +98,7 @@ updated: 2026-07-19
 > - **意识形态（Ideology）** 来自特定支配群体的价值观和实践，通过它们，权力群体以"普遍利益"为名推进和合法化其部门利益，压制被剥夺权力群体的利益。
 > - **可普遍化利益（Generalizable Interests）** 意识形态的判定标准——如果某一行为原则不能在所有人之间普遍化（即一个人的自由以压制另一个人的自由为代价），则该利益不具合法性。
 > - **[[Ideology Critique]]**（意识形态批判） 批判理论的核心方法论，通过反思实践揭示被压制的利益，暴露虚假意识的运作，并推动变革。
-> - **理想言说情境（Ideal Speech Situation）** 哈贝马斯后期提出的概念，指所有参与者作为平等者进行不受约束的对称沟通的理想条件。沟通的开放性和无约束性是达成真正共识的前提。在[[Action Research|行动研究]]中，这意味着研究者与参与者之间没有层级，只有对称沟通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 275–276)]]
+> - **[[Ideal Speech Situation|理想言说情境]]（Ideal Speech Situation）** 哈贝马斯后期提出的概念，指所有参与者作为平等者进行不受约束的对称沟通的理想条件。沟通的开放性和无约束性是达成真正共识的前提。在[[Action Research|行动研究]]中，这意味着研究者与参与者之间没有层级，只有对称沟通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 275–276)]]
 > - **实践（Praxis）** 行动研究语境中的核心概念，定义为通过反思赋予信息并以解放为目标的行动。实践融合了理论与实践，在平等主义社会秩序中运作，使行动研究从技术操作升级为政治事业。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 273)]]
 
 ---
@@ -159,7 +163,7 @@ updated: 2026-07-19
 
 > [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 107–116)]] — 第2.2节系统梳理了对批判理论的四重批评：三种兴趣的人为分离、意识形态批判与解放的不确定关系、政治议程与研究者客观性的张力、[[Action Research|行动研究]]的赋权效果缺乏证据。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 第18.5节集中呈现了对解放性行动研究（批判理论在方法层面的应用）的17项批评：乌托邦性、过于控制性、削弱个体教师、三分类型化站不住脚、低估权力问题、高估共识导向、非批判和自相矛盾、精英主义等。Melrose（1996, p. 52）特别指出批判性研究因自身价值负载而放弃中立。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 第18.5节集中呈现了对[[Emancipatory Action Research|解放性行动研究]]（批判理论在方法层面的应用）的17项批评：乌托邦性、过于控制性、削弱个体教师、三分类型化站不住脚、低估权力问题、高估共识导向、非批判和自相矛盾、精英主义等。Melrose（1996, p. 52）特别指出批判性研究因自身价值负载而放弃中立。
 
 ---
 
@@ -178,6 +182,6 @@ updated: 2026-07-19
 > - [[Ideology Critique]] — 批判理论的核心方法论工具，通过四阶段反思实践揭示意识形态运作。
 > - [[Participatory Research]] — 批判理论的社区赋权实践，将研究控制权从精英归还给社区。
 > - [[Feminist Research]] — 批判理论在性别维度上的延伸，揭示父权制[[Knowledge Production|知识生产]]的压迫性。
-> - [[Action Research]] 三分类型学 — Grundy（1987）将哈贝马斯三种兴趣直接映射为技术性、实践性和解放性行动研究，使批判理论获得了可操作的方法论形态。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
-> - [[Participatory Action Research]] — 解放性行动研究的政治化版本，以理想言说情境为沟通规范，以对称沟通和共识为组织原则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 270–272)]]
+> - [[Action Research]] 三分类型学 — Grundy（1987）将哈贝马斯三种兴趣直接映射为技术性、实践性和[[Emancipatory Action Research|解放性行动研究]]，使批判理论获得了可操作的方法论形态。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
+> - [[Participatory Action Research]] — 解放性行动研究的政治化版本，以[[Ideal Speech Situation|理想言说情境]]为沟通规范，以对称沟通和共识为组织原则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 270–272)]]
 > - 课程研究 — 批判理论重读课程为权力文本和意识形态选择，而非中立的知识集合。

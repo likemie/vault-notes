@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Gatekeepers]]"
+  - "[[Teacher-as-Researcher]]"
   - "[[Reflexivity]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -105,7 +106,7 @@ updated: 2026-07-18
 > - **理论路径** 场论（B = f(P, E)）影响了后来的社会认知理论、生态[[Luhmann's Systems Theory|系统理论]]和情境学习理论；群体动力学成为社会心理学和组织行为学的核心领域。
 > - **方法路径** [[Action Research|行动研究]]螺旋模型被 Kemmis & McTaggart（1981, 1988, 1992）改进和发展为当代行动研究的核心程序框架；力场分析和变革三步模型成为组织发展和变革管理的方法论基础。
 > - **政策路径** 勒温对弱势群体的关注和对民主参与的倡导为[[Participatory Action Research|参与式行动研究]]和赋权研究提供了政治基础——Kemmis & McTaggart（1992: 6）将行动研究的合作性定位在勒温本人对群体决策的承诺中。
-> - **跨国／跨领域传播** 行动研究从社会心理学扩展到教育（Stenhouse 的"教师即研究者"、Elliott 的[[Reflexivity|反思性]]实践、Carr & Kemmis 的批判行动研究）、护理、社区发展、组织变革和管理学。
+> - **跨国／跨领域传播** 行动研究从社会心理学扩展到教育（Stenhouse 的"[[Teacher-as-Researcher|教师即研究者]]"、Elliott 的[[Reflexivity|反思性]]实践、Carr & Kemmis 的批判行动研究）、护理、社区发展、组织变革和管理学。
 
 ---
 

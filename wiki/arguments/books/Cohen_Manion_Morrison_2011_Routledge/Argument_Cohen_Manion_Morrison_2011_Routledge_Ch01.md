@@ -68,6 +68,7 @@ related_concepts:
   - "[[Post-structuralism]]"
   - "[[Feedback]]"
   - "[[Causality]]"
+  - "[[Teacher-as-Researcher]]"
   - "[[School Leadership]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -679,7 +680,7 @@ Teddlie & Tashakkori (2009)提出了六种设计(pp.685–696)，构成了一套
 > [!success] 复杂性理论的研究取向
 > - 倡导**[[Case Study|案例研究]]方法论**、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境
 > - 需要追踪**多元[[Causality|因果性]]**、多元视角和多元效应
-> - 主张**教师即研究者**运动，以及内部与外部研究者的共生关系和伙伴关系
+> - 主张**[[Teacher-as-Researcher|教师即研究者]]**运动，以及内部与外部研究者的共生关系和伙伴关系
 > - 倡导方法论、范式和理论的**多元主义(pluralism)**
 > - 斯泰西(Stacey, 2000, pp. 395, 399)的警告：一个系统只有在存在**多样性和偏离**时才能演化——这对要求服从的命令控制型教师而言是一个警示
 

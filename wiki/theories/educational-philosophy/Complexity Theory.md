@@ -17,6 +17,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Causality]]"
   - "[[Positivism]]"
+  - "[[Teacher-as-Researcher]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
   - "[[Feedback]]"
@@ -26,8 +27,13 @@ related_concepts:
   - "[[Computer Simulation]]"
   - "[[Virtual World]]"
   - "[[Avatar]]"
+  - "[[Operationalization]]"
+  - "[[Interaction Effect]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Autopoiesis]]"
+  - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Case Study]]"
@@ -80,7 +86,7 @@ updated: 2026-07-19
 ### 方法论推论：研究设计必须适应复杂性
 
 > [!claim] 复杂性研究需要新方法论
-> 复杂性理论倡导[[Case Study|案例研究]]方法论、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元因果性、多元视角和多元效应；主张教师即研究者运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。分析单位应从个体或机构转向**网络或生态系统（Capra, 1996: 301）**。
+> 复杂性理论倡导[[Case Study|案例研究]]方法论、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元因果性、多元视角和多元效应；主张[[Teacher-as-Researcher|教师即研究者]]运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。分析单位应从个体或机构转向**网络或生态系统（Capra, 1996: 301）**。
 
 > [!axioms] 复杂性研究的五条公理（Kuhn, 2007: 172–173）
 > - **动态实在** 实在是动态的、[[Emergence|涌现]]的、自组织的，需要多重视角来把握。
@@ -170,15 +176,15 @@ Davis & Sumara（2005: 455）在自组织的语境中强化了这一观点：连
 >
 > - **1990s：从混沌到复杂性**
 >
->   混沌理论被扩展为复杂性理论（Waldrop, 1992; Lewin, 1993），核心主张从不可预测性转向涌现和自组织：真实世界虽然高度复杂，但建立在相对简单的规则之上。Kauffman（1995）提出复杂适应系统和秩序免费的概念，秩序是自组织涌现的而非外部控制的。
+>   混沌理论被扩展为复杂性理论（Waldrop, 1992; Lewin, 1993），核心主张从不可预测性转向[[Emergence|涌现]]和自组织：真实世界虽然高度复杂，但建立在相对简单的规则之上。Kauffman（1995）提出复杂适应系统和秩序免费的概念，秩序是自组织涌现的而非外部控制的。
 >
 > - **2000s：教育研究的方法论应用**
 >
->   复杂性理论进入教育研究，被定位为对[[Positivism|实证主义]]范式的替代性[[Paradigm|范式]]（Morrison, 2002a, 2008; Kuhn, 2007）。[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]被重新解读为复杂性方法论。Phelps & Graham（2010）论证了行动研究与复杂性理论的深层互补性。
+>   复杂性理论进入教育研究，被定位为对[[Positivism|实证主义]][[Paradigm|范式]]的替代性[[Paradigm|范式]]（Morrison, 2002a, 2008; Kuhn, 2007）。[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]被重新解读为复杂性方法论。Phelps & Graham（2010）论证了行动研究与复杂性理论的深层互补性。
 >
-> - **2010s 至今：计算机模拟与虚拟世界中的实现**
+> - **2010s 至今：[[Computer Simulation|计算机模拟]]与[[Virtual World|虚拟世界]]中的实现**
 >
->   复杂性理论成为[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]的理论基础。[[Agent-based Modelling|基于主体建模]]（ABM）将涌现和自组织原则直接操作化，从微观主体行为中产生宏观模式。虚拟世界使复杂性理论的核心原则在参与者创建的涌现环境中获得了现实化。
+>   复杂性理论成为[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]的理论基础。基于主体建模（[[Agent-based Modelling|ABM]]）将涌现和自组织原则直接[[Operationalization|操作化]]，从微观主体行为中产生宏观模式。虚拟世界使复杂性理论的核心原则在参与者创建的涌现环境中获得了现实化。
 
 ---
 
@@ -186,13 +192,13 @@ Davis & Sumara（2005: 455）在自组织的语境中强化了这一观点：连
 
 > [!critique-logic] 概念与逻辑层面的批评
 > - **解释是回溯性的** 复杂性理论可以解释多样化、可变的结果，但未必能帮助干预以促进改进（Morrison, 2002a）。解释在此是回溯性的而非前瞻性的。
-> - **过于确定性** 计算机模拟仅假设初始条件的交互作用，忽略了过程中引入的额外因素。
+> - **过于确定性** [[Computer Simulation|计算机模拟]]仅[[Hypothesis|假设]]初始条件的[[Interaction Effect|交互作用]]，忽略了过程中引入的额外因素。
 > - **将过程精致与概念粗糙结合** 与数值方法一样，复杂性模拟可能结合了过程的精致与概念的粗糙（Ruddock, 1981, p. 49）。
 
 > [!critique-method] 方法论层面的批评
-> - **不能替代因果推断** 复杂性理论本身不能替代因果推断方法，只能框定其适用范围。
+> - **不能替代[[Causality|因果推断]]** 复杂性理论本身不能替代因果推断方法，只能框定其适用范围。
 > - **以复杂性为借口放弃严谨** 复杂性理论要求更精细的研究设计，而非更随意的方法选择。
-> - **科学地位不确定** 复杂性理论在教育研究中是否构成一个成熟范式仍存在争议，部分批评者认为它更接近跨学科类比而非系统理论。
+> - **科学地位不确定** 复杂性理论在教育研究中是否构成一个成熟[[Paradigm|范式]]仍存在争议，部分批评者认为它更接近跨学科类比而非[[Luhmann's Systems Theory|系统理论]]。
 
 > [!critique] 本质层面的批评
 > - **还原论的根本困境** 将世界简化为数学模型从根本上就是错误的；世界对数字而言太过复杂。
@@ -205,9 +211,9 @@ Davis & Sumara（2005: 455）在自组织的语境中强化了这一观点：连
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 将复杂性理论作为教育研究的五大[[Paradigm|范式]]之一，定位为对[[Positivism|实证主义]]和[[Interpretive Paradigm|诠释范式]]的替代性取向。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch. 16)]] — 从复杂性理论视角批判[[Experimental Research|实验研究]]和 [[Randomised Controlled Trials|RCT]] 的线性因果假定。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch. 16)]] — 从复杂性[[Theoretical Perspective|理论视角]]批判[[Experimental Research|实验研究]]和 [[Randomised Controlled Trials|RCT]] 的线性因果假定。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18)]] — 阐述[[Action Research|行动研究]]与复杂性理论的九点深层共鸣（Phelps & Graham, 2010）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 阐明复杂性理论作为[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]理论基础的角色，包括从决定论到复杂性理论的世界观转变和[[Agent-based Modelling|基于主体建模]]的涌现机制。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 阐明复杂性理论作为[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]理论基础的角色，包括从决定论到复杂性理论的世界观转变和基于主体建模的[[Emergence|涌现]]机制。
 
 ## 关键引用
 

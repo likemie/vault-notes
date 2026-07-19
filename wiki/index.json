@@ -6981,6 +6981,16 @@
     ]
   },
   {
+    "title": "Teacher-as-Researcher",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Teacher-as-Researcher.md",
+    "aliases": [
+      "教师即研究者",
+      "practitioner based research",
+      "实践者本位研究"
+    ]
+  },
+  {
     "title": "Test Validity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Test Validity.md",
@@ -8910,6 +8920,17 @@
       "文献分析",
       "documentary research method",
       "文献研究"
+    ]
+  },
+  {
+    "title": "Emancipatory Action Research",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Emancipatory Action Research.md",
+    "aliases": [
+      "解放性行动研究",
+      "批判性行动研究",
+      "critical action research",
+      "emancipatory action research"
     ]
   },
   {

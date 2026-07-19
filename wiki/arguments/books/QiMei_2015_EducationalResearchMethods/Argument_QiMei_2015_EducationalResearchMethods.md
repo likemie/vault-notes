@@ -88,6 +88,7 @@ related_concepts:
   - "[[Story Line]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Teacher-as-Researcher]]"
   - "[[Scientific Attitude]]"
   - "[[Scientific Method]]"
   - "[[Analytic Framework]]"
@@ -137,6 +138,7 @@ related_persons:
   - "[[Kurt Lewin]]"
   - "[[Jean Piaget]]"
   - "[[Fei Xiaotong]]"
+  - "[[Stephen Kemmis]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -969,7 +971,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 #### 章节内容
 
 > [!def] 行动研究（Action Research）
-> 研究者与实践者平等合作，通过计划→行动→观察→反思的螺旋循环过程，解决社会或教育情境中实际问题的一种[[Paradigm|研究范式]]。其基本目的是**改进实践而不是构建理论**。20 世纪 40 年代由科里尔（Collier）和[[Kurt Lewin|勒温]]（Lewin）提出，60 年代在英国因"教师即研究者"运动复兴，强调"在研究中行动，在行动中研究"。
+> 研究者与实践者平等合作，通过计划→行动→观察→反思的螺旋循环过程，解决社会或教育情境中实际问题的一种[[Paradigm|研究范式]]。其基本目的是**改进实践而不是构建理论**。20 世纪 40 年代由科里尔（Collier）和[[Kurt Lewin|勒温]]（Lewin）提出，60 年代在英国因"[[Teacher-as-Researcher|教师即研究者]]"运动复兴，强调"在研究中行动，在行动中研究"。
 
 行动研究具有四项关键特征：
 
@@ -979,7 +981,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > - **研究与反思** 行动研究是一套科学架构的研究系统，包含：[[Scientific Attitude|科学态度]]（神圣敬畏、怀疑求真、严谨认真、自由责任、兼容创新）、[[Scientific Method|科学方法]]和科学过程（提出问题→分析问题→解决问题→反思问题）。**反思是理论与实践之间的桥梁**，正因为有了反思，才使得"行动"成为了"研究"。
 > - **评价与推广** 对研究进行客观判断和价值判断。成果来源于实践，应用价值极高。推广意味着公开，接受更多实践的检验、批判与改进。
 
-行动研究的核心是螺旋循环过程，由勒温首先提出，凯米斯在此基础上改进：
+行动研究的核心是螺旋循环过程，由勒温首先提出，[[Stephen Kemmis|凯米斯]]在此基础上改进：
 
 > [!contrast-table] 勒温螺旋循环 vs 凯米斯螺旋循环
 > | 维度 | 勒温（Lewin）螺旋循环 | 凯米斯（Kemmis）螺旋循环 |

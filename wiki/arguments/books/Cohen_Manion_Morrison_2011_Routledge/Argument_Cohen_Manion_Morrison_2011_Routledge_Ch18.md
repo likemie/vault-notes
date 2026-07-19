@@ -37,6 +37,7 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Technical Rationality]]"
   - "[[Reflexivity]]"
+  - "[[Teacher-as-Researcher]]"
   - "[[Research Question]]"
   - "[[Didaktik]]"
   - "[[Scientific Method]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
   - "[[Epistemology]]"
+  - "[[Ideal Speech Situation]]"
   - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Positivism]]"
@@ -67,6 +69,7 @@ related_theories:
 related_methods:
   - "[[Action Research]]"
   - "[[Participatory Action Research]]"
+  - "[[Emancipatory Action Research]]"
   - "[[Participatory Research]]"
   - "[[Case Study]]"
   - "[[Quantitative Research]]"
@@ -112,14 +115,14 @@ updated: 2026-07-18
 > ```
 
 > [!note] 论证主线
-> 将[[Action Research|行动研究]]从方法论基础逐层推进到具体实践。行动研究的定义本身蕴含了多样性和张力。它是实践改进与政治解放之间、个体反思与集体批判之间、[[Technical Rationality|技术理性]]与解放兴趣之间的连续体，这一张力在[[Participatory Action Research|参与式行动研究]]与解放性行动研究中达到顶点，并在操作程序、报告撰写和[[Reflexivity|反身性]]中获得具体的实践形态。
+> 将[[Action Research|行动研究]]从方法论基础逐层推进到具体实践。行动研究的定义本身蕴含了多样性和张力。它是实践改进与政治解放之间、个体反思与集体批判之间、[[Technical Rationality|技术理性]]与解放兴趣之间的连续体，这一张力在[[Participatory Action Research|参与式行动研究]]与[[Emancipatory Action Research|解放性行动研究]]中达到顶点，并在操作程序、报告撰写和[[Reflexivity|反身性]]中获得具体的实践形态。
 
 ---
 
 ### 18.1 引言：行动研究的范围与辩护
 
 > [!info] 行动研究的起源与范围
-> 行动研究，有时被称为实践者本位研究（practitioner based research）（McNiff, 2002a, p. 6），是[[Kurt Lewin|勒温]]（Kurt Lewin），行动研究的奠基人之一，开创的变革工具。勒温本人的工作旨在改变弱势群体在住房、就业、偏见、社会化与培训方面的生活机会（p. 263）。行动与研究的结合使其对研究者、教师以及学术和教育共同体具有广泛的吸引力。
+> 行动研究，有时被称为[[Teacher-as-Researcher|实践者本位研究]]（practitioner based research）（McNiff, 2002a, p. 6），是[[Kurt Lewin|勒温]]（Kurt Lewin），行动研究的奠基人之一，开创的变革工具。勒温本人的工作旨在改变弱势群体在住房、就业、偏见、社会化与培训方面的生活机会（p. 263）。行动与研究的结合使其对研究者、教师以及学术和教育共同体具有广泛的吸引力。
 >
 > **行动研究的实施主体**灵活多样（Holly & Whitehead, 1986）：可由个体教师承担、一所学校内的一组教师合作开展，或教师与一位或多位研究者建立持续的合作关系，同时还有顾问、大学系所和资助方处于外围（p. 263）。
 
@@ -135,7 +138,7 @@ updated: 2026-07-18
 > - **行政管理** 提高学校行政管理某方面的效率
 
 > [!warning] 警惕简单类型化
-> 这些例子并不意味着行动研究可以被简单类型化。那会扭曲其复杂和多面的本质。[[Stephen Kemmis|Kemmis]]（1997）指出行动研究存在多个学派，但不同学派之间的共同点是：基于严谨的数据和研究证据来改进实践（p. 264）。
+> 这些例子并不意味着行动研究可以被简单类型化。那会扭曲其复杂和多面的本质。Kemmis（1997）指出行动研究存在多个学派，但不同学派之间的共同点是：基于严谨的数据和研究证据来改进实践（p. 264）。
 
 > [!claim] Ferrance (2000) 的行动研究辩护
 > Ferrance（2000, p. 1）提出了行动研究的有力辩护（p. 264）：
@@ -318,7 +321,7 @@ Kemmis & McTaggart（1992, p. 15）坚持"行动研究是群体活动"的立场�
 
 > [!tension] 个体行动研究 vs 集体行动研究
 > - **集体立场（Kemmis & McTaggart, 1992, p. 15）** 受计划变革影响的人对决定可能带来改进的批判性行动方案负有首要责任，行动研究是群体活动，不是个体性的
-> - **个体立场（Whitehead, 1985, p. 98; Stenhouse, 1975）** 行动研究也可以是个体性的事务，教师即研究者运动允许教师自问：我看到的问题是什么？可能的解决方案是什么？我如何导向解决方案？我如何评价结果并采取后续行动？
+> - **个体立场（Whitehead, 1985, p. 98; Stenhouse, 1975）** 行动研究也可以是个体性的事务，[[Teacher-as-Researcher|教师即研究者]]运动允许教师自问：我看到的问题是什么？可能的解决方案是什么？我如何导向解决方案？我如何评价结果并采取后续行动？
 
 > [!warrant]- 支持合作行动研究的实用与意识形态理由
 > Oja & Smulyan（1989, p. 14）从实用角度论证合作行动研究：教师如果参与了证明变革必要性和可行性的研究，更可能改变行为和态度，这就是所有权和参与的问题：离问题最近的人最有能力识别问题并寻求解决方案（Morrison, 1998）（p. 270）。从意识形态角度，那些经历问题的人应该参与决策，考虑到勒温本人与弱势和边缘群体的工作，这一点并不令人惊讶（David, 2002）（p. 270）。
@@ -361,7 +364,7 @@ Kemmis & McTaggart（1992, p. 15）坚持"行动研究是群体活动"的立场�
 
 #### Torres (1992) 的五项原则：拉美批判传统
 
-在拉美语境中，与[[Paulo Freire|弗莱雷]]（Freire, 1972）的工作一脉相承，[[Carlos Alberto Torres|Torres]]（1992, p. 56）提出了五项原则（p. 271）：
+在拉美语境中，与[[Paulo Freire|弗莱雷]]（Freire, 1972）的工作一脉相承，Torres（1992, p. 56）提出了五项原则（p. 271）：
 
 > [!info] Torres 的五项原则
 > 1. **以明确的社会和政治意图开始** 与受支配和贫困的阶级和群体相呼应
@@ -389,6 +392,8 @@ PAR 的研究者角色（Weiskopf & Laske, 1996, p. 132–133）：促进者、�
 ---
 
 ### 18.5 作为批判实践的行动研究
+
+本节系统阐述[[Emancipatory Action Research|解放性行动研究]]的理论框架与实践程序——从哈贝马斯知识构成性兴趣出发建构的三分类型学、Zuber-Skerritt 四步循环与 Kincheloe 七步过程、[[Ideal Speech Situation|理想言说情境]]的六个前提，以及来自多位批评者的 17 条批评。
 
 > [!info] 批判理论渊源
 > 大量行动研究[[Document|文献]]借鉴了法兰克福学派的[[Critical Theory|批判理论]]（见第2章），尤其是哈贝马斯的工作。Weiskopf & Laske（1996, p. 123）在德国传统中将行动研究明确地定位为一种批判性社会科学。利用哈贝马斯关于知识构成性兴趣（knowledge-constitutive interests, 1972, 1974）的早期写作，可以建构行动研究的三分类型学（pp. 272–280）。
