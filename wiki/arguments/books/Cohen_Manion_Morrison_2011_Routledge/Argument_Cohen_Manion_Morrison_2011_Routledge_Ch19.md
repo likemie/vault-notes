@@ -256,7 +256,7 @@ updated: 2026-07-19
 
 #### 在场感、沉浸感与共在感
 
-> [!def] 在场感（Presence）与共在感（Co-presence）
+> [!def] [[Presence|在场感]]与共在感
 > 使用互动或非互动媒体将自我[[Externalization|外化]]并在并非物理在场的环境中创建在场印象，依赖于**"自愿[[Epoché|悬置]]不信任"（willing suspension of disbelief, Coleridge, 1817）**以创建**"视角的幻觉性转移"（illusory shift in point of view, Dennett, 1978, p. 312）**，以及我们在体验中使用自身知识、想象力和热情（Zhao, 2003）。
 >
 > 在场感可能是**高度个体化的**，并取决于环境内呈现的感觉信息以及用户对环境的控制水平（Sheridan, 1992; Ijsselsteijn et al., 2000; Sadowski & Stanney, 2002）。**沉浸式体验（immersive experience）**的出现条件是：当环境中的在场感被其对物理现实的整体表面保真度加强时（Slater & Steed, 2000），尽管这不必须是以自我为中心或计算机中介的；当身临其境感被在那里能理解（making sense there）的总体响应增强时出现（Schuemie et al., 2001; Riva et al., 2003）。
@@ -301,7 +301,7 @@ updated: 2026-07-19
 #### 哈贝马斯的理想言说情境
 
 > [!claim] 虚拟世界沟通与理想言说情境的深度契合
-> 这种沟通行动模型与哈贝马斯（Habermas, 1979, 1982, 1984, 1987）**理想言说情境（ideal speech situation）**的核心原则相一致。通过虚拟世界探索议题的观点强烈回响着理想言说情境的原则（Morrison, 1995a, p. 102）（pp. 158–159）：
+> 这种沟通行动模型与哈贝马斯（Habermas, 1979, 1982, 1984, 1987）**[[Ideal Speech Situation|理想言说情境]]**的核心原则相一致。通过虚拟世界探索议题的观点强烈回响着理想言说情境的原则（Morrison, 1995a, p. 102）（pp. 158–159）：
 
 > [!axioms] 理想言说情境下虚拟世界沟通的十四项原则
 >

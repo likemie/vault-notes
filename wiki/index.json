@@ -1314,6 +1314,15 @@
     ]
   },
   {
+    "title": "Ideal Speech Situation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Ideal Speech Situation.md",
+    "aliases": [
+      "理想言说情境",
+      "ideal speech"
+    ]
+  },
+  {
     "title": "Incarnation-Extension Dialectics",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Incarnation-Extension Dialectics.md",
@@ -1987,6 +1996,19 @@
       "LA",
       "Educational Data Mining",
       "EDM"
+    ]
+  },
+  {
+    "title": "Presence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Presence.md",
+    "aliases": [
+      "在场感",
+      "co-presence",
+      "共在感",
+      "immersion",
+      "沉浸感",
+      "immersive experience"
     ]
   },
   {
