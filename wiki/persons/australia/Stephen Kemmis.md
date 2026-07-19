@@ -8,10 +8,10 @@ summary: "澳大利亚教育研究者，批判性行动研究的核心理论家�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 11
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - person/theorist
   - action-research

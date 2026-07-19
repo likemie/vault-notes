@@ -7,10 +7,10 @@ aliases:
 summary: "由Stenhouse开创的运动，主张教师研究自身实践而非被外部研究者研究，将反思置于专业行动的核心，是行动研究中实践性类型的方法论基础"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - research-methodology
   - action-research

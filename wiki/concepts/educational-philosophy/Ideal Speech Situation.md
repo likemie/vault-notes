@@ -6,10 +6,10 @@ aliases:
 summary: "哈贝马斯提出的规范性沟通模型，主张共识仅源于更好论证的力量而非参与者的权力，是虚拟世界研究敏感议题的沟通伦理基础"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 16
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - critical-theory
   - communication-ethics

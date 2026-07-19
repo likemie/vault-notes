@@ -7,9 +7,9 @@ summary: "行动研究的政治化版本，以集体参与、赋权和解放为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 14
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/action-research
