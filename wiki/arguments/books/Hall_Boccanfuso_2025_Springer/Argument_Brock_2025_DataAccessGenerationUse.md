@@ -43,7 +43,7 @@ title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"

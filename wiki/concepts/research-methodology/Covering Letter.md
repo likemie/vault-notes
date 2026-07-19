@@ -10,7 +10,7 @@ aliases:
 summary: "伴随问卷寄送的说明信件，用于介绍研究目的、研究者身份、保密保证和回寄方式，是影响邮寄问卷回应率的关键因素"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

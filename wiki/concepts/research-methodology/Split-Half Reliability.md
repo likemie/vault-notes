@@ -7,7 +7,7 @@ aliases:
 summary: "将测量项目分成对等两半所测结果的一致性程度，是内部一致性的一种估计方法，常用奇偶数分半并辅以 Spearman-Brown 等公式校正"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

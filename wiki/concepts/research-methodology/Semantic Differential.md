@@ -8,7 +8,7 @@ aliases:
 summary: "由Osgood、Suci和Tannenbaum于1957年开发的评定量表变体，将一对反义形容词置于量表两端，要求受访者在双极连续体上标记其感知位置，适用于评价性、效力性和活动性三种语境"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

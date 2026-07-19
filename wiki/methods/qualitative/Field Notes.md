@@ -7,7 +7,7 @@ summary: "质性研究中研究者在观察现场或观察后尽快记录的文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"

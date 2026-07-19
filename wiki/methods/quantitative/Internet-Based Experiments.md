@@ -10,7 +10,7 @@ summary: "通过互联网远程进行的实验研究方法，按材料类型分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

@@ -6,9 +6,9 @@ summary: "扎根理论的建构主义变体，强调概念与意义由研究者�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
 - constructivist-grounded-theory

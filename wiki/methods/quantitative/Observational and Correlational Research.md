@@ -6,7 +6,7 @@ summary: "不操纵自变量而以量化资料分析变量关系、模式和相�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"

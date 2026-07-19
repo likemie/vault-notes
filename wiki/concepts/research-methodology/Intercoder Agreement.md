@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究和元分析编码中，两个或以上编码者对同一段文本使用相同编码的一致性程度；编码信度直接决定综合结论的可靠性"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

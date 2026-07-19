@@ -12,7 +12,7 @@ summary: "通过互联网进行数据收集的调查方式，成本低、速度�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

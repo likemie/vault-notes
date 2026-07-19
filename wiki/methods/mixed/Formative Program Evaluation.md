@@ -6,7 +6,7 @@ summary: "在项目实施过程中持续收集多源证据并反馈给利益相�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"

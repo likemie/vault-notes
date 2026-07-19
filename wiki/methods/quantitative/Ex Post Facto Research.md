@@ -7,7 +7,7 @@ summary: "一种回溯性非实验研究设计，通过观察已发生的因变�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"

@@ -11,7 +11,7 @@ summary: "通过与参与者进行开放式对话以理解其主观经验和意�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"

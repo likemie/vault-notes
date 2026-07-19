@@ -9,7 +9,7 @@ summary: "在单一时间点对总体进行快照式描述的调查研究设计�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

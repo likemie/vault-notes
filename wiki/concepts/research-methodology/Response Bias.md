@@ -9,10 +9,10 @@ aliases:
 summary: "研究参与者的回应受其身份、文化、动机或对研究情境的反应而系统性偏离真实值的现象，涵盖调查无回应偏差、跨文化回应模式差异、访谈 acquiescence 以及测验情境效应等多种形式"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity

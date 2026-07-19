@@ -9,7 +9,7 @@ aliases:
 summary: "研究者进入研究场所前获得官方许可和参与者接纳的伦理与操作程序，涉及准入层级协商、守门人关系建立和研究意图透明披露"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

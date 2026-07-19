@@ -9,7 +9,7 @@ aliases:
 summary: "产学合作中的一站式导航服务模式，通过为产业伙伴提供单一对接窗口来协调大学内部多个单位，降低产业方在大学的搜索和协调成本"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

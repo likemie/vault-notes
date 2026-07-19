@@ -5,7 +5,7 @@ summary: "一种用于预测二分类因变量（如是否陪读、是否择校�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

@@ -7,7 +7,7 @@ aliases:
 summary: "研究计划中传达研究总体意图和目标的陈述，是连接研究问题与研究问题的核心环节，量化、质性和混合方法三种路径各有不同的写作模板和要素要求"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

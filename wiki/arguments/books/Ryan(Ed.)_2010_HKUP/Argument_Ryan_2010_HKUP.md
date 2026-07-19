@@ -10,9 +10,9 @@ title: "Argument_Ryan_2010_HKUP"
 argument_key: "Argument_Ryan_2010_HKUP"
 argument_display_title: "International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
 editors:

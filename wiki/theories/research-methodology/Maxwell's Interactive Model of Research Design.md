@@ -4,7 +4,7 @@ aliases: ["Maxwell互动研究设计模型", "Maxwell's interactive model", "Max
 summary: "Maxwell(2005)提出的质性研究互动设计模型，以研究问题为核心，强调目标、概念框架、方法、效度五个领域之间的相互通知和迭代涌现关系，反对线性规划。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"

@@ -8,7 +8,7 @@ summary: "一种通过多轮书面问卷迭代收集和反馈群体意见的结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"

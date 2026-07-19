@@ -9,7 +9,7 @@ aliases:
 summary: "评估同一测量工具在多次施测间得分稳定程度的信度指标，用于判断量表在不同时间点是否产生可比的分数"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

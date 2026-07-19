@@ -9,7 +9,7 @@ summary: "研究者有针对性地选择特定群体作为样本的抽样策略�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"

@@ -9,7 +9,7 @@ title: "Argument_Hattie_2015_Paideia"
 argument_key: "Argument_Hattie_2015_Paideia"
 argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
