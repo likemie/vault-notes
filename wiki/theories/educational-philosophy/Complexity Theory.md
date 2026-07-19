@@ -4,7 +4,7 @@ aliases: [复杂性理论, complexity science, complex adaptive systems, 复杂�
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 25
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,7 +23,11 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
-related_theories: []
+  - "[[Computer Simulation]]"
+  - "[[Virtual World]]"
+  - "[[Avatar]]"
+related_theories:
+  - "[[Autopoiesis]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Case Study]]"
@@ -34,12 +38,14 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Longitudinal Study]]"
+  - "[[Agent-based Modelling]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
 confidence: medium
 status: draft
 created: 2026-06-13
@@ -140,13 +146,13 @@ Davis & Sumara（2005: 455）在自组织的语境中强化了这一观点："�
 
 复杂性理论为[[Computer Simulation|计算机模拟]]和[[Virtual World|虚拟世界]]提供了理论基础——回应了它们过度简化真实世界的指控（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19]]）。从拉普拉斯和牛顿的决定论到复杂性理论的转变，在虚拟世界中获得了现实化：虚拟世界中介和颂扬了宇宙和人类经验固有的有机、不可预测和不可复制的本质。
 
-在[[Agent-based Modelling|基于主体的建模]]（ABM）中，复杂性理论的核心原则得到直接体现：复杂的、模式化的行为从简单规则中涌现（如 Reynolds (1987) 通过三条简单规则模拟鸟群飞行）。宏观行为从微观主体的互动中产生，但不可还原为微观行为的总和——这与复杂性理论中"整体大于部分之和"的主张完全一致（pp. 155–157）。
+在[[Agent-based Modelling|基于主体的建模]]（ABM）中，复杂性理论的核心原则得到直接体现：复杂的、模式化的行为从简单规则中[[Emergence|涌现]]（如 Reynolds (1987) 通过三条简单规则模拟鸟群飞行）。宏观行为从微观主体的互动中产生，但不可还原为微观行为的总和——这与复杂性理论中"整体大于部分之和"的主张完全一致（pp. 155–157）。
 
 > [!feature] 虚拟世界与复杂性理论的共鸣
 > - **自组织涌现** 虚拟世界中，参与者的互动产生不可预测的全局模式——秩序不是设计或控制的，而是自组织涌现的。
-> - **微观-宏观链接** 宏观层面的虚拟现实和规范从个体主体（化身）的互动中浮现，正如真实世界中社会事实从个体行为中涌现。
+> - **微观-宏观链接** 宏观层面的虚拟现实和规范从个体主体（[[Avatar|化身]]）的互动中浮现，正如真实世界中社会事实从个体行为中涌现。
 > - **适应性与开放系统** 虚拟世界需要适应性、开放系统、学习、反馈、沟通和连接性，以使个体和系统发展自身的身份（[[Autopoiesis|自创生]]）。
-> - **对实证主义的批判** 虚拟世界与复杂性理论一样，对[[Positivism|实证主义]]的预测-控制逻辑持批判态度，优先考虑解释力和涌现性理解。
+> - **对[[Positivism|实证主义]]的批判** 虚拟世界与复杂性理论一样，对[[Positivism|实证主义]]的预测-控制逻辑持批判态度，优先考虑解释力和涌现性理解。
 
 ## 关键引用
 

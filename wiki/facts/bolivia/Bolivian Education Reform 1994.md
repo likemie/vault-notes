@@ -9,7 +9,7 @@ subtype: policy
 region: bolivia
 fact_region: "bolivia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Floating Signifier]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Educated Identity]]"
+  - "[[Avatar]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -104,5 +105,5 @@ updated: 2026-06-24
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Floating Signifier]] | 概念 | “尊重多样性”这一全球漂浮能指在玻利维亚的本地脉络下被赋予了保护多数群体的独特政治内涵。 |
-> | [[Educated Identity]] | 概念 | 改革重新定义了玻利维亚受教育者的认同，从西方同化身份转向包含原住民文化的多元身份。 |
+> | [[Educated Identity]] | 概念 | 改革重新定义了玻利维亚受教育者的认同，从西方同[[Avatar\|化身]]份转向包含原住民文化的多元身份。 |
 > | [[Transfer Translation Transformation]] | 概念 | 呈现了全球保护少数群体原则在南美特定本土语境下被转译和重塑的具体过程。 |

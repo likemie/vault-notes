@@ -7,7 +7,7 @@ summary: "法国社会学家和哲学家，回归故里作者与阶级自传写�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 - social-class
 - region/france
 related_concepts:
+  - "[[Avatar]]"
   - "[[Refined Mastery]]"
   - "[[Champ]]"
 related_theories: []
@@ -49,7 +50,7 @@ updated: '2026-06-08'
 
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]在第六章对寒门学子的建议中援引埃里蓬的思想，主张寒门学子在向上攀登的过程中不应与过去的自己彻底决裂，而应保持原先自我的延伸性：
 
-- 寒门学子可能一度因自己的身份标签（如"农村人""贫困生""凤凰男""小镇做题家"等）而感到自卑和自厌，但一旦趟过了文化身份扩展的河流，这些经历反而会化作一种独特的个性和优势
+- 寒门学子可能一度因自己的身份标签（如"农村人""贫困生""凤凰男""小镇做题家"等）而感到自卑和自厌，但一旦趟过了文[[Avatar|化身]]份扩展的河流，这些经历反而会化作一种独特的个性和优势
 - 实现了阶层跨越和文化身份扩展的寒门学子，如同穿梭在弱势社群和社会精英之间的"大使"——他们[[Refined Mastery|精通]]两边的语言、明白彼此的诉求，也有意愿和能力去影响政策和决策，从而改善其原生社群的生活境况
 - 当他们在新的知识精英[[Champ|场域]]站稳脚跟，原先的文化身份就自然而然为他们提供了思想资源和问题意识，成为实现自我价值的祝福
 

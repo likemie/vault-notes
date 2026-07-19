@@ -5,7 +5,7 @@ aliases:
 summary: "以技术手段超越人类生物局限并追求持续优化和增强的思想取向，常用于讨论教育中的能力提升、技术改造和高度现代性的进步想象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
   - "[[Humosity]]"
+  - "[[Avatar]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -55,7 +56,7 @@ updated: 2026-07-08
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **技术与身体增强** 从物理干预优化身体到技术增强认知增强（cognitive augmentation），如 Natasha Vita-More 的"设计身体"项目([[Argument_Amos_2022_Springer|Amos, 2022, p.58]])
+> - **技术与身体增强** 从物理干预优[[Avatar|化身]]体到技术增强认知增强（cognitive augmentation），如 Natasha Vita-More 的"设计身体"项目([[Argument_Amos_2022_Springer|Amos, 2022, p.58]])
 > - **普世宣称与选择性实践** 超人类主义在修辞层面宣称对全人类开放，但技术实践高度个体化、成本密集，仅为少数人可获得
 > - **与市场驱动模型的兼容性** 超人类主义与 Cowen 的市场驱动教育模型高度兼容——hyper-individualist、cost-intensive、以劳动力分化为教育目标([[Argument_Amos_2022_Springer|Amos, 2022, pp.58–59]])
 >

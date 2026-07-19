@@ -10,7 +10,7 @@ summary: "教育研究中基本的资料收集方法，通过有目的、有计�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Reliability]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Computer Simulation]]"
   - "[[Research Question]]"
   - "[[Flanders Interaction Analysis Categories]]"
 related_theories: []
@@ -114,7 +115,7 @@ updated: 2026-06-25
 > - **对所观察事物的相关科学知识严重匮乏** 很难形成具有说服力的解释性[[Hypothesis|假设]]，对教育教学现象产生的原因往往流于有感而发，泛泛而谈。此外，对课堂行为背后隐含的教育理念、态度、课堂文化等隐性因素也容易疏于观察。
 > - **教育科学理论和方法训练不足** 观察对象的范围、条件，观察内容、工具和手段的选择等都会影响观察结果。观察工具的[[Reliability|信度]]和效度、记录方式和手段等也会令观察结果产生巨大差异。
 > - **对假设先入为主或学术诚信不足** 可能出现对不利数据视而不见、挑数据，或因急功近利而恶意篡改数据。科学研究的过程就是排除相反的假设、竞争性假设和谬误的过程。
-> - **观察工具的可靠性和有效性欠缺** 观察技术手段的发展水平也会影响观察结果（如高速摄影成像技术、计算机模拟技术、电子成像虚拟置入技术在教育研究中的应用风毛麟角）。
+> - **观察工具的可靠性和有效性欠缺** 观察技术手段的发展水平也会影响观察结果（如高速摄影成像技术、[[Computer Simulation|计算机模拟]]技术、电子成像虚拟置入技术在教育研究中的应用风毛麟角）。
 
 ---
 

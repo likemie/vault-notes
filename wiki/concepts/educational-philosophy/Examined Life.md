@@ -9,7 +9,7 @@ aliases:
 summary: "西方学习传统第三主题，苏格拉底的名言代表质疑一切理所当然之事的智识态度，是批判性思维的西方文化根源"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Academic Freedom]]"
   - "[[Sage]]"
+  - "[[Avatar]]"
   - "[[Faust]]"
   - "[[Ideal Learner]]"
   - "[[University Motto]]"
@@ -77,7 +78,7 @@ updated: 2026-05-22
 > [!note]-
 > Li 追溯了省察精神从古希腊到当代的延续([[Argument_Li_2012_Cambridge|Li, 2012, pp.32-34]])：
 
-- **古希腊**[[Socrates|苏格拉底]]同时代表了"叮咬富人和权贵的牛虻"和"执行审慎判断与明智评估的[[Sage|圣人]]"——"他不仅是良好思维的化身，更是西方[[Critical Thinking|批判性思维]]的化身"([[Argument_Li_2012_Cambridge|Li, 2012, p.33]])
+- **古希腊**[[Socrates|苏格拉底]]同时代表了"叮咬富人和权贵的牛虻"和"执行审慎判断与明智评估的[[Sage|圣人]]"——"他不仅是良好思维的[[Avatar|化身]]，更是西方[[Critical Thinking|批判性思维]]的化身"([[Argument_Li_2012_Cambridge|Li, 2012, p.33]])
 - **漫长的中世纪** 省察精神一度中断——"除了漫长黑暗的中世纪（但仍有[[Faust|浮士德]]大胆的形象）"([[Argument_Li_2012_Cambridge|Li, 2012, p.33]])
 - **启蒙时代**[[Jean-Jacques Rousseau|卢梭]]（1712–1778）在《爱弥儿》中对当时的教育实践发起重大攻击，声称"文明作为一个整体对人类造成的伤害大于好处，因为它破坏了人类的自然倾向"。他引入[[Ideal Learner|理想学习者]]爱弥儿——"对世界自然好奇、思维独立、观点天真、对人类的苦难和腐败免疫"。卢梭的影响"被证明对教育——直到今天——具有持久的冲击力"([[Argument_Li_2012_Cambridge|Li, 2012, pp.33-34]])
 - **当代教育** "从幼儿园到大学，教会学生如何进行批判性思考仍然是一个中心目标"。学生被鼓励"独立思考、对所学主题提出问题、挑战现有知识和权威"([[Argument_Li_2012_Cambridge|Li, 2012, p.34]])

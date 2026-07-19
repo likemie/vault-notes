@@ -9,7 +9,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Grotius 思想），视国际社会为通过多边合作与规则缓和无政府冲突的“存在制度缺陷的社会”，以“权威”为核心概念。在比较教育中，它将学科塑造成促进国际理解与远处治理规范趋同的“理性事业”。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ tags:
   - theme/governance
   - region/global
 related_concepts:
+  - "[[Avatar]]"
   - "[[Epistemology]]"
   - "[[Revolutionism]]"
   - "[[Realism in International Relations]]"
@@ -73,7 +74,7 @@ updated: 2026-07-11
 > - **托管责任（Trusteeship）** 认为国际法律共同体中的成员是不平等的，实力较强的国家和多边机构作为“受托人”，对推进和发展弱小国家承担着合法的法律与道德义务。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 418]])
 
 > [!citation-card]- 关键表述
-> 法律是理性的化身，它是权威的外部源泉，权力需要通过法律转化为合法的权威。 (Martin Wight, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 418]])
+> 法律是理性的[[Avatar|化身]]，它是权威的外部源泉，权力需要通过法律转化为合法的权威。 (Martin Wight, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 418]])
 
 > [!boundary]- 概念边界
 > 不适用于 — 解释以彻底颠覆和粉碎现存世界资本主义体系、与西方[[Epistemology|认识论]]实行彻底割裂为宗旨的革命性断裂过程（这属于[[Revolutionism|革命主义]]的范畴）。

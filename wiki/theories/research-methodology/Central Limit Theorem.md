@@ -5,7 +5,7 @@ aliases:
 summary: "概率论核心定理，指从任何总体中反复抽取等大随机样本时样本均值趋近正态分布，且样本均值的均值逼近总体均值，是抽样误差理论和统计推论的数学基础"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Sampling Error]]"
+  - "[[Computer Simulation]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Variable]]"
@@ -57,7 +58,7 @@ updated: 2026-06-22
 > - **结果判断** 95% 的所有样本均值落在总体均值 $\pm 1.96$ 个[[Standard Error|标准误]]的范围内——即单次抽样均值有 95% 的概率落在这些界限内（Rose & Sullivan, 1993: 144）。
 
 > [!exegesis]- [[Cognitive Load Theory|CLT]] 的直观理解
-> 设想从一所 1,000 名学生的学校中反复抽取 30 名学生的样本并计算每次的均值。尽管每次的 30 人不同，均值也会不同（有些偏高、有些偏低），但这些均值的分布会围绕总体真值呈钟形曲线。抽 10 次、100 次、10,000 次——次数越多，钟形越清晰。Hopkins 等（1996: 159–62）通过计算机模拟 10,000 次抽样验证了这一规律。
+> 设想从一所 1,000 名学生的学校中反复抽取 30 名学生的样本并计算每次的均值。尽管每次的 30 人不同，均值也会不同（有些偏高、有些偏低），但这些均值的分布会围绕总体真值呈钟形曲线。抽 10 次、100 次、10,000 次——次数越多，钟形越清晰。Hopkins 等（1996: 159–62）通过[[Computer Simulation|计算机模拟]] 10,000 次抽样验证了这一规律。
 
 ## 关键概念与理论构件
 
@@ -98,7 +99,7 @@ updated: 2026-06-22
 > - **1810** — Laplace 证明了独立同分布随机[[Variable|变量]]之和的中心极限定理（Laplace 形式）。
 > - **1901** — Lyapunov 给出了更一般的 CLT 条件。
 > - **20 世纪** — CLT 被纳入几乎所有统计教科书的推论统计基础章节。
-> - **1996** — Hopkins 等（1996: 159–62）通过计算机模拟 10,000 次抽样，为教育研究者提供了 CLT 的可视化验证。
+> - **1996** — Hopkins 等（1996: 159–62）通过[[Computer Simulation|计算机模拟]] 10,000 次抽样，为教育研究者提供了 CLT 的可视化验证。
 
 ## 相关研究
 

@@ -6,7 +6,7 @@ summary: "古希腊哲学家，西方批判性思维的化身，以苏格拉底�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Examined Life]]"
   - "[[Sage]]"
   - "[[Critical Thinking]]"
+  - "[[Avatar]]"
   - "[[Academic Freedom]]"
   - "[[Effective Teaching]]"
 related_theories: []
@@ -41,7 +42,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> 苏格拉底（469–399 BCE）是古希腊哲学家，未留下任何著作——其思想通过学生[[Plato|柏拉图]]的对话录为人所知([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。Li 将苏格拉底视为西方学习传统中"[[Examined Life|省察的生活]]"和"心智及其奇迹"两个主题的最重要人格化体现——他不仅是"叮咬富人和权贵的牛虻"，也是"执行审慎判断与明智评估的[[Sage|圣人]]"，是西方[[Critical Thinking|批判性思维]]的化身([[Argument_Li_2012_Cambridge|Li, 2012, p.33]])。
+> 苏格拉底（469–399 BCE）是古希腊哲学家，未留下任何著作——其思想通过学生[[Plato|柏拉图]]的对话录为人所知([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。Li 将苏格拉底视为西方学习传统中"[[Examined Life|省察的生活]]"和"心智及其奇迹"两个主题的最重要人格化体现——他不仅是"叮咬富人和权贵的牛虻"，也是"执行审慎判断与明智评估的[[Sage|圣人]]"，是西方[[Critical Thinking|批判性思维]]的[[Avatar|化身]]([[Argument_Li_2012_Cambridge|Li, 2012, p.33]])。
 
 ---
 

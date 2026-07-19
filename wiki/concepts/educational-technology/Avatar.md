@@ -6,7 +6,7 @@ aliases:
 summary: "虚拟世界中代表参与者的三维数字形象，可随时更改形态，是参与者投射自我、表达观点和与他人互动的媒介"
 type: concept
 domain: "educational-technology"
-related_count: 0
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,13 +14,17 @@ tags:
   - educational-technology
   - virtual-world
   - identity
-related_concepts: []
+related_concepts:
+  - "[[Virtual World]]"
+  - "[[Anonymity in Research]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Projection Technique]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
 confidence: medium
 status: draft
 created: 2026-07-19
@@ -34,11 +38,11 @@ updated: 2026-07-19
 ## 定义
 
 > [!def] 核心定义
-> 化身（avatar）是虚拟世界中代表参与者的数字形象。参与者为自己创建化身，这种表征可以采取参与者希望的任何形式——人、动物、物体或任意创造物——并可随时更改。化身通常是三维的，通过沟通和消息传递（包括私人和公共、同步和非同步方式）彼此互动（Martin, 2011, Ch. 19）。
+> 化身（avatar）是[[Virtual World|虚拟世界]]中代表参与者的数字形象。参与者为自己创建化身，这种表征可以采取参与者希望的任何形式——人、动物、物体或任意创造物——并可随时更改。化身通常是三维的，通过沟通和消息传递（包括私人和公共、同步和非同步方式）彼此互动（Martin, 2011, Ch. 19）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 化身指向虚拟环境中参与者的可配置数字表征，是参与者自我呈现、身份探索和社会互动的载体。
-> - **用途** 它使研究者能够研究匿名条件下的身份建构、价值观投射、群体互动和敏感议题讨论。
+> - **用途** 它使研究者能够[[Anonymity in Research|研究匿名]]条件下的身份建构、价值观投射、群体互动和敏感议题讨论。
 > - **边界** 化身不是参与者的真实身份——它是一种可丢弃的、可重新配置的表征，使参与者能在较低个人风险下进行实验性自我呈现。
 
 ---
@@ -46,7 +50,7 @@ updated: 2026-07-19
 ## 核心功能
 
 > [!feature] 化身在研究中的关键功能
-> - **自我投射（Self-projection）** 个体通过化身投射自身观点和价值观，并接收系统中他人的反馈。这种投射技术使真实和诚实的观点得以表达，并在参与者希望时进行修改。
+> - **自我投射（Self-projection）** 个体通过化身投射自身观点和价值观，并接收系统中他人的反馈。这种[[Projection Technique|投射技术]]使真实和诚实的观点得以表达，并在参与者希望时进行修改。
 > - **匿名性与安全空间** 化身提供的匿名性使参与者在探索敏感或争议性议题时感到更安全，降低自我审查和群体压力。
 > - **身份实验** 参与者可通过化身尝试不同的性别、族群、能力状态或人格特征，研究身份建构的动态过程。
 > - **可配置性** 化身形式可随时更改——从人类到动物、从物体到任意创造物——为研究者提供研究自我呈现和身份流动性的窗口。
@@ -57,7 +61,7 @@ updated: 2026-07-19
 
 ## 在虚拟世界研究中的角色
 
-在以化身为基础的虚拟世界研究中（Martin, 2011, Ch. 19）：
+在以化身为基础的[[Virtual World|虚拟世界]]研究中（Martin, 2011, Ch. 19）：
 
 - 参与者创建化身并附加传记/背景故事，化身被要求以服饰和物品来描绘参与者如何看待自己（如作为公民的身份）。
 - 化身被提供住所，参与者用物品布置和装饰，创建"装置"来描绘他们是谁以及什么对他们重要。
@@ -71,4 +75,4 @@ updated: 2026-07-19
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 系统定义化身在虚拟世界研究中的角色，包括创建、配置和通过化身进行投射技术与敏感议题讨论的操作方式。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 系统定义化身在[[Virtual World|虚拟世界]]研究中的角色，包括创建、配置和通过化身进行[[Projection Technique|投射技术]]与敏感议题讨论的操作方式。

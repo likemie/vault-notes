@@ -9,9 +9,9 @@ summary: "模拟或促进具有能动性的个体在行动者网络中互动的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags:
   - simulation
@@ -19,13 +19,22 @@ tags:
   - emergence
   - computational-methods
   - mixed-methods
-related_concepts: []
-related_theories: []
+related_concepts:
+  - "[[Emergence]]"
+  - "[[Epistemology]]"
+  - "[[Computer Simulation]]"
+  - "[[Causality]]"
+  - "[[Virtual World]]"
+  - "[[Hypothesis]]"
+  - "[[Causal Processes]]"
+related_theories:
+  - "[[Complexity Theory]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
 confidence: medium
 status: draft
 created: 2026-07-19
@@ -39,7 +48,7 @@ updated: 2026-07-19
 ## 定义
 
 > [!def] 方法定义
-> 基于主体的建模（agent-based modelling, ABM）是一种模拟或促进具有能动性（agentic，即自由选择、自主、有意图、有目的的）个体在行动者网络中行动和互动的方法论。个体的行动和互动对整个系统产生一系列效应（Bonabeau, 2002）。ABM 的核心特征是：复杂的宏观层面行为从微观层面主体的互动中涌现，新模式不可还原为初始条件——新整体大于部分之和（Martin, 2011, Ch. 19）。
+> 基于主体的建模（agent-based modelling, ABM）是一种模拟或促进具有能动性（agentic，即自由选择、自主、有意图、有目的的）个体在行动者网络中行动和互动的方法论。个体的行动和互动对整个系统产生一系列效应（Bonabeau, 2002）。ABM 的核心特征是：复杂的宏观层面行为从微观层面主体的互动中[[Emergence|涌现]]，新模式不可还原为初始条件——新整体大于部分之和（Martin, 2011, Ch. 19）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 自主行动者（个体、群体或组织）在系统中的互动、决策及其涌现的宏观模式。
@@ -51,11 +60,11 @@ updated: 2026-07-19
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
-> - **知识观** ABM 植根于[[Complexity Theory|复杂性理论]]，认为复杂系统建立在相对简单的规则之上，宏观行为从微观互动中通过自组织涌现（Waldrop, 1992; Lewin, 1993）。它拒绝还原论——复杂、模式化的行为不能完全以产生它们的初始条件来理解，不能被分解或原子化为初始条件。
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** ABM 植根于[[Complexity Theory|复杂性理论]]，认为复杂系统建立在相对简单的规则之上，宏观行为从微观互动中通过自组织[[Emergence|涌现]]（Waldrop, 1992; Lewin, 1993）。它拒绝还原论——复杂、模式化的行为不能完全以产生它们的初始条件来理解，不能被分解或原子化为初始条件。
 > - **研究者角色** 研究者设定主体的初始规则和参数，但系统行为从主体互动中涌现，不完全由研究者控制。这使其比纯[[Computer Simulation|计算机模拟]]更少确定性、更具随机性和涌现性。
 > - **有效性标准** 模型产生的涌现模式是否与真实世界观察一致；解释力和诠释力优先于预测力。
-> - **不声称回答的问题** ABM 不能直接证明因果关系——它展示的是给定规则下可能涌现的模式，而非实际发生的因果机制。它也不能替代实证数据的收集和验证。
+> - **不声称回答的问题** ABM 不能直接证明[[Causality|因果关系]]——它展示的是给定规则下可能涌现的模式，而非实际发生的因果机制。它也不能替代实证数据的收集和验证。
 
 > [!method-stack] 方法层级
 > - **研究设计** 计算建模、模拟研究、[[Virtual World|虚拟世界]]研究。
@@ -69,7 +78,7 @@ updated: 2026-07-19
 ## 核心机制
 
 > [!claim] 微观-宏观链接：从简单规则到复杂模式
-> ABM 的核心洞见是：复杂的宏观层面行为从微观层面主体的互动中涌现。宏观行为（涂尔干意义上的"社会事实"——对个体施加外部约束且独立于个体表现而存在的行为方式）从个体互动中产生，但不可还原为个体行为的总和（Durkheim, 1982, p. 59）（Martin, 2011, Ch. 19）。
+> ABM 的核心洞见是：复杂的宏观层面行为从微观层面主体的互动中[[Emergence|涌现]]。宏观行为（涂尔干意义上的"社会事实"——对个体施加外部约束且独立于个体表现而存在的行为方式）从个体互动中产生，但不可还原为个体行为的总和（Durkheim, 1982, p. 59）（Martin, 2011, Ch. 19）。
 
 > [!example] Reynolds 的"boids"模型（Reynolds, 1987）
 > Reynolds 通过三条简单初始规则成功建模了鸟群的集群飞行行为：
@@ -91,9 +100,9 @@ ABM 已被应用于多种领域（Martin, 2011, Ch. 19）：
 > - **政治学** 合作与冲突的动态模拟（Axelrod, 1997）。
 > - **经济学、认知科学与神经网络** 市场行为、学习过程和认知建模（Sun, 2008）。
 > - **流行病学与物流** 季节性迁徙、污染、疾病传播、交通拥堵、供应链等（Epstein, 1996）。
-> - **教育研究** 通过[[Virtual World|虚拟世界]]研究中的主体互动，探索课堂动态、学习行为和社会化过程的涌现模式。
+> - **教育研究** 通过[[Virtual World|虚拟世界]]研究中的主体互动，探索课堂动态、学习行为和社会化过程的[[Emergence|涌现]]模式。
 
-欧洲社会模拟协会（European Social Simulation Association, www.essa.eu.org）的成立证明了此类发展的重要性。
+欧洲社会模拟协会（European Social [[Computer Simulation|simulation]] Association, www.essa.eu.org）的成立证明了此类发展的重要性。
 
 ---
 
@@ -103,7 +112,7 @@ ABM 已被应用于多种领域（Martin, 2011, Ch. 19）：
 > 1. 识别系统中的关键主体（agents）及其属性、目标和行为规则。
 > 2. 设定主体互动的简单初始规则（通常 2–4 条）。
 > 3. 在计算环境中运行模拟，允许主体自主互动和迭代。
-> 4. 观察和记录从主体互动中涌现的宏观模式。
+> 4. 观察和记录从主体互动中[[Emergence|涌现]]的宏观模式。
 > 5. 改变初始规则或参数，比较涌现模式的差异。
 > 6. 将涌现模式与真实世界观察进行对照验证。
 
@@ -112,9 +121,9 @@ ABM 已被应用于多种领域（Martin, 2011, Ch. 19）：
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究微观行为与宏观模式之间的涌现关系；探索初始条件变化如何影响系统整体行为；在虚拟环境中模拟难以在真实世界实验的社会互动过程。
-> - **谨慎使用** 模型假设过于简化时，涌现模式可能与真实世界产生本质差异；需要确保初始规则有足够的理论或实证依据。
-> - **不适合使用** 需要精确预测个体行为的场景；需要建立确定性因果推断的研究；主体行为的规则无法从理论或观察中合理导出的情况。
+> - **适合使用** 研究微观行为与宏观模式之间的[[Emergence|涌现]]关系；探索初始条件变化如何影响系统整体行为；在虚拟环境中模拟难以在真实世界实验的社会互动过程。
+> - **谨慎使用** 模型[[Hypothesis|假设]]过于简化时，涌现模式可能与真实世界产生本质差异；需要确保初始规则有足够的理论或实证依据。
+> - **不适合使用** 需要精确预测个体行为的场景；需要建立确定性[[Causality|因果推断]]的研究；主体行为的规则无法从理论或观察中合理导出的情况。
 
 ---
 
@@ -122,14 +131,14 @@ ABM 已被应用于多种领域（Martin, 2011, Ch. 19）：
 
 > [!method-limits] 方法局限
 > - **过度简化的风险** 某些 ABM 和人工生命模拟因过度简化试图建模的复杂性而被批评过于机械（如细胞自动机中），可能丧失对真实世界复杂性的解释力。
-> - **规则设定的主观性** 初始规则的选择需要强理论或实证支撑，否则可能产生任意或误导性的涌现模式。
+> - **规则设定的主观性** 初始规则的选择需要强理论或实证支撑，否则可能产生任意或误导性的[[Emergence|涌现]]模式。
 > - **涌现模式的解释** 涌现模式与真实世界之间的对应关系需要谨慎论证——模拟中的涌现不等于真实世界中的机制。
 > - **对计算资源的依赖** 大规模 ABM 可能需要显著的计算资源，且模型调试和验证可能复杂耗时。
-> - **因果关系的不确定性** ABM 展示的是给定规则下可能涌现的模式，而非实际发生的因果过程。
+> - **[[Causality|因果关系]]的不确定性** ABM 展示的是给定规则下可能涌现的模式，而非实际发生的[[Causal Processes|因果过程]]。
 
 ---
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 以 Reynolds 的 boids 模型和公民教育虚拟世界研究为例，说明 ABM 如何从主体互动的简单规则中涌现复杂社会模式，以及如何在虚拟世界研究中实现。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 以 Reynolds 的 boids 模型和公民教育[[Virtual World|虚拟世界]]研究为例，说明 ABM 如何从主体互动的简单规则中[[Emergence|涌现]]复杂社会模式，以及如何在虚拟世界研究中实现。

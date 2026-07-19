@@ -9,7 +9,7 @@ aliases:
 summary: "Bishop兄弟描述的美国学校中在同伴面前遵守try but not too hard规范、私下努力学习的双重行为策略"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Conatus]]"
   - "[[Homework]]"
+  - "[[Avatar]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Zero-Sum Competition]]"
 related_theories: []
@@ -75,7 +76,7 @@ updated: 2026-07-08
 > [!example]
 > **vs 一般性的自我呈现（self-presentation）** 代码切换不同于 Goffman 意义上的日常印象管理——后者在各种社交场合都存在，而学校中的代码切换是针对**特定的同伴规范（"不要太[[Conatus|努力]]"）**的**防御性**策略。它不是为了"看起来更好"，而是为了"不被攻击"。
 
-**vs 欺骗** 代码切换不是欺骗——学生确实在学习，只是不在学校谈论它。它更接近一种**文化生存策略（cultural survival strategy）**，类似于少数群体在主流文化中使用的"code-switching"（在不同文化代码之间切换）——只不过这里切换的不是语言或文化身份，而是**对学习的态度表达**。
+**vs 欺骗** 代码切换不是欺骗——学生确实在学习，只是不在学校谈论它。它更接近一种**文化生存策略（cultural survival strategy）**，类似于少数群体在主流文化中使用的"code-switching"（在不同文化代码之间切换）——只不过这里切换的不是语言或文[[Avatar|化身]]份，而是**对学习的态度表达**。
 
 ---
 

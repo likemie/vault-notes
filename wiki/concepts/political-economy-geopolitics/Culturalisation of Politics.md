@@ -5,10 +5,10 @@ aliases:
 summary: "Chen (2023) 提出的概念，政权以文化、历史和传统话语包装政治控制，替代公开的政治意识形态论证"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - culturalisation-of-politics
   - depoliticisation
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Filial Piety]]"
   - "[[Benevolence]]"
   - "[[Governmentality]]"
+  - "[[Avatar]]"
   - "[[Pride in Learning]]"
 related_theories: []
 related_methods: []
@@ -140,7 +141,7 @@ updated: 2026-07-13
 
 > [!debates] 学术争议
 > 
-> > [!axis] 文化身份认同构建 vs. 政治控制的去政治化包装
+> > [!axis] 文[[Avatar|化身]]份认同构建 vs. 政治控制的去政治化包装
 > > 争论焦点在于弘扬优秀传统文化是促进国族归属的良性教育，还是威权体制抹除政治反思的控制手段。
 > > - **[[Argument_Vickers_2024_CE|Vickers（2024）]]** 政治的文化化是一种将政治服从伪装为文化本能的欺骗性治理，旨在消除理性公民对权力的问责能力（p.154）。
 > > - **教育局及建制评论人（2021）** 宣称[[Citizenship and Social Development|公社科]]强调中华优秀传统文化有利于纠正通识科时期的极端个人主义，帮助学生建立健康的道德底蕴与文化[[Pride in Learning|自豪]]感。

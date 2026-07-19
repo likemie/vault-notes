@@ -5,7 +5,7 @@ aliases:
 summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织。在理性主义比较教育中，该理论解释了教育系统在世界社会同质化压力下的自我参照与本国折射机制；在后人类主义教育学中，它与共同制造（Sympoiesis）相对，作为分析系统自组织涌现、去中心化转型与防范知识殖民的重要理论资源。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 26
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Response-ability]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Virtual World]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
   - "[[Transition Design]]"
@@ -45,6 +46,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
 confidence: medium
 status: active
 created: 2026-05-08
@@ -186,4 +188,4 @@ updated: 2026-07-09
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Amos_2022_Springer|Amos, 2022]] — 以 autopoiesis/[[Sympoiesis]] 的对照作为晚期现代性教育愿景的分析资源。
 > - [[Argument_Klerides_2023_CE|Klerides, 2023]] — 追溯了 1990 年代起自创生与[[Luhmann's Systems Theory|系统理论]]如何引入比较教育[[Rationalism in International Relations|理性主义]]传统中用以解释外部化与折射抵抗。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 在[[Virtual World|虚拟世界]]研究的结论中指出：从微观到宏观、从宏观到微观的涌现过程要求适应性、开放系统、学习、反馈、沟通和连接性，以使个体和系统发展自身的身份（自创生）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 在[[Virtual World|虚拟世界]]研究的结论中指出：从微观到宏观、从宏观到微观的[[Emergence|涌现]]过程要求适应性、开放系统、学习、反馈、沟通和连接性，以使个体和系统发展自身的身份（自创生）。

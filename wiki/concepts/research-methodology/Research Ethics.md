@@ -4,7 +4,7 @@ aliases: ["研究伦理", "研究伦理规范", "research ethics in social scien
 summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研究前 IRB 审批与知情同意、研究中避免欺骗与剥削、研究后诚实报告与数据保护，各专业协会均发布伦理守则作为行业标准"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
+  - "[[Computer Simulation]]"
   - "[[Informed Consent]]"
   - "[[Betrayal in Research]]"
   - "[[Academic Freedom]]"
@@ -223,7 +224,7 @@ updated: 2026-07-11
 
 > [!warning] Bailey 的七种避免伤害方法
 > Bailey (1994, p. 457) 提出（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 92]]）：
-> 1. 使用计算机模拟
+> 1. 使用[[Computer Simulation|计算机模拟]]
 > 2. 寻找已存在负面效果的情境（研究不对制造这些条件负责）
 > 3. 只施加极低水平的潜在伤害，或只持续很短时间
 > 4. [[Informed Consent|知情同意]]——提供潜在负面效果的详细信息并征得参与者同意

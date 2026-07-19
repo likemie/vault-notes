@@ -8,7 +8,7 @@ aliases:
 summary: "研究伦理中一对相辅相成的核心原则：不伤害要求研究不对参与者造成身体、心理、情感或职业损害；行善要求研究为参与者和更广泛社区带来实际收益"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Research Ethics]]"
   - "[[Institutional Review Board]]"
+  - "[[Computer Simulation]]"
   - "[[Informed Consent]]"
 related_theories: []
 related_methods:
@@ -61,7 +62,7 @@ updated: 2026-06-19
 > [!feature] Bailey 的七种避免伤害方法
 > Bailey (1994, p. 457) 提出（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 91–92]]）：
 >
-> 1. 使用计算机模拟
+> 1. 使用[[Computer Simulation|计算机模拟]]
 > 2. 寻找已存在负面效果的情境（研究不对制造这些条件负责）
 > 3. 只施加极低水平的潜在伤害，或只持续很短时间
 > 4. [[Informed Consent|知情同意]]（提供潜在负面效果的详细信息并征得同意）
