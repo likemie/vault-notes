@@ -4,12 +4,11 @@ aliases:
   - 解放性行动研究
   - 批判性行动研究
   - critical action research
-  - emancipatory action research
 summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认识论基础，旨在识别和消除阻碍参与者自主与自由的制度性与人际性约束，追求社会正义与解放"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -220,7 +219,7 @@ updated: 2026-07-19
 ### 实践后果与可行性
 
 > [!critique] 实践后果与可行性
-> - **削弱个体[[Teacher-as-Researcher|教师即研究者]]** 偏袒自我批判的共同体，忽视了个体教师在课堂层面的能动性。凯米斯与麦克塔格特（Kemmis & McTaggart, 1992, p. 152）自己也质疑为什么行动研究必须是群体过程
+> - **削弱个体[[Teacher-as-Researcher|教师即研究者]]** 偏袒自我批判的共同体，忽视了个体教师在课堂层面的能动性。[[Stephen Kemmis|凯米斯]]与麦克塔格特（Kemmis & McTaggart, 1992, p. 152）自己也质疑为什么行动研究必须是群体过程
 > - **减少实践影响** 将行动研究局限于学术界的知识商品化，脱离改进实践的根本目的
 > - **促进服从** 通过对批判正统的盲从反而促进方法论服从，与解放的目标自相矛盾
 > - **精英主义** 以学术理论家的批判话语主导行动研究议程，却声称服务平等主义
@@ -249,4 +248,4 @@ updated: 2026-07-19
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18)]] — 系统阐述了解放性[[Action Research|行动研究]]的三分类型学定位、Zuber-Skerritt 四步循环和 Kincheloe 七步过程、[[Ideal Speech Situation|理想言说情境]]的六个前提、两个阵营的分化以及来自多位批评者的 17 条批评，是理解该方法的核心[[Document|文献]]。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch. 18)]] — 系统阐述了解放性[[Action Research|行动研究]]的三分类型学定位、祖伯-斯凯里特（Zuber-Skerritt）四步循环和金奇洛（Kincheloe）七步过程、[[Ideal Speech Situation|理想言说情境]]的六个前提、两个阵营的分化以及来自多位批评者的 17 条批评，是理解该方法的核心[[Document|文献]]。

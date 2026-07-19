@@ -7,7 +7,7 @@ aliases:
 summary: "由Stenhouse开创的运动，主张教师研究自身实践而非被外部研究者研究，将反思置于专业行动的核心，是行动研究中实践性类型的方法论基础"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_methods:
 related_persons:
   - "[[Stephen Kemmis]]"
   - "[[Jürgen Habermas]]"
+  - "[[Donald A. Schön]]"
   - "[[Paulo Freire]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
@@ -71,7 +72,7 @@ updated: 2026-07-19
 > | **核心主体** | 个体教师 | 参与者共同体 | 平等者共同体 |
 > | **知识兴趣（哈贝马斯（[[Jürgen Habermas\|Habermas]]））** | 实践兴趣：理解与诠释 | 实践—解放兴趣 | 解放兴趣：自由与自主 |
 > | **核心目标** | 通过反思改进自身专业实践 | 赋权边缘群体、改变权力关系 | 揭露并消除制度性约束，追求社会正义 |
-> | **理论对应** | 舍恩（Schön）行动后反思；诠释学活动 | [[Paulo Freire\|保罗·弗莱雷（Paulo Freire）]]意识提升；[[Critical Theory\|批判理论]] | 哈贝马斯解放兴趣；阿吉里斯（Argyris）双环学习 |
+> | **理论对应** | [[Donald A. Schön\|唐纳德·舍恩]]（Donald Schön）行动后反思；诠释学活动 | [[Paulo Freire\|保罗·弗莱雷（Paulo Freire）]]意识提升；[[Critical Theory\|批判理论]] | 哈贝马斯解放兴趣；克里斯·阿吉里斯（Chris Argyris）双环学习 |
 > | **赋权含义** | 专业自主 | 集体赋权 | 社会民主与正义 |
 > | **研究规模** | 个体课堂 | 社区或群体 | 系统层面 |
 
@@ -81,7 +82,7 @@ updated: 2026-07-19
 > - **个体立场（怀特海德（Whitehead）, 1985; 斯滕豪斯（Stenhouse）, 1975）** 行动研究可以是个体性的事务。教师自问自答——识别问题、寻找方案、实施干预、评价结果——构成了完整的行动研究循环。教师即研究者运动为课堂层面的专业改进提供了方法论基础。
 > - **集体立场（[[Stephen Kemmis|凯米斯]]与麦克塔格特（Kemmis & McTaggart）, 1992, p. 15）** "诉诸个人主义就是摧毁群体的批判动力。"受计划变革影响的人对决定改进方向负有首要责任——行动研究是群体活动，不是个体性的。
 
-Oja & Smulyan（1989, p. 14）从实用层面为合作行动研究辩护：教师如果参与了证明变革必要性和可行性的研究，更可能改变行为和态度——这是所有权和参与的问题。但教师即研究者传统坚持个体教师也可以在自身课堂中独立开展严谨的探究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 270)]]
+奥亚与斯穆良（Oja & Smulyan, 1989, p. 14）从实用层面为合作行动研究辩护：教师如果参与了证明变革必要性和可行性的研究，更可能改变行为和态度——这是所有权和参与的问题。但教师即研究者传统坚持个体教师也可以在自身课堂中独立开展严谨的探究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 270)]]
 
 ---
 
@@ -111,7 +112,7 @@ Oja & Smulyan（1989, p. 14）从实用层面为合作行动研究辩护：教�
 ## 教师即研究者与专业发展
 
 > [!info] [[Action Research|行动研究]]作为专业发展途径
-> 教师即研究者与教师专业发展紧密关联（尼克松（Nixon）, 1981; 奥亚与斯穆良（Oja & Smulyan）, 1989; 索梅克（Somekh）, 1995, p. 343; 温特（Winter）, 1996）。它是一种在工作场所中、关于工作场所的情境学习（situated learning）（科林斯与杜吉德（Collins & Duguid）, 1989）——教师在自己的课堂和学校环境中，通过研究自身实践来发展专业能力，而非在脱离实践的培训场景中接受外部灌输。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 267)]]
+> 教师即研究者与教师专业发展紧密关联（尼克松（Nixon）, 1981; Oja & Smulyan, 1989; 索梅克（Somekh）, 1995, p. 343; 温特（Winter）, 1996）。它是一种在工作场所中、关于工作场所的情境学习（situated learning）（科林斯与杜吉德（Collins & Duguid）, 1989）——教师在自己的课堂和学校环境中，通过研究自身实践来发展专业能力，而非在脱离实践的培训场景中接受外部灌输。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 267)]]
 
 Ferrance（2000, p. 1）为这一路径提供了实证辩护：教师在自己识别的问题上工作最有效；被鼓励审视和评估自身工作并考虑不同工作方式时变得更有效；通过合作互相帮助；可以在专业发展中通过共同工作互相支持。
 
@@ -120,7 +121,7 @@ Ferrance（2000, p. 1）为这一路径提供了实证辩护：教师在自己�
 ## 争议与批评
 
 > [!tension] 专业自主 vs 系统批判
-> Kemmis（1997, p. 177）区分了[[Action Research|行动研究]]中两个阵营对赋权的不同理解，二者对教师即研究者的定位产生根本分歧。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 276–277)]]
+> [[Stephen Kemmis|凯米斯]]（Kemmis, 1997, p. 177）区分了[[Action Research|行动研究]]中两个阵营对赋权的不同理解，二者对教师即研究者的定位产生根本分歧。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 276–277)]]
 > - **[[Reflexivity|反思性]]实践者阵营（埃利奥特（Elliott）、施瓦布（Schwab）、舍恩（Schön））** 教师即研究者的赋权意味着通过专业发展实现专业自主——在个体能力和工作情境范围内改进实践。
 > - **[[Critical Theory|批判理论]]家阵营（卡尔（Carr）与[[Stephen Kemmis|凯米斯]]（Kemmis））** 教师即研究者过于个体化，忽视了更广泛的课程结构和制度力量（埃利奥特（Elliott）, 1991, p. 55），赋权必须包含对社会宏观结构的批判和改变。
 
