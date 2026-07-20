@@ -32,6 +32,41 @@ tags:
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_concepts:
+  - "[[Questionnaire]]"
+  - "[[Operationalization]]"
+  - "[[Covering Letter]]"
+  - "[[Informed Consent]]"
+  - "[[Non-maleficence and Beneficence in Research]]"
+  - "[[Reliability]]"
+  - "[[Hypothesis]]"
+  - "[[Construct]]"
+  - "[[Research Question]]"
+  - "[[Research Purpose]]"
+  - "[[Independent Variable]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Dependent Variable]]"
+  - "[[Variable]]"
+  - "[[Order Effects]]"
+  - "[[Fitness for Purpose]]"
+  - "[[Likert Scale]]"
+  - "[[Semantic Differential]]"
+  - "[[Conatus]]"
+  - "[[Paradigm]]"
+  - "[[Positivism]]"
+  - "[[Leading Questions]]"
+  - "[[Homework]]"
+  - "[[Internal Consistency]]"
+  - "[[Sample Size Determination]]"
+  - "[[Presence]]"
+related_methods:
+  - "[[Pilot Testing]]"
+  - "[[Multiple Regression]]"
+  - "[[Causal Modeling]]"
+  - "[[Case Study]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Chi-Squared Test]]"
+  - "[[Random Sampling]]"
 status: draft
 created: 2026-07-20
 updated: 2026-07-20
@@ -75,13 +110,13 @@ updated: 2026-07-20
 > [[Questionnaire|问卷]]始终是对受访者生活的侵入，无论体现在完成时间、问题的威胁或敏感程度，还是对隐私的可能侵犯。问卷受访者是研究的主体，不是被动的数据提供者。受访者不能被强制完成问卷，他们可能被强烈鼓励，但参与与否和何时退出的决定完全属于他们自己（pp. 105–106）。
 
 > [!feature] 受访者参与研究的八个影响因素（pp. 105–106）
-> - **知情同意（Informed Consent）** 受访者必须在充分知情后自愿参与（参见第 5 章）。
+> - **[[Informed Consent|知情同意]]（Informed Consent）** 受访者必须在充分知情后自愿参与（参见第 5 章）。
 > - **随时退出的权利** 受访者可在任何阶段退出或拒绝完成特定题项。
 > - **获益性（Beneficence）** 研究有改善受访者处境的潜力。
-> - **无害性（Non-maleficence）** 保证研究不会伤害受访者。
+> - **无害性（[[Non-maleficence and Beneficence in Research|non-maleficence]]）** 保证研究不会伤害受访者。
 > - **保密、匿名与不可追溯** 研究者必须提供这些保证。
 > - **问题的威胁或敏感性** 可能导致过度报告或低报（Sudman and Bradburn, 1982, p. 32）。
-> - **问卷本身的因素** 覆盖议题的全面性、是否能捕捉受访者真正想说的内容而非仅推进研究者的议程，即避免偏差和保证信度与效度。
+> - **问卷本身的因素** 覆盖议题的全面性、是否能捕捉受访者真正想说的内容而非仅推进研究者的议程，即避免偏差和保证[[Reliability|信度]]与效度。
 > - **受访者的反应** 如果受访者认为某个题项具有冒犯性、侵入性、误导性、有偏见、令人困惑、无礼、鲁莽或深奥难懂，他们会做出反应。
 
 > [!claim] 方法论严谨性是伦理问题
@@ -115,7 +150,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > **B 问题措辞的决策**（7 条）
 > 1. 问题是否可能被误解？是否包含困难或不清晰的措辞？
 > 2. 问题是否充分表达了与该点相关的替代选项？
-> 3. 问题是否因未陈述的假设或未被看见的隐含而具有误导性？
+> 3. 问题是否因未陈述的[[Hypothesis|假设]]或未被看见的隐含而具有误导性？
 > 4. 措辞是否有偏见？是否有情感负载或偏向某种特定回答？
 > 5. 问题措辞是否可能以任何方式令受访者反感？
 > 6. 更个人化的措辞是否会产生更好的结果？
@@ -137,7 +172,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > [!proc] 问卷规划的八阶段序列（p. 108）
 > 1. **确定问卷的目的/目标**
 > 2. **确定总体和样本**
-> 3. **生成需覆盖的主题/构念/概念/议题及所需数据**
+> 3. **生成需覆盖的主题/[[Construct|构念]]/概念/议题及所需数据**
 > 4. **决定所需的测量/量表/问题/回答类型**
 > 5. **撰写问卷题项**
 > 6. **检查每个议题是否被覆盖，每个议题使用多个题项**
@@ -154,20 +189,20 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > - **第三步：制定每个附属议题的具体信息需求** 进一步操作化为可收集数据的具体特征。例如"课程类型"需要知道：持续时间（一次/多次/一周/一月/一学期/一年）、课程地位（无学分/有学分/证书/文凭/学位）、课程取向（理论讲授型/实践工作坊型）（p. 109）。
 
 > [!chain-link] Wilson & McLean（1994, pp. 8–9）的替代操作化路径
-> - **识别研究问题** 明确要回答的核心问题。
+> - **识别[[Research Question|研究问题]]** 明确要回答的核心问题。
 > - **澄清相关概念或构念** 界定研究中涉及的关键概念。
 > - **识别经验指标** 找出这些概念的可测量指标（如存在性、强度、主要特征和维度、关键要素等）。
 > - **确定所需数据类型** 明确需要哪些数据来为概念或构念提供相关证据（p. 109）。
 
 > [!goal] 两种操作化路径的共同要求（p. 109）
-> 问卷必须：（a）目的清晰；（b）覆盖内容明确；（c）覆盖元素的穷尽性；（d）提问类型适当；（e）引出适合回答研究目的和子问题的数据类型；（f）收集经验数据。
+> 问卷必须：（a）目的清晰；（b）覆盖内容明确；（c）覆盖元素的穷尽性；（d）提问类型适当；（e）引出适合回答[[Research Purpose|研究目的]]和子问题的数据类型；（f）收集经验数据。
 
 ---
 
 #### 以数据分析为规划导向
 
 > [!claim] 问卷设计必须预设分析方式
-> 问卷的结构和内容应从预想的分析方式中推导出来。如果研究者希望进行[[Multiple Regression|多元回归]]（如找出三个自变量：教学准备、师生关系、学科知识）对因变量教学有效性的相对权重，则自变量和因变量都必须包含在问卷中。如果要进行因子分析，变量必须达到比率数据水平；如果要进行[[Causal Modeling|结构方程建模]]，变量和因子都必须能够从问卷中计算出来。即使只计算简单的频率和百分比，问卷也必须以能够产生这些统计量的方式构建。研究者在设计问卷之前就已经知道她想如何分析数据，问卷的结构和内容由此推导（pp. 110–113）。
+> 问卷的结构和内容应从预想的分析方式中推导出来。如果研究者希望进行[[Multiple Regression|多元回归]]（如找出三个[[Independent Variable|自变量]]：教学准备、[[Student-Teacher Relationship|师生关系]]、学科知识）对[[Dependent Variable|因变量]]教学有效性的相对权重，则自[[Variable|变量]]和因变量都必须包含在问卷中。如果要进行因子分析，变量必须达到比率数据水平；如果要进行[[Causal Modeling|结构方程建模]]，变量和因子都必须能够从问卷中计算出来。即使只计算简单的频率和百分比，问卷也必须以能够产生这些统计量的方式构建。研究者在设计问卷之前就已经知道她想如何分析数据，问卷的结构和内容由此推导（pp. 110–113）。
 
 > [!example] 案例 1　多元回归规划（pp. 110–111）
 > 研究者想找出三个自变量（教学准备、师生关系、学科知识）对因变量（教学有效性）的相对权重。所有题项使用相同的 11 点量表（0="完全没有"至 10="非常大程度"），同时包含：
@@ -242,9 +277,9 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > [!contrast-table] 封闭式与开放式问题的对比（pp. 114–117）
 > | 维度 | 封闭式问题 | 开放式问题 |
 > |---|---|---|
-> | 适用场景 | 大样本、测量导向、比较导向 | 小样本、探索性、特定情境案例研究 |
+> | 适用场景 | 大样本、测量导向、比较导向 | 小样本、探索性、特定情境[[Case Study\|案例研究]] |
 > | 回答性质 | 预设范围，结构化 | 自由书写，受访者以自己的话回答 |
-> | 编码与分析 | 快速编码，适合统计处理（Bailey, 1994, p. 118） | 难以编码和分类，不易跨参与者比较 |
+> | [[Coding in Qualitative Research\|编码]]与分析 | 快速编码，适合统计处理（Bailey, 1994, p. 118） | 难以编码和分类，不易跨参与者比较 |
 > | 受访者负担 | 快速完成，不因参与者表达能力而产生歧视（Wilson & McLean, 1994, p. 21） | 耗时较长，可能导致拒绝完成或使问卷显得冗长和令人沮丧 |
 > | 优势 | 可生成回应频率，便于跨组比较（Oppenheim, 1992, p. 115）；直接到点、更有焦点 | 可捕捉真实性、丰富性、深度、诚实和坦率；适合复杂议题；可用于生成后续封闭式问题的题项 |
 > | 风险 | 类别可能不穷尽、存在偏差；不允许受访者添加任何评论、限定或解释 | 可能产生无关或冗余信息；受访者可能不知道需要什么类型的信息；不适合大样本的文字数据处理 |
@@ -337,7 +372,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 >
 > 1. **列表过长不可行** Wilson & McLean（1994, p. 26）建议要求受访者排列超过五个优先级是不现实的（上述示例有十项，显然过多）。解决方法：（a）将列表缩减至五项，但这显著缩小了回应范围；或（b）保留十项但仅要求排列前五项，既保留范围且任务不过于繁重。
 >
-> 2. **不可比较性问题** 不同项目可能无法真正放在同一量表上。如 Ovadia（2004, p. 407）指出，重视正义可能对重视爱毫无说明——将二者放入同一"重要性"排序可能毫无意义。即使可以排序，"是否适合目的"和具体情境可能暗示，一个更公平的答案是"一切取决于具体情境中发生的事"。
+> 2. **不可比较性问题** 不同项目可能无法真正放在同一量表上。如 Ovadia（2004, p. 407）指出，重视正义可能对重视爱毫无说明——将二者放入同一"重要性"排序可能毫无意义。即使可以排序，"是否[[Fitness for Purpose|适合目的]]"和具体情境可能暗示，一个更公平的答案是"一切取决于具体情境中发生的事"。
 >
 > 3. **过强区分** 排序强制受访者使用全部标度，如果列了十项就必须给出十个排位。这可能导致项目间差异被夸大。
 >
@@ -476,7 +511,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > [!example] 排序与评分差异的具体案例（Ovadia, 2004, p. 407）（pp. 143–144）
 > 两位受访者对三个学生成功因素的重要性打分（满分 10 分）：
 >
-> **受访者 A** 努力学习（9 分）、家庭压力（6 分）、享受学科（5 分）
+> **受访者 A** [[Conatus|努力]]学习（9 分）、家庭压力（6 分）、享受学科（5 分）
 > **受访者 B** 努力学习（6 分）、家庭压力（4 分）、享受学科（2 分）
 >
 > 排序结果完全相同（努力第一、家庭第二、享受第三），但实际分数差异巨大：受访者A认为这些因素远比受访者B认为的重要。如果 A 的分数随时间分别下降 2/1/3 分，排序依然不变，排序对变化不敏感。
@@ -533,7 +568,7 @@ Oppenheim（1992, pp. 56–57）建议**句子补全题**作为开放题的有�
 > 我对扰乱秩序的学生的烦恼主要是……（p. 148）
 
 > [!weakness] 开放题的局限
-> - **跨范式借用** 如果试图将意见转化为数字（如"多少人表示对校长管理计划有某种程度的满意"），则问卷本应在一开始就使用评定量表。研究者可能违反文字数据的一个原则——它们**不能合法地被聚合**。这是在借用一个范式（量化、实证主义方法论）去指导另一个范式（质性、解释性方法论）。
+> - **跨[[Paradigm|范式]]借用** 如果试图将意见转化为数字（如"多少人表示对校长管理计划有某种程度的满意"），则问卷本应在一开始就使用评定量表。研究者可能违反文字数据的一个原则——它们**不能合法地被聚合**。这是在借用一个范式（量化、[[Positivism|实证主义]]方法论）去指导另一个范式（质性、解释性方法论）。
 > - **难以比较** 真正开放式的问题很少会产生彼此足够相似的回应以进行紧密聚合。
 > - **耗时** 完成开放问卷比在评定量表框中打勾花费更多时间。
 > - **表达能力假设** 假定受访者能够或足以表达想法并将它们付诸文字。
@@ -627,7 +662,7 @@ Sudman & Bradburn（1982: Ch.3）系统讨论了问卷中纳入敏感题项的�
 
 > [!warning] 问题措辞的十项警示（pp. 157–163）
 >
-> **（i）避免引导性问题** 提问措辞（或其回应类别）暗示只有一种可接受的答案。例如："你偏好抽象学术型课程，还是接地气、对你的日常教学有实际回报的实践课程？"
+> **（i）避免[[Leading Questions|引导性问题]]** 提问措辞（或其回应类别）暗示只有一种可接受的答案。例如："你偏好抽象学术型课程，还是接地气、对你的日常教学有实际回报的实践课程？"
 >
 > **（ii）避免深奥问题** 即使对复杂的受访者也应使用清晰简单的语言。例如："你希望看到当前实证主义/解释主义争论的哪些特定方面反映在一门面向教师受众的发展心理学课程中？"
 >
@@ -648,7 +683,7 @@ Sudman & Bradburn（1982: Ch.3）系统讨论了问卷中纳入敏感题项的�
 > **（x）避免歧义问题或可能以不同于意图的方式被解释的问题** 词语歧义无法消除，只能最小化而非完全根除。最无辜的问题也充满歧义（Youngman, 1984, pp. 158–159; Morrison, 1993, pp. 71–72）。
 
 > [!example] 歧义问题的典型示例（pp. 161–163）
-> - **"你的孩子定期做家庭作业吗？"** 定期是什么意思？每天一次？每年一次？每学期一次？每周一次？
+> - **"你的孩子定期做[[Homework|家庭作业]]吗？"** 定期是什么意思？每天一次？每年一次？每学期一次？每周一次？
 > - **"学校里有多少学生？"** 在册人数？在册但缺席？标记为出席但外出校外实习？此刻还是本周（周一和周五的出勤率不同、学年初和学年末也不同）？
 > - **"学校有多少台计算机？"** 包括在场的但坏了的？包括在校外维修的？学校财产还是师生自己的？平均还是今天恰好在校的？
 > - **"你本周上过法语课吗？"** 周是学校周（周一到周五）？还是从上周日（或周六，取决于宗教）算起？如果问题在周三提出，是从上周三算起？
@@ -802,12 +837,12 @@ Sudman & Bradburn（1982: Ch.3）系统讨论了问卷中纳入敏感题项的�
 从大量题项列表（如 120 题）开始，通过对**有代表性的大样本**（50–100 人）进行统计分析来缩减题项至可管理规模（Kgaile and Morrison, 2006）（pp. 178–179）：
 
 > [!proc] 统计缩减预测试的四种分析策略
-> 1. **信度分析** 移除低 Cronbach's α（内部一致性）的题项
+> 1. **信度分析** 移除低 Cronbach's α（[[Internal Consistency|内部一致性]]）的题项
 > 2. **共线性检查** 如果题项与其它题项高度相关，可决定移除其中一个或多个——前提是人类判断必须凌驾于统计分析之上，确保不因此丢失重要研究领域
 > 3. **多元回归** 移除低标准化 beta 值的题项——同样以人类判断凌驾于统计分析之上
 > 4. **因子分析** 识别关键变量群和冗余题项
 
-> [!warning] 样本量对统计预测试的影响
+> [!warning] [[Sample Size Determination|样本量]]对统计预测试的影响
 > 此类预测试需要良好的规模和代表性的样本以生成可靠数据进行统计分析。如果受访者太少，可能导致重要题项被错误地从最终问卷中排除（p. 179）。
 
 ---
@@ -880,7 +915,7 @@ Sudman & Bradburn（1982: Ch.3）系统讨论了问卷中纳入敏感题项的�
 >
 > 2. **编码（Coding）** 为每个调查问题的回答分配编码
 >    - **预编码（pre-coding）**适合封闭式问题——男性 1、女性 2；单身 1、已婚 2、分居 3、离婚 4。编码框架通常在访谈开始前就已开发好并印刷在问卷上。
->    - **后编码（post-coding）**适合开放式问题——编码框架必须在问卷完成后制定。最佳做法是从问卷的随机样本（10% 或以上，时间允许的话）生成回答范围的频率统计作为编码分类的初步，然后用于编码另一个样本进行效度核验。**一开始就把编码框架做好至关重要**，在研究后期扩展或修改编码框架既昂贵又繁琐。
+>    - **后编码（post-coding）**适合开放式问题——编码框架必须在问卷完成后制定。最佳做法是从问卷的[[Random Sampling|随机样本]]（10% 或以上，时间允许的话）生成回答范围的频率统计作为编码分类的初步，然后用于编码另一个样本进行效度核验。**一开始就把编码框架做好至关重要**，在研究后期扩展或修改编码框架既昂贵又繁琐。
 >
 > 3. **数据分析** 可使用 SphinxSurvey 等软件包辅助问卷的设计、施测和处理（pp. 198–199）。
 
@@ -891,7 +926,7 @@ Sudman & Bradburn（1982: Ch.3）系统讨论了问卷中纳入敏感题项的�
 
 ## 关键引用
 
-> [!citation-card]- 问卷作为对受访者生活的侵入
+> [!citation-card]- [[Questionnaire|问卷]]作为对受访者生活的侵入
 > 问卷始终是对受访者生活的侵入，无论体现在完成时间、问题的威胁或敏感程度，还是对隐私的可能侵犯。问卷受访者不是被动的数据提供者；是研究的主体。方法论严谨性是一个伦理问题，而非仅仅是技术问题。（Morrison, 1996b; pp. 105–106）
 >
 > *The questionnaire will always be an intrusion into the life of the respondent, be it in terms of time taken to complete the instrument, the level of threat or sensitivity of the questions, or the possible invasion of privacy. Questionnaire respondents are not passive data providers for researchers; they are subjects not objects of research. Methodological rigour is an ethical not simply a technical matter.*
@@ -909,9 +944,9 @@ Sudman & Bradburn（1982: Ch.3）系统讨论了问卷中纳入敏感题项的�
 > [!citation-card]- 评定量表的量表数值正负号含义不同
 > 在 −5 至 +5 量表中，零表示属性的缺失；而在 0–10 量表中，零表示两极量表负性端的此在，即零在两种量表中具有两种不同的含义。因此研究者必须不仅注意使用的文字标签，还要注意与这些相同描述词一起使用的量表和标点。（Schwartz et al., 1991, p. 577; p. 136）
 >
-> *In a −5 to +5 scale, zero indicates absence of an attribute, whereas in a 0–10 scale a zero indicates the presence of the negative end of the bipolar scale, i.e. the zero has two different meanings, depending on the scale used. Hence researchers must be careful not only on the verbal labels that they use, but the scales and scale points that they use with those same descriptors.*
+> *In a −5 to +5 scale, zero indicates absence of an attribute, whereas in a 0–10 scale a zero indicates the [[Presence]] of the negative end of the bipolar scale, i.e. the zero has two different meanings, depending on the scale used. Hence researchers must be careful not only on the verbal labels that they use, but the scales and scale points that they use with those same descriptors.*
 
-> [!citation-card]- 预测试的全面性
+> [!citation-card]- [[Pilot Testing|预测试]]的全面性
 > 问卷上的一切都应经过预测试；没有任何东西应被排除，甚至包括字体或纸张质量。（Oppenheim, 1992, p. 48; p. 178）
 >
 > *Everything about the questionnaire should be piloted; nothing should be excluded, not even the type face or the quality of the paper.*
@@ -922,7 +957,7 @@ Sudman & Bradburn（1982: Ch.3）系统讨论了问卷中纳入敏感题项的�
 > *The logical ordering of a questionnaire has to be mediated by its psychological ordering. The instrument has to be viewed through the eyes of the respondent as well as the designer.*
 
 > [!citation-card]- 处理敏感问题的预期偏差
-> 随着问题变得更加威胁和敏感，应预期更大的偏差和不可靠性。敏感性和威胁必须通过受访者的眼睛来看待。对研究者看似无害的事项可能对参与者高度敏感或具有冒犯性。（Sudman and Bradburn, 1982, p. 86; p. 156）
+> 随着问题变得更加威胁和敏感，应预期更大的偏差和不[[Reliability|可靠性]]。敏感性和威胁必须通过受访者的眼睛来看待。对研究者看似无害的事项可能对参与者高度敏感或具有冒犯性。（Sudman and Bradburn, 1982, p. 86; p. 156）
 >
 > *As the questions become more threatening and sensitive, it is wise to expect greater bias and unreliability. Sensitivity and threat are to be viewed through the eyes of respondents rather than the questionnaire designer; what might appear innocuous to the researcher might be highly sensitive or offensive to participants.*
 
