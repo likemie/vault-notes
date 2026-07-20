@@ -92,7 +92,17 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Third Generation Activity Theory\|第三代活动理论（Third Generation Activity Theory）]]** | 本研究的核心[[Analytic Framework\|分析框架（Analytic Framework）]]（Engeström, 1987, 2001）。将人类实践概念化为集体活动系统（Activity System），包含六个核心构件：主体（Subject，校长与教师）、客体（Object，提分或实施教学改革）、中介工具（Mediating Tools，教法、数据与研讨会）、共同体（Community，家长与教育局）、规则（Rules，考评体系与升学制度）、劳动分工（Division of Labor，领导力分配与教学分工）。第三代活动理论特别关注两个或多个活动系统相遇时的边界跨越（Boundary Crossing）与矛盾（Contradictions），并将矛盾视为触发扩展性学习（Expansive Learning）与扩展性改造（Expansive Transformation）的根本动力(pp.590-591)。 |
+> | **[[Third Generation Activity Theory\|第三代活动理论（Third Generation Activity Theory）]]** | 本研究的核心[[Analytic Framework\|分析框架（Analytic Framework）]]（Engeström, 1987, 2001）。将人类实践概念化为集体活动系统（Activity System），并通过六个核心构件进行解构。第三代活动理论特别关注多个活动系统相遇时的边界跨越（Boundary Crossing）与矛盾（Contradictions），并将矛盾视为触发扩展性学习（Expansive Learning）与扩展性改造（Expansive Transformation）的根本动力(pp.590-591)。 |
+
+> [!index-table] 第三代活动理论的六个核心构件
+> | 核心构件 | 理论定义与案例学校含义 |
+> |---|---|
+> | **主体（Subject）** | 参与活动系统的个人或群体，在案例学校中指校长与教师(p.590)。 |
+> | **客体（Object）** | 活动系统所指向的意图与目标，表现为提升考试成绩或推行以学生为中心教育(p.590)。 |
+> | **中介工具（Mediating Tools）** | 主体用于达成客体的中介手段，包括讲授教法、研讨会、数据诊断与探究案例(p.590)。 |
+> | **共同体（Community）** | 主体所嵌入的社会关系网络，包括家长、地方教育局与社会大众(p.590)。 |
+> | **规则（Rules）** | 规范与约束活动系统运行的显性或隐性制度，如考评体系、绩效奖惩与升学规定(p.590)。 |
+> | **劳动分工（Division of Labor）** | 共同体内成员之间的任务分配、权力结构与风险担保机制(p.590)。 |
 
 > [!warrant]- 理论如何支撑论证
 > 本研究将[[Test-Based Accountability|考试问责]]与[[Learner-Centred Education|以学生为中心教育]]视为学校同时嵌入的两个独立且相互作用的活动系统。通过活动理论的六要素拆解，一方面能够清晰显影为什么单纯引入外部中介工具（如英国教学法）会因与既有考试问责系统中的规则（分数考评）、共同体（家长压力）和分工（自上而下指令）相冲突而陷入失调；另一方面，它解释了当学校领袖成功建构出双系统共享客体时，如何能带动规则、工具和分工的全系统重组，从而为跨国[[Policy Borrowing|政策借用]]中的[[Transfer Translation Transformation|动态转译]]提供了社会文化历史视角的机制解释(pp.590-591, p.600)。
