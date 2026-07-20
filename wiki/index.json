@@ -6582,6 +6582,17 @@
     ]
   },
   {
+    "title": "Rating Scale",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Rating Scale.md",
+    "aliases": [
+      "评定量表",
+      "rating scales",
+      "attitude scale",
+      "态度量表"
+    ]
+  },
+  {
     "title": "Reactivity in Qualitative Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Reactivity in Qualitative Research.md",
