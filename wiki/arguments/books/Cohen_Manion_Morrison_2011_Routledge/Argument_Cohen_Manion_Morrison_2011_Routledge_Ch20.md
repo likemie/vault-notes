@@ -424,10 +424,10 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > [!claim] 单维性
 > 态度量表工具的一个重要特征是**单维性**假设——量表每次只应测量一件事。这是 Likert 本人思想的基石（Oppenheim, 1992, pp. 187–188; p. 129）。
 
-##### 语义差异量表
+##### [[Semantic Differential|语义差异量表]]
 
 > [!def] 语义差异量表
-> [[Semantic Differential|语义差异量表]]是评定量表的变体，将一个形容词放在量表一端，其反义词放在另一端。受访者在量表上最能代表其感受的位置画圈或做标记。
+> [[Semantic Differential|语义差异量表]]是[[Rating Scale|评定量表]]的变体，将一个形容词放在量表一端，其反义词放在另一端。受访者在量表上最能代表其感受的位置画圈或做标记。由 Osgood、Suci 和 Tannenbaum 于 1957 年开发（pp. 129–130）。详见 [[Semantic Differential|语义差异量表]]条目。
 
 > [!example] 语义差异量表示例
 > 你认为这套新的历史教科书信息量如何？
@@ -438,10 +438,13 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 >
 > Approachable — Unapproachable；Generous — Mean；Friendly — Hostile；Caring — Uncaring；Attentive — Inattentive；Hard-working — Lazy（pp. 129–130）
 
-> [!feature] Osgood et al.（1957）的三语境框架
-> - **评价性（Evaluative）** valuable–valueless, useful–useless, good–bad
-> - **效力性（Potency）** large–small, weak–strong, light–heavy
-> - **活动性（Activity）** quick–slow, active–passive, dynamic–lethargic
+> [!dimension] Osgood et al.（1957）的三语境框架
+> - **评价性（Evaluative）**
+>   测量好与坏、有价值与无价值等判断。典型对：valuable–valueless, useful–useless, good–bad。
+> - **效力性（Potency）**
+>   测量强与弱、大与小等感知。典型对：large–small, weak–strong, light–heavy。
+> - **活动性（Activity）**
+>   测量快与慢、主动与被动等特征。典型对：quick–slow, active–passive, dynamic–lethargic。
 
 ##### 评定量表的十七项警示
 
