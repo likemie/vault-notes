@@ -20,10 +20,13 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Presence]]"
+  - "[[Ranking Questions]]"
+  - "[[Rating Scale]]"
   - "[[Semantic Differential]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Research Question]]"
+  - "[[Questionnaire Wording]]"
   - "[[Hypothesis]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -32,6 +35,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Leading Questions]]"
   - "[[Research Purpose]]"
+  - "[[Sensitive Questions]]"
   - "[[Homework]]"
   - "[[Covering Letter]]"
 related_methods:
@@ -97,8 +101,8 @@ updated: 2026-07-21
 > |---|---|---|---|
 > | 二分类问题 | 名义数据 | 强制二选一判断 | 过滤与分流；简单事实 |
 > | 多选问题 | 名义数据 | 从预设离散选项中选择 | 分类与频率 |
-> | 排序题 | 顺序数据 | 跨选项比较并确定优先级 | 优先级与相对权重 |
-> | 评定量表 | 顺序数据 | 程度或强度的渐变回应 | 态度、感知与意见 |
+> | [[Ranking Questions\|排序题]] | 顺序数据 | 跨选项比较并确定优先级 | 优先级与相对权重 |
+> | [[Rating Scale\|评定量表]] | 顺序数据 | 程度或强度的渐变回应 | 态度、感知与意见 |
 > | [[Semantic Differential\|语义差异量表]] | 顺序数据 | 双极形容词对 | 评价、效力与活动性 |
 > | 固定总和题 | 顺序数据 | 分配固定总分至各选项 | 相对权重比较 |
 > | 比率数据题 | 比率数据 | 真零点连续数值 | 精确数量与高级统计 |
@@ -149,7 +153,7 @@ updated: 2026-07-21
 
 > [!decisions] Selltiz et al.（1976）的四类决策框架
 > - **A 问题内容的决策**（8条）：问题是否必要？受访者是否有信息回答？内容是否足够具体？是否有偏见？
-> - **B 问题措辞的决策**（7条）：问题是否可能被误解？是否包含未陈述的[[Hypothesis|假设]]？措辞是否有偏见或情感负载？
+> - **B [[Questionnaire Wording|问题措辞]]的决策**（7条）：问题是否可能被误解？是否包含未陈述的[[Hypothesis|假设]]？措辞是否有偏见或情感负载？
 > - **C 回答形式的决策**（4条）：用检查式、自由回答还是检查式加追问？若是检查式，用二分类、多选还是量表？清单是否穷尽且互斥？
 > - **D 问题在序列中位置的决策**（3条）：答案是否受前序问题影响？问题引入是否自然？出现时机是否合适？
 
@@ -280,7 +284,7 @@ updated: 2026-07-21
 ### 命题四　敏感性和威胁必须通过受访者的眼睛来看待
 
 > [!concept-lens] 敏感性判断的主体
-> 什么是敏感问题不能由研究者单方决定；对研究者看似无害的事项可能对参与者高度敏感或具有冒犯性。
+> 什么是[[Sensitive Questions|敏感问题]]不能由研究者单方决定；对研究者看似无害的事项可能对参与者高度敏感或具有冒犯性。
 
 > [!claim] Sudman & Bradburn（1982）
 > **预期偏差** 随着问题变得更加威胁和敏感，应预期更大的偏差和不可靠性。敏感性和威胁必须通过受访者的眼睛来看待，对研究者看似无害的事项可能对参与者高度敏感（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, p. 156]]）。
@@ -303,14 +307,14 @@ updated: 2026-07-21
 
 ### 措辞与偏差陷阱
 
-> [!warning] 问题措辞的十项警示
+> [!warning] [[Questionnaire Wording|问题措辞]]的十项警示
 > - 避免[[Leading Questions|引导性问题]]
 > - 避免深奥问题（即使对复杂受访者也用简单语言）
 > - 避免复杂问题（含多个从句和选项）
 > - 避免令人恼火的问题或指令
 > - 避免否定和双重否定（Oppenheim, 1992, p. 128）
 > - 避免自填问卷中过多开放题
-> - 避免评定量表中的极端措辞（除非有充分理由）
+> - 避免[[Rating Scale|评定量表]]中的极端措辞（除非有充分理由）
 > - 避免借助权威施压（如你是否同意你的校长认为……）
 > - 避免基础比率问题（人们倾向于同意或不同意的陈述）
 > - 避免歧义问题（歧义无法消除但可最小化）
@@ -329,11 +333,11 @@ updated: 2026-07-21
 
 ### [[Rating Scale|评定量表]]的核心局限
 
-评定量表的十七项使用警示和选择建议详见 [[Rating Scale|评定量表]]条目。核心问题包括：类别间不存在等距假设、不平衡量表偏差、左侧偏差、比较方向效应、量表数值的正负号含义不同、中庸倾向、回避极端、强制选择等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 131–143]]）。
+评定量表的十七项使用警示和选择建议详见 [[Rating Scale|评定量表]]条目。核心问题包括：类别间不存在等距[[Hypothesis|假设]]、不平衡量表偏差、左侧偏差、比较方向效应、量表数值的正负号含义不同、中庸倾向、回避极端、强制选择等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 131–143]]）。
 
 ### 排序题的局限
 
-> [!critique-method] 排序题的五项内在局限
+> [!critique-method] [[Ranking Questions|排序题]]的五项内在局限
 > - 列表过长（超过五项）对受访者不现实（Wilson & McLean, 1994, p. 26）
 > - 不同项目可能无法真正放在同一量表上——一个人重视正义的程度无法推论其是否重视爱（Ovadia, 2004, p. 407）
 > - 排序强制使用全部标度，可能夸大项目间差异
@@ -345,4 +349,4 @@ updated: 2026-07-21
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al.（2011, Ch20）]] — 系统介绍问卷设计的全流程：从伦理议题到规划[[Operationalization|操作化]]、题型选择、敏感问题、措辞陷阱、排序、布局、[[Covering Letter|封面信]]、[[Pilot Testing|预测试]]、施测和数据处理。提供了十七项评定量表使用警示和十八项预测试检查清单。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al.（2011, Ch20）]] — 系统介绍问卷设计的全流程：从伦理议题到规划[[Operationalization|操作化]]、题型选择、[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、排序、布局、[[Covering Letter|封面信]]、[[Pilot Testing|预测试]]、施测和数据处理。提供了十七项[[Rating Scale|评定量表]]使用警示和十八项预测试检查清单。

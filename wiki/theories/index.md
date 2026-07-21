@@ -44,7 +44,7 @@ Total entries: **93**
 > - [[Pragmatic Constructivism]] — 由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程
 > - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
 > - [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
-> - [[Third Generation Activity Theory]] — 在 Vygotsky 中介三角模型基础上发展出的第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，以矛盾为变革动力，通过扩展性改造实现共享目标
+> - [[Third Generation Activity Theory]] — 在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论视角，聚焦多活动系统相遇时的矛盾、边界跨越与扩展性改造机制
 > - [[Toulmin's Argumentation Model]] — Toulmin 提出的领域依赖的论证结构模型，将论证拆解为六个部件，基于法律推理逻辑，广泛应用于科学教育和批判性思维教学
 > - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
 > - [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大

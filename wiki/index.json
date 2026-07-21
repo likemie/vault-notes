@@ -5107,6 +5107,20 @@
     ]
   },
   {
+    "title": "Contingency Questions",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Contingency Questions.md",
+    "aliases": [
+      "条件题",
+      "过滤题",
+      "分支题",
+      "filter question",
+      "branching question",
+      "skip logic",
+      "contingency question"
+    ]
+  },
+  {
     "title": "Convergent and Discriminant Validity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Convergent and Discriminant Validity.md",
@@ -6564,6 +6578,29 @@
     ]
   },
   {
+    "title": "Questionnaire Wording",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Questionnaire Wording.md",
+    "aliases": [
+      "问卷措辞",
+      "问题措辞",
+      "question wording",
+      "wording pitfalls",
+      "措辞陷阱"
+    ]
+  },
+  {
+    "title": "Ranking Questions",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Ranking Questions.md",
+    "aliases": [
+      "排序题",
+      "rank ordering",
+      "rank-order question",
+      "ranking item"
+    ]
+  },
+  {
     "title": "Rapport in Qualitative Research",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Rapport in Qualitative Research.md",
@@ -6902,6 +6939,18 @@
       "语义微分",
       "semantic differential scale",
       "Osgood semantic differential"
+    ]
+  },
+  {
+    "title": "Sensitive Questions",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Sensitive Questions.md",
+    "aliases": [
+      "敏感问题",
+      "threatening questions",
+      "威胁性问题",
+      "sensitive topics",
+      "敏感题项"
     ]
   },
   {

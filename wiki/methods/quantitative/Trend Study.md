@@ -28,8 +28,10 @@ related_concepts:
   - "[[Causality]]"
   - "[[Questionnaire]]"
   - "[[Pre-test Sensitisation]]"
+  - "[[Sensitive Questions]]"
   - "[[Study Population and Sample]]"
   - "[[Attrition]]"
+  - "[[Questionnaire Wording]]"
   - "[[Sampling Error]]"
   - "[[Ecological Fallacy]]"
   - "[[Hypothesis]]"
@@ -91,7 +93,7 @@ updated: 2026-07-13
 > [!feature] 避免[[Pre-test Sensitisation|预试敏感化]]
 > - **反应性问题** 在追踪同一批人的[[Longitudinal Study|纵向研究]]中，首次调查本身可能改变参与者的认知或行为——例如健康调查提醒了吸烟的危害，使受访者在第二轮前主动戒烟，此时记录的变化是调查"制造"的而非自然发生的（即预试敏感化，pre-test sensitisation）
 > - **趋势研究的解决方案** 每轮更换样本，切断"自我污染"的链条，每一轮的数据都来自对调查主题完全新鲜的受访者
-> - **特别适用场景** 敏感议题研究——早期提出敏感问题可能改变个体行为，进而影响后续轮次的回答
+> - **特别适用场景** 敏感议题研究——早期提出[[Sensitive Questions|敏感问题]]可能改变个体行为，进而影响后续轮次的回答
 >
 > 这一定义也涵盖面板条件化（panel conditioning）和样本内时间偏倚（time-in-sample bias）两个相近概念（p.269）。
 
@@ -148,7 +150,7 @@ updated: 2026-07-13
 > - **不同受访者导致的数据变异** 轮次间的变化可能源于样本构成差异而非真正的趋势变化。
 > - **长期预测准确度有限** 不可预测因素的侵入使基于历史数据的长期预测失效。
 > - **无法分析个体变化轨迹** 不包含相同受访者，无法追踪个体的发展和变化路径。
-> - **测量工具一致性要求严格** 跨时间点的问题措辞、测量指标和抽样方法必须保持严格一致，否则变化可能来自方法变更而非趋势。
+> - **测量工具一致性要求严格** 跨时间点的[[Questionnaire Wording|问题措辞]]、测量指标和抽样方法必须保持严格一致，否则变化可能来自方法变更而非趋势。
 
 ---
 

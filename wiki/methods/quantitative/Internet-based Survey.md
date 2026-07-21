@@ -30,6 +30,7 @@ related_concepts:
   - "[[Sensitive Research]]"
   - "[[Informed Consent]]"
   - "[[Internal Consistency]]"
+  - "[[Sensitive Questions]]"
   - "[[Study Population and Sample]]"
   - "[[Causality]]"
   - "[[Sampling Frame]]"
@@ -162,7 +163,7 @@ Reips (2002a)的两项核心策略至今仍是提高在线调查回应率的基�
 > - 成本低、速度快，数据自动处理。
 > - 可触及广泛和多样化的人群，不受地理限制。
 > - 减少研究者效应和人为数据录入错误。
-> - 匿名性可能提高敏感问题的真实性。
+> - 匿名性可能提高[[Sensitive Questions|敏感问题]]的真实性。
 > - 软件可自动检查遗漏、错误和不一致回答。
 > - 可包含图形、颜色和交互元素。
 

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
   - "[[Theory of Knowledge]]"
+  - "[[Questionnaire Wording]]"
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
 related_theories:
@@ -110,7 +111,7 @@ updated: 2026-07-11
 > - 使用语言技术如会话分析。
 > - 使用文本分析如解构关于女性的文件和文本。
 > - 使用[[Meta-analysis|元分析]]综合个别研究的发现。
-> - 离开数字化调查并对其进行批判性评估，包括对问题措辞的批判。
+> - 离开数字化调查并对其进行批判性评估，包括对[[Questionnaire Wording|问题措辞]]的批判。
 
 ### Webb 等的女性主义教学法六项原则
 

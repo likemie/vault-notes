@@ -35,6 +35,8 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Questionnaire]]"
   - "[[Operationalization]]"
+  - "[[Sensitive Questions]]"
+  - "[[Questionnaire Wording]]"
   - "[[Covering Letter]]"
   - "[[Informed Consent]]"
   - "[[Non-maleficence and Beneficence in Research]]"
@@ -48,6 +50,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Rating Scale]]"
+  - "[[Ranking Questions]]"
   - "[[Semantic Differential]]"
   - "[[Order Effects]]"
   - "[[Fitness for Purpose]]"
@@ -55,6 +58,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
+  - "[[Contingency Questions]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
   - "[[Internal Consistency]]"
@@ -100,7 +104,7 @@ updated: 2026-07-21
 > ```
 
 > [!abstract] 论证主线
-> 本章以[[Questionnaire|问卷]]设计的**实践操作序列**为主线，从伦理前提出发，经由规划与[[Operationalization|操作化]]阶段，进入题型选择的系统介绍，再覆盖敏感问题、措辞陷阱、题目排序、非文字问卷、布局、[[Covering Letter|封面信]]与跟进信、[[Pilot Testing|预测试]]、实操考量、施测方式和数据处理。论证链条为：**伦理基础→ 规划与操作化→ 题型体系→ 风险控制→ 形式与外观→ 质量保证→ 实施与收尾**。全章既是概念性指南，也是操作性手册，大量使用清单、表格和案例来说明各环节的最佳实践与常见错误。
+> 本章以[[Questionnaire|问卷]]设计的**实践操作序列**为主线，从伦理前提出发，经由规划与[[Operationalization|操作化]]阶段，进入题型选择的系统介绍，再覆盖[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、题目排序、非文字问卷、布局、[[Covering Letter|封面信]]与跟进信、[[Pilot Testing|预测试]]、实操考量、施测方式和数据处理。论证链条为：**伦理基础→ 规划与操作化→ 题型体系→ 风险控制→ 形式与外观→ 质量保证→ 实施与收尾**。全章既是概念性指南，也是操作性手册，大量使用清单、表格和案例来说明各环节的最佳实践与常见错误。
 
 建议与第 13 章（Surveys，含在线问卷）、第 5 章（伦理）和第五部分（数据分析）配合阅读（p. 104）。问卷是一种广泛使用的调查工具，其吸引力（提供结构化数字化数据、无需研究者在场、分析相对直接）必须与开发、预测试和优化所需的时间投入以及数据可能不够精细和回应灵活性有限等局限相权衡（Wilson & McLean, 1994）（p. 105）。
 
@@ -308,7 +312,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > > |---|---|---|---|
 > > | 二分类问题 | 名义数据 | 强制二选一判断 | 过滤与分流；简单事实 |
 > > | 多选问题 | 名义数据 | 从预设离散选项中选择 | 分类与频率 |
-> > | 排序题 | 顺序数据 | 跨选项比较并确定优先级 | 优先级与相对权重 |
+> > | [[Ranking Questions\|排序题]] | 顺序数据 | 跨选项比较并确定优先级 | 优先级与相对权重 |
 > > | 评定量表 | 顺序数据 | 程度或强度的渐变回应 | 态度、感知与意见 |
 > > | [[Semantic Differential\|语义差异量表]] | 顺序数据 | 双极形容词对 | 评价、效力与活动性 |
 > > | 固定总和题 | 顺序数据 | 分配固定总分至各选项 | 相对权重比较 |
@@ -363,7 +367,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 
 ---
 
-#### 排序题
+#### [[Ranking Questions|排序题]]
 
 > [!def] 排序题的核心特征与操作
 > 排序题要求受访者在选项之间进行**比较**并确定优先级。与评定量表中各题项独立评分不同，排序中受访者必须考虑其他变量，因为他们被要求判断相对价值、权重或重要性。排序题操作在**零和模型**上：提高一项的排位意味着另一项下降（Ovadia, 2004, p. 406）。受访者被要求将编号放入方框中以表示优先级（1=最高，2=第二高，以此类推）（pp. 123–127）。
@@ -655,7 +659,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 
 #### 条件题、过滤题与分支题
 
-> [!def] 条件题、过滤题与分支题
+> [!def] [[Contingency Questions|条件题]]、过滤题与分支题
 > 条件题依赖于对前面问题的回答（如如果你对第（1）题的回答是是，请跳至第（4）题）。前面的问题充当**过滤器**，后面的问题是条件性的，是前面问题的**分支**。一些问卷用文字写明跳至的问题号，另一些用箭头指示（pp. 151–153）。
 
 > [!warning] Redline et al.（2002）的关键研究发现
@@ -672,7 +676,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 
 ---
 
-### 20.4 询问敏感问题
+### 20.4 询问[[Sensitive Questions|敏感问题]]
 
 Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的问题。虽然问卷的匿名性和研究者与受访者之间缺乏面对面接触通常有助于回应敏感材料，但敏感性和威胁的问题无法回避，它们可能导致**低报**（不披露和隐藏数据）或**过度报告**（夸大）（pp. 153–156）。
 
@@ -702,7 +706,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 
 ---
 
-### 20.5 避免问题措辞的陷阱
+### 20.5 避免[[Questionnaire Wording|问题措辞]]的陷阱
 
 > [!warning] 问题措辞的十项警示（pp. 157–163）
 >
@@ -981,7 +985,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 >
 > *The logical ordering of a questionnaire has to be mediated by its psychological ordering. The instrument has to be viewed through the eyes of the respondent as well as the designer.*
 
-> [!citation-card]- 处理敏感问题的预期偏差
+> [!citation-card]- 处理[[Sensitive Questions|敏感问题]]的预期偏差
 > 随着问题变得更加威胁和敏感，应预期更大的偏差和不[[Reliability|可靠性]]。敏感性和威胁必须通过受访者的眼睛来看待。对研究者看似无害的事项可能对参与者高度敏感或具有冒犯性。（Sudman and Bradburn, 1982, p. 86; p. 156）
 >
 > *As the questions become more threatening and sensitive, it is wise to expect greater bias and unreliability. Sensitivity and threat are to be viewed through the eyes of respondents rather than the questionnaire designer; what might appear innocuous to the researcher might be highly sensitive or offensive to participants.*

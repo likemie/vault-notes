@@ -23,7 +23,8 @@ related_methods:
   - "[[Trend Study]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
-related_concepts: []
+related_concepts:
+  - "[[Sensitive Questions]]"
 confidence: medium
 status: draft
 created: 2026-07-11
@@ -84,6 +85,6 @@ Ruspini (2002, p. 73)将这五项威胁（历史、成熟、测试、因果时�
 
 ## 与趋势研究的关系
 
-[[Trend Study|趋势研究]]的核心优势之一正是避免预试敏感化。[[Trend Study|趋势研究]]通过每次更换样本，切断了"首次测量→行为改变→二次记录"的链条。这在敏感议题研究中特别有价值——早期提出敏感问题可能改变个体行为，进而影响后续轮次的数据收集。通过每次抽取不同样本，这一问题完全被克服（p.269）。
+[[Trend Study|趋势研究]]的核心优势之一正是避免预试敏感化。[[Trend Study|趋势研究]]通过每次更换样本，切断了"首次测量→行为改变→二次记录"的链条。这在敏感议题研究中特别有价值——早期提出[[Sensitive Questions|敏感问题]]可能改变个体行为，进而影响后续轮次的数据收集。通过每次抽取不同样本，这一问题完全被克服（p.269）。
 
 然而这一优势是有代价的：趋势研究不能进行个体层面分析，无法追踪同一群人的变化轨迹。研究者需在"避免敏感化"和"追踪个体变化"之间做出权衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]]

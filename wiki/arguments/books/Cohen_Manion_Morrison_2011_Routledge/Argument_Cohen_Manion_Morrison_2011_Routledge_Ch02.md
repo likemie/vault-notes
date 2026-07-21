@@ -56,6 +56,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
   - "[[Theory of Knowledge]]"
+  - "[[Questionnaire Wording]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
   - "[[Research Translation]]"
@@ -475,7 +476,7 @@ Denzin（1989）、Mies（1993）、Haig（1999）和 De Laine（2000）提出�
 > - **从象牙塔到参与式变革** 旁观者[[Theory of Knowledge|知识理论]]被参与式方法取代，通过行动研究，所有参与者共同参与争取解放的斗争。
 > - **改变现状是起点而非终点** 如果我们想了解梨子，就必须咀嚼它（Mies, 1993，引用中国谚语）。
 > - **[[Triangulation|三角互证]]与多方法**的广泛使用：包括视觉技术（录像、照片、电影）、会话分析、文本解构和[[Meta-analysis|元分析]]。
-> - **对数字化调查的批判性评估** 包括对问题措辞的批判，因为问题本身就是权力的表达。
+> - **对数字化调查的批判性评估** 包括对[[Questionnaire Wording|问题措辞]]的批判，因为问题本身就是权力的表达。
 > - **个人证词、口头叙事和长访谈** 使女性声音得以被听见，贴近活经验，避免对人们经验的未经检验的假设。
 > - **情感和感受是研究的组成部分** 不应在客观性的名义下被排除出研究（Edwards & Mauthner, 2002, p. 19）。
 > - **研究是政治活动，带有政治议程** 知识为……（knowledge for）以及知识什么（knowledge what）（Ezzy, 2002, p. 47）。
