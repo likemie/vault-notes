@@ -2,7 +2,6 @@
 title: Questionnaire Wording
 aliases:
   - 问卷措辞
-  - 问题措辞
   - question wording
   - wording pitfalls
   - 措辞陷阱

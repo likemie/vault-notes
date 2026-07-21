@@ -8,7 +8,7 @@ aliases:
 summary: "研究者的个人特征和期望系统性地影响访谈数据质量的现象，在敏感研究中效应尤为显著——不预期困难的访谈者比预期困难者获得高5-30%的信息报告率"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,10 +22,13 @@ related_concepts:
   - "[[Informed Consent]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
+related_methods:
+  - "[[Matching]]"
 status: draft
 created: 2026-06-22
-updated: 2026-07-11
+updated: 2026-07-22
 ---
 # Interviewer Effects
 
@@ -43,13 +46,15 @@ updated: 2026-07-11
 
 ## 核心要素
 
-访谈者效应在[[Sensitive Research|敏感研究]]中涵盖两个维度（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 227–228]]）：
+访谈者效应在[[Sensitive Research|敏感研究]]中涵盖三个维度：
 
-> [!dimension] 访谈者效应的两个维度
+> [!dimension] 访谈者效应的三个维度
 > - **研究者的个人特征（Researcher characteristics）**
 >   性别、种族、年龄、地位、着装、外貌、融洽关系（rapport）、背景、专业程度、机构归属、政治倾向、职业或志业类型（如牧师身份）。具体表现：女性可能更愿意被女性访谈；男性可能不愿被女性访谈；有权者可能因被低级新手研究助理访谈而感到侮辱。
 > - **访谈者的期望（Interviewer expectations）**
 >   研究者对访谈困难程度的事前预期直接影响数据质量。Bradburn & Sudman (1979, 引自 Lee, 1993, p. 101) 发现，不预期困难的访谈者在敏感话题上的信息报告率比预期困难者高 5–30%。
+> - **访谈者与受访者的社会匹配（Interviewer-interviewee [[Matching]]）**
+>   访谈者与受访者在性别、年龄、种族、社会阶层、着装和语言上的匹配程度系统性地影响数据。Bailey（1994, pp. 180–185）报告：女性访谈者比男性访谈者引出更高比例的真实回答；白人访谈者访谈黑人受访者与黑人访谈者访谈黑人受访者产生不同结果；访谈者应避免通过特定群体标识或反文化着装（如戒指、徽章等）表明身份认同，而应穿着不引人注目、符合受访者对访谈者外观期待的服装。如果访谈者与受访者之间存在显著差异（如性别、年龄、种族、社会地位、阶层），可能需要更换访谈者（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 440–441]]）。
 
 ---
 
@@ -60,6 +65,17 @@ updated: 2026-07-11
 
 > [!claim] 非语言沟通与反移情
 > 研究者在敏感访谈中的非语言沟通至关重要。他们不能流露出判断、支持或谴责的暗示，必须避免反移情（counter-transference）——将研究者自己的观点、价值观、态度、偏见和背景投射到访谈情境中（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 228]]）。
+
+> [!claim] 电话访谈减少但未消除访谈者效应
+> 电话访谈中访谈者效应显著减少——访谈者的物理特征（性别、年龄、种族、着装）不再直接可见，标准化程度更高，监控和质控更易集中执行。但同时，非语言线索的缺失使得建立融洽关系更困难，受访者可能因对保密性的不确定而抑制信息披露。电话访谈可能更安全（不必拜访危险社区），可收集面对面情境中受访者因威胁感而不愿透露的敏感数据。Oppenheim（1992, p. 97）指出多达 25% 的号码未列入簿，抽样偏态本身也可能是一种访谈者效应——低收入家庭和老年人更可能被系统性地排除（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 471–476]]）。
+
+### 文化维度
+
+在跨文化访谈中，访谈者效应呈现出不同形态。Miltiades（2008）报告，在某些文化中，延伸家庭成员不仅在场且**积极参与**访谈——回答问题、审查信息、打断、阻止信息被说出、担任守门角色。自我是"我们—自我"（we-self）而非"我—自我"（I-self），孟加拉语中甚至没有表示"私密"的词。访谈成为一个社会事件而非私人数据收集情境。研究者带来的文化背景与受访者的文化背景同样影响访谈的性质、内容和数据量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 438–439]]）。
+
+### 儿童访谈中的访谈者效应
+
+儿童对访谈者的社会特征和访谈情境的社会动态尤为敏感。Morison et al.（2000, p. 113）指出，访谈者是成年人这一事实本身就影响访谈过程。Maguire（2005, p. 4）发现儿童具有"良好的社会雷达"——他们对访谈者的性别和种族高度敏感。Eder & Fingerson（2003, p. 34）指出权力和地位动态在儿童访谈中尤为突出：儿童相对于成人几乎没有权力，成人访谈者天然处于权威位置，这可能使儿童提供他们认为成人期望听到的回答（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 457–462]]）。
 
 ---
 
