@@ -4,7 +4,6 @@ aliases:
   - 质性访谈
   - qualitative interviews
   - 质性研究访谈
-  - semi-structured interview
 summary: "与参与者进行开放式对话以理解其主观经验和意义建构的质性资料收集方法，涵盖面对面、电话、焦点小组等形式，以深度访谈为最核心变体"
 type: method
 method_type: qualitative
@@ -82,7 +81,7 @@ updated: 2026-07-22
 >
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 416–417]]）
 
-> [!example] 四种主要形式（Creswell & Creswell, 2022, Ch9）
+> [!example] 四种主要形式（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
 > | 类型 | 描述 |
 > |---|---|
 > | 面对面访谈 | 研究者与参与者一对一、面对面进行 |

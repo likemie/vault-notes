@@ -4742,6 +4742,15 @@
     ]
   },
   {
+    "title": "Active Listening",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Active Listening.md",
+    "aliases": [
+      "积极倾听",
+      "active listening in interviews"
+    ]
+  },
+  {
     "title": "Alternative Hypothesis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Alternative Hypothesis.md",
@@ -7188,6 +7197,16 @@
     ]
   },
   {
+    "title": "Transcription in Qualitative Research",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Transcription in Qualitative Research.md",
+    "aliases": [
+      "转录",
+      "质性研究转录",
+      "interview transcription"
+    ]
+  },
+  {
     "title": "Transformative Paradigm",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Transformative Paradigm.md",
@@ -9100,6 +9119,17 @@
     ]
   },
   {
+    "title": "Focused Interview",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Focused Interview.md",
+    "aliases": [
+      "聚焦访谈",
+      "focused interviews",
+      "focused interviewing",
+      "Merton focused interview"
+    ]
+  },
+  {
     "title": "Grounded Theory",
     "type": "method",
     "path": "wiki/methods/qualitative/Grounded Theory.md",
@@ -9216,6 +9246,16 @@
     "aliases": [
       "名义小组技术",
       "NGT"
+    ]
+  },
+  {
+    "title": "Non-directive Interview",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Non-directive Interview.md",
+    "aliases": [
+      "非引导性访谈",
+      "non-directive interviews",
+      "non-directive interviewing"
     ]
   },
   {
@@ -9347,8 +9387,7 @@
     "aliases": [
       "质性访谈",
       "qualitative interviews",
-      "质性研究访谈",
-      "semi-structured interview"
+      "质性研究访谈"
     ]
   },
   {
@@ -9376,6 +9415,16 @@
     ]
   },
   {
+    "title": "Semi-structured Interview",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Semi-structured Interview.md",
+    "aliases": [
+      "半结构化访谈",
+      "semi-structured interviews",
+      "interview guide approach"
+    ]
+  },
+  {
     "title": "Snowball Sampling",
     "type": "method",
     "path": "wiki/methods/qualitative/Snowball Sampling.md",
@@ -9397,6 +9446,16 @@
     "aliases": [
       "系统综述",
       "系统性综述"
+    ]
+  },
+  {
+    "title": "Telephone Interview",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Telephone Interview.md",
+    "aliases": [
+      "电话访谈",
+      "telephone interviews",
+      "phone interview"
     ]
   },
   {
