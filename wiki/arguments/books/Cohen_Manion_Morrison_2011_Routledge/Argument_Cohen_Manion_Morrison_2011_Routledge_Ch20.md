@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -44,13 +44,14 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Research Purpose]]"
   - "[[Independent Variable]]"
-  - "[[Student-Teacher Relationship]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
+  - "[[Student-Teacher Relationship]]"
+  - "[[Rating Scale]]"
+  - "[[Semantic Differential]]"
   - "[[Order Effects]]"
   - "[[Fitness for Purpose]]"
   - "[[Likert Scale]]"
-  - "[[Semantic Differential]]"
   - "[[Conatus]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
@@ -64,13 +65,13 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Multiple Regression]]"
   - "[[Causal Modeling]]"
+  - "[[Chi-Squared Test]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Chi-Squared Test]]"
   - "[[Random Sampling]]"
 status: draft
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20
 
@@ -203,10 +204,19 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 #### 以数据分析为规划导向
 
 > [!claim] 问卷设计必须预设分析方式
-> 问卷的结构和内容应从预想的分析方式中推导出来。如果研究者希望进行[[Multiple Regression|多元回归]]（如找出三个[[Independent Variable|自变量]]：教学准备、[[Student-Teacher Relationship|师生关系]]、学科知识）对[[Dependent Variable|因变量]]教学有效性的相对权重，则自[[Variable|变量]]和因变量都必须包含在问卷中。如果要进行因子分析，变量必须达到比率数据水平；如果要进行[[Causal Modeling|结构方程建模]]，变量和因子都必须能够从问卷中计算出来。即使只计算简单的频率和百分比，问卷也必须以能够产生这些统计量的方式构建。研究者在设计问卷之前就已经知道她想如何分析数据，问卷的结构和内容由此推导（pp. 110–113）。
+> 问卷的结构和内容应从预想的分析方式中推导出来。研究者在设计问卷之前就已经知道她想如何分析数据，问卷的结构和内容由此推导（pp. 110–113）。
+
+> [!ref-table] 分析方法与问卷设计要求的对应
+> | 分析方法 | 所需数据尺度 | 问卷设计要求 | 案例 |
+> |---|---|---|---|
+> | [[Multiple Regression\|多元回归]] | 连续或比率数据 | 所有[[Independent Variable\|自变量]]和[[Dependent Variable\|因变量]]都必须作为题项包含在问卷中；缺失因变量将导致无法分析 | 案例 1：教学有效性回归（三个自变量→教学有效性）；案例 2：兼职原因回归 |
+> | [[Causal Modeling\|结构方程建模]] | 比率数据 | [[Variable\|变量]]和因子都必须能够从问卷中计算出来，所有潜变量的观测指标都需纳入 | — |
+> | 因子分析 | 比率数据 | 所有待分析的变量必须达到比率数据水平，题项数量需足够支撑因子提取 | — |
+> | 简单频率与百分比 | 名义或顺序数据 | 问卷必须以能够产生所需统计量的方式构建，类别必须离散互斥且穷尽 | 案例 3：学校沟通交叉表分析 |
+> | [[Chi-Squared Test\|交叉表分析 / 卡方检验]] | 名义数据 | 二分类或多选题项即可，适合大样本、分类比较 | 案例 3（Table 20.1） |
 
 > [!case] 案例 1　多元回归规划（pp. 110–111）
-> 研究者想找出三个自变量（教学准备、师生关系、学科知识）对因变量（教学有效性）的相对权重。所有题项使用相同的 11 点量表（0="完全没有"至 10="非常大程度"），同时包含：
+> 研究者想找出三个自变量（教学准备、[[Student-Teacher Relationship|师生关系]]、学科知识）对因变量（教学有效性）的相对权重。所有题项使用相同的 11 点量表（0="完全没有"至 10="非常大程度"），同时包含：
 >
 > - 因变量题项：总体上，你认为数学系的教学有多有效？
 > - 自变量题项 1：数学教师的备课有多充分？
@@ -254,7 +264,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > | 不好 | 不好 | 不好 | 58（36.3%） |
 > | **合计** | | | **160（100%）** |
 
-> [!claim] 从 Table 20.1 得出的推论
+> [!claim]- 从 Table 20.1 得出的推论
 > "有效领导力"被 82 人（51.2%，即 45+15+10+12）报告；"不好"的领导力被 78 人（48.8%，即 3+12+5+58）报告。表格表明：**最强形式的"好"领导力要求校长的沟通和沟通意愿两个因素都"好"**。如果其中一个或两个因素"不好"，"好"的领导力评价急剧下降。例如当沟通意愿"不好"时（15+12=27 人），"好"领导力仅来自 27 人，远低于两个因素都"好"时的 45 人（p. 113）。
 
 ---
@@ -284,7 +294,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > | 受访者负担 | 快速完成，不因参与者表达能力而产生歧视（Wilson & McLean, 1994, p. 21） | 耗时较长，可能导致拒绝完成或使问卷显得冗长和令人沮丧 |
 > | 优势 | 可生成回应频率，便于跨组比较（Oppenheim, 1992, p. 115）；直接到点、更有焦点 | 可捕捉真实性、丰富性、深度、诚实和坦率；适合复杂议题；可用于生成后续封闭式问题的题项 |
 > | 风险 | 类别可能不穷尽、存在偏差；不允许受访者添加任何评论、限定或解释 | 可能产生无关或冗余信息；受访者可能不知道需要什么类型的信息；不适合大样本的文字数据处理 |
-> | 典型类型 | 二分类、多选、评定量表、固定总和、比率 | 句子补全、自由评论 |
+> | 典型类型 | 二分类、多选、[[Rating Scale\|评定量表]]、固定总和、比率 | 句子补全、自由评论 |
 
 > [!tip] 选择建议
 > 如果需要对特定地点进行案例研究，质性、较少结构化、以文字为基础的开放式问卷可能更合适，因为它们能捕捉特定情境的特殊性。当需要测量时，量化方法是必需的；当需要丰富和个人化数据时，以文字为基础的质性方法更合适。如果可能答案未知或问卷是探索性的，开放题是有用的（Bailey, 1994, p. 120）；如果有太多可能的回答类别以至于封闭式问题将包含极长的选项列表，也应使用开放题（pp. 114–115）。
@@ -300,7 +310,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > > | 多选问题 | 名义数据 | 从预设离散选项中选择 | 分类与频率 |
 > > | 排序题 | 顺序数据 | 跨选项比较并确定优先级 | 优先级与相对权重 |
 > > | 评定量表 | 顺序数据 | 程度或强度的渐变回应 | 态度、感知与意见 |
-> > | 语义差异量表 | 顺序数据 | 双极形容词对 | 评价、效力与活动性 |
+> > | [[Semantic Differential\|语义差异量表]] | 顺序数据 | 双极形容词对 | 评价、效力与活动性 |
 > > | 固定总和题 | 顺序数据 | 分配固定总分至各选项 | 相对权重比较 |
 > > | 比率数据题 | 比率数据 | 真零点连续数值 | 精确数量与高级统计 |
 > > | 开放题 | 文字数据 | 自由书写 | 丰富性、深度与探索 |
@@ -952,7 +962,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 > *An ideal questionnaire possesses the same properties as a good law, being clear, unambiguous and practicable, reducing potential errors in participants and data analysts, being motivating for participants and ensuring as far as possible that respondents are telling the truth.*
 
 > [!citation-card]- 粗糙数据的解释限制
-> 粗糙的数据只能产生粗糙的解释；精微的统计需要精微的数据。数据的解释绝不能不公平地扭曲数据。评定量表问题应按顺序数据处理，使用众数和非参数数据分析，尽管可以发现大量违反这一规则的例子。这是不可接受的。（p. 143）
+> 粗糙的数据只能产生粗糙的解释；精微的统计需要精微的数据。数据的解释绝不能不公平地扭曲数据。[[Rating Scale|评定量表]]问题应按顺序数据处理，使用众数和非参数数据分析，尽管可以发现大量违反这一规则的例子。这是不可接受的。（p. 143）
 >
 > *Crude data can only yield crude interpretation; subtle statistics require subtle data. The interpretation of data must not distort the data unfairly. Rating scale questions are treated as ordinal data, using modal scores and non-parametric data analysis, though one can find very many examples where this rule has been violated, and non-parametric data have been treated as parametric data. This is unacceptable.*
 
