@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,12 +38,10 @@ related_concepts:
   - "[[Interviewer Effects]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
-  - "[[Reliability]]"
   - "[[Emergence]]"
   - "[[Fitness for Purpose]]"
   - "[[Questionnaire Wording]]"
   - "[[Research Purpose]]"
-  - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
   - "[[Conatus]]"
@@ -54,7 +52,6 @@ related_concepts:
   - "[[Presence]]"
   - "[[Epoché]]"
   - "[[Research Question]]"
-  - "[[Response Bias]]"
   - "[[Gatekeepers]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Reflexivity]]"
@@ -63,10 +60,6 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
-  - "[[Ethnography]]"
-  - "[[Focus Group]]"
-  - "[[Group Interview]]"
-  - "[[Qualitative Interview]]"
   - "[[Pilot Testing]]"
   - "[[Interview Protocol]]"
   - "[[Coding in Qualitative Research]]"
@@ -189,7 +182,27 @@ Oppenheim（1992, pp. 81–82）补充：访谈比问卷有更高回应率（受
 
 ##### 21.4 访谈的类型
 
-访谈到底有多少种类型，很大程度上取决于参考了哪些文献。LeCompte & Preissle（1993）列出六种（标准化、深度、[[Ethnography|民族志]]、精英、生活史、[[Focus Group|焦点小组]]），Bogdan & Biklen（1992）增加半结构化访谈和[[Group Interview|小组访谈]]，Lincoln & Guba（1985）增加结构化访谈，Oppenheim（1992, p. 65）增加探索性访谈（pp.413–414）。
+访谈到底有多少种类型，很大程度上取决于参考了哪些文献。以下是不同学者提出的分类体系（pp.413–414）：
+
+> [!taxonomy] 不同学者列出的访谈类型
+> | 来源 | 所列类型 |
+> |---|---|
+> | LeCompte & Preissle（1993） | 标准化访谈（standardized）、深度访谈（in-depth）、民族志访谈（ethnographic）、精英访谈（elite）、生活史访谈（life history）、焦点小组（focus group） |
+> | Bogdan & Biklen（1992） | 半结构化访谈（semi-structured）、小组访谈（group interview） |
+> | Lincoln & Guba（1985） | 结构化访谈（structured） |
+> | Oppenheim（1992, p. 65） | 探索性访谈（exploratory） |
+
+Kvale（1996, pp. 126–127）将这些形式沿多个连续体排列：
+
+> [!spectrum] 访谈类型的关键连续体
+>
+> - **结构化（structured）** 封闭问题、预设选项、假设检验、量化数据、形式化、认知聚焦、描述导向
+> - **⋮** 目的的开放程度、结构化程度、探索性或假设检验性、描述性或解释性、认知或情感聚焦
+> - **非结构化（unstructured）** 开放问题、回应式、捕捉独特性、探索性、质性数据、非正式、情感聚焦、解释导向
+
+Lincoln & Guba（1985, p. 269）的区分精辟：当研究者清楚自己不知道什么时，适合使用结构化访谈，因为能够有针对性地构建问题来获取所需知识；当研究者连自己不知道什么都不知道时，则需要使用非结构化访谈，依赖受访者来告知（p.414）。
+
+Patton（1980, p. 206）则将以上种种归并为四种基本类型：
 
 > [!contrast-table] Table 21.2　不同类型访谈的优势与弱点（Patton（1980, p. 206））
 > | 类型 | 特征 | 优势 | 弱点 |
@@ -199,29 +212,36 @@ Oppenheim（1992, pp. 81–82）补充：访谈比问卷有更高回应率（受
 > | **3 标准化开放式访谈** | 问题的确切措辞和顺序事先确定。所有受访者以相同顺序被问相同问题 | 回应可比性增加；数据在每人被访话题上完整。多位访谈者时减少访谈者效应。允许查看评估工具。便于数据组织和分析 | 灵活性有限；标准化措辞可能约束和限制问题与回答的自然性和相关性 |
 > | **4 封闭量化访谈** | 问题和回答类别事先确定。回应固定；受访者从固定回应中选择 | 数据分析简单；回应可直接比较和轻松汇总；短时间内可问许多简短问题 | 受访者须将经验和感受纳入研究者类别；可能被视为非人格化、不相关和机械性。可能扭曲受访者真正的含义 |
 
-Kvale（1996, pp. 126–127）将各种访谈沿连续体排列：目的开放程度、结构化程度、探索性或[[Hypothesis|假设]]检验性、描述性或解释性、认知或情感聚焦。核心差异在于结构化程度，这本身就反映了访谈的目的。Lincoln & Guba（1985, p. 269）的区分精辟：当研究者清楚**自己不知道什么**时，适合使用结构化访谈，因为能够有针对性地构建问题来获取所需知识；当研究者**连自己不知道什么都不知道**时，则需要使用非结构化访谈，依赖受访者来告知（p.414）。
-
 Morrison（1993, pp. 34–36）将多种连续体整合为五组（pp.414–416）：
 
-> [!contrast-table] Morrison 的五组连续体：量化 vs 质性访谈
-> | 量化取向 | 质性取向 |
-> |---|---|
-> | 数字 | 词语 |
-> | 预设的、给定的 | 开放的、回应的 |
-> | 测量 | 捕捉独特性 |
-> | 短期、间歇 | 长期、持续 |
-> | 比较、关联、频率 | 捕捉特殊性、重视质量、个体性 |
-> | 形式化 | 非正式 |
-> | 寻找/查看 | 寻找/指望 |
-> | 规律性 | 独特性 |
-> | 描述 | 解释 |
-> | 客观事实 | 主观事实 |
-> | 从外部观察 | 从内部观察 |
-> | 结构化 | 非结构化 |
-> | 统计的 | 民族志的、启发性 |
+> [!spectrum] 第一组：数据形式
+>
+> - **数字、统计数据、客观事实** 量化数据，追求精确测量
+> - **对话转录、主观叙述、质性数据** 基于词语的质性记录，呈现参与者原话
 
-> [!conclusion] 前端加载 vs 后端加载
-> 左侧列（量化）**前端加载（front-loaded）**——所有类别和选择题须事前完成，通常需[[Pilot Testing|预测试]]优化材料；规划完成后数据分析相对直接（类别已事前确定）。右侧列（质性）**后端加载（end-loaded）**——数据收集启动更快（类别在数据收集后[[Emergence|涌现]]），但发现涌现问题并组织数据呈现，导致数据分析耗时显著更长（pp.415–416）。
+> [!spectrum] 第二组：问题类型
+>
+> - **封闭问题、选择题** 预设回答范围，受访者从中选择
+> - **开放式问题** 受访者以自身方式和语言自由回答
+
+> [!spectrum] 第三组：分析目的
+>
+> - **测量、比较、关联** 看多少人这么说、多少人那样打分
+> - **捕捉独特性、记录质量** 捕捉特定情境、人物或项目的独特性
+
+> [!spectrum] 第四组：规划方式
+>
+> - **形式化、事前确定** 研究者事前知道在寻找什么
+> - **回应式、情境涌现** 寻找的东西尚不确定，找到了才知道在找什么
+
+> [!spectrum] 第五组：知识目标
+>
+> - **寻找规律、进行概括** 描述发生了什么，做出概括
+> - **描绘独特性、理解复杂性** 理解受访者为什么这样说，以他们的方式表达
+
+> [!tension] 前端加载 vs 后端加载
+> - **前端加载（front-loaded）** 量化取向：所有类别和选择题须事前完成，通常需[[Pilot Testing|预测试]]优化材料；规划完成后数据分析相对直接（类别已事前确定），数据分析快速
+> - **后端加载（end-loaded）** 质性取向：数据收集启动更快（类别在数据收集后[[Emergence|涌现]]），但发现涌现问题并组织数据呈现，导致数据分析耗时显著更长（pp.415–416）
 
 核心原则始终是"**[[Fitness for Purpose|适合目的]]**"（fitness for purpose）（p.414）。Oppenheim（1992, p. 86）补充：标准化应追求**刺激等价（stimulus equivalence）**，即确保每位受访者以相同方式理解问题，而不是机械地复制完全相同的问题措辞。[[Questionnaire Wording|问题措辞]]一旦改变，哪怕只是微小的调整，实质上就已经变成了另一个不同的问题。
 
