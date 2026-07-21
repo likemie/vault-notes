@@ -17,7 +17,7 @@ tags:
   - theory/nationalism
   - paradigm/constructivist
 related_concepts:
-  - "[[Hypothesis]]"
+  - "[[Official Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: '2026-07-22'
 ---
 
 # Imagined Community
@@ -60,10 +60,16 @@ updated: 2026-05-26
 
 ## 概念演变
 
-> [!note]-
-> Anderson 的定义属于民族理论的**现代端**——将民族视为人为的、现代的政治产物，而非自然的、祖先的、自古存在的共同体（Ozkirimli, 2010，引自 [[Argument_Xu_2024_CE|Xu, 2024, p.575]]）。与之对照的是：
-> - **原生主义（primordialism）** 视民族为自然的、永恒的、由族裔文化纽带（如语言、血缘、宗教、习俗、领土）连接的共同体（如 Connor 1978; Shils 1957; Smith 1991）。
-> - **Ethno-Symbolism**Smith (1998) 的中间立场——不[[Hypothesis|假设]]民族是"自然的"还是"人为的"，而是关注前现代族裔符号、神话和传统如何在现代民族建构中被重新阐释和操纵。
+> [!contrast-table] 民族理论三大范式对比（原生论 vs 现代论 vs 族群象征主义）
+> | 比较维度 | 原生论（Primordialism） | 现代论（Modernism） | 族群象征主义（Ethno-Symbolism） |
+> |---|---|---|---|
+> | **代表学者** | Connor (1978); Smith (1991) | Anderson (2006); Gellner (1983) | Smith (1998) |
+> | **核心视角** | 民族是自古存在、基于血缘、语言与原初情感的自然共同体 | 民族是现代政治与教育机器建构的[[Imagined Community|“想象的共同体”]] | 现代民族建构依赖前现代族群（ethnie）符号、神话与历史记忆 |
+> | **历史教科书功能** | 将国家历史叙述为血脉延续与原初归属的自然演化 | 作为现代国家制造[[Official Knowledge|官方知识]]与统一认同的政治装置 | 解释前现代族群神话在现代历史课程中的再阐释与政治操纵 |
+> | **领土与族群定位** | 族群与血缘决定国家边界（族裔国家） | 制度、法律与教育划定政治边界（领土/公民国家） | 强调传统符号在现代国家框架内的文化重组与情感整合 |
+
+> [!concept-lens] 概念演变与范式定位
+> Anderson 的定义属于民族理论的**现代端**——将民族视为人为的、现代的政治产物，而非自然的、祖先的、自古存在的共同体[[Argument_Xu_2024_CE|(Ozkirimli, 2010, 引自 Xu, 2024, p. 575)]]。
 
 ## 在教育研究中的应用
 
