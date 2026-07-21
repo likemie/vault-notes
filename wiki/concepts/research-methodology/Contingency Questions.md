@@ -11,7 +11,7 @@ aliases:
 summary: "依赖于前题回答来决定后续题目是否呈现或跳转的题型，前面的问题充当过滤器，后面的问题是条件性的分支，其设计需注意位置效应、夹层效应和视觉显著性"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

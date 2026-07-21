@@ -11,7 +11,7 @@ summary: "关注因素而非人群、在不同时间点抽取不同样本但聚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-13
+updated: '2026-07-21'
 ---
 
 # Trend Study

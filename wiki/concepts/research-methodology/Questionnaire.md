@@ -8,7 +8,7 @@ aliases:
 summary: "一种广泛使用的调查研究工具，通过结构化或半结构化题项收集受访者的信息、态度和行为数据，可无需研究者在场施测，数据分析相对直接，但需投入大量时间进行开发、预测试和优化"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Multiple Regression]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-07-20
@@ -256,7 +255,7 @@ updated: 2026-07-21
 > [!concept-lens] 设计与分析的耦合关系
 > 研究者应在设计问卷之前就确定分析策略，问卷的结构和内容应由此推导，而非在数据收集后再考虑能做什么分析。
 
-> [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
+> [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20, p. 110)]]
 > **预设分析方式** 问卷的结构和内容应从预想的分析方式中推导出来。如果希望进行[[Multiple Regression|多元回归]]，[[Independent Variable|自变量]]和[[Dependent Variable|因变量]]都必须包含在问卷中；如果要进行因子分析或[[Causal Modeling|SEM]]，[[Variable|变量]]和因子都必须能够从问卷中计算出来。研究者在设计之前就已经知道如何分析数据（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 110–113]]）。
 
 ---
@@ -266,8 +265,8 @@ updated: 2026-07-21
 > [!concept-lens] 受访者视角的中心性
 > 问卷的好坏取决于受访者如何体验它，而非设计者认为它有多合理。
 
-> [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
-> **通过受访者的眼睛看待问卷** 问卷的逻辑排序必须由心理排序来中介。表面上无威胁的问题（关于年龄、收入、宗教）可能对某些受访者具有冒犯性。工具必须同时通过受访者的眼睛和设计者的眼睛来看待（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, p. 165]]）。
+> [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20, p. 165)]]
+> **通过受访者的眼睛看待问卷** 问卷的逻辑排序必须由心理排序来中介。表面上无威胁的问题（关于年龄、收入、宗教）可能对某些受访者具有冒犯性。工具必须同时通过受访者的眼睛和设计者的眼睛来看待。
 
 ---
 
@@ -296,8 +295,8 @@ updated: 2026-07-21
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **设计与分析耦合** | 问卷设计须以数据分析为起点 | 所有问卷研究，尤其是量化取向 | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
-> | **心理顺序优先** | 问卷逻辑须服从受访者心理体验 | 敏感话题、长问卷设计 | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]; Oppenheim（1992） |
+> | **设计与分析耦合** | 问卷设计须以数据分析为起点 | 所有问卷研究，尤其是量化取向 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20, p. 110)]] |
+> | **心理顺序优先** | 问卷逻辑须服从受访者心理体验 | 敏感话题、长问卷设计 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20, pp. 165–167)]]; Oppenheim（1992） |
 > | **伦理即严谨** | 技术质量与伦理责任不可分离 | 所有涉及人类受试者的研究 | Morrison（1996b） |
 > | **敏感性判断** | 敏感与否须从受访者视角评估 | 涉及个人隐私、弱势群体的研究 | Sudman & Bradburn（1982） |
 

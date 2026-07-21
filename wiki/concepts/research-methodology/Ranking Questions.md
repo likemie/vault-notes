@@ -8,7 +8,7 @@ aliases:
 summary: "要求受访者在选项之间进行比较并确定优先级的题型，操作在零和模型上——提高一项的排位意味着另一项下降，适用于需要判断相对权重而非绝对取值的场景"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

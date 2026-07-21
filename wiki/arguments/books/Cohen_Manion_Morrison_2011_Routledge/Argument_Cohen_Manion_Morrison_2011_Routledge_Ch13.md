@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -86,7 +86,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-07-09
-updated: 2026-07-13
+updated: '2026-07-21'
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"

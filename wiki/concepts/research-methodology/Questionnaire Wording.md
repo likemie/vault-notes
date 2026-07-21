@@ -9,10 +9,10 @@ aliases:
 summary: "问卷题项措辞中常见的十类陷阱，包括引导性问题、深奥问题、复杂问题、双重否定、极端措辞、歧义问题等，理想问卷应具备清晰、无歧义和工作可行的属性"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/questionnaire
   - method/survey

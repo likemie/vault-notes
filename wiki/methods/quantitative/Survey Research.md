@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 52
+method_related_count: 54
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -80,7 +80,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-07-13
+updated: '2026-07-21'
 ---
 
 # Survey Research

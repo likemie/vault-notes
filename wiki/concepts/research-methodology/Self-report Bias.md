@@ -7,7 +7,7 @@ aliases:
 summary: "受访者自我报告时因社会期望、记忆偏差或理解不一致导致的系统性回答偏倚，包括低报、高报和选择性回忆三种机制"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

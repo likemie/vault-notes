@@ -9,7 +9,7 @@ aliases:
 summary: "可能引发受访者低报或过度报告的问卷题项，其敏感性和威胁必须通过受访者的眼睛来看待，可通过措辞设计、时机安排、收集方式和效度保障四类策略加以控制"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

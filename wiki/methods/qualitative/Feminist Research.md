@@ -6,7 +6,7 @@ summary: "一种以批判理论为根基的研究方法论，通过揭露父权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-07-11
+updated: '2026-07-21'
 ---
 
 # Feminist Research
@@ -149,7 +149,7 @@ updated: 2026-07-11
 
 > [!method-limits] 方法局限
 > - **偏误来源** 研究者与被研究者之间的"拟态团结"（purported solidarity）可能是善意的女性主义者进行的欺诈（Thapar-Björkert and Henry, 2004）。将参与者政治化可能使她们更脆弱而非赋权——意识到约束但无法改变条件的处境可能实际上削弱力量（Gillies and Alldred, 2002: 45）。
-> - **适用边界** 研究者未必能真正代表她们不属于的群体——"为他人代言"可能是另一种形式的殖民和压迫（Gillies and Alldred, 2002: 39–40）。
+> - **适用边界** 任何单一主体未必能真正代表其并不归属的群体体验——"为他人代言"可能会构成另一种形式的殖民与压迫（Gillies and Alldred, 2002: 39–40）。
 > - **误用风险** 将[[Qualitative Research|质性研究]]特权化为"非剥削性"是有问题的——量化方法可能延续权力差异和剥削，但不能保证质性研究不会以更隐蔽的方式重复同样的问题（De Laine, 2000: 115）。
 > - **补救方式** 多元方法——量化与质性方法在女性主义研究中都有合法地位（Kelly, 1978; Jayaratne, 1993; Oakley, 1998）；持续反思研究者立场和身份差异。
 

@@ -13,9 +13,9 @@ summary: "在正式数据收集前使用少量受试者测试研究材料和程�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 23
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/procedural
@@ -99,8 +99,8 @@ updated: 2026-07-21
 > 6. **修订并优化** 基于试点反馈修订[[Questionnaire Wording|问题措辞]]、量表格式、施测说明和程序流程。
 
 > [!note]- 调查与实验中的预测试差异
-> - **[[Survey Research|调查研究]]** 预测试主要评估[[Questionnaire|问卷]]对研究样本的适用性、条目的内部一致性、问题措辞和格式的清晰度，以及施测时长（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
-> - **[[Experimental Research|实验研究]]** 预测试还需检查用于操纵[[Independent Variable|自变量]]的材料（如计算机辅助学习计划中的讲义、课程和指导）是否按预期运作，以及标准化施测所需的培训是否足够（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> - **[[Survey Research|调查研究]]** 预测试主要评估[[Questionnaire|问卷]]对研究样本的适用性、条目的内部一致性、问题措辞和格式的清晰度，以及施测时长（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 152]]）。
+> - **[[Experimental Research|实验研究]]** 预测试还需检查用于操纵[[Independent Variable|自变量]]的材料（如计算机辅助学习计划中的讲义、课程和指导）是否按预期运作，以及标准化施测所需的培训是否足够（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 165]]）。
 
 ---
 
@@ -190,5 +190,5 @@ updated: 2026-07-21
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Creswell_2022_SAGE]] — 在第8章调查方法计划和实验方法计划的检查清单中均将预测试列为核心组成部分（Ch8）。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在第8章调查方法计划和实验方法计划的检查清单中均将预测试列为核心组成部分。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al.（2011, Ch20）]] — 详细区分[[Questionnaire|问卷]]预测试的双重类型：格式与覆盖范围预测试（18项检查清单）和统计缩减预测试（[[Reliability|信度]]、共线性、[[Multiple Regression|多元回归]]、因子分析四种缩减策略）。
