@@ -13,7 +13,7 @@ summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Case Study]]"
   - "[[Mixed Methods Research]]"
+  - "[[In-depth Interview]]"
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
@@ -94,7 +95,7 @@ updated: 2026-07-11
 
 > [!method-stack] 方法层级
 > - **研究设计** 质性[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]或[[Mixed Methods Research|混合方法研究]]中的探索性定性设计。
-> - **数据收集** 半结构化[[Qualitative Interview|深度访谈]]、非正式访谈、观察笔记与参与者网络追踪。
+> - **数据收集** 半结构化[[In-depth Interview|深度访谈]]、非正式访谈、观察笔记与参与者网络追踪。
 > - **分析方法** 配合[[Grounded Theory|扎根理论]]、主题[[Coding in Qualitative Research|编码]]分析、叙事重构或社会网络关系图解。
 > - **辅助技术** 多起点起点种子分流技术、多波次控制技术，以及受访者驱动抽样与声誉评议技术的结合。
 
@@ -122,7 +123,7 @@ updated: 2026-07-11
 > | **资料边界** | 湖北省 G 县及下辖乡镇的 12 所小学，包含进城陪读、镇区陪读与乡村留守三类典型家庭类型。 |
 
 > [!proc] 质性分析程序
-> 1. **录音转录与匿名化** 将深度访谈录音整理为文字，对学校、教师、家长及涉及的关系人姓名做去标识化处理。
+> 1. **录音转录与匿名化** 将[[In-depth Interview|深度访谈]]录音整理为文字，对学校、教师、家长及涉及的关系人姓名做去标识化处理。
 > 2. **主题[[Coding in Qualitative Research|编码]]分析** 提取学校撤并历史、陪读经济成本、社会资本关系网络求学渠道以及[[Cultural Capital|文化资本]]边缘化等核心概念。
 > 3. **[[Triangulation|三角互证]]** 将家长陈述、城乡教师评估与当地教育局官员反馈进行交叉比对，核实求学过程中的资本动员逻辑。
 > 4. **[[Rich and Thick Description|厚描述]]呈现** 详细展示不同 SES 阶层在面对入学政策简化与人脉关系变现时的真实抉择与质性案例。

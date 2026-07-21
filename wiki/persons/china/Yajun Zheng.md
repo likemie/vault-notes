@@ -39,7 +39,7 @@ related_theories:
   - "[[Dual-Process Model of Culture in Action]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Constructivist Grounded Theory]]"
   - "[[Theoretical Sampling]]"
 related_persons:
@@ -71,7 +71,7 @@ updated: '2026-06-08'
 > [!note]-
 > - 就读于复旦大学高等教育研究所，师从熊庆年教授([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 > - 2014 年夏开始其对中国一流大学学生毕业出路分化问题的研究旅程
-> - 2015 秋至 2017 年初，在中国两所著名研究型大学（化名"北方大学"和"南方大学"）完成首轮 38 名毕业班学生的[[Qualitative Interview|深度访谈]]
+> - 2015 秋至 2017 年初，在中国两所著名研究型大学（化名"北方大学"和"南方大学"）完成首轮 38 名毕业班学生的[[In-depth Interview|深度访谈]]
 > - 2017 年暑假和 2018 年暑假，受复旦高等教育研究所牛新春老师之邀，在"南方大学"补充访谈了 24 名主要来自较低阶层背景的毕业班本科生
 > - 与牛新春合作发表多篇关于重点大学城乡学生生涯定向的实证研究
 > - 2023 年出版专著《金榜题名之后：大学生出路分化之谜》，由上海三联书店出版
@@ -81,7 +81,7 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract]
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]，《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[Qualitative Interview|深度访谈]]，运用 Bourdieu 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]，《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 Bourdieu 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
 
 ---
 
@@ -109,7 +109,7 @@ updated: '2026-06-08'
 
 ### 方法论立场
 
-郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式[[Qualitative Interview|深度访谈]]数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与[[Theoretical Sampling|理论抽样]]选取典型案例，结合类别系列分解策略优化可外推性([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+郑雅君遵循韦伯诠释社会学传统，以[[Constructivist Grounded Theory|建构主义扎根理论]]（Charmaz, 2006）方法处理 62 名跟踪式[[In-depth Interview|深度访谈]]数据（累计 150+ 万字），在理论演绎与现象归纳的循环迭代中最终产出了类型学发现。其研究设计以**跟踪式个案**为分析单位，通过目的抽样与[[Theoretical Sampling|理论抽样]]选取典型案例，结合类别系列分解策略优化可外推性([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ---
 

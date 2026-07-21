@@ -32,7 +32,7 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Internet-based Survey]]"
   - "[[Archival Research]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -125,7 +125,7 @@ updated: 2026-06-20
 > 如果要研究学生生物学学习动机，不仅涉及识别大量自[[Variable|变量]]，还需处理可能的数据过载，并确保所有动机理论都被纳入——这迅速失控，成为不可能完成的任务。正确的做法是：处理一到两种动机理论，限定明确的[[Independent Variable|自变量]]范围，针对特定年龄段或特定经验类型的学生。
 
 > [!success] 小样本窄聚焦的成功案例
-> Axline (1964) 在 *Dibs in Search of Self* 中研究了游戏治疗（play therapy）对一名儿童 Dibs 的修复和治疗效果，样本仅为一个孩子，成为心理治疗和教育领域的经典。Piaget (1932) 在 *The Moral Judgement of the Child* 中研究了儿童道德判断的发展，样本仅为少数几个孩子，通过[[Qualitative Interview|深度访谈]]和对游戏规则的细致观察，提出了从他律道德到自律道德的发展阶段模型，深刻影响了整个20世纪的发展心理学和教育学。两个案例共同说明：小样本、窄聚焦的研究可以产生卓越的成果。窄聚焦使深层理解成为可能，窄聚焦不意味着浅薄，恰恰相反（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+> Axline (1964) 在 *Dibs in Search of Self* 中研究了游戏治疗（play therapy）对一名儿童 Dibs 的修复和治疗效果，样本仅为一个孩子，成为心理治疗和教育领域的经典。Piaget (1932) 在 *The Moral Judgement of the Child* 中研究了儿童道德判断的发展，样本仅为少数几个孩子，通过[[In-depth Interview|深度访谈]]和对游戏规则的细致观察，提出了从他律道德到自律道德的发展阶段模型，深刻影响了整个20世纪的发展心理学和教育学。两个案例共同说明：小样本、窄聚焦的研究可以产生卓越的成果。窄聚焦使深层理解成为可能，窄聚焦不意味着浅薄，恰恰相反（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 ---
 

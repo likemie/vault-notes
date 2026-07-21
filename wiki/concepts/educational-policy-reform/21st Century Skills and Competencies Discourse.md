@@ -52,7 +52,7 @@ related_methods:
   - "[[Single-Case Design]]"
   - "[[Systematic Review]]"
   - "[[Comparative Case Study]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -264,7 +264,7 @@ SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养�
 ### 实践层面的解读分化
 
 > [!example]
-> [[Argument_Beech_2009_CE|Beech (2009)]]提供了能力话语在实践层面遭遇系统性解读分化的直接证据。在对阿根廷和巴西教师教育者（负责培养未来教师的人）的[[Qualitative Interview|深度访谈]]中，Beech（2005）发现了对能力概念的至少四种互不兼容的解读（pp.358–359）：
+> [[Argument_Beech_2009_CE|Beech (2009)]]提供了能力话语在实践层面遭遇系统性解读分化的直接证据。在对阿根廷和巴西教师教育者（负责培养未来教师的人）的[[In-depth Interview|深度访谈]]中，Beech（2005）发现了对能力概念的至少四种互不兼容的解读（pp.358–359）：
 
 **解读一：重新解释为既有范畴。** 一部分教师教育者将能力重新纳入他们已有的认知框架，比如 1960 年代的行为目标、布鲁姆的教育目标分类学、[[Technical Rationality|技术理性]]。他们用既有范畴来消解新话语的陌生性，而不是用新话语来改变既有理解。
 

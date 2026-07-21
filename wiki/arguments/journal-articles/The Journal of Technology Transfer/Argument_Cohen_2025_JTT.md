@@ -50,7 +50,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Longitudinal Study]]"
   - "[[Case Study]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Focus Group]]"
   - "[[Cohort Study]]"
   - "[[Matching]]"
@@ -308,7 +308,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 > [!success] 策略 3：数据收集工具的组合使用
 > **combination of data collection tools**
 > 
-> 将一手质性工具（[[Case Study|案例研究]]、[[Qualitative Interview|深度访谈]]、叙事分析、[[Focus Group|焦点小组]]）与二手量化数据库（专利数据库、企业财务和研发支出数据、科研产出数据库）并行使用，再交叉验证(Al-Ashaab et al., 2011; Borah et al., 2021; Morandi, 2013; Perkmann & Walsh, 2009)。
+> 将一手质性工具（[[Case Study|案例研究]]、[[In-depth Interview|深度访谈]]、叙事分析、[[Focus Group|焦点小组]]）与二手量化数据库（专利数据库、企业财务和研发支出数据、科研产出数据库）并行使用，再交叉验证(Al-Ashaab et al., 2011; Borah et al., 2021; Morandi, 2013; Perkmann & Walsh, 2009)。
 > 
 > 两种数据类型的互补逻辑：
 > - **量化数据库**（如专利统计、企业销售数据、论文引用量）提供"发生了什么"——影响的规模和分布。例如 Scandura(2016)使用企业层面的面板数据估计 UIC 对就业的因果效应

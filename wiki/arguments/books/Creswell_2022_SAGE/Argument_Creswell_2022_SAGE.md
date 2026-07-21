@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 182
+argument_related_count: 183
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -197,6 +197,7 @@ related_methods:
   - "[[Mixed Methods Experimental Design]]"
   - "[[Mixed Methods Case Study Design]]"
   - "[[Mixed Methods Participatory-Social Justice Design]]"
+  - "[[In-depth Interview]]"
 related_persons:
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
@@ -1710,7 +1711,7 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 
 ##### Example 10.2 — 解释性序列设计：Banyard & Williams (2007)
 
-研究女性如何从童年性虐待中恢复并在成年早期保持韧性。**第一量化阶段**（纵向）：1990 年对 136 名女性进行结构化访谈，1997 年追踪其中 61 人，测量韧性相关因素在 7 年间的变化。**第二质性阶段** 从量化样本中选择 21 名女性深度访谈。质性主题揭示了量表中未被捕捉的维度——生活转折点、恢复的持续性、灵性在恢复中的角色。
+研究女性如何从童年性虐待中恢复并在成年早期保持韧性。**第一量化阶段**（纵向）：1990 年对 136 名女性进行结构化访谈，1997 年追踪其中 61 人，测量韧性相关因素在 7 年间的变化。**第二质性阶段** 从量化样本中选择 21 名女性[[In-depth Interview|深度访谈]]。质性主题揭示了量表中未被捕捉的维度——生活转折点、恢复的持续性、灵性在恢复中的角色。
 
 > [!quote]
 > "Qualitative data from a subset of participants was used to examine survivors' own narratives about recovery and healing to learn about key aspects of resilience in women's own words."(p.278)

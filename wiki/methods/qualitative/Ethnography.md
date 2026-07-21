@@ -10,7 +10,7 @@ summary: "一种源自人类学的质性研究设计，要求研究者在自然�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 52
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Theoretical Sampling]]"
   - "[[Snowball Sampling]]"
+  - "[[In-depth Interview]]"
   - "[[Fieldwork]]"
   - "[[Experimental Research]]"
   - "[[Member Checking]]"
@@ -183,7 +184,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > [!proc] 通用程序
 > 1. **确定文化群体** 确定一个文化群体或共享文化的群体作为研究对象。
 > 2. **进入现场并建立信任** 进入研究[[Champ|场域]]并建立信任关系（rapport）。
-> 3. **长时间现场收集数据** 通过参与式观察（[[Participant Observation]]）和[[Qualitative Interview|深度访谈]]长时间在现场收集数据。
+> 3. **长时间现场收集数据** 通过参与式观察（[[Participant Observation]]）和[[In-depth Interview|深度访谈]]长时间在现场收集数据。
 > 4. **关注共享模式** 关注群体的共享信念、价值观、行为模式、语言和物质文化。
 > 5. **生成整体性描述** 生成关于该文化群体的整体性描述（holistic description）。
 > 6. **[[Reflexivity|反身性]]审视** 研究者反思自身文化背景如何影响对研究群体的理解（[[Reflexivity|反身性]]）。

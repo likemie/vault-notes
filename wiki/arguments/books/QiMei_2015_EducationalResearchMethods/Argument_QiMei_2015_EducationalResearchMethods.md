@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 111
+argument_related_count: 112
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -136,6 +136,7 @@ related_methods:
   - "[[Convenience Sampling]]"
   - "[[Quota Sampling]]"
   - "[[Mixed Methods Research]]"
+  - "[[In-depth Interview]]"
 related_persons:
   - "[[Kurt Lewin]]"
   - "[[Jean Piaget]]"
@@ -911,7 +912,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 
 扎根理论包括七个操作步骤：搜集资料、编码、撰写备忘录、理论性抽样、建构理论、计算机辅助分析资料、写作。
 
-**搜集资料** 以[[Qualitative Interview|深度访谈]]最为适合——两者都是既开放又有方向性、既有步骤又灵活的方法。深度访谈应为宽广的开放性问题，鼓励研究对象说出意料之外的故事。文本资料包括已有文本（文献、报告、媒体报道等）和新文本（日记、自传等）。
+**搜集资料** 以[[In-depth Interview|深度访谈]]最为适合——两者都是既开放又有方向性、既有步骤又灵活的方法。深度访谈应为宽广的开放性问题，鼓励研究对象说出意料之外的故事。文本资料包括已有文本（文献、报告、媒体报道等）和新文本（日记、自传等）。
 
 **编码** 扎根理论的编码分为四个阶段：
 

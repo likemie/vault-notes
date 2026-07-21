@@ -33,7 +33,7 @@ related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:
   - "[[Ethnography]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Constructivist Grounded Theory]]"
   - "[[Quantitative Research]]"
 related_persons:
@@ -160,7 +160,7 @@ updated: 2026-07-08
 
 > [!warning]
 > - **决定论指控** 批评者认为习性概念过于强调社会再生产，低估了行动者的能动性和变革可能性。[[Argument_Eacott_2011_JEAH|Eacott (2011)]]的论文可以被视为对这一批评的回应——他运用 Bourdieu 框架恰恰是为了论证"替代性领导习性"的可能性
-> - **经验[[Operationalization|操作化]]困难** 如何在具体研究中实证地捕捉"习性"？[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以[[Qualitative Interview|深度访谈]]和[[Constructivist Grounded Theory|建构主义扎根理论]]的方法操作化习性概念，提供了可参照的范例，但大量[[Quantitative Research|定量研究]]仍难以直接测量习性本身
+> - **经验[[Operationalization|操作化]]困难** 如何在具体研究中实证地捕捉"习性"？[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以[[In-depth Interview|深度访谈]]和[[Constructivist Grounded Theory|建构主义扎根理论]]的方法操作化习性概念，提供了可参照的范例，但大量[[Quantitative Research|定量研究]]仍难以直接测量习性本身
 > - **概念弹性过大** 习性几乎可以解释任何行为——优势阶层学生的成功归因于习性，其失败也可归因于习性滞后。批评者认为这种"解释一切"的弹性反而削弱了概念的分析力
 
 ---

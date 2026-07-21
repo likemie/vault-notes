@@ -28,7 +28,7 @@ related_methods:
   - "[[Action Research]]"
   - "[[Fieldwork]]"
   - "[[Explanatory Sequential Design]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -80,7 +80,7 @@ updated: 2026-06-02
 ## 使用此方法的研究
 
 > [!example]
-> - Hodgkin (2008) — 使用女性主义[[Mixed Methods Research|混合方法]]社会正义[[Explanatory Sequential Design|解释性序列设计]]，研究澳大利亚一个区域城市中男性和女性的社会资本差异，先通过大规模调查（N=1431）识别性别差异，再仅对女性（N=12）进行[[Qualitative Interview|深度访谈]]，以女性主义框架包裹整个研究来呈现性别不平等的图景([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.249]])。
+> - Hodgkin (2008) — 使用女性主义[[Mixed Methods Research|混合方法]]社会正义[[Explanatory Sequential Design|解释性序列设计]]，研究澳大利亚一个区域城市中男性和女性的社会资本差异，先通过大规模调查（N=1431）识别性别差异，再仅对女性（N=12）进行[[In-depth Interview|深度访谈]]，以女性主义框架包裹整个研究来呈现性别不平等的图景([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.249]])。
 
 ---
 

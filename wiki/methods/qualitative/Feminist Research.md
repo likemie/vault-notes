@@ -6,7 +6,7 @@ summary: "一种以批判理论为根基的研究方法论，通过揭露父权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
   - "[[Theory of Knowledge]]"
-  - "[[Questionnaire Wording]]"
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
 related_theories:
@@ -36,7 +35,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Qualitative Research]]"
 related_persons: []
 related_facts:
@@ -111,7 +110,7 @@ updated: '2026-07-21'
 > - 使用语言技术如会话分析。
 > - 使用文本分析如解构关于女性的文件和文本。
 > - 使用[[Meta-analysis|元分析]]综合个别研究的发现。
-> - 离开数字化调查并对其进行批判性评估，包括对[[Questionnaire Wording|问题措辞]]的批判。
+> - 离开数字化调查并对其进行批判性评估，包括对问题措辞的批判。
 
 ### Webb 等的女性主义教学法六项原则
 
@@ -128,7 +127,7 @@ updated: '2026-07-21'
 ## 资料与分析
 
 > [!method-stack] 资料与分析摘要
-> - **资料类型** 个人证词、口述叙事、长访谈、引导式对话、自传体材料、敏感议题的[[Qualitative Interview|深度访谈]]。
+> - **资料类型** 个人证词、口述叙事、长访谈、引导式对话、自传体材料、敏感议题的[[In-depth Interview|深度访谈]]。
 > - **资料质量** 女性主义研究质疑传统"rapport"（融洽关系）的概念——标准化的非互惠访谈关系利用了被访者（Oakley, 1981）。[[Informed Consent|知情同意]]需在探索性访谈中持续重新协商（Duncombe and Jessop, 2002）。
 > - **分析策略**[[Ideology Critique|意识形态批判]]——揭示性别权力关系；文本解构——分析关于女性的文本中的权力运作；意识提升——将个人经验政治化。
 > - **质量控制** 关注研究对参与者的政治后果（[[Consequential Validity|结果效度]]）；警惕"假装友谊"以获取数据的不诚实做法（Duncombe and Jessop, 2002: 108）。

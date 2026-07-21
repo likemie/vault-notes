@@ -8,7 +8,7 @@ summary: "先以小样本进行质性探索、基于质性发现开发或修改�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -32,11 +32,12 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Joint Display]]"
   - "[[Convergent Design]]"
+  - "[[Qualitative Interview]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -98,7 +99,7 @@ updated: 2026-07-13
 
 ### 4.2 执行程序：三阶段基本流程
 操作逻辑为先探索、再开发、后检验：
-1. **第一质性阶段** 从小样本（通常 10-30 人）收集质性数据（如[[Qualitative Interview|深度访谈]]），产出对现象的丰富理解（主题、维度或过程模型）。
+1. **第一质性阶段** 从小样本（通常 10-30 人）收集质性数据（如[[In-depth Interview|深度访谈]]），产出对现象的丰富理解（主题、维度或过程模型）。
 2. **工具开发阶段** 核心桥梁。将质性主题转化为[[Questionnaire|问卷]]条目，通过专家审查或认知访谈验证[[Content Validity|内容效度]]，形成初步量化工具。
 3. **第三量化阶段** 在大样本施测，通过因子分析、[[Reliability|信度]]分析等评估测量属性，并检验基于质性发现推导的[[Hypothesis|研究假设]]。
 
@@ -137,7 +138,7 @@ updated: 2026-07-13
 
 ### 效度威胁 (Validity Threats)
 - **测量学开发不规范** 未遵循严格的工具开发指南（如条目分析、效度估计），导致生成的量表质量存疑。需参考 DeVellis (2017) 等标准。
-- **质性发现利用不足** 若质性探索阶段过于单薄（仅有简短评论而非[[Qualitative Interview|深度访谈]]），将无法支撑有意义的条目开发。
+- **质性发现利用不足** 若质性探索阶段过于单薄（仅有简短评论而非[[In-depth Interview|深度访谈]]），将无法支撑有意义的条目开发。
 - **样本混淆** 若质性参与者被纳入量化受测样本，将损害研究的独立性。
 
 ---

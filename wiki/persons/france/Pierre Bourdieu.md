@@ -49,7 +49,7 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Ethnography]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
 related_persons:
   - "[[Max Weber]]"
   - "[[Bruno Latour]]"
@@ -96,7 +96,7 @@ updated: 2026-07-13
 > - **1968** 与 Jean-Claude Passeron 等合著出版《社会学家行当》（Le Mé[[Top Institute for Evidence-Based Education Research|TIER]] de sociologue），系统阐述社会学认识论预备。
 > - **1975** 创办《社会科学研究学术活动》（Actes de la recherche en sciences sociales）期刊，创立融合视觉、数据与经验叙事的新出版风格。
 > - **1981** 当选法兰西学院社会学讲席教授，发表就职演说《关于课的课》（Leçon sur la leçon）。
-> - **1993** 获得[[CNRS|法国国家科学研究中心]]金奖。同年出版《世界之苦》（La Misère du monde），以[[Qualitative Interview|深度访谈]]形式系统呈现新自由主义政策给普通人带来的社会苦难。
+> - **1993** 获得[[CNRS|法国国家科学研究中心]]金奖。同年出版《世界之苦》（La Misère du monde），以[[In-depth Interview|深度访谈]]形式系统呈现新自由主义政策给普通人带来的社会苦难。
 > - **1995–1998** 深入参与反新自由主义运动、罢工与社会弱势群体抗争，确立了战斗性社会学的公共知识分子形象。
 > - **2002** 在巴黎因癌症去世，晚期关于国家、科学与自我分析的课程 and 手稿在此后陆续整理出版。
 

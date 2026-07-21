@@ -40,7 +40,7 @@ related_theories:
   - "[[Social Capital Theory]]"
 related_methods:
   - "[[Case Study]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
@@ -63,7 +63,7 @@ updated: 2026-06-10
 
 > [!stat-cards]+ 一页读懂
 > - **对象**[[Synthesis and Solid State Pharmaceutical Centre|SSPC]]（Synthesis and Solid State Pharmaceutical Centre），爱尔兰制药产学合作网络，10 家跨国企业 + 8 所学术机构
-> - **方法** 单一站点定性[[Case Study|案例研究]]，10 次[[Qualitative Interview|深度访谈]]（50-105 分钟）
+> - **方法** 单一站点定性[[Case Study|案例研究]]，10 次[[In-depth Interview|深度访谈]]（50-105 分钟）
 > - **产出** 四阶段演化模型——胚胎期 → 启动期 → 参与期 → 确立期，每阶段对应不同的障碍、促进因素和突破机制
 
 ---

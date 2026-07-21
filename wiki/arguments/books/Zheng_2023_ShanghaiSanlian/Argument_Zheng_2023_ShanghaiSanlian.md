@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 92
+argument_related_count: 93
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -96,7 +96,7 @@ related_theories:
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Constructivist Grounded Theory]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Cohort Study]]"
   - "[[Grounded Theory]]"
   - "[[Multiple Regression]]"
@@ -116,6 +116,7 @@ related_persons:
   - "[[Marcia Baxter Magolda]]"
   - "[[Didier Eribon]]"
 related_facts:
+  - "[[Gaokao]]"
   - "[[Civil Service Examination]]"
   - "[[Coleman Report 1966]]"
   - "[[Recommendation-Based Graduate Admission System]]"
@@ -137,7 +138,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 寒门学子即使冲破了高考壁垒进入顶尖大学，为何在毕业出路和职业前景上仍然系统性落后于优势阶层同学？大学经历本身在其中扮演了什么角色？
+> 寒门学子即使冲破了[[Gaokao|高考]]壁垒进入顶尖大学，为何在毕业出路和职业前景上仍然系统性落后于优势阶层同学？大学经历本身在其中扮演了什么角色？
 
 本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、[[Quantitative Research|量化研究]]一再确认的弱势学生出路劣势——指出现有解释（人力资本理论、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]][[Epoché|悬置]]"经济人"[[Hypothesis|假设]]，走入教育过程的"黑箱"，追问：
 
@@ -165,7 +166,7 @@ citation_aliases:
 > [!info]
 > - **方法论**[[Constructivist Grounded Theory|建构主义扎根理论]](Charmaz, 2006)，[[Max Weber|韦伯]]诠释学[[Epistemology|认识论]]——旨在"通过对行动主体的意义阐释，发现看似随机的个人选择背后所显现出的规律性机制"
 > - **田野点** 两所化名为"北方大学"和"南方大学"的顶尖研究型大学——同为百年名校，但学科结构、精神传统和所在地构成系统性对比（北京"又红又专" vs 上海"自由而无用"）
-> - **样本** 62 名毕业班学生的跟踪式[[Qualitative Interview|深度访谈]]（每人均保持联系至确定毕业去向），外加 8 名增补受访者用于第五章分析
+> - **样本** 62 名毕业班学生的跟踪式[[In-depth Interview|深度访谈]]（每人均保持联系至确定毕业去向），外加 8 名增补受访者用于第五章分析
 > - **抽样** 两阶段目的抽样——第一阶段 38 名男生（控制性别和 GPA），第二阶段补充 24 名（增加女生和弱势学生）；兼顾学科、家境、价值观内化程度的差异性分布
 > - **数据来源** 渐进式聚焦访谈（个人生活史→大学就读体验→人生价值与工作，平均约 3 小时，累计 >150 万字转录文本）+ 背景信息[[Questionnaire|问卷]] + 实地观察笔记
 > - **分析策略** 理论演绎与现象归纳循环迭代，从经验材料中[[Emergence|涌现]]类型化发现（韦伯意义上的"理念型"建构）
@@ -203,7 +204,7 @@ citation_aliases:
 
 然而，近年来自"985 高校学生难以越过社会出身藩篱的喟叹帖"红遍网络（如《我上了 985,211，才发现自己一无所有》，2016），"985 废物""小镇做题家"成为社会热点词汇——自嘲背后是强烈的落差感和对前景的失望。
 
-量化学术研究佐证了这一主观感受：即便底层子女冲破了高考壁垒进入重点大学，其在学业成就、就业质量、升学选择、起薪、满意度等方面仍处于显著劣势。作者的导师牛新春和郑雅君本人(2018)的[[Cohort Study|追踪研究]]已发现重点大学城乡学生的生涯定向存在系统性差距。
+量化学术研究佐证了这一主观感受：即便底层子女冲破了[[Gaokao|高考]]壁垒进入重点大学，其在学业成就、就业质量、升学选择、起薪、满意度等方面仍处于显著劣势。作者的导师牛新春和郑雅君本人(2018)的[[Cohort Study|追踪研究]]已发现重点大学城乡学生的生涯定向存在系统性差距。
 
 **第二步：指出现有解释的"黑箱"缺陷**
 
@@ -230,7 +231,7 @@ citation_aliases:
 
 **第五步：交代研究设计与全书结构**
 
-- 方法：对两所顶尖研究型大学（化名"北方大学"和"南方大学"）62 名毕业班学生的跟踪式[[Qualitative Interview|深度访谈]]，平均时长约 3 小时
+- 方法：对两所顶尖研究型大学（化名"北方大学"和"南方大学"）62 名毕业班学生的跟踪式[[In-depth Interview|深度访谈]]，平均时长约 3 小时
 - 首轮（2015 秋–2017 初）：38 名家境各异的男性毕业班学生
 - 补充轮（2017 暑假–2018 暑假）：24 名主要来自低阶层背景的本科生，补充了女性和本科生个案
 - 分析策略：运用阐释学方法理解学生毕业出路选择的"意向"如何形成

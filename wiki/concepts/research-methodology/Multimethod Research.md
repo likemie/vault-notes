@@ -22,7 +22,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -58,7 +58,7 @@ updated: 2026-06-02
 >
 > **多方法研究的典型实例**
 > - 量化多方法：一项研究同时使用[[Questionnaire|问卷调查]]和官方统计数据（两种都是量化来源）
-> - 质性多方法：一项研究同时使用[[Qualitative Interview|深度访谈]]和参与式观察（两种都是质性来源）
+> - 质性多方法：一项研究同时使用[[In-depth Interview|深度访谈]]和参与式观察（两种都是质性来源）
 >
 > **混合方法研究的典型实例**
 > - 一项研究同时使用问卷调查（量化）和深度访谈（质性），并在分析阶段将两组数据整合

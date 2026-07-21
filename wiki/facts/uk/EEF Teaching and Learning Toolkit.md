@@ -44,7 +44,7 @@ related_methods:
   - "[[Umbrella Review]]"
   - "[[Intervention Research]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[John Hattie]]"
@@ -138,7 +138,7 @@ updated: '2026-06-08'
 
 ## 使用模式
 
-[[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]]通过对 22 位英国教师的[[Qualitative Interview|深度访谈]]，揭示了 Toolkit 在实践中的五种使用模式。前三种体现了 Toolkit 对教师决策的积极作用，后两种暴露了信息传播中的问题。
+[[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]]通过对 22 位英国教师的[[In-depth Interview|深度访谈]]，揭示了 Toolkit 在实践中的五种使用模式。前三种体现了 Toolkit 对教师决策的积极作用，后两种暴露了信息传播中的问题。
 
 > [!example] 决策支持工具
 > 教师普遍认为 Toolkit 需要情境化解读才能应用。一位资深教师说，"把它当作提问的方式，而非指导。任何诊断工具给你了，你都需要用它来预测问题，思考能否跨学校应用"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.24]])。
