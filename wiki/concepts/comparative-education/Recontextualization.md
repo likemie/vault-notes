@@ -5,13 +5,14 @@ aliases:
 summary: "知识与教育话语脱离原始生产场所并被接受者选择性挪用、重新定位、改造并嵌入本土秩序与制度架构的过程"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
 related_concepts:
   - "[[Champ]]"
   - "[[Policy Borrowing]]"
+  - "[[Selective Affinity]]"
   - "[[Test-Based Accountability]]"
   - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
@@ -41,6 +42,7 @@ related_persons:
   - "[[Confucius]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Gaokao]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
   - "[[Argument_McPhail_2023_JCS]]"
@@ -65,7 +67,7 @@ updated: '2026-07-21'
 > [!concept-lens] 概念透镜
 > - **含义** 强调知识与教育理念跨越空间或[[Champ|场域]]移动时发生的选择性过滤、语义重组与功能性变形。
 > - **用途** 帮助研究者摒弃“忠实移植 vs 被动误解”的二元假象，分析接受者在[[Policy Borrowing|政策借用]]、课程转化与教学改革中的主体能动性与权力协商。
-> - **边界** 再脉络化不是无中生有的全新原创，也不同于非理性的认知失误；它受制于本土既有文化传统（选择性亲和）与硬性制度架构（如高利害[[Test-Based Accountability|考试问责]]）所设定的结构边界。
+> - **边界** 再脉络化不是无中生有的全新原创，也不同于非理性的认知失误；它受制于本土既有文化传统（[[Selective Affinity|选择性亲和]]）与硬性制度架构（如高利害[[Test-Based Accountability|考试问责]]）所设定的结构边界。
 
 > [!citation-card]- 关键表述
 > 再脉络化……选择性地挪用、重新定位、重新聚焦其他话语并将其关联以构成自身秩序。（p.33）
@@ -98,7 +100,7 @@ updated: '2026-07-21'
 > - **官方再脉络化[[Champ|场域]]（ORF）** 制度化力量（如教育部门或[[OECD]]）主导话语转换，工具主义与政治相关性往往主导了课程与政策的过滤原则。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 33)]]
 > - **双重驱动力** [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] 识别出想象的亲和性（发现外来思想与本土传统的契合）与感知的不可兼容性（将其判定为威胁本土核心价值），两者可赋予同一元素相反评价。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 70)]]
 > - **三层空间变形** [[Argument_Beech_2009_CE|Beech (2009)]] 揭示话语在全球层被掏空为[[Floating Signifier|漂浮能指]]，在国家层与本土话语矛盾并置，在实践层受地缘物质条件制约发生功能突变。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 353–361)]]
-> - **[[Pragmatic Paradigm|实用主义]]与结构硬边界** [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] 发现 [[Learner-Centred Education|LCE]] 被实用主义[[Transfer Translation Transformation|转译]]为提分与效率工具，与儒家对话传统亲和，但受限于高考大纲而保留权力共享硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
+> - **[[Pragmatic Paradigm|实用主义]]与结构硬边界** [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] 发现 [[Learner-Centred Education|LCE]] 被实用主义[[Transfer Translation Transformation|转译]]为提分与效率工具，与儒家对话传统亲和，但受限于[[Gaokao|高考]]大纲而保留权力共享硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
 
 > [!logic-map]- 全球—国家—实践三层再脉络化与本土制度重构机制
 > ```mermaid
@@ -120,7 +122,7 @@ updated: '2026-07-21'
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **跨系统转移中的意义再造机制** | 教育思想与话语在跨国或跨系统转移中必然经历接受者的选择性挪用、重构与意义再造 | 跨国思想传播、教育[[Policy Borrowing\|政策借用]]与历史接受史 | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]; [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, p. 33)]] |
-> | **本土制度约束与权力共享硬边界** | 外来教育模式的再脉络化受制于本土制度架构与文化传统的选择性亲和，并形成不可跨越的权力共享硬边界 | 东亚高利害考试文化、课程改革与教学法本土化 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 33–40)]] |
+> | **本土制度约束与权力共享硬边界** | 外来教育模式的再脉络化受制于本土制度架构与文化传统的[[Selective Affinity\|选择性亲和]]，并形成不可跨越的权力共享硬边界 | 东亚高利害考试文化、课程改革与教学法本土化 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 33–40)]] |
 
 ---
 
@@ -143,7 +145,7 @@ updated: '2026-07-21'
 ### 命题二　外来教育模式的再脉络化受制于本土制度架构与文化传统的选择性亲和，并形成不可跨越的权力共享硬边界
 
 > [!concept-lens] 本土约束与再脉络化边界
-> 围绕本土硬性制度（如高考问责）与文化传统如何设定外来教育模式再脉络化的轨道与天花板展开。
+> 围绕本土硬性制度（如[[Gaokao|高考]]问责）与文化传统如何设定外来教育模式再脉络化的轨道与天花板展开。
 
 > [!claim] [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]
 > **儒家对话传统亲和与应试问责下的权力共享硬边界** 外来教学模式（如西方进步主义[[Learner-Centred Education|LCE]]）在本土落地时，必然经历认知与功能的重塑。在中国案例学校中，LCE 从西方理想型的“民主公民培养与学生决定课程”被[[Pragmatic Paradigm|实用主义]]地再脉络化为“攻克高阶考题的[[Critical Thinking|批判性思维]]”与“提升农村课堂 45 分钟吸收率的工具”。这一过程在理念上与[[Confucius|孔子]]启发式对话教学产生选择性亲和（Selective Affinity）；但受制于统一课程标准与刚性高考大纲，学生无法参与决定“学什么”或“怎么考”，权力共享维度展现出不可跨越的结构性硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]

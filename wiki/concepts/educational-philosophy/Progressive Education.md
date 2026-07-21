@@ -9,7 +9,7 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Critical Thinking]]"
   - "[[Quality Education]]"
+  - "[[Selective Affinity]]"
   - "[[Variable]]"
   - "[[Document]]"
 related_theories:
@@ -158,7 +159,7 @@ updated: '2026-07-22'
 > **[[John Dewey|杜威]]在中国的百年四次再脉络化** 杜威的进步教育思想在中国经历了四次深刻的再脉络化：民国时期[[Hu Shi|胡适]]将其塑造为反迷信与经世致用的工具；毛泽东时代被批判为资本主义毒草；1980 年代通过[[Tao Xingzhi|陶行知]]被重塑为现代化旗帜；当代被部署为[[Quality Education|素质教育]]代言人。产物“Duwei”已是高度质变的本土知识建构物。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–93)]]
 
 > [!claim] [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]
-> **东亚高利害考试下的实用主义提分与儒家对话亲和** 进步教育/[[Learner-Centred Education|LCE]] 进入中国高压考试文化时，其理想型民主育人目标被实用主义地降维再脉络化为“攻克高阶考题的[[Critical Thinking|批判性思维]]”与“提升 45 分钟课堂吸收率的工具”。这一过程在理念上与[[Confucius|孔子]]启发式对话传统产生选择性亲和，但保留了排除学生共决课程的权力共享硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
+> **东亚高利害考试下的实用主义提分与儒家对话亲和** 进步教育/[[Learner-Centred Education|LCE]] 进入中国高压考试文化时，其理想型民主育人目标被实用主义地降维再脉络化为“攻克高阶考题的[[Critical Thinking|批判性思维]]”与“提升 45 分钟课堂吸收率的工具”。这一过程在理念上与[[Confucius|孔子]]启发式对话传统产生[[Selective Affinity|选择性亲和]]，但保留了排除学生共决课程的权力共享硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
 
 > [!claim] [[Argument_Cowen_2009_CE|Cowen (2009)]]
 > **战后占领期日本与西德对美式进步教育的异质[[Transfer Translation Transformation|转译]]** 战后美占当局向日本和西德强推美式进步教育学制。日本进步教育者与文部省官员顺应占领军要求，将其转译为日本走向现代化与民主重生的必然逻辑；而西德保守教育精英则以维护德意志文化独特性为名，将其转译为对地方自治的粗暴干涉并联合抵制。[[Argument_Cowen_2009_CE|(Cowen, 2009, p. 323)]]

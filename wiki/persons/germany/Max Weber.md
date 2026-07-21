@@ -8,10 +8,10 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - max-weber
   - classical-sociology
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Rationalism in International Relations]]"
   - "[[Document]]"
+  - "[[Selective Affinity]]"
   - "[[Champ]]"
   - "[[Causality]]"
   - "[[Analytic Framework]]"
@@ -139,7 +140,7 @@ updated: 2026-07-10
 ### 1904/05 — *Die protestantische Ethik und der Geist des Kapitalismus*
 
 - **APA** Weber, M. (1904–1905). Die protestantische Ethik und der Geist des Kapitalismus. *Archiv für Sozialwissenschaft und Sozialpolitik, 20–21*.
-- **核心内容** 论证加尔文宗及其他禁欲新教派别的“入世禁欲”职业伦理，与现代资本主义“精神”之间存在选择性亲和关系。
+- **核心内容** 论证加尔文宗及其他禁欲新教派别的“入世禁欲”职业伦理，与现代资本主义“精神”之间存在[[Selective Affinity|选择性亲和]]关系。
 - **思想位置** 新教伦理研究不是单纯用观念解释经济结构，而是把宗教观念、生活方式和资本主义理性经营之间的历史关联作为问题。它开启了 Weber 后来的比较宗教社会学。
 - **相关概念／理论** 入世禁欲、职业伦理、资本主义精神、选择性亲和。
 
