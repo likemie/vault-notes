@@ -8,7 +8,7 @@ aliases:
 summary: "Crotty (1998) 提出的研究设计四层框架，从最抽象到最具体依次为世界观、理论透镜、方法论路径和数据收集方法，用于厘清研究的认识论基础与操作程序之间的关系"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

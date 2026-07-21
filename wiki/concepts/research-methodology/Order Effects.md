@@ -10,7 +10,7 @@ aliases:
 summary: "重复测量设计中因干预呈现顺序而非干预本身导致结果差异的混淆效应，主要包括延续效应和早期优势效应，可通过拉丁方排列或随机化顺序来均衡"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

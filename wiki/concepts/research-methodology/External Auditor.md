@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中由不熟悉研究者和项目的外部人员对整个研究过程进行客观评估的效度验证策略"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

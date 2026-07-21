@@ -6,7 +6,7 @@ aliases:
 summary: "Rouvroy 提出的概念，指算法系统通过实时运作绕过解释和符号化等意义建构过程，以行为数据关联取代主观理解的知识生产模式。"
 type: concept
 domain: "educational-technology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

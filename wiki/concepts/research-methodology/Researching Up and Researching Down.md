@@ -10,7 +10,7 @@ aliases:
 summary: "社会科学研究中的结构性倾向：研究下（studying down）指向无权群体——更容易进入、敏感性更低；研究上（studying up）指向有权群体——方法论难度更高但平衡了学术知识生产的权力不对称"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

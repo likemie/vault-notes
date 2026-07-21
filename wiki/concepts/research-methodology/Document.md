@@ -6,7 +6,7 @@ aliases:
 summary: "研究中的文献是对事件或过程的记录，由个人或群体生产，包括私人文本、官方档案、媒体报道、小说、日记、信件与电子记录等多种形式，是历史与文献研究方法的基石分析单位。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
