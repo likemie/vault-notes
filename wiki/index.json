@@ -287,7 +287,6 @@
     "aliases": [
       "中华民族",
       "Chinese nation",
-      "Zhonghua minzu",
       "中华民族多元一体"
     ]
   },
@@ -936,7 +935,9 @@
     "type": "concept",
     "path": "wiki/concepts/curriculum/Official Knowledge.md",
     "aliases": [
-      "官方知识"
+      "官方知识",
+      "官方课程知识",
+      "official curriculum knowledge"
     ]
   },
   {
@@ -10596,8 +10597,8 @@
     "type": "person",
     "path": "wiki/persons/china/Fei Xiaotong.md",
     "aliases": [
-      "Fei, X.",
-      "费孝通"
+      "费孝通",
+      "Fei, X."
     ]
   },
   {
@@ -10605,8 +10606,8 @@
     "type": "person",
     "path": "wiki/persons/china/Hsu Cho-Yun.md",
     "aliases": [
-      "Hsu, C.-Y.",
-      "许倬云"
+      "许倬云",
+      "Hsu, C.-Y."
     ]
   },
   {
