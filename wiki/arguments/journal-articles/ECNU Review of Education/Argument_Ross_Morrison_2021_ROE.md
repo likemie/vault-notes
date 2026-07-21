@@ -10,7 +10,7 @@ title: "Argument_Ross_Morrison_2021_ROE"
 argument_key: "Argument_Ross_Morrison_2021_ROE"
 argument_display_title: "Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
+  - "[[Focus Group]]"
   - "[[Formative Program Evaluation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
@@ -85,7 +86,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：[[Literature Review|文献综述]]加案例说明。前半部分梳理教育证据使用中的标准、限制和消费者偏好；后半部分用巴尔的摩郡公立学校 [[Students and Teachers Accessing Tomorrow|STAT]] [[Technology Infusion|技术整合]]项目展示复杂系统中证据如何被生成、解释和争议化(pp.109-110, 113-115)。
-> - 案例资料：STAT 评价使用教师[[Questionnaire|问卷]]、学生焦点小组、校长与教师访谈、课堂观察、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区(pp.115-118)。
+> - 案例资料：STAT 评价使用教师[[Questionnaire|问卷]]、学生[[Focus Group|焦点小组]]、校长与教师访谈、课堂观察、学校行为数据和英语语言艺术与数学成就数据；项目在 2014-2015 至 2018-2019 年分批扩展到全学区(pp.115-118)。
 > - 研究定位：不是为了证明 STAT 的单一因果效应，而是展示综合性改革中[[Formative Program Evaluation|形成性项目评价]]、[[Logic Model|逻辑模型]]和多方解释如何共同影响项目持续性(pp.121-124)。
 
 ## 论证结构
@@ -139,7 +140,7 @@ citation_aliases:
 
 12. BCPS 的 [[Students and Teachers Accessing Tomorrow|STAT]] 项目不是单一软件，而是全学区 [[Technology Infusion|技术融入]]改革。它包括教师专业发展、技术教练、设备配置、数字内容、课堂实践改变和长期学生表现目标(pp.114-116)。
 
-13. 评价设计也不是单一测验，而是多源[[Formative Program Evaluation|形成性项目评价]]：教师[[Questionnaire|问卷]]、学生焦点小组、校长和教师访谈、课堂观察、行为数据以及 ELA 和数学成就数据。这样的设计更适合跟踪“改革是否正在发生”，而不是直接证明某个单一组件的因果效应(pp.115-118)。
+13. 评价设计也不是单一测验，而是多源[[Formative Program Evaluation|形成性项目评价]]：教师[[Questionnaire|问卷]]、学生[[Focus Group|焦点小组]]、校长和教师访谈、课堂观察、行为数据以及 ELA 和数学成就数据。这样的设计更适合跟踪“改革是否正在发生”，而不是直接证明某个单一组件的因果效应(pp.115-118)。
 
 14. [[Formative Assessment|形成性评价]]显示了多个中间成果：教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学都有进展；课堂中更明显的变化是从教师主导转向学生中心，并伴随数字工具使用增加(pp.118-119, 122)。
 

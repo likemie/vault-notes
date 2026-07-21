@@ -8,7 +8,7 @@ aliases:
 summary: "研究规划的实操评估概念，涵盖研究准入、研究者自身、时间、资源、研究影响力和研究范围六个约束维度，以及对应的九项自检清单，确保研究在实际约束下可以完成"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Longitudinal Study]]"
+  - "[[Focus Group]]"
   - "[[Internet-based Survey]]"
   - "[[Archival Research]]"
   - "[[Qualitative Interview]]"
@@ -94,7 +95,7 @@ updated: 2026-06-20
 > [!warning] 时间框架可能直接排除某些研究类型
 > 如果研究者只有六到九个月来规划、执行和报告整个研究，提出一项[[Longitudinal Study|纵向研究]]是荒谬的。时间框架直接决定了哪些研究类型是可能的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
-需要考虑三个层面的时间约束：研究的整体时间段是否允许所选研究类型；研究者自身的时间可用性（许多研究者在职学习，研究往往是孤立的一人之事）；参与者的时间可用性（他们是否愿意且能够投入时间参与访谈、记日记、跟进汇报和焦点小组）。
+需要考虑三个层面的时间约束：研究的整体时间段是否允许所选研究类型；研究者自身的时间可用性（许多研究者在职学习，研究往往是孤立的一人之事）；参与者的时间可用性（他们是否愿意且能够投入时间参与访谈、记日记、跟进汇报和[[Focus Group|焦点小组]]）。
 
 ---
 

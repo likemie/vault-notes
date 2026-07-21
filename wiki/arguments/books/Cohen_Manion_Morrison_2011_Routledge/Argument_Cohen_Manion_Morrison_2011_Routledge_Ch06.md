@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -78,6 +78,7 @@ related_methods:
   - "[[Comparative Case Study]]"
   - "[[Grounded Theory]]"
   - "[[Longitudinal Study]]"
+  - "[[Focus Group]]"
   - "[[Internet-based Survey]]"
   - "[[Archival Research]]"
   - "[[Qualitative Interview]]"
@@ -390,7 +391,7 @@ updated: 2026-06-19
 > [!assumptions] 三个层面的时间约束
 > 1. **研究的整体时间段** 可用时间是否允许所选研究类型？六到九个月的时间框架无法容纳纵向研究。
 > 2. **研究者自身的时间可用性** 许多研究者在职学习，研究往往是孤立的一人之事，而非有全职研究者的团队。
-> 3. **参与者的时间可用性** 他们是否愿意且能够投入时间参与访谈、记日记、跟进汇报和焦点小组？
+> 3. **参与者的时间可用性** 他们是否愿意且能够投入时间参与访谈、记日记、跟进汇报和[[Focus Group|焦点小组]]？
 
 ---
 

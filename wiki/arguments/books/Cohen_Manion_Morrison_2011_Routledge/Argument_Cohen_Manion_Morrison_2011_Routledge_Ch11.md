@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -83,6 +83,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Interview]]"
   - "[[Participant Observation]]"
+  - "[[Focus Group]]"
   - "[[Purposeful Sampling]]"
   - "[[Grounded Theory]]"
   - "[[Case Study]]"
@@ -146,7 +147,7 @@ updated: 2026-07-11
 > |------|------------|--------|---------|
 > | 核心特征 | 在自然、非人为情境中研究；研究者在场干预尽可能少。 | 源自人类学传统；长期沉浸于一个文化群体，整体性地描述其共享模式。 | 采集言语、听觉、观察等非数值数据；回答"如何"和"为什么"的问题。 |
 > | 时间要求 | 通常需要长期驻留，以观察事件重复发生。 | 必须长期驻留，与群体建立信任和内部人视角。 | 可以是短期一次性的（如[[Qualitative Interview\|质性访谈]]），不强制长期驻留。 |
-> | 典型方法 | [[Participant Observation\|参与观察]]、访谈、文档分析、非干扰性方法。 | 以参与观察为核心；民族志学者是"方法论杂食者"。 | 半结构化访谈、焦点小组、文档分析、质性调查等。 |
+> | 典型方法 | [[Participant Observation\|参与观察]]、访谈、文档分析、非干扰性方法。 | 以参与观察为核心；民族志学者是"方法论杂食者"。 | 半结构化访谈、[[Focus Group\|焦点小组]]、文档分析、质性调查等。 |
 > | [[Epistemology\|认识论]]根基 | Lincoln & Guba（1985）的[[Interpretive Paradigm\|自然主义探究]]公理。 | Malinowski（1922）的"把握土著视角"；Geertz（1973）的[[Rich and Thick Description\|厚描述]]。 | 诠释[[Paradigm\|范式]]的一般前提：意义由参与者建构，情境不可剥离。 |
 > | 概括性 | 可比较性和可翻译性（LeCompte & Preissle, 1993）。 | 可比较性和可翻译性；厚描述支撑[[Naturalistic Generalization\|自然主义概括]]。 | 不追求统计概括；通过丰富描述支撑迁移性判断。 |
 

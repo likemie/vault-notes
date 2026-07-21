@@ -25,6 +25,7 @@ related_concepts:
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
+  - "[[Focus Group]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
 related_instruments: []
@@ -45,7 +46,7 @@ updated: 2026-07-01
 
 ## 工具定位
 
-> [!instrument-profile] ToK 访谈与焦点小组协议
+> [!instrument-profile] ToK 访谈与[[Focus Group|焦点小组]]协议
 > - **工具类型** 半结构化访谈与焦点小组工具，适用于教师、学生和行政人员三类受访群体。
 > - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
 > - **测量目的** 收集受访者对 ToK 课程价值、[[Critical Thinking|批判性思维]]教学实践、学校实施方式和自身经验的主观看法。
@@ -101,7 +102,7 @@ updated: 2026-07-01
 > | 19 | 身份与哲学 | ToK 或批判性思维与你的身份有何关联？<br><small>How does ToK or critical thinking relate to your identity?</small> | — | 同上 |
 > | 20 | 身份与哲学 | 你理解哲学吗？<br><small>Do you understand philosophy?</small> | 哲学与 ToK 或批判性思维有何关系？ | 同上 |
 
-> [!interview-guide] 焦点小组讨论主题
+> [!interview-guide] [[Focus Group|焦点小组]]讨论主题
 > <span class="instrument-interview-table-marker" aria-hidden="true"></span>
 >
 > | 编号 | 主题或维度 | 核心问题 | 可选追问 | 来源 |
@@ -130,7 +131,7 @@ updated: 2026-07-01
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文原始版 | 四所 NSW 学校：22 次教师访谈（40 分钟/人）、8 组学生焦点小组（30 分钟/组，4–7 人）、5 次行政人员访谈 | — | 与课堂观察和文件分析[[Triangulation\|三角验证]]后，识别出四校在 ToK 概念化和[[Operationalization\|操作化]]上的四种差异模式 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文原始版 | 四所 NSW 学校：22 次教师访谈（40 分钟/人）、8 组学生[[Focus Group\|焦点小组]]（30 分钟/组，4–7 人）、5 次行政人员访谈 | — | 与课堂观察和文件分析[[Triangulation\|三角验证]]后，识别出四校在 ToK 概念化和[[Operationalization\|操作化]]上的四种差异模式 |
 
 ---
 

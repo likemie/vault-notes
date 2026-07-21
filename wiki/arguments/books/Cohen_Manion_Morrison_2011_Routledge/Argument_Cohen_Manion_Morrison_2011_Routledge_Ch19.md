@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -74,6 +74,7 @@ related_methods:
   - "[[Projection Technique]]"
   - "[[Agent-based Modelling]]"
   - "[[Triangulation]]"
+  - "[[Focus Group]]"
   - "[[Mixed Methods Research]]"
   - "[[Design-Based Research]]"
   - "[[Internet-based Survey]]"
@@ -380,7 +381,7 @@ updated: 2026-07-19
 > | 阶段 | 关键决策 | 操作细节 |
 > |---|---|---|
 > | **抽样** | 代表性样本 | 中等教育阶段青少年；无法涵盖所有人，抽取公平（有代表性）样本以使发现可靠推广回更广泛总体。样本需包括男性和女性、不同年龄段、文化背景、宗教信仰等，按正确比例。为避免样本过于庞杂，需限制声明范围：如特定年龄段或年级，对**试图推广到的总体保持明确**。 |
-> | **[[Questionnaire\|问卷]]开发** | 焦点小组→主题→项目 | 通过与总体代表进行焦点小组讨论开发问卷。识别人口因素、身份、公民身份、宽容和赋权的关键主题和项目。为每个主题设计多个 Likert 式问题，由焦点小组评估每个项目的**相关性、清晰度和适合度**。修改后在实验前[[Pre-test and Post-test\|后测]]量。 |
+> | **[[Questionnaire\|问卷]]开发** | [[Focus Group\|焦点小组]]→主题→项目 | 通过与总体代表进行焦点小组讨论开发问卷。识别人口因素、身份、公民身份、宽容和赋权的关键主题和项目。为每个主题设计多个 Likert 式问题，由焦点小组评估每个项目的**相关性、清晰度和适合度**。修改后在实验前[[Pre-test and Post-test\|后测]]量。 |
 > | **虚拟环境** | 类似 Second Life 但自托管 | 构建类似 Second Life 的虚拟环境，但安全托管在自有计算机上，仅通过**安全密码系统**进入以解决访问顾虑。环境包含从焦点小组讨论开发的物品清单（inventory）。化身访问清单选择和使用物品，每次必须附加价值观和相关定义。价值观和定义存储在**价值观词典（Values Dictionary）**中，随时间积累。 |
 > | **[[Independent Variable\|自变量]]** | 问卷收集 | 通过问卷收集基本人口统计信息，用作分析中的[[Independent Variable\|自变量]]；同时测量适当的公民身份相关态度。 |
 

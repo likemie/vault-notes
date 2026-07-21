@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -89,6 +89,8 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
+  - "[[Group Interview]]"
+  - "[[Focus Group]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
 related_persons: []
@@ -723,7 +725,7 @@ updated: 2026-07-13
 > - 量化测量可能只产生**比较表面**的信息
 > - 为探测文化**表层之下**，需结合量化和质性方法论
 > - 将使用**混合方法论**，同时使用数字和语言数据，以收集全面、可靠的数据
-> - **调查方法**用于获取整体画面；**个体和小组访谈及焦点小组**实现更细粒度的分析
+> - **调查方法**用于获取整体画面；**个体和[[Group Interview|小组访谈]]及[[Focus Group|焦点小组]]**实现更细粒度的分析
 
 #### 5. 工具
 

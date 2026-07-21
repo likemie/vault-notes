@@ -6,7 +6,7 @@ summary: "在项目实施过程中持续收集多源证据并反馈给利益相�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Absorptive Capacity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Focus Group]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Ross_Morrison_2021_ROE]]"
@@ -56,7 +57,7 @@ updated: '2026-05-23'
 > [!example]
 > [[Formative Assessment|形成性评价]]通常先建立[[Logic Model|逻辑模型]]，再围绕输入、即时输出、短期结果和长期结果收集多源数据，并在项目推进过程中持续反馈给利益相关者([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115, 123-124]])。
 
-在 [[Students and Teachers Accessing Tomorrow]] 中，形成性评价使用教师[[Questionnaire|问卷]]、学生焦点小组、校长与教师访谈、课堂教师焦点小组、课堂观察、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115-118, 121-124]])。
+在 [[Students and Teachers Accessing Tomorrow]] 中，形成性评价使用教师[[Questionnaire|问卷]]、学生[[Focus Group|焦点小组]]、校长与教师访谈、课堂教师焦点小组、课堂观察、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115-118, 121-124]])。
 
 > [!info]- 核心数据
 > - STAT 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。

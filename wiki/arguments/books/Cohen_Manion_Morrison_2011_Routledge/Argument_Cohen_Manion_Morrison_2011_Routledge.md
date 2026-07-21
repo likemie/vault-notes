@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 142
+argument_related_count: 148
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -97,6 +97,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Statistical Significance]]"
   - "[[Descriptive Analysis]]"
+  - "[[Probes]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
@@ -150,6 +151,10 @@ related_methods:
   - "[[Projection Technique]]"
   - "[[Pilot Testing]]"
   - "[[Grounded Theory]]"
+  - "[[Qualitative Interview]]"
+  - "[[Group Interview]]"
+  - "[[Focus Group]]"
+  - "[[Interview Protocol]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts:
@@ -176,6 +181,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of:
@@ -236,6 +242,7 @@ updated: 2026-07-18
 > | 第38章 Inferential statistics: regression analysis and standardization | | |
 > | 第39章 Factor analysis, cluster analysis and structural equation modelling | | |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|第14章]] | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|第21章 Interviews]] | 系统介绍[[Qualitative Interview\|访谈法]]的全流程：从Kitwood三种访谈观（信息传输、偏差交易、社会遭遇）、访谈的五组连续体与"适合目的"原则、Kvale七阶段规划模型（主题化—设计—访谈—转录—分析—验证—报告）、提纲构建（Kerlinger三种项目类型、Tuckman问题格式与回答模式、提示与追问、访谈控制问题）、访谈实施（引导程度、质量标准、文化因素），到[[Group Interview\|小组访谈]]、访谈儿童、访谈边缘群体、[[Focus Group\|焦点小组]]（Morgan集体互动模型）、非引导性/聚焦/问题中心/深度访谈、电话访谈（含电子邮件访谈），以及知情同意、保密性与数据所有权等全流程伦理议题。 | [[Qualitative Interview]]、[[Focus Group]]、[[Group Interview]]、[[Interview Protocol]]、[[Probes]] |
 > > [!knowledge-map]- 知识路线图
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Knowledge_Map.jpg)
 

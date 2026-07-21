@@ -9079,6 +9079,17 @@
     ]
   },
   {
+    "title": "Focus Group",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Focus Group.md",
+    "aliases": [
+      "焦点小组",
+      "焦点团体",
+      "focus groups",
+      "focus group interview"
+    ]
+  },
+  {
     "title": "Grounded Theory",
     "type": "method",
     "path": "wiki/methods/qualitative/Grounded Theory.md",
@@ -9086,6 +9097,17 @@
       "扎根理论",
       "扎根理论方法",
       "grounded theory approach"
+    ]
+  },
+  {
+    "title": "Group Interview",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Group Interview.md",
+    "aliases": [
+      "小组访谈",
+      "群体访谈",
+      "group interviewing",
+      "group interviews"
     ]
   },
   {
@@ -9358,6 +9380,15 @@
     "aliases": [
       "系统综述",
       "系统性综述"
+    ]
+  },
+  {
+    "title": "Template Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Template Analysis.md",
+    "aliases": [
+      "模板分析",
+      "模板分析法"
     ]
   },
   {
@@ -10546,7 +10577,6 @@
     "path": "wiki/persons/china/Confucius.md",
     "aliases": [
       "孔子",
-      "Kongzi",
       "Kong Qiu",
       "孔丘"
     ]
@@ -11149,7 +11179,8 @@
     "aliases": [
       "Vygotsky, L.",
       "维果茨基",
-      "列夫·维果茨基"
+      "列夫·维果茨基",
+      "维高斯基"
     ]
   },
   {
@@ -11488,6 +11519,14 @@
       "迈克尔·杨",
       "M. F. D. Young",
       "Young, M. F. D."
+    ]
+  },
+  {
+    "title": "Michele Schweisfurth",
+    "type": "person",
+    "path": "wiki/persons/uk/Michele Schweisfurth.md",
+    "aliases": [
+      "Schweisfurth, M."
     ]
   },
   {
@@ -12407,6 +12446,16 @@
       "中国科技体制改革",
       "China science and technology innovation policy",
       "China S&T system reform"
+    ]
+  },
+  {
+    "title": "Gaokao",
+    "type": "fact",
+    "path": "wiki/facts/china/Gaokao.md",
+    "aliases": [
+      "高考",
+      "普通高等学校招生全国统一考试",
+      "National College Entrance Examination"
     ]
   },
   {
@@ -14754,6 +14803,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

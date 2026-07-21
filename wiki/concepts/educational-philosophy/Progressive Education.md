@@ -9,10 +9,10 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 34
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 related_concepts:
   - "[[Rote Learning]]"
   - "[[Policy Borrowing]]"

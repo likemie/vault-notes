@@ -49,6 +49,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Triangulation]]"
   - "[[Convenience Sampling]]"
+  - "[[Focus Group]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Longitudinal Study]]"
 related_persons:
@@ -73,7 +74,7 @@ title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -146,7 +147,7 @@ journal: "Australian Journal of Education"
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **抽样策略** | [[Convenience Sampling\|便利抽样]]，即选择四所 NSW 提供 IB DP 的学校作为深度[[Case Study\|案例研究]]地点 |
-> | **材料一：半结构化访谈** | 22 次教师访谈（每次约 40 分钟）、8 组学生焦点小组（每次约 30 分钟，每组 4–7 名学生）、5 次行政人员访谈。访谈问题围绕受访者如何看待 ToK 课程、ToK 在课程体系中的位置及其价值（完整问题清单见附录 A） |
+> | **材料一：半结构化访谈** | 22 次教师访谈（每次约 40 分钟）、8 组学生[[Focus Group\|焦点小组]]（每次约 30 分钟，每组 4–7 名学生）、5 次行政人员访谈。访谈问题围绕受访者如何看待 ToK 课程、ToK 在课程体系中的位置及其价值（完整问题清单见附录 A） |
 > | **材料二：课堂观察** | 10 次 ToK 课堂观察，记录教师如何教授 ToK、学生如何回应教学法、课堂中应用了哪些批判性思维要素、教学法的有效性受哪些因素影响（观察重点见附录 A） |
 > | **材料三：文件分析** | 学校与 ToK 相关的[[Document\|文件]]，包括学校报告、课程文件、学生帮助指南 |
 > | **分析策略** | 质性数据由研究团队经过严格讨论后就质性主题达成一致，试图框架和发展 ToK 在四所学校中的运作方式。研究者在四个月内定期返回学校（最多 4 次/校），进行后续访谈、额外观察和澄清，特别是关于 ToK 是否以及如何为批判性思维技能发展提供了平台 |

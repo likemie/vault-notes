@@ -9,7 +9,7 @@ summary: "质性访谈中用于指导问题提问和记录回答的一至两页�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -22,18 +22,25 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Probes]]"
   - "[[Abstract]]"
+  - "[[Reliability]]"
+  - "[[Construct]]"
+  - "[[Leading Questions]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Interview]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Focus Group]]"
   - "[[Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-07-22
 ---
 
 # Interview Protocol
@@ -95,10 +102,47 @@ updated: 2026-06-01
 
 ---
 
+## 提纲项目的类型
+
+Kerlinger（1970）区分了访谈提纲中使用的三种项目类型（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 420–422]]）：
+
+> [!abstract] 三种项目类型
+> - **固定选项项目（Fixed-alternative items）** 受访者从两个或多个预设选项中选择——最常见的是二分项目（是/否、同意/不同意），有时提供第三选项（"未决定"或"不知道"）。优势：更大测量一致性、更高[[Reliability|信度]]、受访者按固定类别回答、易于[[Coding in Qualitative Research|编码]]。局限：表面性；可能激怒找不到合适选项的受访者；可能产生不适当的强制回应——所选选项可能掩盖无知或不准确反映真实情况。
+> - **开放式项目（Open-ended items）** 为受访者回答提供参照框架，但对回答内容和表达方式施加最少限制。优势：灵活、允许追问、测试受访者知识边界、鼓励合作和建立融洽关系、可能产生意外答案。一种特殊形式是"漏斗"（funnel）——从宽泛问题开始逐步收窄到更具体的问题。
+> - **量表项目（Scale items）** 一组言语项目，受访者对每个项目指示同意或不同程度。可与开放式问题结合使用——量表分数可通过开放式问题引出的数据进行核验。
+
+## 问题格式与回答模式
+
+Tuckman（1972）区分了**四种问题格式**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 423–425]]）：直接与间接形式（间接形式通过让目的不那么明显来鼓励坦率回应）；一般与具体问题（具体问题可能使受访者变得谨慎或戒备）；事实与意见问题（两者都可能产生不真实回答——偏差可通过仔细结构化问题最小化）；以及问题与陈述（受访者被要求回应一个陈述而非问题）。
+
+Kvale（1996: 133–135）补充了"过程问题"的功能分类：引入话题的问题、跟进话题或想法的问题、追问更多信息或回应的问题、要求具体化和提供例子的问题、直接询问信息的问题、间接询问信息的问题、解释受访者回答的问题（p.425）。
+
+Spradley（1979）和 Patton（1980）按内容实质分类问题：描述性问题、经验问题、行为问题、知识问题、[[Construct|构念]]形成问题、对比问题、感受问题、感官问题、背景问题、人口学问题（p.425）。
+
+Tuckman（1972）列出了**八种回答模式** 非结构化回答（最大自由度但难以[[Coding in Qualitative Research|编码]]）、结构化回答（限制回应方式但易量化）、填空式回答（要求提供而非选择回应）、表格回答（简洁记录复杂信息的方式）、量表回答（以等级序列结构化——收集时即为可使用和分析的数据）、排序回答（按特定标准排序——可通过汇总形成总体排序）、勾选回答（从备选项中选一——名义类别）、类别回答（仅两种可能——同样产生名义测量）（pp.428–433）。
+
+> [!example]- Table 21.3：回答模式的选择（Tuckman, 1972）
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_21_Table21-3_Response_Mode_Selection.jpg)
+
+## 提示与追问
+
+在半结构化访谈提纲中，除每个话题的开放问题外，还需要为每个话题、议题和问题准备一系列**提示（prompts）和追问（[[Probes]]）（Morrison, 1993: 66）**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 433–435]]）：
+
+- **提示（Prompts）** 帮助访谈者澄清话题或问题——特别是受访者似乎未理解、误解或请求更多指导时。
+- **追问（Probes）** 促使访谈者要求受访者扩展、详细说明、增添细节、澄清或限定其回应，解决丰富性、深度、全面性和诚实性等问题。追问可以简单如"为什么"，也可以是：重复问题、用疑问语气重复回答、表达兴趣和理解、请求澄清或例子或进一步阐述，或甚至只是暂停。
+
+Aldridge 和 Levine（2001: 119）区分了两种追问类型：寻求更详细事实信息的追问，和鼓励受访者详细阐述其叙述或意见的追问。追问可以从较少侵入（暂停等待受访者多说——或发出"嗯"的声音以表明紧密关注）到较多侵入（重复受访者说的短语或想法然后请求更多信息——或总结核验"我的理解对吗——你是在说……？"然后追问——请求例子或实例——请求澄清——甚至礼貌且尊重地挑战或核验）。
+
+Fowler（2009: 139）提醒——访谈者提示和追问越多，偏差进入访谈的可能性越大——倾向于标准化措辞，只有在受访者不清楚时才提供进一步解释。
+
+设计问题时还需注意（Arksey 和 Knight, 1999: 93–95）：所用词汇保持简单、避免偏见性语言、避免模糊和不精确、[[Leading Questions|引导性问题]]（需决定使用是否合理）、避免双重问题（一次问一个以上要点）、避免预设[[Hypothesis|假设]]的问题、假设性或推测性问题、敏感或个人问题（是否提问或回避）以及受访者回忆难度的考量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 422–423]]）。
+
+---
+
 ## 适用场景
 
 > [!success]
-> 访谈协议适用于所有采用[[Qualitative Interview|质性访谈]]作为数据收集方式的研究，包括一对一访谈和焦点小组访谈。它确保访谈的一致性和系统性，同时通过追问为数据深度留有空间。在涉及多个访谈者或需要跨案例比较的研究中，统一的访谈协议尤为关键。
+> 访谈协议适用于所有采用[[Qualitative Interview|质性访谈]]作为数据收集方式的研究，包括一对一访谈和[[Focus Group|焦点小组]]访谈。它确保访谈的一致性和系统性，同时通过追问为数据深度留有空间。在涉及多个访谈者或需要跨案例比较的研究中，统一的访谈协议尤为关键。
 
 ---
 

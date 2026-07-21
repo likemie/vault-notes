@@ -8,7 +8,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
+  - "[[Focus Group]]"
   - "[[Formative Program Evaluation]]"
 related_persons: []
 related_facts: []
@@ -62,7 +63,7 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> STAT 的实施包括教师专业发展、STAT teachers 与同事支持、课堂设备、数字内容和教学规划资源。项目评价使用教师[[Questionnaire|问卷]]、学生焦点小组、校长与 STAT teachers 访谈、课堂教师焦点小组、课堂观察、行为数据以及 ELA 和数学成就数据([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115-118]])。
+> STAT 的实施包括教师专业发展、STAT teachers 与同事支持、课堂设备、数字内容和教学规划资源。项目评价使用教师[[Questionnaire|问卷]]、学生[[Focus Group|焦点小组]]、校长与 STAT teachers 访谈、课堂教师焦点小组、课堂观察、行为数据以及 ELA 和数学成就数据([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.115-118]])。
 
 > [!info]- 核心数据
 > - 教师问卷在 2016、2017、2018 年秋季分别有 2,209、1,798、1,901 名教师回应([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.116]])。

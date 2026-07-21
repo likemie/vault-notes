@@ -9,7 +9,7 @@ summary: "质性研究中将最终报告或特定描述和主题带回给参与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
+  - "[[Focus Group]]"
   - "[[Case Study]]"
   - "[[Triangulation]]"
   - "[[Participatory Research]]"
@@ -53,7 +54,7 @@ updated: 2026-07-11
 3. 询问参与者这些分析结果是否准确反映了他们的经验和观点
 4. 根据参与者的反馈调整和完善分析结果
 
-常见的操作方法包括在研究中组织一次后续的焦点小组访谈，让参与者对研究发现发表评论（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch9]]）。
+常见的操作方法包括在研究中组织一次后续的[[Focus Group|焦点小组]]访谈，让参与者对研究发现发表评论（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch9]]）。
 
 成员核查是八种[[Qualitative Validity|质性效度]]策略中使用最频繁、最容易实施的策略之一（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch9]]）。
 
