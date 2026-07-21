@@ -10,10 +10,10 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
@@ -64,7 +64,7 @@ updated: '2026-07-21'
 > [!citation-card]- 关键表述
 > 在近几十年来，以学习者为中心的教育在全球范围内得到了广泛的推广。（p.588）
 >
-> *"LCE has been widely promoted around the globe in recent decades" ([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p. 588]])*
+> *"LCE has been widely promoted around the globe in recent decades" [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]*
 
 > [!boundary]- 概念边界
 > - 不等于 教师主导教学法 — 教师主导教学法以教师系统讲授和反复练习为核心；但在高利害考试环境下，两者并非绝对对立，当 LCE 被证明有助于攻克高阶考题或提升课堂效率时，教师主导模式可获得局部松解。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 594–600)]]
@@ -128,8 +128,8 @@ updated: '2026-07-21'
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **[[Test-Based Accountability\|考试问责]]与 LCE 协同机制** | LCE 可通过共享客体重构为提升高阶考分与课堂效率的工具，实现与应试的并行协同 | 高利害考试问责环境下谋求突破性提分的学校 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; Schweisfurth (2015) |
-> | **跨文化再情境化与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式对话共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing\|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; You (2019) |
+> | **[[Test-Based Accountability\|考试问责]]与 LCE 协同机制** | LCE 可通过共享客体重构为提升高阶考分与课堂效率的工具，实现与应试的并行协同 | 高利害考试问责环境下谋求突破性提分的学校 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 598–602)]]; Schweisfurth (2015) |
+> | **跨文化再情境化与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式对话共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing\|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–603)]]; You (2019) |
 
 ---
 
@@ -162,7 +162,7 @@ updated: '2026-07-21'
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2013 — 最低实施标准与全球脉络提炼** Schweisfurth 系统提出 LCE 的 7 项最低实施标准，分析其在全球教育改革中的广泛传播与本土落地的复杂性。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
+> - **2013 — 最低实施标准与全球脉络提炼** Schweisfurth 系统提出 LCE 的 7 项最低实施标准，分析其在全球教育改革中的广泛传播与本土落地的复杂性。
 > - **2015 — [[Policy Borrowing|政策借用]]与 post-2015 全球教育议程** Schweisfurth 进一步将 LCE 置于跨国政策借用视域下，指出高应试绩效地区往往存在 LCE 落地阻力，呼吁重新审视教学法改革的语境适应性。
 > - **2019 — 中国双轨制改革张力** You 揭示了中国在推进[[Quality Education|素质教育]]中，LCE 话语与[[Examination-Oriented Education|应试教育]]实质并存的双轨张力。
 > - **2021 — 概念内涵的多元与情境化转向** Bremner 系统梳理 LCE 的多重定义，倡导放弃僵化的单一西方标准，采取更具包容性与情境化的灵活定义。
@@ -175,7 +175,7 @@ updated: '2026-07-21'
 > [!debates] 学术争议
 >
 > > [!axis] 定义的模糊性与语境灵活性
-> > LCE 在全球实践中被赋予了多种甚至相互冲突的内涵。部分学者坚持严格的西方进步主义标准，而 Bremner (2021) 等学者则主张摒弃二元对立，采用情境化、灵活的定义，认可不同文化对“以学生为中心”的差异化理解。
+> > LCE 在全球实践中被赋予了多种甚至相互冲突的内涵。部分学者坚持严格的西方进步主义标准，而部分学者则主张摒弃二元对立，采用情境化、灵活的定义，认可不同文化对“以学生为中心”的差异化理解。
 > >
 > > - **Bremner（2021）** 呼吁采取情境化定义，尊重本地教育者对教育目的与教学法的理解。
 > > - **Schweisfurth（2013）** 强调应确立最低实施标准，防止 LCE 被任意泛化或标签化。
@@ -184,13 +184,13 @@ updated: '2026-07-21'
 > > 在将西方起源的 LCE 引入非西方语境时，存在[[Cultural Validity|文化适切性]]与“政策话语”与“课堂现实”割裂的争议。
 > >
 > > - **You（2019）** 指出存在[[Quality Education|素质教育]]修辞与[[Examination-Oriented Education|应试教育]]实质并存的二元系统，LCE 易流于形式。
-> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]** 认为 LCE 能与儒家启发式对话传统产生文化共振，在重构后可深植于本土实践。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–602)]]
+> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp. 601–602)]]** 认为 LCE 能与儒家启发式对话传统产生文化共振，在重构后可深植于本土实践。
 >
 > > [!axis] 理想型民主公民培养与高利害应试环境的[[Pragmatic Paradigm|实用主义]]转向
 > > 理想型西方 LCE 强调培养民主公民与学生参与决策；但在高利害考试文化下，LCE 被转向为服务于提分与效率的实用认知工具。
 > >
 > > - **Schweisfurth（2015）** 警惕[[Test-Based Accountability|考试问责]]对 LCE 民主与人性化价值的侵蚀。
-> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]** 证明实用主义转向是 LCE 在高压考试环境中生存并发挥积极作用的必然选择。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
+> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp. 602–603)]]** 证明实用主义转向是 LCE 在高压考试环境中生存并发挥积极作用的必然选择。
 
 ---
 
