@@ -9138,14 +9138,23 @@
     ]
   },
   {
+    "title": "In-depth Interview",
+    "type": "method",
+    "path": "wiki/methods/qualitative/In-depth Interview.md",
+    "aliases": [
+      "深度访谈",
+      "in-depth interview",
+      "in-depth interviews"
+    ]
+  },
+  {
     "title": "Interview Protocol",
     "type": "method",
     "path": "wiki/methods/qualitative/Interview Protocol.md",
     "aliases": [
       "访谈协议",
       "访谈提纲",
-      "interview guide",
-      "interview protocol"
+      "interview guide"
     ]
   },
   {
@@ -9339,8 +9348,6 @@
       "质性访谈",
       "qualitative interviews",
       "质性研究访谈",
-      "深度访谈",
-      "in-depth interview",
       "semi-structured interview"
     ]
   },

@@ -702,7 +702,7 @@ Teddlie & Tashakkori（2009: 180–91）指出，混合方法研究通常在同�
 >
 > **[[Parallel Mixed Methods Sampling|平行混合方法抽样]]（Parallel Mixed Methods Sampling）** 概率和非概率样本同时并排运行，彼此独立，一种样本的数据不影响另一种样本的数据收集。Onwuegbuzie & Leech（2007: 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）（p.165）。
 >
-> **[[Sequential Mixed Methods Sampling|顺序混合方法抽样]]（Sequential Mixed Methods Sampling）** 一种样本先于另一种并影响后续样本。例如定量数据为[[Qualitative Interview|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、[[Focus Group|焦点小组]]）为量化调查识别议题（pp.165–166）。
+> **[[Sequential Mixed Methods Sampling|顺序混合方法抽样]]（Sequential Mixed Methods Sampling）** 一种样本先于另一种并影响后续样本。例如定量数据为[[In-depth Interview|深度访谈]]设置场景（识别极端案例、关键案例、回应高度同质或高度变异的变量）；或定性数据（案例研究、[[Focus Group|焦点小组]]）为量化调查识别议题（pp.165–166）。
 >
 > **[[Multilevel Mixed Methods Sampling|多层次混合方法抽样]]（Multilevel Mixed Methods Sampling）** 不同分析单位层次使用不同类型样本，包括学生、班级、学校、地方当局、区域。Onwuegbuzie & Leech（2007: 240）指出多层次设计支持跨层次子组比较（如个体学生与教师），并提醒不同层次的子样本量通常不相等，如 30 名学生但只有 1–2 名教师（p.166）。
 
