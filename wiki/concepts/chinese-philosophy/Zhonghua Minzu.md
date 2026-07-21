@@ -7,7 +7,7 @@ aliases:
 summary: "梁启超 1902 年引入的现代国族概念，经费孝通 1988 年以多元一体格局重新阐释后进入中共主流话语，指以当代物理领土或汉文化为边界、包容 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 13
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -187,5 +187,3 @@ updated: '2026-07-22'
 > | [[Retrotopia]] | 概念 | 中华民族伟大复兴将理想国族定位投射于古代大一统的怀旧逻辑。 |
 > | [[Fei Xiaotong]] | 人物 | 提出“中华民族多元一体格局”的核心学者。 |
 > | [[Zhao Tingyang]] | 人物 | 提供“天下”理论为中华民族构建文明论基础的学者。 |
-> | [[Argument_Bulag_2024_CE|Bulag (2024)]] | 论证 | 批判中华民族多元一体论述中的汉人中心主义与同化转向。 |
-> | [[Argument_Xu_2024_CE|Xu (2024)]] | 论证 | 揭示历史教科书如何表达领土型与族裔文化型中华民族观。 |

@@ -21,7 +21,7 @@
 :root {
   --fs-label:   0.68em;
   --fs-caption: 0.78em;
-  --fs-table:   0.85em;
+  --fs-table:   0.90em;
   --fs-body:    0.92em;
   --fs-lead:    1.05em;
   --fs-display: 1.55em;
@@ -2883,9 +2883,9 @@
 .callout[data-callout="contrast-table"] td {
   vertical-align: top;
   border-color: rgba(126, 137, 150, 0.12);
-  line-height: 1.55;
-  padding: 0.45rem 0.55rem;
-  font-size: var(--fs-table);
+  line-height: 1.6;
+  padding: 0.5rem 0.65rem;
+  font-size: 0.93em;
 }
 
 .callout[data-callout="contrast-table"] th {
