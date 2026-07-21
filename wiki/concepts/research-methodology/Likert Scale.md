@@ -8,7 +8,7 @@ aliases:
 summary: "由Rensis Likert于1932年开发的评定量表技术，提供从强烈不同意到强烈同意等程度渐变的多级回应选项，核心假设为单维性——量表每次只应测量一件事"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
