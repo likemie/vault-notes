@@ -112,6 +112,7 @@ related_concepts:
   - "[[Face Validity]]"
   - "[[Interviewer Effects]]"
   - "[[Kitwood's Paradox]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Selectivity]]"
   - "[[Dependent Variable]]"
   - "[[Familiarization]]"
@@ -147,6 +148,7 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Random Sampling]]"
   - "[[Qualitative Observation]]"
+  - "[[Telephone Interview]]"
   - "[[Participant Observation]]"
   - "[[Observation Method]]"
 related_facts:
@@ -1211,7 +1213,7 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 
 ##### 电话访谈的特殊问题
 
-> [!challenges] 电话访谈的特殊问题（Miller & Cannell, 1997, pp.211–212）
+> [!challenges] [[Telephone Interview|电话访谈]]的特殊问题（Miller & Cannell, 1997, pp.211–212）
 > - **抽样问题** 并非人人有电话——电话普及率的差异可能引入系统性抽样偏差
 > - **短期记忆限制** 受访者只能保留一定量的信息——在没有书面"展示卡"的情况下，量表点和描述符的数量受到记忆容量的严格限制
 > - **缺少非语言线索** 面部表情、手势、姿势、沉默和暂停的意义全部丢失（Robinson, 1982）
@@ -1272,7 +1274,7 @@ Kvale (1996: 148–9) 列出了熟练访谈者应具备的素质（pp.214–215�
 
 ##### 访谈分析中的信度
 
-信度问题不仅存在于访谈的准备和进行中——它们还延伸到访谈的**分析**方式。Lee (1993) 和 Kvale (1996: 163) 评论了**"转录者选择性"（transcriber [[Selectivity]]）**问题（pp.215）：访谈转录——无论多么详细和完整——仍然是**选择性的**，因为它们是社会情境的**解释**。它们变为**去情境化的、抽象的**——即使记录了沉默、语调、非语言行为等。因此问题不在于它们是否完全可靠，而在于它们对研究者的**整体有用性**。
+信度问题不仅存在于访谈的准备和进行中——它们还延伸到访谈的**分析**方式。Lee (1993) 和 Kvale (1996: 163) 评论了**"[[Transcription in Qualitative Research|转录]]者选择性"（transcriber [[Selectivity]]）**问题（pp.215）：访谈转录——无论多么详细和完整——仍然是**选择性的**，因为它们是社会情境的**解释**。它们变为**去情境化的、抽象的**——即使记录了沉默、语调、非语言行为等。因此问题不在于它们是否完全可靠，而在于它们对研究者的**整体有用性**。
 
 ---
 

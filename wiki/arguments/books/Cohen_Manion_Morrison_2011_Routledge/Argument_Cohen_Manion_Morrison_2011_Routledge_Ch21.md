@@ -44,12 +44,13 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Document]]"
   - "[[Emergence]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Fitness for Purpose]]"
-  - "[[Questionnaire Wording]]"
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
   - "[[Conatus]]"
+  - "[[Active Listening]]"
   - "[[Construct]]"
   - "[[Chain of Evidence]]"
   - "[[Presence]]"
@@ -66,14 +67,19 @@ related_theories:
 related_methods:
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Focus Group]]"
   - "[[Group Interview]]"
+  - "[[Semi-structured Interview]]"
   - "[[Pilot Testing]]"
+  - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
+  - "[[Non-directive Interview]]"
+  - "[[Focused Interview]]"
   - "[[Projection Technique]]"
   - "[[Case Study]]"
   - "[[Action Research]]"
+  - "[[Telephone Interview]]"
 status: draft
 created: 2026-07-22
 updated: 2026-07-22
@@ -225,7 +231,7 @@ Morrison（1993, pp. 34–36）将多种连续体整合为五组（pp.414–416�
 > [!spectrum] 第一组：数据形式
 >
 > - **数字、统计数据、客观事实** 量化数据，追求精确测量
-> - **对话转录、主观叙述、质性数据** 基于词语的质性记录，呈现参与者原话
+> - **对话[[Transcription in Qualitative Research|转录]]、主观叙述、质性数据** 基于词语的质性记录，呈现参与者原话
 
 > [!spectrum] 第二组：问题类型
 >
@@ -272,8 +278,8 @@ Kvale（1996, p. 30）的十项[[Qualitative Interview|质性访谈]]特征（pp
 > [!feature] 四种研究访谈类型
 > - **结构化访谈** 内容和程序预先组织——问题顺序和措辞由[[Interview Protocol|访谈提纲]]确定，访谈者几乎没有修改自由。封闭情境。
 > - **非结构化访谈** 开放情境——更大灵活性和自由度。[[Research Purpose|研究目的]]支配提问，但内容、顺序和措辞完全由访谈者掌握。同样需仔细规划。
-> - **非引导性访谈** 源自治疗/精神病学访谈。访谈者施加最少方向或控制，受访者自由完整自发表达主观感受。Moser & Kalton（1977, p. 297）认为受访者应受鼓励谈论主题并自由引导访谈，访谈者应提示追问、要求澄清阐明、必要时重新措辞和总结并核验。
-> - **聚焦访谈** 聚焦于受访者对某一已知情境的主观反应，该情境已由研究者预先分析。Merton & Kendall（1946, p. 542）："在通常的深度访谈中，可以促使受访者回忆其经验。但在聚焦访谈中，访谈者可以在合适时扮演更积极的角色。"
+> - **[[Non-directive Interview|非引导性访谈]]** 源自治疗/精神病学访谈。访谈者施加最少方向或控制，受访者自由完整自发表达主观感受。Moser & Kalton（1977, p. 297）认为受访者应受鼓励谈论主题并自由引导访谈，访谈者应提示追问、要求澄清阐明、必要时重新措辞和总结并核验。
+> - **[[Focused Interview|聚焦访谈]]** 聚焦于受访者对某一已知情境的主观反应，该情境已由研究者预先分析。Merton & Kendall（1946, p. 542）："在通常的深度访谈中，可以促使受访者回忆其经验。但在聚焦访谈中，访谈者可以在合适时扮演更积极的角色。"
 
 ---
 

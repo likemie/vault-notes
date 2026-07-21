@@ -28,7 +28,8 @@ related_concepts:
   - "[[Neocorporatism]]"
   - "[[Selectivity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Semi-structured Interview]]"
 related_persons: []
 related_facts:
   - "[[Europe 2020 Strategy]]"
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 > YOUNG_ADULLLT 项目的核心设计如下([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]])：
 >
 > - **资助框架** Horizon 2020（Grant No 693167）
-> - **研究方法** 半结构式访谈（semi-structured interviews）
+> - **研究方法** 半结构式访谈（[[Semi-structured Interview|semi-structured interviews]]）
 > - **样本规模** 168 名[[Lifelong Learning|终身学习]]政策专家
 > - **覆盖范围** 9 个欧盟成员国的 16 个 NUTS2 区域
 >   - 奥地利（2 区）、保加利亚（2 区）、德国（2 区）、西班牙（2 区）

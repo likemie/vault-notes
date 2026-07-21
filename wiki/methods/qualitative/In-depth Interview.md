@@ -25,6 +25,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Sample Size Determination]]"
   - "[[Reflexivity]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Emergence]]"
   - "[[Progressive Focussing]]"
   - "[[Central Question]]"
@@ -101,7 +102,7 @@ updated: 2026-07-22
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research|质性研究]]，常嵌入[[Case Study|案例研究]]、[[Ethnography|民族志]]或[[Grounded Theory|扎根理论]]
-> - **数据收集** 半结构化一对一访谈、[[Interview Protocol|访谈协议]]、录音与转录
+> - **数据收集** 半结构化一对一访谈、[[Interview Protocol|访谈协议]]、录音与[[Transcription in Qualitative Research|转录]]
 > - **分析方法** [[Coding in Qualitative Research|编码]]、主题分析、[[Phenomenology|现象学]]分析、叙事分析
 > - **辅助技术** 渐进式聚焦法、追问策略、人员校验、[[Reflexivity|反身性]]记录
 

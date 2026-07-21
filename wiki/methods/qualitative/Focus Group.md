@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Reliability]]"
 related_methods:
   - "[[Group Interview]]"
@@ -69,7 +70,7 @@ updated: 2026-07-22
 > - **研究设计** [[Qualitative Research|质性研究]]设计，常与其他方法（个别访谈、[[Questionnaire|问卷]]、观察）[[Triangulation|三角互证]]。
 > - **数据收集** 同质性小组（4–12 人，Morgan 建议；6–8 人，Fowler 建议），半结构化话题指南，技能性主持，录音记录。
 > - **分析方法** 主题分析、内容分析、群体互动分析（关注参与者如何相互支持、影响、补充、同意和不同意）。
-> - **辅助技术** 过度招募（超额招募多达 20% 以应对缺席，Morgan, 1988: 44）；目的抽样确保每人是所需特征的承载者或群体具有所需背景的同质性；转录与[[Coding in Qualitative Research|编码]]。
+> - **辅助技术** 过度招募（超额招募多达 20% 以应对缺席，Morgan, 1988: 44）；目的抽样确保每人是所需特征的承载者或群体具有所需背景的同质性；[[Transcription in Qualitative Research|转录]]与[[Coding in Qualitative Research|编码]]。
 
 ---
 
@@ -82,7 +83,7 @@ updated: 2026-07-22
 > 4. **过度招募** 按多达 20% 的比例超额招募以应对当天缺席（Morgan, 1988: 44）。
 > 5. **准备话题指南** 半结构化，开放但聚焦——Newby（2010: 350–351）指出焦点小组应：议程和焦点清晰、在有利于讨论的环境中进行、有技能性主持人能促使发言并促进思考和反思。
 > 6. **主持讨论** 在过于引导和偏离要点之间取得平衡——保持会议开放但围绕要点。确保有东西可说的参与者且足够舒服说出来。
-> 7. **记录与转录** 需保存讨论记录。
+> 7. **记录与[[Transcription in Qualitative Research|转录]]** 需保存讨论记录。
 
 ---
 

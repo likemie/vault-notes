@@ -16,6 +16,7 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Reliability]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Test-Retest Reliability]]"
   - "[[Intercoder Agreement]]"
 related_theories: []
@@ -44,7 +45,7 @@ updated: 2026-06-01
 
 Gibbs（2007）提出了几种质性[[Reliability|信度]]程序（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
-1. **检查转录稿** 确保转录中没有明显的转录错误。
+1. **检查[[Transcription in Qualitative Research|转录]]稿** 确保转录中没有明显的转录错误。
 2. **确保[[Coding in Qualitative Research|编码]]定义不发生漂移** 在编码过程中，编码的含义不应发生转变。可以通过持续将数据与编码进行比较，并撰写关于编码及其定义的备忘录来实现。
 3. **团队研究中的沟通协调** 通过定期的记录会议和共享分析来协调编码者之间的沟通。
 4. **交叉检验不同研究者开发的编码** 通过比较独立得出的结果进行交叉检验。

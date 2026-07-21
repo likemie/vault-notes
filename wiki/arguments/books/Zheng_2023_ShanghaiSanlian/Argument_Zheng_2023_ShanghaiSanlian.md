@@ -37,6 +37,7 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Emergence]]"
   - "[[Goal-Controlled Mode]]"
@@ -97,6 +98,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Constructivist Grounded Theory]]"
   - "[[In-depth Interview]]"
+  - "[[Focused Interview]]"
   - "[[Cohort Study]]"
   - "[[Grounded Theory]]"
   - "[[Multiple Regression]]"
@@ -168,7 +170,7 @@ citation_aliases:
 > - **田野点** 两所化名为"北方大学"和"南方大学"的顶尖研究型大学——同为百年名校，但学科结构、精神传统和所在地构成系统性对比（北京"又红又专" vs 上海"自由而无用"）
 > - **样本** 62 名毕业班学生的跟踪式[[In-depth Interview|深度访谈]]（每人均保持联系至确定毕业去向），外加 8 名增补受访者用于第五章分析
 > - **抽样** 两阶段目的抽样——第一阶段 38 名男生（控制性别和 GPA），第二阶段补充 24 名（增加女生和弱势学生）；兼顾学科、家境、价值观内化程度的差异性分布
-> - **数据来源** 渐进式聚焦访谈（个人生活史→大学就读体验→人生价值与工作，平均约 3 小时，累计 >150 万字转录文本）+ 背景信息[[Questionnaire|问卷]] + 实地观察笔记
+> - **数据来源** 渐进式[[Focused Interview|聚焦访谈]]（个人生活史→大学就读体验→人生价值与工作，平均约 3 小时，累计 >150 万字[[Transcription in Qualitative Research|转录]]文本）+ 背景信息[[Questionnaire|问卷]] + 实地观察笔记
 > - **分析策略** 理论演绎与现象归纳循环迭代，从经验材料中[[Emergence|涌现]]类型化发现（韦伯意义上的"理念型"建构）
 
 
@@ -590,7 +592,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 > 追问至研究者感到自己"能够设身处地地理解被访者的出路选择策略为止"
 
 - 访谈时长：一般 2.5–3.5 小时，最长 6 小时
-- 录音转录：累计超过 150 万字
+- 录音[[Transcription in Qualitative Research|转录]]：累计超过 150 万字
 - 辅助来源：背景信息[[Questionnaire|问卷]]、实地观察笔记（校园文化风景/器物的拍摄与说明）、两校官方网站和典礼讲话、校友网络论坛描述
 
 **（e）资料分析方法——[[Constructivist Grounded Theory|建构主义扎根理论]]**
@@ -1183,7 +1185,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 5. **中国特色的二元精英路径** 在市场化就业和体制内选拔并行的制度环境下（二元精英职业路径），弱势学生并非注定成为迷失无从者——响应国家号召、获得组织支持的"价值归顺"路径为他们提供了一条体制化的向上流动通道。
 
 > [!info]- 核心数据
-> - 62 名跟踪式被访者 + 8 名增补受访者（第五章），累计转录文本 > 150 万字
+> - 62 名跟踪式被访者 + 8 名增补受访者（第五章），累计[[Transcription in Qualitative Research|转录]]文本 > 150 万字
 > - 三种工作意义图式：地位保障/家庭责任（101 参考点，54/70 激活）、家国理想/社会价值（65 参考点，26/70 激活）、个体趣味/自我表达（44 参考点，15/70 作为最重要）
 > - 约半数直觉依赖者在大学期间发生转变；转变者比天生目标掌控者多花费约一年的出路准备时间
 > - 2018 年中国高校毛入学率 48.1%；985 院校[[Recommendation-Based Graduate Admission System|推免]]比例可达 40% 以上

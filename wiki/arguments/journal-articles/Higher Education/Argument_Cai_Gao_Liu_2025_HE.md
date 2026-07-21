@@ -36,6 +36,7 @@ related_concepts:
 related_theories:
   - "[[Lefebvre's Spatial Triad]]"
 related_methods:
+  - "[[Semi-structured Interview]]"
   - "[[Purposeful Sampling]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
@@ -60,7 +61,7 @@ updated: 2026-06-11
 
 > [!stat-cards]+ 一页读懂
 > - **对象** 39 名大学教师，来自深圳、广州、香港、澳门四城，30 人确认为具有跨部门经验的关键节点
-> - **方法** 半结构化访谈（2023 年 9-11 月，每次约 1 小时），辅以政策文件、投资统计和资助计划
+> - **方法** [[Semi-structured Interview|半结构化访谈]]（2023 年 9-11 月，每次约 1 小时），辅以政策文件、投资统计和资助计划
 > - **理论**[[Lefebvre's Spatial Triad|Lefebvre 空间三元辩证法]] + Burt [[Structural Holes|结构洞]]理论
 > - **产出** GBA 空间通过关键节点教师填补结构性空洞而获得"真实"存在
 

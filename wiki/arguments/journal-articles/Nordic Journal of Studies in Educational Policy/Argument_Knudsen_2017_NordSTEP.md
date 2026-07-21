@@ -27,6 +27,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Champ]]"
   - "[[Science and Technology Studies]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
   - "[[Problem-Based Learning]]"
@@ -81,7 +82,7 @@ citation_aliases:
 > - 方法：半结构式 Skype 访谈
 > - 访谈对象：[[John Hattie]]（墨尔本大学）
 > - 时长与地点：2017 年初，Brisbane 与澳大利亚南海岸之间通过 Skype 进行(p.254)
-> - 数据处理：Knudsen 缩写并编辑了转录稿以使其可读，声称"尽可能忠实和精确"
+> - 数据处理：Knudsen 缩写并编辑了[[Transcription in Qualitative Research|转录]]稿以使其可读，声称"尽可能忠实和精确"
 > - Hattie 后续阅读了文本并对部分主题（特别是证据概念）进行了补充阐述
 >
 
@@ -135,7 +136,7 @@ citation_aliases:
 > - 耗费 6–7 年才形成"可见的"这一概念
 > - 援引 Graham Nuthall 的研究——教师看不到或听不到课堂中 80% 发生的事情
 > - 核心思想是"从谈论教学方式转向谈论教学的 impact"
-> - 一个 iPhone app 在三秒内将教师课堂语言转录为文字——7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%(p.257–258)
+> - 一个 iPhone app 在三秒内将教师课堂语言[[Transcription in Qualitative Research|转录]]为文字——7000–8000 名教师使用后发现教师说话占 70–80% 时间，但教师自认为只占 20–30%(p.257–258)
 >
 > ### 学习概念
 >
@@ -179,7 +180,7 @@ citation_aliases:
 > - 作为访谈而非研究论文，内容反映 Hattie 的自我陈述和立场辩护，需与其他来源交叉验证
 > - Knudsen 承认访谈"可能有些天真"——因为"没有人能单独控制教育思想和项目的接收和翻译"(p.253)
 > - Knudsen 未能如愿在奥克兰 [[Cognition Education|Cognition Education]] 办公室观察丹麦数据处理过程——这一请求被拒绝(p.254)
-> - 访谈通过 Skype 进行而非面对面，转录经编辑和缩写
+> - 访谈通过 Skype 进行而非面对面，[[Transcription in Qualitative Research|转录]]经编辑和缩写
 >
 
 ## 来源

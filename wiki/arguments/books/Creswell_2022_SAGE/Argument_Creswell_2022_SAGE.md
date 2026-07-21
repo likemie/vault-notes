@@ -122,6 +122,7 @@ related_concepts:
   - "[[Backyard Research]]"
   - "[[Saturation]]"
   - "[[Gatekeepers]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Probes]]"
   - "[[Simultaneous Procedures]]"
   - "[[Winnowing]]"
@@ -1477,7 +1478,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 |---|---|---|---|
 | [[Qualitative Observation\|质性观察]] | 在现场记录行为和活动的田野笔记；角色从完全参与者到完全观察者 | 一手经验、即时记录、可探索参与者不愿讨论的话题 | 可能被视为侵入、私人信息不可报告、观察技能不足 |
 | [[Qualitative Interview\|质性访谈]] | 面对面、电话或[[Focus Group\|焦点小组]]（6-8人）的非结构化和开放式问答 | 当无法直接观察时有用、可获取历史信息、问题线索可控 | 间接过滤信息、非自然场所、研究者在场偏差 |
-| [[Qualitative Documents\|质性文件]] | 公共文件（报纸、会议记录）或私人文件（日记、信件、电邮） | 获取参与者语言、非侵入性、节省转录时间 | 可能不完整或不真实、受保护信息、需要搜索 |
+| [[Qualitative Documents\|质性文件]] | 公共文件（报纸、会议记录）或私人文件（日记、信件、电邮） | 获取参与者语言、非侵入性、节省[[Transcription in Qualitative Research\|转录]]时间 | 可能不完整或不真实、受保护信息、需要搜索 |
 | [[Audiovisual, Social Media, and Digital Materials\|视听和数字材料]] | 照片、录像、网站、社交媒体文本、声音等 |
 
 > [!warning] 伦理问题

@@ -37,6 +37,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Longitudinal Study]]"
+  - "[[Semi-structured Interview]]"
   - "[[Qualitative Research]]"
   - "[[Observation Method]]"
   - "[[Meta-analysis]]"
@@ -86,7 +87,7 @@ updated: 2026-06-23
 
 ### 量化研究中的评分者间信度
 
-在[[Quantitative Research|量化研究]]中，评分者间[[Reliability|信度]]是信度作为等值性的一种形式（Carmines & Zeller, 1979）。如果多于一位研究者参与研究，必须确保所有研究者在数据录入方式上一致——这对收集结构化观察或半结构化访谈数据的团队尤为重要。
+在[[Quantitative Research|量化研究]]中，评分者间[[Reliability|信度]]是信度作为等值性的一种形式（Carmines & Zeller, 1979）。如果多于一位研究者参与研究，必须确保所有研究者在数据录入方式上一致——这对收集结构化观察或[[Semi-structured Interview|半结构化访谈]]数据的团队尤为重要。
 
 > [!feature] 量化评分者间信度的操作要素
 > - **培训与校准** 对于观察数据，信度在研究者的培训课程中得到解决——他们使用视频材料以确保录入数据的同等性。培训的目标是让所有评判者对同一行为给出相同或高度相近的评分。

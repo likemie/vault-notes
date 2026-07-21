@@ -73,6 +73,8 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Fieldwork]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Telephone Interview]]"
+  - "[[Semi-structured Interview]]"
   - "[[Internet-based Survey]]"
   - "[[Imputation Methods]]"
   - "[[Stratified Sampling]]"
@@ -217,7 +219,7 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 两个核心问题：数据由研究者录入还是参与者自填？调查通过何种方式施测（邮寄、电话、互联网、面对面访谈、电子邮件）？
 
 > [!warning] 自报（self-reporting）的三重偏差风险
-> 自报与面对面调查访谈或电话访谈获得的回答可能存在显著差异(Dale, 2006, p. 145)。偏差来源有三：
+> 自报与面对面调查访谈或[[Telephone Interview|电话访谈]]获得的回答可能存在显著差异(Dale, 2006, p. 145)。偏差来源有三：
 >
 > 1. **低报（under-report）** 回避社会不期望的回答，如青少年低报饮酒、吸烟或药物使用量
 > 2. **高报（over-report）** 给出社会期望的回答，如高报对教师或课程的满意度
@@ -229,7 +231,7 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 
 ### 13.3 规划一项调查
 
-无论调查是由政府机构进行的大规模调查，还是由独立研究者进行的小规模调查，信息收集通常涉及以下一种或多种技术：结构化或半结构化访谈、自填或邮寄问卷、电话访谈、[[Internet-based Survey|互联网调查]]、标准化成就或表现测验以及态度量表。规划过程从一般到具体：将[[Research Topic|研究主题]]分解为互补的议题和问题，为每个组成成分设置问题。为确保信度和效度，每个组成议题应设置多个项目或问题，这样才能公正对待主题的全方位性质（p.262）。
+无论调查是由政府机构进行的大规模调查，还是由独立研究者进行的小规模调查，信息收集通常涉及以下一种或多种技术：结构化或[[Semi-structured Interview|半结构化访谈]]、自填或邮寄问卷、电话访谈、[[Internet-based Survey|互联网调查]]、标准化成就或表现测验以及态度量表。规划过程从一般到具体：将[[Research Topic|研究主题]]分解为互补的议题和问题，为每个组成成分设置问题。为确保信度和效度，每个组成议题应设置多个项目或问题，这样才能公正对待主题的全方位性质（p.262）。
 
 ---
 

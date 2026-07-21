@@ -15,6 +15,7 @@ tags:
   - method/documentary-research
 related_concepts:
   - "[[Questionnaire]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Reliability]]"
   - "[[Virtual Documents]]"
@@ -84,7 +85,7 @@ updated: 2026-06-24
 > - **独立于研究者的文献**
 >   为研究者控制之外的各种目的而生产。[[Documentary Analysis|文献研究]]通常使用此类文献。
 > - **研究者自产文献**
->   由研究者自己作为研究数据制作的文献，如访谈转录稿或完成的[[Questionnaire|问卷]]（Silverman, 2001, p. 119）。
+>   由研究者自己作为研究数据制作的文献，如访谈[[Transcription in Qualitative Research|转录]]稿或完成的[[Questionnaire|问卷]]（Silverman, 2001, p. 119）。
 
 ### 一手文献与二手文献
 

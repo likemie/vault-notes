@@ -62,6 +62,7 @@ related_methods:
   - "[[Autoethnography]]"
   - "[[Non-participant Observation]]"
   - "[[Field Notes]]"
+  - "[[Semi-structured Interview]]"
   - "[[Theoretical Sampling]]"
   - "[[Snowball Sampling]]"
   - "[[In-depth Interview]]"
@@ -173,7 +174,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Autoethnography|自我民族志]]。
-> - **数据收集** [[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、[[Field Notes|田野笔记]]、半结构化访谈、非正式对话、文档收集、日记和生命史、视听记录（Hammersley & Atkinson, 1983）。
+> - **数据收集** [[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、[[Field Notes|田野笔记]]、[[Semi-structured Interview|半结构化访谈]]、非正式对话、文档收集、日记和生命史、视听记录（Hammersley & Atkinson, 1983）。
 > - **分析方法** [[Coding in Qualitative Research|编码]]、[[Domain Analysis|领域分析]]、主题分析、[[Progressive Focussing|逐步聚焦]]、叙事分析、[[Analytic Induction|分析归纳法]]。
 > - **辅助技术** [[Theoretical Sampling|理论抽样]]、目的抽样、[[Snowball Sampling|滚雪球抽样]]、[[Gatekeepers|守门人]]关系管理。
 

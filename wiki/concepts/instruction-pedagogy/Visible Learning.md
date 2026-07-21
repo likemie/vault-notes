@@ -29,6 +29,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
   - "[[Conatus]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Epistemology]]"
   - "[[Feedback]]"
   - "[[Professional Judgment]]"
@@ -224,7 +225,7 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 
 > [!finding-cards] 核心命题
 > - **通过学生眼睛看课堂** 教与学的双向可见性——教师通过学生眼睛看学习，学生成为自身教师（self-monitoring, self-evaluation, self-assessment, self-teaching）。Hattie 援引 Graham Nuthall 的课堂[[Observation Method|观察研究]]：教师看不到或听不到课堂中 80% 发生的事情，核心思想由此转为"从谈论教学方式转向谈论教学的 impact"（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.257]]）。
-> - **教师话语的盲点** Hattie 团队开发的 iPhone app 可在三秒内将教师课堂语言转录并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话实际占 70–80% 时间，但教师自认为只占 20–30%——这一认知错位本身就是"可见性"问题的缩影（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]]）。
+> - **教师话语的盲点** Hattie 团队开发的 iPhone app 可在三秒内将教师课堂语言[[Transcription in Qualitative Research|转录]]并自动[[Coding in Qualitative Research|编码]]；7000–8000 名教师使用后发现教师说话实际占 70–80% 时间，但教师自认为只占 20–30%——这一认知错位本身就是"可见性"问题的缩影（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.257–258]]）。
 
 ### "Know thy impact"
 

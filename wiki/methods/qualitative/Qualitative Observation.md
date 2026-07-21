@@ -23,6 +23,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Research Ethics]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Hawthorne Effect]]"
   - "[[Effect Size]]"
@@ -110,7 +111,7 @@ updated: '2026-06-19'
 > | 资料边界 | 明确限定的实地观察周期（如为期四个月）、特定物理场所以及观察对象范围。 |
 
 > [!proc] 质性分析程序
-> 1. **田野数据转录与整理** 对田野笔记、观察日志进行整理、转录和初步匿名化阅读。
+> 1. **田野数据[[Transcription in Qualitative Research|转录]]与整理** 对田野笔记、观察日志进行整理、转录和初步匿名化阅读。
 > 2. **笔记双向编码** 基于观察协议，对左侧描述性笔记进行编码，对右侧反思性笔记进行归纳。
 > 3. **反思与协商** 结合反思性日记，探讨研究者的偏见与现场互动的动态关系，必要时通过团队协商减少偏见。
 > 4. **[[Rich and Thick Description|厚描述]]呈现** 撰写富含情境特征的厚描述（thick description），展示行动者推理与因果机制的生成过程。

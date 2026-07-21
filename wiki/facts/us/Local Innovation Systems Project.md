@@ -23,7 +23,8 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Lester's Typology of University Contributions to Local Industry]]"
-related_methods: []
+related_methods:
+  - "[[Semi-structured Interview]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -49,7 +50,7 @@ updated: 2026-06-10
 > LIS 项目的关键设计特征（pp.13-17）：
 > - **案例数量** 22 个地区，每个地区聚焦一个特定产业，选定一个时间段研究其产业转型过程
 > - **国家覆盖** 6 个国家，兼具高技术区和欠发达区，涵盖成熟产业和新兴产业
-> - **方法** 多案例比较研究，结合半结构化访谈（覆盖大学、企业、政府和其他机构）和匹配案例对比
+> - **方法** 多案例比较研究，结合[[Semi-structured Interview|半结构化访谈]]（覆盖大学、企业、政府和其他机构）和匹配案例对比
 > - **产出**[[Lester's Typology of University Contributions to Local Industry|Lester 大学贡献分类]]——四种产业转型类型对应的四种大学贡献模式
 
 > [!note]- 匹配案例对比设计

@@ -43,6 +43,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Chi-Squared Test]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Semi-structured Interview]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts: []
@@ -89,7 +90,7 @@ updated: '2026-06-10'
 > | **混合方法研究**<br>[[Mixed Methods Research]] | 整合量化与质性设计。通过问卷调查收集毕业生对[[Graduate Attributes\|毕业生特质]]的发展与应用评分，辅以半结构化访谈，以深化对数据背后机制的理解。 |
 > | **问卷调查法**<br>Survey Method | 改编自美国研究生院理事会（Council of Graduate Schools，CGS）的博士职业路径调查[[Questionnaire\|问卷]]。包含 20 项特质，采用五点 Likert 量表分别测量发展程度与应用程度。（p. 89） |
 > | **卡方检验**<br>[[Chi-Squared Test]] | 用于检验不同大学之间在毕业生特质发展、应用以及专业发展活动参与率是否存在统计显著的关联。 |
-> | **质性主题编码**<br>[[Coding in Qualitative Research]] | 对 21 份半结构化访谈文本在 Atlas.ti 软件中进行编码，生成 22 个核心主题，提取关于可转移技能与职业准备的具体陈述。 |
+> | **质性主题编码**<br>[[Coding in Qualitative Research]] | 对 21 份[[Semi-structured Interview\|半结构化访谈]]文本在 Atlas.ti 软件中进行编码，生成 22 个核心主题，提取关于可转移技能与职业准备的具体陈述。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

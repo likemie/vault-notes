@@ -22,6 +22,7 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Research Question]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Sensitive Research]]"
   - "[[Gatekeepers]]"
@@ -78,7 +79,7 @@ updated: 2026-07-11
 > - **研究对象** 难以通过正式渠道接触的隐藏人群、具有高度同质性与防御性的紧密社群、政策精英、敏感话题参与者。
 > - **问题类型** 适合回答探索性、解释性、描述性以及涉及社会关系网络的[[Research Question|研究问题]]，特别是正式进入门槛较高的制度与空间博弈问题。
 > - **分析单位** 个体或嵌入特定人际关系网络中的社会行动者。
-> - **输出形式** 经由社会网络推荐链建立的非概率样本，主要以[[Qualitative Interview|质性访谈]]转录材料或探索性[[Questionnaire|问卷]]数据形式呈现。
+> - **输出形式** 经由社会网络推荐链建立的非概率样本，主要以[[Qualitative Interview|质性访谈]][[Transcription in Qualitative Research|转录]]材料或探索性[[Questionnaire|问卷]]数据形式呈现。
 
 > [!citation-card]- 关键定义
 > 滚雪球抽样在[[Sensitive Research|敏感研究]]中通常被称为网络化，旨在强调其借助社会关系链来规避行政审查与[[Gatekeepers|守门人]]门槛的核心功能。每一波推荐不仅扩大了样本，同时也由于人际背书而在研究者与参与者之间建立了一层安全保护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]]（引自 Lee, 1993, p. 66）
@@ -123,7 +124,7 @@ updated: 2026-07-11
 > | **资料边界** | 湖北省 G 县及下辖乡镇的 12 所小学，包含进城陪读、镇区陪读与乡村留守三类典型家庭类型。 |
 
 > [!proc] 质性分析程序
-> 1. **录音转录与匿名化** 将[[In-depth Interview|深度访谈]]录音整理为文字，对学校、教师、家长及涉及的关系人姓名做去标识化处理。
+> 1. **录音[[Transcription in Qualitative Research|转录]]与匿名化** 将[[In-depth Interview|深度访谈]]录音整理为文字，对学校、教师、家长及涉及的关系人姓名做去标识化处理。
 > 2. **主题[[Coding in Qualitative Research|编码]]分析** 提取学校撤并历史、陪读经济成本、社会资本关系网络求学渠道以及[[Cultural Capital|文化资本]]边缘化等核心概念。
 > 3. **[[Triangulation|三角互证]]** 将家长陈述、城乡教师评估与当地教育局官员反馈进行交叉比对，核实求学过程中的资本动员逻辑。
 > 4. **[[Rich and Thick Description|厚描述]]呈现** 详细展示不同 SES 阶层在面对入学政策简化与人脉关系变现时的真实抉择与质性案例。

@@ -30,6 +30,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Questionnaire]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Virtual Documents]]"
   - "[[Research Question]]"
@@ -143,7 +144,7 @@ updated: 2026-07-11
 > - **电子文献（electronic documents）**
 >   过去二十年电子邮件和互联网存储与传播数据的指数增长，改变了文献形态。但电子文献可能同时保留了过去五百年印刷文化的诸多元素，二者并非简单的替代关系。
 > - **口头来源（oral sources）**
->   如演讲录音，以声音为介质，区别于文本记录，但仍可转录为文本进行分析。
+>   如演讲录音，以声音为介质，区别于文本记录，但仍可[[Transcription in Qualitative Research|转录]]为文本进行分析。
 > - **物质人工制品（material artefacts）**
 >   如化石、石板、课桌和建筑物，它们不是文字文本，但作为人类活动的物质痕迹，同样承载着丰富的历史信息，在物质文化研究（material culture studies）传统中与文献分析相交叉。
 

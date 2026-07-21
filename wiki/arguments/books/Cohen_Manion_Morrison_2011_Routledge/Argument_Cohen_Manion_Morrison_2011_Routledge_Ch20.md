@@ -72,6 +72,7 @@ related_methods:
   - "[[Chi-Squared Test]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Telephone Interview]]"
   - "[[Random Sampling]]"
 status: draft
 created: 2026-07-20
@@ -587,7 +588,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > [!example]- 表 20.2　问卷中的十点评分量表
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Table_20-2_Ten_Point_Marking_Scale.jpg)
 
-这种量表常用于电话访谈，因为它易于受访者理解。指令的措辞明确暗示它要求的是比率尺度数据（pp. 146–147）。
+这种量表常用于[[Telephone Interview|电话访谈]]，因为它易于受访者理解。指令的措辞明确暗示它要求的是比率尺度数据（pp. 146–147）。
 
 ---
 
@@ -706,7 +707,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 
 ---
 
-### 20.5 避免[[Questionnaire Wording|问题措辞]]的陷阱
+### 20.5 避免问题措辞的陷阱
 
 > [!warning] 问题措辞的十项警示（pp. 157–163）
 >

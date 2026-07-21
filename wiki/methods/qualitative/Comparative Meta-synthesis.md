@@ -24,6 +24,7 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Visible Learning]]"
   - "[[Epistemology]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Structured Teaching]]"
   - "[[Classroom Management]]"
@@ -85,7 +86,7 @@ updated: 2026-06-08
 > 比较性[[Meta-meta-analysis|元综合]]面临的核心认识论问题是：将已聚合的结果再次聚合在原则上是否合理。[[Argument_Higgins_2016_RE|Higgins (2016)]]指出，任何推论都直接取决于元综合所包含的内容。在研究苹果和橙子时，可以讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有的结论（如瓣状结构、多汁果肉）。同样，跨[[Meta-analysis|元分析]]比较可以得出关于改善阅读理解的方法的一般推论，但无法得出关于特定群体的结论（p.41）。
 
 > [!note]- 推论层级的约束
-> 比较性元综合的推论只能在聚合层级上成立。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授转录技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。
+> 比较性元综合的推论只能在聚合层级上成立。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授[[Transcription in Qualitative Research|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。
 
 ---
 

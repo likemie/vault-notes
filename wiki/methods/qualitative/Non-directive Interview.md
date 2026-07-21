@@ -16,6 +16,20 @@ tags:
   - method/qualitative
   - data-collection
   - therapeutic
+related_concepts:
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Epistemology]]"
+  - "[[Active Listening]]"
+  - "[[Emergence]]"
+related_theories:
+  - "[[Phenomenology]]"
+related_methods:
+  - "[[Case Study]]"
+  - "[[Focused Interview]]"
+  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -35,23 +49,23 @@ updated: 2026-07-22
 > - **研究对象** 个体的深层态度、情感、潜意识需求和个人意义建构。
 > - **问题类型** 适合探索个体内在世界的深度、个人意义和情感体验。
 > - **分析单位** 个体受访者的自由叙述。
-> - **输出形式** 主观叙述转录、情感和态度主题分析。
+> - **输出形式** 主观叙述[[Transcription in Qualitative Research|转录]]、情感和态度主题分析。
 
 ---
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识存在于受访者内部，通过自由自发的表达而呈现。访谈者的介入本身会污染数据的真实性——引导越少，获取的深层态度和感知越真实。
 > - **研究者角色** Rogers（1945）确定四项品质：基于接纳和宽容工作；尊重当事人对自身情境的责任；允许当事人以自身方式解释问题；不做任何可能唤起当事人防御的事。
 > - **有效性标准** 受访者自发表达的完整性和深度；访谈者对受访者意义的准确反映和澄清。
 > - **不声称回答的问题** 不适用于需要标准化数据或跨个案精确比较的研究；受访者可能回避研究者关心的特定话题。
 
 > [!method-stack] 方法层级
-> - **研究设计** 治疗性研究、深度个案研究
+> - **研究设计** 治疗性研究、深度[[Case Study|个案研究]]
 > - **数据收集** 自由对话、最少干预、受访者主导
 > - **分析方法** 主题分析、叙事分析、[[Phenomenology|现象学]]分析
-> - **辅助技术** 积极倾听、反映、澄清、接纳
+> - **辅助技术** [[Active Listening|积极倾听]]、反映、澄清、接纳
 
 ---
 
@@ -61,7 +75,7 @@ updated: 2026-07-22
 > 1. **建立接纳环境** 访谈者以友好、接纳但不指导的态度迎接受访者。
 > 2. **受访者启动** 受访者自由选择话题和表达方式，访谈者不预设议题方向。
 > 3. **接纳与澄清** 访谈者接纳受访者表达的正面和负面感受，必要时澄清和反映。
-> 4. **自发涌现** 当敌对和批评性感受被表达和接纳后，积极感受通常自发涌现，随后洞见和自我理解出现。
+> 4. **自发[[Emergence|涌现]]** 当敌对和批评性感受被表达和接纳后，积极感受通常自发涌现，随后洞见和自我理解出现。
 > 5. **转向行动** 受访者在洞见中认识到可能的行动方案和决策能力。
 
 ---
@@ -81,7 +95,7 @@ updated: 2026-07-22
 > - **偏误来源** 受访者主导话题可能导致与研究目标无关的内容占据大量时间；访谈者完全被动可能错过关键信息。
 > - **适用边界** 治疗情境中的优势（受访者启动、动机是缓解症状）在纯粹研究情境中可能成为严重限制。
 > - **误用风险** 将治疗访谈技术未经调整直接用于研究数据收集。
-> - **补救方式** 部分研究者转向聚焦访谈（Merton & Kendall, 1946），在保留非引导性品质的同时引入适度结构化和研究导向。
+> - **补救方式** 部分研究者转向[[Focused Interview|聚焦访谈]]（Merton & Kendall, 1946），在保留非引导性品质的同时引入适度结构化和研究导向。
 
 ---
 
@@ -99,4 +113,4 @@ updated: 2026-07-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了非引导性访谈的治疗起源、Rogers 的核心品质、作为研究工具的局限，以及向聚焦访谈的演变。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — 系统介绍了非引导性访谈的治疗起源、Rogers 的核心品质、作为研究工具的局限，以及向[[Focused Interview|聚焦访谈]]的演变。

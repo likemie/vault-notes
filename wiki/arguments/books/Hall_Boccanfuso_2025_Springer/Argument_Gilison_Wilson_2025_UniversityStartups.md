@@ -24,6 +24,7 @@ related_concepts:
   - "[[Non-dilutive Funding]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Corporate Venture Capital]]"
   - "[[Technology Readiness Level]]"
   - "[[Mentorship]]"
@@ -181,7 +182,7 @@ citation_aliases:
 11. 值得注意的是这 24 家入选企业的"起跑线"——它们已经是经过筛选的优质标的。几乎所有企业都获得过某种[[Non-dilutive Funding|非稀释性资助]]（non-dilutive funding，即不需要出让股权的资金），包括大学内部的"产品验证"拨款（Proof of Product grants），或来自[[National Science Foundation|NSF]]、国立卫生研究院（National Institutes of Health, NIH）、能源部（Department of Energy, DOE）、国防部（Department of Defense, DOD）以及小企业创新研究（[[SBIR and STTR Programs|Small Business Innovation Research]], SBIR）和小企业[[Technology Transfer|技术转移]]（Small Business [[Technology Transfer]], STTR）计划的政府资助。它们的 IP 经过了大学[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Office, TTO）的尽职调查，大学已经愿意为专利申请和法律保护投入真金白银，这说明 IP 的质量是经过内部审核的(pp.144-145)。
 
 > [!example]
-> 在教育领域，一所教育学院的教授团队基于五年 NSF 资助的研究开发了一套"教师课堂话语分析系统"，自动转录课堂录音、标注师生互动模式、生成教学改进建议。大学 TTO 评估后认为有商业化前景，帮团队申请了专利，并给了 5 万美元的校内产品验证拨款做学区试点。项目还获得了一家基金会的 25 万美元非稀释性资助用于研发。在参加学校的创业展示会之前，团队已经投入了价值超过 50 万美元的研发（含 NSF 资助和大学配套），产品质量经过了初步验证。听起来是不是应该有一堆投资人排队等着投？但现实是：他们参加了三场路演，见了十几家投资机构，没有一家投钱。
+> 在教育领域，一所教育学院的教授团队基于五年 NSF 资助的研究开发了一套"教师课堂话语分析系统"，自动[[Transcription in Qualitative Research|转录]]课堂录音、标注师生互动模式、生成教学改进建议。大学 TTO 评估后认为有商业化前景，帮团队申请了专利，并给了 5 万美元的校内产品验证拨款做学区试点。项目还获得了一家基金会的 25 万美元非稀释性资助用于研发。在参加学校的创业展示会之前，团队已经投入了价值超过 50 万美元的研发（含 NSF 资助和大学配套），产品质量经过了初步验证。听起来是不是应该有一堆投资人排队等着投？但现实是：他们参加了三场路演，见了十几家投资机构，没有一家投钱。
 
 ---
 

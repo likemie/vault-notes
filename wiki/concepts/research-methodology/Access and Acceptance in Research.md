@@ -21,6 +21,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
   - "[[Questionnaire]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Research Purpose]]"
   - "[[Gatekeepers]]"
 related_theories: []
@@ -116,7 +117,7 @@ updated: 2026-06-19
 > 2. **与将被要求合作的人员沟通**——获得 LEA 或校长的许可是一个方面，但需要获得将接受访谈或填写[[Questionnaire|问卷]]的人的支持
 > 3. **向校长提交项目大纲**——列出希望访谈或发送问卷的人，说明研究进行的条件
 > 4. **决定匿名和保密的含义**——如果写"英语科主任"而学校只有一位，该人立即被识别
-> 5. **决定参与者是否收到报告副本和/或查阅草稿或访谈转录**——有成本和时间影响，在做出承诺前仔细考虑
+> 5. **决定参与者是否收到报告副本和/或查阅草稿或访谈[[Transcription in Qualitative Research|转录]]**——有成本和时间影响，在做出承诺前仔细考虑
 > 6. **告知参与者所提供信息的用途**——只有你和考官看？给校长、LEA 看？
 > 7. **准备一份意图和条件的书面大纲交给参与者**——即使你解释了[[Research Purpose|研究目的]]、条件和保证，参与者可能会忘记
 > 8. **对[[Research Purpose|研究目的]]和研究条件诚实**——如果说访谈持续十分钟，结果持续了一小时，你就失信了

@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Reliability]]"
   - "[[Qualitative Validity]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Primary and Secondary Documents]]"
   - "[[External Auditor]]"
   - "[[Negative Case Analysis]]"
@@ -55,7 +56,7 @@ updated: 2026-06-24
 Onwuegbuzie & Leech (2006b: 239–46) 将其列为[[Qualitative Validity|质性研究效度]]保障的第 4 项措施，详细说明了审计追踪的记录内容：
 
 > [!feature] 审计追踪的五项记录内容
-> - **原始数据（raw data）** 访谈转录、观察笔记、文件和其他[[Primary and Secondary Documents|第一手资料]]的完整保存
+> - **原始数据（raw data）** 访谈[[Transcription in Qualitative Research|转录]]、观察笔记、文件和其他[[Primary and Secondary Documents|第一手资料]]的完整保存
 > - **分析记录（records of analysis）** [[Coding in Qualitative Research|编码]]决策、主题建构过程、分析备忘录——记录研究者如何从数据中得出分析结论
 > - **数据还原与重构（data reduction and reconstruction）** 数据如何被选择、浓缩、分类和重新组织的过程记录
 > - **过程笔记（process notes）** 关于研究如何进行、分析如何推进的操作日志——包括方法论决策、遇到的困难和解决方案

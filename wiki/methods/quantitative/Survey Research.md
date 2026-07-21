@@ -71,6 +71,8 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Cohort Study]]"
   - "[[Imputation Methods]]"
+  - "[[Semi-structured Interview]]"
+  - "[[Telephone Interview]]"
   - "[[Observational and Correlational Research]]"
   - "[[Experimental Research]]"
 related_persons: []
@@ -265,7 +267,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 ### 数据收集方式比较
 
-调查的数据收集涉及一种或多种技术：结构化或半结构化访谈、自填或邮寄问卷、电话访谈、互联网调查、标准化成就或表现测验和[[Rating Scale|态度量表]]（p.261）。
+调查的数据收集涉及一种或多种技术：结构化或[[Semi-structured Interview|半结构化访谈]]、自填或邮寄问卷、[[Telephone Interview|电话访谈]]、互联网调查、标准化成就或表现测验和[[Rating Scale|态度量表]]（p.261）。
 
 **邮寄调查** 可以触及大量人群、成本较低、回收较快、保证保密性（Bailey, 1994: 148）。受访者可以在自己方便的时间和环境中完成，必要时查阅个人文件，并仔细思考回答。标准化措辞确保了跨回应的可比较性，且无访谈员在场消除了访谈员偏差。邮寄调查也可用于收集详细的敏感质性数据（Beckett & Clegg, 2007），因为无他人在场可以增加数据的诚实性和丰富性。其缺点包括：通常回应率较低；无法了解无回应者信息，不知样本是否具有代表性；受访者可能不够认真或误解问题而无法核查；缺乏对环境控制；缺乏对问题回答顺序的控制；某些问题可能不被回答；无法记录自发回答；难以区分无回应和不良回应；需要格式简单，因为无访谈员在场引导（Bailey, 1994: 149）。
 

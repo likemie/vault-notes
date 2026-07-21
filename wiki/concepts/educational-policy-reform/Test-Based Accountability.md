@@ -31,6 +31,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Quality Education]]"
   - "[[Learner-Centred Education]]"
 related_theories:
@@ -41,6 +42,7 @@ related_methods:
   - "[[Documentary Analysis]]"
 related_persons:
   - "[[Stephen Ball]]"
+  - "[[Michele Schweisfurth]]"
 related_facts:
   - "[[PISA]]"
   - "[[HarmoS]]"
@@ -118,7 +120,7 @@ updated: 2026-07-21
 > [!claim] [[Stephen Ball|Ball, S.]] J.
 > **表演性文化与教学窄化** 依赖考试成绩规制教学会产生表演性文化，将教学焦点窄化为官方绩效指标可测量的目标，挤压了更广泛的教育目的。[[Argument_Wang_2025_CE|(Ball, 2003, 引自 Wang & McLaughlin, 2025, p. 588)]]
 
-> [!claim] Schweisfurth, M.
+> [!claim] [[Michele Schweisfurth|Schweisfurth, M.]]
 > **固定标准对探究教学的挤压** 当以固定标准评判学生时，探究性、灵活的教育模式，如以学生为中心教育，容易在应试压力下成为奢侈品。[[Argument_Wang_2025_CE|(Schweisfurth, 2013, 引自 Wang & McLaughlin, 2025, p. 588)]]
 
 ---
@@ -202,7 +204,7 @@ updated: 2026-07-21
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区 4 所案例学校（2 城市、2 农村），4 位校长，9 位骨干教师，25 份访谈转录稿 | 质性[[Case Study\|案例研究]]与[[Third Generation Activity Theory\|活动理论]]模板分析 | 考试问责与教学改革系统 6 要素（规则、工具、分工等） | 城市一校（前 5%）与农村一校由于未调整考评规则与分工而陷入改革停滞；城市二校（优生率增长 10%）与农村二校（垫底校）通过重构观课规则与绩效加分，将改革绑定为高阶考题与课堂 45 分钟效率工具，实现扩展性改造 | 质性案例研究，无量化显著性检验 | 样本规模较小（4 校），田野窗口为 1 年，仅代表特定东亚考试文化情境 |
+> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区 4 所案例学校（2 城市、2 农村），4 位校长，9 位骨干教师，25 份访谈[[Transcription in Qualitative Research\|转录]]稿 | 质性[[Case Study\|案例研究]]与[[Third Generation Activity Theory\|活动理论]]模板分析 | 考试问责与教学改革系统 6 要素（规则、工具、分工等） | 城市一校（前 5%）与农村一校由于未调整考评规则与分工而陷入改革停滞；城市二校（优生率增长 10%）与农村二校（垫底校）通过重构观课规则与绩效加分，将改革绑定为高阶考题与课堂 45 分钟效率工具，实现扩展性改造 | 质性案例研究，无量化显著性检验 | 样本规模较小（4 校），田野窗口为 1 年，仅代表特定东亚考试文化情境 |
 > | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | 全球多个国家（包括瑞士、挪威、中国、加拿大等）教育政策与监测体系 | 质性[[Systematic Review\|系统综述]]与[[Documentary Analysis\|文献分析]] | [[PISA]] 比较逻辑与国家中观教育监测制度 | PISA 推动各国建立与国际标准对接的全国性监测体系（如瑞士 [[HarmoS]] 标准、中挪质量监测），在中观治理层面深化了 [[Global Education Reform Movement\|GERM]] 逻辑 | 质性综述 | 侧重中观政策分析，未深入微观课堂观察 |
 
 ---

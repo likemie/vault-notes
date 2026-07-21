@@ -20,10 +20,10 @@ related_concepts:
   - "[[Interviewer Effects]]"
   - "[[Questionnaire]]"
   - "[[Sensitive Questions]]"
-  - "[[Questionnaire Wording]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 related_methods:
+  - "[[Telephone Interview]]"
   - "[[Internet-based Survey]]"
   - "[[Triangulation]]"
 confidence: medium
@@ -37,7 +37,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 核心定义
-> 自报偏差（Self-report Bias）指受访者在自我报告时因社会期望、记忆局限或理解差异而系统性偏离真实值的倾向。自报与面对面访谈或电话访谈获得的回答可能存在显著差异（Dale, 2006, p. 145）。自报偏差不是随机误差——它具有系统性和方向性，因此威胁测量的效度。
+> 自报偏差（Self-report Bias）指受访者在自我报告时因社会期望、记忆局限或理解差异而系统性偏离真实值的倾向。自报与面对面访谈或[[Telephone Interview|电话访谈]]获得的回答可能存在显著差异（Dale, 2006, p. 145）。自报偏差不是随机误差——它具有系统性和方向性，因此威胁测量的效度。
 
 > [!concept-lens] 概念透镜
 > - **含义** 自报偏差的核心问题是：受访者告诉我们的，在多大程度上反映了他们的真实状态、态度或行为？自报数据是"真实值 + 偏差"的混合体。
@@ -88,7 +88,7 @@ updated: 2026-07-11
 
 > [!tip] 减少自报偏差的策略
 > - **匿名保证** 明确告知受访者回答的匿名性和保密性，降低社会期望压力。
-> - **[[Questionnaire Wording|问题措辞]]中立化** 避免暗示"正确"或"期望"的回答；使用非评判性语言，尤其在敏感事项上。
+> - **问题措辞中立化** 避免暗示"正确"或"期望"的回答；使用非评判性语言，尤其在敏感事项上。
 > - **使用已验证的量表和工具** 通过试测（piloting）评估工具对目标样本的适用性。
 > - **多方法交叉验证** 结合自报数据与客观记录（行政数据、观察、生物标记等）进行[[Triangulation|三角互证]]。
 > - **选择适当的数据收集方式** 敏感话题优先考虑自填匿名[[Questionnaire|问卷]]而非面对面访谈（Dale, 2006, p. 145）。

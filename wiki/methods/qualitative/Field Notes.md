@@ -24,6 +24,7 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 related_concepts:
+  - "[[Transcription in Qualitative Research]]"
   - "[[Covert Research]]"
   - "[[Questionnaire]]"
 confidence: medium
@@ -42,7 +43,7 @@ updated: 2026-07-11
 > - **研究对象** 观察到的行为、互动、对话、环境细节、非语言线索、研究者当场反应
 > - **问题类型** 记录发生了什么、如何发生、在什么情境中发生
 > - **分析单位** 事件、互动回合、时间片段、场景
-> - **输出形式** 文字笔记（手写或打字）、口述录音转录、[[Coding in Qualitative Research|编码]]和分析用的原始材料
+> - **输出形式** 文字笔记（手写或打字）、口述录音[[Transcription in Qualitative Research|转录]]、[[Coding in Qualitative Research|编码]]和分析用的原始材料
 
 > [!citation-card]- King（1979）的田野笔记规模
 > 我填满了三十二本笔记本，包含在近六百小时观察中做的约五十万字笔记。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, p. 295)]]

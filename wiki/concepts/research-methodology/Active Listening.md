@@ -14,6 +14,8 @@ tags:
   - research-methodology
   - interview
   - communication
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -27,7 +29,7 @@ updated: 2026-07-22
 ## 定义
 
 > [!def] 核心定义
-> 积极倾听（Active Listening）是[[Qualitative Interview|访谈]]中访谈者通过非语言和语言反馈来表明专注、理解并鼓励受访者继续深入表达的技术。它区别于被动聆听——积极倾听要求访谈者有意识地控制自己的非语言表达（面部表情、身体姿势、眼神接触）和语言回应（反映、澄清、总结），以营造安全、接纳的访谈环境（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 438–443]]）。
+> 积极倾听（Active Listening）是访谈中访谈者通过非语言和语言反馈来表明专注、理解并鼓励受访者继续深入表达的技术。它区别于被动聆听——积极倾听要求访谈者有意识地控制自己的非语言表达（面部表情、身体姿势、眼神接触）和语言回应（反映、澄清、总结），以营造安全、接纳的访谈环境（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 438–443]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 积极倾听是访谈者作为研究工具的体现——访谈者不仅需要听受访者说什么，还需要通过自身的表达让受访者感受到被倾听和被理解。

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Analytic Induction]]"
   - "[[Gatekeepers]]"
   - "[[Reflexivity]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Educational Immunology]]"
@@ -44,6 +45,7 @@ related_methods:
   - "[[Autoethnography]]"
   - "[[Non-participant Observation]]"
   - "[[Field Notes]]"
+  - "[[Semi-structured Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Theoretical Sampling]]"
   - "[[Purposeful Sampling]]"
@@ -84,7 +86,7 @@ updated: 2026-07-11
 
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Grounded Theory|扎根理论]]民族志、[[Autoethnography|自我民族志]]。
-> - **数据收集** 参与观察、[[Non-participant Observation|非参与观察]]、[[Field Notes|田野笔记]]、半结构化访谈、非正式对话、文档收集、日记和生命史、视听记录。
+> - **数据收集** 参与观察、[[Non-participant Observation|非参与观察]]、[[Field Notes|田野笔记]]、[[Semi-structured Interview|半结构化访谈]]、非正式对话、文档收集、日记和生命史、视听记录。
 > - **分析方法**[[Coding in Qualitative Research|编码]]（实体/描述/理论编码）、[[Domain Analysis|领域分析]]、主题分析、[[Progressive Focussing|逐步聚焦]]、叙事分析、[[Analytic Induction|分析归纳法]]。
 > - **辅助技术** 抽样（[[Theoretical Sampling|理论抽样]]、目的抽样、滚雪球）、[[Gatekeepers|守门人]]关系管理、[[Reflexivity|反身性]]日志。
 
@@ -100,7 +102,7 @@ updated: 2026-07-11
 
 > [!proc] 数据分析程序
 > 1. 书写详尽的田野笔记——既在现场书写也远离现场补充——记录观察到的行为、对话、非语言线索和研究者自身的反应。
-> 2. 将田野笔记和转录材料[[Coding in Qualitative Research|编码]]为分析单元；进行[[Domain Analysis|领域分析]]以归组相关主题；识别核心主题和"底层关联"。
+> 2. 将田野笔记和[[Transcription in Qualitative Research|转录]]材料[[Coding in Qualitative Research|编码]]为分析单元；进行[[Domain Analysis|领域分析]]以归组相关主题；识别核心主题和"底层关联"。
 > 3. 撰写分析备忘录，记录[[Reflexivity|反身性]]观察、临时[[Hypothesis|假设]]和理论之间的关系发展。
 > 4. 使用[[Triangulation|三角验证]]（多数据源、多方法）、成员检查和同伴情况报告来增强可[[Reliability|信度]]；主动寻找负面案例和偏差案例。
 

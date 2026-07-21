@@ -25,6 +25,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Document]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Variable]]"
 related_theories:
@@ -92,7 +93,7 @@ updated: '2026-07-22'
 > [!proc] 田野调查的一般程序
 > 1. **选择[[Research Question|研究问题]]与确定研究对象** 选择适合[[Ethnography|民族志研究]]的问题（具有自然情境、探讨"怎么样"或"为什么"、关注群体特点）。研究对象必须具备独特性并能清楚回答研究问题，同时要考虑研究对象的接纳程度和进入实地现场的难度。
 > 2. **进入现场** 与研究对象建立良好互动关系。较为规范的教育民族志需要研究者在教育实地中进行为期一年以上的观察。
-> 3. **资料搜集** 以[[Participant Observation|参与观察]]和访谈为主，辅以实物分析和[[Document|文献]]搜集。参与观察要求研究者与被观察者一起生活、工作、活动，在互动过程中倾听和观看。访谈需录-音并尽可能详细地转录为文字。
+> 3. **资料搜集** 以[[Participant Observation|参与观察]]和访谈为主，辅以实物分析和[[Document|文献]]搜集。参与观察要求研究者与被观察者一起生活、工作、活动，在互动过程中倾听和观看。访谈需录-音并尽可能详细地[[Transcription in Qualitative Research|转录]]为文字。
 > 4. **资料分析** 通过[[Coding in Qualitative Research|编码]]（开放式→轴心式→选择式）进行分类，然后运用类属分析或情境分析或二者结合进行深度分析。
 > 5. **研究结果呈现** 对研究对象进行整体、全面、动态的[[Rich and Thick Description|深描]]，注意理论探讨与研究结果结合，说明研究者自身角色和立场。
 

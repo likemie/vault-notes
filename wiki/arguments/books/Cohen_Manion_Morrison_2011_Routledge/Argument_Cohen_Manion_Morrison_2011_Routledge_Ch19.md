@@ -53,6 +53,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Externalization]]"
   - "[[Epoché]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Research Question]]"
   - "[[Questionnaire]]"
   - "[[Pre-test and Post-test]]"
@@ -344,7 +345,7 @@ updated: 2026-07-19
 > - **沟通困难个体的数据收集**
 >   通过提供**脚手架式词汇（scaffolded vocabulary）**，研究者可以更容易地从沟通困难个体收集数据。在这些环境中，目前较少的数据量（缺乏微妙的面部或身体语言沟通）和较慢的沟通节奏可能是有利的（Ravenscroft & McAllister, 2006）。
 > - **多通道数据[[Triangulation|三角验证]]**
->   虚拟世界中的沟通，通过文字、聊天、语音和手势，都可以通过**录音和转录**捕获以供后续分析。由于数据可以**加盖时间戳（time-stamped）**，可以从不同沟通渠道的分析结果比较中以实现数据三角验证（Martin & Vallance, 2008; Vallance & Wiz, 2008）。
+>   虚拟世界中的沟通，通过文字、聊天、语音和手势，都可以通过**录音和[[Transcription in Qualitative Research|转录]]**捕获以供后续分析。由于数据可以**加盖时间戳（time-stamped）**，可以从不同沟通渠道的分析结果比较中以实现数据三角验证（Martin & Vallance, 2008; Vallance & Wiz, 2008）。
 > - **量化与质性分析双路径**
 >   数据可转化为数字进行量化分析，或用于通过**解释性[[Phenomenology|现象学]]分析（interpretive phenomenological analysis）**提供更丰富的理解。后者是一种质性分析形式，在描述人们如何协商、理解和赋予世界意义时很有用。
 

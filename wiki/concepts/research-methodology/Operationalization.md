@@ -24,6 +24,7 @@ related_concepts:
   - "[[Construct]]"
 related_theories: []
 related_methods:
+  - "[[Semi-structured Interview]]"
   - "[[Documentary Analysis]]"
   - "[[Design-Based Research]]"
 related_persons: []
@@ -62,7 +63,7 @@ updated: 2026-06-21
 > - **选择焦点** 鉴于初始分解的范围过大，选择其中一个维度作为研究焦点。在上述例子中，决定聚焦于教学法的连续性（pp.126–127）。
 > - **进一步拆解焦点** 将选定的焦点维度继续分解为更具体的子问题。教学法连续性被进一步拆解为：连续性的水平、性质、成功程度、责任归属、记录与文档、可用资源等（pp.127–128）。
 > - **形成具体[[Research Question|研究问题]]** 为每个子维度拟定具体研究问题，如：每个课程领域在教学过渡阶段发生了多少教学法连续性？各课程领域使用什么教学风格？连续性是偶然发生的还是有计划的？谁在过渡点负有连续性责任？（pp.128–129）。
-> - **识别所需工具** 操作化完成后，不仅能明确具体要问的问题，还能识别可能需要的数据收集工具。在上述例子中，可能需要半结构化访谈、[[Questionnaire|问卷]]评分量表或[[Documentary Analysis|文献分析]]（p.129）。
+> - **识别所需工具** 操作化完成后，不仅能明确具体要问的问题，还能识别可能需要的数据收集工具。在上述例子中，可能需要[[Semi-structured Interview|半结构化访谈]]、[[Questionnaire|问卷]]评分量表或[[Documentary Analysis|文献分析]]（p.129）。
 
 > [!warning] 问题数量控制
 > 操作化后产生的研究问题数量可能很大，可能需要缩减到最多四到五个，以使研究可控（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.129]]）。

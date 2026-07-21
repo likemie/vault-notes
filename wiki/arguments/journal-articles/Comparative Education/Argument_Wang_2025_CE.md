@@ -38,6 +38,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Progressive Education]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[External Validity]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
@@ -47,6 +48,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Template Analysis]]"
+  - "[[Semi-structured Interview]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Fieldwork]]"
@@ -277,7 +279,7 @@ citation_aliases:
 > [!stat-cards]- 核心数据
 > - **15** 所学校参与了地方教育局与英国大学（剑桥与谢菲尔德）合作的跨国教师专业发展项目(pp. 591–592)。
 > - **4** 所精选案例学校（2 所城市、2 所农村），包含 **4** 位校长与 **9** 位骨干教师(p. 592)。
-> - **25** 份半结构化访谈转录稿（每份约 50 分钟，分为两轮开展，使用 NVivo 11 分析）(pp. 592–593)。
+> - **25** 份[[Semi-structured Interview|半结构化访谈]][[Transcription in Qualitative Research|转录]]稿（每份约 50 分钟，分为两轮开展，使用 NVivo 11 分析）(pp. 592–593)。
 > - **Top 5%** 城市一校在区域考试中位居前 5%，其课改动力因维持顶尖的防御心理而不足(p. 592, Table 1)。
 > - **10%** 城市二校曾实现区域统考前 20% 优生率 10% 的增长，强烈的突破渴望促成了评价规则重构(p. 592, Table 1)。
 > - **45 分钟** 农村二校校长将 45 分钟课堂效率视作无家庭辅导背景下农村学生翻盘的唯一杠杆(p. 599)。

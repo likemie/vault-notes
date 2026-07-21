@@ -28,6 +28,7 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
   - "[[Deficiencies Model for an Introduction]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Internal Validity]]"
@@ -133,7 +134,7 @@ updated: 2026-07-22
 > [!sample-panel] 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 化身配置数据、价值观词典条目、争议性场景讨论记录、在线日记文本、同伴审查笔记、遗产文件、前后测问卷、退出访谈转录 |
+> | 材料来源 | 化身配置数据、价值观词典条目、争议性场景讨论记录、在线日记文本、同伴审查笔记、遗产文件、前后测问卷、退出访谈[[Transcription in Qualitative Research\|转录]] |
 > | 抽样或选案 | 目的抽样，针对特定人群（如中等教育阶段青少年），抽取公平代表样本以使发现可推广 |
 > | 研究者位置 | 研究者创建安全环境并设计投射情境，监控讨论以确保文明和礼貌的辩论，但除此之外不审查内容 |
 > | 资料边界 | 虚拟环境内的所有互动记录；前后测问卷和退出访谈在虚拟环境外进行 |

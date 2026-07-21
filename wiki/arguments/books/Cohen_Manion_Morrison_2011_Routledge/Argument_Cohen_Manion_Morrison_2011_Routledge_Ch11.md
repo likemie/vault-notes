@@ -96,6 +96,7 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Theoretical Sampling]]"
   - "[[Field Notes]]"
+  - "[[Semi-structured Interview]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Ideology Critique]]"
   - "[[Autoethnography]]"
@@ -609,7 +610,7 @@ Morse（1994: 228）将信息提供者分为两类：
 
 #### 阶段8：现场数据收集（Data Collection in Situ）
 
-Lincoln & Guba（1985: 199）区分"干扰性"方法（访谈、观察、非言语语言，有他人在场）和"非干扰性"方法（文档和记录，无他人在场）。质性研究者可使用[[Field Notes|田野笔记]]、[[Participant Observation|参与观察]]、半结构化访谈、日记、生命史、[[Document|文献]]和[[Audiovisual, Social Media, and Digital Materials|视听材料]]等多种工具。
+Lincoln & Guba（1985: 199）区分"干扰性"方法（访谈、观察、非言语语言，有他人在场）和"非干扰性"方法（文档和记录，无他人在场）。质性研究者可使用[[Field Notes|田野笔记]]、[[Participant Observation|参与观察]]、[[Semi-structured Interview|半结构化访谈]]、日记、生命史、[[Document|文献]]和[[Audiovisual, Social Media, and Digital Materials|视听材料]]等多种工具。
 
 **[[Qualitative Interview|质性访谈]]。** 半结构化访谈是最广泛使用的技术，时间表足够开放以允许重新排序、题外话、新路径加入和进一步追问。Carspecken（1996: 159–160）从"温和鼓励"→"非引导性"引导→主动倾听→低推断改述→中推断改述→高推断改述的光谱。质性访谈从预结构化转向开放式/半结构化，允许灵活性而非固定的讨论序列。
 Lincoln & Guba（1985: 268–270）提出访谈的四类目的：

@@ -49,6 +49,7 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Snowball Sampling]]"
   - "[[Binary Logistic Regression]]"
+  - "[[Semi-structured Interview]]"
   - "[[Multiple Regression]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
@@ -120,7 +121,7 @@ source_language: en
 > |----------|--------------------|
 > | **田野情境与地点** | 湖北省G县。2018 年全县人口 358,109 人，其中 75% 为农村居民，当地教育[[School Choice\|择校]]迁移现象极具代表性。(p.305) |
 > | **参与学校样本** | 2018 年覆盖 G 县 12 所小学：包括县城全部3所公立小学（1号学校、2号学校、3号学校）、3所乡镇中心小学（4号学校、5号学校、6号学校）和6所农村学校（5所完全村小即7号至11号学校，1所教学点即12号学校）。2023年回访时增补了2021年新建的第4所县城公立小学（X号学校）。 |
-> | **实证样本细分分布** | 问卷调查共收回有效样本 814 份；半结构化访谈共涉及 128 名家庭成员、95 名学校教职工和 8 名教育官员 (pp.305, 307)。具体数据分布参见下表 1。 |
+> | **实证样本细分分布** | 问卷调查共收回有效样本 814 份；[[Semi-structured Interview\|半结构化访谈]]共涉及 128 名家庭成员、95 名学校教职工和 8 名教育官员 (pp.305, 307)。具体数据分布参见下表 1。 |
 
 > [!ref-table]- 表 1：研究参与人员及实证数据分布 (Information about research participants)
 > | 研究对象类型 | 细分人群 | 访谈[[Sample Size Determination\|样本量]] (人) | 问卷样本量 (份) |

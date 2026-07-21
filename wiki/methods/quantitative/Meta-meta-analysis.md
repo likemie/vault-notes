@@ -40,6 +40,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Heterogeneity]]"
   - "[[Homework]]"
   - "[[Class Size]]"
@@ -254,7 +255,7 @@ updated: 2026-07-08
 > [!note]- 推论层级的约束
 > [[Argument_Higgins_2016_RE|Higgins (2016)]]区分了两种不同的跨元分析比较。**[[Comparative Meta-synthesis|比较性元分析]]**是在单一元分析中纳入多种干预以识别哪种更有效，回答的是”X 是否比 Y 更有效”。**[[Comparative Meta-synthesis|比较性元综合]]**是通过跨元分析比较来得出推论。两者都面临”苹果和橙子”批评的升级版([[Argument_Higgins_2016_RE|Higgins, 2016, pp.40–41]])。
 >
-> 推论的层级约束可以通过具体例子说明。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授转录技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的。在苹果和橙子的类比中，这类似于讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有性质（如瓣状结构、多汁果肉）的结论([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。
+> 推论的层级约束可以通过具体例子说明。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授[[Transcription in Qualitative Research|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的。在苹果和橙子的类比中，这类似于讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有性质（如瓣状结构、多汁果肉）的结论([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。
 
 ---
 

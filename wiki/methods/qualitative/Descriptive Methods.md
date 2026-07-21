@@ -18,6 +18,7 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Descriptive Analysis]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Story Line]]"
   - "[[Analytic Framework]]"
   - "[[Reliability]]"
@@ -59,7 +60,7 @@ updated: 2026-06-01
 描述性方法的核心程序是从[[Coding in Qualitative Research|编码]]到主题的分析过程，称为"code-to-theme"分析（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）：
 
 > [!example] 分析流程
-> 1. 组织和准备数据以供分析（转录访谈、整理[[Field Notes|田野笔记]]等）
+> 1. 组织和准备数据以供分析（[[Transcription in Qualitative Research|转录]]访谈、整理[[Field Notes|田野笔记]]等）
 > 2. 通读所有数据，获得整体感知
 > 3. 对数据进行 [[Coding in Qualitative Research|编码]]
 > 4. 将编码归并为主题（通常五到七个）

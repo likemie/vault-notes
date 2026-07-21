@@ -26,6 +26,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 related_methods:
   - "[[Matching]]"
+  - "[[Telephone Interview]]"
 status: draft
 created: 2026-06-22
 updated: 2026-07-22
@@ -66,7 +67,7 @@ updated: 2026-07-22
 > [!claim] 非语言沟通与反移情
 > 研究者在敏感访谈中的非语言沟通至关重要。他们不能流露出判断、支持或谴责的暗示，必须避免反移情（counter-transference）——将研究者自己的观点、价值观、态度、偏见和背景投射到访谈情境中（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 228]]）。
 
-> [!claim] 电话访谈减少但未消除访谈者效应
+> [!claim] [[Telephone Interview|电话访谈]]减少但未消除访谈者效应
 > 电话访谈中访谈者效应显著减少——访谈者的物理特征（性别、年龄、种族、着装）不再直接可见，标准化程度更高，监控和质控更易集中执行。但同时，非语言线索的缺失使得建立融洽关系更困难，受访者可能因对保密性的不确定而抑制信息披露。电话访谈可能更安全（不必拜访危险社区），可收集面对面情境中受访者因威胁感而不愿透露的敏感数据。Oppenheim（1992, p. 97）指出多达 25% 的号码未列入簿，抽样偏态本身也可能是一种访谈者效应——低收入家庭和老年人更可能被系统性地排除（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 471–476]]）。
 
 ### 文化维度

@@ -17,6 +17,7 @@ tags:
   - method/coding
 related_concepts:
   - "[[Document]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"
@@ -52,7 +53,7 @@ updated: '2026-07-22'
 > 模板分析（Template Analysis）是由 Nigel King 等人提出并完善的一种质性文本分析方法。其核心在于将归纳性的开放[[Coding in Qualitative Research|编码]]（Open Coding）与基于先验理论/[[Document|文献]]概念的演绎性编码模板（A Priori Coding Template）有机结合，用于系统整理和分析大样本[[Qualitative Interview|质性访谈]]或文档数据。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 质性访谈转录稿、教研文档、观察[[Field Notes|田野笔记]]与政策文本。
+> - **研究对象** 质性访谈[[Transcription in Qualitative Research|转录]]稿、教研文档、观察[[Field Notes|田野笔记]]与政策文本。
 > - **问题类型** 适合回答复杂组织变革、理论框架演进、实践机制解构与多案例比较分析问题。
 > - **分析单位** 文本片段、编码节点、主题、案例或活动系统要素。
 > - **输出形式** 层次化编码模板、主题节点树、理论要素映射表与跨案例对比图景。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]
@@ -77,7 +78,7 @@ updated: '2026-07-22'
 ## 研究程序
 
 > [!proc] 质性分析程序
-> 1. **转录与熟悉文本** 全文转录访谈录音，初读文本建立整体感知。
+> 1. **[[Transcription in Qualitative Research|转录]]与熟悉文本** 全文转录访谈录音，初读文本建立整体感知。
 > 2. **开放[[Coding in Qualitative Research|编码]]** 开展归纳性开放编码（Open Coding），对原始文本段落赋予描述性节点。
 > 3. **构建初始模板** 将描述性节点重组映射至先验理论框架（如[[Third Generation Activity Theory|第三代活动理论]]的主体、客体、中介工具、规则、共同体、劳动分工）。
 > 4. **模板迭代与修改** 在 NVivo 中应用模板分析全部数据，根据新出现的矛盾或机制调整节点结构。

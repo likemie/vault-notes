@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Interviewer Effects]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Research Purpose]]"
   - "[[Informed Consent]]"
   - "[[Central Phenomenon]]"
@@ -40,6 +41,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Focus Group]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Semi-structured Interview]]"
   - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -87,7 +89,7 @@ updated: 2026-07-22
 > - **研究设计** [[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法研究]]中的质性部分
 > - **数据收集** 一对一访谈、[[Focus Group|焦点小组]]访谈
 > - **分析方法** [[Coding in Qualitative Research|编码]]、主题分析、内容分析
-> - **辅助技术** [[Pilot Testing|预测试]]、录音与转录、访谈者培训
+> - **辅助技术** [[Pilot Testing|预测试]]、录音与[[Transcription in Qualitative Research|转录]]、访谈者培训
 
 ---
 
@@ -207,7 +209,7 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 
 ### 提示与追问
 
-在半结构化访谈提纲中，需要为每个话题、议题和问题准备一系列提示和追问（Morrison, 1993, p. 66）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 433–435]]）：
+在[[Semi-structured Interview|半结构化访谈]]提纲中，需要为每个话题、议题和问题准备一系列提示和追问（Morrison, 1993, p. 66）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 433–435]]）：
 
 > [!tension] 提示 vs 追问
 > - **提示** 帮助访谈者澄清话题或问题，当受访者未理解、误解或请求更多指导时；功能是帮助受访者理解问题，而非引导回答方向。
