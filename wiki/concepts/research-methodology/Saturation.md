@@ -8,6 +8,10 @@ aliases:
 summary: "质性研究中当收集新鲜数据不再引发新洞见或揭示新主题时即可停止数据收集的标准，源自扎根理论，在参与式观察中作为停止观察的判断依据"
 type: concept
 domain: "research-methodology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research
