@@ -8,7 +8,7 @@ summary: "中国春秋时期思想家、教育家，儒学创始人，以修身�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -29,9 +29,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ritual Propriety]]"
   - "[[Five Cardinal Relationships]]"
+  - "[[Zhonghua Minzu]]"
   - "[[Selective Affinity]]"
   - "[[Learner-Centred Education]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Going Native]]"
   - "[[Recontextualization]]"
   - "[[Sage]]"
   - "[[Symbolic Boundary]]"
@@ -51,7 +53,6 @@ related_persons:
   - "[[Wang Yangming]]"
   - "[[Jin Li]]"
 related_facts:
-  - "[[Confucian Revival in China]]"
   - "[[Civil Service Examination]]"
   - "[[Gaokao]]"
 related_arguments:
@@ -91,7 +92,7 @@ updated: 2026-07-23
 > - **前 6 世纪中后期** — 编订六经（诗、书、[[Ritual Propriety|礼]]、乐、易、春秋），整理前代哲学、政府、人伦、道德、历史与诗乐文本。
 > - **前 6 世纪末** — 打破贵族官学垄断，创办私学，招收弟子约 3,000 人（贤人七十二），宣告“有教无类”——无论社会背景与经济阶层，人人享有受教育的权力。
 > - **479 BCE** — 逝世，享年 72 岁。后世被历代帝王与学者尊称为“万世师表”[[Argument_Li_2012_Cambridge|(Li, 2012, p. 9)]]。
-> - **当代（1980s至今）** — 随着[[Confucian Revival in China|儒家复兴]]，孔子形象被当代党国收编为“中华优秀传统文化”的核心符号，在全球通过孔子学院推广为国家[[Soft Power|软实力]]，并在学校课程中被打造为国家认同的正统基石[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 63, 67)]]。
+> - **当代（1980s至今）** — 随着儒家复兴，孔子形象被当代党国收编为“中华优秀传统文化”的核心符号，在全球通过孔子学院推广为国家[[Soft Power|软实力]]，并在学校课程中被打造为国家认同的正统基石[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 63, 67)]]。
 
 ---
 
@@ -128,12 +129,12 @@ updated: 2026-07-23
 > [!influence-path] 影响路径
 > - **理论路径** — 奠定[[Confucian Learning Tradition|儒家学习传统]]与东亚学习模型，塑造了集“[[Self-Cultivation|修身]]-好学-好德”于一体的人性论与学习哲学[[Argument_Li_2012_Cambridge|(Li, 2012)]]。
 > - **方法路径** — 倡导“不愤不启，不悱不发”的启发式对话教学（dialogic teaching），强调高阶思考与社会互动的契合[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 596)]]。
-> - **政策与课程路径** — [[Civil Service Examination|科举]]制与现代[[Gaokao|高考]]传承其选贤举能思想；当代中国教科书将孔子定位为“中华民族传统文化”的唯一始祖（《历史与社会》），将其选入英语教材“英雄画廊”（与林肯、爱因斯坦、钱学森并列），并将《论语》塑造为正统[[Official Knowledge|官方知识]]与对外[[Soft Power|软实力]]符号[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 63, 67)]]。
+> - **政策与课程路径** — [[Civil Service Examination|科举]]制与现代[[Gaokao|高考]]传承其选贤举能思想；当代中国教科书将孔子定位为“[[Zhonghua Minzu|中华民族]]传统文化”的唯一始祖（《历史与社会》），将其选入英语教材“英雄画廊”（与林肯、爱因斯坦、钱学森并列），并将《论语》塑造为正统[[Official Knowledge|官方知识]]与对外[[Soft Power|软实力]]符号[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 63, 67)]]。
 > - **跨国／跨领域传播** — 在跨国[[Policy Borrowing|政策借用]]中与西方心理学产生[[Selective Affinity|选择性亲和]]（如与[[Lev Vygotsky|维果茨基]]社会文化理论在 [[Learner-Centred Education|LCE]] 改革中的互惠共振）[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 596, 602)]]；在[[John Dewey|杜威]]中国接受史中充当对比与反转的符号参照系[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 75, 81)]]。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统追踪孔子的[[Primary and Secondary Documents|原始文献]]，建构东亚与西方文化学习模型的对比框架。
-> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的本土化赋能。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的[[Going Native|本土化]]赋能。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录蔡元培等学者在杜威访华与 1950 年代批评中对孔子权威符号的跨文化[[Recontextualization|再脉络化]]与反转调用。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 实证揭示当代217册必修教材如何将孔子塑造为中华文化等价物，以及少数民族与信教学生对其男权等级性与人类中心主义的解构。
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — 剖析政治话语（如新加坡“儒家社会”）对孔子标签的过度泛化与剥离。

@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Non-monetary Competition]]"
   - "[[School Leadership]]"
+  - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -170,7 +171,7 @@ updated: 2026-07-13
 > - **[[School Leadership|学校领导力]]与教育行政批判研究**
 >   教育行政领域借此解构管理主义话语。[[Argument_Eacott_2011_JEAH|Eacott (2011, p. 45)]] 将场域、习性和资本引入澳大利亚新南威尔士校长培训体制分析，指出绩效问责、最佳实践和效率语言组成的 Doxa 使得教育场域被政治和商业场域渗透，校长被去自主化为政策交付人。
 > - **中国精英大学的出路资本化与习性变现**
->   中国高等教育研究通过本土化改造，将工具应用到了精英大学情境。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] 指出，家庭不平等通过资本化过程[[Transfer Translation Transformation|转译]]为新生的初始习性差异。优势家庭学生展现出**[[Goal-Controlled Mode|目标掌控模式]]**，主动变现[[Cultural Capital|文化资本]]；弱势家庭学生则陷入**[[Intuition-Dependent Mode|直觉依赖模式]]**，面临**[[Cultural Disembedding|文化脱嵌]]**与**[[Cultural Disorientation|文化迷失]]**。
+>   中国高等教育研究通过[[Going Native|本土化]]改造，将工具应用到了精英大学情境。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] 指出，家庭不平等通过资本化过程[[Transfer Translation Transformation|转译]]为新生的初始习性差异。优势家庭学生展现出**[[Goal-Controlled Mode|目标掌控模式]]**，主动变现[[Cultural Capital|文化资本]]；弱势家庭学生则陷入**[[Intuition-Dependent Mode|直觉依赖模式]]**，面临**[[Cultural Disembedding|文化脱嵌]]**与**[[Cultural Disorientation|文化迷失]]**。
 > - **当代高等教育的新封建主义政治经济学**
 >   在高等教育全球政治经济学分析中，[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017, pp. 797–799)]] 借助布迪厄工具分析了学术劳动的重构，包括排名与引用的**[[Non-monetary Competition|非货币竞争]]**，学术资本与行政权力的学者分数分化，以及为了在不稳定劳动力市场中获取资源而产生的个人化依附，形成了学术界内部的[[Neo-feudalism in Higher Education|高等教育新封建主义]]。
 > - **中国县域城镇化进程中的资本分层筛选**

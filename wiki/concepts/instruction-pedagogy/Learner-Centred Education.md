@@ -10,12 +10,13 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Going Native]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
@@ -57,7 +58,7 @@ updated: '2026-07-21'
 ## 定义
 
 > [!def] 核心定义
-> 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、对话教学和[[Critical Thinking|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，后者由教师作为知识权威主导课堂。近几十年来 LCE 在全球范围内被广泛推广，并在不同社会文化与考试体制中经历着深刻的本土化再情境化。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
+> 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、对话教学和[[Critical Thinking|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，后者由教师作为知识权威主导课堂。近几十年来 LCE 在全球范围内被广泛推广，并在不同社会文化与考试体制中经历着深刻的[[Going Native|本土化]]再情境化。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向打破教师单向灌输、强调以学生的学习体验、认知参与、自主探究与对话互动为重心的教学[[Paradigm|范式]]。
@@ -155,7 +156,7 @@ updated: '2026-07-21'
 > 围绕西方理想型 LCE 在跨国[[Policy Borrowing|政策借用]]（Policy Borrowing）与本土落地过程中的形态变化与边界展开，分析教育理念如何与本土文化传统相互[[Selective Affinity|选择性亲和]]，以及制度结构如何设定改革边界。
 
 > [!claim] [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]
-> **儒家对话传统亲和与权力共享硬边界** 西方理想型 LCE 强调民主公民培养、个体解放与学生共决课程；而在中国案例学校中，LCE 被高度[[Pragmatic Paradigm|实用主义]]地转译为聚焦认知深化与学习效率的工具。这一本土化转译在理念上与[[Lev Vygotsky|维果茨基]]社会文化理论及[[Confucius|孔子]]启发式对话教学思想产生选择性亲和（Selective Affinity），消解了教师对西方外来教学法的异己感。然而受制于统一课程标准与刚性高考大纲，学生无法参与决定“学什么”或“怎么考”，权力共享维度呈现出不可跨越的结构性硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
+> **儒家对话传统亲和与权力共享硬边界** 西方理想型 LCE 强调民主公民培养、个体解放与学生共决课程；而在中国案例学校中，LCE 被高度[[Pragmatic Paradigm|实用主义]]地转译为聚焦认知深化与学习效率的工具。这一[[Going Native|本土化]]转译在理念上与[[Lev Vygotsky|维果茨基]]社会文化理论及[[Confucius|孔子]]启发式对话教学思想产生选择性亲和（Selective Affinity），消解了教师对西方外来教学法的异己感。然而受制于统一课程标准与刚性高考大纲，学生无法参与决定“学什么”或“怎么考”，权力共享维度呈现出不可跨越的结构性硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
 
 > [!claim] You (2019)
 > **[[Quality Education|素质教育]]修辞与[[Examination-Oriented Education|应试教育]]现实的双轨并行** 在中国教育改革中存在[[Quality Education|素质教育]]“在修辞与形式中”推行 LCE、而[[Examination-Oriented Education|应试教育]]“在现实与实质中”支配课堂的二元平行现象。若缺乏学校层面的系统性要素重组，LCE 容易停留在政策话语和公开课表演层面。
@@ -169,7 +170,7 @@ updated: '2026-07-21'
 > - **2015 — [[Policy Borrowing|政策借用]]与 post-2015 全球教育议程** Schweisfurth 进一步将 LCE 置于跨国政策借用视域下，指出高应试绩效地区往往存在 LCE 落地阻力，呼吁重新审视教学法改革的语境适应性。
 > - **2019 — 中国双轨制改革张力** You 揭示了中国在推进[[Quality Education|素质教育]]中，LCE 话语与[[Examination-Oriented Education|应试教育]]实质并存的双轨张力。
 > - **2021 — 概念内涵的多元与情境化转向** Bremner 系统梳理 LCE 的多重定义，倡导放弃僵化的单一西方标准，采取更具包容性与情境化的灵活定义。
-> - **2025 — [[Third Generation Activity Theory|活动理论]]视角下的双系统扩展性改造** Wang & McLaughlin 运用[[Third Generation Activity Theory|第三代活动理论]]解构中国案例学校，揭示了 LCE 如何通过建立学校特定共享目标与应试问责实现扩展性改造与本土化[[Transfer Translation Transformation|转译]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 586–605)]]
+> - **2025 — [[Third Generation Activity Theory|活动理论]]视角下的双系统扩展性改造** Wang & McLaughlin 运用[[Third Generation Activity Theory|第三代活动理论]]解构中国案例学校，揭示了 LCE 如何通过建立学校特定共享目标与应试问责实现扩展性改造与[[Going Native|本土化]][[Transfer Translation Transformation|转译]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 586–605)]]
 
 ---
 

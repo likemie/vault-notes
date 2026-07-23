@@ -9,7 +9,7 @@ aliases:
 summary: "在粒子物理、受控热核聚变等前沿物理领域建设的独特、高成本、大型科研基础设施。此类装置传统上依靠国际多边合作，但在地缘政治限制下也出现本土独资化建设的趋势。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - "region/global"
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Going Native]]"
   - "[[Scientific Autarky]]"
   - "[[Blue Skies Research]]"
   - "[[Variable]]"
@@ -91,7 +92,7 @@ updated: '2026-06-30'
 > [!dev-timeline] 概念演变
 > - **1950s–1980s — 冷战多边科学外交** CERN等国际核子研究中心成立，大科学装置作为冷战时期缓和地缘关系、共享基础物理研究成果的多边外交平台得到蓬勃发展。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, p. 48]])
 > - **1990s — 单边主义挫折与合作深化** 美国超导超级对撞机（SSC）因超支在1993年被国会叫停，标志着单边主义强推大科学装置时代的终结，国际物理学界全面确立了共建共享的多边合作共识。
-> - **2010s 至今 — 地缘政治回潮与单边本土化** 地缘政治波及和科技主权焦虑上升，俄罗斯等国转向由本国财政独立负担的本土大科学装置建设，大科学装置重新成为大国博弈和[[Scientific Autarky|科学自给自足]]政策的焦点投影面。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, pp. 47–48]])
+> - **2010s 至今 — 地缘政治回潮与单边[[Going Native|本土化]]** 地缘政治波及和科技主权焦虑上升，俄罗斯等国转向由本国财政独立负担的本土大科学装置建设，大科学装置重新成为大国博弈和[[Scientific Autarky|科学自给自足]]政策的焦点投影面。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, pp. 47–48]])
 
 ---
 
@@ -121,4 +122,4 @@ updated: '2026-06-30'
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 剖析了俄罗斯在追求大科学装置本土化独立建设过程中所面临的财政预算约束以及对多边合作轨道的偏离。
+> - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 剖析了俄罗斯在追求大科学装置[[Going Native|本土化]]独立建设过程中所面临的财政预算约束以及对多边合作轨道的偏离。

@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Revolutionism]]"
   - "[[Multiplicity]]"
   - "[[Ontology]]"
+  - "[[Going Native]]"
   - "[[Research Translation]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[International Education]]"
@@ -183,7 +184,7 @@ citation_aliases:
 > 从现实主义视角出发，比较教育是一系列务实而行动导向的工具，旨在帮助国家最大限度地提升权力能力、获取或维持国际地位。这一形态被称为现代主义比较教育，它以领土和地缘政治的术语阅读社会空间(pp. 419–420)。
 
 > [!dev-timeline] 现实主义比较教育的演进脉络
-> - **1831 — 帝国竞争与教育走访的起源** 面对欧洲列强的激烈竞争，法国知识分子维克多·库赞系统走访了普鲁士学校（当时世界上首个“现代教育国家”）并向教育部提交报告，开启了国家出于地缘竞争与自保焦虑而借用别国教育制度的先河(p. 419)。这一时期奠定了学科的实用价值：在国内发现问题，到国外寻找方案，进行本土化“调适”以提升国家实力(Beech, 2006)。
+> - **1831 — 帝国竞争与教育走访的起源** 面对欧洲列强的激烈竞争，法国知识分子维克多·库赞系统走访了普鲁士学校（当时世界上首个“现代教育国家”）并向教育部提交报告，开启了国家出于地缘竞争与自保焦虑而借用别国教育制度的先河(p. 419)。这一时期奠定了学科的实用价值：在国内发现问题，到国外寻找方案，进行[[Going Native|本土化]]“调适”以提升国家实力(Beech, 2006)。
 > - **1868 — 日本明治维新的多源借鉴** 面对美国“黑船”冲击带来的严重军事与地缘劣势，明治政府将教育视为西方优势的“秘密钥匙”，系统地向美国借鉴学校制度、向法国借鉴行政集权模式、向德国借鉴帝国现代大学范本，以提升国力并争取平等的国际地位(p. 420)。
 > - **1895–1903 — 工业焦虑下的国家调查** 英国教育部特别调查与报告办公室在[[Michael Sadler|萨德勒]]领导下，出于对德美工业竞争优势的深切焦虑，对德国实科中等与职业教育进行了海量走访调查，系统探讨教育借用的可行性边界。
 >   - 1900年 萨德勒发表吉尔福德演讲，警示教育系统具有深厚的本土脉络，不能像“盆栽植物”一样随意移植。

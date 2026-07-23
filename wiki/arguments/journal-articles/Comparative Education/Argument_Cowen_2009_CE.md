@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Normal School]]"
   - "[[Epistemology]]"
+  - "[[Going Native]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Academic Capitalism]]"
   - "[[Research Question]]"
@@ -181,7 +182,7 @@ citation_aliases:
 > > 表现为移居者在新土地上对社会本身的再发明与道德秩序重构。例如在加拿大和澳大利亚，英法移居者将母国阶级层级和教育体制整体平移，依靠教科书、师范制度与全国考试在异域确立时间感与道德纪律（pp.318–319）。
 > - **16世纪至19世纪（殖民扩张时期的帝国模式复制）** 西班牙、法国、葡萄牙在美洲和非洲的殖民活动，本质上是母国“社会观念”的物理强制平移。宗主国将天主教信仰、严格的封建等级、修辞学传统与宗主国语言打包输出，企图通过殖民地学校体系，对原住民实施心灵征服与道德[[Disciplina and Doctrina|规训]]，在异域空间中强行复制宗主国封建道德秩序（Madeira, 2009）（p.318）。
 > - **1860年代（大英帝国自治领的社会再发明）** 在英格兰与苏格兰向新土地（如上加拿大、澳大利亚维多利亚州）的大规模殖民移民中，移居者在新土地上对社会本身展开了再发明。例如，加拿大上加拿大的教育局长埃杰顿·赖森（Egerton Ryerson）等人，直接平移了英格兰的阶级层级观念、苏格兰的道德秩序感以及普鲁士的学校纪律模式。通过平移考试体系、标准教材与[[Normal School|师范学校]]，将母国特定时间感、秩序感和[[Epistemology|认识论]]移植过去，用以维持新社会内部的精英统治与阶级控制（Larsen, 2004）。
-> - **20世纪中后期（后殖民时期的本土化与去殖民清算）** 随着非殖民化浪潮卷域全球，新兴独立国家开始对长期寄生在本土教育系统中的旧帝国观念进行历史清算。这一过程并非简单的观念退场，而是一场政治、文化与认识论上的长期拉锯战。接受国试图在已被外来体制深度塑造的教育废墟上，重建本土的文化合法性与自主权，导致了极具张力的本土化改革浪潮（p.323）。
+> - **20世纪中后期（后殖民时期的[[Going Native|本土化]]与去殖民清算）** 随着非殖民化浪潮卷域全球，新兴独立国家开始对长期寄生在本土教育系统中的旧帝国观念进行历史清算。这一过程并非简单的观念退场，而是一场政治、文化与认识论上的长期拉锯战。接受国试图在已被外来体制深度塑造的教育废墟上，重建本土的文化合法性与自主权，导致了极具张力的本土化改革浪潮（p.323）。
 > 
 > > [!timeline] 第三形态：[[Transitology]] 历史节点与教育角色
 > > 表现为宗教、政治意识形态与启蒙运动理性观的跨国传播，重塑接受国的现代化愿景，将教育推入激进政治转型和“过境研究”的焦点（pp.319–320）。

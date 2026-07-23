@@ -8,7 +8,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Space Production]]"
   - "[[School Choice]]"
   - "[[Learner-Centred Education]]"
+  - "[[Going Native]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -207,4 +208,4 @@ updated: 2026-07-22
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — [[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]][[Space Production|高等教育空间生产]]，39 名教师（30 名关键节点），四城，2023 年。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 多元文化视角儒家传统，37 名 15 个民族大学生。
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025)]] — 农村[[Peidu|陪读]][[School Choice|择校]]，128 人（家长、教师、官员），2018 + 2023 回访。
-> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 中国学校 [[Learner-Centred Education|LCE]] 本土化，4 位校长 9 位教师。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 中国学校 [[Learner-Centred Education|LCE]] [[Going Native|本土化]]，4 位校长 9 位教师。

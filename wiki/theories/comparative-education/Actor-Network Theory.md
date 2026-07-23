@@ -7,7 +7,7 @@ aliases:
 summary: "将社会理解为人类与非人类行动者（异质性物质-符号实体）在持续关联中组装而成的异质网络理论。在比较教育研究中，它被用于解构国家层面的政策借用假说，通过追踪多尺度行动者网络、对称性关注非人类中介（如测评技术、协议、软件、物理硬件），揭示隐藏在教育转移与全球远处治理背后的非线性转译、变异、多行动者博弈及关系空间网络生产机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Champ]]"
   - "[[Policy Network]]"
+  - "[[Going Native]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Policy Borrowing]]"
@@ -107,7 +108,7 @@ updated: 2026-07-09
 > - **推导** 要使隐藏的、非官方的教育权力关系变得可见，必须超越以国家文本为焦点的传统[[Analytic Framework|分析框架]]，转而重建课堂的社会-物质组装网络，识别非人类行动者所传导的权力轨迹。
 
 > [!proposition-chain]- 延伸命题
-> - **推论一（源自核心命题二）** 国际组织（如 [[OECD]]）虽看似是全球政治[[Champ|场域]]的核心行动者，但其 PISA 数据的影响效能必须依托本国特定“[[Policy Network|政策网络]]”（政策制定者、政党、教师协会、媒体）的本土化翻译与传递。 (引自 [[Argument_Li_2025_HSSC|Li et al., 2025, p. 6]])
+> - **推论一（源自核心命题二）** 国际组织（如 [[OECD]]）虽看似是全球政治[[Champ|场域]]的核心行动者，但其 PISA 数据的影响效能必须依托本国特定“[[Policy Network|政策网络]]”（政策制定者、政党、教师协会、媒体）的[[Going Native|本土化]]翻译与传递。 (引自 [[Argument_Li_2025_HSSC|Li et al., 2025, p. 6]])
 
 > [!mechanism-map]- 机制图
 > ```mermaid

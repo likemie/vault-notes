@@ -9,7 +9,7 @@ aliases:
 summary: "多位独立评判者使用同一工具对相同对象评分时彼此一致的程度，是信度作为等值性的核心形式之一，在量化观察、质性编码、测验评分和访谈分析中均有对应操作"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,9 +24,11 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Internal Consistency]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Observer Drift]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Halo Effect]]"
+  - "[[Definition of Terms]]"
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Constructivist Paradigm]]"
@@ -97,7 +99,7 @@ updated: 2026-07-23
 > - **简单百分比计算** 计算评分者间一致性百分比：两位评判者评分一致的次数除以总评分次数
 > - **Robson 的复杂方法** Robson (2002, p. 341) 提出了在[[Coding in Qualitative Research|编码]]观察数据中测量评分者间信度的更复杂方法
 > - **常见统计指标** Cohen's κ（两位评判者、类别评定）、Fleiss' κ（多位评判者）、组内相关系数 ICC（连续评分）
-> - **观察者漂移** 需避免疲劳和观察者漂移（observer drift），观察者随时间推移逐渐改变评分标准（Cooper & Schindler, 2001, p. 380）
+> - **[[Observer Drift|观察者漂移]]** 需避免疲劳和观察者漂移（observer drift），观察者随时间推移逐渐改变评分标准（Cooper & Schindler, 2001, p. 380）
 
 > [!formula-step] 评分者间信度的计算公式
 > $$

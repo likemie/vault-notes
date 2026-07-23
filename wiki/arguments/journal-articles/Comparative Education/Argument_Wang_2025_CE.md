@@ -10,7 +10,7 @@ title: "Argument_Wang_2025_CE"
 argument_key: "Argument_Wang_2025_CE"
 argument_display_title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
   - "[[Quality Education]]"
+  - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Critical Thinking]]"
   - "[[Policy Borrowing]]"
@@ -82,7 +83,7 @@ citation_aliases:
 >
 > 中国拥有上千年的[[Civil Service Examination|科举]]考试（Keju）传统，现代[[Gaokao|高考]]与中考依然主导着学生的升学与社会流动。自 1990 年代起，中国全面推行[[Quality Education|素质教育]]，并积极引入以学生为中心的教学理念。本研究基于一项由英国大学团队（剑桥大学与谢菲尔德大学团队）在华北某区域（济南高新区）主持的跨国教师专业发展项目（包含 15 所学校、4 轮为期两周的研讨会），深入追踪其中 4 所典型案例学校，追问两个核心问题(pp. 591–592)：
 > 1. 在引入国外教学经验后，[[Test-Based Accountability|考试问责]]机制与 [[Learner-Centred Education|LCE]] 改革系统在案例学校中各自如何被情境化？
-> 2. 这两个活动系统是否发生互动？若发生互动，如何通过内部与系统间矛盾的调解，影响教学改革的本土化[[Transfer Translation Transformation|转译]]、扩展性改造与落地边界？
+> 2. 这两个活动系统是否发生互动？若发生互动，如何通过内部与系统间矛盾的调解，影响教学改革的[[Going Native|本土化]][[Transfer Translation Transformation|转译]]、扩展性改造与落地边界？
 
 > [!claim] 核心主张
 > 高利害[[Test-Based Accountability|考试问责]]文化并不必然导致[[Learner-Centred Education|LCE]]改革的夭折。学校能够通过建立“学校特定共享目标”（School-Specific Shared Object），将 LCE 重新解码为培养高阶考题所需的[[Critical Thinking|批判性思维]]或提升课堂 45 分钟吸收率的提分工具；同时协同重构评估规则（评课量表与额外绩效加分）、中介工具与领导/教师劳动分工（校长为改革风险兜底），促成两个活动系统的“扩展性改造”（Expansive Transformation），实现应试与改革的互惠借力。然而受制于统一课程大纲与高考的刚性约束，这种本土化 LCE 在权力共享维度（学生决定“学什么”与“怎么考”）上仍保留不可跨越的结构性硬边界(pp. 598–602)。
@@ -112,7 +113,7 @@ citation_aliases:
 > | **劳动分工（Division of Labor）** | 任务分配、权力结构与风险担当 | 自上而下：教育局/校长下达指标，教师单打独斗提分 | 倡导“共享领导”，但教师缺乏校长制度性背书(p. 597) |
 
 > [!warrant]- 理论如何支撑论证
-> 本研究将[[Test-Based Accountability|考试问责]]与[[Learner-Centred Education|LCE]] 改革视为学校同时嵌入的两个独立且相互作用的活动系统。活动理论的六要素拆解揭示：单纯引入外部中介工具（如英国教学案例）之所以在初始阶段失效，是因为它与既有考试问责系统中的规则（分数考核）、共同体（家长施压）和分工（自上而下指令）产生了深刻的二次矛盾（Secondary Contradictions）。而 Engeström（2001）的扩展性改造理论则解释了当学校领袖成功建构出“双系统共享客体”时，如何能带动规则（评价量表重构/额外加分）、工具（对话教学本土化）和分工（校长风险兜底）的全系统重组，从而为跨国[[Policy Borrowing|政策借用]]中的动态[[Transfer Translation Transformation|转译]]提供了社会文化历史视角的机制解释(pp. 590–591, 600)。
+> 本研究将[[Test-Based Accountability|考试问责]]与[[Learner-Centred Education|LCE]] 改革视为学校同时嵌入的两个独立且相互作用的活动系统。活动理论的六要素拆解揭示：单纯引入外部中介工具（如英国教学案例）之所以在初始阶段失效，是因为它与既有考试问责系统中的规则（分数考核）、共同体（家长施压）和分工（自上而下指令）产生了深刻的二次矛盾（Secondary Contradictions）。而 Engeström（2001）的扩展性改造理论则解释了当学校领袖成功建构出“双系统共享客体”时，如何能带动规则（评价量表重构/额外加分）、工具（对话教学[[Going Native|本土化]]）和分工（校长风险兜底）的全系统重组，从而为跨国[[Policy Borrowing|政策借用]]中的动态[[Transfer Translation Transformation|转译]]提供了社会文化历史视角的机制解释(pp. 590–591, 600)。
 
 ---
 
@@ -235,7 +236,7 @@ citation_aliases:
 >   校长由考核官转变为改革风险的担保人，通过明确支持与定期反馈机制，化解教师的应试焦虑(pp. 597, 599)。
 > - **评估规则多元化（Diversification of Rules）**
 >   打破单一以分定乾坤的硬性考评，通过制定过程性观摩指标（城市二校）或课改额外加分（农村二校），为教学试验提供制度化护航(pp. 600–601)。
-> - **中介工具的本土化反思（Localization of Tools）**
+> - **中介工具的[[Going Native|本土化]]反思（Localization of Tools）**
 >   拒绝对外部模式的盲目照搬，通过校本研讨对比新旧教法，解构传统讲授的局限，寻找到契合本地考情与学情的本土话语(p. 599)。
 
 > [!warrant]- 理论推理桥梁
@@ -274,7 +275,7 @@ citation_aliases:
 > 1. **[[Test-Based Accountability|考试问责]]与[[Learner-Centred Education|LCE]] 可并行协同** 在当前升学考试越来越强调[[Critical Thinking|批判性思维]]与综合分析能力的背景下，追求考试优异与实施教学改革可以并行不悖。以学生为中心教育能够被成功[[Transfer Translation Transformation|转译]]为帮助学生冲击高分段的提分工具(pp. 598–601)。
 > 2. **考试问责闭环咬合是改革卡顿的根源** 考试问责系统内部要素高度协调。仅引入外部教学理念，而缺乏考评规则、领导分工与共同体信任的协同重构，改革极易在临考前半途折返(pp. 593–598)。
 > 3. **谋求突破的渴望是触发扩展性改造的动力** 追求维持现状的名校（城市一校）因防御心理缺乏打破系统平衡的动力；相反，意图实现突破或垫底翻盘的学校（城市二校、农村二校）更倾向于重构要素，走向扩展性学习(p. 600)。
-> 4. **LCE 本土化伴随着文化[[Selective Affinity|选择性亲和]]与结构硬边界** 中国语境下的教学改革被转译为以认知与效率为核心的实用工具，与儒家对话教学传统产生亲和，但也彻底排斥了西方教学理念中有关民主公民和学生共决课程的权力共享要求(pp. 601–603)。
+> 4. **LCE [[Going Native|本土化]]伴随着文化[[Selective Affinity|选择性亲和]]与结构硬边界** 中国语境下的教学改革被转译为以认知与效率为核心的实用工具，与儒家对话教学传统产生亲和，但也彻底排斥了西方教学理念中有关民主公民和学生共决课程的权力共享要求(pp. 601–603)。
 
 > [!stat-cards]- 核心数据
 > - **15** 所学校参与了地方教育局与英国大学（剑桥与谢菲尔德）合作的跨国教师专业发展项目(pp. 591–592)。

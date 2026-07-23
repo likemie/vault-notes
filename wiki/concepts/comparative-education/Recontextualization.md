@@ -5,7 +5,7 @@ aliases:
 summary: "知识与教育话语脱离原始生产场所并被接受者选择性挪用、重新定位、改造并嵌入本土秩序与制度架构的过程"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Floating Signifier]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learner-Centred Education]]"
+  - "[[Going Native]]"
   - "[[Quality Education]]"
   - "[[Heterogeneity]]"
   - "[[Ontology]]"
@@ -122,7 +123,7 @@ updated: '2026-07-21'
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **跨系统转移中的意义再造机制** | 教育思想与话语在跨国或跨系统转移中必然经历接受者的选择性挪用、重构与意义再造 | 跨国思想传播、教育[[Policy Borrowing\|政策借用]]与历史接受史 | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]; [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, p. 33)]] |
-> | **本土制度约束与权力共享硬边界** | 外来教育模式的再脉络化受制于本土制度架构与文化传统的[[Selective Affinity\|选择性亲和]]，并形成不可跨越的权力共享硬边界 | 东亚高利害考试文化、课程改革与教学法本土化 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 33–40)]] |
+> | **本土制度约束与权力共享硬边界** | 外来教育模式的再脉络化受制于本土制度架构与文化传统的[[Selective Affinity\|选择性亲和]]，并形成不可跨越的权力共享硬边界 | 东亚高利害考试文化、课程改革与教学法[[Going Native\|本土化]] | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 33–40)]] |
 
 ---
 

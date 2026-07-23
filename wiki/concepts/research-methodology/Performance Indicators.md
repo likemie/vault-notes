@@ -8,7 +8,7 @@ aliases:
 summary: "经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Performativity of Measurement]]"
   - "[[Causality]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Going Native]]"
   - "[[Lifelong Learning]]"
   - "[[Heterogeneity]]"
 related_theories:
@@ -150,7 +151,7 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 
 ### 地方层面的差异化接受
 
-- 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将 EU 的变革理论内化并本土化——分别发展为"学徒制系统""公私民合作""就业管道"等本地版本([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])
+- 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将 EU 的变革理论内化并[[Going Native|本土化]]——分别发展为"学徒制系统""公私民合作""就业管道"等本地版本([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])
 - 在 EU 政策话语较晚引入的地区（南欧和东欧），专业人员缺乏系统的变革理论，更依赖对青年受益人的负面刻板印象组织服务（p.173）
 - 意大利和西班牙的第二机会学校展示了自下而上的创新路径：非营利组织从"补救性"转向"教育性"变革理论，在加泰罗尼亚形成了"先创建模式→再申请公共支持"的新型政治关系（p.173）
 

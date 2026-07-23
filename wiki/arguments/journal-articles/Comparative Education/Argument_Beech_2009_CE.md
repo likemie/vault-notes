@@ -22,6 +22,7 @@ related_concepts:
   - "[[Educated Identity]]"
   - "[[Global Policy Space]]"
   - "[[Floating Signifier]]"
+  - "[[Going Native]]"
   - "[[Shape-Shifting]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Methodological Nationalism]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
   - "[[Postmodernism]]"
+  - "[[Symbolic Boundary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Rote Learning]]"
   - "[[Technical Rationality]]"
@@ -69,7 +71,7 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -93,7 +95,7 @@ issuing_organization: ""
 本文的核心问题是：**全球、国家和学校实践这三个空间层面各自的结构属性和政治逻辑，如何系统性地影响了在其中流通的教育话语的转化机制？**
 
 > [!claim] 核心主张
-> 当定义信息时代“受教育身份”的教育话语从[[Global Policy Space|全球政策空间]]移动到国家层面、再到以地方为基础的学校实践时，由于不同空间层面独特的结构属性与政治逻辑，话语不可避免地经历了从去语境化的“[[Floating Signifier|漂浮能指]]”到“革新与保守并置”的混合政策，再到受物质条件及既有知识框架中介的“微观本土化[[Shape-Shifting|形变]]”的三阶段[[Transfer Translation Transformation|转译]]，最终其实践效果与原有全球意图发生了根本性偏离。
+> 当定义信息时代“受教育身份”的教育话语从[[Global Policy Space|全球政策空间]]移动到国家层面、再到以地方为基础的学校实践时，由于不同空间层面独特的结构属性与政治逻辑，话语不可避免地经历了从去语境化的“[[Floating Signifier|漂浮能指]]”到“革新与保守并置”的混合政策，再到受物质条件及既有知识框架中介的“微观[[Going Native|本土化]][[Shape-Shifting|形变]]”的三阶段[[Transfer Translation Transformation|转译]]，最终其实践效果与原有全球意图发生了根本性偏离。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 全球教育话语（以“能力发展”和“尊重多样性”为典型追踪线索）从超国家网络（OECD、世界银行、UNESCO等）经由国家政策文件设计，最终流向学校课堂与教师日常实践（聚焦拉美的巴西、阿根廷及玻利维亚等经验场景）的完整路径(pp.348–353)。
@@ -242,7 +244,7 @@ Castells 据此区分了两种空间逻辑：
 > - **第二步：国家层面的选择性具体化与并置**
 >   国家在领土附着与[[Governance by Spin|舆论操控]]的交织中，将全球话语部分锚定于地方经验，形成革新与保守并存的混合话语。
 > - **第三步：实践层面的行动转化与物质约束**
->   学校实践面对行动一致性要求与物质条件制约，必须消解国家话语的矛盾，进行根本性的重新解释与本土化。
+>   学校实践面对行动一致性要求与物质条件制约，必须消解国家话语的矛盾，进行根本性的重新解释与[[Going Native|本土化]]。
 
 ---
 
@@ -320,7 +322,7 @@ Castells 据此区分了两种空间逻辑：
 
 > [!factors] 影响国家层级话语转译的四个结构性特征
 > - **领土附着性 (Territoriality)**
->   国民教育系统旨在构建国民身份与归属感，其地缘边界也是划分自我与他者的符号边界。因此，国家教育系统中的[[Educated Identity|受教育身份]]定义不可能完全被全球话语取代，必然是超国家话语与地方特定历史经验的组合。(p.355)
+>   国民教育系统旨在构建国民身份与归属感，其地缘边界也是划分自我与他者的[[Symbolic Boundary|符号边界]]。因此，国家教育系统中的[[Educated Identity|受教育身份]]定义不可能完全被全球话语取代，必然是超国家话语与地方特定历史经验的组合。(p.355)
 > - **与既有话语的碰撞 (Collision with Existing Discourses)**
 > 全球话语进入国家层面时会遭遇本土既有的教育话语（如[[Encyclopaedism|百科全书主义]]或要素主义）。这并非简单的二选一抉择，政策制定者通常需要通过协商，将看似矛盾的声明并置在同一政策文件中以迎合多元利益群体。
 > - **网络国家的转型 (Networked Nation)**
@@ -438,7 +440,7 @@ Castells 据此区分了两种空间逻辑：
 > 1. **[[Space of Flows and Space of Places|流动空间]]塑造话语机制** 全球教育网络受网络逻辑与[[Performativity|操演性]]驱动，为了获取最大的接受度，强制生产出脱离历史经验的、可塑且相对稳定的“[[Floating Signifier|漂浮能指]]”话语。(pp.350–353)
 > 2. **国家层面具体化并置** 国家在翻译全球话语时，因网络国家特征和[[Governance by Spin|舆论操控]]需要，在政策文件中并置“革新”与“保守”的矛盾声明（如巴西课程中的跨学科与14门独立学科共存）。(pp.355–358)
 > 3. **实践中不一致化为障碍** 在具体学校实践中，政策文本层面的矛盾转变为实际行动障碍，实践者面临教学行动的“一致性要求”，被迫为模糊字眼分配明确的定义。(pp.358–359)
-> 4. **微观[[Transfer Translation Transformation|转译]]的物质约束** 全球话语的本土化[[Shape-Shifting|形变]]受制于既有认知框架（如用行为目标[[Absorptive Capacity|吸收能力]]）以及所处领土的物质现实（如布宜诺斯艾利斯郊区的“尊重多样性”转译为对贫困的默许）。(pp.358–361)
+> 4. **微观[[Transfer Translation Transformation|转译]]的物质约束** 全球话语的[[Going Native|本土化]][[Shape-Shifting|形变]]受制于既有认知框架（如用行为目标[[Absorptive Capacity|吸收能力]]）以及所处领土的物质现实（如布宜诺斯艾利斯郊区的“尊重多样性”转译为对贫困的默许）。(pp.358–361)
 
 ---
 

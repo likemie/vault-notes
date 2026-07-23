@@ -7,7 +7,7 @@ summary: "英国比较教育学者，政策借用四阶段模型共同提出者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Analytic Framework]]"
   - "[[Abstract]]"
+  - "[[Going Native]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -71,7 +72,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Policy Borrowing|政策借用]]四阶段模型（Four Stages of Policy Borrowing）** — 与 Ochs 共同提出，将政策借用过程分解为[[Cross-National Attraction|跨国吸引]]力→决策→实施→内化／本土化四个循环阶段（Phillips & Ochs, 2003）
+> - **[[Policy Borrowing|政策借用]]四阶段模型（Four Stages of Policy Borrowing）** — 与 Ochs 共同提出，将政策借用过程分解为[[Cross-National Attraction|跨国吸引]]力→决策→实施→内化／[[Going Native|本土化]]四个循环阶段（Phillips & Ochs, 2003）
 > - **跨国吸引力结构性类型学** — 与 Ochs 共同提出，识别六类政策焦点（指导哲学、目标／抱负、策略、赋能结构、过程、技术）和 13 种情境因素（Ochs & Phillips, 2002）
 > - **德国教育研究** — 对德国三轨制中学体系的持久性、盟军占领期教育改革、以及德国教育传统进行了系统研究
 

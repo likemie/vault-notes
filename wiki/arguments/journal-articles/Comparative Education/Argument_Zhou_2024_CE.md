@@ -10,7 +10,7 @@ title: "Argument_Zhou_2024_CE"
 argument_key: "Argument_Zhou_2024_CE"
 argument_display_title: "A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Knowledge Transfer]]"
   - "[[Document]]"
+  - "[[Going Native]]"
   - "[[Conatus]]"
 related_theories: []
 related_methods:
@@ -122,7 +123,7 @@ citation_aliases:
 > | **核心人物话语** | [[Jiang Menglin\|蒋梦麟]]、[[Tao Xingzhi\|陶行知]]、[[Hu Shi\|胡适]]、蒋琦、沈颐、赵乃传、查良钊等改革领袖的发表文章与社论（pp.613, 619–620）。 |
 
 > [!warning] 史料使用说明：讲演记录的二次转译问题
-> 论文使用的杜威讲演材料高度依赖中文口译与笔录整理（如胡适、蒋梦麟等人的现场翻译与后刊文本）。杜威原话在现场即经过了中国知识分子的第一层转译（Translation）。论文虽将这些记录视为杜威原意的代表，但客观上这些文本本身已包含了第一道本土化的解读与调整。
+> 论文使用的杜威讲演材料高度依赖中文口译与笔录整理（如胡适、蒋梦麟等人的现场翻译与后刊文本）。杜威原话在现场即经过了中国知识分子的第一层转译（Translation）。论文虽将这些记录视为杜威原意的代表，但客观上这些文本本身已包含了第一道[[Going Native|本土化]]的解读与调整。
 
 ---
 
@@ -281,7 +282,7 @@ citation_aliases:
 > 3. **1922年新学制的双重折扣** [[Transfer Translation Transformation|转译]]过程中，民主被简化为平民/普及教育而去政治化；适应进化被误用为彻底废除旧学制的根据，抛弃了渐进过渡的改良路径（pp.617–618）。
 > 4. **1923年课程的美式错位** 新课程在适应地方名义下引入美式园艺与手工，却删除了农业科，在农民占绝大多数的中国造成了严重的本土脱节。
 > 5. **从民主到科学态度的[[Paradigm|范式]]转向** 1923年后《新教育评论》取代《新教育》，标志着教育范式从激进追赶美式民主转向立足国情、注重调查与实验的科学态度（pp.619–621）。
-> 6. **跨国[[Knowledge Transfer|知识转移]]的普遍规律** 证实了 Cowen 3T 框架的解释力：接收国政治[[Champ|场域]]的裂隙与危机，决定了外来复合学术思想被拆解、选择性吸收与本土化的必然轨迹。
+> 6. **跨国[[Knowledge Transfer|知识转移]]的普遍规律** 证实了 Cowen 3T 框架的解释力：接收国政治[[Champ|场域]]的裂隙与危机，决定了外来复合学术思想被拆解、选择性吸收与[[Going Native|本土化]]的必然轨迹。
 
 > [!stat-cards]- 核心历史数据与关键节点
 > - **200余场** 杜威1919–1921年在华巡回11省发表的演讲总数。

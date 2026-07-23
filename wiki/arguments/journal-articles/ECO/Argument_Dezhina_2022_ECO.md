@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Scientific Autarky]]"
   - "[[Megascience Installations]]"
+  - "[[Going Native]]"
   - "[[Document]]"
   - "[[Asymmetric Brain Circulation]]"
   - "[[Attrition]]"
@@ -48,9 +49,9 @@ title: "Argument_Dezhina_2022_ECO"
 argument_key: "Argument_Dezhina_2022_ECO"
 argument_display_title: "Movement towards Autarky in Russian Science through the Prism of International Cooperation"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "ECO"
 book_title: ""
@@ -66,7 +67,7 @@ issuing_organization: ""
 > 俄罗斯科研与技术领域走向自给自足（[[Scientific Autarky|科学自给自足]]）的趋势是如何表现的？在外部限制与内部规制交织的作用下，这种自闭发展模式对俄罗斯科学系统的流动性、资助体系及基础设施建设带来了哪些制度代价？
 
 > [!claim] 核心主张
-> 俄罗斯科学系统正走向以“自主自足”为特征的科学和人才自给自足模式。这一政策转型由国家内部行政管制的收缩（如强化国际交流壁垒、基金垄断化重组、[[Megascience Installations|大科学装置]]本土化）所主导，其收缩速度甚至快于外部制裁的发生，由于削弱了人员国际流动与竞争性资助，对俄罗斯学术整体质量与合作创新带来了负面制度代价（pp.39, 49）。
+> 俄罗斯科学系统正走向以“自主自足”为特征的科学和人才自给自足模式。这一政策转型由国家内部行政管制的收缩（如强化国际交流壁垒、基金垄断化重组、[[Megascience Installations|大科学装置]][[Going Native|本土化]]）所主导，其收缩速度甚至快于外部制裁的发生，由于削弱了人员国际流动与竞争性资助，对俄罗斯学术整体质量与合作创新带来了负面制度代价（pp.39, 49）。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 俄罗斯科研管理规制、学术卓越计划（[[Project 5-100|5-100计划]]）成效、大科学装置项目（如NICA）及竞争性基金体制改革（pp.39–48）
@@ -226,7 +227,7 @@ issuing_organization: ""
 > - **多边国际共建模式（全球主流趋势）**
 >   - **成本分摊与资源共享** 鉴于大科学装置极高的建设与运行成本，世界各国普遍采用多国共同出资、共建共享的合作模式。（p.48）
 > - **大国策略的转向** 美国在超导超级对撞机（SSC）项目因超支停摆后，承认单边出资不可行，全面转向深度融入欧洲核子研究中心（CERN）等国际协作网，共享前沿物理成果。
-> - **单边本土化建设模式（俄罗斯自足取向）**
+> - **单边[[Going Native|本土化]]建设模式（俄罗斯自足取向）**
 >   - **基建倾斜与独资倾向** 自2010年代起偏离多边共建轨道，将大量国家科研基建预算向本土独资、完全所有的“大科学”项目倾斜。（pp.47–48）
 > - **财政预算与能力的脱节** 在研发预算仅为美国十三分之一的背景下强推本土独资项目，试图锁定局部技术自立，带来了沉重的重复研发和财务压力。
 
@@ -238,7 +239,7 @@ issuing_organization: ""
 > 1. **国际学术人才循环非对称失衡** 俄罗斯学术人才流出集中于美、德等发达国家，而流入则依赖学术水平落后的独联体国家，引智标杆“[[Project 5-100|5-100计划]]”成效受限且存在统计水分，难以建立高质量人才循环（pp.40–42）
 > 2. **内部行政管制壁垒主导学术退潮** 自2012年起，政府密集出台的“外国代理人”法案、2019涉外限令、2021教育法修正案等国内限制性法律，其推行强度和收缩效应甚至超越了外部制裁，强力阻碍了涉外合作与人员流动（pp.44–46）
 > 3. **科研资助系统行政垄断消解多样性** 境外基金撤出与国家科学基金（RHF、RFBR合并至RSF）的垄断化归并，消除了多元学术方向的试错容错机制，使得行政意志更易单一[[Intervention Research|干预研究]]方向（pp.46–47）
-> 4. **大科学本土化加剧科研财政压力** 偏离全球多边共建[[Megascience Installations|大科学装置]]的轨道，在研发预算仅为美国十三分之一的财力下强推本土独资项目，背负了巨大的研发重复和财政负担（pp.47–48）
+> 4. **大科学[[Going Native|本土化]]加剧科研财政压力** 偏离全球多边共建[[Megascience Installations|大科学装置]]的轨道，在研发预算仅为美国十三分之一的财力下强推本土独资项目，背负了巨大的研发重复和财政负担（pp.47–48）
 
 > [!stat-cards]- 核心数据
 > - **2%** 在美获得PhD学位并在学术机构工作的外籍人员中，来自俄罗斯和前苏联学者所占的比例（p.40）

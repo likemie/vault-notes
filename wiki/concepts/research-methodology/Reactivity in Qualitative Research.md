@@ -6,10 +6,10 @@ aliases:
 summary: "研究者在场改变被研究情境的现象，在质性研究中通过延长驻留、谨慎自我呈现和反身性来管理而非消除。"
 type: concept
 domain: "research-methodology"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - paradigm/qualitative
   - method/validity
@@ -17,12 +17,16 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Reflexivity]]"
   - "[[Analytic Framework]]"
+  - "[[Presence]]"
   - "[[Champ]]"
   - "[[Educational Immunology]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
   - "[[Blinding]]"
   - "[[Research Ethics]]"
+  - "[[Conatus]]"
+  - "[[Habituation]]"
+  - "[[Informed Consent]]"
   - "[[Qualitative Validity]]"
 related_theories: []
 related_methods:
@@ -30,14 +34,16 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Fieldwork]]"
   - "[[Triangulation]]"
+  - "[[Observation Method]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-07-11
+updated: 2026-07-24
 ---
 
 # Reactivity in Qualitative Research
@@ -55,7 +61,7 @@ updated: 2026-07-11
 > [!citation-card]- 关键表述
 > 反应性——霍桑效应——研究者的在场改变了情境，因为参与者可能试图回避、取悦、引导、否认或影响研究者。通常反应性通过谨慎的现场协商、在情境中长期驻留以及尽可能谨慎地呈现研究者自我来应对。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 452)]]
 >
-> *Reactivity – the Hawthorne effect – the presence of the researcher alters the situation as participants may wish to avoid, impress, direct, deny or influence the researcher. Typically the problem of reactivity is addressed by careful negotiation in the [[Champ|field]], remaining in the field for a considerable time, ensuring as far as possible a careful presentation of the researcher's self.*
+> *Reactivity – the Hawthorne effect – the [[Presence]] of the researcher alters the situation as participants may wish to avoid, impress, direct, deny or influence the researcher. Typically the problem of reactivity is addressed by careful negotiation in the [[Champ|field]], remaining in the field for a considerable time, ensuring as far as possible a careful presentation of the researcher's self.*
 
 ## 核心要素
 
@@ -82,7 +88,27 @@ updated: 2026-07-11
 > | 应对方式 | 管理（延长驻留、自我呈现） | 批判性自我审视与披露 | 实验设计中通过控制组和[[Blinding\|盲法]] |
 > | 在[[Qualitative Research\|质性研究]]中的定位 | 不可消除的固有特征 | [[Research Ethics\|研究伦理]]和质量的核心要求 | 借鉴自量化传统 |
 
+---
+
+## 观察中的反应性
+
+在[[Observation Method|观察研究]]中，反应性是十类偏误来源之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
+
+> [!info] 观察中的需求特征
+> 参与者知道正在被观察时可能改变行为——更[[Conatus|努力]]、更焦虑、表现得更好或更差、以他们认为研究者希望的方式行为或研究者默许的方式行为。Shaughnessy 等人（2003, p. 113）将这种现象称为需求特征（demand characteristics）。
+
+> [!contrast-table] 观察中减少反应性的两种策略
+> | 策略 | 方法 | 优势 | 风险 |
+> |---|---|---|---|
+> | **[[Habituation\|习惯化]]** | 研究者在情境中停留足够长时间，使参与者习惯于其在场并恢复自然行为 | 保持研究的公开性和伦理合规性 | 需要长期驻留，时间成本高；部分参与者可能永远不会完全习惯化 |
+> | **隐蔽观察** | 被观察者不知道正在被观察 | 消除反应性——参与者不因研究者在场而改变行为 | 违反[[Informed Consent\|知情同意]]，侵犯隐私，引发伦理争议 |
+
+视频记录也可能产生反应性问题——安装摄像设备会使被观察者因意识到被录像而改变行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.9 节]]）。
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将反应性列为Maxwell[[Qualitative Validity|质性效度]]检查清单的两大威胁之一（研究者偏见与反应性），并作为自然主义方法十大问题之一讨论（pp. 442–443, 452）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11)]] — 将反应性列为 Maxwell [[Qualitative Validity|质性效度]]检查清单的两大威胁之一，并作为自然主义方法十大问题之一讨论（pp. 442–443, 452）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将反应性列为观察十类偏误来源之一，介绍需求特征（Shaughnessy et al., 2003, p. 113）以及[[Habituation|习惯化]]与隐蔽观察两种对策（23.9, 23.12 节）

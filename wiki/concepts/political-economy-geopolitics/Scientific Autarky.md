@@ -11,7 +11,7 @@ aliases:
 summary: "指国家在科研与技术发展中追求自主自足、减少对外部人力资本、资金与合作的依赖，并在技术主权与孤立化成本之间寻求平衡的政策与战略导向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - political-economy-geopolitics
   - higher-education
 related_concepts:
+  - "[[Going Native]]"
   - "[[Academic Freedom]]"
   - "[[Megascience Installations]]"
 related_arguments:
@@ -42,7 +43,7 @@ updated: '2026-06-26'
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家科研系统中的隔离程度以及在科研资源、人力资本、基础设施和资金筹措方面追求自足的战略选择。
 > - **用途** 帮助解析在全球化受阻、地缘政治紧张的背景下，后进国家或受限制国家在科研制度转型与政策管控中的张力。
-> - **边界** 不等于纯粹的科研本土化，其更强调由地缘政治、国家规制和外部制裁等因素交织推动的主动或被动的系统性闭架倾向。
+> - **边界** 不等于纯粹的科研[[Going Native|本土化]]，其更强调由地缘政治、国家规制和外部制裁等因素交织推动的主动或被动的系统性闭架倾向。
 
 > [!boundary]- 概念边界
 > - 不等于 [[Academic Freedom|学术自由]] 的对立面 — 科学自给自足是一种系统与政策宏观导向，而学术自由主要关注研究人员独立从事探索的权利，两者在政策干预过强时存在张力。
@@ -54,7 +55,7 @@ updated: '2026-06-26'
 
 > [!feature] 核心要素
 > - **双重过程的动态平衡** 科学自给自足政策面临双重任务的博弈：一方面是确保本国关键技术（如国防及双重用途技术）的自主掌控；另一方面是必须维持双向信息流以防止系统性停滞 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 37)]]。
-> - **人员循环阻滞与本地化替代** 表现为国际流动人才循环的非对等化（如本国人才流向发达国家，而引入人才多局限于学术水平相对落后地区），进而被迫采取限制外籍专家与强化本国人才考核的本土化导向 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。
+> - **人员循环阻滞与本地化替代** 表现为国际流动人才循环的非对等化（如本国人才流向发达国家，而引入人才多局限于学术水平相对落后地区），进而被迫采取限制外籍专家与强化本国人才考核的[[Going Native|本土化]]导向 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。
 > - **资金渠道单一化与行政规制强化** 伴随外国科学基金会的退出和国家竞争性资助的合并，科研资助渠道趋于垄断，并通过法案或行政指令对国际合作施加严密的监督与合同审查 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 45–46)]]。
 > - **[[Megascience Installations|大科学装置]]的本土自主化** 在传统上依靠国际多边联合出资的大型科学研究设施（Megascience installations）建设中，倾向于转由本国财政独立负担以获得完全的所有权与控制权 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 48–49)]]。
 

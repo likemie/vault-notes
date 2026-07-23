@@ -117,7 +117,7 @@ updated: '2026-07-22'
 > | 维度 | 建构主义[[Paradigm\|范式]]（Constructivism） | [[Postpositivism\|后实证主义范式（Postpositivism）]] | [[Transformative Paradigm\|变革主义范式（Transformative）]] |
 > |---|---|---|---|
 > | **[[Ontology\|本体论]]取向** | 多元建构的社会现实 | 逼近的客观决定论现实 | 被权力与历史交织塑造的现实 |
-> | **[[Epistemology\|认识论]]取向** | 主体间性、社会互动与[[Reflexivity\|反身性]] | 客观测量、假设检验与控偏 | 边缘参与者赋权与政治倡导 |
+> | **[[Epistemology\|认识论]]取向** | 主体间性、社会互动与[[Reflexivity\|反身性]] | 客观测量、[[Hypothesis\|假设]]检验与控偏 | 边缘参与者赋权与政治倡导 |
 > | **主要研究方法** | [[Qualitative Research\|质性研究]]、[[Ethnography\|民族志]]、[[Phenomenology\|现象学]] | 实验、量化调查、回归与[[Meta-analysis\|元分析]] | 批判[[Participatory Action Research\|参与式行动研究]]（PAR） |
 
 ---

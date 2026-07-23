@@ -8,7 +8,7 @@ aliases:
 summary: "Robert Cowen（2009）提出、Jason Beech（2009）拓展的教育知识流动三阶段分析框架，包括转移（跨境移动）、转译（本土政策重释）与转化（微观实践中受社会权力挤压而产生的结构重塑）"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Policy Borrowing]]"
   - "[[Space of Flows and Space of Places]]"
+  - "[[Going Native]]"
   - "[[Cross-National Attraction]]"
   - "[[Recontextualization]]"
   - "[[Transitology]]"
@@ -93,7 +94,7 @@ updated: 2026-07-09
 > （中译：转译是教育制度的形变或教育思想的重释，通常伴随空间转移而发生，即变色龙过程。）
 
 > [!citation-card]- 转化（Transformation）的阶段定义与原文
-> **权力压缩变形（Metamorphoses）** 本土社会的社会、经济和政治权力进一步压缩并塑造转译产物，使其发生深层变形或本土化（indigenisation）。转化涵盖从本土化到灭绝（extinction）的连续变化范围，其产物可能与原始输入有了质的差异。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 255]])
+> **权力压缩变形（Metamorphoses）** 本土社会的社会、经济和政治权力进一步压缩并塑造转译产物，使其发生深层变形或[[Going Native|本土化]]（indigenisation）。转化涵盖从本土化到灭绝（extinction）的连续变化范围，其产物可能与原始输入有了质的差异。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 255]])
 > 
 > *“...transformations are the metamorphoses which the compression of social and economic power into education in the new context imposes on the initial translation: that is, a range of transformations which cover both the indigenisation and the extinction of the translated form”* (p. 255)
 >
@@ -142,7 +143,7 @@ updated: 2026-07-09
 >
 > - **转化 (Transformation) — 地方实践落地与微观权力挤压**
 >
->   新语境中社会、政治、经济权力的压缩以及微观物质约束对转译产物施加的深层结构形态重塑（Metamorphoses），其结果分布在本土化（indigenisation）到“灭绝”（extinction）的光谱上。
+>   新语境中社会、政治、经济权力的压缩以及微观物质约束对转译产物施加的深层结构形态重塑（Metamorphoses），其结果分布在[[Going Native|本土化]]（indigenisation）到“灭绝”（extinction）的光谱上。
 >
 >   > [!features] 转化机制与特征
 >   > - **从“博弈机会”到行动障碍** 官方政策中的模糊与不一致，在具体学校教学的一致性要求下，转化为了教师课堂层面的具体行动障碍。

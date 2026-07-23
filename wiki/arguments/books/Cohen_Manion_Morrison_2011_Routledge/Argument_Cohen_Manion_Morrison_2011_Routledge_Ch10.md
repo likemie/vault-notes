@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 121
+argument_related_count: 123
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -116,6 +116,7 @@ related_concepts:
   - "[[Selectivity]]"
   - "[[Dependent Variable]]"
   - "[[Familiarization]]"
+  - "[[Going Native]]"
   - "[[Research Purpose]]"
   - "[[Test Validity]]"
   - "[[Champ]]"
@@ -151,6 +152,7 @@ related_methods:
   - "[[Telephone Interview]]"
   - "[[Participant Observation]]"
   - "[[Observation Method]]"
+  - "[[Accounts]]"
 related_facts:
   - "[[ResearchED]]"
 sources:
@@ -1339,7 +1341,7 @@ Hudson & Miller (1997) 提出了最大化邮寄问卷回应率的十二项策略
 > - 研究者在探索当下时可能**不了解重要的先发事件**
 > - 信息提供者可能在研究中**不具代表性**
 > - 观察者的在场可能引发**不同行为（反应性和生态效度）**
-> - 研究者可能**"本土化"（go native）**——过于依附群体而无法足够冷静地看待它
+> - 研究者可能**"[[Going Native|本土化]]"（go native）**——过于依附群体而无法足够冷静地看待它
 
 Denzin (1989) 建议通过**数据来源和方法论的三角验证**来解决。
 
@@ -1523,7 +1525,7 @@ Plummer (1983) 提供了四种效度检查：
 > *It is suggested that reliability is a necessary but insufficient condition for validity in research; reliability is a necessary precondition of validity, and validity may be a sufficient but not necessary condition for reliability.*
 
 > [!citation-card]- 效度附着于解释而非数据
-> 效度附着于解释（accounts），而非数据或方法（Hammersley & Atkinson, 1983）；重要的是主体赋予数据的意义和从数据中得出的推论。（第10章, p.160）
+> 效度附着于解释（[[Accounts]]），而非数据或方法（Hammersley & Atkinson, 1983）；重要的是主体赋予数据的意义和从数据中得出的推论。（第10章, p.160）
 >
 > *Validity, then, attaches to accounts, not to data or methods (Hammersley & Atkinson, 1983); it is the meaning that subjects give to data and inferences drawn from the data that are important.*
 

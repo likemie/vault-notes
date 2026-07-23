@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学概念，由 Robert Cowen 提出，指国家机器、社会分层与政治未来愿景在大约十年内同时崩解与重建的压缩历史时刻，此时教育被赋予摧毁过去与重构未来的核心象征性功能"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Policy Borrowing]]"
+  - "[[Going Native]]"
   - "[[Examination Hell]]"
   - "[[Shape-Shifting]]"
   - "[[Vergegenkunft]]"
@@ -72,7 +73,7 @@ updated: '2026-07-02'
 > | 维度 | 转型学 (Transitology) | [[Transfer Translation Transformation\|3T 框架]] | [[Policy Borrowing\|政策借用]] (Policy Borrowing) |
 > | :--- | :--- | :--- | :--- |
 > | **分析焦点** | 宏观社会崩溃与重建中的**教育重塑机制**。 | 教育理念与制度在跨国移动中的**变形轨迹**。 | 具体教育政策和模式的**借用与移植行为**。 |
-> | **核心动词** | 崩解（Collapse）与重构（Reconstruction）。 | 转移（Transfer）、转译（Translation）、转化（Transformation）。 | 吸引、决策、实施、本土化。 |
+> | **核心动词** | 崩解（Collapse）与重构（Reconstruction）。 | 转移（Transfer）、转译（Translation）、转化（Transformation）。 | 吸引、决策、实施、[[Going Native\|本土化]]。 |
 > | **主要特征** | 历史性时间压缩，多系统在十年内颠覆。 | 关注物理和空间移动带来的内涵变异。 | 往往是主权国家在正常状态下的主动性决策。 |
 > | **典型例证** | 1917年俄国十月革命后的教育重建。 | 美国单轨制在日本被升学[[Examination Hell\|考试地狱]][[Shape-Shifting\|形变]]。 | 发展中国家引入芬兰现象本位教学模式。 |
 
@@ -105,7 +106,7 @@ updated: '2026-07-02'
 >   苏维埃政权粉碎了沙皇时代的宗教与古典文科教育，在卢纳察尔斯基和克鲁普斯卡娅主导下创立“统一劳动学校”。教育被定义为消灭阶级压迫、灌输历史唯物主义与培养社会主义新人的政治模具，全面转向服务于国家工业化与集体化的综合技术教育。
 > - **1920年代（土耳其凯末尔改革：政教分离与世俗断裂）**
 >   穆斯塔法·凯末尔在奥斯曼帝国废墟上推行西方化。通过《统一教育法》（1924年）关闭所有伊斯兰宗教学校，强行用拉丁字母替代阿拉伯字母，实现国家意志与伊斯兰宗教神权的彻底决裂，使教育成为世俗民族国家的工具。
-> - **20世纪至今（中国现代转型：多重[[Epistemology|认识论]]的本土化改写）**
+> - **20世纪至今（中国现代转型：多重[[Epistemology|认识论]]的[[Going Native|本土化]]改写）**
 >   自1905年废除[[Civil Service Examination|科举]]起，中国经历效仿日德、1920年代迎合美国[[Pragmatic Paradigm|实用主义]]（[[John Dewey|杜威]]访华）、1950年代引进苏联凯洛夫教育学模式及改革开放后的中西融合。中国学校体系反复被置于政治重建的核心，外来的科学与政治理念同本土的历史文化基因（如国家中心传统、儒家伦理）进行深度的博弈、融合与本土化改写。
 
 > [!timeline] 地缘大变局与现代市场转型时间线

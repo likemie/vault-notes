@@ -664,9 +664,10 @@
     "path": "wiki/concepts/comparative-education/Pragmatism in China.md",
     "aliases": [
       "实验主义",
+      "实用主义在中国",
       "shiyanzhuyi",
       "shiyongzhuyi",
-      "实用主义在中国"
+      "中国的实用主义"
     ]
   },
   {
@@ -5698,6 +5699,15 @@
     ]
   },
   {
+    "title": "Going Native",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Going Native.md",
+    "aliases": [
+      "本土化",
+      "going native"
+    ]
+  },
+  {
     "title": "Guilty Knowledge",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Guilty Knowledge.md",
@@ -5706,6 +5716,15 @@
       "guilty information",
       "肮脏之手",
       "dirty hands"
+    ]
+  },
+  {
+    "title": "Habituation",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Habituation.md",
+    "aliases": [
+      "习惯化",
+      "habituation"
     ]
   },
   {
@@ -6258,6 +6277,15 @@
       "客观主义",
       "objectivist approach",
       "objectivist paradigm"
+    ]
+  },
+  {
+    "title": "Observer Drift",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Observer Drift.md",
+    "aliases": [
+      "观察者漂移",
+      "observer drift"
     ]
   },
   {

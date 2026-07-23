@@ -37,11 +37,14 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Construct]]"
   - "[[Ecological Validity]]"
+  - "[[Variable]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
+  - "[[Value Neutrality]]"
+  - "[[Informed Consent]]"
   - "[[Covert Research]]"
-  - "[[Variable]]"
+  - "[[Going Native]]"
   - "[[Reliability]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Operationalization]]"
@@ -51,7 +54,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Classroom Management]]"
   - "[[Research Purpose]]"
-  - "[[Progressive Focussing]]"
   - "[[Saturation]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Assemblage]]"
@@ -61,24 +63,23 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Causality]]"
   - "[[Dependent Variable]]"
-  - "[[Informed Consent]]"
   - "[[Document]]"
   - "[[Hawthorne Effect]]"
   - "[[Conatus]]"
   - "[[Construct Validity]]"
   - "[[Reflexivity]]"
   - "[[Internal Consistency]]"
+  - "[[Observer Drift]]"
+  - "[[Habituation]]"
   - "[[Rich and Thick Description]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Observation Method]]"
   - "[[Structured Observation]]"
-  - "[[Qualitative Observation]]"
-  - "[[Non-participant Observation]]"
   - "[[Ethnography]]"
-  - "[[Quantitative Research]]"
-  - "[[Qualitative Research]]"
+  - "[[Non-participant Observation]]"
+  - "[[Qualitative Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Participant Observation]]"
   - "[[Triangulation]]"
@@ -88,7 +89,6 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Fieldwork]]"
   - "[[Grounded Theory]]"
-  - "[[Qualitative Computer Software]]"
   - "[[Mixed Methods Research]]"
   - "[[Case Study]]"
   - "[[Experimental Research]]"
@@ -149,7 +149,7 @@ updated: 2026-07-23
 > 观察具有高度灵活性，使研究者能够接触社会情境中的互动，生成多种形式和情境的系统记录，并补充其他类型的数据（Simpson & Tuson, 2003, p. 17）。
 
 > [!warning] Bailey（1994, pp. 244–246）指出的观察局限
-> - **缺乏控制** 在自然环境中观察，研究者无法像实验那样操纵或控制变量
+> - **缺乏控制** 在自然环境中观察，研究者无法像实验那样操纵或控制[[Variable|变量]]
 > - **测量困难** 自然情境中的行为难以精确量化和标准化测量
 > - **小样本问题** 观察研究通常只能覆盖少量个案，统计概括力有限
 > - **获取进入和协商准入的困难** 进入研究现场需要复杂的协商和许可程序
@@ -230,16 +230,16 @@ Patton（1990, p. 202）指出观察数据应使研究者能够进入并理解�
 > [!spectrum] 数据的性质
 >
 > - **结构化、系统化、量化** 预设类别，数值数据，统计比较，假设验证
-> - **非结构化、非系统化、[[Qualitative Observation|质性]]** 开放进路，质性材料，假设生成
+> - **非结构化、非系统化、质性** 开放进路，质性材料，假设生成
 
 > [!spectrum] 研究者的角色
 >
 > - **参与式观察** 成为群体内部人，植根于[[Ethnography|民族志]]传统
-> - **[[Non-participant Observation|非参与式观察]]** 保持外部客观距离，追求价值中立
+> - **[[Non-participant Observation|非参与式观察]]** 保持外部客观距离，追求[[Value Neutrality|价值中立]]
 
 > [!spectrum] 被观察者的知情状态
 >
-> - **公开观察** 被观察者知情同意，伦理合规
+> - **公开观察** 被观察者[[Informed Consent|知情同意]]，伦理合规
 > - **隐蔽观察** 隐藏研究者身份，减少反应性但引发伦理争议
 
 > [!spectrum] 观察的场所
@@ -277,10 +277,10 @@ Gold（1958）提出了观察中研究者角色的经典四层分类，排列在
 > - **完全观察者（Complete Observer）** 只观察（公开或隐蔽），**脱离**群体。例如外部观察者，或观察者不隐蔽但其在场不被群体注意的情境（如拥挤火车站的观察者）。
 
 > [!tension] 参与 vs 脱离
-> - **参与** 完全参与者、参与者即观察者，以主观性和同情为特征。局限：不敢走出群体界限以免暴露身份（在[[Covert Research|隐蔽研究]]中），可能"本土化"。
+> - **参与** 完全参与者、参与者即观察者，以主观性和同情为特征。局限：不敢走出群体界限以免暴露身份（在[[Covert Research|隐蔽研究]]中），可能"[[Going Native|本土化]]"。
 > - **脱离** 观察者即参与者、完全观察者，以客观性和距离为关键特征。局限：与被观察者没有接触，**推断是危险的**。两者都最小化反应性（Hammersley & Atkinson, 1983, pp. 93–95; 23.1 节）。
 
-> [!tension] 量化 vs 质性观察
+> [!tension] 量化 vs [[Qualitative Observation|质性观察]]
 > - **量化观察** 小范围焦点，将被观察者**碎片化**为可聚合为[[Variable|变量]]的微小片段。适合假设验证和统计比较。
 > - **质性观察** 将研究者**拉入**参与者世界的[[Phenomenology|现象学]]复杂性，情境展开，联系和因果在时间中可被观察。旨在捕捉**动态性**、**意向性**和**趋势模式**（23.1 节）。
 
@@ -606,7 +606,7 @@ Adler & Adler（1994, p. 380）建议观察的四个阶段：
 > ```
 
 > [!info] 何时停止观察？
-> 虽然对此没有硬性规定，但在达到**理论饱和（[[Saturation|theoretical saturation]]）**时停止可能是合适的（Adler & Adler, 1994, p. 380），即被观察的情境似乎正在**重复**已经收集到的数据。当然，在这一点上继续收集数据可能也很重要，以表明观察到行为的总体频率，使研究者能够找到随时间推移最常见到最不常见的行为。此外，观察次数越多，数据信度可能越高，使[[Emergence|涌现]]的类别得以**验证**。
+> 虽然对此没有硬性规定，但在达到**[[Saturation|理论饱和]]（[[Saturation|theoretical saturation]]）**时停止可能是合适的（Adler & Adler, 1994, p. 380），即被观察的情境似乎正在**重复**已经收集到的数据。当然，在这一点上继续收集数据可能也很重要，以表明观察到行为的总体频率，使研究者能够找到随时间推移最常见到最不常见的行为。此外，观察次数越多，数据信度可能越高，使[[Emergence|涌现]]的类别得以**验证**。
 
 ---
 
@@ -952,7 +952,7 @@ Silverman（1993）提醒注意主位分析（emic）与客位分析（etic）�
 > - **不引人注目但保持专注** 不干扰被观察者，同时不遗漏关键信息
 > - **知情判断的经验** 具有从观察数据做出知情判断的必要经验
 >
-> 这些品质对于避免疲劳和**观察者漂移（observer drift）**，以及[[Halo Effect|光环效应]]至关重要（Cooper & Schindler, 2001, p. 380）。
+> 这些品质对于避免疲劳和**[[Observer Drift|观察者漂移]]（observer drift）**，以及[[Halo Effect|光环效应]]至关重要（Cooper & Schindler, 2001, p. 380）。
 
 ---
 
@@ -962,7 +962,7 @@ Silverman（1993）提醒注意主位分析（emic）与客位分析（etic）�
 > | 策略 | 方法 | 优势 | 风险 |
 > |---|---|---|---|
 > | **隐蔽观察** | 被观察者不知道正在被观察 | 消除反应性，参与者不会因研究者的在场而改变行为 | 引发[[Covert Research\|伦理问题]]（违反知情同意、侵犯隐私） |
-> | **习惯化（Habituation）** | 研究者在情境中停留**足够长时间**，使参与者不仅习惯于其在场，并且恢复到自然行为 | 保持研究的公开性和伦理合规性 | 需要长期驻留，时间成本高 |
+> | **[[Habituation\|习惯化]]（Habituation）** | 研究者在情境中停留**足够长时间**，使参与者不仅习惯于其在场，并且恢复到自然行为 | 保持研究的公开性和伦理合规性 | 需要长期驻留，时间成本高 |
 
 ---
 

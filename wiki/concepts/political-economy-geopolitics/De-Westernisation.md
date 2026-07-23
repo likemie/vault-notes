@@ -7,7 +7,7 @@ aliases:
 summary: "去殖民理论中指代非西方新兴地缘主体（如中国）通过经济崛起与主权话语建设，企图夺取对全球资本主义世界秩序与殖民权力矩阵掌控权的政治空间运动。它与西方“再西方化”地缘战略相对立，虽然在政治与权威领域挑战西方主导，但在本质上仍维护资本主义体系的生存。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Governing at a Distance]]"
   - "[[Innovation Hub]]"
+  - "[[Going Native]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Revolutionism]]"
   - "[[Geopolitics of Higher Education]]"
@@ -83,7 +84,7 @@ updated: 2026-07-09
 
 > [!feature] 核心要素
 > - **资本主义框架保留（Survival of Capitalism）** 去西方化在经济上不挑战资本主义积累逻辑，而是通过发展高技术民族主义和[[Innovation Hub|创新中心]]参与竞争。(Mignolo, 2011, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 430]])
-> - **国家主义权威夺取（Reclamation of State Authority）** 动用强力国家机器与本土化文化话语，挑战西方主导的多边[[Disciplina and Doctrina|规训]]权威。
+> - **国家主义权威夺取（Reclamation of State Authority）** 动用强力国家机器与[[Going Native|本土化]]文化话语，挑战西方主导的多边[[Disciplina and Doctrina|规训]]权威。
 > - **认识与主体性张力（Epistemic Tension）** 虽然在制度运作上对抗西方的[[Governing at a Distance|远处治理]]，但在评估和竞争力话语中仍受西方新自由主义框架规训（例如国内高校对西方大学排名评价标准表现出的高度敏感）。
 
 > [!logic-map]- 要素关系

@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Going Native]]"
   - "[[Nordic Model of Education]]"
   - "[[International Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -175,7 +176,7 @@ updated: 2026-06-22
 > [!claim] 步骤三主张
 > 芬兰教育体制深度植根于源自德国启盟运动时期的 [[Bildung]]（教化）与 [[Didaktik]]（教学论）传统，这两大传统赋予了 PhBL 追求社会正义、个人自治（Autonomy）和面向不确定未来进行批判性探索的规范性价值。(pp.5–6)
 
-> [!exegesis] 德语区哲学的本土化与批判性转化
+> [!exegesis] 德语区哲学的[[Going Native|本土化]]与批判性转化
 > - **教化的双重追问与非预设性** Bildung 关注何为人类以及如何成为人类这一非目的论（Non-teleological）的过程。Snellman 将其引入芬兰，强调个体的道德与精神自我修养。Bildung 主张教育面向不可预知的开放未来（Open future），与对既有规范的简单复制保持距离。(pp.5–6)
 > - **Klafki 的时代关键问题（Epochal key problems）** Didaktik 传统（特别是 [[Wolfgang Klafki]] 的批判建设性教学论）指出，教学设计者和教师无法预知学生未来需要的具体知识。因此，课程设计必须围绕时代关键问题（如环境危机、社会不平等、战争）展开，这些问题要求统合学科深度与跨学科广度。(pp.6–7)
 

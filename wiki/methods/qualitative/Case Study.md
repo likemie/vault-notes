@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 53
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
   - "[[Megascience Installations]]"
+  - "[[Going Native]]"
   - "[[Critical Thinking]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
@@ -54,6 +55,7 @@ related_methods:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Ethnography]]"
   - "[[Narrative Research]]"
+  - "[[Cross-checking]]"
   - "[[Theoretical Sampling]]"
   - "[[Participant Observation]]"
   - "[[Non-participant Observation]]"
@@ -212,7 +214,7 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 
 > [!method-limits] 综合弱点与操作风险
 > - **推广性受限** 结果可能不可推广，除非其他读者看到其应用；分析式归纳受主观因素影响（Nisbet & Watt, 1984; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
-> - **偏误风险与技术局限** 不易接受交叉检查，自报可能有偏误，依赖个体记忆，无标准化方法，弹性大（Nisbet & Watt, 1984; Shaughnessy et al., 2003, pp. 290–299; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
+> - **偏误风险与技术局限** 不易接受[[Cross-checking|交叉检查]]，自报可能有偏误，依赖个体记忆，无标准化方法，弹性大（Nisbet & Watt, 1984; Shaughnessy et al., 2003, pp. 290–299; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
 > - **选择与推断混合，报告冗长** 阅读个案研究时选择过程已发生，知识与推断难以分离；深入性和主观性导致报告篇幅过大（Dyer, 1995, pp. 48–52; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
 > - **缺乏控制，耗时费力** 处理很少被系统控制却同时应用，外部变量难以控制，[[Causality|因果推断]]困难；各环节均需密集劳动投入（Shaughnessy et al., 2003, pp. 290–299; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
 > - **五项应避免的操作问题** 新闻主义（挑轰动特征扭曲叙述）、选择性报告（只选支持结论的证据）、轶事风格（低层次插图取代深度分析）、浮夸（从低层次数据推深刻理论）、平淡（只接受受访者观点，回避分歧）（Nisbet & Watt, 1984, p. 91）
@@ -243,6 +245,6 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 以跟踪式个案研究为设计，研究者与被访者保持长期联系直至毕业去向确定。双重目的：检视叙述[[Reliability|可靠性]]（观察实际行动与访谈对照）、确证意向与行为关联。选取结合目的抽样与[[Theoretical Sampling|理论抽样]]，通过控制性别、教育质量、学业态度减少噪音。两阶段累计 62 名个案：第一阶段（38 人）滚雪球选取 → 第二阶段（24 人）补充贫困生（17 人）和女生（10 人）。将个案在家庭背景、性别、学科、学段和去向各类别进行系列分解以优化可外推性
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability|考试问责]]压力下推进 LCE 的路径差异
-> - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations|大科学装置]]本土化四个切面案例
+> - [[Argument_Dezhina_2022_ECO|Dezhina & Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations|大科学装置]][[Going Native|本土化]]四个切面案例
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、课堂观察和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking|批判性思维]]教学模式
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge|TOK]] 课程中学习者的自主性角色与知识建构过程

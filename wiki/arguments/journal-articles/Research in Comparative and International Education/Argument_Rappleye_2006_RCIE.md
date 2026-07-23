@@ -9,7 +9,7 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Policy Borrowing]]"
   - "[[Pre-Transfer Agency]]"
+  - "[[Going Native]]"
   - "[[Policy Entrepreneur]]"
   - "[[Causality]]"
   - "[[Externalization]]"
@@ -69,7 +70,7 @@ citation_aliases:
 >
 > 全球化（globalization）带来的三个新变化，进一步放大了这个缺口(pp. 226–228)：
 >
-> 1. **[[Pre-Transfer Agency|前转移能动性]]（pre-transfer agency）**——现有模型只关注政策实施后的抵制和本土化（后转移能动性），但外国范例进入国内话语的那一刻，能动性就已经在运作了。谁在引入外国范例？出于什么目的？用什么方式？
+> 1. **[[Pre-Transfer Agency|前转移能动性]]（pre-transfer agency）**——现有模型只关注政策实施后的抵制和[[Going Native|本土化]]（后转移能动性），但外国范例进入国内话语的那一刻，能动性就已经在运作了。谁在引入外国范例？出于什么目的？用什么方式？
 > 2. **行动者激增**——国家不再是唯一行动者。超国家组织、智库、顾问、[[Policy Entrepreneur|政策企业家]]、排行榜制作者、媒体、资助来源等纷纷介入教育转移，而现有框架仍默认以民族国家为分析单位。
 > 3. **话语的转移**——转移的不仅是政策文本（policy text），更是政策话语（policy discourse）——即关于教育的谈论方式、概念框架和问题建构方式。这种话语层面的流动比政策文本更加隐蔽，也更难追踪。
 >
@@ -80,7 +81,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **[[Policy Borrowing]]**(Phillips & Ochs, 2003, 2004a)——四阶段循环模型（[[Cross-National Attraction|跨国吸引力]] → 决策 → 实施 → 内化/本土化）是整篇论证的出发点。论证聚焦于第一阶段"跨国吸引力"，因为该阶段启动整个借用循环，情境因素在这一阶段的作用最为关键(p. 225)。
+> - **[[Policy Borrowing]]**(Phillips & Ochs, 2003, 2004a)——四阶段循环模型（[[Cross-National Attraction|跨国吸引力]] → 决策 → 实施 → 内化/[[Going Native|本土化]]）是整篇论证的出发点。论证聚焦于第一阶段"跨国吸引力"，因为该阶段启动整个借用循环，情境因素在这一阶段的作用最为关键(p. 225)。
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig1_Four_Stages.png)
 >
@@ -302,7 +303,7 @@ citation_aliases:
 >
 > 论证进一步勾画了地图的三种延伸用途，超越了"分析跨国吸引力"的初始功能(pp. 236–238)：
 >
-> **第一，追踪情境在政策借用周期中的演变。** 如果在四阶段（跨国吸引力 → 决策 → 实施 → 内化/本土化）的每一个节点都重新绘制一次情境快照，就可以看到情境如何随时间推移而变化：哪些行动者进入了中心舞台、哪些退出了、推力与阻力的组合如何重组了。Spreen (2004) 的研究已经暗示了这种演变的可能性：她发现借用的政策的"起源"会随着时间"消失"——政策借用者的地位、合法性和立场在变化，借用策略也在变化(p. 236)。
+> **第一，追踪情境在政策借用周期中的演变。** 如果在四阶段（跨国吸引力 → 决策 → 实施 → 内化/[[Going Native|本土化]]）的每一个节点都重新绘制一次情境快照，就可以看到情境如何随时间推移而变化：哪些行动者进入了中心舞台、哪些退出了、推力与阻力的组合如何重组了。Spreen (2004) 的研究已经暗示了这种演变的可能性：她发现借用的政策的"起源"会随着时间"消失"——政策借用者的地位、合法性和立场在变化，借用策略也在变化(p. 236)。
 >
 > ![](https://img.mylikemie.icu/sources/Rappleye_2006_RCIE/figures/Rappleye_2006_Fig6_Shifts_Through_Cycle.png)
 >

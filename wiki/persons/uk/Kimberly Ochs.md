@@ -7,10 +7,10 @@ summary: "英国比较教育学者，政策借用与跨国吸引类型学共同�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - kimberly-ochs
 - comparative-education
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Document]]"
   - "[[Global Universities Rankings]]"
+  - "[[Going Native]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -82,6 +83,6 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Policy Borrowing|政策借用]]四阶段模型** — [[Cross-National Attraction|跨国吸引]]力→决策→实施→内化／本土化（Phillips & Ochs, 2003）
+> - **[[Policy Borrowing|政策借用]]四阶段模型** — [[Cross-National Attraction|跨国吸引]]力→决策→实施→内化／[[Going Native|本土化]]（Phillips & Ochs, 2003）
 > - **跨国吸引力结构性类型学** — 六类政策焦点 + 13 种情境因素（Ochs & Phillips, 2002）
 > - **四种吸引力"火花"分类** — 为理解为什么外国范例被引入国内辩论提供了分析工具

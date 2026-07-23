@@ -7,7 +7,7 @@ aliases:
 summary: "研究对象因意识到被观察而改变行为的现象，源自霍桑工厂实验，在教育研究中作为内部效度和外部效度的共同威胁"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Pre-test and Post-test]]"
   - "[[Variable]]"
+  - "[[Going Native]]"
 related_methods:
   - "[[Random Assignment]]"
   - "[[True Experimental Design]]"
@@ -119,7 +120,7 @@ updated: 2026-07-13
 > > - **Adair (1984)** 综述大量研究，确认"被研究意识"确实改变行为，但效应大小因情境而异。
 >
 > > [!axis] 在教育研究中是否可避免
-> > 一些研究者认为在自然主义研究中通过长期在场的"本土化"可以消除霍桑效应；另一些则认为任何研究本质上都是一种干预——研究者永远无法完全消失。
+> > 一些研究者认为在自然主义研究中通过长期在场的"[[Going Native|本土化]]"可以消除霍桑效应；另一些则认为任何研究本质上都是一种干预——研究者永远无法完全消失。
 > >
 > > - **Lincoln & Guba (1985)** 主张通过长期田野参与和持续观察使研究者的在场变得自然化。
 > > - **Hammersley & Atkinson (1983)** 提醒：即使长期在场，研究者的社会特征（性别、年龄、阶层、族裔）仍然持续塑造着被研究者的反应。
