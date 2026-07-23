@@ -10,6 +10,10 @@ summary: "教育研究中基础的资料收集方法，通过系统地看和记�
 type: method
 method_type: qualitative
 method_family: "qualitative"
+method_related_count: 0
+method_related_level: 0
+method_related_stars: "☆"
+method_related_color: "#dbeafe"
 tags:
   - method/data-collection
   - source/textbook

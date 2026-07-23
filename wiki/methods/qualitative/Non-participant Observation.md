@@ -8,9 +8,9 @@ summary: "研究者不参与群体活动而从外部系统观察和记录行为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -35,17 +35,18 @@ related_methods:
   - "[[Ethnography]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-23
 ---
 # Non-participant Observation
 
 ## 定义
 
 > [!def] 方法定义
-> 非[[Participant Observation|参与观察]]是[[Qualitative Research|质性研究]]的一种观察方法。研究者不参与被观察群体的活动，而是从外部"保持距离"地系统观察和记录行为、互动和情境特征。与参与式观察不同，非参与观察者回避群体成员身份，保持研究者与研究对象之间的明确边界。这一方法在[[Case Study|个案研究]]、课堂观察和结构化行为[[Coding in Qualitative Research|编码]]中广泛应用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, pp. 291–292)]]
+> 非[[Participant Observation|参与观察]]是研究者不参与被观察群体活动、从外部保持距离地系统观察和记录行为的方法。与参与式观察不同，非参与观察者回避群体成员身份，保持研究者与研究对象之间的明确边界。在 Gold（1958）的观察者角色连续体中，非参与观察涵盖完全观察者和观察者即参与者两种角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1 节]]）。这一方法在[[Case Study|个案研究]]、课堂观察和结构化行为[[Coding in Qualitative Research|编码]]中广泛应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al., 2011, Ch14, pp. 291–292]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体或群体的外显行为、互动模式、语言使用、空间布置和环境特征。
@@ -55,11 +56,11 @@ updated: 2026-07-11
 
 ## 方法定位
 
-> [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 以可观察的外显行为为证据基础；研究者通过系统记录和分类来获取知识，而非通过沉浸和共情。
-> - **研究者角色** 研究者是"外部观察者"——不介入、不参与、不干扰。King（1979）在幼儿课堂中的实践是经典示例：站立保持社会距离、故意避免显示即时兴趣和回避眼神接触，以确立非参与地位。
-> - **有效性标准** 观察表的[[Reliability|信度]]（观察者间一致性）、[[Coding in Qualitative Research|编码]]系统的[[Content Validity|内容效度]]、记录的完整性和系统覆盖。
-> - **不声称回答的问题** 不能直接获取参与者的内在意义、主观体验或"内部人视角"的理解；不适合探究隐性文化规则或默会知识。
+> [!method-position] 认识论与方法定位
+> - **知识观** 以可观察的外显行为为证据基础；研究者通过系统记录和分类来获取知识，而非通过沉浸和共情
+> - **研究者角色** 研究者是外部观察者，不介入、不参与、不干扰。King（1979）在幼儿课堂中站立保持社会距离、故意避免眼神接触以确立非参与地位。Gold（1958）的完全观察者即为典型非参与角色——只观察、脱离群体，如通过单向镜或视频录像（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1, 23.9 节]]）
+> - **有效性标准** 观察表的[[Reliability|信度]]（观察者间一致性）、[[Coding in Qualitative Research|编码]]系统的[[Content Validity|内容效度]]、记录的完整性和系统覆盖
+> - **不声称回答的问题** 不能直接获取参与者的内在意义、主观体验或内部人视角的理解；不适合探究隐性文化规则或默会知识
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Case Study|个案研究]]、结构化[[Observation Method|观察研究]]、纵向观察追踪、调查补充
@@ -97,7 +98,10 @@ updated: 2026-07-11
 > - **Antonsen（1988）** 人工情境（儿童精神科诊所），非结构化观察
 > - **Houghton（1991）** 人工情境（咨询师办公室），结构化测试+访谈
 
-Bailey（1994: 247）解释：在自然情境中，研究者很难进行非参与观察——如果不表现出参与，那么为什么在那里？因此许多自然情境中的研究采用参与观察。实验室或人工情境中非参与观察（如视频记录）则更常见。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, p. 292)]]
+Bailey（1994, p. 247）解释：在自然情境中，研究者很难进行非参与观察，如果不表现出参与，那么为什么在那里？因此许多自然情境中的研究采用参与观察。实验室或人工情境中非参与观察（如视频记录）则更常见（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al., 2011, Ch14, p. 292]]）。
+
+> [!info] 非参与观察的情境维度（Ch23）
+> 非参与观察可在自然或人工情境中进行，可公开或隐蔽。典型的人工情境非参与观察包括：带单向镜的实验室观察、视频录像分析、结构化测试环境。单向镜使被观察者看不到观察者，从而减少反应性，但提出隐蔽研究的伦理问题。自然情境中的非参与观察（如课堂后方观察者）更常见于教育研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.8–23.9 节]]）。
 
 ## 适用场景
 
