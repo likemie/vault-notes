@@ -89,7 +89,7 @@ updated: 2026-07-23
 
 ### 量化研究中的评分者间信度
 
-> [!info] 量化研究中的定位
+> [!info] [[Quantitative Research|量化研究]]中的定位
 > 在[[Quantitative Research|量化研究]]中，评分者间[[Reliability|信度]]是信度作为等值性的一种形式（Carmines & Zeller, 1979）。如果多于一位研究者参与研究，必须确保所有研究者在数据录入方式上一致，这对收集[[Structured Observation|结构化观察]]或[[Semi-structured Interview|半结构化访谈]]数据的团队尤为重要。
 
 > [!feature] 量化评分者间信度的操作要素
@@ -99,13 +99,12 @@ updated: 2026-07-23
 > - **常见统计指标** Cohen's κ（两位评判者、类别评定）、Fleiss' κ（多位评判者）、组内相关系数 ICC（连续评分）
 > - **观察者漂移** 需避免疲劳和观察者漂移（observer drift），观察者随时间推移逐渐改变评分标准（Cooper & Schindler, 2001, p. 380）
 
-> [!formula] 评分者间信度的计算公式
+> [!formula-step] 评分者间信度的计算公式
 > $$
 > \text{一致性百分比} = \frac{\text{一致次数}}{\text{一致次数} + \text{不一致次数}} \times 100\%
 > $$
-
-> [!info] 信度标准
-> 应追求最低超过90%的一致性（Shaughnessy et al., 2003, p. 111）。观察者之间的相关性系数也应 >0.90（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
+>
+> 应追求最低超过90%的一致性（Shaughnessy et al., 2003, p. 111），观察者之间的相关系数也应 >0.90（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
 
 > [!example] 典型情境
 > 研究者关注儿童游乐场上的欺凌行为，请多位专家评判者在观看儿童互动的录像后，使用同一评定工具对欺凌行为进行评分。此时需要评估各位专家评判者评分之间的一致性，不同评判者是否对同一段录像中同一儿童的行为给出了相似的评分？[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
@@ -114,7 +113,7 @@ updated: 2026-07-23
 
 ### 质性研究中的评分者间信度
 
-> [!info] 质性研究中的定位
+> [!info] [[Qualitative Research|质性研究]]中的定位
 > Denzin & Lincoln (1994) 将评分者间信度列为[[Qualitative Research|质性研究]]中信度作为可复制性的三种检验方式之一：另一个拥有相同理论框架的观察者，观察相同现象，是否会以相同方式解释它们？
 >
 > Kleven (1995) 在[[Observation Method|观察研究]]中提出了对应的三个问题（pp. 206–207）：
@@ -154,7 +153,7 @@ Harlen (1994, pp. 140–142) 认为教师和学校本位评估中不一致的来
 ### 观察者培训的品质保障
 
 > [!feature] 观察者培训的六项核心品质
-> - **相同的操作性定义** 所有观察者使用统一的操作性定义
+> - **相同的[[Definition of Terms|操作性定义]]** 所有观察者使用统一的操作性定义
 > - **相同的记录方式** 以相同方式记录相同的观察
 > - **良好的专注力** 能够长时间保持注意力集中
 > - **聚焦细节的能力** 能够捕捉细微的行为和环境线索

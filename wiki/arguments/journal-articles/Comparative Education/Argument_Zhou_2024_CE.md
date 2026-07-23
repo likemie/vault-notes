@@ -114,7 +114,7 @@ citation_aliases:
 > | **民国教育法规与官方文本**<br>Official Legislation & Decrees | 分析1922年《学校系统改革案》（Decree on Reforming the Educational System）、1919年全国教育联合会决议案、1923年《新学制小学课程纲要草案总说明》等官方制度文本，考察[[Transfer Translation Transformation\|转译]]阶段的制度[[Coding in Qualitative Research\|编码]]。 |
 > | **教育期刊与报刊档案**<br>Periodical & Archival Analysis | 针对《新教育》（1919–1925）、《新教育评论》（1925–1928）、《教育杂志》、《新闻报》、《解放与改造》、《教育潮》等民国核心期刊进行文本检索与[[Discourse Analysis\|话语分析]]，重建改革者内部的学术论争与代际转向。 |
 
-> [!sample-panel]- 历史文献与史料构成（p.612）
+> [!sample-panel]- 历史[[Document|文献]]与史料构成（p.612）
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **演讲记录样本** | 杜威在华两年间巡回11个省份的讲演记录、口译与笔录整理文本。 |
@@ -164,7 +164,7 @@ citation_aliases:
 > | **制度定位** | 学制仅为框架，关键在于实施者的实践灵活性 | 学制为根本蓝图，必须追求世界一流与整体重组 |
 
 > [!warrant]- 理论解释：为什么杜威到来前的分歧预先决定了他的思想会被拆解
-> 这一前置分析至关重要：杜威思想在华被拆解与分割，绝非由于中国学者理解能力不足。正是因为民国教育场域在杜威到来前**已经存在**温和与激进的二元对立，杜威原本统一的体系（兼具民主理想与渐进方法）在落入这一场域时，不可避免地被两派各取所需——激进派借用其民主理想，温和派则推崇其渐进方法（pp.612–613）。
+> 这一前置分析至关重要：杜威思想在华被拆解与分割，绝非由于中国学者理解能力不足。正是因为民国教育[[Champ|场域]]在杜威到来前**已经存在**温和与激进的二元对立，杜威原本统一的体系（兼具民主理想与渐进方法）在落入这一场域时，不可避免地被两派各取所需——激进派借用其民主理想，温和派则推崇其渐进方法（pp.612–613）。
 
 ---
 
@@ -292,15 +292,20 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote] 论文核心原文引用
-> > “虽然民主教育的理想与渐进式改革在[[John Dewey|杜威]]的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。”
-> > ("While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in Dewey's writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.") (p.611)
-> 
-> > “杜威的思想在民国时期的中国不断被重新发明，被接受的杜威在很大程度上是一个碎片化的杜威，诞生于其不断变化的社会政治和文化语境之中。”
-> > ("Dewey's ideas were subject to constant reinvention in Republican China and that the received Dewey was largely a fragmented Dewey born out of its ever-shifting socio-political and cultural context.") (pp.609–610)
-> 
-> > “杜威可以被用来支持激进或温和的立场，既可以用来支持强调民主教育的新教育，也可以用来支持强调[[Scientific Attitude|科学态度]]的新教育。杜威不仅可以成为促进外国理想的框架的一部分，也可以成为促进国家发展的框架的一部分。”
-> > ("Dewey could be used to support either radical or moderate positions, and both a new education stressing democratic education and one emphasising the scientific attitude. Dewey could not only be part of a framework promoting foreign ideals but also part of one promoting national development.") (p.622)
+> [!citation-card]- 民主理想与渐进改革在民国语境中的悖论性分离
+> 虽然民主教育的理想与渐进式改革在[[John Dewey|杜威]]的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。（p.611）
+>
+> *While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in Dewey's writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.*
+
+> [!citation-card]- 杜威思想在华的不断重新发明与碎片化接收
+> 杜威的思想在民国时期的中国不断被重新发明，被接受的杜威在很大程度上是一个碎片化的杜威，诞生于其不断变化的社会政治和文化语境之中。（pp.609–610）
+>
+> *Dewey's ideas were subject to constant reinvention in Republican China and that the received Dewey was largely a fragmented Dewey born out of its ever-shifting socio-political and cultural context.*
+
+> [!citation-card]- 杜威思想的多重政治工具化与国家发展框架融合
+> 杜威可以被用来支持激进或温和的立场，既可以用来支持强调民主教育的新教育，也可以用来支持强调[[Scientific Attitude|科学态度]]的新教育。杜威不仅可以成为促进外国理想的框架的一部分，也可以成为促进国家发展的框架的一部分。（p.622）
+>
+> *Dewey could be used to support either radical or moderate positions, and both a new education stressing democratic education and one emphasising the scientific attitude. Dewey could not only be part of a framework promoting foreign ideals but also part of one promoting national development.*
 
 ---
 
@@ -308,7 +313,7 @@ citation_aliases:
 
 > [!warning] 作者自述的研究局限
 > - **碎片化概念隐含的未检前提** 碎片化（fragmentation）在逻辑上预设了碎片前存在一个完整整体。但论文未充分论证：在一个完全缺乏民主前提的社会中，完整接受[[John Dewey|杜威]]是否在客观上具备任何可能性？如果整体概念本身即是不可能的空想，那么碎片化究竟是接受者的缺陷，还是跨国[[Knowledge Transfer|知识转移]]的标准常态？（p.622）
-> - **二元分析框架的历史简化风险** 论文采用激进派 vs. 温和派的二元结构组织全篇论证，清晰高效。然而历史人物的实际立场往往具有流动性与复合性（如[[Jiang Menglin|蒋梦麟]]亦曾强调中国文化根基，[[Tao Xingzhi|陶行知]]始终未放弃教育改造社会的终极理想）。将复杂的历史言论硬性归入二元对立，存在一定程度的历史简化风险（pp.613, 620）。
+> - **二[[Meta-analysis|元分析]]框架的历史简化风险** 论文采用激进派 vs. 温和派的二元结构组织全篇论证，清晰高效。然而历史人物的实际立场往往具有流动性与复合性（如[[Jiang Menglin|蒋梦麟]]亦曾强调中国文化根基，[[Tao Xingzhi|陶行知]]始终未放弃教育改造社会的终极理想）。将复杂的历史言论硬性归入二元对立，存在一定程度的历史简化风险（pp.613, 620）。
 > - **缺乏与其他非西方国家的跨国比较** 论文虽然在结论中提到了全球视角，但正文仅聚焦于中国案例，未与同时期同样大规模引入杜威的其他国家（如日本、土耳其、墨西哥、苏联）进行横向比较。这使得论文无法完全断定杜威的碎片化究竟是民国中国的特例，还是所有非西方国家在引入西方理论时的普遍规律（p.623）。
 
 ---

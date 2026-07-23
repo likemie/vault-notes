@@ -6678,6 +6678,11 @@
   letter-spacing: 0.02em;
 }
 
+/* ─── 正文段落保持正常字体 ────── */
+.callout[data-callout="formula"] .callout-content > p {
+  font-family: inherit;
+}
+
 /* ─── 公式岛：block math 居中高亮 ─────────────────────── */
 .callout[data-callout="formula"] .callout-content mjx-container[display="true"],
 .callout[data-callout="formula"] .callout-content .math-block {

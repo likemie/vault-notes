@@ -4,14 +4,14 @@ aliases:
   - Dewey, J.
   - 约翰·杜威
   - 杜威
-summary: "美国哲学家、心理学家与教育改革家，实用主义、功能心理学和进步教育代表人物，以经验、探究、民主和成长重构教育与公共生活，1919–1921 年访华深刻影响中国新教育运动。"
+summary: "美国哲学家、心理学家与教育改革家，实用主义、功能心理学和进步教育代表人物，其经验、探究与民主理论对中美苏联等国教育变革与跨国知识转移产生了深远影响。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 31
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
   - field/educational-philosophy
   - field/progressive-education
@@ -33,129 +33,150 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Junzi]]"
   - "[[Examination-Oriented Education]]"
-related_theories: []
-related_methods: []
+  - "[[Knowledge Transfer]]"
+related_theories:
+  - "[[Transfer Translation Transformation]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
   - "[[Stanislav Shatskii]]"
+  - "[[Robert Cowen]]"
 related_facts:
   - "[[New Education Movement]]"
+  - "[[1904 Educational System]]"
+  - "[[John Dewey's 1928 Visit to the Soviet Union]]"
 related_arguments:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Argument_Zhou_2024_CE]]"
   - "[[Argument_Ryabyy_2024_Maneto]]"
-confidence: medium
-status: draft
+  - "[[Argument_Cowen_2009_CE]]"
+confidence: high
+status: active
 created: 2026-05-26
-updated: '2026-06-08'
+updated: '2026-07-23'
 ---
+
 # John Dewey
+
+---
 
 ## 简介
 
-> [!info]
-> 约翰·杜威（John Dewey, 1859–1952）是美国哲学家、心理学家、教育改革家和公共知识分子，通常被视为[[Pragmatic Paradigm|实用主义]]、功能心理学和[[Progressive Education|进步教育]]的核心代表。其思想以经验 (experience)、探究 (inquiry)、民主 (democracy) 和成长 (growth) 为中心，将教育理解为社会生活连续更新的过程，而非单纯为未来生活做准备的训练。
+> [!person-profile] 人物档案
+> - **身份位置** 美国哲学家、心理学家、教育改革家与公共知识分子；[[Pragmatic Paradigm|实用主义]]、功能心理学与[[Progressive Education|进步教育]]核心代表人物；曾任芝加哥大学系主任、哥伦比亚大学哲学与教育学教授。
+> - **核心角色** 在教育哲学、经验论、探究理论与跨国教育转移网络中担任关键奠基节点；提出“教育即生活、学校即社会”与“民主作为联合生活方式”的解释框架，深刻重构了现代教育与公共生活关系。
+> - **代表贡献** 奠定[[Progressive Education|进步教育]]与[[Pragmatic Paradigm|实用主义]]教育[[Paradigm|范式]]；提出基于[[Hypothesis|假设]]与[[Reflexivity|反思性]]探究的教师专业观；推动1919–1921年中国[[New Education Movement|新教育运动]]及美苏跨国教育传播与[[Recontextualization|再脉络化]]（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.73–77]]；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–618]]）。
+
+> [!citation-card]- 杜威思想在跨国传播中的悖论与再重构
+> 虽然民主教育的理想与渐进式改革在杜威的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.611]]）
 >
-> 在教育哲学上，杜威主张学校应成为一种有组织的社会环境，使儿童通过活动、合作、问题解决和[[Reflexivity|反思性]]经验学习民主生活。1919–1921 年访华讲学期间，他的思想经由[[Hu Shi|胡适]]、[[Jiang Menglin|蒋梦麟]]、[[Tao Xingzhi|陶行知]]等人进入中国教育改革话语，影响[[New Education Movement|新教育运动]]、1922 年学制改革及后来围绕[[Quality Education|素质教育]]、[[Scientific Attitude|科学态度]]和教育现代化的争论([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.73–77；Zhou & Westberg, 2024, pp.614–618]])。
+> *While the ideal of democratic education and gradual and incremental reform were consistent and in harmony with each other in Dewey's writings and lectures, their relationship turned out to be much more complex in Republican China, where the actualisation of democracy in education would require radical changes.*
 
 ---
 
 ## 生平与职涯
 
-...
+> [!timeline] 生平与职涯
+> - **1859** 出生于美国佛蒙特州伯灵顿。
+> - **1884** 获约翰斯·霍普金斯大学博士学位，先后任教于密歇根大学与明尼苏达大学。
+> - **1894–1904** 任芝加哥大学哲学、心理学与教育学系主任，创办芝加哥大学实验学校（University of Chicago Laboratory Schools），将活动课程、社会性学习与“学校即社会”主张置于实验性教育实践中检验。
+> - **1904–1930** 任哥伦比亚大学教授，出版 *Democracy and Education* (1916) 等里程碑著作，奠定其作为20世纪最具全球影响力的教育哲学家的学术地位。
+> - **1919–1921** 应邀赴华巡回11个省份发表200余场讲演，深刻影响民国[[New Education Movement|新教育运动]]、[[1922 Educational System Reform|1922年学制改革]]及后续教育现代化讨论。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–618]]）
+> - **1928** 访问苏联并考察试验学校，与 [[Stanislav Shatskii]] 等苏联教育家直接会面，推动[[Progressive Education|进步教育]]在美苏[[Cultural Diplomacy|文化外交]]中的跨国传播。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）
+> - **1952** 逝世于纽约，享年92岁。
 
-### 大学任职与教育实验
+---
 
-- **1894–1904** — 任芝加哥大学哲学、心理学与教育学系主任，创办 University of Chicago Laboratory Schools，将其活动课程、社会性学习和学校即社会主张置于实验性教育实践中检验。
-...
+## 主要著作与思想发展
+
+> [!thought-timeline] 思想发展
+> - **1890s–1900s — [[Pragmatic Paradigm|实用主义]]心理学与芝加哥实验时期**
+>   - **代表著作** *The School and Society* (1899), *The Child and the Curriculum* (1902)。
+>   - **关键概念／方法** [[Progressive Education|进步教育]]、经验连续性、活动课程。
+>   - **阶段转向** 克服传统教育中“科目本位”与“儿童本位”的二元割裂，主张学校应成为有组织的社会环境，通过合作与问题解决获得经验。
+> - **1910s — 民主教育理论与哲学体系构建时期**
+>   - **代表著作** *How We Think* (1910), *Democracy and Education* (1916)。
+>   - **关键概念／方法** [[Reflexivity|反思性]]探究、民主联合生活方式、渐进[[Pragmatism in China|实验主义]]。
+>   - **阶段转向** 将经验论提升为公共民主生活与教育连续重组的哲学框架，强调改革“只能零碎地、一步一个脚印地完成”（Dewey [1916] 2018, pp.146–147）。
+> - **1920s–1930s — 公共性批判、确定性反思与跨国传播时期**
+>   - **代表著作** *The Public and Its Problems* (1927), *The Quest for Certainty* (1929), *Experience and Education* (1938)。
+>   - **关键概念／方法** [[Scientific Attitude|科学态度]]、[[Recontextualization|再脉络化]]、[[Cultural Diplomacy|文化外交]]、[[Transfer Translation Transformation|3T 框架]]。
+>   - **阶段转向** 关注公共危机与确定性执念批判，其思想在华、在苏被选择性吸收、拆解与再利用，民主理想、科学态度与渐进方法在接收国语境中呈现出分化与重构。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.621–623]]；[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）
 
 ---
 
 ## 核心思想
 
-> [!tip]-
-> 杜威的思想不只是儿童中心教学法，而是一套关于经验、知识、民主和社会改革如何相互支撑的哲学。
+> [!claim] 核心主张
+> 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育不是为未来生活做准备，而是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的[[Hypothesis|假设]]（[[Hypothesis|假设]]）；民主不仅是政治政体，更是自由交流与共同解决问题的“联合生活方式”；教育重组则必须遵循一步一个脚印的渐进实验路径（Dewey [1916] 2018, pp.93, 146–147）。
 
-### 经验、探究与知识
-
-杜威把经验理解为有机体与环境之间连续的交易过程，而不是主体对外部对象的被动接收。知识的价值不在于抵达脱离行动的绝对确定性，而在于通过实验和反思形成可公开检验、可修正的担保性判断。这也是杜威反对把证据理解为行动规则的原因：证据只能为具体情境中的明智问题解决提供[[Hypothesis|假设]]（Dewey, quoted in Hattie, 2008, p.147；见 Argument_Snook_2009_NZJES）。
-
----
-
-### 教育、学校与课程
-
-教育不是为未来生活做准备，而是一种支持社会生活连续更新的过程。杜威把学校理解为特殊环境：学校需要简化、组织并净化复杂社会经验，使儿童在其中练习合作、组织、创造和公共判断（Dewey [1921] 2007, pp.193–196）。
-
-课程方面，杜威反对把知识拆成彼此隔绝、只供记忆的科目单位；课程应围绕儿童经验与社会活动组织，让历史、地理、公民、卫生等知识在共同问题中形成连续性。这一思路也解释了 1923 年中国课程改革中社会科整合为何被 Zhou & Westberg 视为更接近杜威的部分([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.618]])。
-
----
-
-### 民主、公共性与渐进改革
-
-杜威视民主不只是一种政体，而是一种联合生活方式（a way of life）。民主教育应培养自由交流、批判探究和共同解决问题的能力（Dewey [1916] 2018, p.93）。因此，学校、新闻传播、公民社会和公共舆论都属于民主能否实际运行的教育条件。
-
-在改革路径上，杜威反对激进与保守的二元对立，主张教育改革只能一步步地、零碎地完成（Dewey [1916] 2018, pp.146–147）。他提倡[[Pragmatism in China|实验主义]]（experimentalism）作为调和新旧的中介路径，即通过试错 (trial and error) 逐步改进（Dewey [1919–1921] 2007, pp.191–192, 222, 319）。
-
----
-
-### 教师专业性
-
-杜威反对把教师教育简化为[[Classroom Management|课堂管理]]和教学技巧训练。教师专业性的核心在于持续研究儿童、学科、方法和社会情境，在具体课堂中保持[[Reflexivity|反思性]]判断与智性责任。这一思想后来与[[Professional Judgment|专业判断]]、反思性实践和对[[Technical Rationality|技术理性]]的批判形成重要连接。
-
-> [!quote]
-> "the work of education is constructive" — Dewey [1916] 2018, p.287
-> 
-> 教育的工作是建设性的。
+> [!citation-card]- 关键表述：教育的重组与建设性本质
+> 教育的工作是建设性的。教育的重组……只能零碎地完成，一步一个脚印。（Dewey [1916] 2018, pp.146–147, 287）
 >
-> "A reorganization of education ... can only be accomplished piecemeal, a step at a time" — Dewey [1916] 2018, pp.146–147
-> 
-> 教育的重组……只能零碎地完成，一步一个脚印。
+> *The work of education is constructive. A reorganization of education ... can only be accomplished piecemeal, a step at a time.*
 
 ---
 
-## 思想发展
+## 影响路径
 
-...
+> [!influence-path] 影响路径
+> - **理论路径** 奠定[[Pragmatic Paradigm|实用主义]]教育哲学，重构了经验、探究与知识的关系，反对绝对确定性执念，将证据理解为情境行动中可修正的[[Hypothesis|假设]]（Dewey quoted in Hattie, 2008, p.147）。
+> - **方法路径** 推崇[[Reflexivity|反思性]]探究与试错实验，批判[[Technical Rationality|技术理性]]与将教师简化为[[Classroom Management|课堂管理]]技巧训练的倾向，倡导保持[[Professional Judgment|专业判断]]。
+> - **政策与实践路径** 推动了综合课程、学分制、活动教学法以及从科目隔绝转向社会科整合的全球课程改革趋势。
+> - **跨国传播与重构**
+>   - **民国中国（1919–1928）** 经历 Cowen [[Transfer Translation Transformation|3T 框架]]演变：**转移阶段**（1919–1921）民国精英拥抱其民主目标而忽略其渐进方法；**转译阶段**（1922–1923）在1922新学制中对民主实施去政治化折算（退缩为“平民/普及教育”），并在1923课程中出现取消农业科的美式错位；**转化阶段**（1923–1928）民国现实受挫后从民主理想转向《新教育评论》倡导的[[Scientific Attitude|科学态度]]与乡村教育。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–623]]）
+>   - **建国后中国（1949至今）** 经历三重变形：1950年代被彻底定性为反动主观唯心主义；1980年代恢复名誉并被重塑为现代化与科学创新的旗手；1990年代至今被用于为[[Quality Education|素质教育]]提供理论基础、反对[[Examination-Oriented Education|应试教育]]以及批判野蛮新自由主义。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.79–93]]）
+>   - **苏联语境（1920s–1930s）** 1920年代被广泛翻译吸收并与 [[Stanislav Shatskii]] 会面；1930年代因其自下而上的民主成长观与苏联阶级意识形态教育发生冲突而被全面摒弃。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）
 
-### 1920s–1930s — 公共性、确定性批判与跨国传播
-
-- 核心内容：从 *The Public and Its Problems*、*The Quest for Certainty* 到 *Logic: The Theory of Inquiry*，杜威进一步把探究理论扩展到公共生活、[[Theory of Knowledge|知识论]]和社会行动；1928 年访苏也使其[[Progressive Education|进步教育]]思想进入美苏[[Cultural Diplomacy|文化外交]]与教育交流的可见事件中([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]])。
-- 思想发展：杜威思想在中国、苏联等语境中被选择性吸收、批判和[[Recontextualization|再脉络化]]，民主理想、[[Scientific Attitude|科学态度]]与渐进实验方法不再总能保持原有统一关系([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.621–622]])。
-...
-
----
-
-## 影响
-
-> [!success]
-> 单独记录杜威对教育研究、公共哲学、跨国教育改革和中国教育话语的影响。
-
-...
-
-### 中国教育改革
-
-- 1919–1921 年访华期间，其思想和演讲成为[[New Education Movement|新教育运动]]的重要理论资源；《新教育》杂志及哥伦比亚大学师范学院归国学生网络共同推动其传播([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.73；Zhou & Westberg, 2024, pp.614–615]])。
-- 1922 年学制改革的七项标准和 1923 年课程改革吸收了杜威关于社会适应、个性发展、生活教育、地方伸缩和课程整合的部分思想，但也将民主教育目标去政治化，并弱化其渐进改革方法([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.617–618]])。
-- 其学校即社会理念被中国教育改革者吸收为将教育与现实社会连接的理论资源，尤其体现在 [[Tao Xingzhi|陶行知]]的平民教育实践中([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.621]])。
-...
+> [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 运用 Cowen 3T 框架拆解杜威思想在民国中国1919–1928年的转移、转译与转化机制。
+> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 分析杜威思想在建国后中国教育话语中的三重变形与政治重构。
+> - [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] — 探究1928年杜威访苏及[[Progressive Education|进步教育]]在美苏[[Cultural Diplomacy|文化外交]]中的交锋与断裂。
 
 ---
 
-### 苏联与进步教育跨国传播
+## 关系网络
 
-- 苏联教育者在十月革命前后广泛阅读 Dewey 的著作——*School and Society* 和 *The School and the Child* 被翻译成俄文，极大地影响了俄国教育学的发展。在 1920 年代，Dewey 在苏联被视为最知名的作者之一，其肖像和思想被收录于苏联编纂的 *Pedagogicheskaya Entisiklopediya* 中([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.104]])。
-- 1928 年访苏期间，Dewey 与 [[Stanislav Shatskii]] 等[[Progressive Education|进步教育]]者直接会面；这一访问既是美苏民间文化交流，也是进步教育美国版本与苏联版本之间的直接接触([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103, 107]])。
-- 1930 年代后，苏联因 Dewey 对教育目标的理解（创造一个促进儿童成长的环境）与阶级意识教育的冲突而全面拒绝其思想（Mchitarjan 2000; Gorshkova 2015，引自 Ryabyy, 2024, pp.103–104）。
+> [!person-network] 关系网络
+> - **学生／中国追随者与传播者** [[Hu Shi|胡适]]、[[Jiang Menglin|蒋梦麟]]、[[Tao Xingzhi|陶行知]]、赵乃传、查良钊 — 推动杜威思想在华翻译、讲演安排、制度落地与乡村教育实践。
+> - **跨国同行** [[Stanislav Shatskii]] — 苏联[[Progressive Education|进步教育]]代表人物，1928年与杜威在苏直接会面交流。
+> - **理论研究与解释者** [[Robert Cowen]] — 提出 [[Transfer Translation Transformation|3T 框架]]解释杜威等外来思想在跨国转移中的拆解与变质。
+> - **核心机构与项目** 芝加哥大学实验学校、哥伦比亚大学师范学院、[[New Education Movement|新教育运动]]、1922年新学制改革。
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议
+>
+> > [!axis] 民主理想与渐进方法的内在张力
+> > 学者讨论杜威哲学在非西方危机社会中的适用性：杜威原典中统一的“民主目标”与“渐进方法”，在缺乏民主根基与处于危局的社会中容易演化为二选一的冲突——追求民主需要激进变革，坚持渐进则可能导致改革遥遥无期。（Johnston, 2012；[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.611, 622]]）
+>
+> > [!axis] 苏联阶级意识形态与杜威儿童中心主义的冲突
+> > 1930年代苏联学界批评杜威的教育适应论忽略了阶级斗争与集体主义政治教育，最终导致苏联全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
+
+> [!critique]- 批评索引
+> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录1950年代中国教育界对杜威自然主义、[[Pragmatic Paradigm|实用主义]]及所谓“反科学”立场的批判。
+> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 评估“碎片化”概念预设完整整体的逻辑局限，指出外来理论在危局中被功能性筛选是跨国传播的常态。
+
+> [!warning] 未解问题与边界
+> 杜威关于“一步一个脚印”的渐进实验建言，在面对制度彻底腐朽或急迫存亡危机时，能否提供足够迅速的现实解决方案，仍是比较教育与政治哲学中持续争论的理论边界。
 
 ---
 
-### 中国再脉络化
+## 条目关联
 
-- 1949 年中华人民共和国成立后，杜威在中国被彻底妖魔化：被定性为反动、主观唯心主义和教育史上最大的伪[[Junzi|君子]]和骗子([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.79–80]])。1950 年代，其自然主义、所谓反科学立场以及关于不确定性的主张成为系统批判的三大靶点([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.80–82]])。文化大革命（1966–1976）期间，杜威几乎完全从中国话语中消失——尽管其实践与四人帮的教育政策存在表面相似性([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.82–83]])。
-- 1980 年代初，杜威通过其学生[[Tao Xingzhi|陶行知]]的中间作用得以间接恢复名誉。从 1982–1983 年开始，对其思想的负面定性逐渐从文章的核心论证退居到首尾位置以应付审查，其贡献开始被正面承认([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.84–86]])。到 1980 年代末，杜威已被重塑为科学创新、个体与社会和谐统一、以及现代化改革的旗手([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.86–89]])。
-- 1990 年代至今，杜威被纳入中国教育改革的各个争论：他被用来为[[Quality Education|素质教育]]（suzhi jiaoyu）提供理论基础，被视为反对[[Examination-Oriented Education|应试教育]]的理论资源([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–92]])；同时被用来批评中国式新自由主义，被当作负责任自由主义的真正代表——不同于 1990 年代中国的野蛮新自由主义([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.93]])。
-- [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, p.93)]]总结道：杜威在中国经历了三重变形——从科学与知识的对立面变为创新科学的象征；从不道德的资本主义自我中心变为个体与社会和谐统一的符号；从马克思主义-社会主义的批判对象变为中国国家治理反对新自由主义的话语盟友——真正成为又红又专的杜威 (Duwei)。
-
----
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Pragmatic Paradigm]] | 概念 | 提出实用主义哲学与经验探究论，重构科学与探究关系。 |
+> | [[Progressive Education]] | 概念 | 创立芝加哥实验学校，倡导活动课程与以儿童为中心的学习。 |
+> | [[Scientific Attitude]] | 概念 | 思想在华转化阶段被重构为注重客观事实与调查实验的科学态度。 |
+> | [[Transfer Translation Transformation]] | 理论 | 作为分析杜威思想在华与跨国传播中拆解与重构的核心理论框架。 |
+> | [[New Education Movement]] | 政策 | 1919–1921年访华讲演直接推动民国新教育运动与1922年新学制改革。 |
+> | [[1904 Educational System]] | 制度 | 杜威思想传入民国中国时，被激进派与温和派用作讨论癸卯学制去留的武器。 |
