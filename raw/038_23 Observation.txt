@@ -1,0 +1,1146 @@
+23 Observation
+==============
+
+Observation
+
+CHAPTER 23
+
+Observation is a widely used means of data collection, and it takes many forms. This chapter addresses several different kinds of observation and how to plan, conduct and report them. Given the spread of types of observation and the issues related to them, we address:
+
+[图片: images/038_23 Observation/001_box.jpg | image]
+ structured observation
+
+[图片: images/038_23 Observation/002_box.jpg | image]
+ the need to practise structured observation
+
+[图片: images/038_23 Observation/003_box.jpg | image]
+ analysing data from structured observations
+
+[图片: images/038_23 Observation/004_box.jpg | image]
+ critical incidents
+
+[图片: images/038_23 Observation/005_box.jpg | image]
+ naturalistic and participant observation
+
+[图片: images/038_23 Observation/006_box.jpg | image]
+ data analysis for less structured observations
+
+[图片: images/038_23 Observation/007_box.jpg | image]
+ natural and artificial settings for observation
+
+[图片: images/038_23 Observation/008_box.jpg | image]
+ the use of technology in recording observations
+
+[图片: images/038_23 Observation/009_box.jpg | image]
+ timing and causality with observational data
+
+[图片: images/038_23 Observation/010_box.jpg | image]
+ ethical considerations
+
+[图片: images/038_23 Observation/011_box.jpg | image]
+ some cautionary comments
+
+This chapter can also be read with Chapters 11 and 27.
+
+23.1 Introduction
+
+Observation is more than just looking. It is looking (often systematically) and noting systematically (always) people, events, behaviours, settings, artefacts, routines and so on (Marshall and Rossman, 1995; Simpson and Tuson, 2003: 2). The distinctive feature of observation as a research process is that it offers an investigator the opportunity to gather ‘live’ data from naturally occurring social situations. In this way, the researcher can look directly at what is taking place in situ rather than relying on second-hand accounts. The use of immediate awareness, or direct cognition, as a principle mode of research thus has the potential to yield more valid or authentic data than would otherwise be the case with mediated or inferential methods. And this is observation’s unique strength. There are other attractions in its favour: as Robson says (2002: 310), what people do may differ from what they say they do, and observation provides a reality check; observation also enables a researcher to look afresh at everyday behaviour that otherwise might be taken for granted, expected or go unnoticed (Cooper and Schindler, 2001: 374); and the approach with its carefully prepared recording schedules avoids problems caused when there is a time gap between the act of observation and the recording of the event – selective or faulty memory, for example. Finally, on a procedural point, some participants may prefer the presence of an observer to an intrusive, time-consuming interview or questionnaire.
+
+Observation can be of facts, e.g. the number of books in a classroom, the number of students in a class, the number of students who visit the school library in a given period. It can also focus on events as they happen in a classroom, e.g. the amount of teacher and student talk; the amount of off-task conversation; the amount of group collaborative work. Further, it can focus on behaviours or qualities, e.g. the friendliness of the teacher; the degree of aggressive behaviour; the extent of unsociable behaviour amongst students.
+
+One can detect here a putative continuum from the observation of uncontestable facts to the researcher’s interpretation and judgement of situations, which are then recorded as observations. What counts as evidence immediately becomes cloudy in observation, because what we observe depends on when, where and for how long we look, how many observers there are, and how we look. It also depends on what is taken to be evidence of, or a proxy for, an underlying, latent construct. What counts as acceptable evidence of unsociable behaviour in the example above requires an operational definition that is valid and reliable. Observers need to decide ‘what is the observation evidence’, for example: is the degree of wear and tear on a book in the school library an indication of its popularity, or carelessness by its readers, or of destructive behaviour by students? One cannot infer cause from effect, intention from observation, stimulus from response.
+
+Observational data are sensitive to contexts and demonstrate strong ecological validity (Moyles, 2002). This enables researchers to understand the context of programmes, to be open-ended and inductive, to see things that might otherwise be unconsciously missed, to discover things that participants might not freely talk about in interview situations, to move beyond perception-based data (e.g. opinions in interviews) and to access personal knowledge. Because observed incidents are less predictable there is a certain freshness to this form of data collection that is often denied in other forms, e.g. a questionnaire or a test.
+
+Observation is a highly flexible form of data collection that can enable the researcher to have access to interactions in a social context and to yield systematic records of these in many forms and contexts, to complement other kinds of data (Simpson and Tuson, 2003: 17).
+
+Observations (Morrison, 1993: 80) enable the researcher to gather data on:
+
+[图片: images/038_23 Observation/012_box.jpg | image]
+ the physical setting (e.g. the physical environment and its organization);
+
+[图片: images/038_23 Observation/013_box.jpg | image]
+ the human setting (e.g. the organization of people, the characteristics and make up of the groups or individuals being observed, for instance, gender, class);
+
+[图片: images/038_23 Observation/014_box.jpg | image]
+ the interactional setting (e.g. the interactions that are taking place, formal, informal, planned, unplanned, verbal, non-verbal, etc.);
+
+[图片: images/038_23 Observation/015_box.jpg | image]
+ the programme setting (e.g. the resources and their organization, pedagogic styles, curricula and their organization).
+
+Additionally, observational data may be useful for recording non-verbal behaviour, behaviour in natural or contrived settings, and longitudinal analysis (Bailey, 1994: 244). On the other hand, the lack of control in observing in natural settings may render observation less useful, coupled with difficulties in measurement, problems of small samples, difficulties of gaining access and negotiating entry, and difficulties in maintaining anonymity (Bailey, 1994: 245-6). Observation can be a powerful research tool, but it is not without its difficulties, and this chapter exposes and addresses these.
+
+Patton (1990: 202) suggests that observational data should enable the researcher to enter and understand the situation that is being described. The kind of observations available to the researcher lie on a continuum from unstructured to structured, responsive to pre-ordinate. A highly structured observation will know in advance what it is looking for (i.e. pre-ordinate observation) and will have its observation categories worked out in advance. A semi-structured observation will have an agenda of issues but will gather data to illuminate these issues in a far less predetermined or systematic manner. An unstructured observation will be far less clear on what it is looking for and will therefore have to go into a situation and observe what is taking place before deciding on its significance for the research. In a nutshell, a structured observation will already have its hypotheses decided and will use the observational data to conform or refute these hypotheses. On the other hand, a semi-structured and, more particularly, an unstructured observation, will be hypothesis-generating rather than hypothesis-testing. The semi-structured and unstructured observations will review observational data before suggesting an explanation for the phenomena being observed.
+
+Though it is possible to argue that all research is some form of participant observation since we cannot study the world without being part of it (Adler and Adler, 1994), nevertheless Gold (1958) offers a well-known classification of researcher roles in observation, that lie on a continuum:
+
+[图片: images/038_23 Observation/016_box.jpg | image]
+ The complete participant (a member of the group who conceals her/his role as an observer, whose knowledge of the group/situation may be intimate and who may gain ‘insider knowledge’, but who may be viewed with suspicion or resentment by the other members when his/her true role comes to light and who may lack the necessary objectivity to observe reliably).
+
+[图片: images/038_23 Observation/017_box.jpg | image]
+ The participant-as-observer (a member of the group who reveals her/his role as an observer, whose knowledge of the group/situation may be intimate and who may gain ‘insider knowledge’, but who may lack the necessary objectivity to observe reliably and with whom confidences and confidential data may not be shared or given respectively).
+
+[图片: images/038_23 Observation/018_box.jpg | image]
+ The observer-as-participant (not a member of the group, but who may participate a little or peripherally in the group’s activities, and whose role as researcher is clear and overt, as unobtrusive as possible, without those being observed always knowing who is the researcher, and whose access to information and people may be incomplete or restricted).
+
+[图片: images/038_23 Observation/019_box.jpg | image]
+ The complete observer (who only observes (overt or covert) and is detached from the group, e.g. an outside observer, or where the observer is not covert but whose presence is unnoticed by the group e.g. an observer at a crowded rail station).
+
+The move is from complete participation to complete detachment. The mid-points of this continuum strive to balance involvement with detachment, closeness with distance, familiarity with strangeness. The role of the complete observer is typified in the two-way mirror, the video recording, the audio recording and the photograph, whilst complete participation involves researchers taking on membership roles (overt or covert).
+
+Traditionally observation has been characterized as non-interventionist, where researchers do not seek to manipulate the situation or subjects, they do not pose questions for the subjects, nor do they deliberately create ‘new provocations’ (Adler and Adler, 1994: 378). Quantitative research tends to have a small field of focus, fragmenting the observed into minute chunks that can subsequently be aggregated into a variable. Qualitative research, on the other hand, draws the researcher into the phenomenological complexity of participants’ worlds; here situations unfold, and connections, causes and correlations can be observed as they occur over time. The qualitative researcher aims to catch the dynamic nature of events, to see intentionality, to seek trends and patterns over time.
+
+If we know in advance what we wish to observe, i.e. if the observation is concerned to chart the incidence, presence and frequency of elements and maybe wishes to compare one situation with another, then it may be more efficient in terms of time to go into a situation with a prepared observation schedule. If, on the other hand, we want to go into a situation and let the elements of the situation speak for themselves, perhaps with no concern with how one situation compares with another, then it may be more appropriate to opt for a less structured observation.
+
+The former, structured observation, takes much time to prepare but the data analysis is fairly rapid, the categories having already been established, whilst the latter, less structured approach, is quicker to prepare but the data take much longer to analyse. The former approach operates within the agenda of the researcher and hence might neglect aspects of the four settings above if they do not appear on the observation schedule, i.e. it looks selectively at situations. On the other hand, the latter operates within the agenda of the participants, i.e. it is responsive to what it finds and therefore, by definition, is honest to the situation as it unfolds. Here selectivity derives from the situation rather than from the researcher in the sense that the key issues which emerge follow from the observation rather than the researcher knowing in advance what those key issues will be. Structured observation is useful for testing hypotheses, whilst unstructured observation provides a rich description of a situation which, in turn, can lead to the subsequent generation of hypotheses.
+
+Flick (1998: 137) suggests that observation has to be considered along five dimensions:
+
+[图片: images/038_23 Observation/020_box.jpg | image]
+ structured, systematic and quantitative observation versus unstructured and unsystematic and qualitative observation;
+
+[图片: images/038_23 Observation/021_box.jpg | image]
+ participant observation versus non-participant observation;
+
+[图片: images/038_23 Observation/022_box.jpg | image]
+ overt versus covert observation;
+
+[图片: images/038_23 Observation/023_box.jpg | image]
+ observation in natural settings versus observation in unnatural, artificial settings (e.g. a ‘laboratory’ or contrived situation);
+
+[图片: images/038_23 Observation/024_box.jpg | image]
+ self-observation versus observation of others.
+
+Cooper and Schindler (2001: 375) suggest that observation can be considered along three dimensions:
+
+[图片: images/038_23 Observation/025_box.jpg | image]
+ whether the observation is direct or indirect (the former requiring the presence of the observer; the latter requiring recording devices, e.g. video cameras);
+
+[图片: images/038_23 Observation/026_box.jpg | image]
+ whether the presence of the observer is known or unknown (overt or covert research, whether the researcher is concealed (e.g. through a two-way mirror or hidden camera) or partially concealed, i.e. the researcher is seen but not known to be a researcher, e.g. the researcher takes up a visible role in the school);
+
+[图片: images/038_23 Observation/027_box.jpg | image]
+ the role taken by the observer (participant to non-participant observation, discussed below).
+
+We address these throughout the chapter, and present these dimensions and others in Figure 23.1.
+
+[图片: images/038_23 Observation/028_f0458-01.jpg | image]
+
+FIGURE 23.1 Continua of observation
+
+Observation, in general, is not only time-consuming but is prone to bias – in terms of what, why, when, where, who and how the observer is observing. Observations are inevitably selective, and, in part, depend as much on the observer’s attention and opportunity to observe as they do on the observational instruments and data collection techniques used. Hence great caution and reflexivity are requisites for this form of data collection. As with other forms of data collection, observational data must be collected that enable research questions to be answered. Indeed Simpson and Tuson (2003: chapter 2) suggest that observers need to consider:
+
+[图片: images/038_23 Observation/029_box.jpg | image]
+ the focus of the observation(s);
+
+[图片: images/038_23 Observation/030_box.jpg | image]
+ why you are observing (e.g. looking for regularities, similarities, evolution of a situation, irregularities, patterns, key features, etc.);
+
+[图片: images/038_23 Observation/031_box.jpg | image]
+ the research questions that the observational data will address;
+
+[图片: images/038_23 Observation/032_box.jpg | image]
+ the boundaries of the observation (what to include and exclude);
+
+[图片: images/038_23 Observation/033_box.jpg | image]
+ how to record the observations;
+
+[图片: images/038_23 Observation/034_box.jpg | image]
+ where to observe (e.g. key social places);
+
+[图片: images/038_23 Observation/035_box.jpg | image]
+ what to observe (e.g. significant objects, setting, events, people, etc.);
+
+[图片: images/038_23 Observation/036_box.jpg | image]
+ whom to observe (e.g. key people, everyday participants, marginalized people);
+
+[图片: images/038_23 Observation/037_box.jpg | image]
+ how many people, events, settings to observe (i.e. sampling);
+
+[图片: images/038_23 Observation/038_box.jpg | image]
+ how systematic, structured, descriptive to be;
+
+[图片: images/038_23 Observation/039_box.jpg | image]
+ what is the ‘unit’ of observation (e.g. a teacher, a student, a pair, a small group, a class);
+
+[图片: images/038_23 Observation/040_box.jpg | image]
+ what resources are necessary (e.g. human observers, video cameras, audio recording);
+
+[图片: images/038_23 Observation/041_box.jpg | image]
+ problems that might be encountered;
+
+[图片: images/038_23 Observation/042_box.jpg | image]
+ additional information that may be needed to complement the observational record; and
+
+[图片: images/038_23 Observation/043_box.jpg | image]
+ the processing and analysis of observational data.
+
+There is also the need to consider who the observer will be, as observation (particularly participant observation) can be affected by the sex, sexuality, ethnicity class, appearance, age, language, personality, temperament, attitude, interpersonal behaviour, familiarity with the situation, involvement and concern, etc. of the observer (cf. Kawulich,2005:7).
+
+On a practical level the researcher has to decide fundamental points such as whether to stand or sit, whether to move around a setting (e.g. in order to track a student), and where to stand or sit. If a researcher is located too close he/she might be intrusive, inhibiting, or the researcher might lose the observation if a student moves away; if the researcher is too far away he/she might miss what is happening in detail (cf. Simpson and Tuson, 2003: 54-5).
+
+23.2 Structured observation
+
+A structured observation is very systematic and enables the researcher to generate numerical data from the observations. Numerical data, in turn, facilitate the making of comparisons between settings and situations, and frequencies, patterns and trends to be noted or calculated. The observer adopts a passive, non-intrusive role, merely noting down the incidence of the factors being studied. Observations are entered on an observational schedule. An example of this is shown in Table 23.1. This is an example of a schedule used to monitor student and teacher conversations over a ten-minute period. The upper seven categories indicate who is speaking to whom, whilst the lower four categories indicate the nature of the talk. Looking at the example of the observation schedule, several points can be noted:
+
+[图片: images/038_23 Observation/044_box.jpg | image]
+ The categories for the observation are discrete, i.e. there is no overlap between them. For this to be the case requires a pilot to have been developed and tested in order to iron out any problems of overlap of categories.
+
+[图片: images/038_23 Observation/045_box.jpg | image]
+ Each column represents a 30-second time interval, i.e. the movement from left to right represents the chronology of the sequence, and the researcher has to enter data in the appropriate cell of the matrix every 30 seconds (see below: instantaneous sampling).
+
+[图片: images/038_23 Observation/046_box.jpg | image]
+ Because there are so many categories which have to be scanned at speed (every 30 seconds), the researcher will need to practise completing the schedule until he or she becomes proficient and consistent in entering data (i.e. that the observed behaviours, settings, etc. are entered into the same categories consistently), achieving reliability. This can be done either through practising with video material or through practising in a live situation with participants who will not subsequently be included in the research. If there is to be more than one researcher then it may be necessary to provide training sessions so that the team of researchers proficiently, efficiently and consistently enter the same sort of data in the same categories, i.e. that there is inter-rater reliability.
+
+[图片: images/038_23 Observation/047_box.jpg | image]
+ The researcher will need to decide what entry is to be made in the appropriate category, for example: a tick (
+[图片: images/038_23 Observation/048_f0460-02.jpg | image]
+), a forward slash (/), a backward slash (\), a figure (1, 2, 3, etc.), a letter (a, b, c, etc.), a tally mark (|). Whatever code or set of codes is used, it must be understood by all the researchers (if there is a team) and must be simple and quick to enter (i.e. symbols rather than words). Bearing in mind that every 30 seconds one or more entries must be made in each column, the researcher will need to become proficient in fast and accurate data entry of the appropriate codes.1
+
+TABLE 23.1 A STRUCTURED OBSERVATION SCHEDULE
+
+[图片: images/038_23 Observation/049_f0460-01.jpg | image]
+
+Notes
+
+/= participants in the conversation
+
+[图片: images/038_23 Observation/050_f0460-02.jpg | image]
+ = nature of the conversation.
+
+The need to pilot a structured observation schedule, as in the example, cannot be overemphasized. Categories must be mutually exclusive and must be comprehensive. The researcher, then, will need to decide:
+
+i the foci of the observation (e.g. people as well as events);
+
+ii the frequency of the observations (e.g. every 30 seconds, every minute, every two minutes);
+
+iii the length of the observation period (e.g. one hour, 20 minutes);
+
+iv what counts as evidence (e.g. how a behaviour is defined and operationalized);
+
+v the nature of the entry (the coding system).
+
+The criterion of ‘fitness for purpose’ is used for making decisions on these four matters. Structured observation will take much time in preparation but the analysis of the data should be rapid as the categories for analysis will have been built into the schedule itself. So, for example, if close, detailed scrutiny is required then the time intervals will be very short, and if less detail is required then the intervals may be longer.
+
+Dyer (1995: 181-4) suggests that structured observation must address several key principles:
+
+[图片: images/038_23 Observation/051_box.jpg | image]
+ the choice of the environment (such that there will be opportunities for the behaviour to be observed to be actually occurring – the availability and frequency of the behaviour of interest to the observer: a key feature if unusual or special behaviour is sought);
+
+[图片: images/038_23 Observation/052_box.jpg | image]
+ the need for clear and unambiguous measures (particularly if a latent characteristic or construct is being operationalized);
+
+[图片: images/038_23 Observation/053_box.jpg | image]
+ a manageable number of variables (a sufficient number for validity to be demonstrated, yet not so many as to render data entry unreliable);
+
+[图片: images/038_23 Observation/054_box.jpg | image]
+ overt or covert observation;
+
+[图片: images/038_23 Observation/055_box.jpg | image]
+ continuous, time-series or random observation;
+
+[图片: images/038_23 Observation/056_box.jpg | image]
+ the different categories of behaviour to be observed;
+
+[图片: images/038_23 Observation/057_box.jpg | image]
+ the number of people to be observed;
+
+[图片: images/038_23 Observation/058_box.jpg | image]
+ the number of variables on which data must be gathered;
+
+[图片: images/038_23 Observation/059_box.jpg | image]
+ the kind of observation schedule to be used.
+
+He provides a checklist (p. 186) for planning a structured observation (Box 23.1).
+
+There are five principal ways of entering data onto a structured observation schedule: event sampling, instantaneous sampling, interval recording, rating scales and duration recording.
+
+Event sampling
+
+Event sampling, also known as a sign system, requires a tally mark to be entered against each statement each time it is observed, for example:
+
+BOX 23.1 NON-PARTICIPANT OBSERVATION – A CHECKLIST OF DESIGN TASKS
+
+1 The preliminary tasks
+
+Have you
+
+[图片: images/038_23 Observation/060_box.jpg | image]
+ Clearly described the research problem?
+
+[图片: images/038_23 Observation/061_box.jpg | image]
+ Stated the precise aim of the research?
+
+[图片: images/038_23 Observation/062_box.jpg | image]
+ Developed an explanation which either links your research to a theory or says why the observations should be made?
+
+[图片: images/038_23 Observation/063_box.jpg | image]
+ Stated the hypotheses (if any) to be tested?
+
+[图片: images/038_23 Observation/064_box.jpg | image]
+ Identified the appropriate test statistic (if needed)?
+
+2 The observational system
+
+Have you
+
+[图片: images/038_23 Observation/065_box.jpg | image]
+ Identified the type(s) of behaviour to be observed?
+
+[图片: images/038_23 Observation/066_box.jpg | image]
+ Developed clear and objective definitions of each category of behaviour?
+
+[图片: images/038_23 Observation/067_box.jpg | image]
+ Checked that the categories are complete, and cover all the target behaviours?
+
+[图片: images/038_23 Observation/068_box.jpg | image]
+ Checked that each category is clearly distinct from the others?
+
+[图片: images/038_23 Observation/069_box.jpg | image]
+ Checked that the differences between each category are easily seen in the observing situation?
+
+3 The observational process
+
+Have you
+
+[图片: images/038_23 Observation/070_box.jpg | image]
+ Identified an appropriate location to make your observations?
+
+[图片: images/038_23 Observation/071_box.jpg | image]
+ Decided which data sampling procedure to use?
+
+[图片: images/038_23 Observation/072_box.jpg | image]
+ Decided whether to use overt or covert observation?
+
+[图片: images/038_23 Observation/073_box.jpg | image]
+ Decided whether to use one or more observers to collect information?
+
+4 And finally...
+
+Have you
+
+[图片: images/038_23 Observation/074_box.jpg | image]
+ Designed the data collection sheet?
+
+[图片: images/038_23 Observation/075_box.jpg | image]
+ Reviewed the ethical standards of the investigation?
+
+[图片: images/038_23 Observation/076_box.jpg | image]
+ Run a pilot study and made any necessary amendments to the observation system, or procedure?
+
+[图片: images/038_23 Observation/077_box.jpg | image]
+ If more than one observer has been used, made a preliminary assessment of inter-observer reliability?
+
+Source: Dyer, 1995: 186
+
+teacher shouts at the child
+
+/////
+
+child shouts at the teacher
+
+///
+
+parent shouts at the teacher
+
+//
+
+teacher shouts at the parent
+
+//
+
+The researcher will need to devise statements that yield the data that answer the research questions. This method is useful for finding out the frequencies or incidence of observed situations or behaviours, so that comparisons can be made; we can tell, for example, that the teacher does most shouting and that the parent shouts least of all. However, whilst these data enable us to chart the incidence of observed situations or behaviours, the difficulty with them is that we are unable to determine the chronological order in which they occurred. For example, two different stories could be told from these data if the sequence of events were known. If the data were presented in a chronology, one story could be seen as follows, where the numbers 1-7 are the different periods over time (e.g. every 30 seconds):
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+teacher shouts at the child
+
+/
+
+/
+
+/
+
+/
+
+/
+
+child shouts at the teacher
+
+/
+
+/
+
+/
+
+parent shouts at the teacher
+
+/
+
+/
+
+teacher shouts at the parent
+
+/
+
+/
+
+Imagine the scene: a parent and his child arrive late for school one morning and the child slips into the classroom; an event quickly occurs which prompts the child to shout at the teacher, the exasperated teacher is very cross when thus provoked by the child; the teacher shouts at the child who then brings in the parent (who has not yet left the premises); the parent shouts at the teacher for unreasonable behaviour and the teacher shouts back at the child. It seems in this version that the teacher only shouts when provoked by the child or parent.
+
+If the same number of tally marks were distributed in a different order, a very different story might emerge, for example:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+teacher shouts at the child
+
+/
+
+/
+
+/
+
+/
+
+/
+
+child shouts at the teacher
+
+/
+
+/
+
+/
+
+parent shouts at the teacher
+
+/
+
+/
+
+teacher shouts at the parent
+
+/
+
+/
+
+In this scene it is the teacher who is the instigator of the shouting, shouting at the child and then at the parent; the child and the parent only shout back when they have been provoked!
+
+Instantaneous sampling
+
+If it is important to know the chronology of events, then it is necessary to use instantaneous sampling, sometimes called time sampling. Here the researcher enters what she observes at standard intervals of time, for example every 20 seconds, every minute. On the stroke of that interval she notes what is happening at that precise moment and enters it into the appropriate category on the schedule. For example, imagine that the sampling will take place every 30 seconds; numbers 1-7 represent each 30-second interval thus:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+teacher smiles at the child
+
+/
+
+/
+
+/
+
+/
+
+child smiles at the teacher
+
+/
+
+/
+
+/
+
+/
+
+teacher smiles at the parent
+
+/
+
+/
+
+/
+
+/
+
+parent smiles at the teacher
+
+/
+
+/
+
+/
+
+/
+
+In this scene the researcher notes down what is happening on the 30-second point and notices from these precise moments that the teacher initiates the smiling but that all parties seem to be doing quite a lot of smiling, with the parent and the child doing the same amount of smiling each! Instantaneous sampling involves recording what is happening on the instant and entering it in the appropriate category. The chronology of events is preserved.
+
+Interval recording
+
+This method charts the chronology of events to some extent and, like instantaneous sampling, requires the data to be entered in the appropriate category at fixed intervals. However, instead of charting what is happening on the instant, it charts what has happened during the preceding interval. So, for example, if recording were to take place every 30 seconds, then the researcher would note down in the appropriate category what had happened during the preceding 30 seconds. Whilst this enables frequencies to be calculated, simple patterns to be observed and an approximate sequence of events to be noted, because it charts what has taken place in the preceding interval of time, some elements of the chronology might be lost. For example, if three events took place in the preceding 30 seconds of the example, then the order of the three events would be lost; we would know simply that they had occurred.
+
+Wilkinson (2000: 236) distinguishes between whole interval recording and partial interval recording. In the former, behaviour is recorded only if it lasts for the whole of the interval; in the latter, behaviour is recorded if it occupies only a part of the interval in question. In the case of the partial interval recording, the researcher will need to specify how to record this.
+
+Rating scales
+
+In this method the researcher is asked to make some judgement about the events being observed, and to enter responses into a rating scale. For example, Wragg (1994) suggests that observed teaching behaviour might be entered onto rating scales by placing the observed behaviour onto a continuum:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Warm
+
+–
+
+–
+
+–
+
+–
+
+–
+
+Aloof
+
+Stimulating
+
+–
+
+–
+
+–
+
+–
+
+–
+
+Dull
+
+Businesslike
+
+–
+
+–
+
+–
+
+–
+
+–
+
+Slipshod
+
+An observer might wish to enter a rating according to a five-point scale of observed behaviour, for example:
+
+1 =not at all
+2 =very little
+3 =a little
+
+4=a lot
+5 = a very great deal
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Child seeks teacher’s attention
+
+Teacher praises the child
+
+Teacher intervenes to stop misbehaviour
+
+What is required here is for the researcher to move from low inference (simply reporting observations) to a higher degree of inference (making judgements about events observed). This might introduce a degree of unreliability into the observation (for example through: (a) the halo effect; (b) the central tendency wherein observers will avoid extreme categories; (c) recency -where observers are influenced by more recent events than less recent events). That said, this might be a helpful summary way of gathering observational data.
+
+Simpson and Tuson (2003: 42-4) suggest that researchers ensure that:
+
+[图片: images/038_23 Observation/078_box.jpg | image]
+ the categories to be included in ratings adequately cover the ‘range of behaviours or features’ (p. 42) of interest in the target group for observation;
+
+[图片: images/038_23 Observation/079_box.jpg | image]
+ the anchor statements (descriptor) on each scale point adequately describe the ‘range of possibilities’ (p. 43) in the item for observation;
+
+[图片: images/038_23 Observation/080_box.jpg | image]
+ sufficient specification of what and how to observe are given to researchers in the completion of the observational schedule, such that two independent observers would complete the schedule of the ‘ same observed activities in the same way’ (p. 44).
+
+The duration of behaviour
+
+So far we have concerned ourselves with single events and their recording. This is very suitable for single and usually short-lived behaviours. However, sometimes certain behaviours last a long time and would ‘overrun’ the interval categories or event categories described above, i.e. it is continuous behaviour rather than a single event. For example, a child may remove her shoes only once, but she may continue to be without her shoes for a 20-minute period; a child may delay starting to do any writing for ten minutes, again a single behaviour but which continues for longer than each of the intervals in interval or instantaneous recording; a child may have a single tantrum which continues for 20 minutes, and so on. What we need is an indication of the duration of a particular behaviour. The observation is driven by the event, not the frequency of the observation. This means that the observer needs to structure the recording schedule to indicate the total duration of a single continuous behaviour.
+
+For all the kinds of schedules discussed above, a decision will have to have been agreed in advance on how to enter data. Consistency of entering by a single and multiple observers will need to be founded on what counts as evidence, when, where and how to observe, and how many people on whom to focus. For example, how will the observation schedule distinguish between one person being observed demonstrating the same behaviour 12 times (1 person x 12) and many people demonstrating the same behaviour fewer times (e.g. 2 people x 6 times each, or 4 people x 3 times each), i.e. is the focus to be on people or on behaviour?
+
+Whilst structured observation can provide useful numerical data (e.g. Bennett et al., 1984; Galton and Simon, 1980), there are several concerns which must be addressed in this form of observation, for example:
+
+[图片: images/038_23 Observation/081_box.jpg | image]
+ the method is behaviourist, excluding any mention of the intentions or motivations of the people being observed;
+
+[图片: images/038_23 Observation/082_box.jpg | image]
+ the individual’s subjectivity is lost to an aggregated score;
+
+[图片: images/038_23 Observation/083_box.jpg | image]
+ there is an assumption that the observed behaviour provides evidence of underlying feelings, i.e. that concepts or constructs can be crudely measured in observed occurrences.
+
+This latter point is important, for it goes to the very heart of the notion of validity, since it requires researchers to satisfy themselves that it is valid to infer that a particular behaviour indicates a particular state of mind or particular intention or motivation. The desire to operationalize concepts and constructs can easily lead researchers to provide overly simple indicators of complex concepts.
+
+Further, structured observation neglects the significance of contexts – temporal and spatial – thereby overlooking the fact that behaviours may be context-specific. In their concern for the overt and the observable, researchers may overlook unintended outcomes which may have significance; they may be unable to show how significant are the behaviours of the participants being observed in their own terms. If we accept that behaviour is developmental, that interactions evolve over time and, therefore, are, by definition, fluid, then the methods of structured observation outlined above appear to take a series of ‘freeze-frame’ snapshots of behaviour, thereby violating the principle of fluidity of action. Captured for an instant in time, it is difficult to infer a particular meaning to one or more events (Stubbs and Delamont, 1976), just as it is impossible to say with any certainty what is taking place when we study a single photograph or a set of photographs of a particular event. Put simply, if structured observation is to hold water, then the researcher may need to gather additional data from other sources to inform the interpretation of observational data.
+
+This latter point is a matter not only for structured observation but, equally, for unstructured observation, for what is being suggested here is the notion that triangulation (of methods, of observers, of time and space) can assist the researcher to generate reliable evidence. There is a risk that observations will be selective, and the effects of this can be attenuated by triangulation. One way of gathering more reliable data (for example about a particular student or group of students) is by tracking them through the course of a day or a week, following them from place to place, event to event. It is part of teaching folklore that students will behave very differently for one teacher than for another, and a full picture of students’ behaviour might require the observer to see the students in different contexts.
+
+23.3 The need to practise structured observation
+
+It may sound like a naive truism to say that researchers need to practise observation, but they do! For example, they may need to practise entering data in the appropriate categories in the structured observation schedule, and at speed (Simpson and Tuson, 2003: 10). They may need to practise where to locate themselves when observing, what to focus on, where to look, what to record (e.g. the level of detail), where to move around the setting, whether to stand or sit, how to code in situ, and how to observe without those observed being too conscious of the observation taking place or the observation being too intrusive, what role to take in the classroom or setting, how to avoid eye-contact (as this can be threatening or disturbing to the setting or the person being observed), how to observe discreetly or indirectly (e.g. without directly looking intently at a person or group, or without being seen to be looking directly or to be watching or tracking specific persons). Further, they need to practise and pilot their structured observational instruments in order to find the optimum time intervals for observation schedules for instantaneous sampling, interval recording and duration recording (e.g. five seconds, one minute, two minutes, ten minutes, etc.).
+
+23.4 Analysing data from structured observations
+
+For structured observations researchers can count frequencies, and with references to individuals, groups, classes, events, activities, behaviours and so on. One can observe patterns (e.g. in sequences of behaviours, or sequences of conversations or interactions, e.g. discourse analysis or question and answer sequences in classroom talk), or frequently occurring combinations of events/behaviours/people/kinds of interaction, or aggregated data (e.g. from individuals to groups to classes, from individuals to males/females, from individual lessons to courses or subjects, from individual behaviours to categories of behaviour, from individual units of talk to kinds of talk (e.g. closed questions/open questions, extended responses/one-word responses, teacher-initiated talk/student-initiated talk), on-task/off-task behaviour). Further, since the data can be converted into numbers, the panoply of suitable statistical analyses can be utilized (see Part 5).
+
+In addition to data from structured observations being ‘quantitized’, they can be turned into narrative accounts, descriptions and themes i.e. ‘qualitized’, and we refer readers to Part 5 on this.
+
+23.5 Critical incidents
+
+There will be times when reliability as consistency in observations is not always necessary. For example, a student might only demonstrate a particular behaviour once, but it is so important as not to be ruled out simply because it occurred once. One only has to commit a single murder to be branded a murderer! Sometimes one event can occur which reveals an extremely important insight into a person or situation. Critical incidents (Flanagan, 1949) and critical events (Wragg, 1994) are particular events or occurrences that might typify or illuminate very starkly a particular feature of a teacher’s behaviour or teaching style for example. Wragg (1994: 64) writes that these are events that appear to the observer to have more interest than other ones, and therefore warrant greater detail and recording than other events; they have an important insight to offer. For example, a child might unexpectedly behave very aggressively when asked to work with another child -that might reveal an insight into the child’s social tolerance; a teacher might suddenly overreact when a student produces a substandard piece of work – the straw that breaks the camel’s back – that might indicate a level of frustration tolerance or intolerance and the effects of that threshold of tolerance being reached. These events are critical in that they may be non-routine but very revealing; they offer the researcher an insight that would not be available by routine observation. They are frequently unusual events.2
+
+23.6 Naturalistic and participant observation
+
+Whilst some observations take place in a context in which the researcher knows clearly and in advance what to look for, with categories and coding worked out before the observation takes place, this is not always the case. It is here that ethnographic and naturalistic observation come into pre-eminence (we advise readers to read this in combination with Chapter 11). Here the intention is to observe participants in their natural settings, their everyday social settings and their everyday behaviour in them. Participant observation here has a wider embrace, including visual observation, document analysis, interviewing, direct observation and introspection (Flick, 2009: 226). It is a process, moving from descriptive observation (orientation to a field) to focused observation (narrowing one’s field of observation to focus in on those problems and processes that are most germane to the research purpose and questions), and on to selective observation (to find further evidence for those items identified in the previous step) (Flick, 2009: 227).
+
+Participant observation, as Simpson and Tuson (2003: 14) argue, is ‘the most subtly intrusive’ form of observation since it requires the researcher to be an empathic, sympathetic member of a group, in order to gain access to insiders’ behaviours and activities, whilst still acting as a researcher with a degree of detachment. Indeed Merriam (1998: 103) suggests that the participant observer is somewhat ‘schizophrenic’, as he/she has to balance participation in order to absorb the situation, with sufficient detachment to be able to analyse and observe it in a detached way. Further, it is usually very time-consuming, as not only does the researcher have to join in many activities and spend a long time with the group, but he/she has to write up field notes away from the activity itself (e.g. in the evening).
+
+Participant observation is useful for enabling researchers to check their definitions of key terms that are used by participants, to observe events or behaviours that might not be mentioned in interviews, to gather data on sensitive, unspoken topics (Kawulich, 2005). Participant observation can help in guiding relationships with participants and informants, enable the researcher to ‘get a feel’ of a situation and how matters are organized in a group or subculture, find out about interactions and relationships, raise questions for further investigation (Schensul et al., 1999), sensitize and familiarize a researcher to a context, and reduce the reactivity caused by a short observation (Bernard, 1994). It enables rich descriptions of ‘backstage culture’ (DeMunck and Sobo, 1998: 43) to be gathered.
+
+As mentioned at the start of this chapter, there are degrees of participation in observation (LeCompte and Preissle, 1993: 93-4). The ‘complete participant’ is a researcher who takes on an insider role in the group being studied, and maybe who does not even declare that she is a researcher (discussed later in comments about the ethics of covert research). The ‘participant-as-observer’, as its name suggests, is part of the social life of participants and documents and records what is happening for research purposes. The ‘observer-as-participant’, like the participant-as-observer, is known as a researcher to the group, and maybe has less extensive contact with the group. With the ‘complete observer’ participants do not realize that they are being observed (e.g. using a two-way mirror), hence this is another form of covert research.
+
+Hammersley and Atkinson (1983: 93-5) suggest that comparative involvement may come in the forms of the complete participant and the participant-as-observer, with a degree of subjectivity and sympathy, whilst comparative detachment may come in the forms of the observer-as-participant and the complete observer, where objectivity and distance are key characteristics. Both complete participation and complete detachment are as limiting as each other. As a complete participant the researcher dare not go outside the confines of the group for fear of revealing her identity (in covert research), and as a complete observer there is no contact with the observed, so inference is dangerous. That said, both complete participation and complete detachment minimize reactivity, though in the former there is the risk of ‘going native’ – where the researcher adopts the values, norms and behaviours of the group as her own, i.e. ceases to be a researcher or ceases to be objective (Kawulich, 2005: 4) and becomes a member of the group.
+
+Participant observation may be particularly useful in studying small groups, or for events and processes that only last a short time or are frequent, for activities that lend themselves to being observed, for researchers who wish to reach inside a situation and have a long time available to them to ‘get under the skin’ of behaviour or organizations (as in an ethnography), and when the prime interest is in gathering detailed information about what is happening (i.e. is descriptive). Indeed participation may be required in order to understand a situation (there is a Chinese saying that if you want to understand something you have to chew it in your mouth!).
+
+In participant observational studies the researcher stays with the participants for a substantial period of time to reduce reactivity effects (the effects of the researcher on the researched, changing the behaviour of the latter), recording what is happening, whilst taking a role in that situation. In schools this might be taking on some particular activities, sharing supervisions, participating in school life, recording impressions, conversations, observations, comments, behaviour, events and activities and the views of all participants in a situation. Participant observation, then, requires careful attention to gaining access, building trust, identifying a suitable role and being careful about with whom to be seen or with whom to ‘hang out’ (e.g. the school principal, a marginalized or fringe member of the group) (Kawulich, 2005: 12-13). Indeed this latter point extends to the need for care in working with informants, so as not to be at the mercy of informants and gatekeepers and to recognize that informants may only provide selective access to people and to data, and, indeed, depending on the views of other members of the group on the informant, they may prevent access to key people (Flick, 2009:229).
+
+Participant observation is often combined with other forms of data collection that, together, elicit the participants’ definitions of the situation and their organizing constructs in accounting for situations and behaviour. By staying in a situation over a long period the researcher is also able to see how events evolve over time, catching the dynamics of situations, the people, personalities, contexts, resources, roles, etc. Morrison (1993: 88) argues that by ‘being immersed in a particular context over time not only will the salient features of the situation emerge and present themselves but a more holistic view will be gathered of the interrelationships of factors’. Such immersion facilitates the generation of ‘thick descriptions’, particularly of social processes and interaction, which lend themselves to accurate explanation and interpretation of events rather than relying on the researcher’s own inferences. The data derived from participant observation are ‘strong on reality’.
+
+Components of ‘thick descriptions’ involve recording (Carspecken, 1996: 47), for example: speech acts; non-verbal communication; descriptions in low-inference vocabulary; careful and frequent recording of the time and timing of events; the observer’s comments that are placed into categories; detailed contextual data.
+
+Observations are recorded in field notes; these can be written at several levels. At the level of description they might include, for example (Spradley, 1980; Bogdan and Biklen, 1992: 120-1; LeCompte and Preissle, 1993:224):
+
+[图片: images/038_23 Observation/084_box.jpg | image]
+ quick, fragmentary jottings of key words/symbols;
+
+[图片: images/038_23 Observation/085_box.jpg | image]
+ transcriptions and more detailed observations written out fully;
+
+[图片: images/038_23 Observation/086_box.jpg | image]
+ descriptions that, when assembled and written out, form a comprehensive and comprehensible account if what has happened;
+
+[图片: images/038_23 Observation/087_box.jpg | image]
+ pen portraits of participants;
+
+[图片: images/038_23 Observation/088_box.jpg | image]
+ reconstructions of conversations;
+
+[图片: images/038_23 Observation/089_box.jpg | image]
+ descriptions of the physical settings of events;
+
+[图片: images/038_23 Observation/090_box.jpg | image]
+ descriptions of events, behaviour and activities;
+
+[图片: images/038_23 Observation/091_box.jpg | image]
+ description of the researcher’s activities and behaviour.
+
+Lincoln and Guba (1985: 273) suggest a variety of elements or types of observations that include:
+
+[图片: images/038_23 Observation/092_box.jpg | image]
+ ongoing notes, either verbatim or categorized in situ;
+
+[图片: images/038_23 Observation/093_box.jpg | image]
+ logs or diaries of field experiences (similar to field notes though usually written some time after the observations have been made);
+
+[图片: images/038_23 Observation/094_box.jpg | image]
+ notes that are made on specific, predetermined themes (e.g. that have arisen from grounded theory);
+
+[图片: images/038_23 Observation/095_box.jpg | image]
+ ‘chronologs’, where each separate behavioural episode is noted, together with the time at which it occurred, or recording an observation at regular time intervals, e.g. every two or three minutes;
+
+[图片: images/038_23 Observation/096_box.jpg | image]
+ context maps – maps, sketches, diagrams or some graphic display of the context (usually physical) within which the observation takes place, such graphics enabling movements to be charted;
+
+[图片: images/038_23 Observation/097_box.jpg | image]
+ entries on predetermined schedules (including rating scales, checklists and structured observation charts), using taxonomic or categoric systems, where the categories derive from previous observational or interview data;
+
+[图片: images/038_23 Observation/098_box.jpg | image]
+ sociometric diagrams (indicating social relationships, e.g. isolates (whom nobody chooses), stars (whom everyone chooses); and dyads (who choose each other));
+
+[图片: images/038_23 Observation/099_box.jpg | image]
+ debriefing questionnaires from respondents that are devised for, and by, the observer only, to be used for reminding the observer of main types of information and events once she or he has left the scene;
+
+[图片: images/038_23 Observation/100_box.jpg | image]
+ data from debriefing sessions with other researchers, again as an aide-memoire.
+
+LeCompte and Preissle (1993: 199-200) provide a useful set of guidelines for directing observations of specific activities, events or scenes, suggesting that they should include answers to the following questions:
+
+[图片: images/038_23 Observation/101_box.jpg | image]
+ Who is in the group/scene/activity – who is taking part?
+
+[图片: images/038_23 Observation/102_box.jpg | image]
+ How many people are there, their identities and their characteristics?
+
+[图片: images/038_23 Observation/103_box.jpg | image]
+ How do participants come to be members of the group/event/activity?
+
+[图片: images/038_23 Observation/104_box.jpg | image]
+ What is taking place?
+
+[图片: images/038_23 Observation/105_box.jpg | image]
+ How routine, regular, patterned, irregular and repetitive are the behaviours observed?
+
+[图片: images/038_23 Observation/106_box.jpg | image]
+ What resources are being used in the scene?
+
+[图片: images/038_23 Observation/107_box.jpg | image]
+ How are activities being described, justified, explained, organized, labelled?
+
+[图片: images/038_23 Observation/108_box.jpg | image]
+ How do different participants behave towards each other?
+
+[图片: images/038_23 Observation/109_box.jpg | image]
+ What are the statuses and roles of the participants?
+
+[图片: images/038_23 Observation/110_box.jpg | image]
+ Who is making decisions, and for whom?
+
+[图片: images/038_23 Observation/111_box.jpg | image]
+ What is being said, and by whom?
+
+[图片: images/038_23 Observation/112_box.jpg | image]
+ What is being discussed frequently/infrequently?
+
+[图片: images/038_23 Observation/113_box.jpg | image]
+ What appears to be the significant issues that are being discussed?
+
+[图片: images/038_23 Observation/114_box.jpg | image]
+ What non-verbal communication is taking place?
+
+[图片: images/038_23 Observation/115_box.jpg | image]
+ Who is talking and who is listening?
+
+[图片: images/038_23 Observation/116_box.jpg | image]
+ Where does the event take place?
+
+[图片: images/038_23 Observation/117_box.jpg | image]
+ When does the event take place?
+
+[图片: images/038_23 Observation/118_box.jpg | image]
+ How long does the event take?
+
+[图片: images/038_23 Observation/119_box.jpg | image]
+ How is time used in the event?
+
+[图片: images/038_23 Observation/120_box.jpg | image]
+ How are the individual elements of the event connected?
+
+[图片: images/038_23 Observation/121_box.jpg | image]
+ How are change and stability managed?
+
+[图片: images/038_23 Observation/122_box.jpg | image]
+ What rules govern the social organization of, and behaviour in, the event?
+
+[图片: images/038_23 Observation/123_box.jpg | image]
+ Why is this event occurring, and occurring in the way that it is?
+
+[图片: images/038_23 Observation/124_box.jpg | image]
+ What meanings are participants attributing to what is happening?
+
+[图片: images/038_23 Observation/125_box.jpg | image]
+ What are the history, goals and values of the group in question?
+
+That this list is long (and by no means exhaustive) reflects the complexity of even the apparently most mundane activity.
+
+In an earlier volume, Lofland (1971) suggests that there are six main categories of information in participant observation:
+
+[图片: images/038_23 Observation/126_box.jpg | image]
+ acts (specific actions);
+
+[图片: images/038_23 Observation/127_box.jpg | image]
+ activities (which last a longer time, for instance, a week, a term, months, e.g. attendance at school, membership of a club);
+
+[图片: images/038_23 Observation/128_box.jpg | image]
+ meanings (e.g. how participants explain the causes of, meanings of and purposes of particular events and actions);
+
+[图片: images/038_23 Observation/129_box.jpg | image]
+ participation (what the participants do, e.g. membership of a family group, school groups, peer group, clubs and societies, extra-curricular groups);
+
+[图片: images/038_23 Observation/130_box.jpg | image]
+ relationships (those which are observed in the several settings and contexts in which the observation is undertaken);
+
+[图片: images/038_23 Observation/131_box.jpg | image]
+ settings (descriptions of the settings of the actions and behaviours observed).
+
+Spradley (1980: 78) suggests a checklist of the content of field notes:
+
+[图片: images/038_23 Observation/132_box.jpg | image]
+ space: the physical setting;
+
+[图片: images/038_23 Observation/133_box.jpg | image]
+ actors: the people in the situation;
+
+[图片: images/038_23 Observation/134_box.jpg | image]
+ activities: the sets of related acts that are taking place;
+
+[图片: images/038_23 Observation/135_box.jpg | image]
+ objects: the artefacts and physical things that are there;
+
+[图片: images/038_23 Observation/136_box.jpg | image]
+ acts: the specific actions that participants are doing;
+
+[图片: images/038_23 Observation/137_box.jpg | image]
+ events: the sets of activities that are taking place;
+
+[图片: images/038_23 Observation/138_box.jpg | image]
+ time: the sequence of acts, activities and events;
+
+[图片: images/038_23 Observation/139_box.jpg | image]
+ goals: what people are trying to achieve;
+
+[图片: images/038_23 Observation/140_box.jpg | image]
+ feelings: what people feel and how they express this.
+
+Moyles (2002: 181) suggests that researchers need to record the physical and contextual setting of the observation, the participants (e.g. number, who they are, who comes and goes, what they do and what are their roles), the time of day of the observation, the layout of the setting (e.g. seating arrangements, arrangement of desks), the chronology of the events observed, and any critical incidents that happened.
+
+At the level of reflection, field notes might include (Bogdan and Biklen, 1992: 122):
+
+[图片: images/038_23 Observation/141_box.jpg | image]
+ reflections on the descriptions and analyses that have been done;
+
+[图片: images/038_23 Observation/142_box.jpg | image]
+ reflections on the methods used in the observations and data collection and analysis;
+
+[图片: images/038_23 Observation/143_box.jpg | image]
+ ethical issues, tensions, problems and dilemmas;
+
+[图片: images/038_23 Observation/144_box.jpg | image]
+ the reactions of the observer to what has been observed and recorded – attitude, emotion, analysis, etc.;
+
+[图片: images/038_23 Observation/145_box.jpg | image]
+ points of clarification that have been and/or need to be made;
+
+[图片: images/038_23 Observation/146_box.jpg | image]
+ possible lines of further enquiry.
+
+Lincoln and Guba (1985: 327) indicate three main types of item that might be included in a journal:
+
+[图片: images/038_23 Observation/147_box.jpg | image]
+ a daily schedule, including practical matters, e.g. logistics;
+
+[图片: images/038_23 Observation/148_box.jpg | image]
+ a personal diary, for reflection, speculation and catharsis;
+
+[图片: images/038_23 Observation/149_box.jpg | image]
+ notes on and a log of methodology.
+
+In deciding what to focus on, Wilkinson (2000: 228) suggests an important distinction between observing molecular and molar units of behaviour. Small units of behaviour are molecular, e.g. gestures, non-verbal behaviour, short actions, short phrases of a conversation. Whilst these yield very specific data, they risk being taken out of context, such that their meanings and, thereby, their validity, are reduced. By contrast, the molar approach deals in large units of behaviour, the size of which is determined by the theoretical interests of the researcher. The researcher must ensure that the units of focus are valid indicators of the issues of concern to the researcher.
+
+From all this we suggest that the data should be comprehensive enough to enable the reader to reproduce the analysis that was performed. It should focus on the observable and make explicit the inferential, and that the construction of abstractions and generalizations might commence early but should not starve the researcher of novel channels of enquiry (Sacks, 1992).
+
+The context of observation is important (Silverman, 1993: 146). Indeed Spradley (1979) and Kirk and Miller (1986) suggest that observers should keep four sets of observational data to include:
+
+1 notes made in situ;
+
+2 expanded notes that are made as soon as possible after the initial observations;
+
+3 journal notes to record issues, ideas, difficulties, etc. that arise during the fieldwork;
+
+4 a developing, tentative running record of ongoing analysis and interpretation.
+
+The intention here is to introduce some systematization into observations in order to increase their reliability. In this respect Silverman (1993) reminds us of the important distinction between etic and emic analysis. Etic analysis uses the conceptual framework of the researcher, whilst emic approaches use the conceptual frameworks of those being researched. Structured observation uses etic approaches, with predefined frameworks that are adhered to unswervingly, whilst emic approaches sit comfortably within qualitative approaches, where the definitions of the situations are captured through the eyes of the observed.
+
+Participant observation studies are not without their critics. The accounts that typically emerge from participant observations echo the criticisms of qualitative data outlined earlier, being described as subjective, biased, impressionistic, idiosyncratic and lacking in the precise quantifiable measures that are the hallmark of survey research and experimentation. Whilst it is probably true that nothing can give better insight into the life of a gang of juvenile delinquents than going to live with them for an extended period of time, critics of participant observation studies will point to the dangers of ‘going native’ as a result of playing a role within such a group. How do we know that observers do not lose their perspective and become blind to the peculiarities that they are supposed to be investigating?
+
+Further, Johnson and Sackett (1998) suggest that participant observation risks being highly selective, unrepresentative and more concerned with the agenda of the researcher rather than the real situation (they report that researchers were more concerned with political and religious behaviours than with eating and sleeping behaviours, yet political and religious behaviours accounted for only 3 per cent of time whilst eating and sleeping accounted for 60 per cent of the participants’ time), i.e. there is skewing of the descriptions.
+
+Adler and Adler (1994: 380) suggest several stages in an observation. Commencing with the selection of a setting on which to focus, the observer then seeks a means of gaining entry to the situation (for example, taking on a role in it). Having gained entry the observer can then commence the observation proper, be it structured or unstructured, focused or unfocused. If quantitative observation is being used then data are gathered to be analysed post hoc; if more ethnographic techniques are being used then progressive focusing requires the observer to undertake analysis during the period of observation itself (discussed earlier).
+
+The question that researchers frequently ask is ‘how much observation to do’, or ‘when do I stop observation?’. Of course, there is no hard and fast rule here, though it may be appropriate to stop when ‘theoretical saturation’ has been reached (Adler and Adler, 1994: 380), i.e. when the situations that are being observed appear to be repeating data that have already been collected. Of course, it may be important to carry on collecting data at this point, to indicate overall frequencies of observed behaviour, enabling the researcher to find the most to the least common behaviours observed over time. Further, the greater the number of observations, the greater the reliability of the data might be, enabling emergent categories to be verified. What is being addressed here is the reliability of the observations (see the earlier discussion of triangulation).
+
+23.7 Data analysis for less structured observations
+
+For less structured observational data (e.g. from field notes), the tools of qualitative analysis can be used, e.g. coding and categorizing, nodes and connections, summarizing, narrative accounts (of individuals, groups, behaviours, events), constant comparison, theoretical saturation, thematic analysis and patterning (see Part 5). This includes use of computer-based software for analysing qualitative data (e.g. NUD*IST, NVivo, ATLAS.ti, MAXqda).
+
+Simpson and Tuson (2003: 83-5) and Miles and Huberman (1984) indicate several strategies for data analysis of field notes and qualitative data, including:
+
+[图片: images/038_23 Observation/150_box.jpg | image]
+ reviewing, analysing and coding early rather than accumulating too much data before analysis;
+
+[图片: images/038_23 Observation/151_box.jpg | image]
+ coding densely at first (i.e. avoiding moving too quickly into summarizing);
+
+[图片: images/038_23 Observation/152_box.jpg | image]
+ keeping track of the data analysis over time (e.g. key codes and what they embrace, key people observed, keeping to the research questions (if appropriate, i.e. depending on the nature of the research));
+
+[图片: images/038_23 Observation/153_box.jpg | image]
+ verifying intuitions with data;
+
+[图片: images/038_23 Observation/154_box.jpg | image]
+ identifying themes and patterns (sometimes by counting frequencies or consistencies);
+
+[图片: images/038_23 Observation/155_box.jpg | image]
+ looking for clusters of events, activities, people, behaviours, etc.;
+
+[图片: images/038_23 Observation/156_box.jpg | image]
+ writing metaphors to catch the essence of features;
+
+[图片: images/038_23 Observation/157_box.jpg | image]
+ being prepared to disaggregate as well as aggregate data in order to preserve fidelity to the events/people/situations;
+
+[图片: images/038_23 Observation/158_box.jpg | image]
+ putting codes into hierarchies (some codes are subsumed by others);
+
+[图片: images/038_23 Observation/159_box.jpg | image]
+ ensuring conceptual coherence to the analysis.
+
+Merriam (1998) suggests that it is useful for researchers to identify key words, not only in the observed events, but in their analysis, together with attention to the start and end of conversations as these are often significant and most easily remembered. Kawulich (2005) reports the value of ‘quantitizing’ data, looking for frequencies, together with narrative descriptions of settings, participants, activities and behaviours. She commends the use of two types of field notes for analysis: (a) observed data, including verbatim conversations, and (b) reflections, questions to be asked, issues for further exploration, and comments (i.e. observations on observations). Hence observations data can be both mixed methods in themselves and in conjunction with other methods of data collection and analysis.
+
+23.8 Natural and artificial settings for observation
+
+Most observations by educational researchers will be undertaken in natural settings: schools, classrooms, playgrounds, lessons and suchlike. In studies of a psychological flavour it may be that a contrived, artificial setting is set up in order to give greater observational power to the observers. In Chapter 26 we describe two classic studies in the field of social psychology, both of which use contrived settings – the Milgram study of obedience and the Stanford Prison experiment. Similarly psychological researchers may wish to construct a classroom with a two-way mirror in order to observe children’s behaviour without the presence of the observer. This raises the ethical issue of overt and covert research. The advantage of a contrived, artificial setting is the degree of control that the researcher can exert over the situation – typically as large a degree of control as in a laboratory experiment. To the charge that this is an unrealistic situation and that humans should neither be controlled nor manipulated, we refer the reader to the ethical issues addressed in Chapter 5.
+
+One can place settings for observation along a continuum from structured to unstructured and from natural to artificial, as shown in Table 23.2. Settings may be classified by the degree of structure that is imposed on the environment by the observer/researcher, and by the degree of structure inherent in the environment itself (Cooper and Schindler, 2001: 378).
+
+Clearly the researcher will need to be guided by the notion of ‘fitness for purpose’ in the type of setting and the amount of structure imposed. There is fuzziness between the boundaries here. Structured settings may be useful in testing hypotheses whilst unstructured settings may be useful for generating hypotheses.
+
+23.9 The use of technology in recording observations
+
+Observations include both oral and visual data. In addition to the observer writing down details in field notes, a powerful recording device is through audio-visual recording (Erickson, 1992: 209-10). Comprehensive audio-visual recording can overcome the partialness of the observer’s view of a single event and can overcome the tendency towards only recording the frequently occurring events. Video recording can offer a more ‘unfiltered’ observational record than human observation (Simpson and Tuson, 2003: 51), and the record can be viewed several times; it is not a ‘once-and-for’ all observation. Audio-visual data collection has the capacity for completeness of analysis and comprehensiveness of material, reducing the dependence on prior interpretations by the researcher. Video recording also enables several playbacks to be conducted, to scrutinize the data more fully.
+
+TABLE 23.2 STRUCTURED, UNSTRUCTURED, NATURAL AND ARTIFICIAL SETTINGS FOR OBSERVATIONS
+
+Natural setting
+
+Artificial setting
+
+Structured
+
+Structured field studies (e.g. Sears et al.’s (1965) study of Identification and Child Rearing)
+
+Completely structured laboratory (e.g. the Stanford Prison experiment, the Milgram experiment on obedience, see Chapter 26). Experiments with one-way mirrors or video recordings
+
+Unstructured
+
+Completely unstructured field study (e.g. Whyte’s (1993) celebrated study of Street Corner Society, and ethnographic studies)
+
+Unstructured laboratory (e.g. Axline’s (1964) celebrated study of Dibs in Search of Self. Observations with one-way mirrors or video recordings)
+
+On the other hand, one has to be cautious here, for installing video cameras might create the problem of reactivity. If fixed cameras are used they might be as selective as participant observers, and even if movable, they might still be highly selective (Morrison, 1993: 91). Whilst a human observer can turn his/her attention to an event that occurs, for example, in a different part of the classroom, a fixed video camera cannot, and, indeed, a movable camera that changes direction to focus on that event or group of students might be very intrusive. Further, students, unintentionally, might block the camera’s eye or move across the classroom and ‘get in the way’ of the focus of the camera, such that the observation is lost, whereas a human can see much more easily. Whilst having a second camera in the classroom might overcome this, it is costly not only in terms of equipment but in terms of time needed to review and analyse the recordings. Further, video cameras may need to be set in close-up focus to catch certain details (e.g. facial expressions), but this rules out the benefits of a panoramic focus (e.g. to catch other class members or activities); on the other hand, a panoramic focus may not have the degree of focus required for close-up detail. There is also the issue of when to start and stop the video recording (Flick, 2009: 251).
+
+Some observational behavioural research frequently uses a two-way mirror, in which those being observed see a mirror on a wall through which unseen observers watch what is happening without disturbing the ‘natural’ (or contrived) setting under observation (e.g. counsellor training, young children interacting with each other, parents with their children) and, thereby, causing anxiety amongst the participants. Often rooms are specifically prepared for this, and they may also include video camera installations. It raises questions of the ethics of covert research, discussed below.
+
+23.10 Timing and causality with observational data
+
+Observation in experimental procedures is prone to problems of timing – too soon and the effect may not be noticed; too late and the effect might have gone or been submerged by other matters. Experiments typically suffer from the problem of only having two time points for observational measurement: the pre-test and the post-test, and this offers researchers little opportunity for identifying causal processes and mechanisms at work. The choice of timing of observation for establishing causation is crucial and it varies with the purposes of the research. The frequency of the observational data collection varies with the phenomenon under investigation, the scope of the phenomenon, the overall timescale of the phenomenon, the speed at which the dependent variable is likely to change and the level of detailed causal explanation required.
+
+Sometimes micro-time is important (e.g. the intervals of just a few seconds as in the data collection for the ORACLE studies in the 1980s (Galton and Simon, 1980)). In other research a longer time frame is more suitable. Rather than fixing a specific time, it may be the events themselves that dictate the timing of the data collection, so that, for example, changes are reported when they occur, which may vary in time.
+
+The rule of thumb here is that the more accurately we wish to know the causal sequences, the more frequently and closer together must be the observational data collection points. As the number of time points for data collection increases, so does the likelihood of making correct causal inferences and establishing correct causal processes and causation (Morrison, 2009: 168). The second rule of thumb is that the more complex is the phenomenon under investigation, i.e. the more possible causal lines there are in a network of causation, the more time points for observational data collection might be necessary in order to understand the causation at work. Hage and Meeker (1988: 177) comment that most causal processes are either not observable or not easily observable, i.e. inference overrules description. The shorter and more frequent are the time intervals and times of data collection respectively, the more the causal inferences become a matter of fact rather than of faith.
+
+If we wish to understand causation at work then rich data are necessary. Hence, concomitant with the first two rules of thumb comes the third rule of thumb: the more we wish to understand causation and causal processes, then the more it is that qualitative observational data may be useful, as they often have much greater explanatory potential than numerical data. Qualitative observational data can be ongoing and in-depth, and they can indicate causation at work, action narratives and agency within broader conditions and constraints. Consider clinical case studies of individuals, which may have masses of rich qualitative, observational data and field notes that, thereby, enable researchers to understand the processes and mechanisms of causation at work. Participant observation, rather than being an epiphenomenon in the battery of data collection methods, becomes important in understanding causation at work. This is potentiated when used in combination with other qualitative methods (e.g. Hage and Meeker 1988: 179), not least because observation on its own does not establish causation as much causation is unobservable.
+
+Ethnography may have the edge over experimentation in understanding causation in the real world of education rather than the laboratory. The case for qualitative observational data in the understanding of causation and causal processes is powerful, even pre-eminent.
+
+23.11 Ethical considerations
+
+Though observation frequently claims neutrality by being non-interventionist, there are several ethical considerations that surround it, and typically ethics committees for research located in higher education institutions will need to give clearance for the observation(s) to take place. To undertake observation, as with many other forms of data collection requires the informed consent of participants, the right not to be observed, permission from the school and the parents, and, in the UK, clearance concerning your reliability and safety to work with young people in schools (e.g. criminal checks and disclosure form completion). All of these take on even greater significance if the researcher is to conduct participant observation or if the research involves close-up observation (e.g. that which might invade the personal space of participants or any sense of threat (Simpson and Tuson, 2003: 61)). Informed consent also has to attend to the cultural dimension of observation, for example knowing whom to approach, how to address them, how to secure permission in a culturally appropriate manner, and so on.
+
+In addition to informed consent, there is a well-documented literature on the dilemma surrounding overt and covert observation. Whereas in overt research the subjects know that they are being observed, in covert research they do not. On the one hand this latter form of research appears to violate the principle of informed consent, invades the privacy of subjects and private space, treats the participants instrumentally – as research objects – and places the researcher in a position of misrepresenting her/his role (Mitchell, 1993), or rather, of denying it. However, on the other hand, it is argued (Mitchell, 1993) that there are some forms of knowledge that are legitimately in the public domain but access to which is only available to the covert researcher (see, for example, the fascinating account of the lookout ‘watch queen’ in the homosexual community (Humphreys, 1975)). Covert research might be necessary to gain access to marginalized and stigmatized groups, or groups who would not willingly accede to the requests of a researcher to become involved in research. This might include those groups in sensitive positions, for example drug users and suppliers, HIV sufferers, political activists, child abusers, police informants and racially motivated attackers.
+
+Mitchell (1993) makes a powerful case for covert research, arguing that not to undertake covert research is to deny access to powerful groups who operate under the protection of silence, to neglect research on sensitive but important topics and to reduce research to mealy-mouthed avoidance of difficult but strongly held issues and beliefs, i.e. to capitulate when the going gets rough! In a series of examples from research undertaken covertly, he makes the case that not to have undertaken this kind of research would be to deny the public access to areas of legitimate concern, the agendas of the powerful (who can manipulate silence and denial of access to their advantage) and the public knowledge of poorly understood groups or situations.
+
+Covert research can also be justified on the grounds that it overcomes problems of reactivity, in particular if the researcher believes that individuals would change their natural behaviour if they knew that they were being observed. In some cases covert research can produce more reliable, less biased results than overt research, and, indeed, may be justified where the safety of the researcher may be at risk (Pearson, 2009).
+
+That covert research can be threatening is well documented from Patrick’s (1973) study of a Glasgow gang, where the researcher had to take extreme care not to ‘blow his cover’ when witness to a murder, to Mitchell’s (1993) account of the careful negotiation of role required to undertake covert research into a group of ‘millennialists’ – ultra-right-wing armed political groups in America who were bound by codes of secrecy, and to his research on mountaineers, where membership of the group involved initiation into the rigours and pains of mountaineering (the researcher had to become a fully fledged mountaineer himself to gain acceptance by the group).
+
+Ethical issues also have to address the problem that observations often disturb the natural setting. Indeed Bernard (1994) suggests that participation may involve some deception, pretence, impression management in order to achieve rapport, access, immersion, objectivity and an ability to blend into the community or context, even if the researcher is overt rather than covert. Maybe the observer has to feign ignorance or willingness to be involved and to gain access to sensitive or confidential data (thereby using persons as objects rather than as subjects).
+
+The ethical dilemmas of covert research are numerous, charting the tension between invasion and protection of privacy and the public’s legitimate ‘right to know’, between informed consent and its violation in the interests of a wider public, between observation as a superficial, perhaps titillating, spectator sport and as important social research. At issue is the dilemma that arises between protecting the individual and protecting the wider public, posing the question ‘whose beneficence?’ – whom does the research serve, whom does the research protect, is the greater good the protection and interests of the individual or the protection and interests of the wider public, will the research harm already damaged or vulnerable people, will the research improve their lot, will the research have to treat the researched instrumentally in the interests of gathering otherwise unobtainable yet valuable research data? Should the researcher disclose all the data (Kawulich, 2005) or keep some private? (Kawulich (2005: 14) reports being told that she should not request additional funding for research if the research was not publishable, and she decided not to publish some data, in order to retain good relationships with the group she was studying; her loyalty was to the group rather than to the public.) The researcher has inescapable moral obligations to consider, and, whilst codes of ethical conduct abound, each case might have to be judged on its own merits.
+
+The need for covert research, with due protections, is justified ethically in guidelines and codes of ethics. For example the British Sociological Association (2002: para. 31) indicates that ‘the use of covert methods may be justified in certain circumstances’ and that ‘covert methods violate the principles of informed consent and may invade the privacy of those being studied. Covert researchers might need to take into account the emerging legal frameworks surrounding the right to privacy’ (para. 32). The British Educational Research Association (2004) writes that ‘researchers must therefore avoid deception or subterfuge unless their research design specifically requires it to ensure that the appropriate data is collected or that the welfare of the researcher is not put in jeopardy’ (para. 12). The American Educational Research Association (2000) appears more stringent, writing that ‘Deception is discouraged; it should be used only when clearly necessary for scientific studies, and should then be minimized. After the study, the researcher should explain to the participants and institutional representatives the reasons for the deception’ (para. 3); here the requirement for full subsequent disclosure might prevent certain kinds of research from being done. Pearson (2009: 244) comments that in considering covert research ‘proportionality’ has to be addressed, whereby the potential harm done to individuals and organizations is minimal, and much less than the public benefit to be gained from the research.
+
+Further, the issue of non-intervention is, itself, problematical. Whilst the claim for observation as being non-interventionist was made at the start of this chapter, the issue is not as clear as this, for researchers inhabit the world that they are researching, and their influence may not be neutral (the Hawthorne and halo effects discussed in Chapter 10). This is clearly as issue in, for example, school inspections, where the presence of an inspector in the classroom exerts a powerful influence on what takes place; it is disingenuous to pretend otherwise. Observer effects can be considerable.
+
+Moreover, the non-interventionist observer has to consider her/his position very closely. In the example mentioned above of Patrick’s (1973) witness to a murder, should the researcher have ‘blown his cover’ and reported the murder? What if not acting on the witnessed murder might have yielded access to further sensitive data? Should a researcher investigating drug or child abuse report the first incident or ‘hang back’ in order to gain access to further, more sensitive data? Should a witness to abuse simply report it or take action about it? If I see an incident of racial abuse, or bullying, do I maintain my non-interventionist position? Do I ‘turn a blind eye’ to breaches of discipline or school rules, or even criminal acts or plans for criminal acts (Pearson, 2009: 246) (e.g. an individual’s or group’s plans to bully a student, to physically assault someone, to steal and so on)? Do I undertake criminal acts in order to be an insider to a group? Is the observer merely a journalist, providing data for others to judge? When does non-intervention become morally reprehensible? These are issues for which one cannot turn to codes of conduct for a clear adjudication.
+
+23.12 Some cautionary comments
+
+Many observation situations carry the risk of bias (e.g. Wilkinson, 2000: 228; Moyles, 2002: 179; Robson, 2002: 324-5; Shaughnessy et al., 2003: 116-17; Flick, 2009: chapter 17), for example by:
+
+[图片: images/038_23 Observation/160_box.jpg | image]
+ Selective attention of the observer (what we see is a function of where we look, what we look at, how we look, when we look, what we think we see, whom we look at; what is in our minds at the time of observation; what are our own interests and experiences).
+
+[图片: images/038_23 Observation/161_box.jpg | image]
+ Reactivity (participants may change their behaviour if they know that they are being observed, e.g. they may try harder in class, they may feel more anxious, they may behave much better or much worse than normal, they may behave in ways in which they think the researcher wishes or in ways for which the researcher tacitly signals approval: ‘demand characteristics’ (Shaughnessy et al., 2003: 113)).
+
+[图片: images/038_23 Observation/162_box.jpg | image]
+ Attention deficit (what if the observer is distracted, or looks away and misses an event?).
+
+[图片: images/038_23 Observation/163_box.jpg | image]
+ Validity of constructs (decisions have to be taken on what counts as valid evidence for a judgement. For example, is a smile a relaxed smile, a nervous smile, a friendly smile, a hostile smile? Does looking at a person’s non-verbal gestures count as a valid indicator of interaction? Are the labels and indicators used to describe the behaviour of interest valid indicators of that behaviour?).
+
+[图片: images/038_23 Observation/164_box.jpg | image]
+ Selective data entry (what we record is sometimes affected by our personal judgement rather than the phenomenon itself; we sometimes interpret the situation and then record our interpretation rather than the phenomenon).
+
+[图片: images/038_23 Observation/165_box.jpg | image]
+ Selective memory (if we write up our observations after the event our memory neglects and selects data, sometimes overlooking the need to record the contextual details of the observation; notes should be written either during or immediately after the observation).
+
+[图片: images/038_23 Observation/166_box.jpg | image]
+ Interpersonal matters and counter-transference (our interpretations are affected by our judgements and preferences – what we like and what we don’t like about people and their behaviour, together with the relationships that we may have developed with those being observed and the context of the situation; researchers have to deliberately distance themselves from the situation and address reflexivity).
+
+[图片: images/038_23 Observation/167_box.jpg | image]
+ Expectancy effects (the observer knows the hypotheses to be tested, or the findings of similar studies, or has expectations of finding certain behaviours, and these may influence her/his observations).
+
+[图片: images/038_23 Observation/168_box.jpg | image]
+ Decisions on how to record (the same person in a group under observation may be demonstrating the behaviour repeatedly, but nobody else in the group may be demonstrating that behaviour: there is a need to record how many different people show the behaviour).
+
+[图片: images/038_23 Observation/169_box.jpg | image]
+ Number of observers (different observers of the same situation may be looking in different directions, and so there may be inconsistency in the results. Therefore there is a need for training, for consistency, for clear definition of what constitutes the behaviour, of entry/judgement, and for kinds of recording).
+
+[图片: images/038_23 Observation/170_box.jpg | image]
+ The problem of inference (observations can only record what happens and what can be seen, and it may be dangerous, without any other evidence, e.g. triangulation, to infer the reasons, intentions and causes and purposes that lie behind actors’ behaviours. One cannot always judge intention from observation: for example, a child may intend to be friendly, but it may be construed by an inexperienced observer as selfishness; a teacher may wish to be helpful but the researcher may interpret it as threatening. It is dangerous to infer a stimulus from a response, an intention from an observation. Similarly one may not see certain phenomena emerging over time (e.g. biographical processes)).
+
+The issues here concern validity and reliability. With regard to the validity of the observation, researchers have to ensure that the indicators of the construct under investigation are fair and operationalized, for example, so that there is agreement on what counts as constituting qualities such as ‘friendly’, ‘happy’, ‘aggressive’, ‘sociable’ and ‘unapproachable’. The matter of what to observe is problematic. For example, do you only focus on certain people rather than the whole group, on certain events and at certain times rather than others, on molar or molecular units? Do you provide a close-grained, close-up observation or a holistic, wider-focused and wider-ranging observation, i.e. do you use a zoom lens and obtain high definition of a limited scope, or a wide-angle lens and obtain a full field but lacking in detail, or somewhere between the two? How do you decide on what to focus?
+
+Expectancy effects can be overcome by ensuring that the observers do not know the purpose of the research, the ‘double-blind’ approach.
+
+With regard to reliability, the indicators have to be applied fully, consistently and securely, with no variation in interpretation. Not only is this a matter for one observer – consistency in his or her observation and recording – but it is also a matter if there are several observers. A formula for calculating the degree of agreement (as a percentage) between observers can be used thus:
+
+[图片: images/038_23 Observation/171_f0473-01.jpg | image]
+
+In measuring inter-rater reliability one should strive for a high percentage (over 90 per cent minimum). Other measures of inter-rater reliability use correlations, and here coefficients of >0.90 (i.e. over 90 per cent) should be sought (Shaughnessy et al., 2003 : 111).
+
+To ensure the researcher’s or researchers’ reliability, it is likely that training is required, so that, for example, researchers:
+
+[图片: images/038_23 Observation/172_box.jpg | image]
+ use the same operational definitions;
+
+[图片: images/038_23 Observation/173_box.jpg | image]
+ record the same observations in the same way;
+
+[图片: images/038_23 Observation/174_box.jpg | image]
+ have good concentration;
+
+[图片: images/038_23 Observation/175_box.jpg | image]
+ can focus on detail;
+
+[图片: images/038_23 Observation/176_box.jpg | image]
+ can be unobtrusive but attentive;
+
+[图片: images/038_23 Observation/177_box.jpg | image]
+ have the necessary experience to make informed judgements from the observational data.
+
+These qualities are essential in order to avoid fatigue, ‘observer drift’ (Cooper and Schindler, 2001: 380) and halo effects, all of which can reduce the reliability of the data.
+
+With regard to the issue of reactivity, one suggestion is to adopt covert observation, though this raises ethical issues which have been addressed in Chapter 5. Another suggestion is to adopt habituation, i.e. the researcher remains in the situation for such a long time that participants not only become used to his/her presence but revert to their natural behaviour.
+
+Lofland (1971: 104-6) suggests that, to overcome problems of reliability in the research, it is also important for the observer to write up notes as soon after the event as possible, to write quickly yet to expect to take a long time to write notes, to consider dictating notes (though writing may stimulate more thought), to use a word-processing facility as it aids later analysis through software packages, and to make two copies: one of the original data and another for manipulation and analysis (e.g. cutting and pasting data).
+
+23.13 Conclusion
+
+Observation methods are powerful tools for gaining insight into situations. As with other data collection techniques, they are beset by issues of validity and reliability. Even low inference observation, perhaps the safest form of observation, is itself highly selective, just as perception is selective. Higher forms of inference, whilst moving towards establishing causality, rely on greater levels of interpretation by the observer, wherein the observer makes judgements about intentionality and motivation. In this respect it has been suggested that additional methods of gathering data might be employed, to provide corroboration and triangulation, in short, to ensure that reliable inferences are derived from reliable data.
+
+In planning observations one has to consider:
+
+[图片: images/038_23 Observation/178_box.jpg | image]
+ When, where, how and what to observe.
+
+[图片: images/038_23 Observation/179_box.jpg | image]
+ How much degree of structure is necessary in the observation.
+
+[图片: images/038_23 Observation/180_box.jpg | image]
+ The duration of the observation period, which must be suitable for the behaviour to occur and be observed.
+
+[图片: images/038_23 Observation/181_box.jpg | image]
+ The timing of the observation period (e.g. morning, afternoon, evening).
+
+[图片: images/038_23 Observation/182_box.jpg | image]
+ The context of the observation (a meeting, a lesson, a development workshop, a senior management briefing, etc.).
+
+[图片: images/038_23 Observation/183_box.jpg | image]
+ The nature of the observation (structured, semi-structured, open, molar, molecular, etc.).
+
+[图片: images/038_23 Observation/184_box.jpg | image]
+ The need for there to be an opportunity to observe, for example to ensure that there is the presence of the people to be observed of the behaviour to be observed.
+
+[图片: images/038_23 Observation/185_box.jpg | image]
+ The merging of subjective and objective observation, even in a structured observation: an observation schedule can become highly subjective when it is being completed, as interpretation, selection and counter-transference may enter the observation, and operational definitions may not always be sufficiently clear.
+
+[图片: images/038_23 Observation/186_box.jpg | image]
+ The value of covert participant observation in order to reduce reactivity.
+
+[图片: images/038_23 Observation/187_box.jpg | image]
+ Threats to reliability and validity.
+
+[图片: images/038_23 Observation/188_box.jpg | image]
+ The need to operationalize the observation so that what counts as evidence is consistent, unambiguous and valid, for example what constitutes a particular quality (e.g. anti-social behaviour: what counts as antisocial behaviour – one person’s ‘sociable’ is another’s ‘unsociable’ and vice versa).
+
+[图片: images/038_23 Observation/189_box.jpg | image]
+ The need to choose the appropriate kind of structured observation and recording (e.g. event sampling, instantaneous sampling, whole interval/partial interval recording, duration recording, dichotomous/rating scale recording).
+
+[图片: images/038_23 Observation/190_box.jpg | image]
+ How to go under cover, or whether informed consent is necessary.
+
+[图片: images/038_23 Observation/191_box.jpg | image]
+ Whether deception is justified.
+
+[图片: images/038_23 Observation/192_box.jpg | image]
+ Which role(s) to adopt on the continuum of complete participant, to participant-as-observer, to observer as participant, to complete observer.
+
+Observation can be a very useful research tool. On the other hand it exacts its price, for example: it may take a long time to catch the required behaviour or phenomenon, it can be costly in time and effort, and it is prone to difficulties of interpreting or inferring what the data mean. This chapter has outlined several different types of observation and the premises that underlie them, the selection of the method to be used depending on ‘fitness for purpose’. Overriding the issues of which specific method of observation to use, this chapter has suggested that observation places the observer into the moral domain, that it is insufficient simply to describe observation as a non-intrusive, non-interventionist technique and thereby to abrogate responsibility for the participants involved. Like other forms of data collection in the human sciences, observation is not a morally neutral enterprise. Observers, like other researchers, have obligations to participants as well as to the research community.
+
+For examples of observational data see the accompanying website.
+
+[图片: images/038_23 Observation/193_common.jpg | image]
+ Companion Website
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. In addition there is further information in the form of sample observation notes. These resources can be found online at www.routledge.com/textbooks/cohen7e.

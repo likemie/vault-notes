@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,21 +38,16 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Rich and Thick Description]]"
   - "[[Social Episodes]]"
-  - "[[Ontology]]"
   - "[[Internal Consistency]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Conatus]]"
   - "[[Falsification]]"
   - "[[Questionnaire]]"
-  - "[[Epistemological Break]]"
   - "[[Hypothesis]]"
-  - "[[Presence]]"
   - "[[Document]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
-  - "[[Habitus]]"
   - "[[Ideal Speech Situation]]"
-  - "[[Definition of Terms]]"
   - "[[Reflexivity]]"
   - "[[Multiplicity]]"
 related_theories:
@@ -64,6 +59,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
   - "[[Ethogenic Approach]]"
+  - "[[Account Gathering]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Experience Sampling Method]]"
   - "[[Experience-Sampling Method]]"
@@ -72,6 +68,7 @@ related_methods:
   - "[[Network Analysis]]"
   - "[[Sociometry]]"
   - "[[Survey Research]]"
+  - "[[Stories as Research Data]]"
   - "[[Ex Post Facto Research]]"
   - "[[Action Research]]"
 related_persons:
@@ -83,6 +80,8 @@ updated: 2026-07-23
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22
 
 ---
+
+#### 概念地图
 
 > [!knowledge-map]- 第22章　概念地图
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_22_Concept_Map.jpg)
@@ -258,6 +257,8 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 
 > [!info] 系统网络分析
 > [[Network Analysis|网络分析]]就是为此目的发展的分析技术。Bliss 等人（1983）借鉴人工智能，使用关系网络概念来表征个人对特定领域知识的内容和结构，即**系统网络分析（systematic network analysis）**。本质上，它涉及发展一套类别系统对质性数据进行分类，同时保留材料的复杂性和微妙性。一种记法技术被用来生成网络状结构，展示类别之间的相互依赖关系（pp.450–451）。
+
+#### 社会计量学基础
 
 网络分析的早期根基在[[Sociometry|社会计量学]]（sociometry）（Moreno, 1934, 1960; Hoffman, 2001），对社会关系强度的系统测量（pp.450–451）：
 
@@ -524,7 +525,7 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 
 ---
 
-#### 关键引用
+## 关键引用
 
 > [!citation-card]- Harré 论陈述的社会功能
 > 解释我们的行为可以理解为为我们的行动作出陈述（accounting for our actions），以使它们对周围的人变得可理解和可辩护。因此说"非常抱歉，我不是故意撞到你的"，是一个社会意义阐明的简单案例：通过将碰撞置于非计划序列之外并使其可理解而无法被追责，从而在那个情境中消除了冒犯性。（第22章, p.441）
