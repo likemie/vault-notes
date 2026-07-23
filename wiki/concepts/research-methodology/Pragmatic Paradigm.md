@@ -7,6 +7,11 @@ aliases:
   - 实用主义研究范式
 summary: "混合方法研究与实践取向哲学的核心基础，以研究问题为中心、以适合目的与实践后果为导向，拒绝绝对确定性与单一范式崇拜。"
 type: concept
+domain: "research-methodology"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - research-philosophy
   - mixed-methods
