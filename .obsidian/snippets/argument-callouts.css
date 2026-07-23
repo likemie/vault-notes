@@ -10835,8 +10835,10 @@
     0 4px 16px rgba(var(--callout-color), 0.09);
 }
 
-/* ─── warning 列表项标题加框 ────── */
-.callout[data-callout="warning"] .callout-content > ul > li strong:first-of-type {
+/* ─── warning / question / note 列表项标题加框 ────── */
+.callout[data-callout="warning"] .callout-content > ul > li strong:first-of-type,
+.callout[data-callout="question"] .callout-content > ul > li strong:first-of-type,
+.callout[data-callout="note"] .callout-content > ul > li strong:first-of-type {
   display: inline-block;
   border: 1px solid rgba(var(--callout-color), 0.3);
   border-radius: 4px;
@@ -10845,7 +10847,9 @@
   background: rgba(var(--callout-color), 0.07);
   font-weight: 600;
 }
-.theme-dark .callout[data-callout="warning"] .callout-content > ul > li strong:first-of-type {
+.theme-dark .callout[data-callout="warning"] .callout-content > ul > li strong:first-of-type,
+.theme-dark .callout[data-callout="question"] .callout-content > ul > li strong:first-of-type,
+.theme-dark .callout[data-callout="note"] .callout-content > ul > li strong:first-of-type {
   background: rgba(var(--callout-color), 0.12);
   border-color: rgba(var(--callout-color), 0.25);
 }
