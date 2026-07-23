@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 113
+argument_related_count: 114
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -123,6 +123,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Pilot Testing]]"
   - "[[Documentary Analysis]]"
+  - "[[Structured Observation]]"
   - "[[Observation Protocol]]"
   - "[[Random Assignment]]"
   - "[[Random Sampling]]"
@@ -441,7 +442,7 @@ updated: '2026-07-21'
 > | 缺点 | 受到观察者自身主观因素的影响，从而影响研究的客观性 | 比较表面化，不易获得比较深层次的材料 |
 > | 典型场景 | 人类学家深入到偏远山区或少数民族聚集的部落，了解当地风土人情、生活习俗、文化与艺术特征 | 教育社会学中对班级正式群体与非正式群体的互动行为的观察研究 |
 
-> [!contrast-table] 按实施方法：结构式观察 vs 非结构式观察
+> [!contrast-table] 按实施方法：[[Structured Observation|结构式观察]] vs 非结构式观察
 > | 维度 | 结构式观察 | 非结构式观察 |
 > |---|---|---|
 > | 特征 | 有具体的观察目标、问题和范围，有详细的观察计划和[[Observation Protocol\|观察记录表]] | 没有具体的观察目标，观察内容与步骤不事先确定 |

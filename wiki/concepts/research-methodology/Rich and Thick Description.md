@@ -9,7 +9,7 @@ aliases:
 summary: "Geertz (1973) 提出的质性研究质量标准，要求不仅提供详细的观察数据，还须包含意义、参与者诠释和不可观察因素的数据，使读者能够充分理解情境并对研究发现做出知情判断。"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,10 +36,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-07-11
+updated: 2026-07-23
 ---
 
 # Rich and Thick Description
@@ -116,8 +117,23 @@ Lincoln & Guba（1985: 365–366）在[[Case Study|案例研究]]撰写指南中
 
 ---
 
+## 厚描述的构成要素
+
+Carspecken（1996: 47）提出了厚描述的构成要素（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.6 节]]）：
+
+> [!feature] Carspecken（1996: 47）的厚描述构成要素
+> - **言语行为（Speech acts）** 记录参与者说了什么、如何说以及对话的互动结构
+> - **非语言沟通（Non-verbal communication）** 记录姿势、表情、身体距离和空间使用
+> - **低推断词汇描述（Descriptions in low-inference vocabulary）** 尽量用接近事实本身的词汇描述，避免过早加入研究者的解释和判断
+> - **时间和时间安排的记录** 仔细和频繁地记录事件发生的时间和时机
+> - **观察者评论的分类** 将观察者的评论放入类别中，以便后续分析
+> - **详细的情境数据** 收集关于情境脉络的详细信息
+
+Morrison（1993: 88）进一步指出，通过在一段时间内沉浸于特定情境，不仅情境的显著特征会浮现和呈现自身，而且一个关于诸因素相互关系的更整体性视角将被收集。这种沉浸有助于生成厚描述，尤其是对**社会过程和互动**的厚描述，这些描述有助于对事件做出准确的解释和说明，而非依赖研究者自身的推断。参与式观察的数据"**在现实中强有力**"（strong on reality）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.6 节]]）。
+
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将厚描述定位为八种[[Qualitative Validity|质性效度]]策略之一，强调其在[[Ethnography|民族志]]和[[Case Study|案例研究]]中的核心作用以及与[[Naturalistic Generalization|自然主义概括]]的关系。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 将厚描述定位为自然主义[[Paradigm|范式]]的核心公理，系统阐述其[[Epistemology|认识论]]根基（Geertz, 1973）、在可[[Reliability|信度]]框架中的位置（Lincoln & Guba, 1985）、平衡功能（Dobbert & Kurth-Schai, 1992）、概括性支撑功能（Larsson, 2009）以及选择性纪律（Swain, 2006）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11)]] — 将厚描述定位为自然主义[[Paradigm|范式]]的核心公理，系统阐述其[[Epistemology|认识论]]根基（Geertz, 1973）、在可[[Reliability|信度]]框架中的位置（Lincoln & Guba, 1985）、平衡功能（Dobbert & Kurth-Schai, 1992）、概括性支撑功能（Larsson, 2009）以及选择性纪律（Swain, 2006）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 在观察方法章节中呈现 Carspecken（1996: 47）的厚描述六项构成要素、Morrison（1993: 88）关于沉浸产生厚描述和整体性视角的论述，以及在参与式观察中厚描述的"现实中强有力"特性（23.6 节）。

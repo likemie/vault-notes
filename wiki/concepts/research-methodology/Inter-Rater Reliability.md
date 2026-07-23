@@ -9,7 +9,7 @@ aliases:
 summary: "多位独立评判者使用同一工具对相同对象评分时彼此一致的程度，是信度作为等值性的核心形式之一，在量化观察、质性编码、测验评分和访谈分析中均有对应操作"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
   - "[[Longitudinal Study]]"
+  - "[[Structured Observation]]"
   - "[[Semi-structured Interview]]"
   - "[[Qualitative Research]]"
   - "[[Observation Method]]"
@@ -44,6 +45,7 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 status: draft
 created: 2026-06-01
 updated: 2026-06-23
@@ -87,13 +89,14 @@ updated: 2026-06-23
 
 ### 量化研究中的评分者间信度
 
-在[[Quantitative Research|量化研究]]中，评分者间[[Reliability|信度]]是信度作为等值性的一种形式（Carmines & Zeller, 1979）。如果多于一位研究者参与研究，必须确保所有研究者在数据录入方式上一致——这对收集结构化观察或[[Semi-structured Interview|半结构化访谈]]数据的团队尤为重要。
+在[[Quantitative Research|量化研究]]中，评分者间[[Reliability|信度]]是信度作为等值性的一种形式（Carmines & Zeller, 1979）。如果多于一位研究者参与研究，必须确保所有研究者在数据录入方式上一致——这对收集[[Structured Observation|结构化观察]]或[[Semi-structured Interview|半结构化访谈]]数据的团队尤为重要。
 
 > [!feature] 量化评分者间信度的操作要素
 > - **培训与校准** 对于观察数据，信度在研究者的培训课程中得到解决——他们使用视频材料以确保录入数据的同等性。培训的目标是让所有评判者对同一行为给出相同或高度相近的评分。
-> - **简单百分比计算** 在最简单的层面上，可以计算评分者间一致性百分比——两位评判者评分一致的次数除以总评分次数。
+> - **简单百分比计算** 在最简单的层面上，可以计算评分者间一致性百分比——两位评判者评分一致的次数除以总评分次数。公式为：$$\text{一致性百分比} = \frac{\text{一致次数}}{\text{一致次数} + \text{不一致次数}} \times 100\%$$ 应追求最低超过90%的一致性（Shaughnessy et al., 2003: 111）。观察者之间的相关性系数也应 >0.90。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|(Cohen et al., 2011, Ch. 23, 23.12 节)]]
 > - **Robson 的复杂方法** Robson (2002: 341) 提出了在[[Coding in Qualitative Research|编码]]观察数据中测量评分者间信度的更复杂方法，适用于多位评判者和多类别评分情境。
 > - **常见统计指标** Cohen's κ（两位评判者、类别评定）、Fleiss' κ（多位评判者）、组内相关系数 ICC（连续评分）。
+> - **观察者漂移** 需注意避免疲劳和"观察者漂移"（observer drift）——观察者随时间推移逐渐改变其评分标准的倾向（Cooper & Schindler, 2001: 380）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|(Cohen et al., 2011, Ch. 23, 23.12 节)]]。
 
 > [!example] 典型情境
 > 研究者关注儿童游乐场上的欺凌行为，请多位专家评判者在观看儿童互动的录像后，使用同一评定工具对欺凌行为进行评分。此时需要评估各位专家评判者评分之间的一致性——不同评判者是否对同一段录像中同一儿童的行为给出了相似的评分？[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]

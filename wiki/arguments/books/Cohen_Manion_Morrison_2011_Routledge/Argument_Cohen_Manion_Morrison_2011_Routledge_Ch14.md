@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 62
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -80,14 +80,17 @@ related_methods:
   - "[[Action Research]]"
   - "[[Pilot Testing]]"
   - "[[Single-Case Design]]"
+  - "[[Cross-checking]]"
   - "[[Triangulation]]"
+  - "[[Critical Incidents]]"
   - "[[Participant Observation]]"
   - "[[Observation Method]]"
   - "[[Documentary Analysis]]"
   - "[[Non-participant Observation]]"
+  - "[[Structured Observation]]"
   - "[[Field Notes]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Grounded Theory]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
@@ -287,7 +290,7 @@ Dyer（1995, pp. 50–52）指出阅读个案研究时必须意识到选择过�
 
 > [!weakness] Box 14.2 Nisbet & Watt（1984）的三项弱点
 > 1. 结果可能不可推广，除非其他读者/研究者看到其应用
-> 2. 不易接受交叉检查，因此可能是选择性的、有偏的、个人的和主观的
+> 2. 不易接受[[Cross-checking|交叉检查]]，因此可能是选择性的、有偏的、个人的和主观的
 > 3. 容易产生观察者偏误问题，尽管已尝试处理[[Reflexivity|反身性]]
 
 ---
@@ -313,7 +316,7 @@ Dyer（1995, pp. 50–52）指出阅读个案研究时必须意识到选择过�
 ---
 
 > [!claim] 重要性而非频率是个案研究的选择原则
-> 选择信息是个案研究中的关键问题。虽然记录典型、代表性发生是有用的，但研究者不必总是遵守代表性标准。不频繁、不具代表性但关键的事件（critical incidents）可能对理解案例至关重要（Flanagan, 1949）。个案研究不以频率为追求，可以用质量和强度替代数量，将重要的少数与不重要的多数行为实例分开，为研究者提供对情境和人的真实动态的洞察。
+> 选择信息是个案研究中的关键问题。虽然记录典型、代表性发生是有用的，但研究者不必总是遵守代表性标准。不频繁、不具代表性但关键的事件（[[Critical Incidents]]）可能对理解案例至关重要（Flanagan, 1949）。个案研究不以频率为追求，可以用质量和强度替代数量，将重要的少数与不重要的多数行为实例分开，为研究者提供对情境和人的真实动态的洞察。
 >
 > 例如心理个案研究可能偶然发现成人早期生活中的一次儿童虐待事件，其影响深远到构成理解该成人的转折点；一个孩子可能突然说出一句表明对某位教师完全沮丧或完全恐惧的话，仅出现一次但太重要而不能忽视（p. 287）。
 
@@ -459,7 +462,7 @@ Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩�
 > - **Parker（1974）** 利物浦市中心青少年研究；参与式观察。研究者被知晓即将在大学任职，但白天闲逛、晚上在酒吧迅速建立了OK的口碑。一个饮酒者、一个闲逛者，在非法事件中可以保持沉默
 > - **Willis（1977）** 对一小群工人阶级男孩在最后两年学校和最初几个月的就业中的密集研究；参与式观察。作为班级成员而非教师参与其中，并在工业中与每个男孩并排工作一段时间
 > - **Blease & Cohen（1990）** 小学课堂计算机使用应对研究；高度结构化的[[Non-participant Observation|非参与观察]]表，由非参与观察者进行，明确意图是获取精确的量化数据，位于自然与人工之间
-> - **Antonsen（1988）** 儿童精神科诊所中接受心理治疗的单个儿童；非结构化观察，人工情境，非参与式，治疗师的非指导性方法记录
+> - **Antonsen（1988）** 儿童精神科诊所中接受心理治疗的单个儿童；非[[Structured Observation|结构化观察]]，人工情境，非参与式，治疗师的非指导性方法记录
 > - **Houghton（1991）** 国际学生；结构化测试材料和焦点访谈，人工情境，咨询师办公室中的最结构化方法
 
 观察有两种主要类型，构成从完全参与到完全非参与的连续体（pp. 291–292）：

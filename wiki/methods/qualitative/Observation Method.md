@@ -10,9 +10,9 @@ summary: "教育研究中基本的资料收集方法，通过有目的、有计�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -27,28 +27,38 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Reliability]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Ecological Validity]]"
   - "[[Computer Simulation]]"
   - "[[Research Question]]"
   - "[[Flanders Interaction Analysis Categories]]"
+  - "[[Rating Scale]]"
+  - "[[Causal Processes]]"
+  - "[[Construct Validity]]"
+  - "[[Inter-Rater Reliability]]"
+  - "[[Definition of Terms]]"
   - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Participant Observation]]"
   - "[[Non-participant Observation]]"
+  - "[[Structured Observation]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Observation]]"
   - "[[Survey Research]]"
   - "[[Case Study]]"
   - "[[Observation Protocol]]"
   - "[[Triangulation]]"
+  - "[[Field Notes]]"
 related_persons:
   - "[[Jean Piaget]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-23
 ---
 
 # Observation Method
@@ -58,7 +68,7 @@ updated: 2026-06-25
 ## 定义
 
 > [!def] 观察法（Observation Method）
-> 观察法是人们根据研究的目的和任务，有计划地利用各种手段和工具，搜集获取关于研究对象的经验数据的方法。它在教育研究中处于基础、核心的地位——运用观察法对研究对象的言语、行为等外显表现，或者事物的状况、运行过程、机制等进行描述和记录，形成观察数据，再运用各种数据分析方法解释现象或获得较深入的理解（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.3）。
+> 观察法是人们根据研究的目的和任务，有计划地利用各种手段和工具，搜集获取关于研究对象的经验数据的方法。它在教育研究中处于基础、核心的地位。观察不止是"看"——它是（通常系统地）看和系统地记录（始终）人、事件、行为、环境、物品和常规（Marshall & Rossman, 1995; Simpson & Tuson, 2003: 2）。观察的独特优势在于研究者有机会从自然发生的社会情境中收集"活"的数据，直接看现场发生的事而非依赖二手陈述（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23]]; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.3）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 研究对象的言语、行为等外显表现，以及事物的状况、运行过程、机制。
@@ -80,7 +90,7 @@ updated: 2026-06-25
 > - **不声称回答的问题** 单纯的观察不能直接确立[[Causality|因果关系]]（需要结合实验设计）；不能替代对研究对象内在心理过程的直接测量。
 
 > [!method-stack] 方法层级
-> - **研究设计** 自然观察、实验观察、[[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、结构式观察、非结构式观察。
+> - **研究设计** 自然观察、实验观察、[[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、[[Structured Observation|结构式观察]]、非结构式观察。
 > - **数据收集** 描述观察（日记描述法、轶事记录法、连续记录法）、取样观察（时间取样、活动取样、事件取样）、行为检核法。
 > - **分析方法** 定性分析（文字描述、叙事分析）、定量分析（[[Coding in Qualitative Research|编码]]体系、记号体系、等级量表）。
 > - **辅助技术** 观察仪器和记录设备（录音、录像、高速摄影）、预先制作的观察量表、观察笔记。
@@ -96,6 +106,8 @@ updated: 2026-06-25
 > - **获得典型、真实的数据资料** 基于[[Hypothesis|研究假设]]进行观察，有利于寻找具有典型意义的数据。利用各种观察手段和工具收集数据，有利于获得较客观真实的[[Primary and Secondary Documents|第一手资料]]。
 > - **发现新现象、新问题** 在观察过程中可能会出现研究假设之外的[[Variable|变量]]，有助于为修订或提出新的研究假设提供经验依据，发现教育实践中容易被忽略的问题。
 > - **检验假设** 通过观察获得教育实践中各种相互关系的信息，结合实证研究方法并恰当地处理数据，有助于检验先前提出的研究命题或理论假设。
+
+观察数据对情境敏感，表现出较强的[[Ecological Validity|生态效度]]（Moyles, 2002），使研究者能够理解项目情境、以开放和归纳性方式运作、看到可能被无意识忽略的事物、发现参与者在访谈中可能不愿自由谈论的内容、超越基于感知的数据（如访谈中的意见）并获取个人知识。Morrison（1993: 80）指出观察使研究者能够收集四个环境的数据：**物理环境**（物理环境及其组织）、**人际环境**（人员的组织、被观察群体或个体的特征与构成）、**互动环境**（正在发生的互动——正式/非正式、计划/非计划、语言/非语言等）和**项目环境**（资源及其组织、教学风格、课程及其组织）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1 节]]）。
 
 ---
 
@@ -132,6 +144,12 @@ updated: 2026-06-25
 
 ---
 
+## 观察的分类维度
+
+观察法可从多个维度加以分类。Flick（1998: 137）提出五个维度：结构化/系统化/量化观察 vs 非结构化/非系统化/[[Qualitative Observation|质性观察]]；参与式观察 vs [[Non-participant Observation|非参与式观察]]；公开观察 vs 隐蔽观察；自然情境观察 vs 人工情境观察；自我观察 vs 观察他人。Cooper & Schindler（2001: 375）提出三个维度：直接观察 vs 间接观察（前者需要观察者在场，后者依赖录像等记录设备）；观察者是否被知晓（公开 vs 隐蔽）；观察者扮演的角色（参与式到非参与式）。这些维度可综合呈现在观察的连续体图中（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1 节]]）。
+
+观察类型从非结构化到结构化、从回应性到预设性排列在一个连续体上。高度结构化的观察预先知道要寻找什么（预设性观察），并事先制定观察类别。半[[Structured Observation|结构化观察]]有一个议题清单但数据收集方式不那么预先决定。非结构化观察则先进入情境观察正在发生什么，再决定其对研究的意义。**结构化观察**是[[Hypothesis|假设]]验证性的，**非结构化观察**是假设生成性的（23.1 节）。
+
 ## 观察的类型
 
 依据不同的分类标准，观察法可分为四种类型（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.3）：
@@ -158,7 +176,7 @@ updated: 2026-06-25
 > | 缺点 | 受观察者主观因素影响，影响客观性 | 较表面化，不易获得深层次材料 |
 > | 典型场景 | 人类学家深入偏远山区了解风土人情 | 教育社会学中对班级群体互动的观察 |
 
-> [!contrast-table] 按实施方法：结构式观察 vs 非结构式观察
+> [!contrast-table] 按实施方法：[[Structured Observation|结构式观察]] vs 非结构式观察
 > | 维度 | 结构式观察 | 非结构式观察 |
 > |---|---|---|
 > | 特征 | 有具体的观察目标、问题和范围，有详细的观察计划和[[Observation Protocol\|观察记录表]] | 没有具体的观察目标，观察内容与步骤不事先确定 |
@@ -215,9 +233,33 @@ updated: 2026-06-25
 > [!feature] 三种定量观察记录方式
 > - **[[Coding in Qualitative Research|编码]]体系（Coding System）** 以既定观察分类项目为依据，采用时间取样的观察方法，用事先编制的代码来记录预期行为是否出现。最为典型的编码体系是[[Flanders Interaction Analysis Categories|弗兰德斯语言互动分析分类体系]]（FIAC）。
 > - **记号体系或项目清单（Sign System）** 事先对所有可能发生的行为进行预期并列出清单，观察者根据这份清单对被观察者行为的呈现与否做出相应记录。常与编码体系结合使用，既适用于时间取样也适用于事件取样。
-> - **等级量表（Rating Scale）** 预先根据观察需要对行为加以分类并形成观察量表，观察者在量表上对被观察对象在某时间段内发生的目标行为做出相应的等级评价。进行等级评定时主要需要观察者做出主观判断，主要用于事件取样观察方法。
+> - **等级量表（[[Rating Scale]]）** 预先根据观察需要对行为加以分类并形成观察量表，观察者在量表上对被观察对象在某时间段内发生的目标行为做出相应的等级评价。进行等级评定时主要需要观察者做出主观判断，主要用于事件取样观察方法。
 
 ---
+
+## 观察中的技术与记录
+
+除传统书写记录外，**视听记录**是强大的观察工具（Erickson, 1992: 209–210）。全面的视听记录可以克服观察者对单一事件的部分视角，克服只记录频繁发生事件的倾向。视频记录可以提供比人类观察更"未经过滤"的观察记录（Simpson & Tuson, 2003: 51），且记录可以多次观看——它不是"一次性"的观察。然而，视频记录也有局限：可能产生反应性问题；固定摄像机可能与人类观察者一样具有选择性（Morrison, 1993: 91）；学生可能无意中遮挡摄像机镜头；近景聚焦排除了全景优势，反之亦然。视频记录是对人类观察的**补充而非替代**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.9 节]]）。
+
+## 观察中的时间与因果推断
+
+实验程序中的观察容易遇到**时间问题**——太早可能看不到效果，太晚效果可能已消失。三条经验法则指导观察数据的时间与[[Causality|因果推断]]（Morrison, 2009: 168; Hage & Meeker, 1988: 177–179）：
+
+> [!chain-link] 时间与因果推断的三条经验法则
+> - **法则一：频率与精确性** 越是希望准确了解因果序列，观测数据收集点就需要越频繁、越密集。随着数据收集时间点数量的增加，做出正确因果推断的可能性也增加。
+> - **法则二：复杂性与时间点数量** 所研究的现象越复杂（因果网络中可能的因果线越多），理解因果所需的观测时间点可能就越多。大多数[[Causal Processes|因果过程]]要么不可观察，要么不容易观察——推断超越描述。
+> - **法则三：质性数据的解释力** 越是希望理解因果关系和因果过程，[[Qualitative Observation|质性观察]]数据就越有用，因其通常比数值数据具有更大的解释潜力。参与式观察在与其它质性方法结合使用时，在理解因果方面变得尤为重要。（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.10 节]]）
+
+## 观察的偏误、信度与效度
+
+> [!warning] 观察中的主要偏误来源
+> - **选择性注意** 我们所看到的是我们在哪里看、看什么、如何看、何时看、我们认为我们看到什么、我们看谁的函数（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.12 节]]）
+> - **反应性** 参与者知道被观察时可能改变行为——"需求特征"（demand characteristics）
+> - **选择性数据记录** 有时先解释情境再记录解释而非现象本身
+> - **期望效应** 观察者知道[[Hypothesis|假设]]或期望找到某些行为，可能影响其观察。"双盲"方法可克服此问题
+> - **[[Construct Validity|构念效度]]** 必须决定什么算作有效判断的证据——一个微笑是放松的、紧张的、友好的还是敌意的？
+
+为确保观察的[[Reliability|信度]]，[[Inter-Rater Reliability|评分者间信度]]应超过90%（百分比一致性）或相关系数 >0.90（Shaughnessy et al., 2003: 111）。观察者需培训以确保使用相同[[Definition of Terms|操作性定义]]、以相同方式记录、具有良好专注力并能避免疲劳和"观察者漂移"（observer drift）。为减少反应性，可采用习惯化（habituation）——研究者在情境中停留足够长时间使参与者恢复自然行为，或采用隐蔽观察（但后者涉及伦理问题）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
 
 ## 适用场景
 
@@ -233,7 +275,7 @@ updated: 2026-06-25
 > [!method-limits] 方法局限
 > - **偏误来源** 观察者主观偏见、对观察事物的科学知识匮乏、观察工具信效度不足、先入为主的[[Hypothesis|假设]]影响、学术诚信问题。
 > - **适用边界** 主要收集外显行为数据，对内在心理过程的推断需谨慎；观察结果受时间、场合和观察对象的人口统计学特征影响。
-> - **误用风险** 将相关关系误判为[[Causality|因果关系]]；忽视观察者培训的重要性；将非结构化观察数据过度量化。
+> - **误用风险** 将相关关系误判为[[Causality|因果关系]]；忽视观察者培训的重要性；将非[[Structured Observation|结构化观察]]数据过度量化。
 > - **补救方式** 加强观察者培训；采用多人同步观察和反复观察；结合多种观察策略和记录方式；使用成熟的观察量表；辅以访谈或[[Questionnaire|问卷调查]]进行[[Triangulation|三角互证]]。
 
 ---
@@ -242,3 +284,4 @@ updated: 2026-06-25
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.3)]] — 系统介绍观察法的含义、类型、程序、策略和记录方式。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍观察的分类维度、[[Structured Observation|结构化观察]]、参与式观察、[[Field Notes|田野笔记]]、技术记录、时间与[[Causality|因果推断]]、伦理考量和信效度注意事项。

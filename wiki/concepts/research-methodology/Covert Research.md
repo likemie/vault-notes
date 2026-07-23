@@ -9,7 +9,7 @@ aliases:
 summary: "研究者隐瞒研究身份和目的、以伪装角色进入研究场所收集资料的研究方式，违反知情同意原则，但其支持者认为这是获取某些敏感群体或隐藏做法数据的唯一途径"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,10 +27,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-07-11
+updated: 2026-07-23
 ---
 
 # Covert Research
@@ -84,7 +85,22 @@ updated: 2026-07-11
 
 ## 应用案例
 
+## 专业协会的伦理准则
+
+多项专业伦理准则对隐蔽研究做出了规定（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.11 节]]）：
+
+> [!info] 专业协会关于隐蔽研究的伦理准则
+> - **英国社会学协会（BSA, 2002: para. 31–32）** "隐蔽方法的使用在某些情况下可能是正当的"，同时指出"隐蔽方法违反[[Informed Consent|知情同意]]原则并可能侵犯被研究者的隐私。隐蔽研究者可能需要考虑围绕隐私权的新兴法律框架"。
+> - **英国教育研究协会（BERA, 2004: para. 12）** "研究者因此必须避免欺骗或诡计，除非其研究设计明确要求这样做以确保收集到适当数据或研究者的福祉不受危害"。
+> - **美国教育研究协会（AERA, 2000: para. 3）** "欺骗不被鼓励；只有在科学研究所明确必要时才应使用，且应被最小化。研究结束后，研究者应向参与者和机构代表解释欺骗的原因"——要求完全的后续披露，这可能阻止某些类型的研究。
+> - Pearson（2009: 244）评论道，在考虑隐蔽研究时必须处理"**相称性**"（proportionality）——对个体和组织造成的潜在伤害应是最小的，且远小于研究产生的公共利益。
+
+> [!warning] 非干预立场的伦理问题
+> 非干预本身也是有问题的。Patrick（1973）目击谋杀的案例将这一两难推向极端：研究者是否应该"暴露身份"并报告谋杀？如果不对目击到的谋杀采取行动可能获得进一步敏感数据的接触渠道，又该如何？研究毒品或儿童虐待的研究者应该报告第一起事件还是"按兵不动"？如果看到种族虐待或欺凌事件，是否维持非干预立场？**非干预何时变得道德上应受谴责？**这些是无法从伦理守则中找到明确裁决的问题。观察者和其他研究者一样，对参与者和研究社群都负有义务——观察不是道德中立的事业。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|(Cohen et al., 2011, Ch. 23, 23.11, 23.13 节)]]
+
+## 应用案例
+
 > [!case] 应用案例索引
 > - Humphreys (1970) *Tearoom Trade*——对同性恋会面安排的研究，Humphreys 在 1975 年的伦理后记中写道："一个社会科学家对这个人能做的最大的伤害就是忽视他"（p. 169）
-> - Patrick 的格拉斯哥帮派研究——见第11章
+> - Patrick (1973) 的格拉斯哥帮派研究——隐蔽研究者目击谋杀时面临角色、伦理和安全之间不可调和的张力
 > - Scheper-Hughes (1979) 对爱尔兰一个村庄的研究——展示了隐蔽研究对参与者和研究者的负面效果

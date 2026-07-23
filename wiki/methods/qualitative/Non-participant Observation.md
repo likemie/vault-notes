@@ -8,7 +8,7 @@ summary: "研究者不参与群体活动而从外部系统观察和记录行为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Structured Observation]]"
   - "[[Observation Method]]"
   - "[[Field Notes]]"
   - "[[Ethnography]]"
@@ -50,7 +51,7 @@ updated: 2026-07-11
 > - **研究对象** 个体或群体的外显行为、互动模式、语言使用、空间布置和环境特征。
 > - **问题类型** 适合回答"发生了什么？""行为的频率和模式是什么？""互动如何展开？"等描述性和分类性问题。
 > - **分析单位** 行为事件、互动回合、时间片段、个体或群体。
-> - **输出形式** 频数统计、行为编码表、时间序列数据、结构化观察记录、分类描述。
+> - **输出形式** 频数统计、行为编码表、时间序列数据、[[Structured Observation|结构化观察]]记录、分类描述。
 
 ## 方法定位
 
@@ -62,7 +63,7 @@ updated: 2026-07-11
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Case Study|个案研究]]、结构化[[Observation Method|观察研究]]、纵向观察追踪、调查补充
-> - **数据收集** 结构化观察表、时间抽样（如每三秒编码一次）、事件抽样、[[Field Notes|田野笔记]]、视频/音频记录
+> - **数据收集** [[Structured Observation|结构化观察]]表、时间抽样（如每三秒编码一次）、事件抽样、[[Field Notes|田野笔记]]、视频/音频记录
 > - **分析方法** 频数统计、序列分析、行为模式识别、类别比较
 > - **辅助技术** 观察表设计与试测、观察者培训、观察者间信度检验、[[Qualitative Codebook|编码手册]]
 
@@ -70,7 +71,7 @@ updated: 2026-07-11
 
 > [!proc] 通用程序
 > 1. 确定观察焦点、行为类别和[[Coding in Qualitative Research|编码]]系统——定义需要记录的具体行为及其[[Operationalization|操作化]]指标
-> 2. 设计结构化观察表——明确时间抽样或事件抽样的规则
+> 2. 设计[[Structured Observation|结构化观察]]表——明确时间抽样或事件抽样的规则
 > 3. 培训观察者——确保编码一致性和观察者间[[Reliability|信度]]
 > 4. 在自然或半自然情境中实施观察——保持非参与地位，避免干扰被观察者
 > 5. 系统记录行为——按预定时间间隔或事件触发进行编码

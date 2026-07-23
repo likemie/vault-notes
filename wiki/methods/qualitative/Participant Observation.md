@@ -7,7 +7,7 @@ summary: "质性研究中研究者同时扮演参与者和观察者角色，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Familiarization]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Causality]]"
+  - "[[Emic and Etic]]"
 related_theories:
   - "[[Critical Ethnography]]"
 related_methods:
@@ -56,11 +57,12 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-07-11
+updated: 2026-07-23
 ---
 
 # Participant Observation
@@ -81,7 +83,9 @@ updated: 2026-07-11
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。
 > - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。角色在参与-观察光谱上滑动（Figure 11.4），Swain（2006）指出研究者在实践中可能需要在从完全被动到完全积极的整个连续体上切换角色。
-> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler 和 Spindler（1992: 65）认为[[Ethnography|民族志]]效度通过研究者在场时间足够长、观察到事件重复发生来获得。
+
+Gold（1958）提出了观察者角色的经典四层连续体分类（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1 节]]）：完全参与者（隐蔽身份的内部人，可能获得内部人知识但缺乏客观性）、参与者即观察者（公开身份的内部人）、观察者即参与者（非群体成员但少量参与，角色公开）、完全观察者（只观察，脱离群体）。完全参与和完全脱离各自都有局限——前者有"**本土化**"（going native）的风险，研究者将群体价值观和规范当作自己的，不再保持客观性和研究者身份（Kawulich, 2005: 4）；后者与被观察者没有接触，推断危险。参与式观察通常在达到"**理论饱和**"时停止——被观察的情境似乎正在重复已经收集到的数据（Adler & Adler, 1994: 380）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.6 节]]）。
+- **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler 和 Spindler（1992: 65）认为[[Ethnography|民族志]]效度通过研究者在场时间足够长、观察到事件重复发生来获得。Morrison（1993: 88）强调通过长期沉浸，不仅情境的显著特征会浮现，而且能获得诸因素相互关系的更整体性视角。
 > - **不声称回答的问题** 不能估计因果[[Effect Size|效应量]]、不能统计概括到人口总体、不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
@@ -172,3 +176,4 @@ Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段�
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材将参与观察列为个案研究的核心观察方式，讨论了参与观察的四项优势（Bailey, 1994）、与[[Non-participant Observation|非参与式观察]]的连续体区分，以及六种研究类型示例（Acker/Boulton/Wild/Blease & Cohen/Antonsen/Houghton）（pp. 290–293）
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch11)]] — 教材将参与观察列为自然主义和[[Ethnography|民族志研究]]的主要数据收集方法，讨论了研究者角色的光谱（完全观察到完全参与）和角色冲突/边际性管理（pp. 425–427, 430）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍 Gold（1958）的四层观察者角色连续体、参与观察的流程（描述性→聚焦→选择性观察）、[[Field Notes|田野笔记]]的多层记录框架、[[Emic and Etic|主位与客位]]分析、"本土化"风险和理论饱和作为停止观察的标准（23.1, 23.6 节）。

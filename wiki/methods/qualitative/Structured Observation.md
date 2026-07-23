@@ -1,0 +1,129 @@
+---
+title: Structured Observation
+aliases:
+  - 结构化观察
+  - 结构式观察
+  - structured observational research
+  - systematic observation
+summary: "一种高度系统化的观察方法，研究者预先设计观察类别和记录计划表，在固定时间间隔内以编码方式记录目标行为的发生情况，生成数值数据以进行频率、模式和趋势分析"
+type: method
+method_type: qualitative
+method_family: "qualitative"
+method_related_count: 13
+method_related_level: 1
+method_related_stars: "⭐"
+method_related_color: "#dbeafe"
+tags:
+  - method/data-collection
+  - method/observation
+  - paradigm/quantitative
+  - source/textbook
+related_concepts:
+  - "[[Operationalization]]"
+  - "[[Hypothesis]]"
+  - "[[Epistemology]]"
+  - "[[Inter-Rater Reliability]]"
+  - "[[Rating Scale]]"
+  - "[[Research Question]]"
+  - "[[Fitness for Purpose]]"
+  - "[[Halo Effect]]"
+  - "[[Construct]]"
+  - "[[Causality]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Triangulation]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
+status: draft
+created: 2026-07-23
+updated: 2026-07-23
+---
+
+# Structured Observation
+
+---
+
+## 定义
+
+> [!def] 方法定义
+> 结构化观察是一种高度系统化的观察方法，研究者预先知道要寻找什么（即预设性观察），事先制定互斥且全面的观察类别，在固定时间间隔内以标准[[Coding in Qualitative Research|编码]]方式记录目标行为的发生或不发生。观察者采取被动、非侵入性角色，仅记录所研究因素的发生情况，将观察结果填入观察计划表（observation schedule）。结构化观察生成数值数据，便于在不同环境和情境之间进行比较，以及计算频率、模式和趋势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23]]）。
+
+> [!method-scope] 方法范围
+> - **研究对象** 可被[[Operationalization|操作化]]定义且可直接观察的外显行为、事件和互动。
+> - **问题类型** 适合[[Hypothesis|假设]]验证性问题（"行为X在情境A中是否比情境B中更频繁？"）；频率、发生率、模式和趋势的描述。
+> - **分析单位** 个体的独立行为、互动回合、时间片段、事件。
+> - **输出形式** 数值数据（频率、百分比、计数），可用于统计分析和跨情境比较。
+
+> [!citation-card]- Simpson & Tuson 的结构化观察要点
+> 结构化观察将花费大量时间准备，但数据分析应快速，因为分析类别已内建于计划表本身。因此，如果需要密切、详细的审查，时间间隔将非常短；如果需要较少的细节，间隔可以更长。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|(Cohen et al., 2011, Ch. 23, 23.2 节)]]
+
+---
+
+## 方法定位
+
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 行为可以被[[Operationalization|操作化]]为可观察、可计数的离散类别。观察者可以保持客观、被动和非侵入性。结构化观察是[[Hypothesis|假设]]验证性的（hypothesis-testing），而非假设生成性的。
+> - **研究者角色** 研究者是被动、非侵入性的数据记录者，严格按照预先定义的观察计划表和[[Coding in Qualitative Research|编码]]系统录入数据，不参与情境互动。
+> - **有效性标准** 观察类别的互斥性和全面性、编码系统的一致性、[[Inter-Rater Reliability|评分者间信度]]（≥90%）、预试以消除类别重叠。
+> - **不声称回答的问题** 不能获取被观察者的意图、动机或主观体验；不能捕捉情境的动态演变和长期发展过程。
+
+> [!method-stack] 方法层级
+> - **研究设计** 结构化观察设计（类别体系设计、时间间隔确定、编码系统选择）。
+> - **数据收集** 事件取样、瞬时取样（时间取样）、间隔记录（全间隔/部分间隔）、[[Rating Scale|评定量表]]、持续时间记录。
+> - **分析方法** 频率计数、模式识别（行为序列、互动回合）、聚合分析、统计分析（见教材第五部分），也可"质化"（qualitized）为叙述性陈述和主题。
+> - **辅助技术** 结构化观察计划表、计时设备、录音/录像设备（作为补充记录手段）。
+
+---
+
+## 研究程序
+
+### 观察计划表的设计
+
+Dyer（1995: 181–186）提出了结构化观察设计的完整框架：
+
+> [!proc] 结构化观察的设计流程
+> 1. **前期任务** 清晰描述[[Research Question|研究问题]]；陈述研究的精确目标；将研究与理论连接或解释为什么应进行这些观察；陈述待检验的[[Hypothesis|假设]]（如有）；确定适当的检验统计量（如需要）。
+> 2. **观察系统** 识别要观察的行为类型；为每个行为类别制定清晰客观的定义；检查类别是否完整，覆盖所有目标行为；检查每个类别是否与其他类别清晰区分；检查类别之间的差异在观察情境中是否容易看到。
+> 3. **观察过程** 确定适当的观察地点；决定使用哪种数据取样程序；决定公开还是隐蔽观察；决定使用一位还是多位观察者。
+> 4. **最终事项** 设计数据收集表；审查研究的伦理标准；进行预试并对观察系统或程序进行必要修正；如果使用多位观察者，初步评估[[Inter-Rater Reliability|评分者间信度]]。
+
+> [!warning] 预试的重要性
+> 预试结构化观察计划表的必要性怎么强调都不过分。类别必须是**互斥的（mutually exclusive）**且**全面的（comprehensive）**。研究者需要决定：（i）观察的焦点（人以及事件）；（ii）观察的频率（如每30秒、每分钟）；（iii）观察期的长度（如1小时、20分钟）；（iv）什么算作证据（行为如何被定义和[[Operationalization|操作化]]）；（v）录入的性质（[[Coding in Qualitative Research|编码]]系统）。"[[Fitness for Purpose|适合目的]]"的标准用于对这五个事项做出决定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|(Cohen et al., 2011, Ch. 23, 23.2 节)]]
+
+### 五种数据记录方式
+
+> [!feature] 结构化观察的五种数据记录方式
+> - **事件取样（Event Sampling）** 又称符号系统（sign system）。每次观察到目标行为即在对应陈述旁打一个计数符号（如 ////）。用于了解观察情境或行为的发生率或频率，便于比较。核心局限是**无法确定事件发生的时间顺序**——同样的计数符号按不同时间顺序排列，可讲出截然不同的故事。例如，同样的"教师对孩子喊叫5次、孩子对教师喊叫3次"的数据，一种排列显示教师只有在被孩子或家长激怒时才喊叫；另一种排列则显示教师才是喊叫的发起者。
+> - **瞬时取样（Instantaneous Sampling）** 又称时间取样（time sampling）。研究者在标准时间间隔的精确瞬间（如每30秒）记录那一刻正在发生什么，并填入相应类别。关键优势在于**保留了事件的时间顺序**，使研究者能够确定行为的先后关系。
+> - **间隔记录（Interval Recording）** 在固定间隔记录前一个间隔内发生的情况，而非在瞬间点上记录。可以计算频率、观察简单模式和近似的事件顺序，但间隔内若发生多个事件，其具体顺序会丢失。Wilkinson（2000: 236）区分了**全间隔记录**（行为持续整个间隔才记录）和**部分间隔记录**（行为占据部分间隔即记录）。
+> - **[[Rating Scale|评定量表]]（Rating Scales）** 研究者被要求对所观察的事件做出判断，并将回应填入[[Rating Scale|评定量表]]（如1–5点）。例如 Wragg（1994）建议将教学行为放在连续体上（Warm—Aloof、Stimulating—Dull、Businesslike—Slipshod）。涉及从**低推断**（仅报告观察结果）到**较高程度推断**（做出判断）的转变，可能引入[[Halo Effect|光环效应]]、集中趋势、近因效应等不可靠来源。Simpson & Tuson（2003: 42–44）建议确保：评定量表中包含的类别充分覆盖目标群体的行为或特征范围；每个量表点的锚定语句（描述符）充分描述观察项目的可能范围；为研究者提供足够明确的观察对象和方式说明。
+> - **持续时间记录（Duration Recording）** 当某些行为持续时间很长、会"溢出"标准间隔或事件类别时使用。观察由**事件驱动**而非观察频率驱动，记录行为的**总持续时间**。
+
+> [!note] 行为与人的计数区分
+> 对所有类型的计划表，需要提前就如何录入数据达成一致。例如，观察计划表如何区分一个人重复展示同一行为12次（1人×12次）与多人各展示该行为较少次数（如2人×6次、4人×3次）？焦点是**人**还是**行为**？[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|(Cohen et al., 2011, Ch. 23, 23.2 节)]]
+
+---
+
+## 适用场景
+
+> [!method-fit] 适用判断
+> - **适合使用** 需要对行为频率和模式进行量化描述的研究；需要跨情境或跨群体比较行为发生率的研究；检验关于行为发生条件的明确[[Hypothesis|假设]]；课堂互动研究（如师生对话类型的频率分布）。
+> - **谨慎使用** 研究者对观察对象和情境尚不够了解时（类别设计可能遗漏重要行为）；行为的意义高度依赖情境脉络时；需要理解行为背后的动机、意图和主观体验时。
+> - **不适合使用** 探索性研究（此时应采用非结构化或半结构化观察）；捕捉社会互动的动态演变和长期发展过程；研究罕见或不常发生的行为。
+
+---
+
+## 局限性
+
+> [!method-limits] 方法局限
+> - **偏误来源** 观察类别的选择性（排除不在计划表上的行为）；观察者的期望效应；[[Coding in Qualitative Research|编码]]疲劳导致的不一致；反应性（被观察者知道被观察而改变行为）。
+> - **适用边界** 方法是行为主义的，排除被观察者的意图或动机；个体的主体性被聚合分数所淹没；[[Hypothesis|假设]]观察到的行为提供了潜在感受的证据（可能产生效度问题）；忽视时间性和空间性等情境因素，行为可能是情境特定的。
+> - **误用风险** 将[[Operationalization|操作化]]指标等同于复杂[[Construct|构念]]本身；在没有额外数据来源的情况下做出解释或[[Causality|因果推断]]；忽视"定格快照"对行动流动性原则的违反——需要[[Triangulation|三角互证]]来补充。
+> - **补救方式** 充分的预试和观察者培训；测量[[Inter-Rater Reliability|评分者间信度]]（≥90%）；结合其他数据收集方法（如访谈）进行[[Triangulation|三角互证]]；跟踪被观察者在不同情境和时段的完整行为画像。
+
+---
+
+## 使用此方法的研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍结构化观察的设计原则、观察计划表、五种数据记录方式、Dyer（1995）设计清单以及分析方法。（23.2–23.4 节）

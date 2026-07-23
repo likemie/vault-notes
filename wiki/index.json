@@ -9066,6 +9066,17 @@
     ]
   },
   {
+    "title": "Critical Incidents",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Critical Incidents.md",
+    "aliases": [
+      "关键事件法",
+      "critical incident technique",
+      "关键事件技术",
+      "critical events"
+    ]
+  },
+  {
     "title": "Cross-checking",
     "type": "method",
     "path": "wiki/methods/qualitative/Cross-checking.md",
@@ -9540,6 +9551,17 @@
       "故事作为研究资料",
       "stories as data",
       "storytelling as method"
+    ]
+  },
+  {
+    "title": "Structured Observation",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Structured Observation.md",
+    "aliases": [
+      "结构化观察",
+      "结构式观察",
+      "structured observational research",
+      "systematic observation"
     ]
   },
   {
@@ -15007,6 +15029,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",
