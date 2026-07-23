@@ -12,10 +12,10 @@ aliases:
 summary: "研究哲学与学习理论范式，主张主体通过社会互动与历史语境主动建构主观意义与知识，反对客观唯一的决定论，并在课程政策、国际关系与跨文化再脉络化中产生深远影响"
 type: concept
 domain: "research-methodology"
-related_count: 23
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 52
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - research-philosophy
   - qualitative-research

@@ -7,10 +7,10 @@ aliases:
 summary: "Apple 提出的批判课程论核心概念，指学校课程中被国家与支配群体选择性界定为合法、正当且值得传授的知识，反映并再生产社会中的文化权力关系与政治霸权"
 type: concept
 domain: "curriculum"
-related_count: 2
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 person_related_color: "#bfdbfe"
 tags:
   - theme/power-knowledge

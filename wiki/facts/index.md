@@ -175,7 +175,7 @@ Total entries: **280**
 > - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
 > - [[China Social Credit System]] — 中国利用大数据和行政记录对公民、组织与市场主体行为进行评估和治理的制度体系
 > - [[Civil Service Examination]] — 中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制度，将道德成就、学术学习、政治权力和社会地位融为一体，并深刻塑造了现代教育考试文化
-> - [[Confucian Revival in China]] — 1980 年代末至今中共主导的儒家传统复兴运动，经历民间自发到国家收编的转变，服务于意识形态合法化和国族建构
+> - [[Confucian Revival in China]] — 1980 年代末至今中共主导的儒家传统复兴运动，经历了从民间自发国学热到国家收编、去宗教化定位、软实力输出及 2017 年后马克思主义正统收紧的双重转向
 > - [[ECNU Declaration on Evidence-Based Research]] — 华东师范大学联合 14 所大学和 32 家 CSSCI 期刊发布宣言，提出 10 条措施推进中国教育实证研究，标志中国证据本位改革的制度化里程碑（Slavin et al., 2021）
 > - [[Great Firewall of China]] — 中国国家互联网审查系统，通过技术过滤、平台治理和制度监管控制跨境信息流动
 > - [[Late Qing Borrowing of Japanese Education]] — 甲午战败后清廷以日本为主要参照推进新式教育体系建设，1905 年废除科举，通过赴日留学、日本教习招聘和教科书编译在十年内建成第一套现代学制

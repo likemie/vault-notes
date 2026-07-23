@@ -5866,8 +5866,7 @@
     "aliases": [
       "编码者间一致性",
       "编码者间信度",
-      "intercoder reliability",
-      "cross-checking"
+      "intercoder reliability"
     ]
   },
   {
@@ -6994,6 +6993,15 @@
     ]
   },
   {
+    "title": "Social Episodes",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Social Episodes.md",
+    "aliases": [
+      "社会片段",
+      "social episode"
+    ]
+  },
+  {
     "title": "Social Justice Theory",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Social Justice Theory.md",
@@ -7398,7 +7406,8 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
     "aliases": [
-      "文化脱嵌"
+      "文化脱嵌",
+      "符号脱嵌"
     ]
   },
   {
@@ -7407,6 +7416,16 @@
     "path": "wiki/concepts/sociology-of-education/Cultural Disorientation.md",
     "aliases": [
       "文化迷失"
+    ]
+  },
+  {
+    "title": "Cultural Hierarchy",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Cultural Hierarchy.md",
+    "aliases": [
+      "文化等级",
+      "文化层次",
+      "文化支配等级"
     ]
   },
   {
@@ -8844,6 +8863,16 @@
     ]
   },
   {
+    "title": "Network Analysis",
+    "type": "method",
+    "path": "wiki/methods/mixed/Network Analysis.md",
+    "aliases": [
+      "网络分析",
+      "social network analysis",
+      "SNA"
+    ]
+  },
+  {
     "title": "Non-probability Sampling",
     "type": "method",
     "path": "wiki/methods/mixed/Non-probability Sampling.md",
@@ -8889,6 +8918,25 @@
     "aliases": [
       "顺序混合方法抽样",
       "sequential mixed methods sampling"
+    ]
+  },
+  {
+    "title": "Account Gathering",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Account Gathering.md",
+    "aliases": [
+      "陈述收集"
+    ]
+  },
+  {
+    "title": "Accounts",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Accounts.md",
+    "aliases": [
+      "行动陈述",
+      "行动说明",
+      "陈述法",
+      "account"
     ]
   },
   {
@@ -9018,6 +9066,15 @@
     ]
   },
   {
+    "title": "Cross-checking",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Cross-checking.md",
+    "aliases": [
+      "交叉检查",
+      "cross-check"
+    ]
+  },
+  {
     "title": "Delphi Technique",
     "type": "method",
     "path": "wiki/methods/qualitative/Delphi Technique.md",
@@ -9045,6 +9102,14 @@
     "aliases": [
       "维度抽样",
       "dimensional sample"
+    ]
+  },
+  {
+    "title": "Discourse Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Discourse Analysis.md",
+    "aliases": [
+      "话语分析"
     ]
   },
   {
@@ -9077,6 +9142,25 @@
       "人类学研究",
       "民族志研究",
       "ethnographic research"
+    ]
+  },
+  {
+    "title": "Ethogenic Approach",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Ethogenic Approach.md",
+    "aliases": [
+      "人因取向",
+      "人因研究",
+      "ethogenic"
+    ]
+  },
+  {
+    "title": "Experience-Sampling Method",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Experience-Sampling Method.md",
+    "aliases": [
+      "质性经验取样法",
+      "qualitative experience sampling"
     ]
   },
   {
@@ -9217,6 +9301,14 @@
       "参与者核查",
       "member check",
       "respondent validation"
+    ]
+  },
+  {
+    "title": "Member Tests",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Member Tests.md",
+    "aliases": [
+      "成员核验"
     ]
   },
   {
@@ -9438,6 +9530,16 @@
       "respondent-driven sampling",
       "网络化",
       "networking"
+    ]
+  },
+  {
+    "title": "Stories as Research Data",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Stories as Research Data.md",
+    "aliases": [
+      "故事作为研究资料",
+      "stories as data",
+      "storytelling as method"
     ]
   },
   {
@@ -10197,6 +10299,14 @@
       "单一个案实验设计",
       "applied behavioral analysis",
       "single-subject experimental design"
+    ]
+  },
+  {
+    "title": "Sociometry",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Sociometry.md",
+    "aliases": [
+      "社会计量学"
     ]
   },
   {
@@ -11649,6 +11759,15 @@
     "aliases": [
       "Cowen, R.",
       "罗伯特·考恩"
+    ]
+  },
+  {
+    "title": "Rom Harré",
+    "type": "person",
+    "path": "wiki/persons/uk/Rom Harré.md",
+    "aliases": [
+      "Harré",
+      "罗姆·哈雷"
     ]
   },
   {

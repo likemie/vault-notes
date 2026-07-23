@@ -4,7 +4,6 @@ aliases:
   - 编码者间一致性
   - 编码者间信度
   - intercoder reliability
-  - cross-checking
 summary: "质性研究和元分析编码中，两个或以上编码者对同一段文本使用相同编码的一致性程度；编码信度直接决定综合结论的可靠性"
 type: concept
 domain: "research-methodology"

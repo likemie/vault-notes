@@ -7,7 +7,7 @@ summary: "中国历史学家与文化保守主义代表人物，新亚书院创�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 5
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

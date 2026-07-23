@@ -11489,6 +11489,7 @@
 .callout[data-callout="proc"] td,
 .callout[data-callout="example"] th,
 .callout[data-callout="example"] td {
+  font-size: calc(var(--fs-table) * 0.97);
   vertical-align: top;
   border-bottom: 1px solid rgba(128, 128, 128, 0.12);
   line-height: 1.5;

@@ -10,7 +10,7 @@ title: "Argument_Yu_2024_CE"
 argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Symbolic Boundary]]"
+  - "[[Cultural Hierarchy]]"
   - "[[Self-Cultivation]]"
   - "[[Cultural Disembedding]]"
   - "[[Paradigm]]"
@@ -81,7 +82,7 @@ citation_aliases:
 > [!stat-cards]+ 一页读懂
 > - **对象** 中国中小学必修课程中的儒家叙事，以及非汉少数民族和宗教背景大学生对儒家的理解。
 > - **对照** 教科书代表国家批准的[[Official Knowledge|官方知识]]，学生访谈代表文化边缘位置上的经验性反思；官方叙事把儒家推向“中华文化核心”，边缘学生则把它降回中国多元文化和世界观之一。
-> - **结论** 儒家复兴在学校课程中强化了汉文化中心与少数民族边缘之间的文化等级，反而增加文化疏离。
+> - **结论** 儒家复兴在学校课程中强化了汉文化中心与少数民族边缘之间的[[Cultural Hierarchy|文化等级]]，反而增加文化疏离。
 
 ---
 
@@ -181,7 +182,7 @@ citation_aliases:
 > > [!note]- 判读提示：从组成部分滑向等价物
 > > 这种操作的排他性在于一个关键措辞的滑动：从”儒家是中国文化的重要组成部分”滑向了”中国文化就是儒家”。二者的区别相当于：”法国菜是欧洲美食的重要组成”与”欧洲美食就是法国菜”。后者把其他文化传统从”中国文化”的合法性边界中彻底清除了。
 
-> [!line-b] 线索B：将非汉文化塑造为汉文化的学习者以建构文化等级
+> [!line-b] 线索B：将非汉文化塑造为汉文化的学习者以建构[[Cultural Hierarchy|文化等级]]
 > 教科书叙述非汉政权时反复调用一个标准模板，统一描述非汉精英学习汉人方式、研习儒家经典及以儒家礼制治国。
 >
 > | 非汉政权 | 教科书表述侧重点 | 来源 |
@@ -261,8 +262,8 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- [[Official Knowledge|官方知识]]的文化等级效应
-> 对儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的文化等级 (p.59)。
+> [!citation-card]- [[Official Knowledge|官方知识]]的[[Cultural Hierarchy|文化等级]]效应
+> 对儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的[[Cultural Hierarchy|文化等级]] (p.59)。
 >
 > The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.
 

@@ -7,7 +7,7 @@ aliases:
 summary: "质性访谈中用于扩展、深化和澄清受访者回应的核心技术，区别于提示的澄清功能，追问解决丰富性、深度、全面性和诚实性问题"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

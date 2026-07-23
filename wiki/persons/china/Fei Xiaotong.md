@@ -7,7 +7,7 @@ summary: "中国著名人类学家与社会学家，提出了中华民族多元�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 10
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
