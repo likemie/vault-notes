@@ -127,10 +127,25 @@ updated: '2026-07-23'
 > - **理论路径** 奠定[[Pragmatic Paradigm|实用主义]]教育哲学，重构了经验、探究与知识的关系，反对绝对确定性执念，将证据理解为情境行动中可修正的[[Hypothesis|假设]]（Dewey quoted in Hattie, 2008, p.147）。
 > - **方法路径** 推崇[[Reflexivity|反思性]]探究与试错实验，批判[[Technical Rationality|技术理性]]与将教师简化为[[Classroom Management|课堂管理]]技巧训练的倾向，倡导保持[[Professional Judgment|专业判断]]。
 > - **政策与实践路径** 推动了综合课程、学分制、活动教学法以及从科目隔绝转向社会科整合的全球课程改革趋势。
-> - **跨国传播与重构**
->   - **民国中国（1919–1928）** 经历 Cowen [[Transfer Translation Transformation|3T 框架]]演变：**转移阶段**（1919–1921）民国精英拥抱其民主目标而忽略其渐进方法；**转译阶段**（1922–1923）在1922新学制中对民主实施去政治化折算（退缩为“平民/普及教育”），并在1923课程中出现取消农业科的美式错位；**转化阶段**（1923–1928）民国现实受挫后从民主理想转向《新教育评论》倡导的[[Scientific Attitude|科学态度]]与乡村教育。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–623]]）
->   - **建国后中国（1949至今）** 经历三重变形：1950年代被彻底定性为反动主观唯心主义；1980年代恢复名誉并被重塑为现代化与科学创新的旗手；1990年代至今被用于为[[Quality Education|素质教育]]提供理论基础、反对[[Examination-Oriented Education|应试教育]]以及批判野蛮新自由主义。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.79–93]]）
->   - **苏联语境（1920s–1930s）** 1920年代被广泛翻译吸收并与 [[Stanislav Shatskii]] 会面；1930年代因其自下而上的民主成长观与苏联阶级意识形态教育发生冲突而被全面摒弃。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）
+
+---
+
+### 跨国传播与再脉络化
+
+> [!phase] 民国中国的 3T 转移与重构（1919–1928）
+> 经历 Cowen [[Transfer Translation Transformation|3T 框架]]演变：
+> - **转移阶段 Transfer（1919–1921）** 民国精英在[[New Culture Movement|新文化运动]]激进浪潮中拥抱其民主教育目标与儿童中心理念，却系统性忽略了其在200余场讲演中反复强调的“一步一个脚印”的渐进[[Pragmatism in China|实验主义]]方法。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–616]]）
+> - **转译阶段 Translation（1922–1923）** 1922年新学制七项标准对民主实施了去政治化折算（退缩为“平民/普及教育”），并抛弃渐进方法而采取全盘废除旧制；1923年课程改革在“适应地方”名义下取消了农业科，反而引入美式园艺与工艺美术。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.617–618]]）
+> - **转化阶段 Transformation（1923–1928）** 现实受挫与时局恶化后，教育范式从《新教育》的民主理想转向《新教育评论》下[[Tao Xingzhi|陶行知]]与赵乃传倡导的[[Scientific Attitude|科学态度]]、乡村教育与国家建设议程。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.619–621]]）
+
+> [!phase] 建国后中国的三重政治变形（1949至今）
+> - **1950年代（反动批判）** 被彻底定性为反动、主观唯心主义和“伪[[Junzi|君子]]”，其自然主义与不确定性论述受到政治批判。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.79–82]]）
+> - **1980年代（名誉恢复）** 通过[[Tao Xingzhi|陶行知]]间接恢复名誉，被重塑为现代化、科学创新以及个体与社会和谐统一的符号。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.84–89]]）
+> - **1990年代至今（话语盟友）** 被重构为[[Quality Education|素质教育]]的理论基础与反对[[Examination-Oriented Education|应试教育]]的资源，同时被借用批判野蛮新自由主义，成为“又红又专”的话语盟友。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–93]]）
+
+> [!phase] 苏联跨国传播与范式断裂（1920s–1930s）
+> - **1920年代（翻译与吸收）** *The School and Society* 被译为俄文，肖像收录于苏联教育百科全书；1928年访苏与 [[Stanislav Shatskii]] 等进步教育家会面，成为美苏[[Cultural Diplomacy|文化外交]]的焦点。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.102–109]]）
+> - **1930年代（意识形态全面摒弃）** 苏联因其自下而上的民主成长观与阶级意识形态教育发生深刻冲突，全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 运用 Cowen 3T 框架拆解杜威思想在民国中国1919–1928年的转移、转译与转化机制。
