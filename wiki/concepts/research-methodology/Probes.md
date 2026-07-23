@@ -14,6 +14,13 @@ related_color: "#e5e7eb"
 tags:
   - research-methodology
   - qualitative-research
+related_methods:
+  - "[[Qualitative Interview]]"
+  - "[[Interview Protocol]]"
+  - "[[Qualitative Research]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
+  - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -43,7 +50,7 @@ updated: 2026-07-22
 
 ## 核心要素
 
-> [!feature] 四种标准追问语（Creswell & Creswell, 2022, Ch9）
+> [!feature] 四种标准追问语（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）
 > - **"Tell me more"（告诉我更多）** 要求更多信息
 > - **"I need more detail"（我需要更多细节）** 要求更多信息
 > - **"Could you explain your response more?"（你能更详细地解释一下你的回答吗？）** 要求解释

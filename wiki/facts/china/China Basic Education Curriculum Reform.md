@@ -27,17 +27,20 @@ tags:
 related_concepts:
   - "[[Quality Education]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Examination-Oriented Education]]"
+  - "[[Learner Autonomy]]"
+  - "[[Official Knowledge]]"
+  - "[[Paradigm]]"
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
-  - "[[Stereotype Threat]]"
-  - "[[Official Knowledge]]"
-  - "[[Symbolic Boundary]]"
   - "[[Cultural Disembedding]]"
 related_theories:
   - "[[Nation Building through Education]]"
-related_methods: []
+related_methods:
+  - "[[Action Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"
   - "[[Argument_Yu_2024_CE]]"
@@ -63,7 +66,7 @@ related_arguments:
 > 《基础教育课程改革纲要（试行）》宣告了全国基础教育从“双基”知识传授向“[[Quality Education|素质教育]]”与学生中心教学的根本转向，旨在构建开放、积极、互动的学习环境与更平等的[[Student-Teacher Relationship|师生关系]][[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, pp. 54–55)]]。
 
 > [!policy-design]- 政策设计
-> - **目标** 摆脱应试教育取向，培育学生的创新精神、实践能力与自主学习态度，实现从知识灌输到综合素质发展的跨越[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 54)]]。
+> - **目标** 摆脱[[Examination-Oriented Education|应试教育]]取向，培育学生的创新精神、实践能力与[[Learner Autonomy|自主学习]]态度，实现从知识灌输到综合素质发展的跨越[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 54)]]。
 > - **对象** 覆盖全国中小学校、教师、学生及教科书编写出版体系[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 65)]]。
 > - **工具** 国家课程标准、分层与国家/地方/学校三级课程管理、教科书审定制度、多元评价与教师专业发展培训。
 > - **约束方式** 采取中央顶层设计、大城市先行试点、偏远地区跟进推行以及跨国合作交流等混合推进机制[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, pp. 53–55)]]。
@@ -108,9 +111,9 @@ related_arguments:
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
 > |:---|:---|:---|:---|:---|
 > | **教育部 (MOE)** | 国家行政权威 / 课程审查权 | 推行素质教育、提升国家人力资本与控制[[Official Knowledge\|官方知识]] | 支持 | 颁布纲要、审查教材、统筹试点 |
-> | **中小学教师** | 教学实践资源 / 专业知识 | 减轻应试压力、提升教学效能与专业成长 | 支持与适应 | 尝试学生中心教学、开展行动研究与反思 |
+> | **中小学教师** | 教学实践资源 / 专业知识 | 减轻应试压力、提升教学效能与专业成长 | 支持与适应 | 尝试学生中心教学、开展[[Action Research\|行动研究]]与反思 |
 > | **教科书出版社 (PEP等)** | 出版专营权 / 符号资本 | 占领教材市场、再生产国家正统意识形态 | 支持 | 按 2001 纲要编写并发行 217 册必修教材[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]] |
-> | **学生及家长** | 学习时间与精力投入 | 获得优质教育资源与通过[[Gaokao\|高考]]获得社会流动 | 分化 | 欢迎素质教育，但担忧应试评价未变 |
+> | **学生及家长** | 学习时间与精力投入 | 获得优质教育资源与通过[[Gaokao\|高考]]获得社会流动 | 分化 | 欢迎[[Quality Education\|素质教育]]，但担忧应试评价未变 |
 
 ---
 
@@ -118,13 +121,13 @@ related_arguments:
 
 > [!indicators]- 评价指标
 > - **过程指标** 学生中心教学的覆盖率、师生互动质量、教师参与反思与研究的程度。
-> - **结果指标** 学生素质发展、教学范式转变、西方对[[Chinese Learner|中国学习者]]刻板印象的解构[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
+> - **结果指标** 学生素质发展、教学[[Paradigm|范式]]转变、西方对[[Chinese Learner|中国学习者]]刻板印象的解构[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
 > - **文化指标** 教科书叙事对传统文化与[[Official Knowledge|官方知识]]的塑造[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 65)]]。
 
 > [!finding-cards] 效果与评价
-> - **解构西方刻板印象** Ryan (2010) 论证，该改革极其深刻，使得西方将[[Chinese Learner|中国学习者]]归为“被动、[[Rote Learning|死记硬背]]”的刻板印象彻底脱离了中国现实[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
+> - **解构西方刻板印象** [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] 论证，该改革极其深刻，使得西方将[[Chinese Learner|中国学习者]]归为“被动、[[Rote Learning|死记硬背]]”的刻板印象彻底脱离了中国现实[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 55)]]。
 > - **促进教师专业主体性** 中国教师显示出极高水平的教学创新与反思能力，主动参与跨国合作与成果传播[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, pp. 53–54)]]。
-> - **再生产[[Official Knowledge|官方知识]]** Yu & Zhao (2024) 发现基于该纲要出版的 217 册教材在推广素质教育的同时，将汉儒传统构建为中华性象征，强化了文化等级[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 65–67)]]。
+> - **再生产[[Official Knowledge|官方知识]]** [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 发现基于该纲要出版的 217 册教材在推广[[Quality Education|素质教育]]的同时，将汉儒传统构建为中华性象征，强化了文化等级[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 65–67)]]。
 
 > [!stat-cards]- 核心数据
 > - **2001 年** 改革纲要正式颁布。
@@ -143,7 +146,7 @@ related_arguments:
 > > - **提倡传统复兴立场（如 Yip, 2006）** 认为应从《论语》等传统智慧中汲取力量推进教育复兴[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 56)]]。
 > > - **激进批判传统立场（如 Yip, 2006）** 主张否定与清除传统儒学中的封建糟粕[[Argument_Ryan_2010_ChineseLearner|(Ryan, 2010, p. 56)]]。
 >
-> > [!axis]- 争议二｜官方知识垄断 vs 多元文化现实
+> > [!axis]- 争议二｜[[Official Knowledge|官方知识]]垄断 vs 多元文化现实
 > > 讨论 2001 纲要指导下的教科书编写是否陷入了汉族中心主义与单一文化灌输。
 > >
 > > - **[[Argument_Yu_2024_CE|Yu & Zhao (2024, p. 71)]]** 揭示基于 2001 纲要出台的必修教材将儒学塑造成正统“[[Official Knowledge|官方知识]]”，反而在少数民族与信教学生中引发了[[Cultural Disembedding|文化脱嵌]]与异化。
@@ -157,7 +160,7 @@ related_arguments:
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Quality Education]] | 概念 | 2001 课程改革的核心导向目标。 |
-> | [[Chinese Learner]] | 概念 | 改革成果提供了解构“被动死记硬背”刻板印象的核心证据。 |
+> | [[Chinese Learner]] | 概念 | 改革成果提供了解构“被动[[Rote Learning\|死记硬背]]”刻板印象的核心证据。 |
 > | [[Student-Teacher Relationship]] | 概念 | 改革致力于构建更平等、互动的师生关系。 |
 > | [[Official Knowledge]] | 概念 | 该改革出台的 217 册必修教材充当了国家官方知识的载体。 |
 > | [[Nation Building through Education]] | 理论 | 解释课程改革如何被国家用于国族整合与文化规范推行。 |

@@ -20,17 +20,20 @@ tags:
   - moral-judgment
   - paradigm/interpretivist
 related_concepts:
+  - "[[Habitus]]"
+  - "[[Official Knowledge]]"
+  - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
-  - "[[Habitus]]"
   - "[[Confucian Heritage Cultures]]"
-  - "[[Champ]]"
-  - "[[Official Knowledge]]"
   - "[[Cultural Disembedding]]"
-related_theories:
-  - "[[Nation Building through Education]]"
+  - "[[Reflexivity]]"
+  - "[[Champ]]"
+  - "[[Pragmatic Paradigm]]"
+related_theories: []
 related_methods: []
 related_persons:
+  - "[[Pierre Bourdieu]]"
   - "[[Yajun Zheng]]"
   - "[[Confucius]]"
 related_facts:
@@ -51,7 +54,7 @@ related_arguments:
 
 > [!concept-lens] 概念透镜
 > - **含义** 指指向行动者或制度通过道德评价在群体间构建主观边界的文化与符号机制。
-> - **用途** 帮助研究者分析高等教育中微观阶层[[Habitus|习性]]导致的互动隔阂（如[[Goal-Controlled Mode|目标掌控者]] vs. [[Intuition-Dependent Mode|直觉依赖者]]），以及宏观国家如何通过学校课程将特定文化（如汉儒传统）自然化为[[Official Knowledge|官方知识]]的边界[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]][[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
+> - **用途** 帮助研究者分析高等教育中微观阶层[[Habitus|习性]]导致的互动隔阂（如目标掌控者 vs. 直觉依赖者），以及宏观国家如何通过学校课程将特定文化（如汉儒传统）自然化为[[Official Knowledge|官方知识]]的边界[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]][[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
 > - **边界** 不同于客观的社会边界（Social Boundary）；前者属于观念与道德分类的范畴，后者则属于资源分配、法律身份与阶级区隔等硬性社会事实（Lamont & Molnár, 2002）。
 
 > [!citation-card]- 关键表述
@@ -60,7 +63,7 @@ related_arguments:
 > *“Symbolic boundaries are conceptual distinctions made by social actors to categorize objects, people, practices, and even time and space. ... Only when symbolic boundaries are widely agreed upon can they take on a constraining character and become social boundaries.”*
 
 > [!boundary]- 概念边界
-> - **不等于 布迪厄的“阶级区隔”（Class Distinction）** — 布迪厄主要关注资本与审美品味的阶级对立，而 Lamont 引入了“道德边界”（Moral Boundaries），强调道德评价（如正直、淳朴、责任感）往往超越经济与文化资本。
+> - **不等于 [[Pierre Bourdieu|布迪厄]]的“阶级区隔”（Class Distinction）** — 布迪厄主要关注资本与审美品味的阶级对立，而 Lamont 引入了“道德边界”（Moral Boundaries），强调道德评价（如正直、淳朴、责任感）往往超越经济与[[Cultural Capital|文化资本]]。
 > - **不等于 客观的“社会边界”（Social Boundary）** — 象征边界是主观分类和道德排斥，而社会边界是指资源、权利与人口流动的客观阻隔。象征边界常是社会边界的前夜与正当化工具（Lamont & Molnár, 2002）。
 
 ---
@@ -84,7 +87,7 @@ related_arguments:
 > - **差异的道德化（Moralization of Differences）** — 将群体间原本客观的行为或品味差异升格为道德优劣判断（如“我们淳朴责任，他们功利套路”或“我们正统，他们边缘”）[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 169)]]。
 > - **边界的自然化（Naturalization of Boundaries）** — 通过日常习惯、话语或制度化教育，将人为建构的边界伪装成“理所当然”的自然事实与社会常识[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
 > - **排斥的正当化（Legitimation of Exclusion）** — 边界一旦成为道德事实，对异己的排斥便被合理化为“正当选择”，从而免除了行动者的道德罪恶感[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 170)]]。
-> - **硬化为社会边界（Hardening into Social Boundaries）** — 道德边界阻断了跨群体的文化资本传递与社会交往，最终巩固了阶级与族群的结构性不平等（Lamont & Molnár, 2002）。
+> - **硬化为社会边界（Hardening into Social Boundaries）** — 道德边界阻断了跨群体的[[Cultural Capital|文化资本]]传递与社会交往，最终巩固了阶级与族群的结构性不平等（Lamont & Molnár, 2002）。
 
 > [!mechanism-map]- 象征边界运作与硬化机制
 > ```mermaid
@@ -103,11 +106,11 @@ related_arguments:
 
 ### 命题一　高等教育微观互动中不同阶层习性建构了自我标识与道德拒斥他者的象征边界
 
-> [!concept-lens] 微观阶层习性与大学生自我/他者区隔
+> [!concept-lens] 微观阶层[[Habitus|习性]]与大学生自我/他者区隔
 > 探讨大学生的阶层文化背景如何转化为道德评价话语，并在不同学业文化模式之间划出难以逾越的心理界限。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]
-> **目标掌控者与直觉依赖者之间的道德话语对立** [[Yajun Zheng|郑雅君]]发现，精英大学中来自优势阶层的[[Goal-Controlled Mode|目标掌控者]]与来自弱势阶层的[[Intuition-Dependent Mode|直觉依赖者]]不仅存在策略差异，更各自构建了一套道德化话语来标识自我并道德拒斥他者[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 168–172)]]。目标掌控者以“自我负责、有趣”自居，将无目标生活道德判定为“不负责任”；直觉依赖者则以“淳朴、纯真、无套路”自居，将策略性套近乎与选简单课道德判定为“功利心强、动机不纯”。这种象征边界有效地阻断了弱势阶层学生向优势阶层学习学业策略的可能性[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 170)]]。
+> **目标掌控者与直觉依赖者之间的道德话语对立** [[Yajun Zheng|郑雅君]]发现，精英大学中来自优势阶层的目标掌控者与来自弱势阶层的直觉依赖者不仅存在策略差异，更各自构建了一套道德化话语来标识自我并道德拒斥他者[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 168–172)]]。目标掌控者以“自我负责、有趣”自居，将无目标生活道德判定为“不负责任”；直觉依赖者则以“淳朴、纯真、无套路”自居，将策略性套近乎与选简单课道德判定为“功利心强、动机不纯”。这种象征边界有效地阻断了弱势阶层学生向优势阶层学习学业策略的可能性[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 170)]]。
 
 > [!contrast-table] 两种大学模式的道德象征边界对比
 > | 模式 | 标识自我的道德话语 | 区隔他者的方式 | 典型口述与行为 |
@@ -123,14 +126,14 @@ related_arguments:
 > 探讨国家教育系统如何通过教科书将特定主导群体的文化自然化为全民族的常识，从而划定涵盖与排斥的符号边界。
 
 > [!claim] [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]
-> **教科书对“中国文化”边界的公式化自然化** Yu & Zhao (2024) 揭示了象征边界在国家教育层面上的宏观运作——国家通过 217 册必修教材系统性地划定“什么是中国文化”的边界[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 65)]]。教材通过将东亚命名为“[[Confucian Heritage Cultures|儒家文化圈]]”、《论语》列为文化核心、孔子与西方智者并列，暗中建立了“中国文化 = 儒家文化 = 汉文化”的等式常识[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 67)]]。这一符号边界将非汉族与非儒家传统排斥在“核心中华性”之外，导致少数民族与信教学生在接受官方课程时产生严重的[[Cultural Disembedding|文化脱嵌]]与反思性疏离[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
+> **教科书对“中国文化”边界的公式化自然化** [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 揭示了象征边界在国家教育层面上的宏观运作——国家通过 217 册必修教材系统性地划定“什么是中国文化”的边界[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 65)]]。教材通过将东亚命名为“[[Confucian Heritage Cultures|儒家文化圈]]”、《论语》列为文化核心、[[Confucius|孔子]]与西方智者并列，暗中建立了“中国文化 = 儒家文化 = 汉文化”的等式常识[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 67)]]。这一符号边界将非汉族与非儒家传统排斥在“核心中华性”之外，导致少数民族与信教学生在接受官方课程时产生严重的[[Cultural Disembedding|文化脱嵌]]与[[Reflexivity|反思性]]疏离[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
 
 ### 命题三　象征边界通过阻断跨群体文化传递与资源共享，硬化为再生产结构性不平等的社会边界
 
 > [!concept-lens] 从主观区隔到客观社会不平等硬化
-> 探讨观念上的道德对立与排斥如何阻碍社会资本与文化资本的流动，最终硬化为客观的社会阶层与族群屏障。
+> 探讨观念上的道德对立与排斥如何阻碍社会资本与[[Cultural Capital|文化资本]]的流动，最终硬化为客观的社会阶层与族群屏障。
 
 > [!claim] Lamont & Molnár (2002) / [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]
 > **象征边界硬化为社会边界的机制** Lamont & Molnár (2002) 论证，象征边界并非停留在心理活动层面，当道德拒斥导致群体间拒绝互动、否定对方实践的合法性时，象征边界就会“硬化”（harden）为社会边界[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 168)]]。在郑雅君 (2023) 的案例中，直觉依赖者对策略行为的道德贬低阻止了他们向目标掌控者获取隐性知识，从而巩固了阶层文化资本的不平等传递[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 171)]]。
@@ -142,7 +145,7 @@ related_arguments:
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 分析层次 | 核心机制 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **微观习性与道德区隔** | 微观个体 / 大学场域 | 阶层[[Habitus\|习性]]转化为“淳朴 vs. 功利”的道德拒斥与自我标识[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]] | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
+> | **微观习性与道德区隔** | 微观个体 / 大学[[Champ\|场域]] | 阶层[[Habitus\|习性]]转化为“淳朴 vs. 功利”的道德拒斥与自我标识[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]] | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
 > | **宏观课程与符号霸权** | 宏观制度 / 教科书场域 | 国家通过[[Official Knowledge\|官方知识]]自然化“中国文化=汉儒文化”边界[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]] | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
 > | **边界硬化与结构再生产** | 中观—宏观跨层 | 主观道德拒斥阻断文化资本传递，硬化为客观[[Social Boundary\|社会边界]] | Lamont & Molnár (2002) |
 
@@ -151,11 +154,11 @@ related_arguments:
 ## 概念演变
 
 > [!dev-timeline] 概念史演变脉络
-> - **1984 年 — 阶级区隔理论基础** — Bourdieu 在《区隔》（*Distinction*）中提出文化资本与趣味区隔，为象征边界提供了社会学雏形。
+> - **1984 年 — 阶级区隔理论基础** — Bourdieu 在《区隔》（*Distinction*）中提出[[Cultural Capital|文化资本]]与趣味区隔，为象征边界提供了社会学雏形。
 > - **1992–2002 年 — 象征边界与社会边界框架建立** — Michèle Lamont 在 *Money, Morals, and Manners* (1992) 及 Lamont & Molnár (2002) 中明确提出“象征边界”概念，将道德边界与阶级/文化边界并列，并阐明象征边界硬化为社会边界的理论机制。
 > - **2015 年 — 理论扩展与综述** — Lamont et al. (2015) 在 *International Encyclopedia of the Social & Behavioral Sciences* 中系统整理差异道德化、自然化与排斥正当化三大环节。
-> - **2023 年 — 中文高等教育场域应用** — [[Yajun Zheng|郑雅君]] (2023) 将象征边界运用于中国精英大学第一代大学生研究，揭示“目标掌控者”与“直觉依赖者”之间的道德话语排斥[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 168)]]。
-> - **2024 年 — 国家课程与官方知识场域应用** — [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 将象征边界从微观人际互动扩展至国家教科书（217 册）研究，分析[[Official Knowledge|官方知识]]对“汉儒中华性”的符号边界自然化与少数民族的反思性回应[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
+> - **2023 年 — 中文高等教育[[Champ|场域]]应用** — [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] 将象征边界运用于中国精英大学第一代大学生研究，揭示“目标掌控者”与“直觉依赖者”之间的道德话语排斥[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 168)]]。
+> - **2024 年 — 国家课程与[[Official Knowledge|官方知识]]场域应用** — [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 将象征边界从微观人际互动扩展至国家教科书（217 册）研究，分析[[Official Knowledge|官方知识]]对“汉儒中华性”的符号边界自然化与少数民族的[[Reflexivity|反思性]]回应[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
 
@@ -164,10 +167,10 @@ related_arguments:
 > [!debates] 学术争议与理论交锋
 >
 > > [!axis] 主观道德边界 vs. 客观结构决定
-> > 讨论象征边界在决定个体社会轨迹时，究竟具有独立于经济与文化资本的自主解释力，还是仅仅是结构性地位的附庸。
+> > 讨论象征边界在决定个体社会轨迹时，究竟具有独立于经济与[[Cultural Capital|文化资本]]的自主解释力，还是仅仅是结构性地位的附庸。
 > >
 > > - **Lamont et al. (2002, 2015)** — 主张道德象征边界具有独立的社会学意义，能够独立于资本总量对社会互动施加约束。
-> > - **传统布迪厄学派学者** — 倾向于将道德表述视为文化资本与阶级习性（Habitus）的派生产物。
+> > - **传统[[Pierre Bourdieu|布迪厄]]学派学者** — 倾向于将道德表述视为文化资本与阶级[[Habitus|习性]]（Habitus）的派生产物。
 >
 > > [!axis]- 边界跨越（Boundary Crossing）vs. 边界固化（Boundary Reinforcement）
 > > 探讨行动者在遭遇符号象征边界时，倾向于调整自身行为穿透边界，还是强化自我认同形成抵制。
@@ -175,8 +178,8 @@ related_arguments:
 > > - **[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]** — 发现直觉依赖者往往通过道德固化（道德贬低功利行为）来保护自我认同，但也因此错失了跨越学业边界的机会[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 170)]]。
 
 > [!critique]- 外部批评
-> - **文化过度道德化风险** — 部分批评指出，过分强调“道德化区隔”可能忽视了行动者在日常实践中的实用主义策略与非道德化的情境适应。
-> - **官方知识边界的排他性后果** — [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 强调，国家若在课程中单向固化汉儒符号边界，将削弱多民族多元一体的实质凝聚力，加剧边缘群体的符号剥夺感[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 72)]]。
+> - **文化过度道德化风险** — 部分批评指出，过分强调“道德化区隔”可能忽视了行动者在日常实践中的[[Pragmatic Paradigm|实用主义]]策略与非道德化的情境适应。
+> - **[[Official Knowledge|官方知识]]边界的排他性后果** — [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 强调，国家若在课程中单向固化汉儒符号边界，将削弱多民族多元一体的实质凝聚力，加剧边缘群体的符号剥夺感[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 72)]]。
 
 > [!warning] 适用局限
 > 象征边界概念适用于文化社会学、教育社会学及微观互动/宏观话语分析，不宜将其直接代替客观的法律自治权或经济阶层指标分析。
