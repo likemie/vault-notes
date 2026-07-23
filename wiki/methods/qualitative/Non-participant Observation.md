@@ -71,12 +71,12 @@ updated: 2026-07-23
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. 确定观察焦点、行为类别和[[Coding in Qualitative Research|编码]]系统——定义需要记录的具体行为及其[[Operationalization|操作化]]指标
-> 2. 设计[[Structured Observation|结构化观察]]表——明确时间抽样或事件抽样的规则
-> 3. 培训观察者——确保编码一致性和观察者间[[Reliability|信度]]
-> 4. 在自然或半自然情境中实施观察——保持非参与地位，避免干扰被观察者
-> 5. 系统记录行为——按预定时间间隔或事件触发进行编码
-> 6. 分析数据——统计频数、识别模式、比较不同时段或不同群体
+> 1. 确定观察焦点、行为类别和[[Coding in Qualitative Research|编码]]系统，定义需要记录的具体行为及其[[Operationalization|操作化]]指标
+> 2. 设计[[Structured Observation|结构化观察]]表，明确时间抽样或事件抽样的规则
+> 3. 培训观察者，确保编码一致性和观察者间[[Reliability|信度]]
+> 4. 在自然或半自然情境中实施观察，保持非参与地位，避免干扰被观察者
+> 5. 系统记录行为，按预定时间间隔或事件触发进行编码
+> 6. 分析数据，统计频数、识别模式、比较不同时段或不同群体
 
 > [!sample-panel] 材料与进入现场
 > | 维度 | 信息 |
@@ -92,8 +92,8 @@ updated: 2026-07-23
 
 > [!spectrum] 观察研究的连续体
 > - **Acker（1990）** 自然情境，参与观察，[[Ethnography|民族志研究]]，数百小时材料
-> - **Parker（1974）** 自然情境，参与观察，"饮酒者、闲逛者"
-> - **Willis（1977）** 自然情境，参与观察，作为"班级成员而非教师"
+> - **Parker（1974）** 自然情境，参与观察，饮酒者、闲逛者角色
+> - **Willis（1977）** 自然情境，参与观察，作为班级成员而非教师
 > - **Blease & Cohen（1990）** 半自然情境，非参与观察，高度结构化观察表
 > - **Antonsen（1988）** 人工情境（儿童精神科诊所），非结构化观察
 > - **Houghton（1991）** 人工情境（咨询师办公室），结构化测试+访谈
@@ -121,4 +121,5 @@ Bailey（1994, p. 247）解释：在自然情境中，研究者很难进行非�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材将非[[Participant Observation|参与观察]]作为与参与式观察并列的两种主要观察类型，通过Boulton（1992）五年高度结构化非参与观察、Blease & Cohen（1990）使用结构化观察表以及King（1979）在幼儿课堂中保持非参与地位的实践进行了示例说明（pp. 291–292）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材将非参与观察作为与参与式观察并列的主要观察类型，通过 Boulton（1992）、Blease & Cohen（1990）和 King（1979）进行示例说明（pp. 291–292）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 专章系统介绍 Gold（1958）完全观察者角色、Dyer（1995）非参与观察设计清单、自然与人工情境中的单向镜与视频记录应用
