@@ -100,12 +100,11 @@ updated: 2026-07-23
 > - **观察者漂移** 需避免疲劳和观察者漂移（observer drift），观察者随时间推移逐渐改变评分标准（Cooper & Schindler, 2001, p. 380）
 
 > [!formula] 评分者间信度的计算公式
-> 观察者之间一致性百分比的计算公式为：
->
 > $$
 > \text{一致性百分比} = \frac{\text{一致次数}}{\text{一致次数} + \text{不一致次数}} \times 100\%
 > $$
->
+
+> [!info] 信度标准
 > 应追求最低超过90%的一致性（Shaughnessy et al., 2003, p. 111）。观察者之间的相关性系数也应 >0.90（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
 
 > [!example] 典型情境
