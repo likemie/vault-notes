@@ -11,7 +11,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 72
+method_related_count: 74
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Interventionist Strategy]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
+  - "[[Achievement and Aptitude Tests]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Clinical Trial]]"
   - "[[Side Effects]]"
+  - "[[Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests]]"
   - "[[Document]]"
   - "[[Ontology]]"
   - "[[Validity as Inferences]]"
@@ -130,7 +132,7 @@ updated: 2026-07-13
 >    - 2010 — 干预研究比例降至 25%，随机实验占比降至 23%
 >    - 2011 — [[Education Endowment Foundation|EEF]] 成立，此后资助了 100 项涉及 50 万以上学生的 RCT（[[Argument_Higgins_2016_RE|Higgins, 2016, p.49]]）
 > - 2020 — 干预研究比例维持在 25%，随机实验进一步降至 20%，只有五分之一经验文章使用随机分配
->    - 2023 — [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现：若结果限定为标准化学业成就测验，36% 的效应量小于 0.05，整体中位数约为 0.10
+>    - 2023 — [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现：若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10
 
 > [!citation-card]- 关键定义
 > 实验技术，尤其是随机对照试验（RCT），在建立[[Causality|因果性]]方面具有强大效力。通过识别、隔离和控制自变量，操纵一个自变量看其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则变化可归因于该自变量——它成为原因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|(Cohen et al., 2011, pp. 78, 81)]]
@@ -277,7 +279,7 @@ updated: 2026-07-13
 > [[Argument_Wiliam_2019_ERE|Wiliam (2019, pp.7–9)]] 识别了教师质量的未测量变异作为教育 RCT 中的结构性混淆因素：教师间一 SD 差异 ≈ 0.15 SD 学生成就差异（Hanushek & Rivkin, 2010）；在 50 名教师的群体中，最有效教师的学生 6 个月学习 = 平均教师 1 年 = 最无效教师 2 年；更有效的教师对低成就学生不成比例地更有效（Slater, Davies, & Burgess, 2012）。这意味着在[[Tracking|能力分组]] RCT 中，如果最有效教师被分配给高成就学生，观察到的"能力分组效应"可能完全是"教师分配效应"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.9]]）。[[Education Endowment Foundation|EEF]] 当前关于能力分组的 RCT（EEF, 2019）印证了这些问题：由于无法获得学校同意而未使用随机分配，且没有教师质量的直接测量（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.8–9]]）。
 
 > [!stat-cards] 成功率基准：教育干预 RCT 的效应量现实
-> [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现，若结果限定为标准化学业成就测验，36% 的效应量小于 0.05，整体中位数约为 0.10。多数现代教育 RCT 并非两个对称处理组的任意比较，而是将"新做法"与"照常实践"对比——94% 的处理-对照比较属于干预组做了新事情、控制组维持原有实践的设计（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183, 185]]）。
+> [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现，若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10。多数现代教育 RCT 并非两个对称处理组的任意比较，而是将"新做法"与"照常实践"对比——94% 的处理-对照比较属于干预组做了新事情、控制组维持原有实践的设计（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183, 185]]）。
 
 > [!critique-data] 反事实条件随时间变化
 > 早期 RCT 的结果可能随时间推移而变得不再适用。[[Argument_Higgins_2016_RE|Higgins (2016)]] 指出，同伴辅导的早期研究往往有更大的效应量，但这究竟是评估质量较低、[[Publication Bias|发表偏差]]、分配偏差、研究者偏差的结果，还是真实反映了反事实条件的变化使得更大效果更难实现，目前尚不清楚（[[Argument_Higgins_2016_RE|Higgins, 2016, p.44；参见 Lemons et al., 2014]]）。这意味着教育干预的效果不是固定不变的，同一个干预在不同时期可能产生不同结果。

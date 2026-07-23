@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_IRTP"
 argument_key: "Argument_Nielsen_2021_IRTP"
 argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -38,7 +38,8 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Doxa]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Accounts]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts:
@@ -105,7 +106,7 @@ citation_aliases:
 > 作者论证 Hattie 深受 Schön (1983, 1987) 所描述的**技术理性（Technical Rationality）**影响(p. 81-82)：
 >
 > > “技术理性是[[Positivism|实证主义]]的遗产，这一强大的哲学学说在十九世纪成长起来，既作为对科学技术崛起的解释，也作为一场旨在将科学技术的成就应用于人类福祉的社会运动。”
-> ("Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind.") (Schön, 1983, p. 31)
+> ("Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts|account]] of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind.") (Schön, 1983, p. 31)
 >
 > 技术理性铺平了教育中的手段-目的思维（means-ends thinking）——问题被理解为脱离情境的独立实体，可以通过查阅和应用基础科学知识来解决(p. 82)。
 >

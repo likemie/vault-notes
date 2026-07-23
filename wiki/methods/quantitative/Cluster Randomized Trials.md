@@ -8,7 +8,7 @@ summary: "一种以学校、班级或其他群体而非个体作为随机化单�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -17,6 +17,7 @@ tags:
 - method/quantitative
 - level/k12
 related_concepts:
+  - "[[Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
   - "[[Stable Unit Treatment Value Assumption]]"

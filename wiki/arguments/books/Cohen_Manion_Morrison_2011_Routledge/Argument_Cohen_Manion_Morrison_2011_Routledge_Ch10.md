@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 123
+argument_related_count: 124
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -123,6 +123,7 @@ related_concepts:
   - "[[Deception in Research]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Item Response Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
@@ -1369,7 +1370,7 @@ Feldt & Brennan (1993) 提出四类信度威胁：
 > - **评分者因素（Test marker factors）**
 >   特异性和主观性——不同评分者对相同或相似作品给出不同分数。
 > - **工具变量（Instrument variables）**
->   不良领域抽样、任务抽样错误、任务的真实性和与受试者经验的相关性、不良问题项目、项目反应理论中单维度性的假设或范围、**测验长度、机械错误、评分错误、计算机错误**。
+>   不良领域抽样、任务抽样错误、任务的真实性和与受试者经验的相关性、不良问题项目、[[Item Response Theory|项目反应理论]]中单维度性的假设或范围、**测验长度、机械错误、评分错误、计算机错误**。
 
 ---
 

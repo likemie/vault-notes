@@ -9,7 +9,7 @@ aliases:
 summary: "信度作为内部一致性的形式，衡量多项目量表中各条目测量同一底层构念的程度，通过半分法与Spearman-Brown公式或Cronbach alpha量化，后者等效于所有可能半分方式的Spearman-Brown校正值的平均值"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,9 +22,11 @@ related_concepts:
   - "[[Construct]]"
   - "[[Test-Retest Reliability]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Rating Scale]]"
   - "[[Heterogeneity]]"
   - "[[Pre-test and Post-test]]"
   - "[[Split-Half Reliability]]"
+  - "[[Item Analysis]]"
   - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Research Purpose]]"
@@ -55,7 +57,7 @@ updated: 2026-06-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 内部一致性回答的核心问题是：量表中的这些条目是否在协同一致地测量同一个东西？它衡量的是**项目之间**（而非受试者之间或时间点之间）的一致性。
-> - **用途** 在多项目量表（如态度量表、人格测验、能力测试）的开发与验证中，内部一致性是最核心的信度指标。它是[[Survey Research|调查研究]]和量表开发中最常报告的信度形式。
+> - **用途** 在多项目量表（如[[Rating Scale|态度量表]]、人格测验、能力测试）的开发与验证中，内部一致性是最核心的信度指标。它是[[Survey Research|调查研究]]和量表开发中最常报告的信度形式。
 > - **边界** 内部一致性不同于[[Test-Retest Reliability|重测信度]]（后者关注跨时间的稳定性），也不同于[[Inter-Rater Reliability|评分者间信度]]（后者关注跨评分者的一致性）。它衡量的是单一时间点、单次施测中条目间的相互关联。
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-06-23
 内部一致性的传统检验方法是**半分法（[[Split-Half Reliability|split-half]] method）**，其操作步骤和公式如下（pp.202–203）：
 
 > [!proc] 半分法的操作流程
-> 1. **将测试对半分割** 将测试项目分为两半，确保每半在项目难度和内容上匹配。若测试有 20 个项目且难度递增，可将偶数号项目分给一组、奇数号分给另一组，使两半在内容和累积难度上更接近
+> 1. **将测试对半分割** 将测试项目分为两半，确保每半在[[Item Analysis|项目难度]]和内容上匹配。若测试有 20 个项目且难度递增，可将偶数号项目分给一组、奇数号分给另一组，使两半在内容和累积难度上更接近
 > 2. **分别评分** 每半分单独评分，计算每位受试者在每半上的得分
 > 3. **计算相关系数** 计算两半得分之间的相关系数 $r$（Pearson 或 Spearman）
 > 4. **Spearman-Brown 校正** 因为将测试减半会降低[[Reliability|信度]]，需要用公式从半测试相关**推算出完整测试的信度**

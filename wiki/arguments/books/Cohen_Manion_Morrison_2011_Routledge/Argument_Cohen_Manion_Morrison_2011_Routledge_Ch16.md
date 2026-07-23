@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_display_title: "Research Methods in Education · Ch16"
 argument_kind: "book-chapter"
-argument_related_count: 76
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Homework]]"
   - "[[Questionnaire]]"
+  - "[[Item Analysis]]"
   - "[[Test-Retest Reliability]]"
   - "[[Operationalization]]"
   - "[[Exogenous and Endogenous Variables]]"
@@ -917,7 +918,7 @@ Bhadwal & Panda (1991) 在印度农村以更稳健的实验设计检验通过改
 >
 > **随机分配** 26 名学生随机分配至实验组，其余 52 名平均分配至两个控制组，与 Kerlinger (1970) 讨论的好实验设计一致。
 >
-> **研究工具** 专门为年幼儿童设计的学习习惯和态度[[Questionnaire|问卷]]，经过了项目分析、[[Test-Retest Reliability|重测信度]]和分半[[Reliability|信度]]检验。
+> **研究工具** 专门为年幼儿童设计的学习习惯和态度[[Questionnaire|问卷]]，经过了[[Item Analysis|项目分析]]、[[Test-Retest Reliability|重测信度]]和分半[[Reliability|信度]]检验。
 >
 > **统计控制** 除匹配和随机分配外，还使用[[Analysis of Covariance|协方差分析]]作为进一步控制组间前测差异的手段。
 >

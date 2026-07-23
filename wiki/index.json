@@ -1871,7 +1871,8 @@
     "aliases": [
       "科学态度",
       "kexue taidu",
-      "scientific spirit in education"
+      "scientific spirit in education",
+      "教育上的科学态度"
     ]
   },
   {
@@ -4735,6 +4736,20 @@
     ]
   },
   {
+    "title": "Achievement and Aptitude Tests",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Achievement and Aptitude Tests.md",
+    "aliases": [
+      "成就测验与能力倾向测验",
+      "成就测验",
+      "能力倾向测验",
+      "achievement test",
+      "aptitude test",
+      "成绩测验",
+      "性向测验"
+    ]
+  },
+  {
     "title": "Action Narratives",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Action Narratives.md",
@@ -5029,6 +5044,18 @@
     "aliases": [
       "复合原因",
       "compound causes"
+    ]
+  },
+  {
+    "title": "Computerized Adaptive Testing",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Computerized Adaptive Testing.md",
+    "aliases": [
+      "计算机自适应测验",
+      "计算机化自适应测验",
+      "CAT",
+      "adaptive testing",
+      "适应性测验"
     ]
   },
   {
@@ -5977,6 +6004,21 @@
     ]
   },
   {
+    "title": "Item Analysis",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Item Analysis.md",
+    "aliases": [
+      "项目分析",
+      "试题分析",
+      "item discriminability",
+      "项目区分度",
+      "item difficulty",
+      "项目难度",
+      "distractor analysis",
+      "干扰项分析"
+    ]
+  },
+  {
     "title": "Justified Warrants",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Justified Warrants.md",
@@ -6259,6 +6301,22 @@
     ]
   },
   {
+    "title": "Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests.md",
+    "aliases": [
+      "常模参照、标准参照与领域参照测验",
+      "常模参照测验",
+      "标准参照测验",
+      "领域参照测验",
+      "norm-referenced test",
+      "criterion-referenced test",
+      "domain-referenced test",
+      "NRT",
+      "DRT"
+    ]
+  },
+  {
     "title": "Null Hypothesis",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Null Hypothesis.md",
@@ -6370,6 +6428,18 @@
       "alternate forms reliability",
       "equivalent forms reliability",
       "等值信度"
+    ]
+  },
+  {
+    "title": "Parametric and Non-parametric Tests",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Parametric and Non-parametric Tests.md",
+    "aliases": [
+      "参数测验与非参数测验",
+      "参数检验与非参数检验",
+      "parametric tests",
+      "non-parametric tests",
+      "标准化测验与非标准化测验"
     ]
   },
   {
@@ -8512,6 +8582,18 @@
     ]
   },
   {
+    "title": "Classical Test Theory",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Classical Test Theory.md",
+    "aliases": [
+      "经典测验理论",
+      "经典测量理论",
+      "CTT",
+      "classical measurement theory",
+      "true score theory"
+    ]
+  },
+  {
     "title": "Critical Ethnography",
     "type": "theory",
     "path": "wiki/theories/research-methodology/Critical Ethnography.md",
@@ -8530,6 +8612,17 @@
       "儿童参与阶梯",
       "Ladder of Participation",
       "Hart's participation ladder"
+    ]
+  },
+  {
+    "title": "Item Response Theory",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Item Response Theory.md",
+    "aliases": [
+      "项目反应理论",
+      "IRT",
+      "latent trait theory",
+      "潜在特质理论"
     ]
   },
   {
@@ -10844,9 +10937,10 @@
     "type": "person",
     "path": "wiki/persons/china/Hu Shi.md",
     "aliases": [
-      "Hu, S.",
       "胡适",
-      "Hu Shih"
+      "Hu, S.",
+      "Hu Shih",
+      "胡适之"
     ]
   },
   {
@@ -10854,9 +10948,9 @@
     "type": "person",
     "path": "wiki/persons/china/Jiang Menglin.md",
     "aliases": [
-      "Jiang, M.",
       "蒋梦麟",
-      "Jiang Menglin"
+      "Jiang, M.",
+      "蒋孟邻"
     ]
   },
   {
@@ -10918,8 +11012,8 @@
     "type": "person",
     "path": "wiki/persons/china/Tao Xingzhi.md",
     "aliases": [
-      "Tao, X.",
       "陶行知",
+      "Tao, X.",
       "Tao Zhixing",
       "陶知行"
     ]
@@ -12567,7 +12661,8 @@
     "aliases": [
       "五四运动",
       "wusi yundong",
-      "May Fourth Incident"
+      "May Fourth Incident",
+      "五四爱国运动"
     ]
   },
   {
@@ -12587,7 +12682,8 @@
     "path": "wiki/facts/china/New Culture Movement.md",
     "aliases": [
       "新文化运动",
-      "xinwenhua yundong"
+      "xinwenhua yundong",
+      "五四新文化运动"
     ]
   },
   {
@@ -12627,7 +12723,8 @@
       "癸卯学制",
       "1904年学制",
       "1904 school system",
-      "1904 education system"
+      "1904 education system",
+      "奏定学堂章程"
     ]
   },
   {
@@ -15065,6 +15162,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

@@ -8,7 +8,7 @@ summary: "通过媒介（如虚拟世界中的化身）让个体外化自我、�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Internal Validity]]"
 related_theories:
+  - "[[Item Response Theory]]"
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Triangulation]]"
@@ -78,7 +79,7 @@ updated: 2026-07-22
 > [!method-stack] 方法层级
 > - **研究设计** [[Virtual World|虚拟世界]]研究、[[Case Study|案例研究]]、[[Mixed Methods Research|混合方法研究]]。
 > - **数据收集** 化身创建与配置、价值观词典累积、争议性场景讨论记录、在线日记、同伴审查、遗产文件、前[[Pre-test and Post-test|后测]][[Questionnaire|问卷]]、面对面退出访谈。
-> - **分析方法** 主题分析、相关分析、因子分析、项目反应理论。
+> - **分析方法** 主题分析、相关分析、因子分析、[[Item Response Theory|项目反应理论]]。
 > - **辅助技术** 安全虚拟环境托管、密码访问控制、物品清单与价值观词典系统、表情符号系统、时间戳多通道记录。
 
 ---

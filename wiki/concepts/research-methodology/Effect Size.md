@@ -5,7 +5,7 @@ aliases:
 summary: "比较不同干预或变量影响强度的标准化统计指标，被广泛用于元分析与证据排序，但其解释边界、聚合方式和政策用途长期存在争议"
 type: concept
 domain: "research-methodology"
-related_count: 62
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Causality]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Achievement and Aptitude Tests]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
@@ -239,7 +240,7 @@ updated: 2026-07-19
 > 在学校采购和项目评价中，教育产品消费者并不总能理解效应量和统计显著性等有效性指标，也常觉得正式证据来源缺少实施要求、使用满意度、成本和情境信息。效应量因此不是“读者看到数字就能行动”的指标，而需要和项目目标、使用强度、对照条件、测量工具和地方需求一起解释([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 > [!example]
-> 一个补充性教育技术项目可能只在每周少量课堂时间中使用。若它在标准化成就测验上的效应量很小，这不必然说明项目无价值；它可能主要改善学生动机、释放教师个别辅导时间或增加技术接入公平。反过来，一个较大的效应量若来自低质量对照组，也不能直接说明项目在本地学区一定值得采购([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]])。
+> 一个补充性教育技术项目可能只在每周少量课堂时间中使用。若它在标准化[[Achievement and Aptitude Tests|成就测验]]上的效应量很小，这不必然说明项目无价值；它可能主要改善学生动机、释放教师个别辅导时间或增加技术接入公平。反过来，一个较大的效应量若来自低质量对照组，也不能直接说明项目在本地学区一定值得采购([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]])。
 
 ---
 

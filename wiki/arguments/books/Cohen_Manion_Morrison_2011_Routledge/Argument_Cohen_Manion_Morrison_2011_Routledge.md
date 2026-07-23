@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 151
+argument_related_count: 161
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -94,6 +94,10 @@ related_concepts:
   - "[[Likert Scale]]"
   - "[[Semantic Differential]]"
   - "[[Covering Letter]]"
+  - "[[Parametric and Non-parametric Tests]]"
+  - "[[Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests]]"
+  - "[[Item Analysis]]"
+  - "[[Computerized Adaptive Testing]]"
   - "[[Construct]]"
   - "[[Statistical Significance]]"
   - "[[Descriptive Analysis]]"
@@ -105,6 +109,8 @@ related_theories:
   - "[[Central Limit Theorem]]"
   - "[[Hart's Ladder of Participation]]"
   - "[[Critical Ethnography]]"
+  - "[[Classical Test Theory]]"
+  - "[[Item Response Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Ideology Critique]]"
@@ -151,6 +157,9 @@ related_methods:
   - "[[Projection Technique]]"
   - "[[Pilot Testing]]"
   - "[[Observation Method]]"
+  - "[[Structured Observation]]"
+  - "[[Field Notes]]"
+  - "[[Critical Incidents]]"
   - "[[Grounded Theory]]"
   - "[[Qualitative Interview]]"
   - "[[Group Interview]]"
@@ -184,6 +193,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -226,8 +236,8 @@ updated: 2026-07-18
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|第19章 Virtual worlds in educational research]] | 介绍[[Computer Simulation\|计算机模拟]]和[[Virtual World\|虚拟世界]]的定义与特征对比、[[Complexity Theory\|复杂性理论]]与哈贝马斯理想言说情境的理论基础、[[Agent-based Modelling\|基于主体建模]]和[[Projection Technique\|投射技术]]，以及虚拟世界在教育研究中的应用案例、操作指南、伦理议题和在线数据收集工具。 | [[Virtual World]]、[[Computer Simulation]]、[[Agent-based Modelling]]、[[Avatar]]、[[Projection Technique]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|第20章 Questionnaires]] | 系统介绍[[Questionnaire\|问卷]]设计的全流程：从伦理议题（知情同意、保密、方法论严谨性即伦理问题）、规划与[[Operationalization\|操作化]]（八阶段序列、Selltiz四类决策、以数据分析为规划导向）、题型体系（二分类、多选、排序、[[Likert Scale\|李克特量表]]、[[Semantic Differential\|语义差异量表]]、固定总和、比率、开放题、矩阵题、条件/过滤/分支题）到敏感问题处理、措辞十大陷阱、题目排序、布局、[[Covering Letter\|封面信]]与跟进信、[[Pilot Testing\|预测试]]的双重类型（格式预测试与统计缩减预测试）、自填与邮寄施测以及数据处理（编辑、编码）的完整操作指南。 | [[Questionnaire]]、[[Likert Scale]]、[[Semantic Differential]]、[[Pilot Testing]]、[[Operationalization]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|第22章]] | | |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|第23章 Observation]] | 系统介绍[[Observation Method \| 观察法]]的分类维度（Flick五维、Cooper & Schindler三维）、Gold的观察者角色连续体、[[Structured Observation | |
-> | 第24章 Observation | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|第23章 Observation]] | 系统介绍[[Observation Method \| 观察法]]的分类维度（Flick五维、Cooper & Schindler三维）、Gold的观察者角色连续体、[[Structured Observation\|结构化观察]]的五种数据记录方式与Dyer设计清单、关键事件法、自然主义与参与式观察的田野笔记多层框架与厚描述、自然与人工观察环境、技术记录、时间与因果推断三法则、隐蔽研究的伦理争议与专业准则以及观察的十类偏误与信效度保障。 | [[Observation Method]]、[[Structured Observation]]、[[Field Notes]]、[[Participant Observation]]、[[Critical Incidents]] |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|第24章 Tests]] | 系统介绍测验作为资料收集工具：测验内容的广泛分类、[[Parametric and Non-parametric Tests\|参数与非参数测验]]的分布假设与统计适用性、[[Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests\|常模参照标准参照与领域参照]]三种参照系、商业与自编测验的选择准则、测验编制的十步全流程（[[Classical Test Theory\|CTT]]与[[Item Response Theory\|IRT]]基础、[[Item Analysis\|项目分析]]、题型设计、布局计分与预测试）、前后测设计的实验要求、测验伦理的连续体与[[Computerized Adaptive Testing\|计算机自适应测验]]。 | [[Classical Test Theory]]、[[Item Response Theory]]、[[Item Analysis]]、[[Computerized Adaptive Testing]]、[[Parametric and Non-parametric Tests]] |
 > | 第25章 Tests | | |
 > | 第26章 Personal [[Construct\|constructs]] | | |
 > | 第27章 Role-playing | | |

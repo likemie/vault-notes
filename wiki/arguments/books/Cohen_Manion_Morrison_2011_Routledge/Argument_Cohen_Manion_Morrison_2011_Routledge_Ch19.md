@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -70,6 +70,7 @@ related_theories:
   - "[[Complexity Theory]]"
   - "[[Bounded Rationality]]"
   - "[[Phenomenology]]"
+  - "[[Item Response Theory]]"
   - "[[Autopoiesis]]"
 related_methods:
   - "[[Projection Technique]]"
@@ -423,7 +424,7 @@ updated: 2026-07-19
 > [!method-panel] 数据分析与效度保障策略
 > | 分析策略 | 具体方法 | 目的 |
 > |---|---|---|
-> | **量化分析** | 相关分析、因子分析、项目反应理论 | 探索[[Independent Variable\|自变量]]（人口统计学、初始观点和价值观）与[[Dependent Variable\|因变量]]（价值观、定义和感知变化）之间的关系 |
+> | **量化分析** | 相关分析、因子分析、[[Item Response Theory\|项目反应理论]] | 探索[[Independent Variable\|自变量]]（人口统计学、初始观点和价值观）与[[Dependent Variable\|因变量]]（价值观、定义和感知变化）之间的关系 |
 > | **质性分析** | 主题分析 | 提供对参与者体验和意义建构的丰富理解 |
 > | **[[Internal Validity\|内部效度]]保障** | 一个或多个对照组 | 比较实验组与对照组的发现，确保分析结果未被实验特征或不相关的环境暴露因素所不当扭曲，也不仅仅是因个体知道自己被研究而产生的结果 |
 > | **[[Triangulation\|三角验证]]与[[Reliability\|信度]]** | 多来源数据汇聚 | 通过比较多来源发现（问卷、日记、场景回应、同伴审查、遗产文件和退出访谈）来加强内部效度和信度 |

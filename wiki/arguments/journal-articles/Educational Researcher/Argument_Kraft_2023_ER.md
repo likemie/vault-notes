@@ -9,7 +9,7 @@ title: "Argument_Kraft_2023_ER"
 argument_key: "Argument_Kraft_2023_ER"
 argument_display_title: "The effect-size benchmark that matters most: Education interventions often fail"
 argument_kind: "journal-article"
-argument_related_count: 5
+argument_related_count: 6
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Effect Size]]"
+  - "[[Achievement and Aptitude Tests]]"
   - "[[Publication Bias]]"
 related_theories: []
 related_methods:
@@ -52,13 +53,13 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 本文不使用独立理论框架，而是在证据本位政策与教育改进困难性的前提下展开方法论论证。Kraft 将学校教育理解为复杂实践：在美国等高收入国家的成熟 K-12 系统中，社会不平等、政治系统、制度结构和个体行动者都会强力塑造教育倡议的设计与实施，因此大量教育干预 [[Randomised Controlled Trials|RCT]] 未能在标准化学业成就测验上产生可见改进并非异常，而是解释[[Effect Size|效应量]]时必须正视的基线事实(p.183)。
+> 本文不使用独立理论框架，而是在证据本位政策与教育改进困难性的前提下展开方法论论证。Kraft 将学校教育理解为复杂实践：在美国等高收入国家的成熟 K-12 系统中，社会不平等、政治系统、制度结构和个体行动者都会强力塑造教育倡议的设计与实施，因此大量教育干预 [[Randomised Controlled Trials|RCT]] 未能在标准化学业[[Achievement and Aptitude Tests|成就测验]]上产生可见改进并非异常，而是解释[[Effect Size|效应量]]时必须正视的基线事实(p.183)。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：既有[[Effect Size|效应量]]数据集扩展复核 + 方法论回应。
-> - 样本：扩展数据集包含 3,426 个来自教育干预 [[Randomised Controlled Trials|RCT]]、以标准化学业成就测验为结果的效应量；按研究聚合后为 973 项研究(pp.183-184)。
+> - 样本：扩展数据集包含 3,426 个来自教育干预 [[Randomised Controlled Trials|RCT]]、以标准化学业[[Achievement and Aptitude Tests|成就测验]]为结果的效应量；按研究聚合后为 973 项研究(pp.183-184)。
 > - 比较材料：回应 Simpson(2021)对基准化的两项批评，即跨研究效应量不可比、Kraft 提出的经验基准过低(p.184)。
 
 ## 核心论证

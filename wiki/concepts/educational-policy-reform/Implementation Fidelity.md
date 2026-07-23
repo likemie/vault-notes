@@ -8,7 +8,7 @@ aliases:
 summary: "项目在真实学校中是否按设计要求和足够强度实施的概念，用于解释干预效果和证据评级为何不能只看显著性。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Logic Model]]"
   - "[[Statistical Significance]]"
+  - "[[Achievement and Aptitude Tests]]"
   - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
@@ -66,7 +67,7 @@ updated: '2026-05-23'
 
 ### 使用强度与补充项目
 
-低强度补充项目常常难以在标准化成就测验上产生强效果。对这类项目，实施忠实度不仅包括“是否使用”，还包括使用频率、使用时长、是否嵌入核心教学，以及项目目标是否本来就不限于成就提升([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]])。
+低强度补充项目常常难以在标准化[[Achievement and Aptitude Tests|成就测验]]上产生强效果。对这类项目，实施忠实度不仅包括“是否使用”，还包括使用频率、使用时长、是否嵌入核心教学，以及项目目标是否本来就不限于成就提升([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112]])。
 
 ### 用户经验与成本
 
