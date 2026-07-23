@@ -95,7 +95,7 @@ citation_aliases:
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Transfer Translation Transformation\|3T 框架]]（[[Argument_Cowen_2009_CE\|Cowen, 2009]]）**<br>Cowen's 3T Framework | 作为核心结构分析工具，将[[John Dewey\|杜威]]思想在华演进划分为三个阶段：**转移（Transfer）**关注1919年前后杜威演讲与思想跨太平洋移动的接收语境；**转译（Translation）**关注1922–1923年改革中中国改革者如何用本土制度语言与法规重新[[Coding in Qualitative Research\|编码]]杜威；**转化（Transformation）**关注1923–1928年间政治环境恶化导致杜威思想在本土脉络中发生二次变质与[[Paradigm\|范式]]重组（pp.611–612）。 |
-> | **[[Geometries of Insertion\|接入几何学]]（[[Argument_Cowen_2009_CE\|Cowen, 2009]]）**<br>Geometries of Insertion | 分析接收国社会政治[[Champ\|场域]]在知识引入前已存在的结构性裂隙。民国教育界在杜威到来前已形成的“温和渐进派 vs. 激进系统重建派”的二元对立，构成了杜威思想接入中国时的初始受体磁场（pp.612–613）。 |
+> | **[[Geometries of Insertion\|接入几何学]]**<br>Geometries of Insertion | 分析接收国社会政治[[Champ\|场域]]在知识引入前已存在的结构性裂隙。民国教育界在杜威到来前已形成的“温和渐进派 vs. 激进系统重建派”的二元对立，构成了杜威思想接入中国时的初始受体磁场（pp.612–613）。 |
 > | **目标-方法双重维度（Means-Ends Pair）**<br>Dewey's Means-Ends Nexus | 将杜威哲学[[Operationalization\|操作化]]为“民主教育理想（目标）”与“渐进[[Pragmatism in China\|实验主义]]（方法）”的对偶关系，以此检验二者在民国不同历史时期的结合、分离与对立过程（pp.610–611）。 |
 
 > [!warrant]- 理论如何支撑论证
