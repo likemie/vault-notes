@@ -11835,7 +11835,7 @@
   );
 }
 
-/* 极点标签行（第一个 p）：**左极** **右极** ，CSS 自动渲染连线 */
+/* 极点标签行（第一个 p）：**左极** **右极** ，CSS 用 order 重排 flex 子项渲染 ←—连线—→ */
 .callout[data-callout="continuum"] > .callout-content > p:first-of-type {
   display: flex;
   align-items: center;
@@ -11844,46 +11844,50 @@
   color: var(--text-muted);
   margin-bottom: 0.75rem;
   margin-top: 0;
+}
+/* order:0 — 左标签 */
+.callout[data-callout="continuum"] > .callout-content > p:first-of-type strong:first-of-type {
+  order: 0;
+  color: rgb(var(--cl));
+  font-size: 1.04em;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+/* order:1 — 左箭头 ← */
+.callout[data-callout="continuum"] > .callout-content > p:first-of-type::before {
+  order: 1;
+  content: "←";
+  color: rgb(var(--cl));
+  font-size: 1em;
+  flex-shrink: 0;
+  padding: 0 0.25rem;
+}
+/* order:2 — 渐变连线填充区 + 右箭头 → */
+.callout[data-callout="continuum"] > .callout-content > p:first-of-type::after {
+  order: 2;
+  content: "→";
+  flex: 1;
+  color: rgb(var(--cr));
+  font-size: 1em;
+  text-align: right;
+  padding: 0 0.25rem;
   background: linear-gradient(
     90deg,
     rgb(var(--cl))  0%,
     rgb(var(--cm)) 50%,
     rgb(var(--cr)) 100%
   );
-  background-size: 100% 2px;
+  background-size: calc(100% - 1.5em) 2px;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: left center;
 }
-.callout[data-callout="continuum"] > .callout-content > p:first-of-type strong:first-of-type {
-  color: rgb(var(--cl));
-  font-size: 1.04em;
-  font-weight: 700;
-  flex-shrink: 0;
-  background: var(--background-primary);
-  padding-right: 0.55rem;
-}
-.callout[data-callout="continuum"] > .callout-content > p:first-of-type strong:first-of-type::after {
-  content: "←";
-  color: rgb(var(--cl));
-  font-size: 0.9em;
-  margin-left: 0.3rem;
-  opacity: 0.7;
-}
+/* order:3 — 右标签 */
 .callout[data-callout="continuum"] > .callout-content > p:first-of-type strong:last-of-type {
+  order: 3;
   color: rgb(var(--cr));
   font-size: 1.04em;
   font-weight: 700;
   flex-shrink: 0;
-  margin-left: auto;
-  background: var(--background-primary);
-  padding-left: 0.55rem;
-}
-.callout[data-callout="continuum"] > .callout-content > p:first-of-type strong:last-of-type::before {
-  content: "→";
-  color: rgb(var(--cr));
-  font-size: 0.9em;
-  margin-right: 0.3rem;
-  opacity: 0.7;
 }
 
 /* 两列网格 */
