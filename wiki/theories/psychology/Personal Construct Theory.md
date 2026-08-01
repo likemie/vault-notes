@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 # Personal Construct Theory
 
@@ -140,7 +140,7 @@ Kelly 的理论来自临床经验。他观察到个体主动理解世界并扩�
 
 > [!tension] 引发[[Construct|构念]]与提供构念的根本对立
 > - **引发构念（个体性推论）** 人对事件的建构各不相同。只有从受访者自身引发的构念才是其建构系统的有效表征。提供构念违背了个体性推论——这正是 Kelly 理论的核心原则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 7)]]
-> - **提供构念（共同性推论）** 相似的建构方式导致相似的心理过程。这意味着多个个体可以共享构念。Fransella 等（2004, p. 48）明确承认："构念必须在组情境中提供，如果需要组数据的话。"没有提供构念，就无法进行组间比较。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 7–8)]]
+> - **提供构念（共同性推论）** 相似的建构方式导致相似的心理过程。这意味着多个个体可以共享构念。Fransella et al.（2004, p. 48）明确承认："构念必须在组情境中提供，如果需要组数据的话。"没有提供构念，就无法进行组间比较。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 7–8)]]
 
 > [!warning] 理论与方法之间的持续张力
 > [[Repertory Grid Technique|repertory grid]] 的权威著作都从[[Personal Constructs|个人建构]]理论的视角撰写，但大多数 repertory grid 研究以纯粹方法论和无理论的方式使用网格，仅顺带提及 Kelly。该领域的真正弊端是术语过多——如 Bannister 将构念间平均相关命名为"强度"（intensity），使外部研究者困惑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 17–18)]]

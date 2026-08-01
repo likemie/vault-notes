@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 # Personal Constructs
 
@@ -91,7 +91,7 @@ updated: 2026-07-28
 
 > [!tension] 引发与提供的根本分歧
 > - **引发[[Construct|构念]]（尊重个体性推论）** 只有从受访者自身引发的个人建构才是其建构系统的有效表征。提供构念强加了研究者的框架，违背了个体性推论——而个体性推论正是该概念区别于通用分类系统的核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 7)]]
-> - **提供构念（依赖共同性推论）** 如果要进行组间比较，构念就必须是共享的。Fransella 等（2004, p. 48）指出"构念必须在组情境中提供，如果需要组数据的话。"在[[Praxis|实践]]中，大多数研究的比较需求压倒了个体性推论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 7–8)]]
+> - **提供构念（依赖共同性推论）** 如果要进行组间比较，构念就必须是共享的。Fransella et al.（2004, p. 48）指出"构念必须在组情境中提供，如果需要组数据的话。"在[[Praxis|实践]]中，大多数研究的比较需求压倒了个体性推论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 7–8)]]
 
 > [!warning] 理论与实践的脱节
 > 大多数使用个人建构和 [[Repertory Grid Technique|repertory grid]] 的研究以纯粹方法论方式操作，仅顺带提及 Kelly。这导致构念的概念在实际使用中被简化为普通的评分维度，丧失了理论厚度——但本章也承认，理论"不是使用网格的[[Necessary and Sufficient Conditions|必要条件]]"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 17–18)]]

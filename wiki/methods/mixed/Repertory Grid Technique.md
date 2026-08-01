@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 # Repertory Grid Technique
 
@@ -69,7 +69,7 @@ updated: 2026-07-28
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 不存在客观绝对的真实；意义是个体建构的产物。研究者的任务是理解个体的建构系统，而非验证预设[[Hypothesis|假设]]或测量客观属性。
 > - **研究者角色** 引发[[Construct|构念]]时——研究者提供结构化框架（选择元素、引导三元比较），但内容由受访者决定；提供构念时——研究者积极预设分析维度，但仍保留受访者的自我评分。研究者的核心判断在于何时使用引发构念、何时使用提供构念。
-> - **有效性标准** 引发构念的有效性取决于元素同质性（Yorke, 1978; Wright & Lam, 2002）和构念的双极性是否得到确保（对立面方法, Epting 等, 1971）；提供构念的有效性取决于构念对受访者是否有意义和是否单维（Bell, 2000）。
+> - **有效性标准** 引发构念的有效性取决于元素同质性（Yorke, 1978; Wright & Lam, 2002）和构念的双极性是否得到确保（对立面方法, Epting et al., 1971）；提供构念的有效性取决于构念对受访者是否有意义和是否单维（Bell, 2000）。
 > - **不声称回答的问题** 从个别化引发的网格不能直接推断群体规律；从网格数据不能直接推出[[Causality|因果关系]]或行为预测；从网格汇总测量不能替代深入理解个体建构系统。
 
 > [!method-stack] 方法层级
@@ -96,13 +96,13 @@ updated: 2026-07-28
 
 > [!proc] Repertory grid 的完整操作流程
 >
-> 1. **选择元素** 确定一组同质（homogeneous）的被评价对象。元素可自由选择（尊重个体性）或提供（便于组间比较）。中性角色头衔优于价值负载头衔，后者会极化网格（Bell 等, 2002; Haritos 等, 2004）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 6–7)]]
+> 1. **选择元素** 确定一组同质（homogeneous）的被评价对象。元素可自由选择（尊重个体性）或提供（便于组间比较）。中性角色头衔优于价值负载头衔，后者会极化网格（Bell et al., 2002; Haritos et al., 2004）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 6–7)]]
 >
 > 2. **引发或提供构念** 选择三元比较法（三元素挑出二同一异）、对立面方法或直接提供构念。引发尊重个体性推论，提供便于组间比较。可将引发构念与提供构念并用，以引发构念检验提供构念的有意义性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 7–8)]]
 >
 > 3. **分配元素到构念** 选择评分形式（多点评分量尺，如 1–7）或原始分类方式。评分形式需注意中点评分的含义（不适用 vs. 两个极点都适用）。偏斜性不一定是问题——它与构念层级组织相关（Bell, 2004a）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 8)]]
 >
-> 4. **施测** 选择一对一访谈、团体施测或[[Questionnaire|问卷]]式施测。一对一适合详细信息收集，需先进行练习试运行。团体施测需要较小的网格和预印表格。评分顺序（按构念 vs. 按元素）不影响结果（Bell 等, 2002; Neimeyer & Hagans, 2002）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 9–10)]]
+> 4. **施测** 选择一对一访谈、团体施测或[[Questionnaire|问卷]]式施测。一对一适合详细信息收集，需先进行练习试运行。团体施测需要较小的网格和预印表格。评分顺序（按构念 vs. 按元素）不影响结果（Bell et al., 2002; Neimeyer & Hagans, 2002）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 9–10)]]
 >
 > 5. **构念对齐** 分析前统一构念朝向：偏好极点法、理想自我法或自动反转法（识别并反转与其他构念普遍负相关的构念）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 10–11)]]
 >
@@ -135,10 +135,10 @@ updated: 2026-07-28
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 价值负载的角色头衔极化网格（Haritos 等, 2004）；施测过程中元素感知的情境变化；[[Halo Effect|光环效应]]——受试者看到网格矩阵逐渐建立而影响评分；评分量表的意外反转（心理上切换高低端）；中点评分的含义不确定（不适用 vs. 两极都适用）；低个人相关性元素的可变感知。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 6–7, 17)]]
+> - **偏误来源** 价值负载的角色头衔极化网格（Haritos et al., 2004）；施测过程中元素感知的情境变化；[[Halo Effect|光环效应]]——受试者看到网格矩阵逐渐建立而影响评分；评分量表的意外反转（心理上切换高低端）；中点评分的含义不确定（不适用 vs. 两极都适用）；低个人相关性元素的可变感知。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 6–7, 17)]]
 > - **适用边界** 个别化引发网格无法进行直接量化组间比较——只能通过汇总测量（如认知复杂性）；完全从受访者引发的网格是该个体最有效的表征，但往往不能满足研究需要的跨受试者复制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 16)]]
 > - **误用风险** 将 repertory grid 作为纯粹的数据收集工具而不考虑 [[Personal Construct Theory]] 理论基础；在引发[[Construct|构念]]的个别化网格之间直接进行量化比较；不考虑双极性确保就做出关于构念对立极点的推断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 16–18)]]
-> - **补救方式** 使用对立面方法确保构念双极性（Epting 等, 1971）；仔细选择同质元素集以减少中点评分问题；对新构建念的对立面进行仔细追问以避免"弯曲"构念（Yorke, 1978）；对提供构念进行单维性检验（Bell, 2000）；在小样本上谨慎对待区分度和难度的计算结果。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 16–17)]]
+> - **补救方式** 使用对立面方法确保构念双极性（Epting et al., 1971）；仔细选择同质元素集以减少中点评分问题；对新构建念的对立面进行仔细追问以避免"弯曲"构念（Yorke, 1978）；对提供构念进行单维性检验（Bell, 2000）；在小样本上谨慎对待区分度和难度的计算结果。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 16–17)]]
 
 ---
 
