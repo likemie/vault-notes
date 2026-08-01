@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -76,6 +77,6 @@ updated: 2026-05-26
 ## 相关概念／政策
 
 > [!example]
-> - [[Cultural Diplomacy]] — ASCRR/VOKS 的书籍交换和学者互访是 20 世纪早期以教育为载体的文化外交实践先例
+> - [[Cultural Diplomacy]] — ASCRR/VOKS 的书籍交换和学者互访是 20 世纪早期以教育为载体的文化外交[[Praxis|实践]]先例
 > - [[John Dewey's 1928 Visit to the Soviet Union]] — ASCRR 组织的最具影响力的交流活动
 

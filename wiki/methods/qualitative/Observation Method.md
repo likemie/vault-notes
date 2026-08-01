@@ -10,9 +10,9 @@ summary: "教育研究中基础的资料收集方法，通过系统地看和记�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 41
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -20,6 +20,7 @@ tags:
   - theme/observation
 related_concepts:
   - "[[Causality]]"
+  - "[[Dialogue in Education]]"
   - "[[Questionnaire]]"
   - "[[Ecological Validity]]"
   - "[[Epistemology]]"
@@ -29,10 +30,12 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Reliability]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Praxis]]"
   - "[[Computer Simulation]]"
   - "[[Emergence]]"
   - "[[Informed Consent]]"
   - "[[Research Question]]"
+  - "[[Growth]]"
   - "[[Flanders Interaction Analysis Categories]]"
   - "[[Rating Scale]]"
   - "[[Construct Validity]]"
@@ -76,7 +79,7 @@ updated: 2026-07-23
 
 > [!method-scope] 方法范围
 > - **研究对象** 研究对象的言语、行为等外显表现，以及事物的状况、运行过程、机制
-> - **问题类型** 适合回答描述性问题、过程性问题和[[Causality|因果关系]]探索。观察的对象可以是事实（如教室书籍数量）、正在发生的事件（如师生对话量）或行为与品质（如教师友善程度）
+> - **问题类型** 适合回答描述性问题、过程性问题和[[Causality|因果关系]]探索。观察的对象可以是事实（如教室书籍数量）、正在发生的事件（如师生[[Dialogue in Education|对话]]量）或行为与品质（如教师友善程度）
 > - **分析单位** 个体行为、课堂互动、群体活动、组织过程等
 > - **输出形式** 定性数据（文字、图形、录音录像）或定量数据（频数、百分比、等级分数）
 
@@ -123,7 +126,7 @@ updated: 2026-07-23
 > - **了解教育现象的发展过程和机制** 系统全面的观察有利于获得关于事物是什么、怎么样以及运行过程等方面的客观事实材料
 > - **获得典型、真实的数据资料** 基于[[Hypothesis|研究假设]]进行观察，利用各种手段和工具收集较客观真实的[[Primary and Secondary Documents|第一手资料]]
 > - **发现新现象、新问题** 观察中可能出现研究假设之外的[[Variable|变量]]，为修订或提出新假设提供经验依据
-> - **检验假设** 通过观察获得教育实践中各种相互关系的信息，结合实证方法处理数据，检验研究命题或理论假设
+> - **检验假设** 通过观察获得教育[[Praxis|实践]]中各种相互关系的信息，结合实证方法处理数据，检验研究命题或理论假设
 
 ### 科学观察的特点与要求
 
@@ -291,7 +294,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 >     - **补充信息** 可能需要补充观察记录的其他信息
 >     - **观察数据的处理和分析**
 
-在实践层面，还需决定基本事项：是站还是坐、是否在环境中移动（如跟踪一名学生）、站在或坐在哪里（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1 节]]）。
+在[[Praxis|实践]]层面，还需决定基本事项：是站还是坐、是否在环境中移动（如跟踪一名学生）、站在或坐在哪里（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1 节]]）。
 
 ### 实施程序
 
@@ -312,7 +315,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 > 通过文字、图形、记号、符号、录音、录像等形式收集数据，主要用于定性分析（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.3）。
 
 > [!feature] 描述观察的三种方法
-> - **日记描述法（Diary Description）** 主要用于长期记录儿童个体成长发展的变化过程和原因。[[Jean Piaget|皮亚杰]]以自己三个孩子为观察对象，出版了《儿童智力的起源》等三本著作
+> - **日记描述法（Diary Description）** 主要用于长期记录儿童个体[[Growth|成长]]发展的变化过程和原因。[[Jean Piaget|皮亚杰]]以自己三个孩子为观察对象，出版了《儿童智力的起源》等三本著作
 > - **轶事记录法（Anecdotal Record）** 着重记录某种有价值的行为，可以是有主题或无主题的，随时记录感兴趣的问题，不受时间条件限制
 > - **连续记录法（Continuous Recording）** 对学生行为做更详细、更完善的记录，要求在较长时间内持续不断地记录
 

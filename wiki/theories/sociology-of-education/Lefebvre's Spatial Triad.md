@@ -8,9 +8,9 @@ aliases:
 summary: "Henri Lefebvre（1991）提出的空间分析框架，将空间分为感知空间（空间实践）、构想空间（空间表征）和活生生空间（表征性空间）三个辩证互动的维度，为理解大学教师如何在区域空间中桥接产学政网络提供了分析工具"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 4
+theory_related_count: 5
 theory_related_level: 0
-theory_related_stars: "☆"
+theory_related_stars: ""
 theory_related_color: "#e5e7eb"
 tags:
   - theme/spatial-theory
@@ -18,6 +18,7 @@ tags:
   - theme/regional-development
 related_concepts:
   - "[[Analytic Framework]]"
+  - "[[Praxis]]"
   - "[[Structural Holes]]"
 related_theories: []
 related_methods: []
@@ -38,12 +39,12 @@ updated: 2026-06-11
 ## 核心主张
 
 > [!abstract]
-> Lefebvre 的空间三元辩证法（Spatial Triad）是 Henri Lefebvre 在《空间的产生》（The Production of Space, 1991）中提出的空间[[Analytic Framework|分析框架]]，其核心主张是：空间不是中性的容器或被动的背景，而是由社会关系和实践**主动产生**的。空间通过三个辩证互动的维度构成：感知空间（perceived space）、构想空间（conceived space）和活生生空间（lived space）。Cai、Gao & Liu（2025）将这一框架应用于[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高等教育空间的分析，揭示了关键节点教师如何在三个空间维度中桥接学术、产业和政府网络[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]。
+> Lefebvre 的空间三元辩证法（Spatial Triad）是 Henri Lefebvre 在《空间的产生》（The Production of Space, 1991）中提出的空间[[Analytic Framework|分析框架]]，其核心主张是：空间不是中性的容器或被动的背景，而是由社会关系和[[Praxis|实践]]**主动产生**的。空间通过三个辩证互动的维度构成：感知空间（perceived space）、构想空间（conceived space）和活生生空间（lived space）。Cai、Gao & Liu（2025）将这一框架应用于[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高等教育空间的分析，揭示了关键节点教师如何在三个空间维度中桥接学术、产业和政府网络[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]。
 
 ---
 ## 三个维度
 
-> [!line-a] 感知空间（Perceived Space）——空间实践
+> [!line-a] 感知空间（Perceived Space）——空间[[Praxis|实践]]
 > 日常的、物质性的空间实践。在 [[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] 语境中表现为物理基础设施（高铁、桥梁）、跨境通勤、实验室设备共享等可见的物质流动。Cai 等（2025）指出，GBA 的感知空间通过连接城市区域和行政边界的"路线、路径和网络"而获得物质存在。
 
 > [!line-a] 构想空间（Conceived Space）——空间表征

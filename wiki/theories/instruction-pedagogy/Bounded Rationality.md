@@ -5,7 +5,7 @@ aliases:
 summary: "解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -14,6 +14,7 @@ tags:
 - decision-making
 - organizational-theory
 related_concepts:
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -38,7 +39,7 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> 有限理性（Bounded Rationality）是 [[Herbert A. Simon]]（1969/1996）在 *The Sciences of the Artificial* 中提出的理论，其基本主张是：专业任务如教学不是可以在输入-输出模型中概念化的简单任务，而是**复杂任务**。复杂专业任务的共同特征是：**任务的复杂性大于专业人员的实践能力([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])**。
+> 有限理性（Bounded Rationality）是 [[Herbert A. Simon]]（1969/1996）在 *The Sciences of the Artificial* 中提出的理论，其基本主张是：专业任务如教学不是可以在输入-输出模型中概念化的简单任务，而是**复杂任务**。复杂专业任务的共同特征是：**任务的复杂性大于专业人员的[[Praxis|实践]]能力([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])**。
 >
 > > "A common characteristic of complex professional tasks is that the complexity of the task is bigger than the practical capacity of the professional."（Simon, 1969/1996，引自 Qvortrup, 2019, p.6）
 
@@ -68,7 +69,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 有限理性理论虽然挑战了完全理性[[Hypothesis|假设]]，但仍在理性选择框架内运作——更激进的理论（如 Luhmann 的[[Luhmann's Systems Theory|系统理论]]、实践[[Epistemology|认识论]]）可能从根本上质疑"理性"作为理解专业实践的核心概念
+> - 有限理性理论虽然挑战了完全理性[[Hypothesis|假设]]，但仍在理性选择框架内运作——更激进的理论（如 Luhmann 的[[Luhmann's Systems Theory|系统理论]]、[[Praxis|实践]][[Epistemology|认识论]]）可能从根本上质疑"理性"作为理解专业实践的核心概念
 
 ## 应用领域
 

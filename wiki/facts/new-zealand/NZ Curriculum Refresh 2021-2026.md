@@ -10,7 +10,7 @@ type: fact
 subtype: policy
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Outcomes-based Education]]"
   - "[[Big Ideas]]"
+  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Recontextualization]]"
@@ -82,7 +83,7 @@ updated: 2026-06-06
 >
 > **「知道」**。通过更具体的学科情境和概念来充实学习和教学。例如，数学和统计识别了数字、代数、测量、空间、统计和概率。
 >
-> **「做」**。概述学生在应用知识时可能使用的学科实践和技能。
+> **「做」**。概述学生在应用知识时可能使用的学科[[Praxis|实践]]和技能。
 >
 > 这三个元素声称不是分开的，也不是按顺序的，应该被编织在一起。
 

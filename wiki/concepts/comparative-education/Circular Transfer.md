@@ -6,7 +6,7 @@ aliases:
 summary: "Steiner-Khamsi 提出的概念，指教育思想或实践在出借者和借用者之间来回移动的过程，如殖民地在独立前被用作教育改革的实验室"
 type: concept
 domain: "comparative-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ tags:
   - theme/educational-transfer
   - theme/comparative-education
 related_concepts:
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Policy Borrowing]]"
   - "[[Recontextualization]]"
@@ -38,7 +39,7 @@ updated: 2026-06-07
 ## 定义
 
 > [!info]
-> 循环转移是 Steiner-Khamsi (2000) 提出的概念，指某些教育思想或实践在出借者和借用者之间来回移动的过程。这一概念挑战了单向转移的[[Hypothesis|假设]]，揭示了教育思想流通的复杂轨迹（引自 Beech & Artopoulos, 2015）。
+> 循环转移是 Steiner-Khamsi (2000) 提出的概念，指某些教育思想或[[Praxis|实践]]在出借者和借用者之间来回移动的过程。这一概念挑战了单向转移的[[Hypothesis|假设]]，揭示了教育思想流通的复杂轨迹（引自 Beech & Artopoulos, 2015）。
 
 ---
 

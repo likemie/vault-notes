@@ -9,7 +9,7 @@ title: "Argument_Hartmann_2022_CorporateEducation"
 argument_key: "Argument_Hartmann_2022_CorporateEducation"
 argument_display_title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_kind: "book"
-argument_related_count: 12
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -26,7 +26,9 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Corporate University]]"
   - "[[Document]]"
+  - "[[Dialogue in Education]]"
   - "[[Further Education]]"
+  - "[[Praxis]]"
   - "[[Lifelong Learning]]"
   - "[[Research Scope]]"
   - "[[Varieties of Capitalism]]"
@@ -107,7 +109,7 @@ Berger & Luckmann(1966)补充了一个关键洞察：合法性不仅告诉你"�
 > [!info]
 > - **研究设计** 质性[[Case Study|案例研究]]，基于作者 2016–2017 年进行的跨国公司（制药行业）[[Corporate Education|企业教育]]策略试点研究（[[Pilot Testing|pilot study]]）
 > - **数据来源** 对跨国制药公司的[[Semi-structured Interview|半结构化访谈]]（[[Document|文献]]引用编号 interview 1–24），辅以管理学和产业社会学的研究文献
-> - **分析路径** 以 Weber 式社会学制度主义（关键是三种同构类型）为分析透镜，结合产业社会学对 MNC 组织类型的分类，在理论框架与经验材料之间来回对话
+> - **分析路径** 以 Weber 式社会学制度主义（关键是三种同构类型）为分析透镜，结合产业社会学对 MNC 组织类型的分类，在理论框架与经验材料之间来回[[Dialogue in Education|对话]]
 > - **性质** 探索性试点研究，旨在开辟新研究议程而非提供确定性结论
 
 
@@ -157,7 +159,7 @@ IVET 是德国双元学徒制这类教育——学徒一半时间在公司、一
 
 这类公司总部牢牢控制全球运作，追求标准化以降低复杂性。企业教育以高度标准化的"学校型"为主，确保全球统一合规。这种模式支持 World Business 论题——公司确实能创造独立于国家的跨国教育空间。
 
-> 例：一家美国国际型制药公司生产"重磅炸弹"（blockbuster）药物——高度标准化的大规模生产，不需要中等技术工人有多少判断力。它的培训就像麦当劳汉堡大学——全球每一个分支的操作流程都一模一样。这类公司总部多在美国（自由市场经济体），其企业教育带有美国管理实践的烙印，因此有地缘政治维度(pp.187–188)。
+> 例：一家美国国际型制药公司生产"重磅炸弹"（blockbuster）药物——高度标准化的大规模生产，不需要中等技术工人有多少判断力。它的培训就像麦当劳汉堡大学——全球每一个分支的操作流程都一模一样。这类公司总部多在美国（自由市场经济体），其企业教育带有美国管理[[Praxis|实践]]的烙印，因此有地缘政治维度(pp.187–188)。
 
 **跨国型 MNC（高整合 + 高本地响应）**
 

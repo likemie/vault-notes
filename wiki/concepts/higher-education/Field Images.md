@@ -6,7 +6,7 @@ aliases:
 summary: "Bloch & Mitterle 提出的概念，将分层从静态的位置分布重新理解为由排名视觉秩序驱动的持续过程，排名通过教导行动者看见层级来制造自我实现的预言"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Discursive Stratification]]"
+  - "[[Praxis]]"
   - "[[Performativity of Measurement]]"
 related_theories: []
 related_methods: []
@@ -66,7 +67,7 @@ updated: 2026-06-01
 ## 概念辨析
 
 > [!example]
-> - vs [[Discursive Stratification]]：话语分层是更广义的分析路径——强调所有话语实践如何建构社会等级。[[Champ|场域]]图像是话语分层的一种**特定机制**——通过制造垂直的视觉秩序来具体操作等级建构
+> - vs [[Discursive Stratification]]：话语分层是更广义的分析路径——强调所有话语[[Praxis|实践]]如何建构社会等级。[[Champ|场域]]图像是话语分层的一种**特定机制**——通过制造垂直的视觉秩序来具体操作等级建构
 > - vs [[Performativity of Measurement]]：测量的履行性关注指标如何改变被测量者的行为——教授因 [[Research Excellence Framework|REF]] 而改变研究方向。场域图像关注更宏观的认知层面——排名如何改变整个社会对高等教育层级秩序的认知框架
 > - vs 社会分层（social stratification）：社会分层通常被理解为客观的位置分布。场域图像强调位置分布的**认知前提**——人们必须首先"看见"层级，层级才能产生社会效应
 

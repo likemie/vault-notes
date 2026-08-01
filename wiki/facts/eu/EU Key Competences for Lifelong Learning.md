@@ -11,9 +11,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Council of the European Union
 tags:
@@ -26,7 +26,9 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Employability]]"
+  - "[[Praxis]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -63,7 +65,7 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> 该框架推动课程从知识和技能传授模型转向多功能、跨领域、多维能力发展模型。这要求重新思考课程和教学大纲、教学实践以及评价策略，尤其要评估学生能否把课堂学习应用到日常生活中([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.40-41]])。
+> 该框架推动课程从知识和技能传授模型转向多功能、跨领域、多维能力发展模型。这要求重新思考课程和教学大纲、教学[[Praxis|实践]]以及评价策略，尤其要评估学生能否把课堂学习应用到日常生活中([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.40-41]])。
 
 ## 效果与评价
 
@@ -78,7 +80,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> 关键争议在于多维能力如何被有效干预和有效评估。例如，积极读写态度、批判性和建设性对话倾向、审美品质欣赏、与他人互动兴趣、语言社会责任使用等目标，很难像词汇、语法、阅读和写作基础技能那样评估([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.40-41]])。
+> 关键争议在于多维能力如何被有效干预和有效评估。例如，积极读写态度、批判性和建设性[[Dialogue in Education|对话]]倾向、审美品质欣赏、与他人互动兴趣、语言社会责任使用等目标，很难像词汇、语法、阅读和写作基础技能那样评估([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.40-41]])。
 
 ## 相关概念／理论
 

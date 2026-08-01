@@ -9,7 +9,7 @@ aliases:
 summary: "教育研究中指原因导致效果的关系，涵盖决定论因果与概率因果两种刻画方式，涉及时间顺序、排除混淆变量、反事实推理和因果过程等核心议题"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Purpose Statement]]"
   - "[[Research Question]]"
+  - "[[Ways of Knowing]]"
   - "[[Counterfactual]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
@@ -130,7 +131,7 @@ updated: 2026-07-13
 > | 维度 | 决定论因果性 | [[Probabilistic Causation\|概率因果性]] |
 > |------|-----------|-------------------------------|
 > | 因果关系 | X 必然导致 Y | X 提高 Y 发生的可能性 |
-> | 认知方式 | 逻辑演绎 | 归纳推断 |
+> | [[Ways of Knowing\|认知方式]] | 逻辑演绎 | 归纳推断 |
 > | 确定性 | 100% 确定 | 不完全确定 |
 > | 社会科学适用性 | 较低——过度简化多重因果现实 | 较高——承认语境和不确定性 |
 > | 原因-效果关系 | 预设线性、规则关系 | 可能呈现非线性、不规则模式 |

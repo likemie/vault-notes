@@ -7,7 +7,7 @@ aliases:
 summary: "研究知识进入政策制定过程的多种路径，Weiss（1991b）将其归纳为研发、问题解决、互动和战术四种模型；研究利用的效果受政治可接受性、传播方式和研究者-决策者文化张力等多重因素影响。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 3
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,8 @@ tags:
 related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
+  - "[[Dialogue in Education]]"
+  - "[[Praxis]]"
   - "[[Positivism]]"
 related_theories: []
 related_methods: []
@@ -47,7 +49,7 @@ updated: 2026-06-17
 > [!feature] 研究利用的四种经典模型（Weiss, 1991b）
 > - **研究与开发模型（R&D Model）** 研究通过线性阶段——[[Blue Skies Research|基础研究]]→[[Evaluation Research|应用研究]]→开发→推广——逐步转化为政策方案。隐喻是"流水线"。
 > - **问题解决模型（Problem-Solving Model）** 当政策制定者面临特定问题时，他们主动调用现有研究来寻找答案。隐喻是"工具箱"。
-> - **互动模型（Interactive Model）** 研究与政策在持续对话中相互塑造——研究者提供证据和框架，决策者提供问题和实践约束。隐喻是"对话"。
+> - **互动模型（Interactive Model）** 研究与政策在持续[[Dialogue in Education|对话]]中相互塑造——研究者提供证据和框架，决策者提供问题和[[Praxis|实践]]约束。隐喻是"对话"。
 > - **战术模型（Tactical Model）** 研究被策略性地引用，不是作为决策的信息基础，而是作为支持既定立场的修辞资源或拖延决策的工具。隐喻是"武器"。
 
 此外，Alkin 等（1991）还区分了**研究利用**与**评估利用**的差异。研究者需要判断其研究的最适当利用形式，并根据利用模型调整传播策略。

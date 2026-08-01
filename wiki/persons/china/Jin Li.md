@@ -7,7 +7,7 @@ summary: "华人教育研究者，布朗大学教授，以中西文化学习模�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 34
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -18,6 +18,7 @@ tags:
 - field/cultural-psychology
 - field/learning-science
 related_concepts:
+  - "[[Growth]]"
   - "[[Didaktik]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Nerd]]"
@@ -26,6 +27,7 @@ related_concepts:
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
   - "[[Western Learner]]"
+  - "[[Praxis]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
@@ -41,6 +43,7 @@ related_concepts:
   - "[[Faust]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Paradigm]]"
+  - "[[Democratic Education]]"
 related_theories:
   - "[[Cultural Models]]"
   - "[[Confucian Learning Tradition]]"
@@ -54,7 +57,8 @@ related_persons:
   - "[[Mencius]]"
   - "[[Confucius]]"
   - "[[John Dewey]]"
-related_facts: []
+related_facts:
+  - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
@@ -74,8 +78,8 @@ updated: '2026-06-08'
 ## 生平与职涯
 
 > [!note]-
-> - 中国成长，大学阶段学习德语文学([[Argument_Li_2012_Cambridge|Li, 2012, p.xiii]])
-> - 1977 年通过文革后首届高考，录取率约 4.7%（5,700,000 人报考, 27,000 人录取），被第二志愿——一所以外语著称的高校——录取([[Argument_Li_2012_Cambridge|Li, 2012, pp.2–3]])
+> - 中国[[Growth|成长]]，大学阶段学习德语文学([[Argument_Li_2012_Cambridge|Li, 2012, p.xiii]])
+> - 1977 年通过文革后首届[[Gaokao|高考]]，录取率约 4.7%（5,700,000 人报考, 27,000 人录取），被第二志愿——一所以外语著称的高校——录取([[Argument_Li_2012_Cambridge|Li, 2012, pp.2–3]])
 > - 大学四年主要由西德外教授课，课程设置贴近德国[[Didaktik|教学理论]]，实质接受了具有德国色彩的博雅教育([[Argument_Li_2012_Cambridge|Li, 2012, p.3]])
 > - 大学期间学习德语语言、文学与西方艺术史，阅读歌德、席勒、海涅、卡夫卡、布莱希特等大量德语作家，同时接触莫扎特、贝多芬等西方音乐([[Argument_Li_2012_Cambridge|Li, 2012, p.4]])
 > - 大学毕业后留校教授德语数年，随后因婚姻移民美国([[Argument_Li_2012_Cambridge|Li, 2012, pp.5–6]])
@@ -120,7 +124,7 @@ Li 在第 2 章中系统追溯了西方与东亚两种学习文化的知识根�
 4. 由此导出**[[Western Learner|西方学习者]]**模型：以心智为首要、以好奇心为驱动、以探究为过程、以掌握世界为终极目标([[Argument_Li_2012_Cambridge|Li, 2012, pp.33-35]])
 
 **[[Confucian Learning Tradition|儒家学习传统]]**以完善自我（perfect self）为核心，向下延伸为四个主题：
-1. 完善自我（Perfect Self）——自我而非世界，是认知、反思和实践的对象
+1. 完善自我（Perfect Self）——自我而非世界，是认知、反思和[[Praxis|实践]]的对象
 2. [[Take the World Upon Oneself|以天下为己任]]（Take the World Upon Oneself）——从[[Self-Cultivation|修身]]出发，逐步扩展至齐家、治国、平天下
 3. [[Learning Virtues|学习美德]]（Learning Virtues）——七种德目（诚心、勤奋、刻苦、恒心、专心、尊师、[[Humility in Learning|谦虚]]）构成学习者的个人能动性
 4. [[Action Better Than Words|行勝於言]]（Action Better Than Words）——沉默和行动优先于言语表达
@@ -173,7 +177,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 
 ### 重读儒家：从批判到重新发现
 
-在哈佛燕京图书馆，Li 第一次亲自逐字阅读了《论语》、《[[Mencius|孟子]]》等儒家原著。她发现，自己在中国成长时被告知的关于[[Confucius|孔子]]的内容，与孔子本人的文字"如同昼夜之别"（like day and night）([[Argument_Li_2012_Cambridge|Li, 2012, p.9]])。
+在哈佛燕京图书馆，Li 第一次亲自逐字阅读了《论语》、《[[Mencius|孟子]]》等儒家原著。她发现，自己在中国[[Growth|成长]]时被告知的关于[[Confucius|孔子]]的内容，与孔子本人的文字"如同昼夜之别"（like day and night）([[Argument_Li_2012_Cambridge|Li, 2012, p.9]])。
 
 她开始追问：如果中国人的智力不比地球上任何人差，那为什么中国人尊崇孔子 2,500 年？为什么他被历代帝王和学者称为"万世师表"？难道在她之前活过的所有中国人都是错的——甚至愚蠢吗？([[Argument_Li_2012_Cambridge|Li, 2012, p.9]])
 
@@ -201,6 +205,6 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 > [!warning]
 > - Li 的研究以自传体[[Ethnography|民族志]]（[[Autoethnography]]）为重要方法来源，第 1 章的个人经历构成了全书论证的经验基础。这种方法的优势在于深度与亲历性，但将个人体验直接上升为[[Cultural Models|文化模型]]，存在从"我"到"我们"的归纳跳跃（Li 本人在前言中承认研究聚焦"一般文化取向"的局限，见 Li, 2012, p.xi）
 > - 六主题框架的提炼过程未在第 1 章中被方法论化——Li 没有说明她是如何从几百条童年回忆中筛选出恰好六个主题的，筛选标准不够透明
-> - "学习偏惠高能力者"作为西方学习传统第五主题，可能过于简化了西方教育内部对平等主义的长期追求——从[[John Dewey|杜威]]的民主教育到当代多元文化教育运动，西方传统内部也存在大量反例
+> - "学习偏惠高能力者"作为西方学习传统第五主题，可能过于简化了西方教育内部对平等主义的长期追求——从[[John Dewey|杜威]]的[[Democratic Education|民主教育]]到当代多元文化教育运动，西方传统内部也存在大量反例
 
 ---

@@ -9,9 +9,9 @@ summary: "一种高度系统化的观察方法，研究者预先设计观察类�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 17
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -19,15 +19,19 @@ tags:
   - paradigm/quantitative
   - source/textbook
 related_concepts:
-  - "[[Operationalization]]"
   - "[[Hypothesis]]"
+  - "[[Operationalization]]"
   - "[[Epistemology]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Rating Scale]]"
+  - "[[Construct]]"
+  - "[[Definition of Terms]]"
+  - "[[Variable]]"
   - "[[Research Question]]"
   - "[[Fitness for Purpose]]"
   - "[[Halo Effect]]"
-  - "[[Construct]]"
+  - "[[Emergence]]"
+  - "[[Dialogue in Education]]"
   - "[[Causality]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -85,10 +89,10 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 
 > [!feature] Dyer 的结构化观察九项原则
 > - **环境选择** 确保目标行为有机会发生
-> - **清晰明确的测量** 潜在特质或[[Construct|构念]]被操作化时须有明确的操作性定义
-> - **可管理的变量数量** 足以证明效度，但不可多到使录入不可靠
+> - **清晰明确的测量** 潜在特质或[[Construct|构念]]被[[Operationalization|操作化]]时须有明确的[[Definition of Terms|操作性定义]]
+> - **可管理的[[Variable|变量]]数量** 足以证明效度，但不可多到使录入不可靠
 > - **公开或隐蔽观察** 决定被观察者是否知晓观察
-> - **连续、时间序列或随机观察** 选择最适合研究问题的时序策略
+> - **连续、时间序列或随机观察** 选择最适合[[Research Question|研究问题]]的时序策略
 > - **行为类别** 确定要观察的行为类型
 > - **观察人数** 确定同时观察多少人
 > - **变量数量** 确定需要收集多少变量的数据
@@ -135,7 +139,7 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 > [!proc] 结构化观察的练习清单
 > 1. **数据录入速度** 在适当类别中快速准确录入数据（Simpson & Tuson, 2003, p. 10）
 > 2. **定位与移动** 站在哪里、聚焦什么、如何移动、是否站立或坐下
-> 3. **现场编码** 练习现场快速编码
+> 3. **现场[[Coding in Qualitative Research|编码]]** 练习现场快速编码
 > 4. **不引人注目的观察** 不引起被观察者过度意识，避免眼神接触
 > 5. **角色管理** 在课堂或环境中扮演适当角色
 > 6. **隐蔽或间接观察** 练习不直接凝视某人，或不被注意到正在观察
@@ -151,15 +155,15 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 > |---|---|---|
 > | **准备时间** | 长（需建立类别体系） | 短 |
 > | **分析时间** | 短（类别已内建于计划表） | 长 |
-> | **选择性的来源** | 研究者议程（可能遗漏计划表外的现象） | 情境本身（关键议题从观察中涌现） |
-> | **功能** | 假设验证 | 假设生成 |
+> | **选择性的来源** | 研究者议程（可能遗漏计划表外的现象） | 情境本身（关键议题从观察中[[Emergence\|涌现]]） |
+> | **功能** | [[Hypothesis\|假设]]验证 | 假设生成 |
 
 ---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要对行为频率和模式进行量化描述的研究；需要跨情境或跨群体比较行为发生率的研究；检验关于行为发生条件的明确[[Hypothesis|假设]]；课堂互动研究（如师生对话类型的频率分布）。
+> - **适合使用** 需要对行为频率和模式进行量化描述的研究；需要跨情境或跨群体比较行为发生率的研究；检验关于行为发生条件的明确[[Hypothesis|假设]]；课堂互动研究（如师生[[Dialogue in Education|对话]]类型的频率分布）。
 > - **谨慎使用** 研究者对观察对象和情境尚不够了解时（类别设计可能遗漏重要行为）；行为的意义高度依赖情境脉络时；需要理解行为背后的动机、意图和主观体验时。
 > - **不适合使用** 探索性研究（此时应采用非结构化或半结构化观察）；捕捉社会互动的动态演变和长期发展过程；研究罕见或不常发生的行为。
 
@@ -168,8 +172,8 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 观察类别的选择性（排除不在计划表上的行为）；观察者的期望效应；编码疲劳导致的不一致；反应性（被观察者知道被观察而改变行为）
-> - **适用边界** 方法是行为主义的，排除被观察者的意图或动机；个体的主体性被聚合分数所淹没；假设观察到的行为提供了潜在感受的证据，可能产生效度问题；忽视时间性和空间性等情境因素，行为可能是情境特定的；对行为采取一系列定格快照（freeze-frame snapshots），违反了行动的流动性原则（Stubbs & Delamont, 1976）
+> - **偏误来源** 观察类别的选择性（排除不在计划表上的行为）；观察者的期望效应；[[Coding in Qualitative Research|编码]]疲劳导致的不一致；反应性（被观察者知道被观察而改变行为）
+> - **适用边界** 方法是行为主义的，排除被观察者的意图或动机；个体的主体性被聚合分数所淹没；[[Hypothesis|假设]]观察到的行为提供了潜在感受的证据，可能产生效度问题；忽视时间性和空间性等情境因素，行为可能是情境特定的；对行为采取一系列定格快照（freeze-frame snapshots），违反了行动的流动性原则（Stubbs & Delamont, 1976）
 > - **误用风险** 将[[Operationalization|操作化]]指标等同于复杂[[Construct|构念]]本身；在没有额外数据来源的情况下做出解释或[[Causality|因果推断]]；忽视定格快照对行动流动性原则的违反
 > - **补救方式** 充分的预试和观察者培训；测量[[Inter-Rater Reliability|评分者间信度]]（≥90%）；结合其他数据收集方法（如访谈）进行[[Triangulation|三角互证]]；跟踪被观察者在不同情境和时段的完整行为画像（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.2, 23.12 节]]）
 

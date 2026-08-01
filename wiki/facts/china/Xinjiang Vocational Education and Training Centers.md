@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/ethnic-minorities
 related_concepts:
   - "[[Zhonghua Minzu]]"
+  - "[[Praxis]]"
   - "[[Settler Colonialism]]"
   - "[[Sinicisation]]"
 related_theories: []
@@ -54,7 +55,7 @@ updated: 2026-05-26
 > 新疆职业技能教育培训中心是一个大规模拘留设施网络，被官方描述为提供职业技能培训、法律教育和语言教育的机构。其主要特征包括([[Argument_Bulag_2024_CE|Bulag, 2024, p.97]])：
 > - 被拘留者估计约一百万维吾尔和其他穆斯林少数民族。
 > - 被拘留者被强制要求学习普通话（重新定义为"国家通用语言"）和儒家经典——如《三字经》。
-> - 中心内系统性地压制维吾尔语使用和宗教实践（Finley, 2019，引自 [[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.64]]）。
+> - 中心内系统性地压制维吾尔语使用和宗教[[Praxis|实践]]（Finley, 2019，引自 [[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.64]]）。
 
 
 ## 时间线
@@ -82,7 +83,7 @@ updated: 2026-05-26
 > 教培中心是 [[Sinicisation]] 政策的极端体现([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.64]])：
 > - 语言层面：强制被拘留者学习普通话。
 > - 文化层面：强制学习儒家经典（如《三字经》）。
-> - 宗教层面：系统性地压制伊斯兰宗教实践。
+> - 宗教层面：系统性地压制伊斯兰宗教[[Praxis|实践]]。
 > - 三者共同构成了以汉文化传统为核心重新定义"中国性"的文化同化工程。
 
 

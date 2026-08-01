@@ -44,6 +44,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
+  - "[[Praxis]]"
+  - "[[Active Learning]]"
   - "[[Interaction Effect]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Nordic Model of Education]]"
@@ -59,6 +61,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Accounts]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -81,7 +84,7 @@ title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -244,7 +247,7 @@ issuing_organization: ""
 
 > [!dimension] 微观决策层面的两种表现
 > - **课程改革**
->   德国基于 PISA 结果的课程改革话语围绕学生如何将知识和技能应用于解决多种情境中的相关问题。知识掌握不再被视为判断学业成功的关键指标；学生通过课程学习获得的学习能力成为课程评价的焦点。Neumann et al.（2010）详细讨论了 PISA 对德国科学教育的影响：PISA 是德国 **NES 课程（Nationale Bildungsstandards，国家教育标准）**建设的基础，NES 纳入了 PISA 测试框架中的科学素养概念，包括理解与实践与科学相关的情境，特别强调科学在日常生活中的关键角色。
+>   德国基于 PISA 结果的课程改革话语围绕学生如何将知识和技能应用于解决多种情境中的相关问题。知识掌握不再被视为判断学业成功的关键指标；学生通过课程学习获得的学习能力成为课程评价的焦点。Neumann et al.（2010）详细讨论了 PISA 对德国科学教育的影响：PISA 是德国 **NES 课程（Nationale Bildungsstandards，国家教育标准）**建设的基础，NES 纳入了 PISA 测试框架中的科学素养概念，包括理解与[[Praxis|实践]]与科学相关的情境，特别强调科学在日常生活中的关键角色。
 > - **学制调整**
 >   瑞士通过 HarmoS 协调了国家教育结构，将义务教育从 9 年延长至 11 年（2006 年），并扩展了学校体系以对接 PISA 测试周期标准（Bieber & Martens, 2011）。
 
@@ -278,7 +281,7 @@ issuing_organization: ""
 > PISA 通过比较学生在阅读、数学、科学和问题解决等领域的知识和技能来评估他们是否具备充分参与社会所需的能力（OECD, 2010）。各国回应 PISA 教育公平框架要求时，通常采用基于 PISA 能力要求的政策回应，强调教育质量的符合性（conformity of educational quality）而非仅仅数量公平。典型例子是日本 2008 年新《国家学习课程》（学習指導要領, Gakushū Shidō Yōryō, 又称 National Learning Curriculum / Course of Study）：保留了 1998 年课程中提出的生存力（生きる力, ikiru chikara, 又称 zest for living / passion for life）概念，但提供了新的学力定义，包含三要素：
 > - 扎实掌握基础知识和技能。
 > - 培养思维、判断、表达及其他解决问题所需的能力。
-> - 培养主动学习态度和发展学生个性（Ninomiya, 2019）。
+> - 培养[[Active Learning|主动学习]]态度和发展学生个性（Ninomiya, 2019）。
 
 ---
 
@@ -394,7 +397,7 @@ issuing_organization: ""
 > "In justifying the argument that PISA is a reliable barometer of the national educational systems, the central government officials' texts particularly emphasize PISA's scientific nature. In so doing, it is repeatedly contrasted with many earlier international studies, which are deemed political in nature. Thus, scientificity is used as a self-evident premise on which the argument of PISA's [[Reliability]] is built."（Rautalin & Alasuutari, 2009, p.546）
 
 > [!citation-card]- 触发政策回应的两个条件
-> Martens & Niemann（2013）："the relation between the self-perception and the actual results needs to be taken into account, and the issue — in our case, education policy — needs to be framed as problematic within the national context."
+> Martens & Niemann（2013）："the relation between the self-perception and the actual results needs to be taken into [[Accounts|account]], and the issue — in our case, education policy — needs to be framed as problematic within the national context."
 
 > [!citation-card]- 欧洲 PISA 与欧盟政策的交织
 > "In Europe, it is particularly difficult to isolate the influence of PISA from the impact of the initiatives of the European Commission ... the initiatives and recommendations of the OECD and the EU Council and Commission have become more and more intricate in recent years because of the reciprocal influence and closer cooperation of these two international institutions."（Michel, 2017, p.207）
@@ -407,7 +410,7 @@ issuing_organization: ""
 > 当前研究主要集中在欧洲国家，综述无法准确反映其他地区和国家的全球情况。这种区域局限性阻碍了对 [[PISA]] 在全球尺度上影响的全面理解。
 
 > [!warning] 文化偏见
-> 各国在选择[[Reference Society|参考社会]]和外部政策参考过程中存在文化偏见。上海的高 PISA 分数引发了西方国家关注亚洲教育实践，但这些国家可能仍受文化偏见影响，倾向于在非东方文化背景中寻找参考对象。研究 PISA 效应和全球教育改革时，需要认真考虑区域差异和文化因素的影响。
+> 各国在选择[[Reference Society|参考社会]]和外部政策参考过程中存在文化偏见。上海的高 PISA 分数引发了西方国家关注亚洲教育[[Praxis|实践]]，但这些国家可能仍受文化偏见影响，倾向于在非东方文化背景中寻找参考对象。研究 PISA 效应和全球教育改革时，需要认真考虑区域差异和文化因素的影响。
 
 > [!warning] PISA 影响的难以孤立性
 > 在欧洲尤其难以将 PISA 的影响从欧盟委员会日益频繁和重要的倡议中分离出来。[[OECD]] 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。

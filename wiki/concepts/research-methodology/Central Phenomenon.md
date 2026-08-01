@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中所探索或理解的单一概念或想法，是质性目的陈述的核心组成部分，不同于量化研究中对变量间关系或组间比较的聚焦"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Nondirectional Language]]"
   - "[[Central Question]]"
   - "[[Research Question]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -103,7 +104,7 @@ updated: 2026-05-31
 > - 棒球文化——研究体育场员工的工作和交谈(Trujillo, 1992;)
 > - 个体如何在认知上表征艾滋病(Anderson & Spencer, 2002;)
 > - 母亲失去晚期妊娠婴儿后的生活经验和记忆(Lauterbach, 1993; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.126–127]])
-> - 关系性和专业性实践——帮助有学校失败史的学生的教师实践(Frelin, 2015; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.127]])
+> - 关系性和专业性[[Praxis|实践]]——帮助有学校失败史的学生的教师实践(Frelin, 2015; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.127]])
 > - 族裔认同——一位中国移民学生在加拿大中学课程中家庭与学校叙事的交织(Chan, 2010; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.128]])
 > - 身体活动与生活方式的整合——活跃的非洲裔美国女性的行为过程(Harley et al., 2007; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.129–130]])
 

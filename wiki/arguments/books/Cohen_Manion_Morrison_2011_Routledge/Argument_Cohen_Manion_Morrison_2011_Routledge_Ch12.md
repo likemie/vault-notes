@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 33
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -28,7 +28,9 @@ tags:
   - source/textbook
 related_concepts:
   - "[[Document]]"
+  - "[[Areas of Knowledge]]"
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Primary and Secondary Documents]]"
@@ -43,6 +45,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Boarding Schools]]"
   - "[[Realism in International Relations]]"
+  - "[[Dialogue in Education]]"
   - "[[Selectivity]]"
   - "[[External Validity]]"
   - "[[Theoretical Perspective]]"
@@ -55,7 +58,9 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Secondary Analysis]]"
   - "[[Ideology Critique]]"
+  - "[[Discourse Analysis]]"
   - "[[Archival Research]]"
+  - "[[Accounts]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -93,11 +98,11 @@ updated: 2026-07-11
 
 ### 12.1 历史与文献研究的三个知识领域
 
-历史与文献研究方法旨在进入并洞察关于人类社会活动的三个相互关联的知识领域。这三个领域形成了历史与文献研究的[[Epistemology|认识论]]根基。
+历史与文献研究方法旨在进入并洞察关于人类社会活动的三个相互关联的[[Areas of Knowledge|知识领域]]。这三个领域形成了历史与文献研究的[[Epistemology|认识论]]根基。
 
 > [!dimension] 历史与文献研究的三重功能
 > - **研究过去（the past）**
->   无论过去两个世纪的现代史还是更早的时期。研究者试图重建已经发生的事件、制度、实践和观念，作为理解人类教育经验的窗口。教育史覆盖面极广，从全国性按年龄分级的学校系统（不过是近两个世纪的全球性发明）到更早存在的面向群体的学校、面向精英的高等教育机构、以及贯穿有文字记载历史的终身非正式教学实践。
+>   无论过去两个世纪的现代史还是更早的时期。研究者试图重建已经发生的事件、制度、[[Praxis|实践]]和观念，作为理解人类教育经验的窗口。教育史覆盖面极广，从全国性按年龄分级的学校系统（不过是近两个世纪的全球性发明）到更早存在的面向群体的学校、面向精英的高等教育机构、以及贯穿有文字记载历史的终身非正式教学实践。
 > - **研究变迁与延续的过程（change and continuity over time）**
 >   不仅是事件的编年记录，更包括变迁过程中的争议（contestation）与协商（negotiation），以及更广泛的社会、政治、经济和其他语境如何塑造和限制变迁的方向。McCulloch & Richardson（2000）强调，在所有这些案例中，我们都可以调查过去的实践、变迁与延续的过程以及当下的起源。
 > - **探寻当下的起源（origins of the present）**
@@ -264,7 +269,7 @@ updated: 2026-07-11
 > [!case] 三种个人文献的差异使用
 > **日记** 通常在事件后不久产生，提供关于个人和日常生活的细致和私密的证据，且不限于男性。Blodgett（1988）强调日记作为女性历史证据的独特价值。政治日记则是另一个极端：英国政治家 Tony Benn 的日记记录了关于1976年英国教育大辩论政策变化的高度内部信息（Benn, 1990）。日记同时揭示，往往是无意中，关于日记作者自身的大量信息（Pimlott, 2002）。学校日志（school log books）具有官方功能，它们通常被要求包含关于学生、教师和学校管理的特定信息，但在某些案例中，它们也可能揭示相关校长的日常生活和人际互动（McCulloch, 1989, 第8章）。
 >
-> **信件** 作为通信手段的写信产生了一类具有对话性质（interactive character）的文献，它们明确构成对话的一部分。信件在风格和实质上既可能是个人性的，也可能是正式的（Earle, 1999; Dobson, 2009）。许多与教育相关的信件，如父母写给学校、报纸或教育部长的信，体现了个人/家庭领域与既定制度关切之间的互动（Heward, 1988）。这种跨界特征使信件成为研究公私领域交界面上教育政策的独特窗口。
+> **信件** 作为通信手段的写信产生了一类具有[[Dialogue in Education|对话]]性质（interactive character）的文献，它们明确构成对话的一部分。信件在风格和实质上既可能是个人性的，也可能是正式的（Earle, 1999; Dobson, 2009）。许多与教育相关的信件，如父母写给学校、报纸或教育部长的信，体现了个人/家庭领域与既定制度关切之间的互动（Heward, 1988）。这种跨界特征使信件成为研究公私领域交界面上教育政策的独特窗口。
 >
 > **自传** 自传具有内省性（introspective），提供关于生活和关系的内部叙述。它们通常对早年生活和学校教育给予特别强调。这使自传成为研究教育经验的社会史的重要材料类型。David Vincent（1981）的里程碑式研究以142份19世纪英格兰工人阶级自传为基础，展示了这些文本如何揭示工人阶级群体在家庭、朋友、同事和熟人的社会网络中的参与性质。这些细节在官方统计和政策报告中是完全不可见的。
 
@@ -274,7 +279,7 @@ updated: 2026-07-11
 > | 文献类型 | 教育研究示例 | 核心分析策略 | 主要局限 |
 > |---|---|---|---|
 > | 书籍/教科书 | Foster (1999) — 美国历史教科书中的族群呈现 | 内容分析 + [[Ideology Critique\|意识形态批判]] | 只反映精英视角；代表性存疑 |
-> | 报告/议会记录 | Codd (1988) — 教育政策文献的话语解构 | 话语分析 + 矛盾与张力识别 | 政策文本 ≠ 政策实践 |
+> | 报告/议会记录 | Codd (1988) — 教育政策文献的话语解构 | [[Discourse Analysis\|话语分析]] + 矛盾与张力识别 | 政策文本 ≠ 政策实践 |
 > | 报纸/杂志 | Cunningham (1992) — 英国教师形象的共时/历时比较 | 多时间点多来源比较 | 覆盖面受公众品味限制 |
 > | 小说/戏剧 | Weber & Mitchell (1995) — 文学与影视中的教师 | 文化形象分析 + 媒介比较 | 依赖戏剧化手段；不是事实记录 |
 > | 个人日记/信件 | Vincent (1981) — 142份工人阶级自传 | 社会网络重建 | 幸存偏误；个人偏见 |
@@ -459,7 +464,7 @@ Jupp & Norris（1993）将文献分析的多元理论路径归纳为三种一般
 > [!citation-card]- 论文献的不完整性
 > 存在未跟进的事件的挫败感、未被明确识别的个人、含糊不清的叙述，或那些刚好遗漏了最被迫切寻求的细节的丰富记录。（Andrew, 1985: 156，转引自第12章，p.16）
 >
-> *There is the frustration of events reported without follow up, individuals not clearly identified, ambiguous accounts or those which provide a wealth of detail except that which is desperately sought.*
+> *There is the frustration of events reported without follow up, individuals not clearly identified, ambiguous [[Accounts]] or those which provide a wealth of detail except that which is desperately sought.*
 
 > [!citation-card]- 论文献的[[Linguistic Turn|语言学转向]]分析
 > 文献应被理解为与文本生产的符号学相关：意义如何在文本中制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、话语共同体在文本接受中的角色等。（Cohen, 1999: 81，转引自第12章，p.18）
@@ -467,7 +472,7 @@ Jupp & Norris（1993）将文献分析的多元理论路径归纳为三种一般
 > *Documents should be understood in relation to the semiotics of text production, how meaning is made in text, how readers take meaning from text, the status of authorial intention versus the reader's interpretation, the role of the community of discourse in the reception of text, and so forth.*
 
 > [!citation-card]- 论档案作为活生生的知识
-> 肯尼亚国家档案馆是"历史与人种学知识的蓄水池和活生生的实例"，提供的不止是"布满灰尘的文献"，而是"在其空间和结构中、在其使用者的目标和理念中、以及在其围墙内进行的各种形式的流行和专业实践中体现的历史"。（Carotenuto & Luongo, 2005: 445–446，转引自第12章，p.15）
+> 肯尼亚国家档案馆是"历史与人种学知识的蓄水池和活生生的实例"，提供的不止是"布满灰尘的文献"，而是"在其空间和结构中、在其使用者的目标和理念中、以及在其围墙内进行的各种形式的流行和专业[[Praxis|实践]]中体现的历史"。（Carotenuto & Luongo, 2005: 445–446，转引自第12章，p.15）
 >
 > *A reservoir and living example of historical and ethnographic knowledge ... history in its very space and structure, in the aims and ideas of its users, and in the various forms of popular and professional practice carried out within its walls.*
 

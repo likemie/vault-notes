@@ -8,7 +8,7 @@ summary: "母子对话研究中的话语分析材料集，按认知社会化与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - method/discourse-analysis
   - method/qualitative
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Causality]]"
   - "[[Homework]]"
@@ -31,6 +32,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mother-Child Conversation]]"
+  - "[[Discourse Analysis]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Socrates]]"
@@ -48,7 +50,7 @@ updated: 2026-05-24
 ## 概述
 
 > [!info]
-> 本条目记录 Li（2012）第 7 章中 母子对话（[[Mother-Child Conversation|MCC]]） 研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行话语分析。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
+> 本条目记录 Li（2012）第 7 章中 母子[[Dialogue in Education|对话]]（[[Mother-Child Conversation|MCC]]） 研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行[[Discourse Analysis|话语分析]]。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
 
 话语分析的理论锚点是 Vygotsky 学派的认知支架（cognitive scaffolding）概念，[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础是 Frijda 的评估理论和 Gottman 的元情感哲学([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
@@ -60,7 +62,7 @@ updated: 2026-05-24
 
 #### 示例 1：EA 母亲与儿子 Neil（差学习）
 
-> [!example]- 原始对话
+> [!example]- 原始[[Dialogue in Education|对话]]
 > ```
 > 1. M: How did you feel when you brought home a P?
 >    母：你把 P 带回家时感觉如何？
@@ -947,7 +949,7 @@ updated: 2026-05-24
 
 #### 示例 11：EA 母亲引导儿子 Tom 感受"享受"
 
-> [!example]- 原始对话
+> [!example]- 原始[[Dialogue in Education|对话]]
 > ```
 > 1. M: And did you enjoy that part of it?
 >    母：那你享受那部分吗？
@@ -1276,7 +1278,7 @@ updated: 2026-05-24
 
 > [!abstract]
 > 1. **建立共性基线再展示差异** 先识别三种跨文化共同特征，在共性的地基上展示差异
-> 2. **平行对比** 对每一对 EA 和 TW 对话保持分析维度一致，让差异在相同框架中自然显现
+> 2. **平行对比** 对每一对 EA 和 TW [[Dialogue in Education|对话]]保持分析维度一致，让差异在相同框架中自然显现
 > 3. **追踪因果方向** 不仅看母亲说了什么，更看母亲将对话**引向何处**——EA 终点是"你聪明/你[[Pride in Learning|骄傲]]吗？"，TW 终点是"你还可以怎么更好？"
 > 4. **识别[[Coding in Qualitative Research|编码]]操作** 注意母亲如何将儿童的行为**重新编码**——EA 母亲将"谈论书籍"编码为"聪明行为"，TW 母亲将"考好了→喜欢了"编码为"坚持了→考好了→喜欢了"
 > 5. **从对话中提取推理链** 将母亲直觉性的引导重构为显性的推理步骤（Li 坦承这只是 22 段样本，"刚刚触及表面"）

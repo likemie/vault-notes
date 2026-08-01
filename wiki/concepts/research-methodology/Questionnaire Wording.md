@@ -8,7 +8,7 @@ aliases:
 summary: "问卷题项措辞中常见的十类陷阱，包括引导性问题、深奥问题、复杂问题、双重否定、极端措辞、歧义问题等，理想问卷应具备清晰、无歧义和工作可行的属性"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Sensitive Questions]]"
   - "[[Operationalization]]"
+  - "[[Praxis]]"
   - "[[Positivism]]"
   - "[[Rating Scale]]"
   - "[[Homework]]"
@@ -63,7 +64,7 @@ updated: 2026-07-21
 ## 核心要素
 
 > [!feature] [[Questionnaire|问卷]]措辞的十项警示（pp. 157–163）
-> - **（i）避免[[Leading Questions|引导性问题]]** 提问措辞（或其回应类别）暗示只有一种可接受的答案。例如："你偏好抽象学术型课程，还是接地气、对你的日常教学有实际回报的实践课程？"——"接地气""实际回报"的措辞暗示了偏好方向。
+> - **（i）避免[[Leading Questions|引导性问题]]** 提问措辞（或其回应类别）暗示只有一种可接受的答案。例如："你偏好抽象学术型课程，还是接地气、对你的日常教学有实际回报的[[Praxis|实践]]课程？"——"接地气""实际回报"的措辞暗示了偏好方向。
 > - **（ii）避免深奥问题** 即使对复杂的受访者也应使用清晰简单的语言。例如："你希望看到当前[[Positivism|实证主义]]/解释主义争论的哪些特定方面反映在一门面向教师受众的发展心理学课程中？"
 > - **（iii）避免复杂问题** 包含多个从句和选项的冗长问题导致混淆。反问自己：这个题项是否可以拆成两个或更多简短问题？
 > - **（iv）避免令人恼火的问题或指令** 例如："如果你超过 40 岁且从未参加过在职课程，在 NEVER 框打一个勾，在 OLD 框打另一个勾。"——这种指令侮辱受访者。

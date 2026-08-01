@@ -8,10 +8,10 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - subject/comparative-education
   - theme/educational-transfer
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Cross-National Attraction]]"
   - "[[Realism in International Relations]]"
+  - "[[Praxis]]"
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
   - "[[Epistemology]]"
@@ -82,7 +83,7 @@ updated: 2026-07-09
 >   - **代表著作** 特别调查与报告办公室发布的系列《教育问题特别报告》（*Special Reports on Educational Subjects*，1897–1903）。
 >   - **关键概念** [[Reference Society|参考社会]]、[[Cross-National Attraction|跨国吸引]]。
 >   - **阶段特征** 此时的探索带有强烈的[[Realism in International Relations|现实主义]]地缘政治底色，旨在通过系统研究德国职业教育和实科学校，为英国公共教育系统注入竞争活力，巩固国家竞争地位。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
-> - **1900 至今 — 历史情境主义与方法论反思阶段** 这一阶段转而系统回应政策移植的技术主义幻觉，探讨如何从外国教育中获得“实践价值”而不导致体制排异。
+> - **1900 至今 — 历史情境主义与方法论反思阶段** 这一阶段转而系统回应政策移植的技术主义幻觉，探讨如何从外国教育中获得“[[Praxis|实践]]价值”而不导致体制排异。
 >   - **代表著作** 1900 年吉尔福德演讲：《我们能从外国教育系统的研究中获得多少有实践价值的启示？》（*How far can we learn anything of practical value from the study of foreign systems of education?*）。
 >   - **关键概念** 情境不可移植性、外部力量与因素（forces and factors outside the school）。
 >   - **阶段转向** 从工具性[[Policy Borrowing|政策借用]]的热衷者，转向了对借用可行性的深度怀疑与情境边界界定。他警示“校外的事情比校内的事情更重要”，确立了以历史和文化为中介的情境分析视角。
@@ -140,7 +141,7 @@ updated: 2026-07-09
 > - [[Argument_Rappleye_2006_RCIE|Rappleye, 2006]] — 指出萨德勒的“情境很重要”警告被后世简化为了学术口号，缺乏对“何种情境要素以何种方式发生阻碍”的机制化论证。
 
 > [!warning] 未解问题与边界
-> 萨德勒的理论警告在实践中面临巨大的悖论：虽然其“不可移植”在学术界已成定论，但以[[OECD|经合组织]]和世界银行等为核心的全球教育基准评估正以前所未有的规模和硬度，通过去情境化的数据强推统一政策移植，学术的情境警告在强硬的治理技术面前显示出无奈的边界。
+> 萨德勒的理论警告在[[Praxis|实践]]中面临巨大的悖论：虽然其“不可移植”在学术界已成定论，但以[[OECD|经合组织]]和世界银行等为核心的全球教育基准评估正以前所未有的规模和硬度，通过去情境化的数据强推统一政策移植，学术的情境警告在强硬的治理技术面前显示出无奈的边界。
 
 ---
 

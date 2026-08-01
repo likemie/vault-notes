@@ -8,7 +8,7 @@ aliases:
 summary: "Grice 提出的四条会话合作原则，包括量、质、关联和清晰，可用于比较不同文化中的说话风格与互动期待"
 type: concept
 domain: "communication-discourse"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - theme/cross-cultural-communication
   - field/communication-discourse
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Conatus]]"
 related_theories: []
 related_methods: []
@@ -36,7 +37,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> Grice（1975）提出四条"合作原则"（cooperative principles）来描述人们在日常对话中如何协作以达成有效沟通。这些准则最初被认为描述了人类会话的普遍模式，但 Li（2012）在第 8 章中指出——"这些会话规则，或说话语法，最初被认为是普遍的人类会话模式，但可能毕竟不那么普遍"。它们更常用于描述西方人的说话风格，而非所有文化的说话模式([[Argument_Li_2012_Cambridge|Li, 2012, p.87]])。
+> Grice（1975）提出四条"合作原则"（cooperative principles）来描述人们在日常[[Dialogue in Education|对话]]中如何协作以达成有效沟通。这些准则最初被认为描述了人类会话的普遍模式，但 Li（2012）在第 8 章中指出——"这些会话规则，或说话语法，最初被认为是普遍的人类会话模式，但可能毕竟不那么普遍"。它们更常用于描述西方人的说话风格，而非所有文化的说话模式([[Argument_Li_2012_Cambridge|Li, 2012, p.87]])。
 
 ---
 

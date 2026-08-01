@@ -6,7 +6,7 @@ aliases:
 summary: "课程设计中的核心概念或主题，用于组织学科知识并促进学生对学科本质的理解，在 UbD 框架和新西兰课程改革中被广泛使用"
 type: concept
 domain: "curriculum"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Powerful Knowledge]]"
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Axiology]]"
 related_theories: []
 related_methods: []
@@ -58,7 +59,7 @@ updated: 2026-06-06
 
 > [!abstract]
 > - **组织功能**。大概念在课程设计中起组织作用，为学科内容提供框架和方向。它们应连接学科的[[Epistemology|认识论]]结构，为连贯设计提供必要的概念标记([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
-> - **知识与价值的区分**。大概念应捕捉应学习的知识，而非仅仅论证学科的价值。在实践中，有些大概念有效传达了学科知识（如历史学科关于权力和不公正的陈述），有些则混合了知识陈述和[[Axiology|价值论]]证（如英语学科关于故事是快乐源泉的陈述）。
+> - **知识与价值的区分**。大概念应捕捉应学习的知识，而非仅仅论证学科的价值。在[[Praxis|实践]]中，有些大概念有效传达了学科知识（如历史学科关于权力和不公正的陈述），有些则混合了知识陈述和[[Axiology|价值论]]证（如英语学科关于故事是快乐源泉的陈述）。
 > - **概念标记**。大概念应包含明确的学科概念，为教师提供关于应教什么的清晰信号。缺乏概念标记可能导致教师以不同方式解释关键思想，影响学习的一致性。
 
 ---

@@ -6,7 +6,7 @@ aliases:
 summary: "执行功能是一组用于目标导向控制的高阶认知过程，通常包括抑制、转换、更新与监控，用于调节思维和行为以完成任务。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Cognitive Inhibition]]"
   - "[[Updating and Monitoring]]"
   - "[[Prefrontal Cortex]]"
+  - "[[Growth]]"
 related_theories:
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods:
@@ -68,7 +69,7 @@ updated: '2026-05-18'
 
 ## 与情绪和社会发展的关联
 
-EF 还与儿童的情绪成长和发展相关，包括但不限于道德和沟通行为以及社会认知([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
+EF 还与儿童的情绪[[Growth|成长]]和发展相关，包括但不限于道德和沟通行为以及社会认知([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。
 
 ## 理论基础
 

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
   - "[[Academic Self-Concept]]"
+  - "[[Praxis]]"
   - "[[IB Diploma Programme]]"
   - "[[Operationalization]]"
   - "[[Metacognition]]"
@@ -33,8 +34,10 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Creativity, Action, Service]]"
   - "[[Domain Analysis]]"
   - "[[School Leadership]]"
+  - "[[Areas of Knowledge]]"
   - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Reliability]]"
@@ -75,7 +78,7 @@ title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -91,7 +94,7 @@ journal: "Australian Journal of Education"
 > [[International Baccalaureate|国际文凭]]（IB）文凭项目（DP）的"[[Theory of Knowledge|知识论]]"课程。它不教授固定学科内容，而是要求学生反思知识本质，是一门 100 小时独立[[Critical Thinking|批判性思维]]课程。它是否有效提升了澳大利亚学生的批判性思维技能和倾向？完成 DP 课程的学生在大学学术准备上是否优于未完成的学生？
 
 > [!claim] 核心主张
-> 显性的、独立的批判性思维教学（如 ToK 课程）对学生批判性思维技能的发展有积极影响。12 年级 ToK 学生在批判性思维测量上显著高于 11 年级学生。DP 毕业生在批判性思维倾向和大学学术指标（澳大利亚高等教育入学排名 ATAR、[[Academic Self-Concept|学术自我概念]]、预期大学成果）上全面优于非 DP 毕业生。但 ToK 的效果高度依赖学校的实施方式。相同的课程框架在不同学校中产生了从高度整合到近乎随意的差异悬殊的教学实践。
+> 显性的、独立的批判性思维教学（如 ToK 课程）对学生批判性思维技能的发展有积极影响。12 年级 ToK 学生在批判性思维测量上显著高于 11 年级学生。DP 毕业生在批判性思维倾向和大学学术指标（澳大利亚高等教育入学排名 ATAR、[[Academic Self-Concept|学术自我概念]]、预期大学成果）上全面优于非 DP 毕业生。但 ToK 的效果高度依赖学校的实施方式。相同的课程框架在不同学校中产生了从高度整合到近乎随意的差异悬殊的教学[[Praxis|实践]]。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 澳大利亚 [[IB Diploma Programme|IB DP]] 学校的 11–12 年级 ToK 学生（$n = 1,338$），四所新南威尔士州（NSW）案例学校，以及 DP 与非 DP 大学一年级新生（$n = 389$）。
@@ -216,7 +219,7 @@ journal: "Australian Journal of Education"
 > - **隐性路径的制度性挤占** 在以内容为本的传统课程中，CT 作为隐性期望更易在课程需求增加时被挤出，尤其当它不定位为可测量成果时。弱势学生最可能被排除在 CT 教育受益范围之外。（p.3; Stanton-Salazar, 1997）
 
 > [!warrant]- 推理桥梁
-> 如果显性教学在元分析层面（Abrami et al., 2008）和实验层面（Marin & Halpern, 2011）均被证明更有效，且隐性融入路径在实践中因教师知识缺乏和制度性挤占而不可靠，那么在课程中设置一门显性的、独立的批判性思维科目应能产生更好的效果。ToK 恰好是澳大利亚大学预科课程中唯一符合这一特征的科目，因此是检验这一理论主张的天然案例。
+> 如果显性教学在元分析层面（Abrami et al., 2008）和实验层面（Marin & Halpern, 2011）均被证明更有效，且隐性融入路径在[[Praxis|实践]]中因教师知识缺乏和制度性挤占而不可靠，那么在课程中设置一门显性的、独立的批判性思维科目应能产生更好的效果。ToK 恰好是澳大利亚大学预科课程中唯一符合这一特征的科目，因此是检验这一理论主张的天然案例。
 
 ---
 
@@ -268,7 +271,7 @@ journal: "Australian Journal of Education"
 > [!contrast-table] 四校 ToK 实施模式对比
 > | 维度 | 学校 1 | 学校 2 | 学校 3 | 学校 4 |
 > |:-----|:-------|:-------|:-------|:-------|
-> | **做法** | ToK 跨学科链接，探究式学习，系统性质疑知识假设，研究性活动，围绕知识问题的资源 | 全班讨论，开放式辩论（正反方），主题工作，ToK 论文写作，知识作为文化实践 | 逻辑训练，哲学辩论，[[Socrates\|苏格拉底]]对话，论证前提—结论分析，ToK 日志写作 | 生活世界讨论，伦理议题，语言学准备，出版 ToK 作品，思维常规教学，CAS 连接 |
+> | **做法** | ToK 跨学科链接，探究式学习，系统性质疑知识假设，研究性活动，围绕知识问题的资源 | 全班讨论，开放式辩论（正反方），主题工作，ToK 论文写作，知识作为文化实践 | 逻辑训练，哲学辩论，[[Socrates\|苏格拉底]]对话，论证前提—结论分析，ToK 日志写作 | 生活世界讨论，伦理议题，语言学准备，出版 ToK 作品，思维常规教学，[[Creativity, Action, Service\|CAS]] 连接 |
 > | **CT 教学形式** | 基于 ToK 课程指南和 IBO 文件，围绕认识方式与知识[[Domain Analysis\|领域分析]] | 非目的性讨论为主，受学科教师影响大 | 传统哲学教学法，以逻辑论证严密性为核心 | 大学风格技能训练，全校整合的批判性思维路径 |
 > | **ToK 与 CT 的关系** | 对齐整合，全校统一 [[International Baccalaureate\|IB]] 概念与课程 | 松散间接，CT 主要通过历史、英语等学科传递 | CT 等同于哲学逻辑论证，ToK 是哲学研究子集 | ToK 嵌入全校 CT 计划，课时用于集中提升他处所学 CT 技能 |
 > | **整体效果** | **强** | **弱** | **中等** | **强** |
@@ -341,7 +344,7 @@ journal: "Australian Journal of Education"
 ## 关键引用
 
 > [!citation-card]- ToK 的官方定义
-> ToK 是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程，而非学习特定知识体系。它在 DP 中扮演特殊角色，为学生提供反思知识本质、在知识领域之间建立联系、并意识到自身视角以及他们共享知识的不同群体的视角的机会"。（IBO, 2014, p. 1, 转引自 p.2）
+> ToK 是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程，而非学习特定知识体系。它在 DP 中扮演特殊角色，为学生提供反思知识本质、在[[Areas of Knowledge|知识领域]]之间建立联系、并意识到自身视角以及他们共享知识的不同群体的视角的机会"。（IBO, 2014, p. 1, 转引自 p.2）
 >
 > *"[A] course about critical thinking and inquiring into the process of knowing, rather than about learning a specific body of knowledge. It plays a special role in the DP by providing an opportunity for students to reflect on the nature of knowledge, to make connections between areas of knowledge and to become aware of their own perspectives and those of the various groups whose knowledge they share."*
 
@@ -365,7 +368,7 @@ journal: "Australian Journal of Education"
 ## 自述局限
 
 > [!warning] 研究设计局限
-> - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[International Baccalaureate|IB]] DP 课程（六门学科 + [[CNCS Evidence Exchange|EE]] + CAS + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp.10–11）
+> - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[International Baccalaureate|IB]] DP 课程（六门学科 + [[CNCS Evidence Exchange|EE]] + [[Creativity, Action, Service|CAS]] + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp.10–11）
 > - **横断设计限制[[Causality|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性[[Attrition|流失]]的替代解释（p.10）
 > - **选课效应无法排除** 选择 [[IB Diploma Programme|IB DP]] 的学生可能在入学前就具有更高的学术能力、更强的学习动机或更支持性的家庭背景。ATAR 差异（$+4.84$分）可能部分或全部反映的是选课效应而非 DP 的培养效应（p.12）
 

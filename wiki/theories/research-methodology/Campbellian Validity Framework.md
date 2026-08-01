@@ -5,7 +5,7 @@ aliases:
 summary: "围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Construct Validity]]"
+  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
@@ -130,7 +131,7 @@ updated: 2026-07-13
 > [!note-] 发展脉络
 > 该框架的演进可追溯至 Campbell 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook & Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity|构念效度]]、[[External Validity|外部效度]]）。
 >
-> [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的实践，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[Single-Case Design|SCD]] 量规在内部效度判断上产生了合理一致的结果。
+> [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的[[Praxis|实践]]，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[Single-Case Design|SCD]] 量规在内部效度判断上产生了合理一致的结果。
 
 ## 研究范式
 
@@ -143,14 +144,14 @@ updated: 2026-07-13
 
 > [!warning] 争议与批评
 > - **[[External Validity|外部效度]]的结构性不对称** [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p.462, 467)]] 指出，[[Internal Validity|内部效度]]有"一套明确定义的常见替代解释（威胁）"，这些威胁已被系统编目；但外部效度的威胁"有些容易识别，有些则不是"，且审查者不知道消费者希望推广到何处。这种不对称意味着框架对外部效度的指导远弱于对内部效度的指导
-> - **在实践中更多是门控工具而非推广工具**[[What Works Clearinghouse|WWC]] 使用该框架时，内部效度用于严格的门控判断（达标/不达标），但外部效度仅被"描述"而不被"评分"，由消费者自行判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.466]])——这实质上将框架中最困难的部分（推广性判断）转嫁给了可能缺乏方法论训练的政策制定者和从业者
+> - **在[[Praxis|实践]]中更多是门控工具而非推广工具**[[What Works Clearinghouse|WWC]] 使用该框架时，内部效度用于严格的门控判断（达标/不达标），但外部效度仅被"描述"而不被"评分"，由消费者自行判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.466]])——这实质上将框架中最困难的部分（推广性判断）转嫁给了可能缺乏方法论训练的政策制定者和从业者
 > - **[[Single-Case Design|SCD]] 推广性的特殊偏见** 存在"一种普遍（且错误）的信念认为 [[Single-Case Design|SCD]] 证据不能推广"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])——这意味着框架在面对 SCD 时面临额外的社会[[Epistemology|认识论]]障碍，不仅仅是方法论障碍
 
 ## 相关研究
 
 > [!example] 相关研究
 > - [[Argument_Hitchcock_2015_JBE]] — 以 Campbellian 框架论证 [[What Works Clearinghouse|WWC]] 审查程序的[[Internal Validity|内部效度]]判断一致性，并澄清其[[External Validity|外部效度]]信息的捕获方式
-> - [[Argument_Wadhwa_2024_RER]] — 将 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 思路用于检验"evidence-based"在教育清算中心实践中的[[Construct Validity|构念效度]]；如果多个清算中心对同一项目的效果判断不收敛，就说明该[[Construct|构念]]在实践中并不稳定。例：同一教育项目可能因某清算中心要求独立复制、另一清算中心只要求单项显著研究而获得不同推荐等级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.4, 26]])。
+> - [[Argument_Wadhwa_2024_RER]] — 将 Campbell & Fiske (1959) 的 multitrait-[[Multimethod Research|multimethod]] 思路用于检验"evidence-based"在教育清算中心[[Praxis|实践]]中的[[Construct Validity|构念效度]]；如果多个清算中心对同一项目的效果判断不收敛，就说明该[[Construct|构念]]在实践中并不稳定。例：同一教育项目可能因某清算中心要求独立复制、另一清算中心只要求单项显著研究而获得不同推荐等级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.4, 26]])。
 
 ## 应用领域
 
@@ -158,5 +159,5 @@ updated: 2026-07-13
 > - [[Single-Case Design]] — Campbellian 框架为 [[Single-Case Design|SCD]] 研究提供统一的效度评估语言，[[What Works Clearinghouse|WWC]] 和学校心理学循证干预工作组均依赖此框架
 > - [[Gating Procedure]] — 门控程序的操作逻辑直接来源于 Campbellian 框架的"[[Internal Validity|内部效度]]优先"原则
 > - [[Evidence-Based Education]] — Campbellian 框架是 WWC 评估教育研究证据的方法论基础
-> - [[Educational Evidence Clearinghouses]] — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 用[[Construct Validity|构念效度]]问题重新审视清算中心对"evidence-based"项目的认证实践，显示跨机构评级收敛不足会削弱该术语的实践效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])
+> - [[Educational Evidence Clearinghouses]] — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 用[[Construct Validity|构念效度]]问题重新审视清算中心对"evidence-based"项目的认证[[Praxis|实践]]，显示跨机构评级收敛不足会削弱该术语的实践效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])
 

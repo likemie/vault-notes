@@ -11,7 +11,7 @@ aliases:
 summary: "将神经科学发现应用于教育实践的跨学科领域，主张以大脑学习机制为依据设计教学。被批评为简化主义，忽视社会互动和情境因素，且在历史上曾被用于为压迫性政策提供科学依据。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
   - cognitive-science
   - policy-analysis
 related_concepts:
+  - "[[Praxis]]"
   - "[[Screening Off]]"
   - "[[What Works Movement]]"
   - "[[Working Memory]]"
@@ -50,7 +51,7 @@ updated: 2026-06-16
 ## 定义
 
 > [!def] 教育神经科学
-> 教育神经科学（Educational Neuroscience，又称“基于脑的教育”或“脑科学教育”）是将神经科学发现应用于教育实践的跨学科领域。它涵盖了神经生物学、认知神经科学、行为神经科学、认知心理学等多个交叉学科，主张通过探明大脑的学习机制来为教育实践提供科学指导。
+> 教育神经科学（Educational Neuroscience，又称“基于脑的教育”或“脑科学教育”）是将神经科学发现应用于教育[[Praxis|实践]]的跨学科领域。它涵盖了神经生物学、认知神经科学、行为神经科学、认知心理学等多个交叉学科，主张通过探明大脑的学习机制来为教育实践提供科学指导。
 
 > [!concept-lens] 跨学科视角
 > 该领域试图通过[[Functional Magnetic Resonance Imaging|功能性磁共振成像]]（fMRI）等神经影像技术与认知心理学实验，将脑部的生理活动（如神经元连接、脑区激活）映射为人类的学习行为（如识字、计算、记忆）。
@@ -74,7 +75,7 @@ updated: 2026-06-16
 
 > [!timeline] 概念演变与政策接受
 > - 1960s 脑科学和神经科学话语开始在澳大利亚早期儿童教育改革中露头，并逐步经历生物政治学化过程（Millei & Joronen, 2016）。
-> - 1993 约翰·布鲁尔（John Bruer）率先倡导基于神经科学的教育（“brain-based education”）。然而，他随后成为这一趋势最强烈的批判者之一，指出从神经科学直接跨越到教育实践是一步“太远的桥梁”（a bridge too far）（Bruer, 1993, cited in OECD, 2007, p. 132）。
+> - 1993 约翰·布鲁尔（John Bruer）率先倡导基于神经科学的教育（“brain-based education”）。然而，他随后成为这一趋势最强烈的批判者之一，指出从神经科学直接跨越到教育[[Praxis|实践]]是一步“太远的桥梁”（a bridge too far）（Bruer, 1993, cited in OECD, 2007, p. 132）。
 > - 2002 [[OECD]] 发布《理解大脑：走向新的学习科学》报告，警告过度依赖脑科学可能“导致建立一个过度科学化且高度顺从（highly conformist）的教育体系”的严重后果（p. 17）。
 > - 2007 OECD 发布后续报告，重申神经科学绝非灵丹妙药，必须依赖整合哲学、社会科学及教育本身的真正的跨学科方法（p. 21），并明确警告脑科学极易生成滥用（generate abuse，p. 132）。
 > - 2023 澳大利亚发布《强劲开端》报告，首次在全国主权层面上将“大脑与学习”强制列为全国初始教师教育（ITE）项目的核心必修大纲，但在报告中系统性地隐瞒了[[Document|文献]]中已达成的所有科学局限性与风险警告。

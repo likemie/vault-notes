@@ -11,14 +11,17 @@ tags: ["theme/university-industry-collaboration", "theme/partnership", "theme/co
 related_concepts:
   - "[[Research Question]]"
   - "[[Strategic Partnership]]"
+  - "[[Praxis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Trade Mission]]"
   - "[[Industry Advisory Board]]"
   - "[[Professors of Practice]]"
   - "[[Reliability]]"
   - "[[Alumni Engagement]]"
+  - "[[Growth]]"
   - "[[Executive Education]]"
   - "[[University Corporate Engagement Professional]]"
+  - "[[Dialogue in Education]]"
   - "[[Translational Research]]"
   - "[[Evaluation Research]]"
   - "[[Blue Skies Research]]"
@@ -45,7 +48,7 @@ title: "Argument_Burrus_Patera_2025_PartnershipBuilding"
 argument_key: "Argument_Burrus_Patera_2025_PartnershipBuilding"
 argument_display_title: "Connecting, Exploring, Uncovering, and Building Partnerships"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -70,7 +73,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期实践经验，同时整合 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Demonstration Partnership|UIDP]] 和 [[University Industry Innovation Network|UIIN]] 等行业组织积累的最佳实践。
+> 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期[[Praxis|实践]]经验，同时整合 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Demonstration Partnership|UIDP]] 和 [[University Industry Innovation Network|UIIN]] 等行业组织积累的最佳实践。
 > - [[University-Industry Collaboration]] — 作为分析的组织框架，将伙伴关系建设分解为三个相互关联的阶段：连接 → 探索发现 → 建设
 
 ---
@@ -78,7 +81,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> 实践者指南，基于专业经验与行业最佳实践的归纳总结，并非实证研究。包含两个[[Case Study|案例研究]]：一是生命科学公司与大学的伙伴关系演化过程，二是通过[[Trade Mission|政府贸易代表团]]推动的与日本企业的国际合作。
+> [[Praxis|实践]]者指南，基于专业经验与行业最佳实践的归纳总结，并非实证研究。包含两个[[Case Study|案例研究]]：一是生命科学公司与大学的伙伴关系演化过程，二是通过[[Trade Mission|政府贸易代表团]]推动的与日本企业的国际合作。
 
 ---
 
@@ -118,7 +121,7 @@ citation_aliases:
 6. [[Alumni Engagement|校友参与产学合作]]的具体形式不止于牵线搭桥(pp.74–75)：
    - **咨询委员会与圆桌讨论** 按行业组建，邀请校友企业高管、教师研究者和公司技术负责人共同探讨研究协同点和行业挑战。
    - **推动内部研究合作** 鼓励校友在公司内部倡导与母校的研究合作，他们既是"内部销售"，又是"需求翻译者"。
-   - **结构化指导计划** 校友指导学生和青年研究者，既帮助下一代成长，也为自己识别潜在的合作者。
+   - **结构化指导计划** 校友指导学生和青年研究者，既帮助下一代[[Growth|成长]]，也为自己识别潜在的合作者。
    - **公司校友群体** 将同一公司的校友员工组织成一个集体，共同关注公司利益，同时集体为母校的价值主张发声。
    - **校友创业者对接** 识别正在创业的校友，将其与研究方向互补的教师匹配，可能催生联合创业、衍生企业或赞助研究。
    - **创业展示与黑客马拉松** 邀请校友参与学生和教师的创新竞赛，在评审过程中自然发现投资或合作机会。
@@ -146,7 +149,7 @@ citation_aliases:
 10. 这正是 大学企业参与专员（UCEP） 不可替代的原因。技术平台提供数据，UCEP 提供判断。后者深入了解学术格局、各院系研究的细微差别以及大学的战略目标。这一判断力体现在三个层面(pp.77–78)：
     - **解读** 将技术平台返回的匹配结果放入学科语境，知道哪些"匹配"是表面关键词重合、哪些是真正的学术方向相关。
     - **情境化** 理解企业的实际需求，不仅知道企业说了什么，还能推断企业可能需要但没说出来的东西。
-    - **引荐** 促成有意义的初次对话，不是简单地转发邮件，而是为双方的第一次会谈提供背景引导，确保对话从正确的起点开始。
+    - **引荐** 促成有意义的初次[[Dialogue in Education|对话]]，不是简单地转发邮件，而是为双方的第一次会谈提供背景引导，确保对话从正确的起点开始。
 
 11. UCEP 还需要克服一个隐性偏见：部门归属偏见。大多数 UCEP 隶属于某个学院或部门（科研副校长办公室、企业关系办公室等），自然对自己所在单位的研究更熟悉。但企业的需求往往跨学科，一个关于"智慧城市"的项目可能同时涉及计算机科学、土木工程、公共政策和社会学。如果 UCEP 只推荐自己管辖范围内的教师，就可能错过最佳匹配。持续的专业培训和对全校研究版图的主动了解，是克服这一偏见的关键(p.78)。
 
@@ -190,7 +193,7 @@ citation_aliases:
 > 1. [[University-Industry Collaboration|产学合作]]的困难根植于大学与企业在使命、治理结构和组织文化上的系统性差异（非营利 vs 营利、自下而上 vs 自上而下、开放渗透 vs 知识产权控制）。不存在可以复制粘贴的通用合作模板(pp.73–74)。
 > 2. 连接阶段：产学关系的拥护者集中在特定的交汇空间，包括学术研讨会、[[Industry Advisory Board|行业咨询委员会]]、产学专业活动、[[Professors of Practice|实践教授]]岗位、[[Trade Mission|政府贸易代表团]]和校友活动。其中，校友网络的"双重信任"优势使其成为最高效的连接渠道之一(pp.74–76)。
 > 3. 探索发现阶段：技术匹配平台（Pivot、Pure、Academic Analytics 等）是必要的起点，但存在"粒度错配"和操作依赖性问题。最有效的方法是将技术工具与 [[University Corporate Engagement Professional|UCEP]] 的[[Professional Judgment|专业判断]]相结合：前者提供数据，后者提供解读、情境化和引荐(pp.76–78)。
-> 4. 建设阶段：将一次性项目生长为战略伙伴关系，需要四个不可省略的基本要素：双方联络人、共同认可的愿景与目标、包含定期审查的路线图、双方的问责制。大多数战略关系不是设计出来的，而是从一个教师项目开始，逐步生长并在 UCEP 介入后结构化(pp.78–79)。
+> 4. 建设阶段：将一次性项目[[Growth|生长]]为战略伙伴关系，需要四个不可省略的基本要素：双方联络人、共同认可的愿景与目标、包含定期审查的路线图、双方的问责制。大多数战略关系不是设计出来的，而是从一个教师项目开始，逐步生长并在 UCEP 介入后结构化(pp.78–79)。
 > 5. 政府贸易代表团是一个被低估的产学连接工具，可以在短时间内催化关系升级或启动全新合作，但前提是出访前做好匹配准备工作(pp.76, 80–81)。
 
 ---

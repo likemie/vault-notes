@@ -7,10 +7,10 @@ aliases:
 summary: "东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题"
 type: theory
 theory_field: "chinese-philosophy"
-theory_related_count: 22
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 25
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
 - region/east-asia
 - region/china
@@ -20,12 +20,15 @@ tags:
 - theory/confucianism
 related_concepts:
   - "[[Self-Cultivation]]"
+  - "[[Praxis]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
   - "[[Action Better Than Words]]"
   - "[[Junzi]]"
   - "[[Grice's Conversational Maxims]]"
+  - "[[Dialogue in Education]]"
+  - "[[Growth]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Sage]]"
@@ -57,7 +60,7 @@ updated: 2026-06-02
 ## 核心主张
 
 > [!tip]-
-> 儒家学习传统是贯穿中国（以及日本、韩国、越南等）历史的主导性学习传统。其核心主张是：**学习的根本目的不是认识或掌握外部世界，而是完善自我（[[Self-Cultivation|修身]]）**——一个人的自我才是认识、反思、实践和完成的终身工程([[Argument_Li_2012_Cambridge|Li, 2012, pp.36-37]])。
+> 儒家学习传统是贯穿中国（以及日本、韩国、越南等）历史的主导性学习传统。其核心主张是：**学习的根本目的不是认识或掌握外部世界，而是完善自我（[[Self-Cultivation|修身]]）**——一个人的自我才是认识、反思、[[Praxis|实践]]和完成的终身工程([[Argument_Li_2012_Cambridge|Li, 2012, pp.36-37]])。
 
 这一传统以[[Confucius|孔子]]（551–479 BCE）为起点，但他并非发明了这些核心价值——他继承了一个已存在数千年的文化，通过编订经典和讲学将其系统化和传承下来([[Argument_Li_2012_Cambridge|Li, 2012, p.36]])。
 
@@ -101,9 +104,9 @@ updated: 2026-06-02
 
 **同伴作为学习朋友**。《论语》开篇第二句即宣告：有朋自远方来，不亦乐乎？——孔子将与志同道合者一同学习视为快乐。同学不仅是碰巧在同一时间、同一教师下学习的人，而是追求相同人生目标的志同道合者——彼此的支持者([[Argument_Li_2012_Cambridge|Li, 2012, pp.100–101]])。
 
-**切磋琢磨的典范**。孔子与子贡的一段对话确立了同伴学习的经典模式——子贡援引《诗经》**如切如磋，如琢如磨**来描述学习的过程，孔子赞许他**告诸往而知来者**。从此，切磋琢磨成为东亚文化中同学关系的核心隐喻：一起研习、追问、讨论、互相帮助、纠正、学习、提升([[Argument_Li_2012_Cambridge|Li, 2012, p.101]])。
+**切磋琢磨的典范**。孔子与子贡的一段[[Dialogue in Education|对话]]确立了同伴学习的经典模式——子贡援引《诗经》**如切如磋，如琢如磨**来描述学习的过程，孔子赞许他**告诸往而知来者**。从此，切磋琢磨成为东亚文化中同学关系的核心隐喻：一起研习、追问、讨论、互相帮助、纠正、学习、提升([[Argument_Li_2012_Cambridge|Li, 2012, p.101]])。
 
-**同伴关系的终身性**。在儒家文化中，同学关系构成了家庭之外最重要的终身社交圈——共享的学习即是共享的生活与成长。同学在高等教育中变为**同窗**（共享书斋），最终成为**同窗好友**（共享书斋的好朋友）。日本和中文的正式称谓**學友**直接包含了友字，韩国的**校友**亦然([[Argument_Li_2012_Cambridge|Li, 2012, p.101]])。
+**同伴关系的终身性**。在儒家文化中，同学关系构成了家庭之外最重要的终身社交圈——共享的学习即是共享的生活与[[Growth|成长]]。同学在高等教育中变为**同窗**（共享书斋），最终成为**同窗好友**（共享书斋的好朋友）。日本和中文的正式称谓**學友**直接包含了友字，韩国的**校友**亦然([[Argument_Li_2012_Cambridge|Li, 2012, p.101]])。
 
 ---
 
@@ -111,7 +114,7 @@ updated: 2026-06-02
 
 > [!info]
 > - **[[Ontology|本体论]]** 人性根植于社会关系之中——一个人不仅是 Jenny（或 David），更重要的是一个女儿、姐妹、妻子、母亲、姑姑、老师、同事等等([[Argument_Li_2012_Cambridge|Li, 2012, pp.37-38]])。自我不是孤立的权利个体，而是**承载角色的角色人（role-bearing person, Rosemont 语）**
-> - **[[Epistemology|认识论]]** 知与行不可分离——[[Wang Yangming|王阳明]]认为，一个人必须不懈地实践自己所知道的，才能达成[[Sage|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。Ames 和 Rosemont 指出，[[Confucius|孔子]]的愿景不是简单地去理解、接受、修改或拒绝……相反，必须被感受、体验、实践和生活([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])
+> - **[[Epistemology|认识论]]** 知与行不可分离——[[Wang Yangming|王阳明]]认为，一个人必须不懈地[[Praxis|实践]]自己所知道的，才能达成[[Sage|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。Ames 和 Rosemont 指出，[[Confucius|孔子]]的愿景不是简单地去理解、接受、修改或拒绝……相反，必须被感受、体验、实践和生活([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])
 > - **目标的开放性** 学习过程是开放的、需要个人创造性的——因为每个人的实际生活境遇不同([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
 
 ---

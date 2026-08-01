@@ -10,7 +10,7 @@ type: fact
 subtype: event
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -18,7 +18,8 @@ tags:
   - region/global
   - level/preschool
   - policy/assessment
-related_concepts: []
+related_concepts:
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -57,7 +58,7 @@ updated: 2026-06-06
 ## 争议与批评
 
 > [!warning]
-> - **过度扩张**。Baby [[PISA]] 是 PISA 企业向学前教育扩张的标志，意味着 PISA 企业将成为从学前班到高中到退休的全球教育政治、政策和实践中最有影响力的单一机构([[Argument_Zhao_2020_JEC|Zhao, 2020]])。
+> - **过度扩张**。Baby [[PISA]] 是 PISA 企业向学前教育扩张的标志，意味着 PISA 企业将成为从学前班到高中到退休的全球教育政治、政策和[[Praxis|实践]]中最有影响力的单一机构([[Argument_Zhao_2020_JEC|Zhao, 2020]])。
 > - **Pence 的警告**。Pence (2016) 警告了当基金会转变时可能出现的危险（引自 Zhao, 2020）。
 > - **Urban 的批评**。Urban (2017) 认为我们需要有意义的、系统性的评估，而不是学前班 PISA（引自 Zhao, 2020）。
 

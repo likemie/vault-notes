@@ -9,6 +9,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Questionnaire]]"
   - "[[Construct]]"
+  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
 related_methods:
   - "[[Observation Protocol]]"
@@ -22,12 +23,12 @@ related_methods:
   </div>
 
   <div class="research-map-stats" aria-label="Wiki 规模概览">
-    <a href="/wiki/concepts"><span>概念</span><strong>773</strong></a>
-    <a href="/wiki/arguments"><span>论证</span><strong>183</strong></a>
+    <a href="/wiki/concepts"><span>概念</span><strong>806</strong></a>
+    <a href="/wiki/arguments"><span>论证</span><strong>186</strong></a>
     <a href="/wiki/facts"><span>事实</span><strong>280</strong></a>
-    <a href="/wiki/persons"><span>人物</span><strong>181</strong></a>
-    <a href="/wiki/theories"><span>理论</span><strong>95</strong></a>
-    <a href="/wiki/methods"><span>方法</span><strong>169</strong></a>
+    <a href="/wiki/persons"><span>人物</span><strong>186</strong></a>
+    <a href="/wiki/theories"><span>理论</span><strong>98</strong></a>
+    <a href="/wiki/methods"><span>方法</span><strong>172</strong></a>
     <a href="/wiki/instruments"><span>测量工具</span><strong>6</strong></a>
   </div>
 
@@ -38,7 +39,7 @@ related_methods:
     <a class="research-map-card" href="/wiki/facts"><span>Facts</span><strong class="research-map-card-title">事实档案</strong><p>按国家、地区和全球组织记录政策、改革、事件与制度背景，让概念和理论落回具体场景。</p><strong>把抽象拉回现场</strong></a>
     <a class="research-map-card" href="/wiki/persons"><span>Persons</span><strong class="research-map-card-title">人物索引</strong><p>记录学者、政策行动者与关键作者，让<span class="research-map-inline-link">[[Knowledge Production|知识生产]]</span>不只是概念之间的漂浮关系，也能看到人。</p><strong>追踪思想的携带者</strong></a>
     <a class="research-map-card" href="/wiki/methods"><span>Methods</span><strong class="research-map-card-title">方法与证据</strong><p>整理研究设计、<span class="research-map-inline-link">[[Causality|因果推断]]</span>、综述、清算中心和效度判断，帮助辨认“有效”这个词的边界。</p><strong>检查证据如何成立</strong></a>
-    <a class="research-map-card wide" href="/wiki/instruments"><span>Instruments</span><strong class="research-map-card-title">测量工具库</strong><p>集中记录量表、[[Questionnaire|问卷]]、<span class="research-map-inline-link">[[Observation Protocol|观察协议]]</span>与访谈工具，把抽象<span class="research-map-inline-link">[[Construct|构念]]</span>连接到题项、施测方式、信效度证据和真实研究实践。</p><strong>看看研究如何把概念变成可观察的数据</strong></a>
+    <a class="research-map-card wide" href="/wiki/instruments"><span>Instruments</span><strong class="research-map-card-title">测量工具库</strong><p>集中记录量表、[[Questionnaire|问卷]]、<span class="research-map-inline-link">[[Observation Protocol|观察协议]]</span>与访谈工具，把抽象<span class="research-map-inline-link">[[Construct|构念]]</span>连接到题项、施测方式、信效度证据和真实研究[[Praxis|实践]]。</p><strong>看看研究如何把概念变成可观察的数据</strong></a>
   </div>
 
   <div class="research-map-routes">

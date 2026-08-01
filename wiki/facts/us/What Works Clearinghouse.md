@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Praxis]]"
   - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Effect Size]]"
@@ -65,7 +66,7 @@ updated: 2026-07-13
 ## 概述
 
 > [!info] 概述
-> What Works Clearinghouse（WWC）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它的主要焦点领域是教育，目标人群为学生，资金组织类型为 public；评级对象包括项目、政策、实践和研究([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
+> What Works Clearinghouse（WWC）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它的主要焦点领域是教育，目标人群为学生，资金组织类型为 public；评级对象包括项目、政策、[[Praxis|实践]]和研究([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
 >
 > WWC 在教育清算中心生态中具有特殊地位。美国教育部两位高级官员在 2021 年 5 月书面确认，教育部支持 WWC 的支出已超过 1 亿美元；作者指出，WWC 的长期存在、资金水平、标准清晰度和合理化、评级项目数量、结果更新速度、美国教育部推广以及其在若干研究和实践决策中的授权使用，共同使 WWC 在教育领域具有高度可见度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8, 28]])。
 
@@ -128,13 +129,13 @@ updated: 2026-07-13
 > - WWC 成为美国联邦教育证据基础设施的核心组成部分，并为后续 ESSA 证据标准定义提供了制度基础([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.3]]; [[Argument_Wolf_2020_JREE|Wolf et al., 2020, p.429]])。
 > - WWC 的审查标准也受到批评：Ginsburg & Smith (2016) 分析 27 项被 WWC 高评分的数学课程 [[Randomised Controlled Trials|RCT]]，发现 26 项存在多重严重问题；Wiliam 引用该研究指出，即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.5]])。
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 使用 WWC 的创建作为 [[Evidence-Based Education|EBE]] 政治动力的标志：它反映了政策制定者想要简单"什么有效"答案的持续需求，即使 Wiliam 的论证认为这种简单答案在原则上不可得。
-> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 将 WWC 放入 12 个教育清算中心的比较生态中，显示 WWC 虽然高度可见，但其标准不是教育领域唯一可行标准；不同清算中心对同一项目的评级分歧说明"evidence-based"在清算中心语境中只有有限实践[[Construct Validity|构念效度]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.26, 28]])。
+> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 将 WWC 放入 12 个教育清算中心的比较生态中，显示 WWC 虽然高度可见，但其标准不是教育领域唯一可行标准；不同清算中心对同一项目的评级分歧说明"evidence-based"在清算中心语境中只有有限[[Praxis|实践]][[Construct Validity|构念效度]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.26, 28]])。
 
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — WWC 是 12 个被比较的教育清算中心之一，也是教育领域最具可见度的案例([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 28]])。
-> - [[Evidence-Based Education]] — WWC 是 EBE 通过项目、政策、实践和研究评级制度化的重要载体([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
+> - [[Evidence-Based Education]] — WWC 是 EBE 通过项目、政策、[[Praxis|实践]]和研究评级制度化的重要载体([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
 > - [[Randomised Controlled Trials]] — WWC 对 RCT 的标准描述程度为 3，并且是唯一深入说明集群层级[[Random Assignment|随机分配]]的清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10]])。
 > - [[Effect Size]] — WWC 的最高项目效果判断要求统计显著正向效果，但不要求平均效果达到特定大小([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–15]])。
 > - [[ESSA 2015 Evidence Standards]] — WWC 为 ESSA 证据标准提供了重要制度基础。

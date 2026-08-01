@@ -9,7 +9,7 @@ summary: "真实验设计的变体，先将受试者按关键变量配对，再�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Independent Variable]]"
   - "[[Sample Size Determination]]"
+  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Pre-test and Post-test]]"
@@ -44,7 +45,7 @@ updated: 2026-07-13
 > [!def] 配对设计
 > 配对设计（Matched Pairs Design）是[[True Experimental Design|真实验设计]]的一种变体：受试者首先在若干被认为重要的[[Independent Variable|自变量]]上配对，然后将每对成员[[Random Assignment|随机分配]]至控制组和实验组。随机化发生在**配对的层面**而非整组的层面（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 322–323]]）。
 
-该设计适用于无法确定个体差异是否会掩盖处理效应时——通过对配对来控制这些差异。当[[Sample Size Determination|样本量]]较小、随机化可能偶然产生不等价组时，配对设计是在随机化的理论保证之上增加了一层实践保障。
+该设计适用于无法确定个体差异是否会掩盖处理效应时——通过对配对来控制这些差异。当[[Sample Size Determination|样本量]]较小、随机化可能偶然产生不等价组时，配对设计是在随机化的理论保证之上增加了一层[[Praxis|实践]]保障。
 
 > [!method-scope] 方法范围
 > - **研究对象** 先在关键[[Variable|变量]]上配对、再随机分配至两组的参与者。

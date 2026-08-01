@@ -6,7 +6,7 @@ aliases:
 summary: "Herbert Walberg 提出的九因素教育生产力理论，试图通过量化合成识别影响学生学业成就和态度的关键因素，是教育研究中最早被大规模元综合检验的理论框架"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Effect Size]]"
   - "[[Visible Learning]]"
+  - "[[Praxis]]"
   - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
@@ -94,7 +95,7 @@ updated: 2026-07-13
 > [!success] 影响
 > - 该模型是教育研究中最早被大规模[[Meta-meta-analysis|元综合]]检验的理论框架，为后续的元综合研究（如 Hattie 的 [[Visible Learning]]）提供了方法论先例
 > - 其 aptitudinal-instructional-environmental 三维分类影响了教育研究中对影响因素的组织方式
-> - [[EEF Teaching and Learning Toolkit]] 在设计上部分借鉴了这一传统，试图为实践者提供跨领域的比较性证据([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])
+> - [[EEF Teaching and Learning Toolkit]] 在设计上部分借鉴了这一传统，试图为[[Praxis|实践]]者提供跨领域的比较性证据([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])
 
 ---
 

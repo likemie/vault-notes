@@ -9,7 +9,7 @@ title: "Argument_Berk_2011_ER"
 argument_key: "Argument_Berk_2011_ER"
 argument_display_title: "Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Causality]]"
   - "[[Document]]"
+  - "[[Praxis]]"
   - "[[Internal Validity]]"
   - "[[Sample Size Determination]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -87,7 +88,7 @@ citation_aliases:
 >
 > ### 1. 因果效应的定义
 >
-> [[Potential Outcomes Framework|潜在结果框架]]的核心进步在于区分因果效应的**定义**与**估计**。但实践中不同的平均处理效应定义（总体 vs. 样本、处理组 vs. 全体）常被忽视，导致估计目标不明——"可信的证据不太可能产生"(p.194)。
+> [[Potential Outcomes Framework|潜在结果框架]]的核心进步在于区分因果效应的**定义**与**估计**。但[[Praxis|实践]]中不同的平均处理效应定义（总体 vs. 样本、处理组 vs. 全体）常被忽视，导致估计目标不明——"可信的证据不太可能产生"(p.194)。
 >
 > ### 2. 随机实验的优势与局限
 >

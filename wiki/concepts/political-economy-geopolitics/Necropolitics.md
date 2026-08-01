@@ -6,7 +6,7 @@ aliases:
 summary: "姆本贝提出的理论概念，指主权权力在很大程度上体现为决定谁可以活、谁必须死的能力，近年被用于分析中国的语言政策和民族教育政策"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sacrifice Theory]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -97,5 +98,5 @@ updated: 2026-07-08
 
 > [!evidence-grid-a] 相关案例索引
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 提出了中国“自我牺牲”式死亡政治框架，分析了内蒙古双语改革中蒙古族干部的自杀悲剧。
-> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古双语教育改革中，国家强力推广普通话，在引发抗议后，通过政治清洗、精英收编与基层自杀（如苏日娜，Surnaa）展现了“自我牺牲”死亡政治在地方的残酷实践。
+> - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古双语教育改革中，国家强力推广普通话，在引发抗议后，通过政治清洗、精英收编与基层自杀（如苏日娜，Surnaa）展现了“自我牺牲”死亡政治在地方的残酷[[Praxis|实践]]。
 > - **新疆教育培训中心** — 在新疆设立的拘留设施，通过剥夺维吾尔等穆斯林少数民族的文化和信仰，展示了生命/死亡政治的极限控制。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 97]])

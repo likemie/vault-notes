@@ -11,7 +11,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Rote Learning]]"
   - "[[IB Diploma Programme]]"
+  - "[[Creativity, Action, Service]]"
   - "[[Theory of Knowledge]]"
   - "[[Examination-Oriented Education]]"
 related_theories: []
@@ -78,7 +79,7 @@ updated: 2026-07-13
 >
 > **"过剩教师"问题**。学制改革导致原来的大学预科选修科目被取消或重组，教授这些科目（经济及公共事务、政府与公共行政、社会教育、综合人文、科学与技术）的教师面临失业风险。LS 的设计恰好可以吸收这批教师，因为 LS 没有单一学科基础、不需要学科专业训练，教育当局通过短期工作坊培训即可。许多原本教授被取消选修科的教师通过转教 LS 保留了职位（Yan, 2021, 引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]]）。
 >
-> **课程参照**。LS 的设计大量参照了[[International Baccalaureate|国际文凭]]大学预科课程（[[IB Diploma Programme|IBDP]]），包括其他学习经历（对应 CAS）、[[Theory of Knowledge|知识论]]（对应 TOK）和独立专题探究（对应延伸论文）。港府还邀请剑桥大学 Mary James 教授担任课程发展议会海外委员，为改革提供国际背书([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])。
+> **课程参照**。LS 的设计大量参照了[[International Baccalaureate|国际文凭]]大学预科课程（[[IB Diploma Programme|IBDP]]），包括其他学习经历（对应 [[Creativity, Action, Service|CAS]]）、[[Theory of Knowledge|知识论]]（对应 TOK）和独立专题探究（对应延伸论文）。港府还邀请剑桥大学 Mary James 教授担任课程发展议会海外委员，为改革提供国际背书([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]])。
 
 ---
 

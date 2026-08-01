@@ -10,7 +10,7 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Re-Westernisation]]"
   - "[[Revolutionism]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
   - "[[Operationalization]]"
@@ -45,6 +46,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Ideology Critique]]"
+  - "[[Discourse Analysis]]"
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
@@ -138,7 +140,7 @@ updated: 2026-07-11
 > **博士教育的边缘化与阻力** 揭示出 PhD 校友对全球公民指标的自我发展感知与实际职场应用评分显著低于专业学术技能。这一系统性缺陷源于高度专精学科导师的防御性劝阻文化（如认为一切时间应用于论文研究），以及对于全球公民是年轻一代代际自然拥有属性等未经证实的盲目[[Hypothesis|假设]]。([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp. 89–97]])
 
 > [!claim] Wong, M.
-> **本科毕业生特质的口惠而实不至** 发现英国高校毕业生特质话语中虽广泛包含全球公民和参与意愿，但其实际成分极度不均——仅有少部分大学包含环境意识、外语技能与国际网络，显示其在实践操作层面沦为表面化的政策口号。([[Argument_Wong_2022_HERD|Wong et al., 2022, pp. 1347–1348]])
+> **本科毕业生特质的口惠而实不至** 发现英国高校毕业生特质话语中虽广泛包含全球公民和参与意愿，但其实际成分极度不均——仅有少部分大学包含环境意识、外语技能与国际网络，显示其在[[Praxis|实践]]操作层面沦为表面化的政策口号。([[Argument_Wong_2022_HERD|Wong et al., 2022, pp. 1347–1348]])
 
 ---
 
@@ -147,7 +149,7 @@ updated: 2026-07-11
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **[[Ideology Critique\|意识形态批判]]命题** | 关注全球公民概念的模糊性及其对新自由主义经济教义和再西方化逻辑的掩盖。 | 比较教育宏观理论流派与全球治理话语分析。 | [[Argument_Klerides_2023_CE\|Klerides (2023)]]; Silova et al. (2020) |
+> | **[[Ideology Critique\|意识形态批判]]命题** | 关注全球公民概念的模糊性及其对新自由主义经济教义和再西方化逻辑的掩盖。 | 比较教育宏观理论流派与全球治理[[Discourse Analysis\|话语分析]]。 | [[Argument_Klerides_2023_CE\|Klerides (2023)]]; Silova et al. (2020) |
 > | **实证成效赤字命题** | 关注全球公民在实际大学毕业生培养中被边缘化、低发展和低应用的系统性缺陷。 | 高等教育质量评估与博士/本科毕业生特质研究。 | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]]; [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] |
 
 ---

@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Learning Analytics]]"
   - "[[Preregistration]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -107,5 +108,5 @@ ESSA 可概括为四个有序证据层级：强证据对应 [[Randomised Control
 > - ESSA 首次将联邦拨款与具体的项目级有效性证据绑定——从此 "evidence-based" 从理念变为有法律强制力的政策杠杆
 > - 推动创建了 Evidence for ESSA（JHU 平台，月活 70,000+），直接面向教育领导者报告哪些项目满足 ESSA 标准
 > - 取代了 [[No Child Left Behind Act 2001|NCLB]] 不受欢迎的"适当年度进步"（AYP）问责框架，将政策重心从"惩罚低绩效学校"转向"为低绩效学校提供经过验证的改进方案"
-> - 相比 NCLB 时代，ESSA 证据层级对开发者、实践者和研究者更具现实后果，因为州和学区开始把这些层级正式用于项目审核与批准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
+> - 相比 NCLB 时代，ESSA 证据层级对开发者、[[Praxis|实践]]者和研究者更具现实后果，因为州和学区开始把这些层级正式用于项目审核与批准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])
 

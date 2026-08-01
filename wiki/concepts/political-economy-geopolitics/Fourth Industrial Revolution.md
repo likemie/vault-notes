@@ -7,7 +7,7 @@ aliases:
 summary: "围绕人工智能、区块链和自动化等技术集群构成新一轮社会经济变革的概念，常用于组织技术未来叙事和政策动员。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Theory of Knowledge]]"
   - "[[VUCA]]"
+  - "[[Praxis]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -84,7 +85,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - Partaken 的批评本身建立在将 [[Thomas Kuhn|Kuhn]] 的科学革命理论从自然科学领域移植到技术-社会变革领域——Kuhn 的理论原用于解释物理学中的[[Paradigm|范式转换]]，将其应用于工业革命分类是否恰当，Partaken 本人未加讨论([[Argument_Partaken_2022_Springer|Partaken, 2022, p.70]])
-> - 4IR 概念在政策界和企业界仍被广泛应用（WEF、各国产业政策），Partaken 的理论批评尚未在实践层面产生替代话语
+> - 4IR 概念在政策界和企业界仍被广泛应用（WEF、各国产业政策），Partaken 的理论批评尚未在[[Praxis|实践]]层面产生替代话语
 > - **[[Single-Case Design|SCD]] 技能与未来劳动市场的证据缺口** 4IR 催生的 SCD 框架所定义的"关键技能"是否真正对应未来劳动市场的实际需求，缺乏充分证据。Finegold & Notabartolo（2010, p.41）指出，如果工作岗位的设计不使用这些能力，投资提升个体通用能力不太可能带来正回报。"迄今为止，只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality|因果关系]]"（Pellegrino & Hilton, 2012, p.4, cit. by Zelinka, 2022, p.260）
 
 ---

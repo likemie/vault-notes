@@ -8,7 +8,7 @@ summary: "与参与者进行开放式对话以理解其主观经验和意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -17,6 +17,7 @@ tags:
   - research-methodology
   - paradigm/interpretivist
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
@@ -67,7 +68,7 @@ updated: 2026-07-22
 ## 定义
 
 > [!def] 方法定义
-> 质性访谈（Qualitative Interview）是[[Qualitative Research|质性研究]]中研究者与参与者进行开放式对话以获取其观点、经验和意义建构的数据收集方法。常见形式包括面对面访谈、[[Telephone Interview|电话访谈]]、[[Focus Group|焦点小组]]（每组 6–8 人）和电子邮件与网络访谈，使用非结构化或半结构化的少量开放式问题（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.199）。[[In-depth Interview|深度访谈]]是其最核心的变体。
+> 质性访谈（Qualitative Interview）是[[Qualitative Research|质性研究]]中研究者与参与者进行开放式[[Dialogue in Education|对话]]以获取其观点、经验和意义建构的数据收集方法。常见形式包括面对面访谈、[[Telephone Interview|电话访谈]]、[[Focus Group|焦点小组]]（每组 6–8 人）和电子邮件与网络访谈，使用非结构化或半结构化的少量开放式问题（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.199）。[[In-depth Interview|深度访谈]]是其最核心的变体。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体的主观经验、意义建构、观点、感受、态度和生活世界。
@@ -85,7 +86,7 @@ updated: 2026-07-22
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 知识在访谈对话中共同生产，而非从受访者脑中提取。研究者的提问方式、回应策略和在场状态都参与了意义的建构。核心原则是[[Fitness for Purpose|适合目的]]：越寻求可比较数据，访谈越标准化和量化；越寻求独特的个性化信息，访谈越趋向质性、开放和非结构化（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, p. 414]]）。
+> - **知识观** 知识在访谈[[Dialogue in Education|对话]]中共同生产，而非从受访者脑中提取。研究者的提问方式、回应策略和在场状态都参与了意义的建构。核心原则是[[Fitness for Purpose|适合目的]]：越寻求可比较数据，访谈越标准化和量化；越寻求独特的个性化信息，访谈越趋向质性、开放和非结构化（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, p. 414]]）。
 > - **研究者角色** 研究者是访谈工具本身——既需要知识饱满地展开访谈，又需要擅长互动和沟通。访谈是社会—人际遭遇，研究者需建立融洽关系、管理互动动态、处理权力不对称，同时保持[[Reflexivity|反身性]]。
 > - **有效性标准** 质性访谈的效度不依赖[[Sample Size Determination|样本量]]，而依赖资料收集和分析过程中的严谨性、追问的深度和丰富性、受访者的投入程度（Oppenheim, 1992）。自然主义访谈的有效性标准包括诚实性、回答的深度和丰富性。
 > - **不声称回答的问题** 不提供统计分布的精确估计；单个访谈不能单独支持[[Causality|因果推断]]；不适用于需要大规模标准化比较的研究。
@@ -142,7 +143,7 @@ updated: 2026-07-22
 > 6. 引出理由和解释
 
 > [!warning] 访谈不是自动适用
-> 某些文化中正式访谈可能被视为异化的；在敏感群体中（如海洛因使用者），非正式对话和[[Field Notes|田野笔记]]可能更合适（Maxwell, 2005: 93; Whyte, 1993: 303）。访谈不同于日常对话，部分参与者在非对话情境中可能不会敞开心扉（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 432–433]]）。
+> 某些文化中正式访谈可能被视为异化的；在敏感群体中（如海洛因使用者），非正式[[Dialogue in Education|对话]]和[[Field Notes|田野笔记]]可能更合适（Maxwell, 2005: 93; Whyte, 1993: 303）。访谈不同于日常对话，部分参与者在非对话情境中可能不会敞开心扉（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 432–433]]）。
 
 ---
 
@@ -179,7 +180,7 @@ Kvale（1996, p. 88）提出访谈调查的七个阶段（[[Argument_Cohen_Manio
 
 > [!method-fit] 适用判断
 > - **适合使用** 需要了解主观经验和意义建构；参与者无法被直接观察；探究行动者"为什么这样做"；已有理论不足以解释现象时生成[[Hypothesis|假设]]；研究复杂社会过程；获取边缘或沉默群体的声音；需要从多个视角获取丰富描述。
-> - **谨慎使用** 某些文化中正式访谈可能被视为异化；敏感群体中非正式对话可能更合适；访谈者和受访者之间存在显著权力不对称时。
+> - **谨慎使用** 某些文化中正式访谈可能被视为异化；敏感群体中非正式[[Dialogue in Education|对话]]可能更合适；访谈者和受访者之间存在显著权力不对称时。
 > - **不适合使用** 需要大规模统计推广；需要严格控制[[Variable|变量]]的[[Causality|因果推断]]；需要标准化可精确比较的数据。
 
 ---

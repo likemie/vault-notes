@@ -6,10 +6,10 @@ aliases:
 summary: "以复杂问题驱动学习过程的教学方法，强调学生围绕真实或拟真的问题开展探究、协作和知识应用。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - problem-based-learning
 - subject/instruction
@@ -20,10 +20,12 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Didaktik]]"
   - "[[Construct]]"
+  - "[[Constructive Alignment]]"
+  - "[[Praxis]]"
+  - "[[Hypothesis]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Effective Teaching]]"
-  - "[[Hypothesis]]"
   - "[[Blue Skies Research]]"
   - "[[Literature Review]]"
   - "[[Document]]"
@@ -37,11 +39,12 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_Blass_2020_JESP]]"
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: '2026-07-28'
 ---
 
 ## 定义
@@ -60,6 +63,11 @@ updated: '2026-05-18'
 > 2. 小组协作构建解释模型
 > 3. 持续学习和讨论精炼模型
 > 4. 解决问题并反思学习过程
+
+> [!abstract] 作为[[Constructive Alignment|建构性对齐]]系统
+> 专业教育把解决职业[[Praxis|实践]]中的问题作为目标，PBL 以同类问题组织小组互动、资料检索、知识应用和复盘，并用案例表现评估诊断、[[Hypothesis|假设]]、独立学习、综合与自我监控。目标、教学活动与评估因此围绕同一专业活动展开。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 70–72)]]
+>
+> 医学教育中的“三跳练习”（Triple Jump）依次评价学生处理案例、复核独立学习和形成最终问题表述的表现，使专业问题解决既成为学习过程，也成为评价对象。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 71–72)]]
 
 
 > [!abstract] 在 [[Visible Learning]] 中的[[Effect Size|效应量]]
@@ -144,3 +152,5 @@ updated: '2026-05-18'
 
 ## 相关案例／政策
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 把 PBL 作为自上而下[[Constructive Alignment|建构性对齐]]的实例，说明真实问题如何统一专业目标、学习活动和案例评估。

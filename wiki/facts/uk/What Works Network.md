@@ -8,7 +8,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
   - evidence-clearing-house
   - region/uk
 related_concepts:
+  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
@@ -47,7 +48,7 @@ updated: 2026-05-18
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> What Works Network 的目标是弥合学术研究与一线实践之间的鸿沟。其核心理念是：通过系统性地总结和传播研究证据（特别是 [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]），帮助从业者和政策制定者做出更好的决策。
+> What Works Network 的目标是弥合学术研究与一线[[Praxis|实践]]之间的鸿沟。其核心理念是：通过系统性地总结和传播研究证据（特别是 [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]），帮助从业者和政策制定者做出更好的决策。
 >
 > > "The establishment of the What Works Network... heralds a resurgence of evidence-based approaches in British policymaking."([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.4]])
 >
@@ -90,13 +91,13 @@ updated: 2026-05-18
 > - 平均[[Effect Size|效应量]]的呈现可能不够突出效应在各项研究之间的变异幅度
 > - 缺乏专门针对实施现有证据本位的实用指导，特别是如何将"什么有效"的证据与本地知识结合起来权衡([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.21-22]])
 > - 教师反馈机会有限——Toolkit 被描述为"只是一个产品"而非互动平台
-> - 缺乏一线教师参与项目设计——"令人沮丧的是智库和政策制定者认为他们正在提出前进方向，却没有课堂实践者参与项目"
+> - 缺乏一线教师参与项目设计——"令人沮丧的是智库和政策制定者认为他们正在提出前进方向，却没有课堂[[Praxis|实践]]者参与项目"
 
 ## 争议与评论
 
 > [!warning] 争议与评论
 > - **扩散模式的局限** 研究证据不能从学术来源通过政策清算中心级联顺畅地流入课堂，政治维度无法从 EBP 实施过程中完全剔除([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.15]])
-> - **与 [[Ofsted]] 的矛盾** 政府机构（尤其是 Ofsted）有时支持了与 [[Education Endowment Foundation|EEF]] 证据相矛盾的实践（如学习风格理论），削弱了 What Works 的公信力([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.37-38]])
+> - **与 [[Ofsted]] 的矛盾** 政府机构（尤其是 Ofsted）有时支持了与 [[Education Endowment Foundation|EEF]] 证据相矛盾的[[Praxis|实践]]（如学习风格理论），削弱了 What Works 的公信力([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.37-38]])
 > - **工具包的误读** EEF Toolkit 发布后，一些学校的反应是"太好了，让我们裁掉助教"——这完全误读了 Toolkit 关于 TA 使用方式的微妙信息([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
 
 ## 相关概念／理论

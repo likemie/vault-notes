@@ -8,7 +8,7 @@ aliases:
 summary: "东亚文化学习过程模型，以诚心、勤奋、刻苦、恒心、专心、尊师和谦虚等学习美德组织学习行为，目标是通过美德实践实现自我完善"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theory/confucianism
 related_concepts:
   - "[[Learning Virtues]]"
+  - "[[Praxis]]"
   - "[[Ideal Learner]]"
   - "[[Self-Cultivation]]"
   - "[[Homework]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Pride in Learning]]"
   - "[[Sage]]"
+  - "[[Dialogue in Education]]"
   - "[[Mind-Oriented Learning Process]]"
   - "[[Critical Thinking]]"
   - "[[Rote Learning]]"
@@ -59,7 +61,7 @@ updated: 2026-05-25
 ## 定义
 
 > [!info]
-> 美德导向学习过程是 Li (2012) 基于中国／东亚学习者的词汇研究、课堂观察和自述反思所识别的东亚文化学习过程模型。与西方以心智发展为焦点的模型不同，该模型以[[Learning Virtues|学习美德]]的培养为中心，将学习视为一个通过美德实践来实现自我完善的道德过程([[Argument_Li_2012_Cambridge|Li, 2012, p.123]])。
+> 美德导向学习过程是 Li (2012) 基于中国／东亚学习者的词汇研究、课堂观察和自述反思所识别的东亚文化学习过程模型。与西方以心智发展为焦点的模型不同，该模型以[[Learning Virtues|学习美德]]的培养为中心，将学习视为一个通过美德[[Praxis|实践]]来实现自我完善的道德过程([[Argument_Li_2012_Cambridge|Li, 2012, p.123]])。
 
 > [!quote]
 > "In my [[Ideal Learner]] study, for example, as many as 86 percent of the respondents mentioned one or more of these virtues. In comparison, only 38 percent of the European-American respondents wrote about virtue-oriented learning processes (but 96 percent mentioned mind-oriented learning processes)."([[Argument_Li_2012_Cambridge|Li, 2012, p.147]])
@@ -200,13 +202,13 @@ Li 访谈的一位大学生分享了一个典型场景："我经常强迫自己�
 - "废寝忘食"
 - "两耳不闻窗外事，一心只读[[Sage|圣贤]]书"
 
-东亚文化高度重视沉思式学习——学习者需要安静的时间和空间来学习和反思。在课堂上，儿童的注意力应集中在共同的学习主题上；私下交谈不被鼓励。[[Neo-Confucianism|宋明理学]]家借鉴佛教冥想实践，推广"静坐"作为专心的关键方法。Kim 的研究支持了这种安静学习的价值：说话会对亚洲学习者的信息处理产生干扰，但对欧洲裔美国学习者似乎不产生类似干扰([[Argument_Li_2012_Cambridge|Li, 2012, p.145]])。
+东亚文化高度重视沉思式学习——学习者需要安静的时间和空间来学习和反思。在课堂上，儿童的注意力应集中在共同的学习主题上；私下交谈不被鼓励。[[Neo-Confucianism|宋明理学]]家借鉴佛教冥想[[Praxis|实践]]，推广"静坐"作为专心的关键方法。Kim 的研究支持了这种安静学习的价值：说话会对亚洲学习者的信息处理产生干扰，但对欧洲裔美国学习者似乎不产生类似干扰([[Argument_Li_2012_Cambridge|Li, 2012, p.145]])。
 
 **专心的培养**是一个长期的社会化过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.146-147]])：
 - 教师可能会让全班儿童坐下，计算他们能安静坐多长时间不扭动或离座——训练儿童对专心需求的敏感性和自我监控能力
 - 通过需要慢下来和展示精细运动控制的技能来练习——如模仿中国书法、练习使用筷子、武术的有纪律动作
 - 课堂仪式：班长叫"起立"，全班齐声"老师好"，老师回应"同学们好，请坐"——整个过程不到三十秒，却标志着休闲时间的结束和神圣课堂时间的开始
-- 家长频繁使用"专心"一词——"你要专心学习""你在学校专心吗？"台湾的跨文化研究发现，台湾母子对话中关于专心的交流频率远高于欧洲裔美国母子
+- 家长频繁使用"专心"一词——"你要专心学习""你在学校专心吗？"台湾的跨文化研究发现，台湾母子[[Dialogue in Education|对话]]中关于专心的交流频率远高于欧洲裔美国母子
 - 家长创造安静的学习空间：晚饭后收拾餐桌、关掉电视；孩子做作业时，家长就近陪伴，在有需要时介入
 - Li 的童年记忆：父亲在赶集日将凳子放在院外街上，让她坐在集市嘈杂中读书，直到不再被噪音干扰
 
@@ -235,7 +237,7 @@ Li 访谈的一位大学生分享了一个典型场景："我经常强迫自己�
 
 > [!tip]-
 > - [[Confucian Learning Tradition]] — 儒家学习传统为美德导向学习过程提供了深层[[Cultural Models|文化模型]]
-> - [[Junzi]] — "君子"是学习者通过美德实践最终逼近的人格理想
+> - [[Junzi]] — "君子"是学习者通过美德[[Praxis|实践]]最终逼近的人格理想
 > - [[Heart and Mind for Wanting to Learn]] — "好学心"是美德导向学习过程的情感驱动力
 
 ---

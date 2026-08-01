@@ -7,9 +7,9 @@ summary: "丹麦教育研究者，高绩效学校与弱势学生提升研究者�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags:
 - jill-mehlbye
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Classroom Management]]"
   - "[[Effective Teaching]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -45,7 +46,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Effective Teaching]] — 为丹麦有效教学研究提供高绩效学校证据，尤其凸显高要求、学业表现文化、明确[[Classroom Management|课堂管理]]和测试实践的重要性([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–39]])。
+> - [[Effective Teaching]] — 为丹麦有效教学研究提供高绩效学校证据，尤其凸显高要求、学业表现文化、明确[[Classroom Management|课堂管理]]和测试[[Praxis|实践]]的重要性([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–39]])。
 > - [[SFI Report]] — Mehlbye 研究与 SFI 报告一起构成丹麦本土证据：二者都支持高要求、明确课堂管理等质量的重要性([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–38]])。
 
 ## 主要著作

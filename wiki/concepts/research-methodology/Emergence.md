@@ -4,24 +4,28 @@ aliases: [涌现, emergent properties, emergent order, 涌现秩序]
 summary: "复杂性理论的核心概念，指系统从低层元素互动中自发产生高层复杂性和新结构的过程，整体行为大于部分之和且不可还原为部分。"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [theme/complexity-theory, theme/systems-thinking, paradigm/complexity]
 related_concepts:
+  - "[[Virtual World]]"
   - "[[Paradigm]]"
   - "[[Research Question]]"
+  - "[[Praxis]]"
   - "[[Progressive Focussing]]"
 related_theories:
   - "[[Complexity Theory]]"
 related_methods:
+  - "[[Agent-based Modelling]]"
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
 confidence: medium
 status: draft
@@ -61,7 +65,7 @@ updated: 2026-07-11
 
 > [!feature] 质性研究中的两类涌现
 > - **理论的涌现** 理论从数据中产生而非预先设定——[[Grounded Theory|扎根理论]]（Glaser & Strauss, 1967）取代先验理论。数据提示理论而非相反。Lincoln & Guba（1985: 205）强调，扎根理论必须契合被研究的情境——这是一个在数据与理论之间来回迭代直到理论符合数据的循环和递归过程，打破了传统研究的线性逻辑（Flick, 1998: 41, 43）。
-> - **研究设计的涌现** 研究设计随时间涌现——抽样也随时间变化，研究焦点可能在现场沉浸后转移，[[Research Question|研究问题]]随对情境理解的深入而迭代修改。Flick（2009: 133）提出质性研究设计元素之间存在循环性或相互告知的性质，比线性阶段模型更准确地反映研究实践。
+> - **研究设计的涌现** 研究设计随时间涌现——抽样也随时间变化，研究焦点可能在现场沉浸后转移，[[Research Question|研究问题]]随对情境理解的深入而迭代修改。Flick（2009: 133）提出质性研究设计元素之间存在循环性或相互告知的性质，比线性阶段模型更准确地反映研究[[Praxis|实践]]。
 
 在数据分析层面，Parlett & Hamilton（1976）的[[Progressive Focussing|逐步聚焦]]（progressive focussing）是一种涌现式策略：研究者以广角镜头收集数据，通过筛选、归类、审视和反思，情境中最显著的突出特征逐步浮出——这些特征不是事先预设的，而是从数据中涌现的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 435)]]
 

@@ -9,7 +9,7 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Grotius 思想），视国际社会为通过多边合作与规则缓和无政府冲突的“存在制度缺陷的社会”，以“权威”为核心概念。在比较教育中，它将学科塑造成促进国际理解与远处治理规范趋同的“理性事业”。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Relational Space]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Praxis]]"
   - "[[Value Neutrality]]"
   - "[[Policy Borrowing]]"
   - "[[Global Citizenship]]"
@@ -121,7 +122,7 @@ updated: 2026-07-11
 > 这一命题分析早期理性主义如何通过跨国合作制度化。
 
 > [!claim] [[Joseph Lauwerys|Lauwerys, J.]] et al.
-> **国际联盟 IIIC 与欧洲比较教育学社（[[Comparative Education Society in Europe|CESE]]）的和平理性实践** 阐明，在理性主义框架下，比较教育承载着消除民族主义狭隘性的 Pacifist 承诺。两战期间，国际思想合作组织（IIIC，国联下属机构）召集跨国比较，致力于清除学校历史教科书中的偏见与盲区，以构建跨主观客观的学校知识，塑造 Zimmern 提出的“[[International Mind|国际心智]]”；二战后，这一实践在 UNESCO 科学人道主义倡议下延续。Joseph Lauwerys（英国首位比较教育教授）与 Saul Robinsohn（UNESCO 教育研究所所长）紧密协作，于 1961 年建立 CESE 学会，旨在通过欧洲教育的跨国学术交换与技术探讨，实现民主化与人类福利的理性增长。([[Argument_Klerides, 2023, pp. 423–424]])
+> **国际联盟 IIIC 与欧洲比较教育学社（[[Comparative Education Society in Europe|CESE]]）的和平理性[[Praxis|实践]]** 阐明，在理性主义框架下，比较教育承载着消除民族主义狭隘性的 Pacifist 承诺。两战期间，国际思想合作组织（IIIC，国联下属机构）召集跨国比较，致力于清除学校历史教科书中的偏见与盲区，以构建跨主观客观的学校知识，塑造 Zimmern 提出的“[[International Mind|国际心智]]”；二战后，这一实践在 UNESCO 科学人道主义倡议下延续。Joseph Lauwerys（英国首位比较教育教授）与 Saul Robinsohn（UNESCO 教育研究所所长）紧密协作，于 1961 年建立 CESE 学会，旨在通过欧洲教育的跨国学术交换与技术探讨，实现民主化与人类福利的理性增长。([[Argument_Klerides, 2023, pp. 423–424]])
 
 ### 命题二　新自由主义全球化下，比较教育转化为由大数据基准驱动的“远处治理”中介
 

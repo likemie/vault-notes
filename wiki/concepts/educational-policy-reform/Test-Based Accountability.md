@@ -8,7 +8,7 @@ aliases:
 summary: "以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排，核心在于将评价结果制度化地与奖惩考核挂钩，是全球教育治理中的显著特征之一"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - theme/educational-policy
   - region/global
 related_concepts:
+  - "[[Praxis]]"
   - "[[Performance Indicators]]"
   - "[[Examination-Oriented Education]]"
   - "[[Formative Assessment]]"
@@ -37,6 +38,7 @@ related_concepts:
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
+  - "[[Accounts]]"
   - "[[Case Study]]"
   - "[[Systematic Review]]"
   - "[[Documentary Analysis]]"
@@ -63,7 +65,7 @@ updated: 2026-07-21
 ## 定义
 
 > [!def] 核心定义
-> 基于考试的问责制（Test-Based Accountability）指以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排。问责（Accountability）的核心在于角色承担者对其行为负责、接受审查，并在未满足标准时可能受到制裁（Kogan, 1986, p. 25）。在教育语境中，这一机制将学生考试成绩作为衡量教育质量的核心指标，是全球教育体系中的显著特征之一（Darling-Hammond, 2004）。
+> 基于考试的问责制（Test-Based Accountability）指以学生标准化考试成绩评估、监督和规制学校与教师教学[[Praxis|实践]]的制度安排。问责（Accountability）的核心在于角色承担者对其行为负责、接受审查，并在未满足标准时可能受到制裁（Kogan, 1986, p. 25）。在教育语境中，这一机制将学生考试成绩作为衡量教育质量的核心指标，是全球教育体系中的显著特征之一（Darling-Hammond, 2004）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向将标准化考试成绩制度化地与学校评价、资源分配、校长考核及教师绩效挂钩的治理机制。
@@ -78,7 +80,7 @@ updated: 2026-07-21
 > [!citation-card]- 问责与责任
 > 问责强调对自身行为履行报告与说明的义务。（p. 854）
 >
-> *“the duty to account for one's actions” (Solbrekke & Englund, 2011, p. 854, 引自 [[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p. 588]])*
+> *“the duty to [[Accounts|account]] for one's actions” (Solbrekke & Englund, 2011, p. 854, 引自 [[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p. 588]])*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Performance Indicators|绩效指标]]（Performance Indicators） — 绩效指标是测量工具，考试问责是涵盖后果与奖惩的完整治理制度。
@@ -115,7 +117,7 @@ updated: 2026-07-21
 ### 命题一　高利害考试问责倾向于窄化课程并挤压探究性教学法
 
 > [!concept-lens] 课程窄化与教学法挤压
-> 这类命题探讨外部高利害问责对课堂教学实践的塑造，重点关注[[Performance Indicators|绩效指标]]对教学目标的替换以及对创新教学法的抑制。
+> 这类命题探讨外部高利害问责对课堂教学[[Praxis|实践]]的塑造，重点关注[[Performance Indicators|绩效指标]]对教学目标的替换以及对创新教学法的抑制。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J.
 > **表演性文化与教学窄化** 依赖考试成绩规制教学会产生表演性文化，将教学焦点窄化为官方绩效指标可测量的目标，挤压了更广泛的教育目的。[[Argument_Wang_2025_CE|(Ball, 2003, 引自 Wang & McLaughlin, 2025, p. 588)]]
@@ -176,7 +178,7 @@ updated: 2026-07-21
 
 > [!debates] 学术争议
 >
-> > [!axis] 对教育质量与教学实践的影响
+> > [!axis] 对教育质量与教学[[Praxis|实践]]的影响
 > > 焦点在于考试问责是提供了清晰的教学框架支持，还是导致了课程窄化与应试异化。
 > >
 > > - **Ball（2003）** 认为问责导致表演性文化与课程窄化。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
@@ -212,7 +214,7 @@ updated: 2026-07-21
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 运用[[Third Generation Activity Theory|第三代活动理论]]揭示中国学校在考试问责下建立共享目标、推动以学生为中心教育扩展性改造的实践机制。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 运用[[Third Generation Activity Theory|第三代活动理论]]揭示中国学校在考试问责下建立共享目标、推动以学生为中心教育扩展性改造的[[Praxis|实践]]机制。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示 [[PISA]] 比较逻辑如何在中观治理层面嵌入国家考试问责体系。
 > - [[Civil Service Examination]] — 中国古代科举制度为现代考试问责与考试文化奠定了深厚的历史传统。
 > - [[Quality Education]] — 中国素质教育改革试图调和[[Examination-Oriented Education|应试教育]]与学生全面发展的张力。

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Questionnaire]]"
+  - "[[Praxis]]"
   - "[[Operationalization]]"
   - "[[Sensitive Questions]]"
   - "[[Questionnaire Wording]]"
@@ -59,6 +60,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Contingency Questions]]"
+  - "[[Dialogue in Education]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
   - "[[Internal Consistency]]"
@@ -73,6 +75,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Telephone Interview]]"
+  - "[[Cross-checking]]"
   - "[[Random Sampling]]"
 status: draft
 created: 2026-07-20
@@ -105,7 +108,7 @@ updated: 2026-07-21
 > ```
 
 > [!abstract] 论证主线
-> 本章以[[Questionnaire|问卷]]设计的**实践操作序列**为主线，从伦理前提出发，经由规划与[[Operationalization|操作化]]阶段，进入题型选择的系统介绍，再覆盖[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、题目排序、非文字问卷、布局、[[Covering Letter|封面信]]与跟进信、[[Pilot Testing|预测试]]、实操考量、施测方式和数据处理。论证链条为：**伦理基础→ 规划与操作化→ 题型体系→ 风险控制→ 形式与外观→ 质量保证→ 实施与收尾**。全章既是概念性指南，也是操作性手册，大量使用清单、表格和案例来说明各环节的最佳实践与常见错误。
+> 本章以[[Questionnaire|问卷]]设计的**[[Praxis|实践]]操作序列**为主线，从伦理前提出发，经由规划与[[Operationalization|操作化]]阶段，进入题型选择的系统介绍，再覆盖[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、题目排序、非文字问卷、布局、[[Covering Letter|封面信]]与跟进信、[[Pilot Testing|预测试]]、实操考量、施测方式和数据处理。论证链条为：**伦理基础→ 规划与操作化→ 题型体系→ 风险控制→ 形式与外观→ 质量保证→ 实施与收尾**。全章既是概念性指南，也是操作性手册，大量使用清单、表格和案例来说明各环节的最佳实践与常见错误。
 
 建议与第 13 章（Surveys，含在线问卷）、第 5 章（伦理）和第五部分（数据分析）配合阅读（p. 104）。问卷是一种广泛使用的调查工具，其吸引力（提供结构化数字化数据、无需研究者在场、分析相对直接）必须与开发、预测试和优化所需的时间投入以及数据可能不够精细和回应灵活性有限等局限相权衡（Wilson & McLean, 1994）（p. 105）。
 
@@ -699,7 +702,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 > - 要求受访者记日记，以提高效度和信度。
 >
 > **效度保障**
-> - 访谈结束时询问受访者对话题敏感性的看法。
+> - 访谈结束时询问受访者[[Dialogue in Education|对话]]题敏感性的看法。
 > - 如果可能，找到验证数据的方法。
 
 > [!warning] 核心原则
@@ -939,7 +942,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 > [!proc] 数据处理的三步骤（Moser and Kalton, 1977）（pp. 197–199）
 >
 > 1. **编辑（Editing）** 识别并消除受访者错误
->    - **完整性检查** 检查每个问题都有回答（"不适用"类别始终可用）。缺失答案有时可从调查的其他部分交叉检查。最坏情况下可再次联系受访者补充缺失信息。
+>    - **完整性检查** 检查每个问题都有回答（"不适用"类别始终可用）。缺失答案有时可从调查的其他部分[[Cross-checking|交叉检查]]。最坏情况下可再次联系受访者补充缺失信息。
 >    - **准确性检查** 尽可能检查所有问题被准确回答。不准确性来自访员或受访者的粗心，勾错框、标错码、简单算术错误，这些都会降低数据效度，除非在编辑过程中被捕捉到。有时也存在有意误导的企图。
 >    - **一致性检查** 确保访员对指令和问题有一致理解。有时未给出关于受访者回答解释的明确指令会导致访员将相同回答记录在多种回答码中而非一种。
 >

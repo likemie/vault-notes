@@ -6,12 +6,13 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "curriculum"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 related_concepts:
   - "[[Value Neutrality]]"
+  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Problem-Based Learning]]"
   - "[[Research Question]]"
@@ -23,6 +24,8 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Didaktik]]"
   - "[[Reflexivity]]"
+  - "[[Dialogue in Education]]"
+  - "[[Reflective Thinking]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epochal Key Problems]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -64,7 +67,7 @@ updated: 2026-07-09
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向以生活世界中的现象体验为起点，通过跨学科与学科深度的协同，建构对现实世界复杂问题的认知与社会性理解。它以[[Phenomenology|现象学]]（Phenomenology）为底色，认为“现象”是主体在以意向性（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，绝非[[Value Neutrality|价值中立]]的客观实体，且包含具身认知（Embodied cognition）与主体间性（Intersubjectivity）的情感和社交特征。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–4]]
-> - **用途** 帮助研究者和实践者跳出孤立的学科界限，探究学生如何通过真实[[Champ|场域]]、协作和具身经验面对全球性挑战（如可持续发展）。
+> - **用途** 帮助研究者和[[Praxis|实践]]者跳出孤立的学科界限，探究学生如何通过真实[[Champ|场域]]、协作和具身经验面对全球性挑战（如可持续发展）。
 > - **边界** It 不等于消灭学科建制的彻底跨学科，也不应被窄化为促进经济竞争和测量标准化技能的工具。
 
 > [!boundary]- 概念边界
@@ -105,8 +108,8 @@ updated: 2026-07-09
 > - **以现象为学习起点** 学习从可触摸或不可触摸的生活世界真实或抽象现象开始（如可持续生态、地方历史遗存等），引导学生追随人类好奇心的历史足迹建立连接。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 3–4]]
 > - **跨学科整合与学科深度协同** 反对学科的自我封闭，但强调每门科目具有其独特的理论结构与[[Ontology|本体论]]深度，跨学科探索应当是学科深度的横向协同，而非学科逻辑的消解。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3–5]]
 > - **生活世界与经验体验的嵌入性** 强调学习主题应直接关联学生的邻近环境，释放[[Reflexivity|反思性]]主体能动性（Agency），使知识建构基于活泼的日常经验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 4]]
-> - **具身经验与主体间性情绪整合** 遵循 Merleau-Ponty [[Phenomenology|现象学]]，将身体感官经验与实践置于纯粹智力认知之前；同时关注主体间性（Intersubjectivity）的社交与情绪交互，如信任、尊重、困惑、怀疑及关系焦虑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]
-> - **协作探究与共同责任分担** 师生在共同时空里分担责任，通过联合规划、对话与实践行动，协作面对复杂的全球性与地方挑战。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 3]]
+> - **具身经验与主体间性情绪整合** 遵循 Merleau-Ponty [[Phenomenology|现象学]]，将身体感官经验与[[Praxis|实践]]置于纯粹智力认知之前；同时关注主体间性（Intersubjectivity）的社交与情绪交互，如信任、尊重、困惑、怀疑及关系焦虑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]
+> - **协作探究与共同责任分担** 师生在共同时空里分担责任，通过联合规划、[[Dialogue in Education|对话]]与实践行动，协作面对复杂的全球性与地方挑战。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 3]]
 > - **作为课程的自我修正模型** 桥接教育理论与学校实践，将学习过程视为个人与客观世界不断交互并重构自身世界观的反思过程。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
 
 > [!logic-map]- 核心要素与学习过程
@@ -128,7 +131,7 @@ updated: 2026-07-09
 > 这类命题关注现象本位学习（PhBL）在哲学层面的本源目的，强调其作为连接学生“生活世界”、激发反思性主体能动性以及重审教育意义的教学入口。
 
 > [!claim] Rauste-von Wright, M.
-> 现象本位学习作为一种“自我修正的课程模型”，将 [[John Dewey]] 的反思性探究与 [[George Herbert Mead]] 的具身社会互动论融合为[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]（[[Pragmatic Constructivism]]）。它主张教学应当从预设的课程大纲导向转向基于学生自身世界观的生成，将学习视为“情境化与语境化的互动过程”，以弥合理论与实践的传统鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
+> 现象本位学习作为一种“自我修正的课程模型”，将 [[John Dewey]] 的[[Reflective Thinking|反思性探究]]与 [[George Herbert Mead]] 的具身社会互动论融合为[[Pragmatic Paradigm|实用主义]][[Constructivist Paradigm|建构主义]]（[[Pragmatic Constructivism]]）。它主张教学应当从预设的课程大纲导向转向基于学生自身世界观的生成，将学习视为“情境化与语境化的互动过程”，以弥合理论与[[Praxis|实践]]的传统鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
 
 > [!claim] Schaffar, B., & Wolff, L.-A.
 > 现象本位学习本质上并非一套标准化、可快速复制或可直接移植的教学干预技术，也不是解决教育危机的万灵药（Salvation approach）。它应被视为一个促使教育者重新追问与反思教育及课程意义的“教学反思入口”，旨在唤起教师与学生的教学能动性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 11]]
@@ -164,7 +167,7 @@ updated: 2026-07-09
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990年代末 — 教师教育中的模型诞生** Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中提出现象本位教学法，将其界定为“[[Pragmatic Constructivism|课程自我修正模型]]”，旨在弥合教育心理学理论与课堂教学实践之间的鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
+> - **1990年代末 — 教师教育中的模型诞生** Maijaliisa Rauste-von Wright 在赫尔辛基大学教师教育中提出现象本位教学法，将其界定为“[[Pragmatic Constructivism|课程自我修正模型]]”，旨在弥合教育心理学理论与课堂教学[[Praxis|实践]]之间的鸿沟。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 7–8]]
 > - **2014年 — 芬兰国家课程政策化** 芬兰正式发布《基础教育国家核心课程 2014》（瑞典语与芬兰语版），将跨学科探究与现象本位作为实现课程核心价值的官方推荐教学取向，但在学校实施中呈现极高[[Heterogeneity|异质性]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **2016年 — 译本发布与国际关注** 该课程大纲英文版正式发布，在国际社交媒体与教育改革讨论中引发热议，并伴随着“芬兰取消传统学科分类”的广泛误读。
 > - **2018年–2023年 — 教师教育中的可持续发展实验** 赫尔辛基大学运行 SveaSus（可持续世界遗产现象本位学习）项目，在芬兰堡（Suomenlinna）世界遗产地展开具身学习、艺术本位及多语教学的 PhBL 实证探究。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
@@ -182,7 +185,7 @@ updated: 2026-07-09
 > > PhBL 扎根于[[Phenomenology|现象学]]和欧陆教化（Bildung）传统，旨在培养面对未知开放未来的主体自治性。但其在课程化过程中遭遇了新自由主义绩效管理（[[Performativity]]）的侵蚀。以 [[OECD]] 和欧盟为代表的[[21st Century Skills and Competencies Discourse|21世纪技能]]政策话语倾向于将[[Atomisation of Knowledge and Skills|知识与技能原子化]]为可量化的[[Performance Indicators|绩效指标]]，这使得 PhBL 的整体教学理想面临被碎片化和工具化的风险。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]
 
 > [!warning] 适用局限
-> - **概念定义的模糊性与实施的高[[Heterogeneity|异质性]]** 芬兰国家核心课程文本中并未给 PhBL 提供统一、清晰的[[Definition of Terms|操作性定义]]。这导致各地区学校和教师在实践[[Transfer Translation Transformation|转译]]中呈现极高的实施异质性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 10–11]]
+> - **概念定义的模糊性与实施的高[[Heterogeneity|异质性]]** 芬兰国家核心课程文本中并未给 PhBL 提供统一、清晰的[[Definition of Terms|操作性定义]]。这导致各地区学校和教师在[[Praxis|实践]][[Transfer Translation Transformation|转译]]中呈现极高的实施异质性。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 10–11]]
 > - **缺乏大规模量化实证证据支持** 当前对 PhBL 的价值主张和政策辩护多停留在哲学与规范性批判（Normative critique）层面，关于其具体学习成效、跨学科认知负荷及学校组织变革影响，仍缺乏充分的经验实证与量化评估数据。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 11]]
 
 ---

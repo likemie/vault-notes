@@ -11,7 +11,7 @@ aliases:
 summary: "Damon 与 Hart 提出的 I-Self 三个构成维度，Li 以此解释文化学习模型在全球化中为何通过身份认同得以持久"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - theme/cultural-transmission
   - theme/self-development
 related_concepts:
+  - "[[Growth]]"
   - "[[Pride in Learning]]"
   - "[[Conatus]]"
   - "[[Learning Virtues]]"
@@ -47,7 +48,7 @@ updated: 2026-05-25
 > 自我连续性（self-continuity）、自我独特性（self-distinctness）和自我能动性（self-agency）是 Damon 与 Hart（1997）提出的 I-Self 的三个构成维度。这三个维度描述了人在发展自我理解时最核心的心理需要——我们是谁、为何独特、能做什么——也因此成为文化价值嵌入个体身份认同的主要通道。
 
 > [!abstract]
-> - **自我连续性（self-continuity）** 感知到自己是跨越时间的同一个人的需要。尽管人在一生中不断成长和变化，自我连续性使人能够将过去的自己、现在的自己与未来的自己整合为一个连贯的身份叙事([[Argument_Li_2012_Cambridge|Li, 2012, pp.337-338]])。
+> - **自我连续性（self-continuity）** 感知到自己是跨越时间的同一个人的需要。尽管人在一生中不断[[Growth|成长]]和变化，自我连续性使人能够将过去的自己、现在的自己与未来的自己整合为一个连贯的身份叙事([[Argument_Li_2012_Cambridge|Li, 2012, pp.337-338]])。
 > - **自我独特性（self-distinctness）** 感知到自己拥有与他人不同的独特品质的需要。语言、饮食、传统服饰、艺术、节庆等可见的文化标记，以及更深层的文化价值观（如学习信念），都是自我独特性的明确目标([[Argument_Li_2012_Cambridge|Li, 2012, pp.338-339]])。
 > - **自我能动性（self-agency）** 感知到自己是自身思想、行动、效能和成就的原因的需要。一种文化所擅长的领域为自我能动性提供最相关的反馈——儿童被教授这些技能，进而延续该文化在这些领域的卓越表现。
 
@@ -87,7 +88,7 @@ updated: 2026-05-25
 > [!info]- 核心数据
 > - 美国西班牙裔人口超过 5000 万（占总人口 16.3%），2000–2010 年增长 43%([[Argument_Li_2012_Cambridge|Li, 2012, p.330]])
 > - 亚裔美国人口约 1500 万（占 4.8%），同期增长 43.3%，为各族群中增速最快
-> - 美国 70% 的亚裔来自所谓"两代家庭"——父母在母文化中出生和成长，子女在美国出生和成长([[Argument_Li_2012_Cambridge|Li, 2012, p.344]])
+> - 美国 70% 的亚裔来自所谓"两代家庭"——父母在母文化中出生和[[Growth|成长]]，子女在美国出生和成长([[Argument_Li_2012_Cambridge|Li, 2012, p.344]])
 
 ---
 

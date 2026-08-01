@@ -7,7 +7,7 @@ summary: "概率和非概率样本同时并排运行、彼此独立的混合方�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#fef3c7"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Sample Size Determination]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -61,7 +62,7 @@ updated: 2026-06-22
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **独立性假定的局限** 两种样本完全独立的假定在实践中可能不完全成立，特别在小型研究社区中可能出现样本重叠。
+> - **独立性假定的局限** 两种样本完全独立的假定在[[Praxis|实践]]中可能不完全成立，特别在小型研究社区中可能出现样本重叠。
 > - **资源需求** 同时运行两种抽样方案对时间和经费要求较高。
 
 ## 使用此方法的研究

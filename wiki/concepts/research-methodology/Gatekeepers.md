@@ -8,7 +8,7 @@ aliases:
 summary: "研究现场中控制研究准入与再准入的个体或角色，在质性研究和敏感研究中是关键的权力节点——守门人可能批准、阻止或条件化研究，其行为模式直接影响研究设计、数据质量和伦理关系"
 type: concept
 domain: "research-methodology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Realism in International Relations]]"
+  - "[[Praxis]]"
   - "[[Champ]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -178,7 +179,7 @@ Gewirtz & Ozga (1994, pp. 192–193) 将有权者研究中的守门问题总结�
 > Lee (1993, p. 127) 提出了一条[[Pragmatic Paradigm|实用主义]]原则：研究者可能需要做一些让步——做一点守门人要求的事，总比根本无法做研究要好。但让步必须在不可协商的伦理底线之内。Lee 的建议是[[Realism in International Relations|现实主义]]而非理想主义的：它承认研究者的权力有限，但拒绝无限妥协（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 208]]）。
 
 > [!claim] 命题四：准入过程本身就是数据
-> Hammersley & Atkinson (1983, p. 54) 指出准入不仅是一个实践问题——它本身提供了关于研究场所的社会组织的洞察。研究者在尝试进入一个[[Champ|场域]]时遇到的阻力、被要求走的流程、被问的问题——这些本身就是数据，揭示了研究场所的权力结构、信任边界和制度文化。
+> Hammersley & Atkinson (1983, p. 54) 指出准入不仅是一个[[Praxis|实践]]问题——它本身提供了关于研究场所的社会组织的洞察。研究者在尝试进入一个[[Champ|场域]]时遇到的阻力、被要求走的流程、被问的问题——这些本身就是数据，揭示了研究场所的权力结构、信任边界和制度文化。
 
 ---
 

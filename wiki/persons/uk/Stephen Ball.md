@@ -7,7 +7,7 @@ summary: "英国教育社会学家，教育政策语境理论与私有化分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Analytic Framework]]"
   - "[[School Effectiveness]]"
+  - "[[Praxis]]"
   - "[[Governing by Numbers]]"
   - "[[Document]]"
   - "[[Recontextualization]]"
@@ -94,7 +95,7 @@ updated: 2026-07-13
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1994 — *Education Reform: A Critical and Post-structural Approach***：奠定了政策社会学的批判框架，系统阐明了政策文本的语境、实践与结果交互。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 1–2]])
+> - **1994 — *Education Reform: A Critical and Post-structural Approach***：奠定了政策社会学的批判框架，系统阐明了政策文本的语境、[[Praxis|实践]]与结果交互。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 1–2]])
 > - **2008 — *Some sociologies of education: A history of problems and places, and segments and gazes***：批判性总结了教育社会学史，揭示量化指标如何把学校重构为可审计和可[[Governing by Numbers|数字治理]]的组织。 ([[Argument_Ball_2008_SR|Ball, 2008, pp. 650-669]])
 > - **2008 — *Hidden privatisation in public education***：与 Deborah Youdell 合作，系统梳理了[[Endogenous and Exogenous Privatisation|内生与外生私有化]]趋势，成为研究教育私有化的核心[[Document|文献]]。 ([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 4]])
 

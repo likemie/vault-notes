@@ -7,10 +7,10 @@ aliases:
 summary: "中国 1990 年代后期提出的教育改革理念，旨在替代以考试为中心的应试教育，以提升公民整体素质为目标，杜威的进步教育思想被选择性吸收为其理论基础和改革正当性资源"
 type: concept
 domain: "educational-policy-reform"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/china
   - theme/educational-reform
@@ -20,13 +20,15 @@ related_concepts:
   - "[[Examination-Oriented Education]]"
   - "[[Recontextualization]]"
   - "[[Rote Learning]]"
+  - "[[Praxis]]"
   - "[[Progressive Education]]"
   - "[[Sinicisation]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[John Dewey]]"
-related_facts: []
+related_facts:
+  - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
@@ -57,7 +59,7 @@ updated: 2026-05-26
 ## 概念辨析
 
 > [!example]
-> - **vs [[Examination-Oriented Education|应试教育]]（exam-oriented education）** 素质教育在官方话语中被建构为应试教育的对立面。应试教育被视为以考试分数为唯一目标、导致[[Rote Learning|死记硬背]]和创造力压抑；素质教育则被表述为以学生全面发展为导向。但 Schulte（2009, pp.91–92）指出，这一二元对立在政策实践层面远比话语层面模糊。
+> - **vs [[Examination-Oriented Education|应试教育]]（exam-oriented education）** 素质教育在官方话语中被建构为应试教育的对立面。应试教育被视为以考试分数为唯一目标、导致[[Rote Learning|死记硬背]]和创造力压抑；素质教育则被表述为以学生全面发展为导向。但 Schulte（2009, pp.91–92）指出，这一二元对立在政策[[Praxis|实践]]层面远比话语层面模糊。
 > - **vs [[John Dewey|杜威]]的[[Progressive Education|进步教育]]** 中国教育改革者将两者的关系建构为**理念-应用**关系——杜威提供了理论基础，素质教育提供了[[Sinicisation|中国化]]的政策框架。但 Schulte 的分析表明，这一关系实为[[Recontextualization|再脉络化]]：杜威的某些元素被选择性提取以匹配素质教育的政策议程，而非素质教育是杜威理论的自然延伸。
 
 ---
@@ -65,7 +67,7 @@ updated: 2026-05-26
 ## 争议与批评
 
 > [!warning]
-> You（2019, p.107）指出，中国存在**两个平行的教育系统**——素质教育**在修辞和形式中**与[[Examination-Oriented Education|应试教育]]**在现实和实质中**。尽管官方话语将素质教育建构为应试教育的替代方案，但在实际政策层面，两者的二元对立远比话语层面模糊([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–92]])。[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, p.589)]]的研究进一步证实了这一诊断：在高利害考试（特别是高考）的制度压力下，许多教师不得不为了达到学业基准而牺牲教育改革，素质教育的实施在很大程度上停留在话语层面。
+> You（2019, p.107）指出，中国存在**两个平行的教育系统**——素质教育**在修辞和形式中**与[[Examination-Oriented Education|应试教育]]**在现实和实质中**。尽管官方话语将素质教育建构为应试教育的替代方案，但在实际政策层面，两者的二元对立远比话语层面模糊([[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.91–92]])。[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, p.589)]]的研究进一步证实了这一诊断：在高利害考试（特别是[[Gaokao|高考]]）的制度压力下，许多教师不得不为了达到学业基准而牺牲教育改革，素质教育的实施在很大程度上停留在话语层面。
 
 ---
 

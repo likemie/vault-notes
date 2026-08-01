@@ -5,10 +5,10 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
 - knowledge-based-economization
 - knowledge-based-economy
@@ -18,9 +18,11 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Praxis]]"
   - "[[Academic Freedom]]"
   - "[[Geopolitical Subject]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Growth]]"
   - "[[Economic Patriotism]]"
   - "[[Analytic Framework]]"
   - "[[Innovation Ecosystem]]"
@@ -69,7 +71,7 @@ updated: '2026-06-02'
 ## 定义
 
 > [!info] 定义
-> [[Knowledge-Based Economy|知识经济]]化（Knowledge-Based Economization）是 [[Sami Moisio]]（2018, 2022）提出的核心分析概念。其主张可以概括为一句话：**知识经济不是自然存在的经济形态，而是被持续制造出来的——通过政策话语、空间规划、制度实践和主体形塑，一个社会不断将自身经济化为知识经济。**
+> [[Knowledge-Based Economy|知识经济]]化（Knowledge-Based Economization）是 [[Sami Moisio]]（2018, 2022）提出的核心分析概念。其主张可以概括为一句话：**知识经济不是自然存在的经济形态，而是被持续制造出来的——通过政策话语、空间规划、制度[[Praxis|实践]]和主体形塑，一个社会不断将自身经济化为知识经济。**
 >
 > > "the knowledge economy as an actually existing economy as a continuous process of social and political production in all kinds of economic imaginaries as well as economic and non-economic practices."([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])
 > > 
@@ -108,7 +110,7 @@ Moisio 的[[Knowledge-Based Economy|知识经济]]化概念建立在两个理论
 
 具体而言，economization 包含两个方向的运动([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])：
 
-1. **社会议题被经济化** 一系列社会议题被不断转译为经济议题，如同它们是纯粹的经济事务。例如：教育的目的本可以是公民培养、个人成长或文化传承，但在 economization 过程中，教育被首要地转译为**投资人力资本**、**增强国家竞争力**、**回报率**的经济议题——其他目的不是消失了，而是被经济逻辑重新框定和排序。
+1. **社会议题被经济化** 一系列社会议题被不断转译为经济议题，如同它们是纯粹的经济事务。例如：教育的目的本可以是公民培养、个人[[Growth|成长]]或文化传承，但在 economization 过程中，教育被首要地转译为**投资人力资本**、**增强国家竞争力**、**回报率**的经济议题——其他目的不是消失了，而是被经济逻辑重新框定和排序。
 
 2. **经济议题被社会化** 反过来，经济相关事务也被表述为社会的、政治的和集体的**我们**议题。例如：提升 GDP 被表述为**为了孩子们的未来**，吸引全球资本被表述为**爱国（参见 [[Economic Patriotism]]）**。这一方向使得经济政策获得了超越纯粹经济计算的道德和情感合法性。
 
@@ -116,7 +118,7 @@ Moisio 借用了这个双方向运动的框架，将其聚焦于高等教育和�
 
 ### Polanyi（1982）的经济作为制度化过程：经济不是自治的
 
-Polanyi 论证，任何经济——包括资本主义市场经济——都不可能是自治的（autonomous）。所有资本积累体制都是**制度化过程（instituted processes）** 国家和教育、科学、法律、社会制度、传统等**额外经济（extra-economic）**实践在其中扮演构成性角色([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])。
+Polanyi 论证，任何经济——包括资本主义市场经济——都不可能是自治的（autonomous）。所有资本积累体制都是**制度化过程（instituted processes）** 国家和教育、科学、法律、社会制度、传统等**额外经济（extra-economic）**[[Praxis|实践]]在其中扮演构成性角色([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])。
 
 这个论证对知识经济化分析至关重要：它意味着知识经济不可能纯粹通过市场交易运作——它**必须**依赖非经济制度（大学、法律体系、国家政策、文化规范）来支撑其运转。大学在 KBE 话语中被凸显，不是因为大学天然应该服务经济，而是因为知识经济化过程需要大学作为额外经济的锚定点——这就是为什么国家投入巨额资金改造大学，为什么大学的空间、课程和治理被重新设计。
 
@@ -132,7 +134,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 | 焦点 | 分析对象 | 例 |
 |------|---------|-----|
 | **物质过程** | 知识密集型资本主义的实际运作方式——资本如何流动、空间如何被改造、制度如何被重构 | 城市创新综合体（Zukin, 2020）的物理建设；大学校园的空间改造 |
-| **话语建构** | 通过经济化想象和客观化社会实践将上述物质过程合法化和自然化的过程 | 大学排名将竞争力物化为可测量的自然事实；**[[Innovation Ecosystem\|创新生态系统]]**叙事将特定空间配置呈现为唯一合理的发展路径 |
+| **话语建构** | 通过经济化想象和客观化社会[[Praxis\|实践]]将上述物质过程合法化和自然化的过程 | 大学排名将竞争力物化为可测量的自然事实；**[[Innovation Ecosystem\|创新生态系统]]**叙事将特定空间配置呈现为唯一合理的发展路径 |
 
 两个焦点不是分开分析然后加总，而是要追踪它们的**相互构成**关系：
 - 话语（如[[Knowledge-Based Economy|知识经济]]需要创新人才）→ 驱动物质实践（如大学设立创业课程、改造图书馆为 makerspace）

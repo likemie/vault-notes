@@ -7,9 +7,9 @@ summary: "通过系统分析课程文件、政府政策、媒体报道和学术�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
 - document-analysis
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Lifelong Learning]]"
+  - "[[Dialogue in Education]]"
   - "[[Causality]]"
   - "[[Externalization]]"
   - "[[Analytic Framework]]"
@@ -70,7 +71,7 @@ updated: 2026-07-13
 > 4. **来源[[Triangulation|三角验证]]** — 交叉比对不同来源的叙述差异（如政府文件 vs. 官媒 vs. 学术文献）
 > 5. **叙事分析** — 识别政府如何"框架"问题以合法化特定政策（如"[[Lifelong Learning|终身学习]]"论述 vs."国家安全"论述）
 > 6. **对比分析** — 比较不同历史阶段中同一课程因素的角色变化（如 LS 创立期 vs. 废除期）
-> 7. **理论框架对话** — 将案例分析结果与既有课程理论（如 Cuban）进行对话，识别理论的解释力与局限
+> 7. **理论框架[[Dialogue in Education|对话]]** — 将案例分析结果与既有课程理论（如 Cuban）进行对话，识别理论的解释力与局限
 
 ## 适用场景
 

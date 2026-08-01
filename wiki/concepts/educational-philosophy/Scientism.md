@@ -4,7 +4,7 @@ aliases: [科学主义]
 summary: "对科学方法和科学权威的过度美化，将其轻率扩展到原本不适用领域的思想倾向，将科学视为唯一合法的认识论"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -15,7 +15,9 @@ tags:
   - stance/critique
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Scientific Method]]"
+  - "[[Ways of Knowing]]"
   - "[[Positivism]]"
   - "[[Cargo Cult Science]]"
   - "[[Evidence-Based Education]]"
@@ -28,6 +30,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Critical Thinking]]"
   - "[[Theory of Knowledge]]"
+  - "[[Areas of Knowledge]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Effect Size]]"
 related_theories: []
@@ -62,8 +65,8 @@ updated: 2026-07-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学主义是一种[[Epistemology|认识论]]立场，它将自然科学的方法和权威过度扩展到原本不适用或不充分的领域，将科学知识视为唯一合法的知识形式。
-> - **用途** 帮助研究者识别教育政策、课程设计和研究实践中以科学之名执行的简化论和量化霸权，区分"使用[[Scientific Method|科学方法]]"与"科学主义"之间的界限。
-> - **边界** 科学主义不等于科学本身，也不等于所有形式的实证研究。反对科学主义不是反对科学，而是反对将科学方法的适用范围扩大到它无法胜任的领域。在教育研究中，使用 [[Randomised Controlled Trials|RCT]] 或[[Meta-analysis|元分析]]不必然等于科学主义——只有将这些方法层级直接等同于价值层级、排斥其他认知方式时，才构成科学主义。
+> - **用途** 帮助研究者识别教育政策、课程设计和研究[[Praxis|实践]]中以科学之名执行的简化论和量化霸权，区分"使用[[Scientific Method|科学方法]]"与"科学主义"之间的界限。
+> - **边界** 科学主义不等于科学本身，也不等于所有形式的实证研究。反对科学主义不是反对科学，而是反对将科学方法的适用范围扩大到它无法胜任的领域。在教育研究中，使用 [[Randomised Controlled Trials|RCT]] 或[[Meta-analysis|元分析]]不必然等于科学主义——只有将这些方法层级直接等同于价值层级、排斥其他[[Ways of Knowing|认知方式]]时，才构成科学主义。
 
 > [!boundary] 概念边界
 > - 不等于 [[Scientific Method|科学方法]]——科学方法是工具，科学主义是将工具上升为唯一合法性来源的意识形态
@@ -76,7 +79,7 @@ updated: 2026-07-11
 > [!contrast-table] 与相关概念的区别
 > | 维度 | Scientism | [[Cargo Cult Science]] | [[Evidence-Based Education]] 强版本 | [[Technical Rationality]] |
 > |---|---|---|---|---|
-> | **本质** | [[Epistemology\|认识论]]霸权：只有科学知识是合法的 | 伪科学实践：模仿科学形式但无科学实质 | 方法层级等同于价值判断 | 手段-目的控制逻辑 |
+> | **本质** | [[Epistemology\|认识论]]霸权：只有科学知识是合法的 | 伪科学[[Praxis\|实践]]：模仿科学形式但无科学实质 | 方法层级等同于价值判断 | 手段-目的控制逻辑 |
 > | **核心机制** | 将[[Scientific Method\|科学方法]]扩展到不适用领域 | 照搬科学仪式而无科学推理 | 以证据等级排斥非量化证据 | 通过技术程序替代[[Professional Judgment\|专业判断]] |
 > | **识别信号** | 可测量=最重要；只有科学能给出可信知识 | 方法论外表精美但不可验证 | [[Randomised Controlled Trials\|RCT]]/[[Meta-analysis\|元分析]]被赋予最高认识论权威 | 教师被还原为技术执行者 |
 
@@ -86,7 +89,7 @@ updated: 2026-07-11
 
 > [!feature] 科学主义的核心特征
 > - **还原主义（Reductionism）** 将复杂现象简化为可测量的少数[[Variable|变量]]，忽视不可量化的维度（Hayek, 1942; Sergiovanni, 1989）
-> - **过度重视经验数据** 将实证数据视为唯一或最高形式的知识，排斥诠释学、审美、批判、道德和创造性等其他认知方式（O'Mahony, 2017）
+> - **过度重视经验数据** 将实证数据视为唯一或最高形式的知识，排斥诠释学、审美、批判、道德和创造性等其他[[Ways of Knowing|认知方式]]（O'Mahony, 2017）
 > - **历史源头** 源于二战后 R&D 模式的兴起——企业科学家和工程师从研发进入管理层，技术决定论、管理主义、社会工程和自由市场理念渗透政治思想，最终成为新自由主义的基础理念（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]]）
 
 > [!feature] 识别的操作信号
@@ -116,7 +119,7 @@ updated: 2026-07-11
 > 科学主义不仅通过测量和量化运作，还可以通过[[Critical Thinking|批判性思维]]课程本身的框架设计来隐性执行。这种形态比测量中心的科学主义更隐蔽，因为它包装在"学生中心""自由探究"的修辞中。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
 
 > [!claim] [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]：[[Theory of Knowledge|TOK]] 课程作为隐性科学主义的案例
-> [[International Baccalaureate|IB]] 的 [[Theory of Knowledge|TOK]] 课程声称培养学生的批判性思维和自由探究精神，但其评估框架以自创术语体系（认知方式、知识领域等）作为评分依据，暗中[[Disciplina and Doctrina|规训]]学生接受科学作为最权威的知识形式。当教师用书明确指示教师展示科学中有某种奇妙的东西、将其他学科描述为经过几千年探究仍然离确定答案很远而科学在短短几百年内就取得了惊人成就时，科学主义已经嵌入了课程的评价标准而非仅存在于教学内容中（pp.177–178）。
+> [[International Baccalaureate|IB]] 的 [[Theory of Knowledge|TOK]] 课程声称培养学生的批判性思维和自由探究精神，但其评估框架以自创术语体系（[[Ways of Knowing|认知方式]]、[[Areas of Knowledge|知识领域]]等）作为评分依据，暗中[[Disciplina and Doctrina|规训]]学生接受科学作为最权威的知识形式。当教师用书明确指示教师展示科学中有某种奇妙的东西、将其他学科描述为经过几千年探究仍然离确定答案很远而科学在短短几百年内就取得了惊人成就时，科学主义已经嵌入了课程的评价标准而非仅存在于教学内容中（pp.177–178）。
 
 > [!contrast-table] 两种科学主义形态的对比
 > | 维度 | 以测量为中心的科学主义 | 以课程框架为载体的科学主义 |

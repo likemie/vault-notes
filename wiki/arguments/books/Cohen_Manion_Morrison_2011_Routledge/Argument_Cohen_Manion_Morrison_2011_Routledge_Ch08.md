@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 62
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -44,7 +44,9 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Effect Size]]"
   - "[[Gatekeepers]]"
+  - "[[Praxis]]"
   - "[[Policy Network]]"
+  - "[[Saturation]]"
   - "[[Internal and External Generalizability]]"
   - "[[External Validity]]"
   - "[[Rich and Thick Description]]"
@@ -56,6 +58,7 @@ related_concepts:
 related_theories:
   - "[[Central Limit Theorem]]"
 related_methods:
+  - "[[Semi-structured Interview]]"
   - "[[Random Sampling]]"
   - "[[Non-probability Sampling]]"
   - "[[Mixed Methods Research]]"
@@ -86,7 +89,7 @@ related_methods:
   - "[[Multilevel Mixed Methods Sampling]]"
   - "[[Parallel Mixed Methods Sampling]]"
   - "[[Sequential Mixed Methods Sampling]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Focus Group]]"
 related_persons: []
 related_facts: []
@@ -546,7 +549,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 >
 > 随机性在两个阶段均得以保持，大量案例（2,000）被有效管理。核心逻辑是从一般走向具体、从广走向窄、从大走向小。
 >
-> 此策略假定各校规模大致相等且足够大，实践中未必成立，否则这一策略可能不可取（pp.157–158）。
+> 此策略假定各校规模大致相等且足够大，[[Praxis|实践]]中未必成立，否则这一策略可能不可取（pp.157–158）。
 
 ##### 多阶段抽样
 
@@ -651,7 +654,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 >
 > 决策基于理论相关性，即那些有助于生成尽可能多属性和类别的群体。样本量相对不重要，样本量可以无限大，或者作为退路，大到足以使类别和问题饱和。
 >
-> **理论饱和（Theoretical Saturation, Glaser & Strauss, 1967: 61）** 当新数据不再推进、修改、限定、扩展或增加已发展的理论时，抽样结束。由于事先不知道需要多少数据或什么范围的数据，样本量难以提前确定，这是一个迭代过程而非预先规划（pp.163–164）。
+> **[[Saturation|理论饱和]]（Theoretical Saturation, Glaser & Strauss, 1967: 61）** 当新数据不再推进、修改、限定、扩展或增加已发展的理论时，抽样结束。由于事先不知道需要多少数据或什么范围的数据，样本量难以提前确定，这是一个迭代过程而非预先规划（pp.163–164）。
 
 ---
 

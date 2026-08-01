@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在生产之后进入传授、挪用、流通、审查、窃取或破坏等动态过程的概念，用于分析知识如何在权力关系中移动。"
 type: concept
 domain: "higher-education"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
+  - "[[Dialogue in Education]]"
   - "[[Cooperative Education]]"
   - "[[Professors of Practice]]"
   - "[[Technology Transfer Office]]"
@@ -40,6 +41,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Plato]]"
+  - "[[Aristotle]]"
   - "[[Confucius]]"
   - "[[Francis Bacon]]"
   - "[[Chen Kuan-Hsing]]"
@@ -94,7 +96,7 @@ updated: '2026-05-18'
 
 > [!note]-
 > "知识转移"作为地缘政治概念的分析重心转移，经历了从哲学命题到地缘教义再到 [[Geopolitics of Knowledge|GPK]] 分析工具的演变：
-> - **希腊形而上学根基** 关于 agathos（善）的理论经新[[Plato|柏拉图]]主义（Pseudo-Dionysius）和新亚里士多德主义（Thomas Aquinas）发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，具有自我传播和扩散的天然倾向([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]]; McClymond, 2010, p.92)
+> - **希腊形而上学根基** 关于 agathos（善）的理论经新[[Plato|柏拉图]]主义（Pseudo-Dionysius）和新[[Aristotle|亚里士多德]]主义（Thomas Aquinas）发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，具有自我传播和扩散的天然倾向([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]]; McClymond, 2010, p.92)
 > - **古典等级制的障碍** 然而恰恰因为知识是善，其转移从未畅通无阻——从 Plato 的"agathos kai sophos"（善且智）和 [[Confucius]] 的"[[Junzi|君子]] junzi"以来，知识始终与智识和社会等级制相联系(; Park, 2016)
 > - **[[Francis Bacon|Bacon]] 到德国地缘教义** Bacon "knowledge is power"（1597）在 17 世纪仍表达为神学中的神圣属性（potestas Dei）；到 19 世纪德国统一后，演变为地缘政治教义——"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）——服务于扩张主义和霸权政治([[Argument_Partaken_2022_Springer|Partaken, 2022, p.67–68]]; Shimazu, 2015)
 > - **Katz 的权力独立冲突源**Katz (1965) 论证权力不仅是获取经济优势或意识形态最大化的手段，"它本身就是冲突的独立来源"（p.374）——这一论断将知识转移从"工具"提升为 GPK 中独立的地缘政治冲突[[Champ|场域]]
@@ -175,7 +177,7 @@ updated: '2026-05-18'
 **非正式渠道**（不涉及合同或机构协议）：
 - 学术文献和会议报告——公开发表的知识，对所有人开放
 - 校友网络和与前学生的非正式交流
-- 教师与产业从业者的个人对话
+- 教师与产业从业者的个人[[Dialogue in Education|对话]]
 
 **半正式渠道**（涉及机构安排但不涉及知识产权交易）：
 - 学生实习和[[Cooperative Education|合作教育]]（co-ops）——学生作为知识载体在两界之间移动

@@ -18,6 +18,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Transfer]]"
+  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Entrepreneurial University]]"
   - "[[Academic Engagement]]"
@@ -66,7 +67,7 @@ title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_key: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -82,7 +83,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> [[Hypothesis|假设]]你是一所大学的校长，你想让学校和产业界建立更紧密的合作关系。你面临的第一批问题不是"合作什么内容"——那是教授们会考虑的——而是"谁来管这件事"、"放在哪个部门下面"、"这个办公室应该管什么、不该管什么"。已有的[[University-Industry Collaboration|产学合作]]研究大量讨论了[[Knowledge Transfer|知识转移]]的机制、合作的激励因素和成功的障碍，但几乎没有研究系统回答过这些组织层面的问题：大学在实践中究竟如何组织它们的产学参与（UI engagement）？存在哪些共同的组织模式？这些模式在多大程度上是全面的？大学和企业双方各自重视哪些策略和特征？
+> [[Hypothesis|假设]]你是一所大学的校长，你想让学校和产业界建立更紧密的合作关系。你面临的第一批问题不是"合作什么内容"——那是教授们会考虑的——而是"谁来管这件事"、"放在哪个部门下面"、"这个办公室应该管什么、不该管什么"。已有的[[University-Industry Collaboration|产学合作]]研究大量讨论了[[Knowledge Transfer|知识转移]]的机制、合作的激励因素和成功的障碍，但几乎没有研究系统回答过这些组织层面的问题：大学在[[Praxis|实践]]中究竟如何组织它们的产学参与（UI engagement）？存在哪些共同的组织模式？这些模式在多大程度上是全面的？大学和企业双方各自重视哪些策略和特征？
 
 通过"框架建构 → 网站分析 → [[Questionnaire|问卷调查]]"三步设计，同时回答"应该怎么组织"（框架）和"实际上怎么组织"（实证）两个层面的问题。
 

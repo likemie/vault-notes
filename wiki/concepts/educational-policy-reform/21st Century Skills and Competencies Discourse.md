@@ -11,7 +11,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括4C技能的主导地位和对非认知能力的边缘化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Self-Entrepreneur]]"
   - "[[Lifelong Learning]]"
   - "[[Statistical Significance]]"
+  - "[[Praxis]]"
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -265,7 +266,7 @@ SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养�
 ### 实践层面的解读分化
 
 > [!example]
-> [[Argument_Beech_2009_CE|Beech (2009)]]提供了能力话语在实践层面遭遇系统性解读分化的直接证据。在对阿根廷和巴西教师教育者（负责培养未来教师的人）的[[In-depth Interview|深度访谈]]中，Beech（2005）发现了对能力概念的至少四种互不兼容的解读（pp.358–359）：
+> [[Argument_Beech_2009_CE|Beech (2009)]]提供了能力话语在[[Praxis|实践]]层面遭遇系统性解读分化的直接证据。在对阿根廷和巴西教师教育者（负责培养未来教师的人）的[[In-depth Interview|深度访谈]]中，Beech（2005）发现了对能力概念的至少四种互不兼容的解读（pp.358–359）：
 
 **解读一：重新解释为既有范畴。** 一部分教师教育者将能力重新纳入他们已有的认知框架，比如 1960 年代的行为目标、布鲁姆的教育目标分类学、[[Technical Rationality|技术理性]]。他们用既有范畴来消解新话语的陌生性，而不是用新话语来改变既有理解。
 
@@ -300,7 +301,7 @@ SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养�
 
 **概念狭窄化**。SCD 将教育目的窄化为经济生产力和[[Employability|就业力]]，排除了教育在意义建构、人格陶成和公民参与等方面的更广泛目的。
 
-**话语与实践的断裂**。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]提供了这一断裂的直接证据：三所制度不同大学的博士毕业生在技能差距模式上呈现一致性（pp.92, 99），说明问题不在于个别大学没有响应 SCD，而在于 SCD 本身作为一套话语，对最深层的教育实践——博士培养的学科[[Disciplina and Doctrina|规训]]逻辑和导师文化——缺乏渗透力。
+**话语与[[Praxis|实践]]的断裂**。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]提供了这一断裂的直接证据：三所制度不同大学的博士毕业生在技能差距模式上呈现一致性（pp.92, 99），说明问题不在于个别大学没有响应 SCD，而在于 SCD 本身作为一套话语，对最深层的教育实践——博士培养的学科[[Disciplina and Doctrina|规训]]逻辑和导师文化——缺乏渗透力。
 
 ---
 

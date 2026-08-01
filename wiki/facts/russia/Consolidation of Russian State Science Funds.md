@@ -12,7 +12,7 @@ subtype: policy
 region: russia
 fact_region: "russia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Attrition]]"
+  - "[[Growth]]"
   - "[[Scientific Autarky]]"
 related_facts:
   - "[[Project 5-100]]"
@@ -87,7 +88,7 @@ updated: 2026-07-13
 
 > [!finding-cards] 效果与评价
 > - **学术生态多样性的[[Attrition|流失]]** 资金资助渠道被单一RSF买方垄断，极大地压缩了非主流学术观点、探索性前沿研究和青年学者的试错空间，降低了学术创新活力。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, p. 47]])
-> - **逆向激励跨国合作** 随着RSF独大并执行更为内聚的科学指标，原有国际合作性基金的评价机制在国家统包资助中遭到系统性削弱，间接阻碍了跨国科研合作的自主生长。
+> - **逆向激励跨国合作** 随着RSF独大并执行更为内聚的科学指标，原有国际合作性基金的评价机制在国家统包资助中遭到系统性削弱，间接阻碍了跨国科研合作的自主[[Growth|生长]]。
 > - **民营与私立资助的缺位** 极度偏斜的垄断资助格局凸显了民间学术基金会（如年预算仅1800万卢布的哈莫夫尼基基金会）的微弱财力，导致学者几乎完全依附于RSF的行政拨款规则。([[Argument_Dezhina_2022_ECO|Dezhina & Egerev, 2022, p. 46]])
 
 ---

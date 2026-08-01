@@ -5,7 +5,7 @@ aliases:
 summary: "跨文化学习研究中的核心争议，中国学习者将记忆作为通往深度理解的路径，而非机械重复，挑战了西方死记硬背与理解对立的前提假设"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Virtue-Oriented Learning Process]]"
   - "[[Refined Mastery]]"
+  - "[[Praxis]]"
   - "[[Outcomes-based Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Social Realism]]"
@@ -139,7 +140,7 @@ Marton 的团队使用[[Phenomenology|现象学]]方法（phenomenological metho
 ## 争议与批评
 
 > [!warning]
-> 仍有大量中国教育者自己也加入了谴责死记硬背的行列([[Argument_Li_2012_Cambridge|Li, 2012, p.136]])，表明这一争议并非仅存在于东西方文化之间。在东亚社会内部，随着现代教育理念的输入，"死记硬背"本身也是一个被广泛批评的教学实践问题。中国内部的批评者与西方观察者虽然出发点不同，但在现象层面共享类似的关切。
+> 仍有大量中国教育者自己也加入了谴责死记硬背的行列([[Argument_Li_2012_Cambridge|Li, 2012, p.136]])，表明这一争议并非仅存在于东西方文化之间。在东亚社会内部，随着现代教育理念的输入，"死记硬背"本身也是一个被广泛批评的教学[[Praxis|实践]]问题。中国内部的批评者与西方观察者虽然出发点不同，但在现象层面共享类似的关切。
 >
 > Li 的立场并非全盘为记忆辩护，而是强调不应以表面观察替代对学习者内心经验的了解，不应忽视记忆——尤其是作为通往深度理解的初始步骤——在不同文化语境中的不同功能和意义([[Argument_Li_2012_Cambridge|Li, 2012, p.138]])。
 

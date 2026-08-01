@@ -9,7 +9,7 @@ summary: "IBM 全球大学项目前总监，六 R 产学关系框架（2010）�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Six Rs of University-Industry Relations]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -75,7 +76,7 @@ updated: '2026-06-08'
 
 > [!success]
 > - 六 R 框架被 IBM GUP 团队在 45 个国家、百余名专职人员中推广使用，作为与大学合作伙伴（从教师到院长到校长）沟通产学投资的结构化语言。
-> - 通过 ISSIP 和 [[University Industry Demonstration Partnership|UIDP]] 等平台，六 R 框架的影响扩展到更广泛的[[University-Industry Collaboration|产学合作]]实践者社区。
+> - 通过 ISSIP 和 [[University Industry Demonstration Partnership|UIDP]] 等平台，六 R 框架的影响扩展到更广泛的[[University-Industry Collaboration|产学合作]][[Praxis|实践]]者社区。
 > - 关于 AI 与数字孪生重塑服务提供者和产学关系的观点，为产学合作的未来研究提供了前瞻性方向。
 
 ---

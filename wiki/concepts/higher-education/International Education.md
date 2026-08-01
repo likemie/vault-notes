@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家边界组织、流动或想象的教育形式，涵盖国际学校、跨国高教、留学流动与跨文化学习安排"
 type: concept
 domain: "higher-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,6 +14,7 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
+  - "[[Praxis]]"
   - "[[Central Phenomenon]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Global Universities Rankings]]"
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 国际教育（international education）指超越特定国家地理与教学边界的跨文化、跨国教育实践与制度安排。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p.1)]]将其定位为全球化时代的教育[[Central Phenomenon|核心现象]]——不仅关乎学生和教师跨越国界的物理流动，也关乎课程、教学理念和评估框架从国家层面向跨国层面的制度迁移。
+> 国际教育（international education）指超越特定国家地理与教学边界的跨文化、跨国教育[[Praxis|实践]]与制度安排。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p.1)]]将其定位为全球化时代的教育[[Central Phenomenon|核心现象]]——不仅关乎学生和教师跨越国界的物理流动，也关乎课程、教学理念和评估框架从国家层面向跨国层面的制度迁移。
 
 > [!quote]
 > "固守地方、忽视全球力量的教育系统可能变得过时，而主动应对全球化新挑战的系统更有可能繁荣。"（Suárez-Orozco & Qin-Hilliard, 2004, p.23，转引自 Slethaug, 2010, p.1）
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs [[Internationalization of Higher Education]] — 后者专指高等教育层面的国际化策略与政策；国际教育涵盖 K-12 至高等教育的全部学段
-> - vs [[Global Universities Rankings|全球大学排名]] — 排名是衡量和比较教育机构产出的工具系统，国际教育是教育实践与制度本身
+> - vs [[Global Universities Rankings|全球大学排名]] — 排名是衡量和比较教育机构产出的工具系统，国际教育是教育[[Praxis|实践]]与制度本身
 > - vs 比较教育（comparative education）— 比较教育是研究不同国家教育系统的学术领域；国际教育是跨国教育实践与制度的一个类别
 
 ---

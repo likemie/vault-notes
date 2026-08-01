@@ -7,7 +7,7 @@ title: "Argument_Bogliacino_Pianta_2016_EP"
 argument_key: "Argument_Bogliacino_Pianta_2016_EP"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Praxis]]"
   - "[[External Validity]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
@@ -208,7 +209,7 @@ updated: 2026-06-10
 >
 > **第二，统计论证**。t 检验的结果直接支持了这一修订：制造业 SI 与金融 ICT 产业在设备投资模式上无法统计区分——"新设备投资企业占比"的 t 检验在 5% 水平上不显著（$t = -1.06$, $p = 0.28$），"设备支出强度"的 t 检验在 1% 水平上也不显著（$t = -2.44$, $p = 0.02$）。这一统计等价性为"规模"和"信息密集"同属一个创新模式类别提供了定量证据。相比之下，通信服务在研发密集度上更接近 SB 产业（在 PCA 二维图中落在右上区域），零售贸易在创新投入上更接近 SD 产业（落在左下区域）——将这些行业强行归入独立的"信息密集型"类别反而会模糊其真正的创新模式差异。
 >
-> **第三，实践论证**。修订后的 SII 类别在创新政策上具有清晰的操作含义：SII 产业的核心政策需求不是增加基础研究投入（那是 SB 的需求），也不是提供技术扩散支持（那是 SD 的需求），而是**支持资本设备的现代化升级**，无论是物理生产设备还是 ICT 信息处理系统，以及**促进流程创新的制度环境**。这一区分使 Pavitt 分类法从学术框架升级为可操作的创新政策工具（pp.167-175）。
+> **第三，[[Praxis|实践]]论证**。修订后的 SII 类别在创新政策上具有清晰的操作含义：SII 产业的核心政策需求不是增加基础研究投入（那是 SB 的需求），也不是提供技术扩散支持（那是 SD 的需求），而是**支持资本设备的现代化升级**，无论是物理生产设备还是 ICT 信息处理系统，以及**促进流程创新的制度环境**。这一区分使 Pavitt 分类法从学术框架升级为可操作的创新政策工具（pp.167-175）。
 
 ---
 

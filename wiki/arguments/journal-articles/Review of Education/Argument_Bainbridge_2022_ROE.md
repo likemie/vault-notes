@@ -11,7 +11,7 @@ title: "Argument_Bainbridge_2022_ROE"
 argument_key: "Argument_Bainbridge_2022_ROE"
 argument_display_title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Moral Sidestep]]"
   - "[[Justified Warrants]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[Descriptive Analysis]]"
   - "[[Literature Review]]"
   - "[[Document]]"
@@ -39,6 +40,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Carnivalesque Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Accounts]]"
 related_persons: []
 related_facts:
   - "[[Selective Schools Expansion Fund]]"
@@ -69,7 +71,7 @@ citation_aliases:
 - [[Justified Warrants]] — Malone & Hogan(2020)基于 Dewey 的概念：研究应提供的是"有正当理由的断言"（warranted assertions）而非确定性。Gorard(2002)同样挑战研究界提供从研究发现到结论再到现实世界应用的说服性逻辑链接。Bainbridge et al. 将这一标准应用于评估议会辩论——议员的政策主张是否提供了从证据到结论的合理逻辑推进？(p.6–7)
 - [[Van Leeuwen's Legitimation Theory]] — Van Leeuwen(2007)四层次合法化框架：(1) 权威/传统——与过去或当前权威结构的链接；(2) 道德价值——与组织持有的道德价值对齐；(3) 理性/真理——与"真理"或理性论证的关系；(4) 奖励叙事——支持现有的奖励叙事。Bainbridge et al. 论证：证据更可能在接收方的结构、过程和道德[[Hypothesis|假设]]内被"合法化"时才被接受(p.9)
 - **三种证据到政策模型(p.7)** (1) **线性模型（Linear Model）**——证据与政策之间的直接连接；(2) **多流模型（Multiple Streams Model）**——政策决策受证据、经济因素和公众舆论共同影响；(3) **混战模型（Melee Model）**——科学、政治、经济和社会四类证据的流动交互导致政策决策。Bainbridge et al. 认为混战模型最接近教育情境，但教育的复杂性可能使任何模型都不充分
-- **Biesta 的三重缺陷框架(p.7–8)** 知识缺陷（行动与后果的关系永远无法完全知晓）、效能缺陷（研究发现最多只能是尝试性的）、应用缺陷（拒绝从证据到政策到实践的简单线性观念，因为教育涉及特定个体在特定环境中的特定时刻）
+- **Biesta 的三重缺陷框架(p.7–8)** 知识缺陷（行动与后果的关系永远无法完全知晓）、效能缺陷（研究发现最多只能是尝试性的）、应用缺陷（拒绝从证据到政策到[[Praxis|实践]]的简单线性观念，因为教育涉及特定个体在特定环境中的特定时刻）
 
 ## 研究方法
 
@@ -215,7 +217,7 @@ citation_aliases:
 > ("It would appear that it is less easy to refute or sidestep certain evidence when it emerges from within Parliament.")(p.28)
 
 > “虽然坚持要求我们的政治家了解严谨的研究方法可能是要求过高，但要求他们遵守高标准的伦理准则，并在他们表现出的伦理水平不足时追究其责任，并不过分。”
-> ("Whereas it might be asking too much of our politicians to insist that they be aware of rigorous research methods, it is not too much to hold them to a high standard of ethics and to hold them to account when their demonstrated ethics fall short.")(p.30)
+> ("Whereas it might be asking too much of our politicians to insist that they be aware of rigorous research methods, it is not too much to hold them to a high standard of ethics and to hold them to [[Accounts|account]] when their demonstrated ethics fall short.")(p.30)
 
 > [!info] 核心数据
 > - [[Grammar School|文法学校]]"good"提及率 235%（每校），综合学校 1.7%（每校）

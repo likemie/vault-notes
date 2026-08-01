@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -45,9 +45,13 @@ related_concepts:
   - "[[Hierarchy of Future Issues in Comparative Education]]"
   - "[[Posthumanism]]"
   - "[[Emergence]]"
+  - "[[Dialogue in Education]]"
   - "[[Convergence Theory in Comparative Education]]"
+  - "[[Growth]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Praxis]]"
   - "[[Research Question]]"
+  - "[[Democratic Education]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
@@ -219,7 +223,7 @@ citation_aliases:
 > - **[[Hierarchy of Future Issues in Comparative Education\|未来议题分类原则]]** 决定学科智识命运与前瞻方向的五个核心议题层级：
 >   1. **常规谜题 (Normal-puzzle topics)** 学科日常运转的核心业务，侧重于对学校系统及其各个组成部分的运转和改革分析。具体包括：学前教育、初等教育、中等教育、考试、课程、教师教育、职业技术教育、衡量学校与大学质量、以及新型教学技术。(p.329, p.330)
 >   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（post）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism|后人类主义]]理论，以及系统装配 (assemblages) 解释视角。
->   3. **突破性主题 (Break-through themes)** 近年[[Emergence|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能对话机器人（如 ChatGPT）带来的急剧技术变革与行业恐慌。
+>   3. **突破性主题 (Break-through themes)** 近年[[Emergence|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能[[Dialogue in Education|对话]]机器人（如 ChatGPT）带来的急剧技术变革与行业恐慌。
 >   4. **冷门主题与重大沉默 (Cold topics / Major silences)** 学科历史上面对重大地缘政治剧变却长期失声、几乎从未进入学术过去的冷门领域。具体包括：战争、革命、帝国以及宗教。Cowen 强调，这些领域不能仅靠短文章来拯救，而应当被全盘重估，放在不以提供政策建议为目的的纯粹学术比较教育中进行深刻探讨。
 >   5. **全球解读** 学科对外部政治与经济大叙事变化的宏观回应，直接决定了比较教育在不同历史分期中的理解风格与研究议程。
 
@@ -244,11 +248,11 @@ citation_aliases:
 > - **历史与情境的相似与差异比较（求同存异）**
 >   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 Isaac Leon Kandel、Nicholas Hans 与 Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
 > - **[[Convergence Theory in Comparative Education|趋同理论]]与同构（Convergence Theory）**
->   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey 等, 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和成长视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
+>   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey 等, 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和[[Growth|成长]]视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
 > - **作为实用工具的[[Policy Science in Comparative Education|政策科学]]（Policy Science）**
 >   主张比较教育的核心形式是作为政策科学，为决策提供建议。代表人物包括 Holmes (1984)、King (1979)，也见于 2010 年后的世界教育年鉴。其政治预设并非中性，而是公开寻求与自由民主国家中所谓的“民主权力”结盟。它假定决策者是理性的，且应当在“关键决策时刻”（critical points of decision）寻求比较教育学者的建议。这种结盟使学科极易丧失批判性反思的学术距离，降格为服务国家机器治理目标的行政管理工具。(p.333)
 > - **结果导向与测量技术（Outcomes）**
->   关注可测量的教育产出。经历了从 Lauwerys（1965）最初以理解（Verstehen）不同国家“[[Educated Identity|受教育身份]]”理想模型的学术尝试，向通过 IEA 和 PISA 进行效率测量的转变。其政治预设已从学术性的文化理解，彻底转向配合在世界范围内确立新自由主义经济定义的政治斗争。国际测试沦为追求“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，作为效率运动的附属品与社会温度计，在实践中极大地强化并维护了单一、特定世界秩序的政治合理性。(pp.333–334)
+>   关注可测量的教育产出。经历了从 Lauwerys（1965）最初以理解（Verstehen）不同国家“[[Educated Identity|受教育身份]]”理想模型的学术尝试，向通过 IEA 和 PISA 进行效率测量的转变。其政治预设已从学术性的文化理解，彻底转向配合在世界范围内确立新自由主义经济定义的政治斗争。国际测试沦为追求“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，作为效率运动的附属品与社会温度计，在[[Praxis|实践]]中极大地强化并维护了单一、特定世界秩序的政治合理性。(pp.333–334)
 
 > [!warrant]- 推理桥梁
 > 比较教育的四大范式不仅在[[Ontology|本体论]]与认识论上冲突，更是相互竞争的政治行动话语。尤其是当代结果导向测量将学术理解完全抽空，堕为社会效率运动的温度计，这迫使研究者必须审视自己究竟在为哪种政治秩序作辩护。(pp.333–334)
@@ -300,7 +304,7 @@ citation_aliases:
 > - **Will Brehm (2023)**
 >   **美国比较教育政治史**<br>讲述[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]（C. Arnold Anderson 创立）的历史演变。 Anderson 在1950年代将教育经济学与比较教育融合，推动了人力资本理论的全球扩张。Brehm 论证这其实是冷战时期美国遏制共产主义、推广全球霸权的技术官僚规划，进而发出关于世界政治变迁对学科冲击的预警。(Brehm, 2023)
 > - **Maren Elfert (2023)**
->   **国际组织的知识政治**<br>分析联合国教科文组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）和[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）之间从早期的人文主义承诺向现代数据化绩效治理的转变。Elfert 揭示了国际组织如何通过知识政治（politics of knowledge）将教育政策简化为可测量的技术性指标，脱离了传统的民主教育关切。(Elfert, 2023)
+>   **国际组织的知识政治**<br>分析联合国教科文组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）和[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）之间从早期的人文主义承诺向现代数据化绩效治理的转变。Elfert 揭示了国际组织如何通过知识政治（politics of knowledge）将教育政策简化为可测量的技术性指标，脱离了传统的[[Democratic Education|民主教育]]关切。(Elfert, 2023)
 > - **[[Eleftherios Klerides]] (2023)**
 >   **[[Wight's Three Traditions of International Theory|国际关系理论]]的重新引入**<br>引入 Martin Wight 的经典国际关系理论三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]、[[Revolutionism|革命主义]]），论证不同时代比较教育的重心和话语体系实际上受地缘政治秩序演变的支配，为[[Discipline-Based Theory|学科理论]]工作提供跨学科的新解释框架。([[Argument_Klerides_2023_CE|Klerides, 2023]])
 > - **Terri Seddon (2023)**
@@ -347,7 +351,7 @@ citation_aliases:
 
 > [!warning]
 > - **纲领性诊断而非完整方案** 意在提供学科诊断与前瞻性方向，而非现成的理论解决方案。(p.326)
-> - **隐喻转化的困难** 如何将未来即现在这一直觉性隐喻，落实为审视学科未来的连贯[[Theoretical Perspective|理论视角]]，在实践中极具智识挑战。
+> - **隐喻转化的困难** 如何将未来即现在这一直觉性隐喻，落实为审视学科未来的连贯[[Theoretical Perspective|理论视角]]，在[[Praxis|实践]]中极具智识挑战。
 > - **非唯一未来定义** 本专刊的文章不应被看作是对学科唯一未来的权威宣告，也非把创造学科未来的复杂工作简化为如何煮软一个鸡蛋的菜谱。(p.327)
 
 ---

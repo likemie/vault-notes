@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在学科中从具体经验向抽象概念逐步发展的认知过程，是课程设计连贯性的关键目标，由 Winch、Vernon 和 Rata 等学者从不同角度阐述"
 type: concept
 domain: "curriculum"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - theory/social-realism
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Ways of Knowing]]"
   - "[[Operationalization]]"
   - "[[Big Ideas]]"
   - "[[Surface and Deep Learning]]"
@@ -45,7 +46,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> [[Epistemology|认识论]]上升（Epistemic Ascent），也称概念进阶（Conceptual Progression），指学习者在学科中从具体经验向抽象概念逐步发展的认知过程。这一概念强调课程设计应为学生提供从具体到抽象、从经验到理论的清晰路径，使学生能够掌握学科的概念性认知方式([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> [[Epistemology|认识论]]上升（Epistemic Ascent），也称概念进阶（Conceptual Progression），指学习者在学科中从具体经验向抽象概念逐步发展的认知过程。这一概念强调课程设计应为学生提供从具体到抽象、从经验到理论的清晰路径，使学生能够掌握学科的概念性[[Ways of Knowing|认知方式]]([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ---
 

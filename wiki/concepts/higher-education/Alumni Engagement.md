@@ -8,7 +8,7 @@ aliases:
 summary: "利用校友对母校研究优势和产业需求的双重了解，以咨询委员会、研究合作推动、指导计划、公司校友群体等七种策略将校友转化为产学合作的倡导者、连接者和合作者"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Industry Advisory Board]]"
+  - "[[Growth]]"
   - "[[Executive Education]]"
   - "[[Trade Mission]]"
   - "[[University Corporate Engagement Professional]]"
@@ -50,7 +51,7 @@ updated: 2026-05-28
 
 1. **[[Industry Advisory Board|行业咨询委员会]]与圆桌讨论** 按行业组建，邀请校友企业高管、教师研究者和公司技术负责人共同探讨研究协同点和行业挑战。
 2. **推动内部研究合作** 鼓励校友在公司内部倡导与母校的研究合作，他们既是面向公司的"内部销售"，又是面向大学的"需求翻译者"。
-3. **结构化指导计划** 校友指导学生和青年研究者，既帮助下一代成长，也为自己识别潜在的合作者。
+3. **结构化指导计划** 校友指导学生和青年研究者，既帮助下一代[[Growth|成长]]，也为自己识别潜在的合作者。
 4. **公司校友群体** 将同一公司的校友员工组织成一个集体，共同关注公司利益，同时集体为母校向公司发声。
 5. **校友创业者对接** 识别正在创业的校友，将其与研究方向互补的教师匹配，可能催生联合创业、衍生企业或赞助研究。
 6. **创业展示与黑客马拉松** 邀请校友参与学生和教师的创新竞赛，在评审过程中自然发现投资或合作机会。

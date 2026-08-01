@@ -9,7 +9,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -56,7 +57,7 @@ updated: '2026-05-18'
 > - Vol. 1: *Policy and Practice*（Pont, Nusche & Moorman, 2008b）
 > - Vol. 2: *Case Studies on System Leadership*（Pont, Nusche & Hopkins, 2008a）
 >
-> 其中第二卷邀请研究者（包括 Møller 本人）从五个国家收集"最佳实践"案例，这些国家基于 [[PISA]] 等国际大规模评估的积极结果和创新性领导力分配模型入选([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])。
+> 其中第二卷邀请研究者（包括 Møller 本人）从五个国家收集"最佳[[Praxis|实践]]"案例，这些国家基于 [[PISA]] 等国际大规模评估的积极结果和创新性领导力分配模型入选([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])。
 
 ## 核心建议
 
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 > 4. 推行分布式领导力
 > 5. 将领导力发展视为一个连续体
 >
-> 报告还将组织隐喻从层级制科层转向实践共同体：学校应形象化为"专业人员处于持续互动中的实践共同体"([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])。
+> 报告还将组织隐喻从层级制科层转向[[Praxis|实践]]共同体：学校应形象化为"专业人员处于持续互动中的实践共同体"([[Argument_Møller_2017_EERJ|Møller, 2017, p.377]])。
 
 ## 时间线
 
@@ -83,7 +84,7 @@ updated: '2026-05-18'
 > [!warning] 争议与评论
 > [[Argument_Møller_2017_EERJ|Møller (2017, p.377)]]提出了三条关键批评：
 >
-> - **去政治化呈现**[[OECD]] 报告将表面上政治中立的"最佳实践"模型呈现为去政治化的，未能承认这些模型仍然是政治化的。对当前绩效问责氛围没有提出实质性批评，权力结构未被问题化
+> - **去政治化呈现**[[OECD]] 报告将表面上政治中立的"最佳[[Praxis|实践]]"模型呈现为去政治化的，未能承认这些模型仍然是政治化的。对当前绩效问责氛围没有提出实质性批评，权力结构未被问题化
 > - **两个矛盾话语的并存** OECD 同时推崇分布式领导的"专业共同体"话语（去科层化）和[[New Public Management|新公共管理]]的"外部控制"话语（市场化），二者并行运作，构成一个悖论
 > - **社会正义导向的虚假中立** 任何带有社会正义导向意图的政策本质上都是高度政治化的，因为它通常需要更具再分配性或福利主义的方法，但 OECD 以中立技术语言包装此类政策
 

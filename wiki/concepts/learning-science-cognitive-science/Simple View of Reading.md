@@ -5,7 +5,7 @@ aliases:
 summary: "Gough 与 Tunmer 提出的阅读理论模型，认为阅读由解码和理解共同构成，常用于支持系统识字教学和阅读困难分析。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Praxis]]"
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
   - "[[Effect Size]]"
@@ -71,7 +72,7 @@ citation_aliases: []
 
 > [!case] Case 1: 英国《[[Rose Report|罗斯报告]]》（Rose Report, 2006）与合成拼读强制化
 > 简单阅读观在公共政策层面的最显著应用是英国政府出台的《罗斯报告》(Rose, 2006)。该报告以简单阅读观为核心科学依据，将解码视为识字的物理起点，从而在英国全国公立学校系统强制推行“系统合成拼读法”（Systematic Synthetic Phonics）教学 (p.149)。
-> 这一政策遭到克里斯托弗·哈里森（Christopher Harrison, 2010, p.207）的批判，他指出简单阅读观在政策实践中已经与“先、快、且唯一”的极限制拼读模型深度绑定，沦为一种将阅读窄化为冰冷解码技术的“技术主义阅读教学观” (p.149)。
+> 这一政策遭到克里斯托弗·哈里森（Christopher Harrison, 2010, p.207）的批判，他指出简单阅读观在政策[[Praxis|实践]]中已经与“先、快、且唯一”的极限制拼读模型深度绑定，沦为一种将阅读窄化为冰冷解码技术的“技术主义阅读教学观” (p.149)。
 
 > [!case] Case 2: [[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》（Visible Learning，VL）中的隐性渗透
 > 帕特里克·奥康纳（Patrick O'Connor, 2020, pp.148-149）指出，简单阅读观的认知框架隐性渗透在哈蒂对[[Whole Language|全语言]]的极低评估中。
@@ -87,7 +88,7 @@ citation_aliases: []
 > - **心理语言学视角的研究反驳** 全语言理论家（如 Cambourne, 1988）坚决反驳“先解码、后理解”的单向逻辑。他们指出，阅读是一个主动利用句法、语义和字形线索预测和建构意义的整体过程；儿童对意义的追求驱动了其字词解码能力的自然发生，不能在教学中将两者生硬割裂 (p.149)。
 
 > [!critique-data] 新自由主义与霸权控制的工具
-> 简单阅读观之所以受到决策者的高度青睐，是因为其将复杂的文化实践还原为单一的、可精确测量和控制的“解码率”测试，这完美迎合了新自由主义技术官僚对课程自上而下控制、量化评估与标准化问责的政治议程 (p.149-150)。
+> 简单阅读观之所以受到决策者的高度青睐，是因为其将复杂的文化[[Praxis|实践]]还原为单一的、可精确测量和控制的“解码率”测试，这完美迎合了新自由主义技术官僚对课程自上而下控制、量化评估与标准化问责的政治议程 (p.149-150)。
 
 ---
 

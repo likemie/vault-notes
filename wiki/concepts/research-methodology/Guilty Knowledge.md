@@ -8,7 +8,7 @@ aliases:
 summary: "研究者在敏感研究中因接触越轨群体或知晓敏感信息而被动持有的、可能带来个人与职业风险的知识，与主动陷入伦理困境的肮脏之手密切相关但有所不同"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Confidentiality]]"
   - "[[Research Ethics]]"
   - "[[Covert Research]]"
+  - "[[Praxis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
@@ -49,7 +50,7 @@ updated: 2026-07-11
 > | 核心指向 | 研究者**被动持有**的敏感信息——作为研究的副产品获得 | 研究者**主动陷入**的伦理困境——知晓越轨行为后自身的道德处境 |
 > | 焦点 | 信息本身的性质——知识是"有罪的" | 研究者的状态——手是"肮脏的" |
 > | 典型情境 | 受访者在访谈中意外透露校长的酗酒问题 | 研究者潜入帮派后目睹犯罪活动却保持沉默 |
-> | 关系 | 有罪知识常常导致肮脏之手——被动获取的信息使研究者陷入主动的伦理困境 | 肮脏之手是有罪知识的实践后果 |
+> | 关系 | 有罪知识常常导致肮脏之手——被动获取的信息使研究者陷入主动的伦理困境 | 肮脏之手是有罪知识的[[Praxis\|实践]]后果 |
 
 两者紧密关联：有罪知识描述的是研究者知道了什么，肮脏之手描述的是研究者因知道而变成了什么。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, p. 209)]] 将两者并列讨论，因为它们共同指向[[Sensitive Research|敏感研究]]的核心伦理问题：容忍的界限在哪里。
 

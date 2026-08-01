@@ -7,7 +7,7 @@ aliases:
 summary: "ODwyer、Filieri 和 OMalley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 10
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,7 +19,9 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Theoretical Perspective]]"
+  - "[[Praxis]]"
   - "[[Opportunist Mode]]"
+  - "[[Areas of Knowledge]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
 related_theories:
@@ -46,7 +48,7 @@ updated: 2026-06-10
 > [!abstract]
 > O'Dwyer、Filieri 和 O'Malley（2023）基于对[[Synthesis and Solid State Pharmaceutical Centre|爱尔兰合成与固态制药中心]]（Synthesis and Solid State Pharmaceutical Centre，SSPC）的深度[[Case Study|案例研究]]——涉及 10 家跨国制药企业和 8 所学术机构——提出了[[University-Industry Collaboration|产学合作]]网络演化的四阶段模型。核心主张是：产学合作的障碍和促进因素**并非静态存在，而是随时间演化**——在合作的不同阶段出现、转变或被克服[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(O'Dwyer et al., 2023)]]。
 
-该模型直接回应的理论缺口是：已有研究虽然识别了产学合作的各种障碍和促进因素，但都是横截面分析——"对障碍和促进因素的分析局限于单一[[Theoretical Perspective|理论视角]]"，没有捕捉到合作关系发展过程中这些因素的动态演化（pp.902-903）。四阶段模型将时间维度引入障碍分析，使政策制定者和实践者能够**在正确的时间采取正确的干预措施**。
+该模型直接回应的理论缺口是：已有研究虽然识别了产学合作的各种障碍和促进因素，但都是横截面分析——"对障碍和促进因素的分析局限于单一[[Theoretical Perspective|理论视角]]"，没有捕捉到合作关系发展过程中这些因素的动态演化（pp.902-903）。四阶段模型将时间维度引入障碍分析，使政策制定者和[[Praxis|实践]]者能够**在正确的时间采取正确的干预措施**。
 
 ---
 ## 理论框架
@@ -67,7 +69,7 @@ updated: 2026-06-10
 > **关键机制** 关键行动者（key actor）的个人声誉是吸引早期产业参与的核心——产业伙伴"信任他（关键行动者）和他的声誉，以及他对 SSPC 的愿景"。
 
 > [!line-a] 大学-大学界面
-> **障碍** 中度不信任、不愿与其他同一知识领域的学者合作（"知识竞争者"心态）。
+> **障碍** 中度不信任、不愿与其他同一[[Areas of Knowledge|知识领域]]的学者合作（"知识竞争者"心态）。
 > **促进因素** 先前合作经验。
 > **关键机制** 此阶段学术合作仅进行知识利用（knowledge exploitation），不涉及知识探索（knowledge exploration），以降低风险。
 

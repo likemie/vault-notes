@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 47
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Dialogue in Education]]"
   - "[[Servitisation of Manufacturing]]"
   - "[[Corporate R&D Labs]]"
   - "[[Blue Skies Research]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Convergence Research]]"
   - "[[Fourth Industrial Revolution]]"
+  - "[[Praxis]]"
   - "[[Conatus]]"
   - "[[Technology Readiness Level]]"
   - "[[Absorptive Capacity]]"
@@ -123,7 +125,7 @@ updated: 2026-07-08
 > | 模块 | 形式与目的 |
 > |------|-----------|
 > | **专家小组会议**<br>Expert Panel Sessions | 由[[University-Industry Collaboration\|产学合作]]领域的思想领袖主持专题讨论，引入关键议题和多元视角 |
-> | **引导式分组讨论**<br>Facilitated Breakouts | 围绕预设议题进行深度辩论，促进不同背景代表之间的对话与经验分享 |
+> | **引导式分组讨论**<br>Facilitated Breakouts | 围绕预设议题进行深度辩论，促进不同背景代表之间的[[Dialogue in Education\|对话]]与经验分享 |
 > | **全体会议综合**<br>Plenary Synthesis | 汇总各分组讨论的发现和共识，提炼跨议题的共通线索 |
 
 峰会项目委员会由来自大学、产业和政府机构的思想领袖组成，在峰会前确定了三个优先探索领域：寻找可收集的、有说服力的度量指标来指导[[University-Industry Collaboration|产学合作]]发展；理解 AI 和机器学习解决方案在产学合作决策中的机会和问题；探索应对全球结构变化的新合作模式。
@@ -242,7 +244,7 @@ updated: 2026-07-08
 
 > [!line-a] 趋势六：将社会科学和人文学科整合进产学合作
 > 社会科学和人文学科（Social Sciences and Humanities，SSH）研究被视为未被充分利用和经常未被开发的资源。[[National Science Foundation|美国国家科学基金会]]（National Science Foundation，NSF）的 Future of Work at the Human Technology Frontier 项目是 STEM 和 SSH 学科[[Convergence Research|融合研究]]的典型案例。
-> - **双向价值** SSH 研究者获取企业数据集、更大产业研发资金池、学生实习机会和教育项目合作；企业获得对[[Fourth Industrial Revolution|第四次工业革命]]机遇的更好理解、新商业模式的开发、商业实践的深入洞察（pp.14–15）。
+> - **双向价值** SSH 研究者获取企业数据集、更大产业研发资金池、学生实习机会和教育项目合作；企业获得对[[Fourth Industrial Revolution|第四次工业革命]]机遇的更好理解、新商业模式的开发、商业[[Praxis|实践]]的深入洞察（pp.14–15）。
 > - **加速整合的行动** 大学推动终身教职和晋升中的文化变革、投资安全数据设施；企业增强对 SSH 研究潜在价值的理解、适应新兴社会经济和技术创新挑战；政府更多推动融合研究；专业组织开发和分享 SSH 研究对产业伙伴的价值洞见和有效实践（pp.15–16）。
 > - **权力差异** 必须认识到物理科学和社会科学之间的权力差异——物理科学在学术界和资助者中影响力更大。不应走向"后学科"，而应更好地理解和认识不同学科各自能带来的价值，同时在必要时融合思想和知识。
 
@@ -503,7 +505,7 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 ## 自述局限
 
 > [!warning]
-> 本报告记录的是 2019 年为期三天的峰会讨论和辩论中的关键见解和问题，并非系统性研究或[[Literature Review|文献综述]]。峰会只探索了有限数量的合作模式和关键趋势——报告中明确指出的有待进一步讨论的领域包括："生态系统"驱动的伙伴关系模式、"全球"伙伴关系模式、敏感数据和资源的有效共享模式，以及在非常敏感话题上为伙伴之间创造"安全"对话空间的模式（p.17）。
+> 本报告记录的是 2019 年为期三天的峰会讨论和辩论中的关键见解和问题，并非系统性研究或[[Literature Review|文献综述]]。峰会只探索了有限数量的合作模式和关键趋势——报告中明确指出的有待进一步讨论的领域包括："生态系统"驱动的伙伴关系模式、"全球"伙伴关系模式、敏感数据和资源的有效共享模式，以及在非常敏感话题上为伙伴之间创造"安全"[[Dialogue in Education|对话]]空间的模式（p.17）。
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "指超国家组织通过指标、排名和协调机制对区域内高等教育进行间接治理的区域监管形式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
 - level/higher-ed
 - governance
 related_concepts:
+  - "[[Praxis]]"
   - "[[Performance Indicators]]"
   - "[[Global Regionalisms]]"
   - "[[Innovation Ecosystem]]"
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 监管型区域主义（Regulatory Regionalism）指超国家或国际组织通过监管机制（指标、标准、排名、评估框架）对区域内高等教育进行间接治理的模式。不同于传统的政府间主义（intergovernmentalism）——后者强调成员国对政策的主导控制——监管区域主义强调超国家机构通过规范性权力（normative power）而非直接指令来塑造成员国的教育政策和实践（Jayasuriya, 2010; Robertson, 2010; Thompson & Parreira do Amaral, 2022, p.11）。
+> 监管型区域主义（Regulatory Regionalism）指超国家或国际组织通过监管机制（指标、标准、排名、评估框架）对区域内高等教育进行间接治理的模式。不同于传统的政府间主义（intergovernmentalism）——后者强调成员国对政策的主导控制——监管区域主义强调超国家机构通过规范性权力（normative power）而非直接指令来塑造成员国的教育政策和[[Praxis|实践]]（Jayasuriya, 2010; Robertson, 2010; Thompson & Parreira do Amaral, 2022, p.11）。
 >
 > [[Argument_Rambla_2022_Springer|Rambla (2022)]]对欧盟创新与教育政策的分析为监管区域主义提供了具体的操作机制说明：[[Performance Indicators]] 是监管区域主义的核心操作工具——超国家组织通过指标和排名将复杂的政策现实转化为可比较、可排名的量化数据，从而在不具备直接立法权的情况下对成员国的政策选择施加规范压力([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165–166, 174–175]])。
 
@@ -95,7 +96,7 @@ updated: '2026-05-18'
 
 > [!tip]-
 > - [[Global Regionalisms]] — Robertson et al.（2016）的框架为理解监管区域主义提供了宏观语境：高等教育被整合进大规模政治经济区域整合项目
-> - [[Geopolitics of Knowledge]] — 将监管实践置于知识地缘政治的竞争逻辑中加以理解：[[Knowledge Production|知识生产]]（指标、排名）本身即是一种塑造地理空间中权力关系的操作
+> - [[Geopolitics of Knowledge]] — 将监管[[Praxis|实践]]置于知识地缘政治的竞争逻辑中加以理解：[[Knowledge Production|知识生产]]（指标、排名）本身即是一种塑造地理空间中权力关系的操作
 > - [[Performance Indicators]] — 绩效指标是监管区域主义的核心操作机制，Le Galès（2016）的技术—权力双重性框架解释了其如何运作
 > - [[Selectivity]] — Jessop（2007）的策略选择概念解释了监管区域主义中政策替代方案被结构性筛选的机制
 
@@ -125,7 +126,7 @@ updated: '2026-05-18'
 ## 相关案例／政策
 
 > [!example]
-> - [[Europe 2020 Strategy]] — 以[[Performance Indicators|绩效指标]]驱动的基准管理为监管区域主义的十年实践案例
+> - [[Europe 2020 Strategy]] — 以[[Performance Indicators|绩效指标]]驱动的基准管理为监管区域主义的十年[[Praxis|实践]]案例
 > - [[Innovation Union]] — 以区域创新记分牌为核心监管工具的 EU 旗舰政策
 > - [[EU Skills Agenda]] — 以 NUTS2 教育指标为监管机制的 EU 技能政策
 > - [[Horizon 2020 SSH Integration]] — 以研究资助为间接监管杠杆的 EU 科研框架

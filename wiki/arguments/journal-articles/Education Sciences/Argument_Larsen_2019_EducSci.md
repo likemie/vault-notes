@@ -9,7 +9,7 @@ title: "Argument_Larsen_2019_EducSci"
 argument_key: "Argument_Larsen_2019_EducSci"
 argument_display_title: "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Bildung]]"
   - "[[Learnification]]"
+  - "[[Dialogue in Education]]"
   - "[[Value Neutrality]]"
   - "[[Operationalization]]"
   - "[[Reflexivity]]"
@@ -94,7 +95,7 @@ citation_aliases:
 > **3. 教师[[Visible Learning|可见的学习]]（Visible Learning，VL） ≠ 学生有意识/无意识学习（Section 3）**
 > - 对教师/测试者可见的东西不等同于学生复杂学习过程的内容
 > - 三个"世界"不可调和：学生的一阶[[Phenomenology|现象学]]内在、教师的评估外在、科学透明的外在(p.4)
-> - Hattie 尽管鼓励学校参与者多听彼此，却从不与他的研究"对象"——学习者——对话(p.7)
+> - Hattie 尽管鼓励学校参与者多听彼此，却从不与他的研究"对象"——学习者——[[Dialogue in Education|对话]](p.7)
 > - 学习测量体制被比作奥古斯丁以来"全视上帝"权威的世俗化版本：从宗教的全能凝视，到科学家的穿透性观察，再到当代自动化算法和 [[PISA]] 分数
 >
 > **4. 学习不是[[Value Neutrality|价值中立]]的概念——[[Bildung]] 要求更多（Section 4）**

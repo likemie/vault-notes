@@ -5,7 +5,7 @@ aliases:
 summary: "Feynman 提出的概念，指看起来像科学却缺乏认识论诚信和自我纠错精神的伪科学实践。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
 - stance/critique
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Scientism]]"
   - "[[Scientific Method]]"
   - "[[Evidence-Based Education]]"
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> Cargo cult science（货物崇拜科学）是物理学家 Richard Feynman（1974）提出的概念，指那些看起来和感觉起来像科学、但缺乏真正科学的[[Epistemology|认识论]]诚信（epistemic conscientiousness）的实践（Moberger, 2020）。
+> Cargo cult science（货物崇拜科学）是物理学家 Richard Feynman（1974）提出的概念，指那些看起来和感觉起来像科学、但缺乏真正科学的[[Epistemology|认识论]]诚信（epistemic conscientiousness）的[[Praxis|实践]]（Moberger, 2020）。
 >
 > > "I'm talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you're maybe wrong, that you ought to do when acting as a scientist"（Feynman, 1974, p.12, cited in [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]]）
 
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Scientism]] — 科学主义是前提和土壤（过度推崇[[Scientific Method|科学方法]]），cargo cult science 是产物（具体伪科学实践）
+> - vs [[Scientism]] — 科学主义是前提和土壤（过度推崇[[Scientific Method|科学方法]]），cargo cult science 是产物（具体伪科学[[Praxis|实践]]）
 > - vs [[Evidence-Based Education]] — EBE 在方法论诚信缺失时会退化为 cargo cult science
 > - vs [[Dynamic Knowledge and Learning Model]] — 动态模型要求先区分学习结果类型，再比较效果大小；这有助于抑制"只保留科学外观而忽视概念清晰度"的倾向。
 

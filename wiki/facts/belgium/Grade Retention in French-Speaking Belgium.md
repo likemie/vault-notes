@@ -10,7 +10,7 @@ subtype: policy
 region: belgium
 fact_region: "belgium"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Grade Retention]]"
   - "[[Paradigm]]"
+  - "[[Praxis]]"
   - "[[Literature Review]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
@@ -46,7 +47,7 @@ updated: 2026-05-24
 ## 背景
 
 > [!info]
-> 该页记录[[Grade Retention|留级]]在法语比利时的具体制度案例。法语比利时长期把留级用于管理学生学习困难；Dachet 与 Baye 将其称为该系统很少从证据本位[[Paradigm|范式]]中汲取改革灵感的最佳例子，因为自 1970 年代以来已有大量证据反对留级有效性，但这种实践在过去 20 年反而更加常见([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.165]])。
+> 该页记录[[Grade Retention|留级]]在法语比利时的具体制度案例。法语比利时长期把留级用于管理学生学习困难；Dachet 与 Baye 将其称为该系统很少从证据本位[[Paradigm|范式]]中汲取改革灵感的最佳例子，因为自 1970 年代以来已有大量证据反对留级有效性，但这种[[Praxis|实践]]在过去 20 年反而更加常见([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.165]])。
 
 ## 实施情况
 
@@ -79,7 +80,7 @@ updated: 2026-05-24
 ## 相关概念／政策
 
 > [!example]
-> - [[Grade Retention]] — 主条目，记录留级作为一般教育制度实践的定义、证据争议和跨系统意义。
+> - [[Grade Retention]] — 主条目，记录留级作为一般教育制度[[Praxis|实践]]的定义、证据争议和跨系统意义。
 > - [[Evidence-Based Reform]] — 留级说明证据充足并不等于政策会自动采取最强行动。
 > - [[Pact for Educational Excellence]] — 改革把降低留级作为目标之一，但保留了共同核心阶段使用留级的可能性([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.174]])。
 

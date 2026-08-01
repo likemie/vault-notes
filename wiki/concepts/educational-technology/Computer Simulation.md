@@ -7,22 +7,35 @@ aliases:
 summary: "对真实世界系统的计算机表征，通过数学模型建模系统特征，用于发现、证明和实验，是教育研究中理解复杂动态系统的工具"
 type: concept
 domain: "educational-technology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-technology
   - research-methodology
   - simulation
   - quantitative-research
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Operationalization]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[Virtual World]]"
+  - "[[Emergence]]"
+  - "[[Reflexivity]]"
+  - "[[School Effectiveness]]"
+  - "[[Construct Validity]]"
+  - "[[Praxis]]"
+  - "[[Interaction Effect]]"
+related_theories:
+  - "[[Complexity Theory]]"
+related_methods:
+  - "[[Agent-based Modelling]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
 confidence: medium
 status: draft
 created: 2026-07-19
@@ -40,7 +53,7 @@ updated: 2026-07-19
 
 > [!concept-lens] 概念透镜
 > - **含义** 计算机模拟指向一种通过数学模型和迭代计算来表征、理解和预测系统行为的研究工具。在教育研究中，它尤其适用于探索复杂、非线性、动态系统的行为模式。
-> - **用途** 它帮助研究者回答 what-if 问题，通过控制和操纵变量来观察不同条件下的系统行为。模拟支持发现、证明和实验三大目的（Gilbert & Troitzsch, 2005, p. 6），且其价值不仅在于预测，更在于获得对过程如何随时间展开的理解和解释。
+> - **用途** 它帮助研究者回答 what-if 问题，通过控制和操纵[[Variable|变量]]来观察不同条件下的系统行为。模拟支持发现、证明和实验三大目的（Gilbert & Troitzsch, 2005, p. 6），且其价值不仅在于预测，更在于获得对过程如何随时间展开的理解和解释。
 > - **边界** 计算机模拟不等于[[Virtual World|虚拟世界]]，前者由数学模型驱动且参数受控，后者由参与者能动性驱动且结果从互动中[[Emergence|涌现]]。模拟也不等于真实实验，它模仿生活而非真实事物本身，且始终存在模拟世界与真实世界之间的本质差异。
 
 > [!boundary] 概念边界
@@ -51,13 +64,13 @@ updated: 2026-07-19
 
 ## 概念辨析
 
-> [!contrast-table] 计算机模拟与虚拟世界的对比
+> [!contrast-table] 计算机模拟与[[Virtual World|虚拟世界]]的对比
 > | 维度 | 计算机模拟 | [[Virtual World\|虚拟世界]] |
 > |---|---|---|
 > | 核心活动 | 建模与模仿 | 实现与行动 |
 > | 驱动力 | 数学模型与迭代计算 | 人类能动性驱动[[Emergence\|涌现]] |
 > | 参数状态 | 有界、确定 | 无界、不确定，结果常不可预测 |
-> | 用户角色 | 研究者操纵变量 | 参与者创建世界并彼此互动 |
+> | 用户角色 | 研究者操纵[[Variable\|变量]] | 参与者创建世界并彼此互动 |
 > | 时间性 | 瞬时性 | 持续性（用户离线后世界仍存在） |
 
 ---
@@ -101,7 +114,7 @@ Gilbert & Troitzsch（2005, p. 6）指出计算机模拟的三个主要目的（
 
 ### 命题一　计算机模拟以复杂性理论为根基，从简单规则中涌现出复杂行为
 
-> [!concept-lens] 理论基础与涌现机制
+> [!concept-lens] 理论基础与[[Emergence|涌现]]机制
 > 计算机模拟的理论基础植根于[[Complexity Theory|复杂性理论]]，这一命题解释了为何简单数学模型可以产生有意义的结果，以及为何模拟在教育研究等复杂领域仍然有效。
 
 > [!claim] Waldrop (1992); Lewin (1993)
@@ -132,7 +145,7 @@ Gilbert & Troitzsch（2005, p. 6）指出计算机模拟的三个主要目的（
 >
 >   随着对复杂社会现象研究需求的增长，随机模拟成为教育研究的主要类型。至少一个[[Variable|变量]]是随机的，结果具有概率性，更贴近开放系统和复杂社会现象的真实特征。
 >
-> - **向[[Agent-based Modelling|基于主体建模]]的扩展**
+> - **向基于主体建模的扩展**
 >
 >   模拟从纯数学模型向纳入人类能动性的方向演化。[[Agent-based Modelling|基于主体的建模]]（ABM）是这一演变的关键一步：它模拟具有能动性的个体在行动者网络中的行动和互动，从微观主体行为中[[Emergence|涌现]]宏观模式。ABM 将自组织的涌现置于其核心，比传统模拟更少确定性、更多随机性和涌现性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 155–157]]）。
 
@@ -151,13 +164,13 @@ Gilbert & Troitzsch（2005, p. 6）指出计算机模拟的三个主要目的（
 ### 深层顾虑与分析
 
 > [!critique-logic] 逻辑与概念层面的批评
-> - **解释是回溯性的** 模拟中的复杂性理论可以解释多样化、可变的结果（如[[School Effectiveness|学校效能]]研究），但未必能帮助干预以促进改进（Morrison, 2002a）。
-> - **如何确定初始条件** 输入模拟的关键初始条件如何确定（[[Construct Validity|构念效度]]），以及如何从中导出实践处方？
+> - **解释是回溯性的** 模拟中的[[Complexity Theory|复杂性理论]]可以解释多样化、可变的结果（如[[School Effectiveness|学校效能]]研究），但未必能帮助干预以促进改进（Morrison, 2002a）。
+> - **如何确定初始条件** 输入模拟的关键初始条件如何确定（[[Construct Validity|构念效度]]），以及如何从中导出[[Praxis|实践]]处方？
 > - **系统仅是同一公式的反复迭代** 这在多大程度上是可以接受的？
-> - **过程过于确定性** 模拟仅假设初始条件的[[Interaction Effect|交互作用]]，忽略了过程中引入的额外因素（尽管存在学习型计算机模拟）。
+> - **过程过于确定性** 模拟仅[[Hypothesis|假设]]初始条件的[[Interaction Effect|交互作用]]，忽略了过程中引入的额外因素（尽管存在学习型计算机模拟）。
 
 > [!critique-method] 方法论层面的批评
-> - **操纵人类变量是技术主义的**。
+> - **操纵人类[[Variable|变量]]是技术主义的**。
 > - **行为不止于同一数学模型的重复迭代**。
 > - **过程精致与概念粗糙的结合** 与其他数值方法一样，模拟可能结合了过程的精致与概念的粗糙（Ruddock, 1981, p. 49）。
 

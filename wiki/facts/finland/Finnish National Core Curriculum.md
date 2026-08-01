@@ -9,7 +9,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Performance Indicators]]"
   - "[[Epochal Key Problems]]"
+  - "[[Praxis]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[Atomisation of Knowledge and Skills]]"
@@ -76,7 +77,7 @@ updated: '2026-05-18'
 ## 实施情况
 
 > [!example] 实施情况
-> 芬兰学校和教师对 [[Phenomenon-Based Learning|PhBL]] 的理解与实施存在差异。Leppiniemi (2016) 的教师观点研究显示，课程并未给出一个清晰、单一的 PhBL 解释，学校实践因此呈现多样化([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
+> 芬兰学校和教师对 [[Phenomenon-Based Learning|PhBL]] 的理解与实施存在差异。Leppiniemi (2016) 的教师观点研究显示，课程并未给出一个清晰、单一的 PhBL 解释，学校[[Praxis|实践]]因此呈现多样化([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.2]])。
 >
 > 这种多样化与芬兰课程治理结构有关：国家核心课程提供总体价值、目标和框架，但学校和教师仍需要把框架[[Transfer Translation Transformation|转译]]为具体学习项目。PhBL 因此可能表现为跨学科主题周、围绕地方环境的项目、世界遗产[[Champ|场域]]学习、可持续性探究、艺术本位学习、具身学习或多语方法等不同形态([[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p.1]])。
 >

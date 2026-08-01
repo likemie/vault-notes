@@ -12,7 +12,7 @@ subtype: policy
 region: russia
 fact_region: "russia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Performance Indicators]]"
+  - "[[Praxis]]"
   - "[[Scientific Autarky]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
@@ -81,7 +82,7 @@ updated: '2026-06-26'
 > - **政策工具** 设立外籍专家KPI目标，资助短期与长期外籍学者合同 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 41)]]。
 
 > [!pathways]- 实施路径
-> - **外籍专家引进机制** 各高校为完成KPI，自主制定外籍人才招聘与留学生引智指标，但实践中往往将短期访问学者（3-4个月）与长期合同人员合并统计，难以客观反映长期国际化学术梯队建设 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 41–42)]]。
+> - **外籍专家引进机制** 各高校为完成KPI，自主制定外籍人才招聘与留学生引智指标，但[[Praxis|实践]]中往往将短期访问学者（3-4个月）与长期合同人员合并统计，难以客观反映长期国际化学术梯队建设 [[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 41–42)]]。
 
 ---
 

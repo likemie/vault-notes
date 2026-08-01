@@ -8,7 +8,7 @@ summary: "社会心理学创始人之一、行动研究的奠基人，提出群�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - organizational-change
 related_concepts:
   - "[[Champ]]"
+  - "[[Praxis]]"
   - "[[Gatekeepers]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Reflexivity]]"
@@ -81,7 +82,7 @@ updated: 2026-07-18
 >   - **关键概念／方法** 群体动力学、民主领导、群体决策
 >   - **阶段转向** 从实验室研究转向真实社会问题的行动导向研究
 > - **1940s — [[Action Research|行动研究]]与变革管理**
->   在 MIT 期间系统化行动研究方法论，提出变革模型和力场分析，将研究与实践直接结合以解决社会问题。
+>   在 MIT 期间系统化行动研究方法论，提出变革模型和力场分析，将研究与[[Praxis|实践]]直接结合以解决社会问题。
 >   - **代表著作** *Action Research and Minority Problems*（1946）; *Frontiers in Group Dynamics*（1947）
 >   - **关键概念／方法** [[Action Research|行动研究]]、力场分析、变革三步模型（unfreezing → moving → refreezing）、[[Gatekeepers|守门人]]概念
 >   - **阶段转向** 未竟之业——勒温 1947 年早逝，其工作由学生在群体动力学和行动研究领域继续推进
@@ -91,7 +92,7 @@ updated: 2026-07-18
 ## 核心思想
 
 > [!claim] 勒温的核心主张：研究必须与行动结合以改变社会现实
-> 勒温的根本信念是：社会研究不应只是描述现实，而应成为改变现实的工具。[[Action Research|行动研究]]将研究者的分析能力与实践者的行动能力相结合，通过"计划—行动—观察—反思"的螺旋循环，在解决真实社会问题（如住房、就业、偏见）的过程中同时产生知识和变革。他将行动研究[[Coding in Qualitative Research|编码]]为一种"理性社会管理"——计划、行动和关于行动结果之查证的螺旋（Lewin, 1948: 205）。
+> 勒温的根本信念是：社会研究不应只是描述现实，而应成为改变现实的工具。[[Action Research|行动研究]]将研究者的分析能力与[[Praxis|实践]]者的行动能力相结合，通过"计划—行动—观察—反思"的螺旋循环，在解决真实社会问题（如住房、就业、偏见）的过程中同时产生知识和变革。他将行动研究[[Coding in Qualitative Research|编码]]为一种"理性社会管理"——计划、行动和关于行动结果之查证的螺旋（Lewin, 1948: 205）。
 
 > [!citation-card]- 关键表述
 > "理性社会管理"可被视为计划、行动和关于所采取行动结果之查证的螺旋。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 280, citing Lewin, 1948: 205)]]
@@ -106,7 +107,7 @@ updated: 2026-07-18
 > - **理论路径** 场论（B = f(P, E)）影响了后来的社会认知理论、生态[[Luhmann's Systems Theory|系统理论]]和情境学习理论；群体动力学成为社会心理学和组织行为学的核心领域。
 > - **方法路径** [[Action Research|行动研究]]螺旋模型被 Kemmis & McTaggart（1981, 1988, 1992）改进和发展为当代行动研究的核心程序框架；力场分析和变革三步模型成为组织发展和变革管理的方法论基础。
 > - **政策路径** 勒温对弱势群体的关注和对民主参与的倡导为[[Participatory Action Research|参与式行动研究]]和赋权研究提供了政治基础——Kemmis & McTaggart（1992: 6）将行动研究的合作性定位在勒温本人对群体决策的承诺中。
-> - **跨国／跨领域传播** 行动研究从社会心理学扩展到教育（Stenhouse 的"[[Teacher-as-Researcher|教师即研究者]]"、Elliott 的[[Reflexivity|反思性]]实践、Carr & Kemmis 的批判行动研究）、护理、社区发展、组织变革和管理学。
+> - **跨国／跨领域传播** 行动研究从社会心理学扩展到教育（Stenhouse 的"[[Teacher-as-Researcher|教师即研究者]]"、Elliott 的[[Reflexivity|反思性]][[Praxis|实践]]、Carr & Kemmis 的批判行动研究）、护理、社区发展、组织变革和管理学。
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "UIDP 定义的产学合作模式，指产业与大学人员在专用空间中有目的地结合，通过缩短物理距离来降低沟通和文化壁垒，促进思想交流和联合研究"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - level/higher-education
   - theme/innovation
 related_concepts:
+  - "[[Praxis]]"
   - "[[University-Based Research Center]]"
   - "[[Innovation Hub]]"
 related_theories: []
@@ -54,7 +55,7 @@ updated: 2026-06-03
 > - **共享设备使用** 双方可共同使用实验室、中试车间等设备
 > - **领导层参与** 双方领导层的投入与支持
 > - **提高联合发表与 IP 产出概率** 物理邻近性促进知识溢出
-> - **学生实践机会** 学生直接与产业技术领袖合作
+> - **学生[[Praxis|实践]]机会** 学生直接与产业技术领袖合作
 
 ## 概念辨析
 

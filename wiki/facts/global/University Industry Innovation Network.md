@@ -8,17 +8,19 @@ type: fact
 subtype: organization
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"
   - "level/higher-education"
 related_concepts:
+  - "[[Praxis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Strategic Partnership]]"
+  - "[[Growth]]"
   - "[[Partnership Continuum]]"
 related_theories: []
 related_methods:
@@ -40,14 +42,14 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> UIIN（University Industry Innovation Network）是一个国际性的产学创新网络组织，致力于推动大学与企业之间的创新合作。它通过出版研究出版物、举办专业活动和建立实践者社区来促进知识分享和网络建设。其旗舰出版物 University Industry Innovation Magazine（UIIM）定期围绕[[University-Industry Collaboration|产学合作]]的核心议题出版专刊([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.74, 78, 82]])。
+> UIIN（University Industry Innovation Network）是一个国际性的产学创新网络组织，致力于推动大学与企业之间的创新合作。它通过出版研究出版物、举办专业活动和建立[[Praxis|实践]]者社区来促进知识分享和网络建设。其旗舰出版物 University Industry Innovation Magazine（UIIM）定期围绕[[University-Industry Collaboration|产学合作]]的核心议题出版专刊([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, pp.74, 78, 82]])。
 
 ---
 
 ## 核心产出
 
 > [!abstract]
-> - **University Industry Innovation Magazine（UIIM）** 2021 年 3 月刊为"Strategic Partnerships with Industry"专刊，总结了[[Strategic Partnership|产学战略伙伴关系]]的关键特征：伙伴之间的信任、互利目标、持续联络人、战略路线图、长期规划、年度目标设定与核算，以及调整、转向和成长的能力([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.78]])。
+> - **University Industry Innovation Magazine（UIIM）** 2021 年 3 月刊为"Strategic Partnerships with Industry"专刊，总结了[[Strategic Partnership|产学战略伙伴关系]]的关键特征：伙伴之间的信任、互利目标、持续联络人、战略路线图、长期规划、年度目标设定与核算，以及调整、转向和[[Growth|成长]]的能力([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.78]])。
 > - **专业活动** 与 [[University Industry Demonstration Partnership|UIDP]]、[[Network of Academic Corporate Relations Officers|NACRO]] 和 Government-University-Industry Philanthropy Research Roundtable 并列为产学专业人员的主要交流平台([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.74]])。
 
 ---
@@ -55,7 +57,7 @@ updated: 2026-05-28
 ## 概念辨析
 
 > [!example]
-> **vs [[University Industry Demonstration Partnership|UIDP]]** UIDP 以解决[[University-Industry Collaboration|产学合作]]的操作性问题为核心（合同模板、[[Partnership Continuum|伙伴关系连续体]]、合作度量指标）；UIIN 更侧重研究出版物和知识分享，其杂志为实践者和研究者提供经验总结和[[Case Study|案例研究]]。
+> **vs [[University Industry Demonstration Partnership|UIDP]]** UIDP 以解决[[University-Industry Collaboration|产学合作]]的操作性问题为核心（合同模板、[[Partnership Continuum|伙伴关系连续体]]、合作度量指标）；UIIN 更侧重研究出版物和知识分享，其杂志为[[Praxis|实践]]者和研究者提供经验总结和[[Case Study|案例研究]]。
 >
 > **vs [[Network of Academic Corporate Relations Officers|NACRO]]** NACRO 聚焦企业关系职能的专业化和标准制定（白皮书、立场文件）；UIIN 更具国际网络色彩，通过杂志和活动连接全球产学创新实践者。
 

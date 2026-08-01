@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进和关系建设展开的教育领导实践，用于理解学校如何组织改进、建立信任并支持学习环境。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,11 +15,13 @@ tags:
   - subject/curriculum
   - level/k12
 related_concepts:
+  - "[[Praxis]]"
   - "[[Transformative Leadership]]"
   - "[[Doxa]]"
   - "[[Rationalism in International Relations]]"
   - "[[Champ]]"
   - "[[Habitus]]"
+  - "[[Problem-Posing Education]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Document]]"
@@ -52,7 +54,7 @@ updated: 2026-07-09
 ## 核心要素
 
 > [!abstract] 核心要素
-> ISSPP 跨国研究识别出一组跨情境的基本领导实践([[Argument_Møller_2017_EERJ|Møller, 2017, p.380]])：
+> ISSPP 跨国研究识别出一组跨情境的基本领导[[Praxis|实践]]([[Argument_Møller_2017_EERJ|Møller, 2017, p.380]])：
 >
 > - **设定方向（setting direction）**
 > - **发展人员（developing people）**
@@ -96,7 +98,7 @@ Møller 提出研究学校领导力的两种关键视角([[Argument_Møller_2017
 NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.49-51]])：
 
 - **证据本位决策（evidence-based strategies）** Scott 宣称需要"来自稳健研究的证据本位策略"，但 English 论证证据本位决策"使学校变蠢"——教学被简化为数字，"什么重要实际上由所选择的问题决定"
-- **技术-[[Rationalism in International Relations|理性主义]]（techno-rationalist approaches）** 改进通过逻辑增量实现，未能充分参与社会生活的复杂性。Bourdieu 指出理性选择在实践中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"
+- **技术-[[Rationalism in International Relations|理性主义]]（techno-rationalist approaches）** 改进通过逻辑增量实现，未能充分参与社会生活的复杂性。Bourdieu 指出理性选择在[[Praxis|实践]]中几乎永远无法获得其所需条件——"时间稀缺、信息有限、替代方案定义不清、实际事务紧迫"
 - **理论与实践的工具性二分** 领导力培养被框定为"持续将理论与实践联系起来"——暗示二者分离存在，但所谓"理论"仅指"教育管理者的知识专业化和问题解决工具"
 
 这些 doxa 通过**结构安排**被制度化和合法化：学校本位规划、择优晋升、领导力能力框架、竞争性入学领导力项目([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.45]])。
@@ -117,7 +119,7 @@ NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argumen
 
 ### 替代方案："加入世界对话"
 
-[[Argument_Eacott_2011_JEAH|Eacott (2011, p.56-58)]]提出学校领导力培养需要一种基于**"教育问题提出与争辩"（educational problem posing and contestation）**而非"组织问题解决"（organisational problem solving）的**替代性领导习性**
+[[Argument_Eacott_2011_JEAH|Eacott (2011, p.56-58)]]提出学校领导力培养需要一种基于**"教育问题提出与争辩"（educational [[Problem-Posing Education|problem posing]] and contestation）**而非"组织问题解决"（organisational problem solving）的**替代性领导习性**
 
 - 领导力培养不应是关于"唯一正确方法"，也不应恐惧"知识主张的争辩"
 - 需要理解"集体无意识的工作[[Hypothesis|假设]]、多元社会力量对工作的赋值、以及权力关系"——这要求**批判性[[Reflexivity|反思性]]**
@@ -147,7 +149,7 @@ NSW 校长培养方案体现了三种相互强化的领导力 [[Doxa]]([[Argumen
 [[Argument_Møller_2017_EERJ|Møller (2017, p.380-381)]]识别出 ISSPP 类型研究的若干方法论缺陷：
 
 - **英雄叙事倾向** 成功校长的[[Case Study|案例研究]]容易沦为主角式的"英雄故事"（heroic tales），回到"伟人"领导力理论（citing Thomson, 2009）
-- **将学校领导力等同于校长个人** 尽管 ISSPP 声称分布式领导力更具影响力，研究实践仍倾向于将领导力等同于校长
+- **将学校领导力等同于校长个人** 尽管 ISSPP 声称分布式领导力更具影响力，研究[[Praxis|实践]]仍倾向于将领导力等同于校长
 - **过度关注个人能力**，遮蔽了校长工作嵌入更广泛社会权力结构的事实
 - **对更广泛的权力结构缺乏批判性分析** 组织视角主导，社会视角缺失；对绩效问责体制的批评更多是隐含的而非明确的
 
@@ -176,7 +178,7 @@ Keddie et al.（2020）基于 42 位澳大利亚教育利益相关者的访谈�
 
 > "谁被捧为年度校长？谁因系统贡献被刊登在通讯中，而非他们扭转了一所挣扎中的学校？"（Keddie et al., 2020, p.438-439）
 
-当企业家精神由竞争和经济[[Rationalism in International Relations|理性主义]]驱动时，它会**损害校长的伦理实践（Keddie et al., 2020, p.438, citing Fullan, 2002; Keddie, 2015; Cranston et al., 2010）**。Victoria 州 IBAC（2017）的调查记录了这一问题的现实性——"将资金滥用和腐败行为的增加归因于缺乏政府监管和监督"（Keddie et al., 2020, p.438）。
+当企业家精神由竞争和经济[[Rationalism in International Relations|理性主义]]驱动时，它会**损害校长的伦理[[Praxis|实践]]（Keddie et al., 2020, p.438, citing Fullan, 2002; Keddie, 2015; Cranston et al., 2010）**。Victoria 州 IBAC（2017）的调查记录了这一问题的现实性——"将资金滥用和腐败行为的增加归因于缺乏政府监管和监督"（Keddie et al., 2020, p.438）。
 
 ### 工作量激增与健康危机
 

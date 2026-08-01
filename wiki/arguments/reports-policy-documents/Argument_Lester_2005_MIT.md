@@ -7,9 +7,9 @@ title: "Argument_Lester_2005_MIT"
 argument_key: "Argument_Lester_2005_MIT"
 argument_display_title: "Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)"
 argument_kind: "report"
-argument_related_count: 9
+argument_related_count: 11
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dcfce7"
 issuing_organization: "MIT Industrial Performance Center"
 authors:
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Technology Transfer]]"
   - "[[Structural Holes]]"
+  - "[[Praxis]]"
+  - "[[Dialogue in Education]]"
   - "[[External Validity]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -160,7 +162,7 @@ Lester 的核心论点：大学的经济贡献应该**匹配**本地产业正在
 > > 罗切斯特（光电子）、夏洛特（NASCAR）、阿尔弗雷德-康宁（陶瓷）、坦佩雷（工业机械）、塞纳约基和波里（工业自动化）、中苏格兰（光电子）、滨松（光电子）、京都（电子）。
 >
 > > [!col-r] 大学贡献
-> > 合同研究和教师咨询、教育/人力开发、全球最佳实践扫描、召集前瞻性练习、召集用户-供应商论坛。
+> > 合同研究和教师咨询、教育/人力开发、全球最佳[[Praxis|实践]]扫描、召集前瞻性练习、召集用户-供应商论坛。
 
 Lester 的核心发现：类型一，新产业形成，实际上是"非常罕见的事件"。22 个案例中仅 6 个可归入此类型，绝大多数（16 个）面临的是类型二到四的转型挑战。现行政策过度聚焦类型一，意味着大学可能对其所在地区最重要的经济转型过程贡献不足。
 
@@ -169,7 +171,7 @@ Lester 的核心发现：类型一，新产业形成，实际上是"非常罕见
 ### 论证步骤三：大学作为公共空间——最被低估的贡献
 
 > [!success] 公共空间角色的四个维度
-> Lester 特别强调了大学作为公共空间（public space）的角色。大学作为通常稳定、基本没有政治和产业议程的组织，可以充当中性空间，催化创新系统内不同行动者之间的持续对话，讨论技术、市场和产业未来的方向。这一角色因为不可量化和间接性而长期被低估，但它对于本地创新系统的凝聚、方向设定和信任建立至关重要。
+> Lester 特别强调了大学作为公共空间（public space）的角色。大学作为通常稳定、基本没有政治和产业议程的组织，可以充当中性空间，催化创新系统内不同行动者之间的持续[[Dialogue in Education|对话]]，讨论技术、市场和产业未来的方向。这一角色因为不可量化和间接性而长期被低估，但它对于本地创新系统的凝聚、方向设定和信任建立至关重要。
 
 > [!abstract] 其他常被低估的间接贡献
 > Lester 在报告中系统梳理了超越传统技术转移的大学间接贡献（pp.3-5）：
@@ -188,7 +190,7 @@ Lester 指出，这些间接贡献往往比直接的专利许可和创业孵化�
 > 1. **大学贡献取决于本地产业转型类型** 新产业形成、产业移植、产业多样化、产业升级分别需要不同的大学贡献组合
 > 2. **一刀切的[[Technology Transfer|技术转移]]策略应被替代** 大学需要更全面、更差异化的视角看待自身的经济角色，将贡献与本地经济实际发生的转型相对齐
 > 3. **教育的贡献常被低估** 在许多转型类型中，人才培养是大学最重要也最基础的经济贡献
-> 4. **大学的公共空间角色被忽视** 作为中性对话场所的功能对于本地[[Systems of Innovation|创新系统]]的健康运作至关重要
+> 4. **大学的公共空间角色被忽视** 作为中性[[Dialogue in Education|对话]]场所的功能对于本地[[Systems of Innovation|创新系统]]的健康运作至关重要
 
 ---
 ## 自述局限

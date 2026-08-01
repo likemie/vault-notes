@@ -9,10 +9,10 @@ aliases:
 summary: "比较教育学分析视角，描述接受国在面对强行嵌入的外来教育学制或政策移植时，为了维护本土文化生态和制度主体性而自发形成的排异、过滤和抵抗改写机制"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - comparative-education
   - policy-borrowing
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Shape-Shifting]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Going Native]]"
+  - "[[Praxis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Geometries of Insertion]]"
   - "[[Social Cloning]]"
@@ -63,7 +64,7 @@ updated: 2026-07-03
 > - **[[Going Native|本土化]]过滤与选择性翻译**
 >   本土免疫机制极少进行简单的全面抵制，而是倾向于通过“[[Transfer Translation Transformation|转译]]（Translation）”阶段的选择性吸收，主动剔除外来思想中对本土既有秩序或核心利益有威胁的成分，仅“驯化”并保留对自身有利的工具性工具（[[Argument_Cowen_2009_CE|Cowen, 2009, p. 323]]）。
 > - **长时段历史博弈的报复**
->   即使外来几何在初期依靠强力（如战争、军事占领或财政裹挟）实现强制嵌入，本土的社会力量、文官系统与文化逻辑也会在漫长的日常实践中进行持续拉锯，最终导致外来体制的消亡（灭绝）或发生本土化形变（[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 321–323]]）。
+>   即使外来几何在初期依靠强力（如战争、军事占领或财政裹挟）实现强制嵌入，本土的社会力量、文官系统与文化逻辑也会在漫长的日常[[Praxis|实践]]中进行持续拉锯，最终导致外来体制的消亡（灭绝）或发生本土化形变（[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 321–323]]）。
 
 ---
 

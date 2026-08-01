@@ -8,7 +8,7 @@ aliases:
 summary: "TUFF 创新中心框架的六项优先领域之一，通过非正式激活活动、意向性空间设计和社区文化建设，在建筑内部空间创造人际互动价值，以信任和人际密度推动商业活力"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -58,7 +59,7 @@ TUFF 将其与传统的建筑资产管理区分开来——后者关注建筑本
 > **非传统激活活动（Unconventional Activation）** 活动类型灵活多样——乐高搭建比赛、知识问答之夜、桌游下午茶、Taco Tuesday——目标是尽可能把更多人聚到一起，为天性不倾向于社交的科学家和工程师创造"互动的借口"（pp.136–137）。这些活动刻意打破常规，因为正式会议无法产生真正的跨学科交流。
 
 > [!abstract]
-> **意向性空间设计（Intentional Physical Layout）** 物理空间的安排应有意识地鼓励看似无关的学科和行业相互接触——例如将工程实验室和商学院创业中心放在同一楼层、共用咖啡区。[[University-Industry Collaboration|产学合作]]实践者一致报告，物理布局和活动设计是他们决定入驻园区的关键考量之一（p.127）。
+> **意向性空间设计（Intentional Physical Layout）** 物理空间的安排应有意识地鼓励看似无关的学科和行业相互接触——例如将工程实验室和商学院创业中心放在同一楼层、共用咖啡区。[[University-Industry Collaboration|产学合作]][[Praxis|实践]]者一致报告，物理布局和活动设计是他们决定入驻园区的关键考量之一（p.127）。
 
 > [!abstract]
 > **数据收集与持续改进**[[TUFF]] 的经验表明，在活动中投入精力收集数据、不断向参与者提问，能够赋权[[Innovation Hub|创新中心]]持续改进活动设计，避免陷入停滞（p.137）。由于文化随产业和区域演化而变迁，创新中心必须准备适应变化。

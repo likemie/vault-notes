@@ -5309,6 +5309,7 @@
 .theme-dark .callout[data-callout="assumptions"] > .callout-content > p > strong:first-child,
 .theme-dark .callout[data-callout="assumptions"] > .callout-content > ul > li > strong:first-of-type {
   color: rgb(100, 215, 195);
+  border-bottom-color: rgba(80, 200, 180, 0.35);
 }
 
 
@@ -5619,6 +5620,15 @@
   border-collapse: collapse;
   margin: 0;
   table-layout: fixed;
+  font-size: var(--fs-body);
+}
+
+.callout[data-callout="ref-table"] td,
+.callout[data-callout="ref-table"] th,
+.callout[data-callout="meta-table"] td,
+.callout[data-callout="meta-table"] th {
+  padding: 0.4em 0.7em;
+  line-height: 1.55;
 }
 
 /* ── 共享表头基础 ── */
@@ -10840,10 +10850,14 @@
     0 4px 16px rgba(var(--callout-color), 0.09);
 }
 
-/* ─── warning / question / note / dev-timeline 列表项标题加框 ────── */
+/* ─── warning / voice / question / note / info / assumptions / taxonomy / dev-timeline 列表项标题加框 ────── */
 .callout[data-callout="warning"] .callout-content > ul > li strong:first-of-type,
+.callout[data-callout="voice"] .callout-content > ul > li strong:first-of-type,
 .callout[data-callout="question"] .callout-content > ul > li strong:first-of-type,
 .callout[data-callout="note"] .callout-content > ul > li strong:first-of-type,
+.callout[data-callout="info"] .callout-content > ul > li strong:first-of-type,
+.callout[data-callout="assumptions"] .callout-content > ul > li strong:first-of-type,
+.callout[data-callout="taxonomy"] .callout-content > ul > li strong:first-of-type,
 .callout[data-callout="dev-timeline"] .callout-content > ul > li strong:first-of-type {
   display: inline-block;
   border: 1px solid rgba(var(--callout-color), 0.5);
@@ -10854,8 +10868,12 @@
   font-weight: 600;
 }
 .theme-dark .callout[data-callout="warning"] .callout-content > ul > li strong:first-of-type,
+.theme-dark .callout[data-callout="voice"] .callout-content > ul > li strong:first-of-type,
 .theme-dark .callout[data-callout="question"] .callout-content > ul > li strong:first-of-type,
 .theme-dark .callout[data-callout="note"] .callout-content > ul > li strong:first-of-type,
+.theme-dark .callout[data-callout="info"] .callout-content > ul > li strong:first-of-type,
+.theme-dark .callout[data-callout="assumptions"] .callout-content > ul > li strong:first-of-type,
+.theme-dark .callout[data-callout="taxonomy"] .callout-content > ul > li strong:first-of-type,
 .theme-dark .callout[data-callout="dev-timeline"] .callout-content > ul > li strong:first-of-type {
   background: rgba(var(--callout-color), 0.15);
   border-color: rgba(var(--callout-color), 0.45);
@@ -12038,6 +12056,26 @@
    渐变轨道条横跨所有节点；圆形节点悬停于轨道上。
    ═══════════════════════════════════════════════════════════ */
 
+@keyframes spectrum-track-wave {
+  0%, 10%, 100% {
+    opacity: 0.82;
+    filter: brightness(1);
+  }
+  5% {
+    opacity: 1;
+    filter: brightness(1.38);
+  }
+}
+
+@keyframes spectrum-node-wave {
+  0%, 10%, 100% {
+    filter: drop-shadow(0 0 0 rgba(var(--spectrum-node-rgb), 0));
+  }
+  5% {
+    filter: drop-shadow(0 0 5px rgba(var(--spectrum-node-rgb), 0.72));
+  }
+}
+
 .callout[data-callout="spectrum"] {
   --cl: 68, 105, 210;
   --cr: 195, 108, 28;
@@ -12059,35 +12097,103 @@
   color: rgb(var(--cm));
 }
 
-/* 水平 flex 列表 */
+/* 顶部两端标签 */
+.callout[data-callout="spectrum"] > .callout-content > p:first-of-type {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 0.5rem 0;
+}
+
+.callout[data-callout="spectrum"] > .callout-content > p:first-of-type strong:first-child {
+  color: rgb(var(--cl));
+  background: rgba(var(--cl), 0.10);
+  border: 1px solid rgba(var(--cl), 0.35);
+  border-radius: 5px;
+  padding: 2px 10px;
+  font-size: var(--fs-label);
+}
+
+.callout[data-callout="spectrum"] > .callout-content > p:first-of-type strong:last-child {
+  color: rgb(var(--cr));
+  background: rgba(var(--cr), 0.10);
+  border: 1px solid rgba(var(--cr), 0.35);
+  border-radius: 5px;
+  padding: 2px 10px;
+  font-size: var(--fs-label);
+}
+
+.theme-dark .callout[data-callout="spectrum"] > .callout-content > p:first-of-type strong:first-child {
+  color: rgb(120, 160, 240);
+  background: rgba(var(--cl), 0.15);
+  border-color: rgba(var(--cl), 0.45);
+}
+
+.theme-dark .callout[data-callout="spectrum"] > .callout-content > p:first-of-type strong:last-child {
+  color: rgb(240, 160, 80);
+  background: rgba(var(--cr), 0.15);
+  border-color: rgba(var(--cr), 0.45);
+}
+
+/* 水平 flex 列表（横向滚动，横线随内容） */
 .callout[data-callout="spectrum"] > .callout-content > ol,
 .callout[data-callout="spectrum"] > .callout-content > ul {
   display: flex;
-  justify-content: space-between;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
   align-items: flex-start;
   list-style: none;
-  padding: 0;
+  padding: 0 0 6px 0;
   margin: 0;
   position: relative;
-  gap: 0.4rem;
+  --spectrum-gap: 0.5rem;
+  gap: var(--spectrum-gap);
+  width: 100%;
+  overflow-x: auto;
 }
 
-/* 渐变轨道条 */
-.callout[data-callout="spectrum"] > .callout-content > ol::before,
-.callout[data-callout="spectrum"] > .callout-content > ul::before {
+/* 端点标签容器 */
+.callout[data-callout="spectrum"] > .callout-content > p:first-of-type {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0.9rem 0 1.05rem 0;
+  color: transparent;
+}
+
+.callout[data-callout="spectrum"] > .callout-content > p:first-of-type strong:first-child {
+  color: rgb(var(--cl));
+  order: -1;
+}
+
+.callout[data-callout="spectrum"] > .callout-content > p:first-of-type strong:last-child {
+  color: rgb(var(--cr));
+  order: 1;
+}
+
+/* 隐藏 Markdown 中的分隔点，以细渐变线连接两端标签 */
+.callout[data-callout="spectrum"] > .callout-content > p:first-of-type::before {
   content: "";
-  position: absolute;
-  top: 0.62rem;
-  left: 0.45rem;
-  right: 0.45rem;
-  height: 3px;
+  flex: 1 1 auto;
+  height: 1px;
+  margin: 0 0.8rem;
   background: linear-gradient(90deg,
-    rgb(var(--cl)),
-    rgb(var(--cm)),
-    rgb(var(--cr))
+    rgba(var(--cl), 0.72),
+    rgba(var(--cm), 0.55),
+    rgba(var(--cr), 0.72)
   );
-  border-radius: 2px;
-  z-index: 0;
+  border-radius: 1px;
+}
+
+.callout[data-callout="spectrum"] > .callout-content > ol > li,
+.callout[data-callout="spectrum"] > .callout-content > ul > li {
+  flex: 0 0 6em;
+  width: 6em;
+  min-width: 0;
+  max-width: 6em;
+  margin: 0 !important;
+  padding-inline: 0;
+  box-sizing: border-box;
 }
 
 /* 每个节点 */
@@ -12098,12 +12204,42 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  font-size: 0.82em;
-  line-height: 1.45;
+  font-size: 0.78em;
+  line-height: 1.35;
   padding-top: 1.55rem;
-  flex: 1;
-  min-width: 0;
   color: rgb(var(--cm));
+}
+
+/* 相邻节点逐段连接：轨道长度跟随滚动内容，并精确止于末端圆点 */
+.callout[data-callout="spectrum"] > .callout-content > ol > li:not(:last-child)::after,
+.callout[data-callout="spectrum"] > .callout-content > ul > li:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 0.62rem;
+  left: 50%;
+  width: calc(100% + var(--spectrum-gap));
+  height: 3px;
+  background: rgb(var(--cm));
+  border-radius: 2px;
+  z-index: 0;
+  animation: spectrum-track-wave 4.2s ease-in-out infinite;
+}
+
+/* 首段由左极色过渡到中间色，末段由中间色过渡到右极色 */
+.callout[data-callout="spectrum"] > .callout-content > ol > li:first-child::after,
+.callout[data-callout="spectrum"] > .callout-content > ul > li:first-child::after {
+  background: linear-gradient(90deg, rgb(var(--cl)), rgb(var(--cm)));
+}
+
+.callout[data-callout="spectrum"] > .callout-content > ol > li:nth-last-child(2)::after,
+.callout[data-callout="spectrum"] > .callout-content > ul > li:nth-last-child(2)::after {
+  background: linear-gradient(90deg, rgb(var(--cm)), rgb(var(--cr)));
+}
+
+/* 只有两个端点时，单段直接完成两极渐变 */
+.callout[data-callout="spectrum"] > .callout-content > ol > li:first-child:nth-last-child(2)::after,
+.callout[data-callout="spectrum"] > .callout-content > ul > li:first-child:nth-last-child(2)::after {
+  background: linear-gradient(90deg, rgb(var(--cl)), rgb(var(--cr)));
 }
 
 /* 圆形节点悬于轨道 */
@@ -12120,8 +12256,10 @@
   background: rgb(var(--cm));
   border: 2px solid var(--background-primary);
   box-shadow: 0 0 0 1.5px rgb(var(--cm));
+  --spectrum-node-rgb: var(--cm);
   z-index: 1;
   transition: transform 0.18s ease, box-shadow 0.18s ease;
+  animation: spectrum-node-wave 4.2s ease-in-out infinite;
 }
 .callout[data-callout="spectrum"] > .callout-content > ol > li:hover::before,
 .callout[data-callout="spectrum"] > .callout-content > ul > li:hover::before {
@@ -12136,6 +12274,7 @@
 }
 .callout[data-callout="spectrum"] > .callout-content > ol > li:first-child::before,
 .callout[data-callout="spectrum"] > .callout-content > ul > li:first-child::before {
+  --spectrum-node-rgb: var(--cl);
   background: rgb(var(--cl));
   box-shadow: 0 0 0 2px rgba(var(--cl), 0.32);
   width: 13px; height: 13px; top: 0.20rem;
@@ -12149,10 +12288,27 @@
 }
 .callout[data-callout="spectrum"] > .callout-content > ol > li:last-child::before,
 .callout[data-callout="spectrum"] > .callout-content > ul > li:last-child::before {
+  --spectrum-node-rgb: var(--cr);
   background: rgb(var(--cr));
   box-shadow: 0 0 0 2px rgba(var(--cr), 0.32);
   width: 13px; height: 13px; top: 0.20rem;
 }
+
+/* 轨道与节点的高光依次向右传播 */
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(2)::before,
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(2)::after { animation-delay: 0.22s; }
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(3)::before,
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(3)::after { animation-delay: 0.44s; }
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(4)::before,
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(4)::after { animation-delay: 0.66s; }
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(5)::before,
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(5)::after { animation-delay: 0.88s; }
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(6)::before,
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(6)::after { animation-delay: 1.10s; }
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(7)::before,
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(7)::after { animation-delay: 1.32s; }
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(8)::before,
+.callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li:nth-child(8)::after { animation-delay: 1.54s; }
 
 /* 节点内粗体标题 */
 .callout[data-callout="spectrum"] .callout-content li > strong:first-of-type {
@@ -12172,6 +12328,15 @@
 }
 .theme-dark .callout[data-callout="spectrum"] > .callout-title {
   color: rgb(var(--cm));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li::before,
+  .callout[data-callout="spectrum"] > .callout-content > :is(ol, ul) > li::after {
+    animation: none !important;
+    filter: none !important;
+    opacity: 1;
+  }
 }
 
 /* ─── fit-grid（适用判断三格 — 绿/琥珀/红 信号灯配色） ──── */
@@ -14620,4 +14785,112 @@
 
 .theme-dark .callout[data-callout="design-notation"] > .callout-content hr::after {
   color: rgb(235, 130, 140);
+}
+
+/* ═══════════════════════════════════════════════════════════
+   SUB-HEADING BADGES (Reading View + Live Preview 完全融合)
+   ═══════════════════════════════════════════════════════════ */
+
+/* 1. CASE (案例/课例) 卡片 - 兼顾编辑模式(.cm-line)与阅读模式(.markdown-rendered) */
+.callout[data-callout=case] .callout-content li strong:first-child,
+.callout[data-callout=case] .callout-content li strong:first-of-type,
+.callout[data-callout=case] .callout-content li p:first-child strong:first-child,
+.callout[data-callout=case] .callout-content li p:first-child strong:first-of-type,
+.markdown-rendered .callout[data-callout=case] .callout-content li strong:first-child,
+.markdown-rendered .callout[data-callout=case] .callout-content li strong:first-of-type,
+.markdown-rendered .callout[data-callout=case] .callout-content li p:first-child strong:first-child,
+.markdown-rendered .callout[data-callout=case] .callout-content li p:first-child strong:first-of-type,
+.markdown-preview-view .callout[data-callout=case] .callout-content li strong:first-child,
+.markdown-preview-view .callout[data-callout=case] .callout-content li p:first-child strong:first-child,
+.callout[data-callout=case] .cm-line.HyperMD-list-line .cm-strong:first-of-type,
+.callout[data-callout=case] .cm-line .cm-strong:first-child {
+  display: inline-block !important;
+  margin-right: 0.55rem !important;
+  margin-top: 0.15rem !important;
+  margin-bottom: 0.2rem !important;
+  padding: 0.18em 0.65em !important;
+  border-radius: 6px !important;
+  border: 1.5px solid rgba(225, 160, 50, 0.65) !important;
+  background-color: rgba(225, 160, 50, 0.18) !important;
+  color: #fce8c8 !important;
+  font-weight: 700 !important;
+  font-size: 0.93em !important;
+  line-height: 1.4 !important;
+  vertical-align: middle !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25) !important;
+}
+
+.theme-light .callout[data-callout=case] .callout-content li strong:first-child,
+.theme-light .callout[data-callout=case] .callout-content li strong:first-of-type,
+.theme-light .callout[data-callout=case] .callout-content li p:first-child strong:first-child,
+.theme-light .callout[data-callout=case] .callout-content li p:first-child strong:first-of-type,
+.theme-light .markdown-rendered .callout[data-callout=case] .callout-content li strong:first-child,
+.theme-light .markdown-rendered .callout[data-callout=case] .callout-content li strong:first-of-type,
+.theme-light .markdown-rendered .callout[data-callout=case] .callout-content li p:first-child strong:first-child,
+.theme-light .markdown-rendered .callout[data-callout=case] .callout-content li p:first-child strong:first-of-type,
+.theme-light .markdown-preview-view .callout[data-callout=case] .callout-content li strong:first-child,
+.theme-light .markdown-preview-view .callout[data-callout=case] .callout-content li p:first-child strong:first-child,
+.theme-light .callout[data-callout=case] .cm-line.HyperMD-list-line .cm-strong:first-of-type,
+.theme-light .callout[data-callout=case] .cm-line .cm-strong:first-child {
+  border: 1.5px solid rgba(180, 110, 15, 0.60) !important;
+  background-color: rgba(180, 110, 15, 0.14) !important;
+  color: #6d4004 !important;
+}
+
+/* 2. DEF (定义) 卡片 - 兼顾编辑模式与阅读模式 */
+.callout[data-callout=def] .callout-content li strong:first-child,
+.callout[data-callout=def] .callout-content li strong:first-of-type,
+.callout[data-callout=def] .callout-content li p:first-child strong:first-child,
+.callout[data-callout=def] .callout-content li p:first-child strong:first-of-type,
+.markdown-rendered .callout[data-callout=def] .callout-content li strong:first-child,
+.markdown-rendered .callout[data-callout=def] .callout-content li strong:first-of-type,
+.markdown-rendered .callout[data-callout=def] .callout-content li p:first-child strong:first-child,
+.markdown-rendered .callout[data-callout=def] .callout-content li p:first-child strong:first-of-type,
+.markdown-preview-view .callout[data-callout=def] .callout-content li strong:first-child,
+.markdown-preview-view .callout[data-callout=def] .callout-content li p:first-child strong:first-child,
+.callout[data-callout=def] .cm-line.HyperMD-list-line .cm-strong:first-of-type,
+.callout[data-callout=def] .cm-line .cm-strong:first-child {
+  display: inline-block !important;
+  margin-right: 0.55rem !important;
+  margin-top: 0.15rem !important;
+  margin-bottom: 0.2rem !important;
+  padding: 0.18em 0.65em !important;
+  border-radius: 6px !important;
+  border: 1.5px solid rgba(170, 130, 245, 0.65) !important;
+  background-color: rgba(170, 130, 245, 0.18) !important;
+  color: #eee5ff !important;
+  font-weight: 700 !important;
+  font-size: 0.93em !important;
+  line-height: 1.4 !important;
+  vertical-align: middle !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25) !important;
+}
+
+.theme-light .callout[data-callout=def] .callout-content li strong:first-child,
+.theme-light .callout[data-callout=def] .callout-content li strong:first-of-type,
+.theme-light .callout[data-callout=def] .callout-content li p:first-child strong:first-child,
+.theme-light .callout[data-callout=def] .callout-content li p:first-child strong:first-of-type,
+.theme-light .markdown-rendered .callout[data-callout=def] .callout-content li strong:first-child,
+.theme-light .markdown-rendered .callout[data-callout=def] .callout-content li strong:first-of-type,
+.theme-light .markdown-rendered .callout[data-callout=def] .callout-content li p:first-child strong:first-child,
+.theme-light .markdown-rendered .callout[data-callout=def] .callout-content li p:first-child strong:first-of-type,
+.theme-light .markdown-preview-view .callout[data-callout=def] .callout-content li strong:first-child,
+.theme-light .markdown-preview-view .callout[data-callout=def] .callout-content li p:first-child strong:first-child,
+.theme-light .callout[data-callout=def] .cm-line.HyperMD-list-line .cm-strong:first-of-type,
+.theme-light .callout[data-callout=def] .cm-line .cm-strong:first-child {
+  border: 1.5px solid rgba(110, 65, 185, 0.60) !important;
+  background-color: rgba(110, 65, 185, 0.14) !important;
+  color: #431f78 !important;
+}
+
+/* 3. 句中普通 strong 文本保持平实 */
+.callout-content li strong:not(:first-child):not(:first-of-type),
+.markdown-rendered .callout-content li strong:not(:first-child):not(:first-of-type),
+.callout .cm-line .cm-strong:not(:first-child):not(:first-of-type) {
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  display: inline !important;
 }

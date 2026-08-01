@@ -12,7 +12,7 @@ summary: "在更高层次汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 52
+method_related_count: 53
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
   - "[[Metacognition]]"
+  - "[[Praxis]]"
   - "[[Direct Instruction]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
@@ -133,7 +134,7 @@ updated: 2026-07-08
 >
 > **Marzano（1998）——理论驱动的元综合**
 >
-> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验-控制组比较。其关键贡献是批评"品牌名"聚合做法——用宽泛标签代表包含多种活性成分的复杂干预——并按四层学习系统（知识、认知、[[Metacognition|元认知]]、自我系统）分类教学策略，追求课堂实践的可操作性。
+> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验-控制组比较。其关键贡献是批评"品牌名"聚合做法——用宽泛标签代表包含多种活性成分的复杂干预——并按四层学习系统（知识、认知、[[Metacognition|元认知]]、自我系统）分类教学策略，追求课堂[[Praxis|实践]]的可操作性。
 >
 > > [!warning] "品牌名"聚合的具体案例
 > > Marzano 以 Athappilly et al.（1983）的"现代数学"元分析为例。该元分析被纳入 Fraser et al.，其中"现代数学"这个品牌名下包含多种不同成分：
@@ -249,7 +250,7 @@ updated: 2026-07-08
 
 > [!success] 适用场景
 > - 当某一研究领域已积累大量[[Meta-analysis|元分析]]，再做新的元分析只是"more of the same"时，元-元分析提供了更高层次的综合视角([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
-> - 适合为政策制定者和实践者提供关于"什么有效"的宏观概览——[[EEF Teaching and Learning Toolkit]]和[[Visible Learning]]是这一用途的标志性产物
+> - 适合为政策制定者和[[Praxis|实践]]者提供关于"什么有效"的宏观概览——[[EEF Teaching and Learning Toolkit]]和[[Visible Learning]]是这一用途的标志性产物
 > - 在 Hattie 的自我解释中，二级综合还承担一种”生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续追问为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
 
 > [!note]- 推论层级的约束
@@ -357,7 +358,7 @@ updated: 2026-07-08
 >
 > *作者背景*：[[William Jeynes|William H. Jeynes]] 是福音派牧师、God's Love Ministries 创始人，与共和党关系密切，曾进入 Trump 教育部长候选名单。Jeynes 的 −0.65 不仅是一个统计异常值——它嵌入了特定的政治议程([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147–148]])。
 >
-> **第三项元分析：Gee 的 +0.65——唯一被 Hattie 动手修改的。** Gee报告 d=+0.65。Hattie 以其中三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的专著——在有意义的语境中教技能恰恰是全语言的核心实践([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])。
+> **第三项元分析：Gee 的 +0.65——唯一被 Hattie 动手修改的。** Gee报告 d=+0.65。Hattie 以其中三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的专著——在有意义的语境中教技能恰恰是全语言的核心[[Praxis|实践]]([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])。
 >
 > **关键的对比** 在《可见的学习》800 多项元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是  [[Cargo Cult Science]] 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
 >

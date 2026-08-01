@@ -7,7 +7,7 @@ summary: "中国高等教育研究者，双模式框架提出者和 金榜题名
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 28
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Praxis]]"
   - "[[Cultural Barrier]]"
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Hypothesis]]"
+  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
@@ -81,7 +83,7 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract]
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]，《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 Bourdieu 的实践理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]，《金榜题名之后：大学生出路分化之谜》，上海三联书店。 — 基于 62 名中国两所顶尖大学毕业班学生的跟踪[[In-depth Interview|深度访谈]]，运用 Bourdieu 的[[Praxis|实践]]理论和 Swidler 的[[Culture as Toolkit|文化工具箱]]理论，提出[[Goal-Controlled Mode|目标掌控模式]]／[[Intuition-Dependent Mode|直觉依赖模式]]的类型学框架，揭示[[Cultural Barrier|文化障碍]]如何在精英大学中制造毕业出路的阶层分化。
 
 ---
 
@@ -125,7 +127,7 @@ updated: '2026-06-08'
 
 ### 2017–2018 补充田野与理论深化
 
-- **核心调整** 补充低阶层样本，深化理论对话
+- **核心调整** 补充低阶层样本，深化理论[[Dialogue in Education|对话]]
 - **思想发展** 受牛新春老师之邀，在"南方大学"补充访谈 24 名主要来自较低阶层背景的学生，使总样本达 62 人。此阶段的理论对话扩展至 Swidler [[Culture as Toolkit|文化工具箱]]和 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]——Bourdieu 的再生产理论解释了结构性约束，Swidler 和 Vaisey 则帮助理解了行动者在约束中的策略和意义建构差异([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 - **相关概念**[[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[Cultural Barrier]]
 
@@ -140,7 +142,7 @@ updated: '2026-06-08'
 
 > [!success]
 > - 在中国高等教育公平研究中，双模式类型学为分析大学生活经验的阶层差异提供了可操作的概念工具
-> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常实践转化为出路分化
+> - [[Goal-Controlled Mode]] 和 [[Intuition-Dependent Mode]] 概念已被用于解释精英大学中[[Cultural Capital|文化资本]]如何通过日常[[Praxis|实践]]转化为出路分化
 > - [[Cultural Barrier]] 概念将 Bourdieu 的文化再生产理论从宏观制度层面延伸到微观的日常生活经验层面，丰富了对教育公平机制的理解
 > - 以[[Constructivist Grounded Theory]]在大规模访谈数据中的系统应用，为高等教育[[Qualitative Research|质性研究]]提供了方法论参照
 

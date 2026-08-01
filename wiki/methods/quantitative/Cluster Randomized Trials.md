@@ -8,7 +8,7 @@ summary: "一种以学校、班级或其他群体而非个体作为随机化单�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -17,7 +17,8 @@ tags:
 - method/quantitative
 - level/k12
 related_concepts:
-  - "[[Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests]]"
+  - "[[Criterion-Referenced Test]]"
+  - "[[Praxis]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
   - "[[Stable Unit Treatment Value Assumption]]"
@@ -42,7 +43,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 集群随机试验（CRT）是一种 [[Randomised Controlled Trials|RCT]] 设计变体，其中[[Random Assignment|随机分配]]的单位不是个体学生，而是学校或班级等集群。因为教育干预通常在班级或学校层面实施，CRT 已成为教育评估中的"标准实践"([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.232]])。
+> 集群随机试验（[[Criterion-Referenced Test|CRT]]）是一种 [[Randomised Controlled Trials|RCT]] 设计变体，其中[[Random Assignment|随机分配]]的单位不是个体学生，而是学校或班级等集群。因为教育干预通常在班级或学校层面实施，CRT 已成为教育评估中的"标准[[Praxis|实践]]"([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.232]])。
 >
 > > "typically interventions are implemented at the school or classroom level, rather than individual pupil level"
 
@@ -50,7 +51,7 @@ updated: '2026-05-18'
 
 > [!abstract] 核心要素
 > - **[[Random Assignment|随机化]]单位** 学校或班级，而非个体学生——因为干预无法在不造成交叉污染的情况下对个体实施
-> - **统计功效** CRT 的功效取决于集群数量而非个体数量，集群内相关性（ICC）显著降低有效[[Sample Size Determination|样本量]]
+> - **统计功效** [[Criterion-Referenced Test|CRT]] 的功效取决于集群数量而非个体数量，集群内相关性（ICC）显著降低有效[[Sample Size Determination|样本量]]
 > - **最小可检测[[Effect Size|效应量]]（MDES）** 衡量研究精度的关键指标，指给定功效下可检测的最小效应量。"近期争论的焦点，因为其主要由经验法则（rules of thumb）决定"([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
 > - **多层设计** 两级 CRT（学生嵌套于学校）和三级 CRT（学生嵌套于班级嵌套于学校）均有相应功效计算公式（Spybrook et al., 2016）
 > - **[[Stable Unit Treatment Value Assumption|SUTVA]] 违反（主体间干扰）** 当随机化单位为教室而政策兴趣单位为个体学生时，同一教室内的学生互动导致结果不独立——"因为任何一个学生的结果取决于他/她与之互动的学生，而这又取决于哪些学生被分配到哪些干预，因果效应不仅由干预定义，而且由哪些学生恰好被分配到哪里定义"([[Argument_Berk_2011_ER|Berk, 2011, p.195]])。每个可能的[[Random Assignment|随机分配]]实现都产生不同的因果效应，"单一的因果效应不再存在"。截至 Berk 写作时对此没有有效的统计补救方法，但若将分析单位从个体学生改为教室（使用聚合统计量），该问题消失（[[Argument_Berk_2011_ER|Berk, 2011]], footnote 2, p.200）
@@ -58,23 +59,23 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Randomised Controlled Trials]] — CRT 是 RCT 的子类，处理教育中不可化约为个体层面的干预实施单位问题
+> - vs [[Randomised Controlled Trials]] — [[Criterion-Referenced Test|CRT]] 是 RCT 的子类，处理教育中不可化约为个体层面的干预实施单位问题
 > - vs [[Intent-to-Treat Analysis]] — CRT 通常报告 ITT 估计（因[[Random Assignment|随机化]]发生在集群层面），而非实际接受处理的效应
 
 ## 实证发现
 
 > [!success] 实证发现
-> - Spybrook, Shi & Kelcey (2016) 比较 NCER 资助的两组 CRT：早期（2002-2004，16 项研究）与近期（2011-2013，22 项研究），发现近期研究的精度（MDES）有所提高，原因包括知识基础增长和专业发展机会增加([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
+> - Spybrook, Shi & Kelcey (2016) 比较 NCER 资助的两组 [[Criterion-Referenced Test|CRT]]：早期（2002-2004，16 项研究）与近期（2011-2013，22 项研究），发现近期研究的精度（MDES）有所提高，原因包括知识基础增长和专业发展机会增加([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 即使 CRT 设计精度提高，[[Randomised Controlled Trials|RCT]] 领域仍弥漫"萎靡感（malaise）"，因其未能识别大规模有效的干预([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
+> - 即使 [[Criterion-Referenced Test|CRT]] 设计精度提高，[[Randomised Controlled Trials|RCT]] 领域仍弥漫"萎靡感（malaise）"，因其未能识别大规模有效的干预([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
 > - 技术改进（如更精确的 CRT 设计）未必能解决"什么有效"议程的根本问题
 > - **[[Stable Unit Treatment Value Assumption|SUTVA]] 违反导致单一因果效应消失** [[Argument_Berk_2011_ER|Berk (2011, p.195)]] 论证，当 CRT 中的个体学生结果取决于互动学生群体时，因果效应不再被单一地定义——"对于研究单位的每一种可能的重新洗牌，都存在一个因果效应，单一的因果效应不再存在"。这一问题"太少被认识到"且"远比通常认为的更严重"——它不仅影响统计检验（对此存在补救方法），而是从[[Ontology|本体论]]层面动摇了 CRT 估计的因果效应定义。唯一的解决方案是将分析单位与[[Random Assignment|随机化]]单位对齐（如使用教室层面的聚合统计量），但这改变了[[Research Question|研究问题]]本身（[[Argument_Berk_2011_ER|Berk, 2011]], footnote 2, p.200）
 
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - NCER 资助的 CRT 研究：美国教育部教育科学研究所对集群随机试验的系统资助
+> - NCER 资助的 [[Criterion-Referenced Test|CRT]] 研究：美国教育部教育科学研究所对集群随机试验的系统资助
 

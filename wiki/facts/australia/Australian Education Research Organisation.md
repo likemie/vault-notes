@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
   - theme/intermediary-organisation
   - theme/accountability
 related_concepts:
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Venture Philanthropy]]"
@@ -70,7 +71,7 @@ updated: 2026-06-16
 ## 关键文件／声明
 
 > [!citation-card]- AERO 董事会强硬问责声明
-> “AERO 董事会强调其偏好全国权威的核心内容大纲。它认为任何非强制性的举措，都无法促使认证组和 ITE 项目开发者对这些教学实践建立一致的全国性理解。”([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> “AERO 董事会强调其偏好全国权威的核心内容大纲。它认为任何非强制性的举措，都无法促使认证组和 ITE 项目开发者对这些教学[[Praxis|实践]]建立一致的全国性理解。”([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > 
 > “The AERO Board highlighted a preference for authoritative national elaborations of core content. It argued that anything less would be insufficient to underpin consistent national understanding of these practices by accreditation panels and ITE program developers.” (Australian Government, 2023, p. 31)
 
@@ -88,7 +89,7 @@ updated: 2026-06-16
 ## 争议与评论
 
 > [!actor-grid] 评论视角图
-> - **自我呈现 / 官方视角** 声称扮演价值中性、基于科学的客观第三方机构，为学校和政策提供客观、无意识形态偏见的“最佳循证实践指南”。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **自我呈现 / 官方视角** 声称扮演价值中性、基于科学的客观第三方机构，为学校和政策提供客观、无意识形态偏见的“最佳循证[[Praxis|实践]]指南”。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **学术批判 / 教师自主视角** 指出其推行的全国大纲涉嫌以脑科学简化论取代大学教师的教育学[[Professional Judgment|专业判断]]，并主导了向大学教师施压的惩罚性问责。
 > - **政策治理 / 制度架构视角** 通过与 [[Australian Institute for Teaching and School Leadership|AITSL]] 和 ACARA 共享 [[Educational Services Australia|ESA]] 底层架构，使 AERO 等少数外部中介实体绕过正常的学术和民主监督，直接塑造公共大学的核心课程。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
 > - **跨国资本 / [[Venture Philanthropy|风险慈善]]视角** BHP 基金会通过定向注资跨国项目催生和塑造 AERO 的运行轨迹，表明跨国资本如何作为隐形底流，推动主权国家教育体系向合规审计治理转型。
@@ -107,7 +108,7 @@ updated: 2026-06-16
 > |---|---|---|
 > | [[What Works Movement]] | AERO 自我定位为此全球循证运动的澳大利亚执行分支。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]) |
 > | [[BHP Foundation]] | 资助 [[Education Endowment Foundation\|EEF]] 全球扩张项目并间接促成 AERO 等“EEF 模式机构”建立的跨国基金会。 | |
-> | [[Centre for Evidence and Implementation]] | 受 AERO 委托起草循证实践桌面审查报告的全球证据中介机构。 | |
+> | [[Centre for Evidence and Implementation]] | 受 AERO 委托起草循证[[Praxis\|实践]]桌面审查报告的全球证据中介机构。 | |
 > | [[Strong Beginnings Report]] | AERO CEO Donovan 作为专家小组成员直接参与起草的联邦改革文本。 | |
 > | [[Australian Institute for Teaching and School Leadership]] | AERO 开发的核心内容需要呈送给 AITSL 并落实到具体的认证规程中。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]]) |
 > | [[Educational Services Australia]] | 为 AERO 运作提供底层行政与技术支撑的注册慈善公司。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |

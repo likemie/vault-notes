@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Interviewer Effects]]"
   - "[[Epistemology]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Fitness for Purpose]]"
+  - "[[Praxis]]"
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
@@ -76,10 +78,12 @@ related_methods:
   - "[[Interview Protocol]]"
   - "[[Non-directive Interview]]"
   - "[[Focused Interview]]"
+  - "[[Cross-checking]]"
   - "[[Projection Technique]]"
   - "[[Case Study]]"
   - "[[Action Research]]"
   - "[[Telephone Interview]]"
+  - "[[Accounts]]"
 status: draft
 created: 2026-07-22
 updated: 2026-07-22
@@ -102,7 +106,7 @@ updated: 2026-07-22
 
 ### 21.1 引言：访谈作为主体间知识生产
 
-访谈标志着[[Paradigm|研究范式]]的一个关键转向，从把人当作可操纵的对象、把数据看作外在于人的东西，转向把知识视为通过对话在人与人之间**生成**的产物。Kvale（1996, p. 14）将访谈理解为 **inter-view**，即两个人或更多人之间就共同感兴趣的话题进行的观点交换，揭示了人际互动在[[Knowledge Production|知识生产]]中的核心地位，以及研究数据的社会情境性（p.409）。
+访谈标志着[[Paradigm|研究范式]]的一个关键转向，从把人当作可操纵的对象、把数据看作外在于人的东西，转向把知识视为通过[[Dialogue in Education|对话]]在人与人之间**生成**的产物。Kvale（1996, p. 14）将访谈理解为 **inter-view**，即两个人或更多人之间就共同感兴趣的话题进行的观点交换，揭示了人际互动在[[Knowledge Production|知识生产]]中的核心地位，以及研究数据的社会情境性（p.409）。
 
 > [!claim] 访谈交互主体性的核心论断
 > 访谈不是纯粹主观的，也不是纯粹客观的，而是**主体间的（intersubjective）（Laing（1967, p. 66））**。访谈使参与者（无论是访谈者还是被访者）能够讨论他们对自己所生活世界的解释，并从自身立场表达对情境的看法。由此看来，访谈不只是收集关于生活的数据，它本身就是生活的一部分，人际嵌入性贯穿始终。
@@ -289,7 +293,7 @@ Kvale（1996, p. 30）的十项[[Qualitative Interview|质性访谈]]特征（pp
 Kvale（1996, p. 88）的访谈调查七个阶段（pp.418–420）：
 
 > [!proc] Kvale 的七阶段访谈调查模型
-> 1. **主题化** 确定研究目的——概述理论基础、广泛目标、实践价值，以及选择访谈方法的理由。将一般目标转化为详细具体目标。**最重要的一步**。
+> 1. **主题化** 确定研究目的——概述理论基础、广泛目标、[[Praxis|实践]]价值，以及选择访谈方法的理由。将一般目标转化为详细具体目标。**最重要的一步**。
 > 2. **设计** 将研究目标转化为提纲中的具体问题——包括三种项目类型、问题格式、回答模式和提示与追问。
 > 3. **访谈实施** 执行访谈——建立融洽关系、告知性质与目的、管理互动动态、处理非语言沟通、保持适合目的的引导程度。
 > 4. **转录** 将口头遭遇转换为书面文本——选择性转换，数据损失风险巨大。不存在单一的正确转录。
@@ -732,7 +736,7 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 > - 确保每个人知道群体中其他人在说什么被认为重要时
 > - 可激发后续**个别访谈**的洞见（Bogdan & Biklen（1992, p. 100））
 > - 实践和组织便利：预先安排群体以最小干扰；更快节省时间；可汇集**不同意见**或代表不同集合体
-> - 多位受访者提供**事件两种版本**，通过交叉检查形成更完整可靠的记录
+> - 多位受访者提供**事件两种版本**，通过[[Cross-checking|交叉检查]]形成更完整可靠的记录
 > - 可检测参与者如何相互支持、影响、补充、同意和不同意
 
 > [!warning] 小组访谈的局限
@@ -1007,29 +1011,29 @@ Parker & Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体�
 > [!citation-card]- Kitwood 论第三种访谈观
 > 解决方案是拥有尽可能明确的理论来考虑各种因素。对持这种观点的人来说，在传统意义上不存在好的访谈和坏的访谈——只有社会遭遇；好与坏只存在于解释这些现象的理论之中。（第21章, p.412）
 >
-> *The solution is to have as explicit a theory as possible to take the various factors into account. For those who hold this view, there are not good interviews and bad in the conventional sense. There are simply social encounters; goodness and badness are predicates applicable, rather, to the theories within which the phenomena are explained. (Kitwood, 1977)*
+> *The solution is to have as explicit a theory as possible to take the various factors into [[Accounts|account]]. For those who hold this view, there are not good interviews and bad in the conventional sense. There are simply social encounters; goodness and badness are predicates applicable, rather, to the theories within which the phenomena are explained. (Kitwood, 1977)*
 
-> [!citation-card]- 适合目的的访谈选择
+> [!citation-card]- [[Fitness for Purpose|适合目的]]的访谈选择
 > 这里的核心问题是"适合目的"；一个人越希望获得可比较的数据——跨人群、跨地点——他的访谈就越趋向标准化和量化；一个人越希望获得独特的、非标准化的、个性化的关于个体如何看世界的信息，他就越趋向质性的、开放式的、非结构化的访谈。（第21章, p.414）
 >
 > *The issue here is of "fitness for purpose"; the more one wishes to gain comparable data – across people, across sites – the more standardized and quantitative one's interview tends to become.*
 
-> [!citation-card]- Kvale 论转录
+> [!citation-card]- Kvale 论[[Transcription in Qualitative Research|转录]]
 > 前缀 trans 表明状态或形式的变化；转录是选择性的转换。因此假装转录中的数据已经是经过解释以外的任何东西是不现实的。转录可以成为研究者和原始现场访谈情境之间不透明的屏幕。（第21章, p.446）
 >
 > *The prefix trans indicates a change of state or form; transcription is selective transformation. The transcript can become an opaque screen between the researcher and the original live interview situation. (Kvale（1996, p. 167）)*
 
-> [!citation-card]- 焦点小组的核心特征
-> 焦点小组是一种群体访谈形式，但不是访谈者和群体之间来回问答意义上的。相反，依赖的是小组内部的互动——小组讨论研究者提供的话题——产出集体而非个体观点。因此参与者互相交流而不是与访谈者交流。（第21章, p.464）
+> [!citation-card]- [[Focus Group|焦点小组]]的核心特征
+> 焦点小组是一种[[Group Interview|群体访谈]]形式，但不是访谈者和群体之间来回问答意义上的。相反，依赖的是小组内部的互动——小组讨论研究者提供的话题——产出集体而非个体观点。因此参与者互相交流而不是与访谈者交流。（第21章, p.464）
 >
 > *Focus groups are a form of group interview, though not in the sense of a backwards and forwards between interviewer and group. Rather, the reliance is on the interaction within the group who discuss a topic supplied by the researcher (Morgan（1988, p. 9）).*
 
-> [!citation-card]- 聚焦访谈的独特价值（Merton & Kendall（1946, p. 541））
+> [!citation-card]- [[Focused Interview|聚焦访谈]]的独特价值（Merton & Kendall（1946, p. 541））
 > 对情境的预先了解明显减少了研究者面对的任务，因为访谈无需用于发现情境的客观性质。预先配备内容分析后，访谈者可以轻易区分案例的客观事实与情境的主观定义。因此他对"选择性回应"的整个领域保持警觉。
 >
 > *Foreknowledge of the situation obviously reduces the task confronting the investigator, since the interview need not be devoted to discovering the objective nature of the situation.*
 
-> [!citation-card]- 访谈不是日常对话
+> [!citation-card]- 访谈不是日常[[Dialogue in Education|对话]]
 > 与日常对话相比，访谈有特定目的，通常基于问题，问题由访谈者提出；只有访谈者可以表达无知，受访者则不能；回应必须尽可能明确和尽可能详细。访谈是一个被建构且通常经过专门计划的事件，而非自然发生的情境。（第21章, pp.409–410）
 >
 > *In contrast to an everyday conversation, it has a specific purpose, it is often question-based, with the questions being asked by the interviewer; the interviewer alone may express ignorance (and not the interviewee).*

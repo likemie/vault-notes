@@ -4,7 +4,7 @@ aliases: ["研究伦理", "研究伦理规范", "research ethics in social scien
 summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研究前 IRB 审批与知情同意、研究中避免欺骗与剥削、研究后诚实报告与数据保护，各专业协会均发布伦理守则作为行业标准"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -12,9 +12,11 @@ tags: [method/research-ethics, theme/research-governance]
 related_concepts:
   - "[[Costs Benefits Ratio in Research Ethics]]"
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Institutional Review Board]]"
   - "[[Gatekeepers]]"
   - "[[Research Question]]"
+  - "[[Dialogue in Education]]"
   - "[[Purpose Statement]]"
   - "[[Research Purpose]]"
   - "[[Conflict of Interest in Research]]"
@@ -89,7 +91,7 @@ updated: 2026-07-11
 >
 > | 层次 | 核心问题 |
 > |---|---|
-> | **外部层（External）** | 实践守则、法律等外部规范 |
+> | **外部层（External）** | [[Praxis\|实践]]守则、法律等外部规范 |
 > | **后果层（Consequential）** | 对个人、群体、社会的后果 |
 > | **道义层（Deontological）** | 人的义务是什么（基本不考虑后果），以及如何做出义务判断 |
 > | **个体层（Individual）** | 尊重个人自由和自主的核心原则 |
@@ -115,7 +117,7 @@ updated: 2026-07-11
 > | | 选择研究场所 | 选择研究者保持客观、无个人利害关系的场所 |
 > | | 协商发表署名 | 基于每位作者的贡献确定发表署名排序 |
 > | | 控制参与者负担 | 使用简短工具、[[Pilot Testing\|预测试]]数据收集的用户接受度、在方便时间收集数据、提供参与者时间补偿 |
-> | **研究启动时（Beginning the study）** | 识别对参与者有益的[[Research Question\|研究问题]] | 通过需求评估或非正式对话了解参与者需求 |
+> | **研究启动时（Beginning the study）** | 识别对参与者有益的[[Research Question\|研究问题]] | 通过需求评估或非正式[[Dialogue in Education\|对话]]了解参与者需求 |
 > | | 披露[[Purpose Statement\|研究目的]] | 联系参与者，告知研究的总体目的 |
 > | | 不强求签署同意书 | 告知参与者有权不签署同意书 |
 > | | 尊重原住民社会的规范与章程 | 联系原住民领袖，使其参与研究各阶段 |
@@ -174,7 +176,7 @@ updated: 2026-07-11
 - **选择对参与者有益的[[Research Question|研究问题]]** 通过需求评估或非正式对话，确保研究问题不仅对研究者有意义，对参与者也有价值（Punch, 2014）
 - **披露研究目的** 向参与者如实说明研究目的；如果参与者被告知的与研究者的真实目的不一致，即构成欺骗
 - **不强求签署同意书** 研究者不得强迫参与者签署，参与是自愿的
-- **尊重原住民规范** 联系原住民首领并让他们参与研究各阶段；避免使用主流文化语言，而采用原住民的语气、手势和表达方式；寻找语言和实践的智慧"知者"；将参与者纳入合作研究者（LaFrance & Crazy Bull, 2009; Chilisa & Tsheko, 2014）
+- **尊重原住民规范** 联系原住民首领并让他们参与研究各阶段；避免使用主流文化语言，而采用原住民的语气、手势和表达方式；寻找语言和[[Praxis|实践]]的智慧"知者"；将参与者纳入合作研究者（LaFrance & Crazy Bull, 2009; Chilisa & Tsheko, 2014）
 - **控制对参与者的负担** 使用简短工具、[[Pilot Testing|预测试]]数据收集的用户可接受性、在参与者方便的时间收集数据、提供参与补偿（Stadnick et al., 2021）
 
 ---
@@ -253,7 +255,7 @@ updated: 2026-07-11
 
 ## 伦理困境与背信
 
-> [!warning] Robson 的十项可疑实践
+> [!warning] Robson 的十项可疑[[Praxis|实践]]
 > Robson (1993, p. 33) 列出了十项在伦理上存疑但并非黑白分明的实践（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 95–98]]）：
 > 1. 在人们不知情或未经同意的情况下将其卷入研究
 > 2. 强迫他们参与
@@ -337,7 +339,7 @@ Lee (1993, p. 139) 还指出，一些参与者可能故意制造让研究者获�
 当有权者控制准入和参与者生活时，隐蔽研究或欺骗可能是获取真实数据的唯一途径（Munro et al., 2004, p. 302; Morrison, 2006）。Mitchell (1993, p. 46) 将隐蔽研究与间谍活动严格区分：研究是意识形态天真的（寻求理解），间谍是意识形态主动的（推进特定价值体系）。但即使隐蔽研究服务于公共利益，被研究者在事后仍可能感到被欺骗、被利用、被剥削（Lee, 1993, p. 157）。
 
 > [!tension] 后果论 vs 义务论
-> - **后果论论证** 隐蔽研究产生了用其他方法不可能产生的优秀社会科学（Bulmer, 1982）。如果隐蔽研究可以揭露性别歧视实践、学校暴力或权力滥用，那么它服务于更大的公共利益。
+> - **后果论论证** 隐蔽研究产生了用其他方法不可能产生的优秀社会科学（Bulmer, 1982）。如果隐蔽研究可以揭露性别歧视[[Praxis|实践]]、学校暴力或权力滥用，那么它服务于更大的公共利益。
 > - **义务论论证** 研究者对参与者负有不可推卸的责任（Erikson, 1967）。秘密研究会以无法预期或事后无法补偿的方式伤害他人。即使结果是善的，也不能正当化有害的手段。
 
 ---

@@ -7,10 +7,10 @@ aliases:
 summary: "解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 14
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - dual-process-model
   - cultural-sociology
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Habitus]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Ontology]]"
@@ -28,7 +29,8 @@ related_concepts:
   - "[[Graduation Pathway Typology]]"
 related_theories:
   - "[[Culture as Toolkit]]"
-related_methods: []
+related_methods:
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[Max Weber]]"
   - "[[Yajun Zheng]]"
@@ -74,7 +76,7 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 
 | 维度 | 过程一 (Type I) | 过程二 (Type II) |
 |------|-----------------|-------------------|
-| **特征** | 快速、多数情况下无意识的自动反应；深层认知层面的实践意识，难以被临时操控 | 有意识的、较慢的处理过程；可对认知对象进行解释、计算和表现 |
+| **特征** | 快速、多数情况下无意识的自动反应；深层认知层面的[[Praxis\|实践]]意识，难以被临时操控 | 有意识的、较慢的处理过程；可对认知对象进行解释、计算和表现 |
 | **文化作用** | 深层内化的文化图式对情感、理性和行动有强烈的驱动力 (motivation) | 浅层内化的文化图式可被灵活选取，为行动提供辩护和正当性 (justification) |
 | **对应范式** | **价值观驱动范式（[[Max Weber\|Weber]]-Parsons）** | **工具箱范式（Swidler, 1986）** |
 
@@ -106,8 +108,8 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 ## 认识论立场
 
 > [!info]
-> - **[[Ontology|本体论]]** 文化图式是认知结构，其内化存在深浅层次——从自动化、无意识的实践意识（深层），到可被灵活调取和操控的显性知识（浅层）。这一立场兼容Bourdieu的[[Habitus|习性]]概念（作为深层内化）和 Swidler 的[[Culture as Toolkit|文化工具箱]]（作为浅层内化）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
-> - **方法论**Vaisey (2009) 论证双过程模型需要结合定量与定性方法——深层文化图式适合通过调查实验和迫选问题测量，浅层文化图式适合通过访谈和话语分析获取。
+> - **[[Ontology|本体论]]** 文化图式是认知结构，其内化存在深浅层次——从自动化、无意识的[[Praxis|实践]]意识（深层），到可被灵活调取和操控的显性知识（浅层）。这一立场兼容Bourdieu的[[Habitus|习性]]概念（作为深层内化）和 Swidler 的[[Culture as Toolkit|文化工具箱]]（作为浅层内化）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
+> - **方法论**Vaisey (2009) 论证双过程模型需要结合定量与定性方法——深层文化图式适合通过调查实验和迫选问题测量，浅层文化图式适合通过访谈和[[Discourse Analysis|话语分析]]获取。
 
 ---
 

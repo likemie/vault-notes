@@ -5,7 +5,7 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[Progressive Education]]"
   - "[[Transfer Translation Transformation]]"
@@ -105,7 +106,7 @@ updated: '2026-06-22'
 > 儿童通过两个阶段形成社会自我：在“嬉戏阶段”，儿童模仿和假扮特定的独立他人角色（如医生、警察），但只能采取单一的他人视角；在“竞赛阶段”，儿童必须学会同时扮演游戏中所有其他参与者的角色（如棒球游戏中的协作），这使他们内化了“概化他人（Generalized Other）”（即从整个社会期待的视角来看待自己）。个体通过不断在游戏和日常中进行“位置交换”（如买/卖、说/听）来学会采取他人视角。（根据维基百科的理论总结）
 
 > [!exegesis] “主我”（I）与“客我”（Me）的辩证
-> 米德将自我视为一个动态的社会过程。“客我（Me）”是内化了的社会态度和“概化他人”的组织体系，代表社会的规范约束；“主我（I）”是个体对“客我”态度的即时反应，代表着冲动、创造性和能动的自我。思考在本质上是“主我”与“客我”之间在内心里进行的社会化对话。（根据维基百科的理论总结）
+> 米德将自我视为一个动态的社会过程。“客我（Me）”是内化了的社会态度和“概化他人”的组织体系，代表社会的规范约束；“主我（I）”是个体对“客我”态度的即时反应，代表着冲动、创造性和能动的自我。思考在本质上是“主我”与“客我”之间在内心里进行的社会化[[Dialogue in Education|对话]]。（根据维基百科的理论总结）
 
 ---
 
@@ -140,7 +141,7 @@ updated: '2026-06-22'
 > [!debates] 学术争议
 >
 > > [!axis] 人与非人动物沟通的符号界限
-> > 米德在阐述其“社会行为主义”时主张，只有人类能够使用“重要符号（Significant Symbols）”进行真正的社会沟通，而非人动物的手势互动仅停留在无意识的“手势对话”层面。这一人类中心主义的界限划分在当代人兽关系研究中引发了争议。
+> > 米德在阐述其“社会行为主义”时主张，只有人类能够使用“重要符号（Significant Symbols）”进行真正的社会沟通，而非人动物的手势互动仅停留在无意识的“手势[[Dialogue in Education|对话]]”层面。这一人类中心主义的界限划分在当代人兽关系研究中引发了争议。
 > >
 > > - **米德（Mead, 1934）** 坚持只有人类手势能唤起自身与他者相同的社会意义反应，将动物沟通排除在象征符号互动之外。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1)]]
 > > - **Wilkie 与 McKinnon（2013）** 批评其划分过于绝对，指出当代人与动物关系研究显示动物与人、动物与动物之间亦存在丰富的共享象征意义与能动性互动。（根据人兽关系研究领域[[Document|文献]]总结）

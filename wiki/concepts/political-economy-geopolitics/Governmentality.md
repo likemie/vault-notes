@@ -9,10 +9,10 @@ aliases:
 summary: "Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - foucault
   - governmentality
@@ -22,6 +22,7 @@ tags:
   - theme/governmentality
   - theme/subjectification
 related_concepts:
+  - "[[Praxis]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Governing at a Distance]]"
@@ -48,6 +49,7 @@ related_theories:
   - "[[Societies of Control]]"
 related_methods:
   - "[[Single-Case Design]]"
+  - "[[Discourse Analysis]]"
   - "[[Non-participant Observation]]"
 related_persons: []
 related_facts: []
@@ -68,7 +70,7 @@ updated: 2026-07-08
 ## 核心主张
 
 > [!tip]-
-> 治理术（governmentality / gouvernementalité）是 Foucault 在其后期讲座中提出的权力分析概念，指一种以人口为对象、以政治经济学为知识形式、以安全配置（apparatus of security）为核心技术的治理理性。Thompson 等人（2022, p.226）在分析竞争性大学中的主体化时，将其核心界定为"行为的引导"（conduct of conduct）——权力不是通过强制和禁止直接作用于主体，而是通过塑造主体的自我理解和自我实践，使个体"自由地"做出符合治理目标的选择。
+> 治理术（governmentality / gouvernementalité）是 Foucault 在其后期讲座中提出的权力分析概念，指一种以人口为对象、以政治经济学为知识形式、以安全配置（apparatus of security）为核心技术的治理理性。Thompson 等人（2022, p.226）在分析竞争性大学中的主体化时，将其核心界定为"行为的引导"（conduct of conduct）——权力不是通过强制和禁止直接作用于主体，而是通过塑造主体的自我理解和自我[[Praxis|实践]]，使个体"自由地"做出符合治理目标的选择。
 
 > [!quote]
 > "治理术关涉的是'行为的引导'（conduct of conduct）——不是通过强制，而是通过塑造主体的自我理解来引导行为。"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
@@ -100,7 +102,7 @@ updated: 2026-07-08
 ---
 
 > [!line-a] 自我技术（Technologies of the Self）
-> 治理术的关键运作手段是"自我技术"——个体通过自我审视、自我评估和自我修正来塑造自身的实践。这些技术让个体能够"在自己身上进行操作，通过自己的手段或在他人的帮助下，对自己的身体和灵魂、思想、行为和存在方式进行一系列操作——以此转化自我，达到某种幸福、纯洁、智慧、完美或不朽的状态"（Foucault, 1988, p.18; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]]）。
+> 治理术的关键运作手段是"自我技术"——个体通过自我审视、自我评估和自我修正来塑造自身的[[Praxis|实践]]。这些技术让个体能够"在自己身上进行操作，通过自己的手段或在他人的帮助下，对自己的身体和灵魂、思想、行为和存在方式进行一系列操作——以此转化自我，达到某种幸福、纯洁、智慧、完美或不朽的状态"（Foucault, 1988, p.18; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]]）。
 >
 > 在高等教育中，[[Online Self-Assessment|OSA]] 正是一种典型的自我技术：它不是通过直接筛选来排斥学生，而是通过引导学生进行自我评估和自行调整选择来实现治理目标（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.222–223]]）。
 
@@ -135,14 +137,14 @@ updated: 2026-07-08
 
 > [!info]
 > - **[[Ontology|本体论]]与[[Epistemology|认识论]]立场** 治理术属于[[Post-structuralism|后结构主义]]认识论传统——拒绝权力/自由的二元对立，将治理视为一种"在自由中的治理"；拒绝将主体视为权力的被动承受者，而是关注权力如何积极地"生产"主体
-> - **常用分析方法** 话语分析、政策文本分析、[[Non-participant Observation|非参与式观察]]
+> - **常用分析方法** [[Discourse Analysis|话语分析]]、政策文本分析、[[Non-participant Observation|非参与式观察]]
 
 ---
 
 ## 争议与批评
 
 > [!warning]
-> - **过度强调自我技术** 批评者指出治理术分析可能过于聚焦个体自我实践，忽视了强制性权力和物质不平等在治理中的持续作用([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
+> - **过度强调自我技术** 批评者指出治理术分析可能过于聚焦个体自我[[Praxis|实践]]，忽视了强制性权力和物质不平等在治理中的持续作用([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 > - **历史特殊性** 治理术概念源于西欧自由主义传统，应用于非自由主义语境时需要警惕理论移植的局限性
 > - **结构分析的不足** 将学业失败建构为个人"需弥补的不足"，可能系统性地忽视社会经济结构对教育结果的约束——这正是 Thompson 等人（2022, p.227）对 [[Online Self-Assessment|OSA]] 治理术分析指出的核心批判
 

@@ -8,7 +8,7 @@ aliases:
 summary: "跨文化学习研究中的分析概念，指特定文化偏好的最优发展终点，可通过学习目的、过程、品格和情感维度加以描述"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 - method/narrative
 related_concepts:
   - "[[Enculturation]]"
+  - "[[Growth]]"
   - "[[Conatus]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
@@ -87,7 +88,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 > Li 请 124 名中美大学生（各 62 名）描述各自文化中的理想学习者，围绕四个维度展开([[Argument_Li_2012_Cambridge|Li, 2012, pp.95-96]])：
 >
 > 1. **对学习的基本看法** 知识的本质、学习的目的与过程、智力与卓越的观点
-> 2. **学习与道德发展的关系** 理想学习者如何理解学习与个人道德成长之间的联系
+> 2. **学习与道德发展的关系** 理想学习者如何理解学习与个人道德[[Growth|成长]]之间的联系
 > 3. **日常情境中的学习行为** 在六种任何学习者都可能遇到的情境中的反应——
 >    - 高成就（high achievement）
 >    - 高智力（high intelligence）

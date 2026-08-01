@@ -9,7 +9,7 @@ title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,9 +29,11 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Praxis]]"
   - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Homework]]"
+  - "[[Growth]]"
   - "[[Learning Gap]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
@@ -75,7 +77,7 @@ citation_aliases:
 > [!info]
 > - 方法：理论评论 + 政策论证 + [[Document|文献]]综合。
 > - 资料来源：Hattie 的 [[Visible Learning]] 系列、关于教师[[Professional Judgment|专业判断]]与学习共同体的研究，以及对证据争论和学校改进路径的[[Primary and Secondary Documents|二手文献]]讨论(pp.61–69)。
-> - 类型：不是实证研究，也不是方法报告，而是一篇面向学校改进实践的立场性综述，重点是把多个争论串起来，说明为什么“聚焦学习并使用研究证据”会被推到教育系统改革的主线上。
+> - 类型：不是实证研究，也不是方法报告，而是一篇面向学校改进[[Praxis|实践]]的立场性综述，重点是把多个争论串起来，说明为什么“聚焦学习并使用研究证据”会被推到教育系统改革的主线上。
 
 ## 论证结构
 
@@ -100,7 +102,7 @@ citation_aliases:
 >
 > 4. 教学被界定为一种有明确意图的影响活动。既然目标是让学生学会东西，就不能满足于“老师已经很努力”或“课堂气氛不错”，而必须追问“学生到底有没有学到、哪种做法更能促成学习”(p.63)。
 > 5. [[Visible Learning]] 在这里承担的作用，不是提供一个机械照抄的工具箱，而是逼迫教育系统放弃“什么方法都差不多”的安慰性想法(pp.61–64)。
-> 6. evidens 被界定成一种概率判断：它不保证任何做法在所有场景都成功，但可以告诉实践者哪类做法更可能带来较好的结果。
+> 6. evidens 被界定成一种概率判断：它不保证任何做法在所有场景都成功，但可以告诉[[Praxis|实践]]者哪类做法更可能带来较好的结果。
 >
 > > 这里最关键的转折是：证据不是“保证书”，而是“提高胜算的依据”。就像医生不会保证每个病人吃同一种药都完全康复，但仍会优先使用更有证据支持的治疗方案。教学也是类似逻辑。
 >
@@ -145,7 +147,7 @@ citation_aliases:
 > 到这里，论证只剩最后一个需要收束的问题：如果有人说“教育首先是价值问题，不是证据问题”，该怎么办？
 >
 > 16. 这里的回答不是否认价值，而是指出：大多数教育系统在宏观目标上本来就没有那么大分歧，真正稀缺的不是价值口号，而是“怎样把这些价值落实成有效行动”的知识(pp.67–68)。
-> 17. 换句话说，“希望学生成长”“希望学校更公平”“希望更多人学会”这些价值判断，本身并不能自动告诉教师该怎样教、怎样组织课堂、怎样支持学习。
+> 17. 换句话说，“希望学生[[Growth|成长]]”“希望学校更公平”“希望更多人学会”这些价值判断，本身并不能自动告诉教师该怎样教、怎样组织课堂、怎样支持学习。
 >
 > > 这就像大家都同意“要让病人康复”是一件好事，但这并不能代替对药物、治疗和护理方式的专业知识。教育里的“好价值”与“好做法”也不是同一回事。
 >

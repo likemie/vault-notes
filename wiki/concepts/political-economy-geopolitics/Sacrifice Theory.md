@@ -6,7 +6,7 @@ aliases:
 summary: "哈尔伯塔尔提出的政治哲学理论，认为政治共同体通过成员的自我牺牲和殉道获得道德价值，牺牲与感恩构成闭合循环"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Retrotopia]]"
   - "[[Paradigm]]"
+  - "[[Praxis]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
 related_methods: []
@@ -90,7 +91,7 @@ updated: '2026-06-25'
 > | 概念/理论 | 分析视角 | 在[[Zhonghua Minzu\|中华民族]]建构中的配合 |
 > |---|---|---|
 > | **[[Necropolitics\|死亡政治]]** | 主权决定谁生谁死的控制力，侧重外部暴力的单向施加。 | 牺牲理论是其道德化机制：将文化消亡包装为少数民族的自愿道德选择，化解主权暴力的正当性危机。 |
-> | **[[Retrotopia\|怀旧乌托邦]]** | 理想社会定位于前现代大一统的时间结构。 | 牺牲理论是其实践手段：通过要求少数民族不断做出自我牺牲（如放弃语言与自治）来铺就通往复兴之路。 |
+> | **[[Retrotopia\|怀旧乌托邦]]** | 理想社会定位于前现代大一统的时间结构。 | 牺牲理论是其[[Praxis\|实践]]手段：通过要求少数民族不断做出自我牺牲（如放弃语言与自治）来铺就通往复兴之路。 |
 
 ---
 

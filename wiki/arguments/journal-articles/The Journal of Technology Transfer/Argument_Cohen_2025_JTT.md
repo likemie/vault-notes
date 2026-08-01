@@ -11,7 +11,7 @@ title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Research Utilization]]"
+  - "[[Praxis]]"
   - "[[Responsible Innovation]]"
   - "[[UIC Impact Measurement]]"
   - "[[Clinical Trial]]"
@@ -161,7 +162,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 > | **智力** | I.1 | 增强的职业流动性 | 学术界与产业间的人员流动机会 |
 > | （Intellectual） | I.2 | 增强的交互学习 | 通过课程、实习等机制获得的技能提升 |
 > | 6 种 | I.3 | 科研产出的增加或减少 | 唯一被明确讨论的双向影响 |
-> | | I.4 | 增强的实践技能与经验 | 在产业活动中积累的动手能力 |
+> | | I.4 | 增强的[[Praxis\|实践]]技能与经验 | 在产业活动中积累的动手能力 |
 > | | I.5 | 新想法的产生 | 具有未来解决方案潜力的新知识 |
 > | | I.6 | 知识/信息分享的促进 | 大学、产业与社会之间的知识流动 |
 > | **经济** | I.7 | 新商业机会 | 衍生企业、初创企业的创建 |

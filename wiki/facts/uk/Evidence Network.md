@@ -8,7 +8,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -17,6 +17,7 @@ tags:
   - theme/evidence-based-education
   - theme/knowledge-mobilisation
 related_concepts:
+  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mobilisation]]"
 related_facts:
@@ -39,7 +40,7 @@ updated: 2026-07-14
 > [!event-context] 机构创建与定位
 > - **时间** 1990 年代后期至 2000 年代
 > - **隶属** 伦敦国王学院（King's College London）
-> - **定位** 证据网络的建立与推广，促进研究证据在政策与实践中的使用
+> - **定位** 证据网络的建立与推广，促进研究证据在政策与[[Praxis|实践]]中的使用
 
 证据网络（Evidence Network）是伦敦国王学院在循证政策运动中的一项制度安排，与 [[EPPI-Centre]]、CEM 中心和[[UK Centre for Evidence-based Policy|英国循证政策中心]]并列出现于[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]列举的[[Evidence-Based Education|循证教育]]制度基础设施中（pp.330–335）。
 
@@ -47,7 +48,7 @@ updated: 2026-07-14
 
 ## 职能
 
-证据网络致力于建立研究者、政策制定者和实践者之间的联系节点，促进研究证据在教育和社会政策领域的传播与应用。其工作属于[[Knowledge Mobilisation|知识动员]]（knowledge mobilisation）的范畴——将研究成果从学术界"搬运"到决策界面。
+证据网络致力于建立研究者、政策制定者和[[Praxis|实践]]者之间的联系节点，促进研究证据在教育和社会政策领域的传播与应用。其工作属于[[Knowledge Mobilisation|知识动员]]（knowledge mobilisation）的范畴——将研究成果从学术界"搬运"到决策界面。
 
 ---
 
@@ -61,7 +62,7 @@ updated: 2026-07-14
 
 ## 影响与评价
 
-证据网络代表了英国循证教育运动早期的典型制度形态：以大学为依托建立的证据传播节点。与 [[EPPI-Centre]] 偏重方法论开发和 CEM 中心偏重评估工具不同，证据网络的定位是在研究界与政策界之间建立连接渠道。其最终被国王学院政策研究所替代的轨迹，反映了英国大学证据传播职能从专门网络向综合政策研究所转型的趋势。
+证据网络代表了英国[[Evidence-Based Education|循证教育]]运动早期的典型制度形态：以大学为依托建立的证据传播节点。与 [[EPPI-Centre]] 偏重方法论开发和 CEM 中心偏重评估工具不同，证据网络的定位是在研究界与政策界之间建立连接渠道。其最终被国王学院政策研究所替代的轨迹，反映了英国大学证据传播职能从专门网络向综合政策研究所转型的趋势。
 
 ## 相关条目
 

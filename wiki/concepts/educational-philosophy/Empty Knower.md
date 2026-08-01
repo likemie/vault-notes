@@ -8,7 +8,7 @@ aliases:
 summary: "黑格尔主义教育哲学中的一个学生隐喻，指在尚未填充具体课程内容时虽缺乏实质知识储备，但被设想为天然具备理性精神潜能，能够通过辩证否定走向绝对精神的认知主体。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Rationalism in International Relations]]"
   - "[[Big Ideas]]"
+  - "[[Praxis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Reflexivity]]"
   - "[[Rote Learning]]"
@@ -30,7 +31,8 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Alec Peterson]]"
 related_facts:
   - "[[International Baccalaureate]]"
 related_arguments:
@@ -75,7 +77,7 @@ updated: 2026-07-13
 
 ### 命题一　空无的认知者预设在课程实践中容易导致理性异化与机械应试
 
-> [!concept-lens] 课程实践中的理性异化
+> [!concept-lens] 课程[[Praxis|实践]]中的理性异化
 > 探讨空无的认知者这一[[Rationalism in International Relations|理性主义]]预设在具体教学环境中如何与应试评估体制发生冲突，以及如何导致学生表面化、策略性地应对知识问题。
 
 > [!claim] Cole, D. R.
@@ -96,7 +98,7 @@ updated: 2026-07-13
 
 > [!dev-timeline] 概念演变
 > - **1807 — 精神[[Phenomenology|现象学]]基础** 黑格尔在《精神现象学》中阐述教育是通过经验发现自我、从实质生活艰苦浮现的过程，为空无的认知者奠定精神哲学基础。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 212)]]
-> - **1987 — [[International Baccalaureate|国际文凭]]学术项目的发展** 亚历克·彼得森（Alec Peterson）在项目中探讨学生的内部和精神发展，尊重学生的内在生活，在政策层面上为[[Theory of Knowledge|知识论]]认知者中心定位提供支撑。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 212–213)]]
+> - **1987 — [[International Baccalaureate|国际文凭]]学术项目的发展** 亚历克·彼得森（[[Alec Peterson]]）在项目中探讨学生的内部和精神发展，尊重学生的内在生活，在政策层面上为[[Theory of Knowledge|知识论]]认知者中心定位提供支撑。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 212–213)]]
 > - **2005 — 课程批判应用** 科尔指出知识论课程将学生设定为空无的认知者，指明这一理性中心化模型所带来的应试和异化困境，进而倡导向情感与欲望内在性转轨。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 212)]]
 
 ---

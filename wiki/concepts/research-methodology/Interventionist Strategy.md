@@ -6,7 +6,7 @@ aliases:
 summary: "研究原因之效果的核心策略，通过施加干预并观察效果来建立因果推断，与回溯效果之原因的事后策略形成对照"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Praxis]]"
   - "[[Causal Processes]]"
   - "[[Hawthorne Effect]]"
   - "[[Pre-test and Post-test]]"
@@ -57,7 +58,7 @@ updated: 2026-06-18
 > [!feature] 干预主义策略的三种操纵形式
 > | 形式 | 说明 | 局限 |
 > |------|------|------|
-> | [[Action Research\|行动研究]]（action research） | 在实践中引入变革并观察效果 | 缺乏控制和外部检查，[[Causality\|因果]]归因可能错位 |
+> | [[Action Research\|行动研究]]（action research） | 在[[Praxis\|实践]]中引入变革并观察效果 | 缺乏控制和外部检查，[[Causality\|因果]]归因可能错位 |
 > | 各种实验方法 | 隔离、控制和操纵[[Variable\|变量]]以观察效果差异 | 假定变量和人可以被隔离和控制——这本身可能正确也可能错误 |
 > | [[Qualitative Research\|质性研究]]中的参与观察 | 在自然情境中探索[[Causal Processes\|因果过程]] | 不具备变量控制的实验精度 |
 

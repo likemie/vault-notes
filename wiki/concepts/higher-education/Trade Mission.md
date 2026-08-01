@@ -8,7 +8,7 @@ aliases:
 summary: "大学参与政府组织的国际商务出访活动，借此直接接触海外企业决策者、展示研究能力并催化国际产学合作的连接机制"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Dialogue in Education]]"
   - "[[Industry Advisory Board]]"
 related_theories: []
 related_methods: []
@@ -61,7 +62,7 @@ updated: 2026-05-27
 ## 概念辨析
 
 > [!example]
-> **vs 学术会议** 学术会议以学术交流为目的，参与者主要是研究者；贸易代表团以商务对接为目的，参与者主要是企业决策者和政府官员。大学在学术会议上展示论文，在贸易代表团中展示研究能力和合作潜力。两者的受众和对话逻辑不同。
+> **vs 学术会议** 学术会议以学术交流为目的，参与者主要是研究者；贸易代表团以商务对接为目的，参与者主要是企业决策者和政府官员。大学在学术会议上展示论文，在贸易代表团中展示研究能力和合作潜力。两者的受众和[[Dialogue in Education|对话]]逻辑不同。
 >
 > **vs [[University-Industry Collaboration|产学合作]]的其他连接渠道** 校友网络、[[Industry Advisory Board|行业咨询委员会]]和产学专业活动（[[University Industry Demonstration Partnership|UIDP]]、[[Network of Academic Corporate Relations Officers|NACRO]]）主要在国内运作；贸易代表团的独特价值在于跨境连接——它同时打开外国市场、外国大学和本国政府资源三个通道。
 

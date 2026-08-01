@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长的单向因果链的创新过程概念模型，战后成为全球科学政策资源配置的主导理论依据，因其低估其他创新来源而受到 innovation studies 的系统性质疑"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Learning Economy]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Praxis]]"
+  - "[[Experiential Learning]]"
   - "[[Knowledge Exchange]]"
 related_theories: []
 related_methods: []
@@ -77,7 +79,7 @@ updated: 2026-06-10
 ## 核心要素
 
 > [!abstract] 线性模型的[[Hypothesis|假设]]基石
-> 线性模型在理论和政策实践中主要依赖以下三个相互关联的核心假设：[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862–863]]
+> 线性模型在理论和政策[[Praxis|实践]]中主要依赖以下三个相互关联的核心假设：[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, pp. 862–863]]
 >
 > 1. **单向[[Causality|因果性]]** 假定创新遵循“基础科学 → [[Evaluation Research|应用研究]] → 技术开发 → 市场推广 → 经济增长”的顺序。这是一种自上而下、单向推进的机制，忽略了市场、工程、生产实践向科学研究的反馈路径。
 > 2. **科学的支配性** 将[[Blue Skies Research|基础研究]]置于层级结构的顶端，预设研发中“研究”天然高于且支配“开发”。
@@ -96,7 +98,7 @@ updated: 2026-06-10
 
 > [!success] 核心发现与反思
 > - **研发投入与创新产出的非线性关联** 欧盟在落实巴塞罗那目标时发现，增加科学投入并未能显著提振欧洲的创新效率，这一落差被学者标记为“欧洲悖论”（European Paradox），实证挑战了线性模型关于“投入即产出”的因果想象。[[Argument_Caraca_2009_TFSC|João Caraça et al., 2009, p. 862]]
-> - **经验型学习对创新的主导贡献** 莫滕·贝格·延森（Morten Berg Jensen）等人（2007）的研究指出，企业和部门的竞争力主要依赖两种创新模式：基于研发的科学与技术模式（Science, Technology and Innovation, STI）以及基于做、用、互动的经验型模式（Doing, Using and Interacting, DUI）。后者往往不依赖前沿科学投入，实证挑战了线性模型对经验学习的忽视。
+> - **经验型学习对创新的主导贡献** 莫滕·贝格·延森（Morten Berg Jensen）等人（2007）的研究指出，企业和部门的竞争力主要依赖两种创新模式：基于研发的科学与技术模式（Science, Technology and Innovation, STI）以及基于做、用、互动的经验型模式（Doing, Using and Interacting, DUI）。后者往往不依赖前沿科学投入，实证挑战了线性模型对[[Experiential Learning|经验学习]]的忽视。
 
 ---
 

@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - theme/systematic-review
   - theme/knowledge-mobilisation
 related_concepts:
+  - "[[Praxis]]"
   - "[[Research Utilization]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Transfer Translation Transformation]]"
@@ -51,7 +52,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> EPPI-Centre 的核心任务有两类：发展[[Systematic Review|系统综述]]研究证据的方法，开展不同领域研究的系统综述。除此之外，它还研究证据如何进入政策、实践和日常生活中的决策，并为[[Research Utilization|研究使用]]提供指导([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> EPPI-Centre 的核心任务有两类：发展[[Systematic Review|系统综述]]研究证据的方法，开展不同领域研究的系统综述。除此之外，它还研究证据如何进入政策、[[Praxis|实践]]和日常生活中的决策，并为[[Research Utilization|研究使用]]提供指导([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 时间线
 
@@ -62,7 +63,7 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> EPPI-Centre 同时承担证据生产和 [[Knowledge Mobilisation|知识动员]] 功能：一方面做教育和社会科学[[Systematic Review|系统综述]]，另一方面提供关于如何使用研究证据的指导，并支持证据进入实践([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> EPPI-Centre 同时承担证据生产和 [[Knowledge Mobilisation|知识动员]] 功能：一方面做教育和社会科学[[Systematic Review|系统综述]]，另一方面提供关于如何使用研究证据的指导，并支持证据进入[[Praxis|实践]]([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 效果与评价
 
@@ -78,6 +79,6 @@ updated: 2026-05-23
 
 > [!tip]-
 > - [[Educational Evidence Clearinghouses]] — EPPI-Centre 是英国证据中介和[[Systematic Review|系统综述]]机构。
-> - [[Evidence-Informed Practice]] — EPPI-Centre 支持证据进入政策和实践决策。
+> - [[Evidence-Informed Practice]] — EPPI-Centre 支持证据进入政策和[[Praxis|实践]]决策。
 > - [[Argument_Pellegrini_2021_ROE]] — 说明 EPPI-Centre 在欧洲证据基础设施中的位置。
 

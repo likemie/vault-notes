@@ -9,9 +9,9 @@ subtype: event
 region: denmark
 fact_region: "denmark"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
 - visible-learning
@@ -20,6 +20,7 @@ tags:
 - critique
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -45,7 +46,7 @@ updated: 2026-07-11
 
 > [!note]- 经过
 > - 2017 由 Bjerre 等人编辑，Hans Reitzels Forlag（哥本哈根）出版([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.7]])
-> - 包含多篇批评文章，[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.4)]]指出其中若干文章将自己置于"科学游戏之外"——即不符合透明、批判性学术对话的标准
+> - 包含多篇批评文章，[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019, p.4)]]指出其中若干文章将自己置于"科学游戏之外"——即不符合透明、批判性学术[[Dialogue in Education|对话]]的标准
 
 ## 关键文章与批评
 

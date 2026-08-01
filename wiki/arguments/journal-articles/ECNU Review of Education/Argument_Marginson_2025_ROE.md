@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ROE"
 argument_key: "Argument_Marginson_2025_ROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Power-Geometries]]"
   - "[[Space Production]]"
   - "[[Analytic Framework]]"
+  - "[[Praxis]]"
   - "[[Methodological Globalism]]"
   - "[[Hegemony]]"
   - "[[Semi-Autonomy of Higher Education]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Scale in Higher Education]]"
   - "[[Document]]"
   - "[[Champ]]"
+  - "[[Avatar]]"
   - "[[Methodological Nationalism]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Definition of Terms]]"
@@ -106,7 +108,7 @@ citation_aliases:
 |------|------|-------------|
 | (a) 物质结构 | 经济资源、法律、制度、语言等预先给定的元素 | 大学的经费来源、国家认证制度、英文学术发表体系 |
 | (b) 想象与解释 | 行动者对空间的构想和诠释 | 新加坡 2002 年将自身想象为"[[Singapore Education Hub Policy\|全球校园]]"；中国大学规划者与伦敦杂志在 2002/03 年构想以排名排序的全球大学市场 |
-| (c) 社会实践 | 行动者将想象付诸物质形式的行动 | 签署合作协议、设立海外分校、推出 [[Academic Ranking of World Universities\|ARWU]] 排名、数百万学生的跨境流动 |
+| (c) 社会[[Praxis\|实践]] | 行动者将想象付诸物质形式的行动 | 签署合作协议、设立海外分校、推出 [[Academic Ranking of World Universities\|ARWU]] 排名、数百万学生的跨境流动 |
 
 三个维度形成一个循环：社会实践（c）创造的新制度（如全球排名）成为新的物质结构（a），反过来又塑造下一轮的想象（b）和行动（c）。
 
@@ -153,7 +155,7 @@ citation_aliases:
 
 **1b. 引入 Massey 的轨迹交汇模型** — Massey 将每个人的生命描述为一条穿越时间的轨迹（trajectory）。这些轨迹在空间中交汇——有些是有意的（如选择去哪所大学留学），有些是偶然的（如恰好与某位改变你研究方向的学者同在一个实验室）。"如果时间作为变化展开，那么空间作为互动展开"(Massey, 2005, p. 61)。这意味着：空间 = 多重轨迹的交汇 = 不可预测的互动[[Champ|场域]](p. 3)。
 
-**1c. 提出三层空间制造模型** — 基于 Lefebvre(1991)，Marginson 将空间制造分解为物质结构（domain 1）、想象（domain 2）和社会实践（domain 3）三个维度。关键在于：这三个维度不是单向决定的，而是循环互构的——社会实践创造的新制度会沉淀为新的物质结构，反过来约束和激发下一轮的想象和行动(pp. 3–5)。
+**1c. 提出三层空间制造模型** — 基于 Lefebvre(1991)，Marginson 将空间制造分解为物质结构（domain 1）、想象（domain 2）和社会[[Praxis|实践]]（domain 3）三个维度。关键在于：这三个维度不是单向决定的，而是循环互构的——社会实践创造的新制度会沉淀为新的物质结构，反过来约束和激发下一轮的想象和行动(pp. 3–5)。
 
 > 例：2003 年 [[Academic Ranking of World Universities|ARWU]] 排名的诞生完美展示这三个维度。物质结构（domain 1）：上海交大已有研究产出数据库和计算资源。想象（domain 2）："一个以校准排名排序的全球大学市场"这一想象——中国想知道自己的大学离"世界一流"有多远。社会实践（domain 3）：收集数据、加权指标、发布年度排名。而排名发布后，它本身成为 domain 1 中的新结构——各国政府用它设定政策目标（如"到 2030 年有 X 所大学进入前 100"），大学根据排名指标调整资源分配，这又激发了新的想象和实践。排名制造了一个新世界，而这个世界反过来重塑了所有人的行为。
 

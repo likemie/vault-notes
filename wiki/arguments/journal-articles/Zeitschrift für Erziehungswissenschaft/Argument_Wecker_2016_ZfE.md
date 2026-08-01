@@ -11,7 +11,7 @@ title: "Argument_Wecker_2016_ZfE"
 argument_key: "Argument_Wecker_2016_ZfE"
 argument_display_title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -227,7 +228,7 @@ citation_aliases:
 > - **基于示例的重构而非全面再分析** 论文承认所给出的例子"不代表一种系统的方法"(p.23)，是对 Hattie 全部 800+ [[Meta-analysis|元分析]]的示例性检查而非穷尽再分析。这既是方法选择（因信息缺失全面重做不可能），也是方法论局限——发现的缺陷是系统性模式证据但并非每个个别[[Effect Size|效应量]]都经过了检验
 > - **全面修正在现有条件下不可能** "要能够评估这些缺陷对分析结果的影响，必须正确进行全面分析，正如已经解释的那样，通常缺少必要的信息"(p.30)——这是 Wecker et al.提出中央证据数据库方案的核心动机
 > - **发表于 2016 年** Hattie 的工作此后已有多次更新（如 *[[Visible Learning]]: The Sequel*, 2023），但 Wecker et al.批判的根本方法论问题（固定 vs [[Fixed-Effect and Random-Effects Models|随机效应模型]]、调节[[Variable|变量]]、数据标准化）是结构性的，不因[[Sample Size Determination|样本量]]增加而自动解决
-> - **建设性平衡立场** 论文同时承认 Hattie 的愿景价值——批评目的不是否定而是改进方法实践——这在教育研究的元分析批评中是相对罕见的立场
+> - **建设性平衡立场** 论文同时承认 Hattie 的愿景价值——批评目的不是否定而是改进方法[[Praxis|实践]]——这在教育研究的元分析批评中是相对罕见的立场
 
 ## 来源
 

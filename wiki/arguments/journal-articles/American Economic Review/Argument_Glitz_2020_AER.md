@@ -30,6 +30,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Absorptive Capacity]]"
   - "[[Counterfactual]]"
+  - "[[Growth]]"
   - "[[Return on Investment]]"
   - "[[Reliability]]"
 related_theories: []
@@ -52,7 +53,7 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -289,7 +290,7 @@ issuing_organization: ""
 > [!citation-card]- 工业间谍的经济回报
 > 我们对工业间谍经济回报的估计表明，国际知识流动对落后国家的生产率增长具有重要作用。（p.1056）
 >
-> *Our results provide evidence of significant economic returns to [[Economic and Industrial Espionage|industrial espionage]], indicating an important role of international knowledge flows for productivity growth in laggard countries.*
+> *Our results provide evidence of significant economic returns to [[Economic and Industrial Espionage|industrial espionage]], indicating an important role of international knowledge flows for productivity [[Growth]] in laggard countries.*
 
 > [!citation-card]- 工业间谍与技术[[Absorptive Capacity|吸收能力]]
 > 东德研究人员和工程师在技术更接近西德同行的行业中很可能更能将新获得的知识整合到自己的生产过程中，表明足够高的吸收能力是成功利用间谍科技情报的前提条件。（p.1096）

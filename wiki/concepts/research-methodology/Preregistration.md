@@ -5,7 +5,7 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Publication Bias]]"
   - "[[Researcher Degrees of Freedom]]"
+  - "[[Praxis]]"
   - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Counterfactual]]"
@@ -44,7 +45,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info] 定义
-> 预注册（Preregistration）指在研究开始前公开登记研究设计、结果测量和分析计划的做法。在教育项目评估中，预注册被视为缓解选择性报告、[[Publication Bias|发表偏倚]]和[[Researcher Degrees of Freedom|研究者自由度]]等"可疑研究实践"（questionable research practices）的关键机制。
+> 预注册（Preregistration）指在研究开始前公开登记研究设计、结果测量和分析计划的做法。在教育项目评估中，预注册被视为缓解选择性报告、[[Publication Bias|发表偏倚]]和[[Researcher Degrees of Freedom|研究者自由度]]等"可疑研究[[Praxis|实践]]"（questionable research practices）的关键机制。
 >
 > > "A potential solution to mitigate any bias resulting from selective reporting of the best outcomes, publication bias, and researcher degrees of freedom would be to require program evaluations (including specific outcome measures and analyses) to be preregistered in order for them to be included in the [[What Works Clearinghouse|WWC]] or other program review facilities." ([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 443]])
 
@@ -100,7 +101,7 @@ updated: 2026-07-08
 
 > [!warning] 争议与批评
 > - **不能消除所有偏倚**Gelman & Loken (2014) 论证即使预注册后，研究者仍可通过"观察数据"进行大量未记录的分析选择——预注册提供了约束但不构成保证([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 444]])
-> - **实施灵活性的需求** 学校环境的干预评估常需要根据实际情况调整——过于僵化的预注册要求可能与实践脱节
+> - **实施灵活性的需求** 学校环境的干预评估常需要根据实际情况调整——过于僵化的预注册要求可能与[[Praxis|实践]]脱节
 
 ## 相关案例／政策
 

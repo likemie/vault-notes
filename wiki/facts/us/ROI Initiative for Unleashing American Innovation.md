@@ -7,9 +7,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "National Institute of Standards and Technology (NIST), U.S. Department of Commerce"
 tags:
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Return on Investment]]"
   - "[[Technology Transfer]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -47,7 +48,7 @@ updated: 2026-06-10
 
 > [!abstract]
 > 该倡议围绕以下五大核心改进领域组织工作：
-> - **识别监管障碍和行政改进（Identify regulatory impediments and administrative improvements）** 在联邦[[Technology Transfer|技术转移]]政策和实践中发现并消除阻碍
+> - **识别监管障碍和行政改进（Identify regulatory impediments and administrative improvements）** 在联邦[[Technology Transfer|技术转移]]政策和[[Praxis|实践]]中发现并消除阻碍
 > - **增加与私营部门专家的互动（Increase engagement with private sector technology development experts and investors）**
 > - **建立更具创业精神的研发劳动力（Build a more entrepreneurial R&D workforce）**
 > - **支持技术转移的创新工具和服务（Support innovative tools and services for technology transfer）**

@@ -9,7 +9,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -19,6 +19,7 @@ tags:
 - teacher-training-agency
 - region/uk
 related_concepts:
+  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
@@ -35,13 +36,13 @@ updated: '2026-06-02'
 ## 背景
 
 > [!info] 背景
-> 1990 年代中期，英国教育研究与实践之间的关系日益受到关注。[[Ofsted]]（教育标准办公室）已开始委托一系列为教师撰写的研究综述（如 Arnot et al., 1998; Askew & Wiliam, 1995; Gillborn & Gipps, 1996; Reynolds & Farrell, 1996），但教育研究与专业实践之间的系统性脱节仍然显著。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.3–4]])
+> 1990 年代中期，英国教育研究与[[Praxis|实践]]之间的关系日益受到关注。[[Ofsted]]（教育标准办公室）已开始委托一系列为教师撰写的研究综述（如 Arnot et al., 1998; Askew & Wiliam, 1995; Gillborn & Gipps, 1996; Reynolds & Farrell, 1996），但教育研究与专业实践之间的系统性脱节仍然显著。([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.3–4]])
 
 ## 经过
 
 > [!note]- 经过
 > - **1996 年 4 月** — David Hargreaves 在 Teacher Training Agency (TTA) 年度讲座上发表题为 Teaching as a research-based profession: Possibilities and prospects 的演讲。
-> - Hargreaves 将教育与医学进行了不利比较——在医学领域，研究更有效地为专业实践提供信息。
+> - Hargreaves 将教育与医学进行了不利比较——在医学领域，研究更有效地为专业[[Praxis|实践]]提供信息。
 > - 尽管他明确拒绝教育应简单复制医学的建议，但论证教育应像医学一样寻求研究与专业实践之间更有生产力的关系。
 > - 该演讲为英国[[Evidence-Based Education|证据本位教育]]运动提供了关键的**政策动力([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.3–4]])**。
 

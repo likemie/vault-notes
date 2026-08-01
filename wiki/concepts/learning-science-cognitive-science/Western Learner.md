@@ -7,7 +7,7 @@ aliases:
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 21
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,10 +18,12 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Mind-Oriented Learning Process]]"
+  - "[[Active Learning]]"
   - "[[Critical Thinking]]"
   - "[[Reflexivity]]"
   - "[[Academic Freedom]]"
   - "[[Halo Effect]]"
+  - "[[Praxis]]"
   - "[[Refined Mastery]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
@@ -40,6 +42,7 @@ related_methods: []
 related_persons:
   - "[[Plato]]"
   - "[[Socrates]]"
+  - "[[Aristotle]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
@@ -108,7 +111,7 @@ updated: 2026-05-24
 ### 1. 主动参与（Active Engagement）
 
 > [!info]
-> 主动参与是 Li 从英语学习词汇研究中提取的**第一大类别**的具体学习过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.108-110]])。典型词汇包括：*active learning, hands-on, learn by doing, trial and error, practice, study, training, work*——这些都是可观察的学习者实际行为。当学习者被描述为"主动参与"时，他们是"在身体上在场，经常是手和身体——而不仅是心智——完全投入"的([[Argument_Li_2012_Cambridge|Li, 2012, p.108]])。
+> 主动参与是 Li 从英语学习词汇研究中提取的**第一大类别**的具体学习过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.108-110]])。典型词汇包括：*[[Active Learning]], hands-on, learn by doing, trial and error, practice, study, training, work*——这些都是可观察的学习者实际行为。当学习者被描述为"主动参与"时，他们是"在身体上在场，经常是手和身体——而不仅是心智——完全投入"的([[Argument_Li_2012_Cambridge|Li, 2012, p.108]])。
 
 > [!example] 主动参与的三种常见形式
 > **1. 课堂内的动手学习** 去图书馆和上网研究感兴趣的主题、写发现报告、动手构造物体（如纸浆火山模型）、制作展示理解的模型（如苔原地形和动物的纸板展示）、做科学实验、记录观察([[Argument_Li_2012_Cambridge|Li, 2012, pp.108-109]])。
@@ -171,9 +174,9 @@ updated: 2026-05-24
 
 **说话作为权利（pp.79-81）**。Li 从希腊陪审团审判制度追溯——雅典娜创设了要求双方实时口头辩论的程序。与中国包公审案以行动替代言语辩论形成鲜明对比：包公"甚至可能没有向在场的任何人解释他的推理"——但雅典审判"没有双方的口头往来、陈述、反驳和结论，不可能进行"([[Argument_Li_2012_Cambridge|Li, 2012, pp.80-81]])。这一制度直接演变为当今西方司法制度和宪法保障的言论自由——"说话已经成为西方民主和日常工作的不可分割的一部分"([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])。
 
-**说话作为领导力特质（pp.81-83）**。从古希腊十大阿提卡演说家、Demosthenes、Cicero，到近代的丘吉尔、罗斯福、肯尼迪、马丁·路德·金和奥巴马——"西方拥有一长串以雄辩著称的政治领袖名单"。在民主制度中，口头辩论是立法审议的首要手段——"没有言辞程序和实践，西方风格民主如何进行是根本不可想象的"([[Argument_Li_2012_Cambridge|Li, 2012, p.82]])。宗教领袖同样依赖于讲道——"对许多人来说，是否继续参加某个教堂的决定取决于他是否喜欢讲道的质量"。
+**说话作为领导力特质（pp.81-83）**。从古希腊十大阿提卡演说家、Demosthenes、Cicero，到近代的丘吉尔、罗斯福、肯尼迪、马丁·路德·金和奥巴马——"西方拥有一长串以雄辩著称的政治领袖名单"。在民主制度中，口头辩论是立法审议的首要手段——"没有言辞程序和[[Praxis|实践]]，西方风格民主如何进行是根本不可想象的"([[Argument_Li_2012_Cambridge|Li, 2012, p.82]])。宗教领袖同样依赖于讲道——"对许多人来说，是否继续参加某个教堂的决定取决于他是否喜欢讲道的质量"。
 
-**说话作为艺术（pp.83-86）**。从古希腊的智者们（sophists）将修辞发展为收费职业开始，到亚里士多德提出说服三要素——**ethos**（道德品格/信誉）、**pathos**（情感诉求）、**logos**（逻辑推理），再到 Cicero 的演说五步骤（inventio 构思 → dispositio 结构 → elocutio 风格 → memoria 记忆 → actio 呈现），以及 Quintilian 设计的从出生到老年的完整"完美演说家"教育方案。Cicero 提出的"理想演说家"需要[[Refined Mastery|精通]]法律、政治、历史、文学、伦理、战争、医学和数学——这一理念本质上是**西方博雅教育（liberal arts education）的核心([[Argument_Li_2012_Cambridge|Li, 2012, pp.85-86]])**。至今，美国大学校园中公共演讲课长盛不衰——学生"经常需要排长队等候才能选上这门课"([[Argument_Li_2012_Cambridge|Li, 2012, p.86]])。
+**说话作为艺术（pp.83-86）**。从古希腊的智者们（sophists）将修辞发展为收费职业开始，到[[Aristotle|亚里士多德]]提出说服三要素——**ethos**（道德品格/信誉）、**pathos**（情感诉求）、**logos**（逻辑推理），再到 Cicero 的演说五步骤（inventio 构思 → dispositio 结构 → elocutio 风格 → memoria 记忆 → actio 呈现），以及 Quintilian 设计的从出生到老年的完整"完美演说家"教育方案。Cicero 提出的"理想演说家"需要[[Refined Mastery|精通]]法律、政治、历史、文学、伦理、战争、医学和数学——这一理念本质上是**西方博雅教育（liberal arts education）的核心([[Argument_Li_2012_Cambridge|Li, 2012, pp.85-86]])**。至今，美国大学校园中公共演讲课长盛不衰——学生"经常需要排长队等候才能选上这门课"([[Argument_Li_2012_Cambridge|Li, 2012, p.86]])。
 
 ### 6. 西方说话风格：Grice 会话准则
 
@@ -227,7 +230,7 @@ O'Connor & Michaels（1993）的研究揭示了西方课堂如何通过 [[Revoic
 
 > [!warning]
 > - 西方学习者模型中"区分最有能力者与普通者"的倾向（[[Plato]] 的护卫者选拔），与儒家"有教无类""人人皆可为尧舜"的平等主义形成对比。但 Li 也指出，西方同样有 Comenius 的全民教育传统——两条线索并存([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
-> - "奖励与庆祝个人成就"的文化取向可能在实践中加剧竞争而非促进合作学习。Li 本人对此并未深论，但这一对比隐含在她的文化比较框架中
+> - "奖励与庆祝个人成就"的文化取向可能在[[Praxis|实践]]中加剧竞争而非促进合作学习。Li 本人对此并未深论，但这一对比隐含在她的文化比较框架中
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "Lester（2005）提出的概念，指大学作为本地创新系统中中性的、持续对话的场所，催化不同行动者之间的互动，为技术、市场和产业未来方向的讨论提供平台，是大学常被低估的间接经济贡献"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - theme/regional-development
   - level/higher-education
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Technology Transfer]]"
   - "[[Structural Holes]]"
   - "[[Innovation Ecosystem]]"
@@ -40,7 +41,7 @@ updated: 2026-06-10
 ## 定义
 
 > [!info]
-> 大学的公共空间角色（public space role）是 Lester（2005）在 Local [[Systems of Innovation|innovation systems]] 项目第一阶段中提出的概念，指大学作为本地创新系统中一个**中性的、持续对话的场所**，为技术、市场和产业未来方向的讨论提供平台。大学作为通常稳定、基本没有政治和产业议程的组织，可以充当中性空间，催化创新系统内不同行动者——企业、政府、研究机构、社区组织——之间的互动。
+> 大学的公共空间角色（public space role）是 Lester（2005）在 Local [[Systems of Innovation|innovation systems]] 项目第一阶段中提出的概念，指大学作为本地创新系统中一个**中性的、持续[[Dialogue in Education|对话]]的场所**，为技术、市场和产业未来方向的讨论提供平台。大学作为通常稳定、基本没有政治和产业议程的组织，可以充当中性空间，催化创新系统内不同行动者——企业、政府、研究机构、社区组织——之间的互动。
 
 Lester 明确指出："大学的公共空间角色及其对本地创新绩效的贡献的重要性往往被低估。"这一角色不属于传统的[[Technology Transfer|技术转移]]或创业孵化范畴，而是大学间接经济贡献的核心组成部分。
 
@@ -48,7 +49,7 @@ Lester 明确指出："大学的公共空间角色及其对本地创新绩效的
 ## 核心特征
 
 > [!abstract]
-> - **中性性** 大学通常没有政治和产业议程，能够为具有竞争关系或不同利益的行动者提供安全的对话空间
+> - **中性性** 大学通常没有政治和产业议程，能够为具有竞争关系或不同利益的行动者提供安全的[[Dialogue in Education|对话]]空间
 > - **持续性** 作为长期存在的机构，大学能够维持跨越选举周期和商业周期的持续对话
 > - **催化性** 大学不仅提供物理空间，还通过召集会议、工作坊和前瞻性练习主动催化互动
 > - **间接性** 公共空间角色的经济影响是间接的，难以用专利或许可收入等量化指标衡量，因此容易被政策制定者忽视

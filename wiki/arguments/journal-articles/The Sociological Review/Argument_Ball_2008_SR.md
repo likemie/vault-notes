@@ -23,6 +23,7 @@ related_concepts:
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
+  - "[[Praxis]]"
   - "[[Postmodernism]]"
   - "[[Literature Review]]"
 related_theories: []
@@ -43,9 +44,9 @@ title: "Argument_Ball_2008_SR"
 argument_key: "Argument_Ball_2008_SR"
 argument_display_title: "Some sociologies of education: A history of problems and places, and segments and gazes"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: The Sociological Review
 book_title: ""
@@ -90,7 +91,7 @@ citation_aliases:
 >
 > ### 主题二：研究语言会把教育对象变成可治理对象
 >
-> 4. 人文社会科学知识会被重新语境化到专业教育和政策实践中，因此并不处于政策之外。研究语言看似让研究者与对象保持距离，但同时形成一种目光，使社会景观更加可见，并为人们提供特定主体位置(p.653)。
+> 4. 人文社会科学知识会被重新语境化到专业教育和政策[[Praxis|实践]]中，因此并不处于政策之外。研究语言看似让研究者与对象保持距离，但同时形成一种目光，使社会景观更加可见，并为人们提供特定主体位置(p.653)。
 >
 > 5. 由此产生一个关键推论：教育社会学每一次改变研究对象，都可能同时改变治理对象。家庭、学校知识、教师专业和学校组织之所以能被政策干预，是因为它们先被研究语言构造成可见、可描述、可比较的问题(pp.651, 653)。
 >
@@ -123,7 +124,7 @@ citation_aliases:
 >
 > ### 研究目光
 > - [[Political Arithmetic]] 把阶级、家庭、学校和机会结构连接起来，使教育不平等成为福利国家可认识、可测量、可干预的问题(pp.654-657)。
-> - [[New Sociology of Education]] 将教育社会学目光转向学校知识和课堂过程，打破政治算术的政策改良主义，但也无意中帮助把学校和教师实践打开为新的治理对象(pp.657-659)。
+> - [[New Sociology of Education]] 将教育社会学目光转向学校知识和课堂过程，打破政治算术的政策改良主义，但也无意中帮助把学校和教师[[Praxis|实践]]打开为新的治理对象(pp.657-659)。
 > - [[School Effectiveness]] 在政策中成为一种正常化技术：它建构有效学校的规范模型，把无效学校异常化，并通过检查、测试、排行榜和改进话语推进学校管理(pp.663-665)。
 >
 > ### 政策后果

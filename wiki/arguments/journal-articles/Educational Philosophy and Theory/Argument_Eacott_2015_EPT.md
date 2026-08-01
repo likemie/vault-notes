@@ -9,7 +9,7 @@ title: "Argument_Eacott_2015_EPT"
 argument_key: "Argument_Eacott_2015_EPT"
 argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Praxis]]"
   - "[[Reflexivity]]"
 related_theories: []
 related_methods: []
@@ -91,7 +92,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > - 教育行政领域中**大多数 Bourdieu 式研究没有超越对 Bourdieu 思维工具（[[Champ|场域]]、[[Habitus|习性]]、资本）的使用**，忽略了更根本的[[Epistemology|认识论]]预备问题(p.313-314)
-> - 教育行政研究存在一种"默契共识"（tacit agreement）：对不同意见者施以"善意忽视"（benign neglect），而非真正的学术争论。这一领域的危机不在[[Paradigm|范式]]分歧，而在**作为[[Knowledge Production|知识生产]]场域与实践场域的关系**(p.323-324)
+> - 教育行政研究存在一种"默契共识"（tacit agreement）：对不同意见者施以"善意忽视"（benign neglect），而非真正的学术争论。这一领域的危机不在[[Paradigm|范式]]分歧，而在**作为[[Knowledge Production|知识生产]]场域与[[Praxis|实践]]场域的关系**(p.323-324)
 > - "领导力"是该领域的**神圣标签**——"不像对管理和/或行政的批判，更不用说对官僚制的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到话语层面"(p.324)
 > - 管理主义项目的核心特征是"将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"(Gunter, 2013, p.323)
 

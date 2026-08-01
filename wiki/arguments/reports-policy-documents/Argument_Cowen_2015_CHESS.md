@@ -12,7 +12,7 @@ title: "Argument_Cowen_2015_CHESS"
 argument_key: "Argument_Cowen_2015_CHESS"
 argument_display_title: "Making the Most of the Evidence: Evidence-based policy in the classroom"
 argument_kind: "report"
-argument_related_count: 15
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -29,7 +29,9 @@ tags:
 - level/k12
 related_concepts:
   - "[[Research Question]]"
+  - "[[Praxis]]"
   - "[[Literature Review]]"
+  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Evaluation Research]]"
@@ -63,7 +65,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 论文试图回答：研究证据如何为成功的社会政策做出贡献并改善公共服务实践？具体聚焦于：教师如何将 What Works 证据（以 [[Education Endowment Foundation|EEF]] Toolkit 为代表）与本地知识和其他形式的科学知识结合，以预测某项政策在特定情境中是否有效，并识别做出可靠判断所需的其他信息。
+> 论文试图回答：研究证据如何为成功的社会政策做出贡献并改善公共服务[[Praxis|实践]]？具体聚焦于：教师如何将 What Works 证据（以 [[Education Endowment Foundation|EEF]] Toolkit 为代表）与本地知识和其他形式的科学知识结合，以预测某项政策在特定情境中是否有效，并识别做出可靠判断所需的其他信息。
 
 ## 理论框架
 
@@ -88,9 +90,9 @@ citation_aliases:
 >    - [[Literature Review|文献综述]]识别出 EBP 实施的三个关键前提：本地知识、专业自主性和判断力、以及适合从业者使用的证据呈现方式
 >    - Cartwright & Munro (2010) 的框架表明，[[Randomised Controlled Trials|RCT]] 仅提供"在某处有效"的证据，要做出"对我们有效"的预测需要理解因果机制
 >    - 教师访谈证实：成功实施需理解干预措施的底层原理（underlying rationale），而非机械遵循手册
->    - 证据以不可预测的方式与现有知识和实践互动——既可用于克服制度惯性，也可用于创造性偏离
+>    - 证据以不可预测的方式与现有知识和[[Praxis|实践]]互动——既可用于克服制度惯性，也可用于创造性偏离
 >    - 问责机制（[[Ofsted]]）可能阻挠证据的审慎使用，尤其对新学校和弱势生源学校
->    - 教师专业对话和辩论是证据阐释的重要机制，"传统 vs 进步"的意识形态分化推动了更深度的证据参与
+>    - 教师专业[[Dialogue in Education|对话]]和辩论是证据阐释的重要机制，"传统 vs 进步"的意识形态分化推动了更深度的证据参与
 >
 > 3. **结论** 证据本位政策的实施不应追求"忠实执行"（fidelity），而应追求"流动性"（fluidity）——证据作为[[Hypothesis|假设]]生成和激发审议的工具，而非直接指导实践的指令。理解因果机制、尊重本地知识和[[Professional Judgment|专业判断]]、为教师提供研究方法和统计培训，是实现有效实施的关键
 
@@ -101,7 +103,7 @@ citation_aliases:
 > - EEF Toolkit 是影响管理决策和参与学校治理辩论的有力工具，但教师普遍认为它不够详细，无法直接指导课堂实施(p.24)
 > - 时间约束是教师深入参与研究证据的主要障碍(p.25-26)
 > - 教师对"忠实执行"的看法分歧：有人认为应尽可能接近原始研究方案，有人强调理解偏离原始方案的原因即可(p.29-30)
-> - 教师呼吁建立批判性审视研究证据的实践社群，而非被动接受学术指导(p.33)
+> - 教师呼吁建立批判性审视研究证据的[[Praxis|实践]]社群，而非被动接受学术指导(p.33)
 > - [[Ofsted]] 被认为既认可了非证据本位的实践（如学习风格理论），又惩罚了合理的教师主导教学，构成 EBP 实施的制度性障碍(p.37-38)
 > - CPD 现状令人不满：传统"做给你看"模式无效，更有效的是每周固定时段的校内持续性专业发展(p.39)
 > - 许多教师缺乏研究方法训练，无法批判性[[Evaluation Research|评估研究]]证据(p.44-45)
@@ -132,7 +134,7 @@ citation_aliases:
 > - EEF 等证据托管机构应提供专门支持本地实施的资源，设立实施团队，鼓励学校之间分享实施经验(p.13, p.45)
 > - 教师培训（PGCE）应纳入研究方法、统计解读和因果机制理解的训练(p.44-45)
 > - 为实施分配专项资金，仅提供信息而无实施指导的资源不能被视为物有所值(p.45)
-> - 证据托管网站应增加互动和反馈功能，鼓励教师发布实践反馈
+> - 证据托管网站应增加互动和反馈功能，鼓励教师发布[[Praxis|实践]]反馈
 
 ## 局限性与批评
 

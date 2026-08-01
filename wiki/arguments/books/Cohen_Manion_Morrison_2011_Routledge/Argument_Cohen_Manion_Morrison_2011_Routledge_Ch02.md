@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 68
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Value Neutrality]]"
   - "[[Paradigm]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"
@@ -53,10 +54,11 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Critical Pedagogy]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Growth]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[Theory of Knowledge]]"
-  - "[[Questionnaire Wording]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
   - "[[Research Translation]]"
@@ -84,7 +86,7 @@ related_methods:
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
   - "[[Mixed Methods Research]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Participant Observation]]"
   - "[[Qualitative Research]]"
   - "[[Design-Based Research]]"
@@ -95,6 +97,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Causal Modeling]]"
   - "[[Grounded Theory]]"
+  - "[[Accounts]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_facts:
@@ -143,7 +146,7 @@ updated: '2026-07-21'
 > [[Positivism|实证主义]]追求客观性、可测量性和因果法则（技术知识），[[Interpretive Paradigm|诠释范式]]追求从行动者角度理解世界（诠释知识）。然而两者共同忽视了教育研究的政治与意识形态维度——教育现象不仅是认知或文化现象，更是权力运作的[[Champ|场域]]。**当研究者声称[[Value Neutrality|价值中立]]时，这种声称本身在服务于谁的利益？** 教育研究是否可能、以及是否应该，超越理解和预测，走向解放与变革？
 
 > [!claim] 核心主张
-> [[Critical Theory|批判理论]]构成了教育研究的**第三种[[Paradigm|范式]]**——不同于实证主义（技术兴趣）和诠释范式（实践兴趣），它以**解放兴趣**为驱动，旨在揭露教育中隐藏的权力运作和意识形态压制，并通过[[Ideology Critique|意识形态批判]]、[[Action Research|行动研究]]、[[Participatory Research|参与式研究]]和[[Feminist Research|女性主义研究]]等方法论工具，推动从压迫走向平等与民主的变革实践。
+> [[Critical Theory|批判理论]]构成了教育研究的**第三种[[Paradigm|范式]]**——不同于实证主义（技术兴趣）和诠释范式（[[Praxis|实践]]兴趣），它以**解放兴趣**为驱动，旨在揭露教育中隐藏的权力运作和意识形态压制，并通过[[Ideology Critique|意识形态批判]]、[[Action Research|行动研究]]、[[Participatory Research|参与式研究]]和[[Feminist Research|女性主义研究]]等方法论工具，推动从压迫走向平等与民主的变革实践。
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 批判教育研究范式的理论根基（哈贝马斯认识兴趣三分法）、核心方法论（意识形态批判的四阶段反思实践）、分支实践（参与式研究、女性主义研究）以及内在批评。
@@ -162,7 +165,7 @@ updated: '2026-07-21'
 > | **变革范式**<br>[[Transformative Paradigm]]<br>Mertens (2007) | 将[[Critical Theory\|批判理论]]的解放兴趣[[Operationalization\|操作化]]为贯穿研究全过程的[[Ontology\|本体论]]、[[Epistemology\|认识论]]、方法论和[[Axiology\|价值论]]（axiology）四重信念体系，并将[[Mixed Methods Research\|混合方法]]与参与式行动研究整合进变革导向的研究设计。 |
 
 > [!warrant]- 理论如何支撑论证
-> 哈贝马斯的三分法提供了一个**统摄性框架**，将第1章的[[Positivism|实证主义]]和[[Interpretive Paradigm|诠释范式]]分别归入技术兴趣和实践兴趣，从而为[[Critical Theory|批判理论]]在方法论版图中找到了明确的理论位置——即解放兴趣。这一框架的推理逻辑是：**如果所有知识都由利益构成，那么声称[[Value Neutrality|价值中立]]本身就是一种利益立场（维护现状的利益）。** 由此，批判理论不仅能与前两大[[Paradigm|范式]]并列，还能对前两者进行"元批判"——追问它们各自服务于谁的利益、再生产了什么样的权力关系。本章随后展开的[[Ideology Critique|意识形态批判]]、课程分析、[[Participatory Research|参与式研究]]和[[Feminist Research|女性主义研究]]，都是在不同经验领域中对这一框架的实例化。
+> 哈贝马斯的三分法提供了一个**统摄性框架**，将第1章的[[Positivism|实证主义]]和[[Interpretive Paradigm|诠释范式]]分别归入技术兴趣和[[Praxis|实践]]兴趣，从而为[[Critical Theory|批判理论]]在方法论版图中找到了明确的理论位置——即解放兴趣。这一框架的推理逻辑是：**如果所有知识都由利益构成，那么声称[[Value Neutrality|价值中立]]本身就是一种利益立场（维护现状的利益）。** 由此，批判理论不仅能与前两大[[Paradigm|范式]]并列，还能对前两者进行"元批判"——追问它们各自服务于谁的利益、再生产了什么样的权力关系。本章随后展开的[[Ideology Critique|意识形态批判]]、课程分析、[[Participatory Research|参与式研究]]和[[Feminist Research|女性主义研究]]，都是在不同经验领域中对这一框架的实例化。
 
 ---
 
@@ -195,7 +198,7 @@ updated: '2026-07-21'
 > 哈贝马斯将诠释范式描述为一种**双重诠释学（double hermeneutic）** 人在一个已被诠释过的世界中诠释和行动；研究者有自己的价值观和解释，而他们的研究对象也在根据自己的解释行动（Habermas, 1984, pp. 109–110, echoing Giddens, 1976）。但哈贝马斯指出，诠释范式止步于理解，没有进一步追问：**那些被研究对象所理解的世界，本身是否就是权力和意识形态的产物？** 理解一个被压迫者如何理解其处境，并不等于揭露造成该处境的压迫结构（pp.23–25）。
 
 > [!warrant]- 推理桥梁
-> 第1章结尾已经暗示了[[Paradigm Wars|范式战争]]的终结者是[[Mixed Methods Research|混合方法研究]]。但混合方法主要回应的是**量化与质性之间的方法论对立**，而非**理解与变革之间的政治对立**。[[Critical Theory|批判理论]]的独特贡献在于：它在技术兴趣（实证主义）和实践兴趣（诠释范式）之外引入了第三种驱动力——**解放兴趣**，从而将研究是为了什么这一规范性问题提升为方法论的核心议题。
+> 第1章结尾已经暗示了[[Paradigm Wars|范式战争]]的终结者是[[Mixed Methods Research|混合方法研究]]。但混合方法主要回应的是**量化与质性之间的方法论对立**，而非**理解与变革之间的政治对立**。[[Critical Theory|批判理论]]的独特贡献在于：它在技术兴趣（实证主义）和[[Praxis|实践]]兴趣（诠释范式）之外引入了第三种驱动力——**解放兴趣**，从而将研究是为了什么这一规范性问题提升为方法论的核心议题。
 
 > [!abstract] [[Critical Theory|批判理论]]的核心特征（pp.26–31）
 > - **规范性与规定性** 明确主张社会民主中行为应包含什么——不仅是描述，更是应然判断（Fay, 1987; Morrison, 1995a）。
@@ -380,7 +383,7 @@ Tyler（1949）的课程四问原理如下：
 > - 在历史课上同时呈现官方教科书和社区老人的口述记忆，让学生自己判断历史的"版本"为何不同，谁在讲述、谁被沉默。
 > - 在科学课上不仅教公式，也讨论科学争议的社会维度——例如环保科学背后的[[Conflict of Interest in Research|利益冲突]]——培养学生的**批判素养**而非单纯的技术操作能力。
 >
-> 终极目标是**个人在一个公正社会中的自主性（Masschelein, 1991, p. 97）** 学生不是被训练成现存秩序的适应者和执行者，而是成长为能够识别支配、表达异议、参与社会变革的公民。
+> 终极目标是**个人在一个公正社会中的自主性（Masschelein, 1991, p. 97）** 学生不是被训练成现存秩序的适应者和执行者，而是[[Growth|成长]]为能够识别支配、表达异议、参与社会变革的公民。
 
 然而，Miedama and Wardekker（1999: 68）的尖锐批评不容忽视：批判教育学可能已经过时了，它是一个死胎；而批判理论本身可能是没有科学的科学哲学（p.75）。这一批评指向批判教育学的一个核心困境：**它的修辞远比它的实践证据丰富。**
 
@@ -422,7 +425,7 @@ Hall（2005: 17–19）提出的六条原则完整地表述了 PR 的[[Axiology|
 > 1. **直接受益** 研究项目的过程与结果可以立即和直接造福社区，而非仅仅作为学术论文或模糊的政策分析的基础。这一原则直接挑战了学术研究中研究结果首先属于学术共同体的传统。
 > 2. **全程参与** 社区应参与整个研究过程，从问题制定到结果解释再到基于结果的纠正行动规划。这不仅是在研究中的参与，更是对研究的控制。
 > 3. **教育经验** 研究过程应被视为整体教育经验的一部分：用于确定社区需求、增强对问题的意识和解决方案的承诺。PR 不仅是研究，也是教育过程。
-> 4. **对话过程** 研究应被视为一个辩证过程、一个持续的对话，而非某一时点的静态现实快照。这打破了实证主义一次测量、一次结论的模式。
+> 4. **[[Dialogue in Education|对话]]过程** 研究应被视为一个辩证过程、一个持续的对话，而非某一时点的静态现实快照。这打破了实证主义一次测量、一次结论的模式。
 > 5. **解放创意潜力** 研究对象，如同教育对象一样，应是解放人类创意潜力和动员人力资源解决社会问题。
 > 6. **意识形态意涵** 研究具有意识形态意涵：重新确认我们所做一切的政治性质。允许大众参与和增强分析能力的研究也将使冲突性行动成为可能或必要。PR 不回避研究是一种政治行为的事实。
 
@@ -576,7 +579,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **三大[[Paradigm|范式]]由三种不可化约的知识兴趣所驱动** 技术兴趣（[[Positivism|实证主义]]）、实践兴趣（[[Interpretive Paradigm|诠释范式]]）和解放兴趣（[[Critical Theory|批判理论]]）构成了三种在[[Epistemology|认识论]]、[[Ontology|本体论]]和方法论上不可通约——但也互补——的研究取向。三种兴趣中，解放兴趣涵括前两者，因为它们回答了不同的问题，而解放兴趣追问了前两者所回避的"谁受益"的问题。
+> 1. **三大[[Paradigm|范式]]由三种不可化约的知识兴趣所驱动** 技术兴趣（[[Positivism|实证主义]]）、[[Praxis|实践]]兴趣（[[Interpretive Paradigm|诠释范式]]）和解放兴趣（[[Critical Theory|批判理论]]）构成了三种在[[Epistemology|认识论]]、[[Ontology|本体论]]和方法论上不可通约——但也互补——的研究取向。三种兴趣中，解放兴趣涵括前两者，因为它们回答了不同的问题，而解放兴趣追问了前两者所回避的"谁受益"的问题。
 > 2. **[[Ideology Critique|意识形态批判]]是批判理论的核心方法论[[Operationalization|操作化]]** 哈贝马斯的四阶段反思实践（描述→归因→议程→评估）和 Smyth 的平行框架（描述→信息→对抗→重建）为"如何揭露教育中的权力运作"提供了具体的操作程序。但批判与解放之间的因果链是经验的而非逻辑的——批判理论声称的赋权效果需要经验检验而非哲学宣称。
 > 3. **批判理论在课程研究中产生了最深远的影响** Tyler 原理被重读为实证主义技术兴趣的课程表达；课程被重新概念化为"意识形态选择"而非"中立知识集合"；Bernstein（1971: 47）的经典论断——课程的选择、分类、分配、传递和评估反映的是权力的分配和社会控制的原则——成为课程批判研究的理论起点。
 > 4. **[[Participatory Research|参与式研究]]和[[Feminist Research|女性主义研究]]是批判理论在方法论层面的两个核心延展** 两者都将批判理论的核心命题（知识不中立、研究应赋权、变革优于描述）操作化为具体的研究设计原则。但两者内部的深刻争议——尤其是关于研究者身份、研究关系的伦理、以及质性方法对量化方法的特权化——表明批判理论的方法论议程远未完成，也远未达成内部共识。
@@ -588,7 +591,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > [!citation-card]- [[Critical Theory|批判理论]]的核心意图
 > 批判理论的意图不仅是说明社会和行为的现状，更是实现一个基于全体成员平等与民主的社会。其目的不仅是理解情境和现象，而是改变它们。它特别寻求解放被剥夺权力者、纠正不平等、在民主社会中促进个人自由。（第2章，2.1节，p.27）
 >
-> Its intention is not merely to give an account of society and behaviour but to realize a society that is based on equality and democracy for all its members. Its purpose is not merely to understand situations and phenomena but to change them.
+> Its intention is not merely to give an [[Accounts|account]] of society and behaviour but to realize a society that is based on equality and democracy for all its members. Its purpose is not merely to understand situations and phenomena but to change them.
 
 > [!citation-card]- 兴趣的意识形态功能
 > 兴趣是"知识构成性的"，因为它们塑造和决定了什么算作知识的对象和类型。兴趣具有意识形态功能——技术兴趣可以起到让有权者继续有权、无权者继续无权的作用，即强化和延续现状。解放兴趣则威胁现状。（第2章，2.1节，pp.35–36）
@@ -596,7 +599,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > Interests are socially constructed, and are 'knowledge-constitutive', because they shape and determine what counts as the objects and types of knowledge. Interests have an ideological function.
 
 > [!citation-card]- [[Ideology Critique|意识形态批判]]的双重性
-> 意识形态批判在此既有反思的、理论的一面，也有实践的一面——没有反思，批判是空洞的；没有实践，批判是空虚的。（第2章，2.1节，p.101）
+> 意识形态批判在此既有反思的、理论的一面，也有[[Praxis|实践]]的一面——没有反思，批判是空洞的；没有实践，批判是空虚的。（第2章，2.1节，p.101）
 >
 > Ideology critique here has both a reflective, theoretical and a practical side to it; without reflection it is hollow and without practice it is empty.
 

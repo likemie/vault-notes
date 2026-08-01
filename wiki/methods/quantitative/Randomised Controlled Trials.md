@@ -11,7 +11,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 74
+method_related_count: 76
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
   - "[[Blinding]]"
+  - "[[Praxis]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
   - "[[Sample Size Determination]]"
@@ -47,13 +48,14 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Reliability]]"
   - "[[Publication Bias]]"
+  - "[[Experiential Learning]]"
   - "[[Tracking]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Type I and Type II Errors]]"
   - "[[Clinical Trial]]"
   - "[[Side Effects]]"
-  - "[[Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests]]"
+  - "[[Criterion-Referenced Test]]"
   - "[[Document]]"
   - "[[Ontology]]"
   - "[[Validity as Inferences]]"
@@ -162,7 +164,7 @@ updated: 2026-07-13
 > [!proc] 通用操作步骤
 > 1. **[[Random Assignment|随机分配]]** 将参与者随机分配至干预组（接受干预）和对照组。
 > 2. **[[Pre-test and Post-test|前测]]**（可选）：在干预前测量两组的基线水平。
-> 3. **实施干预** 干预组接受待评估的教育干预，对照组维持原有实践。
+> 3. **实施干预** 干预组接受待评估的教育干预，对照组维持原有[[Praxis|实践]]。
 > 4. **后测** 干预后测量两组的结果。
 > 5. **分析** 计算标准化[[Effect Size|效应量]]（均值差除以标准差），检验[[Statistical Significance|统计显著性]]。
 
@@ -250,7 +252,7 @@ updated: 2026-07-13
 > 在药物试验中，对照组通常使用安慰剂以判断干预的相对影响。在教育中，"控制组应该是'什么都不做'还是'照常做'？"Pawson (2006, p. 51) 指出："这不是静止的世界。这不是真空……控制组或控制区域实际上非常忙碌。"（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]]）
 
 > [!critique-method] 双盲在教育中不可能
-> 药物试验中，严格的双盲程序为排除医生和患者的主观意志影响以及制药公司的力量提供了重要的社会保护。但在教育中，不可能在没有师生注意到的情况下改变实践。药物试验试图消除人的因素因为"人的意志被视为污染物"，但社会变革恰恰通过人的能动性实现（Pawson, 2006, p. 27）（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 114–115]]）。
+> 药物试验中，严格的双盲程序为排除医生和患者的主观意志影响以及制药公司的力量提供了重要的社会保护。但在教育中，不可能在没有师生注意到的情况下改变[[Praxis|实践]]。药物试验试图消除人的因素因为"人的意志被视为污染物"，但社会变革恰恰通过人的能动性实现（Pawson, 2006, p. 27）（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 114–115]]）。
 >
 > **Heckman 的 AIDS 药物试验例证（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.5]]）** 参与者不知道自己是在药物组还是安慰剂组，所以**他们互相分享分配的药品**以最大化获得真药的机会，致使结果难以甚至无法解释。
 >
@@ -264,7 +266,7 @@ updated: 2026-07-13
 > 在医学领域，RCT 建立在大量先期理论工作之上（Pawson, 2006, p. 47）。相比之下，在教育领域，RCT 通常被期望提供"治疗"的全部科学知识基础（Hammersley, 2015, p. 4）（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]]）。
 
 > [!critique-data] 教育心理学期刊中随机实验比例下降
-> [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 比较五本经验教育心理学期刊后发现，[[Intervention Research|干预研究]]比例从 2000 年的 40% 降至 2010 年的 25%，到 2020 年仍维持在 25%；但随机实验继续从 2010 年的 23% 降至 2020 年的 20%。1983 年这些期刊中几乎一半经验文章使用随机分配实验，而 2020 年只有五分之一使用随机分配（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）。可能原因包括：方法多元性的接受正在变化；干预研究耗时且需要资金；小样本实验与复制危机引发的功效意识相冲突；K-12 学校中的问责压力也可能降低参与意愿（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.7-8]]）。
+> [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 比较五本[[Experiential Learning|经验教育]]心理学期刊后发现，[[Intervention Research|干预研究]]比例从 2000 年的 40% 降至 2010 年的 25%，到 2020 年仍维持在 25%；但随机实验继续从 2010 年的 23% 降至 2020 年的 20%。1983 年这些期刊中几乎一半经验文章使用随机分配实验，而 2020 年只有五分之一使用随机分配（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）。可能原因包括：方法多元性的接受正在变化；干预研究耗时且需要资金；小样本实验与复制危机引发的功效意识相冲突；K-12 学校中的问责压力也可能降低参与意愿（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.7-8]]）。
 
 > [!critique-data] Ginsburg & Smith (2016) 的 12 项威胁
 > 在分析 27 项被 [[What Works Clearinghouse]] 高评分的数学课程 RCT 后，Ginsburg & Smith (2016, p. ii) 识别了 12 种威胁：作者与课程开发者有关联、课程干预实施不充分、未能描述对照组的比较课程、干预组比对照组获得更多教学时间、未能评估长期影响、评估工具偏袒所评估课程包的内容。核心结论：**26/27 项高评分 RCT 存在多重严重问题**，"即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]"（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]]）。
@@ -312,7 +314,7 @@ updated: 2026-07-13
 
 ### 设计变体与替代方案
 
-> [!designs] [[Cluster Randomized Trials|集群随机试验]]（CRT）与精度改进
+> [!designs] [[Cluster Randomized Trials|集群随机试验]]（[[Criterion-Referenced Test|CRT]]）与精度改进
 > CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi & Kelcey (2016) 比较了 NCER 资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。精度通过**最小可检测效应量（MDES）**衡量——指在给定统计功效下可检测的最小效应量。论文同时提供了两级和三级 CRT 的 MDES 计算公式，填补了方法论[[Document|文献]]的空白。
 
 > [!designs] 部分嵌套 RCT 与[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）
@@ -350,7 +352,7 @@ updated: 2026-07-13
 > |------|------|
 > | [[Intervention Research]]（父类） | RCT 是其[[Random Assignment\|随机分配]]版本，区分[[Variable\|变量]]操纵与随机分配两种证据要求 |
 > | [[Experimental Research]]（父类） | 真实验是检验[[Causality\|因果]]主张的最强设计，RCT 是真实验在教育中的主要形式 |
-> | [[Cluster Randomized Trials]]（变体） | 教育 RCT 的标准实践，处理班级或学校层面的嵌套结构 |
+> | [[Cluster Randomized Trials]]（变体） | 教育 RCT 的标准[[Praxis\|实践]]，处理班级或学校层面的嵌套结构 |
 > | [[Intent-to-Treat Analysis]]（配套） | 处理非合规问题的核心分析策略 |
 > | [[Mechanism Experiments]]（替代） | 测试可迁移的特定因果机制而非完整项目包 |
 > | [[Quasi-Experimental Designs]]（替代） | 随机分配不可行时提供[[External Validity\|外部效度]]可能改善的替代设计 |

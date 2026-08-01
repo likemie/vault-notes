@@ -11,9 +11,9 @@ summary: "将受试者按概率均等原则分配到实验处理条件中，以�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Sample Size Determination]]"
   - "[[School Leadership]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Emergence]]"
@@ -157,7 +158,7 @@ Smith (1991, p. 215) 明确指出：匹配在排除替代因果解释方面**远
 > [!method-fit] 适用判断
 > - **适合使用** 当[[Research Purpose|研究目的]]在于评估某项标准化干预（如某种教学软件、标准化测试）对学业成绩的纯粹因果净效应，且[[Sample Size Determination|样本量]]足够大、环境相对封闭时。
 > - **谨慎使用** 在复杂的教育生态中，受试者（如[[School Leadership|学校领导]]、教师）的态度和信念在随机分配前已高度分化。由于无法实施双盲，教师的热情与主动施为（Agency）会污染实验过程，导致[[Effect Size|效应量]]（ES）难以归因。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 6]])
-> - **不适合使用** 许多教育研究情境中，由于行政限制、伦理冲突（如不能随机剥夺一部分学生接受优质教学的机会），随机分配在实践上不可行，此时应使用[[Quasi-Experimental Designs|准实验设计]]或质性[[Case Study|个案研究]]。
+> - **不适合使用** 许多教育研究情境中，由于行政限制、伦理冲突（如不能随机剥夺一部分学生接受优质教学的机会），随机分配在[[Praxis|实践]]上不可行，此时应使用[[Quasi-Experimental Designs|准实验设计]]或质性[[Case Study|个案研究]]。
 
 ---
 

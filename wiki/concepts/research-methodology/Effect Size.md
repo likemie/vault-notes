@@ -5,7 +5,7 @@ aliases:
 summary: "比较不同干预或变量影响强度的标准化统计指标，被广泛用于元分析与证据排序，但其解释边界、聚合方式和政策用途长期存在争议"
 type: concept
 domain: "research-methodology"
-related_count: 63
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -17,6 +17,7 @@ tags:
 - statistics
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Praxis]]"
   - "[[Critique of Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
@@ -97,7 +98,7 @@ updated: 2026-07-19
 
 > [!concept-lens] 概念透镜
 > - **含义** 效应量通过除以标准差消除测量单位，回答"干预产生了多大差异"，而非仅回答"差异是否显著"。[[Lars Qvortrup]]（2015）强调其"相对效果"功能——可比较不同研究之间干预组与控制组的相对变化（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]]）。
-> - **用途** 为[[Meta-analysis|元分析]]提供可合并的通用尺度，为实践者和政策制定者提供关于"什么有效"的量化总结。
+> - **用途** 为[[Meta-analysis|元分析]]提供可合并的通用尺度，为[[Praxis|实践]]者和政策制定者提供关于"什么有效"的量化总结。
 > - **边界** 效应量不直接说明效果的实质教育意义——同一个 d 值可能对应表层知识记忆或深层概念理解。[[Adrian Simpson]]（2017, 2018, 2019）进一步论证效应量实际测量的是试验清晰度（experimental clarity）而非干预有效性，详见 [[Critique of Effect Size]]。
 
 > [!boundary] 概念边界
@@ -127,7 +128,7 @@ updated: 2026-07-19
 > - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具([[Argument_Higgins_2016_RE|Higgins, 2016, pp.36–37]])。
 > - **1980** — Cooper 和 Rosenthal 的实证检验表明，[[Meta-analysis|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
 > - **1988** — Cohen 出版 Statistical Power Analysis 第 2 版，以身高类比等直观方式解释效应量的实质含义([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])。
-> - **2009** — [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践话语。
+> - **2009** — [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和[[Praxis|实践]]话语。
 > - **2014** — [[EEF Teaching and Learning Toolkit]] 以效应量转换为"额外学习月数"的格式传播教育干预证据。
 > - **2017 至 2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2018）。
 > - **2019** — Simpson 用"教一个匈牙利单词"思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单([[Argument_Simpson_2019_ERE|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]])。
@@ -236,7 +237,7 @@ updated: 2026-07-19
 
 ### 实践者解释中的效应量
 
-> [!info] 实践者解释中的效应量
+> [!info] [[Praxis|实践]]者解释中的效应量
 > 在学校采购和项目评价中，教育产品消费者并不总能理解效应量和统计显著性等有效性指标，也常觉得正式证据来源缺少实施要求、使用满意度、成本和情境信息。效应量因此不是“读者看到数字就能行动”的指标，而需要和项目目标、使用强度、对照条件、测量工具和地方需求一起解释([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 > [!example]
@@ -358,7 +359,7 @@ updated: 2026-07-19
 ### 命题六　效应量随干预定义的模糊性而变化：同一标签可能涵盖实质不同的干预
 
 > [!concept-lens] 术语的[[Construct Validity|构念效度]]
-> 同一术语在不同研究中可能涵盖实质不同的干预实践，使效应量的跨研究聚合失去意义。
+> 同一术语在不同研究中可能涵盖实质不同的干预[[Praxis|实践]]，使效应量的跨研究聚合失去意义。
 
 > [!claim] [[Argument_Higgins_2016_RE|Higgins (2016)]]
 > [[Argument_Higgins_2016_RE|Higgins (2016, pp.37–38)]]以"[[Homework|家庭作业]]"为例：五岁儿童带书回家与父母共读、在家背单词、在"作业俱乐部"中做作业、为课堂做预习阅读、为考试背乘法表、在家完成考试课程作业——这些是否都是同一回事？如果合并所有这些研究得出"作业有效"，这并不意味着作业总是有效的。元分析聚合的不是同一种干预，而是同一标签下的不同实践。
@@ -390,7 +391,7 @@ updated: 2026-07-19
 
 ### 实践者解释
 
-> [!evidence-grid-a] 实践者解释案例
+> [!evidence-grid-a] [[Praxis|实践]]者解释案例
 > - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 效应量和[[Statistical Significance|统计显著性]]必须与成本、实施、用户体验和地方语境一起解释。
 
 ---

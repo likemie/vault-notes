@@ -4,7 +4,7 @@ aliases: ["负责任创新"]
 summary: "一种集体的、参与性的、包容受创新影响的不同利益相关者的创新方式，强调将伦理问题置于技术开发的核心而非事后补救，在 AI 和大数据技术治理中尤为重要"
 type: concept
 domain: "educational-philosophy"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ tags:
   - theme/research-governance
   - theme/public-engagement
 related_concepts:
+  - "[[Praxis]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[King-Persily Model]]"
@@ -49,7 +50,7 @@ updated: 2026-06-10
 > [!abstract]
 > 负责任创新的核心命题是：技术的有效部署不仅取决于其技术准确性，还取决于受影响的利益相关者群体是否信任和接受其为合法。因此伦理考虑必须从技术开发的一开始就内嵌其中，而非事后添加。
 
-在监管方面，峰会讨论提出了关键张力：有人认为过早监管会扼杀创新，有人则认为监管将改善实践、创造公平竞争环境。负责任创新的立场倾向于有效的而非繁重的监管——应允许不同行业和应用情境采用不同实践方式，必须允许实验；监管应强调从失败中学习和改进的过程，而非仅仅追究责任和惩罚。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 29-30)]]
+在监管方面，峰会讨论提出了关键张力：有人认为过早监管会扼杀创新，有人则认为监管将改善[[Praxis|实践]]、创造公平竞争环境。负责任创新的立场倾向于有效的而非繁重的监管——应允许不同行业和应用情境采用不同实践方式，必须允许实验；监管应强调从失败中学习和改进的过程，而非仅仅追究责任和惩罚。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 29-30)]]
 
 ---
 ## 应用案例

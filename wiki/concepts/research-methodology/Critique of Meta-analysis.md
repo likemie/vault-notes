@@ -5,7 +5,7 @@ aliases:
 summary: "围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系，涵盖研究可比性、输入质量、发表偏倚、过度简化、统计推断、领域迁移、抽样伦理和平均效应误导等问题"
 type: concept
 domain: "research-methodology"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Falsification]]"
   - "[[Scientific Method]]"
+  - "[[Praxis]]"
   - "[[Document]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -293,7 +294,7 @@ updated: 2026-07-13
 ### 命题八　元分析需要收集和评估替代解释和反驳证据，但实践中难以做到
 
 > [!concept-lens] [[Falsification|证伪]]与证据完整性
-> [[Scientific Method|科学方法]]要求在检验假设时收集和评估可能推翻假设的替代解释和反驳数据。批评者指出，元分析在这方面面临严重的实践障碍。
+> [[Scientific Method|科学方法]]要求在检验假设时收集和评估可能推翻假设的替代解释和反驳数据。批评者指出，元分析在这方面面临严重的[[Praxis|实践]]障碍。
 
 > [!claim] 科学方法论要求
 > **替代解释与反驳证据** 如果元分析要遵循自然科学的传统，就必须收集和评估可能推翻研究假设的替代解释和数据。尽管元分析的倡导者（如 Fitz-Gibbon, 1984, 1985）建议同时使用已发表和未发表的研究，但存在严重的实践问题：已发表研究可能只报告"成功"，未发表研究可能难以定位，数据的所有权和发布可能被禁止或限制（pp.230–231）。

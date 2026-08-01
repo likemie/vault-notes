@@ -9,9 +9,9 @@ summary: "苏俄进步主义教育改革家，十月革命前后在俄国农村�
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags:
   - field/progressive-education
@@ -20,6 +20,7 @@ tags:
   - theme/educational-reform
 related_concepts:
   - "[[Progressive Education]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -58,7 +59,7 @@ updated: '2026-06-08'
 > [!abstract]
 > Shatskii 希望通过改革学校体系来逐步变革整个俄国的制度——即通过教育实验实现渐进的社会改造([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.103]])。这一思路与 Dewey 的渐进主义（gradualism）高度一致，也是他被拿来与 Dewey 比较的主要原因。
 
-他的教育实践以项目与活动课程为核心，强调从经验中学习（learning from experience），反对以背诵和机械记忆为主的传统教学方式。
+他的教育[[Praxis|实践]]以项目与活动课程为核心，强调从经验中学习（learning from experience），反对以背诵和机械记忆为主的传统教学方式。
 
 > [!quote]
 > "We must begin this great undertaking — the coming together of the more democratic nations of the world." — Shatskii to John Dewey, July 23, 1928([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.107]])

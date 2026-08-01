@@ -7,7 +7,7 @@ aliases:
 summary: "Apple 提出的批判课程论核心概念，指学校课程中被国家与支配群体选择性界定为合法、正当且值得传授的知识，反映并再生产社会中的文化权力关系与政治霸权"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - theme/ideology
   - paradigm/critical
 related_concepts:
+  - "[[Cultural Hierarchy]]"
   - "[[Value Neutrality]]"
   - "[[Powerful Knowledge]]"
   - "[[Discipline-Based Theory]]"
@@ -25,6 +26,7 @@ related_concepts:
   - "[[Selectivity]]"
   - "[[Knowledge Production]]"
   - "[[Hegemony]]"
+  - "[[Praxis]]"
   - "[[One Country, Two Systems]]"
   - "[[Varieties of Capitalism]]"
   - "[[Policy Borrowing]]"
@@ -49,7 +51,7 @@ updated: '2026-07-22'
 ## 定义
 
 > [!def] 核心定义
-> 官方知识（Official Knowledge），由 Michael Apple (1993, 2000) 在批判课程论中系统提出，指学校课程体系中被国家、教育官僚或社会支配群体选择性界定为合法、正当且唯一值得传授的知识。它并非中性无偏的自然知识积累，而是深刻反映了主导阶层与精英群体的文化利益与政治价值观，并通过课程制度化不断再生产社会中的文化等级与权力结构。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 59)]]; [[Argument_Xu_2024_CE|(Xu, 2024, pp. 575–576)]]
+> 官方知识（Official Knowledge），由 Michael Apple (1993, 2000) 在批判课程论中系统提出，指学校课程体系中被国家、教育官僚或社会支配群体选择性界定为合法、正当且唯一值得传授的知识。它并非中性无偏的自然知识积累，而是深刻反映了主导阶层与精英群体的文化利益与政治价值观，并通过课程制度化不断再生产社会中的[[Cultural Hierarchy|文化等级]]与权力结构。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 59)]]; [[Argument_Xu_2024_CE|(Xu, 2024, pp. 575–576)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调知识选择的政治性——学校课程是被权力结构筛选、包装与合法化的“统治常识”。
@@ -83,7 +85,7 @@ updated: '2026-07-22'
 > [!feature] 核心要素
 > - **政治选择性（Political [[Selectivity]]）** — 官方知识是从社会庞杂知识库中精心筛选出来的特定片段，筛选标准取决于统治契约与主导群体的利益。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 59)]]
 > - **制度合法化（Institutional Legitimation）** — 通过赋予官方审核盖印，将特定文化传统升格为唯一的国家正统，使其他非主流经验边缘化。[[Argument_Xu_2024_CE|(Xu, 2024, p. 576)]]
-> - **文化等级再生产（Cultural Hierarchy）** — 在传递知识内容的同时，隐性确立了谁的文化代表国家、谁的知识更为高级的文化秩序。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 67)]]
+> - **[[Cultural Hierarchy|文化等级]]再生产（Cultural Hierarchy）** — 在传递知识内容的同时，隐性确立了谁的文化代表国家、谁的知识更为高级的文化秩序。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 67)]]
 > - **差异化排除性（Exclusionary Boundaries）** — 未被纳入官方知识的少数民族历史或边缘群体经验，在体制层面被降格为次要或无关紧要的杂项。
 
 > [!logic-map]- 官方[[Knowledge Production|知识生产]]与再生产机制
@@ -104,10 +106,10 @@ updated: '2026-07-22'
 ### 命题一　学校课程并非价值中立的知识载体而是支配群体利益合法化与文化再生产的政治装置
 
 > [!concept-lens] 课程选择性与[[Hegemony|文化霸权]]
-> 探讨学校课程如何通过选择性合法化主流传统，将特定群体的文化价值观升格为国家常识，进而再生产不平等的文化等级。
+> 探讨学校课程如何通过选择性合法化主流传统，将特定群体的文化价值观升格为国家常识，进而再生产不平等的[[Cultural Hierarchy|文化等级]]。
 
 > [!claim] Michael Apple (1993/2000) & [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]
-> **课程选择的政治性与文化等级再生产** 学校课程并非中性的自然知识积累，而是国家与支配群体将特定阶层与主流文化传统的知识选择性地合法化为正统的政治过程。在教育实践中，官方知识通过将主导群体的价值观制度化为值得传授的常识，造成边缘化非主流群体与少数民族文化的文化等级再生产。例如在必修教材中，儒家传统常被塑造为中华文化的核心等价物，而少数民族文化则被边缘化呈现。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 59, 67–68)]]
+> **课程选择的政治性与文化等级再生产** 学校课程并非中性的自然知识积累，而是国家与支配群体将特定阶层与主流文化传统的知识选择性地合法化为正统的政治过程。在教育[[Praxis|实践]]中，官方知识通过将主导群体的价值观制度化为值得传授的常识，造成边缘化非主流群体与少数民族文化的文化等级再生产。例如在必修教材中，儒家传统常被塑造为中华文化的核心等价物，而少数民族文化则被边缘化呈现。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 59, 67–68)]]
 
 ---
 
@@ -150,7 +152,7 @@ updated: '2026-07-22'
 > > - **去中心化市场审查模式（[[Argument_Xu_2024_CE|Xu, 2024]]）** — 依靠民间出版自由竞争与政府柔性审核，但容易受商业利益与历史保守主义妥协的影响。
 
 > [!critique] 外部批评
-> - **忽略抵制与再解释（Agency Deficit）** — 结构主义批评指出，过分强调官方知识的统治霸权容易忽视教师在课堂实践中的微观再解释，以及学生作为主体对官方话语的疏离或抵制。
+> - **忽略抵制与再解释（Agency Deficit）** — 结构主义批评指出，过分强调官方知识的统治霸权容易忽视教师在课堂[[Praxis|实践]]中的微观再解释，以及学生作为主体对官方话语的疏离或抵制。
 > - **过度政治化风险** — [[Social Realism|社会实在论]]学者（如 [[Michael Young]]）批评批判课程论将所有学科知识均简化为“统治权力的政治工具”，忽略了知识本身所具有的客观结构与认知赋权价值。
 
 > [!warning] 适用局限

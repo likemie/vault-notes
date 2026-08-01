@@ -7,7 +7,7 @@ aliases:
 summary: "日本在 2004 年 PISA 2003 结果公布后纳入国家教育政策目标的学术能力概念，聚焦问题解决、知识应用等高阶能力，区别于传统知识记忆型学力"
 type: concept
 domain: "comparative-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - region/asia
 related_concepts:
   - "[[Going Native]]"
+  - "[[Active Learning]]"
   - "[[Knowledge-Based Economy]]"
 related_theories: []
 related_methods:
@@ -70,7 +71,7 @@ updated: 2026-07-09
 
 > [!feature] 核心要素
 > - **高阶能力导向** [[PISA]]素养聚焦问题解决、知识应用、创造性工作和知识回忆——区别于传统日本教育中强调知识记忆和应试训练的学力概念（Ninomiya, 2019）。
-> - **国家课程政策的制度化** PISA素养于 2004 年被正式纳入日本国家教育政策的核心目标，直接影响了后续的课程修订。日本 2008 年新《国家学习课程》（学習指導要領）以三要素重新定义学力——扎实掌握基础知识和技能；培养思维、判断、表达及解决问题所需的能力；培养主动学习态度和发展学生个性。
+> - **国家课程政策的制度化** PISA素养于 2004 年被正式纳入日本国家教育政策的核心目标，直接影响了后续的课程修订。日本 2008 年新《国家学习课程》（学習指導要領）以三要素重新定义学力——扎实掌握基础知识和技能；培养思维、判断、表达及解决问题所需的能力；培养[[Active Learning|主动学习]]态度和发展学生个性。
 > - **国际评估驱动的概念转移** PISA素养的形成路径展示了国际评估结果如何转化为国家政策概念——日本在 PISA 2003 排名下滑后，不是改革教育制度，而是引入新概念来重新定义教育目标（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 
 ---

@@ -10,7 +10,7 @@ aliases:
 summary: "在大学与产业界面中充当中介和关系管理者的专业角色，负责连接双方利益相关者、识别一致利益并构建战略伙伴关系"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Dialogue in Education]]"
   - "[[Boundary Spanner]]"
   - "[[Concierge Service]]"
   - "[[Executive Education]]"
@@ -53,7 +54,7 @@ updated: 2026-05-27
 > UCEP 的核心职能包括：
 
 - **解读与匹配** 有效解读技术平台（如 Pivot、Elsevier Pure、Academic Analytics）提供的匹配数据，将潜在合作机会情境化，促成有意义的引荐（pp.77–78）
-- **关系引导与扩展** 当[[University-Industry Collaboration|产学合作]]开始超出单个教师的专业范围时，UCEP 接替教师成为大学的联络人，代表大学与公司方对应联络人对接，引导对话进入战略关系框架（p.79）
+- **关系引导与扩展** 当[[University-Industry Collaboration|产学合作]]开始超出单个教师的专业范围时，UCEP 接替教师成为大学的联络人，代表大学与公司方对应联络人对接，引导[[Dialogue in Education|对话]]进入战略关系框架（p.79）
 - **避免偏见** UCEP 应避免受自身所在部门或学院的归属偏见影响，防止因视野受限而错失跨学科合作机会（p.78）
 - **持续更新** 跟踪学术界和产业界的最新发展，了解新兴趋势和不断变化的需求，通过定期培训和专业发展完善技能（p.78）
 

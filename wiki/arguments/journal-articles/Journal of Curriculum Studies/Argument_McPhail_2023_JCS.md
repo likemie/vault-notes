@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Knowledge-that and Know-how-to]]"
+  - "[[Praxis]]"
   - "[[Outcomes-based Education]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
@@ -36,9 +37,11 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Postmodernism]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Ways of Knowing]]"
   - "[[Powerful Knowledge]]"
   - "[[Mātauranga Māori]]"
   - "[[Causality]]"
+  - "[[Growth]]"
   - "[[Global Citizenship]]"
   - "[[Ontology]]"
   - "[[Document]]"
@@ -116,7 +119,7 @@ citation_aliases:
 > 两种知识形式的区分来自[[Lev Vygotsky|维果茨基]]的科学概念和自发概念：
 >
 > - **[[Knowledge-that and Know-how-to|知其然]]（knowledge-that）**包括命题（提出主要主张的陈述）、学科概念（通过词语或短语表达的抽象思想）和内容（概念的具体体现，可包括事实、情境等）。
-> - **[[Knowledge-that and Know-how-to|知其所用]]（know-how-to）**包括技能、能力和学科实践，即通过学科相关的技能或实践来应用知识。
+> - **[[Knowledge-that and Know-how-to|知其所用]]（know-how-to）**包括技能、能力和学科[[Praxis|实践]]，即通过学科相关的技能或实践来应用知识。
 >
 > CDCM 的核心主张是，[[Knowledge-that and Know-how-to|知其然]]和[[Knowledge-that and Know-how-to|知其所用]]的连接是[[Surface and Deep Learning|深层学习]]的先决条件。当学生能够将所学知识应用于新情境，并清楚阐述知识之间的联系时，深层学习才真正发生。课程设计的目标是实现深层设计连贯性，即让课程设计与知识的认识论结构对齐，避免三种失衡，过于抽象（只讲概念）、过于拥挤（只堆事实）或过于工具化（只练技能）。
 
@@ -165,7 +168,7 @@ citation_aliases:
 > [!info] [[Social Realism|社会实在论]]的立场
 > [[Social Realism|社会实在论]]强调学科知识的重要性：
 > - 学科知识（如历史、生物、艺术等）是经过[[Recontextualization|再脉络化]]后用于教育目的的知识
-> - 主张所有学生都有权接触学科以概念为核心的认知方式，同时承认知识是社会建构的且会变化
+> - 主张所有学生都有权接触学科以概念为核心的[[Ways of Knowing|认知方式]]，同时承认知识是社会建构的且会变化
 > - 学科知识对年轻人的认知和社会发展具有独特价值，获得这种[[Powerful Knowledge|有力知识]]是公平的基础
 >
 > 从波普尔的实在论视角出发：
@@ -183,7 +186,7 @@ citation_aliases:
 >
 > **双文化主义**。毛利知识体系贯穿整个课程改革，为其提供了统一的主题和隐喻凝聚力：
 > - 课程文件声称 Te Mātaiaho 旨在落实怀唐伊条约的承诺，「旨在转变毛利人的教育不平等，给予毛利知识体系和毛利语言突出地位」（March 2023d, p.12）
-> - Siteine (2018) 提出了一个强烈的身份指令，[[Coding in Qualitative Research|编码]]在[[The New Zealand Curriculum|新西兰课程]]话语中：认为学业成就与民族身份认可之间存在[[Causality|因果关系]]，主张在课堂中运用文化价值观、语言和实践来实现这一目标
+> - Siteine (2018) 提出了一个强烈的身份指令，[[Coding in Qualitative Research|编码]]在[[The New Zealand Curriculum|新西兰课程]]话语中：认为学业成就与民族身份认可之间存在[[Causality|因果关系]]，主张在课堂中运用文化价值观、语言和[[Praxis|实践]]来实现这一目标
 > - 这一身份指令在课程改革中进一步强化
 >
 > **地方化**。地方化原则强调「与当地社区共同设计和审查学校课程」(p.5)，通过「与当地人民（tangata whenua）和社区的关系来学习」(p.6)：
@@ -194,7 +197,7 @@ citation_aliases:
 >
 > **道德原则**。两种伦理取向共同塑造了课程对理想公民的想象：
 > - 义务论伦理指导课程内容的选择：「Te Mātaiaho 是为所有学习者设计的课程，保障他们通过高质量学习体验获得归属和繁荣的权利」
-> - 美德伦理描绘了理想学生的画像：「学习者发展广泛和专门的知识，成长为有所贡献的本地和[[Global Citizenship|全球公民]]」(p.15)
+> - 美德伦理描绘了理想学生的画像：「学习者发展广泛和专门的知识，[[Growth|成长]]为有所贡献的本地和[[Global Citizenship|全球公民]]」(p.15)
 >
 > **三种再脉络化原则之间的张力**
 > - 毛利知识体系的核心关切与课程声称已转向关注学习进步和增长之间存在潜在矛盾——两者建立在不同的[[Ontology|本体论]]和认识论基础上(Hikuroa, 2017; Stewart, 2022)

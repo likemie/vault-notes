@@ -22,12 +22,15 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer]]"
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Return on Investment]]"
   - "[[Paradigm]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Innovation Hub]]"
+  - "[[Dialogue in Education]]"
+  - "[[Growth]]"
   - "[[Conatus]]"
   - "[[Literature Search]]"
   - "[[External Validity]]"
@@ -58,9 +61,9 @@ title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 31
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 journal: ""
@@ -94,7 +97,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 采用实践导向的综述与案例分析，非实证研究。方法包括：
+> 采用[[Praxis|实践]]导向的综述与案例分析，非实证研究。方法包括：
 > - 对国际 UI 合作[[Document|文献]]和行业报告（美国公立与赠地大学协会 APLU、[[University Industry Demonstration Partnership|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP）、Elsevier 等）的综合梳理
 > - 一手实践经验来源于 Mars（Wolf 和 Stevenson 所属机构）与 UC Davis（Siegel 所属机构）四十年的合作积累
 > - 三个[[Case Study|案例研究]]：水稻干湿交替灌溉（Alternate Wetting and Drying, AWD）、[[African Orphan Crops Consortium|非洲孤儿作物联盟]]（African Orphan Crops Consortium, AOCC）、[[Innovation Institute for Food and Health|食品与健康创新研究所]]（Innovation Institute for Food and Health, IIFH）
@@ -145,7 +148,7 @@ citation_aliases:
 >
 > 地缘政治的影响呈现明显的地域集中性。欧洲和北美大学的全球研究联系受到的限制大于拉丁美洲、加勒比、非洲和中东地区的大学，不同地区的研究者面对的"合作自由度"存在结构性差异。
 >
-> [[Nagoya Protocol|名古屋议定书]](2014)提供了另一种地缘政治维度的例证：各国对境内遗传资源拥有主权控制，利用这些资源产生的惠益须与来源国公平分享。但各国立法和实践不统一，行政程序复杂。它不直接禁止合作，但要求合作必须以合规为前提。
+> [[Nagoya Protocol|名古屋议定书]](2014)提供了另一种地缘政治维度的例证：各国对境内遗传资源拥有主权控制，利用这些资源产生的惠益须与来源国公平分享。但各国立法和[[Praxis|实践]]不统一，行政程序复杂。它不直接禁止合作，但要求合作必须以合规为前提。
 
 ---
 
@@ -197,9 +200,9 @@ citation_aliases:
 ---
 
 > [!success] 案例一：水稻干湿交替灌溉（AWD）
-> **起点**。Mars 植物科学负责人在分析加州氮评估的卫星数据时，注意到北加州稻田上空的氮氧化物云。这一观察触发了 Mars、UC Davis 和加州水稻委员会的对话(pp.319–320)。
+> **起点**。Mars 植物科学负责人在分析加州氮评估的卫星数据时，注意到北加州稻田上空的氮氧化物云。这一观察触发了 Mars、UC Davis 和加州水稻委员会的[[Dialogue in Education|对话]](pp.319–320)。
 >
-> **过程**。Mars 与 UC Davis（后加入阿肯色大学）合作研究国际水稻研究所（IRRI）开发的 AWD 技术：在安全生长期内允许稻田水自然消退至土表，而非持续淹灌。2011–2016 年间进行了系统研究和发表(Nalley et al., 2015)。早期结果说服了 USDA 自然资源保护局于 2018 年向阿肯色州 White River 灌区拨款，在约 10% 的水稻面积上推广类似水管理方案(p.320)。
+> **过程**。Mars 与 UC Davis（后加入阿肯色大学）合作研究国际水稻研究所（IRRI）开发的 AWD 技术：在安全[[Growth|生长]]期内允许稻田水自然消退至土表，而非持续淹灌。2011–2016 年间进行了系统研究和发表(Nalley et al., 2015)。早期结果说服了 USDA 自然资源保护局于 2018 年向阿肯色州 White River 灌区拨款，在约 10% 的水稻面积上推广类似水管理方案(p.320)。
 >
 > **跨国扩展**。UC Davis 将原位排放测量方法转移给 Mars 的欧洲稻米研究伙伴，Mars 随后将 AWD 推广至其亚洲供应链中的种植户。
 >

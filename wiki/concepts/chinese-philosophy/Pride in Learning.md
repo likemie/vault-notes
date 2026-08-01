@@ -9,7 +9,7 @@ aliases:
 summary: "学习成就中一种积极但文化变异显著的自我意识情感，西方以骄傲为正面情感，东亚以骄傲为双价情感——兼具正面与负面含义，以谦逊为骄傲的对立面"
 type: concept
 domain: "chinese-philosophy"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,9 +23,11 @@ related_concepts:
   - "[[Humility in Learning]]"
   - "[[Conatus]]"
   - "[[Western Learner]]"
+  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
+  - "[[Discourse Analysis]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_persons: []
 related_facts: []
@@ -78,9 +80,9 @@ updated: 2026-05-23
 ### 苏格拉底式辅导中的骄傲社会化
 
 > [!success]
-> Li 与 Heidi Fung 的母子对话研究（第 7 章）直接观察到了欧裔美国母亲如何通过日常对话将骄傲**主动教给**儿童([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> Li 与 Heidi Fung 的母子[[Dialogue in Education|对话]]研究（第 7 章）直接观察到了欧裔美国母亲如何通过日常对话将骄傲**主动教给**儿童([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
-在话语分析中，欧裔美国母亲将骄傲定位为对学习成就的**标准情感反应**。一个典型例子是母亲与八岁儿子 Ian 的对话：Ian 在班上出色地呈现了莎士比亚的《罗密欧与朱丽叶》，"每个人都印象深刻"。母亲明确指出两种骄傲：
+在[[Discourse Analysis|话语分析]]中，欧裔美国母亲将骄傲定位为对学习成就的**标准情感反应**。一个典型例子是母亲与八岁儿子 Ian 的对话：Ian 在班上出色地呈现了莎士比亚的《罗密欧与朱丽叶》，"每个人都印象深刻"。母亲明确指出两种骄傲：
 
 1. **父母的骄傲** 母亲说"So you wanted us to be proud"——让儿童知道他的成就给父母带来了骄傲
 2. **自我的骄傲** 母亲追问"Or you wanted to be proud of yourself?"——明确要求儿童**自己也应该为自己感到骄傲**，Ian 回答"Yeah"

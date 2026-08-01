@@ -7,7 +7,7 @@ summary: "美国教育史学家和课程理论家，学校改革史与技术乌�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Progressive Education]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
@@ -50,14 +51,14 @@ updated: 2026-07-13
 > [!success] 主要贡献
 > - [[Cuban's Curriculum Change Theory]] — 识别了课程变革的三类外部因素：[[Progressive Education|进步教育]]运动、冷战/国防、立法法律决定，以及影响力团体和关键个人的作用
 > - **教育改革的持久性分析** — 揭示了为何学校改革常常"失败"——不是因为变革没有发生，而是因为变革的持久性受限于体制惯性
-> - **教学法的技术变革批判** — 在"教师与机器"的研究中指出，技术变革很少真正改变课堂实践的核心模式
+> - **教学法的技术变革批判** — 在"教师与机器"的研究中指出，技术变革很少真正改变课堂[[Praxis|实践]]的核心模式
 
 ## 主要著作
 
 > [!abstract] 主要著作
 > - Cuban, L. (1992). Curriculum stability and change. In P. Jackson (Ed.), *Handbook of research on curriculum* (pp. 216-247). Macmillan. — 课程变革的核心理论框架
 > - Cuban, L. (1986). *Teachers and machines: The classroom use of technology since 1920*. Teachers College Press. — 教育技术变革的历史分析
-> - Cuban, L. (1993). *How teachers taught: Constancy and change in American classrooms, 1890-1990*. Teachers College Press. — 课堂教学实践的百年演变
+> - Cuban, L. (1993). *How teachers taught: Constancy and change in American classrooms, 1890-1990*. Teachers College Press. — 课堂教学[[Praxis|实践]]的百年演变
 
 ## 思想发展与影响
 

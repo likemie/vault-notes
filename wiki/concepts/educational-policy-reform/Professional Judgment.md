@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、开放的教学情境中整合研究知识、伦理标准和方法原则做出决策的能力，是把概率性的研究证据转化为具体教育行动的关键解释性中介"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -15,6 +15,7 @@ tags:
   - teacher-development
   - evidence-based-education
 related_concepts:
+  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Hypothesis]]"
@@ -54,7 +55,7 @@ updated: 2026-06-19
 ## 定义
 
 > [!def] 核心定义
-> 专业判断（Professional Judgment）是教师在复杂、非线性的教学情境中，基于专业知识、伦理标准和实践方法的整合，做出情境化教学决策的能力。在[[Evidence-Based Education|循证教育]]体系中，研究证据绝非可以直接套用的技术指令，而必须作为一种“概率性资源”，经过教师专业判断的反思与翻译，才能转化为适应特定课堂环境的教育行动。([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5–6; Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
+> 专业判断（Professional Judgment）是教师在复杂、非线性的教学情境中，基于专业知识、伦理标准和[[Praxis|实践]]方法的整合，做出情境化教学决策的能力。在[[Evidence-Based Education|循证教育]]体系中，研究证据绝非可以直接套用的技术指令，而必须作为一种“概率性资源”，经过教师专业判断的反思与翻译，才能转化为适应特定课堂环境的教育行动。([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5–6; Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 专业判断指向教师在不确定性和理性赤字条件下的反思与决策过程，是科学证据与实践情境之间的桥梁。
@@ -73,7 +74,7 @@ updated: 2026-06-19
 > [!contrast-table] 专业判断与技术执行的对照
 > | 维度 | [[Professional Judgment\|专业判断]] | 技术化执行 (Technocratic Implementation) |
 > |------|--------|----------------|
-> | **证据角色** | 作为概率性资源，需要情境化解释和权衡 | 作为行政指令或最佳实践，必须忠实遵循 |
+> | **证据角色** | 作为概率性资源，需要情境化解释和权衡 | 作为行政指令或最佳[[Praxis\|实践]]，必须忠实遵循 |
 > | **教育目标** | 关注“为了什么目的（to what ends）”与民主协商 | 关注“什么有效（what works）”与技术传递效率 |
 > | **教师定位** | 拥有自主权和反思能力的专业人员（Professional） | 接受数据审计的流水线装配工人（Technician） |
 > | **系统[[Hypothesis\|假设]]** | 学校是开放、复杂、充满主体能动性的系统 | 学校是封闭、可控、输入-输出的实验室系统 |
@@ -83,7 +84,7 @@ updated: 2026-06-19
 ## 核心要素
 
 > [!feature] 核心要素
-> - **伦理与帮助维度 (Helping Dimension)** 基于伦理标准的实践。专业人士在决策时，必须有明确的伦理视角以关照学生作为人的发展（[[Bildung]]），而非仅关注测试分数。([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 6]])
+> - **伦理与帮助维度 (Helping Dimension)** 基于伦理标准的[[Praxis|实践]]。专业人士在决策时，必须有明确的伦理视角以关照学生作为人的发展（[[Bildung]]），而非仅关注测试分数。([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 6]])
 > - **方法与执行维度 (Doing Dimension)** 基于方法论上明确的实践。教师能够引用科学的教育学原则与实践逻辑，有目的地引导教学过程。
 > - **认知与知识维度 (Knowing Dimension)** 实践由研究知识提供信息。教师积极获取并理解相关的概率性研究证据，作为决策的重要信息源。
 > - **反思实践循环 (Reflective Practice)** 包括“实践中反思”（持续自我评估）与“对实践的反思”（事后与同事协同研讨），将上述三个维度在具体教学交互中动态统合。([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 6; Schön, 1983]])
@@ -120,7 +121,7 @@ updated: 2026-06-19
 > 专业判断是抵御新自由主义审计文化对教师“去专业化”侵蚀的核心阵地。它主张必须将证据还原为概率性的启发资源，并在教学决策中重新引入价值与目的之探讨。
 
 > [!claim] 命题一：研究证据是概率性资源，而非绝对行动指令
-> 教育实践是一个由符号、意义和人类能动性交互构成的“开放系统”（Open System）。在开放系统中，任何干预措施的效果都受到具体背景（Context）的强力制约。因此，[[Quantitative Research|量化研究]]或[[Meta-analysis|元分析]]所提供的平均[[Effect Size|效应量]]仅能提供一种可能性的概率分布，它无法预测在特定班级、面对特定学生时的确定结果。教师必须运用专业判断，权衡当前的情境特征，决定是否以及如何借用这些证据。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16; Pawson, 2006]])
+> 教育[[Praxis|实践]]是一个由符号、意义和人类能动性交互构成的“开放系统”（Open System）。在开放系统中，任何干预措施的效果都受到具体背景（Context）的强力制约。因此，[[Quantitative Research|量化研究]]或[[Meta-analysis|元分析]]所提供的平均[[Effect Size|效应量]]仅能提供一种可能性的概率分布，它无法预测在特定班级、面对特定学生时的确定结果。教师必须运用专业判断，权衡当前的情境特征，决定是否以及如何借用这些证据。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 16; Pawson, 2006]])
 >
 > > [!warrant]- 命题一的支撑理由
 > > 根据[[Critical Realism|批判实在论]]和[[Realist Evaluation|实在论评估]]，干预项目的效果并非源于机械因果，而是取决于“受试者对资源的推理”。既然因果力量取决于受试者的能动反应，那么统一的数据指令（如“反馈最有效”或“教学助理低效”）在脱离了具体环境中的推理过程后便毫无指导意义，必须由教师通过专业判断来激活或规避相应的因果机制。([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 7, 12]])
@@ -140,7 +141,7 @@ updated: 2026-06-19
 
 > [!timeline] 概念演变
 > - **1982 — Luhmann & Schorr (技术赤字)** 提出教学系统存在根本的“技术赤字”，即干预的效果永远无法完全预测，要求教师必须具备[[Reflexivity|反思性]]判断力。
-> - **1983 — Schön (反思实践者)** 提出“实践中的反思”，系统奠定专业人员非技术化理性的反思决策模型。
+> - **1983 — Schön (反思[[Praxis|实践]]者)** 提出“实践中的反思”，系统奠定专业人员非技术化理性的反思决策模型。
 > - **2010 — Biesta (什么有效 vs. 为了什么目的)** 批判“什么有效”的技术官僚主义话语，指出教育的核心在于价值判断，为重建专业判断引入了教育终极价值之追问。
 > - **2018 — Wrigley (实在论视角下的证据还原)** 在 BERJ 中将证据界定为“概率性资源”，解构了新自由主义审计对专业判断的剥夺，提出方法论多元主义的改进共同体方案。
 

@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Encyclopaedism]]"
   - "[[Educated Identity]]"
+  - "[[Praxis]]"
   - "[[Global Policy Space]]"
   - "[[Floating Signifier]]"
   - "[[Going Native]]"
@@ -71,7 +72,7 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -90,7 +91,7 @@ issuing_organization: ""
 
 比较教育长期关注一个核心问题：当教育思想从一个地方传播到另一个地方时，它发生了什么变化？传统的回答诉诸文化、政治制度、经济环境等语境因素来解释这种变化。例如法国[[Encyclopaedism|百科全书主义]]在阿根廷和巴西被作出了不同的解读，形成了各自特定的[[Educated Identity|受教育身份]]定义(Hans, 1958, 引自 pp.347–348)。
 
-这个传统的问题在于它把语境等同于民族国家的地理边界，把变化理解为从一个国家到另一个国家的横向差异。但今天的教育政策话语早已不再局限于国家之间的传播。OECD、世界银行（The World Bank，WB）、联合国教科文组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）等机构在全球层面生产和推广教育理念；这些理念被各国政府采纳并写入政策文件；最终，教师和校长需要把这些政策转化为课堂实践。话语在每一层都经历了转化，而转化的逻辑每一层都不同。
+这个传统的问题在于它把语境等同于民族国家的地理边界，把变化理解为从一个国家到另一个国家的横向差异。但今天的教育政策话语早已不再局限于国家之间的传播。OECD、世界银行（The World Bank，WB）、联合国教科文组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）等机构在全球层面生产和推广教育理念；这些理念被各国政府采纳并写入政策文件；最终，教师和校长需要把这些政策转化为课堂[[Praxis|实践]]。话语在每一层都经历了转化，而转化的逻辑每一层都不同。
 
 本文的核心问题是：**全球、国家和学校实践这三个空间层面各自的结构属性和政治逻辑，如何系统性地影响了在其中流通的教育话语的转化机制？**
 
@@ -114,7 +115,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **流动空间与地方空间 (Space of Flows and Space of Places)**<br>[[Space of Flows and Space of Places]] | 用于区分地理定位的物理环境（地方空间，如具体的学校教室）与允许社会实践在非领土毗连下同时发生的物质安排（流动空间，如超国家信息网络），解释空间如何从地方中脱嵌(p.349)。 |
+> | **流动空间与地方空间 (Space of Flows and Space of Places)**<br>[[Space of Flows and Space of Places]] | 用于区分地理定位的物理环境（地方空间，如具体的学校教室）与允许社会[[Praxis\|实践]]在非领土毗连下同时发生的物质安排（流动空间，如超国家信息网络），解释空间如何从地方中脱嵌(p.349)。 |
 > | **网络社会理论 (Network Society)**<br>[[Network Society]] | 用于分析流动空间中运行的社会组织（网络）的自动机运作、纳入/排除的二元逻辑、无中心但有主导节点的权力结构以及跨网络互通的逻辑(pp.350–351)。 |
 > | **操演性概念 (Performativity)**<br>[[Performativity]] | Lyotard (1984) 的概念。用于解释[[Global Policy Space\|全球政策空间]]中机构的评估逻辑（优化输入产出比与追求最大影响力的操演性竞争），说明 [[Pragmatism in China\|pragmatism]]（[[Pragmatic Paradigm\|实用主义]]）如何压倒意识形态(pp.352–353)。 |
 
@@ -243,7 +244,7 @@ Castells 据此区分了两种空间逻辑：
 >   多中心网络在[[Performativity|操演性]]驱动下，将具体历史经验剥离，生产出兼具稳定性和可塑性的[[Floating Signifier|漂浮能指]]。
 > - **第二步：国家层面的选择性具体化与并置**
 >   国家在领土附着与[[Governance by Spin|舆论操控]]的交织中，将全球话语部分锚定于地方经验，形成革新与保守并存的混合话语。
-> - **第三步：实践层面的行动转化与物质约束**
+> - **第三步：[[Praxis|实践]]层面的行动转化与物质约束**
 >   学校实践面对行动一致性要求与物质条件制约，必须消解国家话语的矛盾，进行根本性的重新解释与[[Going Native|本土化]]。
 
 ---
@@ -439,7 +440,7 @@ Castells 据此区分了两种空间逻辑：
 > [!finding-cards] 核心发现
 > 1. **[[Space of Flows and Space of Places|流动空间]]塑造话语机制** 全球教育网络受网络逻辑与[[Performativity|操演性]]驱动，为了获取最大的接受度，强制生产出脱离历史经验的、可塑且相对稳定的“[[Floating Signifier|漂浮能指]]”话语。(pp.350–353)
 > 2. **国家层面具体化并置** 国家在翻译全球话语时，因网络国家特征和[[Governance by Spin|舆论操控]]需要，在政策文件中并置“革新”与“保守”的矛盾声明（如巴西课程中的跨学科与14门独立学科共存）。(pp.355–358)
-> 3. **实践中不一致化为障碍** 在具体学校实践中，政策文本层面的矛盾转变为实际行动障碍，实践者面临教学行动的“一致性要求”，被迫为模糊字眼分配明确的定义。(pp.358–359)
+> 3. **[[Praxis|实践]]中不一致化为障碍** 在具体学校实践中，政策文本层面的矛盾转变为实际行动障碍，实践者面临教学行动的“一致性要求”，被迫为模糊字眼分配明确的定义。(pp.358–359)
 > 4. **微观[[Transfer Translation Transformation|转译]]的物质约束** 全球话语的[[Going Native|本土化]][[Shape-Shifting|形变]]受制于既有认知框架（如用行为目标[[Absorptive Capacity|吸收能力]]）以及所处领土的物质现实（如布宜诺斯艾利斯郊区的“尊重多样性”转译为对贫困的默许）。(pp.358–361)
 
 ---
@@ -461,7 +462,7 @@ Castells 据此区分了两种空间逻辑：
 >
 > *“The communicative power of these discourses resides in this complex combination between stability and malleability, and between discursive limitations and reinterpretation.”*
 
-> [!citation-card]- 实践层面的不一致障碍
+> [!citation-card]- [[Praxis|实践]]层面的不一致障碍
 > 在将政策话语转化为实践的过程中，不一致是一个障碍，而不是政治谈判的机会。(p.359)
 >
 > *“In the process of transformation of policy discourse into practice, incoherence is an obstacle and not an opportunity for political negotiation.”*
@@ -476,7 +477,7 @@ Castells 据此区分了两种空间逻辑：
 ## 自述局限
 
 > [!warning] 自述局限
-> 本文明确承认分析范围的局限(pp.348, 355, 361)。三个语境之间并非只有全球→国家→实践这一条流通路径：存在不经过国家的全球学校网络直接交换信息，也存在对某些全球影响几乎完全不渗透的国家。文中的命题是探索性的（exploratory propositions），仅勾勒了一种特定的、在当代最具典型性的流通路径，并未试图构建关于三个语境互动的完备理论。此外，不同行动者类型（国际机构、企业、区域组织和大学）各自有其组织逻辑影响话语类型，本文强调的是[[Global Policy Space|全球政策空间]]作为整体的结构属性作为一个额外但重要的解释因素，并未否认行动者逻辑的差异性。
+> 本文明确承认分析范围的局限(pp.348, 355, 361)。三个语境之间并非只有全球→国家→[[Praxis|实践]]这一条流通路径：存在不经过国家的全球学校网络直接交换信息，也存在对某些全球影响几乎完全不渗透的国家。文中的命题是探索性的（exploratory propositions），仅勾勒了一种特定的、在当代最具典型性的流通路径，并未试图构建关于三个语境互动的完备理论。此外，不同行动者类型（国际机构、企业、区域组织和大学）各自有其组织逻辑影响话语类型，本文强调的是[[Global Policy Space|全球政策空间]]作为整体的结构属性作为一个额外但重要的解释因素，并未否认行动者逻辑的差异性。
 
 ---
 

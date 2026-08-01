@@ -5,7 +5,7 @@ aliases:
 summary: "逻辑学中因误解术语含义、适用范围或使用方式而产生的推理错误，用于分析政策和研究话语中的证据误用现象。"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,8 +19,10 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
+  - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts: []
@@ -37,7 +39,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 实质谬误（material fallacies）是逻辑学中一类推理错误的分类，指"在理解术语的含义或用法方面的错误"（Kreeft, 2010, p.85）。与形式谬误（formal fallacies，推理结构本身无效）不同，实质谬误源于语言使用中的歧义、模糊或含混。当术语被模糊、不清晰或含糊地使用时，公共政策论述即出现问题。
 >
-> [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 将实质谬误概念引入教育政策话语分析，用以审查教育研究证据在政策建议中被误用的现象。
+> [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] 将实质谬误概念引入教育政策[[Discourse Analysis|话语分析]]，用以审查教育研究证据在政策建议中被误用的现象。
 >
 > > "Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague."（ONeill, 2012, p.153）
 
@@ -58,7 +60,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[Effect Size]] — 效应量的误用是实质谬误的一种表现：政策行动者直接从一维统计效应量排名中挑选政策方案，而不考虑效应量背后的研究语境和局限性
-> - vs [[Evidence-Based Education]] — 实质谬误是 EBE 实践中的一种具体病理：不是证据本身有问题，而是证据在政策论述中被误用的方式
+> - vs [[Evidence-Based Education]] — 实质谬误是 EBE [[Praxis|实践]]中的一种具体病理：不是证据本身有问题，而是证据在政策论述中被误用的方式
 
 ## 实证发现
 

@@ -2,14 +2,13 @@
 title: CNCS Evidence Exchange
 aliases:
   - CNCS证据交流平台
-  - EE
 summary: "只审查 CNCS 自身资助项目和干预的公共清算中心，提供项目证据评级与资助决策支持"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -20,6 +19,7 @@ tags:
 - evidence-based-education
 - region/us
 related_concepts:
+  - "[[Extended Essay]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Literature Search]]"
   - "[[Evidence-Based Education]]"
@@ -43,7 +43,7 @@ updated: '2026-05-18'
 ## 概述
 
 > [!info] 概述
-> CNCS Evidence Exchange（EE）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖社会和经济福利、教育、社会与行为发展、健康和劳动；目标人群覆盖 youth、veterans、military families、tribes、schools、rural/urban/suburban/low-income communities 和 nonprofits；资金组织类型为 public；评级对象为项目和干预（programs and interventions）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
+> CNCS Evidence Exchange（[[Extended Essay|EE]]）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖社会和经济福利、教育、社会与行为发展、健康和劳动；目标人群覆盖 youth、veterans、military families、tribes、schools、rural/urban/suburban/low-income communities 和 nonprofits；资金组织类型为 public；评级对象为项目和干预（programs and interventions）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
 
 ## 评级对象与范围
 

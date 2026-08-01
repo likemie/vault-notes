@@ -5,10 +5,10 @@ aliases:
 summary: "一种被剥离具体历史语境含义的符号，其传播力来自在不同接收语境中被差异化解读和重组的潜能，在教育研究中用于解释全球政策话语为何能跨越迥异的政治文化语境被广泛接受"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/educational-transfer
   - theme/global-education-governance
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Global Policy Space]]"
   - "[[Postmodernism]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Network Society]]"
 related_methods:
@@ -105,4 +106,4 @@ updated: 2026-06-24
 > - **能力话语的漂浮与降落**
 >   “能力”（Competency）概念起源于企业管理及后福特主义劳动组织需求（泰勒制到丰田制的转型）。但在[[Global Policy Space\|全球政策空间]]中被再生产时，其历史起源被模糊。[[OECD]] 报告将其重塑为“21世纪学习者素养”的普遍教育命题。在落地巴西等国时，它被与传统的百科全书式必修科目并置，化为既革新又保守的杂糅政策。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 353–354]])
 > - **多样性话语的脱脉络化**
->   “尊重多样性”起源于[[Postmodernism|后现代主义]]对宏大叙事的解构与多元文化运动。进入全球空间后，它被剥离了具体的抗争语境，成为抽象口号。这使其可以被反种族主义、包容教育或新自由主义等各种政治语境任意填充。在阿根廷贫民区学校的实践中，它甚至被教师重新[[Coding in Qualitative Research|编码]]为“尊重贫困”，成为推卸教学质量责任的保护伞。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 354–355]])
+>   “尊重多样性”起源于[[Postmodernism|后现代主义]]对宏大叙事的解构与多元文化运动。进入全球空间后，它被剥离了具体的抗争语境，成为抽象口号。这使其可以被反种族主义、包容教育或新自由主义等各种政治语境任意填充。在阿根廷贫民区学校的[[Praxis|实践]]中，它甚至被教师重新[[Coding in Qualitative Research|编码]]为“尊重贫困”，成为推卸教学质量责任的保护伞。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 354–355]])

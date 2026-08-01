@@ -6,9 +6,9 @@ summary: "一种以批判理论为根基的研究方法论，通过揭露父权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/feminist
@@ -17,9 +17,11 @@ tags:
 related_concepts:
   - "[[Positivism]]"
   - "[[Knowledge Production]]"
+  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Consequential Validity]]"
+  - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
   - "[[Theory of Knowledge]]"
@@ -58,7 +60,7 @@ updated: '2026-07-21'
 > [!method-scope] 方法范围
 > - **研究对象** 女性的生活经验、性别压迫机制、父权制[[Knowledge Production|知识生产]]、教育中的性别不平等。
 > - **问题类型** 回答"谁的""为谁""在谁的利益中"等权力问题，揭示被沉默的声音和被压制的经验。
-> - **分析单位** 性别作为经验类别、制度过程、话语实践。
+> - **分析单位** 性别作为经验类别、制度过程、话语[[Praxis|实践]]。
 > - **输出形式** 赋权行动、女性声音呈现、性别权力分析、变革实践。
 
 > [!citation-card]- 关键定义
@@ -78,7 +80,7 @@ updated: '2026-07-21'
 
 > [!method-stack] 方法层级
 > - **研究设计** 女性主义[[Action Research|行动研究]]、[[Participatory Research|参与式研究]]、[[Ethnography|民族志]]。
-> - **数据收集** 引导式对话（而非标准化访谈）、个人证词、口头叙事、长访谈、自传性材料。
+> - **数据收集** 引导式[[Dialogue in Education|对话]]（而非标准化访谈）、个人证词、口头叙事、长访谈、自传性材料。
 > - **分析方法**[[Ideology Critique|意识形态批判]]、解构、意识提升、文本分析。
 > - **辅助技术**[[Triangulation|三角互证]]、多方法、视觉技术（录像、照片、电影）、[[Meta-analysis|元分析]]、会话分析。
 
@@ -95,7 +97,7 @@ updated: '2026-07-21'
 > 4. 使用多种研究方法的多元性。
 > 5. 女性主义研究的跨学科性质。
 > 6. 研究者和被研究者的共同参与。
-> 7. 解构理论/实践关系。
+> 7. 解构理论/[[Praxis|实践]]关系。
 
 ### 女性主义研究方法论原则
 
@@ -127,7 +129,7 @@ updated: '2026-07-21'
 ## 资料与分析
 
 > [!method-stack] 资料与分析摘要
-> - **资料类型** 个人证词、口述叙事、长访谈、引导式对话、自传体材料、敏感议题的[[In-depth Interview|深度访谈]]。
+> - **资料类型** 个人证词、口述叙事、长访谈、引导式[[Dialogue in Education|对话]]、自传体材料、敏感议题的[[In-depth Interview|深度访谈]]。
 > - **资料质量** 女性主义研究质疑传统"rapport"（融洽关系）的概念——标准化的非互惠访谈关系利用了被访者（Oakley, 1981）。[[Informed Consent|知情同意]]需在探索性访谈中持续重新协商（Duncombe and Jessop, 2002）。
 > - **分析策略**[[Ideology Critique|意识形态批判]]——揭示性别权力关系；文本解构——分析关于女性的文本中的权力运作；意识提升——将个人经验政治化。
 > - **质量控制** 关注研究对参与者的政治后果（[[Consequential Validity|结果效度]]）；警惕"假装友谊"以获取数据的不诚实做法（Duncombe and Jessop, 2002: 108）。
@@ -164,7 +166,7 @@ updated: '2026-07-21'
 > |---|---|---|
 > | [[Ideology Critique]] | 理论基础 | 女性主义研究将意识形态批判聚焦于性别权力和父权制[[Knowledge Production\|知识生产]]。 |
 > | [[Participatory Research]] | 亲缘方法 | 两者都强调赋权和平等参与；PR 更聚焦社区发展，女性主义研究更聚焦性别压迫。 |
-> | [[Action Research\|行动研究]] | 实践工具 | 女性主义行动研究（如 [[Girls Into Science and Technology Project\|GIST]] 项目）将性别意识融入行动和研究的整合中。 |
+> | [[Action Research\|行动研究]] | [[Praxis\|实践]]工具 | 女性主义行动研究（如 [[Girls Into Science and Technology Project\|GIST]] 项目）将性别意识融入行动和研究的整合中。 |
 
 ---
 

@@ -10,7 +10,7 @@ subtype: policy
 region: belgium
 fact_region: "belgium"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Evidence-Based Reform]]"
   - "[[Paradigm]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -74,6 +75,6 @@ updated: 2026-05-24
 
 > [!example]
 > - [[Pact for Educational Excellence]] — 2015 年启动的结构性改革，直接回应该系统的绩效与公平问题([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.170]])。
-> - [[Grade Retention]] — 留级作为一般制度实践的主条目。
+> - [[Grade Retention]] — 留级作为一般制度[[Praxis|实践]]的主条目。
 > - [[Grade Retention in French-Speaking Belgium]] — 系统中最清晰的“证据充分但实践持续”的问题案例([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.165, 174]])。
 

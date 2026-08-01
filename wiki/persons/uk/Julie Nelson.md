@@ -7,10 +7,10 @@ summary: "英国教育研究者，证据知情实践概念整合与测量工具�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - julie-nelson
 - evidence-informed-practice
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Research Utilization]]"
   - "[[Professional Judgment]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
@@ -68,7 +69,7 @@ updated: '2026-06-08'
 
 > [!abstract] 主要著作
 > - Nelson, J., & [[Carol Campbell|Campbell, C.]] (2017). *[[Evidence-Informed Practice]] in education_ meanings and applications*. Educational Research, 59(2), 127–135. — 系统整理 [[Evidence-Informed Practice|EIP]] 的含义与应用。
-> - Nelson, J., & O'Beirne, C. (2014). *Using evidence in the classroom_ What works and why?* NFER. — 把课堂中的证据使用问题推向更具体的实践层面。
+> - Nelson, J., & O'Beirne, C. (2014). *Using evidence in the classroom_ What works and why?* NFER. — 把课堂中的证据使用问题推向更具体的[[Praxis|实践]]层面。
 > - Nelson, J., Mehta, P., Sharples, J., & Davey, C. (2017). *Measuring teachers' research engagement_ Findings from a [[Pilot Testing|pilot study]]*. [[Education Endowment Foundation]]. — 将教师研究参与度转化为可测量议题。
 
 ## 生平与职涯

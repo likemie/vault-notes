@@ -15,7 +15,7 @@ aliases:
 summary: "一手文献是由事件目击者或参与者作为直接记录而生产的文献，二手文献是通过对一手文献的分析形成的阐述。二者的区分并非文献的内在属性，而是取决于研究者的使用方式和研究问题。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,7 +25,9 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Analytic Framework]]"
+  - "[[Dialogue in Education]]"
   - "[[Reliability]]"
+  - "[[Praxis]]"
   - "[[Virtual Documents]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
@@ -60,7 +62,7 @@ updated: 2026-06-24
 > - **报告与议会记录** 政府、组织和压力团体的政策报告；英国的 Hansard（自1812年）和美国的 Congressional Record（自1873年）。
 > - **报纸与杂志** 报纸在事件后短时间内提供逐日公开记录（Vella, 2009）；学校杂志构成学校生活的官方记录，非官方杂志揭示内部辩论。
 > - **小说与戏剧** 不意在传达字面真相，但可表达关于社会经验的更深层真实，适用于研究文化形象和情感结构。
-> - **个人日记与信件** 日记提供事件后不久产生的私密证据（Blodgett, 1988）；信件具有对话性质，体现个人与制度之间的互动（Earle, 1999）。
+> - **个人日记与信件** 日记提供事件后不久产生的私密证据（Blodgett, 1988）；信件具有[[Dialogue in Education|对话]]性质，体现个人与制度之间的互动（Earle, 1999）。
 > - **自传与回忆录** 具有内省性，通常对早年生活和学校教育给予特别强调。
 
 > [!feature] 一手文献的判断标准
@@ -96,7 +98,7 @@ updated: 2026-06-24
 
 ## 一手/二手区分的边界模糊
 
-一手[[Document|文献]]和二手文献的基本区分在实践中被四种情形复杂化，包括以下四个模糊地带。
+一手[[Document|文献]]和二手文献的基本区分在[[Praxis|实践]]中被四种情形复杂化，包括以下四个模糊地带。
 
 > [!boundary] 四种模糊地带
 > - **自传** 作者是事件的目击者（一手特征），但通常在数十年后撰写，受记忆偏差影响；同时自传往往分析时代变迁（二手特征），如 Hobsbawm（2002）的自传《Interesting Times》。

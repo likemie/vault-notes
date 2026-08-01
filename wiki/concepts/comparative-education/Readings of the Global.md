@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen 用于分析比较教育在不同时期关注哪个世界的五阶段历史分期框架，从 18 世纪末的世俗化阅读到冷战后的全球化"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Global Citizenship]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[Floating Signifier]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
@@ -111,4 +112,4 @@ updated: 2026-07-10
 
 > [!challenges] 学科当代解读所面临的挑战与盲区
 > 1. **当代大叙事的缺位与旧[[Hypothesis|假设]]路径依赖** 在全球流行病、气候危机、乌克兰非核战争和太平洋经典大国竞争的历史时刻，学科仍在使用旧[[Hypothesis|假设]]确认自身身份。未来的重构工作无法被简单化为单一菜谱，且未来不应从已成为学术陈词滥调的“后新冠”等时效性词汇中推导，否则将导致理论与急剧变化的现实严重脱节。([[Argument_Cowen_2023_CE|Cowen, 2023, pp. 328–331]])
-> 2. **非西方去殖民化警示的区域缺失** 关于殖民主义与去殖民化的探讨不能仅聚焦于西方帝国，必须对非西方殖民实践（Non-Western colonisation）保持高度敏感。研究需引入谨慎而精确的区域警示，包括：印度尼西亚与西巴布亚（群岛内部同化）、印度与克什米尔（地缘争夺与限制）、日本与韩国（历史上的皇民化同化）、中国与西藏和新疆（现代化整合与人口文化重组）、缅甸与罗兴亚人（族群排斥与人权流散）、伊拉克与库尔德人（对自决权和语言的压制），避免陷入去历史化的“[[Floating Signifier|漂浮能指]]”和学术地方主义。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 329]])
+> 2. **非西方去殖民化警示的区域缺失** 关于殖民主义与去殖民化的探讨不能仅聚焦于西方帝国，必须对非西方殖民[[Praxis|实践]]（Non-Western colonisation）保持高度敏感。研究需引入谨慎而精确的区域警示，包括：印度尼西亚与西巴布亚（群岛内部同化）、印度与克什米尔（地缘争夺与限制）、日本与韩国（历史上的皇民化同化）、中国与西藏和新疆（现代化整合与人口文化重组）、缅甸与罗兴亚人（族群排斥与人权流散）、伊拉克与库尔德人（对自决权和语言的压制），避免陷入去历史化的“[[Floating Signifier|漂浮能指]]”和学术地方主义。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 329]])

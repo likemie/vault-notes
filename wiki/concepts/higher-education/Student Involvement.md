@@ -6,7 +6,7 @@ aliases:
 summary: "Astin 提出的概念，指学生投入到学习和校园生活中的生理与心理能量的数量和质量。"
 type: concept
 domain: "higher-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Academic and Social Integration]]"
+  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
@@ -82,7 +83,7 @@ updated: '2026-05-18'
 > 2. **涉入是一个连续统** 涉入程度随时间和投入对象的变化而变化，不同学生在同一活动上的涉入深浅各不相同
 > 3. **涉入兼具量与质的特征** 既可测量涉入的时间长度（量化），也可评估涉入的专注和投入程度（质性）
 > 4. **学习和发展成果与涉入质量成正比** 学生从教育活动中获得的学习和个人发展，直接取决于其在该活动中涉入的数量和质量
-> 5. **教育实践的有效性取决于其激发涉入的能力** 任何教育政策或实践的有效性，都可以通过其能够激发学生涉入的程度来衡量
+> 5. **教育[[Praxis|实践]]的有效性取决于其激发涉入的能力** 任何教育政策或实践的有效性，都可以通过其能够激发学生涉入的程度来衡量
 
 ---
 

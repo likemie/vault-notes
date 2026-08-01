@@ -31,7 +31,9 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[International Schools]]"
   - "[[Rote Learning]]"
+  - "[[Growth]]"
   - "[[Informationalization]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
@@ -57,7 +59,7 @@ title: "Argument_Cole_2005_JRIE"
 argument_key: "Argument_Cole_2005_JRIE"
 argument_display_title: "An examination of Hegelian and Spinozian philosophy and their relationships with the International Baccalaureate subject, Theory of Knowledge"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -106,7 +108,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **哲学阐释与文本互证**<br>Philosophical hermeneutics | 对比阐释黑格尔《精神[[Phenomenology\|现象学]]》（Phenomenology of Spirit）中的辩证意识形成、[[Bildung\|教化]]逻辑及《法哲学原理》（Elements of the Philosophy of Right）中的公民社会与市场体系，与斯宾诺莎《伦理学》（Ethics）中实体的一元属性、想象力、[[Conatus\|欲力]]及《神学政治论》（Tractatus Theologico-Politicus）中的群体力量等概念，解析两套哲学在教育目的、[[Student-Teacher Relationship\|师生关系]]与知识性质上的[[Ontology\|本体论]]分歧。（pp.212–215, 218, 222） |
-> | **经验批判与政策分析**<br>Experience critique & Policy analysis | 剖析[[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]官方指南（TOK Guide）中涉及认知者、认知方式与知识领域的三角结构，并结合创办人亚历克·彼得森（Alec Peterson）的历史[[Document\|文献]]，反思评估标准与实际课堂上师生权力互动的偏离，运用梅根·博勒（Megan Boler）的情感政治[[Analytic Framework\|分析框架]]剖析课堂上的情感落差（educational fallout）与权力运作。（pp.212–213, 215, 222） |
+> | **经验批判与政策分析**<br>Experience critique & Policy analysis | 剖析[[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]官方指南（TOK Guide）中涉及认知者、认知方式与知识领域的三角结构，并结合创办人[[Alec Peterson|亚历克·彼得森（Alec Peterson）]]的历史[[Document\|文献]]，反思评估标准与实际课堂上师生权力互动的偏离，运用梅根·博勒（Megan Boler）的情感政治[[Analytic Framework\|分析框架]]剖析课堂上的情感落差（educational fallout）与权力运作。（pp.212–213, 215, 222） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -153,7 +155,7 @@ issuing_organization: ""
 > [!exegesis]- 通俗教学案例：黑格尔式教化与辩证否定
 > - **直接状态** 在历史课讨论“历史人物评价”时，学生最初仅凭教科书的单一结论，认为某个历史人物是绝对的英雄。
 > - **辩证否定** 教师随后呈现该人物的私人日记、政敌的批评以及灾难性的政策结果等冲突性史料。学生原有的单一认知被打破，陷入认知失调和自我怀疑中，这构成了黑格尔哲学中的辩证否定。
-> - **理性扬弃** 经过激烈的[[Document|文献]]核对与课堂辩论，学生意识到必须将人物还原到复杂的历史脉络中评价。这种通过克服冲突、扬弃最初的盲信从而获得[[Critical Thinking|批判性思维]]的成长过程，正是黑格尔式教化（Bildung）的体现。然而，若教师只要求学生死记硬背这些反思步骤以应对考试，学生便会退化为被动接受哲学应试速成模板的空无的认知者。
+> - **理性扬弃** 经过激烈的[[Document|文献]]核对与课堂辩论，学生意识到必须将人物还原到复杂的历史脉络中评价。这种通过克服冲突、扬弃最初的盲信从而获得[[Critical Thinking|批判性思维]]的[[Growth|成长]]过程，正是黑格尔式教化（Bildung）的体现。然而，若教师只要求学生死记硬背这些反思步骤以应对考试，学生便会退化为被动接受哲学应试速成模板的空无的认知者。
 
 ---
 
@@ -191,7 +193,7 @@ issuing_organization: ""
 > - **链节二：后现代完美信息博弈**
 >   在高度数字[[Informationalization|信息化]]、数据公开透明的后现代阶段，纯粹的技术性知识已可自由获得。在能力对等的前提下，绩效表现的核心完全取决于想象力，即能否跨越学科界限、建立前所未有的联系或改写规则。（p.220）
 > - **链节三：斯宾诺莎课程作为滋养机制**
->   国际斯宾诺莎主义课程将情感、欲力和权力关系作为探索核心，不局限于传统学科划分，而是成为激发和训练这种跨学科想象力的创新滋养机制（feeder mechanism），通过群体力量探讨并解构当代的权力实践。（pp.220, 222）
+>   国际斯宾诺莎主义课程将情感、欲力和权力关系作为探索核心，不局限于传统学科划分，而是成为激发和训练这种跨学科想象力的创新滋养机制（feeder mechanism），通过群体力量探讨并解构当代的权力[[Praxis|实践]]。（pp.220, 222）
 
 > [!warrant]- 最终推理桥梁
 > - 后现代的知识爆炸和跨学科趋势要求教育必须打破僵化的分类思维。以解放想象力、关注情感政治为核心的斯宾诺莎课程模式，不再将教育视为融入社会分工的终点本身，而是将其定位为激发跨学科探索可能性的滋养站。这使学生能够灵活运用想象力解决当代复杂的权力与社会问题，达致真正的解放与喜悦状态。（pp.220, 222）
@@ -209,7 +211,7 @@ issuing_organization: ""
 > 1. **理性统治与被动应试的死结** 传统的[[Theory of Knowledge|知识论]]课程将理性作为学科[[Disciplina and Doctrina|规训]]，把学生设想为[[Empty Knower|空无的认知者]]，在应试体制下退化为对碎片化哲学知识简表的策略性[[Rote Learning|死记硬背]]，阻碍了真实反思。（pp.212–213）
 > 2. **情感政治作为认知的生产性源泉** 课堂在本质上是身体相遇的情感平面，学生的焦虑和叛逆属于情感政治范畴。通过想象力表征和重新组合这些情感，能将无意识影响转化为真正的理性与智识创新。（pp.214, 221–222）
 > 3. **后现代想象力作为游戏规则改变者** 在信息公开、技术垄断消失的后现代阶段，绩效取决于能否用想象力连接不同学科，如融合社会学与地理学。斯宾诺莎课程正是这种创新的滋养机制。（p.220）
-> 4. **群体力量的政治基石** [[International Spinozian Curriculum|国际斯宾诺莎主义课程]]配置群体力量，以对体制习惯与权力运作的批判实践为教学内核，而非像霍布斯、[[Jean-Jacques Rousseau|卢梭]]传统那样，培养国家契约式的主体。（pp.218, 222）
+> 4. **群体力量的政治基石** [[International Spinozian Curriculum|国际斯宾诺莎主义课程]]配置群体力量，以对体制习惯与权力运作的批判[[Praxis|实践]]为教学内核，而非像霍布斯、[[Jean-Jacques Rousseau|卢梭]]传统那样，培养国家契约式的主体。（pp.218, 222）
 
 ---
 
@@ -223,7 +225,7 @@ issuing_organization: ""
 > - **应试期望与顺从** 习惯于六门繁重学科的学生进入知识论教室时，带着强烈的主被动期待，将教师视为灌输答案的绝对主体，试图通过背诵碎片化的哲学知识简表（snapshots）与逻辑定义来应对外部评估，产生了强烈的认知焦虑。（pp.212–213）
 > - **情感混乱** 面对知识论没有固定教学大纲和标准答案的冲击，学生在课堂中表现出疏离、反叛、冷漠或高度焦虑等负面情感表现（affects）。（pp.215, 217）
 > 
-> **斯宾诺莎主义策略的实践**
+> **斯宾诺莎主义策略的[[Praxis|实践]]**
 > - **打破规范性行为法则** 当教师允许学生偏离语言上绝对正确的课堂行为规范，打破常规权力控制，并允许学生在身体的相遇中宣泄情感并开始对学习[[Hypothesis|假设]]产生建设性怀疑时，突破性的学习才真正发生。（p.212）
 > - **情感与[[Epistemology|认识论]]问题的交织** 许多看似棘手的认识论问题，例如如何证明客观真实存在，在课堂中本质上与学生自身的情感行为缠绕在一起。通过斯宾诺莎框架，教师不再将学生的负面情绪当成违纪行为排除，而是将其作为课堂的情感政治平面，用想象力对这些情感习惯进行探究和解构，从而化解学生的认知壁垒，达致学习上的喜悦状态。（pp.214–215, 222）
 
@@ -240,7 +242,7 @@ issuing_organization: ""
 > - **斯宾诺莎式内在（Spinozian Immanence）**
 >   - **学生设想** `6`，内在于无意识情感、充满欲望，即[[Conatus|欲力]]（conatus）的具身存在。（pp.214, 222）
 >   - **核心机制** 情感政治组合：通过身体的相遇和情感的流动，运用想象力表征和理性重组情感。（pp.214, 221）
->   - **教育终点** 群体力量的释放，批判和解构权力实践，获得探索的喜悦与解放。（pp.218, 222）
+>   - **教育终点** 群体力量的释放，批判和解构权力[[Praxis|实践]]，获得探索的喜悦与解放。（pp.218, 222）
 >   - **引用金句** 理性和直觉的发展在根本上依赖于想象力被确立为智识过程的基石。（p.214）
 
 ---

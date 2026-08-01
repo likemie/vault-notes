@@ -6,7 +6,7 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
 - paradigm/constructivist
 related_concepts:
   - "[[Performativity]]"
+  - "[[Praxis]]"
   - "[[Knowledge Production]]"
   - "[[Science and Technology Studies]]"
   - "[[International Education]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Ontology]]"
   - "[[Effect Size]]"
+  - "[[Ways of Knowing]]"
   - "[[Neo-Taylorism]]"
 related_theories:
   - "[[Sociology of Measurement]]"
@@ -57,7 +59,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> [[Performativity]] of Measurement（测量的生产性）是指：测量不仅仅是描述世界的中立行为，更是制造世界的生产性行为。measurement 一旦启动，就作用于世界，改变优先事项、影响行为、政策和实践([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7, 17–18]])。
+> [[Performativity]] of Measurement（测量的生产性）是指：测量不仅仅是描述世界的中立行为，更是制造世界的生产性行为。measurement 一旦启动，就作用于世界，改变优先事项、影响行为、政策和[[Praxis|实践]]([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7, 17–18]])。
 >
 > > "As soon as the measurement exercise begins, it acts upon the world, changing priorities and influencing behaviours, policies and practices."([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
 
@@ -65,7 +67,7 @@ updated: '2026-05-18'
 
 > [!note-] 历史沿革
 > - Woolgar (1991a, 1991b) 将 [[Performativity]] 整合进 [[Sociology of Measurement]] 框架([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6–7]])
-> - Pickering (1995) 使用"performativity"概念描述社会技术实践的世界制造特征([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
+> - Pickering (1995) 使用"performativity"概念描述社会技术[[Praxis|实践]]的世界制造特征([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
 > - Knorr Cetina (1999) 提出[[Knowledge Production|知识生产]]的"生产性"（productive）特征
 > - Mitchell (2002) 提出"赋予可计算性的特征"（investing a character of calculability）本身改变世界([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.17]])
 > - Law (2009a) 进一步将 performativity 发展为 [[Science and Technology Studies|STS]] 的核心分析概念
@@ -87,7 +89,7 @@ updated: '2026-05-18'
 > - 描述之前需要生产：世界必须先被改变才能变得可描述([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.15]])
 
 
-> [!abstract] 对批判实践的意义
+> [!abstract] 对批判[[Praxis|实践]]的意义
 > 如果测量是 productive 而非 descriptive，那么对测量的批判就不仅仅是[[Epistemology|认识论]]练习，而是政治论和存在论（ontological）的干预，是一种道德事业([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])。
 
 ## 与相关概念的区别
@@ -101,7 +103,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - **Latour 的"科学在行动"** — 关注科学实践如何制造事实，而非科学作为成品([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
+> - **Latour 的"科学在行动"** — 关注科学[[Praxis|实践]]如何制造事实，而非科学作为成品([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 > - **Scott 的"国家的视角"** — 排序和测量使治理成为可能，而排序和测量的行为本身改变世界(Scott, 1998;)
 > - **[[Science and Technology Studies]]** — Jasanoff 的共同生产（co-production）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态(Jasanoff, 2004, p.3;)
 > - **Bottani 的[[Epistemology|认识论]]** — "没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
@@ -117,7 +119,7 @@ updated: '2026-05-18'
 
 
 > [!success] 绩效问责制在[[School Leadership|学校领导力]]中的施行效应([[Argument_Møller_2017_EERJ|Møller, 2017]])
-> Møller从学校领导者体验的视角补充了 performativity 在实践层面的表现：
+> Møller从学校领导者体验的视角补充了 performativity 在[[Praxis|实践]]层面的表现：
 >
 > **绩效文化对学校的重塑([[Argument_Møller_2017_EERJ|Møller, 2017, p.381-382]])**
 > - 在许多国家，"标准"已成为学校改革者近乎"咒语"般的存在（p.382）
@@ -158,7 +160,7 @@ updated: '2026-05-18'
 >
 > **对批判实践的意义**
 >
-> VL 案例将 Gorur 的"两个层面的生产性"框架拓展至第三个维度——**隐喻层面的生产性** 不仅是测量行为本身制造世界（层面一），不仅是赋予可计算性特征改变世界（层面二），命名和隐喻的选择本身也在制造世界——"Visible Learning"这个名字不是中性的描述，而是一种施行性行动，为多层监控提供了合法性语言([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33-34]])。该隐喻将视觉特权化为唯一的认知方式，同时系统性抹除不可见、不可量化的教育维度——关怀、关系、情感、包容。对 VL 的批判因此不仅是[[Epistemology|认识论]]练习，而是"道德事业"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])，必须同时审问测量隐喻的文化政治。
+> VL 案例将 Gorur 的"两个层面的生产性"框架拓展至第三个维度——**隐喻层面的生产性** 不仅是测量行为本身制造世界（层面一），不仅是赋予可计算性特征改变世界（层面二），命名和隐喻的选择本身也在制造世界——"Visible Learning"这个名字不是中性的描述，而是一种施行性行动，为多层监控提供了合法性语言([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33-34]])。该隐喻将视觉特权化为唯一的[[Ways of Knowing|认知方式]]，同时系统性抹除不可见、不可量化的教育维度——关怀、关系、情感、包容。对 VL 的批判因此不仅是[[Epistemology|认识论]]练习，而是"道德事业"([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])，必须同时审问测量隐喻的文化政治。
 >
 > > 例：维多利亚州教育部要求职前教师进入教室后立即走向白板张贴学习意图（learning intentions），学校管理层禁止以任何其他方式开始上课（McKnight, 2016，引自）。这不是因为研究表明这一做法最有效，而是因为"可见性"的施行逻辑要求学习必须是可展示的——测量的存在（学习意图的可见证据）改变了教学行为本身。
 

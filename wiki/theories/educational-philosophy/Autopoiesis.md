@@ -5,7 +5,7 @@ aliases:
 summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织。在理性主义比较教育中，该理论解释了教育系统在世界社会同质化压力下的自我参照与本国折射机制；在后人类主义教育学中，它与共同制造（Sympoiesis）相对，作为分析系统自组织涌现、去中心化转型与防范知识殖民的重要理论资源。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 29
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Objectivism]]"
   - "[[Policy Borrowing]]"
+  - "[[Praxis]]"
   - "[[International Education]]"
   - "[[Going Native]]"
   - "[[Conatus]]"
@@ -141,7 +142,7 @@ updated: 2026-07-19
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于勾勒全球趋同与地方变异折射的博弈地图，把全球话语看作被借用的“原料”而非结果。
 > - **作为分析工具** 转化为[[Transfer Translation Transformation|转译]]、转化与[[Structural Coupling|结构耦合]]的分析维度，分析在[[Policy Borrowing|政策借用]]各个阶段中系统内部抵制的自我指涉机制。
-> - **作为批判视角** 批判将全球“最佳实践”视为技术中立客观知识的盲点，指出这忽视了系统自我参照的操作封闭性和地方认识论主权。
+> - **作为批判视角** 批判将全球“最佳[[Praxis|实践]]”视为技术中立客观知识的盲点，指出这忽视了系统自我参照的操作封闭性和地方认识论主权。
 
 ---
 
@@ -177,7 +178,7 @@ updated: 2026-07-19
 > > [!axis] Isomorphism vs Indigenisation
 > > 争论世界社会到底是向西方的同质化模型强制性收敛，还是通过本国的自参照独立运作发生无尽的折射与印记保留 (引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])。
 > > - **Meyer & Ramirez (2000)** 强调由于全球普世[[Cultural Models|文化模型]]的输出，教育政策呈现广泛的形式趋同。
-> > - **Jürgen Schriewer (2012)** 论证在形式趋同的外衣下，系统通过自创生的自我参照运行，实际上在大脑和实践层面发生着根深蒂固的[[Going Native|本土化]]重塑与拒绝。
+> > - **Jürgen Schriewer (2012)** 论证在形式趋同的外衣下，系统通过自创生的自我参照运行，实际上在大脑和[[Praxis|实践]]层面发生着根深蒂固的[[Going Native|本土化]]重塑与拒绝。
 
 > [!critique]- 批评索引
 > - [[Argument_Amos_2022_Springer|Amos, 2022]] — 批评自创生理论在应对晚期现代性关系伦理时，对 connectivity 和 response-ability 的敏锐度不足，需要用 sympoiesis 对抗[[Transhumanism|超人类主义]]的技术优化狂热。

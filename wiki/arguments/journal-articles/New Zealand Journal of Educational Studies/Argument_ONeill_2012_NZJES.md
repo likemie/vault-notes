@@ -9,7 +9,7 @@ title: "Argument_ONeill_2012_NZJES"
 argument_key: "Argument_ONeill_2012_NZJES"
 argument_display_title: "Material fallacies of education research evidence and public policy advice"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Familiarization]]"
 related_theories: []
 related_methods:
+  - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
 related_persons: []
 related_facts:
@@ -58,7 +59,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Material Fallacies]] — Kreeft (2010) 的逻辑分类：实质谬误是"在理解术语的含义或用法方面的错误"(p.85)，本文将其应用于教育政策话语分析
+> - [[Material Fallacies]] — Kreeft (2010) 的逻辑分类：实质谬误是"在理解术语的含义或用法方面的错误"(p.85)，本文将其应用于教育政策[[Discourse Analysis|话语分析]]
 > - [[Policy Entrepreneur]] — Mintrom (2000) 概念，用以理解政策行动者如何在教育改革话语中定位自身以倡导、塑造和获益
 
 ## 研究方法

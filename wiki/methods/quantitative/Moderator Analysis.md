@@ -7,7 +7,7 @@ summary: "元分析中识别和检验研究间效果变异来源的统计方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
+  - "[[Praxis]]"
   - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
@@ -62,7 +63,7 @@ updated: 2026-07-13
 >
 > **4. 解释与报告**
 >
-> 报告哪些调节变量显著解释了异质性，并讨论其对实践的含义。
+> 报告哪些调节变量显著解释了异质性，并讨论其对[[Praxis|实践]]的含义。
 
 ---
 
@@ -70,7 +71,7 @@ updated: 2026-07-13
 
 > [!success] 适用场景
 > - 当[[Meta-analysis|元分析]]发现研究间存在实质性[[Heterogeneity|异质性]]，需要理解变异来源时
-> - 当实践者需要知道"什么条件下效果更好"而非仅知道"平均效果多大"时
+> - 当[[Praxis|实践]]者需要知道"什么条件下效果更好"而非仅知道"平均效果多大"时
 > - Hattie（2015）主张元分析的价值不在于给出平均效应当作最终答案，而在于迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])
 > - 语音教学（phonics）的三项元分析得出不同的汇总[[Effect Size|效应量]]（0.41、0.27、0.30），部分原因就在于各元分析对调节变量的不同结论（如是否应在更年轻时开始语音教学、综合语音与分析语音孰优）([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])
 

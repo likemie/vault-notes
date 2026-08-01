@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 108
+person_related_count: 109
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Direct Instruction]]"
   - "[[Whole Language]]"
+  - "[[Dialogue in Education]]"
   - "[[Progressive Education]]"
   - "[[Positivism]]"
   - "[[Evidence-Based Education]]"
@@ -275,7 +276,7 @@ updated: '2026-06-08'
 
 > [!info] 传播观
 > - **”Know thy impact”与”证据本位”的区分** Hattie 表示从一开始就不喜欢”证据本位”这个词，因为它暗示背后没有思考。他将论述转向”Know thy impact”，认为后者更接近关注对学生的影响([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.256]])
-> - **翻译的单向概念** Hattie 将翻译理解为”我说什么，测试教师是否按我的意思理解了，如果没理解就是我们错了”。这种单向模型与教育研究中强调双向对话的翻译概念形成对比([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.254–255]])
+> - **翻译的单向概念** Hattie 将翻译理解为”我说什么，测试教师是否按我的意思理解了，如果没理解就是我们错了”。这种单向模型与教育研究中强调双向[[Dialogue in Education|对话]]的翻译概念形成对比([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, pp.254–255]])
 > - 主张学习必须是被学习者分享、承诺和理解的，以[[Progressive Education|进步教育]]哲学的语言包装[[Positivism|实证主义]]议程([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]])
 
 
@@ -372,7 +373,7 @@ updated: '2026-06-08'
 > - **[[Argument_ONeill_2012_NZJES|O'Neill (2012)]]** — 以 新西兰财政部 2011 年简报为案例，揭示了 Hattie 的《可见的学习》证据在政策论述中被脱离语境援引的具体机制。Treasury 援引"教学质量"证据论证可增加生师比，但 Hattie 本人明确反对、且该证据全部来自大学生评教研究对学校教育无相关性（详见 [[Argument_ONeill_2012_NZJES]]、[[Treasury Briefing on Student-Teacher Ratios]]）
 > - **[[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]** — 以"政策创业"框架系统追踪 Hattie 从 asTTle 到 Visible Classroom 的商业化轨迹，记录 2010–2014 年从 [[Cognition Education|Cognition Education]] 获得第三方付款（USD 10K → USD 223K），定性为公共福利、非营利和营利创业的"无缝融合"（详见 [[Argument_ONeill_2016_Report]]、[[Visible Learning Branding and Global Influences]]）
 > - **[[Argument_Eacott_2017_SLM|Eacott (2017)]]** — 以 Callahan (1962) 为历史框架论证澳大利亚[[School Leadership|学校领导力]]已屈服于"Hattie [[Cult of the Guru|大师崇拜]]"，定性 VL 为 [[Neo-Taylorism]]：将教学拆解为最小可测量单元，"与 100 多年前 Taylor 的工作相差不远"（详见 [[Argument_Eacott_2017_SLM]]、[[Visible Learning#大师崇拜]]）
-> - **[[Argument_Eacott_2019_IJLE|Eacott (2019)]]** — 以自身经历记录 Hattie 回应过程中的学术对话质量问题：Hattie 回应两天内被接收 vs 原论文"数月和多轮评审"；Eacott 被拒绝发表再回应（详见 [[Argument_Eacott_2019_IJLE]]、[[Visible Learning#Eacott (2019)]])
+> - **[[Argument_Eacott_2019_IJLE|Eacott (2019)]]** — 以自身经历记录 Hattie 回应过程中的学术[[Dialogue in Education|对话]]质量问题：Hattie 回应两天内被接收 vs 原论文"数月和多轮评审"；Eacott 被拒绝发表再回应（详见 [[Argument_Eacott_2019_IJLE]]、[[Visible Learning#Eacott (2019)]])
 > - **[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020)]]** — 从女性主义、[[Post-structuralism|后结构主义]]和能力批判视角提出七点文化政治批评：新自由主义监控、色情片逻辑类比、拒绝对话、忽视关怀伦理、接近法西斯主义、过度简化、能力主义假设（详见 [[Argument_McKnight_2020_Discourse]]、[[Visible Learning#文化政治七点批评]]）
 > - **[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]** — 从[[Neo-Taylorism|新泰勒主义]]视角记录 asTTle 的全景监控设计（"允许管理者监控全校六个科目"）和 Hattie 对教师的系统性贬低；从新自由主义视角追踪 VL 商业化中的利益冲突和"饥饿-危机-私有化"循环（详见 [[Visible Learning#Johnson & Janzen (2023) — 四角度系统批判]]）
 

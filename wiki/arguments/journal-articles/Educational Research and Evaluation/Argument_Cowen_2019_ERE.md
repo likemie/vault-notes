@@ -9,7 +9,7 @@ title: "Argument_Cowen_2019_ERE"
 argument_key: "Argument_Cowen_2019_ERE"
 argument_display_title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
+  - "[[Praxis]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
@@ -126,7 +127,7 @@ citation_aliases:
 >
 > ### 3. 透明幻象的代价
 >
-> 表面透明的 "what works" 标准**系统性地排除了**对一线专业实践至关重要的信息：
+> 表面透明的 "what works" 标准**系统性地排除了**对一线专业[[Praxis|实践]]至关重要的信息：
 >
 > - **理论基础** 为何干预有效？在什么条件下？——被 RCT 的设计排除在报告之外
 > - **系统/结构因素** 资源配置、政策环境、制度变化的角色——超出了学校/课堂层面的实验可测试范围
@@ -154,7 +155,7 @@ citation_aliases:
 >
 > 2. **[[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]作为"透明度技术"** 对主权者透明的简化结果，掩盖了被排除的理论背景和环境因素
 >
-> 3. **EBE 存在系统性"去理论化"** 不要求因果机制解释，只要求[[Effect Size|效应量]]估计——这背离有效实施干预所需的科学实践
+> 3. **EBE 存在系统性"去理论化"** 不要求因果机制解释，只要求[[Effect Size|效应量]]估计——这背离有效实施干预所需的科学[[Praxis|实践]]
 >
 > 4. **结构性盲区** EBE 方法论将系统层面问题（资源配置、政策环境、治理结构）排除在研究议程之外，同时声称追求教育公平
 >
@@ -196,7 +197,7 @@ citation_aliases:
 >
 > ### 对 EBE 贡献的保留肯定：批判中的平衡
 >
-> **批评内容** Cowen 在批判 EBE 的同时，承认 EBE 至少将**因果推论**问题带入专业关注领域——相比于此前教育政策中基于直觉或"最佳实践"朴素模仿的决策方式，EBE 对因果证据的要求本身是一种进步。这一保留肯定在批判文献中相对少见。
+> **批评内容** Cowen 在批判 EBE 的同时，承认 EBE 至少将**因果推论**问题带入专业关注领域——相比于此前教育政策中基于直觉或"最佳[[Praxis|实践]]"朴素模仿的决策方式，EBE 对因果证据的要求本身是一种进步。这一保留肯定在批判文献中相对少见。
 >
 > **意义** Cowen 的立场不是"废除 EBE"而是"改造 EBE"——他反对的不是证据的使用，而是特定方法论对证据定义的垄断及其与行政问责的捆绑。这使得 Cowen 的批判在政策辩论中比 Biesta 的全面重构方案更具操作性。
 >

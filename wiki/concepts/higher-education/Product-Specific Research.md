@@ -7,7 +7,7 @@ aliases:
 summary: "产学联合体中由单个成员独立出资、建立在所有成员共享的前竞争知识之上但涉及企业专有信息的研究项目，前景知识产权归赞助企业所有，构成联合体的技术转化工具"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Foreground IP]]"
   - "[[Research Translation]]"
+  - "[[Praxis]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
 related_methods: []
@@ -47,7 +48,7 @@ updated: 2026-05-28
 ## 核心要素
 
 > [!abstract]
-> 基于 [[Advanced Manufacturing Research Centre|AMRC]] 的制度实践（pp.114–115）：
+> 基于 [[Advanced Manufacturing Research Centre|AMRC]] 的制度[[Praxis|实践]]（pp.114–115）：
 
 1. **独立于联合体协议** 产品专项项目的协议单独建立和资助，不走联合体的会员年费资金池。这使得每个项目可以有自己的 IP 条款、交付物和保密要求
 2. **企业专有信息的注入** 产品专项研究的[[Necessary and Sufficient Conditions|必要条件]]是赞助企业提供自己的专有信息。[[Precompetitive Research|前竞争研究]]使用所有成员都有权使用的通用知识，产品专项研究则加入了只有赞助企业才知道的具体参数——例如特定型号涡轮发动机叶片的材料特性、工作温度和装配公差

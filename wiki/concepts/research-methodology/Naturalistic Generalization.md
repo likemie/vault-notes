@@ -6,7 +6,7 @@ aliases:
 summary: "质性研究中通过厚描述使读者自行判断研究发现与自身情境相似性的概括形式。不同于统计概括，其责任在读者而非研究者，可比较性和可翻译性是核心标准。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
   - "[[Theoretical End Point]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -91,7 +92,7 @@ LeCompte & Preissle（1993: 47）将[[Ethnography|民族志]]的概括性重释�
 > |------|----------|-------------|---------|
 > | 基础 | [[Random Sampling\|随机抽样]]和概率理论。 | 读者对案例情境与自身情境相似性的判断。 | [[Qualitative Research\|质性研究]]归纳逻辑的最终产物。 |
 > | 完成者 | 研究者（通过统计推断）。 | 读者（通过认知对照）。 | 研究者（通过主题归纳）。 |
-> | 代表对象 | 从样本到总体参数。 | 从案例到读者的实践情境。 | 从数据到理论模型。 |
+> | 代表对象 | 从样本到总体参数。 | 从案例到读者的[[Praxis\|实践]]情境。 | 从数据到理论模型。 |
 > | 适用范围 | [[Quantitative Research\|量化研究]]。 | 案例研究和[[Ethnography\|民族志]]。 | 质性研究各类设计。 |
 
 ---

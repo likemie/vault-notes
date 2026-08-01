@@ -5,9 +5,9 @@ summary: "结合量化与质性数据并通过特定设计进行整合的研究�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 48
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 50
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags: [mixed-methods, research-methodology]
 related_concepts:
@@ -20,11 +20,13 @@ related_concepts:
   - "[[Metainferences]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm Wars]]"
+  - "[[Dialogue in Education]]"
   - "[[Research Utilization]]"
   - "[[Positivism]]"
   - "[[Objectivism]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Fitness for Purpose]]"
   - "[[Postpositivism]]"
   - "[[Data Transformation]]"
@@ -126,7 +128,7 @@ updated: 2026-07-11
 
 ### 范式战争
 
-混合方法研究的兴起根植于量化与质性方法之间的"[[Paradigm Wars|范式战争]]"（paradigm wars, Gage, 1989）。混合方法研究认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"（Gorard and Smith, 2006: 61），主张更少的对抗、更多的趋同（Brannen, 2005）和更大的对话（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+混合方法研究的兴起根植于量化与质性方法之间的"[[Paradigm Wars|范式战争]]"（paradigm wars, Gage, 1989）。混合方法研究认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"（Gorard and Smith, 2006: 61），主张更少的对抗、更多的趋同（Brannen, 2005）和更大的[[Dialogue in Education|对话]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ### 发展里程碑
 
@@ -144,7 +146,7 @@ updated: 2026-07-11
 
 [[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和[[Epistemology|认识论]]为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而混合方法取向则以[[Pragmatic Paradigm|实用主义]]（pragmatism）的本体论和认识论为前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
-实用主义本质上是实践驱动的（practice-driven, Denscombe, 2008: 280）：
+实用主义本质上是[[Praxis|实践]]驱动的（practice-driven, Denscombe, 2008: 280）：
 
 > [!finding-cards]
 > - **真理的多元性** 真理和实在可能同时存在单一版本和多重版本，有时主观有时客观
@@ -238,7 +240,7 @@ Caracelli & Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_Mor
 
 ## 是否为真正的新范式
 
-关于混合方法研究是否真正构成一个新[[Paradigm|范式]]仍存在开放争论（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。倡导者推崇它由[[Pragmatic Paradigm|实用主义]]驱动、能对真实问题给出真实答案；但混合方法在实践中已存在多年，深层结构仍然是量化和质性两种范式。只要有必要和相关，就应当结合使用多种方法，但不必急于判断它是否构成一个新范式。
+关于混合方法研究是否真正构成一个新[[Paradigm|范式]]仍存在开放争论（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。倡导者推崇它由[[Pragmatic Paradigm|实用主义]]驱动、能对真实问题给出真实答案；但混合方法在[[Praxis|实践]]中已存在多年，深层结构仍然是量化和质性两种范式。只要有必要和相关，就应当结合使用多种方法，但不必急于判断它是否构成一个新范式。
 
 ---
 

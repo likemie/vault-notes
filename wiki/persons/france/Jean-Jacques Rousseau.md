@@ -7,10 +7,10 @@ summary: "法国启蒙思想家与教育哲学家，以《爱弥儿》《社会�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/france
 - region/switzerland
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Western Learner]]"
   - "[[Ideal Learner]]"
   - "[[Progressive Education]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -118,7 +119,7 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning]
-> - **理论与实践的矛盾** 卢梭写了最富影响力的教育著作，却将自己的五个孩子全部送进了育婴堂（孤儿院）。伏尔泰是第一个公开揭露这一矛盾的批评者。卢梭在《忏悔录》中为自己的行为辩解，但这一事实至今是卢梭研究的核心争议
+> - **理论与[[Praxis|实践]]的矛盾** 卢梭写了最富影响力的教育著作，却将自己的五个孩子全部送进了育婴堂（孤儿院）。伏尔泰是第一个公开揭露这一矛盾的批评者。卢梭在《忏悔录》中为自己的行为辩解，但这一事实至今是卢梭研究的核心争议
 > - **"迫使自由"的危险** 卢梭在《社会契约论》中写道"任何人拒绝服从公意，全体将迫使他服从——这恰恰意味着迫使他自由"。这一表述被后世解读为极权主义的思想源头——以"自由"之名剥夺自由（待核）
 > - **性别角色** 《爱弥儿》第五卷中，卢梭为爱弥儿的伴侣苏菲（Sophie）设计了完全不同的教育——女性的教育应为服务男性而设计。这一性别观在当代被视为卢梭教育思想的主要局限（待核）
 

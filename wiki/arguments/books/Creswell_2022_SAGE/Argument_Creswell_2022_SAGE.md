@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 184
+argument_related_count: 186
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -72,6 +72,7 @@ related_concepts:
   - "[[Integration Statement]]"
   - "[[Document]]"
   - "[[Emergence]]"
+  - "[[Praxis]]"
   - "[[Positivism]]"
   - "[[Fitness for Purpose]]"
   - "[[Questionnaire]]"
@@ -133,6 +134,7 @@ related_concepts:
   - "[[External Auditor]]"
   - "[[Intercoder Agreement]]"
   - "[[Qualitative Generalization]]"
+  - "[[Dialogue in Education]]"
   - "[[Multimethod Research]]"
   - "[[Data Transformation]]"
   - "[[Outcomes-based Education]]"
@@ -350,7 +352,7 @@ citation_aliases:
 
 ---
 
-**第三层：哲学世界观。** 世界观是"引导行动的一套基本信念"(Guba, 1990, p.17)，位于研究路径选择的最底层，通常隐而不显但深刻影响研究实践。四种世界观的核心假设逐一展开如下。
+**第三层：哲学世界观。** 世界观是"引导行动的一套基本信念"(Guba, 1990, p.17)，位于研究路径选择的最底层，通常隐而不显但深刻影响研究[[Praxis|实践]]。四种世界观的核心假设逐一展开如下。
 
 > [!quote]
 > “我们选择使用‘世界观’一词，意思是‘指导行动的一套基本信念’(Guba, 1990, p. 17)。”
@@ -1558,7 +1560,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 **第八步：写作策略。** 质性报告的基本程序是从数据中发展描述和主题，呈现多重视角和详细描述。
 > [!tip]- 六种写作策略
-> (1) 引语；(2) 对话；(3) 多样化叙事形式（矩阵、比较表、图表）；(4) 第一人称代词；(5) 隐喻和类比；(6) 与特定策略相关的叙事形式(p.216)。
+> (1) 引语；(2) [[Dialogue in Education|对话]]；(3) 多样化叙事形式（矩阵、比较表、图表）；(4) 第一人称代词；(5) 隐喻和类比；(6) 与特定策略相关的叙事形式(p.216)。
 
 ---
 

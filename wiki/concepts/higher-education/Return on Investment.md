@@ -8,7 +8,7 @@ aliases:
 summary: "Swick 与 Jones（2025）在产学合作语境中提出的概念，指不同合作方对合作回报的根本差异化定义，分歧本身是合作的驱动力而非障碍，须通过终端用户中心的透镜重新审视各方回报"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
   - "[[Academic Health System]]"
   - "[[Counterfactual]]"
 related_theories:
@@ -62,7 +63,7 @@ updated: 2026-06-02
 ## 在产学合作中的意义
 
 > [!note]-
-> ROI 差异化定义对[[University-Industry Collaboration|产学合作]]的实践意涵（pp.191–192）：
+> ROI 差异化定义对[[University-Industry Collaboration|产学合作]]的[[Praxis|实践]]意涵（pp.191–192）：
 > - 合作谈判中不应试图消除各方的 ROI 差异，而应明确各方各自的回报预期，并在终端用户受益这一共同标准下验证对齐
 > - 医院和大学需要尊重产业在利润、股东和时间线方面的压力——必须创造能因吸引终端用户而为产业赢得利润的产品
 > - 产业需要尊重医院和大学对终端用户所负的保护义务——必须安全地开发、测试和实施新解决方案

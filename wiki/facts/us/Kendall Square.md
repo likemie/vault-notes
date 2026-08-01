@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[University-Industry Co-location]]"
   - "[[Innovation Park]]"
+  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Snowball Sampling]]"
@@ -77,7 +78,7 @@ updated: 2026-05-29
 > - 在全球举办超过 4,000 场活动
 > - 其客户累计吸引投资超过 170 亿美元
 >
-> 这些成果同时惠及大波士顿社区和各成员高校。CIC 与[[Innovation Park|研究园区]]在过去三十年中共同成长，验证了"密度就是命运"的理念——通过创建社交和专业活动中心，让创业者、学者和产业人士在同一个物理空间中自然碰撞，形成正向的投资与入驻循环（p.128）。
+> 这些成果同时惠及大波士顿社区和各成员高校。CIC 与[[Innovation Park|研究园区]]在过去三十年中共同[[Growth|成长]]，验证了"密度就是命运"的理念——通过创建社交和专业活动中心，让创业者、学者和产业人士在同一个物理空间中自然碰撞，形成正向的投资与入驻循环（p.128）。
 
 > [!success]
 > 肯德尔广场的成功已成为全球多个城市效仿的范本——从纽约的 Roosevelt Island 到伦敦的 King's Cross，再到上海的杨浦知识创新区——都在试图复现"研究型大学 + 联合办公 + 产业研发"的空间聚集模式（参见 p.128）。

@@ -4,7 +4,7 @@ aliases: ["术语定义", "操作性定义", "operational definition", "defining
 summary: "研究计划中对关键术语的精确界定，遵循操作化、首次出现即定义、使用文献约定语言等原则，在量化、质性和混合方法研究中有不同的处理策略"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Emergence]]"
   - "[[Metainferences]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -92,7 +93,7 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 ## 定义示例
 
 > [!example] VanHorn-Grassmeyer (1998) 的术语定义
-> 在一项关于高校学生事务新专业人员反思实践的[[Mixed Methods Research|混合方法研究]]中，VanHorn-Grassmeyer 在第一章的独立"Definition of Terms"节中详细定义了"Individual Reflection"和"Student Affairs Professional"两个关键术语。每个定义引用 Schon (1983)、Argyris & Schon (1978)、Baskett & Marsick (1992) 等[[Document|文献]]中的约定含义，展示了将术语定义建立在已有学术文献基础之上的做法（引自 Creswell & Creswell, 2022）。
+> 在一项关于高校学生事务新专业人员反思[[Praxis|实践]]的[[Mixed Methods Research|混合方法研究]]中，VanHorn-Grassmeyer 在第一章的独立"Definition of Terms"节中详细定义了"Individual Reflection"和"Student Affairs Professional"两个关键术语。每个定义引用 Schon (1983)、Argyris & Schon (1978)、Baskett & Marsick (1992) 等[[Document|文献]]中的约定含义，展示了将术语定义建立在已有学术文献基础之上的做法（引自 Creswell & Creswell, 2022）。
 
 ---
 

@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -43,9 +43,11 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Emergence]]"
   - "[[Haraway's SF]]"
+  - "[[Praxis]]"
   - "[[Humosity]]"
   - "[[Mondialisation]]"
   - "[[Epoché]]"
+  - "[[Dialogue in Education]]"
   - "[[Ubuntu]]"
   - "[[Buen Vivir]]"
   - "[[New Public Management]]"
@@ -232,7 +234,7 @@ citation_aliases:
 >
 > **Haraway：[[Haraway's SF|SF (Haraway)]] 叙事与 [[Sympoiesis]]**
 >
-> 如果说 Escobar 偏向"设计"，Haraway 则偏向"讲故事"。她的核心方法论是 **SF**——这个缩写同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今）。核心是：通过讲故事的实践，创造涉及人类与非人类多重行动者的关系模式(p.62)。
+> 如果说 Escobar 偏向"设计"，Haraway 则偏向"讲故事"。她的核心方法论是 **SF**——这个缩写同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今）。核心是：通过讲故事的[[Praxis|实践]]，创造涉及人类与非人类多重行动者的关系模式(p.62)。
 >
 > > 例：传统的环保教育可能讲的是"人类必须保护自然"——一个典型的以人类为中心的故事。Haraway 式的叙事则可能从一只蜜蜂的角度开始：蜜蜂如何感知花的颜色（蜜蜂能看到紫外线）、蜜蜂的采蜜行为如何塑造了花和农作物的进化、蜜蜂种群的崩溃如何牵连到你的早餐咖啡和苹果派。在这个故事里，没有人是"主角"，人和蜜蜂是共同演化、互相塑造的。
 >
@@ -256,7 +258,7 @@ citation_aliases:
 >
 > Escobar 依赖 Varela 的 *Ethical Know-How* (1999)——具体而言是"**自我的非固化**"（non-solidity of the self）概念：自我不是固态的、固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这种非固化，会产生一种根本性的**关爱心态（caring disposition）**。如何培育这种心态？不是通过理性干预、自我优化或规范灌输——而是通过**[[Epoché|悬置]]自我（suspension of the ego）**，通过那些有助于发展"非自我中心"习惯的训练。
 >
-> > 例：这里有一个直接的对比。超人类主义的教育技术：用 app 追踪你的学习进度、优化你的专注时间、评测你的认知水平——一切都是关于"你"的增强。Escobar-Varela 路径则建议：花时间在社区菜园里、学习与老人的跨代对话、练习关注他人的需要而非自己的成就——通过这些非自我中心的实践，发展出一种"我不需要站在宇宙中心"的习惯和感知方式。这两种路径的分歧不是技术问题，是关于"做一个人意味着什么"的根本立场分歧。
+> > 例：这里有一个直接的对比。超人类主义的教育技术：用 app 追踪你的学习进度、优化你的专注时间、评测你的认知水平——一切都是关于"你"的增强。Escobar-Varela 路径则建议：花时间在社区菜园里、学习与老人的跨代[[Dialogue in Education|对话]]、练习关注他人的需要而非自己的成就——通过这些非自我中心的实践，发展出一种"我不需要站在宇宙中心"的习惯和感知方式。这两种路径的分歧不是技术问题，是关于"做一个人意味着什么"的根本立场分歧。
 >
 > Amos 观察到一个有意味的"家族相似性"：Escobar 和 Haraway 的思想与非洲的 **[[Ubuntu]]**（"我存在，因为我们存在"）和拉丁美洲的 **[[Buen Vivir]]**（"好好生活"——不是更多消费，而是与自然和共同体的和谐共处）有亲和力，可能跟 Buen Vivir 的共鸣略多一些。这些非西方传统为后人类主义教育愿景提供了额外的文化和伦理资源(p.64)。
 >
@@ -288,7 +290,7 @@ citation_aliases:
 >
 > ### [[Transhumanism|超人类主义]]的根本困境
 >
-> Huxley (1957) 的超人类主义声称普世（"全人类一起超越"），但其实践逻辑——hyper-individualist、cost-intensive、依赖选择性增强——不可避免地制造排他性。谁是"完整的人"因而可以被优化？这不仅是分配问题，更是分类的政治。超人类主义与 Cowen 的市场驱动模型高度兼容：两者共享 individualism、劳动力分化和效率最大化逻辑(pp.58–59)。
+> Huxley (1957) 的超人类主义声称普世（"全人类一起超越"），但其[[Praxis|实践]]逻辑——hyper-individualist、cost-intensive、依赖选择性增强——不可避免地制造排他性。谁是"完整的人"因而可以被优化？这不仅是分配问题，更是分类的政治。超人类主义与 Cowen 的市场驱动模型高度兼容：两者共享 individualism、劳动力分化和效率最大化逻辑(pp.58–59)。
 >
 > ### [[Transition Design|转型设计]]的[[Ontology|本体论]]主张
 >

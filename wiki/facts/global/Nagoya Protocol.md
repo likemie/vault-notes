@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/intellectual-property
 related_concepts:
   - "[[Informed Consent]]"
+  - "[[Praxis]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
@@ -52,7 +53,7 @@ updated: 2026-06-02
 ## 对国际研究合作的影响
 
 > [!warning]
-> [[Nagoya Protocol|名古屋议定书]]在实践中带来了显著的行政复杂性（p.315）：
+> [[Nagoya Protocol|名古屋议定书]]在[[Praxis|实践]]中带来了显著的行政复杂性（p.315）：
 > - 各国可自行制定国内立法和最佳实践，操作规范不统一（Watanabe, 2015, cited on p.315）
 > - 需要获得来源国的采集许可；若未获得适当许可，后续的基因测序在原产国可能被视为非法
 > - 各种行政程序问题频发，增加国际研究合作的时间和合规成本

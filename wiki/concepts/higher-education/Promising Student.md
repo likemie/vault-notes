@@ -6,7 +6,7 @@ aliases:
 summary: "在竞争性大学治理中被数字化工具和制度期待建构出来的理想学生主体形态，强调自我评估、持续优化和风险管理。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 - theme/subjectification
 related_concepts:
   - "[[Online Self-Assessment]]"
+  - "[[Praxis]]"
   - "[[Performativity of Measurement]]"
   - "[[Conatus]]"
   - "[[Learning Analytics]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[Governmentality]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Bildung]]"
+  - "[[Growth]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods: []
@@ -60,7 +62,7 @@ updated: 2026-05-20
 
 ### 竞争性大学的地缘政治框架
 
-高等教育中的竞争力构成了一种地缘政治装置（geopolitical apparatus），通过 排名、指标化和比较实践重新组织大学行为。与此相关，[[Performativity of Measurement|测量的生产性]]意味着排名和指标不只是描述现实，更是重塑优先事项和行为([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.219–220]])。
+高等教育中的竞争力构成了一种地缘政治装置（geopolitical apparatus），通过 排名、指标化和比较[[Praxis|实践]]重新组织大学行为。与此相关，[[Performativity of Measurement|测量的生产性]]意味着排名和指标不只是描述现实，更是重塑优先事项和行为([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.219–220]])。
 
 在这一框架中，学生——包括学生满意度、学业成就和对项目的遵从——成为大学竞争的关键资源和媒介([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])。大学的竞争优势取决于其提供成功学习过程的能力，但这里存在一个悖论：大学竞争的是学生**潜在的未来[[Conatus|努力]]（potential future effort）**——在入学前尚未展现、但被期望在学习过程中发挥的表现。
 
@@ -95,6 +97,6 @@ updated: 2026-05-20
 > [!warning]
 
 - **个体化责任的过度赋予** 将学业成功框架为个人选择问题，忽视了结构性不平等——入学前的"起点差异"（如社会经济背景、学校质量）在 [[Online Self-Assessment|OSA]] 的自我反思框架中被转化为"个人需要弥补的不足"
-- **教育开放性的丧失** 当学生的未来被简化为"被预测的未来"（predicted future），教育的根本开放性——即 [[Bildung]] 所指向的不可预测的成长——被压缩为数据相关性([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
-- **批判的消解** 高等教育不只是知识和技能的获取，也包括对所呈现的知识采取批判性立场。当每个人都只关注自己的优化轨迹时，公共的学术交流空间和批判实践可能萎缩([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
+- **教育开放性的丧失** 当学生的未来被简化为"被预测的未来"（predicted future），教育的根本开放性——即 [[Bildung]] 所指向的不可预测的[[Growth|成长]]——被压缩为数据相关性([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
+- **批判的消解** 高等教育不只是知识和技能的获取，也包括对所呈现的知识采取批判性立场。当每个人都只关注自己的优化轨迹时，公共的学术交流空间和批判[[Praxis|实践]]可能萎缩([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 

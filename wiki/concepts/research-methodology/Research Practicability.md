@@ -8,7 +8,7 @@ aliases:
 summary: "研究规划的实操评估概念，涵盖研究准入、研究者自身、时间、资源、研究影响力和研究范围六个约束维度，以及对应的九项自检清单，确保研究在实际约束下可以完成"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Longitudinal Study]]"
@@ -141,5 +142,5 @@ updated: 2026-06-20
 5. 研究者在该领域是否有足够的经验、技能和专长？
 6. 是否能获得专业、有见识的指导？
 7. 该主题是否能在研究期间维持研究者的兴趣、创造力和积极态度？
-8. 研究是否能对实践产生影响？如果不能，它为何仍然重要？
+8. 研究是否能对[[Praxis|实践]]产生影响？如果不能，它为何仍然重要？
 9. 研究的边界是否清晰、现实且可管理？

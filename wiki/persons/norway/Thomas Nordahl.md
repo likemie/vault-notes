@@ -8,7 +8,7 @@ summary: "挪威教育学者与学校改进论者，Visible Learning 北欧支�
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
   - "[[Effect Size]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -61,7 +62,7 @@ updated: '2026-06-08'
 
 > [!success] 影响
 > - 在 `Paideia` [[Visible Learning|VL]]主题号的内部结构中，Nordahl 提供了明显的**支持方系统改进论述**，把 [[Visible Learning]] 从[[Effect Size|效应量]]讨论推进到学校组织、教师协作与证据[[Transfer Translation Transformation|转译]]层面([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, pp.6–8]])。
-> - 他的文章为本 vault 中 [[Evidence-Based Education]] 的“证据到实践转化”部分提供了一条清晰的学校改进链条，特别强化了 [[Professional Judgment]]、[[Knowledge Mobilisation]] 和组织能力之间的关系。
+> - 他的文章为本 vault 中 [[Evidence-Based Education]] 的“证据到[[Praxis|实践]]转化”部分提供了一条清晰的学校改进链条，特别强化了 [[Professional Judgment]]、[[Knowledge Mobilisation]] 和组织能力之间的关系。
 
 ## 主要著作
 
@@ -71,7 +72,7 @@ updated: '2026-06-08'
 ## 生平与职涯
 
 > [!note]- 生平与职涯
-> - 任 SePU、Høgskolen i Hedmark 教授，活跃于学校改进、学习环境与教育实践改革议题([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。
+> - 任 SePU、Høgskolen i Hedmark 教授，活跃于学校改进、学习环境与教育[[Praxis|实践]]改革议题([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, p.61]])。
 > - **2015** 年在 *Paideia* 发表 [[Argument_Nordahl_2015_Paideia]]，系统论证为何斯堪的纳维亚教育系统应以学习结果与研究证据作为改进基准([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–69]])。
 > - 同年所参与的 [[Argument_Hansen_2015_Paideia]] 导言把他的文章放在主题号的系统改进位置，用来支撑“[[Visible Learning]] 不只是研究结果，也是一种学校改进工程起点”的总体编排([[Argument_Hansen_2015_Paideia|Hansen et al., 2015, pp.6–8]])。
 

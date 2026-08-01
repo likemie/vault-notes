@@ -9,9 +9,9 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
 - region/hong-kong
@@ -20,6 +20,8 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
+  - "[[Dialogue in Education]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -38,7 +40,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> 进入 21 世纪后，[[International Education|国际教育]]快速增长，[[Chinese Learner|中国学习者]]在全球各级教育机构中的可见度显著提高。然而，大学研究者与中小学教师之间长期缺乏关于中国学习者的经验交流与对话——各自的认识局限于特定的专业圈层内([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
+> 进入 21 世纪后，[[International Education|国际教育]]快速增长，[[Chinese Learner|中国学习者]]在全球各级教育机构中的可见度显著提高。然而，大学研究者与中小学教师之间长期缺乏关于中国学习者的经验交流与[[Dialogue in Education|对话]]——各自的认识局限于特定的专业圈层内([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
 
 ---
 
@@ -54,7 +56,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success]
-> 该研讨会的价值以及就该主题进行持续对话的需求，直接催生了论文集《[[International Education]] and the [[Chinese Learner]]》([[Argument_Ryan_2010_HKUP|Ryan & Slethaug, 2010]])。该论文集汇集了中小学教师和大学教师撰写的九篇文章，从理论探讨和实践经验两个层面，考察了在国际情境中教授中国学习者的关切与可能性([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
+> 该研讨会的价值以及就该主题进行持续[[Dialogue in Education|对话]]的需求，直接催生了论文集《[[International Education]] and the [[Chinese Learner]]》([[Argument_Ryan_2010_HKUP|Ryan & Slethaug, 2010]])。该论文集汇集了中小学教师和大学教师撰写的九篇文章，从理论探讨和[[Praxis|实践]]经验两个层面，考察了在国际情境中教授中国学习者的关切与可能性([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
 
 ---
 

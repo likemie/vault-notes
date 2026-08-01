@@ -10,7 +10,7 @@ aliases:
 summary: "Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络和市场互动进行的集体学习活动，强调制度、网络和吸收能力对创新绩效的关键作用，1980–90年代后成为多国创新政策的主导范式"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
+  - "[[Growth]]"
   - "[[Technology Transfer]]"
   - "[[Hypothesis]]"
   - "[[Knowledge Transfer]]"
@@ -74,7 +75,7 @@ updated: 2026-05-27
 
 ### 前史："科学促增长"范式及其局限（1940s–1980s）
 
-创新[[Luhmann's Systems Theory|系统理论]]之前的主导政策[[Paradigm|范式]]——"科学促增长"（Science for Growth）——诞生于二战经验与冷战需求。大规模政府研发投资（尤其在研究型大学）在二战期间催生了重大发现和创新（如曼哈顿计划、MIT 辐射实验室的雷达研究），向政策制定者展示了科学的巨大回报潜力（Arora et al., 2020; Lindner et al., 2024）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.28]])。
+创新[[Luhmann's Systems Theory|系统理论]]之前的主导政策[[Paradigm|范式]]——"科学促增长"（Science for [[Growth]]）——诞生于二战经验与冷战需求。大规模政府研发投资（尤其在研究型大学）在二战期间催生了重大发现和创新（如曼哈顿计划、MIT 辐射实验室的雷达研究），向政策制定者展示了科学的巨大回报潜力（Arora et al., 2020; Lindner et al., 2024）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.28]])。
 
 > 该范式建立在 Arrow（1962）和 Solow（1957）等经济学家的理论之上，核心逻辑简洁有力：基础科学发现 → 技术开发 → 市场创新 → 经济增长。政府的角色是资助[[Knowledge Production|知识生产]]以弥补市场失灵——因为知识具有公共品属性，私人部门会对其投资不足。
 

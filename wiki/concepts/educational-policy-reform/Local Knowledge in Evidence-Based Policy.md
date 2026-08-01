@@ -6,7 +6,7 @@ aliases:
 summary: "从业者对本地情境、关系网络和实际约束的深入了解，用于说明证据本位政策实施为何离不开地方知识和专业判断。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Professional Judgment]]"
   - "[[Document]]"
+  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Evidence-Informed Practice]]"
@@ -65,7 +66,7 @@ updated: '2026-05-23'
 ## 历史沿革
 
 > [!note-] 历史沿革
-> 本地知识的概念在证据本位政策[[Document|文献]]中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.14]])。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在实践中失败。Oliver et al. (2014) 对 145 项研究的[[Systematic Review|系统综述]]发现"非正式证据"——包括本地数据和默会知识——在超过三分之一的研究中被认为是成功实施的关键因素([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.12]])。
+> 本地知识的概念在证据本位政策[[Document|文献]]中经历了从被贬低到被重新评价的过程。早期 EBP 推动者倾向于将本地知识和[[Professional Judgment|专业判断]]视为需要被科学证据取代的"轶事"或"直觉"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.14]])。然而，随着实施研究的积累，越来越多的证据表明缺乏本地知识的纯证据驱动方案往往在[[Praxis|实践]]中失败。Oliver et al. (2014) 对 145 项研究的[[Systematic Review|系统综述]]发现"非正式证据"——包括本地数据和默会知识——在超过三分之一的研究中被认为是成功实施的关键因素([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.12]])。
 
 ## 核心要素
 
@@ -82,7 +83,7 @@ updated: '2026-05-23'
 
 ### 采购与实施知识
 
-在学校采购层面，教育产品消费者不仅需要“是否有效”的结论，还需要产品特征、实施要求、使用满意度、成本、潜在结果和情境相关性等信息。实践者偏好同伴推荐和本地试点，并不只是因为他们“不懂研究”，也因为这些渠道常常更快提供学校持续实施必须知道的信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
+在学校采购层面，教育产品消费者不仅需要“是否有效”的结论，还需要产品特征、实施要求、使用满意度、成本、潜在结果和情境相关性等信息。[[Praxis|实践]]者偏好同伴推荐和本地试点，并不只是因为他们“不懂研究”，也因为这些渠道常常更快提供学校持续实施必须知道的信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 > [!example]
 > 如果一个数字学习平台在研究中有显著正向效果，校长仍需要知道：教师每天要花多少准备时间？学生是否愿意持续使用？旧设备能否运行？家长是否支持？这些问题不是[[Statistical Significance|统计显著性]]能直接回答的，而是本地知识进入[[Evidence-Informed Practice|证据知情实践]]的地方([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
@@ -122,7 +123,7 @@ updated: '2026-05-23'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **本地知识的[[Reliability|可靠性]]问题** 有批评认为本地知识本质上是主观的、可能充满认知偏差的，将其与科学证据并列可能导致以"直觉"为名的低效甚至有害实践
+> - **本地知识的[[Reliability|可靠性]]问题** 有批评认为本地知识本质上是主观的、可能充满认知偏差的，将其与科学证据并列可能导致以"直觉"为名的低效甚至有害[[Praxis|实践]]
 > - **被忽视不等于被否定**[[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] 并不主张用本地知识取代研究证据，而是主张二者互补。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]] 强化了这一立场："不存在识别和传播'什么有效'的客观程序"——利益相关者必须成为批判性消费者，将研究证据与本地知识结合运用
 > - **Hayek 框架的局限** 将 Hayek 的价格系统类比应用于教育知识整合可能存在局限——教育领域的"知识"不像市场价格那样有自然聚合机制
 

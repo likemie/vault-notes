@@ -8,7 +8,7 @@ aliases:
 summary: "产业方编制临床试验预算时依据的定价原则，通过跨试验阶段和地理区域的行业实际谈判数据共享确保预算公平，但进入学术机构后被 20%–35% 的管理费率显著推高，构成产学预算矛盾的核心"
 type: concept
 domain: "higher-education"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Institutional Review Board]]"
   - "[[Academic Medical Center]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -57,7 +58,7 @@ updated: 2026-06-03
 - **社区和国际基地构成低价替代** 社区或去中心化基地使用集中式单一 [[Institutional Review Board|IRB]] 审查，启动和入组速度快、管理费低；国际基地的成本有时仅为美国[[Academic Medical Center|学术医学中心]]的六分之一（p.206）
 - **高声誉学术机构的困境** 声誉越高的学术机构，管理费率和启动成本往往也越高，导致产业方在多中心试验中限制纳入的学术机构数量（p.206）
 
-FMV 原则的初衷是防止产业方以过高报酬诱导机构参与，但实践中反而凸显了学术机构高成本结构与产业方预算约束之间的结构性张力。
+FMV 原则的初衷是防止产业方以过高报酬诱导机构参与，但[[Praxis|实践]]中反而凸显了学术机构高成本结构与产业方预算约束之间的结构性张力。
 
 ---
 

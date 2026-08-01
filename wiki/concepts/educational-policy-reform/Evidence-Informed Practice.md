@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据视为多种决策资源之一的实践取向，强调教育者通过专业判断整合研究、课堂数据和系统信息来形成行动。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
 - research-use
 - region/global
 related_concepts:
+  - "[[Praxis]]"
   - "[[Professional Judgment]]"
   - "[[Formative Assessment]]"
   - "[[Homework]]"
@@ -56,7 +57,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info] 定义
-> 证据知情实践（Evidence-Informed Practice, EIP）是一种教育决策取向：研究证据只是影响实践判断的多个资源之一，教育者需要把研究、课堂数据、系统信息与[[Professional Judgment|专业判断]]一起整合，而不是被单一证据源驱动([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127–129]])。
+> 证据知情[[Praxis|实践]]（Evidence-Informed Practice, EIP）是一种教育决策取向：研究证据只是影响实践判断的多个资源之一，教育者需要把研究、课堂数据、系统信息与[[Professional Judgment|专业判断]]一起整合，而不是被单一证据源驱动([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127–129]])。
 >
 > > "We named this special issue Evidence-informed practice in education to reflect our view that evidence is just one of a number of factors that influence educational decisions, with educators needing to apply professional judgment, rather than being driven solely by research evidence or data."([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.128]])
 
@@ -85,7 +86,7 @@ EIP 的核心分歧不在“要不要看研究”，而在“研究在决策里�
 
 ### 决策信息不止有效性指标
 
-从教育产品消费者角度看，学校需要的决策信息超过[[Effect Size|效应量]]和[[Statistical Significance|统计显著性]]。实践者常偏好同伴推荐和本地试点，是因为这些渠道能提供项目特征、实施要求、使用满意度、成本和地方适配等信息；这些信息的因果识别强度可能不如 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]]，但对采购和持续实施很关键([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
+从教育产品消费者角度看，学校需要的决策信息超过[[Effect Size|效应量]]和[[Statistical Significance|统计显著性]]。[[Praxis|实践]]者常偏好同伴推荐和本地试点，是因为这些渠道能提供项目特征、实施要求、使用满意度、成本和地方适配等信息；这些信息的因果识别强度可能不如 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]]，但对采购和持续实施很关键([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 > [!example]
 > 一个学校购买阅读软件时，正式研究可以告诉它“平均是否提高阅读成绩”；EIP 还会追问：本校设备能否承载？教师需要多久培训？学生是否愿意每天使用？预算是否允许长期续费？这些问题把正式证据转化为[[Local Knowledge in Evidence-Based Policy|地方知识]]和[[Professional Judgment|专业判断]]问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.121]])。
@@ -107,14 +108,14 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs [[Evidence-Based Education]]** — EBE 更容易把研究证据，尤其高等级实验证据，放在实践决策中心；EIP 则明确把证据定位为多种因素之一，最终仍需通过[[Professional Judgment|专业判断]]整合。
+> - **vs [[Evidence-Based Education]]** — EBE 更容易把研究证据，尤其高等级实验证据，放在[[Praxis|实践]]决策中心；EIP 则明确把证据定位为多种因素之一，最终仍需通过[[Professional Judgment|专业判断]]整合。
 > - **vs [[Local Knowledge in Evidence-Based Policy]]** — EIP 将本地知识和专业判断直接内置进定义，不把它们视为证据应用后的外部修正。
 > - **vs Research-Informed Practice** — [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p.129)]] 强调研究证据不等于全部证据，课堂数据和系统数据同样重要；因此 EIP 比单纯“research-informed”更强调多源整合。
 
 ## 历史沿革
 
 > [!note]-
-> - **1979** — Weiss 的[[Research Utilization|研究利用]]工作为后续“研究如何进入实践”的讨论提供早期基础。
+> - **1979** — Weiss 的[[Research Utilization|研究利用]]工作为后续“研究如何进入[[Praxis|实践]]”的讨论提供早期基础。
 > - **1996** — Hargreaves 提出“教学作为研究本位专业”，为教育领域的证据使用争论提供政策起点。
 > - **2000s–2010s** — 英国 Teaching and Learning Research Programme、美国问责政策变化以及加拿大安大略省教育研究与评估战略等，共同推动 EIP 的制度化讨论。
 > - **2013** — 英国 [[ResearchED]] 兴起，草根教师研究使用运动增强。
@@ -124,13 +125,13 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ## 理论基础
 
 > [!info] 理论基础
-> - **[[Knowledge Mobilisation]]** — 说明研究知识如何被传播、翻译和嵌入实践，是 EIP 的关键中介框架。
+> - **[[Knowledge Mobilisation]]** — 说明研究知识如何被传播、翻译和嵌入[[Praxis|实践]]，是 EIP 的关键中介框架。
 > - **[[Professional Judgment]]** — EIP 预设教学是一种需要情境化判断的专业实践，因此证据提供输入，但不替代判断。
 
 ## 实证发现
 
 > [!success] 实证发现
-> - **教师间传播占主导** 教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
+> - **教师间传播占主导** 教师主要从其他教师处获取关于有效[[Praxis|实践]]的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
 > - **实践产生的证据使用比[[Research Utilization|研究使用]]更普遍** 即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
 > - **同伴推荐和本地试点仍然重要** 教育产品消费者报告很少使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些来源更能回答实施、成本和使用体验问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 > - **复杂改革需要多目标解释**[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
@@ -152,7 +153,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 ## 相关案例／政策
 
 > [!example]
-> EIP 的相关案例按“实践社群、制度网络、评价案例”理解，避免把人物、组织和单个项目混成同一种对象。
+> EIP 的相关案例按“[[Praxis|实践]]社群、制度网络、评价案例”理解，避免把人物、组织和单个项目混成同一种对象。
 
 ### 实践社群
 

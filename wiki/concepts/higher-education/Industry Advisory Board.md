@@ -8,14 +8,15 @@ aliases:
 summary: "产学合作中最轻量的关系制度化机制，企业代表定期聚会为大学研究方向和人才培养提供意见，低投入高回报但不直接产出研究或培训项目"
 type: concept
 domain: "higher-education"
-related_count: 0
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
-related_concepts: []
+related_concepts:
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -39,7 +40,7 @@ updated: 2026-05-28
 
 > [!example]
 > - vs 企业联盟计划（CAP）— IAB 不涉及资金汇集或研究项目资助，纯粹是咨询和建议功能。CAP 则涉及会费缴纳、研究资助和知识产权安排
-> - vs 产学联合体（consortium）— IAB 是关系建设的前端机制，帮助建立产业联系并识别共同兴趣；联合体是资源投入和联合研究的后端机制。IAB 可以成为联合体的"前厅"——通过定期对话识别可以转化为联合研究项目的方向
+> - vs 产学联合体（consortium）— IAB 是关系建设的前端机制，帮助建立产业联系并识别共同兴趣；联合体是资源投入和联合研究的后端机制。IAB 可以成为联合体的"前厅"——通过定期[[Dialogue in Education|对话]]识别可以转化为联合研究项目的方向
 > - vs 大学董事会中的产业代表 — IAB 面向特定学术单位（学院、系、研究中心）的研究和教学方向；大学董事会的产业代表则关注机构层面的治理和战略
 
 ---
@@ -47,7 +48,7 @@ updated: 2026-05-28
 ## 核心要素
 
 > [!abstract]
-- **定期会议** IAB 必须定期开会，不能只是一年一次的形式性聚会。持续的对话才能维持企业的投入感和信任（p.109）
+- **定期会议** IAB 必须定期开会，不能只是一年一次的形式性聚会。持续的[[Dialogue in Education|对话]]才能维持企业的投入感和信任（p.109）
 - **建议被回应** 即使大学选择不采纳 IAB 的建议，将决策传达回委员会可以维持善意和参与感——"沉默"是 IAB 最大的敌人（p.109）
 - **双向信息流** 企业通过 IAB 了解大学的"内部消息"——研究方向、人才储备、设施规划；大学通过 IAB 了解产业需求变化——哪些技能在变得稀缺、哪些研究方向产业愿意资助（pp.108–109）
 - **低制度门槛** 与 CAP 或研究型中心不同，IAB 不需要法律协议、知识产权安排或资金汇集——这使得启动和维护成本较低，适合作为产学关系建设的入口（p.108）

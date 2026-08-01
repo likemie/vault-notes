@@ -11,6 +11,7 @@ tags:
   - theme/clinical-trials
   - level/higher-education
 related_concepts:
+  - "[[Praxis]]"
   - "[[Clinical Trial]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Medical Center]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Research Utilization]]"
   - "[[Emergence]]"
+  - "[[Dialogue in Education]]"
   - "[[Literature Review]]"
 related_theories: []
 related_methods: []
@@ -53,7 +55,7 @@ title: "Argument_Bang_2025_ClinicalTrials"
 argument_key: "Argument_Bang_2025_ClinicalTrials"
 argument_display_title: "University–Industry Relations in Clinical Trials"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -68,7 +70,7 @@ citation_aliases:
 
 ## 研究问题
 
-> [!question] 核心关切与实践难题
+> [!question] 核心关切与[[Praxis|实践]]难题
 > 生物制药行业的[[Clinical Trial|临床试验]]是[[University-Industry Collaboration|产学合作]]中资金规模最大的交汇领域——产业方提供资金、监管专长和规模化能力，大学及[[Academic Medical Center|学术医学中心]]贡献前沿研究、方法论创新和多样化患者人群。然而，在实际运作中，学术机构的预算结构、多层审查制度和漫长的启动周期，与产业方对速度和成本效率的追求之间，存在持续的结构性摩擦。
 >
 > 具体而言，三组矛盾构成了核心追问：
@@ -232,7 +234,7 @@ citation_aliases:
 > [!note]- 其他影响因素
 > - **发表** 多中心试验发表的独特问题、发表时机、试验[[Preregistration|预注册]]、阴性和阳性结果的发表义务(p.208)
 > - **组织模式** 大学和产业方对临床研究运营的不同组织方式——集中化临床试验办公室 vs 去中心化模式、大学 vs 医学院的角色、CRO 在流程中的利弊(pp.208–209)
-> - **机构间组织** 由于教师的学术研究义务、医学中心和医学院的结构及其与临床实践的交织，各机构对临床试验的财务和机构监督机制差异显著。受 FDA 监管的临床试验需通过"1572 表格——研究者声明"（Form FDA 1572 – Statement of the Investigator）确定主要研究者（Principal Investigator, PI）、副研究者以及研究活动和临床数据将在其中生成的设施(p.209)
+> - **机构间组织** 由于教师的学术研究义务、医学中心和医学院的结构及其与临床[[Praxis|实践]]的交织，各机构对临床试验的财务和机构监督机制差异显著。受 FDA 监管的临床试验需通过"1572 表格——研究者声明"（Form FDA 1572 – Statement of the Investigator）确定主要研究者（Principal Investigator, PI）、副研究者以及研究活动和临床数据将在其中生成的设施(p.209)
 
 > [!example]- 图11.4：1572 表格概述主要研究者和 IRB 在 FDA 监管试验中的义务
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_11-4_FDA_Form_1572_Investigator_Statement.jpg)
@@ -336,7 +338,7 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 围绕特定疾病或治疗领域（癌症、神经学、心脏病学、免疫学等），[[Emergence|涌现]]了大量产学最佳实践。这些实践的核心不是制度设计或技术工具——而是协作文化(pp.214)：
 
 > [!abstract] 协作文化的关键要素
-> - **早期沟通** 在正式合同谈判之前，先就双方的需求、期望和时间线展开开放和诚实的对话
+> - **早期沟通** 在正式合同谈判之前，先就双方的需求、期望和时间线展开开放和诚实的[[Dialogue in Education|对话]]
 > - **目标对齐** 明确共同目标——服务于患者和公众的最佳利益——而非各自的制度利益
 > - **建立互信** 通过持续、透明和公平的互动积累信任资本
 > - **指定协调人（designated champions）** 双方各自指定一位有权威和资源的人作为协作的单一对接点，避免多线沟通导致的混乱

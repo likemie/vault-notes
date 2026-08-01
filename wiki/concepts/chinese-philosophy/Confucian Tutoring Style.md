@@ -7,7 +7,7 @@ aliases:
 summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋"
 type: concept
 domain: "chinese-philosophy"
-related_count: 11
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - region/east-asia
   - theory/confucianism
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Learning Virtues]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Cognitive Source]]"
@@ -25,8 +26,10 @@ related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
   - "[[Document]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
+  - "[[Discourse Analysis]]"
   - "[[Mother-Child Conversation]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_persons:
@@ -45,7 +48,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> 儒家式辅导是 Li（2012）基于台湾母子对话研究提出的一种家庭教育互动模式。在这种模式中，家长——尤其是母亲——以类似儒家师徒对话的方式，通过日常对话将儿童的学习信念引向[[Learning Virtues|学习美德]]的方向。母亲的核心信念是：学习的关键在于**品德的力量（the power of learning virtues）**，而非天赋智力。
+> 儒家式辅导是 Li（2012）基于台湾母子[[Dialogue in Education|对话]]研究提出的一种家庭教育互动模式。在这种模式中，家长——尤其是母亲——以类似儒家师徒对话的方式，通过日常对话将儿童的学习信念引向[[Learning Virtues|学习美德]]的方向。母亲的核心信念是：学习的关键在于**品德的力量（the power of learning virtues）**，而非天赋智力。
 
 与[[Socratic Tutoring Style|苏格拉底式辅导]]不同，儒家式辅导的目的不是帮助儿童发现"自我的伟大"，而是引导儿童认识到**自我改进永无止境**——无论已经取得了多少成就([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
@@ -53,7 +56,7 @@ updated: 2026-05-24
 ## 核心要素
 
 > [!abstract]
-> Li 通过对 !CD 组台湾母子的学习话题对话进行结构分析、序列分析和话语分析，识别出儒家式辅导的以下核心要素([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> Li 通过对 !CD 组台湾母子的学习话题[[Dialogue in Education|对话]]进行结构分析、序列分析和[[Discourse Analysis|话语分析]]，识别出儒家式辅导的以下核心要素([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 ### 认知来源：学习美德（virtue source）
 
@@ -96,7 +99,7 @@ updated: 2026-05-24
 ## 实证发现
 
 > [!success]
-> 序列分析显示，台湾母子的对话围绕**[[Learning Virtues|学习美德]]（learning virtues）**这一主题展开，**无论**对话由哪一方发起、**无论**讨论的是好学习还是差学习([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> 序列分析显示，台湾母子的[[Dialogue in Education|对话]]围绕**[[Learning Virtues|学习美德]]（learning virtues）**这一主题展开，**无论**对话由哪一方发起、**无论**讨论的是好学习还是差学习([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 > [!info] 关键数据
 > - 对好学习的讨论：台湾母亲谈论学习美德的概率比欧裔美国母亲高约 40%
@@ -106,13 +109,13 @@ updated: 2026-05-24
 > [!example]
 > 一个典型的话语案例：母亲与女儿 Jia 讨论写作。母亲先肯定女儿理解课文主旨的进步（"你甚至不需要我教你了"），但紧接着就转向"你还需要在作文上加把劲"和"我觉得你在其他方面也需要坚持"——她甚至在表扬之前就已经提到需要改进([[Argument_Li_2012_Cambridge|Li, 2012]])。
 >
-> 更多儒家式辅导的对话示例与 Li 的话语分析操作，见 [[MCC Discourse Analysis Examples|MCC 话语分析示例]]。
+> 更多儒家式辅导的对话示例与 Li 的[[Discourse Analysis|话语分析]]操作，见 [[MCC Discourse Analysis Examples|MCC 话语分析示例]]。
 
 ---
 ## 一个重要澄清：不是"专制型"教养
 
 > [!warning]
-> 西方[[Document|文献]]长期以来将亚洲家长刻画为"专制型"（authoritarian）——单方面施压、要求服从、不给儿童讨论空间。但 Li 的研究数据显示了**相反的情况** 台湾母子对话中的儿童反驳（child's quibble）与欧裔美国母子对话**同样普遍([[Argument_Li_2012_Cambridge|Li, 2012]])**。
+> 西方[[Document|文献]]长期以来将亚洲家长刻画为"专制型"（authoritarian）——单方面施压、要求服从、不给儿童讨论空间。但 Li 的研究数据显示了**相反的情况** 台湾母子[[Dialogue in Education|对话]]中的儿童反驳（child's quibble）与欧裔美国母子对话**同样普遍([[Argument_Li_2012_Cambridge|Li, 2012]])**。
 
 > [!example]
 > 一位七岁台湾女儿在母亲刚开口批评她不认真写字时，立即反击："只有你在说话，我还没说话呢！"母亲立刻让步并邀请女儿说话。女儿此后通过实际写字展示她的能力，母亲也给予了认可([[Argument_Li_2012_Cambridge|Li, 2012]])。
@@ -124,9 +127,9 @@ updated: 2026-05-24
 ## 概念辨析
 
 > [!example]
-> **儒家式辅导 vs [[Socratic Tutoring Style|苏格拉底式辅导]]** 两者结构相似——都是家长通过对话引导儿童形成学习信念的高效辅导方式。差异在**内容**[[Socrates|苏格拉底]]式辅导围绕心智和积极情感，儒家式辅导围绕[[Learning Virtues|学习美德]]和持续自我改进。前者问"你有多聪明？"，后者问"你还可以怎么更好？"([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> **儒家式辅导 vs [[Socratic Tutoring Style|苏格拉底式辅导]]** 两者结构相似——都是家长通过[[Dialogue in Education|对话]]引导儿童形成学习信念的高效辅导方式。差异在**内容**[[Socrates|苏格拉底]]式辅导围绕心智和积极情感，儒家式辅导围绕[[Learning Virtues|学习美德]]和持续自我改进。前者问"你有多聪明？"，后者问"你还可以怎么更好？"([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 > [!example]
-> **儒家式辅导 vs 学校教学** 这是一种**家庭日常对话**中的社会化实践，不是正式教学。母亲通常不意识到自己在"辅导"——她们只是在履行身为家长的道德责任（在中国文化中，不引导子女学习被视为**家长的道德失败**）。
+> **儒家式辅导 vs 学校教学** 这是一种**家庭日常对话**中的社会化[[Praxis|实践]]，不是正式教学。母亲通常不意识到自己在"辅导"——她们只是在履行身为家长的道德责任（在中国文化中，不引导子女学习被视为**家长的道德失败**）。
 
 ---

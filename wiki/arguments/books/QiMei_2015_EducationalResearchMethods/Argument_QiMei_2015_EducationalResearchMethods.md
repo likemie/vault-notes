@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 114
+argument_related_count: 118
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Memos]]"
+  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
@@ -60,6 +61,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Operationalization]]"
   - "[[Value Neutrality]]"
+  - "[[Growth]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Pre-test and Post-test]]"
   - "[[Attrition]]"
@@ -84,9 +86,11 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Research Purpose]]"
   - "[[Falsification]]"
+  - "[[Saturation]]"
   - "[[Epistemology]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Dialogue in Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Story Line]]"
   - "[[Constructivist Paradigm]]"
@@ -271,7 +275,7 @@ updated: '2026-07-21'
 
 #### 章节内容
 
-第一编"教育研究的基础"在第一章之后推进到[[Research Proposal|课题论证]]，分为两大部分：变量与[[Hypothesis|假设]]的理论基础，以及课题论证的操作实践。
+第一编"教育研究的基础"在第一章之后推进到[[Research Proposal|课题论证]]，分为两大部分：变量与[[Hypothesis|假设]]的理论基础，以及课题论证的操作[[Praxis|实践]]。
 
 界定变量内涵直接影响研究设计的质量。不重视或不会界定变量会导致[[Questionnaire|问卷]]信效度低、[[Interview Protocol|访谈提纲]]错乱无序等问题。界定变量内涵有两种方法：概念性定义和[[Definition of Terms|操作性定义]]。
 
@@ -464,7 +468,7 @@ updated: '2026-07-21'
 > [!contrast-table] 描述观察的三种方法
 > | 维度 | 日记描述法 | 轶事记录法 | 连续记录法 |
 > |---|---|---|---|
-> | 记录方式 | 长期追踪，以日记形式记录个体成长变化 | 着重记录某种有价值的行为，可随时记录 | 较长时间内持续不断地详细记录 |
+> | 记录方式 | 长期追踪，以日记形式记录个体[[Growth\|成长]]变化 | 着重记录某种有价值的行为，可随时记录 | 较长时间内持续不断地详细记录 |
 > | 主题限制 | 有固定对象，长期跟踪 | 可有主题也可无主题，不受条件限制 | 针对特定活动或事件进行连续追踪 |
 > | [[Coding in Qualitative Research\|编码]]要求 | 不需事先编码分类 | 不需事先编码分类 | 涉及对象较多时配合符号或代码记录 |
 > | 示例 | [[Jean Piaget\|皮亚杰]]以自己三个孩子为观察对象，出版《儿童智力的起源》等三本著作 | 三岁幼儿推理：将"洪水"理解为"西瓜里流出来的汤"，展现归纳、演绎和类比推理 | 记录乡村教师一天工作；持续一周记录幼儿入园后半小时的行为和情绪状态 |
@@ -794,7 +798,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > | 研究功能（Stake） | 本质性 / 工具性 / 集合性 | 展示案例本身意义 → 发现新结论 → 多案例比较预测 |
 > | 理论贡献（Lijphart） | 非理论/解释性/产生假设/证实/[[Falsification\|证伪]]/偏离常规 | 其中产生假设和偏离常规的个案研究价值最大 |
 
-案例研究程序分为五步：案例研究设计（确定研究问题→做出假设→确定分析单位→确定数据分析逻辑→解释准则→选择数量） → 案例选择（目的抽样或[[Theoretical Sampling|理论抽样]]） → 数据收集（七种来源：文件、档案、访谈、观察、问卷、人工制品、实验；数据量的标准为理论饱和度和资料饱和度） → 数据分析（定量嵌入整体分析，定性核心是编码；常用技术包括模式匹配、建构性解释、个案聚类分析） → 撰写研究报告。
+案例研究程序分为五步：案例研究设计（确定研究问题→做出假设→确定分析单位→确定数据分析逻辑→解释准则→选择数量） → 案例选择（目的抽样或[[Theoretical Sampling|理论抽样]]） → 数据收集（七种来源：文件、档案、访谈、观察、问卷、人工制品、实验；数据量的标准为[[Saturation|理论饱和]]度和资料饱和度） → 数据分析（定量嵌入整体分析，定性核心是编码；常用技术包括模式匹配、建构性解释、个案聚类分析） → 撰写研究报告。
 
 案例研究的质量检验标准包括[[Construct Validity|建构效度]]、内在效度（仅适用于因果解释性案例研究）、外在效度和信度。提高信度主要通过三角测量策略——从不同角度、不同侧面收集同一现象的数据资料并相互印证核实。
 
@@ -895,7 +899,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 
 自然科学理论具有普遍性（在一定时空条件下可反复论证）、概括性、抽象性、精确性和严密性等特征。自然科学追寻的是"大写的理论"（定理、公理）。社会科学则更多认同"小写的理论"——一种建立在原始资料基础上的观点、猜测和想法，主要适用于特定情境中解释社会现象，强调描述和说明研究对象的独特性而非普遍性。[[Fei Xiaotong|费孝通]]的"差序格局"理论即为典型：它描述的是中国传统乡土社会以宗法群体为本位的人际关系格局，适用范围只能在中国。
 
-建立理论对社会科学研究的意义：深化研究者对社会现象的理解；促进读者对社会现象有更深入的理解和思考；启发其他研究者；从事系统研究的必需（横向支撑——与同时期研究对话；纵向支撑——与不同时期的研究对话）。
+建立理论对社会科学研究的意义：深化研究者对社会现象的理解；促进读者对社会现象有更深入的理解和思考；启发其他研究者；从事系统研究的必需（横向支撑——与同时期研究[[Dialogue in Education|对话]]；纵向支撑——与不同时期的研究对话）。
 
 ##### 扎根理论的起源与特点
 

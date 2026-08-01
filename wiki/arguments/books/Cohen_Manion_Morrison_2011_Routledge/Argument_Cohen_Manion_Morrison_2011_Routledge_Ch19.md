@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 47
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[School Effectiveness]]"
   - "[[Construct Validity]]"
+  - "[[Praxis]]"
   - "[[Interaction Effect]]"
   - "[[Reflexivity]]"
   - "[[Avatar]]"
@@ -53,6 +54,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Externalization]]"
   - "[[Epoché]]"
+  - "[[Dialogue in Education]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Research Question]]"
   - "[[Questionnaire]]"
@@ -63,11 +65,13 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
+  - "[[Active Learning]]"
   - "[[Sensitive Research]]"
   - "[[Informed Consent]]"
   - "[[Research Topic]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Personal Construct Theory]]"
   - "[[Bounded Rationality]]"
   - "[[Phenomenology]]"
   - "[[Item Response Theory]]"
@@ -164,7 +168,7 @@ updated: 2026-07-19
 
 > [!warning] 对模拟的十项深层顾虑（pp. 149–150）
 > - **（1）解释是回溯性而非前瞻性的** 模拟中的复杂性理论可能解释多样化、可变的结果（如[[School Effectiveness|学校效能]]研究），但未必能帮助干预以促进改进（Morrison, 2002a）。
-> - **（2）如何确定关键初始条件** 输入模拟的关键初始条件如何确定（[[Construct Validity|构念效度]]），以及如何从中导出实践处方？
+> - **（2）如何确定关键初始条件** 输入模拟的关键初始条件如何确定（[[Construct Validity|构念效度]]），以及如何从中导出[[Praxis|实践]]处方？
 > - **（3）系统仅仅是同一公式/模型的反复迭代** 这在多大程度上是可以接受的？
 > - **（4）过程过于确定性** 模拟仅假设初始条件的[[Interaction Effect|交互作用]]，忽略了过程中引入的额外因素（尽管存在学习型计算机模拟）。
 > - **（5）操纵人类变量是技术主义的**。
@@ -193,7 +197,7 @@ updated: 2026-07-19
 > [!chain-link] 从模拟到虚拟世界的论证链条
 > - **模拟的局限** 纯模拟由数学模型完全决定，缺乏人类能动性。对模拟过于简化真实世界的指控和对决定论的反感，推动了对更具能动性方法的需求。
 > - **[[Projection Technique|投射技术]]的引入** 在虚拟世界中，个体通过化身**投射自身观点和价值观**，并接收系统中他人的反馈。这种[[Projection Technique|投射技术]]使真实和诚实的观点得以表达，并在参与者希望时进行修改。主题既可以被给定也可以被创造，环境是**涌现的**，这就是为什么有时被称为合成世界（synthetic worlds, Castronova, 2005）。
-> - **安全环境的创建** 虚拟世界可以提供比封闭模拟更接近真实生活情境的近似，包括将控制权交给人类能动者投射（化身），使研究者能够探索此前难以进入或无法进入的领域。要探索使用虚拟世界的问题，可能同时冒着暴露冲突领域和危险知识（dangerous knowledge, Giroux, 1983）的风险，涉及社区和宗教身份、国家地位、价值观和政治、多数与少数、族裔和身份等领域。**创建安全环境**是解决这一问题的一种方式，通过**投射技术**实现，其部分谱系在于个人[[Construct|构念]]理论（personal construct theory），但信息技术的发展使新方法得以采用。
+> - **安全环境的创建** 虚拟世界可以提供比封闭模拟更接近真实生活情境的近似，包括将控制权交给人类能动者投射（化身），使研究者能够探索此前难以进入或无法进入的领域。要探索使用虚拟世界的问题，可能同时冒着暴露冲突领域和危险知识（dangerous knowledge, Giroux, 1983）的风险，涉及社区和宗教身份、国家地位、价值观和政治、多数与少数、族裔和身份等领域。**创建安全环境**是解决这一问题的一种方式，通过**投射技术**实现，其部分谱系在于个人[[Construct|构念]]理论（[[Personal Construct Theory]]），但信息技术的发展使新方法得以采用。
 > - **两条路径** 第一，通过模拟（Cohen et al., 2007, pp. 245–251），模拟和虚拟世界提供了在安全环境中探索情境、价值观和行为的机会，尽管这并非保证，例如有报道称学生因社交网络中的网络欺凌而自杀的案例。第二，通过计算机中的基于主体建模。
 
 ---
@@ -323,7 +327,7 @@ updated: 2026-07-19
 > [!feature] 平等与互惠
 > - **相互理解** 参与者之间达成相互理解。
 > - **平等运用言语行为** 拥有选择和运用言语行为的平等机会。
-> - **自主平等伙伴** 承认每个主体作为**自主和平等伙伴**参与对话的合法性。
+> - **自主平等伙伴** 承认每个主体作为**自主和平等伙伴**参与[[Dialogue in Education|对话]]的合法性。
 > - **平等讨论机会** 所有参与者拥有平等的讨论机会。
 
 > [!feature] 共识与真理
@@ -441,7 +445,7 @@ updated: 2026-07-19
 > - **高参与度消散自我意识** 模拟参与通常相关的高卷入度表明，实验室实验通常相关的**自我意识更容易消散**（Palys, 1978）。
 
 > [!success] 虚拟世界相对于纯模拟的独特优势（pp. 167–168）
-> - **体验与主动学习** 鼓励动机和参与。
+> - **体验与[[Active Learning|主动学习]]** 鼓励动机和参与。
 > - **可视化** 管理复杂环境。
 > - **进入不可能/困难的环境**。
 > - **灵活性** 可编程提供广泛的情境/刺激。
@@ -590,7 +594,7 @@ updated: 2026-07-19
 > *Simulations share with the laboratory experiment the characteristic that the experimenter has complete manipulative control over every aspect of the situation. At the same time, the subjects' humanity is left intact in that they are given a realistic situation in which to act in whatever way they think appropriate.*
 
 > [!citation-card]- 技术的独特价值与文化再生产
-> 使用技术简单复制现有实践或复制其他技术的功能，是文化再生产或一阶变革（first order change）的例子，不可能产生根本或持续的差异。（Cuban, 1986, 2003; Fullan, 2007; p. 170）
+> 使用技术简单复制现有[[Praxis|实践]]或复制其他技术的功能，是文化再生产或一阶变革（first order change）的例子，不可能产生根本或持续的差异。（Cuban, 1986, 2003; Fullan, 2007; p. 170）
 >
 > *Using a technology to simply replicate existing practice or to copy what other technologies do is an example of cultural reproduction or 'first order change' which is unlikely to produce a fundamental or sustained difference.*
 

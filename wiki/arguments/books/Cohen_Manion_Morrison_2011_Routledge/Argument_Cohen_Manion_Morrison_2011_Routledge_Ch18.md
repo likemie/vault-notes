@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,15 +35,18 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Praxis]]"
   - "[[Technical Rationality]]"
   - "[[Reflexivity]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Research Question]]"
+  - "[[Reflective Thinking]]"
   - "[[Didaktik]]"
   - "[[Scientific Method]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Conatus]]"
+  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
@@ -63,6 +66,7 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Research Problem]]"
   - "[[Literature Review]]"
+  - "[[Growth]]"
   - "[[Informed Consent]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -119,7 +123,7 @@ updated: 2026-07-19
 > ```
 
 > [!note] 论证主线
-> 将[[Action Research|行动研究]]从方法论基础逐层推进到具体实践。行动研究的定义本身蕴含了多样性和张力。它是实践改进与政治解放之间、个体反思与集体批判之间、[[Technical Rationality|技术理性]]与解放兴趣之间的连续体，这一张力在[[Participatory Action Research|参与式行动研究]]与[[Emancipatory Action Research|解放性行动研究]]中达到顶点，并在操作程序、报告撰写和[[Reflexivity|反身性]]中获得具体的实践形态。
+> 将[[Action Research|行动研究]]从方法论基础逐层推进到具体[[Praxis|实践]]。行动研究的定义本身蕴含了多样性和张力。它是实践改进与政治解放之间、个体反思与集体批判之间、[[Technical Rationality|技术理性]]与解放兴趣之间的连续体，这一张力在[[Participatory Action Research|参与式行动研究]]与[[Emancipatory Action Research|解放性行动研究]]中达到顶点，并在操作程序、报告撰写和[[Reflexivity|反身性]]中获得具体的实践形态。
 
 ---
 
@@ -161,7 +165,7 @@ updated: 2026-07-19
 
 > [!chain-link] 定义谱系的论证逻辑
 > - **操作严谨性（Hopkins → Corey）** 行动研究首先是一种严谨、系统的探究形式，从个人尝试理解实践，到科学地[[Research Question|研究问题]]，再到比日常生活更严谨地计划、行动、观察和反思
-> - **哲学深度（Carr & Kemmis）** 从操作严谨性跃升至哈贝马斯式的自我反思性探究，将社会正义设为行动研究的内在目标
+> - **哲学深度（Carr & Kemmis）** 从操作严谨性跃升至哈贝马斯式的自我[[Reflective Thinking|反思性探究]]，将社会正义设为行动研究的内在目标
 > - **集体性（Kemmis & McTaggart 全纳定义）** 在严谨性和正义性之上叠加集体性。行动研究不仅是个体反思，更是合作进行的集体自我反思探究。这一谱系揭示了一个核心张力：行动研究本质上是严谨探究、实践改进与社会正义三种诉求的不稳定结合。
 
 **第一层：操作严谨性**
@@ -260,7 +264,7 @@ updated: 2026-07-19
 > - **参与性** 受研究影响的人参与研究过程，对研究的方向、方法和成果拥有发言权
 > - **贡献于教育科学** 行动研究不仅改进局部实践，其成果还积累为教育科学知识体系的一部分
 > - **[[Conatus|努力]]使研究可被参与者使用和分享** 研究过程和结果以参与者能理解和运用的方式呈现，而非封闭在学术话语中
-> - **对话性并颂扬论述** 重视多方对话和观点交流，将不同声音的碰撞视为[[Knowledge Production|知识生产]]的源泉
+> - **[[Dialogue in Education|对话]]性并颂扬论述** 重视多方对话和观点交流，将不同声音的碰撞视为[[Knowledge Production|知识生产]]的源泉
 >
 > **目的与价值取向**
 > - **改进人类行动质量** 最终目的是提升教育实践中人的行动质量，而非仅仅产出学术论文
@@ -840,7 +844,7 @@ McNiff & Whitehead（2009, p. 15）主张报告行动研究需明确陈述（pp.
 > - 行动研究对行动和研究的显著性
 > - 实践如何因行动研究而修改和改进
 > - 成功标准的说明与辩护
-> - 行动研究者的反思及反思能力成长的证据
+> - 行动研究者的反思及反思能力[[Growth|成长]]的证据
 
 > [!note] 行动研究者的分裂立场
 > 行动研究者需采取潜在分裂的立场：既要处于行动和研究之中并属于它们，又要从情境中抽离并尽可能客观地审视。主观性和客观性（或更准确地说，相对主观性和相对客观性）在单个研究者身上相结合（p. 294）。
@@ -946,7 +950,7 @@ Zuber-Skerritt（1996a, p. 17）进一步提出四个实践问题（p. 296）：
 ## 关键引用
 
 > [!citation-card]- Kemmis & McTaggart 的经典定义 (1988)
-> [[Action Research|行动研究]]是一种由社会情境中的参与者进行的集体性自我反思探究，旨在改进他们自身社会或教育实践的合理性和正义性，以及他们对这些实践和这些实践所在情境的理解……这种方法只有在合作进行时才是行动研究，尽管重要的是认识到群体的行动研究是通过对个体群体成员的行动进行批判审视而实现的。（Kemmis & McTaggart, 1988, p. 5; p. 266）
+> [[Action Research|行动研究]]是一种由社会情境中的参与者进行的集体性自我反思探究，旨在改进他们自身社会或教育[[Praxis|实践]]的合理性和正义性，以及他们对这些实践和这些实践所在情境的理解……这种方法只有在合作进行时才是行动研究，尽管重要的是认识到群体的行动研究是通过对个体群体成员的行动进行批判审视而实现的。（Kemmis & McTaggart, 1988, p. 5; p. 266）
 >
 > *Action research is a form of collective self-reflective enquiry undertaken by participants in social situations in order to improve the rationality and justice of their own social or educational practices, as well as their understanding of these practices and the situations in which these practices are carried out.... The approach is only action research when it is collaborative, though it is important to realize that the action research of the group is achieved through the critically examined action of individual group members.*
 

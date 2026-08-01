@@ -22,10 +22,12 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Clinical Trial]]"
   - "[[Blue Skies Research]]"
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Evidence-Based Reform]]"
   - "[[Research Utilization]]"
   - "[[Hypothesis]]"
+  - "[[Democratic Education]]"
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
@@ -49,9 +51,9 @@ title: "Argument_Slavin_2002_ER"
 argument_key: "Argument_Slavin_2002_ER"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
-argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Researcher"
 book_title: ""
@@ -69,7 +71,7 @@ issuing_organization: ""
 ## 理论框架
 
 > [!abstract] 理论框架
-> Slavin 以**医学类比**为核心论证框架：20 世纪医学通过随机[[Clinical Trial|临床试验]]（[[Randomised Controlled Trials|RCT]]）和严格的研发-评估-推广流程实现了前所未有的进步，而教育尽管拥有大量[[Blue Skies Research|基础研究]]，却几乎完全绕过了这一动态过程，导致实践随"钟摆式风尚"摇摆而非渐进改善。(pp. 15–16)
+> Slavin 以**医学类比**为核心论证框架：20 世纪医学通过随机[[Clinical Trial|临床试验]]（[[Randomised Controlled Trials|RCT]]）和严格的研发-评估-推广流程实现了前所未有的进步，而教育尽管拥有大量[[Blue Skies Research|基础研究]]，却几乎完全绕过了这一动态过程，导致[[Praxis|实践]]随"钟摆式风尚"摇摆而非渐进改善。(pp. 15–16)
 >
 > > “如果瑞普·凡·温克尔（Rip Van Winkle，传说中沉睡多年的人）是一位医生、农民或工程师，那么他今天醒来将无法被雇佣。但如果他在19世纪是一位优秀的小学教师，那么他今天可能仍然是一位优秀的小学教师。”
 > ("If Rip Van Winkle had been a physician, a farmer, or an engineer, he would be unemployable if he awoke today. If he had been a good elementary school teacher in the 19th century, he would probably be a good elementary school teacher today.") (p. 16)
@@ -83,7 +85,7 @@ issuing_organization: ""
 > [!info] 研究方法
 > - **方法** 政策分析与方法论论证（非实证研究）
 > - **发表于** 2002 年 AERA 年会 Dewitt Wallace-Reader's Digest 杰出讲座
-> - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001|NCLB]] 法案文本、OERI 战略计划）、方法论[[Document|文献]]、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment|随机化]]评估经验）
+> - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001|NCLB]] 法案文本、OERI 战略计划）、方法论[[Document|文献]]、Slavin 本人及同事的研究[[Praxis|实践]]案例（[[Success for All]] [[Random Assignment|随机化]]评估经验）
 
 ---
 
@@ -91,7 +93,7 @@ issuing_organization: ""
 
 > [!example] 核心论证
 > ### 1. 教育落后于其他领域的证据革命
-> 20 世纪初期，医学实践与教育处于相似的"前科学"状态——例如 Lister 1865 年已证明无菌手术有效，但传统医生用了 30 年才接受。今天医学与研究之间的联结密不可分，但教育仍停留在"偶然尊重证据"的阶段（仅当证据碰巧符合当前教育或政治风尚时）。(pp. 15–16)
+> 20 世纪初期，医学[[Praxis|实践]]与教育处于相似的"前科学"状态——例如 Lister 1865 年已证明无菌手术有效，但传统医生用了 30 年才接受。今天医学与研究之间的联结密不可分，但教育仍停留在"偶然尊重证据"的阶段（仅当证据碰巧符合当前教育或政治风尚时）。(pp. 15–16)
 >
 > ### 2. 需要评估的是可复制项目，而非孤立的教学技巧
 > 教育领域不缺少实验，但多是**简短的、人工的、理论导向的**实验（如记忆术的实验室研究），几乎不评估持续一学年的、有实际应用价值的可复制项目。简短实验的发现"不会集体构成学校改革"——它们只是"关于如何思考日常教学问题的建议，而非教育者和政策制定者必须回答的更大问题的指南"。(p. 16)
@@ -116,7 +118,7 @@ issuing_organization: ""
 > - 截至 2002 年，CSR 拨款中仅 20.8% 流向具有"强证据"的项目，63.2% 流向混合/无研究的项目或自创模型。(p. 15)
 > - OERI 战略计划（2002–2007）设定了到 2004 年 75% 的因果[[Research Utilization|研究使用]][[Random Assignment|随机分配]]的目标，而当时该比例可能低于 5%。
 > - 随机化实验在大多数政策相关的项目评估领域是可能的，需要充足的资源 and 政策制定者的合作。(pp. 17–18)
-> - 延迟处理对照组设计（delayed treatment control group）是一种在实践中更易招募学校的随机化替代方案：将学校随机分配到立即实施组和一年后实施组。(p. 18)
+> - 延迟处理对照组设计（delayed treatment control group）是一种在[[Praxis|实践]]中更易招募学校的随机化替代方案：将学校随机分配到立即实施组和一年后实施组。(p. 18)
 
 ---
 
@@ -142,10 +144,10 @@ issuing_organization: ""
 > [!warning] 自述局限
 > 论文自身未系统讨论局限性，但可从文本识别以下问题：
 >
-> - **政策乐观主义** Slavin 承认"这些政策发展尚未产生我预期的革命"——CSR 资金大多流向了未经证实的项目，[[No Child Left Behind Act 2001|NCLB]] 等新倡议"太新以至于尚未对实践或资助产生影响"。全文建立在"可能"和"潜力"之上。
+> - **政策乐观主义** Slavin 承认"这些政策发展尚未产生我预期的革命"——CSR 资金大多流向了未经证实的项目，[[No Child Left Behind Act 2001|NCLB]] 等新倡议"太新以至于尚未对[[Praxis|实践]]或资助产生影响"。全文建立在"可能"和"潜力"之上。
 > - **方法论的中庸立场** Slavin 同时主张"尽可能使用[[Random Assignment|随机化]]"和"匹配实验也有价值"，这一双轨立场在修辞上灵活但可能导致政策上的模糊性——何时匹配实验"足够好"缺乏明确标准。
 > - **渐进改进[[Hypothesis|假设]]** Slavin 认为不需要"突破"（breakthroughs），渐进式改进就足够——这一假设未经验证，且回避了教育效果普遍较小且难以持续积累的实证问题。
-> - **对民主维度的忽视** 论文完全从技术效率角度论证证据本位政策，未讨论谁决定"什么值得研究"以及证据如何与民主教育决策互动——这一问题后来被 Biesta (2007) 和 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 系统展开。
+> - **对民主维度的忽视** 论文完全从技术效率角度论证证据本位政策，未讨论谁决定"什么值得研究"以及证据如何与[[Democratic Education|民主教育]]决策互动——这一问题后来被 Biesta (2007) 和 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 系统展开。
 
 ---
 

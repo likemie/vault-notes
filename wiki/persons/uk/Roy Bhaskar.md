@@ -7,7 +7,7 @@ summary: "英国哲学家，批判实在论创始人，为教育研究在实证�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Causality]]"
   - "[[Positivism]]"
+  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Governing by Numbers]]"
@@ -105,7 +106,7 @@ updated: '2026-06-19'
 > 因果力量属于深层 “实在”，在复杂的社会 “开放系统” 中，多重机制交织作用可能会削弱、抵消或遮蔽某些力量，使得深层实在没有实际化，或者实际化了却未被经验感知。因此，单纯记录经验观察的规则性无法还原[[Causality\|因果关系]]。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 
 > [!assumptions] 开放系统与封闭系统（Open vs. Closed Systems）
-> 封闭系统在社会情境中并不存在。教育实践是高度符号化的、递归的开放系统，涉及人的能动性、信念与社会结构的交互。因此，试图在实验室中通过封闭干预和控制[[Variable\|变量]]来测得普适性 “[[Effect Size\|效应量]]” 的做法在本体论上是错误的。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
+> 封闭系统在社会情境中并不存在。教育[[Praxis|实践]]是高度符号化的、递归的开放系统，涉及人的能动性、信念与社会结构的交互。因此，试图在实验室中通过封闭干预和控制[[Variable\|变量]]来测得普适性 “[[Effect Size\|效应量]]” 的做法在本体论上是错误的。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]])
 
 > [!axioms] 社会结构的涌现性（Causal Emergence）
 > 社会结构不是个体行为的简单求和，它拥有独特的、涌现的因果力量。例如 “军队不只是士兵的复数”，因为军队具有其特定的组织结构和战斗目的；社会结构先于个体的出生而存在，尽管它最终需通过个体的实践活动来再生产或修正。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 15]])
@@ -137,5 +138,5 @@ updated: '2026-06-19'
 > [!tension] 争议焦点
 > - **争议对象**[[Critical Realism|批判实在论]]的学术可及性与具体方法转化。
 > - **批评立场** 部分社会科学研究者和[[Positivism|实证主义]]学者提出批评。
-> - **证据依据** 巴斯卡的哲学写作风格高度抽象且充满术语（如[[Emergence|涌现]]、三层本体、去实际化等），这为非哲学背景的实践者设置了极高的门槛；此外，从[[Ontology|本体论]]哲学过渡到一线具体研究设计和测量程序的方法论指引依然较为单薄。
+> - **证据依据** 巴斯卡的哲学写作风格高度抽象且充满术语（如[[Emergence|涌现]]、三层本体、去实际化等），这为非哲学背景的[[Praxis|实践]]者设置了极高的门槛；此外，从[[Ontology|本体论]]哲学过渡到一线具体研究设计和测量程序的方法论指引依然较为单薄。
 > - **回应或余留问题** 这促进了波森发展出 CMO 机制分析与实在论综合等一系列具有操作性的中层方法论。

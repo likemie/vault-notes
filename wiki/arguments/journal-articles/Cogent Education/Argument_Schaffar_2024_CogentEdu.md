@@ -10,9 +10,9 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 31
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Cogent Education
 citation: "Schaffar, B., & Wolff, L.-A. (2024). Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots. Cogent Education, 11(1), 2309733. https://doi.org/10.1080/2331186X.2024.2309733"
@@ -35,10 +35,12 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
+  - "[[Dialogue in Education]]"
   - "[[Epochal Key Problems]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Praxis]]"
   - "[[Discipline-Based Theory]]"
   - "[[Going Native]]"
   - "[[Nordic Model of Education]]"
@@ -89,7 +91,7 @@ updated: 2026-06-22
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Phenomenology\|现象学]]**<br>Phenomenology | 用于澄清现象（Phenomenon）的哲学含义。解释学习作为具身经验（Embodied experience）、生活世界（Lifeworld）探究和主体间性（Intersubjectivity）对话的存在性本质，批判将学习量化和指标化的倾向。(pp.2–4) |
+> | **[[Phenomenology\|现象学]]**<br>Phenomenology | 用于澄清现象（Phenomenon）的哲学含义。解释学习作为具身经验（Embodied experience）、生活世界（Lifeworld）探究和主体间性（Intersubjectivity）[[Dialogue in Education\|对话]]的存在性本质，批判将学习量化和指标化的倾向。(pp.2–4) |
 > | **[[Bildung\|教化传统]]**<br>Bildung Tradition | 用于说明教育的内在价值和开放未来。强调人的自我形成与共同体建设，批判以经济增长为导向、将教育工具化的工具主义取向。(pp.5–7) |
 > | **[[Didaktik\|欧陆教学论]]**<br>Didaktik | 特别是 [[Wolfgang Klafki]] 的[[Epochal Key Problems\|时代关键问题]]（Epochal key problems）命题，用以论证如何围绕复杂社会危机（如环境恶化、社会不平等）组织跨学科教学，统合学科深度与跨学科广度。(pp.6–7) |
 > | **[[Constructivist Paradigm\|建构主义心理学]]**<br>Educational Psychology & Constructivism | 特别是[[Pragmatic Constructivism\|实用主义建构主义]]（Pragmatic Constructivism），用于追溯芬兰 [[Phenomenon-Based Learning\|PhBL]] 政策在教学心理学层面的直接学术来源（如 Dewey 与 [[George Herbert Mead\|Mead]] 的思想整合）。(pp.7–8) |
@@ -113,7 +115,7 @@ updated: 2026-06-22
 > |----------|------|
 > | **政策文本样本** | 2014年版芬兰基础教育国家核心课程（Finnish National Core Curriculum for Basic Education 2014）及其英文译本。(p.2) |
 > | **历史与哲学[[Document\|文献]]** | 涵盖 Kant, [[Edmund Husserl\|Husserl]], Heidegger, Sartre, Merleau-Ponty 的[[Phenomenology\|现象学]]著作；Snellman 的[[Bildung\|教化]]哲学论述；Klafki 的批判建设性教学论；以及 Rauste-von Wright 的[[Constructivist Paradigm\|建构主义]]教育心理学文献。(pp.3–8) |
-> | **教学实践情境** | 赫尔辛基大学 2018–2023 年运行的 [[SveaSus Project\|SveaSus（可持续世界遗产现象本位学习）项目]]，以芬兰堡（Suomenlinna）世界遗产地为真实学习场域，提供具身、艺术与多语教学的实证脉络。(p.1) |
+> | **教学[[Praxis\|实践]]情境** | 赫尔辛基大学 2018–2023 年运行的 [[SveaSus Project\|SveaSus（可持续世界遗产现象本位学习）项目]]，以芬兰堡（Suomenlinna）世界遗产地为真实学习场域，提供具身、艺术与多语教学的实证脉络。(p.1) |
 
 ---
 
@@ -150,7 +152,7 @@ updated: 2026-06-22
 > - **具身与主体间性的教学含义** 例如在 SveaSus 项目中，学生在风吹雨打的芬兰堡岛屿上用双脚行走，亲手触摸历史石墙并感受空气的冷冽，这展现了**具身学习**。在小组合作讨论如何保护遗产地时，他们分享彼此的担忧、信任与困惑，在共同的时空交互中建立集体责任感，这展现了学习中的**主体间性**。(pp.1, 4)
 
 > [!warrant]- 推理桥梁：体验的存在论本质
-> 现象学为 PhBL 奠定了存在论（Ontological）基石。既然世界是通过主观与主体间性的具身经验构成的，那么真正的学习就不能被简化为外在的、碎片化的指标测量，而必须是一场人与世界之间终身的存在性对话。(p.4)
+> 现象学为 PhBL 奠定了存在论（Ontological）基石。既然世界是通过主观与主体间性的具身经验构成的，那么真正的学习就不能被简化为外在的、碎片化的指标测量，而必须是一场人与世界之间终身的存在性[[Dialogue in Education|对话]]。(p.4)
 
 ---
 
@@ -162,7 +164,7 @@ updated: 2026-06-22
 > [!contrast-table] 学科秩序的演变与整合
 > | 历史阶段 / 理论 | 知识组织方式 | 对现象的理解方式 |
 > |-----------------|--------------|------------------|
-> | **古希腊亚里士多德秩序**<br>Aristotelian Order | 区分理论科学（数学/物理/生物）、实践科学（伦理/政治）与生产科学（技术/艺术）。(p.5) | 将知识归于宇宙秩序定位与人类社会实践的不同现象。 |
+> | **古希腊亚里士多德秩序**<br>Aristotelian Order | 区分理论科学（数学/物理/生物）、[[Praxis\|实践]]科学（伦理/政治）与生产科学（技术/艺术）。(p.5) | 将知识归于宇宙秩序定位与人类社会实践的不同现象。 |
 > | **中世纪七艺**<br>Seven Liberal Arts | 分为三科（Trivium：语法/逻辑/修辞）与四艺（Quadrivium：算术/几何/音乐/天文）。 | 视沟通媒介与时空数量关系为观察世界的系统窗口。 |
 > | **批判现实主义知识观**<br>Critical Realism (Wheelahan) | 强调[[Discipline-Based Theory\|学科理论]]知识具有自身的[[Ontology\|本体论]]深度（Ontological depth）和内在逻辑结构。 | 警告将系统知识拆解为细碎能力单元会削弱学科的教育价值。 |
 
@@ -265,7 +267,7 @@ updated: 2026-06-22
 ## 自述局限
 
 > [!warning] 自述局限
-> - **缺乏经验实证证据** 本研究属于哲学与思想史层面的规范性批判（Normative critique），并未对 [[Phenomenon-Based Learning|PhBL]] 的具体学习成效、教学实践表现或学校组织变革进行实证测量与量化评估。(pp.2, 11)
+> - **缺乏经验实证证据** 本研究属于哲学与思想史层面的规范性批判（Normative critique），并未对 [[Phenomenon-Based Learning|PhBL]] 的具体学习成效、教学[[Praxis|实践]]表现或学校组织变革进行实证测量与量化评估。(pp.2, 11)
 > - **未涉及实施模式 of 系统比较** 研究重在澄清概念史与政策层面的内在张力，未能系统、详尽地比较芬兰不同学校与不同地区在 PhBL 实施路径上的具体差异。(pp.2, 10–11)
 > - **学习理论差异的简化处理** 对[[Constructivist Paradigm|建构主义]]、问题导向学习（[[Problem-Based Learning|PBL]]）及探究式学习（IBL）等学习心理学理论的讨论主要服务于思想史定位，未展开这些理论内部在认知机制层面的细微差别。(pp.7–8)
 

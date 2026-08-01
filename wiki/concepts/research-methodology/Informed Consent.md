@@ -7,7 +7,7 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖四个前提要素、合理知情同意策略、标准构成要素、儿童与弱势群体的特殊处理，以及在产学合作中因共同规则适用不对称而成为协议谈判中的不可协商前提"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Emergence]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
   - "[[Research Purpose]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Hawthorne Effect]]"
@@ -80,7 +81,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > - **自愿（Voluntarism）**
 >   参与者自由选择参与或拒绝，确保对风险的暴露是知情且自愿的。这一要素可能存在问题，尤其是在医学研究领域，不知情的患者被用作受试者。
 > - **充分信息（Full Information）**
->   同意应建立在充分信息之上，但实践中研究者往往无法告知参与者一切（如数据的统计处理）。在此情况下适用合理知情同意（reasonably informed consent）策略。
+>   同意应建立在充分信息之上，但[[Praxis|实践]]中研究者往往无法告知参与者一切（如数据的统计处理）。在此情况下适用合理知情同意（reasonably informed consent）策略。
 > - **理解（Comprehension）**
 >   参与者完全理解研究项目的性质，即使程序复杂且涉及风险。可通过使用受过高等教育的参与者、聘请顾问解释困难或在请求参与与决策时间之间建立间隔来确保理解。
 
@@ -164,7 +165,7 @@ Diener & Crandall (1978) 的定义涉及四个前提要素（[[Argument_Cohen_Ma
 > | **灵活性** | 更大灵活性决定研究方案审查和受试者保护方式 | 受共同规则约束——只要研究符合"旨在发展或贡献可推广知识的系统性调查"即触发 IRB 义务 |
 
 
-> [!implication]- 实践后果
+> [!implication]- [[Praxis|实践]]后果
 > 1. [[University-Industry Collaboration|产学合作]]可能将企业不习惯遵守的法规引入其研究活动。对于习惯了内部研发灵活性的企业，IRB 的审查周期和知情同意流程可能构成意外的延迟和额外约束
 > 2. 在协议谈判中，大学应将 IRB 审查的时间线和知情同意的要求作为不可协商的前提条件，因为遵守共同规则是大学在联邦法律层面的义务
 > 3. 企业在进入涉及人类受试者的产学合作之前，需要提前了解 IRB 审查和知情同意程序的时间成本，将其纳入项目时间表的预期之中

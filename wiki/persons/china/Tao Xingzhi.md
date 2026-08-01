@@ -9,7 +9,7 @@ summary: "中国教育家，哥伦比亚大学师范学院毕业，杜威在华�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -21,24 +21,25 @@ tags:
   - field/educational-philosophy
   - comparative-education
 related_concepts:
+  - "[[Going Native]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
-  - "[[Recontextualization]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
+  - "[[Normal School]]"
+  - "[[Quality Education]]"
+  - "[[Praxis]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Revoicing]]"
+  - "[[Paradigm Wars]]"
   - "[[Pragmatism in China]]"
-related_theories:
-  - "[[Transfer Translation Transformation]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_theories: []
+related_methods: []
 related_persons:
   - "[[John Dewey]]"
-  - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
-  - "[[Sun Yat-sen]]"
+  - "[[Hu Shi]]"
 related_facts:
   - "[[New Education Movement]]"
-  - "[[1922 Educational System Reform]]"
-  - "[[New Culture Movement]]"
 related_arguments:
   - "[[Argument_Zhou_2024_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
@@ -88,7 +89,7 @@ updated: '2026-07-24'
 >   - **代表著作** 《新教育评论发刊词》（1925）、《伪知识阶级》（1927）。
 >   - **关键概念** [[Scientific Attitude|科学态度]]、衣食主义批判、国情适应。
 >   - **阶段转向** 从激进政治民主转向客观事实与渐进实验方法。
-> - **1929–1946年 — 生活教育与平民/乡村教育实践阶段** 深入乡村与基层，提出“生活即教育、社会即学校、教学做合一”。
+> - **1929–1946年 — 生活教育与平民/乡村教育[[Praxis|实践]]阶段** 深入乡村与基层，提出“生活即教育、社会即学校、教学做合一”。
 >   - **代表著作** 《生活教育》（1929）、《中国大众教育问题》。
 >   - **关键概念** 生活教育、乡村师范、平民改造。
 
@@ -115,7 +116,7 @@ updated: '2026-07-24'
 
 > [!influence-path] 影响路径
 > - **理论路径** 开创了中国“生活教育”理论体系与[[Scientific Attitude|科学态度]]方法论闭环。
-> - **实践路径** 创办晓庄乡村师范，推动民国平民教育与乡村建设运动。
+> - **[[Praxis|实践]]路径** 创办晓庄乡村师范，推动民国平民教育与乡村建设运动。
 > - **1980年代[[Revoicing|话语重构]]** 1980年代初中国学术界通过“重新评价陶行知批判性吸收[[John Dewey|杜威]]”间接解封了杜威思想的合法性，并为邓小平四个现代化提供了教育话语支撑。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.84–86]]）
 
 > [!evidence-grid-a]- 相关研究索引

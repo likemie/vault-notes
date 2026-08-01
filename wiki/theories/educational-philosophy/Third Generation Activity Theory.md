@@ -10,7 +10,7 @@ aliases:
 summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论视角，聚焦多活动系统相遇时的矛盾、边界跨越与扩展性改造机制"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 18
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -18,8 +18,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
   - "[[Analytic Framework]]"
+  - "[[Praxis]]"
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
+  - "[[Dialogue in Education]]"
   - "[[Heterogeneity]]"
   - "[[Theoretical Standpoint]]"
   - "[[Ontology]]"
@@ -33,8 +35,11 @@ related_methods:
   - "[[Case Study]]"
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Template Analysis]]"
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
+related_facts:
+  - "[[Gaokao]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -54,7 +59,7 @@ updated: '2026-07-21'
 > - **知识位置** 连接微观主体心理与宏观社会结构的跨学科中观[[Analytic Framework|分析框架]]，广泛应用于组织学习、工效学与教育改革研究。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590–591)]]
 
 > [!claim] 核心主张
-> 人类实践应被概念化为集体的、对象导向的活动系统。第三代活动理论的核心主张在于：不同活动系统之间的相遇、互动与边界跨越是组织变革的根本源泉；当系统内在与系统之间的结构性矛盾被识别和解决时，活动系统能够通过建构共享客体（Shared Object）实现“扩展性改造（Expansive Transformation）”。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590–591, 600)]]
+> 人类[[Praxis|实践]]应被概念化为集体的、对象导向的活动系统。第三代活动理论的核心主张在于：不同活动系统之间的相遇、互动与边界跨越是组织变革的根本源泉；当系统内在与系统之间的结构性矛盾被识别和解决时，活动系统能够通过建构共享客体（Shared Object）实现“扩展性改造（Expansive Transformation）”。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 590–591, 600)]]
 
 ---
 
@@ -62,7 +67,7 @@ updated: '2026-07-21'
 
 > [!proposition-chain] 三代活动理论的演变命题链
 > - **第一代命题：心理中介三角（Vygotsky, 1978）**
->   人类认知与实践并非刺激—反应的直接联结，个体（主体，Subject）追求发展目标（客体，Object）的过程必然由社会文化符号与工具（中介工具，Mediating Tools）所中介。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]
+>   人类认知与[[Praxis|实践]]并非刺激—反应的直接联结，个体（主体，Subject）追求发展目标（客体，Object）的过程必然由社会文化符号与工具（中介工具，Mediating Tools）所中介。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]
 > - **第二代命题：六要素集体活动系统（Engeström, 1987）**
 >   人类行为应作为集体活动来理解，分析单元由个体中介三角扩展为嵌入在社会情境中的六要素系统（主体、客体、中介工具、共同体、规则、劳动分工）。六要素相互咬合与制约。
 > - **第三代命题：多系统碰撞与扩展性改造（Engeström, 2001）**
@@ -99,12 +104,12 @@ updated: '2026-07-21'
 > |---|---|---|
 > | **主体（Subject）** | 理论要素 | 参与活动系统的个人或群体，如背负问责压力与改革期待的校长与教师。 |
 > | **客体（Object）** | 理论要素 | 活动系统所指向的意图、目标与动机，如提升考试成绩或推行探究教学。 |
-> | **中介工具（Mediating Tools）** | 理论要素 | 主体用于达成客体的符号与物质工具，如讲授法、测试卷、对话教学研讨。 |
+> | **中介工具（Mediating Tools）** | 理论要素 | 主体用于达成客体的符号与物质工具，如讲授法、测试卷、[[Dialogue in Education\|对话]]教学研讨。 |
 > | **共同体（Community）** | 理论要素 | 主体所嵌入的社会关系网络，如家长、教育局、社会公众与学生。 |
 > | **规则（Rules）** | 理论要素 | 规范活动系统运行的显性或隐性制度，如绩效考核、升学规定与评课标准。 |
 > | **劳动分工（Division of Labor）** | 理论要素 | 共同体内成员之间的任务分配、权力结构与风险担保机制。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]] |
 > | **矛盾（Contradictions）** | 解释机制 | 活动系统内部或系统之间出现的结构性张力，是触发变革与创新的根本动力。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 591)]] |
-> | **边界跨越（Boundary Crossing）** | 实践过程 | 行动者进入[[Heterogeneity\|异质性]]活动系统、引入外部中介工具并协商新含义的实践过程。 |
+> | **边界跨越（Boundary Crossing）** | [[Praxis\|实践]]过程 | 行动者进入[[Heterogeneity\|异质性]]活动系统、引入外部中介工具并协商新含义的实践过程。 |
 > | **共享客体（Shared Object）** | 核心概念 | 多个活动系统相遇时协商建构的共同意图与目标，如将 LCE 解码为攻克高阶考题。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598–600)]] |
 > | **扩展性改造（Expansive Transformation）** | 核心成果 | 当共享客体确立后，活动系统要素发生的全面协同重组与文化升级。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 600–602)]] |
 
@@ -115,7 +120,7 @@ updated: '2026-07-21'
 > [!theory-stance] [[Theoretical Standpoint|理论立场]]
 > - **[[Ontology|本体论]]与[[Epistemology|认识论]]** 社会文化历史[[Constructivist Paradigm|建构主义]]——人类认知、心理与组织行为均在具体的文化历史活动系统中被中介和建构，无法脱离中观活动情境单独抽象理解。
 > - **分析单元** 以“集体的、对象导向的活动系统”作为最小分析单元，替代个体行为或宏观制度的单向决定论。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]
-> - **方法论含义** 倡导质性[[Case Study|案例研究]]、[[Ethnography|民族志]]与发展性工作研究（Developmental Work Research），聚焦系统要素匹配、矛盾演进与转型实践。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]
+> - **方法论含义** 倡导质性[[Case Study|案例研究]]、[[Ethnography|民族志]]与发展性工作研究（Developmental Work Research），聚焦系统要素匹配、矛盾演进与转型[[Praxis|实践]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]
 > - **不能直接推出的东西** 本理论无法直接推出脱离中观情境的个体心理因果律，也不能将活动系统矛盾等同于机械的因果推论，更不能将共享客体建构误写为无摩擦的完美和谐过程。
 
 > [!theory-use] 理论使用方式
@@ -152,15 +157,15 @@ updated: '2026-07-21'
 > > [!axis] 系统决定论与微观主体主观能动性的张力
 > > 批评者认为活动理论过于强调六要素系统结构的制约，可能掩盖微观个体（如个别教师或学生）在系统压制下的主观能动性与抗争。
 > >
-> > - **Engeström（2001）** 强调扩展性改造正源于主体的边界跨越与实践创新。
+> > - **Engeström（2001）** 强调扩展性改造正源于主体的边界跨越与[[Praxis|实践]]创新。
 >
 > > [!axis] 六要素模型的抽象性与[[Operationalization|操作化]]门槛
 > > 部分研究者指出活动系统的六要素在实际[[Coding in Qualitative Research|编码]]中边界有时较为模糊，容易导致描述性归类而非深度的因果机制分析。
 > >
-> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, p. 593)]]** 示范了如何通过模板分析（Template Analysis）将六要素精确操作化为质性编码节点。
+> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, p. 593)]]** 示范了如何通过[[Template Analysis|模板分析]]（Template Analysis）将六要素精确操作化为质性编码节点。
 >
 > > [!axis] 系统间权力不对等与矛盾调和的假象
-> > 批评者质疑当高利害[[Test-Based Accountability|考试问责]]（如高考）与教学法改革相遇时，系统间存在巨大权力不对等，共享客体的建构可能只是强系统对弱系统的妥协或吸纳。
+> > 批评者质疑当高利害[[Test-Based Accountability|考试问责]]（如[[Gaokao|高考]]）与教学法改革相遇时，系统间存在巨大权力不对等，共享客体的建构可能只是强系统对弱系统的妥协或吸纳。
 > >
 > > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp. 601–603)]]** 证实了这种结构性硬边界的存在：即使实现扩展性改造，[[Learner-Centred Education|LCE]] 依然排除了学生共决课程与考试的权力共享维度。
 

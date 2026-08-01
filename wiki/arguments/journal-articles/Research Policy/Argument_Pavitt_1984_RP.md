@@ -7,7 +7,7 @@ title: "Argument_Pavitt_1984_RP"
 argument_key: "Argument_Pavitt_1984_RP"
 argument_display_title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
 argument_kind: "journal-article"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Interaction Effect]]"
@@ -104,7 +105,7 @@ updated: 2026-07-13
 > [!info] 反对"技术即信息"的[[Epistemology|认识论]]立场
 > Pavitt 的出发点是反对将技术知识视为"信息"——普遍适用、易于复制的知识。他基于 SPRU 数据库中约 2,000 项英国自 1945 年以来的重大创新数据，提出了三个核心命题：
 > - **企业特定性（firm-specific）** 不同企业在相似技术领域积累的知识不可互换
-> - **累积性（cumulative）** 今天的创新能力取决于昨天的技术积累，技术变迁不存在"跳跃到最佳实践"的捷径
+> - **累积性（cumulative）** 今天的创新能力取决于昨天的技术积累，技术变迁不存在"跳跃到最佳[[Praxis|实践]]"的捷径
 > - **产业差异性（varied amongst sectors）** 技术知识的来源和方向因产业而异
 
 > 这一认识论立场直接推导出产业分类的必要性：如果技术知识在产业间根本不同，就需要一个分类框架来识别和解释这些差异。

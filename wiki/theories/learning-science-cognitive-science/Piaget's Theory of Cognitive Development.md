@@ -7,7 +7,7 @@ aliases:
 summary: "皮亚杰的认知发展四阶段建构主义理论，区分感觉运动、前运算、具体运算和形式运算等发展阶段"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 24
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -25,10 +25,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Interaction Effect]]"
   - "[[Paradigm]]"
+  - "[[Growth]]"
   - "[[Cognitive Shifting]]"
   - "[[Attentional Inertia]]"
   - "[[Hypothesis]]"
   - "[[Literature Review]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Neo-Piagetian Theories]]"
 related_methods:
@@ -153,7 +155,7 @@ updated: 2026-07-13
   - *A非B任务 (A-not-B Task)*：用于评估婴儿的客体永久性。7–12 个月的婴儿在成功执行该任务（物体隐藏在A处，婴儿多次找到；随后当面将其隐藏在B处，婴儿依然去A处寻找）和客体检索任务 (Object Retrieval Task) 时表现出逐步改善 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 9)]]。
 - **脑发育生理机制**
   - *爆发性[[Synaptogenesis|突触发生]] (Synaptogenesis)*：在 7–12 个月期间，背外侧前额叶皮层 (Dorsolateral Prefrontal Cortex, dlPFC) 第 III 层锥体细胞 (Layer III Pyramidal Cells) 的树突突触连结迅速延伸并达到成人长度 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 9)]]。
-  - *PFC 整体发育的延迟性 (Protracted Development)*：尽管锥体细胞连结生长迅速，但 PFC 整体树突连结到 2 岁时仅达到成人水平的一半 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 9)]]。
+  - *PFC 整体发育的延迟性 (Protracted Development)*：尽管锥体细胞连结[[Growth|生长]]迅速，但 PFC 整体树突连结到 2 岁时仅达到成人水平的一半 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 9)]]。
   - *神经元与化学递质变化*：7.5–12 个月间 PFC 神经元胞体显著增大；多巴胺和乙酰胆碱等神经递质在 PFC 相对其他脑区发生快速的化学重组；至 12 个月时，PFC 的葡萄糖代谢 (Glucose Metabolism) 水平已达到成人水平 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 9)]]。
 - **执行功能 (EF) 表征**
   - *注意力控制 (Attention Control)*：约在 4–6 个月开始显现，被认为是后期 EF 表现（如抑制控制和[[Working Memory|工作记忆]]广度）的底层预测指标；12个月至4岁儿童的[[Cognitive Shifting|认知转换]]表现高度依赖注意力控制 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 10)]]。
@@ -246,6 +248,6 @@ updated: 2026-07-13
 ## 应用领域
 
 > [!success] 教学设计与认知测评应用
-> - **发展适宜性实践 (Developmentally Appropriate Practice, DAP)** — 指导学校课程设计必须契合儿童当前阶段的认知图式与前额叶发育限制，避免过度超前教学。
+> - **发展适宜性[[Praxis|实践]] (Developmentally Appropriate Practice, DAP)** — 指导学校课程设计必须契合儿童当前阶段的认知图式与前额叶发育限制，避免过度超前教学。
 > - **认知负荷与教学干预 (Cognitive Load Management)** — 依据具体运算和形式运算阶段的[[Working Memory|工作记忆]]更新容量限制，优化教材中抽象符号与具象材料的配比，减轻学生在[[Executive Function|执行功能]]上的过度消耗 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, pp. 19–20)]]。
 > - **探究式学习与科学教育 (Inquiry-based Learning)** — 支持基于[[Constructivist Paradigm|建构主义]]的主动探索教学，鼓励学生通过亲手操作、守恒实验等活动，在认知失衡中主动实现图式的同化与顺应。

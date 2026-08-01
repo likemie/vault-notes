@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Scientific Attitude]]"
+  - "[[Democratic Education]]"
   - "[[Self-Cultivation]]"
   - "[[Pragmatism in China]]"
 related_theories: []
@@ -82,7 +83,7 @@ updated: '2026-07-24'
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **为[[New Education Movement|新教育运动]]提供文化与意识形态框架** 对儒家传统的批判以及“民主”“科学”口号，直接赋予儿童中心教学法与民主教育理想合法性。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]]）
+> - **为[[New Education Movement|新教育运动]]提供文化与意识形态框架** 对儒家传统的批判以及“民主”“科学”口号，直接赋予儿童中心教学法与[[Democratic Education|民主教育]]理想合法性。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]]）
 > - **教育被重构为社会与政治改造的核心杠杆** 推动知识界将教育视为改造社会与国家的根本手段，赋予教育重构新国家的神圣使命。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.615]]）
 > - **瓦解[[1904 Educational System|1904年学制]]文化合法性** 对儒家经典的批判使保留[[Self-Cultivation|修身]]经书课的旧学制丧失生存基础，直接促成了1922年美式“新学制”的诞生。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.612–614]]）
 > - **塑造外来[[Pragmatic Paradigm|实用主义]]的选择性接纳** 激进救国心态促使民国精英高度采纳[[John Dewey|杜威]]的民主理想，却忽视了其渐进实验方法。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–616]]）

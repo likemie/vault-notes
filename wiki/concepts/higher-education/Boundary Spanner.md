@@ -12,7 +12,7 @@ aliases:
 summary: "在产学合作中充当学术界与产业界之间桥梁的专业角色，负责建立信任、翻译双方需求、协调跨组织合作流程"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
+  - "[[Praxis]]"
   - "[[Master Agreement]]"
   - "[[Concierge Service]]"
 related_theories: []
@@ -60,7 +61,7 @@ updated: 2026-05-27
 ### 组织化角色：关系经理
 
 > [!note]-
-> [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]从实践角度描述了边界跨越者的一个特定组织形式——**关系经理（relationship manager）**，将其列为产学联盟与联合体的三种基础设施性要素之一（pp.106–107）。
+> [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]从[[Praxis|实践]]角度描述了边界跨越者的一个特定组织形式——**关系经理（relationship manager）**，将其列为产学联盟与联合体的三种基础设施性要素之一（pp.106–107）。
 >
 > 关系经理的核心职责是**认领一段关系并对它的存活负责**。具体职能包括：定期组织不可跳过的会议以维持合作热度；在企业预算周期和大学学术日历之间寻找对接窗口——例如在企业财年末有未花完预算时快速启动项目；在 [[Master Agreement|主协议]]已签署的前提下，抓住"两周内"的机会窗口将剩余预算转化为试点研究（pp.106–107）。
 >
@@ -77,7 +78,7 @@ updated: 2026-05-27
 ## 实证发现
 
 > [!success]
-> Pertuze et al.（2010）将设置边界跨越项目经理列为[[University-Industry Collaboration|产学合作]]的最佳实践之一（转引自 Boccanfuso & Hall, 2025b, p.54）。
+> Pertuze et al.（2010）将设置边界跨越项目经理列为[[University-Industry Collaboration|产学合作]]的最佳[[Praxis|实践]]之一（转引自 Boccanfuso & Hall, 2025b, p.54）。
 >
 > Boccanfuso & Hall（2025, p.68）的企业调查中，一位企业受访者描述了边界跨越者的理想特征："University Partnership Managers who can make the process of understanding the universities research capabilities easier. University Partnership Managers specialized in my industry, to know what they need to know about working with us."——即**懂行业**（而非仅仅懂学科）的大学伙伴关系经理。
 

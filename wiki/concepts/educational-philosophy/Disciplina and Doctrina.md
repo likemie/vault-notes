@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - sociology-of-knowledge
 related_concepts:
   - "[[Phenomenon-Based Learning]]"
+  - "[[Dialogue in Education]]"
   - "[[Epochal Key Problems]]"
   - "[[Global Education Industry]]"
   - "[[Ontology]]"
@@ -59,7 +60,7 @@ updated: 2026-06-22
 > | 维度 | Disciplina (规训/教规) | Doctrina (教学/更新) |
 > |------|---|---|
 > | **核心指向** | 巩固、存储并复制既有的知识与规范（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]）。 | 生产、质疑、调整并更新人类的知识系统。 |
-> | **教育手段** | 方法灌输、纪律约束、对错误的纠正或惩罚。 | 行动者反思、社会互动协作、批判性对话与未知探索。 |
+> | **教育手段** | 方法灌输、纪律约束、对错误的纠正或惩罚。 | 行动者反思、社会互动协作、批判性[[Dialogue in Education\|对话]]与未知探索。 |
 > | **时间取向** | 面向过去（维护传统的稳定性与继承性）。 | 面向未知和 radical 开放的未来（非目的论过程）。 |
 > | **政策表现** | 标准化测试、成果导向课程、细分技能指标考核。 | 跨学科探究、围绕[[Epochal Key Problems\|时代关键问题]]开展非预设讨论。 |
 

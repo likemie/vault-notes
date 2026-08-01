@@ -6,7 +6,7 @@ aliases:
 summary: "研究敏感话题的研究者因研究主题本身而被社会污名波及的现象——研究者与被研究者共享同一种社会污名"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Evaluation Research]]"
   - "[[Guilty Knowledge]]"
+  - "[[Praxis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_methods:
@@ -46,5 +47,5 @@ updated: 2026-07-11
 > [!example] 典型情境
 > Lee (1993, p. 9) 指出，研究人类性行为的研究者尤其容易遭受污名传染——他们可能因[[Research Topic|研究主题]]而被同事、学生、资助机构或公众以异样眼光看待。研究越轨群体、艾滋病患者、性工作者、药物使用者等被污名化群体的研究者，同样面临这一风险。
 
-> [!warning] 对研究实践的影响
+> [!warning] 对研究[[Praxis|实践]]的影响
 > Lee (1993, p. 34) 进一步指出，污名传染可能导致"寒蝉效应"（chilling）——研究者因预期到来自同事的敌对反应（如种族议题上的批评）而"不敢开展或传播研究"。在极端情况下，污名传染可能使整个研究领域被边缘化。

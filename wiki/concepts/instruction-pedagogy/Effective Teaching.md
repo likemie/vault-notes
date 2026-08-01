@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,9 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Feedback]]"
   - "[[Hypothesis]]"
+  - "[[Dialogue in Education]]"
   - "[[Variable]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods:
@@ -77,7 +79,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Hofstede's Cultural Dimensions]] 为 Laursen 的跨文化问题提供了[[Hypothesis|假设]]来源：如果丹麦文化高度个人主义、低权力距离、女性化且低不确定性规避，那么开放、对话、弱教师控制的教学似乎应更适合丹麦学生([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–37]])。
+> - [[Hofstede's Cultural Dimensions]] 为 Laursen 的跨文化问题提供了[[Hypothesis|假设]]来源：如果丹麦文化高度个人主义、低权力距离、女性化且低不确定性规避，那么开放、[[Dialogue in Education|对话]]、弱教师控制的教学似乎应更适合丹麦学生([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–37]])。
 > - 丹麦证据部分否定了这一预期。SFI 报告显示，开放、弱控制的教学主要有利于社会背景较强的学生；对社会背景较弱的学生来说，明确的教师领导和清晰目标更重要。Laursen 因此认为，Hofstede 所谓"丹麦国家文化"可能更接近受教育中产阶级文化，而不是所有丹麦学生共享的文化([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.40]])。
 
 ## 情境机制
@@ -135,7 +137,7 @@ Laursen 的结论是，Hattie、Meyer 和 Helmke 关于有效教学的综合"总
 > [!example] 相关研究与案例
 > - [[Argument_Laursen_2015_Paideia]] — 比较 Hattie、Meyer、Helmke 国际综合与丹麦研究，论证有效教学核心质量在丹麦总体适用。
 > - [[SFI Report]] — 检验国际有效教学综合丹麦适用性的主要本土证据。
-> - [[Jill Mehlbye]] — 通过丹麦高绩效学校研究，为高要求、学业表现取向、明确[[Classroom Management|课堂管理]]和测试实践提供补充证据。
+> - [[Jill Mehlbye]] — 通过丹麦高绩效学校研究，为高要求、学业表现取向、明确[[Classroom Management|课堂管理]]和测试[[Praxis|实践]]提供补充证据。
 > - [[Danish Public School Reform]] — 丹麦政策语境中对学习目标、学生学习结果和 Hattie 的采纳，使有效教学问题与[[Visible Learning]]在丹麦的传播相互交织。
 > - [[Hofstede's Cultural Dimensions]] — 提供国家文化[[Hypothesis|假设]]，但丹麦证据提示社会背景比国家文化更能解释开放教学效果差异。
 

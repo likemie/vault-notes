@@ -8,7 +8,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 62
+fact_related_count: 64
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Performance Pay]]"
   - "[[Effect Size]]"
+  - "[[Praxis]]"
   - "[[Sage]]"
   - "[[Technical Rationality]]"
   - "[[Further Education]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
+  - "[[Dialogue in Education]]"
   - "[[Cult of the Guru]]"
   - "[[Material Fallacies]]"
   - "[[Surface and Deep Learning]]"
@@ -151,7 +153,7 @@ updated: '2026-05-18'
 > Cognition Education 的 VLplus 产品体系发展为三个系列共 16 个工作坊([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.67]])：
 >
 > - **Foundation 系列** 基础工作坊，介绍 VL 核心理念和 [[Effect Size|效应量]] 方法论
-> - **Inside 系列** 深入工作坊，针对具体教学实践领域
+> - **Inside 系列** 深入工作坊，针对具体教学[[Praxis|实践]]领域
 > - **Collaborative Impact 系列** 学校整体改进工作坊
 > - **学校认证** 学校可申请被评估认证为 Visible Learning Impact Certified School
 >
@@ -289,7 +291,7 @@ updated: '2026-05-18'
 >
 > 瑞典路径与丹麦和俄罗斯都不同。这里的 VL 影响更少表现为公开的政策争论或译著事件，更多表现为学校改进重心的再定向。Håkansson（2015）指出，2010 年代中期瑞典出现了一种“教学复兴”路径，学校改进越来越多转向课堂近端策略、同伴观察、教师协作和围绕教学主题的系统性质量工作（pp.52–59）。
 >
-> 这一转向的制度背景，是瑞典学校法要求教学建立在“科学基础与经验证据”之上。VL 在这里的作用，不是简单提供一张可直接照搬的教学排行榜，而是提供一套能把研究语言翻译成学校工作流程的框架，例如围绕清晰目标、反馈、课堂领导和教师影响来组织改进（Håkansson, 2015, pp.53–57）。Håkansson 跟踪的 5 所学校显示，这种转化是否真正发生，取决于校长能否长期稳定聚焦单一主题、教师能否围绕具体课堂片段展开专业对话，以及学校是否具备足够的“变革资本”来支撑持续组织学习（pp.58–59）。详见 [[Visible Learning in Sweden]]。
+> 这一转向的制度背景，是瑞典学校法要求教学建立在“科学基础与经验证据”之上。VL 在这里的作用，不是简单提供一张可直接照搬的教学排行榜，而是提供一套能把研究语言翻译成学校工作流程的框架，例如围绕清晰目标、反馈、课堂领导和教师影响来组织改进（Håkansson, 2015, pp.53–57）。Håkansson 跟踪的 5 所学校显示，这种转化是否真正发生，取决于校长能否长期稳定聚焦单一主题、教师能否围绕具体课堂片段展开专业[[Dialogue in Education|对话]]，以及学校是否具备足够的“变革资本”来支撑持续组织学习（pp.58–59）。详见 [[Visible Learning in Sweden]]。
 >
 > #### 俄罗斯
 >
@@ -306,7 +308,7 @@ updated: '2026-05-18'
 >
 > [[Visible Learning|VL]] 品牌对学术批评表现出显著的免疫力。尽管存在 Higgins & Simpson (2011)、Snook et al. (2009, 2010)、[[Argument_Terhart_2011_JCS|Terhart (2011)]]、[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]] 等实质性方法论批评，Hattie 的工作仍"被政治家和协会引用时仿佛是不容置疑的事实"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])。
 >
-> **出版过程的双重标准**[[Argument_Hattie_2017_SLM|Hattie (2017)]]对 Eacott 的回应被 *[[School Leadership]] & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 大师地位 被编辑合法化的主张的证据"。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。
+> **出版过程的双重标准**[[Argument_Hattie_2017_SLM|Hattie (2017)]]对 Eacott 的回应被 *[[School Leadership]] & Management* 在**两天内接收和发表**——而 Eacott 的原论文经历了"数月和多轮评审"。Eacott 指出这一差异本身"将是证实我关于 大师地位 被编辑合法化的主张的证据"。Eacott 随后被编辑拒绝发表对 Hattie 回应的再回应——编辑以"有大量新作者等待发表"为由拒绝，Eacott 认为这"说明了该领域学术工作的逻辑中对[[Dialogue in Education|对话]]和辩论的低优先级"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])。
 >
 > **Hattie 本人的距离感** Hattie 已在某种程度上与 VL 的被运用方式保持距离，表示如果重新来过会避免"结果的暴政"（tyranny of outcomes）（Hattie, in Knudsen, 2017，引自 McKnight & Whitburn, 2020, p.35）。然而，[[Argument_McKnight_2020_Discourse|McKnight & Whitburn (2020, p.35)]]指出 VL"作为一种与更广泛社会和政治力量纠缠的现象"已不完全受 Hattie 个人控制。
 >
@@ -339,7 +341,7 @@ updated: '2026-05-18'
 >
 > #### [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 维多利亚州政策影响
 >
-> O'Connor 指出 VL 已在澳大利亚维多利亚州公立教育系统中成为官方推荐实践：10 项 [[Victorian HITS and Literacy Toolkit|HITS]] 均以 VL 为首要参考，Literacy Toolkit 显著引用 Hattie 的研究([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.141]])。O'Connor 的结论是："试图通过 [[Visible Learning]] 报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])。
+> O'Connor 指出 VL 已在澳大利亚维多利亚州公立教育系统中成为官方推荐[[Praxis|实践]]：10 项 [[Victorian HITS and Literacy Toolkit|HITS]] 均以 VL 为首要参考，Literacy Toolkit 显著引用 Hattie 的研究([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.141]])。O'Connor 的结论是："试图通过 [[Visible Learning]] 报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])。
 >
 > #### [[Argument_Blass_2020_JESP|Blass (2020)]] — 澳大利亚国家层面政策批评：VL 作为"不改变的好借口"
 >
@@ -367,7 +369,7 @@ updated: '2026-05-18'
 > [!warning] 争议与评论
 > - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]质疑全球有多少公共资金被转移到 [[Visible Learning|VL]] 产品中，但认为"简单、廉价、课堂级别的修复方案"正是其商业模式的核心吸引力（pp.31, 36）
 > - 品牌对学术批评的免疫力——Hattie 的回应被期刊两天内接收发表，批评者原论文经历数月多轮评审([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777]])
-> - Eacott 被编辑拒绝发表对 Hattie 回应的再回应，揭示了学术出版中对话和辩论的低优先级([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
+> - Eacott 被编辑拒绝发表对 Hattie 回应的再回应，揭示了学术出版中[[Dialogue in Education|对话]]和辩论的低优先级([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 > - [[Cognition Education|Cognition Education Trust]] 的慈善捐赠仅占集团总收入的 0.9%（2015 年），引发对其慈善信托地位的质疑([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.71–73]])
 > - 一线教育者通过私人邮件而非公开辩论表达对 VL 霸权的不满([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]])
 > - Hattie 本人已在某种程度上与 VL 保持距离，表示如果重新来过会避免"结果的暴政"([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]])

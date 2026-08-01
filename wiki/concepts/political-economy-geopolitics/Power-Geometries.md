@@ -6,7 +6,7 @@ aliases:
 summary: "Massey 的空间理论概念，指空间中的开放、封闭和互联总是通过不平等的社会关系被建构和分配。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Operationalization]]"
+  - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
@@ -75,7 +76,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note]-
-> 权力几何学概念在 Massey 的 *For Space*（2005）中得到最系统的阐述，但她的前期工作（Massey, 1994 *Space, Place and Gender*）已奠定了"空间关系中的权力"这一分析方向。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将权力几何学引入[[Geopolitics of Higher Education|高等教育地缘政治]]分析，将其[[Operationalization|操作化]]为三个经验问题：（1）谁控制着高等教育空间的开放与封闭？（2）哪些机构从全球流动中获益最多？（3）高等教育空间的不平等如何被"想象"和"实践"再生产？([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 12]])
+> 权力几何学概念在 Massey 的 *For Space*（2005）中得到最系统的阐述，但她的前期工作（Massey, 1994 *Space, Place and Gender*）已奠定了"空间关系中的权力"这一分析方向。[[Argument_Marginson_2025_ROE|Marginson (2025)]]将权力几何学引入[[Geopolitics of Higher Education|高等教育地缘政治]]分析，将其[[Operationalization|操作化]]为三个经验问题：（1）谁控制着高等教育空间的开放与封闭？（2）哪些机构从全球流动中获益最多？（3）高等教育空间的不平等如何被"想象"和"[[Praxis|实践]]"再生产？([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 12]])
 
 ---
 

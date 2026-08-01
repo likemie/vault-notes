@@ -10,7 +10,7 @@ summary: "明代心学思想家，以良知说和知行合一反对程朱理学�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 10
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,9 @@ tags:
 - school/yangming-school
 related_concepts:
   - "[[Self-Cultivation]]"
+  - "[[Praxis]]"
   - "[[Sage]]"
+  - "[[Dialogue in Education]]"
   - "[[Four Sprouts]]"
   - "[[Subjectivism]]"
   - "[[Conatus]]"
@@ -49,7 +51,7 @@ updated: '2026-06-08'
 > [!info]
 > 王阳明（Wang Yangming, 1472–1529），明代思想家，心学代表人物。在对[[Neo-Confucianism|程朱理学]]主导地位提出挑战的同时，仍坚守儒家学习的根本目的——"学以[[Self-Cultivation|修身]]"([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
 
-其学说的独特之处在于：将学习的动力从外在的天理转向内在的良知，将[[Self-Cultivation|修身]]的途径从学术积累转向实践中的知行合一，从而将原本高远的[[Sage|圣人]]目标向普通人——包括底层百姓——开放([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
+其学说的独特之处在于：将学习的动力从外在的天理转向内在的良知，将[[Self-Cultivation|修身]]的途径从学术积累转向[[Praxis|实践]]中的知行合一，从而将原本高远的[[Sage|圣人]]目标向普通人——包括底层百姓——开放([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
 
 ---
 
@@ -66,7 +68,7 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract]
-> - 《传习录》（Instructions for Practical Living）— 记录其讲学内容的对话体著作
+> - 《传习录》（Instructions for Practical Living）— 记录其讲学内容的[[Dialogue in Education|对话]]体著作
 > - 相关诗文和书信
 
 ---
@@ -88,7 +90,7 @@ updated: '2026-06-08'
 
 延续儒家以行动而非言语评判道德成就的标准，王阳明主张：
 
-> 一个人必须不懈地实践自己所知道的，才能达成[[Sage|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
+> 一个人必须不懈地[[Praxis|实践]]自己所知道的，才能达成[[Sage|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
 
 > [!quote]
 > 这一思想的关键推论在于：它将"原本高远、难以到达的圣人目标向所有人——包括普通人——开放，不受社会约束或学术造诣的限制（后者被程朱学派所强调）"。这一信条"极大地鼓励了普通人追求同样的道德卓越"([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
@@ -104,7 +106,7 @@ updated: '2026-06-08'
 |------|----------|--------|
 | 学习动力来源 | 天理（外在） | 良知（内在） |
 | 学习路径 | 格物致知 → 读书积累 | 致良知 → 知行合一 |
-| [[Sage\|圣人]]可达性 | 理论上人人可达，但实践上重学术积累 | 无社会约束和学术门槛，面向普通人 |
+| [[Sage\|圣人]]可达性 | 理论上人人可达，但[[Praxis\|实践]]上重学术积累 | 无社会约束和学术门槛，面向普通人 |
 | 对实践的态度 | 读书为先 | 实践与认知同等重要 |
 | 源头追溯 | [[Cheng Brothers\|程颢]]、程颐 | [[Mencius\|孟子]]的[[Four Sprouts\|四端]]说 |
 
@@ -132,7 +134,7 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning]
-> - 王阳明对"良知"的强调，如果脱离了严格的[[Self-Cultivation|修身]]实践，可能导致[[Subjectivism|主观主义]]——"既然良知人人都有，那还需要[[Conatus|努力]]学习吗？"（这一点在阳明后学中确实出现了"空谈心性"的流弊）
+> - 王阳明对"良知"的强调，如果脱离了严格的[[Self-Cultivation|修身]][[Praxis|实践]]，可能导致[[Subjectivism|主观主义]]——"既然良知人人都有，那还需要[[Conatus|努力]]学习吗？"（这一点在阳明后学中确实出现了"空谈心性"的流弊）
 > - 程朱与阳明之争持续数百年，到清代考据学兴起后，两者的对立也被学者反思和调和
 
 ---

@@ -7,7 +7,7 @@ summary: "英国教育评估学者，形成性评价研究代表人物和教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Validity as Inferences]]"
+  - "[[Praxis]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
@@ -71,7 +72,7 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Wiliam, D. (2016). *Leadership for teacher learning: Creating a culture where all teachers improve so that all learners succeed*. Learning Sciences International. — 聚焦教师专业发展和[[Formative Assessment|形成性评价]]的实践应用
+> - Wiliam, D. (2016). *Leadership for teacher learning: Creating a culture where all teachers improve so that all learners succeed*. Learning Sciences International. — 聚焦教师专业发展和[[Formative Assessment|形成性评价]]的[[Praxis|实践]]应用
 > - Wiliam, D. (2019). Some reflections on the role of evidence in improving education. *Educational Research and Evaluation*, 25(7–8), 392–404. — 对 [[Evidence-Based Education|EBE]] 的方法论反思：教育知识局部且临时，"什么有效"是错误问题
 > - Boaler, J., Wiliam, D., & Brown, M. L. (2000). Students' experiences of [[Tracking|ability grouping]]. *British Educational Research Journal*, 26(5), 631–648. — 发现能力分组降低学生成就，但后来因教师质量新证据而结论不再明确
 > - Wiliam, D., & Bartholomew, H. (2004). It's not which school but which set you're in that matters. *British Educational Research Journal*, 30(2), 279–293. — 关于能力分组安排对学生进步影响的差异中差研究

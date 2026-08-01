@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_NordPsych"
 argument_key: "Argument_Nielsen_2021_NordPsych"
 argument_display_title: "Blind spots in visible learning: A critique of John Hattie as an educational theorist"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -34,7 +34,9 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Homework]]"
   - "[[Effect Size]]"
+  - "[[Praxis]]"
   - "[[Variable]]"
+  - "[[Dialogue in Education]]"
   - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -87,7 +89,7 @@ citation_aliases:
 > 2. **论证步骤一——Hattie 是教育理论家** 所有研究都基于理论[[Hypothesis|假设]]（定义问题、选择方法、解释结果）。Hattie 未阐明其理论假设，制造了"结果从数据中无中介流出"的假象。其隐含理论是[[Technical Rationality|技术理性]] + 行为主义（通过 Glaser）
 >
 > 3. **论证步骤二——实证问题**
->    - **单一因果因素** Hattie 追求离散因果因素（如[[Class Size|班级规模]]、[[Homework|作业]]、反馈）的[[Effect Size|效应量]]，但教育实践是相互关联的开放系统。以班级规模为例：Berger (1982) 论证班级规模本身不能作为有意义的分析单元——需结合学生能力、社会背景、教师能力等
+>    - **单一因果因素** Hattie 追求离散因果因素（如[[Class Size|班级规模]]、[[Homework|作业]]、反馈）的[[Effect Size|效应量]]，但教育[[Praxis|实践]]是相互关联的开放系统。以班级规模为例：Berger (1982) 论证班级规模本身不能作为有意义的分析单元——需结合学生能力、社会背景、教师能力等
 >    - **消除调节因素** Hattie 有意排除社会经济地位（SES）作为调节[[Variable|变量]]，仅将其作为独立因素计算 d=0.57。但 [[OECD]] (2005) 确认 SES 是学生学习变异的最重要来源([[Argument_Snook_2009_NZJES|Snook et al., 2009]])。这导致"阶级盲"的教学思维
 > - **d=0.40 截断值** 截断值是叙事工具而非科学标准。阿司匹林预防心脏病 d=0.07，但每 1000 人拯救 34 人
 >    - **效应量隐藏重要维度** 以作业为例，总体 d=0.29 掩盖了小学 d=0.15、高中 d=0.64 的巨大差异
@@ -102,7 +104,7 @@ citation_aliases:
 >      - Swanson & Lussier (2001)：研究考官辅助／动态评估，非反馈
 >    - 5 项最重元分析中 4 项未研究 Hattie 所定义的反馈
 >
-> 5. **结论** Hattie 的技术理性立场导致教育对话过于狭窄，消除了人的意向性（intentionality）和意义寻求。学生被理解为问题解决者而非意向性行动者。人际对话被反馈机制取代。研究教学的出发点应是研究学校的日常实践以及学生、教师和家长参与教育的意义
+> 5. **结论** Hattie 的技术理性立场导致[[Dialogue in Education|教育对话]]过于狭窄，消除了人的意向性（intentionality）和意义寻求。学生被理解为问题解决者而非意向性行动者。人际对话被反馈机制取代。研究教学的出发点应是研究学校的日常实践以及学生、教师和家长参与教育的意义
 
 ## 主要发现
 

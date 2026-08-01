@@ -6,7 +6,7 @@ summary: "用于测试特定行为机制或理论路径的小规模现场实验�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Paradigm]]"
   - "[[Causality]]"
+  - "[[Praxis]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 > |---|---|---|
 > | 核心问题 | 这个项目有效吗？ | 什么使这个项目有效？通过什么路径？ |
 > | 分析单位 | 整个项目/干预包 | 特定[[Causality\|因果]]机制/行为变化 |
-> | 对教师实践的信息价值 | 低——仅告知是否采用预设项目 | 高——提供可[[Transfer Translation Transformation\|迁移]]的行为原则 |
+> | 对教师[[Praxis\|实践]]的信息价值 | 低——仅告知是否采用预设项目 | 高——提供可[[Transfer Translation Transformation\|迁移]]的行为原则 |
 > | 适用决策类型 | 二选一（采用或不采用） | 持续小决策（如何调整、组合、适应） |
 > | 来源[[Paradigm\|范式]] | 医学药物试验 | 发展经济学现场实验 |
 >

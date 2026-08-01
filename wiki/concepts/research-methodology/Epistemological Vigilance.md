@@ -5,10 +5,10 @@ aliases:
 summary: "Bourdieu 的认识论概念，指研究者需持续对日常语言、前科学概念和研究习惯保持批判性警觉。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - epistemological-vigilance
   - epistemology
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Epistemological Break]]"
   - "[[Reflexivity]]"
+  - "[[Praxis]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods: []
@@ -82,12 +83,12 @@ updated: 2026-05-18
 ## 理论基础
 
 > [!info] 理论基础
-> - wiki-[[Pierre Bourdieu]] — [[Epistemology|认识论]]警觉是 Bourdieu 反思社会学的核心实践原则，与"参与性对象化"（participant objectivation）密切相关
+> - wiki-[[Pierre Bourdieu]] — [[Epistemology|认识论]]警觉是 Bourdieu 反思社会学的核心[[Praxis|实践]]原则，与"参与性对象化"（participant objectivation）密切相关
 
 ## 实证发现
 
 > [!success] 实证发现
-> - [[Argument_Eacott_2015_EPT|Eacott (2015)]]以教育行政领域为例论证：该领域很少对其规范性主旨（如"领导力"）提出[[Epistemology|认识论]]层面的质疑——"不像对管理和/或行政的批判，更不用说对官僚制的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到话语层面"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.324]])
+> - [[Argument_Eacott_2015_EPT|Eacott (2015)]]以教育行政领域为例论证：该领域很少对其规范性主旨（如"领导力"）提出[[Epistemology|认识论]]层面的质疑——"不像对管理和/或行政的批判，更不用说对官僚制的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和[[Praxis|实践]]的生成基础——对我们大多数人来说，就是我们的身份——带到话语层面"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.324]])
 > - Gunter（2012, 2013）的描述支持这一判断：管理主义项目的一个核心特征是"将智识工作（如研究对象的建构、解构和重构的批判和分析）贬低为异国情调、放纵和非公共利益"([[Argument_Eacott_2015_EPT|Eacott, 2015, p.323]])
 
 ## 争议与批评

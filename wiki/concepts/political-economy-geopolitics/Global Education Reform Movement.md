@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Whole Language]]"
   - "[[Technical Rationality]]"
+  - "[[Praxis]]"
   - "[[Visible Learning]]"
   - "[[Reference Society]]"
   - "[[Policy Borrowing]]"
@@ -98,7 +99,7 @@ updated: 2026-07-08
 > - **新自由主义的控制议程**
 >   拼读法提供了一种"自上而下输送的、中央高度控制的课程交付模型"，为官僚管理提供了最便捷的手段。
 > - **[[Technical Rationality|技术理性]]的合理化**
->   假借"科学证据"和"[[Meta-analysis|元分析]]"的名义，将复杂的 sociocultural（社会文化）阅读实践还原为单一维度的可测量解码指标，从而让 GERM 的量化控制具有了客观性外衣（p.149–150）。
+>   假借"科学证据"和"[[Meta-analysis|元分析]]"的名义，将复杂的 sociocultural（社会文化）阅读[[Praxis|实践]]还原为单一维度的可测量解码指标，从而让 GERM 的量化控制具有了客观性外衣（p.149–150）。
 > - **商业利益共谋**
 >   国家问责制政策与大型教育商业培训集团（如 Corwin 等拥有 [[Visible Learning]] 培训业务的企业）进行商业绑定，使改革本身沦为跨国教育资本的牟利网络（p.141）。
 
@@ -107,7 +108,7 @@ updated: 2026-07-08
 ## 围绕概念形成的命题
 
 > [!claim] 命题一：[[PISA]] 是 GERM 跨国扩散的核心制度载体
-> [[Argument_Li_2025_HSSC|Li et al. (2025)]]在对 85 篇 PISA 政策影响实证研究的[[Systematic Review|系统综述]]中揭示，PISA 通过新自由主义教育价值（问责、标准化、学校间竞争）的全球扩散，推动各国接受以排名和比较数据为基础的改革逻辑，使 GERM 的五大核心支柱获得了前所未有的跨国制度载体。PISA 在宏观、中观和微观三层决策上驱动各国接受 GERM 的核心要素——标准化的能力测评框架、基于比较数据的政策问责、去情境化的最佳实践转移（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
+> [[Argument_Li_2025_HSSC|Li et al. (2025)]]在对 85 篇 PISA 政策影响实证研究的[[Systematic Review|系统综述]]中揭示，PISA 通过新自由主义教育价值（问责、标准化、学校间竞争）的全球扩散，推动各国接受以排名和比较数据为基础的改革逻辑，使 GERM 的五大核心支柱获得了前所未有的跨国制度载体。PISA 在宏观、中观和微观三层决策上驱动各国接受 GERM 的核心要素——标准化的能力测评框架、基于比较数据的政策问责、去情境化的最佳[[Praxis|实践]]转移（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 
 > [!claim] 命题二：GERM 通过 PISA 的三层运作机制实现全球化
 > PISA 驱动 GERM 的三层运作机制（[[Argument_Li_2025_HSSC|Li et al., 2025]]）：在**宏观决策层面**，PISA 推动各国接受新自由主义教育价值（德国、法国增加支出，日本纳入 PISA 素养，韩国改变[[Reference Society|参考社会]]选择），呼应 GERM 的标准化和市场化支柱；在**中观决策层面**，PISA 推动了各国建立与 PISA 对接的全国性教育评估和监测体系（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP），直接服务于 GERM 的测试问责和偏狭关注支柱；在**微观决策层面**，PISA 推动课程改革和学制调整（德国 NES 课程、瑞士义务教育延长），呼应 GERM 的低风险路径和标准化教学支柱。
@@ -129,7 +130,7 @@ updated: 2026-07-08
 ## 争议与批评
 
 > [!tension] GERM 改革的效率宣称 vs 教育的本质属性
-> - **效率改革立场（蓝方）** 支持者认为标准化测试和问责制为教育体系提供了可比较的绩效基准，企业管理模式提高了资源使用效率，市场竞争激励学校改进——这些正是 GERM 所总结的各国改革实践的共性特征。
+> - **效率改革立场（蓝方）** 支持者认为标准化测试和问责制为教育体系提供了可比较的绩效基准，企业管理模式提高了资源使用效率，市场竞争激励学校改进——这些正是 GERM 所总结的各国改革[[Praxis|实践]]的共性特征。
 > - **教育本质立场（红方）** 批评者指出 GERM 将复杂的教育过程等同于工业制造，课程窄化、教学标准化和教师去专业化是其系统性副作用。[[PISA]] 排名驱动的 GERM 扩散使得教育政策的讨论空间从国家民主协商转移到跨国排名比较的技术[[Champ|场域]]（Sahlberg, 2012; [[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 
 > [!implication]- GERM 通过 PISA 扩散的后果
@@ -164,5 +165,5 @@ updated: 2026-07-08
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何作为 GERM 的核心驱动力运作，揭示了 PISA 在三层决策（宏观/中观/微观）上推动 GERM 全球扩散的具体机制和国别案例。
 > - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州教育部强制推行 10 项 HITS 以规范教师教学，是 GERM 的经典地方落地案例。
 > - [[No Child Left Behind Act 2001]] — 以测试问责和排斥[[Whole Language|全语言]]为核心的美国法案。
-> - [[Rose Report]] — 英国政府通过国家标准强加拼读法的 GERM 实践。
+> - [[Rose Report]] — 英国政府通过国家标准强加拼读法的 GERM [[Praxis|实践]]。
 > - [[PISA]] — 驱动全球国家间教育恶性竞争的标准化评估事实，GERM 的跨国制度载体。

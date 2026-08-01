@@ -7,16 +7,17 @@ aliases:
 summary: "欧裔美国家庭中一种以心智能力与积极情感为中心的家长辅导方式，家长像苏格拉底一样引导儿童发现自身心智的伟大"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/learning
   - theme/parenting
   - theme/socialization
   - region/western
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Cognitive Source]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
@@ -24,6 +25,7 @@ related_concepts:
   - "[[Learning Virtues]]"
 related_theories: []
 related_methods:
+  - "[[Discourse Analysis]]"
   - "[[Mother-Child Conversation]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_persons:
@@ -42,7 +44,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> [[Socrates|苏格拉底]]式辅导是 Li（2012）基于欧裔美国（European-American）母子对话研究提出的一种家庭教育互动模式。在这种模式中，家长——尤其是母亲——以类似苏格拉底引导学童的方式，通过日常对话将儿童的学习信念引向心智能力、思维过程和积极情感的方向。
+> [[Socrates|苏格拉底]]式辅导是 Li（2012）基于欧裔美国（European-American）母子[[Dialogue in Education|对话]]研究提出的一种家庭教育互动模式。在这种模式中，家长——尤其是母亲——以类似苏格拉底引导学童的方式，通过日常对话将儿童的学习信念引向心智能力、思维过程和积极情感的方向。
 
 这一模式的核心信念是：学习的关键在于儿童**心智的伟大（the greatness of the self as a learner）**。家长的任务不是灌输知识，而是打开儿童那"初生但有能力的心智"（nascent but capable mind），让儿童自己去探索、理解、创造。
 
@@ -50,7 +52,7 @@ updated: 2026-05-24
 ## 核心要素
 
 > [!abstract]
-> Li 通过对 !CD 组欧裔美国母子的学习话题对话进行结构分析、序列分析和话语分析，识别出[[Socrates|苏格拉底]]式辅导的以下核心要素([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> Li 通过对 !CD 组欧裔美国母子的学习话题[[Dialogue in Education|对话]]进行结构分析、序列分析和[[Discourse Analysis|话语分析]]，识别出[[Socrates|苏格拉底]]式辅导的以下核心要素([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 ### 认知来源：心智（mental source）
 
@@ -86,7 +88,7 @@ updated: 2026-05-24
 ## 实证发现
 
 > [!success]
-> 序列分析显示，欧裔美国母子的对话围绕**心智活动（mental）**和**积极情感（positive affect）**两个主题展开，无论对话由哪一方发起、无论讨论的是好学习还是差学习([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> 序列分析显示，欧裔美国母子的[[Dialogue in Education|对话]]围绕**心智活动（mental）**和**积极情感（positive affect）**两个主题展开，无论对话由哪一方发起、无论讨论的是好学习还是差学习([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 > [!info] 关键数据
 > - 对好学习的讨论：欧裔美国母亲谈论积极情感的概率比台湾母亲高约 20%
@@ -96,7 +98,7 @@ updated: 2026-05-24
 > [!example]
 > 一个典型的话语案例：母亲引导儿子 Ed 讨论他在自由时间与朋友谈论书籍的行为。母亲将这种行为定性为"非常聪明"（smart），儿子的回应从最初的犹豫（"Sort of. Sometimes"）迅速升级为[[Pride in Learning|自豪]]地宣称"我们实际上想成为世界上最伟大的科学家！"([[Argument_Li_2012_Cambridge|Li, 2012]])。
 >
-> 更多[[Socrates|苏格拉底]]式辅导的对话示例与 Li 的话语分析操作，见 [[MCC Discourse Analysis Examples|MCC 话语分析示例]]。
+> 更多[[Socrates|苏格拉底]]式辅导的对话示例与 Li 的[[Discourse Analysis|话语分析]]操作，见 [[MCC Discourse Analysis Examples|MCC 话语分析示例]]。
 
 ---
 ## 与苏格拉底教学法的类比

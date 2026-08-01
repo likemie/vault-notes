@@ -11,7 +11,7 @@ title: "Argument_Hitchcock_2015_JBE"
 argument_key: "Argument_Hitchcock_2015_JBE"
 argument_display_title: "What Works Clearinghouse standards and generalization of single-case design evidence"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[External Validity]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
@@ -78,7 +79,7 @@ citation_aliases:
 > - **[[External Validity|外部效度]]** 因果推断在多大程度上适用于不同情境、场所、测量、人群——与推广性密切相关，评估远比内部效度复杂(p.462)
 > - 内外部效度并非完全互斥：例如基线描述既用于建立实验控制（内部效度），也描述现状从而为推广性提供信息(p.463)
 >
-> 论文也将 [[Single-Case Design|SCD]] 置于证据本位实践（Evidence-Based Practice）的宏观框架中：开场即申明"长期以来一直存在使用具有强证据基础的干预的呼吁"(p.460)。
+> 论文也将 [[Single-Case Design|SCD]] 置于证据本位[[Praxis|实践]]（Evidence-Based Practice）的宏观框架中：开场即申明"长期以来一直存在使用具有强证据基础的干预的呼吁"(p.460)。
 
 ## 研究方法
 
@@ -135,7 +136,7 @@ citation_aliases:
 
 > [!note-] 可继续提取的信息
 > - **[[Single-Case Design|SCD]] 的基础定义与适用范围** 论文明确将 [[Single-Case Design|SCD]] 定义为一类通过在不同条件下重复测量特定行为或技能、以个体或小群体作为自身控制来评估干预效果的实验方法，并说明它起源于心理学，已用于教育、医学、言语和语言治疗等领域(p.460)。
-> - **单项 SCD 与政策证据之间的距离** 作者指出，一项 SCD 研究即便可能改变局部实践，也通常不足以支持[[Theories of Policy Change|政策变革]]；更强证据需要汇集不同研究团队、不同参与者和不同场所中的多项 SCD 研究。
+> - **单项 SCD 与政策证据之间的距离** 作者指出，一项 SCD 研究即便可能改变局部[[Praxis|实践]]，也通常不足以支持[[Theories of Policy Change|政策变革]]；更强证据需要汇集不同研究团队、不同参与者和不同场所中的多项 SCD 研究。
 > - **推广性判断的具体信息项**[[What Works Clearinghouse|WWC]] SCD Review Guide 记录基线描述、因[[Variable|变量]][[Definition of Terms|操作性定义]]、[[Independent Variable|自变量]]/干预描述、参与者描述和场所描述；这些信息不是被评分，而是提供给读者判断研究发现是否适用于自己的情境(pp.464–466)。
 > - **[[External Validity|外部效度]]的结构性难题** 作者强调，审查者往往不知道消费者希望把证据推广到哪一个具体"点"；这解释了为什么 WWC 选择描述推广性信息，而不是给每个推广性维度设置统一阈值(pp.462–463, 466)。
 > - **SCD 证据的社会[[Epistemology|认识论]]问题** 论文指出，存在一种普遍但错误的信念，认为 SCD 证据不能推广；作者认为 SCD 信息如何支持原始研究场所以外的情境判断仍需进一步澄清(p.467)。
@@ -163,7 +164,7 @@ citation_aliases:
 > 1. **5-3-20 规则的任意性** 规则"在某种程度上是任意的"(p.466)，类似于 p < .05 的惯例也是任意的(Cohen, 1994)
 > 2. **阈值可能过于严格或过于宽松** 可能"功能性压制"信息，也可能被证明"过于宽松"(p.467)
 > 3. **推广性评分的缺位**[[What Works Clearinghouse|WWC]] 不设推广性标准的具体阈值（如"场所描述是否足够好"），而是留给消费者判断——这在某些情况下可能不够
-> 4. **需要更多实践检验** 作者承认"在澄清 [[Single-Case Design|SCD]] 信息如何能为原研究场所以外的情境提供信息方面，还有很多工作要做"
+> 4. **需要更多[[Praxis|实践]]检验** 作者承认"在澄清 [[Single-Case Design|SCD]] 信息如何能为原研究场所以外的情境提供信息方面，还有很多工作要做"
 >
 > ### 外部批评视角
 >

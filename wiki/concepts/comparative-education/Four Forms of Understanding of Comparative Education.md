@@ -6,7 +6,7 @@ aliases:
 summary: "Cowen（2023）诊断比较教育学科长期并存的四种理解形式，包括求同存异、趋同理论、政策科学和结果导向，指出它们各自的政治预设"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,9 +19,11 @@ related_concepts:
   - "[[Convergence Theory in Comparative Education]]"
   - "[[International Education]]"
   - "[[Variable]]"
+  - "[[Growth]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Ontology]]"
   - "[[Educated Identity]]"
+  - "[[Praxis]]"
   - "[[Screening Off]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -78,7 +80,7 @@ updated: 2026-06-06
 > - **现代性理论**。Alex Inkeles 的模式[[Variable|变量]]（pattern variables）等理论。
 > - **新制度主义（当代）**。代码词是同构（isomorphisms），以及温和的动词（如出现、发生、成形），通常缺乏明确的行动主体。
 >
-> **政治解构与缺陷** 政治上看似中性，将各种新同构的出现和成长视为“自然、正常和良性”的演化过程。然而，这种表述的语义策略故意选择无施动主体的温和动词，从而掩盖了同构现象背后的权力关系、地缘政治压力与制度性强制，制造了政治中性的伪装。
+> **政治解构与缺陷** 政治上看似中性，将各种新同构的出现和[[Growth|成长]]视为“自然、正常和良性”的演化过程。然而，这种表述的语义策略故意选择无施动主体的温和动词，从而掩盖了同构现象背后的权力关系、地缘政治压力与制度性强制，制造了政治中性的伪装。
 
 ---
 
@@ -99,7 +101,7 @@ updated: 2026-06-06
 > - **Lauwerys 时期（1965）**。以 Verstehen 方式理解法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型。
 > - **IEA 与 [[PISA]] 时期**。从理解文化转向通过国际测试衡量教育效率。
 >
-> **政治解构与缺陷** 当代的结果导向完全契合于在世界范围内建立新自由主义经济定义的政治斗争。国际测试将复杂的教育情境与文化脉络抽空，仅留下测量技术细节。它沦为效率运动的附属品与社会温度计，并在实践中不断强化和维系单一、特定世界秩序的政治合理性。
+> **政治解构与缺陷** 当代的结果导向完全契合于在世界范围内建立新自由主义经济定义的政治斗争。国际测试将复杂的教育情境与文化脉络抽空，仅留下测量技术细节。它沦为效率运动的附属品与社会温度计，并在[[Praxis|实践]]中不断强化和维系单一、特定世界秩序的政治合理性。
 
 ---
 

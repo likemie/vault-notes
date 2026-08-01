@@ -8,7 +8,7 @@ aliases:
 summary: "企业内部以预算责任负责领导和管理大学合作的团队，通常以叠加层形式嵌入既有组织结构，是产学合作在企业侧的核心组织载体"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Academic Engagement]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
   - "[[Technology Transfer Office]]"
   - "[[Research Translation]]"
 related_facts:
@@ -37,7 +38,7 @@ updated: 2026-06-03
 ## 定义
 
 > [!info]
-> [[Academic Engagement|学术参与]]团队（Academic Engagement Team, AET）是大型企业内部以预算责任负责领导和管理大学合作的组织单位。AET 由[[University-Industry Collaboration|产学合作]]实践者（practitioner）组成——这些实践者同时对大学和公司有深入理解，利用这种双重知识来设计和推进服务于双方利益相关者的合作项目([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.217–218]])。
+> [[Academic Engagement|学术参与]]团队（Academic Engagement Team, AET）是大型企业内部以预算责任负责领导和管理大学合作的组织单位。AET 由[[University-Industry Collaboration|产学合作]][[Praxis|实践]]者（practitioner）组成——这些实践者同时对大学和公司有深入理解，利用这种双重知识来设计和推进服务于双方利益相关者的合作项目([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.217–218]])。
 
 AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加层"（overlay）的形式嵌入公司现有的组织结构之上——AET 的成员可能在中央 CTO 办公室、人力资源部门或分散在各业务单元中，他们的大学合作职责可能是全职或兼职、正式或非正式。这意味着 AET 的实践者必须在矩阵式的、高度分权的环境中运作（pp.222–223）。
 
@@ -62,7 +63,7 @@ AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加
 
 - **预算责任** AET 拥有对大学合作的直接财务投入（资金、设备和人员时间）的决策权或建议权。资助结构——中央化运营预算、企业基金会、业务部门分布式预算、按职能分配、按技术领域分配——决定了 AET 关注什么、忽略什么（pp.228–229）
 - **叠加层嵌入** AET 以叠加层形式嵌入公司既有组织结构。中央化的 AET 通常位于 CTO 或 HR 办公室，分散化的 AET 嵌入特定业务单元。嵌入位置决定了视野——中央化离公司战略全局更近但离业务现实更远，分散化深耕特定业务但可能忽略跨业务线的战略机会（pp.222–223）
-- **利益相关者网络** AET 的实践者需要与分散在组织各处的利益相关者（业务部门负责人、技术领袖、招聘经理等）建立和维护关系。这些利益相关者不是 AET 的下属，而是合作的受益方和资源提供方——AET 实质上是在组织内部"卖"[[University-Industry Collaboration|产学合作]]（pp.217–218）
+- **利益相关者网络** AET 的[[Praxis|实践]]者需要与分散在组织各处的利益相关者（业务部门负责人、技术领袖、招聘经理等）建立和维护关系。这些利益相关者不是 AET 的下属，而是合作的受益方和资源提供方——AET 实质上是在组织内部"卖"[[University-Industry Collaboration|产学合作]]（pp.217–218）
 - **钟摆式演化** AET 的组织形式在公司演化过程中经常在中央化与分散化之间摆动。没有一种组织形式是永久最优的——公司的规模、战略阶段和行业环境变化会持续重塑 AET 的最优设计（p.223）
 
 ---
@@ -70,7 +71,7 @@ AET 的核心组织特征是：它不是独立的业务部门，而是以"叠加
 ## 实践者角色
 
 > [!info]
-> [[University-Industry Collaboration|产学合作]]实践者需要成为"组织通才"（organizational polymath）：技术上敏锐、对公司哲学敏感、能在多种组织设计中导航、善于构建关键利益相关者的支持、并对公司成熟度和行业背景有战略意识（p.218）。
+> [[University-Industry Collaboration|产学合作]][[Praxis|实践]]者需要成为"组织通才"（organizational polymath）：技术上敏锐、对公司哲学敏感、能在多种组织设计中导航、善于构建关键利益相关者的支持、并对公司成熟度和行业背景有战略意识（p.218）。
 
 实践者的核心工作方式因组织嵌入位置而异（pp.217–218）：
 - **自上而下** 从高管利益相关者开始构建支持，逐步向下动员

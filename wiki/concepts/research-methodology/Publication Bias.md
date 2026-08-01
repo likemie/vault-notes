@@ -6,10 +6,10 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，用于解释证据库为何可能高估干预效果。"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - publication-bias
 - file-drawer-effect
@@ -19,16 +19,18 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Effect Size]]"
-  - "[[Hypothesis]]"
+  - "[[Critique of Meta-analysis]]"
   - "[[Developer Effect]]"
+  - "[[Hypothesis]]"
+  - "[[Categorical Funding]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Visible Learning]]"
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
+  - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts:
@@ -37,6 +39,7 @@ related_facts:
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Wolf_2020_JREE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -62,7 +65,7 @@ updated: 2026-07-15
 
 ### Rosenthal 的文件抽屉方法
 
-Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需要多少篇平均效果为零的未发表研究才能推翻已发表研究的显著结论。在一个例子中，这一比率为 **277:1**，表明仅凭发表偏倚很难完全解释已发表的显著结果。但该方法依赖未发表研究平均效果为零的假设，这一假设本身可能不成立。Wolf（1986: 14–17）将发表偏倚列为元分析的六项核心批评之一，指出已发表研究比未发表研究更受青睐。Glass et al.（1981: 226–229）的回应是：元分析恰好适合纳入未发表的学位论文，这些论文往往包含更弱的相关系数，可以对冲已发表研究中更引人注目的结论（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.357–358, 363–365]]）。
+Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需要多少篇平均效果为零的未发表研究才能推翻已发表研究的显著结论。在一个例子中，这一比率为 **277:1**，表明仅凭发表偏倚很难完全解释已发表的显著结果。但该方法依赖未发表研究平均效果为零的[[Hypothesis|假设]]，这一假设本身可能不成立。Wolf（1986: 14–17）将发表偏倚列为元分析的六项核心批评之一，指出已发表研究比未发表研究更受青睐。Glass et al.（1981: 226–229）的回应是：元分析恰好适合纳入未发表的学位论文，这些论文往往包含更弱的相关系数，可以对冲已发表研究中更引人注目的结论（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.357–358, 363–365]]）。
 
 ---
 
@@ -77,13 +80,13 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 > Pratt 和 Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计了未发表论文对总体汇总效果的影响。他们基于汇总证据认为超感知觉存在，但后世对此持怀疑态度——最重要的原因是这些发现未能被重复验证。这说明发表偏差可能导致系统性不完整的研究图景，即使按当时标准进行严格分析也可能无法发现（[[Argument_Higgins_2016_RE|Higgins, 2016, p.35]]）。
 
 > [!info] Vevea-Hedges 权重函数模型
-> [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 438)]] 使用 Vevea & Hedges (1995) 权重函数模型估计经发表偏倚校正后的平均效应量：根据效应量的 p 值区间赋予不同权重，模拟不同显著水平下的发表概率差异，通过似然比检验判断校正模型是否比原始模型更好地拟合数据。
+> [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 438)]] 使用 Vevea & Hedges (1995) 权重函数模型估计经发表偏倚校正后的平均[[Effect Size|效应量]]：根据效应量的 p 值区间赋予不同权重，模拟不同显著水平下的发表概率差异，通过似然比检验判断校正模型是否比原始模型更好地拟合数据。
 
 > [!info] 在[[Developer Effect|开发者效应]]中的角色
 > 发表偏倚可解释约 66% 的开发者效应：开发者研究的原始效应量 +0.292，校正后 +0.276（差异不显著）；独立研究的原始效应量 +0.177，校正后 +0.200（差异显著，$p < .05$，但方向为反向——独立研究的校正效应量反而更大）。原始差异 0.115，校正后差异 0.076（[[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 442]]）。
 
 > [!info] 对教育干预效应量分布的影响
-> [[Argument_Kraft_2023_ER|Kraft (2023)]]指出，教育干预 [[Randomised Controlled Trials|RCT]] 的已发表效应量分布很可能已被发表偏倚推向较大的正效应，因此"36% 的效应量小于 0.05"仍可能低估失败频率。小样本研究若只发现很小估计效应，往往因统计功效不足而更不容易发表；美国教育部委托研究的中位数效应量为 0.03，低于完整样本的 0.10（[[Argument_Kraft_2023_ER|Kraft, 2023, p.186]]）。
+> [[Argument_Kraft_2023_ER|Kraft (2023)]]指出，教育干预 [[Randomised Controlled Trials|RCT]] 的已发表效应量分布很可能已被发表偏倚推向较大的正效应，因此"36% 的效应量小于 0.05"仍可能低估失败频率。小样本研究若只发现很小估计效应，往往因统计功效不足而更不容易发表；美国教育部[[Categorical Funding|委托研究]]的中位数效应量为 0.03，低于完整样本的 0.10（[[Argument_Kraft_2023_ER|Kraft, 2023, p.186]]）。
 
 ## 历史沿革
 
@@ -91,8 +94,8 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 > - **1940 — Pratt 和 Rhine 的最早检测** 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计未发表论文对汇总效果的影响（[[Argument_Higgins_2016_RE|Higgins, 2016, p.35]]）
 > - **1991 — Rosenthal 的文件抽屉方法** 提出量化发表偏倚的经典方法，计算推翻显著结论所需未发表研究数量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, p.355]]）
 > - **1995 — Vevea & Hedges 权重函数模型** 提出用于[[Meta-analysis|元分析]]中发表偏倚统计校正的方法
-> - **2020 — Wolf et al. 首次应用于开发者效应** 将 Vevea-Hedges 校正应用于开发者 vs 独立研究的效应量比较
-> - **2023 — Kraft 的教育 RCT 经验分布** 指出发表偏倚使教育干预"失败"的比例高于已发表文献显示的 36%（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183, 186]]）
+> - **2020 — Wolf et al. 首次应用于[[Developer Effect|开发者效应]]** 将 Vevea-Hedges 校正应用于开发者 vs 独立研究的[[Effect Size|效应量]]比较
+> - **2023 — Kraft 的教育 [[Randomised Controlled Trials|RCT]] 经验分布** 指出发表偏倚使教育干预"失败"的比例高于已发表[[Document|文献]]显示的 36%（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183, 186]]）
 
 ---
 

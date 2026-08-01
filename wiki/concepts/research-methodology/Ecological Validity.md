@@ -6,7 +6,7 @@ aliases:
 summary: "要求将研究场所的具体特征纳入研究考量而非假设政策以预定意图的方式被实施的效度类型，更亲近质性研究的厚描述，与外部效度交叉，在实验控制与真实世界适用性之间构成核心张力"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[External Validity]]"
   - "[[Internal Validity]]"
   - "[[Causality]]"
@@ -44,7 +45,7 @@ updated: 2026-07-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 生态效度关乎研究的真实世界适用性：研究结果在剥离了研究情境的人为性之后，在多大程度上仍然有效。它的对立面是：在严格受控的实验室或测验环境中获得的结果，在真实的课堂、学校和社区中可能毫无意义。
-> - **用途** 在教育中，生态效度对追踪政策如何在粉笔层面（at the chalk face）实际发生尤为关键，检查政策在实践中的实际影响，而非简单地接受政策文本的自我描述。
+> - **用途** 在教育中，生态效度对追踪政策如何在粉笔层面（at the chalk face）实际发生尤为关键，检查政策在[[Praxis|实践]]中的实际影响，而非简单地接受政策文本的自我描述。
 > - **边界** 生态效度不要求研究在每个细节上都反映现实（这在方法论上不可能，在伦理上可能危及匿名性）。它要求的是对情境特征的有意识纳入，而非对客观现实的复制。
 
 > [!boundary]- 概念边界

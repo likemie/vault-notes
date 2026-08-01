@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -22,13 +22,15 @@ tags:
   - level/k-12
 related_concepts:
   - "[[Pride in Learning]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Conatus]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
@@ -64,7 +66,7 @@ updated: 2026-05-23
 ## 社会传播
 
 > [!note]-
-> 高成就学生不仅在校内被认可，还通过媒体在社区中被广泛传播。Li 2005 年访问中国多个城市和乡镇时看到：横幅悬挂于城镇道路和街道上方，[[Pride in Learning|自豪]]地公布当年高考的顶尖学生；镇中心的商家在人行道上张贴公告牌，列出他们对被不同等级大学录取的学生的捐赠金额([[Argument_Li_2012_Cambridge|Li, 2012, pp.105–106]])。
+> 高成就学生不仅在校内被认可，还通过媒体在社区中被广泛传播。Li 2005 年访问中国多个城市和乡镇时看到：横幅悬挂于城镇道路和街道上方，[[Pride in Learning|自豪]]地公布当年[[Gaokao|高考]]的顶尖学生；镇中心的商家在人行道上张贴公告牌，列出他们对被不同等级大学录取的学生的捐赠金额([[Argument_Li_2012_Cambridge|Li, 2012, pp.105–106]])。
 
 这一传统延续到了海外——美国的中文报纸也定期刊登全国、州和地方学术竞赛获奖者的简介([[Argument_Li_2012_Cambridge|Li, 2012, p.106]])。
 
@@ -73,7 +75,7 @@ updated: 2026-05-23
 ## 文化功能
 
 > [!tip]-
-> 三好生制度体现了东亚文化中"榜样学习"（model learning）的传统——这与儒家传统中使用历史典范人物进行教学的长期实践一脉相承。中国九年义务教育语文课程的分析显示，36% 的学习材料包含了这类学习者榜样故事([[Argument_Li_2012_Cambridge|Li, 2012, pp.106–107]])。
+> 三好生制度体现了东亚文化中"榜样学习"（model learning）的传统——这与儒家传统中使用历史典范人物进行教学的长期[[Praxis|实践]]一脉相承。中国九年义务教育语文课程的分析显示，36% 的学习材料包含了这类学习者榜样故事([[Argument_Li_2012_Cambridge|Li, 2012, pp.106–107]])。
 
 榜样学习的核心[[Hypothesis|假设]]与西方形成鲜明对比：
 - **西方** 能力是固定的——某些人天生就有天赋——模范对学生而言主要起"展示何为卓越"的作用

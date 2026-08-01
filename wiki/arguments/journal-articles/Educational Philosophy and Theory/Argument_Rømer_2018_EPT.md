@@ -9,7 +9,7 @@ title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,9 +25,11 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Praxis]]"
   - "[[Bildung]]"
   - "[[Epistemology]]"
   - "[[Technical Rationality]]"
+  - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
   - "[[Dependent Variable]]"
@@ -66,7 +68,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> [[John Hattie]] 的 [[Visible Learning]] 理论在教育政策和实践中获得了广泛的全球影响力，但其理论基础——支撑其实证工作的教育理论——很少被讨论。Rømer 提出对 VL 理论基础的哲学审查，追问：VL 背后的基本教育理论是什么？它是否正确？
+> [[John Hattie]] 的 [[Visible Learning]] 理论在教育政策和[[Praxis|实践]]中获得了广泛的全球影响力，但其理论基础——支撑其实证工作的教育理论——很少被讨论。Rømer 提出对 VL 理论基础的哲学审查，追问：VL 背后的基本教育理论是什么？它是否正确？
 
 ## 理论框架
 
@@ -81,7 +83,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education]]
 > - 路径：概念分析和哲学论证，通过对 Hattie (2009) *[[Visible Learning]]* 第三章的深度阅读，追踪每条概念链的哲学前提和逻辑后果
-> - 对话对象：[[Karl Popper|Popper]] 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、von Glasersfeld 的[[Radical Constructivism|激进建构主义]]
+> - [[Dialogue in Education|对话]]对象：[[Karl Popper|Popper]] 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、von Glasersfeld 的[[Radical Constructivism|激进建构主义]]
 
 ## 核心论证
 
@@ -109,7 +111,7 @@ citation_aliases:
 > 6. 外部世界、内容、规范——建构主义的所有问题——直接进入 Hattie 的教学概念(p.6-8)
 >
 > ### 论证四：反馈概念的集权化效应
-> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的对话、Bakhtin 的对话、Dewey 的交易论或[[Socrates|苏格拉底]]式的辩证
+> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的[[Dialogue in Education|对话]]、Bakhtin 的对话、Dewey 的交易论或[[Socrates|苏格拉底]]式的辩证
 > 2. 反馈包含演绎（将学生行为导入操作性目标结构）和归纳两个方面
 > 3. 关键的归纳方面：反馈最有力的是"从学生到教师"——使学习对教师可见，让教师成为"自身效果的学徒"
 > 4. 这与 Peters 的"教育即启蒙"（education as initiation）完全相反——反馈不是让文化、艺术、科学对学生可见
@@ -128,7 +130,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > - [[Visible Learning|VL]] 的理论基础存在系统性的哲学缺陷，这些缺陷不是经验方法论的细节问题，而是概念结构本身的范畴错误
-> - 五条批评链各自独立但相互关联，共同指向同一个结论：VL 的评价理论结构从前提上排除了教育作为一种有内容、有规范、有文化传统的实践
+> - 五条批评链各自独立但相互关联，共同指向同一个结论：VL 的评价理论结构从前提上排除了教育作为一种有内容、有规范、有文化传统的[[Praxis|实践]]
 > - Hattie 的全球影响力不能归因于其科学质量，而应从其评价理论结构满足了某种制度需求来解释（Rømer 通过 Nielsen & Klitmøller 的 [[Jürgen Habermas|Habermas]] 分析间接支持此观点, note 5/8）
 
 ## 关键引用

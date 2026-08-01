@@ -9,9 +9,9 @@ title: "Argument_Ryabyy_2024_Maneto"
 argument_key: "Argument_Ryabyy_2024_Maneto"
 argument_display_title: "A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 18
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal"
 citation: "Ryabyy, V. (2024). A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union. Maneto: The Temple University Multi-Disciplinary Undergraduate Research Journal, 1.1, 102–112."
@@ -26,6 +26,10 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Learning by Doing]]"
+  - "[[Praxis]]"
+  - "[[Dialogue in Education]]"
+  - "[[Growth]]"
   - "[[Conatus]]"
   - "[[Progressive Education]]"
   - "[[Reliability]]"
@@ -130,18 +134,18 @@ citation_aliases:
 > > [!quote]
 > > "您的著作，尤其是 School and Society 和 The School and the Child，极大地影响了俄国教育学的发展……在革命的最初几年，您是我们最知名的作者之一。"
 >
-> 这不是客套话。十月革命前后，苏俄教育面临一个根本问题：如何在社会主义框架下教育下一代？Dewey 的"从做中学"（learning by doing）和"学校即社会"的理念为苏联教育者提供了一个不来自沙皇旧体制的理论资源。一位苏联教育官员在 1928 年告诉 Dewey 说"你在革命最初几年是我们最知名的作者"——这意味着当 Shatskii 在农村建立实验学校、当 Lunacharsky 设计连接工厂和课堂的新学校时，Dewey 的著作就在他们的书桌上。
+> 这不是客套话。十月革命前后，苏俄教育面临一个根本问题：如何在社会主义框架下教育下一代？Dewey 的"[[Learning by Doing|从做中学]]"（learning by doing）和"学校即社会"的理念为苏联教育者提供了一个不来自沙皇旧体制的理论资源。一位苏联教育官员在 1928 年告诉 Dewey 说"你在革命最初几年是我们最知名的作者"——这意味着当 Shatskii 在农村建立实验学校、当 Lunacharsky 设计连接工厂和课堂的新学校时，Dewey 的著作就在他们的书桌上。
 >
 > > [!example] 日常类比
-> > 你读了一位外国作家的书，深受启发，照着书里的方法在自己的社区办学。十年后，你终于有机会见到作者本人。你不是去"学习"的——你已经有十年的实践经验了——你是去确认、交流和展示的。苏联教育者面对 Dewey 时，就是这种心态。
+> > 你读了一位外国作家的书，深受启发，照着书里的方法在自己的社区办学。十年后，你终于有机会见到作者本人。你不是去"学习"的——你已经有十年的[[Praxis|实践]]经验了——你是去确认、交流和展示的。苏联教育者面对 Dewey 时，就是这种心态。
 >
 > ---
 >
 > ### 5. 但知识关系中有张力——崇敬不等于同意
 >
-> Kalashnikov 在同一封信中也明确表示："我不同意您的哲学-社会主义教育理论观念"。但他紧接着说 Dewey 的工作仍然极大地启发了他，并希望与 Dewey 保持通信以延续这场教育对话。
+> Kalashnikov 在同一封信中也明确表示："我不同意您的哲学-社会主义教育理论观念"。但他紧接着说 Dewey 的工作仍然极大地启发了他，并希望与 Dewey 保持通信以延续这场[[Dialogue in Education|教育对话]]。
 >
-> > 这种"崇敬但不同意"的态度不是孤例。Mchitarjan(2000)的研究表明，苏联教育者虽然广泛吸收了 Dewey 的方法，但对 Dewey 理论的核心前提——教育的目标是"创造一个促进儿童成长的环境"——持有根本性保留。在苏联的框架中，教育的目标首先应该是培养阶级意识（class consciousness），而不是促进一个抽象的"儿童成长"。这预示了 1930 年代苏联对 Dewey 的全面拒绝（Gorshkova 2015，引自 p.103–104）。
+> > 这种"崇敬但不同意"的态度不是孤例。Mchitarjan(2000)的研究表明，苏联教育者虽然广泛吸收了 Dewey 的方法，但对 Dewey 理论的核心前提——教育的目标是"创造一个促进儿童[[Growth|成长]]的环境"——持有根本性保留。在苏联的框架中，教育的目标首先应该是培养阶级意识（class consciousness），而不是促进一个抽象的"儿童成长"。这预示了 1930 年代苏联对 Dewey 的全面拒绝（Gorshkova 2015，引自 p.103–104）。
 >
 > ---
 >
@@ -289,7 +293,7 @@ citation_aliases:
 > [!success] 主要发现
 > 1. Dewey 的私人通信揭示了他已出版著作未记录的大量行程细节——包括在欧洲三周的美术馆之旅、参加苏联跑马德比、与苏联教育者的具体通信内容——这些细节打破了 Dewey 作为"纪律严明的代表团团长"的形象(pp.104–107)。
 > 2. 苏联教育者在革命前就已系统性地阅读和吸收 Dewey 的著作，将他的 School and Society 和 The School and the Child 翻译为俄文并用作新教育体系的建设指南。1928 年的访问不是[[Knowledge Exchange|知识交流]]的起点，而是长期单向吸收的高峰时刻——访问开启了双向互动(pp.103–104)。
-> 3. 苏联方面对代表团的核心诉求不是请求赞美，而是请求"传递事实"以消除美国公众对苏联的"偏见之云"（Kameneff 语，p.106）。Shatskii 在告别信中刻意使用了"民主"（democracy）一词——这是他在用 Dewey 的语言与 Dewey 对话(p.107)。
+> 3. 苏联方面对代表团的核心诉求不是请求赞美，而是请求"传递事实"以消除美国公众对苏联的"偏见之云"（Kameneff 语，p.106）。Shatskii 在告别信中刻意使用了"民主"（democracy）一词——这是他在用 Dewey 的语言与 Dewey [[Dialogue in Education|对话]](p.107)。
 > 4. Kalashnikov 写给 Dewey 的信同时包含了崇敬和异议——"您的著作极大地影响了俄国教育学"与"我不同意您的哲学-社会主义教育理论观念"并存。这种张力预示了 1930 年代苏联对 Dewey 的全面拒绝。(p.104;Mchitarjan 2000; Gorshkova 2015,引自 pp.103–104)
 > 5. 美国反共势力（以 Welsh 为代表）在访问开始前就将其定性为共产党的宣传工具。Welsh 的核心论证策略是 guilt by association——通过 Dewey 过去签过的请愿书、支持过的人、出现过的报告来给一次尚未发生的旅行定罪(pp.107–108)。
 > 6. 美国国务院在公开层面承认此行为"非政治性质"，但在操作层面指示驻外外交官系统监控代表团的言行——揭示了教育交流在地缘政治对立时期无法真正脱离政治监视(pp.108–109)。

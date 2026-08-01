@@ -10,7 +10,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - policy/innovation
   - theme/university-industry-collaboration
 related_concepts:
+  - "[[Areas of Knowledge]]"
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
@@ -48,7 +49,7 @@ updated: 2026-06-05
 ## 科学技术基本计划
 
 > [!abstract]
-> 基本计划以《科学技术基本法》为法律依据，采用"10年愿景、5年规划"制订模式。自1996年推出第一期以来，截至2023年已连续实施六期。2020年更名为《科学技术创新基本法》，将政策框架从自然科学扩展至人文社科与自然科学融合的综合知识领域。
+> 基本计划以《科学技术基本法》为法律依据，采用"10年愿景、5年规划"制订模式。自1996年推出第一期以来，截至2023年已连续实施六期。2020年更名为《科学技术创新基本法》，将政策框架从自然科学扩展至人文社科与自然科学融合的综合[[Areas of Knowledge|知识领域]]。
 >
 > 2024年"综合科学技术创新会议"成为日本最重要的科技政策审议机构，由首相亲自主持，每月召开一次，选聘7位社会人士担任委员，通过横向整合强化部门间协调，避免资源重复投入。
 

@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Technology Transfer]]"
   - "[[Economic and Industrial Espionage]]"
+  - "[[Praxis]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 > [!note]-
 > - 2000 年 10 月：USCC 由美国国会立法设立([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78–79]])
 > - USCC 在其听证会和提交国会的书面报告中，毫不妥协地指出中国"依赖工业间谍、强制[[Technology Transfer|技术转让]]、盗版和伪造外国技术，作为创新重商主义体系的一部分"（Munsey, 2013; 引自 Partaken, 2022, p.79）
-> - USCC 的监督范围涵盖技术转让（合法与非法）、[[Economic and Industrial Espionage|知识产权盗窃]]、贸易实践及其对美国国家安全的综合影响
+> - USCC 的监督范围涵盖技术转让（合法与非法）、[[Economic and Industrial Espionage|知识产权盗窃]]、贸易[[Praxis|实践]]及其对美国国家安全的综合影响
 
 ## 影响与后果
 

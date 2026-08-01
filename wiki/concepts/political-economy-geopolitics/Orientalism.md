@@ -5,7 +5,7 @@ aliases:
 summary: "通过知识生产把东方建构为被观看、被解释和被支配对象的批判概念，用于揭示文化优越感和殖民想象的再生产"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,18 +17,22 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Praxis]]"
   - "[[Bildung]]"
   - "[[Epistemology]]"
   - "[[Post-colonial Theory]]"
   - "[[Chinese Learner]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Ways of Knowing]]"
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Schools]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Hegemony]]"
+  - "[[Cultural Hierarchy]]"
   - "[[Sinicisation]]"
   - "[[Back Translation]]"
+  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
   - "[[Critical Geopolitics]]"
@@ -51,7 +55,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info] 定义
-> 东方主义（Orientalism）指殖民者通过[[Knowledge Production|知识生产]]和话语实践对被殖民者进行"东方化"想象建构的过程与机制。这一概念由 Edward Said (1983) 系统阐述，核心论点是：西方关于"东方"的知识不是对东方的客观描述，而是**服务于帝国权力的意识形态建构**——它将"东方"表征为异域的、落后的、需要被西方文明[[Bildung|教化]]的他者，从而为殖民统治提供了文化和[[Epistemology|认识论]]的合法性([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.91–92]])。
+> 东方主义（Orientalism）指殖民者通过[[Knowledge Production|知识生产]]和话语[[Praxis|实践]]对被殖民者进行"东方化"想象建构的过程与机制。这一概念由 Edward Said (1983) 系统阐述，核心论点是：西方关于"东方"的知识不是对东方的客观描述，而是**服务于帝国权力的意识形态建构**——它将"东方"表征为异域的、落后的、需要被西方文明[[Bildung|教化]]的他者，从而为殖民统治提供了文化和[[Epistemology|认识论]]的合法性([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.91–92]])。
 >
 > > 在 Rizvi (2022) 的理论框架中，东方主义是[[Post-colonial Theory|后殖民理论]]的三大核心资源之一，与 Fanon (1967) 的去殖民化理论和 Escobar (1995) 的发展主义批判并列。三条路径共同揭示了一个核心洞察：**知识与权力之间存在内在的共构关系**——知识生产从来不是政治中立的，它始终嵌入在殖民、发展和全球化的权力结构之中。
 
@@ -63,7 +67,7 @@ updated: 2026-07-08
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过[[Knowledge Production|知识生产]]**建构**被殖民者的形象（表征的政治），去殖民[[Geopolitics of Knowledge|知识地缘政治]]则关注这一建构的**[[Epistemology|认识论]]后果**——哪些认知方式被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 知识地缘政治 > 两条理论脉络
+> - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过[[Knowledge Production|知识生产]]**建构**被殖民者的形象（表征的政治），去殖民[[Geopolitics of Knowledge|知识地缘政治]]则关注这一建构的**[[Epistemology|认识论]]后果**——哪些[[Ways of Knowing|认知方式]]被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 知识地缘政治 > 两条理论脉络
 > - vs 发展主义批判（Escobar, 1995）：东方主义分析殖民时期的直接知识-权力关系；发展主义批判则将这一分析延伸至后殖民时代——"发展"话语如何成为发达国家在形式上平等的国际秩序中延续影响力的意识形态工具
 >
 
@@ -102,13 +106,13 @@ updated: 2026-07-08
 > - **表征的权力** 关于"东方"的知识不是对客观事实的描述，而是**话语建构**——它将复杂的、多样化的亚洲社会简化为同质的、可管理的"东方"形象（Said, 1983, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.91–92]]）
 > - **知识与权力的共构**[[Knowledge Production|知识生产]]不是独立于权力的学术活动，而是**构成权力关系的核心机制**——殖民统治不仅依赖军事和经济控制，更依赖对"什么算知识"和"谁有资格生产知识"的界定
 > - **[[Hegemony|文化霸权]]** 东方主义不仅通过强制运作，更通过**文化霸权**——被殖民者逐渐将殖民者的认知框架内化为"常识"，例如亚洲中产阶级将西方教育视为天然的"更好"选择([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–96]])
-> - **当代隐性再生产** 去殖民化后，东方主义不是消失了，而是从显性的殖民统治话语转变为隐性的**文化等级想象**——这种想象嵌入在消费者的选择（去哪读书）、政策话语（"世界最佳实践"、"追赶"西方大学）和制度安排（全球排名系统、英语发表优先）之中([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97, 101]])
+> - **当代隐性再生产** 去殖民化后，东方主义不是消失了，而是从显性的殖民统治话语转变为隐性的**[[Cultural Hierarchy|文化等级]]想象**——这种想象嵌入在消费者的选择（去哪读书）、政策话语（"世界最佳[[Praxis|实践]]"、"追赶"西方大学）和制度安排（全球排名系统、英语发表优先）之中([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.95–97, 101]])
 >
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 的分析暗示了一个尚未被充分探讨的张力：当亚洲经济崛起、亚洲国家成为[[International Education|国际教育]]的主动塑造者（如建立IEHs）时，东方主义的文化等级结构是否会松动？还是会以新的形式——例如亚洲国家之间的新等级——被再生产？Rizvi 在该章中对亚洲内部权力不对称（特别是中国的主导地位）的讨论不充分，留下了这一问题的开放性([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.101–102]])
+> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 的分析暗示了一个尚未被充分探讨的张力：当亚洲经济崛起、亚洲国家成为[[International Education|国际教育]]的主动塑造者（如建立IEHs）时，东方主义的[[Cultural Hierarchy|文化等级]]结构是否会松动？还是会以新的形式——例如亚洲国家之间的新等级——被再生产？Rizvi 在该章中对亚洲内部权力不对称（特别是中国的主导地位）的讨论不充分，留下了这一问题的开放性([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.101–102]])
 >
 > ### 作为政治工具的"东方主义"指控
 >
@@ -116,7 +120,7 @@ updated: 2026-07-08
 >
 > **指控的逻辑** 对中国在香港、台湾或西藏推行[[Sinicisation|中国化]]政策的批判，被[[Back Translation|回译]]为"东方主义"或"恐华"（Sinophobia）——即批评者不过是在重复西方殖民者"想象东方"的旧习。如 Carrico（2018）所观察的，将香港、台湾或西藏的反中情绪一概归因于"西方影响"的叙事，实际上制造了一个新的"想象东方"：这个想象中的东方没有内部冲突、没有真实的政见分歧，只有来自外部的阴谋([[Argument_Vickers_2024_CE|Vickers, 2024, p.155]])。
 >
-> **与 Táíwò（2022）去殖民批判的对话** Táíwò 对"去殖民"话语的核心批评是：过度关注思想的"出身谱系"（pedigree）——即某个观念是否源自西方——会遮蔽本地人的"能动性"（agency）。Vickers将这一逻辑应用于香港：因为法治、公民权利和香港的相对自治源自英国殖民时期，就去质疑它们的正当性，这实际上是以"反殖民"的名义剥夺了香港人选择保留什么、拒绝什么的权利。
+> **与 Táíwò（2022）去殖民批判的[[Dialogue in Education|对话]]** Táíwò 对"去殖民"话语的核心批评是：过度关注思想的"出身谱系"（pedigree）——即某个观念是否源自西方——会遮蔽本地人的"能动性"（agency）。Vickers将这一逻辑应用于香港：因为法治、公民权利和香港的相对自治源自英国殖民时期，就去质疑它们的正当性，这实际上是以"反殖民"的名义剥夺了香港人选择保留什么、拒绝什么的权利。
 >
 > **学术困境** 由此形成了一个双重约束（double bind）：学者被要求在批判殖民性的同时，也批判以"反殖民"名义运作的新型威权主义。两者之间的平衡极为困难——批判前者可能被指控为"东方主义"，批判后者可能被指控为"恐华"。香港由此成为"去殖民思维如何因迷恋思想谱系而忽视本地人能动性"的警示案例。
 >

@@ -8,7 +8,7 @@ type: fact
 subtype: organization
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -17,6 +17,7 @@ tags:
   - "theme/corporate-engagement"
   - "level/higher-education"
 related_concepts:
+  - "[[Praxis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Partnership Continuum]]"
 related_theories: []
@@ -38,7 +39,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> NACRO（Network of Academic Corporate Relations Officers）是由大学企业关系专业人员组成的行业组织，致力于通过发布最佳实践白皮书、立场文件和举办专业活动来推动[[University-Industry Collaboration|产学合作]]的专业化。其 2011 年白皮书《Five Essential Elements of a Successful Twenty-First Century University Corporate Relations Program》提出了二十世纪大学企业关系项目的五项基本要素，包括研究发展（research development）、校园协调（campus coordination）和利益对齐（aligned interests）([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.73]])。
+> NACRO（Network of Academic Corporate Relations Officers）是由大学企业关系专业人员组成的行业组织，致力于通过发布最佳[[Praxis|实践]]白皮书、立场文件和举办专业活动来推动[[University-Industry Collaboration|产学合作]]的专业化。其 2011 年白皮书《Five Essential Elements of a Successful Twenty-First Century University Corporate Relations Program》提出了二十世纪大学企业关系项目的五项基本要素，包括研究发展（research development）、校园协调（campus coordination）和利益对齐（aligned interests）([[Argument_Burrus_Patera_2025_PartnershipBuilding|Burrus & Patera, 2025, p.73]])。
 
 ---
 

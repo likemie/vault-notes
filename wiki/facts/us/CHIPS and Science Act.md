@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
+  - "[[Praxis]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Precompetitive Research]]"
   - "[[Technology Transfer]]"
@@ -55,7 +56,7 @@ updated: 2026-06-04
 
 联邦政府对 [[University-Industry Collaboration|产学合作]] 的资金支持与创新区（innovation district）的兴起存在直接关联。法案的通过和实施体现了两党对 [[Innovation Hub|创新中心]] 的强力支持，技术开发和转移已被广泛认可为经济增长和社会流动的驱动力（pp.133–134）。
 
-从半导体行业的产学合作实践者角度看，法案的产生背景还包括一个更深层的产业逻辑：计算能力日益成为国家安全资产。2020 年代中期，中国在 S&E 发表量（2017 年超越）、研发支出总量、专利申请和 KTI 制造产出等多个维度赶超或接近赶超美国，同时 fabless 公司（如 Nvidia）通过架构差异化在 AI 等关键应用中获得巨大竞争优势。这些因素共同促成了两党对大规模国家技术投资的共识([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–237]])。
+从半导体行业的产学合作[[Praxis|实践]]者角度看，法案的产生背景还包括一个更深层的产业逻辑：计算能力日益成为国家安全资产。2020 年代中期，中国在 S&E 发表量（2017 年超越）、研发支出总量、专利申请和 KTI 制造产出等多个维度赶超或接近赶超美国，同时 fabless 公司（如 Nvidia）通过架构差异化在 AI 等关键应用中获得巨大竞争优势。这些因素共同促成了两党对大规模国家技术投资的共识([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–237]])。
 
 ---
 
@@ -94,7 +95,7 @@ updated: 2026-06-04
 ## NSTC 与半导体产业的公私合作格局
 
 > [!note]-
-> NSTC 的建立对半导体和计算行业的 [[University-Industry Collaboration|产学合作]] 实践者而言是一个"强制函数"（forcing function）：它迫使每个公司重新审视自己的大学合作策略——在 NSTC（国家战略型 [[Public-Private Partnership in Research|PPP]]）和 [[Semiconductor Research Corporation|SRC]]（行业联盟型 PPP）这两个不同逻辑的制度框架下，大学合作需要重新定位([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–236]])。
+> NSTC 的建立对半导体和计算行业的 [[University-Industry Collaboration|产学合作]] [[Praxis|实践]]者而言是一个"强制函数"（forcing function）：它迫使每个公司重新审视自己的大学合作策略——在 NSTC（国家战略型 [[Public-Private Partnership in Research|PPP]]）和 [[Semiconductor Research Corporation|SRC]]（行业联盟型 PPP）这两个不同逻辑的制度框架下，大学合作需要重新定位([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–236]])。
 
 NSTC 和 SRC 的并存代表了美国半导体行业三代公私合作模式的制度化递进：
 1. **企业主导的一次性项目（如 2008 年 Intel-Microsoft [[Universal Parallel Computing Research Centers|UPCRC]]）**
@@ -110,7 +111,7 @@ NSTC 和 SRC 的并存代表了美国半导体行业三代公私合作模式的�
 
 联邦资金的增长也意味着 [[Innovation Park|研究园区]] 和 [[Innovation Hub|创新中心]] 需要更主动地熟悉和追踪州级与联邦层面的持续性及专项资助机会，而非等待资金公告发布后才开始组织联盟（p.134）。
 
-> [!success] 对[[University-Industry Collaboration|产学合作]]实践者的战略意义
+> [!success] 对[[University-Industry Collaboration|产学合作]][[Praxis|实践]]者的战略意义
 > 2020 年代中期美国研发格局的结构性变化——中国在 S&E 发表量（2017 年超越美国）、研发支出、专利申请和 KTI 制造产出等多个维度的赶超趋势，加上美国国内 STEM 劳动力中女性与少数族裔的持续低度代表——为产学合作实践者创造了新的战略叙事：产学合作不仅是公司层面的[[Return on Investment|投资回报]]问题，更是国家竞争力层面的战略必需([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.236–238]])。[[National Science Foundation|NSF]] 2024 年 State of Science 报告和美国国家科学院（NAS）2024 年 State of Science Address 均将产学伙伴关系确定为应对这些挑战的关键机遇（pp.237–238）。
 
 ---

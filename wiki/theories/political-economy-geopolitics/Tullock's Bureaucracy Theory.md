@@ -6,10 +6,10 @@ aliases:
 summary: "官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - tullock
 - bureaucracy
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Policy Borrowing]]"
@@ -98,7 +99,7 @@ updated: '2026-05-18'
 
 但这以**牺牲一线关联性**为代价：对主权者"透明"的简化结果漏掉了理论背景，而理论背景是教师成功解读和实施干预所必需的。
 
-> 例：[[Argument_Cowen_2019_ERE|Cowen (2019, p. 8)]] 以英国 [[Education Endowment Foundation|EEF]] 的 Teaching and Learning Toolkit 为例说明这一张力。Toolkit 以"额外进步月数"（+X months）的单一指标汇总每类干预的效果，使教育部长可以一目了然地看到"哪些方法有效"——这是对主权者透明的完美工具。但一线教师面对"[[Metacognition|元认知]] +7 个月"的汇总数字时，既不知道这一效果在何种条件下产生（科目？年级？实施方式？），也不知道为什么元认知有效（理论背景）。没有这些信息，教师无法判断该方法是否适用于自己的课堂情境——对主权者"透明"的形式恰恰对一线实践者"不透明"。
+> 例：[[Argument_Cowen_2019_ERE|Cowen (2019, p. 8)]] 以英国 [[Education Endowment Foundation|EEF]] 的 Teaching and Learning Toolkit 为例说明这一张力。Toolkit 以"额外进步月数"（+X months）的单一指标汇总每类干预的效果，使教育部长可以一目了然地看到"哪些方法有效"——这是对主权者透明的完美工具。但一线教师面对"[[Metacognition|元认知]] +7 个月"的汇总数字时，既不知道这一效果在何种条件下产生（科目？年级？实施方式？），也不知道为什么元认知有效（理论背景）。没有这些信息，教师无法判断该方法是否适用于自己的课堂情境——对主权者"透明"的形式恰恰对一线[[Praxis|实践]]者"不透明"。
 
 > "EBE offers a way of filtering a complex range of research to produce a determinate result that is transparent to policymakers. However, this impression of research transparency is misleading as it omits theoretical background critical for successfully interpreting the results." ([[Argument_Cowen_2019_ERE|Cowen, 2019, p. 2]])
 

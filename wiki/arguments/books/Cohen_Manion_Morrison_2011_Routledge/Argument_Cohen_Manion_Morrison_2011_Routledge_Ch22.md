@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,20 +34,25 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Research Scope]]"
+  - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Rich and Thick Description]]"
   - "[[Social Episodes]]"
+  - "[[Praxis]]"
   - "[[Internal Consistency]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Conatus]]"
   - "[[Falsification]]"
   - "[[Questionnaire]]"
+  - "[[Growth]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
+  - "[[Habitus]]"
   - "[[Ideal Speech Situation]]"
+  - "[[Definition of Terms]]"
   - "[[Reflexivity]]"
   - "[[Multiplicity]]"
 related_theories:
@@ -67,6 +72,7 @@ related_methods:
   - "[[Member Tests]]"
   - "[[Network Analysis]]"
   - "[[Sociometry]]"
+  - "[[Quantitative Research]]"
   - "[[Survey Research]]"
   - "[[Stories as Research Data]]"
   - "[[Ex Post Facto Research]]"
@@ -90,7 +96,7 @@ updated: 2026-07-23
 
 ### 22.1 引言：陈述作为情境中的语言
 
-[[Accounts|陈述法]]的核心关注点是**情境中的语言（language in context）**。其[[Research Scope|研究范围]]可从言语行为（Austin, 1962）和[[Ethnomethodology|俗民方法学]]（Garfinkel, 1967）经对话分析，一直延伸到[[Discourse Analysis|话语分析]]（Wooffitt, 1993）。陈述同时包含语言的描述性、分析性和解释性特征，覆盖从日常语言到极端情境中的各种语言。陈述关注**行动中的语言** 语言既是"社会行动的形式，也是社会行动的载体"（Wooffitt, 1993, p. 303）（p.441）。
+[[Accounts|陈述法]]的核心关注点是**情境中的语言（language in context）**。其[[Research Scope|研究范围]]可从言语行为（Austin, 1962）和[[Ethnomethodology|俗民方法学]]（Garfinkel, 1967）经[[Dialogue in Education|对话]]分析，一直延伸到[[Discourse Analysis|话语分析]]（Wooffitt, 1993）。陈述同时包含语言的描述性、分析性和解释性特征，覆盖从日常语言到极端情境中的各种语言。陈述关注**行动中的语言** 语言既是"社会行动的形式，也是社会行动的载体"（Wooffitt, 1993, p. 303）（p.441）。
 
 本章的[[Epistemology|认识论]]根基在诠释的、[[Ethnography|民族志]]的[[Paradigm|范式]]中：力求通过参与者的眼睛看待情境，捕捉他们的意向性、对复杂情境的解释、意义系统，以及互动展开过程中的动态。这与 Geertz（1973）的[[Rich and Thick Description|深描]]概念一脉相承（p.441）。
 
@@ -106,8 +112,8 @@ updated: 2026-07-23
 > - **对手段—目标关系的信念** 他们相信什么样的行为能够帮助达到目标
 > - **对规则的认识** 他们意识到哪些规则支配着那些行为
 
-> [!def] 人因取向（Ethogenic）
-> 在此框架下进行的研究被称为**"[[Ethogenic Approach|人因取向（ethogenic）]]"**。该词表达了一种将人类视为**个人（person）**的观点：一个制定计划、自我监控的行动者，意识到目标并有意识地考虑达成目标的最佳方式。人因研究代表了研究社会行为的另一种取向，其方法与本书第 1–3 章所述教育研究中常用的方法形成鲜明对比（pp.441–442）。
+> [!def] [[Ethogenic Approach|人因取向]]（Ethogenic）
+> 在此框架下进行的研究被称为**"人因取向（ethogenic）"**。该词表达了一种将人类视为**个人（person）**的观点：一个制定计划、自我监控的行动者，意识到目标并有意识地考虑达成目标的最佳方式。人因研究代表了研究社会行为的另一种取向，其方法与本书第 1–3 章所述教育研究中常用的方法形成鲜明对比（pp.441–442）。
 ---
 
 ### 22.2 人因取向的五原则
@@ -115,7 +121,7 @@ updated: 2026-07-23
 在讨论陈述的引发和分析之前，需要先更详细地阐述人因取向。[[Rom Harré|Harré]]（1978）识别出该方法论的五个主要原则（p.442）：
 
 > [!feature] Box 22.1　人因取向的五原则（Harré, 1978）
-> - **共时与历时分析的区分** 共时分析研究特定时刻存在的社会实践和制度；历时分析研究它们被创造、放弃、变化和被改变的阶段和过程。关键约束：**两种分析都不能直接导向发现普遍的社会心理学原理或规律**。
+> - **共时与历时分析的区分** 共时分析研究特定时刻存在的社会[[Praxis|实践]]和制度；历时分析研究它们被创造、放弃、变化和被改变的阶段和过程。关键约束：**两种分析都不能直接导向发现普遍的社会心理学原理或规律**。
 > - **意义系统的核心地位** 社会互动通过赋予主体间实体以意义而发生。人因取向因此集中于**意义系统**，即社会行动在一个片段中被完成的整个序列。同一物理行为在不同社会片段中可以承载截然不同甚至相反的意义（见下文亲吻案例）。
 > - **伴随行动的言语即陈述** 人因取向关注伴随行动的言语，这些言语旨在使行动变得可理解和可辩护。这种言语就是 accounting。由于陈述本身具有社会意义，可从中推导出**对陈述的再陈述（accounts of accounts）**。这正是研究者的工作。
 > - **语言与传统的构成性作用** 人类倾向于成为他们的语言、传统、默会知识和显性知识告诉他们应该成为的那种个体。研究语言和传统不是在研究行为的表面现象，而是在研究建构人类身份和可能性的**构成性力量**。
@@ -224,7 +230,7 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 > |---|---|---|---|
 > | **方法 1：选择的总模式** | 量化 | 频率计数 → 表面概括 | 各项目的选择频率允许对参与者群体做出概括。最有揭示性的分析可能来自最少和最受欢迎的项目。 |
 > | **方法 2：相似性与差异性** | 量化 | 分组比较 → 差异模式 | 按参与者特征（年龄、性别、教育程度等）调查总样本内的相似性和差异。 |
-> | **方法 3：项目合并** | 量化 | 类别归并 → 主题聚合 | 将涵盖相似主题的类别合并。例如项目 1、5 和 14 涉及冲突；项目 4、7 和 15 涉及个人成长和变化。 |
+> | **方法 3：项目合并** | 量化 | 类别归并 → 主题聚合 | 将涵盖相似主题的类别合并。例如项目 1、5 和 14 涉及冲突；项目 4、7 和 15 涉及个人[[Growth\|成长]]和变化。 |
 > | **方法 4：内容分类** | 量化/质性过渡 | 独立编码 → 协商共识 | 检查总样本某个项目的内容，发展能容纳所有材料的类别系统。最佳做法是两位以上研究者独立提出类别系统后协商最终系统。 |
 > | **方法 5：追踪主题** | 质性 | 跨边界搜索 → 主题网络 | 超越项目的人为边界，尽可能多地收集与特定主题相关的数据，不论它在访谈材料的何处出现。要求对内容极为详细的了解，可能需要多次听录音。 |
 > | **方法 6：研究遗漏** | 质性 | 预期与实际落差 → 显著发现 | 当研究者预期会出现的议题缺席时，这一缺席事实本身可能非常显著，应探究其正确解释。**沉默可以像言语一样有揭示性**。 |
@@ -255,7 +261,7 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 
 陈述是在社会情境中被给予且**关于**社会情境的。识别陈述的语境及其中行动者的有意图行为与约束，即社会学的宏观—微观连接（macro-micro link），至关重要（p.450）。
 
-> [!info] 系统网络分析
+> [!info] 系统[[Network Analysis|网络分析]]
 > [[Network Analysis|网络分析]]就是为此目的发展的分析技术。Bliss 等人（1983）借鉴人工智能，使用关系网络概念来表征个人对特定领域知识的内容和结构，即**系统网络分析（systematic network analysis）**。本质上，它涉及发展一套类别系统对质性数据进行分类，同时保留材料的复杂性和微妙性。一种记法技术被用来生成网络状结构，展示类别之间的相互依赖关系（pp.450–451）。
 
 #### 社会计量学基础
@@ -332,7 +338,7 @@ Bliss 等人（1983）识别了评判网络充分性的若干标准（p.453）�
 > [!feature] 网络分析的评判标准（Bliss et al., 1983）
 > - **效度与[[Reliability|信度]]** 效度：描述系统在种类上适当且足够完整和忠实。信度：人们在使用网络系统时存在可接受的同意水平
 > - **网络效用** 细节的充分性：清晰性、完整性和自洽性
-> - **可学习性** 网络是否易于教授给他人，这对传达分析术语至关重要
+> - **可学[[Habitus|习性]]** 网络是否易于教授给他人，这对传达分析术语至关重要
 > - **可检验性** 两种形式：
 >     - 将网络作为理论对照数据检验
 >     - 通过网络将数据对照理论或预期来检验
@@ -355,7 +361,7 @@ Bliss 等人（1983）识别了评判网络充分性的若干标准（p.453）�
 >
 > 每个话语须同时满足：**合法性、真实性、正确性、真诚性和可理解性**。
 
-> [!info] 理想言说情境与话语分析的批判功能
+> [!info] [[Ideal Speech Situation|理想言说情境]]与话语分析的批判功能
 > 哈贝马斯的[[Ideal Speech Situation|理想言说情境]]为话语分析提供了批判性规范标准：话语应追求赋权，不受压制或意识形态扭曲。核心原则：参与者相互理解、自由进入话语、平等使用言语行为机会、讨论不受支配、共识仅来自论据本身（而非说话者的位置权力）。对话语分析而言，这意味着需要揭示"系统性扭曲"沟通的压制性力量。不仅要审问研究者所研究的话语中的支配性影响，还要审问**研究本身所产生的话语**中的支配性影响（p.455）。
 
 ---
@@ -379,7 +385,7 @@ Edwards（1993）对一个五岁班级参观温室的对话分析是这一取向
 > | 85–87 | Teacher | 哎呀，谢谢你。我重写一遍。"扦插可以长成为植物"。这也很好。Christina，什么是扦插？ | 教师纠正后转向提问，测试其他学生的理解。 |
 > | 88 | Christina | 扦插是，嗯，我不知道。 | Christina 无法回答，暴露出概念理解的问题。 |
 > | 89 | Teacher | 除了 Sally，还有谁知道什么是扦插？Sam。 | 教师点名下一个学生。 |
-> | 90–91 | Sam | 就是当你切下一段——，就是当你从植物上切下一小段。 | Sam 给出了操作性定义，聚焦于扦插的物理操作。 |
+> | 90–91 | Sam | 就是当你切下一段——，就是当你从植物上切下一小段。 | Sam 给出了[[Definition of Terms\|操作性定义]]，聚焦于扦插的物理操作。 |
 > | 92–94 | Teacher | 完全正确。那么当你从植物上切下一小段后，你接下来要怎么做才能让它生长？如果放在那里不动—— | 教师接受 Sam 的定义并推进到下一步：如何让切段生长。 |
 > | 95 | X | 放进土里。 | 学生给出一个合理但非教师想要的答案。 |
 > | 96 | Teacher | 嗯，有时候可以放进土里。 | 教师没有否定，但暗示这不是唯一答案。 |
@@ -424,7 +430,7 @@ Edwards & Mercer（1987）将这一分析扩展到对整个课堂学习过程的
 ### 22.7 分析社会片段：量化路径
 
 > [!info] 社会片段的量化分类尝试
-> 研究社会行为的自然单位——社会片段——面临一个主要问题：概念本身的模糊性，以及缺乏可接受的分类法来基于经验可量化的特征对互动序列进行分类。若干量化研究已在这一领域开展（p.458）：Magnusson（1971）、Ekehammer & Magnusson（1973）以及 McQuitty（1957）使用**因子分析**和**连接分析**；Forgas（1976, 1978）、Peevers & Secord（1973）以及 Secord & Peevers（1974）使用**多维标度**和**聚类分析**。
+> 研究社会行为的自然单位——社会片段——面临一个主要问题：概念本身的模糊性，以及缺乏可接受的分类法来基于经验可量化的特征对互动序列进行分类。若干[[Quantitative Research|量化研究]]已在这一领域开展（p.458）：Magnusson（1971）、Ekehammer & Magnusson（1973）以及 McQuitty（1957）使用**因子分析**和**连接分析**；Forgas（1976, 1978）、Peevers & Secord（1973）以及 Secord & Peevers（1974）使用**多维标度**和**聚类分析**。
 
 ---
 
@@ -527,28 +533,28 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 
 ## 关键引用
 
-> [!citation-card]- Harré 论陈述的社会功能
+> [!citation-card]- [[Rom Harré|Harré]] 论陈述的社会功能
 > 解释我们的行为可以理解为为我们的行动作出陈述（accounting for our actions），以使它们对周围的人变得可理解和可辩护。因此说"非常抱歉，我不是故意撞到你的"，是一个社会意义阐明的简单案例：通过将碰撞置于非计划序列之外并使其可理解而无法被追责，从而在那个情境中消除了冒犯性。（第22章, p.441）
 >
 > *Explaining our behaviour towards one another can be thought of as accounting for our actions in order to make them intelligible and justifiable to our fellow beings. Thus, saying "I'm terribly sorry, I didn't mean to bump into you", is a simple case of the explication of social meaning. (Harré, 1978)*
 
-> [!citation-card]- Harré 的 ethogenic 人类形象
+> [!citation-card]- Harré 的 [[Ethogenic Approach|ethogenic]] 人类形象
 > 人因取向（ethogenic）这个形容词表达了一种将人类视为**个人**，即制定计划、自我监控的行动者，意识到目标并有意识地考虑达成目标的最好方式。人因研究代表了研究社会行为的另一种取向，其方法与教育研究中常用的方法形成鲜明对比。（第22章, pp.441–442）
 >
 > *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to achieve them.*
 
-> [!citation-card]- Kitwood 论经验取样的认识论立场
-> 因为经验取样法避免审问式提问，浮现的材料比从紧密结构化访谈中获得的材料更少组织化。因此，成功处理个体陈述要求研究者极其熟悉访谈内容，并朝着逐步浮现的尝试性解释图式努力，在研究进行中不断修改、确认或证伪。（第22章, p.447）
+> [!citation-card]- Kitwood 论经验取样的[[Epistemology|认识论]]立场
+> 因为[[Experience Sampling Method|经验取样法]]避免审问式提问，浮现的材料比从紧密结构化访谈中获得的材料更少组织化。因此，成功处理个体陈述要求研究者极其熟悉访谈内容，并朝着逐步浮现的尝试性解释图式[[Conatus|努力]]，在研究进行中不断修改、确认或[[Falsification|证伪]]。（第22章, p.447）
 >
-> *Because the experience-sampling method avoids interrogation, the material which emerges is less organized than that obtained from a tightly structured interview. Successful handling of individual accounts therefore requires the researcher to know the interview content extremely well and to work toward the gradual emergence of tentative interpretive schemata.*
+> *Because the [[Experience-Sampling Method]] avoids interrogation, the material which emerges is less organized than that obtained from a tightly structured interview. Successful handling of individual [[Accounts]] therefore requires the researcher to know the interview content extremely well and to work toward the gradual [[Emergence]] of tentative interpretive schemata.*
 
 > [!citation-card]- Menzel 论多重意义
 > 大多数行为可以被赋予多种意义，其中不止一种可能同时有效。因此坚持确定一个行为的那个意义是谬误的。也不能说当一个人识别出行为的一个意义（或者说研究者乐于指定为真实意义的那个意义）时，解释行为的任务就完成了。（第22章, pp.461–462）
 >
 > *Most behaviour can be assigned meanings and more than one of these may very well be valid simultaneously. It is fallacious therefore, he argues, to insist upon determining "the" meaning of an act.*
 
-> [!citation-card]- Bliss 等人论网络分析的边界
-> 编码的风格再富有表达力或括号再好看，编码所说的并不比网络所区分的更多。（第22章, p.453）
+> [!citation-card]- Bliss 等人论[[Network Analysis|网络分析]]的边界
+> [[Coding in Qualitative Research|编码]]的风格再富有表达力或括号再好看，编码所说的并不比网络所区分的更多。（第22章, p.453）
 >
 > *Helpful as the choice of an expressive coding mood or neat use of indentation or brackets may be, the code actually says no more than the network distinguishes.*
 

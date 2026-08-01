@@ -7,7 +7,7 @@ summary: "澳大利亚教育心理学家，建构性对齐和SOLO分类法提出
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 16
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -17,6 +17,7 @@ tags:
 - region/australia
 related_concepts:
   - "[[Constructive Alignment]]"
+  - "[[SOLO Taxonomy]]"
   - "[[Construct]]"
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
@@ -34,18 +35,19 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: '2026-07-28'
 ---
 ## 简介
 
 > [!info] 简介
-> John Biggs，澳大利亚教育心理学家，以"[[Constructive Alignment|建构性对齐]]"（Constructive Alignment）和 SOLO 分类法（Structure of Observed Learning outcomes）闻名。[[Argument_Rømer_2018_EPT|Rømer (2018)]] 将其定位为 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分。
+> 约翰·比格斯（John Biggs），澳大利亚教育心理学家，以[[Constructive Alignment|建构性对齐]]（Constructive Alignment）和[[SOLO Taxonomy|学习结果结构分类法]]（Structure of the Observed Learning Outcome，SOLO）闻名。其高等教育教学观把质量判断的焦点从学生属性和教师行为转向学生实际从事的学习活动。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 57–65)]]；[[Argument_Rømer_2018_EPT|Rømer (2018)]] 将其定位为 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分。
 
 ## 生平与职涯
 
@@ -55,14 +57,17 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Biggs, J., & Tang, C. (2011). *Teaching for qualitative learning at university*. Berkshire: Open University Press. — 系统阐述[[Constructive Alignment|建构性对齐]]原则
+> - Biggs, J. (1999). “What the student does: Teaching for enhanced learning.” — 以三级教学观、认知动词和两个案例系统阐述[[Constructive Alignment|建构性对齐]]。[[Argument_Biggs_1999_HERD|Biggs (1999)]]
+> - Biggs, J., & Tang, C. (2011). *Teaching for quality learning at university*. Berkshire: Open University Press. — 系统阐述[[Constructive Alignment|建构性对齐]]原则
 
 ## 核心思想
 
 > [!info] [[Constructive Alignment|建构性对齐]]（Constructive Alignment）
-> Biggs (1996, 2003) 提出的课程设计原则，包含两个前提（Hattie, 2015, p.87）：
+> Biggs 提出的课程设计原则，包含两个前提（Hattie, 2015, p.87）：
 > 1. **建构性前提** 学生通过他们所做的学习活动来建构意义（students [[Construct]] meaning from what they do to learn）
 > 2. **对齐前提** 教师将计划的学习活动与预期的学习结果对齐（the teacher aligns the planned learning activities with the learning outcomes）
+>
+> 目标以学生需要实施的认知动词表达，教学／学习活动负责引出这些动词，评估任务再判断其表现质量。[[SOLO Taxonomy]]可为理解层次和动词选择提供框架。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 64–67)]]
 >
 > 任何课程的设计须确保学习活动和评估任务与课程预期的学习结果对齐。学生不应被期望自己"摸索出"要学什么以及成功意味着什么——必须在任何教学或评估之前明确说明成功标准。没有这种对齐，反馈、评估报告和自我调节学习的强大效果就不太可能发生（Hattie, 2015, p.87）。
 >
@@ -71,7 +76,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - SOLO 分类法（Structure of Observed Learning outcomes）：区分学习质量的五个层次
+> - [[SOLO Taxonomy]]（Structure of the Observed Learning Outcome）区分前结构、单点结构、多点结构、关联结构和拓展抽象五种理解结构，并将其转化为课程目标动词。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 66–67)]]
 > - [[Constructive Alignment|建构性对齐]]：广泛影响大学课程设计的核心原则，被 Hattie 的 [[Visible Learning|VL]] 框架采纳为关键实施要素
 > - **[[Paradox of the Chinese Learner|中国学习者悖论]]研究** 与 [[David Watkins]] 合编《The [[Chinese Learner]]》（1996）和《Teaching the Chinese Learner》（2001），提出 [[Confucian Heritage Cultures|儒家文化圈]]（CHC） 分类框架，将 [[Paradox of the Chinese Learner|中国学习者悖论]] 系统化为国际研究议程。[[Argument_Li_2012_Cambridge|Li (2012, pp.82-89)]]将这两部著作定位为该领域的奠基性文本，并综述了其后十余年的研究进展
 
@@ -80,4 +85,4 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > - 属于 1990 年代[[Radical Constructivism|激进建构主义]]运动的一部分，与 von Glasersfeld 和 Bjørgen 共享[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]前提([[Argument_Rømer_2018_EPT|Rømer, 2018, p.7]])
 > - [[Constructive Alignment|建构性对齐]]被纳入 Hattie 的 [[Visible Learning|VL]] 评价体系
-> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 将 Biggs & Collis 的 SOLO 模型列为 Hattie 解释表层、深层与概念性学习时调用的框架之一，但指出 SOLO、Bloom 修订版和 [[Karl Popper|Popper]]/Bereiter 三世界框架之间的对应关系并不清楚；这一问题推动了[[Dynamic Knowledge and Learning Model]]的提出([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])
+> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 将 Biggs & Collis 的 [[SOLO Taxonomy|SOLO]] 模型列为 Hattie 解释表层、深层与概念性学习时调用的框架之一，但指出 SOLO、Bloom 修订版和 [[Karl Popper|Popper]]/Bereiter 三世界框架之间的对应关系并不清楚；这一问题推动了[[Dynamic Knowledge and Learning Model]]的提出([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])

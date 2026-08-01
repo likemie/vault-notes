@@ -8,7 +8,7 @@ aliases:
 summary: "研究中研究者有意隐瞒真实目的、条件或误导参与者的行为，涉及不告知全部真相，在社会心理学实验和隐蔽研究中尤为常见，是研究伦理中最具争议的实践之一"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - theme/research-governance
 related_concepts:
   - "[[Covert Research]]"
+  - "[[Rating Scale]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Hypothesis]]"
   - "[[Conatus]]"
@@ -42,7 +43,7 @@ updated: 2026-06-18
 > [!concept-lens] 概念透镜
 > - **含义** 欺骗涉及对参与者的不完全告知或主动误导——不告诉人们他们在被研究、不说真话、说谎或损害真相。
 > - **用途** 欺骗在某些研究设计中是必要的——如果参与者知道研究的真实目的，他们的行为将改变，使研究无法获得有效数据（如种族偏见研究、服从权威实验）。
-> - **边界** 欺骗不等于[[Covert Research|隐蔽研究]]——欺骗更多指向实验中对信息的主动隐瞒或误导，隐蔽研究指向研究者身份的隐藏。欺骗在测量工具中也内嵌存在——许多人格和态度量表必须保持受访者对测量维度不知情。
+> - **边界** 欺骗不等于[[Covert Research|隐蔽研究]]——欺骗更多指向实验中对信息的主动隐瞒或误导，隐蔽研究指向研究者身份的隐藏。欺骗在测量工具中也内嵌存在——许多人格和[[Rating Scale|态度量表]]必须保持受访者对测量维度不知情。
 
 ---
 

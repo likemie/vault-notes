@@ -9,10 +9,10 @@ aliases:
 summary: "斯宾诺莎主义哲学中的核心概念，指个体维持与保存自我存在的努力与挣扎；在教育中被阐发为指向主体内在情感与潜意识的学习驱动力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/epistemology
   - subject/educational-philosophy
@@ -20,7 +20,9 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Learner Autonomy]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Growth]]"
   - "[[Bildung]]"
+  - "[[Praxis]]"
   - "[[Critical Pedagogy]]"
   - "[[Critical Thinking]]"
   - "[[Ontology]]"
@@ -48,7 +50,7 @@ updated: 2026-07-13
 > 欲力（conatus，常译为自我保存的努力、生机）是斯宾诺莎主义哲学的核心概念，指实体或个体倾向于持续存在并保存自我（persist in being）的内在力量与挣扎。在教育哲学语境中，它被[[Transfer Translation Transformation|转译]]为一种指向学生内在无意识情感（unconscious affects）与主体欲望的[[Learner Autonomy|自主学习]]驱动力。它主张真正的学习发生在内在情感变动之中，而非受到外部理性或社会契约的强制[[Disciplina and Doctrina|规训]]。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 222)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 这个概念指向个体维持自我生命力并持续生长的内在欲望与本源力量。（p.222）
+> - **含义** 这个概念指向个体维持自我生命力并持续[[Growth|生长]]的内在欲望与本源力量。（p.222）
 > - **用途** 它帮助教育研究者批判性地审视将教育完全窄化为外在理性灌输和行为控制的社会规训体系。（pp.221–222）
 > - **边界** 它有别于新自由主义下以竞争和利益最大化为特征的工具性欲望，具有内在存在论价值。（pp.219, 222）
 
@@ -73,7 +75,7 @@ updated: 2026-07-13
 > 探讨欲力在激发学生本源性学习兴趣和情感能量中的地位，并反思外部理性强制对个体生命力与学习效能的抑制。
 
 > [!claim] Cole, D. R.
-> **内在于无意识情感的本源学习** 欲力构成了学习行为的内在根基。真正的学习并非发生在被外部理性强行拉向普遍性和公民社会的过程，即黑格尔式[[Bildung|教化]]的过程中，而是发生于主体内在的无意识情感转化中。以欲力为导向的教育能够让学生审视社区和机构将知识框定在特定位置的权力实践，并转向内在欲望与想象力的解放，从而在本质上抵抗外部理性的学科规训。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 222)]]
+> **内在于无意识情感的本源学习** 欲力构成了学习行为的内在根基。真正的学习并非发生在被外部理性强行拉向普遍性和公民社会的过程，即黑格尔式[[Bildung|教化]]的过程中，而是发生于主体内在的无意识情感转化中。以欲力为导向的教育能够让学生审视社区和机构将知识框定在特定位置的权力[[Praxis|实践]]，并转向内在欲望与想象力的解放，从而在本质上抵抗外部理性的学科规训。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 222)]]
 
 ---
 

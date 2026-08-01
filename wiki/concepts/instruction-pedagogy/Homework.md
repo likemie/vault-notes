@@ -6,7 +6,7 @@ aliases:
 summary: "学生在校外完成的学习任务，但其定义在不同研究中差异巨大，使元分析聚合面临苹果和橙子困境，效果高度依赖任务类型、学生年龄和学科"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 - subject/instruction
 - level/k12
 related_concepts:
+  - "[[Praxis]]"
   - "[[Effect Size]]"
 related_theories: []
 related_methods:
@@ -49,7 +50,7 @@ updated: '2026-06-08'
 > - 为考试背乘法表
 > - 在家完成考试课程作业
 >
-> 如果合并所有这些研究得出"作业有效"，这并不意味着作业总是有效的。它表明当人们试验作业是否有效时，大体答案是肯定的。要做出实践判断，还需要知道包含的是哪类作业研究、学生年龄、频率和规律性等信息。
+> 如果合并所有这些研究得出"作业有效"，这并不意味着作业总是有效的。它表明当人们试验作业是否有效时，大体答案是肯定的。要做出[[Praxis|实践]]判断，还需要知道包含的是哪类作业研究、学生年龄、频率和规律性等信息。
 
 ---
 
@@ -86,7 +87,7 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning] 平均[[Effect Size|效应量]]的误导性
-> 家庭作业是[[Meta-analysis|元分析]]中平均效应量可能误导实践决策的典型案例。总体 $d = 0.29$ 看起来是一个正向效果，但它掩盖了小学阶段效果很小、中学阶段效果较大、不同学科之间差异显著的事实。[[Argument_Snook_2009_NZJES|Snook et al. (2009, p.97)]]指出，$d = 0.29$ 的效应量"发出家庭作业不重要的信号"，尽管 Hattie 自身数据显示对中学生和某些学科非常重要。
+> 家庭作业是[[Meta-analysis|元分析]]中平均效应量可能误导[[Praxis|实践]]决策的典型案例。总体 $d = 0.29$ 看起来是一个正向效果，但它掩盖了小学阶段效果很小、中学阶段效果较大、不同学科之间差异显著的事实。[[Argument_Snook_2009_NZJES|Snook et al. (2009, p.97)]]指出，$d = 0.29$ 的效应量"发出家庭作业不重要的信号"，尽管 Hattie 自身数据显示对中学生和某些学科非常重要。
 
 > [!warning] 可比性问题
 > [[Argument_Simpson_2017_JEP|Simpson (2017, pp.5–7)]]以家庭作业为例说明元分析中的比较组不对等性。Paschal, Weinstein & Walberg（1984）的家庭作业元分析合并了使用不同比较基线的研究，某些元分析的实验条件在另一些元分析中是对照条件。这使得跨研究的效应量比较失去意义。

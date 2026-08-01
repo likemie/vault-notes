@@ -8,7 +8,7 @@ aliases:
 summary: "当研究者或机构的财务利益可能损害研究客观性、学生独立性或大学首要职责时产生的伦理问题，产学合作中通过披露、审查和审批制度进行管理"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Clinical Trial]]"
   - "[[Academic Freedom]]"
+  - "[[Praxis]]"
   - "[[Technology Transfer]]"
 related_theories: []
 related_methods: []
@@ -80,7 +81,7 @@ updated: 2026-06-04
 > 利益冲突管理是[[University-Industry Collaboration|产学合作]]协议谈判中的关键议题。当教师以个人身份接受企业付费咨询时，他们可以接受限制其发表权的保密条款——这与大学在机构层面坚持的[[Academic Freedom|学术自由]]原则形成对比。然而，咨询关系仍须遵守大学的利益冲突政策，因此不能简单认为咨询是绕过大学政策的"自由区"（p.266）。
 
 > [!note]-
-> 在产学合作实践中，利益冲突的审查可能涉及多个大学办公室之间的协调——包括合同官员、合规官员、[[Technology Transfer|技术转移]]官员和科研副校长。这种多部门协作反映了利益冲突问题跨越了法律、伦理和战略三个维度（p.263）。
+> 在产学合作[[Praxis|实践]]中，利益冲突的审查可能涉及多个大学办公室之间的协调——包括合同官员、合规官员、[[Technology Transfer|技术转移]]官员和科研副校长。这种多部门协作反映了利益冲突问题跨越了法律、伦理和战略三个维度（p.263）。
 
 ---
 

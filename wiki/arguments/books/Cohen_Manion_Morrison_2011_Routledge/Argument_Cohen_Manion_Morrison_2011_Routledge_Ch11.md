@@ -11,10 +11,10 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 78
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
 publication_place: "London"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Class Size]]"
+  - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Informed Consent]]"
@@ -56,12 +57,14 @@ related_concepts:
   - "[[Sampling Frame]]"
   - "[[Research Problem]]"
   - "[[Heterogeneity]]"
+  - "[[Saturation]]"
   - "[[Analytic Induction]]"
   - "[[Falsification]]"
   - "[[Gatekeepers]]"
   - "[[Educational Immunology]]"
   - "[[Covert Research]]"
   - "[[Fitness for Purpose]]"
+  - "[[Dialogue in Education]]"
   - "[[Face Validity]]"
   - "[[Making the Familiar Strange]]"
   - "[[Progressive Focussing]]"
@@ -98,6 +101,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Semi-structured Interview]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
+  - "[[Discourse Analysis]]"
   - "[[Ideology Critique]]"
   - "[[Autoethnography]]"
   - "[[Longitudinal Study]]"
@@ -232,7 +236,7 @@ Lincoln & Guba（1985: 39–43）将这些公理转化为以下几组操作性�
 > | 提供替代视角 | 从不同认识论立场审视同一议题。 |
 > | 辅助结论形成 | 贡献于综述的最终判断。 |
 > | 作为多方法综合的一部分 | 与量化数据整合使用。 |
-> | 建议证据向实践转化 | 提示研究发现如何落地。 |
+> | 建议证据向[[Praxis\|实践]]转化 | 提示研究发现如何落地。 |
 
 但存在一个悖论：为提取主题而剥离情境，摧毁了质性研究的核心：情境本身（Dixon-Woods et al., 2001: 131）（p.405）。
 
@@ -382,7 +386,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 
 #### 阶段2：形成研究问题（Formulating Research Questions）
 
-[[Research Question|研究问题]]必须是可具体回答的、有证据的、可完成的、有限的（Maxwell, 2005: 65–78）。研究目的可以是开放的（由"理解"关注所驱动），但研究问题是实践性的（p.414）。
+[[Research Question|研究问题]]必须是可具体回答的、有证据的、可完成的、有限的（Maxwell, 2005: 65–78）。研究目的可以是开放的（由"理解"关注所驱动），但研究问题是[[Praxis|实践]]性的（p.414）。
 Maxwell（2005: 21）举了一个关键转化例子：将不可直接回答的"我们该如何改善生物课学生的在线学习？"转化为可回答的"在线师生聊天室是如何改善中五学生对学习生物的兴趣的？"。其中，该如何（开放规范词）被替换为是如何（封闭经验词），在线学习（笼统术语）被替换为在线师生聊天室（具体工具），开放转为有限边界。
 Maxwell（2005: 75）指出质性研究问题适合三类问题：参与者赋予情境/事件/行为的意义；物理/社会/时间/人际情境对参与者行为和观点的影响；行动/行为/情境/结果涌现的过程。
 
@@ -509,7 +513,7 @@ Maxwell（2005: 89–90）归纳了目的性选择的四种可能目的：
 
 ---
 
-**理论抽样与理论饱和。** 质性研究中可能无法也不应事先知道抽样对象，这是质性研究涌现性特征的核心体现（pp.421–424）。
+**理论抽样与[[Saturation|理论饱和]]。** 质性研究中可能无法也不应事先知道抽样对象，这是质性研究涌现性特征的核心体现（pp.421–424）。
 
 > [!exegesis]- 理论抽样的完整教育案例
 > 研究者访谈教师士气→初步理论生成：士气受破坏性学生行为负面影响→"关键案例抽样"：访谈面对大量破坏性学生的高困难校教师。
@@ -633,7 +637,7 @@ Silverman（1993: 92–93）补充了访谈的六项用途：
 > | 评论行动标准 | 探讨对情境可以做什么。 |
 > | 探索行为 | 考察当下或先前的行为。 |
 > | 引出理由和解释 | 获取参与者自身的归因和阐释。 |
->    重要警示：访谈非自动适用；某些文化参与者可能觉得访谈（或任何正式言语沟通）异化。Maxwell（2005: 93）引用 Whyte（1993: 303）的发现：在敏感群体中（如海洛因使用者）问太多问题不明智；正式访谈异化，不如用非正式对话和田野笔记替代（p.432）。
+>    重要警示：访谈非自动适用；某些文化参与者可能觉得访谈（或任何正式言语沟通）异化。Maxwell（2005: 93）引用 Whyte（1993: 303）的发现：在敏感群体中（如海洛因使用者）问太多问题不明智；正式访谈异化，不如用非正式[[Dialogue in Education|对话]]和田野笔记替代（p.432）。
 
 **非人类数据来源。** Lincoln & Guba（1985）讨论了两种非人类数据来源：
 
@@ -685,7 +689,7 @@ Silverman（1993: 92–93）补充了访谈的六项用途：
 > [!contrast-table] 质性数据分析的两条路径（Maxwell, 2005）
 > | 维度 | 范畴化策略 | 连接策略 |
 > |------|-----------|----------|
-> | 操作方式 | [[Coding in Qualitative Research\|编码]]为组织性、实质性-描述性、理论性范畴；主题分析。 | 叙事分析、片段、话语分析和剖面。 |
+> | 操作方式 | [[Coding in Qualitative Research\|编码]]为组织性、实质性-描述性、理论性范畴；主题分析。 | 叙事分析、片段、[[Discourse Analysis\|话语分析]]和剖面。 |
 > | 核心目标 | 将数据分类、归组、抽象化。 | 将数据置于情境中，保持原始完整性的完好。 |
 > | 风险 | 切割和重组数据可能破坏原始情境。 | 难以跨案例系统比较。 |
 

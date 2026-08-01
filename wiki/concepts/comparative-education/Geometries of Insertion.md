@@ -6,7 +6,7 @@ aliases:
 summary: "Robert Cowen（2009）提出的理论关切，指将“情境”驯服为可操作变量后，用于分析将一处所造的思想与实践精确植入另一处的嵌入几何学，并对这种社会克隆技术提出政治、伦理与长时段后果的拷问"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Shape-Shifting]]"
+  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Social Cloning]]"
   - "[[Policy Borrowing]]"
@@ -51,7 +52,7 @@ updated: 2026-07-02
 ## 定义
 
 > [!def] 核心定义
-> 嵌入几何学（Geometries of Insertion）是由 [[Robert Cowen]] (2009) 提出的理论关切。它是指当情境被重新概念化并纳入转移、[[Transfer Translation Transformation|转译]]、转化及[[Shape-Shifting|形变]]的理论体系中而被驯服之后，所形成的一套系统分析工具与设计理论，用于指导和刻画如何将一处所创造的教育思想与实践精确植入另一处。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 324]])
+> 嵌入几何学（Geometries of Insertion）是由 [[Robert Cowen]] (2009) 提出的理论关切。它是指当情境被重新概念化并纳入转移、[[Transfer Translation Transformation|转译]]、转化及[[Shape-Shifting|形变]]的理论体系中而被驯服之后，所形成的一套系统分析工具与设计理论，用于指导和刻画如何将一处所创造的教育思想与[[Praxis|实践]]精确植入另一处。([[Argument_Cowen_2009_CE|Cowen, 2009, p. 324]])
 
 > [!concept-lens] 概念透镜
 > - **关注焦点** 探讨将情境转化为可分析[[Variable|变量]]的技术可行性，并追问实施[[Social Cloning|社会克隆]]的深层伦理边界。
@@ -70,7 +71,7 @@ updated: 2026-07-02
 > [!contrast-table] 概念辨析：嵌入几何学与相关概念的对比 (基于 [[Argument_Cowen_2009_CE|Cowen, 2009, p. 324]])
 > | 维度 | 嵌入几何学 (Geometries of Insertion) | [[Policy Borrowing\|政策借用]] (Policy Borrowing) | 经典情境描述 (Context-Description) |
 > | :--- | :--- | :--- | :--- |
-> | **性质定位** | 属于科学研究层面的**分析理论与伦理拷问**。 | 属于国家政策制定层面的**实践决策**。 | 属于学科历史沿革层面的**描述惯例**。 |
+> | **性质定位** | 属于科学研究层面的**分析理论与伦理拷问**。 | 属于国家政策制定层面的**[[Praxis\|实践]]决策**。 | 属于学科历史沿革层面的**描述惯例**。 |
 > | **对情境的态度** | 将情境**[[Variable\|变量]]化、理论化与可[[Operationalization\|操作化]]**。 | 将情境视为需要克服或绕过的**移植障碍**。 | 将情境视为详尽描摹但难以提炼理论的**特殊细节**。 |
 > | **核心追问** | 完美移植的可能性及其政治、伦理、长时段后果。 | 外来政策在本土的应用成败与即时效率。 | 特定国家教育的独特历史文化底蕴与外在因素。 |
 
@@ -104,7 +105,7 @@ updated: 2026-07-02
 > 19世纪加拿大上加拿大的教育局长赖森（Egerton Ryerson）等人，为了在新土地上发明社会秩序，主动引入大英帝国的学校几何。他们依靠完全平移的母国教科书、考试体制和[[Normal School|师范学校]]，企图以极高精度复制英格兰的阶级阶层理念与道德纪律。这种嵌入几何旨在通过教育的物理性同化，消除流民与异质人口的离心力，建立起服务于殖民统治与阶级控制的稳定秩序（p. 318）。
 
 > [!case] 案例三：反向免疫与思想灭绝（民国[[John Dewey|杜威]]思想的转化）
-> 五四时期中国改革者引介[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]教育思想，试图嵌入美式民主课改几何。但在[[Transfer Translation Transformation|转译]]阶段，为了契合本土的抗战与民族复兴需求，移除了杜威思想中激进的民主政治主张，将其重[[Coding in Qualitative Research|编码]]为平民教育与个人发展。随着后期中国陷入军阀混战与政局动荡，本土庞大的政治威权与生存危机施加了毁灭性的重力压缩，使杜威的民主几何在实践转化中彻底灭绝，最终仅被退缩和驯化为一种去政治化的实用科学工具（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）。
+> 五四时期中国改革者引介[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]教育思想，试图嵌入美式民主课改几何。但在[[Transfer Translation Transformation|转译]]阶段，为了契合本土的抗战与民族复兴需求，移除了杜威思想中激进的民主政治主张，将其重[[Coding in Qualitative Research|编码]]为平民教育与个人发展。随着后期中国陷入军阀混战与政局动荡，本土庞大的政治威权与生存危机施加了毁灭性的重力压缩，使杜威的民主几何在[[Praxis|实践]]转化中彻底灭绝，最终仅被退缩和驯化为一种去政治化的实用科学工具（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）。
 
 ---
 

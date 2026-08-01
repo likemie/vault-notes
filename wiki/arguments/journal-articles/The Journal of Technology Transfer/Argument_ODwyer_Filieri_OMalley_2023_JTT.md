@@ -7,7 +7,7 @@ title: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_key: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_display_title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -30,9 +30,11 @@ tags:
   - source/journal-article
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
   - "[[Academic Engagement]]"
   - "[[Document]]"
   - "[[Theoretical Perspective]]"
+  - "[[Areas of Knowledge]]"
   - "[[Technology Transfer Office]]"
   - "[[External Validity]]"
 related_theories:
@@ -59,7 +61,7 @@ updated: 2026-06-10
 ## 研究问题
 
 > [!question]
-> [[University-Industry Collaboration|产学合作]]网络对国民经济日益重要，但已有研究对障碍和促进因素的探索以横截面分析为主，识别了各种障碍（制度壁垒、文化差异、交易成本等）和促进因素（信任、先前经验、政府资助等），却没有回答一个关键的时间维度问题：**这些障碍和促进因素在合作的不同阶段如何变化？** 政策制定者和实践者需要在正确的时间采取正确的干预措施，但缺乏一个能指导阶段性行动的演化框架。
+> [[University-Industry Collaboration|产学合作]]网络对国民经济日益重要，但已有研究对障碍和促进因素的探索以横截面分析为主，识别了各种障碍（制度壁垒、文化差异、交易成本等）和促进因素（信任、先前经验、政府资助等），却没有回答一个关键的时间维度问题：**这些障碍和促进因素在合作的不同阶段如何变化？** 政策制定者和[[Praxis|实践]]者需要在正确的时间采取正确的干预措施，但缺乏一个能指导阶段性行动的演化框架。
 
 > [!stat-cards]+ 一页读懂
 > - **对象**[[Synthesis and Solid State Pharmaceutical Centre|SSPC]]（Synthesis and Solid State Pharmaceutical Centre），爱尔兰制药产学合作网络，10 家跨国企业 + 8 所学术机构
@@ -129,7 +131,7 @@ updated: 2026-06-10
 研究通过对[[Synthesis and Solid State Pharmaceutical Centre|爱尔兰合成与固态制药中心]]（Synthesis and Solid State Pharmaceutical Centre，SSPC）的深度案例分析，识别了四个按时间演化的阶段。SSPC 最初由 5 所大学和产业伙伴组成，后扩展至 8 所学术机构和 10 家跨国企业，已成为全球制药研发卓越中心。阶段的识别依据是受访者使用的语言以及合作网络在规模和性质上的根本性变化（pp.907-925）。
 
 > [!info] SSPC 案例情境
-> 爱尔兰制药业高度碎片化，由仿制药企业（generic companies）和原创药企业（ethical firms）之间的等级制度主导，"制药业非常封闭，非常关注知识产权，在信息共享方面非常保守"（项目经理 Peter）。尽管企业彼此知晓对方的存在，但由于低信任度和对知识泄露的恐惧，它们之间几乎没有合作。学术界同样存在障碍——学者不愿与同一知识领域的"竞争者"合作，担心失去研究可见度和首发优势。这一情境具有典型性：它是许多产学合作在起步阶段面临的共同困境（pp.907-910）。
+> 爱尔兰制药业高度碎片化，由仿制药企业（generic companies）和原创药企业（ethical firms）之间的等级制度主导，"制药业非常封闭，非常关注知识产权，在信息共享方面非常保守"（项目经理 Peter）。尽管企业彼此知晓对方的存在，但由于低信任度和对知识泄露的恐惧，它们之间几乎没有合作。学术界同样存在障碍——学者不愿与同一[[Areas of Knowledge|知识领域]]的"竞争者"合作，担心失去研究可见度和首发优势。这一情境具有典型性：它是许多产学合作在起步阶段面临的共同困境（pp.907-910）。
 
 > [!timeline] SSPC 产学合作四阶段演化
 > - **胚胎期（正式合作前）** 关键行动者 Robert（一位学术人员）识别了与其他学者和企业在结晶化领域联合工作的机会，聚焦固态形式的不可重复性这一共同生产问题。尽管爱尔兰制药业地理邻近，仿制药企业和原创药企业之间存在深刻的等级对立，仿制药被视为低端，双方几乎没有合作。获得资助的可能性激励了早期讨论和标书撰写，此阶段仅进行知识利用以控制风险（pp.907-910）。

@@ -7,7 +7,7 @@ aliases:
 summary: "沃尔夫提出的殖民主义形式理论，核心是消除的逻辑而非剥削的逻辑，近年被西方学者用于分析新疆的汉人移民与维吾尔人关系"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Hegemony]]"
   - "[[Paradigm]]"
   - "[[Conatus]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -92,7 +93,7 @@ updated: '2026-06-25'
 > 
 > > [!axis] 土著话语与政治双重标准
 > > - **托马斯·阿尔伯茨（Thomas Alberts, 2015）的发现** 全球土著主义调查表明，与土著相关的政策和国际法自 1940 年代以来多被设计为促进同化，自决权已被收缩为国家框架内部的改良性自治。
-> > - **西方学者的双重标准** 达伦·拜勒（Darren Byler）等《新疆元年》的编辑们在学术上积极宣扬定居殖民主义并使用“土著”概念，但在政治实践中却拒绝支持维吾尔人的独立自决。他们担心的理由是许多东突厥斯坦倡导者似乎是“排他性的右翼族裔民族主义”，从而暴露了西方左翼学术的政治虚伪与对少数民族政治主体性的二次剥夺。
+> > - **西方学者的双重标准** 达伦·拜勒（Darren Byler）等《新疆元年》的编辑们在学术上积极宣扬定居殖民主义并使用“土著”概念，但在政治[[Praxis|实践]]中却拒绝支持维吾尔人的独立自决。他们担心的理由是许多东突厥斯坦倡导者似乎是“排他性的右翼族裔民族主义”，从而暴露了西方左翼学术的政治虚伪与对少数民族政治主体性的二次剥夺。
 
 ---
 

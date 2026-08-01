@@ -8,18 +8,20 @@ summary: "质性观察中用于记录描述性笔记和反思性笔记的单页�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology
 related_concepts:
   - "[[Reflexivity]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Accounts]]"
   - "[[Qualitative Observation]]"
   - "[[Ethnography]]"
   - "[[Case Study]]"
@@ -51,9 +53,9 @@ updated: 2026-06-01
 
 **描述性笔记（Descriptive Notes）** 记录在左侧，包括：
 - 参与者的画像（portraits of the participants）
-- 对话的重构（reconstruction of dialogue）
+- [[Dialogue in Education|对话]]的重构（reconstruction of dialogue）
 - 物理环境的描述（description of the physical setting）
-- 特定事件或活动的记录（accounts of particular events or activities）
+- 特定事件或活动的记录（[[Accounts]] of particular events or activities）
 
 **[[Reflexivity|反思性]]笔记（Reflexive Notes）** 记录在右侧，包括研究者的思考——如"推测、感受、问题、想法、直觉、印象和偏见"（Bogdan & Biklen, 1992, p.121; 引自 Creswell & Creswell, 2022, Ch9）。
 

@@ -6,7 +6,7 @@ aliases:
 summary: "John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 96
+related_count: 99
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
+  - "[[Praxis]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Evidence-Based Reform]]"
   - "[[Paradigm]]"
@@ -32,6 +33,7 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Epistemology]]"
   - "[[Feedback]]"
+  - "[[Dialogue in Education]]"
   - "[[Professional Judgment]]"
   - "[[Homework]]"
   - "[[Student Engagement]]"
@@ -48,6 +50,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Progressive Education]]"
   - "[[Constructivist Paradigm]]"
+  - "[[SOLO Taxonomy]]"
   - "[[Effective Teaching]]"
   - "[[Classroom Management]]"
   - "[[Heterogeneity]]"
@@ -137,7 +140,7 @@ updated: 2026-06-10
 > [!contrast-table] 核心方法论概念对比
 > | 维度 | [[Visible Learning]] | [[Effect Size]] | [[Evidence-Based Education]] |
 > |------|----------------------|-----------------|------------------------------|
-> | 分析对象 | 150+ 教学干预的排名 + 学校改进逻辑与教师培训体系 | 量化效果大小的统计指标（均值差/标准差比值） | 循证原则在教育政策制定与学校实践中的制度化运动 |
+> | 分析对象 | 150+ 教学干预的排名 + 学校改进逻辑与教师培训体系 | 量化效果大小的统计指标（均值差/标准差比值） | 循证原则在教育政策制定与学校[[Praxis\|实践]]中的制度化运动 |
 > | 核心机制 | [[Meta-meta-analysis\|元-元分析]] + 教师思维框架（mind frames）+ 忠实实施培训 | Cohen's d 等标准化差异量，d=0.40 为 Hattie 所设"铰链点" | 研究-政策-实践传播链；包含 [[Education Endowment Foundation\|EEF]]、[[What Works Clearinghouse]] 等机构 |
 > | 边界说明 | VL 以效应量为骨架，但效应量本身是工具而非 VL 的全部 | 方法论工具，不含实施逻辑；统计假设与解释边界见 [[Effect Size]] | VL 是 EBE 运动中最具全球品牌影响力的具体项目 |
 
@@ -255,14 +258,14 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 > 3. **Inform from the outset** — 课程开始明确成功标准，将目标从隐性变为显性
 > 4. **Assessment as [[Feedback]] on my impact** — 评估首先是教师了解自身影响力的数据，而非排名工具
 > 5. **Work with others** — 与同事共同校准对"进步"的理解，防止单人参照系过窄固化偏见
-> 6. **Dialogue not monologue** — 双向对话为主；教师话语实际占 70–80% 而非自认的 20–30%
+> 6. **Dialogue not monologue** — 双向[[Dialogue in Education|对话]]为主；教师话语实际占 70–80% 而非自认的 20–30%
 > 7. **Strive for challenge** — 明确高要求替代模糊的"尽力而为"，需与成功标准配合
 > 8. **Errors as opportunities** — 错误是诊断学习的信息来源，而非需要压制的失败标志
 
 ### 作为评价性专业判断而非方法清单
 
 > [!abstract] 评价性[[Professional Judgment|专业判断]]（Hattie, 2015, pp.11–14）
-> Hattie 对 VL 的自我解释把重点从"选择排名最高的教学法"转回教师和学校的评价性[[Professional Judgment|专业判断]]。核心问题不是"哪一种方法排名最高"，而是教师能否持续判断自己的教学对学生产生了什么影响、这种影响是否足够大、是否覆盖了足够多学生。教师不是数据录入员，而是证据解释者——一个班测验成绩提高并不自动说明教学成功，还要追问提高的是表层记忆还是深层理解、哪些学生没有受益、反馈是否真正帮助学生知道下一步怎么改。更符合这一逻辑的做法是：教师共同看学生[[Homework|作业]]、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预——这种循环才是"Know thy impact"的实践含义。
+> Hattie 对 VL 的自我解释把重点从"选择排名最高的教学法"转回教师和学校的评价性[[Professional Judgment|专业判断]]。核心问题不是"哪一种方法排名最高"，而是教师能否持续判断自己的教学对学生产生了什么影响、这种影响是否足够大、是否覆盖了足够多学生。教师不是数据录入员，而是证据解释者——一个班测验成绩提高并不自动说明教学成功，还要追问提高的是表层记忆还是深层理解、哪些学生没有受益、反馈是否真正帮助学生知道下一步怎么改。更符合这一逻辑的做法是：教师共同看学生[[Homework|作业]]、比较不同反馈方式、讨论某个单元的成功标准，并在下一轮教学中调整干预——这种循环才是"Know thy impact"的[[Praxis|实践]]含义。
 
 ### 学习意图与成功标准
 
@@ -366,7 +369,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > 
 >    **俄罗斯** 2017 年翻译出版 VL 俄文版。[[Argument_Golovchin_2019_ESC|Golovchin (2019, pp.232–233)]] 评估后指出 VL 元分析主要基于 1980s–2000s 三个英语国家的研究，跨文化迁移性有限，建议俄教育政策不予直接采用。
 > 
->    **瑞典**Håkansson（2015）记录了 VL 在瑞典引发的"工作方式转向"——改进重心拉回课堂近端（课堂试验、同伴观察、教师协作），而非围绕学习目标或国家标准的显性政治冲突（pp.52–59）。这种转向只有在校长持续聚焦主题、教师愿意围绕具体课堂片段展开专业对话时才真正发生（参见 [[Visible Learning in Sweden]]）。
+>    **瑞典**Håkansson（2015）记录了 VL 在瑞典引发的"工作方式转向"——改进重心拉回课堂近端（课堂试验、同伴观察、教师协作），而非围绕学习目标或国家标准的显性政治冲突（pp.52–59）。这种转向只有在校长持续聚焦主题、教师愿意围绕具体课堂片段展开专业[[Dialogue in Education|对话]]时才真正发生（参见 [[Visible Learning in Sweden]]）。
 > 
 >    **斯堪的纳维亚研究者再诠释**[[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 VL 重写为学校改进的起点而非技术菜单，提出三项核心转变：①个人技巧→集体改进（教师协作、课堂观察、持续反思）；②证据排名→概率判断（减少"全凭直觉"空间）；③外部问责→能力建设（[[Knowledge Mobilisation|知识动员]]、数据使用、校本专业学习）（[[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.61–67]]）。详见 [[Visible Learning Branding and Global Influences]]。
 ---
@@ -377,7 +380,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > - [[Positivism|实证主义]]／行为主义 → VL：[[Hypothesis|假设]]所有教与学可被量化为投入与产出（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.36]]）；Hattie 借鉴 Glaser 的学习理论（初始状态→能力状态转化），Glaser 来自 Skinner 的激进行为主义传统（Nielsen & Klitmøller, 2021, p.3）
 > - [[New Public Management]] ←→ VL：VL 被描述为"新管理全景监狱主义"的完美工具，使每个人可监视其他所有人（Ball, 2003, p.219）；同时借用[[Progressive Education|进步主义教育]]哲学语言（"学习必须被学习者分享、承诺和理解"），使其难以抵制（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.34]]）
 > - [[Radical Constructivism]] ←→ VL：[[Argument_Rømer_2018_EPT|Rømer (2018)]] 论证 Hattie 完全接受 von Glasersfeld 的激进[[Constructivist Paradigm|建构主义]]学习观，但在其上叠加"教师中心教学"，导致教学概念双重瓦解（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp.7–8]]）
-> - [[Popper's Three Worlds Theory]] — Hattie 以 [[Karl Popper|Popper]] 三个世界理论为[[Epistemology|认识论]]基础，区分表层、深层与概念性知识；[[Argument_Rømer_2018_EPT|Rømer (2018, pp.10–11)]] 论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 则指出其与 Bloom 修订版四层知识和 SOLO 模型之间对应关系不清
+> - [[Popper's Three Worlds Theory]] — Hattie 以 [[Karl Popper|Popper]] 三个世界理论为[[Epistemology|认识论]]基础，区分表层、深层与概念性知识；[[Argument_Rømer_2018_EPT|Rømer (2018, pp.10–11)]] 论证 Hattie 通过 Bereiter 的中介严重误读了 Popper，将 World 3 的客观文化对象化简为 World 2 的主观认知；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, p.30)]] 则指出其与 Bloom 修订版四层知识和 [[SOLO Taxonomy|SOLO]] 模型之间对应关系不清
 
 ---
 
@@ -421,9 +424,9 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 
 > [!tension] [[Neo-Taylorism]] 批评与学术体制免疫（Eacott, 2017–2019）
 > - **Hattie** — VL 把"影响教育成就的因素"转化为可按[[Effect Size|效应量]]排名的离散干预列表，告诉教育者"做什么以获得最大回报"（maximum return）；用行政语言说话的数据填补了 NAPLAN/[[PISA]]/TIMSS 问责压力与操作细节之间的空缺（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp.414–419]]）。
-> - **Eacott** — VL 是"新时代的泰勒主义"（Taylorism for a new time）：Taylor 追求消除"磨洋工"（soldiering），Hattie 追求消除"得过且过"（coasting）；Taylor 拆解工作流程，Hattie 拆解教学实践；两者同构地追求"唯一正确方法"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]]）。[[Cult of the Guru|大师崇拜]]成为可能的三个历史条件：①时间压力（PISA 数据引发成绩担忧）；②桥梁（Robinson 等引入效应量语言但缺操作细节）；③填补（Hattie 用行政语言说话的数据）。
+> - **Eacott** — VL 是"新时代的泰勒主义"（Taylorism for a new time）：Taylor 追求消除"磨洋工"（soldiering），Hattie 追求消除"得过且过"（coasting）；Taylor 拆解工作流程，Hattie 拆解教学[[Praxis|实践]]；两者同构地追求"唯一正确方法"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]]）。[[Cult of the Guru|大师崇拜]]成为可能的三个历史条件：①时间压力（PISA 数据引发成绩担忧）；②桥梁（Robinson 等引入效应量语言但缺操作细节）；③填补（Hattie 用行政语言说话的数据）。
 >
-> **学术体制免疫**[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]否认"大师崇拜"，其回应被 *[[School Leadership]] & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术对话与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
+> **学术体制免疫**[[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]否认"大师崇拜"，其回应被 *[[School Leadership]] & Management* 两天内接收发表；Eacott 原论文经历数月多轮评审，且其再回应被编辑拒绝刊出。Eacott 认为这一决策本身说明了该领域学术[[Dialogue in Education|对话]]与辩论的"低优先级"（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.777–778]]）。一线教育者对 VL 霸权的不满通过私人邮件而非公开辩论表达（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p.776]]）。Hattie 本人后来开始与 VL 保持距离，表示如果重新来过会避免"结果的暴政"（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.35]]）。
 ---
 
 > [!citation-card]-

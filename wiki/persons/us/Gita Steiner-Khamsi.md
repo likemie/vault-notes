@@ -7,10 +7,10 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - gita-steiner-khamsi
 - comparative-education
@@ -21,10 +21,12 @@ related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
   - "[[Analytic Framework]]"
+  - "[[Praxis]]"
   - "[[Pre-Transfer Agency]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Network Analysis]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
@@ -52,13 +54,13 @@ updated: '2026-06-08'
 > [!abstract] 主要著作
 > - Steiner-Khamsi, G. (2000). Transferring education, displacing reforms. In J. Schriewer (Ed.), *Discourse Formation in Comparative Education*. Frankfurt: Peter Lang. — 系统论述教育转移的政治维度，强调关注行动者和受益者
 > - Steiner-Khamsi, G. (Ed.) (2004a). *The Global Politics of Educational Borrowing and Lending*. New York: Teachers College Press. — [[Policy Borrowing|政策借用]]与借出的全球政治纲领性文集
-> - Steiner-Khamsi, G. (2004b). Social network analysis and diffusion of innovation revisited: The Maris O'Rourke Effect in [[International Education]]. Conference paper, German Educational Research Association, Zürich. — 识别跨国教育政策中个体行动者的网络影响力
+> - Steiner-Khamsi, G. (2004b). [[Network Analysis|social network analysis]] and diffusion of innovation revisited: The Maris O'Rourke Effect in [[International Education]]. Conference paper, German Educational Research Association, Zürich. — 识别跨国教育政策中个体行动者的网络影响力
 > - Steiner-Khamsi, G. (2012). Understanding policy borrowing and lending. In G. Steiner-Khamsi & F. Waldow (Eds.), *World Yearbook of Education 2012: Policy Borrowing in Education*. — 系统化政策借用[[Analytic Framework|分析框架]]
 
 ## 核心思想
 
 > [!info] [[Policy Borrowing|政策借用]]的政治性
-> Steiner-Khamsi 的核心洞见是：教育政策借用本质上是一个政治过程，而非中立的"最佳实践"转移。她明确提出研究方向应从考察"借用了什么"转向考察"谁在借用、为何借用、借用的效果如何"。
+> Steiner-Khamsi 的核心洞见是：教育政策借用本质上是一个政治过程，而非中立的"最佳[[Praxis|实践]]"转移。她明确提出研究方向应从考察"借用了什么"转向考察"谁在借用、为何借用、借用的效果如何"。
 >
 > > Steiner-Khamsi 论证："we must direct our attention to agencies resisting, inverting, or indigenizing educational imports" (2000, p. 158，引自 Rappleye, 2006, p. 227)
 >

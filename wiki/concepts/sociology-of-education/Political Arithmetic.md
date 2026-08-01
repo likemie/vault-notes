@@ -6,7 +6,7 @@ aliases:
 summary: "英国教育社会学早期传统，以可测量数据把教育机会、阶级流动和人口管理连接起来，并为战后福利国家政策提供知识基础。"
 type: concept
 domain: "sociology-of-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - method/quantitative
 related_concepts:
   - "[[Variable]]"
+  - "[[Praxis]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
 related_theories: []
@@ -53,12 +54,12 @@ updated: 2026-05-23
 ## 治理含义
 
 > [!warning] 知识与人口管理
-> 政治算术与优生学共享“人口是国家问题”的前提，但二者治理方式不同。优生学倾向于直接作用于身体和生育实践；政治算术则通过教育制度、教师专业知识和福利干预来管理人口能力。因此，它既是反优生学的社会学传统，也是把家庭、阶级和教育机会转化为政策对象的 治理 知识技术([[Argument_Ball_2008_SR|Ball, 2008, pp.654-655]])。
+> 政治算术与优生学共享“人口是国家问题”的前提，但二者治理方式不同。优生学倾向于直接作用于身体和生育[[Praxis|实践]]；政治算术则通过教育制度、教师专业知识和福利干预来管理人口能力。因此，它既是反优生学的社会学传统，也是把家庭、阶级和教育机会转化为政策对象的 治理 知识技术([[Argument_Ball_2008_SR|Ball, 2008, pp.654-655]])。
 
 ## 概念辨析
 
 > [!example] 与相关概念的区别
-> - vs [[New Sociology of Education]] — 政治算术把教育不平等放在机会分配和政策改良框架中；NSE 则把学校知识、课程和课堂过程本身变成问题。两者的关键差异在于，前者更接近福利国家的政策知识，后者更接近对学校知识和教师实践的批判([[Argument_Ball_2008_SR|Ball, 2008, pp.657-659]])。
+> - vs [[New Sociology of Education]] — 政治算术把教育不平等放在机会分配和政策改良框架中；NSE 则把学校知识、课程和课堂过程本身变成问题。两者的关键差异在于，前者更接近福利国家的政策知识，后者更接近对学校知识和教师[[Praxis|实践]]的批判([[Argument_Ball_2008_SR|Ball, 2008, pp.657-659]])。
 > - vs [[School Effectiveness]] — 二者都重视经验资料和测量，但政治算术仍把阶级、家庭、学校和选拔制度看成相互连接的结构；学校效能研究在政策中更容易把解释重心转移到学校组织、领导和可测量结果上([[Argument_Ball_2008_SR|Ball, 2008, pp.663-664]])。
 
 ## 概念演变

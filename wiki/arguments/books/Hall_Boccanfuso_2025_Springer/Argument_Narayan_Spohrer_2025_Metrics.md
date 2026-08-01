@@ -10,6 +10,7 @@ publisher: "Springer"
 tags: ["theme/university-industry-collaboration", "theme/metrics-and-incentives", "theme/talent-development", "source/industry-perspective"]
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
   - "[[Literature Review]]"
   - "[[Six Rs of University-Industry Relations]]"
   - "[[Public-Private Partnership in Research]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[T-Shaped Skills]]"
   - "[[Conatus]]"
   - "[[Literature Search]]"
+  - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
@@ -51,7 +53,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -76,7 +78,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 基于 IBM 百年产学实践的归纳提炼，同时整合系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
+> 基于 IBM 百年产学[[Praxis|实践]]的归纳提炼，同时整合系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
 > - [[University-Industry Collaboration]] 作为分析的组织领域，度量、激励、奖励与文化是维持产学关系质量的四个相互关联的维度
 > - [[Six Rs of University-Industry Relations]] 由 [[Jim Spohrer]](2010)提出，将 IBM 的产学投资按功能分为七个领域(pp.88–89, 97)：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展），外加 Refresh（更新）作为动态调适维度
 >
@@ -106,7 +108,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 实践者反思，基于 IBM 全球大学项目团队（遍布 45 个国家、百余名专职人员）数十年的运营经验，辅以系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究梳理(pp.86–88)。案例部分按投资规模分类呈现：小型（<$250K/年）、中型（$250K–$1M/年）、大型（>$1M/年），每个案例说明其目标、度量方式和创新元素(pp.91–95)。本章属于实践者反思文章，不涉及实证数据收集或分析方法。
+> [[Praxis|实践]]者反思，基于 IBM 全球大学项目团队（遍布 45 个国家、百余名专职人员）数十年的运营经验，辅以系统[[Literature Review|文献综述]]对度量、激励、奖励和文化四个主题的研究梳理(pp.86–88)。案例部分按投资规模分类呈现：小型（<$250K/年）、中型（$250K–$1M/年）、大型（>$1M/年），每个案例说明其目标、度量方式和创新元素(pp.91–95)。本章属于实践者反思文章，不涉及实证数据收集或分析方法。
 
 ---
 
@@ -161,7 +163,7 @@ citation_aliases:
 
 11. 六 R 框架的运作依赖于一个数据基础设施：IBM 的中央数据库追踪了全球约 2000 所高校的投资历史和成果，覆盖 30 余万员工、每年约 3 万新聘和实习人员的信息(p.89)。每位伙伴关系执行主管（Partnership Executive Program, PEP）在访问一所大学之前，可以调取一份关系全景报告：该校有多少教师接受过 IBM 研究资助、专业领域分布如何；历年从该校招聘的员工数量和学位分布、现任高管中的校友有多少；该校是否是 IBM 软件或超算的客户。所有这些信息汇总为一份大学作为"复杂企业"的剖面图。
 
-12. 这一步的论证力量在于，它将"信任"从抽象的修辞转化为可追踪、可积累、可通过数据透明的管理实践。信任建立在双方共享的合作历史数据之上。当 PEP 主管带着对该校关系的全景理解走进大学校长办公室时，校长能感受到对方真的了解自己、重视这段关系，这种感受本身就是信任的具体载体。
+12. 这一步的论证力量在于，它将"信任"从抽象的修辞转化为可追踪、可积累、可通过数据透明的管理[[Praxis|实践]]。信任建立在双方共享的合作历史数据之上。当 PEP 主管带着对该校关系的全景理解走进大学校长办公室时，校长能感受到对方真的了解自己、重视这段关系，这种感受本身就是信任的具体载体。
 
 ---
 
@@ -240,7 +242,7 @@ citation_aliases:
 
 24. 度量、激励、奖励和文化是本章的主线，但作者在最后一节加入了一个前瞻判断：AI 将重塑产学关系，重塑发生在合作主体和互动方式发生根本变化的层面上(p.97)。
 
-25. 当计算的边际成本持续下降，产学互动可能出现一种此前不存在的新形态：产业研究者和学术教师都可能拥有自己的 AI 数字孪生（AI digital twins），能够自动完成[[Literature Search|文献检索]]、初步数据分析、甚至模拟合作对话(p.97)。如果一位教授的数字孪生可以在企业提出合作需求时，自动生成一份研究与企业需求的匹配度报告，那么合作的前期探索效率将大幅提升，但"面对面建立信任"的传统方式也可能被弱化。
+25. 当计算的边际成本持续下降，产学互动可能出现一种此前不存在的新形态：产业研究者和学术教师都可能拥有自己的 AI 数字孪生（AI digital twins），能够自动完成[[Literature Search|文献检索]]、初步数据分析、甚至模拟合作[[Dialogue in Education|对话]](p.97)。如果一位教授的数字孪生可以在企业提出合作需求时，自动生成一份研究与企业需求的匹配度报告，那么合作的前期探索效率将大幅提升，但"面对面建立信任"的传统方式也可能被弱化。
 
 26. 作者最后回到一个基础判断，这也是全文论证的落脚点：AI 不会取代产业研究者和学术教师，但有效且合乎伦理地使用 AI 的服务提供者将取代那些不这样做的(Rouse & Spohrer, 2018, 转引自 p.97)。这一判断与全文的"动态调适"主题一致：信任仍然是根基，信任的基础是产学关系的历史记录以及"共同定义只有合作才能解决的重大问题"这一实践；失败是共同的学习经验，成功孕育更多成功(p.90)。AI 是一个新变量，它改变的是调适的工具和效率，不改变调适的必要性和逻辑。
 
@@ -282,7 +284,7 @@ citation_aliases:
 > [!warning]
 > ### 规模分类边界的弹性
 >
-> 作者坦承小型、中型、大型三个投资规模的分类"在某种程度上是任意的，边界是弹性的"（somewhat arbitrary in that boundaries are elastic），但多年运营经验表明这一分类框架仍可合理地概括不同参与模式(p.91)。这意味着分类不是为了精确定量度量而设计，而是为实践者提供一种粗略但可操作的比照工具。
+> 作者坦承小型、中型、大型三个投资规模的分类"在某种程度上是任意的，边界是弹性的"（somewhat arbitrary in that boundaries are elastic），但多年运营经验表明这一分类框架仍可合理地概括不同参与模式(p.91)。这意味着分类不是为了精确定量度量而设计，而是为[[Praxis|实践]]者提供一种粗略但可操作的比照工具。
 >
 > ### 单一企业视角的归纳局限
 >

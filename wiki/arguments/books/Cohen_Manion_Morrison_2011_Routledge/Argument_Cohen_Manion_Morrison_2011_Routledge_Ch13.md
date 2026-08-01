@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[External Validity]]"
   - "[[Positivism]]"
+  - "[[Praxis]]"
   - "[[Operationalization]]"
   - "[[Research Topic]]"
   - "[[Research Question]]"
@@ -54,12 +55,14 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Sampling Frame]]"
   - "[[Sampling Error]]"
+  - "[[Growth]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Attrition]]"
   - "[[Document]]"
   - "[[Emergence]]"
+  - "[[Areas of Knowledge]]"
   - "[[International Education]]"
   - "[[Order Effects]]"
   - "[[Sensitive Questions]]"
@@ -81,6 +84,7 @@ related_methods:
   - "[[Multi-phase Sampling]]"
   - "[[Cohort Study]]"
   - "[[Ex Post Facto Research]]"
+  - "[[Cross-checking]]"
 related_facts:
   - "[[PISA]]"
 related_arguments:
@@ -194,7 +198,7 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 > [!chain-link] 从模糊目的到精确信息需求
 > - **第一步：将一般目的转化为具体核心目标** "探索教师对在职工作的看法"是模糊的，而"获得中小学教师在在职教育课程提供方面的优先事项的详细描述"则相对具体。
 > - **第二步：识别和列出辅助议题** 以在职教育为例，辅助议题包括：所需课程类型、课程内容、课程地点、课程时间、课程设计和课程资助。
-> - **第三步：为每个议题制定具体信息要求** 关于所需课程类型，需详细了解：(a) 课程持续时间（一次会议、多次会议、一周、一个月、一学期或一年）；(b) 课程地位（非授予学位、授予学位、有证书、文凭、由学院或大学授予学位）；(c) 课程导向（理论导向，涉及讲座、阅读等；或实践导向，涉及工作坊和课程材料制作）。
+> - **第三步：为每个议题制定具体信息要求** 关于所需课程类型，需详细了解：(a) 课程持续时间（一次会议、多次会议、一周、一个月、一学期或一年）；(b) 课程地位（非授予学位、授予学位、有证书、文凭、由学院或大学授予学位）；(c) 课程导向（理论导向，涉及讲座、阅读等；或[[Praxis|实践]]导向，涉及工作坊和课程材料制作）。
 > - 随着细节展开，需考虑收集信息的最适当方式（与选定教师的访谈、向选定学校的邮寄问卷等）（p.261）。
 
 ---
@@ -417,7 +421,7 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 
 ### 13.6 纵向、横截面和趋势研究
 
-"纵向"一词用于描述在一段时间内进行的各种研究。"发展性"（developmental）一词常用于专门处理人类生长方面的纵向研究（p.267）。
+"纵向"一词用于描述在一段时间内进行的各种研究。"发展性"（developmental）一词常用于专门处理人类[[Growth|生长]]方面的纵向研究（p.267）。
 
 > [!contrast-table] 研究设计的类型体系
 > | 设计类型 | 时间维度 | 受访者 | 核心焦点 | [[Causality\|因果]]分析 | 个体层面分析 |
@@ -502,7 +506,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > 1. **信息的时效性** 态度或潜在能力评估等信息只有在当时收集才有意义。其他类型，如学校教育年限、工作经历、地理迁移，在纵向调查过程中收集更完整或更准确（尽管回溯性收集也有一定价值）。
 > 2. **无信息重复** 队列研究中不会出现信息重复，而横截面研究每次都需要收集相同类型的背景信息，增加访谈成本。
 > 3. **变量遗漏的可补救性** 横截面研究中遗漏哪怕一个后来发现重要的变量都是灾难，而队列研究中通常可以在后续访谈中填补这一缺口，即使只是部分填补。
-> 4. **更大规模的变量积累** 比横截面研究可能积累数量多得多的变量，跨越更广泛的知识领域，因为收集可以分散在多次访谈中。信息可在最适当的时间获取，如工作进入信息可在发生时获取，即使这因样本成员而异。
+> 4. **更大规模的变量积累** 比横截面研究可能积累数量多得多的变量，跨越更广泛的[[Areas of Knowledge|知识领域]]，因为收集可以分散在多次访谈中。信息可在最适当的时间获取，如工作进入信息可在发生时获取，即使这因样本成员而异。
 > 5. **抽样优势** 从出生队列开始消除后期抽样问题，允许广泛使用子样本，简化偏倚和信度的估计问题。
 > 6. **因果分析优势** 纵向研究没有因果分析的一个主要障碍，即对记忆信息的重新解释以使其符合关于因果关系的传统观点。也为评估效应的方向提供了手段。
 >
@@ -644,7 +648,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > | | 所有选项不可见（需滚动） | 确保整个项目和选项在单屏内 |
 > | **信度** | 受访者可能修改工具本身 | 技术保护 + 识别修改后的程序 |
 > | | 强制回答导致虚假数据 | 试测；含"不知道"和"不愿回答" |
-> | | 受访者虚假陈述 | 交叉检查问题 |
+> | | 受访者虚假陈述 | [[Cross-checking\|交叉检查]]问题 |
 > | **退出** | 受访者失去兴趣而放弃 | 逐屏提交；一题一屏；进度条 |
 > | | 问卷长度未知 | 进度条指示完成比例 |
 > | | 退出太容易（一键关闭） | 增加激励（经济激励、彩票）；将个人信息问题放开头(Frick et al., 1999) |

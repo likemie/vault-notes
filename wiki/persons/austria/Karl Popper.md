@@ -8,7 +8,7 @@ summary: "奥地利裔英国科学哲学家，以证伪主义（falsification）
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Postpositivism]]"
   - "[[Paradigm]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -57,4 +58,4 @@ updated: 2026-07-11
 ## 关键引用
 
 > [!citation-card]-
-> 科学推理因此在所有层面都是两个思想片段之间的互动——在可能与实际之间的对话，在推测与批评之间，在什么可能是真的与什么实际上是事实之间。（Medawar, 1972: 22，[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）
+> 科学推理因此在所有层面都是两个思想片段之间的互动——在可能与实际之间的[[Dialogue in Education|对话]]，在推测与批评之间，在什么可能是真的与什么实际上是事实之间。（Medawar, 1972: 22，[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）

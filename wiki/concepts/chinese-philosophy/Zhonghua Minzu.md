@@ -7,10 +7,10 @@ aliases:
 summary: "梁启超 1902 年引入的现代国族概念，经费孝通 1988 年以“多元一体”重新阐释后进入中共主流话语，指以当代物理领土或汉文化为边界、包容 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
@@ -22,28 +22,35 @@ tags:
   - theme/nation-building
   - paradigm/critical
 related_concepts:
-  - "[[Retrotopia]]"
-  - "[[Sinicisation]]"
-  - "[[Second-generation Ethnic Policy]]"
+  - "[[Praxis]]"
   - "[[Official Knowledge]]"
-  - "[[Cultural Disembedding]]"
+  - "[[Paradigm]]"
+  - "[[Hypothesis]]"
+  - "[[Second-generation Ethnic Policy]]"
+  - "[[Analytic Framework]]"
+  - "[[Sinicisation]]"
   - "[[Symbolic Boundary]]"
-related_theories:
-  - "[[Nation Building through Education]]"
-related_methods: []
+  - "[[Cultural Disembedding]]"
+  - "[[Reflexivity]]"
+  - "[[One Country, Two Systems]]"
+  - "[[Retrotopia]]"
+related_theories: []
+related_methods:
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[Fei Xiaotong]]"
   - "[[Qian Mu]]"
   - "[[Hsu Cho-Yun]]"
+  - "[[Confucius]]"
+  - "[[Mencius]]"
   - "[[Zhao Tingyang]]"
 related_facts:
   - "[[2020 Inner Mongolia Bilingual Education Reform]]"
   - "[[Xinjiang Vocational Education and Training Centers]]"
-  - "[[China Basic Education Curriculum Reform]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
-  - "[[Argument_Xu_2024_CE]]"
   - "[[Argument_Yu_2024_CE]]"
+  - "[[Argument_Xu_2024_CE]]"
 ---
 
 # Zhonghua Minzu
@@ -53,7 +60,7 @@ related_arguments:
 ## 定义
 
 > [!def] 核心定义
-> 中华民族（Zhonghua Minzu / Chinese nation），是一个现代政治与文化建构概念。该词由梁启超于 1902 年引入，用以指代涵盖中国境内所有民族的单一国族共同体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 104)]]。1988 年，社会学家[[Fei Xiaotong|费孝通]]在“中华民族多元一体格局”论述中对其进行了系统重构，强调中华民族作为整体是一体，内部 56 个民族是多元[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。这一定义在实践中试图将宪法上界定的多民族国家，转变为具有族群多样性的单一国族实体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。
+> 中华民族（Zhonghua Minzu / Chinese nation），是一个现代政治与文化建构概念。该词由梁启超于 1902 年引入，用以指代涵盖中国境内所有民族的单一国族共同体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 104)]]。1988 年，社会学家[[Fei Xiaotong|费孝通]]在“中华民族多元一体格局”论述中对其进行了系统重构，强调中华民族作为整体是一体，内部 56 个民族是多元[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。这一定义在[[Praxis|实践]]中试图将宪法上界定的多民族国家，转变为具有族群多样性的单一国族实体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向官方主导的、将中国境内 56 个民族凝聚为单一国族共同体的政治与文化建构。
@@ -68,7 +75,7 @@ related_arguments:
 > [!boundary]- 概念边界
 > - **不等于 汉族（Han Ethnicity）** — 汉族是中华民族内部人口占绝大多数的族群，但在官方话语中，中华民族是涵盖 56 个民族的更高阶政治共同体[[Argument_Xu_2024_CE|(Xu, 2024, p. 576)]]。
 > - **不等于 传统“天下”观念** — 传统天下观基于天命与儒家文明礼义，而中华民族是借用西方现代主权国家与民族主义概念重构的国族实体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 104)]]。
-> - **不等于 宪制多民族联邦** — 中华民族话语在当代强化单一国族同一性，与苏联式的联邦制多民族国家模式产生范式分野[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 102)]]。
+> - **不等于 宪制多民族联邦** — 中华民族话语在当代强化单一国族同一性，与苏联式的联邦制多民族国家模式产生[[Paradigm|范式]]分野[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 102)]]。
 
 ---
 
@@ -90,7 +97,7 @@ related_arguments:
 > [!feature] 核心要素
 > - **多元与一体的双重辩证（Diversity in Unity）** — 56 个民族在文化上保持多元，但在政治与历史命运上从属于统一的中华民族整体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。
 > - **“自在”到“自觉”的演进路线** — 远古至近代以前，各族群在贸易与战争中不自觉地形成联系（自在）；鸦片战争后，在共同反抗帝国主义侵略中觉醒为有统一认同的国族（自觉）[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 105)]]。
-> - **汉文化的同化吸引力** — 论述中蕴含汉文化具有同化吸引力的假设，认为历史上进入中原的内陆亚洲政权最终均自愿或不自觉地融入中华民族[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 67)]]。
+> - **汉文化的同化吸引力** — 论述中蕴含汉文化具有同化吸引力的[[Hypothesis|假设]]，认为历史上进入中原的内陆亚洲政权最终均自愿或不自觉地融入中华民族[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 67)]]。
 > - **物理领土的构成性加冕** — 将当代中国物理疆域逆向投影至古代，将疆域内历史上的族际冲突重构为“家门内摩擦”与统一大业[[Argument_Xu_2024_CE|(Xu, 2024, pp. 576, 582)]]。
 
 > [!logic-map]- 中华民族演进与建构机制
@@ -111,30 +118,30 @@ related_arguments:
 ### 命题一　中华民族“多元一体”话语服务于国家从多民族宪制向单一国族的同化主义转型
 
 > [!concept-lens] 国族建构与同化主义转向
-> 探讨“中华民族”话语如何从社会学学术概念演变为国家政治意志，并为推行第二代民族政策与通用语言文字改革提供合法性。
+> 探讨“中华民族”话语如何从社会学学术概念演变为国家政治意志，并为推行[[Second-generation Ethnic Policy|第二代民族政策]]与通用语言文字改革提供合法性。
 
 > [!claim] Uradyn E. Bulag (2024)
-> **“多元一体”格局的同化导向与自我牺牲要求** 费孝通 1988 年提出的“中华民族多元一体格局”表面上强调多元与一体并存，实质上试图将宪法规定的多民族国家重构为单一国族政治实体。该话语赋予汉文化超自然的同化吸引力，将古代族际战争与近代非汉群体的牺牲解读为“不自觉”与“自觉”融入中华民族一体化的过程，为后来的第二代民族政策与熔炉同化提供了理论正当性[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 97, 101–105)]]。
+> **“多元一体”格局的同化导向与自我牺牲要求** [[Fei Xiaotong|费孝通]] 1988 年提出的“中华民族多元一体格局”表面上强调多元与一体并存，实质上试图将宪法规定的多民族国家重构为单一国族政治实体。该话语赋予汉文化超自然的同化吸引力，将古代族际战争与近代非汉群体的牺牲解读为“不自觉”与“自觉”融入中华民族一体化的过程，为后来的第二代民族政策与熔炉同化提供了理论正当性[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 97, 101–105)]]。
 
 ---
 
 ### 命题二　教科书历史叙事中的“中华民族”呈现出领土型与族裔文化型的二元范式对立
 
-> [!concept-lens] 历史教育中的中华民族范式分野
-> 探讨历史教科书如何通过不同的分析框架解读“中华民族”，并在中国大陆与香港形成两种截然不同的国家构建逻辑。
+> [!concept-lens] 历史教育中的中华民族[[Paradigm|范式]]分野
+> 探讨历史教科书如何通过不同的[[Analytic Framework|分析框架]]解读“中华民族”，并在中国大陆与香港形成两种截然不同的国家构建逻辑。
 
 > [!claim] [[Argument_Xu_2024_CE|Xu (2024)]]
-> **中华民族两种国家观在教科书中的选择性表述** 在历史教育中，“中华民族”并非单一维度的概念，而是分化为领土型与族裔文化型两种范式：中国大陆教科书采取“领土型中国观”（费孝通模式），以当代物理领土为构成性边界、将 56 个民族包容为一家；香港教科书则延续“族裔文化型中国观”（许倬云与钱穆模式），以中原汉族文化为构成性边界、将领土呈现为随汉化程度变化的弹性空间[[Argument_Xu_2024_CE|(Xu, 2024, pp. 575–576, 580–583)]]。
+> **中华民族两种国家观在教科书中的选择性表述** 在历史教育中，“中华民族”并非单一维度的概念，而是分化为领土型与族裔文化型两种范式：中国大陆教科书采取“领土型中国观”（费孝通模式），以当代物理领土为构成性边界、将 56 个民族包容为一家；香港教科书则延续“族裔文化型中国观”（[[Hsu Cho-Yun|许倬云]]与[[Qian Mu|钱穆]]模式），以中原汉族文化为构成性边界、将领土呈现为随[[Sinicisation|汉化]]程度变化的弹性空间[[Argument_Xu_2024_CE|(Xu, 2024, pp. 575–576, 580–583)]]。
 
 ---
 
 ### 命题三　官方教材将“中华民族”重构为以汉儒为正统象征的官方知识，引发少数民族学生的反思性隔阂
 
-> [!concept-lens] 官方知识垄断与边缘主体回应
-> 探讨 217 册必修教材如何将“中华民族”凝聚为国家[[Official Knowledge|官方知识]]，以及这一单向度叙事在少数民族学生中引起的符号边界与脱嵌感。
+> [!concept-lens] [[Official Knowledge|官方知识]]垄断与边缘主体回应
+> 探讨 217 册必修教材如何将“中华民族”凝聚为国家[[Official Knowledge|官方知识]]，以及这一单向度叙事在少数民族学生中引起的[[Symbolic Boundary|符号边界]]与脱嵌感。
 
 > [!claim] [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]
-> **官方教科书中的汉儒中心叙事与边缘反思** 2001 课程改革以来出版的 217 册必修教材将“中华民族”叙事高度聚焦于汉族儒家英雄英雄画廊（如孔子、孟子）与非汉政权（如北魏孝文帝、清朝康熙帝）尊崇汉儒的汉化过程，将中华民族大一统包装为不可逆转的历史规律。这一[[Official Knowledge|官方知识]]塑造虽然强化了国族同一性，但因缺乏对少数民族主体的实质代表性，导致少数民族与信教学生产生深刻的[[Cultural Disembedding|文化脱嵌]]感与反思性疏离[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 65–71)]]。
+> **官方教科书中的汉儒中心叙事与边缘反思** 2001 课程改革以来出版的 217 册必修教材将“中华民族”叙事高度聚焦于汉族儒家英雄英雄画廊（如[[Confucius|孔子]]、[[Mencius|孟子]]）与非汉政权（如北魏孝文帝、清朝康熙帝）尊崇汉儒的汉化过程，将中华民族大一统包装为不可逆转的历史规律。这一[[Official Knowledge|官方知识]]塑造虽然强化了国族同一性，但因缺乏对少数民族主体的实质代表性，导致少数民族与信教学生产生深刻的[[Cultural Disembedding|文化脱嵌]]感与[[Reflexivity|反思性]]疏离[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 65–71)]]。
 
 ---
 
@@ -144,8 +151,8 @@ related_arguments:
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
 > | **国族建构与同化转向** | 评估“中华民族”话语对多民族宪制向单一国族转型的推动 | 民族政策研究、国家同化机制分析 | [[Argument_Bulag_2024_CE\|Bulag (2024)]] |
-> | **历史教育与国家叙事** | 比较领土型与族裔文化型“中华民族”叙事在教科书中的对立 | 比较教科书研究、一国两制认同分析 | [[Argument_Xu_2024_CE\|Xu (2024)]] |
-> | **官方知识与符号边界** | 揭示 217 册教材汉儒正统构建与少数民族学生的反思性隔阂 | 课程话语分析、边缘群体主观认同研究 | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
+> | **历史教育与国家叙事** | 比较领土型与族裔文化型“中华民族”叙事在教科书中的对立 | 比较教科书研究、[[One Country, Two Systems\|一国两制]]认同分析 | [[Argument_Xu_2024_CE\|Xu (2024)]] |
+> | **官方知识与符号边界** | 揭示 217 册教材汉儒正统构建与少数民族学生的反思性隔阂 | 课程[[Discourse Analysis\|话语分析]]、边缘群体主观认同研究 | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
 
 ---
 
@@ -166,7 +173,7 @@ related_arguments:
 
 > [!debates] 学术争议与政治交锋
 >
-> > [!axis] “第二代民族政策”与熔炉同化争议
+> > [!axis] “[[Second-generation Ethnic Policy|第二代民族政策]]”与熔炉同化争议
 > > - **胡鞍钢与胡联合（2011）** — 提出以交往、交流、交融为核心的第二代民族政策，主张模仿美国的国族“熔炉”同化模式，废除民族区域自治制度。这一主张被批评为模仿陈旧的熔炉同化论[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 102–103)]]。
 >
 > > [!axis] 概念转换中的非意图合谋
@@ -177,7 +184,7 @@ related_arguments:
 
 > [!critique]- 外部批评
 > - **剥夺少数民族主体性能动性** — [[Argument_Bulag_2024_CE|Bulag (2024)]] 指出，中华民族多元一体论述滥用结构功能主义，将历史上血腥的侵略与同化包装为“不自觉的整合”，剥夺了少数民族定义中国的主体性能动性[[Argument_Bulag_2024_CE|(Bulag, 2024, pp. 104–105)]]。
-> - **教材汉儒正统化引发的符号隔阂** — [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 指出，基于该概念构建的官方教材高度强调汉儒传统，导致少数民族与信教学生产生[[Cultural Disembedding|文化脱嵌]]与反思性疏离[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
+> - **教材汉儒正统化引发的符号隔阂** — [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 指出，基于该概念构建的官方教材高度强调汉儒传统，导致少数民族与信教学生产生[[Cultural Disembedding|文化脱嵌]]与[[Reflexivity|反思性]]疏离[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
 
 > [!warning] 适用局限
 > 中华民族概念属于特定的政治与文化建构产物，不适合作为放之四海而皆准的普适性民族学分类工具[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。
@@ -187,9 +194,9 @@ related_arguments:
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 探究了中华民族复兴[[Retrotopia|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的实践。
+> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 探究了中华民族复兴[[Retrotopia|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的[[Praxis|实践]]。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 对中国历史教科书中的中华民族族裔文化观与领土观进行了实证话语对比分析。
-> - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 实证分析 217 册必修教材中“中华民族”话语的汉儒正统化及其在少数民族学生中的反思性回应。
+> - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 实证分析 217 册必修教材中“中华民族”话语的汉儒正统化及其在少数民族学生中的[[Reflexivity|反思性]]回应。
 > - [[2020 Inner Mongolia Bilingual Education Reform]] — 国家为推广通用语言文字与铸牢中华民族共同体意识而实施的语言替代性改革实证案例。
 > - [[Xinjiang Vocational Education and Training Centers]] — 官方以铸牢中华民族共同体意识为名实施的同化与职业培训设施案例。
 

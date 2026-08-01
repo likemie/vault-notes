@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Corporate R&D Labs]]"
   - "[[Technology Transfer]]"
   - "[[Knowledge Exchange]]"
+  - "[[Praxis]]"
   - "[[Innovation Park]]"
   - "[[Knowledge Transfer]]"
   - "[[Technology Infusion]]"
@@ -205,7 +206,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 | 贡献类型 | 具体内容 | 为什么这比"技术转移"更广 |
 |----------|----------|------------------------|
 | **产出突破性技术创新** | 在科学前沿产生可转化为新产品、新服务的发现 | 传统技术转移叙事聚焦于此，但它只是贡献光谱的一端 |
-| **推动全谱系创新** | 不仅限于技术突破，还包括生产工艺改进、商业模式创新、工作实践变革等 | 一项对工厂流程的优化建议可能比一项无法商业化的专利创造更多经济价值，但前者不涉及 IP，在传统"技术转移"框架中不可见 |
+| **推动全谱系创新** | 不仅限于技术突破，还包括生产工艺改进、商业模式创新、工作[[Praxis\|实践]]变革等 | 一项对工厂流程的优化建议可能比一项无法商业化的专利创造更多经济价值，但前者不涉及 IP，在传统"技术转移"框架中不可见 |
 | **提供专业服务与基础设施** | 利用大学的专业知识和设施帮助合作伙伴完成创新活动，包括合同研究、原型开发与测试、咨询、数据分析、设备租用 | 企业不必自建昂贵实验室，大学的中试车间、电子显微镜、基因测序平台可以按需使用 |
 | **强化地方创新系统** | 与本地合作伙伴共同改善区域创新条件、资源和能力，包括[[Innovation Park\|科技园区]]建设、地方创新战略参与、本地人才培养 | 不是每所大学都能成为斯坦福，但每所大学都可以成为其所在区域的锚点机构 |
 | **引入新兴思想与技术** | 将前沿思想和早期技术引入市场，通过衍生企业、概念验证资助、创业孵化器 | 在技术尚不成熟、私人投资者不愿承担风险的阶段，大学提供第一条商业化通道 |

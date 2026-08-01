@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
   - "[[Space-Making]]"
+  - "[[Praxis]]"
   - "[[Analytic Framework]]"
   - "[[Non-monetary Competition]]"
   - "[[Champ]]"
@@ -145,7 +146,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 排名作为空间制造
 
-[[Argument_Marginson_2025_ROE|Marginson (2025)]]将全球大学排名的创建定位为[[Space-Making|高等教育空间制造]]的典型案例。2002/2003 年，一位中国大学规划者和一家伦敦杂志构想了一个以校准绩效排名来排序的大学世界——[[Academic Ranking of World Universities|ARWU]] 由此诞生。这一构想结合了：（a）物质元素（既有研究产出数据、大学声誉层级）；（b）空间想象（一个可比较、可竞争的全球大学市场）；（c）社会实践（数据收集、指标加权和年度排名发布），将一种特定版本的"世界一流大学"想象固化为全球制度现实([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 4–5]])。
+[[Argument_Marginson_2025_ROE|Marginson (2025)]]将全球大学排名的创建定位为[[Space-Making|高等教育空间制造]]的典型案例。2002/2003 年，一位中国大学规划者和一家伦敦杂志构想了一个以校准绩效排名来排序的大学世界——[[Academic Ranking of World Universities|ARWU]] 由此诞生。这一构想结合了：（a）物质元素（既有研究产出数据、大学声誉层级）；（b）空间想象（一个可比较、可竞争的全球大学市场）；（c）社会[[Praxis|实践]]（数据收集、指标加权和年度排名发布），将一种特定版本的"世界一流大学"想象固化为全球制度现实([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 4–5]])。
 
 ### 排名与国际教育的循环效应
 
@@ -232,7 +233,7 @@ Amsler & Bolsmann（2012, p.286）将排名定义为"一个强大的象征性和
 > 尽管排名持续受到批评，但其公共和制度重要性难以被削弱。新制度主义视角揭示了排名权力的深层结构根源([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.137–139]])：
 
 - **高等教育的文化[[Champ|场域]]特性** 高等教育不生产"铅笔或汽车"那样容易客观测量的商品，而是通过高度社会性、互动性和默会性的教学过程生产知识。"声望之于高等教育，如同利润之于企业"（Gonzales & Núñez, 2014, p.5, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.137]]）
-- **组织的理性化趋势** 随着高校被想象为"理性化组织"，它们越来越"有被比较的风险"——"可移植的'最佳实践'被展示在它们面前"（Ramirez, 2013, pp.143f., cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.137]]）
+- **组织的理性化趋势** 随着高校被想象为"理性化组织"，它们越来越"有被比较的风险"——"可移植的'最佳[[Praxis|实践]]'被展示在它们面前"（Ramirez, 2013, pp.143f., cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.137]]）
 - **排名已成为系统内通用"货币"** 排名的指标（引用、发表、项目、资助）已广泛嵌入高校内部的职称晋升和部门评估，深刻影响着[[Knowledge Production|知识生产]]
 - **数据依赖性** 主要全球排名使用大型研究数据集和声誉调查数据，不依赖高校"自愿"提交
 

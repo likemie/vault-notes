@@ -7,7 +7,7 @@ aliases:
 summary: "将口头访谈转换为书面文本的过程，是选择性转换而非中性记录，涉及从口头和人际规则系统到书面语言系统的根本性变化"
 type: concept
 domain: "research-methodology"
-related_count: 3
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,8 @@ tags:
   - data-processing
 related_concepts:
   - "[[Reliability]]"
+  - "[[Dialogue in Education]]"
+  - "[[Praxis]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
 related_arguments:
@@ -55,7 +57,7 @@ updated: 2026-07-22
 > - **语速** 快或慢、匆忙或不慌不忙、犹豫或自信
 > - **同时说话** 多少人同时在说
 > - **连续或短句** 连续表达还是短句
-> - **谁在对谁说话** 对话方向
+> - **谁在对谁说话** [[Dialogue in Education|对话]]方向
 > - **无法辨认的言语** 含混不清的内容
 > - **同期其他事件** 同时发生的任何事
 > - **非语言沟通** 视频转录时需记录所有非语言信号
@@ -74,7 +76,7 @@ updated: 2026-07-22
 
 ## 应用案例
 
-> [!example] 转录在实践中的应用
+> [!example] 转录在[[Praxis|实践]]中的应用
 > - 录音：可能低调但约束受访者；可能滤掉视觉和非语言方面（Mishler, 1986）。
 > - 录像：可能产生更丰富数据并捕获非语言沟通，但更约束受访者，带有监视意味（Merton et al., 1956 指出录像会降温），分析耗时。
 > - 无机械记录：[[Reliability|可靠性]]依赖访谈者记忆，而记忆是动机性的（Gadd, 2004, p. 384），可能选择性回忆。核心权衡在于尽可能多地捕获数据，还是避免环境过于压抑。

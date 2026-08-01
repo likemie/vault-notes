@@ -7,7 +7,7 @@ aliases:
 summary: "研究者对研究质量的基本义务，涵盖伦理规范、数据管理、实验设计和成果报告，大学通常要求师生完成 RCR 培训作为从事研究的条件"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Informed Consent]]"
   - "[[Variable]]"
+  - "[[Praxis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Freedom]]"
 related_theories: []
@@ -63,7 +64,7 @@ updated: 2026-06-04
 > **RCR vs 研究不端（Research Misconduct）** 研究不端特指抄袭、伪造和篡改三种严重违规行为，属于 RCR 的底线要求；RCR 的范围更广，涵盖研究全过程的质量标准，不仅限于避免违规，还包括积极履行研究者的专业责任（p.265）。
 
 > [!example]
-> **大学 vs 企业的质量控制差异** 大学的 RCR 实践在系统性上通常弱于企业的质量控制体系。大学文化重视创造性独立性，但制度性控制和研究基础设施支持相对不足；此外，研究的实际执行者往往是经验有限的学生，这使得研究过程难以达到行业标准。因此，大学合同办公室通常非常谨慎，不愿在合作协议中"确保"或"担保"研究质量（p.266）。
+> **大学 vs 企业的质量控制差异** 大学的 RCR [[Praxis|实践]]在系统性上通常弱于企业的质量控制体系。大学文化重视创造性独立性，但制度性控制和研究基础设施支持相对不足；此外，研究的实际执行者往往是经验有限的学生，这使得研究过程难以达到行业标准。因此，大学合同办公室通常非常谨慎，不愿在合作协议中"确保"或"担保"研究质量（p.266）。
 
 ---
 

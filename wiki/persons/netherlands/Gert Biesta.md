@@ -7,10 +7,10 @@ summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 21
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
 - gert-biesta
 - educational-philosophy
@@ -25,10 +25,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Value-Based Education]]"
   - "[[Paradigm]]"
+  - "[[Praxis]]"
   - "[[Learnification]]"
   - "[[Complexity Reduction]]"
   - "[[Ontology]]"
   - "[[Visible Learning]]"
+  - "[[Dialogue in Education]]"
   - "[[Critical Pedagogy]]"
 related_theories:
   - "[[Transactional Epistemology]]"
@@ -38,6 +40,7 @@ related_methods:
 related_persons:
   - "[[John Dewey]]"
   - "[[Bruno Latour]]"
+  - "[[Carlos Alberto Torres]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
@@ -80,7 +83,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Biesta 的学术关注核心是**教育的目的性与规范性**——即教育不是一个仅仅关于"使事物发生"的技术性实践，而是一个**目的驱动的规范性实践**。这一立场贯穿于他的三个主要研究方向：
+> Biesta 的学术关注核心是**教育的目的性与规范性**——即教育不是一个仅仅关于"使事物发生"的技术性[[Praxis|实践]]，而是一个**目的驱动的规范性实践**。这一立场贯穿于他的三个主要研究方向：
 >
 > 1. **对[[Evidence-Based Education|证据本位教育]]的批判** Biesta 是证据本位教育最有力、最有系统的批评者之一。他先后提出"民主缺陷"（2007a）和"三重缺陷"框架（2010），从[[Epistemology|认识论]]、存在论和实践论三个维度拆解了"研究证据应成为教育实践的基础"这一主张。
 >
@@ -94,7 +97,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - [[Transactional Epistemology]] — 与 Burbules (2003) 合作系统阐述 Dewey 的交易[[Epistemology|认识论]]对教育研究的意涵
-> - [[Evidence-Based Education]] — 提出了证据本位教育在认识论、存在论和实践论维度的三重缺陷
+> - [[Evidence-Based Education]] — 提出了证据本位教育在认识论、存在论和[[Praxis|实践]]论维度的三重缺陷
 > - [[Value-Based Education]] — 提出价值而非证据应构成教育实践的基础
 > - [[Learnification]] — 提出概念描述学习被效果中心的结果逻辑所吞噬、教师被降格为"学习促进者"的现象([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2 引用]])
 > - [[Complexity Reduction]] — 引入概念，解释为何在非决定论系统中事物仍能"运作"，将其定义为政治行为
@@ -116,13 +119,13 @@ updated: '2026-06-08'
 > - [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]在分析英国议会选择性教育政策辩论时，援引了 Biesta（2007a, 2010）对 EBE 的哲学批判作为理论基础，讨论证据在教育政策制定中的实际角色([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3, 7]])——将 Biesta 的批判引入道德侧步的经验研究
 
 
-> [!note-] 学术对话与影响
-> - 与 **Carlos Alberto Torres**、**Michael Apple** 等[[Critical Pedagogy|批判教育学]]学者的思想有对话但方向不同——Biesta 更强调教育的**存在论意义**而非政治解放
+> [!note-] 学术[[Dialogue in Education|对话]]与影响
+> - 与 **[[Carlos Alberto Torres]]**、**Michael Apple** 等[[Critical Pedagogy|批判教育学]]学者的思想有对话但方向不同——Biesta 更强调教育的**存在论意义**而非政治解放
 > - 对全球教师教育（特别是英国、北欧、荷兰）的教育哲学课程产生了深远影响
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **哲学论证的实操距离** 批评者（包括部分赞同其批判的学者）指出 Biesta 的论证停留在哲学层面，未提供[[Value-Based Education|价值本位教育]]在教师教育和课堂实践中的操作路线图。Cartwright & Hardie (2012) 从交易[[Epistemology|认识论]]视角提供了部分操作性回应，但 Biesta 本人未进行这一层面的工作。
+> - **哲学论证的实操距离** 批评者（包括部分赞同其批判的学者）指出 Biesta 的论证停留在哲学层面，未提供[[Value-Based Education|价值本位教育]]在教师教育和课堂[[Praxis|实践]]中的操作路线图。Cartwright & Hardie (2012) 从交易[[Epistemology|认识论]]视角提供了部分操作性回应，但 Biesta 本人未进行这一层面的工作。
 > - **"反证据"的误读风险** Biesta 反复强调"证据从属但仍有角色"，但其对 [[Evidence-Based Education|EBE]] 的全面批判在实际传播中常被简化为"Biesta 反对在教育中使用证据"——尽管他明确否认这一立场。这一误读在政策辩论中削弱了其批判的建设性面向。
 > - **价值冲突的处理不足** Biesta 将教育目的定义为需通过民主协商确定，但未充分展开多元社会中价值冲突的解决机制——不同群体对"教育应该培养什么样的人"存在根本分歧。

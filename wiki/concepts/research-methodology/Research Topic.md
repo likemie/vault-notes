@@ -9,7 +9,7 @@ aliases:
 summary: "研究设计的出发点，指计划研究的主题或题材，涉及选题来源、选择标准、问题明确化以及工作标题的草拟"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Literature Review]]"
   - "[[Research Question]]"
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Didaktik]]"
   - "[[Research Scope]]"
@@ -70,7 +71,7 @@ updated: 2026-06-25
 
 > [!quad-grid] 选题来源的四种驱动力
 >
-> > [!features] 实践驱动
+> > [!features] [[Praxis|实践]]驱动
 > > - 日常工作中的问题
 > > - 对政府政策或地方发展的回应
 > > - 改进实践的愿望
@@ -142,7 +143,7 @@ updated: 2026-06-25
 > [!claim] 原创性不等于贡献
 > [[Research Contribution|研究贡献]]不同于原创性：研究必须是原创的、重要的、非琐碎的、相关的、适时的、对更广泛受众有趣且能推进领域前进的。但仅凭原创数据和原创课题是不够的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
-两个反面案例可以说明这一区分：研究马达加斯加16岁学生使用某教科书的情况产生了原创数据，但无法帮助其他教育工作者；研究阿伯丁小学儿童的午餐时间偏好产生了原创数据，但无人在意。两个案例的共同诊断是：研究只产生了原创数据，仅此而已。研究需要超越这一点，选择一个重要的课题，真正为理解和实践做出重要贡献（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+两个反面案例可以说明这一区分：研究马达加斯加16岁学生使用某教科书的情况产生了原创数据，但无法帮助其他教育工作者；研究阿伯丁小学儿童的午餐时间偏好产生了原创数据，但无人在意。两个案例的共同诊断是：研究只产生了原创数据，仅此而已。研究需要超越这一点，选择一个重要的课题，真正为理解和[[Praxis|实践]]做出重要贡献（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
 > [!question] 三个根本问题
 > 选择研究课题需要回答三个根本问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）：

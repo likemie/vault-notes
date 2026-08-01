@@ -21,22 +21,22 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Recontextualization]]"
+  - "[[Democratic Education]]"
   - "[[Scientific Attitude]]"
   - "[[Paradigm]]"
   - "[[Progressive Education]]"
+  - "[[Praxis]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Pragmatism in China]]"
-related_theories:
-  - "[[Transfer Translation Transformation]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_theories: []
+related_methods: []
 related_persons:
   - "[[John Dewey]]"
   - "[[Hu Shi]]"
   - "[[Tao Xingzhi]]"
 related_facts:
   - "[[New Education Movement]]"
-  - "[[1904 Educational System]]"
-  - "[[New Culture Movement]]"
+  - "[[1922 Educational System Reform]]"
 related_arguments:
   - "[[Argument_Zhou_2024_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
@@ -69,7 +69,7 @@ updated: '2026-07-24'
 > - **1912–1917** 赴美留学，就读于哥伦比亚大学师范学院，师从[[John Dewey|杜威]]获得博士学位。
 > - **1919** 创办并主编《新教育》杂志（*[[New Education Movement|The New Education]]*），使之成为民国新教育运动的核心理论阵地。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]]）
 > - **1919–1921** 与[[Hu Shi|胡适]]、[[Tao Xingzhi|陶行知]]等哥大校友共同筹划并全程接待[[John Dewey|杜威]]在华巡回讲演，构成了杜威思想在华[[Recontextualization|再脉络化]]的人际基础设施。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.73]]）
-> - **1919–1925** 主编《新教育》，以“养成健全人格、创造进步社会”为宗旨，大力推动激进的民主教育改革。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–615]]）
+> - **1919–1925** 主编《新教育》，以“养成健全人格、创造进步社会”为宗旨，大力推动激进的[[Democratic Education|民主教育]]改革。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–615]]）
 > - **1925** 《新教育》停刊并由[[Tao Xingzhi|陶行知]]主编的《新教育评论》取代，标志着新教育运动从“民主”原则向“[[Scientific Attitude|科学态度]]”原则的[[Paradigm|范式转换]]。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.619–620]]）
 > - **1930–1945** 出任北京大学校长、行政院秘书长等职，主导战时高教迁移与国家教育行政。
 > - **1964** 逝世于台北。
@@ -83,9 +83,9 @@ updated: '2026-07-24'
 >   - **代表著作** 《改变教育之点滴》（1915）、《以教育创造新国家》（1918）。
 >   - **关键概念** [[Progressive Education|进步教育]]、新教育、学校隔离论。
 >   - **阶段转向** 明确否定新旧调和，确立了非此即彼的替代性改革观。
-> - **1919–1924年 — 《新教育》时期激进民主实践阶段** 聚焦将美式民主理想与儿童中心教学法引入中国，推动1922年“新学制”建立。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.615–618]]）
+> - **1919–1924年 — 《新教育》时期激进民主[[Praxis|实践]]阶段** 聚焦将美式民主理想与儿童中心教学法引入中国，推动1922年“新学制”建立。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.615–618]]）
 >   - **代表著作** 《新教育发刊词》（1919）、《过渡时期之教育》（1919）。
->   - **关键概念** 民主教育、平民教育精神、个性发展。
+>   - **关键概念** [[Democratic Education|民主教育]]、平民教育精神、个性发展。
 >   - **阶段转向** 将教育改革与五四政治变革深度绑定。
 > - **1925–1964年 — 战时行政与回忆录反思阶段** 转向高教行政管理与东西文化对比反思。
 >   - **代表著作** 《西潮》（*Tides from the West*, 1947）、《新潮》。
@@ -139,7 +139,7 @@ updated: '2026-07-24'
 > > [!axis] 理想国隔离论 vs. [[John Dewey|杜威]]渐进演进论的张力
 > > 蒋梦麟将新旧关系建构为非此即彼的替代关系，与杜威主张“教育重组只能一步一个脚印零碎完成”存在根本冲突。
 > >
-> > - **[[Argument_Zhou_2024_CE|Zhou & Westberg (2024, pp.618, 622)]]** 批评蒋梦麟的激进立场导致新教育在实践中脱离了中国农业国国情。
+> > - **[[Argument_Zhou_2024_CE|Zhou & Westberg (2024, pp.618, 622)]]** 批评蒋梦麟的激进立场导致新教育在[[Praxis|实践]]中脱离了中国农业国国情。
 
 > [!critique]- 批评索引
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024, p.619)]] — 指出蒋梦麟试图以教育单枪匹马完成国家重建，忽视了财政与政局对改革的残酷制约。

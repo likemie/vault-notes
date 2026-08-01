@@ -5,7 +5,7 @@ aliases:
 summary: "强调存在总是在与他者共同制造中生成的后人类主义概念，突出跨物种相互依存、协作生成和伦理回应关系"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Posthumanism]]"
   - "[[Haraway's SF]]"
+  - "[[Praxis]]"
   - "[[Humosity]]"
   - "[[Epoché]]"
 related_theories:
@@ -66,7 +67,7 @@ updated: 2026-07-08
 
 > [!info] 理论基础
 > - [[Posthumanism]] — sympoiesis 是后人类主义伦理的核心概念表达，具体化了"去人类中心"和"关系性[[Ontology|本体论]]"的理论主张
-> - [[Haraway's SF|SF (Haraway)]] — Haraway 实践 sympoiesis 的核心方法论：以讲故事（string figures、speculative fabulation、science fiction、so far）编织人类与非人类多重行动者的关系模式
+> - [[Haraway's SF|SF (Haraway)]] — Haraway [[Praxis|实践]] sympoiesis 的核心方法论：以讲故事（string figures、speculative fabulation、science fiction、so far）编织人类与非人类多重行动者的关系模式
 > - [[Humosity]] — sympoiesis 的伦理推论：如果世界是通过"共同制造"存在的，那么人类就是物质循环（humus）的一部分，而非站在循环之上的管理者
 >
 

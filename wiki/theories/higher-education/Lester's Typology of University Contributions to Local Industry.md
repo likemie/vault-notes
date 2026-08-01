@@ -8,7 +8,7 @@ aliases:
 summary: "Richard Lester（MIT, 2005）提出的分类框架，根据本地产业类型和所处产业生命周期阶段，将大学对本地经济的贡献划分为四种类型——新兴产业培育、产业引进/移植、现有产业多样化、现有产业升级"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Structural Holes]]"
+  - "[[Praxis]]"
   - "[[Innovation Ecosystem]]"
   - "[[Competitiveness]]"
 related_theories:
@@ -68,7 +69,7 @@ updated: 2026-06-10
 **类型 4 — 现有产业的升级（Upgrading of existing industries）** 当成熟产业需要升级以适应竞争时，大学的贡献包括：
 - 通过合同研究和教师咨询为产业提供问题解决
 - 教育和人力发展
-- 全球最佳实践扫描
+- 全球最佳[[Praxis|实践]]扫描
 - 召集前瞻性演习
 - 召集用户-供应商论坛
 
@@ -77,7 +78,7 @@ updated: 2026-06-10
 > [!success]
 > 这一分类框架为地方创新政策和大学战略提供了重要工具：
 
-- **避免一刀切政策** 政策制定者不应期望大学以相同方式贡献于所有类型的本地产业。对新兴高科技产业的培育策略（如提供创业支持和前沿研究）对成熟制造业的升级可能不适用（后者更需要合同研究、全球最佳实践扫描和人员培训）
+- **避免一刀切政策** 政策制定者不应期望大学以相同方式贡献于所有类型的本地产业。对新兴高科技产业的培育策略（如提供创业支持和前沿研究）对成熟制造业的升级可能不适用（后者更需要合同研究、全球最佳[[Praxis|实践]]扫描和人员培训）
 - **诊断本地需求** 大学和地方政府应首先诊断本地产业的类型和生命周期阶段，再据此设计大学参与策略
 - **与[[Innovation Ecosystem|创新生态系统]]建设的对接** 该框架与本地[[Innovation Ecosystem|创新生态系统]]的战略性发展高度契合——峰会讨论强调，建设更有效的本地创新生态系统需要思考本地运营的行业类型及其特定技术和更广泛的创新需求，以及大学如何贡献（pp.8–9）
 

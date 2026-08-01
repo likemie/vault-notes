@@ -6,7 +6,7 @@ aliases:
 summary: "证据本位教育中的制度化中介机构，通过设定证据标准、审查项目研究和发布效果评级，把研究证据转化为学校和政策可使用的项目信息。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Research Translation]]"
   - "[[Attrition]]"
@@ -108,13 +109,13 @@ updated: 2026-07-13
 - **2001** — [[No Child Left Behind Act 2001|NCLB]] 将“科学本位研究”嵌入美国联邦教育政策，推动学校改进、阅读项目和联邦拨款与实证研究标准连接起来([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 - **2002** — [[What Works Clearinghouse]] 由美国教育部创建，用于识别和审查符合严格标准的教育研究；在 WWC 体系中，达到“无保留”或“有保留”标准通常需要 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]] 证据([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
 - **2015** — ESSA 将证据分为强、中、有希望和基于原理四级，使清算中心的评级语言更直接进入学校改进拨款和项目选择([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
-- **2015 之后** — Evidence for ESSA 等面向实践者的平台出现，并与 WWC 一起扩展学校和学区获取项目证据的渠道；这种变化提高了正式证据的可及性，但没有自动解决实践者对成本、实施和本地适配信息的需求([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110, 120-121]])。
+- **2015 之后** — Evidence for ESSA 等面向[[Praxis|实践]]者的平台出现，并与 WWC 一起扩展学校和学区获取项目证据的渠道；这种变化提高了正式证据的可及性，但没有自动解决实践者对成本、实施和本地适配信息的需求([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110, 120-121]])。
 - **2020s** — 美国和英国的教育清算中心形成多机构生态，不同机构在研究设计、复制要求、[[Effect Size|效应量]]阈值、持续效果和评级单位上采用不同标准；这使“evidence-based”在实践中的含义变得不稳定([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3-5, 26-30]])。
 
 ## 核心要素
 
 > [!abstract] 核心机制
-> 清算中心把教育[[Research Translation|研究转化]]为实践可读的项目判断，通常经过五个环节：设定证据标准、搜寻项目研究、评价单项研究质量、综合项目效果、发布面向非方法专家的评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> 清算中心把教育[[Research Translation|研究转化]]为[[Praxis|实践]]可读的项目判断，通常经过五个环节：设定证据标准、搜寻项目研究、评价单项研究质量、综合项目效果、发布面向非方法专家的评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
 
 ### 证据标准制定
 
@@ -142,7 +143,7 @@ updated: 2026-07-13
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Evidence-Based Education]] — EBE 是教育实践和政策应依赖研究证据的理念；教育证据清算中心是把这一理念制度化为项目评级、证据标准和传播机制的基础设施([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> - vs [[Evidence-Based Education]] — EBE 是教育[[Praxis|实践]]和政策应依赖研究证据的理念；教育证据清算中心是把这一理念制度化为项目评级、证据标准和传播机制的基础设施([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
 > - vs [[Evidence-Based Reform]] — EBR 强调用有效性证据选择项目和产品；清算中心提供 EBR 所需的"可信证据审查"环节，但不同清算中心对同一项目是否"有证据"常常并不一致([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.16-17]])。
 > - vs [[Systematic Review|系统综述]]/[[Meta-analysis|元分析]] — 系统综述和元分析是研究综合方法；清算中心则是制度化中介机构，会同时制定纳入标准、研究质量标准、效果评级规则和面向公众的传播格式([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.4–5]])。
 > - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地[[Experimental Research|实验研究]]和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 标准导致绝大多数本地工具被排除([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-176]])。
@@ -150,7 +151,7 @@ updated: 2026-07-13
 ## 理论基础
 
 > [!info] 理论基础
-> - [[Campbellian Validity Framework]] — "evidence-based"在清算中心实践中的意义可以被视为一个[[Construct Validity|构念效度]]问题：如果不同清算中心对同一项目的有效性判断不能收敛，就说明 [[Evidence-Based Education|EBE]] 实践中的概念与实施方式差异过大，使用者应谨慎对待评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> - [[Campbellian Validity Framework]] — "evidence-based"在清算中心[[Praxis|实践]]中的意义可以被视为一个[[Construct Validity|构念效度]]问题：如果不同清算中心对同一项目的有效性判断不能收敛，就说明 [[Evidence-Based Education|EBE]] 实践中的概念与实施方式差异过大，使用者应谨慎对待评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
 
 ## 实证发现
 
@@ -165,7 +166,7 @@ updated: 2026-07-13
 ## 争议与批评
 
 > [!warning] "Evidence-based"的[[Construct Validity|构念效度]]不足
-> 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的实践意义。若一个术语具有高构念效度，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践[[Construct|构念]]效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])。
+> 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的[[Praxis|实践]]意义。若一个术语具有高构念效度，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践[[Construct|构念]]效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])。
 
 
 > [!warning] 证据消费者的误导风险
@@ -186,7 +187,7 @@ updated: 2026-07-13
 
 ### 清算中心机构
 
-- [[What Works Clearinghouse]] — 教育领域 public 清算中心，评价项目、政策、实践和研究；在 1,359 个项目样本中贡献 537 个项目，且在教育生态中具有特殊可见度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 16, 28]])。
+- [[What Works Clearinghouse]] — 教育领域 public 清算中心，评价项目、政策、[[Praxis|实践]]和研究；在 1,359 个项目样本中贡献 537 个项目，且在教育生态中具有特殊可见度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 16, 28]])。
 - [[Best Evidence Encyclopedia]] — 教育领域清算中心，目标人群为学生，评级对象为项目，在比较样本中贡献 124 个教育项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 16]])。
 - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 维护的证据资源；欧洲语境中的完整机构功能写在 EEF 条目和 [[Argument_Pellegrini_2021_ROE]]。
 - [[Campbell Collaboration]] — [[Systematic Review|系统综述]]型证据组织，2007 年将国际总部迁至挪威。

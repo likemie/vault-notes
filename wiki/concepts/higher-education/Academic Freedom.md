@@ -6,7 +6,7 @@ aliases:
 summary: "大学教师和学生在追求学术兴趣、分享研究成果方面的高度自主权，使大学在信息和创意上具有渗透性，是产学合作中最根本的文化张力来源"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Research Scope]]"
   - "[[University Spin-Out]]"
+  - "[[Praxis]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Research Security]]"
 related_theories: []
@@ -88,7 +89,7 @@ updated: 2026-06-04
 ### 发表审查与延迟机制
 
 > [!note]-
-> 学术自由并不意味着大学完全不接受任何发表限制。在产学合作协议的实践中，大学通常不会直接授予赞助方控制研究产出的权利，但会提供以下折中安排([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.265–266]])：
+> 学术自由并不意味着大学完全不接受任何发表限制。在产学合作协议的[[Praxis|实践]]中，大学通常不会直接授予赞助方控制研究产出的权利，但会提供以下折中安排([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.265–266]])：
 
 > - **发表前审查权（Review Right）** 赞助方有权在发表前审查研究成果，以确保其中不包含赞助方的保密信息、且知识产权得到充分保护
 > - **发表延迟（Publication Postponement）** 如有必要保护知识产权，赞助方可要求延迟发表——但这并非永久禁止发表，而是为专利申请等程序留出时间

@@ -6,7 +6,7 @@ aliases:
 summary: "位于额叶前部、与计划、抑制、决策和执行功能密切相关的脑区，是理解高阶认知控制和发展晚熟性的关键神经基础。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Executive Function]]"
   - "[[Working Memory]]"
+  - "[[Growth]]"
   - "[[Synaptogenesis]]"
   - "[[Synaptic Pruning]]"
   - "[[Myelination]]"
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 
 PFC 在儿童期到青春期再到成年期的大小、形状和功能持续发展([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.8]])。其两个显著特征：
 
-- **相对生长更大** — 人类 PFC 的相对生长大于其他动物，是人脑的区分性特征([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.7,引用 Brodmann, 1912]])
+- **相对[[Growth|生长]]更大** — 人类 PFC 的相对生长大于其他动物，是人脑的区分性特征([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.7,引用 Brodmann, 1912]])
 - **最后成熟、最先老化** — PFC 是大脑最后成熟的区域之一，约 30 岁达到成熟；同时是最早出现老化迹象的区域之一([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.7]])
 
 PFC 的解剖和生理发育与白质和灰质的变化相关，这些变化源于[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]和[[Myelination|髓鞘化]]过程([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.8]])。

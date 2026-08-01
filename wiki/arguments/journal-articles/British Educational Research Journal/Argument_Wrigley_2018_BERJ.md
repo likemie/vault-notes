@@ -9,9 +9,9 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 42
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 46
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: British Educational Research Journal
 citation: "Wrigley, T. (2018). The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376. DOI: 10.1002/berj.3338"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Value Neutrality]]"
+  - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Bildung]]"
   - "[[Positivism]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[School Leadership]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Growth]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
@@ -62,12 +64,14 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Snowball Sampling]]"
   - "[[Qualitative Observation]]"
+  - "[[Discourse Analysis]]"
   - "[[Action Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Roy Bhaskar]]"
   - "[[Ray Pawson]]"
   - "[[Stephen Ball]]"
+  - "[[Aristotle]]"
   - "[[Gene Glass]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -100,7 +104,7 @@ citation_aliases:
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials\|RCT]]、[[Meta-analysis|元分析]]以及 [[Meta-meta-analysis|元-元分析]]。
-> - **张力** 统计平均值追求的“客观、普适、去情境”的量化规则性，与教育实践作为“开放系统”固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
+> - **张力** 统计平均值追求的“客观、普适、去情境”的量化规则性，与教育[[Praxis|实践]]作为“开放系统”固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
 > - **贡献** 借助 [[Critical Realism|批判实在论]]（Critical Realism）的分层 [[Ontology|本体论]]（Ontology），解构了 EBE 统计聚合的三级失真机制；剖析了“新起点（Fresh Start）”等关键项目，揭示了政治压力下的“糟糕 [[Random Assignment|随机分配]]”幻象；提出了以“实在论综合（Realist Synthesis）”与“方法论多元主义”作为重建教师专业反思能力的替代方案。
 
 ---
@@ -115,7 +119,7 @@ citation_aliases:
 > | **新自由主义审计文化**<br>[[Stephen Ball\|Ball (2013)]]<br>Power (1997) | 剖析“审计社会”与“以数字治理”机制。揭示 EBE 如何将复杂的教育 [[Bildung\|陶冶（Bildung）]]转化为可测量、可审计的效率指标，服务于政府对“人力资源交付”的技术化控制。 |
 
 > [!warrant]- 理论如何支撑论证
-> 批判实在论和实在论评估理论为解构 [[Evidence-Based Education\|EBE]] 提供了强大的 [[Epistemology|认识论]]武器。通过这套理论，作者能指出教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应（例如亚里士多德（Aristotle）所说的“目的因”）。这打破了 [[Randomised Controlled Trials\|RCT]] 将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
+> 批判实在论和实在论评估理论为解构 [[Evidence-Based Education\|EBE]] 提供了强大的 [[Epistemology|认识论]]武器。通过这套理论，作者能指出教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应（例如[[Aristotle|亚里士多德]]（Aristotle）所说的“目的因”）。这打破了 [[Randomised Controlled Trials\|RCT]] 将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
 
 ---
 
@@ -185,14 +189,14 @@ citation_aliases:
 > > | **对照组条件** | 对照组作为基准线 | 未说明对照组是否接受培训、上课人数等具体情境 |
 
 > [!warrant]- 推理桥梁：开放系统与休谟因果观的局限
-> 统计方法默认了休谟式的因果观，即 [[Causality|因果关系]]等于观察到的恒常规则性（即 X 发生则 Y 发生）。然而批判实在论指出，社会场景是高度复杂的开放系统，同样的因果机制（如某种教学法）在不同的背景（学校文化、[[Student-Teacher Relationship|师生关系]]、学生的个人背景与成长经历）下会产生完全不同的结果。这解释了为什么不能简单地把特定试验的“效应量”直接推广为放之四海而皆准的“黄金标准”。
+> 统计方法默认了休谟式的因果观，即 [[Causality|因果关系]]等于观察到的恒常规则性（即 X 发生则 Y 发生）。然而批判实在论指出，社会场景是高度复杂的开放系统，同样的因果机制（如某种教学法）在不同的背景（学校文化、[[Student-Teacher Relationship|师生关系]]、学生的个人背景与[[Growth|成长]]经历）下会产生完全不同的结果。这解释了为什么不能简单地把特定试验的“效应量”直接推广为放之四海而皆准的“黄金标准”。
 
 ---
 
 ### 论证步骤二：元分析与第二级（Level 2）异质性混淆
 
 > [!claim] [[Meta-analysis|元分析]]通过技术标准强行聚合异质研究，造成“苹果与橘子”的混淆
-> 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选[[Document|文献]]。这种去情境化的数据叠加，将本质不同的教学实践混为一谈，计算出的平均效应量毫无意义，这构成了[[Critique of Meta-analysis|元分析批判]]的关键论点。
+> 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选[[Document|文献]]。这种去情境化的数据叠加，将本质不同的教学[[Praxis|实践]]混为一谈，计算出的平均效应量毫无意义，这构成了[[Critique of Meta-analysis|元分析批判]]的关键论点。
 
 > [!critique-method] 统计炼金术与 [[Heterogeneity|异质性]]抹除
 > 1. **苹果与橘子的炼金术**Feinstein (1995) 曾痛陈元分析是“21世纪的统计炼金术”，它将患者病情严重程度等关键 [[Variable|变量]]剥离，把截然相反的实证结果强行合流，“将重要的不一致性埋入统计泥浆中” (p. 9)。
@@ -256,10 +260,10 @@ citation_aliases:
 > [!pathways] 走向“实在论综合”与多元改进路径
 > - **实在论综合（Realist Synthesis）**Pawson (2006) 提倡的替代路径不寻求单一均值，而是深入理解每次干预的“受试者（subjects）”特征、原始研究者的因果理论、测量充分性以及过程中的结构性障碍，探求因果机制如何在不同背景下产生不同的结果 (p. 14)。
 > - **[[Snowball Sampling|网络化]]改进共同体（Networked Improvement Communities, NICs）** Lingenfelter (2016) 介绍的 Bryk et al. (2015) 的实践，强调研究者与教师组成共同体，在复杂的具体学校情境中协同开发和改进结构，而非机械套用“证据包”。
-> - **方法论多元光谱** 因果机制的探索需要引入 [[Qualitative Observation|质性观察]]、历史研究、话语分析、立法质询、[[Action Research|行动研究]]与解放性研究 (p. 16)。
+> - **方法论多元光谱** 因果机制的探索需要引入 [[Qualitative Observation|质性观察]]、历史研究、[[Discourse Analysis|话语分析]]、立法质询、[[Action Research|行动研究]]与解放性研究 (p. 16)。
 
 > [!theory-components] 批判实在论的分层 [[Ontology|本体论]]与因果涌现性
-> 批判实在论认为世界是分层的，不同层级（Strata，如国家政策、学校制度、课堂互动、个体信念）的要素相互作用，其产生的整体力量是非线性的涌现（Emergence）过程——即“整体大于部分之和” (p. 15)。承认人类的意图、信念和反思（即亚里士多德所说的“目的因”）是因果关系的关键部分，这为教育的解放性与民主协商提供了哲学基石，彻底超越了 EBE 那种将干预视为如同“注射”的被动银行模型。
+> 批判实在论认为世界是分层的，不同层级（Strata，如国家政策、学校制度、课堂互动、个体信念）的要素相互作用，其产生的整体力量是非线性的涌现（Emergence）过程——即“整体大于部分之和” (p. 15)。承认人类的意图、信念和反思（即[[Aristotle|亚里士多德]]所说的“目的因”）是因果关系的关键部分，这为教育的解放性与民主协商提供了哲学基石，彻底超越了 EBE 那种将干预视为如同“注射”的被动银行模型。
 
 ---
 

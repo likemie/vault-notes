@@ -8,10 +8,10 @@ summary: "马提尼克裔法国精神病学家和去殖民思想家，黑皮肤�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 9
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
 - region/france
 - region/africa
@@ -19,6 +19,8 @@ tags:
 - postcolonial-studies
 - psychiatry
 related_concepts:
+  - "[[Praxis]]"
+  - "[[Cultural Hierarchy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Forced Knowledge Transfer]]"
@@ -43,7 +45,7 @@ updated: '2026-06-08'
 > [!info]
 > Frantz Fanon（1925–1961），出生于法属马提尼克（Martinique）的精神病学家、哲学家和革命理论家，去殖民化运动的核心思想人物。他在短暂的一生中完成了从殖民地知识分子到阿尔及利亚革命者的转变，其著作深刻影响了全球去殖民化运动、后殖民研究和批判种族理论。
 
-Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动（Aimé Césaire、Léopold Senghor）和存在主义[[Phenomenology|现象学]]（Merleau-Ponty、Sartre）的双重影响。1953 年出任阿尔及利亚 Blida-Joinville 精神病院院长，在临床实践中亲眼见证了殖民暴力对阿尔及利亚人心理的系统性摧毁。1956 年辞去公职加入阿尔及利亚民族解放阵线（FLN），成为革命政府的外交发言人，直至 1961 年因白血病在美国去世，年仅 36 岁。
+Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动（Aimé Césaire、Léopold Senghor）和存在主义[[Phenomenology|现象学]]（Merleau-Ponty、Sartre）的双重影响。1953 年出任阿尔及利亚 Blida-Joinville 精神病院院长，在临床[[Praxis|实践]]中亲眼见证了殖民暴力对阿尔及利亚人心理的系统性摧毁。1956 年辞去公职加入阿尔及利亚民族解放阵线（FLN），成为革命政府的外交发言人，直至 1961 年因白血病在美国去世，年仅 36 岁。
 
 ---
 
@@ -59,7 +61,7 @@ Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动�
 ## 核心思想
 
 > [!tip]-
-> - **殖民暴力制造殖民地主体** Fanon 论证，殖民者发起的暴力不仅采取物理形式，更以文化歧视和非人化运作。正是在这种暴力中并通过这种暴力，一种特定新型知识——语言与种族的文化等级结构——制造出一种新人类：**殖民地主体（colonial subject）**。例如，法属殖民地学校强制使用法语教学，将本地语言贬低为方言，学生因讲母语而受罚——语言等级制是知识等级制的物质形式（Fanon, 1952/1986）。
+> - **殖民暴力制造殖民地主体** Fanon 论证，殖民者发起的暴力不仅采取物理形式，更以文化歧视和非人化运作。正是在这种暴力中并通过这种暴力，一种特定新型知识——语言与种族的[[Cultural Hierarchy|文化等级]]结构——制造出一种新人类：**殖民地主体（colonial subject）**。例如，法属殖民地学校强制使用法语教学，将本地语言贬低为方言，学生因讲母语而受罚——语言等级制是知识等级制的物质形式（Fanon, 1952/1986）。
 > - **反暴力作为集体 catharsis** Fanon 以其精神病学专业背景论证，殖民者的暴力以被殖民者的羞耻、自卑和服从内化，反暴力将这种内在的压迫外向化——以集体 catharsis 的方式将被殖民者从自我异化中解放出来。去殖民化因此不仅是政治变革，更是对被殖民者的疗愈过程（Fanon, 1963）。
 > - **真正的去异化 (Authentic Disalienation)** 不同于黑格尔的主奴辩证法和马克思的劳动异化，Fanon 关注的是种族化和殖民条件下的存在性异化——被殖民者不仅被剥夺了劳动产品，更被剥夺了成为人的可能性。**真正的去异化**要求通过语言中介和集体行动恢复被殖民者的身份、心理和文化（Fanon, 1952/1986）。
 

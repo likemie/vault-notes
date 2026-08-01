@@ -13,6 +13,7 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Questionnaire]]"
   - "[[Sponsored Research Agreement]]"
@@ -43,9 +44,9 @@ title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
@@ -72,7 +73,7 @@ citation_aliases:
 > - **安全（Security）** 数据在存储、传输和共享过程中需要什么级别的保护
 > - **价值（Value）** 数据的商业价值和竞争优势如何评估；开放科学与专有保护之间如何平衡
 
-> 同时援引 [[University Industry Demonstration Partnership|UIDP]] Contract Accord 14(2020)的 13 条数据条款特征作为协议起草的实践框架。
+> 同时援引 [[University Industry Demonstration Partnership|UIDP]] Contract Accord 14(2020)的 13 条数据条款特征作为协议起草的[[Praxis|实践]]框架。
 
 ---
 
@@ -91,7 +92,7 @@ citation_aliases:
 
 联邦法规的定义因机构使命而异。美国国立卫生研究院（National Institutes of Health, NIH）定义数据为"记录信息，无论形式或媒介"，并列出大量数据登记库。国防部则专门定义"技术数据"为"科学或技术性质的记录信息"，其中软件文档属于技术数据但软件本身不属于。教育部定义"教育记录"须同时满足两个条件：与学生直接相关，以及由教育机构或其代理方维护。教育记录的定义和监管由《家庭教育权利和隐私法案》（Family Educational Rights and Privacy Act, FERPA）专门规定(pp.290–291)。
 
-在[[University-Industry Collaboration|产学合作]]的实践中，[[University Industry Demonstration Partnership|UIDP]] Contract Accord 14(2020)提供了更适用的定义："数据指由一方在定义条件下提供给另一方使用的一组记录信息"(p.290)。
+在[[University-Industry Collaboration|产学合作]]的[[Praxis|实践]]中，[[University Industry Demonstration Partnership|UIDP]] Contract Accord 14(2020)提供了更适用的定义："数据指由一方在定义条件下提供给另一方使用的一组记录信息"(p.290)。
 
 > [!warning]
 > 定义的碎片化制造了一个结构性问题：在同一份产学协议中，不同来源的数据可能受不同的法律框架约束。一个融合多种数据源的研究项目——其数据库可能同时包含受《健康保险可携性和责任法案》（Health Insurance Portability and Accountability Act, HIPAA）保护的健康信息、受 FERPA 保护的学生记录、以及受《通用数据保护条例》（General Data Protection Regulation, GDPR）保护的欧盟数据——如果协议未能精确界定每种数据的定义和各自适用的规则，不同法律框架之间的缝隙就可能成为合规漏洞。

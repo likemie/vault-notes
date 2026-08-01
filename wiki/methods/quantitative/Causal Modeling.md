@@ -8,7 +8,7 @@ summary: "通过结构方程等统计模型表示变量之间因果路径并同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Exogenous and Endogenous Variables]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Praxis]]"
   - "[[Recommendations for Practice]]"
   - "[[Research Question]]"
   - "[[Screening Off]]"
@@ -127,7 +128,7 @@ updated: 2026-06-18
 > - 2005 — David Freedman 出版 *Statistical Models: Theory and Practice*，基于二十年的批判性关切提供了对因果建模"可能最彻底的处理"
 > 3. **当代定位（2011–至今）**
 >    - 2011 — Berk 系统回顾因果建模的局限，推荐匹配作为替代策略；Cohen, Manion & Morrison 指出 SEM、[[Multiple Regression|多元回归]]和多变量分析"不可能强大过支撑它们的因果[[Hypothesis|假设]]"，在追求简洁清晰模型的过程中"严重简化"了情境中原因的数量或范围（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 71]]）
->    - 2023 — [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 从教育心理学期刊实践层面补充批评：依赖建模的分析更可能包含因果化语言，2010 年后建模类型和用途急剧增加
+>    - 2023 — [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 从教育心理学期刊[[Praxis|实践]]层面补充批评：依赖建模的分析更可能包含因果化语言，2010 年后建模类型和用途急剧增加
 
 ---
 
@@ -136,7 +137,7 @@ updated: 2026-06-18
 ### 模型选择与假设依赖
 
 > [!method-limits] 模型选择的根本性局限
-> [[Argument_Berk_2011_ER|Berk (2011, p.197)]] 识别的最核心问题：因果建模的常见实践涉及在多个模型中选择"最佳"模型，但这使得基于同一数据集的统计推断变得无效（Leeb & Pötscher, 2005, 2006; Berk, Brown, & Zhao, 2010）。
+> [[Argument_Berk_2011_ER|Berk (2011, p.197)]] 识别的最核心问题：因果建模的常见[[Praxis|实践]]涉及在多个模型中选择"最佳"模型，但这使得基于同一数据集的统计推断变得无效（Leeb & Pötscher, 2005, 2006; Berk, Brown, & Zhao, 2010）。
 
 > [!critique-logic] [[Hypothesis|假设]]先于统计——模型无法超越其前提
 > 因果建模的力量不可能强大过支撑它的因果假设。统计——即使是 SEM、[[Multiple Regression|多元回归]]和多[[Variable|变量]]分析——"可能只是强化已有假设和模型而非识别实际[[Causality|因果性]]"。在追求简洁清晰模型的过程中，它们经常"严重简化了情境中原因的数量或范围"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 71]]）。

@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Evidence-Based Education]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
@@ -102,6 +103,6 @@ updated: '2026-05-18'
 
 > [!example] 相关概念／政策
 > - [[Programme Fidelity vs Adaptation]] — 此案例是 fidelity vs adaptation 辩论的核心经验证据
-> - [[Evidence-Based Education]] — 揭示了 EBE"证据推广"模型在实践中的核心挑战
+> - [[Evidence-Based Education]] — 揭示了 EBE"证据推广"模型在[[Praxis|实践]]中的核心挑战
 > - [[Tennessee STAR Project 1985-1989]] — 加州试图复制但系统性失败的原始 [[Randomised Controlled Trials|RCT]]
 

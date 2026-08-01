@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
   - "theme/university-industry-collaboration"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
   - "[[Conflict of Interest in Research]]"
@@ -80,7 +81,7 @@ Bayh-Dole Act（正式名称为 Patent and Trademark Law Amendments Act）于 19
 ## 对产学合作的影响
 
 > [!note]-
-Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识产权管理创造了制度基础。在产学合作的实践中（p.14）：
+Bayh-Dole Act 为[[University-Industry Collaboration|产学合作]]中的知识产权管理创造了制度基础。在产学合作的[[Praxis|实践]]中（p.14）：
 
 1. 企业与大学的合同与拨款办公室协商赞助研究所产生的知识产权权利
 2. 企业与大学的[[Technology Transfer|技术转移]]办公室（[[Technology Transfer Office]]）协商知识产权许可

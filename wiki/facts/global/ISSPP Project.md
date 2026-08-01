@@ -8,9 +8,9 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
 - school-leadership
@@ -18,6 +18,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Transformative Leadership]]"
 related_theories: []
@@ -57,7 +58,7 @@ updated: '2026-05-18'
 >
 > ### 主要发现
 >
-> 项目识别出一组跨情境的**基本领导实践([[Argument_Møller_2017_EERJ|Møller, 2017, p.380]])** 设定方向、发展人员、改进组织、建立信任、构建安全的学习环境。
+> 项目识别出一组跨情境的**基本领导[[Praxis|实践]]([[Argument_Møller_2017_EERJ|Møller, 2017, p.380]])** 设定方向、发展人员、改进组织、建立信任、构建安全的学习环境。
 >
 > 校长自我报告叙事中的共同主题：
 > - 伦理关怀和强烈的道德使命感
@@ -84,7 +85,7 @@ updated: '2026-05-18'
 > - **将领导力等同于校长** 尽管项目声称分布式领导力更具影响力，但在一定程度上仍将[[School Leadership|学校领导力]]等同于校长个人
 > - **过度关注个人能力** 遮蔽了校长工作嵌入更广泛社会权力结构的现实
 > - **缺少社会视角** 主要以组织内部领导力为焦点，对权力结构的批判性分析缺失；对绩效问责体制的批评更多是隐含的而非明确的
-> - **对关键术语的定义模糊** "伦理关怀"、"社会正义"、基本领导实践等概念难以精确界定，在不同语境中含义各异
+> - **对关键术语的定义模糊** "伦理关怀"、"社会正义"、基本领导[[Praxis|实践]]等概念难以精确界定，在不同语境中含义各异
 
 ## 相关概念／理论
 

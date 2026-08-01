@@ -9,7 +9,7 @@ aliases:
 summary: "Geertz (1973) 提出的质性研究质量标准，要求不仅提供详细的观察数据，还须包含意义、参与者诠释和不可观察因素的数据，使读者能够充分理解情境并对研究发现做出知情判断。"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,11 +20,13 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Interpretive Paradigm]]"
   - "[[Reliability]]"
   - "[[Qualitative Validity]]"
   - "[[Emic and Etic]]"
   - "[[Naturalistic Generalization]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -64,7 +66,7 @@ updated: 2026-07-23
 
 ## 在质性研究中的位置
 
-厚描述是质性/自然主义[[Paradigm|研究范式]]的**核心公理之一（Boas, 1943; Blumer, 1969; Lincoln & Guba, 1985; Woods, 1992; LeCompte & Preissle, 1993）**。在该范式的六项公理中，厚描述承担着将[[Epistemology|认识论]]承诺转化为操作实践的关键功能：
+厚描述是质性/自然主义[[Paradigm|研究范式]]的**核心公理之一（Boas, 1943; Blumer, 1969; Lincoln & Guba, 1985; Woods, 1992; LeCompte & Preissle, 1993）**。在该范式的六项公理中，厚描述承担着将[[Epistemology|认识论]]承诺转化为操作[[Praxis|实践]]的关键功能：
 
 > [!entry-map]
 >
@@ -104,7 +106,7 @@ updated: 2026-07-23
 
 ## 操作层面
 
-Lincoln & Guba（1985: 365–366）在[[Case Study|案例研究]]撰写指南中明确了厚描述的实践原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 443–444)]]）：
+Lincoln & Guba（1985: 365–366）在[[Case Study|案例研究]]撰写指南中明确了厚描述的[[Praxis|实践]]原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 443–444)]]）：
 
 > [!proc] 厚描述的撰写原则
 > 1. **追求非正式风格** 写作应追求非正式风格以捕捉非正式性——厚描述不是冷冰冰的技术报告。
@@ -122,7 +124,7 @@ Lincoln & Guba（1985: 365–366）在[[Case Study|案例研究]]撰写指南中
 Carspecken（1996: 47）提出了厚描述的构成要素（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.6 节]]）：
 
 > [!feature] Carspecken（1996: 47）的厚描述构成要素
-> - **言语行为（Speech acts）** 记录参与者说了什么、如何说以及对话的互动结构
+> - **言语行为（Speech acts）** 记录参与者说了什么、如何说以及[[Dialogue in Education|对话]]的互动结构
 > - **非语言沟通（Non-verbal communication）** 记录姿势、表情、身体距离和空间使用
 > - **低推断词汇描述（Descriptions in low-inference vocabulary）** 尽量用接近事实本身的词汇描述，避免过早加入研究者的解释和判断
 > - **时间和时间安排的记录** 仔细和频繁地记录事件发生的时间和时机

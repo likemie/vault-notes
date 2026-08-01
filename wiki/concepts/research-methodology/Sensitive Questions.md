@@ -24,7 +24,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Reliability]]"
   - "[[Leading Questions]]"
-  - "[[Questionnaire Wording]]"
+  - "[[Dialogue in Education]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 confidence: medium
@@ -68,7 +68,7 @@ updated: 2026-07-21
 
 Sudman & Bradburn（1982, Ch. 3, pp. 55–56）系统地提出了处理敏感或威胁性问题的十一项策略，可按四个维度组织（pp. 153–156）：
 
-> [!dimension] [[Questionnaire Wording|问题措辞]]与设计
+> [!dimension] 问题措辞与设计
 > - **使用开放而非封闭式问题**
 >
 >   开放题更适于获取社会不期望行为的信息，特别是频率数据。
@@ -108,7 +108,7 @@ Sudman & Bradburn（1982, Ch. 3, pp. 55–56）系统地提出了处理敏感或
 >   日记可以提供比一次性回顾更准确的行为频率数据，提高效度和信度。
 
 > [!dimension] 效度保障
-> - **访谈结束时询问受访者对话题敏感性的看法**
+> - **访谈结束时询问受访者[[Dialogue in Education|对话]]题敏感性的看法**
 >
 >   在数据收集完成后，请受访者评价他们认为哪些问题敏感、哪些感到不适，为偏差评估提供参考。
 >

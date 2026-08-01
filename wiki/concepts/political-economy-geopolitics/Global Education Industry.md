@@ -6,7 +6,7 @@ aliases:
 summary: "教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ tags:
   - region/global
   - level/higher-ed
 related_concepts:
+  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Knowledge-Based Economization]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Corporate University]]"
   - "[[Bildung]]"
+  - "[[Dialogue in Education]]"
   - "[[Ontology]]"
   - "[[Epochal Key Problems]]"
   - "[[Geopolitics of Higher Education]]"
@@ -69,7 +71,7 @@ updated: '2026-06-22'
 ## 定义
 
 > [!def] 核心定义
-> **全球教育产业（Global Education Industry, GEI）**是指教育实践、供给、研究和政策日益被经济理性形塑的跨国[[Champ|场域]]，涵盖经济化（economization）、市场化（marketization）、私有化（privatization）、商品化（commodification）和金融化（financialization）等多重过程，将教育重构为一个日益全球化并由私营组织管理的部门（Verger et al., 2016, p. 3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 42]]）。在新自由主义全球治理下，它还通过可测量性（measurability）和绩效问责制（accountability）将教育实践及课程政策引向全球经济竞争轨道，侵蚀传统的教育公共属性与整体性价值（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
+> **全球教育产业（Global Education Industry, GEI）**是指教育[[Praxis|实践]]、供给、研究和政策日益被经济理性形塑的跨国[[Champ|场域]]，涵盖经济化（economization）、市场化（marketization）、私有化（privatization）、商品化（commodification）和金融化（financialization）等多重过程，将教育重构为一个日益全球化并由私营组织管理的部门（Verger et al., 2016, p. 3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p. 42]]）。在新自由主义全球治理下，它还通过可测量性（measurability）和绩效问责制（accountability）将教育实践及课程政策引向全球经济竞争轨道，侵蚀传统的教育公共属性与整体性价值（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念不仅指向营利性教育产品和服务的跨国生产与消费，也指向一套关于教育效能与创新的新自由主义话语系统和软治理技术。
@@ -103,7 +105,7 @@ updated: '2026-06-22'
 > - **教育想象的话语生产** 不限于物质的商业交易，而是通过关于“技能缺口”、“个性化学习”与“教育创新”的话语，生产一套替代性或颠覆性的教育想象，侵蚀公立教育的合法性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp. 42–43]]）。
 > - **全球渗透性与软治理** 通过以经济为基础的概念（如效率、竞争），以及国际组织（如 [[OECD]]、欧盟）的标准化测量与基准比较（Benchmarking），全球渗透至各国的教育改革议程中（；[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 8–9]]）。
 > - **[[Corporate Education\|企业教育]]与技能采购市场** 企业培训是 GEI 极其庞大的板块。欧盟三分之一至三分之二的企业培训已外包给第三方提供商。该市场由在线学习平台、管理咨询公司和 IT 巨头垄断，并通过证书认证体系确立了事实上的准入标准（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp. 190–193]]）。
-> - **技能原子化与测量驱动** 强调将复杂的、整体性的教育实践（如跨学科学习）拆解为细小的、可标准化的、具有明确经济实用价值的技能单元（如 [[21st Century Skills and Competencies Discourse|21世纪技能]] 或横向能力），使之适合进行[[External Auditor|外部审计]]、比较和市场化交易（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
+> - **技能原子化与测量驱动** 强调将复杂的、整体性的教育[[Praxis|实践]]（如跨学科学习）拆解为细小的、可标准化的、具有明确经济实用价值的技能单元（如 [[21st Century Skills and Competencies Discourse|21世纪技能]] 或横向能力），使之适合进行[[External Auditor|外部审计]]、比较和市场化交易（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -197,7 +199,7 @@ updated: '2026-06-22'
 ## 争议与批评
 
 > [!tension] 核心张力：整体性教育 vs 技能原子化与绩效问责
-> - **整体性与存在性学习 (蓝方)** 源自[[Phenomenology|现象学]]与德语区[[Bildung|教化]]/教学论传统，主张学习是具身、情绪和实验性的，是人与生活世界进行存在性对话的整体旅程。教学应尊重学科知识的[[Ontology|本体论]]深度，并围绕“[[Epochal Key Problems|时代关键问题]]”（如生态危机、不平等）开展批判性、非目的性的主体间探究（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4–7]]）。
+> - **整体性与存在性学习 (蓝方)** 源自[[Phenomenology|现象学]]与德语区[[Bildung|教化]]/教学论传统，主张学习是具身、情绪和实验性的，是人与生活世界进行存在性[[Dialogue in Education|对话]]的整体旅程。教学应尊重学科知识的[[Ontology|本体论]]深度，并围绕“[[Epochal Key Problems|时代关键问题]]”（如生态危机、不平等）开展批判性、非目的性的主体间探究（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 4–7]]）。
 > - **技能原子化与绩效问责 (红方)** 源自全球绩效评估与新自由主义问责压力，主张将探究性学习和跨学科知识拆解为细小的、标准化的、利于外部测量的技能清单（如 transversal competencies 或 [[21st Century Skills and Competencies Discourse|21st century skills]]）。通过数据核验和横向评估证明劳动力市场的效用，排除了学习的开放未来与深层学科批判（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 > [!critique] 外部批评
@@ -223,4 +225,4 @@ updated: '2026-06-22'
 - [[Minerva University]] — 融合了风险资本、专有技术和全球流动的典型 GEI 高等教育颠覆案例（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp. 45–48]]）。
 - [[International Education Hubs]] — 国家或地区层面以经济竞争力驱动的跨国教育战略布局，高度依赖 GEI 提供的政策语境与市场机制。
 - [[Finnish National Core Curriculum]] — 芬兰 2014 年版基础教育国家核心课程。该课程积极响应国际技能话语，包含了对于跨学科现象的指标化要求（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8–9]]）。
-- [[SveaSus Project]] — 赫尔辛基大学的可持续世界遗产学习项目。该项目代表了旨在通过具身、艺术与主体间性对话，抵制技能原子化的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）实践探索（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。
+- [[SveaSus Project]] — 赫尔辛基大学的可持续世界遗产学习项目。该项目代表了旨在通过具身、艺术与主体间性[[Dialogue in Education|对话]]，抵制技能原子化的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）[[Praxis|实践]]探索（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。

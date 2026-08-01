@@ -6,7 +6,7 @@ aliases:
 summary: "20 世纪后半叶兴起的全球教育改革理念，主张学习贯穿人的一生，与知识经济话语共同构成各国课程改革的合法化框架"
 type: concept
 domain: "educational-philosophy"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Externalization]]"
   - "[[Policy Borrowing]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -72,7 +73,7 @@ updated: '2026-06-07'
 ## 争议与批评
 
 > [!warning] 批评意见
-> - **工具化倾向** 终身学习在政策实践中常被简化为服务经济竞争力的工具，忽视了学习的个人发展和社会参与维度（Elfert, 2015, 引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]]）
+> - **工具化倾向** 终身学习在政策[[Praxis|实践]]中常被简化为服务经济竞争力的工具，忽视了学习的个人发展和社会参与维度（Elfert, 2015, 引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 487]]）
 > - **修辞与实践的落差** 许多国家在政策文本中强调终身学习，但实际教育资源和制度安排并未真正支持贯穿一生的学习
 > - **新自由主义批评** 批判学者认为终身学习话语将学习责任从国家转移到个人，掩盖了结构性不平等
 

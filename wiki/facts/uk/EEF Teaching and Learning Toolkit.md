@@ -8,7 +8,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
@@ -90,7 +91,7 @@ updated: '2026-06-08'
 ## 设计逻辑
 
 > [!abstract] [[Umbrella Review|伞状综述]]定位
-> Toolkit 的摘要被概念化为一系列整合的[[Umbrella Review|伞状综述]]，以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
+> Toolkit 的摘要被概念化为一系列整合的[[Umbrella Review|伞状综述]]，以共同方法论提供跨不同教育政策、[[Praxis|实践]]和研究领域的严谨而可及的总结([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 
 > [!note]- 设计灵感来源
 > Toolkit 的设计融合了多位研究者的方法论贡献([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])：
@@ -138,7 +139,7 @@ updated: '2026-06-08'
 
 ## 使用模式
 
-[[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]]通过对 22 位英国教师的[[In-depth Interview|深度访谈]]，揭示了 Toolkit 在实践中的五种使用模式。前三种体现了 Toolkit 对教师决策的积极作用，后两种暴露了信息传播中的问题。
+[[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]]通过对 22 位英国教师的[[In-depth Interview|深度访谈]]，揭示了 Toolkit 在[[Praxis|实践]]中的五种使用模式。前三种体现了 Toolkit 对教师决策的积极作用，后两种暴露了信息传播中的问题。
 
 > [!example] 决策支持工具
 > 教师普遍认为 Toolkit 需要情境化解读才能应用。一位资深教师说，"把它当作提问的方式，而非指导。任何诊断工具给你了，你都需要用它来预测问题，思考能否跨学校应用"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.24]])。
@@ -161,7 +162,7 @@ updated: '2026-06-08'
 
 ### 实践价值
 
-> [!success] 实践价值
+> [!success] [[Praxis|实践]]价值
 > - Toolkit 在排除缺乏证据支持的热门干预措施方面特别有效，如学习风格被排除([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40]])
 > - 呈现方式有吸引力且色彩丰富([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.19]])
 > - 对教师理解哪些干预主动有害（如[[Tracking|能力分组]]）提供了有力参考([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.23]])

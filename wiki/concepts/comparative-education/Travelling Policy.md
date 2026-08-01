@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Global Policy Space]]"
   - "[[Recontextualization]]"
+  - "[[Praxis]]"
   - "[[Policy Entrepreneur]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Rationalism in International Relations]]"
@@ -85,7 +86,7 @@ updated: 2026-07-11
 ## 核心要素
 
 > [!feature] 核心要素
-> - **去脉络化与[[Recontextualization|再脉络化]]（Decontextualization & Recontextualization）** 政策模型从其源起国的制度性“土壤”剥离，被提炼为可复制的“最佳实践”话语（去脉络），进入他国后又被注入当地的社会政治博弈中重新阐释（再脉络）。(引自 [[Argument_Beech_2009_CE|Beech, 2009]])
+> - **去脉络化与[[Recontextualization|再脉络化]]（Decontextualization & Recontextualization）** 政策模型从其源起国的制度性“土壤”剥离，被提炼为可复制的“最佳[[Praxis|实践]]”话语（去脉络），进入他国后又被注入当地的社会政治博弈中重新阐释（再脉络）。(引自 [[Argument_Beech_2009_CE|Beech, 2009]])
 > - **[[Policy Entrepreneur|政策企业家]]与超国家网络的代理机制（Policy Entrepreneurs & Transnational Networks）** 政策不再单纯由国家官僚运作，而是由多边机构、NGO、政策企业家和跨国咨询公司等行动者组成的网络节点共同推销与扩散。
 > - **协调与标准化的结构性对齐（Harmonisation & Standardisation）** 在全球或区域空间（如欧洲高等教育区）通过柔性[[Disciplina and Doctrina|规训]]（OMC），迫使主权国家自愿使其国内指标与流动的全球标准对齐。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
@@ -106,7 +107,7 @@ updated: 2026-07-11
 ### 命题一　旅途政策并非简单的制度复制，而是本土政治力量借用全球话语进行“二次创作”的转译过程
 
 > [!concept-lens] 政策[[Transfer Translation Transformation|转译]]与本土博弈
-> 这一命题分析为何同一政策模型在不同国家呈现出完全相异的实践面貌。
+> 这一命题分析为何同一政策模型在不同国家呈现出完全相异的[[Praxis|实践]]面貌。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] et al.
 > **外生政策的本土政治工具化** 阐明，在全球流动中旅行的教育政策，被接收国吸收的动力往往不是出于技术优化，而是本土政治行动者将其用作“外在合法化”（externalisation）的借口，以压制国内反对意见或换取外部资金援助（如世界银行贷款）。政策一旦落地，便会经历深度的本地化“ Indigenisation ”，与其宣称的全球统一效果产生严重的“实施偏差”（implementation gaps），呈现出混杂（hybridity）的非预期形态。([[Argument_Beech_2009_CE|Beech, 2009]])

@@ -9,10 +9,10 @@ aliases:
 summary: "大学研究成果通过知识产权许可、初创企业或企业合作转化为商业应用的过程，以 Bayh-Dole Act 为核心法律框架，涉及 IP 合同机制、权利转让谱系和商业化路径选择等制度安排"
 type: concept
 domain: "higher-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - "theme/technology-transfer"
   - "level/higher-education"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
   - "[[Knowledge Exchange]]"
+  - "[[Praxis]]"
   - "[[Theoretical Perspective]]"
   - "[[Knowledge Transfer]]"
   - "[[Foreground IP]]"
@@ -125,7 +126,7 @@ updated: 2026-06-05
 ### 广义化：从技术转移到知识交流
 
 > [!abstract]
-> 研究实践的发展使人们认识到，技术转移只是大学与产业之间知识流动的一个子集。并非所有有价值的知识都具备可专利性，也并非所有产学互动都需要知识产权框架。[[Knowledge Exchange|知识交流]]（Knowledge Exchange）这一更广义的概念由此兴起。它涵盖合同研究、咨询、人员交流、联合发表、设施共享、培训和网络活动等远比技术许可和衍生企业更广泛的互动形式([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.44–46]])。
+> 研究[[Praxis|实践]]的发展使人们认识到，技术转移只是大学与产业之间知识流动的一个子集。并非所有有价值的知识都具备可专利性，也并非所有产学互动都需要知识产权框架。[[Knowledge Exchange|知识交流]]（Knowledge Exchange）这一更广义的概念由此兴起。它涵盖合同研究、咨询、人员交流、联合发表、设施共享、培训和网络活动等远比技术许可和衍生企业更广泛的互动形式([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.44–46]])。
 
 关系型互动（relational）已取代交易型互动（transactional）成为产学互动的主导形态，反映了隐性知识（tacit knowledge）在思想和技术转移中的关键作用（Schartinger et al., 2002）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。此外，人员交流（people exchange）的重要性在近三十年显著上升：1994 年的调查中仅 5.8% 的美国企业研发经理认为人员交流是重要的产学互动途径（Cohen et al., 2002），但今天这已成为加强产学合作的核心议题（NCUB, 2023）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.45–46]])。
 
@@ -245,7 +246,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 ## 相关文献
 
 > [!note]-
-> 多部著作系统探讨了技术转移的制度和实践问题（p.14）：
+> 多部著作系统探讨了技术转移的制度和[[Praxis|实践]]问题（p.14）：
 > - Allen 与 O'Shea（2014）Building Technology Transfer Within Research Universities — 从创业视角探讨大学内部的技术转移机制建设
 > - Cunningham et al.（2020）Building Effective Technology Transfer Offices — 以商业模式框架分析[[Technology Transfer Office|技术转移办公室]]的运作
 > - Hockaday（2020）University Technology Transfer, What it is and How to Do It — 面向实践者的操作指南

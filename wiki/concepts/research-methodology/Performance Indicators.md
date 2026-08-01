@@ -8,7 +8,7 @@ aliases:
 summary: "经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
 - region/global
 - comparative-education
 related_concepts:
+  - "[[Praxis]]"
   - "[[Regulatory Regionalism]]"
   - "[[International Education]]"
   - "[[Selectivity]]"
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 > [!info]
 > 绩效指标（Performance Indicators），亦称教育指标（Education Indicators），是经过目的性选择和加工的派生统计量，专门设计用于告知决策者教育系统的状况、预见政策问题并提供政策决策所需信息(Blank, 1993; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])。
 >
-> 从政策工具社会学的视角，Le Galès（2016）进一步将绩效指标定义为同时包含**技术成分（techniques）**和**权力成分（power）**的复合体：技术成分具有自身的内在理性，但在实践中通过权力不平等的行动者之间的社会关系被实施。绩效指标直接依托科学和技术合法性运作，推动政策行动者走向竞争关系，构成排名体系，标示决策者应采取哪些实践来改善其相对其他制度或地理单元的位置(Le Galès, 2016; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
+> 从政策工具社会学的视角，Le Galès（2016）进一步将绩效指标定义为同时包含**技术成分（techniques）**和**权力成分（power）**的复合体：技术成分具有自身的内在理性，但在[[Praxis|实践]]中通过权力不平等的行动者之间的社会关系被实施。绩效指标直接依托科学和技术合法性运作，推动政策行动者走向竞争关系，构成排名体系，标示决策者应采取哪些实践来改善其相对其他制度或地理单元的位置(Le Galès, 2016; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
 
 > [!quote]
 > "Uniquely different from the usual policy-related statistical analysis, statistical indicators are derived measures, often combining multiple data sources and several 'statistics' that are uniformly developed across nations, are repeated regularly over time, and have come to be accepted as summarizing the condition of an underlying complex process."(Smith & Baker, 2001, p.141; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.7]])
@@ -114,7 +115,7 @@ Sauvageot（1997）将指标类比为仪表盘上的警示灯——提醒决策�
 
 [[Argument_Rambla_2022_Springer|Rambla (2022, p.165–166)]]综合 Le Galès（2016）、Collins（2018）和 Jessop（2007），将绩效指标的政策工具机制分解为四个操作维度：
 
-**通过互动性专业技能获取合法性** 专家的权威既来自技术掌握，也来自公众和政策制定者对其行动指南有效性的感知。Collins（2018）称之为"互动性专业技能"（interactive expertise）——专家在持续互动中建构知识并积累声誉。绩效指标通过展示最佳实践与一般或较差实践的对比，传达这种专家知识。在 EU，EUROSTAT 根据成员国和区域在创新和教育方面的成就进行排名，承载了专家知识的制度权威([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
+**通过互动性专业技能获取合法性** 专家的权威既来自技术掌握，也来自公众和政策制定者对其行动指南有效性的感知。Collins（2018）称之为"互动性专业技能"（interactive expertise）——专家在持续互动中建构知识并积累声誉。绩效指标通过展示最佳[[Praxis|实践]]与一般或较差实践的对比，传达这种专家知识。在 EU，EUROSTAT 根据成员国和区域在创新和教育方面的成就进行排名，承载了专家知识的制度权威([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
 
 > 例：任何公民都可以在 EU 的区域创新记分牌地图上一眼识别自身区域是"创新领导者"还是"一般创新者"。这种可视化能力使排名被感知为不容置疑的"事实"——"行动者既不能凭空发明，也不能随意改变"([[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
 

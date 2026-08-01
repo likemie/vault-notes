@@ -7,7 +7,7 @@ summary: "瑞士教育政策研究者和OECD指标专家，INES项目创始人�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 11
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,12 +21,14 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
+  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Performativity]]"
   - "[[Science and Technology Studies]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Accounts]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
@@ -54,7 +56,7 @@ updated: '2026-06-08'
 > [!info] 早期乐观主义（1992–1998）
 > Bottani 认为[[International Education|国际教育]]指标在"理解其局限性的人手中"可以提供有价值的信息。他主张指标不应被用于科学研究的严格效度标准来衡量——因为它们"并非主要为科学研究设计"(Bottani, 1994, p.335; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.11]])。
 >
-> > "The point is that indicators are not primarily designed for scientific research. They can be useful in a more limited and practical way, even if they do not account fully for these complexities."(Bottani, 1994, p.335;)
+> > "The point is that indicators are not primarily designed for scientific research. They can be useful in a more limited and practical way, even if they do not [[Accounts|account]] fully for these complexities."(Bottani, 1994, p.335;)
 
 
 > [!info] 后期幻灭（2008）
@@ -70,7 +72,7 @@ updated: '2026-06-08'
 > [!success] 主要贡献
 > - **[[International Indicators of Education Systems]]** — 自 1988 年创立至 1997 年担任 INES 项目负责人近十年，从项目几乎不可能的阶段带领至首版 [[Education at a Glance|EAG]] 出版([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.5, 8]])
 > - **[[Education at a Glance]]** — INES 的最终产品，成为 [[OECD]] 旗舰出版物
-> - **[[Performance Indicators]]** — 在指标方法论层面，Bottani 的实践和理论反思深刻影响了[[International Education|国际教育]]指标的[[Epistemology|认识论]]讨论
+> - **[[Performance Indicators]]** — 在指标方法论层面，Bottani 的[[Praxis|实践]]和理论反思深刻影响了[[International Education|国际教育]]指标的[[Epistemology|认识论]]讨论
 
 ## 主要著作
 

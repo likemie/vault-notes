@@ -5,7 +5,7 @@ aliases:
 summary: "现代教育通过培养忠诚、归属和共同体边界来创造成员身份的基础功能，同时界定谁属于我们以及谁被排除在外"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 - citizenship
 - boundaries
 related_concepts:
+  - "[[Praxis]]"
   - "[[Document]]"
 related_theories:
   - "[[Nation Building through Education]]"
@@ -47,7 +48,7 @@ updated: 2026-07-13
 
 > [!example] 概念辨析
 > - vs [[Nation Building through Education]] — 国族建构理论关注的是国家如何在**边疆地区**和**多元族群**中推行统一身份认同；membership-creating 是更基础性的机制——它解释的是为什么**所有**现代国家都建立了大众教育系统，不仅是边疆。前者是政策策略，后者是社会功能
-> - vs Citizenship Education — 公民教育是课程层面的实践（教什么内容）；membership-creating 是制度层面的功能（教育系统本身在做什么）。公民教育可以更改为不同的内容（如香港从 LS 到 [[Citizenship and Social Development|CSD]]），但 membership-creating 功能本身——通过教育划定"谁属于我们"——是结构性的
+> - vs Citizenship Education — 公民教育是课程层面的[[Praxis|实践]]（教什么内容）；membership-creating 是制度层面的功能（教育系统本身在做什么）。公民教育可以更改为不同的内容（如香港从 LS 到 [[Citizenship and Social Development|CSD]]），但 membership-creating 功能本身——通过教育划定"谁属于我们"——是结构性的
 >
 
 ## 核心要素

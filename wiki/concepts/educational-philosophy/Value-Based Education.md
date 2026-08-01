@@ -5,7 +5,7 @@ aliases:
 summary: "把教育目的与价值判断置于证据选择之前的教育取向，强调先回答想培养什么样的人与社会，再讨论什么做法有效"
 type: concept
 domain: "educational-philosophy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Epistemology]]"
@@ -37,7 +38,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 价值本位教育（Value-Based Education）是 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 提出的教育取向，作为[[Evidence-Based Education|证据本位教育]]的替代。其核心主张是：**价值先于证据**——教育实践的方向来自关于教育目的的规范性判断，关于"什么有效"的手段性问题始终从属于"我们想要达成什么"的目的性问题。
+> 价值本位教育（Value-Based Education）是 [[Argument_Biesta_2010_SPE|Biesta (2010)]] 提出的教育取向，作为[[Evidence-Based Education|证据本位教育]]的替代。其核心主张是：**价值先于证据**——教育[[Praxis|实践]]的方向来自关于教育目的的规范性判断，关于"什么有效"的手段性问题始终从属于"我们想要达成什么"的目的性问题。
 >
 > > "Calling the idea of value-based education an alternative, is not meant to suggest that evidence plays no role at all in value-based education but is to highlight that its role is subordinate to the values that constitute practices as educational practices." ([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 492]])
 
@@ -58,7 +59,7 @@ updated: '2026-05-18'
 > 2. **手段-目的的内在联系** 教育中的手段不是中立的——使用某种教学方式不仅达成目的，还教给学生关于该方式本身的东西（如使用惩罚教会"暴力是合法手段"）。
 >
 > > Carr (1992, p. 249) 的例子：使用惩罚手段达成课堂秩序的目的，同时教给学生"以力量实现意志是允许的"——手段本身成为一个隐性课程，传递了关于权力和控制的价值。([[Argument_Biesta_2010_SPE|Biesta, 2010, pp. 500–501]])
-> 3. **构成性** 价值不是教育的"元素"之一，而是**构成教育实践本身的条件**——没有价值取向就没有教育实践。
+> 3. **构成性** 价值不是教育的"元素"之一，而是**构成教育[[Praxis|实践]]本身的条件**——没有价值取向就没有教育实践。
 >
 > > 例：一个声称自己在"教学"但无法回答"教这个是为了什么"的老师，实际上可能只是在执行技术性程序（如训练学生填对选择题）。Biesta 的论证是：程序没有目的就不构成教育——它可能构成操控、训练或灌输，但不是教育。
 
@@ -84,20 +85,20 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - **vs [[Evidence-Based Education]]** — 证据本位教育将手段问题（效果）置于首位；价值本位教育将目的问题（方向）置于首位。前者可能成为"没有方向的有效性"；后者要求方向先于有效性
-> - **vs Values Education（价值观教育）** — 价值观教育是向学生传授特定价值观；价值本位教育是关于**教育实践本身的规范性基础**，而非课程内容
+> - **vs Values Education（价值观教育）** — 价值观教育是向学生传授特定价值观；价值本位教育是关于**教育[[Praxis|实践]]本身的规范性基础**，而非课程内容
 > - **vs [[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice）** — 证据知情实践是证据本位教育的弱化版；价值本位教育不是弱化证据的角色，而是**重新定义**证据与价值的关系——证据从主角变为配角
 
 ## 理论基础
 
 > [!info] 理论基础
-> - **教育的 Teleological 特征** — 教育的核心特征是它是由 *telos*（目的）框定的实践
+> - **教育的 Teleological 特征** — 教育的核心特征是它是由 *telos*（目的）框定的[[Praxis|实践]]
 > - [[Transactional Epistemology]] — Dewey 的交易[[Epistemology|认识论]]揭示证据只能提供关于过去的可能性，强化了价值判断的必要性
 > - **Carr (1992)** — 教育手段与目的的内在联系
 
 ## 争议与批评
 
 > [!warning] 多元社会中的价值冲突
-> Biesta 论证价值应构成教育实践的基础，但他未充分回应多元社会中"谁的价值观"的难题——不同文化、宗教、政治立场对"什么是值得的教育目的"有根本分歧。
+> Biesta 论证价值应构成教育[[Praxis|实践]]的基础，但他未充分回应多元社会中"谁的价值观"的难题——不同文化、宗教、政治立场对"什么是值得的教育目的"有根本分歧。
 >
 > - **Biesta 的立场** 他承认价值判断的"争议性"是教育的本质特征而非需要消除的问题——教育的方向应通过民主协商而非证据层级来决定。([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 500]])
 > - **批评者的立场** 在价值多元且有真实冲突的社会中，"民主协商"是一个程序性回答而非实质性回答——它没有告诉教师在教室里该怎么做，也没有解决当协商失败时的决策机制问题。

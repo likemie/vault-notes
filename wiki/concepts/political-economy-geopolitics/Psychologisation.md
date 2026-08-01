@@ -6,7 +6,7 @@ aliases:
 summary: "将社会政治不满重新框定为个体心理调适问题的治理策略，通过课程去政治化、课外感恩教育和个体化归因三条路径运作"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - region/china
 related_concepts:
   - "[[Disciplina and Doctrina]]"
+  - "[[Praxis]]"
   - "[[Progressive Education]]"
   - "[[Benevolence]]"
 related_theories: []
@@ -49,7 +50,7 @@ updated: 2026-07-13
 > [!concept-lens] 概念透镜
 > - **指向对象** 威权政府在面临合法性挑战时所采用的去政治化[[Disciplina and Doctrina|规训]]机制，特别关注教育与青年政策中的情感习惯重塑。
 > - **分析用途** 帮助研究者透视官方如何将政治归属转化为道德责任，以及如何利用幸福、感恩和积极心理学话语消解公众问责与抗争。
-> - **概念边界** 心理化不仅是心理学知识的普及，更是将心理学词汇作为行政控制和去政治化稳压器的制度性实践。
+> - **概念边界** 心理化不仅是心理学知识的普及，更是将心理学词汇作为行政控制和去政治化稳压器的制度性[[Praxis|实践]]。
 
 > [!citation-card]- 关键表述
 > 官方论述将青年的异化矮化为个人心理偏差问题。由于对现有秩序的批判已被定性为国安红线，对公众不满的解释只能诉诸个人或私人的适应不良（[[Argument_Vickers_2024_CE|Vickers, 2024, p.154]]）。

@@ -7,7 +7,7 @@ summary: "英国比较教育学者，政策借用与跨国吸引类型学共同�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Analytic Framework]]"
   - "[[Document]]"
+  - "[[Praxis]]"
   - "[[Global Universities Rankings]]"
   - "[[Going Native]]"
 related_theories: []
@@ -72,7 +73,7 @@ updated: '2026-06-08'
 > 1. **警示（Caution）** — 用外国范例警示不要进行教育改革
 > 2. **颂扬（Glorify）** — 通过国际比较颂扬本国现行教育
 > 3. **合法化（Legitimate）** — 用外国范例为国内改革方案提供正当性
-> 4. **丑闻化（Scandalize）** — 用外国范例丑闻化本国政策和实践，证明改革必要性
+> 4. **丑闻化（Scandalize）** — 用外国范例丑闻化本国政策和[[Praxis|实践]]，证明改革必要性
 >
 > Rappleye 将这四种动机按其修辞力度（vocal ↔ subdued）和改革／抵制取向（reform ↔ resist）排列在概念地图的核心位置。
 

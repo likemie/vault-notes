@@ -5,10 +5,10 @@ aliases:
 summary: "元分析中以图形方式展示各研究效应量及其置信区间的标准可视化方法，可同时呈现单项研究结果和汇总估计"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - forest-plot
 - meta-analysis
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Sample Size Determination]]"
   - "[[Heterogeneity]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -81,7 +82,7 @@ updated: '2026-06-08'
 > [!success] 在教育研究中的意义
 > - 森林图使[[Meta-analysis|元分析]]的结果透明化，读者可以自行判断各研究的一致性和汇总估计的[[Reliability|可靠性]]
 > - 它直观呈现了[[Heterogeneity|异质性]]，当各研究的[[Confidence Interval|置信区间]]不重叠时，提示存在需要解释的变异
-> - 在[[EEF Teaching and Learning Toolkit]]等面向实践者的工具中，森林图所基于的数据被进一步简化为"额外学习月数"等更易理解的指标([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])
+> - 在[[EEF Teaching and Learning Toolkit]]等面向[[Praxis|实践]]者的工具中，森林图所基于的数据被进一步简化为"额外学习月数"等更易理解的指标([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])
 
 ---
 

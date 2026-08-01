@@ -11,7 +11,7 @@ aliases:
 summary: "统计推断中两类对称的决策错误——拒绝真零假设（第一类，冤枉无辜）和接受假零假设（第二类，放过有罪），两者之间存在内在权衡，在量化与质性研究中均有对应"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Threats to Internal Validity]]"
   - "[[Sample Size Determination]]"
+  - "[[High-Stakes Testing]]"
   - "[[Effect Size]]"
   - "[[Classroom Management]]"
   - "[[Confidence Interval]]"
@@ -73,7 +74,7 @@ updated: 2026-06-23
 
 > [!feature] 两类错误的关键特征
 > - **内在权衡（Trade-off）** 减少第一类错误（降低 α）必然增加第二类错误的风险（降低统计效力），反之亦然。这不是方法论缺陷，而是统计推断的数学必然——在[[Sample Size Determination|样本量]]固定的条件下，两类错误概率无法同时最小化。
-> - **显著性水平的选择（Choice of α）** 常规 α = 0.05 只是约定俗成，并非方法论的必然要求。研究者应根据研究的实际后果来选择适当的显著性水平：（a）如果推广无效干预的代价高昂（如医疗、高风险评估），应选择更严格的 α（如 0.01）；（b）如果错失有效干预的代价更高（如探索性研究），可适度放宽 α（如 0.10）。
+> - **显著性水平的选择（Choice of α）** 常规 α = 0.05 只是约定俗成，并非方法论的必然要求。研究者应根据研究的实际后果来选择适当的显著性水平：（a）如果推广无效干预的代价高昂（如医疗、[[High-Stakes Testing|高风险评估]]），应选择更严格的 α（如 0.01）；（b）如果错失有效干预的代价更高（如探索性研究），可适度放宽 α（如 0.10）。
 > - **统计效力（Statistical power = 1-β）** 第二类错误的补充概念——研究正确拒绝假[[Null Hypothesis|零假设]]的概率。效力取决于样本量、[[Effect Size|效应量]]和 α 水平。Boruch (1997: 211) 指出第二类错误可能在以下情况发生：（a）对干预反应的测量效度不足；（b）干预的测量相关性不足；（c）实验统计效力太低；（d）选择了错误的研究总体。
 > - **在[[Qualitative Research|质性研究]]中的重释（Qualitative counterpart）** 在质性数据中，第一类错误是相信了一个实际上不真实的陈述（过度信任数据），第二类错误是拒绝了一个实际上真实的陈述（过度怀疑数据）。这一区分提醒质性研究者：对数据的过度怀疑（拒绝真实）和过度信任（相信虚假）都是效度威胁。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
 

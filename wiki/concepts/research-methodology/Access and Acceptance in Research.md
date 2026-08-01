@@ -9,7 +9,7 @@ aliases:
 summary: "研究者进入研究场所前获得官方许可和参与者接纳的伦理与操作程序，涉及准入层级协商、守门人关系建立和研究意图透明披露"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - method/research-ethics
   - theme/research-procedure
 related_concepts:
+  - "[[Praxis]]"
   - "[[Informed Consent]]"
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
@@ -46,7 +47,7 @@ updated: 2026-06-19
 > 研究准入与接纳指研究者在进入研究场所（学校、机构、社区）之前，通过正式和非正式渠道获得官方许可和参与者接纳的过程。这是研究者展示其作为严肃研究者的资质并建立自身伦理立场的关键阶段（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 84–87]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 准入不仅是一个行政程序，更是一个伦理实践——研究者必须证明自己作为研究者和人值得被赋予开展调查所需的设施。
+> - **含义** 准入不仅是一个行政程序，更是一个伦理[[Praxis|实践]]——研究者必须证明自己作为研究者和人值得被赋予开展调查所需的设施。
 > - **用途** 帮助研究者系统规划进入研究场所的策略，识别关键决策者、建立信任、协商条件和保证，并预见可能的阻力。
 > - **边界** 准入不等于[[Informed Consent|知情同意]]——知情同意是研究者与个体参与者之间的程序，准入是研究者与机构或组织层面之间的协商。准入获得后仍需征求个体参与者的知情同意。
 

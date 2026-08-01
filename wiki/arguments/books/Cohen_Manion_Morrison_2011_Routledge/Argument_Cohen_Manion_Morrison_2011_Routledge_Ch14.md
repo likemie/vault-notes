@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Document]]"
+  - "[[Ways of Knowing]]"
   - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Research Purpose]]"
@@ -70,8 +71,10 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[Progressive Focussing]]"
   - "[[Champ]]"
+  - "[[Growth]]"
   - "[[Fitness for Purpose]]"
   - "[[Experimenter Bias]]"
+  - "[[Praxis]]"
   - "[[Presence]]"
 related_methods:
   - "[[Case Study]]"
@@ -208,7 +211,7 @@ Simons（1996）认为个案研究需要同时拥抱六组看似矛盾的立场�
 > [!frames-ref] Simons（1996）的六个悖论
 > - **拒绝主客二分** 研究者不是凌驾于研究对象之上的主体，所有参与者（包括被研究者）都应被平等对待。研究者与被研究者之间的界限需要打破
 > - **承认创造性相遇的价值** 真正的新理解往往来自研究者与情境之间的偶然碰撞，而非按预设程序操作。要为这种创造性空间留出余地
-> - **不同的观看方式就是不同的认知方式** 换一个角度看同一现象，不是同一个知识的另一种表述，而是产生了新的知识
+> - **不同的观看方式就是不同的[[Ways of Knowing|认知方式]]** 换一个角度看同一现象，不是同一个知识的另一种表述，而是产生了新的知识
 > - **接近艺术家的工作方式** 艺术家不依赖标准化流程，而是在反复的感知、表达和修正中逼近真实。个案研究也应如此
 > - **从传统分析中解放心智** 不预设[[Analytic Framework|分析框架]]和理论透镜，让材料本身引导理解的方向，避免过早将复杂现实塞进既有概念格子
 > - **以对人的压倒性兴趣拥抱所有悖论** 以上每条都涉及矛盾——平等对待却要做出判断、自由探索却要产出结论。最终驱动研究的是对人的深切关注，而非方法论的完美
@@ -591,7 +594,7 @@ Yin（2009, p. 143）指出数据分析是一个迭代过程，研究者必须�
 > - **制作多份副本** 建议至少制作两份田野笔记副本，最好在母版上打字以供复制。一份原件保留供参考，其他副本可用作草稿进行剪切、重组织和重写
 > - **充分详细** 笔记应足够充分，以便数月后能充分唤起对任何描述事件的合理生动的画面。这可能意味着至少在每次观察后书写至少几页单倍行距的打字页
 
-Lofland（1971）推荐的和King（1979）及Wolcott（1973）在其民族志叙述中实际执行的这种笔记方式，是从非结构化观察研究的本质中生长出来的。Wolcott承认记笔记帮助他对抗在观察校长每天无尽的会议时有时感到的极度无聊。偶尔一系列事件发生得如此之快，Wolcott只能做粗略笔记，随后补充更完整的叙述。一条有用的提示：**在先前观察的笔记完成之前，绝不要恢复观察**。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。何时记录数据只是Walker（1980）列出的若干实际问题之一（p.296）。
+Lofland（1971）推荐的和King（1979）及Wolcott（1973）在其民族志叙述中实际执行的这种笔记方式，是从非结构化观察研究的本质中[[Growth|生长]]出来的。Wolcott承认记笔记帮助他对抗在观察校长每天无尽的会议时有时感到的极度无聊。偶尔一系列事件发生得如此之快，Wolcott只能做粗略笔记，随后补充更完整的叙述。一条有用的提示：**在先前观察的笔记完成之前，绝不要恢复观察**。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。何时记录数据只是Walker（1980）列出的若干实际问题之一（p.296）。
 
 ---
 
@@ -649,7 +652,7 @@ Yin（2009, p. 133）做出了一个重要观点：个案研究报告应考虑�
 
 ### 14.11 结论
 
-Macpherson et al.（2000, pp. 57–58）提出了指导个案研究实践的原则：
+Macpherson et al.（2000, pp. 57–58）提出了指导个案研究[[Praxis|实践]]的原则：
 
 > [!conclusion] Macpherson et al.（2000, pp. 57–58）的个案研究指导原则
 > - **关于目的（purpose）** 建议采取参与者与研究者之间的合作方法以处理情境性（contextuality）
@@ -705,7 +708,7 @@ Yin（2009, pp. 185–189）认为一项典范（exemplary）个案研究必须�
 >
 > *One useful tip from this experienced ethnographer is worth noting: never resume your observations until the notes from the preceding observation are complete. There is nothing to be gained merely by your [[Presence]] as an observer.*
 
-> [!citation-card]- [[Non-participant Observation|非参与观察]]者的经典实践：King（1979）在幼儿课堂中
+> [!citation-card]- [[Non-participant Observation|非参与观察]]者的经典[[Praxis|实践]]：King（1979）在幼儿课堂中
 > King回忆他如何通过认识到幼儿将任何成人视为另一位教师或代课教师来牢固确立他的非参与地位。因此他会站立保持社会距离，故意避免显示即时兴趣和回避眼神接触。（第14章，p.291）
 >
 > *King recalls how he firmly established his non-participant status with young children by recognizing that they regarded any adult as another teacher or surrogate teacher. Hence he would stand up to maintain social distance, and deliberately decline to show immediate interest, and avoided eye contact.*

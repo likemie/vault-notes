@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 39
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -34,9 +34,11 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Cultural Hierarchy]]"
   - "[[Blue Skies Research]]"
   - "[[Theory of Knowledge]]"
   - "[[Junzi]]"
+  - "[[Praxis]]"
   - "[[Axiology]]"
   - "[[Analytic Framework]]"
   - "[[Technology Transfer]]"
@@ -57,6 +59,7 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Thomas Kuhn]]"
   - "[[Plato]]"
+  - "[[Aristotle]]"
   - "[[Confucius]]"
 related_facts:
   - "[[US-China Economic and Security Review Commission]]"
@@ -141,7 +144,7 @@ Partaken 通过专利数据分析揭示了一个关键事实："知识生产"这
 
 后殖民研究传统从 Fanon 到 [[Chen Kuan-Hsing]] 都将知识生产作为 GPK 的核心分析维度，这有其历史合法性：
 
-- Fanon (1952/1963) 揭示了殖民暴力如何制造"殖民地主体"——一种通过特定知识（语言、人性）及其种族-文化等级结构建构的新人类。例如，法属殖民地学校强制使用法语教学，将本地语言贬低为"方言"，学生因讲母语而受罚——语言等级制即是知识等级制的物质形式。去殖民化因此既是暴力的革命的，也是集体疗愈过程(p.72)。
+- Fanon (1952/1963) 揭示了殖民暴力如何制造"殖民地主体"——一种通过特定知识（语言、人性）及其种族-[[Cultural Hierarchy|文化等级]]结构建构的新人类。例如，法属殖民地学校强制使用法语教学，将本地语言贬低为"方言"，学生因讲母语而受罚——语言等级制即是知识等级制的物质形式。去殖民化因此既是暴力的革命的，也是集体疗愈过程(p.72)。
 - Tharoor (2017) 展示了英国在印度的殖民教育如何将"一切英国事物"的优越性刻入印度学生的课程——例如 Macaulay 1835 年《印度教育备忘录》明确主张培养"一个血统和肤色是印度的、但品味、观点、道德和智力是英国人的阶级"——"知识生产和通过教学的再生产是殖民化的工具"(p.72)。
 - [[Chen Kuan-Hsing]] (2010) 将此传统推进到当代亚洲：知识本身是"帝国主义运作和行使权力的主要场所之一"(p.211)，提出"亚洲作为方法"——将亚洲从分析对象转变为转变知识生产的手段，并呼吁"去帝国化、去殖民化和去冷战"(p.73–74)。
 
@@ -155,7 +158,7 @@ Partaken 在此处完成了从诊断到替代的理论转换：
 
 **前提** 知识一旦生产出来，几乎是立即经历一个挪用（appropriation）过程——所有权从生产者转移到获取者。知识此时进入"运动"状态：它可以被教授、学习、出售、购买、窃取、审查、分级、规定或公之于众。Partaken 将这组可能的运动统称为"知识转移"（knowledge transfer）(p.74–75)。
 
-**哲学论证** 知识转移的思想在西方形而上学中有深层根基。希腊哲学中关于 agathos（善）的理论，经新[[Plato|柏拉图]]主义和新亚里士多德主义发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，倾向于在人群中传播和扩散(p.75)。
+**哲学论证** 知识转移的思想在西方形而上学中有深层根基。希腊哲学中关于 agathos（善）的理论，经新[[Plato|柏拉图]]主义和新[[Aristotle|亚里士多德]]主义发展为拉丁箴言"omne bonum diffusum sui est"（一切善倾向于自我扩散）——知识作为善，倾向于在人群中传播和扩散(p.75)。
 
 **但** 恰恰因为知识是善，其转移从来不是畅通无阻的。从柏拉图"agathos kai sophos"（善且智）和[[Confucius|孔子]]"[[Junzi|君子]]"以来，知识始终与社会和智识等级制相联系。在现代性中，知识成为国际冲突的核心场所——正如 Katz (1965) 所论证："权力不仅是获取经济优势或意识形态最大化的手段，它本身就是冲突的独立来源"(p.374)——当代 GPK 中，知识转移的张力达到了最高水平(p.75)。
 
@@ -187,7 +190,7 @@ Søilen (2016) 的区分进一步精确化了分析工具：经济间谍（政�
 Partaken 将中美技术紧张作为整个论证的经验验证案例嵌入此处(pp.78–79)，具体论证链如下：
 
 1. 2018 年 3 月，美国与所有其他盟友的贸易争端都结束了——"唯独中国除外"。这揭示中国不是一般贸易伙伴，而是被识别为 GPK 的核心对手(p.78)。
-2. 贸易战迅速升级为"新冷战"标签，但 Partaken 指出这个标签既"少说了什么"（中国没有苏联式的盟友集团，四十年"自我中心的商业实践"——国际合作伙伴关系经常以知识挪用和消灭伙伴告终——使其缺乏"患难之交"），也"多说了什么"（真正的断层线可能在于心态、文化、[[Axiology|价值论]]和实践的差异——Huntington 的文明冲突论在此被援引作为[[Analytic Framework|分析框架]]）(p.78)。
+2. 贸易战迅速升级为"新冷战"标签，但 Partaken 指出这个标签既"少说了什么"（中国没有苏联式的盟友集团，四十年"自我中心的商业[[Praxis|实践]]"——国际合作伙伴关系经常以知识挪用和消灭伙伴告终——使其缺乏"患难之交"），也"多说了什么"（真正的断层线可能在于心态、文化、[[Axiology|价值论]]和实践的差异——Huntington 的文明冲突论在此被援引作为[[Analytic Framework|分析框架]]）(p.78)。
 3. 在知识转移维度上，美国的终极目标（超越 Trump 任期）是"限制从美国向中国的[[Technology Transfer|技术转让]]，无论是合法还是非法"(p.78)。
 4. 制度[[Chain of Evidence|证据链]]：[[US-China Economic and Security Review Commission|USCC]]（2000 年由国会立法设立，系统监控中美知识转移）→ FBI 调查（165 家公司中 50% 承认知识产权被盗，95% 怀疑中国；截至 2019 年 7 月约 1000 项对中国[[Economic and Industrial Espionage|知识产权盗窃]]的立案调查）→ [[Thousand Talents Program]]（被美方视为知识盗窃的国家制度化）(p.78–79)。
 5. 理论综合：回归 Katz (1965) 的三因素——中美 GPK 冲突可归因于权力（中共与国家科技领导小组）、资源（Made in China 2025 战略）、意识形态（中国梦）三种不可化约的冲突源(p.79)。

@@ -8,7 +8,7 @@ aliases:
 summary: "将整个地域视为博物馆并由社区主导保护和阐释自然与文化遗产的博物馆学取向。"
 type: concept
 domain: "curriculum"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 - theme/ecology
 - theme/community
 related_concepts:
+  - "[[Praxis]]"
   - "[[Social Museology]]"
   - "[[Ontology]]"
   - "[[Ganz-Methode]]"
@@ -46,7 +47,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info]
-> Ecomuseology（生态博物馆学）是博物馆学中一个以**地域（territory）**为核心概念的分支。其核心主张是：博物馆的边界不应由建筑墙体定义，而应由社区与自然环境、文化遗产和地域认同的**关系**来定义。生态博物馆（ecomuseum）是生态博物馆学的实践载体——一个以社区为主导、以地域为框架、以保护和阐释自然与文化遗产为目标的参与式机构（Chagas, 2001; Moutinho, 2007, cited in [[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]]）。
+> Ecomuseology（生态博物馆学）是博物馆学中一个以**地域（territory）**为核心概念的分支。其核心主张是：博物馆的边界不应由建筑墙体定义，而应由社区与自然环境、文化遗产和地域认同的**关系**来定义。生态博物馆（ecomuseum）是生态博物馆学的[[Praxis|实践]]载体——一个以社区为主导、以地域为框架、以保护和阐释自然与文化遗产为目标的参与式机构（Chagas, 2001; Moutinho, 2007, cited in [[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]]）。
 
 > 生态博物馆概念的国际先驱可追溯至 1970 年代法国——Georges Henri Rivière 和 Hugues de Varine 提出"écomusée"概念，强调博物馆应反映人与环境的关系而非仅仅是藏品的集合。在巴西，这一概念与本地知识传统深度融合，发展出以贫民窟、原住民社区和非裔巴西人社区为主导的独特实践形态([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Chagas, 2001]])。
 
@@ -63,7 +64,7 @@ updated: 2026-07-08
 > [!note]-
 > - 1970 年代法国：Georges Henri Rivière 和 Hugues de Varine 在地方博物馆运动中提出"écomusée"概念
 > - 巴西发展：Mário Chagas (2001) 将生态博物馆学与权力和记忆的政治分析结合；Mário Moutinho (2007) 在[[Social Museology|社会博物馆学]]（sociomuseologia）框架内发展了生态博物馆理论
-> - [[Dell Delambre]] 在 2013–2020 年里约热内卢多案例实践中，将生态博物馆学（与社会博物馆学一起）作为 [[Ganz-Methode]] 的实证基础([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 110]])
+> - [[Dell Delambre]] 在 2013–2020 年里约热内卢多案例[[Praxis|实践]]中，将生态博物馆学（与社会博物馆学一起）作为 [[Ganz-Methode]] 的实证基础([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 110]])
 
 ## 核心要素
 
@@ -71,31 +72,31 @@ updated: 2026-07-08
 > - **地域作为博物馆（territory as museum）** 博物馆的"馆"不是建筑，而是整个地理区域——包括自然景观、生态系统、历史遗迹、文化遗产和居民生活。保护对象从"藏品"转为"地域"本身([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Chagas, 2001]])
 > - **社区主导（community-led）** 与 [[Social Museology]] 共享的原则——居民自己决定什么值得保存、如何保存、如何展示。在巴西，生态博物馆通常由贫民窟居民、原住民社区或非裔巴西人社区主导([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 > - **口述性作为[[Knowledge Production|知识生产]]方式** 生态博物馆学承认口述传统与书写传统具有同等的知识地位。口述性是非洲和拉丁美洲知识生产与智慧传播的核心方式，生态博物馆为口述知识提供了制度化的保存和展示空间
-> - **抵抗记忆抹除** 巴西生态博物馆实践的动力之一是抵抗霸权系统对地方历史、原住民知识和非裔巴西人文化的系统性抹除——这是一种 [[Epistemology of Resistance|抵抗认识论]] 在文化遗产领域的具体体现
+> - **抵抗记忆抹除** 巴西生态博物馆[[Praxis|实践]]的动力之一是抵抗霸权系统对地方历史、原住民知识和非裔巴西人文化的系统性抹除——这是一种 [[Epistemology of Resistance|抵抗认识论]] 在文化遗产领域的具体体现
 
 ## 理论基础
 
 > [!tip]-
 > - [[Creative Tension of Sense]] — 新旧博物馆学[[Paradigm|范式]]之间的张力是"意义张力"在文化遗产制度领域的呈现。生态博物馆学在旧秩序（建筑中心、专家权威）内部培育了一种以地域和社区为核心的新范式([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110–112]])
 > - [[Ganz-Methode]] — 生态博物馆学的操作逻辑与 Ganz-Methode 两步法对应。详见 [[Ganz-Methode#核心要素]]([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 112–113]])
-> - [[Decolonial Geopolitics of Knowledge]] — 生态博物馆学以地域和社区的知识权威替代西方博物馆学的专家权威，是去殖民[[Epistemology|认识论]]在文化遗产制度中的实践
+> - [[Decolonial Geopolitics of Knowledge]] — 生态博物馆学以地域和社区的知识权威替代西方博物馆学的专家权威，是去殖民[[Epistemology|认识论]]在文化遗产制度中的[[Praxis|实践]]
 
 ## 实证发现
 
 > [!success]
-> [[Argument_Delambre_2022_Springer|Delambre (2022)]] 将巴西生态博物馆学实践作为 [[Ganz-Methode]] 的案例基础之一，但论文未报告这些实践的系统实证评估数据（如博物馆数量、社区影响测量）([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 110]])。
+> [[Argument_Delambre_2022_Springer|Delambre (2022)]] 将巴西生态博物馆学[[Praxis|实践]]作为 [[Ganz-Methode]] 的案例基础之一，但论文未报告这些实践的系统实证评估数据（如博物馆数量、社区影响测量）([[Argument_Delambre_2022_Springer|Delambre, 2022, p.107, 110]])。
 
 ## 争议与批评
 
 > [!warning]
 > - "地域作为博物馆"理念在操作层面面临边界问题：一个地域的范围如何确定？谁来定义哪些地域元素"属于"生态博物馆？地域内部不同群体对同一空间的历史叙事可能存在冲突
-> - 与 [[Social Museology]] 的边界模糊：在巴西实践中两者经常并存——这种交叉是实践智慧还是概念不清晰的症状，尚存讨论空间
+> - 与 [[Social Museology]] 的边界模糊：在巴西[[Praxis|实践]]中两者经常并存——这种交叉是实践智慧还是概念不清晰的症状，尚存讨论空间
 > - 生态博物馆的可持续性面临资金、技术和制度合法性等多重制约
 
 ## 相关案例／政策
 
 > [!example]
-> - **巴西社区博物馆和生态博物馆实践** — Delambre 里约热内卢案例的核心组成部分：贫民窟、原住民社区和非裔巴西人社区中以居民为主角的生态博物馆项目([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Chagas, 2001]])
+> - **巴西社区博物馆和生态博物馆[[Praxis|实践]]** — Delambre 里约热内卢案例的核心组成部分：贫民窟、原住民社区和非裔巴西人社区中以居民为主角的生态博物馆项目([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110, 援引 Chagas, 2001]])
 > - **Mário Chagas 的生态博物馆理论与实践** — Chagas (2001) 以"记忆与权力"（Memória e Poder）为框架，系统阐述了生态博物馆如何服务于地方记忆保护和社区赋权，是巴西生态博物馆学运动的核心理论资源([[Argument_Delambre_2022_Springer|Delambre, 2022, p.110]])
 > - **[[Social Museology]]** — 在巴西，生态博物馆学与社会博物馆学高度交叉，常见于同一项目中并存
 

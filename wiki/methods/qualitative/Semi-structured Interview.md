@@ -8,7 +8,7 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Fitness for Purpose]]"
   - "[[Emergence]]"
+  - "[[Dialogue in Education]]"
   - "[[Probes]]"
   - "[[Sensitive Questions]]"
   - "[[Transcription in Qualitative Research]]"
@@ -65,7 +66,7 @@ updated: 2026-07-22
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 半结构化访谈在量化—质性光谱上居于中间位置，追求可比性的同时允许独特性呈现。核心原则是[[Fitness for Purpose|适合目的]]。
 > - **研究者角色** 研究者需要同时扮演两个角色：遵循提纲确保系统性覆盖，灵活追问以深度探索意外[[Emergence|涌现]]的主题。
-> - **有效性标准** 大纲增加数据全面性，使每位受访者的数据收集有一定系统性；逻辑数据缺口可通过[[Pilot Testing|预测试]]预测和弥补。访谈保持相当的对话性和情境性。
+> - **有效性标准** 大纲增加数据全面性，使每位受访者的数据收集有一定系统性；逻辑数据缺口可通过[[Pilot Testing|预测试]]预测和弥补。访谈保持相当的[[Dialogue in Education|对话]]性和情境性。
 > - **不声称回答的问题** 重要话题可能被无意遗漏；排序和措辞的灵活性可能导致实质性不同回应，降低跨个案可比性。
 
 > [!method-stack] 方法层级
@@ -92,7 +93,7 @@ updated: 2026-07-22
 > [!method-fit] 适用判断
 > - **适合使用** 需要系统比较跨个案数据但又希望保留灵活性时；希望预测和弥补逻辑数据缺口时；多位访谈者参与需要统一框架时；[[In-depth Interview|深度访谈]]和[[Focus Group|焦点小组]]均常采用半结构化设计。
 > - **谨慎使用** 高度探索性研究（大纲可能限制意外[[Emergence|涌现]]）；受访者群体差异极大时（统一提纲可能对某些人不适用）。
-> - **不适合使用** 需要完全标准化、可精确量化的数据时（应采用结构化访谈或[[Questionnaire|问卷]]）；完全非结构化的[[Ethnography|民族志]]对话。
+> - **不适合使用** 需要完全标准化、可精确量化的数据时（应采用结构化访谈或[[Questionnaire|问卷]]）；完全非结构化的[[Ethnography|民族志]][[Dialogue in Education|对话]]。
 
 ---
 

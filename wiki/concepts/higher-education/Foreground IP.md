@@ -8,7 +8,7 @@ aliases:
 summary: "产学合作协议中定义的在合作期间、为履行工作范围而产生的知识产权，通常根据发明人归属原则确定所有权"
 type: concept
 domain: "higher-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Background IP]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -56,7 +57,7 @@ updated: 2026-06-03
 ## 所有权规则
 
 > [!info]
-> 在美国[[University-Industry Collaboration|产学合作]]实践中，FIP 的所有权通常遵循"发明人归属"原则：每位发明人或作者将其权利转让给雇主。因此（pp.279–280）：
+> 在美国[[University-Industry Collaboration|产学合作]][[Praxis|实践]]中，FIP 的所有权通常遵循"发明人归属"原则：每位发明人或作者将其权利转让给雇主。因此（pp.279–280）：
 
 - 完全由大学人员创造的 FIP → 大学单独所有
 - 完全由企业人员创造的 FIP → 企业单独所有

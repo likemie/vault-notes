@@ -22,6 +22,7 @@ tags:
   - instrument/observation
 related_concepts:
   - "[[Champ]]"
+  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
@@ -52,14 +53,14 @@ updated: 2026-07-01
 > [!instrument-profile] ToK 课堂[[Observation Protocol|观察协议]]
 > - **工具类型** 半结构化课堂观察工具，以[[Field Notes|田野笔记]]（[[Champ|field]] notes）为记录形式。
 > - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
-> - **测量目的** 记录 ToK 课堂教学实践，分析[[Critical Thinking|批判性思维]]在课堂中的呈现方式和教学有效性。
+> - **测量目的** 记录 ToK 课堂教学[[Praxis|实践]]，分析[[Critical Thinking|批判性思维]]在课堂中的呈现方式和教学有效性。
 > - **实施方式** 研究者进入课堂进行[[Non-participant Observation|非参与式观察]]，以预设重点为指引记录田野笔记，不录音录像。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]教学实践
+> [!construct-table] [[Critical Thinking|批判性思维]]教学[[Praxis|实践]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |

@@ -8,7 +8,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ tags:
   - research-methodology
   - paradigm/interpretivist
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Epoché]]"
   - "[[Hypothesis]]"
   - "[[Rich and Thick Description]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Progressive Focussing]]"
   - "[[Central Question]]"
+  - "[[Growth]]"
   - "[[Research Topic]]"
   - "[[Research Question]]"
   - "[[Questionnaire]]"
@@ -78,7 +80,7 @@ updated: 2026-07-22
 ## 定义
 
 > [!def] 方法定义
-> 深度访谈（In-depth Interview）是[[Qualitative Interview|质性访谈]]中最核心的变体，通过与受访者进行持续、深入的对话，理解其对自身经验与行动意义的主观建构。该方法的操作核心是[[Epoché|悬置]]——研究者暂时搁置自身的知识体系和前见，进入受访者的日常语境理解其行动意义（杨善华 & 孙飞宇, 2005; Arksey & Knight, 1999）。
+> 深度访谈（In-depth Interview）是[[Qualitative Interview|质性访谈]]中最核心的变体，通过与受访者进行持续、深入的[[Dialogue in Education|对话]]，理解其对自身经验与行动意义的主观建构。该方法的操作核心是[[Epoché|悬置]]——研究者暂时搁置自身的知识体系和前见，进入受访者的日常语境理解其行动意义（杨善华 & 孙飞宇, 2005; Arksey & Knight, 1999）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体的主观经验、意义建构、行动逻辑和生活世界。
@@ -96,7 +98,7 @@ updated: 2026-07-22
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 深度访谈植根于[[Max Weber|韦伯]]的解释性理解传统和[[Constructivist Paradigm|建构主义]]取向——知识在访谈对话中共同生产，而非从受访者脑中提取。研究者的提问方式、回应策略和在场状态都参与了意义的建构。
+> - **知识观** 深度访谈植根于[[Max Weber|韦伯]]的解释性理解传统和[[Constructivist Paradigm|建构主义]]取向——知识在访谈[[Dialogue in Education|对话]]中共同生产，而非从受访者脑中提取。研究者的提问方式、回应策略和在场状态都参与了意义的建构。
 > - **研究者角色** 研究者是"同感的理解者"——站在受访者的立场理解其观念与策略。需要持续追问直至能够设身处地地理解受访者的选择策略。
 > - **有效性标准** 效度不依赖[[Sample Size Determination|样本量]]，而依赖资料收集和分析过程中的严谨性——人员校验、[[Triangulation|三角互证]]、跟踪式设计和[[Reflexivity|反身性]]记录。
 > - **不声称回答的问题** 不追求统计分布和总体推广；不能替代量化调查对大规模趋势的测量。
@@ -129,7 +131,7 @@ updated: 2026-07-22
 >
 > | 阶段 | 聚焦范围 | 核心内容 |
 > |------|---------|---------|
-> | 开场 | 个人生活史（最宽） | 成长经历、家庭背景、产生过重大影响的人和事 |
+> | 开场 | 个人生活史（最宽） | [[Growth\|成长]]经历、家庭背景、产生过重大影响的人和事 |
 > | 中段 | 与[[Research Topic\|研究主题]]相关的过程（收窄） | 与[[Research Question\|研究问题]]直接相关的经历、决策和意义感变化 |
 > | 收尾 | 核心问题（最聚焦） | 对关键选择的解释、矛盾与张力的深入探讨 |
 >

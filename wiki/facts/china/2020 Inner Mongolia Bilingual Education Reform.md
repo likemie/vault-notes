@@ -10,7 +10,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Conatus]]"
+  - "[[Praxis]]"
   - "[[Avatar]]"
   - "[[Retrotopia]]"
   - "[[Necropolitics]]"
@@ -82,7 +83,7 @@ updated: 2026-05-25
 > - **高权力 · 低利益 — 潜在反对与清洗者** 地方蒙古族传统政治精英（如布小林 (Bu Xiaolin)、高娃 (Goa)、巴特尔 (Baatar)），因未能积极跟上同化步伐而遭到政治清洗。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 111]])
 > - **低权力 · 高利益 — 受冲击的基层干部与普通民众** 基层公职人员（如苏日娜 (Surnaa)）和普通家长，在国家纪律与族群文化的夹缝中承受毁灭性压力。
 
-> [!pathways]- “自我牺牲”逻辑的三重实践路径
+> [!pathways]- “自我牺牲”逻辑的三重[[Praxis|实践]]路径
 > 乌拉迪恩·E·布拉格（Uradyn E. Bulag, 2024）指出，该政策的强力落实并非仅靠赤裸裸的暴力，而是展现了要求少数民族自愿文化死亡的**自我牺牲**实践机制：
 > 1. **精英收编与公开展示** 由已收编的蒙古族高官向歌手金花与副校长阿拉坦仓颁发“北疆楷模”称号，并在媒体上高调宣传。这实际上是在公开场合展示少数民族精英对自身族群特殊性与文[[Avatar|化身]]份的“主动阉割”和象征性投降。([[Argument_Bulag_2024_CE|Bulag, 2024, pp. 110–111]])
 > 2. **政治清洗与威慑机制** 清除同情抗议或执行不力的蒙古族高级官员。原自治区主席布小林（内蒙古创始人乌兰夫的孙女）与教育厅厅长高娃被罢免；国家民委主任巴特尔被免职，并由汉族官员接替（为建国以来首次），打破了少数民族自治代表性的惯例。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 111]])

@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Scientism]]"
   - "[[Epistemology]]"
+  - "[[Areas of Knowledge]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Document]]"
 related_theories: []
@@ -62,7 +63,7 @@ updated: 2026-07-05
 > | **课程定位** | 科学史、科学哲学与伦理学 | 跨学科[[Epistemology\|认识论]]反思 |
 > | **评估方式** | 80% 基于 6000 字科学报告，有严格的科学结构要求 | 内部演讲（1/3）+ 外部论文（2/3），不强制科学结构 |
 > | **叙事灵活性** | 非科学叙事结构被评估标准惩罚 | 鼓励多样化的论证和表达方式 |
-> | **官方目标** | 使学生能够批判性思考科学的本质及其对当代世界观的贡献 | 批判性反思知识本质，在不同知识领域之间建立联系 |
+> | **官方目标** | 使学生能够批判性思考科学的本质及其对当代世界观的贡献 | 批判性反思知识本质，在不同[[Areas of Knowledge\|知识领域]]之间建立联系 |
 
 [[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 191, note 9)]]
 

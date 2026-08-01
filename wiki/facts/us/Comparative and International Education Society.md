@@ -10,9 +10,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - subject/comparative-education
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Paradigm]]"
+  - "[[Praxis]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Scientism]]"
   - "[[Epistemology]]"
@@ -73,7 +74,7 @@ updated: 2026-07-09
 ## 关键文件／声明
 
 > [!citation-card]- 《比较与[[International Education|国际教育]]学会章程》第二条（宗旨声明）
-> 本学会的宗旨是：通过对教育思想、制度和实践的国际化研究，促进跨文化理解、学术交流、学术成就与社会发展。学会应致力于推广并协助：教育的比较研究；国际教育的研究；以及促进学术思想在国际间的传播。
+> 本学会的宗旨是：通过对教育思想、制度和[[Praxis|实践]]的国际化研究，促进跨文化理解、学术交流、学术成就与社会发展。学会应致力于推广并协助：教育的比较研究；国际教育的研究；以及促进学术思想在国际间的传播。
 >
 > *The purposes of the Society shall be: to foster cross-cultural understanding, scholarship, academic achievement and societal development through the international study of educational ideas, systems, and practices. The Society shall promote and assist in: the comparative study of education; the study of international education...*
 
@@ -82,7 +83,7 @@ updated: 2026-07-09
 ## 影响与后果
 
 > [!finding-cards] CIES对比较教育建制化的深远影响
-> - **政策与实践影响** CIES的重组使美国比较教育学界成功将自身与冷战地缘博弈及美国对外政策机器绑定。大批学会成员受聘于世界银行、[[OECD|经合组织]]（OECD）和美国国际开发署，直接为第三世界国家的教育改制输出政策模型。
+> - **政策与[[Praxis|实践]]影响** CIES的重组使美国比较教育学界成功将自身与冷战地缘博弈及美国对外政策机器绑定。大批学会成员受聘于世界银行、[[OECD|经合组织]]（OECD）和美国国际开发署，直接为第三世界国家的教育改制输出政策模型。
 > - **知识与学科影响** 实现了“比较教育”（重跨国历史与哲学制度对比）与“[[International Education|国际教育]]”（重实务应用与援助开发）的正式建制化融合，奠定了“[[Development Turn in Comparative Education|发展转向]]”在二战后的主导地位，并推动了以定量、实证和循证政策为导向的[[Scientism|科学主义]]认识型扩张。
 > - **[[Epistemology|认识论]]后果** 尽管学会在后期引入了[[Dependency Theory|依附理论]]、依附性关系反思和去殖民[[Paradigm|范式]]，但其初始的制度架构和资金纽带在客观上仍长期服务于西方中心主义的现代化论述，在大数据[[Governing at a Distance|远处治理]]中再生产着新自由主义的资本积累逻辑([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 422–428]])。
 

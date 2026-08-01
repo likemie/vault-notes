@@ -8,7 +8,7 @@ aliases:
 summary: "通过数据分析和预测工具在问题发生前对潜在学生进行预判、标记和干预的治理逻辑，用于把不确定性转化为可管理风险。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Stakeholder University]]"
   - "[[Promising Student]]"
+  - "[[Growth]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods: []
@@ -101,5 +102,5 @@ updated: 2026-05-20
 > [!warning]
 > - **预判性身份的伦理问题** 个体在被给予机会证明自己之前就被算法标记为"高风险"——"即将失败的学生"（soon-to-be-failing-student）标签构成了 Bächle（2016, p.188）所说的"先发制人的分类"（preemptive sorting），可能演变为自我实现的预言([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
 > - **结构性不平等的遮蔽** 先发制人治理将学业失败的风险归因于个体特征的缺失（"外语经历不足"、"数学基础薄弱"），而非教育资源分配的结构性不平等。入学前的"起点差异"在自我评估框架中被转化为"个人需要弥补的不足"([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
-> - **教育开放性的丧失** 当治理逻辑预设"学生的未来可以被入场数据预测"，教育的根本开放性——成长、转变、不可预测的发展——被系统性地排除在治理视野之外
+> - **教育开放性的丧失** 当治理逻辑预设"学生的未来可以被入场数据预测"，教育的根本开放性——[[Growth|成长]]、转变、不可预测的发展——被系统性地排除在治理视野之外
 

@@ -7,21 +7,23 @@ aliases:
 summary: "研究计划中传达研究总体意图和目标的陈述，是连接研究问题与研究问题的核心环节，量化、质性和混合方法三种路径各有不同的写作模板和要素要求"
 type: concept
 domain: "research-methodology"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/research-methodology
 related_concepts:
   - "[[Research Question]]"
   - "[[Research Problem]]"
+  - "[[Growth]]"
   - "[[Hypothesis]]"
   - "[[Central Phenomenon]]"
   - "[[Variable]]"
   - "[[Nondirectional Language]]"
   - "[[Descriptive Analysis]]"
   - "[[Research Writing Script]]"
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -70,7 +72,7 @@ updated: 2026-07-13
 ## 概念辨析
 
 > [!example]
-> **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.123–124]])。
+> **目的陈述 vs [[Research Question|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中[[Growth|生长]]出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.123–124]])。
 
 > [!example]
 > **目的陈述 vs 研究问题（Research Questions）** 研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research|量化研究]]中，研究问题还可能包含[[Hypothesis|假设]]([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.124]])。
@@ -102,7 +104,7 @@ updated: 2026-07-13
 > 以女性主义视角为透镜，聚焦于母亲们的记忆和她们的"活过"经验，探讨五位在孕晚期失去婴儿的母亲的生活经验意义 ("The phenomenal care of the caregiver: A feminist view of postnatal bereavement." p.134)。
 
 > [!example] 案例研究示例（Frelin, 2015）
-> 追溯并例示关系和专业实践，以帮助教师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and achieve better in school." p.590)。
+> 追溯并例示关系和专业[[Praxis|实践]]，以帮助教师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and achieve better in school." p.590)。
 
 > [!example] 叙事研究示例（Chan, 2010）
 > 考察一位中国移民学生 Ai Mei Zhang 的经验，探索她参与加拿大中学课程的过程，以及族裔认同如何被学校和家庭对其学业表现和行为的期望所塑造 ("to examine the experiences of one Chinese immigrant student, Ai Mei Zhang . . . to explore her participation in her Canadian middle school curriculum . . . to examine ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." p.113)。

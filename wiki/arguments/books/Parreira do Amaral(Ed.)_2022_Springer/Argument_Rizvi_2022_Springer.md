@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 31
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -34,9 +34,11 @@ related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Transnational Research Collaboration]]"
+  - "[[Growth]]"
   - "[[Analytic Framework]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Conatus]]"
+  - "[[Praxis]]"
   - "[[International Schools]]"
   - "[[Doxa]]"
   - "[[Champ]]"
@@ -53,6 +55,7 @@ related_theories:
   - "[[Network Society]]"
 related_methods:
   - "[[Snowball Sampling]]"
+  - "[[Discourse Analysis]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
@@ -168,7 +171,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 | 核心行动者 | 只有民族国家    | 国家、国际组织、企业、大学、个人   |
 | 世界状态  | 无政府、竞争性   | 竞争与合作并存            |
 | 空间理解  | 领土=容器     | 关系性、[[Snowball Sampling\|网络化]]            |
-| 分析方法  | 权力政治、军事战略 | 意识形态建构、话语分析、日常经验   |
+| 分析方法  | 权力政治、军事战略 | 意识形态建构、[[Discourse Analysis\|话语分析]]、日常经验   |
 | 能看到什么 | 大国博弈、势力范围 | 市场想象、中产阶级教育选择、身份建构 |
 
 **为什么这个对比重要？** 因为 Rizvi 要分析的现象——亚洲中产阶级送孩子去西方读书、澳大利亚大学把国际招生当作商业模式、[[Transnational Research Collaboration|跨国研究合作]]中多重利益的捆绑——用[[Realism in International Relations|现实主义]]地缘政治根本"看不见"。现实主义只会看到中美大国竞争，看不到一个曼谷中产家庭决定送女儿去悉尼读商科这件事本身就是一个地缘政治行为。
@@ -200,7 +203,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 
 **关键质疑(Pieterse, 2018)** 增长的数量不等于质量。“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
 > (“亚洲在崛起，但亚洲人的福祉却没有。增长的质量和数量不同步。”
-> ("Asia is rising but Asian wellbeing is not. The quality and quantity of growth are out of synch."))——大多数亚洲国家高且上升的基尼系数表明增长路径缺乏社会发展，不可持续。中国环境问题可能正在达到约束增长率的阶段，而中国政权的政治合法性建立在此基础上(p.93)。
+> ("Asia is rising but Asian wellbeing is not. The quality and quantity of [[Growth]] are out of synch."))——大多数亚洲国家高且上升的基尼系数表明增长路径缺乏社会发展，不可持续。中国环境问题可能正在达到约束增长率的阶段，而中国政权的政治合法性建立在此基础上(p.93)。
 
 > Rizvi 先摆出"亚洲崛起"的数据，然后用 Pieterse 的质疑来复杂化：增长数量不等于质量。这个质疑为后面的论证埋下伏笔——正是因为增长质量存疑，亚洲中产阶级才会把西方教育当作"保险"和"地位投资"。
 
@@ -224,7 +227,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 
 **亚洲内部的高等教育扩张**
 
-亚洲各国政府大规模投资高等教育、允许私人投资、鼓励公众将高等教育视为人力资本投资。"一种强有力的修辞出现了，将高等教育视为满足全球化经济需求的[[Necessary and Sufficient Conditions|必要条件]]"(p.95)。亚洲高等教育系统[[Conatus|努力]]改革课程以对接全球劳动力市场的变化需求，同时追求"世界最佳实践"和对西方顶尖大学的"追赶"。
+亚洲各国政府大规模投资高等教育、允许私人投资、鼓励公众将高等教育视为人力资本投资。"一种强有力的修辞出现了，将高等教育视为满足全球化经济需求的[[Necessary and Sufficient Conditions|必要条件]]"(p.95)。亚洲高等教育系统[[Conatus|努力]]改革课程以对接全球劳动力市场的变化需求，同时追求"世界最佳[[Praxis|实践]]"和对西方顶尖大学的"追赶"。
 
 **西方世界的双重反应**
 
@@ -446,7 +449,7 @@ Rizvi 论证疫情的作用不是"颠覆"了原有秩序，而是"暴露"了原�
 > - **实证基础薄弱** 本章未提供系统的实证数据来支持"亚洲崛起重塑全球高等教育架构"这一核心主张。论证主要基于[[Document|文献]]综合和概念推演。例如，Rizvi 断言国际化的理性已从发展主义转向市场理性，但没有提供系统的政策文本分析或访谈数据来支撑这一判断——读者需要依赖 Rizvi 提供的案例（如澳大利亚）来推断这一转变的普遍性。
 > - **亚洲内部差异性处理较为概括** 将"亚洲"作为一个整体讨论——"亚洲中产阶级"、"亚洲高等教育系统"——可能掩盖了东亚（日韩台）、东南亚（新马泰印尼越南）和南亚（印度巴基斯坦孟加拉）之间在经济发展阶段、高等教育治理模式、殖民遗产和文化传统上的显著差异。例如，印度的国际学生流动模式与中国存在根本不同，但 Rizvi 没有对此进行区分讨论。
 > - **未充分讨论亚洲内部权力不对称** 虽然 Rizvi 批评了西方与亚洲之间的不对称关系，但他未充分讨论亚洲内部——特别是中国在亚洲高等教育中的主导地位及其对周边国家人才[[Attrition|流失]]和学术依赖的影响。他提到了中国将高等教育"用作全球影响力的工具"(p.102)，但没有展开分析这对亚洲其他国家高等教育自主性的影响。
-> - **"后疫情新国际化"愿景缺乏操作性** Rizvi 的结论部分提出了"对称性跨国连接"、"多元知识传统"等方向性原则，但这些原则如何从理念转化为制度和实践——例如，如何在实际的大学预算、排名压力和地缘政治现实约束下实现"超越商业逻辑的国际化"——未得到具体讨论。
+> - **"后疫情新国际化"愿景缺乏操作性** Rizvi 的结论部分提出了"对称性跨国连接"、"多元知识传统"等方向性原则，但这些原则如何从理念转化为制度和[[Praxis|实践]]——例如，如何在实际的大学预算、排名压力和地缘政治现实约束下实现"超越商业逻辑的国际化"——未得到具体讨论。
 > - **对 COVID-19 影响的分析受限于时间** 本章写作时疫情仍在发展中，Rizvi 的分析依赖于对早期趋势的观察和推断。疫情对国际学生流动的长期结构性影响、中美技术脱钩对[[Transnational Research Collaboration|跨国研究合作]]的具体后果、以及亚洲高等教育系统在后疫情时代的战略调整——这些问题在 2022 年仍无法得到确切回答。
 
 ## 来源

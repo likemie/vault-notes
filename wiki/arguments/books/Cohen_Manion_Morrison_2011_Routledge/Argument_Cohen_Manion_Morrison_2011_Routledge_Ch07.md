@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 70
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Research Purpose]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Research Scope]]"
   - "[[Realism in International Relations]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Front-loaded and End-loaded Research]]"
   - "[[Research Utilization]]"
@@ -66,6 +68,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Reflexivity]]"
   - "[[Trustworthiness]]"
+  - "[[Growth]]"
   - "[[Abstract]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -86,9 +89,12 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Participant Observation]]"
   - "[[Meta-analysis]]"
+  - "[[Semi-structured Interview]]"
   - "[[Documentary Analysis]]"
+  - "[[Cross-checking]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
+  - "[[Discourse Analysis]]"
   - "[[Group Interview]]"
   - "[[Focus Group]]"
   - "[[Qualitative Interview]]"
@@ -136,7 +142,7 @@ updated: 2026-07-13
 > - **情境与设计的直接对应**
 >   如果[[Research Purpose|研究目的]]是绘制领域全貌或做出可推广的论断，则调查方法配合[[Stratified Sampling|分层抽样]]可能是合适的选择；如果要评估特定干预的效果，则实验或[[Action Research|行动研究]]模型可能合适；如果需要对特定情境或群体进行深入理解，则[[Ethnography|民族志]]模型可能合适（p.118）。
 > - **识别跨情境的共同议题**
-> 尽管具体设计因目的不同而异，仍可以识别出一套所有研究者都需要面对的共同议题。本章正是处理这组议题，指示如何在实践中将一般的研究兴趣转化为可操作、可行的研究课题。
+> 尽管具体设计因目的不同而异，仍可以识别出一套所有研究者都需要面对的共同议题。本章正是处理这组议题，指示如何在[[Praxis|实践]]中将一般的研究兴趣转化为可操作、可行的研究课题。
 > - **规划即前瞻性约束**
 > 尽可能提前规划研究的每一个阶段。在研究开始后中途改变游戏规则必然导致问题。研究的条件和运作机制必须在事前敲定，研究才可信、合法且可行。
 
@@ -578,7 +584,7 @@ updated: 2026-07-13
 > | 环节 | 说明 |
 > |---|---|
 > | 数据处理与分析 | 数据收集后需要做什么——如何处理和分析数据？ |
-> | 验证与交叉检查 | 分析结果如何被验证、交叉检查和确证？ |
+> | 验证与[[Cross-checking\|交叉检查]] | 分析结果如何被验证、交叉检查和确证？ |
 
 > [!seq-table]- 13种质性数据分析技术
 > | 技术 | 简述 |
@@ -594,7 +600,7 @@ updated: 2026-07-13
 > | **行动研究分析** | 在行动—反思循环中分析实践变化，数据收集与行动干预同时推进 |
 > | **分析归纳（Denzin, 1970）** | 从个案出发逐步检验和修正假设，直到形成能解释所有案例的普遍命题 |
 > | **持续比较和扎根理论（Glaser and Strauss, 1967）** | 在数据收集与分析之间不断往返比较，从数据中涌现理论而非检验预设假设 |
-> | **话语分析（Stillar, 1998）** | 分析语言使用如何建构社会现实、权力关系和主体位置 |
+> | **[[Discourse Analysis\|话语分析]]（Stillar, 1998）** | 分析语言使用如何建构社会现实、权力关系和主体位置 |
 > | **传记和生命史（Atkinson, 1998）** | 以个体生命历程为分析单元，关注转折事件、自我叙事与社会结构的交互 |
 
 > [!warning] 选择标准
@@ -881,7 +887,7 @@ Furlong & Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（pp
 >   - 合理性（从实践者视角）
 >   - 反思与批评，发展反思性和自我反思的研究
 >   - 接受性
->   - 激励个人成长
+>   - 激励个人[[Growth|成长]]
 > - **经济维度（Economic dimension）**
 >   - 成本效益
 >   - 可市场化和竞争力
@@ -895,7 +901,7 @@ Furlong & Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（pp
 ## 关键引用
 
 > [!citation-card]- 研究规划的平衡本质
-> 研究的设置是一种平衡行为，需要协调计划的可能性与可操作的连贯实践，即调和"可以做/想做的事"与"真正能实行/能真正做到的事"之间的差异，因为归根结底，研究必须可行。（第7章, p.118）
+> 研究的设置是一种平衡行为，需要协调计划的可能性与可操作的连贯[[Praxis|实践]]，即调和"可以做/想做的事"与"真正能实行/能真正做到的事"之间的差异，因为归根结底，研究必须可行。（第7章, p.118）
 >
 > *The setting up of the research is a balancing act, for it requires the harmonizing of planned possibilities with workable, coherent practice, i.e. the resolution of the difference between what could be done/what one would like to do and what will actually work/what one can actually do, for, at the end of the day, research has to work.* (p.118)
 

@@ -6,7 +6,7 @@ aliases:
 summary: "用于分析高等教育社会空间如何由物质结构、空间想象和社会实践共同制造的框架。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,8 +18,10 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Conatus]]"
   - "[[Relational Space]]"
+  - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
+  - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Space Production]]"
   - "[[Geopolitics of Knowledge]]"
@@ -46,7 +48,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 高等教育空间制造（space-making in higher education）是 Simon Marginson（2022d, 2025）在 Lefebvre（1991）和 [[Doreen Massey]]（2005）的基础上提出的[[Analytic Framework|分析框架]]。社会空间不是预先存在的容器，而是由人类行动者通过持续[[Conatus|努力]]构建的、不断运动的关系性产物。Marginson 将高等教育中的[[Relational Space|关系性空间]]制造分析为三个维度的结合：（a）预先给定的历史-物质元素（结构）；（b）空间制造行动者的想象和解释；（c）行动者将愿景付诸物质形式的社会实践([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–4]])。
+> 高等教育空间制造（space-making in higher education）是 Simon Marginson（2022d, 2025）在 Lefebvre（1991）和 [[Doreen Massey]]（2005）的基础上提出的[[Analytic Framework|分析框架]]。社会空间不是预先存在的容器，而是由人类行动者通过持续[[Conatus|努力]]构建的、不断运动的关系性产物。Marginson 将高等教育中的[[Relational Space|关系性空间]]制造分析为三个维度的结合：（a）预先给定的历史-物质元素（结构）；（b）空间制造行动者的想象和解释；（c）行动者将愿景付诸物质形式的社会[[Praxis|实践]]([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–4]])。
 
 > [!quote]
 > "Social space is the outcome of prolonged and often strenuous past and present human effort."([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 3]])
@@ -69,8 +71,8 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **（a）物质元素（结构）** — 包括经济资源、机构和机构系统、传播网络、法律、法规、政策和使用语言等预先给定的结构([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 4]])
-- **（b）想象与解释** — 个体、群体和组织行动者对空间的构想和诠释。Marginson 指出，想象力与社会经验相互塑造，如 Archer（1995, 2003）所理论化的社会自我与内在自我的[[Reflexivity|反思性]]对话。例如，2002/2003 年中国大学规划者和伦敦杂志同时"想象"出一个可通过校准排名来排序的全球大学世界——两种来自不同地点的想象最终共同塑造了全球排名体系([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 4]])
-- **（c）社会实践** — 行动者运用领域（b）中的想法和解释，重新加工领域（a）中的物质元素，构建新的活动、项目和组织。这些嵌入性的物质实践随后成为领域（a）中持续运作的结构，形成循环——例如，新加坡邀请外国大学设立分校的实践改变了该国的物质性教育结构，又进一步塑造了后续的政策想象([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 4]])
+- **（b）想象与解释** — 个体、群体和组织行动者对空间的构想和诠释。Marginson 指出，想象力与社会经验相互塑造，如 Archer（1995, 2003）所理论化的社会自我与内在自我的[[Reflexivity|反思性]][[Dialogue in Education|对话]]。例如，2002/2003 年中国大学规划者和伦敦杂志同时"想象"出一个可通过校准排名来排序的全球大学世界——两种来自不同地点的想象最终共同塑造了全球排名体系([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 4]])
+- **（c）社会[[Praxis|实践]]** — 行动者运用领域（b）中的想法和解释，重新加工领域（a）中的物质元素，构建新的活动、项目和组织。这些嵌入性的物质实践随后成为领域（a）中持续运作的结构，形成循环——例如，新加坡邀请外国大学设立分校的实践改变了该国的物质性教育结构，又进一步塑造了后续的政策想象([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 4]])
 - **空间制造案例** — 大学签署协议、建立联盟、创建跨境联合学位；新加坡将自身定位为"[[Singapore Education Hub Policy|全球校园]]"并邀请外国大学设立分校；中国大学规划者和伦敦杂志在 2002/2003 年设想以校准排名来排序的大学世界；各国政府建设"世界一流大学"层级；欧盟和东盟建立区域认证协议；西方大学在东亚和东南亚设立分校；MOOC 的创建；研究者的跨国合作；数百万学生的跨境流动——所有这些都在制造高等教育的社会空间([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 4–5]])
 >
 > > **例：排名作为空间制造** — 2003 年 [[Academic Ranking of World Universities|ARWU]] 的创建是空间制造三维度同时运作的典型案例：（a）既有结构：美国大学的压倒性优势、英语作为全球科学语言、[[Document|文献]]计量数据库的既有偏斜；（b）想象：一个可排名、可比较的大学世界被"想象"出来；（c）实践：上海交通大学研究人员设计具体排名方法、收集数据、发布结果——这一实践随后重塑了全球大学的想象和行为([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 4–5]])。
@@ -82,14 +84,14 @@ updated: '2026-05-18'
 > [!tip]-
 > - [[Doreen Massey]] — Massey 的开放[[Ontology|本体论]]和[[Relational Space|关系性空间]]理论是本框架的直接基础，尤其是其"空间作为互动展开"和"总是有松散的末端"两个核心命题([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 3]])
 > - Lefebvre（1991） — [[Space Production|空间生产]]理论，强调空间既是社会产物又反过来塑造社会关系。Marginson 借用了 Lefebvre 的三元空间辩证法，但以 Massey 的关系性空间修正了 Lefebvre 的某些封闭倾向
-> - Archer（1995, 2003） — [[Reflexivity|反思性]]对话理论，为理解空间制造中"想象"维度的内在机制提供了微观基础([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 4]])
+> - Archer（1995, 2003） — [[Reflexivity|反思性]][[Dialogue in Education|对话]]理论，为理解空间制造中"想象"维度的内在机制提供了微观基础([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 4]])
 
 ---
 
 ## 应用领域
 
 > [!success]
-> - [[Geopolitics of Knowledge]] — 空间制造分析揭示了地缘政治关系如何通过物质结构、想象和实践三层机制在高等教育中被生产和再生产
+> - [[Geopolitics of Knowledge]] — 空间制造分析揭示了地缘政治关系如何通过物质结构、想象和[[Praxis|实践]]三层机制在高等教育中被生产和再生产
 > - [[Global Universities Rankings]] — 排名是空间制造的典型案例，详见 [[Global Universities Rankings#排名作为空间制造]]
 > - [[Internationalization of Higher Education]] — 国际化政策可作为空间制造来分析：国家政策是物质结构，跨国想象塑造政策方向，跨境流动是社会实践
 

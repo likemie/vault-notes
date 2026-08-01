@@ -10,15 +10,17 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
   - "[[Going Native]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
+  - "[[Praxis]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
@@ -58,11 +60,11 @@ updated: '2026-07-21'
 ## 定义
 
 > [!def] 核心定义
-> 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、对话教学和[[Critical Thinking|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，后者由教师作为知识权威主导课堂。近几十年来 LCE 在全球范围内被广泛推广，并在不同社会文化与考试体制中经历着深刻的[[Going Native|本土化]]再情境化。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
+> 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、[[Dialogue in Education|对话]]教学和[[Critical Thinking|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，后者由教师作为知识权威主导课堂。近几十年来 LCE 在全球范围内被广泛推广，并在不同社会文化与考试体制中经历着深刻的[[Going Native|本土化]]再情境化。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向打破教师单向灌输、强调以学生的学习体验、认知参与、自主探究与对话互动为重心的教学[[Paradigm|范式]]。
-> - **用途** 帮助研究者解构课堂权力关系，分析跨国教育[[Policy Borrowing|政策借用]]与本土教学实践之间的张力、[[Transfer Translation Transformation|转译]]及扩展性改造机制。
+> - **用途** 帮助研究者解构课堂权力关系，分析跨国教育[[Policy Borrowing|政策借用]]与本土教学[[Praxis|实践]]之间的张力、[[Transfer Translation Transformation|转译]]及扩展性改造机制。
 > - **边界** 在统一课程大纲与高利害升学考试约束下，LCE 的实施往往被重构为提升学习效率与高阶思维的认知工具，而排除了学生共决课程与评估形式的权力共享维度。
 
 > [!citation-card]- 关键表述
@@ -84,7 +86,7 @@ updated: '2026-07-21'
 > |---|---|---|---|
 > | **分析对象** | 以学生为主体、强调自主与对话的整体教学[[Paradigm\|范式]] | 以教师为知识权威和控制核心的讲授范式 | 关注学习者主观知识建构过程的[[Epistemology\|认识论]]与教学法 |
 > | **核心机制** | 内在动机驱动、已有经验联系、课堂对话与[[Critical Thinking\|批判性思维]] | 系统讲授、知识传授、精细练习与数据诊断提分 | 发现学习、认知冲突解决、社会文化互动与意义建构 |
-> | **知识观** | 知识在师生与生生对话协商中建构与深化 | 知识为客观确定的符号体系，需被记忆与掌握 | 知识由个人或共同体在情境中主观建构 |
+> | **知识观** | 知识在师生与生生[[Dialogue in Education\|对话]]协商中建构与深化 | 知识为客观确定的符号体系，需被记忆与掌握 | 知识由个人或共同体在情境中主观建构 |
 > | **教师角色** | 学习促进者（facilitator）、设计者与探究引导者 | 知识权威、课堂主导者与统考冲刺指挥官 | 认知支架提供者、情境创设者 |
 > | **[[Test-Based Accountability\|考试问责]]适应性** | 易被质疑效率低，但可被重构为攻克高阶考题与提升课堂吸收率的工具 | 与标准考核高度适配，风险低且能稳定输出中等分数 | 强调深度理解，与传统记忆型考核存在摩擦 |
 
@@ -95,7 +97,7 @@ updated: '2026-07-21'
 > [!feature] 核心要素
 > - **内在动机激发** 教学设计旨在调动学生的内在学习兴趣与探究欲望，而非仅依赖外部奖惩与考分威逼。
 > - **经验与生活联结** 学习内容与学生的日常生活经验、先验知识和真实情境建立紧密联系。
-> - **课堂对话与合作** 课堂组织包含密集的师生对话、生生合作与小组讨论，形成社会化学习共同体。
+> - **课堂[[Dialogue in Education|对话]]与合作** 课堂组织包含密集的师生对话、生生合作与小组讨论，形成社会化学习共同体。
 > - **尊重学生声音** 关注学生的表达权、学习感受与观点展示，在课堂对话中给予充分回应。
 > - **[[Critical Thinking|批判性思维]]培养** 课程与教学着力培养高阶分析、独立思考与质疑解答能力。
 > - **教师角色促进化** 教师从高高在上的讲台灌输者转变为学习过程的引导者与促进者。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
@@ -133,7 +135,7 @@ updated: '2026-07-21'
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **[[Test-Based Accountability\|考试问责]]与 LCE 协同机制** | LCE 可通过共享客体重构为提升高阶考分与课堂效率的工具，实现与应试的并行协同 | 高利害考试问责环境下谋求突破性提分的学校 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 598–602)]]; Schweisfurth (2015) |
-> | **跨文化再情境化与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式对话共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing\|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–603)]]; You (2019) |
+> | **跨文化再情境化与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式[[Dialogue in Education\|对话]]共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing\|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–603)]]; You (2019) |
 
 ---
 
@@ -179,7 +181,7 @@ updated: '2026-07-21'
 > [!debates] 学术争议
 >
 > > [!axis] 定义的模糊性与语境灵活性
-> > LCE 在全球实践中被赋予了多种甚至相互冲突的内涵。部分学者坚持严格的西方进步主义标准，而部分学者则主张摒弃二元对立，采用情境化、灵活的定义，认可不同文化对“以学生为中心”的差异化理解。
+> > LCE 在全球[[Praxis|实践]]中被赋予了多种甚至相互冲突的内涵。部分学者坚持严格的西方进步主义标准，而部分学者则主张摒弃二元对立，采用情境化、灵活的定义，认可不同文化对“以学生为中心”的差异化理解。
 > >
 > > - **Bremner（2021）** 呼吁采取情境化定义，尊重本地教育者对教育目的与教学法的理解。
 > > - **Schweisfurth（2013）** 强调应确立最低实施标准，防止 LCE 被任意泛化或标签化。
@@ -188,7 +190,7 @@ updated: '2026-07-21'
 > > 在将西方起源的 LCE 引入非西方语境时，存在[[Cultural Validity|文化适切性]]与“政策话语”与“课堂现实”割裂的争议。
 > >
 > > - **You（2019）** 指出存在[[Quality Education|素质教育]]修辞与[[Examination-Oriented Education|应试教育]]实质并存的二元系统，LCE 易流于形式。
-> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp. 601–602)]]** 认为 LCE 能与儒家启发式对话传统产生文化共振，在重构后可深植于本土实践。
+> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp. 601–602)]]** 认为 LCE 能与儒家启发式[[Dialogue in Education|对话]]传统产生文化共振，在重构后可深植于本土实践。
 >
 > > [!axis] 理想型民主公民培养与高利害应试环境的[[Pragmatic Paradigm|实用主义]]转向
 > > 理想型西方 LCE 强调培养民主公民与学生参与决策；但在高利害考试文化下，LCE 被转向为服务于提分与效率的实用认知工具。
@@ -206,7 +208,7 @@ updated: '2026-07-21'
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师，共 25 份访谈与文档[[Field Notes\|田野笔记]] | 质性多[[Case Study\|案例研究]]（Case Study），结合[[Third Generation Activity Theory\|第三代活动理论]]模板分析 | [[Test-Based Accountability\|考试问责]]与 LCE 改革双系统要素、共享目标建构、评课规则与教学行为 | 谋求突破的学校（城市二校冲击前 20%、农村二校 45 分钟效率）成功建立共享目标，实现双系统扩展性改造；维持顶尖（城市一校前 5%）与缺乏支撑学校（农村一校）改革停滞 | 质性转录与[[Qualitative Observation\|田野观察]] — | [[Sample Size Determination\|样本量]]为 4 所学校，属于小规模质性观察，结论具机制解释力但不具统计推论性 |
-> | [[Argument_Wang_2025_CE\|Schweisfurth (2013, 2015)]] | 全球多国跨国教育比较数据库与[[Document\|文献]] | 跨国比较分析与[[Policy Borrowing\|政策借用]]追踪 | LCE 政策移植、考试体制、教师角色与课堂实践 | 高利害标准化考试普遍构成 LCE 落地最大障碍；LCE 在不同文化语境中呈现高度差异化的[[Transfer Translation Transformation\|转译]]形态 | 比较分析 — | 跨国宏观观察，需结合具体国家微观学校案例 |
+> | [[Argument_Wang_2025_CE\|Schweisfurth (2013, 2015)]] | 全球多国跨国教育比较数据库与[[Document\|文献]] | 跨国比较分析与[[Policy Borrowing\|政策借用]]追踪 | LCE 政策移植、考试体制、教师角色与课堂[[Praxis\|实践]] | 高利害标准化考试普遍构成 LCE 落地最大障碍；LCE 在不同文化语境中呈现高度差异化的[[Transfer Translation Transformation\|转译]]形态 | 比较分析 — | 跨国宏观观察，需结合具体国家微观学校案例 |
 
 ---
 

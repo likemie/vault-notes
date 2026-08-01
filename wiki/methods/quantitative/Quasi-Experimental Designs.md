@@ -11,9 +11,9 @@ summary: "ESSA证据层级中对应中等证据的量化研究设计，核心判
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quasi-experimental-design
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Effect Size]]"
   - "[[Logic Model]]"
+  - "[[Praxis]]"
   - "[[Implementation Fidelity]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Pre-test and Post-test]]"
@@ -69,7 +70,7 @@ updated: 2026-05-23
 > [!example]
 > 同一个数学软件，如果对照组只是普通练习册，可能显示较大优势；如果对照组是已有证据支持的高质量小组辅导，[[Effect Size|效应量]]可能明显变小。这个差异不一定说明软件本身变差，而是比较条件改变了。
 
-反事实可行性也说明，证据审查不能只看“研究设计是否严格”。还需要报告对照条件的[[Logic Model|逻辑模型]]、使用强度、证据支持程度和实施质量，否则实践者很难判断研究效果是否能迁移到本地学校([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
+反事实可行性也说明，证据审查不能只看“研究设计是否严格”。还需要报告对照条件的[[Logic Model|逻辑模型]]、使用强度、证据支持程度和实施质量，否则[[Praxis|实践]]者很难判断研究效果是否能迁移到本地学校([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
 
 ## 适用场景
 
@@ -79,7 +80,7 @@ updated: 2026-05-23
 ## 局限性
 
 > [!warning]
-> QED 和 [[Randomised Controlled Trials|RCT]] 一样，若只报告对学生成就的统计显著效果，仍可能遗漏实践者真正需要的信息，如实施要求、用户满意度、成本、情境限制和项目使用强度。对低强度补充项目或复杂改革而言，这类信息会直接影响学校是否采用和持续使用项目([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112, 120-121]])。
+> QED 和 [[Randomised Controlled Trials|RCT]] 一样，若只报告对学生成就的统计显著效果，仍可能遗漏[[Praxis|实践]]者真正需要的信息，如实施要求、用户满意度、成本、情境限制和项目使用强度。对低强度补充项目或复杂改革而言，这类信息会直接影响学校是否采用和持续使用项目([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112, 120-121]])。
 
 > [!warning]
 > QED 的“中等证据”地位不等于所有 QED 证据都同样可用。若比较组[[Counterfactual|反事实]]较弱、[[Implementation Fidelity|实施忠实度]]不清楚、结果测量过窄，研究仍可能给实践者留下过度乐观或难以迁移的效果判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.112, 120-121]])。

@@ -9,7 +9,7 @@ aliases:
 summary: "使用相似测量工具评估同一构念时所得结果的一致性程度，属于跨形式之间一致性的等值系数"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Test-Retest Reliability]]"
   - "[[Construct]]"
+  - "[[Praxis]]"
   - "[[Internal Consistency]]"
 related_theories: []
 related_methods:
@@ -64,7 +65,7 @@ updated: 2026-07-13
 > 4. **判定** 高相关表明两套工具具有复本信度，可互为替代使用。
 
 > [!warning] 前提条件
-> 复本信度的有效性依赖于两套工具在测试目标和结构上的**高度一致性**——如果两套工具实质上测量了不同的[[Construct|构念]]或覆盖了不同的内容范围，即使相关系数很高也不代表真正的复本信度。开发真正等价的平行版本在实践中有相当难度。
+> 复本信度的有效性依赖于两套工具在测试目标和结构上的**高度一致性**——如果两套工具实质上测量了不同的[[Construct|构念]]或覆盖了不同的内容范围，即使相关系数很高也不代表真正的复本信度。开发真正等价的平行版本在[[Praxis|实践]]中有相当难度。
 
 ---
 
@@ -83,7 +84,7 @@ updated: 2026-07-13
 
 ## 争议与批评
 
-> [!warning] 实践难点
+> [!warning] [[Praxis|实践]]难点
 > - 开发真正等价的平行版本在操作上难度较高——两套工具需要在内容覆盖、难度分布、区分能力和测量目标上同时匹配。
 > - 如果两套工具施测时间不同，复本[[Reliability|信度]]与[[Test-Retest Reliability|重测信度]]会产生混淆——同时包含了跨形式和跨时间两种变异来源。
 > - 在教育研究中，由于开发成本高，复本信度的实际应用不如[[Internal Consistency|内部一致性]]和[[Test-Retest Reliability|重测信度]]普遍。

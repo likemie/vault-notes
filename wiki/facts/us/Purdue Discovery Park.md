@@ -12,9 +12,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
   - "region/us"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Innovation Park]]"
   - "[[Placemaking]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -58,5 +59,5 @@ Discovery District 目前涵盖纳米技术、先进计算等更广泛的研究�
 
 ## 运营影响
 
-Discovery District 的官网在突出研发成功的同时，也强调对潜在居民的综合价值——展示区域的可步行性、顶级公立学校和快速扩张的混合用途房地产和基础设施（p.132）。这体现了 [[TUFF]] [[Placemaking|场所营造]]理念中"不只是建筑，更是社区"的实践落地。
+Discovery District 的官网在突出研发成功的同时，也强调对潜在居民的综合价值——展示区域的可步行性、顶级公立学校和快速扩张的混合用途房地产和基础设施（p.132）。这体现了 [[TUFF]] [[Placemaking|场所营造]]理念中"不只是建筑，更是社区"的[[Praxis|实践]]落地。
 

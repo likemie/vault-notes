@@ -6,7 +6,7 @@ aliases:
 summary: "Caraça、Lundvall 和 Mendonça 提出的创新过程分析框架，将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念为核心要素，论证科学是创新过程中无处不在但非主宰性的多元知识来源之一"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Knowledge Exchange]]"
   - "[[Global Policy Space]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -106,4 +107,4 @@ updated: 2026-06-09
 > [!abstract]
 > 该模型对大学角色有直接的政策推论。在创新从 R&D 向 R 即 D 的转变中，大学需要发展更广泛的知识带宽（吸收组织洞见和营销创意），同时不削弱教学和基础科学研究的卓越性。大学与产业的日常[[Knowledge Exchange|知识交流]]——学者和学生在互动中与企业交换知识——比大学作为商业企业出售专利更为重要。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 866)]]
 
-该模型同时对教育研究有方法论启示。界面概念可用于分析教育机构如何从外部（如[[Global Policy Space|全球政策空间]]、研究网络、产业伙伴）识别和吸收新的教育理念和实践。三类知识池的区分有助于理解教育创新依赖的多元知识基础——不仅包括学习科学研究，还包括组织管理知识和学习者背景知识。
+该模型同时对教育研究有方法论启示。界面概念可用于分析教育机构如何从外部（如[[Global Policy Space|全球政策空间]]、研究网络、产业伙伴）识别和吸收新的教育理念和[[Praxis|实践]]。三类知识池的区分有助于理解教育创新依赖的多元知识基础——不仅包括学习科学研究，还包括组织管理知识和学习者背景知识。

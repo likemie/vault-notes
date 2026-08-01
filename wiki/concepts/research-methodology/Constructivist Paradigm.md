@@ -12,7 +12,7 @@ aliases:
 summary: "研究哲学与学习理论范式，主张主体通过社会互动与历史语境主动建构主观意义与知识，反对客观唯一的决定论，并在课程政策、国际关系与跨文化再脉络化中产生深远影响"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Causality]]"
   - "[[Recontextualization]]"
+  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Construct]]"
   - "[[Hypothesis]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Social Realism]]"
   - "[[Emergence]]"
   - "[[Progressive Education]]"
+  - "[[Dialogue in Education]]"
   - "[[Selective Affinity]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
@@ -96,7 +98,7 @@ updated: '2026-07-22'
 
 > [!concept-lens] 概念透镜
 > - **含义** 主观[[Epistemology|认识论]]与[[Ontology|本体论]]取向——现实与知识通过社会交往、符号中介工具及主体[[Reflexivity|反身性]]被不断建构与理解。
-> - **用途** 帮助研究者摆脱强[[Causality|因果推断]]与标准化预设，深入[[Qualitative Research|质性研究]]、课程变革、国际关系规范扩散与跨文化[[Recontextualization|再脉络化]]微观实践。
+> - **用途** 帮助研究者摆脱强[[Causality|因果推断]]与标准化预设，深入[[Qualitative Research|质性研究]]、课程变革、国际关系规范扩散与跨文化[[Recontextualization|再脉络化]]微观[[Praxis|实践]]。
 > - **边界** 不等于唯心主义或无边界的相对主义；不适合直接用于推导大规模控制实验的硬性因果[[Effect Size|效应量]][[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 1218)]]。
 
 > [!citation-card]- 关键表述
@@ -151,7 +153,7 @@ updated: '2026-07-22'
 > 探讨西方建构主义/[[Progressive Education|进步主义教育]]话语在进入非西方教育体制时，如何与本土文化传统相互作用，突破单纯的“政策移植”或“拒斥抵抗”框架。
 
 > [!claim] [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]
-> **儒家启发式对话与西方建构主义的[[Selective Affinity|选择性亲和]]** 西方以学生为中心教育（[[Learner-Centred Education|LCE]]）植根于建构主义与进步主义哲学；当其作为外来中介工具引入中国时，案例学校教师将其与[[Confucius|孔子]]“不愤不启，不悱不发”的对话传统及[[Lev Vygotsky|维果茨基]]社会文化理论产生选择性亲和（Selective Affinity）。教师消解了外来理念的异己感，将其重构为在[[Gaokao|高考]]与[[Test-Based Accountability|考试问责]]压力下培养高阶思考与提升课堂吸收率的本土工具，但受制于统一大纲而在课程决策权力共享上保留硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 591, 596, 601–602)]]
+> **儒家启发式[[Dialogue in Education|对话]]与西方建构主义的[[Selective Affinity|选择性亲和]]** 西方以学生为中心教育（[[Learner-Centred Education|LCE]]）植根于建构主义与进步主义哲学；当其作为外来中介工具引入中国时，案例学校教师将其与[[Confucius|孔子]]“不愤不启，不悱不发”的对话传统及[[Lev Vygotsky|维果茨基]]社会文化理论产生选择性亲和（Selective Affinity）。教师消解了外来理念的异己感，将其重构为在[[Gaokao|高考]]与[[Test-Based Accountability|考试问责]]压力下培养高阶思考与提升课堂吸收率的本土工具，但受制于统一大纲而在课程决策权力共享上保留硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 591, 596, 601–602)]]
 
 ---
 
@@ -192,7 +194,7 @@ updated: '2026-07-22'
 > - **1967 年 — 现实的社会建构经典化** — Berger & Luckmann 出版 *The Social Construction of Reality*，奠定社会建构主义理论基石。
 > - **1985 年 — [[Qualitative Research|质性研究]]方法论立头** — Lincoln & Guba 出版 *[[Interpretive Paradigm|naturalistic inquiry]]*，将建构主义明确为区别于正统[[Positivism|实证主义]]的质性[[Paradigm|研究范式]][[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch.1)]]。
 > - **1990 年代 — 国际关系学与课程政策扩展** — Wendt 等建立建构主义国际关系学；同时建构主义学习理论成为全球教育改革与新课程指引的核心哲学。
-> - **2020 年代 — 跨文化[[Recontextualization|再脉络化]]与实证反思** — [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] 揭示建构主义在跨国教师培训中与[[Confucius|孔子]]启发式对话的[[Selective Affinity|选择性亲和]]；同时[[Social Realism|社会实在论]]学者（[[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）展开对建构主义边缘化知识的深刻批判。
+> - **2020 年代 — 跨文化[[Recontextualization|再脉络化]]与实证反思** — [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] 揭示建构主义在跨国教师培训中与[[Confucius|孔子]]启发式[[Dialogue in Education|对话]]的[[Selective Affinity|选择性亲和]]；同时[[Social Realism|社会实在论]]学者（[[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）展开对建构主义边缘化知识的深刻批判。
 
 ---
 
@@ -219,7 +221,7 @@ updated: '2026-07-22'
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch.1)]] — 阐明建构主义世界观的四大[[Hypothesis|假设]]及其在[[Qualitative Research|质性研究]]设计中的核心地位。
-> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 揭示西方建构主义教学中介工具与中国儒家启发式对话传统产生的[[Selective Affinity|选择性亲和]]。
+> - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 揭示西方建构主义教学中介工具与中国儒家启发式[[Dialogue in Education|对话]]传统产生的[[Selective Affinity|选择性亲和]]。
 > - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] — 从[[Social Realism|社会实在论]]视角解构建构主义话语对课程中强[[Powerful Knowledge|有力知识]]的边缘化后果。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 运用建构主义国际关系学解释观念、规范与知识在全球教育治理中的建构性权力。
 > - [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 批评 Hattie 对建构主义[[Paradigm|范式]]的先验敌意及对其[[Effect Size|效应量]]的误导性评估。

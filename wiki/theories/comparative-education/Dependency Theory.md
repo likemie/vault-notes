@@ -8,7 +8,7 @@ aliases:
 summary: "1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心与边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因。后于 1990 年代至 2010 年代初演化为对高等教育领域“学术依附”与“学术新殖民主义”的地缘政治非自觉批判。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
   - "[[Value Neutrality]]"
+  - "[[Praxis]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -159,7 +160,7 @@ updated: 2026-07-09
 > > - **后/去殖民学者 (Silova / Mignolo)** 拒绝依附论的社会主义替代方案，指出社会主义依然是西方现代性的普遍主义宏大叙事产物，主张必须与西方认识型彻底脱钩以引入南方知识体系。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
 
 > [!critique] 外部批评
-> - **能动性的虚无主义** 批评者（如后殖民主义学者）指出，依附论过于强调资本主义世界体系对边缘教育系统的结构性决定作用，导致边缘本土学校和能动主体的微观反抗、选择性借用及杂糅实践在理论上被完全消解，沦为被动受害者。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
+> - **能动性的虚无主义** 批评者（如后殖民主义学者）指出，依附论过于强调资本主义世界体系对边缘教育系统的结构性决定作用，导致边缘本土学校和能动主体的微观反抗、选择性借用及杂糅[[Praxis|实践]]在理论上被完全消解，沦为被动受害者。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 428]])
 
 > [!warning] 适用局限
 > 在新自由主义全球化的分散权威与网络流转现实中，单纯的“中心-边缘”二元单向输送模型已难以有效囊括多尺度、多行动者（跨国公司、NGO、算法软件）[[Snowball Sampling|网络化]]政策博弈。([[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊, 2025, p. 5]])

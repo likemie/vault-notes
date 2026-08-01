@@ -6,7 +6,7 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,11 +15,13 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
+  - "[[Dialogue in Education]]"
   - "[[Champ]]"
   - "[[Ontology]]"
   - "[[Critical Thinking]]"
   - "[[Discipline-Based Theory]]"
   - "[[Professional Judgment]]"
+  - "[[Praxis]]"
   - "[[Knowledge Production]]"
 related_theories: []
 related_methods: []
@@ -65,7 +67,7 @@ updated: '2026-06-21'
 > | **知识定位** | 将知识视为存放在保险箱中的固定资产 (p.6) | 将学科视为探索现实生活世界现象的开放体系 (p.5) |
 
 > [!boundary]- 概念边界与关联
-> - **与[[Phenomenon-Based Learning|现象本位学习]]（Phenomenon-Based Learning, PhBL）的关联** 教学论是深厚的课程与教学理论传统，而现象本位学习是一种具体的跨学科教学取向。德国教育学家[[Wolfgang Klafki|沃尔夫冈·克拉夫基]]（Wolfgang Klafki）提出的[[Epochal Key Problems|时代关键问题]]（Epochal key problems）为现象本位学习选择教学现象与设计跨学科对话提供了核心理论支撑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
+> - **与[[Phenomenon-Based Learning|现象本位学习]]（Phenomenon-Based Learning, PhBL）的关联** 教学论是深厚的课程与教学理论传统，而现象本位学习是一种具体的跨学科教学取向。德国教育学家[[Wolfgang Klafki|沃尔夫冈·克拉夫基]]（Wolfgang Klafki）提出的[[Epochal Key Problems|时代关键问题]]（Epochal key problems）为现象本位学习选择教学现象与设计跨学科[[Dialogue in Education|对话]]提供了核心理论支撑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
 > - **有别于能力本位课程** 教学论关注知识的选择价值、人性的[[Bildung|教化]]目的与开放未来；而新自由主义主导的能力本位课程若被可测量指标主导，容易导致知识与技能的原子化碎片拆散，损害学科的深层逻辑。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5, 10]]
 
 ---
@@ -94,7 +96,7 @@ updated: '2026-06-21'
 > [[Discipline-Based Theory|学科理论]]知识是具有因果脉络的深层理论体系。课程必须维护学科自身的本体论深度与逻辑完整性，任何将系统知识拆散为横向能力或技能指标清单的能力本位改革都会损害其教化价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
 
 > [!claim] [[Wolfgang Klafki|沃尔夫冈·克拉夫基]]
-> 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为统合学科深度与跨学科对话的教学[[Champ|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
+> 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为统合学科深度与跨学科[[Dialogue in Education|对话]]的教学[[Champ|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 
 ---
 
@@ -124,7 +126,7 @@ updated: '2026-06-21'
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **中世纪大学时期 — [[Disciplina and Doctrina|规训]]与生成的词义分化** 欧洲教学实践中形成规训（disciplina，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> - **中世纪大学时期 — [[Disciplina and Doctrina|规训]]与生成的词义分化** 欧洲教学[[Praxis|实践]]中形成规训（disciplina，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家约翰·威廉·斯内尔曼（Johan Wilhelm Snellman）对[[Bildung|教化]]观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。
 > - **20世纪末 — 批判建设性教学论转向** 克拉夫基提出[[Epochal Key Problems|时代关键问题]]假说，旨在通过重组课程结构，使教育能直面社会的全球性正义与危机。
 > - **2014年 — 芬兰跨学科课程改革的理论统合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning\|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
@@ -136,7 +138,7 @@ updated: '2026-06-21'
 > [!debates] 学术争议
 > 
 > > [!abstract] 精英保守工具与社会解放之争
-> > 教学论在历史实践中常被批评容易沦为强化国家民族认同和维持精英阶级排他性的保守控制工具。但克拉夫基论证，经典的教学论与[[Bildung|教化]]传统在本质上具有激进的社会政治解放性，旨在通过重组课程结构，推动人与人之间的正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> > 教学论在历史[[Praxis|实践]]中常被批评容易沦为强化国家民族认同和维持精英阶级排他性的保守控制工具。但克拉夫基论证，经典的教学论与[[Bildung|教化]]传统在本质上具有激进的社会政治解放性，旨在通过重组课程结构，推动人与人之间的正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > 
 > > [!abstract]- 国家课程简化风险
 > > 教学论如果被简化为国家课程意识形态的传递工具，其设计的知识结构易流于精英保守主义，从而削弱其本应具备的个体解放与自我实现功能。

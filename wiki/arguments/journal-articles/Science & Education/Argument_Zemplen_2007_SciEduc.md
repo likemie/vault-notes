@@ -19,10 +19,13 @@ tags:
 related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
+  - "[[Praxis]]"
   - "[[IB Diploma Programme]]"
   - "[[Falsification]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Analytic Framework]]"
+  - "[[Ways of Knowing]]"
+  - "[[Areas of Knowledge]]"
   - "[[Scientism]]"
   - "[[Hypothesis]]"
   - "[[Homework]]"
@@ -42,6 +45,7 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Leading Questions]]"
+  - "[[Dialogue in Education]]"
   - "[[Lifelong Learning]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
@@ -51,6 +55,7 @@ related_theories:
   - "[[Toulmin's Argumentation Model]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Critical Incidents]]"
 related_instruments: []
 related_persons:
   - "[[Bruno Latour]]"
@@ -62,6 +67,7 @@ related_persons:
 related_facts:
   - "[[International Baccalaureate]]"
   - "[[EDEXCEL Perspectives on Science]]"
+  - "[[Gaokao]]"
 related_arguments: []
 sources:
   - "[[sources/Zemplen_2007_SciEduc/Zemplen_2007_SciEduc|Zemplen_2007_SciEduc]]"
@@ -74,9 +80,9 @@ title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 40
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 46
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Science & Education"
 book_title: ""
@@ -91,7 +97,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）课程同时追求两个目标：培养[[Critical Thinking|批判性思维]]（Critical Thinking，CT）的开放探究精神，以及维护科学作为权威知识形式的地位。这两个目标能否在同一门课程中真正共存？如果不能，它们的冲突在课程评估、教科书和课堂实践中如何具体表现？
+> [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）课程同时追求两个目标：培养[[Critical Thinking|批判性思维]]（Critical Thinking，CT）的开放探究精神，以及维护科学作为权威知识形式的地位。这两个目标能否在同一门课程中真正共存？如果不能，它们的冲突在课程评估、教科书和课堂[[Praxis|实践]]中如何具体表现？
 
 > [!claim] 核心主张
 > TOK 课程面临一个未被诊断的两难困境。要么与科学科目的议程兼容，但必须妥协批判性思维要素；要么认真对待批判性思维目标，但无法充分支持科学教育维护科学知识权威的诉求。这一张力普遍存在于任何试图将批判性思维课程嫁接在传统学科结构之上的课程改革中。
@@ -113,7 +119,7 @@ issuing_organization: ""
 > | **[[Duhem-Quine Thesis]]**<br>（迪昂-蒯因论题） | 不完全决定性（underdetermination）论题：逻辑本身无法唯一决定理论选择。用来解释为何简化版[[Falsification\|证伪主义]]不足以描述科学实践。 |
 
 > [!warrant]- 理论如何支撑论证
-> 分析以 [[Theory of Knowledge|TOK]] 课程的三个内在问题作为分析透镜，依次审查评估标准、教科书内容和课堂实践：
+> 分析以 [[Theory of Knowledge|TOK]] 课程的三个内在问题作为分析透镜，依次审查评估标准、教科书内容和课堂[[Praxis|实践]]：
 > - **核心推理桥梁** 如果一门课程声称培养批判性思维，却通过评估框架暗中[[Disciplina and Doctrina|规训]]学生使用特定术语和思维模式，那么它在进行另一种形式的灌输，恰好违背了课程自身的宗旨
 > - **更根本的悖论** 批判性思维课程创造的[[Analytic Framework|分析框架]]，如果本身不能被批判性思维所审查，就是一个自毁的体系
 
@@ -157,7 +163,7 @@ issuing_organization: ""
 > [[Theory of Knowledge|TOK]] 以培养[[Critical Thinking|批判性思维]]为宗旨，但它的评估框架催生了三种相互嵌套的扭曲效应。
 
 > [!feature] TOK 评估框架的三个结构性缺陷
-> - **框架问题（Framework-Problem）** 课程自创的术语（认知方式、知识领域等）反而成了评分依据，学生学会套用术语、模仿批判性反思的语气来获取分数。
+> - **框架问题（Framework-Problem）** 课程自创的术语（[[Ways of Knowing|认知方式]]、[[Areas of Knowledge|知识领域]]等）反而成了评分依据，学生学会套用术语、模仿批判性反思的语气来获取分数。
 > - **黑箱化（Black-Boxing）** 评估程序越可靠，人们就越少追问它在测量什么，讨论焦点从评估是否正确滑向评分是否一致。
 > - **批判性思维问题（Problem of Critical Thinking）** 课程期待的思维层次可能超出高中生的认知发展水平，评估测到的可能只是术语熟练度而非思维能力。
 
@@ -228,7 +234,7 @@ issuing_organization: ""
 > [!chain-link] 证伪主义如何被教科书简化（pp.175–176）
 > - **科学卡牌游戏引入范式概念** 教师用书建议用一个科学卡牌游戏来让学生熟悉科学过程。学生猜测教师按照什么算法接受或拒绝展示的卡片，目标是发现规则。与卡片相关的规则（红、黑、红……）比与外部环境相关的规则（女孩给出、男孩给出、女孩给出……）更容易发现。随后引入范式概念，作为尝试解决问题时所做的一组假设。同时基于这个模式识别游戏引入了一种朴素[[Scientific Method|科学方法]]模型。
 > - **证伪被确立为科学的严峻检验** 教科书中波普尔式的语气清晰可辨。Alchin 写道，最重要的一点是实验的严峻检验必须是证伪——证伪允许我们剔除不符合自然实际运作方式的理论，这对自然科学来说是绝对核心的，是我们消除失败的机制（Alchin, 2003a, p.13）。
-> - **教科书随后又自相反驳** Alchin 在其他地方表现出谨慎。他承认证伪从来不是简单的、也从来不是结论性的，它本应避免归纳问题，但根本没有解决归纳问题（Alchin, 2003a, pp.15–16）。他指出证伪主义不能描述科学实践。Imre Lakatos 早已指出这一点，另一位匈牙利流亡哲学家 Michael Polanyi 的观点也在书中被引用（Alchin, 2003b, p.22）。
+> - **教科书随后又自相反驳** Alchin 在其他地方表现出谨慎。他承认证伪从来不是简单的、也从来不是结论性的，它本应避免归纳问题，但根本没有解决归纳问题（Alchin, 2003a, pp.15–16）。他指出证伪主义不能描述科学[[Praxis|实践]]。Imre Lakatos 早已指出这一点，另一位匈牙利流亡哲学家 Michael Polanyi 的观点也在书中被引用（Alchin, 2003b, p.22）。
 > - **练习题却回到证伪标准** 尽管有这些保留，在让学生判断哪些主张是科学的、哪些不是的练习中（Alchin, 2003b, p.19），12 道题中有 8 道的区分标准在教师用书中被标注为可检验性（testability）（Alchin, 2003a, p.14）。
 > - **教科书反复出现波普尔式口号** 科学真理的本质是：一个主张永远不能被实验证明为正确，但可以被证明为错误（Alchin, 2003b, p.18）。科学主张是应该能够接受实验检验的主张（Alchin, 2003b, p.19）。这些表述与教科书自身对证伪局限性的承认存在直接矛盾。
 
@@ -397,7 +403,7 @@ issuing_organization: ""
 > [!warning] 科学史路径的局限与补充
 > - **内在论偏多** 目前将历史材料纳入科学教育的尝试大多只讲科学概念和实验的内部发展（内在论），很少涉及科学外部的社会、政治和经济脉络（外部论），STS 或科学知识社会学（Sociology of Scientific Knowledge，SSK）取向的方法尤其少见（Solbes & Traver, 2003）
 > - **不处理 SSI** 对 NOS 教育可能有用的详细案例研究往往不处理更广泛的 SSI 问题
-> - **关键事件作为补充** 一个可能的补救是使用课堂中的关键事件（critical incidents）。Nott & Wellington（1998）令人信服地论证了这些事件迫使教师展开对科学事业的解释，能够帮助引发关于 NOS 的有意义讨论。特别是那些处理 SSI 而非狭义 NOS 问题的关键事件，可能比寻找历史案例和案例研究更有效（pp.184–185）
+> - **关键事件作为补充** 一个可能的补救是使用课堂中的关键事件（[[Critical Incidents]]）。Nott & Wellington（1998）令人信服地论证了这些事件迫使教师展开对科学事业的解释，能够帮助引发关于 NOS 的有意义讨论。特别是那些处理 SSI 而非狭义 NOS 问题的关键事件，可能比寻找历史案例和案例研究更有效（pp.184–185）
 
 #### 路径二：语用辩证替代方案——用统一的论证理论协调 CT 和科学
 
@@ -444,7 +450,7 @@ issuing_organization: ""
 > 1. **从古希腊辩证法的根源开始**
 >    先讲一个简短的历史故事：公元前 5 世纪的雅典，公民大会和法庭上每天都有激烈的辩论。智者派（Sophists）收费教授说服术，声称可以让弱的论证变强；[[Socrates|苏格拉底]]和[[Plato|柏拉图]]则坚持论证应该追求真理，而不是单纯的修辞胜利。正是在这个环境中，民主制度和科学探究同时诞生，两者共享一个前提：通过理性的公开讨论来解决分歧，而不是靠暴力和权威。让学生讨论一个[[Leading Questions|引导性问题]]：如果我们班需要做一个决定（比如春游去哪里，什么规则能让讨论最公平、最可能得出好结果？
 > 2. **用柏拉图文本引发对规则的发现**
->    阅读柏拉图的《欧叙德谟篇》（*Euthydemus*, 293B–297B）选段。这段对话中，两个智者用诡辩术捉弄一个年轻人：你先承认你知道一些东西，他们就说所以你知道一切；你先承认你父亲是一条狗的儿子，他们就说所以你父亲是一条狗。对话读起来像一场闹剧，但学生很快会发现：诡辩之所以能成立，是因为缺少了某些规则（比如不能偷换概念、不能脱离语境。让学生分组讨论：如果你们是这场对话的裁判，你们会制定哪些规则来阻止这些诡辩？
+>    阅读柏拉图的《欧叙德谟篇》（*Euthydemus*, 293B–297B）选段。这段[[Dialogue in Education|对话]]中，两个智者用诡辩术捉弄一个年轻人：你先承认你知道一些东西，他们就说所以你知道一切；你先承认你父亲是一条狗的儿子，他们就说所以你父亲是一条狗。对话读起来像一场闹剧，但学生很快会发现：诡辩之所以能成立，是因为缺少了某些规则（比如不能偷换概念、不能脱离语境。让学生分组讨论：如果你们是这场对话的裁判，你们会制定哪些规则来阻止这些诡辩？
 > 3. **学生自己设定规则，做模拟辩论**
 >    各小组把规则贴在黑板上，全班合并成一份规则清单。典型的规则包括：发言者必须回应对方实际说过的话（不能歪曲）、可以质疑前提但不能人身攻击、论证必须与争议焦点相关、结论不能超出证据支持的范围。然后给出一个贴近学生生活的辩题（比如学校应不应该用算法来分班？，让学生用自己制定的规则进行一轮模拟辩论，全班观察哪些规则被遵守了、哪些被违反了。这个环节暴露了一个关键点：学生对权威的态度是矛盾的：他们既想要公正的裁判，又不完全信任任何一个裁判。这自然引出那谁来判定规则是否被违反的问题。
 > 4. **引入简化版语用辩证模型**
@@ -473,7 +479,7 @@ issuing_organization: ""
 > 2. **第二步：引入学生作为分析范畴**
 >    提出一个问题：作为一个学生，你和 CEO、工人、退休老人、政府官员看待科学政策有什么不同？学生是一个有特定利益的群体：他们还没进入劳动力市场，他们在接受教育，他们没有投票权，但他们将承受今天科学决策的长期后果。让学生阅读一段改写过的女性主义宣言（把女性替换为学生。引发的讨论：为什么这种替换既好笑又有道理？什么社会群体拥有制定规则的权力，什么群体只能接受规则？
 > 3. **第三步：选择 SSI 议题，从自身利益出发论证立场**
->    给出几个与学生利益直接相关的议题：学校是否应该用 AI 辅助评分？高考科目是否应该强制包含编程？校园是否应该禁用手机？社区附近的化工厂是否应该搬迁？每个小组选择一个议题，要求他们的论证必须明示：你所处的学生位置如何影响了你的立场。如果你是一个学校管理者、一个家长、一个科技公司 CEO，你的立场会有什么不同？为什么？
+>    给出几个与学生利益直接相关的议题：学校是否应该用 AI 辅助评分？[[Gaokao|高考]]科目是否应该强制包含编程？校园是否应该禁用手机？社区附近的化工厂是否应该搬迁？每个小组选择一个议题，要求他们的论证必须明示：你所处的学生位置如何影响了你的立场。如果你是一个学校管理者、一个家长、一个科技公司 CEO，你的立场会有什么不同？为什么？
 > 4. **第四步：意识到学生身份的暂时性**
 >    各组展示论证后，做一个[[Metacognition|元认知]]练习：设想五年后，你已经大学毕业、开始工作。你现在的立场还会一样吗？哪些方面会变？为什么？这个练习的目的不是让学生放弃自己的立场，而是让他们意识到：立场不来自真理，而来自你在这个社会结构中的位置。当你不再是学生时，你对教育政策、科技应用、环境风险的看法可能完全不同。这种意识本身就是曼海姆式的知识分子素养：能够超越自身社会位置来审视知识和社会安排。
 
@@ -483,7 +489,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **[[Theory of Knowledge|TOK]] 课程的评估框架以培养[[Critical Thinking|批判性思维]]为名，行术语[[Disciplina and Doctrina|规训]]之实** 框架问题使特定术语成为评分捷径；黑箱化使评估有效性免于追问；批判性思维问题使课程对思维水平的期待缺乏认知发展依据。这三个问题相互强化，造成课程在需要约束的层面（价值观和 CT 适用范围）过于松散，在不需约束的层面（术语使用和思维模式）施加了隐性规训。（pp.171–174）
-> 2. **Alchin 教科书的科学章节是两种议程不可调和的集中表现** 教科书内部的[[Falsification|证伪主义]]呈现存在自我矛盾：既承认证伪不能描述科学实践，又在练习题中复用可检验性作为科学划界标准。[[Paradigm|范式]]概念在文化讨论和科学讨论中被以两种互斥的方式使用。教科书层面的问题是课程结构矛盾的必然产物：课程结构迫使教科书作者回归简化版本。（pp.174–178）
+> 2. **Alchin 教科书的科学章节是两种议程不可调和的集中表现** 教科书内部的[[Falsification|证伪主义]]呈现存在自我矛盾：既承认证伪不能描述科学[[Praxis|实践]]，又在练习题中复用可检验性作为科学划界标准。[[Paradigm|范式]]概念在文化讨论和科学讨论中被以两种互斥的方式使用。教科书层面的问题是课程结构矛盾的必然产物：课程结构迫使教科书作者回归简化版本。（pp.174–178）
 > 3. **批判性思维与科学教育的冲突是结构性的，当独立 CT 课程被创建后，CT 从属于科学教育就不再合理** 在科学教育内部引入批判性思维要素时偏向[[Scientism|科学主义]]议程是可接受的，但一旦专门科目（如 TOK）被创建，继续将批判性思维从属于科学普及就失去了合法性。这一冲突在 Davson-Galle（2004）的调和尝试中清晰可见，也在 Donnelly（2002）& Good & Shymansky（2001）的坦承立场中得到了诚实但未充分反思的表达。（pp.178–181）
 > 4. **三种基于学术合法框架的解决路径各有适用尺度，但共同的缺失是一个顶层协调框架** HPS 路径用小规模课程模块取代过时的证伪主义叙事；语用辩证路径用统一的论证理论协调批判性思维教学和科学教学；学生利益路径重新定位学生为知识网络中的行动者而非被动接收者。三者都是基于课堂经验的初步探索，而非成熟的长期方案。真正的解决方案必须自上而下地设计一个协调的、明确的教育框架。（pp.182–190）
 
@@ -506,7 +512,7 @@ issuing_organization: ""
 >
 > *They all stem from a commitment to a framework: either Neurath's anti-foundationalist and pluralist positivism, or a general theory of argumentation that investigates how differences of opinion are (or can be) resolved, or a politically motivated approach to self-interest and negotiation in the social realm.*
 
-> [!citation-card]- 纽拉特的实践智慧
+> [!citation-card]- 纽拉特的[[Praxis|实践]]智慧
 > 不完全决定性是好事，因为它允许价值观在竞争理论之间做出选择，从而使进步的社会行动成为可能。承认科学不是[[Value Neutrality|价值无涉]]的、确实受价值驱动，反而允许一种更丰富但仍然实证主义的科学哲学路径（pp.183–184）。
 >
 > *Underdetermination was good because it allowed values to play a role in opting for one of the competing theories, and thus made progressive social action possible. To recognise that science is not value-free, and indeed is driven by values allows for a richer and nevertheless positivist approach.*

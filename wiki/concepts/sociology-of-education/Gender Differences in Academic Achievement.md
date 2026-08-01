@@ -5,7 +5,7 @@ aliases:
 summary: "学生学业表现中的性别差异现象，常用于分析学校规范适应、学习动机、行为评价和制度期待如何共同影响成绩分化。"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Effective Teaching]]"
   - "[[School Leadership]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Transactional Epistemology]]"
 related_methods: []
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[Effective Teaching]]：前者关注成绩差异"如何形成"，后者关注教学质量"如何促进学习"。
-> - vs [[School Leadership]]：前者以学生层面行为与评价机制为主，后者以组织和领导实践为主。
+> - vs [[School Leadership]]：前者以学生层面行为与评价机制为主，后者以组织和领导[[Praxis|实践]]为主。
 
 ## 理论基础
 

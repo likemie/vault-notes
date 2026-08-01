@@ -10,7 +10,7 @@ title: "Argument_Bolton_2017_ArchPsych"
 argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Working Memory]]"
+  - "[[Growth]]"
   - "[[Attentional Inertia]]"
   - "[[Synaptic Pruning]]"
   - "[[Hypothesis]]"
@@ -146,7 +147,7 @@ citation_aliases:
 
 > [!line-b] 脑发育生理机制
 > - **爆发性[[Synaptogenesis|突触发生]] (Synaptogenesis)** 7–12 个月期间，背外侧前额叶皮层 (Dorsolateral Prefrontal Cortex, dlPFC) 第 III 层锥体细胞 (Layer III Pyramidal Cells) 的树突突触连结迅速延伸并达到成人长度，该长度将维持到至少 27 岁（p.9）。
-> - **PFC 整体发育的延迟性** 尽管 dlPFC 锥体细胞连结生长迅速，但 PFC 整体树突连结到 2 岁时仅达到成人水平的一半，凸显了 PFC 发育的Protracted（延时）特征。
+> - **PFC 整体发育的延迟性** 尽管 dlPFC 锥体细胞连结[[Growth|生长]]迅速，但 PFC 整体树突连结到 2 岁时仅达到成人水平的一半，凸显了 PFC 发育的Protracted（延时）特征。
 > - **神经元体积与神经化学变化** 7.5–12 个月间 PFC 神经元胞体增大。多巴胺和乙酰胆碱等神经递质在 PFC 相对其他脑区发生快速的化学重组。至 12 个月时，PFC 的葡萄糖代谢 (Glucose Metabolism) 水平已达到成人水平，表明细胞代谢活动加剧，支撑了早期 EF 任务的执行。
 
 ---

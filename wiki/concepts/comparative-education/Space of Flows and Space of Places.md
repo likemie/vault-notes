@@ -9,7 +9,7 @@ aliases:
 summary: "Castells 提出的空间二分法，将社会空间区分为无需领土毗连的流动空间和附着于领土的地方空间，为分析全球教育话语的跨空间流通与转化提供了空间分析基础"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - region/global
   - theory/castells
 related_concepts:
+  - "[[Praxis]]"
   - "[[Methodological Nationalism]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Global Policy Space]]"
@@ -58,7 +59,7 @@ updated: 2026-06-24
 > [!def] 核心定义
 > 流动空间（Space of Flows）与地方空间（Space of Places）是 Castells（2000a）提出的空间二分法，旨在替代以民族国家为主要空间参照的分析方式。这一区分不依赖地缘政治边界来划分社会空间，而是以社会互动的组织形式为划分依据。
 > 
-> **地方空间（Space of Places）**指总体上附着于特定领土的社会互动场所。在传统社会中，时间共享的社会实践只能在同一地点的人之间发生，因此空间附着于地方（Giddens, 1990, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 349]]）。大多数人的生活、工作、学习和意义建构仍然围绕地方空间展开。
+> **地方空间（Space of Places）**指总体上附着于特定领土的社会互动场所。在传统社会中，时间共享的社会[[Praxis|实践]]只能在同一地点的人之间发生，因此空间附着于地方（Giddens, 1990, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 349]]）。大多数人的生活、工作、学习和意义建构仍然围绕地方空间展开。
 > 
 > **流动空间（Space of Flows）**指“允许社会实践在无需领土毗连的条件下同时发生的物质安排”（Castells, 2000b, p. 19, 引自）。信息技术的持续发展为流动空间提供了基础设施支持，将社会实践从传统的地理“地方”中脱嵌。
 
@@ -133,7 +134,7 @@ updated: 2026-06-24
 ## 围绕概念形成的命题
 
 > [!claim] 核[[Flow|心流]]转主张
-> 当定义信息时代“[[Educated Identity|受教育身份]]”的教育话语从[[Global Policy Space|全球政策空间]]（流动空间）移动 to 国家层面、再 to 以地方为基础的学校实践（地方空间）时，由于不同空间层面独特的结构属性与政治逻辑，话语经历了从去语境化的“[[Floating Signifier|漂浮能指]]”到“革新与保守并置”的混合政策，再到受物质条件及既有知识框架中介的“微观[[Going Native|本土化]][[Shape-Shifting|形变]]”的三阶段[[Transfer Translation Transformation|转译]]，最终其实践效果与原有全球意图发生了根本性偏离。([[Argument_Beech_2009_CE|Beech, 2009, p. 348]])
+> 当定义信息时代“[[Educated Identity|受教育身份]]”的教育话语从[[Global Policy Space|全球政策空间]]（流动空间）移动 to 国家层面、再 to 以地方为基础的学校[[Praxis|实践]]（地方空间）时，由于不同空间层面独特的结构属性与政治逻辑，话语经历了从去语境化的“[[Floating Signifier|漂浮能指]]”到“革新与保守并置”的混合政策，再到受物质条件及既有知识框架中介的“微观[[Going Native|本土化]][[Shape-Shifting|形变]]”的三阶段[[Transfer Translation Transformation|转译]]，最终其实践效果与原有全球意图发生了根本性偏离。([[Argument_Beech_2009_CE|Beech, 2009, p. 348]])
 
 ---
 
@@ -181,7 +182,7 @@ updated: 2026-06-24
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990 — 空间与地方的脱嵌 (Dislocation of Space from Place)** Giddens 于 1990 年提出，现代性及其技术手段使得社会互动不再依赖于地理上的身体共存，社会实践开始从特定的地理“地方”中脱离出来，空间不再完全附着于地方。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
+> - **1990 — 空间与地方的脱嵌 (Dislocation of Space from Place)** Giddens 于 1990 年提出，现代性及其技术手段使得社会互动不再依赖于地理上的身体共存，社会[[Praxis|实践]]开始从特定的地理“地方”中脱离出来，空间不再完全附着于地方。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
 > - **2000 — 空间二分法与[[Network Society|网络社会]]体系 (Network Society Formulation)** Castells (2000a, 2000b, 2000c) 进一步将脱嵌的空间形式化为“流动空间”与“地方空间”的二分法。他指出，流动空间是构成网络社会中同时性社会实践的物质和技术支撑；随着基础设施普及，流动空间也成为全球精英与草根力量（如工会、社会运动）激烈博弈的争议性空间。
 > - **2009 — 比较教育话语转移的分析工具 (Comparative Education Application)**[[Argument_Beech_2009_CE|Beech (2009)]] 将这一二分法引入比较教育学，用于打破该领域的“[[Methodological Nationalism|方法论民族主义]]”传统。他构建了一个“[[Global Policy Space|全球政策空间]]（流动空间）— 国家（交界）— 学校实践（地方空间）”的话语重语境化纵向流通模型，成为解释教育政策转移中“意义变异”的经典空间[[Analytic Framework|分析框架]]。
 
@@ -194,7 +195,7 @@ updated: 2026-06-24
 > - **流动空间与地方空间二分法 (Space of Flows/Places Duality) (红方)** 完全放弃国家作为默认空间参照，以非领土承载的流动网络和领土附着的生活地方为分析起点，解释跨越领土疆界的话语不对称性流动与重组。([[Argument_Beech_2009_CE|Beech, 2009, p. 349]])
 
 > [!warning] 局限与适用条件
-> - **流通路径的非唯一性** Beech 明确承认，他所勾勒的“[[Global Policy Space|全球政策空间]] → 国家层面 → 学校实践”路径并非话语流通的唯一可能路径。现实中存在绕过国家的全球学校网络直接交换，也存在对全球影响几乎完全不渗透的国家。([[Argument_Beech_2009_CE|Beech, 2009, p. 348]])
+> - **流通路径的非唯一性** Beech 明确承认，他所勾勒的“[[Global Policy Space|全球政策空间]] → 国家层面 → 学校[[Praxis|实践]]”路径并非话语流通的唯一可能路径。现实中存在绕过国家的全球学校网络直接交换，也存在对全球影响几乎完全不渗透的国家。([[Argument_Beech_2009_CE|Beech, 2009, p. 348]])
 > - **网络内部行动者逻辑的差异** 虽然流动空间对其中的[[Floating Signifier|漂浮能指]]生产有系统性的结构塑造作用，但不同行动者（如跨国企业、多边银行、教师工会）的具体组织逻辑、资源和谈判地位仍存在差异，需要具体的实证分析配合。([[Argument_Beech_2009_CE|Beech, 2009, p. 361]])
 
 ---
@@ -202,5 +203,5 @@ updated: 2026-06-24
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Beech_2009_CE|Beech (2009)]] — 经典应用，通过追踪拉美（阿根廷、巴西和玻利维亚）的课程改革，展示了“能力”和“多样性”如何从流动空间的去历史能指，转化为学校实践中的“概念混乱”与“尊重贫困”。
+> - [[Argument_Beech_2009_CE|Beech (2009)]] — 经典应用，通过追踪拉美（阿根廷、巴西和玻利维亚）的课程改革，展示了“能力”和“多样性”如何从流动空间的去历史能指，转化为学校[[Praxis|实践]]中的“概念混乱”与“尊重贫困”。
 > - [[Educated Identity|受教育身份]] (Educated Identity) — 关联条目，探讨在全球流动空间中被重新定义的“信息时代受教育身份”，如何在地方空间中被本土经验中介和改变。

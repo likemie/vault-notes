@@ -11,7 +11,7 @@ title: "Argument_Slavin_2021_ROE"
 argument_key: "Argument_Slavin_2021_ROE"
 argument_display_title: "How could evidence-based reform advance education? ECNU Review of Education, 4(1), 7–24"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
   - "[[School Leadership]]"
+  - "[[Praxis]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Operationalization]]"
   - "[[Document]]"
@@ -66,7 +67,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 以 Slavin (2008, 2013, 2017, 2020) 持续发展的[[Evidence-Based Education|证据本位教育]]改革理论为基础，将[[Evidence-Based Reform|证据本位改革]]定义为四项核心活动：(1) 找出什么在每门学科和年级最有效；(2) 让教育者和政策制定者了解被证明有效的项目；(3) 提供资源和激励使[[School Leadership|学校领导]]能够实施被证明有效的项目；(4) 创建政策和系统以持续增加有效实践的知识(p.9)。
+> 以 Slavin (2008, 2013, 2017, 2020) 持续发展的[[Evidence-Based Education|证据本位教育]]改革理论为基础，将[[Evidence-Based Reform|证据本位改革]]定义为四项核心活动：(1) 找出什么在每门学科和年级最有效；(2) 让教育者和政策制定者了解被证明有效的项目；(3) 提供资源和激励使[[School Leadership|学校领导]]能够实施被证明有效的项目；(4) 创建政策和系统以持续增加有效[[Praxis|实践]]的知识(p.9)。
 
 ## 研究方法
 
@@ -78,7 +79,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **[[Evidence-Based Reform|证据本位改革]]的必要性** 教育应跟随医学、农业、技术的先例——研究→开发→评估→推广的良性循环已在这些领域带来革命性进步。"直到最近，教育在任何重大程度上都未参与证据本位的实践或政策。然而教育没有理由不能跟随医学、农业、技术和工程的先例"(p.9-10)
+> 1. **[[Evidence-Based Reform|证据本位改革]]的必要性** 教育应跟随医学、农业、技术的先例——研究→开发→评估→推广的良性循环已在这些领域带来革命性进步。"直到最近，教育在任何重大程度上都未参与证据本位的[[Praxis|实践]]或政策。然而教育没有理由不能跟随医学、农业、技术和工程的先例"(p.9-10)
 > 2. **中国现状**[[Evidence-Based Education|证据本位教育]]研究在中国学术界快速增长——CNKI 收录文章从 1990 年 2 篇增至 2018 年 477 篇(p.11)。但证据本位研究在五种 CSSCI 期刊 2012-2016 年仅占约 20%(Wang, 2017)，袁振国估计总体不到 10%(p.13-14)
 > 3. **中国的制度建设** ECNU 自 2015 年起连续五年举办全国教育实证研究论坛，2017 年 14 所大学和 32 家 CSSCI 期刊联合发布"华东师范大学宣言"，提出 10 条推进措施(p.10-15)
 > 4. **中国学者的质疑(a)** 定义之争——广义（收集观察数据）vs 狭义（程序化、[[Operationalization|操作化]]、定量化）的"实证"理解分歧(Shi, 2017)；(b) 统计主义（statisticalism）批判——"聚焦方法而忽视问题，聚焦数据而忽视事实，聚焦格式而忽视思想"(Li, 2018, p.15-16)；(c) 教育价值不可量化——"教育的许多重要概念如目的、伦理和价值难以量化和观察"(Liu, 2017, p.16)；(d) 数据收集的现实困难——高质量数据获取受限、纵向数据成本、研究者培训不足(Yang et al., 2019, p.16)；(e) 实证研究不等于[[Quantitative Research|定量研究]]——潘洪建(2018)强调严谨的[[Qualitative Research|定性研究]]同样导致真实证据(p.16)
@@ -112,7 +113,7 @@ citation_aliases:
 > - 论文以论证性/倡导性为主，未提供新实验数据
 > - 对美英[[Evidence-Based Reform|证据本位改革]]成果的讨论偏向正面，未充分讨论批判[[Document|文献]]（如 Biesta et al.的系统批评）
 > - 中国部分主要依赖[[Primary and Secondary Documents|二手文献]]计量数据(Wang, 2017)，未独立收集原始数据
-> - 对中英美的比较以"最佳实践借鉴"为框架，未深入讨论政治体制和文化差异对政策转移的根本限制
+> - 对中英美的比较以"最佳[[Praxis|实践]]借鉴"为框架，未深入讨论政治体制和文化差异对政策转移的根本限制
 
 ## 来源
 

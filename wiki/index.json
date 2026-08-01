@@ -817,6 +817,16 @@
     ]
   },
   {
+    "title": "Areas of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Areas of Knowledge.md",
+    "aliases": [
+      "知识领域",
+      "AOK",
+      "areas of knowledge"
+    ]
+  },
+  {
     "title": "Atomisation of Knowledge and Skills",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Atomisation of Knowledge and Skills.md",
@@ -839,6 +849,17 @@
     "path": "wiki/concepts/curriculum/Constructive Alignment.md",
     "aliases": [
       "建构性对齐"
+    ]
+  },
+  {
+    "title": "Creativity, Action, Service",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Creativity, Action, Service.md",
+    "aliases": [
+      "CAS",
+      "创意、行动、服务",
+      "创意行动服务",
+      "Creativity Action Service"
     ]
   },
   {
@@ -886,6 +907,16 @@
     "path": "wiki/concepts/curriculum/Epochal Key Problems.md",
     "aliases": [
       "时代关键问题"
+    ]
+  },
+  {
+    "title": "Extended Essay",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Extended Essay.md",
+    "aliases": [
+      "拓展论文",
+      "EE",
+      "extended essay"
     ]
   },
   {
@@ -1025,6 +1056,16 @@
     ]
   },
   {
+    "title": "Ways of Knowing",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Ways of Knowing.md",
+    "aliases": [
+      "认知方式",
+      "WOK",
+      "ways of knowing"
+    ]
+  },
+  {
     "title": "EST Integrated Development",
     "type": "concept",
     "path": "wiki/concepts/education-economics/EST Integrated Development.md",
@@ -1138,6 +1179,16 @@
     ]
   },
   {
+    "title": "Active Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Active Learning.md",
+    "aliases": [
+      "主动学习",
+      "active learning",
+      "active learning model"
+    ]
+  },
+  {
     "title": "Axiology",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Axiology.md",
@@ -1145,6 +1196,21 @@
       "价值论",
       "axiological assumptions",
       "values in research"
+    ]
+  },
+  {
+    "title": "Banking Model of Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Banking Model of Education.md",
+    "aliases": [
+      "储蓄式教育",
+      "储蓄教育",
+      "储蓄型教育",
+      "储蓄概念",
+      "银行式教育",
+      "banking model of education",
+      "banking concept of education",
+      "passive learning"
     ]
   },
   {
@@ -1206,6 +1272,17 @@
     ]
   },
   {
+    "title": "Conscientization",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Conscientization.md",
+    "aliases": [
+      "批判意识觉醒",
+      "conscientização",
+      "conscientization",
+      "critical consciousness"
+    ]
+  },
+  {
     "title": "Critical Thinking",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Critical Thinking.md",
@@ -1214,6 +1291,35 @@
       "CT",
       "critical thinking skills",
       "critical thinking dispositions"
+    ]
+  },
+  {
+    "title": "Culture of Silence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Culture of Silence.md",
+    "aliases": [
+      "沉默文化",
+      "culture of silence"
+    ]
+  },
+  {
+    "title": "Democratic Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Democratic Education.md",
+    "aliases": [
+      "民主教育",
+      "democratic education"
+    ]
+  },
+  {
+    "title": "Dialogue in Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Dialogue in Education.md",
+    "aliases": [
+      "教育对话",
+      "对话",
+      "dialogue in education",
+      "educational dialogue"
     ]
   },
   {
@@ -1240,6 +1346,15 @@
       "基于脑的教育",
       "neuroscience in education",
       "brain science"
+    ]
+  },
+  {
+    "title": "Educative Experience",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Educative Experience.md",
+    "aliases": [
+      "教育性经验",
+      "Educative Experiences"
     ]
   },
   {
@@ -1281,7 +1396,19 @@
       "unexamined life",
       "the examined life",
       "Socratic examination",
-      "未经省察的生活不值得过"
+      "未经省察的生活不值得过",
+      "the unexamined life is not worth living"
+    ]
+  },
+  {
+    "title": "Experiential Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Experiential Learning.md",
+    "aliases": [
+      "经验学习",
+      "经验教育",
+      "experiential learning",
+      "experiential education"
     ]
   },
   {
@@ -1296,6 +1423,15 @@
     ]
   },
   {
+    "title": "Freedom of the Learner",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Freedom of the Learner.md",
+    "aliases": [
+      "学习者的自由",
+      "freedom of the learner"
+    ]
+  },
+  {
     "title": "Ganz-Methode",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Ganz-Methode.md",
@@ -1304,6 +1440,19 @@
       "整体方法",
       "整体进路",
       "Ganz Method"
+    ]
+  },
+  {
+    "title": "Growth",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Growth.md",
+    "aliases": [
+      "生长",
+      "成长",
+      "growth",
+      "教育即生长",
+      "deweyan growth",
+      "self-realization"
     ]
   },
   {
@@ -1382,6 +1531,15 @@
     ]
   },
   {
+    "title": "Mis-educative Experience",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Mis-educative Experience.md",
+    "aliases": [
+      "反教育经验",
+      "Mis-educative Experiences"
+    ]
+  },
+  {
     "title": "Multiplicity",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Multiplicity.md",
@@ -1425,6 +1583,28 @@
     ]
   },
   {
+    "title": "Praxis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Praxis.md",
+    "aliases": [
+      "实践",
+      "praxis",
+      "Freirean praxis",
+      "informed action"
+    ]
+  },
+  {
+    "title": "Problem-Posing Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Problem-Posing Education.md",
+    "aliases": [
+      "提问式教育",
+      "问题解决式教育",
+      "problem-posing education",
+      "problem posing"
+    ]
+  },
+  {
     "title": "Progressive Education",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Progressive Education.md",
@@ -1442,6 +1622,17 @@
     "path": "wiki/concepts/educational-philosophy/Queer Theory.md",
     "aliases": [
       "酷儿理论"
+    ]
+  },
+  {
+    "title": "Reflective Thinking",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Reflective Thinking.md",
+    "aliases": [
+      "反思性思维",
+      "反思性探究",
+      "reflective thinking",
+      "reflective inquiry"
     ]
   },
   {
@@ -1475,6 +1666,20 @@
     "aliases": [
       "社会实在论",
       "social realism"
+    ]
+  },
+  {
+    "title": "Socratic Elenchus",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Socratic Elenchus.md",
+    "aliases": [
+      "苏格拉底驳诘法",
+      "苏格拉底反诘法",
+      "Elenchus",
+      "Socratic elenchus",
+      "exetasis",
+      "Socratic questioning",
+      "Socratic method"
     ]
   },
   {
@@ -3372,6 +3577,17 @@
     ]
   },
   {
+    "title": "Assessment Backwash",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Assessment Backwash.md",
+    "aliases": [
+      "评估反拨",
+      "评价反拨",
+      "assessment washback",
+      "washback effect"
+    ]
+  },
+  {
     "title": "Classroom Learning Culture",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Classroom Learning Culture.md",
@@ -3490,6 +3706,25 @@
     ]
   },
   {
+    "title": "Learning by Doing",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Learning by Doing.md",
+    "aliases": [
+      "在做中学",
+      "从做中学",
+      "learning by doing"
+    ]
+  },
+  {
+    "title": "Learning Portfolio",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Learning Portfolio.md",
+    "aliases": [
+      "学习档案袋",
+      "学习档案"
+    ]
+  },
+  {
     "title": "Listening-Oriented Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Listening-Oriented Learning.md",
@@ -3575,6 +3810,18 @@
     ]
   },
   {
+    "title": "Teaching and Learning Activities",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teaching and Learning Activities.md",
+    "aliases": [
+      "教学与学习活动",
+      "教学学习活动",
+      "teaching/learning activities",
+      "TLA",
+      "TLAs"
+    ]
+  },
+  {
     "title": "Visible Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
@@ -3656,6 +3903,16 @@
       "认知来源",
       "cognitive source in learning socialization",
       "maternal cognitive source"
+    ]
+  },
+  {
+    "title": "Educative Conceptual Change",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Educative Conceptual Change.md",
+    "aliases": [
+      "教育性概念改变",
+      "教育性概念转变",
+      "educative conceptual change"
     ]
   },
   {
@@ -3865,6 +4122,27 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Simple View of Reading.md",
     "aliases": [
       "简单阅读观"
+    ]
+  },
+  {
+    "title": "SOLO Taxonomy",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/SOLO Taxonomy.md",
+    "aliases": [
+      "学习结果结构分类法",
+      "可观察学习结果结构分类法",
+      "Structure of the Observed Learning Outcome",
+      "SOLO"
+    ]
+  },
+  {
+    "title": "Student Learning Research",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Student Learning Research.md",
+    "aliases": [
+      "学生学习研究",
+      "student learning paradigm",
+      "学生学习范式"
     ]
   },
   {
@@ -5249,6 +5527,19 @@
     ]
   },
   {
+    "title": "Criterion-Referenced Test",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Criterion-Referenced Test.md",
+    "aliases": [
+      "标准参照测验",
+      "标准参照评估",
+      "criterion-referenced test",
+      "criterion-referenced assessment",
+      "Criterion-Referenced",
+      "标准参照"
+    ]
+  },
+  {
     "title": "Criterion-related Validity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Criterion-related Validity.md",
@@ -5466,6 +5757,18 @@
     "aliases": [
       "领域分析",
       "domain-level analysis"
+    ]
+  },
+  {
+    "title": "Domain-Referenced Test",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Domain-Referenced Test.md",
+    "aliases": [
+      "领域参照测验",
+      "领域参照评估",
+      "domain-referenced test",
+      "domain-referenced assessment",
+      "DRT"
     ]
   },
   {
@@ -5752,7 +6055,10 @@
     "path": "wiki/concepts/research-methodology/Habituation.md",
     "aliases": [
       "习惯化",
-      "habituation"
+      "habituation",
+      "德性习惯化",
+      "moral habituation",
+      "habituation in observation"
     ]
   },
   {
@@ -5782,6 +6088,18 @@
     "aliases": [
       "异质性",
       "研究间异质性"
+    ]
+  },
+  {
+    "title": "High-Stakes Testing",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/High-Stakes Testing.md",
+    "aliases": [
+      "高风险测验",
+      "高利害测验",
+      "高 stakes 测验",
+      "high stakes assessment",
+      "高风险评估"
     ]
   },
   {
@@ -6008,11 +6326,14 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Item Analysis.md",
     "aliases": [
+      "题目分析",
       "项目分析",
       "试题分析",
       "item discriminability",
+      "题目区分度",
       "项目区分度",
       "item difficulty",
+      "题目难度",
       "项目难度",
       "distractor analysis",
       "干扰项分析"
@@ -6301,19 +6622,16 @@
     ]
   },
   {
-    "title": "Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests",
+    "title": "Norm-Referenced Test",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests.md",
+    "path": "wiki/concepts/research-methodology/Norm-Referenced Test.md",
     "aliases": [
-      "常模参照、标准参照与领域参照测验",
       "常模参照测验",
-      "标准参照测验",
-      "领域参照测验",
+      "常模参照评估",
       "norm-referenced test",
-      "criterion-referenced test",
-      "domain-referenced test",
-      "NRT",
-      "DRT"
+      "norm-referenced assessment",
+      "Norm-Referenced",
+      "NRT"
     ]
   },
   {
@@ -6460,6 +6778,32 @@
     "aliases": [
       "测量的生产性",
       "测量的施行性"
+    ]
+  },
+  {
+    "title": "Personal Constructs",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Personal Constructs.md",
+    "aliases": [
+      "个人建构",
+      "personal construct"
+    ]
+  },
+  {
+    "title": "Placement, Formative, Diagnostic, and Summative Testing",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Placement, Formative, Diagnostic, and Summative Testing.md",
+    "aliases": [
+      "安置性、形成性、诊断性与总结性测验",
+      "安置性测验",
+      "形成性测验",
+      "诊断性测验",
+      "总结性测验",
+      "placement testing",
+      "formative testing",
+      "diagnostic testing",
+      "summative testing",
+      "四种测验时机类型"
     ]
   },
   {
@@ -7222,6 +7566,34 @@
       "教师即研究者",
       "practitioner based research",
       "实践者本位研究"
+    ]
+  },
+  {
+    "title": "Test Scoring and Weighting",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Test Scoring and Weighting.md",
+    "aliases": [
+      "测验计分与权重",
+      "测验计分",
+      "test scoring",
+      "测验权重",
+      "test weighting",
+      "计分与权重"
+    ]
+  },
+  {
+    "title": "Test Specifications and Test Blueprint",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Test Specifications and Test Blueprint.md",
+    "aliases": [
+      "测验规格与测验蓝图",
+      "测验规格",
+      "test specification",
+      "test blueprint",
+      "测验蓝图",
+      "table of specifications",
+      "matrix of test items",
+      "测验项目矩阵"
     ]
   },
   {
@@ -8345,6 +8717,16 @@
     ]
   },
   {
+    "title": "Three Levels of Teaching",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Three Levels of Teaching.md",
+    "aliases": [
+      "三层教学观",
+      "教学能力的三个层次",
+      "levels of teaching competence"
+    ]
+  },
+  {
     "title": "Appraisal Theory",
     "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Appraisal Theory.md",
@@ -8399,6 +8781,15 @@
     "aliases": [
       "neo-piagetian-theories",
       "新皮亚杰理论"
+    ]
+  },
+  {
+    "title": "Phenomenography",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Phenomenography.md",
+    "aliases": [
+      "现象图式学",
+      "现象描绘学"
     ]
   },
   {
@@ -8532,6 +8923,15 @@
     "aliases": [
       "图洛克官僚制理论",
       "官僚制理论"
+    ]
+  },
+  {
+    "title": "Personal Construct Theory",
+    "type": "theory",
+    "path": "wiki/theories/psychology/Personal Construct Theory.md",
+    "aliases": [
+      "个人建构理论",
+      "Kelly's Personal Construct Theory"
     ]
   },
   {
@@ -9033,6 +9433,17 @@
     "aliases": [
       "配额抽样",
       "quota sample"
+    ]
+  },
+  {
+    "title": "Repertory Grid Technique",
+    "type": "method",
+    "path": "wiki/methods/mixed/Repertory Grid Technique.md",
+    "aliases": [
+      "角色建构库测验",
+      "repertory grid",
+      "Role Construct Repertory Grid Test",
+      "Rep Grid"
     ]
   },
   {
@@ -9823,6 +10234,18 @@
     ]
   },
   {
+    "title": "Angoff Method",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Angoff Method.md",
+    "aliases": [
+      "安戈夫方法",
+      "安戈夫切分点法",
+      "Angoff标准设定法",
+      "Angoff cut-off method",
+      "Angoff procedure"
+    ]
+  },
+  {
     "title": "Between-Subjects and Within-Subjects Designs",
     "type": "method",
     "path": "wiki/methods/quantitative/Between-Subjects and Within-Subjects Designs.md",
@@ -9944,6 +10367,20 @@
       "横截面调查",
       "cross-sectional survey",
       "cross-sectional design"
+    ]
+  },
+  {
+    "title": "Ebel Method",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Ebel Method.md",
+    "aliases": [
+      "埃贝尔方法",
+      "埃贝尔切分点法",
+      "Ebel标准设定法",
+      "Ebel cut-off method",
+      "Ebel procedure",
+      "Ebel difficulty-relevance matrix",
+      "难度相关度矩阵法"
     ]
   },
   {
@@ -10793,6 +11230,15 @@
     ]
   },
   {
+    "title": "Bob Darwish",
+    "type": "person",
+    "path": "wiki/persons/canada/Bob Darwish.md",
+    "aliases": [
+      "Darwish, B.",
+      "鲍勃·达维什"
+    ]
+  },
+  {
     "title": "Carl Bereiter",
     "type": "person",
     "path": "wiki/persons/canada/Carl Bereiter.md",
@@ -11394,6 +11840,14 @@
     ]
   },
   {
+    "title": "Aristotle",
+    "type": "person",
+    "path": "wiki/persons/greece/Aristotle.md",
+    "aliases": [
+      "亚里士多德"
+    ]
+  },
+  {
     "title": "Plato",
     "type": "person",
     "path": "wiki/persons/greece/Plato.md",
@@ -11592,6 +12046,14 @@
     "aliases": [
       "Simpson, A.",
       "阿德里安·辛普森"
+    ]
+  },
+  {
+    "title": "Alec Peterson",
+    "type": "person",
+    "path": "wiki/persons/uk/Alec Peterson.md",
+    "aliases": [
+      "亚历克·皮特森"
     ]
   },
   {
@@ -12058,6 +12520,16 @@
     ]
   },
   {
+    "title": "George Kelly",
+    "type": "person",
+    "path": "wiki/persons/us/George Kelly.md",
+    "aliases": [
+      "凯利，G.",
+      "Kelly, G. A.",
+      "George A. Kelly"
+    ]
+  },
+  {
     "title": "Gita Steiner-Khamsi",
     "type": "person",
     "path": "wiki/persons/us/Gita Steiner-Khamsi.md",
@@ -12101,6 +12573,15 @@
     "aliases": [
       "Blalock, H.",
       "赫伯特·布莱洛克"
+    ]
+  },
+  {
+    "title": "Hilda Taba",
+    "type": "person",
+    "path": "wiki/persons/us/Hilda Taba.md",
+    "aliases": [
+      "Taba, H.",
+      "希尔达·塔巴"
     ]
   },
   {
@@ -14368,8 +14849,7 @@
     "type": "fact",
     "path": "wiki/facts/us/CNCS Evidence Exchange.md",
     "aliases": [
-      "CNCS证据交流平台",
-      "EE"
+      "CNCS证据交流平台"
     ]
   },
   {
@@ -15169,9 +15649,19 @@
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24.md"
   },
   {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25.md"
+  },
+  {
     "title": "Argument_Creswell_2022_SAGE",
     "type": "argument",
     "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
+  },
+  {
+    "title": "Argument_Darwish_2009_Queens",
+    "type": "argument",
+    "path": "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md"
   },
   {
     "title": "Argument_Bang_2025_ClinicalTrials",
@@ -15612,6 +16102,11 @@
     "title": "Argument_Schulze-Cleven_2017_HighEduc",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HighEduc.md"
+  },
+  {
+    "title": "Argument_Biggs_1999_HERD",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Biggs_1999_HERD.md"
   },
   {
     "title": "Argument_Wong_2022_HERD",

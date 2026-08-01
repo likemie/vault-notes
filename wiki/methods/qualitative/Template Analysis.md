@@ -7,7 +7,7 @@ summary: "一种结合归纳开放编码与演提先验理论模板的质性文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"
@@ -54,7 +55,7 @@ updated: '2026-07-22'
 
 > [!method-scope] 方法范围
 > - **研究对象** 质性访谈[[Transcription in Qualitative Research|转录]]稿、教研文档、观察[[Field Notes|田野笔记]]与政策文本。
-> - **问题类型** 适合回答复杂组织变革、理论框架演进、实践机制解构与多案例比较分析问题。
+> - **问题类型** 适合回答复杂组织变革、理论框架演进、[[Praxis|实践]]机制解构与多案例比较分析问题。
 > - **分析单位** 文本片段、编码节点、主题、案例或活动系统要素。
 > - **输出形式** 层次化编码模板、主题节点树、理论要素映射表与跨案例对比图景。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 593)]]
 

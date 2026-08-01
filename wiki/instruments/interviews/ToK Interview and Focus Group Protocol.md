@@ -22,6 +22,8 @@ tags:
   - instrument/interview
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Praxis]]"
+  - "[[Dialogue in Education]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -51,8 +53,8 @@ updated: 2026-07-01
 > [!instrument-profile] ToK 访谈与[[Focus Group|焦点小组]]协议
 > - **工具类型** [[Semi-structured Interview|半结构化访谈]]与焦点小组工具，适用于教师、学生和行政人员三类受访群体。
 > - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
-> - **测量目的** 收集受访者对 ToK 课程价值、[[Critical Thinking|批判性思维]]教学实践、学校实施方式和自身经验的主观看法。
-> - **实施方式** 研究者进入学校进行面对面访谈（教师 40 分钟/人）和焦点小组（学生 30 分钟/组，4–7 人），以预设问题为指引进行半结构化对话。
+> - **测量目的** 收集受访者对 ToK 课程价值、[[Critical Thinking|批判性思维]]教学[[Praxis|实践]]、学校实施方式和自身经验的主观看法。
+> - **实施方式** 研究者进入学校进行面对面访谈（教师 40 分钟/人）和焦点小组（学生 30 分钟/组，4–7 人），以预设问题为指引进行半结构化[[Dialogue in Education|对话]]。
 
 ---
 
@@ -66,7 +68,7 @@ updated: 2026-07-01
 > | ToK 课程体验 | 4 | ToK 的有效性、改进方向、个人意义、与 [[International Baccalaureate\|IB]] 学习的关系 | 定性[[Coding in Qualitative Research\|编码]] |
 > | 批判性思维理解 | 7 | 批判性思维的定义、可教性、要素、特质、标准、效用、必要技能 | 定性编码 |
 > | CT 与 ToK 的关联 | 3 | CT 与 ToK 的关系、CT 在 ToK 中的评价方式、CT 改进路径 | 定性编码 |
-> | 课堂实践与态度 | 4 | CT 在课堂中的诱发方式、学校对 CT/ToK 的态度、好课标准、自我评价 | 定性编码 |
+> | 课堂[[Praxis\|实践]]与态度 | 4 | CT 在课堂中的诱发方式、学校对 CT/ToK 的态度、好课标准、自我评价 | 定性编码 |
 > | 身份与哲学 | 2 | ToK/CT 与身份的关系、对哲学及其与 ToK 关系的理解 | 定性编码 |
 
 ---
@@ -97,7 +99,7 @@ updated: 2026-07-01
 > | 12 | CT 与 ToK 的关联 | 批判性思维与 ToK 之间是什么关系？<br><small>What is the relationship between critical thought and ToK?</small> | — | 同上 |
 > | 13 | CT 与 ToK 的关联 | ToK 如何评估批判性思维的表现？<br><small>How is performance in critical thought evaluated through ToK?</small> | 评估过程可以如何改进？ | 同上 |
 > | 14 | CT 与 ToK 的关联 | 批判性思维可以改进吗？<br><small>Can critical thinking be improved?</small> | 如何改进？ | 同上 |
-> | 15 | 课堂实践与态度 | 批判性思维在课堂中是如何被激发的？<br><small>How is involvement with critical thinking induced in the classroom?</small> | — | 同上 |
+> | 15 | 课堂[[Praxis\|实践]]与态度 | 批判性思维在课堂中是如何被激发的？<br><small>How is involvement with critical thinking induced in the classroom?</small> | — | 同上 |
 > | 16 | 课堂实践与态度 | 学校中对批判性思维和 ToK 持有什么态度？<br><small>What attitudes to critical thinking and ToK do you find in your school?</small> | 能否解释原因？ | 同上 |
 > | 17 | 课堂实践与态度 | 一堂好的 ToK 或批判性思维课是什么样的？<br><small>What is a good ToK or critical thinking class?</small> | 为什么？ | 同上 |
 > | 18 | 课堂实践与态度 | 你擅长 ToK 或批判性思维吗？<br><small>Are you good at ToK or critical thinking?</small> | 能否解释原因？ | 同上 |

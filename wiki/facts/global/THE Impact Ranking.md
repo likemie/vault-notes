@@ -11,9 +11,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -21,6 +21,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Academic Freedom]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -74,7 +75,7 @@ updated: '2026-06-02'
 > [!example]
 > THE Impact Ranking 的方法论特征([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.147, 154]])：
 > - 基于 11 项 [[UN Sustainable Development Goals|SDGs]]（大学自选其中 10 项，SDG 17 为强制）。
-> - 指标涵盖大学在[[Academic Freedom|学术自由]]、雇佣政策、性别平等、气候行动和可持续城市等方面的政策和实践。
+> - 指标涵盖大学在[[Academic Freedom|学术自由]]、雇佣政策、性别平等、气候行动和可持续城市等方面的政策和[[Praxis|实践]]。
 > - 强调大学作为他者的社会嵌入性——不仅评估大学自身的运营，也评估其对更广泛社会的影响。
 > - SDG 17（促进目标实现的伙伴关系）为强制报告指标，反映了大学通过元组织和跨部门联盟联合应对全球问题的趋势。
 

@@ -8,7 +8,7 @@ aliases:
 summary: "在国际教育政策比较中，被其他国家视为教育政策借用的理想典范或制度模板的社会，通常由国际评估排名（如 PISA）所塑造，其选择受排名、文化亲近性、地缘经济和政治制度的多重影响"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
+  - "[[Praxis]]"
   - "[[Cross-National Attraction]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Nordic Model of Education]]"
@@ -59,7 +60,7 @@ updated: 2026-07-10
 > [!concept-lens] 概念透镜
 > - **含义** 在国际评估排名中表现突出的国家或地区，其教育体系成为其他国家效仿、借鉴或参照的对象。PISA 将各国教育体系置于同一比较框架中，高排名国家自动获得模范地位。
 > - **用途** 用于分析国际教育政策借用中的方向性问题：为什么某些国家成为被广泛借鉴的模范，而另一些排名同样出色的国家或地区却较少被模仿；参考社会的选择如何随时间、地缘政治格局和 PISA 周期的演进而动态变化。
-> - **边界** 参考社会不等于最佳实践的客观集合。参考社会的选择本身是政治性的，受文化偏见、地缘关系和历史传统的影响。政策借用通常是选择性的、修辞性的和仪式性的，不等于全面复制。参考社会也不等于[[Policy Borrowing|政策借用]]本身——参考社会是借用的方向目标，政策借用是借用的行为过程。
+> - **边界** 参考社会不等于最佳[[Praxis|实践]]的客观集合。参考社会的选择本身是政治性的，受文化偏见、地缘关系和历史传统的影响。政策借用通常是选择性的、修辞性的和仪式性的，不等于全面复制。参考社会也不等于[[Policy Borrowing|政策借用]]本身——参考社会是借用的方向目标，政策借用是借用的行为过程。
 
 > [!citation-card]- 关键表述
 > "At the intermediate nation-state level, PISA and its international rankings set up model societies for policy borrowing (that is, the transfer of policy from one country to another). In other words, PISA provides an institutional template for countries to follow in implementing education reforms and suggests alternative policy options."（[[Argument_Li_2025_HSSC|Li et al., 2025]]）
@@ -85,7 +86,7 @@ updated: 2026-07-10
 > - **参考社会的动态变化** 参考社会随 PISA 周期和地缘格局演进而动态转换。不同国家在 PISA 排名驱动下调整政策借鉴方向，参考社会的更替反映了全球教育治理格局中权力和注意力的重新分配（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 > - **间接影响机制** 高排名国家将 PISA 结果解释为对本国政策的认可，即使政策未被直接复制，PISA 的关键概念、测量技术也被间接纳入他国教育政策话语（Rautalin & Alasuutari, 2009）。
 > - **文化偏见与选择性参照** 参考社会的选择受文化亲近性影响——西方决策者可能优先参照[[Nordic Model of Education|北欧模式]]而非东亚高表现体系，即使后者在排名上并不逊色（Dobbins & Martens, 2012）。
-> - **与 OECD 软治理的协同** 参考社会的设立是 OECD 软治理的核心组成部分——OECD 通过在超国家层级建立模范社会，使各国在最佳实践的话语压力下调整政策方向，无需施加法律强制（Martens & Niemann, 2013）。
+> - **与 OECD 软治理的协同** 参考社会的设立是 OECD 软治理的核心组成部分——OECD 通过在超国家层级建立模范社会，使各国在最佳[[Praxis|实践]]的话语压力下调整政策方向，无需施加法律强制（Martens & Niemann, 2013）。
 
 ---
 
@@ -146,7 +147,7 @@ updated: 2026-07-10
 ## 争议与批评
 
 > [!critique] 文化偏见与西方中心主义
-> - **参考社会选择中的文化偏见** [[Argument_Li_2025_HSSC|Li et al. (2025)]]明确指出：上海的高 [[PISA]] 分数引发了西方国家关注亚洲教育实践，但这些国家可能仍受文化偏见影响，倾向于在非东方文化背景中寻找参考对象。即使东亚教育体系持续表现优异，芬兰等北欧国家仍是西方决策者优先参照的对象——这表明参考社会的选择不仅是技术排名问题，也是文化政治问题。
+> - **参考社会选择中的文化偏见** [[Argument_Li_2025_HSSC|Li et al. (2025)]]明确指出：上海的高 [[PISA]] 分数引发了西方国家关注亚洲教育[[Praxis|实践]]，但这些国家可能仍受文化偏见影响，倾向于在非东方文化背景中寻找参考对象。即使东亚教育体系持续表现优异，芬兰等北欧国家仍是西方决策者优先参照的对象——这表明参考社会的选择不仅是技术排名问题，也是文化政治问题。
 > - **PISA 排名的去情境化风险** PISA 受益于其去情境化（de-contextualization）和普遍性特征（Grek, 2010），但这种去情境化使不同政治、文化和历史背景的教育体系可在同一量表中被排列和比较——忽略了教育体系的社会嵌入性和[[Incommensurability|不可通约性]]。参考社会的确立可能掩盖了排名背后的文化特殊性和制度条件。
 
 > [!warning] 概念边界与局限

@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Tracking]]"
   - "[[5-3-20 Rule]]"
   - "[[Research Question]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -146,7 +147,7 @@ updated: '2026-05-18'
 > [!example] 实施情况
 > 截至 2015 年，[[What Works Clearinghouse|WWC]] 基于 [[Single-Case Design|SCD]] 证据的报告数量"极少"（minimal），导致对标准实际应用的公开信息有限([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.461]])。Hitchcock et al. 希望随着更多报告的发布，"该领域将更容易理解审查过程"（p.467）。
 >
-> 标准本身被描述为"试行"（Pilot），暗示它们需要在实践中被检验和修订。作者明确表示 5-3-20 规则"可能在积累艰难的审查经验后被重新审视"（p.467）。
+> 标准本身被描述为"试行"（Pilot），暗示它们需要在[[Praxis|实践]]中被检验和修订。作者明确表示 5-3-20 规则"可能在积累艰难的审查经验后被重新审视"（p.467）。
 
 ## 效果与评价
 

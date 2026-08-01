@@ -7,7 +7,7 @@ summary: "英国比较教育与课程研究学者，香港课程政治与政策�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Praxis]]"
   - "[[Rationalism in International Relations]]"
   - "[[International Schools]]"
   - "[[IB Diploma Programme]]"
@@ -52,7 +53,7 @@ updated: 2026-07-13
 > [!info] 核心思想
 > Morris 的核心学术关切是**全球化论述如何在教育政策中被工具化**，以及**国家权力如何通过课程变革施加控制**。他的研究贯穿两个相互关联的主题：
 >
-> 1. **[[Policy Borrowing|政策借用]]中的修辞性参照** 国家引用全球教育趋势（如 [[PISA]]、[[Lifelong Learning|终身学习]]、[[Knowledge-Based Economy|知识经济]]）通常是为了合法化国内议程，而非真正追求国际最佳实践。这与 Steiner-Khamsi 的政策借用框架一脉相承。（You & Morris, 2016; Auld & Morris, 2016）
+> 1. **[[Policy Borrowing|政策借用]]中的修辞性参照** 国家引用全球教育趋势（如 [[PISA]]、[[Lifelong Learning|终身学习]]、[[Knowledge-Based Economy|知识经济]]）通常是为了合法化国内议程，而非真正追求国际最佳[[Praxis|实践]]。这与 Steiner-Khamsi 的政策借用框架一脉相承。（You & Morris, 2016; Auld & Morris, 2016）
 >
 > 2. **威权国家主义与教育的国安化** 在后 2019 香港语境下，教育从社会流动的工具转变为国家安全和民族建构的手段。Morris 与 Vickers 合作，分析了《国安法》如何加速了香港教育的"大陆化"。（Vickers & Morris, 2022）
 >
@@ -63,7 +64,7 @@ updated: 2026-07-13
 > [!success] 主要贡献
 > - [[Policy Borrowing]] — 与 Steiner-Khamsi 的政策借用框架保持一致，以香港为案例深化了对"借用"政治性的理解
 > - [[Liberal Studies]] — 与 Yan 合作的 2025 年论文是 LS 兴衰的权威分析
-> - **[[PISA]] 的政治解读** — Auld & Morris (2016) 揭示了 PISA 如何通过"翻译和说服"将复杂的教育条件转化为跨国"最佳实践"
+> - **[[PISA]] 的政治解读** — Auld & Morris (2016) 揭示了 PISA 如何通过"翻译和说服"将复杂的教育条件转化为跨国"最佳[[Praxis|实践]]"
 > - **香港教育的批判性历史** — Morris & Adamson (2010) 系统梳理了香港从殖民地到回归后的课程政治
 > - **国家安全的课程后果** — Vickers & Morris (2022) 最早将《国安法》与课程变革直接联系起来
 > - [[Transnationalism and America Project SYSU]] — Morris 的教育四象限（学术[[Rationalism in International Relations|理性主义]]、社会经济效率、儿童中心、社会重建）被 Schmidt (2010) 在 [[Argument_Ryan_2010_HKUP|Ryan & Slethaug (2010)]] 中用于论证香港[[International Schools|国际学校]]价值观为本课程的理论定位

@@ -7,7 +7,7 @@ summary: "美国教育心理学家，证据本位教育改革奠基人和 Succes
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,11 +22,13 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
+  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
@@ -57,7 +59,7 @@ updated: '2026-06-08'
 > [!info] 核心思想
 > Slavin 的学术生涯围绕一个核心信念：教育可以像医学、农业和技术一样，通过**创新 → 严格评估 → 渐进改进**的良性循环实现持续进步。
 >
-> 1. **[[Evidence-Based Reform|证据本位改革]]（Evidence-Based Reform）** Slavin 于 2002 年提出该概念（AERA Dewitt Wallace-Reader's Digest 杰出讲座），主张教育政策应鼓励或要求学校和学区采用经严格[[Experimental Research|实验研究]]验证有效的项目和实践。该演讲发表于教育政策剧烈变动的时刻——CSR 项目（1998）首次将联邦拨款与证据挂钩、[[No Child Left Behind Act 2001|NCLB]]（2001）将"科学本位研究"写入联邦法律核心、OERI 正进行以 [[Randomised Controlled Trials|RCT]] 为中心的重组。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
+> 1. **[[Evidence-Based Reform|证据本位改革]]（Evidence-Based Reform）** Slavin 于 2002 年提出该概念（AERA Dewitt Wallace-Reader's Digest 杰出讲座），主张教育政策应鼓励或要求学校和学区采用经严格[[Experimental Research|实验研究]]验证有效的项目和[[Praxis|实践]]。该演讲发表于教育政策剧烈变动的时刻——CSR 项目（1998）首次将联邦拨款与证据挂钩、[[No Child Left Behind Act 2001|NCLB]]（2001）将"科学本位研究"写入联邦法律核心、OERI 正进行以 [[Randomised Controlled Trials|RCT]] 为中心的重组。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]])
 >
 > 2. **"什么有效"的强证据观** 不同于弱版本的 "证据知情"（evidence-informed）实践，Slavin 认为真正有效的改革必须基于对**具体项目**（而非通用原则）的**实验比较（偏好[[Random Assignment|随机分配]]）**，因为教师难以将通用原则转化为有效实践。他提出关键区分：项目"基于科学研究"不等于项目"已经过严格评估"——正如莱特兄弟的竞争对手也使用了相同的航空科学研究，但飞机从未离开地面。([[Argument_Slavin_2002_ER|Slavin, 2002, pp. 18–19]])
 >
@@ -107,6 +109,6 @@ Slavin 的立场代表 EBE 运动**最强版本（evidence-based, not evidence-i
 
 > [!warning] 学术批评
 > - **[[Conflict of Interest in Research|利益冲突]]** Slavin 同时是 [[Success for All]] 创始者、[[Best Evidence Encyclopedia|BEE]] 创建者、Evidence for ESSA 创建者和 EBR 倡导者——倡导者与受益者的角色重叠在 [[Evidence-Based Education|EBE]] 辩论中引发对独立性的质疑。支持者回应：正因为他开发了成功的项目，才有信誉倡导 EBR。
-> - **对批判[[Document|文献]]的回避** Slavin 将 Biesta、Cowen、Deaton & Cartwright 等的系统批评笼统归为"怀疑论"，未进行实质性回应——形成与批判阵营平行的、互不对话的话语体系。
+> - **对批判[[Document|文献]]的回避** Slavin 将 Biesta、Cowen、Deaton & Cartwright 等的系统批评笼统归为"怀疑论"，未进行实质性回应——形成与批判阵营平行的、互不[[Dialogue in Education|对话]]的话语体系。
 > - **良性循环叙事的政治天真**[[Hypothesis|假设]]政府持续拨款、项目持续被采用、效果持续复现——对其中的政治周期和政策不稳定性低估。Slavin 自己记录的英国 Strategic School Improvement Fund (2018) 在最后一刻被取消即是反例。
 > - **方法论立场的演变** Slavin 2002 年持平衡立场（"长期来看[[Random Assignment|随机化]]和匹配实验的混合更健康"），到 2019 年日益倾向 [[Randomised Controlled Trials|RCT]] 优先——这一演变是否反映了证据积累还是政治风向的转变，值得追问。

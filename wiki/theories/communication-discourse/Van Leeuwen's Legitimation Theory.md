@@ -7,10 +7,10 @@ aliases:
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
 theory_field: "communication-discourse"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 17
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - legitimation-theory
 - van-leeuwen
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Justified Warrants]]"
+  - "[[Praxis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
@@ -30,6 +31,7 @@ related_theories: []
 related_methods:
   - "[[Carnivalesque Analysis]]"
   - "[[Case Study]]"
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -74,7 +76,7 @@ updated: '2026-05-18'
 > **3. 理性合法化（Rational Legitimation）**
 > - 观点或行动需要与**"真理"或理性论证**建立关系
 > - 在教育政策中的表现：政府引用 Coldwell et al.（2017）对证据的定义（认可 [[Education Endowment Foundation|EEF]]、[[John Hattie]]、Sutton Trust 同时排除 [[Ofsted]]），表面上承诺"基于证据的政策"
-> - 但 Bainbridge et al. 发现政府在实践中违反了自身定义——[[Ofsted]] 评级被当作"证据"使用，而符合定义的学术研究证据被回避（p.27）
+> - 但 Bainbridge et al. 发现政府在[[Praxis|实践]]中违反了自身定义——[[Ofsted]] 评级被当作"证据"使用，而符合定义的学术研究证据被回避（p.27）
 >
 > **4. 奖励叙事合法化（Mythopoesis / Reward Narrative Legitimation）**
 > - 证据需要**支持现有的奖励叙事**——即"这样做会带来好结果"的故事
@@ -95,7 +97,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!info] [[Epistemology|认识论]]立场
-> 合法化理论属于**批判话语分析（Critical Discourse Analysis）**传统。其认识论立场是[[Constructivist Paradigm|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
+> 合法化理论属于**批判[[Discourse Analysis|话语分析]]（Critical Discourse Analysis）**传统。其认识论立场是[[Constructivist Paradigm|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
 >
 > 这与 [[Evidence-Based Education|证据本位教育]] 中隐含的[[Positivism|实证主义]]认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的[[Variable|变量]]([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9, 27]])。
 >
@@ -103,7 +105,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **框架过于宏观** 四个层次的区分在实践中难以精确划定边界——权威合法化和道德价值合法化经常相互渗透（如一机构被视为道德权威）。Bainbridge et al. 自身也未严格分离四个层次，而是将其作为整体解释框架使用
+> - **框架过于宏观** 四个层次的区分在[[Praxis|实践]]中难以精确划定边界——权威合法化和道德价值合法化经常相互渗透（如一机构被视为道德权威）。Bainbridge et al. 自身也未严格分离四个层次，而是将其作为整体解释框架使用
 > - **Van Leeuwen 原始著作未直接审查** Bainbridge et al. 通过综述形式引用该理论，未提供对 Van Leeuwen（2007）原始著作的详细解读或批评。本条目的内容因此限于 Bainbridge et al. 的转述和运用
 >
 

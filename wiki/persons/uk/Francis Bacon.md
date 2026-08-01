@@ -5,7 +5,7 @@ summary: "17世纪英国哲学家，提出归纳推理方法，将科学的注�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -15,7 +15,8 @@ related_concepts:
   - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Aristotle]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -36,7 +37,7 @@ updated: 2026-07-11
 ### 归纳推理的提出
 
 > [!def] 归纳推理（Inductive Reasoning）
-> 从大量个别案例的观察出发，逐步形成[[Hypothesis|假设]]，最终达到概括。培根批评亚里士多德的三段论演绎模型——其大前提往往是先入之见（preconceived notions），必然使结论产生偏差（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 从大量个别案例的观察出发，逐步形成[[Hypothesis|假设]]，最终达到概括。培根批评[[Aristotle|亚里士多德]]的三段论演绎模型——其大前提往往是先入之见（preconceived notions），必然使结论产生偏差（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ### 将科学从演绎桎梏中解救
 

@@ -9,61 +9,55 @@ aliases:
 summary: "Robert Cowen（2009）提出、Jason Beech（2009）与 Zhou & Westberg（2024）拓展的跨国教育知识流动分析框架，追踪教育思想在空间转移（太空门时刻）、政策转译（变色龙过程）与权力压缩转化（本质形变与灭绝）中的三阶段演变。"
 type: concept
 domain: "comparative-education"
-related_count: 42
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 36
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/knowledge-transfer
   - theme/comparative-education
   - theory/transfer-frameworks
   - comparative-education
 related_concepts:
+  - "[[Praxis]]"
   - "[[Shape-Shifting]]"
+  - "[[Champ]]"
   - "[[Policy Borrowing]]"
-  - "[[Recontextualization]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Going Native]]"
   - "[[Cross-National Attraction]]"
+  - "[[Recontextualization]]"
   - "[[Transitology]]"
-  - "[[Performativity]]"
   - "[[Floating Signifier]]"
   - "[[Paradigm]]"
-  - "[[Realism in International Relations]]"
-  - "[[Rationalism in International Relations]]"
-  - "[[Revolutionism]]"
   - "[[Governance by Spin]]"
   - "[[Encyclopaedism]]"
   - "[[Global Policy Space]]"
-  - "[[Pragmatic Paradigm]]"
-  - "[[Pragmatism in China]]"
-  - "[[Scientific Attitude]]"
-  - "[[Scientism]]"
-  - "[[Quality Education]]"
-  - "[[Examination-Oriented Education]]"
-  - "[[Examination Hell]]"
-  - "[[Progressive Education]]"
-  - "[[Heterogeneity]]"
   - "[[Knowledge Transfer]]"
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
+  - "[[Revolutionism]]"
+  - "[[Examination Hell]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Scientific Attitude]]"
+  - "[[Quality Education]]"
+  - "[[Analytic Framework]]"
+  - "[[Democratic Education]]"
 related_theories:
-  - "[[Network Society]]"
   - "[[Wight's Three Traditions of International Theory]]"
+  - "[[Network Society]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
-  - "[[Discourse Analysis]]"
 related_persons:
   - "[[Robert Cowen]]"
-  - "[[Jason Beech]]"
   - "[[John Dewey]]"
-  - "[[Hu Shi]]"
   - "[[Tao Xingzhi]]"
-related_facts:
-  - "[[May Fourth Movement]]"
-  - "[[New Education Movement]]"
+  - "[[Jason Beech]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Cowen_2009_CE]]"
-  - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Zhou_2024_CE]]"
 confidence: high
@@ -79,7 +73,7 @@ updated: '2026-07-24'
 ## 定义
 
 > [!def] 核心定义
-> 转移、转译、转化（Transfer, Translation, Transformation，简称 3T 框架）由 [[Robert Cowen]] (2009) 提出，是一个用来追踪教育思想、制度与实践在跨境流动中如何被重新释义、二次建构与形态变形（[[Shape-Shifting|Shape-Shifting]]）的三阶段过程分析模型。（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）
+> 转移、转译、转化（Transfer, Translation, Transformation，简称 3T 框架）由 [[Robert Cowen]] (2009) 提出，是一个用来追踪教育思想、制度与[[Praxis|实践]]在跨境流动中如何被重新释义、二次建构与形态变形（[[Shape-Shifting|Shape-Shifting]]）的三阶段过程分析模型。（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）
 
 > [!concept-lens] 概念透镜
 > - **含义** 将复杂的教育知识跨国流动分解为三个串联的分析切片：物理空间跨越（转移）、本土文本重[[Coding in Qualitative Research|编码]]（转译）与本土权力[[Champ|场域]]重塑（转化）。
@@ -120,7 +114,7 @@ updated: '2026-07-24'
 > [!contrast-table] 3T 框架的三大核心阶段对比
 > | 维度 | 转移 (Transfer) | 转译 (Translation) | 转化 (Transformation) |
 > |------|----------------|-------------------|----------------------|
-> | **核心语义** | 思想或实践在超国家、跨国或国际空间中的物理移动 | 接受国行动者对外来思想或制度的本土化重释与[[Coding in Qualitative Research\|编码]] | 社会经济与政治权力压缩对转译产物施加的二次重塑与改观 |
+> | **核心语义** | 思想或[[Praxis\|实践]]在超国家、跨国或国际空间中的物理移动 | 接受国行动者对外来思想或制度的本土化重释与[[Coding in Qualitative Research\|编码]] | 社会经济与政治权力压缩对转译产物施加的二次重塑与改观 |
 > | **隐喻意象** | **太空门时刻 (Space-gate Moment)** 穿越地理边界进入本土边界的入口点 | **变色龙过程 (Chameleon Process)** 随接受国本土环境而自动变换形态颜色 | **本土化与灭绝 (Indigenisation & Extinction)** 因本土深层权力关系挤压而产生本质[[Shape-Shifting\|形变]]或消亡 |
 > | **分析重点** | 关注谁将什么知识通过何种管道带到哪里 | 关注外来思想如何与接受国法律、体制与课程语言融合 | 关注本土宏观社会矛盾与微观物质约束如何扭曲落地实践 |
 
@@ -131,7 +125,7 @@ updated: '2026-07-24'
 > [!feature] 核心要素
 > - **转移 (Transfer) — 空间跨越与话语抽离** 发生在“[[Space of Flows and Space of Places|流动空间]]”中的物理或虚拟移动（Space-gate Moment）。理念常被抽离特定历史经验变成高可塑性的[[Floating Signifier|漂浮能指]]，受国际关系[[Paradigm|范式]]塑造。（[[Argument_Beech_2009_CE|Beech, 2009, p.349]]）
 > - **转译 (Translation) — 国家政策重编与话语杂糅** 接受国行动者在官方政策与法律中重新[[Coding in Qualitative Research|编码]]外来思想（Chameleon Process）。政策制定者常用[[Governance by Spin|舆论操控]]手段制造杂糅话语，受既有教育传统（如[[Encyclopaedism|百科全书主义]]）过滤（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）。
-> - **转化 (Transformation) — 地方实践落地与微观权力挤压** 新语境中社会、政治、经济权力的压缩以及微观物质约束施加的深层结构形态重塑（Metamorphoses），其结果分布在[[Going Native|本土化]]到“灭绝”的光谱上（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）。
+> - **转化 (Transformation) — 地方[[Praxis|实践]]落地与微观权力挤压** 新语境中社会、政治、经济权力的压缩以及微观物质约束施加的深层结构形态重塑（Metamorphoses），其结果分布在[[Going Native|本土化]]到“灭绝”的光谱上（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）。
 
 > [!logic-map]- 要素关系与传导链
 > ```mermaid
@@ -163,7 +157,7 @@ updated: '2026-07-24'
 > - **权力压缩与“本质[[Shape-Shifting|形变]]／灭绝”（Transformation）** 本土社会经济权力施加重力挤压，导致产物在“[[Going Native|本土化]]”到“灭绝”的光谱上发生形变。
 
 > [!claim] [[Argument_Beech_2009_CE|Beech (2009, p.348)]]
-> **三层地理社会空间映射** 将 3T 三阶段分别映射至“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个具体的社会空间，解释了拉美课程改革中[[Floating Signifier|漂浮能指]]如何转化为学校层面的再生产障碍。
+> **三层地理社会空间映射** 将 3T 三阶段分别映射至“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校[[Praxis|实践]]”三个具体的社会空间，解释了拉美课程改革中[[Floating Signifier|漂浮能指]]如何转化为学校层面的再生产障碍。
 
 ---
 
@@ -209,7 +203,7 @@ updated: '2026-07-24'
 > [!dev-timeline] 概念演变与学术脉络
 > - **1990s–2000s — 转移主题的重新聚焦 (Pre-3T Era)** Schriewer (1990, 2000), Phillips (1993, 2004), Popkewitz (1998, 2005) 重新确立转移主题的重要性，超越传统二元借用研究。（[[Argument_Cowen_2009_CE|Cowen, 2009, pp.316–317]]）
 > - **2009 — Cowen 3T 模型的正式提出 (Theory Formulation)** [[Robert Cowen]] 提出 3T 框架，将转移主题升级为“空间转移、变色龙式转译、权力压缩下的转化”三阶段过程模型。（[[Argument_Cowen_2009_CE|Cowen, 2009, p.255]]）
-> - **2009 — Beech 的空间与实践拓展 (Empirical Mapping)** [[Jason Beech]] 结合 Castells 的[[Network Society|网络社会]]与[[Space of Flows and Space of Places|流动空间]]理论，将 3T 阶段分别映射至“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个地理与社会空间。（[[Argument_Beech_2009_CE|Beech, 2009, p.348]]）
+> - **2009 — Beech 的空间与[[Praxis|实践]]拓展 (Empirical Mapping)** [[Jason Beech]] 结合 Castells 的[[Network Society|网络社会]]与[[Space of Flows and Space of Places|流动空间]]理论，将 3T 阶段分别映射至“[[Global Policy Space|全球政策空间]]—国家官方政策—微观学校实践”三个地理与社会空间。（[[Argument_Beech_2009_CE|Beech, 2009, p.348]]）
 > - **2023 — Klerides 的国际关系[[Paradigm|范式]]引入 (Theoretical Expansion)** Klerides 从[[Wight's Three Traditions of International Theory|国际关系理论]]视角拓展 3T 分析范式，划分为[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]与[[Revolutionism|革命主义]]三大路径。（[[Argument_Klerides_2023_CE|Klerides, 2023, pp.422–427]]）
 > - **2024 — Zhou & Westberg 的中国民国实证深化 (Historical Application)** [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] 运用 3T 框架精准拆解民国时期（1919–1928）[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]在华转移、去政治化转译与转化为[[Scientific Attitude|科学态度]]的历史过程。
 
@@ -235,5 +229,5 @@ updated: '2026-07-24'
 > - [[Argument_Cowen_2009_CE|Cowen (2009)]] — 提出 3T 核心[[Analytic Framework|分析框架]]，并使用战后德日改革与后殖民教育重组阐释。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] — 应用 3T 框架分析拉美课程改革，引入[[Space of Flows and Space of Places|流动空间]]与网络国家概念。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 从[[Wight's Three Traditions of International Theory|国际关系理论]]视角拓展 3T 分析[[Paradigm|范式]]。
-> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 应用 3T 框架拆解民国时期[[John Dewey|杜威]]民主教育思想在中国的引进、转译折中与转化为[[Scientific Attitude|科学态度]]的过程。
+> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 应用 3T 框架拆解民国时期[[John Dewey|杜威]][[Democratic Education|民主教育]]思想在中国的引进、转译折中与转化为[[Scientific Attitude|科学态度]]的过程。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪杜威在中国长达 90 年的三重[[Recontextualization|再脉络化]]，展示转译与转化的微观过滤机制。

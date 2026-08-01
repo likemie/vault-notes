@@ -9,7 +9,7 @@ title: "Argument_Laursen_2015_Paideia"
 argument_key: "Argument_Laursen_2015_Paideia"
 argument_display_title: "Er Hattie og co"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Visible Learning]]"
   - "[[Document]]"
+  - "[[Dialogue in Education]]"
   - "[[Classroom Management]]"
   - "[[Chain of Evidence]]"
   - "[[Individualised Instruction]]"
@@ -61,7 +62,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Visible Learning]] — Hattie 的研究综合是文章比较的核心对象；Laursen 特别关注其以英语[[Document|文献]]、尤其美国研究为主的证据基础是否可迁移至丹麦(p.34)。
-> - [[Hofstede's Cultural Dimensions]] — 文章用 Hofstede 对丹麦文化的四维刻画提出跨文化差异[[Hypothesis|假设]]：丹麦的个人主义、低权力距离、女性化和低不确定性规避似乎会让开放、对话和弱教师控制的教学更适合丹麦学生(pp.36–37)。
+> - [[Hofstede's Cultural Dimensions]] — 文章用 Hofstede 对丹麦文化的四维刻画提出跨文化差异[[Hypothesis|假设]]：丹麦的个人主义、低权力距离、女性化和低不确定性规避似乎会让开放、[[Dialogue in Education|对话]]和弱教师控制的教学更适合丹麦学生(pp.36–37)。
 
 ## 核心论证
 
@@ -74,7 +75,7 @@ citation_aliases:
 >
 > ### 国家文化[[Hypothesis|假设]]
 >
-> Laursen 起初认为文化差异假设"合理"：同样的控制与评价在美国可被解释为质量关怀，在英国可能被解释为不信任教师和学生，因此相同措施可能在一种文化中促进学习、在另一种文化中抑制学习(p.34)。根据 Hofstede 的丹麦画像，他原本可预期丹麦学生更适合开放、对话、弱教师控制和创造性空间较大的教学(p.37)。
+> Laursen 起初认为文化差异假设"合理"：同样的控制与评价在美国可被解释为质量关怀，在英国可能被解释为不信任教师和学生，因此相同措施可能在一种文化中促进学习、在另一种文化中抑制学习(p.34)。根据 Hofstede 的丹麦画像，他原本可预期丹麦学生更适合开放、[[Dialogue in Education|对话]]、弱教师控制和创造性空间较大的教学(p.37)。
 >
 > ### 丹麦证据的检验
 >

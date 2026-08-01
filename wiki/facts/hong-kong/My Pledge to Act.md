@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Psychologisation]]"
+  - "[[Growth]]"
   - "[[School Autonomy]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
@@ -117,7 +118,7 @@ updated: 2026-07-13
 > > [!axis] 表演性配合 vs. 实质认同构建
 > > 争论聚焦于通过仪式化签署承诺书和制作感恩卡能否真正实现青年认同的转变。
 > > - **[[Argument_Yan_2025_JCS|Yan & Morris（2025, pp. 490–491）]]** 指出强制性的感恩与宣誓只会带来犬儒主义的配合，学生在日常展演中发展出双重人格以应付学校考评，并不能培育真正的国家归属感。
-> > - **建制校长联会（2021）** 坚信在学校形成积极乐观的感恩文化，能为青年提供健康的同辈成长环境，有助于香港社会的整体疗愈。
+> > - **建制校长联会（2021）** 坚信在学校形成积极乐观的感恩文化，能为青年提供健康的同辈[[Growth|成长]]环境，有助于香港社会的整体疗愈。
 
 ---
 

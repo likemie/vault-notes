@@ -7,7 +7,7 @@ aliases:
 summary: "中国／儒家文化圈学习者看似依赖低效学习方式却持续取得高水平成就之间的矛盾"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,10 +18,12 @@ tags:
 - theme/learning-process
 related_concepts:
   - "[[Chinese Learner]]"
+  - "[[Praxis]]"
   - "[[Rote Learning]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Analytic Framework]]"
   - "[[Examination Hell]]"
+  - "[[Growth]]"
   - "[[Surface and Deep Learning]]"
   - "[[Conatus]]"
   - "[[Self-Cultivation]]"
@@ -50,7 +52,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info]
-> "[[Chinese Learner|中国学习者]]悖论"（paradox of the Chinese learner）由 [[David Watkins]] 和 [[John Biggs]] 在《The Chinese Learner》（1996）中系统提出。悖论的基本形态是：从西方教育视角看，中国／东亚教育体系充斥着"不良教学实践"——教师中心、威权主义、学生被动服从、[[Rote Learning|死记硬背]]、缺乏内在动机、只求应试；但这些学习者在国际评估中持续表现优异，形成了"低劣学习方式"与"持续高成就"之间的尖锐矛盾([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-83]])。
+> "[[Chinese Learner|中国学习者]]悖论"（paradox of the Chinese learner）由 [[David Watkins]] 和 [[John Biggs]] 在《The Chinese Learner》（1996）中系统提出。悖论的基本形态是：从西方教育视角看，中国／东亚教育体系充斥着"不良教学[[Praxis|实践]]"——教师中心、威权主义、学生被动服从、[[Rote Learning|死记硬背]]、缺乏内在动机、只求应试；但这些学习者在国际评估中持续表现优异，形成了"低劣学习方式"与"持续高成就"之间的尖锐矛盾([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-83]])。
 
 > [!quote]
 > "如果不是被彻底激怒并谴责中国学习的话，每当西方人教中国学生或参观中国学校时，他们都会感到失望。如前所述，中国教育体系主要由过时的教与学组成。"([[Argument_Li_2012_Cambridge|Li, 2012, p.82]])
@@ -102,7 +104,7 @@ updated: '2026-05-23'
 
 ### 学习信念层面
 
-[[Confucian Heritage Cultures|CHC]] 学习者——与其西方同龄人不同——将道德和个人成长视为学习的核心目的。CHC 研究的学习信念路径 涵盖了 Wing On Lee 的儒家价值分析、Kai-ming Cheng 的[[Ethnography|民族志]]发现、以及 An Ran 的跨文化冲突研究。这些研究的共同指向是：**不能以西方的学习目的框架（理解世界、个人成就）来判断 CHC 学习者的学习质量——因为他们对"学习是为了什么"有根本不同的理解**。
+[[Confucian Heritage Cultures|CHC]] 学习者——与其西方同龄人不同——将道德和个人[[Growth|成长]]视为学习的核心目的。CHC 研究的学习信念路径 涵盖了 Wing On Lee 的儒家价值分析、Kai-ming Cheng 的[[Ethnography|民族志]]发现、以及 An Ran 的跨文化冲突研究。这些研究的共同指向是：**不能以西方的学习目的框架（理解世界、个人成就）来判断 CHC 学习者的学习质量——因为他们对"学习是为了什么"有根本不同的理解**。
 
 ### 学习过程层面
 

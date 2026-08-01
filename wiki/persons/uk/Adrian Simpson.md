@@ -7,7 +7,7 @@ summary: "英国数学教育学者和方法论批评者，效应量误用问题�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
+  - "[[Critique of Effect Size]]"
   - "[[Epistemology]]"
   - "[[Visible Learning]]"
   - "[[Sample Size Determination]]"
@@ -64,7 +65,7 @@ updated: '2026-06-08'
 > - **现任** — 杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长（Principal）([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]])
 > - **2017** — 在 *Journal of Education Policy* 发表"The misdirection of public policy"，通过农场肥料思想实验和真实教育研究案例系统论证[[Effect Size|效应量]]的三大系统性偏差，奠定其效应量技术批判的方法论基础([[Argument_Simpson_2017_JEP|Simpson, 2017]])
 > - **2018** — 在 *British Educational Research Journal* 发表"Princesses are bigger than elephants"，将效应量误用定性为**类别错误（category error）（Simpson, 2018; 引自 Wrigley & McCusker, 2019, p.126）**
-> - **2019** — 在 *Educational Research and Evaluation* 特刊发表"Separating arguments from conclusions"，以"教一个匈牙利单词"思想实验和 [[Evidence-Based Education|EBE]] 支持者防御策略分析，将效应量批判推进为完整的[[Epistemology|认识论]]论证([[Argument_Simpson_2019_ERE|Simpson, 2019]])
+> - **2019** — 在 *Educational Research and Evaluation* 特刊发表"Separating arguments from conclusions"，以"教一个匈牙利单词"思想实验和 [[Evidence-Based Education|EBE]] 支持者防御策略分析，将[[Critique of Effect Size|效应量批判]]推进为完整的[[Epistemology|认识论]]论证([[Argument_Simpson_2019_ERE|Simpson, 2019]])
 > - **2021** — 以技术评论"Benchmarking a Misnomer"批评 Kraft（2020）的效应量基准，核心批评包括跨研究效应量本质不可比、经验基准过低；[[Argument_Kraft_2023_ER|Kraft (2023)]]回应称两人共同警惕按效应量强弱制作教育干预"联盟表"，但仍在基准是否有政策解释价值上存在分歧([[Argument_Kraft_2023_ER|Kraft, 2023, p.184]])
 
 ## 主要著作
@@ -107,7 +108,7 @@ updated: '2026-06-08'
 
 
 > [!info] 思想实验与防御策略分析（2019）
-> [[Argument_Simpson_2019_ERE|Simpson (2019)]]以"教一个匈牙利单词"的思想实验提供了效应量批判中最具说服力的论证工具。该实验证明：完全相同的教育干预（教 *oktatás* = "education"），仅改变测试设计（是否包含该词、开放式 vs. 选择题、题目数量），效应量可以从 0 变化到 0.4、0.6、4、乃至无穷大([[Argument_Simpson_2019_ERE|Simpson, 2019, pp.100–102]])。
+> [[Argument_Simpson_2019_ERE|Simpson (2019)]]以"教一个匈牙利单词"的思想实验提供了[[Critique of Effect Size|效应量批判]]中最具说服力的论证工具。该实验证明：完全相同的教育干预（教 *oktatás* = "education"），仅改变测试设计（是否包含该词、开放式 vs. 选择题、题目数量），效应量可以从 0 变化到 0.4、0.6、4、乃至无穷大([[Argument_Simpson_2019_ERE|Simpson, 2019, pp.100–102]])。
 >
 > > 例：如果测试恰好包含 *oktatás* 且其他词无人认识，实验组均分 1、对照组均分 0、标准差极小 → d ≈ ∞。按 Hattie 标准，这使"教一个匈牙利单词"成为有史以来最强的教育干预([[Argument_Simpson_2019_ERE|Simpson, 2019, p.101]])。
 >
@@ -130,7 +131,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Effect Size]] — 提供了效应量批判的技术核心：效应量不是有效性的测量而是试验灵敏度（effect clarity）的指标（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2019）
+> - [[Effect Size]] — 提供了[[Critique of Effect Size|效应量批判]]的技术核心：效应量不是有效性的测量而是试验灵敏度（effect clarity）的指标（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2019）
 > - [[Evidence-Based Education]] — 对 EBE 方法论的核心分析工具（效应量和[[Meta-analysis|元分析]]）提供最详细的技术批判
 > - [[Meta-analysis]] — 论证元分析的两项核心[[Hypothesis|假设]]（可比较性、可合并性）被系统性地违背，且偏差随研究领域变化而非随机([[Argument_Simpson_2017_JEP|Simpson, 2017, pp.4–5]])
 > - [[Meta-meta-analysis]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名，以这些排名驱动公共政策是"误导"([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]])
@@ -142,7 +143,7 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > **思想的内部演进（2017→2018→2019）** Simpson 的[[Effect Size|效应量]]批判经历了从技术到概念的逐级深化。2017 年 JEP 论文以思想实验和案例识别了**三大技术偏差**及其系统性；2018 年 BERJ 论文将其定性为**类别错误**——不仅效度量得不好，它测量的是另一个东西；2019 年 ERE 论文以"教一个匈牙利单词"将论证精炼为**最简思想实验**，并开创性地分析了 [[Evidence-Based Education|EBE]] 支持者的**防御策略**——使批判从前提到方法论再到论证修辞形成闭环（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2018, 2019）。
 >
-> **对效应量批判[[Document|文献]]的影响** Simpson 的论证被后续 EBE 批判广泛引用，构成方法论批判的技术支柱：
+> **对[[Critique of Effect Size|效应量批判]][[Document|文献]]的影响** Simpson 的论证被后续 EBE 批判广泛引用，构成方法论批判的技术支柱：
 >
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p.118)]]将 Simpson 的三大系统性偏差总结为效应量批判的核心构件，并整合进其三级失真框架——详见 [[Argument_Wrigley_2019_ERE]]
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]明确引用 Simpson 的论证作为其"[[Meta-meta-analysis|元-元分析]]在教育政策中绝对没有任何角色"断言的方法论基础，同时肯定 Simpson 并非"把婴儿和洗澡水一起倒掉"——"Simpson is careful not to throw the baby out with the bathwater"——详见 Argument_Wiliam_2019_ERE

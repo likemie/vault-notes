@@ -8,7 +8,7 @@ aliases:
 summary: "算法理性在持续优化评估环境中产生的理想学生参照形象，作为比较标准传递对学生表现的具体期望，并通过与数字自我的差异推动自我优化和算法治理。"
 type: concept
 domain: "educational-technology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Digital Self]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Growth]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Societies of Control]]"
@@ -83,5 +84,5 @@ updated: 2026-05-20
 
 > [!warning]
 > - **期望的隐蔽规范性** 数字最优表面上由"数据驱动"，实则隐含特定的规范性预设——什么样的学生是"好学生"？这些预设被算法黑箱化，失去了公共讨论和审议的空间([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
-> - **完美起点的幻象** 预设学生在入学前就应具备"完美起点"的条件，系统性地忽视学生发展潜力和成长可能性——这恰恰违背了 [[Bildung]] 的核心原则：教育指向一个开放的、不可被入场数据预测的未来([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
+> - **完美起点的幻象** 预设学生在入学前就应具备"完美起点"的条件，系统性地忽视学生发展潜力和[[Growth|成长]]可能性——这恰恰违背了 [[Bildung]] 的核心原则：教育指向一个开放的、不可被入场数据预测的未来([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 

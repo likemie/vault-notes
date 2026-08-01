@@ -7,7 +7,7 @@ summary: "英国人文地理学家，关系性空间与权力几何理论代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Scale in Higher Education]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Geopolitics of Higher Education]]"
 related_theories:
@@ -110,7 +111,7 @@ Massey 反复论证全球空间不是预先给定的、"在外面的"、外在�
 ## 影响
 
 > [!success]
-> - [[Space-Making]] — Marginson 的空间制造框架直接建立在 Massey 的[[Relational Space|关系性空间]]理论之上，三个维度中的"想象"和"社会实践"维度尤其以 Massey 的开放[[Ontology|本体论]]为基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–4]])
+> - [[Space-Making]] — Marginson 的空间制造框架直接建立在 Massey 的[[Relational Space|关系性空间]]理论之上，三个维度中的"想象"和"社会[[Praxis|实践]]"维度尤其以 Massey 的开放[[Ontology|本体论]]为基础([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–4]])
 > - [[Multiplicity]] — 多重性概念直接来自 Massey 的理论，Marginson 以此挑战高等教育研究中[[Methodological Nationalism|方法论民族主义]]和[[World-Systems Theory|世界体系理论]]的封闭空间[[Hypothesis|假设]]
 > - [[Geopolitics of Knowledge]] — Massey 的空间理论为理解[[Geopolitics of Higher Education|高等教育地缘政治]]中的权力关系（"区域和全球尺度上制度化的权力关系"）提供了核心概念工具([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 11]])
 > - **全球化理论** — Massey 引 Stuart Hall（1996）认为全球化是"一个重大的、扩展性的、断裂性的世界历史事件"，它去中心化了欧洲和殖民性，使全球南方不再是欧洲的次要副产品([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 9]])

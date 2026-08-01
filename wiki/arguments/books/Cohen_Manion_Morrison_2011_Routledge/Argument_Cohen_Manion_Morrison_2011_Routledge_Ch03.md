@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 25
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Scientific Method]]"
   - "[[Categorical Funding]]"
+  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Operationalization]]"
   - "[[Research Question]]"
@@ -48,6 +49,8 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
   - "[[Research Problem]]"
+  - "[[Dialogue in Education]]"
+  - "[[Growth]]"
   - "[[Confidence Interval]]"
   - "[[Positivism]]"
 related_theories: []
@@ -107,7 +110,7 @@ updated: 2026-07-08
 > [!abstract] 核心结构
 > - **共享基础** 研究与评估共享社会科学的全套方法论工具（8项特征、[[Scientific Method|科学方法]]7步骤），操作程序高度相似。
 > - **概念差异** 在意图与目的、受众与问责、议程设定、数据所有权、价值立场、评判标准和政治立场等维度上存在系统性差异（Smith & Glass, 1987 的8点差异；Glass & Worthen, 引自 Norris, 1990 的11点差异；MacDonald, 1987 的政治类型学）。
-> - **政治化与边界模糊**[[Categorical Funding|分类资助]]的兴起使研究越来越评估化，研究议程不再由研究者自定，而是由赞助方和政策需求驱动。政治力量同时从宏观（资助、传播控制）和微观（学校内部资源分配）两个层面渗透研究和评估，使二者的概念边界在实践层面大幅模糊。
+> - **政治化与边界模糊**[[Categorical Funding|分类资助]]的兴起使研究越来越评估化，研究议程不再由研究者自定，而是由赞助方和政策需求驱动。政治力量同时从宏观（资助、传播控制）和微观（学校内部资源分配）两个层面渗透研究和评估，使二者的概念边界在[[Praxis|实践]]层面大幅模糊。
 
 
 ---
@@ -402,7 +405,7 @@ Weiss（1991b）识别了研究进入政策制定的四种经典模型（p.43）
 > |------|------|--------------------|----------|
 > | **研究与开发模型（Research and Development Model，R&D）** | 流水线 | 研究通过线性阶段——基础研究→应用研究→开发→推广——逐步转化为政策方案。假定知识可以像产品一样被"制造"和"交付"。 | 医学领域的[[Randomised Controlled Trials\|随机对照试验]]→临床指南→医保政策 |
 > | **问题解决模型（Problem-Solving Model）** | 工具箱 | 当政策制定者面临特定问题时，主动调用现有研究来寻找答案。研究是决策者可随时取用的知识库存。 | 教育部面临辍学率上升，调用已有研究来设计干预方案 |
-> | **互动模型（Interactive Model）** | 对话 | 研究与政策在持续对话中相互塑造——研究者提供证据和框架，决策者提供问题定义和实践约束，双方在互动中共同建构"可用知识"。 | 研究者与政策制定者组成长期工作小组，反复讨论和调整研究设计 |
+> | **互动模型（Interactive Model）** | [[Dialogue in Education\|对话]] | 研究与政策在持续对话中相互塑造——研究者提供证据和框架，决策者提供问题定义和实践约束，双方在互动中共同建构"可用知识"。 | 研究者与政策制定者组[[Growth\|成长]]期工作小组，反复讨论和调整研究设计 |
 > | **战术模型（Tactical Model）** | 武器 | 研究被策略性地引用，充当**支持既定立场的修辞资源**或**拖延决策的工具**（"还需要更多研究"），而非决策的信息基础。 | 政府部门引用选择性研究为已做出的政策决定提供"科学背书" |
 
 

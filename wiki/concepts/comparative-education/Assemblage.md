@@ -6,7 +6,7 @@ aliases:
 summary: "行动者网络理论的核心概念，指人类和非人类行动者通过转译过程聚合形成的网络，具有稳定性但也可能断裂和重构"
 type: concept
 domain: "comparative-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Relational Space]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods: []
@@ -70,7 +71,7 @@ updated: 2026-06-07
 > 一本教科书连接了政策制定者、专家、出版商、教师、学生、家长、内容和理论、学习观念、课程等行动者。通过教科书，所有这些行动者都在对课堂施加权力，共同定义应该学什么和如何学。如果教科书被替换为另一本，新的网络就介入了（Fenwick & Edwards, 2010, 引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]）。
 
 > [!example]- 课堂中的组装
-> 以配备交互式白板的教室为例。白板不仅是教学工具，它连接了白板制造商、软件开发商、学校采购部门、教师培训项目、教育技术顾问、学生、家长等行动者。白板改变了教师的教学方式和学生的学习方式。如果白板故障，整个课堂网络就会崩溃。当白板被替换为平板电脑时，新的网络介入，教学实践随之改变。
+> 以配备交互式白板的教室为例。白板不仅是教学工具，它连接了白板制造商、软件开发商、学校采购部门、教师培训项目、教育技术顾问、学生、家长等行动者。白板改变了教师的教学方式和学生的学习方式。如果白板故障，整个课堂网络就会崩溃。当白板被替换为平板电脑时，新的网络介入，教学[[Praxis|实践]]随之改变。
 
 ---
 

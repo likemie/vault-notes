@@ -10,9 +10,9 @@ title: "Argument_Pellegrini_2021_ROE"
 argument_key: "Argument_Pellegrini_2021_ROE"
 argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 31
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Pellegrini, M., & Vivanet, G. (2021). Evidence-based policies in education: Initiatives and challenges in Europe. ECNU Review of Education, 4(1), 25-45. https://doi.org/10.1177/2096531120924670"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Literature Review]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Reusability Paradox]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Dialogue in Education]]"
   - "[[External Validity]]"
   - "[[Class Size]]"
 related_theories: []
@@ -77,12 +79,12 @@ citation_aliases:
 > [!info] [[Research Question|研究问题]]
 > 欧洲教育政策中，证据使用已经被 [[EU Evidence-Informed Education Policy Initiatives|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 ESSA 式证据标准 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform|证据本位改革]]？(pp.25-28)
 
-这篇文章要解释的核心张力是：欧盟政策倡议 已经把证据知情政策和实践列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案(pp.35-37)。
+这篇文章要解释的核心张力是：欧盟政策倡议 已经把证据知情政策和[[Praxis|实践]]列为教育治理方向，但欧洲教育系统的多国、多语言、多课程结构，使“有证据的项目”很难直接变成可复制、可采购、可评估的欧洲共同方案(pp.35-37)。
 
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Evidence-Based Education]] — 教育项目和实践应更多依靠高质量研究证据，尤其是能够评价可复制项目效果的研究(p.26)。
+> - [[Evidence-Based Education]] — 教育项目和[[Praxis|实践]]应更多依靠高质量研究证据，尤其是能够评价可复制项目效果的研究(p.26)。
 > - [[Evidence-Informed Practice]] — 欧洲文件和倡议更常使用 evidence-informed education，因为证据来源不限于 [[Experimental Research|实验研究]]，政策文件也多是指导而非强制规定。
 > - [[Evidence-Based Reform]] — Slavin 的定义把重点放在政策如何支持或鼓励使用经严格研究证明有效的项目与实践，而不是传播一般性教学原则。
 
@@ -90,7 +92,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：政策文件分析与[[Literature Review|文献综述]]。
-> - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education|证据本位教育]]领域关于政策、实践和证据文化的[[Document|文献]](p.25)。
+> - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education|证据本位教育]]领域关于政策、[[Praxis|实践]]和证据文化的[[Document|文献]](p.25)。
 > - 分析对象：欧盟和 Eurydice 网络成员国中促进证据使用的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战(p.28)。
 
 ## 论证结构
@@ -100,7 +102,7 @@ citation_aliases:
 
 ### 第一步：欧洲已经出现证据使用的政策信号
 
-1. 教育决策中使用证据的主张并不是新近出现的口号。Davies 和 Hargreaves 在 1990 年代末已经提出教育项目和实践应以证据为基础，此后真实教育情境中的高质量项目评价逐渐增加(p.26)。
+1. 教育决策中使用证据的主张并不是新近出现的口号。Davies 和 Hargreaves 在 1990 年代末已经提出教育项目和[[Praxis|实践]]应以证据为基础，此后真实教育情境中的高质量项目评价逐渐增加(p.26)。
 2. 欧洲与美国的政策语言不同。ESSA 通过强、中、有希望等证据等级给学校采用有证据项目提供激励；欧洲更常说 evidence-informed education，意味着证据来源可以包括定性和[[Mixed Methods Research|混合方法]]，欧盟文件也主要提供指导而非强制要求(pp.26-27)。
 3. 欧盟层面的政策进程 从 2006 年开始更清楚地成形。2006 年欧洲理事会结论强调评价文化，2007 年欧洲委员会工作文件提出证据本位政策与实践应成为教育和培训系统改革的驱动力(pp.28-29)。
 
@@ -132,7 +134,7 @@ citation_aliases:
 ### 第五步：关键能力改革放大了证据本位政策的难度
 
 12. 欧洲课程从 2000 年代初逐步转向能力本位模式。[[EU Key Competences for Lifelong Learning]] 把能力定义为知识、技能和态度的动态组合，并列出八项[[21st Century Skills and Competencies Discourse|关键能力]](p.39)。
-13. 基础读写知识和技能已有较成熟的评估和项目证据，但“积极的读写态度”“批判性和建设性对话倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果(pp.40-41)。
+13. 基础读写知识和技能已有较成熟的评估和项目证据，但“积极的读写态度”“批判性和建设性[[Dialogue in Education|对话]]倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果(pp.40-41)。
 14. 因此，[[Evidence-Based Reform|证据本位改革]] 若要进入欧洲能力本位课程，就必须同时解决课程目标重写、目标指标化、有效评价工具、教师培训和多语言资源共享问题(p.41)。
 
 ## 主要发现
@@ -163,7 +165,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> 文章的主要贡献是政策梳理和挑战诊断，而不是对成员国政策效果的因果评估。它依赖欧盟、Eurydice 和相关组织文件，因此能够清楚呈现“有哪些倡议”，但较难判断这些倡议在学校层面实际改变了多少教师实践和学生学习结果。
+> 文章的主要贡献是政策梳理和挑战诊断，而不是对成员国政策效果的因果评估。它依赖欧盟、Eurydice 和相关组织文件，因此能够清楚呈现“有哪些倡议”，但较难判断这些倡议在学校层面实际改变了多少教师[[Praxis|实践]]和学生学习结果。
 >
 > 另一个张力在于：文章批评欧洲倡议缺少系统路线图，但同时也承认欧洲教育治理由成员国负责，欧盟文件多为指导而非强制规定(pp.28, 41-42)。因此，“更清晰路线图”与“成员国教育主权”之间的制度矛盾仍需要进一步展开。
 >

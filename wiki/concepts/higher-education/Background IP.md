@@ -8,7 +8,7 @@ aliases:
 summary: "产学合作协议中定义的合作前各方独立开发的知识产权，产业方需要获得足够访问权以确保对前景 IP 的自由实施"
 type: concept
 domain: "higher-education"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Foreground IP]]"
   - "[[Freedom to Operate]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -51,7 +52,7 @@ updated: 2026-06-03
 ## 限制策略
 
 > [!note]-
-> 实践中通常通过多重限制来找到 BIP 条款的中间地带（pp.280–281）：
+> [[Praxis|实践]]中通常通过多重限制来找到 BIP 条款的中间地带（pp.280–281）：
 
 - **时间限制** 将 BIP 限制在协议生效日已存在的 IP，或至多在协议期内开发的 IP
 - **空间／人员限制** 将 BIP 限制在合作首席研究员（Principal Investigator, PI）实验室内开发的 IP。这是常见的妥协方案

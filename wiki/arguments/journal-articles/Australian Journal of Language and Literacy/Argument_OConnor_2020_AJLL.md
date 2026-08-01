@@ -9,7 +9,7 @@ title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
   - "[[Effect Size]]"
+  - "[[Praxis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Technical Rationality]]"
   - "[[Theoretical Standpoint]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Direct Instruction]]"
   - "[[Winnowing]]"
+  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -72,7 +74,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question] Question
-> [[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《[[Visible Learning|VL]]》（Visible Learning, VL）中，对[[Whole Language|全语言]]（Whole Language）教学效果的评估是否在科学上可信？基于聚合[[Meta-analysis|元分析]]（Meta-analysis）与[[Meta-meta-analysis|元元分析]]（Meta-meta-analysis）的[[Effect Size|效应量]]（Effect Size）来制定教学实践和公共政策是否具有合法性？(p.142)
+> [[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《[[Visible Learning|VL]]》（Visible Learning, VL）中，对[[Whole Language|全语言]]（Whole Language）教学效果的评估是否在科学上可信？基于聚合[[Meta-analysis|元分析]]（Meta-analysis）与[[Meta-meta-analysis|元元分析]]（Meta-meta-analysis）的[[Effect Size|效应量]]（Effect Size）来制定教学[[Praxis|实践]]和公共政策是否具有合法性？(p.142)
 
 > [!claim] 核心主张
 > 哈蒂对全语言教学的极低评估（d = 0.06）并不是由科学数据客观推导出来的，而是受其对[[Constructivist Paradigm|建构主义范式]]的先验偏见驱动的、存在严重方法论缺陷的数据操纵结果。以《VL》的单一效应量来指导教学实践是愚蠢的，以此作为制定公共政策的决策基础则是极其不负责任的 (p.149)。
@@ -90,7 +92,7 @@ citation_aliases:
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **全语言哲学**<br>[[Whole Language]] | [[Ken Goodman\|肯·古德曼]]（Ken Goodman）提出的儿童语言习得与读写教学哲学。主张学习者在真实（authentic）情境下进行整体语言读写，反对孤立的技能训练序列、反对将阅读切片并与测试分数挂钩 (pp.143-144)。 |
-> | **读写社会文化观**<br>[[Theoretical Standpoint]] | 戴维·布鲁姆（David Bloome）等人提出，将阅读和写作视为社会和文化实践，强调教学法始终是政治性的，涉及权力关系的重构 (p.149)。 |
+> | **读写社会文化观**<br>[[Theoretical Standpoint]] | 戴维·布鲁姆（David Bloome）等人提出，将阅读和写作视为社会和文化[[Praxis\|实践]]，强调教学法始终是政治性的，涉及权力关系的重构 (p.149)。 |
 > | **简单阅读观**<br>[[Simple View of Reading]] | 菲利普·高夫（Philip Gough）等人提出的认知模型，认为阅读能力可由解码能力与听力理解预测，该模型在政策上常被拼读倡导者用作“拼读优先、拼读唯一”的科学依据。 |
 > | **元分析与元元分析**<br>[[Meta-analysis]] / [[Meta-meta-analysis]] | [[Gene Glass\|吉恩·格拉斯]]（Gene Glass）提出的统计合成法。本研究通过其局限性（如汉斯·艾森克 (Hans J. Eysenck) 的“垃圾输入，垃圾输出”及罗伯特·波森 (Robert Pawson) 的简化论批判）解构[[Effect Size\|效应量]]排名的客观性假象 (p.143)。 |
 
@@ -213,7 +215,7 @@ citation_aliases:
 ### 论证步骤四：数据对“故事”的屈从与教育新自由主义治理
 
 > [!claim] 步骤四主张
-> 哈蒂以“故事优先于数据”的解释学辩护，背叛了元分析作为客观统计替代方案和叙述性讨论的学术初衷；同时，这一伪科学结论被新自由主义下的技术官僚所利用，绑架了学校的一线教学实践 (p.142)。
+> 哈蒂以“故事优先于数据”的解释学辩护，背叛了元分析作为客观统计替代方案和叙述性讨论的学术初衷；同时，这一伪科学结论被新自由主义下的技术官僚所利用，绑架了学校的一线教学[[Praxis|实践]] (p.142)。
 
 > [!critique-logic] “故事”对“数据”的凌驾与统计承诺的背叛
 > 哈蒂在面对对其方法论的统计学质疑时辩称：“是解释和故事帮助解释发现，这不是数据的问题”，“故事才是说服力的贡献” (p.142)。
@@ -239,7 +241,7 @@ citation_aliases:
 > 4. **宏观数据对公共政策的绑架** 维多利亚州教育部将《VL》作为 [[Victorian HITS and Literacy Toolkit|HITS]] 和读写工具箱的首要实证参考，展示了这一存在方法论瑕疵的伪科学论证如何通过商业共谋，深度影响并约束了教师的教学专业自主权 (p.141)。
 
 > [!stat-cards]- 核心数据
-> - **d = 0.06** 哈蒂宣称的全语言平均效应量，等同于无学校教育状态下的学生自然成长率 (pp.142-143)。
+> - **d = 0.06** 哈蒂宣称的全语言平均效应量，等同于无学校教育状态下的学生自然[[Growth|成长]]率 (pp.142-143)。
 > - **d = 0.60** 哈蒂为拼读教学程序（Phonics）计算出的高效益值，常被拼读倡导者用作“阅读战争”获胜的证据 (p.142)。
 > - **d = -0.65** [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告的极度异常的负面效应量，被哈蒂直接采纳，但克拉申指出其原始计算多处方向反转 (pp.145-147)。
 > - **d = 0.83** [[William Jeynes|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告中被哈蒂忽略的“纯全语言”研究（如 Dahl & Freppon）的实际正向高效益量 (pp.146-147)。
@@ -250,7 +252,7 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card]- 论[[Effect Size|效应量]]评估的非责任性
-> 试图通过《[[Visible Learning|VL]]》报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的。[[Argument_OConnor_2020_AJLL|(p.149)]]
+> 试图通过《[[Visible Learning|VL]]》报告的效应量来定位教学[[Praxis|实践]]是不明智的，而以此为基础制定公共政策决策则是不负责任的。[[Argument_OConnor_2020_AJLL|(p.149)]]
 >
 > Attempting to orient pedagogical practice through Visible Learning’s reported effect sizes is ill advised, while basing public policy decisions on them is irresponsible.
 
@@ -270,7 +272,7 @@ citation_aliases:
 
 > [!warning] 自述局限
 > - **审查范围的局部性** 本研究仅针对《[[Visible Learning|VL]]》中[[Whole Language|全语言]]这一细分模块（涉及 4 项[[Meta-analysis|元分析]]、64 项原始研究）进行了极其细致的微观复核，并未对《VL》中其他学科领域或干预措施的[[Effect Size|效应量]]进行同等规模的系统审查 (p.143)。
-> - **作者的学术与职业镜头的声明** 作者公开声明自身是一名小学三年级至四年级的班级教师，在皇家墨尔本理工大学（Royal Melbourne Institute of Technology, RMIT）受训期间，其读写教学导师包括洛林·威尔逊（Lorraine Wilson）和大卫·霍恩斯比（David Hornsby）等全语言的积极倡导者，因此其研究视角的选择不可避免地带有全语言实践者偏好偏向的限制 (pp.150-151)。
+> - **作者的学术与职业镜头的声明** 作者公开声明自身是一名小学三年级至四年级的班级教师，在皇家墨尔本理工大学（Royal Melbourne Institute of Technology, RMIT）受训期间，其读写教学导师包括洛林·威尔逊（Lorraine Wilson）和大卫·霍恩斯比（David Hornsby）等全语言的积极倡导者，因此其研究视角的选择不可避免地带有全语言[[Praxis|实践]]者偏好偏向的限制 (pp.150-151)。
 
 ---
 

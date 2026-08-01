@@ -8,7 +8,7 @@ aliases:
 summary: "Bernstein（2001）提出的概念，指教育关系从学校扩展到整个社会的社会形态，Cowen 视其为分析 21 世纪教育变迁的关键理论资源"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Lifelong Learning]]"
+  - "[[Growth]]"
   - "[[Champ]]"
   - "[[Scientism]]"
   - "[[Space of Flows and Space of Places]]"
@@ -51,7 +52,7 @@ updated: '2026-07-04'
 > [!concept-lens] 概念透镜
 > - **含义** 指教学评价、行为塑造与知识[[Disciplina and Doctrina|规训]]的逻辑从传统的固定学校建制中解构，并弥散为全社会范围内的微观规训网络。(p. 336)
 > - **用途** 提供了一个超越“学校系统”狭隘视线的社会学概念工具，帮助研究者透视和解构打着教育、培训、评估旗号的深层社会控制逻辑。(p. 336)
-> - **边界** 区别于[[Lifelong Learning|终身学习]]等鼓励性的政策修辞——全盘教育化社会是批判性的社会形态学诊断，揭示的是无孔不入的指标束缚与行为监控，而非个体的自由成长。(p. 336)
+> - **边界** 区别于[[Lifelong Learning|终身学习]]等鼓励性的政策修辞——全盘教育化社会是批判性的社会形态学诊断，揭示的是无孔不入的指标束缚与行为监控，而非个体的自由[[Growth|成长]]。(p. 336)
 
 > [!citation-card]- 关键表述
 > 译文：目前最好的提示来自巴兹尔·伯恩斯坦（Basil Bernstein）极具原创性的思考。伯恩斯坦以涂尔干式的方法思考系统性地在 19 和 20 世纪学校制度之外创造教育关系模式的社会基础，将全盘教育化社会这个看似耸人听闻的新闻用语转变成了一个连贯的理论概念。

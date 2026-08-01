@@ -7,7 +7,7 @@ aliases:
 summary: "以国家为中心、将空间视为可占有客观地理实体的传统地缘政治范式，以社会有机体论为理论基石，关注领土控制、军事力量和硬实力竞争"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[New Geopolitics]]"
   - "[[Ontology]]"
+  - "[[Praxis]]"
   - "[[Theoretical Standpoint]]"
   - "[[Realism in International Relations]]"
   - "[[Constructivist Paradigm]]"
@@ -87,7 +88,7 @@ updated: 2026-07-09
 > [!contrast-table] 古典地缘政治与[[New Geopolitics|新地缘政治]]的[[Paradigm|范式]]对比
 > | 维度 | 古典地缘政治 | 新地缘政治 |
 > |------|-------------|-----------|
-> | [[Ontology\|本体论]]位置 | 物质—实践端 | 观念—科学端 |
+> | [[Ontology\|本体论]]位置 | 物质—[[Praxis\|实践]]端 | 观念—科学端 |
 > | [[Theoretical Standpoint\|理论立场]] | [[Realism in International Relations\|现实主义]] | [[Constructivist Paradigm\|建构主义]] |
 > | 理论源头 | 费舍尔的社会达尔文主义和斯宾塞的社会有机体概念 | 法兰克福学派及西方马克思主义 |
 > | 空间观 | 可测量、可分割、可占有的客观地理实体；竞争舞台 | 流动的社会建构；通过命名、分类与治理等话语实践不断生产的政治产物 |

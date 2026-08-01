@@ -7,7 +7,7 @@ aliases:
 summary: "区分以记忆事实和任务完成为主的表层学习与以理解关系、意义和结构为主的深层学习，深层学习是课程设计连贯性的关键目标"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,8 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge-that and Know-how-to]]"
+  - "[[Hypothesis]]"
+  - "[[Constructive Alignment]]"
   - "[[Western Learner]]"
   - "[[Problem-Based Learning]]"
   - "[[Chinese Learner]]"
@@ -34,13 +36,14 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_McPhail_2023_JCS]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-06-06'
+updated: '2026-07-28'
 ---
 
 # Surface and Deep Learning
@@ -52,6 +55,8 @@ updated: '2026-06-06'
 > [!info]
 > 表层学习（surface learning）与深层学习（deep learning）是教育研究中区分学习质量的两个核心概念。表层学习涉及知晓事实、想法和内容，深层学习涉及知晓想法之间的关系和连接、并将这些想法扩展到其他情境（Hattie, 2015, p.80）。表层学习是实现深层学习的必要第一步（Hattie, 2015, p.84）。
 >
+> 学习取向描述学生如何处理特定任务，而不是他们固定的人格特征。采用表层学习方式时，学生会开展不适合任务的低阶活动，所得结果往往零散，也未能把握整体意义；采用深层学习方式时，学生会根据任务要求组织活动，从而形成有意义的整体理解。教师可以调整任务和评估情境，促使更多学生开展适当的高阶活动。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 57–60)]]
+>
 > 在[[Curriculum Design Coherence Model|课程设计连贯性模型]]中，深层学习被定义为看到学科[[Epistemology|认识论]]部分与整体之间联系的能力，进而通过将抽象概念应用于一系列情境（包括社会文化世界）来进行概括([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
 
 ---
@@ -61,8 +66,9 @@ updated: '2026-06-06'
 > [!abstract]
 > - **表层学习**。知晓事实、想法和内容。学生发现课程评估实际测量的是知晓很多和复述教科书或教师的主要观点，尽管教师宣称课程关乎理解、建立关系和扩展知识（Hattie, 2015, p.80）。
 > - **深层学习**。知晓想法之间的关系和连接，并将这些想法扩展到其他情境。在[[Curriculum Design Coherence Model|课程设计连贯性模型]]中，深层学习是[[Knowledge-that and Know-how-to|知其然]]和[[Knowledge-that and Know-how-to|知其所用]]连接的结果，当学生能够展示和阐述两种知识形式之间的联系时，深层学习才真正发生([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。
+> - **任务适切性**。判断学生采用的是深层还是表层学习方式，要看他们开展的活动是否适合当前任务。Robert 在讲授中记笔记和背诵，并不意味着他具有固定的“表层人格”；如果任务要求提出[[Hypothesis|假设]]和解决问题，他也可能转而开展更高阶的活动。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 57–59)]]
 > - **表层到深层的路径**。表层学习是实现深层学习的必要第一步，但学生需要经过深层处理（回顾和重新组织）才能产生最大效果。记笔记对学习只有 modest 改善（d=0.34），但回顾笔记 dramatically 提高了学习（d=1.56）（Hattie, 2015, p.84）。
-> - **课程设计的条件**。深层学习需要课程设计与知识的[[Epistemology|认识论]]结构对齐。[[Curriculum Design Coherence Model|课程设计连贯性模型]]主张，知其然和知其所用的连接应在教学开始之前的课程设计阶段被明确处理，而非留给教师在课堂上自行完成。
+> - **课程设计的条件**。要促进深层学习，课程设计必须与知识的[[Epistemology|认识论]]结构保持一致。[[Constructive Alignment|建构性对齐]]要求课程目标、教学活动和评估任务都围绕同一组高阶认知行为，使评估的反拨作用促进而不是破坏深层学习。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 64–70)]]；[[Curriculum Design Coherence Model|课程设计连贯性模型]]则主张，课程设计者应在教学开始前明确连接知其然和知其所用，而不能把这项工作完全留给教师在课堂上临时完成。
 
 ---
 
@@ -94,3 +100,9 @@ updated: '2026-06-06'
 
 ---
 
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 把表层和深层学习方式界定为学生在具体情境中处理任务的不同方式，并说明参与性较强的教学方法与对齐的评估如何缩小不同学术取向学生之间的认知投入差距。
+
+---

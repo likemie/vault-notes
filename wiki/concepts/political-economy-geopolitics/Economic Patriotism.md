@@ -5,10 +5,10 @@ aliases:
 summary: "将爱国情感与特定领土利益绑定并通过政策把资源集中于关键产业、城市或机构的国家战略实践。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - economic-patriotism
 - knowledge-based-economization
@@ -17,6 +17,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Praxis]]"
   - "[[Knowledge-Based Economization]]"
   - "[[National Competitive Advantage]]"
   - "[[Spatial Sortings]]"
@@ -39,7 +40,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 经济爱国主义（Economic Patriotism）是 Crouch & Le Galès（2012）提出的概念，指国家将资源和投资大规模集中于特定领土部分（尤其是首都城市和大都市区）以提升其在全球[[Knowledge-Based Economy|知识经济]]中的竞争地位，并将爱国情感与这些特定领土利益的推进绑定在一起的政策实践([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])。
+> 经济爱国主义（Economic Patriotism）是 Crouch & Le Galès（2012）提出的概念，指国家将资源和投资大规模集中于特定领土部分（尤其是首都城市和大都市区）以提升其在全球[[Knowledge-Based Economy|知识经济]]中的竞争地位，并将爱国情感与这些特定领土利益的推进绑定在一起的政策[[Praxis|实践]]([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.28–29]])。
 >
 > Crouch & Le Galès（2012, p.406）的经典描述：
 >

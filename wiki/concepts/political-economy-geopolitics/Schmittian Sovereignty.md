@@ -8,7 +8,7 @@ aliases:
 summary: "Carl Schmitt 的主权理论，主权者的本质不在于制定规则而在于决定例外状态，即谁有权在紧急状态下悬置法律"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Epoché]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Praxis]]"
   - "[[Psychologisation]]"
   - "[[One Country, Two Systems]]"
   - "[[Attrition]]"
@@ -108,7 +109,7 @@ updated: 2026-07-13
 > **国家安全范畴的拉伸与教育规范的[[Epoché|悬置]]**
 > - **国安概念的无边界泛化** [[National Security Law|香港国安法]]颁布后，官方将国家安全的概念无限延伸至政治、科技、文化、社会等十六个维度。这使得“例外状态”（以安全为由悬置多角度讨论）可以理所当然地进入学校课程的日常运作中。
 > - **高度自治契约论的消亡** [[Citizenship and Social Development|公社科]]教科书彻底颠覆了此前通识科将基本法呈现为划分中央与地方自治权力边界的“契约论”写法，改以宣示中国单一制国家的权力格局，强调高度自治权完全来自中央的单向授权，主权者拥有随时调整和收回自治范围的最终决断权（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.149–150]]）。
-> - **学校行政自主权的政治冻结** 在国安法威慑下，教师失去了依据学科专业逻辑开展争议议题辩论的自主空间。安全红线成为悬在所有教学实践之上的决断剑刃，使日常教学行政被迫让位于政治顺从。
+> - **学校行政自主权的政治冻结** 在国安法威慑下，教师失去了依据学科专业逻辑开展争议议题辩论的自主空间。安全红线成为悬在所有教学[[Praxis|实践]]之上的决断剑刃，使日常教学行政被迫让位于政治顺从。
 
 ---
 

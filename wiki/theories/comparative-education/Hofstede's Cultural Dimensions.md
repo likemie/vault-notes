@@ -6,7 +6,7 @@ aliases:
 summary: "国家文化维度理论，用权力距离、个人主义、不确定性规避等维度比较国家文化差异及其组织和教育影响"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 9
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -15,6 +15,8 @@ tags:
 - national-culture
 - comparative-education
 related_concepts:
+  - "[[Praxis]]"
+  - "[[Dialogue in Education]]"
   - "[[Effective Teaching]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -38,9 +40,9 @@ updated: '2026-05-18'
 ## 核心主张
 
 > [!info] 核心主张
-> Hofstede 将文化定义为"software of the mind"（心智软件），并把价值观视为国家文化的核心。Laursen 概述其观点：文化价值相对稳定，会影响国家政策、制度及其实践，也影响共享该文化的人们的行为([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
+> Hofstede 将文化定义为"software of the mind"（心智软件），并把价值观视为国家文化的核心。Laursen 概述其观点：文化价值相对稳定，会影响国家政策、制度及其[[Praxis|实践]]，也影响共享该文化的人们的行为([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
 >
-> > 例：Laursen 用该理论提出教育问题：如果丹麦文化低权力距离、重视个人自主且不太害怕不确定性，那么丹麦学生是否应更适合开放、对话、弱教师控制的教学？文章随后用丹麦[[Effective Teaching|有效教学]]研究检验这一推论([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–37]])。
+> > 例：Laursen 用该理论提出教育问题：如果丹麦文化低权力距离、重视个人自主且不太害怕不确定性，那么丹麦学生是否应更适合开放、[[Dialogue in Education|对话]]、弱教师控制的教学？文章随后用丹麦[[Effective Teaching|有效教学]]研究检验这一推论([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–37]])。
 
 ## 理论内部结构
 
@@ -60,7 +62,7 @@ updated: '2026-05-18'
 
 > [!info] 研究[[Paradigm|范式]]
 > - [[Epistemology|认识论]]立场：Laursen 将 Hofstede 理论作为一种国家文化解释框架，用来生成关于教学效果跨文化差异的[[Hypothesis|假设]]，而不是直接把它当作教育效果证据([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–37]])。
-> - 应用方式：该理论在 Laursen 文中被用于解释"为何可能预期丹麦学生更适合开放、对话、低控制教学"，但经验比较结果显示这一预期不充分，尤其不能解释弱社会背景学生对明确教师领导和清晰目标的依赖([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–40]])。
+> - 应用方式：该理论在 Laursen 文中被用于解释"为何可能预期丹麦学生更适合开放、[[Dialogue in Education|对话]]、低控制教学"，但经验比较结果显示这一预期不充分，尤其不能解释弱社会背景学生对明确教师领导和清晰目标的依赖([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–40]])。
 
 ## 争议与批评
 

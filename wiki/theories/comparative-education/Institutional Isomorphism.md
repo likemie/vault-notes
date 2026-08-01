@@ -9,15 +9,16 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学理论"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - paradigm/interpretivist
   - subject/comparative-education
 related_concepts:
   - "[[Champ]]"
+  - "[[Praxis]]"
   - "[[Corporate Education]]"
   - "[[Causality]]"
   - "[[Corporate University]]"
@@ -50,7 +51,7 @@ updated: 2026-05-18
 ## 核心主张
 
 > [!tip]-
-> 制度同构（institutional isomorphism）是 DiMaggio & Powell（1983）提出的组织社会学理论：处于同一组织[[Champ|场域]]（organizational field）中的组织，在竞争之外还通过三种制度性机制——强制型、模仿型和规范型同构——在结构和实践上趋向同质化。该理论超越了对市场竞争和技术效率的单一关注，将规范、合法性和制度环境置于组织分析的中心。
+> 制度同构（institutional isomorphism）是 DiMaggio & Powell（1983）提出的组织社会学理论：处于同一组织[[Champ|场域]]（organizational field）中的组织，在竞争之外还通过三种制度性机制——强制型、模仿型和规范型同构——在结构和[[Praxis|实践]]上趋向同质化。该理论超越了对市场竞争和技术效率的单一关注，将规范、合法性和制度环境置于组织分析的中心。
 
 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]将该理论应用于跨国公司[[Corporate Education|企业教育]]的分析：不同类型和不同策略的企业教育偏好不同的同构机制，而 MNCs 能否创建跨国教育空间在很大程度上取决于其能否调动这三种同构机制所对应的权威来源([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, p.183–184]])。
 
@@ -96,7 +97,7 @@ updated: 2026-05-18
 ## 认识论立场
 
 > [!info]
-> - **[[Ontology|本体论]]与[[Epistemology|认识论]]立场** 社会建构论（social constructionist），强调组织结构和实践并非由技术效率或市场竞争单一决定，而是通过共享规范、合法性和制度环境被社会性地建构
+> - **[[Ontology|本体论]]与[[Epistemology|认识论]]立场** 社会建构论（social constructionist），强调组织结构和[[Praxis|实践]]并非由技术效率或市场竞争单一决定，而是通过共享规范、合法性和制度环境被社会性地建构
 > - **分析层次** 组织[[Champ|场域]]（organizational field），而非单个组织或国家/全球层面
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-05-18
 |------|---------|---------------------|
 | **代表人物** | DiMaggio & Powell (1983) | [[John W. Meyer]], Francisco Ramirez 等（Stanford 学派） |
 | **分析层次** | 组织[[Champ\|场域]]（organizational field） | 世界社会（world society）/ 全球层面 |
-| **核心问题** | 为何同一场域内的组织结构和实践趋同？ | 为何各国教育体系、组织形态和个体身份日益相似？ |
+| **核心问题** | 为何同一场域内的组织结构和[[Praxis\|实践]]趋同？ | 为何各国教育体系、组织形态和个体身份日益相似？ |
 | **同构机制** | 强制型、模仿型、规范型（三种明确机制） | 全球[[Cultural Models\|文化模型]]的扩散与模仿（"[[Otherhood]]"机制） |
 | **合法性来源** | 场域内的专业规范、同行压力和制度规则 | 全球层面的文化脚本（如"现代民族国家应有教育部"） |
 | **共同学术根基** | Meyer & Rowan (1977) — 该文论证正式组织结构常为仪式性采纳，旨在获取合法性而非提升效率，是两者的共同先驱 |
@@ -127,7 +128,7 @@ updated: 2026-05-18
 > - **过度强调同质化** 理论解释了组织为何趋同，但对组织如何保持差异和创新的解释力不足。并非所有处于同一[[Champ|场域]]的组织都会趋同——一些组织主动选择差异化策略来获取竞争优势
 > - **行动者能动性（agency）的缺失**DiMaggio（1988）本人后来也承认，原理论过于强调制度压力对组织的单向塑造，忽视了行动者（如"制度创业者"）主动操纵制度环境的可能性
 > - **西方制度环境的隐含[[Hypothesis|假设]]** 三种同构类型的经验基础主要来自美国和欧洲的组织情境——这些地区有相对成熟的专业协会、法律体系和市场机制。在制度基础设施不同的环境中（如新兴经济体），同构机制的表现可能有本质差异
-> - **权力不对称的地缘政治维度被忽略**[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022, p.193)]]的分析揭示了该理论的一个盲区——当模仿型和规范型同构在全球尺度上运作时，实际上可能承载着深层的地缘政治权力不对称（如美国管理实践通过[[Corporate Education|企业教育]]向全球扩散）。同构并非[[Value Neutrality|价值中立]]的自然过程，而是嵌入了知识和规范生产的全球不平等结构([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.194–195]])
+> - **权力不对称的地缘政治维度被忽略**[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022, p.193)]]的分析揭示了该理论的一个盲区——当模仿型和规范型同构在全球尺度上运作时，实际上可能承载着深层的地缘政治权力不对称（如美国管理[[Praxis|实践]]通过[[Corporate Education|企业教育]]向全球扩散）。同构并非[[Value Neutrality|价值中立]]的自然过程，而是嵌入了知识和规范生产的全球不平等结构([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.194–195]])
 
 ---
 

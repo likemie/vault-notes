@@ -7,7 +7,7 @@ aliases:
 summary: "Grek (2009) 提出的概念，指通过量化指标、国际排名和数据比较实现跨国教育治理的软性机制，PISA 是这一治理模式的典型工具"
 type: concept
 domain: "comparative-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[International Education]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -61,7 +62,7 @@ updated: 2026-07-05
 > [!feature] 核心要素
 > - **量化数据的政治权威** [[PISA]] 数据被分析和解读后为教育政策制定和改革所用。[[OECD]] 通过报告 PISA 结果和全球排名，为各国政策制定者提供远距离指导（remote guidance）。结果可用于验证已实施改革的合法性，或作为遵循 OECD 政策建议的动机（Gillis et al., 2016）。
 > - **去情境化与普遍性** PISA 受益于其"去情境化"和"普遍性"特征，为全球化背景下的[[International Education|国际教育]]比较提供了可能性（Grek, 2010）。这种去情境化使得不同政治、文化和历史背景的教育体系可以在同一量表中被排列和比较。
-> - **软治理工具** PISA 本身构成一种软治理工具——它不以法律或制裁来强制各国改革，而是通过信息公开、排名压力和"最佳实践"的示范效应来引导政策方向。PISA 结果逐渐成为政治行动合法化的证据。
+> - **软治理工具** PISA 本身构成一种软治理工具——它不以法律或制裁来强制各国改革，而是通过信息公开、排名压力和"最佳[[Praxis|实践]]"的示范效应来引导政策方向。PISA 结果逐渐成为政治行动合法化的证据。
 > - **循证政策制定** 数字治理与循证政策制定（evidence-based policy making）紧密相连。PISA 提供的跨国可比数据帮助政策制定者更好地理解教育系统的运作和学生表现，用量化数据和指标制定更有效的政策。
 
 > [!exegesis]- PISA 作为数字治理的典型案例

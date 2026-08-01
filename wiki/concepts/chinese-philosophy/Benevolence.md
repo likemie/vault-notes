@@ -8,7 +8,7 @@ aliases:
 summary: "儒学核心概念，指通过终身修养达到的最高道德境界，超越具体德目（如孝、礼），代表最真诚、最完整的人性实现。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Ritual Propriety]]"
   - "[[Four Sprouts]]"
+  - "[[Praxis]]"
   - "[[Self-Cultivation]]"
   - "[[Junzi]]"
 related_theories:
@@ -89,7 +90,7 @@ updated: 2026-07-08
 > 3. **警觉的自我审视 (vigilant self-watchfulness)** 以敬畏和尊重的精神，对每一件事、每一个行为、每一个念头进行自我审查
 > 4. **开放性与创造性 (open and creative)** 因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性
 > 5. **深刻的内在喜乐 (deep joy)** 在追求 ren 的过程中，人见证自己的生命工程，伴随着深深的喜悦、满足和充实感
-> 6. **即世间而超越 (earthly bound and spiritually transcendent)** ren 既是脚踏实地的日常实践，又具有精神超越的维度
+> 6. **即世间而超越 (earthly bound and spiritually transcendent)** ren 既是脚踏实地的日常[[Praxis|实践]]，又具有精神超越的维度
 
 ---
 

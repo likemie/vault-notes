@@ -7,7 +7,7 @@ aliases:
 summary: "将 STEM 学科与社会科学和人文学科（SSH）深度整合的研究模式，旨在解决需要多学科视角才能应对的复杂社会技术挑战，区别于传统多学科/跨学科研究，强调知识的深度融合而非并列"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Ecosystem]]"
   - "[[Responsible Innovation]]"
+  - "[[Praxis]]"
 related_facts:
   - "[[National Science Foundation]]"
 related_arguments:
@@ -73,4 +74,4 @@ updated: 2026-06-10
 
 > [!tip]-
 > - 与 [[Innovation Ecosystem|创新生态系统]] 的关系 — 融合研究产生的知识和人才可以为生态系统提供更全面的理解和解决方案
-> - 与 [[Responsible Innovation|负责任创新]] 的关系 — SSH 在融合研究中的整合可以更早地识别技术创新的社会伦理影响，从而推动更负责任的创新实践
+> - 与 [[Responsible Innovation|负责任创新]] 的关系 — SSH 在融合研究中的整合可以更早地识别技术创新的社会伦理影响，从而推动更负责任的创新[[Praxis|实践]]

@@ -6,7 +6,7 @@ summary: "通过汇总多项原始研究的效应量来综合证据的统计方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 54
+method_related_count: 60
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Sample Size Determination]]"
   - "[[Forest Plot]]"
+  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Humility in Learning]]"
   - "[[Epistemology]]"
@@ -35,12 +36,17 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Interaction Effect]]"
   - "[[Statistical Significance]]"
-  - "[[Hypothesis]]"
   - "[[Research Utilization]]"
-  - "[[Class Size]]"
-  - "[[Publication Bias]]"
-  - "[[Paradigm]]"
+  - "[[Scale of Measurement]]"
+  - "[[Hypothesis]]"
+  - "[[Standard Error]]"
   - "[[Heterogeneity]]"
+  - "[[Study Population and Sample]]"
+  - "[[Confidence Interval]]"
+  - "[[Publication Bias]]"
+  - "[[Document]]"
+  - "[[Class Size]]"
+  - "[[Paradigm]]"
   - "[[Intercoder Agreement]]"
   - "[[Research Question]]"
 related_theories:
@@ -127,7 +133,7 @@ Glass（1976）和 Glass et al.（1981）区分了三个层次的分析（p.344�
 >
 > - **1990s–2000s — [[Systematic Review|系统综述]]的制度化** 1993 年 Cochrane 协作网成立，将系统综述和元分析制度化为医学证据综合的标准方法。2009 年 PRISMA 声明发布，为系统综述的透明报告提供了标准化框架（[[Argument_Higgins_2016_RE|Higgins, 2016, p.38]]）。
 >
-> - **1990s–2010s — 教育领域的扩展** 元分析在教育研究中的应用从 1990 年代起迅速扩展。Hattie（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向实践者的政策工具。然而[[Sample Size Determination|样本量]]与效应量之间的系统性相关（r = –0.28）表明该领域仍面临方法论挑战（[[Argument_Higgins_2016_RE|Higgins, 2016, p.48]]）。
+> - **1990s–2010s — 教育领域的扩展** 元分析在教育研究中的应用从 1990 年代起迅速扩展。Hattie（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向[[Praxis|实践]]者的政策工具。然而[[Sample Size Determination|样本量]]与效应量之间的系统性相关（r = –0.28）表明该领域仍面临方法论挑战（[[Argument_Higgins_2016_RE|Higgins, 2016, p.48]]）。
 
 ---
 
@@ -215,12 +221,12 @@ Fitz-Gibbon（1985: 46）从实用角度列举了元分析的三项优势（p.34
 
 ### 效应量指标
 
-效应量是元分析中优先于[[Statistical Significance|统计显著性]]的统计量，也是元分析的核心分析单位。最常用的两种指标是标准化均值差和相关系数（Glass et al., 1981: 373），非参数统计量（如中位数）也可使用（pp.349–353）。
+[[Effect Size|效应量]]是元分析中优先于[[Statistical Significance|统计显著性]]的统计量，也是元分析的核心分析单位。最常用的两种指标是标准化均值差和相关系数（Glass et al., 1981: 373），非参数统计量（如中位数）也可使用（pp.349–353）。
 
 > [!formula-step] 标准化均值差（Glass's Δ）
 > $$\Delta = \frac{M_{\text{实验组}} - M_{\text{对照组}}}{SD_{\text{控制组}}}$$
 >
-> **含义** 分子是两组均值的原始差值，分母是控制组的标准差。除以标准差的目的，是把不同研究使用的不同测量尺度统一到同一个量纲上——不管原始测量是百分制还是五级量表，Δ 都表示"实验组比控制组高出几个标准差"。
+> **含义** 分子是两组均值的原始差值，分母是控制组的标准差。除以标准差的目的，是把不同[[Research Utilization|研究使用]]的不同[[Scale of Measurement|测量尺度]]统一到同一个量纲上——不管原始测量是百分制还是五级量表，Δ 都表示"实验组比控制组高出几个标准差"。
 >
 > **读法** Δ = 0.5 表示实验组均值比控制组高出半个标准差。Δ = 0 表示两组无差异。Δ 为负表示实验组表现更差。
 >
@@ -237,7 +243,7 @@ Hedges（1981）提出了小样本校正版本 Hedges' g，以合并标准差替
 
 合并效应量是元分析的核心统计操作。合并方式取决于对研究间变异来源的假设：
 
-> [!formula-step] 固定效应模型（Fixed-Effect Model）
+> [!formula-step] [[Fixed-Effect and Random-Effects Models|固定效应模型]]（Fixed-Effect Model）
 > $$\bar{\Delta} = \frac{\sum w_i \Delta_i}{\sum w_i}, \quad w_i = \frac{1}{v_i}$$
 >
 > **含义** 合并效应量 $\bar{\Delta}$ 是各研究效应量 $\Delta_i$ 的加权平均。权重 $w_i$ 等于该研究效应量方差 $v_i$ 的倒数。方差的倒数就是精度（precision）——方差越小，精度越高，权重越大。换句话说：**越精确的研究（通常就是样本量越大的研究），在合并时越有话语权**。
@@ -248,14 +254,14 @@ Hedges（1981）提出了小样本校正版本 Hedges' g，以合并标准差替
 >
 > $$v_i = \frac{n_{1i} + n_{2i}}{n_{1i} n_{2i}} + \frac{g_i^2}{2(n_{1i} + n_{2i})}$$
 >
-> 其中 $n_{1i}$、$n_{2i}$ 为第 $i$ 项研究两组各自的样本量，$g_i$ 为该研究的标准化均值差。前半项来自两组均值的标准误，后半项是对效应量本身不确定性的修正——效应量越大，对其估计越不精确。两项相加得到 $v_i$，代入 $w_i = 1/v_i$ 即得该研究在固定效应模型中的权重。
+> 其中 $n_{1i}$、$n_{2i}$ 为第 $i$ 项研究两组各自的样本量，$g_i$ 为该研究的标准化均值差。前半项来自两组[[Standard Error|均值的标准误]]，后半项是对效应量本身不确定性的修正——效应量越大，对其估计越不精确。两项相加得到 $v_i$，代入 $w_i = 1/v_i$ 即得该研究在固定效应模型中的权重。
 
 > [!formula-step] 随机效应模型（Random-Effects Model）
 > $$\bar{\Delta} = \frac{\sum w_i^* \Delta_i}{\sum w_i^*}, \quad w_i^* = \frac{1}{v_i + \tau^2}$$
 >
 > **含义** 权重公式与固定效应模型结构相同，但分母多了一个 $\tau^2$（tau-squared，研究间方差）。$\tau^2$ 衡量的是各项研究的真实效应彼此之间有多大的差异——这是抽样误差之外、来自研究本身（不同人群、不同干预方式、不同测量工具）的系统性变异。
 >
-> **为什么多了一个 $\tau^2$** 固定效应模型假定所有研究在测同一个东西，所以只看研究内的精度就够了。随机效应模型承认"这些研究本来就不完全一样"，因此给每个人的方差都加上同一个 $\tau^2$，相当于说"我先给所有研究打一个共同的折扣，再比较谁的精度更高"。$\tau^2$ 越大（异质性越高），各研究的权重越趋近于相等——大样本研究的优势被稀释，小样本研究的话语权相对提升。
+> **为什么多了一个 $\tau^2$** 固定效应模型假定所有研究在测同一个东西，所以只看研究内的精度就够了。随机效应模型承认"这些研究本来就不完全一样"，因此给每个人的方差都加上同一个 $\tau^2$，相当于说"我先给所有研究打一个共同的折扣，再比较谁的精度更高"。$\tau^2$ 越大（[[Heterogeneity|异质性]]越高），各研究的权重越趋近于相等——大样本研究的优势被稀释，小样本研究的话语权相对提升。
 >
 > **假设** 每项研究有自己的真实效应，这些真实效应服从一个正态分布，$\tau^2$ 就是这个分布的方差。合并效应量 $\bar{\Delta}$ 估计的是这个分布的均值。
 >
@@ -263,7 +269,7 @@ Hedges（1981）提出了小样本校正版本 Hedges' g，以合并标准差替
 >
 > $$\hat{\tau}^2 = \max\left(0, \; \frac{Q - (k-1)}{\sum w_i - \frac{\sum w_i^2}{\sum w_i}}\right)$$
 >
-> 其中 $Q$ 为异质性统计量，$k$ 为研究数，$w_i = 1/v_i$ 为固定效应权重。分子的 $Q - (k-1)$ 是"超出随机误差的变异总量"——如果 Q 小于其期望值 $k-1$（即数据比纯随机还一致），则 $\hat{\tau}^2 = 0$，随机效应退化为固定效应。分母是权重和减去权重平方和的比值——当各研究样本量差异大时，这个分母较小，$\tau^2$ 相应较大，恰好反映了"样本量悬殊时研究间方差的估计需要更保守"。
+> 其中 $Q$ 为异质性统计量，$k$ 为研究数，$w_i = 1/v_i$ 为固定效应权重。分子的 $Q - (k-1)$ 是"超出随机误差的变异总量"——如果 Q 小于其期望值 $k-1$（即数据比纯随机还一致），则 $\hat{\tau}^2 = 0$，随机效应退化为固定效应。分母是权重和减去权重平方和的比值——当各[[Study Population and Sample|研究样本]]量差异大时，这个分母较小，$\tau^2$ 相应较大，恰好反映了"样本量悬殊时研究间方差的估计需要更保守"。
 
 > [!math-principle] 模型选择
 > 固定效应模型适用于研究设计、样本和干预高度同质的情形，结论仅适用于纳入研究代表的特定总体。随机效应模型适用于研究间存在实质差异的情形，结论可推广到更广泛的同类研究总体。若异质性检验显著（见下文），应优先使用随机效应模型。
@@ -285,8 +291,8 @@ Hedges（1981）提出了小样本校正版本 Hedges' g，以合并标准差替
 
 ### 森林图
 
-> [!result-reading] 森林图（Forest Plot）
-> 森林图是元分析结果的标准可视化方式。每行代表一项纳入研究，显示其效应量点估计和置信区间；底部的菱形代表合并效应量，宽度为合并估计的置信区间。
+> [!result-reading] [[Forest Plot|森林图]]（Forest Plot）
+> 森林图是元分析结果的标准可视化方式。每行代表一项纳入研究，显示其效应量点估计和[[Confidence Interval|置信区间]]；底部的菱形代表合并效应量，宽度为合并估计的置信区间。
 >
 > 解读时应关注：合并效应的方向和大小、各研究效应是否指向同一方向、置信区间的重叠程度（大量不重叠提示高异质性）、合并效应量是否受少数大权重研究主导。[[Gene Glass]] 本人强调："元分析的结果永远不应该是平均值；它应该是一张图。"
 
@@ -296,7 +302,7 @@ Hedges（1981）提出了小样本校正版本 Hedges' g，以合并标准差替
 
 > [!result-reading] 常用检测方法
 > - **漏斗图（Funnel Plot）** 以效应量为横轴、标准误为纵轴的散点图。无偏倚时呈对称漏斗状，有偏倚时小样本零效应研究缺失导致不对称。
-> - **Egger 回归检验** 检验漏斗图不对称性是否显著，截距显著偏离零提示可能存在发表偏倚。
+> - **Egger 回归检验** 检验漏斗图不对称性是否显著，截距显著偏离零提示可能存在[[Publication Bias|发表偏倚]]。
 > - **Trim-and-Fill 方法** 估算并填补"缺失"研究后重新计算合并效应量，比较填补前后的变化以评估偏倚影响。
 > - **Rosenthal 的失安全系数（Fail-Safe N）** 计算需要多少篇平均效果为零的未发表研究才能推翻现有显著结论。Rosenthal（1991）示例中该比率为 277:1，但该方法依赖未发表研究平均效果为零的假设（pp.355）。
 
@@ -307,13 +313,13 @@ Hedges（1981）提出了小样本校正版本 Hedges' g，以合并标准差替
 > [!software-impl] 常用元分析软件
 > | 工具 | 类型 | 主要功能 |
 > |---|---|---|
-> | **R · metafor**（Viechtbauer, 2010） | 开源 R 包 | 固定与随机效应模型、元回归、调节变量分析、发表偏倚检测、森林图与漏斗图 |
+> | **R · metafor**（Viechtbauer, 2010） | 开源 R 包 | 固定与随机效应模型、元回归、[[Moderator Analysis\|调节变量分析]]、发表偏倚检测、森林图与漏斗图 |
 > | **R · meta**（Balduzzi et al., 2019） | 开源 R 包 | 与 metafor 互补，提供更简洁的接口和预设分析流程 |
 > | **Comprehensive Meta-Analysis（CMA）** | 商业软件 | 图形界面操作，支持多种效应量类型和分析模型 |
-> | **RevMan**（Cochrane 协作网） | 免费软件 | 面向 Cochrane 系统综述的专用工具，支持固定与随机效应模型 |
+> | **RevMan**（Cochrane 协作网） | 免费软件 | 面向 Cochrane [[Systematic Review\|系统综述]]的专用工具，支持固定与随机效应模型 |
 > | **Stata · metan / meta** | 商业统计软件 | 灵活的元分析模块，广泛用于医学和社会科学 |
 
-R 生态中的 metafor 包是目前功能最全面、文献引用最多的元分析工具。CMA 由于其图形界面适合初学者。RevMan 是 Cochrane 系统综述的标准工具，但在教育研究中使用较少。
+R 生态中的 metafor 包是目前功能最全面、[[Document|文献]]引用最多的元分析工具。CMA 由于其图形界面适合初学者。RevMan 是 Cochrane 系统综述的标准工具，但在教育研究中使用较少。
 
 > [!software-impl] R · metafor 基本工作流示例
 > ```r
@@ -347,7 +353,7 @@ R 生态中的 metafor 包是目前功能最全面、文献引用最多的元分
 > summary(res_mod)
 > ```
 >
-> 关键参数说明：`escalc()` 中 `measure = "SMD"` 指定计算标准化均值差（Hedges' g），`rma()` 中 `method = "REML"` 使用限制性最大似然估计 τ²。`mods = ~` 后的公式指定调节变量，输出中 `QM` 行给出调节效应的显著性检验。
+> 关键参数说明：`escalc()` 中 `measure = "SMD"` 指定计算标准化均值差（Hedges' g），`rma()` 中 `method = "REML"` 使用限制性最大似然估计 τ²。`mods = ~` 后的公式指定调节[[Variable|变量]]，输出中 `QM` 行给出[[Interaction Effect|调节效应]]的显著性检验。
 
 ---
 
@@ -357,7 +363,7 @@ R 生态中的 metafor 包是目前功能最全面、文献引用最多的元分
 > - 当有大量使用可比较设计和结果测[[Quantitative Research|量的研究]]时，元分析可以提供效果的总体估计
 > - 在医学领域（其起源领域），元分析在已有充分理论理解治疗机制的前提下可以补充回答"效果平均多大"
 > - 元分析对教育研究尤其重要，因为许多小型研究具有中等或较低的效果，可能无法达到[[Statistical Significance|统计显著性]]。Cooper & Rosenthal（1980）的实证检验表明，元分析比传统叙事综述更不容易低估证据。Gorard（2014）同样指出，合并小型研究可以提供答案，而不必过度依赖与[[Sample Size Determination|样本量]]直接相关的统计显著性（[[Argument_Higgins_2016_RE|Higgins, 2016, p.32]]）
-> - 教育领域中使用元分析的倡导者认为它适合为实践者和政策制定者提供关于"什么有效"的总结性指导（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110–111]]）
+> - 教育领域中使用元分析的倡导者认为它适合为[[Praxis|实践]]者和政策制定者提供关于"什么有效"的总结性指导（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110–111]]）
 
 > [!success] 作为追问变异和调节[[Variable|变量]]的工具
 > - Hattie（2015）从支持者立场强调，元分析最有价值的用法不是把平均效应当成最后答案，而是迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果，平均值背后的变异说明了什么（Hattie, 2015, pp.10–11, 14–15）

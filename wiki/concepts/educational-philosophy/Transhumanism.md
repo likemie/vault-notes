@@ -5,7 +5,7 @@ aliases:
 summary: "以技术手段超越人类生物局限并追求持续优化和增强的思想取向，常用于讨论教育中的能力提升、技术改造和高度现代性的进步想象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Response-ability]]"
   - "[[Humosity]]"
   - "[[Avatar]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -57,14 +58,14 @@ updated: 2026-07-08
 
 > [!abstract] 核心要素
 > - **技术与身体增强** 从物理干预优[[Avatar|化身]]体到技术增强认知增强（cognitive augmentation），如 Natasha Vita-More 的"设计身体"项目([[Argument_Amos_2022_Springer|Amos, 2022, p.58]])
-> - **普世宣称与选择性实践** 超人类主义在修辞层面宣称对全人类开放，但技术实践高度个体化、成本密集，仅为少数人可获得
+> - **普世宣称与选择性[[Praxis|实践]]** 超人类主义在修辞层面宣称对全人类开放，但技术实践高度个体化、成本密集，仅为少数人可获得
 > - **与市场驱动模型的兼容性** 超人类主义与 Cowen 的市场驱动教育模型高度兼容——hyper-individualist、cost-intensive、以劳动力分化为教育目标([[Argument_Amos_2022_Springer|Amos, 2022, pp.58–59]])
 >
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **排他性与不平等** 超人类主义声称普世但在技术实践中暴露选择性。其后果将是教育供给和获取的清晰分层——高端全球教育科技产业设定标准和节奏([[Argument_Amos_2022_Springer|Amos, 2022, p.59]])
+> - **排他性与不平等** 超人类主义声称普世但在技术[[Praxis|实践]]中暴露选择性。其后果将是教育供给和获取的清晰分层——高端全球教育科技产业设定标准和节奏([[Argument_Amos_2022_Springer|Amos, 2022, p.59]])
 > - **物种主义偏见** 超人类主义以人类为中心，具有 speciesist bias
 > - **"谁是完整的人"的问题** 超人类主义项目的核心问题是：谁被视为完全的人、因而可以被纳入优化和完善的对象范围？
 > - **与[[Posthumanism|后人类主义]]的对抗** 后人类主义者如 Haraway 和 Escobar 对分层和社会区隔的崇拜没有兴趣，超人类主义者在不平等中繁荣，后人类主义者在共同体关爱中寻求出路([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])

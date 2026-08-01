@@ -23,6 +23,7 @@ related_concepts:
   - "[[Team Science]]"
   - "[[Partnership Continuum]]"
   - "[[Document]]"
+  - "[[Dialogue in Education]]"
   - "[[Technology Transfer Office]]"
   - "[[Valley of Death]]"
   - "[[Institutional Review Board]]"
@@ -53,7 +54,7 @@ title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -97,7 +98,7 @@ citation_aliases:
 > - 类型：观点性书籍章节（perspective chapter），包含一个历史性的[[Case Study|案例研究]]
 > - 方法：基于作者在 Houston Methodist 研究所（Houston Methodist Research Institute, HMRI）的从业经验（Swick 为研究发展副主任, Jones 为 HMRI 总裁兼首席执行官），结合[[Document|文献]]引用和对 TAVR [[University-Industry Collaboration|产学合作]]历程的历史案例分析
 > - 案例：Houston Methodist DeBakey 心脏与血管中心与 Medtronic 合作开发 TAVR 的产学合作历程(pp.192–194)
-> - 未报告独立的实证数据；论点主要通过概念建构、文献对话和案例说明展开
+> - 未报告独立的实证数据；论点主要通过概念建构、文献[[Dialogue in Education|对话]]和案例说明展开
 
 ---
 

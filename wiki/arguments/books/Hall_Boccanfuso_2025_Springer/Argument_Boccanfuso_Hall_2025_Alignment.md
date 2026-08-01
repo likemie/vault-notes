@@ -29,6 +29,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
+  - "[[Praxis]]"
   - "[[Heterogeneity]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
@@ -62,7 +63,7 @@ title: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_key: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_display_title: "Alignment, Engagement, and Public Benefits"
 argument_kind: "book"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -226,7 +227,7 @@ citation_aliases:
 
 美国大学体系为何特别有利于产学合作？几个关键节点(pp.11–12)：
 
-- **1862 年 [[Morrill Land-Grant Act of 1862|Morrill Act]]（赠地法案）** 将高等教育从精英的"精修学校"扩展为面向更多人的实践教育，专业教育成为明确目标，工程技术类大学得以建立。公共高等教育由各州主导、联邦支持的结构由此确立。
+- **1862 年 [[Morrill Land-Grant Act of 1862|Morrill Act]]（赠地法案）** 将高等教育从精英的"精修学校"扩展为面向更多人的[[Praxis|实践]]教育，专业教育成为明确目标，工程技术类大学得以建立。公共高等教育由各州主导、联邦支持的结构由此确立。
 - **1914 年 [[Smith Lever Act of 1914|Smith Lever Act]]** 在赠地大学建立农业推广服务（extension services），直接支持美国农业产业，建立起了连接研究与实际应用的制度桥梁。
 - **1920 年前** 美国大学的核心特征——博士教育（受德国大学启发）、专业学位项目、产学互动以及作为制度价值的学术自由与客观性——已基本确立。
 

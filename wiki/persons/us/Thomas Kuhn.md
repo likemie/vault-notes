@@ -8,7 +8,7 @@ summary: "美国科学史家和科学哲学家，以《科学革命的结构》�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Incommensurability]]"
+  - "[[Areas of Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -54,4 +55,4 @@ updated: 2026-07-11
 
 ### 范式共同体与权威
 
-库恩将知识领域与学者共同体联系起来，强调一个范式的有效性不仅取决于证据，还取决于它在"权威人士"中所受到的尊重。这揭示了科学不仅是认知活动，也是社会和政治活动（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+库恩将[[Areas of Knowledge|知识领域]]与学者共同体联系起来，强调一个范式的有效性不仅取决于证据，还取决于它在"权威人士"中所受到的尊重。这揭示了科学不仅是认知活动，也是社会和政治活动（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

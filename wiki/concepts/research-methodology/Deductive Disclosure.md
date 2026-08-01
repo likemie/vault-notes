@@ -7,7 +7,7 @@ aliases:
 summary: "读者通过重新组合和拼凑研究数据中的细节来识别个体参与者（个人、学校或部门）的间接身份暴露风险，敏感研究中保护参与者匿名性的关键挑战"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Recommendations for Practice]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Cross-checking]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
@@ -57,7 +58,7 @@ updated: 2026-07-11
 > 研究者应在发表前审查研究报告中的描述性细节，确保即使读者试图重新组合细节以识别受访者，也无法做到（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 212]]）。具体做法包括：
 > 1. 修改或模糊化可能唯一识别个体的特征组合
 > 2. 对人口统计学信息进行区间化处理（如"40-55 岁"而非"50 岁"）
-> 3. 交叉检查——让不熟悉数据的同事尝试"推测"参与者身份
+> 3. [[Cross-checking|交叉检查]]——让不熟悉数据的同事尝试"推测"参与者身份
 > 4. 在某些情况下，获得参与者对可能识别其身份的描述的明确许可
 
 > [!warning] 不可识别性的悖论

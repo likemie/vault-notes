@@ -8,14 +8,15 @@ summary: "整群抽样的延伸，从样本中再抽取样本的多层概率抽�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 4
+method_related_count: 5
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dcfce7"
 tags:
   - method/sampling
   - quantitative-research
 related_concepts:
+  - "[[Praxis]]"
   - "[[Sampling Error]]"
   - "[[Standard Error]]"
 related_theories: []
@@ -58,13 +59,13 @@ updated: 2026-06-22
 
 > [!method-fit] 适用判断
 > - **适合使用** 总体嵌套在多层组织结构中、无法获取完整的个体层面名单。
-> - **谨慎使用** 假定各阶段单位规模大致相等且足够大——实践中未必成立。
+> - **谨慎使用** 假定各阶段单位规模大致相等且足够大——[[Praxis|实践]]中未必成立。
 > - **不适合使用** 各阶段单位规模差异极大且无合适校正方法时。
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **规模假定** 假定各阶段单位（如学校）规模大致相等，实践中未必成立。
+> - **规模假定** 假定各阶段单位（如学校）规模大致相等，[[Praxis|实践]]中未必成立。
 > - **累积误差** 每阶段抽样均引入[[Sampling Error|抽样误差]]，多阶段累积可能使最终[[Standard Error|标准误]]增大。
 > - **缓解方式** 在分析中使用多水平模型或调查加权方法校正。
 

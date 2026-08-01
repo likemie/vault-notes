@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[International Education]]"
+  - "[[Praxis]]"
   - "[[Analytic Framework]]"
   - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"
@@ -70,7 +71,7 @@ updated: '2026-05-28'
 >
 > ### 1984–1991：制度化扩散期
 >
-> - **1987** — 美国教育部发布 *Japanese Education Today*，系统介绍日本学校管理、课程设置和教师培训制度。这是一份由政府机构编制的、以教育实践细节为主题的报告，标志着日本参照从政治修辞进入政策研究层面的制度化
+> - **1987** — 美国教育部发布 *Japanese Education Today*，系统介绍日本学校管理、课程设置和教师培训制度。这是一份由政府机构编制的、以教育[[Praxis|实践]]细节为主题的报告，标志着日本参照从政治修辞进入政策研究层面的制度化
 > - **1988** — Lynn 出版 *Educational Achievement in Japan: Lessons for the West*，在学术层面将日本教育成就与西方国家进行量化对比，持续推动"日本可借鉴"的论述
 > - **1989 前后** — 美日机构增加对赴日教育考察的资金支持，形成较稳定的参照传播网络。Cummings (1989, p. 294) 记录了这一资金驱动机制："为了抵消日益高涨的经济导向的'敲打日本'（Japan-bashing）声浪，各种美日团体开始拨款资助研究旅行……正是由于资金的可得性，美国对日本教育的兴趣才得以升温"（引自 Rappleye, 2006, p. 235）
 > - **1991** — 保守派智库 Heritage Foundation（传统基金会）在美国教育系列讲座中持续引用日本范例，将日本参照从行政和学术领域扩展到智库和公众传播领域
@@ -106,7 +107,7 @@ updated: '2026-05-28'
 >
 > ### 结构性约束——联邦制的刚性
 >
-> 尽管联邦政府大力推崇日本教育，美国联邦—州—地方的分权结构构成了 Rappleye 框架中的"法律/组织结构刚性"——教育权在各州和地方学区，联邦无法强制推行任何实质性制度借用。这解释了该案例最核心的特征：**高吸引力、低借用**。日本教育在美国引发的关注主要集中在话语层面（政策辩论和媒体讨论），而非制度实践层面的移植([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 231]])。
+> 尽管联邦政府大力推崇日本教育，美国联邦—州—地方的分权结构构成了 Rappleye 框架中的"法律/组织结构刚性"——教育权在各州和地方学区，联邦无法强制推行任何实质性制度借用。这解释了该案例最核心的特征：**高吸引力、低借用**。日本教育在美国引发的关注主要集中在话语层面（政策辩论和媒体讨论），而非制度[[Praxis|实践]]层面的移植([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 231]])。
 >
 > 详细的概念[[Analytic Framework|分析框架]]见 [[Cross-National Attraction]] 与 [[Argument_Rappleye_2006_RCIE]]。
 

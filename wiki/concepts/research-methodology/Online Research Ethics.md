@@ -8,7 +8,7 @@ aliases:
 summary: "利用互联网和数字技术收集研究数据时需要遵守的伦理原则和操作指南，涉及身份认证、公共/私密边界模糊、知情同意获取和脆弱群体保护等特殊挑战"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Telephone Interview]]"
@@ -58,7 +59,7 @@ James & Busher (2007) 指出，在线研究带来了确认受访者身份和回�
 Hudson & Bruckman (2005, p. 298) 提出了一个关键发现：公共在线环境中的人往往表现得好像这些环境是私密的。即使公共聊天室的数据无法追溯回匿名参与者，参与者仍然感到自己的隐私被侵犯——而且，当这些数据被用于[[Research Purpose|研究目的]]时，公众将研究者从聊天室中移除。这意味着研究者不能仅仅因为数据"公开可访问"就[[Hypothesis|假设]]使用它们是伦理上无可争议的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 106]]）。
 
 **3. 信任建立需要时间**
-Lewis (2006) 描述了他花了五个月时间与在线联系人建立信任关系。他在接触参与者进行研究之前，先作为在线社区成员发展了与参与者的信任关系。这提示在线研究的伦理实践可能需要比面对面研究更长的前期投入（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 107]]）。
+Lewis (2006) 描述了他花了五个月时间与在线联系人建立信任关系。他在接触参与者进行研究之前，先作为在线社区成员发展了与参与者的信任关系。这提示在线研究的伦理[[Praxis|实践]]可能需要比面对面研究更长的前期投入（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 107]]）。
 
 ---
 

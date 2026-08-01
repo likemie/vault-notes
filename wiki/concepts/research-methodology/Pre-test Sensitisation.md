@@ -10,7 +10,7 @@ aliases:
 summary: "纵向或重复测量研究中，前一轮数据收集本身改变参与者后续认知或行为的现象，导致记录的变化是调查制造而非自然发生的，威胁内部效度"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 related_concepts:
+  - "[[Growth]]"
   - "[[Sensitive Questions]]"
 confidence: medium
 status: draft
@@ -41,7 +42,7 @@ updated: 2026-07-11
 > [!concept-lens] 概念透镜
 > - **含义** 预试敏感化的核心问题是：我们观测到的变化有多少是真实的，有多少是测量过程本身"制造"的？它混淆了测量效应与真实变化。
 > - **用途** 在设计和评估[[Longitudinal Study|纵向研究]]时，需判断观测到的变化是否可能部分归因于预试敏感化；[[Trend Study|趋势研究]]通过每轮更换样本来避免这一问题。
-> - **边界** 预试敏感化是一种特定的威胁来源——它不同于历史效应（外部事件改变观测）、成熟效应（参与者自然成长）和工具变化（测量工具本身改变）。它特指测量行为本身引发的改变。
+> - **边界** 预试敏感化是一种特定的威胁来源——它不同于历史效应（外部事件改变观测）、成熟效应（参与者自然[[Growth|成长]]）和工具变化（测量工具本身改变）。它特指测量行为本身引发的改变。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011d)]]
 
@@ -67,7 +68,7 @@ updated: 2026-07-11
 > |---|---|---|
 > | **预试敏感化** | 前一轮测量本身改变了参与者 | 健康调查 → 吸烟意识 → 戒烟 |
 > | 历史效应 | 外部事件改变了对研究群体的观察 | 经济危机期间测量的就业态度 |
-> | 成熟效应 | 参与者以不同速度和方式自然成长 | 儿童随年龄增长认知能力提高 |
+> | 成熟效应 | 参与者以不同速度和方式自然[[Growth\|成长]] | 儿童随年龄增长认知能力提高 |
 > | 工具变化 | 测量工具的内容或标准在时间上改变 | 公共考试名称不变但难度逐年降低 |
 
 Ruspini (2002, p. 73)将这五项威胁（历史、成熟、测试、因果时间、因果方向）列为纵向数据的系统性威胁，其中"测试"即预试敏感化。

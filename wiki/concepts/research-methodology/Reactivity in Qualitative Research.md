@@ -6,7 +6,7 @@ aliases:
 summary: "研究者在场改变被研究情境的现象，在质性研究中通过延长驻留、谨慎自我呈现和反身性来管理而非消除。"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Educational Immunology]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[Blinding]]"
   - "[[Research Ethics]]"
   - "[[Conatus]]"
@@ -76,7 +77,7 @@ updated: 2026-07-24
 > [!proc] 管理反应性的策略
 > 1. **长期驻留** 在情境中停留足够长时间——Spindler 和 Spindler（1992: 65）建议长到能看见事件重复发生而非仅一次，从而观察规律性。
 > 2. **谨慎的自我呈现** 管理"印象"（impression management），避免突出研究者的局外人特征，与参与者建立信任和融洽关系。
-> 3. **[[Reflexivity|反身性]]实践** 不是试图消除研究者效应（这是不可能的），而是承认、披露和分析研究者对研究的影响——将研究者自身置于审视之下。
+> 3. **[[Reflexivity|反身性]][[Praxis|实践]]** 不是试图消除研究者效应（这是不可能的），而是承认、披露和分析研究者对研究的影响——将研究者自身置于审视之下。
 > 4. **多方法[[Triangulation|三角验证]]** 结合观察、访谈、文档分析等多种数据来源，减少单一方法中反应性影响的权重。
 
 ## 概念辨析

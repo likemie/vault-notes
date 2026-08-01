@@ -4,7 +4,7 @@ aliases: [范式战争, paradigm war, 范式之争, quantitative-qualitative deb
 summary: "20世纪末量化与质性研究范式之间的方法论争论，双方各自坚守范式忠诚，后被混合方法研究的兴起所超越。"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -13,6 +13,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Incommensurability]]"
   - "[[Effect Size]]"
+  - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
@@ -42,7 +43,7 @@ updated: 2026-07-11
 
 ## 终结：混合方法研究的兴起
 
-[[Paradigm|范式]]战争已让位于[[Mixed Methods Research|混合方法研究]]（mixed methods research），后者认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"（Gorard and Smith, 2006: 61）。混合方法研究主张不同范式之间采取更少的对抗（less confrontational approaches）、更多的趋同（greater convergence, Brannen, 2005）和更大的对话（greater dialogue）。它被称为"第三种方法论运动"（the third methodological movement, Teddlie and Tashakkori, 2009）、"第三种研究范式"（the third research paradigm, Johnson and Onwuegbuzie, 2004）和"第三条道路"（the third path, Gorard and Taylor, 2004）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+[[Paradigm|范式]]战争已让位于[[Mixed Methods Research|混合方法研究]]（mixed methods research），后者认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"（Gorard and Smith, 2006: 61）。混合方法研究主张不同范式之间采取更少的对抗（less confrontational approaches）、更多的趋同（greater convergence, Brannen, 2005）和更大的[[Dialogue in Education|对话]]（greater dialogue）。它被称为"第三种方法论运动"（the third methodological movement, Teddlie and Tashakkori, 2009）、"第三种研究范式"（the third research paradigm, Johnson and Onwuegbuzie, 2004）和"第三条道路"（the third path, Gorard and Taylor, 2004）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 超越但不否定
 

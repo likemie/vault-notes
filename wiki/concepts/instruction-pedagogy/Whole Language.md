@@ -6,7 +6,7 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Simple View of Reading]]"
   - "[[Direct Instruction]]"
+  - "[[Praxis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
@@ -94,7 +95,7 @@ citation_aliases: []
 > 2. **完整语境（Whole Context）** 坚决反对为了教学便利而将句子结构和词汇进行人工限制与简化，提倡使用完整的、真实的儿童文学作品 (p.143)。
 > 3. **学习者中心（Learner-Centered）** 尊重儿童的发展步伐与语言变体差异，鼓励儿童在真实的言语和读写事件中承担风险、自主表达 (p.143)。
 > 4. **技能情境化融入（Contextualized Skills）** 全语言理论家（如 Hornsby & Powell, 1993）撰写了大量如何在全语言框架内，在大书（Big Books）阅读情境下流动性地讲授拼读、拼写和解码技巧的指南 (p.148)。
-> 5. **读写作为社会文化实践（Sociocultural Practice）** 承认读写不是中立的认知技能，而是一张复杂的社会文化网络，读写教学法本身就是政治性的，涉及教室内的权力关系 (p.149)。
+> 5. **读写作为社会文化[[Praxis|实践]]（Sociocultural Practice）** 承认读写不是中立的认知技能，而是一张复杂的社会文化网络，读写教学法本身就是政治性的，涉及教室内的权力关系 (p.149)。
 
 ---
 

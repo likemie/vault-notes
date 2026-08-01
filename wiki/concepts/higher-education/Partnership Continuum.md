@@ -9,7 +9,7 @@ aliases:
 summary: "UIDP（2012）提出的产学合作五领域三层级分类框架，将合作形式按学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域和交易-协作-联盟三个层级排列为连续体，用于诊断合作盲区和识别策略机会"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,8 @@ tags:
   - theme/partnership-framework
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Growth]]"
+  - "[[Praxis]]"
   - "[[Technology Transfer]]"
   - "[[Industry Advisory Board]]"
   - "[[Innovation Park]]"
@@ -55,7 +57,7 @@ updated: 2026-06-10
 
 该框架的核心主张是：大学和企业对合作形式的认知通常高度碎片化——各部门只看到与自己职能匹配的那一段光谱，因此容易偏好某种熟悉的合作形式而忽略其他可能更有价值的路径。Partnership Continuum 的价值在于提供了一份"合作全景地图"，使组织能够系统性地诊断现有合作组合中的空白和机会（p.5）。
 
-2017 年 UIDP 基于 Partnership Continuum 框架进一步发布了 Collaboration Metrics Guide，为大学和企业提供了一套可供选择的指标菜单来评估单个战略产学伙伴关系的绩效。该指南的核心目标是使组织能够描绘出伙伴关系是应被培育、有成长机会，还是应升级为战略关系([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.23–24]])。Collaboration Metrics 的指标菜单与 Partnership Continuum 中确定的互动类型紧密关联，形成了一套从"分类合作形式"到"度量合作绩效"的完整实践工具链。
+2017 年 UIDP 基于 Partnership Continuum 框架进一步发布了 Collaboration Metrics Guide，为大学和企业提供了一套可供选择的指标菜单来评估单个战略产学伙伴关系的绩效。该指南的核心目标是使组织能够描绘出伙伴关系是应被培育、有[[Growth|成长]]机会，还是应升级为战略关系([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.23–24]])。Collaboration Metrics 的指标菜单与 Partnership Continuum 中确定的互动类型紧密关联，形成了一套从"分类合作形式"到"度量合作绩效"的完整[[Praxis|实践]]工具链。
 
 > [!example]
 > 一个[[Technology Transfer|大学技术转移]]办公室可能只看到赞助研究和专利许可（属于"研究者互动"领域），而完全没有意识到同一家企业已经在学生招聘会上活跃了十年（属于"学生导向参与"领域）。如果大学能跨越部门界限看到这张全景图，就可以把"招聘合作方"升级为"战略研究伙伴"——这正是 Partnership Continuum 试图促成的认知转变。

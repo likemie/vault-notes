@@ -9,7 +9,7 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -318,7 +319,7 @@ citation_aliases:
 > **第三，帮助比较教育学者更有意识地影响政策辩论。**
 >
 > > [!tip]- 规范主张：学者应介入转移过程
-> > 这是论证最鲜明的规范性主张。Cummings 观察到，比较教育学者"缺乏直接影响力"的一个原因可能是方法论上的：他们"倾向于看国外而非国内，因此不擅长向国内受众传达外国实践的意义"(p. 302，引自 p. 237)。论证通过地图提出一个反问：如果学者只生产关于外国体系的描述性[[Case Study|案例研究]]，然后坐等别人来用这些研究成果——"别人"很可能是那些用芬兰来危机化本国教育或靠日本来合法化自己议程的政治家——那么学者的"中立"在什么意义上是真正的负责任？(p. 237–238)
+> > 这是论证最鲜明的规范性主张。Cummings 观察到，比较教育学者"缺乏直接影响力"的一个原因可能是方法论上的：他们"倾向于看国外而非国内，因此不擅长向国内受众传达外国[[Praxis|实践]]的意义"(p. 302，引自 p. 237)。论证通过地图提出一个反问：如果学者只生产关于外国体系的描述性[[Case Study|案例研究]]，然后坐等别人来用这些研究成果——"别人"很可能是那些用芬兰来危机化本国教育或靠日本来合法化自己议程的政治家——那么学者的"中立"在什么意义上是真正的负责任？(p. 237–238)
 >
 > > “如果我们作为比较学者不将我们的研究、转移过程与本土情境之间的联系明确化，那么那些知识较少的人就会代劳。”
 > ("If we as comparativists do not make the connection between our research, transfer processes, and the home context explicit someone less knowledgeable will.")(p. 238)

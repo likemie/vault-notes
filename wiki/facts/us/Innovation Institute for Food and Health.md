@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
   - region/us
   - level/higher-education
 related_concepts:
+  - "[[Growth]]"
   - "[[Conatus]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
@@ -49,7 +50,7 @@ updated: 2026-06-02
 > - **人才培养** 培养食品与健康领域的未来创新人才
 > - **技术开发** 运用新技术开发更健康的食品
 > - **合作促成** 促成"不寻常的合作"（uncommon collaborations），连接通常不会互动的学科和部门
-> - **商业化支持** 支持新产品和新公司的孵化和成长
+> - **商业化支持** 支持新产品和新公司的孵化和[[Growth|成长]]
 
 > 合作结构包括 Mars 的资金承诺和 UC Davis 的部分配套资金，用于资助从初步研究到商业化的创新项目。截至成立十周年，IIFH 已吸引 21 个额外的技术和投资伙伴（p.321）。
 

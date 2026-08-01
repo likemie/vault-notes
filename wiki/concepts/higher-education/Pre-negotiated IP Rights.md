@@ -8,7 +8,7 @@ aliases:
 summary: "国际产学合作中的知识产权策略概念，指在合作启动前、资产价值尚未显现的概念阶段预先协商权利安排，以避免资产升值后陷入竞争性谈判僵局"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Master Agreement]]"
+  - "[[Praxis]]"
   - "[[Foreground IP]]"
 related_theories: []
 related_methods: []
@@ -65,7 +66,7 @@ updated: 2026-06-02
 ## 实践含义
 
 > [!note]-
-> 在国际[[University-Industry Collaboration|产学合作]]中，预先协商的实践含义包括（p.314）：
+> 在国际[[University-Industry Collaboration|产学合作]]中，预先协商的[[Praxis|实践]]含义包括（p.314）：
 > - 在合作启动前准确定义预期发明或资产的市场标准范围
 > - 确保"[[Pre-negotiated IP Rights|优先谈判权]]"的条款足够具体，涵盖触发条件、谈判期限、未能达成协议的后果
 > - 在跨国情境中，预先协商需要额外考虑各国 IP 法律的不兼容性。由于不存在"国际专利"，预先协商的框架需要明确指定适用的司法管辖区

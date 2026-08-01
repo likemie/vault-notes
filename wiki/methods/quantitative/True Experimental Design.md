@@ -7,7 +7,7 @@ summary: "具备随机分配、控制组、前测后测和变量操纵全部特�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Causality]]"
   - "[[Research Question]]"
+  - "[[Praxis]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
@@ -104,7 +105,7 @@ updated: 2026-07-13
 
 > [!method-fit] 适用判断
 > - **适合使用** 可以[[Random Assignment|随机分配]]参与者时；需要最高[[Internal Validity|内部效度]]的[[Causality|因果推断]]时；[[Research Question|研究问题]]适合在受控环境中检验时。
-> - **谨慎使用** 当随机分配在伦理或实践上不可行时——降级至准实验。
+> - **谨慎使用** 当随机分配在伦理或[[Praxis|实践]]上不可行时——降级至准实验。
 > - **不适合使用** 研究问题需要高度自然情境时（[[Ecological Validity|生态效度]]优先于内部效度）；无法满足伦理要求时。
 
 ## 局限性

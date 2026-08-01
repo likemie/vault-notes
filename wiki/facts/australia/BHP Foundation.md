@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Knowledge Production]]"
+  - "[[Praxis]]"
   - "[[Value Neutrality]]"
   - "[[Policy Network]]"
   - "[[Paradigm]]"
@@ -63,7 +64,7 @@ updated: 2026-06-16
 ## 关键文件／声明
 
 > [!citation-card]- [[Education Endowment Foundation|EEF]] 全球证据生态建设计划
-> - 资助英国 EEF 推动“在教学中构建全球证据生态系统”项目（EEF, 2024）。该项目旨在构建跨国标准化证据库，并将学校教学实践重新框定为可测量、可审计的企业理性。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
+> - 资助英国 EEF 推动“在教学中构建全球证据生态系统”项目（EEF, 2024）。该项目旨在构建跨国标准化证据库，并将学校教学[[Praxis|实践]]重新框定为可测量、可审计的企业理性。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 
@@ -71,7 +72,7 @@ updated: 2026-06-16
 
 > [!finding-cards] 影响与政策成效
 > - **本土循证中介机构的催生** 必和必拓基金会资助的项目直接为澳大利亚 [[Australian Education Research Organisation|AERO]] 提供了机制蓝本与人事交叉环境，成为推动澳大利亚教师教育改革的隐形手。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **企业理性对公共教育的渗透** 通过资助推广“什么有效”的评级和数据模型，将复杂的社会互动实践降维重塑为统一的、可按绩效打分的企业化知识库。
+> - **企业理性对公共教育的渗透** 通过资助推广“什么有效”的评级和数据模型，将复杂的社会互动[[Praxis|实践]]降维重塑为统一的、可按绩效打分的企业化知识库。
 
 ---
 
@@ -80,7 +81,7 @@ updated: 2026-06-16
 > [!actor-grid] 评论视角图
 > - **基金会官方 / [[Venture Philanthropy|风险慈善]]视角** 强调其资助活动致力于人类发展和资源治理，通过科学透明的“全球证据项目”帮助合作伙伴国家提升教学效能，提供[[Value Neutrality|价值中立]]的知识产品。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])
 > - **批判政策社会学视角** 揭示了跨国采矿巨头的慈善基金会通过其资金杠杆介入国家教育政策，构成了绕过民主监督机制的“异层治理”（[[Policy Network|heterarchy]]），模糊了公共和私人利益的界限。
-> - **实践者与大学研究者视角** 担忧私人跨国企业资金主导了教师毕业准入核心大纲的设计倾向，将大学教师大纲改造为特定资本利益和智库游说所期望的标准化模式。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
+> - **[[Praxis|实践]]者与大学研究者视角** 担忧私人跨国企业资金主导了教师毕业准入核心大纲的设计倾向，将大学教师大纲改造为特定资本利益和智库游说所期望的标准化模式。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8, p. 11]])
 
 > [!tension] 争议焦点
 > - **跨国资本对国家主权的隐形绑定**[[Australian Education Research Organisation|AERO]] 董事会核心决策层（包括 Sir Kevan Collins）与 [[Education Endowment Foundation|EEF]] 全球项目的人事及制度性重合，高度打上了由必和必拓基金会资助项目的底层烙印。这揭示了资本如何通过循证包装逃避民主审查，直接倒逼主权国家教育体系走向强制与惩罚性问责。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])

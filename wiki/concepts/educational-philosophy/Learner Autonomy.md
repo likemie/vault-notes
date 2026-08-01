@@ -9,7 +9,7 @@ aliases:
 summary: "学习者对自身学习过程承担责任的能力与意愿，包括批判性反思、元认知意识和自我调节，是课程培养学生独立思考的核心目标之一"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/metacognition
   - theme/curriculum
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Metacognition]]"
   - "[[Critical Thinking]]"
   - "[[Theory of Knowledge]]"
@@ -26,6 +27,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Constructivist Paradigm]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Praxis]]"
   - "[[IB Diploma Programme]]"
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
@@ -52,7 +54,7 @@ updated: 2026-07-02
 > [!concept-lens] 概念透镜
 > - **含义** 学习者自主性指向学习者从被动接收知识转向主动管理学习过程的能力，包括设定目标、选择策略、监控进度和评估结果。它不是孤立学习，而是在社会互动中实现的有支持的独立。
 > - **用途** 自主性为教育者提供评估课程是否真正培养独立思考能力的框架——不仅看学生学到了什么知识，更看学生能否主动提问、独立探究和创造性表达。
-> - **边界** 自主性不等于完全孤立的学习或无结构的自由。自主学习者仍然依赖课堂互动、教师指导和同伴对话来发展能力；自由若无相应技能支撑，反而会失去其教育价值。
+> - **边界** 自主性不等于完全孤立的学习或无结构的自由。自主学习者仍然依赖课堂互动、教师指导和同伴[[Dialogue in Education|对话]]来发展能力；自由若无相应技能支撑，反而会失去其教育价值。
 
 ---
 
@@ -82,7 +84,7 @@ updated: 2026-07-02
 > [!chain-link] 自主性发展路径
 > - **能力建设** 课程通过[[Epistemology|认识论]]知识帮助学生进行分析性思考。知识论（TOK）鼓励对信念和知识主张进行质疑和辩护（Little, 1991），将自主性视为批判性反思的能力。
 > - **自信建立** 当学习者对自己的批判性反思能力有信心时，他们更愿意承担风险、创造性表达观点、珍视自己的问题并信任独立探究的价值。
-> - **自主的相互依存性** 即使学习者独立解读个人经验，这些经验仍根植于社会互动。学习者需要课堂空间进行互动、讨论和对话——阅读不是自主学习经验的终点。Atkins（2006/2009）将这一特征称为"自主的相互依存性"（autonomous interdependence）。
+> - **自主的相互依存性** 即使学习者独立解读个人经验，这些经验仍根植于社会互动。学习者需要课堂空间进行互动、讨论和[[Dialogue in Education|对话]]——阅读不是自主学习经验的终点。Atkins（2006/2009）将这一特征称为"自主的相互依存性"（autonomous interdependence）。
 
 > [!warning] 能力不足时自由的失效
 > 当学习者缺乏处理自由所需的技能时，自由思考就失去了效用。缺乏自信的学习者即使掌握内容知识，也可能无法将知识转化为有组织的知识产品。他们需要外部支持和确认，过度依赖监督和同伴做法来指导自己的行动（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.176]]）。
@@ -101,7 +103,7 @@ updated: 2026-07-02
 
 ## 与批判性思维的关系
 
-自主性与[[Critical Thinking|批判性思维]]紧密关联：自主性实践要求学习者能够批判性地反思自身信念和知识主张。Little（1991）将自主性视为"批判性反思的能力"。[[Theory of Knowledge|知识论]]（TOK）课程作为[[International Baccalaureate|IB]] 的[[Explicit Critical Thinking Instruction|显性批判性思维教学]]载体，其核心设计——质疑信念、反思日常经验、创造性沟通——直接服务于自主性的培养。
+自主性与[[Critical Thinking|批判性思维]]紧密关联：自主性[[Praxis|实践]]要求学习者能够批判性地反思自身信念和知识主张。Little（1991）将自主性视为"批判性反思的能力"。[[Theory of Knowledge|知识论]]（TOK）课程作为[[International Baccalaureate|IB]] 的[[Explicit Critical Thinking Instruction|显性批判性思维教学]]载体，其核心设计——质疑信念、反思日常经验、创造性沟通——直接服务于自主性的培养。
 
 ---
 

@@ -11,7 +11,7 @@ summary: "通过访谈、观察和文本材料理解行动者经验、意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 56
+method_related_count: 59
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Recommendations for Practice]]"
+  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Story Line]]"
   - "[[Analytic Framework]]"
@@ -48,6 +49,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Institutional Review Board]]"
   - "[[Operationalization]]"
+  - "[[Dialogue in Education]]"
   - "[[Rich and Thick Description]]"
   - "[[External Validity]]"
   - "[[Internal Validity]]"
@@ -58,6 +60,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Non-intervention Research]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
+  - "[[Accounts]]"
   - "[[Mixed Methods Research]]"
   - "[[Focus Group]]"
   - "[[Intervention Research]]"
@@ -106,7 +109,7 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 6. **[[Emergent Design|涌现式设计]]（[[Emergent Design]]）** 初始计划不固定，在研究过程中演变。研究问题、数据收集形式、个体和场所都可能变化。
 7. **[[Reflexivity|反身性]]** 研究者反思自身角色、背景、文化和经验如何塑造解释，明确识别偏见、价值观和个人背景。
 8. **研究者角色（Researcher's Role）** 说明研究者与参与者或研究场所之间可能影响解释的联系，警惕"[[Backyard Research|后院研究]]"（backyard research）的风险。
-9. **复杂性描述（A Complex Account）** 研究者尝试呈现关于研究问题的复杂图景——报告多种视角、识别情境中的多种因素，形成一个非线性的、多重因素交互的视觉模型。
+9. **复杂性描述（A Complex [[Accounts|account]]）** 研究者尝试呈现关于研究问题的复杂图景——报告多种视角、识别情境中的多种因素，形成一个非线性的、多重因素交互的视觉模型。
 
 ## 认识论立场
 
@@ -142,7 +145,7 @@ Creswell & Creswell（2022, Ch9）识别了质性研究的九大核心特征：
 ## 局限性
 
 > [!warning] 局限性
-> - **[[Recommendations for Practice|实践建议]]边界** 2020 年五本期刊中 65% 的质性研究包含 RFP；如果这些建议暗含"改变实践会改善结果"的因果结构，就需要谨慎区分解释性发现与因果行动建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
+> - **[[Recommendations for Practice|实践建议]]边界** 2020 年五本期刊中 65% 的质性研究包含 RFP；如果这些建议暗含"改变[[Praxis|实践]]会改善结果"的因果结构，就需要谨慎区分解释性发现与因果行动建议([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
 > - **比例可能受专刊影响** JEP 2020 年质性研究专刊使该年度 JEP 的质性研究数量增加；但排除该专刊后，五刊中质性研究仍占 19%，说明增长并非完全由专刊造成([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.5-6]])。
 
 ## 相关理论
@@ -189,7 +192,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 
 - vs [[Observational and Correlational Research]] — 两者都不操纵自[[Variable|变量]]；观察/相关研究包含量化数据，质性[[Research Utilization|研究使用]]访谈、观察等文本数据([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 - vs Mixed Method and [[Multimethod Research|multi-method research]] — [[Mixed Methods Research|混合方法]]/多方法研究同时包含量化和质性数据；质性研究在 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的[[Coding in Qualitative Research|编码]]中只以质性数据为基础([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
-- vs [[Intervention Research]] — 质性研究可帮助理解教育情境和参与过程，但在该文分类中不操纵变量；干预研究则通过引入处理来检验实践[[Hypothesis|假设]]([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2, 4]])。
+- vs [[Intervention Research]] — 质性研究可帮助理解教育情境和参与过程，但在该文分类中不操纵变量；干预研究则通过引入处理来检验[[Praxis|实践]][[Hypothesis|假设]]([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2, 4]])。
 - vs [[Recommendations for Practice]] — 质性研究可以提出实践启发，但若建议暗含"改变实践会改善结果"的因果结构，就需要说明其证据边界([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7, 9]])。
 
 ## 使用此方法的研究
@@ -293,7 +296,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 > | Miller 使用的策略 | 对应教材八种策略 | 具体操作 |
 > |---|---|---|
 > | [[Triangulation\|数据三角验证]] | 三角验证 | 通过访谈、观察和[[Document\|文件]]分析多个来源收集数据 |
-> | [[Member Checking\|参与者核查]] | 成员核查 | 参与者在整个分析过程中持续提供核查；就研究者对参与者"现实和意义"的解释进行持续对话以确保数据的真实价值 |
+> | [[Member Checking\|参与者核查]] | 成员核查 | 参与者在整个分析过程中持续提供核查；就研究者对参与者"现实和意义"的解释进行持续[[Dialogue in Education\|对话]]以确保数据的真实价值 |
 > | 长期和重复的现场观察 | 延长现场时间 | 四个月内在现场对相似现象和情境进行规律性重复观察 |
 > | 同行检验 | [[Peer Debriefing\|同行审议]] | 教育心理学系的一名博士生和研究生助理担任同行检验者 |
 > | [[Participatory Research\|参与式研究]]模式 | — | 参与者从项目设计到检查解释和结论的多数阶段都有参与 |

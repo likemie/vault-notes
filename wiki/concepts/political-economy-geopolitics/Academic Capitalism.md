@@ -6,7 +6,7 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Varieties of Capitalism]]"
   - "[[Emergence]]"
   - "[[Academic Oligarchy]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -94,5 +95,5 @@ updated: 2026-06-01
 > [!warning]
 > - 部分学者质疑古典政治经济学概念能否直接应用于学术转型——高等教育中的"市场"往往不依赖价格机制和利润动机，准市场和声望竞争与经典市场模型存在显著差异(Marginson, 2006; Rhoades & Slaughter, 2006; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.797]])
 > - 学术资本主义概念过于侧重经济维度，忽略了高等教育的公共功能——如提供可及的知识基础设施和高质量教育(Rhoten & Calhoun, 2011;)
-> - 将大学转型简单归因于市场力量，可能低估了国家政策、[[Academic Oligarchy|专业寡头]]和话语实践在塑造高等教育秩序中的独立作用([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–799]])
+> - 将大学转型简单归因于市场力量，可能低估了国家政策、[[Academic Oligarchy|专业寡头]]和话语[[Praxis|实践]]在塑造高等教育秩序中的独立作用([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.797–799]])
 

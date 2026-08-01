@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 56
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Fitness for Purpose]]"
   - "[[Reliability]]"
+  - "[[Praxis]]"
   - "[[Research Topic]]"
   - "[[Research Contribution]]"
   - "[[Literature Search]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
+  - "[[Dialogue in Education]]"
   - "[[Research Problem]]"
   - "[[Champ]]"
   - "[[Research Ethics]]"
@@ -73,15 +75,17 @@ related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Multiple Regression]]"
   - "[[Experimental Research]]"
+  - "[[Network Analysis]]"
   - "[[Ideology Critique]]"
   - "[[Case Study]]"
+  - "[[Discourse Analysis]]"
   - "[[Comparative Case Study]]"
   - "[[Grounded Theory]]"
   - "[[Longitudinal Study]]"
   - "[[Focus Group]]"
   - "[[Internet-based Survey]]"
   - "[[Archival Research]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
@@ -141,7 +145,7 @@ updated: 2026-06-19
 
 > [!quad-grid] 选题来源的四种驱动力
 >
-> > [!features] 实践驱动
+> > [!features] [[Praxis|实践]]驱动
 > > - 日常工作中的问题（概念／理论／实质／实践／方法论）
 > > - 对政府政策或地方发展的回应
 > > - 改进实践的愿望
@@ -284,7 +288,7 @@ updated: 2026-06-19
 > | 识别影响中学生学习动机的各因素相对强弱 | 调查；[[Observational and Correlational Research\|观察研究]]；[[Multiple Regression\|多元回归]]分析；结构方程模型 |
 > | 比较两种音乐教学方法，看哪种产生最有效学习 | 比较研究；[[Experimental Research\|实验研究]]；因果研究 |
 > | 检验某项[[Homework\|家庭作业]]干预的效果 | 实验；行动研究；[[Causality\|因果]]研究 |
-> | 调查外语教师社区中的社交网络趋势 | 网络分析 |
+> | 调查外语教师社区中的社交网络趋势 | [[Network Analysis\|网络分析]] |
 > | 识别大型中学教师对高级职员领导力的主要看法 | 个人[[Construct\|构念]]；叙述；调查 |
 > | 审查政府关于学校晋升标准的政策 | [[Ideology Critique\|意识形态批判]]；女性主义批判 |
 > | 检验大学为每个学生指派导师的效果 | 调查；[[Case Study\|案例研究]]；因果研究 |
@@ -292,7 +296,7 @@ updated: 2026-06-19
 > | 检验[[Grade Retention\|留级]]是否提高学生表现 | 调查；概化；因果或相关研究 |
 > | 记录对中学班级破坏性学生进行辅导的效果 | [[Case Study\|案例研究]]；因果或相关研究 |
 > | 比较[[Questionnaire\|问卷]]与面对面访谈在收集学生药物使用数据上的效果 | 工具检验；方法论研究 |
-> | 检验课堂问答环节中教师给学生的线索 | 话语分析 |
+> | 检验课堂问答环节中教师给学生的线索 | [[Discourse Analysis\|话语分析]] |
 > | 调查学校中的破坏行为 | [[Covert Research\|隐蔽研究]]；基于知情人的研究 |
 > | [[Comparative Case Study\|比较案例研究]]与调查在调查小学逃学问题上的有效性 | 比较方法论 |
 > | 运行校长与高级教师之间的沟通角色扮演 | 角色扮演 |
@@ -561,7 +565,7 @@ updated: 2026-06-19
 > - **作为进入研究者自身研究的跳板**
 >   提出问题、展示研究领域中的空白（gaps），为研究提供部分理由或必要性。好的文献综述不只是总结，而是揭示为什么还需要多做一项研究。
 > - **展示研究者的批判性判断**
->   对先前研究的评价，并实际上为研究提供新的理论、概念、方法论和实质性洞见。这是研究者主动参与学术对话的场所。
+>   对先前研究的评价，并实际上为研究提供新的理论、概念、方法论和实质性洞见。这是研究者主动参与学术[[Dialogue in Education|对话]]的场所。
 > - **设置研究语境**
 >   确立需解决的关键议题，将研究置于更广泛的学术景观中。
 > - **明确新领域需要在哪里突破**
@@ -686,7 +690,7 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > Part of the discipline of choosing and conducting a piece of research is fining it down to manageable/researchable proportions (cf. Hopkins, 1985, p. 47), to enable rigour (e.g. fitness for purposes and methodological soundness) to be inserted into the research. Rigour in planning and doing research lies in choosing a project that is tightly framed.
 
 > [!citation-card]- 原创性不够
-> 研究需要超越原创数据，选择一个重要的课题，真正为我们的理解和实践做出重要贡献。仅凭原创性是不够的。研究应该能够推动领域前进——也许只是小规模、零散、渐进的方式——但没有这项研究，领域将更加贫乏。（第6章, p.81）
+> 研究需要超越原创数据，选择一个重要的课题，真正为我们的理解和[[Praxis|实践]]做出重要贡献。仅凭原创性是不够的。研究应该能够推动领域前进——也许只是小规模、零散、渐进的方式——但没有这项研究，领域将更加贫乏。（第6章, p.81）
 >
 > Research needs to go beyond this, to choose a significant topic that will actually make an important contribution to our understanding and to practice. Originality alone is not enough. Rather, the research should be able to move forward the [[Champ|field]], perhaps in only a small-scale, piecemeal, incremental way, but nevertheless to advance it such that, without the research, the field would be poorer.
 

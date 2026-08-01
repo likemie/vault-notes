@@ -9,7 +9,7 @@ title: "Argument_Peterson_2016_IJRME"
 argument_key: "Argument_Peterson_2016_IJRME"
 argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Literature Review]]"
+  - "[[Dialogue in Education]]"
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Spirals of Inquiry]]"
@@ -75,8 +77,8 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Literature Review|文献综述]]（literature review），辅以与美英"什么有效"倡议的管理者、评估者和使用者的对话
-> - 范围：证据创造、证据本位实践和教育研究伙伴关系的[[Document|文献]]
+> - 方法：[[Literature Review|文献综述]]（literature review），辅以与美英"什么有效"倡议的管理者、评估者和使用者的[[Dialogue in Education|对话]]
+> - 范围：证据创造、证据本位[[Praxis|实践]]和教育研究伙伴关系的[[Document|文献]]
 > - 对话对象：主要参与美国 [[Investing in Innovation Program|i3]] 拨款和英国 [[Education Endowment Foundation|EEF]] 的相关人员
 
 ## 核心论证
@@ -102,12 +104,12 @@ citation_aliases:
 >
 > ### 结论：共享的"构建块"作为整合媒介
 >
-> 两种适应的兼容性在于：随机化评估转移性机制产生稳健可靠的因果估计→这些机制作为"构建块"指导改进网络中的教师探究→网络实践洞见反馈回新的机制[[Hypothesis|假设]]进入实验测试。"机制标签"将"什么有效"从极少被实施的程序性干预重新导向更高杠杆和更可靠类型的"什么"——最接近影响学习的因素(p. 308)。
+> 两种适应的兼容性在于：随机化评估转移性机制产生稳健可靠的因果估计→这些机制作为"构建块"指导改进网络中的教师探究→网络[[Praxis|实践]]洞见反馈回新的机制[[Hypothesis|假设]]进入实验测试。"机制标签"将"什么有效"从极少被实施的程序性干预重新导向更高杠杆和更可靠类型的"什么"——最接近影响学习的因素(p. 308)。
 
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **黑箱 [[Randomised Controlled Trials|RCT]] 的医学[[Paradigm|范式]]与教育实践的错配是系统性的，不仅可通过改进实施过程评估（IPE）修复**——需要改革试验设计本身(p. 302)
+> 1. **黑箱 [[Randomised Controlled Trials|RCT]] 的医学[[Paradigm|范式]]与教育[[Praxis|实践]]的错配是系统性的，不仅可通过改进实施过程评估（IPE）修复**——需要改革试验设计本身(p. 302)
 > 2. **鼓励设计提供了在不放弃[[Random Assignment|随机化]]优势的前提下将[[Mechanism Experiments|机制实验]]嵌入现有 RCT 的操作路径**(pp. 303–305)
 > 3. **[[Improvement Science|改进科学]]与实验科学高度互补而非对立**——机制实验为改进网络提供方向性因果输入，改进网络为机制实验的发现提供实施和反馈基础设施(pp. 306–307)
 > 4. **建立教育变革机制分类学（类似于行为改变技术分类学 Michie et al., 2013）是[[Operationalization|操作化]]"什么有效 2.0"的关键基础设施步骤**(p. 308)

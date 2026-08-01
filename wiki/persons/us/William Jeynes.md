@@ -11,7 +11,7 @@ summary: "美国保守派教育学者、元分析专家与福音派传教士，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Whole Language]]"
   - "[[Effect Size]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -96,4 +97,4 @@ updated: 2026-06-17
 > - 整个元分析的结论将完全反转。但杰尼斯与[[John Hattie|哈蒂]]均未对这些公开的数据漏洞做出回应或修正（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]]）。
 
 > [!critique-logic] 意识形态与政治宗教同盟
-> 帕特里克·奥康纳（Patrick O'Connor, 2020）指出，杰尼斯的学术研究与其福音派宗教传播、共和党保守派政治议程紧密交织。他通过元分析将复杂的文化实践还原为单一的分数对比，在客观性的外衣下压制了对社会阶级、贫困等结构性不平等的政策探讨，这完美迎合了新自由主义与新保守主义在教育管理上的共同诉求（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147-150]]）。
+> 帕特里克·奥康纳（Patrick O'Connor, 2020）指出，杰尼斯的学术研究与其福音派宗教传播、共和党保守派政治议程紧密交织。他通过元分析将复杂的文化[[Praxis|实践]]还原为单一的分数对比，在客观性的外衣下压制了对社会阶级、贫困等结构性不平等的政策探讨，这完美迎合了新自由主义与新保守主义在教育管理上的共同诉求（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147-150]]）。

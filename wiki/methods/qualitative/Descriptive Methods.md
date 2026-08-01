@@ -9,7 +9,7 @@ summary: "质性研究中贴近数据本身、使用有限框架和解释、将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Story Line]]"
   - "[[Analytic Framework]]"
   - "[[Reliability]]"
+  - "[[Praxis]]"
   - "[[Research Purpose]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -81,7 +82,7 @@ updated: 2026-06-01
 ## 适用场景
 
 > [!success]
-> 描述性方法适用于研究者希望获得对某一现象直截了当的描述时，适合现象本身尚缺乏足够研究积累的探索性阶段，也适合需要向实践者清晰传达参与者经验的应用性研究。
+> 描述性方法适用于研究者希望获得对某一现象直截了当的描述时，适合现象本身尚缺乏足够研究积累的探索性阶段，也适合需要向[[Praxis|实践]]者清晰传达参与者经验的应用性研究。
 
 ---
 

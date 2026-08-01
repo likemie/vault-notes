@@ -7,7 +7,7 @@ aliases:
 summary: "中文对学校同伴的称谓，字面意为一起学习的人，与西方强调平等地位的peer概念形成对比，反映东亚文化中同伴作为学习朋友的功能定位"
 type: concept
 domain: "chinese-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - theme/peer-culture
   - theme/learning-model
 related_concepts:
+  - "[[Growth]]"
   - "[[Peer-Supported Learning]]"
   - "[[Class Size]]"
   - "[[Homework]]"
@@ -85,7 +86,7 @@ updated: 2026-07-08
 > "如切如磋，如琢如磨"（Like bone carved and polished, Like jade cut and ground）
 > —《诗经》，转引自《论语》([[Argument_Li_2012_Cambridge|Li, 2012, p.101]])
 
-这段来自《诗经》的诗句，经过孔子对子贡的教导，成为了东亚文化中同学关系的经典概括：一起研习、一起追问、一起讨论，互相帮助、互相纠正、互相学习、互相提升。一个人的同学构成了其家庭之外终身的社交圈核心——共同的学习也是共同的生活和共同的成长([[Argument_Li_2012_Cambridge|Li, 2012, p.101]])。
+这段来自《诗经》的诗句，经过孔子对子贡的教导，成为了东亚文化中同学关系的经典概括：一起研习、一起追问、一起讨论，互相帮助、互相纠正、互相学习、互相提升。一个人的同学构成了其家庭之外终身的社交圈核心——共同的学习也是共同的生活和共同的[[Growth|成长]]([[Argument_Li_2012_Cambridge|Li, 2012, p.101]])。
 
 在高等教育中，tongxue 变为同窗（tongchuang，"共享书斋"），最终可能成为同窗好友（tongchuang haoyou，"共享书斋的好朋友"）。在日本和中文中，学友一词本身就含有"友"；韩语的校友同样含有"友"。
 

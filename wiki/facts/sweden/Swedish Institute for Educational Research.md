@@ -9,7 +9,7 @@ subtype: policy
 region: sweden
 fact_region: "sweden"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -21,6 +21,8 @@ tags:
   - theme/systematic-review
   - policy/evidence-informed-policy
 related_concepts:
+  - "[[Praxis]]"
+  - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Knowledge Mobilisation]]"
@@ -47,7 +49,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> 该机构开展教育研究[[Systematic Review|系统综述]]，并向瑞典实践者传播综述结果；同时资助研究项目，并通过与学校系统工作人员持续对话来识别需要相关研究的领域([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> 该机构开展教育研究[[Systematic Review|系统综述]]，并向瑞典[[Praxis|实践]]者传播综述结果；同时资助研究项目，并通过与学校系统工作人员持续[[Dialogue in Education|对话]]来识别需要相关研究的领域([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 时间线
 
@@ -57,12 +59,12 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> 该机构把证据生产和需求识别连接起来：一方面做[[Systematic Review|系统综述]]和传播，另一方面通过资助项目和持续对话决定哪些教育问题需要进一步研究([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> 该机构把证据生产和需求识别连接起来：一方面做[[Systematic Review|系统综述]]和传播，另一方面通过资助项目和持续[[Dialogue in Education|对话]]决定哪些教育问题需要进一步研究([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 效果与评价
 
 > [!success]
-> Swedish Institute for Educational Research 体现了国家级证据机构的一个重要功能：不只是向学校输送已有证据，也让实践者需求反过来影响研究议程。这与 [[Evidence-Informed Practice|证据知情实践]] 中多源互动的取向一致([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> Swedish Institute for Educational Research 体现了国家级证据机构的一个重要功能：不只是向学校输送已有证据，也让[[Praxis|实践]]者需求反过来影响研究议程。这与 [[Evidence-Informed Practice|证据知情实践]] 中多源互动的取向一致([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 争议与评论
 
@@ -73,5 +75,5 @@ updated: 2026-05-23
 
 > [!tip]-
 > - [[Educational Evidence Clearinghouses]] — 该机构是[[Systematic Review|系统综述]]和传播型国家证据机构。
-> - [[Knowledge Mobilisation]] — 该机构通过传播和实践者对话推动研究知识进入学校。
+> - [[Knowledge Mobilisation]] — 该机构通过传播和[[Praxis|实践]]者[[Dialogue in Education|对话]]推动研究知识进入学校。
 

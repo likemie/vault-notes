@@ -9,7 +9,7 @@ aliases:
 summary: "西方学习传统第一主题，以数学和演绎逻辑为模型追求确定、客观、普遍的真知，从柏拉图到现代科学贯穿西方知识史"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Self-Cultivation]]"
+  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
@@ -29,6 +30,7 @@ related_methods: []
 related_persons:
   - "[[Socrates]]"
   - "[[Plato]]"
+  - "[[Aristotle]]"
   - "[[Francis Bacon]]"
   - "[[Immanuel Kant]]"
 related_facts: []
@@ -56,7 +58,7 @@ updated: 2026-05-22
 
 > [!note]-
 > - **古希腊**[[Socrates|苏格拉底]]和[[Plato|柏拉图]]是知识确定性和永恒真理的倡导者——柏拉图在《理想国》中说"几何学迫使人注视存在……因为几何学的知识是关于永恒之物的"([[Argument_Li_2012_Cambridge|Li, 2012, pp.24-25]])。Pythagoras 被赞誉为"有史以来最伟大的人之一"，因为他用数学表达了沉思生活的理想([[Argument_Li_2012_Cambridge|Li, 2012, p.24]])
-> - **中世纪** 数学和逻辑被基督教神学家借用——St. Thomas Aquinas 基于亚里士多德的"不动的推动者"论证，用理性证明了上帝的存在、全知、完美和力量([[Argument_Li_2012_Cambridge|Li, 2012, p.25]])
+> - **中世纪** 数学和逻辑被基督教神学家借用——St. Thomas Aquinas 基于[[Aristotle|亚里士多德]]的"不动的推动者"论证，用理性证明了上帝的存在、全知、完美和力量([[Argument_Li_2012_Cambridge|Li, 2012, p.25]])
 > - **17 世纪科学革命** Copernicus、Kepler、Galileo、Leibniz、Newton——"现代科学的奠基巨人"——"他们的全部成就都是数学、逻辑和推理力量的见证"
 > - **培根与洛克**[[Francis Bacon]] 引入归纳法作为系统化的科学探究方法——"他没有挑战对真知的追求本身，而是用更可行的方法为其注入活力"。Locke 持"理性人应对自己的观点保持一定怀疑"——甚至宗教启示也应由理性来评判([[Argument_Li_2012_Cambridge|Li, 2012, pp.25-26]])
 > - **[[Immanuel Kant|康德]]** 《纯粹理性批判》区分了先验知识与后天知识。他通过纯粹思维推导出了心智范畴（量、质、关系、模态），声称人类心智装置总是通过这些范畴来理性地过滤经验
@@ -78,7 +80,7 @@ updated: 2026-05-22
 ## 概念辨析
 
 > [!example]
-> **知识的确定性 vs [[Self-Cultivation|修身]]** 这是中西学习传统最根本的差异之一。西方追求的是对**外部世界**的确定知识——"宇宙的秘密"、自然的规律；儒家追求的是对**自我**的完善——"我该成为什么样的人"。前者以数学为理想模型，后者以人际关系中的道德实践为[[Champ|场域]]。
+> **知识的确定性 vs [[Self-Cultivation|修身]]** 这是中西学习传统最根本的差异之一。西方追求的是对**外部世界**的确定知识——"宇宙的秘密"、自然的规律；儒家追求的是对**自我**的完善——"我该成为什么样的人"。前者以数学为理想模型，后者以人际关系中的道德[[Praxis|实践]]为[[Champ|场域]]。
 
 ---
 

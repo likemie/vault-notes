@@ -5,10 +5,10 @@ aliases:
 summary: "指大学在民主社会中承担独立批判和公共良知角色的概念，强调其不仅生产知识，也要基于公共责任对权力和社会问题发声。"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - critic-and-conscience-of-society
 - region/new-zealand
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -68,5 +69,5 @@ updated: '2026-05-18'
 
 
 > [!success] [[Argument_Hattie_2017_SLM|Hattie (2017)]] 在回应 Eacott 时再度援引该概念
-> 在回应 Eacott（2017）的 [[Cult of the Guru]] 批评时，[[Argument_Hattie_2017_SLM|Hattie (2017, p.427)]]再度援引 Said（1993）的公共知识分子概念和新西兰《教育法》的"critic and conscience of society"条款，将学术批评（包括对他的 VL 的批评）定位为这一法定角色的核心实践——"学者躲在学术期刊中互相交谈、回避其专业领域内的公共辩论，不应有任何安慰"。Hattie 声称他将 Snook et al.（2009）的批评用作自身课程的教学文本，以此论证自己欢迎批评并履行该角色([[Argument_Hattie_2017_SLM|Hattie, 2017, p.428]])。这一援引延续了 Hattie（2010）对该概念的用法——将其理解为学术领域内的正常批评活动，而非 Grace 原初概念所要求的将非学校因素纳入分析核心。
+> 在回应 Eacott（2017）的 [[Cult of the Guru]] 批评时，[[Argument_Hattie_2017_SLM|Hattie (2017, p.427)]]再度援引 Said（1993）的公共知识分子概念和新西兰《教育法》的"critic and conscience of society"条款，将学术批评（包括对他的 VL 的批评）定位为这一法定角色的核心[[Praxis|实践]]——"学者躲在学术期刊中互相交谈、回避其专业领域内的公共辩论，不应有任何安慰"。Hattie 声称他将 Snook et al.（2009）的批评用作自身课程的教学文本，以此论证自己欢迎批评并履行该角色([[Argument_Hattie_2017_SLM|Hattie, 2017, p.428]])。这一援引延续了 Hattie（2010）对该概念的用法——将其理解为学术领域内的正常批评活动，而非 Grace 原初概念所要求的将非学校因素纳入分析核心。
 

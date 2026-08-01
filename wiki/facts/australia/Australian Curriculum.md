@@ -8,7 +8,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
 - curriculum
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Praxis]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Visible Learning]]"
 related_theories: []
@@ -36,7 +37,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 澳大利亚在 2000 年代推动[[Evidence-Based Education|证据本位教育]]改革的过程中，认识到需要统一的全国课程框架来指导教学实践。此前各州课程体系分散，缺乏一致性。
+> 澳大利亚在 2000 年代推动[[Evidence-Based Education|证据本位教育]]改革的过程中，认识到需要统一的全国课程框架来指导教学[[Praxis|实践]]。此前各州课程体系分散，缺乏一致性。
 
 ## 政策文本摘要
 
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 > [!example] 实施情况
 > - ACARA 负责系统性地评估课程，收集反馈并分析课程有效性数据，每年向政府和公众报告([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.127]])
 > - ACARA 董事会决定最新发现是否需要进一步评估和课程变更
-> - 澳大利亚学校实践"课程连接"（curriculum connection），被认为能有效促进师生协作，区别于主题式教学，有意识地维持各学习领域的严谨性同时通过连接赋权学习([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.128–129]])
+> - 澳大利亚学校[[Praxis|实践]]"课程连接"（curriculum connection），被认为能有效促进师生协作，区别于主题式教学，有意识地维持各学习领域的严谨性同时通过连接赋权学习([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.128–129]])
 
 ## 效果与评价
 

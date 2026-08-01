@@ -9,7 +9,7 @@ title: "Argument_Sarbiewska_2019_JSR"
 argument_key: "Argument_Sarbiewska_2019_JSR"
 argument_display_title: "Visible Learning and educational policies in New Zealand and Australia"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Effect Size]]"
   - "[[Literature Review]]"
@@ -57,13 +58,13 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 新西兰和澳大利亚的教育系统在过去二十年间如何通过证据本位方法（特别是 Hattie 的 [[Visible Learning]] 概念）改变教育政策和实践？这种变革的理论基础是什么？
+> 新西兰和澳大利亚的教育系统在过去二十年间如何通过证据本位方法（特别是 Hattie 的 [[Visible Learning]] 概念）改变教育政策和[[Praxis|实践]]？这种变革的理论基础是什么？
 
 ## 理论框架
 
 > [!abstract] 理论框架
 > - [[Dietrich Benner]] 的修正版教学三角（modified didactic triangle）— 区分传统模型（课程作为交换对象，教学=学习）与修正模型（课程作为目标，教学与学习是两种独立但协同的活动）
-> - [[Evidence-Based Education]] — 借鉴自医学的证据本位实践模型(Davies, 1999)
+> - [[Evidence-Based Education]] — 借鉴自医学的证据本位[[Praxis|实践]]模型(Davies, 1999)
 > - [[Visible Learning]] — Hattie 的[[Effect Size|效应量]]排名框架作为政策和实践改革的证据基础
 
 ## 研究方法
@@ -83,7 +84,7 @@ citation_aliases:
 >    - [[Visible Learning|VL]] 提供了量化框架（[[Effect Size|效应量]]四级划分），使教学干预的效果"可见"
 >    - 修正版教学三角重新定位了教师和学生的角色：教学和学习是两种独立活动，在课程目标的交汇处产生真正的教育
 >    - 政策重点从外部因素（家庭背景、校舍、技术）转向师生互动的质量
-> 3. **结论** 新西兰和澳大利亚的教育改革不是通过结构性制度变革，而是通过重新理解"教育是什么"——将教学和学习视为独立但协同的活动，并以证据（特别是 VL）指导实践。VL 的"第三面"是自下而上的学校实践变革
+> 3. **结论** 新西兰和澳大利亚的教育改革不是通过结构性制度变革，而是通过重新理解"教育是什么"——将教学和学习视为独立但协同的活动，并以证据（特别是 VL）指导[[Praxis|实践]]。VL 的"第三面"是自下而上的学校实践变革
 
 ## 主要发现
 
@@ -96,7 +97,7 @@ citation_aliases:
 > - 澳大利亚 Gonski 2.0(2018)提出以个体进步而非年龄基准衡量成功学习
 > - [[Australian Curriculum]](2012)包含三个维度：学习领域、通用能力和跨课程优先事项，各校有独特实施方式(p.128)
 > - [[The New Zealand Curriculum]](2010)包含八项原则（高期望、学会学习、未来焦点等），ERO 定期评估实施情况
-> - 两国学校实践课程连接（curriculum connection），被认为能有效促进师生协作(p.128–129)
+> - 两国学校[[Praxis|实践]]课程连接（curriculum connection），被认为能有效促进师生协作(p.128–129)
 > - [[Visible Learning|VL]] 面临两类批评：方法论批评（[[Effect Size|效应量]]计算"统计上不复杂"）和理论批评（属于[[Radical Constructivism|激进建构主义]][[Paradigm|范式]]，导致教学本质的双重崩溃）(p.121–122)
 
 ## 关键引用

@@ -10,7 +10,7 @@ title: "Argument_Wrigley_2019_ERE"
 argument_key: "Argument_Wrigley_2019_ERE"
 argument_display_title: "Evidence-based teaching: a simple view of 'science'"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,8 +33,10 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Emergence]]"
+  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
+  - "[[Avatar]]"
   - "[[Visible Learning]]"
   - "[[Multiplicity]]"
 related_theories:
@@ -103,7 +105,7 @@ citation_aliases:
 > ### 4. RCT 在教育中的结构性缺陷
 >
 > 三个核心问题(pp. 114–115)：
-> - **双盲不可能** 教育中无法让师生不注意到实践改变。药物试验试图消除人的因素因为"人的意志被视为污染物"，但社会变革恰恰通过人的能动性实现(Pawson, 2006, p. 27)
+> - **双盲不可能** 教育中无法让师生不注意到[[Praxis|实践]]改变。药物试验试图消除人的因素因为"人的意志被视为污染物"，但社会变革恰恰通过人的能动性实现(Pawson, 2006, p. 27)
 > - **样本选择问题** 无法消除学习者多样化特征的"干扰"；[[Random Assignment|随机化]]在教育 RCT 中罕见，因为学校班级通常是预成的
 > - **控制组模糊性** 控制组应该是"什么都不做"还是"照常做"？Pawson (2006, p. 51): "这不是静止的世界。没有真空"
 >

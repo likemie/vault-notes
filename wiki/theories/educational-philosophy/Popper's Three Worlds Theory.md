@@ -6,10 +6,10 @@ aliases:
 summary: "将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 17
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - popper
 - epistemology
@@ -19,10 +19,12 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Abstract]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Areas of Knowledge]]"
   - "[[Visible Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Falsification]]"
   - "[[Epistemology]]"
+  - "[[SOLO Taxonomy]]"
   - "[[Metacognition]]"
   - "[[Cult of the Guru]]"
 related_theories:
@@ -62,7 +64,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] World 3: 文化与科学对象
-> "客观地伟大的"抽象对象——伟大的书籍、理论、交响乐。这是 [[Karl Popper|Popper]] 哲学的核心：存在独立于认知主体的客观知识领域。Hattie 将其对应于"建构性理解"（constructed understanding），并宣称以此作为 [[Visible Learning|VL]] 的教育理想。
+> "客观地伟大的"抽象对象——伟大的书籍、理论、交响乐。这是 [[Karl Popper|Popper]] 哲学的核心：存在独立于认知主体的客观[[Areas of Knowledge|知识领域]]。Hattie 将其对应于"建构性理解"（constructed understanding），并宣称以此作为 [[Visible Learning|VL]] 的教育理想。
 
 ## 发展脉络
 
@@ -87,7 +89,7 @@ updated: '2026-05-18'
 
 
 > [!warning] Qvortrup 的温和修正
-> [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 并不完全拒绝 Hattie 对 Popper 的使用，而是指出 Hattie 同时把 Popper/Bereiter 的三类知识、Bloom 修订版四类知识和 Biggs & Collis 的 SOLO 模型放在一起，但三者之间的对应关系并不清楚：表层知识、深层理解、thinking strategies、factual knowledge、conceptual knowledge、procedural knowledge 和 [[Metacognition|metacognitive knowledge]] 如何相互映射，Hattie 没有给出充分说明([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])。因此，Qvortrup 转向[[Dynamic Knowledge and Learning Model]]，用 Bateson 式一阶至四阶学习来替代单纯分类式或哲学式映射([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.30–32]])。
+> [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 并不完全拒绝 Hattie 对 Popper 的使用，而是指出 Hattie 同时把 Popper/Bereiter 的三类知识、Bloom 修订版四类知识和 Biggs & Collis 的 [[SOLO Taxonomy|SOLO]] 模型放在一起，但三者之间的对应关系并不清楚：表层知识、深层理解、thinking strategies、factual knowledge、conceptual knowledge、procedural knowledge 和 [[Metacognition|metacognitive knowledge]] 如何相互映射，Hattie 没有给出充分说明([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.30]])。因此，Qvortrup 转向[[Dynamic Knowledge and Learning Model]]，用 Bateson 式一阶至四阶学习来替代单纯分类式或哲学式映射([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.30–32]])。
 
 ## 相关研究
 
@@ -99,6 +101,6 @@ updated: '2026-05-18'
 > [!success] 应用领域
 > - [[Visible Learning]] — Hattie 以（被严重误读的）[[Karl Popper|Popper]] 三个世界理论作为 VL 的[[Epistemology|认识论]]基础；在回应 Eacott 的 [[Cult of the Guru]] 批评时，[[Argument_Hattie_2017_SLM|Hattie (2017, p.428)]]再度援引 Popper [[Falsification|证伪主义]]，声称 VL 包含"大胆猜想"因此"容易被证伪"——[[Argument_Rømer_2018_EPT|Rømer (2018)]]和 Johnson & Janzen（2023）指出 Popper 的 fallibilism 旨在区分科学与伪科学，而非为未经证伪的猜想提供免于批评的盾牌
 > - [[Surface and Deep Learning]] — Hattie 将表层学习映射到 World 1、深层学习映射到 World 2、建构性理解映射到 World 3；Rømer 论证此映射严重误读了 Popper
-> - [[Dynamic Knowledge and Learning Model]] — [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从 VL 内部指出 Popper/Bereiter、Bloom 和 SOLO 之间的知识层次对应不清，因而提出动态模型作为替代性概念化路径
+> - [[Dynamic Knowledge and Learning Model]] — [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从 VL 内部指出 Popper/Bereiter、Bloom 和 [[SOLO Taxonomy|SOLO]] 之间的知识层次对应不清，因而提出动态模型作为替代性概念化路径
 > - [[Radical Constructivism]] — 与 Popper 的科学实在论处于认识论的对立两极
 

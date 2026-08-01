@@ -8,10 +8,10 @@ summary: "苏联教育改革家，因其教育思想与实践被西方学界称�
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - field/progressive-education
   - field/correctional-education
@@ -22,8 +22,10 @@ tags:
   - theme/collective-education
   - theme/labor-education
 related_concepts:
+  - "[[Praxis]]"
   - "[[International Education]]"
   - "[[Progressive Education]]"
+  - "[[Experiential Learning]]"
   - "[[Disciplina and Doctrina]]"
 related_theories: []
 related_methods: []
@@ -43,7 +45,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> 安东·马卡连柯（Anton Semyonovich Makarenko, 1888-1939）是苏联教育家、社会工作者和作家，主要以战后孤儿、流浪儿童和少年违法者的教育实践闻名。他在高尔基工学团（Gorky Colony）和捷尔任斯基劳动公社（Dzerzhinsky labour commune）中发展出以**儿童集体、自我管理、劳动生产和严格要求中的尊重**为核心的教育方法（Filonov, 1994; Halvorsen, 2014）。
+> 安东·马卡连柯（Anton Semyonovich Makarenko, 1888-1939）是苏联教育家、社会工作者和作家，主要以战后孤儿、流浪儿童和少年违法者的教育[[Praxis|实践]]闻名。他在高尔基工学团（Gorky Colony）和捷尔任斯基劳动公社（Dzerzhinsky labour commune）中发展出以**儿童集体、自我管理、劳动生产和严格要求中的尊重**为核心的教育方法（Filonov, 1994; Halvorsen, 2014）。
 
 > [!abstract] 阅读抓手
 > 马卡连柯的教育思想不能只读作"纪律教育"或"劳动教育"。更准确地说，他把处境不利儿童的再社会化理解为一种集体生活的重建：儿童不是被动接受改造，而是在有组织的共同劳动、共同责任和集体荣誉中重新获得社会身份。
@@ -75,7 +77,7 @@ updated: '2026-06-08'
 
 - APA：Makarenko, A. S. (1933-1935). *Pedagogicheskaya poema* [The pedagogical poem].
 - 核心内容：以高尔基工学团为基础，将少年违法者、孤儿和流浪儿童的共同生活写成教育叙事。
-- 思想位置：这是理解马卡连柯最重要的入口。它不是单纯的教育论文，而是把教育方法、组织实践、集体生活和文学叙述交织在一起的"教育实验报告"。
+- 思想位置：这是理解马卡连柯最重要的入口。它不是单纯的教育论文，而是把教育方法、组织[[Praxis|实践]]、集体生活和文学叙述交织在一起的"教育实验报告"。
 - 相关概念／理论：儿童集体、集体自治、共同劳动、社会再融入。
 
 ### 1937 — *The Book for Parents*
@@ -115,7 +117,7 @@ updated: '2026-06-08'
 > [!abstract]
 > 劳动在马卡连柯那里不是惩罚，也不只是职业训练，而是集体生活的组织原则：儿童通过真实生产、可见成果和共同责任，获得对自身能力与社会位置的重新理解。
 
-捷尔任斯基劳动公社后来以工业生产闻名，这使马卡连柯的教育实践在苏联语境中兼具教育、经济和政治意义。劳动教育一方面为集体提供物质基础，另一方面也把"未来生活"提前带入日常教育过程。
+捷尔任斯基劳动公社后来以工业生产闻名，这使马卡连柯的教育[[Praxis|实践]]在苏联语境中兼具教育、经济和政治意义。劳动教育一方面为集体提供物质基础，另一方面也把"未来生活"提前带入日常教育过程。
 
 ### 与 John Dewey 的比较
 
@@ -130,7 +132,7 @@ updated: '2026-06-08'
 > - **苏联教育学传统** 马卡连柯被塑造成苏联教育学的重要奠基人物之一，尤其与集体主义教育、劳动教育和少年再教育相连（Filonov, 1994）。
 > - **[[International Education|国际教育]]思想史** 1988 年，UNESCO 相关材料将他与 [[John Dewey]]、Georg Kerschensteiner 和 Maria Montessori 并列为影响 20 世纪教育思想的重要人物之一（Korablova, 2000）。
 > - **矫正教育与社会教育** 英语世界对他的再讨论常发生在 correctional education、group work 和 youth work 语境中，重点不在苏联意识形态，而在"如何让处境不利青少年通过共同生活获得新的社会身份"（Holtz, 2002; Gehring et al., 2005; Halvorsen, 2014）。
-> - **苏俄[[Progressive Education|进步教育]]谱系** 与 [[Stanislav Shatskii]] 并列时，马卡连柯显示了苏俄[[Progressive Education|进步教育]]的另一条路线：Shatskii 更靠近乡村学校实验和 Dewey 式经验教育，马卡连柯更靠近矫正教育、集体组织和劳动公社([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103-104]])。
+> - **苏俄[[Progressive Education|进步教育]]谱系** 与 [[Stanislav Shatskii]] 并列时，马卡连柯显示了苏俄[[Progressive Education|进步教育]]的另一条路线：Shatskii 更靠近乡村学校实验和 Dewey 式[[Experiential Learning|经验教育]]，马卡连柯更靠近矫正教育、集体组织和劳动公社([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103-104]])。
 
 ---
 
@@ -142,4 +144,4 @@ updated: '2026-06-08'
 - **苏联内部批评** 1928 年前后，马卡连柯的方法被批评为不符合当时苏联教育正统，尤其是其纪律、集体自治和劳动组织方式与教育官僚期待发生冲突。
 - **个体与集体的张力** 批评者认为，马卡连柯体系可能赋予儿童集体过强的[[Disciplina and Doctrina|规训]]力量，压制儿童个体权利和家庭权利；Vladimir Sirotin 等后苏联批评者甚至将其称为"命令式教育"或"惩罚性教育"传统的一部分。
 - **再评价**Halvorsen（2014）等较同情的解释则认为，马卡连柯并非简单牺牲个体，而是试图在个体发展和有引导的集体影响之间建立平衡；在青年照护、成瘾干预和群体工作中，这一面向仍有启发性。
-- **政治记忆争议** 2024 年，乌克兰公共记忆与去殖民化语境中，马卡连柯因曾在 NKVD 系统任职而被重新审视；这类争议影响的是公共纪念和命名实践，不等同于禁止研究其教育活动。
+- **政治记忆争议** 2024 年，乌克兰公共记忆与去殖民化语境中，马卡连柯因曾在 NKVD 系统任职而被重新审视；这类争议影响的是公共纪念和命名[[Praxis|实践]]，不等同于禁止研究其教育活动。

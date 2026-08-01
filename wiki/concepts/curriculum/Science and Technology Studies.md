@@ -6,7 +6,7 @@ aliases:
 summary: "跨学科研究领域，主张科学是一种社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产、转译和施行性为关键概念。"
 type: concept
 domain: "curriculum"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
   - paradigm/constructivist
   - philosophy-and-epistemology
 related_concepts:
+  - "[[Praxis]]"
   - "[[Performance Indicators]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Reliability]]"
@@ -54,7 +55,7 @@ updated: 2026-05-18
 
 > [!abstract] 核心概念
 > **共同生产（Co-production）（Jasanoff, 2004）**
-> 科学与国家相互构成：知识嵌入治理实践，治理实践影响知识的生产和使用。知识"结晶"为特定的存在论状态——组织的、物质的、具身的——成为独立的研究对象(Jasanoff, 2004, p.3; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])。
+> 科学与国家相互构成：知识嵌入治理[[Praxis|实践]]，治理实践影响知识的生产和使用。知识"结晶"为特定的存在论状态——组织的、物质的、具身的——成为独立的研究对象(Jasanoff, 2004, p.3; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])。
 >
 > > 例：[[OECD]] [[Performance Indicators|教育指标]]既是科学知识的产物（依赖统计方法论、分类框架），也是治理工具（用于比较国家表现、影响政策决策）——这两方面无法分离
 >
@@ -96,7 +97,7 @@ updated: 2026-05-18
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
-> - **[[Epistemology|认识论]]立场** [[Constructivist Paradigm|建构主义]] / [[Postpositivism|后实证主义]]——科学事实是社会技术实践的产物，不反映独立于实践的客观现实
+> - **[[Epistemology|认识论]]立场** [[Constructivist Paradigm|建构主义]] / [[Postpositivism|后实证主义]]——科学事实是社会技术[[Praxis|实践]]的产物，不反映独立于实践的客观现实
 > - **常用方法** 追踪科学实践（Latour 的"跟随行动者"方法）、历史档案分析、访谈、[[Documentary Analysis|文献分析]]
 > - **关键区别** STS 不从"科学不够好"的立场批判，而是分析科学如何被制造以及其如何与治理纠缠
 
@@ -109,6 +110,6 @@ updated: 2026-05-18
 
 > [!success] 应用领域
 > - **[[Education at a Glance]]** — Gorur 以 STS 视角分析 EAG 指标的发展历程和 performative 效应
-> - **[[Sociology of Measurement]]** — STS 的一个分支应用，专门关注测量技术的实践与效应
+> - **[[Sociology of Measurement]]** — STS 的一个分支应用，专门关注测量技术的[[Praxis|实践]]与效应
 > - **[[Evidence-Based Education]]** — STS 为研究"基于证据的政策制定"等治理模式提供了有力工具，因为科学和国家被视为共同生产的(Jasanoff, 2004; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 

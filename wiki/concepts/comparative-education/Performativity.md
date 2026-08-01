@@ -6,7 +6,7 @@ aliases:
 summary: "Lyotard 提出的输入输出逻辑原则，要求社会系统不断优化表现并以可见的方式证明其表现，在教育研究中用于解释全球政策空间中行动者的实用主义联盟行为及其话语生产特征"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Post-structuralism]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Praxis]]"
   - "[[Policy Network]]"
   - "[[Global Policy Space]]"
   - "[[Floating Signifier]]"
@@ -81,7 +82,7 @@ updated: 2026-07-13
 > [!contrast-table] 概念辨析
 > | 维度 | 治理操演性（Performativity in Governance） | 测量操演性（[[Performativity of Measurement]]） | 身份表演性（Performative Gender/Identity） |
 > |------|--------|----------------|----------------|
-> | **分析对象** | 后现代社会系统的合法化逻辑与网络空间治理规则。 | 教育评价与统计测量技术对实践行为的扭曲。 | 个体主体性与社会身份（如性别）的生成机制。 |
+> | **分析对象** | 后现代社会系统的合法化逻辑与网络空间治理规则。 | 教育评价与统计测量技术对[[Praxis\|实践]]行为的扭曲。 | 个体主体性与社会身份（如性别）的生成机制。 |
 > | **核心机制** | 可见性强制、输入输出优化、[[Pragmatic Paradigm\|实用主义]]联盟。 | 测量指标替代实际目标，如“为考试而教”（Washback）。 | 言语行为的重复实施，通过模拟和操演建构实体。 |
 > | **代表学者** | 让-弗朗索瓦·利奥塔（[[Jean-François Lyotard]]）、斯蒂芬·鲍尔（Stephen Ball） | 戴维·科恩（David Cohen）、[[Ray Pawson\|雷·波森]]（Ray Pawson） | 朱迪斯·巴特勒（Judith Butler）、雅克·德里达（Jacques Derrida） |
 > | **教育应用** | [[Policy Network\|全球政策网络]]的话语流通、绩效评估体系的“恐怖”机制。 | 大学排名、标准化考试的非意图后果（Goodhart定律）。 | 课堂教学中师生多元性别身份的话语建构与协商。 |
@@ -116,7 +117,7 @@ updated: 2026-07-13
 ### 命题类型一：操演性逻辑下的系统恐怖与网络排除机制（Terror & Exclusion）
 
 > [!concept-lens] 绩效评估的[[Disciplina and Doctrina|规训]]压迫
-> 该命题关注操演性原则作为一种无声的行政技术，如何通过将社会关系重构为“可通约的数字/指标”，对行动者实施规训，并排除无法被指标化的实践。
+> 该命题关注操演性原则作为一种无声的行政技术，如何通过将社会关系重构为“可通约的数字/指标”，对行动者实施规训，并排除无法被指标化的[[Praxis|实践]]。
 
 > [!claim] [[Jean-François Lyotard|Lyotard, J. F.]]
 > 操演性在渗透社会关系时会施加一种“系统恐怖”——“要么可操作（即可通约），要么消失”。凡是不能用输入/输出指标、数字和可见表现证明自身效率的知识形态或社会机构，都将被系统视作无用而予以边缘化。(Lyotard, 1984, p. xxiv, 引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 352]])

@@ -7,7 +7,7 @@ aliases:
 summary: "儒学四超越德目之一，是一种社会语法，涵盖从最高祭祀仪式到日常人际互动的全套规范，使人们能够彼此承认、连接、尊重和关怀。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Sense of Shame]]"
   - "[[Five Cardinal Relationships]]"
   - "[[Benevolence]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -78,7 +79,7 @@ updated: 2026-05-22
 
 > [!tip]-
 > - [[Five Cardinal Relationships]] — 礼为五伦关系提供互动规范
-> - [[Benevolence]] — 礼是通往仁的日常实践路径之一
+> - [[Benevolence]] — 礼是通往仁的日常[[Praxis|实践]]路径之一
 > - [[Confucius]] — 孔子阐述礼作为四通用道德原则之首
 
 ---

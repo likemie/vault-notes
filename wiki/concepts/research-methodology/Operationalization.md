@@ -4,7 +4,7 @@ aliases: ["操作化", "operationalizing research", "研究操作化"]
 summary: "将一般研究目的逐层分解为具体、可回答的研究问题或可检验的假设的过程，是研究规划中从抽象到具体的关键步骤。"
 type: concept
 domain: "research-methodology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Research Practicability]]"
+  - "[[Praxis]]"
   - "[[Fitness for Purpose]]"
   - "[[Construct]]"
 related_theories: []
@@ -96,7 +97,7 @@ updated: 2026-06-21
 > [!implication]- 操作化的宽度与深度权衡
 > - **拆解过细** 产生大量[[Research Question|研究问题]]，可能导致研究不可控
 > - **拆解不足** 研究问题仍然模糊，无法指导具体的数据收集和分析
-> - **最佳实践** 操作化应进行到能清晰识别所需数据和工具的程度，然后根据研究约束条件缩减问题数量
+> - **最佳[[Praxis|实践]]** 操作化应进行到能清晰识别所需数据和工具的程度，然后根据研究约束条件缩减问题数量
 
 ---
 
@@ -118,7 +119,7 @@ updated: 2026-06-21
 > [!proc] 问卷操作化的三步推进
 > 1. **明确首要目标** 将一般目的转化为具体、实在的目标。例如从"探索教师对在职教育的看法"转化为"获取中小学教师在在职教育课程提供方面的优先事项的详细描述"。
 > 2. **识别并列举附属议题** 围绕核心目的拆解子议题。例如在职教育的附属议题包括：课程类型、课程内容、地点、时间安排、课程设计和经费。
-> 3. **制定每个附属议题的具体信息需求** 进一步操作化为具体题项。例如"课程类型"需要知道：持续时间、课程地位（有/无学分）、课程取向（理论型/实践型）。
+> 3. **制定每个附属议题的具体信息需求** 进一步操作化为具体题项。例如"课程类型"需要知道：持续时间、课程地位（有/无学分）、课程取向（理论型/[[Praxis|实践]]型）。
 
 Wilson和McLean（1994: 8–9）提出替代路径：识别[[Research Question|研究问题]] → 澄清相关概念或[[Construct|构念]] → 识别这些概念的经验指标（如存在性、强度、主要特征、关键要素等）。
 

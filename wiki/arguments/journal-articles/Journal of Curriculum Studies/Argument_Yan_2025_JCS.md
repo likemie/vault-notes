@@ -10,9 +10,9 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 32
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Curriculum Studies
 citation: "Yan, K. C. A., & Morris, P. (2025). The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong. Journal of Curriculum Studies, 57(4), 480–494."
@@ -34,16 +34,21 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Zhonghua Minzu]]"
   - "[[Document]]"
+  - "[[Growth]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
   - "[[Externalization]]"
   - "[[IB Diploma Programme]]"
+  - "[[Creativity, Action, Service]]"
   - "[[Epistemology]]"
+  - "[[Extended Essay]]"
   - "[[Research Scope]]"
   - "[[Class Size]]"
   - "[[Reliability]]"
   - "[[One Country, Two Systems]]"
+  - "[[Praxis]]"
   - "[[Sinicisation]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -142,7 +147,7 @@ LS 的设计恰好可以吸收这批教师。由于 LS 没有单一学科基础�
 > | 经济及公共事务 | 今日香港 |
 > | 政府与公共行政 | 今日香港 |
 > | 社会教育 | 今日香港、现代中国 |
-> | 综合人文 | 个人成长与人际关系、全球化 |
+> | 综合人文 | 个人[[Growth\|成长]]与人际关系、全球化 |
 > | 科学与技术 | 公共卫生、能源科技与环境 |
 >
 > 许多原本教授这些选修科的教师通过转教 LS 保留了职位(Yan, 2021, 引自 p. 485)。
@@ -155,7 +160,7 @@ LS 也被定位为解决香港教育体制长期痼疾的改革措施。教育�
 
 LS 的课程设计直接回应了这些批评。《通识教育科课程及评估指引》明确表述了[[Constructivist Paradigm|建构主义]]知识观：
 
-> "知识是情境化的、跨学科的、由个人和社会建构的。学习者通过听讲、阅读和模仿等活动获取知识，也通过个人反思和体验式学习，以及与他人的互动、协作和对话来建构知识。"(CDC & HKEAA, 2007, p. 83,原文斜体)
+> "知识是情境化的、跨学科的、由个人和社会建构的。学习者通过听讲、阅读和模仿等活动获取知识，也通过个人反思和体验式学习，以及与他人的互动、协作和[[Dialogue in Education|对话]]来建构知识。"(CDC & HKEAA, 2007, p. 83,原文斜体)
 
 学习目标要求学生能够"清晰地陈述论点，并表现出对证据的尊重、对他人观点和价值的开放与包容"(p. 6, point e)，以及"辨识个人和社会议题中不同观点和判断背后的价值，运用[[Critical Thinking|批判性思维]]......在个人和社会层面作出决定和判断"(p. 6, point d)。这些设计旨在用议题为本的探究式学习取代传统的教科书依赖和死记硬背(pp. 485–486)。
 
@@ -185,9 +190,9 @@ LS 的课程设计大量参照了国际文凭大学预科课程（[[IB Diploma P
 > [!example] LS 与 IBDP 的三个对应关系
 > | LS 组件 | IBDP 对应组件 | 共同特征 |
 > |---|---|---|
-> | 其他学习经历 | 创造、行动与服务（Creativity, Activity, Service, CAS） | 强调学生对社区的参与 |
+> | 其他学习经历 | 创造、行动与服务（Creativity, Activity, Service, [[Creativity, Action, Service\|CAS]]） | 强调学生对社区的参与 |
 > | 自由教育与建构主义理念 | 知识理论（[[Epistemology\|theory of knowledge]], TOK） | 引导学生理解知识本质、发展批判性思维 |
-> | 独立专题探究（Independent Enquiry Study, IES） | 延伸论文（Extended Essay） | 学生自主选题、自主研究方法、自我导向学习 |
+> | 独立专题探究（Independent Enquiry Study, IES） | 延伸论文（[[Extended Essay]]） | 学生自主选题、自主研究方法、自我导向学习 |
 >
 > IES 被设计为"一种自我导向的学习体验，学生承担学习的主要责任......自主选择题目、[[Research Scope|研究范围]]、研究方法以及呈现研究发现和成果的方式"(CDC & HKEAA, 2007, pp. 57–58)。
 
@@ -343,7 +348,7 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 ## 自述局限
 
 > [!warning] 意图课程的分析边界
-> 分析限定在"意图课程"层面，即课程指引、政府政策文件和官方论述，不涉及 LS 在 400 多所香港中学的实际课堂教学和学生学习成果。一个未回答的关键问题是：LS 的课堂教学在多大程度上真正实现了其官方课程目标（批判思维、多角度分析）？[[Citizenship and Social Development|CSD]] 自 2021 年实施以来的课堂实践同样是一片研究空白(pp. 490–491)。
+> 分析限定在"意图课程"层面，即课程指引、政府政策文件和官方论述，不涉及 LS 在 400 多所香港中学的实际课堂教学和学生学习成果。一个未回答的关键问题是：LS 的课堂教学在多大程度上真正实现了其官方课程目标（批判思维、多角度分析）？[[Citizenship and Social Development|CSD]] 自 2021 年实施以来的课堂[[Praxis|实践]]同样是一片研究空白(pp. 490–491)。
 
 > [!warning] 媒体来源的结构性偏向
 > 废除阶段的分析主要依赖中国内地官媒和亲中政治人物的言论。支持 LS 一方的系统性声音（教协、学生组织、独立媒体）在分析中相对缺失。但这一"偏向"本身反映了该时期香港言论空间的急剧收窄。声音的缺失不是研究者的选择性偏见，而是《国安法》下公民社会空间消失的经验事实(pp. 491–492)。

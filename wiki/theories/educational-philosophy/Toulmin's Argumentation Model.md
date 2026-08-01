@@ -8,7 +8,7 @@ aliases:
 summary: "Toulmin 提出的领域依赖的论证结构模型，将论证拆解为六个部件，基于法律推理逻辑，广泛应用于科学教育和批判性思维教学"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 9
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -19,7 +19,9 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Praxis]]"
   - "[[Document]]"
+  - "[[Dialogue in Education]]"
   - "[[Analytic Framework]]"
   - "[[Paradigm]]"
   - "[[Theory of Knowledge]]"
@@ -85,13 +87,13 @@ updated: 2026-07-05
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]** 论证是发生在社会语境中的言语行为，不是脱离语境的形式结构。论证标准的合理性取决于特定领域的认识论实践。
+> - **[[Ontology|本体论]]** 论证是发生在社会语境中的言语行为，不是脱离语境的形式结构。论证标准的合理性取决于特定领域的认识论[[Praxis|实践]]。
 > - **认识论** 论证的合理性是领域依赖的——法律论证依赖判例和法条，科学论证依赖实验和理论，历史论证依赖[[Document|文献]]和考古证据。不存在跨领域的普遍论证标准。
 > - **方法含义** 分析论证时应识别六个部件，逐一检查每个部件的强度，特别注意保证和支撑是否在特定领域中成立。
 > - **不能直接推出的东西** 模型只分析论证的结构，不评价论证的质量。识别出保证和支撑不等于判断它们是否成立。模型不能替代领域知识。
 
 > [!theory-use] 如何用于研究
-> - **作为分析工具** 将教科书、课堂对话或学生论文中的论证分解为六个部件，识别缺失或薄弱的环节。
+> - **作为分析工具** 将教科书、课堂[[Dialogue in Education|对话]]或学生论文中的论证分解为六个部件，识别缺失或薄弱的环节。
 > - **作为教学工具** 帮助学生理解论证的结构、识别薄弱的推理环节，学会追问对方的保证和支撑。
 > - **作为批判视角** 揭示看似完整的论证中哪些部件是隐含的、未经审查的，哪些支撑是薄弱的或缺失的。
 

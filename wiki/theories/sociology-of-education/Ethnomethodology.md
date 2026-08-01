@@ -4,14 +4,16 @@ aliases: [俗民方法学, ethnomethodological]
 summary: "加芬克尔创立的社会学研究取向，将日常生活中最普通的活动作为经验研究对象，关注人们如何运用共享的隐性知识使社会互动变得可理解和可说明。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 3
+theory_related_count: 5
 theory_related_level: 0
-theory_related_stars: "☆"
+theory_related_stars: ""
 theory_related_color: "#e5e7eb"
 tags: [theory/sociological, paradigm/interpretive, theme/micro-sociology]
 related_concepts:
+  - "[[Praxis]]"
   - "[[Indexicality]]"
   - "[[Reflexivity]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +31,7 @@ updated: 2026-07-11
 ## 定义与起源
 
 > [!def] 俗民方法学（Ethnomethodology）
-> 加芬克尔（Harold Garfinkel, 1967）创立的研究取向，其目标是"将实践活动、实践情境和实践的社会学推理作为经验研究的课题，并通过给予日常生活最普通的活动通常只给予非凡事件的关注，寻求将其作为自有权利的现象来研究"（Garfinkel, 1967: vii）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 加芬克尔（Harold Garfinkel, 1967）创立的研究取向，其目标是"将[[Praxis|实践]]活动、实践情境和实践的社会学推理作为经验研究的课题，并通过给予日常生活最普通的活动通常只给予非凡事件的关注，寻求将其作为自有权利的现象来研究"（Garfinkel, 1967: vii）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 加芬克尔对社会世界的研究者提出了一个激进挑战：社会世界的研究者必须怀疑那个世界的实在性。因为未能以更加怀疑的态度看待人类行为，社会学家们创造了一个有序的社会实在——而与真实情况几乎无关（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
@@ -43,4 +45,4 @@ updated: 2026-07-11
 
 ## 两种取向
 
-俗民方法学可分为语言取向（聚焦于对话结构和未明说的"理所当然"意义）和情境取向（聚焦于人们如何协商社会语境，可能刻意扰乱日常情境中的有序元素来揭示底层过程）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+俗民方法学可分为语言取向（聚焦于[[Dialogue in Education|对话]]结构和未明说的"理所当然"意义）和情境取向（聚焦于人们如何协商社会语境，可能刻意扰乱日常情境中的有序元素来揭示底层过程）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

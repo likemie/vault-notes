@@ -8,7 +8,7 @@ aliases:
 summary: "项目在真实学校中是否按设计要求和足够强度实施的概念，用于解释干预效果和证据评级为何不能只看显著性。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Logic Model]]"
   - "[[Statistical Significance]]"
+  - "[[Praxis]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Internal Validity]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -59,7 +60,7 @@ updated: '2026-05-23'
 ## 核心要素
 
 > [!abstract]
-> 实施忠实度至少包括实施质量、实施强度、教师或使用者准备、开发者支持、学生实际使用和项目组件是否按[[Logic Model|逻辑模型]]发生。证据审查若只看研究设计和[[Statistical Significance|统计显著性]]，而很少报告这些实施条件，就会削弱实践者判断项目是否适合本地学校的能力([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.112, 120-121]])。
+> 实施忠实度至少包括实施质量、实施强度、教师或使用者准备、开发者支持、学生实际使用和项目组件是否按[[Logic Model|逻辑模型]]发生。证据审查若只看研究设计和[[Statistical Significance|统计显著性]]，而很少报告这些实施条件，就会削弱[[Praxis|实践]]者判断项目是否适合本地学校的能力([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.112, 120-121]])。
 
 ### 理想条件与普通条件
 
@@ -81,7 +82,7 @@ updated: '2026-05-23'
 ## 争议与批评
 
 > [!warning]
-> 许多正式证据审查只粗略处理实施忠实度。它们会严格审查[[Internal Validity|内部效度]]，却较少呈现教师准备、开发者支持、学生使用强度、用户满意度和成本等信息；这使实践者难以判断项目能否在本地被复制([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.112, 120-121]])。
+> 许多正式证据审查只粗略处理实施忠实度。它们会严格审查[[Internal Validity|内部效度]]，却较少呈现教师准备、开发者支持、学生使用强度、用户满意度和成本等信息；这使[[Praxis|实践]]者难以判断项目能否在本地被复制([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.112, 120-121]])。
 
 > [!warning]
 > 实施忠实度不能被简单理解为“完全照方案做”。在复杂改革中，项目需要穿过课程、问责政策、组织基础设施、领导和社区压力等多重过滤器，地方适应有时是项目持续运行的条件，而不是实施失败的证据([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.111-113]])。

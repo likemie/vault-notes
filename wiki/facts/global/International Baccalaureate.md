@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -20,7 +20,10 @@ tags:
 - subject/curriculum
 related_concepts:
   - "[[International Schools]]"
+  - "[[Praxis]]"
+  - "[[Extended Essay]]"
   - "[[Theory of Knowledge]]"
+  - "[[Creativity, Action, Service]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
@@ -47,7 +50,7 @@ updated: 2026-06-30
 ## 定义
 
 > [!info] 定义
-> 国际文凭（International Baccalaureate, IB）是一套覆盖 3 至 19 岁学生的国际课程体系，包含小学、初中和高中三个项目，专为[[International Schools|国际学校]]设计，强调课程的可转移性([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。IB 源自多所国际学校的教学实践，现已被全球越来越多的国际学校乃至国家学校采用。
+> 国际文凭（International Baccalaureate, IB）是一套覆盖 3 至 19 岁学生的国际课程体系，包含小学、初中和高中三个项目，专为[[International Schools|国际学校]]设计，强调课程的可转移性([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。IB 源自多所国际学校的教学[[Praxis|实践]]，现已被全球越来越多的国际学校乃至国家学校采用。
 
 ## 规模与增长
 
@@ -70,9 +73,9 @@ updated: 2026-06-30
 
 
 > [!abstract] 三项核心要素
-> - **拓展论文（Extended Essay）** 4,000 字的研究论文，展示写作能力
+> - **[[Extended Essay|拓展论文]]（Extended Essay）** 4,000 字的研究论文，展示写作能力
 > - **[[Theory of Knowledge|知识论]]（theory of knowledge）** 要求学生就多种跨文化认知模式进行哲学反思，包括课堂方法论本身
-> - **创造、行动与服务（CAS, Creativity, Action, Service）** 要求学生参与社区服务活动
+> - **创造、行动与服务（[[Creativity, Action, Service|CAS]], Creativity, Action, Service）** 要求学生参与社区服务活动
 
 ## 意识形态中立性争议
 
@@ -113,5 +116,5 @@ IB 学校可通过在线课程中心（Online Curriculum Center）获得总部�
 ## 与中国学习者的关联
 
 
-在东亚——尤其是香港、中国大陆、新加坡和台湾——IB 课程在[[Chinese Learner|中国学习者]]中日益流行([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。IB 课程的艺术组成部分与中国日益增长的博雅教育兴趣相呼应([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.30]])。社区服务（CAS）要求对中国学习者尤其有价值，因为中国学校体系中通常不将社区服务视为教育的重要组成部分([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.31]])。
+在东亚——尤其是香港、中国大陆、新加坡和台湾——IB 课程在[[Chinese Learner|中国学习者]]中日益流行([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。IB 课程的艺术组成部分与中国日益增长的博雅教育兴趣相呼应([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.30]])。社区服务（[[Creativity, Action, Service|CAS]]）要求对中国学习者尤其有价值，因为中国学校体系中通常不将社区服务视为教育的重要组成部分([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.31]])。
 

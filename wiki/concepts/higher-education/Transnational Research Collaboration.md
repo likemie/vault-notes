@@ -7,7 +7,7 @@ aliases:
 summary: "高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Praxis]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Transfer]]"
   - "[[Geopolitics of Knowledge]]"
@@ -52,12 +53,12 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 跨国研究合作指来自不同国家的研究者、机构和资助方跨越国界共同开展研究活动的实践。[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 的分析焦点不在于合作的运作形式，而在于揭示驱动跨国研究合作的**多重理性如何在当代被融合进同一套话语**——个体研究者的学术利益、机构的声誉与基础设施需求、国家的贸易与外交目标被整合为表面统一的合作议程([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])。
+> 跨国研究合作指来自不同国家的研究者、机构和资助方跨越国界共同开展研究活动的[[Praxis|实践]]。[[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 的分析焦点不在于合作的运作形式，而在于揭示驱动跨国研究合作的**多重理性如何在当代被融合进同一套话语**——个体研究者的学术利益、机构的声誉与基础设施需求、国家的贸易与外交目标被整合为表面统一的合作议程([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]])。
 
 ## 概念辨析
 
 > [!example]
-> - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化是涵盖教学、研究、服务多领域的总体过程；跨国研究合作是其研究维度的具体实践形式
+> - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化是涵盖教学、研究、服务多领域的总体过程；跨国研究合作是其研究维度的具体[[Praxis|实践]]形式
 > - vs [[Knowledge Transfer|知识转移]]：知识转移关注知识一旦被生产后进入的挪用、传授、窃取等动态过程（Partaken 的 [[Geopolitics of Knowledge|GPK]] 框架）；跨国研究合作则关注[[Knowledge Production|知识生产]]阶段的跨境协作机制
 
 ## 概念演变

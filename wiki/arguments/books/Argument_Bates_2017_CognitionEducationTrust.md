@@ -7,7 +7,7 @@ title: "Argument_Bates_2017_CognitionEducationTrust"
 argument_key: "Argument_Bates_2017_CognitionEducationTrust"
 argument_display_title: "Darwin's Finch: A Short History of Cognition"
 argument_kind: "book"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -19,6 +19,7 @@ citation: "Bates, T. (2017). Darwin's Finch: A Short History of Cognition. Auckl
 publication_place: "Auckland"
 tags: [region/new-zealand, source/book, theme/organisational-history, theme/education-marketisation]
 related_concepts:
+  - "[[Growth]]"
   - "[[Story Line]]"
   - "[[Chain of Evidence]]"
 related_theories: []
@@ -68,7 +69,7 @@ citation_aliases:
 
 > [!example]
 > 1. 这本书先把 [[Cognition Education]] 的起源放回 [[Tomorrow's Schools Reforms]] 创造的准市场，以此确立一个基本前提：组织命运始终由国家设定的采购与治理边界塑形。(p.11-18)
-> 2. 接着，书中把公司从国内学校支持服务走向国际咨询、建校与培训的历程，解释为一连串由脆弱性驱动的适应，而不是稳定、线性的成长史。具体发展经过见 [[Cognition Education]] 与 [[Jerudong International School Establishment]].(p.21-63)
+> 2. 接着，书中把公司从国内学校支持服务走向国际咨询、建校与培训的历程，解释为一连串由脆弱性驱动的适应，而不是稳定、线性的[[Growth|成长]]史。具体发展经过见 [[Cognition Education]] 与 [[Jerudong International School Establishment]].(p.21-63)
 > 3. 当叙述推进到 [[Visible Learning Branding and Global Influences]] 与 Culture Counts 等知识产品时，重点已不只是“公司做了什么”，而是作者如何把这些业务重写成更轻资产、更可复制、也更能证明组织适应性的商业模型。(p.59-63)
 > 4. 慈善信托章节承担的功能，是把公益从外围装饰提升为组织自我合法化的核心装置。治理分离、资本化基金和资助策略（grant strategy）共同证明，这个组织试图把商业成功和教育公益讲成同一条[[Story Line|故事线]]。(p.69-74)
 > 5. 尾声则把前面所有转折重新压缩成一个单一结论：Cognition 的历史证明了某种演化基因（evolutionary DNA）。换句话说，这本书真正要完成的不是外部检验，而是为组织写出一套“为何能持续存在”的自我解释。(p.75-76)
@@ -89,7 +90,7 @@ citation_aliases:
 
 ### 第3章 沙漠之境（Desert Sands）
 
-第三章把 Qatar 与 Abu Dhabi 写成组织神话最关键的中段。这里的重点不是逐条记录项目经过，而是通过这些项目把“适应”升级为一种更英雄化的能力叙事：组织不仅会响应环境，还敢在规则不清晰、政治化极强的空间里下注，并把含混的改革愿景翻译成可运作制度。(p.35-48)也正是在这里，公司史开始被压缩成“为何能成长到新规模”的证明材料。具体项目扩张史可见 [[Cognition Education]].(p.47-48)
+第三章把 Qatar 与 Abu Dhabi 写成组织神话最关键的中段。这里的重点不是逐条记录项目经过，而是通过这些项目把“适应”升级为一种更英雄化的能力叙事：组织不仅会响应环境，还敢在规则不清晰、政治化极强的空间里下注，并把含混的改革愿景翻译成可运作制度。(p.35-48)也正是在这里，公司史开始被压缩成“为何能[[Growth|成长]]到新规模”的证明材料。具体项目扩张史可见 [[Cognition Education]].(p.47-48)
 
 ### 第4章 编织河道（The Braided River）
 

@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 6
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dcfce7"
@@ -27,9 +27,11 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Policy Entrepreneur]]"
   - "[[Literature Search]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
+  - "[[Network Analysis]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -62,7 +64,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Case Study|案例研究]] + 社会网络分析 + 慈善数据库统计分析
+> - 方法：[[Case Study|案例研究]] + 社会[[Network Analysis|网络分析]] + 慈善数据库统计分析
 > - 数据来源：
 >   - 新西兰慈善服务局（Charities Services）数据库分析（约 6,059 个注册教育慈善机构）
 >   - 六案例组织的年度财务报表分析（2007–2015）
@@ -77,7 +79,7 @@ citation_aliases:
 > 2. **论证步骤**
 >    - 公立学校私有化以两种形式出现：使学校更像企业运营；将私营部门引入公立学校
 >    - 政府政策话语从"政府资助和提供"转向"政府补贴"和"社会投资"，从普遍主义转向有针对性供给
->    - 新西兰慈善法允许非营利慈善机构设立营利性子机构，模糊公私参与的概念和实践区分
+>    - 新西兰慈善法允许非营利慈善机构设立营利性子机构，模糊公私参与的概念和[[Praxis|实践]]区分
 >    - 六案例（Pearson / [[Cognition Education|Cognition Education]] / CORE Education / Foundation North / COMET / Kidscan）展示了私营部门参与的多样性
 >    - EMOs 从系统取出的资金可能超过以合同服务和慈善捐赠形式返还的价值
 > 3. **结论** 政府逐步撤出公立学校的资助和提供，同时在标准和问责上加强控制，根本改变了公共教育系统的逻辑和动力；需要就免费义务公立教育的目的、性质和形式展开公共辩论

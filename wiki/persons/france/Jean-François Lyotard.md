@@ -8,7 +8,7 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 25
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -22,10 +22,12 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Global Policy Space]]"
   - "[[Narrative Knowledge]]"
+  - "[[Praxis]]"
   - "[[Positivism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Incommensurability]]"
   - "[[Postmodernism]]"
+  - "[[Growth]]"
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Academic Capitalism]]"
@@ -77,7 +79,7 @@ updated: 2026-07-11
 > - **1950** 通过哲学教师资格考试（agrégation，与德勒兹、沙特莱、米歇尔·布托尔为同期同学），赴阿尔及利亚的君士坦丁任教。
 > - **1952** 返回法国本土，在拉弗莱什的国立军事学校任教。
 > - **1954–1964** 加入极左翼组织“社会主义或野蛮”（Socialisme ou Barbarie），使用化名 **François Laborde** 撰写多篇分析阿尔及利亚独立运动的文章，并秘密支持阿尔及利亚民族解放阵线（FLN）。1964年离开该组织。
-> - **1964–1966** 加入分裂出来的“工人力量”（Pouvoir Ouvrier），但最终于1966年辞职，逐渐脱离正统马克思主义政治实践。
+> - **1964–1966** 加入分裂出来的“工人力量”（Pouvoir Ouvrier），但最终于1966年辞职，逐渐脱离正统马克思主义政治[[Praxis|实践]]。
 
 ### 2. 欲望解放思潮与感性美学奠基（1968–1974）
 > [!timeline] 生平与职涯 中期阶段
@@ -139,7 +141,7 @@ updated: 2026-07-11
 > 
 > 3. **权力的绩效合法化**
 >    “权力不仅是良好的表演性，也是有效的验证和良好的裁决。它基于效率使科学和法律合法化……因此，权力的增长及其自我合法化，现在正走上数据存储和可获取性以及信息可操作性的路线。”
->    *“Power is not only good performativity, but also effective verification and good verdicts. It legitimates science and the law on the basis of their efficiency, (…) thus the growth of power, and its self-legitimation, are now taking the route of data storage and accessibility, and the operativity of information.”* (Lyotard, 1979/1984, p. 47).
+>    *“Power is not only good performativity, but also effective verification and good verdicts. It legitimates science and the law on the basis of their efficiency, (…) thus the [[Growth]] of power, and its self-legitimation, are now taking the route of data storage and accessibility, and the operativity of information.”* (Lyotard, 1979/1984, p. 47).
 > 
 > 4. **分歧与不义的界定**
 >    “我愿意把‘分歧’定义为这样一种情况：原告被剥夺了进行论证的手段，因而成为了受害者。如果发信者、收信者以及见证的意义被中和了，一切就像没有发生损害一样。两方之间的分歧发生在一个冲突的解决是以其中一方的语言进行的，而另一方所遭受的损害在那种语言中得不到表达。”
@@ -195,4 +197,4 @@ updated: 2026-07-11
 > | [[Geopolitics of Knowledge]] | 概念 | 其叙事知识的式微与科学知识的主导性博弈，被用于揭示全球化背景下软实力与可测量[[Performance Indicators\|绩效指标]]的跨国博弈。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75)]] |
 > | [[Academic Capitalism]] | 概念 | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation\|研究转化]]为以效率与可见度为目标的商业性输出。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 71)]] |
 > | [[Phenomenology]] | 理论 | 现象学为其早期现象学导论著作与晚期奥古斯丁时间现象学阐释提供了核心哲学框架。（根据维基百科关于生平与著作的记载） |
-> | [[PISA]] | 政策 | 其评估与排名机制在学校实践中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |
+> | [[PISA]] | 政策 | 其评估与排名机制在学校[[Praxis\|实践]]中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |

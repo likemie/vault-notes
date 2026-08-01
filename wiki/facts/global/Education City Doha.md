@@ -9,15 +9,16 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
 - region/global
 - region/qatar
 - level/higher-ed
 related_concepts:
+  - "[[Praxis]]"
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Schools]]"
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 > 教育城的出现标志着教育与全球化的一个新阶段，但也提出了诸多问题([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.16]])：
 > - 市场驱动的政策与财务可持续性——这些分校能否在经济上自给自足？
 > - 将一种文化嫁接到另一种文化之上的影响——西方教育模式在中东文化中的适用性
-> - 西方意识形态和社会实践对非西方文化的强加
+> - 西方意识形态和社会[[Praxis|实践]]对非西方文化的强加
 > - 人员、学科和课堂行为混合所带来的跨文化、教学法和伦理意义
 
 ---

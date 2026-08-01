@@ -7,7 +7,7 @@ aliases:
 summary: "大学对多元利益相关者和社会议题保持制度化回应与公共责任的取向，用于组织大学的社会参与、伦理承诺和公共使命。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Global Citizenship]]"
   - "[[Otherhood]]"
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Conatus]]"
 related_theories:
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 
 - 2006 年 Ramirez 从[[World Society Theory|世界社会理论]]视角提出大学的"社会嵌入性"（social embeddedness）概念——大学不仅是一个[[Knowledge Production|知识生产]]机构，更是嵌入社会关系网络的公民组织，对多元利益相关者负有责任。这一概念奠定了 USR 的理论根基([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
 - 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中将社会嵌入性/公民身份纳入 [[Organizational Actorhood]] 的四维度模型，使其成为现代"完全组织"的构成性特征——不是可选的"加分项"，而是现代社会对组织的基本期待([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
-- 2019 年 Sørensen et al. 编辑 *The Responsible University*，系统探讨北欧及其他语境下"负责任大学"的多维实践，标志着 USR 从一个附属概念发展为具有独立学术[[Document|文献]]的研究领域([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
+- 2019 年 Sørensen et al. 编辑 *The Responsible University*，系统探讨北欧及其他语境下"负责任大学"的多维[[Praxis|实践]]，标志着 USR 从一个附属概念发展为具有独立学术[[Document|文献]]的研究领域([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
 
 ### 制度化加速：SDGs 与排名驱动的量化
 
@@ -89,13 +90,13 @@ updated: '2026-05-18'
 
 > [!tip]-
 > - [[Organizational Actorhood]] — USR 是组织能动者身份中社会嵌入性维度的具体化：大学通过 USR 表明自己不仅是[[Knowledge Production|知识生产]]机构，更是对社会负责的公民组织（Bromley & Meyer, 2015）
-> - [[Otherhood]] — USR 实践是大学 otherhood 的制度化表达：大学的 USR 活动（如减碳、促进性别平等、扶贫研究）本质上是为非行动者实体和现代性原则行使代理权([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])
+> - [[Otherhood]] — USR [[Praxis|实践]]是大学 otherhood 的制度化表达：大学的 USR 活动（如减碳、促进性别平等、扶贫研究）本质上是为非行动者实体和现代性原则行使代理权([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])
 
 ---
 ## 实证发现
 
 > [!success]
-> - Corporate Register (2019) 和 Global Reporting Initiative (2019) 的可持续发展披露数据库共列出全球 200+ 所大学的 CSR 报告，涵盖公立和私立、知名和不知名大学，表明 USR 已成为跨越机构类型和声望等级的全球性趋势——不是少数精英大学的特权实践([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.152–153]])
+> - Corporate Register (2019) 和 Global Reporting Initiative (2019) 的可持续发展披露数据库共列出全球 200+ 所大学的 CSR 报告，涵盖公立和私立、知名和不知名大学，表明 USR 已成为跨越机构类型和声望等级的全球性趋势——不是少数精英大学的特权[[Praxis|实践]]([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.152–153]])
 > - 大多数大学的 CSR 报告在过去 5 年内首次发布（Fig. 9.1），其增长曲线呈指数形态，暗示我们正处于 USR 制度化的"起飞期"——这一加速与 [[UN Sustainable Development Goals|SDGs]]（2015）和 [[THE Impact Ranking]]（2019）的时间节点高度吻合([[Argument_Zapp_2022_Springer|Zapp, 2022, p.153]])
 > - 可持续发展已被部分学者视为大学的一种新型"[[Third Mission|第三使命]]"（third mission）甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.150]]）
 > - THE 影响力排名中 SDG 17（"促进目标实现的伙伴关系"）是唯一强制报告指标——这暗示即使在竞争驱动的排名逻辑中，"联合行动"也被视为大学不可推卸的责任([[Argument_Zapp_2022_Springer|Zapp, 2022, p.154]])
@@ -110,7 +111,7 @@ updated: '2026-05-18'
 > [!warning]
 > - **"口头采纳"与"实际行动"的落差**[[Argument_Zapp_2022_Springer|Zapp (2022)]] 提示，CSR 报告的快速增长可能反映的是制度性"口头采纳"（talk）而非实质性行动转变（p.153）
 > - **作为新自由主义合法化工具** 从批判视角看，USR 可能被用于为大学的企业化、市场化和公共拨款缩减提供道德合法性外衣([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
-> - **指标化的简化风险** THE 影响力排名将 USR 的复杂多维实践简化为可比较的量化指标，可能鼓励大学在易得分领域进行表面[[Conatus|努力]]而忽视深层的制度变革
+> - **指标化的简化风险** THE 影响力排名将 USR 的复杂多维[[Praxis|实践]]简化为可比较的量化指标，可能鼓励大学在易得分领域进行表面[[Conatus|努力]]而忽视深层的制度变革
 
 ---
 ## 相关案例／政策

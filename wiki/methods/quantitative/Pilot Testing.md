@@ -13,9 +13,9 @@ summary: "在正式数据收集前使用少量受试者测试研究材料和程�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/procedural
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Study Population and Sample]]"
   - "[[Internal Consistency]]"
-  - "[[Questionnaire Wording]]"
   - "[[Independent Variable]]"
   - "[[Variable]]"
   - "[[Leading Questions]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Research Purpose]]"
   - "[[Rating Scale]]"
+  - "[[Item Analysis]]"
   - "[[Evaluation Research]]"
 related_methods:
   - "[[Survey Research]]"
@@ -48,6 +48,7 @@ related_methods:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -96,7 +97,7 @@ updated: 2026-07-21
 > 3. **收集中间过程的反馈** 包括受试者对问题理解、格式清晰度、说明完整性的意见。
 > 4. **评估总耗时和疲劳风险** 一次过长的测试可能导致正式研究中退出率升高。
 > 5. **检查条目[[Internal Consistency|内部一致性]]** 对试点数据检查 Cronbach's α。
-> 6. **修订并优化** 基于试点反馈修订[[Questionnaire Wording|问题措辞]]、量表格式、施测说明和程序流程。
+> 6. **修订并优化** 基于试点反馈修订问题措辞、量表格式、施测说明和程序流程。
 
 > [!note]- 调查与实验中的预测试差异
 > - **[[Survey Research|调查研究]]** 预测试主要评估[[Questionnaire|问卷]]对研究样本的适用性、条目的内部一致性、问题措辞和格式的清晰度，以及施测时长（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 152]]）。
@@ -151,6 +152,23 @@ updated: 2026-07-21
 
 ---
 
+### 测验编制中的预测试
+
+在测验编制场景中，预测试不仅是质量控制程序，更是获取[[Item Analysis|题目分析]]实证数据的**唯一途径**——题目区分度和难度只有在测验完成后才能计算，对自编测验而言预测试是不可回避的环节（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al., 2011, Ch24, 24.5 节]]）。
+
+> [!proc] 测验预测试的三种方式
+> 1. **小型专家组审查**
+>    审查题目的合适性、效度、相关性、可能的文化偏差和无效度来源、与受试者经验的脱节程度。
+> 2. **小型受试者组反馈**
+>    收集以下方面的反馈：题目、说明和布局的清晰度；措辞歧义或困难；可读性水平和语言问题；题目类型及格式；封闭式和多选题的回答类别；遗漏和冗余；测验布局清晰度；完成时间；题目复杂度。
+> 3. **大型受试者组**
+>    收集大规模数据以计算：信度水平（alpha 系数）；题目难度和题目区分度；识别被普遍误解或未完成的题目；检查因时间不足导致受试者未做的题目；检验计分方案。
+
+> [!warning] 预测试是自编测验的强制环节
+> 题目区分度和难度只有在测验完成后才能知道，区分度和难度有限的题目必须剔除并替换，区分度最佳和难度最适当的题目可以保留——但这一切只能在预测试数据分析之后进行。对小样本上计算的区分度和难度指数应保持谨慎，不宜过度信任。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.5 节)]]
+
+---
+
 ## 资料与分析
 
 > [!method-stack] 预测试的数据类型与分析策略
@@ -190,5 +208,6 @@ updated: 2026-07-21
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在第8章调查方法计划和实验方法计划的检查清单中均将预测试列为核心组成部分。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al.（2011, Ch20）]] — 详细区分[[Questionnaire|问卷]]预测试的双重类型：格式与覆盖范围预测试（18项检查清单）和统计缩减预测试（[[Reliability|信度]]、共线性、[[Multiple Regression|多元回归]]、因子分析四种缩减策略）。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在第 8 章调查方法计划和实验方法计划的检查清单中均将预测试列为核心组成部分
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al.（2011, Ch20）]] — 详细区分[[Questionnaire|问卷]]预测试的双重类型：格式与覆盖范围预测试（18 项检查清单）和统计缩减预测试（[[Reliability|信度]]、共线性、[[Multiple Regression|多元回归]]、因子分析四种缩减策略）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al.（2011, Ch24）]] — 在测验编制场景中提出预测试的三种方式（专家组审查、小受试者组反馈、大受试者组），强调对自编测验而言预测试是不可避免的环节

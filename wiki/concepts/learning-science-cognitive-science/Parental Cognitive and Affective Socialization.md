@@ -8,7 +8,7 @@ aliases:
 summary: "Li (2012) 通过母-子对话研究识别的两种文化社会化模式，欧裔母亲侧重心智-智力框架与兴趣-骄傲情感，台湾母亲侧重美德-品格框架与吃苦-坚持情感"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - field/comparative-education
   - field/cultural-psychology
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Learning Virtues]]"
   - "[[Conatus]]"
   - "[[Pride in Learning]]"
@@ -46,7 +47,7 @@ updated: 2026-05-25
 ## 定义
 
 > [!info]
-> Parental Cognitive and Affective Socialization 是 Li（2012）通过欧美与台湾母-子对话研究（[[Mother-Child Conversation]]）提出的概念，指父母在家庭日常交流中，依据各自文化传统，通过特定的认知框架和情感引导来塑造孩子学习信念的社会化过程([[Argument_Li_2012_Cambridge|Li, 2012, p.238]])。
+> Parental Cognitive and Affective Socialization 是 Li（2012）通过欧美与台湾母-子[[Dialogue in Education|对话]]研究（[[Mother-Child Conversation]]）提出的概念，指父母在家庭日常交流中，依据各自文化传统，通过特定的认知框架和情感引导来塑造孩子学习信念的社会化过程([[Argument_Li_2012_Cambridge|Li, 2012, p.238]])。
 
 两种文化中的母亲都是"高度投入且技巧娴熟的家庭导师"——欧美母亲像[[Socrates|苏格拉底]]式的导师，引导孩子发现心智的伟大；台湾母亲像儒家式的导师，引导孩子修养[[Learning Virtues|学习美德]]([[Argument_Li_2012_Cambridge|Li, 2012, p.278–282]])。差异不在于是否存在社会化，而在于社会化的内容——即用什么框架认知学习、引导什么情感体验学习。
 
@@ -96,7 +97,7 @@ updated: 2026-05-25
 ## 概念辨析
 
 > [!example]
-> - vs 心智效力与美德效力 — Mind/[[Mind Efficacy and Virtue Efficacy|virtue efficacy]] 侧重归因的因果逻辑本身；Parental Cognitive and Affective Socialization 侧重父母如何通过日常对话将这种归因逻辑社会化给孩子
+> - vs 心智效力与美德效力 — Mind/[[Mind Efficacy and Virtue Efficacy|virtue efficacy]] 侧重归因的因果逻辑本身；Parental Cognitive and Affective Socialization 侧重父母如何通过日常[[Dialogue in Education|对话]]将这种归因逻辑社会化给孩子
 > - vs [[Mother-Child Conversation|Mother-Child Conversation]] — Mother-Child Conversation 是一种研究方法（收集模拟对话）；Parental Cognitive and Affective Socialization 是该研究揭示的社会化内容差异
 > - vs 西方 parenting style 研究 — 西方研究中常见的"威权型"对东亚父母的刻画（单向命令、不容质疑）与 Li 的实际发现不符：台湾母女对话中孩子的反驳和协商与欧美对话同样普遍([[Argument_Li_2012_Cambridge|Li, 2012, p.241–244]])
 
@@ -106,7 +107,7 @@ updated: 2026-05-25
 > - 结构分析显示：欧美母亲谈论"心智/学习活动"最多，其次是"积极情感"；台湾母亲谈论"[[Learning Virtues|学习美德]]"最多，其次是"心智"和"消极情感"([[Argument_Li_2012_Cambridge|Li, 2012, p.229–231]])。
 > - 对于好的学习：欧美母亲比台湾母亲多 20% 讨论积极情感；台湾母亲比欧美母亲多近 50% 讨论学习美德([[Argument_Li_2012_Cambridge|Li, 2012, p.231]])。
 > - 对于差的学习：差异更加显著——欧美母亲仍最关注心智和积极情感，避免消极情感；台湾母亲最关注学习美德，对消极情感（如害怕、不认真）展开详细讨论([[Argument_Li_2012_Cambridge|Li, 2012, p.231–233]])。
-> - 序列分析显示：无论从什么话题开始，欧美母子对话最终都转向"积极情感"和"心智活动"的交替讨论；台湾母子对话最终都转向"学习美德"([[Argument_Li_2012_Cambridge|Li, 2012, p.240–248]])。
+> - 序列分析显示：无论从什么话题开始，欧美母子[[Dialogue in Education|对话]]最终都转向"积极情感"和"心智活动"的交替讨论；台湾母子对话最终都转向"学习美德"([[Argument_Li_2012_Cambridge|Li, 2012, p.240–248]])。
 > - 认知社会化中的共性：两组母亲都设置了认知框架将孩子引入话题，孩子都经常反驳和协商，母亲都通过劝说和推理使孩子最终认同([[Argument_Li_2012_Cambridge|Li, 2012, p.238–248]])。
 > - 情感社会化中的共性：两组母亲都积极塑造孩子的学习情感体验；差异在于塑造什么情感——欧美母亲塑造兴趣/乐趣/[[Pride in Learning|骄傲]]，台湾母亲塑造勇气/坚持/吃苦([[Argument_Li_2012_Cambridge|Li, 2012, p.266–280]])。
 

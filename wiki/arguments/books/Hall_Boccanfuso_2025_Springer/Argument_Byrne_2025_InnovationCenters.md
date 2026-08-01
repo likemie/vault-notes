@@ -16,12 +16,14 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Innovation Park]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
   - "[[Analytic Framework]]"
   - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Theoretical Validity]]"
+  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Blue Skies Research]]"
@@ -62,7 +64,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -82,14 +84,14 @@ citation_aliases:
 >
 > 核心问题是，大学和产业伙伴如何系统性地创建、开发和维持一个能够持续推动区域经济发展的创新中心。
 >
-> 每个地区的文化、经济和学术条件各不相同，沿海大都市的经验未必适用于内陆小城，生物医药集群的模式未必能复制到先进制造领域。研究确认不存在"一刀切"的成功模板(pp.124–125)。四十余年实践中浮现出一些在不同地区条件下反复出现的通用原则，正是需要提炼的内容。
+> 每个地区的文化、经济和学术条件各不相同，沿海大都市的经验未必适用于内陆小城，生物医药集群的模式未必能复制到先进制造领域。研究确认不存在"一刀切"的成功模板(pp.124–125)。四十余年[[Praxis|实践]]中浮现出一些在不同地区条件下反复出现的通用原则，正是需要提炼的内容。
 
 ---
 
 ## 理论框架
 
 > [!abstract]
-> 基于[[TUFF|大学融资基金会]]（The University Financing Foundation, TUFF）自 1982 年以来在[[University-Industry Collaboration|产学合作]]开发领域的实践经验。
+> 基于[[TUFF|大学融资基金会]]（The University Financing Foundation, TUFF）自 1982 年以来在[[University-Industry Collaboration|产学合作]]开发领域的[[Praxis|实践]]经验。
 >
 > TUFF 起源于佐治亚理工学院（Georgia Tech）。1982 年，时任校长 Joseph Pettit 提出以私营部门的交付模式为大学建设高质量研究设施，用低于市场的租赁成本吸引产业伙伴，同时最大化联邦资金机会。这一愿景催生了 TUFF——一个由佐治亚理工学院校友创立的 501(c)(3) 基金会。其第一笔合作成果是佐治亚理工学院的 J. Frank Smith Centennial Research Building，此后四十三年来持续扩张(p.123)。
 >
@@ -120,7 +122,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 实践者指南（practitioner guide），基于 [[TUFF]] 四十余年的直接开发经验与多案例分析。案例覆盖十一个[[Innovation Hub|创新中心]]：
+> [[Praxis|实践]]者指南（practitioner guide），基于 [[TUFF]] 四十余年的直接开发经验与多案例分析。案例覆盖十一个[[Innovation Hub|创新中心]]：
 > - [[Tech Square at Georgia Tech|Tech Square]]（佐治亚理工学院）
 > - [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）/ 剑桥创新中心（Cambridge Innovation Center），麻省理工学院（MIT）周边
 > - [[Research Triangle Park]]（RTP，北卡罗来纳州）
@@ -132,7 +134,7 @@ citation_aliases:
 > - [[University of Illinois Research Park]]
 > - STAR Park（特拉华大学）
 >
-> 信息来自 TUFF 的直接参与和与各园区管理者的对话，属于从大量案例中归纳的实践原则，而非系统性实证研究中的[[Hypothesis|假设]]检验。
+> 信息来自 TUFF 的直接参与和与各园区管理者的[[Dialogue in Education|对话]]，属于从大量案例中归纳的实践原则，而非系统性实证研究中的[[Hypothesis|假设]]检验。
 
 ---
 
@@ -193,7 +195,7 @@ citation_aliases:
 
 9. 大型大学拥有研究中心、实验室、专利、校友网络、产业关系等丰富资源，但这些资源往往分散在不同的院系和研究所里，运作在平行孤岛（parallel silos）中。管理学院在做创业孵化，工程学院在做[[Technology Transfer|技术转移]]，医学院在做[[Clinical Trial|临床试验]]，各自有产业伙伴，但彼此之间几乎没有协调(p.126)。
 
-10. 资产映射系统地把这些分散的资产梳理出来，建立一张"谁有什么、谁需要什么"的地图。其实质是真实的关系建立（authentic relationship building），通过与每个利益相关者坐下来对话，了解他们的优势、需求和优先事项。这区别于填表格或做[[Questionnaire|问卷调查]]，因为后者能收集数据却无法建立信任(p.126)。
+10. 资产映射系统地把这些分散的资产梳理出来，建立一张"谁有什么、谁需要什么"的地图。其实质是真实的关系建立（authentic relationship building），通过与每个利益相关者坐下来[[Dialogue in Education|对话]]，了解他们的优势、需求和优先事项。这区别于填表格或做[[Questionnaire|问卷调查]]，因为后者能收集数据却无法建立信任(p.126)。
 
 > [!example]
 > 一所综合性大学要建教育科技创新中心。资产映射的第一步是派一名资深职员逐个拜访以下各方。教育学院的研究团队正在做什么方向的教育研究？计算机系的 AI 实验室有哪些技术可以转化到教育场景？附属中学有哪些真实的课堂痛点需要技术解决？本地教育局在推什么教育[[Informationalization|信息化]]政策？校友中的教育科技创业者当年为什么离开本地去别的城市创业？只有跑完这些对话，才能画出一张准确的"资产地图"，知道谁是真正的技术供给方、谁是需求方、谁是可能的出资方、还缺什么。
@@ -206,7 +208,7 @@ citation_aliases:
 > - **召集者（convener）** 把不同利益相关者拉到一起，创造相互认识的场合
 > - **翻译者（translator）** 帮助学术界理解产业的语言和需求，帮助产业理解学术研究的性质和节奏
 
-13. 资产映射也是文化建设（culture-building）的工具。通过持续与社区对话，创新中心建立自我评估的实践，不断衡量自身是否满足了多元利益相关者的需求，避免大型大学或区域伙伴中因利益分歧而产生的自然摩擦(p.127)。
+13. 资产映射也是文化建设（culture-building）的工具。通过持续与社区对话，创新中心建立自我评估的[[Praxis|实践]]，不断衡量自身是否满足了多元利益相关者的需求，避免大型大学或区域伙伴中因利益分歧而产生的自然摩擦(p.127)。
 
 14. 为有效推进资产映射，产学合作应尽早聘用至少一名在风险投资（venture capital）或早期投资领域经验丰富、人脉广泛的高级职员。该人员作为面向外部的代言人，吸引合作联盟，建立对研究园区能力的清晰认知(p.127)。
 
@@ -420,7 +422,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> - 框架来自实践经验的归纳，未经过系统实证检验（贯穿全章）
+> - 框架来自[[Praxis|实践]]经验的归纳，未经过系统实证检验（贯穿全章）
 > - 利益相关者理论对[[Innovation Park|研究园区]]网络建设有效性的证据"更加定性和轶事性"（more qualitative and anecdotal），研究并不充分(p.126)
 > - 六项优先领域"不是一个详尽的清单"(p.124)
 > - 某些[[Innovation Hub|创新中心]]（如 [[Kendall Square]] / CIC）的数据来自运营方网站，非独立第三方评估(p.128)

@@ -10,7 +10,7 @@ aliases:
 summary: "权力不依赖直接命令或物理在场，而是通过重塑话语、想象、评估技术与自我导向机制在“远处”组织并塑造行为的治理空间机制。在教育全球治理中，它表现为超国家组织（如 OECD）借助标准化测评（如 PISA）和数据基准对主权国家政策进行的去政治化软性规训与交付。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ tags:
   - theme/global-education-governance
 related_concepts:
   - "[[Governmentality]]"
+  - "[[Praxis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Soft Power]]"
   - "[[Assemblage]]"
@@ -59,7 +60,7 @@ updated: 2026-07-09
 > 远处治理（Governing at a Distance，又称远距治理或遥控治理）是[[Governmentality|治理术]]（Governmentality）运作的核心空间机制。它指的是权力不依赖直接的行政命令或物理上的强制力，而是通过重塑知识、话语、评测技术和自我导向机制，在“远处”间接地操纵、组织和塑造个体与机构的行为。 (引自 [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp. 251–252]] 与 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 
 > [!concept-lens] 概念透镜
-> - **含义** 一种去中心化、基于技术中介（如测评数据、最佳实践标准）和主体性生产的非接触式权力统治形式。
+> - **含义** 一种去中心化、基于技术中介（如测评数据、最佳[[Praxis|实践]]标准）和主体性生产的非接触式权力统治形式。
 > - **用途** 在比较教育与教育政策研究中，用于剖析超国家组织（如 [[OECD]]、世界银行）如何在缺乏国家主权命令权的前提下，通过数据基准测试（如 [[PISA]]）远程遥控主权国家的教育政策变迁。
 > - **边界** 它有别于依靠法律和警察权力的传统硬性主权命令，也不等于纯粹自发的市场交易行为，它是一种高度技术化、[[Disciplina and Doctrina|规训]]性的治理理性。
 
@@ -77,7 +78,7 @@ updated: 2026-07-09
 > [!contrast-table] 概念辨析
 > | 维度 | Governing at a Distance (本概念) | Sovereign Command | Market Competition |
 > |------|--------|----------------|----------------|
-> | **运作中介** | 大数据、基准测试、专业技术标准、最佳实践。 | 宪法法律、行政命令、惩罚与禁锢。 | 价格机制、供求关系、商业协议。 |
+> | **运作中介** | 大数据、基准测试、专业技术标准、最佳[[Praxis\|实践]]。 | 宪法法律、行政命令、惩罚与禁锢。 | 价格机制、供求关系、商业协议。 |
 > | **权力形态** | 软权力（[[Soft Power]]）与去政治化的技术[[Disciplina and Doctrina\|规训]]。 | 硬权力（Hard Power）与物理强力在场。 | 资本力量与自由选择。 |
 > | **主体性生产** | 塑造主动契合治理目标的“自我引导”式主体（如理性投资者）。 | 生产顺从指令或遭受惩罚的被动主体。 | 生产最大化个人效用的经济人主体。 |
 
@@ -106,7 +107,7 @@ updated: 2026-07-09
 ### 命题一　理性主义多边机制借助大数据测评行使远处治理，实现了对主权国家政策的非命令式规训
 
 > [!concept-lens] 比较教育政治学
-> 探讨超国家组织如何将“教育比较”重塑为全球标准，从而将地缘控制隐蔽地投射到本土借用实践中。
+> 探讨超国家组织如何将“教育比较”重塑为全球标准，从而将地缘控制隐蔽地投射到本土借用[[Praxis|实践]]中。
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
 > **分散权威与基准数据[[Disciplina and Doctrina|规训]]** 指出 2000 年代以来的全球教育治理，不再依赖国家权力的单向借用，而是通过 [[OECD]] 输出的 [[PISA]] 等基准测评行使远处治理。这种治理技术利用“中立科学”的名义，将复杂的跨国教育比较转化为客观数据排名，引诱主权国家在“提升竞争力”的焦虑中主动顺应其新自由主义教育方案，从而将外部治理规则内化为本土改革的强制动力。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])

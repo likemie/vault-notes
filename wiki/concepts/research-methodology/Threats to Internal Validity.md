@@ -6,7 +6,7 @@ aliases:
 summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell 和 Stanley 经典框架列出十种主要威胁，Onwuegbuzie 和 Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,11 +25,12 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Attrition]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Growth]]"
   - "[[Questionnaire]]"
-  - "[[Questionnaire Wording]]"
   - "[[Conatus]]"
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[Sample Size Determination]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -91,7 +92,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > [!example]- 受试者威胁的案例
 > **历史（History）** 一学期的数学教学法实验中，学校恰好推行了新的课后辅导政策。即使实验组[[Pre-test and Post-test|后测]]成绩更高，也无法区分是教学法的效果还是课后辅导的效果。两组都经历了新政策时，这一威胁得到控制。
 >
-> **成熟（Maturation）** 为期一年的阅读[[Intervention Research|干预研究]]中，对照组学生的阅读成绩也在提高，因为他们自然长大了、认知能力在发展。如果不设对照组，这些自然成长会被误判为干预效果。选取同年级学生作为对照组可以控制这一威胁。
+> **成熟（Maturation）** 为期一年的阅读[[Intervention Research|干预研究]]中，对照组学生的阅读成绩也在提高，因为他们自然长大了、认知能力在发展。如果不设对照组，这些自然[[Growth|成长]]会被误判为干预效果。选取同年级学生作为对照组可以控制这一威胁。
 >
 > **回归均值（Regression to the Mean）** 从全年级中选出数学成绩最差的 30 名学生进行补习。即使补习完全无效，他们的成绩也会在第二次测试中自然上升——第一次测试包含了偶然的低分（测量误差），这些偶然因素不会在第二次测试中重复。选择非极端得分的学生入组可以避免这一问题。
 >
@@ -109,7 +110,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > - **补偿性竞争（Compensatory Rivalry）**
 >   对照组因未接受处理而感到被低估，从而产生竞争性行为。应对：降低对照组预期或明确说明对照组的价值，创造两组平等感。
 > - **工具反应性（Instrument reactivity, Vulliamy et al., 1990）**
->   研究工具本身对参与者产生的效应。例如观察者的在场改变被观察者的行为，[[Questionnaire|问卷]]中的[[Questionnaire Wording|问题措辞]]引发受试者的防御性回答。与前述威胁不同，工具反应性关注的是工具本身作为"处理"的一部分对参与者行为的影响。
+>   研究工具本身对参与者产生的效应。例如观察者的在场改变被观察者的行为，[[Questionnaire|问卷]]中的问题措辞引发受试者的防御性回答。与前述威胁不同，工具反应性关注的是工具本身作为"处理"的一部分对参与者行为的影响。
 
 > [!example]- 处理威胁的案例
 > **处理扩散（Diffusion of Treatment）** 同一所学校内，实验班使用新教学法，对照班使用传统教学法。课间休息时实验班的学生把新方法教给了对照班的朋友，导致对照班也部分接触了处理。两组结果因此趋同，处理效应被低估。将实验组和对照组放在不同学校可以解决，但成本更高。
@@ -138,7 +139,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 ### 随机化实验中的额外威胁
 
 > [!factors] [[Randomised Controlled Trials|RCT]] 中的额外偏差来源（Torgerson & Torgerson, 2003b）
-> - **随机化的实践局限** 并非所有混淆[[Variable|变量]]都能在随机化过程中得到适当控制——随机化在理论上完美，但在实践中受限于[[Sample Size Determination|样本量]]和实施质量（Hammersley, 2008, p. 4; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 332]]）。
+> - **随机化的[[Praxis|实践]]局限** 并非所有混淆[[Variable|变量]]都能在随机化过程中得到适当控制——随机化在理论上完美，但在实践中受限于[[Sample Size Determination|样本量]]和实施质量（Hammersley, 2008, p. 4; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 332]]）。
 > - **小样本的偶然失衡** 小样本中偶然因素可能导致严重失衡——例如 40 名学生中有 4 名阅读障碍者，全部四人随机落入同一组的概率不可忽略。可通过**最小化（minimisation）**策略应对（Torgerson & Torgerson, 2003b, p. 40）。
 > - **稀释偏差（Dilution Bias）** 控制组因未接触干预而主动寻求补偿性处理——例如在测试增加数学关注效果的实验中，控制组学生自行参加私人数学课程（p. 38）。
 > - **流失偏差（Attrition Bias）** 实验组部分学生退出——若只分析留守学生的结果会高估干预效果。参加自愿周六早间加强班的学生中，退出者本身动机水平可能较低（Torgerson & Torgerson, 2003a, pp. 74–75）。
@@ -154,7 +155,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性[[Internal Validity|内部效度]]
 
 > [!challenges] 十二种质性内部效度威胁
 > - **1. 反讽合法化（Ironic legitimation）** 研究能否识别和处理同一情境的多重、甚至同时矛盾的现实和解释？当不同参与者对同一事件有截然不同的叙述时，研究是否只是选择了最方便的版本？
-> - **2. 悖论合法化（Paralogical legitimation）** 研究能否捕捉和处理效度主张中的悖论？例如一位教师同时声称"我完全按照课程大纲教学"和"我经常根据学生需要灵活调整"，这种表面矛盾的陈述可能恰恰反映了教育实践的复杂性。
+> - **2. 悖论合法化（Paralogical legitimation）** 研究能否捕捉和处理效度主张中的悖论？例如一位教师同时声称"我完全按照课程大纲教学"和"我经常根据学生需要灵活调整"，这种表面矛盾的陈述可能恰恰反映了教育[[Praxis|实践]]的复杂性。
 > - **3. 根茎合法化（Rhizomatic legitimation）** 当研究者绘制数据地图（mapping）而非描述数据时，丢失了多少信息？将丰富的生活经验压缩为概念节点和关系线时不可避免有损失，但研究者是否意识到了这种损失并做了弥补？
 > - **4. 过度合法化（Voluptuous legitimation）** 对数据的解释是否超出了研究者从数据中支持该解释的能力？例如从三个教师的访谈中推断出全国性结论——数据不足以承载这个主张。
 > - **5. [[Descriptive Validity|描述效度]]（Descriptive validity）** 研究者所给描述的准确性——事实层面的[[Reliability|可靠性]]。

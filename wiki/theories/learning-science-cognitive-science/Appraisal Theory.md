@@ -7,7 +7,7 @@ aliases:
 summary: "Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 13
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -25,10 +25,12 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Cultural Models]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Discourse Analysis]]"
   - "[[Mother-Child Conversation]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_persons: []
@@ -121,7 +123,7 @@ updated: 2026-06-19
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 可用于研究少数族裔学生、跨文化学习者在学校环境中的[[Parental Cognitive and Affective Socialization|情感社会化]]（Affective Socialization）过程。
-> - **作为分析工具** 可通过对母子对话或师生互动进行[[Coding in Qualitative Research|质性编码]]，追踪其在事件编码、评估和调节等七个阶段中表现出的文化特征。
+> - **作为分析工具** 可通过对母子[[Dialogue in Education|对话]]或师生互动进行[[Coding in Qualitative Research|质性编码]]，追踪其在事件编码、评估和调节等七个阶段中表现出的文化特征。
 
 ---
 
@@ -154,11 +156,11 @@ updated: 2026-06-19
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Li_2012_Cambridge]] — 通过对母子对话进行话语分析，使用该理论论证中西文化在儿童[[Parental Cognitive and Affective Socialization|情感社会化]]中如何全面塑造情绪生成的各阶段。
+> - [[Argument_Li_2012_Cambridge]] — 通过对母子[[Dialogue in Education|对话]]进行[[Discourse Analysis|话语分析]]，使用该理论论证中西文化在儿童[[Parental Cognitive and Affective Socialization|情感社会化]]中如何全面塑造情绪生成的各阶段。
 
 ---
 
 ## 应用领域
 
 > [!case] 应用领域索引
-> - [[Mother-Child Conversation]] / [[MCC Discourse Analysis Examples]] — 在儿童[[Parental Cognitive and Affective Socialization|情感社会化]]和母子话语研究中，作为解释情感对话如何传递文化评估规则的理论基础。
+> - [[Mother-Child Conversation]] / [[MCC Discourse Analysis Examples]] — 在儿童[[Parental Cognitive and Affective Socialization|情感社会化]]和母子话语研究中，作为解释情感[[Dialogue in Education|对话]]如何传递文化评估规则的理论基础。

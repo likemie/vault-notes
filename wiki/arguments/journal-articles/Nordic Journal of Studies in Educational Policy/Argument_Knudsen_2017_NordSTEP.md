@@ -9,7 +9,7 @@ title: "Argument_Knudsen_2017_NordSTEP"
 argument_key: "Argument_Knudsen_2017_NordSTEP"
 argument_display_title: "John Hattie: I'm a statistician, I'm not a theoretician"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Science and Technology Studies]]"
   - "[[Transcription in Qualitative Research]]"
@@ -65,7 +66,7 @@ citation_aliases:
 > Hanne Knudsen（奥胡斯大学丹麦教育学院）对 [[John Hattie]] 进行了 Skype 访谈，围绕四个核心问题展开(p.253–254)：
 >
 > 1. **实施与翻译** Hattie 如何反思 [[Visible Learning|VL]] 在丹麦的实施？他和团队对丹麦学校传统了解多少，是否认为本地情境知识很重要？
-> 2. **基本概念** Hattie 如何定义"可见性"和"学习"？这些概念对课堂实践、动机、好奇心、教师角色和儿童观的含义是什么？
+> 2. **基本概念** Hattie 如何定义"可见性"和"学习"？这些概念对课堂[[Praxis|实践]]、动机、好奇心、教师角色和儿童观的含义是什么？
 > 3. **理论与证据** VL 著作中几乎没有教育理论（教育心理学、教育哲学）的引用——Hattie 如何看待理论与证据的关系？
 > 4. **John Hattie 作为关键人物** VL 同时运作于科学、教育、政治和经济[[Champ|场域]]——Hattie 认为自己主要是研究者、政治家还是商人？
 >

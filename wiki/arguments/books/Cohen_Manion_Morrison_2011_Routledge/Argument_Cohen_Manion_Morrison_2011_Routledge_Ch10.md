@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 124
+argument_related_count: 127
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -63,6 +63,7 @@ related_concepts:
   - "[[Catalytic Validity]]"
   - "[[Consequential Validity]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Growth]]"
   - "[[Pre-test and Post-test]]"
   - "[[Type I and Type II Errors]]"
   - "[[Null Hypothesis]]"
@@ -84,6 +85,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Cross-cultural Validity]]"
   - "[[Ecological Fallacy]]"
+  - "[[Praxis]]"
   - "[[Scale of Measurement]]"
   - "[[Cultural Validity]]"
   - "[[Response Bias]]"
@@ -111,6 +113,7 @@ related_concepts:
   - "[[Split-Half Reliability]]"
   - "[[Face Validity]]"
   - "[[Interviewer Effects]]"
+  - "[[Dialogue in Education]]"
   - "[[Kitwood's Paradox]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Selectivity]]"
@@ -399,7 +402,7 @@ Onwuegbuzie & Leech (2006b: 239–46) 整合 Lincoln & Guba (1985) 等人的工�
 > > | 分组 | 威胁 | 核心问题 |
 > > |---|---|---|
 > > | **受试者** | 历史（History） | 实验期间的外部事件混淆了处理效应 |
-> > | | 成熟（Maturation） | 受试者自然成长被误判为处理效果 |
+> > | | 成熟（Maturation） | 受试者自然[[Growth\|成长]]被误判为处理效果 |
 > > | | 统计回归（Regression） | 极端得分随时间向均值回归 |
 > > | | 选择（Selection） | 组间系统性差异被误判为处理效应 |
 > > | | 实验损耗（Mortality） | 退出者可能恰好是效果最差的受试者 |
@@ -707,7 +710,7 @@ Matsumoto & Yoo (2006) 识别了跨文化研究的四个阶段（pp.179–180）
 > - **Etic 路径（研究者定义）** 使用预先确定的理论构念和工具。风险是：这是否构成对参与者的"符号暴力"（symbolic violence）（Hammersley, 2006: 6）？局外研究者强加的构念可能掩盖了本土的关键维度。
 > - **Emic 路径（参与者定义）** 从参与者自身的范畴和意义出发。Brock-Utne (1996: 607) 认为局内人比局外研究者更了解自己的环境，且可能知道任何环境中的重要问题。
 >
-> 在实践中，两者并非互斥——研究者可以先进行先导民族志研究以确定**对参与者相关、重要和有意义**的范畴、项目和变量，然后将这些转化为[[Scale of Measurement|测量量表]]进行进一步调查。
+> 在[[Praxis|实践]]中，两者并非互斥——研究者可以先进行先导民族志研究以确定**对参与者相关、重要和有意义**的范畴、项目和变量，然后将这些转化为[[Scale of Measurement|测量量表]]进行进一步调查。
 
 > [!example] Brock-Utne 的谜语案例：Etic 误读的代价
 > 在一个非洲社会中，局外侨民研究者将当地谜语（riddles）解释为**娱乐和消遣**，而本地人则将它们视为重要的**教学和教育工具**以及认知发展的促进者。同一文化实践——在 Etic 框架下被归为"休闲活动"，在 Emic 框架下却是核心教育机制。这一案例精确地说明了：**谁的定义框架在运作**，决定了研究者"看见"的是什么现象（Brock-Utne, 1996: 610–12）。
@@ -1207,7 +1210,7 @@ Guba & Lincoln (1994) 认为信度概念主要是实证主义的。虽然广泛�
 
 > [!example] 采访有权者的具体挑战
 > - **Ball (1994b)** 评论说当采访有权者时，访谈必须被看作"权力游戏"（play of power）的延伸——有游戏般的含义。有权者控制访谈的议程和进程，且通常高度娴熟于此——因为他们在被采访中**既有个人投资又有专业投资（Batteson & Ball, 1995; Phillips, 1998）**。
-> - **Neal (1995)** 描述了采访有权者时的无力感和对体态呈现和地位的焦虑——特别对经常是独自一人、低地位的研究生采访有权者的情况：一个低地位的女性研究生发现与一位掌权男性（如大学副校长、高级政治家或高级管理人员）的访谈可能与同一人由一位男性大学教授进行的访谈截然不同——后者被受访者感知为更平等的对话（Gewirtz & Ozga, 1993, 1994）。
+> - **Neal (1995)** 描述了采访有权者时的无力感和对体态呈现和地位的焦虑——特别对经常是独自一人、低地位的研究生采访有权者的情况：一个低地位的女性研究生发现与一位掌权男性（如大学副校长、高级政治家或高级管理人员）的访谈可能与同一人由一位男性大学教授进行的访谈截然不同——后者被受访者感知为更平等的[[Dialogue in Education|对话]]（Gewirtz & Ozga, 1993, 1994）。
 > - **Connell et al. (1996)** 认为一个工人阶级女性与跨国董事交谈将与一位中产阶级教授与同一人交谈**非常不同**。
 > - **Walford (1994c: 225)** 建议采访有权者的研究者必须"**做好功课**"——有权者很可能审问访谈者，他们会假设访谈者**掌握最新信息、能力和知识**。
 > - **对策** Walford (1994c: 227) 建议**使用两位访谈者**进行每次采访。

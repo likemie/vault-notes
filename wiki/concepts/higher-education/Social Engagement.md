@@ -5,7 +5,7 @@ aliases:
 summary: "学生向人际互动、课外活动、组织参与和职业探索投入时间精力的社会性投入维度。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,6 +16,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Student Engagement]]"
+  - "[[Praxis]]"
   - "[[Analytic Framework]]"
   - "[[Academic Engagement]]"
   - "[[Knowledge-Based Economy]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
+  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Triangulation]]"
@@ -54,7 +56,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 社会性投入（Social Engagement）是[[Student Engagement|学生投入]]理论的两大核心维度之一，指学生向大学中人际互动、课外活动、职业探索和社会融入等方面的教育性实践活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"[[Analytic Framework|分析框架]]中，社会性投入与[[Academic Engagement|学业投入]]并列构成"投入过程"的两大分析轴。
+> 社会性投入（Social Engagement）是[[Student Engagement|学生投入]]理论的两大核心维度之一，指学生向大学中人际互动、课外活动、职业探索和社会融入等方面的教育性[[Praxis|实践]]活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]（2023）的"大学过程"[[Analytic Framework|分析框架]]中，社会性投入与[[Academic Engagement|学业投入]]并列构成"投入过程"的两大分析轴。
 
 > [!quote]
 > "学业投入（academic integration/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
@@ -119,7 +121,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - **"中立过程"[[Hypothesis|假设]]的延续** 与社会性投入相关的概念——从 Tinto 的社交融入到 Kuh 的社会性投入——均将投入默认为由学生自主决定的中立过程。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的经验材料表明，弱势学生的"不投入"并非个人选择，而是文化语码不适配（大成的"语言包"比喻）和屡次失败后的回避（冰倩的"弃疗"）共同导致的——结构性约束伪装成了个人能力问题
-> - Brown 的[[Employability|就业力]]框架虽有洞察力，但将社会性投入完全工具化为就业筹码，可能忽视了社交融入对个人成长和意义建构的非工具性价值
+> - Brown 的[[Employability|就业力]]框架虽有洞察力，但将社会性投入完全工具化为就业筹码，可能忽视了社交融入对个人[[Growth|成长]]和意义建构的非工具性价值
 
 ---
 

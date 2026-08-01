@@ -5,7 +5,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，指世界各国人民中间一种比民族主义心态更适合国际合作的普遍心态。在理性主义国际关系传统下，该概念通过跨国教科书去偏见化和客观学校知识构建，成为二战后UNESCO和欧洲比较教育学会（CESE）推进科学治理与和平承诺的认知基础。"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,10 +17,13 @@ tags:
 related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Hypothesis]]"
+  - "[[Dialogue in Education]]"
   - "[[Realism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Global Citizenship]]"
   - "[[Scientific Method]]"
+  - "[[Democratic Education]]"
+  - "[[Praxis]]"
   - "[[Lifelong Learning]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
@@ -50,7 +53,7 @@ updated: 2026-07-09
 > [!concept-lens] 概念透镜
 > - **指向关系** 它代表了一种超越本国中心主义（ethnocentrism）的心理认知状态，强调在承认民族国家主权的前提下，通过消除教科书偏见和增进学者跨国流动，形塑具有包容性和客观性的国际主义主体意识。
 > - **学术用途** 在比较教育学科史上，它被用作证成跨国教科书审查、学术合作网络以及多边教育咨询中立性与合理性的核心话语，将比较教育塑造为促进人类和平改良的理性科学工具。
-> - **边界条件** 它依赖于多边契约和理性科学治理的自由主义[[Hypothesis|假设]]，通常假定跨国对话能够消解根本性的地缘利益对立，因而在面对激烈的地缘权力争夺（[[Realism in International Relations|现实主义]]）或深层不平等结构（[[Revolutionism|革命主义]]）时解释力有限。
+> - **边界条件** 它依赖于多边契约和理性科学治理的自由主义[[Hypothesis|假设]]，通常假定跨国[[Dialogue in Education|对话]]能够消解根本性的地缘利益对立，因而在面对激烈的地缘权力争夺（[[Realism in International Relations|现实主义]]）或深层不平等结构（[[Revolutionism|革命主义]]）时解释力有限。
 
 > [!citation-card]- 关键表述
 > 一种在世界各国人民中间比民族主义心态更适合于合作的普遍心态。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
@@ -69,7 +72,7 @@ updated: 2026-07-09
 > | 维度 | 国际心智 (International Mind) | 民族主义心智 (Nationalistic Mind) | [[Revolutionism\|革命主义]]（去殖民）心智 (Decolonial Mind) |
 > |------|--------|----------------|----------------|
 > | **认同核心** | 多元主权国家间的理性合作与多边相互理解。 | 单一民族国家的绝对忠诚与本国中心主义。 | 边缘群体的文化自主权与对西方知识霸权的解构。 |
-> | **教育路径** | 去偏见的教科书、多边科学对话与跨国学术交换。 | 培育地缘防务意识、民族优越感及对盟友的认同。 | 批判性意识唤醒（Conscientisation）与南方理论建构。 |
+> | **教育路径** | 去偏见的教科书、多边科学[[Dialogue in Education\|对话]]与跨国学术交换。 | 培育地缘防务意识、民族优越感及对盟友的认同。 | 批判性意识唤醒（Conscientisation）与南方理论建构。 |
 > | **秩序[[Hypothesis\|假设]]** | 基于理性契约与国际组织的自由主义和平秩序。 | 霍布斯式的无政府状态与零和地缘实力对抗。 | 核心-边缘的结构性掠夺与去中心化反霸权抵抗。 |
 
 ---
@@ -78,8 +81,8 @@ updated: 2026-07-09
 
 > [!feature] 国际心智的核心要素
 > - **教科书去偏见化与客观知识重构** 通过跨国比较分析，消除历史教科书中的隐瞒（omissions）、歪曲（distortions）和刻板印象（stereotypes），建构具有主体间客观性（inter-subjectively objective）的学校知识，从知识源头上剪除国家冲突的根源。
-> - **[[Rationalism in International Relations|理性主义]]人类改善论承诺** 坚信国际社会可以通过科学的制度建设和理性对话得到渐进改善，将比较教育定位为服务于此种人类命运改良的中立、客观的科学工具。
-> - **超国家学术网络与多边建制** 依赖于多边机构（如早期国联、现代联合国教科文组织）提供的科学合作平台，通过学者的跨国机制化交流反馈并优化成员国的民主教育体系。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
+> - **[[Rationalism in International Relations|理性主义]]人类改善论承诺** 坚信国际社会可以通过科学的制度建设和理性[[Dialogue in Education|对话]]得到渐进改善，将比较教育定位为服务于此种人类命运改良的中立、客观的科学工具。
+> - **超国家学术网络与多边建制** 依赖于多边机构（如早期国联、现代联合国教科文组织）提供的科学合作平台，通过学者的跨国机制化交流反馈并优化成员国的[[Democratic Education|民主教育]]体系。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -104,7 +107,7 @@ updated: 2026-07-09
 > [!claim] 齐默恩的论点（1930年代）
 > **教科书去偏见化是消除冲突认知根源的前提** 认为学校知识如果充斥着对邻国的刻板印象与歪曲，将持续制造敌意；必须通过超国家组织的比较审查建构客观的中立历史叙事，方能构建适合合作的多边心态。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 
-> [!claim] 北欧协会的实践（1930年代）
+> [!claim] 北欧协会的[[Praxis|实践]]（1930年代）
 > **区域教科书互审与主体间共识构建** 指出北欧协会等组织的互审实践表明，比较研究能有效揭示历史教学中的本国偏见，建立国家间均能接受的、具有主体间客观性的历史常识，为地缘和平提供社会认知防线。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 
 ---
@@ -135,7 +138,7 @@ updated: 2026-07-09
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1920s–1930s — 起源与早期教科书互审运动** 国际联盟知识合作组织（ICIC/IIIC）成立，副主任 Zimmern 正式界定“国际心智”。北欧协会及美洲国家国际会议开展跨国历史教科书审查，确立“消除遗漏与刻板印象”以建构客观知识的实践模式。
+> - **1920s–1930s — 起源与早期教科书互审运动** 国际联盟知识合作组织（ICIC/IIIC）成立，副主任 Zimmern 正式界定“国际心智”。北欧协会及美洲国家国际会议开展跨国历史教科书审查，确立“消除遗漏与刻板印象”以建构客观知识的[[Praxis|实践]]模式。
 > - **1940s–1970s — UNESCO建制化与大学学科网络确立** 联合国教科文组织（UNESCO）继承该遗产，首位比较教育教授 [[Joseph Lauwerys]] 将其列为学科三大价值之首。伦敦大学IOE比较教育学系与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE，1961年）相继成立，将“国际理解”全面固化为专业建制话语。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 > - **1990s 至今 — [[Lifelong Learning|终身学习]]与[[Global Citizenship|全球公民]]教育（GCED）的融合** “国际心智”的内核与 UNESCO 的终身学习与全球公民教育倡议融合，继续作为[[Rationalism in International Relations|理性主义]]话语框架，在逆全球化与地缘紧张局势中发挥跨国人文主义沟通的作用。
 
@@ -149,7 +152,7 @@ updated: 2026-07-09
 
 > [!critique] 外部学术批判
 > - **权力真空假说** [[Realism in International Relations|现实主义]]学派（Realism）批评“国际心智”过度依赖道德说教与教科书审查，完全无视了国家间硬性的地缘权力竞争、领土争端以及根本性的国家安全焦虑。
-> - **世界体系的霸权固化** [[Revolutionism|革命主义]]（去殖民）学者指出，Zimmern式精英阶层倡导的“多边理性对话”是以承认西方在世界体系中的核心支配权为前提的，实际上抹杀了南方国家彻底破除新殖民主义依附结构的激进斗争空间。
+> - **世界体系的霸权固化** [[Revolutionism|革命主义]]（去殖民）学者指出，Zimmern式精英阶层倡导的“多边理性[[Dialogue in Education|对话]]”是以承认西方在世界体系中的核心支配权为前提的，实际上抹杀了南方国家彻底破除新殖民主义依附结构的激进斗争空间。
 
 > [!warning] 适用局限
 > 该概念主要适用于多边人文交流、和平与公民教育政策史、国际组织演进机制的解析，不适用于解释主权国家间的热战冲突、军事安全博弈以及逆全球化浪潮中本土民粹主义的崛起。

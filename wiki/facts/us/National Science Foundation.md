@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Convergence Research]]"
+  - "[[Praxis]]"
   - "[[Innovation Hub]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -57,7 +58,7 @@ updated: 2026-06-05
 ## 在产学合作中的角色
 
 > [!info] STEM 与 SSH 融合的推动者
-> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将 NSF 的 Future of Work at the Human Technology Frontier 项目作为 STEM 与社会科学和人文学科（SSH）[[Convergence Research|融合研究]]的典型案例。该项目处于工作的未来、技术的未来和劳动者的未来的交叉点，需要来自广泛学科的不同类型的专长和研究工具——涵盖劳动者个体与团队的基础原理、工程与计算机科学技术以创建人-技术工作伙伴关系、以及社会、经济、教育和国家层面的背景分析。峰会指出，NSF 在推动 STEM 与 SSH 融合方面的资助实践，代表了创新政策的一个重要方向：认识到技术挑战和社会挑战不可分割，需要多学科协同应对([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.14-15]])。
+> 2019 年 [[Oxford UIDP Summit 2019|Oxford UIDP Summit]] 将 NSF 的 Future of Work at the Human Technology Frontier 项目作为 STEM 与社会科学和人文学科（SSH）[[Convergence Research|融合研究]]的典型案例。该项目处于工作的未来、技术的未来和劳动者的未来的交叉点，需要来自广泛学科的不同类型的专长和研究工具——涵盖劳动者个体与团队的基础原理、工程与计算机科学技术以创建人-技术工作伙伴关系、以及社会、经济、教育和国家层面的背景分析。峰会指出，NSF 在推动 STEM 与 SSH 融合方面的资助[[Praxis|实践]]，代表了创新政策的一个重要方向：认识到技术挑战和社会挑战不可分割，需要多学科协同应对([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.14-15]])。
 
 
 

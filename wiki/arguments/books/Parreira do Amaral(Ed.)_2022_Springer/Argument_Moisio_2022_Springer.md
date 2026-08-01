@@ -9,7 +9,7 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -28,9 +28,11 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Praxis]]"
   - "[[Hegemony]]"
   - "[[Transfer Translation Transformation]]"
   - "[[National Competitive Advantage]]"
+  - "[[Presence]]"
   - "[[Definition of Terms]]"
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"
@@ -84,7 +86,7 @@ Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based E
 
 - David Harvey（1985/2001）的资本主义地缘政治理论 — 本章最核心的理论支柱。地缘政治源于资本主义生产方式内部的政治经济动力：资本流通中的固着与流动之间的张力（tension between fixity and motion）。资本主义需要地方锚定来促进流动，但流动又不断破坏既有地方配置。这一悖论成为 Moisio 解释[[Knowledge-Based Economization|知识经济化]]空间动态的核心机制(pp.27–28)
 - [[Knowledge-Based Economization]] — Moisio(2018)自有的核心分析概念，将注意力从 [[Knowledge-Based Economy|KBE]] 作为既成事物转向其被持续生产的过程。该概念架起了经济分析和地缘政治分析之间的桥梁(pp.24–26)
-- Polanyi(1982)的经济作为制度化过程（economy as instituted process）— 论证所有资本积累体制（包括 KBE）均依赖于国家和额外经济实践（教育、科学、法律等）的构成性角色(p.25)
+- Polanyi(1982)的经济作为制度化过程（economy as instituted process）— 论证所有资本积累体制（包括 KBE）均依赖于国家和额外经济[[Praxis|实践]]（教育、科学、法律等）的构成性角色(p.25)
 - Ҫalişkan & Callon(2009)的 economization 概念 — 提供从"经济"到"经济化过程"的方法论转向关键资源(p.25)
 - Jessop(2005)的[[Cultural Political Economy|文化政治经济学]]（CPE）— 提供"想象"（imaginaries）在资本积累体制中的构成性和履行性角色分析，以及 KBE 作为"元治理"（meta-governance）对象的定位(pp.23, 26)
 - Gramsci(1971)的[[Hegemony|霸权理论]] — 论证资本积累体制的巩固需要"智识、政治和道德领导力"来将新体制[[Transfer Translation Transformation|转译]]进整个社会(p.26)
@@ -110,7 +112,7 @@ Moisio 的论证分为四个递进步骤，从概念梳理到方法论转向，�
 
 Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经济形态，而是具有特定知识谱系的历史建构：
 
-1. **十九世纪先驱**Freeman(1995)将"国家[[Systems of Innovation|创新系统]]"概念追溯至 Friedrich List 的《政治经济学的国家系统》（[1841] 1991）。List 已指出国家应通过技术教育、科学培训、研发实践和长期产业政策来增强自身——而非仅获取他国成就。十九世纪政府实验室的增长表明"'国家的'创新过程开始决定国家的整体竞争力"(Freeman, 1995, p.9, p.22)。
+1. **十九世纪先驱**Freeman(1995)将"国家[[Systems of Innovation|创新系统]]"概念追溯至 Friedrich List 的《政治经济学的国家系统》（[1841] 1991）。List 已指出国家应通过技术教育、科学培训、研发[[Praxis|实践]]和长期产业政策来增强自身——而非仅获取他国成就。十九世纪政府实验室的增长表明"'国家的'创新过程开始决定国家的整体竞争力"(Freeman, 1995, p.9, p.22)。
 
 2. **二战后学术多元探索** 不同学科学者从各自视角理解资本主义的结构转型——Drucker（1959/1969）的"知识工作者"概念和知识管理学术领域的确立；Bell(1973)的后工业社会理论强调理论知识的相对重要性；二者共同揭示"经济-社会界面正在发生结构性转变"(p.22)。
 
@@ -118,7 +120,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 4. **政策话语化** 1990 年代以来，原本用于学术解释的概念成为 [[OECD]] 世界政策制定者的核心术语。世界银行（1991, pp.33–35）论断"无形投资于知识积累——而非物理资本投资——是决定性的"(p.23)。
 
-5. **Jessop 的元治理定位**KBE 被 Jessop(2005)定位为"霸权的元治理对象"（hegemonic meta-object of governance），是 Atlantic Fordism 资本积累体制危机的回应。关键洞察：KBE 的治理力量部分源于"众多行动者被征召其背后"，且 KBE 作为成功的经济治理依赖经济形式与额外经济形式（科学、教育、法律、社会制度、传统）的"共在"（co-presence）(p.23)。
+5. **Jessop 的元治理定位**KBE 被 Jessop(2005)定位为"霸权的元治理对象"（hegemonic meta-object of governance），是 Atlantic Fordism 资本积累体制危机的回应。关键洞察：KBE 的治理力量部分源于"众多行动者被征召其背后"，且 KBE 作为成功的经济治理依赖经济形式与额外经济形式（科学、教育、法律、社会制度、传统）的"共在"（[[Presence|co-presence]]）(p.23)。
 
 6. **Moisio 的[[Definition of Terms|操作性定义]]** 他将 KBE 定义为一种"实际存在的经济"（actually existing economy），其价值创造与提取以及国家间、城市间、区域间政治竞争的核心要素为知识、创新、学习、高等教育、研发、技术和创业精神。通过引用 Sum & Jessop（2013, p.284）关于"一般智识在知识和设计密集型商品中的价值化"的经典定义，以及 Dunning（2000, p.8）关于财富来源从自然资源→有形资产→无形资产转变的历史论证，Moisio 确立了 KBE 的经验可分析性(pp.23–24)。
 

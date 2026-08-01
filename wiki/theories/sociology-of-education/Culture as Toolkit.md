@@ -6,7 +6,7 @@ aliases:
 summary: "把文化理解为提供行动策略、习惯和可调用资源工具箱的文化社会学理论，强调人们并非只按抽象价值观行动"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Self-Authorship]]"
   - "[[Champ]]"
@@ -103,7 +104,7 @@ updated: 2026-06-02
 
 > [!info]
 > - 该理论介于结构决定论和理性选择论之间：文化工具虽受社会结构位置的制约，但行动者在既定工具箱范围内仍享有创造性地组合与使用不同工具的能动性
-> - 与Bourdieu的实践理论高度兼容但侧重点不同：Swidler 强调文化作为可用资源的面，Bourdieu 更强调[[Habitus|习性]]作为结构化结构的面向
+> - 与Bourdieu的[[Praxis|实践]]理论高度兼容但侧重点不同：Swidler 强调文化作为可用资源的面，Bourdieu 更强调[[Habitus|习性]]作为结构化结构的面向
 
 ---
 

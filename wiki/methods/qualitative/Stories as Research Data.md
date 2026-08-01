@@ -5,11 +5,26 @@ summary: "将故事和叙事作为教育研究证据来源的方法，故事是�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 12
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, theme/narrative]
+related_concepts:
+  - "[[Praxis]]"
+  - "[[Epistemology]]"
+  - "[[Reliability]]"
+  - "[[Causality]]"
+  - "[[Transcription in Qualitative Research]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Narrative Research]]"
+  - "[[Triangulation]]"
+  - "[[Ex Post Facto Research]]"
+  - "[[Action Research]]"
+  - "[[Accounts]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-23
@@ -26,25 +41,25 @@ updated: 2026-07-23
 
 > [!method-scope] 方法范围
 > - **研究对象** 参与者讲述的个人故事、口述历史、传记性叙事。
-> - **问题类型** 实践者如何理解和叙述自身经验；叙事如何建构和传达意义。
+> - **问题类型** [[Praxis|实践]]者如何理解和叙述自身经验；叙事如何建构和传达意义。
 > - **分析单位** 个体故事、叙事文本、主题片段。
-> - **输出形式** 经过分类、编码和主题化后的叙事分析。
+> - **输出形式** 经过分类、[[Coding in Qualitative Research|编码]]和主题化后的叙事分析。
 
 ---
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
-> - **知识观** 故事承载的是叙事者的主观经验和意义建构，其价值在于真实性和丰富性而非可验证性。故事是"触及实践者心态的无可比拟的方法"（Thody, 1997, p. 331）。
-> - **研究者角色** 研究者通过分类、编码和主题化从故事中提取模式，同时保持对叙事者视角的敏感。
-> - **有效性标准** 故事的验证困难（除非有其他人在场核实），但其价值恰恰来自叙事者的主观投入——丰富性来自主观嵌入性，这使传统的信度概念难以直接适用（Bauman, 1986）。
-> - **不声称回答的问题** 不声称产生统计概括或因果推断；不声称故事内容可被独立验证。
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 故事承载的是叙事者的主观经验和意义建构，其价值在于真实性和丰富性而非可验证性。故事是"触及[[Praxis|实践]]者心态的无可比拟的方法"（Thody, 1997, p. 331）。
+> - **研究者角色** 研究者通过分类、[[Coding in Qualitative Research|编码]]和主题化从故事中提取模式，同时保持对叙事者视角的敏感。
+> - **有效性标准** 故事的验证困难（除非有其他人在场核实），但其价值恰恰来自叙事者的主观投入——丰富性来自主观嵌入性，这使传统的[[Reliability|信度]]概念难以直接适用（Bauman, 1986）。
+> - **不声称回答的问题** 不声称产生统计概括或[[Causality|因果推断]]；不声称故事内容可被独立验证。
 
 > [!method-stack] 方法层级
-> - **研究设计** 叙事研究、口述史、传记研究
+> - **研究设计** [[Narrative Research|叙事研究]]、口述史、传记研究
 > - **数据收集** 访谈（引导叙事）、书面叙事、日记、信件
 > - **分析方法** 内容分类与编码、主题化、概念建构（Thody, 1997, p. 331）
-> - **辅助技术** 交叉验证（多人核实）、三角验证
+> - **辅助技术** 交叉验证（多人核实）、[[Triangulation|三角验证]]
 
 ---
 
@@ -62,8 +77,8 @@ updated: 2026-07-23
 
 > [!proc] 故事分析程序
 > 1. 收集故事——通过访谈引导参与者叙述相关经验，或收集书面叙事
-> 2. 转录和整理——将口头叙事转化为文本，保留叙事结构和语言特征
-> 3. 内容分类与编码——对故事内容进行系统分类和编码（Thody, 1997, p. 331）
+> 2. [[Transcription in Qualitative Research|转录]]和整理——将口头叙事转化为文本，保留叙事结构和语言特征
+> 3. 内容分类与[[Coding in Qualitative Research|编码]]——对故事内容进行系统分类和编码（Thody, 1997, p. 331）
 > 4. 主题化——从编码中识别反复出现的主题和模式
 > 5. 概念建构——基于主题发展更抽象的概念和理解
 > 6. 交叉验证——如有可能，通过其他在场者核实关键事件
@@ -73,9 +88,9 @@ updated: 2026-07-23
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究实践者的心态和主观经验；教育管理研究中理解领导者的决策叙事；从幼儿处收集数据（Thody, 1997, pp. 333–334）；事后回溯研究和历史研究；行动研究中记录参与者的变革经历。
+> - **适合使用** 研究[[Praxis|实践]]者的心态和主观经验；教育管理研究中理解领导者的决策叙事；从幼儿处收集数据（Thody, 1997, pp. 333–334）；[[Ex Post Facto Research|事后回溯研究]]和历史研究；[[Action Research|行动研究]]中记录参与者的变革经历。
 > - **谨慎使用** 当需要对事件进行精确验证时；当叙事者可能因社会期望而修饰故事时；当研究者难以接触到关键叙事者时。
-> - **不适合使用** 需要大样本统计概括的研究；需要严格因果推断的研究。
+> - **不适合使用** 需要大样本统计概括的研究；需要严格[[Causality|因果推断]]的研究。
 
 ---
 
@@ -83,9 +98,9 @@ updated: 2026-07-23
 
 > [!method-limits] 方法局限
 > - **偏误来源** 叙事者的记忆偏差和选择性回忆；社会期望导致的叙事修饰；研究者在主题化过程中的解释偏差。
-> - **适用边界** 故事的真实性难以独立验证（除非有其他人在场核实）；故事的丰富性来自主观嵌入性，这同时限制了传统的信度评估（Bauman, 1986）。
+> - **适用边界** 故事的真实性难以独立验证（除非有其他人在场核实）；故事的丰富性来自主观嵌入性，这同时限制了传统的[[Reliability|信度]]评估（Bauman, 1986）。
 > - **误用风险** 将故事等同于客观事实记录；忽视叙事者的修辞策略和自我呈现。
-> - **补救方式** 交叉验证（多人核实同一事件）；三角验证（结合其他数据来源）；透明报告分析过程。
+> - **补救方式** 交叉验证（多人核实同一事件）；[[Triangulation|三角验证]]（结合其他数据来源）；透明报告分析过程。
 
 ---
 
@@ -105,4 +120,4 @@ updated: 2026-07-23
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将故事与访谈并列为研究证据来源，介绍 Bauman（1986）的定义、Bruner（1986）的理论基础、Thody（1997）的方法论定位，以及分类编码、主题化和概念建构三种分析方法。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将故事与访谈并列为研究证据来源，介绍 Bauman（1986）的定义、Bruner（1986）的理论基础、Thody（1997）的方法论定位，以及分类[[Coding in Qualitative Research|编码]]、主题化和概念建构三种分析方法。

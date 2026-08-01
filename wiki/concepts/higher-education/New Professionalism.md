@@ -7,7 +7,7 @@ aliases:
 summary: "在晚期现代学术审计与新公共管理浪潮中，传统的学术信任与专业伦理被以标准化、可度量和可监控为特征的准契约关系所取代的制度现象"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Blue Skies Research]]"
   - "[[Shape-Shifting]]"
+  - "[[Praxis]]"
   - "[[Memos]]"
   - "[[Academic Freedom]]"
   - "[[Performance Indicators]]"
@@ -73,7 +74,7 @@ updated: 2026-07-03
 > [!case] 案例：英格兰大学治理模式的审计[[Shape-Shifting|形变]]（[[Argument_Cowen_2009_CE|Cowen, 2009]]）
 > - **政策背景**
 >   自 1990 年代起，英国政府引入高等教育质量保障署（QAA）与[[Research Excellence Framework|研究评估考核]]（RAE/REF），将大学的科研与教学完全置于精密的外部指标评估与 QR 拨款绑定之中。
-> - **新专业主义实践**
+> - **新专业主义[[Praxis|实践]]**
 >   英格兰大学为了在残酷的市场化竞争中生存，在内部广泛推行“新专业主义”。学校管理层对学者提出了一套极其细致的微观行为指标：在教学上，规定教师每小时辅导必须附带备忘录存档（[[Memos]] on file）；在科研上，博士论文在摘要前必须附带明确的“社会效益影响声明”（impact statement）。师生间原本基于[[Academic Freedom|学术自由]]与专业伦理的承诺，被新专业主义的官僚绩效考核完全重定义为了准商品合同关系，导致了学术自主权的本质形变（[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 320–322]]）。
 
 ---
@@ -82,5 +83,5 @@ updated: 2026-07-03
 
 > [!evidence-grid] 高等教育新专业主义与审计文化研究
 > - **[[Argument_Cowen_2009_CE|Cowen (2009)]]** 奠定“新专业主义”的高等教育研究基础，分析学术合同关系如何系统取代专业伦理，并侵蚀英国大学的[[Blue Skies Research|蓝天研究]]。
-> - **[[Research Excellence Framework]]** 英国大学新专业主义与管理主义的最典型制度基础设施，通过 QR 拨款与[[Performance Indicators|绩效指标]]强制重塑学者研究实践。
+> - **[[Research Excellence Framework]]** 英国大学新专业主义与管理主义的最典型制度基础设施，通过 QR 拨款与[[Performance Indicators|绩效指标]]强制重塑学者研究[[Praxis|实践]]。
 > - **[[Shape-Shifting]]** 概念体系，将新专业主义作为大学教学和研究配置维度上发生“制度畸变”的关键表征。

@@ -5,7 +5,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体在长期社会经验中形成并具身化的稳定行为倾向系统，用于解释实践选择、判断方式和阶层再生产。"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,8 +17,10 @@ tags:
   - paradigm/critical
   - region/france
 related_concepts:
+  - "[[Praxis]]"
   - "[[Subjectivism]]"
   - "[[Objectivism]]"
+  - "[[Growth]]"
   - "[[Reflexivity]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
@@ -38,6 +40,7 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
+  - "[[Aristotle]]"
   - "[[Yajun Zheng]]"
   - "[[Marcia Baxter Magolda]]"
 related_facts: []
@@ -57,7 +60,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info]
-> 习性（habitus）是 wiki-[[Pierre Bourdieu]] 实践理论的核心概念，指行动者通过长期暴露于特定社会经验而具身化（embodied）的一套行为倾向系统——一种既是"被结构的结构"（structured structure）又是"能结构的结构"（structuring structure）的实践图式。习性不是有意识的理性计算，也不是对外部规则的机械服从，而是在既往经验塑造的倾向范围内，使行动者能够创造性地生成"合乎规则"且"客观上可调节"的实践活动（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1990, p.53）。
+> 习性（habitus）是 wiki-[[Pierre Bourdieu]] [[Praxis|实践]]理论的核心概念，指行动者通过长期暴露于特定社会经验而具身化（embodied）的一套行为倾向系统——一种既是"被结构的结构"（structured structure）又是"能结构的结构"（structuring structure）的实践图式。习性不是有意识的理性计算，也不是对外部规则的机械服从，而是在既往经验塑造的倾向范围内，使行动者能够创造性地生成"合乎规则"且"客观上可调节"的实践活动（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1990, p.53）。
 
 > [!quote]
 > "实践者的行动受到既往经验塑造的行动图式系统——习性（habitus）的限制，在其所能调适的范围内享有各种思想、感知和行动的自由"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1990）
@@ -69,7 +72,7 @@ updated: 2026-07-08
 ## 概念辨析
 
 > [!example]
-> - vs **理性选择** — 习性产生的实践"能够客观地'得到调节'并'合乎规则'，而并非有意识地目的性活动"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1990）。它不是成本收益计算的结果
+> - vs **理性选择** — 习性产生的[[Praxis|实践]]"能够客观地'得到调节'并'合乎规则'，而并非有意识地目的性活动"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1990）。它不是成本收益计算的结果
 > - vs **结构决定** — 习性在既定倾向范围内保留了行动者的创造性和能动性空间，而非机械地决定行动。文化图式"可迁移和可推广"，行动者对文化的运用是创造性的（，引 Sewell, 1992）
 > - vs **习惯（habit）** — 习惯是机械重复的固定模式；习性是具有生成能力的倾向系统，可以在不同情境中产生不同的适应性实践
 
@@ -78,9 +81,9 @@ updated: 2026-07-08
 ## 概念演变
 
 > [!note]-
-> 习性概念的谱系可追溯至经院哲学，经[[Ethnography|民族志]]田野的中介，最终发展为 Bourdieu 实践理论的核心操作概念：
+> 习性概念的谱系可追溯至经院哲学，经[[Ethnography|民族志]]田野的中介，最终发展为 Bourdieu [[Praxis|实践]]理论的核心操作概念：
 
-- **亚里士多德 *hexis*** — 经 Thomas Aquinas 翻译为拉丁语 *habitus*，指一种稳定的品质或状态，使行动者倾向于以特定方式行动
+- **[[Aristotle|亚里士多德]] *hexis*** — 经 Thomas Aquinas 翻译为拉丁语 *habitus*，指一种稳定的品质或状态，使行动者倾向于以特定方式行动
 - **Marcel Mauss（1934）** — 在"身体技术"（techniques du corps）概念中使用了 habitus 一词，指不同社会中人们使用身体方式的习得性差异
 - **Bourdieu 在 Béarn 的早期使用** — 最早出现于 Bourdieu 对 Béarn 农民社会单身现象的考察，用于解释婚姻策略的持久模式（*Le Bal des célibataires* 的前期研究）
 - ***Esquisse d'une théorie de la pratique*（1972）** — 在 Kabylie 民族志基础上首次系统阐述习性概念，旨在超越[[Subjectivism|主观主义]]与[[Objectivism|客观主义]]的二元对立
@@ -92,9 +95,9 @@ updated: 2026-07-08
 
 > [!abstract]
 
-- **具身性** 习性铭刻在身体之中，表现为不经深思熟虑即可自然调用的感知、判断和行动倾向。用[[Yajun Zheng|郑雅君]]（2023）的话说，阶层条件"铭刻进了阶层成员各自的身体，化作了他们日用而不知的'上大学'的独特实践"
+- **具身性** 习性铭刻在身体之中，表现为不经深思熟虑即可自然调用的感知、判断和行动倾向。用[[Yajun Zheng|郑雅君]]（2023）的话说，阶层条件"铭刻进了阶层成员各自的身体，化作了他们日用而不知的'上大学'的独特[[Praxis|实践]]"
 - **生成性** 习性不是固定不变的程序，而是能够在不同社会情境中生成适应性策略的"生成语法"。Sewell（1992）指出文化图式是可迁移（transposable）和可推广的（generalizable）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Sewell, 1992）
-- **阶层特异性** 不同社会阶层成员因成长环境中可及的经验类型不同，内化形成不同的习性结构。这使得"特定文化工具的可及性和掌握熟练程度总是依习性结构的不同而有着系统性的差异"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+- **阶层特异性** 不同社会阶层成员因[[Growth|成长]]环境中可及的经验类型不同，内化形成不同的习性结构。这使得"特定文化工具的可及性和掌握熟练程度总是依习性结构的不同而有着系统性的差异"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 - **前[[Reflexivity|反思性]]** 习性运作于意识反思之下——行动者通常不意识到自己的行为受习性引导，这正是其强大之处。正如郑雅君（2023）所示，[[Intuition-Dependent Mode|直觉依赖模式]]下的学生并非有意选择被动，而是习性使他们"浑然不觉"地按特定方式行事
 
 ---
@@ -102,7 +105,7 @@ updated: 2026-07-08
 ## 理论基础
 
 > [!tip]-
-> - wiki-[[Pierre Bourdieu]] — 习性是布迪厄实践理论的枢纽概念，连接[[Champ|场域]]（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向转化成为可能
+> - wiki-[[Pierre Bourdieu]] — 习性是布迪厄[[Praxis|实践]]理论的枢纽概念，连接[[Champ|场域]]（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向转化成为可能
 
 ---
 
@@ -133,11 +136,11 @@ updated: 2026-07-08
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以习性概念为核心，揭示了中国精英大学中两种大学生活组织模式的社会根源：
 
 - 优势阶层习性 → [[Goal-Controlled Mode]]：自幼通过家庭社会化内化了长线规划、资源识别与策略性行动的倾向，进入大学后"自然地"知道如何为目标做准备
-- 弱势阶层习性 → [[Intuition-Dependent Mode]]：成长环境中缺乏对高等教育的隐性知识，内化了"听老师话、好好学习"的被动倾向，在大学场域中沿袭这一模式而不自知
+- 弱势阶层习性 → [[Intuition-Dependent Mode]]：[[Growth|成长]]环境中缺乏对高等教育的隐性知识，内化了"听老师话、好好学习"的被动倾向，在大学场域中沿袭这一模式而不自知
 
 ### 习性转换：大学作为再社会化场域
 
-习性虽然持久，但并非一成不变。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第4章援引布迪厄实践理论指出，习性"作为一种可转换的持久倾向系统，会不断地调和自身与场域之间的矛盾，一方面需要维持与旧系统的连贯性，另一方面也可能发展新的倾向以适应新的环境"（，引 Bourdieu, 2012）。Stevens 等人（2008）将高等教育的这重面向描述为一个如同"育婴室"的文化性/社会性过程——学生在其中接受集中的再社会化，认知图式、文化修养、品位甚至价值观都可能发生微妙转换（，引 Stevens, Armstrong & Arum, 2008）。
+习性虽然持久，但并非一成不变。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第4章援引布迪厄[[Praxis|实践]]理论指出，习性"作为一种可转换的持久倾向系统，会不断地调和自身与场域之间的矛盾，一方面需要维持与旧系统的连贯性，另一方面也可能发展新的倾向以适应新的环境"（，引 Bourdieu, 2012）。Stevens 等人（2008）将高等教育的这重面向描述为一个如同"育婴室"的文化性/社会性过程——学生在其中接受集中的再社会化，认知图式、文化修养、品位甚至价值观都可能发生微妙转换（，引 Stevens, Armstrong & Arum, 2008）。
 
 第4章的转变者案例呈现了习性转换的经验过程：
 
@@ -168,7 +171,7 @@ updated: 2026-07-08
 ## 相关案例／政策
 
 > [!example]
-> - [[Goal-Controlled Mode]] — 优势阶层习性在大学[[Champ|场域]]中的实践表现
+> - [[Goal-Controlled Mode]] — 优势阶层习性在大学[[Champ|场域]]中的[[Praxis|实践]]表现
 > - [[Intuition-Dependent Mode]] — 弱势阶层习性在大学场域中的实践表现
 > - [[Cultural Barrier]] — 习性错配在大学场域中产生的文化障碍
 > - [[New Public Management]] — NPM 对教育场域的渗透导致校长习性分裂的结构性条件

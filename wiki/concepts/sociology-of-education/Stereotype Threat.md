@@ -5,7 +5,7 @@ aliases:
 summary: "社会心理学概念，指个体意识到针对自身群体的负面刻板印象时产生的额外情感与认知负担，进而影响表现、参与和认同。"
 type: concept
 domain: "sociology-of-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Orientalism]]"
   - "[[Document]]"
   - "[[Meta-Cultural Sensitivity]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 > - Ryan & Louie（2007）发现，[[Chinese Learner|中国学习者]]在西方课堂中经常**内化**了关于自己"被动"的刻板描述，甚至在没有实际问题的情况下主动道歉说"我太被动了"([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.44]])。这直接体现了刻板印象威胁的内化阶段
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010, p.50)]]基于十年间对国际学生的访谈，记录了许多学生在海外学习中经历的"身份丧失和自尊降低"——这是去认同化的具体表现
 > - 权力不平等放大了威胁效应：由于教师-学生关系中教师处于更强势一方，"教师携带的文化包袱比学生携带的具有更强的支配效应"（Louie, 2005, p.23, 转引自 Ryan, 2010, p.49），这意味着教师的刻板化预期比学生的应对能力更有力量
-> - Phan Le Ha（2004）访谈的越南 ESL 教师明确拒绝这些刻板印象为"不准确和冒犯性"，但他们也承认，在英语教学实践中"'我们'和'他们'的二分法如此明显和强大，以至于难以消除"（Phan, 2004, p.56, 转引自 Ryan, 2010, p.50）——这说明即使被刻板化者**意识**到机制，也难以单方面打破
+> - Phan Le Ha（2004）访谈的越南 ESL 教师明确拒绝这些刻板印象为"不准确和冒犯性"，但他们也承认，在英语教学[[Praxis|实践]]中"'我们'和'他们'的二分法如此明显和强大，以至于难以消除"（Phan, 2004, p.56, 转引自 Ryan, 2010, p.50）——这说明即使被刻板化者**意识**到机制，也难以单方面打破
 > - 东道国规范的顺应压力：国际学生常感到必须"顺应东道国的规范和协议"（Li, Baker & Marshall, 2002, p.18, 转引自 Ryan, 2010, p.50），这构成威胁感知的持续外部来源
 
 ## 争议与批评

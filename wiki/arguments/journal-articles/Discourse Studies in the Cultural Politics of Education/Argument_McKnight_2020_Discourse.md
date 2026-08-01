@@ -10,7 +10,7 @@ title: "Argument_McKnight_2020_Discourse"
 argument_key: "Argument_McKnight_2020_Discourse"
 argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Document]]"
   - "[[Literature Review]]"
+  - "[[Dialogue in Education]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Value Neutrality]]"
 related_theories: []
 related_methods:
+  - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
@@ -79,7 +81,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法** 理论性／批判性话语分析（非实证课堂研究）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"(p.34)
+> - **方法** 理论性／批判性[[Discourse Analysis|话语分析]]（非实证课堂研究）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"(p.34)
 > - **分析对象** Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
 > - **分析视角** 作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究(p.33)
 > - **数据来源** Hattie 的出版物、[[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
@@ -96,7 +98,7 @@ citation_aliases:
 > ### 2. Visible Learning 模拟色情片逻辑
 > VL 由一位单一的、上帝般的男性权威主导，痴迷于"射精式的结果"(McKnight, 2017)，在以女性为主的职业中强加异性恋规范、性别歧视和能力主义的教育建构。一种"学习的色情化"通过为男性化凝视生产可见证据而实现。将青少年色情自查问题改编为教师数据成瘾自查，揭示两者共享的"可见性的狂热"(Williams, 1989)。
 >
-> ### 3. Visible Learning 拒绝对话
+> ### 3. Visible Learning 拒绝[[Dialogue in Education|对话]]
 > VL 崇拜不是关于教师和学生，而是关于 VL 品牌——不容辩论、被商标固化和束缚。教师知识被提取→处理→打包→作为"外部专家建议"卖回给教师——一种"多平台资本主义"（multiplatform capitalism）。教师被建构为知识匮乏、自主权被限制在"研究验证"的数据之内。Hattie 本人承认培训中禁止教师分享自己的故事——"一旦你允许那样做，你就使房间里的每个教师合法化去谈论他们的战争故事"([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p.254]])。
 >
 > ### 4. Visible Learning 忽视关怀伦理

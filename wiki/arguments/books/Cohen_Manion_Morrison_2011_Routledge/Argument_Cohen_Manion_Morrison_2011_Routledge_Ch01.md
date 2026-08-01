@@ -11,10 +11,10 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 79
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
 year: 2011
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
+  - "[[Ways of Knowing]]"
   - "[[Scientific Method]]"
   - "[[Multiplicity]]"
   - "[[Paradigm]]"
@@ -48,6 +49,7 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
   - "[[Nomothetic and Idiographic]]"
+  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Falsification]]"
@@ -59,11 +61,13 @@ related_concepts:
   - "[[Indexicality]]"
   - "[[Homework]]"
   - "[[Flanders Interaction Analysis Categories]]"
+  - "[[Dialogue in Education]]"
   - "[[Emergence]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Question]]"
   - "[[Data Transformation]]"
+  - "[[Rating Scale]]"
   - "[[Research Purpose]]"
   - "[[Postmodernism]]"
   - "[[Post-structuralism]]"
@@ -82,7 +86,7 @@ related_theories:
 related_methods:
   - "[[Participant Observation]]"
   - "[[Interview Protocol]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
@@ -95,6 +99,7 @@ related_methods:
   - "[[Action Research]]"
   - "[[Participatory Research]]"
 related_persons:
+  - "[[Aristotle]]"
   - "[[Francis Bacon]]"
   - "[[Thomas Kuhn]]"
   - "[[Auguste Comte]]"
@@ -153,7 +158,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 
 人类理解世界的途径可归纳为三种(Mouly, 1978)，形成了一个从日常认知到科学知识的递进框架：
 
-**经验(experience)** 是人类最依赖的日常认知方式，但作为揭示真理的工具，其局限可通过与[[Scientific Method|科学方法]]的对比清晰展现(pp.111–112)：
+**经验(experience)** 是人类最依赖的日常[[Ways of Knowing|认知方式]]，但作为揭示真理的工具，其局限可通过与[[Scientific Method|科学方法]]的对比清晰展现(pp.111–112)：
 
 > [!finding-cards]
 > - **理论的使用** 普通人基于随机事件松散地使用理论，选择性地寻找支持自己直觉的证据；科学家则谨慎、系统地建构理论，所有假设都必须经过经验检验
@@ -163,7 +168,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 **推理(reasoning)** 的三种形式构成了科学方法论的历史基础(pp.113–127)：
 
 > [!timeline]
-> - **古希腊至文艺复兴** 亚里士多德的三段论(syllogism)——大前提(先验命题)+ 小前提(特例)+ 结论。例如："所有行星绕太阳运行；地球是行星；因此地球绕太阳运行。"局限在于：前提可能是先入之见，脱离观察后沦为纯粹的心智练习，经验证据被权威引用所取代，科学变得贫瘠
+> - **古希腊至文艺复兴** [[Aristotle|亚里士多德]]的三段论(syllogism)——大前提(先验命题)+ 小前提(特例)+ 结论。例如："所有行星绕太阳运行；地球是行星；因此地球绕太阳运行。"局限在于：前提可能是先入之见，脱离观察后沦为纯粹的心智练习，经验证据被权威引用所取代，科学变得贫瘠
 > - **17世纪(培根革命)**[[Francis Bacon|弗朗西斯·培根]]([[Francis Bacon]])批评演绎法的前提偏见，提出归纳推理(inductive reasoning)——从大量个别案例的观察出发，逐步形成假设和概括。核心信念：即使没有关于数据意义的先入之见，警觉的观察者也能够发现重要的关系和法则
 > - **现代** 归纳–演绎结合法(inductive-deductive approach)——研究者在归纳(从观察到假设、从具体到一般)和演绎(从假设到推论)之间反复往返，严格检验假设并根据需要修正
 
@@ -284,7 +289,7 @@ Burrell & Morgan (1979)的[[Burrell and Morgan Four Assumptions Framework|四组
 
 这四组假设构成了一个严谨的推导链：**本体论立场 → 认识论立场 → 人性假设 → 方法论选择**。研究者对"社会实在是客观外在的还是主观建构的"这一根本问题的回答，层层传导到他们选择调查、实验还是参与观察、个人构念等具体方法。
 
-这番对比可进一步扩展到社会与组织的十个维度(Table 1.1)，从哲学基础一直延伸到组织变革的实践方案：
+这番对比可进一步扩展到社会与组织的十个维度(Table 1.1)，从哲学基础一直延伸到组织变革的[[Praxis|实践]]方案：
 
 > [!contrast-table] Table 1.1：诠释社会实在的两种基础 (Based on Barr Greenfield, 1975)
 >
@@ -496,7 +501,7 @@ Douglas (1973)提出了一对关键概念区分(pp.524–531)：
 >
 > Walker and Adelman 随后询问为什么"草莓"是一个幽默的刺激，被告知老师经常说学生的作业"像草莓——好的地方很好，但持续的时间远远不够长"。这里，**一句过去的随意评论已经成为班级共享意义系统的有机组成部分**。只有通过理解这段随时间发展的关系，才能理解这一互动。这就是索引性的力量——意义深嵌于共享的社会语境历史中(Box 1.5, pp.459–484)。
 
-俗民方法学可分为**语言取向**(聚焦于对话结构和未明说的"理所当然"意义)和**情境取向**(聚焦于人们如何协商社会语境，可能刻意扰乱日常情境中的有序元素来揭示底层过程)(pp.558–559)。
+俗民方法学可分为**语言取向(聚焦于[[Dialogue in Education|对话]]结构和未明说的"理所当然"意义)**和**情境取向**(聚焦于人们如何协商社会语境，可能刻意扰乱日常情境中的有序元素来揭示底层过程)(pp.558–559)。
 
 #### 7.3 符号互动论(Symbolic Interactionism)
 

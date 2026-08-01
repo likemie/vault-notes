@@ -8,7 +8,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Outcomes-based Education]]"
+  - "[[Praxis]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -70,7 +71,7 @@ updated: 2026-07-09
 > [!example] 实施情况
 > - 新西兰教育部指派 Education Review Office（ERO）定期评估课程原则在各校的实施程度([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.128]])
 > - 课程提供愿景、价值观、原则和[[21st Century Skills and Competencies Discourse|关键能力]]框架，但允许各校根据本地需求设计独特的学习项目
-> - 新西兰学校实践"课程连接"（curriculum connection），被认为能有效促进师生之间多层次的协作，区别于主题式教学，有意识地维持各学习领域的严谨性([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.128–129]])
+> - 新西兰学校[[Praxis|实践]]"课程连接"（curriculum connection），被认为能有效促进师生之间多层次的协作，区别于主题式教学，有意识地维持各学习领域的严谨性([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.128–129]])
 
 ## 效果与评价
 

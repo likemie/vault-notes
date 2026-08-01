@@ -8,7 +8,7 @@ summary: "质性访谈中用于指导问题提问和记录回答的一至两页�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
+  - "[[Dialogue in Education]]"
   - "[[Questionnaire]]"
 related_methods:
   - "[[Qualitative Interview]]"
@@ -250,7 +251,7 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 > [!method-fit] 适用判断
 > - **适合使用** 所有采用[[Qualitative Interview|质性访谈]]作为数据收集方式的研究，包括一对一访谈和[[Focus Group|焦点小组]]访谈。涉及多个访谈者或需要跨个案比较时，统一协议尤为关键。
 > - **谨慎使用** 高度探索性研究（过于结构化的协议可能限制[[Emergence|涌现]]）；单一访谈者的小规模研究（灵活性可能优先于标准化）。
-> - **不适合使用** 完全非结构化的[[Ethnography|民族志]]对话（协议的存在本身可能破坏自然性）；量化调查中的封闭式[[Questionnaire|问卷]]（应使用标准化调查工具）。
+> - **不适合使用** 完全非结构化的[[Ethnography|民族志]][[Dialogue in Education|对话]]（协议的存在本身可能破坏自然性）；量化调查中的封闭式[[Questionnaire|问卷]]（应使用标准化调查工具）。
 
 ---
 

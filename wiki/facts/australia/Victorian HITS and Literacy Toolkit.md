@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Visible Learning]]"
+  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Whole Language]]"
   - "[[Chain of Evidence]]"
@@ -75,7 +76,7 @@ citation_aliases: []
 > - **实施路径**
 >   - 维州教师被官方“建议”在其教学设计中显性整合 10 项 HITS 策略，以此作为优质课堂的标准 (p.141)。
 >   - 在读写课（Literacy Hour）上，教师被要求参考读写教学工具箱的阅读和查看指南。该工具箱深度引入了由 Corwin 公司出版的《[[Visible Learning|VL]]读写教学》（Fisher, Frey, & Hattie, 2016），用于规范日常拼读与阅读教学的实操步骤 (p.141)。
-> - **反馈调整与偏误** 在一线课堂实践中，由于政策过度依靠 Visible Learning [[Effect Size|效应量]]排行，导致拼读法被过度拔高，[[Whole Language|全语言]]教学被排挤。教师被动接受了存在方法论缺陷的“假科学证据”，导致课堂自主裁量权受到实质压制 (p.141, p.149)。
+> - **反馈调整与偏误** 在一线课堂[[Praxis|实践]]中，由于政策过度依靠 Visible Learning [[Effect Size|效应量]]排行，导致拼读法被过度拔高，[[Whole Language|全语言]]教学被排挤。教师被动接受了存在方法论缺陷的“假科学证据”，导致课堂自主裁量权受到实质压制 (p.141, p.149)。
 
 ---
 
@@ -86,7 +87,7 @@ citation_aliases: []
 >   - 州级和全国标准化读写测试（如澳大利亚 NAPLAN 成绩）的表现。
 >   - 教师教案中对 10 项 HITS 策略的合规性覆盖比例。
 > - **实质效果的负面裁定（O'Connor 审查）**
->   - 政策错误地采纳了存在数据严重算错与先验偏见的“[[Meta-analysis|元分析]]”结论，将识字教学扭曲为纯粹技术主义的解码训练，抹杀了阅读作为社会文化实践的本质 (p.149)。
+>   - 政策错误地采纳了存在数据严重算错与先验偏见的“[[Meta-analysis|元分析]]”结论，将识字教学扭曲为纯粹技术主义的解码训练，抹杀了阅读作为社会文化[[Praxis|实践]]的本质 (p.149)。
 >   - 证据转化过程存在草率和教条化倾向，没有经过二次同行评审，便直接将存在争议的统计学[[Effect Size|效应量]]变成了面向全体学生的政策约束 (p.141)。
 
 ---
@@ -115,5 +116,5 @@ citation_aliases: []
 
 - [[Visible Learning]] — HITS 与工具包的首要证据支撑来源。
 - [[Evidence-Based Education]] — HITS 政策所依傍的宏观教育治理运动。
-- [[Whole Language]] — 在该读写工具包中被低估、而在前线教师实践中备受捍卫的教学哲学。
+- [[Whole Language]] — 在该读写工具包中被低估、而在前线教师[[Praxis|实践]]中备受捍卫的教学哲学。
 - [[Global Education Reform Movement]] — 维州 HITS 政策所契合的标准化、企业化教育问责宏观运动。

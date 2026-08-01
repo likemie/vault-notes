@@ -10,7 +10,7 @@ title: "Argument_Ross_Morrison_2021_ROE"
 argument_key: "Argument_Ross_Morrison_2021_ROE"
 argument_display_title: "Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - method/formative-evaluation
 related_concepts:
   - "[[Research Question]]"
+  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Absorptive Capacity]]"
   - "[[Literature Review]]"
@@ -73,7 +74,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有证据标准常把有效性压缩为严格实验中的统计显著成就效果(pp.109-112)。
+> 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于[[Praxis|实践]]者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有证据标准常把有效性压缩为严格实验中的统计显著成就效果(pp.109-112)。
 
 ## 理论框架
 
@@ -103,7 +104,7 @@ citation_aliases:
 > [!example] 例子
 > 一个学区要采购阅读软件。证据运动要求它先问“这个软件是否有严格研究支持”，而不是只问“供应商演示好不好看”或“邻近学区是否买了”。
 
-3. 证据运动确实带来好处：实践者更关心可信研究，WWC 和 Evidence for ESSA 扩展了证据可及性，州和学区也开始用证据标准审查项目(p.110)。
+3. 证据运动确实带来好处：[[Praxis|实践]]者更关心可信研究，WWC 和 Evidence for ESSA 扩展了证据可及性，州和学区也开始用证据标准审查项目(p.110)。
 
 ### 第二层：严格证据会把“有效性”压缩得过窄
 
@@ -170,7 +171,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > ### 关于证据使用
-> 1. 实践者虽然被鼓励使用严格证据，但在产品选择上常更偏好同伴推荐和本地试点，因为这些来源更能回答地方实施、使用体验、成本和适配问题(pp.120-121)。
+> 1. [[Praxis|实践]]者虽然被鼓励使用严格证据，但在产品选择上常更偏好同伴推荐和本地试点，因为这些来源更能回答地方实施、使用体验、成本和适配问题(pp.120-121)。
 > 2. 证据审查若只报告[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]]，容易遗漏成本、实施要求、用户满意度、情境特征和研究局限等实践者实际需要的信息(p.121)。
 >
 > ### 关于 [[Students and Teachers Accessing Tomorrow|STAT]] 案例

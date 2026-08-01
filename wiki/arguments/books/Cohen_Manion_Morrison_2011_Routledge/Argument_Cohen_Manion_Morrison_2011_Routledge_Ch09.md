@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Guilty Knowledge]]"
   - "[[Covert Research]]"
   - "[[Deductive Disclosure]]"
+  - "[[Praxis]]"
   - "[[Operationalization]]"
   - "[[Interviewer Effects]]"
   - "[[Institutional Review Board]]"
@@ -55,16 +56,18 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Screening Off]]"
   - "[[Research Purpose]]"
+  - "[[Dialogue in Education]]"
   - "[[Consequential Validity]]"
 related_theories:
   - "[[Hart's Ladder of Participation]]"
 related_methods:
   - "[[Linked File System]]"
-  - "[[Qualitative Interview]]"
+  - "[[In-depth Interview]]"
   - "[[Snowball Sampling]]"
   - "[[Convenience Sampling]]"
   - "[[Ethnography]]"
   - "[[Fieldwork]]"
+  - "[[Semi-structured Interview]]"
   - "[[Participatory Research]]"
   - "[[Design-Based Research]]"
 related_persons: []
@@ -121,7 +124,7 @@ updated: 2026-07-09
 > - **步骤二：方法论困境一——抽样与准入** 将敏感性概念转化为具体的操作方法问题：当研究群体是隐藏的、越轨的或封闭的，研究者如何找到并接触他们？引出 Lee 的八种策略和 Walford 的四阶段模型（9.3）。
 > - **步骤三：[[Gatekeepers|守门人]]与担保人的动态关系** 在抽样与准入内部，进一步聚焦两个关键角色——控制准入之门的守门人和带领研究者穿门而入的担保人，并以后者对前者的补充展示敏感研究中人际信任的核心地位（9.3 后段）。
 > - **步骤四：方法论困境二——伦理极端化** 敏感研究将[[Informed Consent|知情同意]]、保密、匿名性、公共利益与个人隐私等日常[[Research Ethics|研究伦理]]推向极端，引出[[Guilty Knowledge|有罪知识]]、[[Covert Research|隐蔽研究]]的正当性争论、[[Deductive Disclosure|演绎披露]]和[[Linked File System|链接文件系统]]等具体伦理工具（9.4）。
-> - **步骤五：两种对比情境** 以研究有权者（9.5）和研究无权与脆弱群体（9.6）作为敏感研究的两个具体案例，展示前述概念、方法和伦理如何在实践中交织运作。两个情境的问题清单几乎相同——作者有意设计——因为它们指向同一个底层问题：权力不对称。
+> - **步骤五：两种对比情境** 以研究有权者（9.5）和研究无权与脆弱群体（9.6）作为敏感研究的两个具体案例，展示前述概念、方法和伦理如何在[[Praxis|实践]]中交织运作。两个情境的问题清单几乎相同——作者有意设计——因为它们指向同一个底层问题：权力不对称。
 > - **步骤六：[[Operationalization|操作化]]转化** 将前述全部讨论转化为可执行的提问技巧：问题形式选择、vignettes 的投射机制、[[Interviewer Effects|访谈者效应]]管理——完成从抽象伦理到具体操作的闭环（9.7）。
 
 ---
@@ -706,7 +709,7 @@ Lee (1993, pp. 102–114) 将敏感访谈的操作总结为四个需要逐一处
 > |---|---|
 > | 如何接近话题 | 让话题"在整个访谈过程中逐渐浮现"（p. 103），而非一开始就直面最敏感的问题。先建立信任和知情同意，再逐步深入。 |
 > | 如何处理矛盾、复杂性和情绪 | 可能需要访谈者培训和督导。采取接纳和非评判的立场。处理受访者可能是访谈者并不喜欢或不同意的人——这是专业操守的考验。 |
-> | 如何操作访谈中的权力与控制 | 六种情境需要区分处理：(a)访谈者地位高于、低于或等于受访者；(b)访谈者想要信息但无权命令对方提供；(c)有权者利用访谈进行冗长且无关的自我展示；(d)访谈结束时访谈者掌握了可能使受访者感到脆弱的敏感信息；(e)参与者提供了可能违背自身利益的信息；(f)访谈的风格——对话式、正式、高度结构化或高度指令式。 |
+> | 如何操作访谈中的权力与控制 | 六种情境需要区分处理：(a)访谈者地位高于、低于或等于受访者；(b)访谈者想要信息但无权命令对方提供；(c)有权者利用访谈进行冗长且无关的自我展示；(d)访谈结束时访谈者掌握了可能使受访者感到脆弱的敏感信息；(e)参与者提供了可能违背自身利益的信息；(f)访谈的风格——[[Dialogue in Education\|对话]]式、正式、高度结构化或高度指令式。 |
 > | 如何处理交换条件 | Lee (1993, p. 112) 建议敏感访谈"应具有一次性特征"（one-off character）——受访者应感到访谈者和受访者可能永远不会再见。这可以建立信任并导致更多披露——因为受访者不用担心后续的交往后果。但这一点与协作性研究关系（collaborative research relationship）的发展存在张力（Lee, 1993, p. 113）。 |
 
 ---

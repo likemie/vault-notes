@@ -5,7 +5,7 @@ aliases:
 summary: "教育决策权从中央官僚机构向个别学校下放的制度安排，用于组织学校层面的资源配置、课程决策和管理责任。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Analytic Framework]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[New Public Management]]"
   - "[[School Leadership]]"
@@ -52,7 +53,7 @@ updated: 2026-07-09
 > 3. **权力下放与经济[[Rationalism in International Relations|理性主义]]** 权力下放和经济理性主义构成学校自主权，使本已弱势的学校更加不利
 > 4. **需求本位拨款** 需求本位拨款在缺乏透明度、精细度和行政支持时构成学校自主权，制造经济不公
 >
-> Dolan 的悖论框架将悖论理解为"由话语的构成性实践所形成，而非作为冲突或复杂性的表征"——目的是"问题化并使主导当代学校教育的话语变得脆弱"（Keddie et al., 2020, IJLE, p.5-6）。
+> Dolan 的悖论框架将悖论理解为"由话语的构成性[[Praxis|实践]]所形成，而非作为冲突或复杂性的表征"——目的是"问题化并使主导当代学校教育的话语变得脆弱"（Keddie et al., 2020, IJLE, p.5-6）。
 
 ## 核心要素
 
@@ -135,7 +136,7 @@ updated: 2026-07-09
 
 
 > [!warning] "何为公共"——公立教育公共性的重新协商
-> Keddie et al.（2020, IJLE, p.12-13）进一步追问：市场化话语和实践如何改变了澳大利亚**公立教育中"公共"的含义**？公共教育为公共善（common good）的传统——支持民主参与和积极的知情公民权——正在被公私利益的日益交织所侵蚀。
+> Keddie et al.（2020, IJLE, p.12-13）进一步追问：市场化话语和[[Praxis|实践]]如何改变了澳大利亚**公立教育中"公共"的含义**？公共教育为公共善（common good）的传统——支持民主参与和积极的知情公民权——正在被公私利益的日益交织所侵蚀。
 >
 > 关键问题包括（Keddie et al., 2020, IJLE, p.13）：
 > - 私营部门在公立教育治理中的渗透（如慈善、将运营外包给企业部门）有何后果？

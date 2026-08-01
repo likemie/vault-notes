@@ -11,7 +11,7 @@ aliases:
 summary: "儒学学习传统的最高理想人格，超越君子、以仁爱关怀全人类者；孔子指出此目标遥不可及，但宋明理学将其向所有人开放"
 type: concept
 domain: "chinese-philosophy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Benevolence]]"
   - "[[Take the World Upon Oneself]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
@@ -98,7 +99,7 @@ updated: 2026-07-08
 ## 争议与批评
 
 > [!warning]
-> - [[Confucius|孔子]]将圣人定位于几乎不可及的高度——如果连他自己都不算圣人，那么圣人标准是否过于严苛以至于失去了实践意义？[[Neo-Confucianism|宋明理学]]的回应是将圣人目标"向所有人开放"，但这一转变是否降低了圣人的标准？
+> - [[Confucius|孔子]]将圣人定位于几乎不可及的高度——如果连他自己都不算圣人，那么圣人标准是否过于严苛以至于失去了[[Praxis|实践]]意义？[[Neo-Confucianism|宋明理学]]的回应是将圣人目标"向所有人开放"，但这一转变是否降低了圣人的标准？
 > - 如果将孔子和[[Mencius|孟子]]尊为圣人，那么"圣人"就不再是孔子原意中那个遥不可及的概念——后世儒者实际上重新定义了圣人([[Argument_Li_2012_Cambridge|Li, 2012, p.42]])
 
 ---

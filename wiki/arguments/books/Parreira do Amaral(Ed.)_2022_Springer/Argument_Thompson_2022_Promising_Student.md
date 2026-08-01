@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Document]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Praxis]]"
   - "[[Performativity of Measurement]]"
   - "[[Conatus]]"
   - "[[Learning Analytics]]"
@@ -45,7 +46,8 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories:
   - "[[Societies of Control]]"
-related_methods: []
+related_methods:
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[Immanuel Kant]]"
 related_facts:
@@ -85,7 +87,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment|OSA]] 操作手册的话语分析。
+> 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment|OSA]] 操作手册的[[Discourse Analysis|话语分析]]。
 > - 方法：话语分析（discourse analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"(p.223)）
 > - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究[[Document|文献]]（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
 > - 案例材料：荷兰 Saxion 大学的"学习选择检查"YouTube 视频(2020)
@@ -106,7 +108,7 @@ citation_aliases:
 
 将 [[Online Self-Assessment|OSA]] 置于竞争性大学的更广框架中理解：借助 Moisio(2018)对[[Knowledge-Based Economy|知识经济]]地缘政治的分析，竞争力已成为重新组织高等教育的"地缘政治装置"（geopolitical apparatus）：
 
-- 排名和指标化实践将大学转化为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用(p.220)
+- 排名和指标化[[Praxis|实践]]将大学转化为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用(p.220)
 - 在科研领域，Bröckling & Peter(2017)已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——[[German Excellence Initiative|德国卓越计划]]和英国 [[Research Excellence Framework|REF]] 就是通过指标和排名构建市场环境的典型技术(p.220)
 - 在教学领域，竞争力表现为对**学生成功的预期管理**——大学竞争的是学生的"潜在未来[[Conatus|努力]]"(p.220)
 
@@ -148,7 +150,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 
 > [!success]
 
-- 竞争力作为地缘政治装置通过排名、指标化和比较实践重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来[[Conatus|努力]]"(p.220)
+- 竞争力作为地缘政治装置通过排名、指标化和比较[[Praxis|实践]]重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来[[Conatus|努力]]"(p.220)
 - OSAs 作为治理工具重新定义了从中学到大学的过渡——从集体性的约定转变为个体化的自我反思情境(p.222)
 - [[Online Self-Assessment|OSA]] 的三种战略功能：发现天赋、降低成本和风险、完善大学形象/教育品牌(pp.223–224)
 - 数据化使大学获得通过"成功相关性"分析来管理不确定性的能力，OSA 使"问题学生"在入学前就被识别(p.224)
@@ -176,8 +178,8 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 ## 局限性与批评
 
 > [!warning]
-> - **作者自述局限** 篇幅限制，未能提供对文本材料的完整话语分析，仅识别了核心主题和方面(p.223)
-> - **经验覆盖的局限** 分析主要基于德国大学的政策文件和进展报告，[[Online Self-Assessment|OSA]] 类型和形式的多样性（600+ 种工具）意味着分析无法覆盖全部实践
+> - **作者自述局限** 篇幅限制，未能提供对文本材料的完整[[Discourse Analysis|话语分析]]，仅识别了核心主题和方面(p.223)
+> - **经验覆盖的局限** 分析主要基于德国大学的政策文件和进展报告，[[Online Self-Assessment|OSA]] 类型和形式的多样性（600+ 种工具）意味着分析无法覆盖全部[[Praxis|实践]]
 > - **理论框架的依赖** 该章高度依赖 Foucault [[Governmentality|治理术]]和 Deleuze [[Societies of Control|控制社会]]两个特定[[Theoretical Perspective|理论视角]]，可能低估了其他可能的解释框架——例如制度理论或组织社会学视角
 > - **替代性解读的缺失** OSA 的倡导者可能将其解释为一种赋权学生的民主化工具——帮助学生做出更好的选择、避免辍学和资源浪费。该章虽然提及了这一维度，但对其批评性重构占据了主导地位
 

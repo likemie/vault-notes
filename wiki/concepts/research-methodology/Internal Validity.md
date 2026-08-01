@@ -6,7 +6,7 @@ aliases:
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[External Validity]]"
   - "[[Paradigm]]"
+  - "[[Growth]]"
   - "[[Attrition]]"
   - "[[Conatus]]"
   - "[[Pre-test and Post-test]]"
@@ -104,7 +105,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > > | 分组 | 威胁 | 核心问题 |
 > > |---|---|---|
 > > | **受试者** | 历史（History） | 实验期间的外部事件混淆了处理效应 |
-> > | | 成熟（Maturation） | 受试者自然成长被误判为处理效果 |
+> > | | 成熟（Maturation） | 受试者自然[[Growth\|成长]]被误判为处理效果 |
 > > | | 统计回归（Regression） | 极端得分随时间向均值回归 |
 > > | | 选择（Selection） | 组间系统性差异被误判为处理效应 |
 > > | | [[Attrition\|流失]]（Mortality/Attrition） | 退出者可能恰好是效果最差的受试者 |

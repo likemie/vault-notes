@@ -7,7 +7,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -18,7 +18,8 @@ tags:
   - theme/innovation-policy
   - theme/challenge-driven-research
   - level/higher-education
-related_concepts: []
+related_concepts:
+  - "[[Growth]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -45,7 +46,7 @@ updated: 2026-06-10
 ## 政策文本摘要
 
 > [!abstract]
-> ISCF 投资涵盖的关键领域包括：量子技术（quantum technologies）、复合半导体（compound semiconductors）、医疗保健（healthcare）、农业科技（agritech）、能源与清洁增长（energy and clean growth）以及创意产业（creative industries）。
+> ISCF 投资涵盖的关键领域包括：量子技术（quantum technologies）、复合半导体（compound semiconductors）、医疗保健（healthcare）、农业科技（agritech）、能源与清洁增长（energy and clean [[Growth]]）以及创意产业（creative industries）。
 
 政策的核心特点：
 - **产业主导（industry-led）** 研究和创新优先领域由产业需求驱动

@@ -8,7 +8,7 @@ summary: "先收集量化数据再以质性后续数据深入解释量化结果�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 19
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -16,6 +16,7 @@ tags:
   - method/mixed-methods
 related_concepts:
   - "[[Variable]]"
+  - "[[Dialogue in Education]]"
   - "[[Postpositivism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
@@ -25,6 +26,7 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Metainferences]]"
   - "[[Purpose Statement]]"
+  - "[[Praxis]]"
   - "[[Independent Variable]]"
 related_theories: []
 related_methods:
@@ -63,7 +65,7 @@ updated: 2026-06-02
 该设计的核心逻辑是**先看什么，再问为什么**。量化阶段揭示现象的统计模式和[[Variable|变量]]关系，质性阶段则深入参与者视角，解释这些模式背后的意义、机制与过程。其整合洞见体现为：
 - **深度解释** 对统计关系中的为什么和如何发生提供质性说明。
 - **后续跟进** 对意外、反常或显著的群体差异进行针对性探索。
-- **机制阐述** 在量化模式与质性解释之间建立对话，而非仅仅是数据的简单叠加。
+- **机制阐述** 在量化模式与质性解释之间建立[[Dialogue in Education|对话]]，而非仅仅是数据的简单叠加。
 
 ---
 
@@ -161,7 +163,7 @@ updated: 2026-06-02
 >
 > | 要素 | 在陈述中的体现 |
 > | :--- | :--- |
-> | **总体意图** | 识别持续就学因素，具有改进项目的实践价值。 |
+> | **总体意图** | 识别持续就学因素，具有改进项目的[[Praxis\|实践]]价值。 |
 > | **设计类型** | 解释性序列 (Sequential Explanatory)。 |
 > | **量化术语** | identify factors, predictors, statistical tests。 |
 > | **质性术语** | explore in more depth, case study analysis。 |

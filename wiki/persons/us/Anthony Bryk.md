@@ -7,7 +7,7 @@ summary: "美国教育研究者与组织改进学者，卡内基教学促进基�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -19,6 +19,7 @@ tags:
   - carnegie-foundation
   - region/us
 related_concepts:
+  - "[[Praxis]]"
   - "[[Feedback]]"
   - "[[Scientific Method]]"
   - "[[Evidence-Based Education]]"
@@ -58,7 +59,7 @@ updated: '2026-06-19'
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育研究者与组织改进学者，卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）前主席。
 > - **核心角色** 将[[Improvement Science|改进科学]]与[[Snowball Sampling|网络化]]改进共同体（Networked Improvement Communities, NICs）模型系统性引入教育研究领域的先驱与领军人物。
-> - **代表贡献** 系统构建教育[[Improvement Science\|改进科学]]方法论体系、协同倡导 “网络化改进共同体”（Networked Improvement Communities, NICs）组织模型、提出 “基于实践的证据”（practice-based evidence）概念。
+> - **代表贡献** 系统构建教育[[Improvement Science\|改进科学]]方法论体系、协同倡导 “网络化改进共同体”（Networked Improvement Communities, NICs）组织模型、提出 “基于[[Praxis|实践]]的证据”（practice-based evidence）概念。
 
 > [!citation-card]- 人物定位的关键来源
 > 改进科学和网络化探究方法旨在适应教与学的日常情境，允许根据反馈和调整做出持续的小型决策。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
@@ -81,7 +82,7 @@ updated: '2026-06-19'
 
 > [!timeline] 生平与职涯
 > - **近年（截至 2015 年）** 作为卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）的关键研究者，将来自组织研究和公共健康的[[Improvement Science|改进科学]]方法论系统性地引入美国教育研究。
-> - **2015 年** 与合著者发表里程碑式著作 *Learning to Improve*，标志着教育改进科学与[[Snowball Sampling|网络化]]改进共同体理论与实践的正式确立。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
+> - **2015 年** 与合著者发表里程碑式著作 *Learning to Improve*，标志着教育改进科学与[[Snowball Sampling|网络化]]改进共同体理论与[[Praxis|实践]]的正式确立。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 
 ---
 
@@ -95,7 +96,7 @@ updated: '2026-06-19'
 ## 核心思想
 
 > [!claim] 核心主张
-> Bryk 的核心思想在于通过系统视角与网络协作克服传统[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）中 “什么有效（What Works）” [[Paradigm|范式]]的机械化与去情境化倾向。他认为，教育改进的科学探索不能依靠一次性的宏观二选一决策，而必须深入教育系统内部，研究实践中的跨情境变异性，依靠由一线教师和研究者协同组成的[[Snowball Sampling|网络化]]改进共同体（NICs），在复杂的具体情境中进行小步迭代与持续的局部调整，最终沉淀出 “基于实践的证据”。
+> Bryk 的核心思想在于通过系统视角与网络协作克服传统[[Evidence-Based Education|循证教育]]（Evidence-Based Education, EBE）中 “什么有效（What Works）” [[Paradigm|范式]]的机械化与去情境化倾向。他认为，教育改进的科学探索不能依靠一次性的宏观二选一决策，而必须深入教育系统内部，研究[[Praxis|实践]]中的跨情境变异性，依靠由一线教师和研究者协同组成的[[Snowball Sampling|网络化]]改进共同体（NICs），在复杂的具体情境中进行小步迭代与持续的局部调整，最终沉淀出 “基于实践的证据”。
 
 > [!axioms] 核心命题一：基于实践的证据 (Practice-Based Evidence)
 > 教育者在教学一线产生的细粒度、与实践紧密相关的知识，能够形塑性地支持教师的专业学习 and 学生成就。这种基于实践的证据，是连通外部研究证据与学校实际改进之间的关键桥梁，它构成了循证实践（[[Evidence-Informed Practice]], EIP）中超越纯[[Pragmatism in China|实验主义]]的一条中间道路。([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]])
@@ -116,7 +117,7 @@ updated: '2026-06-19'
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 在 [[Evidence-Informed Practice|EIP]] 中建立起 “基于实践的证据” 和 “[[Improvement Science|改进科学]]” 的话语体系，为超越[[Paradigm Wars|范式战争]]提供了中间立场。([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]])；另见 ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
+> - **理论路径** 在 [[Evidence-Informed Practice|EIP]] 中建立起 “基于[[Praxis|实践]]的证据” 和 “[[Improvement Science|改进科学]]” 的话语体系，为超越[[Paradigm Wars|范式战争]]提供了中间立场。([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]])；另见 ([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 300]])
 > - **方法路径** 通过网络反馈循环和小步改变（如计划-执行-研究-行动［Plan-Do-Study-Act, PDSA］循环）将注意力从完整程序协议转向真实变化机制。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306–307]])
 > - **政策路径** 作为卡内基教学促进基金会的主导议题，推动了美国学校改进的[[Snowball Sampling|网络化]]协作模式；同时激发了如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织对创新学习系统规模化路径的探讨。
 
@@ -142,7 +143,7 @@ updated: '2026-06-19'
 
 > [!tension] 争议焦点
 > - **争议对象**[[Improvement Science|改进科学]]的因果估计稳健性与方法碎片化风险。
-> - **批评立场** 实验科学学者批评改进科学缺乏高[[Internal Validity|内部效度]]（internal validity）的稳健因果估计，难以直接证实特定局部改变的净因果效应；同时其强调过度改编的实践可能引发方法碎片化。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
+> - **批评立场** 实验科学学者批评改进科学缺乏高[[Internal Validity|内部效度]]（internal validity）的稳健因果估计，难以直接证实特定局部改变的净因果效应；同时其强调过度改编的[[Praxis|实践]]可能引发方法碎片化。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])
 > - **证据依据** NICs 产生的证据以描述性的局部反馈数据为主，较难在不借助严密随机对照设计的条件下排除混杂[[Variable|变量]]。
 > - **余留问题** Bryk 及其倡导者强调，改进科学并非为宏观二选一设计，而是适应日常教与学的持续小微调整。彼得森进而主张通过[[Mechanism Experiments|机制实验]]提供方向性因果构建块，而让 NICs 作为其实施和反馈的基础设施，以此克服两者的局限。([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 307]])
 

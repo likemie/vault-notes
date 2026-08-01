@@ -8,7 +8,7 @@ aliases:
 summary: "治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,8 +23,10 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Hypothesis]]"
   - "[[Spatial Sortings]]"
+  - "[[Growth]]"
   - "[[Neocorporatism]]"
   - "[[Policy Network]]"
+  - "[[Praxis]]"
   - "[[Scientization of Politics]]"
 related_theories: []
 related_methods: []
@@ -86,7 +88,7 @@ updated: 2026-07-08
 
 ### 就业维度优先于赋权维度
 
-在[[Lifelong Learning|终身学习]]领域，选择性表现为就业维度系统性地优先于个人发展和公民参与维度。[[YOUNG_ADULLLT]] 项目发现，除芬兰外，大多数欧盟成员国的终身学习专业人员将政策理解为就业优先（employment-first）工具——即在短期内帮助青年获得工作，而非支持整个生命历程中的学习与成长([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])。
+在[[Lifelong Learning|终身学习]]领域，选择性表现为就业维度系统性地优先于个人发展和公民参与维度。[[YOUNG_ADULLLT]] 项目发现，除芬兰外，大多数欧盟成员国的终身学习专业人员将政策理解为就业优先（employment-first）工具——即在短期内帮助青年获得工作，而非支持整个生命历程中的学习与[[Growth|成长]]([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174–175]])。
 
 > 例：一个青年花 1 年时间参与社区环保项目并获得组织技能（指标：失业 12 个月），与一个在 3 个月内找到超市收银工作的青年（指标：成功就业）——[[Performance Indicators|绩效指标]]体系天然地奖励后者。问题不在于就业不值得肯定，而在于指标体系使前者的发展路径在政策视野中变得不可见。
 
@@ -107,7 +109,7 @@ updated: 2026-07-08
 
 ### 制度薄弱环境中选择性的放大效应
 
-在南欧和东欧，政策网络较弱，选择性效应更为显著。由于缺乏系统的变革理论支持，地方专业人员更容易被就业优先的[[Performance Indicators|绩效指标]]逻辑所牵引——"帮助青年尽快找到任何工作"成为压倒性的实践取向([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])。
+在南欧和东欧，政策网络较弱，选择性效应更为显著。由于缺乏系统的变革理论支持，地方专业人员更容易被就业优先的[[Performance Indicators|绩效指标]]逻辑所牵引——"帮助青年尽快找到任何工作"成为压倒性的[[Praxis|实践]]取向([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])。
 
 ### 自下而上的选择性突破
 

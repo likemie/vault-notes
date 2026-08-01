@@ -10,7 +10,7 @@ aliases:
 summary: "Schot 与 Steinmueller（2018）识别的创新政策三大范式——科学促增长、创新系统升级、变革转型——揭示政策逻辑从弥补市场失灵到管理系统失灵再到主动引导方向性变革的递进"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Reflexivity]]"
   - "[[Transformative Change]]"
+  - "[[Dialogue in Education]]"
   - "[[University-Based Research Center]]"
   - "[[Knowledge Exchange]]"
 related_theories:
@@ -103,7 +104,7 @@ updated: 2026-05-27
 
 **新增的失灵类型（pp.32–34）** 方向性失灵、政策协调失灵、需求表达失灵、[[Reflexivity|反思性]]失灵（详见 [[Transformative Change#核心要素]]）。
 
-**大学的定位** 中立召集者（提供对话空间）、方向性情报的贡献者（帮助理解替代路径和系统级后果）、创新政策优先事项的共同塑造者（Kelleher & Ulrichsen, 2022）（pp.34–35）。
+**大学的定位** 中立召集者（提供[[Dialogue in Education|对话]]空间）、方向性情报的贡献者（帮助理解替代路径和系统级后果）、创新政策优先事项的共同塑造者（Kelleher & Ulrichsen, 2022）（pp.34–35）。
 
 **当前状态** 仍处早期阶段，少有大规模实施的实例（Lindner et al., 2024）（p.34）。
 

@@ -5,7 +5,7 @@ aliases:
 summary: "OECD 教育体系数据与欧盟数据交叉形成的治理空间，使欧洲教育体系的比较和协调成为可能，PISA 是其核心数据工具，是解释 PISA 研究为何集中于欧洲的关键概念"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Performance Indicators]]"
   - "[[International Education]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -57,7 +58,7 @@ updated: 2026-07-09
 > [!feature] 核心要素
 > - **数据基础设施的交叠** [[OECD]] 和欧盟委员会长期共享相似的政策议程，两套数据体系的交叠为欧洲教育体系的跨国比较提供了可操作的基础（Grek, 2009）。
 > - **[[PISA]] 作为核心数据工具** PISA 是提供欧洲教育体系数据的主要工具，自首轮结果发布就塑造了欧洲教育网络的运作方式，政策领域受到欧洲学者的广泛关注。
-> - **治理空间的非正式性** 欧洲教育空间并非由条约或法律建立，而是通过数据共享、政策协调和标准对接在实践层面形成的功能性空间。OECD 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。
+> - **治理空间的非正式性** 欧洲教育空间并非由条约或法律建立，而是通过数据共享、政策协调和标准对接在[[Praxis|实践]]层面形成的功能性空间。OECD 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。
 
 ---
 

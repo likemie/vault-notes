@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Research Question]]"
+  - "[[Praxis]]"
   - "[[Evidence-Based Reform]]"
   - "[[Theoretical Standpoint]]"
   - "[[Evidence-Based Education]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
+  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
@@ -69,7 +71,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 教育研究为什么多年来极少影响教育实践？过去 15 年推动[[Evidence-Based Reform|证据本位改革]]的三项进展是什么？一个以已验证项目系统填充学校三层教学（[[Top Institute for Evidence-Based Education Research|TIER]] 1/2/3）的未来将如何改变教育？
+> 教育研究为什么多年来极少影响教育[[Praxis|实践]]？过去 15 年推动[[Evidence-Based Reform|证据本位改革]]的三项进展是什么？一个以已验证项目系统填充学校三层教学（[[Top Institute for Evidence-Based Education Research|TIER]] 1/2/3）的未来将如何改变教育？
 >
 > > “为什么教育研究如此罕见地对教育实践产生影响？”
 > ("Why is it that educational research so rarely has an impact on the practice of education?") (p. 2)
@@ -77,7 +79,7 @@ citation_aliases:
 ## 理论立场
 
 > [!abstract] [[Theoretical Standpoint|理论立场]]
-> Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本（evidence-based, 非 evidence-informed）** 教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效实践；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
+> Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本（evidence-based, 非 evidence-informed）** 教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效[[Praxis|实践]]；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
 >
 > > “该定义并非仅仅指传播关于有效实践的一般原则的信息，通常发现这种做法对实践或结果并不能产生多大影响。”
 > ("This definition does not refer to simply disseminating information about generic principles of effective practice, which has not generally been found to make much of a difference in practices or outcomes.") (p. 3)
@@ -186,7 +188,7 @@ citation_aliases:
 > - **Cowen** [[Evidence-Based Education|EBE]] 的制度功能是为官僚提供"透明"的过滤机制，而非改进教学
 > - **Deaton & Cartwright** RCT 不解决[[External Validity|外部效度]]问题，[[Meta-analysis|元分析]]不解决归纳推理谬误——这些是 Cowen 也在引用的技术批评
 >
-> **影响** 此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效对话——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/Hattie 的支持）。
+> **影响** 此回避使 Slavin 的论述在 EBE 支持者圈内具有说服力，但无法与批判文献建立有效[[Dialogue in Education|对话]]——形成了两个平行的话语体系（Biesta/Cowen/Wrigley 的批判 vs. Slavin/Hattie 的支持）。
 >
 > **目前状态** 此平行话语现象已是 EBE 辩论的突出问题之一——双方在各自期刊和会议中发言，极少有实质性的跨阵营回应。
 >

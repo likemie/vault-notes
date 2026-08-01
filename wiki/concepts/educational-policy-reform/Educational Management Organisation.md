@@ -6,16 +6,17 @@ aliases:
 summary: "参与公立学校教育政策制定、管理支持和服务交付的私营部门实体，兼具营利和非营利形式，用于描述教育治理中的外部组织化介入。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - emo
 - subject/curriculum
 - region/new-zealand
 - region/global
 related_concepts:
+  - "[[Praxis]]"
   - "[[Policy Entrepreneur]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Network Governance]]"
@@ -46,7 +47,7 @@ updated: '2026-07-09'
 > [!abstract] 核心要素
 > - **双重法律结构** 新西兰慈善法允许非营利慈善信托设立全资拥有的营利性子机构（wholly-owned subsidiary），该子机构在与公共部门实体竞争政府合同时享有母体慈善地位带来的财务与声誉优势([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.vi–vii]])
 > - **"固有慈善"主张** 非营利 EMOs 可能将其日常活动组合视为"固有慈善目的"，从而减轻或免除以运营盈余进行额外慈善捐赠的义务([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.vii]])
-> - **公私边界模糊** EMOs 在营利与非营利形式之间、公共与私人参与之间造成概念和实践的严重模糊
+> - **公私边界模糊** EMOs 在营利与非营利形式之间、公共与私人参与之间造成概念和[[Praxis|实践]]的严重模糊
 
 ## 国际背景
 

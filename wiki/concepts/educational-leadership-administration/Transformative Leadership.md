@@ -5,7 +5,7 @@ aliases:
 summary: "Shields 提出的教育领导力框架，以权力、正义和社会转化为分析起点，用于超越仅关注什么有效的工具主义领导观。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Champ]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -69,7 +70,7 @@ updated: '2026-05-18'
 
 1. 过去 30 年西方教育系统经历了以新管理主义理念为主导的重大改革
 2. 绩效问责体制将教育不平等框定为技术问题，掩盖了权力结构的作用
-3. 需要在两条战线上同时行动：既要改善学校实践，也要让问责体系的设计者为其设计负责([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])
+3. 需要在两条战线上同时行动：既要改善学校[[Praxis|实践]]，也要让问责体系的设计者为其设计负责([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])
 
 ## 争议与批评
 

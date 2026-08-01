@@ -8,7 +8,7 @@ aliases:
 summary: "Kitwood (1977) 提出的访谈研究中信度与效度的根本矛盾——通过标准化和理性化增强信度的程度越高，访谈的效度就越低，因为访谈中独特的人性元素对其效度是必要的"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - theme/interview
 related_concepts:
   - "[[Reliability]]"
+  - "[[Dialogue in Education]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Questionnaire]]"
   - "[[Internal Validity]]"
@@ -40,7 +41,7 @@ updated: 2026-06-24
 > Kitwood 矛盾（Kitwood's paradox）是 Kitwood (1977) 提出的访谈研究中[[Reliability|信度]]与效度之间的根本张力：**通过理性化和标准化增强信度的程度越高，访谈的效度就越低**。其核心洞察在于——访谈作为研究方法的价值恰恰在于其**人际性（interpersonal nature）**，而标准化程序恰恰消除了这种人际性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 213)]]
 
 > [!citation-card]- Kitwood (1977) 的经典表述
-> 通过理性化增强"信度"的程度越高，"效度"就越低。因为在研究中使用访谈的主要目的正是相信在**人际相遇**中，人们比在更少人性的情境中更可能披露自身的方方面面——他们的思想、感受和价值观。至少出于某些目的，有必要产生一种**对话**——在其中"受访者"感到自在。换言之，访谈中独特的人性元素对其"效度"是必要的。访谈者变得越理性、计较和疏离，访谈越不可能被视为一次友好的交流——回应也变得越计算。
+> 通过理性化增强"信度"的程度越高，"效度"就越低。因为在研究中使用访谈的主要目的正是相信在**人际相遇**中，人们比在更少人性的情境中更可能披露自身的方方面面——他们的思想、感受和价值观。至少出于某些目的，有必要产生一种**[[Dialogue in Education|对话]]**——在其中"受访者"感到自在。换言之，访谈中独特的人性元素对其"效度"是必要的。访谈者变得越理性、计较和疏离，访谈越不可能被视为一次友好的交流——回应也变得越计算。
 >
 > *In proportion to the extent to which 'reliability' is enhanced by rationalization, 'validity' would decrease. For the main purpose of using an interview in research is that it is believed that in an interpersonal encounter people are more likely to disclose aspects of themselves, their thoughts, their feelings and values, than they would in a less human situation. At least for some purposes, it is necessary to generate a kind of conversation in which the 'respondent' feels at ease. In other words, the distinctively human element in the interview is necessary to its 'validity'. The more the interviewer becomes rational, calculating, and detached, the less likely the interview is to be perceived as a friendly transaction, and the more calculated the response also is likely to be.*
 
@@ -57,7 +58,7 @@ updated: 2026-06-24
 > 访谈效度的独特之处在于——它依赖于一种在其他方法中被视为"偏差来源"的因素：**人际互动**。在[[Questionnaire|问卷]]中，标准化格式增强了[[Reliability|信度]]；在实验中，控制程序增强了[[Internal Validity|内部效度]]。但在访谈中——特别是开放式、非结构化访谈中——正是访谈者和受访者之间自然的人际互动使深度披露成为可能。标准化消除了这种互动，从而在增强信度的同时削弱了效度。
 
 > [!claim] Kitwood 的解决方向：明智的妥协
-> Kitwood 的建议是寻求一个**"明智的妥协"（judicious compromise）**——既不完全放弃结构化以追求纯粹的人际对话（那样会牺牲信度），也不完全标准化以追求纯粹的可复制性（那样会牺牲效度）。这一妥协的具体形式取决于[[Research Purpose|研究目的]]——探索性研究可能更偏向效度（深度、人际性），确证性研究可能更偏向信度（标准化、可复制性）。
+> Kitwood 的建议是寻求一个**"明智的妥协"（judicious compromise）**——既不完全放弃结构化以追求纯粹的人际[[Dialogue in Education|对话]]（那样会牺牲信度），也不完全标准化以追求纯粹的可复制性（那样会牺牲效度）。这一妥协的具体形式取决于[[Research Purpose|研究目的]]——探索性研究可能更偏向效度（深度、人际性），确证性研究可能更偏向信度（标准化、可复制性）。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 213)]]
 

@@ -8,12 +8,13 @@ summary: "战国道家思想家，以庖丁解牛等寓言阐发通过专注实�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags: ["region/china", "theory/taoism", "field/chinese-philosophy"]
 related_concepts:
+  - "[[Praxis]]"
   - "[[Refined Mastery]]"
   - "[[Learning Virtues]]"
 related_theories: []
@@ -41,7 +42,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]-
-> 庄子思想中最直接与学习过程相关的贡献，在于他通过"庖丁解牛"等寓言，阐发了通过长期专注的实践达到"[[Refined Mastery|精通]]"（refined/perfected mastery, 精）的理念。这种精通不是机械的重复所能达到的，而是练习者与对象之间的深度融合——一种"以神遇而不以目视"的境界([[Argument_Li_2012_Cambridge|Li, 2012, pp.134-135]])。
+> 庄子思想中最直接与学习过程相关的贡献，在于他通过"庖丁解牛"等寓言，阐发了通过长期专注的[[Praxis|实践]]达到"[[Refined Mastery|精通]]"（refined/perfected mastery, 精）的理念。这种精通不是机械的重复所能达到的，而是练习者与对象之间的深度融合——一种"以神遇而不以目视"的境界([[Argument_Li_2012_Cambridge|Li, 2012, pp.134-135]])。
 
 ## 庖丁解牛
 
@@ -60,7 +61,7 @@ updated: '2026-06-08'
 
 > [!success]
 - 庖丁解牛的故事中"游刃有余"（the knife can surely find plenty of room）这一成语至今仍在日常中文中广泛使用，表达"以高超技艺轻松完成任务"之意([[Argument_Li_2012_Cambridge|Li, 2012, p.135]])。
-- 庄子通过这则寓言传达的核心理念——通过长期专注的实践可以达到超越技巧本身的"道"的境界——为东亚学习传统中"熟能生巧""精进不懈"的观念提供了哲学基础([[Argument_Li_2012_Cambridge|Li, 2012, pp.134-136]])。
+- 庄子通过这则寓言传达的核心理念——通过长期专注的[[Praxis|实践]]可以达到超越技巧本身的"道"的境界——为东亚学习传统中"熟能生巧""精进不懈"的观念提供了哲学基础([[Argument_Li_2012_Cambridge|Li, 2012, pp.134-136]])。
 - 庄子所描绘的[[Refined Mastery|精通]]状态（与对象融为一体、不用感官而用精神去感知）与儒家以[[Learning Virtues|学习美德]]为导向的精通过程（如勤奋练习、反复温习以求新知）形成了互补，共同塑造了东亚对"精"（refined mastery）的文化理解([[Argument_Li_2012_Cambridge|Li, 2012, p.134]])。
 
 ## 格言／关键表述

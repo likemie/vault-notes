@@ -13,31 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md",
+                "file": "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Biggs_1999_HERD.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Higgins_2016_RE"
+              "title": "Argument_Biggs_1999_HERD"
             }
           },
           {
-            "id": "d827344a5dd55e1e",
+            "id": "3d62577352bfa406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Comparative Education/Argument_Yu_2024_CE.md",
+                "file": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Yu_2024_CE"
+              "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
+            }
+          },
+          {
+            "id": "fed2f7fc0848edac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Argument_Darwish_2009_Queens"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,53 +222,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "3d62577352bfa406",
   "lastOpenFiles": [
-    "wiki/methods/quantitative/Meta-analysis.md",
-    "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wrigley_2019_ERE.md",
-    "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
-    "wiki/methods/quantitative/Meta-meta-analysis.md",
-    "wiki/concepts/research-methodology/Cross-cultural Validity.md",
-    "wiki/concepts/research-methodology/Critique of Effect Size.md",
-    "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
-    "wiki/concepts/instruction-pedagogy/Visible Learning.md",
-    "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Yu_2024_CE.md",
-    "wiki/arguments/journal-articles/Comparative Education/Argument_Zhou_2024_CE.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24.md",
-    "raw/MR65344.pdf",
-    "wiki/methods/qualitative/Discourse Analysis.md",
-    "tmp/# 《可见的学习2.0：对2100多项关于学业成就的元分析的综合报告》研究述论.md",
-    "wiki/persons/china/Hu Shi.md",
-    "wiki/persons/china/Tao Xingzhi.md",
-    "wiki/persons/china/Jiang Menglin.md",
-    "wiki/concepts/comparative-education/Pragmatism in China.md",
-    "wiki/facts/china/May Fourth Movement.md",
-    "wiki/facts/china/New Culture Movement.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23.md",
-    "wiki/facts/china/1904 Educational System.md",
-    "wiki/concepts/research-methodology/Achievement and Aptitude Tests.md",
-    "wiki/concepts/research-methodology/Computerized Adaptive Testing.md",
-    "wiki/concepts/research-methodology/Item Analysis.md",
-    "wiki/concepts/research-methodology/Norm-Referenced, Criterion-Referenced, and Domain-Referenced Tests.md",
-    "raw/039_24 Tests.txt",
-    "wiki/concepts/research-methodology/Saturation.md.tmp.3490.2ededfb9f922",
-    "raw/038_23 Observation.txt",
-    "wiki/methods/qualitative/Account",
-    "wiki/methods/qualitative/Member",
-    "wiki/facts/china/China",
-    "wiki/persons/us/Walker",
-    "wiki/concepts/research-methodology/Social",
-    "wiki/methods/qualitative/Interview",
-    "tmp/pdfs/cole-2015/page-18.png",
-    "tmp/pdfs/cole-2015/page-12.png",
-    "tmp/pdfs/cole-2015/page-09.png",
-    "tmp/pdfs/cole-2015/page-08.png",
-    "tmp/pdfs/cole-2015/page-07.png",
-    "tmp/pdfs/cole-2015/page-06.png",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_9-3_Kemmis_Spiral_Cycle.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_Knowledge_Map.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_4-1_Concept_Map.jpg",
-    "books/QiMei_2015_EducationalResearchMethods/figures/Figure_5-1_Concept_Map.jpg"
+    "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
+    "wiki/concepts/educational-philosophy/Educative Experience.md",
+    "wiki/concepts/educational-philosophy/Mis-educative Experience.md",
+    "wiki/concepts/educational-philosophy/Educative and Mis-educative Experiences.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25.md",
+    "scripts/fix_latex_formulas.py",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
+    "books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge.md",
+    "wiki/facts/hong-kong/Citizenship and Social Development.md",
+    "wiki/concepts/learning-science-cognitive-science/Educative Conceptual Change.md",
+    "wiki/concepts/learning-science-cognitive-science/Student Learning Research.md",
+    "wiki/concepts/instruction-pedagogy/Teaching and Learning Activities.md",
+    "wiki/concepts/instruction-pedagogy/Assessment Backwash.md",
+    "wiki/theories/instruction-pedagogy/Three Levels of Teaching.md",
+    "tmp/pdfs/biggs-candidates/page-20.png",
+    "tmp/pdfs/biggs-candidates/page-19.png",
+    "tmp/pdfs/biggs-candidates/page68-15.png",
+    "tmp/pdfs/biggs-candidates/page-10.png",
+    "tmp/pdfs/biggs-candidates/page-09.png",
+    "tmp/pdfs/biggs-candidates/page-08.png",
+    "tmp/pdfs/biggs-candidates/page-07.png",
+    "tmp/pdfs/biggs-candidates",
+    "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Biggs_1999_HERD.md",
+    "wiki/concepts/research-methodology/Criterion-Referenced Test.md",
+    "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Yan_2025_JCS.md",
+    "wiki/concepts/research-methodology/Norm-Referenced Test.md",
+    "tmp/pdfs/biggs-assessment/page74-21.png",
+    "tmp/pdfs/biggs-assessment/page-17.png",
+    "tmp/pdfs/biggs-assessment/page-16.png",
+    "tmp/pdfs/biggs-assessment",
+    "wiki/concepts/research-methodology/Domain-Referenced Test.md",
+    "tmp/pdfs/biggs_pages_59_61",
+    "raw/香港国民教育调研（修订版）.md",
+    "raw/香港《公民与社会发展科课程及评估指引》的特点与启示_李臣之.pdf",
+    "raw/~$国民教育调研.docx",
+    "raw/香港基础教育革新中教材的中华民族共同体叙事_彭文平.pdf",
+    "tmp/docx_to_research_markdown.py",
+    "tmp/hk_report_cjk/香港国民教育调研（修订版）.pdf",
+    "tmp/hk_report_cjk",
+    "wiki/facts/hong-kong/2019 Hong Kong Protests.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Vickers_2024_CE.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md",
+    "wiki/facts/china/2020 Inner Mongolia Bilingual Education Reform.md",
+    "wiki/facts/hong-kong/National Security Law.md",
+    "wiki/facts/hong-kong/2012 Moral and National Education Controversy.md"
   ]
 }

@@ -6,10 +6,10 @@ summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - region/greece
 - region/western
@@ -20,20 +20,28 @@ tags:
 - theme/learning
 - theme/metaphysics
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Examined Life]]"
   - "[[Certainty of Knowledge]]"
   - "[[Western Learner]]"
   - "[[Theory of Knowledge]]"
   - "[[Mind and Its Wonders]]"
+  - "[[Critical Pedagogy]]"
+  - "[[Critical Thinking]]"
+  - "[[Growth]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Socrates]]"
+  - "[[Aristotle]]"
   - "[[René Descartes]]"
   - "[[Immanuel Kant]]"
+  - "[[John Dewey]]"
+  - "[[Paulo Freire]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Darwish_2009_Queens]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -44,7 +52,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> 柏拉图（427–347 BCE）是古希腊哲学家，与[[Socrates|苏格拉底]]、亚里士多德并列为西方哲学的三大奠基人。他出身雅典贵族，年轻时师从 [[Socrates|苏格拉底]]，苏格拉底被处死后他离开雅典游历十余年，返回后创立雅典学院（Academy）——西方历史上第一所高等学府，延续近九百年直至 529 年被查士丁尼关闭。他的全部著作以对话录（Dialogues）形式写成，绝大多数以苏格拉底为主角展开哲学讨论。由于苏格拉底本人不立文字，柏拉图对话录也是后人了解苏格拉底思想的最主要来源——Li 注：此处的"苏格拉底"实为"柏拉图的苏格拉底"([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。
+> 柏拉图（427–347 BCE）是古希腊哲学家，与[[Socrates|苏格拉底]]、[[Aristotle|亚里士多德]]并列为西方哲学的三大奠基人。他出身雅典贵族，年轻时师从 [[Socrates|苏格拉底]]，苏格拉底被处死后他离开雅典游历十余年，返回后创立雅典学院（Academy）——西方历史上第一所高等学府，延续近九百年直至 529 年被查士丁尼关闭。他的全部著作以[[Dialogue in Education|对话]]录（Dialogues）形式写成，绝大多数以苏格拉底为主角展开哲学讨论。由于苏格拉底本人不立文字，柏拉图对话录也是后人了解苏格拉底思想的最主要来源——Li 注：此处的"苏格拉底"实为"柏拉图的苏格拉底"([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。
 
 ---
 
@@ -54,8 +62,8 @@ updated: '2026-06-08'
 > - **427 BCE** — 出生于雅典贵族家庭，本名阿里斯托克勒斯（Aristocles），"柏拉图"（宽阔）为其绰号
 > - **约 407 BCE** — 成为[[Socrates|苏格拉底]]的学生，追随约八年
 > - **399 BCE** — 苏格拉底被雅典判处死刑。柏拉图离开雅典，先后游历麦加拉、昔兰尼、埃及、意大利和西西里
-> - **约 387 BCE** — 返回雅典，创立雅典学院（Academy）。亚里士多德于约 367 BCE 入学，在此研读二十年
-> - **约 380–360 BCE** — 创作中期对话录，包括《理想国》《斐多》《会饮》等
+> - **约 387 BCE** — 返回雅典，创立雅典学院（Academy）。[[Aristotle|亚里士多德]]于约 367 BCE 入学，在此研读二十年
+> - **约 380–360 BCE** — 创作中期[[Dialogue in Education|对话]]录，包括《理想国》《斐多》《会饮》等
 > - **约 367、361 BCE** — 两次前往叙拉古，试图将僭主狄奥尼修斯二世培养为哲学家王，均以失败告终
 > - **约 360–347 BCE** — 创作晚期对话录，包括《泰阿泰德》《智者》《法篇》等
 > - **347 BCE** — 在雅典逝世，享年约 80 岁
@@ -65,7 +73,7 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract]
-> 柏拉图约 36 篇对话录和书信传世，学界通常将其分为早、中、晚三期（此处仅列 Li 第 2 章引用的以及最具代表性的著作）：
+> 柏拉图约 36 篇[[Dialogue in Education|对话]]录和书信传世，学界通常将其分为早、中、晚三期（此处仅列 Li 第 2 章引用的以及最具代表性的著作）：
 > - *Euthyphro*（《优绪弗洛》）— 早期对话，[[Socrates|苏格拉底]]追问"什么是虔敬"的经典示范。Li 在第 2 章中重点拆解了苏格拉底与优绪弗洛的七轮对话过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.31-32]])
 > - *Apology*（《申辩篇》）— 苏格拉底在雅典陪审团前的自我辩护词。"[[Examined Life|未经省察的生活不值得过]]"即出自此篇，被 Li 视为 西方学习传统第三主题的核心文本([[Argument_Li_2012_Cambridge|Li, 2012, p.31]])
 > - *Meno*（《美诺篇》）— 苏格拉底以一系列问题引导从未学过几何的奴隶男孩自己说出几何结论。Li 将此视为西方先天性心智理论的经典证明——"人类知识不是学来的，而是回忆出来的"([[Argument_Li_2012_Cambridge|Li, 2012, pp.27-28]])
@@ -123,7 +131,9 @@ updated: '2026-06-08'
 
 > [!warning]
 > - 柏拉图的"区分最有能力者"的精英主义教育取向，与儒家"有教无类""人人皆可为尧舜"的平等主义形成核心对比。Li 指出西方同样有 Comenius 的全民教育传统——两条线索并存([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
-> - [[Socrates|苏格拉底]]在柏拉图对话录中的"无情"追问方式——如在优绪弗洛对话中"不关心优绪弗洛的感受"——是否具有跨文化普适性？这一问题是 Li 中西学习传统比较的隐含关切之一([[Argument_Li_2012_Cambridge|Li, 2012, pp.51-53]])
+> - [[Socrates|苏格拉底]]在柏拉图[[Dialogue in Education|对话]]录中的"无情"追问方式——如在优绪弗洛对话中"不关心优绪弗洛的感受"——是否具有跨文化普适性？这一问题是 Li 中西学习传统比较的隐含关切之一([[Argument_Li_2012_Cambridge|Li, 2012, pp.51-53]])
 > - "柏拉图的苏格拉底"与"历史上的苏格拉底"之间的区分是柏拉图研究中的经典难题([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])
+> - [[John Dewey|杜威]]（John Dewey）与弗雷尔（[[Paulo Freire]]）等进步主义及[[Critical Pedagogy|批判教育学]]者指出，柏拉图将城邦划分为统治者、军人与平民三个固化阶层，仅允许统治者（护卫者）接受[[Critical Thinking|批判性思维]]与真知训练。杜威批判柏拉图设想了一个终极目的固定、排斥后续变革与平民[[Growth|成长]]的静态社会图景 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 3, 5)]]。
+
 
 ---

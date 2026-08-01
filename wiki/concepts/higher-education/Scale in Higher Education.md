@@ -7,15 +7,16 @@ aliases:
 summary: "用于分析高等教育活动如何在全球、区域、国家、地方和个体等不同尺度上同时展开并相互作用的关系性概念。"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - theme/spatiality
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Methodological Nationalism]]"
   - "[[Methodological Globalism]]"
@@ -41,7 +42,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 在高等教育研究中，尺度（scale）是"一种被生产出来的社会度量，用于区分空间"（Marston & Smith, 2001, p. 615, cited in [[Argument_Marginson_2025_ROE|Marginson, 2025, p. 7]]）。尺度不是自然给定的，而是通过社会关系和实践被建构的。高等教育的活跃尺度包括：世界尺度（含自然环境）、全球尺度（人类社会世界层面）、泛国家区域尺度（如欧盟、东盟）、国家尺度（法律、政策、拨款）、次国家区域尺度（城市、省份）、地方尺度（院校、研究中心、院系）和个体尺度（学者、学生）([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 7–8]])。
+> 在高等教育研究中，尺度（scale）是"一种被生产出来的社会度量，用于区分空间"（Marston & Smith, 2001, p. 615, cited in [[Argument_Marginson_2025_ROE|Marginson, 2025, p. 7]]）。尺度不是自然给定的，而是通过社会关系和[[Praxis|实践]]被建构的。高等教育的活跃尺度包括：世界尺度（含自然环境）、全球尺度（人类社会世界层面）、泛国家区域尺度（如欧盟、东盟）、国家尺度（法律、政策、拨款）、次国家区域尺度（城市、省份）、地方尺度（院校、研究中心、院系）和个体尺度（学者、学生）([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 7–8]])。
 
 > [!quote]
 > "Scale is a produced social metric used to differentiate space"（Marston & Smith, 2001, p. 615）
@@ -60,7 +61,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract]
-> - **尺度的社会建构性** — 尺度不是自然地理事实，而是通过社会关系被生产出来的。例如，"全球高等教育市场"作为一个尺度，是在 1990 年代后通过排名、跨境流动、英语学术发表等社会实践被逐渐建构出来的([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 7–8]])
+> - **尺度的社会建构性** — 尺度不是自然地理事实，而是通过社会关系被生产出来的。例如，"全球高等教育市场"作为一个尺度，是在 1990 年代后通过排名、跨境流动、英语学术发表等社会[[Praxis|实践]]被逐渐建构出来的([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 7–8]])
 > - **尺度的不可化约性** — 不同尺度有不同的规范中心、运作逻辑和关系模式，不能从一个尺度推导出另一个尺度。国家科学的规范中心是国家（[[National Science Foundation|NSF]]、NSFC 等拨款机构），全球科学的规范中心是期刊同行评议和引用网络——两套游戏规则同时运作([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 8–9]])
 > - **尺度的共存性** — 多重尺度同时运作。一位科学家同时在国家尺度（申请国家基金）和全球尺度（在国际期刊发表）中活动，其行为由两套规范共同塑造，不可还原为单一尺度的逻辑
 > - **高等教育的七层活跃尺度**
@@ -79,7 +80,7 @@ updated: '2026-05-18'
 > [!tip]-
 > - [[Doreen Massey]] — Massey（2005）的[[Relational Space|关系性空间]]理论是尺度不可化约性分析的[[Ontology|本体论]]基础：全球空间不是"在外面的"，而是被建构的、具体的、生活化的。尺度是关系性空间的维度之一
 > - Marston & Smith（2001） — 提出尺度作为"被生产的社会度量"的定义，为高等教育尺度分析提供了概念起点
-> - [[Space-Making]] — 三维空间制造框架（物质结构-想象-实践）提供了分析不同尺度如何被制造的操作工具
+> - [[Space-Making]] — 三维空间制造框架（物质结构-想象-[[Praxis|实践]]）提供了分析不同尺度如何被制造的操作工具
 
 ---
 
@@ -96,7 +97,7 @@ updated: '2026-05-18'
 
 > [!warning]
 > - 尺度划分本身是分析性建构而非客观事实——七层尺度的边界在经验上往往是模糊的。例如，一个欧盟 ERC 资助项目同时涉及泛国家区域尺度（EU 拨款）和全球尺度（国际合作发表），二者并非泾渭分明([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 7–8]])
-> - 尺度分析可能过度强调"区分"而低估了尺度之间的相互渗透和共同建构——例如，全球排名这个"全球尺度"的现象在很大程度上是由国家政策制定者的"国家尺度"想象和实践共同制造出来的([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 4–5]])
+> - 尺度分析可能过度强调"区分"而低估了尺度之间的相互渗透和共同建构——例如，全球排名这个"全球尺度"的现象在很大程度上是由国家政策制定者的"国家尺度"想象和[[Praxis|实践]]共同制造出来的([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 4–5]])
 
 ---
 

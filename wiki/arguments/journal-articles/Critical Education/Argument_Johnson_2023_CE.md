@@ -10,7 +10,7 @@ title: "Argument_Johnson_2023_CE"
 argument_key: "Argument_Johnson_2023_CE"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Bildung]]"
   - "[[Reflexivity]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -108,7 +109,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 论文为批判性评论（critical essay），非实证研究，不提供新的经验数据
 > - 分析聚焦于 [[Visible Learning|VL]] 的方法论和意识形态维度，未深入讨论 VL 在课堂层面的具体实施效果
-> - 对 VL 的替代方案（如 [[Bildung]]、[[Reflexivity|反思性]]实践等）仅隐含提及而未系统展开
+> - 对 VL 的替代方案（如 [[Bildung]]、[[Reflexivity|反思性]][[Praxis|实践]]等）仅隐含提及而未系统展开
 
 ## 来源
 

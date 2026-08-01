@@ -6,7 +6,7 @@ aliases:
 summary: "围绕数字平台、软件服务、数据基础设施和政策叙事形成的 EdTech 产业生态系统，通过利润、平等和专业发展等多重动机推动教育数字化、市场化和商业化。"
 type: concept
 domain: "educational-technology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Learning Analytics]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -86,7 +87,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **数字不平等的再生产** 数字化宣称促进平等，但在实践中可能加剧不平等——不是所有学生都有合适的设备和网络；资金充裕的大学更能投资高质量数字教学法；教师的数字素养分布不均；低收入家庭的学生更依赖学校提供的结构和指导([[Argument_Amos_2022_Springer|Amos, 2022, pp.58, 60–61]])
+> - **数字不平等的再生产** 数字化宣称促进平等，但在[[Praxis|实践]]中可能加剧不平等——不是所有学生都有合适的设备和网络；资金充裕的大学更能投资高质量数字教学法；教师的数字素养分布不均；低收入家庭的学生更依赖学校提供的结构和指导([[Argument_Amos_2022_Springer|Amos, 2022, pp.58, 60–61]])
 > - **不改变教学法，技术本身不解决问题** "技术本身不是答案——它需要各级教育中具有教学知识和灵活性的教师人员"([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])
 > - **碎片化与去公共化** EdTech 推动的个性化学习路径、微证书（micro-credentials）和自导学习，可能瓦解大众教育创造的"共同经验"——民主社会需要公民共享的基础知识和公共叙事，而教育的超个性化对此构成威胁([[Argument_Amos_2022_Springer|Amos, 2022, pp.60–61]])
 >

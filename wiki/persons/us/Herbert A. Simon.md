@@ -8,7 +8,7 @@ summary: "美国政治学家、经济学家和认知科学家，有限理性理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 - organizational-theory
 - region/us
 related_concepts:
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Epistemology]]"
@@ -52,14 +53,14 @@ updated: '2026-06-08'
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Simon, H. A. (1969/1996). *The Sciences of the Artificial*. Cambridge, MA: The MIT Press. — 提出[[Bounded Rationality|有限理性]]理论和人工科学哲学：复杂专业任务的复杂度大于专业人员的实践能力
+> - Simon, H. A. (1969/1996). *The Sciences of the Artificial*. Cambridge, MA: The MIT Press. — 提出[[Bounded Rationality|有限理性]]理论和人工科学哲学：复杂专业任务的复杂度大于专业人员的[[Praxis|实践]]能力
 
 ## 核心思想
 
 > [!info] [[Bounded Rationality|有限理性]]
 > Simon 挑战了古典经济学的"完全理性"[[Hypothesis|假设]]——人类决策者并非拥有无限信息处理能力、无限时间和无限制的计算资源的"经济人"，而是在认知限制、信息不完整和时间约束下做出"足够好"而非"最优"的决策([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.6]])。
 >
-> 在教学中的应用：教学的复杂性（影响和刺激个体学生及学生共同体）大于教师的实践能力。教师始终在理性赤字的条件下工作，必须依靠反馈作为持续的修正机制。
+> 在教学中的应用：教学的复杂性（影响和刺激个体学生及学生共同体）大于教师的[[Praxis|实践]]能力。教师始终在理性赤字的条件下工作，必须依靠反馈作为持续的修正机制。
 
 ## 主要贡献
 
@@ -72,4 +73,4 @@ updated: '2026-06-08'
 
 > [!note-] 思想发展与影响
 > - [[Bounded Rationality|有限理性]]理论深刻影响了经济学（行为经济学）、管理学（组织决策理论）、心理学（认知心理学）和计算机科学（人工智能）
-> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]将有限理性引入教育研究，作为理解教学实践的[[Epistemology|认识论]]基础——与 Luhmann 的[[Luhmann's Systems Theory|系统理论]]并置
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]将有限理性引入教育研究，作为理解教学[[Praxis|实践]]的[[Epistemology|认识论]]基础——与 Luhmann 的[[Luhmann's Systems Theory|系统理论]]并置

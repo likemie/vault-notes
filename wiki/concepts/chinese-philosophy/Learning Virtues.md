@@ -7,7 +7,7 @@ aliases:
 summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性"
 type: concept
 domain: "chinese-philosophy"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Humility in Learning]]"
   - "[[Pride in Learning]]"
+  - "[[Praxis]]"
+  - "[[Dialogue in Education]]"
   - "[[Cognitive Source]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Rote Learning]]"
@@ -40,6 +42,7 @@ related_theories:
 related_methods:
   - "[[Prototype Methods]]"
   - "[[Mother-Child Conversation]]"
+  - "[[Discourse Analysis]]"
   - "[[MCC Discourse Analysis Examples]]"
 related_persons:
   - "[[Cheng Brothers]]"
@@ -176,19 +179,19 @@ updated: 2026-05-23
 > 这种分布暗示了一个重要的文化逻辑：在中国学习模型中，**"如何学习"的问题首先被理解为"一个什么样的人在学习"的问题**——方法从属于品德。
 
 > [!note]-
-> Li 进一步指出，学习美德可能是中国学习传统中**保存最完好、生命力最强的部分**——因为它们"更多是个体心理层面的事情，其培养和维持不易受到政治变迁的影响"。儒家学习美德通过家庭社会化和师生互动（而非政治意识形态）代代相传。Li 甚至推测：女性从家庭走向学校和职场可能**强化了而非摧毁了**学习美德的传承——因为"现在有**两倍的人**在学校中发展和实践这些学习美德"([[Argument_Li_2012_Cambridge|Li, 2012, pp.96-97]])。
+> Li 进一步指出，学习美德可能是中国学习传统中**保存最完好、生命力最强的部分**——因为它们"更多是个体心理层面的事情，其培养和维持不易受到政治变迁的影响"。儒家学习美德通过家庭社会化和师生互动（而非政治意识形态）代代相传。Li 甚至推测：女性从家庭走向学校和职场可能**强化了而非摧毁了**学习美德的传承——因为"现在有**两倍的人**在学校中发展和[[Praxis|实践]]这些学习美德"([[Argument_Li_2012_Cambridge|Li, 2012, pp.96-97]])。
 
 ### 家庭社会化：儒家式辅导中的美德传递
 
 > [!success]
-> Li 与 Heidi Fung 的母子对话研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Mother-Child Conversation|MCC]]）从一代传递到下一代([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> Li 与 Heidi Fung 的母子[[Dialogue in Education|对话]]研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Mother-Child Conversation|MCC]]）从一代传递到下一代([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 **序列分析证据** 在对 !CD 组台湾母子对话的序列分析中，学习美德（mV / cV）是台湾母子对话的**引力中心**——无论对话以什么话题开头（心智活动、积极情感或消极情感），台湾母子都会在第二轮或第三轮**转回学习美德([[Argument_Li_2012_Cambridge|Li, 2012]])**。具体而言：
 
 - 讨论**好学习**时：台湾母亲谈论学习美德的概率比欧裔美国母亲高约 40%
 - 讨论**差学习**时：台湾母亲和儿童谈论学习美德的概率几乎是欧裔美国母子的**两倍**
 
-**母亲的[[Cognitive Source|认知来源]]与因果归因** 话语分析揭示了台湾母亲如何将学习美德建立为儿童理解学习的**核心认知框架([[Argument_Li_2012_Cambridge|Li, 2012]])**
+**母亲的[[Cognitive Source|认知来源]]与因果归因** [[Discourse Analysis|话语分析]]揭示了台湾母亲如何将学习美德建立为儿童理解学习的**核心认知框架([[Argument_Li_2012_Cambridge|Li, 2012]])**
 
 1. **认知来源是美德（virtue source）** 母亲不从心智或智力的角度来概念化儿童的学习，而是从品德——是否认真、是否专心、是否勤奋、是否坚持。母亲通过提问引导儿童自己说出这些美德的重要性，而非直接训诫。
 
@@ -235,7 +238,7 @@ updated: 2026-05-23
 
 > [!warning]
 > - 刻苦（keku）的美化可能导致对学习者——特别是来自贫困背景的学习者——承受不必要的痛苦的合理化和浪漫化([[Argument_Li_2012_Cambridge|Li, 2012, p.50]])
-> - 尊师（zunshi）在实践层面可能退化为对权威的盲从，尽管理论层面强调相互性和教师的自我修养义务([[Argument_Li_2012_Cambridge|Li, 2012, p.51]])
+> - 尊师（zunshi）在[[Praxis|实践]]层面可能退化为对权威的盲从，尽管理论层面强调相互性和教师的自我修养义务([[Argument_Li_2012_Cambridge|Li, 2012, p.51]])
 > - 实证研究中的"尊师"和"[[Humility in Learning|谦虚]]"出现为情感而非行为：这引发了一个方法论问题——受访者描述的是他们**实际做的**，还是他们**认为"应该"感受的**？情感描述可能比行为描述更容易受到社会赞许性（social desirability）的影响
 
 ### 对"死记硬背"批评的四重反驳

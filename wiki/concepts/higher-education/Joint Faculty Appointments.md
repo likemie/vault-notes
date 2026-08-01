@@ -9,7 +9,7 @@ aliases:
 summary: "产学合作中的新兴模式，研究人员同时持有企业雇员和大学教授双重身份，短期解决专有业务问题、长期从事开放式研究，Ramming（2025）指出其成功需要大学和企业的共同关切与中央化AET的支持"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Knowledge Exchange]]"
   - "[[Academic Engagement Team]]"
+  - "[[Praxis]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
@@ -59,7 +60,7 @@ updated: 2026-06-04
 ## 核心特征
 
 > [!abstract]
-> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, p.230)]]从企业 [[Academic Engagement Team|AET]] 实践者的角度识别了联合教职的三个关键特征：
+> [[Argument_Ramming_2025_CorporateSupport|Ramming (2025, p.230)]]从企业 [[Academic Engagement Team|AET]] [[Praxis|实践]]者的角度识别了联合教职的三个关键特征：
 
 - **双重人格（Dual Persona）** 研究者同时作为企业雇员（解决短期专有业务问题）和大学教授（从事长期开放式研究）。这两种人格不是先后序列，而是并行运作——同一周内可能既参加产品团队的工程设计评审，又指导博士生的论文选题
 - **草根驱动（Grass-roots Motivation）** 联合教职的启动通常来自企业一线的工程技术团队——工程师在与教授的合作中自然产生了"如果这位教授能一半时间在这里工作"的想法——而非来自 AET 或人力资源部门的顶层设计。评估雇员关系成功与否由日常业务流程处理（绩效评估、项目交付等）
@@ -70,7 +71,7 @@ updated: 2026-06-04
 ## 实践意涵
 
 > [!note]-
-> 联合教职在时间尺度协调上提供了一种独特的解决方案：它不试图拉平企业和大学的时间尺度差异（这是不可能的），而是让同一个人在两个时间尺度上同时运作。实践者需要关注的核心问题是：雇员身份的绩效标准（季度交付、产品里程碑）与教授身份的绩效标准（发表、基金申请、学生毕业）如何在同一个人的职业发展中得到协调而非冲突（p.230）。
+> 联合教职在时间尺度协调上提供了一种独特的解决方案：它不试图拉平企业和大学的时间尺度差异（这是不可能的），而是让同一个人在两个时间尺度上同时运作。[[Praxis|实践]]者需要关注的核心问题是：雇员身份的绩效标准（季度交付、产品里程碑）与教授身份的绩效标准（发表、基金申请、学生毕业）如何在同一个人的职业发展中得到协调而非冲突（p.230）。
 
 从 [[Academic Engagement Team|AET]] 的角度看，联合教职是一种"高带宽"的合作形式——它创造的信息流（人员日常接触、共享问题解决、联合指导研究生）比任何年度评审会议或季度进展报告都更密集。但这种高带宽也有代价：联合教职的治理成本（雇佣合同、知识产权边界、保密与发表的平衡）远高于传统[[Sponsored Research Agreement|赞助研究协议]]（p.230）。
 

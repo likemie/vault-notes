@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 47
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -28,6 +28,7 @@ tags:
   - topic/ethics
 related_concepts:
   - "[[Document]]"
+  - "[[Praxis]]"
   - "[[Emergence]]"
   - "[[Covert Research]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Confidentiality]]"
   - "[[Access and Acceptance in Research]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Research Purpose]]"
   - "[[Research Topic]]"
   - "[[Non-maleficence and Beneficence in Research]]"
@@ -71,7 +73,9 @@ related_methods:
   - "[[Longitudinal Study]]"
   - "[[Member Checking]]"
   - "[[Action Research]]"
+  - "[[Accounts]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Telephone Interview]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -124,7 +128,7 @@ updated: 2026-07-08
 #### 5.1.1 问题起点：伦理从何而来？
 
 > [!nav] 导览
-> 教育与社会研究中的核心伦理议题逐一审视如下。伦理意识在近年的增长反映在相关[[Document|文献]]的增加以及各机构与专业团体制定的研究实践规范守则的[[Emergence|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
+> 教育与社会研究中的核心伦理议题逐一审视如下。伦理意识在近年的增长反映在相关[[Document|文献]]的增加以及各机构与专业团体制定的研究[[Praxis|实践]]规范守则的[[Emergence|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
 
 > [!chapter-question] 伦理问题的六个来源
 > 伦理问题可能出现在研究的每个阶段（Oliver, 2003, p. 17）（pp.75–76）：
@@ -681,7 +685,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 >
 > **协商对他人工作的描述（Negotiate descriptions of people's work）** 始终允许被描述者基于公正性、相关性和准确性对你的叙述提出质疑。
 >
-> **协商对他人观点的叙述（Negotiate accounts of others' points of view）** 始终允许参与访谈、会议和书面交流的人要求修改以增强公正性、相关性和准确性。
+> **协商对他人观点的叙述（Negotiate [[Accounts]] of others' points of view）** 始终允许参与访谈、会议和书面交流的人要求修改以增强公正性、相关性和准确性。
 >
 > **使用引文前获取明确授权（Obtain explicit authorization before using quotations）** 逐字转录、署名观察、音频和视频记录摘录、报告中的判断、结论或建议（书面或会议）。
 >
@@ -1229,7 +1233,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > The right to privacy 'extends to all information relating to a person's physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others' (Social Sciences & Humanities Research Council of Canada, 1981).
 
 > [!citation-card]- [[Situated Ethics|情境伦理]]的核心主张（Simons & Usher）
-> "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（p.128）
+> "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究[[Praxis|实践]]中被中介，因此相对于这些实践具有不同的意义。"（p.128）
 >
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons & Usher, 2000, p. 1).
 

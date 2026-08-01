@@ -9,7 +9,7 @@ aliases:
 summary: "通过收集、分析和报告学习过程中的数字痕迹来理解和优化学习的技术实践，在教育治理中也常被用于风险预判、行为干预和学生管理。"
 type: concept
 domain: "educational-technology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ tags:
   - level/higher-ed
   - theme/subjectification
 related_concepts:
+  - "[[Praxis]]"
   - "[[Performativity of Measurement]]"
   - "[[Homework]]"
   - "[[Educational Technology Industry]]"
@@ -57,7 +58,7 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 学习分析（Learning Analytics，简称 LA）是指通过对学习过程中产生的数字痕迹——点击流、提交时间、测验成绩、讨论参与度等——进行收集、测量、分析和报告，以理解和优化学习及其发生环境的技术实践。与之密切相关的还有教育数据挖掘（Educational Data Mining, EDM），后者侧重从教育数据中自动发现模式和构建预测模型([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。
+> 学习分析（Learning Analytics，简称 LA）是指通过对学习过程中产生的数字痕迹——点击流、提交时间、测验成绩、讨论参与度等——进行收集、测量、分析和报告，以理解和优化学习及其发生环境的技术[[Praxis|实践]]。与之密切相关的还有教育数据挖掘（Educational Data Mining, EDM），后者侧重从教育数据中自动发现模式和构建预测模型([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.224]])。
 
 从量化社会学的角度看，学习分析的量化过程伴随着"价值化"（valorization）——不仅仅表征世界（如学生的某种能力），还创造了带有等级不平等的新现实(Mau, 2019, pp.40–59; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。这与 [[Performativity of Measurement|测量的生产性]] 一脉相承：学习分析的数据不只是"反映"学习，更是重塑学习行为和主体性的生产性力量。
 
@@ -89,7 +90,7 @@ Behrens & DiCerbo（2014, pp.39–40）将教育数据的增长描述为从"数�
 
 - **宣称的教育价值** 通过精确追踪每个学生的强项和弱项，提供"恰到好处"的学习内容和难度
 - **创造的新劳动力市场** 催生了数据科学家、学习设计师、教育技术开发者等新职业类别
-- **与利润动机的关联** 学习分析的技术基础设施（数据平台、分析算法、可视化工具）主要由 EdTech 公司提供，使"专业发展"动机与利润动机在实践中难以分离
+- **与利润动机的关联** 学习分析的技术基础设施（数据平台、分析算法、可视化工具）主要由 EdTech 公司提供，使"专业发展"动机与利润动机在[[Praxis|实践]]中难以分离
 
 > [!example]
 > 一个学生在 Coursera 上学习机器学习课程。学习分析系统追踪她观看视频的时长、暂停和回放的频率、测验的答题时间和错误模式。个性化推荐引擎根据这些分析结果，在她卡住的概率概念上推送补充材料，在她已掌握的内容上跳过练习。整个过程不需要学生主动"寻求帮助"([[Argument_Amos_2022_Springer|Amos, 2022, p.57]])。

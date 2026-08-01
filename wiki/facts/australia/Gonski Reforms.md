@@ -8,9 +8,9 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -19,6 +19,8 @@ tags:
 - level/k12
 - equity
 related_concepts:
+  - "[[Growth]]"
+  - "[[Praxis]]"
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
 related_theories: []
@@ -46,7 +48,7 @@ updated: '2026-05-18'
 > Gonski 改革分两轮进行（Keddie et al., 2020, IJLE, p.2, 11）：
 >
 > - **Gonski et al. (2011)** *Review of Funding for Schooling: Final Report* — 首次系统审查澳大利亚学校教育拨款
-> - **Gonski et al. (2018)** *Through Growth to Achievement: Report of the Review to Achieve Educational Excellence in Australian Schools* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
+> - **Gonski et al. (2018)** *Through [[Growth]] to Achievement: Report of the Review to Achieve Educational Excellence in Australian Schools* — 第二轮审查（即"Gonski 2.0"），于 2018 年 4 月 30 日发布
 >
 > 改革旨在返回 [[Karmel Report]] 年启动的需求本位拨款模型，基于学生需求指标（原住民身份、地理位置、学校规模、SES、残疾）分配额外资源（Keddie et al., 2020, IJLE, p.11）。
 >
@@ -56,7 +58,7 @@ updated: '2026-05-18'
 
 > [!note]- 时间线
 > - **2011** — 第一轮 Gonski 审查报告发布
-> - **2018** — 第二轮 Gonski 审查报告发布（"Through Growth to Achievement"）
+> - **2018** — 第二轮 Gonski 审查报告发布（"Through [[Growth]] to Achievement"）
 > - **持续** — 改革在各州和部门的实施情况参差不齐
 
 ## 实施情况
@@ -71,7 +73,7 @@ updated: '2026-05-18'
 ## 效果与评价
 
 > [!success] 效果与评价
-> - **积极面** 被利益相关者视为关键的"补偿机制"（compensatory mechanisms），可在一定程度上缓解市场话语和实践对社会正义的破坏（Keddie et al., 2020, IJLE, p.11-12）
+> - **积极面** 被利益相关者视为关键的"补偿机制"（compensatory mechanisms），可在一定程度上缓解市场话语和[[Praxis|实践]]对社会正义的破坏（Keddie et al., 2020, IJLE, p.11-12）
 > - **局限性** 在分配缺乏透明度和精细度、缺乏行政支持时，需求本位拨款的补偿能力受到根本性削弱（Keddie et al., 2020, IJLE, p.12）
 > - **结构性批评** 在当前的公私混合拨款模式下，需求本位拨款"对缓解嵌入教育系统的结构性资源分配不公几乎无能为力"——这种不公源于（1）非公立部门获得慷慨公共拨款的模式，和（2）各学校从社区和其他来源获取资源的巨大差异性能力（Keddie et al., 2020, IJLE, p.12）
 

@@ -10,7 +10,7 @@ aliases:
 summary: "基于地点的跨部门联合体，将区域内大学、企业、投资者和政府组织起来围绕共同愿景进行大规模创新投资，TUFF 以四个信条和六项优先领域为其实践框架，目标是提升社区居民生活水平"
 type: concept
 domain: "higher-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - "level/higher-education"
   - "region/global"
 related_concepts:
+  - "[[Praxis]]"
   - "[[Innovation Park]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Based Research Center]]"
@@ -63,7 +64,7 @@ updated: 2026-07-13
 > 创新中心（Innovation Hub）是基于地点的（place-based）跨部门联合体，将区域内关键利益相关者——大学、企业、投资者和政府——组织起来，围绕区域独特优势形成共同愿景，催化新技术的发现、开发和部署及其配套劳动力（Hoffman, Radasch & Thorsell, 2025, pp.112–113）。
 
 > [!info]
-> 从实践角度看，[[TUFF]] 将创新中心的最终目标定位为通过增加商业活动和创业精神来提升社区居民的生活水平（raise the standard of living）。创新中心应成为真实、偶然的人际连接的管道（conduit for authentic, serendipitous human connections），由此产生的思想自由交流催生创新，最终转移到社区并使其受益([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.124, 137]])。
+> 从[[Praxis|实践]]角度看，[[TUFF]] 将创新中心的最终目标定位为通过增加商业活动和创业精神来提升社区居民的生活水平（raise the standard of living）。创新中心应成为真实、偶然的人际连接的管道（conduit for authentic, serendipitous human connections），由此产生的思想自由交流催生创新，最终转移到社区并使其受益([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.124, 137]])。
 
 > [!quote]
 > "Place-based innovation hubs organize key stakeholders from across the research and innovation spectrum and create a common vision that couples their region's unique strengths with a common vision and purpose."([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, p.112]])
@@ -80,7 +81,7 @@ updated: 2026-07-13
 > **vs [[Innovation Ecosystem]]（创新生态系统）** 创新生态系统是更广泛的概念，指人际和组织通过互动进行创新的网络，不一定是人为设计和管理的。创新中心是创新生态系统中一种有意识设计和制度化的组织形态，可以理解为创新生态系统的"引擎房"。
 
 > [!example]
-> **vs [[Innovation Park]]（研究园区／科技园区）** 研究园区侧重为科技企业提供物理空间和基础设施。创新中心更侧重组织利益相关者之间的协作关系和共同研究议程，物理设施只是其中一部分。但在实践中两者高度重叠——[[TUFF]] 同时为研究园区和创新中心提供开发服务，成功的研究园区通常同时是活跃的创新中心([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
+> **vs [[Innovation Park]]（研究园区／科技园区）** 研究园区侧重为科技企业提供物理空间和基础设施。创新中心更侧重组织利益相关者之间的协作关系和共同研究议程，物理设施只是其中一部分。但在[[Praxis|实践]]中两者高度重叠——[[TUFF]] 同时为研究园区和创新中心提供开发服务，成功的研究园区通常同时是活跃的创新中心([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
 
 > [!example]
 > **vs [[University-Based Research Center|大学研究型中心]]** 大学研究型中心以一所大学为主办方，研究议程由大学确定后产业成员加入。创新中心通常有多方发起者（大学、企业、政府），愿景是共同制定的而非大学单方面设定的([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, pp.108–113]])。
@@ -103,7 +104,7 @@ updated: 2026-07-13
 > - **1978**[[Central Florida Research Park|中佛罗里达研究园]]通过与 UCF 合作建立，1993 年海军空战中心迁入成为转折点（p.132）
 > - **1982**[[TUFF]] 在佐治亚州亚特兰大成立，由 Georgia Tech 校友基于 Pettit 校长的三项授权创立，开创了以私营部门交付模式建设大学研究设施的先河（p.123）
 > - **1999**[[Kendall Square|剑桥创新中心]]（CIC）在马萨诸塞州剑桥市成立，推动联合办公和跨校协同研发（p.128）
-> - **2003**[[Tech Square at Georgia Tech]] 在亚特兰大中城开业，Georgia Tech 管理学院入驻锚定，成为"密度就是命运"理念的实践样本（pp.129, 136）
+> - **2003**[[Tech Square at Georgia Tech]] 在亚特兰大中城开业，Georgia Tech 管理学院入驻锚定，成为"密度就是命运"理念的[[Praxis|实践]]样本（pp.129, 136）
 > - **2000s–2010s**[[Purdue Discovery Park]] 以 Lilly Endowment 和印第安纳州各约 1500 万美元启动，逐步发展为超过 10 亿美元的自持研发企业（p.132）
 > - **2010s** 大学开始将创业和[[University-Industry Collaboration|产学合作]]纳入教师晋升和终身教职评审标准，显著改变了学术界对产学合作的态度（pp.132–133）
 > - **2022–2024**[[CHIPS and Science Act|CHIPS 与科学法案]]拨款超 100 亿美元设立 Tech Hubs 计划，[[National Science Foundation|NSF TIP]] 于 2024 年 1 月授予 10 个区域合作体 1.6 亿美元十年期资助，联邦资金大幅涌入创新中心建设（pp.133–134）
@@ -188,7 +189,7 @@ updated: 2026-07-13
 ## 实证发现
 
 > [!success]
-> Battelle 技术合作实践 2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(Battelle, 2013; [[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
+> Battelle 技术合作[[Praxis|实践]] 2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(Battelle, 2013; [[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
 
 > [!success]
 > [[Kendall Square|CIC]]/肯德尔广场 经过近三十年发展，已拥有超过 10,000 家客户组织，在全球举办超过 4,000 场活动，客户累计吸引投资超过 170 亿美元。这些成果催生了产业与创业伙伴之间自我强化的投资与共驻循环（p.128）。

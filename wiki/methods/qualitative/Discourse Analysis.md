@@ -5,11 +5,35 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 19
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-analysis, theme/language, paradigm/interpretive, paradigm/critical]
+related_concepts:
+  - "[[Dialogue in Education]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Praxis]]"
+  - "[[Variable]]"
+  - "[[Epistemology]]"
+  - "[[Reflexivity]]"
+  - "[[Research Question]]"
+  - "[[Causality]]"
+  - "[[Ideal Speech Situation]]"
+related_theories:
+  - "[[Critical Theory]]"
+  - "[[Ethnomethodology]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+  - "[[Ideology Critique]]"
+  - "[[Accounts]]"
+  - "[[Ethogenic Approach]]"
+  - "[[Structured Observation]]"
+related_persons:
+  - "[[Jürgen Habermas]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -23,7 +47,7 @@ updated: 2026-07-23
 > 话语分析（discourse analysis）探索日常谈话和日常解释的组织，以及其中执行的**社会行动**。话语可被视为在组织上和内容上具有连贯性的语言材料集合，使人们能够在社会情境中建构意义（Coyle, 1995, p. 245）。对意义建构的强调表明了话语分析的**行动视角**——语言不只是描述世界，而是在做事情：传递信息、说服、指责、谴责、鼓励等。
 
 > [!method-scope] 方法范围
-> - **研究对象** 日常谈话、课堂对话、文本材料、访谈[[Transcription in Qualitative Research|转录]]——即作为情境化的话语实践的语言（Edwards, 1991）。
+> - **研究对象** 日常谈话、课堂[[Dialogue in Education|对话]]、文本材料、访谈[[Transcription in Qualitative Research|转录]]——即作为情境化的话语[[Praxis|实践]]的语言（Edwards, 1991）。
 > - **问题类型** 语言如何执行社会行动；参与者如何通过话语建构共享的意义框架；话语中如何体现和再生产权力关系。
 > - **分析单位** 话语序列、对话回合、言语行为、文本段落。
 > - **输出形式** 对话语功能、意图和后果的分析性解释，附语言证据支持。
@@ -97,4 +121,4 @@ updated: 2026-07-23
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22)]] — 系统介绍话语分析的定义、与哈贝马斯[[Critical Theory|批判理论]]的关联、Edwards的课堂话语分析案例，以及方法批评
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将话语分析列为[[Structured Observation|结构化观察]]数据的分析方法之一，用于课堂对话问答序列和互动模式分析（23.4 节）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将话语分析列为[[Structured Observation|结构化观察]]数据的分析方法之一，用于课堂[[Dialogue in Education|对话]]问答序列和互动模式分析（23.4 节）

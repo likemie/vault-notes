@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[School Leadership]]"
   - "[[Effective Teaching]]"
+  - "[[Praxis]]"
   - "[[Classroom Management]]"
   - "[[Document]]"
   - "[[Policy Network]]"
@@ -97,7 +98,7 @@ updated: 2026-07-13
 > - **发布主体** 澳大利亚联邦政府教育部、以马克·斯科特（Mark Scott）为主席的教师教育专家小组。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 3]])
 > - **执行主体**[[Australian Institute for Teaching and School Leadership|澳大利亚教学与学校领导力协会]] (AITSL) 负责标准添加；大学等 ITE 提供商负责具体的教学内容实施与对齐。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **监管主体** 通过设立独立的初始教师教育质量保证委员会（ITE Quality Assurance Board）对大学课程改造和标准合规度实施直接审查。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
-> - **政策工具** 法定认证附表（四大核心：大脑与学习、[[Effective Teaching|有效教学]]实践、[[Classroom Management|课堂管理]]、回应性教学）、绩效准入评估与惩罚性绩效资金。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
+> - **政策工具** 法定认证附表（四大核心：大脑与学习、[[Effective Teaching|有效教学]][[Praxis|实践]]、[[Classroom Management|课堂管理]]、回应性教学）、绩效准入评估与惩罚性绩效资金。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
 
 > [!pathways]- 实施路径
 > - **中央设计与控制** 通过 AITSL 将四大领域的“核心内容”制度化为国家认证程序中的约束性指令。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
@@ -112,7 +113,7 @@ updated: 2026-07-13
 > - 200次：“证据”（evidence）一词在政策文本中出现的次数。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])
 > - 197次：“认证”（accreditation）一词在政策文本中出现的次数。
 > - 90次：“评估”（assessment）一词在政策文本中出现的次数。
-> - 4大领域：强制性核心内容（大脑与学习、[[Effective Teaching|有效教学]]实践、[[Classroom Management|课堂管理]]、回应性教学）。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
+> - 4大领域：强制性核心内容（大脑与学习、[[Effective Teaching|有效教学]][[Praxis|实践]]、[[Classroom Management|课堂管理]]、回应性教学）。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 
 ---
 

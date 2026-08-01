@@ -7,7 +7,7 @@ summary: "中国社会学与民族学家，北京大学社会学系教授，因�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Depoliticalization of Ethnic Policy]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Zhonghua Minzu]]"
+  - "[[Praxis]]"
   - "[[Analytic Framework]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -78,7 +79,7 @@ updated: 2026-06-26
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2004 — 《理解民族关系的新思路：少数族群问题的去政治化》** 首次系统提出中国应借鉴西方社会学和美国实践，将宪法地位的“民族”（nationality）重构为“族群”（ethnicity），实行去政治化。
+> - **2004 — 《理解民族关系的新思路：少数族群问题的去政治化》** 首次系统提出中国应借鉴西方社会学和美国[[Praxis|实践]]，将宪法地位的“民族”（nationality）重构为“族群”（ethnicity），实行去政治化。
 > - **2012 — 《族群社会学》** 进一步完善其社会学[[Analytic Framework|分析框架]]，论证通过公共服务和公民权机制淡化少数民族的制度化边界。
 
 ---

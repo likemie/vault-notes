@@ -6,7 +6,7 @@ aliases:
 summary: "由 Cole (2005) 提出的一种以想象力和情感政治为核心的课程设计主张，主张在内在性平面上通过组合学生身体的相遇与欲力以引导智识创新。"
 type: concept
 domain: "curriculum"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Conatus]]"
+  - "[[Areas of Knowledge]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Network Society]]"
@@ -70,7 +71,7 @@ updated: 2026-07-13
 > 探讨在完美信息时代的后现代语境中，以想象力为引擎的斯宾诺莎课程如何帮助学生跳出传统固化学科分类，产生跨领域的规则与新玩法。
 
 > [!claim] Cole, D. R.
-> **后现代知识绩效的想象力转化** 面对后现代的知识状况变革，传统的以知识灌输和理性分类为导向的课程已经精疲力竭。因为技术性知识在互联网互联环境下是自由可得的，个人的绩效取决于能否运用想象力将不同的知识领域连接起来，例如将社会学与地理学结合形成城市学。国际斯宾诺莎主义课程作为一种滋养机制，通过解放想象力和关注情感，为探索和确定这些新兴领域提供了认知基础。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 220)]]
+> **后现代知识绩效的想象力转化** 面对后现代的知识状况变革，传统的以知识灌输和理性分类为导向的课程已经精疲力竭。因为技术性知识在互联网互联环境下是自由可得的，个人的绩效取决于能否运用想象力将不同的[[Areas of Knowledge|知识领域]]连接起来，例如将社会学与地理学结合形成城市学。国际斯宾诺莎主义课程作为一种滋养机制，通过解放想象力和关注情感，为探索和确定这些新兴领域提供了认知基础。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 220)]]
 
 ---
 

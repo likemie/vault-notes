@@ -5,7 +5,7 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Research Utilization]]"
+  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
@@ -116,7 +117,7 @@ updated: 2026-07-15
 > [[Lars Qvortrup]]（2015, pp.25–27）从支持者立场认为，教育[[Meta-analysis|元分析]]不需要等待所有[[Research Utilization|研究使用]]完全相同的学习结果定义才可比较；效应量提供的是干预组与控制组或干预前后之间的相对效果，因此可以跨研究比较"相对学习结果"。他同时承认这种比较的代价是学习结果变得抽象，因此提出[[Dynamic Knowledge and Learning Model]]来区分不同知识形式（[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]]）。
 
 > [!claim] Hattie, J. (2009) — 关节点论证
-> Hattie 将 $d = 0.40$ 设定为"期望效应"的关节点，认为它使研究者和实践者能够在统一的标尺上比较不同教育干预的相对效果。Hattie 强调该关节点的实证基础：约一半因素的效应量超过 0.4，$d = 0.40$ 大致对应教师在一学年中通常达到的平均效果（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]]）。
+> Hattie 将 $d = 0.40$ 设定为"期望效应"的关节点，认为它使研究者和[[Praxis|实践]]者能够在统一的标尺上比较不同教育干预的相对效果。Hattie 强调该关节点的实证基础：约一半因素的效应量超过 0.4，$d = 0.40$ 大致对应教师在一学年中通常达到的平均效果（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]]）。
 
 > [!claim] Kraft, M. (2020/2023) — 经验基准论证
 > Kraft 主张，尽管跨研究效应量由于设计、测量和样本差异而充满噪声，但完全禁止比较会削弱证据本位政策。只要承认噪声和限制，仍可从大量因果研究中获得有用的粗略参照（[[Argument_Kraft_2023_ER|Kraft, 2023, p.184]])。详见上方[[#Kraft 的教育 [[Randomised Controlled Trials|RCT]] 经验基准]]。

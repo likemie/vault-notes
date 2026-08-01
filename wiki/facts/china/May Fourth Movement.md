@@ -11,9 +11,9 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 issuing_organization: Students & Intellectuals (Beijing University / Student Unions)
 tags:
@@ -23,25 +23,19 @@ tags:
   - period/republican-china
   - comparative-education
 related_concepts:
+  - "[[Democratic Education]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Scientific Attitude]]"
-  - "[[Recontextualization]]"
-  - "[[Knowledge Transfer]]"
-related_theories:
   - "[[Transfer Translation Transformation]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
-  - "[[Discourse Analysis]]"
+  - "[[Theoretical Perspective]]"
+related_theories: []
+related_methods: []
 related_persons:
-  - "[[John Dewey]]"
   - "[[Hu Shi]]"
-  - "[[Tao Xingzhi]]"
-  - "[[Jiang Menglin]]"
+  - "[[John Dewey]]"
 related_facts:
   - "[[New Culture Movement]]"
   - "[[New Education Movement]]"
-  - "[[1904 Educational System]]"
 related_arguments:
   - "[[Argument_Zhou_2024_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
@@ -89,7 +83,7 @@ updated: '2026-07-24'
 > [!finding-cards] 影响与后果
 > - **知识界的政治革命转向** 五四运动推动中国知识界从单纯以文化思想手段拯救国家，转向以政治革命与群众动员实现国家重组。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.614]]）
 > - **加速[[New Education Movement|新教育运动]]的激进化** 将教育改革与社会政治变革诉求紧密绑定，使1919–1923年间新教育形成将教育视为“改造政治与社会的根本杠杆”的激进心态。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–615]]）
-> - **为[[John Dewey|杜威]]访华提供高度政治化的接纳语境** 迎合了五四后急于救国的政治氛围，使杜威的民主教育目标被放大，而其渐进[[Pragmatism in China|实验主义]]方法则被忽视。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–617]]）
+> - **为[[John Dewey|杜威]]访华提供高度政治化的接纳语境** 迎合了五四后急于救国的政治氛围，使杜威的[[Democratic Education|民主教育]]目标被放大，而其渐进[[Pragmatism in China|实验主义]]方法则被忽视。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–617]]）
 > - **塑造杜威[[Pragmatic Paradigm|实用主义]]对不同阵营的双重吸引力** 激进派借杜威“儿童中心与民主”反对儒家，温和派借其“反对暴力与渐进改良”主张教育救国，使实用主义同时满足对立阵营需求。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.77]]）
 > - **[[Hu Shi|胡适]]的[[Transfer Translation Transformation|转译]]放大了选择性接纳** 胡适将实用主义重构为打倒迷信的“实验主义”武器，既推动了其快速传播，也植下了后续被批判的隐患。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.72–73]]）
 
@@ -107,7 +101,7 @@ updated: '2026-07-24'
 > - **教育改良路线（红方）** 蒋琦（1919）等温和派主张新教育对旧教育应是“修正而非对立、演进而非原创”，坚持通过教育改良一步一个脚印改变国民。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.615]]）
 
 > [!citation-card]- 代表性学术评论
-> 五四运动创造的高度政治化氛围，构成了杜威 1919–1921 年访华期间中国知识界接受其思想的关键语境——在这一氛围中，杜威的民主教育目标被激进派放大，而其渐进实验方法则被忽略。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–617]]）
+> 五四运动创造的高度政治化氛围，构成了杜威 1919–1921 年访华期间中国知识界接受其思想的关键语境——在这一氛围中，杜威的[[Democratic Education|民主教育]]目标被激进派放大，而其渐进实验方法则被忽略。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–617]]）
 
 ---
 

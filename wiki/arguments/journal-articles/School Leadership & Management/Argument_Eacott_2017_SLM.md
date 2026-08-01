@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Visible Learning]]"
+  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Cult of Efficiency]]"
   - "[[Neo-Taylorism]]"
@@ -42,12 +43,14 @@ related_concepts:
   - "[[Instructional Leadership]]"
   - "[[Transformative Leadership]]"
   - "[[Scientism]]"
+  - "[[Growth]]"
   - "[[Return on Investment]]"
   - "[[Variable]]"
   - "[[Reflexivity]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Dialogue in Education]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Cultural Disembedding]]"
   - "[[Causality]]"
@@ -56,6 +59,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Pierre Bourdieu]]"
@@ -83,7 +87,7 @@ updated: 2026-06-09
 > [!question] 核心关切与经验谜题
 > 澳大利亚[[School Leadership|学校领导力]]领域为何且如何在当代屈服于以[[John Hattie|约翰·哈蒂]]为核心的大师学说与教父崇拜？（p.413）
 > 
-> 经验与学术层面的谜题在于：为什么哈蒂的[[Meta-meta-analysis|元-元分析]]（[[Visible Learning|VL]]）在经历了一系列严厉的方法论技术质询后，非但没有在政策与实践中被边缘化，反而成为澳大利亚教育系统中有史以来传播规模最广、接受度最高、且被制度性深锁的教育铁律？（pp.413–414）
+> 经验与学术层面的谜题在于：为什么哈蒂的[[Meta-meta-analysis|元-元分析]]（[[Visible Learning|VL]]）在经历了一系列严厉的方法论技术质询后，非但没有在政策与[[Praxis|实践]]中被边缘化，反而成为澳大利亚教育系统中有史以来传播规模最广、接受度最高、且被制度性深锁的教育铁律？（pp.413–414）
 > 
 > 这个谜题可以还原为一个具体的学校管理场景：一位普通的澳大利亚公立学校校长，在面对 NAPLAN 与 [[PISA]] 成绩下滑的外部政治恐慌、以及日常事务缠身的行政压力时，如何通过哈蒂提供的[[Effect Size|效应量]]账本（以效应量大于等于 0.40 作为投资收益标准），以一种科学化、符号化的行政方式去管理教师的课堂教学并重构其专业生活？（pp.418–419）
 
@@ -154,7 +158,7 @@ updated: 2026-06-09
 
 在面临系统衰退时，管理修辞会根据衰退的性质发生分化：如果经济或教育系统经历迅速的崩溃（如金融危机或大萧条），管理修辞通常会转向“规范/意向修辞”（normative/aspirational rhetoric）以提供情感抚慰和乌托邦未来；而在澳大利亚面临的 NAPLAN、[[PISA]] 和 TIMSS 成绩慢性下滑背景下，系统自发激活了[[Rational-Control Rhetoric|理性/控制修辞]] (Rational/Control Rhetoric)，其核心关切是“避免探底”并建立确保成功的刚性结构（p.415）。这种理性修辞极大地激发了决策层对“唯一正确方法”和“什么最有效”的技术渴望。
 
-与这种理性饥渴形成鲜明对比的是，澳大利亚传统的大规模教学改革（如昆士兰州的 QSRLS、新基础项目和优质教学改革）由于理论过于精细，在行政实践中面临严重障碍。校长的日常工作几乎被行政、人事和财务预算完全侵占，实际用于教学领导的时间微乎其微（p.416）。传统的教学过程理论缺乏能够与科层决策无缝接轨的扁平数据中介，导致学校管理者在面对标准化测试下滑压力时，陷入了行政控制话语的严重真空。
+与这种理性饥渴形成鲜明对比的是，澳大利亚传统的大规模教学改革（如昆士兰州的 QSRLS、新基础项目和优质教学改革）由于理论过于精细，在行政[[Praxis|实践]]中面临严重障碍。校长的日常工作几乎被行政、人事和财务预算完全侵占，实际用于教学领导的时间微乎其微（p.416）。传统的教学过程理论缺乏能够与科层决策无缝接轨的扁平数据中介，导致学校管理者在面对标准化测试下滑压力时，陷入了行政控制话语的严重真空。
 
 > [!tension] 历史深层张力：管理与教学的结构性分离
 > 20 世纪初，美国教育行政学者如斯特雷耶（George Strayer）、埃利奥特（Edward Elliot）、博比特（Franklin Bobbit）和库伯利（Ellwood Cubberly）在创建教育行政学科时，便合法化了“管理”与“教学”的二分法。在这个历史惯性下，校长被塑造为学校的首席执行官（CEO）而非教学导师，这种管理与教学的结构性脱节，为量化控制工具的介入打开了时间窗口。
@@ -165,7 +169,7 @@ updated: 2026-06-09
 
 罗宾逊等（2008）通过[[Meta-analysis|元分析]]证明了[[Instructional Leadership|教学领导力]]优于[[Transformative Leadership|变革型领导力]]，并引入[[Effect Size|效应量]]，重新点燃了管理层对教学领导力的兴趣。然而，罗宾逊的研究仅指出了促进教师学习等宏观维度（ES = 0.84），未能解决教师在课堂中具体做什么这一微观技术问题（p.417）。[[John Hattie|哈蒂]]的《[[Visible Learning|VL]]》恰逢其时地填补了这一空白，其[[Meta-meta-analysis|元-元分析]]庞大的数据库体量顺应了将[[Randomised Controlled Trials|随机对照试验]]（RCTs）奉为黄金标准的[[Scientism|科学主义]]潮流，为科层系统提供了无可比拟的科学严谨性幻觉（p.418）。
 
-哈蒂将效应量 d = 0.40 设定为“铰链点”（hinge point），并宣称其等同于学生在一个学年内的正常成长。这个等式将极度依赖特定情境的教学体验降维为单一的数值：
+哈蒂将效应量 d = 0.40 设定为“铰链点”（hinge point），并宣称其等同于学生在一个学年内的正常[[Growth|成长]]。这个等式将极度依赖特定情境的教学体验降维为单一的数值：
 - **循证决策的表格化** 校长可以像挑选股票一样进行“[[Return on Investment|投资回报]]”（[[Return on Investment|ROI]]）审计，支持效应量高于 0.40 的干预措施，砍掉低于 0.40 的措施（p.418）。
 - **科学管理的中介化** 这复刻了泰勒在工厂车间通过秒表和动作分解去除经验法则的做法。哈蒂将教学还原为孤立的、按效应量排序的干预[[Variable|变量]]，为管理者提供了实施科学管理的精密中介（p.419）。
 - **商业网络的推波助澜** 在商业利益的驱使下，哈蒂与 ACEL 和 Corwin 出版公司结成商业推广联盟，兜售VL培训产品，使大量学校主动剪裁特色，将自己标识为“哈蒂学校”，展示了学术权威与组织利益之间前[[Reflexivity|反思性]]的[[Ontological Complicity|本体论共谋]]（p.419）。
@@ -190,7 +194,7 @@ updated: 2026-06-09
 
 正如唐莫耶和加洛韦（Donmoyer & Galloway, 2010）指出，没有任何研究能够以决定性的方式告诉我们“在高度独特和复杂的教育情境中什么有效”（p.421）。教育工作本身不是单一的，师生和学校的关系也不是单一的。在教育和社会科学中追求一门“大一统理论”（theory of everything）本身就是极其成疑的尝试。
 
-将哈蒂的 mega-analysis 奉为不可置疑的标准，假定元分析的样本是绝对稳定和等值的，并强行向学校推行单一版本的教育模式，极大地窄化了民主的对话与论辩。澳大利亚学校领导力社群需要的是更严谨、更稳健的研究，以及更重要的对话与辩论，而不是盲目顺从于某一个特定的教父（p.422）。
+将哈蒂的 mega-analysis 奉为不可置疑的标准，假定元分析的样本是绝对稳定和等值的，并强行向学校推行单一版本的教育模式，极大地窄化了民主的[[Dialogue in Education|对话]]与论辩。澳大利亚学校领导力社群需要的是更严谨、更稳健的研究，以及更重要的对话与辩论，而不是盲目顺从于某一个特定的教父（p.422）。
 
 ---
 
@@ -219,7 +223,7 @@ updated: 2026-06-09
 
 > [!stat-cards]- 核心数据
 > - **800多项** 哈蒂[[Meta-meta-analysis|元-元分析]]所整合的[[Meta-analysis|元分析]]总数，共包含 52,637 项独立实证研究，涉及约 2.4 亿学生样本。（p.418）
-> - **d = 0.40** 改进效果的铰链点（Hingepoint），被哈蒂宣称等同于学生在一学年里的正常学业成长量，成为行政决策的底层[[Return on Investment|ROI]]标尺。
+> - **d = 0.40** 改进效果的铰链点（Hingepoint），被哈蒂宣称等同于学生在一学年里的正常学业[[Growth|成长]]量，成为行政决策的底层[[Return on Investment|ROI]]标尺。
 > - **ES = 0.84** 罗宾逊元分析中“促进与参与教师的学习与发展”维度的效应量，是[[Instructional Leadership|教学领导力]]影响学生成绩最高的维度。（p.417）
 
 ---
@@ -232,7 +236,7 @@ updated: 2026-06-09
 > Original: I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian school leadership.
 
 > [!citation-card]- 循证决策与行政控制的本质
-> 相比于教学模型——即使是那些配有衡量实践质量工具的模型——[[John Hattie|哈蒂]]为学校管理者提供的是他们可以据以做出决策的证据，即循证决策。（p.418）
+> 相比于教学模型——即使是那些配有衡量[[Praxis|实践]]质量工具的模型——[[John Hattie|哈蒂]]为学校管理者提供的是他们可以据以做出决策的证据，即循证决策。（p.418）
 > 
 > Original: Rather than models of pedagogy, even those that came with instruments to measure the quality of practice ... Hattie provided school administrators with evidence on which they could base decisions – evidence informed decisions.
 
@@ -246,7 +250,7 @@ updated: 2026-06-09
 > 
 > Original: The partitioning of teaching into smallest measurable units, a piecemeal articulation of how to improve student learning, is not too removed from the work of Taylor over 100 years ago.
 
-> [!citation-card]- 呼唤理性对话与民主论辩
+> [!citation-card]- 呼唤理性[[Dialogue in Education|对话]]与民主论辩
 > 将自己主体化于某个单一人物之下，就是将该人物提升到了“教父”的地位。澳大利亚学校领导力共同体更需要的是更严谨、更稳健的工作，以及更重要的对话与辩论（哈蒂也应当是其中的一部分），而不是盲目追随某一个教父。（p.422）
 > 
 > Original: To subjectify oneself to a single figure is to elevate that individual to guru status. What the Australian school leadership community arguably needs is more rigorous and robust work and more significantly, dialogue and debate (to which Hattie is a part) not the blind adherence to a single guru.
@@ -258,7 +262,7 @@ updated: 2026-06-09
 > [!warning] 批判边界与方法论定位
 > - **非针对[[John Hattie|哈蒂]]的方法论技术评估** 明确声明，本文绝非对哈蒂个人或其分析质量的方法论技术质询（这些工作已由 Snook et al., 2009; Higgins & Simpson, 2011; Terhart, 2011 等人完成），而是专注于剖析“使大师崛起及其工作被广泛接受的社会与组织条件”（p.414）。
 > - **经验基础的地理局限** 本研究的经验性观察主要锚定在澳大利亚特定的政策、组织与历史环境下（但作者声称其理论论证超越地理边界，对其他同样具有新自由主义管理主义倾向的系统同样适用）。
-> - **不对[[Meta-meta-analysis|元-元分析]]进行具体的技术纠错** 文章未对哈蒂的[[Meta-analysis|元分析]]如何进行具体的[[Causality|因果推断]]、选择性偏差或重复计算进行数学上的微观纠错，而是将其直接作为社会学意义上的意识形态证据来进行组织话语分析（p.414, p.419）。
+> - **不对[[Meta-meta-analysis|元-元分析]]进行具体的技术纠错** 文章未对哈蒂的[[Meta-analysis|元分析]]如何进行具体的[[Causality|因果推断]]、选择性偏差或重复计算进行数学上的微观纠错，而是将其直接作为社会学意义上的意识形态证据来进行组织[[Discourse Analysis|话语分析]]（p.414, p.419）。
 
 > [!note]- 外部回应与后续争议
 > - **哈蒂的自我声辩** 在同一期期刊中，[[John Hattie|约翰·哈蒂]]发表了回应文章 [[Argument_Hattie_2017_SLM|Hattie (2017)]]，矢口否认了“教父/[[Cult of the Guru|大师崇拜]]”的指控，辩称其只关注证据本身。

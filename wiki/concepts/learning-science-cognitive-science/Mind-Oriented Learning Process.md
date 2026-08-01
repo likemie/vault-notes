@@ -8,7 +8,7 @@ aliases:
 summary: "Li (2012) 识别的西方文化学习过程模型，以心智发展为焦点，包含主动参与，探索与探究，思考与批判性思维，自我表达与沟通四个支柱"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - field/cultural-psychology
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Active Learning]]"
   - "[[Western Learner]]"
   - "[[Metacognition]]"
   - "[[Conatus]]"
@@ -75,7 +76,7 @@ updated: 2026-05-25
 - 进行科学实验或在实验室操作
 - 外出实地考察：博物馆、水族馆、天文台、历史遗址、发电厂、工厂等
 
-**课外与校外**的主动学习场景同样丰富([[Argument_Li_2012_Cambridge|Li, 2012, p.109]])：
+**课外与校外**的[[Active Learning|主动学习]]场景同样丰富([[Argument_Li_2012_Cambridge|Li, 2012, p.109]])：
 - 形式多样的课外活动项目（绘画、雕塑、乐器、制书、珠宝制作、舞蹈、体育）——本质上都是"做中学"
 - 暑假营会与有组织的旅行
 - 互动式博物馆，如费城的"请触摸博物馆"（Please Touch Museum），鼓励儿童触碰、拆解、组合、实验与探索([[Argument_Li_2012_Cambridge|Li, 2012, p.110]])

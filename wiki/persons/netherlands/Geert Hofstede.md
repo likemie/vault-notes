@@ -7,16 +7,18 @@ summary: "荷兰组织社会心理学家，文化维度理论提出者，为教�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 4
+person_related_count: 6
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags:
 - geert-hofstede
 - culture
 - national-culture
 related_concepts:
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
+  - "[[Dialogue in Education]]"
   - "[[Effective Teaching]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
@@ -39,12 +41,12 @@ updated: '2026-06-08'
 
 > [!info] 核心思想
 > - [[Hofstede's Cultural Dimensions]] — Hofstede 的原始工作提出四个国家文化维度：个人主义/集体主义、权力距离、女性化/男性化、不确定性规避([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
-> - 国家文化价值相对稳定，并影响国家政策、制度实践以及共享该文化的人们的行为。
+> - 国家文化价值相对稳定，并影响国家政策、制度[[Praxis|实践]]以及共享该文化的人们的行为。
 
 ## 主要贡献
 
 > [!success] 主要贡献
-> - 为教育研究中的跨文化解释提供一种[[Hypothesis|假设]]生成框架：Laursen 用 Hofstede 对丹麦文化的描述来推导"开放、对话、弱教师控制的教学是否更适合丹麦"的预期，再用丹麦[[Effective Teaching|有效教学]]研究检验该预期([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–37]])。
+> - 为教育研究中的跨文化解释提供一种[[Hypothesis|假设]]生成框架：Laursen 用 Hofstede 对丹麦文化的描述来推导"开放、[[Dialogue in Education|对话]]、弱教师控制的教学是否更适合丹麦"的预期，再用丹麦[[Effective Teaching|有效教学]]研究检验该预期([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–37]])。
 
 ## 争议与批评
 

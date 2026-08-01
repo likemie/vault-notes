@@ -6,7 +6,7 @@ aliases:
 summary: "Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Talent Assumption]]"
   - "[[Epistemology]]"
   - "[[Epistemological Break]]"
+  - "[[Praxis]]"
   - "[[Operationalization]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -33,6 +34,7 @@ related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Plato]]"
+  - "[[Aristotle]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
@@ -134,7 +136,7 @@ Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的
 > [!note]-
 > Doxa 经历了从古希腊[[Epistemology|认识论]]范畴到 Bourdieu 社会分析工具的漫长演变。
 
-**古希腊哲学（[[Plato|柏拉图]]／亚里士多德）**。*doxa* 原指"意见"或"信念"，与 *epistēmē*（知识）相对——是介于无知与真知之间的认知状态。柏拉图视 doxa 为不可靠的感知世界产物，亚里士多德则部分恢复其认识论地位。在这一阶段，doxa 是**个体认知**层面的概念。
+**古希腊哲学（[[Plato|柏拉图]]／[[Aristotle|亚里士多德]]）**。*doxa* 原指"意见"或"信念"，与 *epistēmē*（知识）相对——是介于无知与真知之间的认知状态。柏拉图视 doxa 为不可靠的感知世界产物，亚里士多德则部分恢复其认识论地位。在这一阶段，doxa 是**个体认知**层面的概念。
 
 **Husserl [[Phenomenology|现象学]]**。doxa 在 Husserl 处被重新激活，指生活世界中的原初信念（Ur-doxa）——先于一切理论判断的对世界存在的根本信念。Husserl 的关注点不在社会支配，而在意识如何构成世界经验的前提。
 
@@ -145,7 +147,7 @@ Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的
 ## 争议与批评
 
 > [!warning]
-> - **概念边界模糊** doxa 与意识形态（ideology）、常识（common sense）、正统（orthodoxy）等概念之间的区分在实践中不易[[Operationalization|操作化]]——批评者认为 Bourdieu 没有提供足够清晰的标准来判定什么算是 doxa 什么不算
+> - **概念边界模糊** doxa 与意识形态（ideology）、常识（common sense）、正统（orthodoxy）等概念之间的区分在[[Praxis|实践]]中不易[[Operationalization|操作化]]——批评者认为 Bourdieu 没有提供足够清晰的标准来判定什么算是 doxa 什么不算
 > - **经验研究的困难** 如何经验地识别和测量 doxa 是主要挑战——研究者自身也嵌入了特定[[Champ|场域]]，如何区分研究者的分析范畴与被研究者体验为自然的 doxa？([[Argument_Eacott_2015_EPT|Eacott, 2015]])
 > - **变革可能性被低估** 如果 doxa 如此不言自明且被结构性地再生产，行动者如何可能挑战它？批评者指出 Bourdieu 对 doxa 的变革路径阐述不足
 > - **决定论的张力** Bourdieu 的框架倾向于强调结构的再生产力量，这与他的实践理论中对能动性的承认存在内在张力

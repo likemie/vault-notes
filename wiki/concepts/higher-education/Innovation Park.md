@@ -10,18 +10,20 @@ aliases:
 summary: "大学拥有或运营的专为产业合作和创新活动提供的物理空间，包括孵化器、研究园区和科技园区，是产学合作中经济发展维度的重要基础设施"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
+  - "[[Praxis]]"
   - "[[Innovation Hub]]"
   - "[[Asset Mapping]]"
+  - "[[Presence]]"
   - "[[Placemaking]]"
 related_theories: []
 related_methods: []
@@ -70,7 +72,7 @@ updated: 2026-05-27
 > - 81% 提供生命科学类初创企业孵化器
 > - 68% 拥有或运营面向产业的创新或研究园区
 >
-> 创新园区相关设施是大学[[University-Industry Collaboration|产学参与]]策略中**采用率最高**的一类实践。在五种组织模式中，经济发展/政府关系模式尤其侧重通过[[Innovation Hub|创新中心]]和商业园区推动产学合作（p.60）。
+> 创新园区相关设施是大学[[University-Industry Collaboration|产学参与]]策略中**采用率最高**的一类[[Praxis|实践]]。在五种组织模式中，经济发展/政府关系模式尤其侧重通过[[Innovation Hub|创新中心]]和商业园区推动产学合作（p.60）。
 
 ## TUFF 实践框架
 
@@ -85,7 +87,7 @@ updated: 2026-05-27
 >
 > **六项优先领域**
 > 1. 创业与[[Asset Mapping|资产映射]]（entrepreneurship and asset mapping）
-> 2. 学术存在（academic presence）— 包括内部倡导者和大学对园区的实质投入
+> 2. 学术存在（academic [[Presence]]）— 包括内部倡导者和大学对园区的实质投入
 > 3. 学术与公共对研发的承诺 — 强大的研究项目是吸引企业入驻的基础
 > 4. 筹资与对外关系 — 成功的园区几乎总是精心规划和利益相关者参与的结果
 > 5. 区域合作 — 必须"基于本地"并利用区域独特的文化和地理特征

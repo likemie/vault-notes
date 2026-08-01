@@ -7,7 +7,7 @@ summary: "中国统战官员与历史学者，现任国家民委主任，因提�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Wuhu Ruhua]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -97,7 +98,7 @@ updated: 2026-06-26
 
 > [!influence-path] 影响路径
 > - **理论路径** 其历史散文和政治史论将学术研究与官方宣传无缝对接，塑造了当前国内关于“五胡南北朝”历史研究的官方主旋律叙事。
-> - **政策路径** 作为国家民委主任，他是“铸牢[[Zhonghua Minzu|中华民族]]共同体意识”的国家总执行人。其思想直接指导了当前将少数民族模范自治区改造为国家通用语言文字“模范牺牲区”的政策实践。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 111]])
+> - **政策路径** 作为国家民委主任，他是“铸牢[[Zhonghua Minzu|中华民族]]共同体意识”的国家总执行人。其思想直接指导了当前将少数民族模范自治区改造为国家通用语言文字“模范牺牲区”的政策[[Praxis|实践]]。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 111]])
 
 ---
 

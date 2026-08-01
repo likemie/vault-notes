@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2023）提出的比较教育批判工具词汇，用以打破精致中立的专业相对主义滤镜，直面学校系统和教育政策背后的国家暴力与人道后果"
 type: concept
 domain: "comparative-education"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,10 +15,12 @@ tags:
   - theme/comparative-education
   - theory/critical-theory
 related_concepts:
+  - "[[Praxis]]"
   - "[[Conatus]]"
   - "[[Educated Identity]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[Robert Cowen]]"
 related_facts:
@@ -38,7 +40,7 @@ updated: '2026-07-04'
 ## 定义
 
 > [!def] 核心定义
-> 英雄、陌生与野蛮（Heroic, Strange, and Barbaric）是比较教育学科批判话语分析工具，由 [[Robert Cowen]] 于 2023 年提出。它包含三个带有强烈道德与审美张力的批判性形容词，主张将其直接运用于学校系统和教育政策分析中。该概念工具旨在通过强烈的情感与智识震荡（shock），撕开学术界日常精致中立的专业相对主义滤镜，直面教育与国家暴力、地缘政治冲突对儿童受教育生命状态带来的实际人道后果。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 335, p. 336]])
+> 英雄、陌生与野蛮（Heroic, Strange, and Barbaric）是比较教育学科批判[[Discourse Analysis|话语分析]]工具，由 [[Robert Cowen]] 于 2023 年提出。它包含三个带有强烈道德与审美张力的批判性形容词，主张将其直接运用于学校系统和教育政策分析中。该概念工具旨在通过强烈的情感与智识震荡（shock），撕开学术界日常精致中立的专业相对主义滤镜，直面教育与国家暴力、地缘政治冲突对儿童受教育生命状态带来的实际人道后果。([[Argument_Cowen_2023_CE|Cowen, 2023, p. 335, p. 336]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 指一组在学术研究中被常规回避、但能刺破“去政治化”话语伪装的道德形容词词汇（“英雄的”、“陌生的”、“野蛮的”）。
@@ -55,7 +57,7 @@ updated: '2026-07-04'
 > - **陌生的（Strange）**
 >   指向那些由极端政治强权、地缘冲突、或扭曲的算法监控强加在学校和儿童身上的荒谬生存状态与课程变迁。通过将其定义为“陌生”，阻止学者将其视为“不可避免的客观事实”或“正常的转型现象”。
 > - **英雄的（Heroic）**
->   指向在战争、国家冲突、制度压迫以及社会动荡等极端生存境遇下，教师和个体在传统围墙内外依然坚守教学、维护儿童生命权与受教育权利的抗争性学术与实践[[Conatus|努力]]。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 335–336)]]
+>   指向在战争、国家冲突、制度压迫以及社会动荡等极端生存境遇下，教师和个体在传统围墙内外依然坚守教学、维护儿童生命权与受教育权利的抗争性学术与[[Praxis|实践]][[Conatus|努力]]。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 335–336)]]
 
 ---
 

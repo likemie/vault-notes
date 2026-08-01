@@ -9,7 +9,7 @@ title: "Argument_Blass_2020_JESP"
 argument_key: "Argument_Blass_2020_JESP"
 argument_display_title: "Debunking Hattie: Evaluating the contribution of academic studies to policy development and implementation in Australia"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Literature Review]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Praxis]]"
   - "[[Causality]]"
+  - "[[Dialogue in Education]]"
   - "[[Lost Mode]]"
   - "[[Direct Instruction]]"
 related_theories: []
@@ -88,10 +90,10 @@ citation_aliases:
 >
 > ### 3. [[Hypothesis|假设]]
 >
-> Blass 识别了实践者简单接受 [[Visible Learning|VL]] 结果时所做出的四项隐含假设(pp.93–94)：
+> Blass 识别了[[Praxis|实践]]者简单接受 [[Visible Learning|VL]] 结果时所做出的四项隐含假设(pp.93–94)：
 >
 > 1. **方法论适当假设** 假设所有纳入研究的方法论都是适当的。但元分析合并不同方法的研究会产生"舍入误差"，在此基础上再做[[Meta-meta-analysis|元-元分析]]则精确度进一步降低。元分析适合建立模式和相对关系，但"它们不建立[[Causality|因果关系]]，但许多人假设它们可以"
-> 2. **情境无关假设** 大多数教育者在日常对话中会同意情境重要，但面对 Hattie 的工作时却似乎乐于接受不考虑情境的结果(p.94)
+> 2. **情境无关假设** 大多数教育者在日常[[Dialogue in Education|对话]]中会同意情境重要，但面对 Hattie 的工作时却似乎乐于接受不考虑情境的结果(p.94)
 > 3. **教师角色无关假设** 尽管 Hattie 明确说教师是最重要的因素，但通过呈现影响因素的排名而没有跨因素分析，人们假设教师角色和其他非教学因素不重要
 > 4. **因素独立发生假设** 现实中课堂里的教学、反馈、团队合作、同伴学习、不同教学法同时甚至同步发生——孤立地看待效应量是误导的
 >
@@ -114,7 +116,7 @@ citation_aliases:
 > - [[Visible Learning|VL]] 在澳大利亚被用作"不改变的好借口"，以来自上世纪的研究证据为当前课堂行为辩护——但这很可能不是 Hattie 的本意(p.97)
 > - 2020 年 COVID 封锁会议中 Hattie 的演讲表明他的立场已显著演变：他谈到课程差异不大（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认失败是最好的朋友但仅低风险时如此、指出"通过失败学习是 [[Problem-Based Learning|PBL]] 的一部分、通过探究式学习恢复"。他现在倡导的学习模型恰恰最适合 PBL 和探究式教学法(p.96)
 > - **五项评估框架**可推广至任何政策情境：在采纳学术研究以制定政策之前，须评估其方法论、情境、[[Hypothesis|假设]]、领导力和时效性
-> - 澳大利亚教师培训奖励 regulation 和 standardisation 而非创新；教师注册委员会要求持续专业发展时数而非创新发展时数——"想象一下如果每位教师每年必须有 5 小时创新实践的证据，现在的课堂教育可能已经在哪里了！"(p.91)
+> - 澳大利亚教师培训奖励 regulation 和 standardisation 而非创新；教师注册委员会要求持续专业发展时数而非创新发展时数——"想象一下如果每位教师每年必须有 5 小时创新[[Praxis|实践]]的证据，现在的课堂教育可能已经在哪里了！"(p.91)
 
 ## 关键引用
 

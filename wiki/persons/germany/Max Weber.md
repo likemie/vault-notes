@@ -8,7 +8,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Analytic Framework]]"
   - "[[Corporate Education]]"
+  - "[[Praxis]]"
   - "[[Habitus]]"
   - "[[Conatus]]"
 related_theories:
@@ -245,7 +246,7 @@ updated: 2026-07-10
 
 ### 受其影响的学者与理论运用
 
-- **[[Pierre Bourdieu]]** 在实践理论中承袭并改造了 Weber 对行动意义、支配与合法性的关注；[[Habitus|习性]]概念一方面延续了对行动者意义世界的重视，另一方面把这种意义世界重新放回[[Champ|场域]]、资本和身体化历史中理解。
+- **[[Pierre Bourdieu]]** 在[[Praxis|实践]]理论中承袭并改造了 Weber 对行动意义、支配与合法性的关注；[[Habitus|习性]]概念一方面延续了对行动者意义世界的重视，另一方面把这种意义世界重新放回[[Champ|场域]]、资本和身体化历史中理解。
 - **[[Ann Swidler]]** 的 [[Culture as Toolkit|文化工具箱]] 理论以 Weber-Parsons 的价值观驱动传统为对照，强调文化不只是定义行动目的的价值系统，也是一组可被行动者调用的符号、故事、仪式和策略工具。
 - **[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]** 以韦伯诠释社会学作为全书[[Epistemology|认识论]]锚点，以工具/价值理性区分作为文化社会学讨论的起点；在分析大学生择业中的工作意义图式时援引韦伯的"扳道工"（switchman）假说——"直接支配人的行为的，不是理念，而是物质的和精神的兴趣。可是，由'理念'所创造出来的'世界形象'，往往像铁路上的扳道夫一样，决定了行动的轨道被兴趣推动的动力循着什么方向在行动"（，引 Weber, 2006）；在毕业出路产[[Conatus|生机]]制的四分类模型中，以韦伯的价值理性概念作为横轴的理论基础。
 - **[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]** 以韦伯的权力-权威区分为起点，结合 DiMaggio & Powell 的[[Institutional Isomorphism|制度同构]]理论，分析[[Corporate Education|企业教育]]如何在强制型、模仿型和规范型同构三种机制中获取合法性([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.182–184]])。

@@ -10,10 +10,10 @@ aliases:
 summary: "二十世纪早中期大企业建立的内部中央研发机构，以贝尔实验室、Xerox PARC、IBM Research 为代表，从事从基础研究到产品开发的全链条科研，1980年代后衰退并转向开放创新"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "theme/innovation"
   - "theme/university-industry-collaboration"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Areas of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
 related_theories:
@@ -90,7 +91,7 @@ updated: 2026-05-27
 | 高风险商业化 | **小型初创企业** | 利用风险投资将发明推向市场 |
 | 产品开发与集成 | **大型成熟企业** | 系统集成、市场部署、规模制造 |
 
-> 但这种碎片化的分工有一个未解决的张力：Arora 等人（2020）指出，大学（通过[[Technology Transfer|技术转移]]和产学合作）和初创企业在个别案例上取得了重大创新成功（如 Google 从斯坦福的授权起步），但整体上**未能完全填补**大企业中央实验室衰落留下的空白。原因在于：中央实验室能够"更容易地聚集跨多个知识领域的专业人才、设施和其他资源，并将其整合和引导用于解决特定问题"，而今天更加碎片化的创新系统在这一点上反而退步了([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.41–42]])。
+> 但这种碎片化的分工有一个未解决的张力：Arora 等人（2020）指出，大学（通过[[Technology Transfer|技术转移]]和产学合作）和初创企业在个别案例上取得了重大创新成功（如 Google 从斯坦福的授权起步），但整体上**未能完全填补**大企业中央实验室衰落留下的空白。原因在于：中央实验室能够"更容易地聚集跨多个[[Areas of Knowledge|知识领域]]的专业人才、设施和其他资源，并将其整合和引导用于解决特定问题"，而今天更加碎片化的创新系统在这一点上反而退步了([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.41–42]])。
 
 ---
 

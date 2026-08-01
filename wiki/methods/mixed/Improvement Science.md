@@ -6,7 +6,7 @@ summary: "把教育改进视为在真实系统中持续测试、反馈和迭代�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 19
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -19,11 +19,13 @@ tags:
 - paradigm/interpretivist
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Praxis]]"
   - "[[Internal Validity]]"
   - "[[Effect Size]]"
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Spirals of Inquiry]]"
+  - "[[Dialogue in Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm Wars]]"
@@ -51,7 +53,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 改进科学（Improvement Science）是一套源自组织研究领域（Langley et al., 2009）的方法集合，被倡导为教育研究中一个高杠杆的替代[[Paradigm|范式]]（Bryk et al., 2015; Lewis, 2015）。其核心特征是将教育实践作为**系统**来研究，关注**跨情境的变异性**，并从变异性中学习——变异的实例代表了生成关于"什么在什么情境中导致更多改进"洞见的可能性([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
+> 改进科学（Improvement Science）是一套源自组织研究领域（Langley et al., 2009）的方法集合，被倡导为教育研究中一个高杠杆的替代[[Paradigm|范式]]（Bryk et al., 2015; Lewis, 2015）。其核心特征是将教育[[Praxis|实践]]作为**系统**来研究，关注**跨情境的变异性**，并从变异性中学习——变异的实例代表了生成关于"什么在什么情境中导致更多改进"洞见的可能性([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 306]])。
 >
 > > "Key aspects of improvement science involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability."
 >
@@ -68,7 +70,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 关键原则
-> 1. **系统视角** 教育实践不是离散的干预而是互相关联的系统
+> 1. **系统视角** 教育[[Praxis|实践]]不是离散的干预而是互相关联的系统
 > 2. **关注变异性** 跨情境的差异不是噪音而是学习机会——揭示什么在什么条件下起作用
 > 3. **人类行动者中心** 变革通过人的能动性实现，研究需关注参与者的情境和视角
 > 4. **持续小改进** 通过反馈和适应做连续小决策，而非一次性采纳或拒绝整个项目
@@ -106,7 +108,7 @@ updated: '2026-05-18'
 > 3. **直觉（Hunch）** 提出关于哪些教师行动可以改变观察模式的假设
 > 4. **学习（Learning）** 查阅已发表证据来指导实践
 > 5. **行动（Taking Action）** 实施改变
-> 6. **检查（Checking）** 检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师与学生的个别或小团体对话
+> 6. **检查（Checking）** 检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师与学生的个别或小团体[[Dialogue in Education|对话]]
 >
 > > "When teachers are involved in ongoing inquiry work, they are more likely to find out about new evidence and to incorporate into their practice in an ongoing way."
 >

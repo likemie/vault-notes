@@ -5,19 +5,21 @@ aliases:
 summary: "大学生活组织实践的一种模式，表现为缺乏清晰规划、更多依赖直觉和情境反应来应对学习与发展选择。"
 type: concept
 domain: "sociology-of-education"
-related_count: 27
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - intuition-dependent-mode
   - higher-education
   - region/china
   - level/higher-ed
 related_concepts:
+  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
+  - "[[Growth]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Barrier]]"
   - "[[Hypothesis]]"
@@ -31,6 +33,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
+  - "[[Dialogue in Education]]"
   - "[[Self-Authorship]]"
 related_theories:
   - "[[Culture as Toolkit]]"
@@ -44,6 +47,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Marcia Baxter Magolda]]"
 related_facts:
+  - "[[Gaokao]]"
   - "[[Recommendation-Based Graduate Admission System]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -60,7 +64,7 @@ updated: 2026-05-18
 ## 定义
 
 > [!info]
-> 直觉依赖模式（Intuition-Dependent Mode）是大学生组织大学生活的一种实践图式，其特征是：缺乏清晰刻意的生涯目标规划，对大学[[Champ|场域]]规则和不同毕业出路的要求不甚了解，凭直觉和既往经验被动地应对大学中的选择，在浑然不觉中错失将大学资源转化为毕业出路优势的时机。该概念由[[Yajun Zheng|郑雅君]]（2023）在对中国两所顶尖研究型大学 62 名毕业班学生的跟踪访谈中提出。
+> 直觉依赖模式（Intuition-Dependent Mode）是大学生组织大学生活的一种[[Praxis|实践]]图式，其特征是：缺乏清晰刻意的生涯目标规划，对大学[[Champ|场域]]规则和不同毕业出路的要求不甚了解，凭直觉和既往经验被动地应对大学中的选择，在浑然不觉中错失将大学资源转化为毕业出路优势的时机。该概念由[[Yajun Zheng|郑雅君]]（2023）在对中国两所顶尖研究型大学 62 名毕业班学生的跟踪访谈中提出。
 
 > [!quote]
 > "直觉依赖模式下的大学生则从未见过迷宫的地图，对其中隐含的规则也不甚了了，更谈不上提前规划路线，因而更可能在里面绕弯子"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
@@ -72,7 +76,7 @@ updated: 2026-05-18
 ## 概念辨析
 
 > [!example]
-> - vs [[Goal-Controlled Mode]] — 直觉依赖模式以目标模糊、被动适应和资源利用的低效性为特征，目标掌控模式则以清晰的生涯目标和策略性资源利用为特征。两者构成大学生活组织方式连续统的两极。家庭成长经历和教育背景预先为学生在这两极之间奠定位置，而大学期间的见识增长也会持续对倾向产生动态影响（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - vs [[Goal-Controlled Mode]] — 直觉依赖模式以目标模糊、被动适应和资源利用的低效性为特征，目标掌控模式则以清晰的生涯目标和策略性资源利用为特征。两者构成大学生活组织方式连续统的两极。家庭[[Growth|成长]]经历和教育背景预先为学生在这两极之间奠定位置，而大学期间的见识增长也会持续对倾向产生动态影响（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - **道德维度与[[Symbolic Boundary|象征边界]]** 直觉依赖者不仅缺乏策略性工具，还持有一套特定的道德判断——将目标掌控者视为"功利心强""动机不纯粹"。同时以"淳朴"标识自我——"农村没有套路，是什么就是什么，大家都很朴实。所以我不会为了某个目的不择手段"（余涛，郑雅君，2023）。这种道德拒斥使得"双方的拒斥多于融合"，构成寒门学子突破[[Cultural Barrier|文化障碍]]的主要障碍之一
 
 ---
@@ -106,7 +110,7 @@ updated: 2026-05-18
 > - [[Culture as Toolkit]] — 对应**价值选择过程**的工具维度：直觉依赖模式反映的是文化工具箱的**缺失**——弱势学生可及的文化工具集中缺少对精英大学场域具有高度适用性的"工具"（长线规划意识、策略思维、场域规则信息）
 > - [[Dual-Process Model of Culture in Action]] — 提供整合框架：该模式在**两个意识层次上均面对结构性制约**——深层内化层面，弱势家庭社会化中内化的价值信念（如"好好学习就行"）与精英大学场域的实际要求不匹配；浅层内化层面，弱势学生也缺乏可灵活选取的文化工具
 > - [[Academic and Social Integration]] + [[Student Engagement]] — 对应**投入过程** 直觉依赖模式下的投入是**弥散性而非策略性**的——学生倾向于大量投入课业学习，但忽视了就业市场更看重的[[Soft Power|软实力]]积累。高等教育学传统研究将这种投入不足归因于个人不[[Conatus|努力]]，但郑雅君（2023）指出这是结构性约束的结果。[[Academic Engagement|学业投入]]的详细讨论见 [[Academic Engagement]]，[[Social Engagement|社会性投入]]的详细讨论见 [[Social Engagement]]
-> - [[Rational Action Theory]] — 作为对话方：直觉依赖模式看似符合弱势阶层的"风险规避"逻辑，但郑雅君强调学生决策所依赖的信息和认知框架本身就受到阶层文化工具箱的限制——他们基于已知信息做出"理性"选择，而这些信息恰恰是片面的
+> - [[Rational Action Theory]] — 作为[[Dialogue in Education|对话]]方：直觉依赖模式看似符合弱势阶层的"风险规避"逻辑，但郑雅君强调学生决策所依赖的信息和认知框架本身就受到阶层文化工具箱的限制——他们基于已知信息做出"理性"选择，而这些信息恰恰是片面的
 > - [[Self-Authorship]]（[[Marcia Baxter Magolda]]）— 作为对照：直觉依赖者在自我主导性的三个维度上均未充分发展——认知上依赖外部权威和模糊的流行观念，自我认同上不清楚自己是谁、将要成为谁，人际关系上跟随大多数同学的选择
 
 ---
@@ -133,7 +137,7 @@ updated: 2026-05-18
 ## 相关案例／政策
 
 > [!example]
-> - **禹海**（北方大学工科，山西农村，第一代大学生）：高考全省前 20 名，但每一步"没有想清楚理由是什么"。大一目标反射性地就是"成绩排名 30%–40%"。后来才惊觉其他同学的目标远不止成绩，回看大学是"自己不知道自己在忙什么"的状态。大三匆忙选择直博，后来对当初的选择"统统都有点后悔"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
+> - **禹海**（北方大学工科，山西农村，第一代大学生）：[[Gaokao|高考]]全省前 20 名，但每一步"没有想清楚理由是什么"。大一目标反射性地就是"成绩排名 30%–40%"。后来才惊觉其他同学的目标远不止成绩，回看大学是"自己不知道自己在忙什么"的状态。大三匆忙选择直博，后来对当初的选择"统统都有点后悔"（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - **冰倩**（南方大学社科，湖南农村，第一代大学生）：轻信"大学好自由，喜欢的东西就[[Conatus|努力]]追寻"，大一抱着"拿个 60 分就可以了"的心态，到大三才意识到绩点的重要性。无实习、未做求职准备、考研落榜，最终延毕。反复说自己"好傻"——"要是当时有谁跟我说说绩点决定很多东西，我估计就不会抱着那么随便的态度去学习了"
 > - **昌盛**（南方大学社科，甘肃偏僻农村，贫困专项计划）：上大学后发现"现实已经远远地偏离了我的预期"，大二陷入轻度抑郁——"每次出门我都会有一种恐惧，就是害怕与其他人交流"
 > - [[Recommendation-Based Graduate Admission System]] — 推免制度以大一至大三的累积学分绩点为选拔依据。直觉依赖者可能在入学初期未认识到学业成绩与推免资格的关联，等大二、大三意识到时为时已晚，错失最优升学路径

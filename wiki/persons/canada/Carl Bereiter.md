@@ -7,7 +7,7 @@ summary: "加拿大教育理论家，知识建构理论代表人物，为教育�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Visible Learning]]"
+  - "[[SOLO Taxonomy]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods: []
@@ -75,4 +76,4 @@ updated: '2026-06-08'
 
 > [!warning] 争议与批评
 > - [[Argument_Rømer_2018_EPT|Rømer (2018, p.10)]] 指出 Bereiter 对 [[Karl Popper|Popper]] 的化简——将 World 3 缩减为"真理与非真理"——为 Hattie 的进一步误读打开了大门，后者最终将 World 3 的客观性完全塌缩为 World 2 的主观学习。Hattie (2015) 在此误读基础上将表层/深层/建构性学习映射到 Popper 三个世界，形成 [[Visible Learning|VL]] 的[[Epistemology|认识论]]框架
-> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从较温和的内部修正角度指出，Hattie 借 Bereiter/Popper 得到的三类知识，与 Bloom 修订版四类知识、SOLO 模型之间的对应关系并不清楚；因此需要转向[[Dynamic Knowledge and Learning Model]]，用一阶到四阶知识说明不同知识形式之间的动态关系([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.30–32]])
+> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从较温和的内部修正角度指出，Hattie 借 Bereiter/Popper 得到的三类知识，与 Bloom 修订版四类知识、[[SOLO Taxonomy|SOLO]] 模型之间的对应关系并不清楚；因此需要转向[[Dynamic Knowledge and Learning Model]]，用一阶到四阶知识说明不同知识形式之间的动态关系([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.30–32]])

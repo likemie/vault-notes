@@ -6,7 +6,7 @@ aliases:
 summary: "外国范例进入国内教育话语之初的引入者及其动机与策略，区别于政策实施后的后转移能动性，由 Rappleye (2006) 在响应 Steiner-Khamsi 时明确提出"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Externalization]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Praxis]]"
   - "[[Analytic Framework]]"
 related_theories: []
 related_methods: []
@@ -60,7 +61,7 @@ updated: '2026-05-28'
 ## 概念演变
 
 > [!note]- 概念演变
-> - **Steiner-Khamsi (2000)** — 虽然未使用"前转移能动性"这一术语，但明确提出了这一研究方向："转移为什么发生？转移是如何实施的？谁是转移的行动者？"（p. 164，引自 Rappleye, 2006, p. 227）。她还警告："除非我们认识到教育转移可以涉及话语而非实践，否则我们不太可能察觉这些国际流动"（p. 181，引自 p. 227）。
+> - **Steiner-Khamsi (2000)** — 虽然未使用"前转移能动性"这一术语，但明确提出了这一研究方向："转移为什么发生？转移是如何实施的？谁是转移的行动者？"（p. 164，引自 Rappleye, 2006, p. 227）。她还警告："除非我们认识到教育转移可以涉及话语而非[[Praxis|实践]]，否则我们不太可能察觉这些国际流动"（p. 181，引自 p. 227）。
 > - **Phillips & Ochs (2003, 2004a)** — 四阶段模型在"实施"和"内化/[[Going Native|本土化]]"阶段涵盖了后转移能动性（抵制、适应），但未对[[Cross-National Attraction|跨国吸引力]]阶段的能动性进行单独理论化。Phillips & Ochs 自己也承认仍在"寻找一个充分描述情境因素的框架"（2004a, p. 782，引自 p. 226）。
 > - **[[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]** — 在全球化三项新要求的第一项中明确提出"前转移能动性"这一分析类别，并将其纳入跨国吸引力情境概念地图——改革行动者和抵制行动者的双层分类，加上四种"火花"（危机化、合法化、审慎、美化）的动机分类，共同构成了前转移能动性的[[Analytic Framework|分析框架]]（pp. 227–233）。
 

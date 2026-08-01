@@ -9,7 +9,7 @@ title: "Argument_Hattie_2010_NZJES"
 argument_key: "Argument_Hattie_2010_NZJES"
 argument_display_title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Critic and Conscience of Society]]"
+  - "[[Praxis]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
   - "[[Analytic Framework]]"
@@ -67,7 +68,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 以新西兰《教育法》赋予学者的"[[Critic and Conscience of Society]]"法定角色为制度基础，以 Emerson (1837) 和 Said (1993) 的公共知识分子论述为思想资源。Hattie 的实践框架为三条自我约束原则：（1）仅在专业领域内发言；（2）基于自身阅读和对研究的解读；（3）始终以展示尊重和谨慎来提升专业(p.86)。
+> 以新西兰《教育法》赋予学者的"[[Critic and Conscience of Society]]"法定角色为制度基础，以 Emerson (1837) 和 Said (1993) 的公共知识分子论述为思想资源。Hattie 的[[Praxis|实践]]框架为三条自我约束原则：（1）仅在专业领域内发言；（2）基于自身阅读和对研究的解读；（3）始终以展示尊重和谨慎来提升专业(p.86)。
 
 ## 研究方法
 

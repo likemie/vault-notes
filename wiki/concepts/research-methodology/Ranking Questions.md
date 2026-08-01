@@ -8,7 +8,7 @@ aliases:
 summary: "要求受访者在选项之间进行比较并确定优先级的题型，操作在零和模型上——提高一项的排位意味着另一项下降，适用于需要判断相对权重而非绝对取值的场景"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Fitness for Purpose]]"
   - "[[Conatus]]"
+  - "[[Praxis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 confidence: medium
@@ -123,7 +124,7 @@ updated: 2026-07-21
 >
 > 排序结果完全相同（努力第一、家庭第二、享受第三），但实际分数差异巨大——受访者 A 认为这些因素远比受访者 B 认为的重要。如果 A 的分数随时间分别下降 2/1/3 分，排序依然不变。**排序对变化不敏感**。
 >
-> **选择建议** 如果研究者希望受访者在变量之间做比较并赋予相对权重，排序是合适的。如果希望受访者对各个独立变量分别赋值，则评分更合适。实践中许多[[Rating Scale|评定量表]]的结果也能让研究者将项目排出顺序，但评分可能导致多个变量得分并列——这可能是巧合，也可能是受访者对题项不敏感，只是快速逐项勾选中间框（如五点量表中的 3）（Ovadia, 2004, p. 405）。
+> **选择建议** 如果研究者希望受访者在变量之间做比较并赋予相对权重，排序是合适的。如果希望受访者对各个独立变量分别赋值，则评分更合适。[[Praxis|实践]]中许多[[Rating Scale|评定量表]]的结果也能让研究者将项目排出顺序，但评分可能导致多个变量得分并列——这可能是巧合，也可能是受访者对题项不敏感，只是快速逐项勾选中间框（如五点量表中的 3）（Ovadia, 2004, p. 405）。
 
 ---
 

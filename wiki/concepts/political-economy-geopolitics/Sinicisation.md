@@ -7,7 +7,7 @@ aliases:
 summary: "以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - theme/national-identity
   - paradigm/critical
 related_concepts:
+  - "[[Praxis]]"
   - "[[Construct]]"
   - "[[Bildung]]"
   - "[[Wuhu Ruhua]]"
@@ -48,7 +49,7 @@ updated: 2026-05-25
 ## 定义
 
 > [!info]
-> 汉化（Sinicisation）指以汉文化传统为核心重新界定"中国性"（Chinese-ness），并通过制度性手段将非汉民族群体纳入这一文化框架的过程。在中国语境中，这一过程体现为将汉族的语言、历史叙事和文化规范确立为国家的标准，同时将少数民族的语言、宗教和文化实践边缘化或压制([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.62–64]])。
+> 汉化（Sinicisation）指以汉文化传统为核心重新界定"中国性"（Chinese-ness），并通过制度性手段将非汉民族群体纳入这一文化框架的过程。在中国语境中，这一过程体现为将汉族的语言、历史叙事和文化规范确立为国家的标准，同时将少数民族的语言、宗教和文化[[Praxis|实践]]边缘化或压制([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.62–64]])。
 
 > [!quote]
 > 这一汉化过程"[[Construct|constructs]] an idealised notion of 'Chinese' culture, focusing upon Han traditions, as the embodiment of both Chinese ancient 'civilization' and 'modernity'"（O'Brien & Brown, 2022, p.278，引自 [[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.64]]）。
@@ -59,7 +60,7 @@ updated: 2026-05-25
 > - **语言统一** 以普通话替代少数民族语言作为教育媒介，压缩地方语言的使用空间([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.61–62]])。
 > - **历史叙事重构** 课程中的历史叙事日益以汉人为中心，非汉群体被描绘为汉文化的接受者而非平等参与者([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.62, 67]])。
 > - **文化同化** 将汉传统等同于"中华文化"，将少数民族文化置于低等、落后或博物馆化的位置([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.62]])。
-> - **宗教边缘化** 在无神论国家框架下，非汉群体的宗教信仰和实践在教育系统中被系统性地排除或贬抑。
+> - **宗教边缘化** 在无神论国家框架下，非汉群体的宗教信仰和[[Praxis|实践]]在教育系统中被系统性地排除或贬抑。
 
 ## 概念演变
 
@@ -87,7 +88,7 @@ updated: 2026-05-25
 ## 实证发现
 
 > [!success]
-> 在新疆，汉化表现为系统性地压制维吾尔语使用和宗教实践，强制被拘留者学习儒家经典（如《三字经》）和普通话（Finley 2019，引自 Yu & Zhao, 2024, p.64）。
+> 在新疆，汉化表现为系统性地压制维吾尔语使用和宗教[[Praxis|实践]]，强制被拘留者学习儒家经典（如《三字经》）和普通话（Finley 2019，引自 Yu & Zhao, 2024, p.64）。
 >
 > 在学校课程中，教科书对非汉政权的叙述强调其精英"学习汉人方式"、研习儒家思想。典型的叙述模式是将非汉文化的改革描绘为以儒家学问为基础抛弃落后政治文化实践的过程([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.67–68]])。
 >

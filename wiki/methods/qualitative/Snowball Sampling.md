@@ -13,7 +13,7 @@ summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Rich and Thick Description]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Praxis]]"
   - "[[School Choice]]"
   - "[[Sampling Frame]]"
   - "[[Champ]]"
@@ -135,7 +136,7 @@ updated: 2026-07-11
 
 在面临[[Sensitive Research|敏感研究]]对象或强力制度[[Gatekeepers|守门人]]的双重阻碍时，滚雪球抽样通常被[[Transfer Translation Transformation|转译]]为网络化操作策略：
 
-> [!case] Teng & Wang 的教师中介转介实践
+> [!case] Teng & Wang 的教师中介转介[[Praxis|实践]]
 > 在中国县域城镇化[[School Choice|择校]]迁移的调查中，由于进城随迁陪读家长数量庞大且缺乏统一的官方[[Sampling Frame|抽样框]]，且部分农村家长对外部调查者存在防御心理。研究者采取了**教师中介转介**策略。首先，在 G County 选定的 12 所城乡公立学校中自愿招募部分城乡骨干教师作为初始种子节点（brokers）。通过这些教师的声誉桥接与信任引荐，成功招募并分类滚雪球出 128 名具有代表性的农村家庭访谈样本（包括县城陪读、镇区陪读及乡村非陪读家庭）。这一实践展示了在缺乏制度化抽样框时，如何利用特定[[Champ|场域]]内的关键行动者来安全、高效地获取信任累积与样本拓展。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 305)]]
 
 > [!case] Morrison 的非正式网络化绕过实践
@@ -191,4 +192,4 @@ updated: 2026-07-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025, p. 305)]] — 招募公立学校教师作为转介起点（种子），通过滚雪球抽样获取进城[[Peidu|陪读]]与留守乡村的农村家庭访谈样本。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统介绍滚雪球抽样、受访者驱动抽样和声誉滚雪球，并分析了 Browne (2005) 和 Heckathorn (1997, 2002) 的系统偏差。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 将网络化作为特殊群体抽样策略中应用最广的一种，深入讨论其在绕过[[Gatekeepers|守门人]]方面的操作实践（Morrison, 2006），以及同质性偏差、互惠性与传递性限制。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 将网络化作为特殊群体抽样策略中应用最广的一种，深入讨论其在绕过[[Gatekeepers|守门人]]方面的操作[[Praxis|实践]]（Morrison, 2006），以及同质性偏差、互惠性与传递性限制。

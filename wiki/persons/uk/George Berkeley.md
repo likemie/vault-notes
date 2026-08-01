@@ -7,7 +7,7 @@ summary: "爱尔兰哲学家与克洛因主教，经验论—唯心论代表人�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/learning
   - theme/metaphysics
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Abstract]]"
   - "[[Causality]]"
   - "[[Positivism]]"
@@ -56,7 +57,7 @@ updated: '2026-06-08'
 > - **1685** — 出生于爱尔兰基尔肯尼（Kilkenny）的一个英格兰裔新教徒家庭
 > - **1700–1707** — 就读于都柏林三一学院（Trinity College Dublin），学习洛克、[[René Descartes|笛卡尔]]和牛顿哲学
 > - **1707–1713** — 在三一学院任研究员，期间出版《视觉新论》（1709）和《人类知识原理》（1710），提出其唯心论哲学的核心论点
-> - **1713** — 出版《海拉斯与斐洛努斯的三篇对话》（*Three Dialogues between Hylas and Philonous*），以对话形式生动阐述其哲学。Li 在第 2 章中引用了此文本([[Argument_Li_2012_Cambridge|Li, 2012, p.30 脚注 26]])
+> - **1713** — 出版《海拉斯与斐洛努斯的三篇[[Dialogue in Education|对话]]》（*Three Dialogues between Hylas and Philonous*），以对话形式生动阐述其哲学。Li 在第 2 章中引用了此文本([[Argument_Li_2012_Cambridge|Li, 2012, p.30 脚注 26]])
 > - **1713–1721** — 两次访问欧洲大陆，结交欧洲学者
 > - **1724** — 被任命为德瑞（Derry）教长
 > - **1728–1731** — 前往北美，计划在百慕大创办学院以教育美洲原住民和殖民者。英国政府承诺的拨款从未兑现，计划失败后返回英国。加州大学伯克利分校即以其姓氏命名
@@ -70,7 +71,7 @@ updated: '2026-06-08'
 > [!abstract]
 > - Berkeley, G. (1709). *An Essay Towards a New Theory of Vision*. — 论证我们所"看见的"不是外部物体的属性，而是我们习得的视觉标记，为其唯心论奠定经验基础（待核）
 > - Berkeley, G. (1710). *A Treatise Concerning the Principles of Human Knowledge*. — 系统阐述其形而上学核心论题——物质实体不存在，存在即被感知（待核）
-> - Berkeley, G. (1713/2006). *Three Dialogues between Hylas and Philonous*. Prentice Hall. — 以[[Plato|柏拉图]]式对话的形式向普通读者辩护其唯心论。Li 在第 2 章中引用此文本([[Argument_Li_2012_Cambridge|Li, 2012, p.30 脚注 26]])
+> - Berkeley, G. (1713/2006). *Three Dialogues between Hylas and Philonous*. Prentice Hall. — 以[[Plato|柏拉图]]式[[Dialogue in Education|对话]]的形式向普通读者辩护其唯心论。Li 在第 2 章中引用此文本([[Argument_Li_2012_Cambridge|Li, 2012, p.30 脚注 26]])
 > - Berkeley, G. (1744). *Siris: A Chain of Philosophical Reflexions and Inquiries*. — 晚期著作，讨论松脂水（tar-water）的药用价值，同时包含其成熟的形而上学思辨（待核）
 
 ---

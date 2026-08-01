@@ -7,7 +7,7 @@ aliases:
 summary: "以排名、指标化和审计文化为基础设施的高等教育竞争逻辑，将大学重塑为争夺资源、声誉和地位的市场参与者。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 - theme/neoliberalism
 - theme/governmentality
 related_concepts:
+  - "[[Praxis]]"
   - "[[Performativity of Measurement]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Global Universities Rankings]]"
@@ -50,7 +51,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info]
-> 高等教育中的竞争力（competitiveness）是指一种重新组织大学行为的地缘政治装置（geopolitical apparatus）：通过排名、指标化、审计文化和证据导向等实践，将大学转化为彼此竞争的市场参与者，从而改变大学的制度惯例、使命定位和治理逻辑([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.219–220]])。
+> 高等教育中的竞争力（competitiveness）是指一种重新组织大学行为的地缘政治装置（geopolitical apparatus）：通过排名、指标化、审计文化和证据导向等[[Praxis|实践]]，将大学转化为彼此竞争的市场参与者，从而改变大学的制度惯例、使命定位和治理逻辑([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.219–220]])。
 
 竞争力的运作不依赖传统的强制手段，也不仅仅关乎"谁更好"的比较——它更根本的意义在于通过 [[Performativity of Measurement|测量的生产性]] 重新定义"什么是好的大学"以及"什么是好的学生"，从而重塑高等教育的目标和优先事项。
 
@@ -60,7 +61,7 @@ updated: 2026-07-08
 
 ### 排名与指标化作为竞争基础设施
 
-Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地缘政治中，"连接性"（connectivity）成为关键资源。大学通过排名和指标化实践被置于竞争关系之中——这些实践不仅衡量已有的差异，更是**创造**差异、使竞争成为可能的基础设施([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])。Erkkilä 和 Piironen（2020, p.39）的研究表明："[[Global Universities Rankings|全球大学排名]]帮助将全球的竞争想象转移到区域和地方层面"——排名提供了使政策干预成为可能的数据和评估标准。
+Moisio（2018）指出，在[[Knowledge-Based Economy|知识经济]]的全球地缘政治中，"连接性"（connectivity）成为关键资源。大学通过排名和指标化[[Praxis|实践]]被置于竞争关系之中——这些实践不仅衡量已有的差异，更是**创造**差异、使竞争成为可能的基础设施([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]])。Erkkilä 和 Piironen（2020, p.39）的研究表明："[[Global Universities Rankings|全球大学排名]]帮助将全球的竞争想象转移到区域和地方层面"——排名提供了使政策干预成为可能的数据和评估标准。
 
 > [!example]
 > 一所大学的校长在考虑战略规划时，不只需要思考"我们在做什么"，更需要思考"我们在排名中的位置以及如何提升"。THE 或 QS 排名的指标体系——论文引用率、国际学生比例、师生比——在描述大学的同时也规定了大学应该追求什么。这就是竞争力装置的双重运作：评估标准同时是行为规范。

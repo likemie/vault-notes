@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - theme/evidence-informed-practice
   - theme/teacher-professional-learning
 related_concepts:
+  - "[[Praxis]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Document]]"
   - "[[Knowledge Mobilisation]]"
@@ -47,7 +48,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> EBTN 的目标是促进教育领域利益相关者之间分享证据和想法。它提供关于证据本位实践的信息，并为实践者提供培训([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> EBTN 的目标是促进教育领域利益相关者之间分享证据和想法。它提供关于证据本位[[Praxis|实践]]的信息，并为实践者提供培训([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 时间线
 
@@ -57,12 +58,12 @@ updated: 2026-05-23
 ## 实施情况
 
 > [!example]
-> EBTN 的运作重点是横向交流：教师、大学研究者和其他教育相关者通过网络分享证据、想法和实践培训，而不是由单一清算中心向学校单向发布评级([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> EBTN 的运作重点是横向交流：教师、大学研究者和其他教育相关者通过网络分享证据、想法和[[Praxis|实践]]培训，而不是由单一清算中心向学校单向发布评级([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 效果与评价
 
 > [!success]
-> EBTN 展示了 [[Evidence-Informed Practice|证据知情实践]] 中实践社群的一面：研究证据需要进入教师之间的交流和专业学习，才能从[[Document|文献]]或数据库转化为课堂行动([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
+> EBTN 展示了 [[Evidence-Informed Practice|证据知情实践]] 中[[Praxis|实践]]社群的一面：研究证据需要进入教师之间的交流和专业学习，才能从[[Document|文献]]或数据库转化为课堂行动([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 争议与评论
 
@@ -74,5 +75,5 @@ updated: 2026-05-23
 > [!tip]-
 > - [[Evidence-Informed Practice]] — EBTN 体现教师通过社群接触和使用证据。
 > - [[Knowledge Mobilisation]] — EBTN 通过网络交流和培训推动研究知识流动。
-> - [[EU Evidence-Informed Education Policy Initiatives]] — EBTN 属于欧洲证据传播生态中的实践者网络。
+> - [[EU Evidence-Informed Education Policy Initiatives]] — EBTN 属于欧洲证据传播生态中的[[Praxis|实践]]者网络。
 

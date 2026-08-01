@@ -5,7 +5,7 @@ aliases:
 summary: "把责任理解为对他者和共同世界保持敏感并具备回应能力的伦理概念，是后人类主义关系伦理的重要核心"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,10 +18,12 @@ related_concepts:
   - "[[Sympoiesis]]"
   - "[[Hypothesis]]"
   - "[[Ontology]]"
+  - "[[Praxis]]"
   - "[[Epoché]]"
   - "[[Posthumanism]]"
   - "[[Humosity]]"
   - "[[Haraway's SF]]"
+  - "[[Dialogue in Education]]"
   - "[[Learning Analytics]]"
 related_theories: []
 related_methods: []
@@ -56,7 +58,7 @@ updated: 2026-07-08
 ## 核心要素
 
 > [!abstract] 核心要素
-> - **能力而非义务** response-ability 不是被分配的职责，而是需要经由实践培养的"感知-回应"能力([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])
+> - **能力而非义务** response-ability 不是被分配的职责，而是需要经由[[Praxis|实践]]培养的"感知-回应"能力([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])
 > - **跨物种伦理** response-ability 不限于人类之间的关系——它延伸至"critters"（Haraway 对所有生物的统称）。学会回应蜜蜂的需求和学会回应邻居的需求是同一能力的两种表现
 > - **与自我[[Epoché|悬置]]的关联** [[Argument_Amos_2022_Springer|Amos (2022, p.63)]] 指出，培育 response-ability 需要"悬置自我"——"通过有助于发展非自我中心的习惯的训练，确认自发慈悲和非二元性"。你不能同时"以自我为中心"和"对他者有回应能力"
 >
@@ -67,12 +69,12 @@ updated: 2026-07-08
 > - [[Posthumanism]] — response-ability 是后人类主义伦理的核心概念：去人类中心之后的伦理不再是"人类如何对待其他存在"，而是"各种存在如何彼此回应"
 > - [[Sympoiesis]] — response-ability 是 sympoiesis 的伦理表达："共同制造"要求"共同回应"
 > - [[Humosity]] — response-ability 的[[Ontology|本体论]]基础：只有接受人类并非宇宙中心（而只是腐殖质循环中的一环），"回应他者需求"才成为根本伦理要求，而非"强者对弱者的施舍"
-> - [[Haraway's SF|SF (Haraway)]] — Haraway 实践 response-ability 的方法论：通过讲故事和编织关系模式，发展出感知和回应他者（包括非人类他者）需求的能力
+> - [[Haraway's SF|SF (Haraway)]] — Haraway [[Praxis|实践]] response-ability 的方法论：通过讲故事和编织关系模式，发展出感知和回应他者（包括非人类他者）需求的能力
 >
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Amos 注意到一个教育的悖论：培育 response-ability 所需的"[[Epoché|悬置]]自我"训练——如社区菜园、跨代对话、生态实践——恰恰是当前以竞争和个体成就为核心的教育系统所无法容纳的。与之形成对比的是 [[Learning Analytics]] 等技术方案——它们以数据追踪和算法优化来"增强"学习，但 Amos 认为"通过理性干预、自我优化和规范灌输"无法培养关爱心态——"这些正是问题的一部分"([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])
+> - Amos 注意到一个教育的悖论：培育 response-ability 所需的"[[Epoché|悬置]]自我"训练——如社区菜园、跨代[[Dialogue in Education|对话]]、生态[[Praxis|实践]]——恰恰是当前以竞争和个体成就为核心的教育系统所无法容纳的。与之形成对比的是 [[Learning Analytics]] 等技术方案——它们以数据追踪和算法优化来"增强"学习，但 Amos 认为"通过理性干预、自我优化和规范灌输"无法培养关爱心态——"这些正是问题的一部分"([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])
 >
 

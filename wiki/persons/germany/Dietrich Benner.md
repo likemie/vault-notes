@@ -7,7 +7,7 @@ summary: "德国教育学家，一般教育学代表人物和 Bildung/Erziehung 
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 5
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -18,6 +18,8 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Hypothesis]]"
+  - "[[Democratic Education]]"
+  - "[[Dialogue in Education]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
@@ -70,5 +72,5 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Bildung]] — Benner 继承并发展了德国 Bildung 传统，将其与 Dewey 的民主教育思想进行对话
+> - [[Bildung]] — Benner 继承并发展了德国 Bildung 传统，将其与 Dewey 的[[Democratic Education|民主教育]]思想进行[[Dialogue in Education|对话]]
 > - 修正版教学三角 — 为理解[[Evidence-Based Education|证据本位教育]]改革提供了理论框架，[[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] 以此解释新西兰和澳大利亚从传统教育模型向证据本位模型的转变（详见 [[Argument_Sarbiewska_2019_JSR]]）

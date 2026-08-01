@@ -7,7 +7,7 @@ summary: "多义词：量化实验中个体作为自身控制的重复测量设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Dependent Variable]]"
   - "[[Definition of Terms]]"
+  - "[[Praxis]]"
   - "[[Heterogeneity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[External Validity]]"
@@ -129,7 +130,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 
 > [!method-fit] 适用判断
 > - **个体或小群体干预评估** 当研究聚焦于个体行为变化而非群体平均效应时([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])
-> - **特殊教育领域** SCD 在特殊教育中被广泛用于识别循证实践（Horner et al., 2005）
+> - **特殊教育领域** SCD 在特殊教育中被广泛用于识别循证[[Praxis|实践]]（Horner et al., 2005）
 > - **行为[[Intervention Research|干预研究]]** 适用于需要密集、纵向测量的行为改变研究
 > - **难以进行大规模 [[Randomised Controlled Trials|RCT]] 的情境** 当目标人群较小或[[Heterogeneity|异质性]]较高时
 > - **证据清算中心审查**[[What Works Clearinghouse]] 的主题特定综述协议把 SCD 列为可纳入的影响研究设计之一；[[Home Visiting Evidence of Effectiveness]] 也为 single case designs 设置单独标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
@@ -147,7 +148,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 > - **推广性挑战** 评估 SCD 的[[External Validity|外部效度]]比评判[[Internal Validity|内部效度]]更复杂——研究者进行证据综合时可能不知道信息消费者希望推广到何种情境([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.462–463]])
 > - **[[Threats to External Validity|外部效度威胁]]多样** 多重处理干扰、跨情境推广性、跨被试推广性、跨结果推广性(Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])
 > - **普遍信念偏见** 存在一种普遍（但错误）的信念认为 SCD 证据不能推广，尽管事实上它可以(Barlow et al., 2009; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.467]])
-> - **单一研究不足以支撑[[Theories of Policy Change|政策变革]]** 一项 SCD 研究不太可能产生足够的实证证据来支持政策变革，即使它可能推动局部实践的调整([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])
+> - **单一研究不足以支撑[[Theories of Policy Change|政策变革]]** 一项 SCD 研究不太可能产生足够的实证证据来支持政策变革，即使它可能推动局部[[Praxis|实践]]的调整([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])
 > - **5-3-20 阈值的任意性**[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, pp.466–467)]] 坦承 5-3-20 标准"在某种程度上是任意的"（somewhat arbitrary），基于专家判断和逻辑，可能过于严格或过于宽松，需要在实践中检验和修订
 
 ## 相关理论与方法

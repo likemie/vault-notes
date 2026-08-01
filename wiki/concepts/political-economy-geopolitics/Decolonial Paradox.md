@@ -8,7 +8,7 @@ aliases:
 summary: "指在非西方威权情境中，部分去殖民学者因过度审查社会制度与自由法治的西方殖民起源（pedigree），而在客观上否定并剥夺了本土人（native agency）选择和保留这些制度的权利，与威权统治者在文化相对主义上达成合流的理论矛盾"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Hegemony]]"
+  - "[[Praxis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Sinicisation]]"
   - "[[Pride in Learning]]"
@@ -107,7 +108,7 @@ updated: '2026-07-13'
 
 ### 命题二　去殖民悖论在课程重组中表现为以“清除殖民遗毒”为掩护推行彻底的思想控制，将政治参与转为忠诚表演
 
-> [!concept-lens] 实践机制
+> [!concept-lens] [[Praxis|实践]]机制
 > 剖析官方如何以反殖民的进步话语作为修辞包装，在学校课程中实施全方位的臣民化改造，将课程异化为[[Disciplina and Doctrina|规训]]工具。
 
 > [!claim] Vickers, 2024

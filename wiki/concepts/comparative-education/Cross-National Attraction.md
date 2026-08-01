@@ -6,7 +6,7 @@ aliases:
 summary: "政策借用过程中外部教育经验之所以显得有吸引力的阶段性机制，涉及结构条件、行动者动机以及不同类型的借用火花"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Praxis]]"
   - "[[Policy Entrepreneur]]"
   - "[[Realism in International Relations]]"
   - "[[Reference Society]]"
@@ -45,7 +46,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!info] 定义
-> 跨国吸引力（Cross-National Attraction）是 Phillips & Ochs [[Policy Borrowing|政策借用]]四阶段模型中的第一阶段，指一国的教育政策、实践或话语引起他国关注并被认为具有参照价值的过程。它启动整个政策借用循环，是教育转移的初始动力来源。
+> 跨国吸引力（Cross-National Attraction）是 Phillips & Ochs [[Policy Borrowing|政策借用]]四阶段模型中的第一阶段，指一国的教育政策、[[Praxis|实践]]或话语引起他国关注并被认为具有参照价值的过程。它启动整个政策借用循环，是教育转移的初始动力来源。
 >
 > [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 进一步将此概念理论化，指出"跨国吸引力"一词内在地将单一民族国家视为行动者，但现实中吸引力由多元行动者——民选官员、[[Policy Entrepreneur|政策企业家]]、智库、媒体、超国家组织等——在具体教育改革辩论中生产和调动，而非由抽象的"国家"整体产生。([[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 229]])
 >
@@ -128,7 +129,7 @@ updated: 2026-07-13
 > [!abstract] 吸引力"火花"（Sparks of Attraction）
 > 四种使用外国范例的动机，按修辞力度从激烈到克制排列（Ochs, 2005，引自 [[Argument_Rappleye_2006_RCIE|Rappleye, 2006, p. 233]]）：
 >
-> 1. **丑闻化（Scandalize）** — 用外国范例使本国政策与实践蒙羞，证明改革的必要性。修辞最激烈，通常由处于改革辩论"前线"的行动者使用。例：政治家可能为了政治利益而丑闻化教育（Halpin & Troyna, 1995 提出此假设）
+> 1. **丑闻化（Scandalize）** — 用外国范例使本国政策与[[Praxis|实践]]蒙羞，证明改革的必要性。修辞最激烈，通常由处于改革辩论"前线"的行动者使用。例：政治家可能为了政治利益而丑闻化教育（Halpin & Troyna, 1995 提出此假设）
 > 2. **合法化（Legitimate）** — 用外国范例为国内已决定的改革方案提供正当性。修辞较克制。例：学者可能使用较温和的修辞来合法化潜在改革（如 Prais & Wagner, 1986）
 > 3. **警示（Caution）** — 用外国范例警告不要进行某种改革。例：Phillips (1987) 用德国中学体系的教训警示英国不要过度借鉴
 > 4. **颂扬（Glorify）** — 通过与其他国家的比较来颂扬本国的现行教育。例：抵制改革者通过颂扬本国教育传统来证明"不需要改变"

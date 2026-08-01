@@ -6,7 +6,7 @@ summary: "古希腊哲学家，西方批判性思维的化身，以苏格拉底�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ tags:
 - theme/critical-thinking
 - theme/learning
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Examined Life]]"
   - "[[Sage]]"
   - "[[Critical Thinking]]"
@@ -42,7 +43,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> 苏格拉底（469–399 BCE）是古希腊哲学家，未留下任何著作——其思想通过学生[[Plato|柏拉图]]的对话录为人所知([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。Li 将苏格拉底视为西方学习传统中"[[Examined Life|省察的生活]]"和"心智及其奇迹"两个主题的最重要人格化体现——他不仅是"叮咬富人和权贵的牛虻"，也是"执行审慎判断与明智评估的[[Sage|圣人]]"，是西方[[Critical Thinking|批判性思维]]的[[Avatar|化身]]([[Argument_Li_2012_Cambridge|Li, 2012, p.33]])。
+> 苏格拉底（469–399 BCE）是古希腊哲学家，未留下任何著作——其思想通过学生[[Plato|柏拉图]]的[[Dialogue in Education|对话]]录为人所知([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])。Li 将苏格拉底视为西方学习传统中"[[Examined Life|省察的生活]]"和"心智及其奇迹"两个主题的最重要人格化体现——他不仅是"叮咬富人和权贵的牛虻"，也是"执行审慎判断与明智评估的[[Sage|圣人]]"，是西方[[Critical Thinking|批判性思维]]的[[Avatar|化身]]([[Argument_Li_2012_Cambridge|Li, 2012, p.33]])。
 
 ---
 
@@ -51,7 +52,7 @@ updated: '2026-06-08'
 > [!note]-
 > - **469 BCE** — 出生于雅典
 > - **399 BCE** — 被雅典陪审团以"腐蚀青年"和"不信城邦之神"的罪名判处死刑。他在狱中有机会越狱但拒绝——"平静而勇敢地死去，按要求喝下毒药"([[Argument_Li_2012_Cambridge|Li, 2012, p.32]])
-> - 一生未留下任何著作——其形象完全通过[[Plato|柏拉图]]对话录得以保存。Li 注：此处的苏格拉底是"柏拉图的苏格拉底"（Platonic Socrates），与此相对的是阿里斯托芬在喜剧中描绘的另一个苏格拉底([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])
+> - 一生未留下任何著作——其形象完全通过[[Plato|柏拉图]][[Dialogue in Education|对话]]录得以保存。Li 注：此处的苏格拉底是"柏拉图的苏格拉底"（Platonic Socrates），与此相对的是阿里斯托芬在喜剧中描绘的另一个苏格拉底([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])
 > - Li 引 Hecht 指出，苏格拉底和耶稣并列为西方历史上最具创新性的人物代表([[Argument_Li_2012_Cambridge|Li, 2012, p.164 脚注 2]])
 
 ---
@@ -68,7 +69,7 @@ updated: '2026-06-08'
 > [!tip]-
 > 苏格拉底的追问方法有三个特征([[Argument_Li_2012_Cambridge|Li, 2012, pp.31-32]])：
 
-1. **从例子到定义的追问** 在优绪弗洛对话中，当优绪弗洛以"我正在起诉我父亲"作为"虔敬"的回答时，苏格拉底拒绝接受——"我不是让你告诉我一两个虔敬的行为，而是那个使所有虔敬行为成为虔敬的**形式本身（form itself）**"([[Argument_Li_2012_Cambridge|Li, 2012, p.32]])
+1. **从例子到定义的追问** 在优绪弗洛[[Dialogue in Education|对话]]中，当优绪弗洛以"我正在起诉我父亲"作为"虔敬"的回答时，苏格拉底拒绝接受——"我不是让你告诉我一两个虔敬的行为，而是那个使所有虔敬行为成为虔敬的**形式本身（form itself）**"([[Argument_Li_2012_Cambridge|Li, 2012, p.32]])
 
 2. **执着与无情** 苏格拉底频频提出尖锐问题——"不关心优绪弗洛被逼到墙角会有何感受"——"他一步一步地巧妙推进，不给优绪弗洛任何余地，只能同意他的观点"([[Argument_Li_2012_Cambridge|Li, 2012, p.32]])
 
@@ -94,7 +95,7 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning]
-> - 苏格拉底的"无情"追问方式是否具有普适性？在优绪弗洛对话中他"不关心优绪弗洛的感受"的对话风格，在其他文化中可能被视为冒犯而非[[Effective Teaching|有效教学]]——这一批评隐含在 Li 的比较框架中([[Argument_Li_2012_Cambridge|Li, 2012, pp.51-53]])
+> - 苏格拉底的"无情"追问方式是否具有普适性？在优绪弗洛[[Dialogue in Education|对话]]中他"不关心优绪弗洛的感受"的对话风格，在其他文化中可能被视为冒犯而非[[Effective Teaching|有效教学]]——这一批评隐含在 Li 的比较框架中([[Argument_Li_2012_Cambridge|Li, 2012, pp.51-53]])
 > - "[[Plato|柏拉图]]的苏格拉底"与"历史上的苏格拉底"之间的区分是柏拉图研究中的经典难题——Li 承认了这一区分但选择以"柏拉图的苏格拉底"为讨论对象([[Argument_Li_2012_Cambridge|Li, 2012, p.27 脚注 1]])
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "确保研究工具在跨越文化边界时保持意义、相关性和测量对等性的效度类型，涉及emic/etic建构张力、回译等操作化技术，以及生态谬误等多层威胁的系统管理"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
+  - "[[Praxis]]"
   - "[[Response Bias]]"
   - "[[Research Utilization]]"
   - "[[Back Translation]]"
@@ -76,7 +77,7 @@ updated: 2026-06-23
 > [!challenges] 跨[[Cultural Validity|文化效度]]的主要威胁
 > - **未能将文化元素[[Operationalization|操作化]]** 停留在抽象"文化"层面，未能转化为具体可研究的[[Variable|变量]]
 > - **Emic/Etic 建构冲突** 采用谁的"文化"建构来操作化研究？研究者自身的还是参与者的？
-> - **错误因果归因** 将群体间差异归因于文化而非非文化因素——经济、人口统计、生物特征、气候、人格、宗教、教育实践等（Alexander, 2000; Matsumoto & Yoo, 2006）
+> - **错误因果归因** 将群体间差异归因于文化而非非文化因素——经济、人口统计、生物特征、气候、人格、宗教、教育[[Praxis|实践]]等（Alexander, 2000; Matsumoto & Yoo, 2006）
 > - **[[Ecological Fallacy|生态谬误]]（Ecological fallacy）** 将在聚合数据中发现的关系假定适用于个体——"[[Hypothesis|假设]]一个群体中的每个人表现出于群体整体相同的特征"（一种刻板印象形式）（Morrison, 2009: 62）
 > - **对等性问题（Equivalence）** 包括：概念对等性（项目对不同群体意义不同或无关）、心理对等性（源语言的心理学内涵在译文中变化）、意义对等性、测量对等性和语言对等性
 > - **[[Response Bias|回应偏差]]（Response bias）** 不同文化成员以系统不同方式回应：社会期望回应、"同意"偏好、避免或偏好量表极端类别；以及不同文化对"启动"（priming）的不同反应

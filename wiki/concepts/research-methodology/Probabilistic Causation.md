@@ -7,7 +7,7 @@ aliases:
 summary: "教育研究中因果性的一种刻画方式，主张因果关系是概率性的而非确定性的——原因提高效果发生的可能性而非保证效果发生"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Causal Processes]]"
+  - "[[Ways of Knowing]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
@@ -56,7 +57,7 @@ updated: 2026-06-17
 > | 维度 | 概率因果性 | 决定论因果性 |
 > |------|-----------|-------------|
 > | 因果关系的性质 | X 提高 Y 发生的可能性 | X 必然导致 Y |
-> | 认知方式 | 归纳推断 | 逻辑演绎 |
+> | [[Ways of Knowing\|认知方式]] | 归纳推断 | 逻辑演绎 |
 > | 确定性 | 不完全确定 | 100% 确定 |
 > | 对社会科学适用性 | 较高——承认多重因果、语境和不确定性 | 较低——过度简化了社会现实的复杂性 |
 > | 原因-效果关系 | 可能呈现非线性、不规则模式 | 通常预设线性、规则关系 |

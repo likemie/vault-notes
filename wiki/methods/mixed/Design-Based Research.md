@@ -10,7 +10,7 @@ summary: "以迭代循环为核心的研究方法论：在真实教育情境中�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Praxis]]"
   - "[[Research Question]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
@@ -78,7 +79,7 @@ Design-Based Research Collective (2003, p. 5) 和 Shavelson et al. (2003, p. 26)
 > - **迭代性（Iterative）** 多轮循环，每轮基于上一轮数据进行改进和精炼。
 > - **过程导向（Process Focused）** 关注干预的运作过程，而非仅关注输入-输出结果。
 > - **干预主义（Interventionist）** 涉及有意的、有计划的介入和改变。
-> - **协作性（Collaborative）** 理论家、设计者、实践者和使用者共同参与。
+> - **协作性（Collaborative）** 理论家、设计者、[[Praxis|实践]]者和使用者共同参与。
 > - **多层次性（Multileveled）** 同时关注设计、实施、使用和理论多个层面。
 > - **效用导向（Utility Oriented）** 产品必须在真实世界中可操作、可使用。
 > - **理论驱动（Theory Driven）** 干预基于理论主张，研究同时生成和检验理论（Cobb et al., 2003, p. 9）。
@@ -104,7 +105,7 @@ Design-Based Research Collective (2003, p. 8) 将其生成的知识概括为四�
 
 > [!feature] 设计研究生成的四类知识
 > - **探索新教学环境的可能性** 为创新的教与学环境开辟想象空间。
-> - **发展扎根于真实情境的教与学理论** 理论源于实践而非实验室。
+> - **发展扎根于真实情境的教与学理论** 理论源于[[Praxis|实践]]而非实验室。
 > - **积累关于设计的累积性知识** 每一次迭代都为后续设计提供可迁移的经验。
 > - **提升人类的创新能力** 通过设计研究培养设计思维和创新能力。
 

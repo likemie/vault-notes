@@ -4,15 +4,17 @@ aliases: ["引言（研究写作）", "研究引言", "scholarly introduction", 
 summary: "期刊论文或学位论文中为读者提供研究背景信息的第一部分文字，具有建立研究框架、创造读者兴趣、确立研究问题和触及受众四大功能"
 type: concept
 domain: "research-methodology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Document]]"
   - "[[Narrative Hook]]"
   - "[[Research Question]]"
+  - "[[Dialogue in Education]]"
+  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Purpose Statement]]"
@@ -49,8 +51,8 @@ Creswell & Creswell（2022, 第5章）指出引言需要同时履行四项功能
 
 1. **创造读者兴趣** 通过[[Narrative Hook|叙事钩子]]激发读者对主题的兴趣，让广泛受众能够理解研究的意义
 2. **确立[[Research Question|研究问题]]** 清晰传达引导研究需求的研究问题，使读者理解"为什么需要这项研究"
-3. **置于学术[[Document|文献]]语境** 将研究嵌入更大的学术对话之中，展示该研究与已有文献的关系
-4. **触及受众** 说明研究对不同受众群体（研究者、实践者、政策制定者）的重要意义
+3. **置于学术[[Document|文献]]语境** 将研究嵌入更大的学术[[Dialogue in Education|对话]]之中，展示该研究与已有文献的关系
+4. **触及受众** 说明研究对不同受众群体（研究者、[[Praxis|实践]]者、政策制定者）的重要意义
 
 > [!warning] 篇幅约束
 > 这些功能需要在短短几页的简洁段落中完成。引言承载着鼓励读者继续阅读的重任——如果一项研究开头就缺乏清晰的问题，读者可能会质疑其价值并放弃阅读。

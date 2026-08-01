@@ -8,15 +8,33 @@ aliases:
 summary: "问卷中用于捕捉回应程度和敏感性的测量工具，通过有序的多级选项将态度、感知或意见转化为可量化的数字，主要包括李克特量表、语义差异量表、瑟斯顿量表和格特曼量表"
 type: concept
 domain: "research-methodology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/measurement
   - method/questionnaire
   - method/attitude-scale
   - source/textbook
+related_concepts:
+  - "[[Questionnaire]]"
+  - "[[Likert Scale]]"
+  - "[[Semantic Differential]]"
+  - "[[Construct]]"
+  - "[[Hypothesis]]"
+  - "[[Praxis]]"
+  - "[[Reliability]]"
+  - "[[Halo Effect]]"
+  - "[[Inter-Rater Reliability]]"
+related_methods:
+  - "[[Survey Research]]"
+  - "[[Causal Modeling]]"
+  - "[[Pilot Testing]]"
+  - "[[Structured Observation]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 confidence: medium
 status: draft
 created: 2026-07-21
@@ -32,7 +50,7 @@ updated: 2026-07-23
 > [!concept-lens] 概念透镜
 > - **含义** 评定量表是一种态度测量工具，通过提供从低到高或从一端到另一端的**有序回应选项**，将受访者的主观判断转化为可比较的数值。它在二分类问题的简单性与开放题的丰富性之间取得平衡。
 > - **用途** 广泛应用于[[Survey Research|调查研究]]、心理学和教育研究，用于测量态度、信念、感知、满意度等潜在[[Construct|构念]]。评定量表使研究者能将测量与意见、数量与质量融合在一起。
-> - **边界** 评定量表产生的是**顺序数据**而非比率数据。评分4不表示是2的两倍感受强度。不能[[Hypothesis|假设]]类别间存在等距。将评定量表数据当作参数数据处理在统计上不被接受，尽管实践中大量存在违反这一规则的例子。
+> - **边界** 评定量表产生的是**顺序数据**而非比率数据。评分4不表示是2的两倍感受强度。不能[[Hypothesis|假设]]类别间存在等距。将评定量表数据当作参数数据处理在统计上不被接受，尽管[[Praxis|实践]]中大量存在违反这一规则的例子。
 
 > [!citation-card]- 关键表述
 > 评定量表是强大且有用的研究工具，然而研究者需要意识到其局限性。评分4既不表示是2的两倍强度，也不表示感受强度是两倍。数字对不同受访者有不同的含义。（pp. 131–132）

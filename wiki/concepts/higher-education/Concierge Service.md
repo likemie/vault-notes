@@ -9,7 +9,7 @@ aliases:
 summary: "产学合作中的一站式导航服务模式，通过为产业伙伴提供单一对接窗口来协调大学内部多个单位，降低产业方在大学的搜索和协调成本"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Boundary Spanner]]"
   - "[[Technology Transfer]]"
+  - "[[Praxis]]"
   - "[[Questionnaire]]"
 related_theories: []
 related_methods: []
@@ -66,7 +67,7 @@ updated: 2026-06-03
 ## 实证发现
 
 > [!success]
-> Boccanfuso & Hall（2025, pp.62–63, 67）的实证研究揭示了礼宾服务在实践中的核心地位：
+> Boccanfuso & Hall（2025, pp.62–63, 67）的实证研究揭示了礼宾服务在[[Praxis|实践]]中的核心地位：
 >
 > **在权限分类中的分布** 对 65 所 [[University Industry Demonstration Partnership|UIDP]] 成员大学的网站分析显示，中心办公室在八项产学活动中被归类为"礼宾"的总次数为 115 次——仅次于"导航者"（120 次），远高于"直接负责"（39 次）（pp.62–63）。
 >

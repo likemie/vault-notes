@@ -8,7 +8,7 @@ summary: "系统比较不同地区或国家教科书的质性分析方法，以�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Praxis]]"
   - "[[Imagined Community]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -121,7 +122,7 @@ updated: '2026-07-22'
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **意图课程偏误** 仅限于教科书呈现的“意图课程”，无法获知学校师生在面对安全红线或政治宣教时的课堂抗性与自我审查实践。
+> - **意图课程偏误** 仅限于教科书呈现的“意图课程”，无法获知学校师生在面对安全红线或政治宣教时的课堂抗性与自我审查[[Praxis|实践]]。
 > - **样本代表性局限** 当以单一套商业教科书代表整个特区或地区时（如 Xu 选用龄记中史教材，Vickers 选用 New Horizon 通识教材），研究结论面临“版本特异性”挑战，需在方法部分补充市场占有率和教材大纲合规性的典型性论证。
 > - **[[Coding in Qualitative Research|编码]]前理解偏误** 框架信息型编码由于初始依靠既有概念大纲，可能导致研究者忽略框架外的隐藏文本特征。需透明报告编码框架的修正和迭代过程以防范此偏误。
 > 
@@ -137,7 +138,7 @@ updated: '2026-07-22'
 > | [[Official Knowledge]] | 概念 | 理论基石，规定了教科书作为支配权力合法化自身意识形态的研究客体定位。 |
 > | [[Imagined Community]] | 概念 | 分析工具，支撑了教科书作为印刷资本主义和国家建构民族想象机制的解释路径。 |
 > | [[Coding in Qualitative Research]] | 前置方法 | 核心操作，为本方法的子句化切割和信息型归纳编码提供具体步骤。 |
-> | [[Triangulation]] | 补充方法 | 信度保障，通过多编码者信度检验和方法三角验证提升定性比较的确认性。 |
+> | [[Triangulation]] | 补充方法 | [[Reliability\|信度]]保障，通过多编码者信度检验和方法三角验证提升定性比较的确认性。 |
 > | [[Website Content Analysis]] | 替代/补充 | 补充方法，用于分析配合纸质教科书推行的教育局官方门户网站与多媒体宣教资源。 |
 
 ---
@@ -145,5 +146,5 @@ updated: '2026-07-22'
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Xu_2024_CE|Xu (2024)]] — 比较了中国大陆人教社版与香港龄记版初中中国历史教科书，运用子句切割与框架信息型归纳编码，揭示出大陆的“领土型”中国叙事与香港的“族裔文化型”中国叙事的范式对立。
-> - [[Argument_Vickers_2024_CE|Vickers (2024)]] — 纵向对比了 2020 年版香港高中通识科教材与 2021/2022 年版公民与社会发展科审查通过教材，实证解构了课程改革下国家安全、历史去殖民化与文化臣民化重构的四个维度表现。
+> - [[Argument_Xu_2024_CE|Xu (2024)]] — 比较了中国大陆人教社版与香港龄记版初中中国历史教科书，运用子句切割与框架信息型归纳[[Coding in Qualitative Research|编码]]，揭示出大陆的“领土型”中国叙事与香港的“族裔文化型”中国叙事的[[Paradigm|范式]]对立。
+> - [[Argument_Vickers_2024_CE|Vickers (2024)]] — 纵向对比了 2020 年版香港高中通识科教材与 2021/2022 年版[[Citizenship and Social Development|公民与社会发展科]]审查通过教材，实证解构了课程改革下国家安全、历史去殖民化与文化臣民化重构的四个维度表现。

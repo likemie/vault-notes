@@ -9,9 +9,9 @@ title: "Argument_Fredens_2015_Paideia"
 argument_key: "Argument_Fredens_2015_Paideia"
 argument_display_title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Fredens, K. (2015). Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]. Paideia, (9), 70–75."
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Praxis]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
   - "[[Conatus]]"
@@ -51,7 +52,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 书评评述 Hattie & Yates 合著 *Synlig læring og læringens anatomi*(Dafolo, 2014,即 *[[Visible Learning]] and the Science of How We Learn* 的丹麦语译本)，评估该书对丹麦教育实践的贡献与局限。
+> 书评评述 Hattie & Yates 合著 *Synlig læring og læringens anatomi*(Dafolo, 2014,即 *[[Visible Learning]] and the Science of How We Learn* 的丹麦语译本)，评估该书对丹麦教育[[Praxis|实践]]的贡献与局限。
 
 ## 理论框架
 

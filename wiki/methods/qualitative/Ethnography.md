@@ -10,7 +10,7 @@ summary: "一种源自人类学的质性研究设计，要求研究者在自然�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 53
+method_related_count: 55
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Causality]]"
+  - "[[Praxis]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
@@ -28,6 +29,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
   - "[[Effect Size]]"
+  - "[[Dialogue in Education]]"
   - "[[Domain Analysis]]"
   - "[[Progressive Focussing]]"
   - "[[Analytic Induction]]"
@@ -121,7 +123,7 @@ Hitchcock & Hughes（1989: 52–53）补充了民族志的六项产出面向：
 > [!seq-table] 民族志的六项产出（Hitchcock & Hughes, 1989）
 > | 产出 | 说明 |
 > |------|------|
-> | 描述性文化知识 | 以文字系统呈现群体的信仰、实践、符号和规范，使外部读者能理解该文化的内在逻辑。 |
+> | 描述性文化知识 | 以文字系统呈现群体的信仰、[[Praxis\|实践]]、符号和规范，使外部读者能理解该文化的内在逻辑。 |
 > | 文化情境中的活动描述 | 从群体成员自身视角还原活动与其特定文化脉络的关联。 |
 > | 成员身份特征清单 | 记录构成该群体或文化成员身份的可识别特征，作为界定群体边界的依据。 |
 > | 社会互动模式分析 | 识别并描述群体内重复出现的互动形态、角色关系和沟通规则。 |
@@ -174,7 +176,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Autoethnography|自我民族志]]。
-> - **数据收集** [[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、[[Field Notes|田野笔记]]、[[Semi-structured Interview|半结构化访谈]]、非正式对话、文档收集、日记和生命史、视听记录（Hammersley & Atkinson, 1983）。
+> - **数据收集** [[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、[[Field Notes|田野笔记]]、[[Semi-structured Interview|半结构化访谈]]、非正式[[Dialogue in Education|对话]]、文档收集、日记和生命史、视听记录（Hammersley & Atkinson, 1983）。
 > - **分析方法** [[Coding in Qualitative Research|编码]]、[[Domain Analysis|领域分析]]、主题分析、[[Progressive Focussing|逐步聚焦]]、叙事分析、[[Analytic Induction|分析归纳法]]。
 > - **辅助技术** [[Theoretical Sampling|理论抽样]]、目的抽样、[[Snowball Sampling|滚雪球抽样]]、[[Gatekeepers|守门人]]关系管理。
 
@@ -264,7 +266,7 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 > - 适合研究教育政策的实施过程，如 Beech & Artopoulos (2015) 使用民族志方法研究阿根廷 [[Conectar Igualdad]] 项目，通过三年的[[Fieldwork|田野工作]]（访谈国家和省级官员、校长、教师和学生，观察课堂和学校活动）揭示了传统[[Analytic Framework|分析框架]]难以察觉的权力关系。
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要深度理解群体文化、意义建构和行为情境的研究；探索性研究或新领域研究；涉及隐性知识、默会实践或不宣之规则的情况。[[Interpretive Paradigm|自然主义探究]]的主要类型中，民族志专门用于对社会群体和情境在其真实生活背景中的描绘和解释（Arsenault & Anderson, 1998; Flick, 2004a, 2004b）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 405–406)]]
+> - **适合使用** 需要深度理解群体文化、意义建构和行为情境的研究；探索性研究或新领域研究；涉及隐性知识、默会[[Praxis|实践]]或不宣之规则的情况。[[Interpretive Paradigm|自然主义探究]]的主要类型中，民族志专门用于对社会群体和情境在其真实生活背景中的描绘和解释（Arsenault & Anderson, 1998; Flick, 2004a, 2004b）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 405–406)]]
 > - **谨慎使用** 高度敏感的研究场景（犯罪团体、权力高度不对称的机构）；研究者可能与参与者[[Conflict of Interest in Research|利益冲突]]的情境；参与者高度脆弱的情况。
 > - **不适合使用** 需要大样本统计概括的研究；需要精确[[Causality|因果关系]]估计的[[Experimental Research|实验研究]]；时间资源极度受限的短期项目。
 

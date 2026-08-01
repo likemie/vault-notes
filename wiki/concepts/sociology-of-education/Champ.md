@@ -6,7 +6,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、内部竞争规则和资本分布结构的社会空间，用于分析教育、文化和职业领域中的位置关系与权力运作。"
 type: concept
 domain: "sociology-of-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - region/france
   - level/higher-ed
 related_concepts:
+  - "[[Praxis]]"
   - "[[Habitus]]"
   - "[[School Leadership]]"
   - "[[Knowledge Production]]"
@@ -71,7 +72,7 @@ updated: 2026-07-08
 
 - **1950s–1960s 阿尔及利亚／Kabylie 早期田野** — 在 *Sociologie de l'Algérie*（1958）和 Kabylie 民族志中，Bourdieu 首次观察到婚姻策略、荣誉竞争等在不同社会空间中遵循各自的规则，为场域概念的萌生奠定了经验基础
 - **Weber 的"生活秩序"（Lebensordnungen）** — 场域概念部分借鉴 Weber 对现代社会分化为各自遵循自身逻辑的相对自主领域（宗教、经济、政治、艺术、科学）的分析，但以关系性思维取代了实质主义倾向
-- ***Choses dites*（1987）** — Bourdieu 在此书中明确宣布其方法论公式为**结构主义建构论（structuralisme constructiviste）**，并以公式提出实践理论的核心关系式：[([[Habitus|习性]])(资本)] + 场域 = 实践，场域概念至此完全成熟
+- ***Choses dites*（1987）** — Bourdieu 在此书中明确宣布其方法论公式为**结构主义建构论（structuralisme constructiviste）**，并以公式提出[[Praxis|实践]]理论的核心关系式：[([[Habitus|习性]])(资本)] + 场域 = 实践，场域概念至此完全成熟
 - ***Les Règles de l'art*（1992）** — 以福楼拜和 19 世纪法国文学场域诞生的精细历史分析，展示了场域自主性的生成过程和 illusio 概念的重要性
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-07-08
 
 > [!abstract]
 
-- **相对自主性** 场域拥有独立于外部力量（如经济场域、政治场域）的自身逻辑和价值标准。一个场域的自主性体现为它**折射外部场域干扰的能力([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.48]])**。场域自主性越强，外部逻辑越难以直接支配场域内部的实践。教育场域正在经历自主性的削弱——"市场和管理主义的语言已渗透进核心教育论述"，教育场域保护自身边界、语言和实践免受政治、新闻和经济场域渗透的能力在减弱。
+- **相对自主性** 场域拥有独立于外部力量（如经济场域、政治场域）的自身逻辑和价值标准。一个场域的自主性体现为它**折射外部场域干扰的能力([[Argument_Eacott_2011_JEAH|Eacott, 2011, p.48]])**。场域自主性越强，外部逻辑越难以直接支配场域内部的[[Praxis|实践]]。教育场域正在经历自主性的削弱——"市场和管理主义的语言已渗透进核心教育论述"，教育场域保护自身边界、语言和实践免受政治、新闻和经济场域渗透的能力在减弱。
 
 - **斗争性** 场域是"持续斗争的场所"——行动者利用自身持有的资本争夺场域中被视为最有价值的资源和位置。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将精英大学描述为一个"迷宫"，各路"探索者"在各条小路上穿行收集筹码（成绩、经历、奖项），并在到达出口时用筹码兑换下一段旅程的入场券。
 
@@ -91,7 +92,7 @@ updated: 2026-07-08
 ## 理论基础
 
 > [!tip]-
-> - wiki-[[Pierre Bourdieu]] — 场域是 Bourdieu 实践理论三位一体框架（场域-[[Habitus|习性]]-资本）的结构维度。场域塑造了特定类型的习性，习性则使行动者在场域中产生"合拍"的实践感（feel for the game）；不同场域赋予不同类型的资本以不同的价值。
+> - wiki-[[Pierre Bourdieu]] — 场域是 Bourdieu [[Praxis|实践]]理论三位一体框架（场域-[[Habitus|习性]]-资本）的结构维度。场域塑造了特定类型的习性，习性则使行动者在场域中产生"合拍"的实践感（feel for the game）；不同场域赋予不同类型的资本以不同的价值。
 
 ---
 

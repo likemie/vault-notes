@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/curriculum
   - period/republican-china
 related_concepts:
+  - "[[Democratic Education]]"
   - "[[Pragmatism in China]]"
 related_theories: []
 related_methods: []
@@ -54,7 +55,7 @@ updated: 2026-05-26
 七项标准如下（"Decree" 1922, p.1，引自 Zhou & Westberg, 2024, p.617）：
 
 1. 适应社会进化之需要
-2. 发挥平民教育精神（democratic education）
+2. 发挥平民教育精神（[[Democratic Education]]）
 3. 谋个性之发展（development of individuality）
 4. 注意国民经济力（capacity of the national economy）
 5. 注意生活教育（life education）
@@ -87,7 +88,7 @@ updated: 2026-05-26
 > - 课程整合呼应杜威反二元论的知识连续性主张（Dewey [1916] 2018, pp.73, 353–354）。
 
 > [!warning] 淡化与偏离的部分
-> - "民主教育"标准仅保留"精神"（spirit），中文用词"平民"（pingmin）语义模糊——既可作"民主"解，亦可理解为"普及教育"([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.618]])。
+> - "[[Democratic Education|民主教育]]"标准仅保留"精神"（spirit），中文用词"平民"（pingmin）语义模糊——既可作"民主"解，亦可理解为"普及教育"([[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.618]])。
 > - "个性发展"标准忽视 1921 年已在讨论中的自由选择（free choice）维度，可为社会导向教育（而非儿童中心教育）服务。
 > - 教育部指示"兼顾旧制以便实施"，改革者却将新旧对立而非纳入渐进改良框架——这与杜威的[[Pragmatism in China|实验主义]]路径相悖。
 

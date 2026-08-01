@@ -9,7 +9,7 @@ aliases:
 summary: "运用社会科学研究方法回答项目或政策的有效性、效果和实施方案问题的应用研究分支，与纯研究（blue skies research）在研究动机、理论角色、议程设定和受众上存在系统差异。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - method/research-methods
   - topic/evaluation
 related_concepts:
+  - "[[Praxis]]"
   - "[[Pure Evaluation]]"
   - "[[Blue Skies Research]]"
   - "[[Reliability]]"
@@ -47,7 +48,7 @@ updated: 2026-06-17
 > 评估研究（evaluation research / evaluative research）是应用社会科学的工具和方法，为回答项目或政策的有效性和效果问题提供证据的研究分支。它在本质上是**应用研究（applied research）**，即在理论已被给定的前提下使用研究方法，而非对理论本身进行审问或检验（Plewis & Mason, 2005: 192）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 评估研究指向一种以回答特定实践问题为导向的研究活动——研究议程由委托方或政策需求给定，研究结果服务于决策。
+> - **含义** 评估研究指向一种以回答特定[[Praxis|实践]]问题为导向的研究活动——研究议程由委托方或政策需求给定，研究结果服务于决策。
 > - **用途** 它帮助研究者理解什么研究方法适用于评估项目效果、政策实施和资源配置决策。
 > - **边界** 它不是一般意义上的"评估"（evaluation），后者是更广泛的活动类型，涵盖研究之外的信息收集、判断和决策活动。评估研究是评估活动中使用研究方法的那部分。
 
@@ -108,7 +109,7 @@ updated: 2026-06-17
 > 评估研究为决策提供证据的力量是有限的。如果信息不支持当时主导的政治议程，决策者总能找到理由忽视或高度选择性地使用评估结果（James, 1993: 135）。评估研究的实际影响力取决于其结论与决策者政治议程的契合度（Thomas, 1991; Cook, 1991）。
 
 > [!implication] 命题后果
-> - **对评估实践的后果** 评估者面临"顺应性"压力——为保护未来资助前景而进行自我审查，或在报告风格中为项目进行隐性辩护（Stronach & Morris, 1994）。
+> - **对评估[[Praxis|实践]]的后果** 评估者面临"顺应性"压力——为保护未来资助前景而进行自我审查，或在报告风格中为项目进行隐性辩护（Stronach & Morris, 1994）。
 > - **对[[Knowledge Production|知识生产]]的后果** 当只有政策相关的研究才能获得资助时，知识生产的议程被政治议程重新定向，蓝天研究空间收窄。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 117
+related_count: 121
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
   - "[[Blue Skies Research]]"
+  - "[[Praxis]]"
   - "[[Confidence Interval]]"
   - "[[Conatus]]"
   - "[[Analytic Framework]]"
@@ -63,6 +64,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
+  - "[[Dialogue in Education]]"
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
   - "[[Positivism]]"
@@ -72,6 +74,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Growth]]"
   - "[[Post-structuralism]]"
   - "[[Cult of Efficiency]]"
   - "[[Definition of Terms]]"
@@ -100,6 +103,7 @@ related_methods:
   - "[[Observational and Correlational Research]]"
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
+  - "[[Accounts]]"
   - "[[Systematic Review]]"
 related_persons:
   - "[[John Hattie]]"
@@ -282,7 +286,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p. 3�
 > - **苹果与橘子比较** 异质研究不加区分地合并平均
 > - **效应量误用** *d* 的计算与解释存在系统性错误
 > - **经验偏见** 仅使用经验可得的指标，忽略难以量化的因素
-> - **应用局限** 忽视社会互动因素，结论难以迁移至实践
+> - **应用局限** 忽视社会互动因素，结论难以迁移至[[Praxis|实践]]
 
 ---
 
@@ -881,7 +885,7 @@ Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 > Larsen 从[[Neuroplasticity|神经可塑性]]出发提供了对 VL 的科学批判。人脑约含 860 亿个神经元、约 13 万亿个突触，而大脑不是漂浮在缸中的独立器官——"去学校读书的是完整的、具身的、情境化的、思考着的个体人类，不是大脑"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 5]])。Larsen 的核心论点是：任何将学习定位和识别于大脑中的尝试都在"制造关于学习存在公分母的神话"，而"每一次试图将复杂神经可塑性翻译和简化为简单信息的尝试都是徒劳的——甚至更糟：未能达到甚至违反科学家通常尊重和遵守的科学规范"。Larsen 进一步论证了人类经验的"中间存在"（in-betweeners）特征：我们不经验突触层面的神经活动（微观），也不经验光速或星系旋转（宏观）——我们生活在"中间"，在日常宏观现象中生活([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 6]])。
 
 > [!tension] 批评三：教师VL ≠ 学生有意识／无意识学习
-> Larsen 区分了三个“世界”：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 4]])。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——对话([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 7]])。"他肯定不是在作为概念史家或现象学家工作"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]])。
+> Larsen 区分了三个“世界”：学生的一阶现象学'内在'（being-in-the-world of the pupil）、教师评估'外在'（teacher's being-in-the-world of trying to estimate and maximize learning outcomes）、科学透明的'外在'（scientifically transparent templates and proposals）。这三个世界"并不相等且可能永远不会被调和或统一"，因为各自的[[Coding in Qualitative Research|编码]]和理性不同([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 4]])。Larsen 特别指出 Hattie 的一个显著特征：尽管鼓励学校参与者多听彼此，Hattie **从不与他的研究"对象"——学习者**——[[Dialogue in Education|对话]]([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 7]])。"他肯定不是在作为概念史家或现象学家工作"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]])。
 
 > [!critique-logic] 批评四：学习不是[[Value Neutrality|价值中立]]——Bildung 要求更多
 > Larsen 从概念史（Begriffsgeschichte）角度追溯了"学习"在丹麦语境中的语义演变：
@@ -934,9 +938,9 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 > [!citation-card]- Schön, 1983, p. 31（引自 Nielsen & Klitmøller, 2021, p. 82）
 > *"技术理性是实证主义的遗产。实证主义是一种强大的哲学学说，兴起于十九世纪，既是对科学与技术崛起的解释，也是一场旨在将科学与技术成就应用于人类福祉的社会运动。"*
 > 
-> *"Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an account of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."*
+> *"Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts|account]] of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."*
 
-技术理性铺平了教育中的**手段-目的思维（means-ends thinking）**——问题被理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决（p. 82）。工程师的材料分析、医生的疾病诊疗成为所有专业实践（包括教育）的模型。
+技术理性铺平了教育中的**手段-目的思维（means-ends thinking）**——问题被理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决（p. 82）。工程师的材料分析、医生的疾病诊疗成为所有专业[[Praxis|实践]]（包括教育）的模型。
 
 #### 论证步骤三：现代学校教育面临合法化危机——这是理解 VL 流行的关键背景
 
@@ -1102,13 +1106,13 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 >
 > 2. **VL 模拟色情片逻辑** — VL 由单一男性权威（Hattie）主导，痴迷于*"射精式的结果"*（ejaculatory outcomes）（Connell, 2013）。在以女性为主的职业中，教师被置于异性恋规范与能力主义的建构之下（Apple, 1986/2013）；看与被看历史上是男性领域（Berger, 1972），女性被定位为凝视的对象（Mulvey, 1975）。新自由主义的*"金钱镜头"*（money shots）是国家测试分数与排名表，而非不可量化的关怀行为（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 35]]）。作者将此改编为数据成瘾自查：*"你是否发现自己寻找越来越极端的数据？"*——将数据量与洞察力混淆，成瘾在加剧（p. 36）。
 >
-> 3. **VL 拒绝对话** — VL 崇拜围绕品牌本身而非教师与学生，被商标和专有符号固化，不容辩论（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 37]]）。它将教师知识从原始研究中提取出来，再以*"外部专家建议"*的形式还给教师，使教师成为自身教学法的顺从消费者，自主权被限制在*"研究验证"*数据内、对学业成绩承担全部责任。经典民主专业主义所强调的专长、自主与利他（Locke, 2015; Sachs, 2003）被彻底颠覆；教师甚至在 VL 培训中被禁止分享自己的课堂故事（Hattie, in Knudsen, 2017, p. 254）。
+> 3. **VL 拒绝[[Dialogue in Education|对话]]** — VL 崇拜围绕品牌本身而非教师与学生，被商标和专有符号固化，不容辩论（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 37]]）。它将教师知识从原始研究中提取出来，再以*"外部专家建议"*的形式还给教师，使教师成为自身教学法的顺从消费者，自主权被限制在*"研究验证"*数据内、对学业成绩承担全部责任。经典民主专业主义所强调的专长、自主与利他（Locke, 2015; Sachs, 2003）被彻底颠覆；教师甚至在 VL 培训中被禁止分享自己的课堂故事（Hattie, in Knudsen, 2017, p. 254）。
 >
 > 4. **VL 忽视关怀伦理** — VL 将对社区和他人的关怀伦理推入女性化与贬值的地位——爱、同僚情谊、慷慨，这些难以测量和货币化的东西被边缘化（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 38]]）。Noddings（1986）关于*"关怀社区"*的追问在 VL 框架内无处容身；知识的中心从课堂和学校转移到大学和学者手中，最具渗透力的权力属于能做[[Randomised Controlled Trials|随机对照试验]]的人。*"忠实"*（fidelity）对 Noddings 意味着对学生的忠诚，VL 则将其重新定义为对外部概念的服从。
 >
 > 5. **VL 接近法西斯主义** — 没有任何迹象表明 VL 专业学习项目包含对 VL 自身的批评。它是极权主义*"有组织的遗忘"*（Kundera, 1981）的一部分，忽视 Foucault（1975/1995）的警告——*"可见性是一个陷阱"*，将[[Disciplina and Doctrina|规训]]渗透到最微小的细节中。Pinar（2011）警告：不加理解地应用课程，*"只有景观，即我们时代的法西斯主义"*。在 Gramsci 意义上，VL 是景观式霸权的：职前教师被要求进入教室后立即走向白板张贴学习意图，禁止任何其他方式开始上课（McKnight, 2016），教师在女性化职业中被煽动*"将自己生产为凝视的对象"*（Walkerdine & Ringrose, 2006, p. 37）。
 >
-> 6. **VL 过度简化** — 尽管堆砌了复杂的[[Effect Size|效应量]]与数字，VL 最终是一个过于简单的咒语——[[Hypothesis|假设]]教师能看到学生所看到的（既是能力主义的也是傲慢的），将成长仅定义为*"达到下一个水平"*（Hattie, in Waack, 2018）。*"Know thy impact"*带圣经式语气，是在[[Post-structuralism|后结构主义]]对知识的质疑之后对确定性的加固（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 40]]）；*"Impact"*（有力的接触）的词源以子弹和炮弹为例，眼睛将其不足隐藏在傲慢背后——而[[Positivism|实证主义]]科学不过是众多研究叙事之一（p. 41）。
+> 6. **VL 过度简化** — 尽管堆砌了复杂的[[Effect Size|效应量]]与数字，VL 最终是一个过于简单的咒语——[[Hypothesis|假设]]教师能看到学生所看到的（既是能力主义的也是傲慢的），将[[Growth|成长]]仅定义为*"达到下一个水平"*（Hattie, in Waack, 2018）。*"Know thy impact"*带圣经式语气，是在[[Post-structuralism|后结构主义]]对知识的质疑之后对确定性的加固（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 40]]）；*"Impact"*（有力的接触）的词源以子弹和炮弹为例，眼睛将其不足隐藏在傲慢背后——而[[Positivism|实证主义]]科学不过是众多研究叙事之一（p. 41）。
 >
 > 7. **VL 基于能力主义假设** — VL 坚持*"只有可见的才重要"*，对*"成功"*和*"被纳入"*做出了规范性和能力主义的假设（[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p. 41]]）。能力主义*"设定两个截然不同的本体论区域：残疾的和健全的"*（Campbell, 2009, p. 8）；在 VL 框架中，通过视觉感知的能力被正常化，其他感知方式在[[Epistemology|认识论]]上被抹除。有视觉障碍的教师或学生通过*"缺乏视力"*被建构为排斥对象——而这种排斥从未被计入效应量。对视觉傲慢的批评可追溯至 Rorty 的 *Philosophy and the Mirror of Nature*（1979），包容性教育理论亦指出排斥如何被包装为对多样化学习者的集体冷漠（Slee, 2011）。
 
@@ -1122,7 +1126,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > [!critique] [[Neo-Taylorism]] 论题
 > Hattie 的 VL 是*"新时代的泰勒主义"*（Taylorism for a new time）（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。其与 Taylor（1911）科学管理的结构同源性体现在三个平行：
 > - Taylor 追求消除*"soldiering"*（磨洋工），Hattie 追求消除*"coasting"*（得过且过）
-> - Taylor 将工作拆解为最小组件以标准化执行，Hattie 将教学实践拆解为按[[Effect Size|效应量]]排名的离散干预列表
+> - Taylor 将工作拆解为最小组件以标准化执行，Hattie 将教学[[Praxis|实践]]拆解为按[[Effect Size|效应量]]排名的离散干预列表
 > - Taylor 寻找*"唯一正确方法"*，Hattie 告诉教育者*"做什么以获得最大回报"*（maximum return）
 
 > [!tension] 与澳洲其他改革取向的对比
@@ -1138,7 +1142,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > [[Argument_Hattie_2017_SLM|Hattie (2017)]] 以 [[Karl Popper|Popper]] [[Falsification|证伪主义]]为旗帜否认*"大师崇拜"*的存在，但其回应在两天内被接收发表（Eacott 原论文经历数月多轮评审），Eacott 随即被编辑拒绝发表再回应。详见 [[Cult of the Guru#争议与批评]]。
 
 > [!critique] 编辑决策的体制含义
-> Eacott 被 *School Leadership & Management* 编辑拒绝发表对 Hattie 回应的再回应。Eacott 认为这一决策本身*"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"*（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。
+> Eacott 被 *School Leadership & Management* 编辑拒绝发表对 Hattie 回应的再回应。Eacott 认为这一决策本身*"说明了该领域学术工作的逻辑中对[[Dialogue in Education|对话]]和辩论的低优先级"*（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。
 
 ---
 
@@ -1216,7 +1220,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > Qvortrup 的核心理论贡献：VL 中的教学干预与学习成果之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]（Luhmann, 1997）链接的两个封闭系统。教师的外部干预必须经过学生闭合的、自我指涉的反思循环，因此教师必须运用[[Professional Judgment|专业判断]]——基于[[Bounded Rationality|有限理性]]（Simon, 1969/1996），在理性赤字的条件下综合研究知识、伦理标准和方法论原则，通过反馈持续修正（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 6–7]]）。VL 的目的因此不是提供"什么有效食谱"，而是为教师提供"智能问题解决的[[Hypothesis|假设]]"（Hattie, 2009, p. 247）。
 
 > [!critique] Qvortrup 辩护的局限
-> 批评者可能指出 Qvortrup 本人是 VL 丹麦译本导言的合著者——作为 VL 的直接推广者，其立场影响分析的独立性。此外，Qvortrup 的辩护将 VL 从其自身更简化的操作实践中分离出来——VL 的实际培训要求"五人中仅一人通过"认证、禁止教师分享自身经验（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]），这与专业判断框架中的[[Reflexivity|反思性]]实践理念直接矛盾。然而，Qvortrup 的贡献在于提供了迄今为止最系统的 VL 理论辩护——将 VL 从一种"什么有效"的技术工具重新概念化为支持教师反思性判断的概率知识基础。
+> 批评者可能指出 Qvortrup 本人是 VL 丹麦译本导言的合著者——作为 VL 的直接推广者，其立场影响分析的独立性。此外，Qvortrup 的辩护将 VL 从其自身更简化的操作[[Praxis|实践]]中分离出来——VL 的实际培训要求"五人中仅一人通过"认证、禁止教师分享自身经验（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]），这与专业判断框架中的[[Reflexivity|反思性]]实践理念直接矛盾。然而，Qvortrup 的贡献在于提供了迄今为止最系统的 VL 理论辩护——将 VL 从一种"什么有效"的技术工具重新概念化为支持教师反思性判断的概率知识基础。
 
 ---
 

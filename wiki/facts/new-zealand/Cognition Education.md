@@ -11,7 +11,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Policy Network]]"
+  - "[[Growth]]"
   - "[[International Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Visible Learning]]"
@@ -59,7 +60,7 @@ updated: '2026-05-23'
 
 > [!note]-
 > - 1989 年 10 月：Multi Serve Education Trust 成立，承接奥克兰（Auckland）学校工资、运输和财务行政支持，是 [[Tomorrow's Schools Reforms|Tomorrow's Schools]] 改革的直接产物。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.66；Bates, 2017, p.11-12]])
-> - 1991 至 1996 年：组织在竞争性招标、短期工资合同和多次多元化失败中勉强维持生存，逐渐意识到单靠国内学校支持服务难以稳定成长。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.13-18]])
+> - 1991 至 1996 年：组织在竞争性招标、短期工资合同和多次多元化失败中勉强维持生存，逐渐意识到单靠国内学校支持服务难以稳定[[Growth|成长]]。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.13-18]])
 > - 1997 至 2000 年代：通过 [[Jerudong International School Establishment]] 和后续卡塔尔（Qatar）、阿布扎比（Abu Dhabi）项目进入[[International Education|国际教育]]咨询与建校市场，组织规模和业务身份明显改变。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.21-23, p.47-48]])
 > - 2007 至 2009 年：Multi Serve Limited 注册为全资子公司，随后组织家族重组并更名为 Cognition Education，把商业运营、慈善信托和研究资助功能区分到不同实体之中。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.66]])
 > - 2010 年：集团收入达到约 6900 万的高点，显示中东项目已把 Cognition 推到远超早期学校支持服务机构的规模。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.71-73]])
@@ -68,7 +69,7 @@ updated: '2026-05-23'
 ## 发展逻辑
 
 > [!abstract]
-> Cognition 的组织史更适合按几次转向来理解，而不是当作一条平滑成长曲线来读。
+> Cognition 的组织史更适合按几次转向来理解，而不是当作一条平滑[[Growth|成长]]曲线来读。
 >
 > 第一阶段是准市场中的求生。Multi Serve 虽然继承了工资、运输、人员与系统知识，但也继承了高成本结构和原本免费、后来必须收费的服务包，因此一进入竞争性市场（contestable market）就暴露出强烈脆弱性。1991 年奥克兰工资合同（Auckland payroll）失手、1992 至 1993 年收入和人员剧减、以及一连串未成功的多元化（diversification）尝试，都说明其早期适应主要是被迫试错，而不是主动创新。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.12-17]])
 >

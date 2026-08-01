@@ -6,19 +6,22 @@ aliases:
 summary: "源自德国精神科学传统的品格陶成与自我形成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与在线自我评估（Online Self-Assessment, OSA）可预测性逻辑构成根本张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 related_concepts:
   - "[[Operationalization]]"
   - "[[Interaction Effect]]"
   - "[[Visible Learning]]"
   - "[[Learnification]]"
   - "[[Effect Size]]"
+  - "[[Dialogue in Education]]"
   - "[[Phenomenon-Based Learning]]"
+  - "[[Growth]]"
   - "[[Analytic Framework]]"
   - "[[Epochal Key Problems]]"
+  - "[[Praxis]]"
   - "[[Buen Vivir]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Learning Analytics]]"
@@ -86,7 +89,7 @@ updated: 2026-07-13
 
 > [!boundary]- 概念边界与关联
 > - **有别于可见学习** 可见学习追求可测量的学习效果和效应量，而教化强调不可测量的、开放性的人格塑造与生命体验。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–9]]
-> - **有别于学习化** 学习化将教育还原为供求关系和技术控制，而教化将教育视为两代人之间关于文化与未来生命的开放对话。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
+> - **有别于学习化** 学习化将教育还原为供求关系和技术控制，而教化将教育视为两代人之间关于文化与未来生命的开放[[Dialogue in Education|对话]]。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 > - **与[[Phenomenon-Based Learning|现象本位学习]]（Phenomenon-Based Learning, PhBL）的关联** 现象本位学习并非一种旨在快速提升可测技能的工具，而是通过跨学科探索复杂现象，让学生在与生活世界的具身交互中发展自我与社会责任，其终极目的正是达成教化。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 10–11]]
 
 ---
@@ -94,7 +97,7 @@ updated: 2026-07-13
 ## 核心要素
 
 > [!feature] 核心要素
-> - **非目的论的开放生长与“自我—世界”交互** Bildung 强调在无法预先规划终点的情况下，个体通过与世界及其中对象的独立交互，实现非预设性的人格形塑与生命体验。
+> - **非目的论的开放[[Growth|生长]]与“自我—世界”交互** Bildung 强调在无法预先规划终点的情况下，个体通过与世界及其中对象的独立交互，实现非预设性的人格形塑与生命体验。
 > - **关系性的三维结构** 教化包含三个核心维度：自我与自身的关系（自我形成）、自我与他者的关系（社会性与主体间性）、以及与世界的关系。这三维关系结构构成了评估个体生命状态以及数字化技术是否压制教化空间的[[Analytic Framework|分析框架]]。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p. 246]]
 > - **去中心化的惊奇与练习** 教育的核心在于引导学生超越自我的镜像去接触外在未知，通过惊奇的练习实现认知与情感的去中心化（Decentring），从而获得决定自己知识与技能如何超越被要求与被期望方式使用的能力与勇气。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8–9]]
 > - **时代关切与社会解放性** 经典教化要求围绕生态、不平等与战争等[[Epochal Key Problems|时代关键问题]]（Epochal key problems）展开课程，培养个体的社会责任感，并保持反抗将学校教育窄化为新自由主义市场工具的审视态度。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]; [[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]]
@@ -111,10 +114,10 @@ updated: 2026-07-13
 > 这类命题关注教化（Bildung）的核心目的，强调其作为自主人格形成的非目的论与开放性特征，反对将教育目的窄化为可测量的技术性指标。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]
-> 教化具有非还原的内在尊严与实践目的。它是个体决定其知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，不能被还原为可量化、标准化的一般技能目标。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8, 10]]
+> 教化具有非还原的内在尊严与[[Praxis|实践]]目的。它是个体决定其知识与技能如何以远超外在要求和期望的方式被使用的能力与勇气，不能被还原为可量化、标准化的一般技能目标。[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 8, 10]]
 
 > [!claim] Schleiermacher
-> 教化实践的核心路径在于学会在关于何为[[Buen Vivir|美好生活]]的“追问”而非“标准答案”中生活。教化是一个非预设方向的自主生长过程，无法通过灌输现成答案来达成。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
+> 教化实践的核心路径在于学会在关于何为[[Buen Vivir|美好生活]]的“追问”而非“标准答案”中生活。教化是一个非预设方向的自主[[Growth|生长]]过程，无法通过灌输现成答案来达成。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 
 > [!claim] Hegel
 > **辩证解放与普遍精神的上升** 教化在绝对意义上是实现个体解放并迈向更高解放的劳动过程。它不仅是自然驱动力的净化，更是通过理性的表征和比较，让个体的内在欲望经历辩证否定，最终完成向精神的、普遍性伦理生活的绝对过渡。[[Argument_Cole_2005_JRIE|Cole, 2005, p. 221]]
@@ -159,7 +162,7 @@ updated: 2026-07-13
 > [!debates] 学术争议
 > 
 > > [!abstract] 激进政治性与精英保守主义之争
-> > 批评者指出，Bildung 在德国和芬兰的历史实践中常被用作维持社会阶层排他性和强化民族主义意识形态的保守工具。然而 Klafki 等人论证，经典教化理论的核心主张在本质上具有激进的社会政治性，旨在促进人类的解放、正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> > 批评者指出，Bildung 在德国和芬兰的历史[[Praxis|实践]]中常被用作维持社会阶层排他性和强化民族主义意识形态的保守工具。然而 Klafki 等人论证，经典教化理论的核心主张在本质上具有激进的社会政治性，旨在促进人类的解放、正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > 
 > > [!abstract]- 理想主义与可操作性之争
 > > 部分政策研究者批评 Bildung 概念过于虚无缥缈，缺乏明确的行为指标，无法在当代大规模大众教育和质量监测体系中被[[Operationalization|操作化]]。支持者则回应，教化的价值物在于其不可形式化，保护学生免受量化绩效主义的异化。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 9]]
@@ -178,5 +181,5 @@ updated: 2026-07-13
 > - **[[IB Diploma Programme|IB DP]] [[Theory of Knowledge|知识论]]课程批判** 分析了 TOK 课程将学生设定为“[[Empty Knower|空无知者]]”的黑格尔式教化预设，揭示了缺乏具身想象力和情感支持的理性训练容易异化为策略性应试。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212–213]]
 > - **丹麦公立学校改革** 2014 年改革在课程中嵌入近 3000 个细碎的学习目标，体现了学习[[Paradigm|范式]]对教化空间的挤压。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]]
 > - **芬兰基础教育国家核心课程** 其倡导的跨学科[[Phenomenon-Based Learning|现象本位学习]]，在哲学上可理解为通过教化和教学论传统对抗技能原子化倾向的政策尝试。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
-> - **SveaSus 项目** 高等教师教育领域的教学实验，提供了一个围绕可持续性开展具身、情感与认知多维教化实践的具体情境。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
+> - **SveaSus 项目** 高等教师教育领域的教学实验，提供了一个围绕可持续性开展具身、情感与认知多维教化[[Praxis|实践]]的具体情境。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]
 > - **丹麦 Maglegård 学校案例** 曾悬挂“我们的学习是可见的”巨幅标语并彻底采用可见学习项目，成为学习范式吞噬 Bildung 空间的典型实证标本。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 1]]

@@ -4,7 +4,7 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -12,6 +12,7 @@ tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Document]]"
   - "[[Research Topic]]"
+  - "[[Dialogue in Education]]"
   - "[[Reliability]]"
   - "[[Abstract]]"
   - "[[Literature Search]]"
@@ -51,7 +52,7 @@ updated: 2026-07-12
 ## 定义
 
 > [!def] [[Document|文献]]综述（Literature Review）
-> 文献综述是对某一[[Research Topic|研究主题]]已有文献的系统检索、评估和总结。它向读者呈现与当前研究密切相关的已有研究成果，将研究置于更大范围的学术对话之中，填补已有研究的空白并延伸先前的研究（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+> 文献综述是对某一[[Research Topic|研究主题]]已有文献的系统检索、评估和总结。它向读者呈现与当前研究密切相关的已有研究成果，将研究置于更大范围的学术[[Dialogue in Education|对话]]之中，填补已有研究的空白并延伸先前的研究（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 文献综述是一个论证性文本，而非描述性总结。它综合多种材料形成持续的、累积的论证，最终导向结论——如当前研究需要研究什么、如何研究、为何研究。

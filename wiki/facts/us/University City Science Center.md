@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
   - "region/us"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Asset Mapping]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -58,5 +59,5 @@ updated: 2026-05-28
 > - 每日在全部社交媒体渠道发布内容
 > - 出版月度通讯（monthly newsletter）和年度报告（annual report）
 
-这种全面的筹款和沟通策略旨在最大化利益相关者参与，体现了 [[TUFF]] 框架中"筹资与对外关系"优先领域的实践落地（p.133）。
+这种全面的筹款和沟通策略旨在最大化利益相关者参与，体现了 [[TUFF]] 框架中"筹资与对外关系"优先领域的[[Praxis|实践]]落地（p.133）。
 

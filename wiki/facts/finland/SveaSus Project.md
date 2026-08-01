@@ -8,7 +8,7 @@ subtype: event
 region: finland
 fact_region: "finland"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -19,6 +19,7 @@ tags:
   - region/finland
   - level/higher-ed
 related_concepts:
+  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
@@ -51,7 +52,7 @@ updated: '2026-06-22'
 ## 背景
 
 > [!event-context] 事件背景
-> - **时间 / 地点** 2018–2023年；主要学习与实践环境为邻近赫尔辛基的岛屿——**芬兰堡（Suomenlinna）世界遗产地**，这是一个具有丰富历史、空间与时间维度的真实物理[[Champ|场域]]（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。
+> - **时间 / 地点** 2018–2023年；主要学习与[[Praxis|实践]]环境为邻近赫尔辛基的岛屿——**芬兰堡（Suomenlinna）世界遗产地**，这是一个具有丰富历史、空间与时间维度的真实物理[[Champ|场域]]（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。
 > - **关键主体** 由赫尔辛基大学教育科学学院主办；参与者包括学院教师、跨学科研究者、专业艺术家，以及面向该学院所有开放选修的学生群体（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]）。
 > - **制度背景** 伴随芬兰 2014 年版基础教育国家核心课程（[[Finnish National Core Curriculum]]）对“[[Phenomenon-Based Learning|现象本位学习]]”（PhBL）政策的推行，大学教师教育层面急需探索如何将 PhBL 理论转化为具体的教学和研究实践，并以此回应全球教育治理中技能原子化和绩效度量的危机（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 8–10]]）。
 > - **触发条件** 在面临气候变化、可持续性发展等全球性复杂时代危机（[[Epochal Key Problems]]）背景下，传统单一学科的知识讲授难以培养学生应对复杂未来的整体性素养，促成了这一集教学改革、艺术介入和学术研究为一体的综合性实验项目（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 6–7]]）。
@@ -65,7 +66,7 @@ updated: '2026-06-22'
 > - **2018–2023 — 芬兰堡真实[[Champ|场域]]的跨学科教学实验**
 > - **现象核心确立** 项目以“可持续性（Sustainability）”为探究的现象核心，并将其与芬兰堡的特定地点（place）和时间（time）维度相绑定。
 >   - **多维教学法探索** 系统引入并测试了具身学习（Embodied learning，如在风雨交加的岛屿上身体行走、用触觉感知石墙以激活空间与身体的具身经验）、艺术本位（Art-based）和多语（Multilingual）教学方法（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。
->   - **主体间反思实践** 师生、艺术家在特定时空中共同规划、讨论和解决问题，将情感（如信任、 Relational Anxiety）与合作责任融入探究过程（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]）。
+>   - **主体间反思[[Praxis|实践]]** 师生、艺术家在特定时空中共同规划、讨论和解决问题，将情感（如信任、 Relational Anxiety）与合作责任融入探究过程（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 4]]）。
 > - **2023 — 项目收官与学术转化** 项目圆满结束，相关研究成果和实践经验被系统整理并向国际学术界输出，成为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在高等和教师教育领域最独特的实证案例之一（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 10–11]]）。
 
 ---
@@ -82,7 +83,7 @@ updated: '2026-06-22'
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **政策影响** 为芬兰国家核心课程所倡导的 [[Phenomenon-Based Learning|PhBL]] 政策提供了一个“自下而上”的具体实践[[Paradigm|范式]]，展示了政策话语如何跨越基础教育阶段，在**高等教育与教师教育（Higher and Teacher Education）**领域进行[[Going Native|本土化]]和教学法落地（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 10]]）。
+> - **政策影响** 为芬兰国家核心课程所倡导的 [[Phenomenon-Based Learning|PhBL]] 政策提供了一个“自下而上”的具体[[Praxis|实践]][[Paradigm|范式]]，展示了政策话语如何跨越基础教育阶段，在**高等教育与教师教育（Higher and Teacher Education）**领域进行[[Going Native|本土化]]和教学法落地（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 10]]）。
 > - **实践影响** 打破了传统“教师讲、学生听”的授课模式，建立了教师、研究者、艺术家与学生的跨界合作共同体。通过具身行走、艺术表达和多语写作，在真实的芬兰堡世界遗产地开展以地点和时间为纽带的生成性学习，重构了人与生活世界的密切联系（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4, 10]]）。
 > - **知识影响** 提供了一个活生生的“[[Pragmatic Constructivism|课程自我修正模型]]”（[[Pragmatic Constructivism]] 的具体体现），以跨学科整体性探究抵抗新自由主义全球教育治理下“知识和技能原子化”的异化倾向，捍卫了教学论中知识的“开放未来（Open future）”和“教学与更新（[[Disciplina and Doctrina|doctrina]]）”的本质（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–8, 9–10]]）。
 
@@ -105,7 +106,7 @@ updated: '2026-06-22'
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Phenomenon-Based Learning]] | Concept | SveaSus 项目是芬兰现象本位学习（PhBL）在高等教育层面的具体教学法实践。 |
+> | [[Phenomenon-Based Learning]] | Concept | SveaSus 项目是芬兰现象本位学习（PhBL）在高等教育层面的具体教学法[[Praxis\|实践]]。 |
 > | [[Finnish National Core Curriculum]] | Fact | 芬兰 2014 年国家核心课程是 SveaSus 推广 PhBL 的政策制度背景。 |
 > | [[Pragmatic Constructivism]] | Theory | 劳斯特-von Wright 整合[[John Dewey\|杜威]]与[[George Herbert Mead\|米德]]提出的“课程自我修正模型”，构成了 SveaSus 教学法的理论基础。 |
 > | [[Disciplina and Doctrina]] | Concept | SveaSus 强调的动态协作和开放探究是对 `doctrina` 维度的坚守，抵御了技能原子化的 `disciplina` 倾向。 |

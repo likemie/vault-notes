@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Attrition]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -59,7 +60,7 @@ updated: 2026-07-13
 ## 最高评级标准
 
 > [!abstract] 最高评级标准
-> NDPC 最高等级只要求一项有正向结果的研究，该研究可以是 [[Randomised Controlled Trials|RCT]] 或由审查者判断为高质量的 [[Quasi-Experimental Designs|QED]]；研究须由独立于开发者的评估者开展。项目本身不能是 pilot，必须已经在实践[[Champ|场域]]中运行至少 3 年，并且需要有项目组件和管理方式的文档([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–15]])。
+> NDPC 最高等级只要求一项有正向结果的研究，该研究可以是 [[Randomised Controlled Trials|RCT]] 或由审查者判断为高质量的 [[Quasi-Experimental Designs|QED]]；研究须由独立于开发者的评估者开展。项目本身不能是 pilot，必须已经在[[Praxis|实践]][[Champ|场域]]中运行至少 3 年，并且需要有项目组件和管理方式的文档([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–15]])。
 >
 > 第二高等级与最高等级的区别在于，可以是由非独立评估者完成的 QED([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.14]])。
 

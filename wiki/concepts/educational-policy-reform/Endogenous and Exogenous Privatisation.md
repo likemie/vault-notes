@@ -8,7 +8,7 @@ aliases:
 summary: "Ball 与 Youdell 区分的两种公立教育私有化趋势，分别指学校内部运作企业化和私营部门进入学校体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Praxis]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[New Public Management]]"
   - "[[Venture Philanthropy]]"
@@ -48,7 +49,7 @@ updated: '2026-05-18'
 > [!info]
 Ball & Youdell（2008）在其提交给 [[Education International]] 的报告中识别了全球公立学校政策中的两种私有化趋势([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.4]])：
 
-1. **内生私有化（Endogenous privatisation）** 学校变得更像企业或以企业方式运营——将私营部门的管理逻辑、绩效技术和商业实践引入公立学校系统内部
+1. **内生私有化（Endogenous privatisation）** 学校变得更像企业或以企业方式运营——将私营部门的管理逻辑、绩效技术和商业[[Praxis|实践]]引入公立学校系统内部
 2. **外生私有化（Exogenous privatisation）** 将私营部门带入公立学校——通过合同外包、[[Public-Private Partnership in Research|PPP]]、[[Partnership Schools Kura Hourua|特许学校]]等形式将教育服务的提供从公共部门转移到私营部门
 
 这两种趋势在 [[OECD]] 集团的早期教育、学校和高等教育系统中已得到相当充分的记录和理解([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.4]])。
@@ -103,7 +104,7 @@ Rizvi 描绘了一个自我强化的因果链条：
 3. **大学被迫企业化** 公共资金的减少迫使大学采用企业化运营模式——包括 NPM 的管理技术、市场导向的战略规划、以及对国际排名和品牌建设的投入([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]])。NPM 的具体运作详见 NPM > 在高等教育国际化中的运作
 4. **企业化加深市场依赖** 企业化运营反过来使大学更依赖国际学生市场收入来维持运作 → 加固了第 1 步
 
-最终结果："内生私有化实践似乎已成为大多数西方国家公立高等教育的**永久特征**"（Ball, 2012, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]]）。
+最终结果："内生私有化[[Praxis|实践]]似乎已成为大多数西方国家公立高等教育的**永久特征**"（Ball, 2012, cited in [[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.97–98]]）。
 
 ### 澳大利亚作为典型案例
 

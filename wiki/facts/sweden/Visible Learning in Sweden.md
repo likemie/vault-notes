@@ -8,7 +8,7 @@ subtype: event
 region: sweden
 fact_region: "sweden"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -20,6 +20,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Dialogue in Education]]"
   - "[[Effective Teaching]]"
   - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
@@ -45,7 +46,7 @@ updated: '2026-05-20'
 > - **研究关注转向课堂**[[Visible Learning]] 在瑞典受到关注后，“教学与学生成绩之间的关系”重新成为学校改进的核心问题。Hattie 在这里提供了一种易传播的语言，把复杂研究压缩成学校可以直接讨论的议题，如目标清晰度、反馈、课堂领导和教师影响力（Håkansson, 2015, pp.53–54）。
 > - **制度要求推动落地** 瑞典学校法要求教学建立在“科学基础与经验证据”之上。这使国家层面的改进项目更有动力把注意力从结果指标推进到教学过程本身（Håkansson, 2015, pp.56–57）。
 > - **改进方式改变** 学校改进开始更多采用课堂近端策略，也就是更贴近真实课堂过程的做法，例如课堂试验、外部与同伴观察、课后反思，以及围绕某一教学主题的集体学习（Håkansson, 2015, pp.56–58）。
-> - **地方学校持续试行** Håkansson 报告了一项 2013–2015 年跟踪 5 所基础学校系统性质量工作的研究。学校通常围绕“语言支持性教学”或“课堂领导”等单一主题长期推进，以便让课堂观察与教师对话逐步沉淀成组织能力（Håkansson, 2015, pp.58–59）。
+> - **地方学校持续试行** Håkansson 报告了一项 2013–2015 年跟踪 5 所基础学校系统性质量工作的研究。学校通常围绕“语言支持性教学”或“课堂领导”等单一主题长期推进，以便让课堂观察与教师[[Dialogue in Education|对话]]逐步沉淀成组织能力（Håkansson, 2015, pp.58–59）。
 
 ## 实施情况
 
@@ -60,7 +61,7 @@ updated: '2026-05-20'
 
 > [!success] 影响与后果
 > - [[Visible Learning]] 在瑞典帮助学校改进从“结果治理”转向“课堂近端改进”，让教学本身重新成为改革对象（Håkansson, 2015, pp.52, 56–58）。
-> - 它强化了课堂观察、同伴协作、课后反思和围绕教学问题的专业对话，使学校更容易把研究语言转化为具体工作流程（Håkansson, 2015, pp.56–59）。
+> - 它强化了课堂观察、同伴协作、课后反思和围绕教学问题的专业[[Dialogue in Education|对话]]，使学校更容易把研究语言转化为具体工作流程（Håkansson, 2015, pp.56–59）。
 > - 这种转化不是自动发生的。真正关键的是学校是否具备长期组织改进的能力，也就是 Håkansson 所说的“变革资本”与系统性质量工作能力（Håkansson, 2015, pp.58–59）。
 
 ## 争议与评论

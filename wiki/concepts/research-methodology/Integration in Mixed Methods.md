@@ -8,7 +8,7 @@ aliases:
 summary: "混合方法研究的核心概念，指在研究中将量化与质性数据的信息进行组合或混合，包括整合的意图（为何组合）和程序（如何实施组合），整合方式因设计类型而异"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - mixed-methods
   - data-integration
 related_concepts:
+  - "[[Dialogue in Education]]"
   - "[[Metainferences]]"
   - "[[Data Transformation]]"
   - "[[Variable]]"
@@ -45,7 +46,7 @@ updated: 2026-06-02
 > [!info]
 > 整合（Integration）是[[Mixed Methods Research|混合方法研究]]的核心概念，指在单个研究或一系列研究中，将量化数据和质性数据的信息进行组合（combining）或"混合"（mixing）。整合包括两个层面：组合两类数据库的原因或"意图"（intent），以及实施这一组合的"程序"（procedures）([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.233]])。
 
-整合不是简单地将量化和质性结果并列报告，而是在分析层面建立两类数据之间有意义的对话。整合的具体方式取决于所采用的混合方法设计类型：[[Convergent Design|聚敛式设计]]通过合并（merging）来整合，序列设计通过连接（connecting）来整合，复杂设计通过嵌入（embedding）来整合。
+整合不是简单地将量化和质性结果并列报告，而是在分析层面建立两类数据之间有意义的[[Dialogue in Education|对话]]。整合的具体方式取决于所采用的混合方法设计类型：[[Convergent Design|聚敛式设计]]通过合并（merging）来整合，序列设计通过连接（connecting）来整合，复杂设计通过嵌入（embedding）来整合。
 
 > [!quote]
 > "This 'mixing' or integrating of data provides a stronger understanding of the problem or question than either by itself."([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.231]])

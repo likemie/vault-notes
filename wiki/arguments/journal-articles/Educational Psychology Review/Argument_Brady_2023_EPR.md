@@ -13,7 +13,7 @@ title: "Argument_Brady_2023_EPR"
 argument_key: "Argument_Brady_2023_EPR"
 argument_display_title: "How scientific is educational psychology research? The increasing trend of squeezing causality and recommendations from non-intervention studies"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,12 +28,14 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Recommendations for Practice]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Multimethod Research]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Reliability]]"
+  - "[[Experiential Learning]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -67,7 +69,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 本文没有使用独立理论框架，而是以教育心理学"研究应改善学生学习"的应用使命与因果推论边界之间的张力为论证基础。作者认为，当研究目标是指导政策与实践时，研究序列应从概念发展和描述性研究走向[[Hypothesis|假设]]检验：早期[[Qualitative Observation|质性观察]]和量化自陈调查可帮助理解情境，相关研究可识别可能的[[Causality|因果关系]]，而真正的干预假设需要通过[[Intervention Research|干预研究]]和随机实验进行正式检验(p.2)。
+> 本文没有使用独立理论框架，而是以教育心理学"研究应改善学生学习"的应用使命与因果推论边界之间的张力为论证基础。作者认为，当研究目标是指导政策与[[Praxis|实践]]时，研究序列应从概念发展和描述性研究走向[[Hypothesis|假设]]检验：早期[[Qualitative Observation|质性观察]]和量化自陈调查可帮助理解情境，相关研究可识别可能的[[Causality|因果关系]]，而真正的干预假设需要通过[[Intervention Research|干预研究]]和随机实验进行正式检验(p.2)。
 
 ## 研究方法
 
@@ -75,13 +77,13 @@ citation_aliases:
 > - 方法：期刊文章[[Coding in Qualitative Research|编码]]与趋势比较。
 > - 样本：核心 2020 年五刊样本为 255 篇经验文章，期刊包括 *Journal of Educational Psychology*、*American Educational Research Journal*、*Cognition and Instruction*、*Journal of Experimental Education* 和 *Contemporary Educational Psychology*；作者另编码 2019 年 *Journal of Educational Psychology* 的 87 篇文章以检验年度稳定性，二者合计 342 篇(pp.4-6)。
 > - 方法分类：观察/相关研究、[[Intervention Research|干预研究]]、[[Experimental Research|实验研究]]、[[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]。观察/相关研究不操纵自[[Variable|变量]]且含量化数据；干预与实验都操纵[[Independent Variable|自变量]]，但实验进一步要求[[Random Assignment|随机分配]]；质性研究不操纵自变量且使用访谈、观察等文本数据；混合方法/多方法研究不操纵自变量且同时包含量化和质性数据(p.4)。
-> - RFP 编码：若文章暗示或明确说明采用/避免、增加/减少某实践会改善教师或学生结果，即编码为包含[[Recommendations for Practice|实践建议]]。
+> - RFP 编码：若文章暗示或明确说明采用/避免、增加/减少某[[Praxis|实践]]会改善教师或学生结果，即编码为包含[[Recommendations for Practice|实践建议]]。
 > - [[Reliability|信度]]：所有作者先独立编码同一期 *Contemporary Educational Psychology* 文章并讨论达成共识；其后每人编码约 50 篇，并额外交叉编码 30 篇。研究方法编码一致率为 91%，RFP 编码一致率为 76%，所有分歧经小组讨论达成共识(p.5)。
 
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **教育心理学研究序列正在停在相关阶段** 如果目标是指导实践，描述性和相关研究应通向干预[[Hypothesis|假设]]检验；但过去 30 年经验教育心理学期刊中[[Intervention Research|干预研究]]下降、观察/相关研究上升，显示研究序列常在非干预阶段结束(pp.2-3)。
+> 1. **教育心理学研究序列正在停在相关阶段** 如果目标是指导[[Praxis|实践]]，描述性和相关研究应通向干预[[Hypothesis|假设]]检验；但过去 30 年[[Experiential Learning|经验教育]]心理学期刊中[[Intervention Research|干预研究]]下降、观察/相关研究上升，显示研究序列常在非干预阶段结束(pp.2-3)。
 > 2. **[[Non-intervention Research|非干预研究]]的[[Recommendations for Practice|实践建议]]构成因果推论风险** 作者以一项结构方程模型研究为例说明，研究没有[[Variable|变量]]操纵，却在实践意义部分建议操纵某变量以改善另一变量；这体现了用观察数据推断[[Causality|因果关系]]并给出基于假定因果性的 RFP(p.3)。
 > 3. **2020 年趋势延续并复杂化** 干预研究比例自 2010 年后稳定在 25%，随机实验继续降至 20%；观察/相关研究比例从 2010 年的 66% 降至 2020 年的 46%，但这主要伴随[[Qualitative Research|质性研究]]上升至 22%，非干预研究总体仍约占四分之三(pp.6-7)。
 > 4. **RFP 在非干预研究中继续增长** 观察/相关文章含 RFP 的比例从 2000 年 41%、2010 年 46% 上升至 2020 年 66%；质性研究和[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]中也分别有 65% 与 60% 包含 RFP，说明 2020 年约三分之二的非干预文章提出实践建议。

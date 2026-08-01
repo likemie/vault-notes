@@ -10,7 +10,7 @@ title: "Argument_Ryan_2010_HKUP"
 argument_key: "Argument_Ryan_2010_HKUP"
 argument_display_title: "International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 15
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -30,6 +30,8 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
+  - "[[Praxis]]"
+  - "[[Dialogue in Education]]"
   - "[[Rationalism in International Relations]]"
   - "[[Paradigm]]"
   - "[[Fourth Culture]]"
@@ -37,6 +39,7 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Champ]]"
   - "[[Questionnaire]]"
+  - "[[Democratic Education]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -65,9 +68,9 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 本书编者 Ryan 与 Slethaug 试图回答两个相互关联的问题：第一，[[International Education|国际教育]]在近年来如何以及为何爆炸式增长，[[Chinese Learner|中国学习者]]在这一过程中扮演了什么角色？第二，"中国学习者"这一概念本身如何被西方学界刻板化，这些刻板印象如何影响教学实践，以及如何打破它们？(pp.2–3]])
+> 本书编者 Ryan 与 Slethaug 试图回答两个相互关联的问题：第一，[[International Education|国际教育]]在近年来如何以及为何爆炸式增长，[[Chinese Learner|中国学习者]]在这一过程中扮演了什么角色？第二，"中国学习者"这一概念本身如何被西方学界刻板化，这些刻板印象如何影响教学[[Praxis|实践]]，以及如何打破它们？(pp.2–3]])
 
-> 编者指出，大学研究者与中小学教师之间长期缺乏对这一现象的跨学段对话，导致各自的认识局限于特定专业圈层内——这本书正是为了弥合这一鸿沟(p.2]])。
+> 编者指出，大学研究者与中小学教师之间长期缺乏对这一现象的跨学段[[Dialogue in Education|对话]]，导致各自的认识局限于特定专业圈层内——这本书正是为了弥合这一鸿沟(p.2]])。
 
 
 ## 理论框架
@@ -83,7 +86,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段对话"(p.2]])。
+> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段[[Dialogue in Education|对话]]"(p.2]])。
 
 
 ## 论证结构
@@ -95,7 +98,7 @@ citation_aliases:
 
 > **第 2 层（第 3–5 章）：聚焦香港[[International Schools|国际学校]]中的中国学习者。** Forse 从结构层面分析 [[English Schools Foundation Hong Kong|ESF]] 系统转型；Jabal 从社会学视角考察学生的多元文化体验；Schmidt 探讨价值观为本课程与社会良知的培育。
 
-> **第 3 层（第 6–9 章）：考察跨国高等教育中的教学互动。** Vinther 讨论丹麦语境；Miller 分析在澳中国职前教师的认同问题；Wang 和 Zhu 分别从美方和中方视角审视在中国的跨文化教学实践。
+> **第 3 层（第 6–9 章）：考察跨国高等教育中的教学互动。** Vinther 讨论丹麦语境；Miller 分析在澳中国职前教师的认同问题；Wang 和 Zhu 分别从美方和中方视角审视在中国的跨文化教学[[Praxis|实践]]。
 
 > 三个部分共同指向一个结论：真正的挑战不仅在于教学法，更在于教师在社会化过程中对认同、跨文化关系和教学实践的反思(p.8]])。
 
@@ -104,7 +107,7 @@ citation_aliases:
 
 > [!success]
 > 编者提出两个核心判断：
-> - "[[Chinese Learner|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。最佳教学实践高度依赖于学习者文化、教师文化以及两者之间的互动。"(p.15]])
+> - "[[Chinese Learner|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。最佳教学[[Praxis|实践]]高度依赖于学习者文化、教师文化以及两者之间的互动。"(p.15]])
 > - [[International Education|国际教育]]已经从"地方和国家绑定"的教育模式转变为跨国市场和全球竞争[[Champ|场域]]——而这一转变"在几乎无人察觉的情况下"完成了(p.15, 呼应标题"Something Happened While Nobody Was Looking"]])
 
 > [!success]
@@ -114,7 +117,7 @@ citation_aliases:
 > - Argument_Forse_2010_ESF — 从结构层面分析 [[English Schools Foundation Hong Kong|ESF]] 系统从英国国民学校向接纳 40%–50% 本地华人学生转型的过程及其对香港公校系统的冲击（第 3 章）
 > - Argument_Jabal_2010_InternationalSchooling — 以 1,270 份[[Questionnaire|问卷调查]]和 34 人访谈为基础，考察香港华人学生在国际学校中的多元文化体验与"[[Fourth Culture|第四文化]]"调适复杂性（第 4 章）
 > - Argument_Schmidt_2010_SocialConscience — 论证价值观为本课程对培养中国学习者社会良知的价值，以香港国际学校为案例（第 5 章）
-> - Argument_Vinther_2010_DanishPerspective — 考察在丹麦独特民主教育文化中中国学习者的适应经验，发现其比欧洲学生适应更快（第 6 章）
+> - Argument_Vinther_2010_DanishPerspective — 考察在丹麦独特[[Democratic Education|民主教育]]文化中中国学习者的适应经验，发现其比欧洲学生适应更快（第 6 章）
 > - Argument_Miller_2010_PreServiceTeachers — 以 Bourdieu 理论为框架，通过两个[[Case Study|案例研究]]分析在澳中国职前教师的语言、认同与教学实践（第 7 章）
 > - Argument_Wang_2010_CrossCulturalExchange — 从美方教师视角审视在中山大学的 ESL 跨文化教学实践（第 8 章）
 > - Argument_Zhu_2010_TeamTeaching — 从中方管理者视角分析中山大学"跨国主义与美国"项目的团队教学经验与三类障碍（第 9 章）

@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Evidence-Based Education]]"
   - "[[School Autonomy]]"
+  - "[[Active Learning]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
   - "[[Evaluation Research]]"
@@ -132,7 +133,7 @@ updated: "2026-07-09"
 > - **过程公平**
 >   引入个性化学习支持和补救教学；向学校下放自主权（德国萨克森州强制性[[School Autonomy|学校自主权]]）；提高教师教育水平。
 > - **结果公平**
->   强调教育质量的符合性而非仅仅数量公平。日本 2008 年新《国家学习课程》以三要素（基础知能、思维判断表达、主动学习态度）重新定义学力（Ninomiya, 2019）。
+>   强调教育质量的符合性而非仅仅数量公平。日本 2008 年新《国家学习课程》以三要素（基础知能、思维判断表达、[[Active Learning|主动学习]]态度）重新定义学力（Ninomiya, 2019）。
 > 详见 [[Argument_Li_2025_HSSC|Li et al. (2025)]]。
 
 > [!factors] 三层影响机制

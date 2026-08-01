@@ -6,7 +6,7 @@ aliases:
 summary: "元分析中各研究效应量之间超出抽样误差的变异，是判断能否合理合并研究 and 探索调节变量的核心概念"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Visible Learning]]"
   - "[[Positivism]]"
@@ -106,7 +107,7 @@ updated: 2026-07-08
 ---
 
 > [!claim] 命题一：异质性是教育改进的因果机制信号，而非待抹除的噪声
-> 在高度情境化的教育实践中，平均[[Effect Size|效应量]]往往会抹杀具有实质意义的效果差异，因此探索异质性（什么条件下效果更好）比单纯计算平均效应更具有实践价值。([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
+> 在高度情境化的教育[[Praxis|实践]]中，平均[[Effect Size|效应量]]往往会抹杀具有实质意义的效果差异，因此探索异质性（什么条件下效果更好）比单纯计算平均效应更具有实践价值。([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
 > 
 > [!warrant]- 命题一的支撑理由
 > 教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应。干预的效果高度依赖于特定情境（如学生先前水平、[[Student-Teacher Relationship|师生关系]]、学校文化等）与底层机制的交互，这些因素的变异直接在统计上表现为强烈的异质性([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 14]])。
@@ -153,5 +154,5 @@ updated: 2026-07-08
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 系统介绍了异质性检验的统计学机制（Q、I²、固定/随机模型） and [[Moderator Analysis|调节变量分析]]的价值。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 警示[[Meta-meta-analysis|元-元分析]]（如[[John Hattie|约翰·哈蒂]]的研究）存在变异性与稳定性困境，在累积中导致了原始经验信息的丢失。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析了 [[Education Endowment Foundation|EEF]] 工具包中的“反馈”和“教学助理”等类目，揭示了多级统计聚合抹除教学异质性所带来的实践与政策风险。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析了 [[Education Endowment Foundation|EEF]] 工具包中的“反馈”和“教学助理”等类目，揭示了多级统计聚合抹除教学异质性所带来的[[Praxis|实践]]与政策风险。
 > - [[Argument_Wiliam_2019|Wiliam (2019)]] — 以反馈研究的变异和[[Tracking|能力分组]]研究的教师变异为例，论证了去情境化平均[[Effect Size|效应量]]的误导性。

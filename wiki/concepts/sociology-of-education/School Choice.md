@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校。"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - theme/educational-inequality
   - policy/neoliberalism
 related_concepts:
+  - "[[Praxis]]"
   - "[[Habitus]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
@@ -48,7 +49,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 核心定义
-> 择校（School Choice），指学龄儿童的家长依据自身教育偏好与资本存量，主动为其选择特定的就读学校，而非被动接受政府刚性就近划片分配的教育实践与制度逻辑。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 302)]]
+> 择校（School Choice），指学龄儿童的家长依据自身教育偏好与资本存量，主动为其选择特定的就读学校，而非被动接受政府刚性就近划片分配的教育[[Praxis|实践]]与制度逻辑。[[Argument_Teng_2025_CE|Teng & Wang (2025, p. 302)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向家庭阶级[[Habitus|习性]]、资源存量同公私立学校资源空间分配之间的博弈与变现机制。
@@ -156,7 +157,7 @@ updated: 2026-07-13
 > [!dev-timeline] 概念演变
 > - **1962 — 市场选择思想的提出** 弗里德曼（Friedman）提出教育券计划，主张以市场竞争和家长选择打破公立垄断。
 > - **2000s — 新自由主义政策大扩张** 英美等国大力推广[[Partnership Schools Kura Hourua|特许学校]]（charter schools）和学院学校（academies），择校成为主流教育政策。
-> - **2010s — 转型国家的教育城镇化变体** 中国推进[[Rural School Consolidation|农村学校撤并]]与县城学校扩张，择校实践与地理迁移、农民市民化合流，演化为“以教促城”的政策抓手。[[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 303–304)]]
+> - **2010s — 转型国家的教育城镇化变体** 中国推进[[Rural School Consolidation|农村学校撤并]]与县城学校扩张，择校[[Praxis|实践]]与地理迁移、农民市民化合流，演化为“以教促城”的政策抓手。[[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 303–304)]]
 
 ---
 
@@ -182,5 +183,5 @@ updated: 2026-07-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu|陪读]]择校实践，解构了其中家庭资本的分层博弈。
+> - [[Argument_Teng_2025_CE|Teng & Wang (2025, pp. 303–314)]] — 详述了中国农村教育城镇化驱动下的[[Peidu|陪读]]择校[[Praxis|实践]]，解构了其中家庭资本的分层博弈。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09|Cohen et al. (2011, Ch. 9)]] — 探讨了家长规避行政划片、通过非正式网络建立联系以进入心仪学校的手段。
