@@ -656,23 +656,12 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > |---------|------|------|------|
 > | **综合门户** | PCP-net | 极为全面的网站，含大量资源和链接 | www.pcp-net.org/ |
 > | **综合门户** | Enquire Within | 另一个综合网站 | www.enquirewithin.co.nz/ |
-> | **检索数据库** | PCP 检索数据库（卧龙岗大学） | 个人建构心理学可检索数据库 | www.uow.edu.au/health/psyc/research/pcp/database/index.html |
 > | **在线期刊** | Personal Construct Theory and Practice | 同行评审在线期刊 | www.pcp-net.org/journal/ |
-> | **欧洲组织** | EPCA | 欧洲个人建构协会 | www.epca-net.org/ |
 > | **北美组织** | Constructivist Psychology | 北美[[Constructivist Paradigm\|建构主义]]心理学组织 | www.constructivistpsych.org/ |
 > | **澳大利亚组织** | Aus PCP | 澳大利亚个人建构心理学 | www.pcp-net.org/aus/ |
-> | **免费软件 - Web** | Webgrid 5（Shaw & Gaines） | 基于 Web 的网格软件 | tiger.cpsc.ucalgary.ca/ |
 > | **免费软件 - Windows** | Idiogrid | 全面的 Windows 网格程序 | www.idiogrid.com/ |
-> | **免费软件 - DOS** | GRIDSTAT（Richard Bell） | 全面的 DOS 网格程序（含意大利语版），同时提供在网格中使用 SPSS 语法的详尽文档 | www.repgrid.unimelb.edu.au/grids.htm |
 > | **购买软件** | Gridsuite | 德语或英语版本 | www.gridsuite.de/ |
-> | **购买软件** | Gridcor | 西班牙语或英语版本 | www.terapiacognitiva.net/record/gridcor.htm |
-> | **购买软件** | Rep 5（Shaw & Gaines） | 全功能程序 | repgrid.com/ |
 > | **购买软件** | Scivesco | 分析多个网格，含高级图形功能 | elementsandconstructs.de/en/home |
-
-> [!example]- 配套网站
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_25-9_Companion_Website.jpg)
->
-> [配套网站](https://www.routledge.com/textbooks/cohen7e) 提供第25章的 PowerPoint 幻灯片，列出各节结构并总结要点，以及关于 repertory grids 和三元引发的补充信息。
 
 ---
 
