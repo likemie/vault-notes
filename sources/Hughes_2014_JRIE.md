@@ -1,6 +1,7 @@
 ---
 citation: "Hughes, C. (2014). Theory of Knowledge aims, objectives and assessment criteria: An analysis of critical thinking descriptors. Journal of Research in International Education, 13(1), 30–45. https://doi.org/10.1177/1475240914528084"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Hughes_2014_JRIE]]"
 processed_date: 2026-08-03
 ---
 
