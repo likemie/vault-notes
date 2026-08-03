@@ -42,7 +42,7 @@ Total entries: **188**
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]] — 系统介绍观察法作为资料收集方法，涵盖观察的分类维度与Gold角色连续体、结构化观察的五种数据记录方式与Dyer设计清单、关键事件法、自然主义与参与式观察的田野笔记多层框架与厚描述、自然与人工观察环境、技术记录、时间与因果推断三法则、隐蔽研究的伦理争议与专业准则以及观察的十类偏误与信效度保障
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 系统介绍测验作为资料收集工具，涵盖测验内容的广泛分类、参数与非参数测验、常模参照标准参照与领域参照测验、商业与自编测验的选择、测验编制的全流程（CTT与IRT、项目分析、题型设计、计分与预测试）、软件工具、前后测设计要求、测验伦理与计算机自适应测验
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统介绍George Kelly的个人建构理论及其核心研究工具——角色建构库测验(repertory grid)，涵盖理论的基本公设与十一条推论、Kelly感知—诠释—行为三重关注、repertory grid的两大优势、完整操作流程(元素选择与角色头衔、三元比较法与构念引发、引发vs提供的经典争论、评分形式与偏斜性、阶梯法与金字塔法、交换网格与社会网格)、网格分析方法(构念对齐、认知复杂性指数、主成分分析、聚类分析、聚焦法与自认同图)、十项教育研究应用详案(八项repertory grid与两项阶梯法)、六项使用困难与在线资源
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26]] — 系统介绍角色扮演作为研究方法的理论基础、定义、操作程序、伦理问题与三类研究案例，涵盖戏剧感染力与审查史、心理剧起源、简报—表演—脱离角色三阶段、角色承担/制造/协商三重基础、八项设计原则、戏剧张力与自观保护机制、Stanford Prison Experiment伦理教训，以及McCarthy & Anderson、Sellers、Robinson & Kelley三项实证研究，并附Ginsburg方法批评。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26]] — 系统介绍角色扮演作为研究方法的理论基础、定义、操作程序、伦理问题与三类研究案例，涵盖戏剧感染力与审查史、心理剧起源、简报—表演—脱离角色三阶段、角色承担/制造/协商三重基础、八项设计原则、戏剧张力与自观保护机制、斯坦福监狱实验伦理教训，以及McCarthy & Anderson、Sellers、Robinson & Kelley三项实证研究，并附Ginsburg方法批评。
 
 > [!index-list]- Creswell_2022_SAGE (1)
 > - [[Argument_Creswell_2022_SAGE]] — Creswell & Creswell 研究方法教材第六版，系统讲解量化、质性和混合方法三种研究路径的设计框架、关键组成部分和写作方法，涵盖从哲学假设、文献综述、理论使用到具体方法程序的完整研究设计流程
