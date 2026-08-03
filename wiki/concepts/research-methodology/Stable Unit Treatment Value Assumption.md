@@ -6,7 +6,7 @@ aliases:
 summary: "潜在结果框架中的关键假定，指每个主体的潜在结果只取决于自身接受的处理而不受他人处理影响。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
-  - "[[Criterion-Referenced Test]]"
   - "[[Confidence Interval]]"
   - "[[Ontology]]"
   - "[[Praxis]]"
@@ -48,7 +47,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] 违反机制：集群[[Random Assignment|随机化]]中的主体间干扰
-> SUTVA 在教育研究中最重要的违反场景是**[[Cluster Randomized Trials|集群随机试验]]（[[Criterion-Referenced Test|CRT]]）**。在典型的教室集群随机化中：
+> SUTVA 在教育研究中最重要的违反场景是**[[Cluster Randomized Trials|集群随机试验]]（CRT）**。在典型的教室集群随机化中：
 >
 > - 整个教室的学生被分配至一种干预，但政策兴趣聚焦于个体学生如何回应（即政策利益单位是学生，但[[Random Assignment|随机分配]]单位是教室）([[Argument_Berk_2011_ER|Berk, 2011, p.194]])
 > - 同一教室内的学生之间会互动，因此测量的结果在学生之间不是独立实现的——"一个学生的结果取决于他/她与之互动的学生，而这又取决于哪些学生被分配到哪些干预"([[Argument_Berk_2011_ER|Berk, 2011, p.195]])
@@ -68,7 +67,7 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - vs [[Cluster Randomized Trials]] — SUTVA 是 [[Criterion-Referenced Test|CRT]] 设计中的一个核心威胁；CRT 设计正是因干预需要在集群层面实施而产生，但由此引入的 SUTVA 违反常被研究者忽视
+> - vs [[Cluster Randomized Trials]] — SUTVA 是 CRT 设计中的一个核心威胁；CRT 设计正是因干预需要在集群层面实施而产生，但由此引入的 SUTVA 违反常被研究者忽视
 > - vs [[Potential Outcomes Framework]] — SUTVA 是该框架下因果效应能够被唯一定义的前提条件之一
 > - vs [[Randomised Controlled Trials]] — 个体[[Random Assignment|随机分配]]的 RCT 同样需要满足 SUTVA，但在集群随机化中 SUTVA 违反更为系统性和难以避免
 

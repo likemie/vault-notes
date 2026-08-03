@@ -6,7 +6,7 @@ aliases:
 summary: "源自歌德与马克斯·韦伯的社会学概念，指两种不同的思想、信仰或制度要素在特定文化/社会条件下产生的互惠吸引、契合与相互强化机制，常用于解释跨文化政策借用与本土传统共振"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Recontextualization]]"
   - "[[Dialogue in Education]]"
+  - "[[Decodification]]"
   - "[[Praxis]]"
   - "[[Test-Based Accountability]]"
   - "[[Learner-Centred Education]]"
@@ -60,7 +61,7 @@ updated: '2026-07-22'
 > | 维度 | 选择性亲和（Selective Affinity） | 政策移植（Policy Transplantation） | 文化抵抗（Cultural Resistance） |
 > |---|---|---|---|
 > | **核心机制** | 双向互惠的内在契合与相互借力 | 单向机械复制外部制度形态 | 对外来理念的排斥与本土抵制 |
-> | **行动者主体性** | 本土行动者主动解码并融入传统 | 行动者被动接受外部指令 | 本土行动者被动防守 |
+> | **行动者主体性** | 本土行动者主动[[Decodification\|解码]]并融入传统 | 行动者被动接受外部指令 | 本土行动者被动防守 |
 > | **[[Praxis\|实践]]结果** | 生成融合性本土实践 | 形式化表演或器官排异 | 改革停滞或彻底回归传统 |
 
 ---

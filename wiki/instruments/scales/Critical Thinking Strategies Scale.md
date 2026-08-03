@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-30
-updated: 2026-07-01
+updated: 2026-08-03
 ---
 
 # Critical Thinking Strategies Scale
@@ -58,7 +58,7 @@ updated: 2026-07-01
 > |---|---|---|---|
 > | 批判性思维策略使用 | 14 | 澄清、问题分解、论证识别与分析、主张评估、替代方案、证据推理、反思和表达 | 采用十四题总分均值，分数越高表示自报使用程度越高 |
 
-探索性因子分析用于缩减题项。初始题项数、保留标准、载荷和因子数量为 —。十四题最终作为一个总量表计分，因此暂按单一报告维度记录，现有证据不足以证明量表具有单维结构。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6, 9)]]
+探索性因子分析用于缩减题项。初始题项数、保留标准、载荷和因子数量为 —。十四题最终作为一个总量表计分，因此暂按单一报告维度记录，现有证据不足以证明量表具有单维结构。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 252, 255)]]
 
 ---
 
@@ -66,7 +66,7 @@ updated: 2026-07-01
 
 > [!instrument-items] 作答规则
 > - **题项形式** 每题描述一种可能采取的[[Critical Thinking|批判性思维]]行动。
-> - **作答格式** 七点 Likert 量表，1 表示不太可能，7 表示极有可能。[[Argument_Cole_2015_AJE|(Cole et al., 2015, p. 6)]]
+> - **作答格式** 七点 Likert 量表，1 表示不太可能，7 表示极有可能。[[Argument_Cole_2015_AJE|(Cole et al., 2015, p. 252)]]
 > - **反向题与跳题** —
 
 ### 批判性思维策略使用
@@ -76,7 +76,7 @@ updated: 2026-07-01
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 1 | 努力澄清含义，并界定自己不熟悉的术语<br><small>Work to clarify meaning and define terms with which you are unfamiliar</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 9)]] |
+> | 1 | 努力澄清含义，并界定自己不熟悉的术语<br><small>Work to clarify meaning and define terms with which you are unfamiliar</small> | 1 至 7 | 正向计分 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 255)]] |
 > | 2 | 努力理解新材料的重要性，判断它如何与既有知识或经验相衔接<br><small>Work to understand the significance of the new material to see how it fits with your prior knowledge or experience</small> | 1 至 7 | 正向计分 | Cole et al. |
 > | 3 | 用几种方式重新表述新问题，以澄清其含义和范围<br><small>Express the new question in several ways to clarify its meaning and scope</small> | 1 至 7 | 正向计分 | Cole et al. |
 > | 4 | 将问题拆分为若干子问题<br><small>Break the question into sub-questions</small> | 1 至 7 | 正向计分 | Cole et al. |
@@ -111,4 +111,4 @@ updated: 2026-07-01
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始研究版 | 英语，澳大利亚 | 十一、十二年级 ToK 学生 | 14 | 由 EFA 缩题形成 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 6, 9)]] |
+> | 原始研究版 | 英语，澳大利亚 | 十一、十二年级 ToK 学生 | 14 | 由 EFA 缩题形成 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 252, 255)]] |

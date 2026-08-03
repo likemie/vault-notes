@@ -4,11 +4,18 @@ aliases: [社会片段, social episode]
 summary: "社会生活的任何连贯片段，有可识别的起点和终点，其行动序列对参与者具有某种意义，是人因研究的基本分析单位。"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [concept/sociological, paradigm/interpretive, theme/micro-sociology]
+related_concepts:
+  - "[[Interpretive Paradigm]]"
+related_methods:
+  - "[[Ethogenic Approach]]"
+  - "[[Account Gathering]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -33,7 +40,7 @@ updated: 2026-07-23
 > - **可识别边界** 片段通常有可识别的起点和终点——参与者自身可以感知到"这开始了"和"这结束了"。
 > - **对参与者的意义** 构成片段的行动序列对参与者具有某种意义，这是片段区别于纯粹物理行为序列的关键。
 > - **持续时间可变** 片段可以是几秒钟的互动（如道歉），也可以是跨越数年的历程（如整个学校生涯）。
-> - **内含多维信息** 人因研究者不仅关注可感知的行为（手势、言语），还关注参与者的思想、感受和意图。
+> - **内含多维信息** [[Ethogenic Approach|人因研究]]者不仅关注可感知的行为（手势、言语），还关注参与者的思想、感受和意图。
 
 ## 概念辨析
 
@@ -42,7 +49,7 @@ updated: 2026-07-23
 > |------|---------------|-------|-----------|
 > | 边界来源 | 参与者自身的意义体验 | 外部可观察的时间节点 | 外部分析者划定的条件集合 |
 > | 核心焦点 | 行动序列的意义整体性 | 发生的事实和结果 | 行为的条件和语境 |
-> | 分析传统 | 人因研究、诠释范式 | 历史研究、事件研究 | 社会心理学、情境分析 |
+> | 分析传统 | [[Ethogenic Approach\|人因研究]]、[[Interpretive Paradigm\|诠释范式]] | 历史研究、事件研究 | 社会心理学、情境分析 |
 
 ## 围绕概念形成的命题
 
@@ -70,4 +77,4 @@ updated: 2026-07-23
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章以社会片段为人因方法的基本分析单位，系统阐述陈述收集与分析程序，并通过Heath（1982）的Trackton社区研究展示如何在社会片段层面分析课堂沟通。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章以社会片段为人因方法的基本分析单位，系统阐述[[Account Gathering|陈述收集]]与分析程序，并通过Heath（1982）的Trackton社区研究展示如何在社会片段层面分析课堂沟通。

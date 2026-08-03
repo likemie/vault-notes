@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 78
+argument_related_count: 79
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Causality]]"
+  - "[[Self-spectator]]"
   - "[[Informed Consent]]"
   - "[[Operationalization]]"
   - "[[Research Purpose]]"
@@ -331,7 +332,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 > | 情境关联的观察 | 观察在即时行为情境和更远的语境中都具有情境相关性。 |
 > | 涌现式假设 | 假设在现场中涌现，随研究发展而形成。 |
 > | 长期且重复的观察 | 事件被多次观察以建立观察数据的可靠性。 |
-> | 推断服务于内部人视角 | 来自观察和多种民族志探究的推断用于处理内部人对现实的看法。 |
+> | 推断服务于内部人视角 | 来[[Self-spectator\|自观]]察和多种民族志探究的推断用于处理内部人对现实的看法。 |
 > | 引出社会文化知识 | 民族志主要任务是从参与者引出社会文化知识，使社会行为可理解。 |
 > | 工具现场生成 | 工具、[[Coding in Qualitative Research\|编码]]、访谈议程等应在现场生成，从观察和民族志探究中衍生。 |
 > | 跨文化比较视角 | 跨文化、比较性的视角通常存在；文化变异（跨时空）为自然状态。 |

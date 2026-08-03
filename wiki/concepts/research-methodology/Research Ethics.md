@@ -4,7 +4,7 @@ aliases: ["研究伦理", "研究伦理规范", "research ethics in social scien
 summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研究前 IRB 审批与知情同意、研究中避免欺骗与剥削、研究后诚实报告与数据保护，各专业协会均发布伦理守则作为行业标准"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,7 +44,8 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Stanford Prison Experiment]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
@@ -245,7 +246,7 @@ updated: 2026-07-11
 > [!tension] 两种立场的张力
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 92–93]]）：
 >
-> **绝对主义立场（absolutist view）** 应由清晰、固定的原则指导研究者工作——"原则的义务伦理"（Edwards & Mauthner, 2002, p. 20），一种道义论模型。研究受普遍准则如正义、诚实和尊重所管辖。例如 Stanford Prison Experiment 按照绝对原则必须被视为不伦理的。
+> **绝对主义立场（absolutist view）** 应由清晰、固定的原则指导研究者工作——"原则的义务伦理"（Edwards & Mauthner, 2002, p. 20），一种道义论模型。研究受普遍准则如正义、诚实和尊重所管辖。例如 [[Stanford Prison Experiment]] 按照绝对原则必须被视为不伦理的。
 >
 > **相对主义立场（relativist view）** 不可能有绝对指导方针——情境决定行为。尊重研究发生的文化、族裔、社会经济背景（Oliver, 2003, p. 53）。在"后果的功利主义伦理"中，伦理研究根据其后果（如知识增加、多数人受益）来判断。
 >

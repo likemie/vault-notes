@@ -10,7 +10,7 @@ summary: "一种源自人类学的质性研究设计，要求研究者在自然�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 55
+method_related_count: 56
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
+  - "[[Self-spectator]]"
   - "[[Rich and Thick Description]]"
   - "[[Effect Size]]"
   - "[[Dialogue in Education]]"
@@ -155,7 +156,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > | 情境关联的观察 | 观察在即时行为情境和更远的语境中都具有情境相关性。 |
 > | [[Emergence\|涌现]]式假设 | [[Hypothesis\|假设]]在现场中涌现，随研究发展而形成。 |
 > | 长期且重复的观察 | 事件被多次观察以建立观察数据的[[Reliability\|可靠性]]。 |
-> | 推断服务于内部人视角 | 来自观察和多种民族志探究的推断用于处理内部人对现实的看法。 |
+> | 推断服务于内部人视角 | 来[[Self-spectator\|自观]]察和多种民族志探究的推断用于处理内部人对现实的看法。 |
 > | 引出社会文化知识 | 民族志主要任务是从参与者引出社会文化知识，使社会行为可理解。 |
 > | 工具现场生成 | 工具、[[Coding in Qualitative Research\|编码]]、访谈议程等应在现场生成，从观察和民族志探究中衍生。 |
 > | 跨文化比较视角 | 跨文化、比较性的视角通常存在；文化变异（跨时空）为自然状态。 |

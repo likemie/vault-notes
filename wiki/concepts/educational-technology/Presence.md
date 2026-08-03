@@ -10,7 +10,7 @@ aliases:
 summary: "个体在虚拟环境中感受到身临其境（沉浸感）和与他人共享空间（共在感）的主观体验，是虚拟世界研究中用户参与的重要促进因素"
 type: concept
 domain: "educational-technology"
-related_count: 0
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,13 +18,20 @@ tags:
   - educational-technology
   - virtual-world
   - user-engagement
-related_concepts: []
+related_concepts:
+  - "[[Externalization]]"
+  - "[[Epoché]]"
+  - "[[Virtual World]]"
+  - "[[Reliability]]"
+  - "[[Computer Simulation]]"
+  - "[[Avatar]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
 confidence: medium
 status: draft
 created: 2026-07-19
@@ -38,7 +45,7 @@ updated: 2026-07-19
 ## 定义
 
 > [!def] 核心定义
-> 在场感是用户在虚拟或中介环境中主观感受到自己身处其中而非物理所在地的体验。使用互动或非互动媒体将自我外化并在并非物理在场的环境中创建在场印象，依赖于自愿悬置不信任（Coleridge, 1817）以创建视角的幻觉性转移（Dennett, 1978, p. 312），以及用户在体验中使用自身知识、想象力和热情（Zhao, 2003）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 154–155]]）。
+> 在场感是用户在虚拟或中介环境中主观感受到自己身处其中而非物理所在地的体验。使用互动或非互动媒体将自我[[Externalization|外化]]并在并非物理在场的环境中创建在场印象，依赖于自愿[[Epoché|悬置]]不信任（Coleridge, 1817）以创建视角的幻觉性转移（Dennett, 1978, p. 312），以及用户在体验中使用自身知识、想象力和热情（Zhao, 2003）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 154–155]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 在场感指向个体在虚拟或中介环境中对自身所在地的主观感受。它是一个包含三个层次的概念群：在场感（感受到身处其中）、沉浸感（感受到环境包围和响应）和共在感（感受到与他人同在共享空间）。
@@ -90,7 +97,7 @@ updated: 2026-07-19
 ### 命题一　在场感是虚拟世界研究数据质量的前提条件
 
 > [!concept-lens] 在场感与数据有效性
-> 在[[Virtual World|虚拟世界]]研究中，参与者的在场感直接影响数据的真实性、深度和可靠性。高在场感意味着参与者更可能投入情境并做出真实反应。
+> 在[[Virtual World|虚拟世界]]研究中，参与者的在场感直接影响数据的真实性、深度和[[Reliability|可靠性]]。高在场感意味着参与者更可能投入情境并做出真实反应。
 
 > [!claim] Slater & Steed (2000); Riva et al. (2003)
 > **沉浸感增强数据深度** 虚拟世界中沉浸感和共在感的水平直接关系到研究者能够收集到的数据质量。当参与者感受到强烈的在场感和共在感时，他们更可能投入到争议性场景的讨论中，表达真实的观点和感受。沉浸感和共在感都已被识别为用户参与的重要促进因素，在媒体消费者要求更多、更深体验的时代，虚拟世界借助机制与肉体之间的流动边界（Turkle, 2000, p. 555）实现了这种参与（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 154–155, 159–160]]）。
@@ -101,7 +108,7 @@ updated: 2026-07-19
 > 共在感——与他人同在共享空间的主观感受——是虚拟世界区别于纯[[Computer Simulation|计算机模拟]]的关键特征之一。
 
 > [!claim] Boellstorff (2008)
-> **共在感驱动社会互动** 共在感使虚拟世界中的群体讨论成为可能。当参与者感受到与他人同在共享空间时，化身间的互动获得社会真实性，使争议性场景讨论、共识寻求和观点协商成为有意义的社会过程。共在感是虚拟世界研究敏感议题时，替代真实世界群体互动的基础（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 158–160]]）。
+> **共在感驱动社会互动** 共在感使虚拟世界中的群体讨论成为可能。当参与者感受到与他人同在共享空间时，[[Avatar|化身]]间的互动获得社会真实性，使争议性场景讨论、共识寻求和观点协商成为有意义的社会过程。共在感是虚拟世界研究敏感议题时，替代真实世界群体互动的基础（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 158–160]]）。
 
 ---
 

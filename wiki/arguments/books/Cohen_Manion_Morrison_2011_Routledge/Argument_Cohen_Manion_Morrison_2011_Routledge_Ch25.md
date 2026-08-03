@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_display_title: "Research Methods in Education · Ch25"
 argument_kind: "book-chapter"
-argument_related_count: 21
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -37,10 +37,13 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Personal Constructs]]"
   - "[[Construct]]"
+  - "[[Cognitive Complexity Index]]"
+  - "[[Research Question]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Dialogue in Education]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Self-Efficacy]]"
   - "[[Pre-test and Post-test]]"
   - "[[Epistemology]]"
@@ -55,6 +58,9 @@ related_theories:
   - "[[Personal Construct Theory]]"
 related_methods:
   - "[[Repertory Grid Technique]]"
+  - "[[Laddering]]"
+  - "[[Pyramiding]]"
+  - "[[Role-playing]]"
   - "[[Network Analysis]]"
   - "[[Participant Observation]]"
 related_persons:
@@ -81,13 +87,13 @@ updated: 2026-08-01
 > - **什么是个人建构？** 个人建构理论的基本分析单位，个体用于概念化日常世界、预测事件的双极维度
 > - **repertory grid 如何收集数据？** 通过元素（被评价对象）与构念（评价维度）的交叉评分矩阵，实现双向分析
 > - **构念应当引发还是提供？** 个体性推论与共同性推论之间的根本方法论张力贯穿全部操作决策
-> - **如何分析网格数据？** 从认知复杂性指数、主成分分析、聚类分析到聚焦法和自认同图的多层次分析工具箱
+> - **如何分析网格数据？** 从[[Cognitive Complexity Index|认知复杂性指数]]、主成分分析、聚类分析到聚焦法和自认同图的多层次分析工具箱
 > - **repertory grid 在教育研究中如何应用？** 从校长角色认知到学生概念转变，从考试评分特征到医学生身份发展
 
 > [!abstract] 核心结构
 > - **理论根基（25.1）** 从临床经验出发，提出人即科学家的核心隐喻，构建了一个基本公设和十一条推论的形式化理论体系
 > - **方法优势（25.2）** repertory grid 以个体化框架和双向数据结构为两大支柱
-> - **操作流程（25.3）** 从元素选择、构念引发和提供，到阶梯法与金字塔法的完整工具箱
+> - **操作流程（25.3）** 从元素选择、构念引发和提供，到[[Laddering|阶梯法]]与[[Pyramiding|金字塔法]]的完整工具箱
 > - **分析工具（25.4）** 从构念间相关到整体网格空间表征的多层次分析路径
 > - **实证检验（25.5–25.6）** 十项教育研究详案展示方法的灵活性与内在困难
 > - **资源（25.7）** 在线社区、期刊、组织与软件工具清单
@@ -110,7 +116,7 @@ updated: 2026-08-01
 > 1. **选元素** 确定一组同质对象。本例为六位教学相关人物：好教师、我想成为的教师、我学到很多的教师、现在的我作为教师、无效教师、我没学到什么的教师。元素必须同质，否则从部分元素引发的构念不适用于其余元素（pp. 6–7）
 > 2. **引发构念** 用三元比较法：每次取三个元素，请受访者说明其中两个在哪个重要方面相似、而不同于第三个，由此得到一个双极构念。反复进行，本例引出八个构念：安静—吵闹、善交际—冷漠、开放—保守、有创意—按既定计划、独立—依赖、倾听—不倾听、拒绝想法—接受、严格—宽松（p. 7）
 > 3. **逐格评分** 把六个元素放列、八个构念放行，在 1–5 量尺上打分：1 靠近左极品质、5 靠近右极品质。示意：觉得"好教师"很善交际，就在"善交际—冷漠"一行给 1；觉得"无效教师"很冷漠，就给 5。由此得到 6×8 共 48 个量化数据，外加构念标签这一质性数据（p. 6）
-> 4. **对齐后分析** 分析前先统一构念朝向（反转未对齐的构念，否则相关矩阵会出错）；随后按研究问题选择分析方式：比较元素或构念的关系用构念间相关（认知复杂性指数）；看整体结构用主成分分析（元素与构念同绘一图）；找相似分组用聚类或聚焦法；看自我关系用"现在的我"—"理想自我"的自认同图（pp. 10–11）
+> 4. **对齐后分析** 分析前先统一构念朝向（反转未对齐的构念，否则相关矩阵会出错）；随后按[[Research Question|研究问题]]选择分析方式：比较元素或构念的关系用构念间相关（[[Cognitive Complexity Index|认知复杂性指数]]）；看整体结构用主成分分析（元素与构念同绘一图）；找相似分组用聚类或聚焦法；看自我关系用"现在的我"—"理想自我"的自认同图（pp. 10–11）
 > 5. **回到标签解读** 量化结果必须回到构念标签才能说明"意味着什么"。本例主成分显示除"冷漠—善交际"外所有构念同向，意味着在这位教师眼中，冷漠而非善交际反而是更正面的教师品质（p. 10）
 
 > [!example] 网格骨架：元素为列、构念为行，每格填 1–5
@@ -207,7 +213,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > | 类型 | 自由度 | 示例 |
 > |------|--------|------|
 > | 无选择 | 完全固定 | 现在的我 |
-> | 有限选择 | 可替换角色扮演者 | 你的母亲，或在你生活中承担该角色的人 |
+> | 有限选择 | 可替换[[Role-playing\|角色扮演]]者 | 你的母亲，或在你生活中承担该角色的人 |
 > | 广泛选择 | 自由提名 | 一位你敬佩的教师 |
 
 > [!warning] 价值负载角色头衔的极化效应
@@ -258,7 +264,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 #### 阶梯法：蕴含与层级追溯
 
 > [!def] 阶梯法的理论根源
-> 阶梯法（laddering）源于 Hinkle（1965）将蕴含（implication）概念与组织推论相链接。其创新在于用蕴含替代预期，使得不同构念的极点之间可以建立逻辑关系，一个构念蕴含另一个构念（pp. 8–9）。
+> [[Laddering|阶梯法]]（laddering）源于 Hinkle（1965）将蕴含（implication）概念与组织推论相链接。其创新在于用蕴含替代预期，使得不同构念的极点之间可以建立逻辑关系，一个构念蕴含另一个构念（pp. 8–9）。
 
 > [!proc] 阶梯法的操作流程
 > 1. **确定偏好极点** 请参与者指出给定构念中哪个极点是其偏好的。这一步与选择推论直接关联：人选择那些使建构系统获得更大扩展和定义的替代方案
@@ -267,7 +273,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > 4. **完成上级构念** 请参与者给出新构念的对比极点
 > 5. **迭代向上** 再次确定新构念的偏好极点，追问为什么，产生下一个更高层次构念
 
-> [!example]- 表25.1　一次阶梯法[[Dialogue in Education|对话]]（据原著表格转录）
+> [!example]- 表25.1　一次阶梯法[[Dialogue in Education|对话]]（据原著表格[[Transcription in Qualitative Research|转录]]）
 >
 > | 对话（访谈者 / 受访者） | 方法说明 |
 > |:--|:--|
@@ -290,10 +296,10 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 >
 > Hinkle（1965）还进一步开发了蕴含网格（Implication Grid，简称 Impgrid），要求受试者将所有构念两两比较，逐一判断一个构念是否蕴含另一个。蕴含网格将阶梯法从访谈技术扩展为可量化的[[Network Analysis|网络分析]]工具。
 
+---
 #### 金字塔法：横向展开的描述工具
 
-> [!info] 金字塔法的设计思路
-> Landfield（1971）开发了类似但方向不同的程序：
+[[Pyramiding|金字塔法]]由 Landfield（1971）开发，是类似但方向不同的程序：
 
 > [!proc] 金字塔法的操作流程
 > 1. 以单一个人为元素，指定该人的一个特征
@@ -324,6 +330,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > - **社会网格（Sociogrids）** Pairs 分析的延伸，识别一个群体内各网格之间的关系模式，可生成整个群体的模式网格（mode grid）或识别小团体的多个模式网格
 > - **社会网络（Socionets）** 从社会网格中进一步导出，揭示群体内共享建构的网络模式
 
+---
 #### 网格施测：一对一、团体与问卷三种方式
 
 > [!method-panel] 三种施测方式比较
@@ -676,16 +683,16 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 
 > [!ref-table] 在线资源一览
 >
-> | 资源类型 | 名称 | 说明 | 地址 |
-> |---------|------|------|------|
-> | **综合门户** | PCP-net | 极为全面的网站，含大量资源和链接 | www.pcp-net.org/ |
-> | **综合门户** | Enquire Within | 另一个综合网站 | www.enquirewithin.co.nz/ |
-> | **在线期刊** | Personal Construct Theory and Practice | 同行评审在线期刊 | www.pcp-net.org/journal/ |
-> | **北美组织** | Constructivist Psychology | 北美[[Constructivist Paradigm\|建构主义]]心理学组织 | www.constructivistpsych.org/ |
-> | **澳大利亚组织** | Aus PCP | 澳大利亚个人建构心理学 | www.pcp-net.org/aus/ |
-> | **免费软件 - Windows** | Idiogrid | 全面的 Windows 网格程序 | www.idiogrid.com/ |
-> | **购买软件** | Gridsuite | 德语或英语版本 | www.gridsuite.de/ |
-> | **购买软件** | Scivesco | 分析多个网格，含高级图形功能 | elementsandconstructs.de/en/home |
+> | 资源类型 | 名称 | 说明 |
+> |---------|------|------|
+> | **综合门户** | [PCP-net](https://www.pcp-net.org/) | 极为全面的网站，含大量资源和链接 |
+> | **综合门户** | [Enquire Within](https://www.enquirewithin.co.nz/) | 另一个综合网站 |
+> | **在线期刊** | [Personal Construct Theory and Practice](https://www.pcp-net.org/journal/) | 同行评审在线期刊 |
+> | **北美组织** | [Constructivist Psychology](https://www.constructivistpsych.org/) | 北美[[Constructivist Paradigm\|建构主义]]心理学组织 |
+> | **澳大利亚组织** | [Aus PCP](https://www.pcp-net.org/aus/) | 澳大利亚个人建构心理学 |
+> | **免费软件 - Windows** | [Idiogrid](https://www.idiogrid.com/) | 全面的 Windows 网格程序 |
+> | **购买软件** | [Gridsuite](https://www.gridsuite.de/) | 德语或英语版本 |
+> | **购买软件** | [Scivesco](https://elementsandconstructs.de/en/home) | 分析多个网格，含高级图形功能 |
 
 ---
 

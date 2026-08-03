@@ -7,7 +7,7 @@ summary: "瑞士教育政策研究者和OECD指标专家，INES项目创始人�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[International Education]]"
+  - "[[Decodification]]"
   - "[[Performance Indicators]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
@@ -64,7 +65,7 @@ updated: '2026-06-08'
 >
 > 后期核心论点([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14, 18]])：
 > - **指标与评估的混淆** OECD 从提供"提醒"性指标滑向呈现"评估"性结论，将变化中的系统、教育供给、个体成绩和系统效率混合在单一框架中
-> - **不存在中立认知** "没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
+> - **不存在中立认知** "没有认知方法能使其观察、测量、分析、比较、[[Decodification|解码]]的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
 > - **民主缺失** 2002 年 [[Education at a Glance|EAG]] 概念框架的重组"在没有任何真正民主辩论的情况下"完成(Bottani, 2008, p.18; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.14]])
 
 ## 主要贡献

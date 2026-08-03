@@ -8,7 +8,7 @@ aliases:
 summary: "研究中研究者有意隐瞒真实目的、条件或误导参与者的行为，涉及不告知全部真相，在社会心理学实验和隐蔽研究中尤为常见，是研究伦理中最具争议的实践之一"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,9 +22,11 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Conatus]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Role-playing]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Stanford Prison Experiment]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 confidence: medium
@@ -86,7 +88,7 @@ Kelman (1967) 提出了三种处理欺骗问题的方式（[[Argument_Cohen_Mani
 > - 研究结束时花时间让受试者放心，并帮助他们处理对经历的感受——受试者不应以比来时更大的焦虑或更低的自尊离开（再次体现[[Non-maleficence and Beneficence in Research|不伤害原则]]）
 
 > [!feature] 3. 开发新程序和新技术
-> 如角色扮演（role-playing）或"[[Hypothesis|假设]]"实验——"角色扮演 vs 欺骗"辩论。这些新方法要求使用参与者的动机而非绕过它们，甚至可能需要提高潜在参与者的成熟度而非维持他们的天真。
+> 如[[Role-playing|角色扮演]]（role-playing）或"[[Hypothesis|假设]]"实验——"角色扮演 vs 欺骗"辩论。这些新方法要求使用参与者的动机而非绕过它们，甚至可能需要提高潜在参与者的成熟度而非维持他们的天真。
 
 > [!tip]- debriefing（事后说明）
 > 抵消使用欺骗的研究负面效果的主要方式。Debriefing 可包括（Cooper & Schindler, 2001, p. 116）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 112]]）：
@@ -110,5 +112,5 @@ Kelman (1967) 提出了三种处理欺骗问题的方式（[[Argument_Cohen_Mani
 
 > [!case] 应用案例索引
 > - Milgram 服从权威实验——参与者被告知在研究学习与惩罚，实际上在测试服从性（见第26章）
-> - Stanford Prison Experiment——研究者在模拟监狱中研究人际动力学，绝对主义立场认为它不应该发生（见第26章）
+> - [[Stanford Prison Experiment]]——研究者在模拟监狱中研究人际动力学，绝对主义立场认为它不应该发生（见第26章）
 > - 种族偏见研究——准确标记为"种族偏见研究"将肯定影响参与者行为，欺骗是必要的

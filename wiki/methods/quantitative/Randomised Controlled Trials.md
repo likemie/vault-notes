@@ -55,7 +55,6 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Clinical Trial]]"
   - "[[Side Effects]]"
-  - "[[Criterion-Referenced Test]]"
   - "[[Document]]"
   - "[[Ontology]]"
   - "[[Validity as Inferences]]"
@@ -85,6 +84,7 @@ related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Stanford Prison Experiment]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
@@ -243,7 +243,7 @@ updated: 2026-07-13
 > | 中介变量和过程变量 | 中介变量和过程变量的影响被忽略 |
 > | 因果过程和因果链 | 因果过程和因果链没有被建立，只知道输入和输出的关系 |
 > | 参与者动机和意向 | 参与者的动机和意向被忽略 |
-> | 语境力量 | 语境可以施加比初始因果干预更强的因果力量，斯坦福监狱实验和米尔格拉姆服从实验为此提供了经典证据 |
+> | 语境力量 | 语境可以施加比初始因果干预更强的因果力量，[[Stanford Prison Experiment\|斯坦福监狱实验]]和米尔格拉姆服从实验为此提供了经典证据 |
 > | 道德能动性和伦理 | 参与者的道德能动性（moral agency）和研究者的伦理被忽视 |
 >
 > 因此，更恰切的问题不是简单的什么有效（what works），而是：**什么对谁有效、在什么条件下、根据什么标准、有什么伦理可辩护性、对参与者有什么后果？**。
@@ -314,7 +314,7 @@ updated: 2026-07-13
 
 ### 设计变体与替代方案
 
-> [!designs] [[Cluster Randomized Trials|集群随机试验]]（[[Criterion-Referenced Test|CRT]]）与精度改进
+> [!designs] [[Cluster Randomized Trials|集群随机试验]]（CRT）与精度改进
 > CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi & Kelcey (2016) 比较了 NCER 资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]]）。精度通过**最小可检测效应量（MDES）**衡量——指在给定统计功效下可检测的最小效应量。论文同时提供了两级和三级 CRT 的 MDES 计算公式，填补了方法论[[Document|文献]]的空白。
 
 > [!designs] 部分嵌套 RCT 与[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）

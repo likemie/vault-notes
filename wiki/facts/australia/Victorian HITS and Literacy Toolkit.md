@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Whole Language]]"
+  - "[[Decodification]]"
   - "[[Chain of Evidence]]"
   - "[[Professional Judgment]]"
   - "[[Evidence-Based Education]]"
@@ -87,7 +88,7 @@ citation_aliases: []
 >   - 州级和全国标准化读写测试（如澳大利亚 NAPLAN 成绩）的表现。
 >   - 教师教案中对 10 项 HITS 策略的合规性覆盖比例。
 > - **实质效果的负面裁定（O'Connor 审查）**
->   - 政策错误地采纳了存在数据严重算错与先验偏见的“[[Meta-analysis|元分析]]”结论，将识字教学扭曲为纯粹技术主义的解码训练，抹杀了阅读作为社会文化[[Praxis|实践]]的本质 (p.149)。
+>   - 政策错误地采纳了存在数据严重算错与先验偏见的“[[Meta-analysis|元分析]]”结论，将识字教学扭曲为纯粹技术主义的[[Decodification|解码]]训练，抹杀了阅读作为社会文化[[Praxis|实践]]的本质 (p.149)。
 >   - 证据转化过程存在草率和教条化倾向，没有经过二次同行评审，便直接将存在争议的统计学[[Effect Size|效应量]]变成了面向全体学生的政策约束 (p.141)。
 
 ---

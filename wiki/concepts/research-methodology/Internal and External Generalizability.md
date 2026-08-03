@@ -8,7 +8,7 @@ aliases:
 summary: "Onwuegbuzie & Leech（2007）对质性研究推广性的区分：内部推广性指子组数据推广到整个样本，外部推广性指样本推广到更广泛的总体，前者在质性研究中更常见可行"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Naturalistic Generalization]]"
   - "[[Sample Size Determination]]"
   - "[[Rich and Thick Description]]"
+  - "[[Saturation]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -67,7 +68,7 @@ updated: 2026-06-22
 > Onwuegbuzie & Leech（2007: 240）认为，外部推广性和对总体的推论可以在质性研究中出现——与[[Quantitative Research|定量研究]]一样，这通常需要大样本（p.242）。但许多时候，质性抽样的目的不是推广或比较，而是呈现具有自身内在价值的独特案例（p.249）。
 
 > [!claim] [[Sample Size Determination|样本量]]在两种推广性中扮演不同角色
-> 质性研究的样本量应足够大以生成[[Rich and Thick Description|厚描述]]（Geertz, 1973）和丰富数据，但不能太大以致数据过载阻碍深度分析或滑向泛化，也不能太小以致阻碍理论饱和（p.242）。对于内部推广性，每个子组不应少于 3 个案例（p.245）。
+> 质性研究的样本量应足够大以生成[[Rich and Thick Description|厚描述]]（Geertz, 1973）和丰富数据，但不能太大以致数据过载阻碍深度分析或滑向泛化，也不能太小以致阻碍[[Saturation|理论饱和]]（p.242）。对于内部推广性，每个子组不应少于 3 个案例（p.245）。
 
 > [!claim] 多层次抽样中的推广性嵌套
 > Onwuegbuzie & Leech（2007: 239–240）进一步指出，多层次抽样设计（如学生嵌套于班级、班级嵌套于学校）中，内部推广性可在不同层次上分别考察，外部推广性则需考虑每个层次的代表性。

@@ -9,7 +9,7 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Quality Education]]"
   - "[[Selective Affinity]]"
+  - "[[Decodification]]"
   - "[[Growth]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -180,7 +181,7 @@ updated: '2026-07-22'
 > - **1910s–1930s — 跨国传播与分支分化** 苏俄 Shatskii 建立大规模农村进步教育实验；中国[[Hu Shi|胡适]]、[[Tao Xingzhi|陶行知]]引进杜威思想；而后苏联在 1930 年代因阶级意识分歧转向全面拒绝杜威。[[Argument_Ryabyy_2024_Maneto|(Ryabyy, 2024, pp. 103–104)]]; [[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 75)]]
 > - **1940s–1950s — 战后占领区移植与抵抗** 美占当局在二战后向日本与西德推行美式进步教育，日本顺应[[Transfer Translation Transformation|转译]]为现代化逻辑，西德以学术标准为名展开抵制。[[Argument_Cowen_2009_CE|(Cowen, 2009, p. 323)]]
 > - **1980s–2000s — 本土重构与认知负荷论批判** 中国将杜威重构为[[Quality Education|素质教育]]代言人；同时教育心理学家 Sweller 提出[[Cognitive Load Theory|认知负荷理论]]，对进步教育无指导探究提出严厉批评。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 93)]]
-> - **2020s — 高压考试下的[[Pragmatic Paradigm|实用主义]]转向与修辞化** Wang & McLaughlin 揭示中国高利害考试下 [[Learner-Centred Education|LCE]]/进步教育的实用主义提分解码；Yan & Morris 分析香港通识教育中进步教育修辞的工具化运用。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]; [[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 486–487)]]
+> - **2020s — 高压考试下的[[Pragmatic Paradigm|实用主义]]转向与修辞化** Wang & McLaughlin 揭示中国高利害考试下 [[Learner-Centred Education|LCE]]/进步教育的实用主义提分[[Decodification|解码]]；Yan & Morris 分析香港通识教育中进步教育修辞的工具化运用。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]; [[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 486–487)]]
 
 ---
 
@@ -203,7 +204,7 @@ updated: '2026-07-22'
 > > [!axis] 理想型民主育人 vs 应试问责下的[[Pragmatic Paradigm|实用主义]]降维
 > > 西方理论将进步教育视为民主解放的载体；但在东亚高压应试环境下，进步教育/[[Learner-Centred Education|LCE]] 往往被降维[[Recontextualization|再脉络化]]为提分与效率工具，其学生决定课程与评价的权力维度被彻底排除。
 > >
-> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]** 揭示了实用主义提分解码与权力共享结构硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
+> > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]]** 揭示了实用主义提分[[Decodification|解码]]与权力共享结构硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
 > > - **[[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]** 展示了杜威思想被本土政策议程选择性提取与功利利用的机制。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 93)]]
 
 ---

@@ -5,12 +5,13 @@ summary: "丹麦哲学家，存在主义起源者之一，以对客观性的深�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 1
+person_related_count: 2
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 tags: [person/philosopher, person/existentialist, theme/existentialism]
-related_concepts: []
+related_concepts:
+  - "[[Dehumanization]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -44,4 +45,4 @@ updated: 2026-07-11
 
 ### 时代诊断
 
-克尔凯郭尔认为他所处时代的特征——民主似乎蜕变为群众心态、理性的优势地位、科学和技术的进步——都在推动个体的去人化（dehumanization of the individual）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+克尔凯郭尔认为他所处时代的特征——民主似乎蜕变为群众心态、理性的优势地位、科学和技术的进步——都在推动个体的去人化（[[Dehumanization]] of the individual）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

@@ -9,7 +9,7 @@ title: "Argument_Zhao_2017_JEC"
 argument_key: "Argument_Zhao_2017_JEC"
 argument_display_title: "What works may hurt: Side effects in education"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Gaokao]]"
 related_arguments: []
 sources:
   - "[[sources/Zhao_2017_JEC|Zhao_2017_JEC]]"
@@ -73,7 +74,7 @@ citation_aliases:
 
 > [!example] 核心论证
 > 1. **前提** 任何干预的效果与副作用是同一硬币的两面——不可分离
-> 2. **论证步骤一——[[Direct Instruction|直接教学]]** DI 在提高考试成绩方面有效（已被大量证据支持），但同时抑制创造力和好奇心。Peterson (1979) 回顾 200+ 研究发现 DI 对抽象思维测试有负面影响；Bonawitza et al. (2011) 实验证实"教学限制了儿童的自发探索和发现"；Kapur (2016) 提出"非生产性成功"概念——短期成绩最大化但长期学习未最大化
+> 2. **论证步骤一——[[Direct Instruction|直接教学]]** DI 在提[[Gaokao|高考]]试成绩方面有效（已被大量证据支持），但同时抑制创造力和好奇心。Peterson (1979) 回顾 200+ 研究发现 DI 对抽象思维测试有负面影响；Bonawitza et al. (2011) 实验证实"教学限制了儿童的自发探索和发现"；Kapur (2016) 提出"非生产性成功"概念——短期成绩最大化但长期学习未最大化
 > 3. **论证步骤二——东亚教育体系** 东亚学生 [[PISA]]/TIMSS 成绩世界第一，但自信心和学科态度世界最低。TIMSS 中数学自信与成绩的跨体系负相关（r=−0.59 四年级，r=−0.64 八年级）；PISA 中同样存在显著负相关
 > 4. **论证步骤三——[[No Child Left Behind Act 2001|NCLB]]** 以测试为基础的问责制导致广泛副作用——作弊、排斥弱势学生、课程窄化、教学扭曲为应试——却未实现缩小成绩差距的承诺
 > 5. **结论** 教育研究必须将副作用作为效果研究的组成部分，提出 6 项行动建议

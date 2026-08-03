@@ -1023,6 +1023,15 @@
     ]
   },
   {
+    "title": "Self-spectator",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Self-spectator.md",
+    "aliases": [
+      "自观",
+      "self-spectation"
+    ]
+  },
+  {
     "title": "Social Museology",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Social Museology.md",
@@ -1252,6 +1261,15 @@
     ]
   },
   {
+    "title": "Codification",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Codification.md",
+    "aliases": [
+      "生存境遇编码",
+      "具象生存编码"
+    ]
+  },
+  {
     "title": "Complexity Reduction",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Complexity Reduction.md",
@@ -1300,6 +1318,51 @@
     "aliases": [
       "沉默文化",
       "culture of silence"
+    ]
+  },
+  {
+    "title": "Curriculum as Praxis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Curriculum as Praxis.md",
+    "aliases": [
+      "作为实践的课程",
+      "解放实践课程范式"
+    ]
+  },
+  {
+    "title": "Curriculum as Process",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Curriculum as Process.md",
+    "aliases": [
+      "作为过程的课程",
+      "过程原则课程范式"
+    ]
+  },
+  {
+    "title": "Curriculum as Product",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Curriculum as Product.md",
+    "aliases": [
+      "作为产物的课程",
+      "行为目标课程范式"
+    ]
+  },
+  {
+    "title": "Decodification",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Decodification.md",
+    "aliases": [
+      "解码",
+      "编码拆解分析"
+    ]
+  },
+  {
+    "title": "Dehumanization",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Dehumanization.md",
+    "aliases": [
+      "非人性化",
+      "物化异化"
     ]
   },
   {
@@ -1366,6 +1429,15 @@
       "虚空的知者",
       "empty knower",
       "空无知者"
+    ]
+  },
+  {
+    "title": "Epistemic Responsibility",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Epistemic Responsibility.md",
+    "aliases": [
+      "认识论责任",
+      "认知责任"
     ]
   },
   {
@@ -1440,6 +1512,15 @@
       "整体方法",
       "整体进路",
       "Ganz Method"
+    ]
+  },
+  {
+    "title": "Generative Themes",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Generative Themes.md",
+    "aliases": [
+      "生成性主题",
+      "核心生成主题"
     ]
   },
   {
@@ -1548,6 +1629,15 @@
     ]
   },
   {
+    "title": "Narration Sickness",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Narration Sickness.md",
+    "aliases": [
+      "叙事病",
+      "灌输式叙事病症"
+    ]
+  },
+  {
     "title": "Narrative Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Narrative Knowledge.md",
@@ -1564,6 +1654,15 @@
       "ontological assumptions",
       "本体论假设",
       "nature of reality"
+    ]
+  },
+  {
+    "title": "Phronesis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Phronesis.md",
+    "aliases": [
+      "实践明智",
+      "实践智慧"
     ]
   },
   {
@@ -1728,6 +1827,15 @@
     "path": "wiki/concepts/educational-philosophy/Value-Based Education.md",
     "aliases": [
       "价值本位教育"
+    ]
+  },
+  {
+    "title": "Verbalism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Verbalism.md",
+    "aliases": [
+      "言语主义",
+      "缺乏实践的空谈"
     ]
   },
   {
@@ -5303,6 +5411,18 @@
       "共变关系研究",
       "Causal Research",
       "co-relational design"
+    ]
+  },
+  {
+    "title": "Cognitive Complexity Index",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Cognitive Complexity Index.md",
+    "aliases": [
+      "认知复杂性指数",
+      "cognitive complexity",
+      "cognitive simplicity",
+      "认知复杂性—简单性",
+      "cognitive complexity-simplicity"
     ]
   },
   {
@@ -9819,6 +9939,15 @@
     ]
   },
   {
+    "title": "Laddering",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Laddering.md",
+    "aliases": [
+      "阶梯法",
+      "laddering technique"
+    ]
+  },
+  {
     "title": "Linked File System",
     "type": "method",
     "path": "wiki/methods/qualitative/Linked File System.md",
@@ -9998,6 +10127,14 @@
     ]
   },
   {
+    "title": "Pyramiding",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Pyramiding.md",
+    "aliases": [
+      "金字塔法"
+    ]
+  },
+  {
     "title": "Qualitative Computer Software",
     "type": "method",
     "path": "wiki/methods/qualitative/Qualitative Computer Software.md",
@@ -10051,6 +10188,16 @@
       "质性描述性方法",
       "Qualitative Descriptive Method",
       "descriptive qualitative research"
+    ]
+  },
+  {
+    "title": "Role-playing",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Role-playing.md",
+    "aliases": [
+      "角色扮演",
+      "role-play",
+      "role play"
     ]
   },
   {
@@ -13780,6 +13927,16 @@
     ]
   },
   {
+    "title": "Stanford Prison Experiment",
+    "type": "fact",
+    "path": "wiki/facts/global/Stanford Prison Experiment.md",
+    "aliases": [
+      "斯坦福监狱实验",
+      "Stanford Prison Experiment (SPE)",
+      "Zimbardo Prison Experiment"
+    ]
+  },
+  {
     "title": "African Orphan Crops Consortium",
     "type": "fact",
     "path": "wiki/facts/global/African Orphan Crops Consortium.md",
@@ -15652,6 +15809,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

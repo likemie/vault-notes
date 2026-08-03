@@ -1,0 +1,470 @@
+26 Role-playing
+===============
+
+Role-playing
+
+Carmel O’Sullivan
+
+CHAPTER 26
+
+This chapter introduces role-playing as a research technique, and discusses issues such as:
+
+[图片: images/041_26 Role-playing/001_box.jpg | image]
+ what is role-play?
+
+[图片: images/041_26 Role-playing/002_box.jpg | image]
+ why use role-play in research?
+
+[图片: images/041_26 Role-playing/003_box.jpg | image]
+ issues to be aware of when using role-play
+
+[图片: images/041_26 Role-playing/004_box.jpg | image]
+ role-play as a research method
+
+[图片: images/041_26 Role-playing/005_box.jpg | image]
+ how does it work?
+
+[图片: images/041_26 Role-playing/006_box.jpg | image]
+ important strategies for successful role-play
+
+[图片: images/041_26 Role-playing/007_box.jpg | image]
+ three examples of research using role-play
+
+26.1 Introduction
+
+Erving Goffman (1969: 78) has famously claimed that ‘Life itself is a dramatically enacted thing’, and although he recognized that ‘all the world’ is not a stage, he argued that ‘the crucial ways in which it isn’t are not easy to specify’.
+
+Drama, in some form or other, touches most people’s lives, but typically in contemporary society, through watching television soap operas, going to the movies or attending the theatre. However, drama has been recognized for many years as a useful training method in the fields of business, psychology and education. Harriet Finlay- Johnson (1912) and Henry Caldwell Cook (1917) were using dramatic play in schools as a teaching and learning method in England at the turn of the twentieth century, while Jacob Levy Moreno was similarly exploring its use with children in Vienna, before later developing its application in therapeutic procedures known as psychodrama (Moreno, 1939). Owing to the immediacy of its impact, drama can affect people in different ways, and historically it has been viewed unfavourably by dominant hegemonies wishing to suppress its ability to move audiences and mould attitudes (Banham, 1995).
+
+As is the case with all art which has the power to ‘move people’, the educational use of drama has the potential to connect with people both emotionally and cognitively, resulting in what we might call ‘felt understanding’; a type of knowing which results in people taking a personal interest in issues and wanting to effect change. This potentially subversive power has been recognized throughout the ages by different ruling elites and oppressive regimes, who sought to diminish or eradicate its power through banning or severely censoring it. For example, from as early as the fifth century BC, Aristophanes’ Lysistrata attracted censors for exploring themes of a moral and sexual nature (Sova, 2004), and until the Theatres Act of 1968, the British Lord Chamberlain’s Examiner of Plays expunged and refused dramatic texts on a weekly basis (Nicholson, 1906), fearing the connection between political radicalism and social unrest, and the powerful role of theatricality in everyday life (Worrall, 2006). Drama censorship occupied a great deal of the ruling class’s time and energy in nineteenth-century Europe, as they viewed the theatre as a form of mass entertainment/communication which potentially threatened the existing political, legal and social order (Goldstein, 2009). Similar concerns are evident in American, African, Austral-Asian and Latin American contexts where censorship of the theatre and dramatic performativity in people’s daily lives remained active throughout most of the twentieth century (see Houchin, 2003 and Banham, 1995).
+
+However, its potential as a valuable educational method has endured, and with the publication of Maier, Solem and Maier’s training manual for role-playing in 1957, an ever-increasing number of researchers have been motivated to use role-play as part of their research design. Described as ‘a pioneering attempt to portray industrial conflicts in role-playing format’ (Mee, 1957: 135), the authors (1957: xi) recognize that understanding the ‘principles of human behavior has little value unless it is supplemented with skill practice’. Maier et al. (1957) describe one of the benefits of using role-play as being able to demonstrate the gap between thinking and doing. The innovative approach was well received at the time by researchers in a number of applied areas including sociology, education, management science and industrial relations (see Berg, 1957; Mee, 1957; Borgatta, 1957; and Argyris, 1958), and researchers recognized in this fusion of case study method with role-playing techniques, a rich potential to analyse aspects of social behaviour and social interaction implicit in ordinary living.
+
+In the succeeding 50 years, role-play has been widely used in education and training, and increasingly in the field of corporate training, where it is used to explore such issues as change management, negotiation skills, communication skills, leadership skills, team building, presentation skills, management training, public speaking, assertiveness training, performance management, customer service, interview skills, stress management, appraisals training and media training. Role-playing, gaming and computer simulation are three related strands of activity in this wider field, but it is beyond the scope of this chapter to explore the last two categories, and the focus here is on the use of role-play as a technique of educational research.
+
+Similarly, the area of online role-play is currently burgeoning, with many people engaging in online roles through their experiences with playing video games or participating in virtual worlds on sites such as SimCity, Second Life and Whyville (Beach and Doerr-Stevens, 2009). These experiences, while usually recreational, can also offer valuable educational outcomes, such as the acquisition of the literacy practices of collective intelligence, problem-solving, strategic thinking, interpreting contexts and imaginative play (Beach and Doerr-Stevens, 2009; see also Gee, 2004; and Shaffer, 2006), but online role-playing will not be discussed here.
+
+It is arguable that the use of role-play has had mixed success to date, much of it owing to a degree of confusion over what it is, and how to define it, as revealed in the report from the British Medical Journal in Box 26.1.
+
+We begin by taking a closer look at drama and role-play in order to increase our understanding of what it is, and how it works.
+
+BOX 26.1 A ROLE-PLAYING EXPERIENCE
+
+It’s Wednesday morning again, and time for our clinic sisters’ teaching session. Anybody who thinks this gives me a relaxing two hour break from the rigours of outpatients is sorely deluded. Seeing a hundred patients seems quite a soft option compared with facing our four most senior sisters, exercise books open and pens poised to take down my every word.
+
+Thinking up suitable topics is not easy. But harder is the actual task of teaching. British medical training provides ample case studies in how not to teach, and I’ve wasted many hours trying to find a comfortable sleeping position while a well intentioned lecturer starts on yet another new piece of chalk. Surely I can do better than that?
+
+So I’ve put away the blackboard. And I’ve got the chairs rearranged in a circle. Dividing up for group work is tricky when there’s only five of us all together. ‘Brainstorming’ with the flip chart is a bit of a non-starter with a group that’s as talkative as a bunch of Trappist monks. But for today’s session, on AIDS counselling, there is only one possible option. I must introduce them to the joys of role-play.
+
+After a prolonged discussion about counselling in general, we kick off with a simple scenario. I am heading the bill with a stirring performance as Sipho, a young Zulu man who will need to be told that he is HIV positive. I have been rehearsing my lines for sometime, and I am all ready to bring the audience to its feet with my impassioned soliloquy. Sister Gumede has bravely volunteered to star in the lead role as, well, a clinic sister. After all, it is the first time they have ever done role-play, and I don’t want to put them off.
+
+So I reel off my performance, standing up, gesticulating, groaning, and clutching my head as I hear the bad news. Only the glycerine tears are missing. But the audience is not moved. They watch with bemused perplexity, and take copious notes. Sister takes her cue, and improvises her lines deadpan: ‘Sipho, your HIV test is positive. We don’t have any cure for AIDS so you are going to die.’
+
+Now I have real cause to groan and clutch my head. What sort of a way is that to counsel someone who is HIV positive? Where are the open ended questions, the active listening, the non-verbal communication? My Balint colleagues in Lisson Grove would throw up their hands in horror.
+
+But this is Africa, not north London. Maybe sister’s performance is the one that should win the Oscar. After all it is exactly the way most of the sisters talk to patients, and probably the way that patients expect to be spoken to. And whoever saw a Zulu man behaving anything like my performance? Maybe this role-play business is not so simple. Maybe teaching is not so simple. So next time, sisters, bring your pillows; I am going to write notes on the blackboard.
+
+Duncan Curr, Medical Officer, Mosvold Hospital, Ingwavuma, South Africa
+
+Source: Curr, 1994: 725
+
+26.2 What is role-play?
+
+Deriving its theoretical basis from the field of psychodrama, role-play is a ‘spontaneous, dramatic, creative teaching strategy in which individuals overtly and consciously assume the roles of others’ (Sellers, 2002: 498). Sellers (2002: 498) argues that it involves ‘multilevel communication’, and as a powerful teaching strategy, is capable of influencing participants’ attitudes and emotions, whilst simultaneously promoting higher order cognitive skills. This definition supports the claim that role-play is an effective strategy for learning because it forces participants to think about the person whose role is being assumed, is connected to real-life situations, and promotes active, personal involvement in learning (Billings and Halstead, 2005). Errington (1997: 3) defines role-play as ‘a planned learning activity designed to achieve specific educational purposes’. He suggests that it is based on three major aspects of the experiences that most people have of role in every day life:
+
+[图片: images/041_26 Role-playing/008_box.jpg | image]
+ role-taking (the roles we hold in accordance with social expectations and in social circumstances, i.e. how police officers should act – Goffman, 1976);
+
+[图片: images/041_26 Role-playing/009_box.jpg | image]
+ role making (the ability to create, switch and modify roles as required – Roberts, 1991);
+
+[图片: images/041_26 Role-playing/010_box.jpg | image]
+ role-negotiation (negotiation and social interaction with other role holders – Hare, 1985).
+
+For educational researchers, these categories offer a wealth of possibilities for accessing and exploring people’s behaviour and responses to situations and stimuli in a diverse range of contexts and settings. For example, a researcher investigating a new coaching and mentoring training approach for senior managers in schools, may involve participants in varying aspects of role-taking, role making and role-negotiation as part of his overall research design to gather relevant data.
+
+Role-play consists of three major stages: briefing, acting and debriefing. The first stage focuses on introducing the participants to the activity by clarifying the learning objectives and ‘setting the scene’. In the second stage, the educator must encourage the participants to ‘act out’ the role in a spontaneous, accurate and realistic manner. Debriefing, the final stage, allows participants to discuss, analyse and evaluate the role-play and insights gained (Billings and Halstead, 2005).
+
+Working in drama involves stepping into an imagined world, a fictional reality, and in order to make this imaginary world more meaningful and purposeful in an educational research context, it must have aspects of the real world in it. Thus, human relationships are a central component of role-play situations, and exist in the form of:
+
+1 relationships between people;
+
+2 the relationship between people and ideas; and
+
+3 the relationship between people and the environment (O’Toole and Haseman, 1992: 3).
+
+These categories provide a useful framework for researchers interested in using role-play to identify who and what their research should focus on. Thus a researcher who wishes to explore whether teenagers empathize with bullied peers, may use role-play to determine the extent to which young people:
+
+1 discuss the issue among themselves, and if/how they would approach the subject with a peer in school who they know is being bullied;
+
+2 engage with training sessions and resources they have received in school on the issue of bullying, and if/how they put these into practice;
+
+3 demonstrate an awareness of their role in the creation of a culture that does not accept or tolerate bullying in their school environment and wider social community.
+
+Taking on roles allows participants to set up and explore the different dynamics of the relationships cited above, but differs from traditional understandings of theatre in that the role-taker is not required to demonstrate elaborate acting skills, rather, simply to represent a point of view. Ideally, the role should be portrayed honestly and without elaborate costumes or props, where participants place themselves ‘as if’ they are that person, temporarily identifying with and exploring a set of attitudes and values, which may not identify closely with their own. It is therefore important that participants respect the role being played, as it represents another person’s perspective or point of view (O’Toole and Haseman, 1992: 3). Heathcote (1980: 42) defines the educational use of drama as people involved in active role-taking, where their attitude to the situation, not their ability to portray a character, is the chief concern. The role-play must be lived at life-rate (i.e. in that moment), and aim to create a living picture of life, which provides a learning opportunity for the participant as much as for any onlookers, including the researcher.
+
+Role-play is improvisational in nature and increasingly unscripted, although role cards may be supplied to provide sufficient background information to participants to enable them to comfortably ‘step into the shoes’ of another, and feel what it might be like to be that person in that situation for a little while. Wagner (1998: 60) defines improvisational drama as taking on ‘a role in a particular moment in time and creating with others a plausible world’. She argues that when working in role, as in all learning contexts, participants make meaning by connecting their prior experiences to the challenge of the moment.
+
+26.3 Why use role-play in research?
+
+Cabral (1987: 470) describes role-playing as a valuable technique that ‘has been broadly adapted for use in academic research and applied settings’. Before presenting the arguments related to the particular use of role-play in research contexts, it is worth taking a brief look at the general educational claims made in its name. In their aptly titled book So You Want to Use Role-Play?, Bolton and Heathcote (1999) provide six major categories which summarize the use and value of role-play in education.
+
+1 Behaviour modification. It is a concrete form of learning, and particularly suitable for giving participants practice in behavioural procedures (for example, training reception staff or police officers to handle particular situations according to an established procedure).
+
+2 Acquiring information.
+
+3 Using information.
+
+4 Training in seeking information.
+
+5 Attention to detail (role work can generate in participants a disposition to attend to detail, an alertness to particulars).
+
+6 Fosters a change in values, perceptions or attitudes.
+
+(Adapted from Bolton and Heathcote, 1999: 178–85)
+
+The arts, and role-play in this particular discussion, work by revealing truths about people and the world they live in, and they do this through the creation of a fictional situation, a make-believe world, but one that is closely connected to reality. This is the difference between fiction and fantasy, and in most research situations where role-play is used, the emphasis is on working in and through fiction: uncovering and exploring truths about reality, and about how we respond individually to such situations, as we each construct our own understanding of experiences. Bolton and Heathcote (1999: ix) are concerned with broadening the traditionally perceived use of role-play, away from a strictly behavioural emphasis to the communication of meaning. Thus, an educational researcher interested in investigating social skills education with children with an Autistic Spectrum Disorder, may use role-play to create a baseline assessment of participants’ ‘theory of mind’ (i.e. their ability to perceive and understand the thoughts of others), through placing the children in role as detectives, observing a crime as it unfolds, and trying to predict what the characters are thinking at that time (see O’Sullivan et al., 2010).
+
+There are many uses and types of role-play, but the single criterion underpinning all role-play activity according to Bolton and Heathcote (1999: 57), is that it demands participants to step into an ‘as if’ fiction: a fiction that has been ‘conceived of by a tutor, teacher, or researcher in terms of learning’. It poses a unique challenge to participants, as it involves ‘embracing knowledge’, an act which is not just a matter of instruction or absorption, but is achieved by entering the fiction in such a way as to make the required knowledge one’s own. Thus, role-players are not just receiving or acquiring knowledge as in a typical instructional context; they are making it, practising it and embodying it: they know what they know (Bolton and Heathcote, 1999: 57, 58). This highlights the importance of accurately setting up and structuring the role-play to record these truths and attitudes, and thereby increase the reliability and validity of the data retrieved.
+
+Roslyn Arnold (1998: 111) claims that the arts, and in particular drama, uniquely explore the dynamics between affect and cognition, two significant aspects of human existence. The use of role-play in research contexts is a rich source of insight into the role and function of such dynamics. Thus, when participating in role, we articulate both physically and verbally, and this active engagement promotes ‘emotional, cognitive, social and ego development. We are, metaphorically speaking, sitting on a research gold mine’ (Arnold, 1998: 111).
+
+One of the main reasons for considering the use of role-play in research is because of its ability to help participants consider ideas from different perspectives, to think of possibilities. Role-play is concerned with representing and exploring different people’s points of view, and different points of view forge different types of knowledge. It places participants at the centre of the learning experience, and allows them to build their own bridges of understanding. As a result of this informed consideration, they are better able to resolve problems and issues. For example, role-play as a research method has been successfully used with young people in a designated disadvantaged school to elicit the extent to which they use an elaborate or restricted linguistic code (public versus private use of language), and whether through the use of role-playing, they can explore and develop different linguistic registers and codes as appropriate to a range of communication contexts (see O’Sullivan and Heeran-Flynn, 2010).
+
+The following list identifies the range of possibilities in which role-play can be employed as an effective research method. Specifically, role-play can allow participants to:
+
+[图片: images/041_26 Role-playing/011_box.jpg | image]
+ experience how people behave in particular circumstances by exploring a variety of social situations and social interactions;
+
+[图片: images/041_26 Role-playing/012_box.jpg | image]
+ explore a range of human feelings and responses to situations;
+
+[图片: images/041_26 Role-playing/013_box.jpg | image]
+ explore choices and moral dilemmas;
+
+[图片: images/041_26 Role-playing/014_box.jpg | image]
+ make decisions which are tested out in the role-play and later reflected on;
+
+[图片: images/041_26 Role-playing/015_box.jpg | image]
+ develop a sense of responsibility and confidence as decision makers and problem solvers;
+
+[图片: images/041_26 Role-playing/016_box.jpg | image]
+ improve the social health of their group and foster improved relationships with peers or colleagues;
+
+[图片: images/041_26 Role-playing/017_box.jpg | image]
+ interact with peers and learn to compromise in order to sustain and develop activities;
+
+[图片: images/041_26 Role-playing/018_box.jpg | image]
+ extend, enrich and prompt the use of authentic language use in simulated real-life contexts where language use arises out a genuine need to communicate;
+
+[图片: images/041_26 Role-playing/019_box.jpg | image]
+ explore the skills and processes involved in conflict, negotiation and resolution of difficulties and problems in their environment;
+
+[图片: images/041_26 Role-playing/020_box.jpg | image]
+ develop personal creativity;
+
+[图片: images/041_26 Role-playing/021_box.jpg | image]
+ develop agency and an increased awareness of self;
+
+[图片: images/041_26 Role-playing/022_box.jpg | image]
+ improve visual and spatial skills through responding to a range of stimuli and situations.
+
+Role-play situations as described above can be observed by the researcher, and/or digitally recorded, and replayed to participants to elicit their responses and perspectives according to predetermined or emerging research themes and issues, thereby assisting in the triangulation and interpretation of data. Such an approach was used when investigating social skills education with children and young people with Asperger’s Syndrome. Role-play was used as a core research method in a longitudinal study to initially create a baseline measure of participants’ literal and metaphorical language competencies, and then to assess the extent to which improvements in participants’ social skills were revealed and practised during subsequent role-play episodes (see O’Sullivan et al., 2009).
+
+Role-play operates in a ‘no-penalty zone’, where people are freer to explore and try out a range of solutions to problems and issues, without having to worry about the outcome. Drama functions as a way of making the world simpler and more understandable. It can be a kind of ‘playing at’ or practice of living in real-life situations. It enables participants to put into practice skills they have learnt in the fictional context of the drama world. It is a tool that can affect participants’ fundamental reactions to everyday situations. Augusto Boal (1979, 2002) refers to this type of dramatic activity as a ‘rehearsal for reality’. In professional disciplines, such as health care, education, engineering and social care practice, both pre- and in-service education models rely on problem-based and enquiry-based approaches to teaching, learning and research. Role-play offers enormous potential in these areas to enhance case study method and facilitate research on models of best practice. For example, in a comparative study exploring integrated approaches to teaching the curriculum in an early years educational setting versus the use of more traditional pedagogies, the teacher-researcher and young learners were engaged in a sustained role-play throughout the school day for several weeks (see O’Sullivan and Murphy, 2006).
+
+The notion of learning through play tends to be associated with early years education, and opportunities for imaginative and dramatic play decline as a child progresses through the school system and into adult life. An unfounded belief that academic content standards cannot be met through creative and imaginative activities still persists, and has caused playful methods of learning to virtually disappear from classrooms (Bergen, 2009). The following is a brief summary from the literature reflecting the use of role-play in a process of life-long education (see Oberle, 2004).
+
+[图片: images/041_26 Role-playing/023_box.jpg | image]
+ Role-play develops participants’ transferable skills and content knowledge (Cutler and Hay, 2000).
+
+[图片: images/041_26 Role-playing/024_box.jpg | image]
+ The integrated nature of role-play allows for individual differences in development (Frost et al., 2008).
+
+[图片: images/041_26 Role-playing/025_box.jpg | image]
+ Role-playing is fun and motivating for students (Isenberg and Jalongo, 2006).
+
+[图片: images/041_26 Role-playing/026_box.jpg | image]
+ Role-play successfully energizes students and promotes in-depth understanding of traditional educational issues (Montgomery et al., 1997).
+
+[图片: images/041_26 Role-playing/027_box.jpg | image]
+ Meaningful, motivating contexts help students better internalize their learning and improve their recall (Hickey and Zuiker, 2005).
+
+[图片: images/041_26 Role-playing/028_box.jpg | image]
+ Role-play facilitates student participation in active learning (Freeman, 2003; Kerr et al., 2003).
+
+[图片: images/041_26 Role-playing/029_box.jpg | image]
+ Role-playing in science classrooms develops deeper student understanding, improves student motivation, and facilitates learning across a range of ability levels (Aubusson etal, 1997).
+
+[图片: images/041_26 Role-playing/030_box.jpg | image]
+ Role-play in school enhances the creative and innovative potential of future scientists (Bergen, 2009), and encourages creativity and imagination (Johnson 1998); essential skills for scientists (Bergen, 2009).
+
+[图片: images/041_26 Role-playing/031_box.jpg | image]
+ Role-playing is in accord with the pedagogical framework established by the Association of American Colleges and Universities and other organizations that seek to foster a more dynamic university-level general education curriculum (Oberle, 2004; AACU, 2002).
+
+[图片: images/041_26 Role-playing/032_box.jpg | image]
+ Role-playing activities complement traditional lectures because they simulate real-world experiences and enhance students’ retention of information (DeNeve and Heppner, 1997).
+
+[图片: images/041_26 Role-playing/033_box.jpg | image]
+ Role-playing activities enhance students’ understanding of concepts, develop students’ key-skills, which are transferable to other endeavours outside of the classroom; and increase students’ level of motivation and participation in the learning process (Livingstone, 1999).
+
+[图片: images/041_26 Role-playing/034_box.jpg | image]
+ Role-playing activities can engage students in projects that challenge gender, class and racial stereotypes; diminish the hierarchical relationship between students and instructors; and encourage students to engage in democratic participation (Maddrell, 1994).
+
+Many of the reports above used role-play as a key research method in their studies.
+
+26.4 Issues to be aware of when using role-play
+
+Much of the early history relating to the use of role-play in research settings was mired in controversy and notoriety, mainly relating to issues around deception in experimental social psychology (see Milgram’s obedience to authority experiments, 1974; Mixon’s role-playing replications of the Milgram experiment, 1974), and to overt/covert forms of research. Bolton (1996: 187) discusses the case of James Patrick [a pseudonym], a young teacher at an approved school who in the late 1950s obtained entry into a Glaswegian gang for four months, in order to record and analyse how a city gang functions (see Patrick, 1973). He made friends with a pupil in his school called Tim, and through this acquaintance, joined his pupil’s gang. In deciding to open his teacher’s eyes to gang life, Tim understood the risks more clearly than Patrick did. Tim was extremely well behaved when in school, but at weekends he participated fully in the violent incidents that regularly erupted at a moment’s notice (Douglas Home, 2007). After having been placed in several uncompromising situations, Patrick left Glasgow quickly when the violence became too severe and he felt threatened by it. As he was so afraid of the gang members, he did not publish his research until many years later.
+
+Bolton (1996) describes this act of infiltration and deception as a blatantly unethical form of enquiry. Although, researchers may well have to ask themselves whether the same information could have been gained by overt means. In contrast to this covert approach, William Foote Whyte (1993) conducted a similar research exercise in a poor Italian district in Boston from 1937 onwards called ‘Street Corner Society’. He was interested in the activities of the adolescent boys who hung around street corners and got involved in gang activities. However, his research approach was not covert, and he began almost as an observer, having informed the group that he was writing a book about their activities (Whyte, 1993). Perhaps one of the most controversial examples of a study involving the use of role-play is the well-known Stanford Prison Experiment carried out by Philip Zimbardo in 1971 (2007a, 2007b, 2008; Zimbardo et al., 2000; see also Haney and Zimbardo, 1998), a brief overview of which is given in Box 26.2.
+
+Early enthusiasts of role-playing as a research methodology cite experiments such as the Stanford Prison Experiment to support their claim that where realism and spontaneity can be introduced into role-play, then such experimental conditions do, in fact, simulate both symbolically and phenomenologically, the real-life analogues that they purport to represent. Such advocates of role-play would concur with the conclusions of Zimbardo and his research associates that the simulated prison developed into a psychologically compelling prison environment and they, too, would infer that the dramatic differences in the behaviour of prisoners and guards arose out of their location in different positions within the institutional structure of the prison and the social psychological conditions that prevailed there, rather than from personality differences between the two groups of subjects (see Banuazizi and Movahedi, 1975). In discussing the Stanford Prison Experiment, Bolton (1996: 188) argues that the disregard of ethical standards in this research results from ‘the tacit permission that role-playing a power-position gives’, and not from deception. Although the researchers anticipated the risk of physical abuse and changed the rules to reflect this, they failed to predict the pleasure that some guards might derive from employing psychological abuse, ‘even when they could perceive ... the genuine discomfort of their victims’ (Bolton, 1996: 188).
+
+Bolton (1996) expresses concern that the use of role-play in such circumstances can appear to give permission to participants to behave outside their normal moral constraints. Grumet (1998: 8, 9) acknowledges that taking on a role is complex and provocative, and when working in role, researchers should be aware of ‘the power of a role to extend or constrict meaning and exploration’. If we accept the Latin word for role as dramatis personae, there is a danger that the participant may hide behind the mask of a role, taking on ‘actions and ideas that would be difficult to assume within his or her daily identity’ (Grumet, 1998: 8). Thus, playing a role in this context may result in behaviours and attitudes that extend imagination and expression beyond the individual’s usual capacity, and ‘the imaginative extension of ego into role’ might have the effect of constraining rather than enlarging understanding (Grumet, 1998: 9).
+
+BOX 26.2 THE STANFORD PRISON EXPERIMENT
+
+The study was conducted in the summer of 1971 in a mock prison constructed in the basement of the psychology building at Stanford University. The subjects were selected from a pool of 75 respondents to a newspaper advertisement asking for paid volunteers to participate in a psychological study of prison life. On a random basis half of the subjects were assigned to the role of guard and half to the role of prisoner. Prior to the experiment subjects were asked to sign a form, agreeing to play either the prisoner or the guard role for a maximum of two weeks. Those assigned to the prisoner role should expect to be under surveillance, to be harassed, but not to be physically abused. In return, subjects would be adequately fed, clothed and housed and would receive 15 dollars per day for the duration of the experiment. The outcome of the study was quite dramatic. In less than two days after the initiation of the experiment, violence and rebellion broke out. The prisoners ripped off their clothing and their identification numbers and barricaded themselves inside the cells while shouting and cursing at the guards. The guards, in turn, began to harass, humiliate and intimidate the prisoners. They used sophisticated psychological techniques to break the solidarity among the inmates and to create a sense of distrust among them. In less than 36 hours one of the prisoners showed severe symptoms of emotional disturbance, uncontrollable crying and screaming and was released. On the third day, a rumour developed about a mass escape plot. The guards increased their harassment, intimidation and brutality towards the prisoners. On the fourth day, two prisoners showed symptoms of severe emotional disturbance and were released. On the fifth day, the prisoners showed symptoms of individual and group disintegration. They had become mostly passive and docile, suffering from an acute loss of contact with reality. The guards on the other hand, had kept up their harassment, some behaving sadistically. Because of the unexpectedly intense reactions generated by the mock prison experience, the experimenters terminated the study at the end of the sixth day.
+
+Source: Adapted from Banuazizi and Movahedi, 1975
+
+On the other hand, Grumet (1998: 9) argues, when a role is used in a naturalized scene, untrained participants may ‘fail to fill it with the complex and multiple possibilities that a real life situation’ would demand, choosing instead to adopt a more stereotypical action in the improvisation than might exist in real life. The researcher must therefore look for opportunities to break the often powerful grip of a scene and role, and encourage critical reflection on the choices that are being taken in the role-play. The aim is to shift, alter, interrupt and possibly distort the focus of the role-play (during it if necessary), to allow participants to explore and experience different aspects of the situation under consideration, thereby ‘avoiding a reductive metonymy that would substitute the improvisational situation for the world’, with its infinite colour and myriad of possibilities (Grumet, 1998: 9). This can often be achieved by following step 8 (the hidden objective) as described in Box 26.3.
+
+Wagner (1998: 58) suggests that working in drama requires the same intelligence it takes to live one’s life in the real world, in order to be able to cope with the many possibilities, choices, decisions, ambiguities, changes, etc. that face people on a daily basis. The challenge in drama is to engage with those issues without losing the capacity to analyse situations responsibly and carefully, choose between alternatives that are not always clear, ‘act on those choices and live with consequences. In other words, to think before, during, and after one acts’ (Wagner, 1998: 58). For the researcher interested in exploring the intricacies and complexities of life, the key is to set up and organize the role-play event so that it accurately reflects, not mirrors, the situation under scrutiny (see the guidelines provided in Box 26.3).
+
+In using role-play in research trials such as the Stanford Prison Experiment, where none of the preliminary documentation given to participants refers explicitly to the act of role-playing, or provides them with information or guidance on how to safely ‘enter a role’, ‘ step into the shoes of another person’, and behave as if they are that person for the duration of the activity (see www.prisonexp.org for copies of the original documentation), there is an implicit assumption that the person in charge of organizing the game is taking on ultimate responsibility for what might happen. Bolton (1996: 188) suggests that this effectively provides temporary release to the participants to regard the experiment as ‘only a game and, what’s more, someone else has asked us to play it’.
+
+BOX 26.3 MANAGING ROLE-PLAY EFFECTIVELY
+
+1 Set the scene: when the participants are settled, the researcher should introduce the activity and outline what is going to happen during the session.
+
+2 Narrate the dramatic frame: describe the context and background to the fictional situation by outlining any necessary information, i.e. what has happened up to this point in the story, where is this scene set, who is present, when does it take place, etc. It familiarizes the participant with the context, and removes some of the awkwardness associated with starting a role-play ‘cold’.
+
+3 Provide a ‘second dimension’ for each role: the researcher must provide adequate information about each of the characters in the role-play in order to ‘flesh out’ their profile sufficiently for the role-player to be able to ‘step into the role’ safely, confidently and with integrity. The ‘first dimension’ of role specifies only the character’s broad profile, such as being ‘a father’, ‘a teacher’, ‘a prisoner’, ‘a doctor’, but does not indicate what kind of doctor is to be represented, what training she has had, what are her dominant personality traits (kind, generous, short-tempered, even-handed), etc. Talk about ‘the character’ as if you know her (it will increase participants’ interest and investment in her situation).
+
+4 Dilemma: the researcher must outline the dilemma or problem which is to be explored (and/or resolved) in the scene (usually consisting of conflicting choices where decisions have to be made and consequences dealt with). In planning the research, the dilemma or problem selected for enquiry may be of a personal nature (my family comes before my job); social nature (everyone goes to the nightclub at weekends); or of a moral nature (if we restructure the company in this manner, many workers will lose their jobs).
+
+5 Dramatic tension: all drama, by virtue of its definition, relies on dramatic tension to propel the action forward. Tension may occur as follows: in relationships; as a result of a task that has to be undertaken; in not knowing what is going to happen (surprise and/or mystery); or in exploring ways of behaving not typical in participants’ daily lives. A successful role-play must have dramatic tension to sustain character belief and investment in the situation (‘as if it could be real’). A well-chosen dilemma will lead to dramatic tension in the scene.
+
+6 Objective: the researcher must ensure that each participant in the role-play has an objective. For example, as human resources manager, invite the union representative to lunch, and your objective is to find out who is driving the proposed work stoppage among the workers. The person playing the part of the union worker may be given a different objective, possibly one that counters yours (i.e. reveal nothing), or operates at a more devisive or subtle level (provide misleading information, or play along with the game). Selecting the right objectives will impact on the focus of action in the scene, and thereby facilitate the researcher to gather data on his/her area(s) of interest. It will also impact upon the mood generated by the participants in response to their attempts to achieve their objectives, which may further alter or intensify the dramatic tension as a result.
+
+7 Constraint: the researcher must formulate appropriate and purposeful constraints for each participant in the role-play before it begins. Constraints help to make a scene more realistic, and slow the action down, allowing for greater opportunity for negotiation and interaction. To be meaningful, constraints must be related to the dominant political, economic, historical, social or personal realities in the scene. For example, in the scene above, the union representative may be aware that he is being ‘pressed’ for information, but has to maintain a calm and vaguely pleasant demeanour as he is aware that greater harm could result if he were to have an outburst at a lunch table with the human resources manager. The constraint for the HR manager could be that she is not allowed to ask the union rep. directly about staff members’ activities, and has to exercise caution in how she gently probes over a long and leisurely lunch. Without effective constraints, a role-player may ignore the social and professional ‘niceties’ in the scene above, demand the required information and conclude the scene rather swiftly, thereby missing out on the learning possibilities that this activity has to offer.
+
+8 Hidden objective: while the information in principles 1–7, should be shared with all role-play participants openly, the researcher may decide to add additional information or instructions to complicate, enrich or develop a scene. It involves giving a piece of information or instruction to one participant in the role-play, and giving a different piece of information or instruction to the other role-player(s). This information is not shared with the full group but delivered privately, and thus when the characters come together to improvise the scene, their objectives may clash overtly (or covertly) as set up by the researcher. A hidden objective can be used successfully to replay the same scene, but altering some of the detail in the second and subsequent runnings. For example, in a rerun of a scene between a marriage guidance counsellor and a client, the researcher may call the counsellor to one side of the room to additionally inform her that this client has already seen another counsellor in the same organization, and made an official complaint about her. The client is not aware of this additional information being applied to the scene, and it would be interesting to gather data from both participants, comparing how the two scenes may (or may not) differ. It is possible to give a hidden objective to both parties, which can result in a lively interaction when the scene recommences.
+
+However, Bolton (1996) makes an interesting observation when he claims that this seeming release from responsibility rarely extends to breaking the rules of a game, and he recommends that researchers interested in using role-play may need to pay particular attention to this by ‘delineating participant goals and delimiting strategies’. It may have been a very different prison experiment had the responsibility been altered during the role-play by telling the warders that they had been nominated for promotion within the prison service on the basis of their ability to combine authority and respect in their dealings with prisoners (Bolton, 1996: 188). The flexibility of role-play as a research method can provide a researcher with valuable opportunities to shift variables and explore other angles/perspectives, all within the framework of the existing role-play, thus saving time and resources (with due attention being paid to ethical issues and constraints as relevant).
+
+There is recognition that all acting is, by definition, ‘not real’. The extent of the illusion is reflected in the different versions of reality and humanity portrayed, and in role-play, it is possible to show both the inner and outer voices of a participant. This is referred to as the self-spectator, where participants are able to monitor their performance in the role, and are not overwhelmed by it (see Heathcote, 1991). They are empowered through the initial setting up of the exercise to be able to maintain a dual personality: they are watching themselves as they play the role, and can learn from the experience. This is particularly useful for researchers as it allows them to gather data from a dual perspective, i.e. what it was like for participants to play the role of someone else, and to compare that experience to participants’ own realities. Such data can be used by the researcher to inform and create a multilayered approach to the research.
+
+In the Stanford Prison Experiment however, the participants appear to have been fully submerged in the role, or as Sartre (1976: 162) might put it ‘devoured by the imaginary’. This led to its own consequences as presented in Box 26.2, and serves to highlight the necessity of thorough planning and preparation for the use of role-playing in research contexts, particularly in the field of social psychology. O’Neill (1995: 70) suggests that anyone who publicly takes on a fictional role changes in response to the alteration in interpretive attitude of the viewer to the viewed. They become ‘both more and less than an individual’, acquiring what Roland Barthes (1972: 49) calls a ‘corporeal exemplarity’. A role can protect and conceal participants within the dramatic world, and they can be simultaneously ‘both more and less than themselves. They embody both present meaning and future possibility’ (O’Neill, 1995: 144). For this reason, role-play can provide an experimental setting in which questions of identity and the power and limitations of the roles we inhabit may be explored (O’Neill, 1995: 144).
+
+26.5 Role-play as a research method
+
+The approach to role-play advocated in this chapter represents a move away from a strictly behaviourist system to one which emphasizes process, and is involved in the creation and communication of meaning. Thus, role-play as presented here offers particular advantages to a researcher who is interested in exploring and analysing data which may not be easily accessed through other methods. It is a unique blending with case study method, and offers a rare opportunity to critically examine aspects of social behaviour and social interaction in relationships between people, ideas and the environment.
+
+Using role-play in research allows researchers to:
+
+[图片: images/041_26 Role-playing/035_box.jpg | image]
+ explore the principles of human behaviour in real-life settings, lived at life-pace;
+
+[图片: images/041_26 Role-playing/036_box.jpg | image]
+ access and assess how people make sense of their lives, and the structures of the natural world;
+
+[图片: images/041_26 Role-playing/037_box.jpg | image]
+ prioritize the process of engagement;
+
+[图片: images/041_26 Role-playing/038_box.jpg | image]
+ explore different points of view, and forge different types of knowledge;
+
+[图片: images/041_26 Role-playing/039_box.jpg | image]
+ adopt multiple viewing points within a data set;
+
+[图片: images/041_26 Role-playing/040_box.jpg | image]
+ study multi-level communication;
+
+[图片: images/041_26 Role-playing/041_box.jpg | image]
+ identify and explore the development and manifestation of participants’ attitudes, decisions, strategies, values, higher-level cognitive and affective thinking skills, and emotions;
+
+[图片: images/041_26 Role-playing/042_box.jpg | image]
+ shift and alter variables as the research unfolds, to explore subtleties and nuances in human interactions and situations, in an uncomplicated and undemanding manner, without having to schedule additional sessions or devise alternative methods to collect the data required;
+
+[图片: images/041_26 Role-playing/043_box.jpg | image]
+ provide planned or spontaneous physical, emotional, personal, social or intellectual prompts and stimuli to participants, in comparison to the use of predominantly intellectual prompts in other methods such as interviews and questionnaires;
+
+[图片: images/041_26 Role-playing/044_box.jpg | image]
+ engage with a fully diverse research population through the use of an inclusive method to explore and access relevant data;
+
+[图片: images/041_26 Role-playing/045_box.jpg | image]
+ explore meanings and the ways in which people understand things;
+
+[图片: images/041_26 Role-playing/046_box.jpg | image]
+ investigate patterns of behaviour;
+
+[图片: images/041_26 Role-playing/047_box.jpg | image]
+ provide a somewhat objective lens through which to interpret the material, and thus distance themselves from the topic of enquiry, facilitating an objective mode of analysis;
+
+[图片: images/041_26 Role-playing/048_box.jpg | image]
+ examine ready-made, visually and narratively rich research data, which evoke layers of meaning through reflection;
+
+[图片: images/041_26 Role-playing/049_box.jpg | image]
+ capture visual data, adding immediacy and authenticity to the research;
+
+[图片: images/041_26 Role-playing/050_box.jpg | image]
+ involve participants as co-researchers;
+
+[图片: images/041_26 Role-playing/051_box.jpg | image]
+ engage in meaningful interaction with participants.
+
+Role-play as a research method – special features
+
+[图片: images/041_26 Role-playing/052_box.jpg | image]
+ Participants are actively involved in the research process through the three major stages of briefing, acting and debriefing. The use of role-play in a well-structured research process has the potential to create a reciprocal relationship, a valuable learning experience for both researcher and participant, which may ultimately impact upon the quality of resulting data.
+
+[图片: images/041_26 Role-playing/053_box.jpg | image]
+ Helps participants to consider ideas from different perspectives. It can place participants at the centre of the research experience, and allow them to construct their own bridges of understanding. As a result, they are often better able to respond to questions and comments from researchers about the experience.
+
+[图片: images/041_26 Role-playing/054_box.jpg | image]
+ Supports participants during the research process, owing to the group and social nature of the activity. It tends to be much less isolating than completing a questionnaire, for example.
+
+[图片: images/041_26 Role-playing/055_box.jpg | image]
+ Engages the whole person through the process, and reduces the danger of intellectual speculation or ‘navel gazing’ (what I would do if I were in that situation...). It places participants ‘in situ’, at that moment, and demands a holistic response.
+
+[图片: images/041_26 Role-playing/056_box.jpg | image]
+ The role-play can be structured to become incrementally more challenging or complex as participants are eased into the activity and prepared to engage with the issues under examination.
+
+[图片: images/041_26 Role-playing/057_box.jpg | image]
+ It is an enjoyable activity and fosters positive relations between the researcher and participants.
+
+[图片: images/041_26 Role-playing/058_box.jpg | image]
+ It is a spontaneous, dramatic, creative research strategy in which participants overtly and consciously assume the roles of others.
+
+[图片: images/041_26 Role-playing/059_box.jpg | image]
+ The role-play may stimulate related memories and experiences, and can be used as a naturally occurring springboard to explore other relevant experiences or situations without the researcher probing too deeply or overtly.
+
+[图片: images/041_26 Role-playing/060_box.jpg | image]
+ It can both relax and poise participants simultaneously, who may respond more openly and freely without overt direction from the researcher.
+
+[图片: images/041_26 Role-playing/061_box.jpg | image]
+ It can be controlled by participants, and they can stop, pause or extend the activity at will.
+
+[图片: images/041_26 Role-playing/062_box.jpg | image]
+ Debriefing and de-roling activities can increase reflection, and provide rich data that is not easily accessed using other methods, or within such an economic time frame.
+
+[图片: images/041_26 Role-playing/063_box.jpg | image]
+ It can provide an added dimension to the research in that participants are engaged in reflexive praxis; they are learning and doing at the same time, i.e. research as a combination of both experience and reasoning.
+
+[图片: images/041_26 Role-playing/064_box.jpg | image]
+ Like other forms of empirical data, role-playing may not provide researchers with unbiased, objective documentation, but it can show characteristic attributes that are often missed in other forms of data collection.
+
+A note of caution
+
+Like much research in the qualitative tradition, role-playing as a research method caters for issues concerning moral responsibility, individuality, freedom and choice, resulting in the collation of rich and personal data. While quantitative research is characterized by presupposed outcomes, qualitative analysis encourages an organic development, with much more flexibility offered to the overall process (see Taylor, 1996). However, it is important to note that role-playing is always context-bound and localized. It does not lend easily to mass generalization, unlike quantitative techniques. The conclusions are usually derived from intensive, small-scale experiences drawing on a rich and deep data set, but they may be highly selective depending on the researcher’s objectives. In this approach, the researcher turns away from statistical analysis in favour of in-depth analytical accounts of human behaviour.
+
+If using role-play as a research method, the researcher must ask herself, what impact does the interplay of art with reality have? In addition to those issues identified in the previous section, Ginsburg (1978) summarizes the argument against role-playing as a device for generating scientific knowledge when he notes that:
+
+[图片: images/041_26 Role-playing/065_box.jpg | image]
+ role-playing is unreal with respect to the variables under study in that the subject reports what she would do, and that is taken as though she did do it;
+
+[图片: images/041_26 Role-playing/066_box.jpg | image]
+ the behaviour displayed is not spontaneous even in the more active forms of role-playing;
+
+[图片: images/041_26 Role-playing/067_box.jpg | image]
+ the verbal reports in role-playing are very susceptible to artefactual influence such as social desirability; and
+
+[图片: images/041_26 Role-playing/068_box.jpg | image]
+ role-playing procedures are not sensitive to complex interactions.
+
+Ginsburg’s (1978) critique relates to a form of practice that underpins a behaviourist approach to role-playing. It is noteworthy that many of his concerns have been addressed in the intervening years through the development of a systematic approach to role-play methodology as described in the following sections.
+
+26.6 How does it work?
+
+Maier et al. (1957: 14) state that leading role-playing is not a difficult task, and does not require special training by the trainer. However, this is disputed by Argyris (1958: 321) who claims that role-playing requires skilful leaders who have a high degree of self-awareness, confidence and self-worth. As alluded to earlier, the shift in role-play from a typical transactional model of passing on of knowledge, to the ‘making’ of it, ‘calls on one’s humanness in a way not normally associated with an instructional context’: it can be both demanding and revealing (Bolton and Heathcote, 1999: 58). This was evident in the response of the participants in the Stanford Prison Experiment, and the challenge for researchers is to get the balance right between maximizing opportunities for research, and protecting participants. If one over or under protects, it may stifle learning. Many people are nervous about role-play, and associate it with being required to ‘act’ in front of their peers or colleagues. Taking on a role is like an actor working to create a character in a play or film. However, whereas the actor is required to build a complex personality through a process called characterization, the role-player focuses only on the following:
+
+1 the purpose of taking on the role;
+
+2 the status or level of power of the role – high, low or equal status in relation to the others in the role-play;
+
+3 the attitude of the role; and
+
+4 the participant’s motivation in the role-play (O’Toole and Haseman, 1992: 7–13).
+
+The researcher should determine these in advance according to the issues or themes being investigated, and brief participants fully on these four points before they engage in the role-play. This will facilitate transparency about the research exercise, and ensure greater clarity and depth in the activity itself, thereby improving the reliability of the data by more closely reflecting the real-life situation and reducing any tendency to superficiality.
+
+Unscripted or improvised role-play increases flexibility, encourages varied discourse and allows for natural turn-taking in a conversational exchange, but educators and researchers should be aware that a loosely structured role-play places more demands on participants, and thus requires greater preparation in advance. A more structured, scripted role-play may also be used, but it does not allow for the same level of discourse and flexible response as open role-play (see Kasper and Roever, 2005). Occasionally, the educator or researcher may play a role (often called Teacher in Role in the literature), but most roles are usually assumed by participants.
+
+Although no set method or standardized approach exists for role-play, McKeachie and Svinicki (2006) indicate that the effectiveness of role-play is dependent on careful planning and the educator’s ability to convey confidence to participants that role-play can be a valuable strategy. The eight principles outlined in Box 26.3 are designed to support the researcher as she endeavours to plan for a rich and well-designed role-playing episode. Without adhering to some general guidelines, an improvisation or role-play is in danger of becoming stereotypical, overacted, simplistic and may skew resulting data. Such an activity may also peter out after a few moments if participants lack sufficient information about the situation or the characters they are playing. Depending on the researcher’s objectives, it is possible to alter some of these principles to elicit, monitor and assess a specific response. The following guidelines are useful to encourage active participation in most role-play situations, and should be attended to during the initial planning stage of the research, and communicated to the participants, either orally, much as a narrator in a film or play might do at the outset to fill in missing information, or through the use of written briefs or role cards (which are commercially available or written by the researcher in accordance with her objectives).
+
+26.7 Important strategies for successful role-play
+
+Inserting dramatic tension and awakening participants’ self-spectator
+
+Irrespective of the many types and genre of drama, one of its key defining characteristics is dramatic tension. Role-play, devoid of any tension, is sometimes used in educational and research contexts, and results in little more than rote learning or drill practice. While a behaviourist mode of training is appropriate in some areas, it can ignore the intricacies of real life where interactions with other people occur. If, as is suggested, dramatic tension is a key feature of successful role-play, then Heathcote (1991: 34) argues for the importance of focusing on the quality of dramatic tension, and by this she is not referring to ‘huge terrifying events such as earthquakes, mutinies, armies and so on’ which can characterize some forms of drama, but rather to localized incidents operating at a subtle level within a human circumstance. Tension is often manifest in situations where there is an incomplete task with a deadline looming, and related to power games and status in relationships. By inserting low-level or insipid dramatic tension into a role-play, it can motivate participants, build investment in the fictional situation, and it ‘has the effect of making the most hackneyed situations spring into new focus and create new awareness’ (Heathcote, 1991:34).
+
+Being cognizant of the fact that role-play operates in a fictional realm, and employs the art form of drama as its vehicle to achieve new insights, participants must not be allowed to become emotionally and intellectually consumed by a situation, or it will reduce the possibilities for reflection on their actions and related consequences. In addition to good planning for role-playing episodes, the concept of the ‘self-spectator’ (see Heathcote, 1991 and Bolton and Heathcote, 1999) is closely linked with protecting participants in drama, and allowing for greater reflection and deepening of the experience. The concept implies that participants are observing themselves when in role, are aware of what they are doing and of what is happening to them, and do not become overly immersed in the action. This is achieved by monitoring their emotional and cognitive responses to the dramatic stimulus, so that they are aware that they are playing a part. They are simultaneously themselves and also representing a character.
+
+Self-spectation implies becoming the critical audience of your own performance, and facilitates an ability to change if required. Failure to monitor one’s participation in a role-play may result in missed learning opportunities, reduced flexibility in responding to a situation, and increases the risk of dangerous emotional engagement (i.e. getting carried away with the action). Regular moments of reflection both during and after the role-play are important to allow for self-spectation to be activated and employed. These can be facilitated by researcher interventions during the activity, such as questioning, judicious use of praise and encouraging participants to be responsible and to look for implications and consequences of their actions at all times. It is important to encourage the participants to document their experiences of the role-play, whilst in-, and/or out-of-role. It can allow for the emergence of important insights and form the basis for later reflection and evaluation. Writing or drawing whilst inside or outside the dramatic situation, can facilitate the formulation and expression of both private and public responses, and also stimulate self-spectation.
+
+Protection into role and protection into emotion
+
+Emotion is the underlying currency of drama, because any imaginary act is necessarily accompanied by emotion (Davis and Lawrence, 1987). It fosters participant investment where the characters begin to care about the situation, and work collaboratively towards exploring creative and meaningful solutions. If we take the emotion out of drama, there is only the ‘burden’ or ‘hard grind’ of life left. There are many ways to categorize and discuss emotion, but in educational drama and role-play we are broadly concerned with the notion of first and second order emotions. The former describes raw emotion as experienced in real life, and the latter refers to filtered emotion, as may be experienced in art (see Witkin, 1974; Best, 1992). It is generally agreed that first order emotion has no place in art, as it is transitory and fleeting, and may at times be overwhelming and uncontrollable. But the advantage of using the arts in educational research is that they allow us to slow down time, pausing and dwelling a little on experiences that might otherwise be lost to us. This can be a useful approach in gathering valuable data for research. For example, when working with children who were prone to public release of inappropriate behaviours, such as tantrums or meltdowns, a role-play methodology was employed to investigate whether such children could learn to mediate and manage their emotional state using an experiential rather than a behaviourist intervention (O’Sullivan, 2005).
+
+In drama and role-play, the aim is not to protect participants from emotion, but into emotion, in order to maximize engagement and extend learning opportunities. There are several highly effective strategies, including the aforementioned self-spectatorship and second dimension of role, which serve to maintain and increase the objective distance between participants’ real lives and the fictional scenario they are working in. The challenge is to induct people comfortably and carefully into role to ensure that they are equipped to play that part responsibly.
+
+Whereas a professional actor will develop a whole technique to accommodate this, role-play facilitators and researchers who use this methodology typically ask participants to ‘just be a...’. (pensioner, waiter, taxi-driver or prisoner) with little or no preparation for what it might mean to ‘just be a... ‘. Without adequate preparation, participants may have little or no option but to fall back on a stereotype, as they have been given nothing else to work from. Thus, if asking children ‘to be pirates’, they tend to rely on stereotyped images from film and television to base their representation on. The use of context and second dimension of role (and the principles discussed in Box 26.3), can considerably reduce this risk, and in this case, encourage the children to explore what type of pirate they are playing. In building an initial profile, children can be encouraged to think about what they might have done (as a pirate) to be outlawed. Preliminary discussion to elicit information about what type of people pirates are, why they may have been forced into that way of life, and what it means to be a pirate historically and in today’s world, are effective strategies to build belief and investment (‘I care about the role’), protect the participants into role and subsequently into emotion, and activate their self-spectator.
+
+Attention to detail and responsible planning should always incorporate these strategies in order to simultaneously challenge and protect participants when engaged in role-playing. Paying careful attention to how we induct people safely and responsibly into role will elicit more reliable and ethical research findings, and serve to limit any possible skewing of data. It would appear that while every attention was paid to organizing the research component in the Stanford Prison Experiment (via consent forms and university ethical approval), a major weakness in the design was evident in the lack of attention to the practicalities of using role-play as a method in this case study. Unfortunately, a review of the literature would suggest that this is commonly reflected in many studies using role-play. Box 26.4 indicates several practical points when setting up a multiple role-play procedure.
+
+26.8 Three examples of research using role-play
+
+Role-playing versus lecturing
+
+In an empirical study designed to compare the effectiveness of role-playing and collaborative activities to teacher-centered discussions and lectures, with history and political science college students, McCarthy and Anderson (2000) report that the experimental group who participated in the role-plays and collaborative exercises did substantially better on subsequent standard evaluations than the control group, their traditionally instructed peers: the difference in the mean performance of the experimental group in political science was +0.8, while that in history was +1.0. The authors acknowledge the limitations of the experimental design in that it did not involve the use of randomly selected samples, nor did they control for potentially confounding factors such as differences in instructor performance or the academic levels of the students in the groups. Despite these limitations, the results provide suggestive evidence about the potential utility of active learning in the classroom relative to the lecture and teacher-centred discussion formats. Significantly, they report that role-play consumed the same amount of classroom time as traditional pedagogies. The data revealed that the difference between the test and control groups came from the preparation for the role-play as much as from the role-play itself. Students were devoting extra class time to prepare for the process, and video recorded evidence indicated that students in the role-play groups were three times more likely than the control group to speak and participate in class. Students reported a greater individual investment in the material and that they had become more comfortable with the content by discussing it in smaller peer groups at the beginning of class. However, the researchers testify to the importance of debriefing after a role-play, whereby the instructors can help students contextually organize the information and perspectives explored during the activity. In their study, it was found that a role-play’s effectiveness would be severely diminished unless the students could carefully review it under the instructor’s guidance (McCarthy and Anderson, 2000: 285).
+
+BOX 26.4 PRACTICAL POINTS WHEN SETTING UP A MULTIPLE ROLE-PLAYING PROCEDURE
+
+1 If the researcher is using ‘a multiple role-playing procedure’, where there are a number of pairs or groups conducting the role-play in the same space at the same time, begin by organizing the groups according to the number of people required in the scene (i.e. ‘get into groups of three please’).
+
+2 Using the eight principles of role-play cited in Box 26.3, give the group the requisite information and instructions for the ensuing role-play. Ask them to take a moment to discuss who is going to be who and what the characters’ names are (if this has not already been predetermined). It is good idea to write the names of the characters on a clearly visible flip chart which participants can refer to if they forget, without stopping the action.
+
+3 Ask the participants to find a space in the room and organize it in preparation for the role-play (i.e. loosely demarcate it as an office space, a jewellery shop, a university classroom, etc. according to easily available objects and resources). Invite them to use a chair or bag to section off their space. This helps to establish belief in what they are doing and makes their space semi-private so that they can focus on the task in hand.
+
+4 Inform them that the role-play will begin at the same time for all groups, and that when theirs has run its natural course, they should remain in situ, and quietly observe until the other groups have finished. On average, role-plays will run for between five and ten minutes.
+
+5 Where the role-play begins with all players in situ (i.e. sitting opposite each other in an office-type setting), the researcher should invite them to adopt an appropriate position for their role, such as scanning through a list on the desk, fiddling with a watch to signal nervousness, or concluding a phone call. Ask them to place their eye contact on an object rather than on their partner(s), freeze this gaze and their physical action for a moment, and on a clearly audible count of three from the researcher, all groups begin at the same time. It is a good idea to provide the opening words of the scene, such as, ‘Now then, Mr Hayes, why did you come to see us today?’, which all groups use to get them started. It reduces tension and any nervousness that may be present, and can usefully serve to focus the direction, the tone and the mood of the role-play.
+
+If the role play begins with one person entering a room and the other(s) already in situ, ask the person entering to stand about a metre away from their role-play partner(s), to lower their gaze as if preparing to knock on a door and enter on a given signal. In this situation, the person/people inside the room should adopt an appropriate action and eye gaze, away from the imaginary door and their role-play partner standing ‘outside’, and wait for the facilitator to count aloud and knock physically on a table or wall on everyone’s behalf. The opening words provided here may usefully be ‘Come in please’, or ‘One moment please, I’m on the phone/finishing off a document’, etc. Deciding to leave a person waiting outside an office door for 10–20 seconds can create an interesting power dynamic that will impact upon the remainder of the role-play as it unfolds.
+
+6 Allow the role-play to run its natural course, and if most pairs/groups are finished, you can gently intervene by inviting those still going to finish up shortly.
+
+7 Provide an opportunity for the pair/group to reflect and discuss initially, and then open up the discussion as a whole group exercise. This will be structured according to the individual research requirements. Participant diaries can be a useful tool to gather participants’ perspectives.
+
+8 Scenes can be replayed as required, giving participants a different experience by shifting or altering any of the principles outlined in Box 26.3.
+
+Role-playing as a final examination
+
+This study of graduate nurse education (Sellers, 2002: 498) examined the use of role-play in the two-hour final examination of students’ knowledge of the nursing theory curriculum. Each student was allocated a particular theorist (unidentified to their peers), and invited to present the role in a creative, accurate and realistic manner to their peers, who subsequently completed an assessment sheet after the oral examination (this technique is also known as ‘hot seating’, see Neelands and Goode, 2000). A series of pre-established theoretical questions devised by the course tutors, in addition to students’ own, were posed to each student being ‘hot seated’, in an attempt to identify the theorist being represented.
+
+Sellers (2002: 499) notes that involvement in role-play activity requires students to know the major tenets of the nursing theories and models, and to demonstrate the relevance of nursing theory to clinical practice. The active learning approach serves to reinforce students’ awareness of the historical contributions that a range of relevant theorists made to the discipline. Having been administered on six occasions, the findings indicate that the learning outcomes are satisfactorily achieved; students adopt collaborative-responsibility and self-responsibility for their own learning; engage in substantial extra-curricular reading to meet the challenges of the role activity; positive attitudes toward nursing theory are fostered; and students are encouraged to think critically about the applicability of nursing theory to advanced nursing practice. Students’ ranking of the effectiveness of the role-play final examination in evaluating their knowledge shows that group mean scores ranged from 6.68 to 7.0 (with 7 being outstanding).
+
+Using role-play and digital video to develop reflection
+
+Robinson and Kelley (2007) write about the additional benefits of using streamed video technology in a special education pre-service teacher education programme, which already uses role-playing methods to develop reflective practice. In a quasi-experimental, time-series design, participants were divided into two groups. The first group participated in three role-plays, reflected on their actions and then wrote reflections after each role-play. The second group participated in three role-plays that were recorded digitally and placed on a streaming server. Students watched each video, reflected on their actions and then wrote reflections. Other than the use of video-recorded role-plays, the groups were comparable in terms of student variables and the type of instruction delivered. It is interesting to note that every student also participated in an additional initial practice role-play session that was not videotaped or included in the analyses. The contexts of the role-plays included an introductory meeting, parent-teacher conference, special education referral meeting and an individual education programme (IEP) planning meeting. Each role-playing session consisted of participation in two role-plays, with students occupying a number of roles, including both professionals and family members.
+
+In this study, all aspects of the ‘families’, such as family members, family member characteristics, and family needs and strengths, were developed by the students; no scripts or case studies were used. The focus of the course, the role-plays and the reflections was professional collaboration, and the students’ collaboration skills as professionals were analysed, not their performance or skills as family members. All students were given a schedule of the role-plays as an advance organizer, which included cumulative collaboration topics such as effective listening skills, effective communication, family diversity, conducting meetings, paraprofessional collaboration and problem-solving. Students, as professionals, were responsible for demonstrating effective communication and collaboration skills within each role-play. A developmental coding rubric was used to score and analyse the written reflections following the role-plays. A sentence by sentence analysis was conducted for each role-play reflection from both groups, and following a two-step process, inter-rater reliability was established (a mean of 89 per cent), and each role-play was individually analysed by both researchers, and the results compared.
+
+In summary, the quantitative and qualitative data revealed that Group 1 students tended to describe what they saw, with little higher level reflection and no progression in their skill development, whereas Group 2 students were more likely to briefly describe what they saw and then engage in critical reflective thought, with significant evidence of a growth in reflection skills between role-play 1 and 3. Notwithstanding the limitations of this study (small sample size, difficulties relating to generalizability owing to the nature of the investigation, and variances in participants’ writing skills), the results indicate a relationship between recording performance in a role-play, reviewing it at a later date, and an increase in reflective thought.
+
+Further examples in summary form
+
+The literature in almost every discipline contains many examples of creative, innovative and active teaching and learning methods, and role-play is high on the list of most commonly used strategies in this regard. Table 26.1 provides a brief summary (illustrative only) of some of the most recent uses of role-playing method, both as a research tool and as an effective approach to teaching and learning, as reported in the literature.
+
+TABLE 26.1 EXAMPLES OF THE USE OF ROLE-PLAY IN THE LITERATURE
+
+[图片: images/041_26 Role-playing/069_f0525-01.jpg | image]
+
+[图片: images/041_26 Role-playing/070_f0526-01.jpg | image]
+
+Companion Website
+
+The companion website to the book includes PowerPoint slides for this chapter, which list the structure of the chapter and then provide a summary of the key points in each of its sections. This resource can be found online at www.routledge.com/textbooks/cohen7e.

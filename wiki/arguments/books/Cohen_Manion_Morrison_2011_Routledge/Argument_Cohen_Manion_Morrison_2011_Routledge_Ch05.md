@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -76,8 +76,10 @@ related_methods:
   - "[[Accounts]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Telephone Interview]]"
+  - "[[Role-playing]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Stanford Prison Experiment]]"
 related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -588,7 +590,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 >
 > | 立场 | 核心原则 | 理论基础 | 关键案例 |
 > |---|---|---|---|
-> | **绝对主义** | 清晰、固定的原则应指导研究者工作，决定什么应当做和什么不应当做 | "原则的义务伦理"（Edwards & Mauthner, 2002, p. 20），道义论模型。研究受普遍准则如正义、诚实和尊重管辖（见 Box 5.6） | Stanford Prison Experiment（第26章）：绝对主义立场意味着实验根本不应该发生，或应在第六天之前被终止，因为参与者遭受了相当大的痛苦 |
+> | **绝对主义** | 清晰、固定的原则应指导研究者工作，决定什么应当做和什么不应当做 | "原则的义务伦理"（Edwards & Mauthner, 2002, p. 20），道义论模型。研究受普遍准则如正义、诚实和尊重管辖（见 Box 5.6） | [[Stanford Prison Experiment]]（第26章）：绝对主义立场意味着实验根本不应该发生，或应在第六天之前被终止，因为参与者遭受了相当大的痛苦 |
 > | **相对主义** | 不可能有绝对指导方针，情境决定行为。尊重研究发生的文化、族裔、社会经济背景（Oliver, 2003, p. 53） | "后果的功利主义伦理"，伦理研究根据其后果判断 | 情境伦理（Simons & Usher, 2000）：总体指南在面对非常具体的情境时可能提供很少帮助 |
 >
 > Zimbardo (1984) 指出[[Absolutist and Relativist Ethics|绝对主义伦理]]立场（诱导任何人类痛苦都是不正当的）将终结大量心理学或医学研究——**无论其对社会的可能收益如何**。
@@ -929,7 +931,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 
 > [!feature] 方式三：开发新程序和新技术
 > 挖掘自身创造力寻求替代方法：
-> - 角色扮演（role-playing）或"假设"实验（'as-if' experiments）——"角色扮演 vs 欺骗"辩论（第26章详述）
+> - [[Role-playing|角色扮演]]（role-playing）或"假设"实验（'as-if' experiments）——"角色扮演 vs 欺骗"辩论（第26章详述）
 > - 这些新方法涉及对参与者角色的一组根本不同的假设——它们要求我们**使用参与者的动机，而非绕过它们**
 > - 甚至可能需要**提高潜在参与者的成熟度（sophistication）**，而非维持他们的天真（p.113）
 

@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Abstract]]"
   - "[[Reliability]]"
+  - "[[Rating Scale]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -62,7 +63,7 @@ updated: '2026-05-18'
 ## 最高评级标准
 
 > [!abstract] 最高评级标准
-> CEBC 的项目评级包括 Well-supported by research evidence、Supported by research evidence、Promising research evidence、Evidence fails to demonstrate effect 和 NR（不能按 CEBC Scientific Rating Scale 评级）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
+> CEBC 的项目评级包括 Well-supported by research evidence、Supported by research evidence、Promising research evidence、Evidence fails to demonstrate effect 和 NR（不能按 CEBC Scientific [[Rating Scale]] 评级）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
 >
 > 其最高等级要求至少两项高质量 [[Randomised Controlled Trials|RCT]]，且样本不重叠；必须在指定结果上呈现正向效果；不允许医源性或法律上有问题的效果；其中一项 RCT 必须显示干预结束后至少 12 个月仍有持续效果。第二高等级与最高等级相比，只要求一项 RCT，并接受干预结束后 6 个月的较短随访期([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–14]])。
 

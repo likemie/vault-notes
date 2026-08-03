@@ -5,7 +5,7 @@ aliases:
 summary: "教育系统把内部问题投射到外部参照框架中加以理解和正当化的过程，是比较教育中解释政策参照与国际借鉴的重要概念"
 type: concept
 domain: "comparative-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
-related_methods: []
+related_methods:
+  - "[[Discourse Analysis]]"
 related_persons:
   - "[[Jurgen Schriewer]]"
 related_facts:
@@ -84,7 +85,7 @@ updated: '2026-05-18'
 ## 理论基础
 
 > [!info] 理论基础
-> - Schriewer 的外化理论在比较教育方法论中属于**社会[[Luhmann's Systems Theory|系统理论]]**和**话语分析**传统
+> - Schriewer 的外化理论在比较教育方法论中属于**社会[[Luhmann's Systems Theory|系统理论]]**和**[[Discourse Analysis|话语分析]]**传统
 > - 外化与 Luhmann 系统理论中的"自我指涉"（self-reference）概念有亲缘关系——系统通过参照外部来建构内部意义
 
 ## 应用领域

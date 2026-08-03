@@ -9,7 +9,7 @@ title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Theoretical Standpoint]]"
   - "[[Simple View of Reading]]"
+  - "[[Decodification]]"
   - "[[Global Education Reform Movement]]"
   - "[[Study Population and Sample]]"
   - "[[Document]]"
@@ -93,7 +94,7 @@ citation_aliases:
 > |----------|----------|
 > | **全语言哲学**<br>[[Whole Language]] | [[Ken Goodman\|肯·古德曼]]（Ken Goodman）提出的儿童语言习得与读写教学哲学。主张学习者在真实（authentic）情境下进行整体语言读写，反对孤立的技能训练序列、反对将阅读切片并与测试分数挂钩 (pp.143-144)。 |
 > | **读写社会文化观**<br>[[Theoretical Standpoint]] | 戴维·布鲁姆（David Bloome）等人提出，将阅读和写作视为社会和文化[[Praxis\|实践]]，强调教学法始终是政治性的，涉及权力关系的重构 (p.149)。 |
-> | **简单阅读观**<br>[[Simple View of Reading]] | 菲利普·高夫（Philip Gough）等人提出的认知模型，认为阅读能力可由解码能力与听力理解预测，该模型在政策上常被拼读倡导者用作“拼读优先、拼读唯一”的科学依据。 |
+> | **简单阅读观**<br>[[Simple View of Reading]] | 菲利普·高夫（Philip Gough）等人提出的认知模型，认为阅读能力可由[[Decodification\|解码]]能力与听力理解预测，该模型在政策上常被拼读倡导者用作“拼读优先、拼读唯一”的科学依据。 |
 > | **元分析与元元分析**<br>[[Meta-analysis]] / [[Meta-meta-analysis]] | [[Gene Glass\|吉恩·格拉斯]]（Gene Glass）提出的统计合成法。本研究通过其局限性（如汉斯·艾森克 (Hans J. Eysenck) 的“垃圾输入，垃圾输出”及罗伯特·波森 (Robert Pawson) 的简化论批判）解构[[Effect Size\|效应量]]排名的客观性假象 (p.143)。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -143,7 +144,7 @@ citation_aliases:
 > | :--- | :--- | :--- | :--- |
 > | **[[Steven Stahl\|Stahl]] & Miller (1989)** | 原始 d=0.09 <br>*(词汇0.17/理解0.09)* | **直接纳入平均**<br>参与全语言效应量计算 (p.145) | **混淆早期[[Language Experience Approach\|语言经验法]]（Language Experience Approach, LEA）** 强行塞入全语言运动（1970年代）诞生前的 1960 年代传统行为主义研究（如 Brazziel 合作阅读准备干预）(p.144)。 |
 > | **[[Steven Stahl\|Stahl]] et al. (1994)** | 原始 d=0.15 → **不变** | **并列纳入平均**<br>与 1989 年旧 data 并列计算 | **采纳冲突的双重数据** 作者 1994 年已承认 1989 年混同 LEA 属“时代错误”并予以修正，但哈蒂却在合成中同时保留了这两份互斥的数据。 |
-> | **Gee (1995)** | 原始 d=0.65 → **0.00** | **选择性修剪**<br>手动删除 3 项正面原始研究 (p.148) | **教条化曲解全语言** 哈蒂以“包含单词表和解码”为由强行清零。事实上，全语言并不排斥在真实的共享阅读情境中自然流动地教授拼读技能。 |
+> | **Gee (1995)** | 原始 d=0.65 → **0.00** | **选择性修剪**<br>手动删除 3 项正面原始研究 (p.148) | **教条化曲解全语言** 哈蒂以“包含单词表和[[Decodification\|解码]]”为由强行清零。事实上，全语言并不排斥在真实的共享阅读情境中自然流动地教授拼读技能。 |
 > | **[[William Jeynes\|Jeynes]] & Littell (2000)** | 原始 d=-0.65 → **不变** | **无审查全盘采纳**<br>对极端负值（倒退）不做核实 | **数据算错与政治偏见** 克拉申 (Krashen, 2002) 证实该研究多处计算方向反转（如 Lamb 从 -0.75 算错为 +0.44）；第一作者 [[William Jeynes\|Jeynes]] 具有强烈的福音派宗教右翼偏见 (p.147)。 |
 
 ---

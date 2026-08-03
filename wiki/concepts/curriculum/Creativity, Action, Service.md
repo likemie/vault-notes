@@ -8,7 +8,7 @@ aliases:
 summary: "国际文凭预科项目（IB DP）的三项必修核心要素之一，要求学生参与课堂之外的艺术创意、体育锻炼与社区服务体验，促进全人发展与体验式学习。"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,7 +28,6 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[International Baccalaureate]]"
-  - "[[CNCS Evidence Exchange]]"
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: high
@@ -44,7 +43,7 @@ updated: 2026-07-26
 ## 定义
 
 > [!def] 核心定义
-> 创意、行动、服务（Creativity, Action, Service / CAS）是 [[International Baccalaureate|国际文凭]]（IB）预科项目（DP）的三大核心必修要素之一（与[[Theory of Knowledge|知识论]] TOK 及 [[Extended Essay|拓展论文]] [[CNCS Evidence Exchange|EE]] 并列）。它要求学生在为期两年的 DP 学习中，完成跨越艺术创意、身体锻炼与社区服务的体验式活动，旨在平衡学术压力并促进全人发展 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 18, p. 22)]]。
+> 创意、行动、服务（Creativity, Action, Service / CAS）是 [[International Baccalaureate|国际文凭]]（IB）预科项目（DP）的三大核心必修要素之一（与[[Theory of Knowledge|知识论]] TOK 及 [[Extended Essay|拓展论文]] EE 并列）。它要求学生在为期两年的 DP 学习中，完成跨越艺术创意、身体锻炼与社区服务的体验式活动，旨在平衡学术压力并促进全人发展 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 18, p. 22)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** CAS 强调在真实社区与真实生活中通过“做”（doing）与反思来学习。它由三大维度组成：**创意（Creativity）**（艺术与探索性思考）、**行动（Action）**（体育与身体挑战）、**服务（Service）**（无偿社区服务与社会责任）。

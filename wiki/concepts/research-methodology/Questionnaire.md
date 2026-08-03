@@ -26,7 +26,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Research Question]]"
-  - "[[Questionnaire Wording]]"
   - "[[Hypothesis]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Sensitive Questions]]"
   - "[[Homework]]"
+  - "[[Questionnaire Wording]]"
   - "[[Covering Letter]]"
 related_methods:
   - "[[Survey Research]]"
@@ -152,7 +152,7 @@ updated: 2026-07-21
 
 > [!decisions] Selltiz et al.（1976）的四类决策框架
 > - **A 问题内容的决策**（8条）：问题是否必要？受访者是否有信息回答？内容是否足够具体？是否有偏见？
-> - **B [[Questionnaire Wording|问题措辞]]的决策**（7条）：问题是否可能被误解？是否包含未陈述的[[Hypothesis|假设]]？措辞是否有偏见或情感负载？
+> - **B 问题措辞的决策**（7条）：问题是否可能被误解？是否包含未陈述的[[Hypothesis|假设]]？措辞是否有偏见或情感负载？
 > - **C 回答形式的决策**（4条）：用检查式、自由回答还是检查式加追问？若是检查式，用二分类、多选还是量表？清单是否穷尽且互斥？
 > - **D 问题在序列中位置的决策**（3条）：答案是否受前序问题影响？问题引入是否自然？出现时机是否合适？
 
@@ -306,7 +306,7 @@ updated: 2026-07-21
 
 ### 措辞与偏差陷阱
 
-> [!warning] [[Questionnaire Wording|问题措辞]]的十项警示
+> [!warning] 问题措辞的十项警示
 > - 避免[[Leading Questions|引导性问题]]
 > - 避免深奥问题（即使对复杂受访者也用简单语言）
 > - 避免复杂问题（含多个从句和选项）

@@ -9,7 +9,7 @@ summary: "在单一时间点对总体进行快照式描述的调查研究设计�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Sampling Frame]]"
   - "[[Questionnaire]]"
+  - "[[Rating Scale]]"
   - "[[International Education]]"
   - "[[Variable]]"
   - "[[Attrition]]"
@@ -76,7 +77,7 @@ updated: 2026-07-13
 > 1. 明确[[Research Purpose|研究目的]]和[[Research Question|研究问题]]。
 > 2. 界定[[Study Population and Sample|目标总体]]和[[Sampling Frame|抽样框架]]。
 > 3. 选择[[Random Sampling|概率抽样]]策略以确保样本代表性。
-> 4. 设计和试测数据收集工具（[[Questionnaire|问卷]]、测验、态度量表）。
+> 4. 设计和试测数据收集工具（[[Questionnaire|问卷]]、测验、[[Rating Scale|态度量表]]）。
 > 5. 在单一时间点施测。
 > 6. 进行描述性、相关性和组间比较分析。
 > 7. 谨慎解读结果——不能推断[[Causality|因果关系]]。

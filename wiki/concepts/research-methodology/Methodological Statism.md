@@ -6,7 +6,7 @@ aliases:
 summary: "在教育研究与全球化社会学中，指代默认主权国家是教育的唯一提供者、出资者与监管者，并将“教育治理”等同于“国家行政管理”的方法论还原主义偏误。它是 Roger Dale 提出的阻碍全球化教育研究的“三大方法论陷阱”之一。"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Rationalism in International Relations]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Network Analysis]]"
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -111,7 +112,7 @@ updated: 2026-07-11
 > [!dev-timeline] 发展脉络
 > - **2005 — 概念系统化** Roger Dale 撰文讨论全球化对教育研究方法论的挑战，系统界定了方法论 statism，并与 nationalism、educationism 结盟，构成教育社会学批判的基础。 (Dale, 2005)
 > - **2009 — 去国家中心框架细化** Dale 和 Robertson 进一步论证全球化时代教育“三大治理功能”（提供、资助、监管）在多边组织中的解耦，清算学科内的方法论 ISMS。
-> - **2023 — [[Rationalism in International Relations|理性主义]]国关传统的结合** Klerides 指出在理性主义传统下，比较教育必须摆脱方法论国家主义的限制，将研究对象从“ mass schooling ”和“ state-run systems ”解放出来，彻底转向关系空间和政策流动的网络分析。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]])
+> - **2023 — [[Rationalism in International Relations|理性主义]]国关传统的结合** Klerides 指出在理性主义传统下，比较教育必须摆脱方法论国家主义的限制，将研究对象从“ mass schooling ”和“ state-run systems ”解放出来，彻底转向关系空间和政策流动的[[Network Analysis|网络分析]]。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]])
 
 ---
 

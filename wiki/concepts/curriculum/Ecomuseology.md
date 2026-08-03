@@ -8,7 +8,7 @@ aliases:
 summary: "将整个地域视为博物馆并由社区主导保护和阐释自然与文化遗产的博物馆学取向。"
 type: concept
 domain: "curriculum"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology of Resistance]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Phronesis]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
@@ -90,7 +91,7 @@ updated: 2026-07-08
 
 > [!warning]
 > - "地域作为博物馆"理念在操作层面面临边界问题：一个地域的范围如何确定？谁来定义哪些地域元素"属于"生态博物馆？地域内部不同群体对同一空间的历史叙事可能存在冲突
-> - 与 [[Social Museology]] 的边界模糊：在巴西[[Praxis|实践]]中两者经常并存——这种交叉是实践智慧还是概念不清晰的症状，尚存讨论空间
+> - 与 [[Social Museology]] 的边界模糊：在巴西[[Praxis|实践]]中两者经常并存——这种交叉是[[Phronesis|实践智慧]]还是概念不清晰的症状，尚存讨论空间
 > - 生态博物馆的可持续性面临资金、技术和制度合法性等多重制约
 
 ## 相关案例／政策

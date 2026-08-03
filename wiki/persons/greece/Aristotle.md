@@ -6,7 +6,7 @@ summary: "古希腊哲学家，提出目的论、习惯化道德培养与理性�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Praxis]]"
+  - "[[Phronesis]]"
   - "[[Habituation]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
@@ -49,7 +50,7 @@ updated: 2026-07-25
 
 > [!person-profile] 人物档案
 > - **身份位置** 古希腊哲学家（384–322 BCE），出生于斯塔吉拉，古希腊哲学三大奠基人之一。
-> - **核心角色** 创立吕克昂学园（Lyceum），提出目的论（Telos）、[[Praxis|实践]]智慧（Phronesis）、德性伦理与[[Habituation|习惯化]]教育论，在西方教育哲学中代表了强调理性功能与秩序培育的经典传统。
+> - **核心角色** 创立吕克昂学园（Lyceum），提出目的论（Telos）、[[Praxis|实践]]智慧（[[Phronesis]]）、德性伦理与[[Habituation|习惯化]]教育论，在西方教育哲学中代表了强调理性功能与秩序培育的经典传统。
 > - **代表贡献** 《尼各马可伦理学》《政治学》。
 
 ---

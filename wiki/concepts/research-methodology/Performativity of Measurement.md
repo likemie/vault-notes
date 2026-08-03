@@ -6,7 +6,7 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Atomisation of Knowledge and Skills]]"
+  - "[[Decodification]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
   - "[[Visible Learning]]"
@@ -106,7 +107,7 @@ updated: '2026-05-18'
 > - **Latour 的"科学在行动"** — 关注科学[[Praxis|实践]]如何制造事实，而非科学作为成品([[Argument_Gorur_2014_Discourse|Gorur, 2014, p.6]])
 > - **Scott 的"国家的视角"** — 排序和测量使治理成为可能，而排序和测量的行为本身改变世界(Scott, 1998;)
 > - **[[Science and Technology Studies]]** — Jasanoff 的共同生产（co-production）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态(Jasanoff, 2004, p.3;)
-> - **Bottani 的[[Epistemology|认识论]]** — "没有认知方法能使其观察、测量、分析、比较、解码的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
+> - **Bottani 的[[Epistemology|认识论]]** — "没有认知方法能使其观察、测量、分析、比较、[[Decodification|解码]]的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.18]])
 
 ## 实证发现
 

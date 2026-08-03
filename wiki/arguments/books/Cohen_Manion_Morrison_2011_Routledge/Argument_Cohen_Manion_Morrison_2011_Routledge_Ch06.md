@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -80,6 +80,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Discourse Analysis]]"
   - "[[Comparative Case Study]]"
+  - "[[Role-playing]]"
   - "[[Grounded Theory]]"
   - "[[Longitudinal Study]]"
   - "[[Focus Group]]"
@@ -299,7 +300,7 @@ updated: 2026-06-19
 > | 检验课堂问答环节中教师给学生的线索 | [[Discourse Analysis\|话语分析]] |
 > | 调查学校中的破坏行为 | [[Covert Research\|隐蔽研究]]；基于知情人的研究 |
 > | [[Comparative Case Study\|比较案例研究]]与调查在调查小学逃学问题上的有效性 | 比较方法论 |
-> | 运行校长与高级教师之间的沟通角色扮演 | 角色扮演 |
+> | 运行校长与高级教师之间的沟通[[Role-playing\|角色扮演]] | 角色扮演 |
 > | 检验资源分配对表现不佳学校的效果 | 意识形态批判；[[Case Study\|案例研究]]；调查；因果研究 |
 > | 理解小学课堂中的权力动态 | 人种志；诠释性研究 |
 > | 调查19世纪末某城镇私立学校系统的消亡 | 历史研究 |

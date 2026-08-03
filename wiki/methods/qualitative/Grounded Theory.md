@@ -53,7 +53,7 @@ updated: 2026-05-30
 > - 通过开放式[[Coding in Qualitative Research|编码]]（open coding）、主轴编码（axial coding）和选择性编码（selective coding）的多阶段过程分析数据。
 > - 持续比较法（constant comparison），在数据收集和分析之间不断来回，精炼类别及其关系。
 > - 撰写备忘录（memoing）记录理论构建过程中的想法和决定。
-> - 当新数据不再产生新的理论见解时达到理论饱和（[[Saturation|theoretical saturation]]）。
+> - 当新数据不再产生新的理论见解时达到[[Saturation|理论饱和]]（[[Saturation|theoretical saturation]]）。
 
 ## 研究问题
 

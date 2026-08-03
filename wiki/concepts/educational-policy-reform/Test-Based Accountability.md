@@ -8,10 +8,10 @@ aliases:
 summary: "以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排，核心在于将评价结果制度化地与奖惩考核挂钩，是全球教育治理中的显著特征之一"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/accountability
   - theme/examination
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Global Education Reform Movement]]"
   - "[[New Public Management]]"
+  - "[[Decodification]]"
   - "[[Performativity]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
@@ -170,7 +171,7 @@ updated: 2026-07-21
 > - **6 世纪至今 — 中国[[Civil Service Examination|科举]]传统与考试文化奠基** [[Civil Service Examination|科举制度]]奠定了以考试衡量教育成功的文化传统，形成社会对考试公平性的认同，教师将追求考试优秀内化为对学生未来的道德义务。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 587-589)]]
 > - **1980s–2000s — [[New Public Management|新公共管理]]与西方高利害问责建制** 新公共管理兴起，问责概念引入教育治理。美国《不让一个孩子掉队》法案等政策将标准化测试结果与学校奖惩硬性挂钩，引发学界对绩效主义的讨论。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 588)]]
 > - **2000s 至今 — [[PISA]] 驱动与[[Global Education Reform Movement|全球教育改革运动]]拓展** [[PISA]] 推动全球范围内基于数据的问责治理，各国建立与国际标准对接的国家质量监测体系（如瑞士 [[HarmoS]]）。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
-> - **2020s 至今 — 跨文化借用与扩展性改造探索** 在面对 以学生为中心教育 等外来教学理念时，本土学校展现出重新解码考试问责与教学改革关系的调适能力，走向情境化理解。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 598-603)]]
+> - **2020s 至今 — 跨文化借用与扩展性改造探索** 在面对 以学生为中心教育 等外来教学理念时，本土学校展现出重新[[Decodification|解码]]考试问责与教学改革关系的调适能力，走向情境化理解。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 598-603)]]
 
 ---
 

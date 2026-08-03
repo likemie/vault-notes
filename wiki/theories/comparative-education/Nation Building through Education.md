@@ -6,7 +6,7 @@ aliases:
 summary: "国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
 - region/china
 related_concepts:
   - "[[Official Knowledge]]"
+  - "[[Cultural Hierarchy]]"
   - "[[Zhonghua Minzu]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Document]]"
@@ -56,7 +57,7 @@ updated: 2026-07-13
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 [[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 483]])
 
-> [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]从课程**文化内容**维度推进了这一框架：国族建构不仅通过语言统一和叙事标准化运作，还通过对[[Official Knowledge|官方知识]]的选择性阐释来建构文化等级。在六门必修科目的教科书中，儒家传统被呈现为中华文化的核心，非汉政权被塑造为"向先进汉文化学习"的对象——这种"学习"叙事在教育层面将汉文化定位为文明"中心"、将非汉文化定位为"边缘"([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.67–68]])。而约 86% 的少数民族和宗教背景学生视儒家仅为中国文化多元组成之一——其详细论证揭示的官方-边缘叙事断裂，暴露了单一文化国族建构在多元社会中的内在矛盾([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.68–70]])。
+> [[Argument_Yu_2024_CE|Yu & Zhao (2024)]]从课程**文化内容**维度推进了这一框架：国族建构不仅通过语言统一和叙事标准化运作，还通过对[[Official Knowledge|官方知识]]的选择性阐释来建构[[Cultural Hierarchy|文化等级]]。在六门必修科目的教科书中，儒家传统被呈现为中华文化的核心，非汉政权被塑造为"向先进汉文化学习"的对象——这种"学习"叙事在教育层面将汉文化定位为文明"中心"、将非汉文化定位为"边缘"([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.67–68]])。而约 86% 的少数民族和宗教背景学生视儒家仅为中国文化多元组成之一——其详细论证揭示的官方-边缘叙事断裂，暴露了单一文化国族建构在多元社会中的内在矛盾([[Argument_Yu_2024_CE|Yu & Zhao, 2024, p.68–70]])。
 
 ## 理论内部结构
 
@@ -96,7 +97,7 @@ updated: 2026-07-13
 > - **Tobin (2024)** — 新疆案例分析："普通话化"作为教育政策工具
 > - **[[Argument_Bulag_2024_CE|Bulag (2024)]]** — 内蒙古案例分析："[[Zhonghua Minzu|中华民族]]"叙事替代蒙古族历史
 > - **[[Argument_Yan_2025_JCS|Yan & Morris (2025)]]** — 将香港纳入同一边疆国族建构框架，揭示统一的治理逻辑
-> - **[[Argument_Yu_2024_CE|Yu & Zhao (2024)]]** — 从课程文化维度揭示国族建构的另一层面：学校教科书中的"[[Official Knowledge|官方知识]]"（[[Official Knowledge]]）通过将儒家传统塑造为中华文化核心，在教育层面强化了汉文化中心与少数民族边缘之间的文化等级
+> - **[[Argument_Yu_2024_CE|Yu & Zhao (2024)]]** — 从课程文化维度揭示国族建构的另一层面：学校教科书中的"[[Official Knowledge|官方知识]]"（[[Official Knowledge]]）通过将儒家传统塑造为中华文化核心，在教育层面强化了汉文化中心与少数民族边缘之间的[[Cultural Hierarchy|文化等级]]
 
 ## 研究范式
 

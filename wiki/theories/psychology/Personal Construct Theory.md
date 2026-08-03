@@ -6,7 +6,7 @@ aliases:
 summary: "George Kelly提出的完整人格理论，以个人建构为基本分析单位解释个体如何感知、解释和预测世界。"
 type: theory
 theory_field: "psychology"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Research Question]]"
 related_methods:
   - "[[Repertory Grid Technique]]"
+  - "[[Laddering]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]]"
 confidence: medium
@@ -68,7 +69,7 @@ updated: 2026-08-01
 > | 个体性推论（Individuality Corollary） | 机制 | 人对事件的建构各不相同，支持引发而非提供构念的方法论原则。 |
 > | 共同性推论（Commonality Corollary） | 机制 | 相似的建构方式导致相似的心理过程，为使用提供构念提供了理论依据。 |
 > | 范围推论（Range Corollary） | 机制 | 一个构念只适用于有限范围的事件，说明网格中允许不适用的情况。 |
-> | 选择推论（Choice Corollary） | 机制 | 人选择那些使建构系统获得更大扩展和定义的可能性的替代方案，是阶梯法的理论基础。 |
+> | 选择推论（Choice Corollary） | 机制 | 人选择那些使建构系统获得更大扩展和定义的可能性的替代方案，是[[Laddering\|阶梯法]]的理论基础。 |
 
 ---
 
@@ -127,7 +128,7 @@ Kelly 的理论来自临床经验。他观察到个体主动理解世界并扩�
 
 > [!dev-timeline] 发展脉络
 > - **1955 — 理论创立** Kelly 出版 *The Psychology of [[Personal Constructs]]*，提出完整的形式化人格理论，包含基本公设和十一条推论，以及"[[Repertory Grid Technique|角色建构库测验]]"的原始版本。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 4–5)]]
-> - **1965 — 阶梯法诞生** Hinkle 将"蕴含"概念与组织推论链接，开发阶梯法和蕴含网格（Impgrid），将理论从静态建构描述扩展为建构层级关系的动态探索工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]
+> - **1965 — [[Laddering|阶梯法]]诞生** Hinkle 将"蕴含"概念与组织推论链接，开发阶梯法和蕴含网格（Impgrid），将理论从静态建构描述扩展为建构层级关系的动态探索工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]
 > - **1968 — 方法化整合** Bannister 和 Mair 出版 *The Evaluation of Personal [[Construct|constructs]]*，系统阐述 repertory grid 的方法论框架，包括提供构念与引发构念的调和立场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]
 > - **1969 — Kelly 的转向** Kelly 后期逐渐远离极其形式化的理论陈述（Butt, 2008 提供了这一更广阔视角的良好介绍）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 4)]]
 > - **1978 — 评分形式普及** 评分形式取代原始的分类分配方式成为主流，虽然引入了中点评分含义等问题，但极大简化了数据收集和分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]

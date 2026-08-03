@@ -11,9 +11,9 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 related_concepts:
   - "[[Self-Cultivation]]"
@@ -25,6 +25,8 @@ related_theories:
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Wang_2025_CE]]"
+related_facts:
+  - "[[Gaokao]]"
 confidence: medium
 status: draft
 created: 2026-05-22
@@ -54,7 +56,7 @@ updated: '2026-07-21'
 > - **7 世纪 — 隋唐制度化创制** 废除九品中正制，科举制度正式制度化，鼓励不同社会背景（而非仅贵族）的年轻男子从小接受严格儒家经典训练。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 47–48)]]
 > - **10–19 世纪 — 宋明清成熟与经义化** 考察对儒家经典、文学技能以及治理理念的理解，通过考试者成为“学者型官员”，确立了文官政治统治结构。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 48)]]
 > - **1905 — 清末正式废除** 伴随西学东渐与新式学堂兴起，科举制度在清末改革中被正式废除。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 48–49)]]
-> - **当代 — 现代高考与应试文化延续** 制度形式虽然终结，但科举培育的考试胜任感与高利害[[Test-Based Accountability|考试问责]]文化直接延续至现代高考制度（Gaokao）。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 589, 593–594)]]
+> - **当代 — 现代[[Gaokao|高考]]与应试文化延续** 制度形式虽然终结，但科举培育的考试胜任感与高利害[[Test-Based Accountability|考试问责]]文化直接延续至现代高考制度（Gaokao）。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 589, 593–594)]]
 
 ---
 
@@ -63,7 +65,7 @@ updated: '2026-07-21'
 > [!finding-cards] 核心文化与社会影响
 > 1. **五合一融贯与学术至高性** 道德成就、学术学习、政治权力、社会地位和经济收益前所未有地融为一体，确立了学习在中国文化中的至高地位（supremacy of learning），使其被巩固为一种不容置疑、不可谈判的核心价值。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 48–49)]]
 > 2. **学禄统一与道德义务内化** 将[[Self-Cultivation|修身]]学与追求人生成功合流；现代教师不仅将追求考试优异视为外部强加的行政考核，更将其内化为对学生未来负责的神圣道德义务（moral obligation）。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 593–594)]]
-> 3. **阶层流动与能力本位信仰** 原则上“贫寒子弟可一举登第入相”，建立了基于卷面成绩的能力本位（meritocracy）信仰，成为高利害高考制度正当性与社会信任的历史基石。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 48)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
+> 3. **阶层流动与能力本位信仰** 原则上“贫寒子弟可一举登第入相”，建立了基于卷面成绩的能力本位（meritocracy）信仰，成为高利害[[Gaokao|高考]]制度正当性与社会信任的历史基石。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 48)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
 > 4. **文化的跨时代持久性** 尽管经历废除科举、内容西化（科学与数学）以及剧烈的社会政治变迁，社会大众投入学习的方式与看待考试的儒家文化内核至今仍基本保持不变。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 49)]]
 
 ---
@@ -83,7 +85,7 @@ updated: '2026-07-21'
 > > - **[[Argument_Li_2012_Cambridge|Li (2012, p. 49)]]** 指出制度废除后，儒家关于学习价值与人格修养的文化投入方式依然持续发挥作用。
 >
 > > [!axis] 公平阶梯正当性 vs 高利害应试问责对教学创新的约束
-> > 科举文化赋予了高考作为公平流动阶梯的正当性，但也塑造了根深蒂固的高利害[[Test-Based Accountability|考试问责]]文化，使传统教学法易陷于应试与灌输。
+> > 科举文化赋予了[[Gaokao|高考]]作为公平流动阶梯的正当性，但也塑造了根深蒂固的高利害[[Test-Based Accountability|考试问责]]文化，使传统教学法易陷于应试与灌输。
 > >
 > > - **Feng（1995）** 指出科举塑造的以考试衡量成功的文化认同深刻影响了当代教学与质量评估。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
 > > - **[[Argument_Wang_2025_CE|Wang & McLaughlin (2025, pp. 594, 601)]]** 发现科举传统使得提分成为不可侵犯的道德底线，限定了以学生为中心教育（[[Learner-Centred Education|LCE]]）权力共享的硬边界。
@@ -98,5 +100,5 @@ updated: '2026-07-21'
 > | [[Self-Cultivation]] | Concept | 科举制度使个人修身之学与政治功名实现制度化合流 |
 > | [[Chinese Learner]] | Concept | 科举培育的长效学习态度与刻苦精神延续至现代华人学习者 |
 > | [[Confucian Learning Tradition]] | Theory | 科举制度是儒家学习传统的制度化与政治化表达 |
-> | [[Test-Based Accountability]] | Concept | 科举传统为现代高利害考试问责制度与高考提供了文化正当性基石 |
+> | [[Test-Based Accountability]] | Concept | 科举传统为现代高利害考试问责制度与[[Gaokao\|高考]]提供了文化正当性基石 |
 > | [[Learner-Centred Education]] | Concept | 科举带来的高利害考试压力限定了现代教学法改革中权力共享的硬边界 |

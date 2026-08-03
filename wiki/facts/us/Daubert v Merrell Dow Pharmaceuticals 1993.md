@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Reliability]]"
   - "[[Evaluation Research]]"
+  - "[[Decodification]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods: []
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - [[Argument_Berk_2011_ER|Berk (2011, p.192)]] 承认：即使对专家而言，"有时也难以确定哪个是哪个"（区分证据与垃圾），因此"不存在简单的解码装置"来区分真正的证据和虚假的证据。任何易于实施的规则集都有扼杀创新的风险——"创新从定义上就是对常规做法的新颖改变"([[Argument_Berk_2011_ER|Berk, 2011, p.192–193]])
+> - [[Argument_Berk_2011_ER|Berk (2011, p.192)]] 承认：即使对专家而言，"有时也难以确定哪个是哪个"（区分证据与垃圾），因此"不存在简单的[[Decodification|解码]]装置"来区分真正的证据和虚假的证据。任何易于实施的规则集都有扼杀创新的风险——"创新从定义上就是对常规做法的新颖改变"([[Argument_Berk_2011_ER|Berk, 2011, p.192–193]])
 
 ## 相关概念／政策
 

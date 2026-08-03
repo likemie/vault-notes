@@ -9,10 +9,10 @@ summary: "中国现代哲学家、文学家、外交官，新文化运动与五�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 18
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags:
   - region/china
   - theme/progressive-education
@@ -23,25 +23,21 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Pragmatic Paradigm]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Pragmatism in China]]"
+  - "[[Hypothesis]]"
   - "[[Scientific Method]]"
-  - "[[Scientism]]"
-  - "[[Recontextualization]]"
-  - "[[Transfer Translation Transformation]]"
-related_theories:
-  - "[[Transfer Translation Transformation]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
-  - "[[Discourse Analysis]]"
+  - "[[Conatus]]"
+  - "[[Falsification]]"
+related_theories: []
+related_methods: []
 related_persons:
   - "[[John Dewey]]"
   - "[[Jiang Menglin]]"
   - "[[Tao Xingzhi]]"
-  - "[[Jiang Menglin]]"
 related_facts:
   - "[[New Culture Movement]]"
   - "[[May Fourth Movement]]"
-  - "[[New Education Movement]]"
 related_arguments:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Argument_Zhou_2024_CE]]"

@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Technical Rationality]]"
   - "[[Praxis]]"
+  - "[[Decodification]]"
   - "[[Visible Learning]]"
   - "[[Reference Society]]"
   - "[[Policy Borrowing]]"
@@ -99,7 +100,7 @@ updated: 2026-07-08
 > - **新自由主义的控制议程**
 >   拼读法提供了一种"自上而下输送的、中央高度控制的课程交付模型"，为官僚管理提供了最便捷的手段。
 > - **[[Technical Rationality|技术理性]]的合理化**
->   假借"科学证据"和"[[Meta-analysis|元分析]]"的名义，将复杂的 sociocultural（社会文化）阅读[[Praxis|实践]]还原为单一维度的可测量解码指标，从而让 GERM 的量化控制具有了客观性外衣（p.149–150）。
+>   假借"科学证据"和"[[Meta-analysis|元分析]]"的名义，将复杂的 sociocultural（社会文化）阅读[[Praxis|实践]]还原为单一维度的可测量[[Decodification|解码]]指标，从而让 GERM 的量化控制具有了客观性外衣（p.149–150）。
 > - **商业利益共谋**
 >   国家问责制政策与大型教育商业培训集团（如 Corwin 等拥有 [[Visible Learning]] 培训业务的企业）进行商业绑定，使改革本身沦为跨国教育资本的牟利网络（p.141）。
 

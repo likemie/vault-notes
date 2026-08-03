@@ -9,7 +9,7 @@ title: "Argument_Berk_2011_ER"
 argument_key: "Argument_Berk_2011_ER"
 argument_display_title: "Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
+  - "[[Decodification]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
@@ -118,7 +119,7 @@ citation_aliases:
 > [!success] 主要发现
 > 1. **"证据"的定义真空** 政策制定过程往往不明确说明什么算作证据——"into this vacuum has been drawn a mix of evaluations ranging from excellent to terrible"(p.199)
 > 2. **垃圾科学的两类制造者** 一类不知道自己在做什么但使用表面特征；另一类明知故犯并使用表面特征掩盖(p.192)
-> 3. **不存在简单的解码装置** 任何易于实施的规则集都可能扼杀创新(pp.192–193)
+> 3. **不存在简单的[[Decodification|解码]]装置** 任何易于实施的规则集都可能扼杀创新(pp.192–193)
 > 4. **随机实验的社会保护功能**[[Randomised Controlled Trials|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"(p.196)
 > 5. **[[Causal Modeling|因果建模]]的韧性** 尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"(p.197)
 > 6. **[[Meta-analysis|元分析]]被严重过度评价** 常规[[Literature Review|文献综述]]"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响

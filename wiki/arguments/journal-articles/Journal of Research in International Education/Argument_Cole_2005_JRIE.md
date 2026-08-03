@@ -43,6 +43,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jean-François Lyotard]]"
+  - "[[Alec Peterson]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[International Baccalaureate]]"
@@ -59,7 +60,7 @@ title: "Argument_Cole_2005_JRIE"
 argument_key: "Argument_Cole_2005_JRIE"
 argument_display_title: "An examination of Hegelian and Spinozian philosophy and their relationships with the International Baccalaureate subject, Theory of Knowledge"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -108,7 +109,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **哲学阐释与文本互证**<br>Philosophical hermeneutics | 对比阐释黑格尔《精神[[Phenomenology\|现象学]]》（Phenomenology of Spirit）中的辩证意识形成、[[Bildung\|教化]]逻辑及《法哲学原理》（Elements of the Philosophy of Right）中的公民社会与市场体系，与斯宾诺莎《伦理学》（Ethics）中实体的一元属性、想象力、[[Conatus\|欲力]]及《神学政治论》（Tractatus Theologico-Politicus）中的群体力量等概念，解析两套哲学在教育目的、[[Student-Teacher Relationship\|师生关系]]与知识性质上的[[Ontology\|本体论]]分歧。（pp.212–215, 218, 222） |
-> | **经验批判与政策分析**<br>Experience critique & Policy analysis | 剖析[[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]官方指南（TOK Guide）中涉及认知者、认知方式与知识领域的三角结构，并结合创办人[[Alec Peterson|亚历克·彼得森（Alec Peterson）]]的历史[[Document\|文献]]，反思评估标准与实际课堂上师生权力互动的偏离，运用梅根·博勒（Megan Boler）的情感政治[[Analytic Framework\|分析框架]]剖析课堂上的情感落差（educational fallout）与权力运作。（pp.212–213, 215, 222） |
+> | **经验批判与政策分析**<br>Experience critique & Policy analysis | 剖析[[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]官方指南（TOK Guide）中涉及认知者、认知方式与知识领域的三角结构，并结合创办人[[Alec Peterson\|亚历克·彼得森（Alec Peterson）]]的历史[[Document\|文献]]，反思评估标准与实际课堂上师生权力互动的偏离，运用梅根·博勒（Megan Boler）的情感政治[[Analytic Framework\|分析框架]]剖析课堂上的情感落差（educational fallout）与权力运作。（pp.212–213, 215, 222） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

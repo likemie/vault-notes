@@ -8,7 +8,7 @@ aliases:
 summary: "访谈或问卷中通过隐含假设或预设答案方向来影响受访者回答的问题形式，是访谈偏差的主要来源之一，但在特定情境中Kvale为其做出了有力的辩护"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ tags:
   - theme/interview
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Questionnaire Wording]]"
   - "[[Reliability]]"
   - "[[Sensitive Questions]]"
 related_arguments:
@@ -47,7 +46,7 @@ updated: 2026-06-24
 
 > [!dimension] 诱导性问题的两种视角
 > - **标准方法论视角：诱导性问题作为偏差来源**
->   Oppenheim (1992: 96–7) 将"不良的探查和偏倚的追问"以及"对[[Questionnaire Wording|问题措辞]]的更改"列为访谈偏差的主要来源。诱导性问题通过暗示期望的回答方向，系统性地扭曲了数据——受访者可能给出他们认为访谈者想听到的答案，而非自己的真实想法。
+>   Oppenheim (1992: 96–7) 将"不良的探查和偏倚的追问"以及"对问题措辞的更改"列为访谈偏差的主要来源。诱导性问题通过暗示期望的回答方向，系统性地扭曲了数据——受访者可能给出他们认为访谈者想听到的答案，而非自己的真实想法。
 > - **Kvale 的辩护：诱导性问题作为方法论工具**
 >   Kvale (1996: 158) 为诱导性问题做出了强有力的辩护——它们在获取访谈者怀疑受访者可能在**隐瞒**的信息时可能是必要的。将"否认的负担"放在受访者身上（如"你什么时候最后一次停止打你妻子？"），诱导性问题可用于：（a）[[Reliability|信度]]检查——与受访者之前所述进行交叉验证；（b）引出特定的非语言行为——观察受访者对[[Sensitive Questions|敏感问题]]的反应。在警察访谈中，诱导性问题是标准操作工具。
 

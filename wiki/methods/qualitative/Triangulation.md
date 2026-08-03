@@ -10,7 +10,7 @@ summary: "在研究人类行为的某一方面时使用两种或更多资料收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Member Checking]]"
   - "[[Experimental Research]]"
+  - "[[Role-playing]]"
   - "[[Cross-sectional Study]]"
   - "[[Longitudinal Study]]"
   - "[[Cohort Study]]"
@@ -112,7 +113,7 @@ updated: 2026-07-08
 > - **优势二：克服方法约束（method-boundedness）**
 >   Smith (1975) 批评说："许多[[Research Utilization|研究使用]]了特定的方法或技术，源于方法论狭隘主义或我族中心主义。方法学家经常推销特定的宠儿方法，要么因为这些是他们唯一熟悉的方法，要么因为他们相信自己的方法优于所有其他方法。"三角技术有助于克服这个问题——Gorard & Taylor (2004) 展示了结合量化和质性方法的价值。
 
-方法之间对比越大，研究者的置信度越大。如果——更极端的例子——一项严格[[Experimental Research|实验研究]]的结果在一个**角色扮演练习**中被复制，研究者将体验到更大的确信。如果发现是方法的**人为产物（artefacts）**，那么使用对比方法会大大降低一致发现归因于方法相似性的机会（Lin, 1976, p. 189）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+方法之间对比越大，研究者的置信度越大。如果——更极端的例子——一项严格[[Experimental Research|实验研究]]的结果在一个**[[Role-playing|角色扮演]]练习**中被复制，研究者将体验到更大的确信。如果发现是方法的**人为产物（artefacts）**，那么使用对比方法会大大降低一致发现归因于方法相似性的机会（Lin, 1976, p. 189）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 ---
 

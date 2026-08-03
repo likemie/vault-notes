@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 71
+argument_related_count: 72
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Axiology]]"
   - "[[Paradigm Wars]]"
   - "[[Research Question]]"
+  - "[[Phronesis]]"
   - "[[Scientific Method]]"
   - "[[Pre-test and Post-test]]"
   - "[[Statistical Significance]]"
@@ -226,7 +227,7 @@ updated: '2026-07-21'
 > 哈贝马斯（1972）的核心洞见是：**知识，以及研究知识，服务于不同的兴趣（interests）**。兴趣是社会建构的，并且是**知识构成性的（knowledge-constitutive）**，因为它们塑造和决定了什么算作知识的对象和类型。兴趣具有意识形态功能：技术兴趣可以起到让有权者继续有权、无权者继续无权的作用，即**强化和延续现状**；解放兴趣则**威胁现状（pp.35–36）**。
 
 > [!warrant] 三种兴趣的层级关系
-> 解放兴趣**涵括前两种范式** 它需要它们，但超越了它们（Habermas, 1972, p. 211）。解放兴趣关注**实践智慧（praxis）**——以解放为目标的、由反思所启发的行动（Kincheloe, 1991, p. 177）。这一层级关系意味着：批判理论并不否认实证主义和诠释范式的价值，而是指出它们是不完整的。描述世界和理解世界是必要的，但不足够；还需要追问谁的世界、谁的理解，以及如何改变。
+> 解放兴趣**涵括前两种范式** 它需要它们，但超越了它们（Habermas, 1972, p. 211）。解放兴趣关注**[[Phronesis|实践智慧]]（praxis）**——以解放为目标的、由反思所启发的行动（Kincheloe, 1991, p. 177）。这一层级关系意味着：批判理论并不否认实证主义和诠释范式的价值，而是指出它们是不完整的。描述世界和理解世界是必要的，但不足够；还需要追问谁的世界、谁的理解，以及如何改变。
 
 以下 Table 2.1 复刻了哈贝马斯三种知识构成性兴趣与对应的研究性质：
 

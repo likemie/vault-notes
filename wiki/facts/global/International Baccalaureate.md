@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
   - "[[Academic Self-Concept]]"
+  - "[[Sample Size Determination]]"
   - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
@@ -42,7 +43,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: 2026-06-30
+updated: 2026-08-03
 ---
 
 # International Baccalaureate
@@ -87,24 +88,26 @@ updated: 2026-06-30
 ## 知识理论（ToK）与批判性思维教学
 
 > [!abstract] ToK 的课程定位
-> [[Theory of Knowledge|知识论]]（theory of knowledge, ToK）是 DP 三项核心要素之一，是一门 100 小时的必修[[Epistemology|认识论]]课程。ToK 不教授固定学科内容，而是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程"——学生在不受学科知识复制压力的环境中，通过结构化思维练习和跨学科活动，发展分析和评估论证、反思知识本质的能力（IBO, 2014, p. 1）（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.2]]）。
+> [[Theory of Knowledge|知识论]]（theory of knowledge, ToK）是 DP 三项核心要素之一，是一门 100 小时的必修[[Epistemology|认识论]]课程。ToK 不教授固定学科内容，而是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程"——学生在不受学科知识复制压力的环境中，通过结构化思维练习和跨学科活动，发展分析和评估论证、反思知识本质的能力（IBO, 2014, p. 1）（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 248]]）。
 
 > [!finding-cards] 澳大利亚 ToK 研究的主要发现（[[Argument_Cole_2015_AJE|Cole et al., 2015]]）
-> 1. **Y11→Y12 批判性思维技能显著增长** 全国 1,338 名 ToK 学生中，12 年级在 [[Critical Thinking Strategies Scale|CTSS]] 14 项中的 11 项上显著高于 11 年级（pp.8–9）
-> 2. **DP 毕业生 [[California Critical Thinking Disposition Inventory|CCTDI]] 七维度全面优于非 DP 毕业生** 求真、开放心态、探究性、分析性、系统性、推理自信、判断成熟度均更高（p.12）
-> 3. **DP 毕业生大学学术指标更高** ATAR $+4.84$（94.13 vs 89.29）；[[Academic Self-Concept|学术自我概念]]和预期成果均显著更高（p.12）
-> 4. **实施效果因学校而异** 四校展示了从全校整合到依赖讨论的四种模式。ToK 框架不自动保证批判性思维培养，学校文化和实施方式起关键调节作用（pp.10–11）
+> 1. **Y11→Y12 批判性思维技能显著增长** 全国 1,338 名 ToK 学生中，12 年级在 [[Critical Thinking Strategies Scale|CTSS]] 14 项中的 11 项上显著高于 11 年级（pp. 254–255）
+> 2. **DP 毕业生 [[California Critical Thinking Disposition Inventory|CCTDI]] 七维度均值均高于非 DP 毕业生** 求真、开放心态、探究性、分析性、系统性、推理自信、判断成熟度的均值都更高，但原文未报告显著性检验（p. 258）
+> 3. **DP 毕业生大学学术指标更高** ATAR $+4.84$（94.13 vs 89.29）；[[Academic Self-Concept|学术自我概念]]和预期成果均显著更高（p. 258）
+> 4. **实施效果因学校而异** 四校展示了从全校整合到依赖讨论的四种模式。ToK 框架不自动保证批判性思维培养，学校文化和实施方式起关键调节作用（pp. 256–257）
 
 > [!contrast-table] [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 核心数据
-> | 指标 | DP / Y12 | 非DP / Y11 | 差异 | p |
-> |:-----|:---------|:----------|:----|:---|
-> | CTSS 总分 (Y12 vs Y11) | 4.85 | 4.62 | $+0.23$| $< .001$ |
-> | CCTDI 总分 (DP vs 非DP) | 300.95 | 293.98 | $+6.97$| — |
-> | ATAR (DP vs 非DP) | 94.13 | 89.29 | $+4.84$| $< .001$ |
-> | 学术自我概念 (DP vs 非DP) | 6.25 | 5.75 | $+0.50$| $< .001$ |
+> | 指标 | DP / Y12 | 非DP / Y11 | 差异 | Hedges' $g$（派生） | p |
+> |:-----|:---------|:----------|:----|:------------------|:---|
+> | CTSS 总分 (Y12 vs Y11) | 4.85 | 4.62 | $+0.23$ | 0.216 | $< .001$ |
+> | CCTDI 总分 (DP vs 非DP) | 300.95 | 293.98 | $+6.97$ | 0.245 | — |
+> | ATAR (DP vs 非DP) | 94.13 | 89.29 | $+4.84$ | 0.441 | $< .001$ |
+> | 学术自我概念 (DP vs 非DP) | 6.25 | 5.75 | $+0.50$ | 0.497 | $< .001$ |
+>
+> Hedges' $g$ 由原文组别均值、标准差和[[Sample Size Determination|样本量]]以 Python 计算，非原文报告。
 
 > [!warning] ToK 冲击现象
-> 学生可能在 ToK 课程初期经历困难，研究者称之为"ToK 冲击"（ToK-shock），但许多学生日后会重新肯定这门课程的价值，因为它培养了以成熟方式批判性思考、质疑[[Hypothesis|假设]]并充分表达自身知识和思维信念的能力（[[Argument_Cole_2015_AJE|Cole et al., 2015, p.13]]）。
+> 学生可能在 ToK 课程初期经历困难，研究者称之为"ToK 冲击"（ToK-shock），但许多学生日后会重新肯定这门课程的价值，因为它培养了以成熟方式批判性思考、质疑[[Hypothesis|假设]]并充分表达自身知识和思维信念的能力（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 259]]）。
 
 ## 质量保障机制
 
@@ -117,4 +120,3 @@ IB 学校可通过在线课程中心（Online Curriculum Center）获得总部�
 
 
 在东亚——尤其是香港、中国大陆、新加坡和台湾——IB 课程在[[Chinese Learner|中国学习者]]中日益流行([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.27]])。IB 课程的艺术组成部分与中国日益增长的博雅教育兴趣相呼应([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.30]])。社区服务（[[Creativity, Action, Service|CAS]]）要求对中国学习者尤其有价值，因为中国学校体系中通常不将社区服务视为教育的重要组成部分([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.31]])。
-

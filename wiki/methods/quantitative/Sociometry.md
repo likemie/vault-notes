@@ -5,11 +5,20 @@ summary: "Moreno发展的社会关系强度测量方法，通过社会图呈现�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
+method_related_count: 6
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dcfce7"
 tags: [method/quantitative, data-collection, theme/social-relations]
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Homework]]"
+related_methods:
+  - "[[Qualitative Interview]]"
+  - "[[Network Analysis]]"
+  - "[[Accounts]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -30,9 +39,9 @@ updated: 2026-07-23
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 社会关系具有可测量的结构，这些结构可以通过系统收集选择数据来揭示。关系结构影响群体功能和个体行为。
-> - **研究者角色** 研究者设计选择问题（如"你最想和谁一起做小组作业？"），收集选择数据，绘制和分析社会图。
+> - **研究者角色** 研究者设计选择问题（如"你最想和谁一起做小组[[Homework|作业]]？"），收集选择数据，绘制和分析社会图。
 > - **有效性标准** 社会图的忠实性取决于问题的清晰性、参与者的诚实回答和群体边界的明确界定。
 > - **不声称回答的问题** 社会计量学揭示的是选择模式，本身不解释为什么某些人成为明星或孤立者；需要结合质性数据来理解选择背后的原因。
 
@@ -59,9 +68,9 @@ updated: 2026-07-23
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 分析小群体（班级、团队）中的社会关系结构；识别被排斥或孤立的学生；评估群体凝聚力和小团体模式；作为后续质性访谈的基础。
+> - **适合使用** 分析小群体（班级、团队）中的社会关系结构；识别被排斥或孤立的学生；评估群体凝聚力和小团体模式；作为后续[[Qualitative Interview|质性访谈]]的基础。
 > - **谨慎使用** 当群体边界不明确时（如松散的社会网络）；当选择问题的措辞可能引导特定回应时；当负向选择可能引发伦理问题（如"你最不想和谁一起工作"）时。
-> - **不适合使用** 大规模群体或边界模糊的社会网络（更适合社会网络分析）；需要理解关系背后深层原因的研究（需结合质性方法）。
+> - **不适合使用** 大规模群体或边界模糊的社会网络（更适合社会[[Network Analysis|网络分析]]）；需要理解关系背后深层原因的研究（需结合质性方法）。
 
 ## 局限性
 
@@ -69,7 +78,7 @@ updated: 2026-07-23
 > - **偏误来源** 参与者可能因社会期望而不真实回答；选择数限制（如只允许选3人）可能扭曲关系模式的呈现；群体边界的界定影响结果。
 > - **适用边界** 社会图是特定时间点的静态快照，关系模式可能随时间变化；不适用于大规模或边界模糊的网络。
 > - **误用风险** 将社会图的选择模式直接解释为"受欢迎"或"不受欢迎"而忽视选择背后的复杂原因；公开负向选择数据可能伤害参与者。
-> - **补救方式** 结合质性访谈理解选择背后的原因；纵向重复测量捕捉关系变化；严格伦理保护（保密性）。
+> - **补救方式** 结合[[Qualitative Interview|质性访谈]]理解选择背后的原因；纵向重复测量捕捉关系变化；严格伦理保护（保密性）。
 
 ## 相关理论与方法
 
@@ -83,4 +92,4 @@ updated: 2026-07-23
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将社会计量学作为网络分析的早期基础介绍，包括Moreno的明星、对偶、三人组、幽灵、孤立者和链等核心概念，以及社会图的基本展示方式。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将社会计量学作为[[Network Analysis|网络分析]]的早期基础介绍，包括Moreno的明星、对偶、三人组、幽灵、孤立者和链等核心概念，以及社会图的基本展示方式。

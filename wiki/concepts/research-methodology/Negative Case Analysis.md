@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究中通过系统检验不符合已有假设或模式的案例来修正和完善理论的策略，是 Lincoln 和 Guba 可信性标准的核心操作之一"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Falsification]]"
+  - "[[Saturation]]"
   - "[[Interpretive Paradigm]]"
   - "[[Internal Validity]]"
 related_methods:
@@ -55,7 +56,7 @@ updated: 2026-06-23
 > - **识别异常** 系统地检查数据以寻找与正在形成的模式、命题或[[Hypothesis|假设]]不一致的案例
 > - **修正假设** 当发现异常案例时，修正理论/假设以使其能同时涵盖异常案例和此前已覆盖的案例
 > - **迭代循环** 修正后继续寻找新的异常案例——此过程反复进行，直到再无异常案例可发现
-> - **终止标准** 当理论已经适合所有案例、无法再找到需要修正的负面案例时，过程终止——此时达到了理论饱和
+> - **终止标准** 当理论已经适合所有案例、无法再找到需要修正的负面案例时，过程终止——此时达到了[[Saturation|理论饱和]]
 
 ## 围绕概念形成的命题
 

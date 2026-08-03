@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-07-01
+updated: 2026-08-03
 ---
 
 # California Critical Thinking Disposition Inventory
@@ -63,7 +63,7 @@ updated: 2026-07-01
 > | 推理自信 | — | — | 分量表 10 至 60 |
 > | 判断成熟度 | — | — | 分量表 10 至 60 |
 
-分量表等级为低 10–29、矛盾 30–40、积极 40–50、高 50–60。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 12, 18)]]
+分量表等级为低 10–29、矛盾 30–40、积极 40–50、高 50–60。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 258, 264)]]
 
 ---
 

@@ -9,7 +9,7 @@ type: fact
 subtype: event
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -20,7 +20,8 @@ tags:
 related_concepts:
   - "[[Mentorship]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Network Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -73,7 +74,7 @@ updated: 2026-06-07
 ## 导师关系网络
 
 > [!example]
-> 诺贝尔奖得主的[[Mentorship|导师关系]]模式并非随机。对博士生-论文导师关系的网络分析显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代（Chariker et al., 2017, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树（Tol, 2024, 引自）。
+> 诺贝尔奖得主的[[Mentorship|导师关系]]模式并非随机。对博士生-论文导师关系的[[Network Analysis|网络分析]]显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代（Chariker et al., 2017, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树（Tol, 2024, 引自）。
 
 ---
 

@@ -8620,14 +8620,14 @@
 
 /* 暗色模式 */
 .theme-dark .callout[data-callout="theory-components"] {
-  --callout-color: 118, 105, 210;
-  --tc: 118, 105, 210;
+  --callout-color: 215, 195, 145;
+  --tc: 215, 195, 145;
 }
 
 /* 暗色模式 */
 .theme-dark .callout[data-callout="theory-components"] {
-  --callout-color: 118, 105, 210;
-  --tc: 118, 105, 210;
+  --callout-color: 215, 195, 145;
+  --tc: 215, 195, 145;
 }
 
 /* ─────────────────────────────────────────────────────────── */
@@ -14893,4 +14893,66 @@
   padding: 0 !important;
   margin: 0 !important;
   display: inline !important;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   DEEP DARK MUTED PALETTE (深色沉浸护眼暗色调 - 大幅降低亮度)
+   ═══════════════════════════════════════════════════════════ */
+
+/* 1. theory-components 暗色卡片：纯暗炭黑背景、整体调暗 35% */
+.theme-dark [data-callout=theory-components] .callout-content ul li,
+.theme-dark .callout[data-callout=theory-components] .callout-content ul li,
+.theme-dark .markdown-rendered .callout[data-callout=theory-components] .callout-content ul li {
+  background: #18191e !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  box-shadow: none !important;
+}
+
+/* 卡片标题：压暗为低亮度米金 (#b8ab8e) */
+.theme-dark [data-callout=theory-components] .callout-content ul li > p:first-of-type,
+.theme-dark [data-callout=theory-components] .callout-content ul li > p:first-of-type *,
+.theme-dark .callout[data-callout=theory-components] .callout-content ul li > p:first-of-type,
+.theme-dark .callout[data-callout=theory-components] .callout-content ul li > p:first-of-type * {
+  color: #b8ab8e !important;
+  border-bottom-color: rgba(255, 255, 255, 0.08) !important;
+  font-weight: 600 !important;
+}
+
+/* 卡片正文：压暗为沉浸板岩灰 (#9fa4ad)，完全不发光发白 */
+.theme-dark [data-callout=theory-components] .callout-content ul li > p:not(:first-of-type),
+.theme-dark [data-callout=theory-components] .callout-content ul li > p:not(:first-of-type) *,
+.theme-dark .callout[data-callout=theory-components] .callout-content ul li > p:not(:first-of-type),
+.theme-dark .callout[data-callout=theory-components] .callout-content ul li > p:not(:first-of-type) * {
+  color: #9fa4ad !important;
+  opacity: 0.90 !important;
+}
+
+/* C1/C2 徽章：暗灰底哑金字 */
+.theme-dark [data-callout=theory-components] .callout-content ul li::before,
+.theme-dark .callout[data-callout=theory-components] .callout-content ul li::before {
+  background: rgba(255, 255, 255, 0.06) !important;
+  color: #b8ab8e !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+}
+
+/* 2. 所有 Callout 内部 Wikilink 链接：深色安静雾蓝 (#6896b0)，不刺眼 */
+.theme-dark .callout a.internal-link,
+.theme-dark .callout .internal-link,
+.theme-dark .markdown-rendered .callout a.internal-link,
+.theme-dark .cm-callout a.internal-link,
+.theme-dark [data-callout] a.internal-link,
+.theme-dark [data-callout] .internal-link {
+  color: #6896b0 !important;
+  font-weight: 550 !important;
+  text-decoration: none !important;
+  border-bottom: 1px dashed rgba(104, 150, 176, 0.35) !important;
+}
+
+.theme-dark .callout a.internal-link:hover,
+.theme-dark .callout .internal-link:hover,
+.theme-dark .markdown-rendered .callout a.internal-link:hover,
+.theme-dark [data-callout] a.internal-link:hover {
+  color: #8bb5cc !important;
+  border-bottom: 1px solid #8bb5cc !important;
+  background-color: rgba(104, 150, 176, 0.12) !important;
 }

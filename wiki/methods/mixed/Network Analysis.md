@@ -5,11 +5,28 @@ summary: "通过识别行动者、关系、节点和连接来分析社会网络�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 13
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags: [method/mixed, data-analysis, theme/social-relations, theme/network]
+related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Epistemology]]"
+  - "[[Variable]]"
+  - "[[Emergence]]"
+  - "[[Habitus]]"
+  - "[[Causality]]"
+  - "[[Research Question]]"
+  - "[[Sample Size Determination]]"
+  - "[[Analytic Framework]]"
+related_theories:
+  - "[[Complexity Theory]]"
+related_methods:
+  - "[[Sociometry]]"
+  - "[[Accounts]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -20,7 +37,7 @@ updated: 2026-07-23
 ## 定义
 
 > [!def] 方法定义
-> 网络分析（network analysis / social network analysis）是识别和分析社会情境中**行动者及其关系**的方法。它试图测量和绘制社会关系中的结构规律性——即社会实体之间关系的规律模式（Knoke & Yang, 2008, p. 4）。核心假设是这些宏观—结构关系比年龄、性别、阶级等传统类别更有力地解释人们的行为（pp. 4–5），且关系是**语境特定**和**动态的**（p. 5）。
+> 网络分析（network analysis / social network analysis）是识别和分析社会情境中**行动者及其关系**的方法。它试图测量和绘制社会关系中的结构规律性——即社会实体之间关系的规律模式（Knoke & Yang, 2008, p. 4）。核心[[Hypothesis|假设]]是这些宏观—结构关系比年龄、性别、阶级等传统类别更有力地解释人们的行为（pp. 4–5），且关系是**语境特定**和**动态的**（p. 5）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 社会网络中的行动者（actors）和关系（relations）、节点（nodes）和连接（ties）、以及网络整体的结构特征。
@@ -30,16 +47,16 @@ updated: 2026-07-23
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
-> - **知识观** 网络中的关系是解释行为的关键变量，整体网络具有不同于个体总和的涌现属性（类似复杂性理论）。关系是情境特定和动态的。
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 网络中的关系是解释行为的关键[[Variable|变量]]，整体网络具有不同于个体总和的[[Emergence|涌现]]属性（类似[[Complexity Theory|复杂性理论]]）。关系是情境特定和动态的。
 > - **研究者角色** 研究者需要识别分析单元、界定关系形式、内容和连接类型，并选择适当的分析层次和展示方式。
-> - **有效性标准** 描述系统需要有效（适当、完整、忠实）且可靠（使用者之间可接受的同意水平）；网络还需满足清晰性、自洽性、可学习性和可检验性等标准（Bliss et al., 1983）。
-> - **不声称回答的问题** 不能从网络结构描述直接推出因果关系；每个分析层次的发现不能完全还原为低层元素的解释。
+> - **有效性标准** 描述系统需要有效（适当、完整、忠实）且可靠（使用者之间可接受的同意水平）；网络还需满足清晰性、自洽性、可学[[Habitus|习性]]和可检验性等标准（Bliss et al., 1983）。
+> - **不声称回答的问题** 不能从网络结构描述直接推出[[Causality|因果关系]]；每个分析层次的发现不能完全还原为低层元素的解释。
 
 > [!method-stack] 方法层级
 > - **研究设计** 社会网络分析、系统网络分析（Bliss et al., 1983）
 > - **数据收集** 结构化问题（如"从这群人中你会找谁寻求专业建议？"）、观察、文本陈述
-> - **分析方法** 社会计量学（Moreno）、关系测量、中心性和声望分析、小集团检测、结构等价分析
+> - **分析方法** [[Sociometry|社会计量学]]（Moreno）、关系测量、中心性和声望分析、小集团检测、结构等价分析
 > - **辅助技术** UCINET、StOCNET等软件（Knoke & Yang, 2008）；社会图、矩阵、树状图、块模型
 
 ## 研究程序
@@ -64,7 +81,7 @@ updated: 2026-07-23
 > [!method-fit] 适用判断
 > - **适合使用** 分析课堂、学校或组织中的社会关系结构；识别群体中的关键行动者和影响力模式；研究信息流动、社会支持和专业协作网络；分析在线社交网络和教育社区。
 > - **谨慎使用** 当网络边界难以清晰界定时；当关系数据的收集依赖于参与者准确报告时；当网络分析的静态快照可能忽略动态变化时。
-> - **不适合使用** 当研究问题关注个体内在属性而非关系时；当样本量过小无法形成有意义的网络结构时。
+> - **不适合使用** 当[[Research Question|研究问题]]关注个体内在属性而非关系时；当[[Sample Size Determination|样本量]]过小无法形成有意义的网络结构时。
 
 ## 局限性
 
@@ -86,4 +103,4 @@ updated: 2026-07-23
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章系统介绍网络分析从Bliss等人的系统网络分析到Knoke & Yang的社会网络分析框架，包括社会计量学基础、五分析维度、七种关系类型学和多种展示方式。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章系统介绍网络分析从Bliss等人的系统网络分析到Knoke & Yang的社会网络[[Analytic Framework|分析框架]]，包括[[Sociometry|社会计量学]]基础、五分析维度、七种关系类型学和多种展示方式。

@@ -9,7 +9,7 @@ summary: "基于个人建构理论的研究工具，通过元素与构念的交�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 13
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -35,6 +35,8 @@ related_concepts:
 related_methods:
   - "[[Case Study]]"
   - "[[Mixed Methods Research]]"
+  - "[[Laddering]]"
+  - "[[Pyramiding]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]]"
 confidence: medium
@@ -74,7 +76,7 @@ updated: 2026-08-01
 
 > [!method-stack] 方法层级
 > - **研究设计** 个别化[[Case Study|案例研究]]、前[[Pre-test and Post-test|后测]]比较设计、组间比较（使用提供元素/构念时）、[[Mixed Methods Research|混合方法]]（grid + 访谈 + 观察）。
-> - **数据收集** 一对一访谈施测、团体施测、[[Questionnaire|问卷]]式施测、计算机施测（Webgrid 5, Idiogrid）；构念引发技术包括三元比较法、对立面方法、阶梯法、金字塔法。
+> - **数据收集** 一对一访谈施测、团体施测、[[Questionnaire|问卷]]式施测、计算机施测（Webgrid 5, Idiogrid）；构念引发技术包括三元比较法、对立面方法、[[Laddering|阶梯法]]、[[Pyramiding|金字塔法]]。
 > - **分析方法** 构念间相关与平均相关（认知复杂性/简单性指数）；主成分分析 / 奇异值分解；层次聚类分析；聚焦法；自认同图分析；社会网格（Sociogrids）和社会网络（Socionets）分析。
 > - **辅助技术** 构念对齐（偏好极点法、理想自我法、自动反转法）；偏斜性处理；中点评分与缺失数据处理；GRIDSTAT、Idiogrid、Rep 5 等软件。
 
@@ -112,11 +114,11 @@ updated: 2026-08-01
 
 ### 延伸技术
 
-> [!info] 阶梯法（Laddering）
-> 从给定构念的偏好极点出发，反复追问"为什么？"以产生越来越上属的构念。回答构成更高层次构念的一个极点，再追问"为什么？"继续向上。Hinkle（1965）进一步开发了蕴含网格（Impgrid），要求受试者对所有构念两两比较判断蕴含关系。阶梯法已广泛用于消费者研究（Reynolds & Gutman, 1988）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]
+> [!info] [[Laddering|阶梯法]]（Laddering）
+> 从给定构念的偏好极点出发、反复追问"为什么？"以逐级追溯上属构念的访谈技术，详见 [[Laddering]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]
 
-> [!info] 金字塔法（Pyramiding）
-> Landfield（1971）开发：以单一人为元素 → 指定特征 → 指出何种人没有该特征 → 追问"还能告诉我什么？" → 反复展开。从 1 个元素产生 2 → 4 → 8 个构念极点的金字塔结构。金字塔法是纯质性工具，服务于心理治疗过程，不识别构念之间的上属关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 9)]]
+> [!info] [[Pyramiding|金字塔法]]（Pyramiding）
+> 以单一人为元素、横向展开构念极点的纯质性引发技术，服务于心理治疗过程，不识别构念之间的上属关系，详见 [[Pyramiding]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 9)]]
 
 > [!info] 交换网格与社会网格
 > 交换网格：一人的建构提供空白格式，由另一人按自己对第一人观点的理解填写。Pairs 程序比较两个网格的所有构念以确定建构的共同性。Sociogrids 识别群体内各网格的关系模式并生成模式网格。Socionets 揭示共享建构的网络模式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 9)]]
@@ -157,4 +159,4 @@ updated: 2026-08-01
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统介绍该方法的技术要素、操作流程、分析方法和教育研究案例，涵盖元素选择、[[Construct|构念]]引发/提供、阶梯法、网格分析和在线资源。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统介绍该方法的技术要素、操作流程、分析方法和教育研究案例，涵盖元素选择、[[Construct|构念]]引发/提供、[[Laddering|阶梯法]]、网格分析和在线资源。

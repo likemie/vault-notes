@@ -7,7 +7,7 @@ summary: "美国教育学者和全语言运动奠基人，提出阅读作为心�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -19,6 +19,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Whole Language]]"
+  - "[[Decodification]]"
   - "[[Hypothesis]]"
   - "[[Pre-test and Post-test]]"
   - "[[Paradigm]]"
@@ -44,7 +45,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 阅读作为心理语言学过程
-> Goodman（1967）提出阅读不是一个精确的、逐字的解码过程，而是一个"心理语言学猜测游戏"——读者利用三种线索系统（语义、句法、字形）预测和建构文本意义，并在阅读过程中不断验证和修正这些预测([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。
+> Goodman（1967）提出阅读不是一个精确的、逐字的[[Decodification|解码]]过程，而是一个"心理语言学猜测游戏"——读者利用三种线索系统（语义、句法、字形）预测和建构文本意义，并在阅读过程中不断验证和修正这些预测([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.143]])。
 
 
 > [!info] [[Whole Language|全语言]]的定义与边界

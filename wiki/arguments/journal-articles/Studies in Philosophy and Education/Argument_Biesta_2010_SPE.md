@@ -9,7 +9,7 @@ title: "Argument_Biesta_2010_SPE"
 argument_key: "Argument_Biesta_2010_SPE"
 argument_display_title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Complexity Reduction]]"
   - "[[Value-Based Education]]"
+  - "[[Phronesis]]"
 related_theories:
   - "[[Transactional Epistemology]]"
   - "[[Luhmann's Systems Theory]]"
@@ -195,7 +196,7 @@ citation_aliases:
 >
 > **影响** 这一模糊性使得 Biesta 的框架容易被误解为"反证据"或"证据无关紧要"——尽管 Biesta 明确否认这一解读。在政策辩论中，支持 EBE 的一方可以轻易地将 Biesta 的立场描绘为"放弃对有效性的追求"。
 >
-> **目前状态** 此边界问题在实践中可能无法被"解决"——它属于 Aristotelian phronesis（实践智慧）的领域，即需要基于具体情境进行判断，而非通过一般性规则预先规定。
+> **目前状态** 此边界问题在实践中可能无法被"解决"——它属于 Aristotelian [[Phronesis]]（实践智慧）的领域，即需要基于具体情境进行判断，而非通过一般性规则预先规定。
 >
 > ### 对量化方法的可能过度排斥
 >

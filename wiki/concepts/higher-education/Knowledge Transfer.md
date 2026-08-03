@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在生产之后进入传授、挪用、流通、审查、窃取或破坏等动态过程的概念，用于分析知识如何在权力关系中移动。"
 type: concept
 domain: "higher-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Junzi]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
+  - "[[Decodification]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Economic and Industrial Espionage]]"
   - "[[Knowledge Sabotage]]"
@@ -100,7 +101,7 @@ updated: '2026-05-18'
 > - **古典等级制的障碍** 然而恰恰因为知识是善，其转移从未畅通无阻——从 Plato 的"agathos kai sophos"（善且智）和 [[Confucius]] 的"[[Junzi|君子]] junzi"以来，知识始终与智识和社会等级制相联系(; Park, 2016)
 > - **[[Francis Bacon|Bacon]] 到德国地缘教义** Bacon "knowledge is power"（1597）在 17 世纪仍表达为神学中的神圣属性（potestas Dei）；到 19 世纪德国统一后，演变为地缘政治教义——"Wissen ist macht, geographisches wissen ist weltmacht"（知识即权力，地理知识即世界权力）——服务于扩张主义和霸权政治([[Argument_Partaken_2022_Springer|Partaken, 2022, p.67–68]]; Shimazu, 2015)
 > - **Katz 的权力独立冲突源**Katz (1965) 论证权力不仅是获取经济优势或意识形态最大化的手段，"它本身就是冲突的独立来源"（p.374）——这一论断将知识转移从"工具"提升为 GPK 中独立的地缘政治冲突[[Champ|场域]]
-> - **Partaken 的[[Paradigm|范式转换]]** 2022 年 Partaken 明确提出 GPK 的分析重心应从[[Knowledge Production|知识生产]]（后殖民传统的焦点）转向知识转移——知识在运动中的挪用、传授、窃取、审查、监视和破坏的动态过程，才是解码当代新自由全球化中新殖民动力的关键([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]])
+> - **Partaken 的[[Paradigm|范式转换]]** 2022 年 Partaken 明确提出 GPK 的分析重心应从[[Knowledge Production|知识生产]]（后殖民传统的焦点）转向知识转移——知识在运动中的挪用、传授、窃取、审查、监视和破坏的动态过程，才是[[Decodification|解码]]当代新自由全球化中新殖民动力的关键([[Argument_Partaken_2022_Springer|Partaken, 2022, pp.74–75, 84]])
 
 ---
 
@@ -122,7 +123,7 @@ updated: '2026-05-18'
 > [!abstract]
 > Partaken 的知识转移概念建立在对后殖民 [[Geopolitics of Knowledge|GPK]] 研究的批判之上：
 > - 后殖民 GPK 分析传统（Fanon → Mignolo → [[Chen Kuan-Hsing]]）关注[[Knowledge Production|知识生产]]——谁生产知识、以何种视角、为谁的利益([[Argument_Partaken_2022_Springer|Partaken, 2022, p.72–74]])
-> - Partaken 认为，从殖民主义以来 GPK 的真正核心一直是知识转移而非其生产；知识转移的分析能够更好地解码当代新自由全球化中的新殖民动力([[Argument_Partaken_2022_Springer|Partaken, 2022, p.74–75]])
+> - Partaken 认为，从殖民主义以来 GPK 的真正核心一直是知识转移而非其生产；知识转移的分析能够更好地[[Decodification|解码]]当代新自由全球化中的新殖民动力([[Argument_Partaken_2022_Springer|Partaken, 2022, p.74–75]])
 > - 哲学基础：希腊形而上学中关于 agathos（善）的理论——"omne bonum diffusum sui est"（一切善倾向于自我扩散），知识作为善倾向于在人群中传播([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75]])
 
 ---

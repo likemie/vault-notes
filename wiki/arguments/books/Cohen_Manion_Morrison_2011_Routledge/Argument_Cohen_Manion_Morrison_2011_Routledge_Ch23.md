@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_display_title: "Research Methods in Education · Ch23"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -94,6 +94,8 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Case Study]]"
   - "[[Experimental Research]]"
+related_facts:
+  - "[[Stanford Prison Experiment]]"
 status: draft
 created: 2026-07-23
 updated: 2026-07-23
@@ -774,7 +776,7 @@ Silverman（1993）提醒注意主位分析（emic）与客位分析（etic）�
 
 ### 23.8 自然与人工观察环境
 
-大多数教育研究者的观察将在**自然情境**中进行：学校、课堂、操场、课堂等。在心理学风味的研究中，可能设置**人为的、人工的环境**以给予观察者更大的观察权力，如第26章描述的Milgram服从研究和斯坦福监狱实验。人为环境的优势在于研究者可施加的**控制程度**，通常如实验室实验一样大。对人为环境不现实、人类不应被控制的批评，回应见第5章的伦理讨论。
+大多数教育研究者的观察将在**自然情境**中进行：学校、课堂、操场、课堂等。在心理学风味的研究中，可能设置**人为的、人工的环境**以给予观察者更大的观察权力，如第26章描述的Milgram服从研究和[[Stanford Prison Experiment|斯坦福监狱实验]]。人为环境的优势在于研究者可施加的**控制程度**，通常如实验室实验一样大。对人为环境不现实、人类不应被控制的批评，回应见第5章的伦理讨论。
 
 环境可按**观察者强加的结构程度**和**环境本身固有的结构程度**两个维度进行分类（Cooper & Schindler, 2001, p. 378）：
 

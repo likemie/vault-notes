@@ -5,7 +5,7 @@ aliases:
 summary: "弱势背景学生进入精英大学后经历的剧烈文化冲击与自我认同撕裂，常表现为习性失配、归属感受损和行动方向不稳"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,8 @@ related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
-related_facts: []
+related_facts:
+  - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
 confidence: low
@@ -53,7 +54,7 @@ updated: 2026-05-18
 
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的访谈材料揭示精英休克的冲击涵盖三个层面：
 
-1. **物质与文化冲击** 弱势学生从前现代的物质环境骤然进入国际化大都市的精英校园。昌盛（甘肃偏僻农村→南方大学）："相当于我从中国大西北最偏的一个小山村来到中国最繁华的国际化的大都市里面……很多时候感觉自己非常的土。我身边的同学都出过国对吧，那我在高考前我连省都没有出过"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+1. **物质与文化冲击** 弱势学生从前现代的物质环境骤然进入国际化大都市的精英校园。昌盛（甘肃偏僻农村→南方大学）："相当于我从中国大西北最偏的一个小山村来到中国最繁华的国际化的大都市里面……很多时候感觉自己非常的土。我身边的同学都出过国对吧，那我在[[Gaokao|高考]]前我连省都没有出过"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
 2. **自我认同危机** 冲击从物质层面渗透到自我认知，表现为[[Sense of Shame|羞耻感]]、自卑和对社交的恐惧。昌盛在大二"陷入了一种非常低迷的状态，可以说稍微有点抑郁。每次出门我都会有一种恐惧，就是害怕与其他人交流，更不愿意跟其他人谈起我自己"。[[Pierre Bourdieu|布迪厄]]将这种体验称为**[[Habitus|习性]]分裂（a habitus divided against itself）**——个体在旧习性与新[[Champ|场域]]之间持续撕裂（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Bourdieu, 1999, p.511）
 

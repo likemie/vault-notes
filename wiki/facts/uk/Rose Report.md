@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Whole Language]]"
   - "[[Simple View of Reading]]"
+  - "[[Decodification]]"
   - "[[Praxis]]"
 related_theories: []
 related_methods: []
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > Rose Report 的正式标题为 *Independent Review of the Teaching of Early Reading*（早期阅读教学独立审查），于 2006 年由英国 Department for Education and Skills 发布。
 >
-> 该报告的关键特征是推广了 Gough & Tunmer（1986）的**[[Simple View of Reading|简单阅读观]]（[[Simple View of Reading]]）**——主张"学会解码等于学会阅读"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])。
+> 该报告的关键特征是推广了 Gough & Tunmer（1986）的**[[Simple View of Reading|简单阅读观]]（[[Simple View of Reading]]）**——主张"学会[[Decodification|解码]]等于学会阅读"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])。
 >
 > > Harrison（2010, p.207）指出简单阅读观已"与'先、快且唯一'（first, fast and only）的语音模型以及技术主义的阅读教学观联系在一起"（引自 O'Connor, 2020, p.149）
 
@@ -67,7 +68,7 @@ updated: '2026-05-18'
 
 > [!success] 效果与评价
 > - **支持立场** Rose Report 的支持者认为以证据为基础的合成语音教学法有助于提高基础阅读技能，特别是对低社会经济地位学生
-> - **批评立场**[[Whole Language|全语言]]倡导者和批判性读写研究者认为 Rose Report 过度简化了阅读过程，将复杂的社会文化[[Praxis|实践]]简化为技术性解码技能
+> - **批评立场**[[Whole Language|全语言]]倡导者和批判性读写研究者认为 Rose Report 过度简化了阅读过程，将复杂的社会文化[[Praxis|实践]]简化为技术性[[Decodification|解码]]技能
 
 ## 争议与评论
 

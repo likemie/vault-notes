@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-07-01
+updated: 2026-08-03
 ---
 
 # Motivated Strategies for Learning Questionnaire Critical Thinking Subscale
@@ -69,7 +69,7 @@ updated: 2026-07-01
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **作答格式** 七点量表，4 表示“比较符合我”，7 表示“非常符合我”；其余锚点 — [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 6, 8)]]
+> - **作答格式** 七点量表，4 表示“比较符合我”，7 表示“非常符合我”；其余锚点 — [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 252, 254)]]
 > - **反向题与跳题** —
 
 ---

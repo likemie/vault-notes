@@ -29,6 +29,7 @@ related_theories:
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Case Study]]"
+  - "[[Discourse Analysis]]"
   - "[[Qualitative Documents]]"
 related_persons: []
 related_facts:
@@ -48,7 +49,7 @@ title: "Argument_Erfurth_2022_education-hubs"
 argument_key: "Argument_Erfurth_2022_education-hubs"
 argument_display_title: "Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates"
 argument_kind: "book"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -92,7 +93,7 @@ citation_aliases:
 > [!info]
 
 - 研究设计：[[Comparative Case Study|比较案例研究]]（Comparative [[Case Study]], Bartlett & Vavrus, 2017），通过三个轴比较新加坡和阿联酋——水平轴（不同地点相似政策如何展开）、垂直轴（跨尺度关注）、横贯轴（历时追溯 1990–2018 年间现象的变迁）。本章重点使用横贯维度(p.202, 204)
-- 分析方法：**批判话语分析(Critical Discourse Analysis, Fairclough, 2003)**，结合文本分析与社会理论分析，考察教育枢纽如何被话语性地生产、话语建构如何沉淀为社会结构(p.202)
+- 分析方法：**批判[[Discourse Analysis|话语分析]](Critical Discourse Analysis, Fairclough, 2003)**，结合文本分析与社会理论分析，考察教育枢纽如何被话语性地生产、话语建构如何沉淀为社会结构(p.202)
 - 数据来源：(1) 政策文件（新加坡 60 份、阿联酋 38 份），含政治演讲、法律/法案、计划战略、报告、研究、网站；(2) 半结构化专家访谈共 18 份（两国各 9 位），涵盖政策、教育产业和学术界专家(p.202)。本章主要利用[[Qualitative Documents|文件数据]]，因其在"建立问题"和构建解决方案方面具有丰富的表征性作用(Bartlett & Vavrus, 2017, p.92)
 
 

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Praxis]]"
   - "[[Questionnaire]]"
+  - "[[Phronesis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Virtual Documents]]"
@@ -121,7 +122,7 @@ updated: 2026-07-11
 > - **核心技艺的反思缺失**
 >   然而，专业历史学家往往并不对这一核心技艺进行深入反思。John Tosh 指出，历史学生过去通常没有接受过关于其学科性质的正式指导（Tosh, 2002: xix）。在教育研究以及其他社会研究领域，文献的使用长期被视为不如访谈、[[Questionnaire|问卷]]和直接观察技术重要（Burton, 2000）。
 > - **方法论的空白**
->   历史与文献研究的方法论因此存在一个需要填补的空白：一方面需要系统化文献分析的操作程序，另一方面需要将那些分散在各研究案例中的实践智慧提炼为可传授的方法知识。
+>   历史与文献研究的方法论因此存在一个需要填补的空白：一方面需要系统化文献分析的操作程序，另一方面需要将那些分散在各研究案例中的[[Phronesis|实践智慧]]提炼为可传授的方法知识。
 
 ---
 

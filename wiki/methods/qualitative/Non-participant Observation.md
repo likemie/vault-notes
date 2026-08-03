@@ -23,10 +23,10 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Qualitative Codebook]]"
   - "[[Operationalization]]"
+  - "[[Covert Research]]"
   - "[[Halo Effect]]"
 related_methods:
   - "[[Participant Observation]]"
-  - "[[Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Structured Observation]]"
@@ -34,8 +34,8 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Ethnography]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 confidence: medium
 status: draft
 created: 2026-07-11
@@ -56,7 +56,7 @@ updated: 2026-07-23
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 以可观察的外显行为为证据基础；研究者通过系统记录和分类来获取知识，而非通过沉浸和共情
 > - **研究者角色** 研究者是外部观察者，不介入、不参与、不干扰。King（1979）在幼儿课堂中站立保持社会距离、故意避免眼神接触以确立非参与地位。Gold（1958）的完全观察者即为典型非参与角色——只观察、脱离群体，如通过单向镜或视频录像（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1, 23.9 节]]）
 > - **有效性标准** 观察表的[[Reliability|信度]]（观察者间一致性）、[[Coding in Qualitative Research|编码]]系统的[[Content Validity|内容效度]]、记录的完整性和系统覆盖
@@ -101,7 +101,7 @@ updated: 2026-07-23
 Bailey（1994, p. 247）解释：在自然情境中，研究者很难进行非参与观察，如果不表现出参与，那么为什么在那里？因此许多自然情境中的研究采用参与观察。实验室或人工情境中非参与观察（如视频记录）则更常见（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al., 2011, Ch14, p. 292]]）。
 
 > [!info] 非参与观察的情境维度（Ch23）
-> 非参与观察可在自然或人工情境中进行，可公开或隐蔽。典型的人工情境非参与观察包括：带单向镜的实验室观察、视频录像分析、结构化测试环境。单向镜使被观察者看不到观察者，从而减少反应性，但提出隐蔽研究的伦理问题。自然情境中的非参与观察（如课堂后方观察者）更常见于教育研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.8–23.9 节]]）。
+> 非参与观察可在自然或人工情境中进行，可公开或隐蔽。典型的人工情境非参与观察包括：带单向镜的实验室观察、视频录像分析、结构化测试环境。单向镜使被观察者看不到观察者，从而减少反应性，但提出[[Covert Research|隐蔽研究]]的伦理问题。自然情境中的非参与观察（如课堂后方观察者）更常见于教育研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.8–23.9 节]]）。
 
 ## 适用场景
 
@@ -121,5 +121,5 @@ Bailey（1994, p. 247）解释：在自然情境中，研究者很难进行非�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材将非参与观察作为与参与式观察并列的主要观察类型，通过 Boulton（1992）、Blease & Cohen（1990）和 King（1979）进行示例说明（pp. 291–292）
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材将非[[Participant Observation|参与观察]]作为与参与式观察并列的主要观察类型，通过 Boulton（1992）、Blease & Cohen（1990）和 King（1979）进行示例说明（pp. 291–292）
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 专章系统介绍 Gold（1958）完全观察者角色、Dyer（1995）非参与观察设计清单、自然与人工情境中的单向镜与视频记录应用

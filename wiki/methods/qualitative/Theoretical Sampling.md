@@ -41,7 +41,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 方法定义
-> 理论抽样（Theoretical Sampling）是[[Grounded Theory|扎根理论]]的核心抽样方法（Glaser & Strauss, 1967）。研究者收集数据、[[Coding in Qualitative Research|编码]]和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。样本选择由理论发展驱动——随着理论浮现，下一步数据收集自然呈现。持续至理论饱和（[[Saturation|theoretical saturation]]）：新数据不再推进、修改、限定、扩展或增加已发展的理论（Glaser & Strauss, 1967: 61）。
+> 理论抽样（Theoretical Sampling）是[[Grounded Theory|扎根理论]]的核心抽样方法（Glaser & Strauss, 1967）。研究者收集数据、[[Coding in Qualitative Research|编码]]和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。样本选择由理论发展驱动——随着理论浮现，下一步数据收集自然呈现。持续至[[Saturation|理论饱和]]（[[Saturation|theoretical saturation]]）：新数据不再推进、修改、限定、扩展或增加已发展的理论（Glaser & Strauss, 1967: 61）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 能够推动理论发展的群体、个体或情境
@@ -55,7 +55,7 @@ updated: 2026-07-11
 > 1. 收集初始数据，进行[[Coding in Qualitative Research|编码]]和分析。
 > 2. 分析结果指出下一步需要从哪些群体获取数据、为哪些理论目的。
 > 3. 继续收集、编码、分析，循环迭代。
-> 4. 当达到理论饱和时停止。
+> 4. 当达到[[Saturation|理论饱和]]时停止。
 
 > [!info] 两个关键问题（Glaser & Strauss, 1967: 45）
 > 1. 下一步转向哪些群体获取数据？
@@ -75,7 +75,7 @@ updated: 2026-07-11
 > [!method-limits] 方法局限
 > - **不可预测性** 由于事先不知道需要多少数据，[[Sample Size Determination|样本量]]难以提前确定。这是一个迭代过程而非预先规划。
 > - **饱和判断主观性** 何谓"不再推进理论"依赖研究者判断。
-> - **时间与资源** 理论饱和可能需要大量数据收集和分析，对时间与资源要求高。
+> - **时间与资源** [[Saturation|理论饱和]]可能需要大量数据收集和分析，对时间与资源要求高。
 
 ## 理论抽样的操作案例
 
@@ -107,5 +107,5 @@ Ezzy（2002: 74–75）在其失业研究中给出了另一个示例：初步理
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍理论抽样作为[[Grounded Theory|扎根理论]]的核心方法，以及 Glaser & Strauss（1967）的理论饱和概念。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍理论抽样作为[[Grounded Theory|扎根理论]]的核心方法，以及 Glaser & Strauss（1967）的[[Saturation|理论饱和]]概念。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11)]] — 通过教育案例（教师士气研究）和 Ezzy 失业研究展示理论抽样的完整操作逻辑，阐述其与[[Analytic Induction|分析归纳法]]的延伸关系，以及理论饱和的终点标准。

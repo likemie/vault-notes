@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -67,6 +67,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
+  - "[[Role-playing]]"
   - "[[Ethnography]]"
   - "[[Coding in Qualitative Research]]"
   - "[[In-depth Interview]]"
@@ -139,7 +140,7 @@ Kitwood（1977）对比了三种访谈观念，构成理解访谈[[Epistemology|
 > |---|---|---|---|
 > | **纯信息传输手段** | 人格有相对持久、一致的核心；良好融洽关系和真诚动机下可获得准确数据 | 偏差可被技能基本消除 | 知识存在于受访者内部，等待被提取 |
 > | **带有偏差的交易** | 每个参与者以特定方式定义访谈情境；非理性因素（情绪、无意识需求、人际影响）支配行为 | 偏差不可避免，但可通过研究设计控制（如不同偏差的多种访谈者） | 知识在交易中产生，但偏差是障碍 |
-> | **日常生活的社会遭遇** | 访谈必然分享日常生活的特征——角色扮演、刻板印象、感知和理解 | 不需要处理偏差的技术，而需要**解释日常生活的理论** | 知识在人际遭遇中共同建构；不存在传统意义上的好与坏访谈 |
+> | **日常生活的社会遭遇** | 访谈必然分享日常生活的特征——[[Role-playing\|角色扮演]]、刻板印象、感知和理解 | 不需要处理偏差的技术，而需要**解释日常生活的理论** | 知识在人际遭遇中共同建构；不存在传统意义上的好与坏访谈 |
 
 前两种观念的共同前提：人际互动的内在特征被看作"健全研究的潜在障碍，因此需要移除、控制或至少妥善驾驭"。第三种观念从根本上否定了这一前提。
 

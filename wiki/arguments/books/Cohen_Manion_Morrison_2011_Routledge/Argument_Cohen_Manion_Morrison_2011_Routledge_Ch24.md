@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_display_title: "Research Methods in Education · Ch24"
 argument_kind: "book-chapter"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -85,6 +85,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Pilot Testing]]"
   - "[[Rasch Measurement]]"
+  - "[[Role-playing]]"
 status: draft
 created: 2026-07-24
 updated: 2026-07-26
@@ -727,7 +728,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > - **计算机化** 屏幕上的测验
 > - **戏剧化、图示化、图片化、摄影化**
 > - **音频视频材料**
-> - **展示和角色扮演**
+> - **展示和[[Role-playing|角色扮演]]**
 > - **模拟**
 
 > [!warning] 非书面形式的信效度挑战
@@ -915,10 +916,10 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 > [!def] 切分点（Cut-off Scores）
 > 标准参照测验必须声明其最低边界——切分点，低于此点学生被视为未能满足标准。
 
-> [!method-panel] [[Angoff Method|Angoff（1971）方法]]
+> [!method-panel] Angoff（1971）方法
 > 对于二分计分的项目：评判者被要求识别最低可接受水平者在每题上答对的**比例**。这些比例的总和即为最低可接受分数。Angoff 方法只考虑**难度**一个因素。
 
-> [!method-panel] [[Ebel Method|Ebel（1979）方法——难度 × 相关度矩阵]]
+> [!method-panel] Ebel（1979）方法——难度 × 相关度矩阵
 > 构建难度 × 相关度矩阵，每个测验项目被分配到一个单元格，评判者估计每个单元格中最低可接受水平者答对的比例，各评判者的切分分数取各单元格比例的加权平均。
 >
 > > [!ref-table] 难度 × 相关度矩阵

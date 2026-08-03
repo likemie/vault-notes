@@ -9,7 +9,7 @@ summary: "质性研究中研究者在研究现场对个体行为和活动进行�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Non-participant Observation]]"
   - "[[Observation Protocol]]"
   - "[[Non-probability Sampling]]"
+  - "[[Member Tests]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -133,7 +134,7 @@ updated: '2026-06-19'
 > - **偏误来源** 研究者自身的注意力和观察技能局限、[[Hawthorne Effect|霍桑效应]]（被观察者因受关注而改变行为）、研究者主观偏见污染。
 > - **适用边界** 田野观察极度依赖特定现场脉络，其发现无法直接推广到其他[[Heterogeneity|异质性]]背景。
 > - **误用风险** 将观察到的经验描述直接等同于因果证明，或忽视自身角色对现场行为产生的干扰。
-> - **补救方式** 采用[[Observation Protocol|观察协议]]（分设描述性与[[Reflexivity|反思性]]笔记），引入第三方成员核验，结合多元数据进行[[Triangulation|三角验证]]（Triangulation）。
+> - **补救方式** 采用[[Observation Protocol|观察协议]]（分设描述性与[[Reflexivity|反思性]]笔记），引入第三方[[Member Tests|成员核验]]，结合多元数据进行[[Triangulation|三角验证]]（Triangulation）。
 
 ---
 

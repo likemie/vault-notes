@@ -7,7 +7,7 @@ aliases:
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
+  - "[[Self-spectator]]"
   - "[[Devil's Advocate]]"
   - "[[Ideal Learner]]"
   - "[[Virtue-Oriented Learning Process]]"
@@ -188,7 +189,7 @@ Li 借用 Grice 的四条[[Grice's Conversational Maxims|会话准则]] 来描�
 
 ### 7. 课堂话语中的 Revoicing
 
-O'Connor & Michaels（1993）的研究揭示了西方课堂如何通过 [[Revoicing]] 策略训练学生的说话与思维能力([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-94]])。教师充当"animator"（话语发出者），将学生原始话语[[Revoicing|重铸]]为更认知成熟的表达并明确标注想法的归属权——如"所以你不同意 Sarita 说的……"直接将两名学生置于对立面，促使他们评估各自观点的优劣；如将"我喜欢那个航站楼的样子"重铸为"所以你基于个人经历做出了选择"，使学生在不改变观点实质的前提下获得智识提升的认可。
+O'Connor & Michaels（1993）的研究揭示了西方课堂如何通过 [[Revoicing]] 策略训练学生的说话与思维能力([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-94]])。教师充当"animator"（话语发出者），将学生原始话语[[Revoicing|重铸]]为更认知成熟的表达并明确标注想法的归属权——如"所以你不同意 Sarita 说的……"直接将两名学生置于对立面，促使他们评估各[[Self-spectator|自观]]点的优劣；如将"我喜欢那个航站楼的样子"重铸为"所以你基于个人经历做出了选择"，使学生在不改变观点实质的前提下获得智识提升的认可。
 
 ### 8. 家庭中的 Devil's Advocate 社会化
 

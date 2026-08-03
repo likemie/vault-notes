@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -91,6 +91,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Semi-structured Interview]]"
   - "[[Documentary Analysis]]"
+  - "[[Role-playing]]"
   - "[[Cross-checking]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
@@ -568,7 +569,7 @@ updated: 2026-07-13
 > | 维度 | 方法论（Methodology） | 方法/工具（Methods/Instruments） |
 > |---|---|---|
 > | 层次 | 研究类型/风格 | 数据收集的具体工具 |
-> | 示例 | 调查、实验、深度民族志、行动研究、案例研究、测试与评估 | 访谈、问卷、观察、测试、叙述、角色扮演、模拟、个人构念 |
+> | 示例 | 调查、实验、深度民族志、行动研究、案例研究、测试与评估 | 访谈、问卷、观察、测试、叙述、[[Role-playing\|角色扮演]]、模拟、个人构念 |
 > | 决策逻辑 | 先决定采取什么方法论 | 然后选择适合该方法论的具体工具 |
 
 > [!todo] 待补充：表7.3 研究风格的要素

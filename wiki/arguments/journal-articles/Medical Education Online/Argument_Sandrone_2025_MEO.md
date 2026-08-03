@@ -9,7 +9,7 @@ title: "Argument_Sandrone_2025_MEO"
 argument_key: "Argument_Sandrone_2025_MEO"
 argument_display_title: "Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees"
 argument_kind: "journal-article"
-argument_related_count: 5
+argument_related_count: 6
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Research Topic]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Network Analysis]]"
 related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -105,7 +106,7 @@ citation_aliases:
 
 > [!example] 导师关系网络的非随机性
 >
-> **学术家族树**。对博士生-论文导师关系的网络分析显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代(Chariker et al., 2017)。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树(Tol, 2024)。
+> **学术家族树**。对博士生-论文导师关系的[[Network Analysis|网络分析]]显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代(Chariker et al., 2017)。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树(Tol, 2024)。
 >
 > **Giuseppe Levi 的学生**。Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco(Bentivoglio et al., 2006)。
 >

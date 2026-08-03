@@ -8,7 +8,7 @@ aliases:
 summary: "约翰·杜威进步主义教育哲学的核心概念，认为一切真正的教育均源于经验，并通过连续性（Continuity）与交互作用（Interaction）双重原则判定经验的教育价值。"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,8 @@ tags:
 related_concepts:
   - "[[Interaction Effect]]"
   - "[[Growth]]"
-  - "[[Educative and Mis-educative Experiences]]"
+  - "[[Educative Experience]]"
+  - "[[Mis-educative Experience]]"
   - "[[Banking Model of Education]]"
   - "[[Learning by Doing]]"
   - "[[Active Learning]]"
@@ -43,7 +44,7 @@ updated: 2026-07-26
 ## 定义
 
 > [!def] 核心定义
-> 经验学习（Experiential Learning / 经验教育）是[[John Dewey|约翰·杜威]]在《经验与教育》（*Experience and Education*, 1938）中系统阐发的教育哲学核心。杜威断言：“一切真正的教育都来自于经验”（*all genuine education comes about through experience*）[[Argument_Darwish_2009_Queens|(Dewey, 1963, p. 25; 引自 Darwish, 2009, p. 30)]]。然而，杜威并非无条件赞同所有经验，而是强调必须通过**连续性原则（Continuity）**与**[[Interaction Effect|交互作用]]原则（Interaction）**来判定一项经验是促进后续[[Growth|生长]]/成长的“[[Educative and Mis-educative Experiences|教育性经验]]”（educative experience），还是阻碍并扭曲生长的“反教育性经验”（mis-educative experience）(pp. 31–32)。
+> 经验学习（Experiential Learning / 经验教育）是[[John Dewey|约翰·杜威]]在《经验与教育》（*Experience and Education*, 1938）中系统阐发的教育哲学核心。杜威断言：“一切真正的教育都来自于经验”（*all genuine education comes about through experience*）[[Argument_Darwish_2009_Queens|(Dewey, 1963, p. 25; 引自 Darwish, 2009, p. 30)]]。然而，杜威并非无条件赞同所有经验，而是强调必须通过**连续性原则（Continuity）**与**[[Interaction Effect|交互作用]]原则（Interaction）**来判定一项经验是促进后续[[Growth|生长]]/成长的“[[Educative Experience|教育性经验]]”（educative experience），还是阻碍并扭曲生长的“反教育性经验”（[[Mis-educative Experience]]）(pp. 31–32)。
 
 > [!concept-lens] 概念透镜
 > - **含义** 经验由主动的“尝试”（trying）与被动的“承受”（undergoing）共同构成。真正的经验学习要求教育者从学生的生活经验出发安排课程。
@@ -56,7 +57,7 @@ updated: 2026-07-26
 
 > [!theory-components] [[John Dewey|杜威]]经验教育的双重判定原则
 > - **连续性原则（Principle of Continuity）**
->   任何经验都会对未来的经验产生正向或负向的影响。有教育价值的经验应当为个体打开通往未来更深刻、更广阔经验的大门（促进[[Growth|生长]]）；而[[Educative and Mis-educative Experiences|反教育经验]]则限制未来的选择 [[Argument_Darwish_2009_Queens|(Dewey, 1963, pp. 25–26, 47; Darwish, 2009, pp. 31–32)]]。
+>   任何经验都会对未来的经验产生正向或负向的影响。有教育价值的经验应当为个体打开通往未来更深刻、更广阔经验的大门（促进[[Growth|生长]]）；而[[Mis-educative Experience|反教育经验]]则限制未来的选择 [[Argument_Darwish_2009_Queens|(Dewey, 1963, pp. 25–26, 47; Darwish, 2009, pp. 31–32)]]。
 > - **[[Interaction Effect|交互作用]]原则（Principle of Interaction）**
 >   经验是个体的内部条件（心理倾向、先验知识、兴趣）与客观条件（物理环境、社区资源、历史与经济背景）相互碰撞的产物。教师的职责在于熟知社区条件并调控客观环境，使其与学生内部条件产生积极互动 (pp. 32–33)。
 

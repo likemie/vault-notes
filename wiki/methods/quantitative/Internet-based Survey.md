@@ -12,7 +12,7 @@ summary: "通过互联网进行数据收集的调查方式，成本低、速度�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Sampling Frame]]"
 related_methods:
   - "[[Trend Study]]"
+  - "[[Cross-checking]]"
   - "[[Random Sampling]]"
   - "[[Experimental Research]]"
   - "[[Quota Sampling]]"
@@ -126,7 +127,7 @@ Dillman 等人（1998a, 1998b, 1999）提出的网站调查原则中，与纸笔
 > - **回应率低于传统方式** 可低至 10% 甚至更低（Witmer et al., 1999, p. 147），虽然平台自动提醒和跟进功能在缩小差距。
 > - **退出率高** 点击即可退出——需通过进度条、兴趣前置和简洁设计来降低。互联网调查比纸笔调查耗时更长，保持简短清晰至关重要。
 > - **伦理与身份保护** 电子邮件地址可识别受访者身份，在[[Sensitive Research|敏感研究]]中需引导至网站而非邮件通信，使用不可追踪连接（网吧、图书馆），避免要求密码或邮箱。[[Informed Consent|知情同意]]需确保每屏底部设"退出"按钮。
-> - **多次提交和虚假回答** 需通过密码限制、收集个人识别项、检查跨提交的[[Internal Consistency|内部一致性]]和交叉检查问题来缓解。
+> - **多次提交和虚假回答** 需通过密码限制、收集个人识别项、检查跨提交的[[Internal Consistency|内部一致性]]和[[Cross-checking|交叉检查]]问题来缓解。
 > - **技术兼容性**（写作时的主要关切，现代平台已基本解决）选择简洁设计、跨系统测试、最小化图形使用、避免弹窗和高级程序。
 
 ---

@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer]]"
   - "[[Emergence]]"
+  - "[[Decodification]]"
   - "[[Megascience Installations]]"
   - "[[Innovation Park]]"
   - "[[Going Native]]"
@@ -334,7 +335,7 @@ updated: 2026-07-08
 > | **大湾区定位** | 基础研究与国际金融枢纽，融入全球创新网络的桥头堡，普通法系制度优势 |
 
 > [!case] 深圳：以企业为主体的全过程创新链
-> 走出"以产业创新牵引科技创新，以科技创新推动产业创新"的特色道路，形成了独特的"6个90%"企业主体创新体系。企业总数超200万家，创业密度全国第一。鹏城实验室"鹏城云脑"IO500五连冠、AIPerf500三连冠，第三代音视频编解码标准AVS3被国际DVB纳入核心规范。依托光明科学城（99km²）加速建设综合性国家科学中心，光明区2021年出台合成生物和脑科学与类脑智能专项政策。
+> 走出"以产业创新牵引科技创新，以科技创新推动产业创新"的特色道路，形成了独特的"6个90%"企业主体创新体系。企业总数超200万家，创业密度全国第一。鹏城实验室"鹏城云脑"IO500五连冠、AIPerf500三连冠，第三代音视频编[[Decodification|解码]]标准AVS3被国际DVB纳入核心规范。依托光明科学城（99km²）加速建设综合性国家科学中心，光明区2021年出台合成生物和脑科学与类脑智能专项政策。
 >
 > | 维度 | 内容 |
 > |------|------|

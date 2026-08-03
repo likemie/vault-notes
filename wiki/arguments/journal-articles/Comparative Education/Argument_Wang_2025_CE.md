@@ -10,7 +10,7 @@ title: "Argument_Wang_2025_CE"
 argument_key: "Argument_Wang_2025_CE"
 argument_display_title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Decodification]]"
   - "[[Critical Thinking]]"
   - "[[Policy Borrowing]]"
   - "[[Dialogue in Education]]"
@@ -88,7 +89,7 @@ citation_aliases:
 > 2. 这两个活动系统是否发生互动？若发生互动，如何通过内部与系统间矛盾的调解，影响教学改革的[[Going Native|本土化]][[Transfer Translation Transformation|转译]]、扩展性改造与落地边界？
 
 > [!claim] 核心主张
-> 高利害[[Test-Based Accountability|考试问责]]文化并不必然导致[[Learner-Centred Education|LCE]]改革的夭折。学校能够通过建立“学校特定共享目标”（School-Specific Shared Object），将 LCE 重新解码为培养高阶考题所需的[[Critical Thinking|批判性思维]]或提升课堂 45 分钟吸收率的提分工具；同时协同重构评估规则（评课量表与额外绩效加分）、中介工具与领导/教师劳动分工（校长为改革风险兜底），促成两个活动系统的“扩展性改造”（Expansive Transformation），实现应试与改革的互惠借力。然而受制于统一课程大纲与高考的刚性约束，这种本土化 LCE 在权力共享维度（学生决定“学什么”与“怎么考”）上仍保留不可跨越的结构性硬边界(pp. 598–602)。
+> 高利害[[Test-Based Accountability|考试问责]]文化并不必然导致[[Learner-Centred Education|LCE]]改革的夭折。学校能够通过建立“学校特定共享目标”（School-Specific Shared Object），将 LCE 重新[[Decodification|解码]]为培养高阶考题所需的[[Critical Thinking|批判性思维]]或提升课堂 45 分钟吸收率的提分工具；同时协同重构评估规则（评课量表与额外绩效加分）、中介工具与领导/教师劳动分工（校长为改革风险兜底），促成两个活动系统的“扩展性改造”（Expansive Transformation），实现应试与改革的互惠借力。然而受制于统一课程大纲与高考的刚性约束，这种本土化 LCE 在权力共享维度（学生决定“学什么”与“怎么考”）上仍保留不可跨越的结构性硬边界(pp. 598–602)。
 
 > [!concept-lens] 阅读透镜
 > - **对象与情境** 华北某区域（济南高新区资助）参与中英跨国教师专业发展项目的 4 所典型案例学校（2 所城市学校、2 所农村学校），重点研究 4 位校长与 9 位骨干教师在项目实施第一年内（经历 4 轮研讨会与校本教研）的理念调适、行动决策与制度重构(pp. 591–593)。
@@ -138,7 +139,7 @@ citation_aliases:
 > | **城市一校 (Urban 1)** | 区域统考长期稳居前 **5%**，核心目标是“维持”顶尖纪录(p. 592) | 校长 1 人，骨干教师 3 人 | 防御避险：因害怕破坏已有成绩，改革流于口头认同，期末回归讲授(pp. 596–598) |
 > | **城市二校 (Urban 2)** | 区域统考前 **20%** 优生率曾实现 **10%** 增长，目标是继续冲刺突破(p. 592) | 校长 1 人，骨干教师 3 人 | 扩展性改造：将 LCE 对接[[Critical Thinking\|批判性思维]]提分，出台标准化观摩评课量表(pp. 598–601) |
 > | **农村一校 (Rural 1)** | 平均分显著低于城市学校，迫切希望缩短差距(p. 592) | 校长 1 人，骨干教师 2 人 | 跟风卡顿：倡导 shared leadership 但无制度兜底，面对家长质问迅速折返(pp. 597–598) |
-> | **农村二校 (Rural 2)** | 平均分全区垫底，校长极具革新魄力，希望实现翻盘(p. 592) | 校长 1 人，骨干教师 1 人 | 扩展性改造：将 LCE 解码为 45 分钟课堂效率杠杆，出台绩效评估额外加分(pp. 598–601) |
+> | **农村二校 (Rural 2)** | 平均分全区垫底，校长极具革新魄力，希望实现翻盘(p. 592) | 校长 1 人，骨干教师 1 人 | 扩展性改造：将 LCE [[Decodification\|解码]]为 45 分钟课堂效率杠杆，出台绩效评估额外加分(pp. 598–601) |
 
 ---
 
@@ -209,7 +210,7 @@ citation_aliases:
 ### 论证步骤三：突破进取型案例拆解：城市二校与农村二校的扩展性改造与实践机制
 
 > [!claim] 步骤三主张
-> 谋求突破性成绩或处于垫底位置急需翻盘的学校具有强烈的动机打破传统教学的天花板。通过将 [[Learner-Centred Education|LCE]] 重新解码为达成特定考试目标的必由路径（应对考核[[Critical Thinking|批判性思维]]的新考情或提升农村课堂 45 分钟效率），并在工具、规则与分工上展开全校性协同重组，学校能够促成双活动系统的扩展性改造（Expansive Transformation）(pp. 598–601)。
+> 谋求突破性成绩或处于垫底位置急需翻盘的学校具有强烈的动机打破传统教学的天花板。通过将 [[Learner-Centred Education|LCE]] 重新[[Decodification|解码]]为达成特定考试目标的必由路径（应对考核[[Critical Thinking|批判性思维]]的新考情或提升农村课堂 45 分钟效率），并在工具、规则与分工上展开全校性协同重组，学校能够促成双活动系统的扩展性改造（Expansive Transformation）(pp. 598–601)。
 
 > [!case] 扩展性改造案例一：城市二校（Urban School 2）的冲击前 20% 攻坚战与评课量表重构
 > - **学校背景与考情定位**

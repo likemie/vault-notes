@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -78,7 +78,8 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Snowball Sampling]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Stanford Prison Experiment]]"
 related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -662,7 +663,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 > | 中介变量和过程变量 | 中介变量和过程变量的影响被忽略 |
 > | 因果过程和因果链 | 因果过程和因果链没有被建立，只知道输入和输出的关系 |
 > | 参与者动机和意向 | 参与者的动机和意向被忽略 |
-> | 语境力量 | 语境可以施加比初始因果干预更强的因果力量，斯坦福监狱实验和米尔格拉姆服从实验（见第26章）为此提供了经典证据 |
+> | 语境力量 | 语境可以施加比初始因果干预更强的因果力量，[[Stanford Prison Experiment\|斯坦福监狱实验]]和米尔格拉姆服从实验（见第26章）为此提供了经典证据 |
 > | 道德能动性和伦理 | 参与者的道德能动性（moral agency）和研究者的伦理被忽视 |
 >
 > 更恰切的问题不是简单的什么有效（what works），而是：**什么对谁有效、在什么条件下、根据什么标准、有什么伦理可辩护性、对参与者有什么后果？（pp.78–79）**

@@ -45,7 +45,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-07-04
+updated: 2026-08-03
 ---
 
 # Critical Thinking
@@ -130,8 +130,8 @@ updated: 2026-07-04
 >
 > | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | Y12 622<br>Y11 620 | Y12 4.85（1.05）<br>Y11 4.62（1.08） | — | $t(1240)=3.04$<br>$p<.001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
-> | Cole et al. | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | 总 $N=1,242$<br>分组 n — | Y12 4.69（1.15）<br>Y11 4.48（1.22） | — | $t(1240)=3.04$<br>$p<.01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | Y12 622<br>Y11 620 | Y12 4.85（1.05）<br>Y11 4.62（1.08） | Hedges' $g=0.216$（派生） | $t(1240)=3.04$<br>$p<.001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
+> | Cole et al. | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | Y12 622<br>Y11 620 | Y12 4.69（1.15）<br>Y11 4.48（1.22） | Hedges' $g=0.177$（派生） | $t(1240)=3.04$<br>$p<.01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
 
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -173,7 +173,7 @@ updated: 2026-07-04
 > - **科学教育优先立场（红方）** 学校教育中科学科目的首要目的是传授关于物质世界的最权威知识。将批判性思维从属于科学教育目标具有智识和政治上的合法性——不能为了批判性思维的形式自由而牺牲科学知识的传播。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 179–180)]]
 
 > [!warning] 课程改革面临系统性障碍
-> 即使在实证证据支持下，在澳大利亚全国课程中推行显性批判性思维课程仍面临重大挑战，包括职前教师培训、学校人员配置、课程组织与内容以及课时安排等多个层面的改革需求。澳大利亚目前的课程格局已经非常拥挤（[[Argument_Cole_2015_AJE|Cole et al., 2015, pp.12–13]]）。
+> 即使在实证证据支持下，在澳大利亚全国课程中推行显性批判性思维课程仍面临重大挑战，包括职前教师培训、学校人员配置、课程组织与内容以及课时安排等多个层面的改革需求。澳大利亚目前的课程格局已经非常拥挤（[[Argument_Cole_2015_AJE|Cole et al., 2015, pp. 258–259]]）。
 
 ---
 

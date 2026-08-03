@@ -9,7 +9,7 @@ aliases:
 summary: "研究参与者的回应受其身份、文化、动机或对研究情境的反应而系统性偏离真实值的现象，涵盖调查无回应偏差、跨文化回应模式差异、访谈 acquiescence 以及测验情境效应等多种形式"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
+  - "[[Rating Scale]]"
   - "[[Hypothesis]]"
   - "[[Leading Questions]]"
   - "[[Interviewer Effects]]"
@@ -65,7 +66,7 @@ updated: 2026-06-23
 > | 无回应偏差 | 部分人群根本不回应 | 非回应者在关键[[Variable\|变量]]上系统不同于回应者 | 邮寄[[Questionnaire\|问卷]]回收率低 |
 > | 社会期望偏差 | 回应者修饰回答 | 为呈现正面形象而扭曲回答 | 敏感话题调查 |
 > | 跨文化回应偏差 | 文化回应模式 | 不同文化成员以系统不同方式使用量表 | 跨文化比较研究 |
-> | 回应性偏差（acquiescence） | 受访者默认同意 | 倾向于说"是"而不管问题内容 | 访谈和态度量表 |
+> | 回应性偏差（acquiescence） | 受访者默认同意 | 倾向于说"是"而不管问题内容 | 访谈和[[Rating Scale\|态度量表]] |
 > | 测验情境偏差 | 测验条件影响表现 | 动机、关系、氛围改变测验结果 | 教育评估 |
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-06-23
 
 > [!dimension] 访谈回应偏差的主要形式
 > - **回应性偏差（acquiescence）**
->   受访者倾向于说"是"而不管问题内容或自身真实感受（Breakwell, 2000: 254）。这是访谈和态度量表中最常见也最难检测的回应偏差之一——特别是在存在权力不对称的访谈情境中尤为突出。
+>   受访者倾向于说"是"而不管问题内容或自身真实感受（Breakwell, 2000: 254）。这是访谈和[[Rating Scale|态度量表]]中最常见也最难检测的回应偏差之一——特别是在存在权力不对称的访谈情境中尤为突出。
 > - **[[Leading Questions|诱导性问题]]的影响**
 >   对受访者做出假设或"把话放进受访者嘴里"——问题影响了回答，有时不合法的。例如"你什么时候停止向校长投诉了？"假设受访者曾经是频繁投诉者。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 209–210)]]
 > - **[[Interviewer Effects|访谈者效应]]**

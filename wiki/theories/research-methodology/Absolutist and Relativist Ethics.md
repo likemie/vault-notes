@@ -9,7 +9,7 @@ aliases:
 summary: "研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 5
+theory_related_count: 6
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"
@@ -23,7 +23,8 @@ related_theories:
   - "[[Situated Ethics]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Stanford Prison Experiment]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
 confidence: medium
@@ -56,7 +57,7 @@ updated: 2026-06-19
 | **核心原则** | 清晰固定的原则应无一例外地指导行为 | 情境决定行为，不应有绝对指导方针 |
 | **理论基础** | 原则的义务伦理（Edwards & Mauthner, 2002, p. 20）——道义论模型 | 后果的功利主义伦理——根据行为后果判断 |
 | **伦理来源** | 普遍准则：正义、诚实、尊重 | 具体情境：文化、族裔、社会经济背景 |
-| **关键案例** | Stanford Prison Experiment——绝对主义立场意味着实验不应发生或应提前终止 | 情境伦理（Simons & Usher, 2000）——总体指南面对具体情境可能提供很少帮助 |
+| **关键案例** | [[Stanford Prison Experiment]]——绝对主义立场意味着实验不应发生或应提前终止 | [[Situated Ethics\|情境伦理]]（Simons & Usher, 2000）——总体指南面对具体情境可能提供很少帮助 |
 | **极端风险** | Zimbardo (1984)：绝对主义将终结大量心理学或医学研究，无论其可能的社会收益如何 | 个体良心作为唯一指导时，不道德甚至不择手段的研究者大门敞开 |
 
 > [!proposition-chain] 命题链

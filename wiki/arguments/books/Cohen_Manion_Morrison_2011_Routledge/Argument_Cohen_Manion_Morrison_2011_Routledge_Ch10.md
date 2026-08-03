@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 127
+argument_related_count: 128
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -147,6 +147,7 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Role-playing]]"
   - "[[Cross-sectional Study]]"
   - "[[Longitudinal Study]]"
   - "[[Cohort Study]]"
@@ -836,7 +837,7 @@ Joy (2003: 1) 提出了十二个贯穿研究全过程的文化效度问题：
 > - **优势二：克服方法约束（method-boundedness）**
 >   Smith (1975) 批评说："许多研究使用了特定的方法或技术，源于方法论狭隘主义或我族中心主义。方法学家经常推销特定的宠儿方法，要么因为这些是他们唯一熟悉的方法，要么因为他们相信自己的方法优于所有其他方法。" 三角技术有助于克服这个问题——Gorard & Taylor (2004) 展示了结合量化和质性方法的价值。
 
-方法之间对比越大，研究者的置信度越大。如果——更极端的例子——一项严格[[Experimental Research|实验研究]]的结果在一个**角色扮演练习**中被复制，研究者将体验到更大的确信。如果发现是方法的**人为产物（artefacts）**，那么使用对比方法会大大降低一致发现归因于方法相似性的机会（Lin, 1976）（p.189）。
+方法之间对比越大，研究者的置信度越大。如果——更极端的例子——一项严格[[Experimental Research|实验研究]]的结果在一个**[[Role-playing|角色扮演]]练习**中被复制，研究者将体验到更大的确信。如果发现是方法的**人为产物（artefacts）**，那么使用对比方法会大大降低一致发现归因于方法相似性的机会（Lin, 1976）（p.189）。
 
 ---
 

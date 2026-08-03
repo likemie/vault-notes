@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 134
+argument_related_count: 135
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -112,6 +112,7 @@ related_concepts:
   - "[[Cognitive Source]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Revoicing]]"
+  - "[[Self-spectator]]"
   - "[[Listening-Oriented Learning]]"
   - "[[Devil's Advocate]]"
   - "[[Xiaokang]]"
@@ -3195,7 +3196,7 @@ Li 用课堂话语分析展示了两种文化如何将各自的说话理念**制
 
 O'Connor & Michaels(1993)发现，美国中学教师使用一种叫"revoicing"的策略，同时完成两件事：
 
-1. **突出想法的归属权/作者权（authorship/ownership）** "所以，你不同意 Sarita 说的……"——教师直接把两个学生置于对立面，促使他们评估各自观点。想法是有"主人"的，可以被挑战。
+1. **突出想法的归属权/作者权（authorship/ownership）** "所以，你不同意 Sarita 说的……"——教师直接把两个学生置于对立面，促使他们评估各[[Self-spectator|自观]]点。想法是有"主人"的，可以被挑战。
 2. **认知提升（cognitive elevation）** 学生说"我喜欢那个航站楼的样子"来选交通方式，老师重铸为"所以你基于个人经历做出了选择"——不改变内容，但提升了概念层次。
 
 > [!example]
