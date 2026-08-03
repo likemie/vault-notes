@@ -1,0 +1,777 @@
+528084
+research-article2014
+                       JRI0010.1177/1475240914528084Journal of Research in International Education X(X)Hughes
+
+
+
+
+                                    Article                                                                                            JRIE
+                                                                                                                                      Journal of Research in
+                                                                                                                                     International Education
+                                    Theory of Knowledge aims,                                                                        2014, Vol. 13(1) 30­–45
+                                                                                                                                      © The Author(s) 2014
+                                    objectives and assessment criteria:                                                           Reprints and permissions:
+                                                                                                                      sagepub.co.uk/journalsPermissions.nav
+                                    An analysis of critical thinking                                                      DOI: 10.1177/1475240914528084
+                                                                                                                                             jri.sagepub.com
+                                    descriptors
+
+
+                                    Conrad Hughes
+                                    International School of Geneva, Switzerland
+
+
+
+
+                                    Abstract
+                                    This article analyses the construct validity of the International Baccalaureate Diploma Programme’s Theory of
+                                    Knowledge course in the light of claims that it is a course in critical thinking. After discussion around critical
+                                    thinking – what it is and why it is valuable educationally – the article analyses the extent to which the course
+                                    aims, assessment objectives and assessment instruments emphasise critical thinking. The article concludes
+                                    with suggestions for improvement in the writing of the Theory of Knowledge guide so that it might place
+                                    more emphasis on certain strands of critical thinking that are currently not developed in its structure.
+
+
+                                    Keywords
+                                    Assessment, critical thinking, Theory of Knowledge, validity
+
+
+
+                                    Introduction
+                                    The International Baccalaureate Diploma Programme (IBDP), a 2-year course for students aged
+                                    between 16 and 19 years, includes a core compulsory subject called Theory of Knowledge (ToK),
+                                    a course ‘in critical thinking’ (International Baccalaureate [IB], 2013b: 11). While the aims,
+                                    assessment objectives and assessment criteria cover some elements of critical thinking, I argue
+                                    that they neglect important facets of it and tend to focus on areas of learning that are not strictly
+                                    speaking critical thinking. Hence, the ToK course’s assessment structure lacks validity in the
+                                    sense that it does not entirely measure ‘what it purports to measure’ (Reber, 1985: 808). In order
+                                    to substantiate this argument, I will first provide an overview of established critical thinking tax-
+                                    onomies in order to define critical thinking and associate it with keywords and command terms. I
+                                    will then briefly describe my research method before extracting from the ToK course aims, objec-
+                                    tives and assessment criteria the terminology that resonates with established critical thinking
+                                    vocabulary. The findings will allow for some analysis of the degree to which the course can be
+
+
+                                    Corresponding author:
+                                    Conrad Hughes, International School of Geneva, 62 Route de Chêne, 1208 Geneva, Switzerland.
+                                    Email: conrad.hughes@ecolint.ch
+Hughes                                                                                               31
+
+said to be one on critical thinking and reflection on directions that the course could take to be
+more valid.
+    My epistemological perspective is epistemic constructivist, meaning that I take knowledge to be
+a human construct that is built up with concepts (see Grandy, 1998). Hence, the ToK course will be
+viewed as a series of interrelated concepts that should be coherent with the concepts found in the
+literature and taxonomies of critical thinking. The method used will be qualitative since the inves-
+tigation is into the curricular usage of terminology and descriptors. The purpose of this study is to
+examine the validity of the ToK course critically and then, according to findings, suggest ways in
+which the ToK course could foster more and better critical thinking, perhaps in the next ToK guide
+review. The area of study is clearly limited, and the article does not suggest that the quantity or
+quality of critical thinking in ToK can be ascertained through an analysis of the guide alone.
+However, a critical investigation of crucial elements of the course description (aims, objectives and
+assessment criteria) certainly allows for reflection and commentary.
+
+Critical thinking
+One of the core purposes of all is to foster critical thinking. For the past 2500 years, critical think-
+ing has been upheld as one of the most important thinking skills in education. Abrami et al. (2009)
+claim that ‘learning to think critically is among the most desirable goals of formal schooling’ (p.
+1102), and Scheffler (1973) points out that critical thinking is key to the study and understanding
+of science (p. 79), while Siegel (1985) argues that the necessary autonomy to take informed deci-
+sions is nurtured through critical thinking, as ‘critical thinking thus liberates as it renders stu-
+dents self-sufficient’ (p. 72). At the most general level, Lipman (2003) explains how critical
+thinking is a central skill in any form of applied knowledge as it entails good judgement and
+reflexivity (p. 210). Furthermore, it generates behaviours that are self-corrective, allowing for
+improvement in the learner. Strong adherence to critical thinking is a tradition that goes back to the
+Platonic and Aristotelian traditions; it has influenced the work of major philosophers and educa-
+tional thinkers, including St Thomas Aquinas, Descartes, Locke, Hume, Berkley, Kant, Russell,
+Dewey, Piaget and Kohlberg.
+   The 21st century, with its deluge of media-driven information, so-called big data and social
+networking, clearly requires discerning judgement of sources and the ability to detect implicit bias
+on the part of the reader or consumer of information (see Halpern, 1997). Iowa’s Department of
+Education describes critical thinking as a ‘universal construct essential for the 21st Century’ (Iowa
+Department of Education, 2013), the Organisation for Economic Co-operation and Development
+(OECD, 2003) states that in today’s complex world it is essential for students to ‘think and act with
+a critical stance’ (p. 5), and in 2006 the Conference Board of Canada listed critical thinking as the
+skill employers expected to become the most important over time (Jerald, 2009: 48). Critical think-
+ing skills involving the future (prediction, following through implications, likelihood and uncer-
+tainty evaluation) are increasingly central in an environment of rapid change and socioeconomic,
+demographic and environmental challenges that are riddled with complexity, volatility, uncertainty
+and ambiguity.
+   While the value of critical thinking as a broad notion in education is clear, defining critical
+thinking more precisely is a complex matter that cannot be easily extracted from interrelated
+concepts such as creative thinking, enquiry, reasoning, cognitive processes and self-engagement
+(Higgins et al., 2003). Indeed, ‘critical thinking’ is often used, unhelpfully, as an umbrella term.
+However, research done by Facione (1990), Paul (1990, 1992, 2011), Ennis (1996), Halpern
+(1997, 1999, 2002), Anderson and Krathwohl (2001), Lipman (2003) and Moseley et al. (2004,
+2005) allows us to work with a limited number of definitions and taxonomies that refer to recur-
+ring skills and strategies. For the purposes of this article, I will include reason in my definition
+32                                                        Journal of Research in International Education 13(1)
+
+of critical thinking. Pure reason is syllogistic and lies at the heart of logical and mathematical
+investigation, whereas the broader application of reason, its conjugation, is critical thinking.
+Critical thinking and reason – or rational thought – are inextricably linked, as Siegel (1985)
+makes clear:
+
+     Critical thinking is best seen as coextensive with rationality, and rationality is concerned with reasons. For
+     a person to be rational, that person must (at least) grasp the relevance of various reasons for judgments and
+     evaluate the weight of such reasons properly. (p. 72)
+
+    He points out that ‘education aimed at […] critical thinking is […] aimed at the fostering of
+rationality and the development of rational persons’ (Siegel, 1988: 32).
+    Ennis and Weir’s (1985) definition is that ‘critical thinking is reasonable and reflective thinking
+that is focused on deciding what to believe or do’ (p. 45). Ennis detailed work on the subject that
+contains dispositions, categories and sub-categories is largely consistent with that of Paul, cited
+more extensively in this article as it is my belief that his listings subsume those of Ennis. A useful
+summary of Ennis’ taxonomical work on critical thinking, along with that of Paul and Halpern, can
+be found in the work of Moseley et al. (2004: 26–37).
+    Abrami et al. (2009), meanwhile, turn to the Delphi Committee’s (Facione, 1990) definition of
+those skills central to critical thinking:
+
+     The Delphi Committee identified six skills (interpretation, analysis, evaluation, inference, explanation,
+     and self-regulation), 16 subskills, and 19 dispositions (including inquisitiveness, open-mindedness,
+     understanding others, and so on) that they associated with critical thinking. These skills and dispositions
+     provide a complex normative framework for understanding and assessing the qualities of human cognition.
+     (p. 1103)
+
+     Halpern (1997) categorises critical thinking skills into the following:
+
+     – memory skills;
+     – thought and language skills;
+     – deductive reasoning skills;
+     – argument analysis skills;
+     – skills in thinking as hypothesis testing;
+     – likelihood and uncertainty critical thinking skills;
+     – decision-making skills;
+     – problem-solving skills;
+     – skills for creative thinking.
+
+(adapted by Higgins et al., 2003)
+   Paul’s work on critical thinking is extremely comprehensive and ranges from the late 1960s to
+the present. Elder (2010) lists Paul’s synthesis of relevant skills as ‘gathering relevant information,
+making logical inferences, generating justifiable assumptions, following out implications logically
+and checking information for accuracy’ (p. 5). Paul (1990) goes into great detail by detailing three
+dimensions of critical thinking:
+
+     Affective Dimensions:
+
+     thinking independently, developing insight into egocentricity or sociocentricity, exercising fair-
+     mindedness, exploring thoughts underlying feelings and feelings underlying thought, developing
+     intellectual humility and suspending judgment, developing intellectual courage, developing intellectual
+     good faith or integrity, developing intellectual perseverance, developing confidence in reason.
+Hughes                                                                                                             33
+
+   Cognitive Dimensions – Macro-Abilities:
+
+   Refining generalizations and avoiding oversimplifications, comparing analogous situations: transferring
+   insights to new contexts, developing one’s perspective: creating or exploring beliefs, arguments, or
+   theories, clarifying issues, conclusions, or beliefs, clarifying and analysing the meanings of words or
+   phrases, developing criteria for evaluation: clarifying values and standards, evaluating the credibility of
+   sources of information, questioning deeply: raising and pursuing root or significant questions, analysing
+   or evaluating arguments, interpretations, beliefs, or theories, generating or assessing solutions, analysing
+   or evaluating actions or policies, reading critically: clarifying or critiquing texts, listening critically: the art
+   of silent dialogue, making interdisciplinary connections, practicing Socratic discussion: clarifying and
+   questioning beliefs, theories, or perspectives, reasoning dialogically: comparing perspectives,
+   interpretations, or theories, reasoning dialectically: evaluating perspectives, interpretations, or theories.
+
+   Cognitive Dimensions – Micro-Skills:
+
+   Comparing and contrasting ideals with actual practice, thinking precisely about thinking: using critical
+   vocabulary, noting significant similarities and differences, examining or evaluating assumptions,
+   distinguishing relevant from irrelevant facts, making plausible inferences, predictions, or interpretations,
+   giving reasons and evaluating evidence and alleged facts, recognizing contradictions, exploring
+   implications and consequences. (p. 56)
+
+Paul (2011) has gone further, to polarise critical thinking approaches into ‘global or specialized,
+sophistic or Socratic, explicit or implicit, systematic or episodic, emancipated or constrained, and
+based in natural or technical languages’ (pp. 5–24).
+   Black (2008), meanwhile, working for Cambridge Assessment, reports on the following defini-
+tion, developed by a panel of examiners and item writers working for that organisation:
+
+   Critical Thinking is the analytical thinking which underlies all rational discourse and enquiry. It is
+   characterised by a meticulous and rigorous approach. As an academic discipline, it is unique in that it
+   explicitly focuses on the processes involved in being rational. These processes include:
+   – analysing arguments;
+   – judging the relevance and significance of information;
+   – evaluating claims, inferences, arguments and explanations;
+   – constructing clear and coherent arguments;
+   – forming well-reasoned judgements and decisions. (p. 7)
+
+   Usefully, Black et al.’s study suggests what critical thinking is not: reading comprehension,
+problem solving, creativity and syllogism (Black, 2008: 11). These are described as ‘on the fringes
+or outside the construct domain’, for a number of reasons. Higgins’ work, meanwhile, has been to
+delineate different levels of process in the critical thinking design so as to differentiate between
+perspectives, ‘dispositions’ – a term developed previously by Halpern (see Moseley et al., 2004: 8)
+– and the type of knowledge dimension that is being worked (factual, conceptual, procedural or
+metacognitive) (Higgins et al., 2003).
+   All of the above-mentioned definitions are in some way related to Bloom’s (1956) taxonomy
+and Bloom’s work revisited by Anderson and Krathwohl (2001), although the taxonomy is not one
+in critical thinking specifically but rather in ‘higher order thinking skills’. Categories 4, 5 and 6 of
+Table 1 clearly outline the type of thinking that one could describe as critical.
+   One debate in critical thinking is to what extent it can be viewed as a transferable thinking
+skill that is stable across disciplines or, on the contrary, as domain-specific with significant dif-
+ferences between disciplines or domains where it is practised. Essentially, the former view is
+34                                                       Journal of Research in International Education 13(1)
+
+Table 1. Bloom’s taxonomy revisited by Anderson and Krathwohl (2001).
+
+Category                Actions
+1. Remembering          Arrange, describe, duplicate, find, label, list, memorise, name, order, recognise,
+                        relate, recall, repeat, reproduce, state
+2. Understanding        Classify, define, discuss, explain, express, identify, indicate, locate, paraphrase,
+                        recognise, report, restate, review, select, translate
+3. Applying             Apply, assemble, choose, demonstrate, dramatise, employ, illustrate, interpret,
+                        manage, operate, practice, schedule, sketch, solve, use, write
+4. Analysing            Analyse, appraise, calculate, categorise, compare, contrast, conclude, criticise,
+                        deduce, differentiate, discriminate, distinguish, examine, experiment, question,
+                        predict, test
+5. Evaluating           Appraise, argue, assess, attach, choose, compare, defend, estimate, judge, predict,
+                        rank, rate, core, select, support, value, evaluate
+6. Creating             Compose, construct, create, design, develop, formulate, integrate, invent, organise,
+                        plan, prepare, propose, re-arrange, set up, write
+
+
+
+held by – among others – Halpern (1997), Bassok and Holyoak (1993) and Salomon and Perkins
+(1998), while the latter is held by Schoenfeld and Herrmann (1982), Bereiter and Scardamalia
+(1993), Ericsson and Smith (1991), Ericsson (1996) and even more strongly by Glaser (1984) and
+Lave (1988). The extent to which critical thinking can be seen as generalisable and context-free
+should not be oversimplified. In discussing the issue, Ritchhart and Perkins (2005) argue that
+
+     the debate around transfer, expertise, and situated learning has been overly polarized and ideological,
+     leading to sweeping declarations on both sides regarding what is possible or impossible that do not stand
+     up to empirical examination. The relationship between general cognitive structures and particular situations
+     perhaps needs to be understood as more complex and dynamic. (p. 791)
+
+I will return to this debate in discussing the ToK assessment instruments. This article could con-
+tinue to list definitions and taxonomies in critical thinking, synthesising research done by King and
+Kitchener (1994), Pintrich (2000) and related studies such as the work of Goleman (1995),
+Sternberg (1996) and Biggs and Collis (1982). Given the scope of the article, however, I will settle
+with the above-mentioned definitions of Facione, Halpern, Paul, Black and Bloom (revisited by
+Anderson Krathwohl) since these cover the essential views on critical thinking.
+    Trying to build up a normative checklist to define critical thinking is inherently problematic as
+it reduces the procedural, nuanced enterprise of critical thinking into a series of verbs that are not
+necessarily in themselves proof of critical thinking since the disposition, perspective and general
+context are not specified, and clearly, these factors are crucial in determining the quality of think-
+ing (see Nisbett, 1993). Furthermore, while researchers agree on numerous types of thinking that
+can be termed ‘critical’, there are diverging opinions about the degree to which some learning
+behaviours are genuinely critical. For example, Halpern describes critical thinking as ‘the kind of
+thinking involved in solving problems’ (Halpern, 1999: 2), whereas Black Labels problem-solving
+as a fringe activity. In addition, Black does not view creativity as critical thinking, whereas Halpern
+does.
+    There are other problems, such as the range of definitions of critical thinking, that are some-
+times so broad that it becomes difficult to work with the concept in a clear, concise manner. For
+example, Halpern’s listing of ‘memory, thought and language’ covers just about everything con-
+ceivable in human intellectual activity. Many of the descriptions are subjective. Black’s (2008)
+Hughes                                                                                                  35
+
+‘well-reasoned judgements and decisions’ (p. 7) do not go without saying, and will mean some-
+thing very different depending on the epistemology and worldview being used to appreciate them.
+   These are problems, contradictions and limitations that come with a qualitative, constructivist
+approach to knowledge. Perceptions differ and the body of knowledge that defines critical thinking
+is not a falsifiable, objectively premised construct but a series of iterations, beliefs, thoughts and
+traditions that have grown organically and, to a certain extent, dialectically over time.
+
+Research method
+The above-mentioned complexity means that designing an appropriate research method to evaluate
+critical thinking is particularly challenging. After all, which criteria can a course (in critical think-
+ing) be held up to if there is disagreement among researchers as to what exactly constitutes critical
+thinking in the first place? This complexity should not, however, prevent any attempt at analysis.
+Arguments of relativity can be applied to numerous disciplines (e.g. literary and art criticism, his-
+toriography, philosophy) and are a necessary part of the ontological makeup of the social sciences.
+Nor should disagreements over definitions detract from the overwhelming consensus on critical
+thinking: all the definitions and descriptions mentioned earlier share the fundamental principles of
+discernment, analysis, judgement (or evaluation), interpretation and argumentation.
+    What I aim to do is first to list the ToK course aims and assessment objectives, arguing when and
+where they resonate with the different conceptions of critical thinking elaborated by Facione, Halpern,
+Paul, Black and Bloom (revisited by Anderson and Krathwohl). This will establish the extent to
+which the ToK guide is aligned with established published research on critical thinking. Second, I
+shall investigate whether the course guide’s assessment structure has construct validity, in other
+words – as stated earlier – whether it measures ‘what it purports to measure’ (Reber, 1985: 808). This
+will be done by looking for alignment in command terms and vocabulary between task design and the
+targeted model of cognition. These two approaches will at least offer scope and perspective that allow
+suggestions for improvement in the written curriculum, so that future versions of ToK are more
+clearly aligned with research on critical thinking and point to higher levels of validity.
+    However, as touched upon earlier, establishing this will not necessarily determine the true extent
+of critical thinking in a student’s experience of ToK. Some studies have shown that listing critical
+thinking among course objectives has a reported lower effect size than advanced training of instruc-
+tors or certain established ways of integrating critical thinking into student learning (Abrami et al.,
+2009: 1121). To be clear, enhancing critical thinking in ToK as a whole would be context specific,
+requiring a broad approach beyond curriculum design at the levels of instructional quality, teacher
+professional development, appraisal and moderation of marking.
+
+ToK
+The origins of the course can be traced back to the 1960 ‘Oxford University Department of
+Education report on Art and Science Sides in the Sixth Form’ (Peterson, 1987: 41), in which a
+course about ‘learning to learn’ (p. 42) was developed by educators and had its first trial examina-
+tions in 1969 (p. 67). Since then, ToK has developed into a core part of the IBDP and is described
+as a course in ‘critical thinking’ by the IB (2013a). In the 2013 subject guide, ToK is described as
+
+   a course about critical thinking and inquiring into the process of knowing, rather than about learning a
+   specific body of knowledge. It is a core element which all Diploma Programme students undertake and to
+   which all schools are required to devote at least 100 hours of class time. TOK and the Diploma Programme
+   subjects should support each other in the sense that they reference each other and share some common
+   goals. (IB, 2013b: 8)
+36                                                        Journal of Research in International Education 13(1)
+
+    The ToK course is assessed through two instruments: a presentation and an essay. The syllabus
+is divided into four sections: ‘Knowledge in ToK’, ‘Knowledge claims and knowledge questions’,
+‘Ways of Knowing’ and ‘Areas of Knowledge’. In these sections, a number of guiding principles
+are established. First is the idea that ToK is about applied knowledge: it is ‘not intended to be a
+course in philosophy’ and should not be devoted to a ‘technical philosophical investigation into the
+nature of knowledge’. Rather, it is ‘designed to apply a set of conceptual tools to concrete situa-
+tions encountered in the student’s Diploma Programme subjects and in the wider world outside
+school’ (p. 16). The guide goes on to describe how knowledge can be seen as shared (e.g. in aca-
+demic disciplines and schools of thought) and personal (e.g. empirical knowledge) (pp. 17–18).
+The guide stresses the importance of striking a balance between these two facets of knowledge
+when exploring and discussing it.
+    The ToK syllabus asserts that there are two types of knowledge claims: those pertaining to the
+world and those pertaining more specifically to knowledge, the second type of claim constituting
+‘the core of any piece of TOK analysis’ (p. 20). Knowledge questions, more specifically, are
+described as ‘open questions that in general rather than subject or context specific terms discuss
+knowledge’ (pp. 20–21). Numerous examples are given, focussing on the idea that this type of
+questioning reveals the constituents of knowledge (e.g. issues such as modelling, causation,
+‘interpretation, anomaly, induction, certainty, uncertainty [and] belief’ [p. 21]). So both knowl-
+edge claims and knowledge questions deal with the underlying general principles of knowledge.
+However, the guide stipulates that knowledge questions in particular are essential for the assess-
+ment process: ‘the whole point of the presentation and essay tasks is to deal with knowledge
+questions’ (p. 20).
+    Eight ways of knowing are listed (language, sense perception, emotion, reason, imagination,
+faith, intuition and memory) and described as tools that can be used to answer the questions ‘how
+do I know?’ or ‘how do we know?’ (p. 23), whereas areas of knowledge (mathematics, natural sci-
+ences, human sciences, history, the arts, ethics, religious knowledge systems and indigenous
+knowledge systems) are listed as the main areas of human thought where knowledge is constructed.
+It is suggested that these be investigated through a ‘knowledge framework’, whereby chosen areas
+of knowledge are looked at through ‘scope, motivation and applications, specific terminology and
+concepts, methods used to produce knowledge, key historical developments and interaction with
+personal knowledge’ (p. 28). The course syllabus implies elements of critical thinking but does not
+necessarily describe a course in critical thinking in the same way that Paul, Halpern or Siegel
+define such an enterprise: emphasis is placed on understanding the way that knowledge is con-
+structed but not directly on thinking skills, problem solving, critiquing and evaluating. If anything,
+the course is one in ‘epistemology’, a word that curiously does not feature at any point in the guide,
+whereas the phrase ‘critical thinking’ features six times (pp. 3, 4, 8, 11–13), often to define the
+course as a whole (pp. 4, 8, 11). Of course, the syllabus need not explicitly lay out critical thinking
+tasks for students to experience critical thinking during the course, as in many ways the syllabus
+implies substantial analysis, inference-drawing and construction of argument. Nonetheless, there is
+some misalignment between the labelling of ToK as a course in critical thinking and a syllabus that
+is essentially one in epistemology.
+    The course guide attempts to clarify this point with a statement that is at best cryptic:
+
+     TOK is a course in critical thinking but it is one that is specifically geared to an approach to knowledge
+     that is mindful of the interconnectedness of the modern world. ‘Critical’ in this context implies an analytical
+     approach prepared to test the support for knowledge claims, aware of its own weaknesses, conscious of its
+     perspectives and open to alternative ways of answering knowledge questions. (p. 11)
+Hughes                                                                                                    37
+
+Course aims
+While the syllabus description is, arguably, not specifically focussed on developing critical think-
+ing skills, the five course aims relate to critical thinking more explicitly:
+
+   1. make connections between a critical approach to the construction of knowledge, the academic
+      disciplines and the wider world;
+   2. develop an awareness of how individuals and communities construct knowledge and how this is
+      critically examined;
+   3. develop an interest in the diversity and richness of cultural perspectives and an awareness of personal
+       and ideological assumptions;
+   4. critically reflect on their own beliefs and assumptions, leading to more thoughtful, responsible and
+      purposeful lives;
+   5. understand that knowledge brings responsibility which leads to commitment and action. (p. 14)
+
+   Not only do three of these five aims explicitly mention critical dispositions, it is clear that each
+of the five aims also looks to cover an area of critical thinking. Aims 1 and 2 both essentially
+describe a ‘critical approach to the constructions of knowledge’ and ‘how this is critically exam-
+ined’, very much in the vein of Paul’s macro-abilities and micro-skills. Aims 3 and 4 are focussed
+more on the appreciation of cultural and historical diversity – in line with the Delphi committee’s
+dispositions of open-mindedness and understanding others, and metacognitive awareness – in
+keeping with Paul’s affective dimensions.
+   The five aims of the ToK guide, while all related to critical thinking, tend to emphasise a model
+of cognition that is more focussed on the reception and analysis than on the production of knowl-
+edge. Despite the implications of Aim 5, all of the aims use command terms that denote this (‘make
+connections’, ‘develop an awareness’, ‘develop an interest’, ‘critically reflect’ and ‘understand’),
+whereas none of them bring out the more active principles associated with creative thinking that
+we find in the research of Halpern (‘hypothesis testing, likelihood and uncertainty, critical thinking
+skills, decision-making skills, problem-solving skills’) or the more active elements of Bloom’s
+taxonomy (revisited by Anderson and Krathwohl): ‘applying’, ‘analysing’, ‘evaluating’ and ‘creat-
+ing’. Aim 5 moves towards a more active approach but only asks students to ‘understand’ respon-
+sibility, action and commitment rather than to necessarily act on this knowledge. Overall, the five
+aims cover a fairly narrow base. It is clear in surveying the literature, particularly the work of Paul,
+that critical thinking is a comprehensive body of thought. It stands to reason, therefore, that a
+course in critical thinking should cover a wide repertoire of thinking skills associated with it,
+whereas the five aims of the ToK course cover a mere fraction of critical thinking skills.
+
+
+Assessment objectives
+The course assessment objectives cover elements of both critical thinking and epistemology:
+
+   1. identify and analyse the various kinds of justifications used to support knowledge claims;
+   2. formulate, evaluate and attempt to answer knowledge questions;
+   3. examine how academic disciplines/areas of knowledge generate and shape knowledge;
+   4. understand the roles played by ways of knowing in the construction of shared and personal knowledge;
+38                                                      Journal of Research in International Education 13(1)
+
+     5. explore links between knowledge claims, knowledge questions, ways of knowing and areas of
+        knowledge;
+     6. demonstrate an awareness and understanding of different perspectives and be able to relate these to
+        one’s own perspective;
+     7. explore a real-life/contemporary situation from a TOK perspective in the presentation. (p. 15)
+
+   Aims 1, 2 and 6 use command terms specifically embedded in critical thinking terminology
+(‘analyse’, ‘evaluate’, ‘understanding of different perspectives’) and clearly elaborate key critical
+thinking dispositions, whereas Aims 3, 4, 5 and 7 use less critical verbs (‘examine’, ‘understand the
+roles played by ways of knowing’, ‘explore’) and appear to be more concerned with investigation
+than critical analysis. On the whole, the assessment objectives, like the course aims, cover a narrow
+base of thinking skills and are missing not only the active parts of critical thinking that imply
+action, innovation, guess work and decision-making but also a whole host of critical thinking com-
+mand terms. These include, for example, many of Paul’s macro-abilities, such as ‘refining gener-
+alizations and avoiding oversimplifications, developing criteria for evaluation: clarifying values
+and standards, evaluating the credibility of sources of information, […] generating or assessing
+solutions, analysing or evaluating actions or policies, reading critically: clarifying or critiquing
+texts, listening critically: the art of silent dialogue’) (Paul, 1990: 56) and most of Halpern’s critical
+thinking categories (‘Memory skills, Skills in thinking as hypothesis testing, Likelihood and uncer-
+tainty critical thinking skills, Decision-making skills, Problem-solving skills, Skills for creative
+thinking’) (adapted by Higgins et al., 2003).
+
+Assessment instruments
+While the aims and objectives suggest some valid operationalisation of critical thinking, and the
+alignment between the course aims and assessment objectives is fairly clear, to discuss the con-
+struct validity of the course one needs to turn to the precise assessment criteria, as it is on the basis
+of these that students’ work will be judged. One would expect a strong degree of alignment between
+the task assessment criteria, the assessment objectives and course aims, and of course at another
+level, that the assessment of ToK would measure critical thinking as a construct since ToK is
+described as ‘a course in critical thinking’ (IB, 2013b: 11). There are two assessed tasks, an essay
+and a presentation. The essay titles
+
+     ask generic questions about knowledge and are cross-disciplinary in nature. They may be answered with
+     reference to any part or parts of the TOK course, to specific disciplines, or with reference to opinions
+     gained about knowledge both inside and outside the classroom. (p. 52)
+
+whereas ‘the presentation requires students to identify and explore a knowledge question raised by
+a substantive real-life situation that is of interest to them’ (p. 55). From the outset, it is clear that
+the thrust of the course assessment is on answering a cross-disciplinary essay question and design-
+ing and delivering a presentation that is authentic in nature. One could argue that these endeavours
+only explore extremely limited facets of critical thinking, a point to which I will return in my
+conclusion.
+   The ToK essay reposes mainly on the school of thought that critical thinking merits cross-
+disciplinary rather than interdisciplinary focus. I have already raised the debate on critical thinking
+being either domain-specific or transferable to suggest that no one response is entirely sufficient:
+while the encoding of information into schemata will happen within the confines of a specific
+domain, there are clearly transferable traits between and across disciplines that allow for general
+Hughes                                                                                                39
+
+courses in critical thinking. The premise of the ToK essay task is an extraction from the course’s
+design whereby areas of knowledge are described as ‘specific branches of knowledge, each of which
+can be seen to have a distinct nature and different methods of gaining knowledge’, and as such,
+students are expected to ‘compare and contrast’ them (p. 8). This epistemological insistence on
+knowledge construction being subject-specific is only partly true: ‘the contents include both general
+and specific knowledge’ (Pellegrino et al., 2001: 3). While a large part of critical thinking will inevi-
+tably be tied to specific domains, centring a course too stringently on this may not be entirely helpful
+as one of the goals of a course in critical thinking is surely to ‘help learners to decontextualize pat-
+terns of thinking’ (Ritchhart and Perkins, 2005: 792). Furthermore, too much insistence on domain-
+specific epistemological constructs can lead to trivial, exclusivist beliefs about knowledge
+(mathematics is about reasoning, art is about expression, science is about falsificationism, for
+instance) that prevent the creative space and expanse needed for transfer and broader conceptual
+appreciation of knowledge across domains (e.g. the role of belief in all areas of knowledge).
+    To be fair, the guide does attempt to remedy this conflict by offering the students knowledge
+questions, which are ‘general questions about knowledge’ (IB, 2013b: 21), although it should be
+noted that the guide never actually gives a clear definition of what knowledge questions are.
+Instead, the reader is given many domain-specific examples and told that they are ‘questions such
+as …’ (p. 10), that ‘a knowledge question is somehow more general than the particular examples
+which illustrate it’ (p. 21), that knowledge questions ‘are sometimes difficult to formulate precisely
+but they often lurk underneath popular and often controversial subjects that are discussed in the
+media’ (p. 22) and that ‘while these questions could seem slightly intimidating in the abstract, they
+become much more accessible when dealt with in specific practical contexts within the TOK
+course’ (p. 11). The point is that knowledge questions are core to the essay, but it is, arguably, not
+altogether clear in the guide what exactly they are. Without a certain level of clarity at the outset,
+it will be difficult to expect students to engage with material critically.
+    The presentation, on the other hand, insists heavily on a real-world situation that the student
+should relate to; this in the vein of Deweyan pragmatism, whereby knowledge needs to be made
+relevant and concrete. This vision of critical thinking is linked to the guide’s predication that ToK
+is not philosophy and moves away from abstractions to real-life scenarios. While this in itself
+seems perfectly reasonable, one wonders what is wrong with hypothetical abstractions. After all,
+some of the better-known assessments in critical thinking involve hypothetical situations such as
+the well-known balance-scale problems developed by Siegler (1976) to assess students’ under-
+standing of torque. The point is that measurable progress in thinking needs to be assessed against
+problems or tasks that underpin contra-intuitive, troublesome scenarios that are sufficiently com-
+plex to require critical thinking. This may or may not be the case in real-life scenarios.
+    The essay and the presentation are assessed using ‘global impression marking […] rather than
+an analytical [sic] process of totalling the assessment of separate criteria [and …] should not be
+thought of as a checklist of attributes; they are intended to function only as tentative descriptions’
+(p. 59). It should be noted that both tasks are assessed out of a total of 10 points, but the essay score
+is doubled to give a points total of 30, which is converted into a final ToK score of either A, B, C,
+D or E. Clearly, the extent to which these tasks mirror the aims and assessment objectives of the
+course is contingent on the essay question that is answered and the area of development that the
+student chooses for the presentation. The two broad areas that are assessed in the essay are ‘under-
+standing knowledge questions’ and the ‘quality of analysis of knowledge questions’ (p. 62),
+whereas there is one broad area that is assessed for the presentation (success ‘in showing how TOK
+concepts can have practical application’ [p. 64]). Detailed descriptors are given for these areas to
+suggest performances at banded levels. The top level, where students are fulfilling the require-
+ments for 9 or 10 out of 10 points, reads as shown in Tables 2 and 3.
+40                                                       Journal of Research in International Education 13(1)
+
+Table 2. Essay on a prescribed title.
+
+Understanding knowledge questions              Quality of analysis of knowledge       Some possible
+                                               questions                              characteristics
+There is a sustained focus on                  Arguments are clear,                   Cogent, accomplished,
+knowledge questions connected to               supported by real-life                 discerning, individual,
+the prescribed title and are [sic] well        examples and are effectively           lucid, insightful, compelling
+chosen – developed with investigation          evaluated; counterclaims
+of different perspectives and linked           are extensively explored;
+effectively to areas of knowledge and/         implications are drawn
+or ways of knowing
+
+Source: IB (2013b: 62).
+
+
+Table 3. Presentation.
+
+Do(es) the presenter(s) succeed in showing how ToK concepts can have              Some possible characteristics
+practical application?
+The presentation is focused on a well-formulated knowledge question               Sophisticated, discerning,
+that is clearly connected to a specified real-life situation. The knowledge       insightful, compelling, lucid
+question is effectively explored in the context of the real-life situation, using
+convincing arguments, with investigation of different perspectives. The
+outcomes of the analysis are shown to be significant to the chosen real-life
+situation and to others.
+
+Source: IB (2013b: 64).
+ToK: Theory of Knowledge.
+
+
+Assessment validity
+The assessment criteria for the course are well aligned with certain course aims and assessment
+objectives in that they clearly emphasise making connections between real-life scenarios and
+knowledge construction (Aim 1, Assessment Objectives 3 and 7), knowledge questions (Assessment
+Objectives 2 and 5), different perspectives (Aim 2, Assessment Objective 6) and relationships
+between ways of knowing and areas of knowledge (Assessment Objective 4). Furthermore, the
+assessment criteria imply that Assessment Objective 1 will be met: namely that ‘various kinds of
+justifications [are] used to support knowledge claims’ (p. 14). However, there is no evidence in the
+assessment criteria that the tasks will explore Aims 3 (to ‘develop an interest in the diversity and
+richness of cultural perspectives and an awareness of personal and ideological assumptions’), 4
+(‘critically reflect on their own beliefs and assumptions, leading to more thoughtful, responsible
+and purposeful lives’) and 5 (‘understand that knowledge brings responsibility which leads to com-
+mitment and action’). This is perhaps understandable as while assessment instruments should be
+aligned with the model of cognition being operationalised, this is a difficult thing to achieve when
+the construct is fairly abstract and involves troublesome areas such as culture and responsibility.
+These are aims that are clearly long term and not simple to nurture in an essay or a presentation.
+Perhaps more problematic is the fact that Assessment Objective 6 (‘demonstrate an awareness and
+understanding of different perspectives and be able to relate these to one’s own perspective’) is not
+called upon in any of the descriptors for the assessed tasks, for the simple reason that there is no
+mention of ‘one’s own perspective’ in the assessment descriptors.
+   While there is evidence of a relatively high degree of construct validity vis-à-vis the alignment
+between aims, objectives and assessment criteria, this is markedly less the case for the construct
+Hughes                                                                                               41
+
+of critical thinking in a more general sense and the extent to which the ToK assessment design
+captures those thinking skills elicited by researchers as symptomatic of critical thinking. This can
+be explored at two levels: first, by analysing the command terms of the assessment criteria and,
+second, by pointing out which areas of critical thinking are missing in the assessment design. The
+command terms employed in the assessment criteria are fairly bland in what they require: students
+are asked to choose ‘well’, ‘formulate’, give ‘sustained focus’, link ‘effectively’, ‘develop’,
+‘investigate’ and ‘explore’. These do not stand out in particular as salient critical thinking terms.
+Less frequent are the more dynamic, specifically critical command terms, which include using
+‘convincing arguments’, ‘analysing’, ‘evaluating’, ‘drawing implications’ and considering ‘coun-
+terclaims’. Moreover, where there is focus, it is not so much on critical thinking but more on
+connecting issues to real-life situations (this is repeated for both the presentation and the essay).
+I have already argued that linking knowledge to real-life issues is not necessarily a sign of critical
+thinking. The possible characteristics that are suggested are not all congruent with critical think-
+ing: one can well imagine the importance of an essay or a presentation in critical thinking being
+‘cogent’, ‘individual’, ‘lucid’ and ‘insightful’, but it is less clear why such work needs to be
+‘accomplished’, ‘sophisticated’ or ‘compelling’. Clearly, these adjectives describe work of high
+quality in general and therefore have their place; the point is that they are not specific hallmarks
+of critical thinking.
+   It is not so much what is in the assessment criteria that begs the question of whether this is
+indeed a course in critical thinking, but what is not there. The coverage of established critical think-
+ing skills is fair, but it is missing some of the more creative learning behaviours involving conjec-
+ture, hypothesis testing, inference and likelihood thinking or developing criteria for evaluation.
+Furthermore, the assessment criteria do not call for critiquing skills such as checking information
+for accuracy or evaluating the credibility of sources of information, which is not surprising given
+that the assessed task is an essay and not a commentary. The emphasis is primarily on analogic
+thinking (connections and relations), when a course in critical thinking should offer more scope for
+detailed, critical evaluation of sources, situations and problems that will strengthen students in
+‘deciding what to believe or do’ (Ennis and Weir, 1985, 45).
+
+Summary of critique of the ToK guide
+In the light of this discussion, my critique of the guide and its reference to critical thinking can be
+summarised as follows:
+
+   1.    ToK, which describes itself as a course in critical thinking, is as much, if not more, a course
+         in epistemology. The main thrust of the aims and assessment is not on critical thinking
+         skills but more specifically on understanding of the way that knowledge is constructed. In
+         this sense, the course lacks construct validity.
+   2.    Course Aims 3, 4 and 5 and Assessment Objective 6 are not mirrored in the assessment
+         tasks that have a summative purpose. This indicates a further lack of construct validity, here
+         at the level of assessment design.
+   3.    While the overwhelming emphasis of the essay (a component worth 2/3 of the final
+         mark) is on knowledge questions, their description in the guide is at times cryptic.
+         This obscures the challenge students have to address these ‘general questions about
+         knowledge’ through the quality analysis that is expected for scores at the top end of
+         the scale.
+   4.    The main thrust of the presentation is not so much on critical thinking as on connecting
+         knowledge questions to real-life issues. None of the research mentioned in this article sug-
+         gests that real-life issues are necessary constituents of critical thinking.
+42                                                  Journal of Research in International Education 13(1)
+
+     5.   Many of the creative, active behaviours and thinking processes described in the research on
+          critical thinking are missing from the ToK course: at no point in the aims or assessment are
+          students called upon to make predictions, make inferences, take decisions or solve prob-
+          lems (although, admittedly, problem solving is not recognised by all as a critical thinking
+          strand).
+
+Conclusion
+Higgins warns that there is not much ‘to be gained in using […] frameworks as checklists to ensure
+coverage or compliance with a particular taxonomy’ (Higgins et al., 2003), while Lipman (2003) is
+equally wary of taxonomies. Ennis and Weir (1985) have explained that the assessment of critical
+thinking is problematic, and it is clear that the enterprise is an elusive one that cannot be treated
+entirely through a written curriculum. However, I have argued that the course would be more valid
+in its alignment with research on critical thinking if these modifications were considered and the
+thrust of the course were to go beyond the current emphasis on comparative and interpersonal skills
+into the domains of critical reading, inference, hypothesising and evaluating.
+    The reason I have considered the ToK guide critically and in a fair amount of detail in this article
+is because ToK offers an opportunity to stimulate the type of thinking that is needed when, argua-
+bly, volatility, uncertainty, complexity and ambiguity are more prominent on the world stage than
+they have ever been. Our planet faces diabolically difficult, interrelated problems such as demo-
+graphic and ecological unsustainable exponentials, poverty, a highly problematic globalised econ-
+omy, corruption and, at the same time, unprecedented bursts of progress in technology and science.
+In such a world climate, the educational system that students experience needs to challenge them
+to solve problems, test hypotheses, make plausible inferences, deal with unexpected situations
+swiftly and with few bearings, take difficult decisions and exercise enormous creativity, discern-
+ment and flexibility. We live in an age where learning to learn, learning to live together and learn-
+ing to adapt are paramount. It is not surprising then that critical thinking is held up as an essential
+educational response, and it is important that as many students as possible experience an education
+that values critical thinking. ToK, by describing itself as a course in critical thinking, offers this
+educational route. However, as I have argued in this article, while some strands of critical thinking
+are developed in the course, many are not. I conclude, therefore, with recommendations for the
+next guide revision.
+    I would argue that a more transparent requirement of critical thinking skills implies the use of
+more specific predicates such as those mentioned by researchers (‘making’, ‘generating’, ‘check-
+ing out’, ‘judging’, ‘evaluating’, ‘constructing’, ‘forming’, ‘clarifying’, ‘reasoning’, ‘critiquing’,
+‘assessing’ and so forth). These should be clear in the aims and objectives. In Paulian terms one
+could argue, therefore, that the ToK course’s vocabulary should be more ‘explicit’ and less ‘implicit’
+(Elder, 2010: 6). What this implies is a reshaping of not merely the course guide’s semantics but
+also the types of operational skills upon which students will be evaluated. In the present guide,
+according to the aims, objectives and criteria, the course can be completed mainly through identi-
+fying types of knowledge, comparing ideas across situations and epistemes and reflecting on the
+creation and shaping of knowledge. While these tenets are valuable, the course description should
+allow for more critiquing, conjecture, analysis and informed judgement.
+    This point leads to the one of coverage of critical thinking skills. The assessment is more ‘epi-
+sodic’ than ‘systematic’ in its use of critical thinking skills (Elder, 2010: 6). The concentration of
+substantive skills in one descriptor (quality of analysis in the essay) and comparative dearth in
+other areas (understanding knowledge questions in the essay and showing how ToK concepts can
+have practical application in the presentation) means that students manifesting extremely critical
+Hughes                                                                                                    43
+
+thinking but showing less ability in understanding what the guide means by knowledge questions
+will not be able to score highly. Conversely, students who are able to work with knowledge ques-
+tions and apply ToK to real-life situations could score well, even if the quality of their analysis is
+not strong. Fortunately, however, the global impression marking should prevent such situations.
+Nonetheless, less emphasis on real-life scenarios and knowledge questions with more on analytical
+thinking would surely strengthen the course’s validity.
+   Finally, the active, creative side of critical thinking should feature more prominently in the sub-
+ject if it is to cover critical thinking comprehensively: students should be put in situations where
+they exercise thinking not only to answer essay questions or reflect on how knowledge is con-
+structed but also to suggest solutions to complex problems, test hypotheses and explore likelihood
+and uncertainty (Halpern, 1997), ‘explore implications and consequences’ (Paul, 1990: 56) and, of
+course, work through the ‘creating’ level of Bloom’s taxonomy revisited by Anderson and Krathwohl
+(2001): ‘compose, construct, create, design, develop, formulate, integrate, invent, organize, plan,
+prepare, propose, re-arrange […]’. It is perhaps here that the change would be the most meaningful
+and lead to a course that would not only cover critical thinking in a more balanced manner but also
+stimulate thinking aligned with the challenges and opportunities that we face today.
+
+
+References
+Abrami PC, Bernard RM, Borokhovski E, et al. (2009) Instructional interventions affecting critical thinking
+     skills and dispositions: a stage 1 meta-analysis. Review of Educational Research 78(4): 1102–1134.
+Anderson LW and Krathwohl DR (2001) A Taxonomy for Learning, Teaching and Assessing: A Revision of
+     Bloom’s Taxonomy of Educational Objectives. New York: Longman.
+Bassok M and Holyoak KJ (1993) Pragmatic knowledge and conceptual structure: determinants of transfer
+     between quantitative domains. In: Detterman DK and Sternberg RJ (eds) Transfer on Trial: Intelligence,
+     Cognition and Instruction. Norwood, NJ: Ablex, pp. 68–98.
+Bereiter C and Scardamalia M (1993) Surpassing Ourselves: An Inquiry into the Nature and Implications of
+     Expertise. Chicago, IL: Open Court Publishing Company.
+Biggs JB and Collis KF (1982) Evaluating the Quality of Learning: The Solo Taxonomy. New York: Academic
+     Press.
+Black B (2008) Critical thinking: a definition and taxonomy for Cambridge assessment. Paper presented at
+     34th International Association of Educational Assessment Annual Conference, Cambridge. Available at:
+     http://www.iaea.info/documents/paper_2b711dd1c.pdf
+Bloom H (1956) Taxonomy of Educational Objectives. Handbook 1: Cognitive Domain. New York: Longman.
+Elder L (2010) Richard W Paul: a biographical sketch: foundation for critical thinking. Available at: http://
+     www.criticalthinking.org/ABOUT/Fellow_Richard_Paul.cfm
+Ennis RH (1996) Critical Thinking. New York: Prentice Hall.
+Ennis RH and Weir E (1985) The Ennis-Weir Critical Thinking Essay Test. Pacific Grove, CA: Midwest
+     Publications.
+Ericsson KA (ed.) (1996) The Road to Excellence: The Acquisition of Expert Performance in the Arts and
+     Sciences, Sports, and Game. Mahwah, NJ: Lawrence Erlbaum Associates, Inc.
+Ericsson KA and Smith J (eds) (1991) Toward a General Theory of Expertise: Prospects and Limits.
+     Cambridge: Cambridge University Press.
+Facione PA (1990) Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment
+     and Instruction (Executive Summary, The Delphi Report). Millbrae, CA: California Academic Press.
+Glaser R (1984) Education and thinking: the role of knowledge. American Psychologist 39: 93–104.
+Goleman D (1995) Emotional Intelligence. New York: Bantam.
+Grandy RE (1998) Constructivism and objectivity: disentangling metaphysics from pedagogy. In: Matthews
+     MR (ed.) Constructivism in Science Education. Dordrecht: Kluwer Academic Publishers, pp. 113–123.
+44                                                       Journal of Research in International Education 13(1)
+
+Halpern D (1997) Critical Thinking across the Curriculum: A Brief Edition of Thought and Knowledge.
+     Mahwah, NJ: Lawrence Erlbaum Associates, Inc.
+Halpern D (1999) Teaching for critical thinking: helping college students develop the skills and dispositions
+     of a critical thinker. New Directions for Teaching and Leaning 80(Winter): 69–74.
+Halpern D (2002) Thinking Critically about Critical Thinking. Mahwah, NJ: Lawrence Erlbaum Associates,
+     Inc.
+Higgins S, Miller J and Moseley D (2003) Taxonomies: teaching thinking. Available at: www.teachthinking.
+     com
+International Baccalaureate (IB) (2013a) http://www.ibo.org/diploma/
+International Baccalaureate (IB) (2013b) Theory of Knowledge Guide (Course Guide). Cardiff: IB.
+Iowa Department of Education (2013) Universal constructs: essential for 21st century success. Available at:
+     https://www.educateiowa.gov/pk-12/iowa-core/universal-constructs-essential-21st-century-success
+Jerald CD (2009) Defining a 21st century education. Available at: http://www.cfsd16.org/public/_century/
+     pdf/Defininga21stCenturyEducation_Jerald_2009.pdf
+King PM and Kitchener KS (1994) Developing Reflective Judgment: Understanding and Promoting
+     Intellectual Growth and Critical Thinking in Adolescents and Adults. San Francisco, CA: Jossey-Bass.
+Lave J (1988) Cognition in Practice: Mind, Mathematics and Culture in Everyday Life. Cambridge:
+     Cambridge University Press.
+Lipman M (2003) Thinking in Education, 2nd edn. Cambridge: Cambridge University Press.
+Moseley D, Baumfield V, Elliott J, et al. (2005) Frameworks for Thinking: A Handbook for Teaching and
+     Learning. Cambridge: Cambridge University Press.
+Moseley D, Baumfield V, Higgins S, et al. (2004) Thinking Skill Frameworks for Post-16 Learners: An
+     Evaluation: Learning and Skills Research Centre. Wiltshire: Cromwell Press.
+Newton DP (2012) Teaching for Understanding: What It Is and How to Do It, 2nd edn. Oxford: Routledge.
+Newton DP (2014) Thinking with Feeling: Fostering productive thought in one classroom. Oxford: Routledge.
+Nisbett RE (ed.) (1993) Rules for Reasoning. Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+OECD (2003) The definition and selection of key competencies. Available at: http://www.oecd.org/
+     pisa/35070367.pdf
+Paul R (1990) Critical Thinking: What Every Person Needs to Survive in a Rapidly Changing World. Santa
+     Rosa, CA: Foundation for Critical Thinking.
+Paul R (1992) Critical thinking: what, why and how? New Directions for Community Colleges 20(1): 3–24.
+Paul R (2011) Reflections on the nature of critical thinking, its history, politics, and barriers and on its status
+     across the college/university curriculum part I. Inquiry: Critical Thinking across the Disciplines 26(3):
+     5–24.
+Pellegrino JW, Chudowsky N and Glaser R (2001) Knowing What Students Know: The Science and Design
+     of Educational Assessment. Washington, DC: The National Academies Press.
+Peterson A (1987) Schools across Frontiers. La Salle, IL: Open Court Publishing Company.
+Pintrich PR (2000) The role of goal orientation in self-regulated learning. In: Boekaerts M, Pintrich PR and
+     Zeidner M (eds) Handbook of Self-Regulation. London: Academic Press, pp. 452–494.
+Reber AS (1985) Dictionary of Psychology. London: Penguin Books.
+Ritchhart R and Perkins D (2005) Learning to think: the challenges of teaching thinking. In: Holyoak KJ
+     and Morrison RG (eds) The Cambridge Handbook of Thinking and Reasoning. New York: Cambridge
+     University Press, pp. 775–802.
+Salomon G and Perkins DN (1998) Individual and social aspects of learning. In: Pearson PD and Iran-Nejad
+     A (eds) Review of Research in Education, vol. 23. Washington, DC: AERA, pp. 1–24.
+Scheffler I (1973) Reason and Teaching. Indianapolis, IN: Bobbs-Merrill.
+Schoenfeld AH and Herrmann DJ (1982) Problem perception and knowledge structure in expert and novice
+     mathematical problem solvers. Journal of Experimental Psychology: Learning, Memory, and Cognition
+     8: 484–494.
+Siegel H (1985) Educating reason: critical thinking, informal logic, and the philosophy of education. Part
+     two: philosophical questions underlying education for critical thinking. Informal Logic 7(2–3): 69–81.
+Siegel H (1988) Educating Reason. New York: Routledge.
+Hughes                                                                                                  45
+
+Siegler RS (1976) Three aspects of cognitive development. Cognitive Psychology 8: 481–520.
+Sternberg RJ (1996) Successful Intelligence. New York: Simon and Schuster
+
+Author biography
+Conrad Hughes is Director of Education at the International School of Geneva, where he also teaches Theory
+of Knowledge. He was educated in France, Swaziland and South Africa, holds a PhD in English literature
+from the University of the Witwatersrand and has worked in schools in France, the Netherlands and India. He
+has published articles in academic and educational journals as well as an English textbook, published by
+Pearson, for students pursuing the International Baccalaureate Diploma.
+

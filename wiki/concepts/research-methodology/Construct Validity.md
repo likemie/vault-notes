@@ -39,7 +39,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-06-01
-updated: 2026-06-23
+updated: 2026-08-03
 ---
 # Construct Validity
 
@@ -103,6 +103,9 @@ updated: 2026-06-23
 
 > [!warning] 构念效度的两大威胁
 > 构念效度受两方面威胁：（a）对构念的**不足呈现（under-representation）**——测试太窄，忽略了构念的重要方面。例如一个"数学能力"测试如果只包含计算题而忽略了问题解决和数学推理，就未能充分呈现数学能力的构念；（b）**包含无关因素（inclusion of irrelevancies）**——测试包含了与构念无关的方差来源，如阅读理解能力干扰了数学测试的表现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 225)]]
+
+> [!claim] 课程评估的内部对齐不等于目标构念得到充分表征
+> 课程目标、评估目标和评分描述符可以彼此呼应，却仍然遗漏所声称测量构念的重要部分。2013 年 ToK 指南在知识问题、不同观点、知识领域联系和真实情境应用方面形成内部对齐，但评分描述符没有系统要求批判性阅读、来源评价、推论、假设检验、不确定性判断、决策、问题解决与创造。由此可见，评估设计的[[Construct Validity|构念效度]]需要同时检查内部对齐与外部构念覆盖，不能以前者代替后者。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 38–43)]]
 
 ---
 
