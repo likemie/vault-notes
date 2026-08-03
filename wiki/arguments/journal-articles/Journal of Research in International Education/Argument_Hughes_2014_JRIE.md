@@ -24,10 +24,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Construct Validity]]"
   - "[[Epistemology]]"
-  - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
-  - "[[Assemblage]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -51,9 +49,9 @@ title: "Argument_Hughes_2014_JRIE"
 argument_key: "Argument_Hughes_2014_JRIE"
 argument_display_title: "Theory of Knowledge aims, objectives and assessment criteria: An analysis of critical thinking descriptors"
 argument_kind: "journal-article"
-argument_related_count: 0
+argument_related_count: 13
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: "Journal of Research in International Education"
 book_title: ""
@@ -71,12 +69,12 @@ issuing_organization: ""
 > [[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的[[Theory of Knowledge|知识论]]（Theory of Knowledge，ToK）自称是[[Critical Thinking|批判性思维]]课程，但其课程目标、评估目标与两项评估工具在多大程度上真正覆盖并测量了[[Critical Thinking|批判性思维]][[Construct|构念]]？三层课程文本之间是否形成足以支持[[Construct Validity|构念效度]]的对齐关系？（pp.30–31）
 
 > [!claim] 核心主张
-> ToK 的课程目标、评估目标和评分描述符在知识问题、观点比较与真实情境联系方面具有较强的内部对齐，但它们主要要求学生理解知识如何被建构，更接近[[Epistemology|认识论]]课程。批判性阅读、来源可[[Reliability|信度]]判断、推论、[[Hypothesis|假设]]检验、可能性判断、决策、问题解决和创造等重要思维活动未被充分[[Operationalization|操作化]]，因此课程对批判性思维构念的覆盖不完整，构念效度有限。（pp.36–43）
+> ToK 的课程目标、评估目标和评分描述符在知识问题、观点比较与真实情境联系方面具有较强的内部对齐，但它们主要要求学生理解知识如何被建构，更接近[[Epistemology|认识论]]课程。批判性阅读、来源可信度判断、推论、[[Hypothesis|假设]]检验、可能性判断、决策、问题解决和创造等重要思维活动未被充分[[Operationalization|操作化]]，因此课程对批判性思维构念的覆盖不完整，构念效度有限。（pp.36–43）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2013 年 ToK 指南中的课程目标、评估目标，以及论文和展示两项评估任务的最高等级描述符。（pp.35–40）
 > - **张力** 课程内部的目标与评估可以彼此对齐，却仍可能没有充分覆盖其外部声称培养和测量的批判性思维构念。（pp.40–41）
-> - **贡献** 将批判性思维分类法转化为课程文本审查标准，区分“课程内部对齐”与“对目标构念的充分表征”两种效度问题。（pp.35, 40–43）
+> - **贡献** 将批判性思维分类法转化为课程文本审查标准，分别检验课程内部对齐和目标构念的充分表征。（pp.35, 40–43）
 
 ---
 
@@ -134,17 +132,17 @@ issuing_organization: ""
 > [!claim] 多套框架的重叠部分足以形成审查课程的最低标准
 > [[Critical Thinking|批判性思维]]的定义虽然宽窄不一，但反复指向辨别、分析、判断或评价、解释和论证。理性与理由的权衡、自我调节、开放心态和理解他人构成技能之外的倾向面向；推论、[[Hypothesis|假设]]检验、不确定性判断、决策、问题解决和创造则提示[[Construct|构念]]的主动生成面向。（pp.31–34）
 
-> [!taxonomy] 修订版 Bloom 分类法及行动词
-> | 类别 | 行动词 |
+> [!ref-table] 表 1　Anderson 和 Krathwohl 修订的 Bloom 分类法
+> | 类别 | 原文行动词 |
 > |---|---|
-> | **1 记忆** | 排列、描述、复制、寻找、标记、列举、记忆、命名、排序、识别、关联、回忆、重复、再现、陈述 |
-> | **2 理解** | 分类、定义、讨论、解释、表达、识别、指出、定位、释义、辨认、报告、复述、回顾、选择、翻译 |
-> | **3 应用** | 应用、[[Assemblage\|组装]]、选择、演示、表演、运用、举例、解释、管理、操作、练习、安排、勾画、解决、使用、写作 |
-> | **4 分析** | 分析、评价、计算、归类、比较、对照、得出结论、批评、演绎、区分、辨别、考察、实验、质疑、预测、检验 |
-> | **5 评价** | 评价、论证、评估、联系、选择、比较、辩护、估计、判断、预测、排序、评级、计分、选择、支持、重视、评价 |
-> | **6 创造** | 组成、建构、创造、设计、开发、形成、整合、发明、组织、规划、准备、提出、重组、建立、写作 |
->
-> 表 1 复刻自原文，前三类偏向接收和运用，后三类更直接呈现高阶及批判性思维活动。（pp.33–34）
+> | **1 Remembering（记忆）** | Arrange, describe, duplicate, find, label, list, memorise, name, order, recognise, relate, recall, repeat, reproduce, state |
+> | **2 Understanding（理解）** | Classify, define, discuss, explain, express, identify, indicate, locate, paraphrase, recognise, report, restate, review, select, translate |
+> | **3 Applying（应用）** | Apply, assemble, choose, demonstrate, dramatise, employ, illustrate, interpret, manage, operate, practice, schedule, sketch, solve, use, write |
+> | **4 Analysing（分析）** | Analyse, appraise, calculate, categorise, compare, contrast, conclude, criticise, deduce, differentiate, discriminate, distinguish, examine, experiment, question, predict, test |
+> | **5 Evaluating（评价）** | Appraise, argue, assess, attach, choose, compare, defend, estimate, judge, predict, rank, rate, core [sic], select, support, value, evaluate |
+> | **6 Creating（创造）** | Compose, construct, create, design, develop, formulate, integrate, invent, organise, plan, prepare, propose, re-arrange, set up, write |
+
+表 1 的行动词按原文保留英文，以便与 ToK 指南的英文命令词直接对照。原表在 Evaluating 行印作 `core`，此处以 `[sic]` 标明。前三类偏向接收和运用，后三类更直接呈现高阶及批判性思维活动。（pp.33–34）
 
 > [!warrant]- 为什么不能机械使用分类法
 > 命令词本身不能证明思维质量，因为倾向、视角和具体语境会改变同一动作的认知意义；不同框架也会对问题解决与创造是否属于批判性思维给出相反判断。因此，分类法适合作为结构覆盖的诊断工具，不宜被当成合规清单。（pp.34–35）
@@ -154,7 +152,7 @@ issuing_organization: ""
 ### 二　ToK 的课程身份在批判性思维与认识论之间发生偏移
 
 > [!claim] 课程标签强调批判性思维，课程结构却主要组织知识建构问题
-> ToK 将知识主张、知识问题、八种[[Ways of Knowing|认知方式]]和八个[[Areas of Knowledge|知识领域]]组织为课程主干，关注个人知识与共享知识如何形成。指南六次使用“批判性思维”描述课程，却没有使用“[[Epistemology|认识论]]”一词；实际课程内容侧重知识如何被建构，较少直接要求问题解决、批判或评价，因而呈现标签与课程重心之间的错位。（pp.35–37）
+> ToK 将知识主张、知识问题、八种[[Ways of Knowing|认知方式]]和八个[[Areas of Knowledge|知识领域]]组织为课程主干，关注个人知识与共享知识如何形成。指南六次以批判性思维描述课程，同时没有使用[[Epistemology|认识论]]一词。实际课程内容侧重知识如何被建构，较少直接要求问题解决、批判或评价，课程标签与内容重心因而出现错位。（pp.35–37）
 
 > [!chain-link] 从课程结构到身份判断
 > - **课程材料** 知识问题被规定为论文与展示任务的核心，认知方式和知识领域提供分析知识建构的分类框架。（pp.35–36）
@@ -170,7 +168,7 @@ issuing_organization: ""
 > 五项课程目标中的三项直接提到批判性立场或反思，另两项涉及文化开放、责任和行动；然而它们使用的主要命令词是建立联系、形成意识、产生兴趣、批判性反思和理解。主动的假设检验、概率判断、决策、问题解决、创造、预测与推论没有进入课程目标。（p.37）
 
 > [!claim] 七项评估目标比课程目标更明确，却仍只覆盖窄幅技能
-> 分析论证依据、形成并评价知识问题，以及理解不同观点，直接对应批判性思维；考察、理解和探索等其余要求更接近调查。来源可[[Reliability|信度]]评价、避免过度概括、生成解决方案、批判性阅读和倾听等能力没有被[[Operationalization|操作化]]。（pp.37–38）
+> 分析论证依据、形成并评价知识问题，以及理解不同观点，直接对应批判性思维；考察、理解和探索等其余要求更接近调查。来源可信度评价、避免过度概括、生成解决方案、批判性阅读和倾听等能力没有被[[Operationalization|操作化]]。（pp.37–38）
 
 > [!warrant]- 从命令词到覆盖判断
 > 若课程声称培养完整的批判性思维，仅要求学生接收、理解和连接知识不足以代表该构念。命令词的分布持续偏向分析知识建构而非主动生成、判断与行动，这构成构念不足呈现的第一层证据。（pp.37–38）
@@ -180,31 +178,31 @@ issuing_organization: ""
 ### 四　两项评估工具与部分目标对齐，但最高等级描述符仍未覆盖关键目标
 
 > [!claim] 论文与展示可以测到论证、观点比较和现实联系，却不能完整承载课程目标
-> 规定题目写作任务要求回答跨学科知识问题，展示任务要求从真实情境提出并探索知识问题。两项任务采用整体印象评分，各为 10 分，写作任务分数加倍后占总分三分之二。最高等级描述符重视持续聚焦、清晰论证、不同观点、反主张、评价和推论，但课程目标 3、4、5 以及评估目标 6 中“联系自身观点”的要求没有在评分描述符中出现。（pp.38–41）
+> 规定题目写作任务要求回答跨学科知识问题，展示任务要求从真实情境提出并探索知识问题。两项任务采用整体印象评分，各为 10 分，写作任务分数加倍后占总分三分之二。最高等级描述符重视持续聚焦、清晰论证、不同观点、反主张、评价和推论，但没有纳入课程目标 3、4、5 及评估目标 6 所要求的个人观点联系。（pp.38–41）
 
-> [!contrast-table] 表 2　规定题目论文的最高等级描述符
-> | 对知识问题的理解 | 知识问题的分析质量 | 可能特征 |
+> [!ref-table] 表 2　Essay on a prescribed title
+> | Understanding<br>knowledge questions | Quality of analysis of<br>knowledge questions | Some possible<br>characteristics |
 > |---|---|---|
-> | 持续聚焦于与规定题目相关且选择恰当的知识问题；从不同观点展开探究，并有效联系知识领域和／或认知方式 | 论证清晰，有真实生活实例支持且得到有效评价；广泛探讨反主张；推出相应含义 | 有说服力、成熟、明辨、个性化、清晰、富有洞见、引人信服 |
->
-> 复刻自原文所引 IB (2013b, p. 62)。（p.40）
+> | There is a sustained focus on knowledge questions connected to the prescribed title and are [sic] well chosen - developed with investigation of different perspectives and linked effectively to areas of knowledge and/or ways of knowing. | Arguments are clear, supported by real-life examples and are effectively evaluated; counterclaims are extensively explored; implications are drawn. | Cogent, accomplished, discerning, individual, lucid, insightful, compelling. |
 
-> [!contrast-table] 表 3　展示任务的最高等级描述符
-> | ToK 概念是否得到实际应用 | 可能特征 |
+**表 2 中文解读** 持续聚焦于与规定题目相关且选择恰当的知识问题，从不同观点展开探究，并有效联系知识领域和／或认知方式；论证应清晰、有真实生活实例支持并得到有效评价，广泛探讨反主张并推出相应含义。可能特征包括有说服力、成熟、明辨、个性化、清晰、富有洞见和引人信服。复刻自原文所引 IB (2013b, p. 62)。（p.40）
+
+> [!ref-table] 表 3　Presentation
+> | Do(es) the presenter(s) succeed<br>in showing how ToK concepts can have<br>practical application? | Some possible<br>characteristics |
 > |---|---|
-> | 聚焦于表述良好且与明确真实情境清楚相连的知识问题；在真实情境中有效探索该问题，使用有说服力的论证并考察不同观点；分析结果对所选情境及其他情境的重要性得到说明 | 老练、明辨、富有洞见、引人信服、清晰 |
->
-> 复刻自原文所引 IB (2013b, p. 64)。（p.40）
+> | The presentation is focused on a well-formulated knowledge question that is clearly connected to a specified real-life situation. The knowledge question is effectively explored in the context of the real-life situation, using convincing arguments, with investigation of different perspectives. The outcomes of the analysis are shown to be significant to the chosen real-life situation and to others. | Sophisticated, discerning, insightful, compelling, lucid. |
+
+**表 3 中文解读** 展示聚焦于表述良好且与明确真实情境清楚相连的知识问题，在真实情境中以有说服力的论证和不同观点有效探索该问题，并说明分析结果对所选情境及其他情境的重要性。可能特征包括老练、明辨、富有洞见、引人信服和清晰。复刻自原文所引 IB (2013b, p. 64)。（p.40）
 
 > [!warrant]- 内部对齐为何仍不足以证明构念效度
-> 评分描述符确实呼应了真实情境、知识问题、不同观点和知识领域联系，因此能支持部分内部对齐判断；但长期倾向、文化意识、个人立场、责任与行动没有进入评分证据。目标层写入某种价值，并不等于评估层已测量该价值。（pp.40–41）
+> 评分描述符呼应了真实情境、知识问题、不同观点和知识领域联系，因此支持部分内部对齐判断。长期倾向、文化意识、个人立场、责任与行动没有进入评分证据。目标陈述只能说明课程的价值取向，评估层还需提供相应的可观察证据。（pp.40–41）
 
 ---
 
 ### 五　评估设计对批判性思维的操作化过窄
 
 > [!claim] 真实情境与知识问题占据中心位置，排挤了更具辨识度的批判性思维活动
-> 评分标准大量要求选择得当、形成、持续聚焦、有效联系、发展、调查和探索；分析、评价、推出含义、考虑反主张与构建有说服力的论证出现较少。“成熟”“引人信服”等词描述一般性高质量表现，却不是批判性思维的专属标志。课程将类比联系和现实应用置于中心，也没有证明真实情境是批判性思维的[[Necessary and Sufficient Conditions|必要条件]]。（pp.39–41）
+> 评分标准大量要求选择得当、形成、持续聚焦、有效联系、发展、调查和探索；分析、评价、推出含义、考虑反主张与构建有说服力的论证出现较少。成熟和引人信服等词描述一般性高质量表现，对批判性思维的区分度有限。课程将类比联系和现实应用置于中心，也没有证明真实情境是批判性思维的[[Necessary and Sufficient Conditions|必要条件]]。（pp.39–41）
 
 > [!chain-link] 从遗漏项到效度结论
 > - **构念遗漏** 评分标准没有要求预测、推论、假设检验、不确定性判断、决策、问题解决、创造、核查信息准确性或评价来源可信度。（pp.41–42）
@@ -213,7 +211,7 @@ issuing_organization: ""
 > - **效度判断** ToK 对若干批判性思维分支形成有效操作化，却没有系统代表整个构念，因此其构念效度有限。（pp.41–43）
 
 > [!implication]- 课程修订方向
-> 目标、评估目标与描述符应明确使用生成、核查、判断、评价、建构、澄清、推理、批判和评估等动作词，并增加批判性阅读、推论、假设检验、概率与不确定性、复杂问题解决和创造任务。课程仍可保留知识问题与真实情境，但不应让它们替代分析性思维本身。（pp.42–43）
+> 目标、评估目标与描述符应明确使用生成、核查、判断、评价、建构、澄清、推理、批判和评估等动作词，并增加批判性阅读、推论、假设检验、概率与不确定性、复杂问题解决和创造任务。知识问题与真实情境可继续作为任务背景，分析性思维应成为评分的直接对象。（pp.42–43）
 
 ---
 
