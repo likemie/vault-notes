@@ -200,19 +200,19 @@ issuing_organization: ""
 > [!claim] 论文与展示可以测到论证、观点比较和现实联系，却不能完整承载课程目标
 > 规定题目写作任务要求回答跨学科知识问题，展示任务要求从真实情境提出并探索知识问题。两项任务采用整体印象评分，各为 10 分，写作任务分数加倍后占总分三分之二。最高等级描述符重视持续聚焦、清晰论证、不同观点、反主张、评价和推论，但没有纳入课程目标 3、4、5 及评估目标 6 所要求的个人观点联系。（pp.38–41）
 
-> [!ref-table] 表 2　规定题目论文（Essay on a prescribed title）
-> | 对知识问题的理解<br>Understanding knowledge questions | 知识问题的分析质量<br>Quality of analysis of knowledge questions | 可能呈现的特征<br>Some possible characteristics |
+> [!ref-table] 表 2　规定题目论文
+> | 对知识问题的理解 | 知识问题的分析质量 | 可能呈现的特征 |
 > |---|---|---|
-> | 全文持续聚焦于与规定题目相关且选择恰当的知识问题，通过考察不同观点展开讨论，并有效联系知识领域和／或认知方式。<br>There is a sustained focus on knowledge questions connected to the prescribed title and are [sic] well chosen - developed with investigation of different perspectives and linked effectively to areas of knowledge and/or ways of knowing. | 论证清晰，有真实生活实例支持并得到有效评价；反主张得到广泛探讨；能够推出相应含义。<br>Arguments are clear, supported by real-life examples and are effectively evaluated; counterclaims are extensively explored; implications are drawn. | 连贯有力、娴熟、明辨、具有个人特色、清晰、富有洞见、令人信服。<br>Cogent, accomplished, discerning, individual, lucid, insightful, compelling. |
+> | 全文持续聚焦于与规定题目相关且选择恰当的知识问题，通过考察不同观点展开讨论，并有效联系知识领域和／或认知方式。 | 论证清晰，有真实生活实例支持并得到有效评价；反主张得到广泛探讨；能够推出相应含义。 | 连贯有力、娴熟、明辨、具有个人特色、清晰、富有洞见、令人信服。 |
 
-表 2 的翻译保留了描述符的评价强度和层次。表格复刻自原文所引 IB (2013b, p. 62)。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 40)]]
+来源：IB (2013b, p. 62)，转引自 [[Argument_Hughes_2014_JRIE|Hughes (2014, p. 40)]]。
 
-> [!ref-table] 表 3　展示（Presentation）
-> | 展示者是否成功说明 ToK 概念如何实际应用？<br>Do(es) the presenter(s) succeed in showing how ToK concepts can have practical application? | 可能呈现的特征<br>Some possible characteristics |
+> [!ref-table] 表 3　展示
+> | 展示者是否成功说明 ToK 概念如何实际应用？ | 可能呈现的特征 |
 > |---|---|
-> | 展示聚焦于一个表述良好、与特定真实生活情境清楚相连的知识问题。在该真实情境中，展示运用有说服力的论证并考察不同观点，对知识问题进行有效探究。分析结果对所选真实情境及其他情境的重要性得到清楚说明。<br>The presentation is focused on a well-formulated knowledge question that is clearly connected to a specified real-life situation. The knowledge question is effectively explored in the context of the real-life situation, using convincing arguments, with investigation of different perspectives. The outcomes of the analysis are shown to be significant to the chosen real-life situation and to others. | 成熟、明辨、富有洞见、令人信服、清晰。<br>Sophisticated, discerning, insightful, compelling, lucid. |
+> | 展示聚焦于一个表述良好、与特定真实生活情境清楚相连的知识问题。在该真实情境中，展示运用有说服力的论证并考察不同观点，对知识问题进行有效探究。分析结果对所选真实情境及其他情境的重要性得到清楚说明。 | 成熟、明辨、富有洞见、令人信服、清晰。 |
 
-表 3 的翻译保留了描述符对知识问题、真实情境、论证与多元观点的要求。表格复刻自原文所引 IB (2013b, p. 64)。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 40)]]
+来源：IB (2013b, p. 64)，转引自 [[Argument_Hughes_2014_JRIE|Hughes (2014, p. 40)]]。
 
 > [!warrant]- 内部对齐为何仍不足以证明构念效度
 > 评分描述符呼应了真实情境、知识问题、不同观点和知识领域联系，因此支持部分内部对齐判断。长期倾向、文化意识、个人立场、责任与行动没有进入评分证据。目标陈述只能说明课程的价值取向，评估层还需提供相应的可观察证据。（pp.40–41）
