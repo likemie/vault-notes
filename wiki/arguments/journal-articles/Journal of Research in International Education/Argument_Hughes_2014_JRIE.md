@@ -61,6 +61,8 @@ issuing_organization: ""
 ---
 # Argument_Hughes_2014_JRIE
 
+**中文题名：**《知识论的宗旨、目标与评估标准：批判性思维描述符分析》
+
 ---
 
 ## 研究问题
@@ -99,8 +101,8 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **课程文献分析**<br>[[Documentary Analysis]] | 以 2013 年 ToK 指南中的五项课程目标、七项评估目标、论文与展示任务说明，以及两项任务的最高等级评分描述符为文本材料。（pp.35–40） |
-> | **术语与描述符对齐**<br>Qualitative descriptor alignment | 从 Facione、Halpern、Paul、Black 和修订版 Bloom 分类法提取反复出现的[[Critical Thinking\|批判性思维]]词汇和命令词，再比较指南各层是否使用相应术语，并检查课程目标、评估目标和评分标准之间的对齐。（p.35） |
-> | **效度判断**<br>Construct-validity review | 一方面判断三层课程文本能否彼此呼应，另一方面判断评估设计是否覆盖 ToK 所声称测量的批判性思维[[Construct\|构念]]。（pp.35, 38–41） |
+> | **术语与描述符对齐**<br>质性描述符对齐（qualitative descriptor alignment） | 从 Facione、Halpern、Paul、Black 和修订版 Bloom 分类法提取反复出现的[[Critical Thinking\|批判性思维]]词汇和命令词，再比较指南各层是否使用相应术语，并检查课程目标、评估目标和评分标准之间的对齐。（p.35） |
+> | **效度判断**<br>构念效度审查（construct-validity review） | 一方面判断三层课程文本能否彼此呼应，另一方面判断评估设计是否覆盖 ToK 所声称测量的批判性思维[[Construct\|构念]]。（pp.35, 38–41） |
 
 > [!sample-panel]- 材料与推断边界
 > | 材料层面 | 构成 |
@@ -133,16 +135,16 @@ issuing_organization: ""
 > [[Critical Thinking|批判性思维]]的定义虽然宽窄不一，但反复指向辨别、分析、判断或评价、解释和论证。理性与理由的权衡、自我调节、开放心态和理解他人构成技能之外的倾向面向；推论、[[Hypothesis|假设]]检验、不确定性判断、决策、问题解决和创造则提示[[Construct|构念]]的主动生成面向。（pp.31–34）
 
 > [!ref-table] 表 1　Anderson 和 Krathwohl 修订的 Bloom 分类法
-> | 类别 | 原文行动词 |
+> | 类别 | 中文译义与英文原文 |
 > |---|---|
-> | **1 Remembering（记忆）** | Arrange, describe, duplicate, find, label, list, memorise, name, order, recognise, relate, recall, repeat, reproduce, state |
-> | **2 Understanding（理解）** | Classify, define, discuss, explain, express, identify, indicate, locate, paraphrase, recognise, report, restate, review, select, translate |
-> | **3 Applying（应用）** | Apply, assemble, choose, demonstrate, dramatise, employ, illustrate, interpret, manage, operate, practice, schedule, sketch, solve, use, write |
-> | **4 Analysing（分析）** | Analyse, appraise, calculate, categorise, compare, contrast, conclude, criticise, deduce, differentiate, discriminate, distinguish, examine, experiment, question, predict, test |
-> | **5 Evaluating（评价）** | Appraise, argue, assess, attach, choose, compare, defend, estimate, judge, predict, rank, rate, core [sic], select, support, value, evaluate |
-> | **6 Creating（创造）** | Compose, construct, create, design, develop, formulate, integrate, invent, organise, plan, prepare, propose, re-arrange, set up, write |
+> | **1 记忆（Remembering）** | **中文：**排列、描述、复制、找出、标注、列举、记忆、命名、排序、识别、联系、回忆、重复、再现、陈述。<br>**原文：**Arrange, describe, duplicate, find, label, list, memorise, name, order, recognise, relate, recall, repeat, reproduce, state. |
+> | **2 理解（Understanding）** | **中文：**分类、定义、讨论、解释、表达、辨认、指明、定位、改述、识别、报告、重述、回顾、选择、翻译。<br>**原文：**Classify, define, discuss, explain, express, identify, indicate, locate, paraphrase, recognise, report, restate, review, select, translate. |
+> | **3 应用（Applying）** | **中文：**应用、组合、选择、展示、戏剧化呈现、运用、举例说明、阐释、管理、操作、实践、安排、勾勒、解决、使用、写作。<br>**原文：**Apply, assemble, choose, demonstrate, dramatise, employ, illustrate, interpret, manage, operate, practice, schedule, sketch, solve, use, write. |
+> | **4 分析（Analysing）** | **中文：**分析、评定、计算、分类、比较、对照、得出结论、批判、推演、区分、辨别、辨明、审查、实验、质疑、预测、检验。<br>**原文：**Analyse, appraise, calculate, categorise, compare, contrast, conclude, criticise, deduce, differentiate, discriminate, distinguish, examine, experiment, question, predict, test. |
+> | **5 评价（Evaluating）** | **中文：**评定、论证、评估、附加、选择、比较、辩护、估计、判断、预测、排序、评级、`core`〔原文如此，可能应为 `score`，即评分〕、选择、支持、衡量价值、评价。<br>**原文：**Appraise, argue, assess, attach, choose, compare, defend, estimate, judge, predict, rank, rate, core [sic], select, support, value, evaluate. |
+> | **6 创造（Creating）** | **中文：**创作、建构、创造、设计、开发、形成、整合、发明、组织、规划、准备、提出、重新排列、建立、写作。<br>**原文：**Compose, construct, create, design, develop, formulate, integrate, invent, organise, plan, prepare, propose, re-arrange, set up, write. |
 
-表 1 的行动词按原文保留英文，以便与 ToK 指南的英文命令词直接对照。原表在 Evaluating 行印作 `core`，此处以 `[sic]` 标明。前三类偏向接收和运用，后三类更直接呈现高阶及批判性思维活动。（pp.33–34）
+表 1 为每个英文行动词补充了中文译义，同时保留原文，以便与 ToK 指南的英文命令词直接对照。原表在评价（Evaluating）一行印作 `core`，此处以 `[sic]` 标明，并注明其可能是 `score` 的排印错误。前三类偏向接收和运用，后三类更直接呈现高阶及批判性思维活动。（pp.33–34）
 
 > [!warrant]- 为什么不能机械使用分类法
 > 命令词本身不能证明思维质量，因为倾向、视角和具体语境会改变同一动作的认知意义；不同框架也会对问题解决与创造是否属于批判性思维给出相反判断。因此，分类法适合作为结构覆盖的诊断工具，不宜被当成合规清单。（pp.34–35）
@@ -180,19 +182,19 @@ issuing_organization: ""
 > [!claim] 论文与展示可以测到论证、观点比较和现实联系，却不能完整承载课程目标
 > 规定题目写作任务要求回答跨学科知识问题，展示任务要求从真实情境提出并探索知识问题。两项任务采用整体印象评分，各为 10 分，写作任务分数加倍后占总分三分之二。最高等级描述符重视持续聚焦、清晰论证、不同观点、反主张、评价和推论，但没有纳入课程目标 3、4、5 及评估目标 6 所要求的个人观点联系。（pp.38–41）
 
-> [!ref-table] 表 2　Essay on a prescribed title
-> | Understanding<br>knowledge questions | Quality of analysis of<br>knowledge questions | Some possible<br>characteristics |
+> [!ref-table] 表 2　规定题目论文（Essay on a prescribed title）
+> | 对知识问题的理解<br>Understanding knowledge questions | 知识问题的分析质量<br>Quality of analysis of knowledge questions | 可能呈现的特征<br>Some possible characteristics |
 > |---|---|---|
-> | There is a sustained focus on knowledge questions connected to the prescribed title and are [sic] well chosen - developed with investigation of different perspectives and linked effectively to areas of knowledge and/or ways of knowing. | Arguments are clear, supported by real-life examples and are effectively evaluated; counterclaims are extensively explored; implications are drawn. | Cogent, accomplished, discerning, individual, lucid, insightful, compelling. |
+> | **中文：**全文持续聚焦于与规定题目相关且选择恰当的知识问题，通过考察不同观点展开讨论，并有效联系知识领域和／或认知方式。<br>**原文：**There is a sustained focus on knowledge questions connected to the prescribed title and are [sic] well chosen - developed with investigation of different perspectives and linked effectively to areas of knowledge and/or ways of knowing. | **中文：**论证清晰，有真实生活实例支持并得到有效评价；反主张得到广泛探讨；能够推出相应含义。<br>**原文：**Arguments are clear, supported by real-life examples and are effectively evaluated; counterclaims are extensively explored; implications are drawn. | **中文：**连贯有力、娴熟、明辨、具有个人特色、清晰、富有洞见、令人信服。<br>**原文：**Cogent, accomplished, discerning, individual, lucid, insightful, compelling. |
 
-**表 2 中文解读** 持续聚焦于与规定题目相关且选择恰当的知识问题，从不同观点展开探究，并有效联系知识领域和／或认知方式；论证应清晰、有真实生活实例支持并得到有效评价，广泛探讨反主张并推出相应含义。可能特征包括有说服力、成熟、明辨、个性化、清晰、富有洞见和引人信服。复刻自原文所引 IB (2013b, p. 62)。（p.40）
+表 2 的翻译保留了描述符的评价强度和层次。表格复刻自原文所引 IB (2013b, p. 62)。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 40)]]
 
-> [!ref-table] 表 3　Presentation
-> | Do(es) the presenter(s) succeed<br>in showing how ToK concepts can have<br>practical application? | Some possible<br>characteristics |
+> [!ref-table] 表 3　展示（Presentation）
+> | 展示者是否成功说明 ToK 概念如何实际应用？<br>Do(es) the presenter(s) succeed in showing how ToK concepts can have practical application? | 可能呈现的特征<br>Some possible characteristics |
 > |---|---|
-> | The presentation is focused on a well-formulated knowledge question that is clearly connected to a specified real-life situation. The knowledge question is effectively explored in the context of the real-life situation, using convincing arguments, with investigation of different perspectives. The outcomes of the analysis are shown to be significant to the chosen real-life situation and to others. | Sophisticated, discerning, insightful, compelling, lucid. |
+> | **中文：**展示聚焦于一个表述良好、与特定真实生活情境清楚相连的知识问题。在该真实情境中，展示运用有说服力的论证并考察不同观点，对知识问题进行有效探究。分析结果对所选真实情境及其他情境的重要性得到清楚说明。<br>**原文：**The presentation is focused on a well-formulated knowledge question that is clearly connected to a specified real-life situation. The knowledge question is effectively explored in the context of the real-life situation, using convincing arguments, with investigation of different perspectives. The outcomes of the analysis are shown to be significant to the chosen real-life situation and to others. | **中文：**成熟、明辨、富有洞见、令人信服、清晰。<br>**原文：**Sophisticated, discerning, insightful, compelling, lucid. |
 
-**表 3 中文解读** 展示聚焦于表述良好且与明确真实情境清楚相连的知识问题，在真实情境中以有说服力的论证和不同观点有效探索该问题，并说明分析结果对所选情境及其他情境的重要性。可能特征包括老练、明辨、富有洞见、引人信服和清晰。复刻自原文所引 IB (2013b, p. 64)。（p.40）
+表 3 的翻译保留了描述符对知识问题、真实情境、论证与多元观点的要求。表格复刻自原文所引 IB (2013b, p. 64)。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 40)]]
 
 > [!warrant]- 内部对齐为何仍不足以证明构念效度
 > 评分描述符呼应了真实情境、知识问题、不同观点和知识领域联系，因此支持部分内部对齐判断。长期倾向、文化意识、个人立场、责任与行动没有进入评分证据。目标陈述只能说明课程的价值取向，评估层还需提供相应的可观察证据。（pp.40–41）
