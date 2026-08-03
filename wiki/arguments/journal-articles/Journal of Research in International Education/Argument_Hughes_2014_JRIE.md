@@ -135,16 +135,14 @@ issuing_organization: ""
 > [[Critical Thinking|批判性思维]]的定义虽然宽窄不一，但反复指向辨别、分析、判断或评价、解释和论证。理性与理由的权衡、自我调节、开放心态和理解他人构成技能之外的倾向面向；推论、[[Hypothesis|假设]]检验、不确定性判断、决策、问题解决和创造则提示[[Construct|构念]]的主动生成面向。（pp.31–34）
 
 > [!ref-table] 表 1　Anderson 和 Krathwohl 修订的 Bloom 分类法
-> | 类别 | 中文译义与英文原文 |
+> | 类别 | 行动词（中英对照） |
 > |---|---|
-> | **1 记忆（Remembering）** | **中文：**排列、描述、复制、找出、标注、列举、记忆、命名、排序、识别、联系、回忆、重复、再现、陈述。<br>**原文：**Arrange, describe, duplicate, find, label, list, memorise, name, order, recognise, relate, recall, repeat, reproduce, state. |
-> | **2 理解（Understanding）** | **中文：**分类、定义、讨论、解释、表达、辨认、指明、定位、改述、识别、报告、重述、回顾、选择、翻译。<br>**原文：**Classify, define, discuss, explain, express, identify, indicate, locate, paraphrase, recognise, report, restate, review, select, translate. |
-> | **3 应用（Applying）** | **中文：**应用、组合、选择、展示、戏剧化呈现、运用、举例说明、阐释、管理、操作、实践、安排、勾勒、解决、使用、写作。<br>**原文：**Apply, assemble, choose, demonstrate, dramatise, employ, illustrate, interpret, manage, operate, practice, schedule, sketch, solve, use, write. |
-> | **4 分析（Analysing）** | **中文：**分析、评定、计算、分类、比较、对照、得出结论、批判、推演、区分、辨别、辨明、审查、实验、质疑、预测、检验。<br>**原文：**Analyse, appraise, calculate, categorise, compare, contrast, conclude, criticise, deduce, differentiate, discriminate, distinguish, examine, experiment, question, predict, test. |
-> | **5 评价（Evaluating）** | **中文：**评定、论证、评估、附加、选择、比较、辩护、估计、判断、预测、排序、评级、`core`〔原文如此，可能应为 `score`，即评分〕、选择、支持、衡量价值、评价。<br>**原文：**Appraise, argue, assess, attach, choose, compare, defend, estimate, judge, predict, rank, rate, core [sic], select, support, value, evaluate. |
-> | **6 创造（Creating）** | **中文：**创作、建构、创造、设计、开发、形成、整合、发明、组织、规划、准备、提出、重新排列、建立、写作。<br>**原文：**Compose, construct, create, design, develop, formulate, integrate, invent, organise, plan, prepare, propose, re-arrange, set up, write. |
-
-表 1 为每个英文行动词补充了中文译义，同时保留原文，以便与 ToK 指南的英文命令词直接对照。原表在评价（Evaluating）一行印作 `core`，此处以 `[sic]` 标明，并注明其可能是 `score` 的排印错误。前三类偏向接收和运用，后三类更直接呈现高阶及批判性思维活动。（pp.33–34）
+> | **1 记忆（Remembering）** | 排列、描述、复制、找出、标注、列举、记忆、命名、排序、识别、联系、回忆、重复、再现、陈述。<br>Arrange, describe, duplicate, find, label, list, memorise, name, order, recognise, relate, recall, repeat, reproduce, state. |
+> | **2 理解（Understanding）** | 分类、定义、讨论、解释、表达、辨认、指明、定位、改述、识别、报告、重述、回顾、选择、翻译。<br>Classify, define, discuss, explain, express, identify, indicate, locate, paraphrase, recognise, report, restate, review, select, translate. |
+> | **3 应用（Applying）** | 应用、组合、选择、展示、戏剧化呈现、运用、举例说明、阐释、管理、操作、实践、安排、勾勒、解决、使用、写作。<br>Apply, assemble, choose, demonstrate, dramatise, employ, illustrate, interpret, manage, operate, practice, schedule, sketch, solve, use, write. |
+> | **4 分析（Analysing）** | 分析、评定、计算、分类、比较、对照、得出结论、批判、推演、区分、辨别、辨明、审查、实验、质疑、预测、检验。<br>Analyse, appraise, calculate, categorise, compare, contrast, conclude, criticise, deduce, differentiate, discriminate, distinguish, examine, experiment, question, predict, test. |
+> | **5 评价（Evaluating）** | 评定、论证、评估、附加、选择、比较、辩护、估计、判断、预测、排序、评级、评分、选择、支持、衡量价值、评价。<br>Appraise, argue, assess, attach, choose, compare, defend, estimate, judge, predict, rank, rate, score, select, support, value, evaluate. |
+> | **6 创造（Creating）** | 创作、建构、创造、设计、开发、形成、整合、发明、组织、规划、准备、提出、重新排列、建立、写作。<br>Compose, construct, create, design, develop, formulate, integrate, invent, organise, plan, prepare, propose, re-arrange, set up, write. |
 
 > [!warrant]- 为什么不能机械使用分类法
 > 命令词本身不能证明思维质量，因为倾向、视角和具体语境会改变同一动作的认知意义；不同框架也会对问题解决与创造是否属于批判性思维给出相反判断。因此，分类法适合作为结构覆盖的诊断工具，不宜被当成合规清单。（pp.34–35）
@@ -152,6 +150,26 @@ issuing_organization: ""
 ---
 
 ### 二　ToK 的课程身份在批判性思维与认识论之间发生偏移
+
+[[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–36)]] 将 2013 年 ToK 指南的课程结构概括为四个大纲部分，并说明这些部分如何进入论文和展示两项评估任务。
+
+> [!ref-table] 2013 年 ToK 指南的课程结构
+> | 层级 | 组成 | 内容与功能 |
+> |---|---|---|
+> | **课程定位** | IBDP 核心课程，至少 100 学时 | 运用概念工具分析学生在 DP 学科和校外世界中遇到的具体情境，并与其他 DP 学科相互参照、共享目标。 |
+> | **大纲第一部分** | ToK 中的知识（Knowledge in ToK） | 区分**共享知识**与**个人知识**。共享知识形成于学科和思想传统，个人知识来自个体经验及其认识活动。课程要求在探究和讨论中平衡两者。 |
+> | **大纲第二部分** | 知识主张与知识问题（Knowledge claims and knowledge questions） | 知识主张包括关于世界的主张和关于知识本身的主张，后者构成 ToK 分析的核心。知识问题以开放、一般化的方式讨论知识，涉及模型、因果、解释、反常、归纳、确定性、不确定性与信念等议题。论文和展示都必须处理知识问题。 |
+> | **大纲第三部分** | 八种[[Ways of Knowing\|认知方式]]（Ways of Knowing） | 包括语言、感官知觉、情感、理性、想象、信仰、直觉和记忆。它们是回答我如何知道及我们如何知道的认识工具。 |
+> | **大纲第四部分** | 八个[[Areas of Knowledge\|知识领域]]（Areas of Knowledge） | 包括数学、自然科学、人文科学、历史、艺术、伦理、宗教知识体系和本土知识体系。它们代表人类建构知识的主要领域。 |
+> | **跨领域分析工具** | 知识框架（knowledge framework） | 从范围、动机与应用，专门术语与概念，知识生产方法，关键历史发展，以及与个人知识的互动五个方面考察所选知识领域。 |
+> | **评估输出** | 规定题目论文与展示 | 论文回答跨学科知识问题，可调用课程任一部分及课堂内外形成的观点。展示从具体真实情境中识别并探究知识问题。两项任务共同把知识问题置于课程评估中心。 |
+
+> [!chain-link] 课程结构的运行路径
+> 1. 从 DP 学科或校外世界中的具体情境识别知识主张。
+> 2. 将具体主张转化为开放且较一般化的知识问题。
+> 3. 运用八种认知方式分析知识如何获得、支持和限制。
+> 4. 在一个或多个知识领域中比较知识生产方式，并用知识框架组织比较。
+> 5. 通过论文或展示形成论证，联系不同观点、真实情境与知识领域。
 
 > [!claim] 课程标签强调批判性思维，课程结构却主要组织知识建构问题
 > ToK 将知识主张、知识问题、八种[[Ways of Knowing|认知方式]]和八个[[Areas of Knowledge|知识领域]]组织为课程主干，关注个人知识与共享知识如何形成。指南六次以批判性思维描述课程，同时没有使用[[Epistemology|认识论]]一词。实际课程内容侧重知识如何被建构，较少直接要求问题解决、批判或评价，课程标签与内容重心因而出现错位。（pp.35–37）
@@ -185,14 +203,14 @@ issuing_organization: ""
 > [!ref-table] 表 2　规定题目论文（Essay on a prescribed title）
 > | 对知识问题的理解<br>Understanding knowledge questions | 知识问题的分析质量<br>Quality of analysis of knowledge questions | 可能呈现的特征<br>Some possible characteristics |
 > |---|---|---|
-> | **中文：**全文持续聚焦于与规定题目相关且选择恰当的知识问题，通过考察不同观点展开讨论，并有效联系知识领域和／或认知方式。<br>**原文：**There is a sustained focus on knowledge questions connected to the prescribed title and are [sic] well chosen - developed with investigation of different perspectives and linked effectively to areas of knowledge and/or ways of knowing. | **中文：**论证清晰，有真实生活实例支持并得到有效评价；反主张得到广泛探讨；能够推出相应含义。<br>**原文：**Arguments are clear, supported by real-life examples and are effectively evaluated; counterclaims are extensively explored; implications are drawn. | **中文：**连贯有力、娴熟、明辨、具有个人特色、清晰、富有洞见、令人信服。<br>**原文：**Cogent, accomplished, discerning, individual, lucid, insightful, compelling. |
+> | 全文持续聚焦于与规定题目相关且选择恰当的知识问题，通过考察不同观点展开讨论，并有效联系知识领域和／或认知方式。<br>There is a sustained focus on knowledge questions connected to the prescribed title and are [sic] well chosen - developed with investigation of different perspectives and linked effectively to areas of knowledge and/or ways of knowing. | 论证清晰，有真实生活实例支持并得到有效评价；反主张得到广泛探讨；能够推出相应含义。<br>Arguments are clear, supported by real-life examples and are effectively evaluated; counterclaims are extensively explored; implications are drawn. | 连贯有力、娴熟、明辨、具有个人特色、清晰、富有洞见、令人信服。<br>Cogent, accomplished, discerning, individual, lucid, insightful, compelling. |
 
 表 2 的翻译保留了描述符的评价强度和层次。表格复刻自原文所引 IB (2013b, p. 62)。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 40)]]
 
 > [!ref-table] 表 3　展示（Presentation）
 > | 展示者是否成功说明 ToK 概念如何实际应用？<br>Do(es) the presenter(s) succeed in showing how ToK concepts can have practical application? | 可能呈现的特征<br>Some possible characteristics |
 > |---|---|
-> | **中文：**展示聚焦于一个表述良好、与特定真实生活情境清楚相连的知识问题。在该真实情境中，展示运用有说服力的论证并考察不同观点，对知识问题进行有效探究。分析结果对所选真实情境及其他情境的重要性得到清楚说明。<br>**原文：**The presentation is focused on a well-formulated knowledge question that is clearly connected to a specified real-life situation. The knowledge question is effectively explored in the context of the real-life situation, using convincing arguments, with investigation of different perspectives. The outcomes of the analysis are shown to be significant to the chosen real-life situation and to others. | **中文：**成熟、明辨、富有洞见、令人信服、清晰。<br>**原文：**Sophisticated, discerning, insightful, compelling, lucid. |
+> | 展示聚焦于一个表述良好、与特定真实生活情境清楚相连的知识问题。在该真实情境中，展示运用有说服力的论证并考察不同观点，对知识问题进行有效探究。分析结果对所选真实情境及其他情境的重要性得到清楚说明。<br>The presentation is focused on a well-formulated knowledge question that is clearly connected to a specified real-life situation. The knowledge question is effectively explored in the context of the real-life situation, using convincing arguments, with investigation of different perspectives. The outcomes of the analysis are shown to be significant to the chosen real-life situation and to others. | 成熟、明辨、富有洞见、令人信服、清晰。<br>Sophisticated, discerning, insightful, compelling, lucid. |
 
 表 3 的翻译保留了描述符对知识问题、真实情境、论证与多元观点的要求。表格复刻自原文所引 IB (2013b, p. 64)。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 40)]]
 

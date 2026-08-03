@@ -62,9 +62,9 @@ related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Cole_2005_JRIE]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
-  - "[[Argument_Hughes_2014_JRIE]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
@@ -106,6 +106,20 @@ updated: 2026-08-03
 >   TOK 是国际预科课程体系中少数以显性方式独立教授[[Critical Thinking|批判性思维]]的必修科目，代表了独立课程路径在批判性思维教学中的[[Praxis|实践]]案例。
 > - **双重评分与奖励分机制**
 >   采用校内评估（如口头报告或展演）与校外评估（TOK 论文）双重机制，并与[[Extended Essay|拓展论文]]（EE）组合贡献最多 3 分奖励分。
+
+### Hughes 所分析的 2013 年课程架构
+
+> [!ref-table] 2013 年 ToK 大纲、分析工具与评估
+> | 结构 | 主要内容 | 在课程中的作用 |
+> |---|---|---|
+> | **ToK 中的知识** | 共享知识与个人知识 | 要求学生在学科共同体形成的知识与个人经验形成的知识之间保持平衡。 |
+> | **知识主张与知识问题** | 关于世界的主张、关于知识的主张，以及开放且一般化的知识问题 | 把具体主张转化为对模型、因果、解释、归纳、确定性、不确定性和信念等问题的探究。知识问题是论文与展示的共同核心。 |
+> | **八种[[Ways of Knowing\|认知方式]]** | 语言、感官知觉、情感、理性、想象、信仰、直觉、记忆 | 提供分析我如何知道和我们如何知道的认识工具。 |
+> | **八个[[Areas of Knowledge\|知识领域]]** | 数学、自然科学、人文科学、历史、艺术、伦理、宗教知识体系、本土知识体系 | 提供比较不同知识生产传统、方法和标准的学科场域。 |
+> | **知识框架** | 范围、动机与应用；术语与概念；知识生产方法；历史发展；与个人知识的互动 | 为跨知识领域比较提供统一的分析维度。 |
+> | **评估** | 规定题目论文与基于真实情境的展示 | 论文处理跨学科知识问题，展示从具体真实情境中识别并探究知识问题。 |
+
+该架构属于 Hughes 分析的 2013 年指南。2020 年后的 TOK 已改用核心主题、可选主题、知识框架、论文与知识展演等结构，不应与此版本合并理解。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 35–40)]]
 
 ---
 
