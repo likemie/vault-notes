@@ -941,6 +941,24 @@
     ]
   },
   {
+    "title": "Knowledge Framework",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Knowledge Framework.md",
+    "aliases": [
+      "知识框架",
+      "TOK knowledge framework"
+    ]
+  },
+  {
+    "title": "Knowledge Questions",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Knowledge Questions.md",
+    "aliases": [
+      "知识问题",
+      "TOK knowledge questions"
+    ]
+  },
+  {
     "title": "Knowledge-that and Know-how-to",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Knowledge-that and Know-how-to.md",

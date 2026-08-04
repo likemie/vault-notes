@@ -52,7 +52,8 @@
               "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,9 +222,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "4a27173df321c7e9",
   "lastOpenFiles": [
+    "wiki/facts/global/Stanford Prison Experiment.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md",
+    "wiki/concepts/curriculum/Knowledge Framework.md",
+    "wiki/concepts/curriculum/Knowledge Questions.md",
+    "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
+    "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Hughes_2014_JRIE.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18.md",
@@ -231,11 +237,9 @@
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24.md",
-    "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Hughes_2014_JRIE.md",
     "wiki/concepts/research-methodology/Construct Validity.md",
     "wiki/concepts/curriculum/Self-spectator.md",
     "wiki/concepts/curriculum/Areas of Knowledge.md",
-    "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
     "wiki/methods/qualitative/Documentary Analysis.md",
     "wiki/concepts/curriculum/Ways of Knowing.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md.tmp.28003.fd5aff06b0a5",
@@ -262,9 +266,6 @@
     "tmp/pdfs/tok",
     "raw/Theory_of_Knowledge_aims,objectives_and_assessment_criteria_An_analysis_of_critical_thinking_descriptors.pdf",
     "sources/Cole_2015_AJE.md",
-    "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Biggs_1999_HERD.md",
-    "wiki/facts/global/Stanford Prison Experiment.md",
-    "wiki/methods/qualitative/Role-playing.md",
     "tmp/pdfs/critical-thinking-existing/article.txt",
     "tmp/pdfs/critical-thinking-existing",
     "tmp/pdfs/critical-thinking-tok/article.txt",
