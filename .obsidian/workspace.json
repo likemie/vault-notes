@@ -52,8 +52,7 @@
               "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -222,12 +223,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4a27173df321c7e9",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md",
     "wiki/concepts/educational-philosophy/First and Second Order Emotion.md",
     "wiki/concepts/curriculum/Dramatic Tension.md",
     "wiki/methods/qualitative/Role-playing.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md",
     "wiki/methods/quantitative/Time Series Design.md",
     "wiki/facts/global/Stanford Prison Experiment.md",
     "wiki/concepts/curriculum/Knowledge Framework.md",
