@@ -880,6 +880,15 @@
     ]
   },
   {
+    "title": "Dramatic Tension",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Dramatic Tension.md",
+    "aliases": [
+      "戏剧张力",
+      "dramatic tension in role-play"
+    ]
+  },
+  {
     "title": "Ecomuseology",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Ecomuseology.md",
@@ -1510,6 +1519,16 @@
       "浮士德式交易",
       "Faustian bargain",
       "Faustian spirit"
+    ]
+  },
+  {
+    "title": "First and Second Order Emotion",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/First and Second Order Emotion.md",
+    "aliases": [
+      "第一级与第二级情感",
+      "第一级情感与第二级情感",
+      "first-order and second-order emotion"
     ]
   },
   {
