@@ -63,7 +63,8 @@ related_concepts:
   - "[[Champ]]"
   - "[[Research Ethics]]"
   - "[[Access and Acceptance in Research]]"
-related_theories: []
+related_theories:
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Trend Study]]"
   - "[[Action Research]]"
@@ -285,7 +286,7 @@ updated: 2026-06-19
 > | 开发与评估农村／分散社区的社区教育 | [[Participatory Research\|参与式研究]]；评估研究；行动研究 |
 > | 收集对某一教育提案的意见 | [[Survey Research\|调查研究]] |
 > | 检验语言课程中的师生互动 | [[Ethnography\|人种志]]；观察研究 |
-> | 调查大学科学系的组织文化 | 人种志；[[Survey Research\|调查研究]] |
+> | 调查大学科学系的[[Organizational Culture\|组织文化]] | 人种志；[[Survey Research\|调查研究]] |
 > | 识别影响中学生学习动机的各因素相对强弱 | 调查；[[Observational and Correlational Research\|观察研究]]；[[Multiple Regression\|多元回归]]分析；结构方程模型 |
 > | 比较两种音乐教学方法，看哪种产生最有效学习 | 比较研究；[[Experimental Research\|实验研究]]；因果研究 |
 > | 检验某项[[Homework\|家庭作业]]干预的效果 | 实验；行动研究；[[Causality\|因果]]研究 |

@@ -33,7 +33,9 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Phronesis]]"
+  - "[[Visual Data]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Artefact]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Virtual Documents]]"
   - "[[Research Question]]"
@@ -140,7 +142,7 @@ updated: 2026-07-11
 > - **公共或官方记录（public/official records）**
 >   由各级政府和大小组织生产。包括委员会会议记录、报告、备忘录等制度文本，以及出生证明、结婚证明、死亡证明、驾驶证和银行对账单等正式凭证（Scott, 1990）。这类文献的优势在于规范性和可追溯性，但承载着生产机构的意识形态立场和权力预设。
 > - **媒体文献（media documents）**
->   包括印刷媒体（报纸、杂志）和视觉媒体（电视），处于私人与公共的交叉界面：它们面向公众传播，但受制于特定的编辑方针和商业逻辑，同时记录着两类领域的事件和态度。
+>   包括印刷媒体（报纸、杂志）和[[Visual Data|视觉媒体]]（电视），处于私人与公共的交叉界面：它们面向公众传播，但受制于特定的编辑方针和商业逻辑，同时记录着两类领域的事件和态度。
 
 > [!feature] 第二轴 按媒介形式（medium）划分
 > - **手写或印刷文本（written/printed texts）**
@@ -151,7 +153,7 @@ updated: 2026-07-11
 >   过去二十年电子邮件和互联网存储与传播数据的指数增长，改变了文献形态。但电子文献可能同时保留了过去五百年印刷文化的诸多元素，二者并非简单的替代关系。
 > - **口头来源（oral sources）**
 >   如演讲录音，以声音为介质，区别于文本记录，但仍可[[Transcription in Qualitative Research|转录]]为文本进行分析。
-> - **物质人工制品（material artefacts）**
+> - **物质[[Artefact|人工制品]]（material artefacts）**
 >   如化石、石板、课桌和建筑物，它们不是文字文本，但作为人类活动的物质痕迹，同样承载着丰富的历史信息，在物质文化研究（material culture studies）传统中与文献分析相交叉。
 
 > [!feature] 第三轴 按与研究的关系划分

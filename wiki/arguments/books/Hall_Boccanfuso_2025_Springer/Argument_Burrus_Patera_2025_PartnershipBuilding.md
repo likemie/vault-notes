@@ -27,7 +27,8 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Master Agreement]]"
   - "[[Professional Judgment]]"
-related_theories: []
+related_theories:
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Case Study]]"
 related_persons: []
@@ -104,7 +105,7 @@ citation_aliases:
 
 当这两种逻辑在"界面"上相遇，每一次合作协商（发表审查权、知识产权归属、学生权益保护、间接成本核算等）都可能成为僵持的战场(p.74)。
 
-2. 另一个根本障碍是独特性：没有两所大学相同，也没有两家公司相同。"你了解一所大学，只等于了解一所大学；你了解一家公司，只等于了解一家公司"(p.73)。不存在可以复制粘贴的合作模板，每一次伙伴关系建设都必须从零开始理解对方的组织文化、决策逻辑和利益结构。
+2. 另一个根本障碍是独特性：没有两所大学相同，也没有两家公司相同。"你了解一所大学，只等于了解一所大学；你了解一家公司，只等于了解一家公司"(p.73)。不存在可以复制粘贴的合作模板，每一次伙伴关系建设都必须从零开始理解对方的[[Organizational Culture|组织文化]]、决策逻辑和利益结构。
 
 > 类比：大学像一个开放集市，任何人可以支摊展示自己的发现，思想自由流通。企业像一个研发实验室，有价值的东西被小心保护在围墙之内。产学合作就是在这两者之间建一座桥，但桥的两端运行着不同的交通规则。
 
@@ -190,7 +191,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. [[University-Industry Collaboration|产学合作]]的困难根植于大学与企业在使命、治理结构和组织文化上的系统性差异（非营利 vs 营利、自下而上 vs 自上而下、开放渗透 vs 知识产权控制）。不存在可以复制粘贴的通用合作模板(pp.73–74)。
+> 1. [[University-Industry Collaboration|产学合作]]的困难根植于大学与企业在使命、治理结构和[[Organizational Culture|组织文化]]上的系统性差异（非营利 vs 营利、自下而上 vs 自上而下、开放渗透 vs 知识产权控制）。不存在可以复制粘贴的通用合作模板(pp.73–74)。
 > 2. 连接阶段：产学关系的拥护者集中在特定的交汇空间，包括学术研讨会、[[Industry Advisory Board|行业咨询委员会]]、产学专业活动、[[Professors of Practice|实践教授]]岗位、[[Trade Mission|政府贸易代表团]]和校友活动。其中，校友网络的"双重信任"优势使其成为最高效的连接渠道之一(pp.74–76)。
 > 3. 探索发现阶段：技术匹配平台（Pivot、Pure、Academic Analytics 等）是必要的起点，但存在"粒度错配"和操作依赖性问题。最有效的方法是将技术工具与 [[University Corporate Engagement Professional|UCEP]] 的[[Professional Judgment|专业判断]]相结合：前者提供数据，后者提供解读、情境化和引荐(pp.76–78)。
 > 4. 建设阶段：将一次性项目[[Growth|生长]]为战略伙伴关系，需要四个不可省略的基本要素：双方联络人、共同认可的愿景与目标、包含定期审查的路线图、双方的问责制。大多数战略关系不是设计出来的，而是从一个教师项目开始，逐步生长并在 UCEP 介入后结构化(pp.78–79)。

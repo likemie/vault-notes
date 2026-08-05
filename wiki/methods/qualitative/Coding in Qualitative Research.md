@@ -19,6 +19,7 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Document]]"
   - "[[Qualitative Codebook]]"
+  - "[[Visual Data]]"
   - "[[Descriptive Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Reliability]]"
@@ -89,7 +90,7 @@ updated: '2026-07-22'
 ### 视觉图像作为编码
 
 > [!note]-
-> 视觉数据（照片、视频、电影、绘画）在[[Qualitative Research|质性研究]]中频繁使用。参与者可能被要求拍摄所见或画出所研究的现象。使用视觉图像面临的挑战：图像可能反映文化趋势而非个体视角；匿名性难以保证；使用视觉数据需获得许可以尊重提供者的隐私（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.211）。
+> [[Visual Data|视觉数据]]（照片、视频、电影、绘画）在[[Qualitative Research|质性研究]]中频繁使用。参与者可能被要求拍摄所见或画出所研究的现象。使用视觉图像面临的挑战：图像可能反映文化趋势而非个体视角；匿名性难以保证；使用视觉数据需获得许可以尊重提供者的隐私（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9, p.211）。
 
 ---
 

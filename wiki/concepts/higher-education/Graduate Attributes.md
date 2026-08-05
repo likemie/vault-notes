@@ -32,7 +32,8 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Return on Investment]]"
   - "[[Praxis]]"
-related_theories: []
+related_theories:
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Mixed Methods Research]]"
@@ -73,7 +74,7 @@ updated: '2026-05-26'
 ## 概念演变
 
 > [!note]-
-> 毕业生特质的兴起与高等教育市场化（marketisation）直接相关：政府与政策要求大学培养高技能劳动力以满足[[Knowledge-Based Economy|知识经济]]需求，大学则将其用作学习质量、教学质量和组织文化的标志（Hill et al., 2016; Bridgstock, 2009; Wald & Harland, 2019; 引自 Wong et al., 2022, pp.1340–1341）。
+> 毕业生特质的兴起与高等教育市场化（marketisation）直接相关：政府与政策要求大学培养高技能劳动力以满足[[Knowledge-Based Economy|知识经济]]需求，大学则将其用作学习质量、教学质量和[[Organizational Culture|组织文化]]的标志（Hill et al., 2016; Bridgstock, 2009; Wald & Harland, 2019; 引自 Wong et al., 2022, pp.1340–1341）。
 >
 > 在澳大利亚、新西兰和英国，大学日益普遍地向潜在学生宣传其毕业生特质愿景，但早期研究集中在本科层次（Barrie et al., 2009; Normand & Anderson, 2017; 引自 Wong et al., 2022, p.1340）。
 >

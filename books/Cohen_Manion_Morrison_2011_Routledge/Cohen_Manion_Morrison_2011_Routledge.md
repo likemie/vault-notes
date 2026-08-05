@@ -28,6 +28,7 @@ extracted_to:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
 processed_date: 2026-06-16
 ---
 

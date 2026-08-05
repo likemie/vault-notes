@@ -18,11 +18,13 @@ tags:
   - method/qualitative
   - research-methodology
 related_concepts:
+  - "[[Visual Data]]"
   - "[[Assertiveness]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Photo-elicitation]]"
   - "[[Participatory Research]]"
 related_persons: []
 related_facts: []
@@ -47,7 +49,7 @@ updated: 2026-06-01
 
 | 形式 | 示例 |
 |---|---|
-| 照片与录像 | 参与者拍摄照片或录制视频（照片引谈法 photo elicitation）；在社交情境中或对个体使用视频或电影 |
+| 照片与录像 | 参与者拍摄照片或录制视频（[[Photo-elicitation\|照片引谈法]] photo elicitation）；在社交情境中或对个体使用视频或电影 |
 | 数字文本 | 网站、推文、Facebook 消息、电话或计算机消息 |
 | 声音 | 音乐声、孩子的笑声、汽车喇叭声等环境声音 |
 | 物品 | 检查物品或仪式物件 |
@@ -61,7 +63,7 @@ updated: 2026-06-01
 | 为参与者提供直接分享其现实的机会 | 可能无法公开或私人获取 |
 | 具有创造性，在视觉上吸引注意力 | 由于观察者（如摄影师）的存在，可能造成干扰并影响反应 |
 
-视觉数据的使用挑战还包括：图像可能反映文化或社会趋势而非单个个体的视角；当图像包含个体和场所时，匿名性难以保证；使用视觉数据需要获得许可以尊重提供者的隐私（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
+[[Visual Data|视觉数据]]的使用挑战还包括：图像可能反映文化或社会趋势而非单个个体的视角；当图像包含个体和场所时，匿名性难以保证；使用视觉数据需要获得许可以尊重提供者的隐私（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 ## 适用场景
 

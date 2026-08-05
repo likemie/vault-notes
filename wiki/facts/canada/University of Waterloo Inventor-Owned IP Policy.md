@@ -23,7 +23,8 @@ related_concepts:
   - "[[Cooperative Education]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
-related_theories: []
+related_theories:
+  - "[[Organizational Culture]]"
 related_methods: []
 related_persons: []
 related_facts:
@@ -57,5 +58,5 @@ updated: 2026-06-03
 > [!success]
 > - **教师招聘与留任** 该政策被描述为"教师招聘的关键因素"（p.243）。对于有创业倾向的研究者而言，保留发明所有权意味着他们可以直接将自己的研究成果商业化，无需经过[[Technology Transfer|大学技术转移]]办公室的专利转让流程。
 > - **地方经济发展** 该政策与滑铁卢大学的[[Cooperative Education|合作教育]]项目共同推动了滑铁卢地区的科技[[Innovation Ecosystem|创新生态]]（pp.243, 254）。
-> - **[[University-Industry Collaboration|产学合作]]文化** 与北美最大的合作教育项目叠加，该政策使"产业合作"成为滑铁卢大学组织文化的一部分，降低了教师参与产学合作的心理门槛（pp.243, 246）。
+> - **[[University-Industry Collaboration|产学合作]]文化** 与北美最大的合作教育项目叠加，该政策使"产业合作"成为滑铁卢大学[[Organizational Culture|组织文化]]的一部分，降低了教师参与产学合作的心理门槛（pp.243, 246）。
 

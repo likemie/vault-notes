@@ -16,13 +16,19 @@ tags:
   - theory/research-methodology
   - theme/organization-studies
   - theme/visual-research
-related_concepts: []
+related_concepts:
+  - "[[Artefact]]"
+  - "[[Analytic Framework]]"
+  - "[[Hypothesis]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
 confidence: medium
 status: draft
 created: 2026-08-05
@@ -34,9 +40,9 @@ updated: 2026-08-05
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 组织文化如何形成并以不同层次显现，尤其是物质器物如何成为文化的可观察表征。
+> - **解释对象** 组织文化如何形成并以不同层次显现，尤其是物质[[Artefact|器物]]如何成为文化的可观察表征。
 > - **理论问题** 研究者如何"看见"并解读一个组织的文化——文化的哪些层面可以直接观察，哪些层面需要推断。
-> - **理论类型** 中层理论／分析框架，用于组织研究与教育机构（学校）的文化分析。
+> - **理论类型** 中层理论／[[Analytic Framework|分析框架]]，用于组织研究与教育机构（学校）的文化分析。
 > - **知识位置** Schein（1992）提出的组织文化三层次模型，是组织研究与教育管理研究的经典框架。
 
 > [!claim] 核心主张
@@ -50,11 +56,11 @@ updated: 2026-08-05
 > |:-----|:-----|:--------------|
 > | [[Artefact\|器物（artefacts）]] | 概念 | 文化的可观察表层——着装规范、建筑、地位符号、家具、办公空间、技术、使命宣言与物理场所。 |
 > | 价值观（values） | 概念 | 文化的中间层次——组织声称信奉的信念与规范，需通过器物与行为推断。 |
-> | 深层规范（deep-seated norms） | 概念 | 文化的最深层次——组织成员默认的基本假设，最难观察与改变。 |
+> | 深层规范（deep-seated norms） | 概念 | 文化的最深层次——组织成员默认的基本[[Hypothesis\|假设]]，最难观察与改变。 |
 
 ## 核心命题与机制
 
-> [!proposition-chain] 核心命题｜组织文化有三个层次，器物是最可观察的显现
+> [!proposition-chain] 核心命题｜组织文化有三个层次，[[Artefact|器物]]是最可观察的显现
 > - **前提一** 文化不是单一同质的存在，而是分层显现的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.4)]]
 > - **前提二** 器物是可观察的表层，例如行政主管办公室、着装规范、所采用的技术及其使用位置、工作空间的物理布局，以及工作场所提供或观察到的物件。
 > - **前提三** 器物可能提示一个群体在做什么，却不能说明他们为什么这样做。
@@ -68,10 +74,10 @@ updated: 2026-08-05
 
 ## 理论立场与使用方式
 
-> [!theory-stance] 认识论立场
-> - **本体论** 组织文化是真实存在但分层的——既有可观察的物质显现，也有不可直接观察的信念与假设。
-> - **认识论** 器物是可观察的证据，但其含义必须结合价值观与深层规范来推断，单靠器物只能得出不确定的解释。
-> - **方法含义** 支持把[[Artefact|器物观察]]作为研究设计的一部分，同时要求辅以其他资料（访谈、文件、行为观察）来触及更深层次。
+> [!theory-stance] [[Epistemology|认识论]]立场
+> - **[[Ontology|本体论]]** 组织文化是真实存在但分层的——既有可观察的物质显现，也有不可直接观察的信念与[[Hypothesis|假设]]。
+> - **认识论** [[Artefact|器物]]是可观察的证据，但其含义必须结合价值观与深层规范来推断，单靠器物只能得出不确定的解释。
+> - **方法含义** 支持把器物观察作为研究设计的一部分，同时要求辅以其他资料（访谈、文件、行为观察）来触及更深层次。
 > - **不能直接推出的东西** 不能仅凭器物断言组织的真实价值观或动机——器物是必要的证据，但不是充分的证明。
 
 > [!theory-use] 如何用于研究
@@ -87,11 +93,11 @@ updated: 2026-08-05
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 组织文化的表层显现与物质符号，教育机构的隐性课程与资源配置信号。
-> - **谨慎使用** 需要把器物解读上升到价值观与深层规范层面的情境——需要补充访谈、文件与行为证据。
+> - **谨慎使用** 需要把[[Artefact|器物]]解读上升到价值观与深层规范层面的情境——需要补充访谈、文件与行为证据。
 > - **不适合解释** 不能直接回答组织的真实动机、意图或成员心理状态。
 > - **常见误用** 把器物解读当作对组织文化的最终结论，或把单一物件的含义过度推广到整个组织。
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 以 Schein（1992）的三层次模型说明器物在[[Organizational Culture|组织文化]]研究中的地位，并通过教室、校长办公室与教师休息室的器物对比展示如何阅读组织信息。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 以 Schein（1992）的三层次模型说明[[Artefact|器物]]在[[Organizational Culture|组织文化]]研究中的地位，并通过教室、校长办公室与教师休息室的器物对比展示如何阅读组织信息。

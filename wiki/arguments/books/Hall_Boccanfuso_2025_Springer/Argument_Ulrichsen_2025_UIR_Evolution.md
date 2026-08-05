@@ -55,6 +55,7 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Triple Helix]]"
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Snowball Sampling]]"
 related_persons: []
@@ -244,7 +245,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 
 **转变三：大企业从遍地撒网转向战略性集中。** 2000 年代以前，典型大企业的做法是与几十所大学的数百名教授保持零散的、以项目为单位的合作。2000 年代后，企业开始精选少数几所大学作为战略伙伴，建立覆盖多个院系、多种合作形式的长期综合关系(Bercovitz & Feldman, 2007; Ulrichsen & O'Sullivan, 2015)(pp.44–45)。
 
-> 这一转变的逻辑在于：有限的关系管理资源分散在数十所大学和数百名教授之间，每次合作都是浅层的，难以建立信任；而集中在少数几所大学的深度合作使得企业能够真正了解合作大学的研究优势、组织文化和决策节奏，交易成本随时间大幅下降。越来越多大企业选择了后一种模式。
+> 这一转变的逻辑在于：有限的关系管理资源分散在数十所大学和数百名教授之间，每次合作都是浅层的，难以建立信任；而集中在少数几所大学的深度合作使得企业能够真正了解合作大学的研究优势、[[Organizational Culture|组织文化]]和决策节奏，交易成本随时间大幅下降。越来越多大企业选择了后一种模式。
 
 ---
 

@@ -15,6 +15,8 @@ tags:
   - method/documentary-research
 related_concepts:
   - "[[Questionnaire]]"
+  - "[[Visual Data]]"
+  - "[[Artefact]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Reliability]]"
@@ -63,7 +65,7 @@ updated: 2026-06-24
 > - **公共或官方记录 (public/official records)**
 >   由地方、国家和国际机构或组织生产，包括委员会会议记录、报告、备忘录，以及出生证、结婚证、驾驶证和银行对账单等正式文件（Scott, 1990）。
 > - **媒体文献 (media documents)**
->   印刷媒体（报纸、杂志）或视觉媒体（电视），处于私人与公共的交叉地带，记录了两类领域的内容。
+>   印刷媒体（报纸、杂志）或[[Visual Data|视觉媒体]]（电视），处于私人与公共的交叉地带，记录了两类领域的内容。
 
 #### 媒介形式 文字、视觉与电子
 
@@ -76,7 +78,7 @@ updated: 2026-06-24
 >   过去二十年间，电子邮件和互联网存储与传播的数据呈指数增长，构成了文献形态的当代革命，但电子文献可能保留了过去五百年印刷文化的元素。
 > - **口头来源 (oral sources)**
 >   如演讲录音，区别于文本记录。
-> - **物质人工制品 (material artefacts)**
+> - **物质[[Artefact|人工制品]] (material artefacts)**
 >   如化石、石板、课桌和建筑物，也是承载历史信息的载体。
 
 #### 与研究的关系 独立文献与研究生产文献

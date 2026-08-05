@@ -35,8 +35,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Self-spectator]]"
-  - "[[Document]]"
-  - "[[Paradigm]]"
+  - "[[Dramatic Tension]]"
   - "[[Computer Simulation]]"
   - "[[Virtual World]]"
   - "[[Praxis]]"
@@ -47,14 +46,19 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Research Topic]]"
   - "[[Gamification]]"
+  - "[[Document]]"
   - "[[Active Learning]]"
   - "[[Student Engagement]]"
+  - "[[Bildung]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Paradigm]]"
+  - "[[Visual Data]]"
   - "[[Questionnaire]]"
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
   - "[[Rote Learning]]"
+  - "[[First and Second Order Emotion]]"
   - "[[Informed Consent]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Sample Size Determination]]"
@@ -63,8 +67,8 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Role-playing]]"
-  - "[[Case Study]]"
   - "[[Triangulation]]"
+  - "[[Case Study]]"
   - "[[Longitudinal Study]]"
   - "[[Random Assignment]]"
   - "[[Quantitative Research]]"
@@ -75,7 +79,8 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Stanford Prison Experiment]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 status: draft
 created: 2026-08-03
 updated: 2026-08-04
@@ -91,7 +96,7 @@ updated: 2026-08-04
 
 ## 章节内容
 
-Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作为一种研究技术的理论基础、定义、操作程序、伦理问题和研究案例。核心主张是：角色扮演通过仿佛（as if）的虚构世界揭示真实，在情感与认知的交叉处为教育研究提供一条难以用其他方法获得的资料通道；同时，它始终是情境绑定、局部化的质性方法，其效力取决于能否用[[Self-spectator|自观]]、戏剧张力和充分准备来保护参与者并维持资料的质量。
+Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作为一种研究技术的理论基础、定义、操作程序、伦理问题和研究案例。核心主张是：角色扮演通过仿佛（as if）的虚构世界揭示真实，在情感与认知的交叉处为教育研究提供一条难以用其他方法获得的资料通道；同时，它始终是情境绑定、局部化的质性方法，其效力取决于能否用[[Self-spectator|自观]]、[[Dramatic Tension|戏剧张力]]和充分准备来保护参与者并维持资料的质量。
 
 > [!question] 核心问题
 >
@@ -294,7 +299,7 @@ Cabral（1987, p. 470）将角色扮演描述为一种已被广泛改造用于�
 > - **趣味与激励** 角色扮演对学生是有趣的、激励性的（Isenberg & Jalongo, 2006）
 > - **激发学生与深度理解** 角色扮演成功激发学生，并促进对传统教育问题的深度理解（Montgomery et al., 1997）
 > - **内化学习与记忆** 有意义、激励性的情境帮助学生更好地内化学习并改善记忆（Hickey & Zuiker, 2005）
-> - **促进主动学习参与** 角色扮演促进学生参与[[Active Learning|主动学习]]（Freeman, 2003; Kerr et al., 2003）
+> - **促进[[Active Learning|主动学习]]参与** 角色扮演促进学生参与[[Active Learning|主动学习]]（Freeman, 2003; Kerr et al., 2003）
 > - **科学课堂中的动机与理解** 在科学课堂中角色扮演发展学生更深入的理解、改善学生动机，并促进跨能力水平的学习（Aubusson et al., 1997）
 > - **未来科学家的创造力** 学校中的角色扮演增强未来科学家的创造性和创新潜力（Bergen, 2009），并鼓励创造力与想象力（Johnson, 1998）
 > - **通识教育课程** 角色扮演符合美国学院与大学协会（AACU）等寻求促进更有活力的大学通识教育课程的组织所确立的教学框架（Oberle, 2004; AACU, 2002）
@@ -311,7 +316,7 @@ Cabral（1987, p. 470）将角色扮演描述为一种已被广泛改造用于�
 > [!warning] 早期历史中的争议与恶名
 > 角色扮演在研究情境中使用的大量早期历史都深陷争议与恶名，主要涉及实验社会心理学中的欺骗问题，如 Milgram（1974）的服从权威实验、Mixon（1974）对 Milgram 实验的角色扮演复制，以及显性／隐蔽（overt/covert）研究形式（p. 7）。
 
-Bolton（1996, p. 187）以 James Patrick（化名）的案例说明隐蔽渗透式角色扮演研究的伦理问题。Patrick 是一所教养学校（approved school）的年轻教师：
+Bolton（1996, p. 187）以 James Patrick（化名）的案例说明隐蔽渗透式角色扮演研究的伦理问题。Patrick 是一所[[Bildung|教养]]学校（approved school）的年轻教师：
 
 > [!case] James Patrick：隐蔽渗透的伦理问题
 > **研究设计** 一名年轻教师在 1950 年代末通过学生 Tim 的引介，以隐蔽方式渗透进一个格拉斯哥帮派四个月，记录和分析帮派运作方式（Patrick, 1973）。
@@ -377,7 +382,7 @@ Wagner（1998, p. 58）提出，在戏剧中工作需要与在真实世界中生
 >   - **探索不同观点** 探索不同观点，并锻造不同类型的知识
 >   - **采用多重视角** 在数据集内采用多个视点
 >   - **研究多层次沟通** 研究多层次沟通
->   - **捕捉视觉数据** 捕捉视觉数据，为研究增添即时性和真实性
+>   - **捕捉[[Visual Data|视觉数据]]** 捕捉视觉数据，为研究增添即时性和真实性
 > - **过程与刺激**
 >   - **优先关注参与过程** 优先关注参与的过程
 >   - **灵活调整变量** 在研究展开过程中以简单、不费力的方式转移和调整[[Variable|变量]]，探索人际互动和情境中的微妙与细微差别，无需安排额外场次或设计替代方法
@@ -483,7 +488,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 > 在角色扮演中和角色扮演后定期安排反思时刻。这可以通过活动中的干预来促进，例如提问、明智地使用表扬、鼓励参与者承担责任并始终寻找其行动的意涵与后果。鼓励参与者记录其角色扮演经验（在角色内和／或脱离角色时）也很重要，它可以促生重要的洞见，并为之后的反思和评估奠定基础。在戏剧情境内或外书写或绘画，可以促进私人和公共回应的形成与表达，并刺激自观（pp. 15–16）。
 
 > [!info] 保护入戏与保护入情感
-> 情感是戏剧的底层货币，因为任何想象行为都必然伴随情感（Davis & Lawrence, 1987）。它培养参与者的投入，让角色开始关心情境，并协作探索创造性和有意义的解决方案。如果从戏剧中拿走情感，就只剩下生活的负担或苦差事。在教育戏剧和角色扮演中，关注的是第一级情感与第二级情感的区分（Witkin, 1974; Best, 1992），一般认为第一级情感在艺术中没有位置。但在教育研究中使用艺术的优点是，它们让我们放慢时间，暂停和凝思那些可能否则会从我们身边溜走的经验，这在收集有价值的研究数据时是很有用的方法（p. 16）。
+> 情感是戏剧的底层货币，因为任何想象行为都必然伴随情感（Davis & Lawrence, 1987）。它培养参与者的投入，让角色开始关心情境，并协作探索创造性和有意义的解决方案。如果从戏剧中拿走情感，就只剩下生活的负担或苦差事。在教育戏剧和角色扮演中，关注的是[[First and Second Order Emotion|第一级情感与第二级情感]]的区分（Witkin, 1974; Best, 1992），一般认为第一级情感在艺术中没有位置。但在教育研究中使用艺术的优点是，它们让我们放慢时间，暂停和凝思那些可能否则会从我们身边溜走的经验，这在收集有价值的研究数据时是很有用的方法（p. 16）。
 
 > [!term] [[First and Second Order Emotion|第一级与第二级情感]]
 > - **第一级情感（first order emotion）** 真实生活中体验到的原始情感；短暂、转瞬即逝，有时压倒一切、不可控制，在艺术中没有位置

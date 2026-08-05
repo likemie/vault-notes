@@ -18,13 +18,27 @@ tags:
   - theme/visual-research
   - data-collection
   - theme/interview
-related_concepts: []
+related_concepts:
+  - "[[Research Question]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Epistemology]]"
+  - "[[Informed Consent]]"
+  - "[[Visual Data]]"
+  - "[[Emic and Etic]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Visual Research Methods]]"
+  - "[[Group Interview]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Grounded Theory]]"
+  - "[[Participatory Research]]"
+  - "[[Triangulation]]"
+  - "[[Qualitative Interview]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
 confidence: medium
 status: draft
 created: 2026-08-05
@@ -40,9 +54,9 @@ updated: 2026-08-05
 
 > [!method-scope] 方法范围
 > - **研究对象** 受访者对照片的讲述、照片背后的故事及其引发的记忆与反思。
-> - **问题类型** 揭示性、描述性与解释性研究问题，尤其适合与儿童等难以用语言直接沟通的群体访谈。
+> - **问题类型** 揭示性、描述性与解释性[[Research Question|研究问题]]，尤其适合与儿童等难以用语言直接沟通的[[Group Interview|群体访谈]]。
 > - **分析单位** 访谈文本、照片及其叙事、照片内容与受访者解释之间的对照。
-> - **输出形式** 访谈转录文本、主题、编码与照片支撑的叙事。
+> - **输出形式** 访谈[[Transcription in Qualitative Research|转录]]文本、主题、[[Coding in Qualitative Research|编码]]与照片支撑的叙事。
 
 > [!citation-card]- Harper 的定义
 > 照片引谈法（photo-elicitation interview）以照片作为访谈的起点或主要内容，照片唤起受访者的讨论与记忆。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1–27.2)]]
@@ -51,7 +65,7 @@ updated: 2026-08-05
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 受访者是照片意义的权威来源——照片本身多义，其含义经由受访者的讲述被建构；照片把研究关注点从研究者转向受访者自己的生活世界。
 > - **研究者角色** 研究者选择照片、提出关于照片的问题（照片显示什么、谁拍的、何时何地、背后有什么故事），并促成共同关注。
 > - **有效性标准** 照片作为"中性第三方"降低访谈的压迫感，鼓励更自然、更坦诚的讲述，从而增强资料的丰富性与真实性。
@@ -64,7 +78,7 @@ updated: 2026-08-05
 > 2. **确定照片来源** 照片可以是研究者拍摄的、受访者应研究者之邀拍摄的（研究者可提供相机），或受访者已有的照片。
 > 3. **以照片开启访谈** 从照片开始提问——照片显示什么、谁拍的、何时何地、背后有什么故事。
 > 4. **借助照片的共同焦点** 让研究者与受访者共同注视照片，形成共同关注，引入"中性的第三方"。
-> 5. **记录并分析** 访谈转录后按常规方法分析——编码、内容分析、[[Grounded Theory|扎根理论]]取向的图像—编码不断比较。
+> 5. **记录并分析** 访谈[[Transcription in Qualitative Research|转录]]后按常规方法分析——[[Coding in Qualitative Research|编码]]、内容分析、[[Grounded Theory|扎根理论]]取向的图像—编码不断比较。
 
 > [!note] 照片在访谈中的缓冲作用
 > 在访谈中注视照片可以避免尴尬的沉默，也无需维持直接眼神接触——这对某些参与者（如儿童）可能令人生畏，尤其当存在研究者与参与者之间的权力与地位差异时。把注意力集中在照片上，可以冲淡"访谈是一场测试或盘问"的感受，尤其是当照片来自参与者本人时。
@@ -73,7 +87,7 @@ updated: 2026-08-05
 
 > [!method-fit] 适用判断
 > - **适合使用** 与儿童、边缘群体或对访谈感到紧张的对象交流；话题敏感或难以用语言开启时；需要受访者以自身视角讲述生活经验时；[[Participatory Research|参与式研究]]中让参与者通过拍摄与选择照片参与研究。
-> - **谨慎使用** 照片稀缺或质量不佳（褪色、模糊）时需考虑其对解读的影响；需确保照片使用与复制的知情同意。
+> - **谨慎使用** 照片稀缺或质量不佳（褪色、模糊）时需考虑其对解读的影响；需确保照片使用与复制的[[Informed Consent|知情同意]]。
 > - **不适合使用** 需要照片内容的独立客观核验时；无法获得任何有意义照片时。
 
 ## 局限性
@@ -82,7 +96,7 @@ updated: 2026-08-05
 > - **照片的选择性** 照片由拍摄者选择性地构图，受访者讲述的也主要是照片呈现的片段。
 > - **照片质量** 老照片会褪色、损坏、变得模糊，既可能妨碍解读，也可能赋予照片额外的真实感或感染力。
 > - **伦理风险** 照片可能识别个人与场所，匿名化可能损害照片本身的意义；使用参与者照片需获得拍摄与复制的许可。
-> - **补救方式** 结合其他数据源[[Triangulation|三角互证]]；与[[Qualitative Interview|访谈]]常规方法配合分析。
+> - **补救方式** 结合其他数据源[[Triangulation|三角互证]]；与访谈常规方法配合分析。
 
 ## 相关理论与方法
 
@@ -99,4 +113,4 @@ updated: 2026-08-05
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 教材将照片引谈作为视觉研究中以照片唤起讨论与记忆的核心技术加以介绍，并说明其在个人与小组访谈中的应用。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 教材将照片引谈作为[[Visual Research Methods|视觉研究]]中以照片唤起讨论与记忆的核心技术加以介绍，并说明其在个人与[[Group Interview|小组访谈]]中的应用。

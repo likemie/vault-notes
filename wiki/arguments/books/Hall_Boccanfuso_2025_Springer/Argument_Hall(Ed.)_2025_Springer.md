@@ -80,6 +80,7 @@ related_concepts:
   - "[[Use-Inspired Basic Research]]"
   - "[[Pre-negotiated IP Rights]]"
 related_theories:
+  - "[[Organizational Culture]]"
   - "[[Triple Helix]]"
   - "[[Systems of Innovation]]"
   - "[[Values Alignment Model]]"
@@ -230,7 +231,7 @@ citation_aliases:
 | 参与    | [[Cooperative Education\|合作教育]]      | 外部参与     |
 | 重大挑战  | [[Corporate Venture Capital\|企业风险投资]]    | 知识产权     |
 | 创新与接口 | 经济与区域发展   | 国际合作     |
-| 组织文化  | 创业        | 许可与专利    |
+| [[Organizational Culture\|组织文化]]  | 创业        | 许可与专利    |
 | 伙伴关系  | 资金与支持计划   | 材料转移     |
 | 路线图   | 产业伙伴关系    | 政策与法规    |
 | 利益相关者 | [[Innovation Park\|研究园区]]      | 隐私与透明度   |

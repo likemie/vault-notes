@@ -71,6 +71,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Progressive Focussing]]"
   - "[[Growth]]"
+  - "[[Artefact]]"
   - "[[Objectivism]]"
   - "[[Internal Validity]]"
   - "[[Dialogue in Education]]"
@@ -596,7 +597,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 - 访谈时长：一般 2.5–3.5 小时，最长 6 小时
 - 录音[[Transcription in Qualitative Research|转录]]：累计超过 150 万字
-- 辅助来源：背景信息[[Questionnaire|问卷]]、实地观察笔记（校园文化风景/器物的拍摄与说明）、两校官方网站和典礼讲话、校友网络论坛描述
+- 辅助来源：背景信息[[Questionnaire|问卷]]、实地观察笔记（校园文化风景/[[Artefact|器物]]的拍摄与说明）、两校官方网站和典礼讲话、校友网络论坛描述
 
 **（e）资料分析方法——[[Constructivist Grounded Theory|建构主义扎根理论]]**
 

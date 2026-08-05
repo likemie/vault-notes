@@ -32,6 +32,7 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Fieldwork]]"
+  - "[[Visual Research Methods]]"
 related_persons: []
 related_facts:
   - "[[Common Rule 2018]]"
@@ -40,6 +41,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -221,7 +223,7 @@ Lee (1993, p. 139) 进一步指出，一些参与者可能故意制造让研究�
 ---
 ## 视觉研究中的知情同意
 
-[[Visual Research Methods|视觉研究方法]]及其产生的数据对以文字与数字为基础的研究伦理实践提出挑战，尤其在知情同意、匿名与保密以及传播策略方面；视觉研究的伦理发展比数字与文本研究更不成熟（Prosser et al., 2008, p. 2）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.5)]]
+[[Visual Research Methods|视觉研究方法]]及其产生的数据对以文字与数字为基础的[[Research Ethics|研究伦理]][[Praxis|实践]]提出挑战，尤其在知情同意、匿名与保密以及传播策略方面；视觉研究的伦理发展比数字与文本研究更不成熟（Prosser et al., 2008, p. 2）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.5)]]
 
 > [!challenges] 视觉研究者获取知情同意的七个挑战（Prosser et al., 2008, pp. 12–14）
 > 1. 获取知情同意并非总是恰当的（如[[Covert Research|隐蔽研究]]或监控工作）。

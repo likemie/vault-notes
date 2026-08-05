@@ -46,7 +46,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Blue Skies Research]]"
-related_theories: []
+related_theories:
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Longitudinal Study]]"
@@ -257,7 +258,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 > [!warning] 挑战 4：数据限制（data limitations）
 > 数据匮乏以多种形式出现：
-> - **组织文化缺失** 多数大学和企业没有定期记录合作活动信息的制度(Penfield et al., 2014)
+> - **[[Organizational Culture|组织文化]]缺失** 多数大学和企业没有定期记录合作活动信息的制度(Penfield et al., 2014)
 > - **调查质量低下** 利益相关者调查的响应率低，矛盾回答多(Arvanitis et al., 2008)
 > - **时间窗口短** 数据仅在项目周期内可用，合作结束后信息不再更新，长期影响无法追踪(Zavale & Schneijderberg, 2021)
 > - **样本截断** 微观层面数据尤其匮乏，导致必须从分析中排除某些群体——Maietta(2015)不得不将小型企业从 UIC 影响研究中剔除，因为小企业的数据记录不完整

@@ -12,6 +12,7 @@ tags: [paradigm/poststructural, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Postmodernism]]"
   - "[[Dialogue in Education]]"
+  - "[[Artefact]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -35,7 +36,7 @@ updated: 2026-07-11
 
 > [!finding-cards]
 > - **个体能动性具有突出地位（individual agency has prominence）**后结构主义者（如 Foucault, Derrida）主张：人不是给定系统的提线木偶，而是多元的、不同的、甚至内在矛盾的——在阶级、族裔、性别、就业、社会群体、家庭身份等方面可能携带矛盾和张力（they may carry contradictions and tensions within themselves），人不是简单地扮演被给定的角色（they are not simply the decentred bearers of given roles）
-> - **数据即文本即话语（data can be regarded as texts, as discourses）**在相关取向下，数据（如[[Dialogue in Education|对话]]、观察）甚至人工制品（Burman and Parker, 1993）可被视为文本（texts），视为通过话语（discourses）建构和表演的话语，对不同的意义和解释开放（Francis, 2010: 327）
+> - **数据即文本即话语（data can be regarded as texts, as discourses）**在相关取向下，数据（如[[Dialogue in Education|对话]]、观察）甚至[[Artefact|人工制品]]（Burman and Parker, 1993）可被视为文本（texts），视为通过话语（discourses）建构和表演的话语，对不同的意义和解释开放（Francis, 2010: 327）
 > - **解构（deconstruct）**研究的任务是解构——揭示现象或研究中内嵌的不同意义（different meanings）、意义层次（layers of meanings）和意义的特权化过程（privileging of meanings）。不存在单一的"本质"意义（no single, 'essential' meaning），而是多重意义
 > - **意义的生产与合法化（how meanings and knowledge are produced, legitimized and used）**研究的一项任务是理解意义和知识如何被生产、合法化和使用
 > - **多元视角**不仅要识别参与者的多重视角，还要识别研究者、研究受众和研究读者的视角——研究者需要将研究发现置于参与者持有的自我观点之中（locate research findings within the views of the self that the participants hold）
