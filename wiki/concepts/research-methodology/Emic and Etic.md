@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-07-24
+updated: 2026-08-05
 ---
 
 # Emic and Etic
@@ -83,6 +83,7 @@ updated: 2026-07-24
 > | [[Interpretive Paradigm\|诠释范式]] | [[Paradigm\|范式]]基础 | 诠释范式以主位进路为核心方法论承诺——从参与者内部视角理解社会世界。LeCompte & Preissle（1993: 39–44）将主位/客位区分纳入民族志方法与实证主义方法的五项系统对比中（描述vs预测、归纳vs演绎、理论生成vs验证、建构vs枚举、主观性vs客观性）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]] |
 > | [[Ethnography\|民族志]] | 核心方法 | 民族志被 Lincoln & Guba（1985: 359）描述为"主位探究的理想工具"。案例研究作为民族志的自然报告模式，能容纳厚描述和默会知识，服务于主位探究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 443–444)]] |
 > | [[Rich and Thick Description\|厚描述]] | 核心概念 | 厚描述服务于主位进路——从内部人视角呈现参与者对世界的理解和感受，将读者"传送"到研究现场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 403–404)]] |
+> | [[Visual Data\|视觉数据]] | 相关概念 | 照片同时承载主位与客位意义——既是受访者生活世界的内部呈现（主位），也承载可供外部解读的客位信息。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|(Cohen et al., 2011, 27.2)]] |
 
 ---
 
@@ -124,3 +125,4 @@ updated: 2026-07-24
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在主位/客位框架下研究中国与欧美学习信念差异，以 emic 视角为核心方法论基础，运用[[Prototype Methods|原型方法]]和[[Cultural Models|文化模型]]生成两种文化层面的学习模型。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 从 LeCompte & Preissle（1993）的语言学类比出发，将主位/客位区分系统纳入[[Ethnography|民族志]]方法与[[Positivism|实证主义]]方法的对比框架，并阐明其在[[Interpretive Paradigm|诠释范式]]和[[Rich and Thick Description|厚描述]]中的方法论位置。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 指出照片同时具有主位与客位性质：照片既承载受访者生活世界的内部意义，也供研究者作外部解读，是主位/客位区分在[[Visual Data|视觉数据]]中的应用。

@@ -210,7 +210,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-07-18
+updated: 2026-08-05
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
@@ -250,6 +250,7 @@ updated: 2026-07-18
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|第24章 Tests]] | 系统介绍测验作为资料收集工具：测验内容的广泛分类、[[Parametric and Non-parametric Tests\|参数与非参数测验]]的分布假设与统计适用性、[[Norm-Referenced Test\|常模参照]]、[[Criterion-Referenced Test\|标准参照]]与[[Domain-Referenced Test\|领域参照]]三种参照系、商业与自编测验的选择准则、测验编制的十步全流程（[[Classical Test Theory\|CTT]]与[[Item Response Theory\|IRT]]基础、[[Item Analysis\|项目分析]]、题型设计、布局计分与预测试）、前后测设计的实验要求、测验伦理的连续体与[[Computerized Adaptive Testing\|计算机自适应测验]]。 | [[Classical Test Theory]]、[[Item Response Theory]]、[[Item Analysis]]、[[Computerized Adaptive Testing]]、[[Parametric and Non-parametric Tests]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|第25章 Personal Constructs]] | 系统介绍[[George Kelly]]的[[Personal Construct Theory]]及其核心研究工具——[[Repertory Grid Technique]]，涵盖个人建构的基本原理、repertory grid的两大优势与完整操作流程（元素选择、构念引发与提供、阶梯法与金字塔法）、网格分析方法（相关分析、主成分分析、聚类分析、聚焦法）、教育研究八项应用实例及在线资源。 | [[Personal Construct Theory]]、[[Repertory Grid Technique]]、[[George Kelly]]、[[Personal Constructs]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|第26章 Role-playing]] | 系统介绍[[Role-playing\|角色扮演]]作为研究方法的理论基础、操作程序与伦理问题。角色扮演从心理剧（Moreno, 1939）衍生，包含简报—表演—脱离角色三阶段，以八项设计原则组织场景。[[Self-spectator\|自观]]和[[Dramatic Tension\|戏剧张力]]是保护参与者和提升资料质量的关键策略。[[Stanford Prison Experiment]]是自观失败的经典反面案例。三项实证研究分别比较了角色扮演与讲授的效果、角色扮演作为期末考试的有效性，以及数字录像对反思质量的促进作用。 | [[Role-playing]]、[[Self-spectator]]、[[Dramatic Tension]]、[[Stanford Prison Experiment]] |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|第27章 Visual media in educational research]] | 系统介绍以[[Visual Data\|视觉媒体]]收集教育研究资料的原理与程序：Prosser & Loxley 四类视觉数据、图像的生产—图像—受众三重维度与[[Visual Data\|选择性]]、[[Photo-elicitation\|照片引谈法]]、录像研究的镜头选择与 Flick 五类情境、[[Artefact\|器物]]在[[Organizational Culture\|组织文化]]中的多重解读，以及视觉研究特有的[[Informed Consent\|知情同意]]挑战与匿名化伦理。 | [[Visual Data]]、[[Visual Research Methods]]、[[Photo-elicitation]]、[[Artefact]]、[[Organizational Culture]] |
 > | **Part 5 数据分析** | | |
 > | 第28章 Approaches to qualitative data analysis | | |
 > | 第29章 Organizing and presenting qualitative data | | |

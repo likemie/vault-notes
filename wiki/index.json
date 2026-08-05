@@ -5257,6 +5257,18 @@
     ]
   },
   {
+    "title": "Artefact",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Artefact.md",
+    "aliases": [
+      "器物",
+      "人工制品",
+      "artifacts",
+      "material culture",
+      "物质文化"
+    ]
+  },
+  {
     "title": "Attrition",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Attrition.md",
@@ -7922,6 +7934,18 @@
     ]
   },
   {
+    "title": "Visual Data",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Visual Data.md",
+    "aliases": [
+      "视觉数据",
+      "视觉媒体",
+      "visual media",
+      "visual images",
+      "视觉影像"
+    ]
+  },
+  {
     "title": "Voice, Tense, and Concision in Academic Writing",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Voice, Tense, and Concision in Academic Writing.md",
@@ -9193,6 +9217,17 @@
     ]
   },
   {
+    "title": "Organizational Culture",
+    "type": "theory",
+    "path": "wiki/theories/research-methodology/Organizational Culture.md",
+    "aliases": [
+      "组织文化",
+      "organisational culture",
+      "Schein's model of organizational culture",
+      "组织文化三层次模型"
+    ]
+  },
+  {
     "title": "Potential Outcomes Framework",
     "type": "theory",
     "path": "wiki/theories/research-methodology/Potential Outcomes Framework.md",
@@ -10143,6 +10178,17 @@
     ]
   },
   {
+    "title": "Photo-elicitation",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Photo-elicitation.md",
+    "aliases": [
+      "照片引谈法",
+      "照片诱导访谈",
+      "照片启发法",
+      "photo-elicitation interview"
+    ]
+  },
+  {
     "title": "Projection Technique",
     "type": "method",
     "path": "wiki/methods/qualitative/Projection Technique.md",
@@ -10350,6 +10396,18 @@
       "研究情境卡",
       "vignette technique",
       "情境问题法"
+    ]
+  },
+  {
+    "title": "Visual Research Methods",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Visual Research Methods.md",
+    "aliases": [
+      "视觉研究方法",
+      "视觉研究",
+      "visual methods",
+      "visual research",
+      "视觉资料收集法"
     ]
   },
   {
@@ -15851,6 +15909,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",
