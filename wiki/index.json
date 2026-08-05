@@ -8436,6 +8436,15 @@
     ]
   },
   {
+    "title": "Teacher Beliefs",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Beliefs.md",
+    "aliases": [
+      "教师信念",
+      "teacher beliefs"
+    ]
+  },
+  {
     "title": "Confucian Learning Tradition",
     "type": "theory",
     "path": "wiki/theories/chinese-philosophy/Confucian Learning Tradition.md",
@@ -16459,6 +16468,11 @@
     "title": "Argument_Zhao_2020_JEC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md"
+  },
+  {
+    "title": "Argument_Bergeron_2019_JRIE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Bergeron_2019_JRIE.md"
   },
   {
     "title": "Argument_Cole_2005_JRIE",

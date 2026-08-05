@@ -148,6 +148,9 @@ updated: 2026-06-02
 
 ## 7. 使用此方法的研究
 
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bergeron_2019_JRIE|Bergeron & Rogers (2019)]] — 使用问卷获得了对 TOK 课程实施态度的广泛定量数据，随后利用多地焦点小组访谈深入了解教师面临的“时间”和“评价”等困难的具体表现。
+
 > [!example] 案例 1：Ivankova & Stick (2007)
 > 对 278 名学生进行[[Questionnaire|问卷调查]]以识别持续就学的预测因素，随后选择四类学生各一人进行质性案例分析，深入解释统计结果中的组间差异([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.137–138]])。
 
