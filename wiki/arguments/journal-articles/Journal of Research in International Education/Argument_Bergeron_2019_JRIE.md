@@ -1,5 +1,4 @@
 ---
-title: Argument_Bergeron_2019_JRIE
 summary: "Theory of Knowledge 教师 + 混合方法调查 + 揭示教师对 TOK 的看法、对自身发展的影响以及实施中的挑战"
 type: argument
 authors: 
@@ -9,8 +8,10 @@ source_language: en
 citation: "Bergeron, L., & Rogers, L. (2019). Investigating the perspective of Theory of Knowledge teachers in International Baccalaureate World Schools. Journal of Research in International Education, 18(2), 169–185."
 year: 2019
 doi: "10.1177/1475240919865653"
+citation_aliases:
+  - "Bergeron & Rogers, 2019"
+  - "Bergeron & Rogers (2019)"
 isbn: ""
-citation_aliases: []
 tags: [curriculum, IBDP, mixed-methods, teacher-beliefs]
 related_concepts: []
 related_theories: []
@@ -27,13 +28,20 @@ created: 2026-08-05
 updated: 2026-08-05
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_Bergeron_2019_JRIE"
+argument_key: "Argument_Bergeron_2019_JRIE"
+argument_display_title: "Investigating the perspective of Theory of Knowledge teachers in International Baccalaureate World Schools"
+argument_kind: "journal-article"
+argument_related_count: 0
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: "Journal of Research in International Education"
 book_title: ""
 publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 # Argument_Bergeron_2019_JRIE
 
 ---
