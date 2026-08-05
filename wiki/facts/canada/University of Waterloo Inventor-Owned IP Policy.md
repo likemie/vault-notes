@@ -13,7 +13,7 @@ subtype: event
 region: canada
 fact_region: "canada"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"

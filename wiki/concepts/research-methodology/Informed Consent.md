@@ -7,10 +7,10 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖四个前提要素、合理知情同意策略、标准构成要素、儿童与弱势群体的特殊处理，以及在产学合作中因共同规则适用不对称而成为协议谈判中的不可协商前提"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-ethics
   - theme/research-procedure

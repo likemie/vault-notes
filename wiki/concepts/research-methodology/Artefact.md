@@ -9,7 +9,7 @@ aliases:
 summary: "教育研究中作为视觉数据使用的有形物体，如教室陈设、教科书、玩具、服装与展示材料；器物能传达信息但难以解读，是多感官分析、激发讨论与组织文化观察的常用资料"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

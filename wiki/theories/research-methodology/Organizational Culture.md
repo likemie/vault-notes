@@ -8,9 +8,9 @@ aliases:
 summary: "Schein（1992）提出的组织文化三层次框架：器物、价值观与深层规范；器物是可观察的表层显现，但只能提示组织在做什么，不能说明其缘由"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 0
+theory_related_count: 6
 theory_related_level: 0
-theory_related_stars: "☆"
+theory_related_stars: ""
 theory_related_color: "#e5e7eb"
 tags:
   - theory/research-methodology

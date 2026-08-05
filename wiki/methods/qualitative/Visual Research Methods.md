@@ -10,9 +10,9 @@ summary: "利用照片、影片录像与器物等视觉媒体收集教育研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 26
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative

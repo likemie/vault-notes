@@ -9,7 +9,7 @@ aliases:
 summary: "教育研究中以图像形态存在、可供研究者观看与解读的数据类型，涵盖照片、影片、录像、器物、图画等；视觉数据不是中立的现实复制品，而是由生产、图像与受众三重维度构成、被层层意义包裹的呈现"
 type: concept
 domain: "research-methodology"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
