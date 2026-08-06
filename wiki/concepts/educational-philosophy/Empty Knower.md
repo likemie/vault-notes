@@ -78,7 +78,7 @@ updated: 2026-07-13
 ### 命题一　空无的认知者预设在课程实践中容易导致理性异化与机械应试
 
 > [!concept-lens] 课程[[Praxis|实践]]中的理性异化
-> 探讨空无的认知者这一[[Rationalism in International Relations|理性主义]]预设在具体教学环境中如何与应试评估体制发生冲突，以及如何导致学生表面化、策略性地应对知识问题。
+> 探讨空无的认知者这一[[Rationalism in International Relations|理性主义]]预设在具体教学环境中如何与应试评估体制发生冲突，以及如何导致学生表面化、策略性地应对[[Knowledge Questions|知识问题]]。
 
 > [!claim] Cole, D. R.
 > **理性的学科性[[Disciplina and Doctrina|规训]]与考试化异化** 空无的认知者预设在[[Theory of Knowledge|知识论]]课堂中会导致理性的异化。当教师被迫将哲学和逻辑碎片作为客观内容填充给学生时，学生由于缺乏情感和想象力的具身支撑，往往倾向于将这些[[Reflexivity|反思性]]规则和术语当作备考的[[Rote Learning|死记硬背]]材料，使[[Critical Thinking|批判性思维]]流于表面的学术表演和词汇堆砌，无法达成真正的自我解放。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 212–213, 221)]]

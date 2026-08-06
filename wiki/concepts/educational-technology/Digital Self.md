@@ -47,7 +47,7 @@ updated: 2026-05-20
 ## 定义
 
 > [!info]
-> 数字自我（digital self）是指通过收集和评估个体在学习平台、[[Online Self-Assessment|在线自评工具]]等数字环境中的表现数据（测试结果、用户行为、兴趣和动机指标等），构建出的一个"统计人造物"（statistical artefact）——一组可被归因于该个体的数字和指标组合(Bächle, 2016, p.194; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。
+> 数字自我（digital self）是指通过收集和评估个体在学习平台、[[Online Self-Assessment|在线自评工具]]等数字环境中的表现数据（测试结果、用户行为、兴趣和动机指标等），构建出的一个"统计人造物"（statistical [[Artefact]]）——一组可被归因于该个体的数字和指标组合(Bächle, 2016, p.194; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。
 
 Thompson 等人（2022, p.225）强调"数字自我"这一术语的关键洞见：数据并非中立地"反映"一个预先存在的自我，而是通过主体化（subjectification）过程将数据**关联**到一个特定自我之上——"我的 [[Online Self-Assessment|OSA]] 结果是……"——从而为个体提供了一种通过数据被"看见"和"认识"的方式。
 

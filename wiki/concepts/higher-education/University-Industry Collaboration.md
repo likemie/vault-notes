@@ -229,7 +229,7 @@ updated: 2026-06-05
 - **研究生奖学金与联合培养**
 - **原型开发与测试服务** 利用大学设施进行产品测试
 - **联合开发物理设施** 共同投资实验室、中试车间等
-- **培训与[[Executive Education|高管教育]]** 为企业员工提供[[Further Education|继续教育]]。高管教育处于大学与产业的界面上，既是产学合作的产物，也是深化合作关系的入口。定制化高管教育项目将大学的前沿研究翻译为产业可用的知识框架，为更长期的研究合作和人才合作奠定信任基础([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al., 2025, pp.155-170]])
+- **培训与[[Executive Education|高管教育]]** 为企业员工提供[[Further Education|继续教育]]。高管教育处于大学与产业的界面上，既是产学合作的产物，也是深化合作关系的入口。定制化高管教育项目将大学的前沿研究翻译为产业可用的[[Knowledge Framework|知识框架]]，为更长期的研究合作和人才合作奠定信任基础([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd|Lerner-Lam et al., 2025, pp.155-170]])
 - **人员交流（people exchange）** 实习、联合聘任（[[Joint Faculty Appointments|joint appointments]]）、借调（secondments）
 - **共同选址（[[University-Industry Co-location|co-location]]）** 产业人员在大学校园内专用空间中与大学研究人员共同开展合作或独立研究。通过缩短物理距离来降低沟通和文化壁垒，促进思想交流——典型案例包括联合利华在瓦赫宁根大学的 Hive 中心（500 名员工驻校）和 Mars 在 UC Davis 的 MARI 研究院([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, pp.317–318]])
 - **非正式互动** 网络活动、联合参加会议、邀请企业进校园讲座——这些活动对建立社会关系和促进隐性知识流动至关重要

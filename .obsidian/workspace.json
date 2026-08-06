@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,11 +224,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fed2f7fc0848edac",
+  "active": "4a27173df321c7e9",
   "lastOpenFiles": [
-    "wiki/concepts/educational-philosophy/Critical Thinking.md",
-    "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Bergeron_2019_JRIE.md",
+    "wiki/concepts/research-methodology/Visual Data.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27.md",
+    "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Bergeron_2019_JRIE.md",
+    "wiki/concepts/educational-philosophy/Critical Thinking.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md",
     "wiki/theories/research-methodology/Organizational Culture.md.tmp.26222.83a2008b48fb",
     "Bergeron_2019_JRIE_text.txt",
@@ -243,7 +244,6 @@
     "wiki/methods/qualitative/Photo-elicitation.md",
     "wiki/methods/qualitative/Visual Research Methods.md",
     "wiki/concepts/research-methodology/Artefact.md",
-    "wiki/concepts/research-methodology/Visual Data.md",
     "raw/042_27 Visual media in educational research.txt",
     "wiki/concepts/educational-philosophy/First and Second Order Emotion.md",
     "wiki/concepts/curriculum/Dramatic Tension.md",

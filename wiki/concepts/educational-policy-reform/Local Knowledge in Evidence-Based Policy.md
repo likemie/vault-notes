@@ -109,7 +109,7 @@ updated: '2026-05-23'
 > [!info] 理论基础
 > - [[Cartwright's Three-Stage Knowledge Framework]] — [[Randomised Controlled Trials|RCT]] 不能自动告诉你"在这里是否有效"，这个判断需要理解本地支持因素，而本地支持因素只能通过本地知识来识别
 > - Dewey [[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]] — 知识的价值在于其对具体情境中行动的指导能力
-> - Hayek (1945) 的知识问题 — [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 引入 Hayek 的经典论证：社会中关键知识是分散的、默会的、情境特定的——"特定时间和地点环境的知识"无法被任何中央权威汇总或替代。这为本地知识在 EBP 中的角色提供了政治经济学基础([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.12–13]])
+> - Hayek (1945) 的[[Knowledge Questions|知识问题]] — [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 引入 Hayek 的经典论证：社会中关键知识是分散的、默会的、情境特定的——"特定时间和地点环境的知识"无法被任何中央权威汇总或替代。这为本地知识在 EBP 中的角色提供了政治经济学基础([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.12–13]])
 
 ## 实证发现
 

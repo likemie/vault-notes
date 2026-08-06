@@ -102,7 +102,7 @@ Behrens & DiCerbo（2014, pp.39–40）将教育数据的增长描述为从"数�
 
 在 [[Online Self-Assessment|OSA]] 场景中，学习分析将干预窗口从学习过程中提前到了入学之前——通过收集潜在学生的兴趣、期望、动机和认知技能数据，构建 [[Digital Self|数字自我]]，并生成[[Digital Optimum|数字最优]]（digital optimum）作为参照标准。[[Digital Self|数字自我]]与数字最优之间的差距驱动着算法治理——学生被引导主动管理自己的"学习组合"、弥补不足([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])。详见 [[Online Self-Assessment#数据化与主体化效应]]。
 
-这一治理模式的运作基础是将学生特征转化为可被归因于该个体的数字指标——即 Bächle（2016, p.194）所说的"统计人造物"（statistical artefact）。被建构的 [[Digital Self|数字自我]] 成为后续治理决策的依据：哪些学生需要额外关注、哪些学生适合特定项目、哪些学生面临着高风险([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–225]])。
+这一治理模式的运作基础是将学生特征转化为可被归因于该个体的数字指标——即 Bächle（2016, p.194）所说的"统计人造物"（statistical [[Artefact]]）。被建构的 [[Digital Self|数字自我]] 成为后续治理决策的依据：哪些学生需要额外关注、哪些学生适合特定项目、哪些学生面临着高风险([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–225]])。
 
 > [!example]
 > 亚利桑那大学的 e-advice 系统是学习分析与[[Preemptive Governance|先发制人治理]]结合的典型案例：当算法自动追踪记录到一系列"问题学生行为"（如未按时完成课程[[Homework|作业]]、花在健身房的时间多于图书馆）时，辅导员被自动通知并介入(Amos, 2019, p.238; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])。学生的日常行为被转化为持续的调制信号，干预从反应性（学生主动求助）转变为预判性（系统在学生意识到问题之前就标记风险）。这表明学习分析不仅是"描述学习"的工具，更是"治理学习"的机制——它与 "[[Promising Student|有前景的学生]]" 的主体建构互为表里。
