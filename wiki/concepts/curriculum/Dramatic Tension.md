@@ -34,7 +34,7 @@ updated: 2026-08-04
 ## 定义
 
 > [!def] 核心定义
-> 戏剧张力（dramatic tension）是所有戏剧按定义赖以推动行动前进的张力机制，成功的角色扮演必须有戏剧张力来维持角色信念和对情境的投入，使参与者相信情境"仿佛是真的"（26.7，p. 15）。
+> 戏剧张力（dramatic tension）是所有戏剧按定义赖以推动行动前进的张力机制，成功的[[Role-playing|角色扮演]]必须有戏剧张力来维持角色信念和对情境的投入，使参与者相信情境"仿佛是真的"（26.7，p. 15）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指在虚构情境中促使参与者保持信念与投入、推动行动展开的力量，而非物理意义上的紧张情绪。
@@ -83,4 +83,4 @@ updated: 2026-08-04
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen, Manion & Morrison (2011, Ch. 26)]] — 将戏剧张力列为角色扮演成功的核心机制，并纳入八项设计原则之一，用于维持参与者的角色信念与情境投入。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen, Manion & Morrison (2011, Ch. 26)]] — 将戏剧张力列为[[Role-playing|角色扮演]]成功的核心机制，并纳入八项设计原则之一，用于维持参与者的角色信念与情境投入。

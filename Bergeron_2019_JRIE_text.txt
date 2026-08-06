@@ -1,0 +1,1058 @@
+865653
+research-article2019
+
+JRI0010.1177/1475240919865653Journal of Research in International EducationBergeron and Rogers
+
+JRIE
+
+Article
+
+Investigating the perspective of
+Theory of Knowledge teachers
+in International Baccalaureate
+World Schools
+
+Journal of Research in
+International Education
+2019, Vol. 18(2) 169­–185
+© The Author(s) 2019
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/1475240919865653
+DOI: 10.1177/1475240919865653
+journals.sagepub.com/home/jri
+
+Liz Bergeron
+
+Northeastern University, USA
+
+Leslie Rogers
+
+University of Wisconsin-La Crosse, USA
+
+Abstract
+As a part of the International Baccalaureate (IB) Diploma Programme (DP) students participate in the Theory
+of Knowledge (TOK) course. This research used a mixed methods design to investigate the perspective of
+TOK teachers in IB schools worldwide. To address the research questions, quantitative survey data were
+analyzed from 1,534 participants, and focus groups with 33 TOK teachers were conducted in Australia, The
+Netherlands, and the United States. Quantitative data were analyzed using descriptive statistics, t-tests,
+ANOVA, and linear trends analysis to identify group differences. Qualitative data were coded and analyzed
+using an inductive approach. Overwhelmingly, survey results indicated that teachers value the TOK course.
+Teachers ranked the main purposes of the TOK course as 1) to develop an awareness of how knowledge
+is constructed, critically examined, and renewed by individuals and communities and 2) to help students
+make connections among academic disciplines and among thoughts, feelings and actions. Teachers ranked
+the main benefits to students as 1) students better able to critically evaluate knowledge and 2) students
+better able to identify and reflect on personal assumptions. Teachers strongly agreed that teaching TOK
+has been a valuable professional development experience for them. Specifically, they indicated it enhanced
+their own critical thinking and developed their interdisciplinary understanding. Survey results and focus
+groups suggest the main challenges are 1) assessment, 2) time, and 3) administrative issues (scheduling
+and class size). Regarding implementation, approximately half of DP coordinators indicated that TOK
+implementation was different than other IB Diploma Programme aspects, specifically that teacher support
+and time were different.
+
+Keywords
+International Baccalaureate, Theory of Knowledge, critical thinking, mixed methods
+
+Corresponding author:
+Liz Bergeron, Northeastern University, Boston, MA, USA.
+Email: b.elizabeth@northeastern.edu
+
+170
+
+Journal of Research in International Education 18(2)
+
+Introduction
+Background
+The International Baccalaureate (IB) is a non-profit educational foundation that offers four education programmes for schools in over 150 countries. All four programmes are designed to develop
+inquiring, knowledgeable and caring young people who help create a more peaceful world through
+intercultural understanding and respect (IB, 2015c). The IB Diploma Programme (DP), for students aged 16 to 19, is a two-year programme designed to prepare students for post-secondary
+academic success and global society. In addition to six subject groups (Language and Literature;
+Language Acquisition; Individuals and Societies; Sciences; Mathematics; The Arts), the curriculum includes a core comprised of three required elements: Theory of Knowledge (TOK); Creativity,
+Activity, Service (CAS); and the Extended Essay. The DP core is designed to “broaden students’
+educational experience and challenge them to apply their knowledge and skills” (IB, 2015a).
+Theory of Knowledge. By using questions in this epistemological course to guide learning, students are
+positioned to “gain greater awareness of their personal and ideological assumptions, as well as developing an appreciation of the diversity and richness of cultural perspectives” (IB, 2015a). The course
+requires 100 instructional hours over the two years of the DP. TOK is intended to be taught during the
+school day, as are subjects in the six groups (IB, 2015d). Students in the TOK course are assessed
+through an oral presentation and a 1,600-word essay. The presentation evaluates the application of
+TOK thinking, while the essay evaluates theoretical understanding. All DP schools are required to
+identify a DP Coordinator to oversee the DP, but a specific TOK Coordinator is not required. Some
+schools choose to appoint a TOK coordinator, however, to support the work of the TOK teachers.
+
+Rationale and Purpose of the Study
+Previous research has examined individual components of the DP (see for instance Billig, 2013;
+Inkelas, Swan, Pretlow, & Jones, 2013; Cole, Ullman, Gannon, & Rooney, 2015) and the DP holistically (see Coates, Rosicka, & MacMahon-Ball, 2007; Coca, Johnson, Kelley-Kemple, Roderick,
+Moeller, Williams, & Moragne, 2012). Generally, findings suggest that IB DP participation prepares students for post-secondary coursework (Caspary 2011; HESA, 2011; Coca et al., 2012),
+improves secondary school academic performance (Caspary, 2011; Saavedra, 2011; Wade, 2011),
+and post-secondary enrollment and persistence (Coca et al, 2011, Caspary & Bland, 2011; HESA,
+2011; Inkelas, Swan, Pretlow, and Jones, 2013). Research specific to two of the three required
+components of the core suggests areas of improvement for the Extended Essay (Inkelas, Swan,
+Pretlow, and Jones, 2013) and CAS (Billig, 2013). The 2013 report of Inkelas et al exploring the
+benefits of the Extended Essay (EE) suggests the EE serves as good preparation for universitylevel research, but that IB schools could improve the EE experience by providing more support on
+specific aspects of the research process. Similarly, Billig’s 2013 report on CAS suggests that students do develop their civic-mindedness through CAS, but schools could improve the experience
+by deepening the reflection process. Large-scale research on implementation, perceptions, and
+impact of TOK is needed not only to improve the TOK course, but also to contribute to the gap in
+research on this aspect of the core in order to inform the development of the overall programme.
+The study was guided by the research questions listed below.
+
+Research questions
+Perceptions of the TOK
+1.
+
+What are teachers’ views of the TOK course? What are teacher perspectives’ regarding:
+
+Bergeron and Rogers
+a.
+b.
+c.
+d.
+e.
+2.
+
+171
+
+the purpose of teaching TOK
+the benefits to students and schools of TOK teaching and learning
+challenges experienced when teaching TOK
+the effort needed to teach TOK
+success factors that underpin quality TOK courses?
+
+In what ways do TOK teachers believe that the theory of knowledge course prepares students for future success?
+
+Impact on Teachers
+3.
+4.
+5.
+
+What is the relationship between teaching the Theory of Knowledge course and pedagogical beliefs, intentions, practice, and teacher confidence?
+To what extent do IB teachers perceive teaching TOK as being a valuable development
+experience as a teacher? And in what ways?
+For teachers who chose to teach TOK, what reasons do they give for why they chose to
+teach the TOK course?
+
+Implementation Questions
+6.
+
+How is the TOK course implemented? How is the implementation of TOK different from
+and similar to other core components of the IB Diploma Programme?
+
+Literature Review
+The primary purpose of this study was to examine IB DP teachers’ beliefs about the TOK course;
+from overall perceptions (e.g. What is the purpose of the TOK course?) to specific perceptions
+related to teacher impact (e.g. Did teaching TOK impact teachers’ pedagogical beliefs, intentions,
+teaching practices, and/or teacher efficacy?) and implementation (e.g. What implementation
+approaches do teachers feel make the TOK course most effective?). The study was guided by the
+extant literature related to (1) the construct of teacher beliefs and the impact those beliefs have on
+teaching practices, and (2) the implementation, philosophies and approaches inherent to the DP.
+
+Teacher beliefs
+Critical to this study is a review of the extant literature related to teachers’ beliefs. Much has been
+written about teachers’ beliefs and the impact those beliefs have on pedagogical practices (Bergeron
+& Dean, 2013; Fang, 1996; Fives & Gill, 2015). While it is agreed that teachers’ beliefs are not
+static, stable or overly simplistic constructs, there are certain links between beliefs and practices
+that have been well established in the nearly 700 empirical studies that have been published related
+to this topic over the past 60 years (Fives & Gill, 2015). It is clear that a relationship exists between
+teachers’ beliefs and teachers’ practices (Buehl & Beck, 2015), and Buehl and Beck (2015)
+reviewed research published between 2008 and 2012 that examined this relationship. They concluded that beliefs influence practice and practice influences beliefs. The influence of beliefs on
+practice is evident in Wilkins’ (2008) study of 481 elementary teachers who were asked to share
+their beliefs about the effectiveness of inquiry-based teaching. Wilkins (2008) found that these
+beliefs were the strongest direct predictor of a teacher using inquiry-based instructional practices.
+Additionally, Bergeron and Dean (2013) utilized the Teaching Perspectives Inventory (TPI) developed by Pratt, Collins, and Selinger (2001) to examine the relationship between teacher beliefs and
+being an effective IB teacher. The results revealed that IB DP teachers’ “beliefs about teaching”
+were different from those of their non-IB counterparts and that these specific beliefs (i.e., global or
+
+172
+
+Journal of Research in International Education 18(2)
+
+international perspective or social responsibility) informed their instructional practice. Evidence
+supporting the assertion that teachers’ practices influence teachers’ beliefs was primarily drawn
+from studies in which the teaching practice included teaching critical thinking skills, the importance of self-efficacy beliefs, or other ability-related skills. Teaching those specific practices has
+been shown to positively affect teachers’ beliefs, especially when teachers experience success in
+those teaching practices (Buehl & Beck, 2015). Ertmer, Ottenbreit-Leftwich, and Tondeur (2015)
+suggest that examining an area in which teachers have agency is a critical context to consider when
+evaluating the relationship between teachers’ beliefs and practices.
+
+Previous TOK research
+Having examined the construct of teacher beliefs and the significant impact those beliefs have on
+teaching practices and student outcomes, it is important to set the stage for this study by reviewing
+the relevant findings from previous TOK studies. Two recently published studies have examined the
+impact of the TOK (Cole, Ullman, Gannon, & Rooney, 2015; Wright & Lee, 2014). In both cases
+TOK effectiveness was, in part, evaluated based on TOK teacher beliefs. Cole and colleagues (2015)
+– after surveying 83 TOK teachers and interviewing an additional 22 TOK teachers working at several Australian IB schools – reported that the majority of TOK teachers felt that the TOK course had
+positive outcomes, which include improving students’ critical thinking skills. Less clear from the
+results was the extent to which TOK teachers felt that the TOK course had positively impacted student learning in other DP subjects. Additionally, it was unclear what specific factors inhibited the
+success of the TOK course, although several possible factors were suggested (e.g. the broad scope
+of the TOK course, the challenge of teaching the TOK course, and the lack of school community
+support when, for instance, the TOK course is not prioritized within a school community).
+Wright and Lee (2014) also investigated the effectiveness of IBDP core requirements, including
+the TOK course. Their multi-site case study resulted in 27 IBDP teachers and administrators at five
+different schools in Beijing and Shanghai sharing their thoughts specifically related to which features of the three IBDP core requirements contributed the most to developing 21st-century skills.
+Throughout the interviews, the TOK course “was argued to be highly relevant to cognitive skills,
+principally critical thinking” (p. 211). Wright and Lee highlighted that TOK teachers felt that the
+TOK course was key to developing 21st-century skills including critical thinking, open mindedness and self-reflection. Another theme reported related to “under-prioritising”: “Teachers and
+administrators highlighted that an implication was that “Core Requirements”, which have less
+weight in the final IBDP grade, could be under-prioritised” (p. 210). Both research groups sought
+to better understand the effectiveness of the TOK course by seeking the views of those closest to it –
+the TOK teachers. In our current examination, we advance two lines of research – that related to
+teachers’ beliefs, and research related specifically to the perceived effectiveness of the TOK.
+
+Research Design
+In order to gain a better understanding of the TOK course, this project uses a mixed methods design
+to investigate the impact of the TOK course on teachers and teaching in IB schools worldwide.
+Using an explanatory sequential design (Creswell, 2008) the research team collected and analyzed
+data in two phases. Phase 1 consisted of collection and analysis of survey data, while Phase 2 consisted of the collection and analysis of qualitative focus group data. The purpose was to use qualitative results to assist in explaining and interpreting the quantitative findings: while Phase 1 data was
+mostly quantitative, several open-ended items requiring qualitative analysis were also included,
+which were analyzed with the focus group transcripts.
+
+173
+
+Bergeron and Rogers
+Table 1. Respondent background information.
+
+Gender
+Don’t want to say
+Female
+Male
+Other
+Highest degree or level of education
+bachelor’s degree
+master’s degree
+doctoral degree
+other
+Years of teaching experience (teacher role only)
+1-3
+4-6
+7-9
+10-12
+More than 12
+
+Frequency
+
+Percent
+
+16
+773
+745
+1
+
+1.0
+50.4
+48.5
+.1
+
+413
+931
+145
+45
+
+26.9
+60.7
+9.5
+2.9
+
+40
+69
+98
+123
+521
+
+4.7
+8.1
+11.5
+14.5
+61.2
+
+Survey methods. Research questions were addressed using a researcher-designed survey, The TOK
+Survey. This online survey was sent in the three working languages of the IB (English, French,
+Spanish) to all Diploma Programme Coordinators with the request that in addition to completing
+the “coordinator items” they also forward the survey to TOK teachers. Survey responses were
+received from 2,079 participants, but 545 were not included because role was not identified. Background information on the remaining 1,535 is included in Table 1. 960 respondents identified their
+primary role as teacher, and approximately 750 of these respondents answered the majority of the
+survey items. 585 respondents identified their primary role as DP Coordinator, and approximately
+525 of these respondents answered all the items. All available data were included in the analysis.
+Survey quantitative analysis. The TOK survey included a set of items intended as a scale measuring
+teacher confidence in teaching TOK. Therefore, in addition to the quantitative analysis aimed at
+answering the research questions, an additional set of procedures was used to explore the scale.
+The research questions were addressed using descriptive statistics, independent samples t-tests,
+and an analysis of variance (ANOVA). Prior to addressing the research questions, internal reliability (Cronbach’s alpha) was used to evaluate the constructed scale measuring teaching confidence
+(Confidence Teaching TOK, CTT scale). The threshold of Cronbach’s alpha of .7 or higher was
+used to determine if the scale items met the reliability criteria for being analyzed as a scale. Following the reliability analysis, exploratory factor analysis (EFA) with principal component extraction was performed to further investigate the nature of the scale and items. Group differences on
+confidence teaching TOK, challenges teaching TOK, and success teaching TOK were investigated
+using independent samples t-test and ANOVA. Previous research suggests that differences may
+exist between countries (Dean & Bergeron, 2015), years of teaching experience (Falk, 2013), and
+class size (Chingos, 2012). Therefore, these background factors were investigated. Country was
+divided into two categories (US and non-US) because of the sizable percentage of responses from
+the US. Because only two populations exist for country (US and non-US), independent samples
+t-test was used. ANOVA was used to analyze group differences on selected survey responses with
+more than two grouping categories. Categories were merged to create fewer categories based on
+
+174
+
+Journal of Research in International Education 18(2)
+
+logical groupings, although categorizing the data can result in the loss of important information:
+the risk of Type I error increases if more than one ANOVA on the same data is performed. Multiple
+ANOVAs therefore have their risks, but ANOVA is generally considered robust to violations of the
+normality assumption (Mertler and Vannatta, 2009) and appropriate when examining if categories
+have different effects. While normality of the data was initially questionable, it was evaluated and
+determined trivial. Given the purpose of the analyses and trivial non-normality data transformations and non-parametric alternatives to ANOVA were not performed.
+The TOK Survey. The TOK Survey comprised 3 sections. The first section contained 10 background questions for all participants. The second section, Survey A, contained 35 additional
+items for TOK teachers, while the final section, Survey B, contained 13 additional items for DP
+Coordinators. Contained in Survey A was a set of items intended to measure one single construct: confidence teaching the TOK. Items 31-41 are referred to as the Confidence Teaching
+TOK (CTT) scale. Analysis of internal reliability using Cronbach’s Alpha (α= .798) suggests
+that the items measure the same characteristic and could be evaluated as a scale, and principal
+component extraction (PCA) identified one underlying factor reinforcing evaluation as a single
+scale.
+Focus group methods. Three separate hour-long focus groups using a 6-item protocol at IB events
+in Amsterdam (n=4), Brisbane (n=15), and Chicago (n=14) were conducted with 33 teachers (13
+males, 20 females) with a variety of experiences working with the TOK curriculum (either as a
+TOK teacher, workshop leader, or administrator). Individuals represented a wide range of experience (total number of years teaching TOK ranged from 1 to 28). All sessions were recorded and
+later transcribed for data analysis purposes.
+Qualitative analysis. The focus group transcriptions and responses from open-ended survey questions were analyzed collectively using an inductive approach (Maxwell, 2005). Line-by-line open
+coding technique (Glaser & Strauss, 2017) was used and each sentence was coded with at least one
+code. To maintain authenticity, participants’ own words were used to create the codes as much as
+possible. The same codes were consistently used to code text that represented the idea, not necessarily an exact word match. A constant comparison method (Glaser & Strauss, 2017) was used to
+systematically compare and allocate codes. Codes were adjusted or created based on new understandings that emerged (Schilling, 2006). Similar codes were combined and organized into descriptive categories, facilitating a more efficient analysis. The emerging themes were analyzed, and
+common underpinnings were used to summarize overall themes. In addition to the line-by-line
+coding, word frequency query was used to identify the most frequently occurring words in selected
+sources. The sensitivity of the word frequency query was adjusted to include results with the same
+stem and synonyms.
+Limitations. It should be acknowledged that the teachers who chose to respond to the survey and
+participate in focus groups might not reflect the overall population of IB teachers, and that this
+research relied heavily on self-reported data. Self-report data is vulnerable to social desirability to
+report specific perceptions and practices, and possibly report more positively.
+
+Results
+This section is organized by research question category: perceptions of TOK, impact on teachers,
+and TOK implementation.
+
+Bergeron and Rogers
+
+175
+
+Perceptions of TOK
+Descriptive statistics. Survey A items 15-22 and 24-26 address teacher perceptions of TOK. Overwhelmingly, teachers indicated that they enjoy teaching the TOK course (86.5%). Teachers also
+indicated that teacher interest was the most important contributor to the success of the TOK course
+(this item had the lowest mean rank (2.89, SD=2.26), therefore being ranked first among success
+options). The next two highest ranked contributors to TOK success were student interest (4.27,
+SD= 2.61) and class size (5.54, SD=2.39). Teachers ranked the main purposes of the TOK course
+as 1) to develop an awareness of how knowledge is constructed, critically examined, and renewed
+by individuals and communities (M=1.80, SD=1.28) and 2) to help students make connections
+among academic disciplines and among thoughts, feelings and actions (M=2.90, SD=1.18). Teachers ranked the main benefits to students as 1) students being better able to critically evaluate
+knowledge (M=1.76, SD=1.10) and 2) students being better able to identify and reflect on personal
+assumptions (M=2.57, SD=0.99). The main challenges ranked by the teachers were 1) assessing
+student progress towards stated goals (M=3.56, SD=2.01); 2) identifying clear objectives (M=3.60,
+SD=2.07); and 3) critically evaluating student knowledge (M=3.61, SD=2.00). When asked to rate
+the effort required to successfully teach TOK in four key areas, teachers indicated assessing learning (mean effort of 7.47 (SD=2.09)) required most effort, followed by planning (M=7.25, SD=2.53),
+providing feedback on learning (M=7.01, SD=2.34) and lastly, implementing lessons (M=6.17,
+SD=2.42). Using a 4 point agreement scale with 1 indicating strongly disagree and 4 indicating
+strongly agree, teachers agreed that they are usually able to adjust assignments if students are having difficulty (M=3.09, SD=0.67).
+T-test. The independent samples t-test was used to analyze significant differences between US
+schools and non-US schools on challenges and successes teaching TOK. The difference in mean
+scores for “assessing student progress towards goals” for US schools and non-US schools was not
+statistically significant (t (713) = -1.065, p = .287), and nor was the difference in mean scores for
+“Teacher Interest” for US schools and non-US schools (t (724) = 1.953, p = .051).
+ANOVA. Analysis of Variance (ANOVA) tests the significance of group differences between two
+or more means while evaluating the inter- and intra-variation of each group. Post hoc tests are
+used to determine which groups are significantly different. Performing multiple ANOVAs on the
+same data can increase the Type I error, so it is important to identify post hoc procedures that can
+account for this. Tukey post hoc testing was used because it can mitigate the risk of an increase in
+Type I error and still maintain power with large sample sizes (Dunlap & Greer, 1996). Prior to
+conducting ANOVA, the data were evaluated to determine if they met the necessary assumptions.
+With the exception of normality, the data met the necessary assumptions (independence, outliers,
+and homogeneity of variances). Levene’s Test was not significant for each analysis. Normality
+was evaluated, and it was determined statistically significant, but with trivial departures. Given
+the large sample size (allaying concerns over normality because with large samples non-normality
+can be more easily detected, but often trivial) and the results of the QQ-plot, it was determined
+non-normality was trivial. The QQ-plot produced nearly a 45-degree line. The highest ranked
+items for challenges and success enablers were evaluated for differences regarding years teaching
+and class size, as previous research suggests differences may exist in these areas (Falk, 2013;
+Chingos, 2012).
+Statistically significant differences were not detected in any of the ANOVAs. Scores for “assessing student progress towards goals” did not differ significantly across class size group; F (2, 709) =
+.912, p = .402. Scores for “assessing student progress towards goals” also did not differ
+
+176
+
+Journal of Research in International Education 18(2)
+
+significantly across years of teaching experience; F (2, 708) = .972, p = .379., nor did scores for
+“most impact the success of the TOK course” across class size group; F (2, 719) = 1.963, p = .141.
+Scores for “most impact the success of the TOK course” did however differ significantly across
+years teaching the TOK; F (2, 720) = 3.160, p = .043.
+Qualitative results. Regarding the purpose of TOK, qualitative analysis of the survey items suggests
+that in addition to the options provided on the survey teachers felt that the purpose was to develop
+“critical thinking” and “international mindedness”. When describing the main benefits of TOK to
+students, 44 respondents selected “other”. In their open-ended responses to this question, “critical
+thinking” and “improve writing/communication” were other benefits most commonly proposed by
+survey participants – as illustrated by one participant: “it fosters critical thinking, reflection, and
+self-awareness.”
+Focus groups. Participants responded to questions about perceptions of TOK, benefits to students,
+challenges, and impact on student learning. The coding of the focus groups resulted in over 300
+unique codes. The most frequent codes and their larger themes related to perceptions of TOK are
+displayed in Table 2, together with quotes chosen to illustrate each theme.
+The themes of “connections” and “critical thinking” comprise 10 codes that were referenced
+over 100 times. These two ideas emerged as primary descriptors of TOK. Participants described the
+critical thinking aspects of TOK, specifically the perceived benefits to students. Participants
+described their students as capable of viewing sensitive issues from multiple perspectives and
+being comfortable with disagreement. The participants described the TOK experience as “being
+everywhere”, meaning that the applications of the skills gained in TOK extend to other subjects,
+real life, university, and beyond.
+
+Impact on teachers
+Descriptive statistics. Survey A items 23, 27, 31-43 address the impact of TOK on teachers. Only
+13% of teachers indicated that they did not choose to teach the TOK course. Teachers strongly
+agreed that teaching TOK has been a valuable professional development experience for them
+(using a 4 point agreement scale with 1 indicating strongly disagree and 4 indicating strongly
+agree, mean agreement = 3.72, SD=0.62). Specifically, they indicated that it 1) enhanced their
+own critical thinking (60%) and 2) developed their interdisciplinary understanding (52.5%). [Participants were asked to select all that apply from a list of possible benefits, therefore each outcome
+percentage is calculated out of 100%. Outcomes with more than 50% support are highlighted here.]
+Teacher confidence teaching TOK was analyzed by examining mean confidence ratings on 11
+Likert style items (the CTT scale items) in addition to the scale analysis using these items presented below. Using a 4 point agreement scale with 1 indicating not confident and 4 indicating very
+confident, the item with the highest mean (M=3.60, SD=0.66) was:
+. . . in exploring knowledge questions related to ethics, such as: ‘Is there such a thing as moral knowledge?
+Does the rightness or wrongness of an action depend on the situation? Are all moral opinions equally
+valid? Is there such a thing as a moral fact?
+
+The item with the lowest mean (M=2.73, SD=1.05) confidence score was:
+. . . in exploring knowledge questions related to indigenous knowledge systems, such as: “In what ways are
+sense perception and memory crucial in constructing knowledge in indigenous knowledge systems? How do
+beliefs about the physical and metaphysical world influence the pursuit of knowledge in indigenous knowledge
+systems? How do indigenous people use the concept of respect to relate to their view of the world?”
+
+177
+
+Bergeron and Rogers
+Table 2. Themes and codes related to perceptions of TOK.
+Theme
+
+Codes
+
+Illustrative quotes
+
+Connections
+
+connects to other subjects,
+connects to content, realworld connections, TOK is
+everywhere, inclusive
+
+Critical
+thinking
+
+analyze, devil’s advocate,
+critically evaluate, critical
+thinking, learn to handle
+controversy
+students value TOK, teacher
+passion contagious
+
+“I think the focus that we have on making
+connections in Theory of Knowledge – once
+students begin to make those connections
+between areas of knowledge and ways of
+knowing, that bell can’t be unrung.”
+“They notice some things that they would never
+notice before.”
+
+Teacher
+passion ignites
+student passion
+Life changing
+course
+
+appreciative, life changing
+
+College
+preparation
+
+college preparation, preparation,
+university skills
+
+Learner profile
+
+open-minded, reflective, learn to
+handle controversy/principled/
+multiple viewpoints
+
+“You can’t sit inactive through a class like this; I
+mean we can see that ourselves when we’re going
+through it. The kind of discussions I think you get
+going, are actually quite challenging, I mean we
+find it challenging.”
+“I have been hearing more and more now that
+we’ve been a diploma school for seven years.
+I’ve been hearing more and more from students
+post-four-year college and into graduate school
+who will email even then and say it’s changing my
+life in graduate school. I still am remembering, in
+graduate school, the sorts of thinking that we did
+in high school, junior and senior year.”
+“[returning students] talk about how TOK
+plays so well into what they’re doing as
+undergraduates.”
+“I think that the biggest benefit is broadening the
+mind, of both the teacher and the students.”
+
+T-test. The independent samples t-test was used to analyze significant differences between US
+schools and non-US schools on the CTT scale. The difference in mean CTT scores for US schools
+and non-US schools was not statistically significant (t (670) = 1.889, p = .060).
+ANOVA. Scores on the CTT scale did not differ significantly across class size group; F (2, 666) =
+2.02, p = .118. Scores on the CTT did differ significantly across years teaching the TOK; F (2,
+665) = 16.48, p = .00 (Table 3).
+Not surprisingly, the respondents with more years teaching TOK have higher general TOK
+teaching confidence scores. Generally, teachers with 1-3 years of experience are considered early
+career teachers (See NCTQ, 2015). Tukey post-hoc comparisons (Table 4) of the 3 groups indicate that the “10 years or more experience teaching TOK” group (M = 3.40, 95% CI [3.32, 3.48])
+scored significantly higher than the “1-3 years experience” group (M = 3.17, 95% CI [3.12,
+3.22]), p< .001. The “4-9 years experience” group (M = 3.35, 95% CI [3.30, 3.40]) also scored
+significantly higher than the “1-3 years experience” group (p<.001). The mean confidence scores
+increase as years of teaching experience increases, but the post-hoc analysis only suggests a statistically significant difference between the two more experienced groups when each is compared
+to the least experienced group. The “10 years or more experience teaching TOK” group scored
+higher than the “4-9 years experience” group, but the difference was not statistically significant.
+Therefore, a linear contrast analysis (test of linear trends) was performed for the mean scores by
+
+178
+
+Journal of Research in International Education 18(2)
+
+Table 3. Descriptives for “years teaching TOK” for the Confidence Teaching TOK (CTT) score.
+N
+
+1-3 years
+4-9 years
+10+ years
+Total
+
+289
+274
+105
+668
+
+Mean
+
+3.17
+3.35
+3.40
+3.28
+
+Std.
+Deviation
+
+Std.
+Error
+
+0.47
+0.42
+0.40
+0.45
+
+0.03
+0.03
+0.04
+0.02
+
+95% Confidence Interval for
+Mean
+Lower Bound
+
+Upper Bound
+
+3.12
+3.30
+3.32
+3.25
+
+3.22
+3.40
+3.48
+3.31
+
+Table 4. Tukey post-hoc comparisons of “years teaching TOK” for the CTT scale.
+(I)
+Q13_3cats
+
+(J)
+Q13_3cats
+
+Mean
+Difference (I-J)
+
+Std.
+Error
+
+Sig.
+
+1-3 years
+
+4-9 years
+10+ years
+1-3 years
+10+ years
+1-3 years
+4-9 years
+
+−0.18*
+−0.23*
+0.18*
+−0.45
+0.23*
+0.05
+
+0.040
+0.050
+0.040
+0.051
+0.050
+0.051
+
+.000
+.000
+.000
+.606
+.000
+.606
+
+4-9 years
+10+ years
+
+95% Confidence Interval
+Lower Bound
+
+Upper Bound
+
+−.2688
+−.3478
+.0942
+−.1671
+.1118
+−.0705
+
+−.0942
+−.1118
+.2688
+.0705
+.3478
+.1671
+
+*The mean difference is significant at the 0.05 level.
+
+years teaching to determine if statistical differences between each experience group existed.
+Linear contrast analysis can be applied to determine statistically significant differences between
+means associated with groups that follow a linear trend. The test for linear trends indicates a statistically significant positive relationship between experience and confidence; t(214.17) = 4.80,
+p < .001.
+Qualitative results. Responses for teaching philosophy included multiple descriptions within 1 survey response, resulting in 1,629 individual descriptions of teaching philosophy. The wording of the
+question requested teachers to provide phrases or terms to describe their teaching philosophy.
+Teacher responses included phrases that were easily interpreted: “discussion based”, “reflective
+listening practices”, “relational”, “engaging”, “high expectations”, “always room for improvement”, “all students learn differently”, “encouraging exploration”, and “teach through activity not
+lecture”. Responses also included phrases that were more challenging to interpret such as “no
+failure - just a new learning experience”. The responses were coded. Some phrases could be coded
+as more than one category. For example, phrases such as “recognizing alternative views”, “devil’s
+advocate” and “often the obvious is wrong” were coded as both ‘open’ and ‘questioning’. The most
+frequent descriptors of teaching philosophy were: discussion-based, student-focused, reflective,
+connections/ grounded in real life situations, exploration, collaborative, challenging, questioning/
+question assumptions, critical/analysis, open-minded, adaptive, student-led, current, open (exercising all points of view but with valid arguments), flexible. Teacher open-ended responses describing
+“other” types of professional development gained by teaching TOK included: critical thinking,
+international mindedness, student-centered philosophy, not judge others, and connect to content.
+
+179
+
+Bergeron and Rogers
+Table 5. Themes and codes related to impact on teachers.
+Theme
+
+Codes
+
+Illustrative quotes
+
+Improves
+teaching
+
+improves teacher
+understanding; improves
+teaching pedagogy
+
+Methods
+
+student-centered philosophy;
+teach skills explicitly; texts to
+support; use TOK methods in
+other teaching; connections;
+discussion based
+
+Collaboration
+
+collaboration in the
+development of materials and
+activities; guest lecturers; guest
+speakers; share expertise;
+partnerships; team teaching
+
+“I think the TOK also develops the pedagogy
+of teaching. I know how much I have grown
+when it comes to the methods that I use during
+classes. I graduated from psychology, I did a
+PhD in psychology. So I thought that I knew
+quite a lot about how to, I don’t know, work
+with the group and what methods should I use.
+But then I discovered so many things, when I
+started working with the IB, and when I started
+to immerse myself into the IB philosophy. I
+discovered that they are thinking routines, so a
+structured way of inquiry.”
+“(TOK) is an opportunity to be reflective of what
+(students are) learning and oftentimes students
+view their subject areas as discrete and what
+happens in their math class doesn’t necessarily
+have an impact on what happens in their biology
+class, and so this is an opportunity to make crosscurriculum connections and get them reflecting
+on knowledge itself and also the fundamental
+underpinnings of what constitutes knowledge and
+what it’s all about.
+“I think that it’s fun actually to sit in groups . . .
+where we’re actually trying to develop ideas
+together and see it from different perspectives.”
+
+Focus groups. Participants were asked in the focus groups to share their thoughts about the impact
+of TOK on teachers and the impact of teaching methods and efficacy on the success of TOK. The
+most frequent codes and their larger themes related to perceptions of TOK are displayed in Table
+5. The theme of ‘improves teaching’ includes teachers’ thoughts on ways they have developed their
+pedagogical approach and understanding. The theme of ‘methods’ refers to the explicit instructional strategies gained. And, the theme ‘collaboration’ refers to the strategies for working with
+colleagues developed.
+
+TOK implementation
+Descriptive statistics. Survey A items 28-30, 44, and Survey B items 11-22 address implementation.
+TOK teachers were asked how they collaborate with non-TOK teachers (Table 6). [They were
+asked to “select all that apply” from a list, therefore each row percentage is independent and calculated out of 100%.] Interestingly, of the collaboration options provided, none were selected by
+more than 50% of the participants. Analysis of the open-ended comments given by respondents
+regarding collaboration is presented in the qualitative results section below.
+Survey questions concerning how the Theory of Knowledge course is implemented in IB
+World schools were included in Survey B items for DP Coordinators. According to responses
+from the DP coordinators, TOK teachers receive unique training (84%) and unique information
+
+180
+
+Journal of Research in International Education 18(2)
+
+Table 6. Collaboration activities.
+
+coordinate teaching so that topics align
+coordinate assignments so that student
+work overlaps between courses
+coordinate assignments so that deadlines
+are manageable for students
+other _______________
+
+Frequency
+
+Percent
+
+Total
+
+225
+141
+
+23.4
+14.7
+
+960
+960
+
+417
+
+43.4
+
+960
+
+223
+
+3.2
+
+960
+
+(89%). Of the coordinators who reported that teachers receive unique support prior to teaching
+TOK (48%), the most common type of support received was additional materials (69%) followed by planning time (36%). When asked about the planning time that teachers are given,
+Coordinators most frequently indicated (74%) planning time was provided during the day. Of
+those Coordinators who indicated TOK implementation was different than other IB programme
+aspects (58%), most cited that teacher support (63%) and time (61%) were different than other
+IB programme aspects.
+Qualitative results. On the teacher survey, respondents were provided the opportunity to identify
+“other” main challenges in addition to seven items presented in the survey. A total of 73 individuals
+described an assortment of challenges of which “Assessment issues”, “time” and “differentiating”
+were the most frequent codes. As illustrated in one teacher response, time issues are often related
+to the challenges of assessing and differentiating within TOK: “having the time to grade/evaluate/
+give feedback on all of the writing/presentations/projects that give me concrete evidence of their
+thinking [is the biggest challenge]”.
+Assessment issues were also the most frequent code in the open-ended “other” category when
+teachers explained why they did not enjoy teaching TOK. However, it should be noted that even
+though this was the most frequent code for “other” it was only coded 8 times, as only 22 (2.3%)
+respondents indicated “no” – they don’t enjoy teaching TOK.
+Focus groups. Participants responded to questions about the challenges with teaching TOK and
+enablers of successful TOK teaching. The most frequent codes and their larger themes related to
+implementation are displayed in Table 7.
+Overwhelmingly, participants explained that the school sends the message about the importance
+of TOK through administrative decisions. Two types of messages were discussed frequently: 1)
+time of day the course is offered, and 2) grading. The time of day was brought up because participants argued that when the course is offered after school, it undermines its academic importance.
+Some participants articulated that the TOK has an “add on” mentality because it is offered as an
+extra class period, extending the school day for TOK students. Others explained that it is treated
+the same as other DP courses and taught during the school day. TOK is not assessed on the same
+scale as the other course components of the DP. In other courses from the six subject groups, students are externally assessed and earn a score on 1 – 7 scale, while TOK students are internally
+assessed through an oral presentation, and assessed externally through a 1,600-word essay.
+Variations on how the individual school treats the oral presentation can also result in different messages about the importance of TOK. Additionally, participants shared that assessments can be
+problematic because of a lack of clarity regarding scoring. As suggested by several participants,
+this lack of clarity about scoring is due to the nature of the TOK course. It is a course focused on
+
+181
+
+Bergeron and Rogers
+Table 7. Themes and codes related to impact on teachers.
+Theme
+
+Codes
+
+Illustrative quotes
+
+Administrative
+challenges
+
+Class size, class timing, summer
+assignments
+
+Assessment
+challenges
+
+grading difficult, limited activities to
+grade, limited external accountability,
+grading is hard because not one
+right answer; students want numeric
+grade
+challenging for teachers because
+of content background, the benefit
+to having a choice in content,
+understanding of the IB DP required
+
+“But also it’s connected with small things, like
+moving it into the morning and the schedule,
+so that it will – for example this year I had
+lessons from 10 to 11:30 and it’s the perfect
+time for having TOK. But we needed to fight
+really hard to have it somewhere during the
+day. . .”
+“Because they want to have grades, because they
+need to know how they are doing. With the
+feedback, even if it’s an extended feedback, they
+don’t really know how they are doing, they want
+the number.”
+“I think it’s also time-consuming . . . if you’re
+going to do a good job of it, you’re going to
+have to read and teach yourself the stuff in these
+other subjects.”
+
+Teacher
+background
+
+examining knowledge from multiple perspectives, not necessarily about identifying a single right
+answer. The third challenge that was identified, ‘teacher background’, suggests that TOK teachers
+personally feel underprepared to teach the course. The focus groups suggest that the perception of
+“required” background differs among participants. Essentially, each teacher felt others had better
+qualifications than they did. In the other courses taught in the DP that are located in the six subject
+groups, teachers typically have academic background aligned with their teaching assignment. It
+emerged that this provides some reassurance to teachers that they are a good fit for the teaching
+assignment.
+
+Discussion
+The findings from this research aim to offer insights into the perceptions, teacher impact, and
+implementation of the TOK course and, more generally, to contribute to the research on teaching
+perspectives in the larger educational community. Research questions were organized into three
+categories: perceptions of TOK, teacher impact, and TOK implementation.
+
+Perceptions of TOK
+Assessment was clearly identified as a challenge. The top three challenges identified on the survey
+are all assessment-related: 1) assessing progress towards a goal, 2) identifying objectives, and 3)
+critically evaluating student knowledge. Participants ranked effort associated with ‘assessing
+learning’ more highly than ‘planning’ and ‘implementing’ instruction. It was suggested that the
+course materials are not as explicit about assessment in TOK as they are in other subject areas. Two
+resources were discussed by the TOK teachers: 1) Theory of Knowledge guide (IB, 2015a) and 2)
+Theory of Knowledge teacher support materials (IB, 2015d). The Theory of Knowledge guide (IB,
+2015a) dedicates 9 pages to assessment in TOK, specifically addressing: 1) expectations for the
+two assessment tasks in TOK (the externally marked essay and the internally marked and externally moderated oral presentation) and 2) rubrics for each assessment task. The Theory of
+
+182
+
+Journal of Research in International Education 18(2)
+
+Knowledge teacher support materials (IB, 2015d) include two sections dedicated to assessment: 1)
+a guide to TOK assessment and 2) assessed samples of the student work. The guide to TOK assessment includes possible formative assessments aligned to teaching objectives. The qualitative data
+suggest there is a disconnect between what is provided and the support teachers need to implement
+the assessment strategies.
+
+Impact on teachers
+Teachers describe experiencing the same gains they desire for their students: seeing things from
+multiple viewpoints, being open, not judging others. Teaching TOK seems to strengthen teaching approaches used not only in TOK, but also in other courses. Teachers described studentcentered, reflective, interdisciplinary, real-world lessons as an essential part of their TOK
+teaching approach. Descriptions such as “opening minds and hearts” and “expose thinking”
+illustrate common underpinnings. Overwhelmingly, teachers felt confident in their abilities to
+successfully teach TOK. Not surprisingly, confidence in teaching TOK improved with years of
+experience teaching TOK. This aligns with findings from other studies examining teaching
+confidence and teaching self-efficacy (see Klassen & Chiu, 2010). Teacher confidence has been
+associated with positive outcomes for students (Hudson, Kloosterman, & Galindo, 2012;
+Munby, Russell, & Martin, 2001).
+
+TOK implementation
+The implementation successes and challenges were identified using data from the teacher survey
+and coordinator survey, as well as focus group transcripts. Survey items were examined to see if
+differences existed across regions and no differences across regions were identified, suggesting
+that TOK is implemented and perceived similarly regardless of school location.
+Teacher background. Many of the teachers discussed that it was challenging to teach TOK because
+they felt they didn’t have the content background necessary. However, the same teachers discussed
+the joys of collaborating with colleagues and learning new content. Teachers explained that they
+often invited colleagues to be guest teachers or team teachers when they needed support with the
+content. Because the majority (76%) of coordinators indicated that teachers were not hired specifically to teach the TOK course, it makes sense that they would be pulled from a variety of disciplines. Based on the survey responses it seems that the most common selection method for TOK
+teachers is to ask for volunteers. Only 13% of teachers indicated that they did not choose to teach
+TOK.
+Administrative challenges. The challenges surrounding TOK implementation involve class size, time
+of day, and workload. With a large class size, it is difficult to build the relationships with the students necessary for the reflective dissection of knowledge essential to teaching TOK, and to accurately and frequently use formative assessment. The timing of the TOK course was discussed at
+length during the focus groups. It seems some schools schedule TOK after school, like an extracurricular activity, sending the message that TOK is not an equal component of the DP. It is not
+clear how frequently this scheduling strategy is used. It is evident the teachers would appreciate
+scheduling TOK in the same manner that subjects in groups 1-6 are scheduled. TOK is classified
+as a component of the IB DP “core” along with the extended essay (EE) and Creativity, Activity,
+Service (CAS), but it is the only core requirement structured as a course, in a similar way to the
+subjects of the six IB DP groups.
+
+Bergeron and Rogers
+
+183
+
+Funding
+The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work was supported by the International Baccalaureate.
+
+References
+Bandalos DL and Boehm-Kaufman MR (2009) Four common misconceptions in exploratory factor analysis.
+In: Lance C.E. and Vandenberg RJ (eds) Statistical and Methodological Myths and Urban Legends:
+Doctrine, Verity, and Fable in the Organizational and Social Sciences. New York, NY: Taylor &
+Francis: pp.61–87.
+Bandura A (1989) Multidimensional scales of perceived self-efficacy. Unpublished test, Stanford: Stanford
+University.
+Bandura A (1997) Self-efficacy: The exercise of control. New York: W.H. Freeman.
+Bandura A (2006) Guide for constructing self-efficacy scales. In: Pajares F and Urdan T (eds) Self-efficacy
+beliefs of adolescents, Greenwich, CT: Information Age Publishing, pp.307–337.
+Baxter J, Ruzicka A, Beghetto R and Livelybrooks D (2014) Professional development strategically connecting mathematics and science: The impact on teachers’ confidence and practice. School Science &
+Mathematics, 114(3), 102-113.
+Bergeron L and Dean M (2013) The IB teacher professional: Identifying, measuring and characterizing pedagogical attributes, perspectives, and beliefs. Bethesda, MD: International Baccalaureate.
+Billig SH (2013) Impact of participation in CAS on students’ civic-mindedness and civic engagement. Denver,
+CO: RMC Research Corporation.
+Billig SH, Fredericks L, Swackhamer L and Espel E (2014) Case studies of learner profile implementation
+and impact in the United States. Bethesda, MD: International Baccalaureate.
+Buehl MM and Beck JS (2015). The relationship between teachers’ beliefs and teachers’ practices. In: Fives H
+and Gill MG (eds), International handbook of research on teachers’ beliefs. New York, NY: Routledge,
+pp.66-84.
+Caspary K (2011) Postsecondary enrollment patterns of IB certificate and diploma candidates from international high schools. Menlo Park, CA: SRI International.
+Caspary K and Bland J (2011) First college courses taken by Florida IB students. Menlo Park, CA: SRI
+International.
+Chan CH (1994) Operationalization and prediction of conceptions of teaching in adult education. Unpublished
+dissertation, the University of British Columbia, Vancouver, British Columbia.
+Chingos M (2012) The impact of a universal class-size reduction policy: Evidence from Florida’s statewide
+mandate. Economics of Education Review 31(5): 543-562.
+Coates H, Rosicka C and MacMahon-Ball M (2007) Perceptions of the International Baccalaureate Diploma
+Programme among Australian and New Zealand universities. Melbourne: Australian Council for
+Educational Research.
+Coca V, Johnson D, Kelley-Kemple T, et al. (2012) Working to My Potential: Experiences of CPS Students
+in the International Baccalaureate Diploma Programme. Chicago: The Consortium on Chicago School
+Research.
+Cole DR, Ullman J, Gannon S and Rooney P (2015) Critical thinking skills in the International Baccalaureate’s
+“Theory of Knowledge” subject: Findings from an Australian study. Australian Journal of Education
+59(3): 247–264.
+Collins JB and Pratt DD (2010) The teaching perspectives inventory at 10 years and 100,000 respondents:
+Reliability and validity of a teacher self- report inventory. Adult Education Quarterly 61(4): 358-375.
+Creswell JW (2008) Educational Research: planning, conducting, and evaluating quantitative and qualitative research. Upper Saddle River, NJ: Pearson.
+Dean M and Bergeron L (2015) Teaching perspectives in an International context: Multivariate analysis of
+responses to the Teaching Perspectives Inventory. Global Education Journal 2015(2): 24-43.
+Dombrowski E, Rotenberg L and Bick M (2007) Theory of Knowledge: Course Companion- IB Diploma
+Program 1st Edition. New York, NY: Oxford University Press.
+
+184
+
+Journal of Research in International Education 18(2)
+
+Dunlap WP and Greer T (1996) A Monte-Carlo study of Type I error rates and power for Tukey’s pocket test.
+Journal of General Psychology 123(4): 333-339.
+Ertmer PA, Ottenbreit-Leftwich AT and Tondeur J (2015) Teachers’ beliefs and uses of technology to support
+21st-century teaching and learning. In: Fives H and Gill MG (eds), International handbook of research
+on teachers’ beliefs. New York, NY: Routledge, pp.403-418.
+Falk B (2013) Early career teachers: Dilemmas and challenges. The New Educator 9(2): 95-97.
+Fang Z (1996) A review of research on teacher beliefs and practices. Educational Research 38: 47-65.
+Glaser BG and Strauss AL (2017) The Discovery of Grounded Theory: Strategies for Qualitative Research.
+New York, NY: Routledge.
+Greene J (2007) Mixed Methods in Social Inquiry. San Francisco, CA: John Wiley and Sons.
+Higher Education Statistics Agency (HESA) (2011) International Baccalaureate Students studying at UK
+Higher Education Institutions: How do they fare? UK: HESA.
+Huckfeldt R, Johnson P and Sprague J (2004) Political Disagreement: The Survival of Diverse Opinions
+within Communication Networks. Cambridge, UK: Cambridge University Press.
+Hudson R, Kloosterman P and Galindo E (2012) Assessing preservice teachers’ beliefs about the teaching and
+learning of mathematics and science. School Science & Mathematics 112(7): 433-442.
+Hughes C (2014) Theory of Knowledge aims, objectives and assessment criteria: An analysis of critical thinking descriptors. Journal of Research in International Education 13(1): 30–45.
+Hutcheson G and Sofroniou N (1999) The multivariate social scientist: Introductory statistics using generalized linear models. Thousand Oaks, CA: Sage Publications.
+Inkelas KK, Swan A, Pretlow J et al. (2013) Exploring the Benefits of the International Baccalaureate
+Extended Essay for University Study at the University of Virginia. Charlottesville, VA: Center for
+Advanced Study of Teaching and Learning in Higher Education, University of VA.
+International Baccalaureate (IB) (2008) IB Learner Profile Booklet. Cardiff, Wales: IB.
+International Baccalaureate (IB) (2015a) Diploma Programme: Theory of Knowledge Guide. Cardiff, Wales:
+IB.
+International Baccalaureate (IB) (2015b) IB Fast Facts. Available at: http://www.ibo.org/en/about-the-ib/
+facts-and-figures/ (accessed 10 November 2015).
+International Baccalaureate (IB) (2015c) About the IB. Available at: http://www.ibo.org/ (accessed 10
+November 2015).
+International Baccalaureate (IB) (2015d) Theory of Knowledge teacher support material. Published online via
+the International Baccalaureate Online Curriculum Center (restricted access).
+Jamieson S (2004) Likert scales: How to (ab)use them. Medical Education 38: 1212-1218.
+Klassen RM and Chiu MM (2010) Effects on teachers’ self-efficacy and job satisfaction: Teacher gender,
+years of experience, and job stress. Journal of Educational Psychology 102(3): 741-756.
+Lubke GH and Muthen BO (2004) Applying multigroup confirmatory factor models for continuous outcomes
+to Likert scale data complicates meaningful group comparisons. Structural Equation Modeling 11: 514534.
+Lucas T, Villegas AM and Martin AD (2015) Teachers’ beliefs about English language learners. In: Fives H
+and Gill MG (eds) International handbook of research on teachers’ beliefs. New York, NY: Routledge,
+pp.453-474.
+Maxwell JA (2005) Qualitative research design: An interactive approach (2nd ed.). Thousand Oaks, CA:
+Sage.
+Mertler CA and Vannatta RA (2009) Advanced and Multivariate Statistical Methods: Practical Application
+and Interpretation. Glendale, CA: Pyrczak Publishing.
+Munby H, Russell T and Martin AK (2001) Teachers’ knowledge and how it develops. In: Richardson V
+(ed) Handbook of research on teaching. Washington, DC: American Educational Research Association,
+pp.877–904.
+National Council on Teacher Quality (NCTQ) (2015) District Policy. In the NCTQ database. Available at:
+http://www.nctq.org/districtPolicy/contractDatabase/district.do?id=11 (accessed 20 November 2014).
+Pratt D, Collins J and Selinger SJ (2001) Development and Use of The Teaching Perspectives Inventory (TPI).
+Unpublished paper presented at the 2001 AERA annual conference, Seattle, WA.
+
+Bergeron and Rogers
+
+185
+
+Rosental R and Jacobson L (1968) Pygmalion in the classroom: Teacher expectation and pupils’ intellectual
+development. New York, NY: Holt, Rinehart and Winston.
+Saavedra A (2011) The Academic Impact of Enrollment in International Baccalaureate Diploma Programs:
+A Case Study of Chicago Public Schools. Paper presented at the annual conference of the American
+Educational Research Association, New Orleans, LA.
+Schilling J (2006) On the pragmatics of qualitative assessment: Designing the process for content analysis.
+European Journal of Psychological Assessment 22(1): 28-37.
+Stevens JP (1992) Applied multivariate statistics for the social sciences (2nd edition). Hillsdale, NJ: Erlbaum.
+Wade J (2011) Student Performance and Student Engagement in the International Baccalaureate Middle
+Years Programme. Bethesda, MD: International Baccalaureate.
+Weber S and Dixon S (2010) Growing Up Online: Young People and Digital Technologies. Montreal:
+Macmillan Press.
+Wilkins JLM (2008) The relationship among elementary teachers’ content knowledge, attitudes, beliefs, and
+practices. Journal of Mathematics Teacher Education 11: 139-164.
+Wright E and Lee M (2014) Developing skills for youth in the 21st century: The role of the elite International
+Baccalaureate Diploma Programme schools in China. International Review of Education 60: 199-216.
+
+Author biographies
+Liz Bergeron teaches Assessment in Education in the Graduate School of Education at Northeastern University.
+Teaching experiences include US public K-12 schools and university courses in curriculum/instruction,
+research methods, and assessment. Research expertise includes conducting a broad range of projects utilizing
+qualitative and quantitative methods to explore the impact of educational interventions, with a specific focus
+on assessment, International Baccalaureate programmes, and project-based learning. Dr. Bergeron earned her
+PhD from George Mason University in 2011.
+Leslie Rogers has been an Assistant Professor in the Department of Educational Studies at the University of
+Wisconsin-La Crosse since 2013. Her expertise relates to high incidence disabilities, parent-teacher relationships, formative assessments, and self-regulation. Dr. Rogers earned her PhD in Special Education from
+Vanderbilt in 2010. She also has experience working with diverse students at international locations, working
+as a Behavior Management Consultant for Pk-12 students and their families in Belgium, the Netherlands and
+Germany, and working as an Assistant Professor of Education in the Republic of Korea.
+
+

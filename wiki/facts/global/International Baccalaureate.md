@@ -85,7 +85,7 @@ updated: 2026-08-03
 >
 > Drake（2004）指出，将具有西方、盎格鲁根源的 IB 课程直接引入不具备相同文化基础的亚洲学校，可能产生张力，因为 IB 对"多角度思考"和"开放心态"的强调，以及为实现这些目标所采用的教学方法[[Hypothesis|假设]]，可能与亚洲课堂文化存在冲突([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.29]])。
 
-## 知识理论（ToK）与批判性思维教学
+## 知识论（ToK）与批判性思维教学
 
 > [!abstract] ToK 的课程定位
 > [[Theory of Knowledge|知识论]]（theory of knowledge, ToK）是 DP 三项核心要素之一，是一门 100 小时的必修[[Epistemology|认识论]]课程。ToK 不教授固定学科内容，而是"一门关于[[Critical Thinking|批判性思维]]和探究认识过程的课程"——学生在不受学科知识复制压力的环境中，通过结构化思维练习和跨学科活动，发展分析和评估论证、反思知识本质的能力（IBO, 2014, p. 1）（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 248]]）。

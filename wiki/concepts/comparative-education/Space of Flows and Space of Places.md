@@ -134,7 +134,7 @@ updated: 2026-06-24
 ## 围绕概念形成的命题
 
 > [!claim] 核[[Flow|心流]]转主张
-> 当定义信息时代“[[Educated Identity|受教育身份]]”的教育话语从[[Global Policy Space|全球政策空间]]（流动空间）移动 to 国家层面、再 to 以地方为基础的学校[[Praxis|实践]]（地方空间）时，由于不同空间层面独特的结构属性与政治逻辑，话语经历了从去语境化的“[[Floating Signifier|漂浮能指]]”到“革新与保守并置”的混合政策，再到受物质条件及既有知识框架中介的“微观[[Going Native|本土化]][[Shape-Shifting|形变]]”的三阶段[[Transfer Translation Transformation|转译]]，最终其实践效果与原有全球意图发生了根本性偏离。([[Argument_Beech_2009_CE|Beech, 2009, p. 348]])
+> 当定义信息时代“[[Educated Identity|受教育身份]]”的教育话语从[[Global Policy Space|全球政策空间]]（流动空间）移动 to 国家层面、再 to 以地方为基础的学校[[Praxis|实践]]（地方空间）时，由于不同空间层面独特的结构属性与政治逻辑，话语经历了从去语境化的“[[Floating Signifier|漂浮能指]]”到“革新与保守并置”的混合政策，再到受物质条件及既有[[Knowledge Framework|知识框架]]中介的“微观[[Going Native|本土化]][[Shape-Shifting|形变]]”的三阶段[[Transfer Translation Transformation|转译]]，最终其实践效果与原有全球意图发生了根本性偏离。([[Argument_Beech_2009_CE|Beech, 2009, p. 348]])
 
 ---
 

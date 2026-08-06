@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Reflexivity
@@ -161,4 +161,4 @@ McCormick & James（1988: 191）进一步论述了操作含义：高度的反身
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 阐述反身性的双重哲学根基：舒茨的[[Phenomenology|现象学]]反思性（时间性、回顾性）和加芬克尔的[[Ethnomethodology|俗民方法学]]反思性（社会性、构成性）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch11)]] — 在自然主义[[Ethnography|民族志]]的语境中展开反身性：Hammersley & Atkinson 的"研究者是卓越的研究工具"、Preissle 的中立性质疑、Cooley 的镜中自我、McCormick & James 的[[Operationalization|操作化]]监控，以及在[[Critical Ethnography|批判民族志]]中升级为政治行动主义。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 在[[Action Research|行动研究]]语境中阐述反身性的功能：作为[[Emancipatory Action Research|解放性行动研究]]的构成要素和[[Epistemology|认识论]]基础（Hall, 1996），以及研究者同时作为[[Praxis|实践]]者身份对偏见和伦理的自我审视（Newby, 2010）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 在[[Visual Research Methods|视觉研究]]语境中强调反身性：对视觉图像的解读受解读者自身背景、价值观与目的的影响，图像的选择性使研究者必须审视自身解读如何塑造对图像的理解。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 在[[Visual Research Methods|视觉研究]]语境中强调反身性：对视觉图像的解读受解读者自身背景、价值观与目的的影响，图像的选择性使解读须审视自身如何塑造对图像的理解。

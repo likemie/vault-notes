@@ -76,7 +76,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - **Tullock 的[[Tullock's Bureaucracy Theory|官僚制理论]](Tullock, 2005)** — 官僚制是信息处理金字塔，主权者面临的核心难题是知识问题和委托困境，而非简单的自利/[[Opportunist Mode|机会主义]]
+> - **Tullock 的[[Tullock's Bureaucracy Theory|官僚制理论]](Tullock, 2005)** — 官僚制是信息处理金字塔，主权者面临的核心难题是[[Knowledge Questions|知识问题]]和委托困境，而非简单的自利/[[Opportunist Mode|机会主义]]
 > - **公共选择理论（Public Choice）** — 方法个体主义分析集体决策；强调有限知识与有界理性下的协调问题
 > - **Cartwright 的因果推论哲学** — [[Randomised Controlled Trials|RCT]] 提供不偏估计但不解决[[External Validity|外部效度]]问题；[[Meta-analysis|元分析]]不解决归纳推理的谬误
 >
@@ -110,7 +110,7 @@ citation_aliases:
 >
 > 其他方法（准实验、自然实验、工具[[Variable|变量]]、差异中差、定性方法如过程追踪和分析性叙事）在特定条件下可能提供更准确的政策效应估计。
 >
-> ### 2. 官僚知识问题（Tullock 的应用）
+> ### 2. 官僚[[Knowledge Questions|知识问题]]（Tullock 的应用）
 >
 > 主权者面临两个独立的信息劣势：
 >
@@ -181,7 +181,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > ### 行为主体的动机[[Hypothesis|假设]]未充分展开
 >
-> **批评内容** Cowen 明确搁置了自利/[[Opportunist Mode|机会主义]]问题（区别于 Niskanen 的预算最大化模型），聚焦于纯粹认知挑战——"即使所有官僚真诚追求共同善，知识问题依然存在"。但批评者指出，真实官僚系统中认知约束与激励冲突并存且交互——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性呈现有利数据）。
+> **批评内容** Cowen 明确搁置了自利/[[Opportunist Mode|机会主义]]问题（区别于 Niskanen 的预算最大化模型），聚焦于纯粹认知挑战——"即使所有官僚真诚追求共同善，[[Knowledge Questions|知识问题]]依然存在"。但批评者指出，真实官僚系统中认知约束与激励冲突并存且交互——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性呈现有利数据）。
 >
 > **影响** 此简化使得 Cowen 的分析可以分离出"知识问题"的独立解释力（分析优势），但同时也可能高估了 [[Evidence-Based Education|EBE]] 的"认知解决方案"角色——如果官僚选择 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]也有自利动机（规避决策风险、转移问责），那么仅切断问责捆绑可能不足以改变行为。
 >

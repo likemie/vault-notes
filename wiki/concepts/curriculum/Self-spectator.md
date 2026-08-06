@@ -103,7 +103,7 @@ updated: 2026-08-03
 
 > [!dev-timeline] 概念演变
 > - **1991 — Heathcote 提出概念** Dorothy Heathcote 在教育戏剧的框架中提出自观概念，将其定义为参与者在[[Role-playing|角色扮演]]中同时审视自己行为的能力（Heathcote, 1991）。（Ch. 26）
-> - **1999 — Bolton and Heathcote 系统化** Bolton 与 Heathcote 在 *So You Want to Use Role-Play?* 中将自观与保护入戏（protection into role）和戏剧张力（dramatic tension）并列为成功角色扮演的关键策略（Bolton and Heathcote, 1999）。（Ch. 26）
+> - **1999 — Bolton and Heathcote 系统化** Bolton 与 Heathcote 在 *So You Want to Use Role-Play?* 中将自观与保护入戏（protection into role）和[[Dramatic Tension|戏剧张力]]（dramatic tension）并列为成功角色扮演的关键策略（Bolton and Heathcote, 1999）。（Ch. 26）
 > - **2011 — 进入研究方法论讨论** O'Sullivan 在 Cohen, Manion & Morrison 的教材中将自观纳入角色扮演研究方法论的系统讨论，将其定位为保护参与者、提升资料质量和深化反思的核心概念。（Ch. 26）
 
 ---
