@@ -152,4 +152,4 @@ Jupp & Norris (1993) 将文献分析的理论传统归纳为三类：
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011, Ch. 12)]] 系统介绍了[[Document|文献]]分析方法的核心程序、三种理论传统、伦理与法律议题，并提供了教育研究中文献分析的多个案例。
-> - [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–41)]] 以 2013 年 ToK 课程指南为材料，将课程目标、评估目标和最高等级评分描述符中的命令词与多套批判性思维分类框架进行质性对齐，以判断课程内部一致性及其[[Construct Validity|构念效度]]。
+> - [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–41)]] 以 2013 年 ToK 课程指南为材料，将课程目标、评估目标和最高等级评分描述符中的命令词与多套[[Critical Thinking|批判性思维]]分类框架进行质性对齐，以判断课程[[Internal Consistency|内部一致性]]及其[[Construct Validity|构念效度]]。

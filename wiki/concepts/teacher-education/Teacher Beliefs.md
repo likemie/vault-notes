@@ -29,7 +29,7 @@ updated: 2026-08-05
 ## 定义
 
 > [!def] 核心定义
-> 教师信念（Teacher Beliefs）是指教师对教育环境、学生能力、知识本质、有效教学方式等方面所持有的个人观念和前提假设。这些信念并非静态不变，而是与教师的实际教学经验相互作用，并且被认为是影响教师教学实践的最强直接预测指标之一。[[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019, p. 171)]]
+> 教师信念（Teacher Beliefs）是指教师对教育环境、学生能力、知识本质、[[Effective Teaching|有效教学]]方式等方面所持有的个人观念和前提[[Hypothesis|假设]]。这些信念并非静态不变，而是与教师的实际教学经验相互作用，并且被认为是影响教师教学[[Praxis|实践]]的最强直接预测指标之一。[[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019, p. 171)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 教师内在的教育价值观和教学认知模式。
@@ -44,11 +44,11 @@ updated: 2026-08-05
 
 ### 命题一　教师信念与教学实践存在双向影响关系
 
-> [!concept-lens] 实践与信念的交互机制
+> [!concept-lens] [[Praxis|实践]]与信念的交互机制
 > 简述信念与行为在特定课程经验中是如何相互构建的。
 
 > [!claim] Bergeron, L., & Rogers, L.
-> **实践与信念的互塑** 教师的教学信念直接影响他们所采用的教学实践，而教师在实施特定教学实践（如探究式教学、批判性思维培养）并获得成功后，这种成功的教学经验又会反过来强化并重塑他们的教学信念。[[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019, p. 171)]]
+> **实践与信念的互塑** 教师的教学信念直接影响他们所采用的教学实践，而教师在实施特定教学实践（如探究式教学、[[Critical Thinking|批判性思维]]培养）并获得成功后，这种成功的教学经验又会反过来强化并重塑他们的教学信念。[[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019, p. 171)]]
 
 ---
 
@@ -64,4 +64,4 @@ updated: 2026-08-05
 ## 应用案例
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bergeron_2019_JRIE|Bergeron & Rogers (2019)]] — 调查了 IB 课程中 TOK 教师的信念，指出教授开放式反思课程显著增强了教师对于批判性思维和跨学科教学的自我效能感。
+> - [[Argument_Bergeron_2019_JRIE|Bergeron & Rogers (2019)]] — 调查了 [[International Baccalaureate|IB]] 课程中 [[Theory of Knowledge|TOK]] 教师的信念，指出教授开放式反思课程显著增强了教师对于[[Critical Thinking|批判性思维]]和跨学科教学的[[Self-Efficacy|自我效能感]]。
