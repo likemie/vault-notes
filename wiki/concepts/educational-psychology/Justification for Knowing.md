@@ -14,11 +14,16 @@ tags:
   - "theme/epistemological-beliefs"
 related_concepts:
   - "[[Epistemological Theories]]"
+  - "[[Epistemology]]"
+  - "[[Subjectivism]]"
+  - "[[Critical Thinking]]"
+  - "[[Reflexivity]]"
 related_theories:
   - "[[Argumentative Reasoning]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Thomas Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
@@ -63,7 +68,7 @@ updated: 2026-08-14
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **辩护标准跃迁假说** | 认知的进化体现在从盲目接受事实，转向基于证据与语境的概率性论辩 | 解释高级[[Critical Thinking\|批判性思维]]与劣构问题求解能力的来源 | [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] |
+> | **辩护标准跃迁假说** | 认知的进化体现在从盲目接受事实，转向基于证据与语境的概率性论辩 | 解释高级[[Critical Thinking\|批判性思维]]与劣构问题求解能力的来源 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
 
 ---
 

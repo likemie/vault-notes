@@ -14,8 +14,12 @@ tags:
   - "theme/epistemological-beliefs"
 related_concepts:
   - "[[Epistemological Theories]]"
+  - "[[Epistemology]]"
+  - "[[Learner Autonomy]]"
+  - "[[Critical Thinking]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
+  - "[[Epistemological Reflection Model]]"
 related_methods: []
 related_instruments: []
 related_persons: []
@@ -63,7 +67,7 @@ updated: 2026-08-14
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **权威祛魅假说** | 认知成熟意味着知识产生主体的转移：从外部权威向内部自我建构转移 | 解释学习者自主性与[[Critical Thinking\|批判性思维]]的萌发 | [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] |
+> | **权威祛魅假说** | 认知成熟意味着知识产生主体的转移：从外部权威向内部自我建构转移 | 解释学习者自主性与[[Critical Thinking\|批判性思维]]的萌发 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
 
 ---
 

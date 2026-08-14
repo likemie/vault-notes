@@ -16,7 +16,9 @@ related_concepts:
   - "[[Epistemological Theories]]"
   - "[[Rote Learning]]"
   - "[[Epistemological Beliefs]]"
-related_theories: []
+  - "[[Certainty of Knowledge]]"
+related_theories:
+  - "[[Reflective Judgment Model]]"
 related_methods: []
 related_instruments: []
 related_persons: []
@@ -64,7 +66,7 @@ updated: 2026-08-14
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知进阶假说** | 认为对知识复杂性的包容度是个体认知成熟的关键标志 | 预测学生的学习加工深度与策略选择 | [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] |
+> | **认知进阶假说** | 认为对知识复杂性的包容度是个体认知成熟的关键标志 | 预测学生的学习加工深度与策略选择 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
 
 ---
 
