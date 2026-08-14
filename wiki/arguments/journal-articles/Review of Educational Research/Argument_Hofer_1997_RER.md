@@ -171,13 +171,13 @@ Belenky et al. (1986) 为了回应 Perry 样本的男性偏差，对135名女性
 > [!phase] Belenky et al. 的五种认识论视角
 > - **沉默（silence）**
 >   女性处于被动、无声的存在状态，完全听从外部权威。
-> - **接收知识（received knowledge）**
+> - **[[Received Knowledge|接收知识]]（received knowledge）**
 >   知识依然来源于外部权威，但她们能够复述和传递这些知识。男性的二元论者倾向于认同权威，而她们仅仅处于接收状态。
-> - **主观知识（subjective knowledge）**
+> - **[[Subjective Knowledge|主观知识]]（subjective knowledge）**
 >   真理的来源转向内心。知识是直觉的、个人的，每个人都有自己的观点。
-> - **程序知识（procedural knowledge）**
+> - **[[Procedural Knowledge|程序知识]]（procedural knowledge）**
 >   应用客观、系统的程序来进行分析。可分为两种：分离型认知（separate knowing，客观超然、批判思维）和连结型认知（connected knowing，通过同理心和个人理解获得知识）。
-> - **建构知识（constructed knowledge）**
+> - **[[Constructed Knowledge|建构知识]]（constructed knowledge）**
 >   整合了主客观策略。知识和真理是情境化的，认知者自身是知识建构的紧密参与者，框架可以被重构。
 
 > [!critique] 对[[Women's Ways of Knowing|女性认知方式]]的批评
@@ -189,13 +189,13 @@ Belenky et al. (1986) 为了回应 Perry 样本的男性偏差，对135名女性
 Baxter Magolda (1992) 对101名男女大学生进行了五年的纵向追踪，提出了整合性别模式的发展阶段。
 
 > [!phase] Baxter Magolda 的四种认知方式
-> - **绝对认知（absolute knowing）**
+> - **[[Absolute Knowing|绝对认知]]（absolute knowing）**
 >   认为权威知晓一切。在这一阶段中，女性更倾向于接收（receiving）模式，男性更倾向于掌握（mastery）模式。
-> - **过渡认知（transitional knowing）**
+> - **[[Transitional Knowing|过渡认知]]（transitional knowing）**
 >   发现权威并非全知，开始接受不确定性。女性更倾向人际（interpersonal）模式，男性偏向非人际（impersonal）模式。
-> - **独立认知（independent knowing）**
+> - **[[Independent Knowing|独立认知]]（independent knowing）**
 >   质疑权威作为唯一知识来源的地位，认为个人意见同样有效。
-> - **语境认知（contextual knowing）**
+> - **[[Contextual Knowing|语境认知]]（contextual knowing）**
 >   能够在具体语境中根据证据判断观点优劣，知识是基于新证据不断演变的。（在大学高年级样本中仅占 2%）
 
 ### 4. 反思性判断模型（Reflective Judgment）
@@ -218,15 +218,15 @@ King & Kitchener (1994) 关注个体如何为劣构问题（ill-structured probl
 Deanna Kuhn (1991) 将认识论的研究扩展到了日常非正式推理，通过访谈四个年龄段的人群面对社会问题时的论辩过程，将个体按对专长确定性的态度分类。
 
 > [!phase] Kuhn (1991) 的三层认识论观点
-> - **绝对论者（absolutists）**
+> - **[[Absolutist|绝对论者]]（absolutists）**
 > 
 >   视知识为绝对事实，专家确切掌握真理。
 > 
-> - **多元论者（multiplists）**
+> - **[[Multiplist|多元论者]]（multiplists）**
 > 
 >   对专长持怀疑态度，陷入极端[[Subjectivism|主观主义]]，认为所有观点等价。
 > 
-> - **评价论者（evaluatists）**
+> - **[[Evaluatist|评价论者]]（evaluatists）**
 > 
 >   否认绝对知识但承认专长，认为不同观点可以基于相对优劣被评估与比较。
 
@@ -248,28 +248,28 @@ Deanna Kuhn (1991) 将认识论的研究扩展到了日常非正式推理，通�
 >   <tbody>
 >     <tr>
 >       <td><b>二元论</b><br>（dualism）</td>
->       <td>沉默（silence）<br>接收知识（received knowledge）</td>
->       <td>绝对认知<br>（absolute knowing）</td>
+>       <td>沉默（silence）<br>[[Received Knowledge|接收知识]]（received knowledge）</td>
+>       <td>[[Absolute Knowing|绝对认知]]<br>（absolute knowing）</td>
 >       <td>前反思思维<br>（pre-reflective thinking）</td>
->       <td>绝对论者<br>（absolutists）</td>
+>       <td>[[Absolutist|绝对论者]]<br>（absolutists）</td>
 >     </tr>
 >     <tr>
 >       <td><b>多元论</b><br>（multiplicity）</td>
->       <td>主观知识<br>（subjective knowledge）</td>
->       <td>过渡认知<br>（transitional knowing）</td>
+>       <td>[[Subjective Knowledge|主观知识]]<br>（subjective knowledge）</td>
+>       <td>[[Transitional Knowing|过渡认知]]<br>（transitional knowing）</td>
 >       <td rowspan="2" valign="middle">准反思思维<br>（quasi-reflective thinking，横跨多/相对论）</td>
->       <td>多元论者<br>（multiplists）</td>
+>       <td>[[Multiplist|多元论者]]<br>（multiplists）</td>
 >     </tr>
 >     <tr>
 >       <td><b>相对主义</b><br>（relativism）</td>
->       <td>程序知识（procedural knowledge）<br>(a) 连结型<br>(b) 分离型</td>
->       <td>独立认知<br>（independent knowing）</td>
->       <td>评价论者<br>（evaluatists）</td>
+>       <td>[[Procedural Knowledge|程序知识]]（procedural knowledge）<br>(a) 连结型<br>(b) 分离型</td>
+>       <td>[[Independent Knowing|独立认知]]<br>（independent knowing）</td>
+>       <td>[[Evaluatist|评价论者]]<br>（evaluatists）</td>
 >     </tr>
 >     <tr>
 >       <td><b>相对主义内的承诺</b><br>（commitment within relativism）</td>
->       <td>建构知识<br>（constructed knowledge）</td>
->       <td>语境认知<br>（contextual knowing）</td>
+>       <td>[[Constructed Knowledge|建构知识]]<br>（constructed knowledge）</td>
+>       <td>[[Contextual Knowing|语境认知]]<br>（contextual knowing）</td>
 >       <td>反思思维<br>（reflective thinking）</td>
 >       <td></td>
 >     </tr>
@@ -312,7 +312,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 > 2. **第二步：归纳“知识的本质”（Nature of Knowledge）**
 >    对比剩余成分发现，所有六大模型都在探讨知识是绝对客观的还是相对演变的（如 Perry (1970) 的二元论 vs 相对主义），作者将此共性概括为“**[[Certainty of Knowledge|知识的确定性]]**”。同时，King & Kitchener (1994) 与 Schommer (1990) 额外指出了知识是孤立片段还是互联网络，这被提炼为“**[[Simplicity of Knowledge|知识的简单性]]**”。
 > 3. **第三步：归纳“认知的本质”（Nature of Knowing）**
->    几乎所有模型（如 Belenky et al., 1986，的接收知识 vs. 建构知识）都在探讨知识是由外部权威下达还是自我生成的，这被概括为“**[[Source of Knowledge|知识的来源]]**”。此外，较新的模型（如 Kuhn, 1991；King & Kitchener, 1994）重点关注了个体如何运用证据来评估对立观点，这被归纳为“**[[Justification for Knowing|认知的辩护]]**”。
+>    几乎所有模型（如 Belenky et al., 1986，的[[Received Knowledge|接收知识]] vs. [[Constructed Knowledge|建构知识]]）都在探讨知识是由外部权威下达还是自我生成的，这被概括为“**[[Source of Knowledge|知识的来源]]**”。此外，较新的模型（如 Kuhn, 1991；King & Kitchener, 1994）重点关注了个体如何运用证据来评估对立观点，这被归纳为“**[[Justification for Knowing|认知的辩护]]**”。
 
 > [!quad-grid] 认识论理论的四个核心维度
 > - **【知识的本质】[[Certainty of Knowledge|知识的确定性]]（certainty of knowledge）**

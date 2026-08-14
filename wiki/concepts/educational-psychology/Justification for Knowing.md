@@ -9,7 +9,6 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 aliases:
   - "认知的辩护"
-  - "justification for knowing"
 tags:
   - "theme/epistemological-beliefs"
 related_concepts:

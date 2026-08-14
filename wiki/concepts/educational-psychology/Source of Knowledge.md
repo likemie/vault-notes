@@ -9,7 +9,6 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 aliases:
   - "知识的来源"
-  - "source of knowledge"
 tags:
   - "theme/epistemological-beliefs"
 related_concepts:

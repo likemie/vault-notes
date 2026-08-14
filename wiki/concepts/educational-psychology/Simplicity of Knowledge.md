@@ -9,7 +9,6 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 aliases:
   - "知识的简单性"
-  - "simplicity of knowledge"
 tags:
   - "theme/epistemological-beliefs"
 related_concepts:

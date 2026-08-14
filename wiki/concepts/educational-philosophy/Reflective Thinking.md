@@ -3,7 +3,6 @@ title: Reflective Thinking
 aliases:
   - 反思性思维
   - 反思性探究
-  - reflective thinking
   - reflective inquiry
 summary: "杜威提出的哲学概念（对信念进行积极周密的审慎思考），后被心理学发展为个体在面对劣构问题时运用概率性辩护的高阶心智能力。"
 type: concept

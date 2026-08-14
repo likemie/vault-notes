@@ -1818,7 +1818,6 @@
     "aliases": [
       "反思性思维",
       "反思性探究",
-      "reflective thinking",
       "reflective inquiry"
     ]
   },
@@ -2341,6 +2340,43 @@
     ]
   },
   {
+    "title": "Absolute Knowing",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Absolute Knowing.md",
+    "aliases": [
+      "绝对认知",
+      "absolute knowing"
+    ]
+  },
+  {
+    "title": "Absolutist",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Absolutist.md",
+    "aliases": [
+      "绝对论者",
+      "absolutist",
+      "absolutists"
+    ]
+  },
+  {
+    "title": "Constructed Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Constructed Knowledge.md",
+    "aliases": [
+      "建构知识",
+      "constructed knowledge"
+    ]
+  },
+  {
+    "title": "Contextual Knowing",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Contextual Knowing.md",
+    "aliases": [
+      "语境认知",
+      "contextual knowing"
+    ]
+  },
+  {
     "title": "Epistemological Beliefs",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Epistemological Beliefs.md",
@@ -2359,12 +2395,58 @@
     ]
   },
   {
+    "title": "Evaluatist",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Evaluatist.md",
+    "aliases": [
+      "评价论者",
+      "evaluatist",
+      "evaluatists"
+    ]
+  },
+  {
+    "title": "Independent Knowing",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Independent Knowing.md",
+    "aliases": [
+      "独立认知",
+      "independent knowing"
+    ]
+  },
+  {
     "title": "Justification for Knowing",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Justification for Knowing.md",
     "aliases": [
-      "认知的辩护",
-      "justification for knowing"
+      "认知的辩护"
+    ]
+  },
+  {
+    "title": "Multiplist",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Multiplist.md",
+    "aliases": [
+      "多元论者",
+      "multiplist",
+      "multiplists"
+    ]
+  },
+  {
+    "title": "Procedural Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Procedural Knowledge.md",
+    "aliases": [
+      "程序知识",
+      "procedural knowledge"
+    ]
+  },
+  {
+    "title": "Received Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Received Knowledge.md",
+    "aliases": [
+      "接收知识",
+      "received knowledge"
     ]
   },
   {
@@ -2372,8 +2454,7 @@
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Simplicity of Knowledge.md",
     "aliases": [
-      "知识的简单性",
-      "simplicity of knowledge"
+      "知识的简单性"
     ]
   },
   {
@@ -2381,8 +2462,25 @@
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Source of Knowledge.md",
     "aliases": [
-      "知识的来源",
-      "source of knowledge"
+      "知识的来源"
+    ]
+  },
+  {
+    "title": "Subjective Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Subjective Knowledge.md",
+    "aliases": [
+      "主观知识",
+      "subjective knowledge"
+    ]
+  },
+  {
+    "title": "Transitional Knowing",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Transitional Knowing.md",
+    "aliases": [
+      "过渡认知",
+      "transitional knowing"
     ]
   },
   {
