@@ -14,6 +14,7 @@ tags:
   - "theme/epistemological-beliefs"
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Source of Knowledge]]"
   - "[[Ways of Knowing]]"
 related_theories:
   - "[[Phenomenology]]"

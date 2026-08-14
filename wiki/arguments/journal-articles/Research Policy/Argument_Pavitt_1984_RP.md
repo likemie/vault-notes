@@ -30,6 +30,7 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Epistemology]]"
   - "[[Praxis]]"
+  - "[[Source of Knowledge]]"
   - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
   - "[[Interaction Effect]]"

@@ -63,7 +63,9 @@ related_methods:
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[British Sociological Association Statement on Visual Research Ethics]]"
+  - "[[ESRC Review of Ethical Issues in Visual Research]]"
 related_arguments: []
 status: draft
 created: 2026-08-05

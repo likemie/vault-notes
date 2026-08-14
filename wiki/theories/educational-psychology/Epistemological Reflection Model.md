@@ -20,9 +20,14 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Ways of Knowing]]"
-  - "[[Theory of Knowledge]]"
-related_theories: []
-related_methods: []
+  - "[[Certainty of Knowledge]]"
+  - "[[Ontology]]"
+  - "[[Construct]]"
+  - "[[Epistemological Theories]]"
+related_theories:
+  - "[[Women's Ways of Knowing]]"
+related_methods:
+  - "[[Longitudinal Study]]"
 related_instruments: []
 related_persons: []
 related_facts: []

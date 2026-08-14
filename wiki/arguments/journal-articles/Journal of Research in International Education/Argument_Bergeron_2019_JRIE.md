@@ -50,7 +50,8 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Group Interview]]"
   - "[[Coding in Qualitative Research]]"
-related_instruments: []
+related_instruments:
+  - "[[Confidence Teaching TOK Scale]]"
 related_persons: []
 related_facts: []
 related_arguments: []

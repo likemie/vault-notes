@@ -22,6 +22,9 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Construct]]"
   - "[[Epistemological Theories]]"
+  - "[[Simplicity of Knowledge]]"
+  - "[[Source of Knowledge]]"
+  - "[[Justification for Knowing]]"
   - "[[Conatus]]"
 related_theories: []
 related_methods:

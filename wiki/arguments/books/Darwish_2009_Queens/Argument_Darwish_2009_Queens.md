@@ -53,6 +53,7 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Conscientization]]"
   - "[[Knowledge Questions]]"
+  - "[[Source of Knowledge]]"
   - "[[Reliability]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
