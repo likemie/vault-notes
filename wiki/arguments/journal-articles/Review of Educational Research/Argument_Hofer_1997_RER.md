@@ -235,46 +235,12 @@ Deanna Kuhn (1991) 将认识论的研究扩展到了日常非正式推理，通�
 ### 表1：发展模型在青春期晚期及成年的阶段对比
 
 > [!contrast-table] 表1：认识论发展模型的阶段对齐
-> <table>
->   <thead>
->     <tr>
->       <th>佩里<br>（Perry, 1970）</th>
->       <th>女性认知方式<br>（Belenky et al., 1986）</th>
->       <th>认识论反思<br>（Baxter Magolda, 1992）</th>
->       <th>反思性判断<br>（King & Kitchener, 1994）</th>
->       <th>[[Argumentative Reasoning|论辩推理]]<br>（Kuhn, 1991）</th>
->     </tr>
->   </thead>
->   <tbody>
->     <tr>
->       <td><b>二元论</b><br>（dualism）</td>
->       <td>沉默（silence）<br>[[Received Knowledge|接收知识]]（received knowledge）</td>
->       <td>[[Absolute Knowing|绝对认知]]<br>（absolute knowing）</td>
->       <td>前反思思维<br>（pre-reflective thinking）</td>
->       <td>[[Absolutist|绝对论者]]<br>（absolutists）</td>
->     </tr>
->     <tr>
->       <td><b>多元论</b><br>（multiplicity）</td>
->       <td>[[Subjective Knowledge|主观知识]]<br>（subjective knowledge）</td>
->       <td>[[Transitional Knowing|过渡认知]]<br>（transitional knowing）</td>
->       <td rowspan="2" valign="middle">准反思思维<br>（quasi-reflective thinking，横跨多/相对论）</td>
->       <td>[[Multiplist|多元论者]]<br>（multiplists）</td>
->     </tr>
->     <tr>
->       <td><b>相对主义</b><br>（relativism）</td>
->       <td>[[Procedural Knowledge|程序知识]]（procedural knowledge）<br>(a) 连结型<br>(b) 分离型</td>
->       <td>[[Independent Knowing|独立认知]]<br>（independent knowing）</td>
->       <td>[[Evaluatist|评价论者]]<br>（evaluatists）</td>
->     </tr>
->     <tr>
->       <td><b>相对主义内的承诺</b><br>（commitment within relativism）</td>
->       <td>[[Constructed Knowledge|建构知识]]<br>（constructed knowledge）</td>
->       <td>[[Contextual Knowing|语境认知]]<br>（contextual knowing）</td>
->       <td>反思思维<br>（reflective thinking）</td>
->       <td></td>
->     </tr>
->   </tbody>
-> </table>
+> | 佩里<br>（Perry, 1970） | 女性认知方式<br>（Belenky et al., 1986） | 认识论反思<br>（Baxter Magolda, 1992） | 反思性判断<br>（King & Kitchener, 1994） | [[Argumentative Reasoning\|论辩推理]]<br>（Kuhn, 1991） |
+> |---|---|---|---|---|
+> | **二元论**<br>（dualism） | 沉默（silence）<br>[[Received Knowledge\|接收知识]]（received knowledge） | [[Absolute Knowing\|绝对认知]]<br>（absolute knowing） | 前反思思维<br>（pre-reflective thinking） | [[Absolutist\|绝对论者]]<br>（absolutists） |
+> | **多元论**<br>（multiplicity） | [[Subjective Knowledge\|主观知识]]<br>（subjective knowledge） | [[Transitional Knowing\|过渡认知]]<br>（transitional knowing） | 准反思思维<br>（quasi-reflective thinking） | [[Multiplist\|多元论者]]<br>（multiplists） |
+> | **相对主义**<br>（relativism） | [[Procedural Knowledge\|程序知识]]（procedural knowledge）<br>(a) 连结型<br>(b) 分离型 | [[Independent Knowing\|独立认知]]<br>（independent knowing） | 准反思思维<br>（横跨多/相对论） | [[Evaluatist\|评价论者]]<br>（evaluatists） |
+> | **相对主义内的承诺**<br>（commitment within relativism） | [[Constructed Knowledge\|建构知识]]<br>（constructed knowledge） | [[Contextual Knowing\|语境认知]]<br>（contextual knowing） | 反思思维<br>（reflective thinking） | |
 
 ---
 
