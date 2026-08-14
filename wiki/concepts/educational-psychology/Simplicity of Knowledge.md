@@ -3,7 +3,7 @@ title: Simplicity of Knowledge
 summary: "衡量个体认为知识是孤立、离散的事实片段，还是高度互联的复杂概念网络。构成了认识论理论中“知识的本质”维度的另一半。"
 type: concept
 domain: "educational-psychology"
-related_count: 4
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
