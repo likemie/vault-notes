@@ -3,10 +3,10 @@ title: Source of Knowledge
 summary: "衡量个体认为知识是由外部权威下达的，还是个体作为积极建构者从内部生成的。构成了认识论理论中“认知的本质”维度的核心。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 aliases:
   - "知识的来源"
 tags:
@@ -14,8 +14,12 @@ tags:
 related_concepts:
   - "[[Epistemological Theories]]"
   - "[[Epistemology]]"
+  - "[[Received Knowledge]]"
   - "[[Learner Autonomy]]"
   - "[[Critical Thinking]]"
+  - "[[Constructed Knowledge]]"
+  - "[[Independent Knowing]]"
+  - "[[Absolute Knowing]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
   - "[[Epistemological Reflection Model]]"

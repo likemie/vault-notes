@@ -6,14 +6,16 @@ aliases:
 summary: "认识论反思模型（ERM）中的过渡阶段，开始接受部分知识的不确定性。"
 type: concept
 domain: "educational-psychology"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 related_concepts:
-  - "[[Source of Knowledge]]"
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
+  - "[[Epistemology]]"
+  - "[[Hypothesis]]"
+  - "[[Cognitive Source]]"
 related_theories:
   - "[[Epistemological Reflection Model]]"
 related_arguments:

@@ -12,7 +12,7 @@ title: "Argument_Wong_2022_HERD"
 argument_key: "Argument_Wong_2022_HERD"
 argument_display_title: "A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355"
 argument_kind: "journal-article"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Employability]]"
   - "[[Global Citizenship]]"
+  - "[[Procedural Knowledge]]"
   - "[[Critical Thinking]]"
 related_theories: []
 related_methods:

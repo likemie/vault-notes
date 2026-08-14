@@ -36,6 +36,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Abstract]]"
   - "[[Metacognition]]"
+  - "[[Constructed Knowledge]]"
   - "[[Assessment Backwash]]"
   - "[[Homework]]"
   - "[[Norm-Referenced Test]]"
@@ -54,9 +55,9 @@ title: "Argument_Biggs_1999_HERD"
 argument_key: "Argument_Biggs_1999_HERD"
 argument_display_title: "What the student does: Teaching for enhanced learning"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Higher Education Research & Development
 book_title: ""

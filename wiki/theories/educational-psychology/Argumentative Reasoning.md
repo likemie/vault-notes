@@ -3,9 +3,9 @@ title: Argumentative Reasoning
 summary: "Deanna Kuhn提出的考察个体在日常推理中如何评估专家确定性并为自己的观点进行辩护的三层次认识论模型。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 4
+theory_related_count: 7
 theory_related_level: 0
-theory_related_stars: "☆"
+theory_related_stars: ""
 theory_related_color: "#e5e7eb"
 aliases:
   - "论辩推理"
@@ -15,6 +15,9 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Absolutist]]"
+  - "[[Multiplist]]"
+  - "[[Evaluatist]]"
   - "[[Subjectivism]]"
 related_theories: []
 related_methods: []
@@ -43,7 +46,7 @@ updated: 2026-08-13
 ### 基于专家确定性的三种认识论观点
 
 > [!proposition-chain] 
-> [[Epistemology|认识论]]观点可依据对专长确定性的态度划分为绝对论者、多元论者和评价论者。
+> [[Epistemology|认识论]]观点可依据对专长确定性的态度划分为[[Absolutist|绝对论者]]、[[Multiplist|多元论者]]和[[Evaluatist|评价论者]]。
 
 > [!chain-link]
 > - **前提一** 对知识确定性和专家角色的看法决定了个体如何生成和权衡替代性论据。
@@ -55,4 +58,4 @@ updated: 2026-08-13
 
 > [!theory-boundary] 
 > - **适合** 分析横跨不同年龄层个体处理日常非正式问题时的认知立场与论证生成能力。
-> - **局限** 模型分类仅建立在对“专长（expertise）”问题的回应上，且评价论者层级仅占极小比例；该分类很大程度上反映了西方学校教育强调论辩与证据的价值。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 105)]]
+> - **局限** 模型分类仅建立在对“专长（expertise）”问题的回应上，且[[Evaluatist|评价论者]]层级仅占极小比例；该分类很大程度上反映了西方学校教育强调论辩与证据的价值。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 105)]]

@@ -8990,6 +8990,16 @@
     ]
   },
   {
+    "title": "Epistemic and Ontological Cognition",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Epistemic and Ontological Cognition.md",
+    "aliases": [
+      "认识论与本体论认知",
+      "EOC",
+      "EOCD model"
+    ]
+  },
+  {
     "title": "Epistemological Reflection Model",
     "type": "theory",
     "path": "wiki/theories/educational-psychology/Epistemological Reflection Model.md",
@@ -10934,6 +10944,15 @@
     ]
   },
   {
+    "title": "Factor Mixture Modeling",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Factor Mixture Modeling.md",
+    "aliases": [
+      "因子混合模型",
+      "FMM"
+    ]
+  },
+  {
     "title": "Factorial Design",
     "type": "method",
     "path": "wiki/methods/quantitative/Factorial Design.md",
@@ -11523,6 +11542,15 @@
     "aliases": [
       "ToK 课堂观察协议",
       "ToK lesson observation protocol"
+    ]
+  },
+  {
+    "title": "Epistemic and Ontological Cognition Questionnaire",
+    "type": "instrument",
+    "path": "wiki/instruments/questionnaire/Epistemic and Ontological Cognition Questionnaire.md",
+    "aliases": [
+      "认识论与本体论认知问卷",
+      "EOCQ"
     ]
   },
   {
@@ -16802,6 +16830,11 @@
     "title": "Argument_Zhao_2020_JEC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Educational Change/Argument_Zhao_2020_JEC.md"
+  },
+  {
+    "title": "Argument_Greene_2010_JEP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2010_JEP.md"
   },
   {
     "title": "Argument_Bergeron_2019_JRIE",

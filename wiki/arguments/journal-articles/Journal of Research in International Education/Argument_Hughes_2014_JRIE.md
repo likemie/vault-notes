@@ -31,6 +31,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
+  - "[[Constructed Knowledge]]"
   - "[[Domain Analysis]]"
   - "[[Knowledge Framework]]"
   - "[[Knowledge Production]]"
@@ -54,7 +55,7 @@ title: "Argument_Hughes_2014_JRIE"
 argument_key: "Argument_Hughes_2014_JRIE"
 argument_display_title: "Theory of Knowledge aims, objectives and assessment criteria: An analysis of critical thinking descriptors"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

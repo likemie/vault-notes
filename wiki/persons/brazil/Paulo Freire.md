@@ -8,7 +8,7 @@ summary: "巴西教育家，批判教育学奠基人和 被压迫者教育学 �
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
+  - "[[Received Knowledge]]"
   - "[[Problem-Posing Education]]"
   - "[[Dialogue in Education]]"
   - "[[Praxis]]"
@@ -59,7 +60,7 @@ updated: '2026-06-08'
 ### 1972 — *Pedagogy of the Oppressed*
 
 - APA：Freire, P. (1972). *Pedagogy of the Oppressed*. Penguin.
-- 核心内容：提出银行概念（banking concept）——在教育中，知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物（Freire, 1972, p.17）。教育由此成为一种压迫性储蓄行为：教师存入知识，学生被动接收知识，知识流动完全自上而下。Freire 以[[Problem-Posing Education|提问式教育]]（problem-posing education）作为替代方案，主张师生通过[[Dialogue in Education|对话]]共同创造知识。
+- 核心内容：提出银行概念（banking concept）——在教育中，知识是那些自认为有知识的人赠予那些被认为一无所知的人的礼物（Freire, 1972, p.17）。教育由此成为一种压迫性储蓄行为：教师存入知识，学生被动[[Received Knowledge|接收知识]]，知识流动完全自上而下。Freire 以[[Problem-Posing Education|提问式教育]]（problem-posing education）作为替代方案，主张师生通过[[Dialogue in Education|对话]]共同创造知识。
 - 思想位置：Freire 的成熟理论代表作，基于 1960 年代巴西扫盲运动的[[Praxis|实践]]经验。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 将此模型从巴西成人扫盲教育的具体语境提升为 [[Geopolitics of Knowledge|GPK]] 的一般分析工具，识别出从压迫者的客观性向下流向被压迫者的主体性的权力梯度([[Argument_Partaken_2022_Springer|Partaken, 2022, p.75–76]])。
 
 ---

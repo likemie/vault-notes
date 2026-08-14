@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中用于追问个体与共同体如何获得、建构和审查知识的课程分类框架；它连接认知者、知识主张与知识领域，并随指南版本由四项扩展为八项。"
 type: concept
 domain: "curriculum"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
+  - "[[Constructed Knowledge]]"
   - "[[Operationalization]]"
   - "[[Construct Validity]]"
   - "[[Disciplina and Doctrina]]"

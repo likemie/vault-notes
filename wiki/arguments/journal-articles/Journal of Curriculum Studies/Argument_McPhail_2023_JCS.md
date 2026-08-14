@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Postmodernism]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Constructed Knowledge]]"
   - "[[Ways of Knowing]]"
   - "[[Powerful Knowledge]]"
   - "[[Mātauranga Māori]]"

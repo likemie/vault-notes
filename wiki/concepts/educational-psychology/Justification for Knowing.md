@@ -3,7 +3,7 @@ title: Justification for Knowing
 summary: "衡量个体如何评估知识主张、运用证据，以及如何在不同观点之间进行概率性的评价与辩护。这是高阶认识论理论的核心机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Subjectivism]]"
   - "[[Critical Thinking]]"
+  - "[[Evaluatist]]"
   - "[[Reflexivity]]"
 related_theories:
   - "[[Argumentative Reasoning]]"

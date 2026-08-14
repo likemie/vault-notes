@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中用于比较不同知识传统如何界定问题、生产证据和形成判断的课程分类框架；它连接学科情境、认知方式与知识问题，并随指南版本由六项扩展为八项。"
 type: concept
 domain: "curriculum"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
+  - "[[Constructed Knowledge]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Ways of Knowing]]"

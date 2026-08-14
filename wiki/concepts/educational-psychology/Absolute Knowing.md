@@ -6,14 +6,16 @@ aliases:
 summary: "认识论反思模型（ERM）的基础阶段，认为知识是绝对确定并由权威掌握的。"
 type: concept
 domain: "educational-psychology"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 related_concepts:
-  - "[[Source of Knowledge]]"
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
+  - "[[Epistemology]]"
+  - "[[Hypothesis]]"
+  - "[[Cognitive Source]]"
 related_theories:
   - "[[Epistemological Reflection Model]]"
 related_arguments:

@@ -8,7 +8,7 @@ aliases:
 summary: "经目的性选择和加工的派生统计量，合并多数据源；Le Galès 技术—权力双重性框架，Rambla 四维运作机制分析；合并原 Education Indicators"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Selectivity]]"
   - "[[Hypothesis]]"
+  - "[[Constructed Knowledge]]"
   - "[[Theories of Policy Change]]"
   - "[[Performativity]]"
   - "[[Performativity of Measurement]]"

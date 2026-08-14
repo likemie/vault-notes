@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的核心必修科目（100 小时），通过反思知识本质和思维过程培养批判性思维，不设置固定的知识内容。"
 type: concept
 domain: "curriculum"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Extended Essay]]"
   - "[[Champ]]"
+  - "[[Constructed Knowledge]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"

@@ -7,14 +7,16 @@ aliases:
 summary: "论辩推理模型中的高级认识论立场，认为观点可以根据证据的优劣进行概率性评估。"
 type: concept
 domain: "educational-psychology"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 related_concepts:
-  - "[[Source of Knowledge]]"
+  - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
+  - "[[Hypothesis]]"
+  - "[[Cognitive Source]]"
 related_theories:
   - "[[Argumentative Reasoning]]"
 related_arguments:

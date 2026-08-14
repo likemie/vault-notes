@@ -3,10 +3,10 @@ title: Women's Ways of Knowing
 summary: "Belenky等人提出的关注女性作为认知者如何看待真理、知识与权威的五个认识论视角模型。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 5
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 aliases:
   - "女性认知方式"
   - "women's ways of knowing"
@@ -16,6 +16,10 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Source of Knowledge]]"
   - "[[Ways of Knowing]]"
+  - "[[Received Knowledge]]"
+  - "[[Subjective Knowledge]]"
+  - "[[Procedural Knowledge]]"
+  - "[[Constructed Knowledge]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods: []
@@ -48,10 +52,10 @@ updated: 2026-08-13
 
 > [!chain-link]
 > - **前提一** 传统男性视角忽视了关怀、联系与女性个体的自我概念发展。
-> - **机制一** 沉默（Silence）与接收知识（Received knowledge）：知识来源于外部。
-> - **机制二** 主观知识（Subjective knowledge）：真理的来源转向内在自我。
-> - **机制三** 程序知识（Procedural knowledge）：区分为分离型认知（Separate knowing）与连结型认知（Connected knowing）。
-> - **结论一** 建构知识（Constructed knowledge）：整合了主客观策略，认知者自身成为知识建构的紧密参与者。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 95)]]
+> - **机制一** 沉默（Silence）与[[Received Knowledge|接收知识]]（Received knowledge）：知识来源于外部。
+> - **机制二** [[Subjective Knowledge|主观知识]]（Subjective knowledge）：真理的来源转向内在自我。
+> - **机制三** [[Procedural Knowledge|程序知识]]（Procedural knowledge）：区分为分离型认知（Separate knowing）与连结型认知（Connected knowing）。
+> - **结论一** [[Constructed Knowledge|建构知识]]（Constructed knowledge）：整合了主客观策略，认知者自身成为知识建构的紧密参与者。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 95)]]
 
 ## 适用边界
 

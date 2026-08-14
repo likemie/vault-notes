@@ -6,14 +6,16 @@ aliases:
 summary: "女性认知方式模型中的认识论阶段，个体将知识视为绝对的确切事实，只能从外部权威处被动接收。"
 type: concept
 domain: "educational-psychology"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 related_concepts:
-  - "[[Source of Knowledge]]"
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
+  - "[[Epistemology]]"
+  - "[[Hypothesis]]"
+  - "[[Cognitive Source]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
 related_arguments:

@@ -3,7 +3,7 @@ title: Epistemological Reflection Model
 summary: "Baxter Magolda提出的一项考察男女学生在四种认知方式中性别相关推理模式的纵向发展模型。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 9
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,6 +20,10 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Ways of Knowing]]"
+  - "[[Absolute Knowing]]"
+  - "[[Transitional Knowing]]"
+  - "[[Independent Knowing]]"
+  - "[[Contextual Knowing]]"
   - "[[Certainty of Knowledge]]"
   - "[[Ontology]]"
   - "[[Construct]]"
@@ -61,10 +65,10 @@ updated: 2026-08-14
 > 
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 绝对认知（Absolute knowing） | 阶段 | 发展的起点，认为知识是确定无疑的，由外部权威掌握。 |
-> | 过渡认知（Transitional knowing） | 阶段 | 发展的第二步，发现权威并不全知，开始接受知识的不确定性。 |
-> | 独立认知（Independent knowing） | 阶段 | 发展的第三步，质疑权威的垄断地位，认为所有人的个人意见同样有效。 |
-> | 语境认知（Contextual knowing） | 阶段 | 发展的最高阶，能够在具体语境中根据证据权衡观点优劣，知识是基于新证据不断演变的。 |
+> | [[Absolute Knowing\|绝对认知]]（Absolute knowing） | 阶段 | 发展的起点，认为知识是确定无疑的，由外部权威掌握。 |
+> | [[Transitional Knowing\|过渡认知]]（Transitional knowing） | 阶段 | 发展的第二步，发现权威并不全知，开始接受知识的不确定性。 |
+> | [[Independent Knowing\|独立认知]]（Independent knowing） | 阶段 | 发展的第三步，质疑权威的垄断地位，认为所有人的个人意见同样有效。 |
+> | [[Contextual Knowing\|语境认知]]（Contextual knowing） | 阶段 | 发展的最高阶，能够在具体语境中根据证据权衡观点优劣，知识是基于新证据不断演变的。 |
 > | 学习者角色与评价预期 | 边缘构件 | 模型在考察[[Epistemology\|认识论]]时，不仅测量知识本身，还测量了学生对同伴角色、教师教学和测验方式的感知。 |
 
 ---
@@ -74,10 +78,10 @@ updated: 2026-08-14
 > [!proposition-chain] 核心命题一｜[[Epistemology|认识论]]经历了从依赖权威到自我建构的四阶纵向演变
 > - **前提一** 随着教育经验的增加，个体对权威的信任以及对[[Certainty of Knowledge|知识的确定性]]的理解会发生松动。
 > - **推导**
->   ① **绝对认知** 个体认为权威知晓一切，学习就是从权威那里获取客观知识。
->   ② **过渡认知** 由于接触到冲突的信息，个体发现权威也有局限性，开始意识到有些知识是不确定的。
->   ③ **独立认知** 随着不确定性范围的扩大，个体将焦点从外部转向内部，开始宣称“自己的观点”是有效的，形成平等的独立判断。
->   ④ **语境认知** 超越了盲目的意见平等，个体学会了基于具体语境和证据，概率性地评价不同主张的相对优劣。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 98)]]
+>   ① **[[Absolute Knowing|绝对认知]]** 个体认为权威知晓一切，学习就是从权威那里获取客观知识。
+>   ② **[[Transitional Knowing|过渡认知]]** 由于接触到冲突的信息，个体发现权威也有局限性，开始意识到有些知识是不确定的。
+>   ③ **[[Independent Knowing|独立认知]]** 随着不确定性范围的扩大，个体将焦点从外部转向内部，开始宣称“自己的观点”是有效的，形成平等的独立判断。
+>   ④ **[[Contextual Knowing|语境认知]]** 超越了盲目的意见平等，个体学会了基于具体语境和证据，概率性地评价不同主张的相对优劣。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 98)]]
 
 > [!proposition-chain] 核心命题二｜特定的[[Ways of Knowing|认知方式]]内部存在与性别相关的推理偏好
 > - **前提一** 性别并非决定认知方式的绝对壁垒（男女都会经历这四个阶段），但男女在面对同一阶段的挑战时，往往采取不同风格的应对策略。
@@ -100,7 +104,7 @@ updated: 2026-08-14
 > [!theory-boundary] 适用边界
 > - **适合解释** 西方高等教育环境下的大学生[[Epistemology|认识论]]转变以及课堂互动风格差异。
 > - **谨慎使用（Hofer的批评一）** 该模型的[[Construct|构念]]存在边界不清的问题。它不仅测量了学生对“知识和认知”的纯粹认识论假说，还测量了他们对“学习者角色、同伴角色、评价方式”的广义教育预期（例如如何看待考试分数）。这些属于边缘信念，而非核心的[[Epistemological Theories|认识论理论]]。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 99)]]
-> - **局限（Hofer的批评二）** 模型所描述的最高阶——“语境认知”——实际上在大学高年级学生样本中极为罕见（仅占 2%），且其结论主要基于同质化的中西部美国大学样本，跨文化推广需谨慎。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 99)]]
+> - **局限（Hofer的批评二）** 模型所描述的最高阶——“[[Contextual Knowing|语境认知]]”——实际上在大学高年级学生样本中极为罕见（仅占 2%），且其结论主要基于同质化的中西部美国大学样本，跨文化推广需谨慎。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 99)]]
 
 ---
 

@@ -7,14 +7,16 @@ aliases:
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观的事实。"
 type: concept
 domain: "educational-psychology"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 related_concepts:
-  - "[[Source of Knowledge]]"
+  - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
+  - "[[Hypothesis]]"
+  - "[[Cognitive Source]]"
 related_theories:
   - "[[Argumentative Reasoning]]"
 related_arguments:
