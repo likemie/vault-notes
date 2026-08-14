@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-08-06
+updated: 2026-08-11
 ---
 
 # Artefact
@@ -43,7 +43,7 @@ updated: 2026-08-06
 ## 定义
 
 > [!def] 核心定义
-> 器物（artefact）指在研究中作为[[Visual Data|视觉数据]]使用的有形物体，包括室内设计与设备、书桌、桌子、椅子、教科书、练习册、设备、装饰品、展示材料、服装、图画、地图、布告栏、课程计划、智能白板、运动器材、科学材料、儿童玩具、阅读材料与 DVD 等。器物能传达信息，即便这些信息可能并不清晰；它们是教育、人类学与历史研究中的常用资料。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
+> 器物（artefact）指在研究中作为[[Visual Data|视觉数据]]使用的有形物体，包括室内设计与设备、书桌、桌子、椅子、教科书、练习册、设备、装饰品、展示材料、服装、图画、地图、布告栏、课程计划、智能白板、运动器材、科学材料、儿童玩具、阅读材料与数字通用光盘（digital versatile disc，DVD）等。器物能传达信息，即便这些信息可能并不清晰；它们是教育、人类学与历史研究中的常用资料。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 器物指向在物理空间中存在、可被观察和把玩的有形物体，是[[Visual Research Methods|视觉研究]]的一种资料来源。

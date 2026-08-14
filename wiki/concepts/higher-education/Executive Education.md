@@ -9,7 +9,7 @@ aliases:
 summary: "大学面向在职专业人士提供的非学位短期培训项目，传统上通过从学位课程映射内容来运作，在跨学科复杂社会挑战面前需要在课程设计、教师组织、伙伴合作与评估四个维度进行系统性创新"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Praxis]]"
   - "[[Corporate Education]]"
+  - "[[Knowledge Framework]]"
   - "[[Corporate University]]"
   - "[[Lifelong Learning]]"
   - "[[Hypothesis]]"

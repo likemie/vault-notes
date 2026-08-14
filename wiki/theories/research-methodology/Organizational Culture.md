@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-08-06
+updated: 2026-08-11
 ---
 
 # Organizational Culture
@@ -61,7 +61,7 @@ updated: 2026-08-06
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题｜组织文化有三个层次，[[Artefact|器物]]是最可观察的显现
-> - **前提一** 文化不是单一同质的存在，而是分层显现的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.4)]]
+> - **前提一** 文化是分层显现的，而非单一同质的存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.4)]]
 > - **前提二** 器物是可观察的表层，例如行政主管办公室、着装规范、所采用的技术及其使用位置、工作空间的物理布局，以及工作场所提供或观察到的物件。
 > - **前提三** 器物可能提示一个群体在做什么，却不能说明他们为什么这样做。
 > - **推导** 因此可通过观察器物把握组织的可见面貌，但要理解文化就必须同时触及价值观与深层规范，而不能止步于器物。

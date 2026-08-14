@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 93
+related_count: 94
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Technical Rationality]]"
   - "[[Research Utilization]]"
+  - "[[Knowledge Questions]]"
   - "[[Visible Learning]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Technology Infusion]]"

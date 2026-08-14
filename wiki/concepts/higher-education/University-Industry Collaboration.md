@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间有目的的、对齐的合作关系，涵盖研究与学术、教育与学习、公共效益三大维度，区别于单纯的产学关系，强调正式协议框架下的深度参与"
 type: concept
 domain: "higher-education"
-related_count: 94
+related_count: 95
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Executive Education]]"
   - "[[Further Education]]"
+  - "[[Knowledge Framework]]"
   - "[[Joint Faculty Appointments]]"
   - "[[University-Industry Co-location]]"
   - "[[Partnership Continuum]]"

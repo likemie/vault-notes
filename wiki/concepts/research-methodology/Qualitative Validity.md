@@ -7,10 +7,10 @@ aliases:
 summary: "质性研究中研究者通过特定程序检查研究发现准确性的标准，与量化效度、信度和推广度的含义不同"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - research-methodology
   - qualitative-research
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Causality]]"
   - "[[Qualitative Reliability]]"
+  - "[[Emic and Etic]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -39,10 +40,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-08-14
 ---
 
 # Qualitative Validity
@@ -73,4 +75,14 @@ Creswell & Creswell（2022, Ch9）推荐使用多种策略组合来增强研究�
 > - vs [[Internal Validity|内部效度]] — 量化内部效度关注[[Causality|因果关系]]的替代解释排除；质性效度关注研究者解释对参与者经验的忠实程度。
 > - vs [[External Validity|外部效度]] — 量化外部效度关注结果对不同人群、情境和时间的推广性；质性效度强调特定性（particularity）而非推广性（generalizability）。
 > - vs [[Qualitative Reliability|质性信度]] — 效度检查准确性，[[Reliability|信度]]检查一致性。
+
+---
+
+## 质性数据分析中的效度
+
+> [!warning] 外部诉求点有限
+> 在质性数据分析中，除受访者验证（[[Member Checking]]）外，可诉诸的[[External Validity|外部效度]]检验点往往有限；研究者纳入哪些数据与事件必然涉及个人选择，但这一选择必须对所研究现象公平。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+
+> [!claim] 效度检验的多重保障
+> 选择、分析与诠释事件和数据虽然不可避免地带有个人的、部分印象式的色彩，但并非仅止于此——它们还受到以下效度检验的约束：纳入其他参与者的观点，并对涉及不止一名研究者的实际事件作忠实记录。数据分析与报告的效度还因以下做法而增强：捕捉不同参与者对情境的不同定义、综合[[Emic and Etic|主位与客位]]分析、以[[Reflexivity|反身性]]减轻"缺乏客观性"的批评。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 

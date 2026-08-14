@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 128
+argument_related_count: 129
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Qualitative Validity]]"
   - "[[Rich and Thick Description]]"
+  - "[[Double Hermeneutic]]"
   - "[[Questionnaire]]"
   - "[[Emergence]]"
   - "[[Concurrent Validity]]"
@@ -234,7 +235,7 @@ updated: 2026-07-13
 > - **情境约束与"[[Rich and Thick Description|厚描述]]"** 不追求去情境化，反而是情境赋予了数据意义
 > - **数据具有社会处境性和社会文化饱和性** 数据不是"客观事实"，而是社会和文化建构的产物
 > - **研究者是被研究世界的一部分** 研究者不是站在世界之外的观察者，而是在世界之中
-> - **双重诠释学（double hermeneutic, Giddens, 1979）** 我们生活在一个已经被解释过的世界中，研究者需要理解他人如何理解世界。悖论在于：理解人类生命的最充分复杂的工具是另一个人类（Lave & Kvale, 1995: 220），但这同时也带来了各种形式的人类错误风险
+> - **[[Double Hermeneutic|双重诠释学]]（double hermeneutic, Giddens, 1979）** 我们生活在一个已经被解释过的世界中，研究者需要理解他人如何理解世界。悖论在于：理解人类生命的最充分复杂的工具是另一个人类（Lave & Kvale, 1995: 220），但这同时也带来了各种形式的人类错误风险
 > - **研究中的整体论（holism）** 不将现象碎片化，而是在整体中理解部分
 > - **研究者是关键工具** 研究者而非[[Questionnaire|问卷]]或量表是研究的关键工具
 > - **数据是描述性的** 以文字和叙述而非数字为主要呈现形式

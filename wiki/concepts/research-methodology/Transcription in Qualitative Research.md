@@ -7,7 +7,7 @@ aliases:
 summary: "将口头访谈转换为书面文本的过程，是选择性转换而非中性记录，涉及从口头和人际规则系统到书面语言系统的根本性变化"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,10 +23,11 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-14
 ---
 
 # Transcription in Qualitative Research
@@ -82,3 +83,33 @@ updated: 2026-07-22
 > - 无机械记录：[[Reliability|可靠性]]依赖访谈者记忆，而记忆是动机性的（Gadd, 2004, p. 384），可能选择性回忆。核心权衡在于尽可能多地捕获数据，还是避免环境过于压抑。
 >
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, pp. 443–447]]）
+
+---
+
+## 转录实践：成本、替代与转录规范
+
+> [!cost-table] 转录的成本与替代选择（28.1）
+> | 选择 | 说明 | 代价 |
+> |---|---|---|
+> | **转录** | 提供重要细节与准确的逐字记录。 | 省略非言语方面、访谈前后与情境特征；耗时长（一小时访谈需五到六小时转录）；需要转录机或可暂停的软件。 |
+> | **直接从录音／录像分析** | 直接从原始音像资料中选取重要材料书写分析，不经由转录这一中介环节。 | 避免陷入细节而看不见整体图景。 |
+> | **语音识别软件** | 识别并转写语音，可节省时间。 | 转录[[Reliability\|可靠性]]受语音识别准确度影响。 |
+
+> [!info] 转录机与转录者
+> 转录机（transcription machine）可用脚踏板暂停以便转录者书写，或借助软件让研究者暂停以录入数据。转录者需核验转录的准确性，因为听错或混淆词语并不罕见（Gibbs, 2007, p. 19 给出了许多此类混淆的例子）。若转录涉及敏感或个人资料，还须考虑由谁进行转录、转录者须遵守何种伦理条件（如保密）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.1, 28.3)]]
+
+### 转录规范（transcription conventions）
+
+> [!proc] 必须明确的转录规范
+> 使用转录时必须说明所遵循的转录规范（详见第30章），通常包括：
+> - **说话者标记** 给每位说话者一个姓名或化名，并另列清单记录化名对应关系。
+> - **停顿与沉默** 记录犹豫、短到长的停顿与沉默（如用句点 . . . 表示）。
+> - **语调与情绪** 记录抑扬变化（升到降）以及说话者当时情绪：愤怒、焦虑、悲伤、兴奋、疑问、犹豫等。
+> - **音量与语速** 记录音量（轻声到大声、低语到叫喊）与语速（慢到快、匆忙到平静）。
+> - **中断与重音** 记录言语的中断（突然到斟酌）、重音与短语。
+> - **呼吸与非言语** 记录可闻的吸气呼气、非言语活动（如站立、后仰）；从录像转录时记录非言语行为。
+> - **无法解读的噪音** 记录不可解读的噪音（如括号内标"noise"或"unclear noise"）。
+> - **同时说话** 记录多人同时说话（如每位说话者名字后加"together"）。
+> - **拼写一致与行号** 拼写保持一致以便检索，确保每行或段落编号，留宽页边距与双倍行距供纸本批注。
+>
+> （Atkinson & Heritage, 1999; Flick, 2009, pp. 300–2; Woods, 2010; 引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al., 2011, 28.1]]）

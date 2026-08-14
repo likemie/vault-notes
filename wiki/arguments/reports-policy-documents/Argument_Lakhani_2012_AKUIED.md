@@ -22,9 +22,9 @@ title: "Argument_Lakhani_2012_AKUIED"
 argument_key: "Argument_Lakhani_2012_AKUIED"
 argument_display_title: "Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum"
 argument_kind: "conference-paper"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
 issuing_organization: Aga Khan University Institute for Educational Development
 sources:
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Learner Autonomy]]"
   - "[[Epistemology]]"
+  - "[[International Baccalaureate]]"
   - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Definition of Terms]]"
@@ -51,6 +52,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Leading Questions]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[IB Learner Profile]]"
   - "[[Sample Size Determination]]"
 related_methods:
   - "[[Case Study]]"
@@ -60,7 +62,6 @@ related_methods:
   - "[[Member Checking]]"
 related_facts:
   - "[[National Education Policy 2009 Pakistan]]"
-  - "[[International Baccalaureate]]"
 status: draft
 created: 2026-07-02
 updated: 2026-07-02
@@ -306,7 +307,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ## 关键引用
 
 > [!citation-card]- 探究者、思考者与创造者的统一
-> 学习者培养目标中提到的探究者、思考者、风险承担者、反思者和创造者角色及其实际表现，共同凸显了学习者的主动性、[[Critical Thinking|批判性思维]]、多元视角、创造性表达和自我反思。（pp.178–179）
+> [[IB Learner Profile|学习者培养目标]]中提到的探究者、思考者、风险承担者、反思者和创造者角色及其实际表现，共同凸显了学习者的主动性、[[Critical Thinking|批判性思维]]、多元视角、创造性表达和自我反思。（pp.178–179）
 >
 > *Briefly, it can be asserted that, the roles of being Inquirers, Thinkers, Risk-takers, Reflective and Creative mentioned in the learner profile and also their enactments highlight the learners' initiative, critical thinking, diverse perspectives, creative expression and self-reflection.*
 

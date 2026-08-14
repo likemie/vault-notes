@@ -7,7 +7,7 @@ summary: "法国哲学家、数学家与科学家，近代哲学之父，以我�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_persons:
   - "[[Socrates]]"
   - "[[Plato]]"
   - "[[Otto Neurath]]"
+  - "[[Baruch Spinoza]]"
   - "[[George Berkeley]]"
   - "[[Immanuel Kant]]"
 related_facts: []
@@ -120,7 +121,7 @@ updated: 2026-07-11
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 笛卡尔被视为近代哲学之父——他将[[Epistemology|认识论]]（我们如何知道？）确立为哲学的首要问题，取代了经院哲学的[[Ontology|本体论]]优先。此后的斯宾诺莎、莱布尼茨、洛克、[[George Berkeley|贝克莱]]、休谟、[[Immanuel Kant|康德]]全都在回应他设定或遗留的问题（待核）
+> - **理论路径** 笛卡尔被视为近代哲学之父——他将[[Epistemology|认识论]]（我们如何知道？）确立为哲学的首要问题，取代了经院哲学的[[Ontology|本体论]]优先。此后的[[Baruch Spinoza|斯宾诺莎]]、莱布尼茨、洛克、[[George Berkeley|贝克莱]]、休谟、[[Immanuel Kant|康德]]全都在回应他设定或遗留的问题（待核）
 > - **数学与科学路径** 笛卡尔坐标系（解析几何）统一了代数和几何，为牛顿和莱布尼茨的微积分奠定了基础。笛卡尔的机械自然观（物质世界即广延 + 运动）构成了牛顿物理学的哲学前提（待核）
 > - **教育路径** 笛卡尔怀疑的方法——将一切既有信念置于审判之下，只接受清晰且明确（clear and distinct）的真理——深刻影响了现代教育中的[[Critical Thinking|批判性思维]]训练
 > - **被批判路径** 纽拉特（1913）在《笛卡尔的迷路者》（*Die Verirrten des Cartesius*）中直接挑战了笛卡尔的基础主义。笛卡尔的方法要求先找到绝对确定的起点（cogito），再以此为基础构建知识大厦。纽拉特用一个比喻回应：水手在海上修船，不能回到港口从头开始，只能一块木板一块木板地替换，脚下踩着要被替换的木板来施工。所有知识都是这样——没有笛卡尔式的绝对基础可供依赖。这一反基础主义洞见被 Zemplén 用作 [[Theory of Knowledge|TOK]] 课堂上替代简化版[[Falsification|证伪主义]]的教学起点。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]

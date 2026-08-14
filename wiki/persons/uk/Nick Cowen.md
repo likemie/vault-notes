@@ -7,7 +7,7 @@ summary: "英国政治科学家，公共选择理论取向的教育政策分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
+  - "[[Knowledge Questions]]"
   - "[[Paradigm]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Programme Fidelity vs Adaptation]]"
@@ -77,7 +78,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Tullock's Bureaucracy Theory]] — 将 Tullock 的官僚制知识问题应用于 [[Evidence-Based Education|EBE]]，解释实验[[Paradigm|范式]]的主导地位
+> - [[Tullock's Bureaucracy Theory]] — 将 Tullock 的官僚制[[Knowledge Questions|知识问题]]应用于 [[Evidence-Based Education|EBE]]，解释实验[[Paradigm|范式]]的主导地位
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 与 Cartwright 合作将 [[Randomised Controlled Trials|RCT]] 证据外推的三阶段框架应用于教育政策实施分析
 > - [[Evidence-Based Education]] — 从两个维度补充 Biesta 的[[Epistemology|认识论]]批判：制度逻辑维度（2019）和实施实践维度（2015）
 > - [[Local Knowledge in Evidence-Based Policy]] — 通过实证访谈确立本地知识在 EBP 实施中的核心地位

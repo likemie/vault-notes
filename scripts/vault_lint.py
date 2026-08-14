@@ -229,8 +229,8 @@ PAGE_ONLY_REF_RE = re.compile(
 )
 ENGLISH_AUTHOR_AND_RE = re.compile(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:and|和)\s*(?=[A-ZÀ-ÖØ-Þ])")
 APA_INVERTED_PERSON_RE = re.compile(
-    r"^[A-Za-zÀ-ÖØ-öø-ÿ'’.-]+(?:[ -][A-Za-zÀ-ÖØ-öø-ÿ'’.-]+)*,\s*"
-    r"(?:[A-ZÀ-ÖØ-Þ]\.(?:-[A-ZÀ-ÖØ-Þ]\.)?\s*)+$"
+    r"^[A-Za-zÀ-ÖØ-öø-ÿĀ-ſ'’.-]+(?:[ -][A-Za-zÀ-ÖØ-öø-ÿĀ-ſ'’.-]+)*,\s*"
+    r"(?:[A-ZÀ-ÖØ-ÞĀ-ſ]\.(?:-[A-ZÀ-ÖØ-ÞĀ-ſ]\.)?\s*)+$"
 )
 ORGANIZATION_CREATOR_RE = re.compile(
     r"\b(?:academy|agency|assessment|association|board|center|centre|college|commission|company|"

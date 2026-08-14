@@ -4,12 +4,11 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Argument_Darwish_2009_Queens"
 argument_kind: "books"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#e5e7eb"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
 status: active
@@ -48,10 +47,12 @@ related_concepts:
   - "[[Growth]]"
   - "[[Freedom of the Learner]]"
   - "[[Reflective Thinking]]"
+  - "[[International Baccalaureate]]"
   - "[[Banking Model of Education]]"
   - "[[Socratic Elenchus]]"
   - "[[Learning by Doing]]"
   - "[[Conscientization]]"
+  - "[[Knowledge Questions]]"
   - "[[Reliability]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
@@ -158,7 +159,7 @@ related_persons:
 ##### 主题四：IB 知识论（TOK）课程的案例引入与理论疑局
 
 > [!case] 课例1.1：IB TOK 课程中的[[Knowledge Questions|知识问题]]探究与评估异化
-> - **教学设计意图** [[Theory of Knowledge|TOK]] 课程旨在促使学生质疑知识的来源与[[Reliability|可靠性]]，通过探究“[[Ways of Knowing|认知方式]]”（WOK）与“[[Areas of Knowledge|知识领域]]”（AOK）开展主动探究 (pp. 12–13)。
+> - **教学设计意图** [[Theory of Knowledge|TOK]] 课程旨在促使学生质疑[[Source of Knowledge|知识的来源]]与[[Reliability|可靠性]]，通过探究“[[Ways of Knowing|认知方式]]”（WOK）与“[[Areas of Knowledge|知识领域]]”（AOK）开展主动探究 (pp. 12–13)。
 > - **实践中的异化困境** 由于 IBO 采用了高度标准化的外部评估（论文与演示文稿），教师与学生在实际操作中倾向于套用固定的解题公式与应试模板，导致本应具备解放性的批判性探究重新退化为一种新型的储蓄式应试技巧 (pp. 14–16)。
 > - **内容筛选的理论依据** 在审视 TOK 课程内容筛选标准时，[[Hilda Taba]]（1962）的知识层次理论成为"事实与主旨有效链接"的理论依据：课程不可停留在具体事实的机械记忆，而须通过结构化设计将事实上升为抽象主旨与思维技能 (p. 21)。
 
@@ -225,7 +226,7 @@ related_persons:
 > |---|---|---|
 > | **知识观** | 预存于书本与长者头脑中的静态事实；将历史看作脱节的过去 (p. 26, p. 43) | 动态重构的经验；过去被看作现在的过去（past of the present） (p. 27) |
 > | **学习者定位** | 被动顺从、等待填满的听讲容器与观察对象 (p. 26, p. 43) | 处于起点、中心与终点的[[Freedom of the Learner\|能动主体]] (p. 28, p. 44) |
-> | **教学机制** | 权威自上而下的直接灌输、听讲训导与身体压抑 (p. 27, p. 35) | 通过选择与调控客观环境进行的间接教育 (p. 27) |
+> | **教学机制** | 权威自上而下的直接灌输、听讲训导与身体压抑 (p. 27, p. 35) | 通过选择与调控客观环境进行的间接教育 |
 > | **教育哲学** | 基于拒绝与对立（rejection and opposition）的消极哲学 (p. 28) | 基于经验重组、协同[[Dialogue in Education\|对话]]与连续[[Growth\|生长]]的积极哲学 (p. 29) |
 
 ---
@@ -387,7 +388,7 @@ related_persons:
 >   在现代社会中，许多患有肥胖症的人在理智与认知上完全清楚、觉察到自己面临的健康危机、血管病变风险与生活困境 (p. 42)。
 > 
 > - **认知与行动的深层撕裂**
->   然而，尽管拥有极其清晰的理智觉察与认知，许多人却无法迈出改变现状的步骤，缺乏制定饮食/运动计划并付诸实施的个人意志与变革行动 (p. 42)。
+>   然而，尽管拥有极其清晰的理智觉察与认知，许多人却无法迈出改变现状的步骤，缺乏制定饮食/运动计划并付诸实施的个人意志与变革行动。
 > 
 > - **理论含义与杜威教育哲学的边界**
 >   杜威认为通过反思性思维与理性对话重组经验即可实现[[Growth|生长]]。然而肥胖案例生动证明：单纯的理智觉察并不等同于改变现实的意志与行动。学习者从知道问题存在到采取行动改变困境/不公，存在着深刻的鸿沟。这揭示了杜威渐进改良模型的理论边界，缺少弗莱雷所强调的将批判意识觉醒与改变压迫现实的干预行动结合起来的[[Praxis|实践]] (Darwish, 2009, pp. 42–43)。
@@ -409,7 +410,7 @@ related_persons:
 > | **教育终极目标** | 个体的[[Growth\|生长]]与自我实现 (p. 7) | [[Conscientization\|批判意识觉醒]]与解构压迫的解放 (pp. 7–8) |
 > | **沟通与[[Dialogue in Education\|对话]]功能** | 社区内共享经验、重新组织经验的民主手段 (p. 41) | 揭露与谴责不公、对抗压迫结构的政治行动 (p. 10) |
 > | **对改变行动的承诺** | 未明确承诺采取对抗压迫结构的**[[Praxis\|实践]]**行动 (p. 43) | 将[[Praxis\|实践]]（感知的觉醒 + 改变现实的行动）作为成长的唯一衡量标准 (p. 10, p. 43) |
-> | **社会现实假设** | 预设社会具备平等沟通与协商改良的前提条件 (p. 41) | 指出压迫社会中存在[[Culture of Silence\|沉默文化]]，必须通过政治介入打破沉默 (p. 7, p. 43) |
+> | **社会现实假设** | 预设社会具备平等沟通与协商改良的前提条件 | 指出压迫社会中存在[[Culture of Silence\|沉默文化]]，必须通过政治介入打破沉默 (p. 7, p. 43) |
 
 ---
 ### 第4章 保罗·弗莱雷的解放教育（Paulo Freire’s Emancipatory Education）
@@ -481,9 +482,9 @@ related_persons:
 > |---|---|---|
 > | **认识论假设** | 知识是预存于教师头脑中可被剥离传递的静态存货 | 知识是在人与世界互动探究中不断重塑的动态过程 |
 > | **师生权力关系** | 垂直支配；教师单向宣讲，教师教，学生被教 (p. 45) | 横向平等；教师-学生与学生-教师共同探究 (p. 47) |
-> | **受教者存在状态** | “[[Empty Knower\|空白知者]]”与适应压迫的客体/旁观者 (p. 46) | 具有批判觉察力的能动主体（Subjects） (p. 47) |
-> | **课程内容生成机制** | 预先编制、脱离生活总体性的孤立符号与“[[Narration Sickness\|叙事病]]” (p. 45) | 深入社区提取的“[[Generative Themes\|生成性主题]]”与[[Codification\|编码]]/[[Decodification\|解码]]分析 (p. 47) |
-> | **终极社会功能** | 驯化学生适应压迫现实，维持既有阶级秩序 (p. 46) | 打破[[Culture of Silence\|沉默文化]]，走向人性化与社会变革实践 (p. 48, p. 62) |
+> | **受教者存在状态** | “[[Empty Knower\|空白知者]]”与适应压迫的客体/旁观者 (p. 46) | 具有批判觉察力的能动主体（Subjects） |
+> | **课程内容生成机制** | 预先编制、脱离生活总体性的孤立符号与“[[Narration Sickness\|叙事病]]” | 深入社区提取的“[[Generative Themes\|生成性主题]]”与[[Codification\|编码]]/[[Decodification\|解码]]分析 |
+> | **终极社会功能** | 驯化学生适应压迫现实，维持既有阶级秩序 | 打破[[Culture of Silence\|沉默文化]]，走向人性化与社会变革实践 (p. 48, p. 62) |
 
 ---
 

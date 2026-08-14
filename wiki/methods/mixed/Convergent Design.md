@@ -33,6 +33,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Sample Size Determination]]"
   - "[[Academic Self-Concept]]"
+  - "[[International Baccalaureate]]"
   - "[[Critical Thinking]]"
   - "[[Integration in Mixed Methods]]"
 related_theories: []
@@ -50,8 +51,7 @@ related_methods:
   - "[[Internet-based Survey]]"
   - "[[Focus Group]]"
 related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cole_2015_AJE]]"

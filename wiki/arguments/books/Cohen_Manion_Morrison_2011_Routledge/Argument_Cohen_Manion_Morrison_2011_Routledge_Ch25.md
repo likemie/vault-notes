@@ -59,9 +59,9 @@ related_theories:
 related_methods:
   - "[[Repertory Grid Technique]]"
   - "[[Laddering]]"
-  - "[[Pyramiding]]"
   - "[[Role-playing]]"
   - "[[Network Analysis]]"
+  - "[[Pyramiding]]"
   - "[[Participant Observation]]"
 related_persons:
   - "[[George Kelly]]"

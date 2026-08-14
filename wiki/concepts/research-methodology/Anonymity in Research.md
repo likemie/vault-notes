@@ -8,7 +8,7 @@ aliases:
 summary: "研究伦理中通过移除个人标识符使参与者身份无法被追踪的保护技术，包括化名、编码和聚合等多种手段，是保护参与者隐私的基本方式之一"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,14 +23,16 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
+  - "[[Visual Research Methods]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-11
 ---
 
 # Anonymity in Research
@@ -62,6 +64,18 @@ updated: 2026-06-18
 > - **[[Survey Research|问卷调查研究]]** 最容易实现——不包含标识符的匿名问卷
 > - **[[Experimental Research|实验研究]]** 实验者感兴趣的是"人类"行为而非特定个体的行为，可以将研究数据转移到编码的、无姓名的数据表。Aronson & Carlsmith (1969) 评论："过程的非个人化本身就是伦理上的巨大优势，因为它消除了侵犯隐私的一些负面后果"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 101]]）
 > - **面对面访谈** 绝不可能实现匿名——最多只能承诺保密
+
+### 视觉图像中的匿名化
+
+在[[Visual Research Methods|视觉研究]]中，匿名与保密极为棘手，因为图像的全部意义就在于人物、地点或机构本身，无法伪装（Prosser et al., 2008, p. 15）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
+
+> [!feature] 视觉图像的匿名化技术
+> - **模糊识别特征** 模糊化面部或其他可识别特征。
+> - **使用化名** 为图像中的人物采用假名。
+> - **只拍摄背面** 拍摄人物的背面而非正面。
+> - **背光阴影照明** 用阴影或逆光遮蔽识别特征。
+>
+> Clark（2006）提供了详细的匿名化指南；同时，有些参与者可能故意希望被识别（Prosser et al., 2008, p. 11）。
 
 ---
 

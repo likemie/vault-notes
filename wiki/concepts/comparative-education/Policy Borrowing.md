@@ -40,6 +40,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[IB Diploma Programme]]"
+  - "[[International Baccalaureate]]"
   - "[[Visible Learning]]"
   - "[[Heterogeneity]]"
   - "[[School Autonomy]]"
@@ -60,7 +61,6 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Liberal Studies]]"
-  - "[[International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Rappleye_2006_RCIE]]"

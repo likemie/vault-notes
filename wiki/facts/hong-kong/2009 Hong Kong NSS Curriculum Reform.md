@@ -26,6 +26,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Critical Thinking]]"
   - "[[Rote Learning]]"
+  - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Creativity, Action, Service]]"
   - "[[Theory of Knowledge]]"
@@ -34,7 +35,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[International Baccalaureate]]"
   - "[[Citizenship and Social Development]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"

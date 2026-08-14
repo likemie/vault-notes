@@ -6,7 +6,7 @@ aliases:
 summary: "戏剧教育中的核心概念，指参与者在角色扮演中同时观察自己表现的能力，既是保护机制也是深化反思的关键手段。"
 type: concept
 domain: "curriculum"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Presence]]"
   - "[[Knowledge-that and Know-how-to]]"
+  - "[[Dramatic Tension]]"
 related_theories: []
 related_methods:
   - "[[Role-playing]]"

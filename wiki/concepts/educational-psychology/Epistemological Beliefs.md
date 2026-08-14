@@ -1,0 +1,125 @@
+---
+title: Epistemological Beliefs
+summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度的演变过程。"
+type: concept
+domain: "educational-psychology"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
+aliases:
+  - "认识论信念"
+  - "epistemological beliefs"
+tags:
+  - "theme/epistemological-beliefs"
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Hypothesis]]"
+  - "[[Certainty of Knowledge]]"
+  - "[[Rote Learning]]"
+  - "[[Variable]]"
+  - "[[Metacognition]]"
+  - "[[Questionnaire]]"
+  - "[[Construct]]"
+  - "[[Epistemological Theories]]"
+  - "[[Conatus]]"
+related_theories: []
+related_methods:
+  - "[[Quantitative Research]]"
+related_instruments: []
+related_persons: []
+related_facts: []
+related_arguments:
+  - "[[Argument_Hofer_1997_RER]]"
+status: active
+created: 2026-08-13
+updated: 2026-08-14
+---
+
+# Epistemological Beliefs
+
+---
+
+## 定义
+
+> [!def] 核心定义
+> [[Epistemology|认识论]]信念（epistemological beliefs）是指个体对于“知识究竟是什么”（知识的本质）以及“人们如何获得知识”（认知的本质）所持有的潜在[[Hypothesis|假设]]与信念。在教育心理学领域，它不仅是一组零散的观点，更构成了一种指导学习行为和动机的“个人理论”。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 88-90)]]
+>
+> > [!concept-lens] 概念透镜
+> > - **含义** 探讨学生如何理解[[Certainty of Knowledge|知识的确定性]]、简单性、来源以及如何为其辩护。
+> > - **用途** 作为理解学生在面对劣构问题或复杂学术任务时，为何采取特定学习策略（如[[Rote Learning|死记硬背]]或深度精加工）的关键中介[[Variable|变量]]，并可用于预测阅读理解、[[Metacognition|元认知]]监控和学业成绩。
+> > - **边界** 严格的认识论信念应当仅聚焦于“知识与认知本身”。它不同于隐性智力理论（如能力是否固定）或对学习难度的预期（如学习快慢）。
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念演变
+> - **20 世纪 70-80 年代 — 发展阶段论起源** Perry (1970) 等人首创对大学生认知发展历程的探究，将[[Epistemology|认识论]]信念视为一种从二元论、多元论到相对主义的单向、结构化的发展阶段。
+> - **1990 年 — 量化与多维独立转向** Schommer (1990) 提出了“认识论信念”量表（Epistemological [[Questionnaire]]），打破了阶段论[[Hypothesis|假设]]，主张个体的认识论信念由多个相互独立的维度构成，开辟了大规模[[Quantitative Research|量化研究]]。
+> - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct|构念]]升级为更具内部连贯性的“[[Epistemological Theories|认识论理论]]（epistemological theories）”。
+
+---
+
+## 核心要素
+
+> [!quad-grid] [[Epistemological Theories|认识论理论]]的四个核心维度
+> - **【知识的本质】[[Certainty of Knowledge|知识的确定性]]（certainty of knowledge）**
+>   对知识是绝对固定不变的，还是相对的、随时间推移而演变的主张。
+> - **【知识的本质】[[Simplicity of Knowledge|知识的简单性]]（simplicity of knowledge）**
+>   将知识视为孤立、离散、无歧义的事实集合，还是高度互联的复杂概念网络。
+> - **【认知的本质】[[Source of Knowledge|知识的来源]]（source of knowledge）**
+>   知识是由无所不知的外部权威向下传递的，还是认知者作为积极建构者从内部生成的。
+> - **【认知的本质】[[Justification for Knowing|认知的辩护]]（justification for knowing）**
+>   个体如何评估知识主张、运用证据，以及如何在面临不同观点时进行概率性的评价与辩护。
+
+---
+
+## 围绕概念形成的命题
+
+---
+
+### 命题一　个体认识论假设是由多个相对独立的维度构成的连续体
+
+> [!concept-lens] 多维独立性与量表测量
+> 探讨个体的[[Epistemology|认识论]]信念是否必须同步发展，以及能否通过量化工具独立预测学业表现。
+
+> [!claim] Schommer (1990)
+> **独立维度假说与学业预测** 个体的各项认识论[[Hypothesis|假设]]不必是整合在同一阶段的结构，而是可以在某些信念维度上显得成熟，而在其他维度上保持幼稚。这种不均衡分布能够通过量表进行测量。基于此主张，Schommer 提出了包含以下独立维度的测量模型：
+> - **固定能力（fixed ability）** 认为智力是先天固定的，还是可通过[[Conatus|努力]]改变的。
+> - **快速学习（quick learning）** 认为学习要么立刻发生要么根本不发生，还是渐进过程。
+> - **简单知识（simple knowledge）** 认为知识是孤立的片段，还是相关的概念网络。
+> - **确定知识（certain knowledge）** 认为知识是绝对不变的，还是暂时的。
+> - **知识来源（[[Source of Knowledge]]）** 认为知识由权威传递，还是自身建构（理论上提出，但在实际量表中未成功独立出因子）。
+> 
+> 这一框架打破了阶段发展的假设，为通过自陈式[[Questionnaire|问卷]]（如 63 项的认识论信念量表）去考察维度独立预测作用开辟了[[Quantitative Research|量化研究]]途径，证明其可广泛预测学生的阅读理解和[[Metacognition|元认知]]监控水平。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 106-110)]]
+
+---
+
+### 命题二　个体的认识论信念不仅是离散的维度，而是具有解释力的“个人理论”
+
+> [!concept-lens] 维度的连贯互构
+> 探讨各个认识论维度之间是否存在内在逻辑关联，以及它们如何构成一个指导认知的整体框架。
+
+> [!claim] [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]
+> **理论连贯性主张** 个体的认识论信念并非像 Schommer 宣称的那样完全相互独立。相反，基于 Wellman 等人关于“什么是理论”的判定标准，如果一个人在“确定知识”维度上持有幼稚观点（认为知识绝对对错），那么他极有可能在“知识来源”维度上也持有幼稚观点（认为知识由权威传授）。这种内在的强关联性证明，各项维度之间是连贯互构的。因此，这些信念构成了指导他们认知世界的一套连贯的“个人理论（personal theories）”，而不是一组零散的观念集合。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 117-118)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **独立维度假说** | 认识论假设由多个可各自独立发展、测量和预测学业成就的维度构成 | 强调量表测量与在各群体间的分布差异 | Schommer (1990) |
+> | **个人理论假说** | 认识论假设的各维度在心智中连贯互构，共同形成解释知识本质的个人理论框架 | 强调维度的整合性与底层认识论机制 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
+
+---
+
+## 争议与批评
+
+> [!critique] 对[[Construct|构念]]范围的质疑
+> - **混入外围信念** Hofer 和 Pintrich 指出，Schommer 模型中的“固定能力（fixed ability）”本质上是一种隐性智力理论（Dweck & Leggett），而“快速学习（quick learning）”则属于对任务难度的个人预期。二者均涉及个人心理特征及学习期待，并非严格哲学意义上对知识本源的[[Epistemology|认识论]]探究，因此应从认识论核心领域中剔除。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 108-109)]]
+
+> [!critique] 量表工具的方法论局限
+> - **因子结构不稳定** Schommer 认识论量表的有效性遭到学界质疑。其因子分析是建立在预设的子集而非单个题目层面，且后续研究（如 Qian & Alvermann）显示其底层因子结构在实际不同人群的数据中并不稳定，缺乏一致的重现性。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 110)]]

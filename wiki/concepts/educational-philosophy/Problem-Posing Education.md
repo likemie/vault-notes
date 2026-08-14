@@ -28,6 +28,7 @@ related_concepts:
   - "[[Culture of Silence]]"
   - "[[Conscientization]]"
   - "[[Praxis]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
 related_methods: []
@@ -35,8 +36,7 @@ related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
   - "[[John Dewey]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: high

@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[International Schools]]"
   - "[[Global Universities Rankings]]"
+  - "[[International Baccalaureate]]"
   - "[[Hypothesis]]"
   - "[[Rote Learning]]"
   - "[[Operationalization]]"
@@ -41,7 +42,6 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Academic Ranking of World Universities]]"
-  - "[[International Baccalaureate]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments: []
 sources:

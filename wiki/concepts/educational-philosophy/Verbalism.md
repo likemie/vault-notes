@@ -20,13 +20,13 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Theory of Knowledge]]"
   - "[[Active Learning]]"
+  - "[[International Baccalaureate]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: high
@@ -75,7 +75,7 @@ updated: 2026-08-03
 > [!feature] 核心要素
 > - **行动维度剥离（Deprivation of Action）** 讨论仅停留在理智觉察与口头批评。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 48)]]
 > - **假[[Dialogue in Education|对话]]异化（Degeneration into Chatter）** 平等对话退化为象牙塔内的功利辩论或消遣聊天。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 81)]]
-> - **维持压迫现状（Preservation of Status Quo）** 因无实质行动，客观上保留了被压迫者受剥削的现实。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 81)]]
+> - **维持压迫现状（Preservation of Status Quo）** 因无实质行动，客观上保留了被压迫者受剥削的现实。同上
 
 > [!logic-map]- 要素关系
 > ```mermaid

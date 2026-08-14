@@ -6,7 +6,7 @@ aliases:
 summary: "IB 知识论课程中用于系统考察和比较知识领域的五维分析工具，涵盖范围与应用、概念语言、知识生产方法、历史发展及个人知识互动。"
 type: concept
 domain: "curriculum"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
-  - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Construct Validity]]"
   - "[[Falsification]]"

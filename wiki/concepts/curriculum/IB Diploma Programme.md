@@ -9,7 +9,7 @@ aliases:
 summary: "IB 为 16–19 岁学生设计的两年制大学预科课程，由六学科组加 TOK、EE、CAS 三项核心要素组成，以显性批判性思维教学和跨学科整合为特色"
 type: concept
 domain: "curriculum"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,10 +19,12 @@ tags:
   - level/k12
   - region/global
 related_concepts:
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
   - "[[Creativity, Action, Service]]"
   - "[[Critical Thinking]]"
+  - "[[IB Learner Profile]]"
   - "[[Epistemology]]"
   - "[[Praxis]]"
   - "[[Learner Autonomy]]"
@@ -38,8 +40,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Bruno Latour]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
@@ -58,12 +59,12 @@ updated: 2026-08-03
 ## 定义
 
 > [!def] 核心定义
-> [[International Baccalaureate|国际文凭]]大学预科项目（International Baccalaureate Diploma Programme, IB DP）是[[International Baccalaureate|IB]] 为 16–19 岁学生设计的两年制课程。学生需完成六个学科组的课程和三项核心要素——[[Theory of Knowledge|知识论]]（ToK）、[[Extended Essay|拓展论文]]（Extended Essay, EE）、创造—行动—服务（Creativity, Activity, Service, [[Creativity, Action, Service|CAS]]）（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.29–31]]）。
+> [[International Baccalaureate|国际文凭]]大学预科项目（International Baccalaureate Diploma Programme, IB DP）是[[International Baccalaureate|IB]] 为 16–19 岁学生设计的两年制课程。学生需完成六个学科组的课程和三项核心要素——[[Theory of Knowledge|知识论]]（ToK）、[[Extended Essay|拓展论文]]（Extended Essay, EE）、创造—行动—服务（[[Creativity, Action, Service|Creativity, Activity, Service]], [[Creativity, Action, Service|CAS]]）（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.29–31]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** IB DP 的核心结构特征是学科学习与跨学科核心要素的并行。ToK 要求学生反思知识本质，EE 要求完成 4,000 字独立研究论文，CAS 要求参与社区服务活动。
 > - **用途** IB DP 以显性的[[Critical Thinking|批判性思维]]教学——尤其是 ToK 课程——作为区别于其他大学预科课程的关键特征。教师被鼓励在各学科中发展学生的批判性思维，促进 ToK 学习的迁移。
-> - **边界** IB DP 不等同于 IB 整体（IB 还包括 PYP 和 MYP）。DP 的批判性思维培养依赖 ToK 课程和全校实施方式的配合，课程框架本身不自动保证效果。IB 学习者培养目标（IB Learner Profile）将探究者、思考者、风险承担者、反思者和创造者等角色作为培养方向，这些角色在 TOK 课程中通过[[Epistemology|认识论]]训练得以具体[[Praxis|实践]]，支撑[[Learner Autonomy|学习者自主性]]的发展（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, pp.177–178]]）。
+> - **边界** IB DP 不等同于 IB 整体（IB 还包括 PYP 和 MYP）。DP 的批判性思维培养依赖 ToK 课程和全校实施方式的配合，课程框架本身不自动保证效果。IB [[IB Learner Profile|学习者培养目标]]（IB Learner Profile）将探究者、思考者、风险承担者、反思者和创造者等角色作为培养方向，这些角色在 TOK 课程中通过[[Epistemology|认识论]]训练得以具体[[Praxis|实践]]，支撑[[Learner Autonomy|学习者自主性]]的发展（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, pp.177–178]]）。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 135
+argument_related_count: 136
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -90,6 +90,7 @@ related_concepts:
   - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Emic and Etic]]"
   - "[[Lifelong Learning]]"
+  - "[[IB Learner Profile]]"
   - "[[Active Learning]]"
   - "[[Chain of Evidence]]"
   - "[[Flow]]"
@@ -1490,7 +1491,7 @@ Table 3.2(pp.90-91)归纳了四个维度的系统性差异：
 >
 > 5:1 的比例（83:17）说明：在欧美文化中，"学习"这个概念压倒性地由**过程**定义——学习**是**你做的事，而非你接触的内容。
 >
-> **基本层 I：学习者特征（86%）vs 社会情境（14%）**
+> **基本层 I：[[IB Learner Profile|学习者特征]]（86%）vs 社会情境（14%）**
 >
 > 学习过程分支的下一级分割，再次是 6:1 的压倒性比例。学习，首先被理解为**个人的**——个人的特征、能力、认知活动——而非社会互动或情境。这与 Figure 2.1 中 Learner 作为**独立的认识主体**向外探究世界的结构完全一致。
 >

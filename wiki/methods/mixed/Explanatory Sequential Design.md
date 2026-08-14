@@ -8,9 +8,9 @@ summary: "先收集量化数据再以质性后续数据深入解释量化结果�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 21
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Descriptive Analysis]]"
   - "[[Metainferences]]"
+  - "[[Theory of Knowledge]]"
   - "[[Purpose Statement]]"
   - "[[Praxis]]"
   - "[[Independent Variable]]"
@@ -37,10 +38,12 @@ related_methods:
   - "[[Joint Display]]"
   - "[[Convergent Design]]"
   - "[[Exploratory Sequential Design]]"
+  - "[[Focus Group]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Bergeron_2019_JRIE]]"
 confidence: medium
 status: draft
 created: 2026-05-31

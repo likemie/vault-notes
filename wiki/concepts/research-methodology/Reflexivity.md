@@ -22,9 +22,9 @@ related_concepts:
   - "[[Memos]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
+  - "[[Emic and Etic]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Backyard Research]]"
-  - "[[Operationalization]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Ethnomethodology]]"
@@ -47,11 +47,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-08-06
+updated: 2026-08-14
 ---
 
 # Reflexivity
@@ -115,14 +115,14 @@ updated: 2026-08-06
 在自然主义和[[Ethnography|民族志研究]]中，反身性不仅是研究者对自身角色的反思，更是对"客观现实"这一概念本身的质疑。
 
 > [!claim] 研究者不可消除，须置于审视之下
-> Hammersley & Atkinson（1983: 14）明确指出：研究者不可避免地是社会世界的一部分，而且这个世界本身已被行动者事先诠释，这瓦解了客观现实的根基。研究者"在世界之中且属于世界"，将自己的传记带入研究情境。质性探究不是中立的活动，研究者也不是中立的——他们有自己的价值观、偏见和世界观，这些是观察和诠释参与者已被诠释的世界的透镜（Preissle, 2006: 691）。反身性因此要求研究者承认并披露自我，而不是试图消除研究者效应——因为这是不可能的。Cooley（1902）的"镜中自我"概念被用于描述这一姿态：研究者应将自身置于审视之下。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 409–410)]]
+> Hammersley & Atkinson（1983, p. 14）明确指出：研究者不可避免地是社会世界的一部分，而且这个世界本身已被行动者事先诠释，这瓦解了客观现实的根基。研究者"在世界之中且属于世界"，将自己的传记带入研究情境。质性探究不是中立的活动，研究者也不是中立的——他们有自己的价值观、偏见和世界观，这些是观察和诠释参与者已被诠释的世界的透镜（Preissle, 2006, p. 691）。反身性因此要求研究者承认并披露自我，而不是试图消除研究者效应——因为这是不可能的。Cooley（1902）的"镜中自我"概念被用于描述这一姿态：研究者应将自身置于审视之下。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 409–410)]]
 
 > [!citation-card]- 研究者是卓越的研究工具
 > 研究者是卓越的研究工具。行为和态度通常在跨情境中不稳定，而研究者可能在塑造情境中发挥关键作用——这成为分析的核心。我们发展的用来解释所研究人群行为的理论，也应在相关时适用于我们自身作为研究者的活动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 409)]]
 >
-> *He or she [the researcher] is the research instrument par excellence. The fact that behaviour and attitudes are often not stable across contexts and that the researcher may play a part in shaping the context becomes central to the analysis... The theories we develop to explain the behaviour of the people we study should also, where relevant, be applied to our own activities as researchers. (Hammersley & Atkinson, 1983: 18–19)*
+> *He or she [the researcher] is the research instrument par excellence. The fact that behaviour and attitudes are often not stable across contexts and that the researcher may play a part in shaping the context becomes central to the analysis... The theories we develop to explain the behaviour of the people we study should also, where relevant, be applied to our own activities as researchers. (Hammersley & Atkinson, 1983, pp. 18–19)*
 
-McCormick & James（1988: 191）进一步论述了操作含义：高度的反身性要求研究者密切且持续地监控自己与参与者的互动、自身的反应、角色、偏见以及任何可能影响研究的其他因素。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 410)]]
+McCormick & James（1988, p. 191）进一步论述了操作含义：高度的反身性要求研究者密切且持续地监控自己与参与者的互动、自身的反应、角色、偏见以及任何可能影响研究的其他因素。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 410)]]
 
 ---
 
@@ -142,6 +142,19 @@ McCormick & James（1988: 191）进一步论述了操作含义：高度的反身
 
 ---
 
+## 反身性与质性数据分析写作
+
+> [!claim] 写作不是纯技术事务
+> Hammersley & Atkinson（1983, pp. 207–8）指出，在撰写阶段，反身性原则意味着：研究者记述的建构原则上与其他种类的记述并无不同——正如没有中立的描述语言，也没有中立的报告方式。反身的研究者必须作为作者保持自我意识，所选用的写作方式不应被视为理所当然；质性分析或记述比量化报告更非正式、更印象式，因而以第一人称写作。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+
+> [!claim] 分析本身成为文本
+> 质性数据分析本身成为文本——即被建构起来的诠释；其组织、排序、所选的年代顺序、主题选择与叙事风格都必须经受反身性的检验（Hammersley & Atkinson, 1983, pp. 212–17）。这使数据分析的效度不仅来自归纳与反身的选择，还来自纳入其他参与者的观点、对实际事件的忠实记录。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+
+> [!info] 反身性减轻客观性批评
+> 质性数据分析将不同参与者对情境的不同定义纳入报告并综合[[Emic and Etic|主位与客位]]分析，自然可能招致"缺乏客观性"的批评；这一批评由研究者的反身性加以缓解。正因如此，质性数据分析常以第一人称与口语化语言书写，而非许多研究报告惯用的第三人称、被动语态与过去时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+
+---
+
 ## 相关概念
 
 > [!entry-map]
@@ -158,7 +171,5 @@ McCormick & James（1988: 191）进一步论述了操作含义：高度的反身
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 将反身性定位为[[Qualitative Research|质性研究]]的核心特征之一，强调过去经验与研究之间的关联以及经验如何塑造解释。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch. 1)]] — 阐述反身性的双重哲学根基：舒茨的[[Phenomenology|现象学]]反思性（时间性、回顾性）和加芬克尔的[[Ethnomethodology|俗民方法学]]反思性（社会性、构成性）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch11)]] — 在自然主义[[Ethnography|民族志]]的语境中展开反身性：Hammersley & Atkinson 的"研究者是卓越的研究工具"、Preissle 的中立性质疑、Cooley 的镜中自我、McCormick & James 的[[Operationalization|操作化]]监控，以及在[[Critical Ethnography|批判民族志]]中升级为政治行动主义。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 在[[Action Research|行动研究]]语境中阐述反身性的功能：作为[[Emancipatory Action Research|解放性行动研究]]的构成要素和[[Epistemology|认识论]]基础（Hall, 1996），以及研究者同时作为[[Praxis|实践]]者身份对偏见和伦理的自我审视（Newby, 2010）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]] — 在[[Visual Research Methods|视觉研究]]语境中强调反身性：对视觉图像的解读受解读者自身背景、价值观与目的的影响，图像的选择性使解读须审视自身如何塑造对图像的理解。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 阐述反身性在全书多个语境中的面向：Ch1 的[[Phenomenology|现象学]]与[[Ethnomethodology|俗民方法学]]双重哲学根基、Ch11 自然主义[[Ethnography|民族志]]（[[Researcher as Key Instrument|研究者即工具]]与镜中自我）、Ch18 [[Action Research|行动研究]]（[[Emancipatory Action Research|解放性行动研究]]的[[Epistemology|认识论]]基础）、Ch27 [[Visual Research Methods|视觉研究]]中图像解读的反身性。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28)]] — 在质性数据分析语境中呈现 Hammersley & Atkinson（1983）关于"写作不是纯技术事务"、分析本身成为文本须经受反身性检验的论述，并以反身性缓解质性数据分析"缺乏客观性"的批评（28.2 节）。

@@ -15,6 +15,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Boarding Schools]]"
+  - "[[International Baccalaureate]]"
   - "[[Hypothesis]]"
   - "[[Fourth Culture]]"
   - "[[International Education]]"
@@ -22,7 +23,6 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[International Baccalaureate]]"
   - "[[Education City Doha]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:

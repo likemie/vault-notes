@@ -6,16 +6,17 @@ aliases:
 summary: "1970年代英国教育社会学的问题转向，将学校知识、课程和课堂过程本身视为教育不平等生产机制。"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/sociology-of-education
   - theme/curriculum
   - theme/educational-inequality
   - region/uk
 related_concepts:
+  - "[[Knowledge Questions]]"
   - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Political Arithmetic]]"

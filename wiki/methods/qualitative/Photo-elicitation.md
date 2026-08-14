@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-08-06
+updated: 2026-08-11
 ---
 
 # Photo-elicitation
@@ -50,7 +50,7 @@ updated: 2026-08-06
 ## 定义
 
 > [!def] 方法定义
-> 照片引谈法（photo-elicitation）是[[Visual Research Methods|视觉研究方法]]中的一种访谈技术：用一张、一组或一系列照片来唤起、激发并促进受访者的讨论、反思、评论、观察与记忆（Banks, 2007: 65）。照片可由研究者提供或由受访者带来，既可以作为访谈的起点，也可以作为访谈的主要内容，即照片引谈访谈（photo-elicitation interview）（Harper, 2000: 725）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
+> 照片引谈法（photo-elicitation）是[[Visual Research Methods|视觉研究方法]]中的一种访谈技术：用一张、一组或一系列照片来唤起、激发并促进受访者的讨论、反思、评论、观察与记忆（Banks, 2007, p. 65）。照片可由研究者提供或由受访者带来，既可以作为访谈的起点，也可以作为访谈的主要内容，即照片引谈访谈（photo-elicitation interview）（Harper, 2000, p. 725）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, Ch. 27)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 受访者对照片的讲述、照片背后的故事及其引发的记忆与反思。
@@ -61,7 +61,7 @@ updated: 2026-08-06
 > [!citation-card]- Harper 的定义
 > 照片引谈法（photo-elicitation interview）以照片作为访谈的起点或主要内容，照片唤起受访者的讨论与记忆。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1–27.2)]]
 >
-> *The "photo-elicitation interview" (Harper, 2000: 725) uses photographs ... as starting points for interviews or as main elements of interviews.*
+> *The "photo-elicitation interview" (Harper, 2000, p. 725) uses photographs ... as starting points for interviews or as main elements of interviews.*
 
 ## 方法定位
 

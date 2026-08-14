@@ -35,6 +35,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Conscientization]]"
   - "[[Socratic Tutoring Style]]"
@@ -47,8 +48,7 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
   - "[[Aristotle]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Li_2012_Cambridge]]"

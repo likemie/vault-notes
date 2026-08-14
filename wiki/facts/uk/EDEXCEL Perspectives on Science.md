@@ -20,6 +20,7 @@ tags:
   - level/k12
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Scientism]]"
   - "[[Epistemology]]"
@@ -30,8 +31,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Zemplen_2007_SciEduc]]"
 confidence: medium

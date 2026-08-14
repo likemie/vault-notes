@@ -24,14 +24,14 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Analytic Framework]]"
   - "[[Paradigm]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
 related_theories:
   - "[[Pragma-Dialectics]]"
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Zemplen_2007_SciEduc]]"
 confidence: medium

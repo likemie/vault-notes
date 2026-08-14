@@ -6,7 +6,7 @@ aliases:
 summary: "语言学转向在文献分析中的应用：受解释学原则与文学批评影响，通过对文献语言与话语的细致研究来理解文本的意义建构过程。Sol Cohen（1999）提出五维分析框架——文本生产符号学、意义制造、读者意义获取、作者意图与读者解释、话语共同体的接受角色。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Analytic Framework]]"
+  - "[[Knowledge Framework]]"
   - "[[Praxis]]"
   - "[[Champ]]"
 related_theories: []

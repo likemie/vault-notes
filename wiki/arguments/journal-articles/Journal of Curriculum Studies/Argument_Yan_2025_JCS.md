@@ -40,6 +40,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
   - "[[Externalization]]"
+  - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Creativity, Action, Service]]"
   - "[[Epistemology]]"
@@ -59,7 +60,6 @@ related_facts:
   - "[[Liberal Studies]]"
   - "[[Citizenship and Social Development]]"
   - "[[2009 Hong Kong NSS Curriculum Reform]]"
-  - "[[International Baccalaureate]]"
   - "[[National Education]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"

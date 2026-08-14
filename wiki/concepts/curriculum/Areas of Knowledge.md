@@ -17,6 +17,7 @@ tags:
   - theme/critical-thinking
   - level/k12
 related_concepts:
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
@@ -40,8 +41,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Hughes_2014_JRIE]]"
@@ -187,9 +187,9 @@ updated: 2026-08-04
 > | 命题类型 | 核心指向 | 适用情境 | 代表研究 |
 > |---|---|---|---|
 > | **领域差异** | 方法、证据与概念标准塑造领域知识 | 学科比较、知识生产分析 | Darwish (2009); [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
-> | **领域与迁移** | 跨领域理解需要结合专业知识与通用结构 | 跨学科课程、迁移任务 | Ritchhart & Perkins (2005); [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
-> | **分类边界** | 领域标签可能遮蔽内部差异和跨领域共享结构 | 课程分类、学科身份分析 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
-> | **操作化与效度** | AOK 进入评分形成内部对齐，也可能诱发表面连接 | 评估设计、构念效度审查 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
+> | **领域与迁移** | 跨领域理解需要结合专业知识与通用结构 | 跨学科课程、迁移任务 | Ritchhart & Perkins (2005); 同上 |
+> | **分类边界** | 领域标签可能遮蔽内部差异和跨领域共享结构 | 课程分类、学科身份分析 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; 同上 |
+> | **操作化与效度** | AOK 进入评分形成内部对齐，也可能诱发表面连接 | 评估设计、构念效度审查 | 同上 |
 
 ---
 
@@ -206,7 +206,7 @@ updated: 2026-08-04
 
 > [!tension] 领域特异性与跨领域迁移
 > - **领域特异性立场** 知识按照学科图式[[Coding in Qualitative Research|编码]]，各领域具有不同的方法、证据标准和专业[[Praxis|实践]]，批判性判断因而依赖具体领域知识。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34, 38–39)]]
-> - **跨领域迁移立场** 证据、因果、解释、信念和不确定性等结构能够跨越学科情境，课程应帮助学习者抽离并迁移这些思维模式。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34, 38–39)]]
+> - **跨领域迁移立场** 证据、因果、解释、信念和不确定性等结构能够跨越学科情境，课程应帮助学习者抽离并迁移这些思维模式。同上
 
 > [!critique-method] 分类与评估风险
 > - **领域本质化** 用单一方法或[[Ways of Knowing|认知方式]]定义整个领域，会把领域内部多样性压缩为学科刻板印象。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 39)]]
@@ -216,7 +216,7 @@ updated: 2026-08-04
 
 > [!tension] 开放审查与科学知识权威
 > - **开放审查立场** ToK 的批判性探究要求所有领域的知识主张接受理由、证据和价值前提的检验，包括自然科学。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 179–181)]]
-> - **科学知识传播立场** 学校科学教育承担传递可靠科学知识的制度责任，可能要求课程维护科学相对于其他领域的权威位置。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 179–181)]]
+> - **科学知识传播立场** 学校科学教育承担传递可靠科学知识的制度责任，可能要求课程维护科学相对于其他领域的权威位置。同上
 
 > [!warning] 解释边界
 > Hughes 的分析对象是 2013 年 ToK 指南，Darwish 使用的是 2007 年课程材料。六项与八项分类应按版本解释。指南文本可以说明书面课程如何组织和评估 AOK，无法单独确定学生是否形成了深入的领域知识或跨领域迁移能力。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 31, 35–36)]]

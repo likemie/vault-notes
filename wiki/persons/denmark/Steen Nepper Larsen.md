@@ -7,10 +7,10 @@ summary: "丹麦教育哲学学者，Bildung 复兴与 Visible Learning 批判�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 tags:
 - larsen
 - paradigm/critical
@@ -38,6 +38,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Niklas Luhmann]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Gert Biesta]]"
 related_facts: []
 related_arguments:
@@ -100,7 +101,7 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > - 深受 [[Niklas Luhmann]] 社会[[Luhmann's Systems Theory|系统理论]]影响，尤其是盲点、[[Structural Coupling|结构耦合]]和社会系统/心理系统区分等概念
 > - 借鉴 Thomas Fuchs 的身体[[Phenomenology|现象学]]和大脑生态学视角
-> - 继承德国 [[Bildung]] 传统（Humboldt, Herder, Kant, Hegel, Nietzsche 至[[Critical Theory|批判理论]]和概念史）
+> - 继承德国 [[Bildung]] 传统（Humboldt, Herder, Kant, [[Georg Wilhelm Friedrich Hegel|Hegel]], Nietzsche 至[[Critical Theory|批判理论]]和概念史）
 > - 与 [[Gert Biesta]] 共享对 [[Learnification]] 的批判立场，但 Larsen 更侧重将 Bildung 作为建构性替代方案和具身化维度
 
 ## 争议与批评

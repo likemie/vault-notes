@@ -8,7 +8,7 @@ summary: "一种从社会学发展而来的质性研究设计，通过多阶段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -26,17 +26,20 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Theoretical Sampling]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Computer Software]]"
+  - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
   - "[[Constructivist Grounded Theory]]"
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-08-14
 ---
 
 # Grounded Theory
@@ -54,6 +57,16 @@ updated: 2026-05-30
 > - 持续比较法（constant comparison），在数据收集和分析之间不断来回，精炼类别及其关系。
 > - 撰写备忘录（memoing）记录理论构建过程中的想法和决定。
 > - 当新数据不再产生新的理论见解时达到[[Saturation|理论饱和]]（[[Saturation|theoretical saturation]]）。
+
+---
+
+## 计算机辅助与系统性分析
+
+> [!info] 系统[[Coding in Qualitative Research|编码]]直到理论浮现
+> 扎根理论分析与内容分析通过一系列系统分析——包括[[Coding in Qualitative Research|编码]]与类别化——直到浮现出解释所研究现象或可用于预测目的的理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+
+> [!info] 计算机辅助扎根理论的生成
+> Lonkila（1995）说明计算机如何通过编码、持续比较、联系、备忘录、注释与追加、使用图表、验证，最终生成与建构理论来辅助扎根理论的生成。Kelle（2000, p. 295）的软件使用六步序列以"发展核心范畴"收尾，而核心范畴正是扎根理论的特征。软件与[[Qualitative Computer Software|CAQDAS]]的关系也提示：软件可能更贴近扎根理论技术而非诠释学或[[Discourse Analysis|话语分析]]等其他技术（Coffey et al., 1996）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 ## 研究问题
 

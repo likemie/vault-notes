@@ -19,6 +19,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Phronesis]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Curriculum as Product]]"
   - "[[Curriculum as Praxis]]"
@@ -30,8 +31,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: high
@@ -81,7 +81,7 @@ updated: 2026-08-03
 > [!feature] 核心要素
 > - **过程原则（Procedural Principles）** 以如何探究与[[Dialogue in Education|对话]]的标准取代预设行为目标。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 66)]]
 > - **[[Phronesis|实践明智]]（Phronesis）** 依靠教师与学生在具体情境中的理智判断与审议能力。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 67)]]
-> - **教师研究者化（Teacher as Researcher）** 教师作为研究者在课堂探究中与学生共同[[Growth|成长]]。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 66)]]
+> - **教师研究者化（Teacher as Researcher）** 教师作为研究者在课堂探究中与学生共同[[Growth|成长]]。同上
 
 > [!logic-map]- 要素关系
 > ```mermaid

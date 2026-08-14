@@ -7,7 +7,7 @@ aliases:
 summary: "解释行动为何同时受反思性策略与深层价值倾向驱动的文化社会学理论，强调两种过程在不同意识层次上并存"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Max Weber]]"
+  - "[[Anthony Giddens]]"
   - "[[Yajun Zheng]]"
   - "[[Pierre Bourdieu]]"
 related_facts: []
@@ -68,7 +69,7 @@ updated: 2026-06-02
 
 ### 争论的诊断：意识层次的混淆
 
-Vaisey 指出，工具箱[[Paradigm|范式]]的问题在于假定了文化与行动的关联**必然在意识层面进行**。援引 Giddens 和Bourdieu——动机或[[Habitus|习性]]完全可能是无意识的——工具箱范式所[[Hypothesis|假设]]的文化运用者形象（灵活熟练、审时度势）只在有意识的、深思熟虑的认知层面成立（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
+Vaisey 指出，工具箱[[Paradigm|范式]]的问题在于假定了文化与行动的关联**必然在意识层面进行**。援引 [[Anthony Giddens|Giddens]] 和Bourdieu——动机或[[Habitus|习性]]完全可能是无意识的——工具箱范式所[[Hypothesis|假设]]的文化运用者形象（灵活熟练、审时度势）只在有意识的、深思熟虑的认知层面成立（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
 
 ### 双过程认知机制
 
@@ -126,7 +127,7 @@ Vaisey 援引认知科学的双过程发现，区分两种意识层次的认知�
 
 > [!example]
 > - [[Culture as Toolkit]] — Swidler (1986) 的工具箱[[Paradigm|范式]]是 Vaisey 调和的两极之一；Vaisey 的贡献在于论证了工具箱范式在浅层内化层次的有效性，同时恢复了价值观驱动范式在深层内化层次的解释力（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Vaisey, 2009）。
-> - [[Pierre Bourdieu]] — Vaisey 援引 Bourdieu 和 Giddens 关于无意识动机/[[Habitus|习性]]的论述，来论证工具箱范式的意识层面[[Hypothesis|假设]]有误。Bourdieu 的[[Habitus]]可被理解为深层内化文化图式的一种具体形态。
+> - [[Pierre Bourdieu]] — Vaisey 援引 Bourdieu 和 [[Anthony Giddens|Giddens]] 关于无意识动机/[[Habitus|习性]]的论述，来论证工具箱范式的意识层面[[Hypothesis|假设]]有误。Bourdieu 的[[Habitus]]可被理解为深层内化文化图式的一种具体形态。
 
 ---
 

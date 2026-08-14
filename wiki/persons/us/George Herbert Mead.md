@@ -5,7 +5,7 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Grounded Theory]]"
 related_persons:
   - "[[John Dewey]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
@@ -127,7 +128,7 @@ updated: '2026-06-22'
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者**[[John Dewey]] — 芝加哥大学时期的亲密同事与[[Pragmatic Paradigm|实用主义]]盟友，共同发展了实用主义哲学和[[Progressive Education|进步主义教育]]运动。根据维基百科的记载，他早期的心理学研究受教于密歇根大学的 Charles Horton Cooley，在波恩大学学习期间受教于黑格尔主义与实用主义学者。
+> - **师承／合作者**[[John Dewey]] — 芝加哥大学时期的亲密同事与[[Pragmatic Paradigm|实用主义]]盟友，共同发展了实用主义哲学和[[Progressive Education|进步主义教育]]运动。根据维基百科的记载，他早期的心理学研究受教于密歇根大学的 Charles Horton Cooley，在波恩大学学习期间受教于[[Georg Wilhelm Friedrich Hegel|黑格尔]]主义与实用主义学者。
 > - **学生／继承者**
 >   - Herbert Blumer — 芝加哥大学学生，在其死后系统提炼并命名了“[[Symbolic Interactionism|符号互动论]]”学术传统。
 >   - Maijaliisa Rauste-von Wright — 芬兰教育心理学家，在1990年代将米德的实用主义思想与[[Phenomenon-Based Learning|现象本位学习]]（PhBL）的课程模型相融合。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 7–8)]]

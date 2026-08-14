@@ -6,7 +6,7 @@ aliases:
 summary: "群体或个体在面对主导文化场域（如精英大学或国家学校课程）时，因自身文化语码被边缘化而产生的疏离感与身份断裂"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,6 +36,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Anthony Giddens]]"
   - "[[Yajun Zheng]]"
 related_facts: []
 related_arguments:
@@ -139,7 +140,7 @@ related_arguments:
 
 > [!dev-timeline] 概念史演变脉络
 > - **1944 年 — 经济与社会脱嵌** — Karl Polanyi 在《大转型》中提出“脱嵌”（Disembedding），指经济脱离社会关系的约束。
-> - **1990 年 — 现代性脱嵌机制** — Anthony Giddens 在《现代性的后果》中指符号资本与专家系统将社会关系从本地情境中“脱嵌”。
+> - **1990 年 — 现代性脱嵌机制** — [[Anthony Giddens]] 在《现代性的后果》中指符号资本与专家系统将社会关系从本地情境中“脱嵌”。
 > - **2023 年 — 微观高等教育阶层脱嵌** — [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] 将其引入教育社会学，描述寒门学子进入精英大学体验到的第一重[[Cultural Barrier|文化障碍]][[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 115)]]。
 > - **2024 年 — 宏观国家课程脱嵌** — [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] 将其扩展至国家课程分析，揭示汉儒中心主义[[Official Knowledge|官方知识]]对少数民族学生造成的国族认同脱嵌[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。
 

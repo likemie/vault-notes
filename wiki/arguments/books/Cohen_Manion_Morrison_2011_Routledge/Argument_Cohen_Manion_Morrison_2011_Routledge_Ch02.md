@@ -41,6 +41,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Axiology]]"
+  - "[[Double Hermeneutic]]"
   - "[[Paradigm Wars]]"
   - "[[Research Question]]"
   - "[[Phronesis]]"
@@ -59,7 +60,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Variable]]"
-  - "[[Theory of Knowledge]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
   - "[[Research Translation]]"
@@ -196,7 +196,7 @@ updated: '2026-07-21'
 > [[Positivism|实证主义]]追求客观性、可测量性、可预测性、模式化、行为法则的建构和因果归因（技术知识）；[[Interpretive Paradigm|诠释范式]]追求从行动者角度理解和解释世界（诠释知识）。两者分别只关注**技术知识**和**诠释知识（Gage, 1989）**，却共同忽视了对教育研究至关重要的**政治与意识形态语境（p.25）**。
 
 > [!chain-link] 证据到判断
-> 哈贝马斯将诠释范式描述为一种**双重诠释学（double hermeneutic）** 人在一个已被诠释过的世界中诠释和行动；研究者有自己的价值观和解释，而他们的研究对象也在根据自己的解释行动（Habermas, 1984, pp. 109–110, echoing Giddens, 1976）。但哈贝马斯指出，诠释范式止步于理解，没有进一步追问：**那些被研究对象所理解的世界，本身是否就是权力和意识形态的产物？** 理解一个被压迫者如何理解其处境，并不等于揭露造成该处境的压迫结构（pp.23–25）。
+> 哈贝马斯将诠释范式描述为一种**[[Double Hermeneutic|双重诠释学]]（double hermeneutic）** 人在一个已被诠释过的世界中诠释和行动；研究者有自己的价值观和解释，而他们的研究对象也在根据自己的解释行动（Habermas, 1984, pp. 109–110, echoing Giddens, 1976）。但哈贝马斯指出，诠释范式止步于理解，没有进一步追问：**那些被研究对象所理解的世界，本身是否就是权力和意识形态的产物？** 理解一个被压迫者如何理解其处境，并不等于揭露造成该处境的压迫结构（pp.23–25）。
 
 > [!warrant]- 推理桥梁
 > 第1章结尾已经暗示了[[Paradigm Wars|范式战争]]的终结者是[[Mixed Methods Research|混合方法研究]]。但混合方法主要回应的是**量化与质性之间的方法论对立**，而非**理解与变革之间的政治对立**。[[Critical Theory|批判理论]]的独特贡献在于：它在技术兴趣（实证主义）和[[Praxis|实践]]兴趣（诠释范式）之外引入了第三种驱动力——**解放兴趣**，从而将研究是为了什么这一规范性问题提升为方法论的核心议题。

@@ -22,12 +22,12 @@ tags:
 related_concepts:
   - "[[Praxis]]"
   - "[[Critical Thinking]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Learner Autonomy]]"
 related_methods:
   - "[[Case Study]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Lakhani_2012_AKUIED]]"
 confidence: medium

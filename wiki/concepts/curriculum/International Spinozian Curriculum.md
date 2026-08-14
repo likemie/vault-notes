@@ -6,28 +6,31 @@ aliases:
 summary: "由 Cole (2005) 提出的一种以想象力和情感政治为核心的课程设计主张，主张在内在性平面上通过组合学生身体的相遇与欲力以引导智识创新。"
 type: concept
 domain: "curriculum"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/curriculum
   - theme/epistemology
   - level/k12
   - subject/curriculum
 related_concepts:
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Conatus]]"
+  - "[[Feeder Mechanism]]"
   - "[[Areas of Knowledge]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Network Society]]"
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_persons:
+  - "[[Baruch Spinoza]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Cole_2005_JRIE]]"
 confidence: medium
@@ -43,11 +46,11 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 核心定义
-> 国际斯宾诺莎主义课程（international Spinozian curriculum）是由大卫·R·科尔（Cole, D. R.）于 2005 年针对[[International Baccalaureate|国际文凭]][[Theory of Knowledge|知识论]]应试异化所提出的一种课程设计框架与教学主张。该主张认为应当摒弃心物二元对立和外部理性[[Disciplina and Doctrina|规训]]，将课堂视为无否定和矛盾的内在性平面。它以学生的想象力与[[Conatus|欲力]]（[[Conatus]]）为学习动力，通过正视并组合课堂中的情感波动，引导学生共同审视知识权力边界，从而培育能在后现代知识社会中进行跨学科规则创新的自主认知者。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 214, 220)]]
+> 国际[[Baruch Spinoza|斯宾诺莎]]主义课程（international Spinozian curriculum）是由大卫·R·科尔（Cole, D. R.）于 2005 年针对[[International Baccalaureate|国际文凭]][[Theory of Knowledge|知识论]]应试异化所提出的一种课程设计框架与教学主张。该主张认为应当摒弃心物二元对立和外部理性[[Disciplina and Doctrina|规训]]，将课堂视为无否定和矛盾的内在性平面。它以学生的想象力与[[Conatus|欲力]]（[[Conatus]]）为学习动力，通过正视并组合课堂中的情感波动，引导学生共同审视知识权力边界，从而培育能在后现代知识社会中进行跨学科规则创新的自主认知者。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 214, 220)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种以想象力为引擎、以情感生产力为纽带、以权力探索为导向的非契约化、生产性课程模式。（pp.214, 222）
-> - **用途** 它为后现代数字互联背景下的跨学科探究，例如城市学（urbanism）提供将情感训练与理性探究相结合的滋养机制（feeder mechanism）设计思路。（p.220）
+> - **用途** 它为后现代数字互联背景下的跨学科探究，例如城市学（urbanism）提供将情感训练与理性探究相结合的[[Feeder Mechanism|滋养机制]]（feeder mechanism）设计思路。（p.220）
 > - **边界** 它不提供固定的课程大纲、知识条目或标准化测试指南，而聚焦于创造知识生成的元素情感与相遇环境。（pp.213, 215）
 
 ---
@@ -68,10 +71,10 @@ updated: 2026-07-13
 ### 命题一　国际斯宾诺莎主义课程是应对后现代知识变革的创新滋养机制
 
 > [!concept-lens] 后现代知识状况下的课程应对
-> 探讨在完美信息时代的后现代语境中，以想象力为引擎的斯宾诺莎课程如何帮助学生跳出传统固化学科分类，产生跨领域的规则与新玩法。
+> 探讨在完美信息时代的后现代语境中，以想象力为引擎的[[Baruch Spinoza|斯宾诺莎]]课程如何帮助学生跳出传统固化学科分类，产生跨领域的规则与新玩法。
 
 > [!claim] Cole, D. R.
-> **后现代知识绩效的想象力转化** 面对后现代的知识状况变革，传统的以知识灌输和理性分类为导向的课程已经精疲力竭。因为技术性知识在互联网互联环境下是自由可得的，个人的绩效取决于能否运用想象力将不同的[[Areas of Knowledge|知识领域]]连接起来，例如将社会学与地理学结合形成城市学。国际斯宾诺莎主义课程作为一种滋养机制，通过解放想象力和关注情感，为探索和确定这些新兴领域提供了认知基础。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 220)]]
+> **后现代知识绩效的想象力转化** 面对后现代的知识状况变革，传统的以知识灌输和理性分类为导向的课程已经精疲力竭。因为技术性知识在互联网互联环境下是自由可得的，个人的绩效取决于能否运用想象力将不同的[[Areas of Knowledge|知识领域]]连接起来，例如将社会学与地理学结合形成城市学。国际斯宾诺莎主义课程作为一种[[Feeder Mechanism|滋养机制]]，通过解放想象力和关注情感，为探索和确定这些新兴领域提供了认知基础。[[Argument_Cole_2005_JRIE|(Cole, 2005, p. 220)]]
 
 ---
 
@@ -87,7 +90,7 @@ updated: 2026-07-13
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2005 — 概念初创** 科尔发文批判[[Theory of Knowledge|知识论]]的黑格尔理性公民培训[[Paradigm|范式]]，首次阐发国际斯宾诺莎主义课程作为融合想象力与情感、聚焦权力与欲望探索的课程替代方案。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 214, 220)]]
+> - **2005 — 概念初创** 科尔发文批判[[Theory of Knowledge|知识论]]的[[Georg Wilhelm Friedrich Hegel|黑格尔]]理性公民培训[[Paradigm|范式]]，首次阐发国际[[Baruch Spinoza|斯宾诺莎]]主义课程作为融合想象力与情感、聚焦权力与欲望探索的课程替代方案。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 214, 220)]]
 
 ---
 
@@ -101,4 +104,4 @@ updated: 2026-07-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 提出了国际斯宾诺莎主义课程框架，用以平衡学术研究与想象力培育，并为后现代知识探究提供新的方法论基础。
+> - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 提出了国际[[Baruch Spinoza|斯宾诺莎]]主义课程框架，用以平衡学术研究与想象力培育，并为后现代知识探究提供新的方法论基础。

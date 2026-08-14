@@ -6,7 +6,7 @@ aliases:
 summary: "源自德国精神科学传统的品格陶成与自我形成概念，主张教育应指向超越工具性学习和数据相关性的开放未来；在数字治理语境中，其开放性与在线自我评估（Online Self-Assessment, OSA）可预测性逻辑构成根本张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Steen Nepper Larsen]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Wolfgang Klafki]]"
 related_facts: []
 related_arguments:
@@ -64,7 +65,7 @@ updated: 2026-07-13
 > 
 > 在芬兰教育史中，教化被视为连接个体自我形成、代际文化传递和开放未来的核心纽带，主张教育在传承文化的同时防止教育被还原为对既有规范的再生产。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 > 
-> 德国哲学家黑格尔（G. W. F. Hegel）将教化界定为“从直接实质生活的艰苦浮现”，是一个在体验中经历辩证否定和矛盾冲突、发现并实际化自我主体性（selfhood）的过程，其终极目的指向使精神提升至普遍性并融入伦理生活与公民社会。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212, 221]]
+> 德国哲学家[[Georg Wilhelm Friedrich Hegel|黑格尔]]（G. W. F. Hegel）将教化界定为“从直接实质生活的艰苦浮现”，是一个在体验中经历辩证否定和矛盾冲突、发现并实际化自我主体性（selfhood）的过程，其终极目的指向使精神提升至普遍性并融入伦理生活与公民社会。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212, 221]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向个体与世界最独立的[[Interaction Effect|交互作用]]，强调人在无法预先规划终点的情况下持续实现人性的非预设过程。
@@ -119,7 +120,7 @@ updated: 2026-07-13
 > [!claim] Schleiermacher
 > 教化实践的核心路径在于学会在关于何为[[Buen Vivir|美好生活]]的“追问”而非“标准答案”中生活。教化是一个非预设方向的自主[[Growth|生长]]过程，无法通过灌输现成答案来达成。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 5–6]]
 
-> [!claim] Hegel
+> [!claim] [[Georg Wilhelm Friedrich Hegel|Hegel]]
 > **辩证解放与普遍精神的上升** 教化在绝对意义上是实现个体解放并迈向更高解放的劳动过程。它不仅是自然驱动力的净化，更是通过理性的表征和比较，让个体的内在欲望经历辩证否定，最终完成向精神的、普遍性伦理生活的绝对过渡。[[Argument_Cole_2005_JRIE|Cole, 2005, p. 221]]
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-07-13
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **18世纪末 — 德国哲学涌入芬兰** 德国唯心主义和浪漫主义哲学（Fichte, Schelling, Herder, Hegel）传入芬兰，由 Tengström 和 Snellman 进一步阐发为关切[[Academic Freedom|学术自由]]和道德自我修养的本土教化论。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
+> - **18世纪末 — 德国哲学涌入芬兰** 德国唯心主义和浪漫主义哲学（Fichte, Schelling, Herder, [[Georg Wilhelm Friedrich Hegel|Hegel]]）传入芬兰，由 Tengström 和 Snellman 进一步阐发为关切[[Academic Freedom|学术自由]]和道德自我修养的本土教化论。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 6]]
 > - **1960年代–1970年代 — [[Critical Pedagogy|批判教育学]]引入丹麦** Bildung 概念被转化为对抗权威决策和强制社会化模式的批判工具。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 8]]
 > - **20世纪末 — 批判教学论统合** [[Wolfgang Klafki]] 将 Bildung 与教学论统合，提出[[Epochal Key Problems|时代关键问题]]概念，使其成为应对全球生态、经济与地缘政治危机的课程组织原则。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
 > - **21世纪初 — 抵抗算法治理与学力碎片化** 学界运用三维关系结构对高等教育数字化转型中的数据绩效管理和原子化技能清单进行批判。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p. 246]]
@@ -178,7 +179,7 @@ updated: 2026-07-13
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[IB Diploma Programme|IB DP]] [[Theory of Knowledge|知识论]]课程批判** 分析了 TOK 课程将学生设定为“[[Empty Knower|空无知者]]”的黑格尔式教化预设，揭示了缺乏具身想象力和情感支持的理性训练容易异化为策略性应试。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212–213]]
+> - **[[IB Diploma Programme|IB DP]] [[Theory of Knowledge|知识论]]课程批判** 分析了 TOK 课程将学生设定为“[[Empty Knower|空无知者]]”的[[Georg Wilhelm Friedrich Hegel|黑格尔]]式教化预设，揭示了缺乏具身想象力和情感支持的理性训练容易异化为策略性应试。[[Argument_Cole_2005_JRIE|Cole, 2005, pp. 212–213]]
 > - **丹麦公立学校改革** 2014 年改革在课程中嵌入近 3000 个细碎的学习目标，体现了学习[[Paradigm|范式]]对教化空间的挤压。[[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 2]]
 > - **芬兰基础教育国家核心课程** 其倡导的跨学科[[Phenomenon-Based Learning|现象本位学习]]，在哲学上可理解为通过教化和教学论传统对抗技能原子化倾向的政策尝试。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 > - **SveaSus 项目** 高等教师教育领域的教学实验，提供了一个围绕可持续性开展具身、情感与认知多维教化[[Praxis|实践]]的具体情境。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 1]]

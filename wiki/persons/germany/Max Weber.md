@@ -8,7 +8,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_methods: []
 related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -282,6 +283,6 @@ updated: 2026-07-10
 - **政治立场的矛盾性** 韦伯既仇视社会民主党左翼（称 Liebknecht "该进疯人院"、Luxemburg "该进动物园"），又在公开场合声称自己与社会主义者在经济政策上"难以区分地接近"（Mommsen, 1974, p.318, 328; Weber, 1918, *Das neue Deutschland*）
 - **反犹与种族主义色彩** 韦伯在 1890 年代参与的波兰政策讨论带有强烈的民族排斥色彩；他退出全德联盟并非因为反对其种族主义，而是因为该组织驱逐波兰人不够彻底（Mommsen, 1974, p.58f; Marianne Weber, 1926, p.237f）
 - **"自上而下"的精英政治观** 韦伯期待"领袖民主加机器"（Führerdemokratie mit Maschine），将群众视为被领导的对象，对参与式民主持怀疑态度；其卡里斯马概念有时被视为对威权领袖的默许（Mommsen, 1974）
-- **黑格尔式的理想主义倾向** 批评者指出韦伯在某些方面滑向了他自己所批评的唯心论——尽管他声明不取单方面的唯心论或唯物论，但其新教伦理论题常常被解读为"观念驱动历史"的典型论证（Löwith, 1960）
+- **[[Georg Wilhelm Friedrich Hegel|黑格尔]]式的理想主义倾向** 批评者指出韦伯在某些方面滑向了他自己所批评的唯心论——尽管他声明不取单方面的唯心论或唯物论，但其新教伦理论题常常被解读为"观念驱动历史"的典型论证（Löwith, 1960）
 
 ---

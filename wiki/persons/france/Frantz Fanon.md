@@ -8,7 +8,7 @@ summary: "马提尼克裔法国精神病学家和去殖民思想家，黑皮肤�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_theories:
   - "[[Decolonial Geopolitics of Knowledge]]"
 related_methods: []
 related_persons:
+  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Chen Kuan-Hsing]]"
   - "[[Walter Mignolo]]"
 related_facts: []
@@ -63,7 +64,7 @@ Fanon 在法国里昂大学学习精神病学，期间受到 Négritude 运动�
 > [!tip]-
 > - **殖民暴力制造殖民地主体** Fanon 论证，殖民者发起的暴力不仅采取物理形式，更以文化歧视和非人化运作。正是在这种暴力中并通过这种暴力，一种特定新型知识——语言与种族的[[Cultural Hierarchy|文化等级]]结构——制造出一种新人类：**殖民地主体（colonial subject）**。例如，法属殖民地学校强制使用法语教学，将本地语言贬低为方言，学生因讲母语而受罚——语言等级制是知识等级制的物质形式（Fanon, 1952/1986）。
 > - **反暴力作为集体 catharsis** Fanon 以其精神病学专业背景论证，殖民者的暴力以被殖民者的羞耻、自卑和服从内化，反暴力将这种内在的压迫外向化——以集体 catharsis 的方式将被殖民者从自我异化中解放出来。去殖民化因此不仅是政治变革，更是对被殖民者的疗愈过程（Fanon, 1963）。
-> - **真正的去异化 (Authentic Disalienation)** 不同于黑格尔的主奴辩证法和马克思的劳动异化，Fanon 关注的是种族化和殖民条件下的存在性异化——被殖民者不仅被剥夺了劳动产品，更被剥夺了成为人的可能性。**真正的去异化**要求通过语言中介和集体行动恢复被殖民者的身份、心理和文化（Fanon, 1952/1986）。
+> - **真正的去异化 (Authentic Disalienation)** 不同于[[Georg Wilhelm Friedrich Hegel|黑格尔]]的主奴辩证法和马克思的劳动异化，Fanon 关注的是种族化和殖民条件下的存在性异化——被殖民者不仅被剥夺了劳动产品，更被剥夺了成为人的可能性。**真正的去异化**要求通过语言中介和集体行动恢复被殖民者的身份、心理和文化（Fanon, 1952/1986）。
 
 > [!quote]
 > "Decolonization is the veritable creation of new men."（Fanon, 1963, p.36）

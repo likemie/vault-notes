@@ -16,6 +16,7 @@ tags:
   - field/curriculum-theory
   - theme/active-learning
 related_concepts:
+  - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
@@ -28,8 +29,7 @@ related_persons:
   - "[[Bob Darwish]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: high

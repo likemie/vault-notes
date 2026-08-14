@@ -8,7 +8,7 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 27
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -31,8 +31,10 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Academic Capitalism]]"
+  - "[[International Spinozian Curriculum]]"
   - "[[Policy Network]]"
   - "[[Floating Signifier]]"
+  - "[[Feeder Mechanism]]"
   - "[[Governance by Spin]]"
   - "[[Performance Indicators]]"
   - "[[Research Translation]]"
@@ -42,6 +44,7 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods: []
 related_persons:
+  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Immanuel Kant]]"
   - "[[Jürgen Habermas]]"
 related_facts:
@@ -49,6 +52,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Beech_2009_CE]]"
+  - "[[Argument_Cole_2005_JRIE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
@@ -111,7 +115,7 @@ updated: 2026-07-11
 > - **Late 1960s–1970s中 — 感性美学与力比多经济学转向阶段** 回应经典马克思主义和结构主义对欲望的系统压制，转向力比多强度的释放。
 >   - **代表著作** 《论述，形象》（*Discours, figure*, 1971）、《力比多经济学》（*Libidinal Economy*, 1974）。
 >   - **关键概念／方法** 形象（Figure）解构、力比多流、欲望强度。
->   - **阶段转向** 在此阶段利奥塔彻底与辩证唯物主义决裂。在《论述，形象》中，他以形象（figure）反抗概念指称逻辑，拒绝将艺术整合进黑格尔式的绝对精神；在《力比多经济学》中，他批判了马克思的“假意识”学说，认为资本主义工业化不仅是剥削，也是力比多强度的无序释放，主张以边缘冲动解构统治结构。
+>   - **阶段转向** 在此阶段利奥塔彻底与辩证唯物主义决裂。在《论述，形象》中，他以形象（figure）反抗概念指称逻辑，拒绝将艺术整合进[[Georg Wilhelm Friedrich Hegel|黑格尔]]式的绝对精神；在《力比多经济学》中，他批判了马克思的“假意识”学说，认为资本主义工业化不仅是剥削，也是力比多强度的无序释放，主张以边缘冲动解构统治结构。
 > - **Late 1970s–1980s — 后现代状况与分歧哲学阶段** 研究后工业社会知识合法性的蜕变，探讨去中心化公正以及无法通约的言说不义。
 >   - **代表著作** 《后现代状况》（*The Postmodern Condition*, 1979）、《公正》（*Au juste*, 1979）、《分歧》（*Le Différend*, 1983）。
 >   - **关键概念／方法** [[Performativity|绩效性]]（[[Performativity]]）、元叙事怀疑、分歧（The Differend）、[[Incommensurability|不可通约性]]（[[Incommensurability]]）。
@@ -159,6 +163,7 @@ updated: 2026-07-11
 > - **跨国／跨领域传播** 其思想被比较教育学者借用，剖析超国家评估机构如何在绩效追求下迫使地方学校改造自身以迎合可测量指标。
 
 > [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 借用 Lyotard 对后现代“完美信息博弈”的诊断与绩效性批判，论证了在当代教育中，核心竞争力不再是信息的获取，而是能够改变规则的“想象力”，这为[[International Spinozian Curriculum|国际斯宾诺莎主义课程]]提供了时代合理性。
 > - [[Argument_Beech_2009_CE\|Beech, 2009]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier|漂浮能指]]”的生存博弈机制。
 > - [[Argument_Partaken_2022_Springer\|Partaken, 2022]] — 运用 Lyotard 的叙事知识与科学知识二分法，分析全球知识地缘政治中地方性叙事知识的急剧衰落与西方商业化效用知识的霸权。
 
@@ -188,6 +193,7 @@ updated: 2026-07-11
 > [!entry-map]
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
+> | [[Feeder Mechanism]] | 概念 | 其对“完美信息博弈”与“想象力”附加绩效的论断，被用于构建后现代跨学科课程的滋养机制理论。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 220)]] |
 > | [[Performativity]] | 概念 | 引入绩效性/表演性概念分析知识在后工业社会中以效率为核心 of 合法化逻辑，揭示评估体系的“恐怖”机制。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]] |
 > | [[Narrative Knowledge]] | 概念 | 区分传统社会的叙事知识与依靠外部验证的科学知识，阐释科学知识本身对元叙事合法化的依赖。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 71, 74)]] |
 > | [[Postmodernism]] | 概念 | 定义后现代为对启蒙、人类解放等宏大元叙事的怀疑，解释了国家同质化文化叙事在当代的式微。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 354)]] / [[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 74)]] |

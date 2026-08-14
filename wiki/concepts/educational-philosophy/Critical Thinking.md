@@ -8,7 +8,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,31 +17,37 @@ tags:
   - theme/curriculum
   - theme/higher-order-thinking
 related_concepts:
-  - "[[Hypothesis]]"
-  - "[[Conatus]]"
+  - "[[Construct]]"
+  - "[[Humility in Learning]]"
   - "[[Reliability]]"
+  - "[[Hypothesis]]"
+  - "[[Epistemology]]"
+  - "[[Reflective Thinking]]"
+  - "[[Praxis]]"
+  - "[[Operationalization]]"
+  - "[[Knowledge Questions]]"
+  - "[[Construct Validity]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
-  - "[[Theory of Knowledge]]"
-related_theories:
-  - "[[Explicit Critical Thinking Instruction]]"
+  - "[[IB Diploma Programme]]"
+related_theories: []
 related_methods:
+  - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
-  - "[[Mixed Methods Research]]"
-related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_persons:
+  - "[[Plato]]"
+  - "[[Aristotle]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
 related_instruments:
-  - "[[California Critical Thinking Disposition Inventory]]"
   - "[[Critical Thinking Strategies Scale]]"
+  - "[[California Critical Thinking Disposition Inventory]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
 confidence: medium
 status: draft
@@ -110,7 +116,7 @@ updated: 2026-08-04
 > | 框架 | [[Construct\|构念]]组织方式 | 主要贡献与边界 |
 > |---|---|---|
 > | **Facione 的德尔菲共识框架** | 六项技能、16 项子技能和 19 项倾向 | 提供技能与倾向并重的规范性框架，适合测量和课程对齐。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]] |
-> | **Halpern 分类** | 记忆、思维与语言、演绎推理、论证分析、假设检验、概率与不确定性、决策、问题解决和创造 | 强调面向未来与行动的生成性活动，覆盖范围很广。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]] |
+> | **Halpern 分类** | 记忆、思维与语言、演绎推理、论证分析、假设检验、概率与不确定性、决策、问题解决和创造 | 强调面向未来与行动的生成性活动，覆盖范围很广。同上 |
 > | **Paul 三维分类** | 情意维度、认知宏观能力和认知微观技能 | 把独立思考、公正与智识谦逊连接到来源评价、观点比较、假设审查、推论和后果分析。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–33)]] |
 > | **Cambridge Assessment 框架** | 论证分析、信息相关性判断、主张与解释评价、论证建构和有理由的决策 | 适合考试任务设计，明确把阅读理解、问题解决、创造和三段论置于构念边缘或外部。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 33)]] |
 > | **修订版 Bloom 分类法** | 记忆、理解、应用、分析、评价和创造 | 提供命令词层级；后三类可指示批判性或高阶思维，但行动词本身不能证明思维质量。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 33–35)]] |
@@ -218,7 +224,7 @@ updated: 2026-08-04
 > | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | Y12 $n = 622$<br>Y11 $n = 620$ | Y12 $M = 4.85$，$SD = 1.05$<br>Y11 $M = 4.62$，$SD = 1.08$ | Hedges' $g = 0.216$（派生） | $t(1240) = 3.04$<br>$p < .001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | Y12 $n = 622$<br>Y11 $n = 620$ | Y12 $M = 4.69$，$SD = 1.15$<br>Y11 $M = 4.48$，$SD = 1.22$ | Hedges' $g = 0.177$（派生） | $t(1240) = 3.04$<br>$p < .01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
+> | 同上 | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | Y12 $n = 622$<br>Y11 $n = 620$ | Y12 $M = 4.69$，$SD = 1.15$<br>Y11 $M = 4.48$，$SD = 1.22$ | Hedges' $g = 0.177$（派生） | $t(1240) = 3.04$<br>$p < .01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
 
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -235,7 +241,7 @@ updated: 2026-08-04
 > | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Abrami et al. (2008)]] | 教学路径 | 亚组分析 | 显性教学条件较大，隐性融入条件较小 | — | — | — | 当前为 Cole 等人的转述，需回查元分析原文 |
-> | [[Argument_Cole_2015_AJE\|Abrami et al. (2008)]] | 教师培训与教学评估 | 亚组分析 | 教师接受专门培训且教学受到评估时较大 | — | — | — | 当前为 Cole 等人的转述，需回查元分析原文 |
+> | 同上 | 教师培训与教学评估 | 亚组分析 | 教师接受专门培训且教学受到评估时较大 | — | — | — | 当前为 Cole 等人的转述，需回查元分析原文 |
 
 ---
 
@@ -247,8 +253,8 @@ updated: 2026-08-04
 > > 争论集中于批判性思维能否稳定跨学科迁移，以及领域知识在新任务中承担多大作用。
 > >
 > > - **Halpern、Bassok 与 Holyoak、Salomon 与 Perkins** 强调能够跨情境调用的认知结构和迁移训练。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
-> > - **Schoenfeld 与 Herrmann、Bereiter 与 Scardamalia、Glaser、Lave** 强调专业知识、学科规范和情境[[Praxis|实践]]对思维表现的塑造。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
-> > - **Ritchhart 与 Perkins** 将二元争论修正为通用结构与具体情境之间复杂而动态的关系。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
+> > - **Schoenfeld 与 Herrmann、Bereiter 与 Scardamalia、Glaser、Lave** 强调专业知识、学科规范和情境[[Praxis|实践]]对思维表现的塑造。同上
+> > - **Ritchhart 与 Perkins** 将二元争论修正为通用结构与具体情境之间复杂而动态的关系。同上
 >
 > > [!axis] 问题解决与创造的构念位置
 > > 学者对构念外延采用不同标准，差异会直接改变课程内容与评估蓝图。
@@ -258,7 +264,7 @@ updated: 2026-08-04
 
 > [!critique-method] 分类与测量风险
 > - **清单化还原** 将程序性且细腻的思维过程压缩为行动词，容易忽略倾向、视角、领域标准和任务语境。同一命令词的出现不能单独证明批判性思维已经发生。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34–35)]]
-> - **构念过宽** 把记忆、语言、问题解决和创造全部纳入后，概念可能覆盖大部分智力活动，研究者难以形成清楚且可检验的操作定义。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34–35)]]
+> - **构念过宽** 把记忆、语言、问题解决和创造全部纳入后，概念可能覆盖大部分智力活动，研究者难以形成清楚且可检验的操作定义。同上
 > - **术语替代表现** 评分标准依赖专门词汇时，学生可能展示框架熟练度，实际的证据评价和反思判断没有获得同等测量。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–173)]]
 
 > [!tension] 批判性思维议程与科学教育议程

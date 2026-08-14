@@ -24,6 +24,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Praxis]]"
   - "[[Dialogue in Education]]"
+  - "[[International Baccalaureate]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -34,8 +35,7 @@ related_methods:
   - "[[Triangulation]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
 confidence: high

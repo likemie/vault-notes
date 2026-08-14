@@ -6,97 +6,142 @@ aliases:
   - eternal truth
   - absolute knowledge
   - pursuit of certainty
-summary: "西方学习传统第一主题，以数学和演绎逻辑为模型追求确定、客观、普遍的真知，从柏拉图到现代科学贯穿西方知识史"
+summary: "关于知识本质的底层假设。在宏观西方哲学史中，它是以数学和逻辑为模型追求客观永恒真知的文化传统；在微观教育心理学中，它是衡量个体认识论信念（绝对固定 vs 相对演变）的核心心理维度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:
 - region/western
 - field/educational-philosophy
+- field/educational-psychology
 - theme/knowledge
 - theme/learning
+- theme/epistemological-beliefs
 related_concepts:
-  - "[[Epistemology]]"
+  - "[[Epistemological Theories]]"
   - "[[Self-Cultivation]]"
   - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Mind and Its Wonders]]"
-  - "[[Examined Life]]"
+  - "[[Epistemology]]"
+  - "[[Epistemological Beliefs]]"
+  - "[[Construct]]"
+  - "[[Metacognition]]"
+  - "[[Operationalization]]"
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Socrates]]"
   - "[[Plato]]"
+  - "[[René Descartes]]"
+  - "[[Confucius]]"
+  - "[[Socrates]]"
   - "[[Aristotle]]"
   - "[[Francis Bacon]]"
   - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_Hofer_1997_RER]]"
 confidence: medium
-status: draft
+status: active
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-08-14
 ---
 
 # Certainty of Knowledge
 
+---
+
 ## 定义
 
-> [!info]
-> 知识的确定性（Certainty of Knowledge）是 Li 识别的西方学习传统第一主题——西方文化将"真知"（true knowledge）理解为客观的、确定的、普遍的、永恒的。这一信念以数学和演绎逻辑为模型：从自明的公理出发，通过严密的逻辑推导，得到不依赖感官经验的、绝对可靠的结论([[Argument_Li_2012_Cambridge|Li, 2012, pp.23-26]])。
+> [!def] 核心定义
+> 知识的确定性（certainty of knowledge）不仅是贯穿西方思想史的一种对客观、普遍和永恒真理的文化追求（即“真知”），同时也是教育心理学中用来衡量个体“[[Epistemological Theories|认识论理论]]”认知发展水平的核心维度，即个体究竟认为知识是绝对固定不变的，还是相对的、随时间推移而演变的。
+> 
+> > [!concept-lens] 概念透镜
+> > - **含义** 包含宏观文化层面上“对绝对真理的哲学追求”，与微观心理学层面上“个体对知识演变属性的认知预设”。
+> > - **用途** 在教育哲学上，用于区分西方追求外在真理与东方追求内在[[Self-Cultivation|修身]]的不同学习传统；在教育心理学上，用于预测学生面对劣构问题时的认知策略与成熟度。
 
-> [!quote]
-> Russell 对数学知识的描述被 Li 引用来说明这一信念的力量："数学知识似乎是确定的、精确的、适用于真实世界的；而且，它仅通过思维即可获得，无需观察。因此，它被认为提供了一种令日常经验知识相形见绌的理想。基于数学，人们认为思维高于感官。"([[Argument_Li_2012_Cambridge|Li, 2012, p.24 引 Russell]])
-
----
-
-## 概念演变
-
-> [!note]-
-> - **古希腊**[[Socrates|苏格拉底]]和[[Plato|柏拉图]]是知识确定性和永恒真理的倡导者——柏拉图在《理想国》中说"几何学迫使人注视存在……因为几何学的知识是关于永恒之物的"([[Argument_Li_2012_Cambridge|Li, 2012, pp.24-25]])。Pythagoras 被赞誉为"有史以来最伟大的人之一"，因为他用数学表达了沉思生活的理想([[Argument_Li_2012_Cambridge|Li, 2012, p.24]])
-> - **中世纪** 数学和逻辑被基督教神学家借用——St. Thomas Aquinas 基于[[Aristotle|亚里士多德]]的"不动的推动者"论证，用理性证明了上帝的存在、全知、完美和力量([[Argument_Li_2012_Cambridge|Li, 2012, p.25]])
-> - **17 世纪科学革命** Copernicus、Kepler、Galileo、Leibniz、Newton——"现代科学的奠基巨人"——"他们的全部成就都是数学、逻辑和推理力量的见证"
-> - **培根与洛克**[[Francis Bacon]] 引入归纳法作为系统化的科学探究方法——"他没有挑战对真知的追求本身，而是用更可行的方法为其注入活力"。Locke 持"理性人应对自己的观点保持一定怀疑"——甚至宗教启示也应由理性来评判([[Argument_Li_2012_Cambridge|Li, 2012, pp.25-26]])
-> - **[[Immanuel Kant|康德]]** 《纯粹理性批判》区分了先验知识与后天知识。他通过纯粹思维推导出了心智范畴（量、质、关系、模态），声称人类心智装置总是通过这些范畴来理性地过滤经验
-> - **现代** 现代[[Epistemology|认识论]]动摇了知识的确定性，绝对真理的标准已变为概率性程度、模式和趋势。但 Li 指出，"我们在任何科学领域对任何事物的认知有多确定，仍然是区分可靠知识与不可靠信息的常用标准。而没有任何知识可以脱离可靠的推理来评估"([[Argument_Li_2012_Cambridge|Li, 2012, p.26]])
-
----
-
-## 核心要素
-
-> [!abstract]
-> 1. **数学为知识模型** 数学知识因其"确定、精确、仅通过思维获得"而成为一切知识的理想模型([[Argument_Li_2012_Cambridge|Li, 2012, p.24]])
-> 2. **公理—演绎方法** 从自明之理（公理）出发，通过演绎推理达到非自明的定理或逻辑结论([[Argument_Li_2012_Cambridge|Li, 2012, pp.23-24]])
-> 3. **思维高于感官** 基于数学，人们认为"思维优越于感官"([[Argument_Li_2012_Cambridge|Li, 2012, p.24 引 Russell]])
-> 4. **真理的永恒性** 追求"永恒且精确的真理以及超感官的、可理解的世界"
-> 5. **现代的延续** 即便确定性被现代[[Epistemology|认识论]]动摇，数学和逻辑推理在科学中的核心地位"至今不容置疑且可能在西方长久持续"([[Argument_Li_2012_Cambridge|Li, 2012, p.26]])
+> [!citation-card]- 关键表述
+> 数学知识似乎是确定的、精确的、适用于真实世界的；而且，它仅通过思维即可获得，无需观察。因此，它被认为提供了一种令日常经验知识相形见绌的理想。基于数学，人们认为思维高于感官。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 24 引 Russell)]]
 
 ---
 
 ## 概念辨析
 
-> [!example]
-> **知识的确定性 vs [[Self-Cultivation|修身]]** 这是中西学习传统最根本的差异之一。西方追求的是对**外部世界**的确定知识——"宇宙的秘密"、自然的规律；儒家追求的是对**自我**的完善——"我该成为什么样的人"。前者以数学为理想模型，后者以人际关系中的道德[[Praxis|实践]]为[[Champ|场域]]。
+> [!contrast-table] 中西学习传统的底层分歧
+> | 维度 | 本概念：知识的确定性 | [[Self-Cultivation\|修身]] |
+> |------|--------|----------------|
+> | **核心追求** | 追求对**外部世界**的客观知识、自然规律、“宇宙的秘密” | 追求对**自我**的内在完善、“我该成为什么样的人” |
+> | **理想模型** | 数学与演绎逻辑推理 | 人际关系中的道德[[Praxis\|实践]]与[[Champ\|场域]] |
+> | **学术谱系** | [[Plato\|柏拉图]]、[[René Descartes\|笛卡尔]]及整个西方科学传统 | [[Confucius\|孔子]]及儒家文化传统 |
 
 ---
 
-## 理论基础
+## 围绕概念形成的命题
 
-> [!tip]-
-> - [[Mind and Its Wonders]] — "什么在我们内部进行认知？"——正是心智能力使确定知识的获得成为可能
-> - [[Examined Life]] — 追求确定知识与省察生活并行——前者是目标，后者是态度
+---
+
+### 命题一　追求知识的确定性是西方学习传统的基石
+
+> [!concept-lens] 文化与哲学传统
+> 探讨西方文化如何将“真知（true knowledge）”理解为不依赖感官经验的绝对可靠结论。
+
+> [!claim] [[Argument_Li_2012_Cambridge|Li (2012)]]
+> **作为文化基因的真知追求** Li 识别出“追求知识的确定性”是西方学习传统的第一主题。西方文化将真知理解为客观的、确定的、普遍的、永恒的。这一信念以数学和演绎逻辑为绝对模型，具有以下特征：
+> - **公理演绎与思维至上** 从自明的公理出发，通过严密的逻辑推导得出结论。基于数学模型，人们认为思维高于感官（如 Russell 的论断）。获得确定知识，其底层前提是人类拥有特殊的认知载体（[[Mind and Its Wonders]]），并在态度上辅以批判性的省察生活。
+> - **真理的永恒性** 致力于追求永恒且精确的真理，以及一个超感官的、可理解的绝对世界。
+> 
+> 即便在现代，确定性被后现代[[Epistemology|认识论]]动摇，但数学和逻辑推理在科学中的核心地位至今不容置疑。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 23-26)]]
+
+---
+
+### 命题二　知识的确定性是个体认识论理论的核心心理维度
+
+> [!concept-lens] 心理测量维度
+> 探讨个体在心智发展过程中，如何逐步改变对“知识是否绝对固定”的底层预设。
+
+> [!claim] [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]
+> **作为个体[[Epistemological Beliefs|认识论信念]]的核心[[Construct|构念]]** 在教育心理学领域，知识的确定性（Certainty of Knowledge）是构成个体“[[Epistemological Theories|认识论理论]]（epistemological theories）”的四大核心维度之一，属于“知识的本质（Nature of Knowledge）”范畴。通过系统比对过往所有经典模型，研究者发现经典理论无一例外都将其作为认知成熟度的关键指标：
+> - 处于**低认知阶段（如 Perry 提出的二元论、Schommer 提出的绝对知识维度）**的个体，倾向于认为知识是绝对固定不变的、非黑即白的客观真理。
+> - 处于**高认知阶段**（如相对主义或语境主义）的个体，则能够理解知识是流动的、相对的、随时间推移不断演变和受到语境约束的。
+> 
+> 个体在该维度上的立场，将直接影响其在面对复杂、无唯一标准答案的学术任务时的学习策略和[[Metacognition|元认知]]监控水平。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 119-120)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **文化传统假说** | 知识的确定性是西方科学与哲学传统的根基，追求超越感官的客观真理 | 跨文化教育比较、学习传统的历史溯源 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
+> | **心理测量维度** | 知识的确定性是衡量个体认识论成熟度的连续体（从绝对固定到相对演变） | 预测学生的学习策略、阅读理解和元认知能力 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念演变
+> - **古希腊 — 哲学渊源** [[Socrates|苏格拉底]]和[[Plato|柏拉图]]是永恒真理的倡导者。柏拉图在《理想国》中指出几何学迫使人注视永恒的存在。Pythagoras 因用数学表达沉思生活而被高度赞誉。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 24-25)]]
+> - **中世纪 — 神学借用** 数学和逻辑被基督教借用。如 St. Thomas Aquinas 基于[[Aristotle|亚里士多德]]的推论，用理性去证明上帝的全知与完美。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 25)]]
+> - **17 世纪 — 科学革命** 现代科学奠基人（Copernicus、Kepler、Galileo、Leibniz、Newton）的全部成就均被视为是数学和逻辑推理力量的极致见证。
+> - **17 至 18 世纪 — 方法论注入** [[Francis Bacon]] 引入归纳法为探究真知注入活力；Locke 主张即便是宗教启示也应受理性评判；[[Immanuel Kant|康德]]则通过区分先验与后天，提出人类心智装置通过范畴理性地过滤经验。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 25-26)]]
+> - **20 世纪下半叶 — 降维为心理学[[Construct|构念]]** 现代[[Epistemology|认识论]]动摇了知识绝对确定的根基。自 Perry (1970) 始，教育心理学家不再将“确定性”视为必须抵达的绝对终点，而是将其[[Operationalization|操作化]]为衡量个体认知发展阶段的一个“信念维度”——认知越成熟的个体，越倾向于摒弃知识的绝对确定性。
 
 ---
 
 ## 争议与批评
 
-> [!warning]
-> - Li 本人在书中对确定知识持审慎态度：现代[[Epistemology|认识论]]"将知识的确定性抛入怀疑"，但"基本问题"仍存在——"任何科学领域中的可靠知识与不可靠信息之间，仍需以确定性程度来衡量"([[Argument_Li_2012_Cambridge|Li, 2012, p.26]])
-> - 西方追求确定知识的传统是否过分强调了认知维度而忽视了道德和社会维度？Li 的比较框架本身暗示了这一批判——儒家传统正是因为西方不重视[[Self-Cultivation|修身]]的道德维度而发展出了完整的替代模型
-
----
-
+> [!debates] 学术争议
+>
+> > [!axis] 现代[[Epistemology|认识论]]对绝对确定性的解构
+> > 在现代科学与哲学语境下，绝对真理的标准已被抛入怀疑，甚至解构。
+> > - **[[Argument_Li_2012_Cambridge|Li (2012)]]** 尽管标准已变为概率性程度和模式趋势，但在任何科学领域，“认知有多确定”仍然是区分可靠知识与不可靠信息的常用标尺，没有任何知识能脱离可靠的推理来评估。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 26)]]
+> > - **[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]** 认知发展的高级阶段（如相对主义/语境主义）本身就是对绝对确定性的摒弃，不再追求唯一真知，而是强调知识的建构性与语境依赖性。
+>
+> > [!axis] 对西方认知传统的反思
+> > 追求外部世界确定性知识的传统，是否造成了对道德和社会维度的忽视？
+> > - **[[Argument_Li_2012_Cambridge|Li (2012)]]** 跨文化比较的框架本身暗示了这一批判——儒家传统正是由于西方不重视[[Self-Cultivation|修身]]的道德维度，而发展出了一套完整的、以人伦[[Praxis|实践]]为核心的替代模型。

@@ -18,24 +18,29 @@ tags:
   - subject/curriculum
   - level/k12
 related_concepts:
-  - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
+  - "[[International Baccalaureate]]"
+  - "[[IB Diploma Programme]]"
   - "[[Construct]]"
   - "[[Construct Validity]]"
+  - "[[Knowledge Questions]]"
   - "[[Epistemology]]"
+  - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
+  - "[[Domain Analysis]]"
+  - "[[Knowledge Framework]]"
+  - "[[Knowledge Production]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
 related_methods:
   - "[[Documentary Analysis]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments: []
 sources:
   - "[[sources/Hughes_2014_JRIE|Hughes_2014_JRIE]]"
@@ -49,9 +54,9 @@ title: "Argument_Hughes_2014_JRIE"
 argument_key: "Argument_Hughes_2014_JRIE"
 argument_display_title: "Theory of Knowledge aims, objectives and assessment criteria: An analysis of critical thinking descriptors"
 argument_kind: "journal-article"
-argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 18
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Research in International Education"
 book_title: ""

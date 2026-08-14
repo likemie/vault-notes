@@ -1,6 +1,7 @@
 ---
 citation: "Bergeron, L., & Rogers, L. (2019). Investigating the perspective of Theory of Knowledge teachers in International Baccalaureate World Schools. Journal of Research in International Education, 18(2), 169–185."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Bergeron_2019_JRIE]]"
 processed_date: 2026-08-05
 ---
 

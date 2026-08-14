@@ -22,6 +22,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Praxis]]"
   - "[[Growth]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Buen Vivir]]"
   - "[[Conscientization]]"
@@ -31,8 +32,7 @@ related_instruments: []
 related_persons:
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: medium

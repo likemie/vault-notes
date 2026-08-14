@@ -8,7 +8,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Linguistic Turn]]"
   - "[[Analytic Framework]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Critical Thinking]]"
+  - "[[Internal Consistency]]"
   - "[[Construct Validity]]"
 related_methods:
   - "[[Discourse Analysis]]"

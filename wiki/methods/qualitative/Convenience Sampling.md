@@ -24,14 +24,14 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[External Validity]]"
   - "[[IB Diploma Programme]]"
+  - "[[International Baccalaureate]]"
 related_theories: []
 related_methods:
   - "[[Non-probability Sampling]]"
   - "[[Case Study]]"
   - "[[Random Sampling]]"
 related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"

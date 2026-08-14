@@ -9,7 +9,7 @@ title: "Argument_Larsen_2019_EducSci"
 argument_key: "Argument_Larsen_2019_EducSci"
 argument_display_title: "Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
 related_persons:
+  - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Gert Biesta]]"
 related_facts:
   - "[[PISA]]"
@@ -65,7 +66,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Luhmann's Systems Theory]] — 盲点概念（blinder Fleck）和[[Structural Coupling|结构耦合]]概念作为核心批判工具。Luhmann 的论断"观察者在观察时无法看见自身"和"个体不可能知道自己不知道什么"被应用于解构 [[Visible Learning|VL]] 的[[Epistemology|认识论]]前提(p.10)
-> - [[Bildung]] 传统 — 德国精神科学传统中的品格陶成概念作为替代框架，包括 Humboldt、Herder、Kant、Hegel、Nietzsche 以及[[Critical Theory|批判理论]]和概念史的传承(p.9)
+> - [[Bildung]] 传统 — 德国精神科学传统中的品格陶成概念作为替代框架，包括 Humboldt、Herder、Kant、[[Georg Wilhelm Friedrich Hegel|Hegel]]、Nietzsche 以及[[Critical Theory|批判理论]]和概念史的传承(p.9)
 > - Thomas Fuchs 的身体[[Phenomenology|现象学]] — 大脑作为"关系器官"和具身化-扩展辩证法(p.9-10)
 > - [[Gert Biesta]] 的教育哲学 — [[Learnification]] 概念和对教育目的论的阐述(p.2)
 

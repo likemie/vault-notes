@@ -5,7 +5,7 @@ summary: "结合量化与质性数据并通过特定设计进行整合的研究�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 50
+method_related_count: 53
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Academic Self-Concept]]"
   - "[[Critical Thinking]]"
   - "[[Virtual World]]"
+  - "[[Concurrency of Learning]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -50,6 +51,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Website Content Analysis]]"
   - "[[In-depth Interview]]"
+  - "[[Focus Group]]"
 related_persons: []
 related_facts:
   - "[[Mixed Methods International Research Association]]"
@@ -63,6 +65,7 @@ related_arguments:
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
+  - "[[Argument_Metli_2022_IJER]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
@@ -264,3 +267,4 @@ Caracelli & Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_Mor
 > - [[Argument_Teng_2025_CE|Teng & Wang (2025)]] — 以问卷（n=814）和[[In-depth Interview|深度访谈]]（n=128）相结合，先通过 Logistic 回归识别[[Peidu|陪读]]的社会分层梯度，再通过访谈资料解释社会机制（pp.305–310）
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以三阶段收敛式设计同时收集量化数据（[[Critical Thinking Strategies Scale|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 调查, n=1,338）和质性数据（四校课堂观察、访谈、文件分析），再以 DP/非DP 组间比较（[[California Critical Thinking Disposition Inventory|CCTDI]]+[[Academic Self-Concept|ASC]]+ATAR, n=389）提供汇聚证据，检验 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 指出[[Virtual World|虚拟世界]]高度适合混合方法研究，在虚拟世界研究中混合方法/混合世界方法是常见的（Johnson et al., 2007; Martin et al., 2010），数据既可转为数字进行量化分析，也可通过解释性[[Phenomenology|现象学]]分析获得质性理解。
+> - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 以问卷调查（n=40）与半结构化[[Focus Group|焦点小组]]访谈（n=7）结合，定性数据用于深入阐释受访者对核心课程[[Concurrency of Learning|并发学习]]的认知与实施挑战，定量描述性统计用于印证定性发现（pp. 222–224）

@@ -10,9 +10,9 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 99
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_count: 100
+argument_related_level: 6
+argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: 金榜题名之后：大学生出路分化之谜
 publication_place: 上海
@@ -119,6 +119,7 @@ related_persons:
   - "[[Max Weber]]"
   - "[[Yajun Zheng]]"
   - "[[Ann Swidler]]"
+  - "[[Clifford Geertz]]"
   - "[[Marcia Baxter Magolda]]"
   - "[[Didier Eribon]]"
 related_facts:
@@ -493,7 +494,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 - **认识论**[[Constructivist Paradigm|建构主义]]（Constructivism）而非[[Positivism|实证主义]]
 - **方法论**[[Max Weber|韦伯]]意义上的诠释学（Hermeneutics）
 - **核心目的** 不在于变量关系判定，而在于"通过对行动主体的意义阐释，发现看似随机的个人选择背后所显现出的某种规律性机制"
-- **理论基础**[[Max Weber|韦伯]]和 Geertz ——"人是悬挂在自己编织的意义之网上的动物"，社会学的基本任务是对"以意向为取向的行为作解释性的理解"（引周怡, 2004, Geertz, Weber）
+- **理论基础**[[Max Weber|韦伯]]和 [[Clifford Geertz|Geertz]] ——"人是悬挂在自己编织的意义之网上的动物"，社会学的基本任务是对"以意向为取向的行为作解释性的理解"（引周怡, 2004, Geertz, Weber）
 - **深度访谈的认识论原理** "深入事实内部"——访谈者首先"悬置"自己的知识体系和成见，在被访者的日常语境中理解其对自身行动意义的建构，然后再考虑研究者的意义情境和解释需要（引杨善华和孙飞宇, 2005, Arksey & Knight, 1999）
 - **跟踪式[[Case Study|个案研究]]** 研究者与被访者保持联系直至其最终确定毕业去向——目的有二：（1）观察实际行动以检视访谈内容的[[Reliability|可靠性]]；（2）跟进理解受访者最终选定去向的原因阐释
 - **对代表性质疑的回应** 深度访谈的目的在于获取意义，样本"少而典型"；来自生活史社会学的研究表明，宏观社会过程会以不同方式投射到个人身上影响其生命历程并反映在个人意义建构中——可以"以小见大"，在地方性知识的基础上建立社会意义的理论推论（引 Arksey & Knight, 1999, 杨善华和孙飞宇, 2005）

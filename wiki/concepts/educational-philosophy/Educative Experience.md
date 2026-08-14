@@ -22,6 +22,7 @@ related_concepts:
   - "[[Mis-educative Experience]]"
   - "[[Interaction Effect]]"
   - "[[Progressive Education]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Active Learning]]"
   - "[[Praxis]]"
@@ -31,8 +32,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: high

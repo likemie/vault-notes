@@ -8,7 +8,7 @@ summary: "一种让参与者有意识地扮演他人角色、在虚构情境中�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Questionnaire]]"
   - "[[Self-spectator]]"
+  - "[[Dramatic Tension]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:

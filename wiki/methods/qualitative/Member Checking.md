@@ -9,9 +9,9 @@ summary: "质性研究中将最终报告或特定描述和主题带回给参与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -22,6 +22,8 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Qualitative Validity]]"
   - "[[Reflexivity]]"
+  - "[[Informed Consent]]"
+  - "[[Praxis]]"
   - "[[Research Ethics]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -34,10 +36,11 @@ related_methods:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-07-11
+updated: 2026-08-14
 ---
 # Member Checking
 
@@ -69,6 +72,25 @@ updated: 2026-07-11
 > - **分歧处理** 当研究者与受访者意见不一致时，承诺将受访者的评论和批评与研究者的报告并列发布
 > - **否决权** 需要提前谈判受访者对涉及自身内容的否决权（Nisbet & Watt, 1984, p. 81）
 > - **匿名化与验证的张力** Adelman et al.（1980）指出过度匿名化会使案例失去独特性，违背个案研究的核心特征
+
+---
+
+## 受访者验证的问题与争议
+
+> [!warning] 受访者验证的六个问题
+> [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, 28.2)]]指出受访者验证可能有诸多问题，受访者可能：
+> - 改变他们本想说的话、本意、想说而未说的话，或本想纳入或公开的内容
+> - 记忆有误，过度选择、错误或完全想不起某些事件
+> - 不同意研究者的诠释
+> - 因其后生活事件而希望撤回某些言论
+> - 在气头上或出于同伴压力、权威压力而说出某些话
+> - 对所说内容感到尴尬或紧张
+
+> [!info] 受访者的回应本身可能成为数据
+> Gibbs（2007, p. 95）指出，若请受访者验证数据与数据分析、诠释，他们的回应本身可能成为数据。例如受访者希望撤回、更改或阻止公开某些言论时，研究者可以探究其理由，而这也可以成为研究的一部分；若[[Informed Consent|知情同意]]涵盖研究的所有阶段，受访者可能有权撤回，但若同意仅涵盖参与研究而未涵盖更改报告，则研究者一旦获得数据即拥有该数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+
+> [!warning] 受访者许可与出版权
+> 质性数据分析中不仅需要受访者验证，还需要受访者"许可"（respondent clearance）——对纳入的内容进行许可，这使研究者陷入两难：是否纳入未经许可、参与者表示不愿纳入或持不同意见的材料。Whyte（1993, p. 362）甚至质疑受访者验证的必要性，尤其是当研究者发现可能违背或冒犯群体价值观与[[Praxis|实践]]的内容时；他主张"研究者有权按其自身所见发表结论与诠释"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2, 28.3)]]
 
 ## 适用场景
 

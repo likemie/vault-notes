@@ -6,7 +6,7 @@ aliases:
   - visual media
   - visual images
   - 视觉影像
-summary: "教育研究中以图像形态存在、可供研究者观看与解读的数据类型，涵盖照片、影片、录像、器物、图画等；视觉数据不是中立的现实复制品，而是由生产、图像与受众三重维度构成、被层层意义包裹的呈现"
+summary: "教育研究中以图像形态存在、可供研究者观看与解读的数据类型，涵盖照片、影片、录像、器物、图画等；视觉数据是层层意义包裹的呈现，由生产、图像与受众三重维度共同建构"
 type: concept
 domain: "research-methodology"
 related_count: 8
@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-08-06
+updated: 2026-08-11
 ---
 
 # Visual Data
@@ -53,7 +53,7 @@ updated: 2026-08-06
 > [!citation-card]- Rose 论图像的非中立性
 > 视觉图像绝不是无辜的；它们包裹着层层意义与诠释，既是现实的呈现，又反过来被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1)]]
 >
-> *Visual images are never innocent; they are wrapped up in many layers of meaning and interpretation. (Rose, 2007: 26)*
+> *Visual images are never innocent; they are wrapped up in many layers of meaning and interpretation. (Rose, 2007, p. 26)*
 
 ## 核心要素
 
@@ -85,7 +85,7 @@ updated: 2026-08-06
 > 视觉图像能否如实反映现实，是贯穿该概念的核心张力：图像一方面具有记录真实的功能，另一方面又是被建构、被选择、被多重解读的。
 
 > [!claim] Rose (2007)
-> **视觉图像绝不是无辜的** 视觉图像包裹着层层意义与诠释；它们不是现实的复制，而是现实的呈现，进而被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1)]]
+> **视觉图像绝不是无辜的** 视觉图像包裹着层层意义与诠释，作为现实的呈现被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1)]]
 
 > [!claim] Cohen, Manion & Morrison（2011）
 > **把图像视为话语而非客观现实** 鉴于图像的选择性与时间绑定性质，更稳妥的做法是把视觉图像视为在讲述一个故事（一种话语），而不是单一客观现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1)]]

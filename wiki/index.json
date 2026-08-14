@@ -817,6 +817,15 @@
     ]
   },
   {
+    "title": "Approaches to Teaching and Learning",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Approaches to Teaching and Learning.md",
+    "aliases": [
+      "ATL",
+      "教学与学习方法"
+    ]
+  },
+  {
     "title": "Areas of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Areas of Knowledge.md",
@@ -844,6 +853,16 @@
     ]
   },
   {
+    "title": "Concurrency of Learning",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Concurrency of Learning.md",
+    "aliases": [
+      "并发学习",
+      "跨学科连贯学习",
+      "并行学习"
+    ]
+  },
+  {
     "title": "Constructive Alignment",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Constructive Alignment.md",
@@ -859,7 +878,8 @@
       "CAS",
       "创意、行动、服务",
       "创意行动服务",
-      "Creativity Action Service"
+      "Creativity Action Service",
+      "Creativity, Activity, Service"
     ]
   },
   {
@@ -929,6 +949,16 @@
     ]
   },
   {
+    "title": "Feeder Mechanism",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Feeder Mechanism.md",
+    "aliases": [
+      "滋养机制",
+      "feeder mechanism",
+      "动态滋养机制"
+    ]
+  },
+  {
     "title": "IB Diploma Programme",
     "type": "concept",
     "path": "wiki/concepts/curriculum/IB Diploma Programme.md",
@@ -938,6 +968,27 @@
       "IB Diploma Program",
       "International Baccalaureate Diploma Programme",
       "IBDP"
+    ]
+  },
+  {
+    "title": "IB Learner Profile",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/IB Learner Profile.md",
+    "aliases": [
+      "Learner Profile",
+      "学习者培养目标",
+      "学习者特征",
+      "IB 学习者特征"
+    ]
+  },
+  {
+    "title": "International Baccalaureate",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/International Baccalaureate.md",
+    "aliases": [
+      "国际文凭",
+      "IB",
+      "IB Diploma"
     ]
   },
   {
@@ -964,7 +1015,8 @@
     "path": "wiki/concepts/curriculum/Knowledge Questions.md",
     "aliases": [
       "知识问题",
-      "TOK knowledge questions"
+      "TOK knowledge questions",
+      "KQ"
     ]
   },
   {
@@ -1771,6 +1823,15 @@
     ]
   },
   {
+    "title": "Resonant Oscillation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Resonant Oscillation.md",
+    "aliases": [
+      "共振震荡",
+      "resonant oscillation"
+    ]
+  },
+  {
     "title": "Response-ability",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Response-ability.md",
@@ -2277,6 +2338,51 @@
     "aliases": [
       "什么有效运动",
       "循证改革运动"
+    ]
+  },
+  {
+    "title": "Epistemological Beliefs",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemological Beliefs.md",
+    "aliases": [
+      "认识论信念",
+      "epistemological beliefs"
+    ]
+  },
+  {
+    "title": "Epistemological Theories",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemological Theories.md",
+    "aliases": [
+      "认识论理论",
+      "epistemological theories"
+    ]
+  },
+  {
+    "title": "Justification for Knowing",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Justification for Knowing.md",
+    "aliases": [
+      "认知的辩护",
+      "justification for knowing"
+    ]
+  },
+  {
+    "title": "Simplicity of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Simplicity of Knowledge.md",
+    "aliases": [
+      "知识的简单性",
+      "simplicity of knowledge"
+    ]
+  },
+  {
+    "title": "Source of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Source of Knowledge.md",
+    "aliases": [
+      "知识的来源",
+      "source of knowledge"
     ]
   },
   {
@@ -5940,6 +6046,16 @@
     ]
   },
   {
+    "title": "Double Hermeneutic",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Double Hermeneutic.md",
+    "aliases": [
+      "双重诠释",
+      "双重诠释学",
+      "double hermeneutics"
+    ]
+  },
+  {
     "title": "Ecological Fallacy",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Ecological Fallacy.md",
@@ -8767,6 +8883,51 @@
     ]
   },
   {
+    "title": "Argumentative Reasoning",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Argumentative Reasoning.md",
+    "aliases": [
+      "论辩推理",
+      "argumentative reasoning"
+    ]
+  },
+  {
+    "title": "Epistemological Reflection Model",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Epistemological Reflection Model.md",
+    "aliases": [
+      "认识论反思模型",
+      "epistemological reflection model"
+    ]
+  },
+  {
+    "title": "Perry's Scheme of Intellectual and Ethical Development",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Perry's Scheme of Intellectual and Ethical Development.md",
+    "aliases": [
+      "佩里发展图式",
+      "Perry's scheme"
+    ]
+  },
+  {
+    "title": "Reflective Judgment Model",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Reflective Judgment Model.md",
+    "aliases": [
+      "反思性判断模型",
+      "reflective judgment model"
+    ]
+  },
+  {
+    "title": "Women's Ways of Knowing",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Women's Ways of Knowing.md",
+    "aliases": [
+      "女性认知方式",
+      "women's ways of knowing"
+    ]
+  },
+  {
     "title": "Creative Tension of Sense",
     "type": "theory",
     "path": "wiki/theories/higher-education/Creative Tension of Sense.md",
@@ -11276,6 +11437,24 @@
     ]
   },
   {
+    "title": "Concurrency of Learning in the Core Questionnaire",
+    "type": "instrument",
+    "path": "wiki/instruments/scales/Concurrency of Learning in the Core Questionnaire.md",
+    "aliases": [
+      "Concurrency of Learning in the Core Questionnaire",
+      "CLCQ"
+    ]
+  },
+  {
+    "title": "Confidence Teaching TOK Scale",
+    "type": "instrument",
+    "path": "wiki/instruments/scales/Confidence Teaching TOK Scale.md",
+    "aliases": [
+      "Confidence Teaching TOK Scale",
+      "Confidence Teaching TOK"
+    ]
+  },
+  {
     "title": "Critical Thinking Strategies Scale",
     "type": "instrument",
     "path": "wiki/instruments/scales/Critical Thinking Strategies Scale.md",
@@ -11996,6 +12175,15 @@
     ]
   },
   {
+    "title": "Georg Wilhelm Friedrich Hegel",
+    "type": "person",
+    "path": "wiki/persons/germany/Georg Wilhelm Friedrich Hegel.md",
+    "aliases": [
+      "黑格尔",
+      "Hegel"
+    ]
+  },
+  {
     "title": "Hilbert Meyer",
     "type": "person",
     "path": "wiki/persons/germany/Hilbert Meyer.md",
@@ -12129,6 +12317,15 @@
     "aliases": [
       "Miyake, A.",
       "阿基拉·三宅"
+    ]
+  },
+  {
+    "title": "Baruch Spinoza",
+    "type": "person",
+    "path": "wiki/persons/netherlands/Baruch Spinoza.md",
+    "aliases": [
+      "斯宾诺莎",
+      "Spinoza"
     ]
   },
   {
@@ -12287,6 +12484,16 @@
     "aliases": [
       "Chen, K.-H.",
       "陈光兴"
+    ]
+  },
+  {
+    "title": "Anthony Giddens",
+    "type": "person",
+    "path": "wiki/persons/uk/Anthony Giddens.md",
+    "aliases": [
+      "安东尼·吉登斯",
+      "吉登斯",
+      "Giddens"
     ]
   },
   {
@@ -12707,6 +12914,16 @@
     "aliases": [
       "Lewis, C.",
       "凯瑟琳·刘易斯"
+    ]
+  },
+  {
+    "title": "Clifford Geertz",
+    "type": "person",
+    "path": "wiki/persons/us/Clifford Geertz.md",
+    "aliases": [
+      "克利福德·格尔茨",
+      "Clifford James Geertz",
+      "Geertz"
     ]
   },
   {
@@ -13928,16 +14145,6 @@
     ]
   },
   {
-    "title": "International Baccalaureate",
-    "type": "fact",
-    "path": "wiki/facts/global/International Baccalaureate.md",
-    "aliases": [
-      "国际文凭",
-      "IB",
-      "IB Diploma"
-    ]
-  },
-  {
     "title": "International Indicators of Education Systems",
     "type": "fact",
     "path": "wiki/facts/global/International Indicators of Education Systems.md",
@@ -14820,6 +15027,16 @@
     ]
   },
   {
+    "title": "British Sociological Association Statement on Visual Research Ethics",
+    "type": "fact",
+    "path": "wiki/facts/uk/British Sociological Association Statement on Visual Research Ethics.md",
+    "aliases": [
+      "英国社会学协会视觉研究伦理声明",
+      "BSA visual research ethics statement",
+      "2006 BSA ethical statement"
+    ]
+  },
+  {
     "title": "Centre for the Use of Research and Evidence in Education",
     "type": "fact",
     "path": "wiki/facts/uk/Centre for the Use of Research and Evidence in Education.md",
@@ -14879,6 +15096,16 @@
     "aliases": [
       "Evidence for Policy and Practice Information and Co-ordinating Centre",
       "政策与实践证据信息协调中心"
+    ]
+  },
+  {
+    "title": "ESRC Review of Ethical Issues in Visual Research",
+    "type": "fact",
+    "path": "wiki/facts/uk/ESRC Review of Ethical Issues in Visual Research.md",
+    "aliases": [
+      "英国经济与社会研究理事会视觉研究伦理综述",
+      "2008 ESRC visual research ethics review",
+      "NCRM-011 Methods Review"
     ]
   },
   {
@@ -15924,6 +16151,11 @@
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27.md"
   },
   {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md"
+  },
+  {
     "title": "Argument_Creswell_2022_SAGE",
     "type": "argument",
     "path": "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
@@ -16389,6 +16621,11 @@
     "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md"
   },
   {
+    "title": "Argument_Metli_2022_IJER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/International Journal of Educational Reform/Argument_Metli_2022_IJER.md"
+  },
+  {
     "title": "Argument_Eacott_2019_IJLE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/International Journal of Leadership in Education/Argument_Eacott_2019_IJLE.md"
@@ -16617,6 +16854,11 @@
     "title": "Argument_Higgins_2016_RE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md"
+  },
+  {
+    "title": "Argument_Hofer_1997_RER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Hofer_1997_RER.md"
   },
   {
     "title": "Argument_Wadhwa_2024_RER",

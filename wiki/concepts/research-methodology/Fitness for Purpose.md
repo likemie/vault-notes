@@ -8,10 +8,10 @@ aliases:
 summary: "研究规划中的核心原则，指研究方法、研究设计、资料收集工具和抽样策略应与研究目的相匹配，研究目的决定随后的方法选择而非相反"
 type: concept
 domain: "research-methodology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-design
   - source/textbook
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Research Scope]]"
   - "[[Causality]]"
+  - "[[Nomothetic and Idiographic]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -40,10 +41,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-07-15
+updated: 2026-08-14
 ---
 # Fitness for Purpose
 
@@ -100,6 +102,8 @@ Ch.7 以三种[[Research Purpose|研究目的]]为例，展示了目的适配性
 > 4. 根据方法确定抽样、伦理立场和[[Research Scope|研究范围]]
 
 原理适用于单一研究方法和[[Mixed Methods Research|混合方法研究]]——在混合方法中，适配性需要在质性和量化成分之间同时建立内在一致性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
+
+在数据分析阶段，目的适配性要求研究者明确希望数据分析完成什么——是描述、描绘、概括、诠释、发现模式、生成主题、理解个体或群体的[[Nomothetic and Idiographic|通则式]]／个例式特征、提出问题、证明、解释与寻求因果、探索、检验、发现异同，还是考察同一议题在不同情境中的运行——因为分析目的决定所进行的分析种类，进而影响分析的撰写方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 ---
 

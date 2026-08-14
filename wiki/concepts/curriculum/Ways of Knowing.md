@@ -17,6 +17,7 @@ tags:
   - theme/critical-thinking
   - level/k12
 related_concepts:
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Areas of Knowledge]]"
   - "[[Analytic Framework]]"
@@ -38,8 +39,7 @@ related_instruments: []
 related_persons:
   - "[[René Descartes]]"
   - "[[Plato]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Darwish_2009_Queens]]"
@@ -168,8 +168,8 @@ updated: 2026-08-04
 > | 命题类型 | 核心指向 | 适用情境 | 代表研究 |
 > |---|---|---|---|
 > | **互动机制** | 多种认知方式共同参与从经验到判断的知识建构 | 课堂探究、知识主张分析 | Darwish (2009); [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
-> | **课程身份** | WOK 直接组织认识论分析，只覆盖部分批判性思维活动 | 课程定位、构念界定 | Darwish (2009); [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
-> | **操作化与评估** | WOK 进入评分要求形成内部对齐，也可能诱发术语表演 | 评估设计、效度审查 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
+> | **课程身份** | WOK 直接组织认识论分析，只覆盖部分批判性思维活动 | 课程定位、构念界定 | 同上 |
+> | **操作化与评估** | WOK 进入评分要求形成内部对齐，也可能诱发术语表演 | 评估设计、效度审查 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; 同上 |
 
 ---
 

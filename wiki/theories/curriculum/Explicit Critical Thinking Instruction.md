@@ -21,6 +21,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Hypothesis]]"
   - "[[Theory of Knowledge]]"
+  - "[[International Baccalaureate]]"
   - "[[Metacognition]]"
   - "[[Variable]]"
   - "[[Praxis]]"
@@ -42,8 +43,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
 related_instruments:

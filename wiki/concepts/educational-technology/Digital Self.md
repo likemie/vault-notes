@@ -8,10 +8,10 @@ aliases:
 summary: "通过 OSA 和学习分析把学生特征转化为一组可归因于个体的数字指标所建构的统计人造物，常作为算法治理、自我优化和风险预判的对象。"
 type: concept
 domain: "educational-technology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - digital-self
 - datafication
@@ -23,6 +23,7 @@ tags:
 - theme/subjectification
 related_concepts:
   - "[[Online Self-Assessment]]"
+  - "[[Artefact]]"
   - "[[Hypothesis]]"
   - "[[Questionnaire]]"
   - "[[Document]]"

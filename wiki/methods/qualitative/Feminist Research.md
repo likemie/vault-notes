@@ -6,9 +6,9 @@ summary: "一种以批判理论为根基的研究方法论，通过揭露父权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 24
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 23
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/feminist
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
-  - "[[Theory of Knowledge]]"
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
 related_theories:

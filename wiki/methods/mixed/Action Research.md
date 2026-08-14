@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
+  - "[[Concurrency of Learning]]"
   - "[[Professional Judgment]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Document]]"
@@ -180,7 +181,7 @@ updated: 2026-07-19
 > - **原则七：对实践进行理论化** 对环境、行动和后果保持好奇，从行动中提炼理论认识
 > - **原则八：证据检验** 通过收集令人信服的证据来检验实践、观念和对制度的[[Hypothesis|假设]]
 > - **原则九：对证据持开放态度** 包括客观记录和主观判断
-> - **原则十：个人日志** 记录关于所研究实践和研究过程本身的并行学习
+> - **原则十：个人日志** 记录关于所研究实践和研究过程本身的[[Concurrency of Learning|并行学习]]
 >
 > **参与者关系与合作**
 > - **原则二：参与性** 人们通过研究来改进自身实践

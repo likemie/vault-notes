@@ -28,13 +28,13 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Critical Pedagogy]]"
   - "[[Theory of Knowledge]]"
+  - "[[International Baccalaureate]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: high

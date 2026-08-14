@@ -9,7 +9,7 @@ aliases:
 summary: "学习者对自身学习过程承担责任的能力与意愿，包括批判性反思、元认知意识和自我调节，是课程培养学生独立思考的核心目标之一"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,8 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Metacognition]]"
   - "[[Critical Thinking]]"
+  - "[[IB Learner Profile]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
@@ -31,8 +33,7 @@ related_concepts:
   - "[[IB Diploma Programme]]"
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Cole_2015_AJE]]"
@@ -66,7 +67,7 @@ updated: 2026-07-02
 > - **能力（Capacity）** 学习者需要具备独立执行任务的能力，包括[[Critical Thinking|批判性思维]]、分析性写作和决策等技能（Little, 2007）。
 > - **意愿与动机（Willingness & Motivation）** 仅有能力不够，还需内在动力来主动管理学习过程（Dam, 1995）。
 
-> [!feature] 自主学习者特征（Chan, 2001）
+> [!feature] 自主[[IB Learner Profile|学习者特征]]（Chan, 2001）
 > - **高度动机（Highly Motivated）** 对学习本身有内在兴趣，而非仅追求外部评价。
 > - **好奇心强（Inquisitive）** 主动追问、寻找超出课堂内容的信息和解释。
 > - **组织有序（Well-organized）** 能够规划和管理自己的学习任务与资源。
@@ -94,7 +95,7 @@ updated: 2026-07-02
 ## 围绕概念形成的命题
 
 > [!claim] 课程可以通过[[Epistemology|认识论]]训练培养自主性
-> [[International Baccalaureate|IB]] 的[[Theory of Knowledge|知识论]]（TOK）课程通过要求学生反思"我们如何知道我们所知道的"，系统性地训练了批判性反思和[[Metacognition|元认知]]意识。学生在 TOK 中发展出提问、[[Reflexivity|反思性]]思考和创造性沟通的能力，这些角色——探究者、思考者、风险承担者、反思者和创造者——直接对应 IB 学习者培养目标中的描述（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, pp.177–178]]）。
+> [[International Baccalaureate|IB]] 的[[Theory of Knowledge|知识论]]（TOK）课程通过要求学生反思"我们如何知道我们所知道的"，系统性地训练了批判性反思和[[Metacognition|元认知]]意识。学生在 TOK 中发展出提问、[[Reflexivity|反思性]]思考和创造性沟通的能力，这些角色——探究者、思考者、风险承担者、反思者和创造者——直接对应 IB [[IB Learner Profile|学习者培养目标]]中的描述（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, pp.177–178]]）。
 
 > [!claim] 自主性与[[Constructivist Paradigm|建构主义]]学习相互支撑
 > 认知失衡（disequilibrium）对建构主义学习至关重要，而正是学习者在知识建构中的能动性提出了解决方案（Moon, 2008）。教师需要先让学生安心——知识必然会产生悖论，因为不和谐是建构主义学习的[[Necessary and Sufficient Conditions|必要条件]]。同时，学生应意识到不存在唯一正确答案，重要的是智识上的严谨性（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.178]]）。

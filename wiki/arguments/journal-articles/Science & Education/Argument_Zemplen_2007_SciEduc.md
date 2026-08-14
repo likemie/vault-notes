@@ -17,6 +17,7 @@ tags:
   - theme/curriculum
   - source/journal-article
 related_concepts:
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
   - "[[Praxis]]"
@@ -27,6 +28,7 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
   - "[[Scientism]]"
+  - "[[Knowledge Questions]]"
   - "[[Hypothesis]]"
   - "[[Homework]]"
   - "[[Conflict of Interest in Research]]"
@@ -52,6 +54,7 @@ related_concepts:
 related_theories:
   - "[[Pragma-Dialectics]]"
   - "[[Duhem-Quine Thesis]]"
+  - "[[Reflective Judgment Model]]"
   - "[[Toulmin's Argumentation Model]]"
 related_methods:
   - "[[Case Study]]"
@@ -65,7 +68,6 @@ related_persons:
   - "[[Plato]]"
   - "[[Jean Piaget]]"
 related_facts:
-  - "[[International Baccalaureate]]"
   - "[[EDEXCEL Perspectives on Science]]"
   - "[[Gaokao]]"
 related_arguments: []
@@ -80,7 +82,7 @@ title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -190,7 +192,7 @@ issuing_organization: ""
 批判性思维问题进一步加深了困境。课程没有明确说明期待什么层次、什么类型的批判性思维。
 
 > [!evidence-grid] 批判性思维问题的认知依据
-> - **反思判断模型的警告** King & Kitchener（1994）的反思判断模型（Reflective Judgment Model）表明，高中生的推理能力通常无法达到对比不同来源证据、阐明决策标准的水平。Dotger（2005）在讨论科学本质（Nature of Science，NOS）与批判性思维时指出，NOS [[Document|文献]]隐含的理解深度期望实际上在大多数高阶研究生中才会发展（pp.173–174）。
+> - **反思判断模型的警告** King & Kitchener（1994）的反思判断模型（[[Reflective Judgment Model]]）表明，高中生的推理能力通常无法达到对比不同来源证据、阐明决策标准的水平。Dotger（2005）在讨论科学本质（Nature of Science，NOS）与批判性思维时指出，NOS [[Document|文献]]隐含的理解深度期望实际上在大多数高阶研究生中才会发展（pp.173–174）。
 > - **学校运作的现实矛盾** 学校通常在扩散（或缺失）模型中运作，本质上是权威性的，旨在限制和引导批判性思维。实际政治与普遍政策背道而驰（p.173）。
 > - **评估可能在测量一般认知发展** 如果批判性思维技能的发展与一般认知成熟度高度相关，那么评估批判性思维是否公平？将其称为知识论的成绩是否合理？这类似于：如果化学计算题的解答能力直接与短时记忆广度相关，测试短时记忆广度并据此给出化学成绩是否公平（p.173，note 12）？
 

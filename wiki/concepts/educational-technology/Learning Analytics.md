@@ -9,7 +9,7 @@ aliases:
 summary: "通过收集、分析和报告学习过程中的数字痕迹来理解和优化学习的技术实践，在教育治理中也常被用于风险预判、行为干预和学生管理。"
 type: concept
 domain: "educational-technology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
+  - "[[Artefact]]"
   - "[[Preemptive Governance]]"
   - "[[Promising Student]]"
   - "[[Professional Judgment]]"

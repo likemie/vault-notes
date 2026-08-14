@@ -7,7 +7,7 @@ aliases:
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,6 +17,7 @@ tags:
 - field/comparative-education
 - theme/learning
 related_concepts:
+  - "[[IB Learner Profile]]"
   - "[[Mind-Oriented Learning Process]]"
   - "[[Active Learning]]"
   - "[[Critical Thinking]]"
@@ -58,7 +59,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> 西方学习者（Western Learner）是 Li 基于对西方知识传统的追溯所提炼出的学习者模型——呈现于 Figure 2.1([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-36]])。Li 指出，在西方哲学传统中，"学习者作为一个整体的人并没有占据哲学辩论的突出位置——大多数思想家没有写太多关于学习者作为整全的人的内容，而是聚焦于心智"。但通过对西方教育思想史的梳理，她仍能辨识出四个核心的学习者特征与过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])。
+> 西方学习者（Western Learner）是 Li 基于对西方知识传统的追溯所提炼出的学习者模型——呈现于 Figure 2.1([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-36]])。Li 指出，在西方哲学传统中，"学习者作为一个整体的人并没有占据哲学辩论的突出位置——大多数思想家没有写太多关于学习者作为整全的人的内容，而是聚焦于心智"。但通过对西方教育思想史的梳理，她仍能辨识出四个核心的[[IB Learner Profile|学习者特征]]与过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])。
 
 该模型的基本学习方式是：**学习者探究外部世界（the learner studies the world out there）**。学习者的两大内在组件是心智（mind）和智识情感（intellectual affect），其中心智是"最为根本的"([[Argument_Li_2012_Cambridge|Li, 2012, p.36]])。
 

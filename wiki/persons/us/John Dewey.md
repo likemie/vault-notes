@@ -45,6 +45,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"
   - "[[Critical Pedagogy]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Habituation]]"
 related_theories: []
@@ -63,7 +64,6 @@ related_facts:
   - "[[New Education Movement]]"
   - "[[1922 Educational System Reform]]"
   - "[[New Culture Movement]]"
-  - "[[International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Argument_Zhou_2024_CE]]"

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Dialogue in Education]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
 related_theories:
@@ -31,8 +32,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"
-related_facts:
-  - "[[International Baccalaureate]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Zemplen_2007_SciEduc]]"
 confidence: medium

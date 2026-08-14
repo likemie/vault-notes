@@ -5,7 +5,7 @@ aliases:
 summary: "以教师清晰示范、分步讲解、理解检查和练习巩固为核心的教学取向，常被用作讨论结构化教学和基础知识教学的参照。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Feedback]]"
   - "[[Side Effects]]"
+  - "[[Knowledge Framework]]"
 related_theories: []
 related_methods: []
 related_persons: []

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Hypothesis]]"
+  - "[[Concurrency of Learning]]"
   - "[[Chain of Evidence]]"
   - "[[Epistemology]]"
   - "[[Ideal Speech Situation]]"
@@ -301,7 +302,7 @@ updated: 2026-07-19
 > - **原则七：对实践进行理论化** 行动研究涉及人们对自己的实践进行理论化，对环境、行动和后果保持好奇
 > - **原则八：证据检验** 行动研究要求人们通过收集令人信服的证据来检验自己的实践、观念和对制度的[[Hypothesis|假设]]
 > - **原则九：对证据持开放态度** 行动研究对什么算作证据持开放态度，不仅包括尽可能准确描述发生情况的记录，还包括收集和分析自己的判断、反应和印象
-> - **原则十：个人日志** 行动研究涉及记录个人日志，记录进展和关于两组并行学习的反思：关于所研究实践的学习，以及关于研究过程本身的学习
+> - **原则十：个人日志** 行动研究涉及记录个人日志，记录进展和关于两组[[Concurrency of Learning|并行学习]]的反思：关于所研究实践的学习，以及关于研究过程本身的学习
 >
 > **参与者关系与合作**
 > - **原则二：参与性** 行动研究具有参与性，人们通过研究来改进自身实践（仅次要地改进他人的实践）

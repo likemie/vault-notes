@@ -30,6 +30,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Critical Thinking]]"
   - "[[Theory of Knowledge]]"
+  - "[[International Baccalaureate]]"
   - "[[Areas of Knowledge]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Effect Size]]"
@@ -41,7 +42,6 @@ related_persons:
   - "[[Hu Shi]]"
   - "[[John Dewey]]"
 related_facts:
-  - "[[International Baccalaureate]]"
   - "[[EDEXCEL Perspectives on Science]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
