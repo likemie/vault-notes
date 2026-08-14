@@ -3,7 +3,7 @@ title: Epistemological Beliefs
 summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度的演变过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 12
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

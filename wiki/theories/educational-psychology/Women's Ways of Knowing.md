@@ -3,9 +3,9 @@ title: Women's Ways of Knowing
 summary: "Belenky等人提出的关注女性作为认知者如何看待真理、知识与权威的五个认识论视角模型。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 4
+theory_related_count: 5
 theory_related_level: 0
-theory_related_stars: "☆"
+theory_related_stars: ""
 theory_related_color: "#e5e7eb"
 aliases:
   - "女性认知方式"

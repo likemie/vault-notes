@@ -3,10 +3,10 @@ title: Epistemological Reflection Model
 summary: "Baxter Magolda提出的一项考察男女学生在四种认知方式中性别相关推理模式的纵向发展模型。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 4
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 domain: "educational-psychology"
 related_count: 4
 related_level: 0

@@ -54,7 +54,7 @@ title: "Argument_Hofer_1997_RER"
 argument_key: "Argument_Hofer_1997_RER"
 argument_display_title: "The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
