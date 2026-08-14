@@ -163,7 +163,7 @@ citation_aliases:
 
 **新自由主义和建构主义对知识理解的改变(Lourie, 2020)**
 - 对技能和能力的日益强调是以牺牲知识为代价的，这是对[[Knowledge-Based Economy|知识经济]]话语的回应，该话语「倾向于以功能主义的方式框定教育」(p.124)
-- 具体表现：知识更新太快所以不再需要教授(De Bruychere et al., 2015)；通用技能如「学会学习」被认为比学什么更重要(Claxton, 2013)；期望学生自己建构知识(McPhail, 2017)
+- 具体表现：知识更新太快所以不再需要教授(De Bruychere et al., 2015)；通用技能如「学会学习」被认为比学什么更重要(Claxton, 2013)；期望学生自己[[Constructed Knowledge|建构知识]](McPhail, 2017)
 
 > [!info] [[Social Realism|社会实在论]]的立场
 > [[Social Realism|社会实在论]]强调学科知识的重要性：

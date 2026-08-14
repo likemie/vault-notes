@@ -56,7 +56,7 @@ updated: 2026-08-14
 
 > [!claim] [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]
 > **权威祛魅主张** 个体[[Epistemology|认识论]]成熟的标志之一，是完成“知识来源”的内化转变。
-> 几乎所有关于认知发展的经典模型都指出：在发展的极早期（如二元论或接收知识阶段），个体认为自己是一个空容器，而知识被全知的权威垄断，学习就是从权威那里获取真理。随着认知水平的提升，权威的绝对正确性开始受到质疑，个体逐渐意识到知识并不是由别人直接给予的，而是必须由认知者自己基于个人经验、证据和语境主动建构的。
+> 几乎所有关于认知发展的经典模型都指出：在发展的极早期（如二元论或[[Received Knowledge|接收知识]]阶段），个体认为自己是一个空容器，而知识被全知的权威垄断，学习就是从权威那里获取真理。随着认知水平的提升，权威的绝对正确性开始受到质疑，个体逐渐意识到知识并不是由别人直接给予的，而是必须由认知者自己基于个人经验、证据和语境主动建构的。
 > 这种信念的转变，是推动学生从“被动接收”走向“[[Learner Autonomy|自主学习]]”的最底层动力。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 120)]]
 
 ---
@@ -75,6 +75,6 @@ updated: 2026-08-14
 > [!dev-timeline] 概念演变
 > 该维度是过往各大学派最具共识的核心特征。
 > - **1970 年 — 权威的祛魅** Perry (1970) 的男性发展图式中，最显著的变化就是个体从认为“权威知晓绝对真理（二元论）”，逐渐转变为“自我成为意义的积极建构者（相对主义）”。
-> - **1986 年 — 接收与建构** Belenky et al. (1986) 在[[Women's Ways of Knowing|女性认知方式]]中，将其细化为从无声的“接收知识（received knowledge）”转向由内部发声的“建构知识（constructed knowledge）”。
-> - **1992 年 — 独立认知的崛起** Baxter Magolda (1992) 的[[Epistemological Reflection Model|认识论反思模型]]也指出了从“依赖权威的绝对认知”向“主张个人意见有效的独立认知”的转变。
+> - **1986 年 — 接收与建构** Belenky et al. (1986) 在[[Women's Ways of Knowing|女性认知方式]]中，将其细化为从无声的“[[Received Knowledge|接收知识]]（received knowledge）”转向由内部发声的“[[Constructed Knowledge|建构知识]]（constructed knowledge）”。
+> - **1992 年 — [[Independent Knowing|独立认知]]的崛起** Baxter Magolda (1992) 的[[Epistemological Reflection Model|认识论反思模型]]也指出了从“依赖权威的[[Absolute Knowing|绝对认知]]”向“主张个人意见有效的独立认知”的转变。
 > - **1997 年 — 提炼核心维度** [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 将这种广泛存在于各模型中的现象统合为“知识的来源”，确立其为[[Epistemological Theories|认识论理论]]的底层支柱。
