@@ -46,7 +46,7 @@ updated: 2026-08-14
 ## 定义
 
 > [!info]
-> 质性计算机软件（Qualitative Computer Software），即计算机辅助质性数据分析软件（Computer Assisted Qualitative Data Analysis Software，CAQDAS），是用于辅助质性数据分析的计算机程序，帮助研究者组织、排序和搜索文本或图像数据库中的信息（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.206）。这些程序可以显著提高[[Coding in Qualitative Research|编码]]效率，但软件本身并不进行数据分析——分析的责任始终在研究者身上。正如 Kelle（2004, p. 277）所言，软件与其说是分析文本，不如说是组织和结构化文本以供后续分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> 质性计算机软件（Qualitative Computer Software），即计算机辅助质性数据分析软件（Computer Assisted Qualitative Data Analysis Software，CAQDAS），是用于辅助质性数据分析的计算机程序，帮助研究者组织、排序和搜索文本或图像数据库中的信息（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.206）。这些程序可以显著提高[[Coding in Qualitative Research|编码]]效率，但软件本身并不进行数据分析，分析的责任始终在研究者身上。正如 Kelle（2004, p. 277）所言，软件与其说是分析文本，不如说是组织和结构化文本以供后续分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 ## 主要用途
 
@@ -81,31 +81,31 @@ Kelle（2000, p. 295）给出使用软件编码数据的六步序列：
 > 3. 撰写备忘录（针对特定数据片段）。
 > 4. 比较具有相同编码的文本片段以检验一致性。
 > 5. 整合已生成的编码并撰写编码备忘录。
-> 6. 发展核心范畴——这是[[Grounded Theory|扎根理论]]的特征（见第33章）。
+> 6. 发展核心范畴，这是[[Grounded Theory|扎根理论]]的特征（见第33章）。
 
 ## 常见软件与功能
 
 > [!info] 常用软件与共同功能
 > 常用软件包括 AQUAD、HyperQuad2、HyperRESEARCH、Hypersoft、Kwaliton、Martin、MAXqda、QSR.NUD\*IST、NVivo、QUALPRO、Text-base Alpha、Ethnograph、ATLAS.ti、Code-A-Text、Decision Explorer、Diction 等（Kelle, 1995）。Gibbs（2007）着重介绍 NVivo、MAXqda 与 ATLAS.ti 三个软件，其共同功能包括：导入、处理并显示富文本；把文本[[Coding in Qualitative Research|编码]]为关键编码（节点）并把编码与节点排列成层级与聚类；用不同组合与搜索词排序、组合、检索文本；用编码处理原始文档或组合文档中的选定片段；为已有数据文件与文档添加注释、备忘录、评论或附加文档；用编码排序材料。NVivo 与 ATLAS.ti 还能把文字数据与图像、视频和录音结合并加以编码（Gibbs, 2007, p. 114）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
-> [!info] 定性意义上的"统计分析"
+> [!info] 定性意义上的统计分析
 > 软件能对词、短语、编码、节点与类别进行布尔搜索（用 and／not／or 查找多重编码文本的交集与共现）、邻近搜索（查找节点或编码附近、之前或之后的聚类与语境数据）、限制／树／交叉表（纳入与排除文档、查找被节点包含或包含其他节点的编码），构建相关节点与编码的树状图（dendrograms），按序列呈现数据并定位语境，查找相似段落、负面案例（Gibbs, 2007, p. 126）、语境中的词项（词汇检索），按联合标准（联合出现、搭配）选择文本，分析文本间及文本片段的异同关系，并对文本加以注释和撰写备忘录。因单个词与词频统计会忽略语境的重要性，多数软件包发展出"语境中的关键词"（Key-Words-In-Context，KWIC）功能。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 ## 效度、信度与数据分析
 
 > [!strength] 软件对效度与[[Reliability|信度]]的增强
-> Kelle & Laurie（1995, p. 27）指出计算机辅助方法能增强效度（通过样本管理）与信度（通过检索某主题的所有数据，从而保证数据的可信度），且不丢失语境因素（Gibbs, 2007, p. 106）。其重要优点是数据整理与检索的系统性和速度——虽然数据录入耗时，但软件能随后迅速处理数据。Lonkila（1995）说明计算机如何通过[[Coding in Qualitative Research|编码]]、持续比较、联系、备忘录、注释与追加、使用图表、验证与理论建构来辅助[[Grounded Theory|扎根理论]]的生成。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> Kelle & Laurie（1995, p. 27）指出计算机辅助方法能增强效度（通过样本管理）与信度（通过检索某主题的所有数据，从而保证数据的可信度），且不丢失语境因素（Gibbs, 2007, p. 106）。其重要优点是数据整理与检索的系统性和速度，虽然数据录入耗时，但软件能随后迅速处理数据。Lonkila（1995）说明计算机如何通过[[Coding in Qualitative Research|编码]]、持续比较、联系、备忘录、注释与追加、使用图表、验证与理论建构来辅助[[Grounded Theory|扎根理论]]的生成。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 ## 争议与局限
 
 > [!warning] 软件不替代分析
-> 计算机并不能消除"人的参与"：人仍需决定并生成[[Coding in Qualitative Research|编码]]与类别、验证并诠释数据。"文本的算法式诠释存在严格限度"（Kelle, 2004, p. 277），因为文本所含多于可机械检查的内容。CAQDAS 不执行分析，只通过组织数据、记录编码与节点来支持研究者进行分析；它更像文字处理器与整理器，而非分析工具（Flick, 2009, p. 359）。García-Horta & Guerra-Ramos（2009, pp. 152–3）进一步指出，质性软件不能替代研究者"赋予意义、识别异同、建立关系"的能力，迄今没有软件能处理意义的生成、数据诠释、类别推断、编码决策与对分析结果的诠释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> 计算机并不能消除人的参与：人仍需决定并生成[[Coding in Qualitative Research|编码]]与类别、验证并诠释数据。"文本的算法式诠释存在严格限度"（Kelle, 2004, p. 277），因为文本所含多于可机械检查的内容。CAQDAS 不执行分析，只通过组织数据、记录编码与节点来支持研究者进行分析；它更像文字处理器与整理器，而非分析工具（Flick, 2009, p. 359）。García-Horta & Guerra-Ramos（2009, pp. 152–3）进一步指出，质性软件不能替代研究者赋予意义、识别异同、建立关系的能力，迄今没有软件能处理意义的生成、数据诠释、类别推断、编码决策与对分析结果的诠释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 > [!warning] 软件可能驱动分析
-> 多项批评指出软件可能驱动分析而非相反（Crowley et al., 2002; Fielding & Lee, 1998），并过分专注于编码类别（Seidel & Kelle, 1995）。Richards（2002, pp. 266, 269）指出许多软件包聚焦于"编码与检索"技术，可能诱使研究者选择编码与模式化而忽视对文本更复杂的追问；许多研究者其实更愿意迭代式地审视文本而非使用编码技术（p. 270）。Kelle（2004, p. 283）认为软件背后的[[Hypothesis|假设]]可能不符合研究者的意图，且软件更贴近[[Grounded Theory|扎根理论]]而非诠释学或[[Discourse Analysis|话语分析]]等其他技术（Coffey et al., 1996）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> 多项批评指出软件可能驱动分析而非相反（Crowley et al., 2002; Fielding & Lee, 1998），并过分专注于编码类别（Seidel & Kelle, 1995）。Richards（2002, pp. 266, 269）指出许多软件包聚焦于编码与检索技术，可能诱使研究者选择编码与模式化而忽视对文本更复杂的追问；许多研究者其实更愿意迭代式地审视文本而非使用编码技术（p. 270）。Kelle（2004, p. 283）认为软件背后的[[Hypothesis|假设]]可能不符合研究者的意图，且软件更贴近[[Grounded Theory|扎根理论]]而非诠释学或[[Discourse Analysis|话语分析]]等其他技术（Coffey et al., 1996）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 > [!warning] 编码质量决定结果
-> Gibbs（2007, p. 140）提醒，多数软件的使用效果只取决于所用编码与编码工作的质量——如果编码不佳（编码不一致、遗漏部分文本、错误编码、对同类或同义数据使用不同编码），就很可能产生不良结果，即[[Reliability|信度]]问题；搜索编码、词项或组合时同理。Gibbs 还担心研究者可能因软件而疏远数据（p. 106）、软件过度与扎根理论绑定（p. 107）、仅按编码装配数据时可能剥离重要语境（p. 122）；Flick（2009, p. 370）担心数据录入、编码与检索的实操会转移研究者对"真正任务"的注意力，即对研究及文本意义做诠释学的理解、思考与解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> Gibbs（2007, p. 140）提醒，多数软件的使用效果只取决于所用编码与编码工作的质量。如果编码不佳（编码不一致、遗漏部分文本、错误编码、对同类或同义数据使用不同编码），就很可能产生不良结果，即[[Reliability|信度]]问题；搜索编码、词项或组合时同理。Gibbs 还担心研究者可能因软件而疏远数据（p. 106）、软件过度与扎根理论绑定（p. 107）、仅按编码装配数据时可能剥离重要语境（p. 122）；Flick（2009, p. 370）担心数据录入、编码与检索的实操会转移研究者对真正任务的注意力，即对研究及文本意义做诠释学的理解、思考与解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 ## 研究程序
 
