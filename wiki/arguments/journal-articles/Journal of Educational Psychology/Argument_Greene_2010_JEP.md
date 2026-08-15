@@ -117,7 +117,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > 传统的阶段模型，包括现实主义、绝对主义（absolutist）、多元主义（multiplist）与评价主义（evaluativist），本质上可以解构为对客观现实、知识来源和评价机制的量化程度差异（见表1）。基于此提出的认识论与本体论认知模型（表2）指明，四种认知发展阶段分别对应了三种信念维度上的不同强弱组合特征。
 
-> [!contrast-table]- 表1：Kuhn等（2000）认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
+> [!contrast-table]- 表1：Kuhn et al. (2000) 认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
 > | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | 批判性思维（Critical thinking） | 知识主张（Assertions） |
 > | --- | --- | --- | --- | --- |
 > | 现实主义者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
@@ -135,7 +135,7 @@ issuing_organization: ""
 > | 大学中期至晚期 | 理性主义（Rationalism） | 弱 | 中等 | 中等 | 教条或怀疑主义（Dogmatism or skepticism） | 弱<br>弱 | 强<br>弱 | 弱<br>强 |
 > | 本科后教育（研究生） | 理性主义（Rationalism） | 弱 | 中等 | 中等 | 理性主义（Rationalism） | 弱 | 中等 | 中等 |
 > 
-> *注：SC=Simple and Certain Knowledge; JA=Justification by Authority; PJ=Personal Justification。来源：Greene et al. (2010), p. 238*
+> *注：SC=简单与确定知识（Simple and Certain Knowledge）; JA=权威辩护（Justification by Authority）; PJ=个人辩护（Personal Justification）。来源：Greene et al. (2010), p. 238*
 
 > [!example]- 图1：Range of differences regarding the domain generality or specificity of epistemic cognition
 > ![](https://img.mylikemie.icu/sources/Greene_2010_JEP/figures/Greene_2010_JEP_Fig1_Range_of_differences_regarding_domain_generality.jpg)
