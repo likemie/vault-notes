@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Construct]]"
+  - "[[Academic Achievement]]"
   - "[[Epistemological Beliefs]]"
   - "[[Certainty of Knowledge]]"
   - "[[Simplicity of Knowledge]]"
@@ -47,7 +48,7 @@ updated: 2026-08-14
 > 
 > > [!concept-lens] 概念透镜
 > > - **含义** 个体所持有的关于知识本质和认知过程的系统性信念，并起到指导认知的理论框架作用。
-> > - **用途** 用于解释学生在学习过程中的动机、认知策略选择以及最终的学业表现。
+> > - **用途** 用于解释学生在学习过程中的动机、认知策略选择以及最终的[[Academic Achievement|学业表现]]。
 > > - **边界** 必须通过剥离外围信念来维持构念纯粹性：仅限于对“知识本身”及“推理辩护过程”的哲学信念，不包含对隐性智力（如能力是否固定）或学习难度（如学习快慢）的预期。
 
 ---

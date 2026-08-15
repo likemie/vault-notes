@@ -20,6 +20,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Predictive Validity]]"
   - "[[Concurrent Validity]]"
+  - "[[Academic Achievement]]"
 related_methods:
   - "[[Triangulation]]"
 related_arguments:
@@ -62,5 +63,5 @@ updated: 2026-06-23
 ## 争议与批评
 
 > [!warning] 效标选择的内在困难
-> Wolf (1994) 指出，效标关联效度面临的一个主要问题是**选择合适的效标测量**。他举了一个例子：在学业能力倾向测试中选择学业成就的合适效标是多么困难——什么才算"学业成就"？GPA？毕业率？教师评价？每一种选择都带有自身的问题。被选作效标的测量必须满足：（a）**相关**且被公认相关；（b）**无偏**——去掉可能污染效标的外部因素；（c）**可靠**——精确且准确；（d）**可测量**或可达成。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 225)]]
+> Wolf (1994) 指出，效标关联效度面临的一个主要问题是**选择合适的效标测量**。他举了一个例子：在学业能力倾向测试中选择[[Academic Achievement|学业成就]]的合适效标是多么困难——什么才算"学业成就"？GPA？毕业率？教师评价？每一种选择都带有自身的问题。被选作效标的测量必须满足：（a）**相关**且被公认相关；（b）**无偏**——去掉可能污染效标的外部因素；（c）**可靠**——精确且准确；（d）**可测量**或可达成。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 225)]]
 

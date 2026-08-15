@@ -36,6 +36,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Academic Achievement]]"
   - "[[Homework]]"
   - "[[Co-relational Study]]"
   - "[[Criterion Group Study]]"
@@ -118,7 +119,7 @@ sources:
 
 事后回溯研究也可用于替代实验，在不可能、不切实际或不道德地控制或操纵因变量（乃至自变量）的情境中，检验关于因果与效应的假设（p. 305）。
 
-> [!case] 家庭暴力与学业表现
+> [!case] 家庭暴力与[[Academic Achievement|学业表现]]
 > 假设要检验家庭暴力导致学业表现不佳这一假设。从伦理上讲，不应让学生暴露于家庭暴力，也无法将情绪稳定的儿童置于受控的创伤环境中来研究效应（Lord, 1973, p. 2）。
 >
 > 但可以将学生分为两组，在一系列因素上仔细匹配：一组有家庭暴力经历，另一组家庭环境更可接受。如果假设可成立，在其他变量被匹配或尽可能保持不变的情况下，两组之间应能发现学业表现的差异（p. 305）。

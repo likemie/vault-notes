@@ -32,6 +32,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Critical Thinking]]"
   - "[[Causality]]"
+  - "[[Academic Achievement]]"
   - "[[Goal-Controlled Mode]]"
 related_theories: []
 related_methods:
@@ -130,7 +131,7 @@ SCD 中突出强调的技能主要是**结果导向的（outcome-oriented）**�
 ## 相关案例／政策
 
 > [!example]
-> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第4章援引 Brown 的就业力概念，分析大学生[[Social Engagement|社会性投入]]的重要性——"毕业生需要精心打造自己的简历，不仅展示学业表现，更重要的是通过恰当的履历来展示自己的素质和品质"
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]第4章援引 Brown 的就业力概念，分析大学生[[Social Engagement|社会性投入]]的重要性——"毕业生需要精心打造自己的简历，不仅展示[[Academic Achievement|学业表现]]，更重要的是通过恰当的履历来展示自己的素质和品质"
 > - 钦凯案例：将求职竞争力拆分为"硬""软"条件，广泛结交年长商界精英以建立面试从容感，体现就业力管理的个人化逻辑。详见 [[Economy of Experience]]
 > - 就业力竞争与[[Goal-Controlled Mode|目标掌控模式]]的关系：目标掌控者对就业力竞争的逻辑有更清晰的认识，更早开始策略性地积累就业力（如实习、职业社交、简历包装）
 

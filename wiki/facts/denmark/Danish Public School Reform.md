@@ -24,6 +24,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Learnification]]"
   - "[[Praxis]]"
+  - "[[Academic Achievement]]"
   - "[[Effective Teaching]]"
   - "[[Classroom Management]]"
   - "[[Positivism]]"
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 > [!success] 效果与评价
 > - 改革引发了强烈反对，部分因为与教师劳动协议的争议性立法变更高度绑定([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
 > - 在短时间内，一个广泛的解释社群在研究者和[[Praxis|实践]]者中形成，将 Hattie 从教育英雄转变为教育敌人
-> - Qvortrup 指出：没有人声称 Hattie 说过使用学习目标与提高学业成就之间存在相关性，这仅仅是关于使学生的学习可见的重要性的讨论——但这一细微区分在争议中被抹去
+> - Qvortrup 指出：没有人声称 Hattie 说过使用学习目标与提高[[Academic Achievement|学业成就]]之间存在相关性，这仅仅是关于使学生的学习可见的重要性的讨论——但这一细微区分在争议中被抹去
 > - Laursen 以丹麦 SFI 报告和 Mehlbye 高绩效学校研究回看 Hattie、Meyer、Helmke 的国际[[Effective Teaching|有效教学]]综合，认为其核心结论在丹麦总体适用：清晰一致的[[Classroom Management|课堂管理]]、明确目标、高要求和良好班级社会环境均与更好学生结果相关；这为改革语境中引入 Hattie 提供了一种较温和的经验支持，但不等于支持改革的所有政治安排([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–40]])。
 
 ## 争议与评论
@@ -94,7 +95,7 @@ updated: '2026-05-18'
 > - [[Evidence-Based Education]] — 改革体现的证据本位教育取向
 > - [[Effective Teaching]] — 丹麦研究对 Hattie 等国际有效教学综合适用性的检验
 > - [[SFI Report]] — 丹麦本土证据基准
-> - [[Jill Mehlbye]] — 丹麦高绩效学校研究中关于高要求、学业表现取向和[[Classroom Management|课堂管理]]的补充证据
+> - [[Jill Mehlbye]] — 丹麦高绩效学校研究中关于高要求、[[Academic Achievement|学业表现]]取向和[[Classroom Management|课堂管理]]的补充证据
 > - [[Interpretation Community]] — 解释改革引发争议的社会机制
 > - [[Professional Judgment]] — Qvortrup 论证改革应依赖的专业能力
 

@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Concurrency of Learning]]"
   - "[[Praxis]]"
+  - "[[Academic Achievement]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -87,7 +88,7 @@ updated: 2026-08-10
 
 > [!claim] 学界共识（引自 Metli & Akış, 2022 文献回顾）
 > **EE 为大学学术标准奠定基础**
-> 针对前 DP 学生的实证研究表明，EE 体验能有效提升学生的批判性和独立思考能力，并在自我调节和探究式学习方面获得更高评价。学生通过撰写 EE 掌握了应对大学学术要求的方法，且与大学预修课程（Advanced Placement，AP）学生相比，其 EE 成绩与大学平均绩点（Grade Point Average，GPA）之间存在统计学上的显著正相关（Wray, 2013; Aulls & Lemay, 2013; Inkelas et al., 2012，引自 [[Argument_Metli_2022_IJER|Metli & Akış, 2022, p. 220]]）。
+> 针对前 DP 学生的实证研究表明，EE 体验能有效提升学生的批判性和独立思考能力，并在自我调节和探究式学习方面获得更高评价。学生通过撰写 EE 掌握了应对大学学术要求的方法，且与大学预修课程（Advanced Placement，AP）学生相比，其 EE 成绩与大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）之间存在统计学上的显著正相关（Wray, 2013; Aulls & Lemay, 2013; Inkelas et al., 2012，引自 [[Argument_Metli_2022_IJER|Metli & Akış, 2022, p. 220]]）。
 
 ---
 

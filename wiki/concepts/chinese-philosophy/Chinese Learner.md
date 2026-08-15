@@ -39,6 +39,7 @@ related_concepts:
   - "[[Devil's Advocate]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Rote Learning]]"
+  - "[[Academic Achievement]]"
   - "[[Stereotype Threat]]"
   - "[[Familiarization]]"
   - "[[Quality Education]]"
@@ -209,7 +210,7 @@ updated: 2026-05-24
 > - vs **[[Western Learner]]** — 中国学习者向内完善自我，西方学习者向外探究世界。方向性差异衍生出全部次级差异：品德 vs 心智、尊师 vs 挑战权威、[[Action Better Than Words|行胜于言]] vs 自我表达、终身[[Self-Cultivation|修身]] vs 项目式探究。系统对比见 [[Western Learner#概念辨析]]
 > - vs **"亚洲学习者"（Asian learner）** — 中国学习者更具体地指向中国及[[Confucian Heritage Cultures|儒家文化圈]]；"亚洲"掩盖了 CHC 与南亚、东南亚非儒家文化圈之间的根本差异([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.39]])
 > - vs **"国际学生"（international student）** — 按签证/流动状态的制度标签 vs 按文化背景的学术概念
-> - vs **[[Paradox of the Chinese Learner]]** — 后者特指"中国学习者被认为是被动[[Rote Learning|死记硬背]]的，但学业成就却很高"这一矛盾现象
+> - vs **[[Paradox of the Chinese Learner]]** — 后者特指"中国学习者被认为是被动[[Rote Learning|死记硬背]]的，但[[Academic Achievement|学业成就]]却很高"这一矛盾现象
 
 ---
 
@@ -268,7 +269,7 @@ updated: 2026-05-24
 > [!success]
 > Li（2012, Ch3）综述了数十年跨文化比较研究的系统性实证证据。以下按研究发现组织：
 
-**归因模式：[[Conatus|努力]] vs 能力**。Stevenson & Stigler（1992）的十年跨国研究发现：美国儿童、家长和教师以**能力**解释学业成就，中国/东亚群体以**努力**解释。香港研究者进一步发现中国学生将努力视为跨时间、跨情境的稳定因素([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-80]])。
+**归因模式：[[Conatus|努力]] vs 能力**。Stevenson & Stigler（1992）的十年跨国研究发现：美国儿童、家长和教师以**能力**解释[[Academic Achievement|学业成就]]，中国/东亚群体以**努力**解释。香港研究者进一步发现中国学生将努力视为跨时间、跨情境的稳定因素([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-80]])。
 
 **记忆与理解的重新解释**。Marton、Dall'Alba & Tse（1996）发现中国学习者的记忆不是目的本身，而是达成深度理解的更大策略的**第一步**。Dahlin & Watkins（2000）：英国学生用重复来**检查**自己是否记住了，中国学生用重复来**创造深刻印象**以奠定理解基础；英国学生认为理解是突然顿悟，中国学生认为理解是长期智力努力的过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.86-87]])。
 

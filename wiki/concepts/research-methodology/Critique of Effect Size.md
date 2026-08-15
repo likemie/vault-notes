@@ -28,6 +28,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Class Size]]"
   - "[[Whole Language]]"
+  - "[[Academic Achievement]]"
   - "[[Metacognition]]"
   - "[[Causality]]"
   - "[[School Leadership]]"
@@ -238,7 +239,7 @@ updated: 2026-07-15
 > [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, pp. 118–123)]]追踪了效应量从原始研究到政策工具的三级失真：
 >
 > - **元分析层面** 计算多个原始研究的平均效应量时，Simpson 识别的三个问题（控制组模糊性、范围限制、测量设计效应）的影响被复合
-> - **[[Meta-meta-analysis|元-元分析]]层面** 《可见的学习》和[[EEF Teaching and Learning Toolkit]]进一步平均多个元分析的效应量，此时叠加的问题包括：干预时长未控制、年龄效应、方向性混淆（前后比较 vs. 组间比较）、结果类型混合（成绩 vs. 毕业率；自评 vs. 学业成就）
+> - **[[Meta-meta-analysis|元-元分析]]层面** 《可见的学习》和[[EEF Teaching and Learning Toolkit]]进一步平均多个元分析的效应量，此时叠加的问题包括：干预时长未控制、年龄效应、方向性混淆（前后比较 vs. 组间比较）、结果类型混合（成绩 vs. 毕业率；自评 vs. [[Academic Achievement|学业成就]]）
 
 ---
 

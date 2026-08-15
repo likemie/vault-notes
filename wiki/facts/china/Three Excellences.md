@@ -21,6 +21,7 @@ tags:
   - theme/achievement
   - level/k-12
 related_concepts:
+  - "[[Academic Achievement]]"
   - "[[Pride in Learning]]"
   - "[[Praxis]]"
   - "[[Hypothesis]]"
@@ -44,7 +45,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> "三好学生"（Students with Three Excellences）是中国学校年度评选的模范学生荣誉制度。三好指的是：品德（moral conduct）、学业成就（academic achievement）、艺术与体育成就（artistic and athletic achievement）。这一制度的核心理念来自[[Confucian Learning Tradition|儒家学习传统]]——学习不仅是智识追求，也是品德和身体的全面发展([[Argument_Li_2012_Cambridge|Li, 2012, pp.103–104]])。
+> "三好学生"（Students with Three Excellences）是中国学校年度评选的模范学生荣誉制度。三好指的是：品德（moral conduct）、[[Academic Achievement|学业成就]]（academic achievement）、艺术与体育成就（artistic and athletic achievement）。这一制度的核心理念来自[[Confucian Learning Tradition|儒家学习传统]]——学习不仅是智识追求，也是品德和身体的全面发展([[Argument_Li_2012_Cambridge|Li, 2012, pp.103–104]])。
 
 三好生评选并非仅表彰个体成就——它的核心功能是**为其他学生树立可模仿的榜样**。背后的信念是：每个人都能向榜样学习，并且能够达到与榜样相同的水平([[Argument_Li_2012_Cambridge|Li, 2012, p.103]])。
 

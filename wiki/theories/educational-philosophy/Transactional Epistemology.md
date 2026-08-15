@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Academic Achievement]]"
   - "[[Objectivism]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
@@ -74,7 +75,7 @@ updated: 2026-07-10
 > > 例：一位教师去年用"同伴互评法"有效提高了学生的写作能力，但她不能因此断言该方法"确定有效"——去年有效只是提供了"有依据的断言"（warranted assertion），表明该方法在过去的情境下产生过这种关系。今年面对不同的学生群体，这一知识提供的是[[Hypothesis|假设]]（[[Hypothesis]]），而非确定性。（基于 Biesta, 2010, pp. 494–495 关于 warranted assertions 与 certainty 的区分）
 > 3. **知识提供可能性而非规则** 知识可以使行动"更明智"（more intelligent），但不能提供行动的规则或命令
 >
-> > 例：[[Argument_Biesta_2010_SPE|Biesta (2010, p. 499)]] 指出，研究证据表明家庭环境对学业成就具有显著影响——但这一知识并不"命令"我们将孩子从家庭中带走以提高其成绩。即使我们知道某种干预"在过去有效"，是否采用它仍取决于复杂的价值判断（对孩子与父母分离的潜在伤害 vs. 学业提升的潜在收益）。知识使决策"更明智"，但不替代决策。
+> > 例：[[Argument_Biesta_2010_SPE|Biesta (2010, p. 499)]] 指出，研究证据表明家庭环境对[[Academic Achievement|学业成就]]具有显著影响——但这一知识并不"命令"我们将孩子从家庭中带走以提高其成绩。即使我们知道某种干预"在过去有效"，是否采用它仍取决于复杂的价值判断（对孩子与父母分离的潜在伤害 vs. 学业提升的潜在收益）。知识使决策"更明智"，但不替代决策。
 >
 > > "Knowledge about what has worked in the past is, of course, tremendously important... it can provide us with hypotheses for problem solving in the present. It can make, in Dewey's words, our action and problem solving more intelligent. But what evidence generated through experimentation cannot do... is provide us with rules for action and even less with dictates for action." ([[Argument_Biesta_2010_SPE|Biesta, 2010, p. 495]])
 

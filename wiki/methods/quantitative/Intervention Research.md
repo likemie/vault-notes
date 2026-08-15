@@ -26,6 +26,7 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Pre-test and Post-test]]"
   - "[[Homework]]"
+  - "[[Academic Achievement]]"
   - "[[Experiential Learning]]"
   - "[[Attrition]]"
   - "[[Evidence-Based Education]]"
@@ -88,7 +89,7 @@ updated: 2026-07-13
 >
 > - **干预效果** 相对于比较组或控制组的改善，其设计考虑了前[[Pre-test and Post-test|后测]]之间的增长
 > - **成熟差异** 单组设计，只考虑了随时间的增长
-> - **相关效果** 如[[Homework|作业]]与学业表现之间的关系，与干预效果（有作业与无作业的比较）本质不同
+> - **相关效果** 如[[Homework|作业]]与[[Academic Achievement|学业表现]]之间的关系，与干预效果（有作业与无作业的比较）本质不同
 >
 > 这些研究中教育成就的底部分布可能不同，使比较失去意义。
 

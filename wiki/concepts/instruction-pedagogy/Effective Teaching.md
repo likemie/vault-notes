@@ -15,6 +15,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Classroom Management]]"
+  - "[[Academic Achievement]]"
   - "[[School Leadership]]"
   - "[[Visible Learning]]"
   - "[[Individualised Instruction]]"
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 
 - **明确领导** Hattie 强调教师应主动掌控、领导并投入教学与学习；SFI 报告中的对应发现是，清晰且一致的[[Classroom Management|课堂管理]]与丹麦学生更好的学习结果相关([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35, 37]])。
 - **清晰目标** 有效教学要求教师明确学习目标，并持续判断学生通向目标的下一步。SFI 报告同样发现，清晰学科目标和高要求与更好的考试成绩相关([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35, 37]])。
-- **高要求与表现取向** 丹麦研究和国际研究都显示，重视学业表现本身是高学业成就的重要因素。丹麦教师对学业表现的优先度不高，可能是丹麦学生在 [[PISA]] 等国际比较中表现居中的原因之一([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.38]])。
+- **高要求与表现取向** 丹麦研究和国际研究都显示，重视[[Academic Achievement|学业表现]]本身是高学业成就的重要因素。丹麦教师对学业表现的优先度不高，可能是丹麦学生在 [[PISA]] 等国际比较中表现居中的原因之一([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.38]])。
 
 ### 学生理解与反馈
 
@@ -116,7 +117,7 @@ SFI 报告同时给出两个限定：第一，学生社会背景显著影响开�
 
 ### 丹麦高绩效学校证据
 
-Mehlbye 的 2004 年和 2010 年高绩效学校研究提供了学校层面的丹麦证据。高要求、高期待、学业表现取向和明确课堂管理在这些研究中重复出现，并与 SFI 报告形成相互印证([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–38]])。
+Mehlbye 的 2004 年和 2010 年高绩效学校研究提供了学校层面的丹麦证据。高要求、高期待、[[Academic Achievement|学业表现]]取向和明确课堂管理在这些研究中重复出现，并与 SFI 报告形成相互印证([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.37–38]])。
 
 Mehlbye 研究还显示，频繁测试在丹麦可能具有正向学习作用，且测试受到丹麦学生欢迎。这一点与 Hattie 关于频繁测试没有显著积极效果的结论不同，是丹麦证据中少数明显偏差之一([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.38–39]])。
 
@@ -137,7 +138,7 @@ Laursen 的结论是，Hattie、Meyer 和 Helmke 关于有效教学的综合"总
 > [!example] 相关研究与案例
 > - [[Argument_Laursen_2015_Paideia]] — 比较 Hattie、Meyer、Helmke 国际综合与丹麦研究，论证有效教学核心质量在丹麦总体适用。
 > - [[SFI Report]] — 检验国际有效教学综合丹麦适用性的主要本土证据。
-> - [[Jill Mehlbye]] — 通过丹麦高绩效学校研究，为高要求、学业表现取向、明确[[Classroom Management|课堂管理]]和测试[[Praxis|实践]]提供补充证据。
+> - [[Jill Mehlbye]] — 通过丹麦高绩效学校研究，为高要求、[[Academic Achievement|学业表现]]取向、明确[[Classroom Management|课堂管理]]和测试[[Praxis|实践]]提供补充证据。
 > - [[Danish Public School Reform]] — 丹麦政策语境中对学习目标、学生学习结果和 Hattie 的采纳，使有效教学问题与[[Visible Learning]]在丹麦的传播相互交织。
 > - [[Hofstede's Cultural Dimensions]] — 提供国家文化[[Hypothesis|假设]]，但丹麦证据提示社会背景比国家文化更能解释开放教学效果差异。
 

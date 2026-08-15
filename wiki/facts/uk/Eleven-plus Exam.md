@@ -22,6 +22,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Praxis]]"
+  - "[[Academic Achievement]]"
   - "[[Selective Education]]"
   - "[[Moral Sidestep]]"
 related_theories: []
@@ -81,7 +82,7 @@ Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比
 - 11+ 选拔机制维持了现有不平等——学校不反映其本地社区构成（Phillippo, 2019）
 - 无论在相对还是绝对意义上，均未增加社会流动性（Buscha et al., 2021）
 - 加剧了长期弱势儿童的社会经济成就差距（Gorard et al., 2021）
-- 对大多数学生的学业成就几乎没有影响（Lu, 2020a, 2020b）
+- 对大多数学生的[[Academic Achievement|学业成就]]几乎没有影响（Lu, 2020a, 2020b）
 - 选拔性学校获得了不成比例的高收入（Rowe & Perry, 2021）
 
 议会研究简报（Danechi, 2020; Long et al., 2018; POST, 2016）持续向议员呈现了这些证据。

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Nerd]]"
   - "[[Conatus]]"
   - "[[Homework]]"
+  - "[[Academic Achievement]]"
   - "[[Avatar]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Zero-Sum Competition]]"
@@ -65,7 +66,7 @@ updated: 2026-07-08
 **私下行为（backstage）** 在家庭和独处时——
 - 按部就班地完成[[Homework|作业]]和复习
 - 投入大量时间学习但不在学校提及
-- 维持或追求高学业成就
+- 维持或追求高[[Academic Achievement|学业成就]]
 
 **动机**。代码切换的主要驱动力是**避免同伴骚扰和排斥**——而非懒惰或对学习缺乏兴趣。Bishop 兄弟的研究明确指出：成绩好本身不一定引发同伴制裁，引发制裁的是**伴随好成绩的"意图和努力"**被同伴感知到([[Argument_Li_2012_Cambridge|Li, 2012, p.91]])。因此，代码切换的核心操作就是**让努力不可见**。
 

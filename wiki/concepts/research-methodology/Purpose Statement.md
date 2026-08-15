@@ -24,6 +24,7 @@ related_concepts:
   - "[[Descriptive Analysis]]"
   - "[[Research Writing Script]]"
   - "[[Praxis]]"
+  - "[[Academic Achievement]]"
   - "[[Document]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -107,7 +108,7 @@ updated: 2026-07-13
 > 追溯并例示关系和专业[[Praxis|实践]]，以帮助教师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and achieve better in school." p.590)。
 
 > [!example] 叙事研究示例（Chan, 2010）
-> 考察一位中国移民学生 Ai Mei Zhang 的经验，探索她参与加拿大中学课程的过程，以及族裔认同如何被学校和家庭对其学业表现和行为的期望所塑造 ("to examine the experiences of one Chinese immigrant student, Ai Mei Zhang . . . to explore her participation in her Canadian middle school curriculum . . . to examine ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." p.113)。
+> 考察一位中国移民学生 Ai Mei Zhang 的经验，探索她参与加拿大中学课程的过程，以及族裔认同如何被学校和家庭对其[[Academic Achievement|学业表现]]和行为的期望所塑造 ("to examine the experiences of one Chinese immigrant student, Ai Mei Zhang . . . to explore her participation in her Canadian middle school curriculum . . . to examine ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." p.113)。
 
 > [!example] 扎根理论研究示例（Harley et al., 2007）
 > 通过发展一个理论框架来解释将关键因素连接起来并最终将身体活动融入生活方式的路径，以理解活跃的非洲裔美国女性的行为过程 ("to understand the behavioral process of physically active African American women by developing a theory framework to explain the path that connects key factors and eventually leads to incorporating physical activity into a lifestyle." p.99)。

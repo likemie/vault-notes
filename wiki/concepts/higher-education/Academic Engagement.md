@@ -26,6 +26,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Analytic Framework]]"
   - "[[Social Engagement]]"
+  - "[[Academic Achievement]]"
   - "[[Operationalization]]"
   - "[[Habitus]]"
   - "[[Academic and Social Integration]]"
@@ -80,7 +81,7 @@ updated: 2026-05-27
 > [!quote]
 > "学业投入（academic integration/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 
-学业投入不同于学业表现（GPA）——后者是结果，前者是过程。一个学生可能在学业投入上花费大量时间但绩点平平（如因基础薄弱），也可能绩点很高但实际学业投入极低（如因选课策略回避挑战性课程）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+学业投入不同于[[Academic Achievement|学业表现]]（GPA）——后者是结果，前者是过程。一个学生可能在学业投入上花费大量时间但绩点平平（如因基础薄弱），也可能绩点很高但实际学业投入极低（如因选课策略回避挑战性课程）([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ### 概念辨析
 

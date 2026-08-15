@@ -17,6 +17,7 @@ tags:
   - theme/instructional-leadership
 related_concepts:
   - "[[School Leadership]]"
+  - "[[Academic Achievement]]"
   - "[[Transformative Leadership]]"
   - "[[School Effectiveness]]"
   - "[[Praxis]]"
@@ -49,7 +50,7 @@ updated: 2026-06-09
 ## 定义
 
 > [!info] 核心定义
-> 教学领导力（Instructional Leadership）是指在学校行政与组织管理中，聚焦于学校三大核心系统（课程、教学与评估）的领导力模式。该模式强调[[School Leadership|学校领导]]者（如校长）的核心职责不仅是行政或后勤负责人，而应当成为教学方面的领军人，促进并直接参与教师的专业学习与发展，以最终提升学生的学业成就。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
+> 教学领导力（Instructional Leadership）是指在学校行政与组织管理中，聚焦于学校三大核心系统（课程、教学与评估）的领导力模式。该模式强调[[School Leadership|学校领导]]者（如校长）的核心职责不仅是行政或后勤负责人，而应当成为教学方面的领军人，促进并直接参与教师的专业学习与发展，以最终提升学生的[[Academic Achievement|学业成就]]。 ([[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 416–417]])
 
 ---
 

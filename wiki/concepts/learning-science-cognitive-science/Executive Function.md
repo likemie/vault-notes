@@ -20,6 +20,7 @@ related_concepts:
   - "[[Cognitive Inhibition]]"
   - "[[Updating and Monitoring]]"
   - "[[Prefrontal Cortex]]"
+  - "[[Academic Achievement]]"
   - "[[Growth]]"
 related_theories:
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 
 ## 与学业成就的关系
 
-> [!info] 与学业成就的关系
+> [!info] 与[[Academic Achievement|学业成就]]的关系
 > 大量证据表明 EF 的发展是学业表现的主要预测因素。多项[[Longitudinal Study|纵向研究]]表明 EF 对学业成就有贡献，而非反之([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。时间因素在认知发展中尤为重要，往往是比智力和 IQ 更准确的学业成就变异预测指标([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])。
 
 ## 与情绪和社会发展的关联

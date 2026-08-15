@@ -26,6 +26,7 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Talent Assumption]]"
   - "[[Doxa]]"
+  - "[[Academic Achievement]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -109,7 +110,7 @@ updated: 2026-05-24
 > 知性-社交二分主要在西方学校文化中运作，在东亚文化中几乎不存在([[Argument_Li_2012_Cambridge|Li, 2012, pp.100–113]])。
 
 在东亚：
-- 高学业成就者被普遍**尊重和仰慕**，而非被视为社交缺陷者——Li 的研究中 87% 的受访者表达了尊重和仰慕，42% 承认高成就者为榜样并渴望与之交友([[Argument_Li_2012_Cambridge|Li, 2012, p.102]])
+- 高[[Academic Achievement|学业成就]]者被普遍**尊重和仰慕**，而非被视为社交缺陷者——Li 的研究中 87% 的受访者表达了尊重和仰慕，42% 承认高成就者为榜样并渴望与之交友([[Argument_Li_2012_Cambridge|Li, 2012, p.102]])
 - [[Three Excellences|三好生]]制度将**道德品行、学业成就、文艺体育**三者统一评价——制度本身拒绝将知性与社交/身体发展对立
 - 同学概念以"共同学习"而非"平等地位"为核心——同伴是**学习的朋友**，不是竞争者
 - 可变自我观意味着：一个人的知性能力和社交能力都是可以通过[[Conatus|努力]]**同时发展**的

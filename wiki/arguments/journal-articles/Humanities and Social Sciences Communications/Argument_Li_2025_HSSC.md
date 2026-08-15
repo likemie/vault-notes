@@ -44,6 +44,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
+  - "[[Academic Achievement]]"
   - "[[Praxis]]"
   - "[[Active Learning]]"
   - "[[Interaction Effect]]"
@@ -243,7 +244,7 @@ issuing_organization: ""
 >   - **加拿大[[Performance Indicators|教育指标]]计划（Canadian Education Indicators Program, CEIP）** 引入与 OECD 报告相同的区域统一指标，包括基于 PISA 的学生成就卓越度（Student Achievement Excellence）指标，PISA 结果成为判断加拿大教育水平是否卓越、政策是否成功的依据（Baird et al., 2016）。
 >   - **中国 义务教育质量监测中心（[[National Assessment of Education Quality China 2007|NAEQ]]）**（2007 年）参照 PISA 标准并进行批判性改编，描述了数学、语文、科学、道德、体育和艺术六项学科指标（Xie et al., 2022）。
 > - **强化学校管理监测与持续改进**
->   PISA 影响了日本学校教育管理体系中**证据—改进循环（evidence-improvement cycle）**的构建：学校管理者关注校内学业成就，根据设定目标检查教育过程和结果信息，并以这些信息作为证据推动教育管理改进（Ninomiya, 2019）。
+>   PISA 影响了日本学校教育管理体系中**证据—改进循环（evidence-improvement cycle）**的构建：学校管理者关注校内[[Academic Achievement|学业成就]]，根据设定目标检查教育过程和结果信息，并以这些信息作为证据推动教育管理改进（Ninomiya, 2019）。
 
 > [!dimension] 微观决策层面的两种表现
 > - **课程改革**

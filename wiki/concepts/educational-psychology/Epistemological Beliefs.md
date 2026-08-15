@@ -26,6 +26,7 @@ related_concepts:
   - "[[Simplicity of Knowledge]]"
   - "[[Source of Knowledge]]"
   - "[[Justification for Knowing]]"
+  - "[[Academic Achievement]]"
   - "[[Conatus]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
@@ -92,7 +93,7 @@ updated: 2026-08-14
 ### 命题一　个体认识论假设是由多个相对独立的维度构成的连续体
 
 > [!concept-lens] 多维独立性与量表测量
-> 探讨个体的[[Epistemology|认识论]]信念是否必须同步发展，以及能否通过量化工具独立预测学业表现。
+> 探讨个体的[[Epistemology|认识论]]信念是否必须同步发展，以及能否通过量化工具独立预测[[Academic Achievement|学业表现]]。
 
 > [!claim] Schommer (1990)
 > **独立维度假说与学业预测** 个体的各项认识论[[Hypothesis|假设]]不必是整合在同一阶段的结构，而是可以在某些信念维度上显得成熟，而在其他维度上保持幼稚。这种不均衡分布能够通过量表进行测量。基于此主张，Schommer 提出了包含以下独立维度的测量模型：

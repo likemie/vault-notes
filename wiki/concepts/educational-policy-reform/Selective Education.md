@@ -16,6 +16,7 @@ tags:
 - region/uk
 - level/k12
 related_concepts:
+  - "[[Academic Achievement]]"
   - "[[Abstract]]"
   - "[[Moral Sidestep]]"
 related_theories: []
@@ -66,7 +67,7 @@ updated: '2026-05-18'
 >
 > - **维持既有不平等** 学术分流导致学校不能代表其所在社区的人口构成，对学生福祉产生负面影响（Phillippo, 2019；Bainbridge et al., 2022, p.10–11）
 > - **不促进社会流动** 无论在相对还是绝对意义上，选择性教育均未提高社会流动性（Buscha et al., 2021；Bainbridge et al., 2022, p.10–11）
-> - **加剧成就差距** 对长期处于弱势处境的儿童，选择性教育扩大了社会经济群体间的学业成就差距（Gorard et al., 2021；Bainbridge et al., 2022, p.11）
+> - **加剧成就差距** 对长期处于弱势处境的儿童，选择性教育扩大了社会经济群体间的[[Academic Achievement|学业成就]]差距（Gorard et al., 2021；Bainbridge et al., 2022, p.11）
 > - **对多数学生成绩影响甚微（Lu, 2020a, 2020b；Bainbridge et al., 2022, p.11）**
 > - **资金分配不公** 选择性学校获得不成比例的高额收入（Rowe & Perry, 2021；Bainbridge et al., 2022, p.11）
 >

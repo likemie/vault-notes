@@ -43,6 +43,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Class Size]]"
   - "[[Praxis]]"
+  - "[[Academic Achievement]]"
 related_theories:
   - "[[Social Capital Theory]]"
 related_methods:
@@ -474,7 +475,7 @@ source_language: en
 > *The administrative discrimination based on [[Hukou System|hukou]] is increasingly and implicitly being replaced by market discrimination based on family socioeconomic standings.*
 
 > [!citation-card]- 村庄学校受到的附带损害
-> 农村儿童的[[Attrition|流失]]使村级学校面临资金减少、教师流失加速、学业表现恶化以及最终学校关闭风险增加的困境。(pp.313–314)
+> 农村儿童的[[Attrition|流失]]使村级学校面临资金减少、教师流失加速、[[Academic Achievement|学业表现]]恶化以及最终学校关闭风险增加的困境。(pp.313–314)
 >
 > *The departure of rural children subjects village schools to decreased funding, accelerated teacher turnover, worsening academic performance, and an ultimately increased risk of school closures.*
 
@@ -490,7 +491,7 @@ source_language: en
 > [!warning]
 > - **样本传统地域局限** 调查经验材料仅基于湖北省一个县即G县，这使得研究结论难以直接推广到其他经济发展程度和区域文化不同的地方。(p.301, p.314)
 > - **定量分析难以推断[[Causality|因果关系]]方向** [[Questionnaire|问卷调查]]与逻辑回归模型展示了家庭三种资本与[[School Choice|择校]]迁移结果之间的相关性，但由于横截面设计限制，无法排除反向[[Causality|因果关系]]或遗漏[[Variable|变量]]（Variable）的干扰。(pp.310–311)
-> - **未直接测量学生的学业成就** 焦点在于[[Peidu|陪读]]择校的社会分层机制及其对农村学校造成的结构性影响，未利用客观标准化考试来直接验证随迁陪读对农村儿童在进城后的学业表现是否产生了实质提升。(p.301)
+> - **未直接测量学生的[[Academic Achievement|学业成就]]** 焦点在于[[Peidu|陪读]]择校的社会分层机制及其对农村学校造成的结构性影响，未利用客观标准化考试来直接验证随迁陪读对农村儿童在进城后的学业表现是否产生了实质提升。(p.301)
 
 ---
 

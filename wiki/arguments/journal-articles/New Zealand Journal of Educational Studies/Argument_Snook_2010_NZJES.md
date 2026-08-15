@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
   - "[[Class Size]]"
+  - "[[Academic Achievement]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Homework]]"
@@ -84,7 +85,7 @@ citation_aliases:
 > [!example] 核心论证
 > Snook et al. 逐一回应 Hattie (2010) 的辩护，论证其未能充分解决 2009 年提出的方法论关切：
 >
-> 1. **非学校因素** Hattie 承认自己选择性地搁置了这些因素——"不是不重要，只是不在我的轨道内"(Hattie, 2009, pp.x-xi)——但这正是问题所在：政策制定者很容易忘记这一重要限定(p.94)。Hattie 自己的研究也证实家庭背景是影响学业成就的最重要[[Variable|变量]]
+> 1. **非学校因素** Hattie 承认自己选择性地搁置了这些因素——"不是不重要，只是不在我的轨道内"(Hattie, 2009, pp.x-xi)——但这正是问题所在：政策制定者很容易忘记这一重要限定(p.94)。Hattie 自己的研究也证实家庭背景是影响[[Academic Achievement|学业成就]]的最重要[[Variable|变量]]
 >
 > 2. **研究质量的评估** Hattie 辩称"不是一本关于研究批评的书"被误读。Snook et al. 承认他们已在 2009 年原文中指出 Hattie 有时确实评论研究质量（如学习风格），但 Hattie 的原版免责声明比他后来承认的更强——"我故意未纳入关于研究属性的调节变量……不是因为不重要……而是因为别人已在别处处理过"(Hattie, 2009, p.ix, quoted p.95)
 >

@@ -81,6 +81,7 @@ related_concepts:
   - "[[Examination Hell]]"
   - "[[Rote Learning]]"
   - "[[Research Topic]]"
+  - "[[Academic Achievement]]"
   - "[[Learning Gap]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Paradox of the Chinese Learner]]"
@@ -1174,7 +1175,7 @@ Li 还处理了一个相关的常见批评——"东亚学生的成就以心理�
 这是本章正面证据的"起点砖"——最经典、最不可争议的比较发现。
 
 > [!success] 核心发现
-> Stevenson & Stigler(1992) 十年跨国研究发现：美国儿童、家长和教师以**能力**解释学业成就 ↔ 中国／日本／台湾以**努力**解释成就(pp.78-79)。
+> Stevenson & Stigler(1992) 十年跨国研究发现：美国儿童、家长和教师以**能力**解释[[Academic Achievement|学业成就]] ↔ 中国／日本／台湾以**努力**解释成就(pp.78-79)。
 
 这个发现的重要性不只在于"有差异"——更在于这一归因差异与一系列**可观察的实践**相对应(p.79)：
 

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Formative Assessment]]"
+  - "[[Academic Achievement]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
   - "[[Conatus]]"
@@ -187,7 +188,7 @@ updated: 2026-06-10
 
 ### 学习方差分解
 
-> [!stat-cards] 影响学业成就的方差来源（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.87–88]]）
+> [!stat-cards] 影响[[Academic Achievement|学业成就]]的方差来源（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp.87–88]]）
 >
 > | 方差来源 | 估计比例/效果 | 说明 |
 > |---------|-------------|------|
@@ -443,7 +444,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 > - [[Danish Public School Reform]] — 丹麦议会改革明确引用 VL，将 Hattie 从"教育英雄"转变为"教育敌人"
 > - [[Hattie på dansk]] — 丹麦语批评文集，汇集多篇对 VL 的强烈批评
 > - [[SFI Report]] — 检验 VL 及相关[[Effective Teaching|有效教学]]综合丹麦适用性的主要本土证据
-> - [[Jill Mehlbye]] — 丹麦高绩效学校研究中关于高要求、学业表现取向和[[Classroom Management|课堂管理]]的补充证据
+> - [[Jill Mehlbye]] — 丹麦高绩效学校研究中关于高要求、[[Academic Achievement|学业表现]]取向和[[Classroom Management|课堂管理]]的补充证据
 > - [[Victorian HITS and Literacy Toolkit]] — VL 为维多利亚州 10 项 HITS 策略的首要参考
 > - [[The New Zealand Curriculum]] — 2010 年实施，ERO 定期评估 VL 相关原则的落实情况
 > - [[Australian Curriculum]] — 2012 年 ACARA 批准，三维度课程框架，以 VL 为首要研究参考

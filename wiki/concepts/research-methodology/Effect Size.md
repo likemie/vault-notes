@@ -34,6 +34,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Surface and Deep Learning]]"
   - "[[Causality]]"
+  - "[[Academic Achievement]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Heterogeneity]]"
@@ -222,7 +223,7 @@ updated: 2026-07-19
 ### Kraft 的教育随机对照试验经验基准
 
 > [!info] Kraft 的经验基准
-> [[Argument_Kraft_2023_ER|Kraft (2023)]]主张以教育干预随机对照试验中标准化学业成就效应量的经验分布替代 Cohen 的 $0.2/0.5/0.8$ 通用锚点。他在 3,426 个效应量中发现分布相当稳定：30 百分位 0.02、50 百分位 0.10、70 百分位 0.21（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183–184]]）。
+> [[Argument_Kraft_2023_ER|Kraft (2023)]]主张以教育干预随机对照试验中标准化[[Academic Achievement|学业成就]]效应量的经验分布替代 Cohen 的 $0.2/0.5/0.8$ 通用锚点。他在 3,426 个效应量中发现分布相当稳定：30 百分位 0.02、50 百分位 0.10、70 百分位 0.21（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183–184]]）。
 >
 > Kraft 的基准同时考虑年度学习增益、教师与学校效应等经验参照点，聚焦"正向效应量的政策相关性"，因此承认这些基准具有主观性——更合适的做法是随新增研究检验既有基准在分布中的相对排名（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.185-186]]）。Kraft 与 Simpson 的分歧在于：Simpson（2021）认为跨研究效应量因设计、测量、样本差异而本质不可比；Kraft 则认为完全禁止比较会削弱证据本位政策，只要承认噪声和限制，仍可从因果研究中获得粗略参照，但同意按"联盟表"排名是可疑的（[[Argument_Kraft_2023_ER|Kraft, 2023, p.184]]）。
 
@@ -279,7 +280,7 @@ updated: 2026-07-19
 > [!success] 教育[[Randomised Controlled Trials|随机对照试验]]的经验分布
 > 大规模教育随机对照试验的效应量分布显示，大多数干预的效果很小([[Argument_Kraft_2023_ER|Kraft, 2023]]; [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021]])：
 >
-> - 36% 的教育干预随机对照试验标准化学业成就效应量小于 0.05，这比"小/中/大"标签更应成为解释政策相关性的核心基准([[Argument_Kraft_2023_ER|Kraft, 2023, p.183]])
+> - 36% 的教育干预随机对照试验标准化[[Academic Achievement|学业成就]]效应量小于 0.05，这比"小/中/大"标签更应成为解释政策相关性的核心基准([[Argument_Kraft_2023_ER|Kraft, 2023, p.183]])
 > - 教育随机对照试验效应量分布的中位数约为 0.10；美国教育部委托的研究子样本中位数仅为 0.03，说明发表[[Document|文献]]中的效应量分布可能因[[Publication Bias|发表偏倚]]而偏向较大正值([[Argument_Kraft_2023_ER|Kraft, 2023, p.186]])
 > - 141 项大型教育随机对照试验的平均成就效应量仅为 0.06 个标准差，且只有 23% 的效应显著大于零([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])
 > - 95% 的效应量为正，几乎所有被纳入的因素似乎都有正面效应，只是程度不同([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])

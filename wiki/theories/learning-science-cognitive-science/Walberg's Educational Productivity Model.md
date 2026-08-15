@@ -18,6 +18,7 @@ tags:
 - achievement
 - evidence-based-education
 related_concepts:
+  - "[[Academic Achievement]]"
   - "[[Hypothesis]]"
   - "[[Individualised Instruction]]"
   - "[[International Education]]"
@@ -43,7 +44,7 @@ updated: 2026-07-13
 ## 核心命题
 
 > [!info] 核心命题
-> Walberg 的教育生产力模型提出，学生学业成就和态度受九类因素影响，涵盖 aptitudinal（学生自身特征）、instructional（教学过程）和 environmental（环境条件）三个维度。该模型主要基于量化合成的证据，试图识别哪些因素持续且广泛地影响学生学习([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
+> Walberg 的教育生产力模型提出，学生[[Academic Achievement|学业成就]]和态度受九类因素影响，涵盖 aptitudinal（学生自身特征）、instructional（教学过程）和 environmental（环境条件）三个维度。该模型主要基于量化合成的证据，试图识别哪些因素持续且广泛地影响学生学习([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
 >
 > Walberg（1984）将这一模型表述为改进美国学校生产力的框架，其核心[[Hypothesis|假设]]是通过识别和优化这些关键因素，可以系统性地改善教育结果。
 

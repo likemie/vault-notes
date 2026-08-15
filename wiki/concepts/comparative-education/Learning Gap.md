@@ -20,6 +20,7 @@ tags:
 - theme/achievement
 - theme/attribution
 related_concepts:
+  - "[[Academic Achievement]]"
   - "[[Conatus]]"
   - "[[International Education]]"
   - "[[Questionnaire]]"
@@ -50,7 +51,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info]
-> "学习差距"（learning gap）是 [[Stevenson and Stigler|Harold Stevenson]] 和 James Stigler 在 1992 年同名著作中提出的概念，指美国（以欧裔美国人为主）与东亚（日本、台湾、中国）在解释儿童学业成就时的根本归因差异：美国儿童、家长和教师以**能力（ability）**解释成就，而东亚对应群体以**[[Conatus|努力]]（effort）**解释成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
+> "学习差距"（learning gap）是 [[Stevenson and Stigler|Harold Stevenson]] 和 James Stigler 在 1992 年同名著作中提出的概念，指美国（以欧裔美国人为主）与东亚（日本、台湾、中国）在解释儿童[[Academic Achievement|学业成就]]时的根本归因差异：美国儿童、家长和教师以**能力（ability）**解释成就，而东亚对应群体以**[[Conatus|努力]]（effort）**解释成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
 
 ---
 
@@ -71,7 +72,7 @@ Stevenson 和 Stigler 发起了长达十年的标志性跨国研究，克服了�
 > Stevenson 和 Stigler 的核心发现([[Argument_Li_2012_Cambridge|Li, 2012, p.79]])：
 
 ### 归因差异
-- 美国学生、家长和教师以**能力观念**解释儿童的学业成就——与 [[Western Learner|西方学习者]]模型 中"区分最有能力者与普通者"的核心倾向一致([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
+- 美国学生、家长和教师以**能力观念**解释儿童的[[Academic Achievement|学业成就]]——与 [[Western Learner|西方学习者]]模型 中"区分最有能力者与普通者"的核心倾向一致([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
 - 东亚学生、家长和教师将成就归因于**[[Conatus|努力]]**——与 [[Chinese Learner|中国学习者]]模型 中 [[Learning Virtues|学习美德]]（勤奋、刻苦、恒心）构成的文化能动性系统一致([[Argument_Li_2012_Cambridge|Li, 2012, pp.49-52]])
 
 ### 学校组织差异

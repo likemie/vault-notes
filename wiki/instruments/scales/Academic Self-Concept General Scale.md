@@ -19,6 +19,7 @@ tags:
   - instrument/self-report
 related_concepts:
   - "[[Academic Self-Concept]]"
+  - "[[Academic Achievement]]"
   - "[[Construct Validity]]"
 related_theories: []
 related_methods: []
@@ -54,7 +55,7 @@ updated: 2026-07-01
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | 一般学术自我概念 | 10 | 学生对自身一般学术能力和学业表现的认识 | 十题均值；具体合成规则 — |
+> | 一般学术自我概念 | 10 | 学生对自身一般学术能力和[[Academic Achievement\|学业表现]]的认识 | 十题均值；具体合成规则 — |
 
 ---
 

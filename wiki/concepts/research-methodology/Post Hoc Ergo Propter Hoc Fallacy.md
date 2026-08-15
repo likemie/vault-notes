@@ -21,6 +21,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
+  - "[[Academic Achievement]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Alternative Hypothesis]]"
@@ -65,7 +66,7 @@ updated: 2026-07-12
 > [!case] 咖啡与失眠
 > 喝咖啡然后失眠，并不意味咖啡导致了失眠。可能有其他原因，如当天的工作压力、身体不适或环境噪音等（Cohen & Nagel, 1961）。这个简单案例说明：日常生活中的因果直觉经常犯事后归因谬误，科学研究需要更严格的控制和检验程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 309]]）。
 
-> [!case] 看电视与学业表现
+> [!case] 看电视与[[Academic Achievement|学业表现]]
 > 看电视的时间与学业表现差之间存在相关。可能看电视导致学业差（因果正方向），也可能学业差导致看更多电视（反向因果），但更可能的是第三种解释：学生的能力或动机水平（第三[[Variable|变量]]）同时导致看电视多和学业表现差。注意在第三种解释中，是第三变量作为[[Independent Variable|自变量]]同时引发了两个[[Dependent Variable|因变量]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 309]]）。
 
 ---

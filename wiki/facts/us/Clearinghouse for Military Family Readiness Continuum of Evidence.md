@@ -21,6 +21,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Academic Achievement]]"
   - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Study Population and Sample]]"
@@ -49,7 +50,7 @@ updated: 2026-07-13
 ## 评级对象与范围
 
 > [!abstract] 评级对象与范围
-> 在作者的教育项目一致性分析中，CMFR 贡献了 166 个项目，主题包括学业表现、学校文化和入学准备([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
+> 在作者的教育项目一致性分析中，CMFR 贡献了 166 个项目，主题包括[[Academic Achievement|学业表现]]、学校文化和入学准备([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
 
 ## 证据标准
 

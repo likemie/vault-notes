@@ -20,6 +20,7 @@ tags:
 - region/us
 - level/k12
 related_concepts:
+  - "[[Academic Achievement]]"
   - "[[Causality]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
@@ -77,7 +78,7 @@ updated: '2026-06-02'
 >
 > ### 研究设计
 >
-> Coleman 团队试图回答一个看似简单但方法论上极具挑战性的问题：**学校资源差异（如生均支出、设施、教师资质等可测量的学校特征）在多大程度上解释了学生学业表现的差异？([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.1]])**
+> Coleman 团队试图回答一个看似简单但方法论上极具挑战性的问题：**学校资源差异（如生均支出、设施、教师资质等可测量的学校特征）在多大程度上解释了学生[[Academic Achievement|学业表现]]的差异？([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.1]])**
 >
 > 研究采用了当时最先进的大规模调查方法，收集了学生家庭背景、学校资源投入和标准化测试成绩三个层面的数据，并通过统计方法试图分离家庭效应和学校效应。
 >

@@ -18,6 +18,7 @@ tags: [region/brunei, region/new-zealand, level/k12, theme/school-establishment,
 related_concepts:
   - "[[International Education]]"
   - "[[International Schools]]"
+  - "[[Academic Achievement]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -39,7 +40,7 @@ updated: 2026-05-22
 > [!info]
 > 1990 年代中后期，[[Cognition Education|Multi Serve]] 仍以新西兰学校支持服务为主，但公司开始寻找[[International Education|国际教育]]培训与咨询机会，以降低对国内单一市场的依赖。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.21, p.23-24]])
 >
-> 文莱政府希望通过建立新的私立[[International Schools|国际学校]]提升学业表现并对齐国际基准，因此在 1996 年晚些时候邀请 Multi Serve 参与谈判。这一邀请与新西兰近期学校改革带来的国际吸引力有关。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.21-22]])
+> 文莱政府希望通过建立新的私立[[International Schools|国际学校]]提升[[Academic Achievement|学业表现]]并对齐国际基准，因此在 1996 年晚些时候邀请 Multi Serve 参与谈判。这一邀请与新西兰近期学校改革带来的国际吸引力有关。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.21-22]])
 
 ## 经过
 

@@ -2359,6 +2359,16 @@
     ]
   },
   {
+    "title": "Academic Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Academic Achievement.md",
+    "aliases": [
+      "学业成就",
+      "学业表现",
+      "GPA"
+    ]
+  },
+  {
     "title": "Constructed Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Constructed Knowledge.md",
@@ -8315,6 +8325,15 @@
     ]
   },
   {
+    "title": "Educational Level",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Educational Level.md",
+    "aliases": [
+      "受教育水平",
+      "受教育年限"
+    ]
+  },
+  {
     "title": "Enculturation",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Enculturation.md",
@@ -10859,6 +10878,15 @@
     ]
   },
   {
+    "title": "Confirmatory Factor Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Confirmatory Factor Analysis.md",
+    "aliases": [
+      "验证性因子分析",
+      "CFA"
+    ]
+  },
+  {
     "title": "Coupling Coordination Model",
     "type": "method",
     "path": "wiki/methods/quantitative/Coupling Coordination Model.md",
@@ -11136,6 +11164,15 @@
     "aliases": [
       "多阶段抽样",
       "multi-phase sample"
+    ]
+  },
+  {
+    "title": "Multinomial Logistic Regression",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Multinomial Logistic Regression.md",
+    "aliases": [
+      "多项逻辑回归",
+      "Multinomial Logit Model"
     ]
   },
   {

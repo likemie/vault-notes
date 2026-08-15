@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Social Realism]]"
   - "[[Powerful Knowledge]]"
+  - "[[Academic Achievement]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
 related_methods: []
@@ -54,7 +55,7 @@ updated: '2026-06-08'
 > [!tip]- 教育知识的分类
 > Muller (2022) 区分了有力知识、学科知识和课程知识，探讨了教育知识的本质问题。他认为课程应当阐明学生有权接触什么知识（引自 McPhail et al., 2023）。
 
-> [!tip]- 课程改革与学业成就不平等
+> [!tip]- 课程改革与[[Academic Achievement|学业成就]]不平等
 > Muller & Hoadley (2019) 研究了南非课程改革与学业成就之间的悖论，指出对「应教什么」的模糊认识是教育系统中持续存在的学业成就不足问题的一部分。这一分析同样适用于[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]的批评（引自 McPhail et al., 2023）。
 
 ---
@@ -64,6 +65,6 @@ updated: '2026-06-08'
 > [!example]
 > - 与 Young 长期合作，共同提出[[Powerful Knowledge|有力知识]]概念（Young & Muller, 2010; Muller & Young, 2019）
 > - 继承 Bernstein 的知识结构理论
-> - 与 Hoadley 合作研究南非课程改革与学业成就不平等
+> - 与 Hoadley 合作研究南非课程改革与[[Academic Achievement|学业成就]]不平等
 
 ---

@@ -22,6 +22,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Class Size]]"
+  - "[[Academic Achievement]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
   - "[[Programme Fidelity vs Adaptation]]"
@@ -46,7 +47,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info] 背景
-> 1996 年，加利福尼亚州政府推出了一项大规模的班级缩减计划，旨在通过缩小[[Class Size|班级规模]]来提高学生学业成就。该政策参考了田纳西州 STAR 项目（1985–1989）的成功证据——STAR 被 Frederick Mosteller 称为"有史以来最重要的教育调查之一"，显示小班学生在二年级末领先大班学生约 3 个月，贫困和少数族裔学生获益高达两倍。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.17]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.5–6]])
+> 1996 年，加利福尼亚州政府推出了一项大规模的班级缩减计划，旨在通过缩小[[Class Size|班级规模]]来提高学生[[Academic Achievement|学业成就]]。该政策参考了田纳西州 STAR 项目（1985–1989）的成功证据——STAR 被 Frederick Mosteller 称为"有史以来最重要的教育调查之一"，显示小班学生在二年级末领先大班学生约 3 个月，贫困和少数族裔学生获益高达两倍。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.17]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.5–6]])
 >
 > [[Argument_Johnson_2023_CE|Johnson & Janzen (2023, p.33)]]补充了加州的实施背景：州长在"与教师工会就班级规模争论多年后，决定让他们吞下他们所要求的"（Schrag, 2006, p.232），强制 K-3 班级几乎在一夜之间缩减三分之一，每年花费 USD 1B。但加州缺乏足够的合格教师和教室空间——一支"hastily trained permit teachers"被派往加州学生面前，许多在"portable classrooms"中教学。不出所料，成绩没有立即改善。
 

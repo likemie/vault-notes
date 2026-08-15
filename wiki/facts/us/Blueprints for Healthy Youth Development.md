@@ -20,6 +20,7 @@ tags:
 - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Academic Achievement]]"
   - "[[Attrition]]"
   - "[[Sample Size Determination]]"
   - "[[Reliability]]"
@@ -52,7 +53,7 @@ updated: 2026-07-13
 ## 评级对象与范围
 
 > [!abstract] 评级对象与范围
-> 在作者的 1,359 个教育项目样本中，Blueprints 贡献了 310 个项目：其中 42 个是认证教育项目，结果标签包括学业表现、认知发展、辍学/高中毕业、就业、高等教育、学前沟通/语言发展、入学准备、逃学/学校出勤；另外 268 个是摘要显示聚焦教育的未认证项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
+> 在作者的 1,359 个教育项目样本中，Blueprints 贡献了 310 个项目：其中 42 个是认证教育项目，结果标签包括[[Academic Achievement|学业表现]]、认知发展、辍学/高中毕业、就业、高等教育、学前沟通/语言发展、入学准备、逃学/学校出勤；另外 268 个是摘要显示聚焦教育的未认证项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
 
 ## 证据标准
 

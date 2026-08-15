@@ -28,6 +28,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Sample Size Determination]]"
+  - "[[Academic Achievement]]"
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[Material Fallacies]]"
@@ -181,7 +182,7 @@ updated: 2026-07-15
 > 即使班级规模效应真实存在，大规模缩减班额的政策成本极高。需要在同等预算下比较不同干预方案的相对效果。
 
 > [!claim] [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]
-> [[French Class Size Reduction]] 中法国教育部将弱势地区一、二年级班额从 24 人降至 12 人，Campbell 协作网（[[Campbell Collaboration]]） 元分析显示阅读效应小而显著，数学效应为负且不显著。Pellegrini 与 Vivanet 的判断是：减少不平等当然必要，但班额缩减可能是昂贵且相对低效的方案；成人辅导等策略在若干元分析中显示出更强的学业成就证据（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
+> [[French Class Size Reduction]] 中法国教育部将弱势地区一、二年级班额从 24 人降至 12 人，Campbell 协作网（[[Campbell Collaboration]]） 元分析显示阅读效应小而显著，数学效应为负且不显著。Pellegrini 与 Vivanet 的判断是：减少不平等当然必要，但班额缩减可能是昂贵且相对低效的方案；成人辅导等策略在若干元分析中显示出更强的[[Academic Achievement|学业成就]]证据（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
 
 ---
 ### 命题三　班级规模效应依赖于教学方式的同步改变，仅缩减人数不足以保证效果

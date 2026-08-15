@@ -31,6 +31,7 @@ related_concepts:
   - "[[Student Engagement]]"
   - "[[Social Engagement]]"
   - "[[Dialogue in Education]]"
+  - "[[Academic Achievement]]"
   - "[[Graduation Pathway Typology]]"
 related_theories:
   - "[[Culture as Toolkit]]"
@@ -115,7 +116,7 @@ updated: 2026-05-18
 > [!success]
 > - 范皑皑和杨钋基于北京高校调查数据发现，家庭社会经济地位越高的学生，越倾向于尽早为毕业出路做准备（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引范皑皑和杨钋，2015）
 > - 牛新春和[[Yajun Zheng|郑雅君]]对某重点大学一届本科生的三年追踪发现，学生生涯定向的发展轨迹从大二暑期开始分化，定向清晰的学生对高影响力活动的投入呈现愈发明确的方向性（，引牛新春和郑雅君，2018）
-> - 闵尊涛、陈云松和王修晓基于某重点大学十年调研数据发现，在影响大学生毕业意向的因素中，家庭背景的解释力远大于个体学业表现（，引闵尊涛等，2018）
+> - 闵尊涛、陈云松和王修晓基于某重点大学十年调研数据发现，在影响大学生毕业意向的因素中，家庭背景的解释力远大于个体[[Academic Achievement|学业表现]]（，引闵尊涛等，2018）
 
 ---
 

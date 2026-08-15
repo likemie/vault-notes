@@ -19,6 +19,7 @@ tags:
   - theme/social-acceptance
 related_concepts:
   - "[[Conatus]]"
+  - "[[Academic Achievement]]"
   - "[[Academic Engagement]]"
   - "[[Hypothesis]]"
   - "[[Tall Poppy Syndrome]]"
@@ -45,7 +46,7 @@ updated: 2026-05-23
 ## 定义
 
 > [!info]
-> Nerd 是西方（尤其是美国）中学文化中用来标记那些理智好奇、对学习（特别是科学、数学、技术等复杂学科）有兴趣并投入[[Conatus|努力]]、学业成就高的学生的贬称。与之类似的称谓包括 geek、dork，英国的 swot，德国的 Schreber，法国的 bouttoneux，荷兰的 stuud，以色列的 hnun([[Argument_Li_2012_Cambridge|Li, 2012, p.89]])。
+> Nerd 是西方（尤其是美国）中学文化中用来标记那些理智好奇、对学习（特别是科学、数学、技术等复杂学科）有兴趣并投入[[Conatus|努力]]、[[Academic Achievement|学业成就]]高的学生的贬称。与之类似的称谓包括 geek、dork，英国的 swot，德国的 Schreber，法国的 bouttoneux，荷兰的 stuud，以色列的 hnun([[Argument_Li_2012_Cambridge|Li, 2012, p.89]])。
 
 根据《美国传统英语词典》的定义，nerd 指"在科学或技术追求上专注或有成就，但被认为社交笨拙的人"（转引自 Li, 2012, p.89）。定义的两个关键要素是：（1）理智好奇与[[Academic Engagement|学业投入]]；（2）被认为缺乏社交能力。这种将知性与社交对立起来的[[Hypothesis|假设]]——即理智投入的人必有社交缺陷——是 nerd 标签的核心。
 
@@ -76,7 +77,7 @@ N. T. Feather 用"[[Tall Poppy Syndrome|高罂粟]]的倒下"（fall of the tall
 ## 实证发现
 
 > [!success]
-> **[[Conatus|努力]]隐瞒策略**。由于害怕同伴排斥，高 GPA 学生经常采取以下策略：声称自己不学习、避免公开显示对学术学习的兴趣、隐瞒成绩。许多高成就学生通过这一策略获得了同伴欢迎([[Argument_Li_2012_Cambridge|Li, 2012, pp.91]])。
+> **[[Conatus|努力]]隐瞒策略**。由于害怕同伴排斥，高 [[Academic Achievement|GPA]] 学生经常采取以下策略：声称自己不学习、避免公开显示对学术学习的兴趣、隐瞒成绩。许多高成就学生通过这一策略获得了同伴欢迎([[Argument_Li_2012_Cambridge|Li, 2012, pp.91]])。
 
 > [!success]
 > **年级发展趋势**。Juvonen 和 Murdock 比较四、六、八年级学生发现：八年级学生（约 14 岁）开始不愿向受欢迎同伴披露自己的勤奋程度，而愿意告诉教师。到八年级，曾因高能力和努力而受欢迎的儿童，受欢迎程度下降；那些无论能力如何都不努力的学生享有最高的同伴欢迎度([[Argument_Li_2012_Cambridge|Li, 2012, p.91]])。

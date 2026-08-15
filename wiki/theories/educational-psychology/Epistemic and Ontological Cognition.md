@@ -21,6 +21,8 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Operationalization]]"
   - "[[Scale of Measurement]]"
+  - "[[Educational Level]]"
+  - "[[Academic Achievement]]"
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
 related_theories: []
@@ -83,10 +85,10 @@ updated: 2026-08-15
 > - **[[Ontology|本体论]]** 知识的本质具有领域特殊性，劣构领域（如历史）与良构领域（如数学）的知识本体具有不同分类。
 > - **认识论** 个体的认知发展具有可测量的潜在类别（阶段）特征，不仅是一组离散的连续维度。
 > - **方法含义** 要求采用能同时处理多维连续因子与类别分析的方法（如[[Factor Mixture Modeling|因子混合模型]]）。
-> - **不能直接推出的东西** 本模型可反映不同受教育水平伴随的认知阶段变迁，但不能直接证明教育年份作为单一因果干预导致了该升级。
+> - **不能直接推出的东西** 本模型可反映不同[[Educational Level|受教育水平]]伴随的认知阶段变迁，但不能直接证明教育年份作为单一因果干预导致了该升级。
 
 > [!theory-use] 如何用于研究
-> - **作为[[Analytic Framework|分析框架]]** 通过剖析学生对多个维度的组合信念轮廓（profile），将其划归入特定的认识论群体中，进而解释或预测其学业成就差异。
+> - **作为[[Analytic Framework|分析框架]]** 通过剖析学生对多个维度的组合信念轮廓（profile），将其划归入特定的认识论群体中，进而解释或预测其[[Academic Achievement|学业成就]]差异。
 
 ---
 

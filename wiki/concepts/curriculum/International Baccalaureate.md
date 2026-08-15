@@ -26,6 +26,7 @@ related_concepts:
   - "[[Approaches to Teaching and Learning]]"
   - "[[IB Diploma Programme]]"
   - "[[Extended Essay]]"
+  - "[[Academic Achievement]]"
   - "[[Theory of Knowledge]]"
   - "[[Creativity, Action, Service]]"
   - "[[Academic Self-Concept]]"
@@ -99,7 +100,7 @@ updated: 2026-08-11
 
 > [!claim] Metli, A. & Akış, D.
 > **核心组件的多维效益** 
-> [[IB Diploma Programme|IBDP]] 的三大核心组件在实证层面展现了显著效益：[[Extended Essay|拓展论文]]（[[Extended Essay]]）与更强的独立思考、探究学习及更高的大学 GPA 相关；[[Theory of Knowledge|知识论]]（TOK）不仅促进[[Critical Thinking|批判性思维]]，还帮助学生反思知识建构；而 [[Creativity, Action, Service|CAS]] 经验则塑造了学生的服务伦理、自信心及公民责任感（civic-mindedness）。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, pp. 220-221)]]
+> [[IB Diploma Programme|IBDP]] 的三大核心组件在实证层面展现了显著效益：[[Extended Essay|拓展论文]]（[[Extended Essay]]）与更强的独立思考、探究学习及更高的大学 [[Academic Achievement|GPA]] 相关；[[Theory of Knowledge|知识论]]（TOK）不仅促进[[Critical Thinking|批判性思维]]，还帮助学生反思知识建构；而 [[Creativity, Action, Service|CAS]] 经验则塑造了学生的服务伦理、自信心及公民责任感（civic-mindedness）。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, pp. 220-221)]]
 
 > [!claim] Cole, D. R. et al.
 > **批判性思维的显著增长**

@@ -15,6 +15,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Purpose Statement]]"
   - "[[Paradigm]]"
+  - "[[Academic Achievement]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Research Topic]]"
   - "[[Causality]]"
@@ -88,7 +89,7 @@ updated: 2026-07-11
 
 > [!assumptions] Kerlinger 的好假设标准
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
-> - **关系陈述** 假设是[[Variable|变量]]之间关系的陈述。例如"社会阶级背景决定学业成就"陈述了一个变量（社会阶级）与另一个变量（学业成就）之间的关系
+> - **关系陈述** 假设是[[Variable|变量]]之间关系的陈述。例如"社会阶级背景决定[[Academic Achievement|学业成就]]"陈述了一个变量（社会阶级）与另一个变量（学业成就）之间的关系
 > - **可检验性** 假设必须蕴含明确的检验含义来检验所述关系——上述例子中，社会阶级和学业成就都可被测量
 > - **兼容性**（辅助）假设应与现有知识兼容
 > - **经济性**（辅助）假设应被尽可能经济地表述

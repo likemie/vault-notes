@@ -22,6 +22,7 @@ tags:
   - theme/evidence-based-education
 related_concepts:
   - "[[Class Size]]"
+  - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -41,7 +42,7 @@ updated: 2026-05-23
 ## 背景
 
 > [!info]
-> 2017 年，法国教育部在弱势地区缩小一、二年级[[Class Size|班额]]，目标是减少富裕背景学生与贫困背景学生之间的学业成就差距([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])。
+> 2017 年，法国教育部在弱势地区缩小一、二年级[[Class Size|班额]]，目标是减少富裕背景学生与贫困背景学生之间的[[Academic Achievement|学业成就]]差距([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])。
 
 ## 政策文本摘要
 
@@ -61,7 +62,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> 这一政策体现了政策制定者愿意使用证据的积极态度，但相关证据并不强。Bressoux 等后续研究显示[[Class Size|班额]]对学业成就的效果会随时间减弱；[[Campbell Collaboration]] 的[[Meta-analysis|元分析]]显示，班额缩减对阅读有小但显著的正效应，对数学则为负且不显著([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]])。
+> 这一政策体现了政策制定者愿意使用证据的积极态度，但相关证据并不强。Bressoux 等后续研究显示[[Class Size|班额]]对[[Academic Achievement|学业成就]]的效果会随时间减弱；[[Campbell Collaboration]] 的[[Meta-analysis|元分析]]显示，班额缩减对阅读有小但显著的正效应，对数学则为负且不显著([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]])。
 
 > [!info]- 核心数据
 > - 班额从 24 人降至 12 人([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])
@@ -71,7 +72,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> Pellegrini & Vivanet 的评论不是否认缩小贫富学生成就差距的重要性，而是指出[[Class Size|班额]]缩减可能是昂贵且相对低效的方案；成人辅导等其他策略在多项[[Meta-analysis|元分析]]中对学业成就有更强证据([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.28]])。
+> Pellegrini & Vivanet 的评论不是否认缩小贫富学生成就差距的重要性，而是指出[[Class Size|班额]]缩减可能是昂贵且相对低效的方案；成人辅导等其他策略在多项[[Meta-analysis|元分析]]中对[[Academic Achievement|学业成就]]有更强证据([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.28]])。
 
 ## 相关概念／理论
 

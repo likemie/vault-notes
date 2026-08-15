@@ -41,6 +41,7 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Powerful Knowledge]]"
   - "[[Mātauranga Māori]]"
+  - "[[Academic Achievement]]"
   - "[[Causality]]"
   - "[[Growth]]"
   - "[[Global Citizenship]]"
@@ -187,7 +188,7 @@ citation_aliases:
 >
 > **双文化主义**。毛利知识体系贯穿整个课程改革，为其提供了统一的主题和隐喻凝聚力：
 > - 课程文件声称 Te Mātaiaho 旨在落实怀唐伊条约的承诺，「旨在转变毛利人的教育不平等，给予毛利知识体系和毛利语言突出地位」（March 2023d, p.12）
-> - Siteine (2018) 提出了一个强烈的身份指令，[[Coding in Qualitative Research|编码]]在[[The New Zealand Curriculum|新西兰课程]]话语中：认为学业成就与民族身份认可之间存在[[Causality|因果关系]]，主张在课堂中运用文化价值观、语言和[[Praxis|实践]]来实现这一目标
+> - Siteine (2018) 提出了一个强烈的身份指令，[[Coding in Qualitative Research|编码]]在[[The New Zealand Curriculum|新西兰课程]]话语中：认为[[Academic Achievement|学业成就]]与民族身份认可之间存在[[Causality|因果关系]]，主张在课堂中运用文化价值观、语言和[[Praxis|实践]]来实现这一目标
 > - 这一身份指令在课程改革中进一步强化
 >
 > **地方化**。地方化原则强调「与当地社区共同设计和审查学校课程」(p.5)，通过「与当地人民（tangata whenua）和社区的关系来学习」(p.6)：
