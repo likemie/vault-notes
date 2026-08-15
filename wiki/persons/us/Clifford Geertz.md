@@ -8,7 +8,7 @@ summary: "美国人类学家，诠释人类学（interpretive anthropology）的
 type: person
 nationality: US
 person_region: "US"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

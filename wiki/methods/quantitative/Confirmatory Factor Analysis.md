@@ -7,7 +7,7 @@ summary: "一种用于检验观测变量（如问卷题项）与潜在结构（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
