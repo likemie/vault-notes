@@ -114,23 +114,23 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > 传统的阶段模型，包括现实主义、绝对主义（absolutist）、多元主义（multiplist）与评价主义（evaluativist），本质上可以解构为对客观现实、知识来源和评价机制的量化程度差异（见表1）。基于此提出的认识论与本体论认知模型（表2）指明，四种认知发展阶段分别对应了三种信念维度上的不同强弱组合特征。
 
-> [!contrast-table]- 表1：Kuhn et al.'s (2000) Model of Epistemological Thinking
-> | Level | Reality | Knowledge | Critical thinking | Assertions |
+> [!contrast-table]- 表1：Kuhn等（2000）认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
+> | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | 批判性思维（Critical thinking） | 知识主张（Assertions） |
 > | --- | --- | --- | --- | --- |
-> | Realist | Directly knowable | Certain, from external source | Unnecessary | Copies of an external reality |
-> | Absolutist | Directly knowable | Certain, from external source | Used to determine who is “correct” | Facts that can be correct or incorrect |
-> | Multiplist | Not directly knowable | Uncertain, from human minds | Irrelevant | Opinions that cannot be questioned |
-> | Evaluativist | Not directly knowable | Uncertain, from human minds | Used to make good decisions and facilitate understanding | Judgments that can be evaluated |
+> | 现实主义者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
+> | 绝对主义者（Absolutist） | 可直接认知 | 确定，来自外部来源 | 用于确定谁是“正确的” | 可对可错的事实 |
+> | 多元主义者（Multiplist） | 无法直接认知 | 不确定，来自人类心智 | 不相关 | 不可质疑的观点 |
+> | 评价主义者（Evaluativist） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
 > 
 > *来源：Greene et al. (2010), p. 235*
 
-> [!contrast-table]- 表2：Model of Epistemic and Ontological Cognition (部分摘录)
-> | Educational level | Ill-structured domains Position | Belief in SC | Belief in JA | Belief in PJ | Well-structured domains Position | Belief in SC | Belief in JA | Belief in PJ |
+> [!contrast-table]- 表2：认识论与本体论认知模型（Model of Epistemic and Ontological Cognition, 部分摘录）
+> | 受教育水平（Educational level） | 劣构领域阶段（Ill-structured domains Position） | SC 信念 | JA 信念 | PJ 信念 | 良构领域阶段（Well-structured domains Position） | SC 信念 | JA 信念 | PJ 信念 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Early elementary school | Realism | Strong | Strong | Strong | Realism | Strong | Strong | Strong |
-> | Late elem. to early college | Dogmatism or skepticism | Weak<br>Weak | Strong<br>Weak | Weak<br>Strong | Realism | Strong | Strong | Strong |
-> | Middle to late college | Rationalism | Weak | Moderate | Moderate | Dogmatism or skepticism | Weak<br>Weak | Strong<br>Weak | Weak<br>Strong |
-> | Post-undergrad education | Rationalism | Weak | Moderate | Moderate | Rationalism | Weak | Moderate | Moderate |
+> | 小学早期 | 现实主义（Realism） | 强 | 强 | 强 | 现实主义（Realism） | 强 | 强 | 强 |
+> | 小学晚期至大学早期 | 教条或怀疑主义（Dogmatism or skepticism） | 弱<br>弱 | 强<br>弱 | 弱<br>强 | 现实主义（Realism） | 强 | 强 | 强 |
+> | 大学中期至晚期 | 理性主义（Rationalism） | 弱 | 中等 | 中等 | 教条或怀疑主义（Dogmatism or skepticism） | 弱<br>弱 | 强<br>弱 | 弱<br>强 |
+> | 本科后教育（研究生） | 理性主义（Rationalism） | 弱 | 中等 | 中等 | 理性主义（Rationalism） | 弱 | 中等 | 中等 |
 > 
 > *注：SC=Simple and Certain Knowledge; JA=Justification by Authority; PJ=Personal Justification。来源：Greene et al. (2010), p. 238*
 
@@ -170,21 +170,21 @@ issuing_organization: ""
 > [!warrant]- 推理桥梁
 > 聚类结果不仅映射出了特定的发展阶段组合，还呈现了历史认知更为发达的发展特征。将分散的信念维度整合成潜在的综合特征档案，能够更有效地描绘复杂的认知全貌。
 
-> [!ref-table]- 表5：Factor Mixture Model Fit Indices (部分摘录)
-> | Number of classes/Invariance | Log-likelihood | AIC | BIC | SABIC |
+> [!ref-table]- 表5：因子混合模型拟合指标（Factor Mixture Model Fit Indices, 部分摘录）
+> | 类别数/等值性（Number of classes/Invariance） | 对数似然值（Log-likelihood） | AIC | BIC | SABIC |
 > | --- | --- | --- | --- | --- |
-> | 1 (measurement model) | -28,810.718 | 57,833.436 | 58,321.741 | 57,985.153 |
-> | 6 (Strict) | -27,919.239 | 56,150.479 | 56,865.706 | 56,370.360 |
-> | 6 (Strong) | -27,126.735 | 54,955.470 | 56,564.731 | 55,450.203 |
+> | 1（测量模型） | -28,810.718 | 57,833.436 | 58,321.741 | 57,985.153 |
+> | 6（严格等值 Strict） | -27,919.239 | 56,150.479 | 56,865.706 | 56,370.360 |
+> | 6（强烈等值 Strong） | -27,126.735 | 54,955.470 | 56,564.731 | 55,450.203 |
 > 
 > *来源：Greene et al. (2010), p. 243*
 
-> [!ref-table]- 表8：Latent Class Factor Means and Interpretations (部分类群示例)
-> | Measure | Math SC | Math JA | Math PJ | Math Profile | Hist SC | Hist JA | Hist PJ | Hist Profile |
+> [!ref-table]- 表8：潜在类别因子均值及解释（Latent Class Factor Means and Interpretations, 部分类群示例）
+> | 类别指标（Measure） | 数学 SC | 数学 JA | 数学 PJ | 数学轮廓（Math Profile） | 历史 SC | 历史 JA | 历史 PJ | 历史轮廓（Hist Profile） |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **Class 2** | Weak | Weak | Strong | Skeptic | Weak | Strong | Moderate | Uncleara |
-> | **Class 3** | Weak | Weak | Strong | Skeptic | Weak | Moderate | Moderate | Rationalist |
-> | **Class 4** | Strong | Strong | Strong | Realist | Weak | Weak | Strong | Skeptic |
+> | **类别 2** | 弱（Weak） | 弱（Weak） | 强（Strong） | 怀疑论者（Skeptic） | 弱（Weak） | 强（Strong） | 中等（Moderate） | 不清晰（Unclear） |
+> | **类别 3** | 弱（Weak） | 弱（Weak） | 强（Strong） | 怀疑论者（Skeptic） | 弱（Weak） | 中等（Moderate） | 中等（Moderate） | 理性主义者（Rationalist） |
+> | **类别 4** | 强（Strong） | 强（Strong） | 强（Strong） | 现实主义者（Realist） | 弱（Weak） | 弱（Weak） | 强（Strong） | 怀疑论者（Skeptic） |
 > 
 > *注：Class 4 显示其数学为现实主义阶段，但历史已经发展至怀疑论阶段。来源：Greene et al. (2010), p. 245*
 
