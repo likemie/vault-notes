@@ -56,7 +56,7 @@ updated: 2026-08-16
 LeCompte & Preissle（1993, pp. 280–1; Flick, 2009, pp. 360–1）归纳的计算机辅助用途，至今仍是 NVivo、MAXQDA、ATLAS.ti 等主流软件的基础能力：
 
 > [!feature] CAQDAS 的主要用途
-> - **记录与[[Transcription in Qualitative Research|转录]]** 记笔记；转录[[Field Notes|田野笔记]]与音频数据。
+> - **记录与[[Transcription in Qualitative Research|转录]]** 记笔记；导入与管理已由 AI 转写或人工整理的访谈文本。
 > - **管理与存储** 有序地管理与存储数据（按特定地址归置数据）；编辑、扩展或修订[[Field Notes|田野笔记]]；存储并校对（proofread）数据；整理与分段数据并制作多份副本。
 > - **搜索与检索** 文本的搜索与检索；搜索数据中的词或短语并检索文本；搜索以特定（如时间）顺序出现的数据片段。
 > - **[[Coding in Qualitative Research|编码]]与分类** 编码数据（用描述文本数据的词或短短语，供后续排序、组合或检索）并把编码排列成层级（树）与节点（关键编码）；进行初步编码；把编码备忘录纳入同一分类图式；给文本单元（如[[Questionnaire|问卷]]回答）附加识别标签；把数据分成研究者决定或自然语言决定的单元。
@@ -97,7 +97,7 @@ Kelle（2000, p. 295）给出使用软件编码数据的六步序列：
 ## 效度、信度与数据分析
 
 > [!strength] 软件对效度与[[Reliability|信度]]的增强
-> Kelle & Laurie（1995, p. 27）指出计算机辅助方法能增强效度（通过样本管理）与信度（通过检索某主题的所有数据，从而保证数据的可信度），且不丢失语境因素（Gibbs, 2007, p. 106）。其重要优点是数据整理与检索的系统性和速度，虽然数据录入耗时，但软件能随后迅速处理数据。Lonkila（1995）说明计算机如何通过[[Coding in Qualitative Research|编码]]、持续比较、联系、备忘录、注释与追加、使用图表、验证与理论建构来辅助[[Grounded Theory|扎根理论]]的生成。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> Kelle & Laurie（1995, p. 27）指出计算机辅助方法能增强效度（通过样本管理）与信度（通过检索某主题的所有数据，从而保证数据的可信度），且不丢失语境因素（Gibbs, 2007, p. 106）。其重要优点是数据整理与检索的系统性和速度，软件能迅速处理数据；文本如今多由 AI 转写直接导入，数据录入不再是瓶颈。Lonkila（1995）说明计算机如何通过[[Coding in Qualitative Research|编码]]、持续比较、联系、备忘录、注释与追加、使用图表、验证与理论建构来辅助[[Grounded Theory|扎根理论]]的生成。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 ## 争议与局限
 
