@@ -7,9 +7,9 @@ summary: "一种结合了验证性因子分析（CFA）与潜在剖面分析（L
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
+method_related_count: 7
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dcfce7"
 tags: []
 related_concepts:

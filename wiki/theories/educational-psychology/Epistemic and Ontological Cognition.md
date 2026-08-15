@@ -7,10 +7,10 @@ aliases:
 summary: "一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 13
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags: []
 related_concepts:
   - "[[Epistemology]]"

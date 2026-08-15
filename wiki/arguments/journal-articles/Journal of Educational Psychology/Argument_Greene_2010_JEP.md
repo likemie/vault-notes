@@ -1,5 +1,4 @@
 ---
-title: Argument_Greene_2010_JEP
 summary: "中学生至研究生（740名）的量化研究 + 因子混合模型 + 验证了将信念维度与发展阶段整合的认识论与本体论认知（EOC）模型，指出认识论认知具有领域特殊性且多维分布刻画优于独立维度。"
 type: argument
 authors:
@@ -30,6 +29,7 @@ created: 2026-08-15
 updated: 2026-08-15
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_Greene_2010_JEP"
 argument_key: "Argument_Greene_2010_JEP"
 argument_display_title: "Empirical Evidence Regarding Relations Among a Model of Epistemic and Ontological Cognition, Academic Performance, and Educational Level"
 argument_kind: "journal-article"
@@ -43,7 +43,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 # Argument_Greene_2010_JEP
 
 ---
