@@ -15,14 +15,17 @@ citation_aliases:
 isbn: ""
 tags: []
 related_concepts: []
-related_theories: []
-related_methods: []
-related_instruments: []
+related_theories:
+  - "[[Epistemic and Ontological Cognition]]"
+related_methods:
+  - "[[Factor Mixture Modeling]]"
+related_instruments:
+  - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[sources/Greene_2010_JEP|Greene_2010_JEP]]"
+  - "[[sources/Greene_2010_JEP/Greene_2010_JEP|Greene_2010_JEP]]"
 part_of: 
 status: draft
 created: 2026-08-15
@@ -33,7 +36,7 @@ title: "Argument_Greene_2010_JEP"
 argument_key: "Argument_Greene_2010_JEP"
 argument_display_title: "Empirical Evidence Regarding Relations Among a Model of Epistemic and Ontological Cognition, Academic Performance, and Educational Level"
 argument_kind: "journal-article"
-argument_related_count: 0
+argument_related_count: 3
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -244,4 +247,4 @@ issuing_organization: ""
 
 ## 来源
 
-- [[sources/Greene_2010_JEP|Greene_2010_JEP]]
+- [[sources/Greene_2010_JEP/Greene_2010_JEP|Greene_2010_JEP]]
