@@ -6,7 +6,7 @@ aliases:
 summary: "Kuhn（1991、2000）认识论模型中的成熟立场，认为知识虽由主观建构，但可通过论证与证据的客观标准进行评估。"
 type: concept
 domain: "educational-psychology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

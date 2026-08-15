@@ -1,5 +1,4 @@
 ---
-title: Argument_Kuhn_2000_CD
 summary: "提出认识论理解发展涉及主观性与客观性两个维度的协调，且在不同判断领域（个人品味、审美、价值观、社会事实、物理事实）的发展顺序呈现系统性反转。"
 type: argument
 authors:
@@ -10,10 +9,10 @@ source_language: en
 citation: "Kuhn, D., Cheney, R., & Weinstock, M. (2000). The development of epistemological understanding. Cognitive Development, 15(3), 309–328."
 year: 2000
 doi: "10.1016/S0885-2014(00)00030-7"
-isbn: ""
 citation_aliases:
   - "Kuhn et al., 2000"
   - "Kuhn et al. (2000)"
+isbn: ""
 tags:
   - theme/epistemology
   - theme/cognitive-development
@@ -36,13 +35,20 @@ created: 2026-08-16
 updated: 2026-08-16
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_Kuhn_2000_CD"
+argument_key: "Argument_Kuhn_2000_CD"
+argument_display_title: "The development of epistemological understanding"
+argument_kind: "journal-article"
+argument_related_count: 4
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dbeafe"
 journal: Cognitive Development
 book_title: ""
 publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 # Argument_Kuhn_2000_CD
 
 ---
@@ -67,10 +73,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **Epistemological Understanding**<br>[[Epistemological Understanding]] | 发展目标：协调认知的主观维度与客观维度。这是评估个体验证和论辩能力的基础。 |
-> | **Absolutist**<br>[[Absolutist]] | 认知发展的初期阶段，认为知识是客观现实的复制，排斥或未意识到人的主观视角。 |
-> | **Multiplist**<br>[[Multiplist]] | 认知发展的中间阶段，认识到知识是由人类心智产生的，具有主观性，但走向了彻底的相对主义，放弃了客观标准。 |
-> | **Evaluativist**<br>[[Evaluativist]] | 认知发展的成熟阶段，承认知识的不确定性和主观性，但重新整合了客观维度，认为可以通过证据和论辩来比较观点的优劣。 |
+> | **[[Epistemological Understanding|认识论理解]]** | 发展目标：协调认知的主观维度与客观维度。这是评估个体验证和论辩能力的基础。 |
+> | **[[Absolutist|绝对论]]** | 认知发展的初期阶段，认为知识是客观现实的复制，排斥或未意识到人的主观视角。 |
+> | **[[Multiplist|多元论]]** | 认知发展的中间阶段，认识到知识是由人类心智产生的，具有主观性，但走向了彻底的相对主义，放弃了客观标准。 |
+> | **[[Evaluativist|评价论]]** | 认知发展的成熟阶段，承认知识的不确定性和主观性，但重新整合了客观维度，认为可以通过证据和论辩来比较观点的优劣。 |
 
 为了更精准地刻画这几个阶段，作者在文中（Table 1）对其进行了详细的理论对标：
 
