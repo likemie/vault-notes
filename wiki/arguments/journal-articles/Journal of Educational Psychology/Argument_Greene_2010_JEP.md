@@ -83,7 +83,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **调查测量**<br>定量调查（Quantitative Survey） | 采用[[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]（Epistemic and Ontological Cognition Questionnaire, EOCQ），测量简单与确定知识（Simple and Certain Knowledge, SC）、权威辩护（Justification by Authority, JA）以及个人辩护（Personal Justification, PJ）三大维度。问卷分别针对数学和历史两门学科提供平行题。 |
+> | **调查测量**<br>定量调查（Quantitative Survey） | 采用[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]（Epistemic and Ontological Cognition Questionnaire, EOCQ），测量简单与确定知识（Simple and Certain Knowledge, SC）、权威辩护（Justification by Authority, JA）以及个人辩护（Personal Justification, PJ）三大维度。问卷分别针对数学和历史两门学科提供平行题。 |
 > | **分析策略**<br>[[Factor Mixture Modeling]] | 1. 验证性因子分析（Confirmatory Factor Analysis, CFA）检验工具的结构信度，并对比领域特定与领域一般性模型拟合度。<br>2. 因子混合模型探索隐含类别群组，并将类别与理论预设的发展阶段轮廓进行比对。<br>3. 多项逻辑回归检验教育水平和学业成绩对类别成员身份的预测能力。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -116,7 +116,24 @@ issuing_organization: ""
 > 现有的阶段论与多维系统论存在广泛重叠。区分本体论认知（知识的简单性与确定性）与认识论认知（权威辩护与个人辩护），能够构建基于维度轮廓的发展序列，并容纳学科领域间的不平衡性。
 
 > [!chain-link] 证据到判断
-> 传统的阶段模型（见表1）本质上可以解构为对客观现实、知识来源和评价机制的不同量化态度。作者将这一传统模型与三维量化信念（SC、JA、PJ）进行了逻辑重构，提出了全新的 EOC 模型（见表2）。在重构过程中，Kuhn 提出的初级阶段（“现实主义”与“绝对主义”）被合并映射为新模型中的“现实主义”；随着对知识绝对性的质疑，原本的“多元主义”被拆分为了两条路径：要么在不确定中依然盲从权威（教条主义），要么走向彻底只信自己的主观体验（怀疑主义）；而最终能够整合多方证据的“评价主义”，则被重新定义为“理性主义”。
+> 传统的阶段模型（见表1）本质上可以解构为对客观现实、知识来源和评价机制的不同量化态度。
+
+> [!contrast-table] 表1：Kuhn et al. (2000) 认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
+> | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | 批判性思维（Critical thinking） | 知识主张（Assertions） |
+> | --- | --- | --- | --- | --- |
+> | 现实主义者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
+> | 绝对主义者（Absolutist） | 可直接认知 | 确定，来自外部来源 | 用于确定谁是“正确的” | 可对可错的事实 |
+> | 多元主义者（Multiplist） | 无法直接认知 | 不确定，来自人类心智 | 不相关 | 不可质疑的观点 |
+> | 评价主义者（Evaluativist） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
+> 
+> *核心看点：此表呈现了传统的认识论发展阶段。作者指出，这四个定性的阶段本质上可以被拆解为个体对客观现实、知识来源及评价机制的不同信念维度的强弱组合。*
+> *来源：Greene et al. (2010), p. 235*
+
+> [!warrant] 推理桥梁
+> 作者将上述传统模型与三维量化信念（SC、JA、PJ）进行了逻辑重构，演化出了全新的整合模型。
+> - **合并初级阶段** Kuhn 模型中的“现实主义者”（视知识为现实的无脑复制、无需批判性思维）多见于幼儿，而“绝对主义者”（引入批判性思维以辨别事实对错）多见于小学生。由于这两者在量化问卷中都会表现出极其相似的极端轮廓（即盲信知识简单确定、盲信权威与个人感觉），加之本研究的样本排除了低龄儿童，因此作者将这两者合并为了新模型中的“现实主义”。
+> - **拆分中期阶段** 随着对知识绝对性的质疑，原本的“多元主义”被拆分为了两条分化路径：要么在不确定中依然盲从权威（教条主义），要么彻底只信自己的主观体验（怀疑主义）。
+> - **重定义高级阶段** 最终能够整合多方证据的“评价主义”，则被重新定义为“理性主义”。
 > 
 > ```mermaid
 > flowchart LR
@@ -142,17 +159,6 @@ issuing_organization: ""
 >     B -- "轻权威、重个人" --> E2
 >     C -- "理性评估与整合" --> F
 > ```
-
-> [!contrast-table] 表1：Kuhn et al. (2000) 认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
-> | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | 批判性思维（Critical thinking） | 知识主张（Assertions） |
-> | --- | --- | --- | --- | --- |
-> | 现实主义者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
-> | 绝对主义者（Absolutist） | 可直接认知 | 确定，来自外部来源 | 用于确定谁是“正确的” | 可对可错的事实 |
-> | 多元主义者（Multiplist） | 无法直接认知 | 不确定，来自人类心智 | 不相关 | 不可质疑的观点 |
-> | 评价主义者（Evaluativist） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
-> 
-> *核心看点：此表呈现了传统的认识论发展阶段。作者指出，这四个定性的阶段本质上可以被拆解为个体对客观现实、知识来源及评价机制的不同信念维度的强弱组合。*
-> *来源：Greene et al. (2010), p. 235*
 
 > [!contrast-table] 表2：认识论与本体论认知模型（Model of Epistemic and Ontological Cognition）
 > | 受教育水平 | 劣构领域阶段 | SC 信念 | JA 信念 | PJ 信念 | 良构领域阶段 | SC 信念 | JA 信念 | PJ 信念 |

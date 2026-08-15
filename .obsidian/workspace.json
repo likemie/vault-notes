@@ -225,6 +225,7 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "fix_tables.py",
     "sources/Greene_2010_JEP/Greene_2010_JEP.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2010_JEP.md",
     "sources/Greene_2010_JEP.md",
@@ -257,7 +258,6 @@
     "wiki/theories/educational-psychology/Epistemological Reflection Model.md",
     "wiki/concepts/educational-psychology/Justification for Knowing.md",
     "wiki/concepts/educational-psychology/Simplicity of Knowledge.md",
-    "wiki/concepts/educational-philosophy/Multiplicity.md",
     "raw/greene2010.pdf",
     "sources/Hofer_1997_RER.pdf",
     "wiki/theories/educational-psychology",
