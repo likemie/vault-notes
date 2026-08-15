@@ -56,7 +56,7 @@ issuing_organization: ""
 > 以往关于个人认识论（personal epistemology）的研究主要分为发展阶段论与多维系统论，两者虽有重叠但整合不足；此外，关于认识论认知是否具有领域特殊性（domain specificity）的争论仍在继续。核心问题在于，能否构建一个既能容纳多维度定量信念、又能刻画质性发展阶段的整合性概念模型，并证明认识论认知受学科领域及教育经历影响。
 
 > [!claim] 核心主张
-> 认识论与本体论认知（epistemic and ontological cognition）模型能够有效整合量化信念与质性发展阶段。通过定量测量学生在知识本体与辩护方式上的独立信念维度，并利用因子混合模型（factor mixture modeling）对维度得分进行聚类，能够成功还原出理论预设的四个定性发展阶段，即现实主义者（realist）、教条主义者（dogmatist）、怀疑论者（skeptic）与理性主义者（rationalist）。同时，个体在劣构领域如历史中的认知发展普遍先于数学等良构领域，且受教育年限和学业表现对认知阶段具有显著的预测作用。
+> 认识论与本体论认知（Epistemic and Ontological Cognition, EOC）模型能够有效整合量化信念与质性发展阶段。通过定量测量学生在知识本体与辩护方式上的独立信念维度，并利用因子混合模型（Factor Mixture Modeling, FMM）对维度得分进行聚类，能够成功还原出理论预设的四个定性发展阶段，即现实主义者（realist）、教条主义者（dogmatist）、怀疑论者（skeptic）与理性主义者（rationalist）。同时，个体在劣构领域如历史中的认知发展普遍先于数学等良构领域，且受教育年限和学业表现对认知阶段具有显著的预测作用。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 740名受教育程度各异的学生（中学生至研究生）。
@@ -82,8 +82,8 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **调查测量**<br>定量调查（Quantitative Survey） | 采用认识论与本体论认知问卷（[[Epistemic and Ontological Cognition Questionnaire]]），测量简单与确定知识（simple and certain knowledge）、权威辩护（justification by authority）以及个人辩护（personal justification）三大维度。问卷分别针对数学和历史两门学科提供平行题。 |
-> | **分析策略**<br>[[Factor Mixture Modeling]] | 1. 验证性因子分析（confirmatory factor analysis）检验工具的结构信度，并对比领域特定与领域一般性模型拟合度。<br>2. 因子混合模型探索隐含类别群组，并将类别与理论预设的发展阶段轮廓进行比对。<br>3. 多项逻辑回归检验教育水平和学业成绩对类别成员身份的预测能力。 |
+> | **调查测量**<br>定量调查（Quantitative Survey） | 采用[[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]（Epistemic and Ontological Cognition Questionnaire, EOCQ），测量简单与确定知识（Simple and Certain Knowledge, SC）、权威辩护（Justification by Authority, JA）以及个人辩护（Personal Justification, PJ）三大维度。问卷分别针对数学和历史两门学科提供平行题。 |
+> | **分析策略**<br>[[Factor Mixture Modeling]] | 1. 验证性因子分析（Confirmatory Factor Analysis, CFA）检验工具的结构信度，并对比领域特定与领域一般性模型拟合度。<br>2. 因子混合模型探索隐含类别群组，并将类别与理论预设的发展阶段轮廓进行比对。<br>3. 多项逻辑回归检验教育水平和学业成绩对类别成员身份的预测能力。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -125,6 +125,7 @@ issuing_organization: ""
 > | 多元主义者（Multiplist） | 无法直接认知 | 不确定，来自人类心智 | 不相关 | 不可质疑的观点 |
 > | 评价主义者（Evaluativist） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
 > 
+> *核心看点：此表呈现了传统的认识论发展阶段。作者指出，这四个定性的阶段本质上可以被拆解为个体对客观现实、知识来源及评价机制的不同信念维度的强弱组合。*
 > *来源：Greene et al. (2010), p. 235*
 
 > [!contrast-table]- 表2：认识论与本体论认知模型（Model of Epistemic and Ontological Cognition, 部分摘录）
@@ -135,6 +136,7 @@ issuing_organization: ""
 > | 大学中期至晚期 | 理性主义（Rationalism） | 弱 | 中等 | 中等 | 教条或怀疑主义（Dogmatism or skepticism） | 弱<br>弱 | 强<br>弱 | 弱<br>强 |
 > | 本科后教育（研究生） | 理性主义（Rationalism） | 弱 | 中等 | 中等 | 理性主义（Rationalism） | 弱 | 中等 | 中等 |
 > 
+> *核心看点：本表是作者提出的核心整合模型。它展示了四个定性的发展阶段（现实、教条/怀疑、理性）是如何由三个独立信念维度的不同强弱配置（Profile）构成的，并预测了个体在劣构领域（如历史）中的认知发展会快于良构领域（如数学）。*
 > *注：SC=简单与确定知识（Simple and Certain Knowledge）; JA=权威辩护（Justification by Authority）; PJ=个人辩护（Personal Justification）。来源：Greene et al. (2010), p. 238*
 
 > [!example]- 图1：Range of differences regarding the domain generality or specificity of epistemic cognition
@@ -168,7 +170,7 @@ issuing_organization: ""
 > 因子混合模型有效找出了潜藏在样本总体中的异质性类别群组。这些类别的维度轮廓多数符合理论预设的发展阶段，证明量化的连续维度能够聚合成定性的发展阶段。
 
 > [!chain-link] 证据到判断
-> 测试表明，设定了强烈方差等值限制（strong invariance）的6分类因子混合模型在贝叶斯信息准则等指标下拟合最佳（见表5）。提取各潜在类别在三个信念维度上的均值后发现，多数类别的轮廓配置模式与预设的现实主义者、怀疑论者及理性主义者完全吻合（见表8）。在包含领域差异的类别中，个体在历史领域的信念阶段普遍持平或超越其在数学领域的表现。
+> 测试表明，设定了强烈方差等值限制（strong invariance）的6分类因子混合模型在贝叶斯信息准则（Bayesian Information Criterion, BIC）等指标下拟合最佳（见表5）。提取各潜在类别在三个信念维度上的均值后发现，多数类别的轮廓配置模式与预设的现实主义者、怀疑论者及理性主义者完全吻合（见表8）。在包含领域差异的类别中，个体在历史领域的信念阶段普遍持平或超越其在数学领域的表现。
 
 > [!warrant]- 推理桥梁
 > 聚类结果不仅映射出了特定的发展阶段组合，还呈现了历史认知更为发达的发展特征。将分散的信念维度整合成潜在的综合特征档案，能够更有效地描绘复杂的认知全貌。
@@ -180,6 +182,7 @@ issuing_organization: ""
 > | 6（严格等值 Strict） | -27,919.239 | 56,150.479 | 56,865.706 | 56,370.360 |
 > | 6（强烈等值 Strong） | -27,126.735 | 54,955.470 | 56,564.731 | 55,450.203 |
 > 
+> *核心看点：基于信息准则（如 BIC、样本量调整的贝叶斯信息准则（Sample-Size Adjusted BIC, SABIC）等数值越小越好），设定了强烈等值限制的 6 分类模型对数据拟合最佳。这证明了原本连续量化的信念维度，在人群中确实能够聚类为几个典型的、异质性的定性阶段群组。*
 > *来源：Greene et al. (2010), p. 243*
 
 > [!ref-table]- 表8：潜在类别因子均值及解释（Latent Class Factor Means and Interpretations, 部分类群示例）
@@ -189,6 +192,7 @@ issuing_organization: ""
 > | **类别 3** | 弱（Weak） | 弱（Weak） | 强（Strong） | 怀疑论者（Skeptic） | 弱（Weak） | 中等（Moderate） | 中等（Moderate） | 理性主义者（Rationalist） |
 > | **类别 4** | 强（Strong） | 强（Strong） | 强（Strong） | 现实主义者（Realist） | 弱（Weak） | 弱（Weak） | 强（Strong） | 怀疑论者（Skeptic） |
 > 
+> *核心看点：本表将 FMM 聚类得出的均值映射回了理论预设的定性阶段。例如类别 4 的学生，在数学上呈现出三维皆强的“现实主义者”轮廓，但在历史上却表现出弱/弱/强的“怀疑论者”轮廓。这不仅证明了量化维度可以还原出定性的发展特征，也直接验证了认识论信念的领域特殊性（在历史领域的发展优于数学）。*
 > *注：Class 4 显示其数学为现实主义阶段，但历史已经发展至怀疑论阶段。来源：Greene et al. (2010), p. 245*
 
 > [!example]- 图3：Factor mixture model
