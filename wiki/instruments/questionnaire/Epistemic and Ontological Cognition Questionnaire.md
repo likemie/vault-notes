@@ -18,13 +18,19 @@ item_count: "26"
 administration_mode: self-report
 response_format: "6点Likert量表"
 tags: []
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Questionnaire]]"
+  - "[[Epistemology]]"
+  - "[[Ontology]]"
+related_theories:
+  - "[[Epistemic and Ontological Cognition]]"
+related_methods:
+  - "[[Factor Mixture Modeling]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Greene_2010_JEP]]"
 confidence: medium
 status: draft
 created: 2026-08-15
@@ -38,9 +44,9 @@ updated: 2026-08-15
 ## 工具定位
 
 > [!instrument-profile] EOCQ
-> - **工具类型** 问卷
+> - **工具类型** [[Questionnaire|问卷]]
 > - **开发者与年份** Greene, Torney-Purta, & Azevedo (2010)。
-> - **测量目的** 用于测度学生在认识论及本体论认知方面的发展阶段和信念强度，支持领域特定（如历史和数学）研究。
+> - **测量目的** 用于测度学生在[[Epistemology|认识论]]及[[Ontology|本体论]]认知方面的发展阶段和信念强度，支持领域特定（如历史和数学）研究。
 > - **实施方式** 自陈问卷
 
 ---
@@ -52,7 +58,7 @@ updated: 2026-08-15
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | 简单与确定知识（Simple and Certain Knowledge） | 5 | 将知识视作简单、绝对、静态的本体论倾向 | 量表分或因子模型分 |
+> | 简单与确定知识（Simple and Certain Knowledge） | 5 | 将知识视作简单、绝对、静态的[[Ontology\|本体论]]倾向 | 量表分或因子模型分 |
 > | 权威辩护（Justification by Authority） | 4 | 以外部权威意见作为知识辩护依据的倾向 | 量表分或因子模型分 |
 > | 个人辩护（Personal Justification） | 4 | 依赖个人经验作为知识辩护依据的倾向 | 量表分或因子模型分 |
 
@@ -61,7 +67,7 @@ updated: 2026-08-15
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 陈述句。问卷分别针对数学和历史各提供 13 题（结构相同，仅替换学科名称）。
+> - **题项形式** 陈述句。[[Questionnaire|问卷]]分别针对数学和历史各提供 13 题（结构相同，仅替换学科名称）。
 > - **作答格式** 6点 Likert 量表（1 = 完全不同意，6 = 完全同意）。
 > - **反向题与跳题** 部分题目为负向表述（需要反向计分）。
 
@@ -111,7 +117,7 @@ updated: 2026-08-15
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 原始版 | 740名中学生至研究生，评估认识论与本体论信念。 | CFA表明结构合理，H系数多数达标，个别简单知识题项偏弱；揭示显著领域特殊性。 | EOCQ 得分在因子混合模型下聚类出特定的认识论发展阶段群组，群组成员分布与受教育年限和学业成绩相关。 |
+> | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 原始版 | 740名中学生至研究生，评估[[Epistemology\|认识论]]与[[Ontology\|本体论]]信念。 | CFA表明结构合理，H系数多数达标，个别简单知识题项偏弱；揭示显著领域特殊性。 | EOCQ 得分在[[Factor Mixture Modeling\|因子混合模型]]下聚类出特定的认识论发展阶段群组，群组成员分布与受教育年限和学业成绩相关。 |
 
 ---
 

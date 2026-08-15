@@ -22,18 +22,24 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Construct]]"
   - "[[Epistemological Theories]]"
+  - "[[Ontology]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Source of Knowledge]]"
   - "[[Justification for Knowing]]"
   - "[[Conatus]]"
-related_theories: []
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
+related_theories:
+  - "[[Epistemic and Ontological Cognition]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Factor Mixture Modeling]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
+  - "[[Argument_Greene_2010_JEP]]"
 status: active
 created: 2026-08-13
 updated: 2026-08-14
@@ -61,7 +67,7 @@ updated: 2026-08-14
 > - **20 世纪 70-80 年代 — 发展阶段论起源** Perry (1970) 等人首创对大学生认知发展历程的探究，将[[Epistemology|认识论]]信念视为一种从二元论、多元论到相对主义的单向、结构化的发展阶段。
 > - **1990 年 — 量化与多维独立转向** Schommer (1990) 提出了“认识论信念”量表（Epistemological [[Questionnaire]]），打破了阶段论[[Hypothesis|假设]]，主张个体的认识论信念由多个相互独立的维度构成，开辟了大规模[[Quantitative Research|量化研究]]。
 > - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct|构念]]升级为更具内部连贯性的“[[Epistemological Theories|认识论理论]]（epistemological theories）”。
-> - **2008-2010 年 — 阶段论与维度论的整合与重定** Greene 等人提出整合性的 EOC 模型，将对“知识的确定性与简单性”的信念重新界定为“本体论认知”（ontological cognition），并通过因子混合模型将独立维度的测量分数成功聚类回个人的认知发展阶段中。
+> - **2008-2010 年 — 阶段论与维度论的整合与重定** Greene 等人提出整合性的 [[Epistemic and Ontological Cognition|EOC]] 模型，将对“[[Certainty of Knowledge|知识的确定性]]与简单性”的信念重新界定为“[[Ontology|本体论]]认知”（ontological cognition），并通过[[Factor Mixture Modeling|因子混合模型]]将独立维度的测量分数成功聚类回个人的认知发展阶段中。
 
 ---
 
@@ -126,7 +132,7 @@ updated: 2026-08-14
 > 探讨如何将多维独立信念重新整合为发展阶段，并在不同学科之间体现出差异。
 
 > [!claim] Greene et al. (2010)
-> **多维阶段融合模型与领域特殊性** Greene 等人提出整合性的认识论与本体论认知（[[Epistemic and Ontological Cognition\|EOC]]）模型，认为“知识的简单性与确定性”属于本体论层面的分类，而“辩护方式”属于认识论层面。同时，借助量化的多维度测量与因子混合模型聚类，可以识别出个体的特定信念组合档案，从而映射出其所处的发展阶段（现实主义者、教条主义者、怀疑论者、理性主义者）。研究还证实，认识论发展并非绝对领域一般性，个体在劣构领域（如历史）中的认知往往先于良构领域（如数学）发展。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 245-247)]]
+> **多维阶段融合模型与领域特殊性** Greene 等人提出整合性的[[Epistemic and Ontological Cognition|认识论与本体论认知]]（[[Epistemic and Ontological Cognition\|EOC]]）模型，认为“[[Simplicity of Knowledge|知识的简单性]]与确定性”属于[[Ontology|本体论]]层面的分类，而“辩护方式”属于认识论层面。同时，借助量化的多维度测量与[[Factor Mixture Modeling|因子混合模型]]聚类，可以识别出个体的特定信念组合档案，从而映射出其所处的发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者）。研究还证实，认识论发展并非绝对领域一般性，个体在劣构领域（如历史）中的认知往往先于良构领域（如数学）发展。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 245-247)]]
 
 ---
 
