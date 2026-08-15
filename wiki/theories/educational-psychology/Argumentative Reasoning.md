@@ -9,7 +9,6 @@ theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
 aliases:
   - "论辩推理"
-  - "argumentative reasoning"
 tags:
   - "theme/epistemological-beliefs"
 related_concepts:
@@ -19,7 +18,6 @@ related_concepts:
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
   - "[[Subjectivism]]"
-  - "[[Evaluativist]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -29,7 +27,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-16
 ---
 
 # Argumentative Reasoning

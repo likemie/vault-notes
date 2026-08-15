@@ -2,7 +2,6 @@
 title: Absolutist
 aliases:
   - 绝对论者
-  - absolutist
   - absolutists
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观的事实。"
 type: concept

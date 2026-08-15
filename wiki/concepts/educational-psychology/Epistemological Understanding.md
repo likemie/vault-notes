@@ -2,7 +2,6 @@
 title: Epistemological Understanding
 aliases:
   - 认识论理解
-  - epistemological understanding
 summary: "指个体对认知的主观维度与客观维度的协调能力，表现为从绝对论、多元论到评价论的发展过程。"
 type: concept
 domain: "educational-psychology"

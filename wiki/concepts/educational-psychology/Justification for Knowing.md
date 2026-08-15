@@ -29,7 +29,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-16
 ---
 
 # Justification for Knowing

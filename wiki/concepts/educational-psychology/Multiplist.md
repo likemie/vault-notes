@@ -2,7 +2,6 @@
 title: Multiplist
 aliases:
   - 多元论者
-  - multiplist
   - multiplists
 summary: "论辩推理模型中的中间认识论立场，认为所有观点都同等有效。"
 type: concept

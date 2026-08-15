@@ -2,7 +2,6 @@
 title: Evaluativist
 aliases:
   - 评价论者
-  - evaluativist
   - evaluativists
 summary: "Kuhn（1991、2000）认识论模型中的成熟立场，认为知识虽由主观建构，但可通过论证与证据的客观标准进行评估。"
 type: concept
@@ -15,8 +14,8 @@ tags:
   - theme/epistemology
   - theme/cognitive-development
 related_concepts:
-  - "[[Epistemological Understanding]]"
   - "[[Epistemology]]"
+  - "[[Epistemological Understanding]]"
   - "[[Critical Thinking]]"
   - "[[Multiplist]]"
   - "[[Absolutist]]"
@@ -24,7 +23,8 @@ related_theories:
   - "[[Argumentative Reasoning]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Thomas Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"

@@ -58,7 +58,7 @@ sources:
 part_of:
 status: active
 created: 2026-08-13
-updated: 2026-08-15
+updated: 2026-08-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hofer_1997_RER"
@@ -251,7 +251,7 @@ Deanna Kuhn (1991) 将认识论的研究扩展到了日常非正式推理，通�
 > | **二元论**<br>（dualism） | 沉默（silence）<br>[[Received Knowledge\|接收知识]]（received knowledge） | [[Absolute Knowing\|绝对认知]]<br>（absolute knowing） | 前反思思维<br>（pre-reflective thinking） | [[Absolutist\|绝对论者]]<br>（absolutists） |
 > | **多元论**<br>（multiplicity） | [[Subjective Knowledge\|主观知识]]<br>（subjective knowledge） | [[Transitional Knowing\|过渡认知]]<br>（transitional knowing） | 准反思思维<br>（quasi-reflective thinking） | [[Multiplist\|多元论者]]<br>（multiplists） |
 > | **相对主义**<br>（relativism） | [[Procedural Knowledge\|程序知识]]（procedural knowledge）<br>(a) 连结型<br>(b) 分离型 | [[Independent Knowing\|独立认知]]<br>（independent knowing） | 准反思思维<br>（横跨多/相对论） | |
-> | **相对主义内的承诺**<br>（commitment within relativism） | [[Constructed Knowledge\|建构知识]]<br>（constructed knowledge） | [[Contextual Knowing\|语境认知]]<br>（contextual knowing） | 反思思维<br>（reflective thinking） | [[Evaluatist\|评价论者]]<br>（evaluatists） |
+> | **相对主义内的承诺**<br>（commitment within relativism） | [[Constructed Knowledge\|建构知识]]<br>（constructed knowledge） | [[Contextual Knowing\|语境认知]]<br>（contextual knowing） | 反思思维<br>（reflective thinking） | [[Evaluativist\|评价论者]]<br>（evaluatists） |
 
 ---
 
