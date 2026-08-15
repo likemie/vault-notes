@@ -205,7 +205,17 @@ issuing_organization: ""
 > 正因如此，学生在历史课上会更早地遇到“知识是不确定的”这一观念冲突，从而被迫进行批判性思考。这就解释了为什么在表2中，个体在劣构领域中的认识论发展往往会**快于**良构领域，更早地摆脱幼稚的“现实主义”（Donald, 1990; Frederiksen, 1984）。
 
 > [!example]- 图1：Range of differences regarding the domain generality or specificity of epistemic cognition
-> ![](https://img.mylikemie.icu/sources/Greene_2010_JEP/figures/Greene_2010_JEP_Fig1_Range_of_differences_regarding_domain_generality.jpg)
+> ```mermaid
+> flowchart LR
+>     A["完全领域一般性
+(Domain General)"] --- B["包含一般性与特殊性
+的双层中间模型"] --- C["完全领域特殊性
+(Domain Specific)"]
+>     
+>     style A fill:#f9f9f9,stroke:#333,stroke-width:2px
+>     style B fill:#e6f7ff,stroke:#333,stroke-width:2px
+>     style C fill:#f9f9f9,stroke:#333,stroke-width:2px
+> ```
 > 
 > *来源：[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 236*
 
@@ -223,7 +233,44 @@ issuing_organization: ""
 > 如果认识论认知是“领域一般性”的（即放之四海而皆准），那么学生对所有学科的信念评分应该高度一致，从而在因子分析中合并为一个统一的潜[[Variable|变量]]。但数据表明，强行将历史和数学合并会导致模型拟合度断崖式下降。这在逻辑上直接推翻了领域一般性[[Hypothesis|假设]]，证实学生在面对劣构领域（历史）与良构领域（数学）时，调用的是两套相互独立的信念评估体系。
 
 > [!example]- 图2：Hypothesized domain-specific measurement model
-> ![](https://img.mylikemie.icu/sources/Greene_2010_JEP/figures/Greene_2010_JEP_Fig2_Hypothesized_domain_specific_measurement_model.jpg)
+> ```mermaid
+> flowchart TD
+>     subgraph Math [数学领域测量 / Mathematics]
+>         direction TB
+>         M_SC(("Math SC
+简单与确定知识")) --> M_items1["Observed Items
+(观测题项)"]
+>         M_JA(("Math JA
+权威辩护")) --> M_items2["Observed Items
+(观测题项)"]
+>         M_PJ(("Math PJ
+个人辩护")) --> M_items3["Observed Items
+(观测题项)"]
+>     end
+>     
+>     subgraph History [历史领域测量 / History]
+>         direction TB
+>         H_SC(("History SC
+简单与确定知识")) --> H_items1["Observed Items
+(观测题项)"]
+>         H_JA(("History JA
+权威辩护")) --> H_items2["Observed Items
+(观测题项)"]
+>         H_PJ(("History PJ
+个人辩护")) --> H_items3["Observed Items
+(观测题项)"]
+>     end
+> 
+>     %% 因子间的协方差
+>     M_SC <.-> H_SC
+>     M_JA <.-> H_JA
+>     M_PJ <.-> H_PJ
+>     M_SC <.-> M_JA & M_PJ
+>     H_SC <.-> H_JA & H_PJ
+>     
+>     classDef latent fill:#dcfce7,stroke:#22c55e,stroke-width:2px;
+>     class M_SC,M_JA,M_PJ,H_SC,H_JA,H_PJ latent;
+> ```
 > 
 > *来源：[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 240*
 
@@ -264,12 +311,69 @@ issuing_organization: ""
 > *注：部分类别（如 1、6）的历史或数学轮廓无法清晰对应理论模型，作者认为这揭示了模型可能需要纳入更多评价维度。来源：[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 245*
 
 > [!example]- 图3：Factor mixture model
-> ![](https://img.mylikemie.icu/sources/Greene_2010_JEP/figures/Greene_2010_JEP_Fig3_Factor_mixture_model.jpg)
+> ```mermaid
+> flowchart TD
+>     C{"潜在类别 (Latent Class)
+提取出6个定性发展阶段"}
+>     
+>     subgraph Continuous [连续潜变量因子 / Continuous Factors]
+>         direction LR
+>         F1(("Math SC"))
+>         F2(("Math JA"))
+>         F3(("Math PJ"))
+>         F4(("Hist SC"))
+>         F5(("Hist JA"))
+>         F6(("Hist PJ"))
+>     end
+>     
+>     %% 类别预测连续因子的均值分布
+>     C -->|决定因子的均值轮廓| Continuous
+>     
+>     %% 测量模型部分
+>     F1 --> I1[Items]
+>     F2 --> I2[Items]
+>     F3 --> I3[Items]
+>     F4 --> I4[Items]
+>     F5 --> I5[Items]
+>     F6 --> I6[Items]
+>     
+>     classDef classNode fill:#fee2e2,stroke:#ef4444,stroke-width:2px;
+>     classDef factorNode fill:#dcfce7,stroke:#22c55e,stroke-width:2px;
+>     class C classNode;
+>     class F1,F2,F3,F4,F5,F6 factorNode;
+> ```
 > 
 > *来源：[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 241*
 
 > [!example]- 图4：Latent class factor means
-> ![](https://img.mylikemie.icu/sources/Greene_2010_JEP/figures/Greene_2010_JEP_Fig4_Latent_class_factor_means.jpg)
+> ```mermaid
+> flowchart LR
+>     subgraph Profiles [类别轮廓模式映射 / Profile Mapping]
+>         direction TB
+>         C4["类别 4 (现实主义为主)
+数学三维皆强
+历史出现分化"] 
+>         C2["类别 2 (怀疑论者)
+依赖个人辩护 PJ
+排斥权威 JA"]
+>         C3["类别 3 (理性主义者)
+历史学科中等
+摒弃绝对知识 SC"]
+>     end
+>     
+>     subgraph Dimensions [认知维度得分 / Factor Means]
+>         direction TB
+>         D1["高 SC / 高 JA"]
+>         D2["低 SC / 低 JA / 高 PJ"]
+>         D3["低 SC / 中等 JA / 中等 PJ"]
+>     end
+>     
+>     C4 -->|在图表中表现为| D1
+>     C2 -->|在图表中表现为| D2
+>     C3 -->|在图表中表现为| D3
+>     
+>     style Profiles fill:#f3f4f6,stroke:#9ca3af,stroke-dasharray: 5 5
+> ```
 > 
 > *来源：[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 246*
 

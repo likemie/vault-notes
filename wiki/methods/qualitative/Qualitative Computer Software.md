@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-08-15
+updated: 2026-08-16
 ---
 
 # Qualitative Computer Software
@@ -86,7 +86,7 @@ Kelle（2000, p. 295）给出使用软件编码数据的六步序列：
 ## 常见软件与功能
 
 > [!info] 常用软件与共同功能
-> 常用软件包括 AQUAD、HyperQuad2、HyperRESEARCH、Hypersoft、Kwaliton、Martin、MAXqda、QSR.NUD\*IST、NVivo、QUALPRO、Text-base Alpha、Ethnograph、ATLAS.ti、Code-A-Text、Decision Explorer、Diction 等（Kelle, 1995）。Gibbs（2007）着重介绍 NVivo、MAXqda 与 ATLAS.ti 三个软件，其共同功能包括：导入、处理并显示富文本；把文本[[Coding in Qualitative Research|编码]]为关键编码（节点）并把编码与节点排列成层级与聚类；用不同组合与搜索词排序、组合、检索文本；用编码处理原始文档或组合文档中的选定片段；为已有数据文件与文档添加注释、备忘录、评论或附加文档；用编码排序材料。NVivo 与 ATLAS.ti 还能把文字数据与图像、视频和录音结合并加以编码（Gibbs, 2007, p. 114）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> 常用软件以 NVivo、MAXQDA 与 ATLAS.ti 为代表（Gibbs, 2007 即着重介绍这三者）；原书（Kelle, 1995）列举的其他软件包多数已停更或被后继版本取代。三者共同功能包括：导入、处理并显示富文本；把文本[[Coding in Qualitative Research|编码]]为关键编码（节点）并把编码与节点排列成层级与聚类；用不同组合与搜索词排序、组合、检索文本；用编码处理原始文档或组合文档中的选定片段；为已有数据文件与文档添加注释、备忘录、评论或附加文档；用编码排序材料。NVivo 与 ATLAS.ti 还能把文字数据与图像、视频和录音结合并加以编码（Gibbs, 2007, p. 114）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 > [!info] 定性意义上的统计分析
 > 软件能对词、短语、编码、节点与类别进行布尔搜索（用 and／not／or 查找多重编码文本的交集与共现）、邻近搜索（查找节点或编码附近、之前或之后的聚类与语境数据）、限制／树／交叉表（纳入与排除文档、查找被节点包含或包含其他节点的编码），构建相关节点与编码的树状图（dendrograms），按序列呈现数据并定位语境，查找相似段落、负面案例（Gibbs, 2007, p. 126）、语境中的词项（词汇检索），按联合标准（联合出现、搭配）选择文本，分析文本间及文本片段的异同关系，并对文本加以注释和撰写备忘录。因单个词与词频统计会忽略语境的重要性，多数软件包发展出"语境中的关键词"（Key-Words-In-Context，KWIC）功能。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]

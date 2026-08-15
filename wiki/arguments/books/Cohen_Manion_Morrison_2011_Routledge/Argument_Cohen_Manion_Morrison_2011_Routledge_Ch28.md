@@ -75,7 +75,7 @@ related_facts: []
 related_arguments: []
 status: draft
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28
 
@@ -334,7 +334,7 @@ updated: 2026-08-15
 > 6. **发展核心范畴** 发展核心范畴，这是[[Grounded Theory|扎根理论]]的特征（见第33章）。
 
 > [!info] 常用软件与搜索功能
-> 常用软件包括 AQUAD、HyperQuad2、HyperRESEARCH、Kwaliton、MAXqda、QSR.NUD\*IST、NVivo、Ethnograph、ATLAS.ti 等；Gibbs（2007）着重介绍 NVivo、MAXqda 与 ATLAS.ti。软件能执行质性意义上的统计分析，包括布尔搜索、邻近搜索、限制／树／交叉表、树状图、按序列呈现数据、查找相似段落与负面案例、语境中的词项（词汇检索）、按联合标准选择文本、分析文本异同、注释与备忘录，并发展出语境中的关键词（Key-Words-In-Context，KWIC）功能。（28.4）
+> 常用软件以 NVivo、MAXQDA 与 ATLAS.ti 为代表（Gibbs, 2007 即着重介绍这三者）；原书列举的其他软件包多数已停更或被后继版本取代。软件能执行质性意义上的统计分析，包括布尔搜索、邻近搜索、限制／树／交叉表、树状图、按序列呈现数据、查找相似段落与负面案例、语境中的词项（词汇检索）、按联合标准选择文本、分析文本异同、注释与备忘录，并发展出语境中的关键词（Key-Words-In-Context，KWIC）功能。（28.4）
 
 > [!strength] 软件对效度与信度的增强
 > Kelle & Laurie（1995, p. 27）指出计算机辅助方法能增强效度（通过样本管理）与信度（通过检索某主题的所有数据，从而保证数据可信度），且不丢失语境因素（Gibbs, 2007, p. 106）。其优点是数据整理与检索的系统性与速度，虽然数据录入耗时，但软件能随后迅速处理数据。Lonkila（1995）说明计算机如何通过编码、持续比较、联系、备忘录、图表与验证辅助[[Grounded Theory|扎根理论]]的生成。（28.4）
