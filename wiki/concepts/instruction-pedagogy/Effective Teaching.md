@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

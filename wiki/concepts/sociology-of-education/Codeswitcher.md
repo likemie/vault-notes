@@ -9,7 +9,7 @@ aliases:
 summary: "Bishop兄弟描述的美国学校中在同伴面前遵守try but not too hard规范、私下努力学习的双重行为策略"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

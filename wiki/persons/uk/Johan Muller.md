@@ -7,7 +7,7 @@ summary: "南非裔英国教育社会学家，社会实在论的核心学者之�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 5
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"

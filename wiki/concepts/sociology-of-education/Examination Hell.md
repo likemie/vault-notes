@@ -7,7 +7,7 @@ aliases:
 summary: "描述东亚与部分社会高强度应试选拔的术语。在儒家文化圈中，它是应对亲情道德与公共公平冲突的功能性防腐方案，亦是吸收和转化外来学制的强力重力场"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

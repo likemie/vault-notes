@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 121
+related_count: 122
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"

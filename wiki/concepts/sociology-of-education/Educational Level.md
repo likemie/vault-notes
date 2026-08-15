@@ -6,7 +6,7 @@ aliases:
 summary: "衡量个体接受正规学校教育的时长或最高学历层次的人口学变量。是探究认知发展、社会阶层与人力资本积累的核心解释变量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 1
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -8,7 +8,7 @@ aliases:
 summary: "Feather 提出的社会心理现象，指人们对高成就者失败的幸灾乐祸态度和对突出个体的系统性贬低倾向"
 type: concept
 domain: "sociology-of-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

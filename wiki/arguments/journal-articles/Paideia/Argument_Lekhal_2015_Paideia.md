@@ -12,7 +12,7 @@ title: "Argument_Lekhal_2015_Paideia"
 argument_key: "Argument_Lekhal_2015_Paideia"
 argument_display_title: "Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

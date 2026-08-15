@@ -7,7 +7,7 @@ aliases:
 summary: "跨国学习比较中的概念，指美国学生倾向以能力解释成就而东亚学生倾向以努力解释成就的系统性文化差异"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -8,7 +8,7 @@ aliases:
 summary: "学校管理中关注课程、教学与评估等核心系统，并直接参与教师专业学习与发展以提升学生学业成绩的学校领导模式"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -9,7 +9,7 @@ aliases:
 summary: "将测量工具的结果与外部标准关联以验证效度的方式，包含预测效度和共时效度两种形式，核心逻辑是用一个已知有效的标准来检验未知的工具"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

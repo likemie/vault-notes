@@ -7,7 +7,7 @@ summary: "通过操纵教育处理、项目或实践条件来检验效果及因�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

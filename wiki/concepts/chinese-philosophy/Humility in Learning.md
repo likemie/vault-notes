@@ -8,7 +8,7 @@ aliases:
 summary: "东亚学习传统中的核心美德，以谦逊为内在力量抵御自满，保持持续自省与学习动力"
 type: concept
 domain: "chinese-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

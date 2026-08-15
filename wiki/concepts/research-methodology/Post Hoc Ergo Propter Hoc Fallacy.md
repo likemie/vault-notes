@@ -7,7 +7,7 @@ aliases:
 summary: "一种逻辑谬误，指仅因一个事件在时间上先于另一个事件，就推断前者是后者的原因。是事后回溯研究中的核心风险之一。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

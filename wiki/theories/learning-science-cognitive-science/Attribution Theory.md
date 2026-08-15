@@ -7,9 +7,9 @@ aliases:
 summary: "Weiner (1976) 提出的动机理论，以因果归因解释人们对成就结果的情感和行为反应，包括 locus、stability、control 三个维度"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 4
+theory_related_count: 5
 theory_related_level: 0
-theory_related_stars: "☆"
+theory_related_stars: ""
 theory_related_color: "#e5e7eb"
 tags:
   - theme/motivation

@@ -9,7 +9,7 @@ title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

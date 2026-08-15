@@ -9,9 +9,9 @@ title: "Argument_Laursen_2015_Paideia"
 argument_key: "Argument_Laursen_2015_Paideia"
 argument_display_title: "Er Hattie og co"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Laursen, P. F. (2015). Er Hattie og co. gyldige i Danmark? Paideia, (9), 34–41."

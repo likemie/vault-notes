@@ -7,9 +7,9 @@ summary: "一种结合了验证性因子分析（Confirmatory Factor Analysis, C
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 13
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags: []
 related_concepts:

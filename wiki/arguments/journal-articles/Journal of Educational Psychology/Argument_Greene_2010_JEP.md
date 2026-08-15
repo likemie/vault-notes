@@ -62,9 +62,9 @@ title: "Argument_Greene_2010_JEP"
 argument_key: "Argument_Greene_2010_JEP"
 argument_display_title: "Empirical Evidence Regarding Relations Among a Model of Epistemic and Ontological Cognition, Academic Performance, and Educational Level"
 argument_kind: "journal-article"
-argument_related_count: 3
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Educational Psychology"
 book_title: ""

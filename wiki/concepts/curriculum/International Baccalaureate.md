@@ -7,7 +7,7 @@ aliases:
 summary: "覆盖 3–19 岁的国际课程体系，以建构主义为基础，通过六大学科组与三大核心组件（TOK、EE、CAS）的统合，旨在培养具有国际情怀的终身学习者。"
 type: concept
 domain: "curriculum"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

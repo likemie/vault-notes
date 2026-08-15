@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，表现为缺乏清晰规划、更多依赖直觉和情境反应来应对学习与发展选择。"
 type: concept
 domain: "sociology-of-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

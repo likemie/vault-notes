@@ -5,7 +5,7 @@ aliases:
 summary: "比较不同干预或变量影响强度的标准化统计指标，被广泛用于元分析与证据排序，但其解释边界、聚合方式和政策用途长期存在争议"
 type: concept
 domain: "research-methodology"
-related_count: 64
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
