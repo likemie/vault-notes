@@ -2,7 +2,6 @@
 title: Qualitative Validity
 aliases:
   - 质性效度
-  - qualitative validity
   - 质性研究效度
 summary: "质性研究中研究者通过特定程序检查研究发现准确性的标准，与量化效度、信度和推广度的含义不同"
 type: concept
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Qualitative Validity
@@ -84,5 +83,5 @@ Creswell & Creswell（2022, Ch9）推荐使用多种策略组合来增强研究�
 > 在质性数据分析中，除受访者验证（[[Member Checking]]）外，可诉诸的[[External Validity|外部效度]]检验点往往有限；研究者纳入哪些数据与事件必然涉及个人选择，但这一选择必须对所研究现象公平。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 > [!claim] 效度检验的多重保障
-> 选择、分析与诠释事件和数据虽然不可避免地带有个人的、部分印象式的色彩，但并非仅止于此——它们还受到以下效度检验的约束：纳入其他参与者的观点，并对涉及不止一名研究者的实际事件作忠实记录。数据分析与报告的效度还因以下做法而增强：捕捉不同参与者对情境的不同定义、综合[[Emic and Etic|主位与客位]]分析、以[[Reflexivity|反身性]]减轻"缺乏客观性"的批评。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> 选择、分析与诠释事件和数据虽然不可避免地带有个人的、部分印象式的色彩，但并非仅止于此，它们还受到以下效度检验的约束：纳入其他参与者的观点，并对涉及不止一名研究者的实际事件作忠实记录。数据分析与报告的效度还因以下做法而增强：捕捉不同参与者对情境的不同定义、综合[[Emic and Etic|主位与客位]]分析、以[[Reflexivity|反身性]]减轻缺乏客观性的批评。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 

@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Memos
@@ -57,7 +57,7 @@ updated: 2026-08-14
 > Gibbs（2007, p. 25）指出"写作就是思考"：[[Qualitative Research|质性研究]]应尽早且频繁地开始书写与分析，而不是等资料收集结束后再做。分析本身应标注日期与时间，并可纳入[[Field Notes|田野笔记]]日记，记录研究者当时在做什么、身处何地、发生了什么事、在场者是谁、数据是什么、事件或情境的显著特征、反思与观察（Miles & Huberman, 1994, pp. 50–4）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 > [!info] 备忘录与数据体积
-> Gibbs（2007, p. 4）指出质性数据分析会创造出更多文本——笔记、反思、备忘录、摘要、[[Reflexivity|反身性]]洞见与进一步笔记——从而增加数据的"体积、密度与复杂性"；备忘录既是分析的产物，也构成进一步分析的数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> Gibbs（2007, p. 4）指出质性数据分析会创造出更多文本，包括笔记、反思、备忘录、摘要、[[Reflexivity|反身性]]洞见与进一步笔记，从而增加数据的体积、密度与复杂性；备忘录既是分析的产物，也构成进一步分析的数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 > [!info] [[Qualitative Computer Software|CAQDAS]] 中的备忘录功能
 > 计算机辅助质性数据分析软件支持撰写备忘录，并记录撰写备忘录时的情境细节（LeCompte & Preissle, 1993, pp. 280–1; Flick, 2009, pp. 360–1）；Kelle（2000, p. 295）的软件使用六步流程中，第三步即针对特定数据片段撰写备忘录，第五步是整合已生成的[[Coding in Qualitative Research|编码]]并撰写编码备忘录。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]

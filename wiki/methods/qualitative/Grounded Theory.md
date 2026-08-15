@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Grounded Theory
@@ -47,7 +47,7 @@ updated: 2026-08-14
 ## 定义
 
 > [!info]
-> 扎根理论（Grounded Theory）是一种源自社会学的[[Qualitative Research|质性研究]]设计。研究者通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。其主要代表人物包括 Charmaz（[[Constructivist Paradigm|建构主义]]取向）、Corbin 和 Strauss（系统化取向），以及创始者 Glaser & Strauss（1967）。
+> 扎根理论（Grounded Theory）是一种源自社会学的[[Qualitative Research|质性研究]]设计。通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。其主要代表人物包括 Charmaz（[[Constructivist Paradigm|建构主义]]取向）、Corbin 和 Strauss（系统化取向），以及创始者 Glaser & Strauss（1967）。
 
 ## 研究程序
 
@@ -63,10 +63,10 @@ updated: 2026-08-14
 ## 计算机辅助与系统性分析
 
 > [!info] 系统[[Coding in Qualitative Research|编码]]直到理论浮现
-> 扎根理论分析与内容分析通过一系列系统分析——包括[[Coding in Qualitative Research|编码]]与类别化——直到浮现出解释所研究现象或可用于预测目的的理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> 扎根理论分析与内容分析通过一系列系统分析，包括[[Coding in Qualitative Research|编码]]与类别化，直到浮现出解释所研究现象或可用于预测目的的理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 > [!info] 计算机辅助扎根理论的生成
-> Lonkila（1995）说明计算机如何通过编码、持续比较、联系、备忘录、注释与追加、使用图表、验证，最终生成与建构理论来辅助扎根理论的生成。Kelle（2000, p. 295）的软件使用六步序列以"发展核心范畴"收尾，而核心范畴正是扎根理论的特征。软件与[[Qualitative Computer Software|CAQDAS]]的关系也提示：软件可能更贴近扎根理论技术而非诠释学或[[Discourse Analysis|话语分析]]等其他技术（Coffey et al., 1996）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> Lonkila（1995）说明计算机如何通过编码、持续比较、联系、备忘录、注释与追加、使用图表、验证，最终生成与建构理论来辅助扎根理论的生成。Kelle（2000, p. 295）的软件使用六步序列以发展核心范畴收尾，而核心范畴正是扎根理论的特征。软件与[[Qualitative Computer Software|CAQDAS]]的关系也提示：软件可能更贴近扎根理论技术而非诠释学或[[Discourse Analysis|话语分析]]等其他技术（Coffey et al., 1996）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 ## 研究问题
 

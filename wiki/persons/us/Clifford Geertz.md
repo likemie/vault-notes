@@ -18,7 +18,6 @@ tags:
   - region/global
 related_concepts:
   - "[[Rich and Thick Description]]"
-  - "[[Conatus]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Naturalistic Generalization]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Clifford Geertz

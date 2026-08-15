@@ -69,7 +69,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-08-05
-updated: 2026-08-11
+updated: 2026-08-15
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27
 

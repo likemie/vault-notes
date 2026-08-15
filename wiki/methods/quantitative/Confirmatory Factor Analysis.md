@@ -20,11 +20,13 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Hypothesis]]"
   - "[[Sample Size Determination]]"
+  - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
+  - "[[Chi-Squared Test]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []
@@ -102,7 +104,7 @@ updated: 2026-08-15
 >
 > **符号说明** $\chi^2$ 是模型的卡方值；$df$ 是模型的自由度；$N$ 是样本量。
 >
-> **数学直觉** 传统的卡方检验（$\chi^2$）对大样本量极为敏感，样本一多就容易拒绝模型（即认为拟合不好）。RMSEA 通过除以样本量 $N$ 和自由度 $df$ 进行了除颤修正。它评估的是“近似拟合”：允许模型有微小瑕疵，看它每个自由度上的平均误差有多大。
+> **数学直觉** 传统的[[Chi-Squared Test|卡方检验]]（$\chi^2$）对大样本量极为敏感，样本一多就容易拒绝模型（即认为拟合不好）。RMSEA 通过除以样本量 $N$ 和自由度 $df$ 进行了除颤修正。它评估的是“近似拟合”：允许模型有微小瑕疵，看它每个自由度上的平均误差有多大。
 >
 > **结果怎么读** 误差**越小越好**。业界公认：< .05 代表拟合极好，< .08 代表拟合可接受，> .10 则说明模型存在严重缺陷。
 
@@ -120,7 +122,7 @@ updated: 2026-08-15
 >
 > **这个公式在做什么** 简单粗暴地计算真实数据的相关矩阵（$r_{ij}$）与模型预测的相关矩阵（$\hat{r}_{ij}$）之间的平均差异。
 >
-> **数学直觉** 就是看“模型推算出来的题项相关性”跟“实际问卷收集到的题项相关性”在标准化之后，平均每对变量相差多少。
+> **数学直觉** 就是看“模型推算出来的题项相关性”跟“实际[[Questionnaire|问卷]]收集到的题项相关性”在标准化之后，平均每对变量相差多少。
 >
 > **结果怎么读** 作为残差指标，当然**越小越好**。通常以 < .08 为拟合可接受的黄金法则。
 

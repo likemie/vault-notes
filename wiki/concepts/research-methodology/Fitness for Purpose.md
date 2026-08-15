@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 # Fitness for Purpose
 
@@ -103,7 +103,7 @@ Ch.7 以三种[[Research Purpose|研究目的]]为例，展示了目的适配性
 
 原理适用于单一研究方法和[[Mixed Methods Research|混合方法研究]]——在混合方法中，适配性需要在质性和量化成分之间同时建立内在一致性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 
-在数据分析阶段，目的适配性要求研究者明确希望数据分析完成什么——是描述、描绘、概括、诠释、发现模式、生成主题、理解个体或群体的[[Nomothetic and Idiographic|通则式]]／个例式特征、提出问题、证明、解释与寻求因果、探索、检验、发现异同，还是考察同一议题在不同情境中的运行——因为分析目的决定所进行的分析种类，进而影响分析的撰写方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+在数据分析阶段，目的适配性要求研究者明确希望数据分析完成什么，是描述、描绘、概括、诠释、发现模式、生成主题、理解个体或群体的[[Nomothetic and Idiographic|通则式]]／个例式特征、提出问题、证明、解释与寻求因果、探索、检验、发现异同，还是考察同一议题在不同情境中的运行；因为分析目的决定所进行的分析种类，进而影响分析的撰写方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 ---
 

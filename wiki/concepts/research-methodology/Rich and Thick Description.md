@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Praxis]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Trustworthiness]]"
   - "[[Reliability]]"
   - "[[Qualitative Validity]]"
   - "[[Emic and Etic]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Rich and Thick Description
@@ -78,7 +79,7 @@ updated: 2026-08-14
 > |:-------|:-----|:-----------------|
 > | [[Interpretive Paradigm\|诠释范式]] | 范式基础 | 厚描述是诠释范式从"理解参与者意义"这一认识论承诺出发的方法论落地。 |
 > | 人类主动建构意义 | 范式公理 | 意义的归因是持续演化的——厚描述捕捉这种演化而非定格。 |
-> | [[Lincoln & Guba's Trustworthiness\|Lincoln & Guba的可信度框架]] | 质量标准 | Lincoln & Guba（1985: 189）将厚描述定位为可[[Reliability\|信度]]（[[Qualitative Validity\|trustworthiness]]）的核心操作手段，取代常规信效度概念。 |
+> | [[Trustworthiness\|Lincoln & Guba的可信度框架]] | 质量标准 | Lincoln & Guba（1985: 189）将厚描述定位为可[[Reliability\|信度]]（[[Qualitative Validity\|trustworthiness]]）的核心操作手段，取代常规信效度概念。 |
 > | [[Emic and Etic\|主位进路]] | 方法论区分 | 厚描述服务于主位进路——从内部人视角呈现参与者对世界的理解和感受。 |
 
 ---
@@ -142,21 +143,21 @@ Morrison（1993: 88）进一步指出，通过在一段时间内沉浸于特定�
 ## 厚描述与质性数据分析
 
 > [!info] 厚描述增加而非减少数据
-> Gibbs（2007: 4）指出，质性数据分析非但没有减少数据，反而增加了数据的"体积、密度与复杂性"——它创造出更多文本，如笔记、反思、备忘录、摘要、[[Reflexivity|反身性]]洞见与进一步笔记，正是为了生成厚描述：不仅记述情境中的事件，还记述参与者的意图、策略与能动性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> Gibbs（2007: 4）指出，质性数据分析非但没有减少数据，反而增加了数据的体积、密度与复杂性，它创造出更多文本，如笔记、反思、备忘录、摘要、[[Reflexivity|反身性]]洞见与进一步笔记，正是为了生成厚描述：不仅记述情境中的事件，还记述参与者的意图、策略与能动性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 > [!quote] Geertz：民族志学者铭写社会话语
-> 民族志学者"铭写"社会话语；他把它写下来。这样一来，他就把一件只存在于其发生瞬间的转瞬事件，转化为一种存在于其铭写之中、可以被再次查阅的记述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> 民族志学者铭写社会话语；他把它写下来。这样一来，他就把一件只存在于其发生瞬间的转瞬事件，转化为一种存在于其铭写之中、可以被再次查阅的记述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 >
 > *The ethnographer "inscribes" social discourse; he writes it down... he turns it from a passing event, which exists only in its own moment of occurrence, into an account, which exists in its inscriptions and can be reconsulted. (Geertz, 1973, p. 19)*
 
 > [!feature] [[Ethnography|民族志]]描写的四个特征（Geertz, 1973, pp. 20–1）
 > - **解释性的（interpretive）** 民族志描写本身是一种解释。
 > - **解释的对象是社会话语之流** 它解释的正是社会话语的流动。
-> - **把"所说"从转瞬即逝的场合中救出** 解释在于把社会话语的"所说"从其消逝的场合中救出，并固定在可再度查阅的语汇中。
+> - **把所说从转瞬即逝的场合中救出** 解释在于把社会话语的所说从其消逝的场合中救出，并固定在可再度查阅的语汇中。
 > - **显微镜式的（microscopic）** 民族志描写是显微镜式的，聚焦具体而微小的情境。
 
-> [!warning] 诠释作为"虚构"
-> Geertz（1973, p. 14）指出人类学写作本身就是诠释，而且是二手的、三手的诠释；就此而言它们是"虚构"——"虚构"指它们是"被制作出来的东西"，而非指不真实。这一论断与[[Double Hermeneutic|双重诠释]]相互印证：事实与诠释不可分离，诠释本身可能构成事实或数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> [!warning] 诠释作为虚构
+> Geertz（1973, p. 14）指出人类学写作本身就是诠释，而且是二手的、三手的诠释；就此而言它们是虚构，即它们是某种被制作出来的东西，而非指不真实。这一论断与[[Double Hermeneutic|双重诠释]]相互印证：事实与诠释不可分离，诠释本身可能构成事实或数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 ## 相关研究
 

@@ -24,7 +24,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Rich and Thick Description]]"
   - "[[Visual Data]]"
-  - "[[Conatus]]"
   - "[[Double Hermeneutic]]"
   - "[[Reflexivity]]"
   - "[[Ecological Validity]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Emic and Etic
@@ -74,8 +73,8 @@ updated: 2026-08-14
 ## 核心要素
 
 > [!feature] Emic/Etic 的核心要素
-> - **内部人视角（Emic）** 从文化成员的立场出发，理解其自身的概念范畴、意义系统和行为逻辑。研究者试图"像内部人一样看世界"。
-> - **外部人视角（Etic）** 从研究者自带的范畴和理论框架出发，对文化现象进行跨情境的比较和分析。研究者使用"外部比较的标准"。
+> - **内部人视角（Emic）** 从文化成员的立场出发，理解其自身的概念范畴、意义系统和行为逻辑，试图像内部人一样看世界。
+> - **外部人视角（Etic）** 从研究者自带的范畴和理论框架出发，对文化现象进行跨情境的比较和分析，使用外部比较的标准。
 > - **互补而非对立** 缺乏 emic 则无法理解文化内部逻辑，缺乏 etic 则无法进行跨文化[[Dialogue in Education|对话]]。两者是[[Epistemology|认识论]]策略的连续体而非二元对立。
 > - **语言学基础** 源自音位学（phonemic，特定语言的内部声音系统）与语音学（phonetic，跨语言的普遍声音规律）的类比。
 
@@ -92,7 +91,7 @@ updated: 2026-08-14
 > | [[Rich and Thick Description\|厚描述]] | 核心概念 | 厚描述服务于主位进路——从内部人视角呈现参与者对世界的理解和感受，将读者"传送"到研究现场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 403–404)]] |
 > | [[Visual Data\|视觉数据]] | 相关概念 | 照片同时承载主位与客位意义，既是受访者生活世界的内部呈现（主位），也承载可供外部解读的客位信息。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|(Cohen et al., 2011, 27.2)]] |
 
-在[[Qualitative Research|质性研究]]数据分析与报告阶段，应[[Conatus|努力]]捕捉不同参与者对情境的不同定义，并综合主位与客位分析；由于数据包裹在"社会事件"之中，报告涉及[[Double Hermeneutic|双重诠释]]过程，这一综合正是对"缺乏客观性"批评的回应，也以[[Reflexivity|反身性]]加以支持。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+在[[Qualitative Research|质性研究]]数据分析与报告阶段，应捕捉不同参与者对情境的不同定义，并综合主位与客位分析；由于数据包裹在社会事件之中，报告涉及[[Double Hermeneutic|双重诠释]]过程，这一综合正是对缺乏客观性批评的回应，也以[[Reflexivity|反身性]]加以支持。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 ---
 

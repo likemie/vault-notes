@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Transcription in Qualitative Research
@@ -109,7 +109,7 @@ updated: 2026-08-14
 > - **中断与重音** 记录言语的中断（突然到斟酌）、重音与短语。
 > - **呼吸与非言语** 记录可闻的吸气呼气、非言语活动（如站立、后仰）；从录像转录时记录非言语行为。
 > - **无法解读的噪音** 记录不可解读的噪音（如括号内标"noise"或"unclear noise"）。
-> - **同时说话** 记录多人同时说话（如每位说话者名字后加"together"）。
+> - **同时说话** 记录多人同时说话（如每位说话者名字后加 together）。
 > - **拼写一致与行号** 拼写保持一致以便检索，确保每行或段落编号，留宽页边距与双倍行距供纸本批注。
 >
 > （Atkinson & Heritage, 1999; Flick, 2009, pp. 300–2; Woods, 2010; 引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al., 2011, 28.1]]）

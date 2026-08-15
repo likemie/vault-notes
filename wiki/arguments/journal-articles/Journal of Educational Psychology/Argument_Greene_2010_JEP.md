@@ -16,11 +16,11 @@ isbn: ""
 tags: []
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Ontology]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
   - "[[Educational Level]]"
   - "[[Academic Achievement]]"
-  - "[[Ontology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
   - "[[Hypothesis]]"
@@ -82,7 +82,7 @@ issuing_organization: ""
 > 以往关于个人[[Epistemology|认识论]]（personal epistemology）的研究主要分为发展阶段论与多维系统论，两者虽有重叠但整合不足；此外，关于认识论认知是否具有领域特殊性（domain specificity）的争论仍在继续。核心问题在于，能否构建一个既能容纳多维度定量信念、又能刻画质性发展阶段的整合性概念模型，并证明认识论认知受学科领域及教育经历影响。
 
 > [!claim] 核心主张
-> [[Epistemic and Ontological Cognition|认识论与本体论认知]]（Epistemic and Ontological Cognition, EOC）模型能够有效整合量化信念与质性发展阶段。通过定量测量学生在知识本体与辩护方式上的独立信念维度，并利用[[Factor Mixture Modeling|因子混合模型]]（Factor Mixture Modeling, FMM）对维度得分进行聚类，能够成功还原出理论预设的四个定性发展阶段，即[[Realism in International Relations|现实主义]]者（realist）、教条主义者（dogmatist）、怀疑论者（skeptic）与[[Rationalism in International Relations|理性主义]]者（rationalist）。同时，个体在劣构领域如历史中的认知发展普遍先于数学等良构领域，且[[Educational Level|受教育年限]]和[[Academic Achievement|学业表现]]对认知阶段具有显著的预测作用。
+> [[Epistemic and Ontological Cognition|认识论与本体论认知]]（Epistemic and [[Ontology|Ontological Cognition]], EOC）模型能够有效整合量化信念与质性发展阶段。通过定量测量学生在知识本体与辩护方式上的独立信念维度，并利用[[Factor Mixture Modeling|因子混合模型]]（Factor Mixture Modeling, FMM）对维度得分进行聚类，能够成功还原出理论预设的四个定性发展阶段，即[[Realism in International Relations|现实主义]]者（realist）、教条主义者（dogmatist）、怀疑论者（skeptic）与[[Rationalism in International Relations|理性主义]]者（rationalist）。同时，个体在劣构领域如历史中的认知发展普遍先于数学等良构领域，且[[Educational Level|受教育年限]]和[[Academic Achievement|学业表现]]对认知阶段具有显著的预测作用。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 740名受教育程度各异的学生（中学生至研究生）。

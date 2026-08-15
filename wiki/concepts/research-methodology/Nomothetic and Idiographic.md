@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Nomothetic and Idiographic
@@ -59,7 +59,7 @@ updated: 2026-08-14
 ## 在质性数据分析中的应用
 
 > [!info] 质性数据的通则式与个例式分析
-> 质性数据既可以就其通则式属性加以分析——模式、主题（既有[[Emergence|涌现]]的，也有预先设定的／先验的）、趋势、共性、概括、相似性、行为规律；也可以就其个例式属性加以分析——个体、独特的事件、人、行为、情境、行动与意图。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> 质性数据既可以就其通则式属性加以分析，即模式、主题（既有[[Emergence|涌现]]的，也有预先设定的／先验的）、趋势、共性、概括、相似性、行为规律；也可以就其个例式属性加以分析，即个体、独特的事件、人、行为、情境、行动与意图。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 > [!example] 两种取向的代表
 > - **通则式数据分析** 以 Miles & Huberman（1994）的工作为代表。
