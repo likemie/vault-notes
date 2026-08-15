@@ -132,7 +132,7 @@ updated: 2026-08-14
 > [!concept-lens] 维度整合与领域特殊性
 > 探讨如何将多维独立信念重新整合为发展阶段，并在不同学科之间体现出差异。
 
-> [!claim] Greene et al. (2010)
+> [!claim] [[Argument_Greene_2010_JEP|Greene et al. (2010)]]
 > **多维阶段融合模型与领域特殊性** Greene 等人提出整合性的[[Epistemic and Ontological Cognition|认识论与本体论认知]]（[[Epistemic and Ontological Cognition\|EOC]]）模型，认为“[[Simplicity of Knowledge|知识的简单性]]与确定性”属于[[Ontology|本体论]]层面的分类，而“辩护方式”属于认识论层面。同时，借助量化的多维度测量与[[Factor Mixture Modeling|因子混合模型]]聚类，可以识别出个体的特定信念组合档案，从而映射出其所处的发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者）。研究还证实，认识论发展并非绝对领域一般性，个体在劣构领域（如历史）中的认知往往先于良构领域（如数学）发展。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 245-247)]]
 
 ---

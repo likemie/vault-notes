@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03"
 argument_display_title: "Research Methods in Education · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -39,7 +39,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
-  - "[[Nomothetic and Idiographic]]"
+  - "[[Nomothetic]]"
+  - "[[Idiographic]]"
   - "[[Knowledge Production]]"
   - "[[Research Topic]]"
   - "[[Blue Skies Research]]"
@@ -65,7 +66,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-07-08
+updated: 2026-08-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03
 
@@ -201,7 +202,7 @@ Smith & Glass（1987）将研究（以及与之共享方法的评估）的操作
 > |------|------|------|
 > | **探究动机** | 满足好奇心 | 贡献于解决实际问题 |
 > | **探究目标** | 寻求结论（conclusions） | 导向决策（decisions） |
-> | **法则与描述** | 追求法则（[[Nomothetic and Idiographic\|nomothetic]]），寻找普遍规律 | 仅寻求描述特定事物（idiographic），不追求普遍法则 |
+> | **法则与描述** | 追求法则（[[Nomothetic\|nomothetic]]），寻找普遍规律 | 仅寻求描述特定事物（[[Idiographic\|idiographic]]），不追求普遍法则 |
 > | **解释的角色** | 需要解释为何如此 | 可以在不提供解释的情况下进行有效评估——即判断好坏而不必然解释原因 |
 > | **探究自主性** | 研究者自设问题 | 受客户委托（at the behest of a client） |
 > | **评估对象的属性** | 间接提供社会效用证据 | 直接评估社会效用 |

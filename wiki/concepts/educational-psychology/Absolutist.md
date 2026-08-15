@@ -7,7 +7,7 @@ aliases:
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观的事实。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_theories:
   - "[[Argumentative Reasoning]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
+  - "[[Argument_Kuhn_2000_CD]]"
 status: active
 created: 2026-08-15
 updated: 2026-08-15
@@ -46,3 +47,4 @@ updated: 2026-08-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 在梳理[[Epistemology|认识论]]发展模型时，将其作为反映[[Certainty of Knowledge|知识的确定性]]、简单性及[[Cognitive Source|认知来源]]与辩护的结构性成分。
+> - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 发现这种脱离绝对论的转变首先发生在个人品味和审美领域，但在事实领域（社会和物理事实）面临较大困难。

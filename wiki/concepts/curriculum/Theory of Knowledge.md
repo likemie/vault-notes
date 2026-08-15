@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的核心必修科目（100 小时），通过反思知识本质和思维过程培养批判性思维，不设置固定的知识内容。"
 type: concept
 domain: "curriculum"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_persons:
   - "[[Baruch Spinoza]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
+  - "[[Deanna Kuhn]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments:
@@ -332,7 +333,7 @@ updated: 2026-08-03
 ### 科学教育的知识传递目标可能与自主批判发生冲突
 
 > [!critique-logic] 科学呈现的内部矛盾
-> Alchin 教科书在自然科学部分简化了波普尔式[[Falsification|证伪主义]]，对库恩[[Paradigm|范式]]的使用也不一致。教科书既把证伪视为严格检验，又承认证伪过程复杂且难以形成定论；它为范式设置专章，却在讨论科学时回到累积进步观。教师用书对科学的美化呈现也与 TOK 的自由探究目标形成张力。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 174–178)]]
+> Alchin 教科书在自然科学部分简化了波普尔式[[Falsification|证伪主义]]，对[[Deanna Kuhn|库恩]][[Paradigm|范式]]的使用也不一致。教科书既把证伪视为严格检验，又承认证伪过程复杂且难以形成定论；它为范式设置专章，却在讨论科学时回到累积进步观。教师用书对科学的美化呈现也与 TOK 的自由探究目标形成张力。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 174–178)]]
 
 > [!tension] 科学知识传递与自主批判
 > - **科学教育优先** 批判性思维服务于理解[[Scientific Method|科学方法]]和既有知识，教学需要维持科学知识的可信度与连贯性。

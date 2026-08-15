@@ -8,10 +8,10 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - research-philosophy
   - mixed-methods
@@ -47,6 +47,7 @@ related_methods:
 related_persons:
   - "[[George Herbert Mead]]"
   - "[[John Dewey]]"
+  - "[[Deanna Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -72,7 +73,7 @@ updated: '2026-07-24'
 
 > [!concept-lens] 概念透镜（双层演进脉络）
 > - **第一部分：哲学层面（杜威等）** 先完整回答[[Epistemology|认识论]]与探究论问题，将真理定义为情境行动中经受检验的有效后果与“担保性断言”，强调渐进实验与试错。
-> - **第二部分：方法论层次（Creswell/Morgan 等）** 再延伸解答研究设计与技术选择自由，打破库恩[[Incommensurability|范式不可通约性]]（incommensurability）迷信，为整合量化与质性数据提供合法性。
+> - **第二部分：方法论层次（Creswell/Morgan 等）** 再延伸解答研究设计与技术选择自由，打破[[Deanna Kuhn|库恩]][[Incommensurability|范式不可通约性]]（incommensurability）迷信，为整合量化与质性数据提供合法性。
 > - **边界** 实用主义不是无原则的“怎么都行”（anything goes）；它在哲学层面受限于历史社会情境，在方法论层面要求严格服务于回答研究问题。
 
 > [!citation-card]- 关键表述：实用主义作为实践驱动的研究立场
@@ -121,7 +122,7 @@ updated: '2026-07-24'
 > [!feature] 方法论层次要素
 > - **[[Research Question|研究问题]]驱动** 放弃量化与质性优劣的纯哲学争论，直接判断研究是否成功回答了想了解的问题（Feilzer, 2010: 14）。
 > - **[[Fitness for Purpose|适合目的]]与技术自由** 基于问题需求自由组合最合适的数据收集与分析程序（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
-> - **[[Praxis|实践]]共同体（Community of Practice）** 从库恩[[Paradigm|范式]]论出发，将[[Mixed Methods Research|混合方法研究]]者理解为由共同实用主义标准凝聚的学术共同体（Denscombe, 2008）。
+> - **[[Praxis|实践]]共同体（Community of Practice）** 从[[Deanna Kuhn|库恩]][[Paradigm|范式]]论出发，将[[Mixed Methods Research|混合方法研究]]者理解为由共同实用主义标准凝聚的学术共同体（Denscombe, 2008）。
 
 > [!logic-map]- 从哲学层面到方法论层次的推演图
 > ```mermaid
@@ -216,7 +217,7 @@ updated: '2026-07-24'
 > [!debates] 学术争议
 >
 > > [!axis] [[Incommensurability|范式不可通约性]]与方法论折中主义（方法论层次）
-> > 传统[[Positivism|实证主义]]与[[Constructivist Paradigm|建构主义]]学者质疑[[Mixed Methods Research|混合方法]]是否打破了库恩[[Paradigm|范式]]的不可通约性（incommensurability），担心将不同[[Ontology|本体论假设]]混用会导致逻辑不自洽。
+> > 传统[[Positivism|实证主义]]与[[Constructivist Paradigm|建构主义]]学者质疑[[Mixed Methods Research|混合方法]]是否打破了[[Deanna Kuhn|库恩]][[Paradigm|范式]]的不可通约性（incommensurability），担心将不同[[Ontology|本体论假设]]混用会导致逻辑不自洽。
 > >
 > > - **Guba & Lincoln (1994)** 认为范式具有不可调和的[[Epistemology|认识论]]根基。
 > > - **Denscombe (2008)** 主张将混合方法理解为[[Praxis|实践]]共同体，以效用与[[Fitness for Purpose|适合目的]]超越教条对立。

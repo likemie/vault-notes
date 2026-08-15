@@ -19,6 +19,7 @@ tags:
   - research-methodology
   - software
 related_concepts:
+  - "[[Reflexivity]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
@@ -26,7 +27,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
-  - "[[Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Grounded Theory]]"
   - "[[Discourse Analysis]]"
@@ -46,11 +46,14 @@ updated: 2026-08-16
 ## 定义
 
 > [!info]
-> 质性计算机软件（Qualitative Computer Software），即计算机辅助质性数据分析软件（Computer Assisted Qualitative Data Analysis Software，CAQDAS），是用于辅助质性数据分析的计算机程序，帮助研究者组织、排序和搜索文本或图像数据库中的信息（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.206）。这些程序可以显著提高[[Coding in Qualitative Research|编码]]效率，但软件本身并不进行数据分析，分析的责任始终在研究者身上。正如 Kelle（2004, p. 277）所言，软件与其说是分析文本，不如说是组织和结构化文本以供后续分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> 质性计算机软件（Qualitative Computer Software），即计算机辅助质性数据分析软件（Computer Assisted Qualitative Data Analysis Software，CAQDAS），是用于辅助质性数据分析的计算机程序，帮助研究者组织、排序和搜索文本或图像数据库中的信息（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.206）。传统 CAQDAS（NVivo、MAXQDA、ATLAS.ti 等）主要提高[[Coding in Qualitative Research|编码]]效率，本身并不进行数据分析；Kelle（2004, p. 277）曾称软件与其说是分析文本，不如说是组织和结构化文本以供后续分析。这一判断如今已部分过时，LLM 辅助工具已能承担编码与主题抽取等机械分析环节（见下文），但诠释与效度判断仍属研究者职责。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+
+> [!info] 当下的新进展：LLM 辅助质性编码
+> 传统 CAQDAS 主要负责数据组织、编码与检索，分析仍靠研究者完成。近年来大语言模型（large language model，LLM）已能直接参与质性分析的机械环节，包括自动生成与建议编码、对文本片段归类、抽取主题与摘要、进行持续比较等，显著降低手工编码负担。研究者仍须对 LLM 输出负责：校验编码一致性、保留[[Reflexivity|反身性]]与诠释、报告使用方式与局限（如幻觉、语境丢失、刻板偏误）。这一进展部分缓解了 Kelle 关于算法式诠释存在严格限度的旧判断，但诠释与效度判断仍属研究者职责。
 
 ## 主要用途
 
-LeCompte & Preissle（1993, pp. 280–1; Flick, 2009, pp. 360–1）归纳了计算机技术辅助[[Qualitative Research|质性研究]]的多种用途：
+LeCompte & Preissle（1993, pp. 280–1; Flick, 2009, pp. 360–1）归纳的计算机辅助用途，至今仍是 NVivo、MAXQDA、ATLAS.ti 等主流软件的基础能力：
 
 > [!feature] CAQDAS 的主要用途
 > - **记录与[[Transcription in Qualitative Research|转录]]** 记笔记；转录[[Field Notes|田野笔记]]与音频数据。
@@ -98,8 +101,8 @@ Kelle（2000, p. 295）给出使用软件编码数据的六步序列：
 
 ## 争议与局限
 
-> [!warning] 软件不替代分析
-> 计算机并不能消除人的参与：人仍需决定并生成[[Coding in Qualitative Research|编码]]与类别、验证并诠释数据。"文本的算法式诠释存在严格限度"（Kelle, 2004, p. 277），因为文本所含多于可机械检查的内容。CAQDAS 不执行分析，只通过组织数据、记录编码与节点来支持研究者进行分析；它更像文字处理器与整理器，而非分析工具（Flick, 2009, p. 359）。García-Horta & Guerra-Ramos（2009, pp. 152–3）进一步指出，质性软件不能替代研究者赋予意义、识别异同、建立关系的能力，迄今没有软件能处理意义的生成、数据诠释、类别推断、编码决策与对分析结果的诠释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+> [!warning] 软件不替代分析（传统论断）
+> 这是针对以[[Coding in Qualitative Research|编码]]与检索为核心的旧一代软件的经典论断：计算机并不能消除人的参与，人仍需决定并生成[[Coding in Qualitative Research|编码]]与类别、验证并诠释数据。Kelle（2004, p. 277）称文本的算法式诠释存在严格限度，因为文本所含多于可机械检查的内容；Flick（2009, p. 359）认为它更像文字处理器与整理器，而非分析工具；García-Horta & Guerra-Ramos（2009, pp. 152–3）进一步指出质性软件不能替代研究者赋予意义、识别异同、建立关系的能力。LLM 辅助工具的兴起已部分改变此格局（见前文），但诠释与效度判断仍属研究者职责。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
 
 > [!warning] 软件可能驱动分析
 > 多项批评指出软件可能驱动分析而非相反（Crowley et al., 2002; Fielding & Lee, 1998），并过分专注于编码类别（Seidel & Kelle, 1995）。Richards（2002, pp. 266, 269）指出许多软件包聚焦于编码与检索技术，可能诱使研究者选择编码与模式化而忽视对文本更复杂的追问；许多研究者其实更愿意迭代式地审视文本而非使用编码技术（p. 270）。Kelle（2004, p. 283）认为软件背后的[[Hypothesis|假设]]可能不符合研究者的意图，且软件更贴近[[Grounded Theory|扎根理论]]而非诠释学或[[Discourse Analysis|话语分析]]等其他技术（Coffey et al., 1996）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
@@ -131,10 +134,10 @@ Creswell & Creswell（2022, Ch9）列举了以下常用软件：
 
 ### 手动编码 vs 计算机辅助编码
 
-手动编码是一个费力且耗时的过程，即使只有少数参与者的数据也是如此。计算机辅助编码可能更快、更高效，且可以快速定位所有相同编码的段落。然而，学习软件需要时间和技能投入，广泛的学习用书虽然可获得但仍然是一项前期成本（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
+手动编码是一个费力且耗时的过程，即使只有少数参与者的数据也是如此。计算机辅助编码更快、更高效，可快速定位所有相同编码的段落；LLM 辅助工具更进一步，能自动生成编码建议与主题抽取，显著降低手工负担。然而，学习软件需要时间和技能投入，广泛的学习用书虽然可获得但仍然是一项前期成本（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 > [!warning]
-> 软件程序不会分析数据；分析的进行是研究者的责任。软件是工具，不是替代品（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
+> 传统 CAQDAS 是工具而非分析替代品，分析责任在研究者；LLM 辅助工具虽已承担部分机械分析，最终诠释与效度判断仍属研究者职责（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。
 
 ---
 

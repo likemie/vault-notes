@@ -40,7 +40,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Researcher as Key Instrument]]"
   - "[[Emergent Design]]"
-  - "[[Nomothetic and Idiographic]]"
+  - "[[Idiographic]]"
   - "[[Research Scope]]"
   - "[[Trustworthiness]]"
   - "[[Reliability]]"
@@ -117,7 +117,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
-updated: 2026-07-11
+updated: 2026-08-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11
 
@@ -204,7 +204,7 @@ Lincoln & Guba（1985: 39–43）将这些公理转化为以下几组操作性�
 > | 含义 | 说明 |
 > |------|------|
 > | [[Case Study\|案例研究]]为自然报告模式 | 案例研究能容纳厚描述和默会知识，是主位探究的理想载体。 |
-> | [[Nomothetic and Idiographic\|个体描述]]取代法则描述 | 从追求普遍法则转向捕捉特定情境的独特性和丰富性。 |
+> | [[Idiographic\|个体描述]]取代法则描述 | 从追求普遍法则转向捕捉特定情境的独特性和丰富性。 |
 
 ---
 

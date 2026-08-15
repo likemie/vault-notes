@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 81
+argument_related_count: 83
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -48,7 +48,8 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
-  - "[[Nomothetic and Idiographic]]"
+  - "[[Nomothetic]]"
+  - "[[Idiographic]]"
   - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Variable]]"
@@ -103,6 +104,7 @@ related_methods:
 related_persons:
   - "[[Aristotle]]"
   - "[[Francis Bacon]]"
+  - "[[Deanna Kuhn]]"
   - "[[Thomas Kuhn]]"
   - "[[Auguste Comte]]"
   - "[[Søren Kierkegaard]]"
@@ -118,7 +120,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-16
-updated: 2026-07-08
+updated: 2026-08-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01
 
@@ -215,7 +217,7 @@ Hitchcock and Hughes (1995: 21)的框架提出了一个严格的层级推导关�
 
 ### 步骤 2：以库恩的范式概念统摄方法论之争
 
-库恩([[Thomas Kuhn]], 1962)的[[Paradigm]]概念为理解不同研究传统之间的关系提供了一个核心框架(pp.133–141)：
+[[Deanna Kuhn|库恩]]([[Thomas Kuhn]], 1962)的[[Paradigm]]概念为理解不同研究传统之间的关系提供了一个核心框架(pp.133–141)：
 
 > [!abstract] 范式的多重含义
 > 范式是一种看待或研究现象的方式，一种世界观，一种关于什么算作被接受或正确的科学知识或工作方式的观点，一种"被接受的模型或模式"(Kuhn, 1962, p. 23)，一种共享的信念体系或原则集合，一个研究共同体的身份标识，一种追求知识的方式，对研究什么问题以及如何研究这些问题的共识，典型的问题解决方案，以及一种比其竞争对手更容易被接受的理解。
@@ -267,7 +269,7 @@ Burrell & Morgan (1979)的[[Burrell and Morgan Four Assumptions Framework|四组
 > | **本体论** | 实在论(realism)：社会实在是外在于个体的客观存在，强加于意识之上。组织是真实的实体，有自身的生命。 | 唯名论(nominalism)：思想的对象只是词语，不存在独立于知者的可及事物。组织是被发明的社会实在。 |
 > | **认识论** | 知识是硬性的、客观的、可触知的。研究者扮演观察者角色，效忠自然科学方法。 | 知识是个人的、主观的、独特的。研究者投入研究对象，拒绝自然科学家的方式。 |
 > | **人性** | 决定论(determinism)：人机械地、决定性地对环境做出反应，像提线木偶一样被环境控制。 | 意志论(voluntarism)：人是自身行动的发起者，具有自由意志和创造力，创造自己的环境。 |
-> | **方法论** | 通则式([[Nomothetic and Idiographic\|nomothetic]])：以量化分析为主，寻求普遍法则。通过数学建模和量化分析来抽象现实。 | 个例式(idiographic)：关注独特个体案例的理解。通过语言和意义的分析来呈现现实以便比较。 |
+> | **方法论** | 通则式([[Nomothetic\|nomothetic]])：以量化分析为主，寻求普遍法则。通过数学建模和量化分析来抽象现实。 | 个例式([[Idiographic\|idiographic]])：关注独特个体案例的理解。通过语言和意义的分析来呈现现实以便比较。 |
 
 > [!example]- 图1.1：主观–客观维度
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_1-1_Subjective-Objective_Dimension.jpg)

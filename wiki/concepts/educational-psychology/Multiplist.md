@@ -7,7 +7,7 @@ aliases:
 summary: "论辩推理模型中的中间认识论立场，认为所有观点都同等有效。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_theories:
   - "[[Argumentative Reasoning]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
+  - "[[Argument_Kuhn_2000_CD]]"
 status: active
 created: 2026-08-15
 updated: 2026-08-15
@@ -46,3 +47,4 @@ updated: 2026-08-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 在梳理[[Epistemology|认识论]]发展模型时，将其作为反映[[Certainty of Knowledge|知识的确定性]]、简单性及[[Cognitive Source|认知来源]]与辩护的结构性成分。
+> - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 发现多元论在个人品味和审美领域最容易达成；但许多成年人在价值观领域停留在多元论，无法继续向评价论转变。

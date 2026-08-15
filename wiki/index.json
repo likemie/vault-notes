@@ -2407,13 +2407,22 @@
     ]
   },
   {
-    "title": "Evaluatist",
+    "title": "Epistemological Understanding",
     "type": "concept",
-    "path": "wiki/concepts/educational-psychology/Evaluatist.md",
+    "path": "wiki/concepts/educational-psychology/Epistemological Understanding.md",
+    "aliases": [
+      "认识论理解",
+      "epistemological understanding"
+    ]
+  },
+  {
+    "title": "Evaluativist",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Evaluativist.md",
     "aliases": [
       "评价论者",
-      "evaluatist",
-      "evaluatists"
+      "evaluativist",
+      "evaluativists"
     ]
   },
   {
@@ -6518,6 +6527,16 @@
     ]
   },
   {
+    "title": "Idiographic",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Idiographic.md",
+    "aliases": [
+      "个例式",
+      "个例式取向",
+      "idiographic approach"
+    ]
+  },
+  {
     "title": "Incommensurability",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Incommensurability.md",
@@ -6980,17 +6999,14 @@
     ]
   },
   {
-    "title": "Nomothetic and Idiographic",
+    "title": "Nomothetic",
     "type": "concept",
-    "path": "wiki/concepts/research-methodology/Nomothetic and Idiographic.md",
+    "path": "wiki/concepts/research-methodology/Nomothetic.md",
     "aliases": [
-      "通则式与个例式",
-      "nomothetic",
-      "idiographic",
-      "nomothetic approach",
-      "idiographic approach",
       "通则式",
-      "个例式"
+      "通则式取向",
+      "nomothetic approach",
+      "法则式"
     ]
   },
   {
@@ -13091,6 +13107,15 @@
     ]
   },
   {
+    "title": "Deanna Kuhn",
+    "type": "person",
+    "path": "wiki/persons/us/Deanna Kuhn.md",
+    "aliases": [
+      "库恩",
+      "Kuhn, D."
+    ]
+  },
+  {
     "title": "Donald A. Schön",
     "type": "person",
     "path": "wiki/persons/us/Donald A. Schön.md",
@@ -16563,6 +16588,11 @@
     "title": "Argument_Schaffar_2024_CogentEdu",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Cogent Education/Argument_Schaffar_2024_CogentEdu.md"
+  },
+  {
+    "title": "Argument_Kuhn_2000_CD",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md"
   },
   {
     "title": "Argument_Beech_2009_CE",

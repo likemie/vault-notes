@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学与非科学的划界标准，主张科学理论的标志不是可被证实而是可被证伪，即理论必须明确什么经验证据将构成对它的反驳"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,7 +34,8 @@ related_concepts:
 related_theories:
   - "[[Duhem-Quine Thesis]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Deanna Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -57,7 +58,7 @@ updated: 2026-07-11
 > [!concept-lens] 概念透镜
 > - **含义** 证伪主义是一种科学哲学立场，核心主张是：科学理论的价值不在于它能被经验证据证实，而在于它明确指出了哪些可能的观察结果会构成对它的反驳——即它承担了被证伪的风险。
 > - **用途** 它帮助研究者区分科学与非科学（划界问题），指导[[Hypothesis|研究假设]]的检验设计，要求理论提出者事先说明什么证据将推翻该理论。
-> - **边界** 证伪主义不等于"所有科学理论都应该被证伪"。它所描述的是科学理论的逻辑结构（必须可证伪），而非科学的实际历史进程。科学史上，理论经常在反常面前被保护而非被放弃——这是库恩常规科学概念的核心洞察。证伪主义也无法处理迪昂-蒯因的不完全决定性问题：孤立的假说从来不能被单独检验。
+> - **边界** 证伪主义不等于"所有科学理论都应该被证伪"。它所描述的是科学理论的逻辑结构（必须可证伪），而非科学的实际历史进程。科学史上，理论经常在反常面前被保护而非被放弃——这是[[Deanna Kuhn|库恩]]常规科学概念的核心洞察。证伪主义也无法处理迪昂-蒯因的不完全决定性问题：孤立的假说从来不能被单独检验。
 
 ---
 

@@ -2763,6 +2763,44 @@
       "title": "Argument_Kraft_2023_ER",
       "year": "2023"
     },
+    "Kuhn et al. (2000)": {
+      "aliases": [
+        "Kuhn et al., 2000",
+        "Kuhn et al. (2000)"
+      ],
+      "argument": "Argument_Kuhn_2000_CD",
+      "authors": [
+        "[[Deanna Kuhn|Kuhn, D.]]",
+        "Cheney, R.",
+        "Weinstock, M."
+      ],
+      "citation": "Kuhn, D., Cheney, R., & Weinstock, M. (2000). The development of epistemological understanding. Cognitive Development, 15(3), 309–328.",
+      "doi": "10.1016/S0885-2014(00)00030-7",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md",
+      "source_language": "en",
+      "title": "Argument_Kuhn_2000_CD",
+      "year": "2000"
+    },
+    "Kuhn et al., 2000": {
+      "aliases": [
+        "Kuhn et al., 2000",
+        "Kuhn et al. (2000)"
+      ],
+      "argument": "Argument_Kuhn_2000_CD",
+      "authors": [
+        "[[Deanna Kuhn|Kuhn, D.]]",
+        "Cheney, R.",
+        "Weinstock, M."
+      ],
+      "citation": "Kuhn, D., Cheney, R., & Weinstock, M. (2000). The development of epistemological understanding. Cognitive Development, 15(3), 309–328.",
+      "doi": "10.1016/S0885-2014(00)00030-7",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md",
+      "source_language": "en",
+      "title": "Argument_Kuhn_2000_CD",
+      "year": "2000"
+    },
     "Lakhani (2012)": {
       "aliases": [
         "Lakhani, 2012",

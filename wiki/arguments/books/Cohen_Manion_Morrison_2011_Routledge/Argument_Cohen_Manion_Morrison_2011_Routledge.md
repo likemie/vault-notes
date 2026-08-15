@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 184
+argument_related_count: 185
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -108,7 +108,8 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Double Hermeneutic]]"
-  - "[[Nomothetic and Idiographic]]"
+  - "[[Nomothetic]]"
+  - "[[Idiographic]]"
   - "[[Statistical Significance]]"
   - "[[Descriptive Analysis]]"
   - "[[Probes]]"
@@ -223,7 +224,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-08-14
+updated: 2026-08-16
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
@@ -265,7 +266,7 @@ updated: 2026-08-14
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|第26章 Role-playing]] | 系统介绍[[Role-playing\|角色扮演]]作为研究方法的理论基础、操作程序与伦理问题。角色扮演从心理剧（Moreno, 1939）衍生，包含简报—表演—脱离角色三阶段，以八项设计原则组织场景。[[Self-spectator\|自观]]和[[Dramatic Tension\|戏剧张力]]是保护参与者和提升资料质量的关键策略。[[Stanford Prison Experiment]]是自观失败的经典反面案例。三项实证研究分别比较了角色扮演与讲授的效果、角色扮演作为期末考试的有效性，以及数字录像对反思质量的促进作用。 | [[Role-playing]]、[[Self-spectator]]、[[Dramatic Tension]]、[[Stanford Prison Experiment]] |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|第27章 Visual media in educational research]] | 系统介绍以[[Visual Data\|视觉媒体]]收集教育研究资料的原理与程序：Prosser & Loxley 四类视觉数据、图像的生产—图像—受众三重维度与[[Visual Data\|选择性]]、[[Photo-elicitation\|照片引谈法]]、录像研究的镜头选择与 Flick 五类情境、[[Artefact\|器物]]在[[Organizational Culture\|组织文化]]中的多重解读，以及视觉研究特有的[[Informed Consent\|知情同意]]挑战与匿名化伦理。 | [[Visual Data]]、[[Visual Research Methods]]、[[Photo-elicitation]]、[[Artefact]]、[[Organizational Culture]] |
 > | **Part 5 数据分析** | | |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|第28章 Approaches to qualitative data analysis]] | 系统介绍质性数据分析的多种进路：目的适配原则下分析与诠释融合、[[Transcription in Qualitative Research\|转录]]选择与规范、早期分析与渐进聚焦、[[Rich and Thick Description\|厚描述]]与[[Double Hermeneutic\|双重诠释]]、[[Nomothetic and Idiographic\|通则式与个例式]]分析、数据分析的伦理约束，以及 [[Qualitative Computer Software\|CAQDAS]] 的用途、Kelle 六步流程与软件争议。 | [[Fitness for Purpose]]、[[Rich and Thick Description]]、[[Double Hermeneutic]]、[[Qualitative Computer Software]]、[[Reflexivity]] |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|第28章 Approaches to qualitative data analysis]] | 系统介绍质性数据分析的多种进路：目的适配原则下分析与诠释融合、[[Transcription in Qualitative Research\|转录]]选择与规范、早期分析与渐进聚焦、[[Rich and Thick Description\|厚描述]]与[[Double Hermeneutic\|双重诠释]]、[[Nomothetic\|通则式]]与[[Idiographic\|个例式]]分析、数据分析的伦理约束，以及 [[Qualitative Computer Software\|CAQDAS]] 的用途、Kelle 六步流程与软件争议。 | [[Fitness for Purpose]]、[[Rich and Thick Description]]、[[Double Hermeneutic]]、[[Qualitative Computer Software]]、[[Reflexivity]] |
 > | 第29章 Organizing and presenting qualitative data | | |
 > | 第30章 Coding and content analysis | | |
 > | 第31章 Discourses: conversations, narratives and autobiographies as texts | | |

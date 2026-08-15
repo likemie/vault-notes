@@ -28,6 +28,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
+  - "[[Evaluativist]]"
   - "[[Questionnaire]]"
   - "[[Construct Validity]]"
   - "[[Variable]]"
@@ -62,9 +63,9 @@ title: "Argument_Greene_2010_JEP"
 argument_key: "Argument_Greene_2010_JEP"
 argument_display_title: "Empirical Evidence Regarding Relations Among a Model of Epistemic and Ontological Cognition, Academic Performance, and Educational Level"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Educational Psychology"
 book_title: ""
@@ -150,7 +151,7 @@ issuing_organization: ""
 > | [[Realism in International Relations\|现实主义]]者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
 > | 绝对主义者（[[Absolutist]]） | 可直接认知 | 确定，来自外部来源 | 用于确定谁是“正确的” | 可对可错的事实 |
 > | 多元主义者（[[Multiplist]]） | 无法直接认知 | 不确定，来自人类心智 | 不相关 | 不可质疑的观点 |
-> | 评价主义者（Evaluativist） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
+> | 评价主义者（[[Evaluativist]]） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
 > 
 > *核心看点：此表呈现了传统的认识论发展阶段。作者指出，这四个定性的阶段本质上可以被拆解为个体对客观现实、知识来源及评价机制的不同信念维度的强弱组合。*
 > *来源：[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 235*

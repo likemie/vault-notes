@@ -16,7 +16,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Subjectivism]]"
   - "[[Critical Thinking]]"
-  - "[[Evaluatist]]"
+  - "[[Evaluativist]]"
   - "[[Reflexivity]]"
 related_theories:
   - "[[Argumentative Reasoning]]"
@@ -76,6 +76,6 @@ updated: 2026-08-14
 
 > [!dev-timeline] 概念演变
 > 相较于其他三个维度，该维度主要由较晚期、更侧重高阶认知技能的模型所确立。
-> - **1991 年 — 论辩中的专长审视** Kuhn (1991) 提出了[[Argumentative Reasoning|论辩推理]]模型，指出[[Evaluatist|评价论者]]（evaluatists）超越了绝对论的盲从和多元论的虚无，能够基于相对优劣来评估专家的专长和不同的知识主张。
+> - **1991 年 — 论辩中的专长审视** Kuhn (1991) 提出了[[Argumentative Reasoning|论辩推理]]模型，指出[[Evaluativist|评价论者]]（evaluatists）超越了绝对论的盲从和多元论的虚无，能够基于相对优劣来评估专家的专长和不同的知识主张。
 > - **1994 年 — 劣构问题的反思判断** King & Kitchener (1994) 在研究[[Reflexivity|反思性]]判断（Reflective Judgment）时，明确将个体“如何为劣构问题提供辩护”作为核心。高阶认知者能结合多种视角，运用批判性质询进行概率性辩护。
 > - **1997 年 — 统合为最高阶维度** [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 在重构[[Epistemological Theories|认识论理论]]框架时，将 [[Thomas Kuhn|Kuhn]] 和 King & Kitchener 对评价机制的研究吸收，确立了“认知的辩护”维度。这是区分高阶认知者（能否理性权衡证据）与中阶认知者（陷入相对主义虚无）的关键标尺。

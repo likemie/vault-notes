@@ -4,10 +4,10 @@ aliases: [不可通约性, incommensurable, 范式不可通约性, paradigm inco
 summary: "库恩范式理论的核心机制，指不同范式之间不存在共同的原则、标准或衡量尺度，因此无法用同一套标准比较优劣。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [theme/philosophy-of-science, theme/epistemology, paradigm/postpositivist]
 related_concepts:
   - "[[Paradigm]]"
@@ -20,7 +20,8 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Mixed Methods Research]]"
-related_persons: []
+related_persons:
+  - "[[Deanna Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -35,7 +36,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 不可通约性（Incommensurability）
-> 库恩（Thomas Kuhn, 1962）[[Paradigm|范式]]理论的核心机制：不同范式之间不存在共同的原则、标准或衡量尺度（there is no common asset of principles, standards or measures），因此一个人不能同时持有两个截然不同的范式（one cannot hold two distinct paradigms simultaneously）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。不可通约性意味着范式之间无法用同一套标准来比较优劣——选择一种范式，就是选择了一整套关于实在、知识和方法的根本信念，而非仅仅选择一种研究工具（, Ch. 1）。
+> [[Deanna Kuhn|库恩]]（Thomas Kuhn, 1962）[[Paradigm|范式]]理论的核心机制：不同范式之间不存在共同的原则、标准或衡量尺度（there is no common asset of principles, standards or measures），因此一个人不能同时持有两个截然不同的范式（one cannot hold two distinct paradigms simultaneously）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。不可通约性意味着范式之间无法用同一套标准来比较优劣——选择一种范式，就是选择了一整套关于实在、知识和方法的根本信念，而非仅仅选择一种研究工具（, Ch. 1）。
 
 ## 经典体现
 

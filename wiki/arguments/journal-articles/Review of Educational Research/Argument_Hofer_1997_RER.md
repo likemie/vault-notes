@@ -39,7 +39,7 @@ related_concepts:
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Subjectivism]]"
-  - "[[Evaluatist]]"
+  - "[[Evaluativist]]"
   - "[[Conatus]]"
   - "[[Rote Learning]]"
 related_theories:
@@ -237,7 +237,7 @@ Deanna Kuhn (1991) 将认识论的研究扩展到了日常非正式推理，通�
 > 
 >   对专长持怀疑态度，陷入极端[[Subjectivism|主观主义]]，认为所有观点等价。
 > 
-> - **[[Evaluatist|评价论者]]（evaluatists）**
+> - **[[Evaluativist|评价论者]]（evaluatists）**
 > 
 >   否认绝对知识但承认专长，认为不同观点可以基于相对优劣被评估与比较。
 

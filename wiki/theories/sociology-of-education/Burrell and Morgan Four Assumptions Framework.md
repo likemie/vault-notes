@@ -4,7 +4,7 @@ aliases: [伯勒尔和摩根四组假设框架, Burrell and Morgan framework, �
 summary: "Burrell and Morgan (1979) 提出的分析社会研究范式差异的理论框架，以本体论、认识论、人性和方法论四组假设沿主观–客观维度排列，揭示一切方法论的差异根植于更深层的哲学假设差异。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -15,7 +15,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
-  - "[[Nomothetic and Idiographic]]"
+  - "[[Nomothetic]]"
+  - "[[Idiographic]]"
   - "[[Praxis]]"
 related_theories: []
 related_methods:
@@ -28,7 +29,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-07-11
+updated: 2026-08-16
 ---
 
 # Burrell and Morgan Four Assumptions Framework
@@ -47,7 +48,7 @@ updated: 2026-07-11
 > | **[[Ontology\|本体论]]** | 实在论（realism）：社会实在是外在于个体的客观存在 | 唯名论（nominalism）：思想的对象只是词语，组织是被发明的社会实在 |
 > | **[[Epistemology\|认识论]]** | 知识是硬性的、客观的、可触知的。研究者扮演观察者角色 | 知识是个人的、主观的、独特的。研究者投入研究对象 |
 > | **人性** | 决定论（determinism）：人像提线木偶一样被环境控制 | 意志论（voluntarism）：人是自身行动的发起者，具有自由意志 |
-> | **方法论** | 通则式（[[Nomothetic and Idiographic\|nomothetic]]）：以量化分析为主，寻求普遍法则 | 个例式（idiographic）：关注独特个体案例的理解 |
+> | **方法论** | 通则式（[[Nomothetic\|nomothetic]]）：以量化分析为主，寻求普遍法则 | 个例式（[[Idiographic\|idiographic]]）：关注独特个体案例的理解 |
 
 ## 推导逻辑
 

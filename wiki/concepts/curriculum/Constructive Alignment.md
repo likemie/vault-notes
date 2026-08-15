@@ -328,10 +328,10 @@ updated: '2026-08-03'
 > [!dev-timeline] 建构性对齐的形成与扩展
 > - **1993—1996 年：系统教学观形成**　Biggs 将学生学习、教学情境和评估理解为相互作用的系统，并在 1996 年以建构性对齐为题系统阐释这一设计思想。[[Argument_Biggs_1999_HERD|(Biggs, 1999, p. 64)]]
 > - **1999 年：操作框架完整化**　Biggs 把[[Constructivist Paradigm|建构主义]]前提、目标动词、[[Criterion-Referenced Test|标准参照评估]]、教学／学习活动、[[SOLO Taxonomy|SOLO]] 层级和[[Assessment Backwash|评估反拨]]整合起来，并以 [[Problem-Based Learning|PBL]] 与[[Learning Portfolio|学习档案袋]]展示两种实现路径。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 63–73)]]
-> - **2015 年：与[[Visible Learning|可见的学习]]框架衔接**　Hattie 在高等教育讨论中强调预先公开成功标准、根据学生已有基础安排教学、协调表层与[[Surface and Deep Learning|深层学习]]，并用评估结果判断自身教学产生的影响。该框架强化了目标透明、评估一致和反馈循环，但其[[Meta-analysis|元分析]]综合并未直接检验完整的建构性对齐系统。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015, pp. 80–89)]]
+> - **2015 年：与[[Visible Learning|可见的学习]]框架衔接**　Hattie 在高等教育讨论中强调预先公开成功标准、根据学生已有基础安排教学、协调表层与[[Surface and Deep Learning|深层学习]]，并用评估结果判断自身教学产生的影响。该框架强化了目标透明、评估一致和反馈循环，但其[[Meta-analysis|元分析]]综合并未直接检验完整的建构性对齐系统。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, pp. 80–89)]]
 
 > [!implication]- 成功标准与反馈循环
-> Hattie (2015) 进一步强调，教师应在教学和评估开始前公开成功标准。学生需要提前知道课程要求形成什么理解，以及达到什么样的表现才算成功。如果这些标准直到评估结果返回后才显现，学生就无法据此安排学习、理解反馈或调整后续行动。成功标准说明学习目标，评估反映学生目前达到的水平，反馈则指出下一步的改进方向。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015, pp. 86–89)]]
+> Hattie (2015) 进一步强调，教师应在教学和评估开始前公开成功标准。学生需要提前知道课程要求形成什么理解，以及达到什么样的表现才算成功。如果这些标准直到评估结果返回后才显现，学生就无法据此安排学习、理解反馈或调整后续行动。成功标准说明学习目标，评估反映学生目前达到的水平，反馈则指出下一步的改进方向。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, pp. 86–89)]]
 
 ---
 
@@ -339,7 +339,7 @@ updated: '2026-08-03'
 
 > [!tension] 对齐机制的案例论证　⇄　教学方法的平均效应
 > - **Biggs 的机制论证**　[[Problem-Based Learning|PBL]] 能够使专业目标、问题解决活动和案例评估保持一致，因此是自上而下对齐的典型案例。该判断说明这种方法如何实现对齐；原文没有提供比较样本，也没有估计平均因果效应。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 70–72)]]
-> - **Hattie 的效果综合**　Hattie 汇总 9 项 PBL [[Meta-analysis|元分析]]，得到的综合效应约为 d = 0.08，并指出低年级学生掌握知识的效果可能受到不利影响。仅凭教学法名称或课堂形式，无法保证取得较高的平均效果；先备知识、成功标准、反馈和实施方式仍需分别检查。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015, pp. 84–85)]]
+> - **Hattie 的效果综合**　Hattie 汇总 9 项 PBL [[Meta-analysis|元分析]]，得到的综合效应约为 d = 0.08，并指出低年级学生掌握知识的效果可能受到不利影响。仅凭教学法名称或课堂形式，无法保证取得较高的平均效果；先备知识、成功标准、反馈和实施方式仍需分别检查。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, pp. 84–85)]]
 
 > [!critique] 需要防止的三种误用
 > - **只检查形式一致**　低阶目标、低阶活动和低阶评估也可以彼此一致。Biggs 主张重要课程目标至少应达到关联结构层次，因此课程目标本身仍需根据学科标准和教育价值加以审查。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 66–67)]]
@@ -374,4 +374,4 @@ updated: '2026-08-03'
 
 > [!evidence-grid] 相关研究索引
 > - **[[Argument_Biggs_1999_HERD|Biggs (1999)]]**　从[[Constructivist Paradigm|建构主义]]和[[Student Learning Research|学生学习研究]]出发提出建构性对齐，详细说明目标动词、活动选择、[[Criterion-Referenced Test|标准参照评估]]、[[Assessment Backwash|评估反拨]]及两种实施路径。
-> - **[[Argument_Hattie_2015_SOTLP|Hattie (2015)]]**　讨论成功标准、学习层次、反馈和教师评估自身教学影响。这些结果有助于理解建构性对齐的部分机制，但不能直接检验整个对齐系统的效果；[[Problem-Based Learning|PBL]] 的综合结果也说明，教学法名称不能代替对实施机制的分析。
+> - **[[Argument_Hattie_2015_SOTLP|Hattie (2015b)]]**　讨论成功标准、学习层次、反馈和教师评估自身教学影响。这些结果有助于理解建构性对齐的部分机制，但不能直接检验整个对齐系统的效果；[[Problem-Based Learning|PBL]] 的综合结果也说明，教学法名称不能代替对实施机制的分析。

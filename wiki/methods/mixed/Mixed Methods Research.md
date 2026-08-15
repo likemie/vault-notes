@@ -5,7 +5,7 @@ summary: "结合量化与质性数据并通过特定设计进行整合的研究�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 53
+method_related_count: 54
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -52,7 +52,8 @@ related_methods:
   - "[[Website Content Analysis]]"
   - "[[In-depth Interview]]"
   - "[[Focus Group]]"
-related_persons: []
+related_persons:
+  - "[[Deanna Kuhn]]"
 related_facts:
   - "[[Mixed Methods International Research Association]]"
   - "[[Peidu]]"
@@ -156,7 +157,7 @@ updated: 2026-07-11
 > - **效用优先** 以效用（utility）、实践后果和启发法（heurism）优先于对"实在"最准确再现的单一追求
 > - **[[Fitness for Purpose|适合目的]]** 方法论上折中主义、多元主义，基于适合目的（fitness for purpose）和适用性（applicability, Johnson and Onwuegbuzie, 2004）
 > - **不是"怎么都行"** 有自己的严格标准：研究必须回答[[Research Question|研究问题]]并交付有用的答案（Denscombe, 2008）
-> - **实践共同体** Denscombe（2008）从库恩[[Paradigm|范式]]论出发，将混合方法定义为一个新的"实践共同体"（community of practice）
+> - **实践共同体** Denscombe（2008）从[[Deanna Kuhn|库恩]][[Paradigm|范式]]论出发，将混合方法定义为一个新的"实践共同体"（community of practice）
 
 > [!abstract] 认识论立场
 > [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将混合方法与[[Qualitative Research|质性研究]]的增长一起解释为教育心理学方法世界观更加多样的可能信号——表示[[Postpositivism|后实证主义]]之外的研究取向更被接受，或高影响期刊对传统方法以外的视角更加开放（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.7–8]]）。
