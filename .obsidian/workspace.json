@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,13 +224,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3675a1fed5dc58d3",
+  "active": "4a27173df321c7e9",
   "lastOpenFiles": [
+    "wiki/persons/us/William Foote Whyte.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2010_JEP.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md",
+    "wiki/concepts/research-methodology/Double Hermeneutic.md",
     "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md",
     "wiki/concepts/educational-psychology/Epistemological Understanding.md",
     "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Cole_2005_JRIE.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md",
     "wiki/concepts/research-methodology/Idiographic.md",
     "wiki/concepts/research-methodology/Nomothetic.md",
     "wiki/concepts/research-methodology/Nomothetic and Idiographic.md",
@@ -260,8 +262,6 @@
     "translate_questionnaire.py",
     "fix_arguments.py",
     "sources/Greene_2010_JEP.md",
-    "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEP.md",
-    "wiki/theories/educational-psychology/Epistemic and Ontological Cognition.md",
     "tmp/pdfs/Hughes_2014_validity-14.png",
     "tmp/pdfs/Hughes_2014_validity-13.png",
     "tmp/pdfs/Hughes_2014_validity-12.png",
