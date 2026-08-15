@@ -70,7 +70,8 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **认识论与本体论认知模型**<br>[[Epistemic and Ontological Cognition]] | 将知识的确定性与简单性界定为本体论认知，将认知的辩护机制保留为认识论认知。理论预设了现实主义、教条主义、怀疑论与理性主义四个阶段，并设定了相应的维度强弱配置。 |
+> | **三个核心信念维度**<br>SC, JA, PJ | 作者梳理了前人（如 Hofer & Pintrich, 1997; Schommer-Aikins, 2004）的量化维度：将“知识是简单/复杂的”与“知识是确定/变化的”合并为本体论层面的**简单与确定知识（SC）**维度；将认识论层面的知识辩护机制拆分为依赖外部权威的**权威辩护（JA）**与依赖主观经验的**个人辩护（PJ）**。 |
+> | **认识论与本体论认知模型**<br>[[Epistemic and Ontological Cognition]] | 将知识的确定性与简单性界定为本体论认知，将认知的辩护机制保留为认识论认知。理论预设了现实主义、教条主义、怀疑论与理性主义四个阶段，并设定了相应的三个维度（SC, JA, PJ）的强弱配置。 |
 
 > [!warrant]- 理论如何支撑论证
 > 个体的认知本质反映在多维度的组合特征档案（profile）中。通过因子混合模型寻找潜在的类群轮廓，可将离散的维度得分匹配回认识论与本体论认知模型假设的发展序列中，从而实现对整合理论的实证检验。
@@ -115,9 +116,34 @@ issuing_organization: ""
 > 现有的阶段论与多维系统论存在广泛重叠。区分本体论认知（知识的简单性与确定性）与认识论认知（权威辩护与个人辩护），能够构建基于维度轮廓的发展序列，并容纳学科领域间的不平衡性。
 
 > [!chain-link] 证据到判断
-> 传统的阶段模型，包括现实主义、绝对主义（absolutist）、多元主义（multiplist）与评价主义（evaluativist），本质上可以解构为对客观现实、知识来源和评价机制的量化程度差异（见表1）。基于此提出的认识论与本体论认知模型（表2）指明，四种认知发展阶段分别对应了三种信念维度上的不同强弱组合特征。
+> 传统的阶段模型（见表1）本质上可以解构为对客观现实、知识来源和评价机制的不同量化态度。作者将这一传统模型与三维量化信念（SC、JA、PJ）进行了逻辑重构，提出了全新的 EOC 模型（见表2）。在重构过程中，Kuhn 提出的初级阶段（“现实主义”与“绝对主义”）被合并映射为新模型中的“现实主义”；随着对知识绝对性的质疑，原本的“多元主义”被拆分为了两条路径：要么在不确定中依然盲从权威（教条主义），要么走向彻底只信自己的主观体验（怀疑主义）；而最终能够整合多方证据的“评价主义”，则被重新定义为“理性主义”。
+> 
+> ```mermaid
+> flowchart LR
+>     subgraph Kuhn [Kuhn et al. 经典阶段]
+>         direction TB
+>         A0[现实主义 Realist]
+>         A[绝对主义 Absolutist]
+>         B[多元主义 Multiplist]
+>         C[评价主义 Evaluativist]
+>     end
+> 
+>     subgraph Greene [Greene EOC 整合模型]
+>         direction TB
+>         D[现实主义 Realism]
+>         E1[教条主义 Dogmatism]
+>         E2[怀疑主义 Skepticism]
+>         F[理性主义 Rationalism]
+>     end
+> 
+>     A0 -- "合并为三维皆强" --> D
+>     A -- "合并为三维皆强" --> D
+>     B -- "重权威、轻个人" --> E1
+>     B -- "轻权威、重个人" --> E2
+>     C -- "理性评估与整合" --> F
+> ```
 
-> [!contrast-table]- 表1：Kuhn et al. (2000) 认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
+> [!contrast-table] 表1：Kuhn et al. (2000) 认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
 > | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | 批判性思维（Critical thinking） | 知识主张（Assertions） |
 > | --- | --- | --- | --- | --- |
 > | 现实主义者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
@@ -128,13 +154,13 @@ issuing_organization: ""
 > *核心看点：此表呈现了传统的认识论发展阶段。作者指出，这四个定性的阶段本质上可以被拆解为个体对客观现实、知识来源及评价机制的不同信念维度的强弱组合。*
 > *来源：Greene et al. (2010), p. 235*
 
-> [!contrast-table]- 表2：认识论与本体论认知模型（Model of Epistemic and Ontological Cognition, 部分摘录）
-> | 受教育水平（Educational level） | 劣构领域阶段（Ill-structured domains Position） | SC 信念 | JA 信念 | PJ 信念 | 良构领域阶段（Well-structured domains Position） | SC 信念 | JA 信念 | PJ 信念 |
+> [!contrast-table] 表2：认识论与本体论认知模型（Model of Epistemic and Ontological Cognition）
+> | 受教育水平 | 劣构领域阶段 | SC 信念 | JA 信念 | PJ 信念 | 良构领域阶段 | SC 信念 | JA 信念 | PJ 信念 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | 小学早期 | 现实主义（Realism） | 强 | 强 | 强 | 现实主义（Realism） | 强 | 强 | 强 |
-> | 小学晚期至大学早期 | 教条或怀疑主义（Dogmatism or skepticism） | 弱<br>弱 | 强<br>弱 | 弱<br>强 | 现实主义（Realism） | 强 | 强 | 强 |
-> | 大学中期至晚期 | 理性主义（Rationalism） | 弱 | 中等 | 中等 | 教条或怀疑主义（Dogmatism or skepticism） | 弱<br>弱 | 强<br>弱 | 弱<br>强 |
-> | 本科后教育（研究生） | 理性主义（Rationalism） | 弱 | 中等 | 中等 | 理性主义（Rationalism） | 弱 | 中等 | 中等 |
+> | 小学早期 | 现实主义 | 强 | 强 | 强 | 现实主义 | 强 | 强 | 强 |
+> | 小学晚期至大学早期 | 教条/怀疑主义 | 弱<br>弱 | 强<br>弱 | 弱<br>强 | 现实主义 | 强 | 强 | 强 |
+> | 大学中期至晚期 | 理性主义 | 弱 | 中等 | 中等 | 教条/怀疑主义 | 弱<br>弱 | 强<br>弱 | 弱<br>强 |
+> | 本科后教育（研究生） | 理性主义 | 弱 | 中等 | 中等 | 理性主义 | 弱 | 中等 | 中等 |
 > 
 > *核心看点：本表是作者提出的核心整合模型。它展示了四个定性的发展阶段（现实、教条/怀疑、理性）是如何由三个独立信念维度的不同强弱配置（Profile）构成的，并预测了个体在劣构领域（如历史）中的认知发展会快于良构领域（如数学）。*
 > *注：SC=简单与确定知识（Simple and Certain Knowledge）; JA=权威辩护（Justification by Authority）; PJ=个人辩护（Personal Justification）。来源：Greene et al. (2010), p. 238*
@@ -186,11 +212,11 @@ issuing_organization: ""
 > *来源：Greene et al. (2010), p. 243*
 
 > [!ref-table]- 表8：潜在类别因子均值及解释（Latent Class Factor Means and Interpretations, 部分类群示例）
-> | 类别指标（Measure） | 数学 SC | 数学 JA | 数学 PJ | 数学轮廓（Math Profile） | 历史 SC | 历史 JA | 历史 PJ | 历史轮廓（Hist Profile） |
+> | 类别 | 数学 SC | 数学 JA | 数学 PJ | 数学轮廓 | 历史 SC | 历史 JA | 历史 PJ | 历史轮廓 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | **类别 2** | 弱（Weak） | 弱（Weak） | 强（Strong） | 怀疑论者（Skeptic） | 弱（Weak） | 强（Strong） | 中等（Moderate） | 不清晰（Unclear） |
-> | **类别 3** | 弱（Weak） | 弱（Weak） | 强（Strong） | 怀疑论者（Skeptic） | 弱（Weak） | 中等（Moderate） | 中等（Moderate） | 理性主义者（Rationalist） |
-> | **类别 4** | 强（Strong） | 强（Strong） | 强（Strong） | 现实主义者（Realist） | 弱（Weak） | 弱（Weak） | 强（Strong） | 怀疑论者（Skeptic） |
+> | **类别 2** | 弱 | 弱 | 强 | 怀疑论者 | 弱 | 强 | 中等 | 不清晰 |
+> | **类别 3** | 弱 | 弱 | 强 | 怀疑论者 | 弱 | 中等 | 中等 | 理性主义者 |
+> | **类别 4** | 强 | 强 | 强 | 现实主义者 | 弱 | 弱 | 强 | 怀疑论者 |
 > 
 > *核心看点：本表将 FMM 聚类得出的均值映射回了理论预设的定性阶段。例如类别 4 的学生，在数学上呈现出三维皆强的“现实主义者”轮廓，但在历史上却表现出弱/弱/强的“怀疑论者”轮廓。这不仅证明了量化维度可以还原出定性的发展特征，也直接验证了认识论信念的领域特殊性（在历史领域的发展优于数学）。*
 > *注：Class 4 显示其数学为现实主义阶段，但历史已经发展至怀疑论阶段。来源：Greene et al. (2010), p. 245*
