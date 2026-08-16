@@ -8,10 +8,10 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/critical-thinking
   - theme/curriculum
@@ -22,11 +22,14 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
+  - "[[Epistemological Understanding]]"
+  - "[[Evaluativist]]"
   - "[[Reflective Thinking]]"
   - "[[Praxis]]"
   - "[[Operationalization]]"
   - "[[Knowledge Questions]]"
   - "[[Construct Validity]]"
+  - "[[Multiplist]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Dependent Variable]]"
@@ -38,11 +41,13 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
 related_persons:
+  - "[[Deanna Kuhn]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
+  - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
 related_instruments:
@@ -52,7 +57,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-08-04
+updated: 2026-08-16
 ---
 
 # Critical Thinking
@@ -99,7 +104,7 @@ updated: 2026-08-04
 > - **说明** 清楚表达判断及其依据，说明方法、标准和推导过程。
 > - **自我调节** 反思自身假设、偏见和推理过程，根据审查结果修正判断。
 > - **思维倾向** 探究、开放、公正、独立、智识[[Humility in Learning|谦逊]]、勇气、诚信与坚持，使技能得到持续而负责的运用。
-> - **知识与情境** 领域知识、任务目标、[[Epistemology|认识论]]立场和具体语境共同规定证据标准与合理判断的含义。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–35)]]
+> - **知识与情境** 领域知识、任务目标、[[Epistemology|认识论]]立场和具体语境共同规定证据标准与合理判断的含义。此外，个体的[[Epistemological Understanding|认识论理解]]必须达到[[Evaluativist|评价论]]阶段，才能产生运用批判性思维比较观点的内在动机。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–35)]] [[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 326)]]
 
 > [!logic-map]- 批判性判断的形成
 > ```mermaid
@@ -194,6 +199,14 @@ updated: 2026-08-04
 > [!claim] Zemplén, G. Á.
 > **术语表演与发展边界** 当评分标准依赖特定分析词汇时，学生可能通过罗列课程术语和套用反思表达获得分数。与此同时，高中生可能尚未发展出比较不同来源证据并阐明决策标准的能力。评估设计应区分术语使用、一般认知发展和真实的批判性判断表现。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–174)]]
 
+### 命题五　批判性思维的动机受制于个体的认识论发展阶段
+
+> [!concept-lens] 认知动力基础
+> 探讨为什么个体即使掌握了相关技能和领域知识，在面对争议时也可能拒绝进行批判性的理性论辩。
+
+> [!claim] [[Deanna Kuhn|Kuhn, D.]] 等
+> **多元论的宽容陷阱抑制批判性思维** Kuhn 指出，批判性思维不仅仅是一套可被传授的认知技能，其发生强烈依赖于个体在[[Epistemological Understanding|认识论理解]]上达成了[[Evaluativist|评价论]]（即相信知识虽是主观建构的，但有优劣之分，可以通过证据评估）。大多数成年人停滞在中间过渡态的[[Multiplist|多元论]]（认为所有知识纯属主观意见，同等有效），并把现代社会倡导的对多元意见的“宽容”误认为是不可侵犯的权利，从而消解了用证据批判和比较观点的动机，导致批判性思维永久停滞。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, pp. 325–326)]]
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -203,6 +216,7 @@ updated: 2026-08-04
 > | **教学与实施** | 显性教学具有优势，效果依赖领域知识和实施条件 | 课程设计、教师发展、课堂干预 | Abrami et al.; Marin & Halpern; Willingham; Bailin; Cole et al. |
 > | **迁移条件** | 通用认知结构通过领域知识和情境线索实现迁移 | 跨学科课程、迁移任务 | Halpern; Salomon & Perkins; Glaser; Lave; Ritchhart & Perkins |
 > | **操作化与效度** | 目标、任务和评分证据需要充分表征构念 | 课程审查、评估设计、效度研究 | Hughes; Zemplén |
+> | **认知动力** | 评价论是触发批判性思维论辩的认识论引擎 | 成人思维发展、批判动机缺失 | [[Deanna Kuhn\|Kuhn]] |
 
 ---
 
@@ -243,6 +257,13 @@ updated: 2026-08-04
 > | [[Argument_Cole_2015_AJE\|Abrami et al. (2008)]] | 教学路径 | 亚组分析 | 显性教学条件较大，隐性融入条件较小 | — | — | — | 当前为 Cole 等人的转述，需回查元分析原文 |
 > | 同上 | 教师培训与教学评估 | 亚组分析 | 教师接受专门培训且教学受到评估时较大 | — | — | — | 当前为 Cole 等人的转述，需回查元分析原文 |
 
+> [!ref-table]- 其他实证结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | N=129名成人/青少年 | 跨领域认识论评估测试 | 不同群体的认识论水平 | 在代表成人精英的群体（EMBA高管等）中，能在价值观领域达成[[Evaluativist\|评价论]]并具备批判论辩意愿的仅占 22%，绝大多数停滞于[[Multiplist\|多元论]]。 | 差异极其显著 | 样本中专家组与非专家组产生结构性断层。 |
+
 ---
 
 ## 争议与批评
@@ -278,9 +299,10 @@ updated: 2026-08-04
 
 ---
 
-## 应用案例
+## 相关研究
 
-> [!evidence-grid] 课程、教学与评估中的应用
+> [!evidence-grid-a] 相关研究索引
 > - **显性教学与学校实施** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 以 [[IB Diploma Programme|IB DP]] 的 ToK 为案例，结合量表、学校案例和毕业生比较，检验显性独立课程及其实施条件。
 > - **课程评估的[[Construct Validity|构念效度]]** [[Argument_Hughes_2014_JRIE|Hughes (2014)]] 用多套批判性思维分类框架审查 ToK 目标、评估目标和评分描述符的[[Construct|构念]]覆盖。
 > - **术语表演与议程冲突** [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 分析 ToK 评估框架如何诱发术语表演，并揭示开放探究与科学知识传播之间的课程张力。
+> - **认识论引擎** [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 揭示了批判性思维不仅仅是一套认知技能，其发生的动机和动力受制于个体的底层认识论发展阶段。
