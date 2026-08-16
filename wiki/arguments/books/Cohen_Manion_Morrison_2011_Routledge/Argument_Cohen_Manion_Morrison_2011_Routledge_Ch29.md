@@ -125,48 +125,78 @@ updated: 2026-08-16
 > - 呈现的数据并非逐字[[Transcription in Qualitative Research|转录]]，而已被研究者摘要——即这不是数据分析的第一阶段，因为第一阶段是转录。
 > - 实例所引数据不完整，仅供说明；每张表后附一段简短评注，指出研究者希望读者注意的要点。
 
-> [!example]- 表29.1　英语教学的有效性（Table 29.1　The Effectiveness of English Teaching）
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-1_Table_29-1_Effectiveness_of_English_Teaching.jpg)
-
-> [!info] 表29.1　英语教学有效性的内容要点
-> 受访教师一致认为，学校英语教学与学习远未达到预期目的：(a) 学生在理解或运用书面英语、口语、阅读、听力与写作方面都很薄弱；(b) 无论学习英语多少年，这些能力仍然受限；(c) 低水平的记忆模式（low-level memorization model）导致[[Surface and Deep Learning|表层学习]]；(d) 教学与学习质量都很差；(e) 学生即使水平差也能升入大学，因为可招收学生的大学很多；(f) 就业并不要求英语。
+> [!info] 表29.1　英语教学的有效性
+> 表29.1 呈现教师对英语教学整体效果的看法。受访教师一致认为，学校英语教学与学习远未达到预期目的，表列要点如下：
+>
+> | 要点 | 内容 |
+> |---|---|
+> | (a) | 学生在理解或运用书面英语、口语、阅读、听力与写作方面都很薄弱 |
+> | (b) | 无论学习英语多少年，这些能力仍然受限 |
+> | (c) | 低水平的记忆模式（low-level memorization model）导致[[Surface and Deep Learning\|表层学习]] |
+> | (d) | 教学与学习质量都很差 |
+> | (e) | 学生即使水平差也能升入大学，因为可招收学生的大学很多 |
+> | (f) | 就业并不要求英语 |
 >
 > **评注** 小学英语教师的观点范围比中学教师更广；小学教师之间比中学教师之间更一致；所有中三（Form 3）中学教师的评注完全一致；所有中五（Form 5）中学教师的观点则各不相同。（29.1）
 
-> [!example]- 表29.2　英语教学的优点与缺点（Table 29.2　The Strengths and Weaknesses of English Language Teaching）
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-2_Table_29-2_Strengths_and_Weaknesses_of_English_Teaching.jpg)
+> [!example]- 表29.1　英语教学的有效性（原表扫描图）
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-1_Table_29-1_Effectiveness_of_English_Teaching.jpg)
 
-> [!strength] 表29.2　英语教学的优点
-> - **学习起点早** 学生很早就开始学英语。
-> - **课程自主权** 学校在设计课程上有自主权。（29.1）
-
-> [!weakness] 表29.2　英语教学的缺点
-> - **理解强调不足** 对理解（understanding）的强调不足。
-> - **学习年龄太小** 学生学习英语的年龄太小。
-> - **课程要求不现实** 课程要求不现实、内容过多，导致教师在教学上产生"填鸭式"心态（spoon-feeding mentality）。
-> - **师生压力过大** 课程要求给师生带来过大压力。
-> - **课程空间竞争** 英语须与其他语言竞争课程空间。
+> [!info] 表29.2　英语教学的优点与缺点
+> 表29.2 呈现教师对英语教学优点与缺点的看法。优点是学生很早就开始学英语、学校在设计课程上有自主权；缺点则集中在课程要求与教学方式上：
+>
+> | 优点 | 缺点 |
+> |---|---|
+> | 学生很早就开始学英语 | 对理解（understanding）的强调不足 |
+> | 学校在设计课程上有自主权 | 学生学习英语的年龄太小 |
+> | — | 课程要求不现实、内容过多，导致教师在教学上产生"填鸭式"心态（spoon-feeding mentality） |
+> | — | 课程要求给师生带来过大压力 |
+> | — | 英语须与其他语言竞争课程空间 |
 >
 > 因此，尽管学生学了多年英语，仍学得不好。
+>
+> **评注** 除一位小学教师外，其余 11 位来自小学与中学的教师评注完全一致。（29.1）
 
-> [!info] 表29.2　评注
-> 除一位小学教师外，其余 11 位来自小学与中学的教师评注完全一致。（29.1）
+> [!example]- 表29.2　英语教学的优点与缺点（原表扫描图）
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-2_Table_29-2_Strengths_and_Weaknesses_of_English_Teaching.jpg)
 
-> [!example]- 表29.3　教学方法（Table 29.3　Teaching Methods）
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-3_Table_29-3_Teaching_Methods.jpg)
-
-> [!info] 表29.3　教学方法的内容要点
-> 高[[Class Size|班级规模]]（30–50 人，甚至达 60 人）与紧凑的课程对教学方法及课堂活动的限制产生了显著影响，原因是控制（control）问题。这种影响的实质是：教学主要采用讲授式与语法翻译法（grammar-translation），很少延伸使用或"用英语思考"；教学中虽有少量小组活动，但非常有限；教师用中文解释英语。
+> [!info] 表29.3　教学方法
+> 表29.3 呈现教师对教学方法的看法。高[[Class Size|班级规模]]（30–50 人，甚至达 60 人）与紧凑的课程对教学方法及课堂活动的限制产生了显著影响，原因是控制（control）问题。这种影响的实质是：
+>
+> | 情境因素 | 对教学的影响 |
+> |---|---|
+> | 高[[Class Size\|班级规模]]（30–50 人，甚至达 60 人）与紧凑的课程 | 对教学方法及课堂活动的限制产生显著影响，原因是控制（control）问题 |
+> | — | 教学主要采用讲授式与语法翻译法（grammar-translation），很少延伸使用或"用英语思考" |
+> | — | 教学中虽有少量小组活动，但非常有限 |
+> | — | 教师用中文解释英语 |
 >
 > **评注** 这里所有教师的评注完全一致，主要分为两组要点。（29.1）
 
-> [!example]- 表29.4　与学生相关的因素（Table 29.4　Student-Related Factors）
-> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-4_Table_29-4_Student_Related_Factors.jpg)
+> [!example]- 表29.3　教学方法（原表扫描图）
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-3_Table_29-3_Teaching_Methods.jpg)
 
-> [!info] 表29.4　学生相关因素的内容要点
-> 学生自身对学习英语的成功或失败负有重要责任：(a) 害羞，害怕犯错、丢脸；(b) 对学习本身兴趣不大，更不用说英语；(c) 被其他科目压得负担过重，时间管理又差；(d) 对英语的书面化本质及其与其他课程科目不相关持负面态度；(e) 有太多其他干扰；(f) 英语能力有限；(g) 因为可以重修课程，所以快速学习的动机不足；(h) 对英语重视不够；(i) 学习英语的基础很差；(j) 学习英语的动机或积极态度有限；(k) 学习中获得的引导有限；(l) 因为大学只要求较低的英语水平，所以学好英语的动机有限。
+> [!info] 表29.4　与学生相关的因素
+> 表29.4 呈现教师对学生自身因素在英语学习成败中所起作用的看法。教师认为学生自身负有重要责任，表列要点如下：
+>
+> | 要点 | 内容 |
+> |---|---|
+> | (a) | 害羞，害怕犯错、丢脸 |
+> | (b) | 对学习本身兴趣不大，更不用说英语 |
+> | (c) | 被其他科目压得负担过重，时间管理又差 |
+> | (d) | 对英语的书面化本质及其与其他课程科目不相关持负面态度 |
+> | (e) | 有太多其他干扰 |
+> | (f) | 英语能力有限 |
+> | (g) | 因为可以重修课程，所以快速学习的动机不足 |
+> | (h) | 对英语重视不够 |
+> | (i) | 学习英语的基础很差 |
+> | (j) | 学习英语的动机或积极态度有限 |
+> | (k) | 学习中获得的引导有限 |
+> | (l) | 因为大学只要求较低的英语水平，所以学好英语的动机有限 |
 >
 > **评注** 这里的评注种类繁多，但存在不同程度的共识：教年幼小学儿童的教师彼此一致；教年长小学儿童的教师彼此一致；教年长中学儿童的教师彼此一致；而教年幼中学儿童的教师彼此观点不同。四组教师（年幼小学、年长小学、年幼中学、年长中学）提出的要点互不相同。（29.1）
+
+> [!example]- 表29.4　与学生相关的因素（原表扫描图）
+> ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29-4_Table_29-4_Student_Related_Factors.jpg)
 
 > [!info] 访谈数据的要点摘要
 > 访谈数据的一个显著特征是受访者对议题的广泛共识：(1) 第 9、12 题的回答完全一致（absolute unanimity）；(2) 第 11 题的回答非常一致，但并非绝对；(3) 除第(1)点的一致外，小学教师在第 11 题上还有额外的一致；(4) 除第(2)点的一致外，小学教师在第 6 题上有较多一致。
