@@ -76,6 +76,7 @@ related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Bergeron_2019_JRIE]]"
   - "[[Argument_Cole_2005_JRIE]]"
+  - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Metli_2022_IJER]]"
 related_instruments:
@@ -83,10 +84,11 @@ related_instruments:
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
   - "[[Academic Self-Concept General Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
+  - "[[Confidence Teaching TOK Scale]]"
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-08-03
+updated: 2026-08-17
 ---
 
 # Theory of Knowledge
@@ -302,6 +304,7 @@ updated: 2026-08-03
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | Hedges’ $g = 0.497$（派生） | $t(380) = 4.24$<br>$p < .001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 257–258)]] | DP 与非 DP 毕业生 | 预期大学成果 | DP 99<br>非 DP 283 | DP 3.43（0.43）<br>非 DP 3.32（0.47） | Hedges’ $g = 0.239$（派生） | $t(380) = 2.25$<br>$p < .001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | DP 42<br>非 DP 126 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | Hedges’ $g = 0.245$（派生） | — | 组间比较；完成者较少且存在额外登录造成的[[Attrition\|流失]]；便利样本不具代表性 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015, p. 15)]] | TOK 教师教龄<br>10年以上 与 1-3年 | [[Confidence Teaching TOK Scale\|CTT]] 教学信心总分 | 10年以上 218<br>1-3年 289 | 10年以上 3.40（0.41）<br>1-3年 3.17（0.47） | Hedges’ $g = 0.519$（派生） | ANOVA 事后比较<br>组间差异显著 | 横断调查；自报测量；教龄增长对信心的影响不能排除幸存者偏差 |
 
 ---
 

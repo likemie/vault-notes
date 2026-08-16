@@ -11696,8 +11696,9 @@
     "type": "instrument",
     "path": "wiki/instruments/scales/Confidence Teaching TOK Scale.md",
     "aliases": [
-      "Confidence Teaching TOK Scale",
-      "Confidence Teaching TOK"
+      "Confidence Teaching TOK",
+      "CTT Scale",
+      "知识论教学信心量表"
     ]
   },
   {
@@ -12822,6 +12823,15 @@
     "aliases": [
       "Phillips, D.",
       "大卫·菲利普斯"
+    ]
+  },
+  {
+    "title": "Desmond Hoare",
+    "type": "person",
+    "path": "wiki/persons/uk/Desmond Hoare.md",
+    "aliases": [
+      "德斯蒙德·霍尔",
+      "Rear-Admiral Desmond Hoare"
     ]
   },
   {
@@ -14350,6 +14360,16 @@
     ]
   },
   {
+    "title": "European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953",
+    "type": "fact",
+    "path": "wiki/facts/europe/European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953.md",
+    "aliases": [
+      "1953年欧洲大学入学文凭等值公约",
+      "European Convention on the Equivalence of Diplomas 1953",
+      "欧洲文凭等值公约"
+    ]
+  },
+  {
     "title": "SveaSus Project",
     "type": "fact",
     "path": "wiki/facts/finland/SveaSus Project.md",
@@ -14364,6 +14384,16 @@
     "aliases": [
       "Finnish National Core Curriculum 2014",
       "芬兰国家核心课程2014"
+    ]
+  },
+  {
+    "title": "1967 Sevres International Conference on the IB",
+    "type": "fact",
+    "path": "wiki/facts/france/1967 Sevres International Conference on the IB.md",
+    "aliases": [
+      "1967年塞夫尔IB国际会议",
+      "塞夫尔国际文凭会议",
+      "1967 Sèvres Conference"
     ]
   },
   {
@@ -15237,6 +15267,15 @@
     ]
   },
   {
+    "title": "International Schools Examination Syndicate",
+    "type": "fact",
+    "path": "wiki/facts/switzerland/International Schools Examination Syndicate.md",
+    "aliases": [
+      "国际学校考试辛迪加",
+      "ISES"
+    ]
+  },
+  {
     "title": "UAE Education Hub Projects",
     "type": "fact",
     "path": "wiki/facts/uae/UAE Education Hub Projects.md",
@@ -15555,6 +15594,16 @@
     "path": "wiki/facts/uk/What Works Network.md",
     "aliases": [
       "英国What Works网络"
+    ]
+  },
+  {
+    "title": "Atlantic College Curriculum 1962",
+    "type": "fact",
+    "path": "wiki/facts/uk/Atlantic College Curriculum 1962.md",
+    "aliases": [
+      "1962年大西洋学院课程方案",
+      "Atlantic College College Courses",
+      "大西洋学院学院课程"
     ]
   },
   {

@@ -8,10 +8,10 @@ summary: "英国教育家、牛津大学教育学教授，国际文凭组织（I
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
   - region/uk
   - field/educational-philosophy
@@ -21,6 +21,8 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
+  - "[[International Education]]"
+  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
   - "[[Active Learning]]"
@@ -28,11 +30,20 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Kurt Hahn]]"
+  - "[[Bob Leach]]"
+  - "[[Gerard Renaud]]"
+  - "[[John Goormaghtigh]]"
   - "[[Bob Darwish]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
-related_facts: []
+related_facts:
+  - "[[Founding of Atlantic College]]"
+  - "[[International Schools Examination Syndicate]]"
+  - "[[Founding of the International Baccalaureate]]"
 related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch01]]"
+  - "[[Argument_Peterson_1987_OpenCourt]]"
   - "[[Argument_Darwish_2009_Queens]]"
 confidence: high
 status: active
@@ -54,10 +65,10 @@ updated: 2026-08-17
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1954–1957** 马来亚的多族群工作经验促使其思考教育如何消解民族偏见，回到英国后在多佛学院开设小规模的“国际高中阶段”，并于 1957 年在布鲁日国际教育会议结识[[Kurt Hahn|库尔特·哈恩（Kurt Hahn）]]。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 1–2)]]
+> - **1954–1957** 马来亚的多族群工作经验促使其思考教育如何消解民族偏见，回到英国后在多佛学院开设小规模的“国际高中阶段”，并于 1957 年在布鲁日[[International Education|国际教育]]会议结识[[Kurt Hahn|库尔特·哈恩]]（Kurt Hahn）。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 1–2)]]
 > - **1961–1962** 参与大西洋学院筹备，与罗伯特·布莱克本设计学术课程，尝试在英国高级程度考试之外维持语言、社会研究、科学和艺术的课程广度。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 7–13)]]
-> - **1966–1967** 在国际学校考试辛迪加陷入人员、财务与组织危机时投入近一年全职领导；与哈兰·“哈波”·汉森借助牛津大学和美国大学理事会的承诺，促成福特基金 300,000 美元资助，并把课程、考试、试验学校、家庭风险、持续资金和大学承认整合为同一可行性计划。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 23–24)]]
-> - **1968–1977** 担任国际文凭组织首任总干事，推动国际文凭课程与考试制度形成。
+> - **1966–1967** 在[[International Schools Examination Syndicate|国际学校考试辛迪加]]陷入人员、财务与组织危机时投入近一年全职领导；与哈兰·“哈波”·汉森借助牛津大学和美国大学理事会的承诺，促成福特基金 300,000 美元资助，并把课程、考试、试验学校、家庭风险、持续资金和大学承认整合为同一可行性计划。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 23–24)]]
+> - **1968–1977** 担任[[International Baccalaureate|国际文凭]]组织首任总干事，推动国际文凭课程与考试制度形成。
 
 ---
 
@@ -65,7 +76,7 @@ updated: 2026-08-17
 
 > [!work-line] 主要著作与理念
 > - **1987 — *Schools Across Frontiers: The Story of the [[International Baccalaureate]] and the United World Colleges***
->   以亲历者视角追溯大西洋学院、联合世界书院与国际文凭的形成，首版由 Open Court 出版，2003 年另有重印。第 1 章把大西洋学院的跨国共同生活与课程困境呈现为国际文凭形成的实践起点。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1)]]
+>   以亲历者视角追溯大西洋学院、联合世界书院与国际文凭的形成，首版由 Open Court 出版，2003 年另有重印。第 1 章把大西洋学院的跨国共同生活与课程困境呈现为国际文凭形成的[[Praxis|实践]]起点。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1)]]
 
 ---
 
@@ -82,5 +93,5 @@ updated: 2026-08-17
 > - **共同创制** [[Founding of the International Baccalaureate|国际文凭创立]]；与[[Bob Leach|鲍勃·利奇]]、[[Gerard Renaud|杰拉德·雷诺]]、[[John Goormaghtigh|约翰·戈尔马蒂赫]]等人分别承担教师动员、课程设计、组织治理和制度整合工作。
 > - **创立机构** [[International Baccalaureate]]、[[IB Diploma Programme]]。
 > - **设计课程** [[Theory of Knowledge]]（TOK 知识论课程）。
-> - **早期合作者** [[Kurt Hahn]] — 共同参与大西洋学院的国际教育实验，哈恩提供行动与服务的教育愿景，皮特森参与学术课程设计。
+> - **早期合作者** [[Kurt Hahn]] — 共同参与大西洋学院的[[International Education|国际教育]]实验，哈恩提供行动与服务的教育愿景，皮特森参与学术课程设计。
 > - **思想审查者** [[Bob Darwish]] — 评估 Peterson 的 IB 课程哲学与[[John Dewey|杜威]]/[[Paulo Freire|弗莱雷]][[Active Learning|主动学习]]理论的契合与局限。

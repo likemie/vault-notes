@@ -1,6 +1,9 @@
 ---
 title: Confidence Teaching TOK Scale
-aliases: [Confidence Teaching TOK Scale, Confidence Teaching TOK]
+aliases:
+  - Confidence Teaching TOK
+  - CTT Scale
+  - 知识论教学信心量表
 summary: "测量教师在知识论（TOK）课程中教学信心的 11 题项李克特量表，主要关注教师在探索各类知识问题（如伦理学、本土知识系统等）时的自我效能感。"
 type: instrument
 instrument_type: scale
@@ -29,10 +32,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Bergeron_2019_JRIE]]"
+  - "[[Argument_Bergeron_2015_TeachingTOK]]"
 confidence: medium
 status: draft
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-17
 ---
 
 # Confidence Teaching TOK Scale
@@ -43,7 +47,7 @@ updated: 2026-08-06
 
 > [!instrument-profile] Confidence Teaching [[Theory of Knowledge|TOK]] ([[Classical Test Theory|CTT]]) Scale
 > - **工具类型** 量表
-> - **开发者与年份** [[Argument_Bergeron_2019_JRIE|Bergeron & Rogers (2019)]]。该量表是 "The TOK Survey"（教师卷 Survey A）的组成部分（题项 31-41）。
+> - **开发者与年份** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]]。该量表是 "The TOK Survey"（教师卷 Survey A）的组成部分（题项 31-41）。
 > - **测量目的** 测量 [[International Baccalaureate|IB]] 教师在教授知识论（TOK）课程时的教学信心，作为评估教师[[Self-Efficacy|自我效能感]]与专业准备的指标。
 > - **实施方式** 自陈
 
@@ -74,10 +78,17 @@ updated: 2026-08-06
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | 1 | . . . in exploring knowledge questions related to ethics, such as: ‘Is there such a thing as moral knowledge? Does the rightness or wrongness of an action depend on the situation? Are all moral opinions equally valid? Is there such a thing as a moral fact?<br><br>*(译：...在探索与伦理学相关的知识问题时，例如：“是否存在道德知识这种东西？一个行为的对错是否取决于具体情境？所有道德观点的有效性都同等吗？是否存在道德事实？”)* | 1-4 等级 | 分值（最高得分题项，M=3.60） | [[Argument_Bergeron_2019_JRIE\|Bergeron & Rogers (2019, p. 176)]] |
-> | 11 | . . . in exploring knowledge questions related to indigenous knowledge systems, such as: “In what ways are sense perception and memory crucial in constructing knowledge in indigenous knowledge systems? How do beliefs about the physical and metaphysical world influence the pursuit of knowledge in indigenous knowledge systems? How do indigenous people use the concept of respect to relate to their view of the world?”<br><br>*(译：...在探索与本土知识系统相关的知识问题时，例如：“感官知觉和记忆在本土知识系统建构知识的过程中发挥着什么关键作用？关于物理与形而上世界的信念如何影响本土知识系统对知识的追求？原住民如何使用尊重的概念来构建其世界观？”)* | 1-4 等级 | 分值（最低得分题项，M=2.73） | 同上 |
-
-*(注：原[[Document|文献]]仅提供了得分最高和得分最低的两个题项示例，完整 11 个题项未在论文中报告。)*
+> | 1 | 激发学生参与学习活动<br><small>Engaging students in learning activities</small> | 1-4 等级 | 正向计分 | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015, p. 65)]] |
+> | 2 | 使用“知识框架”<br><small>Using the "knowledge framework"</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
+> | 3 | 选择如何探讨各个知识领域<br><small>Choosing how each AOK is approached</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
+> | 4 | 教授数学知识领域<br><small>Mathematics</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
+> | 5 | 教授自然科学知识领域<br><small>Natural sciences</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
+> | 6 | 教授人文科学知识领域<br><small>Human sciences</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
+> | 7 | 教授历史知识领域<br><small>History</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
+> | 8 | 教授艺术知识领域<br><small>The arts</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
+> | 9 | 教授伦理学知识领域<br><small>Ethics</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
+> | 10 | 教授宗教知识体系<br><small>Religious knowledge systems</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
+> | 11 | 教授本土知识体系<br><small>Indigenous knowledge systems</small> | 1-4 等级 | 正向计分 | Bergeron & Rogers |
 
 ---
 
@@ -89,6 +100,7 @@ updated: 2026-08-06
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
 > | [[Argument_Bergeron_2019_JRIE\|Bergeron & Rogers (2019)]] | 原始英文版 | N=745，全球 [[International Baccalaureate\|IB]] [[Theory of Knowledge\|TOK]] 教师；用于分析不同教学经验、国家及[[Class Size\|班级规模]]下教师信心的差异。 | [[Internal Consistency\|内部一致性]] Cronbach's α = .798；主成分分析（PCA）提取出一个单一因子（单因子结构）。 | 教龄 10 年以上（M=3.40）和 4-9 年（M=3.35）的教师，其教学信心显著高于 1-3 年的新手教师（M=3.17）；美国与非美国教师、不同班级规模之间无显著差异。 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] | 原始多语言版（英法西） | N=668 名任课教师；用于检验不同教龄和班级规模对教学信心的影响。 | 同上。 | 应对伦理学信心最高（M=3.60），应对本土知识系统信心最低（M=2.73）。 |
 
 ---
 

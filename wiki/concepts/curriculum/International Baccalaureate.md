@@ -7,10 +7,10 @@ aliases:
 summary: "起源于国际学校共同课程与跨国升学需求的国际课程体系，通过学科组、核心组件和统一评估平衡通识教育、专业准备与国际理解。"
 type: concept
 domain: "curriculum"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/curriculum
   - level/k12
@@ -24,10 +24,10 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Concurrency of Learning]]"
   - "[[Approaches to Teaching and Learning]]"
+  - "[[Theory of Knowledge]]"
   - "[[IB Diploma Programme]]"
   - "[[Extended Essay]]"
   - "[[Academic Achievement]]"
-  - "[[Theory of Knowledge]]"
   - "[[Creativity, Action, Service]]"
   - "[[Academic Self-Concept]]"
   - "[[Going Native]]"
@@ -44,10 +44,13 @@ related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[International Schools Examination Syndicate]]"
+  - "[[Founding of the International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Peterson_1987_OpenCourt]]"
   - "[[Argument_Cole_2015_AJE]]"
 confidence: medium
 status: draft
@@ -91,8 +94,8 @@ updated: 2026-08-17
 
 ### 创制阶段形成的理念
 
-> [!feature] 从国际学校难题形成的设计原则
-> - **实践需求而非抽象口号** 战后国际学校高中阶段不断扩大，同一所学校不得不按瑞士、英国、法国和美国考试分班。资源浪费、国家分组和少数国籍学生无课程可循，使国际毕业考试从和平主义设想变成办学必需。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 16–17)]]
+> [!feature] 从[[International Schools|国际学校]]难题形成的设计原则
+> - **[[Praxis|实践]]需求而非抽象口号** 战后国际学校高中阶段不断扩大，同一所学校不得不按瑞士、英国、法国和美国考试分班。资源浪费、国家分组和少数国籍学生无课程可循，使国际毕业考试从和平主义设想变成办学必需。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 16–17)]]
 > - **教师草根创制** 1960 年代的推进力量主要来自日内瓦国际学校教师，而非政府、联合国教科文组织或既有国际机构。有限的小额资助先支持跨校讨论，教师再逐步建立独立组织、课程小组和试验网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–20)]]
 > - **课程改革试验** 课程设计没有只提取欧美既有考试的最低共同部分，而是吸收各国改革者尚未能在本国推行的方案，把国际学校作为课程改革的实地试验场。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 24–26)]]
 > - **通识与专门化平衡** 六学科组结构试图在德国、瑞士式广泛通识和英国式三科高度专门化之间建立折中。学生保留选择，但必须跨规定学科组学习，两门语言和数学构成共同要求。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 28–29)]]
@@ -132,13 +135,13 @@ updated: 2026-08-17
 ## 概念演变
 
 > [!timeline] 早期阶段
-> - **1925 — 理念先声** 日内瓦国际学校提出“国际毕业会考”设想，但国际学校和跨国流动尚不足以支撑实施。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 15)]]
+> - **1925 — 理念先声** 日内瓦[[International Schools|国际学校]]提出“国际毕业会考”设想，但国际学校和跨国流动尚不足以支撑实施。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 15)]]
 > - **1948–1955 — 现实需求形成** 国际学校扩张、大学入学竞争和国家课程分轨，使国际共同资格成为实际需要。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 15–17)]]
-> - **1961–1967 — 教师倡议制度化** 日内瓦教师网络逐步建立 ISES／IBO、六学科组、双语课程、知识论与国际试验学校网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–31)]]
+> - **1961–1967 — 教师倡议制度化** 日内瓦教师网络逐步建立 [[International Schools Examination Syndicate|ISES]]／IBO、六学科组、双语课程、[[Theory of Knowledge|知识论]]与国际试验学校网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–31)]]
 > - **1969–1970 — 资格验证** 六年试验启动，首批 29 名学生使用正式 IB 考试结果申请大学。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 31)]]
 
 > [!ref-table]- 详细史实
-> [[Founding of the International Baccalaureate|国际文凭创立]]记录 1924–1970 年间的行动者、组织、资助、课程决策与大学承认时间轴。
+> [[Founding of the International Baccalaureate|国际文凭创立]]记录 1924–1970 年间的行动者、组织、资助、课程决策与大学承认时间轴；[[International Schools Examination Syndicate|ISES]]与1967 年塞夫尔会议分别展开其组织载体和资格试验机制。
 
 ---
 
