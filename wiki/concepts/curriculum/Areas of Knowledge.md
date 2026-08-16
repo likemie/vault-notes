@@ -3,11 +3,10 @@ title: Areas of Knowledge
 aliases:
   - 知识领域
   - AOK
-  - areas of knowledge
 summary: "IB 知识论课程中用于比较不同知识传统如何界定问题、生产证据和形成判断的课程分类框架；它连接学科情境、认知方式与知识问题，并随指南版本由六项扩展为八项。"
 type: concept
 domain: "curriculum"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +34,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Reliability]]"
+  - "[[Domain Specificity]]"
   - "[[Falsification]]"
   - "[[Construct Validity]]"
 related_theories: []
@@ -47,10 +47,11 @@ related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
+  - "[[Argument_Kuhn_2000_CD]]"
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-08-04
+updated: 2026-08-16
 ---
 
 # Areas of Knowledge
@@ -70,7 +71,7 @@ updated: 2026-08-04
 > [!boundary]- 概念边界
 > - **认知方式** [[Ways of Knowing|认知方式]]回答认知者如何形成和审查知识，知识领域提供这些认识活动发生的学科与传统情境。
 > - **[[Knowledge Framework|知识框架]]** [[Knowledge Framework|知识框架]]是一套比较工具，用五个维度系统考察选定的知识领域；AOK 是被比较的对象。
-> - **普通学科目录** AOK 强调[[Knowledge Production|知识生产]]和正当化方式，课程分类也包含宗教知识体系与本土知识体系等跨越常规院系边界的传统。
+> - **普通学科目录** AOK 强调[[Knowledge Production|知识生产]]和正当化方式，课程分类也包含宗教知识体系与本土知识体系等跨越常规院系边界的传统。同时，在心理学研究中（如 Kuhn 的判断领域），它也可以指代日常生活中的非学术论辩主题。
 > - **[[Critical Thinking|批判性思维]][[Construct|构念]]** 跨领域比较能够支持分析和观点转换，仍需另行[[Operationalization|操作化]]来源评价、[[Hypothesis|假设]]检验、推论、决策、问题解决和创造。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 36–43)]]
 
 ---
@@ -88,6 +89,14 @@ updated: 2026-08-04
 ---
 
 ## 核心要素
+
+广义的知识领域不仅包含高度建制化的学科体系，也包含个体在日常生活中进行判断与论辩的主题域。
+
+> [!taxonomy] 领域分类的两大框架
+> - **学术建制与课程分类（Academic & Curriculum Domains）**
+>   如 IB 知识论课程中所列的八大领域，重点考察不同学科如何收集证据、运用专业术语并进行正当化辩护。
+> - **日常判断领域（Judgment Domains）**
+>   如 Kuhn (2000) 提出的个体认识论演进的五个生活领域，按照主客观成分的比重递进：个人品味（Personal taste） → 审美（Aesthetics） → 价值观（Values） → 社会事实（Social truth） → 物理事实（Physical truth）。
 
 > [!taxonomy] 2013 年指南的八个知识领域
 > | 分类位置 | 知识领域 | 主要[[Epistemology\|认识论]]关注点 |
@@ -182,6 +191,14 @@ updated: 2026-08-04
 > [!claim] Zemplén, G. Á.
 > **分类词汇可能成为评分替代指标** AOK 与 WOK 为超学科课程提供共同语言，也让评分者容易识别学生是否使用课程框架。学生若通过罗列领域名称和建立表面连接获得分数，作品会展示术语熟练度，却未充分呈现对证据、方法和价值前提的批判性审查。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–173)]]
 
+### 命题五　领域本身的客观性与主观性属性会影响个体认识论的发展阶段
+
+> [!concept-lens] [[Domain Specificity|领域特异性]]
+> 学科领域不仅是知识内容的不同，其本身携带的主观性/客观性特征会直接影响个体在面对该领域时的判断标准。
+
+> [!claim] Kuhn, D.
+> **知识领域决定了认知演进的非同步性** 个体在从绝对论走向评价论的过程中，并非跨领域同步升级。Kuhn (2000) 的数据显示，由于物理事实等领域高度客观，人们很难接纳其具有“主观不确定性”，因而在事实领域的启蒙最晚；但同样因为事实领域存在明确证据，当个体试图从彻底的主观迷失中找回客观评估标准（进入评价论）时，事实领域又是最容易被突破的。反之，价值观和审美领域由于主观性过强，大量成人终生停滞于此领域的多元论。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 314)]]
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -191,6 +208,7 @@ updated: 2026-08-04
 > | **领域与迁移** | 跨领域理解需要结合专业知识与通用结构 | 跨学科课程、迁移任务 | Ritchhart & Perkins (2005); 同上 |
 > | **分类边界** | 领域标签可能遮蔽内部差异和跨领域共享结构 | 课程分类、学科身份分析 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; 同上 |
 > | **操作化与效度** | AOK 进入评分形成内部对齐，也可能诱发表面连接 | 评估设计、构念效度审查 | 同上 |
+> | **领域特异性** | 领域自身的主客观属性会钳制或催化认知阶段的跃迁 | 日常判断、认识论发展 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] |
 
 ---
 
@@ -224,9 +242,10 @@ updated: 2026-08-04
 
 ---
 
-## 应用案例
+## 相关研究
 
-> [!evidence-grid] 教学与课程分析案例
+> [!evidence-grid-a] 相关研究索引
+> - **认识论演进的领域特异性** [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 横跨品味、审美、价值观、事实等领域，实证了个体的认识论阶段具有强烈的领域非同步性特征。
 > - **跨领域伦理议题** [[Argument_Darwish_2009_Queens|Darwish (2009)]] 记录的 ToK 课堂围绕堕胎、死刑与种族歧视展开讨论，引导学生比较不同领域的证据逻辑并识别道德判断中的文化偏见。
 > - **规定题目论文的领域比较** [[Argument_Hughes_2014_JRIE|Hughes (2014)]] 分析跨学科论文如何调用 AOK 发展[[Knowledge Questions|知识问题]]，同时指出领域连接只代表部分[[Critical Thinking|批判性思维]]表现。
 > - **科学与其他领域的地位冲突** [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 借助自然科学教学分析开放审查与学科权威之间的张力，并要求反身检验 AOK 框架本身的价值排序。
