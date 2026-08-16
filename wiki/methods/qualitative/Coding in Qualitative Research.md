@@ -8,7 +8,7 @@ summary: "质性研究中将文本或图像数据拆分为片段并赋予类别�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -36,11 +36,12 @@ related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
   - "[[Argument_Wang_2025_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-08-15
+updated: 2026-08-16
 ---
 
 # Coding in Qualitative Research
@@ -97,6 +98,25 @@ updated: 2026-08-15
 
 > [!note]-
 > 在[[Qualitative Computer Software|CAQDAS]]中，编码是描述所涉文本数据的词或短短语，供后续排序、组合或检索；软件把编码排列成层级（树）与节点（关键编码），并支持把编码备忘录纳入同一分类图式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
+
+### Miles & Huberman 生成意义的十二种策略
+
+> [!feature] Miles & Huberman（1994）从转录数据生成意义的十二种策略
+> - **计数（counting）** 统计想法、主题、数据片段、词的出现频次。
+> - **注意模式与主题（noting patterns and themes）** 识别源自重复主题、原因、解释或建构的格式塔（Gestalts）。
+> - **看到可信性（seeing plausibility）** 运用有依据的直觉，尝试为数据作出良好理解并得出结论。
+> - **聚类（clustering）** 把条目归入类别、类型、行为与分类。
+> - **制造隐喻（making metaphors）** 使用比喻性与内涵性语言而非字面性与外延性语言，使数据生动、缩减数据、形成模式、去中心化数据并与理论连接。
+> - **拆分变量（splitting variables）** 细化、区分并"拆解"想法，摆脱整合驱动与数据模糊化。
+> - **把个别纳入一般（subsuming particulars into the general）** 类似 Glaser 的"持续比较"，朝向澄清关键概念。
+> - **因子化（factoring）** 把大量变量归入较少（通常不可观测的）假设变量。
+> - **识别变量间关系（identifying relations between variables）** 识别并记录变量间关系。
+> - **寻找中介变量（finding intervening variables）** 寻找"阻碍"本应强的变量关系的其他变量。
+> - **建立证据逻辑链（building a logical chain of evidence）** 记录因果并作出推断。
+> - **建构概念／理论连贯性（making conceptual/theoretical coherence）** 从隐喻到建构、到理论来解释现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
+
+> [!info] 编码在数据缩减中的作用
+> 在 Miles & Huberman 的建议中贯穿始终的是编码的重要性——部分作为缩减质性数据过载的方式。分析通过编码可在场所内（within-site）与跨场所（cross-site）进行，使因果链、网络与矩阵得以建立，以应对通过仔细的数据展示来缩减数据过载这一主要议题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
 
 ---
 

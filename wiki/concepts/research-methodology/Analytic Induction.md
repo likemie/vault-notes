@@ -6,7 +6,7 @@ aliases:
 summary: "Znaniecki (1934) 提出的质性研究策略：从数据生成理论后，主动寻找偏差或否证案例，通过反复修正理论直至其经得起严格检验。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,10 +30,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-07-11
+updated: 2026-08-16
 ---
 
 # Analytic Induction
@@ -68,6 +69,24 @@ updated: 2026-07-11
 > - **链节二：主动寻找否证** 不是等待反例偶然出现，而是主动设计寻找最可能推翻理论的案例——类似于 [[Karl Popper|Popper]] 的"严峻检验"（[[Falsification|severe test]]）。
 > - **链节三：修正而非抛弃** 发现偏差案例≠理论完全失败，而是揭示理论适用条件的边界——使理论更精确而非更无力。
 > - **链节四：终点是稳健的理论** 当没有更多反例出现时，理论经受了现有的最严格检验，具有良好的抗否证性。
+
+> [!info] LeCompte & Preissle（1993）的概括
+> 分析归纳的过程是：扫描数据以生成现象类别 → 寻求类别间关系 → 基于所检视数据写出工作类型学与摘要 → 以随后的案例与分析精炼这些类型学 → 刻意寻求负面与不一致案例以修改、扩展或限制原有解释／理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
+
+> [!proc] Denzin（1970）的分析归纳程序
+> 1. 形成对要解释现象的粗略定义。
+> 2. 形成对该现象的解释性假设。
+> 3. 以假设来检视一个案例，确定假设是否契合该案例的事实。
+> 4. 若假设不契合事实，则重新表述假设或重新定义现象，使该案例被排除。
+> 5. 检视少数案例后可能获得实践上的确定性，但发现负面案例即否定解释并要求重新表述。
+> 6. 继续检视案例、重新定义现象、重新表述假设，直到建立普遍关系；每个负面案例都要求重新定义或重新表述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
+
+> [!proc] Bogdan & Biklen（1992）的分析归纳五阶段
+> 1. 研究早期发展对特定现象的粗略定义与解释。
+> 2. 以研究中收集的数据检视这一定义与解释。
+> 3. 若定义或解释需依据新数据修改（如数据不契合解释或定义），则进行修改。
+> 4. 刻意尝试寻找可能不契合解释或定义的反例。
+> 5. 重复重新定义与重新表述的过程，直到建立能够容纳所有数据（包括负面案例）的解释，并确立普遍化的关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
 
 ## 概念辨析
 

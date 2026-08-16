@@ -10070,11 +10070,31 @@
     ]
   },
   {
+    "title": "Constant Comparison",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Constant Comparison.md",
+    "aliases": [
+      "持续比较法",
+      "不断比较",
+      "constant comparative method",
+      "constant comparison analysis"
+    ]
+  },
+  {
     "title": "Constructivist Grounded Theory",
     "type": "method",
     "path": "wiki/methods/qualitative/Constructivist Grounded Theory.md",
     "aliases": [
       "建构主义扎根理论"
+    ]
+  },
+  {
+    "title": "Content Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Content Analysis.md",
+    "aliases": [
+      "内容分析",
+      "content analysis method"
     ]
   },
   {
@@ -10374,6 +10394,16 @@
       "母子对话法",
       "MCC",
       "simulated mother-child conversation"
+    ]
+  },
+  {
+    "title": "Narrative Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Narrative Analysis.md",
+    "aliases": [
+      "叙事分析",
+      "叙事与传记分析",
+      "biographical analysis"
     ]
   },
   {
@@ -10684,6 +10714,16 @@
       "triangulate",
       "data triangulation",
       "methodological triangulation"
+    ]
+  },
+  {
+    "title": "Typological Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Typological Analysis.md",
+    "aliases": [
+      "类型学分析",
+      "类型分析",
+      "typological analysis method"
     ]
   },
   {
@@ -16348,6 +16388,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md"
+  },
+  {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

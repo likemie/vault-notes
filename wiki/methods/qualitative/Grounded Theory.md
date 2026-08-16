@@ -8,9 +8,9 @@ summary: "一种从社会学发展而来的质性研究设计，通过多阶段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - qualitative-research
@@ -33,13 +33,24 @@ related_methods:
   - "[[Constructivist Grounded Theory]]"
 related_persons: []
 related_facts: []
+related_methods:
+  - "[[Qualitative Research]]"
+  - "[[Theoretical Sampling]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Computer Software]]"
+  - "[[Discourse Analysis]]"
+  - "[[Ethnography]]"
+  - "[[Quantitative Research]]"
+  - "[[Constructivist Grounded Theory]]"
+  - "[[Constant Comparison]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-08-15
+updated: 2026-08-16
 ---
 
 # Grounded Theory
@@ -82,6 +93,7 @@ updated: 2026-08-15
 
 > [!tip]-
 > - [[Constructivist Grounded Theory]] — Charmaz (2006) 发展的[[Constructivist Paradigm|建构主义]]版本，更强调研究者与参与者在意义建构中的共同作用，强调理论的建构性而非发现式生成。
+> - [[Constant Comparison|持续比较]] — 扎根理论的核心分析技术，把新获取数据与既有数据、类别和理论不断比较，用负面案例修正类别直至完全容纳数据；本书第33章将专门讨论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
 > - vs [[Phenomenology|现象学]] — 现象学聚焦于描述某一现象的本质体验，扎根理论的目标是生成解释过程或行动的理论。
 > - vs [[Ethnography]] — 民族志聚焦于描述整个文化群体的共享模式，扎根理论则聚焦于某一具体过程或行动。
 
