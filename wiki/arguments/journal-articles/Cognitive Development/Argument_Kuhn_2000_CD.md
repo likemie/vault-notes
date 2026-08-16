@@ -45,14 +45,14 @@ sources:
 part_of:
 status: active
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kuhn_2000_CD"
 argument_key: "Argument_Kuhn_2000_CD"
 argument_display_title: "The development of epistemological understanding"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -111,7 +111,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **评估工具**<br>[[Epistemological Understanding Assessment\|认识论理解评估工具]] (EUA) | 包含 15 对相互冲突的主张（如 Robin 与 Chris 对某事的不同看法），横跨五个判断领域。测验通过追踪参与者的两步判断（“是否只有一个正确？”和“是否有一个更正确？”），来诊断个体在不同领域所处的认识论层次。 |
+> | **评估工具**<br>[[Epistemological Understanding Assessment\|认识论理解评估工具]] (EUA) | 包含 15 对相互冲突的主张（如 Robin 与 Chris 对某事的不同看法），横跨五个判断领域。测验通过追踪参与者的两步判断（“是否只有一个正确？”和“是否有一个更正确？”），来诊断个体在不同领域所处的[[Epistemology\|认识论]]层次。 |
 > | **横向比较／量化分析**<br>Cross-sectional Analysis | 收集不同年龄和教育背景群体的数据，统计各领域达到绝对论、多元论或评价论的频次，并使用四字母组合模型来记录个体的跨领域表现模式。 |
 > | **跨领域模式编码**<br>Pattern Coding | 排除难度过低的个人品味领域后，个体在审美、价值观、社会事实、物理事实四个核心领域的[[Epistemology\|认识论]]层级被依次[[Coding in Qualitative Research\|编码]]为由四个首字母组成的序列：绝对论（[[Absolutist]], A）、多元论（[[Multiplist]], M）或评价论（[[Evaluativist]], E）。例如，MMMM 代表在四个领域均为多元论。 |
 > | **访谈验证／儿童组测验**<br>One-on-one Interview | 研究一针对 5 年级以上及成人使用纸笔测试；研究二为验证向多元论过渡的最早阶段，对 21 名 2-3 年级儿童进行了详细的口头理解和追问访谈。 |
@@ -232,7 +232,7 @@ issuing_organization: ""
 > | **MMEM** | 5 | 仅在社会事实领域达评价论，其余多元论。 |
 
 > [!evidence-grid] 序列反转的量化印证
-> - **物理事实率先找回评估尺度** 在部分跨越多元论的混合模式（如 MMME，n=6）中，个体唯独在物理世界（如科学家争论原子构成）中找回了评价论的视角，认识到虽然主观观点繁多，但实证证据能证明哪个理论更接近真相。社会事实（如犯罪原因）紧随其后（p. 319）。
+> - **物理事实率先找回评估尺度** 在部分跨越多元论的混合模式（如 MMME，n=6）中，个体唯独在物理世界（如科学家争论原子构成）中找回了评价论的视角，认识到虽然主观观点繁多，但实证证据能证明哪个理论更接近真相。社会事实（如犯罪原因）紧随其后。
 > - **价值观领域的出人意料之难** 虽然审美曾被推测为最难达到评价论的领域，但数据表明，部分个体即使在事实和审美上达到了评价论，在价值观上依然死守多元论或绝对论（如 MEEE 模式，价值观仍为多元论；而绝对论在价值观的滞留比例也出奇地高）。价值观成为了认知成熟道路上最顽固的绊脚石（p. 319）。
 
 > [!warrant]- 推理桥梁

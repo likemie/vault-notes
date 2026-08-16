@@ -8,7 +8,7 @@ summary: "按明确标准把质性数据分入组、子集或类别的分类过�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"
@@ -39,7 +39,7 @@ updated: 2026-08-17
 ## 定义
 
 > [!def] 方法定义
-> 类型学分析（Typological Analysis）本质上是一种分类过程（LeCompte & Preissle, 1993, p. 257）：按某种明确标准（如行动、行为、意义、参与性质、关系、情境、活动）把数据放入组、子集或类别中。它是次级编码（secondary coding）的过程（Miles & Huberman, 1984），即把描述性编码进一步汇总、归入子集。类型（typology）是一组代表更一般集合或类别的子类型现象（Lofland, 1970）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
+> 类型学分析（Typological Analysis）本质上是一种分类过程（LeCompte & Preissle, 1993, p. 257）：按某种明确标准（如行动、行为、意义、参与性质、关系、情境、活动）把数据放入组、子集或类别中。它是次级[[Coding in Qualitative Research|编码]]（secondary coding）的过程（Miles & Huberman, 1984），即把描述性编码进一步汇总、归入子集。类型（typology）是一组代表更一般集合或类别的子类型现象（Lofland, 1970）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
 
 > [!citation-card]- 关键定义
 > 类型学分析本质上是一种分类过程，按某种明确标准把数据放入组、子集或类别；它是次级编码的过程，把描述性编码进一步汇总、归入子集。类型是一组代表更一般集合或类别的子类型现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
@@ -54,17 +54,17 @@ updated: 2026-08-17
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 分类是基于明确标准的人为建构，类型不是自然给定的，而是研究者按判据组织数据的结果。
 > - **研究者角色** 研究者决定分类标准与类型边界，须明确标准并保持分类的一致性与忠实性。
 > - **有效性标准** 类型须以清晰判据为基础，子集间能区分、子集内具一致性；分类须忠实于数据。
-> - **不声称回答的问题** 分类本身不说明因果关系；建立类型不等于解释类型的成因。
+> - **不声称回答的问题** 分类本身不说明[[Causality|因果关系]]；建立类型不等于解释类型的成因。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research|质性研究]]的数据分析环节。
 > - **数据收集** 访谈、观察、文档等。
 > - **分析方法** [[Coding in Qualitative Research|编码]]、次级编码、分类、类型建构。
-> - **辅助技术** [[Constant Comparison|持续比较]]、备忘录、[[Analytic Induction|分析归纳]]。
+> - **辅助技术** 持续比较、备忘录、分析归纳。
 
 ## 研究程序
 
@@ -88,9 +88,9 @@ updated: 2026-08-17
 
 > [!method-limits] 方法局限
 > - **偏误来源** 分类标准选择带研究者预设；类型可能过度简化数据变异。
-> - **适用边界** 类型是次级编码的结果，依赖前期编码质量。
+> - **适用边界** 类型是次级[[Coding in Qualitative Research|编码]]的结果，依赖前期编码质量。
 > - **误用风险** 把类型学分类当作因果解释；把人为分类当作自然本质。
-> - **补救方式** 明确分类标准，结合[[Constant Comparison|持续比较]]与备忘录，用反例检验类型。
+> - **补救方式** 明确分类标准，结合持续比较与备忘录，用反例检验类型。
 
 ## 相关理论与方法
 

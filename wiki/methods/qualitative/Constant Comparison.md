@@ -9,9 +9,9 @@ summary: "质性数据分析中把新获取数据与既有数据、类别和理�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -50,14 +50,14 @@ updated: 2026-08-17
 > *In constant comparison the researcher compares newly acquired data with existing data and categories and theories that have been devised and which are emerging, in order to achieve a perfect fit between these and the data.*
 
 > [!method-scope] 方法范围
-> - **研究对象** 正在分析的质性数据（访谈、观察、文档等）及其生成的类别与编码。
+> - **研究对象** 正在分析的质性数据（访谈、观察、文档等）及其生成的类别与[[Coding in Qualitative Research|编码]]。
 > - **问题类型** 适合归纳生成类别、检验类别边界、修正理论框架的质性分析。
 > - **分析单位** 数据片段、编码、类别、负面案例。
 > - **输出形式** 修正后的类别体系、契合数据的理论。
 
 ## 方法定位
 
-> [!method-position] 认识论与方法定位
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 类别与理论不是预设后强加于数据的，而是在与数据的持续比较中[[Emergence|涌现]]并不断修正的。
 > - **研究者角色** 研究者是持续比较的执行者，须主动寻找挑战既有类别的新数据与负面案例。
 > - **有效性标准** 理论或类别须能容纳全部数据；负面案例须导致修正而非被忽略。
@@ -67,19 +67,19 @@ updated: 2026-08-17
 > - **研究设计** [[Qualitative Research|质性研究]]、[[Grounded Theory|扎根理论]]的数据分析技术。
 > - **数据收集** 访谈、观察、文档等。
 > - **分析方法** 持续比较、[[Coding in Qualitative Research|编码]]、类别生成与修正。
-> - **辅助技术** 备忘录、反例检验、理论抽样。
+> - **辅助技术** 备忘录、反例检验、[[Theoretical Sampling|理论抽样]]。
 
 ## 研究程序
 
 > [!proc] 持续比较的操作逻辑
-> 1. **生成初步类别** 从数据中形成初步的编码与类别。
+> 1. **生成初步类别** 从数据中形成初步的[[Coding in Qualitative Research|编码]]与类别。
 > 2. **比较新数据** 把新获取的数据与既有数据、类别和理论比较。
 > 3. **寻找负面案例** 主动寻找不契合既有类别或理论的数据或案例。
 > 4. **修正类别与理论** 负面案例导致类别或理论被修改、扩展或限定。
 > 5. **重复直至契合** 重复比较与修正，直到类别与理论完全容纳所有数据。
 
 > [!info] 与[[Grounded Theory|扎根理论]]的关系
-> 持续比较是[[Grounded Theory|扎根理论]]（grounded theory）的核心特征之一（Glaser, 1978），也是质性数据分析中的重要技术。本书在第33章（扎根理论）讨论该技术；它亦是下一章讨论的内容分析的组成部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
+> 持续比较是[[Grounded Theory|扎根理论]]（grounded theory）的核心特征之一（Glaser, 1978），也是质性数据分析中的重要技术。本书在第33章（扎根理论）讨论该技术；它亦是下一章讨论的[[Content Analysis|内容分析]]的组成部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
 
 ## 适用场景
 
