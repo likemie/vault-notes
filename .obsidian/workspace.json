@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,13 +224,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4a27173df321c7e9",
+  "active": "3675a1fed5dc58d3",
   "lastOpenFiles": [
-    "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md",
+    "wiki/concepts/research-methodology/Analytic Induction.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md",
+    "wiki/methods/qualitative/Constant Comparison.md",
+    "wiki/concepts/curriculum/Areas of Knowledge.md",
+    "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md",
     "raw/tok-final-report.pdf",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2010_JEP.md",
-    "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/concepts/educational-psychology/Epistemological Understanding.md",
     "wiki/persons/uk/Keith Morrison.md",
     "wiki/persons/uk/Lawrence Manion.md",
@@ -242,7 +244,6 @@
     "wiki/concepts/educational-psychology/Evaluativist.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md",
     "wiki/concepts/educational-psychology/Absolutist.md",
-    "wiki/methods/qualitative/Constant Comparison.md",
     "wiki/methods/qualitative/Typological Analysis.md",
     "wiki/methods/qualitative/Narrative Analysis.md",
     "wiki/methods/qualitative/Content Analysis.md",
