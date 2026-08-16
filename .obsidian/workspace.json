@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md",
+                "file": "wiki/concepts/educational-psychology/Evaluativist.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Kuhn_2000_CD"
+              "title": "Evaluativist"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,20 +223,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4a27173df321c7e9",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/concepts/educational-psychology/Evaluativist.md",
+    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md",
+    "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md",
+    "wiki/concepts/educational-psychology/Multiplist.md",
+    "wiki/concepts/educational-psychology/Absolutist.md",
+    "wiki/concepts/educational-psychology/Epistemological Understanding.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md",
     "wiki/methods/qualitative/Constant Comparison.md",
     "wiki/methods/qualitative/Typological Analysis.md",
     "wiki/methods/qualitative/Narrative Analysis.md",
     "wiki/methods/qualitative/Content Analysis.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md",
     "raw/045_29 Organizing and presenting qualitative data.txt",
-    "wiki/arguments/journal-articles/Cognitive Development/Argument_Kuhn_2000_CD.md",
     "wiki/persons/us/William Foote Whyte.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2010_JEP.md",
     "wiki/concepts/research-methodology/Double Hermeneutic.md",
-    "wiki/concepts/educational-psychology/Epistemological Understanding.md",
     "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Cole_2005_JRIE.md",
     "wiki/concepts/research-methodology/Idiographic.md",
     "wiki/concepts/research-methodology/Nomothetic.md",
@@ -245,7 +247,6 @@
     "sources/Kuhn_2000_CD.md",
     "sources/Kuhn_2000_CD.pdf",
     "wiki/persons/us/Deanna Kuhn.md",
-    "wiki/concepts/educational-psychology/Evaluativist.md",
     "wiki/arguments/journal-articles/Cognitive Development",
     "wiki/concepts/educational-philosophy/Critical Thinking.md",
     "raw/kuhn2000.pdf",
@@ -255,9 +256,7 @@
     "update_mermaid.py",
     "wiki/methods/quantitative/Multinomial Logistic Regression.md",
     "wiki/concepts/educational-psychology/Simplicity of Knowledge.md",
-    "wiki/concepts/sociology-of-education/Educational Level.md",
     "rewrite_ontology.py",
-    "wiki/concepts/educational-philosophy/Ontology.md",
     "fix_citations.py",
     "generate_entries.py",
     "format_fmm.py",
