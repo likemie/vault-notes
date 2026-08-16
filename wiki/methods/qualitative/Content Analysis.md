@@ -16,7 +16,6 @@ tags:
   - research-methodology
   - data-analysis
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Memos]]"
 related_theories: []
 related_methods:
@@ -24,7 +23,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Constant Comparison]]"
   - "[[Typological Analysis]]"
-  - "[[Analytic Induction]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -32,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-17
 ---
 
 # Content Analysis
@@ -40,7 +38,12 @@ updated: 2026-08-16
 ## 定义
 
 > [!def] 方法定义
-> 内容分析（Content Analysis）是质性数据分析中对开放性或文本数据进行系统分类、编码与解释的分析程序。内容分析涉及阅读与判断（reading and judgement）：研究者通读材料，识别意义单元，按类别与标签整理数据，再据此归纳主题、检验假设并作出解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
+> 内容分析（Content Analysis）是质性数据分析中对开放性或文本数据进行系统分类、编码与解释的分析程序。内容分析涉及阅读与判断（reading and judgement）：研究者通读材料，识别意义单元，按类别与标签整理数据，再据此归纳主题、检验假设并作出解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.4）
+
+> [!citation-card]- 关键定义
+> 内容分析涉及阅读与判断；其类别与标签必须反映研究目的、穷尽且互斥。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.4）
+>
+> *Content analysis involves reading and judgement; the categories and their labels must reflect the purpose of the research, be exhaustive, and be mutually exclusive.*
 
 > [!method-scope] 方法范围
 > - **研究对象** 开放题回答、访谈转录、政策文本、报纸、教材、网络内容等文本数据。
@@ -80,10 +83,10 @@ updated: 2026-08-16
 > 13. **再思考（rethinking）** 重写并检验研究目标是否达成。
 
 > [!warning] 类别化要求
-> 内容分析的类别及其标签必须：(a) 反映研究目的；(b) 穷尽（exhaustive）；(c) 互斥（mutually exclusive）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
+> 内容分析的类别及其标签必须：(a) 反映研究目的；(b) 穷尽（exhaustive）；(c) 互斥（mutually exclusive）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.4）
 
 > [!info] 计数（enumeration）
-> 内容分析常结合计数：对类别与编码、分析单元、术语、词或想法的频次进行统计，记录其出现率，并对其频次进行统计分析（如 Monge & Contractor, 2003）。这是常规内容分析中使用的方法。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
+> 内容分析常结合计数：对类别与编码、分析单元、术语、词或想法的频次进行统计，记录其出现率，并对其频次进行统计分析（如 Monge & Contractor, 2003）。这是常规内容分析中使用的方法。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
 
 ## 适用场景
 

@@ -17,14 +17,13 @@ tags:
   - research-methodology
   - data-analysis
 related_concepts:
-  - "[[Emergence]]"
+  - "[[Analytic Induction]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Constant Comparison]]"
   - "[[Content Analysis]]"
-  - "[[Analytic Induction]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-17
 ---
 
 # Typological Analysis
@@ -40,7 +39,12 @@ updated: 2026-08-16
 ## 定义
 
 > [!def] 方法定义
-> 类型学分析（Typological Analysis）本质上是一种分类过程（LeCompte & Preissle, 1993, p. 257）：按某种明确标准（如行动、行为、意义、参与性质、关系、情境、活动）把数据放入组、子集或类别中。它是次级编码（secondary coding）的过程（Miles & Huberman, 1984），即把描述性编码进一步汇总、归入子集。类型（typology）是一组代表更一般集合或类别的子类型现象（Lofland, 1970）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
+> 类型学分析（Typological Analysis）本质上是一种分类过程（LeCompte & Preissle, 1993, p. 257）：按某种明确标准（如行动、行为、意义、参与性质、关系、情境、活动）把数据放入组、子集或类别中。它是次级编码（secondary coding）的过程（Miles & Huberman, 1984），即把描述性编码进一步汇总、归入子集。类型（typology）是一组代表更一般集合或类别的子类型现象（Lofland, 1970）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
+
+> [!citation-card]- 关键定义
+> 类型学分析本质上是一种分类过程，按某种明确标准把数据放入组、子集或类别；它是次级编码的过程，把描述性编码进一步汇总、归入子集。类型是一组代表更一般集合或类别的子类型现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
+>
+> *Typological analysis is essentially a classificatory process... It is the process of secondary coding where descriptive codes are then drawn together and put into subsets. Typologies are a set of phenomena that represent subtypes of a more general set or category.*
 
 > [!method-scope] 方法范围
 > - **研究对象** 已编码的质性数据（访谈、观察、文档等）。
@@ -71,7 +75,7 @@ updated: 2026-08-16
 > 4. **有序呈现** 以有序、命名、编号的方式呈现给读者。
 
 > [!info] 类型的理论基础
-> Lazarsfeld & Barton（1951）提出类型学可依据潜在维度或关键特征来发展。Lofland（1970）强调类型是一组代表更一般类别的子类型现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
+> Lazarsfeld & Barton（1951）提出类型学可依据潜在维度或关键特征来发展。Lofland（1970）强调类型是一组代表更一般类别的子类型现象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
 
 ## 适用场景
 

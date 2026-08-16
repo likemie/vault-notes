@@ -24,6 +24,7 @@ related_concepts:
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
   - "[[Critical Thinking]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Areas of Knowledge]]"
   - "[[Pure Evaluation]]"
   - "[[Hypothesis]]"
@@ -34,7 +35,8 @@ related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[In-depth Interview]]"
-related_instruments: []
+related_instruments:
+  - "[[Epistemological Understanding Assessment]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -109,7 +111,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **材料分析／认识论评估工具**<br>Epistemological Assessment Instrument | 自编涵盖 5 个判断领域的 15 题测验（Table 2）。每题提供 Robin 和 Chris 两个对立观点，先问“是否只有一个对，还是两人都有部分道理？”（测定是否脱离绝对论）；若回答后者，追问“是否其中一个观点可能比另一个更好？”（测定是否达到评价论）。 |
+> | **评估工具**<br>[[Epistemological Understanding Assessment\|认识论理解评估工具]] (EUA) | 包含 15 对相互冲突的主张（如 Robin 与 Chris 对某事的不同看法），横跨五个判断领域。测验通过追踪参与者的两步判断（“是否只有一个正确？”和“是否有一个更正确？”），来诊断个体在不同领域所处的认识论层次。 |
 > | **横向比较／量化分析**<br>Cross-sectional Analysis | 收集不同年龄和教育背景群体的数据，统计各领域达到绝对论、多元论或评价论的频次，并使用四字母组合模型来记录个体的跨领域表现模式。 |
 > | **跨领域模式编码**<br>Pattern Coding | 排除难度过低的个人品味领域后，个体在审美、价值观、社会事实、物理事实四个核心领域的[[Epistemology\|认识论]]层级被依次[[Coding in Qualitative Research\|编码]]为由四个首字母组成的序列：绝对论（[[Absolutist]], A）、多元论（[[Multiplist]], M）或评价论（[[Evaluativist]], E）。例如，MMMM 代表在四个领域均为多元论。 |
 > | **访谈验证／儿童组测验**<br>One-on-one Interview | 研究一针对 5 年级以上及成人使用纸笔测试；研究二为验证向多元论过渡的最早阶段，对 21 名 2-3 年级儿童进行了详细的口头理解和追问访谈。 |

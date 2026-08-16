@@ -20,14 +20,13 @@ tags:
   - grounded-theory
 related_concepts:
   - "[[Emergence]]"
+  - "[[Analytic Induction]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Grounded Theory]]"
-  - "[[Typological Analysis]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
-  - "[[Analytic Induction]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-17
 ---
 
 # Constant Comparison
@@ -43,7 +42,12 @@ updated: 2026-08-16
 ## 定义
 
 > [!def] 方法定义
-> 持续比较（Constant Comparison）是质性数据分析中把新获取的数据与既有数据、已生成的类别和理论不断比较的过程，目的是在数据、类别与理论之间实现完美契合（perfect fit）。因此，对既有类别或理论构成挑战的负面案例（negative cases）或数据，会导致类别或理论被修改，直到它们能够完全容纳所有数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
+> 持续比较（Constant Comparison）是质性数据分析中把新获取的数据与既有数据、已生成的类别和理论不断比较的过程，目的是在数据、类别与理论之间实现完美契合（perfect fit）。因此，对既有类别或理论构成挑战的负面案例（negative cases）或数据，会导致类别或理论被修改，直到它们能够完全容纳所有数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
+
+> [!citation-card]- 关键定义
+> 持续比较中，研究者把新获取数据与既有数据、已生成的类别和理论比较，以实现数据与类别、理论之间的完美契合。负面案例或挑战既有类别与理论的数据导致它们被修改，直到完全容纳所有数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
+>
+> *In constant comparison the researcher compares newly acquired data with existing data and categories and theories that have been devised and which are emerging, in order to achieve a perfect fit between these and the data.*
 
 > [!method-scope] 方法范围
 > - **研究对象** 正在分析的质性数据（访谈、观察、文档等）及其生成的类别与编码。
@@ -75,7 +79,7 @@ updated: 2026-08-16
 > 5. **重复直至契合** 重复比较与修正，直到类别与理论完全容纳所有数据。
 
 > [!info] 与[[Grounded Theory|扎根理论]]的关系
-> 持续比较是[[Grounded Theory|扎根理论]]（grounded theory）的核心特征之一（Glaser, 1978），也是质性数据分析中的重要技术。本书在第33章（扎根理论）讨论该技术；它亦是下一章讨论的内容分析的组成部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
+> 持续比较是[[Grounded Theory|扎根理论]]（grounded theory）的核心特征之一（Glaser, 1978），也是质性数据分析中的重要技术。本书在第33章（扎根理论）讨论该技术；它亦是下一章讨论的内容分析的组成部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.5）
 
 ## 适用场景
 

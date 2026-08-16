@@ -22,9 +22,9 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Case Study]]"
   - "[[Narrative Research]]"
   - "[[Stories as Research Data]]"
-  - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-17
 ---
 
 # Narrative Analysis
@@ -41,7 +41,12 @@ updated: 2026-08-16
 ## 定义
 
 > [!def] 方法定义
-> 叙事分析（Narrative Analysis）是把故事（story）作为人类意义建构与表达的基本形式来分析质性数据的分析方法。布鲁纳（Jerome Bruner）（1986）指出人类以"故事文本"（storied text）来制造意义与思考，故事抓住人类处境、意向性与经验的生动性，呈现参与者的多重视角与"主观景观"（subjective landscapes）。故事使熟悉的事物变得陌生、"从显而易见中解救出来"，并要求读者填补空白，因此是一种互动媒介（pp. 14, 19, 24, 29）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.3)]]
+> 叙事分析（Narrative Analysis）是把故事（story）作为人类意义建构与表达的基本形式来分析质性数据的分析方法。布鲁纳（Jerome Bruner）（1986）指出人类以"故事文本"（storied text）来制造意义与思考，故事抓住人类处境、意向性与经验的生动性，呈现参与者的多重视角与"主观景观"（subjective landscapes）。故事使熟悉的事物变得陌生、"从显而易见中解救出来"，并要求读者填补空白，因此是一种互动媒介（pp. 14, 19, 24, 29）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.3）
+
+> [!citation-card]- 关键定义
+> 人类以"故事文本"制造意义与思考，故事抓住人类处境、意向性与经验的生动性，呈现参与者的多重视角与生活现实（"主观景观"）。故事使熟悉的事物变得陌生、"从显而易见中解救出来"，并要求读者填补空白，因此是一种互动媒介。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.3）
+>
+> *Humans make meaning and think in terms of "storied text" which catch the human condition, human intentionality, the vividness of human experience very fully... and the multiple perspectives and lived realities ("subjective landscapes") of participants (Bruner, 1986).*
 
 > [!method-scope] 方法范围
 > - **研究对象** 访谈叙事、传记、生命史、口语或书面故事、个案经历的时间序列。
@@ -52,7 +57,7 @@ updated: 2026-08-16
 ## 方法定位
 
 > [!method-position] 认识论与方法定位
-> - **知识观** 叙事不仅是传递信息，还满足人们应对生活的心理需要，帮助群体结晶或界定问题、立场与观点，促成说服或正面形象，并贡献于身份的建构（Gibbs, 2007, p. 60）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.3)]]
+> - **知识观** 叙事不仅是传递信息，还满足人们应对生活的心理需要，帮助群体结晶或界定问题、立场与观点，促成说服或正面形象，并贡献于身份的建构（Gibbs, 2007, p. 60）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.3）
 > - **研究者角色** 研究者是叙事的选择者与建构者：叙事无法记录所有事件，须依研究者选择的判据进行选择性聚焦。
 > - **有效性标准** 对文本的诠释须以忠实于文本（fidelity to the text）为标准，考虑多种诠释并选择最稳妥者。
 > - **不声称回答的问题** 叙事不是统计性概括；不追求代表性或大样本推断，其力量在于具体、整合与人性化。
@@ -81,7 +86,7 @@ updated: 2026-08-16
 > - **尾声（coda）** 叙事的收束。
 
 > [!info] 叙述中的逐字引用
-> 在建构叙事分析时，可在相关处引入参与者的逐字引用，为叙事增添生命力并直接传达要点。引用应足够短以传达要点而不扭曲或遗漏相关细节与语境，又不过长使读者自行分析；通常宜附研究者诠释性评论。引用常因其能极好地结晶或例示议题而被选择，研究者须决定是否指明说话者身份（见第28章伦理讨论）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.3)]]
+> 在建构叙事分析时，可在相关处引入参与者的逐字引用，为叙事增添生命力并直接传达要点。引用应足够短以传达要点而不扭曲或遗漏相关细节与语境，又不过长使读者自行分析；通常宜附研究者诠释性评论。引用常因其能极好地结晶或例示议题而被选择，研究者须决定是否指明说话者身份（见第28章伦理讨论）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011)]]（29.3）
 
 ## 适用场景
 

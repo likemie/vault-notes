@@ -16,27 +16,26 @@ tags:
   - theme/critical-thinking
   - level/k12
 related_concepts:
+  - "[[Knowledge Production]]"
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
-  - "[[Constructed Knowledge]]"
-  - "[[Champ]]"
   - "[[Epistemology]]"
+  - "[[Domain Specificity]]"
   - "[[Ways of Knowing]]"
   - "[[Knowledge Framework]]"
-  - "[[Knowledge Production]]"
-  - "[[Critical Thinking]]"
-  - "[[Construct]]"
-  - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Knowledge Questions]]"
   - "[[Domain Analysis]]"
   - "[[Document]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
+  - "[[Constructed Knowledge]]"
   - "[[Reliability]]"
-  - "[[Domain Specificity]]"
   - "[[Falsification]]"
+  - "[[Operationalization]]"
+  - "[[Hypothesis]]"
+  - "[[Critical Thinking]]"
   - "[[Construct Validity]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -44,10 +43,10 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
-  - "[[Argument_Kuhn_2000_CD]]"
 confidence: high
 status: active
 created: 2026-07-26
@@ -61,7 +60,7 @@ updated: 2026-08-16
 ## 定义
 
 > [!def] 核心定义
-> **知识领域（Areas of Knowledge, AOK）** 广义上指人类进行[[Knowledge Production|知识生产]]、信念辩护和日常论辩的具体场域，涵盖了从高度主观的个人品味到高度客观的物理事实。狭义上，它是 [[International Baccalaureate|IB]] [[Theory of Knowledge|知识论]]课程中对主要学术传统的标准分类框架（如数学、自然科学、艺术等）。在教育和心理学研究中，它被用来考察不同领域如何界定研究对象、形成概念、生产证据、选择方法并建立各自的判断标准。[[Argument_Darwish_2009_Queens|(Darwish, 2009)]] [[Argument_Hughes_2014_JRIE|(Hughes, 2014)]] [[Argument_Kuhn_2000_CD|(Kuhn et al., 2000)]]
+> **知识领域（Areas of Knowledge, AOK）** 广义上指人类进行[[Knowledge Production|知识生产]]、信念辩护和日常论辩的具体场域，涵盖了从高度主观的个人品味到高度客观的物理事实[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000)]]。狭义上，它是 [[International Baccalaureate|IB]] [[Theory of Knowledge|知识论]]课程中对主要学术传统的标准分类框架（如数学、自然科学、艺术等）[[Argument_Darwish_2009_Queens|(Darwish, 2009)]]。在教育和心理学研究中，它被用来考察不同领域如何界定研究对象、形成概念、生产证据、选择方法并建立各自的判断标准[[Argument_Hughes_2014_JRIE|(Hughes, 2014)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 将抽象的[[Epistemology|认识论]]争议具象化为特定的情境（如：如何证明一个科学事实 vs 如何评价一幅画）。
