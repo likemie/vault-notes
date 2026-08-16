@@ -69,7 +69,7 @@ title: "Argument_Bergeron_2015_TeachingTOK"
 argument_key: "Argument_Bergeron_2015_TeachingTOK"
 argument_display_title: "Teaching the Theory of Knowledge course in IB World Schools"
 argument_kind: "report"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
