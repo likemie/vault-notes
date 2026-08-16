@@ -50,10 +50,12 @@ related_methods:
   - "[[Focus Group]]"
   - "[[t-test]]"
   - "[[Analysis of Variance]]"
+  - "[[Exploratory Factor Analysis]]"
   - "[[Constant Comparison]]"
   - "[[Coding in Qualitative Research]]"
 related_instruments:
   - "[[Confidence Teaching TOK Scale]]"
+  - "[[6-Item TOK Focus Group Protocol]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -69,7 +71,7 @@ title: "Argument_Bergeron_2015_TeachingTOK"
 argument_key: "Argument_Bergeron_2015_TeachingTOK"
 argument_display_title: "Teaching the Theory of Knowledge course in IB World Schools"
 argument_kind: "report"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -121,8 +123,8 @@ issuing_organization: "International Baccalaureate Organization"
 > |------|----------------|
 > | **[[Mixed Methods Research\|混合方法]]设计（Mixed Methods Design）** | 采用[[Explanatory Sequential Design\|解释性序列设计]]（explanatory sequential design），先收集量化数据，再通过质性分析深入解释量化结果背后的机制（Creswell, 2008）。 |
 > | **[[Questionnaire\|问卷调查]]（Survey）** | 使用[[Theory of Knowledge\|知识论]]调查问卷，采用分支逻辑：在第10题后分离，任课群体完成部分A（核心感知与量表），协调员完成部分B（管理与支持）。内含包含11道题的[[Confidence Teaching TOK Scale\|教学信心量表]]。 |
-> | **[[Focus Group\|焦点小组]]（Focus Groups）** | 针对开放性回答进行深挖。在阿姆斯特丹、布里斯班和芝加哥举行的专业发展工作坊中招募具有不同教龄的群体参与半结构化讨论。 |
-> | **分析策略（Data Analysis）** | 量化部分使用[[t-test\|独立样本t检验]]和[[Analysis of Variance\|方差分析]]比较教龄与[[Class Size\|班级规模]]的影响，利用探索性因子分析（EFA）检验量表结构。质性部分使用[[Constant Comparison\|持续比较法]]（constant comparison method）对访谈和开放式回应进行归纳[[Coding in Qualitative Research\|编码]]与词频分析。 |
+> | **[[Focus Group\|焦点小组]]（Focus Groups）** | 针对开放性回答进行深挖。在阿姆斯特丹、布里斯班和芝加哥举行的专业发展工作坊中招募具有不同教龄的群体参与半结构化讨论，使用[[6-Item TOK Focus Group Protocol\|知识论焦点小组六题协议]]作为引导。 |
+> | **分析策略（Data Analysis）** | 量化部分使用[[t-test\|独立样本t检验]]和[[Analysis of Variance\|方差分析]]比较教龄与[[Class Size\|班级规模]]的影响，利用[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）检验量表结构。质性部分使用[[Constant Comparison\|持续比较法]]（constant comparison method）对访谈和开放式回应进行归纳[[Coding in Qualitative Research\|编码]]与词频分析。 |
 
 > [!sample-panel]- 样本与材料快照
 > 
@@ -130,7 +132,7 @@ issuing_organization: "International Baccalaureate Organization"
 > |----------|------|
 > | **文本样本** | 全球 1534 名有效受访者，其中 960 名为任课群体，585 名为协调员；绝大多数拥有硕士以上学历（60.7%）。 |
 > | **访谈样本** | 33 名群体成员（13男，20女），来自9个不同国家的[[International Baccalaureate\|国际文凭]]学校，教龄横跨1至28年。 |
-> | **量表验证** | [[Confidence Teaching TOK Scale\|教学信心量表]]的 Cronbach's alpha 为 0.798；探索性因子分析确认了单一维度结构，累积方差贡献率支持将其作为整体得分分析。 |
+> | **量表验证** | [[Confidence Teaching TOK Scale\|教学信心量表]]的 Cronbach's alpha 为 0.798；[[Exploratory Factor Analysis\|探索性因子分析]]确认了单一维度结构，累积方差贡献率支持将其作为整体得分分析。 |
 
 ---
 

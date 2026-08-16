@@ -37,6 +37,7 @@ related_concepts:
   - "[[Praxis]]"
 related_theories: []
 related_methods:
+  - "[[Exploratory Factor Analysis]]"
   - "[[Case Study]]"
 related_persons: []
 related_facts:
@@ -219,7 +220,7 @@ citation_aliases:
 >
 > ---
 >
-> 3. **物理设施。** 现有设施无法容纳快速变化。这个因素在发达国家文献中很少被讨论，但在发展中国家尤为关键。全民教育目标（Education for All，简称 EFA）要求新增 500 万名教师和 1 亿个学位(Colclough, 2004,引自 p. 231)。对于缺乏这种基本基础设施的国家来说，无论某个外国教育模式多么"有吸引力"，实施的前提条件都不具备。
+> 3. **物理设施。** 现有设施无法容纳快速变化。这个因素在发达国家文献中很少被讨论，但在发展中国家尤为关键。全民教育目标（Education for All，简称 [[Exploratory Factor Analysis|EFA]]）要求新增 500 万名教师和 1 亿个学位(Colclough, 2004,引自 p. 231)。对于缺乏这种基本基础设施的国家来说，无论某个外国教育模式多么"有吸引力"，实施的前提条件都不具备。
 >
 > ---
 >

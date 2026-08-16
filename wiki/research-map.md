@@ -28,8 +28,8 @@ related_methods:
     <a href="/wiki/facts"><span>事实</span><strong>288</strong></a>
     <a href="/wiki/persons"><span>人物</span><strong>200</strong></a>
     <a href="/wiki/theories"><span>理论</span><strong>105</strong></a>
-    <a href="/wiki/methods"><span>方法</span><strong>184</strong></a>
-    <a href="/wiki/instruments"><span>测量工具</span><strong>10</strong></a>
+    <a href="/wiki/methods"><span>方法</span><strong>185</strong></a>
+    <a href="/wiki/instruments"><span>测量工具</span><strong>11</strong></a>
   </div>
 
   <div class="research-map-grid">

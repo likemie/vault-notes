@@ -23,7 +23,8 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Exploratory Factor Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -58,7 +59,7 @@ updated: 2026-08-03
 > |---|---|---|---|
 > | 批判性思维策略使用 | 14 | 澄清、问题分解、论证识别与分析、主张评估、替代方案、证据推理、反思和表达 | 采用十四题总分均值，分数越高表示自报使用程度越高 |
 
-探索性因子分析用于缩减题项。初始题项数、保留标准、载荷和因子数量为 —。十四题最终作为一个总量表计分，因此暂按单一报告维度记录，现有证据不足以证明量表具有单维结构。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 252, 255)]]
+[[Exploratory Factor Analysis|探索性因子分析]]用于缩减题项。初始题项数、保留标准、载荷和因子数量为 —。十四题最终作为一个总量表计分，因此暂按单一报告维度记录，现有证据不足以证明量表具有单维结构。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 252, 255)]]
 
 ---
 
@@ -100,7 +101,7 @@ updated: 2026-08-03
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文十四题研究版 | 澳大利亚 47 所学校的 ToK 十一、十二年级学生，在线施测。题项分析 n = 1,262，总分分析 n = 1,242。用于比较两个年级的自报[[Critical Thinking\|批判性思维]]策略使用 | 当前样本 α = .96；依据 Delphi Report 开发并经 EFA 缩题；因子结构、载荷、拟合和独立样本验证 — | 十二年级总分高于十一年级，4.85 对 4.62，t(1240) = 3.04，p < .001。十四题中十一题差异显著 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文十四题研究版 | 澳大利亚 47 所学校的 ToK 十一、十二年级学生，在线施测。题项分析 n = 1,262，总分分析 n = 1,242。用于比较两个年级的自报[[Critical Thinking\|批判性思维]]策略使用 | 当前样本 α = .96；依据 Delphi Report 开发并经 [[Exploratory Factor Analysis\|EFA]] 缩题；因子结构、载荷、拟合和独立样本验证 — | 十二年级总分高于十一年级，4.85 对 4.62，t(1240) = 3.04，p < .001。十四题中十一题差异显著 |
 
 ---
 
@@ -111,4 +112,4 @@ updated: 2026-08-03
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始研究版 | 英语，澳大利亚 | 十一、十二年级 ToK 学生 | 14 | 由 EFA 缩题形成 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 252, 255)]] |
+> | 原始研究版 | 英语，澳大利亚 | 十一、十二年级 ToK 学生 | 14 | 由 [[Exploratory Factor Analysis\|EFA]] 缩题形成 | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 252, 255)]] |

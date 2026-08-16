@@ -11046,6 +11046,15 @@
     ]
   },
   {
+    "title": "Exploratory Factor Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Exploratory Factor Analysis.md",
+    "aliases": [
+      "探索性因子分析",
+      "EFA"
+    ]
+  },
+  {
     "title": "Factor Mixture Modeling",
     "type": "method",
     "path": "wiki/methods/quantitative/Factor Mixture Modeling.md",
@@ -11626,6 +11635,15 @@
     "aliases": [
       "真实验设计",
       "true experimental designs"
+    ]
+  },
+  {
+    "title": "6-Item TOK Focus Group Protocol",
+    "type": "instrument",
+    "path": "wiki/instruments/interviews/6-Item TOK Focus Group Protocol.md",
+    "aliases": [
+      "TOK Focus Group Protocol",
+      "知识论焦点小组六题协议"
     ]
   },
   {
