@@ -53,7 +53,7 @@ updated: 2026-08-15
 > - **知识位置** 个人认识论（personal epistemology）研究。
 
 > [!claim] 核心主张
-> EOC 模型主张将关于知识本质（简单性与确定性）的信念独立为“[[Ontology|本体论]]认知”（ontological cognition），将关于知识的证成（辩护机制）保留为“认识论认知”（epistemic cognition）。通过个体在这几个具体维度上的量化得分轮廓（profile），可以有效对应并划分出其所处的质性发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者），并容纳领域特殊性差异。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 237-238)]]
+> EOC 模型主张将关于知识本质（简单性与确定性）的信念独立为“[[Ontology|本体论]]认知”（ontological cognition），将关于知识的证成（辩护机制）保留为“认识论认知”（epistemic cognition）。通过个体在这几个具体维度上的量化得分轮廓（profile），可以有效对应并划分出其所处的质性发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者），并容纳[[Domain Specificity|领域特殊性]]差异。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 237-238)]]
 
 ---
 
@@ -82,7 +82,7 @@ updated: 2026-08-15
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology|认识论]]立场
-> - **[[Ontology|本体论]]** 知识的本质具有领域特殊性，劣构领域（如历史）与良构领域（如数学）的知识本体具有不同分类。
+> - **[[Ontology|本体论]]** 知识的本质具有[[Domain Specificity|领域特殊性]]，劣构领域（如历史）与良构领域（如数学）的知识本体具有不同分类。
 > - **认识论** 个体的认知发展具有可测量的潜在类别（阶段）特征，不仅是一组离散的连续维度。
 > - **方法含义** 要求采用能同时处理多维连续因子与类别分析的方法（如[[Factor Mixture Modeling|因子混合模型]]）。
 > - **不能直接推出的东西** 本模型可反映不同[[Educational Level|受教育水平]]伴随的认知阶段变迁，但不能直接证明教育年份作为单一因果干预导致了该升级。

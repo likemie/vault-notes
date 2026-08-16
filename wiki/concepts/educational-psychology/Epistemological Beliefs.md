@@ -129,7 +129,7 @@ updated: 2026-08-14
 
 ### 命题三　认识论信念应与本体论认知相区分，并具有发展阶段的类属性
 
-> [!concept-lens] 维度整合与领域特殊性
+> [!concept-lens] 维度整合与[[Domain Specificity|领域特殊性]]
 > 探讨如何将多维独立信念重新整合为发展阶段，并在不同学科之间体现出差异。
 
 > [!claim] [[Argument_Greene_2010_JEP|Greene et al. (2010)]]

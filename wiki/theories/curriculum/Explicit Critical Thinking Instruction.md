@@ -152,7 +152,7 @@ updated: 2026-08-03
 
 > [!debates] 理论争议
 >
-> > [!axis] 通用技能 vs 领域特异性（Generality vs Domain-Specificity）
+> > [!axis] 通用技能 vs [[Domain Specificity|领域特异性]]（Generality vs Domain-Specificity）
 > > 显性教学路径的前提是[[Critical Thinking|批判性思维]]可以作为通用技能教授和迁移，但领域特异性学者质疑这一前提。
 > >
 > > - **Willingham（2007）** 认为批判性思维不是一组可脱离内容教学的通用技能。在科学中评估证据与在历史中评估证据所需的背景知识完全不同。

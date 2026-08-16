@@ -50,9 +50,9 @@ title: "Argument_Kuhn_2000_CD"
 argument_key: "Argument_Kuhn_2000_CD"
 argument_display_title: "The development of epistemological understanding"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Cognitive Development
 book_title: ""
