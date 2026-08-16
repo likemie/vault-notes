@@ -2,6 +2,8 @@
 title: Alec Peterson
 aliases:
   - 亚历克·皮特森
+  - Peterson, A. D. C.
+  - Alexander Duncan Campbell Peterson
 summary: "英国教育家、牛津大学教育学教授，国际文凭组织（IBO）首任总干事与 IB 预科项目核心设计者，提出“通识教育在于思维过程而非事实积累”的改革理念。"
 type: person
 nationality: uk
@@ -35,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-17
 ---
 
 # Alec Peterson
@@ -46,16 +48,23 @@ updated: 2026-07-26
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育家（1908–1988），牛津大学教育系主任、教授；[[International Baccalaureate|国际文凭]]组织（IBO）首任总干事（1968–1977）。
-> - **核心角色** 国际文凭预科项目（[[IB Diploma Programme]]）与[[Theory of Knowledge|知识论]]（TOK）课程的核心奠基人与总建筑师。
-> - **代表贡献** 提出反对“百科全书式事实灌输”的通识教育观，确立“教育在于思维过程而非知识内容”的理念；代表著作 *Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges* (2003)。
+> - **核心角色** 参与[[Founding of Atlantic College|大西洋学院创办]]及其学术课程设计，随后成为国际文凭预科项目（[[IB Diploma Programme]]）与[[Theory of Knowledge|知识论]]（TOK）课程的核心奠基人与总建筑师。
+> - **代表贡献** 把跨国共同教育面临的课程与大学资格承认问题转化为国际文凭制度，并提出“教育在于思维过程而非知识内容”的通识教育观。
+
+## 生平与职涯
+
+> [!timeline] 生平与职涯
+> - **1954–1957** 马来亚的多族群工作经验促使其思考教育如何消解民族偏见，回到英国后在多佛学院开设小规模的“国际高中阶段”，并于 1957 年在布鲁日国际教育会议结识[[Kurt Hahn|库尔特·哈恩（Kurt Hahn）]]。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 1–2)]]
+> - **1961–1962** 参与大西洋学院筹备，与罗伯特·布莱克本设计学术课程，尝试在英国高级程度考试之外维持语言、社会研究、科学和艺术的课程广度。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 7–13)]]
+> - **1968–1977** 担任国际文凭组织首任总干事，推动国际文凭课程与考试制度形成。
 
 ---
 
 ## 主要著作与思想
 
 > [!work-line] 主要著作与理念
-> - **2003 — *Schools Across Frontiers: The Story of the [[International Baccalaureate]] and the United World Colleges***
->   系统回顾 IB 课程创立的历史与哲学。Peterson 强调通识教育的目标“不是获取百科全书式的普遍知识，而是发展心智的普遍能力，使其以多元的思维方式运作”（Peterson 2003, p. 41; Darwish 2009, pp. 13–16）。
+> - **1987 — *Schools Across Frontiers: The Story of the [[International Baccalaureate]] and the United World Colleges***
+>   以亲历者视角追溯大西洋学院、联合世界书院与国际文凭的形成，首版由 Open Court 出版，2003 年另有重印。第 1 章把大西洋学院的跨国共同生活与课程困境呈现为国际文凭形成的实践起点。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1)]]
 
 ---
 
@@ -71,4 +80,5 @@ updated: 2026-07-26
 > [!person-network] 关系网络
 > - **创立机构** [[International Baccalaureate]]、[[IB Diploma Programme]]。
 > - **设计课程** [[Theory of Knowledge]]（TOK 知识论课程）。
+> - **早期合作者** [[Kurt Hahn]] — 共同参与大西洋学院的国际教育实验，哈恩提供行动与服务的教育愿景，皮特森参与学术课程设计。
 > - **思想审查者** [[Bob Darwish]] — 评估 Peterson 的 IB 课程哲学与[[John Dewey|杜威]]/[[Paulo Freire|弗莱雷]][[Active Learning|主动学习]]理论的契合与局限。

@@ -315,6 +315,24 @@
       "title": "Argument_Bergeron_2017_MJE",
       "year": "2017"
     },
+    "Bergeron & Rogers (2015)": {
+      "aliases": [
+        "Bergeron & Rogers, 2015",
+        "Bergeron & Rogers (2015)"
+      ],
+      "argument": "Argument_Bergeron_2015_TeachingTOK",
+      "authors": [
+        "[[Liz Bergeron|Bergeron, L.]]",
+        "[[Leslie Rogers|Rogers, L.]]"
+      ],
+      "citation": "Bergeron, L., & Rogers, L. (2015). Teaching the Theory of Knowledge course in IB World Schools. University of Wisconsin-La Crosse.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
+      "source_language": "en",
+      "title": "Argument_Bergeron_2015_TeachingTOK",
+      "year": "2015"
+    },
     "Bergeron & Rogers (2019)": {
       "aliases": [
         "Bergeron & Rogers, 2019",
@@ -332,6 +350,24 @@
       "source_language": "en",
       "title": "Argument_Bergeron_2019_JRIE",
       "year": "2019"
+    },
+    "Bergeron & Rogers, 2015": {
+      "aliases": [
+        "Bergeron & Rogers, 2015",
+        "Bergeron & Rogers (2015)"
+      ],
+      "argument": "Argument_Bergeron_2015_TeachingTOK",
+      "authors": [
+        "[[Liz Bergeron|Bergeron, L.]]",
+        "[[Leslie Rogers|Rogers, L.]]"
+      ],
+      "citation": "Bergeron, L., & Rogers, L. (2015). Teaching the Theory of Knowledge course in IB World Schools. University of Wisconsin-La Crosse.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
+      "source_language": "en",
+      "title": "Argument_Bergeron_2015_TeachingTOK",
+      "year": "2015"
     },
     "Bergeron & Rogers, 2019": {
       "aliases": [
@@ -3871,6 +3907,23 @@
       "title": "Argument_Pellegrini_2021_ROE",
       "year": "2021"
     },
+    "Peterson (1987)": {
+      "aliases": [
+        "Peterson, 1987",
+        "Peterson (1987)"
+      ],
+      "argument": "Argument_Peterson_1987_OpenCourt",
+      "authors": [
+        "[[Alec Peterson|Peterson, A. D. C.]]"
+      ],
+      "citation": "Peterson, A. D. C. (1987). Schools across frontiers: The story of the International Baccalaureate and the United World Colleges. La Salle, IL: Open Court Publishing Company.",
+      "doi": "",
+      "isbn": "0-8126-9046-X",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt.md",
+      "source_language": "en",
+      "title": "Argument_Peterson_1987_OpenCourt",
+      "year": "1987"
+    },
     "Peterson (2016)": {
       "aliases": [
         "Peterson, 2016",
@@ -3887,6 +3940,23 @@
       "source_language": "en",
       "title": "Argument_Peterson_2016_IJRME",
       "year": "2016"
+    },
+    "Peterson, 1987": {
+      "aliases": [
+        "Peterson, 1987",
+        "Peterson (1987)"
+      ],
+      "argument": "Argument_Peterson_1987_OpenCourt",
+      "authors": [
+        "[[Alec Peterson|Peterson, A. D. C.]]"
+      ],
+      "citation": "Peterson, A. D. C. (1987). Schools across frontiers: The story of the International Baccalaureate and the United World Colleges. La Salle, IL: Open Court Publishing Company.",
+      "doi": "",
+      "isbn": "0-8126-9046-X",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt.md",
+      "source_language": "en",
+      "title": "Argument_Peterson_1987_OpenCourt",
+      "year": "1987"
     },
     "Peterson, 2016": {
       "aliases": [

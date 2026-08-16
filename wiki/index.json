@@ -12756,7 +12756,9 @@
     "type": "person",
     "path": "wiki/persons/uk/Alec Peterson.md",
     "aliases": [
-      "亚历克·皮特森"
+      "亚历克·皮特森",
+      "Peterson, A. D. C.",
+      "Alexander Duncan Campbell Peterson"
     ]
   },
   {
@@ -12976,6 +12978,15 @@
     "aliases": [
       "Ochs, K.",
       "金伯莉·奥克斯"
+    ]
+  },
+  {
+    "title": "Kurt Hahn",
+    "type": "person",
+    "path": "wiki/persons/uk/Kurt Hahn.md",
+    "aliases": [
+      "库尔特·哈恩",
+      "Hahn, K."
     ]
   },
   {
@@ -15252,6 +15263,15 @@
     ]
   },
   {
+    "title": "Founding of Atlantic College",
+    "type": "fact",
+    "path": "wiki/facts/uk/Founding of Atlantic College.md",
+    "aliases": [
+      "大西洋学院创办",
+      "Atlantic College founding"
+    ]
+  },
+  {
     "title": "Girls Into Science and Technology Project",
     "type": "fact",
     "path": "wiki/facts/uk/Girls Into Science and Technology Project.md",
@@ -16631,6 +16651,16 @@
     "path": "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Zelinka_2022_SCD_subjectivity.md"
   },
   {
+    "title": "Argument_Peterson_1987_OpenCourt",
+    "type": "argument",
+    "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt.md"
+  },
+  {
+    "title": "Argument_Peterson_1987_OpenCourt_Ch01",
+    "type": "argument",
+    "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch01.md"
+  },
+  {
     "title": "Argument_QiMei_2015_EducationalResearchMethods",
     "type": "argument",
     "path": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md"
@@ -17249,6 +17279,11 @@
     "title": "Argument_Cowen_2015_CHESS",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Cowen_2015_CHESS.md"
+  },
+  {
+    "title": "Argument_Bergeron_2015_TeachingTOK",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md"
   },
   {
     "title": "Argument_ONeill_2016_Report",
