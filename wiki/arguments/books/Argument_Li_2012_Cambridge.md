@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 137
+argument_related_count: 139
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -76,6 +76,7 @@ related_concepts:
   - "[[Take the World Upon Oneself]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Establishing One's Will]]"
+  - "[[Data Reduction and Data Display]]"
   - "[[Scientific Method]]"
   - "[[Homework]]"
   - "[[Examination Hell]]"
@@ -132,6 +133,7 @@ related_theories:
   - "[[Self-Worth Theory]]"
 related_methods:
   - "[[Prototype Methods]]"
+  - "[[Content Analysis]]"
   - "[[Survey Research]]"
   - "[[Triangulation]]"
   - "[[Mother-Child Conversation]]"
@@ -202,7 +204,7 @@ citation_aliases:
 > 全书以跨文化比较为总体框架，各章按[[Research Question|研究问题]]选择不同方法，从宏观历史分析到微观[[Dialogue in Education|对话]]逐层推进。
 
 - **历史-文本分析（Ch2）** 追溯西方（古希腊 → 启蒙 → 现代心理学）与儒家（[[Confucius|孔子]] → 理学 → 当代民间）两种知识传统的经典文本，以《论语》《[[Mencius|孟子]]》等一手[[Document|文献]]为主
-- **[[Prototype Methods|原型方法]]（Ch3）** 自由联想提取"学习"相关词汇 → 聚类分析生成概念地图（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → 内容分析提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]
+- **[[Prototype Methods|原型方法]]（Ch3）** 自由联想提取"学习"相关词汇 → 聚类分析生成概念地图（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → [[Content Analysis|内容分析]]提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]
 - **跨文化[[Survey Research|调查研究]]（Ch3, Ch5, Ch6）** 归因[[Questionnaire|问卷]]、课堂观察、家庭社会化调查、同伴态度测量、学习情感自述——多方法[[Triangulation|三角验证]]同一结论
 - **跨国评测数据（Ch3）** TIMSS 与 [[PISA]] 排名作为东亚学习成就的宏观佐证
 - **[[Mother-Child Conversation|MCC]] 方法（Ch7）** 母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ [[Discourse Analysis|话语分析]]（Vygotsky 认知支架 + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
@@ -989,7 +991,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 
 本章论证的核心任务：为全书的中心问题——"两种文化学习传统是否仍然影响着今天的学习者？"——提供肯定回答。第 2 章建立了儒家和西方两种学习传统各有什么内容；第 3 章的任务是证明这些内容**不是博物馆里的古董，而是仍在运作的文化力量**。
 
-论证策略不同于第 2 章的"并列描述+对比"——这里是**排除替代解释 → 堆积正面证据**的逐步推进。逻辑是：先把可以用非文化因素解释学習差异的路径堵死（第 1-4 步），再用数十年实证数据展示差异的系统性和文化特异性（第 5-8 步），最终以 Li 自身的[[Prototype Methods|原型方法]]研究完成两种模型的实证建构（第 9 步）。
+论证策略不同于第 2 章的"并列描述+对比"——这里是**排除替代解释 → 堆积正面证据**的逐步推进。逻辑是：先把可以用非文化因素解释学習差异的路径堵死（第 1-4 步），再用数十年实证[[Data Reduction and Data Display|数据展示]]差异的系统性和文化特异性（第 5-8 步），最终以 Li 自身的[[Prototype Methods|原型方法]]研究完成两种模型的实证建构（第 9 步）。
 
 ---
 

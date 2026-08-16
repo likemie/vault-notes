@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_display_title: "Research Methods in Education · Ch28"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Nomothetic]]"
   - "[[Causality]]"
   - "[[Progressive Focussing]]"
+  - "[[Data Reduction and Data Display]]"
   - "[[External Validity]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Construct]]"
 related_theories: []
 related_methods:
+  - "[[Content Analysis]]"
   - "[[Grounded Theory]]"
   - "[[Qualitative Computer Software]]"
   - "[[Coding in Qualitative Research]]"
@@ -73,6 +75,7 @@ related_instruments: []
 related_persons:
   - "[[Clifford Geertz]]"
   - "[[Anthony Giddens]]"
+  - "[[William Foote Whyte]]"
 related_facts: []
 related_arguments: []
 status: draft
@@ -90,7 +93,7 @@ updated: 2026-08-16
 
 ## 章节内容
 
-质性数据分析（qualitative data analysis）的多种进路在此系统展开，为内容分析与[[Grounded Theory|扎根理论]]（grounded theory）等后续议题奠基。质性数据分析没有单一正确方法，一切应遵循[[Fitness for Purpose|目的适配性]]（fitness for purpose）原则。其核心特征是把分析与诠释、把数据收集与数据分析融合在迭代往复的过程中（Gibbs, 2007, p. 3），分析的结果本身又构成进一步分析的数据。围绕这一主线，依次涉及质性数据的来源与[[Transcription in Qualitative Research|转录]]（transcription）选择、[[Rich and Thick Description|厚描述]]（thick description）与[[Reflexivity|反身性]]（reflexivity）对分析的规范、质性数据分析的伦理约束，以及计算机辅助质性数据分析（[[Qualitative Computer Software|CAQDAS]]）的支持与争议。
+质性数据分析（qualitative data analysis）的多种进路在此系统展开，为[[Content Analysis|内容分析]]与[[Grounded Theory|扎根理论]]（grounded theory）等后续议题奠基。质性数据分析没有单一正确方法，一切应遵循[[Fitness for Purpose|目的适配性]]（fitness for purpose）原则。其核心特征是把分析与诠释、把数据收集与数据分析融合在迭代往复的过程中（Gibbs, 2007, p. 3），分析的结果本身又构成进一步分析的数据。围绕这一主线，依次涉及质性数据的来源与[[Transcription in Qualitative Research|转录]]（transcription）选择、[[Rich and Thick Description|厚描述]]（thick description）与[[Reflexivity|反身性]]（reflexivity）对分析的规范、质性数据分析的伦理约束，以及计算机辅助质性数据分析（[[Qualitative Computer Software|CAQDAS]]）的支持与争议。
 
 > [!abstract]- Box 28.1　议题清单
 > 质性数据分析的几种形式在此展开讨论，内容分析与扎根理论留待后文专门处理。不同进路的质性数据分析包括：
@@ -216,7 +219,7 @@ updated: 2026-08-16
 > [!info] 尽早开始分析
 > 理论层面，质性研究的一大特征是分析往往在数据收集早期就开始，以便生成理论（LeCompte & Preissle, 1993, p. 238）。实践层面，质性研究迅速累积海量数据，早期分析能通过选出显著特征供未来聚焦来减少数据过载问题。Miles & Huberman（1984）建议研究者在收集到第一批数据后就尽早并频繁地开始书写与分析，而非等数据收集结束，这能促成渐进聚焦（[[Progressive Focussing|progressive focusing]]）并选出关键议题供进一步研究。Gibbs（2007, p. 25）提出写作即思考。这类分析本身应注明日期时间，并可纳入[[Field Notes|田野笔记]]日记，记录研究者当时在做什么、身处何地、发生了什么事、在场者是谁、数据是什么、事件的显著特征、反思与观察（Miles & Huberman, 1994, pp. 50–4）。（28.2）
 
-> [!info] 渐进聚焦与数据展示
+> [!info] 渐进聚焦与[[Data Reduction and Data Display|数据展示]]
 > 依据 Parlett & Hamilton（1976），渐进聚焦始于研究者以广角镜头收集数据，再通过筛选、归类、审视与反思，情境的显著特征浮现出来，被用作后续聚焦的议程，如同从宽到窄的漏斗。Miles & Huberman（1984）认为仔细的数据展示是数据缩减与选择的重要成分。（28.2）
 
 > [!claim] 厚描述增加而非减少数据
@@ -253,7 +256,7 @@ updated: 2026-08-16
 ---
 
 > [!case] Whyte《街角社会》附录A的自我反身
-> 在《街角社会》（*Street Corner Society*）1993 年再版的附录 A 中，[[William Foote Whyte|威廉·富特·怀特（William Foote Whyte）]] 反思[[Fieldwork|田野工作]]者的个人经验长期被学界沉默的共谋掩盖。他指出，学界似乎对田野工作者的个人经验强加了一种沉默的共谋，不可能找到揭示田野工作者必定经历的错误、困惑与个人卷入的现实记述，于是他决定尽己所能填补这一空白，并在这一任务中尽可能对自己诚实（Whyte, 1993, pp. 358–9）。他还主张[[Participatory Action Research|参与式行动研究]]（participatory [[Action Research]]，PAR）提供了弥合专业研究者与所研究组织成员之间鸿沟的一条重要途径（p. 364）。
+> 在《街角社会》（*Street Corner Society*）1993 年再版的附录 A 中，[[William Foote Whyte|威廉·富特·怀特]]（William Foote Whyte） 反思[[Fieldwork|田野工作]]者的个人经验长期被学界沉默的共谋掩盖。他指出，学界似乎对田野工作者的个人经验强加了一种沉默的共谋，不可能找到揭示田野工作者必定经历的错误、困惑与个人卷入的现实记述，于是他决定尽己所能填补这一空白，并在这一任务中尽可能对自己诚实（Whyte, 1993, pp. 358–9）。他还主张[[Participatory Action Research|参与式行动研究]]（participatory [[Action Research]]，PAR）提供了弥合专业研究者与所研究组织成员之间鸿沟的一条重要途径（p. 364）。
 >
 > Whyte 进一步报告了对研究者的评论。研究者放弃建立科学结论的任何希望，转而谈论通过呈现你的为人来使你的记述可信。民族志今天越来越公开地采取一种内省转向，要成为习惯性的 I 见证者（I-witness），看来必须先成为一个令人信服的 I。民族学写作因而依赖于对读者的说服。他认识到客观与主观的区分并不像曾经以为的那样清晰，我们寻求观察对[[Research Purpose|研究目的]]有意义的行为，选择因此依赖于某种内隐或外显的理论，这一过程在很大程度上是主观的，但选择并非随机。如果说明理论[[Hypothesis|假设]]与研究采用的方法，他人就能运用同样的假设与方法去验证或挑战结论。（pp. 366–7）
 >

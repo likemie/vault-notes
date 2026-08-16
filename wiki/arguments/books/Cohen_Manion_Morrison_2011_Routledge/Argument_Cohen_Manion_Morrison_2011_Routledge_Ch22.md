@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 46
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Internal Consistency]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Data Reduction and Data Display]]"
   - "[[Conatus]]"
   - "[[Falsification]]"
   - "[[Questionnaire]]"
@@ -67,6 +68,7 @@ related_methods:
   - "[[Ethogenic Approach]]"
   - "[[Account Gathering]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Content Analysis]]"
   - "[[Experience Sampling Method]]"
   - "[[Experience-Sampling Method]]"
   - "[[Cross-checking]]"
@@ -187,7 +189,7 @@ updated: 2026-07-23
 > | 陈述后验证 | 交叉佐证 |
 > | **3 陈述转化** | |
 > | 提供工作文件 | [[Transcription in Qualitative Research\|转录]]信度；[[Coding in Qualitative Research\|编码]]者信度 |
-> | 数据缩减技术 | 统计分析和内容分析的适当性 |
+> | [[Data Reduction and Data Display\|数据缩减]]技术 | 统计分析和[[Content Analysis\|内容分析]]的适当性 |
 > | **4 研究者陈述** | |
 > | 对陈述的再陈述：摘要、概览、解释 | 研究操作的描述 |
 > | | 解释方案和理论背景 |

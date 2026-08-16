@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_display_title: "Research Methods in Education · Ch29"
 argument_kind: "book-chapter"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Data Reduction and Data Display]]"
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Transcription in Qualitative Research]]"
@@ -48,8 +49,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
-  - "[[Internal Consistency]]"
   - "[[Reliability]]"
+  - "[[Internal Consistency]]"
   - "[[Variable]]"
   - "[[Chain of Evidence]]"
   - "[[Presence]]"
@@ -87,7 +88,7 @@ updated: 2026-08-16
 
 ## 章节内容
 
-承接第28章，质性数据的组织与呈现（organizing and presenting qualitative data）专门处理数据如何被组织与呈现，这些方式本身构成分析的一部分。围绕数据缩减（data reduction）经由仔细的数据展示（data display）与评注这一主线，依次展开：数据表格化、组织与分析数据的七种方式、叙事与传记进路、系统化分析进路（含[[Reflexivity|反身性]]与偏误来源、备忘录、生成意义的策略、[[Content Analysis|内容分析]]、[[Phenomenology|现象学]]分析），以及分析归纳、持续比较、[[Typological Analysis|类型学分析]]、计数四种方法论工具。
+承接第28章，质性数据的组织与呈现（organizing and presenting qualitative data）专门处理数据如何被组织与呈现，这些方式本身构成分析的一部分。围绕[[Data Reduction and Data Display|数据缩减]]（data reduction）经由仔细的数据展示（data display）与评注这一主线，依次展开：数据表格化、组织与分析数据的七种方式、叙事与传记进路、系统化分析进路（含[[Reflexivity|反身性]]与偏误来源、备忘录、生成意义的策略、[[Content Analysis|内容分析]]、[[Phenomenology|现象学]]分析），以及分析归纳、持续比较、[[Typological Analysis|类型学分析]]、计数四种方法论工具。
 
 > [!abstract]- Box 29.1　议题清单
 > - **数据表格化（tabulating data）** 以表格形式呈现访谈等质性数据并配评注，实现数据缩减。
@@ -215,7 +216,7 @@ updated: 2026-08-16
 > - **教学与学习的不足是成绩差的重要原因** 强调操练、死记与记忆；以被动而非[[Active Learning|主动学习]]为主，教学是传递事实而非促进学习与理解；使用传统讲授法；依赖非常有限的教学与学习风格；英语教师的学科与教学知识有限，加上缺乏足够的初始与职后教师教育；常常缺乏精心铺设的英语教与学基础；学生在英语课上使用大量中文，几乎没有用英语思考的机会，他们是在翻译，而不是用英语思考。（29.1）
 
 > [!claim] 表格化呈现的双重功能
-> 以表格形式摘要与呈现数据可以同时应对[[Qualitative Research|质性研究]]的两个议题，通过仔细的数据展示与评注实现数据缩减（data reduction）。表格能促使读者一眼看出两组受访者之间的相似与差异；每张表之后附希望读者注意的要点摘要，其中既包括实质性评注（关于议题本身），也包括总体性评注（关于各组受访者之间的异同）；所有表格与评注之后，又提供关键信息（key messages）的总体摘要。这是高度节选、选择性的例子，并未公正对待[[Primary and Secondary Documents|原始文献]]的全部数据，但清楚说明了一点：以表格形式摘要与呈现数据，可以同时实现质性研究的数据缩减与评注。（29.1）
+> 以表格形式摘要与呈现数据可以同时应对[[Qualitative Research|质性研究]]的两个议题，通过仔细的数据展示与评注实现[[Data Reduction and Data Display|数据缩减]]（data reduction）。表格能促使读者一眼看出两组受访者之间的相似与差异；每张表之后附希望读者注意的要点摘要，其中既包括实质性评注（关于议题本身），也包括总体性评注（关于各组受访者之间的异同）；所有表格与评注之后，又提供关键信息（key messages）的总体摘要。这是高度节选、选择性的例子，并未公正对待[[Primary and Secondary Documents|原始文献]]的全部数据，但清楚说明了一点：以表格形式摘要与呈现数据，可以同时实现质性研究的数据缩减与评注。（29.1）
 
 ---
 
@@ -416,7 +417,7 @@ updated: 2026-08-16
 >     - **聚类（clustering）** 把条目归入类别、类型、行为与分类。
 >     - **把个别纳入一般（subsuming particulars into the general）** 类似 Glaser 的持续比较（见第33章），朝向澄清关键概念。
 >     - **制造隐喻（making metaphors）** 使用比喻性与内涵性语言（figurative and connotative）而非字面与外延性语言，使数据生动、缩减数据、形成模式、去中心化数据并与理论连接。
-> - **变量分析策略**
+> - **[[Variable|变量]]分析策略**
 >     - **拆分[[Variable|变量]]（splitting variables）** 细化、区分并拆解想法，摆脱整合驱动与数据模糊化。
 >     - **因子化（factoring）** 把大量变量归入较少（通常不可观测的）假设变量。
 >     - **识别变量间关系（identifying relations between variables）** 识别并记录变量间关系。

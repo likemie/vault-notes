@@ -5,7 +5,7 @@ summary: "Brown和Sime发展的陈述收集操作框架，包含信息提供者�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Reliability]]"
   - "[[Causality]]"
+  - "[[Data Reduction and Data Display]]"
 related_methods:
   - "[[Accounts]]"
   - "[[Coding in Qualitative Research]]"
@@ -57,7 +58,7 @@ updated: 2026-07-23
 > [!proc] 陈述收集的四要素框架（Brown & Sime, 1981, p. 163）
 > 1. **信息提供者** 界定片段和角色群体，代表所研究的兴趣领域 → 识别典型代表 → 选择个体信息提供者
 > 2. **陈述收集情境** 建立场所 → 记录陈述 → 控制陈述相关性 → 验证陈述 → 确立访谈者和受访者角色 → 陈述后验证
-> 3. **陈述转化** 提供工作文件 → 数据缩减技术
+> 3. **陈述转化** 提供工作文件 → [[Data Reduction and Data Display|数据缩减]]技术
 > 4. **研究者陈述** 对陈述的再陈述——摘要、概览、解释
 
 ## 适用场景

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
+  - "[[Data Reduction and Data Display]]"
   - "[[Reliability]]"
   - "[[Document]]"
   - "[[Emergence]]"
@@ -79,6 +80,7 @@ related_methods:
   - "[[Interview Protocol]]"
   - "[[Non-directive Interview]]"
   - "[[Focused Interview]]"
+  - "[[Content Analysis]]"
   - "[[Cross-checking]]"
   - "[[Projection Technique]]"
   - "[[Case Study]]"
@@ -189,7 +191,7 @@ Cicourel（1964）的五种不可避免特征（无法通过技术手段消除�
 > | 3 回应个性化机会 | 广泛 | 有限 |
 > | 4 追问机会 | 广泛 | 有限 |
 > | 5 探测机会 | 可能 | 困难 |
-> | 6 数据缩减的相对量级 | 大（因为需要[[Coding in Qualitative Research\|编码]]） | 主要限于光栅化 |
+> | 6 [[Data Reduction and Data Display\|数据缩减]]的相对量级 | 大（因为需要[[Coding in Qualitative Research\|编码]]） | 主要限于光栅化 |
 > | 7 通常可接触的受访者数量 | 有限 | 广泛 |
 > | 8 回收率 | 好 | 差 |
 > | 9 误差来源 | 访谈者、工具、编码、样本 | 限于工具和样本 |
@@ -298,7 +300,7 @@ Kvale（1996, p. 88）的访谈调查七个阶段（pp.418–420）：
 > 2. **设计** 将研究目标转化为提纲中的具体问题——包括三种项目类型、问题格式、回答模式和提示与追问。
 > 3. **访谈实施** 执行访谈——建立融洽关系、告知性质与目的、管理互动动态、处理非语言沟通、保持适合目的的引导程度。
 > 4. **转录** 将口头遭遇转换为书面文本——选择性转换，数据损失风险巨大。不存在单一的正确转录。
-> 5. **分析** 通过[[Coding in Qualitative Research|编码]]、内容分析或[[Phenomenology|现象学]]程序生成意义——Miles 和 Huberman 12 种策略、Brenner 等 13 步、Hycner 15 步现象学程序。
+> 5. **分析** 通过[[Coding in Qualitative Research|编码]]、[[Content Analysis|内容分析]]或[[Phenomenology|现象学]]程序生成意义——Miles 和 Huberman 12 种策略、Brenner 等 13 步、Hycner 15 步现象学程序。
 > 6. **验证** 效度核验贯穿全部七个阶段——从理论基础严谨性到报告公正性。
 > 7. **报告** 以适合目的的格式呈现——量化数据可简洁列表图示，质性数据产生词语叙述，占据更多篇幅。
 
@@ -1030,7 +1032,7 @@ Parker & Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体�
 > *Focus groups are a form of group interview, though not in the sense of a backwards and forwards between interviewer and group. Rather, the reliance is on the interaction within the group who discuss a topic supplied by the researcher (Morgan（1988, p. 9）).*
 
 > [!citation-card]- [[Focused Interview|聚焦访谈]]的独特价值（Merton & Kendall（1946, p. 541））
-> 对情境的预先了解明显减少了研究者面对的任务，因为访谈无需用于发现情境的客观性质。预先配备内容分析后，访谈者可以轻易区分案例的客观事实与情境的主观定义。因此他对"选择性回应"的整个领域保持警觉。
+> 对情境的预先了解明显减少了研究者面对的任务，因为访谈无需用于发现情境的客观性质。预先配备[[Content Analysis|内容分析]]后，访谈者可以轻易区分案例的客观事实与情境的主观定义。因此他对"选择性回应"的整个领域保持警觉。
 >
 > *Foreknowledge of the situation obviously reduces the task confronting the investigator, since the interview need not be devoted to discovering the objective nature of the situation.*
 

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 186
+argument_related_count: 196
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -110,6 +110,8 @@ related_concepts:
   - "[[Double Hermeneutic]]"
   - "[[Nomothetic]]"
   - "[[Idiographic]]"
+  - "[[Memos]]"
+  - "[[Analytic Induction]]"
   - "[[Statistical Significance]]"
   - "[[Descriptive Analysis]]"
   - "[[Probes]]"
@@ -124,6 +126,7 @@ related_theories:
   - "[[Item Response Theory]]"
   - "[[Personal Construct Theory]]"
   - "[[Organizational Culture]]"
+  - "[[Phenomenology]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Ideology Critique]]"
@@ -178,12 +181,19 @@ related_methods:
   - "[[Photo-elicitation]]"
   - "[[Visual Research Methods]]"
   - "[[Qualitative Computer Software]]"
+  - "[[Narrative Analysis]]"
+  - "[[Content Analysis]]"
+  - "[[Constant Comparison]]"
+  - "[[Typological Analysis]]"
   - "[[Grounded Theory]]"
   - "[[Qualitative Interview]]"
   - "[[Group Interview]]"
   - "[[Focus Group]]"
   - "[[Interview Protocol]]"
 related_persons:
+  - "[[Louis Cohen]]"
+  - "[[Lawrence Manion]]"
+  - "[[Keith Morrison]]"
   - "[[Jürgen Habermas]]"
   - "[[George Kelly]]"
 related_facts:
@@ -231,7 +241,7 @@ updated: 2026-08-16
 
 ## 总览
 
-《Research Methods in Education》由[[Louis Cohen|科恩（Cohen）]]、[[Lawrence Manion|马尼恩（Manion）]]与[[Keith Morrison|莫里森（Morrison）]]合著，是教育研究方法的综合性教材，面向研究生、教育研究者及一线教师。全书分为五大部分、39章，系统覆盖研究[[Paradigm|范式]]、研究设计、资料收集与数据分析方法，兼顾量化、质性与[[Mixed Methods Research|混合方法]]取向，并在各章提供操作指南与案例。
+《Research Methods in Education》由[[Louis Cohen|科恩]]（Cohen）、[[Lawrence Manion|马尼恩]]（Manion）与[[Keith Morrison|莫里森]]（Morrison）合著，是教育研究方法的综合性教材，面向研究生、教育研究者及一线教师。全书分为五大部分、39章，系统覆盖研究[[Paradigm|范式]]、研究设计、资料收集与数据分析方法，兼顾量化、质性与[[Mixed Methods Research|混合方法]]取向，并在各章提供操作指南与案例。
 
 > [!textbook-overview] 章节总览
 > | 章节 | 内容概要 | 主要关联条目 |

@@ -5997,6 +5997,18 @@
     ]
   },
   {
+    "title": "Data Reduction and Data Display",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Data Reduction and Data Display.md",
+    "aliases": [
+      "数据缩减与数据展示",
+      "数据缩减",
+      "data reduction",
+      "data display",
+      "数据展示"
+    ]
+  },
+  {
     "title": "Data Transformation",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Data Transformation.md",

@@ -5,7 +5,7 @@ aliases:
 summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Transformative Leadership]]"
   - "[[Instructional Leadership]]"
   - "[[Return on Investment]]"
+  - "[[Data Reduction and Data Display]]"
   - "[[Dialogue in Education]]"
   - "[[Emergence]]"
   - "[[Neo-Taylorism]]"
@@ -94,7 +95,7 @@ updated: 2026-05-18
 > **（3）新型"科学"学校领导力的出现**
 > - Hattie 为学校行政提供了"教学的科学"——教与学过程不再隐藏在学习者心中，而是被感官经验可及地"可见化"，从而可以被测量、判断和操纵([[Argument_Eacott_2017_SLM|Eacott, 2017, p.420]])
 > - 在"数据的时代"：如果没有学习的证据→学习没有发生→教学没有发生→这是需要行政管理的绩效问题
-> - 举证责任从外部评估转移到教师和学校领导自身：年度绩效评估要求员工通过数据展示其效果并识别改进领域；持续认证要求对照国家标准进行外部检查([[Argument_Eacott_2017_SLM|Eacott, 2017, p.421]])
+> - 举证责任从外部评估转移到教师和学校领导自身：年度绩效评估要求员工通过[[Data Reduction and Data Display|数据展示]]其效果并识别改进领域；持续认证要求对照国家标准进行外部检查([[Argument_Eacott_2017_SLM|Eacott, 2017, p.421]])
 > - Hattie 同时担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，其工作已深度嵌入澳大利亚教师和校长的国家专业标准、认证和绩效评估体系
 
 

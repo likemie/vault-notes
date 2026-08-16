@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -95,6 +95,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[In-depth Interview]]"
   - "[[Grounded Theory]]"
+  - "[[Constant Comparison]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
@@ -574,7 +575,7 @@ Nisbet & Watt（p. 79）建议不要在个案研究中过早生成假设；重�
 > - **表格（tabulations）**
 > - **[[Grounded Theory|扎根理论]]（grounded theory）**
 
-Yin（2009, p. 143）指出数据分析是一个迭代过程，研究者必须多次回溯数据，确保所有数据与所给的解释或结论吻合，没有未解释的异常或矛盾（持续比较法，constant comparison method），所有数据都被考虑到，竞争性解释被考虑，案例的重要特征被突出（pp. 160–161, 295）。
+Yin（2009, p. 143）指出数据分析是一个迭代过程，研究者必须多次回溯数据，确保所有数据与所给的解释或结论吻合，没有未解释的异常或矛盾（[[Constant Comparison|持续比较法]]，constant comparison method），所有数据都被考虑到，竞争性解释被考虑，案例的重要特征被突出（pp. 160–161, 295）。
 
 ---
 

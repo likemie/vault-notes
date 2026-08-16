@@ -8,7 +8,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 64
+fact_related_count: 65
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Document]]"
+  - "[[Data Reduction and Data Display]]"
   - "[[Direct Instruction]]"
   - "[[Problem-Based Learning]]"
   - "[[Lost Mode]]"
@@ -268,7 +269,7 @@ updated: '2026-05-18'
 > - 2017 年 VL 获维多利亚州教育部官方背书（Department of Education and Training, 2017）
 > - 2017 年被澳大利亚广播公司（ABC）电视系列片 *Revolution School* 描绘为公共教育的拯救者
 >
-> **[[Australian Institute for Teaching and School Leadership|AITSL]] 制度嵌入** Hattie 担任 AITSL 主席，其工作已深度嵌入：（1）澳大利亚教师和校长的国家专业标准；（2）年度绩效评估体系——要求员工通过数据展示其教学效果并识别改进领域；（3）持续认证体系——要求对照国家标准进行外部检查。
+> **[[Australian Institute for Teaching and School Leadership|AITSL]] 制度嵌入** Hattie 担任 AITSL 主席，其工作已深度嵌入：（1）澳大利亚教师和校长的国家专业标准；（2）年度绩效评估体系——要求员工通过[[Data Reduction and Data Display|数据展示]]其教学效果并识别改进领域；（3）持续认证体系——要求对照国家标准进行外部检查。
 >
 > **绩效薪酬的制度基础** VL 的效应量评估体系为教师 绩效薪酬（merit pay）提供了技术基础——Hattie 被指控提倡与 VL 评估体系挂钩的教师绩效薪酬元素，但这与 VL 自身强调的"安全、信任的学校文化"构成内在矛盾([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.434–435]])。
 >
