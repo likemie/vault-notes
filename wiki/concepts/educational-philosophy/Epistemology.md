@@ -7,10 +7,10 @@ aliases:
 summary: "关于知识本质与获取方式的底层假设。在研究方法学中，它决定了不同研究范式的有效知识标准；在认知发展中，它表现为个体协调主客观维度的认知任务。"
 type: concept
 domain: "educational-philosophy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/epistemology
   - theme/research-philosophy
