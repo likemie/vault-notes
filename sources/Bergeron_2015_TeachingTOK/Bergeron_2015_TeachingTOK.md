@@ -11,7 +11,7 @@ processed_date: 2026-08-17
 
 
 <iframe
-  src="https://img.mylikemie.icu/sources/Bergeron_2015_TeachingTOK.pdf"
+  src="https://img.mylikemie.icu/sources/Bergeron_2015_TeachingTOK/Bergeron_2015_TeachingTOK.pdf"
   width="100%"
   height="820"
   style="border: 1px solid #ddd; border-radius: 8px;"

@@ -11850,6 +11850,14 @@
     ]
   },
   {
+    "title": "John Goormaghtigh",
+    "type": "person",
+    "path": "wiki/persons/belgium/John Goormaghtigh.md",
+    "aliases": [
+      "约翰·戈尔马蒂赫"
+    ]
+  },
+  {
     "title": "Camilla de Hollanda Amado",
     "type": "person",
     "path": "wiki/persons/brazil/Camilla de Hollanda Amado.md",
@@ -12502,6 +12510,15 @@
     "aliases": [
       "Klafki, W.",
       "沃尔夫冈·克拉夫基"
+    ]
+  },
+  {
+    "title": "Gerard Renaud",
+    "type": "person",
+    "path": "wiki/persons/global/Gerard Renaud.md",
+    "aliases": [
+      "杰拉德·雷诺",
+      "Gérard Renaud"
     ]
   },
   {
@@ -13192,6 +13209,15 @@
     "aliases": [
       "Bryk, A.",
       "安东尼·布赖克"
+    ]
+  },
+  {
+    "title": "Bob Leach",
+    "type": "person",
+    "path": "wiki/persons/us/Bob Leach.md",
+    "aliases": [
+      "鲍勃·利奇",
+      "Robert Leach"
     ]
   },
   {
@@ -15192,6 +15218,15 @@
     ]
   },
   {
+    "title": "Founding of the International Baccalaureate",
+    "type": "fact",
+    "path": "wiki/facts/switzerland/Founding of the International Baccalaureate.md",
+    "aliases": [
+      "国际文凭创立",
+      "IB founding"
+    ]
+  },
+  {
     "title": "HarmoS",
     "type": "fact",
     "path": "wiki/facts/switzerland/HarmoS.md",
@@ -16659,6 +16694,11 @@
     "title": "Argument_Peterson_1987_OpenCourt_Ch01",
     "type": "argument",
     "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch01.md"
+  },
+  {
+    "title": "Argument_Peterson_1987_OpenCourt_Ch02",
+    "type": "argument",
+    "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md"
   },
   {
     "title": "Argument_QiMei_2015_EducationalResearchMethods",

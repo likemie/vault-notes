@@ -52,7 +52,7 @@ updated: 2026-08-17
 > - **核心对象** 大西洋学院、联合世界书院与[[International Baccalaureate|国际文凭]]如何从跨国教育理想发展为学校、课程和考试制度。
 > - **论证类型** 由亲历者撰写的机构史与教育思想史，结合个人回忆、组织文件和制度案例。
 > - **处理粒度** `chapter-arguments`。本页作为全书入口，各章论证另建独立 Argument。
-> - **材料边界** 当前依据前置材料和已处理的第 1 章；跨章综合将在后续章节完成后逐步扩充。
+> - **材料边界** 当前依据前置材料、已处理的第 1 章，以及为补充 IB 起源而定向读取的第 2 章相关段落；第 2 章尚未建立独立章节 Argument。
 
 ## 研究问题与核心主张
 
@@ -68,7 +68,8 @@ updated: 2026-08-17
 
 > [!monograph-tools] 理论与概念工具
 > - **国际教育** 用来连接跨文化共同生活、消解民族偏见、社会服务与共同课程等制度设计。
-> - **[[International Baccalaureate|国际文凭]]** 作为跨国课程与考试方案，回应国家课程偏向和大学入学资格不兼容的问题。
+> - **[[International Baccalaureate|国际文凭]]** 作为跨国课程与考试方案，回应国家课程偏向和大学入学资格不兼容的问题；[[Founding of the International Baccalaureate|创立过程]]表明其早期理念不是一次性提出，而是在 1925 年倡议、战后国际学校需求、1960 年代教师课程实验与多国资格协商中逐步形成。
+> - **分布式创制** IB 没有可包揽全部工作的单一创始人：[[Bob Leach|鲍勃·利奇]]发动早期教师网络，[[Gerard Renaud|杰拉德·雷诺]]主导课程架构，[[John Goormaghtigh|约翰·戈尔马蒂赫]]提供长期组织治理，[[Alec Peterson|亚历克·皮特森]]则整合筹资、试验与资格承认。各自贡献只有在协作中才构成完整制度。
 
 > [!monograph-method] 研究方法与材料
 > - **研究设计** 采用参与者视角的历史叙事，沿组织创办、课程形成与制度扩张推进。
@@ -100,12 +101,13 @@ updated: 2026-08-17
 ## 章节推进
 
 > [!chapter-arc] 章节推进线
-> - **Ch. 1 — The Founding of Atlantic College** 从教育理念、关键行动者、组织资源和课程困境解释第一个联合世界书院实验如何形成。
-> - **Ch. 2–8** 待处理，将依次追踪国际文凭的创立、课程与考试实验、联合世界书院扩张、北美发展、第二个十年及未来议题。
+> - **Ch. 1 — The Founding of Atlantic College** 从和平教育理念、行动与服务机制、创校领导、场地与资金、跨国共同生活及课程资格矛盾，解释第一个联合世界书院实验如何形成并产生国际共同资格的需要。
+> - **Ch. 2 — The Founding of the International Baccalaureate** 从 1925 年未实现的国际毕业考试设想出发，追踪教师网络、ISES／IBO、基金会资助、六学科结构、英法双语与大学承认试验如何共同建立 IB。
+> - **Ch. 3–8** 待处理，将依次追踪课程与考试原则、六年实验、联合世界书院扩张、北美发展、第二个十年及未来议题。
 
 > [!chapter-index] 章节索引
 > - **Ch. 1 — The Founding of Atlantic College** [[Argument_Peterson_1987_OpenCourt_Ch01]] — 大西洋学院的组织创办与课程难题。
-> - **Ch. 2 — The Founding of the International Baccalaureate** 待处理。
+> - **Ch. 2 — The Founding of the International Baccalaureate** 已定向读取起源段落，待建立独立章节 Argument。
 > - **Ch. 3 — From Educational Aims to a Curriculum and Examination** 待处理。
 > - **Ch. 4 — The Six-Year Experiment with the International Baccalaureate** 待处理。
 > - **Ch. 5 — Mountbatten and the Expansion of the United World Colleges** 待处理。
@@ -116,17 +118,20 @@ updated: 2026-08-17
 > [!textbook-overview] 已处理章节表
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | [[Argument_Peterson_1987_OpenCourt_Ch01\|第1章]] | 从教育愿景、领导选择、场地与资金、共同服务和课程困境解释大西洋学院如何成为国际教育的制度实验。 | [[Kurt Hahn]]、[[Alec Peterson]]、[[Founding of Atlantic College]]、[[International Baccalaureate]] |
+> | [[Argument_Peterson_1987_OpenCourt_Ch01\|第1章 大西洋学院的创办]] | 追踪和平教育理念怎样经由领导、场地、资金、共同生活与服务课程成为学校制度，并说明英国国家资格为何无法解决国际课程与跨国升学问题。 | [[Kurt Hahn]]、[[Alec Peterson]]、[[Founding of Atlantic College]]、[[International Baccalaureate]] |
 
 ## 跨章综合
 
 > [!book-synthesis] 跨章综合
 > - **理念到制度** 第 1 章已经显示，跨文化理解只有通过领导选择、场地、资金、招生、共同活动和课程安排才能成为日常教育实践。
 > - **学校到资格** 大西洋学院采用英国普通教育证书高级程度考试的权宜方案，直接引出后续章节需要解决的国际课程与大学承认问题。
+> - **草根倡议到国际制度** [[Founding of the International Baccalaureate|IB 创立过程]]的直接推动者是国际学校教师。教师讨论只有在独立法律组织、连续资金、国际课程委员会、试验学校、家长风险承担和大学承认机制出现后，才转化为可运行的国际资格。
+> - **课程理念的复合来源** 六学科组平衡欧洲通识传统与英国专门化传统，双语安排回应英法教育体系，知识论来自法国必修哲学与跨学科共同课程的折中，单科证书则回应文凭项目可能形成精英隔离的担忧（第 2 章，pp. 24–31）。
 
 > [!finding-cards] 综合发现
 > - **双重制度建设** 国际学校共同体与国际课程资格是相互依赖的两项建设任务（第 1 章，pp. 9–13）。
 > - **个人行动的组织化** 理念能否持续，取决于关键行动者能否取得组织资源并形成可复制的制度（第 1 章，pp. 3–8）。
+> - **起源是累积过程** IB 从 1925 年设想发展到 1970 年首批正式升学使用，经历需求形成、教师动员、组织独立、课程折中和资格验证，而非源自单一会议或个人（第 2 章，pp. 15–31）。
 
 ## 关键引用
 

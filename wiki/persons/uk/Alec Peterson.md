@@ -56,6 +56,7 @@ updated: 2026-08-17
 > [!timeline] 生平与职涯
 > - **1954–1957** 马来亚的多族群工作经验促使其思考教育如何消解民族偏见，回到英国后在多佛学院开设小规模的“国际高中阶段”，并于 1957 年在布鲁日国际教育会议结识[[Kurt Hahn|库尔特·哈恩（Kurt Hahn）]]。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 1–2)]]
 > - **1961–1962** 参与大西洋学院筹备，与罗伯特·布莱克本设计学术课程，尝试在英国高级程度考试之外维持语言、社会研究、科学和艺术的课程广度。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 7–13)]]
+> - **1966–1967** 在国际学校考试辛迪加陷入人员、财务与组织危机时投入近一年全职领导；与哈兰·“哈波”·汉森借助牛津大学和美国大学理事会的承诺，促成福特基金 300,000 美元资助，并把课程、考试、试验学校、家庭风险、持续资金和大学承认整合为同一可行性计划。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 23–24)]]
 > - **1968–1977** 担任国际文凭组织首任总干事，推动国际文凭课程与考试制度形成。
 
 ---
@@ -78,6 +79,7 @@ updated: 2026-08-17
 ## 关系网络
 
 > [!person-network] 关系网络
+> - **共同创制** [[Founding of the International Baccalaureate|国际文凭创立]]；与[[Bob Leach|鲍勃·利奇]]、[[Gerard Renaud|杰拉德·雷诺]]、[[John Goormaghtigh|约翰·戈尔马蒂赫]]等人分别承担教师动员、课程设计、组织治理和制度整合工作。
 > - **创立机构** [[International Baccalaureate]]、[[IB Diploma Programme]]。
 > - **设计课程** [[Theory of Knowledge]]（TOK 知识论课程）。
 > - **早期合作者** [[Kurt Hahn]] — 共同参与大西洋学院的国际教育实验，哈恩提供行动与服务的教育愿景，皮特森参与学术课程设计。
