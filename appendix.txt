@@ -1,0 +1,1110 @@
+41.00
+42.00
+50.00
+56.00
+60.00
+64.00
+70.00
+78.00
+80.00
+90.00
+99.00
+
+10.
+
+1
+1
+4
+1
+2
+1
+3
+1
+3
+4
+11
+
+.0
+.0
+.2
+.0
+.1
+.0
+.1
+.0
+.1
+.2
+.5
+
+Which of the following best describes your primary role(s)?
+
+Response
+No response
+DP coordinator
+Teacher
+Total
+
+Frequency
+534
+585
+960
+2079
+
+Percent
+25.7
+28.1
+46.2
+100.0
+
+Note: Items 11-45 pertain to those with a primary role of “Teacher” who indicate experience teaching
+the TOK course.
+11.
+
+How many years have you been teaching (total lifetime years of teaching at any school)?
+
+Response
+No Response
+1-3
+4-6
+7-9
+10-12
+More than 12
+Total
+
+Frequency
+109
+40
+69
+98
+123
+521
+
+Percent
+11.4
+4.2
+7.2
+10.2
+12.8
+54.3
+
+960
+
+100.0
+
+12.
+How many years have you been teaching at an authorized International Baccalaureate (IB)
+school?
+50
+
+Response
+No Response
+1-3
+4-6
+7-9
+10-12
+More than 12
+
+Frequency
+110
+172
+209
+147
+132
+190
+
+Percent
+11.5
+17.9
+21.8
+15.3
+13.8
+19.8
+
+Total
+960
+100.0
+13. How many years have you been teaching the Theory of Knowledge (TOK) course?
+Response
+No Response
+1-3
+4-6
+7-9
+10-12
+More than 12
+Total
+
+Frequency
+112
+384
+219
+124
+57
+64
+960
+
+Percent
+11.7
+40.0
+22.8
+12.9
+5.9
+6.7
+100.0
+
+14. Other than TOK, what are your teaching responsibilities?
+Response
+No Response
+I only teach TOK
+non IB courses
+other IB courses
+Total
+15.
+
+Total
+
+36
+
+Percent
+11.3
+5.8
+29.3
+53.6
+100.0
+
+Do you enjoy teaching the TOK course? *If no, why not? 36
+
+Response
+No Response
+No
+Yes
+
+16.
+
+Frequency
+108
+56
+281
+515
+960
+
+Frequency
+108
+22
+830
+960
+
+Percent
+11.3
+2.3
+86.5
+100.0
+
+What do you see as the main purpose of TOK? (rank)
+
+Open ended items analyzed separately
+
+51
+
+A.To develop an
+awareness of how
+knowledge is
+constructed, critically
+examined, and renewed
+by individuals and
+communities;
+B.To encourage students
+to reflect on their
+experiences in school and
+everyday life;
+C.To help students make
+connections between
+academic disciplines and
+between thoughts,
+feelings and actions;
+D.To help students
+develop an awareness of
+personal and ideological
+assumptions;
+E.To prepare students for
+further learning;
+F.Other_______________
+
+17.
+
+Frequency of Rank
+1
+2
+3
+
+4
+
+5
+
+6
+
+Total
+
+Mean
+
+SD
+
+467
+
+129
+
+61
+
+48
+
+32
+
+16
+
+753
+
+1.80
+
+1.28
+
+61
+
+164
+
+204
+
+190
+
+112
+
+16
+
+747
+
+3.24
+
+1.24
+
+84
+
+221
+
+211
+
+158
+
+63
+
+9
+
+746
+
+2.90
+
+1.18
+
+95
+
+169
+
+194
+
+213
+
+67
+
+7
+
+745
+
+3.01
+
+1.21
+
+28
+
+60
+
+63
+
+116
+
+432
+
+39
+
+738
+
+4.33
+
+1.20
+
+14
+
+4
+
+5
+
+5
+
+12
+
+84
+
+124
+
+5.01
+
+1.73
+
+What do you see as the main benefits to students of participation in TOK? (rank)
+Frequency of Rank
+1
+2
+3
+439
+147 83
+
+4
+57
+
+5
+21
+
+Total
+747
+
+Mean
+1.76
+
+SD
+
+237
+
+254
+
+128
+
+10
+
+744
+
+2.57
+
+0.99
+
+147
+
+276
+
+259
+
+9
+
+737
+
+3.05
+
+0.92
+
+204
+
+122
+
+284
+
+16
+
+748
+
+2.82
+
+1.17
+
+A.Students better
+able to critically
+evaluate knowledge.
+115
+B.Students better
+able to identify and
+reflect on personal
+assumptions.
+46
+C.Students better
+able to identify and
+reflect on
+ideological
+assumptions.
+122
+D.Students better
+able to apply critical
+thinking skills across
+the IB courses.
+37
+
+37
+
+1.10
+
+Because 1 is the highest rank a low mean indicates a high value
+
+52
+
+E.Other__________
+18.
+
+9
+
+6
+
+2
+
+2
+
+57
+
+76
+
+4.21
+
+1.46
+
+What do you see as the main challenges experienced when teaching TOK? (rank)
+
+A.Critically
+evaluating student
+knowledge
+B.Identifying and
+reflecting on
+personal
+assumptions
+C.Identifying and
+reflecting on
+ideological
+assumptions
+D.Making
+connections
+between the TOK
+content and content
+studied in other
+courses
+E.Identifying clear
+objectives or
+benchmarks
+F.Assessing student
+progress towards
+stated goals
+G.Adjusting
+approach when
+needed so all
+learners are
+progressing
+H.Other__________
+____________
+
+Frequency of Rank
+1
+2
+3
+130
+129
+123
+
+4
+99
+
+5
+85
+
+6
+75
+
+7
+71
+
+8
+10
+
+Total
+722
+
+Mean
+3.61
+
+SD
+
+43
+
+93
+
+95
+
+138
+
+133
+
+132
+
+74
+
+10
+
+718
+
+4.35
+
+1.77
+
+41
+
+60
+
+116
+
+119
+
+167
+
+135
+
+62
+
+10
+
+710
+
+4.43
+
+1.69
+
+82
+
+67
+
+64
+
+119
+
+94
+
+90
+
+164
+
+28
+
+708
+
+4.61
+
+2.12
+
+156
+
+110
+
+105
+
+93
+
+88
+
+91
+
+53
+
+19
+
+715
+
+3.60
+
+2.07
+
+114
+
+178
+
+112
+
+64
+
+84
+
+86
+
+70
+
+7
+
+715
+
+3.56
+
+2.01
+
+113
+
+84
+
+103
+
+77
+
+56
+
+89
+
+162
+
+32
+
+716
+
+4.33
+
+2.29
+
+39
+
+8
+
+2
+
+3
+
+2
+
+2
+
+5
+
+35
+
+96
+
+4.27
+
+3.23
+
+2.00
+
+19.
+Please rate the effort required to successfully teach TOK on a scale of 1 (least effort) -10 (most
+effort) in the following areas:
+
+A. Planning lessons
+B. Implementing lessons
+C. Assessing learning
+
+N
+749
+748
+749
+
+Mean
+7.25
+6.17
+7.47
+
+SD
+2.53
+2.42
+2.09
+53
+
+D. Providing feedback on learning
+
+20.
+
+2.34
+
+Frequency of Rank
+1
+2
+3
+4
+93
+98
+95
+101
+
+5
+89
+
+6
+85
+
+7
+72
+
+8
+48
+
+9
+47
+
+Total
+
+Mean
+
+SD
+
+52
+
+91
+
+105
+
+106
+
+109
+
+96
+
+79
+
+67
+
+28
+
+733
+
+4.69
+
+2.21
+
+70
+
+83
+
+119
+
+111
+
+103
+
+88
+
+69
+
+46
+
+37
+
+726
+
+4.50
+
+2.24
+
+286
+
+129
+
+89
+
+78
+
+42
+
+26
+
+30
+
+17
+
+29
+
+726
+
+2.89
+
+2.26
+
+36
+
+50
+
+72
+
+62
+
+90
+
+96
+
+72
+
+128
+
+96
+
+702
+
+5.72
+
+2.41
+
+22
+
+39
+
+50
+
+61
+
+77
+
+103
+
+112
+
+121
+
+112
+
+697
+
+6.11
+
+2.26
+
+35
+26
+
+71
+34
+
+69
+64
+
+70
+71
+
+81
+64
+
+90
+82
+
+130
+100
+
+88
+132
+
+84
+131
+
+718
+704
+
+5.54
+6.13
+
+2.39
+2.36
+
+113
+
+136
+
+89
+
+75
+
+78
+
+55
+
+49
+
+60
+
+64
+
+719
+
+4.27
+
+2.61
+
+728
+
+4.46
+
+2.40
+
+In what ways does the TOK course contribute to success in the areas below?
+A.
+B.
+C.
+D.
+
+22.
+
+7.01
+
+Which of the following most impact the success of the TOK course in your school? (rank)
+
+A.Teacher content
+knowledge gained
+from previous
+education
+B.Teacher
+pedagogical
+approaches
+developed from
+previous education
+or non IB training
+C.Teacher
+pedagogical
+approaches
+developed from IB
+training
+D.Teacher interest
+in TOK
+E.School wide
+support
+F.Administrator/sch
+ool head support
+G.Class size
+H.Student
+population
+I.Student interest
+21.
+
+741
+
+Other DP subjects:______________________
+Extended essay:___________________
+University success: ______________________
+International citizenship/life skills: ____________
+
+Which aspects of the IB Learner Profile do you think TOK best aligns? (select all that apply)
+
+54
+
+Inquirers
+Knowledgeable
+Thinkers
+Communicators
+Principled
+Open-minded
+Caring
+Risk-takers
+Balanced
+Reflective
+
+Frequency
+594
+327
+624
+405
+203
+634
+178
+281
+311
+618
+
+Percent 38
+62.9
+34.1
+65.0
+42.2
+21.1
+66.0
+18.5
+29.3
+32.4
+64.4
+
+Total
+960
+960
+960
+960
+960
+960
+960
+960
+960
+960
+
+Please rate how much you personally agree or disagree with these statements. Use the following scale:
+(1) strongly disagree
+(2) disagree
+(3) agree
+(4) strongly agree
+N/A
+Item
+24. When a student is having difficulty with an assignment, I am usually
+able to adjust it to his/her level
+25. The TOK course helps students to be successful in other DP
+subjects
+26. When a student has difficulty succeeding in my TOK class, it is
+often more related to specific student characteristics (i.e., level of
+parental involvement, challenging behavior, or other exceptional
+learning needs) than it is to the effectiveness of the TOK curriculum.
+27. Teaching TOK has been a valuable Professional Development
+experience
+28. Recent changes to the ways of knowing (WOKs) improve the TOK
+course
+29. Recent changes to the areas of knowledge (AOKs) improve the TOK
+course
+
+Total
+698
+
+Mean39
+3.09
+
+SD
+0.67
+
+695
+
+3.30
+
+0.66
+
+693
+
+2.89
+
+0.89
+
+699
+
+3.72
+
+0.62
+
+695
+
+3.32
+
+0.86
+
+692
+
+3.28
+
+0.86
+
+38
+
+The percent column will not total 100% because it is percent who indicate each answer option aligns to TOK.
+With “select all that apply” item types frequency represents those who checked that item. Percent is the percent
+of those who believe that item aligns to TOK.
+39
+Please note that in light of current debate surrounding the treatment of Likert items as continuous variables the
+means presented should be interpreted with caution. It is suggested (see Jamieson, 2004) because Likert item
+scales are ordered categories the intervals between the scale values are not equal. Therefore, numerical
+calculations, such as mean, are not valid. However, others suggest that using Likert scale items in
+parametric tests is acceptable in certain situations (see Lubke & Muthen, 2004).
+
+55
+
+

@@ -94,8 +94,8 @@ updated: 2026-08-17
 
 > [!monograph-tools] 理论与概念工具
 > - **[[International Education|国际教育]]** 用来连接跨文化共同生活、消解民族偏见、社会服务与共同课程等制度设计。
-> - **[[International Baccalaureate|国际文凭]]** 作为跨国课程与考试方案，回应国家课程偏向和大学入学资格不兼容的问题；创立过程表明其早期理念不是一次性提出，而是在 1925 年倡议、战后[[International Schools|国际学校]]需求、1960 年代教师课程实验与多国资格协商中逐步形成。
-> - **分布式创制** IB 没有可包揽全部工作的单一创始人：[[Bob Leach|鲍勃·利奇（Bob Leach）]]发动早期教师网络，[[Gerard Renaud|杰拉德·雷诺（Gerard Renaud）]]主导课程架构，[[John Goormaghtigh|约翰·戈尔马蒂赫（John Goormaghtigh）]]提供长期组织治理，[[Alec Peterson|亚历克·皮特森（Alec Peterson）]]则整合筹资、试验与资格承认。各自贡献只有在协作中才构成完整制度。
+> - **[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）** 作为跨国课程与考试方案，回应国家课程偏向和大学入学资格不兼容的问题；创立过程表明其早期理念不是一次性提出，而是在 1925 年倡议、战后[[International Schools|国际学校]]需求、1960 年代教师课程实验与多国资格协商中逐步形成。
+> - **分布式创制** IB 没有可包揽全部工作的单一创始人：[[Bob Leach|鲍勃·利奇]]（Bob Leach）发动早期教师网络，[[Gerard Renaud|杰拉德·雷诺]]（Gerard Renaud）主导课程架构，[[John Goormaghtigh|约翰·戈尔马蒂赫]]（John Goormaghtigh）提供长期组织治理，[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）则整合筹资、试验与资格承认。各自贡献只有在协作中才构成完整制度。
 
 > [!monograph-method] 研究方法与材料
 > - **研究设计** 采用参与者视角的历史叙事，沿组织创办、课程形成与制度扩张推进。
@@ -120,13 +120,13 @@ updated: 2026-08-17
 > - **[[Founding of Atlantic College|大西洋学院创办]]（1958–1962）** 创办者、校长、校址、资金、跨国招生与救援课程把和平教育理想转化为学校制度。
 > - **国家资格冲突显现（1962–1964）** 大西洋学院使用英国课程维持共同教学，却暴露课程偏向、语言公平和学生回国升学障碍。
 > - **[[International Baccalaureate|国际文凭]]制度化（1961–1970）** 日内瓦教师倡议经独立组织、连续资金、课程折中、试验学校、塞夫尔会议和大学有限承认，发展为实际升学资格。
-> - **教育目标转化为课程与评价（1960年代后期）** 通识教育被重新定义为多种思维方式，并经六学科、共同核心与深度选项、[[Extended Essay|EE]]、CASS、[[Theory of Knowledge|TOK]] 及综合评价制度具体化。
+> - **教育目标转化为课程与评价（1960年代后期）** 通识教育被重新定义为多种思维方式，并经六学科、共同核心与深度选项、[[Extended Essay|拓展论文]]（Extended Essay，EE）、创造、审美与社会服务（Creative, Aesthetic and Social Service，CASS）、[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）及综合评价制度具体化。
 
 ## 章节推进
 
 > [!chapter-arc] 章节推进线
 > - **Ch. 1 — The [[Founding of Atlantic College]]** 从和平教育理念、行动与服务机制、创校领导、场地与资金、跨国共同生活及课程资格矛盾，解释第一个联合世界书院实验如何形成并产生国际共同资格的需要。
-> - **Ch. 2 — The [[Founding of the International Baccalaureate]]** 从 1925 年未实现的国际毕业考试设想出发，追踪教师网络、[[International Schools Examination Syndicate|ISES]]／IBO、基金会资助、六学科结构、英法双语与大学承认试验如何共同建立 [[International Baccalaureate|IB]]。
+> - **Ch. 2 — The [[Founding of the International Baccalaureate]]** 从 1925 年未实现的国际毕业考试设想出发，追踪教师网络、[[International Schools Examination Syndicate|国际学校考试辛迪加]]（[[International Schools]] Examination Syndicate，ISES）／[[International Baccalaureate|国际文凭]]办公室（International Baccalaureate Office，IBO）、基金会资助、六学科结构、英法双语与大学承认试验如何共同建立 IB。
 > - **Ch. 3 — From Educational Aims to a Curriculum and Examinations** 从全人教育目标出发，比较欧陆百科全书课程、英国过早专门化与美国大学通识传统，说明六学科、[[Paradigmatic Learning|范例学习]]、[[Extended Essay|EE]]、CASS、[[Theory of Knowledge|TOK]] 与强调[[Assessment Backwash|评估反拨]]的考试体系如何形成。
 
 > [!chapter-index] 章节索引
