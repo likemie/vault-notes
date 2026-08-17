@@ -263,7 +263,7 @@ updated: 2026-08-17
 > [!citation-card]- 课程先于考试
 > 这是一个实际必要：修读课程的学生必须能够参加一项获国际高等教育入学承认的考试。但首先存在的是课程。（p. 57）
 >
-> *We sought not to ensure that as “generally educated men and women” our students should have acquired a wide range of knowledge, but that they should have developed, as far as they were able, their power and desire to engage in a wide range of what Montaigne called “ways of thinking”.*
+> *It was a practical necessity that those who followed it should be able to take an examination recognised for entry to higher education on an international scale. But it was the curriculum which came first.*
 
 ## 史料性质与解释边界
 

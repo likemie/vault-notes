@@ -37,8 +37,7 @@
               "title": "Argument_Peterson_1987_OpenCourt_Ch01"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +208,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4a27173df321c7e9",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch01.md",
     "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2010_JEP.md",
-    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch01.md",
     "rewrite_sec3.py",
     "rewrite_sec2.py",
     "rewrite_sec1.py",
