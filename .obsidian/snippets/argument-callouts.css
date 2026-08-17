@@ -1760,6 +1760,11 @@
   padding: 0.56rem 1rem;
 }
 
+/* 单段叙述：与标题栏共用左右留白，避免正文紧贴双色边框 */
+.callout[data-callout="tension"] > .callout-content > p {
+  margin-inline: 1rem;
+}
+
 /* 列表：2 栏网格 + 相对定位供 VS 徽章锚定 */
 .callout[data-callout="tension"] > .callout-content > ul {
   display: grid;
