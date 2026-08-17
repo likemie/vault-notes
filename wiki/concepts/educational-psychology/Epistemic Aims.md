@@ -13,10 +13,10 @@ related_color: "#e5e7eb"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Epistemic Cognition]]"
   - "[[Reliability]]"
   - "[[Epistemological Beliefs]]"
   - "[[Rote Learning]]"
-  - "[[Epistemic Cognition]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -27,7 +27,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # Epistemic Aims
@@ -42,7 +42,7 @@ updated: 2026-08-17
 > [!concept-lens] 概念透镜
 > - **含义** 获取真理、理解或通过考试等特定认知成就。
 > - **用途** 解释面对复杂知识时依然采取肤浅学习策略的内部逻辑。
-> - **边界** 区别于一般的动机或成就目标，直接指向认识论成就，如获取知识。
+> - **边界** 区别于一般的动机或成就目标（如为了打发时间而玩解谜游戏、为了展示口才而赢得辩论）。认识论目标直接指向真理与理解等认识论成就（epistemic achievements），它是区分[[Epistemic Cognition|认识论认知]]与非认识论认知（nonepistemic cognition）的唯一标尺。
 
 ---
 
