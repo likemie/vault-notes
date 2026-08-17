@@ -7,7 +7,7 @@ aliases:
 summary: "心理学与哲学概念附加促进或阻碍达到认识论目标的性情倾向。具有高度的情境特异性。"
 type: concept
 domain: "educational-psychology"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,8 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Aims]]"
+  - "[[Epistemic Value]]"
+  - "[[Conatus]]"
   - "[[Questionnaire]]"
 related_theories:
   - "[[Virtue Epistemology]]"
@@ -52,7 +54,13 @@ updated: 2026-08-18
 > [!feature] 核心要素
 > - **指向真理（Truth-conducive）** 特性被界定为美德的前提是其能够有效产生真信念或增进理解。
 > - **美德的情境特异性** 特质的美德或恶习属性及其展现高度依赖具体情境。面对地球是平的等压倒性反面证据，继续保持思想开放属于恶习。为了捍卫真理坚持己见属于理智勇气而非思想封闭。
-> - **区分非[[Epistemology|认识论]]倾向（nonepistemic dispositions）** 真正的认识美德必须区别于极度厌恶模糊性的认知闭合需要（need for closure）或心理学常测量的认知需求（need for cognition）。即使一个人极其享受高强度的脑力劳动（认知需求得分高），只要他的底层目标不是为了达成深层理解或追求真理，这种偏好就纯粹是非认识论倾向，绝对不属于认识论美德。
+> - **区分非[[Epistemology|认识论]]倾向（nonepistemic dispositions）** 真正的认识美德必须区别于心理学中常测量的“认知需求”等一般偏好。详见下方辨析。
+> 
+> [!contrast-table] 特质辨析：认识论美德 vs. 认知需求
+> | 特质分类 | 核心驱动力 | 典型表现 | [[Epistemic Value\|认识论价值]] |
+> |---|---|---|---|
+> | **认识论美德**<br>Epistemic Virtues | 追求真理与深层理解 | 具备理智勇气，愿意为了澄清事实而长时间[[Conatus\|努力]]核查数据 | 能够有效产生真实信念（求真导向） |
+> | **认知需求**<br>Need for Cognition | 享受高强度的脑力劳动过程 | 极其享受长时间解数独或填字游戏，喜欢努力思考的感觉 | 属于非认识论倾向，不关心是否得出真理 |
 
 ---
 
