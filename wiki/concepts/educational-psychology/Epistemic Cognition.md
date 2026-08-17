@@ -48,12 +48,9 @@ updated: 2026-08-18
 > [!boundary]- 概念边界
 > - 区别于[[Epistemological Beliefs|认识论信念]]（[[Epistemological Beliefs]]），认识论认知强调其不一定是显性表达的信念，也包含隐性且无法言传的认识论承诺（epistemic commitments）。
 > 
-> [!contrast-table] 核心界限辨析：认识论认知 vs. 非认识论倾向
-> | 维度 | 认识论认知（Epistemic Cognition） | 非认识论倾向（Nonepistemic Dispositions） |
-> |---|---|---|
-> | **目标指向** | 直接指向获取真理、深层理解或连贯知识 | 指向心理闭合、展示口才、打发时间或单纯的思考乐趣 |
-> | **典型案例** | 认为辩论能帮助发现逻辑漏洞以逼近事实 | 享受辩论的智力挑战，仅为了展示口才赢得比赛 |
-> | **本质属性** | 具有认识论成就（epistemic achievements）的意图 | 缺乏追求真理或理解的纯粹心理偏好 |
+> [!tension] 核心界限辨析：认识论认知 vs. 非认识论倾向
+> - **认识论认知（Epistemic Cognition）** 目标指向获取真理、深层理解或连贯知识。例如认为“辩论能帮助发现逻辑漏洞以逼近事实”。本质上具有达成认识论成就（epistemic achievements）的意图。
+> - **非认识论倾向（Nonepistemic Dispositions）** 目标指向展示口才、打发时间或单纯的思考乐趣。例如享受辩论的智力挑战，但仅为了展示口才赢得比赛。本质上缺乏追求真理或理解的纯粹心理偏好。
 
 ---
 

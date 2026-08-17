@@ -119,11 +119,9 @@ issuing_organization: ""
 > [!warrant] 哲学辩护（概念合法性）
 > Kvanvig (2003) 与 Goldman (1986) 等学者提出，[[Epistemology|认识论]]本质上是关于达成知识、真理与深层理解等特定认识成就的探讨。如果缺乏特定的认识目标，就无法区分**[[Epistemic Cognition|认识论认知]]（epistemic cognition）**与**非认识论认知（nonepistemic cognition）**。
 > 
-> [!contrast-table] 核心界限：认识论认知 vs. 非认识论倾向
-> | 认知类型 | 目标指向 | 典型行为与信念案例 | 本质属性 |
-> |---|---|---|---|
-> | **认识论认知**<br>Epistemic Cognition | 获取真理、连贯知识或深层理解 | 认为“参与辩论能帮助大家发现证据漏洞并形成更连贯的知识” | 旨在达成认识论成就的大前提 |
-> | **非认识论倾向**<br>Nonepistemic Dispositions | 享受思维过程、展示能力或满足心理偏好 | 享受辩论的智力挑战以展示口才并赢得比赛；花数小时解填字游戏 | 完全不以追求知识或真理为目的 |
+> [!tension] 核心界限：认识论认知 vs. 非认识论倾向
+> - **认识论认知（Epistemic Cognition）** 目标指向获取真理、连贯知识或深层理解。例如认为“参与辩论能帮助发现逻辑漏洞以逼近事实”。其本质是旨在达成特定认识论成就（epistemic achievements）。
+> - **非认识论倾向（Nonepistemic Dispositions）** 目标指向享受思维过程、展示能力或满足心理偏好。例如享受辩论的智力挑战但仅为赢得比赛，或花数小时解填字游戏。其本质完全不以追求真理为目的。
 
 > [!exegesis] 心理学效用（情境与预测力检验）
 > - **模型盲区** 现有[[Questionnaire|问卷]]仅测量对“知识是否复杂”的信念，遗漏了学习者是否“[[Establishing One's Will|立志]]”去掌握它。
