@@ -159,15 +159,19 @@ issuing_organization: "International Baccalaureate Organization"
 ### 背景：知识论（TOK）的独特架构与定位
 
 > [!def] [[Theory of Knowledge|知识论]]（Theory of Knowledge）
-> [[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|IBDP]]）的核心课程之一。旨在引导学生探讨“什么是认知”、“我们如何认知”以及“追求真理与说服的过程”，通过审视知识构建背后的心理与社会文化机制，培养[[Reflexivity|反思性]]的知识构建意识。
+> [[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|IBDP]]）的“三大核心要求”之一（与拓展论文 EE、创造行动与服务 CAS 并列）。旨在引导学生探讨“什么是认知”、“我们如何认知”以及“追求真理与说服的过程”，通过审视知识构建背后的心理与社会文化机制，培养符合 [[IB Learner Profile|IB 学习者特质]]（如探究者、思考者、胸襟开阔等）的[[Reflexivity|反思性]]知识构建意识。
 
 > [!contrast-table] 知识论与传统哲学的区别
 > | 维度 | 知识论（TOK） | 传统哲学课程 |
 > |---|---|---|
 > | **探讨重心** | 认知的过程（[[Ways of Knowing\|认知方式]]）与知识的分类（[[Areas of Knowledge\|知识领域]]） | 哲学史流派、形而上学或经典文本 |
+> | **经典依托** | 作为启发探究的引子（如洞穴之喻等认识论原点） | 课程的绝对主体与通读对象 |
 > | **探究目的** | 建立跨学科联系，挑战自我中心，培养国际情怀 | 深入理解哲学家的思想与推导逻辑 |
 
-> [!feature] 知识论的核心组件
+> [!feature] 知识论的哲学原点与核心组件
+> 尽管在定位上刻意区别于传统哲学，知识论的底层依然深受经典认识论（Epistemology）的启发。报告（p. 5）指出，课程的奠基性阅读通常包括四大经典文本：**柏拉图**的《洞穴之喻》（*Allegory of the Cave*）、**笛卡尔**的《方法论》（*Discourse on method*）、**洛克**的《人类理解论》（*An Essay Concerning Human Understanding*）以及**康德**的《纯粹理性批判》（*Critique of Pure Reason*）。
+> 
+> 在此哲学原点之上，课程被具象化为两大核心分析矩阵：
 > - **八大[[Areas of Knowledge\|知识领域]]（AOKs）**
 >   伦理学、历史、人文科学、本土知识系统、数学、自然科学、宗教知识系统、艺术。作为分类不同知识属性的框架。
 > - **八大[[Ways of Knowing\|认知方式]]（WOKs）**
@@ -224,11 +228,12 @@ issuing_organization: "International Baccalaureate Organization"
 > [!chain-link] 实施挑战：评估的主观性与矛盾
 > 在调查所有实施挑战时，“评估学生实现既定目标的进展”（Mean=3.56，排名第一）和“设定明确的客观目标”（Mean=3.60）成为最大的痛点。在精力耗费上，评估学习环节耗费极大（7.47/10），显著高于备课（7.25）和授课（6.17）（p. 18）。
 
-> [!citation-card]- 焦点小组中的评估困境
+> [!citation-card]- 焦点小组中的评估困境：学生索要数字分数
 > “学生想要分数，他们需要知道自己表现如何。对于反馈，即使是详尽的形成性反馈，他们实际上并不清楚自己表现如何，他们只想要一个数字。”（p. 33）
 > 
 > *“Because they want to have grades, because they need to know how they are doing. With the feedback, even if it's an extended feedback, they don't really know how they are doing, they want the number.”*
-> 
+
+> [!citation-card]- 焦点小组中的评估困境：探究性评分主观
 > “批判性评估学生的知识是一个挑战，因为即使在一小群学生中，思考也可能处于许多完全不同的阶段。过去教授英语语言艺术（ELA），知识论中学生写作的评估与传统环境中的写作评估非常不同。”（p. 32）
 > 
 > *“Critically evaluating student knowledge is a challenge because students' thinking can be at many different stages within even a small group of students. I am historically an English Language Arts teacher, and the evaluation of students' writing within TOK is quite different than evaluation of students' writing in a traditional ELA setting.”*
