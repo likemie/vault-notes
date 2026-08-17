@@ -7,7 +7,7 @@ aliases:
 summary: "国际文凭预科项目（IB DP）的三项必修核心要素之一，要求学生在导师指导下就感兴趣的跨学科或单科议题独立完成 4000 字的研究论文。"
 type: concept
 domain: "curriculum"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

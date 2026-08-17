@@ -6,7 +6,7 @@ aliases:
 summary: "以共同核心提供学科背景，并选择具有代表性的内容深入研究，使学生掌握学科思维方式而非追求知识的百科全书式覆盖。"
 type: concept
 domain: "curriculum"
-related_count: 4
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

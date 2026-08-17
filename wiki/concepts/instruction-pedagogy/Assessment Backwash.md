@@ -8,10 +8,10 @@ aliases:
 summary: "评估要求反向塑造学生学习重点和活动方式的机制，其作用方向取决于评估任务是否与课程目标保持一致。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 6
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/assessment
   - theme/learning
