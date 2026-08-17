@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,13 +224,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4a27173df321c7e9",
+  "active": "81d5dcb4edb5f122",
   "lastOpenFiles": [
+    "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
+    "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EP.md",
     "wiki/theories/educational-philosophy/Reliabilism.md",
     "wiki/concepts/educational-psychology/Epistemic Virtues and Vices.md",
     "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CE.md",
-    "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md",
     "wiki/concepts/higher-education/International Education.md",
     "wiki/facts/switzerland/International Schools Examination Syndicate.md",
@@ -249,7 +250,6 @@
     "wiki/facts/uk/Grammar School.md",
     "wiki/concepts/curriculum/Knowledge Questions.md",
     "raw/chinn2011.pdf",
-    "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
     "wiki/methods/qualitative/Qualitative Interview.md",
     "wiki/concepts/curriculum/IB Learner Profile.md",
     "wiki/concepts/curriculum/Ways of Knowing.md",
