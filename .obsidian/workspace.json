@@ -37,7 +37,8 @@
               "title": "Argument_Peterson_1987_OpenCourt_Ch02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +209,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "4a27173df321c7e9",
   "lastOpenFiles": [
-    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md",
     "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md",
     "wiki/methods/qualitative/Qualitative Interview.md",
     "wiki/concepts/curriculum/IB Learner Profile.md",
     "wiki/concepts/curriculum/Areas of Knowledge.md",
