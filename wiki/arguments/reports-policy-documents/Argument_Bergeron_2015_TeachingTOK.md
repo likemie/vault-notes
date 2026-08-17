@@ -159,29 +159,13 @@ issuing_organization: "International Baccalaureate Organization"
 
 ---
 
-### 1. 知识论课程认知及其对学生的益处
+### 1. 课程对学生的认知构建与溢出益处
 
 > [!claim] 步骤一主张
-> [[Theory of Knowledge|知识论]]课程的意义得到高度认可。核心目的是培养对知识构建的意识以及跨学科联系能力。课程在打破以自我为中心的思维模式（egocentric thinking）、培养国际情怀方面具有显著的“改变人生（life-changing）”的长期效应，极大地支持了学生在[[Extended Essay|拓展论文]]和大学阶段的成功。个体的授课兴趣被认为是影响课程成功的最关键因素。
+> [[Theory of Knowledge|知识论]]课程的意义得到高度认可。核心目的是培养对知识构建的意识以及跨学科联系能力。课程在打破以自我为中心的思维模式（egocentric thinking）、培养国际情怀方面具有显著的“改变人生（life-changing）”的长期效应，极大地支持了学生在[[Extended Essay|拓展论文]]和大学阶段的成功。
 
-> [!chain-link] 量化排序与开放式补充
-> 量化调查显示，86.5% 的参与者明确表示享受教学。在影响课程成功的最重要因素排名中，“任课群体的兴趣”（Teacher interest in TOK，平均排名2.89）高居榜首，甚至显著高于“学生的兴趣”（4.27）和“[[Class Size|班级规模]]”（5.54），凸显了期望效应对成功的主导作用。
-> 
+> [!chain-link] 目标排序与开放式补充
 > 在对总体目的的量化排序中，前三名分别为：建立对知识构建方式的认识（M=1.80）；在学科间和知情行之间建立连接（M=2.90）；识别并反思个人[[Hypothesis|假设]]（M=3.01）。在探讨“益处”的开放式回应中，除了批判性评估知识外，教师频繁补充了“国际情怀（international mindedness）”。值得注意的是，“不论断他人（not judging others）”和“挑战自我中心思维”构成了国际情怀形成过程中的重要基石。
-
-> [!ref-table]- 表 20：影响学校知识论（TOK）课程成功的因素排序（由高到低，均值越低代表排名越高）
-> 
-> | 因素 | 总量（Total） | 均值（Mean） | 标准差（SD） |
-> |---|---|---|---|
-> | 任课群体的兴趣（Teacher interest in TOK） | 726 | 2.89 | 2.26 |
-> | 学生兴趣（Student interest） | 719 | 4.27 | 2.61 |
-> | 先前教育获得的教师内容知识（Teacher content knowledge gained from previous education） | 728 | 4.46 | 2.40 |
-> | 通过 [[International Baccalaureate\|IB]] 培训发展的教师教学法（Teacher pedagogical approaches developed from IB training） | 726 | 4.50 | 2.24 |
-> | 先前教育或非 IB 培训发展的教师教学法（Teacher pedagogical approaches developed from previous education or non IB training） | 733 | 4.69 | 2.21 |
-> | 班级规模（Class size） | 718 | 5.54 | 2.39 |
-> | 全校范围的支持（School wide support） | 702 | 5.72 | 2.41 |
-> | 行政/校长支持（Administrator/school head support） | 697 | 6.11 | 2.26 |
-> | 学生群体（Student population） | 704 | 6.13 | 2.36 |
 
 > [!ref-table]- 表 5：知识论对其他领域成功的溢出效应反馈频率
 > 
@@ -244,12 +228,29 @@ issuing_organization: "International Baccalaureate Organization"
 
 ---
 
-### 3. 实施过程中的评价与管理挑战
+### 3. 课程实施与管理：成功要素、评价困境与协作策略
 
 > [!claim] 步骤三主张
-> 尽管课程哲学备受推崇，实际落地仍面临显著的结构性挑战，包括量化评价负担极重、师资背景难以覆盖全部分支以及学校行政排课的边缘化。
+> 课程的成功高度依赖于任课群体自发的兴趣与期望效应，而非自上而下的行政支持。在实际落地中，实施面临着显著的结构性挑战，包括量化评价负担极重、师资背景难以覆盖全部分支以及学校行政排课的边缘化。
 
-> [!chain-link] 证据到判断
+> [!chain-link] 驱动成功的关键要素：期望效应主导
+> 量化调查显示，86.5% 的参与者明确表示享受教学。在影响课程成功的最重要因素排名中，“任课群体的兴趣”（Teacher interest in TOK，平均排名2.89）高居榜首，甚至显著高于“学生的兴趣”（4.27）和“[[Class Size|班级规模]]”（5.54），而“行政/校长支持”和“全校范围支持”则排在最后。这凸显了高度的个人兴趣和期望效应在克服实施困难中的主导作用。
+
+> [!ref-table]- 表 20：影响学校知识论（TOK）课程成功的因素排序（由高到低，均值越低代表排名越高）
+> 
+> | 因素 | 总量（Total） | 均值（Mean） | 标准差（SD） |
+> |---|---|---|---|
+> | 任课群体的兴趣（Teacher interest in TOK） | 726 | 2.89 | 2.26 |
+> | 学生兴趣（Student interest） | 719 | 4.27 | 2.61 |
+> | 先前教育获得的教师内容知识（Teacher content knowledge gained from previous education） | 728 | 4.46 | 2.40 |
+> | 通过 [[International Baccalaureate\|IB]] 培训发展的教师教学法（Teacher pedagogical approaches developed from IB training） | 726 | 4.50 | 2.24 |
+> | 先前教育或非 IB 培训发展的教师教学法（Teacher pedagogical approaches developed from previous education or non IB training） | 733 | 4.69 | 2.21 |
+> | 班级规模（Class size） | 718 | 5.54 | 2.39 |
+> | 全校范围的支持（School wide support） | 702 | 5.72 | 2.41 |
+> | 行政/校长支持（Administrator/school head support） | 697 | 6.11 | 2.26 |
+> | 学生群体（Student population） | 704 | 6.13 | 2.36 |
+
+> [!chain-link] 结构性挑战：评价的主观性与排课边缘化
 > 在满分为10分的精力耗费评估中，评估学习环节耗费精力最大（M=7.47），显著高于备课（7.25）、提供反馈（7.01）和实际上课实施（6.17）。在18个主要实施挑战排名中，评估进展和确定明确目标位列前茅。与有明确客观答案的科目不同，评价学生[[Epistemology|认识论]]思维的隐性过程过于主观。此外，管理支持力度有限，仅有不到四成的协调员能提供额外的备课时间。
 
 > [!ref-table]- 表 12：与实施挑战相关的焦点小组主题与编码
