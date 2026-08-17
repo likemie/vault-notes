@@ -38,7 +38,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
 confidence: high
-status: draft
+status: active
 created: 2026-08-17
 updated: 2026-08-17
 ---
