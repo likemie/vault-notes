@@ -43,19 +43,19 @@ Total entries: **108**
 > - [[Pragma-Dialectics]] — van Eemeren 与 Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
 > - [[Pragmatic Constructivism]] — 由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程
 > - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
-> - [[Reliabilism]] — 哲学理论 + 强调信念的确证依赖于产生该信念的过程是否可靠 + 将科学实践与认知过程纳入认识论研究。
+> - [[Reliabilism]] — 哲学理论附加强调信念的确证依赖于产生该信念的过程是否可靠。科学实践与认知过程被纳入认识论研究。
 > - [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
 > - [[Third Generation Activity Theory]] — 在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论视角，聚焦多活动系统相遇时的矛盾、边界跨越与扩展性改造机制
 > - [[Toulmin's Argumentation Model]] — Toulmin 提出的领域依赖的论证结构模型，将论证拆解为六个部件，基于法律推理逻辑，广泛应用于科学教育和批判性思维教学
 > - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
 > - [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
-> - [[Virtue Epistemology]] — 哲学理论 + 将认识论的重心从信念转移到认识主体及其智力美德 + 为研究认知过程提供性格视角的框架。
+> - [[Virtue Epistemology]] — 哲学理论附加将认识论的重心从信念转移到认识主体及其智力美德。为研究认知过程提供性格视角的框架。
 
 > [!index-list]- Educational Psychology (7)
 > - [[Argumentative Reasoning]] — Deanna Kuhn提出的考察个体在日常推理中如何评估专家确定性并为自己的观点进行辩护的三层次认识论模型。
 > - [[Epistemic and Ontological Cognition]] — 一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。
 > - [[Epistemological Reflection Model]] — Baxter Magolda提出的一项考察男女学生在四种认知方式中性别相关推理模式的纵向发展模型。
-> - [[Expanded Framework of Epistemic Cognition]] — 分析框架 + 提出了一个整合哲学观念的五组件模型 + 用于替代或扩展传统简单的认识论信念维度。
+> - [[Expanded Framework of Epistemic Cognition]] — 分析框架附加整合哲学观念的五组件模型。取代或扩展了传统简单的认识论信念维度。
 > - [[Perry's Scheme of Intellectual and Ethical Development]] — Perry提出的关于大学生在知识、价值与权威的认知上如何从二元论发展到相对主义的经典阶段理论。
 > - [[Reflective Judgment Model]] — King和Kitchener提出的关于个体如何理解认知过程并为劣构问题提供辩护的七阶段反思性判断模型。
 > - [[Women's Ways of Knowing]] — Belenky等人提出的关注女性作为认知者如何看待真理、知识与权威的五个认识论视角模型。

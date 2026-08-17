@@ -97,7 +97,7 @@ Total entries: **1856**
 
 > [!index-list]- Curriculum (35)
 > - [[Approaches to Teaching and Learning]] — 国际文凭项目中的一套核心教学与学习方法，旨在通过培养思考、交流、研究等技能，支持核心组件的连贯性与跨学科学习。
-> - [[Areas of Knowledge]] — IB 知识论课程中用于比较不同知识传统如何界定问题、生产证据和形成判断的课程分类框架；它连接学科情境、认知方式与知识问题，并随指南版本由六项扩展为八项。
+> - [[Areas of Knowledge]] — 知识论课程中用于比较不同学科与知识传统如何形成概念、证据、方法和判断标准的课程框架；其历史根源是以多种思维方式回应学科割裂，并逐步由早期知识形式主题发展为可比较的领域分类。
 > - [[Atomisation of Knowledge and Skills]] — 在测量、问责和经济竞争逻辑下，教育内容被拆分为可评估、可比较和可交易的小单位，用于描述课程知识与技能的碎片化组织方式。
 > - [[Big Ideas]] — 课程设计中的核心概念或主题，用于组织学科知识并促进学生对学科本质的理解，在 UbD 框架和新西兰课程改革中被广泛使用
 > - [[Concurrency of Learning]] — 课程设计原则，指学生在同一阶段内同时学习多门学科并在不同学科（尤其是核心课程组件）之间建立联系，以促进跨学科的整体学习体验。
@@ -270,11 +270,11 @@ Total entries: **1856**
 > - [[Constructed Knowledge]] — 女性认知方式模型中的最高阶段，个体认为知识是随语境变化的主动建构产物。
 > - [[Contextual Knowing]] — 认识论反思模型（ERM）的最高阶段，能基于语境和证据对不确定的知识进行概率性评估。
 > - [[Domain Specificity]] — 指个体的认知结构（如认识论信念）并非跨领域通用的统一实体，而是受限于具体的知识领域属性（如良构与劣构、主观与客观），在不同学科或判断领域中表现出发展的不平衡性与差异性。
-> - [[Epistemic Aims]] — 心理学与哲学概念 + 探究和寻求发现过程中的目标 + 决定了其他认知活动是否属于认识论范畴。
-> - [[Epistemic Cognition]] — 心理学概念 + 指个体关于知识和认知过程的所有显性或隐性信念与认知 + 是理解学生学习过程的重要预测变量。
-> - [[Epistemic Stances]] — 概念 + 个体对特定知识主张采取的态度 + 取代了传统模型中单一的确定性维度。
-> - [[Epistemic Value]] — 哲学与心理学概念 + 特定认识成就的相对价值 + 影响个体在探究中权衡成本与收益的决策。
-> - [[Epistemic Virtues and Vices]] — 心理学与哲学概念 + 促进或阻碍达到认识论目标的性情倾向 + 具有高度的情境特异性。
+> - [[Epistemic Aims]] — 心理学与哲学概念附加探究和寻求发现过程中的目标。决定了其他认知活动是否属于认识论范畴。
+> - [[Epistemic Cognition]] — 心理学概念附加个体关于知识和认知过程的所有显性或隐性信念与认知。是理解学习过程的重要预测变量。
+> - [[Epistemic Stances]] — 概念附加个体对特定知识主张采取的态度。取代了传统模型中单一的确定性维度。
+> - [[Epistemic Value]] — 哲学与心理学概念附加特定认识成就的相对价值。影响探究中权衡成本与收益的决策。
+> - [[Epistemic Virtues and Vices]] — 心理学与哲学概念附加促进或阻碍达到认识论目标的性情倾向。具有高度的情境特异性。
 > - [[Epistemological Beliefs]] — 关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。
 > - [[Epistemological Theories]] — 关于个体的认识论信念不是零散独立的观点，而是构成了一种具有内部连贯性的“个人理论”。该构念由 Hofer 与 Pintrich 提出，包含四大核心认识论维度。
 > - [[Epistemological Understanding]] — 个体对认知的主观维度与客观维度的协调能力，表现为从绝对论、多元论到评价论的发展过程。
@@ -946,19 +946,19 @@ Total entries: **1856**
 > - [[Pragma-Dialectics]] — van Eemeren 与 Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
 > - [[Pragmatic Constructivism]] — 由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程
 > - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
-> - [[Reliabilism]] — 哲学理论 + 强调信念的确证依赖于产生该信念的过程是否可靠 + 将科学实践与认知过程纳入认识论研究。
+> - [[Reliabilism]] — 哲学理论附加强调信念的确证依赖于产生该信念的过程是否可靠。科学实践与认知过程被纳入认识论研究。
 > - [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
 > - [[Third Generation Activity Theory]] — 在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论视角，聚焦多活动系统相遇时的矛盾、边界跨越与扩展性改造机制
 > - [[Toulmin's Argumentation Model]] — Toulmin 提出的领域依赖的论证结构模型，将论证拆解为六个部件，基于法律推理逻辑，广泛应用于科学教育和批判性思维教学
 > - [[Transactional Epistemology]] — Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性
 > - [[Transition Design]] — 把社会转型视为在复杂生命系统中逐步涌现而非一次性设计完成的变革框架，强调基于地方生活世界的长期设计与协作放大
-> - [[Virtue Epistemology]] — 哲学理论 + 将认识论的重心从信念转移到认识主体及其智力美德 + 为研究认知过程提供性格视角的框架。
+> - [[Virtue Epistemology]] — 哲学理论附加将认识论的重心从信念转移到认识主体及其智力美德。为研究认知过程提供性格视角的框架。
 
 > [!index-list]- Educational Psychology (7)
 > - [[Argumentative Reasoning]] — Deanna Kuhn提出的考察个体在日常推理中如何评估专家确定性并为自己的观点进行辩护的三层次认识论模型。
 > - [[Epistemic and Ontological Cognition]] — 一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。
 > - [[Epistemological Reflection Model]] — Baxter Magolda提出的一项考察男女学生在四种认知方式中性别相关推理模式的纵向发展模型。
-> - [[Expanded Framework of Epistemic Cognition]] — 分析框架 + 提出了一个整合哲学观念的五组件模型 + 用于替代或扩展传统简单的认识论信念维度。
+> - [[Expanded Framework of Epistemic Cognition]] — 分析框架附加整合哲学观念的五组件模型。取代或扩展了传统简单的认识论信念维度。
 > - [[Perry's Scheme of Intellectual and Ethical Development]] — Perry提出的关于大学生在知识、价值与权威的认知上如何从二元论发展到相对主义的经典阶段理论。
 > - [[Reflective Judgment Model]] — King和Kitchener提出的关于个体如何理解认知过程并为劣构问题提供辩护的七阶段反思性判断模型。
 > - [[Women's Ways of Knowing]] — Belenky等人提出的关注女性作为认知者如何看待真理、知识与权威的五个认识论视角模型。
@@ -2227,7 +2227,7 @@ Total entries: **1856**
 > - [[Argument_Rømer_2018_EPT]] — 以教育哲学分析对 Hattie VL 提出五线批评：评价理论取代教育、因变量概念不清、激进建构主义消解教学、反馈集权化、误读 Popper 三个世界理论
 
 > [!index-list]- Educational Psychologist (2)
-> - [[Argument_Chinn_2011_EP]] — 心理学概念建构 + 哲学视角 + 提出扩展的认识论认知（EC）五要素框架，强调通过细粒度和情境性指标提高预测效度。
+> - [[Argument_Chinn_2011_EP]] — 心理学概念建构附加哲学视角。扩展的认识论认知五要素框架被提出，强调通过细粒度和情境性指标提高预测效度。
 > - [[Argument_Slavin_2019_EP]] — EBE 支持者阵营的纲领性论述：三条件框架（项目存量、证据审查、政府激励）和以已验证项目系统填充 RTI 三层的 RTPI 方案
 
 > [!index-list]- Educational Psychology Review (1)
