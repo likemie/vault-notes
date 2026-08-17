@@ -184,7 +184,7 @@ Total entries: **202**
 > - [[Argument_Rømer_2018_EPT]] — 以教育哲学分析对 Hattie VL 提出五线批评：评价理论取代教育、因变量概念不清、激进建构主义消解教学、反馈集权化、误读 Popper 三个世界理论
 
 > [!index-list]- Educational Psychologist (2)
-> - [[Argument_Chinn_2011_EP]] — 心理学概念建构 + 哲学视角 + 提出扩展的认识论认知（EC）五要素框架，强调细粒度和情境性。
+> - [[Argument_Chinn_2011_EP]] — 心理学概念建构 + 哲学视角 + 提出扩展的认识论认知（EC）五要素框架，强调通过细粒度和情境性指标提高预测效度。
 > - [[Argument_Slavin_2019_EP]] — EBE 支持者阵营的纲领性论述：三条件框架（项目存量、证据审查、政府激励）和以已验证项目系统填充 RTI 三层的 RTPI 方案
 
 > [!index-list]- Educational Psychology Review (1)

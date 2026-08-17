@@ -274,7 +274,7 @@ Total entries: **1856**
 > - [[Epistemic Cognition]] — 心理学概念 + 指个体关于知识和认知过程的所有显性或隐性信念与认知 + 是理解学生学习过程的重要预测变量。
 > - [[Epistemic Stances]] — 概念 + 个体对特定知识主张采取的态度 + 取代了传统模型中单一的确定性维度。
 > - [[Epistemic Value]] — 哲学与心理学概念 + 特定认识成就的相对价值 + 影响个体在探究中权衡成本与收益的决策。
-> - [[Epistemic Virtues and Vices]] — 心理学与哲学概念 + 促进或阻碍达到认识论目标的性情倾向 + 反映个体在认知活动中的稳定特质。
+> - [[Epistemic Virtues and Vices]] — 心理学与哲学概念 + 促进或阻碍达到认识论目标的性情倾向 + 具有高度的情境特异性。
 > - [[Epistemological Beliefs]] — 关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。
 > - [[Epistemological Theories]] — 关于个体的认识论信念不是零散独立的观点，而是构成了一种具有内部连贯性的“个人理论”。该构念由 Hofer 与 Pintrich 提出，包含四大核心认识论维度。
 > - [[Epistemological Understanding]] — 个体对认知的主观维度与客观维度的协调能力，表现为从绝对论、多元论到评价论的发展过程。
@@ -2227,7 +2227,7 @@ Total entries: **1856**
 > - [[Argument_Rømer_2018_EPT]] — 以教育哲学分析对 Hattie VL 提出五线批评：评价理论取代教育、因变量概念不清、激进建构主义消解教学、反馈集权化、误读 Popper 三个世界理论
 
 > [!index-list]- Educational Psychologist (2)
-> - [[Argument_Chinn_2011_EP]] — 心理学概念建构 + 哲学视角 + 提出扩展的认识论认知（EC）五要素框架，强调细粒度和情境性。
+> - [[Argument_Chinn_2011_EP]] — 心理学概念建构 + 哲学视角 + 提出扩展的认识论认知（EC）五要素框架，强调通过细粒度和情境性指标提高预测效度。
 > - [[Argument_Slavin_2019_EP]] — EBE 支持者阵营的纲领性论述：三条件框架（项目存量、证据审查、政府激励）和以已验证项目系统填充 RTI 三层的 RTPI 方案
 
 > [!index-list]- Educational Psychology Review (1)
