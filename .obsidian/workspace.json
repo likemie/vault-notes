@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EP.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,8 +224,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "81d5dcb4edb5f122",
+  "active": "4a27173df321c7e9",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EP.md",
+    "wiki/theories/educational-philosophy/Reliabilism.md",
+    "wiki/concepts/educational-psychology/Epistemic Virtues and Vices.md",
     "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CE.md",
     "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md",
@@ -237,12 +240,9 @@
     "wiki/persons/uk/Desmond Hoare.md",
     "sources/Chinn_2011_EP.md",
     "sources/Chinn_2011_EP.pdf",
-    "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EP.md",
     "wiki/theories/educational-psychology/Expanded Framework of Epistemic Cognition.md",
-    "wiki/theories/educational-philosophy/Reliabilism.md",
     "wiki/theories/educational-philosophy/Virtue Epistemology.md",
     "wiki/concepts/educational-psychology/Epistemic Stances.md",
-    "wiki/concepts/educational-psychology/Epistemic Virtues and Vices.md",
     "wiki/concepts/educational-psychology/Epistemic Value.md",
     "wiki/concepts/educational-psychology/Epistemic Aims.md",
     "wiki/concepts/educational-psychology/Epistemic Cognition.md",

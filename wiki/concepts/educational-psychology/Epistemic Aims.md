@@ -6,7 +6,7 @@ aliases:
 summary: "心理学与哲学概念附加探究和寻求发现过程中的目标。决定了其他认知活动是否属于认识论范畴。"
 type: concept
 domain: "educational-psychology"
-related_count: 6
+related_count: 0
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -51,7 +51,7 @@ updated: 2026-08-17
 > [!feature] 核心要素
 > - **真理（Truth）与避错** 寻求获取真实信念或接近真实的信念是首要特征。该维度下区分为尽量少相信以避免错误的保守型信徒，以及为了增加真信念愿意承担犯错风险的自由型信徒。
 > - **最低限度确证的信念（Minimally justified belief）** 仅凭借微弱证据获得满足，缺乏比较不同证据[[Reliability|可靠性]]的意愿，进而拒绝深度辩论。
-> - **理解与解释（Understanding / Explanation）** 把握信息之间的解释性连接和因果机制，理解事物契合逻辑。
+> - **理解与解释（Understanding / Explanation）** 把握信息之间的解释性连接和因果机制，理解事物契合逻辑，超越孤立事实的记忆。
 > - **情境特异性（Context specificity）** 相同个体在不同情境下采纳不同的目标。为了弄懂光合作用追求理解，应对考试则只追求最低限度的记忆。
 
 ---

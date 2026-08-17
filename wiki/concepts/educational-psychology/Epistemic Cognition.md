@@ -6,7 +6,7 @@ aliases:
 summary: "心理学概念附加个体关于知识和认知过程的所有显性或隐性信念与认知。是理解学习过程的重要预测变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 8
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Epistemic Value]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Causal Processes]]"
-  - "[[Reliability]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -58,7 +57,7 @@ updated: 2026-08-17
 > - **知识结构（Structure of Knowledge）** 包括普遍性与特殊性、决定论与随机性，以及具体的[[Epistemology|认识论]]形式，如生物学机制、因果模型。这超越了简单的复杂与简单维度。
 > - **来源与确证（Sources and Justification）** 知识来源呈现交互特征，涵盖感知、记忆、推理、证词。不同情境下界定好证据或好解释的确证标准差异巨大。
 > - **[[Epistemic Virtues and Vices|认识论美德与恶习]]（[[Epistemic Virtues and Vices]]）** 思想开放、理智勇气等促进认识目标的性格倾向具有高度的情境特异性。
-> - **可靠与不可靠的过程（Reliable and unreliable processes）** 涵盖产生信念的[[Causal Processes|因果过程]]，如群体协作、同行评审、科学实验，及其[[Reliability|可靠性]]的判断。
+> - **可靠与不可靠的过程（Reliable and unreliable processes）** 涵盖产生信念的[[Causal Processes|因果过程]]，如群体协作、同行评审、科学实验，及其有效性前提条件的判定。
 
 ---
 
