@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中不使用暗示结果方向的词语的原则，由 McCracken (1988) 提出，要求访谈者和目的陈述写作者让受访者自主描述经验，避免使用成功的、有益的、积极的等预设方向性结果的词汇"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Epistemic Stances]]"
   - "[[Operationalization]]"
   - "[[Epoché]]"
   - "[[Emergent Design]]"
@@ -87,7 +88,7 @@ updated: 2026-05-31
 ## 理论基础
 
 > [!tip]-
-> 非方向性语言的深层理据植根于[[Qualitative Research|质性研究]]的[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]。建构主义认为意义是个体通过与世界的互动建构的，研究者不能将先验的"好/坏"框架强加于参与者的经验之上。非方向性法则正是这一认识论立场在方法[[Praxis|实践]]层面的[[Operationalization|操作化]]：它要求研究者[[Epoché|悬置]]（bracket）自己的价值预设，让参与者的经验和表述成为意义的直接来源。
+> 非方向性语言的深层理据植根于[[Qualitative Research|质性研究]]的[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]。建构主义认为意义是个体通过与世界的互动建构的，研究者不能将先验的"好/坏"框架强加于参与者的经验之上。非方向性法则正是这一[[Epistemic Stances|认识论立场]]在方法[[Praxis|实践]]层面的[[Operationalization|操作化]]：它要求研究者[[Epoché|悬置]]（bracket）自己的价值预设，让参与者的经验和表述成为意义的直接来源。
 >
 > 这一原则也与质性研究的**[[Emergent Design|涌现式设计]]（emerging design）**一脉相承——如果研究设计可以在过程中改变和调整，那么在表述[[Research Purpose|研究目的]]时就不应该预设一个固定不变的方向。
 

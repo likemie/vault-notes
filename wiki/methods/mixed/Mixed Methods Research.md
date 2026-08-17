@@ -5,7 +5,7 @@ summary: "结合量化与质性数据并通过特定设计进行整合的研究�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 54
+method_related_count: 57
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Praxis]]"
   - "[[Fitness for Purpose]]"
+  - "[[Epistemic Stances]]"
   - "[[Postpositivism]]"
   - "[[Data Transformation]]"
   - "[[Variable]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Virtual World]]"
   - "[[Concurrency of Learning]]"
+  - "[[Theory of Knowledge]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -67,6 +69,7 @@ related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
   - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Bergeron_2015_TeachingTOK]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
@@ -159,7 +162,7 @@ updated: 2026-07-11
 > - **不是"怎么都行"** 有自己的严格标准：研究必须回答[[Research Question|研究问题]]并交付有用的答案（Denscombe, 2008）
 > - **实践共同体** Denscombe（2008）从[[Deanna Kuhn|库恩]][[Paradigm|范式]]论出发，将混合方法定义为一个新的"实践共同体"（community of practice）
 
-> [!abstract] 认识论立场
+> [!abstract] [[Epistemic Stances|认识论立场]]
 > [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将混合方法与[[Qualitative Research|质性研究]]的增长一起解释为教育心理学方法世界观更加多样的可能信号——表示[[Postpositivism|后实证主义]]之外的研究取向更被接受，或高影响期刊对传统方法以外的视角更加开放（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.7–8]]）。
 
 ---
@@ -269,4 +272,4 @@ Caracelli & Greene (1993) 提出四种整合策略（[[Argument_Cohen_Manion_Mor
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以三阶段收敛式设计同时收集量化数据（[[Critical Thinking Strategies Scale|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 调查, n=1,338）和质性数据（四校课堂观察、访谈、文件分析），再以 DP/非DP 组间比较（[[California Critical Thinking Disposition Inventory|CCTDI]]+[[Academic Self-Concept|ASC]]+ATAR, n=389）提供汇聚证据，检验 ToK 课程与[[Critical Thinking|批判性思维]]技能发展的关系
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al. (2011, Ch. 19)]] — 指出[[Virtual World|虚拟世界]]高度适合混合方法研究，在虚拟世界研究中混合方法/混合世界方法是常见的（Johnson et al., 2007; Martin et al., 2010），数据既可转为数字进行量化分析，也可通过解释性[[Phenomenology|现象学]]分析获得质性理解。
 > - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 以问卷调查（n=40）与半结构化[[Focus Group|焦点小组]]访谈（n=7）结合，定性数据用于深入阐释受访者对核心课程[[Concurrency of Learning|并发学习]]的认知与实施挑战，定量描述性统计用于印证定性发现（pp. 222–224）
-> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] — 采用解释性序列设计，以问卷（n=1,534）与焦点小组（n=33）结合，质性数据用于解释和扩展量化调查结果，评估 TOK 课程实施与影响（p. 10）
+> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] — 采用[[Explanatory Sequential Design|解释性序列设计]]，以问卷（n=1,534）与焦点小组（n=33）结合，质性数据用于解释和扩展量化调查结果，评估 [[Theory of Knowledge|TOK]] 课程实施与影响（p. 10）

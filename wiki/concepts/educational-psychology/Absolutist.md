@@ -6,21 +6,25 @@ aliases:
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观、存在唯一正确答案的事实。"
 type: concept
 domain: "educational-psychology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 related_concepts:
   - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
-  - "[[Hypothesis]]"
+  - "[[Multiplist]]"
+  - "[[Evaluativist]]"
+  - "[[Variable]]"
   - "[[Cognitive Source]]"
-related_theories:
-  - "[[Argumentative Reasoning]]"
+related_theories: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Kuhn_2000_CD]]"
+related_persons:
+  - "[[Thomas Kuhn]]"
+  - "[[Deanna Kuhn]]"
 status: active
 created: 2026-08-15
 updated: 2026-08-16
@@ -57,7 +61,7 @@ updated: 2026-08-16
 
 > [!feature] 核心要素
 > - **客观维度绝对主导** 知识并不被视为由人类认知系统生成的产物，而是外部现实在人类头脑中的直接“复刻”。因此不存在“合理分歧”的空间，分歧只能被解释为有人犯了错误。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]
-> - **退出的极速性** 一旦个体的认识论系统中被引入了“主观性”的概念，即意识到知识可以是个人的偏好或意见（尤其在个人品味领域最易发生），他们就会极其迅速地滑出绝对论的阵营，向彻底的多元论坠落。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 320)]]
+> - **退出的极速性** 一旦个体的[[Epistemology|认识论]]系统中被引入了“主观性”的概念，即意识到知识可以是个人的偏好或意见（尤其在个人品味领域最易发生），他们就会极其迅速地滑出绝对论的阵营，向彻底的多元论坠落。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 320)]]
 > - **在特定领域的顽固性** 个体最早在个人品味（如觉得这道菜很辣）和审美上抛弃绝对论，但由于事实受到物理客观性的强约束，价值观受到社会道德的绑定，绝对论立场在物理事实与价值观领域驻留的时间最长、最为顽固。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 319)]]
 
 ---
@@ -92,12 +96,12 @@ updated: 2026-08-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | N=129名成人/青少年及N=21名儿童 | 跨领域的认识论评估工具（15题标准化测试） | 绝对论在五个判断领域的分布 | 证实纯粹在五个领域均为绝对论的模式（AAAA）极其罕见（N=107的子样本中仅有2人）；部分成年群体（如高三学生和五年级学生）在价值观领域仍保留约 30%-33% 的绝对论倾向。 | 各领域占比差异显著 | 侧重于横截面观察。 |
+> | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | N=129名成人/青少年及N=21名儿童 | 跨领域的[[Epistemology\|认识论]]评估工具（15题标准化测试） | 绝对论在五个判断领域的分布 | 证实纯粹在五个领域均为绝对论的模式（AAAA）极其罕见（N=107的子样本中仅有2人）；部分成年群体（如高三学生和五年级学生）在价值观领域仍保留约 30%-33% 的绝对论倾向。 | 各领域占比差异显著 | 侧重于横截面观察。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 在梳理认识论发展模型时，将绝对论作为反映知识的确定性、简单性及认知来源与辩护的初始结构性成分。
+> - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 在梳理[[Epistemology|认识论]]发展模型时，将绝对论作为反映[[Certainty of Knowledge|知识的确定性]]、简单性及[[Cognitive Source|认知来源]]与辩护的初始结构性成分。
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 将绝对论纳入其三层认识论发展框架，揭示了绝对论立场在面对主观性侵入时的脆弱性，以及在事实领域的相对顽固性。

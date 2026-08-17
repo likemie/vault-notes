@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 77
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Promising Student]]"
   - "[[Paradigm]]"
+  - "[[Epistemic Stances]]"
   - "[[International Education Hubs]]"
   - "[[Praxis]]"
   - "[[Ontology]]"
@@ -206,7 +207,7 @@ updated: 2026-05-20
 > 大学在知识经济化中成为根本性的地缘政治场所——高等教育空间被用于塑造知识密集型资本主义所需的主体性（[[Argument_Moisio_2022_Springer|Moisio, 2022, pp.29–30]]）。从宏观到微观：排名与竞争力话语重塑机构行为 → [[Online Self-Assessment|OSA]] 将 GPK 竞争逻辑[[Operationalization|操作化]]为个体化自我评估 → [[Promising Student|有前景的学生]]作为教学治理层的主体形态（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.220–226]]）。[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022）]]进一步将（新）GPK 概念化为全球[[Governmentality|治理术]]技术，揭示其通过[[Governing at a Distance|远距治理]]机制运作。详见 [[Governmentality#全球治理技术]]。
 
 > [!line-b] 认识论治理与治理理性转换
-> GPK 渗透到认识论治理层面：**研究资助的分配机制**通过制度设计将特定的认识论[[Paradigm|范式]]固化为唯一合理的选择——不宣称任何认识论立场，而是通过制度安排使其默认化（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]]）。典型案例：Horizon 2020 将 SSH 研究从独立资助渠道改为横向嵌入，要求"直接为政策制定的证据基础做贡献"，实质上将其缩减为对技术科学创新和经济竞争力的工具性辅助（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。[[International Education Hubs|国际教育枢纽]]等项目同时指示了**治理理性转换** 从社会/教育范畴（可及性、公平、开放研究）转向经济范畴（收入创造、可专利研究、经济竞争力）（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）。
+> GPK 渗透到认识论治理层面：**研究资助的分配机制**通过制度设计将特定的认识论[[Paradigm|范式]]固化为唯一合理的选择——不宣称任何[[Epistemic Stances|认识论立场]]，而是通过制度安排使其默认化（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]]）。典型案例：Horizon 2020 将 SSH 研究从独立资助渠道改为横向嵌入，要求"直接为政策制定的证据基础做贡献"，实质上将其缩减为对技术科学创新和经济竞争力的工具性辅助（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.42]]）。[[International Education Hubs|国际教育枢纽]]等项目同时指示了**治理理性转换** 从社会/教育范畴（可及性、公平、开放研究）转向经济范畴（收入创造、可专利研究、经济竞争力）（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）。
 
 ---
 

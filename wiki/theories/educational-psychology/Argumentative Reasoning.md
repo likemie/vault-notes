@@ -3,10 +3,10 @@ title: Argumentative Reasoning
 summary: "Deanna Kuhn提出的考察个体在日常推理中如何评估专家确定性并为自己的观点进行辩护的三层次认识论模型。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 aliases:
   - "论辩推理"
 tags:
@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Epistemic Stances]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
@@ -38,7 +39,7 @@ updated: 2026-08-16
 > - **解释对象** 个体针对日常社会问题产生因果解释和论辩的思维过程。
 > - **理论问题** 论辩技能如何与底层的[[Epistemology|认识论]]标准（如证明、专长和确定性）相关联？
 > - **理论类型** 基于日常非正式推理的认识论类型学。
-> - **知识位置** 将[[Epistemological Beliefs|认识论信念]]的研究从课堂学习扩展至跨年龄段的日常非正式推理，揭示了论辩能力与认识论立场的联系。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 103)]]
+> - **知识位置** 将[[Epistemological Beliefs|认识论信念]]的研究从课堂学习扩展至跨年龄段的日常非正式推理，揭示了论辩能力与[[Epistemic Stances|认识论立场]]的联系。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 103)]]
 
 ## 核心命题与机制
 

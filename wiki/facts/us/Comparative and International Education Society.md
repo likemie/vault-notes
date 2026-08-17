@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Revolutionism]]"
   - "[[Paradigm]]"
   - "[[Praxis]]"
+  - "[[Academic Achievement]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Scientism]]"
   - "[[Epistemology]]"
@@ -76,7 +77,7 @@ updated: 2026-07-09
 > [!citation-card]- 《比较与[[International Education|国际教育]]学会章程》第二条（宗旨声明）
 > 本学会的宗旨是：通过对教育思想、制度和[[Praxis|实践]]的国际化研究，促进跨文化理解、学术交流、学术成就与社会发展。学会应致力于推广并协助：教育的比较研究；国际教育的研究；以及促进学术思想在国际间的传播。
 >
-> *The purposes of the Society shall be: to foster cross-cultural understanding, scholarship, academic achievement and societal development through the international study of educational ideas, systems, and practices. The Society shall promote and assist in: the comparative study of education; the study of international education...*
+> *The purposes of the Society shall be: to foster cross-cultural understanding, scholarship, [[Academic Achievement]] and societal development through the international study of educational ideas, systems, and practices. The Society shall promote and assist in: the comparative study of education; the study of international education...*
 
 ---
 

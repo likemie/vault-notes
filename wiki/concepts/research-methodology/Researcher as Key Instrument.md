@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究的核心公理之一：研究者自身是数据收集和解释的首要工具，其适应性、反应性和默会知识使其优于标准化工具，但这也要求高度反身性来管理研究者效应。"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Epistemic Stances]]"
   - "[[Reflexivity]]"
   - "[[Knowledge-that and Know-how-to]]"
 related_theories: []
@@ -59,7 +60,7 @@ updated: 2026-07-11
 >
 > | 关联项 | 类型 | 关系 |
 > |:-------|:-----|:-----|
-> | [[Interpretive Paradigm\|诠释范式]] | 范式基础 | "人作为工具"是诠释范式从"理解参与者主观意义"这一认识论立场出发的必然推论——只有人才能理解人。 |
+> | [[Interpretive Paradigm\|诠释范式]] | 范式基础 | "人作为工具"是诠释范式从"理解参与者主观意义"这一[[Epistemic Stances\|认识论立场]]出发的必然推论——只有人才能理解人。 |
 > | 研究者生成而非检验[[Hypothesis\|假设]] | 范式公理 | 研究者在进入现场时不预设假设，在现场中生成——这要求研究工具（即研究者本人）具有开放性和适应性。 |
 > | 默会知识的运用 | 范式公理 | Lincoln & Guba（1985: 187）强调默会知识（tacit knowledge）的运用不可避免——质性方法比量化方法更适合人作为工具的概念。 |
 > | [[Reflexivity\|反身性]] | 核心相关概念 | 研究者作为工具意味着研究者的个人特质直接影响数据质量，因此反身性（反思自身背景如何塑造解释）成为必要补充——两者互为因果。Cooley（1902）的"镜中自我"（looking glass self）概念被用于描述研究者应将自己"置于审视之下"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 409)]] |

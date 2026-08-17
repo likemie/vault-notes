@@ -7,17 +7,19 @@ aliases:
 summary: "一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 17
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Analytic Framework]]"
   - "[[Ontology]]"
+  - "[[Epistemic Cognition]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Domain Specificity]]"
   - "[[Epistemological Beliefs]]"
   - "[[Operationalization]]"
   - "[[Scale of Measurement]]"
@@ -53,7 +55,7 @@ updated: 2026-08-15
 > - **知识位置** 个人认识论（personal epistemology）研究。
 
 > [!claim] 核心主张
-> EOC 模型主张将关于知识本质（简单性与确定性）的信念独立为“[[Ontology|本体论]]认知”（ontological cognition），将关于知识的证成（辩护机制）保留为“认识论认知”（epistemic cognition）。通过个体在这几个具体维度上的量化得分轮廓（profile），可以有效对应并划分出其所处的质性发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者），并容纳[[Domain Specificity|领域特殊性]]差异。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 237-238)]]
+> EOC 模型主张将关于知识本质（简单性与确定性）的信念独立为“[[Ontology|本体论]]认知”（ontological cognition），将关于知识的证成（辩护机制）保留为“[[Epistemic Cognition|认识论认知]]”（epistemic cognition）。通过个体在这几个具体维度上的量化得分轮廓（profile），可以有效对应并划分出其所处的质性发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者），并容纳[[Domain Specificity|领域特殊性]]差异。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 237-238)]]
 
 ---
 

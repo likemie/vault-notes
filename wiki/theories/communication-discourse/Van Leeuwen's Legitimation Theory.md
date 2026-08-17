@@ -7,7 +7,7 @@ aliases:
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
 theory_field: "communication-discourse"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Justified Warrants]]"
   - "[[Praxis]]"
+  - "[[Epistemic Stances]]"
   - "[[Constructivist Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
@@ -97,7 +98,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!info] [[Epistemology|认识论]]立场
-> 合法化理论属于**批判[[Discourse Analysis|话语分析]]（Critical Discourse Analysis）**传统。其认识论立场是[[Constructivist Paradigm|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
+> 合法化理论属于**批判[[Discourse Analysis|话语分析]]（Critical Discourse Analysis）**传统。其[[Epistemic Stances|认识论立场]]是[[Constructivist Paradigm|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
 >
 > 这与 [[Evidence-Based Education|证据本位教育]] 中隐含的[[Positivism|实证主义]]认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的[[Variable|变量]]([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9, 27]])。
 >

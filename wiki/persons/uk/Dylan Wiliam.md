@@ -7,7 +7,7 @@ summary: "英国教育评估学者，形成性评价研究代表人物和教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Validity as Inferences]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
+  - "[[Epistemic Stances]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -82,7 +83,7 @@ updated: '2026-06-08'
 > [!note-] 思想发展与影响
 > - 继承 Cronbach (1971) 和 Messick (1989) 的效度理论传统，将其从教育测量领域延伸至教育研究方法和证据本位政策领域
 > - 运用 Goldman (1976) 的分析[[Epistemology|认识论]]框架，为教育研究中"知识何时是知识"提供了更精确的哲学判定标准
-> - 其自身研究经历（[[Tracking|能力分组]]研究的结论被新证据质疑）成为其认识论立场的部分来源
+> - 其自身研究经历（[[Tracking|能力分组]]研究的结论被新证据质疑）成为其[[Epistemic Stances|认识论立场]]的部分来源
 
 ## 争议与批评
 

@@ -7,7 +7,7 @@ aliases:
 summary: "皮亚杰的认知发展四阶段建构主义理论，区分感觉运动、前运算、具体运算和形式运算等发展阶段"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Myelination]]"
   - "[[Working Memory]]"
   - "[[Epistemology]]"
+  - "[[Epistemic Stances]]"
   - "[[Interaction Effect]]"
   - "[[Paradigm]]"
   - "[[Growth]]"
@@ -104,7 +105,7 @@ updated: 2026-07-13
 > [!info] 发生[[Epistemology|认识论]]与主动建构观
 > [[Jean Piaget|皮亚杰]]的理论被称为**发生认识论 (Genetic Epistemology)**，主张认识的起源是主客体相互作用的活动。
 > 
-> - **认识论立场** 坚持**[[Constructivist Paradigm|建构主义]]认识论 (Constructivist Epistemology)**。认为知识既非源自客体本身（经验论），亦非源自主体先天成熟的结构（唯理论），而是主体在与环境[[Interaction Effect|交互作用]]的过程中，通过自身的活动主动建构起来的 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 1)]]。
+> - **[[Epistemic Stances|认识论立场]]** 坚持**[[Constructivist Paradigm|建构主义]]认识论 (Constructivist Epistemology)**。认为知识既非源自客体本身（经验论），亦非源自主体先天成熟的结构（唯理论），而是主体在与环境[[Interaction Effect|交互作用]]的过程中，通过自身的活动主动建构起来的 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 1)]]。
 > - **主体观** 视儿童为“主动探索的科学家”或“主动的学习者”，强调其天生具有探索环境、建构意义的主动性。
 > - **常用研究方法** 历史上以**临床研究法 (Clinical Method)（个案[[In-depth Interview|深度访谈]]、自然观察与逻辑任务测试相结合）**为主。在现代神经科学对齐研究中，广泛整合了[[Functional Magnetic Resonance Imaging|功能性磁共振成像]] (fMRI)、[[Electroencephalography|脑电图]] (EEG)、近红外光谱 (NIRS) 和正电子发射断层扫描 (PET) 等**神经生物学测量方法**，以及各类**[[Executive Function|执行功能]]行为[[Paradigm|范式]]** [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 2, p. 9)]]。
 

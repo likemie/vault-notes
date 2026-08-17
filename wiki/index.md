@@ -1897,7 +1897,7 @@ Total entries: **1856**
 > - [[HarmoS]] — 瑞士 2006 年通过的州际义务教育协调协议，引入全国统一教育标准，标志着从投入导向到产出导向的范式转换，是 PISA 推动基础教育改革的标志性政策案例
 
 > [!index-list]- Organization (1)
-> - [[International Schools Examination Syndicate]] — 1964年由日内瓦国际学校教师项目发展出的瑞士法律协会，以独立治理、连续筹资和国际考试开发把 IB 从志愿讨论网络推进为可实施的资格项目，并于1967年采用 IBO 名称。
+> - [[International Schools Examination Syndicate]] — 1964年从日内瓦教师网络中形成的瑞士法律协会，通过独立治理、连续筹资、跨国课程与考试开发，将国际文凭设想推进为可实施的资格制度，并于1967年采用国际文凭办公室名称。
 
 ### Uae
 

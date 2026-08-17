@@ -10,9 +10,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Global Regionalisms]]"
+  - "[[Epistemic Stances]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Regulatory Regionalism]]"
@@ -82,7 +83,7 @@ updated: '2026-05-18'
 >
 > **从[[Critical Geopolitics|批判地缘政治学]]视角看**，该政策是[[Geopolitics of Knowledge|知识地缘政治]]在超国家治理层面的典型运作：欧盟通过研究资助框架——一种空间化的治理技术——将研究按照其对经济竞争力和创新的潜在贡献进行排序和配置。这反映了[[Knowledge-Based Economization|知识经济化]]逻辑对学术[[Knowledge Production|知识生产]]的深刻渗透：知识只有在能够转化为经济价值时才被赋予优先权。该政策也是[[Global Regionalisms|全球区域主义]]的具体制度表现——通过区域研究框架重塑高等教育和研究的知识生产秩序([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.40–42]])。
 >
-> **从[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]视角看**，该政策是 Mignolo 所批判的"西方[[Epistemology|认识论]]霸权"在当代研究治理中的制度性再生产。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022, p.42)]]明确指出："能够产生专利和量化证据的 STEM 学科获得优先资助，而批判性的、阐释性的、非工具性的研究被制度性地边缘化"。这恰恰是"认识论的政治性"的物质性表现——研究资助的分配机制本身就是一种认识论选择：它在不宣称任何认识论立场的情况下，通过制度设计将特定的认识论[[Paradigm|范式]]（[[Positivism|实证主义]]、经验主义）固化为唯一合理的选择([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]])。
+> **从[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]视角看**，该政策是 Mignolo 所批判的"西方[[Epistemology|认识论]]霸权"在当代研究治理中的制度性再生产。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022, p.42)]]明确指出："能够产生专利和量化证据的 STEM 学科获得优先资助，而批判性的、阐释性的、非工具性的研究被制度性地边缘化"。这恰恰是"认识论的政治性"的物质性表现——研究资助的分配机制本身就是一种认识论选择：它在不宣称任何[[Epistemic Stances|认识论立场]]的情况下，通过制度设计将特定的认识论[[Paradigm|范式]]（[[Positivism|实证主义]]、经验主义）固化为唯一合理的选择([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.39, 48–49]])。
 >
 > > 一个具体的例子：在 Horizon 2020 框架下，一项关于欧盟移民政策的[[Ethnography|人类学研究]]必须将其提案框定为对"社会凝聚力"或"劳动力市场效率"的贡献才能获得资助——研究的认识论自主性在制度层面被消解，批判性的学术探究被置换为政策问题的工具性求解。
 >
