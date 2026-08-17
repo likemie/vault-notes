@@ -50,6 +50,7 @@ related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
+  - "[[Argument_Bergeron_2015_TeachingTOK]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -199,6 +200,9 @@ updated: 2026-08-16
 > [!claim] Zemplén, G. Á.
 > **术语表演与发展边界** 当评分标准依赖特定分析词汇时，学生可能通过罗列课程术语和套用反思表达获得分数。与此同时，高中生可能尚未发展出比较不同来源证据并阐明决策标准的能力。评估设计应区分术语使用、一般认知发展和真实的批判性判断表现。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–174)]]
 
+> [!claim] Bergeron, L.
+> **主观评估的实操困境** 即使课程在构念覆盖上设计良好，在教学实操层面，“评估学生批判性思维的进展”（Mean=3.56/5，排名第一）依旧是教师面临的最大痛点。探究性思维缺乏绝对标准答案，而学生长期受传统体系影响往往索要数字化的绝对分数，这种隐性认知转变与显性量化评分的摩擦，构成了评估批判性思维的普遍挑战。[[Argument_Bergeron_2015_TeachingTOK|(Bergeron, 2015, pp. 18, 33)]]
+
 ### 命题五　批判性思维的动机受制于个体的认识论发展阶段
 
 > [!concept-lens] 认知动力基础
@@ -215,7 +219,7 @@ updated: 2026-08-16
 > | **构念组成** | 技能、倾向、知识和情境共同决定思维质量 | 定义、测量、量表解释 | Siegel; Ennis; Facione; Paul |
 > | **教学与实施** | 显性教学具有优势，效果依赖领域知识和实施条件 | 课程设计、教师发展、课堂干预 | Abrami et al.; Marin & Halpern; Willingham; Bailin; Cole et al. |
 > | **迁移条件** | 通用认知结构通过领域知识和情境线索实现迁移 | 跨学科课程、迁移任务 | Halpern; Salomon & Perkins; Glaser; Lave; Ritchhart & Perkins |
-> | **操作化与效度** | 目标、任务和评分证据需要充分表征构念 | 课程审查、评估设计、效度研究 | Hughes; Zemplén |
+> | **操作化与效度** | 目标、任务和实操评分需要充分表征构念，且面临主观性挑战 | 课程审查、评估设计、效度研究 | Hughes; Zemplén; Bergeron |
 > | **认知动力** | 评价论是触发批判性思维论辩的[[Epistemology\|认识论]]引擎 | 成人思维发展、批判动机缺失 | [[Deanna Kuhn\|Kuhn]] |
 
 ---
@@ -263,6 +267,7 @@ updated: 2026-08-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | N=129名成人/青少年 | 跨领域[[Epistemology\|认识论]]评估测试 | 不同群体的认识论水平 | 在代表成人精英的群体（EMBA高管等）中，能在价值观领域达成[[Evaluativist\|评价论]]并具备批判论辩意愿的仅占 22%，绝大多数停滞于[[Multiplist\|多元论]]。 | 差异极其显著 | 样本中专家组与非专家组产生结构性断层。 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron (2015)]] | N=960 名全球 IBDP 教师 | 量化问卷调查 | 批判性思维的跨情境迁移与溢出效应 | 在开放式编码中，教师反馈“批判性思维”是在其他科目（441次）、拓展论文（154次）和大学学业（226次）中最高频出现的溢出益处。 | — | 证实了该构念在显性教学后的可迁移性，但高度依赖自我报告数据。 |
 
 ---
 
@@ -304,5 +309,6 @@ updated: 2026-08-16
 > [!evidence-grid-a] 相关研究索引
 > - **显性教学与学校实施** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 以 [[IB Diploma Programme|IB DP]] 的 ToK 为案例，结合量表、学校案例和毕业生比较，检验显性独立课程及其实施条件。
 > - **课程评估的[[Construct Validity|构念效度]]** [[Argument_Hughes_2014_JRIE|Hughes (2014)]] 用多套批判性思维分类框架审查 ToK 目标、评估目标和评分描述符的[[Construct|构念]]覆盖。
+> - **跨情境迁移与评估困境** [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] 证实了独立探究课程对学生其他学科和未来学业产生的批判性思维“溢出效应”，并揭示了其实操评估的主观性痛点。
 > - **术语表演与议程冲突** [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 分析 ToK 评估框架如何诱发术语表演，并揭示开放探究与科学知识传播之间的课程张力。
 > - **[[Epistemology|认识论]]引擎** [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 揭示了批判性思维不仅仅是一套认知技能，其发生的动机和动力受制于个体的底层认识论发展阶段。
