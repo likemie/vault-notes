@@ -14837,7 +14837,52 @@
   color: #6d4004 !important;
 }
 
-/* 2. DEF (定义) 卡片 - 兼顾编辑模式与阅读模式 */
+/* 2. CLAIM（主张）卡片：首个粗体短语作为论点标题底框 */
+.callout[data-callout=claim] > .callout-content > p > strong:first-child,
+.callout[data-callout=claim] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout=claim] > .callout-content > ul > li > strong:first-of-type,
+.callout[data-callout=claim] > .callout-content > ul > li > p:first-child > strong:first-child,
+.callout[data-callout=claim] > .callout-content > ul > li > p:first-child > strong:first-of-type,
+.callout[data-callout=claim] > .callout-content > ol > li > strong:first-child,
+.callout[data-callout=claim] > .callout-content > ol > li > strong:first-of-type,
+.callout[data-callout=claim] > .callout-content > ol > li > p:first-child > strong:first-child,
+.callout[data-callout=claim] > .callout-content > ol > li > p:first-child > strong:first-of-type,
+.callout[data-callout=claim] .cm-line.HyperMD-list-line .cm-strong:first-of-type,
+.callout[data-callout=claim] .cm-line:not(.HyperMD-table-row) .cm-strong:first-child {
+  display: inline-block !important;
+  margin: 0.12rem 0.5rem 0.18rem 0 !important;
+  padding: 0.14em 0.58em !important;
+  border: 1.25px solid rgba(92, 156, 220, 0.62) !important;
+  border-radius: 6px !important;
+  background: rgba(92, 156, 220, 0.14) !important;
+  color: rgb(202, 226, 250) !important;
+  box-shadow: 0 1px 4px rgba(18, 54, 88, 0.18) !important;
+  font-size: 0.93em !important;
+  font-weight: 700 !important;
+  line-height: 1.4 !important;
+  vertical-align: baseline !important;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.theme-light .callout[data-callout=claim] > .callout-content > p > strong:first-child,
+.theme-light .callout[data-callout=claim] > .callout-content > ul > li > strong:first-child,
+.theme-light .callout[data-callout=claim] > .callout-content > ul > li > strong:first-of-type,
+.theme-light .callout[data-callout=claim] > .callout-content > ul > li > p:first-child > strong:first-child,
+.theme-light .callout[data-callout=claim] > .callout-content > ul > li > p:first-child > strong:first-of-type,
+.theme-light .callout[data-callout=claim] > .callout-content > ol > li > strong:first-child,
+.theme-light .callout[data-callout=claim] > .callout-content > ol > li > strong:first-of-type,
+.theme-light .callout[data-callout=claim] > .callout-content > ol > li > p:first-child > strong:first-child,
+.theme-light .callout[data-callout=claim] > .callout-content > ol > li > p:first-child > strong:first-of-type,
+.theme-light .callout[data-callout=claim] .cm-line.HyperMD-list-line .cm-strong:first-of-type,
+.theme-light .callout[data-callout=claim] .cm-line:not(.HyperMD-table-row) .cm-strong:first-child {
+  border-color: rgba(38, 96, 145, 0.58) !important;
+  background: rgba(38, 96, 145, 0.10) !important;
+  color: rgb(25, 73, 112) !important;
+  box-shadow: 0 1px 4px rgba(24, 61, 94, 0.10) !important;
+}
+
+/* 3. DEF (定义) 卡片 - 兼顾编辑模式与阅读模式 */
 .callout[data-callout=def] .callout-content li strong:first-child,
 .callout[data-callout=def] .callout-content li strong:first-of-type,
 .callout[data-callout=def] .callout-content li p:first-child strong:first-child,
@@ -14883,7 +14928,7 @@
   color: #431f78 !important;
 }
 
-/* 3. 句中普通 strong 文本保持平实 */
+/* 4. 句中普通 strong 文本保持平实 */
 .callout-content li strong:not(:first-child):not(:first-of-type),
 .markdown-rendered .callout-content li strong:not(:first-child):not(:first-of-type),
 .callout .cm-line .cm-strong:not(:first-child):not(:first-of-type) {
