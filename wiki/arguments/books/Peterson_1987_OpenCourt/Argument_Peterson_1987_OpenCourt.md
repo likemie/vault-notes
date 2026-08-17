@@ -95,11 +95,11 @@ updated: 2026-08-17
 > [!monograph-tools] 理论与概念工具
 > - **[[International Education|国际教育]]** 用来连接跨文化共同生活、消解民族偏见、社会服务与共同课程等制度设计。
 > - **[[International Baccalaureate|国际文凭]]** 作为跨国课程与考试方案，回应国家课程偏向和大学入学资格不兼容的问题；创立过程表明其早期理念不是一次性提出，而是在 1925 年倡议、战后[[International Schools|国际学校]]需求、1960 年代教师课程实验与多国资格协商中逐步形成。
-> - **分布式创制** IB 没有可包揽全部工作的单一创始人：[[Bob Leach|鲍勃·利奇]]发动早期教师网络，[[Gerard Renaud|杰拉德·雷诺]]主导课程架构，[[John Goormaghtigh|约翰·戈尔马蒂赫]]提供长期组织治理，[[Alec Peterson|亚历克·皮特森]]则整合筹资、试验与资格承认。各自贡献只有在协作中才构成完整制度。
+> - **分布式创制** IB 没有可包揽全部工作的单一创始人：[[Bob Leach|鲍勃·利奇（Bob Leach）]]发动早期教师网络，[[Gerard Renaud|杰拉德·雷诺（Gerard Renaud）]]主导课程架构，[[John Goormaghtigh|约翰·戈尔马蒂赫（John Goormaghtigh）]]提供长期组织治理，[[Alec Peterson|亚历克·皮特森（Alec Peterson）]]则整合筹资、试验与资格承认。各自贡献只有在协作中才构成完整制度。
 
 > [!monograph-method] 研究方法与材料
 > - **研究设计** 采用参与者视角的历史叙事，沿组织创办、课程形成与制度扩张推进。
-> - **资料来源** 个人经历、大西洋学院募款文件与课程计划、IB 早期组织记录、鲍勃·利奇与马丁·梅耶的同时代记述，以及章末所列历史著作。
+> - **资料来源** 个人经历、大西洋学院募款文件与课程计划、IB 早期组织记录、利奇与马丁·梅耶（Martin Mayer）的同时代记述，以及章末所列历史著作。
 > - **分析策略** 通过关键行动者、组织决策、跨国课程比较和制度障碍，追踪国际教育方案从创校[[Praxis|实践]]到课程与考试制度的形成。
 > - **方法边界** 前言明确说明这不是官方历史，个人判断不必然代表相关机构，材料也不能替代独立的外部史料核验。
 
@@ -137,7 +137,7 @@ updated: 2026-08-17
 > [!textbook-overview] 章节叙事表
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | [[Argument_Peterson_1987_OpenCourt_Ch01\|第1章 大西洋学院的创办]] | 追踪和平教育理念怎样经由领导、场地、资金、共同生活与服务课程成为学校制度，并说明英国国家资格为何无法解决国际课程与跨国升学问题。 | [[Kurt Hahn]]、[[Desmond Hoare]]、[[Atlantic College Curriculum 1962]]、[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]、[[Founding of Atlantic College]] |
+> | [[Argument_Peterson_1987_OpenCourt_Ch01\|第1章 大西洋学院的创办]] | 追踪和平教育理念怎样经由领导、场地、资金、共同生活与服务课程成为学校制度，并说明英国国家资格为何无法解决国际课程与跨国升学问题。 | [[Kurt Hahn\|库尔特·哈恩（Kurt Hahn）]]、[[Desmond Hoare\|德斯蒙德·霍尔（Desmond Hoare）]]、[[Atlantic College Curriculum 1962]]、[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]、[[Founding of Atlantic College]] |
 > | [[Argument_Peterson_1987_OpenCourt_Ch02\|第2章 国际文凭的创立]] | 说明实际需求、教师动员、独立组织、连续资金、改革型课程、试验学校和有限大学承认怎样共同构成国际资格。 | [[International Schools Examination Syndicate]]、[[1967 Sevres International Conference on the IB]]、[[Founding of the International Baccalaureate]]、[[Action Research]] |
 > | [[Argument_Peterson_1987_OpenCourt_Ch03\|第3章 从教育目标到课程与考试]] | 追踪 IB 如何在三种通识教育传统的张力中形成六学科与核心组件，并以效度、可靠性和评估反拨之间的权衡设计综合评价。 | [[Paradigmatic Learning]]、[[Extended Essay]]、[[Creativity, Action, Service]]、[[Theory of Knowledge]]、[[Assessment Backwash]] |
 
