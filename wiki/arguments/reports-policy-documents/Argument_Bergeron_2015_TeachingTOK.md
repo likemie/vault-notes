@@ -225,13 +225,16 @@ issuing_organization: "International Baccalaureate Organization"
 > 在调查所有实施挑战时，“评估学生实现既定目标的进展”（Mean=3.56，排名第一）和“设定明确的客观目标”（Mean=3.60）成为最大的痛点。在精力耗费上，评估学习环节耗费极大（7.47/10），显著高于备课（7.25）和授课（6.17）（p. 18）。
 
 > [!citation-card]- 焦点小组中的评估困境
-> “学生想要分数，他们需要知道自己表现如何。对于反馈，即使是详尽的形成性反馈，他们实际上并不清楚自己表现如何，他们只想要一个数字。”
-> *“Because they want to have grades, because they need to know how they are doing. With the [[Feedback]], even if it's an extended feedback, they don't really know how they are doing, they want the number.” (p. 33)*
+> “学生想要分数，他们需要知道自己表现如何。对于反馈，即使是详尽的形成性反馈，他们实际上并不清楚自己表现如何，他们只想要一个数字。”（p. 33）
 > 
-> “批判性评估学生的知识是一个挑战，因为即使在一小群学生中，思考也可能处于许多完全不同的阶段。过去教授英语语言艺术（ELA），知识论中学生写作的评估与传统环境中的写作评估非常不同。”
-> *“Critically evaluating student knowledge is a challenge because students' thinking can be at many different stages within even a small group of students. I am historically an English Language Arts teacher, and the evaluation of students' writing within TOK is quite different than evaluation of students' writing in a traditional ELA setting.” (p. 32)*
+> *“Because they want to have grades, because they need to know how they are doing. With the feedback, even if it's an extended feedback, they don't really know how they are doing, they want the number.”*
 > 
-> **推理机制** 探究性科目缺乏绝对标准答案，衡量其进度高度主观；然而学生仍被传统[[Examination-Oriented Education|应试教育]]的习惯所束缚，强烈的索分需求与课程对隐性认知转变的要求产生剧烈摩擦。
+> “批判性评估学生的知识是一个挑战，因为即使在一小群学生中，思考也可能处于许多完全不同的阶段。过去教授英语语言艺术（ELA），知识论中学生写作的评估与传统环境中的写作评估非常不同。”（p. 32）
+> 
+> *“Critically evaluating student knowledge is a challenge because students' thinking can be at many different stages within even a small group of students. I am historically an English Language Arts teacher, and the evaluation of students' writing within TOK is quite different than evaluation of students' writing in a traditional ELA setting.”*
+
+> [!warrant]- 推理机制
+> 探究性科目缺乏绝对标准答案，衡量其进度高度主观；然而学生仍被传统[[Examination-Oriented Education|应试教育]]的习惯所束缚，强烈的索分需求与课程对隐性认知转变的要求产生剧烈摩擦。
 
 > [!chain-link] 成功要素：超越行政支持的教师兴趣
 > 尽管评估困难重重，86.5%的受访教师明确表示**享受**这门课程。在影响课程成功的因素排序中，“任课群体的兴趣”（Mean=2.89）高居榜首，其作用远大于[[Class Size|班级规模]]（5.54）和行政支持（6.11）（表20）。这印证了期望效应：教师高度的内在兴趣和对自己成为关键贡献者的信念，直接促成了深远的教学结果。
@@ -319,10 +322,12 @@ issuing_organization: "International Baccalaureate Organization"
 > | 协调作业使学生课业有重叠 | 141 | 14.7% | 960 |
 
 > [!citation-card]- 协作带来的破壁效应
-> “这是一次极其真实的合作学习和教学体验...比如我是科学老师，但我们的团队里有语言老师和音乐老师一起参与。这大大减少了你需要去自己研究和理解其他学科知识的压力。”
-> *“I think this is a truly authentic collaborative learning and teaching experience... I'm a science teacher but we have a language teacher, music teacher as part of the team. It cuts back on you having to do the research and trying to understand other subjects.” (p. 38)*
+> “这是一次极其真实的合作学习和教学体验...比如我是科学老师，但我们的团队里有语言老师和音乐老师一起参与。这大大减少了你需要去自己研究和理解其他学科知识的压力。”（p. 38）
 > 
-> **推理机制** 这种以“跨学科团队化运作”来弥补个体背景不足的策略，成为了知识论能够在全球各种资源条件下依然取得成功的关键方法论。
+> *“I think this is a truly authentic collaborative learning and teaching experience... I'm a science teacher but we have a language teacher, music teacher as part of the team. It cuts back on you having to do the research and trying to understand other subjects.”*
+
+> [!warrant]- 推理机制
+> 这种以“跨学科团队化运作”来弥补个体背景不足的策略，成为了知识论能够在全球各种资源条件下依然取得成功的关键方法论。
 
 ---
 
