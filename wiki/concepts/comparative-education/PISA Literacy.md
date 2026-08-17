@@ -52,7 +52,7 @@ updated: 2026-07-09
 > - **边界** PISA素养不等于 PISA 测试框架本身——它是日本在国家政策层面对 PISA 框架的[[Going Native|本土化]]解读和应用。PISA素养也不等于一般意义上的"素养"（literacy）概念——它特指受 PISA 影响而形成的日本国家教育政策话语。
 
 > [!citation-card]- 关键表述
-> "PISA literacy brought a new concept of academic achievement to Japanese education with different meanings and achievements from the previous understanding of academic achievement."（Ninomiya, 2019，引自 [[Argument_Li_2025_HSSC|Li et al., 2025]]）
+> "PISA literacy brought a new concept of [[Academic Achievement]] to Japanese education with different meanings and achievements from the previous understanding of academic achievement."（Ninomiya, 2019，引自 [[Argument_Li_2025_HSSC|Li et al., 2025]]）
 
 ---
 

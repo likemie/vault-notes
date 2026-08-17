@@ -49,7 +49,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> [[Epistemology]] of Resistance（抵抗认识论）是一种从被排斥群体的**具体经验**出发，通过[[Praxis|实践]]行动（而非仅靠理论论述）直接制造替代性知识形式的认识论立场。它区别于在学术话语层面论证西方认识论霸权的做法——抵抗认识论**首先存在于行动中** 剧场表演、口述叙事、社区博物馆策展、集体记忆保存——这些实践本身就是[[Knowledge Production|知识生产]]，不需要等待学术体制的认证([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109–110]])。
+> [[Epistemology]] of Resistance（抵抗认识论）是一种从被排斥群体的**具体经验**出发，通过[[Praxis|实践]]行动（而非仅靠理论论述）直接制造替代性知识形式的[[Epistemic Stances|认识论立场]]。它区别于在学术话语层面论证西方认识论霸权的做法——抵抗认识论**首先存在于行动中** 剧场表演、口述叙事、社区博物馆策展、集体记忆保存——这些实践本身就是[[Knowledge Production|知识生产]]，不需要等待学术体制的认证([[Argument_Delambre_2022_Springer|Delambre, 2022, p.109–110]])。
 
 > 抵抗认识论的概念根源可追溯至 Fanon (1952) 对殖民知识暴力的分析和 Freire (1972) 对被压迫者认识论权利的论证。在拉丁美洲去殖民思想传统中，Mignolo 的"认识论不服从"（epistemic disobedience）为其提供了理论框架。但抵抗认识论的独特之处在于它强调**实践优先**——不是在理论上论证替代认识论的必要性，而是在剧场、博物馆和口述传统中直接制造[[Official Knowledge|官方知识]]体系无法消化的"另类知识"([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–106, 109–110]])。
 

@@ -82,7 +82,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 以往关于个人[[Epistemology|认识论]]（personal epistemology）的研究主要分为发展阶段论与多维系统论，两者虽有重叠但整合不足；此外，关于认识论认知是否具有[[Domain Specificity|领域特殊性]]（domain specificity）的争论仍在继续。核心问题在于，能否构建一个既能容纳多维度定量信念、又能刻画质性发展阶段的整合性概念模型，并证明认识论认知受学科领域及教育经历影响。
+> 以往关于个人[[Epistemology|认识论]]（personal epistemology）的研究主要分为发展阶段论与多维系统论，两者虽有重叠但整合不足；此外，关于[[Epistemic Cognition|认识论认知]]是否具有[[Domain Specificity|领域特殊性]]（domain specificity）的争论仍在继续。核心问题在于，能否构建一个既能容纳多维度定量信念、又能刻画质性发展阶段的整合性概念模型，并证明认识论认知受学科领域及教育经历影响。
 
 > [!claim] 核心主张
 > [[Epistemic and Ontological Cognition|认识论与本体论认知]]（Epistemic and [[Ontology|Ontological Cognition]], EOC）模型能够有效整合量化信念与质性发展阶段。通过定量测量学生在知识本体与辩护方式上的独立信念维度，并利用[[Factor Mixture Modeling|因子混合模型]]（Factor Mixture Modeling, FMM）对维度得分进行聚类，能够成功还原出理论预设的四个定性发展阶段，即[[Realism in International Relations|现实主义]]者（realist）、教条主义者（dogmatist）、怀疑论者（skeptic）与[[Rationalism in International Relations|理性主义]]者（rationalist）。同时，个体在劣构领域如历史中的认知发展普遍先于数学等良构领域，且[[Educational Level|受教育年限]]和[[Academic Achievement|学业表现]]对认知阶段具有显著的预测作用。
@@ -207,7 +207,7 @@ issuing_organization: ""
 > 
 > 正因如此，学生在历史课上会更早地遇到“知识是不确定的”这一观念冲突，从而被迫进行批判性思考。这就解释了为什么在表2中，个体在劣构领域中的认识论发展往往会**快于**良构领域，更早地摆脱幼稚的“现实主义”（Donald, 1990; Frederiksen, 1984）。
 
-> [!example]- 图1：Range of differences regarding the [[Domain Specificity|Domain Generality]] or specificity of epistemic cognition
+> [!example]- 图1：Range of differences regarding the [[Domain Specificity|Domain Generality]] or specificity of [[Epistemic Cognition]]
 > ```mermaid
 > flowchart LR
 >     A["完全领域一般性
@@ -422,7 +422,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 理论整合的需求
-> Hofer (2001) suggested that personal [[Epistemology]] research may be moving toward “an integration of ideas from multiple models: an identifiable set of dimensions of beliefs, organized as theories, progressing in reasonably predictable directions, activated in context, operating as epistemic cognition” (p. 377).
+> Hofer (2001) suggested that personal [[Epistemology]] research may be moving toward “an integration of ideas from multiple models: an identifiable set of dimensions of beliefs, organized as theories, progressing in reasonably predictable directions, activated in context, operating as [[Epistemic Cognition]]” (p. 377).
 >
 > *Hofer (2001) suggested that personal epistemology research may be moving toward “an integration of ideas from multiple models: an identifiable set of dimensions of beliefs, organized as theories, progressing in reasonably predictable directions, activated in context, operating as epistemic cognition” (p. 377).*
 

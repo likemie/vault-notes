@@ -91,7 +91,7 @@ Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based E
 - Jessop(2005)的[[Cultural Political Economy|文化政治经济学]]（CPE）— 提供"想象"（imaginaries）在资本积累体制中的构成性和履行性角色分析，以及 KBE 作为"元治理"（meta-governance）对象的定位(pp.23, 26)
 - Gramsci(1971)的[[Hegemony|霸权理论]] — 论证资本积累体制的巩固需要"智识、政治和道德领导力"来将新体制[[Transfer Translation Transformation|转译]]进整个社会(p.26)
 - Porter(1990)的 [[National Competitive Advantage|国家竞争优势]] 理论 — 被分析为典型的地缘政治想象，其悖论性主张（全球化使国家角色更重要）对政策制定产生深刻影响(pp.26–27)
-- Hardt & Negri(2000)的劳动类型分析 — 为论证 KBE 不仅需要特定技能还需要"交际性、合作性和情感性劳动"提供理论支持(p.29)
+- Hardt & Negri(2000)的劳动[[Typological Analysis|类型分析]] — 为论证 KBE 不仅需要特定技能还需要"交际性、合作性和情感性劳动"提供理论支持(p.29)
 
 
 ## 研究方法

@@ -76,7 +76,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 不同年龄段（从小学、初中、高中、本科生到成人及教育哲学专家）个体的[[Epistemology|认识论]]发展轨迹。
-> - **张力** 传统阶段论研究倾向于将认识论发展视为一种跨领域的统一心智结构，但实际上认识论立场在很大程度上具有[[Domain Specificity|领域特异性]]（Domain specificity）。
+> - **张力** 传统阶段论研究倾向于将认识论发展视为一种跨领域的统一心智结构，但实际上[[Epistemic Stances|认识论立场]]在很大程度上具有[[Domain Specificity|领域特异性]]（Domain specificity）。
 > - **贡献** 构建了跨越五个判断领域的 15 题评估工具，实证了主客观协调过程具有领域特异性与发展序列反转的特征。
 
 ---

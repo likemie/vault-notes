@@ -113,7 +113,7 @@ citation_aliases:
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing|政策借用]]与流动的分析[[Paradigm|范式]]以及跨国教育治理网络。
 > - **张力** 比较教育学术实践与国家权力、殖民扩张和新自由主义治理的深层纠缠，与学科自我定位中缺乏国际关系理论自觉之间的冲突。
-> - **贡献** 引入马丁·怀特（Martin Wight）的国际理论三大传统，提供了解构比较教育[[Agendas of Attention|注意力议程]]（agendas of attention）的[[Analytic Framework|分析框架]]，阐明了借用与情境、技术与解放等学科内核心争议的哲学根源，并前瞻了地缘格局转变下的学科走向。
+> - **贡献** 引入马丁·[[William Foote Whyte|怀特]]（Martin Wight）的国际理论三大传统，提供了解构比较教育[[Agendas of Attention|注意力议程]]（agendas of attention）的[[Analytic Framework|分析框架]]，阐明了借用与情境、技术与解放等学科内核心争议的哲学根源，并前瞻了地缘格局转变下的学科走向。
 
 ---
 
@@ -122,7 +122,7 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统（Wight's Three Traditions）]]** | 马丁·怀特（Martin Wight）在1950年代末至1960年代将国际关系思想归纳为三大传统。每一传统对国际社会的性质提供不同的理解，由此决定了什么值得比较、如何比较以及比较服务于什么目的(p. 417)。 |
+> | **[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统（Wight's Three Traditions）]]** | 马丁·[[William Foote Whyte\|怀特]]（Martin Wight）在1950年代末至1960年代将国际关系思想归纳为三大传统。每一传统对国际社会的性质提供不同的理解，由此决定了什么值得比较、如何比较以及比较服务于什么目的(p. 417)。 |
 > | **[[Agendas of Attention\|注意力议程（Agendas of Attention）]]** | 源自[[Robert Cowen\|罗伯特·考恩]]（Robert Cowen, 2000）的[[Readings of the Global\|阅读全球]]（reading the global）。不同的传统代表不同的阅读方式，产生多重的比较教育（multiple comparative educations），即选择性关注某些问题而忽略另一些。 |
 > 
 > > [!warrant]- 理论如何支撑论证
@@ -160,7 +160,7 @@ citation_aliases:
 > [!claim] 步骤一主张
 > 国际关系的三大思想传统对国际社会性质有着截然不同的底层设定，这决定了学术研究和政策[[Praxis|实践]]对国家行为模式的规范性预期(p. 417)。
 
-> [!theory-components] 怀特[[Wight's Three Traditions of International Theory|国际关系三大传统]]
+> [!theory-components] [[William Foote Whyte|怀特]][[Wight's Three Traditions of International Theory|国际关系三大传统]]
 > - **[[Realism in International Relations|现实主义]]（Realism）**
 >   尼科洛·马基雅维利（Niccolò Machiavelli）的传统。把主权领土国家视为国际政治的主要行动者，将国际政治看作自利国家之间的权力斗争。由于不存在中央权威，国际社会是一个自助竞技场（self-help arena），不安全与冲突是常态，稳定源于霸权或均势。其核心概念是权力(pp. 417–418)。
 > - **[[Rationalism in International Relations|理性主义]]（Rationalism）**
@@ -339,7 +339,7 @@ citation_aliases:
 > 
 > *What we practise as 'comparative education' is the effect of the way(s) in which we understand, consciously or unconsciously, the nature of international society and its politics, as well as how its main actors (should) conduct themselves in it.*
 
-> [!citation-card]- 怀特传统的政治价值
+> [!citation-card]- [[William Foote Whyte|怀特]]传统的政治价值
 > 中文译文：这三大传统之所以关键，是因为它们揭示了我们学术工作的底层价值，有助于我们批判性地反思以下问题：我们通过这项工作，在历史与政治上究竟是在再生产还是在反对谁的权力。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 431)]]
 > 
 > *The three traditions are crucial because they unveil the underlying values of our work, facilitating critical reflections on the issue of whose power we are historically and politically reproducing, or opposing, in and through this work.*
@@ -354,7 +354,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning] 原文自述局限与研究建议
-> - **怀特传统作为理想类型的局限** 三大传统是高度简化的理想类型，并不代表经验现实的全部，且它们诞生于欧洲，具有根深蒂固的西欧中心主义底色(p. 431)。
+> - **[[William Foote Whyte|怀特]]传统作为理想类型的局限** 三大传统是高度简化的理想类型，并不代表经验现实的全部，且它们诞生于欧洲，具有根深蒂固的西欧中心主义底色(p. 431)。
 > - **大量关键地缘档案的空白** 比较教育尚未对战争、外交、干预、集团化政治（blocism）以及他者性与教育的关系进行系统的历史和理论挖掘。
 > - **对非西方帝国扩张的忽视** 去殖民批判过于聚焦西方帝国主义，导致对世界上正在发生和演变的其他非西方帝国主义形式产生分析盲区(p. 430)。
 

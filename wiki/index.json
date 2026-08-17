@@ -2407,6 +2407,53 @@
     ]
   },
   {
+    "title": "Epistemic Aims",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Aims.md",
+    "aliases": [
+      "认识论目标",
+      "认识目标"
+    ]
+  },
+  {
+    "title": "Epistemic Cognition",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Cognition.md",
+    "aliases": [
+      "认识论认知",
+      "认识认知",
+      "EC"
+    ]
+  },
+  {
+    "title": "Epistemic Stances",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Stances.md",
+    "aliases": [
+      "认识立场",
+      "认识论立场"
+    ]
+  },
+  {
+    "title": "Epistemic Value",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Value.md",
+    "aliases": [
+      "认识论价值",
+      "认识价值"
+    ]
+  },
+  {
+    "title": "Epistemic Virtues and Vices",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Virtues and Vices.md",
+    "aliases": [
+      "认识论美德与恶习",
+      "认识美德",
+      "认识恶习"
+    ]
+  },
+  {
     "title": "Epistemological Beliefs",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Epistemological Beliefs.md",
@@ -8995,6 +9042,14 @@
     ]
   },
   {
+    "title": "Reliabilism",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Reliabilism.md",
+    "aliases": [
+      "可靠主义"
+    ]
+  },
+  {
     "title": "Societies of Control",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Societies of Control.md",
@@ -9044,6 +9099,14 @@
     ]
   },
   {
+    "title": "Virtue Epistemology",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Virtue Epistemology.md",
+    "aliases": [
+      "美德认识论"
+    ]
+  },
+  {
     "title": "Argumentative Reasoning",
     "type": "theory",
     "path": "wiki/theories/educational-psychology/Argumentative Reasoning.md",
@@ -9068,6 +9131,15 @@
     "aliases": [
       "认识论反思模型",
       "epistemological reflection model"
+    ]
+  },
+  {
+    "title": "Expanded Framework of Epistemic Cognition",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Expanded Framework of Epistemic Cognition.md",
+    "aliases": [
+      "扩展的认识论认知框架",
+      "EC五组件框架"
     ]
   },
   {
@@ -16985,6 +17057,11 @@
     "title": "Argument_Rømer_2018_EPT",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md"
+  },
+  {
+    "title": "Argument_Chinn_2011_EP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EP.md"
   },
   {
     "title": "Argument_Slavin_2019_EP",
