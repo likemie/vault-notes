@@ -5,9 +5,9 @@ aliases:
 summary: "哲学理论附加强调信念的确证依赖于产生该信念的过程是否可靠。科学实践与认知过程被纳入认识论研究。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 0
+theory_related_count: 6
 theory_related_level: 0
-theory_related_stars: "☆"
+theory_related_stars: ""
 theory_related_color: "#e5e7eb"
 tags: []
 related_concepts:

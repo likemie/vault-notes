@@ -7,7 +7,7 @@ aliases:
 summary: "心理学与哲学概念附加促进或阻碍达到认识论目标的性情倾向。具有高度的情境特异性。"
 type: concept
 domain: "educational-psychology"
-related_count: 1
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

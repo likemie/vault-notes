@@ -6,7 +6,7 @@ aliases:
 summary: "概念附加个体对特定知识主张采取的态度。取代了传统模型中单一的确定性维度。"
 type: concept
 domain: "educational-psychology"
-related_count: 0
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

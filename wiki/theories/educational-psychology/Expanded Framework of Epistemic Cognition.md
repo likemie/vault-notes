@@ -6,7 +6,7 @@ aliases:
 summary: "分析框架附加整合哲学观念的五组件模型。取代或扩展了传统简单的认识论信念维度。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 8
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

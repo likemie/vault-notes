@@ -6,7 +6,7 @@ aliases:
 summary: "心理学与哲学概念附加探究和寻求发现过程中的目标。决定了其他认知活动是否属于认识论范畴。"
 type: concept
 domain: "educational-psychology"
-related_count: 0
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
