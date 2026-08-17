@@ -20,15 +20,22 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Surface and Deep Learning]]"
   - "[[Learning Portfolio]]"
+  - "[[International Baccalaureate]]"
+  - "[[Reliability]]"
+  - "[[Dialogue in Education]]"
+  - "[[Homework]]"
+  - "[[Praxis]]"
+  - "[[Extended Essay]]"
   - "[[Constructive Alignment]]"
 related_persons:
   - "[[John Biggs]]"
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-17
 ---
 
 # Assessment Backwash
@@ -75,6 +82,19 @@ updated: 2026-08-01
 > - **目标关系** 反拨方向取决于被奖励的活动是否与课程目标要求的行为相同。
 > - **制度条件** 百分制报告、曲线评分、资源约束和常用评估形式会限制教师能够发出的信号。
 > - **结果判断** 反拨是否具有教育价值，应根据学生最终形成的理解质量判断，而不是根据考试准备是否发生判断。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 68–70, 74)]]
+
+---
+
+## 国际文凭早期评价设计
+
+> [!claim] 反拨是考试制度的前置设计标准
+> [[International Baccalaureate|IB]] 早期把效度、[[Reliability|可靠性]]、反拨、成本和速度列为考试设计的五项因素。反拨在此不是考试实施后的副作用，而是选定题型前就要判断的课程后果：如果某种可靠的考试会迫使教师和学生围绕回忆预制答案组织教学，它仍可能因破坏课程目标而被拒绝。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 50–52)]]
+
+> [!case] 语言 A 为正向反拨接受较低可靠性
+> 英国文学考试在两小时半内要求四五道复杂答案，较容易抽样阅读范围并取得一致评分，却使多数学生复现教材或教师提供的标准观点。法国和德国的长篇作文、未见文本批评与口试可靠性较低，却鼓励[[Dialogue in Education|对话]]式教学、深入写作和个人判断。IB 因此采用四小时书面任务加口试，后来再加入 20% 指导性课程[[Homework|作业]]；设计者明确判断，与其更精确地测量错误目标，不如保留不会抑制良好教学的评价形式。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 51–55)]]
+
+> [!case] 多元评价用组合效度弥补单项弱点
+> 面对面口试单独看昂贵且最不可靠，选择题在大规模使用时则最便宜、最可靠；但前者能观察对话反应并维持学校与国际网络的个人联系，后者适合广泛抽样语言 B 的习语和词汇。IB 没有让单一测量形式支配课程，而把口试、选择题、短答、论文、[[Praxis|实践]]考试、项目、[[Extended Essay|拓展论文]]和教师评价组合成 examen bilan，使不同证据在整体上互补。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 54–57)]]
 
 ---
 

@@ -37,10 +37,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-08-09
+updated: 2026-08-17
 ---
 
 # Creativity, Action, Service
@@ -65,6 +66,16 @@ updated: 2026-08-09
 > - **创意（Creativity）** 涵盖艺术、戏剧、音乐、创作以及探索性设计项目，培养创造性思维与表达。它为学生提供了通过艺术途径探究社会问题的手段，例如结合研究“涂鸦”在破坏与艺术间的张力 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 229)]]。
 > - **行动（Action/Activity）** 身体锻炼、户外拓展与体育竞技，培养坚毅品质与健康生活习惯。
 > - **服务（Service）** 切入社区参与、环保、扶贫等社会公益，培养国际理解与[[Praxis|实践]]责任感 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 14, p. 22)]]。服务活动可直接将学生的学术研究成果（如生态学研究）转化为社区宣导与环保行动闭环 同上。
+
+---
+
+## 早期制度形态
+
+> [!claim] CASS 首先是一项保护时间的课程规章
+> [[International Baccalaureate|IB]] 早期把该要求称为 CASS，其直接问题不是如何给活动评分，而是在大学录取竞争下，如何防止艺术、身体活动、直接经验和社会服务被学术备考完全挤出。IBO 要求每所报考学校保证学生每周有等值半天不被学术课表占用，用于创意、审美、活动或社会服务；具体组合由学校发展，联合世界书院等学校的投入超过这一最低线。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 45–46)]]
+
+> [!warrant]- 为什么早期 CASS 不采用外部考试
+> 设计者认为这种直接经验无法由统一外部考试适当测量，而 IBO 又缺少国家教育系统的法律处方、督导和统一师训能力。因此，制度选择不是把经验强行转成分数，而是先消除最大的结构障碍——没有时间——并把活动记录作为 IB 文凭附件进入交给大学的学生整体资料。CASS 的早期形态由此体现一种最低保障逻辑：中央机构规定不可被挤占的空间，学校负责把空间转化为有意义的活动。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 34, 45–46)]]
 
 ---
 

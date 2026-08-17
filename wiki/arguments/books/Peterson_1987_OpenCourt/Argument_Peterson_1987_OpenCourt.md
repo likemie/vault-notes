@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt"
 argument_key: "Argument_Peterson_1987_OpenCourt"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 argument_kind: "book"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -33,7 +33,14 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Schools]]"
   - "[[Praxis]]"
+  - "[[Extended Essay]]"
   - "[[Theory of Knowledge]]"
+  - "[[Paradigmatic Learning]]"
+  - "[[Assessment Backwash]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Reliability]]"
+  - "[[Creativity, Action, Service]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -55,6 +62,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch01]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 part_of:
@@ -112,23 +120,26 @@ updated: 2026-08-17
 > - **[[Founding of Atlantic College|大西洋学院创办]]（1958–1962）** 创办者、校长、校址、资金、跨国招生与救援课程把和平教育理想转化为学校制度。
 > - **国家资格冲突显现（1962–1964）** 大西洋学院使用英国课程维持共同教学，却暴露课程偏向、语言公平和学生回国升学障碍。
 > - **[[International Baccalaureate|国际文凭]]制度化（1961–1970）** 日内瓦教师倡议经独立组织、连续资金、课程折中、试验学校、塞夫尔会议和大学有限承认，发展为实际升学资格。
+> - **教育目标转化为课程与评价（1960年代后期）** 通识教育被重新定义为多种思维方式，并经六学科、共同核心与深度选项、[[Extended Essay|EE]]、CASS、[[Theory of Knowledge|TOK]] 及综合评价制度具体化。
 
 ## 章节推进
 
 > [!chapter-arc] 章节推进线
 > - **Ch. 1 — The [[Founding of Atlantic College]]** 从和平教育理念、行动与服务机制、创校领导、场地与资金、跨国共同生活及课程资格矛盾，解释第一个联合世界书院实验如何形成并产生国际共同资格的需要。
 > - **Ch. 2 — The [[Founding of the International Baccalaureate]]** 从 1925 年未实现的国际毕业考试设想出发，追踪教师网络、[[International Schools Examination Syndicate|ISES]]／IBO、基金会资助、六学科结构、英法双语与大学承认试验如何共同建立 [[International Baccalaureate|IB]]。
+> - **Ch. 3 — From Educational Aims to a Curriculum and Examinations** 从全人教育目标出发，比较欧陆百科全书课程、英国过早专门化与美国大学通识传统，说明六学科、[[Paradigmatic Learning|范例学习]]、[[Extended Essay|EE]]、CASS、[[Theory of Knowledge|TOK]] 与强调[[Assessment Backwash|评估反拨]]的考试体系如何形成。
 
 > [!chapter-index] 章节索引
 > - **Ch. 1 — The Founding of Atlantic College** [[Argument_Peterson_1987_OpenCourt_Ch01]] — 大西洋学院的组织创办与课程难题。
 > - **Ch. 2 — The Founding of the International Baccalaureate** [[Argument_Peterson_1987_OpenCourt_Ch02]] — 从战后[[International Schools|国际学校]]的实际需要，经教师网络、ISES、课程改革联盟、试验学校与塞夫尔会议，追踪 IB 怎样成为可运行的国际资格。
+> - **Ch. 3 — From Educational Aims to a Curriculum and Examinations** [[Argument_Peterson_1987_OpenCourt_Ch03]] — 说明教育目标如何被[[Transfer Translation Transformation|转译]]为课程组件与多元评价，以及效度、[[Reliability|可靠性]]、反拨、成本和速度如何共同约束考试设计。
 
 > [!textbook-overview] 章节叙事表
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
 > | [[Argument_Peterson_1987_OpenCourt_Ch01\|第1章 大西洋学院的创办]] | 追踪和平教育理念怎样经由领导、场地、资金、共同生活与服务课程成为学校制度，并说明英国国家资格为何无法解决国际课程与跨国升学问题。 | [[Kurt Hahn]]、[[Desmond Hoare]]、[[Atlantic College Curriculum 1962]]、[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]、[[Founding of Atlantic College]] |
 > | [[Argument_Peterson_1987_OpenCourt_Ch02\|第2章 国际文凭的创立]] | 说明实际需求、教师动员、独立组织、连续资金、改革型课程、试验学校和有限大学承认怎样共同构成国际资格。 | [[International Schools Examination Syndicate]]、[[1967 Sevres International Conference on the IB]]、[[Founding of the International Baccalaureate]]、[[Action Research]] |
-> | [[Argument_Peterson_1987_OpenCourt_Ch02\|第2章]] | | |
+> | [[Argument_Peterson_1987_OpenCourt_Ch03\|第3章 从教育目标到课程与考试]] | 追踪 IB 如何在三种通识教育传统的张力中形成六学科与核心组件，并以效度、可靠性和评估反拨之间的权衡设计综合评价。 | [[Paradigmatic Learning]]、[[Extended Essay]]、[[Creativity, Action, Service]]、[[Theory of Knowledge]]、[[Assessment Backwash]] |
 
 ## 跨章综合
 
@@ -137,11 +148,14 @@ updated: 2026-08-17
 > - **学校到资格** 大西洋学院采用英国普通教育证书高级程度考试的权宜方案，直接引出后续章节需要解决的国际课程与大学承认问题。
 > - **草根倡议到国际制度** [[International Baccalaureate|IB]] 创立过程的直接推动者是[[International Schools|国际学校]]教师。教师讨论只有在独立法律组织、连续资金、国际课程委员会、试验学校、家长风险承担和大学承认机制出现后，才转化为可运行的国际资格。
 > - **课程理念的复合来源** 六学科组平衡欧洲通识传统与英国专门化传统，双语安排回应英法教育体系，[[Theory of Knowledge|知识论]]来自法国必修哲学与跨学科共同课程的折中，单科证书则回应文凭项目可能形成精英隔离的担忧（第 2 章，pp. 24–31）。
+> - **课程结构的思想逻辑** 第 3 章进一步说明，六学科并非只为资格兼容而设，而是以学科分布提供广度、以共同核心＋深度范例提供深度；[[Extended Essay|EE]]、CASS 与 TOK 分别补入自主研究、直接经验和跨学科[[Epistemology|认识论]]反思（第 3 章，pp. 38–48）。
+> - **考试是课程的实施机制** IBO 没有国家教育系统的处方和督导能力，考试规则因此承担课程政策功能。评价设计不能只追求[[Reliability|可靠性]]，还要保护效度和正向反拨，再受成本与出分速度约束（第 3 章，pp. 34, 49–57）。
 
 > [!finding-cards] 综合发现
 > - **双重制度建设** 国际学校共同体与国际课程资格是相互依赖的两项建设任务（第 1 章，pp. 9–13）。
 > - **个人行动的组织化** 理念能否持续，取决于关键行动者能否取得组织资源并形成可复制的制度（第 1 章，pp. 3–8）。
 > - **起源是累积过程** IB 从 1925 年设想发展到 1970 年首批正式升学使用，经历需求形成、教师动员、组织独立、课程折中和资格验证，而非源自单一会议或个人（第 2 章，pp. 15–31）。
+> - **课程与考试共同构成制度** 教育目标只有同时进入课程内容、学习经验和评价形式，才可能抵抗升学竞争对教学的反向塑造（第 3 章，pp. 33–57）。
 
 ## 关键引用
 

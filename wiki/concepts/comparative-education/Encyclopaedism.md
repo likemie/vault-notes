@@ -22,6 +22,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Rote Learning]]"
   - "[[Praxis]]"
+  - "[[International Baccalaureate]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
@@ -32,10 +33,11 @@ related_facts:
   - "[[Brazilian Secondary Education Curriculum Reform 1998]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-06-23
+updated: 2026-08-17
 ---
 
 # Encyclopaedism
@@ -92,6 +94,7 @@ updated: 2026-06-23
 
 > [!dev-timeline] 概念演变
 > - **1958 — 比较教育经典梳理** Nicholas Hans 在《比较教育：教育因素与传统研究》中，将百科全书主义识别为欧洲两大世俗教育思想传统之一，并系统区分了法国百科全书派的科学与理性脉络和德国的特定演变，这一传统深刻塑造了深受欧陆文化影响的拉美中等教育体系。([[Argument_Beech_2009_CE|Beech, 2009, pp. 347–348]])
+> - **1960年代 — [[International Baccalaureate|IB]] 课程设计中的反题** 彼得森把欧陆高中通识教育描述为逐步扩张的知识覆盖方案：古典语言与数学之外继续加入历史、自然科学、地理和经济，德国 Gymnasium 在高峰时形成被戏称为“十三科学校”的结构。每科每周仅一两课时，学生容易停留在信息或教师预制解释的表层记忆，来不及把学科的思维方式转化为自己的能力。IB 因而以六门分布式学科和共同核心＋深度范例回应这一困境。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 38–45)]]
 > - **1990s — 全球话语的修辞冲击** 随着超国家组织（如 [[OECD]]、世界银行、UNESCO）大力推广“能力发展”和“尊重多样性”等全球政策话语，百科全书主义（被贴上[[Rote Learning|死记硬背]]、去语境化、割裂的标签）成为拉美各国课程改革竞相批判的靶子。([[Argument_Beech_2009_CE|Beech, 2009, pp. 353–356]])
 > - **1990s 至今 — 结构性延续与混合** 在课程[[Praxis|实践]]和政策文本落地中，国家往往无法彻底清除百科全书派传统，而是将能力话语（革新）与百科全书式分科结构（保守）在官方文件中并置，造成事实上的结构延续。([[Argument_Beech_2009_CE|Beech, 2009, p. 356]])
 

@@ -3,6 +3,7 @@ citation: "Peterson, A. D. C. (1987). Schools across frontiers: The story of the
 extracted_to:
   - "[[Argument_Peterson_1987_OpenCourt]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch01]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
 processed_date: 2026-08-17
 ---
 

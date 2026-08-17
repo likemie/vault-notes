@@ -1063,6 +1063,15 @@
     ]
   },
   {
+    "title": "Paradigmatic Learning",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Paradigmatic Learning.md",
+    "aliases": [
+      "范例学习",
+      "exemplar-based learning"
+    ]
+  },
+  {
     "title": "Phenomenon-Based Learning",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Phenomenon-Based Learning.md",
@@ -16766,6 +16775,11 @@
     "title": "Argument_Peterson_1987_OpenCourt_Ch02",
     "type": "argument",
     "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md"
+  },
+  {
+    "title": "Argument_Peterson_1987_OpenCourt_Ch03",
+    "type": "argument",
+    "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch03.md"
   },
   {
     "title": "Argument_QiMei_2015_EducationalResearchMethods",

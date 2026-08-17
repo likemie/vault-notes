@@ -32,15 +32,17 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Kurt Hahn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-08-10
+updated: 2026-08-17
 ---
 
 # Extended Essay
@@ -65,6 +67,16 @@ updated: 2026-08-10
 > - **独立学术研究（Independent Academic Research）** 学生需经历选定课题、撰写[[Research Question|研究问题]]（research question）、搜集一手或二手资料、开展分析并形成学术论证的全过程 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 18)]]。
 > - **[[Epistemology|认识论]]联动（Epistemological Linkage）** 在撰写 EE 的过程中，学生必须运用在 [[Theory of Knowledge|TOK]] 课程中习得的[[Knowledge Framework|知识框架]]与[[Critical Thinking|批判性思维]]技能，分析其探究领域内证据的有效性、信源[[Reliability|可靠性]]与方法论局限 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 22)]] [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 228)]]。
 > - **核心矩阵奖励分（Core Bonus Points Matrix）** EE 与 TOK 的外部评估等级（A–E 级）交叉判定奖励分（0–3 分）。若 EE 获得 E 级（不合格），触发不合格条件（Failing Condition），直接丧失文凭资格 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 19)]]。
+
+---
+
+## 早期制度形态
+
+> [!phase] 从“宏大热情”到可管理的个人研究
+> [[International Baccalaureate|IB]] 早期设计者把拓展论文加入六学科框架，是为了让学生进一步体验独立深究，并为[[Kurt Hahn|库尔特·哈恩]]所说的“宏大热情”（grand passion）提供学术出口。每位文凭学生围绕所选六门学科之一自定题目，完成约 4,000 字论文；研究通常在两年课程中段持续四至六个月，由教师提供程度不一的指导，并由外部考官评价。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]
+
+> [!case] 过度投入促成截止日期调整
+> 早期学生反馈使设计者确认该组件的价值：许多人认为它是最有助于适应大学学习的 IB 经历。同时，一些学生对题目投入过深，以致忽视其他课程并可能影响文凭考试；学校的投诉促使 IBO 把提交日期提前到整个课程结束前数月。这个调整说明 EE 从一开始便不是附加作文，而是一项需要在自主性与整体课业之间安排时间边界的长期研究。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 45)]]
 
 ---
 
