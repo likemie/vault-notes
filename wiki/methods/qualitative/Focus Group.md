@@ -9,9 +9,9 @@ summary: "一种群体访谈方法，依赖小组成员围绕研究者提供的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -35,6 +35,7 @@ related_methods:
   - "[[Systematic Review]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
+  - "[[Argument_Bergeron_2015_TeachingTOK]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -122,3 +123,4 @@ updated: 2026-07-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — [[Systematic Review|系统综述]]焦点小组的定义、用途、操作程序、局限和与[[Group Interview|群体访谈]]的区别。
+> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] — 在其研究的质性阶段，通过举办多场焦点小组访谈（N=33）让教师们深入讨论，利用小组互动挖掘出“被改变的视角”和“教学哲学的深层转变”等主题，解释了量化问卷无法探究的因果机制。

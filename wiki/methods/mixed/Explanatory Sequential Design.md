@@ -8,7 +8,7 @@ summary: "先收集量化数据再以质性后续数据深入解释量化结果�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Bergeron_2019_JRIE]]"
+  - "[[Argument_Bergeron_2015_TeachingTOK]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -152,6 +153,7 @@ updated: 2026-06-02
 ## 7. 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] — 采用解释性序列设计，第一阶段用大规模量化调查（N=960）检验全球知识论教师的信念与态度，第二阶段通过多地焦点小组访谈深入解释量化发现中的实操困境与溢出效应。
 > - [[Argument_Bergeron_2019_JRIE|Bergeron & Rogers (2019)]] — 使用[[Questionnaire|问卷]]获得了对 [[Theory of Knowledge|TOK]] 课程实施态度的广泛定量数据，随后利用多地[[Focus Group|焦点小组]]访谈深入了解教师面临的“时间”和“评价”等困难的具体表现。
 
 > [!example] 案例 1：Ivankova & Stick (2007)
