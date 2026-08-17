@@ -52,7 +52,8 @@
               "title": "Argument_Chinn_2011_EP"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +224,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "81d5dcb4edb5f122",
   "lastOpenFiles": [
-    "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EP.md",
     "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
+    "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EP.md",
     "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/theories/educational-philosophy/Reliabilism.md",
     "wiki/concepts/educational-psychology/Epistemic Virtues and Vices.md",
