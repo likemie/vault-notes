@@ -287,7 +287,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 主观性向多元论的极速渗透（投毒隐喻）
-> 正如 Chandler 等人（1990）从理论层面所提出的[[Hypothesis|假设]]，这种转变发生得极为迅速；一旦认知的主观性被承认，犹如“井水被投了毒”（the well is poisoned），向彻底主观的多元论立场的滑落就会极速发生。（p. 320）
+> 正如 Chandler et al. (1990)从理论层面所提出的[[Hypothesis|假设]]，这种转变发生得极为迅速；一旦认知的主观性被承认，犹如“井水被投了毒”（the well is poisoned），向彻底主观的多元论立场的滑落就会极速发生。（p. 320）
 > 
 > *A second explanation is one argued on theoretical grounds by Chandler, Boyes, and Ball (1990), namely that this transition occurs very rapidly; once the “well is poisoned,” as Chandler et al. put it, by the acknowledgment of subjectivity, the movement toward the [[Multiplist]] position of total subjectivity occurs very rapidly.*
 
