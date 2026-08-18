@@ -26,7 +26,12 @@ related_concepts:
   - "[[Theory of Mind]]"
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
+  - "[[Multiplist]]"
+  - "[[Critical Thinking]]"
+  - "[[Evaluativist]]"
   - "[[Simplicity of Knowledge]]"
+  - "[[Source of Knowledge]]"
+  - "[[Construct Validity]]"
   - "[[Justificatory Standards]]"
   - "[[Domain Specificity]]"
   - "[[Epistemological Beliefs]]"
@@ -50,8 +55,10 @@ related_instruments: []
 related_persons:
   - "[[W. V. O. Quine]]"
   - "[[Alvin Goldman]]"
+  - "[[Jean Piaget]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hofer_1997_RER]]"
 sources:
   - "[[sources/Sandoval_2016_RRE|Sandoval_2016_RRE]]"
 part_of: 
@@ -148,7 +155,11 @@ issuing_organization: ""
 > - **链节一 哲学层面的转向（Philosophical Turn）**
 >   传统认识论长期受困于“确证的真信念（justified true belief）”模型与激进怀疑论的拉扯。[[W. V. O. Quine]] 等哲学家推动了[[Epistemological Naturalism|自然化认识论]]（epistemological naturalism）转向，彻底放弃了纯粹的先验理论推导，主张利用心理学与认知科学的实证发现来研究人类实际生成和评估知识的过程。这一转向不仅催生了[[Reliabilism|可靠主义]]（如 [[Alvin Goldman]]），更进一步衍生出社会认识论（social epistemology），将评价焦点从孤立个体扩展到了诸如“同行评审”等科学共同体的实践机制。
 > - **链节二 个人认识论的演进（Evolution of Personal Epistemology）**
->   发端于 Perry 对大学生“双元论—多元论—相对主义”的线性发展阶段（developmental models）刻画；随后，Schommer (1990) 以及 Hofer and Pintrich (1997)引入了多维信念系统（dimensional models），将认识论解构为[[Simplicity of Knowledge|知识的简单性]]、确定性、来源与确证等多个可独立变化的信念维度。高度标准化的自陈量表（如认识论[[Questionnaire|问卷]]（Epistemological Questionnaire, EQ））极大推动了该领域的[[Quantitative Research|量化研究]]，但也遗留了将认知视为脱离情境的稳定特质的理论隐患。
+>   该领域从最初的单线发展模型逐渐演变为多维信念系统，确立了当下的实证研究坐标系：
+>   > [!info] 个人认识论的演进路径解析
+>   > 1. **线性发展阶段（Developmental Models）**以 Perry (1970) 对大学生的研究为发端，提出个体对知识的认知会经历类似[[Jean Piaget|皮亚杰]]阶段论的系统性演变。个体从“双元论（dualists）”（认为知识是绝对客观的、由权威掌握的事实），走向“多元论（[[Multiplist|multiplists]]）”（认为没有客观标准，所有观点都是等价的主观意见），最终发展到“相对主义（relativists）”（认识到知识具有情境性，需要通过[[Critical Thinking|批判性思维]]进行论证与评估）。Kuhn (1991) 随后也刻画了从绝对主义、多元论到评价主义（[[Evaluativist|evaluativists]]）的平行发展轨迹。
+>   > 2. **多维信念系统（Dimensional Models）**Schommer (1990) 打破了阶段论同步发展的局限，主张认识论是由多个可独立异步变化的信念维度构成的。随后，[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 进一步将这些多维信念提炼聚合为四大核心维度：[[Simplicity of Knowledge|知识的简单性]]与确定性（关于知识的本质）、[[Source of Knowledge|知识的来源]]与确证（关于认知的本质）。
+>   > 3. **量化测量的繁荣与脱域隐患** 多维模型的提出催生了高度标准化的自陈量表（如 Schommer 编制的认识论[[Questionnaire|问卷]]（Epistemological Questionnaire, EQ））。虽然这些工具通过将信念转化为客观分数极大推动了该领域的[[Quantitative Research|量化研究]]，但也由于其严重脱离具体实践情境的测量设计，遗留了将认知误视为一种稳定“特质（trait）”的理论隐患，并持续面临心理测量学上[[Construct Validity|构念效度]]不佳的批评。
 > - **链节三 发展心理学的前置补全（Developmental Foundations）**
 >   儿童并不像早期理论[[Hypothesis|假设]]的那样缺乏认识论认知。幼儿在四个底层维度展现了极早期的发育：
 >   > [!info] 四大底层维度解析
