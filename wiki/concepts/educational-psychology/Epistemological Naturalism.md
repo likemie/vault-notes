@@ -6,7 +6,7 @@ aliases:
 summary: "一种主张将认识论从先验哲学转向利用心理学和认知科学的实证方法，研究人类实际信念生成机制与社会实践的哲学转向。"
 type: concept
 domain: "educational-psychology"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,8 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[René Descartes]]"
+  - "[[W. V. O. Quine]]"
+  - "[[Alvin Goldman]]"
   - "[[Jean Piaget]]"
 related_facts: []
 related_arguments:
@@ -99,7 +101,7 @@ updated: 2026-08-18
 > [!concept-lens] 激进自然主义的理论转向
 > 简述传统基础主义破产后，关于[[Epistemology|认识论]]何去何从的极端重构方案。
 
-> [!claim] Quine, W. V. O.
+> [!claim] [[W. V. O. Quine|Quine, W. V. O.]]
 > 既然我们永远无法用严密的逻辑从纯粹的感觉数据推导出整个科学体系，那么就应当放弃这种“第一哲学”的幻觉。认识论应该退回为自然科学（特别是心理学）的一个分支，专注于用行为主义和认知科学的方法来研究人类动物的感官输入是如何转化为理论输出的因果规律。
 
 ---
@@ -109,7 +111,7 @@ updated: 2026-08-18
 > [!concept-lens] 规范性与描述性的温和折衷
 > 简述对纯心理学取代认识论的担忧，以及在自然化框架下重建“好信念”评价标准的尝试。
 
-> [!claim] Goldman, A.
+> [!claim] [[Alvin Goldman|Goldman, A.]]
 > 完全取消认识论的规范性（即无法区分什么是“好信念”什么是“坏信念”）是不可接受的。认识论可以自然化，但这不意味着它变成了纯粹的描述。评价一个信念是否被确证（Justified），取决于生成该信念的心理过程（如视知觉、可靠记忆）在自然世界中产生真信念的**统计[[Reliability|可靠性]]（[[Reliabilism]]）**。这使得认知科学成为评判知识不可或缺的依据。
 
 ---
@@ -117,8 +119,8 @@ updated: 2026-08-18
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1969 — 起源阶段** W. V. O. Quine 发表《自然化的[[Epistemology|认识论]]》，宣告传统基于演绎逻辑的基础主义破产，提出将认识论交给心理学。
-> - **1980s — 扩展阶段** Alvin Goldman 提出[[Reliabilism|可靠主义]]，将自然主义从 Quine 的激进版本引向温和版本，强调社会认识论，关注群体、同行评审和证词的作用。
+> - **1969 — 起源阶段** [[W. V. O. Quine]] 发表《自然化的[[Epistemology|认识论]]》，宣告传统基于演绎逻辑的基础主义破产，提出将认识论交给心理学。
+> - **1980s — 扩展阶段** [[Alvin Goldman]] 提出[[Reliabilism|可靠主义]]，将自然主义从 Quine 的激进版本引向温和版本，强调社会认识论，关注群体、同行评审和证词的作用。
 > - **2000s 至今 — 教育研究应用** 这一哲学转向进入教育心理学（如 Chinn, Sandoval 等人），促使研究者跳出测量单一内部信念的局限，开始研究课堂真实情境中的[[Epistemic Cognition|认识论认知]][[Praxis|实践]]、工具使用及社会互动。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 
 ---

@@ -6,7 +6,7 @@ aliases:
 summary: "知识的成立依赖区分真实状态与相关替代可能状态的能力，可用于说明教育判断为何往往具有局部性、情境性与暂定性"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Alvin Goldman]]"
   - "[[Dylan Wiliam]]"
 related_facts: []
 related_arguments:
@@ -71,7 +72,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - **1976** — Alvin Goldman 在 *The Journal of Philosophy* 发表 "Discrimination and Perceptual Knowledge"，提出区分理论，挑战传统 JTB 知识定义
+> - **1976** — [[Alvin Goldman]] 在 *The Journal of Philosophy* 发表 "Discrimination and Perceptual Knowledge"，提出区分理论，挑战传统 JTB 知识定义
 > - **2019** — [[Dylan Wiliam]] 将该理论应用于教育研究的方法论反思，论证教育知识的局部性和临时性，作为对[[Evidence-Based Education|证据本位教育]]"什么有效"计划的哲学批判
 
 ## 研究范式

@@ -43,11 +43,13 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Accounts]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[W. V. O. Quine]]"
+  - "[[Alvin Goldman]]"
 related_facts: []
 related_arguments: []
 sources:
-  - "[[sources/Sandoval_2016_RRE]]"
+  - "[[sources/Sandoval_2016_RRE|Sandoval_2016_RRE]]"
 part_of: 
 status: draft
 created: 2026-08-18
@@ -140,7 +142,7 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - **链节一：哲学层面的转向**
->   从探讨“是否能拥有知识”的传统认识论，转向考察信念生成客观过程的[[Epistemological Naturalism|自然化认识论]]，极大拓宽了研究的范围（纳入了社会认知和机制[[Reliability|可靠性]]）。
+>   从探讨“是否能拥有知识”的传统认识论，转向由 [[W. V. O. Quine]] 和 [[Alvin Goldman]] 等人推动的考察信念生成客观过程的[[Epistemological Naturalism|自然化认识论]]，极大拓宽了研究的范围（纳入了社会认知和机制[[Reliability|可靠性]]）。
 > - **链节二：个人认识论的演进**
 >   从 Perry 的单线发展模型，到 Schommer 的多维信念系统模型，确立了当前主流研究的坐标系。
 > - **链节三：发展心理学的前置补全**
@@ -256,4 +258,4 @@ issuing_organization: ""
 ---
 
 ## 来源
-- [[sources/Sandoval_2016_RRE]]
+- [[sources/Sandoval_2016_RRE|Sandoval_2016_RRE]]

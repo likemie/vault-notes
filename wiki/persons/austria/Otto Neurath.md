@@ -7,10 +7,10 @@ summary: "奥地利哲学家、社会学家和经济学家，维也纳学派核�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 tags:
 - theme/philosophy-of-science
 - theme/epistemology
@@ -32,6 +32,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[W. V. O. Quine]]"
   - "[[René Descartes]]"
   - "[[Karl Popper]]"
 related_facts: []
@@ -51,7 +52,7 @@ updated: 2026-07-10
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利哲学家、社会学家和经济学家（1882–1945），维也纳学派（Vienna Circle）核心成员，活跃于两次世界大战之间的欧洲学术和政治舞台。
-> - **核心角色** 迪昂（Pierre Duhem）与蒯因（W. V. O. Quine）之间的桥梁人物——纽拉特原则（Neurath-principle）被视为迪昂整体论（Duhemian holism）的延伸和蒯因[[Epistemology|认识论]]整体论的先驱。他持一种反基础主义的（anti-foundationalist）和政治上介入的[[Positivism|实证主义]]立场，与波普尔的[[Falsification|证伪主义]]形成鲜明对比。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 183)]]
+> - **核心角色** 迪昂（Pierre Duhem）与蒯因（[[W. V. O. Quine]]）之间的桥梁人物——纽拉特原则（Neurath-principle）被视为迪昂整体论（Duhemian holism）的延伸和蒯因[[Epistemology|认识论]]整体论的先驱。他持一种反基础主义的（anti-foundationalist）和政治上介入的[[Positivism|实证主义]]立场，与波普尔的[[Falsification|证伪主义]]形成鲜明对比。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 183)]]
 > - **代表贡献** [[Duhem-Quine Thesis|不完全决定性论题]]发展史中的关键链接；反基础主义的实证主义科学哲学；ISOTYPE（国际图画语言）视觉教育系统的发明。
 
 > [!citation-card]- 人物定位的关键来源
@@ -108,7 +109,7 @@ updated: 2026-07-10
 > [!person-network] 关系网络
 > - **师承／合作者** [[Karl Popper|卡尔·波普尔]] — 在维也纳时期有密切的智识互动，但两人在[[Falsification|证伪主义]]和[[Scientific Method|科学方法]]问题上存在根本分歧（见 Cat, 1995 对波普尔—纽拉特论辩的研究）。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 183–184)]]
 > - **思想前驱** Pierre Duhem（迪昂）— 纽拉特原则被视为迪昂整体论的延伸和激进化。
-> - **思想后继** W. V. O. Quine（蒯因）— 纽拉特的反基础主义整体论经由蒯因的"经验论的两个教条"（1951）进入分析哲学主流。
+> - **思想后继** [[W. V. O. Quine]]（蒯因）— 纽拉特的反基础主义整体论经由蒯因的"经验论的两个教条"（1951）进入分析哲学主流。
 > - **机构／运动** 维也纳学派（Vienna Circle / Wiener Kreis）— 纽拉特是该学派最政治化、最关注社会科学应用的核心成员。
 
 ---
