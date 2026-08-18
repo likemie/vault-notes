@@ -13,7 +13,7 @@ related_color: "#e5e7eb"
 tags: []
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Epistemic Cognition]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Expanded Framework of Epistemic Cognition]]"
 related_methods: []
@@ -39,7 +39,7 @@ updated: 2026-08-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 个体与特定命题信奉程度之间的关系度量。
-> - **用途** 取代并涵盖传统[[Epistemic Cognition|认识论认知]]模型中关于知识确定性的单一讨论。
+> - **用途** 取代并涵盖传统[[Epistemology|认识论]]认知模型中关于知识确定性的单一讨论。
 > - **边界** 个体在不同主张上的态度呈现多元并存，取代了关于知识是否都具有确定性的单一评判。
 
 ---

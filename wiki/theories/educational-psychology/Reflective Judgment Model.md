@@ -37,7 +37,7 @@ updated: 2026-08-13
 > [!theory-position] 
 > - **解释对象** 个体对劣构问题（ill-structured problems）的推理与信念辩护方式。
 > - **理论问题** 人们如何理解认知的过程，以及相应地如何为没有确定答案的问题辩护？
-> - **理论类型** 基于[[Jean Piaget|皮亚杰]]发展论的七阶段[[Epistemic Cognition|认识认知]]（Epistemic cognition）模型。
+> - **理论类型** 基于[[Jean Piaget|皮亚杰]]发展论的七阶段[[Epistemic Cognition|认识认知]]（[[Epistemic Cognition]]）模型。
 > - **知识位置** 详细阐发了Perry图式的高阶阶段，区分了前反思、准反思与反思阶段。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 100)]]
 
 ## 核心命题与机制

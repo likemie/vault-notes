@@ -12,10 +12,10 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: []
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
   - "[[Subjectivism]]"
   - "[[Reliability]]"
-  - "[[Epistemology]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -39,7 +39,7 @@ updated: 2026-08-18
 
 > [!concept-lens] 概念透镜
 > - **含义** 读懂“别人在想什么”的能力。
-> - **用途** 作为[[Epistemic Cognition|认识论认知]]（epistemic cognition）的底层前置发育基础（antecedent foundations），解释了为何幼儿在面对不同信息来源时能展现出早期的社会认知与评估证词（testimony）能力。
+> - **用途** 作为[[Epistemology|认识论]]认知（[[Epistemic Cognition]]）的底层前置发育基础（antecedent foundations），解释了为何幼儿在面对不同信息来源时能展现出早期的社会认知与评估证词（testimony）能力。
 
 > [!boundary]- 概念边界
 > - **不等于 认识论认知** 心智理论主要关注对心理状态存在的觉察与归因，而认识论认知更进一步关注对这些心理状态（即知识主张）如何被确证（justified）的深层反思。心智理论是认识论认知发育的必要非充分前置基础。
@@ -69,11 +69,11 @@ updated: 2026-08-18
 > [!dev-timeline] 概念演变
 > - **1990年代前 — 早期观点假定晚熟** 早期研究通常认为心智理论要到3岁或更晚才会开始发展，此前儿童被视为完全处于自我中心状态。
 > - **近十余年 — 婴幼儿能力的实证突破** 发展心理学新近证据表明，即使是婴儿也能展现出理解他人目标与知觉等心智理论的早期整合方面，将这一能力的发育起点大幅提前。
-> - **向[[Epistemic Cognition|认识论认知]]延伸 — 确立为前置基础** 错误信念理解（约在5岁显现）被明确纳入认识论认知的前期发展阶段。对他人可能持有错误信念的觉察，被视为许多高级认识论认知模型中评估信源可[[Reliability|信度]]（source evaluation）的直接认知奠基。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> - **向[[Epistemology|认识论]]认知延伸 — 确立为前置基础** 错误信念理解（约在5岁显现）被明确纳入[[Epistemic Cognition|认识论认知]]的前期发展阶段。对他人可能持有错误信念的觉察，被视为许多高级认识论认知模型中评估信源可[[Reliability|信度]]（source evaluation）的直接认知奠基。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将儿童的心智理论（尤其是对错误信念的理解）系统性地整合为[[Epistemic Cognition|认识论认知]]的核心发展前置基础，论证了发展心理学对婴幼儿心智发育的探究如何填补教育心理学[[Epistemology|认识论]]模型的断层，呼吁开展连接这两个领域的跨学科研究。
+> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将儿童的心智理论（尤其是对错误信念的理解）系统性地整合为[[Epistemology|认识论]]认知的核心发展前置基础，论证了发展心理学对婴幼儿心智发育的探究如何填补教育心理学[[Epistemology|认识论]]模型的断层，呼吁开展连接这两个领域的跨学科研究。

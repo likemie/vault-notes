@@ -15,9 +15,9 @@ citation_aliases:
 isbn: ""
 tags: []
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
   - "[[Praxis]]"
-  - "[[Epistemology]]"
   - "[[Document]]"
   - "[[Constructivist Paradigm]]"
   - "[[Ontology]]"
@@ -43,6 +43,9 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemic Commitments]]"
+  - "[[Paradigm]]"
+  - "[[Epistemological Theories]]"
+  - "[[Paradigm Wars]]"
   - "[[Reliability]]"
 related_theories:
   - "[[Integrative Pluralism]]"
@@ -69,16 +72,16 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-08-19
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 46
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Review of Research in Education"
 book_title: ""
@@ -93,7 +96,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[Epistemic Cognition|认识论认知]]（epistemic cognition）研究在过去半个世纪中经历了怎样的多学科源流交汇？当前不同学术阵营存在哪些阻碍理论整合的核心断层线（fault lines）？如何跨越这些断层线以迈向连贯的理论建构？
+> [[Epistemology|认识论]]认知（[[Epistemic Cognition]]）研究在过去半个世纪中经历了怎样的多学科源流交汇？当前不同学术阵营存在哪些阻碍理论整合的核心断层线（fault lines）？如何跨越这些断层线以迈向连贯的理论建构？
 
 > [!claim] 核心主张
 > 认识论认知研究处于充满活力但极度分裂的状态。跨越知识概念化、领域普遍性与情境性、发展轨迹、测量方法等四大核心断层线，并采用[[Integrative Pluralism|整合的多元主义]]（integrative pluralism）视角统合个体内在认知与社会文化情境，是指导复杂信息时代教育[[Praxis|实践]]的前提。
@@ -154,7 +157,7 @@ issuing_organization: ""
 ### 论证步骤一 认识论认知研究的多源流拼图
 
 > [!claim] 步骤一主张
-> [[Epistemic Cognition|认识论认知]]并非统一的领域，而是由哲学[[Epistemology|认识论]]的转向、个人认识论的模型建构、发展心理学的早期基础，以及学科教育中的特异性[[Praxis|实践]]共同拼凑而成的复杂网络。
+> [[Epistemology|认识论]]认知并非统一的领域，而是由哲学[[Epistemology|认识论]]的转向、个人认识论的模型建构、发展心理学的早期基础，以及学科教育中的特异性[[Praxis|实践]]共同拼凑而成的复杂网络。
 
 > [!chain-link] 证据到判断
 > - **链节一 哲学层面的转向（Philosophical Turn）**
@@ -166,7 +169,7 @@ issuing_organization: ""
 >   > 2. **多维信念系统（Dimensional Models）**Schommer (1990) 打破了阶段论同步发展的局限，主张认识论是由多个可独立异步变化的信念维度构成的。随后，[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 进一步将这些多维信念提炼聚合为四大核心维度：[[Simplicity of Knowledge|知识的简单性]]与确定性（关于知识的本质）、[[Source of Knowledge|知识的来源]]与确证（关于认知的本质）。
 >   > 3. **量化测量的繁荣与脱域隐患** 多维模型的提出催生了高度标准化的自陈量表（如 Schommer 编制的认识论[[Questionnaire|问卷]]（Epistemological Questionnaire, EQ））。虽然这些工具通过将信念转化为客观分数极大推动了该领域的[[Quantitative Research|量化研究]]，但也由于其严重脱离具体实践情境的测量设计，遗留了将认知误视为一种稳定“特质（trait）”的理论隐患，并持续面临心理测量学上[[Construct Validity|构念效度]]不佳的批评。
 > - **链节三 发展心理学的前置补全（Developmental Foundations）**
->   儿童并不像早期理论[[Hypothesis|假设]]的那样缺乏认识论认知。幼儿在四个底层维度展现了极早期的发育：
+>   儿童并不像早期理论[[Hypothesis|假设]]的那样缺乏[[Epistemic Cognition|认识论认知]]。幼儿在四个底层维度展现了极早期的发育：
 >   > [!info] 四大底层维度解析
 >   > 1. **[[Theory of Mind|心智理论]]（theory of mind）** 理解他人不仅拥有独立的心理状态，且可能持有与现实不符的“错误信念”（false belief，约 5 岁显现）。这构成了日后评估知识主张来源的直接认知底座。
 >   > 2. **因果推理（causal reasoning）** 儿童并非只能被动接受知识。到 8 至 9 岁时，他们已经能够清晰区分通过“推断（inference）”得出的结论与纯粹的“猜测”或直接的“知觉观察”之间的本质差别。
@@ -253,22 +256,28 @@ issuing_organization: ""
 ### 论证步骤六 迈向整合的多元主义
 
 > [!claim] 步骤六主张
-> 面对严重的学科割裂，研究需要采取[[Integrative Pluralism|整合的多元主义]]视角，协同多层级模型，打通校内外语境。
+> 面对上述本体论、情境性、发展观与方法论的四大深度撕裂，任何试图建立“大一统理论（grand unifying theory）”的尝试都注定失败。作者呼吁，该领域必须走向一种[[Integrative Pluralism|整合的多元主义]]（integrative pluralism），通过在多个“聚合层级”上协同作战，来统合当前碎片化的[[Paradigm|研究范式]]。
 
-> [!chain-link] 证据到判断
-> - **链节一 拥抱整合的多元主义**
->   不再强求大一统理论，而是在个体、个体交互、活动系统三个聚合层级上分别建立解释并相互沟通。
-> - **链节二 弥合学校与社会的语境鸿沟**
->   将学校中通过高度脚手架训练出的学科认识论，转化并迁移到真实世界。
-> - **链节三 匹配测量工具**
->   对显性的[[Metacognition|元认知]]目标使用问卷；对缄默的实践则深入真实语境进行多模态分析。
+> [!chain-link] 从割裂走向整合的论证路径
+> - **链节一 承认“多层级聚合”的解释合法性**
+>   作者指出，建构主义和情境主义的本体论之争，本质上是因为它们关注的是不同的“聚合层级（levels of aggregation）”。要实现理论和解，必须停止跨层级的盲目攻击，承认各范式在其特有层级上的合法性：
+>   1. **个体层级（Individual）** 聚焦学生头脑内部（如认知心理学），探讨个体如何调配内部的“认识论资源”。
+>   2. **人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动，探讨学生在小组合作中如何与他人动态协商、确立共同的认识论标准（epistemic aims）。
+>   3. **活动系统层级（Activity System）** 聚焦宏观的社会文化环境，探讨课堂、学校或科学共同体层面的制度规范与集体性的“认识论氛围（epistemic climate）”。
+> - **链节二 跨层级理论缝合与方法论匹配**
+>   整合并非简单的折中拼凑，而是要建立层级间的因果解释链条——探究宏观的课堂认识论氛围（层级三）如何影响学生的小组对话机制（层级二），进而重塑个体的认知资源（层级一）。在方法论上，严格遵循“测量工具与分析层级相匹配”的原则：对于个体层级的显性[[Metacognition|元认知]]目标，可以优化访谈等自我报告；而对于系统层级的缄默实践，则必须深入真实活动进行多模态的[[Discourse Analysis|话语分析]]。
+> - **链节三 弥合学校规训与真实世界的语境鸿沟**
+>   最后，作者指出了一个更为深远的外部断层：当前研究高度集中于学校内部的“学科认知（如要求学生像科学家一样思考）”，这往往依赖于教师提供的高度脚手架（scaffolding）。然而，当学生离开学校进入复杂的“公民生活（civic life）”时（如评估医疗建议、判断政治新闻），这些学科特异性的认知标准能否顺利迁移？未来的整合不仅要打通内部理论范式，更要打通“学校学科情境”与“日常公民情境”的断层。
+
+> [!critique-logic] 理论反思 打破大一统理论的执念
+> Sandoval 的结论具有强烈的反思意味：我们不需要、也不可能创造出一个能同时解释神经突触放电、个人潜意识信念和全球科学共同体运作的绝对统一的[[Epistemological Theories|认识论理论]]。真正的科学进步，在于清醒地认识到不同视角的抽象边界，用[[Integrative Pluralism|整合的多元主义]]代替相互排斥的[[Paradigm Wars|范式战争]]。
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **深扒四大理论断层** 首次系统梳理了横亘在[[Epistemic Cognition|认识论认知]]研究中的四大断层线：知识的概念化分歧、领域普遍性与情境性之争、发展轨迹的合法性危机，以及测量方法论的割裂。
+> 1. **深扒四大理论断层** 首次系统梳理了横亘在[[Epistemology|认识论]]认知研究中的四大断层线：知识的概念化分歧、领域普遍性与情境性之争、发展轨迹的合法性危机，以及测量方法论的割裂。
 > 2. **多学科渊源重构** 明确当前研究是哲学[[Epistemology|认识论]]转向、个人认识论、发展心理学以及学科教育研究的多源流交汇，打破单一心理学框架的孤立感。
 > 3. **整合多元主义倡议** 呼吁采用[[Integrative Pluralism|整合的多元主义]]，在个体、个体交互及活动系统三个层面统合，抛弃低[[Reliability|信度]]量表，转向真实情境的混合测量。
 
@@ -281,16 +290,16 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 整合多元主义的必要性
-> 鉴于[[Epistemic Cognition|认识论认知]]现被视为发生于极其广泛的情境之中，以及关于其如何发生的各种不同视角，对这些无数情境中发现的整合，理应成为下个世纪研究的核心焦点。进展取决于对当前研究趋势的拓展，显而易见，要在多重分析层级上整合理论解释，必须对这些层级本身有清晰的阐述。（p. 480）
+> 鉴于[[Epistemology|认识论]]认知现被视为发生于极其广泛的情境之中，以及关于其如何发生的各种不同视角，对这些无数情境中发现的整合，理应成为下个世纪研究的核心焦点。进展取决于对当前研究趋势的拓展，显而易见，要在多重分析层级上整合理论解释，必须对这些层级本身有清晰的阐述。（p. 480）
 >
-> *Given the scope of contexts where epistemic cognition is now seen to occur and the various perspectives on how it happens, integration of findings from these myriad contexts should be a major focus of research in the coming century. Progress toward an [[Integrative Pluralism]] of [[Accounts]] of epistemic cognition can occur through an expansion of current trends in epistemic cognition research. Obviously, to integrate theoretical accounts across multiple levels of analysis requires an articulation of the levels.*
+> *Given the scope of contexts where [[Epistemic Cognition]] is now seen to occur and the various perspectives on how it happens, integration of findings from these myriad contexts should be a major focus of research in the coming century. Progress toward an [[Integrative Pluralism]] of [[Accounts]] of epistemic cognition can occur through an expansion of current trends in epistemic cognition research. Obviously, to integrate theoretical accounts across multiple levels of analysis requires an articulation of the levels.*
 
 ---
 
 ## 教育启示
 
 > [!implication]- 打通学校化与非学校化语境
-> [[Epistemic Cognition|认识论认知]]的干预不应仅停留在提高学术成绩。最大的挑战在于跨语境迁移：学生在课堂中学会的评价相互冲突的主张的能力，很少能带入日常生活中。如何让具备高阶认识论认知的公民，在离开学校后，面对网络上真假难辨的社会科学争议时，依然能自如地调用复杂的来源评估（source evaluation）与证据质询技能，是教育设计必须正视的议题。这要求教师本身对科学[[Praxis|实践]]具备极深的[[Epistemology|认识论]]校准。
+> [[Epistemology|认识论]]认知的干预不应仅停留在提高学术成绩。最大的挑战在于跨语境迁移：学生在课堂中学会的评价相互冲突的主张的能力，很少能带入日常生活中。如何让具备高阶[[Epistemic Cognition|认识论认知]]的公民，在离开学校后，面对网络上真假难辨的社会科学争议时，依然能自如地调用复杂的来源评估（source evaluation）与证据质询技能，是教育设计必须正视的议题。这要求教师本身对科学[[Praxis|实践]]具备极深的[[Epistemology|认识论]]校准。
 
 ---
 

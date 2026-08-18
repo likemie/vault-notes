@@ -6,7 +6,7 @@ aliases:
 summary: "心理学与哲学概念附加探究和寻求发现过程中的目标。决定了其他认知活动是否属于认识论范畴。"
 type: concept
 domain: "educational-psychology"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -71,4 +71,4 @@ updated: 2026-08-18
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 将认识目标作为扩展[[Epistemic Cognition|认识论认知]]框架的首要组件，强调其核心性和情境特异性。
+> - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 将认识目标作为扩展[[Epistemology|认识论]]认知框架的首要组件，强调其核心性和情境特异性。

@@ -12,10 +12,10 @@ theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
 tags: []
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
   - "[[Consequential Validity]]"
   - "[[Analytic Framework]]"
-  - "[[Epistemology]]"
   - "[[Epistemological Naturalism]]"
   - "[[Epistemic Aims]]"
   - "[[Epistemic Value]]"
@@ -48,7 +48,7 @@ updated: 2026-08-18
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 个体的[[Epistemic Cognition|认识论认知]]（Epistemic Cognition）涵盖的信念与性情维度的全貌。
+> - **解释对象** 个体的[[Epistemology|认识论]]认知（[[Epistemic Cognition]]）涵盖的信念与性情维度的全貌。
 > - **理论问题** 回应了以往心理学认识论认知模型维度过少与测量粒度过粗导致预测学习[[Consequential Validity|结果效度]]偏低的问题。
 > - **理论类型** [[Analytic Framework|分析框架]]。
 > - **知识位置** 教育心理学与哲学[[Epistemology|认识论]]交叉领域，系统吸收了[[Virtue Epistemology|美德认识论]]、[[Reliabilism|可靠主义]]与[[Epistemological Naturalism|自然化认识论]]的理论资源。
@@ -75,9 +75,9 @@ updated: 2026-08-18
 
 ## 核心命题与机制
 
-> [!proposition-chain] 核心命题一｜[[Epistemic Cognition|认识论认知]]是一个包含五个交互组件的多维网络
+> [!proposition-chain] 核心命题一｜[[Epistemology|认识论]]认知是一个包含五个交互组件的多维网络
 > - **前提** 当代哲学[[Epistemology|认识论]]的[[Research Scope|研究范围]]远广于心理学以往关注的确定性、复杂性、来源、确证等维度。[[Epistemological Naturalism|自然化认识论]]促使研究转向具体的认知生成[[Praxis|实践]]。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 145)]]
-> - **推导** 整合自然主义认识论、[[Virtue Epistemology|美德认识论]]与[[Reliabilism|可靠主义]]等哲学基础，认识论认知被扩展为涵盖目标与价值、结构、来源确证与立场、美德与恶习、可靠过程的五组件模型。
+> - **推导** 整合自然主义认识论、[[Virtue Epistemology|美德认识论]]与[[Reliabilism|可靠主义]]等哲学基础，[[Epistemic Cognition|认识论认知]]被扩展为涵盖目标与价值、结构、来源确证与立场、美德与恶习、可靠过程的五组件模型。
 
 > [!proposition-chain] 核心命题二｜认识论认知具有高度的情境特异性和细粒度特征
 > - **前提** 认识要素的有效性依附于情境。对来源或确证的判断随情境改变，物理学中的因果模型与历史课中的事实论证遵循不同的[[Epistemic Forms|认识论形式]]。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 155)]]

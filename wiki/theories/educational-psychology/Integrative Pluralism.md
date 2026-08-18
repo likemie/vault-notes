@@ -16,7 +16,7 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: []
 related_concepts:
-  - "[[Epistemic Cognition]]"
+  - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Ontology]]"
   - "[[Dialogue in Education]]"
@@ -45,5 +45,5 @@ updated: 2026-08-18
 
 > [!concept-lens] 概念透镜
 > - **含义** 理论上的“求同存异”与多维并进。
-> - **用途** 用于化解[[Epistemic Cognition|认识论认知]]研究中个体[[Constructivist Paradigm|建构主义]]与社会文化视角的[[Ontology|本体论]]对立，推动领域理论的有效累积与[[Dialogue in Education|对话]]。
+> - **用途** 用于化解[[Epistemology|认识论]]认知研究中个体[[Constructivist Paradigm|建构主义]]与社会文化视角的[[Ontology|本体论]]对立，推动领域理论的有效累积与[[Dialogue in Education|对话]]。
 > - **边界** 并非简单的“什么都行（Anything goes）”的相对主义，而是要求研究者清楚自己研究的具体层级，并主动寻求跨层级的因果对话与解释连贯性。

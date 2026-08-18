@@ -55,7 +55,7 @@ updated: 2026-08-15
 > - **知识位置** 个人认识论（personal epistemology）研究。
 
 > [!claim] 核心主张
-> EOC 模型主张将关于知识本质（简单性与确定性）的信念独立为“[[Ontology|本体论]]认知”（ontological cognition），将关于知识的证成（辩护机制）保留为“[[Epistemic Cognition|认识论认知]]”（epistemic cognition）。通过个体在这几个具体维度上的量化得分轮廓（profile），可以有效对应并划分出其所处的质性发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者），并容纳[[Domain Specificity|领域特殊性]]差异。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 237-238)]]
+> EOC 模型主张将关于知识本质（简单性与确定性）的信念独立为“[[Ontology|本体论]]认知”（ontological cognition），将关于知识的证成（辩护机制）保留为“[[Epistemic Cognition|认识论认知]]”（[[Epistemic Cognition]]）。通过个体在这几个具体维度上的量化得分轮廓（profile），可以有效对应并划分出其所处的质性发展阶段（[[Realism in International Relations|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations|理性主义]]者），并容纳[[Domain Specificity|领域特殊性]]差异。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 237-238)]]
 
 ---
 

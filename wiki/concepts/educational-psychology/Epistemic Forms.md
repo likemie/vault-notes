@@ -6,7 +6,7 @@ aliases:
 summary: "特定的、细粒度的知识组织结构，如列表、树状图、阶段模型或因果机制，用于指导探究和知识建构。"
 type: concept
 domain: "educational-psychology"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,7 +14,6 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Epistemic Cognition]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -55,4 +54,4 @@ updated: 2026-08-18
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 强调在[[Epistemic Cognition|认识论认知]]的“知识结构”维度中，测量学生对特定“[[Epistemology|认识论]]形式”的掌握程度，比测量其对“知识复杂性”的泛泛认同具有强得多的行为预测力。
+> - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 强调在[[Epistemology|认识论]]认知的“知识结构”维度中，测量学生对特定“[[Epistemology|认识论]]形式”的掌握程度，比测量其对“知识复杂性”的泛泛认同具有强得多的行为预测力。

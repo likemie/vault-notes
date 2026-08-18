@@ -6,7 +6,7 @@ aliases:
 summary: "个体在认知实践中表现出的隐性或无法言传的认识论倾向，常通过行为而非口头报告体现。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -15,9 +15,9 @@ citation_aliases:
 isbn: ""
 tags: []
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
   - "[[Predictive Validity]]"
-  - "[[Epistemology]]"
   - "[[Epistemic Aims]]"
   - "[[Epistemological Naturalism]]"
   - "[[Causal Processes]]"
@@ -78,7 +78,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 心理学中现有的[[Epistemic Cognition|认识论认知]]（epistemic cognition）模型在预测学习过程和结果时，常表现出较低的[[Predictive Validity|预测效度]]（predictive validity）。如何基于当代哲学[[Epistemology|认识论]]（epistemology）视角，系统证明现有模型遗漏的关键维度，并论证引入细粒度（fine-grained）和情境敏感（context-specific）的新维度能显著提高理论的解释力与预测力？
+> 心理学中现有的[[Epistemology|认识论]]认知（[[Epistemic Cognition]]）模型在预测学习过程和结果时，常表现出较低的[[Predictive Validity|预测效度]]（predictive validity）。如何基于当代哲学[[Epistemology|认识论]]（epistemology）视角，系统证明现有模型遗漏的关键维度，并论证引入细粒度（fine-grained）和情境敏感（context-specific）的新维度能显著提高理论的解释力与预测力？
 
 > [!claim] 核心主张
 > 现有的多维认识论认知模型过于宽泛且存在遗漏。基于当代哲学的合法性辩护以及教育心理学的效用辩护，确立一个包含五个组件的扩展网络：[[Epistemic Aims|认识目标]]（epistemic aims）与价值、知识结构、来源与确证与立场、美德与恶习、可靠过程。
@@ -277,7 +277,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **双重辩护方法论的成功确立** 打破了以往构建[[Epistemic Cognition|认识论认知]]模型时缺乏严格哲学根基的状态。通过引入哲学合法性与心理学预测效用的双重辩护，为所有认知理论的扩充确立元标准。
+> 1. **双重辩护方法论的成功确立** 打破了以往构建[[Epistemology|认识论]]认知模型时缺乏严格哲学根基的状态。通过引入哲学合法性与心理学预测效用的双重辩护，为所有认知理论的扩充确立元标准。
 > 2. **粗粒度测量导致低[[Predictive Validity|预测效度]]** 揭示依赖高度概括的[[Questionnaire|问卷]]题目会掩盖学习者真实的思维分歧。只有当测量粒度下钻到具体的情境化微观结构（如特定的因果模型与具体的信任理由），理论才能准确干预学习。
 > 3. **五组件扩展框架的系统整合** 整合此前游离的模型，将[[Epistemic Aims|认识目标]]与价值、多维知识结构、社会化证词与确证、[[Epistemic Virtues and Vices|认识论美德与恶习]]、可靠[[Causal Processes|因果过程]]评估深度咬合为全新分析网络。
 
@@ -285,8 +285,8 @@ issuing_organization: ""
 
 ## 教育启示
 
-> [!implication]- [[Epistemic Cognition|认识论认知]]作为学科学习的底层操作系统
-> 认识论认知绝非悬浮于具体内容之外的抽象哲学观念，而是直接支持学科深度学习的核心认知脚手架。当细化到特定学科的微观层面时，便转化为处理学科信息的操作系统：
+> [!implication]- [[Epistemology|认识论]]认知作为学科学习的底层操作系统
+> [[Epistemic Cognition|认识论认知]]绝非悬浮于具体内容之外的抽象哲学观念，而是直接支持学科深度学习的核心认知脚手架。当细化到特定学科的微观层面时，便转化为处理学科信息的操作系统：
 > - **提供学科专属的图式工具** 掌握生物学中特定的机制结构图式，能自动寻找实体与触发条件，极大提升知识组织效率。
 > - **指导复杂信息的加工策略** 具备评估实证共识的细粒度[[Justificatory Standards|确证标准]]，能在面对冲突信息时采取验证与比对策略。
 > - **塑造攻克学科难点的韧性** 求真的[[Epistemic Aims|认识目标]]与理智勇气，为克服高昂认知成本提供了心理底座。
@@ -298,7 +298,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> 个体层面的[[Epistemic Cognition|认识论认知]]得到了基于双重辩护的充分论证，而社会层面的知识在群体动态中的实际传播、认识[[Praxis|实践]]在群体层面的聚集探讨仍显不足。未来需要在[[Constructivist Paradigm|建构主义]]学习环境中考察学习者群体的互动。
+> 个体层面的[[Epistemology|认识论]]认知得到了基于双重辩护的充分论证，而社会层面的知识在群体动态中的实际传播、认识[[Praxis|实践]]在群体层面的聚集探讨仍显不足。未来需要在[[Constructivist Paradigm|建构主义]]学习环境中考察学习者群体的互动。
 
 ---
 
