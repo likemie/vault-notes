@@ -2381,6 +2381,9 @@ Total entries: **1863**
 > - [[Argument_Hofer_1997_RER]] — 整理和比较了教育心理学中六种认识论信念发展模型，并提出涵盖四维度的认识论理论作为该领域的核心构念。
 > - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现“evidence-based“在清算中心语境中构念效度有限
 
+> [!index-list]- Review of Research in Education (1)
+> - [[Argument_Sandoval_2016_RRE]] — 对认识论认知研究的历史溯源、四大核心断层线（知识概念化、情境性、发展轨迹、测量方法）的系统梳理，并呼吁迈向整合的多元主义范式。
+
 > [!index-list]- Scholarship of Teaching and Learning in Psychology (1)
 > - [[Argument_Hattie_2015_SOTLP]] — 将 VL 框架应用于高等教育：PBL 低效（d≈0.08）、在线 vs 面授无差异（d≈0.12）、提出六项关键发现、DIE 模型和八项教师思维框架
 
@@ -2409,9 +2412,6 @@ Total entries: **1863**
 
 > [!index-list]- The Sociological Review (1)
 > - [[Argument_Ball_2008_SR]] — 以Bernstein、Foucault和Bourdieu为工具重写英国教育社会学史，说明教育社会学如何通过不同研究目光把家庭、学校知识和学校管理转化为治理对象
-
-> [!index-list]- Unknown Journal (1)
-> - [[Argument_Sandoval_2016_RRE]] — 对认识论认知研究的历史溯源、四大核心断层线（知识概念化、情境性、发展轨迹、测量方法）的系统梳理，并呼吁迈向整合的多元主义范式。
 
 > [!index-list]- Zeitschrift für Erziehungswissenschaft (1)
 > - [[Argument_Wecker_2016_ZfE]] — 以固定效应模型数学基础推导 6 项二级元分析方法论要求，对 Hattie Visible Learning 进行系统性的内部+外部方法论批判，提出中央证据数据库方案
