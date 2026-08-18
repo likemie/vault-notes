@@ -6,10 +6,10 @@ aliases:
 summary: "一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 10
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 23
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "educational-psychology"
 related_count: 0
 related_level: 0
