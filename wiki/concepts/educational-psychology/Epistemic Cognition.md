@@ -6,7 +6,7 @@ aliases:
 summary: "心理学概念附加个体关于知识和认知过程的所有显性或隐性信念与认知。是理解学习过程的重要预测变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
