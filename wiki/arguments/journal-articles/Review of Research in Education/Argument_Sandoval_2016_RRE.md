@@ -150,7 +150,12 @@ issuing_organization: ""
 > - **链节二 个人认识论的演进（Evolution of Personal Epistemology）**
 >   发端于 Perry 对大学生“双元论—多元论—相对主义”的线性发展阶段（developmental models）刻画；随后，Schommer (1990) 以及 Hofer and Pintrich (1997)引入了多维信念系统（dimensional models），将认识论解构为[[Simplicity of Knowledge|知识的简单性]]、确定性、来源与确证等多个可独立变化的信念维度。高度标准化的自陈量表（如认识论[[Questionnaire|问卷]]（Epistemological Questionnaire, EQ））极大推动了该领域的[[Quantitative Research|量化研究]]，但也遗留了将认知视为脱离情境的稳定特质的理论隐患。
 > - **链节三 发展心理学的前置补全（Developmental Foundations）**
->   儿童并不像早期理论[[Hypothesis|假设]]的那样缺乏认识论认知。幼儿在四个底层维度展现了极早期的发育：通过[[Theory of Mind|心智理论]]（theory of mind）理解他人的错误信念；发展出区分猜测与严密推理的因果推理（causal reasoning）能力；在科学思维中初步分离主张与证据；以及在社会认知（social cognition）中表现出对社会证词（testimony）并非盲从，而是基于过往准确度进行选择性信任（selective trust）的高阶能力。
+>   儿童并不像早期理论[[Hypothesis|假设]]的那样缺乏认识论认知。幼儿在四个底层维度展现了极早期的发育：
+>   > [!info] 四大底层维度解析
+>   > 1. **[[Theory of Mind|心智理论]]（theory of mind）** 理解他人不仅拥有独立的心理状态，且可能持有与现实不符的“错误信念”（false belief，约 5 岁显现）。这构成了日后评估知识主张来源的直接认知底座。
+>   > 2. **因果推理（causal reasoning）** 儿童并非只能被动接受知识。到 8 至 9 岁时，他们已经能够清晰区分通过“推断（inference）”得出的结论与纯粹的“猜测”或直接的“知觉观察”之间的本质差别。
+>   > 3. **科学思维（scientific thinking）** 幼儿在学龄前就已经表现出初步将“主张（claims）”与支持该主张的“证据（evidence）”分离为两个独立实体的能力，而非将其视为同一事物。
+>   > 4. **社会认知（social cognition）** 儿童高度依赖社会证词（testimony）获取知识，但绝非盲信。实证表明，3 至 4 岁的幼儿就已经能够基于信息提供者过去的“准确度记录”来施予“选择性信任（selective trust）”。
 > - **链节四 学科教育的情境化深化（Disciplinary Education）**
 >   科学、历史等具体学科领域的研究表明，知识与认知高度嵌入在学科特有的实践活动中。例如，历史学家的[[Justificatory Standards|确证标准]]依赖于史料的交叉印证，而科学则依赖机制与证据的因果验证。更极端的实证表明，研究者甚至能在阅读同一文本时，于“学术标准”与“宗教标准”之间自如切换。这些发现强有力地证明了[[Justificatory Standards|确证标准]]具有极强的[[Domain Specificity|领域特异性]]与情境敏感性，直接挑战了抽象且普遍的个人认识论模型。
 

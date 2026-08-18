@@ -23,6 +23,7 @@ related_concepts:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
+  - "[[Constant Comparison]]"
   - "[[Quantitative Research]]"
   - "[[Triangulation]]"
   - "[[Member Checking]]"
@@ -42,7 +43,7 @@ updated: 2026-06-23
 > [!def] 核心定义
 > 负面案例分析（negative case analysis）是在[[Qualitative Research|质性研究]]中系统审视那些不符合、不支持或与正在形成的理论、[[Hypothesis|假设]]或模式相矛盾的案例或数据的过程。其目的是通过不断修正理论以包容所有案例，最终建立一个"适合每一个案例"的理论。
 
-负面案例分析源自 Glaser & Strauss (1967) 的[[Grounded Theory|扎根理论方法]]论中的**持续比较法（constant comparative method）**。它与简单寻找"反例"的区别在于：负面案例分析是主动的、系统性的研究策略——研究者不是等待反例出现，而是主动寻找和检验反例。
+负面案例分析源自 Glaser & Strauss (1967) 的[[Grounded Theory|扎根理论方法]]论中的**[[Constant Comparison|持续比较法]]（constant comparative method）**。它与简单寻找"反例"的区别在于：负面案例分析是主动的、系统性的研究策略——研究者不是等待反例出现，而是主动寻找和检验反例。
 
 ## 概念辨析
 

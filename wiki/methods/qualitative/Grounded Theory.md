@@ -26,6 +26,8 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Theoretical Sampling]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Constant Comparison]]"
+  - "[[Content Analysis]]"
   - "[[Qualitative Computer Software]]"
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
@@ -45,8 +47,8 @@ related_methods:
   - "[[Constant Comparison]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -65,7 +67,7 @@ updated: 2026-08-16
 > [!example]
 > - 采用[[Theoretical Sampling|理论抽样]]（[[Theoretical Sampling]]），根据理论发展的需要选择后续参与者或数据来源。
 > - 通过开放式[[Coding in Qualitative Research|编码]]（open coding）、主轴编码（axial coding）和选择性编码（selective coding）的多阶段过程分析数据。
-> - 持续比较法（constant comparison），在数据收集和分析之间不断来回，精炼类别及其关系。
+> - [[Constant Comparison|持续比较法]]（constant comparison），在数据收集和分析之间不断来回，精炼类别及其关系。
 > - 撰写备忘录（memoing）记录理论构建过程中的想法和决定。
 > - 当新数据不再产生新的理论见解时达到[[Saturation|理论饱和]]（[[Saturation|theoretical saturation]]）。
 
@@ -74,7 +76,7 @@ updated: 2026-08-16
 ## 计算机辅助与系统性分析
 
 > [!info] 系统[[Coding in Qualitative Research|编码]]直到理论浮现
-> 扎根理论分析与内容分析通过一系列系统分析，包括[[Coding in Qualitative Research|编码]]与类别化，直到浮现出解释所研究现象或可用于预测目的的理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
+> 扎根理论分析与[[Content Analysis|内容分析]]通过一系列系统分析，包括[[Coding in Qualitative Research|编码]]与类别化，直到浮现出解释所研究现象或可用于预测目的的理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.2)]]
 
 > [!info] 计算机辅助扎根理论的生成
 > Lonkila（1995）说明计算机如何通过编码、持续比较、联系、备忘录、注释与追加、使用图表、验证，最终生成与建构理论来辅助扎根理论的生成。Kelle（2000, p. 295）的软件使用六步序列以发展核心范畴收尾，而核心范畴正是扎根理论的特征。软件与[[Qualitative Computer Software|CAQDAS]]的关系也提示：软件可能更贴近扎根理论技术而非诠释学或[[Discourse Analysis|话语分析]]等其他技术（Coffey et al., 1996）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, 28.4)]]
@@ -93,7 +95,7 @@ updated: 2026-08-16
 
 > [!tip]-
 > - [[Constructivist Grounded Theory]] — Charmaz (2006) 发展的[[Constructivist Paradigm|建构主义]]版本，更强调研究者与参与者在意义建构中的共同作用，强调理论的建构性而非发现式生成。
-> - [[Constant Comparison|持续比较]] — 扎根理论的核心分析技术，把新获取数据与既有数据、类别和理论不断比较，用负面案例修正类别直至完全容纳数据；本书第33章将专门讨论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
+> - 持续比较 — 扎根理论的核心分析技术，把新获取数据与既有数据、类别和理论[[Constant Comparison|不断比较]]，用负面案例修正类别直至完全容纳数据；本书第33章将专门讨论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.5)]]
 > - vs [[Phenomenology|现象学]] — 现象学聚焦于描述某一现象的本质体验，扎根理论的目标是生成解释过程或行动的理论。
 > - vs [[Ethnography]] — 民族志聚焦于描述整个文化群体的共享模式，扎根理论则聚焦于某一具体过程或行动。
 

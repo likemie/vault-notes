@@ -23,25 +23,30 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Epistemological Understanding]]"
-  - "[[Evaluativist]]"
   - "[[Reflective Thinking]]"
   - "[[Praxis]]"
   - "[[Operationalization]]"
   - "[[Knowledge Questions]]"
   - "[[Construct Validity]]"
-  - "[[Multiplist]]"
+  - "[[Growth]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
+  - "[[Evaluativist]]"
+  - "[[Multiplist]]"
   - "[[IB Diploma Programme]]"
+  - "[[Questionnaire]]"
+  - "[[Extended Essay]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Deanna Kuhn]]"
+  - "[[Thomas Kuhn]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
 related_facts: []
@@ -201,7 +206,7 @@ updated: 2026-08-16
 > **术语表演与发展边界** 当评分标准依赖特定分析词汇时，学生可能通过罗列课程术语和套用反思表达获得分数。与此同时，高中生可能尚未发展出比较不同来源证据并阐明决策标准的能力。评估设计应区分术语使用、一般认知发展和真实的批判性判断表现。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–174)]]
 
 > [!claim] Bergeron, L.
-> **主观评估的实操困境** 即使课程在构念覆盖上设计良好，在教学实操层面，“评估学生批判性思维的进展”（Mean=3.56/5，排名第一）依旧是教师面临的最大痛点。探究性思维缺乏绝对标准答案，而学生长期受传统体系影响往往索要数字化的绝对分数，这种隐性认知转变与显性量化评分的摩擦，构成了评估批判性思维的普遍挑战。[[Argument_Bergeron_2015_TeachingTOK|(Bergeron, 2015, pp. 18, 33)]]
+> **主观评估的实操困境** 即使课程在构念覆盖上设计良好，在教学实操层面，“评估学生批判性思维的进展”（Mean=3.56/5，排名第一）依旧是教师面临的最大痛点。探究性思维缺乏绝对标准答案，而学[[Growth|生长]]期受传统体系影响往往索要数字化的绝对分数，这种隐性认知转变与显性量化评分的摩擦，构成了评估批判性思维的普遍挑战。[[Argument_Bergeron_2015_TeachingTOK|(Bergeron, 2015, pp. 18, 33)]]
 
 ### 命题五　批判性思维的动机受制于个体的认识论发展阶段
 
@@ -267,7 +272,7 @@ updated: 2026-08-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | N=129名成人/青少年 | 跨领域[[Epistemology\|认识论]]评估测试 | 不同群体的认识论水平 | 在代表成人精英的群体（EMBA高管等）中，能在价值观领域达成[[Evaluativist\|评价论]]并具备批判论辩意愿的仅占 22%，绝大多数停滞于[[Multiplist\|多元论]]。 | 差异极其显著 | 样本中专家组与非专家组产生结构性断层。 |
-> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron (2015)]] | N=960 名全球 IBDP 教师 | 量化问卷调查 | 批判性思维的跨情境迁移与溢出效应 | 在开放式编码中，教师反馈“批判性思维”是在其他科目（441次）、拓展论文（154次）和大学学业（226次）中最高频出现的溢出益处。 | — | 证实了该构念在显性教学后的可迁移性，但高度依赖自我报告数据。 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron (2015)]] | N=960 名全球 [[IB Diploma Programme\|IBDP]] 教师 | 量化[[Questionnaire\|问卷调查]] | 批判性思维的跨情境迁移与溢出效应 | 在开放式[[Coding in Qualitative Research\|编码]]中，教师反馈“批判性思维”是在其他科目（441次）、[[Extended Essay\|拓展论文]]（154次）和大学学业（226次）中最高频出现的溢出益处。 | — | 证实了该[[Construct\|构念]]在显性教学后的可迁移性，但高度依赖自我报告数据。 |
 
 ---
 

@@ -62,14 +62,14 @@ updated: '2026-05-23'
 
 在 1970 年代末之前，几乎没有关于西方与东亚学习者学习信念或成就动机的比较研究。David McClelland 于 1963 年宣称传统中国人缺乏成就动机，但共产主义意识形态赋予了他们革命热情。此后近二十年间该领域沉寂，直到[[International Education|国际教育]]成就评估显示日本学生在数学和科学上的表现超越许多西方国家，这一意外结果才催生了对东亚学校和儿童学习的研究兴趣([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])。
 
-Stevenson and Stigler 发起了长达十年的标志性跨国研究，克服了多国多语言研究的巨大挑战，自行构建数学成就测试以控制偏差，收集儿童和家长[[Questionnaire|问卷]]，观察课堂教学，访谈教师([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
+[[Stevenson and Stigler]] 发起了长达十年的标志性跨国研究，克服了多国多语言研究的巨大挑战，自行构建数学成就测试以控制偏差，收集儿童和家长[[Questionnaire|问卷]]，观察课堂教学，访谈教师([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> Stevenson and Stigler 的核心发现([[Argument_Li_2012_Cambridge|Li, 2012, p.79]])：
+> [[Stevenson and Stigler]] 的核心发现([[Argument_Li_2012_Cambridge|Li, 2012, p.79]])：
 
 ### 归因差异
 - 美国学生、家长和教师以**能力观念**解释儿童的[[Academic Achievement|学业成就]]——与 [[Western Learner|西方学习者]]模型 中"区分最有能力者与普通者"的核心倾向一致([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
@@ -91,7 +91,7 @@ Stevenson and Stigler 发起了长达十年的标志性跨国研究，克服了�
 > [!success]
 > ### 后续研究深化
 
-Stevenson and Stigler 的研究激发了更多比较研究：
+[[Stevenson and Stigler]] 的研究激发了更多比较研究：
 
 - **Seishin and Gambaru** 美国研究者发现日本学习者使用文化特定的概念来描述能力与[[Conatus|努力]]，如 seishin（帮助人们应对任务的心理态度）和 gambaru（"对坚持的内在益处的积极取向"）([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
 - **努力作为稳定因素** 香港研究者发现，在西方动机[[Document|文献]]中被定义为"内部但不稳定"因素的努力，对[[Chinese Learner|中国学习者]]而言是跨时间和跨情境的稳定因素——中国学生相信他们需要对所有学习任务始终付出努力([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])

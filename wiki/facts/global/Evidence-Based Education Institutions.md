@@ -24,6 +24,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Effect Size]]"
   - "[[Paradigm]]"
+  - "[[Theory of Mind]]"
   - "[[Document]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -158,7 +159,7 @@ updated: 2026-07-14
 > [!ref-table] 从业者网络
 > | 机构 | 简介 |
 > |---|---|
-> | [研究证据教育运动](https://researched.org.uk/) [[ResearchED]] | Tom Bennett 于 2013 年在英国创立的教师草根运动，以年会和工作坊形式连接教师与研究者，后扩展至全球 |
+> | [研究证据教育运动](https://researched.org.uk/) [[ResearchED]] | [[Theory of Mind\|ToM]] Bennett 于 2013 年在英国创立的教师草根运动，以年会和工作坊形式连接教师与研究者，后扩展至全球 |
 > | [循证教师网络](https://ebtn.org.uk/) [[Evidence-Based Teachers Network]] | 英国循证教学实践的教师网络 |
 > | [有效教育研究所](https://the-eee.org.uk/) [[Institute for Effective Education]] | 英国约克大学旗下的教育[[Intervention Research\|干预研究]]与推广机构 |
 

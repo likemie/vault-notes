@@ -50,6 +50,9 @@ related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_persons:
+  - "[[Louis Cohen]]"
+  - "[[Lawrence Manion]]"
+  - "[[Keith Morrison]]"
   - "[[John W. Creswell]]"
   - "[[J. David Creswell]]"
 confidence: high
@@ -147,7 +150,7 @@ updated: 2026-08-04
 > [!concept-lens] 表述与对应
 > [[Construct|构念]]无法直接观察，任何测量或任务都需要先声明所采用的构念解释，再说明具体操作如何代表该解释。
 
-> [!claim] Cohen, L., Manion, L., & Morrison, K.
+> [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
 > **构念必须得到清晰表述** 构念效度首先要求说明使用一个构念时意味着什么，并检验该表述是否与相关理论和学术共同体的理解相容。削铅笔能力与智力之间缺少合理对应，因而即使测量稳定，也不能支持智力解释。竞争性定义存在时，研究者需要承认分歧并明确当前解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 176)]]
 
 > [!claim] [[John W. Creswell|Creswell, J. W.]], & [[J. David Creswell|Creswell, J. D.]]

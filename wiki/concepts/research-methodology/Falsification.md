@@ -33,7 +33,8 @@ related_concepts:
   - "[[International Baccalaureate]]"
 related_theories:
   - "[[Duhem-Quine Thesis]]"
-related_methods: []
+related_methods:
+  - "[[Content Analysis]]"
 related_persons:
   - "[[Deanna Kuhn]]"
 related_facts: []
@@ -120,7 +121,7 @@ updated: 2026-07-11
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] | Alchin (2003a, 2003b) [[Theory of Knowledge\|TOK]] 教科书 | 教科书内容分析 | 证伪主义的使用方式 | 8/12 练习题以可检验性为区分标准；教科书同时在多处承认证伪局限 | — | 单一教科书分析；属于批判性分析而非量化实证 |
+> | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] | Alchin (2003a, 2003b) [[Theory of Knowledge\|TOK]] 教科书 | 教科书[[Content Analysis\|内容分析]] | 证伪主义的使用方式 | 8/12 练习题以可检验性为区分标准；教科书同时在多处承认证伪局限 | — | 单一教科书分析；属于批判性分析而非量化实证 |
 
 ---
 

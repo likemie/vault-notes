@@ -52,6 +52,7 @@ related_methods:
   - "[[Field Notes]]"
   - "[[Semi-structured Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Narrative Analysis]]"
   - "[[Theoretical Sampling]]"
   - "[[Purposeful Sampling]]"
   - "[[Snowball Sampling]]"
@@ -95,7 +96,7 @@ Gold（1958）提出了观察者角色的经典四层连续体分类（[[Argumen
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study|案例研究]]、[[Critical Ethnography|批判民族志]]、[[Grounded Theory|扎根理论]]民族志、[[Autoethnography|自我民族志]]。
 > - **数据收集** 参与观察、[[Non-participant Observation|非参与观察]]、[[Field Notes|田野笔记]]、[[Semi-structured Interview|半结构化访谈]]、非正式[[Dialogue in Education|对话]]、文档收集、日记和生命史、视听记录。
-> - **分析方法**[[Coding in Qualitative Research|编码]]（实体/描述/理论编码）、[[Domain Analysis|领域分析]]、主题分析、[[Progressive Focussing|逐步聚焦]]、叙事分析、[[Analytic Induction|分析归纳法]]。
+> - **分析方法**[[Coding in Qualitative Research|编码]]（实体/描述/理论编码）、[[Domain Analysis|领域分析]]、主题分析、[[Progressive Focussing|逐步聚焦]]、[[Narrative Analysis|叙事分析]]、[[Analytic Induction|分析归纳法]]。
 > - **辅助技术** 抽样（[[Theoretical Sampling|理论抽样]]、目的抽样、滚雪球）、[[Gatekeepers|守门人]]关系管理、[[Reflexivity|反身性]]日志。
 
 ## 研究程序

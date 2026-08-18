@@ -29,6 +29,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Longitudinal Study]]"
   - "[[Experimental Research]]"
+  - "[[Content Analysis]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
@@ -64,7 +65,7 @@ updated: 2026-05-24
 > 该类型学包含四类验证路径，每一类对应不同证据强度和不同[[Research Question|研究问题]]。
 
 - 专家与佐证验证：由[[Praxis|实践]]者、研究者、设计者等专家分析工具原则与相关性，最好用实证研究、心理教育学或学科教学原则进行佐证；这种验证不等于课堂效果证据，但可说明工具与当前知识状态相容([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.176]])。
-- [[Case Study|案例研究]]或横断研究验证：案例研究可用观察、半结构访谈和内容分析理解工具特征、使用和影响；横断研究可一次性描述某[[Variable|变量]]在群体中的频率及其相关特征([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.176-177]])。
+- [[Case Study|案例研究]]或横断研究验证：案例研究可用观察、半结构访谈和[[Content Analysis|内容分析]]理解工具特征、使用和影响；横断研究可一次性描述某[[Variable|变量]]在群体中的频率及其相关特征([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.176-177]])。
 - 相关或[[Longitudinal Study|纵向研究]]验证：相关研究适合建模自然环境中变量之间的关系；纵向研究通过重复测量观察变化，但不一定使用控制组，[[Pre-test and Post-test|前测]]/后测无控制组研究也被放入此类([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, p.177]])。
 - 实验与准[[Experimental Research|实验研究]]验证：实验和[[Quasi-Experimental Designs|准实验设计]]通过实验处理与控制处理之间的比较来评估工具/项目效果；[[Randomised Controlled Trials|RCT]] 依赖[[Random Assignment|随机分配]]避免选择偏差，匹配准实验则要求控制组在尽可能多的维度上与实验组可比([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.177-178]])。
 

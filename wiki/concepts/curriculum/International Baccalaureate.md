@@ -77,7 +77,7 @@ updated: 2026-08-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **价值观地基（[[IB Learner Profile|Learner Profile]]）** 教育使命被[[Operationalization|操作化]]为 [[IB Learner Profile|IB 学习者特征]]，要求所有课程的开展都致力于培养这十项个人特质 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022)]]。
+> - **价值观地基（[[IB Learner Profile|Learner Profile]]）** 教育使命被[[Operationalization|操作化]]为 IB 学习者特征，要求所有课程的开展都致力于培养这十项个人特质 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022)]]。
 > - **高中文凭项目架构（DP）** 由六个学科组（语言、二外、个体与社会、实验科学、数学与计算机、艺术）与三项核心要素（Core）组成 [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010)]]。
 > - **连贯机制（[[Concurrency of Learning]]）** 要求学科组与核心要素之间打破孤岛，实现强烈的相互链接与[[Concurrency of Learning|并发学习]]，教师需使用通用的[[Approaches to Teaching and Learning|教学与学习方法]]（ATL）来促进跨学科迁移 同上。
 > - **标准化质量评估** 采用内部与外部双重评分机制，建立全球一致的标准，遏制分数膨胀，向大学证明毕业生的资质优良 [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 31)]]。

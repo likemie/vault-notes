@@ -37,6 +37,7 @@ related_methods:
 related_persons:
   - "[[David Watkins]]"
   - "[[John Biggs]]"
+  - "[[Stevenson and Stigler]]"
 related_facts:
   - "[[PISA]]"
 related_arguments:
@@ -128,7 +129,7 @@ updated: '2026-05-23'
 > - [[Surface and Deep Learning]] — 悖论的"低效学习方法"一面涉及对该二分法的跨文化挑战：[[Confucian Heritage Cultures|CHC]] 研究显示"记忆"可以是通往深层理解的路径而非其替代品
 > - [[Cultural Models]] — Li 的研究框架：文化模型影响和引导（但不决定）成员行为，因此 CHC 学习者的行为需要在 CHC 文化模型内而非西方模型内被理解
 > - [[Chinese Learner]] — Li 从儒家文本和实证研究中提炼的系统性学习者画像，为悖论提供了解释框架
-> - [[Learning Gap]] — Stevenson and Stigler 的归因研究发现（[[Conatus|努力]] vs 能力）为悖论提供了认知层面的解释
+> - [[Learning Gap]] — [[Stevenson and Stigler]] 的归因研究发现（[[Conatus|努力]] vs 能力）为悖论提供了认知层面的解释
 
 ---
 

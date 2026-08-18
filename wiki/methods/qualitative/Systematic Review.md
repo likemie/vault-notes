@@ -47,6 +47,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
+  - "[[Content Analysis]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
@@ -107,7 +108,7 @@ updated: 2026-07-17
 > | **元研究** | 对研究的研究进行综合 | — |
 > | **实在论综合** | 关注干预"为什么有效、对谁有效、在什么条件下有效" | — |
 > | **质性数据分析技术** | 基于 Miles & Huberman（1984）的跨案例和案例内分析 | — |
-> | **内容分析** | 对研究内容的系统分析 | — |
+> | **[[Content Analysis\|内容分析]]** | 对研究内容的系统分析 | — |
 > | **案例调查** | 对多个[[Case Study\|案例研究]]的调查综合 | — |
 > | **质性比较分析** | 跨案例的质性比较 | — |
 
