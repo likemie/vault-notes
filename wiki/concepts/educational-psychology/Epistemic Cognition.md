@@ -3,10 +3,10 @@ title: Epistemic Cognition
 aliases:
   - 认识论认知
   - 认识认知
-summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
+summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 19
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,9 +22,7 @@ related_concepts:
   - "[[Epistemic Value]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Causal Processes]]"
-  - "[[Questionnaire]]"
   - "[[Ontology]]"
-  - "[[Constructivist Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
@@ -49,7 +47,7 @@ updated: 2026-08-19
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]认知（Epistemic Cognition）是涵盖所有与认识论（epistemological）或认识（epistemic）事务相关的显性或隐性认知的总括性术语（umbrella term），包括关于知识本质、知识来源、[[Justificatory Standards|确证标准]]、[[Epistemic Aims|认识目标]]等方面的认知与[[Praxis|实践]]。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 141)]] 在当代研究中，它不仅指个体头脑内部的信念，更被扩展为包含社会互动与文化活动系统中的分布式实践。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> [[Epistemology|认识论]]认知（Epistemic Cognition）是涵盖所有与认识论（epistemological）或认识（epistemic）事务相关的显性或隐性认知的总括性术语（umbrella term），包括关于知识本质、知识来源、[[Justificatory Standards|确证标准]]、[[Epistemic Aims|认识目标]]等方面的认知与[[Praxis|实践]]活动。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 141)]] 在当代研究中，它不仅指个体头脑内部的信念，更被扩展为包含社会互动与文化活动系统中的分布式实践活动。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 个体或群体理解知识本质、知识来源以及判断知识为真等观念、倾向与动态调配资源的总和。
@@ -72,10 +70,7 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Causal Processes]]"
-  - "[[Questionnaire]]"
   - "[[Ontology]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[Praxis]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
@@ -100,7 +95,7 @@ related_arguments:
 > [!framework-table] 聚合层级分类
 > | 分析层级 | 关注焦点 | 认识论认知的本体形态 | 研究方法偏好 |
 > |---|---|---|---|
-> | **个体层级（Individual）** | 学生头脑内部的认知结构 | 个体调配的细粒度“认识论资源” | 改良[[Questionnaire\|问卷]]、认知访谈 |
+> | **个体层级（Individual）** | 学生头脑内部的认知结构 | 个体调配的细粒度“认识论资源” | 改良调查表工具、认知访谈 |
 > | **人际交互（Individual-in-interaction）** | 微观的社会互动过程 | 小组内协商共同的认识论目标与标准 | [[Discourse Analysis\|话语分析]]、行为观察 |
 > | **活动系统（Activity System）** | 宏观文化与制度规范 | 课堂或科学共同体整体的“认识论氛围” | [[Ethnography\|民族志]]、制度话语分析 |
 
@@ -111,15 +106,15 @@ related_arguments:
 > [!debates] 学术争议
 >
 > > [!axis] [[Ontology|本体论]]断层：知识与认知是如何存在的？
-> > [[Constructivist Paradigm|建构主义]]与情境主义在[[Epistemology|认识论]]认知的底层归属上存在不可通约的分歧。
+> > 认知建构学说与情境主义在[[Epistemology|认识论]]认知的底层归属上存在不可通约的分歧。
 > >
-> > - **个体建构主义（Cognitive Constructivism）** 以 Piaget 发生认识论为基础，视知识为个体为适应经验而建构的内部概念结构，认识论认知是头脑中的相对稳定的信念或特质。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
-> > - **情境主义（Situative Perspective）** 受 Vygotsky 影响，视知识为分布式的文化产物，认识论认知不再是脱域命题，而是特定共同体解决问题的“社会[[Praxis|实践]]（social practices）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> > - **认知认知建构学说（Cognitive Constructivism）** 以 Piaget 发生认识论为基础，视知识为个体为适应经验而建构的内部概念结构，认识论认知是头脑中的相对稳定的信念或特质。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> > - **情境主义（Situative Perspective）** 受 Vygotsky 影响，视知识为分布式的文化产物，认识论认知不再是脱域命题，而是特定共同体解决问题的“社会[[Praxis|实践]]活动（social practices）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 >
 > > [!axis] 颗粒度危机：普遍性还是情境性？
 > > 认知信念是跨学科领域稳定的，还是高度随任务波动的？
 > >
-> > - **宏大领域特质论（Domain-specific beliefs）** 认为认识论具有宏大跨学科（如科学、历史）间的特异性，但在学科内部保持稳定状态（通常依赖修改词汇的标准化[[Questionnaire|问卷]]进行测量）。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 473)]]
+> > - **宏大领域特质论（Domain-specific beliefs）** 认为认识论具有宏大跨学科（如科学、历史）间的特异性，但在学科内部保持稳定状态（通常依赖修改词汇的标准化自陈量表进行测量）。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 473)]]
 > > - **微观资源库理论（Epistemic Resources）** 摒弃大颗粒度维度，主张认知是微观的“框架与资源”，即便是面对完全相同的领域文本，个体的认知标准也会随任务目标（如考证历史与寻求宗教情感）发生剧烈的动态切换。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 474)]]
 
 > [!critique] 方法论推论危机

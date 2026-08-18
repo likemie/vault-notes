@@ -6,10 +6,10 @@ aliases:
 summary: "一种外部主义认识论理论，主张信念的确证依赖于产生该信念的因果过程是否可靠，促成了哲学向实证科学的自然主义转向，扩展了认识论认知的研究范畴。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 9
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 18
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
