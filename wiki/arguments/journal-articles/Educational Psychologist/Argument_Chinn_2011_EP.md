@@ -163,7 +163,7 @@ issuing_organization: ""
 > - **决定论 vs. 随机性（determinism vs. stochasticity）**
 >   Salmon (1989) 等指出，必须区分解释现象的理论架构是建立在决定论因果链条之上，还是建立在统计学与随机过程（stochastic processes）之上。对概率与确定性的区分比单纯衡量复杂程度更深刻。
 > - **学科特异性的认识形式（discipline-specific [[Epistemic Forms]]）**
->   当代科学哲学深入具体专业分支探讨认识形式（epistemic forms）。Machamer 等人细致拆解了神经科学与分子生物学中的机制结构；Cartwright 阐明了物理学与经济学中高度情境化的因果模型（causal models）。
+>   当代科学哲学深入具体专业分支探讨认识形式（epistemic forms）。Machamer et al. (2000)细致拆解了神经科学与分子生物学中的机制结构；Cartwright 阐明了物理学与经济学中高度情境化的因果模型（causal models）。
 
 > [!exegesis] 心理学效用（情境与预测力检验）
 > - **单向度量表的预测失效**

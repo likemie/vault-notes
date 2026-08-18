@@ -148,7 +148,7 @@ issuing_organization: ""
 > - **链节一 哲学层面的转向（Philosophical Turn）**
 >   传统认识论长期受困于“确证的真信念（justified true belief）”模型与激进怀疑论的拉扯。[[W. V. O. Quine]] 等哲学家推动了[[Epistemological Naturalism|自然化认识论]]（epistemological naturalism）转向，彻底放弃了纯粹的先验理论推导，主张利用心理学与认知科学的实证发现来研究人类实际生成和评估知识的过程。这一转向不仅催生了[[Reliabilism|可靠主义]]（如 [[Alvin Goldman]]），更进一步衍生出社会认识论（social epistemology），将评价焦点从孤立个体扩展到了诸如“同行评审”等科学共同体的实践机制。
 > - **链节二 个人认识论的演进（Evolution of Personal Epistemology）**
->   发端于 Perry 对大学生“双元论—多元论—相对主义”的线性发展阶段（developmental models）刻画；随后，Schommer 与 Hofer 等人引入了多维信念系统（dimensional models），将认识论解构为[[Simplicity of Knowledge|知识的简单性]]、确定性、来源与确证等多个可独立变化的信念维度。高度标准化的自陈量表（如EQ[[Questionnaire|问卷]]）极大推动了该领域的[[Quantitative Research|量化研究]]，但也遗留了将认知视为脱离情境的稳定特质的理论隐患。
+>   发端于 Perry 对大学生“双元论—多元论—相对主义”的线性发展阶段（developmental models）刻画；随后，Schommer (1990) 以及 Hofer 和 Pintrich (1997)引入了多维信念系统（dimensional models），将认识论解构为[[Simplicity of Knowledge|知识的简单性]]、确定性、来源与确证等多个可独立变化的信念维度。高度标准化的自陈量表（如EQ[[Questionnaire|问卷]]）极大推动了该领域的[[Quantitative Research|量化研究]]，但也遗留了将认知视为脱离情境的稳定特质的理论隐患。
 > - **链节三 发展心理学的前置补全（Developmental Foundations）**
 >   儿童并不像早期理论[[Hypothesis|假设]]的那样缺乏认识论认知。幼儿在四个底层维度展现了极早期的发育：通过[[Theory of Mind|心智理论]]（theory of mind）理解他人的错误信念；发展出区分猜测与严密推理的因果推理（causal reasoning）能力；在科学思维中初步分离主张与证据；以及在社会认知（social cognition）中表现出对社会证词（testimony）并非盲从，而是基于过往准确度进行选择性信任（selective trust）的高阶能力。
 > - **链节四 学科教育的情境化深化（Disciplinary Education）**
