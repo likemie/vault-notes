@@ -56,7 +56,7 @@ Total entries: **109**
 > - [[Epistemic and Ontological Cognition]] — 一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。
 > - [[Epistemological Reflection Model]] — Baxter Magolda提出的一项考察男女学生在四种认知方式中性别相关推理模式的纵向发展模型。
 > - [[Expanded Framework of Epistemic Cognition]] — 分析框架附加整合哲学观念的五组件模型。取代或扩展了传统简单的认识论信念维度。
-> - [[Integrative Pluralism]] — 一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行协作以推进研究的理论视角。
+> - [[Integrative Pluralism]] — 一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。
 > - [[Perry's Scheme of Intellectual and Ethical Development]] — Perry提出的关于大学生在知识、价值与权威的认知上如何从二元论发展到相对主义的经典阶段理论。
 > - [[Reflective Judgment Model]] — King和Kitchener提出的关于个体如何理解认知过程并为劣构问题提供辩护的七阶段反思性判断模型。
 > - [[Women's Ways of Knowing]] — Belenky等人提出的关注女性作为认知者如何看待真理、知识与权威的五个认识论视角模型。

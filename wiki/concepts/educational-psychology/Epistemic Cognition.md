@@ -23,7 +23,8 @@ related_concepts:
   - "[[Epistemic Virtues and Vices]]"
   - "[[Causal Processes]]"
   - "[[Ontology]]"
-related_theories: []
+related_theories:
+  - "[[Integrative Pluralism]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
@@ -126,4 +127,4 @@ related_arguments:
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 包含五个组件的扩展[[Epistemology|认识论]]认知框架推动了研究向细粒度和情境化方向发展。
-> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“整合多元主义”主张。
+> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism|整合多元主义]]”主张。

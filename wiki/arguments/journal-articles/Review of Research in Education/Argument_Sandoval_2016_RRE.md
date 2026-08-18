@@ -279,7 +279,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **深扒四大理论断层** 首次系统梳理了横亘在[[Epistemology|认识论]]认知研究中的四大断层线：知识的概念化分歧、领域普遍性与情境性之争、发展轨迹的合法性危机，以及测量方法论的割裂。
 > 2. **多学科渊源重构** 明确当前研究是哲学[[Epistemology|认识论]]转向、个人认识论、发展心理学以及学科教育研究的多源流交汇，打破单一心理学框架的孤立感。
-> 3. **整合多元主义倡议** 呼吁采用[[Integrative Pluralism|整合的多元主义]]，在个体、个体交互及活动系统三个层面统合，抛弃低[[Reliability|信度]]量表，转向真实情境的混合测量。
+> 3. **[[Integrative Pluralism|整合多元主义]]倡议** 呼吁采用[[Integrative Pluralism|整合的多元主义]]，在个体、个体交互及活动系统三个层面统合，抛弃低[[Reliability|信度]]量表，转向真实情境的混合测量。
 
 > [!stat-cards]- 核心数据
 > - **267** 经过系统的引文网络检索和筛选，纳入综述的核心出版物总数。
@@ -289,7 +289,7 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 整合多元主义的必要性
+> [!citation-card]- [[Integrative Pluralism|整合多元主义]]的必要性
 > 鉴于[[Epistemology|认识论]]认知现被视为发生于极其广泛的情境之中，以及关于其如何发生的各种不同视角，对这些无数情境中发现的整合，理应成为下个世纪研究的核心焦点。进展取决于对当前研究趋势的拓展，显而易见，要在多重分析层级上整合理论解释，必须对这些层级本身有清晰的阐述。（p. 480）
 >
 > *Given the scope of contexts where [[Epistemic Cognition]] is now seen to occur and the various perspectives on how it happens, integration of findings from these myriad contexts should be a major focus of research in the coming century. Progress toward an [[Integrative Pluralism]] of [[Accounts]] of epistemic cognition can occur through an expansion of current trends in epistemic cognition research. Obviously, to integrate theoretical accounts across multiple levels of analysis requires an articulation of the levels.*
