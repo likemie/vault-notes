@@ -7,10 +7,10 @@ aliases:
 summary: "中国／儒家文化圈学习者看似依赖低效学习方式却持续取得高水平成就之间的矛盾"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - region/china
 - region/east-asia

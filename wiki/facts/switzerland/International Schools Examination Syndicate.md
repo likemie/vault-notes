@@ -9,7 +9,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"

@@ -6,10 +6,10 @@ aliases:
 summary: "知识论课程中用于比较不同学科与知识传统如何形成概念、证据、方法和判断标准的课程框架；其历史根源是以多种思维方式回应学科割裂，并逐步由早期知识形式主题发展为可比较的领域分类。"
 type: concept
 domain: "curriculum"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 35
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/curriculum
   - theme/epistemology

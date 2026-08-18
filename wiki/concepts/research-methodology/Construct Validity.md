@@ -10,7 +10,7 @@ aliases:
 summary: "评价抽象构念的界定、操作化与所得证据是否共同支持预期解释；适用于测量工具、质性范畴、实验操作和课程评估，并要求同时检查构念覆盖、无关影响及替代解释。"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
