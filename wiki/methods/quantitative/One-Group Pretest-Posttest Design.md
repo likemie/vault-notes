@@ -2,7 +2,7 @@
 title: One-Group Pretest-Posttest Design
 aliases:
   - 单组前测后测设计
-summary: "前实验设计中仅对单一组进行前测、干预和后测的设计，无控制组和随机分配，内部效度最低，被 Campbell 和 Stanley 列为展示混淆变量的坏例子"
+summary: "前实验设计中仅对单一组进行前测、干预和后测的设计，无控制组和随机分配，内部效度最低，被 Campbell and Stanley 列为展示混淆变量的坏例子"
 type: method
 method_type: quantitative
 method_family: "quantitative"

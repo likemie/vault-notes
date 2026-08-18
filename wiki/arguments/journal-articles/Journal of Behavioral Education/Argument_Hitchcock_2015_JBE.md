@@ -85,7 +85,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法** 评论（Commentary）——对 Maggin et al. (2013) 的回应性评论
-> - **论证方式** 基于作者作为 [[What Works Clearinghouse|WWC]] [[Single-Case Design|SCD]] 标准共同开发者（Kratochwill 和 Hitchcock 是标准技术文档的作者）和专家组成员的第一手知识，对审查程序进行解释性澄清
+> - **论证方式** 基于作者作为 [[What Works Clearinghouse|WWC]] [[Single-Case Design|SCD]] 标准共同开发者（Kratochwill and Hitchcock 是标准技术文档的作者）和专家组成员的第一手知识，对审查程序进行解释性澄清
 > - **数据来源** WWC [[Single-Case Design|SCD]] Pilot Standards 技术文档(Kratochwill et al., 2010)、SCD Review Guide（公开可获取）、WWC Repeated Reading 干预报告(2014)
 
 ## 核心论证

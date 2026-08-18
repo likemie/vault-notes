@@ -184,7 +184,7 @@ updated: 2026-05-23
 ### 家庭社会化：儒家式辅导中的美德传递
 
 > [!success]
-> Li 与 Heidi Fung 的母子[[Dialogue in Education|对话]]研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Mother-Child Conversation|MCC]]）从一代传递到下一代([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> Li and Heidi Fung 的母子[[Dialogue in Education|对话]]研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Mother-Child Conversation|MCC]]）从一代传递到下一代([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 **序列分析证据** 在对 !CD 组台湾母子对话的序列分析中，学习美德（mV / cV）是台湾母子对话的**引力中心**——无论对话以什么话题开头（心智活动、积极情感或消极情感），台湾母子都会在第二轮或第三轮**转回学习美德([[Argument_Li_2012_Cambridge|Li, 2012]])**。具体而言：
 

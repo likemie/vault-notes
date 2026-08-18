@@ -62,9 +62,9 @@ updated: '2026-05-18'
 > - **[[Basil Bernstein]]**（1970）：在经典论文 *Education Cannot Compensate for Society* 中指出，教学和学习的改善只能做到有限程度——没有严肃的外部结构性和经济改革，学校无法自行创造教育机会的平等。Bernstein 向政治家、政策制定者和"社会"阐明非学校因素的关键重要性
 > - **Roy Nash**（2003）：在 *Social Class and Education in New Zealand* 中对教育成就差异的精湛分析始终渗透着对非学校因素的清晰意识——这些因素对于理解问题和形成现实的政策倡议至关重要
 
-## 在 Hattie 与 Grace 辩论中的应用
+## 在 Hattie and Grace 辩论中的应用
 
-> [!success] 在 Hattie 与 Grace 辩论中的应用
+> [!success] 在 Hattie and Grace 辩论中的应用
 > [[Argument_Grace_2010_NZJES|Grace (2010)]]认为 [[John Hattie]] 在 *[[Visible Learning]]* 和其 2010 年 NZJES 文章中所扮演的角色不是"critic and conscience of society"，而是"学术领域的批评者"——Hattie 对评估、教学和学习领域中其他学者的研究质量与[[Hypothesis|假设]]提出了批评，这是"教育教授们正常的学术工作"([[Argument_Grace_2010_NZJES|Grace, 2010, p.90]])。Grace 呼吁 Hattie 写一本续作，详细讨论非学校因素对教育成就的影响——唯有如此，他才能合法地声称自己是"critic and conscience of society"([[Argument_Grace_2010_NZJES|Grace, 2010, p.91]])。
 
 

@@ -78,7 +78,7 @@ updated: 2026-07-18
 >   - **阶段转向** 从个体心理动力学转向群体和社会行为研究
 > - **1930s–1940s — 群体动力学与民主领导**
 >   移居美国后，研究重点从个体转向群体，进行著名的领导风格实验（独裁型、民主型、放任型），并关注偏见、少数族裔问题和民主参与。
->   - **代表著作** *The Conceptual Representation and the Measurement of Psychological Forces*（1938）; 领导风格实验（与 Lippitt 和 White 合作, 1939）
+>   - **代表著作** *The Conceptual Representation and the Measurement of Psychological Forces*（1938）; 领导风格实验（与 Lippitt and White 合作, 1939）
 >   - **关键概念／方法** 群体动力学、民主领导、群体决策
 >   - **阶段转向** 从实验室研究转向真实社会问题的行动导向研究
 > - **1940s — [[Action Research|行动研究]]与变革管理**
@@ -114,7 +114,7 @@ updated: 2026-07-18
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** 格式塔心理学派（Wertheimer、Köhler、Koffka）——场论的理论来源；Lippitt 和 White——合作进行领导风格实验；Leon Festinger——MIT 群体动力学研究中心的学生和继任者。
+> - **师承／合作者** 格式塔心理学派（Wertheimer、Köhler、Koffka）——场论的理论来源；Lippitt and White——合作进行领导风格实验；Leon Festinger——MIT 群体动力学研究中心的学生和继任者。
 > - **学生／继承者** 阿吉里斯（Argyris）——将[[Action Research|行动研究]]发展为"行动科学"（action science），提出单环和双环学习；Kemmis & McTaggart——系统化行动研究的螺旋模型和批判行动研究；Rensis Likert——发展组织行为学和参与式管理。
 > - **机构／运动／项目** MIT 群体动力学研究中心（1944 年创立，1948 年迁至密歇根大学，成立社会研究所 ISR）；Tavistock 研究所（英国）——将勒温的群体动力学应用于组织咨询。
 

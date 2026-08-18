@@ -66,7 +66,7 @@ updated: 2026-06-07
 > [!example]
 > 诺贝尔奖得主的导师关系模式并非随机。对博士生-论文导师关系的[[Network Analysis|网络分析]]显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代（Chariker et al., 2017, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树（Tol, 2024, 引自）。
 >
-> Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco（Bentivoglio et al., 2006, 引自）。
+> Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria and Renato Dulbecco（Bentivoglio et al., 2006, 引自）。
 
 ---
 

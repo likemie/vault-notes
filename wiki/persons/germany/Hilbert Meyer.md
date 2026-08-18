@@ -36,8 +36,8 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> - Meyer 提出了一份包含十项[[Effective Teaching|有效教学]]质量的清单。虽然 Laursen 没有逐项列出该清单，但他指出 Meyer 与 Hattie、Helmke 在核心方向上高度一致：三者都强调教师领导、照顾个别学生、清晰目标和学习导向的课堂气氛([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.35]])。
-> - Meyer 的综合比 Hattie 的核心要点更细致。Meyer 和 Helmke 的十项清单与 Hattie 的概括虽有细微差异，但相似性十分显著。
+> - Meyer 提出了一份包含十项[[Effective Teaching|有效教学]]质量的清单。虽然 Laursen 没有逐项列出该清单，但他指出 Meyer and Hattie、Helmke 在核心方向上高度一致：三者都强调教师领导、照顾个别学生、清晰目标和学习导向的课堂气氛([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.35]])。
+> - Meyer 的综合比 Hattie 的核心要点更细致。Meyer and Helmke 的十项清单与 Hattie 的概括虽有细微差异，但相似性十分显著。
 
 ## 主要贡献
 
@@ -52,4 +52,4 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Meyer 与 Hattie、Helmke 所概括的核心[[Effective Teaching|有效教学]]质量，在丹麦研究中总体得到支持；这一点构成 Laursen 关于国际有效教学综合"总体上"适用于丹麦的依据之一([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.40]])。
+> - Meyer and Hattie、Helmke 所概括的核心[[Effective Teaching|有效教学]]质量，在丹麦研究中总体得到支持；这一点构成 Laursen 关于国际有效教学综合"总体上"适用于丹麦的依据之一([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.40]])。

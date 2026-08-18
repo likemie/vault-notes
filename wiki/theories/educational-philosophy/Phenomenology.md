@@ -73,7 +73,7 @@ updated: 2026-08-16
 > - **解释对象** 人类的主观意识体验、日常生活世界（Lifeworld）的意义建构，以及个体如何通过直接经验和具身认知（Embodied cognition）与周围世界、他者（主体间性）发生关联。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3]]
 > - **理论问题** 回应[[Positivism|实证主义]]与[[Objectivism|客观主义]]将世界和人类经验“客观化”、“去情境化”和“去身体化”的倾向，探索在不预设中立客观实在的前提下，意识如何主动生成和赋予意义。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8]]
 > - **理论类型** 宏观哲学传统、[[Epistemology|认识论]]与[[Ontology|本体论]]框架，在教育中作为理解学习经验、具身认知和人本[[Bildung|教化]]的理论地基。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 11]]
-> - **知识位置** 欧陆哲学传统，是[[Interpretive Paradigm|诠释范式]]的三大核心[[Qualitative Research|质性研究]]传统之一。代表人物包括 [[Edmund Husserl]]（发起人）、Martin Heidegger、Jean-Paul Sartre 与 Maurice Merleau-Ponty。;
+> - **知识位置** 欧陆哲学传统，是[[Interpretive Paradigm|诠释范式]]的三大核心[[Qualitative Research|质性研究]]传统之一。代表人物包括 [[Edmund Husserl]]（发起人）、Martin Heidegger、Jean-Paul Sartre and Maurice Merleau-Ponty。;
 
 > [!claim] 核心主张
 > 现象学主张对直接经验进行如其所是的研究，认为人类行为是由个体体验到的现象所决定的，而非由外部、客观的物理现实所决定。人类经验、生活世界和意识意向性处于认识与本体分析的中心，人是在生活世界中，通过身体、情感和与他人的关系（主体间性）来经验世界并动态生成意义的。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2–3]]

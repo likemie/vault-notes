@@ -48,7 +48,7 @@ updated: 2026-07-08
 ## 核心要素
 
 > [!abstract]
-> O'Connor 和 Michaels 的研究表明，revoicing 策略包含两个核心功能([[Argument_Li_2012_Cambridge|Li, 2012, pp.93-94]])：
+> O'Connor and Michaels 的研究表明，revoicing 策略包含两个核心功能([[Argument_Li_2012_Cambridge|Li, 2012, pp.93-94]])：
 
 **1. 突出想法的归属权（Authorship/Ownership）**
 
@@ -69,7 +69,7 @@ updated: 2026-07-08
 > Revoicing 策略建立在西方文化的深层前提之上([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-93]])：
 
 - **个人是自身想法的作者/所有者** 这一信念深植于西方对个人独特性和个体性的高度重视——说话是"表达自我"、确立个体在群体中独特性的行为([[Argument_Li_2012_Cambridge|Li, 2012, p.77]])。
-- **课堂是智力社会化的场所** O'Connor 和 Michaels 提出，帮助学生"把自己作为一个学习者认真对待"是西方课堂话语的核心目标——智力社会化意味着引导学生进入"自身想法 vs 他人想法"的互动空间，并通过口头互动达成相互理解([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-93]])。
+- **课堂是智力社会化的场所** O'Connor and Michaels 提出，帮助学生"把自己作为一个学习者认真对待"是西方课堂话语的核心目标——智力社会化意味着引导学生进入"自身想法 vs 他人想法"的互动空间，并通过口头互动达成相互理解([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-93]])。
 - **学前教育中的预演** 西方学前教师用"用你的语言说""告诉我你自己的想法""你不说出来我就不知道你想做什么"等话语来训练幼儿将想法语言化——这是 revoicing 在正式教育中的前置社会化([[Argument_Li_2012_Cambridge|Li, 2012, p.92]])。
 
 ---

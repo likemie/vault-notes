@@ -71,7 +71,7 @@ updated: 2026-05-26
 ## 争议与评论
 
 > [!warning]
-> - Welsh 将 ASCRR 定性为"共产党的宣传组织"，认为其真实目的是"掩盖底下运转的共产主义机器"([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.108]])。但从档案记录来看，ASCRR 的实际活动以书籍交换和学术访问安排为主，Welsh 的指控建立在 guilt by association（因关联而定罪）的逻辑上——将 ASCRR 与 VOKS 的关系等同于与共产国际的关系——而非基于 ASCRR 的实际行为。
+> - Welsh 将 ASCRR 定性为"共产党的宣传组织"，认为其真实目的是"掩盖底下运转的共产主义机器"([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, p.108]])。但从档案记录来看，ASCRR 的实际活动以书籍交换和学术访问安排为主，Welsh 的指控建立在 guilt by association（因关联而定罪）的逻辑上——将 ASCRR and VOKS 的关系等同于与共产国际的关系——而非基于 ASCRR 的实际行为。
 > - 助理国务卿 Castle 在给外交官的指示中承认此行为"非政治性质"——这表明国务院至少公开层面没有采纳 Welsh 将 ASCRR 等同于共产党外围组织的定性([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.108–109]])。
 
 ## 相关概念／政策

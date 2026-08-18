@@ -217,5 +217,5 @@ EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步�
 
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Higgins_2016_RE|Higgins (2016)]]** 系统综述的方法论教材，涵盖[[Research Question|研究问题]]制定、纳入标准、系统搜索、质量评估和数据综合的完整操作框架。
-> - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 按照 PRISMA 框架从 SSCI 和 Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
+> - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 按照 PRISMA 框架从 SSCI and Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统介绍了系统综述与研究综合的定义、类型、操作标准（[[EPPI-Centre]]、BERA、Evans & Benefield、Cooper 等框架）与方法论警示。

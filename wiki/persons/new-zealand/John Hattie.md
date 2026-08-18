@@ -194,7 +194,7 @@ updated: '2026-06-08'
 > [!abstract] Fraser, B.J., Walberg, H.J., Welch, W.W. & Hattie, J.A. (1987). Syntheses of educational productivity research. *International Journal of Educational Research*, 11(2), 147–252.
 
 > [!note]- 思想发展
-> Hattie 与 Fraser 和 Walberg 合作，综合了 226 项[[Meta-analysis|元分析]]，以检验[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究发表为 100 页专著，涵盖数千项原始研究。这是教育领域最早的系统性[[Comparative Meta-synthesis|比较性元综合]]之一([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
+> Hattie and Fraser 和 Walberg 合作，综合了 226 项[[Meta-analysis|元分析]]，以检验[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究发表为 100 页专著，涵盖数千项原始研究。这是教育领域最早的系统性[[Comparative Meta-synthesis|比较性元综合]]之一([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
 
 ---
 
@@ -391,7 +391,7 @@ updated: '2026-06-08'
 >
 > - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 以新西兰《教育法》赋予学者的"critic and conscience of society"法定角色为其公共参与的伦理基础，并制定三条自我约束原则：（1）仅在专业领域内发言；（2）基于自身的阅读和对研究的解读；（3）始终以展示尊重和谨慎来提升专业（详见 [[Argument_Hattie_2010_NZJES]]）
 > - 承认"很少有人对其提出质疑"（Hattie, Masters, & Birch, 2016，引自 McKnight & Whitburn, 2020, p.33）
-> - 针对 Eacott (2017)，[[Argument_Hattie_2017_SLM|Hattie (2017)]]发表回应"Educators are not uncritical believers of a cult figure"，援引 Popper 和 Said 为学术批评传统，逐条反驳 Eacott 的三项主张（详见 [[Argument_Hattie_2017_SLM]]、[[Cult of the Guru#争议与批评]]）
+> - 针对 Eacott (2017)，[[Argument_Hattie_2017_SLM|Hattie (2017)]]发表回应"Educators are not uncritical believers of a cult figure"，援引 Popper and Said 为学术批评传统，逐条反驳 Eacott 的三项主张（详见 [[Argument_Hattie_2017_SLM]]、[[Cult of the Guru#争议与批评]]）
 > - 声称《可见的学习》由持续的元分析过程支撑以识别潜在的[[Falsification|可证伪性]]([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.41]])
 > - 在回应方法论批评时承认"错误"但坚持"它们均未减少支撑《可见的学习》信息的故事的影响"（Hattie, n.d.，引自 O'Connor, 2020, p.141-142）
 >
@@ -402,7 +402,7 @@ updated: '2026-06-08'
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]]以引介者身份为 Hattie 辩护：三线论证——批评者形成了意识形态解释社群而非学术反驳；定量/定性对立源于[[Epistemology|认识论]]/[[Ontology|本体论]]混淆；教学与学习之间不是[[Causality|因果关系]]而是[[Structural Coupling|结构耦合]]，《可见的学习》的目的是提供"智能问题解决的假设"而非"食谱"，[[Professional Judgment|专业判断]]是缺失环节([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-7]])
 > - **2020 年 Lessons from Lockdown 会议演讲** Hattie 的立场进一步演变——谈到"课程差异不大"（70% 教师提问仅需三词或更少回答）、询问"我们真的需要学生每天坐在教师面前吗？"、承认"失败是学习者最好的朋友但仅低风险时"、指出"通过失败学习是 PBL 的一部分、通过探究式学习恢复"。[[Argument_Blass_2020_JESP|Blass (2020, p.96)]]指出 Hattie 现在倡导的学习模型最适合 PBL 和探究式教学法——但他的早期排名仍被用于为直接教学模式辩护
 >
-> Larsen 与 Hattie 于 2018 年在哥本哈根进行了关于"教育的目的"的公开对话（Hattie & Larsen, 2019, unpublished; 引自 Larsen, 2019, Ref.10）。
+> Larsen and Hattie 于 2018 年在哥本哈根进行了关于"教育的目的"的公开对话（Hattie & Larsen, 2019, unpublished; 引自 Larsen, 2019, Ref.10）。
 >
 
 ---

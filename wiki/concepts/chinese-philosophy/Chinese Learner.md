@@ -192,8 +192,8 @@ updated: 2026-05-24
 
 - 东亚教师不像西方教师那样通过 [[Revoicing]] 突出学生的"想法作者权"——教师收集学生回应但不指明谁说了什么。"在讨论故事回应时，教师收集了各种回答，但没有单独指出任何学生"([[Argument_Li_2012_Cambridge|Li, 2012, p.115]])。
 - 这种注重学习内容而非个人归属的做法，"实际上消除了学生之间社会比较的不利影响"([[Argument_Li_2012_Cambridge|Li, 2012, p.116]])。
-- Inagaki、Hatano 和 Morita 将日本学生口头说话少但书面产出内容丰富的现象称为**"[[Listening-Oriented Learning|沉默参与]]"（silent participation）([[Argument_Li_2012_Cambridge|Li, 2012, p.117]])**。
-- Cortazzi 和 Jin 将其概括为 [[Listening-Oriented Learning|倾听导向学习]]——"我们脑子里是活跃的。我们一直在思考。我们的心跟着讲师，带着问题和挑战。我们只是不习惯说出来"([[Argument_Li_2012_Cambridge|Li, 2012, p.117]])。
+- Inagaki、Hatano and Morita 将日本学生口头说话少但书面产出内容丰富的现象称为**"[[Listening-Oriented Learning|沉默参与]]"（silent participation）([[Argument_Li_2012_Cambridge|Li, 2012, p.117]])**。
+- Cortazzi and Jin 将其概括为 [[Listening-Oriented Learning|倾听导向学习]]——"我们脑子里是活跃的。我们一直在思考。我们的心跟着讲师，带着问题和挑战。我们只是不习惯说出来"([[Argument_Li_2012_Cambridge|Li, 2012, p.117]])。
 
 ### 家庭社会化：沉默的养成
 

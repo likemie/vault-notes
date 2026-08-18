@@ -81,7 +81,7 @@ Lewis (2006) 描述了他花了五个月时间与在线联系人建立信任关�
 > 11. 说明谁能访问通信以及是否私密
 > 12. 考虑如果私人数据被公开对个人的可能后果
 
-此外，Gwartney (2007) 指出[[Telephone Interview|电话访谈]]同样需要遵守专业伦理——包括行为守则、知情同意、保密、隐私、避免骚扰、最低披露标准、如何处理受访者情绪崩溃以及访谈员培训需求。相关组织包括 AAPOR、CASRO、AEA 和 ASA（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 108–109]]）。
+此外，Gwartney (2007) 指出[[Telephone Interview|电话访谈]]同样需要遵守专业伦理——包括行为守则、知情同意、保密、隐私、避免骚扰、最低披露标准、如何处理受访者情绪崩溃以及访谈员培训需求。相关组织包括 AAPOR、CASRO、AEA and ASA（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 108–109]]）。
 
 ---
 

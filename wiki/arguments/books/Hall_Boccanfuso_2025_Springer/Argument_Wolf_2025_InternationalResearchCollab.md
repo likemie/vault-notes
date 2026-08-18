@@ -1,5 +1,5 @@
 ---
-summary: "以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars 与 UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链"
+summary: "以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars and UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链"
 type: argument
 authors:
   - "Wolf, B. J."
@@ -81,7 +81,7 @@ citation_aliases:
 > [!question]
 > 国际产学（University-Industry, UI）研究合作的出版物数量在过去二十年显著增长，尤其是涉及三个及以上国家的合作(p.311)。然而跨国研究团队不仅面临一般[[University-Industry Collaboration|产学合作]]中的目标分歧和知识产权障碍，还叠加了跨境特有的地缘政治风险、法律框架冲突和文化沟通壁垒。这些额外复杂性的来源是什么？它们如何相互关联？是否存在可复制的成功模式？
 >
-> 国际 UI 合作的五重挑战具有内在递进结构，两个[[Analytic Framework|分析框架]]分别从横向维度和纵向层次提供了解释资源。Mars 与 UC Davis 四十年合作中的三个案例构成一条[[Chain of Evidence|证据链]]，共同指向一个结论：国际 UI 合作的成功不仅取决于逐个克服上述挑战，更取决于建立一种以互利（mutuality）为核心的组织机制。共同选址（[[University-Industry Co-location|co-location]]）是该机制关键的落地策略。
+> 国际 UI 合作的五重挑战具有内在递进结构，两个[[Analytic Framework|分析框架]]分别从横向维度和纵向层次提供了解释资源。Mars and UC Davis 四十年合作中的三个案例构成一条[[Chain of Evidence|证据链]]，共同指向一个结论：国际 UI 合作的成功不仅取决于逐个克服上述挑战，更取决于建立一种以互利（mutuality）为核心的组织机制。共同选址（[[University-Industry Co-location|co-location]]）是该机制关键的落地策略。
 
 ---
 
@@ -99,7 +99,7 @@ citation_aliases:
 > [!info]
 > 采用[[Praxis|实践]]导向的综述与案例分析，非实证研究。方法包括：
 > - 对国际 UI 合作[[Document|文献]]和行业报告（美国公立与赠地大学协会 APLU、[[University Industry Demonstration Partnership|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP）、Elsevier 等）的综合梳理
-> - 一手实践经验来源于 Mars（Wolf 和 Stevenson 所属机构）与 UC Davis（Siegel 所属机构）四十年的合作积累
+> - 一手实践经验来源于 Mars（Wolf and Stevenson 所属机构）与 UC Davis（Siegel 所属机构）四十年的合作积累
 > - 三个[[Case Study|案例研究]]：水稻干湿交替灌溉（Alternate Wetting and Drying, AWD）、[[African Orphan Crops Consortium|非洲孤儿作物联盟]]（African Orphan Crops Consortium, AOCC）、[[Innovation Institute for Food and Health|食品与健康创新研究所]]（Innovation Institute for Food and Health, IIFH）
 
 ---
@@ -192,17 +192,17 @@ citation_aliases:
 
 ---
 
-### 第五步：Mars 与 UC Davis 的案例链
+### 第五步：Mars and UC Davis 的案例链
 
 > [!note]- 三个案例构成一条[[Chain of Evidence|证据链]]
-> Mars 与 UC Davis 的合作由三个相互关联、层层扩展的案例构成一条证据链。它们共同展示了一条路径：从单个科学问题的识别（AWD），到跨国多边合作网络的建立（[[African Orphan Crops Consortium|AOCC]]），再到制度化创新平台的构建（[[Innovation Institute for Food and Health|IIFH]]）。每一步都在解决前一阶段暴露出的结构性局限。
+> Mars and UC Davis 的合作由三个相互关联、层层扩展的案例构成一条证据链。它们共同展示了一条路径：从单个科学问题的识别（AWD），到跨国多边合作网络的建立（[[African Orphan Crops Consortium|AOCC]]），再到制度化创新平台的构建（[[Innovation Institute for Food and Health|IIFH]]）。每一步都在解决前一阶段暴露出的结构性局限。
 
 ---
 
 > [!success] 案例一：水稻干湿交替灌溉（AWD）
 > **起点**。Mars 植物科学负责人在分析加州氮评估的卫星数据时，注意到北加州稻田上空的氮氧化物云。这一观察触发了 Mars、UC Davis 和加州水稻委员会的[[Dialogue in Education|对话]](pp.319–320)。
 >
-> **过程**。Mars 与 UC Davis（后加入阿肯色大学）合作研究国际水稻研究所（IRRI）开发的 AWD 技术：在安全[[Growth|生长]]期内允许稻田水自然消退至土表，而非持续淹灌。2011–2016 年间进行了系统研究和发表(Nalley et al., 2015)。早期结果说服了 USDA 自然资源保护局于 2018 年向阿肯色州 White River 灌区拨款，在约 10% 的水稻面积上推广类似水管理方案(p.320)。
+> **过程**。Mars and UC Davis（后加入阿肯色大学）合作研究国际水稻研究所（IRRI）开发的 AWD 技术：在安全[[Growth|生长]]期内允许稻田水自然消退至土表，而非持续淹灌。2011–2016 年间进行了系统研究和发表(Nalley et al., 2015)。早期结果说服了 USDA 自然资源保护局于 2018 年向阿肯色州 White River 灌区拨款，在约 10% 的水稻面积上推广类似水管理方案(p.320)。
 >
 > **跨国扩展**。UC Davis 将原位排放测量方法转移给 Mars 的欧洲稻米研究伙伴，Mars 随后将 AWD 推广至其亚洲供应链中的种植户。
 >
@@ -211,7 +211,7 @@ citation_aliases:
 ---
 
 > [!success] 案例二：非洲孤儿作物联盟（AOCC）
-> **起点**。2011 年由 Mars、非盟（NEPAD）、WWF 和 UC Davis 共同发起(p.320)。目标极为宏大：通过改良 101 种被现代农业科学忽略的传统非洲粮食作物——"孤儿作物"（orphan crops）——来消除非洲大陆的慢性饥饿和营养不良，打破营养不良在代际间的传递。
+> **起点**。2011 年由 Mars、非盟（NEPAD）、WWF and UC Davis 共同发起(p.320)。目标极为宏大：通过改良 101 种被现代农业科学忽略的传统非洲粮食作物——"孤儿作物"（orphan crops）——来消除非洲大陆的慢性饥饿和营养不良，打破营养不良在代际间的传递。
 >
 > **组织结构**。一个通常难以协调的联合体：超过 30 个政府组织、科学机构、大学、企业、区域组织和非政府组织，加上超过 15 个农业和园艺机构的网络(pp.320–321)。
 >
@@ -228,7 +228,7 @@ citation_aliases:
 ---
 
 > [!success] 案例三：食品与健康创新研究所（IIFH）
-> **起点**。2015 年 Mars 与 UC Davis 共同建立 IIFH，Mars 提供资金承诺，UC Davis 部分配套(p.321)。不同于 AWD 和 AOCC，IIFH 的目标是建立一个能够持续产生和孵化创新项目的制度化平台。
+> **起点**。2015 年 Mars and UC Davis 共同建立 IIFH，Mars 提供资金承诺，UC Davis 部分配套(p.321)。不同于 AWD and AOCC，IIFH 的目标是建立一个能够持续产生和孵化创新项目的制度化平台。
 >
 > **四重路径**
 > - 培养食品与健康领域的未来创新人才
@@ -248,7 +248,7 @@ citation_aliases:
 ### 第六步：从案例链提炼的三条合作演化规律
 
 > [!success] 规律一：合作深度由信任密度决定
-> Mars 与 UC Davis 的合作经历了"嵌入一个人(2004)→ 成立一个院(Mars Advanced Research Institute, MARI, 2013)→ 建立一个所(IIFH, 2015)"的渐进深化路径。每一步深化以前一步的成功和信任积累为前提，与五重挑战中第五层的分析形成呼应：信任属于合作的产物而非启动条件，小项目成功、信任增加、更大项目启动的正反馈循环是合作演化的核心动力。
+> Mars and UC Davis 的合作经历了"嵌入一个人(2004)→ 成立一个院(Mars Advanced Research Institute, MARI, 2013)→ 建立一个所(IIFH, 2015)"的渐进深化路径。每一步深化以前一步的成功和信任积累为前提，与五重挑战中第五层的分析形成呼应：信任属于合作的产物而非启动条件，小项目成功、信任增加、更大项目启动的正反馈循环是合作演化的核心动力。
 
 ---
 
@@ -267,7 +267,7 @@ citation_aliases:
 > [!success]
 > - 国际 UI 合作的五重挑战（目标对齐、合作经验、知识产权、地缘政治、文化沟通）呈现出从"要不要合作"到"能不能持续"的层层嵌套结构(pp.311–316)
 > - 共同选址作为空间策略，通过缩短物理距离同时降低沟通成本、增进文化理解和简化 IP 操作摩擦，系统性回应了五重挑战(pp.317–318)
-> - Mars 与 UC Davis 的合作序列展示了从问题驱动项目（AWD）到使命驱动网络（[[African Orphan Crops Consortium|AOCC]]）再到制度化创新平台（[[Innovation Institute for Food and Health|IIFH]]）的三阶段演化，每一阶段以前一阶段的信任积累为前提(pp.319–323)
+> - Mars and UC Davis 的合作序列展示了从问题驱动项目（AWD）到使命驱动网络（[[African Orphan Crops Consortium|AOCC]]）再到制度化创新平台（[[Innovation Institute for Food and Health|IIFH]]）的三阶段演化，每一阶段以前一阶段的信任积累为前提(pp.319–323)
 > - 合作的长期成功取决于互利机制的建立，而非单一项目中的利益对等。互利机制使共同选址从空间安排升级为制度安排(p.320, p.323)
 > - 国际 UI 研究合作的出版物影响力更高，能汇聚多元视角解决单一机构无法应对的全球性挑战(p.311)
 
@@ -291,7 +291,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> - Wolf 和 Stevenson 受雇于 Mars，Siegel 受雇于 UC Davis，案例选择基于自身参与经验，可能偏向正面呈现，无法代表所有类型的国际 UI 合作模式(pp.323–324)
+> - Wolf and Stevenson 受雇于 Mars，Siegel 受雇于 UC Davis，案例选择基于自身参与经验，可能偏向正面呈现，无法代表所有类型的国际 UI 合作模式(pp.323–324)
 > - 未提供系统性的[[Literature Search|文献检索]]方法或纳入排除标准，论据筛选标准不透明
 > - 三个案例均属于食品与农业领域，该领域的[[University-Industry Collaboration|产学合作]]IP 敏感性可能低于制药或国防技术领域，因此"开放获取"策略的[[External Validity|可推广性]]有限
 

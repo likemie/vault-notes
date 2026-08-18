@@ -102,7 +102,7 @@ Total entries: **288**
 
 > [!trail]- University-industry links (8)
 > - [[Advanced Manufacturing Research Centre]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
-> - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
+> - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF and UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
 > - [[Alliance for Southern California Innovation]] — 2017 年成立的非营利组织，联合南加州顶尖研究机构、商界领袖和顾问，聚焦于弥合区域创新生态系统中的关键缺口，通过识别和培育高潜力初创企业来吸引新资本进入南加州
 > - [[APLU Innovation and Economic Prosperity Program]] — 美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定
 > - [[Bayh-Dole Act of 1980]] — 1980 年美国联邦立法，规定联邦政府资助下在大学产生的知识产权归大学所有，为大学技术转移和产学合作奠定了核心法律框架
@@ -293,7 +293,7 @@ Total entries: **288**
 > - [[Stanford Prison Experiment]] — 1971年由Philip Zimbardo在斯坦福大学进行的模拟监狱实验，因参与者迅速出现极端行为和严重情绪紊乱而在第六天被提前终止，成为研究伦理和角色扮演方法论的经典争议案例。
 
 > [!index-list]- Organization (4)
-> - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
+> - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF and UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
 > - [[Education International]] — 覆盖 172 个国家和地区的全球教师工会 network，拥有 401 个成员组织，以保护 and 促进公共免费教育及机会平等为核心使命，其与 IMF 和世界银行的合作关系为操演性驱动联盟行为提供了典型案例
 > - [[Network of Academic Corporate Relations Officers]] — 由大学企业关系专业人员组成的行业组织，通过发布白皮书和立场文件推动产学合作最佳实践，2011 年提出二十世纪大学企业关系项目的五项基本要素
 > - [[University Industry Innovation Network]] — 致力于推动产学创新合作的国际网络组织，出版 University Industry Innovation Magazine，2021 年战略伙伴关系特刊总结了产学战略联盟的核心特征
@@ -347,7 +347,7 @@ Total entries: **288**
 > [!index-list]- Event (5)
 > - [[American Society for Cultural Relations with Russia]] — 1927年前后在美成立的民间文化交流组织，John Dewey 任副主席，以书籍期刊交换为核心活动，1928年组织了 Dewey 等25名美国教育者的访苏之行，后被反共势力指控为共产党的外围宣传组织
 > - [[Cram Schools]] — 东亚社会广泛存在的校外付费学业补习机构，在台湾、日本、韩国、香港、中国、新加坡和越南普遍存在
-> - [[John Dewey's 1928 Visit to the Soviet Union]] — 1928 年 7–8 月 John Dewey 率美国教育者代表团访问苏联，会见了 Shatskii、Lunacharsky 等苏联教育改革者，访问由 ASCRR 与 VOKS 组织，推动了两国在教育领域的直接交流，同时引发美国国务院的监控和反共舆论的指责
+> - [[John Dewey's 1928 Visit to the Soviet Union]] — 1928 年 7–8 月 John Dewey 率美国教育者代表团访问苏联，会见了 Shatskii、Lunacharsky 等苏联教育改革者，访问由 ASCRR and VOKS 组织，推动了两国在教育领域的直接交流，同时引发美国国务院的监控和反共舆论的指责
 > - [[Sino-American Trade War]] — 中美围绕贸易、技术转移、产业政策和国家安全展开的持续性经济与地缘政治争端
 > - [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
 
@@ -516,8 +516,8 @@ Total entries: **288**
 > - [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集
 > - [[Promising Practices Network]] — 面向儿童与家庭政策的多领域非营利清算中心，曾提供项目证据摘要和实践案例库
 > - [[Purdue Discovery Park]] — 普渡大学以 Lilly Endowment 和印第安纳州各 1500 万美元初始投资创建的大学研究园区，如今发展为超过 10 亿美元的自持研发企业，是美国最大的大学附属研究园区之一
-> - [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
-> - [[Research Triangle Park]] — 1950 年代末在北卡罗来纳州建立的美国最大研究园区之一，联合 Duke、UNC-Chapel Hill 和 NC State 三所研究型大学，以 IBM 为早期锚定租户，是产学合作推动区域经济转型的经典案例
+> - [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP and Eisenhower QOP 两个项目版本
+> - [[Research Triangle Park]] — 1950 年代末在北卡罗来纳州建立的美国最大研究园区之一，联合 Duke、UNC-Chapel Hill and NC State 三所研究型大学，以 IBM 为早期锚定租户，是产学合作推动区域经济转型的经典案例
 > - [[Rising Above the Gathering Storm 2007]] — 2007 年美国国家科学院报告，重申基础与开放式研究投资的战略重要性，呼应 Vannevar Bush 的 Science, The Endless Frontier，强调科学与工程人才对美国经济未来的关键作用
 > - [[SBIR and STTR Programs]] — 美国联邦政府设立的小企业创新研究（SBIR）和小企业技术转移（STTR）计划，要求产业代表直接参与项目并提供市场输入，是大学衍生企业获得非稀释性资助和早期市场验证的重要联邦渠道
 > - [[Science, The Endless Frontier 1945]] — 1945 年 Vannevar Bush 向美国总统提交的报告，强调基础与开放式研究的战略重要性，直接促成 NSF 创建，塑造了二战后美国联邦政府资助大学基础研究的制度框架
@@ -530,10 +530,10 @@ Total entries: **288**
 > - [[Sunshine Act]] — 美国《平价医疗法案》2010 年组成部分，要求制药和医疗器械公司公开报告向医生和教学医院的所有支付，通过 Open Payments 数据库向公众披露，旨在增加产学临床试验中的财务透明度和防止利益冲突
 > - [[Tech Square at Georgia Tech]] — Georgia Tech 于 1990 年代末开发的产学合作创新园区，由校长 Wayne Clough 推动，以管理学院为锚点，经 TUFF 运营支持，是美国最成功的大学创新中心之一
 > - [[Tennessee STAR Project 1985-1989]] — 1985年至1989年在田纳西州开展的大规模班级规模随机对照试验，是教育领域最著名的RCT之一，为小班化教学提供了核心因果证据。
-> - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
+> - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin and Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
 > - [[TUFF]] — 1982 年由 Georgia Tech 校友在亚特兰大创立的 501(c)(3) 运营基金会，以私营部门交付模式为大学建设研究设施，四十余年来为产学合作创新中心提供开发、融资和场所营造服务
 > - [[UCSD Innovation and Commercialization Office]] — 加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统企业来找大学的产学合作方向
-> - [[Universal Parallel Computing Research Centers]] — 2008 年 Intel 与 Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley 和 UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折
+> - [[Universal Parallel Computing Research Centers]] — 2008 年 Intel and Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley and UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折
 > - [[University City Science Center]] — 费城的非营利产学合作组织，通过项目设计激励创业者关系发展并提供培训和资源，聚焦费城本地相对优势，后建立实体空间进一步集聚创业者、学者和产业伙伴
 > - [[University Inc]] — Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一
 > - [[University Industry Demonstration Partnership]] — 2004 年由美国国家科学院发起、2015 年独立为非营利组织的全球性产学合作组织，以合同共识和伙伴关系连续体为代表成果，同时是产学实践者的核心国际交流平台
@@ -543,7 +543,7 @@ Total entries: **288**
 > - [[What Works Clearinghouse]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
 
 > [!index-list]- Organization (1)
-> - [[Innovation Institute for Food and Health]] — 2015 年 Mars 与 UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议
+> - [[Innovation Institute for Food and Health]] — 2015 年 Mars and UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议
 
 > [!index-list]- Policy (13)
 > - [[CHIPS and Science Act]] — 2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设

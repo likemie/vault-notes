@@ -61,7 +61,7 @@ updated: '2026-07-04'
 > - **1970年代初 — 学术[[Paradigm|范式]]冲突爆发**
 >   随着结构社会学与[[Positivism|实证主义]]方法在社会科学界的全面兴起，英格兰比较教育学界发生严重的方法论分裂（the fracturing），偏离传统历史情境主义路径的探索者被保守的传统学者强行贴上“偏差者（deviants）”的标签。
 > - **1979–1980年 — 公开[[Disciplina and Doctrina|规训]]与学术论战**
->   [[Edmund King]] 试图以学科统治者的权威姿态，在其撰写的[[Document|文献]]及公开辩论中强制规训（discipline）阿彻，拒斥其社会学批判视角（Edmund King, 1979; Edmund King 与 Margaret Scotford Archer, 1980）。这场学术交锋演变为公开的“规训与教义（Disciplina and Doctrina）”冲突。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 329)]]
+>   [[Edmund King]] 试图以学科统治者的权威姿态，在其撰写的[[Document|文献]]及公开辩论中强制规训（discipline）阿彻，拒斥其社会学批判视角（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场学术交锋演变为公开的“规训与教义（Disciplina and Doctrina）”冲突。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 329)]]
 
 ---
 

@@ -122,7 +122,7 @@ updated: 2026-07-08
 > [!note]- 历史发展
 > **Fraser, Walberg & Hattie（1987）——首次大规模元综合**
 >
-> Glass 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg 和 Hattie 团队综合了 226 项元分析，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的 aptitudinal、instructional 和 environmental [[Variable|变量]]。这是教育领域最早的系统性元综合之一，展示了[[Meta-analysis|元分析]]作为新方法的快速普及([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
+> Glass 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg and Hattie 团队综合了 226 项元分析，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的 aptitudinal、instructional 和 environmental [[Variable|变量]]。这是教育领域最早的系统性元综合之一，展示了[[Meta-analysis|元分析]]作为新方法的快速普及([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
 >
 > **Hattie（1992）——"通用连续体"**
 >

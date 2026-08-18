@@ -4,7 +4,7 @@ aliases:
   - "演化经济学"
   - "Neo-Schumpeterian Economics"
   - "新熊彼特经济学"
-summary: "以 Nelson 和 Winter（1982）为奠基之作的经济学流派，强调经济活动的多样性、异质性和累积性学习过程，以技术轨迹和产业异质性为核心分析概念，挑战主流经济学的代表性企业和均衡分析假设"
+summary: "以 Nelson and Winter（1982）为奠基之作的经济学流派，强调经济活动的多样性、异质性和累积性学习过程，以技术轨迹和产业异质性为核心分析概念，挑战主流经济学的代表性企业和均衡分析假设"
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 9
@@ -61,7 +61,7 @@ updated: 2026-06-10
 > [!note]-
 > 演化经济学为以下创新研究领域提供了理论基础：
 > - **产业分类与[[Heterogeneity|异质性]]分析** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]]基于演化经济学对异质性的强调，使用主成分分析和回归分析验证了 [[Pavitt Taxonomy]] 的跨国家稳健性
-> - **创新与就业** Bogliacino 和 Pianta（2010, 2011, 2013）使用演化框架研究不同创新策略对就业和生产率的差异化影响，区分了"技术竞争力"（产品创新，开拓新市场）和"成本竞争力"（流程创新，降低成本）两种演化路径
+> - **创新与就业** Bogliacino and Pianta（2010, 2011, 2013）使用演化框架研究不同创新策略对就业和生产率的差异化影响，区分了"技术竞争力"（产品创新，开拓新市场）和"成本竞争力"（流程创新，降低成本）两种演化路径
 > - **[[Systems of Innovation|创新系统]]** [[Systems of Innovation|创新系统理论]]（Lundvall, 1992; Nelson, 1993）在演化经济学的基础上发展而来，将创新理解为多行动者在制度环境下的集体学习过程
 
 演化经济学对 Pavitt 分类法的核心贡献在于：它将"差异"从需要消除的计量误差重新定义为需要解释的理论对象。Pavitt 分类法通过将产业归入四个创新模式类别，为演化经济学提供了最具操作性的经验工具——不同类别不仅描述了创新模式差异，还在创新投入如何转化为经济绩效上具有因果解释力[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp.170-175)]]。

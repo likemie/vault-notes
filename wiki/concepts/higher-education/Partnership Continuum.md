@@ -123,7 +123,7 @@ updated: 2026-06-10
 > 伙伴关系连续体在[[Academic Health System|学术健康系统]]（AHS）中的适用方式与大学和 [[Academic Medical Center|AMC]] 非常相似：AHS 参与从 Level 1 到 Level 3 的合作；与新伙伴的首次合作可以从任何级别进入；与同一伙伴可以同时在不同级别维持多个合作关系([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, p.188]])。
 
 > [!note]- 互补视角：合作光谱（Spectrum of Partnerships）
-> Swick 和 Jones（2025, p.187, Fig. 10.4）在同一语境中提出了另一种互补框架——合作光谱（Spectrum of Partnerships），位于从"交易型"（transactional）到"创新型"（innovative）的连续谱上：
+> Swick and Jones（2025, p.187, Fig. 10.4）在同一语境中提出了另一种互补框架——合作光谱（Spectrum of Partnerships），位于从"交易型"（transactional）到"创新型"（innovative）的连续谱上：
 > - **交易型** 创新由产业伙伴带入——例如产业开发新药，AHS 作为理想的[[Clinical Trial|临床试验]]场所和临床专家聚集地。优先是催化患者诊疗改善、验证增值效应并迅速部署
 > - **创新型** 创新源自 AHS 内部——例如教师研究员拥有创新和专利但需要伙伴支持规模化。优先在患者诊疗改善之外还包括知识产权（Intellectual Property, IP）保护和[[Return on Investment|投资回报]]
 >

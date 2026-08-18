@@ -43,7 +43,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> Rasch 测量（Rasch Measurement）是一种把测验答题[[Data Transformation|数据转换]]到共同尺度上的测量方法，以丹麦数学家和统计学家 Georg Rasch (1901-1980) 命名。在 [[PISA]]、TIMSS 和 PIRLS 等国际大规模评估中，原始观察值或答对题数本身并不直接构成公共排名使用的分数；经过 Rasch 分数转换后，结果被放置到共同尺度上，并常以中点 500 的量表向公众和政策界呈现([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]])。
+> Rasch 测量（Rasch Measurement）是一种把测验答题[[Data Transformation|数据转换]]到共同尺度上的测量方法，以丹麦数学家和统计学家 Georg Rasch (1901-1980) 命名。在 [[PISA]]、TIMSS and PIRLS 等国际大规模评估中，原始观察值或答对题数本身并不直接构成公共排名使用的分数；经过 Rasch 分数转换后，结果被放置到共同尺度上，并常以中点 500 的量表向公众和政策界呈现([[Argument_Allerup_2015_Paideia|Allerup, 2015, p.47]])。
 
 ---
 

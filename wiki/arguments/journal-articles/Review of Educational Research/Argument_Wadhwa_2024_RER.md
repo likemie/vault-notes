@@ -159,7 +159,7 @@ citation_aliases:
 >
 > ### Table 4：四个清算中心的评级标准对照
 >
-> 该表是论文最有解释力的表：它显示"最高评级"在不同清算中心中意味着不同证据门槛。作者只选取 [[What Works Clearinghouse]]、[[Blueprints for Healthy Youth Development]]、[[National Dropout Prevention Center]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] 四个机构做详细对照，是因为它们在评级对象、单项研究是否单独评级、项目最高评级门槛、持续效果要求和研究者独立性要求上形成清楚对比；其中 WWC 和 Blueprints 会显性评级单项研究，NDPC 和 CEBC 则主要给项目评级(pp.12–15)。
+> 该表是论文最有解释力的表：它显示"最高评级"在不同清算中心中意味着不同证据门槛。作者只选取 [[What Works Clearinghouse]]、[[Blueprints for Healthy Youth Development]]、[[National Dropout Prevention Center]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] 四个机构做详细对照，是因为它们在评级对象、单项研究是否单独评级、项目最高评级门槛、持续效果要求和研究者独立性要求上形成清楚对比；其中 WWC and Blueprints 会显性评级单项研究，NDPC and CEBC 则主要给项目评级(pp.12–15)。
 >
 > 这里的"单项研究"对应原文 individual studies，指清算中心是否为每一项纳入研究单独给出质量评级；它不是 [[Single-Case Design]]。[[Single-Case Design|SCD]] 是一种具体研究设计类型，在 WWC 主题综述协议中可被纳入，但 Table 4 的"individual studies"是研究单位层级，不是 SCD 方法类别(pp.8–9, 13)。
 >
@@ -193,9 +193,9 @@ citation_aliases:
 > | [[Collaborative for Academic Social and Emotional Learning Guide]] | 25 | 2015 CASEL Guide 中所有项目，聚焦社会情感学习 |
 > | [[Social Programs That Work]] | 24 | Prenatal/early childhood、K–12 education、postsecondary education 主题项目 |
 > | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] | 11 | 儿童与青少年儿童福利教育干预主题项目 |
-> | [[CNCS Evidence Exchange]] | 52 | Education 和 Capacity Building focus areas 中有 Impact 和 Outcomes 研究的项目；删除无 Level of Evidence 的项目和重复项 |
+> | [[CNCS Evidence Exchange]] | 52 | Education and Capacity Building focus areas 中有 Impact and Outcomes 研究的项目；删除无 Level of Evidence 的项目和重复项 |
 >
-> PPN 和 PNRC 不出现在 Table 5 的最终项目选取池中：PPN 因 2020 年中停止运行而未进入后续一致性分析，PNRC 因不提供项目效果分层评级而不适合纳入同一评级比较框架；另有 17 个 Blueprints 正在审查且未被其他清算中心评级的项目也被排除(pp.15–17)。
+> PPN and PNRC 不出现在 Table 5 的最终项目选取池中：PPN 因 2020 年中停止运行而未进入后续一致性分析，PNRC 因不提供项目效果分层评级而不适合纳入同一评级比较框架；另有 17 个 Blueprints 正在审查且未被其他清算中心评级的项目也被排除(pp.15–17)。
 >
 > ### Table 6：项目被多少个清算中心共同评级
 >
@@ -255,7 +255,7 @@ citation_aliases:
 > - 12 个教育清算中心中，4 个只关注教育，8 个覆盖教育及其他社会政策领域；[[What Works Clearinghouse|WWC]] 和 [[Best Evidence Encyclopedia|BEE]] 覆盖更广泛的教育结果与干预，而 [[National Dropout Prevention Center|NDPC]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 等机构聚焦更窄主题(p.6)。
 > - 7 个清算中心由美国政府部门、研究机构或政府-大学伙伴关系资助；WWC 已获得美国教育部超过 1 亿美元支持，远高于多数其他清算中心(p.8)。
 > - 所有清算中心都偏好 [[Randomised Controlled Trials|RCT]]，但对 RCT 执行质量的判定不同：只有 WWC 对集群层级[[Random Assignment|随机分配]]提供深入说明，[[Social Programs That Work|SPTW]]、[[Promise Neighborhoods Research Consortium|PNRC]] 和 Blueprints 要求[[Intent-to-Treat Analysis|意向治疗分析]]，WWC 在特定条件下允许 CACE(p.9)。
-> - 对 [[Quasi-Experimental Designs|QED]] 的处理比 RCT 更分散：所有清算中心承认一般 QED，但 RDD 与 ITS 仅被部分机构认真纳入；WWC 是将 RDD 和其他 QED 作为重要[[Causality|因果推断]]工具并制定标准的主要例外(pp.9–11)。
+> - 对 [[Quasi-Experimental Designs|QED]] 的处理比 RCT 更分散：所有清算中心承认一般 QED，但 RDD and ITS 仅被部分机构认真纳入；WWC 是将 RDD 和其他 QED 作为重要[[Causality|因果推断]]工具并制定标准的主要例外(pp.9–11)。
 > - 1,359 个项目中 1,131 个（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级(p.18)。
 > - 作者认为评级不一致最可能来自证据标准差异，尤其是是否要求复制、独立复制和治疗后持续效果；传统因果识别与估计问题反而不是解释高等级分歧的唯一或主要因素(pp.26–27)。
 
@@ -265,8 +265,8 @@ citation_aliases:
 > - [[Open Court Reading]] — 三个清算中心（[[What Works Clearinghouse|WWC]]、Blueprints、[[Best Evidence Encyclopedia|BEE]]）都将该小学阅读项目评为 promising，但它们对同一 Borman et al. [[Randomised Controlled Trials|RCT]] 的效应大小、研究限制和同一研究在不同综述中的设计类型判断并不完全一致；该案例显示"底线评级一致"仍可能掩盖标准差异(pp.22–23)。
 > - [[Success for All]] — 五个清算中心评价该全校改革/读写项目，均未给出负面结论，但 WWC 按结果域给出从 recommended 到 mixed 的不同判断，BEE 按不同项目变体给出强/中等证据，其他机构使用的研究数量也高度不同；该案例显示结果域和项目变体会影响评级解释(p.23)。
 > - [[Peer-Assisted Learning Strategies]] — 五个清算中心对 PALS 的整体项目、阅读版本、数学版本和不同结果域给出分散判断；[[National Dropout Prevention Center|NDPC]] 推荐，Blueprints 认为 promising，WWC 随结果域变化，BEE 推荐 PALS Math，[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 不推荐任何版本；该案例突出"研究纳入集合不同"和"项目组件拆分不同"的影响(pp.23–24)。
-> - [[Quantum Opportunity Program]] — QOP 和 Eisenhower QOP 在多个清算中心中出现中度分歧：NDPC 认为 QOP promising，Blueprints 和 WWC 不认为其达到 promising；Eisenhower QOP 被 Blueprints 评为 promising，但 CMFR 不能给出 promising 评级；该案例显示项目更新版本和研究可获得性会改变评级(pp.24–25)。
-> - [[Communities in Schools]] — 五个清算中心对 [[Community Innovation Survey|CIS]] 出现清晰分歧：NDPC 推荐，[[Promising Practices Network|PPN]] 和 [[CNCS Evidence Exchange]] 认为 promising/中等支持，Blueprints 与 CMFR 不背书；作者用该案例说明，利益相关者查询同一项目时可能遇到由标准、纳入研究和更新时间共同造成的相互冲突结论(p.25)。
+> - [[Quantum Opportunity Program]] — QOP and Eisenhower QOP 在多个清算中心中出现中度分歧：NDPC 认为 QOP promising，Blueprints and WWC 不认为其达到 promising；Eisenhower QOP 被 Blueprints 评为 promising，但 CMFR 不能给出 promising 评级；该案例显示项目更新版本和研究可获得性会改变评级(pp.24–25)。
+> - [[Communities in Schools]] — 五个清算中心对 [[Community Innovation Survey|CIS]] 出现清晰分歧：NDPC 推荐，[[Promising Practices Network|PPN]] 和 [[CNCS Evidence Exchange]] 认为 promising/中等支持，Blueprints and CMFR 不背书；作者用该案例说明，利益相关者查询同一项目时可能遇到由标准、纳入研究和更新时间共同造成的相互冲突结论(p.25)。
 
 ## 关键引用
 

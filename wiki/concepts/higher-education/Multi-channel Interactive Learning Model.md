@@ -3,7 +3,7 @@ title: Multi-channel Interactive Learning Model
 aliases:
   - 多通道互动学习模型
   - multi-channel learning model
-summary: "Caraça、Lundvall 和 Mendonça 提出的创新过程分析框架，将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念为核心要素，论证科学是创新过程中无处不在但非主宰性的多元知识来源之一"
+summary: "Caraça、Lundvall and Mendonça 提出的创新过程分析框架，将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念为核心要素，论证科学是创新过程中无处不在但非主宰性的多元知识来源之一"
 type: concept
 domain: "higher-education"
 related_count: 12
@@ -46,7 +46,7 @@ updated: 2026-06-09
 ## 定义
 
 > [!info] 核心定义
-> 多通道互动学习模型（multi-channel interactive learning model）是 Caraça、Lundvall 和 Mendonça（2009）提出的创新过程[[Analytic Framework|分析框架]]，旨在更新、补充和扩展 Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]。该模型将创新过程重新定位在[[Learning Economy|学习经济]]的语境中，核心主张是：创新不是从科学到市场的线性或链式推进，而是在多元知识来源、多层制度环境和多通道互动学习共同作用下的螺旋式过程。[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, pp. 864–866)]]
+> 多通道互动学习模型（multi-channel interactive learning model）是 Caraça、Lundvall and Mendonça（2009）提出的创新过程[[Analytic Framework|分析框架]]，旨在更新、补充和扩展 Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]。该模型将创新过程重新定位在[[Learning Economy|学习经济]]的语境中，核心主张是：创新不是从科学到市场的线性或链式推进，而是在多元知识来源、多层制度环境和多通道互动学习共同作用下的螺旋式过程。[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, pp. 864–866)]]
 
 ---
 

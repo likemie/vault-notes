@@ -109,5 +109,5 @@ updated: '2026-05-18'
 > - [[Australia in the Asian Century White Paper]] — 推动 AISRF、ACSRF 等与亚洲的研究合作基金
 > - 澳大利亚《[[International Education|国际教育]]国家战略 2025》— 将研究合作纳入国家竞争力和产业创新战略
 > - [[University-Industry Co-location|产学共同选址]] — 国际[[University-Industry Collaboration|产学合作]]的空间策略，如联合利华 Hive（WUR）、Mars MARI（UC Davis）([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, pp.317–318]])
-> - Mars 与 UC Davis [[African Orphan Crops Consortium|非洲孤儿作物联盟]]（AOCC）— 多国政府、大学和企业联合改良 101 种传统非洲粮食作物的跨国合作项目，已培训超过 172 名非洲科学家([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, pp.320–321]])
+> - Mars and UC Davis [[African Orphan Crops Consortium|非洲孤儿作物联盟]]（AOCC）— 多国政府、大学和企业联合改良 101 种传统非洲粮食作物的跨国合作项目，已培训超过 172 名非洲科学家([[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025, pp.320–321]])
 

@@ -167,11 +167,11 @@ updated: 2026-07-23
 
 ### 22.4 陈述的引发、分析与验证程序
 
-#### Box 22.2：Brown 和 Sime 的陈述收集框架
+#### Box 22.2：Brown and Sime 的陈述收集框架
 
 陈述的引发、分析和验证中的问题，通过以下两项教育研究的概述得到进一步说明：第一项关注年长男孩和女孩的价值观念；第二项关注小学课堂中师生使用计算机的活动。
 
-[[Account Gathering|陈述收集]]的系统化操作框架由 Brown 和 Sime（1977, 1981）提出，将整个过程分解为四个要素，每个要素配以相应的控制程序（pp.444–445）：
+[[Account Gathering|陈述收集]]的系统化操作框架由 Brown and Sime（1977, 1981）提出，将整个过程分解为四个要素，每个要素配以相应的控制程序（pp.444–445）：
 
 > [!ref-table] Box 22.2　陈述收集的四要素框架（Brown & Sime, 1981, p. 163）
 > | 研究策略 | 控制程序 |
@@ -283,8 +283,8 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_22-1_Sociogram.jpg)
 >
 > - **Diane** 是明星，被多人选择
-> - **Diane 和 Fiona** 构成对偶，互相选择
-> - **Susan、Diane 和 Jane** 构成三人组，三向互选
+> - **Diane and Fiona** 构成对偶，互相选择
+> - **Susan、Diane and Jane** 构成三人组，三向互选
 > - **Amy → Diane → Fiona → Carol** 构成一条链，选择传递但未必互惠
 > - **Amy** 是孤立者，选择了他人但不被任何人选择
 > - **Maria** 是幽灵，不做选择也不被选择
@@ -294,7 +294,7 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 
 ---
 
-#### Knoke 和 Yang 的网络分析框架
+#### Knoke and Yang 的网络分析框架
 
 Knoke & Yang（2008）为网络分析提供了系统化的概念框架（pp.451–453）：
 
@@ -327,7 +327,7 @@ Knoke & Yang（2008, p. 12）进一步提出七种关系类型学：
 > - **亲属与血缘** 家庭或血亲纽带
 
 > [!info] 网络展示方式与分析软件
-> 展示方式包括社会图（图 22.1）、关系强度/类型图形（图 22.2）、矩阵（p.49）、关系测量（p.51）、有向和无向图（pp.56–62）、中心性和声望测量（pp.62–72）、小集团（pp.72–76）、结构等价（pp.76–79）、树状图（pp.79–85）和块模型（pp.85–91）。分析软件推荐 UCINET 和 StOCNET（pp.453–454）。
+> 展示方式包括社会图（图 22.1）、关系强度/类型图形（图 22.2）、矩阵（p.49）、关系测量（p.51）、有向和无向图（pp.56–62）、中心性和声望测量（pp.62–72）、小集团（pp.72–76）、结构等价（pp.76–79）、树状图（pp.79–85）和块模型（pp.85–91）。分析软件推荐 UCINET and StOCNET（pp.453–454）。
 
 > [!example]- 图22.2　展示关系强度或类型的网络图形
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_22-2_Network_Graphic.jpg)

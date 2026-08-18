@@ -68,7 +68,7 @@ updated: 2026-07-19
 > - **知识位置** 生物[[Epistemology|认识论]]（Maturana & Varela）、社会系统论（Luhmann）、[[Transition Design|转型设计]]论（Escobar）以及系统比较教育学（Schriewer）。
 
 > [!claim] 核心主张
-> 自创生（Autopoiesis）最初由 Maturana 和 Varela 创立，用以界定生命系统的自我指涉和边界自我维系特征。该理论由 Luhmann 扩展至社会科学，表明社会系统由操作封闭的自我指涉网络构成。在比较教育中，该学说被 Schriewer 用于解释教育系统的自我参照与折射机制（即全球教育修辞的外在参照与内部重组），而在转型设计中被 Escobar 用于阐释多重地方自组织在去中心化社会转型中的[[Emergence|涌现]]逻辑。
+> 自创生（Autopoiesis）最初由 Maturana and Varela 创立，用以界定生命系统的自我指涉和边界自我维系特征。该理论由 Luhmann 扩展至社会科学，表明社会系统由操作封闭的自我指涉网络构成。在比较教育中，该学说被 Schriewer 用于解释教育系统的自我参照与折射机制（即全球教育修辞的外在参照与内部重组），而在转型设计中被 Escobar 用于阐释多重地方自组织在去中心化社会转型中的[[Emergence|涌现]]逻辑。
 
 > [!citation-card]- 关键表述
 > 涌现，是在多重地方行动的基础上发生的，这些行动通过其（很大程度上未计划的）相互作用，产生了一个在观察者看来是新的整合整体结构……而不需要任何中央计划或智能来引导这一过程。([[Argument_Amos_2022_Springer|Amos, 2022, p. 61]])

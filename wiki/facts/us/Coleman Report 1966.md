@@ -118,7 +118,7 @@ updated: '2026-06-02'
 >
 > #### 常见的误读
 >
-> Downey & Condron 特别指出，Coleman 和 Jencks 的研究经常被误读为学校不重要（schools do not matter）。更准确的解读是：**学校在塑造成就差距方面只起次要作用（schools play only a minor role in shaping achievement gaps）**。这一微妙但关键的区分——学校对个体学习的绝对影响 vs 学校对群体间差距的相对影响——在后续的学术辩论中经常被混淆。
+> Downey & Condron 特别指出，Coleman and Jencks 的研究经常被误读为学校不重要（schools do not matter）。更准确的解读是：**学校在塑造成就差距方面只起次要作用（schools play only a minor role in shaping achievement gaps）**。这一微妙但关键的区分——学校对个体学习的绝对影响 vs 学校对群体间差距的相对影响——在后续的学术辩论中经常被混淆。
 >
 > #### 催生的独立研究路线
 >
@@ -132,7 +132,7 @@ updated: '2026-06-02'
 >
 > ### Jencks 之后的再验证：Downey, von Hippel & Hughes (2008)
 >
-> 约四十年后，Downey、von Hippel 和 Hughes 使用[[Seasonal Comparison|季节性比较]]方法（学年 vs 暑假学习率差异作为学校质量的测量指标），分析了 287 所学校的全国代表性样本，发现这一学校质量指标与学校免费／减免午餐学生比例之间**没有关系([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.8–9]])**。这一发现从新的方法论角度支持了 Coleman 的核心直觉——可测量的学校特征与 SES 构成之间缺乏强关联。
+> 约四十年后，Downey、von Hippel and Hughes 使用[[Seasonal Comparison|季节性比较]]方法（学年 vs 暑假学习率差异作为学校质量的测量指标），分析了 287 所学校的全国代表性样本，发现这一学校质量指标与学校免费／减免午餐学生比例之间**没有关系([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.8–9]])**。这一发现从新的方法论角度支持了 Coleman 的核心直觉——可测量的学校特征与 SES 构成之间缺乏强关联。
 >
 > Lauen & Gaddis (2013) 以及 Lubienski & Lubienski (2013，私立学校并不比公立学校产生更多学习）的研究提供了一致但独立于 Coleman 传统的证据([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.9]])。
 >
@@ -152,7 +152,7 @@ updated: '2026-06-02'
 >
 > Coleman Report 失宠的最直接原因是方法论批评([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.2]])：
 >
-> - **遗漏[[Variable|变量]]问题** 批评者指出——且 Downey & Condron 认为这一批评是正确的（correctly）——Coleman 和 Jencks 可能未能测量学校最重要的方面：那些真正产生不平等的特征，如教师质量、课程内容、教学[[Praxis|实践]]、学校氛围等。如果这些未测量的学校因素系统性偏向高 SES 学生，那么 Coleman Report 将系统性低估学校对不平等的贡献。
+> - **遗漏[[Variable|变量]]问题** 批评者指出——且 Downey & Condron 认为这一批评是正确的（correctly）——Coleman and Jencks 可能未能测量学校最重要的方面：那些真正产生不平等的特征，如教师质量、课程内容、教学[[Praxis|实践]]、学校氛围等。如果这些未测量的学校因素系统性偏向高 SES 学生，那么 Coleman Report 将系统性低估学校对不平等的贡献。
 > - **统计方法局限** 1960 年代的回归技术无法有效处理选择偏误——儿童并非[[Random Assignment|随机分配]]到学校，观察到的校际差异可能混杂了非学校因素的效应。传统策略（统计控制可测量的家庭背景维度、预测学习增值而非单一时间点的结果）仅部分有效——Burkam et al. (2004) 发现最好的模型也仅解释了不到 15% 的暑期学习方差([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.3]])。
 > - **低估的原因可能被低估了** 如果传统统计方法解释了不到 15% 的非学校学习方差，那意味着 85%+ 的非学校特征在大规模调查中无法测量——使用这些技术的学校效应估计将系统性高估学校效应，而非低估。这意味着：Coleman 可能低估了学校效应（因为遗漏了关键学校变量），但批评者所依赖的传统方法则可能高估了学校效应（因为未能充分控制非学校因素）。
 >
@@ -233,7 +233,7 @@ updated: '2026-06-02'
 >
 > 2. **学校改革可能不是减少成就差距的最佳策略** 差距主要在学校入学前形成（ECLS-K 数据：幼儿园至八年级 SES 阅读差距仅增长约 12%，数学差距实际缩小；加拿大 4–5 岁儿童的 PPVT 阅读分数已领先美国同龄人 .31 SD，与 15–16 岁 [[PISA]] 差距 .30 SD 几乎相同）。这意味着问题不在于学校改革是否**可能**缩小差距——而在于学校改革是否**是缩小差距的最佳策略([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.8, 10]])**。
 >
-> 3. **缩小差距需要为弱势儿童创造显著优于优势儿童的学校环境** 如果低 SES 儿童目前享有与高 SES 儿童大致相似的学习环境（当 school 效应被仔细分离后），那么仅仅将低 SES 学校提升到高 SES 学校水平不足以缩小差距——需要创造**显著优于**高 SES 儿童所享受的学校条件（如 Harlem Children's Zone 和 KIPP [[Partnership Schools Kura Hourua|特许学校]]那样，通过大幅延长在校时间和吸引高质量教师）。扩大此类[[Conatus|努力]]的规模——并重要的是，**仅**向低 SES 儿童提供而非高 SES 儿童——将面临巨大的政治障碍([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.9]])。
+> 3. **缩小差距需要为弱势儿童创造显著优于优势儿童的学校环境** 如果低 SES 儿童目前享有与高 SES 儿童大致相似的学习环境（当 school 效应被仔细分离后），那么仅仅将低 SES 学校提升到高 SES 学校水平不足以缩小差距——需要创造**显著优于**高 SES 儿童所享受的学校条件（如 Harlem Children's Zone and KIPP [[Partnership Schools Kura Hourua|特许学校]]那样，通过大幅延长在校时间和吸引高质量教师）。扩大此类[[Conatus|努力]]的规模——并重要的是，**仅**向低 SES 儿童提供而非高 SES 儿童——将面临巨大的政治障碍([[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.9]])。
 
 ## 相关概念／政策
 

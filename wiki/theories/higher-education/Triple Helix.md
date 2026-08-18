@@ -5,7 +5,7 @@ aliases:
   - "三重螺旋模型"
   - "大学产业政府三重螺旋"
   - "Triple Helix model"
-summary: "Etzkowitz 与 Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统"
+summary: "Etzkowitz and Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统"
 type: theory
 theory_field: "higher-education"
 theory_related_count: 33
@@ -72,7 +72,7 @@ updated: 2026-06-10
 > [!quote]
 > "Etzkowitz & Leydesdorff (1995) characterize the feedback loop among government, universities, and industry as a mutually supportive 'triple Helix.'"（p.13, paraphrased）
 > 
-> Etzkowitz 和 Leydesdorff 将政府、大学与产业之间的反馈循环描述为相互支持的三重螺旋。
+> Etzkowitz and Leydesdorff 将政府、大学与产业之间的反馈循环描述为相互支持的三重螺旋。
 
 ---
 
@@ -133,7 +133,7 @@ updated: 2026-06-10
 
 ---
 
-- 1995 年 Etzkowitz 和 Leydesdorff 在 EASST Review 上首次提出 Triple Helix 概念，将大学-产业-政府关系描述为**[[Knowledge-Based Economy|知识经济]]发展的实验室**（p.13）
+- 1995 年 Etzkowitz and Leydesdorff 在 EASST Review 上首次提出 Triple Helix 概念，将大学-产业-政府关系描述为**[[Knowledge-Based Economy|知识经济]]发展的实验室**（p.13）
 - 此后该模型被广泛应用于分析创新政策和[[University-Industry Collaboration|产学合作]]，成为创新研究的重要理论框架之一
 - O'Mara（2019）的 The Code 在硅谷发展史中记录了这一三重螺旋现象的具体运作（p.13）
 

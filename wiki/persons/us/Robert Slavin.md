@@ -78,7 +78,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **[[Success for All]]** — Slavin 与 Nancy Madden 共同创立的整体学校改革模式，在 48 个州超过 1,500 所学校实施，是 ESSA 强证据等级下[[Effect Size|效应量]]最高的阅读项目之一（ES = +0.41）。2002 年论文详细描述了 SFA [[Random Assignment|随机化]]评估的招募困难——最初 USD 30,000/校的激励不够，最终改为免费提供项目和延迟处理对照组设计。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 18]])
+> - **[[Success for All]]** — Slavin and Nancy Madden 共同创立的整体学校改革模式，在 48 个州超过 1,500 所学校实施，是 ESSA 强证据等级下[[Effect Size|效应量]]最高的阅读项目之一（ES = +0.41）。2002 年论文详细描述了 SFA [[Random Assignment|随机化]]评估的招募困难——最初 USD 30,000/校的激励不够，最终改为免费提供项目和延迟处理对照组设计。([[Argument_Slavin_2002_ER|Slavin, 2002, p. 18]])
 > - **Best-Evidence Encyclopedia ([[Best Evidence Encyclopedia|BEE]])** — 免费网站，[[Systematic Review|系统综述]]各领域教育项目有效性研究
 > - **Evidence for ESSA** — 面向教育领导者、与 ESSA 证据标准对齐的项目信息网站，截至 2019 年 1 月月活用户超 7 万
 > - [[Evidence-Based Reform]] — 提出并持续推动该政策框架

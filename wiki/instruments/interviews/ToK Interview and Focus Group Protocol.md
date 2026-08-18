@@ -67,7 +67,7 @@ updated: 2026-07-01
 > |---|---|---|---|
 > | ToK 课程体验 | 4 | ToK 的有效性、改进方向、个人意义、与 [[International Baccalaureate\|IB]] 学习的关系 | 定性[[Coding in Qualitative Research\|编码]] |
 > | 批判性思维理解 | 7 | 批判性思维的定义、可教性、要素、特质、标准、效用、必要技能 | 定性编码 |
-> | CT 与 ToK 的关联 | 3 | CT 与 ToK 的关系、CT 在 ToK 中的评价方式、CT 改进路径 | 定性编码 |
+> | CT and ToK 的关联 | 3 | CT and ToK 的关系、CT 在 ToK 中的评价方式、CT 改进路径 | 定性编码 |
 > | 课堂[[Praxis\|实践]]与态度 | 4 | CT 在课堂中的诱发方式、学校对 CT/ToK 的态度、好课标准、自我评价 | 定性编码 |
 > | 身份与哲学 | 2 | ToK/CT 与身份的关系、对哲学及其与 ToK 关系的理解 | 定性编码 |
 
@@ -96,9 +96,9 @@ updated: 2026-07-01
 > | 9 | 批判性思维理解 | 批判性思维的标准是什么？<br><small>What are the standards for critical thinking?</small> | 如何评估？ | 同上 |
 > | 10 | 批判性思维理解 | 批判性思维对你有什么作用？<br><small>How and why is critical thinking useful to you?</small> | 为什么？ | 同上 |
 > | 11 | 批判性思维理解 | 批判性思维需要哪些技能？<br><small>What skills are necessary for critical thought?</small> | — | 同上 |
-> | 12 | CT 与 ToK 的关联 | 批判性思维与 ToK 之间是什么关系？<br><small>What is the relationship between critical thought and ToK?</small> | — | 同上 |
-> | 13 | CT 与 ToK 的关联 | ToK 如何评估批判性思维的表现？<br><small>How is performance in critical thought evaluated through ToK?</small> | 评估过程可以如何改进？ | 同上 |
-> | 14 | CT 与 ToK 的关联 | 批判性思维可以改进吗？<br><small>Can critical thinking be improved?</small> | 如何改进？ | 同上 |
+> | 12 | CT and ToK 的关联 | 批判性思维与 ToK 之间是什么关系？<br><small>What is the relationship between critical thought and ToK?</small> | — | 同上 |
+> | 13 | CT and ToK 的关联 | ToK 如何评估批判性思维的表现？<br><small>How is performance in critical thought evaluated through ToK?</small> | 评估过程可以如何改进？ | 同上 |
+> | 14 | CT and ToK 的关联 | 批判性思维可以改进吗？<br><small>Can critical thinking be improved?</small> | 如何改进？ | 同上 |
 > | 15 | 课堂[[Praxis\|实践]]与态度 | 批判性思维在课堂中是如何被激发的？<br><small>How is involvement with critical thinking induced in the classroom?</small> | — | 同上 |
 > | 16 | 课堂实践与态度 | 学校中对批判性思维和 ToK 持有什么态度？<br><small>What attitudes to critical thinking and ToK do you find in your school?</small> | 能否解释原因？ | 同上 |
 > | 17 | 课堂实践与态度 | 一堂好的 ToK 或批判性思维课是什么样的？<br><small>What is a good ToK or critical thinking class?</small> | 为什么？ | 同上 |
@@ -122,7 +122,7 @@ updated: 2026-07-01
 > | F9 | 批判性思维 | 批判性思维在课程中的重要性 | — | 同上 |
 > | F10 | 批判性思维 | 批判性思维的不同领域，包括推理和演绎 | — | 同上 |
 > | F11 | 生活技能 | 批判性思维作为生活技能的重要性 | — | 同上 |
-> | F12 | 情境因素 | 与 CT 和 ToK 相关的学校环境、同伴压力、IB 整体等因素 | — | 同上 |
+> | F12 | 情境因素 | 与 CT and ToK 相关的学校环境、同伴压力、IB 整体等因素 | — | 同上 |
 > | F13 | 思考者身份 | 是否将自己视为批判性思考者 | — | 同上 |
 > | F14 | 哲学定位 | ToK 是否一定是哲学性的 | — | 同上 |
 

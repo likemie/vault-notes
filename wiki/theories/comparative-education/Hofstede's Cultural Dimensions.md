@@ -56,7 +56,7 @@ updated: '2026-05-18'
 
 > [!note-] 发展脉络
 > - **1984 年** — Hofstede 在原始工作中提出四个国家文化维度：个人主义/集体主义、权力距离、女性化/男性化、不确定性规避([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.36]])。
-> - **2010 年** — Hofstede、Hofstede 与 Minkov 的后续著作继续将文化定义为"心智软件"，并强调价值观在国家文化中的核心位置。
+> - **2010 年** — Hofstede、Hofstede and Minkov 的后续著作继续将文化定义为"心智软件"，并强调价值观在国家文化中的核心位置。
 
 ## 研究范式
 
@@ -74,7 +74,7 @@ updated: '2026-05-18'
 ## 相关研究
 
 > [!example] 相关研究
-> - [[Argument_Laursen_2015_Paideia]] — 用 Hofstede 国家文化维度提出并检验"国际[[Effective Teaching|有效教学]]综合是否适用于丹麦"的问题；结论认为国家文化并未显著改变 Hattie、Helmke 和 Meyer 所概括的核心有效教学质量([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–40]])。
+> - [[Argument_Laursen_2015_Paideia]] — 用 Hofstede 国家文化维度提出并检验"国际[[Effective Teaching|有效教学]]综合是否适用于丹麦"的问题；结论认为国家文化并未显著改变 Hattie、Helmke and Meyer 所概括的核心有效教学质量([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.36–40]])。
 
 ## 应用领域
 

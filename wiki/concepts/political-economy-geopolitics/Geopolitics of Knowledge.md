@@ -224,9 +224,9 @@ updated: 2026-05-20
 > [!logic-map] 理论归属
 > - [[Knowledge-Based Economization]] — Moisio（2018）提供关键分析工具，将注意力从[[Knowledge-Based Economy|知识经济]]话语层面转向物质过程和[[Praxis|实践]]
 > - [[Critical Geopolitics]] — 批判地缘政治学脉络提供[[Relational Space|关系性空间]]分析和话语建构分析工具；[[Sami Moisio]] 为 GPK 批判地缘政治学方向的核心代表
-> - [[Decolonial Geopolitics of Knowledge]] — Mignolo 和 Dussel 的去殖民批判揭示当前知识经济化在[[Epistemology|认识论]]层面的殖民性延续
+> - [[Decolonial Geopolitics of Knowledge]] — Mignolo and Dussel 的去殖民批判揭示当前知识经济化在[[Epistemology|认识论]]层面的殖民性延续
 > - [[Doreen Massey]] — Massey（2005）的[[Relational Space|关系性空间]]理论为 GPK 提供核心[[Ontology|本体论]]基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定（[[Argument_Marginson_2025_ROE|Marginson, 2025, pp.5–7]]）
-> - [[Space-Making]] — [[Argument_Marginson_2025_ROE|Marginson（2025）]]基于 Lefebvre 和 Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践）
+> - [[Space-Making]] — [[Argument_Marginson_2025_ROE|Marginson（2025）]]基于 Lefebvre and Massey 发展的高等教育空间制造三维框架（物质结构、想象与实践）
 > - [[Multiplicity]] — Massey 的多重性概念预测并解释全球化意外促进[[Heterogeneity|异质性]]而非同质化的趋势
 > - [[Global Regionalisms]] — Robertson et al.（2016）揭示高等教育如何通过区域整合项目成为地缘政治想象的核心支柱
 > - [[Global Education Industry]] — 经济化、商品化、私有化等概念为 GPK 提供"肥沃的土壤和生产性的推力"（Thompson & Parreira do Amaral, 2022, p.12）
@@ -434,6 +434,6 @@ updated: 2026-05-20
 > - [[Minerva University]] — 无校园、全球化营利性大学，学生四年在七个世界城市轮转，体现高等教育彻底"脱嵌"民族国家框架（Thompson & Parreira do Amaral, 2022, pp.2–3）
 > - [[University Industry Innovation Network|UIIN]] Thoughtbook 系列 — "想象"被赋予证据地位以塑造政策：未来大学愿景以诊断性事实呈现，展示话语如何物质化为制度驱动力（Thompson & Parreira do Amaral, 2022, pp.3–4）
 > - 大学图书馆空间重构 — 从知识储存和智识闲暇场所（Muße）转变为"makerspaces"和创新创业中心，是 GPK 逻辑改造高等教育物理空间的物质性表现（Thompson & Parreira do Amaral, 2022, pp.4–6）
-> - 澳大利亚亚洲世纪白皮书（2012）— 将亚洲崛起定位为"机遇"；配套 AISRF 和 ACSRF 将研究合作与贸易外交目标深度绑定（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]]）
+> - 澳大利亚亚洲世纪白皮书（2012）— 将亚洲崛起定位为"机遇"；配套 AISRF and ACSRF 将研究合作与贸易外交目标深度绑定（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]]）
 > - [[Horizon Europe Missions]] — 将研究整合为针对五大社会挑战的使命承诺，反映欧盟以研究驱动全球竞争力和规范性影响力的地缘政治策略
 

@@ -151,7 +151,7 @@ Knight & Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, cite
 - **国家角色转变** IEHs 体现国家功能从垄断教育供给向强化监管角色的转变——国家成为"权力连接器"（power connector），协调全球流通与本地治理（Erfurth, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.44–45]]）
 - **治理理性的转换** 高等教育治理的基本理性正从社会和教育范畴（可及性、可负担性、公平性、质量、流动性、开放研究、进步）转向经济范畴（收入创造、可专利的非开放研究和知识的生产、经济竞争力）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.45]])
 - **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的国家枢纽角色** IEHs 是 Moisio (2018) 的 Hub and [[Flow]] 想象在高等教育领域最直接的国家层面物质化——各国通过 IEH 项目将自身塑造为全球知识流动网络中的"枢纽"，吸引并锚定人才、资本和知识的跨国流动([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–45]])
-- **与 Minerva 项目的对照** IEHs 和 Minerva 代表了[[Geopolitics of Knowledge|知识地缘政治]]中两种不同的空间策略——IEHs 体现以国家领土为锚点的"枢纽"逻辑，Minerva 则体现以资本和技术为驱动的"流动"逻辑。两者共同构成 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 所谓"新知识地缘政治"中领土固着与场所无涉两种空间想象的张力([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])。详见 知识地缘政治 > 两条理论脉络
+- **与 Minerva 项目的对照** IEHs and Minerva 代表了[[Geopolitics of Knowledge|知识地缘政治]]中两种不同的空间策略——IEHs 体现以国家领土为锚点的"枢纽"逻辑，Minerva 则体现以资本和技术为驱动的"流动"逻辑。两者共同构成 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] 所谓"新知识地缘政治"中领土固着与场所无涉两种空间想象的张力([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])。详见 知识地缘政治 > 两条理论脉络
 
 ---
 

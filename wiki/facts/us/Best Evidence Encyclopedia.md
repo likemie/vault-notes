@@ -57,9 +57,9 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在研究设计标准表中，BEE 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 的描述程度为 1，对 RDD 和 ITS 均为 0。作者的[[Coding in Qualitative Research|编码]]含义是：1 表示该设计类型只被简要提及，未提供具体实施标准；0 表示标准未提及该设计类型([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10, 29]])。
+> 在研究设计标准表中，BEE 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 的描述程度为 1，对 RDD and ITS 均为 0。作者的[[Coding in Qualitative Research|编码]]含义是：1 表示该设计类型只被简要提及，未提供具体实施标准；0 表示标准未提及该设计类型([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10, 29]])。
 >
-> BEE 与 Blueprints、[[Promising Practices Network|PPN]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]]、[[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；在最低效果阈值上，BEE 要求至少 0.20 SD 的影响([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
+> BEE and Blueprints、[[Promising Practices Network|PPN]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]]、[[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；在最低效果阈值上，BEE 要求至少 0.20 SD 的影响([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
 
 ## 与其他清算中心的差异
 

@@ -68,7 +68,7 @@ updated: 2026-06-09
 > Lundvall & Johnson（1994）在《工业研究杂志》上正式提出学习经济概念，将学习和知识置于经济分析的中心。该概念是对 1980 年代末 Lundvall 关于国家[[Systems of Innovation|创新系统]]和用户-生产者互动研究的概念化延伸。
 
 > [!note]- 2000s：与创新模型整合
-> Caraça、Lundvall 和 Mendonça（2009）将学习经济作为[[Multi-channel Interactive Learning Model|多通道互动学习模型]]的宏观语境，论证了为什么组织学习能力——而非单纯的科学投入——决定创新绩效。这一整合使学习经济从一个宏观诊断概念延伸为对创新过程微观机制的分析视角。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
+> Caraça、Lundvall and Mendonça（2009）将学习经济作为[[Multi-channel Interactive Learning Model|多通道互动学习模型]]的宏观语境，论证了为什么组织学习能力——而非单纯的科学投入——决定创新绩效。这一整合使学习经济从一个宏观诊断概念延伸为对创新过程微观机制的分析视角。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 
 ---
 

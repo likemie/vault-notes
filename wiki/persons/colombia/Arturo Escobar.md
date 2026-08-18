@@ -69,7 +69,7 @@ Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命[[Luhmann
 
 ## 主要贡献
 
-- [[Autopoiesis]] — Escobar 将 Maturana 和 Varela 的自创生理论延伸到社会[[Transition Design|转型设计]]领域，以 autopoiesis 为转型设计提供理论基础([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])
+- [[Autopoiesis]] — Escobar 将 Maturana and Varela 的自创生理论延伸到社会[[Transition Design|转型设计]]领域，以 autopoiesis 为转型设计提供理论基础([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])
 
 ---
 

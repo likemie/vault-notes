@@ -81,7 +81,7 @@ updated: 2026-05-23
 > [!warning] 争议
 > NSE 早期带有过度乐观的可能主义，相信通过激进[[Praxis|实践]]能够改变学校不平等；但这一乐观很快被一些马克思主义取向中的激进悲观所取代，后者更强调结构性再生产对学校改革可能性的限制([[Argument_Ball_2008_SR|Ball, 2008, p.659]])。
 
-> [!warning] Bernstein 与 NSE 的关系
+> [!warning] Bernstein and NSE 的关系
 > 虽然 [[Basil Bernstein]] 在教育社会学中具有标志性地位，也推动了 Young 文集的出版，但他并非 NSE 的组成部分；他对 NSE 的许多构成要素持尖锐批评，尤其批评其薄弱的经验基础([[Argument_Ball_2008_SR|Ball, 2008, p.661]])。
 
 ## 相关案例／政策

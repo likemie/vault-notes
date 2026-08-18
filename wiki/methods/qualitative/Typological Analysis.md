@@ -106,4 +106,4 @@ updated: 2026-08-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]] — 介绍类型学分析作为 LeCompte & Preissle 提出的质性分析工具之一，梳理 Lofland 与 Lazarsfeld & Barton 的分类逻辑与建构要求。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]] — 介绍类型学分析作为 LeCompte & Preissle 提出的质性分析工具之一，梳理 Lofland and Lazarsfeld & Barton 的分类逻辑与建构要求。

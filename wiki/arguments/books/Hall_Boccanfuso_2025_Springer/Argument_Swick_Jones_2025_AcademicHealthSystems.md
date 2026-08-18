@@ -86,8 +86,8 @@ citation_aliases:
 > - T 型技能 — 医师科学家所需的双重能力结构：纵向深度（|）用于识别专业领域的临床问题，横向广度（—）用于与不同学科的合作伙伴有效沟通。在超亚专业化时代，两个维度缺一不可(pp.185–186)。
 > - [[Team Science|团队科学]] — 以跨学科、大规模团队协作应对复杂科学问题的研究模式。[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]趋势显示获奖者越来越多地代表数百人规模的大型团队，而非孤立的个体天才(pp.178–179)。
 > - [[Partnership Continuum|伙伴关系连续体]] — [[University Industry Demonstration Partnership|大学产业示范伙伴关系]](University Industry Demonstration Partnership, UIDP, 2012)的合作分类框架，从交易型（共享策略）到协作型（共享想法）再到联盟型（共享愿景）。AHS 可以在所有三个级别上与同一伙伴同时维持多个合作关系(p.188)。
-> - [[Triple Helix|三重螺旋模型]] — Etzkowitz 与 Leydesdorff(1995)的大学-产业-政府关系模型。从 AHS 视角来看，政府更多扮演法规制定者和监管者角色，而非合作伙伴。例外情况包括政府通过竞争性合同资助研究时。
-> - [[King-Persily Model|King-Persily 模型]] — King 与 Persily(2019)提出的产学合作数据治理模型，通过引入独立第三方委员会来解耦研究者对产业数据与专有信息的完全访问。在医疗场景中需额外考虑患者数据去标识化和学术健康系统对患者的信托责任(pp.188–189)。
+> - [[Triple Helix|三重螺旋模型]] — Etzkowitz and Leydesdorff(1995)的大学-产业-政府关系模型。从 AHS 视角来看，政府更多扮演法规制定者和监管者角色，而非合作伙伴。例外情况包括政府通过竞争性合同资助研究时。
+> - [[King-Persily Model|King-Persily 模型]] — King and Persily(2019)提出的产学合作数据治理模型，通过引入独立第三方委员会来解耦研究者对产业数据与专有信息的完全访问。在医疗场景中需额外考虑患者数据去标识化和学术健康系统对患者的信托责任(pp.188–189)。
 > - [[Values Alignment Model|价值对齐模型]] — 核心框架：以 AHS 为促进者，通过患者中心的透镜重新对齐大学、产业、医院和医师各方的优先差异，找出共享价值并尊重不共享的价值(pp.190–191, Fig. 10.5)。
 
 ---
@@ -221,7 +221,7 @@ citation_aliases:
 > [!success] COVID-19 的合作奇迹
 > 疫情期间，所有组织类型的领导者采纳了相同心态："不惜一切代价找到答案。从答案中学习，快速调整，再尝试。"（"whatever it takes to get an answer, do it. Learn from that answer, adjust quickly, and try again."）(pp.189–190)。
 >
-> 在产业和学术搁置分歧完成任务的共同决策下，结合"曲速行动"（Operation Warp Speed）的充分资金，数种高效疫苗在创纪录时间内问世。AMC 和 AHS 在全国联合为 Pfizer、Moderna 和 Johnson & Johnson 的 III 期试验提供场所。**疫苗学在 1–2 年内达到了本来需要数十年才能实现的水准(p.190)**。
+> 在产业和学术搁置分歧完成任务的共同决策下，结合"曲速行动"（Operation Warp Speed）的充分资金，数种高效疫苗在创纪录时间内问世。AMC and AHS 在全国联合为 Pfizer、Moderna and Johnson & Johnson 的 III 期试验提供场所。**疫苗学在 1–2 年内达到了本来需要数十年才能实现的水准(p.190)**。
 >
 > 然而 COVID-19 也暴露了合作的脆弱性：增强的合作是短暂的。后 COVID-19 时代各方迅速回归旧有障碍和保守立场，有些甚至摆荡到了更保守的位置。但这种对比揭示了一个关键事实：**当各方拥有对齐的目标和强烈的紧迫感时，能够实现远超常态的成果**。
 
@@ -270,13 +270,13 @@ citation_aliases:
 > [!note]- 发明阶段（1990s–2002）：从概念到首例人体植入
 > - **1990s** 丹麦 Skejby 大学医院的医师科学家发展经导管主动脉瓣植入概念，一项颠覆性技术（disruptive technology），通过血管内路径（而非开胸）完成瓣膜置换(Andersen, 2021; Bonhoeffer et al., 2000; Knudsen et al., 1993, 转引自 p.193)
 > - **2002** 法国 Rouen 大学 Charles Nicolle 医院完成首例人体植入，通过股动脉进入心脏(Cribier et al., 2002, 转引自 p.193)
-> - 随后更多病例迅速发表，技术专利被申请。Medtronic 与 Edwards Lifesciences 之间爆发专利争议
+> - 随后更多病例迅速发表，技术专利被申请。Medtronic and Edwards Lifesciences 之间爆发专利争议
 > - Medtronic 的 CoreValve 拥有一项关键创新：**可重新定位**，外科医生固定装置前可调整瓣膜位置，显著提高患者安全性(p.193)
 
 ---
 
 > [!success] 临床试验阶段（2007–2019）：四轮递进式验证
-> Medtronic 与 Houston Methodist DeBakey 心脏与血管中心及其他临床站点合作，从 2007 年起开展系统化的 PARTNER 试验（Placement of Aortic Transcatheter Valves）(Leon et al., 2010, 转引自 p.193)。临床试验按照风险等级逐层推进，每步在前一步证据基础上扩展适用范围：
+> Medtronic and Houston Methodist DeBakey 心脏与血管中心及其他临床站点合作，从 2007 年起开展系统化的 PARTNER 试验（Placement of Aortic Transcatheter Valves）(Leon et al., 2010, 转引自 p.193)。临床试验按照风险等级逐层推进，每步在前一步证据基础上扩展适用范围：
 >
 > | 轮次 | 年份 | 患者群体 | 核心发现 |
 > |------|------|---------|----------|
@@ -331,7 +331,7 @@ citation_aliases:
 > - 既有产学合作框架（[[Partnership Continuum|伙伴关系连续体]]、[[Triple Helix]]、[[King-Persily Model|King-Persily 模型]]）在 AHS 语境中各有适用价值，但都需要从 AHS 视角进行修正：伙伴关系连续体只描述深度、不回答对齐问题；Triple Helix 中的政府角色在 AHS 视角下更多是监管者而非合作伙伴；King-Persily 模型在医疗场景中必须额外处理患者数据去标识化和信托责任的伦理要求(pp.188–189)。
 > - COVID-19 经验表明，目标对齐和紧迫感可以急剧加速 AMI 的产学合作，疫苗学在 1–2 年内取得了需要数十年才能实现的进展。但 NCDs 因进展缓慢而缺乏同等的紧迫感，尽管对患者而言处境同样严峻。AHS 持续感知到标准疗法终将对 NCD 患者失效这一事实，因此能够维持持续的创新动力(pp.189–190)。
 > - [[Values Alignment Model|价值对齐模型]]提供了一个以患者为中心的合作框架：AHS 作为促进者，帮助各方围绕共享价值对齐，同时尊重不共享的价值。关键不在于消除优先差异，而在于通过患者中心的透镜重新审视各方 [[Return on Investment|ROI]]，产业的利润依赖于产品的安全有效性，大学的发表价值依赖于转化为患者受益(pp.190–192)。
-> - TAVR 案例是价值对齐模型的完整实证展示：通过四轮递进式[[Clinical Trial|临床试验]]（按风险等级从极端到低），TAVR 从高风险不可手术者的最后选择发展为全风险谱系的标准疗法，30 天死亡率从 7.2% 降至 2.5%，并催生了 BEV 和 SEV 的持续技术创新。任何单一伙伴独立行动都无法取得这一成果(pp.192–195)。
+> - TAVR 案例是价值对齐模型的完整实证展示：通过四轮递进式[[Clinical Trial|临床试验]]（按风险等级从极端到低），TAVR 从高风险不可手术者的最后选择发展为全风险谱系的标准疗法，30 天死亡率从 7.2% 降至 2.5%，并催生了 BEV and SEV 的持续技术创新。任何单一伙伴独立行动都无法取得这一成果(pp.192–195)。
 
 > [!info]- 核心数据
 > - 2023 年医院利润率范围为 −6.8% 到 12.2%，许多医院处于亏损或微利状态(Ashley & Condon, 2024, 转引自 p.184)
@@ -388,7 +388,7 @@ citation_aliases:
 
 > [!warning]
 > - Houston Methodist 作为范例来阐明 [[Academic Health System|AHS]] 的特征和能力，"the one with which we are most familiar"(p.180)。所描述的 AHS 模型可能带有该机构的特殊性，其他具备类似模式的 AHS（如 Cleveland Clinic、Cedars-Sinai Medical Center、MedStar Health）在结构上各有差异。
-> - Medtronic 与 Edwards Lifesciences 之间的专利争议被明确排除在讨论范围之外（"a topic beyond the scope of this chapter"）(p.193)，因此 TAVR 案例没有覆盖[[University-Industry Collaboration|产学合作]]中知识产权争议这一完整维度。
+> - Medtronic and Edwards Lifesciences 之间的专利争议被明确排除在讨论范围之外（"a topic beyond the scope of this chapter"）(p.193)，因此 TAVR 案例没有覆盖[[University-Industry Collaboration|产学合作]]中知识产权争议这一完整维度。
 > - [[Values Alignment Model|价值对齐模型]]是一个概念性框架，其有效性主要通过 TAVR 的单一案例和 COVID-19 的历史经验进行推论，尚未经过系统的实证验证。
 
 ---

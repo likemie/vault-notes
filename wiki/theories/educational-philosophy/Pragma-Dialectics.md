@@ -6,7 +6,7 @@ aliases:
   - pragma-dialectical approach
   - pragma-dialectical theory
   - 语用辩证论证理论
-summary: "van Eemeren 与 Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准"
+summary: "van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准"
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 11
@@ -51,7 +51,7 @@ updated: 2026-07-04
 > - **解释对象** 人们在意见分歧时如何进行论证、论证在何种意义上有助于解决分歧，以及如何区分合理的论证与谬误。
 > - **理论问题** 如何建立一个既保持规范性（能评价论证质量）、又具有语境敏感性（不脱离实际话语情境）的论证理论，克服形式逻辑过于抽象和修辞学过于情境化之间的鸿沟。
 > - **理论类型** 规范—实用论证理论（normative-pragmatic theory），属于中层理论和方法论框架。
-> - **知识位置** 由荷兰学者 Frans H. van Eemeren 和 Rob Grootendorst 于 1980 年代在阿姆斯特丹大学发展，根植于言语行为理论（speech act theory）、辩证法和[[Pragmatic Paradigm|实用主义]]传统。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 186)]]
+> - **知识位置** 由荷兰学者 Frans H. van Eemeren and Rob Grootendorst 于 1980 年代在阿姆斯特丹大学发展，根植于言语行为理论（speech act theory）、辩证法和[[Pragmatic Paradigm|实用主义]]传统。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 186)]]
 
 > [!claim] 核心主张
 > 论证不应仅被视为静态的逻辑结构或单方面的说服行为，而应被分析为发生在批判性讨论（critical discussion）语境中的言语行为序列。一次论证的质量取决于它在多大程度上有助于解决意见分歧——这一"解决导向"（resolution-oriented）的规范性标准，使得语用辩证法能够在分析论证的同时评价论证。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 186)]]

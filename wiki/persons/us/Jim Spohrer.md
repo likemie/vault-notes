@@ -53,7 +53,7 @@ updated: '2026-06-08'
 
 > [!abstract]
 > - Spohrer, J. C. (2010). IBM'S university programs. *IEEE Computer*, *43*(8), 102–104. — 首次正式发表六 R 框架。
-> - Rouse, W. B., & Spohrer, J. C. (2018). Automating versus augmenting intelligence. *Journal of Enterprise Transformation*, *8*(1–2), 1–21. — 提出 AI 将增强而非取代服务提供者的判断，被 Narayan 与 Spohrer（2025）引为全文论证的落脚点。
+> - Rouse, W. B., & Spohrer, J. C. (2018). Automating versus augmenting intelligence. *Journal of Enterprise Transformation*, *8*(1–2), 1–21. — 提出 AI 将增强而非取代服务提供者的判断，被 Narayan and Spohrer（2025）引为全文论证的落脚点。
 > - Spohrer, J. (2017). IBM'S service journey: A summary sketch. *Industrial Marketing Management*, *60*, 167–172. — 回顾 IBM 的服务业务转型历程。
 > - Spohrer, J. (2024a). AI upskilling and digital twins: A service science perspective on the [[Fourth Industrial Revolution|Industry 4.0]] to industry 5.0 shift. In *Industry 4.0 to industry 5.0* (pp. 79–92). Springer Nature. — 讨论 AI 技能提升与数字孪生在产学关系中的应用前景。
 > - Narayan, S., & Spohrer, J. (2025). Metrics, Incentives, Rewards, and Culture for Impact. In R. Hall & A. Boccanfuso (Eds.), *[[University-Industry Collaboration]]: Innovation at the Interface* (pp. 85–99). Springer. — 基于六 R 框架的产学关系度量系统论述。

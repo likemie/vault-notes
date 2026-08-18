@@ -576,7 +576,7 @@ related_persons:
 
 ---
 
-### 主动学习：IBO 与 TOK 课程评估与理论整合
+### 主动学习：IBO and TOK 课程评估与理论整合
 
 #### 章节概述
 

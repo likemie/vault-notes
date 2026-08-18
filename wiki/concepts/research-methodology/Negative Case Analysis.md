@@ -4,7 +4,7 @@ aliases:
   - 负面案例分析
   - deviant case analysis
   - 异常案例分析
-summary: "质性研究中通过系统检验不符合已有假设或模式的案例来修正和完善理论的策略，是 Lincoln 和 Guba 可信性标准的核心操作之一"
+summary: "质性研究中通过系统检验不符合已有假设或模式的案例来修正和完善理论的策略，是 Lincoln and Guba 可信性标准的核心操作之一"
 type: concept
 domain: "research-methodology"
 related_count: 13

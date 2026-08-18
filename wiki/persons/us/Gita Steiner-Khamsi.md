@@ -74,7 +74,7 @@ updated: '2026-06-08'
 
 
 > [!info] 话语转移的先见
-> Steiner-Khamsi 强调教育转移不仅涉及实践，还涉及话语的转移——这一洞见后来被 Rappleye 和 Ochs 发展为"政策文本 vs 政策话语"的区分。
+> Steiner-Khamsi 强调教育转移不仅涉及实践，还涉及话语的转移——这一洞见后来被 Rappleye and Ochs 发展为"政策文本 vs 政策话语"的区分。
 >
 > > "Unless we recognize that educational transfer can involve discourses rather than practices, we are unlikely to detect these international movements." (2000, p. 181，引自 Rappleye, 2006, p. 227)
 

@@ -123,7 +123,7 @@ updated: 2026-07-13
 > [!dev-timeline]+ 历史背景
 > 1. **起源与医学奠基（1904–1980s）**
 >    - 1904 — [[Karl Pearson|Karl Pearson]] 在伤寒疫苗分析中提出"每隔一位志愿者接种"的随机化试验方案，预见了 RCT 的发展方向——尽管这一方法在 60 年后才被正式确立（[[Argument_Higgins_2016_RE|Higgins, 2016, p.33]]）
->    - 1940s–1960s — 医学中 RCT 的发展推动了[[Meta-analysis|元分析]]的兴起。Peter Elwood 和 Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了合并多项试验结果的力量
+>    - 1940s–1960s — 医学中 RCT 的发展推动了[[Meta-analysis|元分析]]的兴起。Peter Elwood and Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验，展示了合并多项试验结果的力量
 >    - 1980s — Richard Peto 推广[[Fixed-Effect and Random-Effects Models|固定效应模型]]；Larry Hedges（1983）倡导随机效应模型，为教育 RCT 的元分析提供方法基础（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.38–39]]）
 > 2. **教育领域的兴起与黄金期（1983–2002）**
 >    - 1983 — 教育心理学期刊中近一半经验文章使用随机分配实验（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）
@@ -345,7 +345,7 @@ updated: 2026-07-13
 > |------|--------------|
 > | [[Critical Realism]] | 提供对 RCT 经验主义假设的最系统哲学批判：开放系统、[[Emergence\|涌现]]性、三层[[Ontology\|本体论]] |
 > | [[Complexity Theory]] | 从非线性、涌现和整体论角度根本性质疑 RCT 封闭系统[[Hypothesis\|假设]] |
-> | [[Validity as Inferences]] | 继承 Cronbach 和 Messick 的效度理论，论证 RCT 推论的效度永远临时且局部 |
+> | [[Validity as Inferences]] | 继承 Cronbach and Messick 的效度理论，论证 RCT 推论的效度永远临时且局部 |
 
 > [!ref-table] 相关方法
 > | 方法 | 说明 |
@@ -366,6 +366,6 @@ updated: 2026-07-13
 > [!evidence-grid-a] 研究索引
 > - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 在 2011 至 2015 年间资助了 100 项涉及 50 万以上学生的 RCT，并将证据综合进入 Toolkit 的[[Meta-analysis|元分析]]（[[Argument_Higgins_2016_RE|Higgins, 2016, p.49]]）
 > - [[Argument_Brady_2023_EPR]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其比例从 2010 年的 23% 降至 2020 年的 20%（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]]）
-> - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育清算中心如何为 RCT、[[Quasi-Experimental Designs|QED]]、RDD 和 ITS 设定证据标准；研究发现所有清算中心都偏好 RCT，但对随机分配层级、[[Intent-to-Treat Analysis|意向治疗分析]]、[[Attrition|流失]]标准、基线等值检验和集群随机化的处理并不一致（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–11]]）
+> - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育清算中心如何为 RCT、[[Quasi-Experimental Designs|QED]]、RDD and ITS 设定证据标准；研究发现所有清算中心都偏好 RCT，但对随机分配层级、[[Intent-to-Treat Analysis|意向治疗分析]]、[[Attrition|流失]]标准、基线等值检验和集群随机化的处理并不一致（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–11]]）
 > - [[Tennessee STAR Project 1985-1989]] — 被 Mosteller 称为"有史以来最重要的教育调查之一"，但 Wiliam (2019) 揭示了其 RCT 外推的三重失败
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 系统分析 RCT 在建立[[Causality|因果性]]方面的效力与系统性局限；指出 RCT 忽视[[Causal Processes|因果过程]]、语境、参与者能动性和伦理；主张追问"什么对谁有效、在什么条件下、有什么伦理可辩护性"而非仅仅"什么有效"

@@ -52,7 +52,7 @@ updated: 2026-05-23
 ## 时间线
 
 > [!note]-
-> - 2010s — IEE 与 Johns Hopkins University 的 Center for Research and Reform in Education 合作开展 Evidence in Brief，向教师和学校传播[[Evidence-Informed Practice|证据知情实践]]信息([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
+> - 2010s — IEE and Johns Hopkins University 的 Center for Research and Reform in Education 合作开展 Evidence in Brief，向教师和学校传播[[Evidence-Informed Practice|证据知情实践]]信息([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.33]])。
 
 ## 实施情况
 

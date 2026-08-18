@@ -7,7 +7,7 @@ aliases:
   - 实在论评估理论
   - 现实主义评估理论
   - realist appraisal
-summary: "由 Ray Pawson 和 Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。"
+summary: "由 Ray Pawson and Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。"
 type: theory
 theory_field: "research-methodology"
 theory_related_count: 28

@@ -60,7 +60,7 @@ EEG 通过在头皮上放置电极，测量相邻神经元群落的同步电活�
 
 ## 与其他技术的比较
 
-- **vs [[Functional Magnetic Resonance Imaging|fMRI]]** — EEG 时间分辨率优于空间分辨率；fMRI 和 PET 在空间分辨率上更佳。EEG 可测量毫秒级脑活动增量([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
+- **vs [[Functional Magnetic Resonance Imaging|fMRI]]** — EEG 时间分辨率优于空间分辨率；fMRI and PET 在空间分辨率上更佳。EEG 可测量毫秒级脑活动增量([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 - EEG 可与 fMRI 或 PET 单独或联合使用，以关联认知功能表现与大脑特定区域([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 - 便携式 EEG 的发展使研究者能在更自然的场景中测试年幼儿童，克服了 fMRI 对年幼儿童研究的限制([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
 

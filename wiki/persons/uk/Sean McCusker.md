@@ -42,7 +42,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> McCusker 与 Wrigley (2019) 合作，论证证据本位教学的倡导者对"科学"概念的使用基于过分简化的民间科学观（folk-view of science），忽视了[[Scientific Method|科学方法]]的复杂性、教育作为开放系统的[[Ontology|本体论]]特征，以及统计综合（[[Meta-analysis|元分析]]、[[Meta-meta-analysis|元-元分析]]）在聚合过程中系统性地丢失因果信息的问题。
+> McCusker and Wrigley (2019) 合作，论证证据本位教学的倡导者对"科学"概念的使用基于过分简化的民间科学观（folk-view of science），忽视了[[Scientific Method|科学方法]]的复杂性、教育作为开放系统的[[Ontology|本体论]]特征，以及统计综合（[[Meta-analysis|元分析]]、[[Meta-meta-analysis|元-元分析]]）在聚合过程中系统性地丢失因果信息的问题。
 
 ## 主要贡献
 

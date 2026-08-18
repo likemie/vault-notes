@@ -129,7 +129,7 @@ updated: 2026-07-13
 ## 发展脉络
 
 > [!note-] 发展脉络
-> 该框架的演进可追溯至 Campbell 和 Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook & Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity|构念效度]]、[[External Validity|外部效度]]）。
+> 该框架的演进可追溯至 Campbell and Stanley 的开创性工作（Campbell & Stanley, 1963），经 Cook & Campbell（1979）修订，最终由 Shadish, Cook & Campbell（2002）整合为最完整的版本，将效度类型学扩展并系统化为四个维度（统计结论效度、[[Internal Validity|内部效度]]、[[Construct Validity|构念效度]]、[[External Validity|外部效度]]）。
 >
 > [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] 在论文中主要依赖 Shadish et al. (2002) 的表述，聚焦于内部效度和外部效度两个维度。通过 [[What Works Clearinghouse|WWC]] 标准开发工作和学校心理学循证干预工作组（Task Force for Evidence-Based Interventions in School Psychology）的[[Praxis|实践]]，作者确认"Campbellian 效度框架适用于能够产生因果证据的多种设计类型"（p.462），这一发现解释了为何 Maggin et al. (2013) 比较的 7 种 [[Single-Case Design|SCD]] 量规在内部效度判断上产生了合理一致的结果。
 

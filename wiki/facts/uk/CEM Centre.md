@@ -43,7 +43,7 @@ updated: 2026-07-14
 > [!event-context] 机构创建与定位
 > - **时间** 1983 年成立于纽卡斯尔大学，1996 年迁至杜伦大学
 > - **地点** 英国杜伦大学教育学院
-> - **创始人** Carol Fitz-Gibbon 和 Peter Tymms
+> - **创始人** Carol Fitz-Gibbon and Peter Tymms
 > - **定位** 大学内部最大的教育研究单位，专注于为学校提供基于数据的监测与评估工具
 
 CEM 中心（Curriculum, Evaluation and Management Centre，课程、评估与管理中心）是英国最早系统性地将增值评估（value-added assessment）引入学校[[Praxis|实践]]的研究机构之一（pp.330–335）。
@@ -61,7 +61,7 @@ CEM 中心开发了一系列覆盖 3 至 18 岁的学校监测与评估系统：
 > - **ALIS（A-Level Information System）** 高中阶段 A-Level 考试预测与进展监测
 > - **InCAS（Interactive Computerised Assessment System）** 5–11 岁自适应评估
 
-在鼎盛时期，CEM 每年服务约 6,000 所学校（覆盖 44 个国家），完成超过 110 万次学生评估。Fitz-Gibbon 和 Tymms 在 CEM 的工作展示了指标系统如何与实验方法结合，为[[Causality|因果推断]]提供证据。
+在鼎盛时期，CEM 每年服务约 6,000 所学校（覆盖 44 个国家），完成超过 110 万次学生评估。Fitz-Gibbon and Tymms 在 CEM 的工作展示了指标系统如何与实验方法结合，为[[Causality|因果推断]]提供证据。
 
 ---
 
@@ -69,7 +69,7 @@ CEM 中心开发了一系列覆盖 3 至 18 岁的学校监测与评估系统：
 
 > [!timeline] CEM 的发展节点
 > - **1983** — 在纽卡斯尔大学成立
-> - **1996** — 迁至杜伦大学，由 Fitz-Gibbon 和 Tymms 领导
+> - **1996** — 迁至杜伦大学，由 Fitz-Gibbon and Tymms 领导
 > - **2000s** — 成为英国最大的大学教育研究单位，系统扩展至国际
 > - **2019** — 被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM
 > - **至今** — 作为 Cambridge CEM 继续运营，网址为 cem.org

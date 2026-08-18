@@ -59,7 +59,7 @@ Debackere & Veugelers（2005）指出，TTO 可以充当分散的研究团队与
 ## 组织定位
 
 > [!abstract]
-> TTO 是 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 的直接组织后果之一。该法案赋予大学对联邦资助发明的所有权后，大学必须在内部建立专门的组织单位来管理知识产权商业化。Boccanfuso & Hall（2025, pp.60–63）对 65 所大学的组织分析显示，TTO 和 SPO 构成了大学[[University-Industry Collaboration|产学参与]]的基础设施单元。
+> TTO 是 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 的直接组织后果之一。该法案赋予大学对联邦资助发明的所有权后，大学必须在内部建立专门的组织单位来管理知识产权商业化。Boccanfuso & Hall（2025, pp.60–63）对 65 所大学的组织分析显示，TTO and SPO 构成了大学[[University-Industry Collaboration|产学参与]]的基础设施单元。
 
 在产学合作的日常分工中（p.14, Susalka & Carbone, 2025, pp.284–285）：
 
@@ -105,12 +105,12 @@ Debackere & Veugelers（2005）指出，TTO 可以充当分散的研究团队与
 
 ## 内部协调
 
-### TTO 与 PI 的信息断裂
+### TTO and PI 的信息断裂
 
 > [!warning]
 > [[University-Industry Collaboration|产学合作]]的 IP 条款通常由 TTO、SPO 或法务办公室（Office of General Counsel, OGC）谈判，而首席研究员（Principal Investigator, PI）的参与往往局限于工作范围和预算的制定。当 PI 最终看到一份已签署的协议时，可能对其中前景 IP（[[Foreground IP]], FIP）和背景 IP（[[Background IP]], BIP）的范围与披露程序、产业方的发表审查权、以及 IP 条款对其未来创业活动的潜在制约一无所知([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, pp.284–285]])。
 
-这一信息断裂带来了系统性的实施风险。研究人员至少需要了解：协议中 FIP 和 BIP 的界定、产业方对发表的审查权范围和期限、产业方获得了哪些许可权利、以及协议条款如何可能制约其所在实验室的 IP。对创业型 PI 而言，产学合作的 IP 条款可能无意中束缚其实验室的既有技术，从而复杂化任何与该技术相关的未来创业活动（p.285）。
+这一信息断裂带来了系统性的实施风险。研究人员至少需要了解：协议中 FIP and BIP 的界定、产业方对发表的审查权范围和期限、产业方获得了哪些许可权利、以及协议条款如何可能制约其所在实验室的 IP。对创业型 PI 而言，产学合作的 IP 条款可能无意中束缚其实验室的既有技术，从而复杂化任何与该技术相关的未来创业活动（p.285）。
 
 > [!example] 一个被忽视的风险场景
 > 某大学工程学院的 PI 与一家大型半导体公司建立了赞助研究合作。TTO 和公司法务就 BIP 条款进行了长达数月的拉锯，PI 在此期间专注于制定技术方案和预算。协议签署后，PI 的研究团队开发了一项关键技术，其博士生希望以此创办初创公司。但此时才发现：协议的 BIP 条款涵盖了 PI 实验室内的一项既有技术，该技术恰好是初创公司商业计划的基础，而且产业方已通过协议获得了对该 BIP 的使用权。"创业"和"产学合作"的 IP 安排发生了直接碰撞。这种碰撞如果在协议谈判阶段让 PI 参与讨论，完全可能被提前识别并调整（p.285）。
@@ -124,7 +124,7 @@ TTO 工作人员在谈判过程中应主动向 PI 通报 IP 条款的关键内�
 > [!warning]
 > TTO 的管辖范围天然局限在[[Technology Transfer|技术转移]]的**正式端**（专利、许可、合同），无法覆盖[[University-Industry Collaboration|产学合作]]的全谱系。Boccanfuso & Hall（2025, pp.62–67）对 65 所大学的调查显示，即使在设有中心企业关系办公室的大学中，办公室平均仅覆盖 12 个活动领域中的 3.5 个。临床和辅助活动极少被提及。
 
-TTO 擅长管理知识产权交易，但[[University-Industry Collaboration|产学合作]]中的教育合作、学生实习、非正式[[Knowledge Exchange|知识交流]]等多样化和分散化的互动形式，超出了 TTO 的制度能力。这一边界不是组织缺陷，而是劳动分工的必然结果。大学的应对策略往往是将 TTO 嵌入更广泛的企业参与架构中——如设立集中的企业关系办公室以[[Concierge Service|礼宾]]角色引导企业在多个领域与大学互动，或通过 SPO 和 OGC 的协作来覆盖合同与合规维度。
+TTO 擅长管理知识产权交易，但[[University-Industry Collaboration|产学合作]]中的教育合作、学生实习、非正式[[Knowledge Exchange|知识交流]]等多样化和分散化的互动形式，超出了 TTO 的制度能力。这一边界不是组织缺陷，而是劳动分工的必然结果。大学的应对策略往往是将 TTO 嵌入更广泛的企业参与架构中——如设立集中的企业关系办公室以[[Concierge Service|礼宾]]角色引导企业在多个领域与大学互动，或通过 SPO and OGC 的协作来覆盖合同与合规维度。
 
 ---
 

@@ -64,13 +64,13 @@ updated: '2026-05-18'
 ## 与其他清算中心的差异
 
 > [!abstract] 与其他清算中心的差异
-> PNRC 的特殊性在于它评价项目、政策和[[Praxis|实践]]，但不提供用于最终一致性分析的项目效果分层评级。方法上，它是少数明确提及 RDD 和 ITS 的清算中心之一，但对这些设计的标准描述程度低于 [[What Works Clearinghouse|WWC]] 和 [[Home Visiting Evidence of Effectiveness|HomVEE]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.10–11, 15]])。
+> PNRC 的特殊性在于它评价项目、政策和[[Praxis|实践]]，但不提供用于最终一致性分析的项目效果分层评级。方法上，它是少数明确提及 RDD and ITS 的清算中心之一，但对这些设计的标准描述程度低于 [[What Works Clearinghouse|WWC]] 和 [[Home Visiting Evidence of Effectiveness|HomVEE]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.10–11, 15]])。
 
 ## 相关概念／政策
 
 > [!example] 相关概念／政策
 > - [[Educational Evidence Clearinghouses]] — PNRC 是 12 个被比较的教育清算中心之一，但未进入最终 1,359 个项目评级一致性分析([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 15]])。
 > - [[Evidence-Based Education]] — PNRC 展示了清算中心如何把证据评级对象扩展到项目、政策和[[Praxis|实践]]，而不仅是具名教育项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-> - [[Randomised Controlled Trials]] — PNRC 对 RCT 的标准描述程度为 2，并同时提及 RDD 与 ITS([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
+> - [[Randomised Controlled Trials]] — PNRC 对 RCT 的标准描述程度为 2，并同时提及 RDD and ITS([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
 > - [[Intent-to-Treat Analysis]] — PNRC 是明确要求 ITT 分析的三个清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
 

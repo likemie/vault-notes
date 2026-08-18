@@ -5,7 +5,7 @@ aliases:
   - 同行汇报
   - peer debrief
   - peer review in qualitative research
-summary: "Lincoln 和 Guba 建立质性研究可信性的六项核心策略之一：研究者将自己暴露于无利害关系的同行面前，以类似交叉审问的方式检验研究的诚实性、工作假设并识别下一步方向"
+summary: "Lincoln and Guba 建立质性研究可信性的六项核心策略之一：研究者将自己暴露于无利害关系的同行面前，以类似交叉审问的方式检验研究的诚实性、工作假设并识别下一步方向"
 type: method
 method_type: qualitative
 method_family: "qualitative"

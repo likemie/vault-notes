@@ -88,7 +88,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 ### 合同与法律工具
 
 - **Contract Accords** 针对产学协议中最有争议的合同条款提供实践指导。每个项目包含概述、学术和企业各自视角以及解决差异的策略。最初涵盖 5 个条款，现已扩展至近 20 个项目。Contract Accords 的前身是 Turbonegotiator——一种辅助合同谈判的机器学习工具，开发于 2000 年代后期，领先时代约 20 年（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.16]]）。在 IP 领域，关键 Accord 包括：Accord 5（背景 IP）、Accord 6（前景 IP）、Accord 8（版权）和 Accord 16（软件），为产学 IP 谈判提供了大学和产业各自视角下的操作指南([[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025, p.285]])
-- **Joint Solicitations Quick Guide 与 Comparison Tables** 聚焦政府和企业在基础性、应用启发式研究中的共同投资。UIDP 在开发[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）联合征集 MFS-SPEED（Molecular Foundations for Sustainability）中发挥了关键作用，获得 Procter & Gamble、PepsiCo、BASF、Dow 和 IBM 等会员的支持（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.18]]）
+- **Joint Solicitations Quick Guide and Comparison Tables** 聚焦政府和企业在基础性、应用启发式研究中的共同投资。UIDP 在开发[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）联合征集 MFS-SPEED（Molecular Foundations for Sustainability）中发挥了关键作用，获得 Procter & Gamble、PepsiCo、BASF、Dow and IBM 等会员的支持（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.18]]）
 
 ### 合作框架与度量
 
@@ -141,7 +141,7 @@ UIDP 的独特定位在于它是产学合作领域的"基础设施"提供者—�
 
 > [!note]-
 > - **2004 年** 委员会发布白皮书，提议在国家科学院框架内创建 University-Industry Demonstration Partnership（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.16]]）
-> - **2006 年** 发布 Guiding Principles to University-Industry Endeavors 作为创始原则。获得 [[National Science Foundation|NSF]]、Kauffman Foundation、UCLA、University of Illinois、Hewlett Packard、Pfizer 和 ExOne 等机构的初始资助
+> - **2006 年** 发布 Guiding Principles to University-Industry Endeavors 作为创始原则。获得 [[National Science Foundation|NSF]]、Kauffman Foundation、UCLA、University of Illinois、Hewlett Packard、Pfizer and ExOne 等机构的初始资助
 > - **2012 年** 发布 [[Partnership Continuum]]([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012]])，将[[University-Industry Collaboration|产学合作]]形式按五个领域和三个参与层级系统分类，其开发过程始于 2009 年 UIDP 春季会议上 Wayne Johnson 的初步分类框架，经项目工作组（Jeff Southerton、Geanie Umberger、Goran Matijasevic、Scott Steele、Wayne Johnson）多次电话会议、邮件交流和面对面讨论，并在 UIDP 成员社区的反复反馈中迭代完善([[Argument_UIDP_2012_PartnershipContinuum|Southerton et al., 2012, pp.4–5]])
 
 ---

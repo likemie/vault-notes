@@ -56,7 +56,7 @@ updated: 2026-08-17
 
 > [!concept-lens] 概念透镜
 > - **含义** EE 为预科阶段学生提供初步的独立学术研究训练，旨在培养学术写作、[[Literature Review|文献综述]]、问题提炼与独立批判性思考能力。
-> - **用途** 在 [[IB Diploma Programme|IB DP]] 评价体系中，EE 与 TOK 共同构成核心要素矩阵（Bonus Point Conversion Chart），两者结合最高可贡献 3 分奖励分。同时，它也是学生衔接大学学术标准的关键跳板。
+> - **用途** 在 [[IB Diploma Programme|IB DP]] 评价体系中，EE and TOK 共同构成核心要素矩阵（Bonus Point Conversion Chart），两者结合最高可贡献 3 分奖励分。同时，它也是学生衔接大学学术标准的关键跳板。
 > - **边界** EE 是一门独立研究项目，而非常规课堂科目，其选题可源自 DP 六大学科组中的任何一门，但强调必须符合严格的学术研究规范。若 EE 获得 E 级（不合格），学生将无法获得 IB 文凭。
 
 ---
@@ -66,7 +66,7 @@ updated: 2026-08-17
 > [!feature] 核心要素与评估机制
 > - **独立学术研究（Independent Academic Research）** 学生需经历选定课题、撰写[[Research Question|研究问题]]（research question）、搜集一手或二手资料、开展分析并形成学术论证的全过程 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 18)]]。
 > - **[[Epistemology|认识论]]联动（Epistemological Linkage）** 在撰写 EE 的过程中，学生必须运用在 [[Theory of Knowledge|TOK]] 课程中习得的[[Knowledge Framework|知识框架]]与[[Critical Thinking|批判性思维]]技能，分析其探究领域内证据的有效性、信源[[Reliability|可靠性]]与方法论局限 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 22)]] [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 228)]]。
-> - **核心矩阵奖励分（Core Bonus Points Matrix）** EE 与 TOK 的外部评估等级（A–E 级）交叉判定奖励分（0–3 分）。若 EE 获得 E 级（不合格），触发不合格条件（Failing Condition），直接丧失文凭资格 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 19)]]。
+> - **核心矩阵奖励分（Core Bonus Points Matrix）** EE and TOK 的外部评估等级（A–E 级）交叉判定奖励分（0–3 分）。若 EE 获得 E 级（不合格），触发不合格条件（Failing Condition），直接丧失文凭资格 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 19)]]。
 
 ---
 

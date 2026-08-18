@@ -83,7 +83,7 @@ updated: 2026-07-13
 >
 > **Sipe & Curlette（1997）的再检验**
 >
-> Sipe 和 Curlette 对 103 项元分析进行了类似但方法论更严格的综合，同样以 Walberg 的教育生产力理论为检验框架。他们估计其纳入的元分析与 Fraser et al.（1987）的重叠不到 10%([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
+> Sipe and Curlette 对 103 项元分析进行了类似但方法论更严格的综合，同样以 Walberg 的教育生产力理论为检验框架。他们估计其纳入的元分析与 Fraser et al.（1987）的重叠不到 10%([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
 >
 > **Hattie（1992）的推进**
 >

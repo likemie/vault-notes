@@ -98,7 +98,7 @@ updated: 2026-06-01
 > - **1962 年**[[Jürgen Habermas|Habermas]] 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
 > - **1984 年** Bourdieu 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系(Bourdieu, 1984; [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 ... Applied fuzzy match at line 48-112.
-> - **2013 年** Neckel 和 Zinn 在德国的社会不平等讨论中重新激活了再封建化和新封建主义概念（Neckel, 2013; Zinn, 2015）
+> - **2013 年** Neckel and Zinn 在德国的社会不平等讨论中重新激活了再封建化和新封建主义概念（Neckel, 2013; Zinn, 2015）
 > - **2015 年**Möller（2015）和 Graf（2015）运用 Bourdieu 的学术阶级理论对教授和学术官员进行实证研究([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.799]])
 > - **2017 年** Schulze-Cleven et al. 将新封建主义引入高等教育研究作为分析[[Paradigm|范式]]
 

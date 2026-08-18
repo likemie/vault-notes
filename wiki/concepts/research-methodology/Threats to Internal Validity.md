@@ -3,7 +3,7 @@ title: Threats to Internal Validity
 aliases:
   - 内部效度威胁
   - internal validity threats
-summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell 和 Stanley 经典框架列出十种主要威胁，Onwuegbuzie 和 Leech 将其扩展至质性研究中的十二种威胁"
+summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell and Stanley 经典框架列出十种主要威胁，Onwuegbuzie and Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
 related_count: 32

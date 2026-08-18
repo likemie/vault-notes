@@ -53,7 +53,7 @@ updated: '2026-05-18'
 ## 时间线
 
 > [!note]- 时间线
-> - **初始阶段** Johns Hopkins University 与 University of York（英国）合作创建美英版 BEiB
+> - **初始阶段** Johns Hopkins University and University of York（英国）合作创建美英版 BEiB
 > - **扩展至中国大陆** 南京师范大学（NNU）创建面向中国大陆的中文版（https://blog.educaixa.com/es/evidencias-educaixa1）
 > - **扩展至海外华人** 香港中文大学（CUHK）创建面向海外华人的中文版（https://cuspbeb.com/en/）
 > - **互译机制建立** 美英版发表从中文版改编的文章，中文版翻译特别适用的美英版文章并做中国情境适配（p.21）

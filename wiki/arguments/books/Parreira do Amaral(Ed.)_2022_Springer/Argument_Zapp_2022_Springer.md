@@ -172,7 +172,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 2. **证据的选择性使用和制造** 政策制定者只引用支持自己立场的科学证据(Steiner-Khamsi et al., 2020)；有政治倾向的研究者可能预设结论地"制造"证据(Zapp, 2020a)。——"我知道[[Endogenous and Exogenous Privatisation|教育私有化]]好，我就做一项研究来'证明'它好。"
 3. **对科学的公开压制** 威权政权直接压制学术机构——Zapp 举了 Viktor Orbán 的匈牙利为例：性别研究被禁止在大学教学、中欧大学（CEU）被骚扰和被迫迁离、科学院被政府严格控制(Scholars at Risk, 2019)。
 
-> 例：COVID-19 疫情提供了科学-政治关系恶化的鲜活案例——Trump 和 Bolsonaro 反复拒绝接受气候变化和公共卫生的科学共识，同时提供"替代事实"和"替代发现"(Barrera et al., 2020; Hopf et al., 2019)。当总统说"我不相信科学家"时，[[Otherhood]] 的整个逻辑就崩溃了——大学替"他者"发声，但如果没有人听呢？
+> 例：COVID-19 疫情提供了科学-政治关系恶化的鲜活案例——Trump and Bolsonaro 反复拒绝接受气候变化和公共卫生的科学共识，同时提供"替代事实"和"替代发现"(Barrera et al., 2020; Hopf et al., 2019)。当总统说"我不相信科学家"时，[[Otherhood]] 的整个逻辑就崩溃了——大学替"他者"发声，但如果没有人听呢？
 
 **风险二：大学的地缘政治再领土化**。Zapp 揭示了第二个悖论：大学知识越是全球化，大学本身越是**被国家重新收回**作为地缘政治竞争的棋子(pp.155–157)。表现包括：
 
@@ -210,7 +210,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 
 ### 教学对齐：培养全球治理专家
 
-- 全球多所大学新设全球治理学位项目：Oxford（MSc Global Governance and Diplomacy）、Copenhagen（MSc Climate Change）、KTH（MA Sustainable Technology）、Manchester（Water Supply and Sanitation Policy in Developing Countries 和 Global Health and Humanitarianism 的 MOOCs）、Bologna（1174 个 SDG 相关课程单元）、McMaster（PhD Global Health）、Gothenburg（跨学科 PhD 可持续发展）(pp.151–152)
+- 全球多所大学新设全球治理学位项目：Oxford（MSc Global Governance and Diplomacy）、Copenhagen（MSc Climate Change）、KTH（MA Sustainable Technology）、Manchester（Water Supply and Sanitation Policy in Developing Countries and Global Health and Humanitarianism 的 MOOCs）、Bologna（1174 个 SDG 相关课程单元）、McMaster（PhD Global Health）、Gothenburg（跨学科 PhD 可持续发展）(pp.151–152)
 - Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个明确具有国际取向的项目，涵盖国际商务、比较法、全球发展、跨文化教育等领域(p.152)
 
 ### 内部政策对齐：大学社会责任的制度化

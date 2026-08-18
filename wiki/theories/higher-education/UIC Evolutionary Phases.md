@@ -4,7 +4,7 @@ aliases:
   - "产学合作演化阶段"
   - "UIC evolution phases"
   - "UIC 四阶段模型"
-summary: "ODwyer、Filieri 和 OMalley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制"
+summary: "ODwyer、Filieri and OMalley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制"
 type: theory
 theory_field: "higher-education"
 theory_related_count: 12

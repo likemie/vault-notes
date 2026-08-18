@@ -437,15 +437,15 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 ### 澳大利亚与新西兰
 
 > [!case] 澳大利亚与新西兰：[[Visible Learning]] 与 EBE 的政策采纳
-> 通过 Gonski 改革、Victorian [[Victorian HITS and Literacy Toolkit|HITS]]、NZ 课程将 Visible Learning 和 EBE 制度化。
+> 通过 Gonski 改革、Victorian [[Victorian HITS and Literacy Toolkit|HITS]]、NZ 课程将 Visible Learning and EBE 制度化。
 
 > [!evidence-grid-a] 澳新案例索引
-> - [[The New Zealand Curriculum]] — VL 和 EBE 理念的制度化载体
+> - [[The New Zealand Curriculum]] — VL and EBE 理念的制度化载体
 > - [[Australian Curriculum]] — 三维度框架，系统性地以证据本位逻辑运作
 > - [[Gonski Reforms]] — 以个体进步替代年龄基准，体现 EBE 的"什么有效"逻辑
 > - [[Victorian HITS and Literacy Toolkit]] — EBE 在课堂层面的直接政策输出
 > - [[Tomorrow's Schools Reforms]] — NZ 行政改革转向证据本位教学的转折
 > - [[Treasury Briefing on Student-Teacher Ratios]] — EBE 证据在政策论述中被误用的典型范例
-> - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 系统记录 EBE/VL 在 NZ 和 AU 的政策采纳轨迹
+> - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 系统记录 EBE/VL 在 NZ and AU 的政策采纳轨迹
 
 ---

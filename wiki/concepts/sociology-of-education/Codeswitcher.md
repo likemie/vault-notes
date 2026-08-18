@@ -43,7 +43,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info]
-> Code switcher（代码切换者）是 John 和 Michael Bishop 在其美国中学生同伴文化的大规模研究中使用的术语，指那些为了在 [[Nerd]] 同伴文化中生存而采用双重行为策略的学生：**在学校公开表态遵守"try but not too hard"（不要太[[Conatus|努力]]）的同伴规范，但回家后偷偷努力学习([[Argument_Li_2012_Cambridge|Li, 2012, p.91]])**。
+> Code switcher（代码切换者）是 John and Michael Bishop 在其美国中学生同伴文化的大规模研究中使用的术语，指那些为了在 [[Nerd]] 同伴文化中生存而采用双重行为策略的学生：**在学校公开表态遵守"try but not too hard"（不要太[[Conatus|努力]]）的同伴规范，但回家后偷偷努力学习([[Argument_Li_2012_Cambridge|Li, 2012, p.91]])**。
 
 这一策略是一种**自我呈现管理（self-presentation management）**——学生必须在"被同伴接受"和"取得好成绩"之间找到一个可行的平衡点。公开努力 = 招致同伴制裁；完全不努力 = 成绩下滑。代码切换变成了唯一可行的中间路径。
 

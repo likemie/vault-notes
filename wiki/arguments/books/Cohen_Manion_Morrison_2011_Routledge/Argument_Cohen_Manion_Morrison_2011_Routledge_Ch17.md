@@ -143,7 +143,7 @@ updated: 2026-07-15
 > |---|---|---|
 > | [[EPPI-Centre]]（[eppi.ioe.ac.uk](https://eppi.ioe.ac.uk/cms/)） | 证据知情政策与[[Praxis\|实践]]信息与协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre），原伦敦大学教育学院，现隶属于伦敦大学学院（University College London，UCL） | 教育与社会政策领域的系统综述方法论开发、证据使用研究和培训。持续运营中，由 David Gough 教授领导 |
 > | [[Campbell Collaboration]]（[campbellcollaboration.org](https://www.campbellcollaboration.org/)） | Campbell 协作网，前身为社会、心理、教育和犯罪学控制试验注册库（SPECTR）（Milwain, 1998; Milwain et al., 1999），Cochrane 协作网在教育和社会科学领域的平行机构 | 社会与教育领域控制试验的系统综述与元分析。持续运营中 |
-> | [[CEM Centre]]（[cem.org](https://www.cem.org/)） | 原属杜伦大学，由 Fitz-Gibbon 和 Tymms 创立，展示指标系统与实验方法结合以提供[[Causality\|因果推断]]证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
+> | [[CEM Centre]]（[cem.org](https://www.cem.org/)） | 原属杜伦大学，由 Fitz-Gibbon and Tymms 创立，展示指标系统与实验方法结合以提供[[Causality\|因果推断]]证据 | 开发学校监测与评估系统（如 PIPS、MidYIS、ALIS），提供增值评估。2019 年被剑桥大学出版与评估院（Cambridge University Press & Assessment）收购，更名为 Cambridge CEM，仍在运营 |
 > | [[UK Centre for Evidence-based Policy]]（[ukri.org/councils/esrc](https://www.ukri.org/councils/esrc/)） | 原属英国经济与社会研究理事会（Economic and Social Research Council，ESRC），ESRC 后并入英国国家科研与创新署（UK Research and Innovation，UKRI） | 推动循证政策研究与实践。ESRC 原有专门页面已下线，职能已整合至 UKRI 体系 |
 > | [[Evidence Network]]（[kcl.ac.uk/policy-institute](https://www.kcl.ac.uk/policy-institute)） | 原属伦敦国王学院 | 原为证据网络的建立与推广。网址已废弃，国王学院现由政策研究所（Policy Institute）承担类似职能 |
 > | [[What Works Clearinghouse]]（[ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc/)） | 美国教育部教育科学研究所（Institute of Education Sciences，IES），附带[[Recommendations for Practice\|实践建议]]报告 | 教育干预证据的系统性审查与评级。2025 年 2 月因联邦合同取消而停止新审阅，网站可能保留为存档 |
@@ -159,7 +159,7 @@ updated: 2026-07-15
 
 > [!dev-timeline] 从 Cochrane 到 Campbell：循证实践的制度扩散
 > - **1972 — Cochrane 的奠基** Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导随机对照试验及其系统综述和[[Document|文献]]记录，推动了 Cochrane 协作网的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp. 336–337）。
-> - **1990s 后期 — 进入社会政策与教育** 循证实践进入社会政策、社会工作（MacDonald, 1997）和教育（Fitz-Gibbon, 1997）。在教育研究前沿的是伦敦大学 EPPI-Centre 和杜伦大学 CEM 中心，Fitz-Gibbon 和 Tymms 展示了指标系统如何与实验方法结合，为"我们如何知道什么有效？"提供因果推断证据（Fitz-Gibbon, 1999: 33）（pp. 337–338）。
+> - **1990s 后期 — 进入社会政策与教育** 循证实践进入社会政策、社会工作（MacDonald, 1997）和教育（Fitz-Gibbon, 1997）。在教育研究前沿的是伦敦大学 EPPI-Centre 和杜伦大学 CEM 中心，Fitz-Gibbon and Tymms 展示了指标系统如何与实验方法结合，为"我们如何知道什么有效？"提供因果推断证据（Fitz-Gibbon, 1999: 33）（pp. 337–338）。
 > - **2000 — Campbell 协作网成立** SPECTR 注册库转移至 Campbell 协作网，成为 Cochrane 在教育和社会科学领域的平行机构（p. 330）。
 
 ---

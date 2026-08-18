@@ -162,7 +162,7 @@ updated: 2026-08-16
 > 批判性思维既包含可以训练和观察的认知过程，也包含促使个体公平、持续地使用这些过程的倾向。领域知识和具体情境进一步规定理由与证据的评价标准。
 
 > [!claim] Siegel, H.; Ennis, R. H.; Facione, P. A.
-> **有理由的反思判断** Siegel 将批判性思维连接到理性，要求个体把握不同理由与判断的相关性并适当权衡其分量。Ennis 和 Weir 将其界定为聚焦于决定相信什么或做什么的合理、[[Reflective Thinking|反思性思维]]。Facione 的德尔菲框架进一步把这种判断拆为解释、分析、评价、推论、说明和自我调节，并加入探究、开放和理解他人等倾向。三者共同表明，技能表现需要理由承诺和反思倾向才能形成完整构念。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 32)]]
+> **有理由的反思判断** Siegel 将批判性思维连接到理性，要求个体把握不同理由与判断的相关性并适当权衡其分量。Ennis and Weir 将其界定为聚焦于决定相信什么或做什么的合理、[[Reflective Thinking|反思性思维]]。Facione 的德尔菲框架进一步把这种判断拆为解释、分析、评价、推论、说明和自我调节，并加入探究、开放和理解他人等倾向。三者共同表明，技能表现需要理由承诺和反思倾向才能形成完整构念。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 32)]]
 
 > [!claim] Paul, R.; Higgins, S.; Nisbett, R. E.
 > **情境化的思维质量** Paul 将独立思考、公正、智识[[Humility in Learning|谦逊]]和坚持与来源评价、观点比较、[[Hypothesis|假设]]审查、推论及后果分析并置。Higgins 进一步区分视角、倾向和所处理的知识维度。Nisbett 对清单式界定的批评说明，同一个行动词只有在倾向、视角和情境得到说明后，才可用于判断思维质量。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–35)]]
@@ -173,7 +173,7 @@ updated: 2026-08-16
 > 研究关注批判性思维是否需要被明确命名、示范和练习，以及独立课程获得的策略如何与学科知识、教师能力和学校组织结合。
 
 > [!claim] Abrami, P. C., et al.; Marin, L. M., & Halpern, D. F.
-> **显性教学优势** Abrami 等人汇总 117 项研究和 20,698 名参与者，发现显性教学条件下的批判性思维增益最大，隐性融入条件的效果较小，教师接受专门培训且教学受到评估时获益最高。Marin 和 Halpern 在低表现学校开展的[[Randomised Controlled Trials|随机对照实验]]也发现，显性教学组的技能增益更大。两组证据支持把思维过程直接示范、练习和反馈作为教学设计的核心。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]]
+> **显性教学优势** Abrami 等人汇总 117 项研究和 20,698 名参与者，发现显性教学条件下的批判性思维增益最大，隐性融入条件的效果较小，教师接受专门培训且教学受到评估时获益最高。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials|随机对照实验]]也发现，显性教学组的技能增益更大。两组证据支持把思维过程直接示范、练习和反馈作为教学设计的核心。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]]
 
 > [!claim] Willingham, D. T.; Bailin, S.; Cole, D. R., et al.
 > **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole 等人的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂[[Praxis|实践]]。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250, 255–259)]]
@@ -187,7 +187,7 @@ updated: 2026-08-16
 > **可迁移结构** 通用立场认为，论证分析、假设检验、不确定性判断和决策等结构能够通过明确训练进入新的任务。教学因此应帮助学生识别相似问题结构，练习在多个情境中调用同一策略。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32, 34)]]
 
 > [!claim] Glaser, R.; Lave, J.; Ritchhart, R., & Perkins, D. N.
-> **动态情境关系** 领域依赖研究强调，证据标准、专业知识和实践情境会改变推理的实际内容。Ritchhart 和 Perkins 指出，迁移争论被过度极化，通用认知结构与具体情境之间应被理解为复杂而动态的关系。因此，迁移可被视为策略、知识与情境线索成功配合的结果。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
+> **动态情境关系** 领域依赖研究强调，证据标准、专业知识和实践情境会改变推理的实际内容。Ritchhart and Perkins 指出，迁移争论被过度极化，通用认知结构与具体情境之间应被理解为复杂而动态的关系。因此，迁移可被视为策略、知识与情境线索成功配合的结果。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
 
 ### 命题四　课程与评估只有充分覆盖目标构念，才能支持批判性思维的效度声称
 
@@ -228,7 +228,7 @@ updated: 2026-08-16
 
 > [!dev-timeline] 批判性思维概念的演变
 > - **古典传统至 20 世纪中期　理性判断与教育自主** [[Plato|柏拉图]]和[[Aristotle|亚里士多德]]传统开启以理由审查信念的教育理想，后续哲学家和教育思想家持续把理性、自主和自我纠正视为教育的重要成果。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 31)]]
-> - **1980 年代　反思判断成为定义核心** Siegel 将批判性思维与理性和理由权衡相连，Ennis 和 Weir 将其聚焦于决定相信什么或采取何种行动，使概念从宽泛教育理想转向可讨论的判断过程。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 32)]]
+> - **1980 年代　反思判断成为定义核心** Siegel 将批判性思维与理性和理由权衡相连，Ennis and Weir 将其聚焦于决定相信什么或采取何种行动，使概念从宽泛教育理想转向可讨论的判断过程。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 32)]]
 > - **1990 年代　技能、倾向与多层分类发展** Facione 的德尔菲框架、Paul 的三维分类和 Halpern 的技能体系扩展了[[Construct|构念]]范围，认知技能、思维倾向、迁移和问题解决成为主要议题。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–34)]]
 > - **2000 年代以来　课程[[Operationalization|操作化]]与效度审查** 修订版 Bloom 分类法、Cambridge Assessment 框架及教育[[Meta-analysis|元分析]]推动概念进入课程目标、测量工具和评估标准。研究重点由列举技能进一步转向教学效果、迁移条件与[[Construct Validity|构念效度]]。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 33–35)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]]
 
@@ -278,9 +278,9 @@ updated: 2026-08-16
 > > [!axis] 通用结构与领域依赖
 > > 争论集中于批判性思维能否稳定跨学科迁移，以及领域知识在新任务中承担多大作用。
 > >
-> > - **Halpern、Bassok 与 Holyoak、Salomon 与 Perkins** 强调能够跨情境调用的认知结构和迁移训练。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
-> > - **Schoenfeld 与 Herrmann、Bereiter 与 Scardamalia、Glaser、Lave** 强调专业知识、学科规范和情境[[Praxis|实践]]对思维表现的塑造。同上
-> > - **Ritchhart 与 Perkins** 将二元争论修正为通用结构与具体情境之间复杂而动态的关系。同上
+> > - **Halpern、Bassok and Holyoak、Salomon and Perkins** 强调能够跨情境调用的认知结构和迁移训练。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
+> > - **Schoenfeld and Herrmann、Bereiter and Scardamalia、Glaser、Lave** 强调专业知识、学科规范和情境[[Praxis|实践]]对思维表现的塑造。同上
+> > - **Ritchhart and Perkins** 将二元争论修正为通用结构与具体情境之间复杂而动态的关系。同上
 >
 > > [!axis] 问题解决与创造的构念位置
 > > 学者对构念外延采用不同标准，差异会直接改变课程内容与评估蓝图。

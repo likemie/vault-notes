@@ -193,7 +193,7 @@ updated: 2026-07-19
 > [!def] Carr & Kemmis (1986, p. 162)
 > 从[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas|Jürgen Habermas]]）立场出发，将行动研究视为一种自我反思性探究，由参与者进行，旨在改善他们对情境中自身实践的理解，以最大化社会正义（p. 265）。
 
-> [!note] McNiff 与 Grundy 的哲学补充
+> [!note] McNiff and Grundy 的哲学补充
 > 琼·麦克尼夫（McNiff, 2002, p. 17）进一步补充：行动研究者支持"人们可以创造自己的身份"的观点，并应允许他人也这样做。雪莉·格伦迪（Grundy, 1987, p. 142）则将行动研究视为关注改善"社会存在条件"的活动（p. 265）。
 
 > [!citation-card]- Kemmis & McTaggart 论行动研究的双重关注

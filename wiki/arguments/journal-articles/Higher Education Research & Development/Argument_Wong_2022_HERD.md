@@ -64,7 +64,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：质性归纳主题分析（inductive thematic analysis），使用 NVivo 和 NCapture 收集和[[Coding in Qualitative Research|编码]]数据
+> - 方法：质性归纳主题分析（inductive thematic analysis），使用 NVivo and NCapture 收集和[[Coding in Qualitative Research|编码]]数据
 > - 样本：Universities UK 137 所成员大学中，76 所（55%）至少有一个公开网页列出[[Graduate Attributes|毕业生特质]]（截至 2020 年 1 月）
 > - 数据来源：大学官方网站公开的毕业生特质页面
 > - 分析流程：三位作者独立编码相同数据（三所大学网站）→ 讨论差异达成共识 → 逐步精炼编码框架 → 超过 30 个子代码归纳为四大话语(p.1343)

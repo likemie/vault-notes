@@ -137,9 +137,9 @@ updated: '2026-05-18'
 >
 > VL 的商业化并不是由出版社直接接手，而是由 [[Cognition Education]] 这个起源于 [[Tomorrow's Schools Reforms]] 的[[Educational Management Organisation|教育管理组织]]接住。Johnson & Janzen 把这一步放回新西兰教育市场化历史中理解：原 Auckland 学校董事会的交通与工资部门先被改制为 Multi Serve，后更名为 Cognition Education，并在营利公司加慈善信托的双层结构下经营教育服务与知识产品。([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.30；Bates, 2017, p.11-12, p.69]])
 >
-> 这使 VL 一开始就不是单纯的学术传播，而是被嵌入一个已经成熟的教育服务平台。2010 年末奥克兰大学教育学院决定不再继续支持该商业平台后，Cognition 与 Hattie 很快达成合作，把 VL 原理转写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum。按 Bates 的回顾，Hattie 取得所有 VL 相关收入的版税，而新 division 自 2011 年初启动后增长极快，第一年收入已接近 2M，次年接近 2.7M，且利润率高于此前长期支撑公司的 payroll 业务。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30]])
+> 这使 VL 一开始就不是单纯的学术传播，而是被嵌入一个已经成熟的教育服务平台。2010 年末奥克兰大学教育学院决定不再继续支持该商业平台后，Cognition and Hattie 很快达成合作，把 VL 原理转写成面向教师和[[School Leadership|学校领导]]的模块化 professional learning curriculum。按 Bates 的回顾，Hattie 取得所有 VL 相关收入的版税，而新 division 自 2011 年初启动后增长极快，第一年收入已接近 2M，次年接近 2.7M，且利润率高于此前长期支撑公司的 payroll 业务。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30]])
 >
-> VL 后来的全球扩散也依赖 Cognition 设计的轻资产授权模式，而不是各国自建重型分公司。最初 Macmillan 在澳大利亚负责销售与活动，Cognition 提供课程与人员；随后 James Nottingham Associates、Osiris 和 Corwin 等机构按地区取得授权，帮助 VL 快速进入多个市场，同时避免在各国设立 Cognition 实体所需的资本、合规与品牌培育成本。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.60；O'Neill et al., 2016, p.67]])
+> VL 后来的全球扩散也依赖 Cognition 设计的轻资产授权模式，而不是各国自建重型分公司。最初 Macmillan 在澳大利亚负责销售与活动，Cognition 提供课程与人员；随后 James Nottingham Associates、Osiris and Corwin 等机构按地区取得授权，帮助 VL 快速进入多个市场，同时避免在各国设立 Cognition 实体所需的资本、合规与品牌培育成本。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.60；O'Neill et al., 2016, p.67]])
 >
 > #### 2009 年媒体风暴与公众反应
 >
@@ -158,7 +158,7 @@ updated: '2026-05-18'
 > - **Collaborative Impact 系列** 学校整体改进工作坊
 > - **学校认证** 学校可申请被评估认证为 Visible Learning Impact Certified School
 >
-> Cognition Education 同时运营 VLplus 在线"社区"（Newsfeeds、视频、博客）。姊妹产品 Culture Countsplus 与 Russell Bishop 教授合作开发。
+> Cognition Education 同时运营 VLplus 在线"社区"（Newsfeeds、视频、博客）。姊妹产品 Culture Countsplus and Russell Bishop 教授合作开发。
 >
 > #### 产品体系（Corwin 收购后，2018–）
 >
@@ -178,7 +178,7 @@ updated: '2026-05-18'
 >
 > 全球交付通过六个区域伙伴网络实现：Osiris Educational（英国）、JN Partnership（斯堪的纳维亚）、Corwin（澳大利亚）、Corwin（北美）、Bazalt（荷兰）([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.48, 67]])。
 >
-> 2016 年 VLplus 年会在华盛顿 DC 举行，主题演讲者包括 Hattie、Michael Fullan、Pedro Noguera、[[Viviane Robinson]]、Douglas Fisher 和 Nancy Frey([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.65 脚注 68]])。
+> 2016 年 VLplus 年会在华盛顿 DC 举行，主题演讲者包括 Hattie、Michael Fullan、Pedro Noguera、[[Viviane Robinson]]、Douglas Fisher and Nancy Frey([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.65 脚注 68]])。
 >
 > #### 品牌衍生
 >
@@ -214,7 +214,7 @@ updated: '2026-05-18'
 >
 > **ACEL（澳大利亚教育领导力委员会）** ACEL 是澳大利亚最大的学校领导力专业协会。Hattie 自 2009 年起成为 ACEL 年会的主题演讲常客，由此建立了与澳大利亚学校行政层的制度化联系渠道。
 >
-> **ACEL–Corwin 合作伙伴关系（2015）** 2015 年，ACEL 与 Corwin Press 正式宣布合作伙伴关系，定期推广"Hattie 启发的 'Visible XXX' 工作坊"和系列出版物([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.780]])。这一联盟将专业协会的会员网络与出版商的商业分销渠道结合，形成自我强化的推广循环：ACEL 年会提供曝光 → Corwin 提供出版物和工作坊 → 学校采纳 → 品牌价值提升 → 更多年会曝光([[Argument_Eacott_2017_SLM|Eacott, 2017, pp.419–420]])。每一衍生品牌反过来强化 VL 核心品牌，形成正反馈循环。
+> **ACEL–Corwin 合作伙伴关系（2015）** 2015 年，ACEL and Corwin Press 正式宣布合作伙伴关系，定期推广"Hattie 启发的 'Visible XXX' 工作坊"和系列出版物([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.780]])。这一联盟将专业协会的会员网络与出版商的商业分销渠道结合，形成自我强化的推广循环：ACEL 年会提供曝光 → Corwin 提供出版物和工作坊 → 学校采纳 → 品牌价值提升 → 更多年会曝光([[Argument_Eacott_2017_SLM|Eacott, 2017, pp.419–420]])。每一衍生品牌反过来强化 VL 核心品牌，形成正反馈循环。
 >
 > **Cognition Education（初始培训提供商与商标持有者）** VL 出版后至 2018 年初，由 Cognition Education 公司负责 VL 全球教师培训的传播和商业化运营([[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, p.33]])。
 >
@@ -262,7 +262,7 @@ updated: '2026-05-18'
 > PISA 2001 同样揭示澳大利亚成绩差异主要在校内，政策重点从外部因素转向师生互动质量([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.123–125]])。
 >
 > **政策采纳路径([[Argument_Sarbiewska_2019_JSR|Sarbiewska, 2019, p.126–128]])**
-> - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie 和 Marzano 的研究，每项均以 VL 为首要参考[[Document|文献]]
+> - 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]（10 项高影响力教学策略）源自 Hattie and Marzano 的研究，每项均以 VL 为首要参考[[Document|文献]]
 > - [[ResearchED]] Australia（[[Australian Council for Educational Research|ACER]], 2017）为从业者提供分享平台
 > - [[Australian Curriculum]]（2012）三维度（学习领域、通用能力、跨课程优先事项），ACARA 每年评估并报告
 > - Gonski 2.0（2018）提出以个体进步而非年龄基准衡量成功学习
@@ -281,12 +281,12 @@ updated: '2026-05-18'
 >
 > VL 在丹麦的传播经历了从政策采纳到激烈反弹的完整周期([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3-5]])：
 >
-> - **翻译引入** Hattie *Visible Learning for Teachers* 由 Niels Egelund 和 Qvortrup 撰写导言的丹麦语译本出版，将 VL 定位为 [[Evidence-Based Education|证据本位教育]] 在丹麦的里程碑事件([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])
-> - **2014 年政策采纳** 丹麦议会多数通过 公立学校改革，将科目目标替换为学习目标，明确引用 Hattie 和 VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
+> - **翻译引入** Hattie *Visible Learning for Teachers* 由 Niels Egelund and Qvortrup 撰写导言的丹麦语译本出版，将 VL 定位为 [[Evidence-Based Education|证据本位教育]] 在丹麦的里程碑事件([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.3]])
+> - **2014 年政策采纳** 丹麦议会多数通过 公立学校改革，将科目目标替换为学习目标，明确引用 Hattie and VL。改革的核心转向——教育的最终目标不应该是教师教什么而应该是学生学什么——直接呼应了 VL 的"可见的学习成果"理念([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p.5]])
 > - **政策捆绑与阻力** 改革与对教师劳动协议的争议性立法干预高度绑定——改革在挑战传统教师角色的同时削减了教师的劳动权利
 > - **反弹与批评** 改革后在短期内形成了一个由研究者、政治家和工会代表组成的广泛 解释社群——将 Hattie 从"教育英雄"转变为"教育敌人"。批评文集 [[Hattie på dansk]] 汇集了多篇强烈批评文章
 > - **Qvortrup 的辩护** 2019 年 Qvortrup 在 NordSTEP 发表讨论论文，以三线论证为 VL 辩护——批评者形成了意识形态驱动的解释社群而非进行学术反驳、定量与定性方法是互补的观察透镜、VL 的目的是提供"智能问题解决的[[Hypothesis|假设]]"而非"食谱"（详见 [[Argument_Qvortrup_2019_NordSTEP]]）
-> - **Laursen 的适用性检验**[[Argument_Laursen_2015_Paideia|Laursen (2015)]] 从较温和的经验比较角度追问 Hattie、Meyer 和 Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 SFI 报告 和 Mehlbye 高绩效学校研究 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34–40]])
+> - **Laursen 的适用性检验**[[Argument_Laursen_2015_Paideia|Laursen (2015)]] 从较温和的经验比较角度追问 Hattie、Meyer and Helmke 的国际 [[Effective Teaching|有效教学]] 综合是否适用于丹麦。尽管这些综合主要基于英语国家研究，Laursen 比较 SFI 报告 和 Mehlbye 高绩效学校研究 等丹麦证据后认为，教师领导、清晰目标、高要求、良好班级社会环境等核心质量在丹麦同样促进学生学习([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.34–40]])
 >
 > #### 瑞典
 >

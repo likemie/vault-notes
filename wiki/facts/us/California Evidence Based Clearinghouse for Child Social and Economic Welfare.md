@@ -58,7 +58,7 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，CEBC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。CEBC 提供[[Abstract|研究摘要]]但不为每项研究单独评级；其工作人员使用的标准包括研究设计（只接受 RCT 或 QED）、控制/比较组性质、至少一个结果测量的[[Reliability|信度]]与效度，以及所有干预组件是否一起分析([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，CEBC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD and ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。CEBC 提供[[Abstract|研究摘要]]但不为每项研究单独评级；其工作人员使用的标准包括研究设计（只接受 RCT 或 QED）、控制/比较组性质、至少一个结果测量的[[Reliability|信度]]与效度，以及所有干预组件是否一起分析([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
 
 ## 最高评级标准
 
@@ -70,7 +70,7 @@ updated: '2026-05-18'
 ## 与其他清算中心的差异
 
 > [!abstract] 与其他清算中心的差异
-> CEBC 和 Blueprints 被作者归为标准较高的清算中心，主要因为它们要求长期效果；CEBC 的最高等级尤其依赖两项高质量 [[Randomised Controlled Trials|RCT]] 与至少 12 个月持续效果。与 [[What Works Clearinghouse|WWC]] 不同，CEBC 不单独评级每项研究；与 [[National Dropout Prevention Center|NDPC]] 不同，它明确要求两项高质量 RCT([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–15]])。
+> CEBC and Blueprints 被作者归为标准较高的清算中心，主要因为它们要求长期效果；CEBC 的最高等级尤其依赖两项高质量 [[Randomised Controlled Trials|RCT]] 与至少 12 个月持续效果。与 [[What Works Clearinghouse|WWC]] 不同，CEBC 不单独评级每项研究；与 [[National Dropout Prevention Center|NDPC]] 不同，它明确要求两项高质量 RCT([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–15]])。
 
 ## 相关概念／政策
 

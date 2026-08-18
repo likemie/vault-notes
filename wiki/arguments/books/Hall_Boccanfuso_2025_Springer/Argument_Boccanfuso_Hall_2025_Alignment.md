@@ -112,10 +112,10 @@ citation_aliases:
 
 **步骤 1：起点观察——创新发生在"界面"上**
 
-2024 年诺贝尔奖提供了一个醒目的起点：物理学奖表彰了神经网络的[[Blue Skies Research|基础研究]]，化学奖授予了预测蛋白质结构的 AlphaFold 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis 和 John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带(pp.3–4)。
+2024 年诺贝尔奖提供了一个醒目的起点：物理学奖表彰了神经网络的[[Blue Skies Research|基础研究]]，化学奖授予了预测蛋白质结构的 AlphaFold 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis and John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带(pp.3–4)。
 
 > [!example]
-> 换句话说，如果 Hinton 从未进入 Google，或者 Hassabis 和 Jumper 不在 DeepMind 工作，这些获得诺贝尔奖的成果可能根本不会以同样的方式出现。这挑战了"基础研究只需要在大学里做"的传统[[Hypothesis|假设]]。
+> 换句话说，如果 Hinton 从未进入 Google，或者 Hassabis and Jumper 不在 DeepMind 工作，这些获得诺贝尔奖的成果可能根本不会以同样的方式出现。这挑战了"基础研究只需要在大学里做"的传统[[Hypothesis|假设]]。
 
 ---
 
@@ -264,7 +264,7 @@ citation_aliases:
 
 **步骤 14：UIDP——从"一刀切"到社区化解决方案**
 
-UI 合作面临的合同谈判挑战是 UIDP 的起源。2003 年，GUIRR 发起了产学关系项目，但很快意识到"一刀切"的知识产权谈判模板行不通。Merrilea Mayo、Bob Killoren 和 Susan Butts 推动成立了一个新的委员会——不仅要超越合同模板，还要"创造一个促进多边理解、改善沟通和支持人际连接的论坛"(p.16)。
+UI 合作面临的合同谈判挑战是 UIDP 的起源。2003 年，GUIRR 发起了产学关系项目，但很快意识到"一刀切"的知识产权谈判模板行不通。Merrilea Mayo、Bob Killoren and Susan Butts 推动成立了一个新的委员会——不仅要超越合同模板，还要"创造一个促进多边理解、改善沟通和支持人际连接的论坛"(p.16)。
 
 2004 年白皮书提出了创建 UIDP 的建议。2006 年发布了 Guiding Principles。早期成果包括 TurboNegotiator（辅助合同谈判的工具）和 Contract Accords（针对最棘手的合同条款，提供概述、学术和企业各自视角以及解决差异的策略）。Contract Accords 最初涵盖 5 个条款，现已扩展到近 20 个(p.16)。
 

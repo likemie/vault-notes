@@ -65,7 +65,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> Pellegrini & Vivanet 引用英国大规模[[Experimental Research|实验研究]]作为对照：互动白板使用 5 个月后，英语[[Effect Size|效应量]]为 +.04 且不显著，数学和科学分别为 +.10 和 +.11；两年后，英语、数学和科学效应接近零。Kyriakou 与 Higgins 的[[Systematic Review|系统综述]]也显示互动白板既未明显影响学生成就，也未明显改善课堂学习质量([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])。
+> Pellegrini & Vivanet 引用英国大规模[[Experimental Research|实验研究]]作为对照：互动白板使用 5 个月后，英语[[Effect Size|效应量]]为 +.04 且不显著，数学和科学分别为 +.10 和 +.11；两年后，英语、数学和科学效应接近零。Kyriakou and Higgins 的[[Systematic Review|系统综述]]也显示互动白板既未明显影响学生成就，也未明显改善课堂学习质量([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])。
 
 > [!info]- 核心数据
 > - 35,114 块互动白板([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p.27]])

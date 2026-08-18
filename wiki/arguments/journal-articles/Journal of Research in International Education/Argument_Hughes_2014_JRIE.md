@@ -93,7 +93,7 @@ issuing_organization: ""
 > |---|---|
 > | **德尔菲共识框架**<br>Facione (1990) | 以解释、分析、评价、推论、说明和自我调节六种技能，以及探究、开放与理解他人等倾向，界定批判性思维的共同核心。（p.32） |
 > | **Paul 的三维分类**<br>Paul (1990, 2011) | 将批判性思维分为情意维度、宏观能力和微观技能，覆盖独立思考、观点比较、来源评价、论证分析、[[Hypothesis\|假设]]审查、推论和后果探索。（pp.32–33） |
-> | **Halpern 与 Cambridge Assessment 分类**<br>Halpern (1997); Black (2008) | 前者纳入假设检验、概率与不确定性、决策、问题解决和创造，后者强调论证分析、信息相关性、主张评价与有理由的判断，并把阅读理解、问题解决、创造和三段论置于构念边缘或之外。（pp.32–34） |
+> | **Halpern and Cambridge Assessment 分类**<br>Halpern (1997); Black (2008) | 前者纳入假设检验、概率与不确定性、决策、问题解决和创造，后者强调论证分析、信息相关性、主张评价与有理由的判断，并把阅读理解、问题解决、创造和三段论置于构念边缘或之外。（pp.32–34） |
 > | **修订版 Bloom 分类法**<br>Anderson & Krathwohl (2001) | 以记忆、理解、应用、分析、评价和创造的层级词汇检查课程命令词是否从知识接收推进到主动产出。（pp.33–34） |
 
 > [!warrant]- 理论如何支撑论证
@@ -113,7 +113,7 @@ issuing_organization: ""
 > [!sample-panel]- 材料与推断边界
 > | 材料层面 | 构成 |
 > |---|---|
-> | **规范参照** | Facione、Halpern、Paul、Black，以及 Anderson 和 Krathwohl 修订的 Bloom 分类法。（pp.31–35） |
+> | **规范参照** | Facione、Halpern、Paul、Black，以及 Anderson and Krathwohl 修订的 Bloom 分类法。（pp.31–35） |
 > | **课程文本** | 2013 年 ToK 指南中的课程定位、五项课程目标、七项评估目标、论文与展示任务及其评分描述符。（pp.35–40） |
 > | **推断边界** | 指南文本只能支持对书面课程设计的评论，无法据此确定真实课堂中批判性思维的数量或质量，也不能替代对教学质量、教师发展和评分调节的考察。（pp.31, 35） |
 
@@ -140,7 +140,7 @@ issuing_organization: ""
 > [!claim] 多套框架的重叠部分足以形成审查课程的最低标准
 > [[Critical Thinking|批判性思维]]的定义虽然宽窄不一，但反复指向辨别、分析、判断或评价、解释和论证。理性与理由的权衡、自我调节、开放心态和理解他人构成技能之外的倾向面向；推论、[[Hypothesis|假设]]检验、不确定性判断、决策、问题解决和创造则提示[[Construct|构念]]的主动生成面向。（pp.31–34）
 
-> [!ref-table] 表 1　Anderson 和 Krathwohl 修订的 Bloom 分类法
+> [!ref-table] 表 1　Anderson and Krathwohl 修订的 Bloom 分类法
 > | 类别 | 行动词（中英对照） |
 > |---|---|
 > | **1 记忆（Remembering）** | 排列、描述、复制、找出、标注、列举、记忆、命名、排序、识别、联系、回忆、重复、再现、陈述。<br>Arrange, describe, duplicate, find, label, list, memorise, name, order, recognise, relate, recall, repeat, reproduce, state. |

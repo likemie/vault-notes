@@ -49,7 +49,7 @@ updated: 2026-05-24
 ## 文化根源
 
 > [!info]
-> Devil's advocate 的[[Praxis|实践]]深植于西方重视口头雄辩的传统。Li 在第 8 章中追溯了这一传统：从希腊陪审团审判要求双方实时口头辩论，到智者们（sophists）将修辞和演说发展为一门职业，再到[[Aristotle|亚里士多德]]提出说服三要素（ethos、pathos、logos）、Cicero 和 Quintilian 建立完整的演说教育体系([[Argument_Li_2012_Cambridge|Li, 2012, pp.79-86]])。
+> Devil's advocate 的[[Praxis|实践]]深植于西方重视口头雄辩的传统。Li 在第 8 章中追溯了这一传统：从希腊陪审团审判要求双方实时口头辩论，到智者们（sophists）将修辞和演说发展为一门职业，再到[[Aristotle|亚里士多德]]提出说服三要素（ethos、pathos、logos）、Cicero and Quintilian 建立完整的演说教育体系([[Argument_Li_2012_Cambridge|Li, 2012, pp.79-86]])。
 
 在这一文化传统中，说话不仅是个人品质、法律权利和领导力特质，更是一种"艺术"——一种可以学习、练习和完善的技能。Devil's advocate 的实践可以被理解为这一传统的日常化：它的目的不是摧毁对方，而是通过严格的智力检验来完善论证本身。
 

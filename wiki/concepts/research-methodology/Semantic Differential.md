@@ -34,7 +34,7 @@ updated: 2026-07-21
 ## 定义
 
 > [!def] 语义差异量表（Semantic Differential）
-> 语义差异量表是[[Rating Scale|评定量表]]的一种变体，将一个形容词放在量表的一端，其反义词放在另一端（如 useful ←→ useless）。受访者通过在量表上最能代表其感受的位置画圈或做标记来表达意见。该技术由 Osgood、Suci 和 Tannenbaum 于 1957 年开发（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 129–130]]）。
+> 语义差异量表是[[Rating Scale|评定量表]]的一种变体，将一个形容词放在量表的一端，其反义词放在另一端（如 useful ←→ useless）。受访者通过在量表上最能代表其感受的位置画圈或做标记来表达意见。该技术由 Osgood、Suci and Tannenbaum 于 1957 年开发（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 129–130]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 语义差异量表通过双极形容词对来测量人们对某个概念、对象或人的**隐含意义**的感知。它不是直接询问态度，而是通过受访者在多组对立形容词之间的位置选择来推断其对该对象的认知结构。

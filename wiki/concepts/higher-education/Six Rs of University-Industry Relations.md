@@ -28,7 +28,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> 六 R 框架（Six Rs of University-Industry Relations）是 IBM 全球大学项目（GUP）用于组织和衡量产学投资的分类框架，由 [[Jim Spohrer]]（2010）提出。该框架将[[University-Industry Collaboration|产学合作]]活动按功能分为六个领域：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展）（pp.88–89）。Narayan 与 Spohrer（2025）在此基础上增加了第七个维度 Refresh（更新），用于衡量对市场变化的动态响应（p.97）。
+> 六 R 框架（Six Rs of University-Industry Relations）是 IBM 全球大学项目（GUP）用于组织和衡量产学投资的分类框架，由 [[Jim Spohrer]]（2010）提出。该框架将[[University-Industry Collaboration|产学合作]]活动按功能分为六个领域：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展）（pp.88–89）。[[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]]在此基础上增加了第七个维度 Refresh（更新），用于衡量对市场变化的动态响应（p.97）。
 
 ---
 
@@ -67,7 +67,7 @@ updated: 2026-05-28
 
 每一次战略转型都要求重新校准六 R 投资组合的权重。GUP 团队通过一个中央数据库追踪全球约 2000 所高校的投资历史和成果，每位 PEP（Partnership Executive Program）主管在访问大学前可以获取该大学的关系全景报告，包括资助研究教师、校友雇员数量与学科分布、现任高管中的校友等，为建立信任关系提供数据基础（p.89）。
 
-Narayan 与 Spohrer（2025）新增了第七个 R——Refresh，强调在商业环境变化时主动评估、排名和调整项目组合的必要性（p.97）。
+[[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]]新增了第七个 R——Refresh，强调在商业环境变化时主动评估、排名和调整项目组合的必要性（p.97）。
 
 ---
 

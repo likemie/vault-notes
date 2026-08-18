@@ -38,7 +38,7 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info]
-> Harold Stevenson 和 James Stigler 是美国比较教育心理学家和发展心理学家。他们在 1980 至 1990 年代开展了跨国比较研究，系统比较了美国、日本、台湾和中国大陆小学生的学习成就及其背后的文化因素，是西方学界最早实证验证东亚学生学习优势的研究者之一([[Argument_Li_2012_Cambridge|Li, 2012, p.69-70]])。
+> Harold Stevenson and James Stigler 是美国比较教育心理学家和发展心理学家。他们在 1980 至 1990 年代开展了跨国比较研究，系统比较了美国、日本、台湾和中国大陆小学生的学习成就及其背后的文化因素，是西方学界最早实证验证东亚学生学习优势的研究者之一([[Argument_Li_2012_Cambridge|Li, 2012, p.69-70]])。
 
 ## 主要著作
 
@@ -48,7 +48,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!tip]-
-> Stevenson 和 Stigler 的核心命题是：东亚学生在数学和科学成就上的持续领先，不能简单归因于先天能力差异或考试制度压力，而应追溯至更深层的文化信念和[[Praxis|实践]]模式。他们发现，美国儿童、家长和教师倾向于用能力 (ability) 来解释[[Academic Achievement|学业成就]]，而东亚对应群体则归因于[[Conatus|努力]] (effort)。他们将这一系统性差异命名为**学习鸿沟（the [[Learning Gap]]）([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])**。
+> Stevenson and Stigler 的核心命题是：东亚学生在数学和科学成就上的持续领先，不能简单归因于先天能力差异或考试制度压力，而应追溯至更深层的文化信念和[[Praxis|实践]]模式。他们发现，美国儿童、家长和教师倾向于用能力 (ability) 来解释[[Academic Achievement|学业成就]]，而东亚对应群体则归因于[[Conatus|努力]] (effort)。他们将这一系统性差异命名为**学习鸿沟（the [[Learning Gap]]）([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])**。
 
 > [!quote]
 > "They found that whereas American children, parents, and teachers explained children's achievement based on the notion of ability, their Asian counterparts attributed children's achievement to their effort. They dubbed this learning difference the 'learning gap'."([[Argument_Li_2012_Cambridge|Li, 2012, p.69]])

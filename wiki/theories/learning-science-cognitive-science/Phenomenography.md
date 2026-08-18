@@ -42,7 +42,7 @@ updated: 2026-07-29
 > - **解释对象** 学习者如何体验、理解和处理特定任务中的材料，以及不同的处理方式会形成哪些性质不同的结果。
 > - **理论问题** 学生面对相同的教学材料，为什么有时只记住零散事实，有时却能形成对整体意义的理解。
 > - **理论类型** [[Student Learning Research|学生学习研究]]中的学习理论与[[Analytic Framework|分析框架]]。
-> - **知识位置** 发端于 Ference Marton 与 Roger Säljö 的学生学习研究，Marton 于 1981 年为这一理论传统命名。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 59–60)]]
+> - **知识位置** 发端于 Ference Marton and Roger Säljö 的学生学习研究，Marton 于 1981 年为这一理论传统命名。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 59–60)]]
 
 > [!claim] 核心主张
 > 学习结果的质量取决于学习者处理特定任务的方式。表层与[[Surface and Deep Learning|深层学习]]描述情境中的活动取向，不是把学生划分为固定类型。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 59–60)]]

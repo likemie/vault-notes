@@ -880,7 +880,7 @@ Hattie 将 Popper 的三个世界（World 1 物理/World 2 主观/World 3 文化
 > [!example]- 「20年后才显现」的学习影响
 > 一个学生此刻在课堂上感到极度无聊和烦躁——"哦，语法，这有什么意义？发霉的历史书、社会分层研究、没完没了的科学课……为什么我要关心这些科目？"但在未来某个时刻，那天、那月或那年发生的事情可能被证明非常重要。Hattie 的[[Effect Size|效应量]]在学期末的标准化测试中测量——但学习的真正影响可能在 20 年后才显现。
 
-Hattie 和 Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie & Zierer, 2018, p. 90）——被 Larsen 指出即使是这一估计也过高，且"未以论证、证据或参考文献支撑"。而更关键的是，Hattie 和 Zierer 将这一自我批判的认识论提醒转而用作呼吁更多 VL 研究的理由——Larsen 诊断这恰恰落入了 Luhmann 所描述的盲点困境([[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 3–4]])。
+Hattie and Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie & Zierer, 2018, p. 90）——被 Larsen 指出即使是这一估计也过高，且"未以论证、证据或参考文献支撑"。而更关键的是，Hattie and Zierer 将这一自我批判的认识论提醒转而用作呼吁更多 VL 研究的理由——Larsen 诊断这恰恰落入了 Luhmann 所描述的盲点困境([[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 3–4]])。
 
 > [!critique-logic] 批评二：大脑-身体-社会复杂性不可还原为简单测量
 > Larsen 从[[Neuroplasticity|神经可塑性]]出发提供了对 VL 的科学批判。人脑约含 860 亿个神经元、约 13 万亿个突触，而大脑不是漂浮在缸中的独立器官——"去学校读书的是完整的、具身的、情境化的、思考着的个体人类，不是大脑"([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 5]])。Larsen 的核心论点是：任何将学习定位和识别于大脑中的尝试都在"制造关于学习存在公分母的神话"，而"每一次试图将复杂神经可塑性翻译和简化为简单信息的尝试都是徒劳的——甚至更糟：未能达到甚至违反科学家通常尊重和遵守的科学规范"。Larsen 进一步论证了人类经验的"中间存在"（in-betweeners）特征：我们不经验突触层面的神经活动（微观），也不经验光速或星系旋转（宏观）——我们生活在"中间"，在日常宏观现象中生活([[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 6]])。
@@ -1131,7 +1131,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > - Taylor 寻找*"唯一正确方法"*，Hattie 告诉教育者*"做什么以获得最大回报"*（maximum return）
 
 > [!tension] 与澳洲其他改革取向的对比
-> Productive Pedagogies 和 Quality Teaching 旨在为教师和[[School Leadership|学校领导]]提供*"反思和发展自身技艺的资源"*；Hattie 的列表则*"告诉教育者做什么以获得最大回报"*——*"区别虽细微但重要"*（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。
+> Productive Pedagogies and Quality Teaching 旨在为教师和[[School Leadership|学校领导]]提供*"反思和发展自身技艺的资源"*；Hattie 的列表则*"告诉教育者做什么以获得最大回报"*——*"区别虽细微但重要"*（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。
 
 > [!logic-map] "[[Cult of the Guru|大师崇拜]]"得以形成的三个历史条件
 > Eacott 以 Callahan（1962）*Education and the [[Cult of Efficiency]]* 为历史框架，识别了使*"大师崇拜"*成为可能的三个历史条件（详见 [[Cult of the Guru]]）：

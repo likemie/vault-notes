@@ -7,7 +7,7 @@ aliases:
   - "转型性变革"
   - "transformative innovation policy"
   - "transformative change paradigm"
-summary: "Schot 与 Steinmueller（2018）提出的第三个创新政策范式，认为创新系统范式在面对气候变化等棘手问题时过于被动，政策应从修复系统失灵升级为主动推动方向性变革"
+summary: "Schot and Steinmueller（2018）提出的第三个创新政策范式，认为创新系统范式在面对气候变化等棘手问题时过于被动，政策应从修复系统失灵升级为主动推动方向性变革"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 13

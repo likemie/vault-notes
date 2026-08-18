@@ -82,7 +82,7 @@ PPP 在 2020 年代中期的美国经历了显著的制度化浪潮：2022 年 [
 
 ### 企业先行 → 政府接力（UPCRC 模式）
 
-Intel 和 Microsoft 于 2008 年联合资助 UC Berkeley 和 UIUC 的 [[Universal Parallel Computing Research Centers|UPCRC]]——这是纯企业投入阶段。随后 [[National Science Foundation|NSF]] 启动 XPS（Exploiting Parallelism and Scalability）项目以政府资金接力和放大企业的先期投入——形成了"企业先行投入→政府接力放大"的序列模式([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p.235]])。
+Intel and Microsoft 于 2008 年联合资助 UC Berkeley and UIUC 的 [[Universal Parallel Computing Research Centers|UPCRC]]——这是纯企业投入阶段。随后 [[National Science Foundation|NSF]] 启动 XPS（Exploiting Parallelism and Scalability）项目以政府资金接力和放大企业的先期投入——形成了"企业先行投入→政府接力放大"的序列模式([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p.235]])。
 
 ### 行业联盟型（SRC 模式）
 

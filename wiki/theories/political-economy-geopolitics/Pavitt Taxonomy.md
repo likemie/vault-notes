@@ -5,7 +5,7 @@ aliases:
   - "Pavitt Taxonomy of Innovation"
   - "Revised Pavitt Taxonomy"
   - "修订版 Pavitt 分类法"
-summary: "Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino 和 Pianta 修订扩展至服务业和信息通信技术行业"
+summary: "Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino and Pianta 修订扩展至服务业和信息通信技术行业"
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 14

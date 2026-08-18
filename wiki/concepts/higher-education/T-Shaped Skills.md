@@ -1,7 +1,7 @@
 ---
 title: T-Shaped Skills
 aliases: ["T型技能", "T-shaped competencies", "T型能力"]
-summary: "Donofrio 与 DeMarco (2022) 提出的跨学科技能模型，指兼具跨学科广泛沟通能力与单一学科深度问题解决能力的人才特质，用于产学合作中的劳动力培养讨论"
+summary: "Donofrio and DeMarco (2022) 提出的跨学科技能模型，指兼具跨学科广泛沟通能力与单一学科深度问题解决能力的人才特质，用于产学合作中的劳动力培养讨论"
 type: concept
 domain: "higher-education"
 related_count: 5
@@ -59,7 +59,7 @@ updated: 2026-05-28
 > 1. 纵向深度 — 在一个学科领域内具备扎实的专业知识和解决复杂问题的能力。这是 T 型技能的"根基"。
 > 2. 横向广度 — 具备跨学科的沟通能力，能够理解其他学科的术语、方法和思维方式，并在交叉领域有效协作。
 
-Narayan 与 Spohrer 指出这一需求不仅落在四年制学位项目上，也落在社区学院和高中教育上（p.96）。
+Narayan and Spohrer 指出这一需求不仅落在四年制学位项目上，也落在社区学院和高中教育上（p.96）。
 
 ---
 

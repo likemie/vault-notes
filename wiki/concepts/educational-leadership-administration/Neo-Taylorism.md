@@ -99,7 +99,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 - vs **Taylorism（经典泰勒主义）** 经典泰勒主义是 20 世纪初工厂管理方法；Neo-Taylorism 是其在当代教育领域的复兴，包装为"科学证据"和"数据驱动"，但核心逻辑（效率最大化、标准化、"唯一最佳方法"）高度一致
 - vs [[New Public Management]]：NPM 是更广泛的教育治理改革框架（绩效标准、产出控制、竞争、问责），Neo-Taylorism 特指 NPM 中与科学管理原理直接对应的部分——将教学[[Praxis|实践]]还原为技术操作单元并以效率为标准进行排名
-- vs **Productive Pedagogies / Quality Teaching** Eacott 对比了澳洲教育改革中的两种取向——Productive Pedagogies 和 Quality Teaching 旨在为教师和[[School Leadership|学校领导]]提供"反思和发展自身技艺的资源"；而 Hattie 的方法"告诉教育者做什么以获得最大回报"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
+- vs **Productive Pedagogies / Quality Teaching** Eacott 对比了澳洲教育改革中的两种取向——Productive Pedagogies and Quality Teaching 旨在为教师和[[School Leadership|学校领导]]提供"反思和发展自身技艺的资源"；而 Hattie 的方法"告诉教育者做什么以获得最大回报"([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 - vs [[Cult of the Guru]]：Neo-Taylorism 侧重分析 Hattie 工作与 Taylor 科学管理的结构同源性（效率最大化、任务拆解）；[[Cult of the Guru]] 侧重分析这种工作为何以及如何在特定社会条件下被不加批判地接受和制度化。两者互补：Neo-Taylorism 回答"什么使 Hattie 的工作成为泰勒主义"，Cult of the Guru 回答"什么使这种泰勒主义成为崇拜"
 
 ## 理论基础
@@ -129,5 +129,5 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - **[[Australian Institute for Teaching and School Leadership|AITSL]]** — Hattie 担任澳大利亚教学与[[School Leadership|学校领导力]]研究院主席，其工作已嵌入国家专业标准和年度绩效评估体系([[Argument_Eacott_2017_SLM|Eacott, 2017, p.421]])
 - **asTTle / e-asTTle** — Hattie 1999/2000 年受教育部委托开发的评估工具，"允许管理者监控全校六个科目"（Hattie et al., 2003, p.775），VL 气压计图形直接进口自此工具([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
 - [[Victorian HITS and Literacy Toolkit]] — 维州教育部 10 项 HITS 以 VL 为首要参考，教师被要求执行 simplistic performative technical actions（如课前将课题写在白板上）([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.29-30]])
-- **Visible Classroom App** — Hattie 与 Ai-Media 合作开发，教师自我录制音频由大学"专家"基于 VL 量规反馈，按服务收费([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49-50]])
+- **Visible Classroom App** — Hattie and Ai-Media 合作开发，教师自我录制音频由大学"专家"基于 VL 量规反馈，按服务收费([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.49-50]])
 

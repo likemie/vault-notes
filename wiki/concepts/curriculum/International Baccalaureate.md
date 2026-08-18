@@ -176,7 +176,7 @@ updated: 2026-08-17
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Inkelas et al. (2012) | IB 与 AP 学生对比 | 观察对比 | [[Extended Essay\|EE]] 成绩与大学 GPA | 两者具有统计学显著正相关 | 显著 | 说明 EE 具有较好的大学预测效度 (Metli, 2022 综述) |
+> | Inkelas et al. (2012) | IB and AP 学生对比 | 观察对比 | [[Extended Essay\|EE]] 成绩与大学 GPA | 两者具有统计学显著正相关 | 显著 | 说明 EE 具有较好的大学预测效度 (Metli, 2022 综述) |
 > | Wray (2013) / Aulls (2013) | DP 毕业生 | 追踪调查 | 探究能力与自我调节 | 在大学中表现出更高的独立思考与自我调节评分 | — | (Metli, 2022 综述) |
 > | Bergeron (2016) | DP 教师反馈 | 调查 | 跨学科联系意识 | 教师报告 [[Theory of Knowledge\|TOK]] 成功帮学生建立跨学科联系并反思预设 | — | (Metli, 2022 综述) |
 > | Billig & Good (2013) | DP 学生 | 调查 | 公民责任感与服务伦理 | [[Creativity, Action, Service\|CAS]] 提升了自我成熟度与思想开放度 | — | (Metli, 2022 综述) |

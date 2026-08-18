@@ -90,7 +90,7 @@ updated: '2026-05-18'
 
 [[Argument_ONeill_2016_Report|O'Neill et al. (2016, pp.8–12)]]列出近十余年新西兰同时体现私营参与增加和公共参与减少的九个实例：
 
-**i. Ngāi Tahu MoU（2001）** 教育部长 Trevor Mallard 与 Parekura Horomia 与 Te Rūnanga o Ngāi Tahu 签署教育发展合作谅解备忘录，被 iwi 视为支撑其 Vision 2025 教育愿景的"关键文件"。目前教育部已为全国 60+ rohe 发布 iwi 教育概况以促进 iwi 特定教育计划的发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.8]])
+**i. Ngāi Tahu MoU（2001）** 教育部长 Trevor Mallard and Parekura Horomia and Te Rūnanga o Ngāi Tahu 签署教育发展合作谅解备忘录，被 iwi 视为支撑其 Vision 2025 教育愿景的"关键文件"。目前教育部已为全国 60+ rohe 发布 iwi 教育概况以促进 iwi 特定教育计划的发展([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.8]])
 
 **ii. asTTle / e-asTTle 商业化** 2000 年代初由奥克兰大学开发、教育部公费资助。目前 e-asTTle 专业发展支持已合同外包给私营公司 Evaluation Associates Ltd。2015 年底教育部通过 GETS 发布 RFP 寻找投资伙伴出资 USD 4–8M"现代化"e-asTTle——教育部永留新西兰学校使用权，投资伙伴有权向学校收费并开发国际版本在海外销售([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.8–9]])
 

@@ -439,7 +439,7 @@ Hattie（2015, p.81）提出"教师是 DIE for"的首字母缩略词来描述成
 
 > [!example] 相关研究与案例
 > - [[Tomorrow's Schools Reforms]] — 创造了私营 [[Educational Management Organisation|EMO]] 进入新西兰公立教育服务市场的条件，[[Cognition Education|Cognition Education]] 直接起源于此改革
-> - [[Contestable School Support Services]] — 教育部将学校支持服务转为竞争性招标，Cognition Education 和 CORE Education 均为竞标者
+> - [[Contestable School Support Services]] — 教育部将学校支持服务转为竞争性招标，Cognition Education and CORE Education 均为竞标者
 > - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 的类似[[Meta-meta-analysis|元-元分析]]工具，面临类似的方法论批评
 > - [[Danish Public School Reform]] — 丹麦议会改革明确引用 VL，将 Hattie 从"教育英雄"转变为"教育敌人"
 > - [[Hattie på dansk]] — 丹麦语批评文集，汇集多篇对 VL 的强烈批评

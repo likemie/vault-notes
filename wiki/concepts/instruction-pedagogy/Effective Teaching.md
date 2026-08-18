@@ -47,7 +47,7 @@ updated: '2026-05-18'
 > [!info] 定义
 > 有效教学（effective teaching / god undervisning）是一个综合性教学质量概念，用来概括教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。[[Argument_Laursen_2015_Paideia|Laursen (2015)]] 讨论的重点不是教学法排名，而是教学方法背后的质量条件：方法是否适合内容和目标，学生是否知道要学什么和下一步怎么做，课堂是否既安全又有学业要求([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35–36]])。
 >
-> 在 Laursen 的整理中，Hattie、Meyer 和 Helmke 的研究综合虽然方法和表述不同，但都把有效教学的重心放在教师领导、清晰目标、适配学生前提、学习导向课堂气氛和学生主动参与上。丹麦证据则进一步显示，这些质量在丹麦总体上同样重要，尤其对社会背景较弱的学生更为关键([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35–40]])。
+> 在 Laursen 的整理中，Hattie、Meyer and Helmke 的研究综合虽然方法和表述不同，但都把有效教学的重心放在教师领导、清晰目标、适配学生前提、学习导向课堂气氛和学生主动参与上。丹麦证据则进一步显示，这些质量在丹麦总体上同样重要，尤其对社会背景较弱的学生更为关键([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35–40]])。
 
 ## 核心要素
 
@@ -67,7 +67,7 @@ updated: '2026-05-18'
 ### 课堂气氛与学生参与
 
 - **安全的学习环境** 教师与[[School Leadership|学校领导]]需要营造安全、学习导向的课堂气氛，使学生可以把错误视为学习机会。丹麦研究也显示，良好班级社会环境有助于学习([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35, 37]])。
-- **学生主动参与** Hattie、Meyer 和 Helmke 都把学生主动参与视为有效教学的一部分；但"主动参与"不等于把学习责任完全交给学生，尤其不能忽视学生社会背景与前提条件的差异([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35–38]])。
+- **学生主动参与** Hattie、Meyer and Helmke 都把学生主动参与视为有效教学的一部分；但"主动参与"不等于把学习责任完全交给学生，尤其不能忽视学生社会背景与前提条件的差异([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35–38]])。
 
 ## 与相关概念的区别
 
@@ -105,7 +105,7 @@ updated: '2026-05-18'
 
 ### 国际研究综合
 
-Hattie、Meyer 和 Helmke 的综合构成 Laursen 的国际参照。三者虽有细节差异，但都强调教师领导、适应个体学生、清晰目标和学习导向氛围。Helmke 额外强调巩固和动机，Hattie 在其他著作中也强调这些因素([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.35]])。
+Hattie、Meyer and Helmke 的综合构成 Laursen 的国际参照。三者虽有细节差异，但都强调教师领导、适应个体学生、清晰目标和学习导向氛围。Helmke 额外强调巩固和动机，Hattie 在其他著作中也强调这些因素([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.35]])。
 
 Laursen 将这些共同点概括为"经典基本质量"：促进学习的关键不在某种固定教学形式，而在目标、教师领导、课堂气氛、学生前提适配和学生主动参与等基础条件([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35–36]])。
 
@@ -123,7 +123,7 @@ Mehlbye 研究还显示，频繁测试在丹麦可能具有正向学习作用，
 
 ### 适用性结论
 
-Laursen 的结论是，Hattie、Meyer 和 Helmke 关于有效教学的综合"总体上"适用于丹麦。丹麦证据不是对国际综合的否定，而是说明这些核心教学质量在丹麦也有经验支持；需要进一步解释的是学生社会背景、测试使用水平和概念测量方式如何影响具体结果([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.39–40]])。
+Laursen 的结论是，Hattie、Meyer and Helmke 关于有效教学的综合"总体上"适用于丹麦。丹麦证据不是对国际综合的否定，而是说明这些核心教学质量在丹麦也有经验支持；需要进一步解释的是学生社会背景、测试使用水平和概念测量方式如何影响具体结果([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.39–40]])。
 
 ## 争议与批评
 

@@ -53,7 +53,7 @@ updated: 2026-06-19
 > - **解释对象** 情绪的生成机制及其与认知的关系，以及文化对情绪体验的塑造。
 > - **理论问题** 情绪是纯粹的物理生理反应还是受认知中介的过程？文化如何以及在哪个阶段参与情绪的调节？
 > - **理论类型** 心理学机制模型与文化心理学[[Analytic Framework|分析框架]]。
-> - **知识位置** 认知情绪心理学（Cognitive Psychology of Emotion）传统，代表人物为 Nico Frijda 与 Batja Mesquita。
+> - **知识位置** 认知情绪心理学（Cognitive Psychology of Emotion）传统，代表人物为 Nico Frijda and Batja Mesquita。
 
 > [!claim] 核心主张
 > 情绪不是对外部事件的直接生理反应，而是经过认知评估中介的过程。个体在体验到任何情绪之前，必须先对事件进行评估以确定其对自身的关联性和重要性；此外，文化并非仅影响情绪的最终表达，而是全面参与情绪生成的七个阶段。([[Argument_Li_2012_Cambridge|Li, 2012, p. 54]])

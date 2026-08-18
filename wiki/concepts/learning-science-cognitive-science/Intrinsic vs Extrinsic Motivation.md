@@ -5,7 +5,7 @@ aliases:
   - intrinsic motivation
   - extrinsic motivation
   - 内部动机与外部动机
-summary: "Deci 与 Ryan 等人发展的动机类型区分，内在动机以活动本身为目的，外在动机以活动为手段"
+summary: "Deci and Ryan 等人发展的动机类型区分，内在动机以活动本身为目的，外在动机以活动为手段"
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 3

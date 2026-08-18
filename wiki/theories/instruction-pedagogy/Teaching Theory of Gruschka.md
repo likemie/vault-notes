@@ -3,7 +3,7 @@ title: Teaching Theory of Gruschka
 aliases:
   - Gruschka's teaching theory
   - Gruschka教学理论
-summary: "Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础"
+summary: "Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung and Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础"
 type: theory
 theory_field: "instruction-pedagogy"
 theory_related_count: 6
@@ -67,11 +67,11 @@ updated: 2026-05-20
 
 ### 星座结构的哲学基础
 
-Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要素之间的**非同一**关系([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.238 fn.2]])。在 Adorno 的用法中，星座是一种拒绝将概念还原为定义或将其纳入更高概念的思维方式——它要求围绕一个事物聚集相关的概念，而不声称任何一个概念完全代表了该事物。同样地，Bildung、Erziehung 和 Didaktik 不能相互还原——Didaktik 不是 Bildung 的执行工具，Erziehung 也不是 Bildung 的附属品。它们各自保持独立的同时，在每一次具体的教学行动中交织成一个整体。
+Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要素之间的**非同一**关系([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.238 fn.2]])。在 Adorno 的用法中，星座是一种拒绝将概念还原为定义或将其纳入更高概念的思维方式——它要求围绕一个事物聚集相关的概念，而不声称任何一个概念完全代表了该事物。同样地，Bildung、Erziehung and Didaktik 不能相互还原——Didaktik 不是 Bildung 的执行工具，Erziehung 也不是 Bildung 的附属品。它们各自保持独立的同时，在每一次具体的教学行动中交织成一个整体。
 
 ### 对数字学习工具的批判功能
 
-在 [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]] 的运用中，Gruschka 的教学理论被用作批判数字学习工具的[[Analytic Framework|分析框架]]。其批判逻辑是：数字学习工具通常只替代了 Didaktik 的部分功能（呈现内容、安排任务序列、提供反馈），但在这个过程中，它们同时暗中重新定义了 Bildung 和 Erziehung——将理解简化为完成任务，将朝向 Bildung 的定向简化为对奖励系统的动机依赖([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240–243]])。因为这个三元结构是不可分割的星座，对任何一个维度的技术干预都会波及全部三个维度。
+在 [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge (2022)]] 的运用中，Gruschka 的教学理论被用作批判数字学习工具的[[Analytic Framework|分析框架]]。其批判逻辑是：数字学习工具通常只替代了 Didaktik 的部分功能（呈现内容、安排任务序列、提供反馈），但在这个过程中，它们同时暗中重新定义了 Bildung and Erziehung——将理解简化为完成任务，将朝向 Bildung 的定向简化为对奖励系统的动机依赖([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240–243]])。因为这个三元结构是不可分割的星座，对任何一个维度的技术干预都会波及全部三个维度。
 ... Applied fuzzy match at line 41-94.
 ## 发展脉络
 

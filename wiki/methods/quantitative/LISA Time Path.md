@@ -127,7 +127,7 @@ updated: 2026-06-12T18:30:00
 > [!info] 软件实现
 
 > [!line-a] GeoDa（推荐 — 图形界面，零代码）
-> GeoDa 是 Luc Anselin 团队开发的免费开源空间分析软件，内置 LISA 和 Moran 散点图功能。操作流程：
+> GeoDa 是 Luc Anselin 团队开发的免费开源空间分析软件，内置 LISA and Moran 散点图功能。操作流程：
 > 1. 导入 shapefile 或 GeoJSON 格式的空间数据
 > 2. 创建空间权重矩阵（Tools → Weights Manager → 选距离倒数或邻接）
 > 3. 对每个截面年份运行 Univariate Local Moran's I → 导出散点图坐标

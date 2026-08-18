@@ -121,7 +121,7 @@ citation_aliases:
 >
 > 访问的组织结构之外还有一层：苏联教育人民委员 [[Anatoly Lunacharsky]] 亲自邀请了 Dewey(p.105)。纽约时报 1928 年 6 月 24 日报道称 Dewey"受 Lunacharsky 亲自邀请"，将"受到热烈欢迎和大量官方款待"。
 >
-> Lunacharsky 为什么特别关注 Dewey？因为 Dewey 的著作——尤其是 School and Society 和 The School and the Child——已经被翻译成俄文，"被用作建设新苏联学校体系的指南"。这意味着 Lunacharsky 邀请的不是一个陌生人，而是他已经在"纸上"认识多年的理论家。
+> Lunacharsky 为什么特别关注 Dewey？因为 Dewey 的著作——尤其是 School and Society and The School and the Child——已经被翻译成俄文，"被用作建设新苏联学校体系的指南"。这意味着 Lunacharsky 邀请的不是一个陌生人，而是他已经在"纸上"认识多年的理论家。
 >
 > > 这一步的论证含义是：访问既是组织安排（ASCRR/VOKS 的交流项目），也是个人邀请（Lunacharsky 对 Dewey 的长期知识兴趣）。这两种性质并不冲突，但后续不同行动者会各取所需——反共人士会强调"组织安排"以证明这是共产党的操纵，而 Dewey 的支持者会强调"个人邀请"以证明这是学术交流。
 >
@@ -132,7 +132,7 @@ citation_aliases:
 > Kalashnikov（一位撰写过多部教育学著作的物理学家和数学家）在给 Dewey 的信中提供了一个关键证据：他正在编纂的 Pedagogicheskaya Entisiklopediya（教育学百科全书）中收录了 Dewey 的肖像——"虽然不是很好的一张(pp.721–722)"。Kalashnikov 写道：
 >
 > > [!quote]
-> > "您的著作，尤其是 School and Society 和 The School and the Child，极大地影响了俄国教育学的发展……在革命的最初几年，您是我们最知名的作者之一。"
+> > "您的著作，尤其是 School and Society and The School and the Child，极大地影响了俄国教育学的发展……在革命的最初几年，您是我们最知名的作者之一。"
 >
 > 这不是客套话。十月革命前后，苏俄教育面临一个根本问题：如何在社会主义框架下教育下一代？Dewey 的"[[Learning by Doing|从做中学]]"（learning by doing）和"学校即社会"的理念为苏联教育者提供了一个不来自沙皇旧体制的理论资源。一位苏联教育官员在 1928 年告诉 Dewey 说"你在革命最初几年是我们最知名的作者"——这意味着当 Shatskii 在农村建立实验学校、当 Lunacharsky 设计连接工厂和课堂的新学校时，Dewey 的著作就在他们的书桌上。
 >
@@ -189,7 +189,7 @@ citation_aliases:
 >
 > ---
 >
-> ### 9. Dewey 与 Shatskii 的会面：[[Progressive Education|进步教育]]的跨国共振
+> ### 9. Dewey and Shatskii 的会面：[[Progressive Education|进步教育]]的跨国共振
 >
 > 7 月 21 日至 23 日，Dewey 访问了 [[Stanislav Shatskii]] 的农村教育实验站。Shatskii 是俄国进步教育改革家，十月革命前就已使用进步教育方法——以项目和活动课程为核心，强调从经验中学习——与 Dewey 在美国推动的改革思路高度一致。他的实验学校体系被认为是"世界上最大的进步教育实验之一"（Partlett 2011，引自 p.103）。
 >
@@ -223,7 +223,7 @@ citation_aliases:
 > ### 11. Welsh 对 Dewey 的人身攻击：用过去的行为给现在定罪
 >
 > Welsh 信件中最长的段落是关于 Dewey 的。他对 Dewey 的指控包括(pp.108)：
-> - 在"共产党的 Sacco 和 Vanzetti 请愿书"上签名
+> - 在"共产党的 Sacco and Vanzetti 请愿书"上签名
 > - 支持 Norman Hapgood 的 Professional Patriots
 > - 支持因"不忠言论"被解雇的教师
 > - 出现在 Lusk 报告（一份调查纽约州"颠覆活动"的官方报告）中
@@ -292,7 +292,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > 1. Dewey 的私人通信揭示了他已出版著作未记录的大量行程细节——包括在欧洲三周的美术馆之旅、参加苏联跑马德比、与苏联教育者的具体通信内容——这些细节打破了 Dewey 作为"纪律严明的代表团团长"的形象(pp.104–107)。
-> 2. 苏联教育者在革命前就已系统性地阅读和吸收 Dewey 的著作，将他的 School and Society 和 The School and the Child 翻译为俄文并用作新教育体系的建设指南。1928 年的访问不是[[Knowledge Exchange|知识交流]]的起点，而是长期单向吸收的高峰时刻——访问开启了双向互动(pp.103–104)。
+> 2. 苏联教育者在革命前就已系统性地阅读和吸收 Dewey 的著作，将他的 School and Society and The School and the Child 翻译为俄文并用作新教育体系的建设指南。1928 年的访问不是[[Knowledge Exchange|知识交流]]的起点，而是长期单向吸收的高峰时刻——访问开启了双向互动(pp.103–104)。
 > 3. 苏联方面对代表团的核心诉求不是请求赞美，而是请求"传递事实"以消除美国公众对苏联的"偏见之云"（Kameneff 语，p.106）。Shatskii 在告别信中刻意使用了"民主"（democracy）一词——这是他在用 Dewey 的语言与 Dewey [[Dialogue in Education|对话]](p.107)。
 > 4. Kalashnikov 写给 Dewey 的信同时包含了崇敬和异议——"您的著作极大地影响了俄国教育学"与"我不同意您的哲学-社会主义教育理论观念"并存。这种张力预示了 1930 年代苏联对 Dewey 的全面拒绝。(p.104;Mchitarjan 2000; Gorshkova 2015,引自 pp.103–104)
 > 5. 美国反共势力（以 Welsh 为代表）在访问开始前就将其定性为共产党的宣传工具。Welsh 的核心论证策略是 guilt by association——通过 Dewey 过去签过的请愿书、支持过的人、出现过的报告来给一次尚未发生的旅行定罪(pp.107–108)。

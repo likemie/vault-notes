@@ -3,7 +3,7 @@ title: Values Alignment Model
 aliases:
   - 价值对齐模型
   - values alignment model
-summary: "Swick 与 Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力"
+summary: "Swick and Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力"
 type: theory
 theory_field: "higher-education"
 theory_related_count: 4
@@ -75,5 +75,5 @@ updated: 2026-06-02
 
 > [!success]
 > - **[[Applied Medical Innovation|医用创新]]的[[University-Industry Collaboration|产学合作]]** 价值对齐模型专为医用创新（Applied Medical Innovation）场景设计，用于帮助医院、大学和产业伙伴在合作谈判和执行过程中对齐目标、管理分歧。
-> - **TAVR 案例** Houston Methodist 与 Medtronic 合作开发经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的过程展示了价值对齐如何在实际合作中运作——[[Academic Health System|AHS]] 保持了以患者安全和临床效果为核心，同时产业伙伴获得了可市场化的产品，大学和研究机构获得了前沿研究和发展机会（pp.192–194）。
+> - **TAVR 案例** Houston Methodist and Medtronic 合作开发经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的过程展示了价值对齐如何在实际合作中运作——[[Academic Health System|AHS]] 保持了以患者安全和临床效果为核心，同时产业伙伴获得了可市场化的产品，大学和研究机构获得了前沿研究和发展机会（pp.192–194）。
 

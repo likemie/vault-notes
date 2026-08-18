@@ -73,7 +73,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 - **[[Doxa|自明真理]]** 被视为理所当然的正统。在[[School Leadership|学校领导力]]中，doxa 将校长建构为"系统议程的地方面孔"(p.45)
 - **资本** 在场域中被视为最有价值的资源。在学校领导力中，资本日益以经济语言被定义(p.50)
 
-论文还借鉴了 Oakeshott 和 Bates 的"加入世界[[Dialogue in Education|对话]]"（join the conversation of the world）概念，以及 English 的"知识动态"（knowledge dynamic），作为替代性领导力培养的哲学基础(p.43-44)。
+论文还借鉴了 Oakeshott and Bates 的"加入世界[[Dialogue in Education|对话]]"（join the conversation of the world）概念，以及 English 的"知识动态"（knowledge dynamic），作为替代性领导力培养的哲学基础(p.43-44)。
 
 
 ## 研究方法

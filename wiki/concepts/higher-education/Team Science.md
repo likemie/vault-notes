@@ -3,7 +3,7 @@ title: Team Science
 aliases:
   - 团队科学
   - team science
-summary: "以跨学科、大规模协作为特征的研究模式，Swick 与 Jones（2025）通过诺贝尔奖趋势论证其日益成为解决复杂科学问题的必要方式，与产学合作中医用创新对多元专业知识的整合需求直接相关"
+summary: "以跨学科、大规模协作为特征的研究模式，Swick and Jones（2025）通过诺贝尔奖趋势论证其日益成为解决复杂科学问题的必要方式，与产学合作中医用创新对多元专业知识的整合需求直接相关"
 type: concept
 domain: "higher-education"
 related_count: 3

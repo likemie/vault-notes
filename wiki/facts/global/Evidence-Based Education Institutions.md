@@ -127,7 +127,7 @@ updated: 2026-07-14
 > |---|---|
 > | [证据知情政策与实践信息与协调中心](https://eppi.ioe.ac.uk/cms/) [[EPPI-Centre]] | 伦敦大学学院教育学院旗下的系统综述方法论开发与证据使用研究中心，由 David Gough 教授领导 |
 > | [Campbell 协作网](https://www.campbellcollaboration.org/) [[Campbell Collaboration]] | Cochrane 协作网在教育和社会科学领域的全球平行机构，专注控制试验的系统综述与[[Meta-analysis\|元分析]] |
-> | [课程、评估与管理中心](https://www.cem.org/) [[CEM Centre]] | 原属杜伦大学，Fitz-Gibbon 和 Tymms 创立，开发 PIPS、ALIS 等学校增值评估系统；2019 年被剑桥大学出版与评估院收购 |
+> | [课程、评估与管理中心](https://www.cem.org/) [[CEM Centre]] | 原属杜伦大学，Fitz-Gibbon and Tymms 创立，开发 PIPS、ALIS 等学校增值评估系统；2019 年被剑桥大学出版与评估院收购 |
 > | [荷兰循证教育研究顶尖研究所](https://www.tierweb.nl/) [[Top Institute for Evidence-Based Education Research]] | 荷兰[[Evidence-Based Education\|循证教育]]研究机构 |
 > | [瑞典教育研究所](https://www.sci.se/) [[Swedish Institute for Educational Research]] | 瑞典教育研究系统综述与[[Praxis\|实践]]推广机构 |
 > | [澳大利亚教育研究组织](https://www.edresearch.edu.au/) [[Australian Education Research Organisation]] | 澳大利亚的全国性教育证据生成与传播机构 |
@@ -142,7 +142,7 @@ updated: 2026-07-14
 > [!ref-table] 政策推动与资助机构
 > | 机构 | 简介 |
 > |---|---|
-> | [教育捐赠基金会](https://educationendowmentfoundation.org.uk/) [[Education Endowment Foundation]] | 英国最大的独立教育研究资助方，2011 年由 Sutton Trust 与 Impetus 联合创立，以 [[Randomised Controlled Trials\|RCT]] 资助和教育捐赠基金会（Education Endowment Foundation，EEF）工具包为核心产品 |
+> | [教育捐赠基金会](https://educationendowmentfoundation.org.uk/) [[Education Endowment Foundation]] | 英国最大的独立教育研究资助方，2011 年由 Sutton Trust and Impetus 联合创立，以 [[Randomised Controlled Trials\|RCT]] 资助和教育捐赠基金会（Education Endowment Foundation，EEF）工具包为核心产品 |
 > | [什么有效网络](https://www.gov.uk/guidance/what-works-network) [[What Works Network]] | 英国政府 2013 年建立的全国性"什么有效"中心网络，EEF 为教育领域的对应中心 |
 > | [英国循证政策中心](https://www.ukri.org/councils/esrc/) [[UK Centre for Evidence-based Policy]] | 原属 ESRC，推动政策中的研究证据使用；ESRC 并入 UKRI 后职能已整合 |
 > | [证据网络](https://www.kcl.ac.uk/policy-institute) [[Evidence Network]] | 原属伦敦国王学院，连接研究者与政策制定者；现由国王学院政策研究所替代 |

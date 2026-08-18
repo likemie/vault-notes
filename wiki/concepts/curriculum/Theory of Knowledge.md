@@ -168,7 +168,7 @@ updated: 2026-08-17
 
 > [!boundary]- 原始框架、早期指南与成熟版本
 > - **1965 年制度决定** 原文确认 Gerard Renaud 促成哲学选修与 TOK 全体必修的组合，但没有转载他的第一版教学大纲。
-> - **第四版指南的八板块** 这是书中最接近初始课程框架的内容目录。Alec Peterson 说明，Gerard Renaud 与 Dina Dreyfus 塑造的初始形态在最初十五年中变化很少，因此可作为早期设计的近似重建，不能视为原稿复刻。
+> - **第四版指南的八板块** 这是书中最接近初始课程框架的内容目录。Alec Peterson 说明，Gerard Renaud and Dina Dreyfus 塑造的初始形态在最初十五年中变化很少，因此可作为早期设计的近似重建，不能视为原稿复刻。
 > - **1987 年附录一** 课程已整理为语言与思想、逻辑严谨性、知识体系、价值判断、知识与真理五组主题，并明确规定至少 100 小时、两年实施、教师评价和外部调节；它是成熟版本，不应倒推为 1965 年原貌。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 29–30; Ch. 3, pp. 46–48; Appendix 1, pp. 221–224)]]
 
 ---
@@ -366,7 +366,7 @@ updated: 2026-08-17
 >
 > - **1965–1970 年的初始课程制度化**
 >
->   Gerard Renaud 与 Dina Dreyfus 把 TOK 发展为独立必修的跨学科核心。1967 年塞夫尔会议接受六学科、程度和整体文凭等总体原则，1970 年首批正式考试又使课程进入真实文凭运行。第四版总指南保存的八个板块显示，初始课程已经覆盖逻辑、科学、数学、人文科学、历史、价值判断与真理问题。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 29–31)]] [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 3, pp. 46–48)]]
+>   Gerard Renaud and Dina Dreyfus 把 TOK 发展为独立必修的跨学科核心。1967 年塞夫尔会议接受六学科、程度和整体文凭等总体原则，1970 年首批正式考试又使课程进入真实文凭运行。第四版总指南保存的八个板块显示，初始课程已经覆盖逻辑、科学、数学、人文科学、历史、价值判断与真理问题。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 29–31)]] [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 3, pp. 46–48)]]
 >
 > - **1987 年附录记录的成熟规范**
 >
@@ -473,7 +473,7 @@ updated: 2026-08-17
 > | **学校 4** | 生活世界讨论、伦理、TOK 评估语言准备、思维常规教学 | TOK 嵌入全校批判性思维路径，并与心理学等科目连接 | 强，批判性思维是学校培养独立女性使命的核心部分 |
 
 > [!evidence-grid] 研究应用索引
-> - **制度起源与[[Critical Pedagogy|批判教育学]]边界** 梳理 IB 与 TOK 的制度起源、同心圆架构和[[Critical Pedagogy|批判教育学]]边界。[[Argument_Darwish_2009_Queens|Darwish (2009)]]
+> - **制度起源与[[Critical Pedagogy|批判教育学]]边界** 梳理 IB and TOK 的制度起源、同心圆架构和[[Critical Pedagogy|批判教育学]]边界。[[Argument_Darwish_2009_Queens|Darwish (2009)]]
 > - **学习者主体与情感哲学** 以[[Bildung|教化]]与[[Baruch Spinoza|斯宾诺莎]]情感哲学审查 TOK 中的[[Empty Knower|空无知者]]。[[Argument_Cole_2005_JRIE|Cole (2005)]]
 > - **[[Epistemology|认识论]]训练与学习者自主** 将 TOK 作为认识论训练发展[[Learner Autonomy|学习者自主性]]的课程案例。[[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]]
 > - **课程文本与[[Construct Validity|构念效度]]** 比较 2013 年目标、评估目标和描述符与批判性思维分类框架，诊断[[Construct Validity|构念效度]]缺口。[[Argument_Hughes_2014_JRIE|Hughes (2014)]]

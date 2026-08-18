@@ -4,7 +4,7 @@ aliases:
   - 杜威1928年访苏
   - Dewey 1928 Soviet visit
   - 1928年杜威访问苏联
-summary: "1928 年 7–8 月 John Dewey 率美国教育者代表团访问苏联，会见了 Shatskii、Lunacharsky 等苏联教育改革者，访问由 ASCRR 与 VOKS 组织，推动了两国在教育领域的直接交流，同时引发美国国务院的监控和反共舆论的指责"
+summary: "1928 年 7–8 月 John Dewey 率美国教育者代表团访问苏联，会见了 Shatskii、Lunacharsky 等苏联教育改革者，访问由 ASCRR and VOKS 组织，推动了两国在教育领域的直接交流，同时引发美国国务院的监控和反共舆论的指责"
 type: fact
 subtype: event
 region: multi

@@ -243,7 +243,7 @@ updated: 2026-07-08
 > ![](https://img.mylikemie.icu/sources/OxfordUIDP_2019_UIPartnerships/figures/OxfordUIDP_2019_UIPartnerships_Fig2_King_Persily_Model.jpg)
 
 > [!line-a] 趋势六：将社会科学和人文学科整合进产学合作
-> 社会科学和人文学科（Social Sciences and Humanities，SSH）研究被视为未被充分利用和经常未被开发的资源。[[National Science Foundation|美国国家科学基金会]]（National Science Foundation，NSF）的 Future of Work at the Human Technology Frontier 项目是 STEM 和 SSH 学科[[Convergence Research|融合研究]]的典型案例。
+> 社会科学和人文学科（Social Sciences and Humanities，SSH）研究被视为未被充分利用和经常未被开发的资源。[[National Science Foundation|美国国家科学基金会]]（National Science Foundation，NSF）的 Future of Work at the Human Technology Frontier 项目是 STEM and SSH 学科[[Convergence Research|融合研究]]的典型案例。
 > - **双向价值** SSH 研究者获取企业数据集、更大产业研发资金池、学生实习机会和教育项目合作；企业获得对[[Fourth Industrial Revolution|第四次工业革命]]机遇的更好理解、新商业模式的开发、商业[[Praxis|实践]]的深入洞察（pp.14–15）。
 > - **加速整合的行动** 大学推动终身教职和晋升中的文化变革、投资安全数据设施；企业增强对 SSH 研究潜在价值的理解、适应新兴社会经济和技术创新挑战；政府更多推动融合研究；专业组织开发和分享 SSH 研究对产业伙伴的价值洞见和有效实践（pp.15–16）。
 > - **权力差异** 必须认识到物理科学和社会科学之间的权力差异——物理科学在学术界和资助者中影响力更大。不应走向"后学科"，而应更好地理解和认识不同学科各自能带来的价值，同时在必要时融合思想和知识。
@@ -469,7 +469,7 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 > - 帮助其他企业和创新组织更好地理解大学研究的潜在价值
 > - 为大学和企业之间的知识交流与扩散提供重要管道
 >
-> 联合任命和[[Professors of Practice|产业教授]]（如实践教授）在医学、工程、法律和建筑等学科已较常见，但在其他学科仍少见。Princeton 和 Google 联合推出的 AI 实验室是一个新近案例——两位教授将其时间分配在大学和 Google 之间，以"加深对机器学习的理解并产生令人兴奋的创新"（p.39）。
+> 联合任命和[[Professors of Practice|产业教授]]（如实践教授）在医学、工程、法律和建筑等学科已较常见，但在其他学科仍少见。Princeton and Google 联合推出的 AI 实验室是一个新近案例——两位教授将其时间分配在大学和 Google 之间，以"加深对机器学习的理解并产生令人兴奋的创新"（p.39）。
 
 > [!abstract] 公共沟通：重建大学研究的公众价值认知
 > 峰会上表达了担忧——作为社区，没有做出足够努力来展示大学及其与产业建立的伙伴关系如何帮助改善人类条件并贡献于社会福祉。一个显著挑战是研究的影响——特别是更基础性研究的影响——可能需要多年甚至数十年才能实现。在此漫长时期内，积累的知识可能一直留在学术界内部，之后才进入更广泛的经济和社会。
@@ -481,10 +481,10 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[University-Industry Collaboration|产学合作]]格局正经历根本性转型** 全球社会挑战、技术融合（STEM 与 SSH）、商业模式颠覆（如[[Servitisation of Manufacturing|制造业服务化]]）和创新组织方式向开放分布式模式的转变，共同重塑了产学合作的环境（pp.4–5）。
+> 1. **[[University-Industry Collaboration|产学合作]]格局正经历根本性转型** 全球社会挑战、技术融合（STEM and SSH）、商业模式颠覆（如[[Servitisation of Manufacturing|制造业服务化]]）和创新组织方式向开放分布式模式的转变，共同重塑了产学合作的环境（pp.4–5）。
 > 2. **政策重心从"资助科学"转向"催化影响"** 美英和欧盟的科学政策日益强调"有影响的知识"和知识转化的路径，基于地点的资助（如英国 [[Strength in Places Fund]]）和长期战略规划正在兴起（pp.5–7）。
 > 3. **合作模式需要创新，但面临系统性实施障碍** 六项关键趋势包括战略性发展本地[[Innovation Ecosystem|创新生态系统]]、新组织载体、大学作为创新连接器、更有效的联合体、企业开放资源和 SSH 整合。实验新模式需要克服既有利益相关者阻力、伙伴匹配困难和风险规避文化（pp.8–17）。
-> 4. **度量指标需要指标体系而非单一指标、关注结果而非投入、结合定量与定性** 缺乏"万能钥匙"指标；[[University Industry Demonstration Partnership|UIDP]] Collaboration Metrics 和 Kellogg [[Logic Model]] 提供实用框架；国家层面系统数据虽有价值但缺乏对特定伙伴关系绩效的洞察（pp.20–27）。
+> 4. **度量指标需要指标体系而非单一指标、关注结果而非投入、结合定量与定性** 缺乏"万能钥匙"指标；[[University Industry Demonstration Partnership|UIDP]] Collaboration Metrics and Kellogg [[Logic Model]] 提供实用框架；国家层面系统数据虽有价值但缺乏对特定伙伴关系绩效的洞察（pp.20–27）。
 
 ---
 

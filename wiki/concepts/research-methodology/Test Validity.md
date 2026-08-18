@@ -88,5 +88,5 @@ updated: 2026-06-23
 ## 相关研究
 
 > [!evidence-grid] 研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10]] — 在测验效度与[[Reliability|信度]]一节中系统列出九种测验效度类型，以 Loevinger 和 Wolf 的框架为核心，补充了 Fredericksen & Collins 的系统效度和 Cunningham 的案例。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10]] — 在测验效度与[[Reliability|信度]]一节中系统列出九种测验效度类型，以 Loevinger and Wolf 的框架为核心，补充了 Fredericksen & Collins 的系统效度和 Cunningham 的案例。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 在调查方法中讨论[[Construct Validity|构念效度]]和[[Criterion-related Validity|效标效度]]在量表选择中的应用，区分了测量构念效度与实验构念效度威胁。

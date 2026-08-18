@@ -114,7 +114,7 @@ updated: 2026-06-02
 
 > [!info]
 > - **[[Ontology|本体论]]** 人性根植于社会关系之中——一个人不仅是 Jenny（或 David），更重要的是一个女儿、姐妹、妻子、母亲、姑姑、老师、同事等等([[Argument_Li_2012_Cambridge|Li, 2012, pp.37-38]])。自我不是孤立的权利个体，而是**承载角色的角色人（role-bearing person, Rosemont 语）**
-> - **[[Epistemology|认识论]]** 知与行不可分离——[[Wang Yangming|王阳明]]认为，一个人必须不懈地[[Praxis|实践]]自己所知道的，才能达成[[Sage|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。Ames 和 Rosemont 指出，[[Confucius|孔子]]的愿景不是简单地去理解、接受、修改或拒绝……相反，必须被感受、体验、实践和生活([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])
+> - **[[Epistemology|认识论]]** 知与行不可分离——[[Wang Yangming|王阳明]]认为，一个人必须不懈地[[Praxis|实践]]自己所知道的，才能达成[[Sage|圣人]]境界（知行合一）([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。Ames and Rosemont 指出，[[Confucius|孔子]]的愿景不是简单地去理解、接受、修改或拒绝……相反，必须被感受、体验、实践和生活([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])
 > - **目标的开放性** 学习过程是开放的、需要个人创造性的——因为每个人的实际生活境遇不同([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])
 
 ---

@@ -39,7 +39,7 @@ Total entries: **202**
 
 > [!index-list]- brazil (5)
 > - [[Camilla de Hollanda Amado]] — 巴西演员和剧场导演，社区剧场项目组织者，为教育研究理解基层文化实践、参与式表演与公共学习提供案例资源。
-> - [[Dell Delambre]] — 巴西认识论学者和实践者，Creative Tension of Sense 与 Ganz-Methode 提出者，为教育研究连接基层实践、剧场与知识地缘政治提供拉美视角。
+> - [[Dell Delambre]] — 巴西认识论学者和实践者，Creative Tension of Sense and Ganz-Methode 提出者，为教育研究连接基层实践、剧场与知识地缘政治提供拉美视角。
 > - [[Marcelo Parreira do Amaral]] — 巴西裔德国比较教育学者，全球教育产业与知识地缘政治研究者，为教育研究分析高教国际化、市场化与地缘政治转型提供框架。
 > - [[Paulo Freire]] — 巴西教育家，批判教育学奠基人和 被压迫者教育学 作者，为教育研究连接对话、解放与权力批判提供经典语言。
 > - [[Richard Castelo Branco]] — 巴西剧场导演和文化实践者，EspectAtor 方法开发者，为教育研究理解贫民窟剧场、参与式表演与抵抗性学习提供案例。

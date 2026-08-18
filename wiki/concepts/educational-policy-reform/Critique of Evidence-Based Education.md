@@ -118,7 +118,7 @@ updated: 2026-07-15
 > [!boundary] 概念边界
 > - **不等于对 EBE 的全面否定** EBE 批判追问的是 EBE 强版本（RCT 证据作为核心决策依据）的合法性，而非否定教育实践应参考研究证据的基本理念。
 > - **不等于对量化方法的反对** 批判的核心对象是证据等级的单维度排序和因果推论的跨情境迁移，而非实验方法或[[Meta-analysis|元分析]]本身。许多批评者（如 Wiliam、Simpson）同时也是量化方法论者。
-> - **不替代具体方法论讨论** 关于[[Effect Size|效应量]]计算、[[Meta-meta-analysis|元-元分析]]技术细节等方法论批评，详见对应的 Method 和 Concept 条目。
+> - **不替代具体方法论讨论** 关于[[Effect Size|效应量]]计算、[[Meta-meta-analysis|元-元分析]]技术细节等方法论批评，详见对应的 Method and Concept 条目。
 
 ---
 

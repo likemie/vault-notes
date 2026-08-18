@@ -941,7 +941,7 @@ updated: 2026-05-24
 
 ## 第二部分：情感社会化
 
-[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础：情感反应需要先对事件进行**评估（appraisal）**，判断正面还是负面。评估标准来自**文化定义的意义和重要性**。因此"怎么感受"在相当程度上是被文化社会化出来的（[[Argument_Li_2012_Cambridge|Li, 2012]]，引 Frijda 和 Gottman）。
+[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础：情感反应需要先对事件进行**评估（appraisal）**，判断正面还是负面。评估标准来自**文化定义的意义和重要性**。因此"怎么感受"在相当程度上是被文化社会化出来的（[[Argument_Li_2012_Cambridge|Li, 2012]]，引 Frijda and Gottman）。
 
 ---
 
@@ -1278,7 +1278,7 @@ updated: 2026-05-24
 
 > [!abstract]
 > 1. **建立共性基线再展示差异** 先识别三种跨文化共同特征，在共性的地基上展示差异
-> 2. **平行对比** 对每一对 EA 和 TW [[Dialogue in Education|对话]]保持分析维度一致，让差异在相同框架中自然显现
+> 2. **平行对比** 对每一对 EA and TW [[Dialogue in Education|对话]]保持分析维度一致，让差异在相同框架中自然显现
 > 3. **追踪因果方向** 不仅看母亲说了什么，更看母亲将对话**引向何处**——EA 终点是"你聪明/你[[Pride in Learning|骄傲]]吗？"，TW 终点是"你还可以怎么更好？"
 > 4. **识别[[Coding in Qualitative Research|编码]]操作** 注意母亲如何将儿童的行为**重新编码**——EA 母亲将"谈论书籍"编码为"聪明行为"，TW 母亲将"考好了→喜欢了"编码为"坚持了→考好了→喜欢了"
 > 5. **从对话中提取推理链** 将母亲直觉性的引导重构为显性的推理步骤（Li 坦承这只是 22 段样本，"刚刚触及表面"）

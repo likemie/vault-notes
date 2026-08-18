@@ -49,7 +49,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - [[Effective Teaching]] — Helmke 的综合是德语有效教学证据的重要来源之一，尤其提供了学生前提条件和文化语境的细化讨论([[Argument_Laursen_2015_Paideia|Laursen, 2015, pp.35–36]])。
-> - [[Feedback]] — Helmke 与 Hattie、Meyer 都认为给学生关于其表现的反馈能促进学习；这一共识使 SFI 关于反馈的零效应需要谨慎解释，因为 SFI 问项可能没有捕捉反馈的核心机制([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.39]])。
+> - [[Feedback]] — Helmke and Hattie、Meyer 都认为给学生关于其表现的反馈能促进学习；这一共识使 SFI 关于反馈的零效应需要谨慎解释，因为 SFI 问项可能没有捕捉反馈的核心机制([[Argument_Laursen_2015_Paideia|Laursen, 2015, p.39]])。
 
 ## 主要著作
 

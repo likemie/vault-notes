@@ -177,11 +177,11 @@ citation_aliases:
 >   1. [[Michael Sadler|迈克尔·萨德勒]][[Pragmatic Paradigm|实用主义]]试图从外国教育政策中获取实用价值。这在一百年后仍被常规使用，但它将比较教育矮化为了应对教育危机的高级应急社会管道工（emergency social plumbing），即通过机械嫁接外国经验来修理本国的政策漏水。
 >   2. 马克-安托万·朱利安科学理想宣称要让学科成为科学（science）的理想。这一口号已喊了近两百年，但学界至今仍未理清科学是指探寻事物原因，还是指像物理学一样进行准确预测。
 >   3. 约翰·斯图亚特·密尔对比法宣称要将比较教育简化为在外国教育系统中寻找相似与差异（similarities and differences），被戏称为对比苹果与橘子的精妙视角，缺乏更深层的社会学想象力。
-> - **自我演绎的认识论边界犹豫** 学科面临通过自我演绎来定义自己的俄式轮盘赌（Russian roulette）：要么强行援引一位时尚理论家（如 [[Pierre Bourdieu]]、Michel Foucault、[[Niklas Luhmann]]、Jacques Derrida、[[Jürgen Habermas]]、Gilles Deleuze 与 Félix Guattari 等）在这一框架内生造比较教育；要么将其打碎为若干社会科学概念并演绎出分支（Tavis Jules 与 Matthew Thomas, 2021）。这导致理论工作碎片化为连贯性极低的退潮波痕；同时，学科名称不断变形，从比较教育演变为比较与[[International Education|国际教育]]、国际比较教育乃至超越比较教育。(pp.327–328)
+> - **自我演绎的认识论边界犹豫** 学科面临通过自我演绎来定义自己的俄式轮盘赌（Russian roulette）：要么强行援引一位时尚理论家（如 [[Pierre Bourdieu]]、Michel Foucault、[[Niklas Luhmann]]、Jacques Derrida、[[Jürgen Habermas]]、Gilles Deleuze 与 Félix Guattari 等）在这一框架内生造比较教育；要么将其打碎为若干社会科学概念并演绎出分支（Tavis Jules and Matthew Thomas, 2021）。这导致理论工作碎片化为连贯性极低的退潮波痕；同时，学科名称不断变形，从比较教育演变为比较与[[International Education|国际教育]]、国际比较教育乃至超越比较教育。(pp.327–328)
 
 > [!warning] [[Four Sins of Comparative Education|比较教育的四种罪过]]
 > 每一代比较教育学者都在犯错，却常将错误视为理论突破。
-> - **进步[[Hypothesis|假设]] (Assumption of progress)** 如 Harold Noah 与 Max Eckstein (1969) 的目的论历史观，假设学科在经历早期错误后必然成熟为接受实证[[Scientific Method|科学方法]]的比较社会科学。
+> - **进步[[Hypothesis|假设]] (Assumption of progress)** 如 Harold Noah and Max Eckstein (1969) 的目的论历史观，假设学科在经历早期错误后必然成熟为接受实证[[Scientific Method|科学方法]]的比较社会科学。
 > - **地方主义 (Parochialism)** 默认大西洋中部（Mid-Atlantic，即美英轴心）是定义全球比较教育政治、视角和方向的唯一世界轴心。
 > - **借用成瘾 (Addiction to borrowing)** 不加批判地进口[[Big Ideas|大概念]]（如全球化），通过快速引用（如模式[[Variable|变量]]、第三世界、多文化社会、儒家学说等）来保护自己免于处理复杂的社会情境。
 > - **科学混乱 (Scientific confusion)** 科学一词定义极其不稳定，混淆了计量经济学模型（Harold Noah, 1973）、物理学式精确预测（Brian Holmes, 1984）、探寻事物原因与拥有海量硬数据四种含义。(p.328)
@@ -197,11 +197,11 @@ citation_aliases:
 > 重构学术议程总是充满政治阻力。历史上的[[Paradigm|范式]]转型留下了严重的[[Disciplina and Doctrina|规训]]惩罚痕迹，而当代关于去殖民化的争论虽然更为理智，但也极易陷入过度简单化，需要引入精确的非西方殖民警示。(p.329)
 
 > [!chain-link] 证据到判断
-> - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King]] 试图以权威姿态去[[Disciplina and Doctrina|规训]]Margaret Scotford Archer（Edmund King, 1979; Edmund King 与 Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
-> - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、Roger Dale、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes 与 Greg Burnett, 2003; Marianne Larsen 与 Sandip Mehta, 2008; Stephen Carney 等, 2012; Terri Seddon 与 Sandford Levin, 2013）也成功成为理论经典。
+> - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King]] 试图以权威姿态去[[Disciplina and Doctrina|规训]]Margaret Scotford Archer（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
+> - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、Roger Dale、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes and Greg Burnett, 2003; Marianne Larsen and Sandip Mehta, 2008; Stephen Carney 等, 2012; Terri Seddon and Sandford Levin, 2013）也成功成为理论经典。
 
 > [!warning] 去殖民化讨论的区域局限与精确警示
-> 当下关于殖民主义与去殖民化的讨论（如 Keita Takayama, Arathi Sriprakash 与 Raewyn Connell, 2017; Edward Vickers, 2020）正方兴未艾。然而，要避免使其堕为偏差者或门徒（disciples）的口水战，学术界必须对非西方殖民（Non-Western colonisation）保持高度敏感与精确的区域警示。(p.329)
+> 当下关于殖民主义与去殖民化的讨论（如 Keita Takayama, Arathi Sriprakash and Raewyn Connell, 2017; Edward Vickers, 2020）正方兴未艾。然而，要避免使其堕为偏差者或门徒（disciples）的口水战，学术界必须对非西方殖民（Non-Western colonisation）保持高度敏感与精确的区域警示。(p.329)
 > - **印尼与西巴布亚 (Indonesia & West Papua)** 涉及群岛内部的武力兼并与印尼化同化政策。
 > - **印度与克什米尔 (India & Kashmir)** 关涉地缘政治争夺与长期的内部殖民与军事戒严。
 > - **日本与韩国 (Japan & Korea)** 指明治维新后大日本帝国对朝鲜半岛进行的皇民化运动与同化教育。
@@ -246,13 +246,13 @@ citation_aliases:
 
 > [!dimension] 学术界中长期并存的四种理解形式
 > - **历史与情境的相似与差异比较（求同存异）**
->   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 Isaac Leon Kandel、Nicholas Hans 与 Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
+>   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 Isaac Leon Kandel、Nicholas Hans and Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
 > - **[[Convergence Theory in Comparative Education|趋同理论]]与同构（Convergence Theory）**
 >   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey 等, 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和[[Growth|成长]]视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
 > - **作为实用工具的[[Policy Science in Comparative Education|政策科学]]（Policy Science）**
 >   主张比较教育的核心形式是作为政策科学，为决策提供建议。代表人物包括 Holmes (1984)、King (1979)，也见于 2010 年后的世界教育年鉴。其政治预设并非中性，而是公开寻求与自由民主国家中所谓的“民主权力”结盟。它假定决策者是理性的，且应当在“关键决策时刻”（critical points of decision）寻求比较教育学者的建议。这种结盟使学科极易丧失批判性反思的学术距离，降格为服务国家机器治理目标的行政管理工具。(p.333)
 > - **结果导向与测量技术（Outcomes）**
->   关注可测量的教育产出。经历了从 Lauwerys（1965）最初以理解（Verstehen）不同国家“[[Educated Identity|受教育身份]]”理想模型的学术尝试，向通过 IEA 和 PISA 进行效率测量的转变。其政治预设已从学术性的文化理解，彻底转向配合在世界范围内确立新自由主义经济定义的政治斗争。国际测试沦为追求“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，作为效率运动的附属品与社会温度计，在[[Praxis|实践]]中极大地强化并维护了单一、特定世界秩序的政治合理性。(pp.333–334)
+>   关注可测量的教育产出。经历了从 Lauwerys（1965）最初以理解（Verstehen）不同国家“[[Educated Identity|受教育身份]]”理想模型的学术尝试，向通过 IEA and PISA 进行效率测量的转变。其政治预设已从学术性的文化理解，彻底转向配合在世界范围内确立新自由主义经济定义的政治斗争。国际测试沦为追求“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，作为效率运动的附属品与社会温度计，在[[Praxis|实践]]中极大地强化并维护了单一、特定世界秩序的政治合理性。(pp.333–334)
 
 > [!warrant]- 推理桥梁
 > 比较教育的四大范式不仅在[[Ontology|本体论]]与认识论上冲突，更是相互竞争的政治行动话语。尤其是当代结果导向测量将学术理解完全抽空，堕为社会效率运动的温度计，这迫使研究者必须审视自己究竟在为哪种政治秩序作辩护。(pp.333–334)

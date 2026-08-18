@@ -70,7 +70,7 @@ updated: 2026-08-03
 ### 命题一　自观是保护参与者免受角色扮演情感伤害的核心机制
 
 > [!concept-lens] 自观的保护功能
-> 自观被 Heathcote 和 Bolton 视为戏剧教育中保护参与者的根本机制——它不是让参与者远离情感，而是帮助他们在情感投入中保持安全距离。
+> 自观被 Heathcote and Bolton 视为戏剧教育中保护参与者的根本机制——它不是让参与者远离情感，而是帮助他们在情感投入中保持安全距离。
 
 > [!claim] Heathcote, D.
 > **自观维持投入与安全的平衡** 自观与保护入戏（protection into role）紧密相连。参与者通过观察自己来确保不被角色或情境完全吞噬，从而在保持情感投入的同时避免受到伤害。这种机制在教育和研究性的[[Role-playing|角色扮演]]中尤为重要，因为参与者通常不是经过训练的演员，缺乏处理强烈角色情感的技术手段。自观使参与者能够"[[Knowledge-that and Know-how-to|知其然]]并知其所以然"——知道自己正在做什么以及正在发生什么——而不会过度沉浸于行动中（Heathcote, 1991; Bolton and Heathcote, 1999）。（Ch. 26）
@@ -104,7 +104,7 @@ updated: 2026-08-03
 
 > [!dev-timeline] 概念演变
 > - **1991 — Heathcote 提出概念** Dorothy Heathcote 在教育戏剧的框架中提出自观概念，将其定义为参与者在[[Role-playing|角色扮演]]中同时审视自己行为的能力（Heathcote, 1991）。（Ch. 26）
-> - **1999 — Bolton and Heathcote 系统化** Bolton 与 Heathcote 在 *So You Want to Use Role-Play?* 中将自观与保护入戏（protection into role）和[[Dramatic Tension|戏剧张力]]（dramatic tension）并列为成功角色扮演的关键策略（Bolton and Heathcote, 1999）。（Ch. 26）
+> - **1999 — Bolton and Heathcote 系统化** Bolton and Heathcote 在 *So You Want to Use Role-Play?* 中将自观与保护入戏（protection into role）和[[Dramatic Tension|戏剧张力]]（dramatic tension）并列为成功角色扮演的关键策略（Bolton and Heathcote, 1999）。（Ch. 26）
 > - **2011 — 进入研究方法论讨论** O'Sullivan 在 Cohen, Manion & Morrison 的教材中将自观纳入角色扮演研究方法论的系统讨论，将其定位为保护参与者、提升资料质量和深化反思的核心概念。（Ch. 26）
 
 ---

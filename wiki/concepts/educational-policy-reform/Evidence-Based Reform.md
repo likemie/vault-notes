@@ -186,7 +186,7 @@ Slavin 认为，鉴于当时教育领域经过严格评估的项目数量有限�
 
 ### 实践者需要的第四类信息：本地可用性
 
-Ross 与 Morrison 对三条件框架作了一个[[Praxis|实践]]层面的补充：即使存在经过验证的项目、清晰的证据审查和政策激励，学校仍需要判断项目在本地是否可买、可教、可持续。教育产品消费者报告很少直接使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些渠道更能提供项目特征、实施要求、使用满意度、成本和情境相关性([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
+Ross and Morrison 对三条件框架作了一个[[Praxis|实践]]层面的补充：即使存在经过验证的项目、清晰的证据审查和政策激励，学校仍需要判断项目在本地是否可买、可教、可持续。教育产品消费者报告很少直接使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些渠道更能提供项目特征、实施要求、使用满意度、成本和情境相关性([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 
 这不是用[[Local Knowledge in Evidence-Based Policy|地方知识]]取代 EBR 的三条件，而是说明 EBR 需要把“有效性证据”继续翻译成“本地可用性信息”。例如，一个项目即使有统计显著的成就效果，学校也仍要知道教师培训成本、硬件要求、学生实际使用时间、对照条件是否合理，以及结果是否覆盖本地真正关心的目标([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.121]])。
 
@@ -332,7 +332,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 ### 证据标准与地方决策信息的断裂
 
-Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示，EBR 的政策工具把注意力集中在严格研究、[[Statistical Significance|统计显著性]]和学生成就结果上，但复杂改革常常还有实施质量、教师实践、技术公平、数字公民和学生参与等目标。STAT 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极进展，但学生成就结果并不明确；支持者和反对者因此可以用同一组证据得出不同结论([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-123]])。
+Ross and Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示，EBR 的政策工具把注意力集中在严格研究、[[Statistical Significance|统计显著性]]和学生成就结果上，但复杂改革常常还有实施质量、教师实践、技术公平、数字公民和学生参与等目标。STAT 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极进展，但学生成就结果并不明确；支持者和反对者因此可以用同一组证据得出不同结论([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-123]])。
 
 这一案例把 EBR 的争议从“证据是否严格”推进到“哪些结果值得进入证据标准”。若政策只承认短期标准化成就增益，许多[[Technology Infusion|技术整合]]或组织变革的价值会被低估；若政策完全放松有效性要求，又会削弱 EBR 原本试图建立的质量门槛([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112, 123]])。
 
@@ -344,7 +344,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 1. **项目采纳 ≠ 项目实施** 黑箱 RCT 评估的项目即使在试验中有效，推广至新情境时面临结构性改编需求——"知识由实验产生只有在更细粒度时才更可能有用；与其决定使用哪个预包装项目，教师需要详细的教学法和教学内容知识：哪些具体行动或策略能帮助学生学习"（p. 305, citing Villegas-Reimers, 2003, p. 39）
 
-2. **医学产品类比失效** WWC 和 EEF Toolkit 隐式假设"经过验证的教育方法可以像产品一样被选择并提供给学生"，但这"仅适用于一个窄小的潜在有用教育实践范围"（p. 301, citing Howe, 2004, p. 45）
+2. **医学产品类比失效** WWC and EEF Toolkit 隐式假设"经过验证的教育方法可以像产品一样被选择并提供给学生"，但这"仅适用于一个窄小的潜在有用教育实践范围"（p. 301, citing Howe, 2004, p. 45）
 
 3. **规模扩展的结构性障碍** 美国超 90% 有效性试验无影响，EEF 仅 1 项有效性试验有明确效果——这些数据不是随机的执行失败，而是**系统性的**，指示黑箱取向本身限制了规模影响的可能性（pp. 301–302）
 
@@ -352,7 +352,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 
 ### EEF Toolkit 的方法论争议
 
-见上文「Toolkit 和 Hattie 的方法论批评」中 Wrigley (2018) 和 Simpson (2017) 的三层技术批评。核心争议在于：Toolkit 的"[[Meta-meta-analysis|元-元分析]]"形式（以单一效应量排名 30+ 类干预）是否将统计简化推至了产生系统性误导的程度？Simpson 用 Fresh Start 案例（声称 +0.24SD 在匹配子集分析中消失）论证答案是肯定的。
+见上文「Toolkit and Hattie 的方法论批评」中 Wrigley (2018) 和 Simpson (2017) 的三层技术批评。核心争议在于：Toolkit 的"[[Meta-meta-analysis|元-元分析]]"形式（以单一效应量排名 30+ 类干预）是否将统计简化推至了产生系统性误导的程度？Simpson 用 Fresh Start 案例（声称 +0.24SD 在匹配子集分析中消失）论证答案是肯定的。
 
 ## 与相关概念的比较
 
@@ -361,7 +361,7 @@ Ross 与 Morrison 的 [[Students and Teachers Accessing Tomorrow]] 案例显示�
 > - **vs [[Evidence-Informed Practice]]** — Slavin 明确反对"证据知情"的弱版本：教师难以将通用原则转化为有效[[Praxis|实践]]，不使用结构化材料和专业培训就会退回惯常方法
 > - **vs Cowen/Biesta 的批判** — 直接对立：Biesta 说"价值先于证据"，Slavin 说"不实验比较就是在黑暗中飞行"；Cowen 说"切断问责捆绑"，Slavin 说"政府激励是[[Necessary and Sufficient Conditions|必要条件]]"
 
-### Toolkit 和 Hattie 的方法论批评
+### Toolkit and Hattie 的方法论批评
 
 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 和 Simpson (2017) 对 [[Education Endowment Foundation|EEF]] Toolkit 提出系统性技术批评：
 

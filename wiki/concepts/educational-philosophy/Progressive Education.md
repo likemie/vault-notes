@@ -216,7 +216,7 @@ updated: '2026-07-22'
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]] | 1920–1930 年代美苏进步教育交流历史[[Document\|文献]]、Dewey 与 Shatskii 通信 | 历史比较与[[Documentary Analysis\|文献分析]] | 进步教育方法、民主 vs 阶级意识育人目标、跨国接触 | Shatskii 在苏俄建成了规模最大的农村进步教育实验，但因阶级意识分歧于 1930 年代被官方全面否定 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦美苏早期进步教育交流史 |
+> | [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]] | 1920–1930 年代美苏进步教育交流历史[[Document\|文献]]、Dewey and Shatskii 通信 | 历史比较与[[Documentary Analysis\|文献分析]] | 进步教育方法、民主 vs 阶级意识育人目标、跨国接触 | Shatskii 在苏俄建成了规模最大的农村进步教育实验，但因阶级意识分歧于 1930 年代被官方全面否定 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦美苏早期进步教育交流史 |
 > | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey\|杜威]]教育思想的文献与论述 | 历史[[Recontextualization\|再脉络化]]追踪与文献分析 | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education\|素质教育]]代言人的四次质变再脉络化 | 历史文献分析 — | 聚焦特定思想家在中国的接受史 |
 > | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study\|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability\|考试问责]]、[[Learner-Centred Education\|LCE]]/进步教育系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将进步探究法[[Pragmatic Paradigm\|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation\|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
 > | [[Argument_Cowen_2009_CE\|Cowen (2009)]] | 战后占领期日本与西德美占区教育改革档案与立法记录 | 比较教育转移与[[Transfer Translation Transformation\|转译]]分析 | 美式学制与进步教育指令、地方政治文化、转译修辞 | 日本顺应美式指令转译为民主重生与行政效能结合，西德保守精英以学术标准为名联合抵制综合中学 | 历史比较分析 — | 揭示战后美式进步教育移植的[[Heterogeneity\|异质性]]结果 |

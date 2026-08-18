@@ -8,7 +8,7 @@ aliases:
   - self-continuity
   - self-distinctness
   - self-agency
-summary: "Damon 与 Hart 提出的 I-Self 三个构成维度，Li 以此解释文化学习模型在全球化中为何通过身份认同得以持久"
+summary: "Damon and Hart 提出的 I-Self 三个构成维度，Li 以此解释文化学习模型在全球化中为何通过身份认同得以持久"
 type: concept
 domain: "learning-science-cognitive-science"
 related_count: 7
@@ -45,7 +45,7 @@ updated: 2026-05-25
 ## 定义
 
 > [!info]
-> 自我连续性（self-continuity）、自我独特性（self-distinctness）和自我能动性（self-agency）是 Damon 与 Hart（1997）提出的 I-Self 的三个构成维度。这三个维度描述了人在发展自我理解时最核心的心理需要——我们是谁、为何独特、能做什么——也因此成为文化价值嵌入个体身份认同的主要通道。
+> 自我连续性（self-continuity）、自我独特性（self-distinctness）和自我能动性（self-agency）是 Damon and Hart（1997）提出的 I-Self 的三个构成维度。这三个维度描述了人在发展自我理解时最核心的心理需要——我们是谁、为何独特、能做什么——也因此成为文化价值嵌入个体身份认同的主要通道。
 
 > [!abstract]
 > - **自我连续性（self-continuity）** 感知到自己是跨越时间的同一个人的需要。尽管人在一生中不断[[Growth|成长]]和变化，自我连续性使人能够将过去的自己、现在的自己与未来的自己整合为一个连贯的身份叙事([[Argument_Li_2012_Cambridge|Li, 2012, pp.337-338]])。
@@ -64,7 +64,7 @@ updated: 2026-05-25
 
 这三个维度源自 William James（1892）对自我的两分法。James 将自我区分为 I-Self（主我，即认识者——进行识别、观察、判断、设定目标和采取行动的那一面）与 Me-Self（客我，即被认识的内容——自我描述和自我特征刻画）。用当代隐喻来说，I-Self 是作者或讲故事的人，Me-Self 是故事中的角色（Nakkula & Toshalis, 2006，转引自 [[Argument_Li_2012_Cambridge|Li, 2012, p.337]]）。
 
-文化对 I-Self 和 Me-Self 的发展都有影响，但 Li（2012, p.337）认为文化在 I-Self 的三个维度——自我连续性、自我独特性、自我能动性——上的影响权重更大，因为这三个维度直接关系到个体如何建构"我是谁"这一核心问题。
+文化对 I-Self and Me-Self 的发展都有影响，但 Li（2012, p.337）认为文化在 I-Self 的三个维度——自我连续性、自我独特性、自我能动性——上的影响权重更大，因为这三个维度直接关系到个体如何建构"我是谁"这一核心问题。
 
 > [!tip]-
 > ### 与文化持久性的关系
@@ -95,8 +95,8 @@ updated: 2026-05-25
 ## 争议与批评
 
 > [!warning]
-> - **概念边界**Damon 与 Hart（1997）的原初框架并非针对跨文化情境设计，而是对儿童与青少年自我理解的普遍发展心理学描述。Li 将其用于解释文化持久性，属于跨领域的概念转用，三个维度与文化认同之间的[[Causality|因果关系]]尚未被直接检验
-> - **文化差异的忽略** James 的 I-Self / Me-Self 框架以及 Damon 与 Hart 的三维度模型均在西方心理学传统中提出，其是否适用于理解东亚文化中更关系性（relational）的自我建构仍有待验证
+> - **概念边界**Damon and Hart（1997）的原初框架并非针对跨文化情境设计，而是对儿童与青少年自我理解的普遍发展心理学描述。Li 将其用于解释文化持久性，属于跨领域的概念转用，三个维度与文化认同之间的[[Causality|因果关系]]尚未被直接检验
+> - **文化差异的忽略** James 的 I-Self / Me-Self 框架以及 Damon and Hart 的三维度模型均在西方心理学传统中提出，其是否适用于理解东亚文化中更关系性（relational）的自我建构仍有待验证
 
 ---
 

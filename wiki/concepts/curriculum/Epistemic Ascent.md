@@ -5,7 +5,7 @@ aliases:
   - 概念进阶
   - conceptual progression
   - epistemic ascent
-summary: "学习者在学科中从具体经验向抽象概念逐步发展的认知过程，是课程设计连贯性的关键目标，由 Winch、Vernon 和 Rata 等学者从不同角度阐述"
+summary: "学习者在学科中从具体经验向抽象概念逐步发展的认知过程，是课程设计连贯性的关键目标，由 Winch、Vernon and Rata 等学者从不同角度阐述"
 type: concept
 domain: "curriculum"
 related_count: 11

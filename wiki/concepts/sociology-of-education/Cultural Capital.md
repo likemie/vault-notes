@@ -150,7 +150,7 @@ updated: 2026-07-11
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970 — 《再生产》再生产机制描述** Bourdieu 与 Passeron 首次在教育系统再生产分析中提出文化资本雏形，论证学校如何将优势阶层的文化资源包装为个人天赋。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023, Ch. 2)]]
+> - **1970 — 《再生产》再生产机制描述** Bourdieu and Passeron 首次在教育系统再生产分析中提出文化资本雏形，论证学校如何将优势阶层的文化资源包装为个人天赋。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023, Ch. 2)]]
 > - **1979 — 《区隔》品味与生活方式拓展** 借助法国社会大规模经验调查，将文化资本概念拓展至审美品味、艺术消费与生活方式领域，确立其作为阶级区隔的工具性质。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023, Ch. 2)]]
 > - **1986 — 《资本的三种形态》独立理论建构** Bourdieu 独立发表理论文章，正式确立文化资本的三种存在形态（具身化、客体化、制度化），奠定了其在社会学中的[[Operationalization|操作化]]基础。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023, Ch. 2)]]
 > - **2023 年至今 — 跨文化情境的[[Transfer Translation Transformation|转译]]与反思** [[Yajun Zheng|郑雅君]]将具身化文化资本[[Going Native|本土化]]为精英大学[[Champ|场域]]中的出路直觉；藤原和王丹则揭示了中国县域熟人社会中文化资本的妥协与边缘化特征。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]；[[Argument_Teng_2025_CE|Teng & Wang (2025)]]

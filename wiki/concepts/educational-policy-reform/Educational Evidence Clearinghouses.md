@@ -194,7 +194,7 @@ updated: 2026-07-13
 - [[Campbell Collaboration]] — [[Systematic Review|系统综述]]型证据组织，2007 年将国际总部迁至挪威。
 - [[Danish Clearinghouse for Educational Research]] — 丹麦国家语境中的系统综述型教育证据中心。
 - [[EPPI-Centre]] — 英国系统综述和[[Research Utilization|研究使用]]指导中心。
-- [[Institute for Effective Education]] — 英国连接学校支持、严格评价、Evidence in Brief 和 Evidence 4 Impact 的证据机构。
+- [[Institute for Effective Education]] — 英国连接学校支持、严格评价、Evidence in Brief and Evidence 4 Impact 的证据机构。
 - [[Swedish Institute for Educational Research]] — 瑞典系统综述、传播和研究资助机构。
 - [[Top Institute for Evidence-Based Education Research]] — 荷兰跨大学[[Evidence-Based Education|证据本位教育]]研究所。
 - [[Centre for the Use of Research and Evidence in Education]] — 英国研究[[Transfer Translation Transformation|转译]]和实践材料开发机构。
@@ -209,7 +209,7 @@ updated: 2026-07-13
 - [[Open Court Reading]] — 三个清算中心均评为 promising，但对研究设计分类、效应大小和研究限制的解释不同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.22-23]])。
 - [[Success for All]] — 五个清算中心均未给负面评价，但按结果域、项目变体和纳入研究数量产生不同强度的证据判断([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
 - [[Peer-Assisted Learning Strategies]] — 五个清算中心对整体项目、阅读版本、数学版本和结果域给出中度分歧评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.23-24]])。
-- [[Quantum Opportunity Program]] — QOP 与 Eisenhower QOP 展示了项目变体、研究可获得性和质量标准如何改变评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.24-25]])。
+- [[Quantum Opportunity Program]] — QOP and Eisenhower QOP 展示了项目变体、研究可获得性和质量标准如何改变评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.24-25]])。
 - [[Communities in Schools]] — 五个清算中心给出 recommended、promising/中等支持和不背书三类冲突结论，是评级分歧最清晰的案例([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
 
 ### 方法与标准

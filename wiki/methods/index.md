@@ -40,7 +40,7 @@ Total entries: **185**
 > - [[Carnivalesque Analysis]] — 通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权力关系的质性分析方法，适合拆解官方话语的自明性
 > - [[Case Study]] — 以单个或少数个案为分析单位深入追踪过程、情境和机制的研究设计，适合解释复杂现象如何在具体场域中展开
 > - [[Coding in Qualitative Research]] — 质性研究中将文本或图像数据拆分为片段并赋予类别标签的分析过程，是数据分析和主题生成的核心步骤
-> - [[Comparative Case Study]] — Bartlett 与 Vavrus 提出的比较案例研究方法，通过水平、垂直和横贯三个轴同时对案例进行跨地点、跨尺度和历时比较，适合分析复杂连接的教育政策与治理现象
+> - [[Comparative Case Study]] — Bartlett and Vavrus 提出的比较案例研究方法，通过水平、垂直和横贯三个轴同时对案例进行跨地点、跨尺度和历时比较，适合分析复杂连接的教育政策与治理现象
 > - [[Comparative Meta-synthesis]] — 通过跨元分析比较来得出推论的综合方法，旨在回答不同教育方法的相对效果，但面临苹果和橙子的可比性挑战
 > - [[Comparative Textbook Analysis]] — 系统比较不同地区或国家教科书的质性分析方法，以子句为编码单位，通过框架信息型归纳编码和主题生成揭示教科书如何在不同社会政治情境下建构知识、身份和国家叙事
 > - [[Constant Comparison]] — 质性数据分析中把新获取数据与既有数据、类别和理论不断比较，用反例修正类别直至完全容纳数据的分析技术
@@ -86,7 +86,7 @@ Total entries: **185**
 > - [[Participant Observation]] — 质性研究中研究者同时扮演参与者和观察者角色，通过进入被研究群体的自然情境收集数据的核心方法。
 > - [[Participatory Action Research]] — 行动研究的政治化版本，以集体参与、赋权和解放为核心议程，关注权力不平等和基层变革，研究议题由参与者自身识别和拥有
 > - [[Participatory Research]] — 一种批判理论驱动的研究方法，与社区和群体一起而非对其进行研究，将研究控制权归还给参与者，以知识促变革与赋权。
-> - [[Peer Debriefing]] — Lincoln 和 Guba 建立质性研究可信性的六项核心策略之一：研究者将自己暴露于无利害关系的同行面前，以类似交叉审问的方式检验研究的诚实性、工作假设并识别下一步方向
+> - [[Peer Debriefing]] — Lincoln and Guba 建立质性研究可信性的六项核心策略之一：研究者将自己暴露于无利害关系的同行面前，以类似交叉审问的方式检验研究的诚实性、工作假设并识别下一步方向
 > - [[Philosophical Analysis in Education]] — 通过概念区分、逻辑推理和哲学论证分析教育政策与实践的前提假设，为从业者提供抵抗资源
 > - [[Photo-elicitation]] — 以一张或一组照片唤起受访者讨论、反思、评论、观察与记忆的访谈技术，照片充当访谈中的中性第三方，可缓解尴尬与权力差异
 > - [[Projection Technique]] — 通过媒介（如虚拟世界中的化身）让个体外化自我、投射内在观点和价值观的资料收集技术，适合敏感议题研究
@@ -163,7 +163,7 @@ Total entries: **185**
 > - [[Non-Equivalent Control Group Design]] — 最常用的准实验设计之一，实验组与控制组未通过随机化等价，通过匹配或使用尽可能相似的样本来增强组间可比性
 > - [[Non-intervention Research]] — 不直接操纵处理条件而观察现象、关系或过程的研究集合，适合分析自然发生的教育情境与经验分布
 > - [[Observational and Correlational Research]] — 不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联
-> - [[One-Group Pretest-Posttest Design]] — 前实验设计中仅对单一组进行前测、干预和后测的设计，无控制组和随机分配，内部效度最低，被 Campbell 和 Stanley 列为展示混淆变量的坏例子
+> - [[One-Group Pretest-Posttest Design]] — 前实验设计中仅对单一组进行前测、干预和后测的设计，无控制组和随机分配，内部效度最低，被 Campbell and Stanley 列为展示混淆变量的坏例子
 > - [[Parametric Design]] — 真实验设计的变体，将参与者随机分配到自变量水平固定的组别中，以绘制干预对不同取值区间的差异效应曲线，比单一实验组更敏感
 > - [[Pearson Product-Moment Correlation]] — 测量两个连续变量间关联强度与方向的推断统计方法，使用r统计量，适用于正态分布的连续数据
 > - [[Perpetual Inventory Method]] — 通过投资流量数据和折旧率递推估算资本存量的标准方法，广泛用于增长核算和TFP测算

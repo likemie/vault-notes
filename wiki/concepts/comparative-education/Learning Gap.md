@@ -62,14 +62,14 @@ updated: '2026-05-23'
 
 在 1970 年代末之前，几乎没有关于西方与东亚学习者学习信念或成就动机的比较研究。David McClelland 于 1963 年宣称传统中国人缺乏成就动机，但共产主义意识形态赋予了他们革命热情。此后近二十年间该领域沉寂，直到[[International Education|国际教育]]成就评估显示日本学生在数学和科学上的表现超越许多西方国家，这一意外结果才催生了对东亚学校和儿童学习的研究兴趣([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])。
 
-Stevenson 和 Stigler 发起了长达十年的标志性跨国研究，克服了多国多语言研究的巨大挑战，自行构建数学成就测试以控制偏差，收集儿童和家长[[Questionnaire|问卷]]，观察课堂教学，访谈教师([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
+Stevenson and Stigler 发起了长达十年的标志性跨国研究，克服了多国多语言研究的巨大挑战，自行构建数学成就测试以控制偏差，收集儿童和家长[[Questionnaire|问卷]]，观察课堂教学，访谈教师([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
 
 ---
 
 ## 核心要素
 
 > [!abstract]
-> Stevenson 和 Stigler 的核心发现([[Argument_Li_2012_Cambridge|Li, 2012, p.79]])：
+> Stevenson and Stigler 的核心发现([[Argument_Li_2012_Cambridge|Li, 2012, p.79]])：
 
 ### 归因差异
 - 美国学生、家长和教师以**能力观念**解释儿童的[[Academic Achievement|学业成就]]——与 [[Western Learner|西方学习者]]模型 中"区分最有能力者与普通者"的核心倾向一致([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
@@ -91,9 +91,9 @@ Stevenson 和 Stigler 发起了长达十年的标志性跨国研究，克服了�
 > [!success]
 > ### 后续研究深化
 
-Stevenson 和 Stigler 的研究激发了更多比较研究：
+Stevenson and Stigler 的研究激发了更多比较研究：
 
-- **Seishin 与 Gambaru** 美国研究者发现日本学习者使用文化特定的概念来描述能力与[[Conatus|努力]]，如 seishin（帮助人们应对任务的心理态度）和 gambaru（"对坚持的内在益处的积极取向"）([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
+- **Seishin and Gambaru** 美国研究者发现日本学习者使用文化特定的概念来描述能力与[[Conatus|努力]]，如 seishin（帮助人们应对任务的心理态度）和 gambaru（"对坚持的内在益处的积极取向"）([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
 - **努力作为稳定因素** 香港研究者发现，在西方动机[[Document|文献]]中被定义为"内部但不稳定"因素的努力，对[[Chinese Learner|中国学习者]]而言是跨时间和跨情境的稳定因素——中国学生相信他们需要对所有学习任务始终付出努力([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
 - **日本教学优势** Stigler 领导的视频研究比较了美、日、德三国课堂教学，结论是日本教学法确实优于西方对应方([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
 - **家庭因素** 研究显示亚裔父母表达了比欧裔美国父母更高的学术期望（通常要求全 A），为子女报名更多的课后和周末补习项目，并更密切地监控家庭学习([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
@@ -105,7 +105,7 @@ Tobin、Wu & Davidson（1989）的录像[[Ethnography|民族志]]捕捉到了三
 - 中国学前教育强调：营养照顾、教师密切监督下的集体活动、课堂纪律学习、严格遵守社会和道德规则
 - 日本学前教育展现出另一种特征：培养儿童在同伴中自行学习——教师大多不干涉，让儿童自行玩耍、打斗和解决冲突，几乎没有学术学习
 
-Hess 和 Azuma 发现美国教师偏好高效、快节奏的教学风格，而日本教师采用缓慢但彻底的教学风格——这些不同风格分别预测了各自文化中儿童的工作习惯和成就([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])。
+Hess and Azuma 发现美国教师偏好高效、快节奏的教学风格，而日本教师采用缓慢但彻底的教学风格——这些不同风格分别预测了各自文化中儿童的工作习惯和成就([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])。
 
 ---
 

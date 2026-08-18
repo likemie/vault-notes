@@ -46,14 +46,14 @@ updated: '2026-05-18'
 ## 清算中心评级分歧
 
 > [!info] 清算中心评级分歧
-> [[National Dropout Prevention Center|NDPC]] 和 Blueprints 把 PALS 作为整体项目评价，分别给出 recommended 和 promising；[[What Works Clearinghouse|WWC]] 根据不同结果域给出从 promising 到 not recommended 的判断；[[Best Evidence Encyclopedia|BEE]] 只审查 PALS Math 并将其评为 recommended；[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 分别审查 PALS Reading 和 PALS Math，但两个版本都未达到 promising([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.23–24]])。
+> [[National Dropout Prevention Center|NDPC]] 和 Blueprints 把 PALS 作为整体项目评价，分别给出 recommended 和 promising；[[What Works Clearinghouse|WWC]] 根据不同结果域给出从 promising 到 not recommended 的判断；[[Best Evidence Encyclopedia|BEE]] 只审查 PALS Math 并将其评为 recommended；[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 分别审查 PALS Reading and PALS Math，但两个版本都未达到 promising([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.23–24]])。
 >
-> 各清算中心使用的研究集合几乎不重叠。Blueprints 和 BEE 各使用一项研究；WWC 随结果域使用一至三项研究；NDPC 未说明具体研究数量；CMFR 对 PALS Reading 使用 10 项研究、对 PALS Math 使用 2 项研究。CMFR 和 WWC 共享两项研究，但其他清算中心没有纳入这些研究([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.24]])。
+> 各清算中心使用的研究集合几乎不重叠。Blueprints and BEE 各使用一项研究；WWC 随结果域使用一至三项研究；NDPC 未说明具体研究数量；CMFR 对 PALS Reading 使用 10 项研究、对 PALS Math 使用 2 项研究。CMFR and WWC 共享两项研究，但其他清算中心没有纳入这些研究([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.24]])。
 
 ## 案例意义
 
 > [!success] 案例意义
-> PALS 案例显示，评级差异不仅来自清算中心证据门槛，也来自项目组件和结果域的切分方式。Blueprints 和 [[National Dropout Prevention Center|NDPC]] 概括阅读与数学结果，[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 将 PALS Math 与 PALS Reading 分开，[[Best Evidence Encyclopedia|BEE]] 分别审查不同学段的数学版本，[[What Works Clearinghouse|WWC]] 则按五个主题领域审查；这些切分方式会让消费者看到不同的项目有效性图像([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.24]])。
+> PALS 案例显示，评级差异不仅来自清算中心证据门槛，也来自项目组件和结果域的切分方式。Blueprints 和 [[National Dropout Prevention Center|NDPC]] 概括阅读与数学结果，[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 将 PALS Math and PALS Reading 分开，[[Best Evidence Encyclopedia|BEE]] 分别审查不同学段的数学版本，[[What Works Clearinghouse|WWC]] 则按五个主题领域审查；这些切分方式会让消费者看到不同的项目有效性图像([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.24]])。
 
 ## 相关概念／政策
 

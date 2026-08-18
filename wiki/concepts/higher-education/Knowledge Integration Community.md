@@ -39,7 +39,7 @@ updated: 2026-05-27
 > [!info]
 知识整合共同体（Knowledge integration Community，简称 KIC）是 Acworth（2008）基于 Cambridge-MIT Institute 的经验提出的[[University-Industry Collaboration|产学合作]]组织模型。KIC 围绕科学或技术领域的"重大挑战"（grand challenges）组织产学合作，将教育、研究、产业和政府整合为一个多维度联盟（multidimensional alliance）（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
 
-KIC 的一个关键制度设计是：每个 KIC 设有一名经理（manager）负责推动[[Knowledge Exchange|知识交流]]（knowledge exchange），该经理被赋予与来自 Cambridge 和 MIT 的教师首席研究员（faculty principal investigators）同等的地位（equal status）——这意味着知识整合功能在组织上不隶属于学术研究功能（p.54）。
+KIC 的一个关键制度设计是：每个 KIC 设有一名经理（manager）负责推动[[Knowledge Exchange|知识交流]]（knowledge exchange），该经理被赋予与来自 Cambridge and MIT 的教师首席研究员（faculty principal investigators）同等的地位（equal status）——这意味着知识整合功能在组织上不隶属于学术研究功能（p.54）。
 
 ## 核心要素
 

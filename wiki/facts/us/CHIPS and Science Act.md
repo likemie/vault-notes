@@ -97,7 +97,7 @@ updated: 2026-06-04
 > [!note]-
 > NSTC 的建立对半导体和计算行业的 [[University-Industry Collaboration|产学合作]] [[Praxis|实践]]者而言是一个"强制函数"（forcing function）：它迫使每个公司重新审视自己的大学合作策略——在 NSTC（国家战略型 [[Public-Private Partnership in Research|PPP]]）和 [[Semiconductor Research Corporation|SRC]]（行业联盟型 PPP）这两个不同逻辑的制度框架下，大学合作需要重新定位([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.235–236]])。
 
-NSTC 和 SRC 的并存代表了美国半导体行业三代公私合作模式的制度化递进：
+NSTC and SRC 的并存代表了美国半导体行业三代公私合作模式的制度化递进：
 1. **企业主导的一次性项目（如 2008 年 Intel-Microsoft [[Universal Parallel Computing Research Centers|UPCRC]]）**
 2. **行业联盟的持续性合作（SRC，多家竞争对手共同资助[[Precompetitive Research|前竞争研究]]）**
 3. **国家战略层面的制度化安排（NSTC，联邦立法授权、大规模拨款、明确的国家安全和产业战略目标）**

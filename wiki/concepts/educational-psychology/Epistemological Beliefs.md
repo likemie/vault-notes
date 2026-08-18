@@ -140,7 +140,7 @@ updated: 2026-08-14
 ## 争议与批评
 
 > [!critique] 对[[Construct|构念]]范围的质疑
-> - **混入外围信念** Hofer 和 Pintrich 指出，Schommer 模型中的“固定能力（fixed ability）”本质上是一种隐性智力理论（Dweck & Leggett），而“快速学习（quick learning）”则属于对任务难度的个人预期。二者均涉及个人心理特征及学习期待，并非严格哲学意义上对知识本源的[[Epistemology|认识论]]探究，因此应从认识论核心领域中剔除。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 108-109)]]
+> - **混入外围信念** Hofer and Pintrich 指出，Schommer 模型中的“固定能力（fixed ability）”本质上是一种隐性智力理论（Dweck & Leggett），而“快速学习（quick learning）”则属于对任务难度的个人预期。二者均涉及个人心理特征及学习期待，并非严格哲学意义上对知识本源的[[Epistemology|认识论]]探究，因此应从认识论核心领域中剔除。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 108-109)]]
 
 > [!critique] 量表工具的方法论局限
 > - **因子结构不稳定** Schommer 认识论量表的有效性遭到学界质疑。其因子分析是建立在预设的子集而非单个题目层面，且后续研究（如 Qian & Alvermann）显示其底层因子结构在实际不同人群的数据中并不稳定，缺乏一致的重现性。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 110)]]

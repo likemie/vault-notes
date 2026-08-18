@@ -176,7 +176,7 @@ updated: 2026-07-26
 > **其他关键来源：**
 > - Spies et al.（2010）《心理测量年鉴第十八版》（*Eighteenth Mental Measurements Yearbook*）
 > - Murphy et al.（2010）《在版测验 VII》（*Tests in Print VII*）
-> - 出版商如 Harcourt Assessment 和 John Wiley
+> - 出版商如 Harcourt Assessment and John Wiley
 > - [美国心理学会（American Psychological Association, APA）](https://www.apa.org/science/programs/testing/find-tests.aspx)
 > - [英国心理学会（British Psychological Society, BPS）](https://www.psychtesting.org.uk)
 > - 标准教材：Gronlund & Linn（1990）、Kline（2000）、Loewenthal（2001）、Aiken（2003）

@@ -40,7 +40,7 @@ Total entries: **109**
 > - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，并以盲点和结构耦合解释系统观察与互动
 > - [[Phenomenology]] — 以主观意识和直接经验为核心的哲学传统，关注意识如何主动赋予世界意义，是诠释范式的三大研究传统之一。
 > - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
-> - [[Pragma-Dialectics]] — van Eemeren 与 Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
+> - [[Pragma-Dialectics]] — van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
 > - [[Pragmatic Constructivism]] — 由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程
 > - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
 > - [[Reliabilism]] — 哲学理论附加强调信念的确证依赖于产生该信念的过程是否可靠。科学实践与认知过程被纳入认识论研究。
@@ -64,20 +64,20 @@ Total entries: **109**
 > [!index-list]- Higher Education (11)
 > - [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
 > - [[Dollinger et al. Framework for UI Collaboration]] — Dollinger et al. (2018) 提出的国际产学合作分析框架，从环境因素、技术因素和管理因素三个维度评估合作，可用于国际合作关系的基准比较和进展评估
-> - [[King-Persily Model]] — King 与 Persily（2019）提出的产学合作数据治理模型，通过引入第三方委员会来解耦研究者对产业数据和专有信息的完全访问，最初针对社会科学与社交媒体大数据场景，Swick 与 Jones（2025）讨论了其在生物医学创新中的适用性
+> - [[King-Persily Model]] — King and Persily（2019）提出的产学合作数据治理模型，通过引入第三方委员会来解耦研究者对产业数据和专有信息的完全访问，最初针对社会科学与社交媒体大数据场景，Swick and Jones（2025）讨论了其在生物医学创新中的适用性
 > - [[Lester's Typology of University Contributions to Local Industry]] — Richard Lester（MIT, 2005）提出的分类框架，根据本地产业类型和所处产业生命周期阶段，将大学对本地经济的贡献划分为四种类型——新兴产业培育、产业引进/移植、现有产业多样化、现有产业升级
 > - [[Network Society]] — 把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织
 > - [[RIA Model for Innovation]] — Schlegel-UW 老龄化研究所提出的四阶段创新模型，包括知识生成、孵化、加速和动员，描述研究型产学合作从基础研究到社会影响的完整链条
 > - [[Stokes' Quadrant Model of Scientific Research]] — Stokes (1997) 提出的二维研究分类框架，以对基础理解的追求程度和对应用的考虑程度为两个独立维度，将科学研究分为玻尔象限、巴斯德象限、爱迪生象限和第四象限，取代传统的基础-应用一维谱系
 > - [[Systems of Innovation]] — Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络和市场互动进行的集体学习活动，强调制度、网络和吸收能力对创新绩效的关键作用，1980–90年代后成为多国创新政策的主导范式
-> - [[Triple Helix]] — Etzkowitz 与 Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统
-> - [[UIC Evolutionary Phases]] — ODwyer、Filieri 和 OMalley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制
-> - [[Values Alignment Model]] — Swick 与 Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力
+> - [[Triple Helix]] — Etzkowitz and Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统
+> - [[UIC Evolutionary Phases]] — ODwyer、Filieri and OMalley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制
+> - [[Values Alignment Model]] — Swick and Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力
 
 > [!index-list]- Instruction Pedagogy (4)
 > - [[Bounded Rationality]] — 解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理
 > - [[Dynamic Knowledge and Learning Model]] — 用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。
-> - [[Teaching Theory of Gruschka]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
+> - [[Teaching Theory of Gruschka]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung and Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
 > - [[Three Levels of Teaching]] — 一种教学理论框架，依据教师把学习结果归因于学生特征、教师行为还是完整教学系统，区分三个递进的教学观层次。
 
 > [!index-list]- Learning Science Cognitive Science (10)
@@ -97,11 +97,11 @@ Total entries: **109**
 > - [[Critical Geopolitics]] — 把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实
 > - [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
 > - [[Decolonial Geopolitics of Knowledge]] — 从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化
-> - [[Evolutionary Economics]] — 以 Nelson 和 Winter（1982）为奠基之作的经济学流派，强调经济活动的多样性、异质性和累积性学习过程，以技术轨迹和产业异质性为核心分析概念，挑战主流经济学的代表性企业和均衡分析假设
+> - [[Evolutionary Economics]] — 以 Nelson and Winter（1982）为奠基之作的经济学流派，强调经济活动的多样性、异质性和累积性学习过程，以技术轨迹和产业异质性为核心分析概念，挑战主流经济学的代表性企业和均衡分析假设
 > - [[Fixity-Motion Tension]] — 解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论
 > - [[Informationalism]] — 由 Manuel Castells 提出的信息时代发展模式理论，认为信息化社会的主要生产力来源是基于知识和信息优化生产要素组合的质化能力，与依赖重工业物质投入的工业化形成对比，并论证了国家主义体制与信息化之间的深层不相容
 > - [[Neo-feudalism in Higher Education]] — Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序
-> - [[Pavitt Taxonomy]] — Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino 和 Pianta 修订扩展至服务业和信息通信技术行业
+> - [[Pavitt Taxonomy]] — Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino and Pianta 修订扩展至服务业和信息通信技术行业
 > - [[Technological Trajectories]] — Pavitt（1984）和 Dosi（1982）提出的概念，指不同产业沿着根本不同的路径进行技术变迁，由技术来源、用户需求和专有可能性三个因素塑造，是解释产业间创新模式差异的核心理论机制
 > - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 
@@ -121,7 +121,7 @@ Total entries: **109**
 > - [[Maxwell's Interactive Model of Research Design]] — Maxwell(2005)提出的质性研究互动设计模型，以研究问题为核心，强调目标、概念框架、方法、效度五个领域之间的相互通知和迭代涌现关系，反对线性规划。
 > - [[Organizational Culture]] — Schein（1992）提出的组织文化三层次框架：器物、价值观与深层规范；器物是可观察的表层显现，但只能提示组织在做什么，不能说明其缘由
 > - [[Potential Outcomes Framework]] — 因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。
-> - [[Realist Evaluation]] — 由 Ray Pawson 和 Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。
+> - [[Realist Evaluation]] — 由 Ray Pawson and Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。
 > - [[Seedhouse's Ethical Pyramid]] — Seedhouse提出的四层伦理决策模型，将伦理考量分为外部层、后果层、道义层和个体层，构成思考研究伦理问题的认识论装置
 > - [[Situated Ethics]] — 一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境
 > - [[Sociology of Measurement]] — 将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。
@@ -138,5 +138,5 @@ Total entries: **109**
 > - [[Lefebvre's Spatial Triad]] — Henri Lefebvre（1991）提出的空间分析框架，将空间分为感知空间（空间实践）、构想空间（空间表征）和活生生空间（表征性空间）三个辩证互动的维度，为理解大学教师如何在区域空间中桥接产学政网络提供了分析工具
 > - [[Rational Action Theory]] — 以相对风险规避为核心机制解释不同阶层教育选择差异的中层理论，主张教育决策是阶级条件下对成本、风险和收益的理性计算
 > - [[Refraction Framework]] — Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成
-> - [[Social Capital Theory]] — 以 Bourdieu、Coleman 和 Putnam 为代表的跨学科理论，将社会关系网络、信任、规范和互惠性视为一种可产生经济和社会回报的资本形式。ODwyer 等（2023）将其应用于产学合作网络演化，揭示声誉基础的信任和诚信基础的信任在合作不同阶段的差异化作用
+> - [[Social Capital Theory]] — 以 Bourdieu、Coleman and Putnam 为代表的跨学科理论，将社会关系网络、信任、规范和互惠性视为一种可产生经济和社会回报的资本形式。ODwyer 等（2023）将其应用于产学合作网络演化，揭示声誉基础的信任和诚信基础的信任在合作不同阶段的差异化作用
 > - [[Symbolic Interactionism]] — 源自米德的社会心理学理论，主张人基于事物对其具有的意义来行动，意义通过符号和社会互动持续建构、修改和协商。

@@ -141,7 +141,7 @@ updated: 2026-06-22
 > 在 [[Phenomenon-Based Learning|PhBL]] 中，现象是主体在以意向性（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，具有主观价值关联性。(pp.2–3)
 
 > [!chain-link] [[Phenomenology|现象学]]体验链
-> - **回到事物本身（Zurück zu den Sachen selbst）** 依据 Kant 与 Husserl 的哲学命题，任何意义皆源于直觉（Intuitions），必须回归事物本身，且事物始终与人的意识相互关联。(pp.3–4)
+> - **回到事物本身（Zurück zu den Sachen selbst）** 依据 Kant and Husserl 的哲学命题，任何意义皆源于直觉（Intuitions），必须回归事物本身，且事物始终与人的意识相互关联。(pp.3–4)
 > - **生活世界的嵌入性（Lifeworld Embedding）** Husserl 提出体验主体在世存在（Being in the world）并嵌入日常生活世界之中，一切真知皆源于主观经验的意义建构。(p.4)
 > - **具身认知与主体间性（Embodiment & Intersubjectivity）** Merleau-Ponty 进一步将具身（Embodied）经验置于认知之前，强调人的社会性与身体在世存在。主体间性包含个人反思，并指向共同体在特定时空中的协同反思、信任与情感共鸣。
 
@@ -190,7 +190,7 @@ updated: 2026-06-22
 > 20世纪末，芬兰教育心理学[[Paradigm|范式]]由行为主义（Behaviorism）向[[Constructivist Paradigm|建构主义]]（Constructivism）转型，直接孕育了 PhBL 的教学法模型，使其成为桥接教育理论与学校实践的工具。(pp.7–8)
 
 > [!timeline] 芬兰教育心理学与建构主义演进史
-> - **19世纪末至20世纪初** Herbart 的心理学教育观在芬兰占据主导地位（由 Soininen 和 Lilius 推动），注重实证教育研究。同时，Meumann 在汉堡的实验教育学实验室成为芬兰学界效仿的典范。(p.7)
+> - **19世纪末至20世纪初** Herbart 的心理学教育观在芬兰占据主导地位（由 Soininen and Lilius 推动），注重实证教育研究。同时，Meumann 在汉堡的实验教育学实验室成为芬兰学界效仿的典范。(p.7)
 > - **20世纪中叶** 战后芬兰教育心理学经历了两十余年的行为主义霸权统治，倾向于通过外部刺激控制和测量学习行为。
 > - **20世纪末的建构主义转向** 学界重新关注学生的自我调节（Self-regulation）与主动认知建构。
 > - **1990年代 PhBL 模型的诞生** 赫尔辛基大学的 Rauste-von Wright 将 Dewey 的反思理念与 [[George Herbert Mead|Mead]] 的社会互动理论融合为[[Pragmatic Constructivism|实用主义建构主义]]。她系统化了 PhBL 模型，并称其为课程的自我修正模型（Self-correcting model of curriculum），旨在打破理论与实践的传统隔阂。(pp.7–8)

@@ -57,9 +57,9 @@ updated: 2026-07-13
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，CASEL 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。它和 [[Home Visiting Evidence of Effectiveness|HomVEE]] 一样在[[Attrition|流失]]指南上遵循 [[What Works Clearinghouse|WWC]] 指南；这意味着其流失判断与 WWC 的总体流失和差异流失组合规则有关([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，CASEL 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD and ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。它和 [[Home Visiting Evidence of Effectiveness|HomVEE]] 一样在[[Attrition|流失]]指南上遵循 [[What Works Clearinghouse|WWC]] 指南；这意味着其流失判断与 WWC 的总体流失和差异流失组合规则有关([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
 >
-> CASEL 与 Blueprints、[[Promising Practices Network|PPN]]、[[Best Evidence Encyclopedia|BEE]] 和 [[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；这使它不同于 [[What Works Clearinghouse|WWC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 等会区分无效与效果不确定项目的清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
+> CASEL and Blueprints、[[Promising Practices Network|PPN]]、[[Best Evidence Encyclopedia|BEE]] 和 [[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；这使它不同于 [[What Works Clearinghouse|WWC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 等会区分无效与效果不确定项目的清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
 
 ## 与其他清算中心的差异
 

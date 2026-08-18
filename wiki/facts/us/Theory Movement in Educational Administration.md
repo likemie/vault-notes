@@ -2,7 +2,7 @@
 title: Theory Movement in Educational Administration
 aliases:
   - 教育行政理论运动
-summary: "1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战"
+summary: "1950s–1960s 以 Halpin and Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战"
 type: fact
 subtype: event
 region: us
@@ -48,7 +48,7 @@ updated: 2026-05-18
 ## 背景
 
 > [!info] 背景
-> 教育行政研究在 20 世纪初的美国大学中建制化。教育行政系科的建立与 Taylor（1911）*The Principles of Scientific Management* 的出版大体同时，这些科学管理原则被当时的主要人物——Teachers College Columbia 的 George Strayer、Wisconsin 的 Edward Elliot、Chicago 的 Franklin Bobbit 和 Stanford 的 Ellwood Cubberly——大力倡导([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315-316]])。
+> 教育行政研究在 20 世纪初的美国大学中建制化。教育行政系科的建立与 Taylor（1911）*The Principles of Scientific Management* 的出版大体同时，这些科学管理原则被当时的主要人物——Teachers College Columbia 的 George Strayer、Wisconsin 的 Edward Elliot、Chicago 的 Franklin Bobbit and Stanford 的 Ellwood Cubberly——大力倡导([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315-316]])。
 >
 > > 有趣的是，Cubberly 几乎没有教育研究的背景——他自身的专业背景是地质学和物理科学，却在教育行政项目中教授学校行政、学校问题、学校组织、学校统计等多门课程（Bates, 2010; Tynack & Hansot, 1982，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.326]]）。
 >
@@ -108,7 +108,7 @@ updated: 2026-05-18
 > [!warning] 争议与评论
 > - **[[Positivism|实证主义]]遗产的持续** [[Argument_Eacott_2015_EPT|Eacott (2015)]]认为尽管理论运动受到多次挑战，"'科学'和'科学探究'的标签与教育行政有长期联系"，这种联系延续至今，只是以管理主义和"对[[Praxis|实践]]有直接影响的"研究话语的形式出现（p.312-313）
 > - **变形的重演**[[Argument_Eacott_2015_EPT|Eacott (2015, p.320-321)]]指出理论的"应用"标签在当代以项目管理的学术生活方式重现——研究者成为可以在不同[[Research Question|研究问题]]间流动的"技术人员"，实质上重复了理论运动的方法论替代理论的模式
-> - **拒绝而非重构** Greenfield 和 Bates 的批判虽然有力，但导致许多人放弃而非重构科学探究——Evers & Lakomski 是少数坚持"科学本身不是问题"的声音([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])
+> - **拒绝而非重构** Greenfield and Bates 的批判虽然有力，但导致许多人放弃而非重构科学探究——Evers & Lakomski 是少数坚持"科学本身不是问题"的声音([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])
 
 ## 相关概念／理论
 

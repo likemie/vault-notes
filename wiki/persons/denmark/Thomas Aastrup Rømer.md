@@ -53,7 +53,7 @@ updated: '2026-06-08'
 > [!note-] 生平与职涯
 > - 2003 年：在 *Educational Theory* 发表关于后现代教育中学习与评估的早期论文
 > - 2012 年：在 *Educational Philosophy and Theory* 发表以 Dewey 视角探讨想象力与判断力的论文
-> - 2014 年：与 Tanggaard 和 Brinkmann 合编 *Uren Pædagogik 2*，提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念
+> - 2014 年：与 Tanggaard and Brinkmann 合编 *Uren Pædagogik 2*，提出"纯粹教育"和"[[Pure Evaluation|纯粹评价]]"概念
 > - 2015 年：出版 *Pædagogikkens to verdener*，探讨教育学的哲学连接
 > - 2017 年：在丹麦批评文集 *[[Hattie på dansk]]*（[[Hattie på dansk]]）中撰文批评 [[Visible Learning|VL]] 的反馈概念
 > - 2018 年：在 *Educational Philosophy and Theory* 发表对 Hattie VL 的五线哲学批判（Argument_Rømer_2018_EPT）

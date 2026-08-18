@@ -4,7 +4,7 @@ aliases:
   - 可信赖性
   - 可信性（总称）
   - trustworthiness in qualitative research
-summary: "Lincoln 和 Guba 提出的质性研究质量的替代性总称概念，涵盖可信性、可迁移性、可依赖性和可确认性四项标准，以替代实证主义范式中的内部效度、外部效度、信度和客观性"
+summary: "Lincoln and Guba 提出的质性研究质量的替代性总称概念，涵盖可信性、可迁移性、可依赖性和可确认性四项标准，以替代实证主义范式中的内部效度、外部效度、信度和客观性"
 type: concept
 domain: "research-methodology"
 related_count: 20

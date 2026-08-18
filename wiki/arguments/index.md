@@ -71,7 +71,7 @@ Total entries: **203**
 > - [[Argument_Susalka_Carbone_2025_IP_Web]] — 产学合作中知识产权问题的实践指南，分析大学与产业因组织使命差异导致的 IP 利益冲突，提出通过明确界定前景 IP 与背景 IP、合理设计权利转让条款来化解冲突的策略框架
 > - [[Argument_Swick_Jones_2025_AcademicHealthSystems]] — 论证学术健康系统是一种不同于传统学术医学中心的独特产学合作组织载体，以医师科学家为关键催化者，通过价值对齐模型将大学、产业和医院的优先差异重新聚焦到患者中心，从而促进医用创新的翻译和部署
 > - [[Argument_Ulrichsen_2025_UIR_Evolution]] — 综述过去50年产学关系演变，从创新模型、国家政策范式和大学-企业角色变迁三个维度追踪UIR从零散互动走向制度化战略化的历程，提出七层次影响因素框架
-> - [[Argument_Wolf_2025_InternationalResearchCollab]] — 以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars 与 UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链
+> - [[Argument_Wolf_2025_InternationalResearchCollab]] — 以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars and UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链
 
 > [!index-list]- Parreira do Amaral(Ed.)_2022_Springer (15)
 > - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos，以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
@@ -81,7 +81,7 @@ Total entries: **203**
 > - [[Argument_Hartmann_2022_CorporateEducation]] — Ch11 Eva Hartmann，以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势
 > - [[Argument_Jornitz_2022_Bildung_algorithmic]] — 以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成，将算法技术的全球传播解读为数字知识地缘政治
 > - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
-> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
+> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs and Minerva 为典型案例
 > - [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制 度与互动→主体形塑）逐层展开
 > - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken，区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
 > - [[Argument_Rambla_2022_Springer]] — Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权
@@ -207,7 +207,7 @@ Total entries: **203**
 > - [[Argument_Schulte_2009_EncuentrosEducacion]] — 追溯杜威在中国九十年间四个时期的接受与变形，揭示外国教育思想如何被主动再脉络化而非简单误解，以服务于每个时期知识分子的不同议程
 
 > [!index-list]- European Educational Research Journal (1)
-> - [[Argument_Møller_2017_EERJ]] — 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜
+> - [[Argument_Møller_2017_EERJ]] — 以 ISSPP and OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜
 
 > [!index-list]- Evaluation Review (1)
 > - [[Argument_Berk_2011_ER]] — 基于 35 年 ER 创始编辑经验，反思评估研究中证据与垃圾科学的五大方法论战场（因果效应定义/RCT集群随机化/因果建模/匹配/元分析），提出中立审查、团队评估、数据科学训练三条对策

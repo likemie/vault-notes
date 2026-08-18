@@ -74,7 +74,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 使用内容分析方法，对 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲进行探索性分析。使用 PDF 阅读器和纯文本阅读器软件的搜索功能，计算 [[Mentorship|mentor]] 一词在演讲中出现的次数。
+> 使用[[Content Analysis|内容分析]]方法，对 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲进行探索性分析。使用 PDF 阅读器和纯文本阅读器软件的搜索功能，计算 [[Mentorship|mentor]] 一词在演讲中出现的次数。
 >
 > 分析范围涵盖 1901-2023 年间所有可用的诺贝尔演讲， except where only the slides, but not the lecture transcript, were uploaded（即 2017 年的 Young 和 2022、2023 年的获奖者），以及当只有视频录像但没有演讲或其[[Transcription in Qualitative Research|转录]]本可用时（即 2020 和 2021 年）。1915-1918、1921、1925 年未颁奖，因此没有诺贝尔演讲可用。
 >
@@ -108,7 +108,7 @@ citation_aliases:
 >
 > **学术家族树**。对博士生-论文导师关系的[[Network Analysis|网络分析]]显示，诺贝尔奖得主倾向于拥有许多诺贝尔奖祖先、后代和被指导者，子网络完全由诺贝尔奖获得者组成，跨越四代(Chariker et al., 2017)。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树(Tol, 2024)。
 >
-> **Giuseppe Levi 的学生**。Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria 和 Renato Dulbecco(Bentivoglio et al., 2006)。
+> **Giuseppe Levi 的学生**。Giuseppe Levi 的学生中有三位[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]获得者：Rita Levi-Montalcini、Salvador Luria and Renato Dulbecco(Bentivoglio et al., 2006)。
 >
 > **诺贝尔奖的社会维度**。获得诺贝尔奖不仅仅是取得伟大成就并被动等待奖励，而是具有显著的社会维度(Hansson & Schlich, 2024; Friedman, 2001)。
 
@@ -128,7 +128,7 @@ citation_aliases:
 
 > [!example]- 诺贝尔演讲中提到导师的具体例子
 >
-> **1974 年 Christian de Duve**。「My debt goes also to my early mentors in science: Joseph Bouckaert, Joseph Maisin, Hugo Theorell, Carl and Gerty Cori, Earl Sutherland. Four of them have preceded me on this podium.」（我还要感谢我在科学领域的早期导师：Joseph Bouckaert、Joseph Maisin、Hugo Theorell、Carl 和 Gerty Cori、Earl Sutherland。他们中的四位已经先于我登上了这个讲台。）
+> **1974 年 Christian de Duve**。「My debt goes also to my early mentors in science: Joseph Bouckaert, Joseph Maisin, Hugo Theorell, Carl and Gerty Cori, Earl Sutherland. Four of them have preceded me on this podium.」（我还要感谢我在科学领域的早期导师：Joseph Bouckaert、Joseph Maisin、Hugo Theorell、Carl and Gerty Cori、Earl Sutherland。他们中的四位已经先于我登上了这个讲台。）
 >
 > **1976 年 Baruch Blumberg**。「Oliver Smithies (who had been a graduate student of A. G. Ogston, my mentor at Oxford)」（Oliver Smithies，他曾是我在牛津的导师 A. G. Ogston 的研究生）
 >
@@ -136,7 +136,7 @@ citation_aliases:
 >
 > **1998 年 Louis Ignarro**。「My father encouraged a love of science by example, and it was carefully nurtured by my doctoral and postdoctoral mentors – Theodore W. Rall, who perhaps should have won a Nobel Prize, and Marshall W. Nirenberg, who did not」（我父亲以身作则鼓励我对科学的热爱，这种热爱被我的博士和博士后导师悉心培育——Theodore W. Rall，他 perhaps 应该获得诺贝尔奖，以及 Marshall W. Nirenberg，他确实获得了）
 >
-> **2002 年 H. Robert Horvitz**。「Foremost, I want to thank my two mentors, Van R. Potter and George E. Palade」（首先，我要感谢我的两位导师 Van R. Potter 和 George E. Palade）
+> **2002 年 H. Robert Horvitz**。「Foremost, I want to thank my two mentors, Van R. Potter and George E. Palade」（首先，我要感谢我的两位导师 Van R. Potter and George E. Palade）
 >
 > **2006 年 Craig Mello**。「I owe a tremendous amount of thanks to Dan Stinchcomb, for teaching me molecular biology and really being a fantastic mentor during my initial years in graduate school」（我非常感谢 Dan Stinchcomb，感谢他教我分子生物学，在我研究生院的最初几年里确实是一位出色的导师）
 >
@@ -152,7 +152,7 @@ citation_aliases:
 >
 > 拉斯克奖常被视为获得诺贝尔奖的前奏(Marks, 1989; Naylor & Bell, 2015)。拉斯克奖仅于 1945 年设立，且获奖感言只有 3-4 分钟（vs 诺贝尔演讲的 30-40 分钟）。
 >
-> 在 2014-2023 年的 10 年间，7 位获奖者在演讲中提到了导师，其中一些人多次提到。James Fujimoto 在 2023 年提到了他的导师，Max Cooper、H. Michael Shepard（两次）和 Dennis Salmon 在 2019 年，William Kaelin（两次）在 2016 年，Kazutoshi Mori 和 Alim Louis Benabid 在 2014 年。这一发现使得诺贝尔演讲中缺乏明确[[Mentorship Recognition|导师致谢]]的现象更加令人惊讶。
+> 在 2014-2023 年的 10 年间，7 位获奖者在演讲中提到了导师，其中一些人多次提到。James Fujimoto 在 2023 年提到了他的导师，Max Cooper、H. Michael Shepard（两次）和 Dennis Salmon 在 2019 年，William Kaelin（两次）在 2016 年，Kazutoshi Mori and Alim Louis Benabid 在 2014 年。这一发现使得诺贝尔演讲中缺乏明确[[Mentorship Recognition|导师致谢]]的现象更加令人惊讶。
 
 > [!example] 奥斯卡奖的对比
 >

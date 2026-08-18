@@ -124,7 +124,7 @@ updated: 2026-07-08
 ## 发展脉络
 
 > [!timeline] 发展脉络
-> - **1978–1979** Foucault 在法兰西学院讲座 Security_Territory_Population 和 The Birth of Biopolitics 中系统阐述治理术概念
+> - **1978–1979** Foucault 在法兰西学院讲座 Security_Territory_Population and The Birth of Biopolitics 中系统阐述治理术概念
 > - **1980s** 治理术概念被引入英语学术界，引发"治理术研究"（governmentality studies）浪潮（Burchell, Gordon & Miller, 1991）
 > - **1990s–2000s** 治理术分析被广泛应用于教育研究，包括[[Lifelong Learning|终身学习]]治理（Olssen, 2006）、高等教育[[New Public Management|新公共管理]]（Dean, 2010）、[[International Education|国际教育]]政策比较研究
 > - **2008** 教育社会学史本身也可被治理术化地理解：[[Political Arithmetic]]、[[New Sociology of Education]] 和 [[School Effectiveness]] 分别把家庭、学校知识和学校组织构造成可见、可描述、可干预的政策对象（[[Argument_Ball_2008_SR|Ball, 2008, pp.651, 654-665]]）

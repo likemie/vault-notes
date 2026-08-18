@@ -3,7 +3,7 @@ title: Quantum Opportunity Program
 aliases:
   - 量子机会计划
   - QOP
-summary: "Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本"
+summary: "Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP and Eisenhower QOP 两个项目版本"
 type: fact
 subtype: event
 region: us

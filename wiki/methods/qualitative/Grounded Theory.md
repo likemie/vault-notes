@@ -58,7 +58,7 @@ updated: 2026-08-16
 ## 定义
 
 > [!info]
-> 扎根理论（Grounded Theory）是一种源自社会学的[[Qualitative Research|质性研究]]设计。通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。其主要代表人物包括 Charmaz（[[Constructivist Paradigm|建构主义]]取向）、Corbin 和 Strauss（系统化取向），以及创始者 Glaser & Strauss（1967）。
+> 扎根理论（Grounded Theory）是一种源自社会学的[[Qualitative Research|质性研究]]设计。通过多阶段数据收集和信息类别的精炼与相互关系，从参与者的视角中归纳推导出一个关于某一过程、行动或互动的一般性抽象理论。该理论根植于（grounded in）参与者的观点和数据之中（Charmaz, 2006; Corbin & Strauss, 2007, 2015）。其主要代表人物包括 Charmaz（[[Constructivist Paradigm|建构主义]]取向）、Corbin and Strauss（系统化取向），以及创始者 Glaser & Strauss（1967）。
 
 ## 研究程序
 

@@ -45,7 +45,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 核心定义
-> **Disciplina 与 Doctrina** 是西方教育史和知识社会学中用于界定知识传递与方式的一对经典二元概念。**Disciplina（规训/教规）** 关注对既有、已发现知识的灌输与巩固，侧重维持秩序和正误纠正；**Doctrina（教学/教义/更新）** 则是指发展、质疑和更新知识的动态系统（Stichweh, 2001, cited in [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。在现代教育政策中，这对概念被用于批判以测量和结果为导向的机械问责，并呼吁恢复教学的开放与批判面向（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]）。
+> **Disciplina and Doctrina** 是西方教育史和知识社会学中用于界定知识传递与方式的一对经典二元概念。**Disciplina（规训/教规）** 关注对既有、已发现知识的灌输与巩固，侧重维持秩序和正误纠正；**Doctrina（教学/教义/更新）** 则是指发展、质疑和更新知识的动态系统（Stichweh, 2001, cited in [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。在现代教育政策中，这对概念被用于批判以测量和结果为导向的机械问责，并呼吁恢复教学的开放与批判面向（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义**`disciplina` 指向知识被发现后在学科库中的沉淀与外在规训灌输；`doctrina` 指向知识系统的自我更新、生产与开放研究。

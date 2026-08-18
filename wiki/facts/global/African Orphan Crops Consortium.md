@@ -4,7 +4,7 @@ aliases:
   - "非洲孤儿作物联盟"
   - "AOCC"
   - "African Orphan Crops Consortium"
-summary: "2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家"
+summary: "2011 年由 Mars、非盟 NEPAD、WWF and UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家"
 type: fact
 subtype: organization
 region: global

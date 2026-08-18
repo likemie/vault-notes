@@ -59,17 +59,17 @@ updated: 2026-06-08
 ## 历史发展
 
 > [!note]- 历史发展
-> **Fraser, Walberg 与 Hattie（1987）——首次大规模综合**
+> **Fraser, Walberg and Hattie（1987）——首次大规模综合**
 >
-> Glass 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg 和 Hattie 团队综合了 226 项[[Meta-analysis|元分析]]，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的禀赋性、教学性和环境性[[Variable|变量]]。这是教育领域最早的系统性比较性[[Meta-meta-analysis|元综合]]之一([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
+> Glass 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg and Hattie 团队综合了 226 项[[Meta-analysis|元分析]]，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的禀赋性、教学性和环境性[[Variable|变量]]。这是教育领域最早的系统性比较性[[Meta-meta-analysis|元综合]]之一([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
 >
 > **Hattie（1992）——通用连续体**
 >
 > Hattie 综合了 Fraser et al.（1987）中的 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究和 500 至 1500 万学生。他引入通用连续体概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40。最大效应量来自反馈相关干预（强化 1.13），最低来自[[Individualised Instruction|个别化教学]]（0.14）([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
 >
-> **Sipe 与 Curlette（1997）——系统性方法论推进**
+> **Sipe and Curlette（1997）——系统性方法论推进**
 >
-> Sipe 和 Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行[[Moderator Analysis|调节变量分析]]。他们估计其纳入的元分析与 Fraser et al.和 Hattie的重叠不到 10%([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
+> Sipe and Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行[[Moderator Analysis|调节变量分析]]。他们估计其纳入的元分析与 Fraser et al.和 Hattie的重叠不到 10%([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
 >
 > **Marzano（1998）——理论驱动的元综合**
 >

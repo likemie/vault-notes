@@ -167,7 +167,7 @@ updated: 2026-07-19
 >
 > - **教育研究中的方法论整合**
 >
->   近年来，虚拟世界与[[Projection Technique|投射技术]]、基于主体建模和[[Mixed Methods Research|混合方法研究]]的方法论整合日益深入。Second Life 和 Club Penguin 等平台成为使用包容性研究[[Praxis|实践]]的合作环境范例，研究者和对象以平等条件合作，提供了发展理想言说场景的机会（Rybas & Gajjala, 2007; Sheehy, 2010）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 167–168]]）。
+>   近年来，虚拟世界与[[Projection Technique|投射技术]]、基于主体建模和[[Mixed Methods Research|混合方法研究]]的方法论整合日益深入。Second Life and Club Penguin 等平台成为使用包容性研究[[Praxis|实践]]的合作环境范例，研究者和对象以平等条件合作，提供了发展理想言说场景的机会（Rybas & Gajjala, 2007; Sheehy, 2010）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19, pp. 167–168]]）。
 
 ---
 

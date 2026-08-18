@@ -445,7 +445,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 ##### [[Semantic Differential|语义差异量表]]
 
 > [!def] 语义差异量表
-> [[Semantic Differential|语义差异量表]]是[[Rating Scale|评定量表]]的变体，将一个形容词放在量表一端，其反义词放在另一端。受访者在量表上最能代表其感受的位置画圈或做标记。由 Osgood、Suci 和 Tannenbaum 于 1957 年开发（pp. 129–130）。详见 [[Semantic Differential|语义差异量表]]条目。
+> [[Semantic Differential|语义差异量表]]是[[Rating Scale|评定量表]]的变体，将一个形容词放在量表一端，其反义词放在另一端。受访者在量表上最能代表其感受的位置画圈或做标记。由 Osgood、Suci and Tannenbaum 于 1957 年开发（pp. 129–130）。详见 [[Semantic Differential|语义差异量表]]条目。
 
 > [!example] 语义差异量表示例
 > 你认为这套新的历史教科书信息量如何？

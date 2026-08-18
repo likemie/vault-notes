@@ -80,7 +80,7 @@ updated: 2026-05-23
 ### 苏格拉底式辅导中的骄傲社会化
 
 > [!success]
-> Li 与 Heidi Fung 的母子[[Dialogue in Education|对话]]研究（第 7 章）直接观察到了欧裔美国母亲如何通过日常对话将骄傲**主动教给**儿童([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> Li and Heidi Fung 的母子[[Dialogue in Education|对话]]研究（第 7 章）直接观察到了欧裔美国母亲如何通过日常对话将骄傲**主动教给**儿童([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 在[[Discourse Analysis|话语分析]]中，欧裔美国母亲将骄傲定位为对学习成就的**标准情感反应**。一个典型例子是母亲与八岁儿子 Ian 的对话：Ian 在班上出色地呈现了莎士比亚的《罗密欧与朱丽叶》，"每个人都印象深刻"。母亲明确指出两种骄傲：
 

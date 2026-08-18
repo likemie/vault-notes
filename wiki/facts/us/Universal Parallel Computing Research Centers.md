@@ -4,7 +4,7 @@ aliases:
   - 通用并行计算研究中心
   - UPCRC
   - Intel Microsoft UPCRC
-summary: "2008 年 Intel 与 Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley 和 UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折"
+summary: "2008 年 Intel and Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley and UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折"
 type: fact
 subtype: event
 region: us
@@ -51,8 +51,8 @@ updated: 2026-06-03
 ## 经过
 
 > [!note]-
-> - **2008 年 3 月** Intel 和 Microsoft 联合宣布启动通用并行计算研究中心（UPCRC），资助 UC Berkeley 和 UIUC 两所大学进行大规模并行编程[[Blue Skies Research|基础研究]]（Green, 2008，转引自 p.234）
-> - **2008–2013 年** UPCRC 在两个站点运行，产出大量并行编程技术（如 Berkeley 的 Spark 和 Ray 等分布式计算框架的前身研究）
+> - **2008 年 3 月** Intel and Microsoft 联合宣布启动通用并行计算研究中心（UPCRC），资助 UC Berkeley and UIUC 两所大学进行大规模并行编程[[Blue Skies Research|基础研究]]（Green, 2008，转引自 p.234）
+> - **2008–2013 年** UPCRC 在两个站点运行，产出大量并行编程技术（如 Berkeley 的 Spark and Ray 等分布式计算框架的前身研究）
 > - **2012 年 10 月**[[National Science Foundation|NSF]] 启动 XPS（Exploiting Parallelism and Scalability）项目，以政府资金接力和放大 Intel-Microsoft 的先期投入（p.235）
 > - **后续影响** 并行编程技术逐步成熟并被纳入全球计算机科学课程，完成了从全行业危机到普及化技术基础的过渡（p.235）
 
@@ -76,10 +76,10 @@ updated: 2026-06-03
 > - UPCRC "帮助重新定位了整个编程社区"在半导体技术关键转折点上的方向（p.235）
 > - 创造了"企业先行投入→政府接力放大"的序列模式：[[National Science Foundation|NSF]] XPS 项目和其他大规模政府资助项目在 UPCRC 之后持续跟进（p.235）
 > - 并行编程技术已被纳入全球计算机科学课程——这是[[Research Translation|研究转化]]在生态系统层面取得成功的标志（p.235）
-> - 从 UPCRC 研究的 Berkeley 实验室中产出了 Apache Spark 和 Ray 等重要分布式计算框架，后者分别支撑了 Databricks 和 Anyscale 等独角兽企业，并成为 OpenAI ChatGPT 的基础设施（Ray）（McManus, 2023，转引自 p.232）
+> - 从 UPCRC 研究的 Berkeley 实验室中产出了 Apache Spark and Ray 等重要分布式计算框架，后者分别支撑了 Databricks and Anyscale 等独角兽企业，并成为 OpenAI ChatGPT 的基础设施（Ray）（McManus, 2023，转引自 p.232）
 
 > [!abstract]
-> UPCRC 案例的核心教训：只有成熟行业领导者（Intel 和 Microsoft 当时的情况）才有视野感知"全行业级别"的问题、有资源进行"扭转局面"级别的大规模投资。在公司生命周期（参见 [[Academic Engagement Team|AET]] 的组织演化框架）的特定阶段，[[University-Industry Collaboration|产学合作]]的最高价值不是单个公司的产品回报，而是推动整个技术生态系统的[[Paradigm|范式转换]]（p.235）。
+> UPCRC 案例的核心教训：只有成熟行业领导者（Intel and Microsoft 当时的情况）才有视野感知"全行业级别"的问题、有资源进行"扭转局面"级别的大规模投资。在公司生命周期（参见 [[Academic Engagement Team|AET]] 的组织演化框架）的特定阶段，[[University-Industry Collaboration|产学合作]]的最高价值不是单个公司的产品回报，而是推动整个技术生态系统的[[Paradigm|范式转换]]（p.235）。
 
 ---
 

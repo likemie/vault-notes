@@ -41,7 +41,7 @@ updated: 2026-07-08
 ## 定义
 
 > [!info]
-> Junzi（君子）是儒家传统中仅次于[[Sage|圣人]]的理想人格，指那些终身致力于追求仁（ren）并已走过相当距离的[[Self-Cultivation|修身]]者。Li 认为 Ames 和 Rosemont 将其译为 exemplary person（典范之人）比传统的 gentleman（绅士）或 nobleman（贵族）更能传达其含义([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])。
+> Junzi（君子）是儒家传统中仅次于[[Sage|圣人]]的理想人格，指那些终身致力于追求仁（ren）并已走过相当距离的[[Self-Cultivation|修身]]者。Li 认为 Ames and Rosemont 将其译为 exemplary person（典范之人）比传统的 gentleman（绅士）或 nobleman（贵族）更能传达其含义([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])。
 
 > [!quote]
 > Junzi 在《论语》中出现了 91 次，是[[Confucius|孔子]]讨论和品味最多的概念([[Argument_Li_2012_Cambridge|Li, 2012, p.41]])。Rosemont 描述君子：

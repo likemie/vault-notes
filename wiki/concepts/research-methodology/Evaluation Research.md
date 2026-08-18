@@ -120,7 +120,7 @@ updated: 2026-06-17
 > - **1960s–1970s** 大规模社会项目评估兴起，评估研究作为独立领域开始形成。
 > - **1987** MacDonald 发表三类评估政治类型学（专制型/官僚型/民主型），将评估研究的政治维度系统化，并主张研究应被定义为评估的分支而非相反。
 > - **1990s** [[Categorical Funding|分类资助]]大幅增长，评估研究在教育研究中的占比持续上升，Burgess（1993）等人指出研究者正转变为"合同工"。
-> - **1994** Stronach 和 Morris 识别"[[Conformative Evaluation|顺应性评估]]"现象，描述政治化压力下评估研究的异化形态。
+> - **1994** Stronach and Morris 识别"[[Conformative Evaluation|顺应性评估]]"现象，描述政治化压力下评估研究的异化形态。
 > - **2000s** [[Evidence-Based Education|证据本位教育]]（evidence-based education）运动进一步模糊评估研究与政策研究的边界。
 
 ---

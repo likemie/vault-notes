@@ -117,9 +117,9 @@ updated: 2026-07-11
 ## 概念演变
 
 > [!dev-timeline] 发展脉络
-> - **2006 — 概念提出与空间解构** Jenny Ozga 与 Roger Jones 首次阐明 travelling policy，关注跨国新自由主义改革如何绕过国家机器通过话语直接在地方学校网络中发生作用。
+> - **2006 — 概念提出与空间解构** Jenny Ozga and Roger Jones 首次阐明 travelling policy，关注跨国新自由主义改革如何绕过国家机器通过话语直接在地方学校网络中发生作用。
 > - **2009 — [[Policy Network|政策网络]]与空间流变整合** Beech 指出大国和多边组织通过跨国流转构筑“全球花园”，比较教育必须用新词汇突破“输入-输出”二元论；Cowen 提出 [[Transfer Translation Transformation|3T 框架]]将“变形”引入政策旅行流。([[Argument_Beech_2009_CE|Beech, 2009]])
-> - **2012 — 协调与对齐实证** Steiner-Khamsi 与 Waldow 编著《教育[[Policy Borrowing|政策借用]]与出借世界年鉴》，聚焦协调（harmonisation）和标准化（standardisation）作为旅途政策的主要制度化对齐方式。
+> - **2012 — 协调与对齐实证** Steiner-Khamsi and Waldow 编著《教育[[Policy Borrowing|政策借用]]与出借世界年鉴》，聚焦协调（harmonisation）和标准化（standardisation）作为旅途政策的主要制度化对齐方式。
 > - **2023 — [[Actor-Network Theory|行动者网络理论]]（ANT）的全面耦合** Klerides 阐述在[[Rationalism in International Relations|理性主义]]传统下，政策作为“非人类行动者”在异质网格（Actor-Network）中的流动，完成了从传统的静态对比到[[Snowball Sampling|网络化]]动态分析的学科演变。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])
 
 ---

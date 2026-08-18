@@ -103,8 +103,8 @@ updated: 2026-07-11
 ## 概念演变
 
 > [!dev-timeline] 发展脉络
-> - **2019 — 概念明确提出** Iveta Silova 与 Euan Auld 撰文 *'Banal' Imperialism and [[International Education]] Performance Data*，揭示了全球测评排名数据作为新帝国主义的日常化微观运作机制。(Silova & Auld, 2019)
-> - **2020 — 认识地平线重构** Silova、Rappleye 和 Auld 倡导超越西方认识地平线，解构转让与数据流动在去殖民转向中的合谋。
+> - **2019 — 概念明确提出** Iveta Silova and Euan Auld 撰文 *'Banal' Imperialism and [[International Education]] Performance Data*，揭示了全球测评排名数据作为新帝国主义的日常化微观运作机制。(Silova & Auld, 2019)
+> - **2020 — 认识地平线重构** Silova、Rappleye and Auld 倡导超越西方认识地平线，解构转让与数据流动在去殖民转向中的合谋。
 > - **2023 — 国关理论的系统熔炼** Klerides 将“平庸的帝国主义”引入 Martin Wight 的三大传统框架，说明其作为[[Realism in International Relations|现实主义]]与[[Rationalism in International Relations|理性主义]]杂交的混合表征，如何隐蔽地服务于西方的[[Re-Westernisation|再西方化]]安全与地缘利益。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 429]])
 
 ---

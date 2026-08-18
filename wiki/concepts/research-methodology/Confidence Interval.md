@@ -106,7 +106,7 @@ updated: 2026-06-22
 
 ### CI 在抽样设计中的角色
 
-> [!claim] CI 与 CL 共同决定[[Sample Size Determination|样本量]]
+> [!claim] CI and CL 共同决定[[Sample Size Determination|样本量]]
 > 置信水平越高（99% vs 95%）→ $Z$ 值越大 → 所需 $n$ 越大。置信区间越窄（$\pm 3\%$ vs $\pm 5\%$）→ $e$ 越小 → 所需 $n$ 越大。两者通过 $n = (Z \cdot \sigma / e)^2$ 联合驱动样本量。抽样设计的常规折中是 95% CL + $\pm 3\%$ CI。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al. (2011, Ch. 8, pp. 147–148)]]
 
 > [!claim] 384 天花板的 CI 解释
@@ -142,7 +142,7 @@ updated: 2026-06-22
 ## 应用案例
 
 > [!case] [[Visible Learning]]
-> Hattie 排名仅列出 $d$ 值，未系统报告各干预的 CI/SE，成为 Allerup 和 Wecker et al. 方法论批评的共同焦点。缺失 CI 意味着读者无法判断相邻排名的差异是真实效应还是估计噪声。
+> Hattie 排名仅列出 $d$ 值，未系统报告各干预的 CI/SE，成为 Allerup and Wecker et al. 方法论批评的共同焦点。缺失 CI 意味着读者无法判断相邻排名的差异是真实效应还是估计噪声。
 
 > [!case] [[Rasch Measurement]] 与 [[PISA]]
 > [[PISA]] 等国际评估中的 Rasch 分数排名通常伴随误差区间，能帮助读者避免过度解释相邻排名——这是 CI 在报告[[Praxis|实践]]中的正面案例。[[Argument_Allerup_2015_Paideia|Allerup (2015, pp. 47–48)]]
@@ -159,5 +159,5 @@ updated: 2026-06-22
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Meta-analysis]] | 方法 | 元分析中平均[[Effect Size\|效应量]]需伴随 [[School Effectiveness\|SE]] 或 CI 才能说明估计精度。 |
-> | [[Meta-meta-analysis]] | 方法 | 联合 SE 和 CI 是二级元分析报告联合效应量时的必要信息。[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]] |
-> | [[Sample Size Determination]] | 概念 | CI 和 CL 是确定概率样本量的两个核心参数。 |
+> | [[Meta-meta-analysis]] | 方法 | 联合 SE and CI 是二级元分析报告联合效应量时的必要信息。[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]] |
+> | [[Sample Size Determination]] | 概念 | CI and CL 是确定概率样本量的两个核心参数。 |

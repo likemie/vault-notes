@@ -202,8 +202,8 @@ updated: 2026-08-04
 
 > [!dev-timeline] [[Construct|构念]]效度概念的演变
 > - **1957 年　效度解释的统摄位置** Loevinger 将构念效度称为效度类型的女王，强调其含摄性。内容和外部效标证据需要回到构念解释中说明意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 225)]]
-> - **1959 年　收敛与区分证据系统化** Campbell 和 Fiske 提出用多方法、多特质关系检验同一构念的收敛及不同构念的区分，使构念效度获得可操作的经验检验路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 176–178)]]
-> - **1990 年代　质性范畴与参与者意义进入效度判断** Eisenhart 和 Howe 强调研究范畴应反映参与者实际体验，使构念效度从预设量表结构扩展到研究者解释与行动者意义的对应。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 177)]]
+> - **1959 年　收敛与区分证据系统化** Campbell and Fiske 提出用多方法、多特质关系检验同一构念的收敛及不同构念的区分，使构念效度获得可操作的经验检验路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 176–178)]]
+> - **1990 年代　质性范畴与参与者意义进入效度判断** Eisenhart and Howe 强调研究范畴应反映参与者实际体验，使构念效度从预设量表结构扩展到研究者解释与行动者意义的对应。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 177)]]
 > - **2010 年代　构念效度进入课程与评估文本审查** Hughes 将课程目标、评估目标和评分描述符与[[Critical Thinking|批判性思维]]框架对照，展示内部对齐、构念覆盖和任务证据可以被分别分析。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 35, 38–43)]]
 
 ---

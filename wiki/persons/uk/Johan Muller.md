@@ -40,14 +40,14 @@ updated: '2026-06-08'
 ## 简介
 
 > [!info] 简介
-> Johan Muller 是南非裔英国教育社会学家，[[Social Realism|社会实在论]]的核心学者之一。他的工作源自涂尔干传统，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。Muller 与 Young 共同提出了[[Powerful Knowledge|有力知识]]概念，并将[[Curriculum Design Coherence Model|课程设计连贯性模型]]描述为「从社会实在论首要原则推导出的演绎模型」（Muller, 2022, p.11, 引自）。
+> Johan Muller 是南非裔英国教育社会学家，[[Social Realism|社会实在论]]的核心学者之一。他的工作源自涂尔干传统，由 Moore (2007, 2013)、Muller (2009, 2022) 和 Young (2008) 等学者发展([[Argument_McPhail_2023_JCS|McPhail et al., 2023]])。Muller and Young 共同提出了[[Powerful Knowledge|有力知识]]概念，并将[[Curriculum Design Coherence Model|课程设计连贯性模型]]描述为「从社会实在论首要原则推导出的演绎模型」（Muller, 2022, p.11, 引自）。
 
 ---
 
 ## 核心思想
 
 > [!tip]- [[Powerful Knowledge|有力知识]]
-> Muller 与 Young (2010, 2019) 共同提出了有力知识概念。有力知识指来自学科的、具有独特禀赋的知识，它不同于日常生活经验，具有可概括性。Muller & Young (2019) 重新审视了知识、权力和有力知识的关系（引自 McPhail et al., 2023）。
+> Muller and Young (2010, 2019) 共同提出了有力知识概念。有力知识指来自学科的、具有独特禀赋的知识，它不同于日常生活经验，具有可概括性。Muller & Young (2019) 重新审视了知识、权力和有力知识的关系（引自 McPhail et al., 2023）。
 
 > [!tip]- 知识形式与课程连贯性
 > Muller (2009) 关注知识形式与课程连贯性的关系，认为学科知识的结构为课程设计提供了内在逻辑。他将[[Curriculum Design Coherence Model|课程设计连贯性模型]]描述为「从[[Social Realism|社会实在论]]首要原则推导出的演绎模型」（Muller, 2022, p.11, 引自 [[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）。

@@ -127,7 +127,7 @@ updated: 2026-07-19
 > - **1966** — Robert Rosenthal 出版 Experimenter Effects in Behavioral Research，包含大量标准化平均差异的计算并跨领域比较。Glass 本人承认 Rosenthal 发展了效应量的基础度量。
 > - **1969** — [[Jacob Cohen]] 出版 [[Power Analysis|statistical power analysis]] for the Behavioral Sciences 第 1 版，引入 Cohen's d 作为标准化均值差的度量。
 > - **1976** — [[Gene Glass]] 提出[[Meta-analysis|元分析]]概念，将效应量作为跨研究比较的标准化工具([[Argument_Higgins_2016_RE|Higgins, 2016, pp.36–37]])。
-> - **1980** — Cooper 和 Rosenthal 的实证检验表明，[[Meta-analysis|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
+> - **1980** — Cooper and Rosenthal 的实证检验表明，[[Meta-analysis|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
 > - **1988** — Cohen 出版 Statistical Power Analysis 第 2 版，以身高类比等直观方式解释效应量的实质含义([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])。
 > - **2009** — [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和[[Praxis|实践]]话语。
 > - **2014** — [[EEF Teaching and Learning Toolkit]] 以效应量转换为"额外学习月数"的格式传播教育干预证据。
@@ -225,7 +225,7 @@ updated: 2026-07-19
 > [!info] Kraft 的经验基准
 > [[Argument_Kraft_2023_ER|Kraft (2023)]]主张以教育干预随机对照试验中标准化[[Academic Achievement|学业成就]]效应量的经验分布替代 Cohen 的 $0.2/0.5/0.8$ 通用锚点。他在 3,426 个效应量中发现分布相当稳定：30 百分位 0.02、50 百分位 0.10、70 百分位 0.21（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.183–184]]）。
 >
-> Kraft 的基准同时考虑年度学习增益、教师与学校效应等经验参照点，聚焦"正向效应量的政策相关性"，因此承认这些基准具有主观性——更合适的做法是随新增研究检验既有基准在分布中的相对排名（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.185-186]]）。Kraft 与 Simpson 的分歧在于：Simpson（2021）认为跨研究效应量因设计、测量、样本差异而本质不可比；Kraft 则认为完全禁止比较会削弱证据本位政策，只要承认噪声和限制，仍可从因果研究中获得粗略参照，但同意按"联盟表"排名是可疑的（[[Argument_Kraft_2023_ER|Kraft, 2023, p.184]]）。
+> Kraft 的基准同时考虑年度学习增益、教师与学校效应等经验参照点，聚焦"正向效应量的政策相关性"，因此承认这些基准具有主观性——更合适的做法是随新增研究检验既有基准在分布中的相对排名（[[Argument_Kraft_2023_ER|Kraft, 2023, pp.185-186]]）。Kraft and Simpson 的分歧在于：Simpson（2021）认为跨研究效应量因设计、测量、样本差异而本质不可比；Kraft 则认为完全禁止比较会削弱证据本位政策，只要承认噪声和限制，仍可从因果研究中获得粗略参照，但同意按"联盟表"排名是可疑的（[[Argument_Kraft_2023_ER|Kraft, 2023, p.184]]）。
 
 ---
 

@@ -82,7 +82,7 @@ updated: '2026-05-23'
 ## 运作模式
 
 > [!info]
-> Cognition 不是单一公司，而是由 Cognition Education Trust 与 Cognition Education Limited 及其子公司构成的双层结构。Trust 是唯一股东，商业公司负责运营，利润再通过捐赠和投资基金回流到教育公益与资助项目（grant programme），这使商业扩张和公益合法性被组织成同一条叙事。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.7, p.69-73]])
+> Cognition 不是单一公司，而是由 Cognition Education Trust and Cognition Education Limited 及其子公司构成的双层结构。Trust 是唯一股东，商业公司负责运营，利润再通过捐赠和投资基金回流到教育公益与资助项目（grant programme），这使商业扩张和公益合法性被组织成同一条叙事。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.7, p.69-73]])
 >
 > 到 2010 年代中期，Cognition 自我描述为把学习科学（learning science）[[Transfer Translation Transformation|转译]]为面向学校、社区与政府的实际服务，业务横跨研究、专业学习、国际咨询、数字产品和校车运输等多个板块；O'Neill 等据此把它界定为新西兰最大的[[Educational Management Organisation|教育管理组织]]（EMO），而不是单一培训公司。([[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp.65-68]])
 
@@ -102,7 +102,7 @@ updated: '2026-05-23'
 >
 > 这一新事业部门（division）在 2011 年第一年收入已接近 200 万，次年接近 270 万，且利润率高于公司此前长期依赖的工资业务（payroll），因此很快被视为可以替代旧收入锚点的高利润知识产品。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.59-60；Johnson & Janzen, 2023, p.30]])
 >
-> Cognition 没有在各国自建重型分公司，而是先借麦克米兰（Macmillan）处理澳大利亚销售，再把 James Nottingham Associates、Osiris 和 Corwin 等机构纳入地区授权网络，以授权方（licensor）身份扩张 VL，减少跨国设点所需的资本、合规与品牌风险。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.60；O'Neill et al., 2016, p.67]])
+> Cognition 没有在各国自建重型分公司，而是先借麦克米兰（Macmillan）处理澳大利亚销售，再把 James Nottingham Associates、Osiris and Corwin 等机构纳入地区授权网络，以授权方（licensor）身份扩张 VL，减少跨国设点所需的资本、合规与品牌风险。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.60；O'Neill et al., 2016, p.67]])
 
 ## 争议与评论
 

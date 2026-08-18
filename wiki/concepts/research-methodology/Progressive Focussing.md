@@ -64,7 +64,7 @@ updated: 2026-07-11
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1976 — 提出阶段** Parlett 和 Hamilton 在"作为启明的评估"（Evaluation as Illumination）[[Paradigm|研究范式]]中提出逐步聚焦，用于应对改革项目的复杂性和质性数据的庞大量。
+> - **1976 — 提出阶段** Parlett and Hamilton 在"作为启明的评估"（Evaluation as Illumination）[[Paradigm|研究范式]]中提出逐步聚焦，用于应对改革项目的复杂性和质性数据的庞大量。
 > - **1980s — 被纳入[[Qualitative Research|质性研究]]方法论** Miles & Huberman（1984）将逐步聚焦逻辑纳入其质性数据[[Analytic Framework|分析框架]]，强调[[Data Reduction and Data Display|数据缩减]]和展示的重要性。
 > - **2000s — 与[[Longitudinal Study|纵向研究]]结合** 在纵向质性研究中，逐步聚焦帮助研究者管理持续涌入的新数据，在跨截面分析（cross-sectional）和纵向[[Narrative Analysis|叙事分析]]（longitudinal narrative）之间取得平衡。
 

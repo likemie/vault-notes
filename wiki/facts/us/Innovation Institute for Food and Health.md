@@ -4,7 +4,7 @@ aliases:
   - "食品与健康创新研究所"
   - "IIFH"
   - "Innovation Institute for Food and Health"
-summary: "2015 年 Mars 与 UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议"
+summary: "2015 年 Mars and UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议"
 type: fact
 subtype: organization
 region: us
@@ -41,7 +41,7 @@ updated: 2026-06-02
 ## 概述
 
 > [!info]
-> 食品与健康创新研究所（Innovation Institute for Food and Health, IIFH）于 2015 年由 Mars 与 UC Davis 共同建立，愿景是"让我们所爱的食物对全人类和地球更健康"（p.321）。IIFH 是 Mars 与 UC Davis 四十年合作从项目到网络再到平台三阶段演化中第三阶段的代表性产物，即制度化创新平台。
+> 食品与健康创新研究所（Innovation Institute for Food and Health, IIFH）于 2015 年由 Mars and UC Davis 共同建立，愿景是"让我们所爱的食物对全人类和地球更健康"（p.321）。IIFH 是 Mars and UC Davis 四十年合作从项目到网络再到平台三阶段演化中第三阶段的代表性产物，即制度化创新平台。
 
 ## 运作模式
 

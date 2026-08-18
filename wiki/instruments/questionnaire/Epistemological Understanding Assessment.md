@@ -69,7 +69,7 @@ updated: 2026-08-17
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 情境题（由两名虚构人物 Robin 和 Chris 提出相互对立的陈述）。
+> - **题项形式** 情境题（由两名虚构人物 Robin and Chris 提出相互对立的陈述）。
 > - **作答格式** 结构化的两步多项选择。
 >   1. 第一步判断主观性（绝对论筛选题）："Can only one of their views be right, or could both have some rightness?"（仅有一方观点正确，还是双方的观点都可能具有一定的合理性？）
 >      - 选项 A：ONLY ONE RIGHT（仅一方正确） $\rightarrow$ 判定为**绝对论者 (Absolutist)**。

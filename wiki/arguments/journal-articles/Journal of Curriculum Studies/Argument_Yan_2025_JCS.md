@@ -188,7 +188,7 @@ LS 的课程设计直接回应了这些批评。《通识教育科课程及评�
 
 LS 的课程设计大量参照了国际文凭大学预科课程（[[IB Diploma Programme|International Baccalaureate Diploma Programme]], IBDP）。Forestier et al.(2016)识别出三个主要参照领域。
 
-> [!example] LS 与 IBDP 的三个对应关系
+> [!example] LS and IBDP 的三个对应关系
 > | LS 组件 | IBDP 对应组件 | 共同特征 |
 > |---|---|---|
 > | 其他学习经历 | 创造、行动与服务（Creativity, Activity, Service, [[Creativity, Action, Service\|CAS]]） | 强调学生对社区的参与 |

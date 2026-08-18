@@ -129,10 +129,10 @@ Kelly 的理论来自临床经验。他观察到个体主动理解世界并扩�
 > [!dev-timeline] 发展脉络
 > - **1955 — 理论创立** Kelly 出版 *The Psychology of [[Personal Constructs]]*，提出完整的形式化人格理论，包含基本公设和十一条推论，以及"[[Repertory Grid Technique|角色建构库测验]]"的原始版本。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(pp. 4–5)]]
 > - **1965 — [[Laddering|阶梯法]]诞生** Hinkle 将"蕴含"概念与组织推论链接，开发阶梯法和蕴含网格（Impgrid），将理论从静态建构描述扩展为建构层级关系的动态探索工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]
-> - **1968 — 方法化整合** Bannister 和 Mair 出版 *The Evaluation of Personal [[Construct|constructs]]*，系统阐述 repertory grid 的方法论框架，包括提供构念与引发构念的调和立场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]
+> - **1968 — 方法化整合** Bannister and Mair 出版 *The Evaluation of Personal [[Construct|constructs]]*，系统阐述 repertory grid 的方法论框架，包括提供构念与引发构念的调和立场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]
 > - **1969 — Kelly 的转向** Kelly 后期逐渐远离极其形式化的理论陈述（Butt, 2008 提供了这一更广阔视角的良好介绍）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 4)]]
 > - **1978 — 评分形式普及** 评分形式取代原始的分类分配方式成为主流，虽然引入了中点评分含义等问题，但极大简化了数据收集和分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 8)]]
-> - **1988 — 消费者研究扩散** Reynolds 和 Gutman 将阶梯法系统引入消费者认知研究，从产品属性阶梯到消费者价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 9)]]
+> - **1988 — 消费者研究扩散** Reynolds and Gutman 将阶梯法系统引入消费者认知研究，从产品属性阶梯到消费者价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 9)]]
 > - **2004 — Bell 的新指数** Bell 设计了测量网格评分不一致性的新指数，可应用于教育研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25|(p. 18)]]
 
 ---

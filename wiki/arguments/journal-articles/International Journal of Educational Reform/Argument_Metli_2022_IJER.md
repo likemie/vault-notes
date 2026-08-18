@@ -156,7 +156,7 @@ issuing_organization: ""
 > - **EE 阶段** 在视觉艺术学科的 EE 中，进一步从艺术与破坏的双重角度探究涂鸦，提出研究问题“涂鸦如何对社会的视觉文化做出贡献？”
 > 这种联动使学生能够批判性地思考艺术表达途径，并深入探究艺术创作背后的伦理[[Hypothesis|假设]]。
 
-> [!case] CAS 与 EE 的行动转化：研究与实践的双向滋养
+> [!case] CAS and EE 的行动转化：研究与实践的双向滋养
 > - **从实践到研究（CAS → EE）** 学生在 CAS 社区服务和志愿活动中获得的经历，可以转化为 EE 深入调查全球问题（Global Issue）的起点。
 > - **从研究到实践（EE → CAS）** 例如，生态学方向的 EE 课题探讨“安纳托利亚黄鼠种群在多大程度上受城市化的影响？”，学生可将该研究发现转化为实际行动，在 CAS 的全球问题网络（Global Issues Network，GIN）俱乐部中发起社区项目，撰写科学报告并向地方当局展示，从而在地方层面提升对这一具有全球意义问题的保护意识。
 
@@ -172,11 +172,11 @@ issuing_organization: ""
 >
 > 2. **教学层面的统合（[[Approaches to Teaching and Learning|ATL]] & [[IB Learner Profile|Learner Profile]]）**
 >
->    利用“如何学习”技能（Approaches to Teaching and Learning，ATL）和 [[IB Learner Profile|IB 学习者特征]]（如探究者、反思者）作为跨越不同学科和组件的通用语言。例如，以“反思者”为抓手，引导学生将一个学科的知识迁移到另一学科。
+>    利用“如何学习”技能（Approaches to Teaching and Learning，ATL）和 IB 学习者特征（如探究者、反思者）作为跨越不同学科和组件的通用语言。例如，以“反思者”为抓手，引导学生将一个学科的知识迁移到另一学科。
 >
 > 3. **专业发展的强化（Professional Development）**
 >
->    组织校内培训与工作坊，明确并发学习的概念与影响。可联合举办面向学生和教师的 TOK 与 CAS 入学说明会，提前探讨连贯学习的路径。
+>    组织校内培训与工作坊，明确并发学习的概念与影响。可联合举办面向学生和教师的 TOK and CAS 入学说明会，提前探讨连贯学习的路径。
 
 ---
 

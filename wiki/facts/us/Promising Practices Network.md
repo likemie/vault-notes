@@ -53,9 +53,9 @@ updated: '2026-05-18'
 ## 证据标准
 
 > [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，PPN 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 和 ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
+> 在设计标准[[Coding in Qualitative Research|编码]]中，PPN 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD and ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
 >
-> PPN 与 Blueprints、[[Best Evidence Encyclopedia|BEE]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 和 [[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；在最低效果阈值上，PPN 最高评级要求至少 0.25 SD 的差异([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
+> PPN and Blueprints、[[Best Evidence Encyclopedia|BEE]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 和 [[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；在最低效果阈值上，PPN 最高评级要求至少 0.25 SD 的差异([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
 
 ## 与其他清算中心的差异
 

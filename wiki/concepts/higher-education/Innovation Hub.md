@@ -222,13 +222,13 @@ updated: 2026-07-13
 > **[[Tech Square at Georgia Tech]]**（2003 年开业）：Georgia Tech 时任校长 Wayne Clough 被称为"Tech Square 之父"，他克服了多种物理和组织障碍，在原先不受欢迎、物理上与主校区脱节的地点创造了新的大学物理足迹。Georgia Tech 基金会同意投入新资金，条件是大学承诺将部分学术事业迁入 Tech Square，最终由管理学院入驻锚定。由于 Georgia Tech 要求每位本科生至少修一门管理课程，Tech Square 自然成为学生频繁光顾的活动中心([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.129]])。
 
 > [!example]
-> **[[Research Triangle Park]]**（1959 年启动）：由杜克大学、UNC Chapel Hill 和 NC State 三校联合，最初是地区银行总裁和本地开发商推动的营利性项目。早期通过全州范围的"路演"筹款动员了广泛利益相关者参与，从个人市民到机构伙伴。IBM 初始锚定投资建设了 60 万平方英尺设施。如今 RTP 已发展为综合用途的研发社区，Scott Levitan 强调编程和[[Placemaking|场所营造]]对成功的重要性（pp.130–131）。
+> **[[Research Triangle Park]]**（1959 年启动）：由杜克大学、UNC Chapel Hill and NC State 三校联合，最初是地区银行总裁和本地开发商推动的营利性项目。早期通过全州范围的"路演"筹款动员了广泛利益相关者参与，从个人市民到机构伙伴。IBM 初始锚定投资建设了 60 万平方英尺设施。如今 RTP 已发展为综合用途的研发社区，Scott Levitan 强调编程和[[Placemaking|场所营造]]对成功的重要性（pp.130–131）。
 
 > [!example]
 > **[[Kendall Square|CIC]]/肯德尔广场**（1999 年成立）：作为独立机构推动联合办公和跨校协同研发，同时作为协调化的创业生态系统，通过社交和专业活动中心推动早期开发与投资。已拥有超过 10,000 家客户组织，客户累计吸引投资超过 170 亿美元（p.128）。
 
 > [!example]
-> **[[Purdue Discovery Park|普渡发现园]]** 利用未充分利用的房地产起步，Lilly Endowment 和印第安纳州各约 1500 万美元初始投资，吸引了 Bayer、Rolls-Royce 和 Saab 等产业伙伴。如今发展为超过 10 亿美元的 Discovery District，涵盖纳米技术和先进计算等领域（p.132）。
+> **[[Purdue Discovery Park|普渡发现园]]** 利用未充分利用的房地产起步，Lilly Endowment 和印第安纳州各约 1500 万美元初始投资，吸引了 Bayer、Rolls-Royce and Saab 等产业伙伴。如今发展为超过 10 亿美元的 Discovery District，涵盖纳米技术和先进计算等领域（p.132）。
 
 > [!example]
 > **[[Central Florida Research Park|中佛罗里达研究园]]**（1978 年建立）：1993 年海军空战中心训练系统部迁入后，大学和州政府持续投资吸引国防部租户，现拥有超过 9,500 名雇员和 Northrop Grumman、Boeing 等主要国防承包商。UCF 研发支出十年翻番（p.132）。

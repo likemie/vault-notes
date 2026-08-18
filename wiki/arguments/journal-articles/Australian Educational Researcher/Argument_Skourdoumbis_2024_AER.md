@@ -252,7 +252,7 @@ citation_aliases:
 > 政策网络中的核心人物 Jennifer Buckingham 在保守智库、官方行业监管部门与政策游说网络中实现了身份穿梭：她既是 CIS 的高级研究员与董事会成员（CIS, 2024），又是 [[Australian Institute for Teaching and School Leadership|AITSL]]（负责将核心课程落实到标准的监管机构）的非执行董事（AITSL, 2017），打通了游说、决策到合规推广的通道。
 
 > [!line-a] 循证政策的市场化变现
-> 循证改革的行政强制化蕴含着巨大的商业利益。例如，被教师教育部长级咨询组（[[Teacher Education Ministerial Advisory Group|TEMAG]]）强制嵌入的初始教师教育读写与算术测试（[[LANTITE|Literacy and Numeracy Test for Initial Teacher Education]], [[LANTITE]]）为独家运营机构[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（Australian Council for Educational Research, [[Australian Council for Educational Research|ACER]]）每年带来估算高达 370 万澳元的商业性营收（Barnes & Cross, 2020），而 AITSL、ACARA 与 AERO 在底层系统上均受注册慈善机构[[Educational Services Australia|澳大利亚教育服务公司]]（Educational Services Australia, ESA）的支撑，形成了商业与制度上的共生利益圈。
+> 循证改革的行政强制化蕴含着巨大的商业利益。例如，被教师教育部长级咨询组（[[Teacher Education Ministerial Advisory Group|TEMAG]]）强制嵌入的初始教师教育读写与算术测试（[[LANTITE|Literacy and Numeracy Test for Initial Teacher Education]], [[LANTITE]]）为独家运营机构[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（Australian Council for Educational Research, [[Australian Council for Educational Research|ACER]]）每年带来估算高达 370 万澳元的商业性营收（Barnes & Cross, 2020），而 AITSL、ACARA and AERO 在底层系统上均受注册慈善机构[[Educational Services Australia|澳大利亚教育服务公司]]（Educational Services Australia, ESA）的支撑，形成了商业与制度上的共生利益圈。
 
 ---
 

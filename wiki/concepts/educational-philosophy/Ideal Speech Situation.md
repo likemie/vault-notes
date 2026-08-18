@@ -148,7 +148,7 @@ updated: 2026-07-19
 >
 > - **[[Virtual World|虚拟世界]]中的技术实现**
 >
->   虚拟世界的兴起为理想言说情境提供了新的实现[[Champ|场域]]。[[Avatar|化身]]匿名性和安全虚拟环境的创建，使研究中的沟通条件在技术上更接近理想言说情境的要求。Carr & Kemmis 和 Zuber-Skerritt 等学者将理想言说情境与[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]相结合，主张对称沟通是[[Emancipatory Action Research|解放性行动研究]]的前提条件。
+>   虚拟世界的兴起为理想言说情境提供了新的实现[[Champ|场域]]。[[Avatar|化身]]匿名性和安全虚拟环境的创建，使研究中的沟通条件在技术上更接近理想言说情境的要求。Carr & Kemmis and Zuber-Skerritt 等学者将理想言说情境与[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]相结合，主张对称沟通是[[Emancipatory Action Research|解放性行动研究]]的前提条件。
 >
 > - **[[Discourse Analysis|话语分析]]中的批判方法论转化**
 >

@@ -127,7 +127,7 @@ updated: 2026-07-09
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990s — 福柯政府性概念的空间化** Rose 与 Miller 在政治社会学领域将福柯的[[Governmentality|治理术]]落地为“远距治理”理论模型，探讨专业知识（Expertise）如何代替警察权力实施控制。(Rose & Miller, 1992)
+> - **1990s — 福柯政府性概念的空间化** Rose and Miller 在政治社会学领域将福柯的[[Governmentality|治理术]]落地为“远距治理”理论模型，探讨专业知识（Expertise）如何代替警察权力实施控制。(Rose & Miller, 1992)
 > - **2000s — 数字与指标治理转型** Nóvoa 等在比较教育中提出“以数据行使治理”（[[Governing by Numbers]]），揭示国际数据评估如何构成新型远处治理平台。(Nóvoa & Yariv-Mashal, 2003, 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]])
 > - **2020s — 大数据算法与循证标准的深化** Klerides 指出后冷战时代比较教育沦为远处治理的技术工具；Zelinka 系统反思了 [[Single-Case Design|SCD]] 和循证标准在微观学术界中的远处[[Disciplina and Doctrina|规训]]效力。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]]; [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p. 251]])
 

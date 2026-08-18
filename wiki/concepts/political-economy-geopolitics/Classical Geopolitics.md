@@ -162,7 +162,7 @@ updated: 2026-07-09
 
 > [!example] 相关案例
 > - 国际关系与安全研究 — 古典地缘政治仍是理解军事冲突和领土争端的主导框架
-> - 比较教育 — Moisio 和 Thompson & Parreira do Amaral 将其作为理解高等教育从民族国家框架中"脱嵌"的对照基线
+> - 比较教育 — Moisio and Thompson & Parreira do Amaral 将其作为理解高等教育从民族国家框架中"脱嵌"的对照基线
 > - [[Sino-American Trade War|中美贸易战]] — 古典领土权力逻辑在当代的典型体现[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 67, 84)]]
 > - 科技政治 — 中美技术竞争（如美国限制华为在中国以外地区的运营）体现了古典地缘政治逻辑在数字时代的延伸[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 26)]]
 > - [[Fulbright Program|富布莱特计划]]与冷战高等教育 — 美苏通过学术流动输出意识形态，体现高等教育作为古典地缘政治附属工具的历史形态[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 4)]]

@@ -137,12 +137,12 @@ updated: 2026-06-18
 > [!dev-timeline] 发展脉络
 > 1. **理论奠基**
 >    - 1973 — Boudon 提出首属效应与次属效应的经典区分，为 RAT 提供了核心解释范围
->    - 1997 — Breen 和 Goldthorpe 建立 RAT 的形式化模型，以相对风险规避为核心机制解释阶级差异
+>    - 1997 — Breen and Goldthorpe 建立 RAT 的形式化模型，以相对风险规避为核心机制解释阶级差异
 > 2. **实证检验与扩展**
 >    - 2001 — Boudon 进一步阐述理性选择在社会分层中的应用
 >    - 2007 — Goldthorpe 以七步推理过程对 RAT 进行系统实证检验，排除马克思主义、自由主义和文化理论三种竞争解释
 > 3. **批评与应用**
->    - 1997 — Hodkinson 和 Sparkes 以[[Pierre Bourdieu|布迪厄]]的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，揭示理性选择的[[Pragmatic Paradigm|实用主义]]性质及其受结构性条件的制约
+>    - 1997 — Hodkinson and Sparkes 以[[Pierre Bourdieu|布迪厄]]的[[Habitus|习性]]与[[Champ|场域]]理论修正 RAT，揭示理性选择的[[Pragmatic Paradigm|实用主义]]性质及其受结构性条件的制约
 >    - 2023 — [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君（2023）]]将 RAT 纳入中国高等教育公平研究的文化社会学[[Paradigm|范式]]争论
 
 ---

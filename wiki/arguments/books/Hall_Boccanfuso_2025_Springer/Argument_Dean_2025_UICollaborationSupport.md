@@ -75,7 +75,7 @@ citation_aliases:
 
 > [!abstract]
 > 不依赖正式学术理论，而是基于作者在滑铁卢大学研究行政部门的集体[[Praxis|实践]]经验，同时整合以下分析资源：
-> - [[University-Industry Collaboration]] — 采用 Ankrah 与 Al-Tabbaa（2015, p.388）的定义，将产学合作理解为产业与大学之间的**双向信息交流（bi-directional exchange of information）**，而非狭义的合同研究(p.242)。
+> - [[University-Industry Collaboration]] — 采用 Ankrah and Al-Tabbaa（2015, p.388）的定义，将产学合作理解为产业与大学之间的**双向信息交流（bi-directional exchange of information）**，而非狭义的合同研究(p.242)。
 > - Bruneel、D'Este & Salter(2010)的障碍分类框架 — 将产学合作障碍分为两类：(i) 产学取向差异（differences in UI orientation），即大学与企业在使命、文化和价值观上的系统性差异；(ii) 交易相关障碍（transaction-related barriers），即合同谈判、知识产权安排和行政流程等操作层面的摩擦(p.245)。
 > - [[Declaration on Research Assessment|DORA]]（科研评估宣言） — 作为研究评估改革的参照框架，主张在教师晋升与终身教职评审中关注研究的影响力而非机械依赖[[Document|文献]]计量指标(pp.250–251)。
 
@@ -282,7 +282,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success]
-> 1. **政府配资项目构成最直接的硬性激励**。NSERC Alliance Advantage 和 Mitacs Accelerate 的 1:1 配资要求通过项目叠加可产生最高 3:1 的杠杆效应。过去五年滑铁卢大学一个学院的产业及产业杠杆经费占总经费的 34%，其中 NSERC 资助中 41% 来自产业配资项目。这一比例本身就是对不参与合作的系统性惩罚(p.243)。
+> 1. **政府配资项目构成最直接的硬性激励**。NSERC Alliance Advantage and Mitacs Accelerate 的 1:1 配资要求通过项目叠加可产生最高 3:1 的杠杆效应。过去五年滑铁卢大学一个学院的产业及产业杠杆经费占总经费的 34%，其中 NSERC 资助中 41% 来自产业配资项目。这一比例本身就是对不参与合作的系统性惩罚(p.243)。
 > 2. **行政支持的核心功能是消除信息不对称**。教师对[[University-Industry Collaboration|产学合作]]的顾虑（知识产权、发表自由、合同复杂性）在实证研究中未被发现与实际合作能力之间存在关联(Sjöo & Hellström, 2019)。研究办公室的合同团队和早期职业研究者工作坊的实质作用是让教师在有充分信息和制度后盾的前提下做出判断(pp.247–248)。
 > 3. **共同选址缩短了从认知距离到信任的距离**。多伦多-滑铁卢走廊的 15,000 家科技公司和短途 commute 条件使定期面对面互动成为可能；NRC 合作中心和 [[Schlegel-UW Research Institute for Aging|RIA]] 的[[Praxis|实践]]表明，当研究者和终端用户在同一物理空间中日常共处时，反馈循环从以月计缩短为以走廊计(pp.248–249, 253–254)。
 > 4. **[[Research Security|研究安全]]不应被回避，而应转化为制度性的风险管理服务**。滑铁卢大学保障研究团队的原则——在透明性、可预测性、[[Academic Freedom|学术自由]]和开放科学之间寻求平衡——将安全从阻碍合作的壁垒转变为促进信任的机制(pp.249–250)。

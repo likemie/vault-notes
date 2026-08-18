@@ -97,7 +97,7 @@ updated: "2026-07-09"
 > [!info]
 > PISA 的成功是一个营销案例。它利用了人类对未来的普遍焦虑，提出了三个问题：年轻人是否准备好迎接未来挑战？他们能否有效分析、推理和沟通？他们是否有[[Lifelong Learning|终身学习]]的能力（[[OECD]] 1999, p.7）？这些话语从 1999 年引入 PISA 的文件开始，几乎在所有 PISA 报告中被重复（Sjøberg 2015b, 引自 Zhao, 2020）。
 >
-> 作为[[International Education|国际教育]]评估，PISA 是后来者。在 PISA 之前，IEA 自 1960 年代以来一直在运营国际评估，提供 TIMSS 和 PIRLS 等项目。PISA 通过差异化定位击败了建立者：PISA 声称评估未来生活所需的基本技能，而非学校课程内容（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）。
+> 作为[[International Education|国际教育]]评估，PISA 是后来者。在 PISA 之前，IEA 自 1960 年代以来一直在运营国际评估，提供 TIMSS and PIRLS 等项目。PISA 通过差异化定位击败了建立者：PISA 声称评估未来生活所需的基本技能，而非学校课程内容（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）。
 
 ### 产品线扩张
 

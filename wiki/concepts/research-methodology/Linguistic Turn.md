@@ -73,4 +73,4 @@ Sol Cohen（1999: 81）提出了[[Documentary Analysis|文献分析]]中语言�
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion 与 Morrison 将语言学转向定位为[[Documentary Analysis|文献分析]]的文本层面方法论深化的核心组成部分，并在 Cohen（1999）五维框架的基础上连接了解释学和文学批评传统。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion and Morrison 将语言学转向定位为[[Documentary Analysis|文献分析]]的文本层面方法论深化的核心组成部分，并在 Cohen（1999）五维框架的基础上连接了解释学和文学批评传统。

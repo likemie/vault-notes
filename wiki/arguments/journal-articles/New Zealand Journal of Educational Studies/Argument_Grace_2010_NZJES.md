@@ -80,7 +80,7 @@ citation_aliases:
 > 3. 这种排除产生了一个"还原主义和天真的观点"——即仅靠改变教育安排就能解决教育成就不平等——这对政治家和政策制定者非常方便，因为它将注意力从更根本的社会经济不平等问题上转移开
 > 4. 因此，Hattie 的工作不能被视为履行了"critic and conscience of society"的角色
 >
-> ### 论证三：Bernstein 和 Nash 为真正的批判者典范
+> ### 论证三：Bernstein and Nash 为真正的批判者典范
 >
 > Grace 以两位学者作为"critic and conscience of society"角色的典范(p.91)：
 > - **[[Basil Bernstein]]** 在 *Education Cannot Compensate for Society*(1970)中向政治家明确阐明：没有外部结构性和经济改革，学校无法单独创造教育机会平等

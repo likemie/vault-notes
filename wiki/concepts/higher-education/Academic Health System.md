@@ -4,7 +4,7 @@ aliases:
   - 学术健康系统
   - academic health system
   - AHS
-summary: "Swick 与 Jones（2025）区分的学术机构类型，不同于传统学术医学中心，它在优先患者诊疗之后同时追求学术研究与产业创新目标，兼具科研、教学、临床和产业化能力，是产学合作中医用创新的独特组织载体"
+summary: "Swick and Jones（2025）区分的学术机构类型，不同于传统学术医学中心，它在优先患者诊疗之后同时追求学术研究与产业创新目标，兼具科研、教学、临床和产业化能力，是产学合作中医用创新的独特组织载体"
 type: concept
 domain: "higher-education"
 related_count: 4

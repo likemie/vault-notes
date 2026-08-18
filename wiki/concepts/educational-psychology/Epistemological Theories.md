@@ -1,6 +1,6 @@
 ---
 title: Epistemological Theories
-summary: "关于个体的认识论信念不是零散独立的观点，而是构成了一种具有内部连贯性的“个人理论”。该构念由 Hofer 与 Pintrich 提出，包含四大核心认识论维度。"
+summary: "关于个体的认识论信念不是零散独立的观点，而是构成了一种具有内部连贯性的“个人理论”。该构念由 Hofer and Pintrich 提出，包含四大核心认识论维度。"
 type: concept
 domain: "educational-psychology"
 related_count: 15

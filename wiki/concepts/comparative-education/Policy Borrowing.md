@@ -290,7 +290,7 @@ updated: 2026-07-13
 
 > [!evidence-grid] 典型研究与应用案例
 > - **[[Liberal Studies|香港通识教育科]]（LS）创立与废除** [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 追踪了 LS 从创立到废除的完整生命周期。在创立阶段（2009），港府以“[[Lifelong Learning|终身学习]]”“[[Knowledge-Based Economy|知识经济]]”和 [[IB Diploma Programme|IBDP]] 话语论证改革必要性，这些全球论述被高度工具性地用来解决本地政治问题（政府合法性下降、学制调整需求）。在废除阶段（2021），随着政治局势剧变，全球参照话语彻底消失，以“国家安全”和主权控制为唯一逻辑，展现了借用行为对本地政治合法性需求的依附。
-> - **香港与英格兰的双向借用及 LS 与 IBDP 比较** Forestier & Crossley (2015) 揭示了香港与英格兰之间“双向借用”的对流特征。而 Forestier et al. (2016) System 比较了香港通识科（LS）与[[International Baccalaureate|国际文凭]]课程（IBDP）的课程设计，证实了“选择性借用”的运作机制：港府参照了 IBDP 的跨学科整合和独立探究形式，但排除了其国际化知识观和批判性哲学内核，使之服务于本地政策议程。
+> - **香港与英格兰的双向借用及 LS and IBDP 比较** Forestier & Crossley (2015) 揭示了香港与英格兰之间“双向借用”的对流特征。而 Forestier et al. (2016) System 比较了香港通识科（LS）与[[International Baccalaureate|国际文凭]]课程（IBDP）的课程设计，证实了“选择性借用”的运作机制：港府参照了 IBDP 的跨学科整合和独立探究形式，但排除了其国际化知识观和批判性哲学内核，使之服务于本地政策议程。
 > - **[[Visible Learning|Visible Learning]] 在俄罗斯的政策借用与拒绝** Hattie 的 Visible Learning 于 2017 年在俄罗斯翻译出版后受到学界与官僚体系的热烈欢迎。然而，[[Argument_Golovchin_2019_ESC|Golovchin (2019)]] 展示了俄罗斯本土学者基于方法论缺陷（[[Heterogeneity|异质性]]过高）、文化不匹配（教师“去专业化”风险）以及官僚化威胁（报表工作量激增），最终向政策决策提出“拒绝采用”建议的过程。
 > - **英国对东亚模式与芬兰模式的“话语借用”** You & Morris (2016) 记录了英格兰等国大量借用芬兰模式或东亚 [[PISA]] 优胜模式的话语，来论证本国[[School Autonomy|学校自主权]]与教师专业化改革的必要性，但实际体制并未发生对应移植，凸显了“话语借用”与“[[Praxis|实践]]落地”之间的巨大鸿沟。
 > - **PISA 与[[Reference Society|参考社会]]的制度化** [[Argument_Li_2025_HSSC|Li et al. (2025)]] 综述了 PISA 如何通过国际排名将芬兰、上海、日本、香港确立为全球“参考社会”，为各国提供借用模板。韩国的案例显示，其政策参考社会经历了从传统的日本模式（PISA 前）到芬兰模式（PISA 2009 后）的动态切换。

@@ -85,7 +85,7 @@ updated: '2026-06-08'
 
 
 > [!info] [[Technical Rationality|技术理性]]作为 VL 的理论内核（2021, NordPsych）
-> Nielsen 与 Klitmøller (2021, NordPsych) 论证 VL 深受 Schön (1983, 1987) 所描述的 [[Technical Rationality|技术理性]] 影响——将教学分解为可测量、可排名的技术干预，以手段-目的思维替代对教育目的的讨论（Nielsen & Klitmøller, 2021, pp. 81-82）。与 Rømer (2019) 将 VL 的理论基础解读为[[Radical Constructivism|激进建构主义]]不同，Nielsen & Klitmøller 论证 VL 的内核是技术理性。
+> Nielsen and Klitmøller (2021, NordPsych) 论证 VL 深受 Schön (1983, 1987) 所描述的 [[Technical Rationality|技术理性]] 影响——将教学分解为可测量、可排名的技术干预，以手段-目的思维替代对教育目的的讨论（Nielsen & Klitmøller, 2021, pp. 81-82）。与 Rømer (2019) 将 VL 的理论基础解读为[[Radical Constructivism|激进建构主义]]不同，Nielsen & Klitmøller 论证 VL 的内核是技术理性。
 
 
 > [!info] Hattie 的行为主义理论谱系（2021, NordPsych）

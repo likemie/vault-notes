@@ -78,7 +78,7 @@ Total entries: **1865**
 > - [[PISA Literacy]] — 日本在 2004 年 PISA 2003 结果公布后纳入国家教育政策目标的学术能力概念，聚焦问题解决、知识应用等高阶能力，区别于传统知识记忆型学力
 > - [[PISA Shock]] — 2001 年德国首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德国教育政策制定的决定性分水岭，导致全面的教育改革议程
 > - [[Policy Borrowing]] — 教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念
-> - [[Policy Science in Comparative Education]] — 比较教育的四种理解形式之一，认为比较教育可以且应该是政策科学，代表人物包括 Holmes 和 King，政治上是与自由民主国家权力的联盟
+> - [[Policy Science in Comparative Education]] — 比较教育的四种理解形式之一，认为比较教育可以且应该是政策科学，代表人物包括 Holmes and King，政治上是与自由民主国家权力的联盟
 > - [[Pragmatism in China]] — 实用主义哲学在中国的传播、选择性吸收、制度转译与政治再脉络化历史，揭示外来理论在危机与救国语境中的拆解、重构与话语变形。
 > - [[Pre-Transfer Agency]] — 外国范例进入国内教育话语之初的引入者及其动机与策略，区别于政策实施后的后转移能动性，由 Rappleye (2006) 在响应 Steiner-Khamsi 时明确提出
 > - [[Rationalism in International Relations]] — Martin Wight 国际关系三大传统之一（对应 Grotius 思想），视国际社会为通过多边合作与规则缓和无政府冲突的“存在制度缺陷的社会”，以“权威”为核心概念。在比较教育中，它将学科塑造成促进国际理解与远处治理规范趋同的“理性事业”。
@@ -107,7 +107,7 @@ Total entries: **1865**
 > - [[Didaktik]] — 作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。
 > - [[Dramatic Tension]] — 教育戏剧与角色扮演中推动行动前进的张力机制，涵盖四种来源、Heathcote对张力质量的界定、以及张力在维持角色信念与建立投入中的功能。
 > - [[Ecomuseology]] — 将整个地域视为博物馆并由社区主导保护和阐释自然与文化遗产的博物馆学取向。
-> - [[Epistemic Ascent]] — 学习者在学科中从具体经验向抽象概念逐步发展的认知过程，是课程设计连贯性的关键目标，由 Winch、Vernon 和 Rata 等学者从不同角度阐述
+> - [[Epistemic Ascent]] — 学习者在学科中从具体经验向抽象概念逐步发展的认知过程，是课程设计连贯性的关键目标，由 Winch、Vernon and Rata 等学者从不同角度阐述
 > - [[Epochal Key Problems]] — Klafki 提出的课程组织概念，以环境危机、社会不平等和战争等时代问题连接学科深度与跨学科广度。
 > - [[Extended Essay]] — 国际文凭预科项目（IB DP）的三项必修核心要素之一，要求学生在导师指导下就感兴趣的跨学科或单科议题独立完成 4000 字的研究论文。
 > - [[Feeder Mechanism]] — Cole 提出的关于后现代课程的功能隐喻。它主张教育（特别是探究性课程）不应追求导向预设的普世真理或统一结论，而应作为一种持续激发群体想象力、甚至将负面情感转化为生产性动力的引擎，借此不断孕育出跨学科的新知识与新探索。
@@ -230,14 +230,14 @@ Total entries: **1865**
 > - [[Critique of Evidence-Based Education]] — 围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架
 > - [[Educational Evidence Clearinghouses]] — 证据本位教育中的制度化中介机构，通过设定证据标准、审查项目研究和发布效果评级，把研究证据转化为学校和政策可使用的项目信息。
 > - [[Educational Management Organisation]] — 参与公立学校教育政策制定、管理支持和服务交付的私营部门实体，兼具营利和非营利形式，用于描述教育治理中的外部组织化介入。
-> - [[Endogenous and Exogenous Privatisation]] — Ball 与 Youdell 区分的两种公立教育私有化趋势，分别指学校内部运作企业化和私营部门进入学校体系。
+> - [[Endogenous and Exogenous Privatisation]] — Ball and Youdell 区分的两种公立教育私有化趋势，分别指学校内部运作企业化和私营部门进入学校体系。
 > - [[Evidence-Based Education]] — 主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡
 > - [[Evidence-Based Reform]] — 以实验有效性证据作为选择教育项目和产品核心标准的改革框架，强调开发、评估、推广和政策激励之间的联动循环。
 > - [[Evidence-Informed Practice]] — 一种将研究证据视为多种决策资源之一的实践取向，强调教育者通过专业判断整合研究、课堂数据和系统信息来形成行动。
 > - [[Examination-Oriented Education]] — 以标准化考试成绩为教育质量核心衡量指标的教学与评价体系，在中国可追溯至科举制度，由教师主导教学法、多层问责规则、家长支持和社会流动信念共同维持，是当代中国教育实践中实际运作的主导系统
 > - [[Grade Retention]] — 让学生重复同一年级以处理学习困难的教育制度实践，证据本位教育中常被用来说明研究证据与既有学校惯例之间的张力。
 > - [[Implementation Fidelity]] — 项目在真实学校中是否按设计要求和足够强度实施的概念，用于解释干预效果和证据评级为何不能只看显著性。
-> - [[Inclusive Evidence Validation Typology]] — Dachet 与 Baye 在法语比利时教育卓越公约中使用的证据分类框架，以方法多元方式给教学工具和项目设置最低验证标准。
+> - [[Inclusive Evidence Validation Typology]] — Dachet and Baye 在法语比利时教育卓越公约中使用的证据分类框架，以方法多元方式给教学工具和项目设置最低验证标准。
 > - [[Knowledge Mobilisation]] — 教育研究利用领域的概念，指研究知识通过传播、翻译、中介与共创进入实践和政策决策的过程，常用于解释证据为何不会自动转化为教学行动。
 > - [[Local Knowledge in Evidence-Based Policy]] — 从业者对本地情境、关系网络和实际约束的深入了解，用于说明证据本位政策实施为何离不开地方知识和专业判断。
 > - [[Moral Sidestep]] — 以道德关切回避、替代或压过实证研究证据的话语策略，常用于分析政策争论中的价值与证据错位。
@@ -282,7 +282,7 @@ Total entries: **1865**
 > - [[Epistemic Virtues and Vices]] — 心理学与哲学概念附加促进或阻碍达到认识论目标的性情倾向。具有高度的情境特异性。
 > - [[Epistemological Beliefs]] — 关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。
 > - [[Epistemological Naturalism]] — 一种主张将认识论从先验哲学转向利用心理学和认知科学的实证方法，研究人类实际信念生成机制与社会实践的哲学转向。
-> - [[Epistemological Theories]] — 关于个体的认识论信念不是零散独立的观点，而是构成了一种具有内部连贯性的“个人理论”。该构念由 Hofer 与 Pintrich 提出，包含四大核心认识论维度。
+> - [[Epistemological Theories]] — 关于个体的认识论信念不是零散独立的观点，而是构成了一种具有内部连贯性的“个人理论”。该构念由 Hofer and Pintrich 提出，包含四大核心认识论维度。
 > - [[Epistemological Understanding]] — 个体对认知的主观维度与客观维度的协调能力，表现为从绝对论、多元论到评价论的发展过程。
 > - [[Evaluativist]] — 认识论模型中的最高层级，认为知识虽由主观建构，但可以通过论证与证据的客观标准进行优劣评估。
 > - [[Independent Knowing]] — 认识论反思模型（ERM）的第三阶段，认为知识是不确定的，每个人都有权保留自己的观点。
@@ -314,11 +314,11 @@ Total entries: **1865**
 > - [[Academic Engagement]] — 一个在教育研究中有歧义的术语：在学生学习研究中指学生对学术活动的投入程度（学业投入），在产学合作文献中指学术研究者与企业之间的知识性合作活动（产学学术参与），两者是完全不同的概念
 > - [[Academic Engagement Team]] — 企业内部以预算责任负责领导和管理大学合作的团队，通常以叠加层形式嵌入既有组织结构，是产学合作在企业侧的核心组织载体
 > - [[Academic Freedom]] — 大学教师和学生在追求学术兴趣、分享研究成果方面的高度自主权，使大学在信息和创意上具有渗透性，是产学合作中最根本的文化张力来源
-> - [[Academic Health System]] — Swick 与 Jones（2025）区分的学术机构类型，不同于传统学术医学中心，它在优先患者诊疗之后同时追求学术研究与产业创新目标，兼具科研、教学、临床和产业化能力，是产学合作中医用创新的独特组织载体
+> - [[Academic Health System]] — Swick and Jones（2025）区分的学术机构类型，不同于传统学术医学中心，它在优先患者诊疗之后同时追求学术研究与产业创新目标，兼具科研、教学、临床和产业化能力，是产学合作中医用创新的独特组织载体
 > - [[Academic Medical Center]] — 大学医学院及其合作教学医院组成的高教与医疗机构，以学术-临床二元结构为特征，在产学临床试验中既是核心执行主体，也因高管理费率和长启动周期构成效率瓶颈
 > - [[Academic Oligarchy]] — Clark (1983) 三角协调模型中专业寡头一极的当代延伸，描述市场竞争和评估治理如何催生少数精英大学对资源分配和价值定义的寡头式控制，而非预期的开放竞争
 > - [[Alumni Engagement]] — 利用校友对母校研究优势和产业需求的双重了解，以咨询委员会、研究合作推动、指导计划、公司校友群体等七种策略将校友转化为产学合作的倡导者、连接者和合作者
-> - [[Applied Medical Innovation]] — Swick 与 Jones（2025）定义的创新类型，指整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新，由医学翻译循环、团队科学和创新文化三者驱动，学术健康系统是其产学合作的理想促进者
+> - [[Applied Medical Innovation]] — Swick and Jones（2025）定义的创新类型，指整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新，由医学翻译循环、团队科学和创新文化三者驱动，学术健康系统是其产学合作的理想促进者
 > - [[Asset Mapping]] — 产学合作中系统梳理区域内利益相关者优势与需求的实践方法，本质为真实的关系建立，是 TUFF 创新中心六项优先领域之一，与创业活动相互强化
 > - [[Background IP]] — 产学合作协议中定义的合作前各方独立开发的知识产权，产业方需要获得足够访问权以确保对前景 IP 的自由实施
 > - [[Boundary Spanner]] — 在产学合作中充当学术界与产业界之间桥梁的专业角色，负责建立信任、翻译双方需求、协调跨组织合作流程
@@ -377,7 +377,7 @@ Total entries: **1865**
 > - [[Mentorship]] — 更有经验的人通过指导、支持和示范促进 less experienced 者专业和个人发展的过程，是科学和医学教育中的核心关系
 > - [[Mentorship Recognition]] — 学术场合中对导师的公开致谢，研究发现诺贝尔演讲中导师致谢的缺失与导师制在科学中的重要性形成鲜明对比
 > - [[Mode 2 Knowledge Production]] — Gibbons et al.（1994）提出的跨学科知识生产模式，以应用导向和多利益相关者协商为特征，区别于学科中心、学术驱动的 Mode 1，是产学研发合作的理论基础之一
-> - [[Multi-channel Interactive Learning Model]] — Caraça、Lundvall 和 Mendonça 提出的创新过程分析框架，将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念为核心要素，论证科学是创新过程中无处不在但非主宰性的多元知识来源之一
+> - [[Multi-channel Interactive Learning Model]] — Caraça、Lundvall and Mendonça 提出的创新过程分析框架，将创新重新定位在学习经济之中，以螺旋式学习循环、三类知识池和界面概念为核心要素，论证科学是创新过程中无处不在但非主宰性的多元知识来源之一
 > - [[Multi-Faceted Relationships in University-Industry Collaboration]] — UIDP（2012）描述的产学合作最高形态，合作双方在学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域同时建立深度联盟，跨越单一维度成为制度化的全方位战略伙伴关系
 > - [[Multi-University]] — Clark Kerr（1963/2001）对美国现代综合性大学的描述，以研究、教学和公共服务三重使命同时服务多元利益相关者，其运转高度依赖财务资源和正向声誉的良性循环
 > - [[New Professionalism]] — 在晚期现代学术审计与新公共管理浪潮中，传统的学术信任与专业伦理被以标准化、可度量和可监控为特征的准契约关系所取代的制度现象
@@ -385,12 +385,12 @@ Total entries: **1865**
 > - [[Non-monetary Competition]] — 学术场域中以声望、认可和区隔等 Bourdieu 意义上的符号商品为核心通货的竞争形式，区别于以价格和利润驱动的常规市场，用于解释排名和评估为何能驱动大学行为
 > - [[Online Self-Assessment]] — 用于入学前咨询和项目匹配的数字化自我评估工具，通常通过问卷和测试引导潜在学生评估自身特征、准备程度和就读适配性。
 > - [[Partnership Continuum]] — UIDP（2012）提出的产学合作五领域三层级分类框架，将合作形式按学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域和交易-协作-联盟三个层级排列为连续体，用于诊断合作盲区和识别策略机会
-> - [[Physician-Scientist]] — Swick 与 Jones（2025）描述的兼具医学博士与哲学博士学位的学术专业人员，以识别临床问题、与基础科学家合作转化、在学界和产业之间充当联络者为核心能力，是医用创新的关键催化者
+> - [[Physician-Scientist]] — Swick and Jones（2025）描述的兼具医学博士与哲学博士学位的学术专业人员，以识别临床问题、与基础科学家合作转化、在学界和产业之间充当联络者为核心能力，是医用创新的关键催化者
 > - [[Pilot Scale Platform]] — 科技成果从实验室走向产业化的关键中间环节，提供技术熟化、工艺验证和小批量试生产服务，降低成果转化风险。
 > - [[Placemaking]] — TUFF 创新中心框架的六项优先领域之一，通过非正式激活活动、意向性空间设计和社区文化建设，在建筑内部空间创造人际互动价值，以信任和人际密度推动商业活力
 > - [[Positioning Practice]] — Angermuller 的话语理论概念，将学术交流分析为行动者通过职称、机构隶属和发表记录等地位范畴持续主张自身位置和界定他人归属的日常话语实践，构成学术等级的微观再生产
 > - [[Pre-negotiated IP Rights]] — 国际产学合作中的知识产权策略概念，指在合作启动前、资产价值尚未显现的概念阶段预先协商权利安排，以避免资产升值后陷入竞争性谈判僵局
-> - [[Precompetitive Research]] — 产学合作中处于探索阶段、产出的知识产权尚不具备商业化价值的研究类型，Narayan 与 Spohrer（2025）指出对此类研究套用商业竞争型 IP 条款会阻碍合作启动
+> - [[Precompetitive Research]] — 产学合作中处于探索阶段、产出的知识产权尚不具备商业化价值的研究类型，Narayan and Spohrer（2025）指出对此类研究套用商业竞争型 IP 条款会阻碍合作启动
 > - [[Product-Specific Research]] — 产学联合体中由单个成员独立出资、建立在所有成员共享的前竞争知识之上但涉及企业专有信息的研究项目，前景知识产权归赞助企业所有，构成联合体的技术转化工具
 > - [[Professors of Practice]] — 大学基于产业经验而非传统学术资质聘任的全职或兼职教师，在产学合作中充当产业向大学知识流动的重要渠道
 > - [[Promising Student]] — 在竞争性大学治理中被数字化工具和制度期待建构出来的理想学生主体形态，强调自我评估、持续优化和风险管理。
@@ -399,7 +399,7 @@ Total entries: **1865**
 > - [[Research and Technology Organisation]] — 政府投资建立的桥接大学研究与产业应用之间的中介组织，履行应用研究、技术问题解决、劳动力发展、设施建设等多重功能，典型如英国 Catapult、德国 Fraunhofer 和美国 Manufacturing USA
 > - [[Research Security]] — 大学为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡
 > - [[Research Translation]] — 从大学研究发现到商业化产品、服务与实践的多阶段过渡过程，区别于发明本身，涉及技术、市场和商业化三类独立风险，Ramming（2025）以漏斗模型描述其里程碑指标
-> - [[Return on Investment]] — Swick 与 Jones（2025）在产学合作语境中提出的概念，指不同合作方对合作回报的根本差异化定义，分歧本身是合作的驱动力而非障碍，须通过终端用户中心的透镜重新审视各方回报
+> - [[Return on Investment]] — Swick and Jones（2025）在产学合作语境中提出的概念，指不同合作方对合作回报的根本差异化定义，分歧本身是合作的驱动力而非障碍，须通过终端用户中心的透镜重新审视各方回报
 > - [[Scale in Higher Education]] — 用于分析高等教育活动如何在全球、区域、国家、地方和个体等不同尺度上同时展开并相互作用的关系性概念。
 > - [[Self-Authorship]] — 个体依据内在声音和核心价值观主导认知、自我认同与人际关系发展的概念，强调从外部依赖走向内部定向
 > - [[Semi-Autonomy of Higher Education]] — 指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。
@@ -413,8 +413,8 @@ Total entries: **1865**
 > - [[Strategic Partnership]] — 区别于战术/交易型和协作型互动的最高层次产学关系，以双方联络人、共同愿景与目标、定期审查路线图和双向问责制为四个基本要素，通常从小项目生长而非顶层设计而成
 > - [[Student Engagement]] — 学生在教育性活动中投入时间、精力和参与质量的概念，常用于解释高等教育中的学习结果、归属感和持续就读差异
 > - [[Student Involvement]] — Astin 提出的概念，指学生投入到学习和校园生活中的生理与心理能量的数量和质量。
-> - [[T-Shaped Skills]] — Donofrio 与 DeMarco (2022) 提出的跨学科技能模型，指兼具跨学科广泛沟通能力与单一学科深度问题解决能力的人才特质，用于产学合作中的劳动力培养讨论
-> - [[Team Science]] — 以跨学科、大规模协作为特征的研究模式，Swick 与 Jones（2025）通过诺贝尔奖趋势论证其日益成为解决复杂科学问题的必要方式，与产学合作中医用创新对多元专业知识的整合需求直接相关
+> - [[T-Shaped Skills]] — Donofrio and DeMarco (2022) 提出的跨学科技能模型，指兼具跨学科广泛沟通能力与单一学科深度问题解决能力的人才特质，用于产学合作中的劳动力培养讨论
+> - [[Team Science]] — 以跨学科、大规模协作为特征的研究模式，Swick and Jones（2025）通过诺贝尔奖趋势论证其日益成为解决复杂科学问题的必要方式，与产学合作中医用创新对多元专业知识的整合需求直接相关
 > - [[Technology Readiness Level]] — NASA 在 1970 年代开发的 9 级技术成熟度评估框架（TRL 1 基础原理到 TRL 9 实际环境验证），用于衡量大学衍生企业技术距离商业化部署的差距，TRL 不足是衍生企业无法满足企业试点要求、形成融资困局的核心原因之一
 > - [[Technology Transfer]] — 大学研究成果通过知识产权许可、初创企业或企业合作转化为商业应用的过程，以 Bayh-Dole Act 为核心法律框架，涉及 IP 合同机制、权利转让谱系和商业化路径选择等制度安排
 > - [[Technology Transfer Office]] — 大学内部负责知识产权许可谈判、商业化路径评估和衍生企业支持的专业职能部门，通常隶属于科研副校长办公室，是产学合作中连接学术研究与商业应用的组织枢纽
@@ -422,7 +422,7 @@ Total entries: **1865**
 > - [[Trade Mission]] — 大学参与政府组织的国际商务出访活动，借此直接接触海外企业决策者、展示研究能力并催化国际产学合作的连接机制
 > - [[Translational Research]] — 将学术实验室中的研究发现转化为可商业化产品或规模化应用的研究过程，在生物制药领域具体表现为从临床前研究到人体临床试验的桥梁功能
 > - [[Transnational Research Collaboration]] — 高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。
-> - [[UIC Impact Measurement]] — Cohen、Fernandes 与 Godinho（2025）通过系统综述 92 篇文献提出的 UIC 影响测量综合框架，将 25 种产学合作影响归入智力、经济、技术、环境、社会和战略六种类型，并以主体、时间、发生方式和性质四个辅助维度交叉分类，同时识别四类测量挑战与七项应对策略
+> - [[UIC Impact Measurement]] — Cohen、Fernandes and Godinho（2025）通过系统综述 92 篇文献提出的 UIC 影响测量综合框架，将 25 种产学合作影响归入智力、经济、技术、环境、社会和战略六种类型，并以主体、时间、发生方式和性质四个辅助维度交叉分类，同时识别四类测量挑战与七项应对策略
 > - [[University as Public Space]] — Lester（2005）提出的概念，指大学作为本地创新系统中中性的、持续对话的场所，催化不同行动者之间的互动，为技术、市场和产业未来方向的讨论提供平台，是大学常被低估的间接经济贡献
 > - [[University Corporate Engagement Professional]] — 在大学与产业界面中充当中介和关系管理者的专业角色，负责连接双方利益相关者、识别一致利益并构建战略伙伴关系
 > - [[University Motto]] — 大学用以表达教育理想和制度身份的凝缩文本，可折射不同文化传统对真理、知识、自由、修身与德行的理解
@@ -477,7 +477,7 @@ Total entries: **1865**
 > - [[Executive Function]] — 执行功能是一组用于目标导向控制的高阶认知过程，通常包括抑制、转换、更新与监控，用于调节思维和行为以完成任务。
 > - [[Flow]] — Csikszentmihalyi 提出的最佳体验概念，指技能与挑战匹配时个体完全投入任务、忘记时间和自我的心理状态
 > - [[Ideal Learner]] — 跨文化学习研究中的分析概念，指特定文化偏好的最优发展终点，可通过学习目的、过程、品格和情感维度加以描述
-> - [[Intrinsic vs Extrinsic Motivation]] — Deci 与 Ryan 等人发展的动机类型区分，内在动机以活动本身为目的，外在动机以活动为手段
+> - [[Intrinsic vs Extrinsic Motivation]] — Deci and Ryan 等人发展的动机类型区分，内在动机以活动本身为目的，外在动机以活动为手段
 > - [[Learned Helplessness]] — Dweck 早期研究发现的现象，指学习者因相信自己缺乏能力而放弃努力的行为模式，是 Entity vs Incremental Intelligence 理论的经验前身
 > - [[Learning-Impeding Behavior]] — 学生在课堂中表现出的干扰同伴、分心、疲惫或其他妨碍学习过程的行为，用于描述不利于学习参与和课堂秩序的行为模式。
 > - [[Locus of Control]] — Rotter (1966) 提出的动机概念，指个体将成败原因感知为内部（能力、努力）或外部（运气、任务难度）的倾向，是 Weiner 归因理论的前置基础
@@ -490,10 +490,10 @@ Total entries: **1865**
 > - [[Parental Cognitive and Affective Socialization]] — Li (2012) 通过母-子对话研究识别的两种文化社会化模式，欧裔母亲侧重心智-智力框架与兴趣-骄傲情感，台湾母亲侧重美德-品格框架与吃苦-坚持情感
 > - [[Prefrontal Cortex]] — 位于额叶前部、与计划、抑制、决策和执行功能密切相关的脑区，是理解高阶认知控制和发展晚熟性的关键神经基础。
 > - [[School Norm Adaptation]] — 学生对学校规范、课堂秩序和行为期待的适配程度，用于描述个体如何调整行为以符合学校制度环境。
-> - [[Self-Continuity, Self-Distinctness, and Self-Agency]] — Damon 与 Hart 提出的 I-Self 三个构成维度，Li 以此解释文化学习模型在全球化中为何通过身份认同得以持久
+> - [[Self-Continuity, Self-Distinctness, and Self-Agency]] — Damon and Hart 提出的 I-Self 三个构成维度，Li 以此解释文化学习模型在全球化中为何通过身份认同得以持久
 > - [[Self-control]] — 学生调节注意、情绪和行为反应以维持目标导向行动的能力，用于理解课堂参与、行为管理和延迟满足。
 > - [[Self-Efficacy]] — Bandura 提出的动机概念，指个体对自身在特定任务上表现能力的自我评价，不同于一般能力感或实际能力水平
-> - [[Simple View of Reading]] — Gough 与 Tunmer 提出的阅读理论模型，认为阅读由解码和理解共同构成，常用于支持系统识字教学和阅读困难分析。
+> - [[Simple View of Reading]] — Gough and Tunmer 提出的阅读理论模型，认为阅读由解码和理解共同构成，常用于支持系统识字教学和阅读困难分析。
 > - [[SOLO Taxonomy]] — 按回答结构的复杂性区分五种理解水平的学习结果分类框架，可用于把课程目标、等级标准与评估表现转化为可观察的认知动词。
 > - [[Student Learning Research]] — 以学生在正式教育情境中如何处理具体任务为研究对象的研究传统，连接现象图式学、建构主义与教学设计。
 > - [[Surface and Deep Learning]] — 区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造
@@ -537,7 +537,7 @@ Total entries: **1865**
 > - [[Informationalization]] — 一种以知识和信息为基础优化生产要素组合与使用的发展模式，与依赖重工业物质投入的工业化形成对比，强调信息自由流动是其运作的核心前提
 > - [[Infrastructures of Immobility]] — 起源于移民研究、由克莱伯特（J. Kleibert）引入跨境高等教育领域的概念，指制度性与空间性因素协同运作以引导、规训与筛选跨境流动的复合机制。
 > - [[Innovation Models Evolution]] — Tidd（2006）等学者识别的创新过程理解方式的五次迭代——技术推动、需求拉动、耦合、系统集成与网络化、创新系统——从线性到系统的认识升级，现实中五种模型共存而非替代
-> - [[Innovation Policy Paradigms]] — Schot 与 Steinmueller（2018）识别的创新政策三大范式——科学促增长、创新系统升级、变革转型——揭示政策逻辑从弥补市场失灵到管理系统失灵再到主动引导方向性变革的递进
+> - [[Innovation Policy Paradigms]] — Schot and Steinmueller（2018）识别的创新政策三大范式——科学促增长、创新系统升级、变革转型——揭示政策逻辑从弥补市场失灵到管理系统失灵再到主动引导方向性变革的递进
 > - [[Knowledge Capitalism]] — 把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组
 > - [[Knowledge Diplomacy]] — 奈特（J. Knight）提出的概念，指通过教育、研究与创新建立和强化国家间关系，立足互信互惠而非零和竞争，共同应对全球挑战的外交理念。
 > - [[Knowledge Rents]] — Drahos & Braithwaite (2002) 提出的概念，描述精英大学通过控制知识产权的法律框架和学术评估的价值标准，从公共生产的知识中持续提取超额经济回报的租金机制
@@ -579,7 +579,7 @@ Total entries: **1865**
 > - [[Space Production]] — 以列斐伏尔空间三元论为基础的分析框架，将高等教育理解为持续参与空间生产与空间治理的制度性实践，从物质性、表征性和关系性三个嵌套维度考察其如何参与全球空间秩序建构
 > - [[Spatial Sortings]] — 知识密集型资本主义通过投资、治理和空间规划持续把地点与人口划分为赢家和输家的过程，是空间不平等生产的重要机制
 > - [[State Vertical]] — 国家主义体制中主导性的垂直行政层级结构，以牺牲水平部门联结为代价，使科研、应用和生产在封闭回路中运行，阻碍了信息化所要求的跨组织知识流动和创新协同
-> - [[Transformative Change]] — Schot 与 Steinmueller（2018）提出的第三个创新政策范式，认为创新系统范式在面对气候变化等棘手问题时过于被动，政策应从修复系统失灵升级为主动推动方向性变革
+> - [[Transformative Change]] — Schot and Steinmueller（2018）提出的第三个创新政策范式，认为创新系统范式在面对气候变化等棘手问题时过于被动，政策应从修复系统失灵升级为主动推动方向性变革
 > - [[Transitology]] — 比较教育学概念，由 Robert Cowen 提出，指国家机器、社会分层与政治未来愿景在大约十年内同时崩解与重建的压缩历史时刻，此时教育被赋予摧毁过去与重构未来的核心象征性功能
 > - [[Varieties of Capitalism]] — 区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异
 > - [[Venture Philanthropy]] — 以投资而非拨款为核心逻辑的慈善方式，强调战略性、多年期支持和社会或经济回报评估，常见于教育改革资助和治理网络。
@@ -625,7 +625,7 @@ Total entries: **1865**
 > - [[Concurrent Validity]] — 效标关联效度的一种形式，使用一种工具收集的数据与同时使用另一种工具收集的数据高度一致，是三角验证和替代工具验证的核心逻辑
 > - [[Confidence Interval]] — 围绕点估计给出的可能取值范围，由置信水平和边际误差共同定义，同时服务于抽样设计中的样本量确定和研究报告中估计精度的呈现
 > - [[Confidentiality]] — 研究伦理中研究者对参与者信息的保护义务——承诺不将可识别个人身份的信息公开披露或使个体可被追踪，在敏感研究中面临演绎披露和链接文件系统等特殊挑战
-> - [[Conformative Evaluation]] — Stronach 和 Morris（1994）提出的概念，描述在政治化压力下评估日益呈现顺应委托方议程的8种特征：短期导向、忽视长期结果、过度倚重项目参与者感知、忽视批评者、无理论取向、合同约束下的自我审查、隐性项目辩护和职业精神分裂。
+> - [[Conformative Evaluation]] — Stronach and Morris（1994）提出的概念，描述在政治化压力下评估日益呈现顺应委托方议程的8种特征：短期导向、忽视长期结果、过度倚重项目参与者感知、忽视批评者、无理论取向、合同约束下的自我审查、隐性项目辩护和职业精神分裂。
 > - [[Consequential Validity]] — Lather（1991）提出的效度概念，以研究的政治后果和变革效果——而非方法程序的严格性——作为评判研究质量的核心标准。
 > - [[Construct]] — 变量在理论层面的更抽象、更一般的意义表达，代表不可直接观察的理论实体，需通过操作化转化为可测量的变量才能在实证研究中被检验
 > - [[Construct Validity]] — 评价抽象构念的界定、操作化与所得证据是否共同支持预期解释；适用于测量工具、质性范畴、实验操作和课程评估，并要求同时检查构念覆盖、无关影响及替代解释。
@@ -741,7 +741,7 @@ Total entries: **1865**
 > - [[Narrative Thought Types]] — Tarshis (1982) 提出的学术叙事四层结构框架，将文本中的思想按功能分为伞式思想、大思想、小思想和注意力思想四种类型，用于诊断和改善学术写作者常见的结构失衡问题
 > - [[Naturalistic Generalization]] — 质性研究中通过厚描述使读者自行判断研究发现与自身情境相似性的概括形式。不同于统计概括，其责任在读者而非研究者，可比较性和可翻译性是核心标准。
 > - [[Necessary and Sufficient Conditions]] — 因果分析中区分因果条件类型的逻辑工具：必要条件是不可缺少的前提，充分条件是单独足以产生效果的条件
-> - [[Negative Case Analysis]] — 质性研究中通过系统检验不符合已有假设或模式的案例来修正和完善理论的策略，是 Lincoln 和 Guba 可信性标准的核心操作之一
+> - [[Negative Case Analysis]] — 质性研究中通过系统检验不符合已有假设或模式的案例来修正和完善理论的策略，是 Lincoln and Guba 可信性标准的核心操作之一
 > - [[Nomothetic]] — 以发现普遍法则为目标的方法论取向：聚焦分析选定因素之间的关系与规律性，以量化为主，是量化研究的方法论根基，与个例式相对
 > - [[Non-maleficence and Beneficence in Research]] — 研究伦理中一对相辅相成的核心原则：不伤害要求研究不对参与者造成身体、心理、情感或职业损害；行善要求研究为参与者和更广泛社区带来实际收益
 > - [[Nondirectional Language]] — 质性研究中不使用暗示结果方向的词语的原则，由 McCracken (1988) 提出，要求访谈者和目的陈述写作者让受访者自主描述经验，避免使用成功的、有益的、积极的等预设方向性结果的词汇
@@ -841,11 +841,11 @@ Total entries: **1865**
 > - [[Theoretical Perspective]] — 量化研究计划中专门阐述理论框架的独立章节，说明研究采用的理论、其核心命题和假设、已有应用文献，以及该理论如何连接到当前研究的变量和假设
 > - [[Theoretical Standpoint]] — 质性研究中以理论作为整体导向透镜的方式，围绕性别、阶级、种族等边缘群体议题塑造研究问题、数据收集与分析，并提供行动或变革的呼吁
 > - [[Theoretical Validity]] — Maxwell 质性效度类型之一，关注研究者带入研究的理论建构能在多大程度上解释所研究的现象，理论在此被视为解释，构念是所有参与者而非仅仅是研究者的构念
-> - [[Threats to External Validity]] — 在量化研究中限制研究发现从样本推广到更广泛总体、情境和时间的系统性偏差来源，Campbell 和 Stanley 经典框架列出九种量化威胁，Lincoln 和 Guba 将其扩展至自然主义研究中的四种威胁
-> - [[Threats to Internal Validity]] — 在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell 和 Stanley 经典框架列出十种主要威胁，Onwuegbuzie 和 Leech 将其扩展至质性研究中的十二种威胁
+> - [[Threats to External Validity]] — 在量化研究中限制研究发现从样本推广到更广泛总体、情境和时间的系统性偏差来源，Campbell and Stanley 经典框架列出九种量化威胁，Lincoln and Guba 将其扩展至自然主义研究中的四种威胁
+> - [[Threats to Internal Validity]] — 在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell and Stanley 经典框架列出十种主要威胁，Onwuegbuzie and Leech 将其扩展至质性研究中的十二种威胁
 > - [[Transcription in Qualitative Research]] — 将口头访谈转换为书面文本的过程，是选择性转换而非中性记录，涉及从口头和人际规则系统到书面语言系统的根本性变化
 > - [[Transformative Paradigm]] — 一种将研究探究与政治变革议程紧密交织的研究哲学立场，以对抗社会压迫和赋权边缘群体为核心，要求研究者与参与者合作推动社会改革
-> - [[Trustworthiness]] — Lincoln 和 Guba 提出的质性研究质量的替代性总称概念，涵盖可信性、可迁移性、可依赖性和可确认性四项标准，以替代实证主义范式中的内部效度、外部效度、信度和客观性
+> - [[Trustworthiness]] — Lincoln and Guba 提出的质性研究质量的替代性总称概念，涵盖可信性、可迁移性、可依赖性和可确认性四项标准，以替代实证主义范式中的内部效度、外部效度、信度和客观性
 > - [[Type I and Type II Errors]] — 统计推断中两类对称的决策错误——拒绝真零假设（第一类，冤枉无辜）和接受假零假设（第二类，放过有罪），两者之间存在内在权衡，在量化与质性研究中均有对应
 > - [[Validity as Inferences]] — 效度被理解为推论的属性而非测试或实验本身的属性，验证是持续修正推论边界与证据基础的过程
 > - [[Value Neutrality]] — 主张科学研究应排除研究者主观价值与偏见、保持客观中立的认识论规范；实证主义视其为科学基石，而批判理论与循证教育批判则指出其声称本身即是维护现状或推行数字治理的意识形态立场。
@@ -950,7 +950,7 @@ Total entries: **1865**
 > - [[Luhmann's Systems Theory]] — 社会作为自创生沟通系统的宏大理论，严格区分社会系统与心理系统，并以盲点和结构耦合解释系统观察与互动
 > - [[Phenomenology]] — 以主观意识和直接经验为核心的哲学传统，关注意识如何主动赋予世界意义，是诠释范式的三大研究传统之一。
 > - [[Popper's Three Worlds Theory]] — 将现实区分为物理世界、主观经验世界和客观知识世界的本体论框架，用于解释知识对象如何独立于个体意识而存在并被社会继承
-> - [[Pragma-Dialectics]] — van Eemeren 与 Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
+> - [[Pragma-Dialectics]] — van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
 > - [[Pragmatic Constructivism]] — 由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程
 > - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
 > - [[Reliabilism]] — 哲学理论附加强调信念的确证依赖于产生该信念的过程是否可靠。科学实践与认知过程被纳入认识论研究。
@@ -974,20 +974,20 @@ Total entries: **1865**
 > [!index-list]- Higher Education (11)
 > - [[Creative Tension of Sense]] — Dell Delambre 的认识论：新世界永远在旧世界内部诞生，新旧之间的意义张力是意义创造的根本条件，主张承载而非消解张力，与 Mignolo、Dussel、Santos 等去殖民思想对话
 > - [[Dollinger et al. Framework for UI Collaboration]] — Dollinger et al. (2018) 提出的国际产学合作分析框架，从环境因素、技术因素和管理因素三个维度评估合作，可用于国际合作关系的基准比较和进展评估
-> - [[King-Persily Model]] — King 与 Persily（2019）提出的产学合作数据治理模型，通过引入第三方委员会来解耦研究者对产业数据和专有信息的完全访问，最初针对社会科学与社交媒体大数据场景，Swick 与 Jones（2025）讨论了其在生物医学创新中的适用性
+> - [[King-Persily Model]] — King and Persily（2019）提出的产学合作数据治理模型，通过引入第三方委员会来解耦研究者对产业数据和专有信息的完全访问，最初针对社会科学与社交媒体大数据场景，Swick and Jones（2025）讨论了其在生物医学创新中的适用性
 > - [[Lester's Typology of University Contributions to Local Industry]] — Richard Lester（MIT, 2005）提出的分类框架，根据本地产业类型和所处产业生命周期阶段，将大学对本地经济的贡献划分为四种类型——新兴产业培育、产业引进/移植、现有产业多样化、现有产业升级
 > - [[Network Society]] — 把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织
 > - [[RIA Model for Innovation]] — Schlegel-UW 老龄化研究所提出的四阶段创新模型，包括知识生成、孵化、加速和动员，描述研究型产学合作从基础研究到社会影响的完整链条
 > - [[Stokes' Quadrant Model of Scientific Research]] — Stokes (1997) 提出的二维研究分类框架，以对基础理解的追求程度和对应用的考虑程度为两个独立维度，将科学研究分为玻尔象限、巴斯德象限、爱迪生象限和第四象限，取代传统的基础-应用一维谱系
 > - [[Systems of Innovation]] — Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络和市场互动进行的集体学习活动，强调制度、网络和吸收能力对创新绩效的关键作用，1980–90年代后成为多国创新政策的主导范式
-> - [[Triple Helix]] — Etzkowitz 与 Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统
-> - [[UIC Evolutionary Phases]] — ODwyer、Filieri 和 OMalley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制
-> - [[Values Alignment Model]] — Swick 与 Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力
+> - [[Triple Helix]] — Etzkowitz and Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统
+> - [[UIC Evolutionary Phases]] — ODwyer、Filieri and OMalley（2023）基于爱尔兰制药业产学合作网络案例研究提出的四阶段演化模型，将产学合作从萌芽到成熟分为胚胎期、启动期、参与期和确立期，每阶段对应不同的障碍、促进因素和突破机制
+> - [[Values Alignment Model]] — Swick and Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力
 
 > [!index-list]- Instruction Pedagogy (4)
 > - [[Bounded Rationality]] — 解释人在信息、时间和计算能力受限条件下如何决策的理论，可用于说明教师和专业人员为何依赖简化判断、经验规则与情境推理
 > - [[Dynamic Knowledge and Learning Model]] — 用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。
-> - [[Teaching Theory of Gruschka]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung 和 Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
+> - [[Teaching Theory of Gruschka]] — Andreas Gruschka (2009, 2013, 2019) 的教学理论，将教学行动理解为 Bildung、Erziehung and Didaktik 三者交织的整合性星座，以 Adorno 的星座概念为其非同一性结构的哲学基础
 > - [[Three Levels of Teaching]] — 一种教学理论框架，依据教师把学习结果归因于学生特征、教师行为还是完整教学系统，区分三个递进的教学观层次。
 
 > [!index-list]- Learning Science Cognitive Science (10)
@@ -1007,11 +1007,11 @@ Total entries: **1865**
 > - [[Critical Geopolitics]] — 把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实
 > - [[Cultural Political Economy]] — 把符号意义建构与结构物质过程放在同一分析框架中的理论，用于解释经济与政治秩序如何同时由话语和制度共同塑造
 > - [[Decolonial Geopolitics of Knowledge]] — 从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化
-> - [[Evolutionary Economics]] — 以 Nelson 和 Winter（1982）为奠基之作的经济学流派，强调经济活动的多样性、异质性和累积性学习过程，以技术轨迹和产业异质性为核心分析概念，挑战主流经济学的代表性企业和均衡分析假设
+> - [[Evolutionary Economics]] — 以 Nelson and Winter（1982）为奠基之作的经济学流派，强调经济活动的多样性、异质性和累积性学习过程，以技术轨迹和产业异质性为核心分析概念，挑战主流经济学的代表性企业和均衡分析假设
 > - [[Fixity-Motion Tension]] — 解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论
 > - [[Informationalism]] — 由 Manuel Castells 提出的信息时代发展模式理论，认为信息化社会的主要生产力来源是基于知识和信息优化生产要素组合的质化能力，与依赖重工业物质投入的工业化形成对比，并论证了国家主义体制与信息化之间的深层不相容
 > - [[Neo-feudalism in Higher Education]] — Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序
-> - [[Pavitt Taxonomy]] — Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino 和 Pianta 修订扩展至服务业和信息通信技术行业
+> - [[Pavitt Taxonomy]] — Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino and Pianta 修订扩展至服务业和信息通信技术行业
 > - [[Technological Trajectories]] — Pavitt（1984）和 Dosi（1982）提出的概念，指不同产业沿着根本不同的路径进行技术变迁，由技术来源、用户需求和专有可能性三个因素塑造，是解释产业间创新模式差异的核心理论机制
 > - [[Tullock's Bureaucracy Theory]] — 官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性
 
@@ -1031,7 +1031,7 @@ Total entries: **1865**
 > - [[Maxwell's Interactive Model of Research Design]] — Maxwell(2005)提出的质性研究互动设计模型，以研究问题为核心，强调目标、概念框架、方法、效度五个领域之间的相互通知和迭代涌现关系，反对线性规划。
 > - [[Organizational Culture]] — Schein（1992）提出的组织文化三层次框架：器物、价值观与深层规范；器物是可观察的表层显现，但只能提示组织在做什么，不能说明其缘由
 > - [[Potential Outcomes Framework]] — 因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。
-> - [[Realist Evaluation]] — 由 Ray Pawson 和 Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。
+> - [[Realist Evaluation]] — 由 Ray Pawson and Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。
 > - [[Seedhouse's Ethical Pyramid]] — Seedhouse提出的四层伦理决策模型，将伦理考量分为外部层、后果层、道义层和个体层，构成思考研究伦理问题的认识论装置
 > - [[Situated Ethics]] — 一种研究伦理立场，主张伦理原则在不同的研究实践中被中介而具有不同意义，伦理决定不可诉诸单义普适原则或守则，必须权衡具体情境中的特殊冲突和困境
 > - [[Sociology of Measurement]] — 将测量视为社会技术来分析的框架，关注测量如何被组织、运作并在实践中塑造对象、关系和世界。
@@ -1048,7 +1048,7 @@ Total entries: **1865**
 > - [[Lefebvre's Spatial Triad]] — Henri Lefebvre（1991）提出的空间分析框架，将空间分为感知空间（空间实践）、构想空间（空间表征）和活生生空间（表征性空间）三个辩证互动的维度，为理解大学教师如何在区域空间中桥接产学政网络提供了分析工具
 > - [[Rational Action Theory]] — 以相对风险规避为核心机制解释不同阶层教育选择差异的中层理论，主张教育决策是阶级条件下对成本、风险和收益的理性计算
 > - [[Refraction Framework]] — Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成
-> - [[Social Capital Theory]] — 以 Bourdieu、Coleman 和 Putnam 为代表的跨学科理论，将社会关系网络、信任、规范和互惠性视为一种可产生经济和社会回报的资本形式。ODwyer 等（2023）将其应用于产学合作网络演化，揭示声誉基础的信任和诚信基础的信任在合作不同阶段的差异化作用
+> - [[Social Capital Theory]] — 以 Bourdieu、Coleman and Putnam 为代表的跨学科理论，将社会关系网络、信任、规范和互惠性视为一种可产生经济和社会回报的资本形式。ODwyer 等（2023）将其应用于产学合作网络演化，揭示声誉基础的信任和诚信基础的信任在合作不同阶段的差异化作用
 > - [[Symbolic Interactionism]] — 源自米德的社会心理学理论，主张人基于事物对其具有的意义来行动，意义通过符号和社会互动持续建构、修改和协商。
 
 ---
@@ -1091,7 +1091,7 @@ Total entries: **1865**
 > - [[Carnivalesque Analysis]] — 通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权力关系的质性分析方法，适合拆解官方话语的自明性
 > - [[Case Study]] — 以单个或少数个案为分析单位深入追踪过程、情境和机制的研究设计，适合解释复杂现象如何在具体场域中展开
 > - [[Coding in Qualitative Research]] — 质性研究中将文本或图像数据拆分为片段并赋予类别标签的分析过程，是数据分析和主题生成的核心步骤
-> - [[Comparative Case Study]] — Bartlett 与 Vavrus 提出的比较案例研究方法，通过水平、垂直和横贯三个轴同时对案例进行跨地点、跨尺度和历时比较，适合分析复杂连接的教育政策与治理现象
+> - [[Comparative Case Study]] — Bartlett and Vavrus 提出的比较案例研究方法，通过水平、垂直和横贯三个轴同时对案例进行跨地点、跨尺度和历时比较，适合分析复杂连接的教育政策与治理现象
 > - [[Comparative Meta-synthesis]] — 通过跨元分析比较来得出推论的综合方法，旨在回答不同教育方法的相对效果，但面临苹果和橙子的可比性挑战
 > - [[Comparative Textbook Analysis]] — 系统比较不同地区或国家教科书的质性分析方法，以子句为编码单位，通过框架信息型归纳编码和主题生成揭示教科书如何在不同社会政治情境下建构知识、身份和国家叙事
 > - [[Constant Comparison]] — 质性数据分析中把新获取数据与既有数据、类别和理论不断比较，用反例修正类别直至完全容纳数据的分析技术
@@ -1137,7 +1137,7 @@ Total entries: **1865**
 > - [[Participant Observation]] — 质性研究中研究者同时扮演参与者和观察者角色，通过进入被研究群体的自然情境收集数据的核心方法。
 > - [[Participatory Action Research]] — 行动研究的政治化版本，以集体参与、赋权和解放为核心议程，关注权力不平等和基层变革，研究议题由参与者自身识别和拥有
 > - [[Participatory Research]] — 一种批判理论驱动的研究方法，与社区和群体一起而非对其进行研究，将研究控制权归还给参与者，以知识促变革与赋权。
-> - [[Peer Debriefing]] — Lincoln 和 Guba 建立质性研究可信性的六项核心策略之一：研究者将自己暴露于无利害关系的同行面前，以类似交叉审问的方式检验研究的诚实性、工作假设并识别下一步方向
+> - [[Peer Debriefing]] — Lincoln and Guba 建立质性研究可信性的六项核心策略之一：研究者将自己暴露于无利害关系的同行面前，以类似交叉审问的方式检验研究的诚实性、工作假设并识别下一步方向
 > - [[Philosophical Analysis in Education]] — 通过概念区分、逻辑推理和哲学论证分析教育政策与实践的前提假设，为从业者提供抵抗资源
 > - [[Photo-elicitation]] — 以一张或一组照片唤起受访者讨论、反思、评论、观察与记忆的访谈技术，照片充当访谈中的中性第三方，可缓解尴尬与权力差异
 > - [[Projection Technique]] — 通过媒介（如虚拟世界中的化身）让个体外化自我、投射内在观点和价值观的资料收集技术，适合敏感议题研究
@@ -1214,7 +1214,7 @@ Total entries: **1865**
 > - [[Non-Equivalent Control Group Design]] — 最常用的准实验设计之一，实验组与控制组未通过随机化等价，通过匹配或使用尽可能相似的样本来增强组间可比性
 > - [[Non-intervention Research]] — 不直接操纵处理条件而观察现象、关系或过程的研究集合，适合分析自然发生的教育情境与经验分布
 > - [[Observational and Correlational Research]] — 不操纵自变量而以量化资料分析变量关系、模式和相关性的非干预研究设计，适合描述分布并探索潜在关联
-> - [[One-Group Pretest-Posttest Design]] — 前实验设计中仅对单一组进行前测、干预和后测的设计，无控制组和随机分配，内部效度最低，被 Campbell 和 Stanley 列为展示混淆变量的坏例子
+> - [[One-Group Pretest-Posttest Design]] — 前实验设计中仅对单一组进行前测、干预和后测的设计，无控制组和随机分配，内部效度最低，被 Campbell and Stanley 列为展示混淆变量的坏例子
 > - [[Parametric Design]] — 真实验设计的变体，将参与者随机分配到自变量水平固定的组别中，以绘制干预对不同取值区间的差异效应曲线，比单一实验组更敏感
 > - [[Pearson Product-Moment Correlation]] — 测量两个连续变量间关联强度与方向的推断统计方法，使用r统计量，适用于正态分布的连续数据
 > - [[Perpetual Inventory Method]] — 通过投资流量数据和折旧率递推估算资本存量的标准方法，广泛用于增长核算和TFP测算
@@ -1310,7 +1310,7 @@ Total entries: **1865**
 
 > [!index-list]- brazil (5)
 > - [[Camilla de Hollanda Amado]] — 巴西演员和剧场导演，社区剧场项目组织者，为教育研究理解基层文化实践、参与式表演与公共学习提供案例资源。
-> - [[Dell Delambre]] — 巴西认识论学者和实践者，Creative Tension of Sense 与 Ganz-Methode 提出者，为教育研究连接基层实践、剧场与知识地缘政治提供拉美视角。
+> - [[Dell Delambre]] — 巴西认识论学者和实践者，Creative Tension of Sense and Ganz-Methode 提出者，为教育研究连接基层实践、剧场与知识地缘政治提供拉美视角。
 > - [[Marcelo Parreira do Amaral]] — 巴西裔德国比较教育学者，全球教育产业与知识地缘政治研究者，为教育研究分析高教国际化、市场化与地缘政治转型提供框架。
 > - [[Paulo Freire]] — 巴西教育家，批判教育学奠基人和 被压迫者教育学 作者，为教育研究连接对话、解放与权力批判提供经典语言。
 > - [[Richard Castelo Branco]] — 巴西剧场导演和文化实践者，EspectAtor 方法开发者，为教育研究理解贫民窟剧场、参与式表演与抵抗性学习提供案例。
@@ -1778,7 +1778,7 @@ Total entries: **1865**
 > - [[Stanford Prison Experiment]] — 1971年由Philip Zimbardo在斯坦福大学进行的模拟监狱实验，因参与者迅速出现极端行为和严重情绪紊乱而在第六天被提前终止，成为研究伦理和角色扮演方法论的经典争议案例。
 
 > [!index-list]- Organization (4)
-> - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF 和 UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
+> - [[African Orphan Crops Consortium]] — 2011 年由 Mars、非盟 NEPAD、WWF and UC Davis 共同发起的多边跨国产学合作项目，通过基因组学改良 101 种传统非洲粮食作物以消除非洲大陆的慢性饥饿和营养不良，已培训超过 172 名非洲科学家
 > - [[Education International]] — 覆盖 172 个国家和地区的全球教师工会 network，拥有 401 个成员组织，以保护 and 促进公共免费教育及机会平等为核心使命，其与 IMF 和世界银行的合作关系为操演性驱动联盟行为提供了典型案例
 > - [[Network of Academic Corporate Relations Officers]] — 由大学企业关系专业人员组成的行业组织，通过发布白皮书和立场文件推动产学合作最佳实践，2011 年提出二十世纪大学企业关系项目的五项基本要素
 > - [[University Industry Innovation Network]] — 致力于推动产学创新合作的国际网络组织，出版 University Industry Innovation Magazine，2021 年战略伙伴关系特刊总结了产学战略联盟的核心特征
@@ -1832,7 +1832,7 @@ Total entries: **1865**
 > [!index-list]- Event (5)
 > - [[American Society for Cultural Relations with Russia]] — 1927年前后在美成立的民间文化交流组织，John Dewey 任副主席，以书籍期刊交换为核心活动，1928年组织了 Dewey 等25名美国教育者的访苏之行，后被反共势力指控为共产党的外围宣传组织
 > - [[Cram Schools]] — 东亚社会广泛存在的校外付费学业补习机构，在台湾、日本、韩国、香港、中国、新加坡和越南普遍存在
-> - [[John Dewey's 1928 Visit to the Soviet Union]] — 1928 年 7–8 月 John Dewey 率美国教育者代表团访问苏联，会见了 Shatskii、Lunacharsky 等苏联教育改革者，访问由 ASCRR 与 VOKS 组织，推动了两国在教育领域的直接交流，同时引发美国国务院的监控和反共舆论的指责
+> - [[John Dewey's 1928 Visit to the Soviet Union]] — 1928 年 7–8 月 John Dewey 率美国教育者代表团访问苏联，会见了 Shatskii、Lunacharsky 等苏联教育改革者，访问由 ASCRR and VOKS 组织，推动了两国在教育领域的直接交流，同时引发美国国务院的监控和反共舆论的指责
 > - [[Sino-American Trade War]] — 中美围绕贸易、技术转移、产业政策和国家安全展开的持续性经济与地缘政治争端
 > - [[Transnationalism and America Project SYSU]] — 岭南基金会资助、中山大学实施的三年跨学科团队教学项目，以美方+中方教师团队教授全球化时代的美国文化，英语为主，产生三类障碍
 
@@ -2001,8 +2001,8 @@ Total entries: **1865**
 > - [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集
 > - [[Promising Practices Network]] — 面向儿童与家庭政策的多领域非营利清算中心，曾提供项目证据摘要和实践案例库
 > - [[Purdue Discovery Park]] — 普渡大学以 Lilly Endowment 和印第安纳州各 1500 万美元初始投资创建的大学研究园区，如今发展为超过 10 亿美元的自持研发企业，是美国最大的大学附属研究园区之一
-> - [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP 与 Eisenhower QOP 两个项目版本
-> - [[Research Triangle Park]] — 1950 年代末在北卡罗来纳州建立的美国最大研究园区之一，联合 Duke、UNC-Chapel Hill 和 NC State 三所研究型大学，以 IBM 为早期锚定租户，是产学合作推动区域经济转型的经典案例
+> - [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP and Eisenhower QOP 两个项目版本
+> - [[Research Triangle Park]] — 1950 年代末在北卡罗来纳州建立的美国最大研究园区之一，联合 Duke、UNC-Chapel Hill and NC State 三所研究型大学，以 IBM 为早期锚定租户，是产学合作推动区域经济转型的经典案例
 > - [[Rising Above the Gathering Storm 2007]] — 2007 年美国国家科学院报告，重申基础与开放式研究投资的战略重要性，呼应 Vannevar Bush 的 Science, The Endless Frontier，强调科学与工程人才对美国经济未来的关键作用
 > - [[SBIR and STTR Programs]] — 美国联邦政府设立的小企业创新研究（SBIR）和小企业技术转移（STTR）计划，要求产业代表直接参与项目并提供市场输入，是大学衍生企业获得非稀释性资助和早期市场验证的重要联邦渠道
 > - [[Science, The Endless Frontier 1945]] — 1945 年 Vannevar Bush 向美国总统提交的报告，强调基础与开放式研究的战略重要性，直接促成 NSF 创建，塑造了二战后美国联邦政府资助大学基础研究的制度框架
@@ -2015,10 +2015,10 @@ Total entries: **1865**
 > - [[Sunshine Act]] — 美国《平价医疗法案》2010 年组成部分，要求制药和医疗器械公司公开报告向医生和教学医院的所有支付，通过 Open Payments 数据库向公众披露，旨在增加产学临床试验中的财务透明度和防止利益冲突
 > - [[Tech Square at Georgia Tech]] — Georgia Tech 于 1990 年代末开发的产学合作创新园区，由校长 Wayne Clough 推动，以管理学院为锚点，经 TUFF 运营支持，是美国最成功的大学创新中心之一
 > - [[Tennessee STAR Project 1985-1989]] — 1985年至1989年在田纳西州开展的大规模班级规模随机对照试验，是教育领域最著名的RCT之一，为小班化教学提供了核心因果证据。
-> - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin 和 Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
+> - [[Theory Movement in Educational Administration]] — 1950s–1960s 以 Halpin and Griffiths 为代表的美国教育行政理论运动，以逻辑经验主义为科学模型，1974 年被 Greenfield 挑战
 > - [[TUFF]] — 1982 年由 Georgia Tech 校友在亚特兰大创立的 501(c)(3) 运营基金会，以私营部门交付模式为大学建设研究设施，四十余年来为产学合作创新中心提供开发、融资和场所营造服务
 > - [[UCSD Innovation and Commercialization Office]] — 加州大学圣地亚哥分校在副校长 Paul Roben 领导下采用的产业咨询联盟模式：大学主动邀请多家企业组成咨询联盟，在研发启动前提供关于未来技术缺口和机会的市场输入，翻转了传统企业来找大学的产学合作方向
-> - [[Universal Parallel Computing Research Centers]] — 2008 年 Intel 与 Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley 和 UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折
+> - [[Universal Parallel Computing Research Centers]] — 2008 年 Intel and Microsoft 联合发起的大规模大学研究倡议，在 UC Berkeley and UIUC 资助并行编程基础研究，以应对半导体行业从频率提升到多核扩展的历史性技术转折
 > - [[University City Science Center]] — 费城的非营利产学合作组织，通过项目设计激励创业者关系发展并提供培训和资源，聚焦费城本地相对优势，后建立实体空间进一步集聚创业者、学者和产业伙伴
 > - [[University Inc]] — Jennifer Washburn 2005 年著作，批判市场化大学模式对学术研究文化独特性的侵蚀，是产学合作研究中最具影响力的批评声音之一
 > - [[University Industry Demonstration Partnership]] — 2004 年由美国国家科学院发起、2015 年独立为非营利组织的全球性产学合作组织，以合同共识和伙伴关系连续体为代表成果，同时是产学实践者的核心国际交流平台
@@ -2028,7 +2028,7 @@ Total entries: **1865**
 > - [[What Works Clearinghouse]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
 
 > [!index-list]- Organization (1)
-> - [[Innovation Institute for Food and Health]] — 2015 年 Mars 与 UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议
+> - [[Innovation Institute for Food and Health]] — 2015 年 Mars and UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议
 
 > [!index-list]- Policy (13)
 > - [[CHIPS and Science Act]] — 2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设
@@ -2124,7 +2124,7 @@ Total entries: **1865**
 > - [[Argument_Susalka_Carbone_2025_IP_Web]] — 产学合作中知识产权问题的实践指南，分析大学与产业因组织使命差异导致的 IP 利益冲突，提出通过明确界定前景 IP 与背景 IP、合理设计权利转让条款来化解冲突的策略框架
 > - [[Argument_Swick_Jones_2025_AcademicHealthSystems]] — 论证学术健康系统是一种不同于传统学术医学中心的独特产学合作组织载体，以医师科学家为关键催化者，通过价值对齐模型将大学、产业和医院的优先差异重新聚焦到患者中心，从而促进医用创新的翻译和部署
 > - [[Argument_Ulrichsen_2025_UIR_Evolution]] — 综述过去50年产学关系演变，从创新模型、国家政策范式和大学-企业角色变迁三个维度追踪UIR从零散互动走向制度化战略化的历程，提出七层次影响因素框架
-> - [[Argument_Wolf_2025_InternationalResearchCollab]] — 以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars 与 UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链
+> - [[Argument_Wolf_2025_InternationalResearchCollab]] — 以目标对齐、知识产权、地缘政治和文化沟通为分析维度，拆解国际产学合作五重挑战的内在逻辑与相互关系，并通过 Mars and UC Davis 四十年合作的三个案例还原跨国研究伙伴关系从启动、运作到规模化的完整论证链
 
 > [!index-list]- Parreira do Amaral(Ed.)_2022_Springer (15)
 > - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos，以 Cowen transitology 和双轴模型为框架，对比超人类主义与后人类主义两种晚期现代性教育愿景，呼吁以 connectivity 和 response-ability 为组织原则的新公共教育理论
@@ -2134,7 +2134,7 @@ Total entries: **1865**
 > - [[Argument_Hartmann_2022_CorporateEducation]] — Ch11 Eva Hartmann，以制度同构理论和 MNC 组织类型学为框架，分析企业教育的国际化及其地缘政治与地缘经济维度，识别四种权威来源策略，论证营利性教育提供商的市场集中化趋势
 > - [[Argument_Jornitz_2022_Bildung_algorithmic]] — 以 Bildung 概念和 Gruschka 教学理论为框架，分析学习软件的即时反馈、奖励系统和表现仪表盘三大机制如何系统性地排除教育中的意义建构与人格陶成，将算法技术的全球传播解读为数字知识地缘政治
 > - [[Argument_Moisio_2022_Springer]] — Ch2 Sami Moisio，论证当代知识密集型资本主义是地缘政治星座，以 Harvey 固着-流动张力、Hub and Flow 想象和空间分选为核心分析框架
-> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs 和 Minerva 为典型案例
+> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 Marcelo Parreira do Amaral，整合批判地缘政治学与后殖民去殖民两脉络提出新知识地缘政治，以全球区域主义和 GEI 为转型语境，IEHs and Minerva 为典型案例
 > - [[Argument_Parreira do Amaral_2022_Springer]] — 论文集整体论证：高等教育正经历知识地缘政治重构，三部分（想象与空间→制 度与互动→主体形塑）逐层展开
 > - [[Argument_Partaken_2022_Springer]] — Ch5 James Partaken，区分 GPK 两面（知识生产 vs 知识转移），提出六模态框架，以中美 GPK 紧张为核心案例论证知识转移的中心性
 > - [[Argument_Rambla_2022_Springer]] — Ch10 Xavier Rambla，以 Le Galès 政策工具框架分析欧盟创新与教育培训政策如何通过绩效指标构建区域性的教育与创新想象，揭示其选择性优先技术研发和就业导向而边缘化区域异质性与人文赋权
@@ -2260,7 +2260,7 @@ Total entries: **1865**
 > - [[Argument_Schulte_2009_EncuentrosEducacion]] — 追溯杜威在中国九十年间四个时期的接受与变形，揭示外国教育思想如何被主动再脉络化而非简单误解，以服务于每个时期知识分子的不同议程
 
 > [!index-list]- European Educational Research Journal (1)
-> - [[Argument_Møller_2017_EERJ]] — 以 ISSPP 和 OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜
+> - [[Argument_Møller_2017_EERJ]] — 以 ISSPP and OECD ISL 亲历者双重身份，论证教育领导力研究需要超越“什么有效“议程，提议以变革型领导力和批判性教育政策为双重分析透镜
 
 > [!index-list]- Evaluation Review (1)
 > - [[Argument_Berk_2011_ER]] — 基于 35 年 ER 创始编辑经验，反思评估研究中证据与垃圾科学的五大方法论战场（因果效应定义/RCT集群随机化/因果建模/匹配/元分析），提出中立审查、团队评估、数据科学训练三条对策

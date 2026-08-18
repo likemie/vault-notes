@@ -74,7 +74,7 @@ updated: 2026-05-18
 > [!note-] 历史沿革
 > - **Callahan（1962）** 出版 *Education and the [[Cult of Efficiency]]*，论证 20 世纪上半叶美国公立学校改革被商业管理[[Praxis|实践]]（尤其是 Taylor 1911 的科学管理）渗透——Eacott 将这一[[Analytic Framework|分析框架]]类比应用于当代澳大利亚的 Hattie 现象([[Argument_Eacott_2017_SLM|Eacott, 2017, p.413-414]])
 > - **2009 年** Hattie 出版 *[[Visible Learning]]*，此后被 ACEL 年会频繁邀请为主题演讲者（自 2009 年起），其品牌开始向多领域扩展([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
-> - **2015 年** ACEL 与 Corwin 出版公司正式宣布合作伙伴关系，系统推广 Hattie 启发的专业发展工作坊和出版物
+> - **2015 年** ACEL and Corwin 出版公司正式宣布合作伙伴关系，系统推广 Hattie 启发的专业发展工作坊和出版物
 > - **2017 年** Eacott 发表"Cult of the Guru"论文，系统论证 Hattie 已成为澳大利亚[[School Leadership|学校领导力]]领域的大师崇拜对象，其工作"现在在澳大利亚教育中无处不在"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419, 422]])
 
 ## 核心要素
@@ -103,7 +103,7 @@ updated: 2026-05-18
 > - **品牌扩张** Hattie 的工作已成为一个品牌——"[[Visible Learning|可见的学习]]（Visible Learning，VL）"标签被扩展至 Making Literacy Visible、Visible Wellbeing 等多个领域，"进一步构建品牌，证明 Hattie 品牌正在利用机会最大化优势"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
 > - **学校自我标识** 部分学校开始自称"Hattie 学校"
 > - **制度化嵌入** Hattie 的工作已被纳入初始教师教育、研究生项目、专业[[Dialogue in Education|对话]]——"现在在澳大利亚教育中无处不在"
-> - **专业协会背书** ACEL 与 Corwin 的合作伙伴关系使 Hattie 成为最大的学校领导力专业协会的官方议程([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414, 419]])
+> - **专业协会背书** ACEL and Corwin 的合作伙伴关系使 Hattie 成为最大的学校领导力专业协会的官方议程([[Argument_Eacott_2017_SLM|Eacott, 2017, p.414, 419]])
 
 ## 与相关概念的区别
 
@@ -155,7 +155,7 @@ updated: 2026-05-18
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - ACEL 与 Corwin 合作（2015）— 澳大利亚最大的[[School Leadership|学校领导力]]专业协会与 Hattie 的出版商正式合作推广 [[Visible Learning|VL]] 工作坊
+> - ACEL and Corwin 合作（2015）— 澳大利亚最大的[[School Leadership|学校领导力]]专业协会与 Hattie 的出版商正式合作推广 [[Visible Learning|VL]] 工作坊
 > - [[Australian Institute for Teaching and School Leadership|AITSL]] — Hattie 担任澳大利亚教学与学校领导力研究院主席，其工作已嵌入国家专业标准和认证体系
 > - Melbourne Declaration of Educational Goals for Young Australians（MCEETYA, 2008）— 国家政策文件的抱负性语调与"需要知道什么最有效"的理性/控制需求之间的张力
 

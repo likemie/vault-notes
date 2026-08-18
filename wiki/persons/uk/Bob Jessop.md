@@ -80,7 +80,7 @@ Jessop 对[[Knowledge-Based Economy|知识经济]]研究的核心贡献体现在
 
 ### 文化政治经济学（CPE）
 
-Jessop 与 Sum 共同提出 [[Cultural Political Economy|CPE]] 框架，将文化（意义制造、话语、想象）置于政治经济分析的中心位置。在此框架中，"想象"不仅是对经济现实的描述——它们具有"构成性和履行性角色"（constitutive and performative role），即想象在制造其所描述的现实([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.23, 26–27]])。
+Jessop and Sum 共同提出 [[Cultural Political Economy|CPE]] 框架，将文化（意义制造、话语、想象）置于政治经济分析的中心位置。在此框架中，"想象"不仅是对经济现实的描述——它们具有"构成性和履行性角色"（constitutive and performative role），即想象在制造其所描述的现实([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.23, 26–27]])。
 
 ### KBE 作为霸权的元治理对象
 

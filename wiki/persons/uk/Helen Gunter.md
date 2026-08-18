@@ -82,6 +82,6 @@ updated: '2026-06-08'
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 与 [[Jorunn Møller]] 同属 LE@DS 和 CLEG 研究网络
+> - 与 [[Jorunn Møller]] 同属 LE@DS and CLEG 研究网络
 > - 被 Møller（2017）用作支持超越"什么有效"议程的核心理论资源
 > - 与 [[Carolyn Shields]] 的[[Transformative Leadership|变革型领导力]]框架互补，共同构成 Møller 提议的批判性领导力研究取向

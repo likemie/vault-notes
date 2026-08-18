@@ -127,7 +127,7 @@ Glass（1976）和 Glass et al.（1981）区分了三个层次的分析（p.344�
 >
 > - **1976 — 命名与确立** [[Gene Glass|Gene Glass]] 在美国教育研究协会主席演说中首次提出"元分析"一词。他与 Mary Lee Smith 合作的心理治疗效果元分析（Smith & Glass, 1977）发现平均[[Effect Size|效应量]]为 0.6 个标准差，直接挑战了 Eysenck 的心理治疗无效共识。Glass 将效应量确立为跨研究比较的通用尺度（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.36–37]]）。
 >
-> - **1970s–1980s — 医学领域的扩展** Peter Elwood 和 Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验展示了元分析在医学证据综合中的力量。Richard Peto 推广了[[Fixed-Effect and Random-Effects Models|固定效应模型]]（按精度加权），Larry Hedges（1983）倡导随机效应模型，DerSimonian & Laird（1986）提供了简化公式（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.38–39]]）。
+> - **1970s–1980s — 医学领域的扩展** Peter Elwood and Archie Cochrane 等人通过阿司匹林预防心脏病发作的随机试验展示了元分析在医学证据综合中的力量。Richard Peto 推广了[[Fixed-Effect and Random-Effects Models|固定效应模型]]（按精度加权），Larry Hedges（1983）倡导随机效应模型，DerSimonian & Laird（1986）提供了简化公式（[[Argument_Higgins_2016_RE|Higgins, 2016, pp.38–39]]）。
 >
 > - **1980s — "苹果和橙子"争论** Eysenck 称元分析为"超级愚蠢"，批评其将不可比的研究混为一谈。Slavin（1984）同样提出苹果和橙子问题。Glass 的回应是："当然它混合苹果和橙子；在研究水果时没有别的合理做法"——任何推论都直接取决于元分析所包含的内容（[[Argument_Higgins_2016_RE|Higgins, 2016, p.37]]）。
 >

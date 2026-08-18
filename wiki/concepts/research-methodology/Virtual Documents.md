@@ -68,4 +68,4 @@ updated: 2026-07-09
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion 与 Morrison 将虚拟[[Document|文献]]定位为一手/[[Primary and Secondary Documents|二手文献]]区分的四种边界模糊情形之一，系统讨论了其研究价值、呈现偏误以及历史学界对物质性丧失的担忧。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion and Morrison 将虚拟[[Document|文献]]定位为一手/[[Primary and Secondary Documents|二手文献]]区分的四种边界模糊情形之一，系统讨论了其研究价值、呈现偏误以及历史学界对物质性丧失的担忧。

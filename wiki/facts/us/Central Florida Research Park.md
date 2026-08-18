@@ -51,7 +51,7 @@ updated: 2026-05-28
 ## 运营规模
 
 > [!success]
-> 如今 CFRP 拥有超过 9,500 名雇员。园区租户以国防承包商为主，包括 Northrop Grumman、Boeing、Leidos、ManTech、General Dynamics、Parsons 和 Booz Allen Hamilton 等主要企业（p.132）。
+> 如今 CFRP 拥有超过 9,500 名雇员。园区租户以国防承包商为主，包括 Northrop Grumman、Boeing、Leidos、ManTech、General Dynamics、Parsons and Booz Allen Hamilton 等主要企业（p.132）。
 
 UCF 的研发支出在过去十年间翻了一番多，从 2011 年的 1.09 亿美元增长到 2020 年的 2.39 亿美元（p.132）。
 

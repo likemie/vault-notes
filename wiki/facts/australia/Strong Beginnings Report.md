@@ -138,4 +138,4 @@ updated: 2026-07-13
 > | [[Australian Institute for Teaching and School Leadership]] | 负责将核心大纲作为附表强制纳入全国认证标准的权力机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]]) |
 > | [[Centre for Independent Studies]] | 资助和推广作为强制大纲必修参考[[Document\|文献]]的保守智库。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 9–10]]) |
 > | [[John Sweller]] | [[Cognitive Load Theory\|认知负荷理论]]提出者，其文献被强制列为核心大纲指定文献。 | |
-> | [[Educational Services Australia]] | 在底层技术与系统行政层面上共同支撑 AITSL 和 AERO 运行的机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |
+> | [[Educational Services Australia]] | 在底层技术与系统行政层面上共同支撑 AITSL and AERO 运行的机构。 | ([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]) |

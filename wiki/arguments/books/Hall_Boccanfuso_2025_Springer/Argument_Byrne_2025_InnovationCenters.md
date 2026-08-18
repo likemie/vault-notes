@@ -291,10 +291,10 @@ citation_aliases:
 ---
 
 > [!success]
-> [[Purdue Discovery Park|普渡发现园]]（Purdue Discovery Park）是良性循环的实例。Lilly Endowment 和印第安纳州政府的初始投资各约 1500 万美元，Bayer、Rolls-Royce 和 Saab 等企业入驻，如今发展为 Discovery District，一个超过 10 亿美元的自持研发企业，也是美国最大的大学附属研究园区之一。Discovery District 目前涵盖纳米技术、先进计算等更广泛的研究领域，其官网在突出研发成功的同时也强调对潜在居民的综合价值，包括区域的可步行性、顶级公立学校和快速扩张的混合用途房地产(pp.131–132)。初始 3000 万美元撬动了超过 10 亿美元的研发活动，这一杠杆效应是初始投资通过良性循环放大的直观证据。
+> [[Purdue Discovery Park|普渡发现园]]（Purdue Discovery Park）是良性循环的实例。Lilly Endowment 和印第安纳州政府的初始投资各约 1500 万美元，Bayer、Rolls-Royce and Saab 等企业入驻，如今发展为 Discovery District，一个超过 10 亿美元的自持研发企业，也是美国最大的大学附属研究园区之一。Discovery District 目前涵盖纳米技术、先进计算等更广泛的研究领域，其官网在突出研发成功的同时也强调对潜在居民的综合价值，包括区域的可步行性、顶级公立学校和快速扩张的混合用途房地产(pp.131–132)。初始 3000 万美元撬动了超过 10 亿美元的研发活动，这一杠杆效应是初始投资通过良性循环放大的直观证据。
 
 > [!success]
-> [[Central Florida Research Park|中佛罗里达研究园]]（Central Florida Research Park）同样体现了良性循环。该园于 1978 年通过与中佛罗里达大学（University of Central Florida, UCF）合作建立。1993 年，美国海军空战中心训练系统部（Naval Air Warfare Center Training Systems Division）迁入园区。此后大学和州政府持续投资以吸引更多国防部租户入驻。如今园区拥有超过 9,500 名雇员，租户包括 Northrop Grumman、Boeing、Leidos、ManTech、General Dynamics、Parsons 和 Booz Allen Hamilton 等主要国防承包商。UCF 的研发支出在过去十年间翻了一番多，从 2011 年的 1.09 亿美元增长到 2020 年的 2.39 亿美元(p.132)。
+> [[Central Florida Research Park|中佛罗里达研究园]]（Central Florida Research Park）同样体现了良性循环。该园于 1978 年通过与中佛罗里达大学（University of Central Florida, UCF）合作建立。1993 年，美国海军空战中心训练系统部（Naval Air Warfare Center Training Systems Division）迁入园区。此后大学和州政府持续投资以吸引更多国防部租户入驻。如今园区拥有超过 9,500 名雇员，租户包括 Northrop Grumman、Boeing、Leidos、ManTech、General Dynamics、Parsons and Booz Allen Hamilton 等主要国防承包商。UCF 的研发支出在过去十年间翻了一番多，从 2011 年的 1.09 亿美元增长到 2020 年的 2.39 亿美元(p.132)。
 
 ---
 
@@ -354,7 +354,7 @@ citation_aliases:
 
 23. 科学家和工程师，尤其是来自不同学科和行业的人，不太会主动社交(p.137)。他们需要"借口"来互动。这种借口应当是趣味的、低压力、非正式的活动，正式会议无法产生真正的跨学科交流。
 
-24. 在 Tech Square，[[TUFF]] 的 Tom Hall 致力于创新"非传统激活"（unconventional activation）这一概念，专门为那些天性不太倾向于社交的、高度专注的群体设计互动契机。活动类型非常灵活，目标是尽可能把更多人聚到一起(p.137)。
+24. 在 Tech Square，[[TUFF]] 的 [[Theory of Mind|ToM]] Hall 致力于创新"非传统激活"（unconventional activation）这一概念，专门为那些天性不太倾向于社交的、高度专注的群体设计互动契机。活动类型非常灵活，目标是尽可能把更多人聚到一起(p.137)。
 
 > [!example]
 > 乐高搭建比赛、知识问答之夜、桌游下午茶、Taco Tuesday。两个平时在各自实验室里埋头工作的人，可能因为拼乐高时聊到"你做什么的"而发现，一个人正在做的机器学习模型，恰好可以解决另一个人实验室里困扰了三年的数据标注问题(pp.136–137)。

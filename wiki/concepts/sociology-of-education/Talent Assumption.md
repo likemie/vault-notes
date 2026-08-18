@@ -48,7 +48,7 @@ updated: 2026-05-24
 > [!info]
 > 天赋[[Hypothesis|假设]]（talent assumption）是 Li (2012) 在分析西方 [[Nerd]] 同伴文化时识别的一种深层文化信念：**智力成就主要来源于先天禀赋（天赋、天才），而非后天[[Conatus|努力]]。** 根据这一假设，一个人在学术领域的表现——尤其是卓越的表现——被认为反映了他天生被赋予的智力水平([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–98]])。
 
-这一信念的历史根源可追溯至 Francis Galton 的《Hereditary Genius》（1869/2006 重印）——该书首次系统论证"天才是遗传的"——并延续至 Hernstein 和 Murray 的《The Bell Curve》（1994）等当代争论。Li 指出，这一假设之所以难以被彻底反驳，是因为日常生活中确实存在明显的天赋差异（莫扎特、毕加索、爱因斯坦），使得天赋假设具有直观的"常识"感召力([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
+这一信念的历史根源可追溯至 Francis Galton 的《Hereditary Genius》（1869/2006 重印）——该书首次系统论证"天才是遗传的"——并延续至 Hernstein and Murray 的《The Bell Curve》（1994）等当代争论。Li 指出，这一假设之所以难以被彻底反驳，是因为日常生活中确实存在明显的天赋差异（莫扎特、毕加索、爱因斯坦），使得天赋假设具有直观的"常识"感召力([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
 
 > [!tip]- 与 [[Entity vs Incremental Intelligence]] 的关系
 > 天赋假设是**文化层面的信念**，实体智力观是这一文化信念在**个体心理层面**的[[Operationalization|操作化]]。Dweck 的实体论（entity theory）描述了"智力是固定的"这一**个人信念**如何影响学习行为；天赋假设则描述了"才能在出生时已定"这一**文化叙事**如何渗透学校制度、教师判断、同伴态度和家长社会化[[Praxis|实践]]。两者同源但在不同分析层面运作。
@@ -74,9 +74,9 @@ updated: 2026-05-24
 >
 > 这个逆转证明了"努力=低能力"的联想是**被特定的文化环境教出来的**，不是生物性命的。
 
-**制度层面的运作：[[Tracking|分轨制]]（tracking）**。Oakes 和 Guiton 对美国高中分轨制的研究发现：教育者普遍相信"学生的智力前景在进入高中时实际上已经确定"。一位校长甚至说"他在幼儿园结束时就能判断哪些孩子能在高中成功"。课程和教学的目的因此从"提高学生能力"变成了"适应学生已有的特征"([[Argument_Li_2012_Cambridge|Li, 2012, pp.98–99]])。
+**制度层面的运作：[[Tracking|分轨制]]（tracking）**。Oakes and Guiton 对美国高中分轨制的研究发现：教育者普遍相信"学生的智力前景在进入高中时实际上已经确定"。一位校长甚至说"他在幼儿园结束时就能判断哪些孩子能在高中成功"。课程和教学的目的因此从"提高学生能力"变成了"适应学生已有的特征"([[Argument_Li_2012_Cambridge|Li, 2012, pp.98–99]])。
 
-> [!quote] Oakes 和 Guiton 的结论（转引自 Li, 2012, pp.98–99）
+> [!quote] Oakes and Guiton 的结论（转引自 Li, 2012, pp.98–99）
 > "We found little evidence that educators at any of the schools thought that high schools courses could (or should even try to) increase students' intellectual capacities or raise their expectations."
 
 **"B 等写作者"自证预言**。Li 引述了一个美国高中生的自我实验([[Argument_Li_2012_Cambridge|Li, 2012, pp.97–98]])：该生发现无论他多么努力（完善大纲、草稿、按反馈修改）或多么不努力（迟交几小时→几天→几周），他的英语作文始终得 B。他得出结论：一旦教师在心里将学生标记为某个等级，**做多少好事都升不上去，做多少坏事也降不下来**。结果是他从此不再喜欢写作——尽管他本来写得不错。

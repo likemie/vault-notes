@@ -182,7 +182,7 @@ updated: 2026-07-15
 > 即使班级规模效应真实存在，大规模缩减班额的政策成本极高。需要在同等预算下比较不同干预方案的相对效果。
 
 > [!claim] [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]]
-> [[French Class Size Reduction]] 中法国教育部将弱势地区一、二年级班额从 24 人降至 12 人，Campbell 协作网（[[Campbell Collaboration]]） 元分析显示阅读效应小而显著，数学效应为负且不显著。Pellegrini 与 Vivanet 的判断是：减少不平等当然必要，但班额缩减可能是昂贵且相对低效的方案；成人辅导等策略在若干元分析中显示出更强的[[Academic Achievement|学业成就]]证据（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
+> [[French Class Size Reduction]] 中法国教育部将弱势地区一、二年级班额从 24 人降至 12 人，Campbell 协作网（[[Campbell Collaboration]]） 元分析显示阅读效应小而显著，数学效应为负且不显著。Pellegrini and Vivanet 的判断是：减少不平等当然必要，但班额缩减可能是昂贵且相对低效的方案；成人辅导等策略在若干元分析中显示出更强的[[Academic Achievement|学业成就]]证据（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
 
 ---
 ### 命题三　班级规模效应依赖于教学方式的同步改变，仅缩减人数不足以保证效果
@@ -250,7 +250,7 @@ updated: 2026-07-15
 ### 法国
 
 > [!evidence-grid-a] 法国案例
-> - **[[French Class Size Reduction]]** 弱势地区一、二年级班额从 24 人降至 12 人，是政策制定者查阅证据后采取行动的案例；但相关效应较小且成本高，Pellegrini 与 Vivanet 将其作为证据知情政策仍需比较成本与替代方案的例子（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27–28]]）。
+> - **[[French Class Size Reduction]]** 弱势地区一、二年级班额从 24 人降至 12 人，是政策制定者查阅证据后采取行动的案例；但相关效应较小且成本高，Pellegrini and Vivanet 将其作为证据知情政策仍需比较成本与替代方案的例子（[[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, pp.27–28]]）。
 
 ### 新西兰
 

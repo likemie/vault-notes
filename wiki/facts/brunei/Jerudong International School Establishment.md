@@ -59,7 +59,7 @@ updated: 2026-05-22
 ## 影响与后果
 
 > [!success]
-> - 该项目让公司首次系统积累了在陌生司法与文化环境中管理大型教育项目的经验，后来成为其进入 Qatar 和 Abu Dhabi 等市场的重要前置能力。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22-23]])
+> - 该项目让公司首次系统积累了在陌生司法与文化环境中管理大型教育项目的经验，后来成为其进入 Qatar and Abu Dhabi 等市场的重要前置能力。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.22-23]])
 > - 项目成功强化了公司把 [[Tomorrow's Schools Reforms]] 形成的教育治理经验向海外输出的想象，但作者也指出这种可移植性后来暴露出明显限制。([[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017, p.23]])
 > - Jerudong 项目成为公司国际化雄心的心理催化剂，但其突然终止也说明海外教育市场高度受本地政治经济条件影响，难以维持稳定常驻业务。
 

@@ -177,7 +177,7 @@ updated: 2026-06-05
 - 2000 年代后，大学日益深入地嵌入创新系统，"寻求积极促进互动和溢出效应以连接研究与应用和商业化，承担起催化和推动经济和社会发展的角色"（Youtie & Shapira, 2008, p.1189，引自 [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.42]]）。这催生了正式的制度化的[[Third Mission|大学第三使命]]([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.41–44]])
 - 2019 年，牛津大学与 [[University Industry Demonstration Partnership|UIDP]] 联合举办首届 [[Oxford UIDP Summit 2019]]，汇集 149 名产学政高层代表。峰会识别了政策环境的根本转向——从"资助科学"转向"催化影响"，美英欧的科学政策日益强调"有影响的知识"（knowledge with impact）。英国在 2021/22 前的四年期间追加 47 亿英镑科学预算，大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund|ISCF]]）投入产业主导的研究与创新优先领域；美国通过 [[ROI Initiative for Unleashing American Innovation]] 致力于最大化联邦约 1,500 亿美元年度研发投资的价值转化([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.5-7]])
 - 同期，产学互动的规模大幅增长：美国大学来自产业的研发资金从 1990 年的 22 亿美元增至 2022 年的 57 亿美元（按 2022 年不变价）；英国大学[[Knowledge Transfer|知识转移]]活动收入从 2004 年的 43 亿美元增至 2022 年的 87 亿美元([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])
-- 2023 年，ODwyer、Filieri 和 OMalley 基于爱尔兰 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 制药产学合作网络的[[Case Study|案例研究]]，提出了产学合作演化的 四阶段模型，胚胎期（正式合作前）、启动期（第 1–3 年）、参与期（第 4–7 年）、确立期（第 8 年至今）。该模型的核心贡献是揭示了障碍和促进因素的**时间维度** 强不信任和知识泄露恐惧主导胚胎期，知识产权协议缺失主导启动期，信任演化和互惠性主导参与期。政府资助的均等分配和协作式知识产权协议的制定被识别为两个关键突破机制[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(ODwyer et al., 2023)]]
+- 2023 年，ODwyer、Filieri and OMalley 基于爱尔兰 [[Synthesis and Solid State Pharmaceutical Centre|SSPC]] 制药产学合作网络的[[Case Study|案例研究]]，提出了产学合作演化的 四阶段模型，胚胎期（正式合作前）、启动期（第 1–3 年）、参与期（第 4–7 年）、确立期（第 8 年至今）。该模型的核心贡献是揭示了障碍和促进因素的**时间维度** 强不信任和知识泄露恐惧主导胚胎期，知识产权协议缺失主导启动期，信任演化和互惠性主导参与期。政府资助的均等分配和协作式知识产权协议的制定被识别为两个关键突破机制[[Argument_ODwyer_Filieri_OMalley_2023_JTT|(ODwyer et al., 2023)]]
 
 ## 核心要素
 
@@ -439,7 +439,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 > - Kerr 的 [[Multi-University]] 概念（2001）— 多元大学的三大使命（研究、教学、公共服务）恰好对应产学合作的三重回报（研究与学术、教育与学习、公共效益），同时财务资源和声誉是维持多元大学运转的[[Necessary and Sufficient Conditions|必要条件]]（pp.5–7）
 > - [[Values Alignment Model|价值对齐模型]] — [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones (2025, pp.190–191)]]提出以促进者（如 [[Academic Health System|AHS]]）为枢纽，通过终端用户中心的透镜重新对齐大学、产业和医院各方的优先差异与 [[Return on Investment|ROI]] 定义。该模型为理解产学合作中目标对齐的操作机制提供了框架
 > - [[King-Persily Model|King-Persily 模型]] — King & Persily（2019）提出通过独立第三方委员会解耦研究者对产业数据的完全访问，解决产学合作中的数据治理与专有信息保护矛盾([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.188–189]])
-> - 合作光谱 — Swick 和 Jones（2025, p.187, Fig. 10.4）从创新来源和伙伴角色的角度补充了另一种视角：合作从"交易型"（产业出创新、大学出场景）到"创新型"（大学出创新、产业出规模化能力）。详见 [[Partnership Continuum]]
+> - 合作光谱 — Swick and Jones（2025, p.187, Fig. 10.4）从创新来源和伙伴角色的角度补充了另一种视角：合作从"交易型"（产业出创新、大学出场景）到"创新型"（大学出创新、产业出规模化能力）。详见 [[Partnership Continuum]]
 
 ---
 
@@ -462,7 +462,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 > 大学对产学合作的态度在过去几十年间发生了显著变化。许多大学已将创业或产学合作纳入教师晋升和终身教职（promotion and tenure）的评审标准，这极大地改变了学术界对产学合作的看法([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.132–133]])。
 
 > [!success] COVID-19 作为产学合作的自然实验
-> COVID-19 大流行期间，大学、产业和医院在"不惜一切代价找到答案"的共同心态下搁置分歧、高效协作。[[Academic Medical Center|AMC]] 和 [[Academic Health System|AHS]] 在全国范围内联合为 Pfizer、Moderna 和 Johnson & Johnson 的 III 期[[Clinical Trial|临床试验]]提供场所，疫苗学在 1–2 年内达到了本来需要数十年才能实现的水准([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.189–190]])。
+> COVID-19 大流行期间，大学、产业和医院在"不惜一切代价找到答案"的共同心态下搁置分歧、高效协作。[[Academic Medical Center|AMC]] 和 [[Academic Health System|AHS]] 在全国范围内联合为 Pfizer、Moderna and Johnson & Johnson 的 III 期[[Clinical Trial|临床试验]]提供场所，疫苗学在 1–2 年内达到了本来需要数十年才能实现的水准([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.189–190]])。
 >
 > 这一经验证明：当各方拥有对齐的目标和强烈的紧迫感时，产学合作可以实现远超常态的成果。但合作在疫情后迅速回归旧有障碍和保守立场，表明这种高强度协作依赖于危机情境的推动，尚未制度化。[[Values Alignment Model|价值对齐模型]]试图将这种对齐机制从危机依赖中解放出来（pp.190–191）。
 
@@ -508,6 +508,6 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 > [!example]
 - IBM 与斯坦福大学合作开发无需铂等重金属的催化技术，发现了一种解聚聚对苯二甲酸乙二醇酯（PET）的方法，为回收塑料瓶和聚酯纤维提供了新途径（p.7）
 - 波音与谢菲尔德大学合作建立[[Advanced Manufacturing Research Centre|先进制造研究中心]]（AMRC），截至 2024 年拥有 600 多名研究人员、技术人员和支持人员，120 多个行业成员，年研究经费约 4000 万英镑（pp.7–8）
-- Houston Methodist 与 Medtronic 合作开展经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的产学合作：从 2007 年起通过四轮递进式[[Clinical Trial|临床试验]]（极端风险→高风险→中等风险→低风险），将 TAVR 发展为主动脉瓣狭窄全风险谱系的标准疗法。30 天死亡率从 7.2% 降至 2.5%，2019 年 TAVR 年手术量首次超过传统外科手术([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.192–194]])
+- Houston Methodist and Medtronic 合作开展经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的产学合作：从 2007 年起通过四轮递进式[[Clinical Trial|临床试验]]（极端风险→高风险→中等风险→低风险），将 TAVR 发展为主动脉瓣狭窄全风险谱系的标准疗法。30 天死亡率从 7.2% 降至 2.5%，2019 年 TAVR 年手术量首次超过传统外科手术([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.192–194]])
 - Mars 与加州大学戴维斯分校和阿肯色大学合作研究水稻"干湿交替"（AWD）灌溉技术，显著减少用水和温室气体排放而不降低产量（p.8）
 
