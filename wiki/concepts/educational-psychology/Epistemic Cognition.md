@@ -6,15 +6,17 @@ aliases:
 summary: "心理学概念附加个体关于知识和认知过程的所有显性或隐性信念与认知。是理解学习过程的重要预测变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Justificatory Standards]]"
   - "[[Epistemic Aims]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Epistemic Commitments]]"
   - "[[Critical Thinking]]"
   - "[[Epistemic Value]]"
   - "[[Epistemic Virtues and Vices]]"
@@ -39,7 +41,7 @@ updated: 2026-08-18
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]认知（Epistemic Cognition）是涵盖所有与认识论（epistemological）或认识（epistemic）事务相关的显性或隐性认知的总括性术语（umbrella term），包括关于知识本质、知识来源、确证标准、[[Epistemic Aims|认识目标]]等方面的信念。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 141)]]
+> [[Epistemology|认识论]]认知（Epistemic Cognition）是涵盖所有与认识论（epistemological）或认识（epistemic）事务相关的显性或隐性认知的总括性术语（umbrella term），包括关于知识本质、知识来源、[[Justificatory Standards|确证标准]]、[[Epistemic Aims|认识目标]]等方面的信念。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 141)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 个体理解知识本质、知识来源与判断知识为真等观念和倾向。
@@ -47,7 +49,7 @@ updated: 2026-08-18
 > - **边界** 必须指向寻求真理或理解等特定的认识论目标，排除了仅仅觉得思考有趣等纯粹的非认识性偏好。
 
 > [!boundary]- 概念边界
-> - 区别于[[Epistemological Beliefs|认识论信念]]（[[Epistemological Beliefs]]），认识论认知强调其不一定是显性表达的信念，也包含隐性且无法言传的认识论承诺（epistemic commitments）。
+> - 区别于[[Epistemological Beliefs|认识论信念]]（[[Epistemological Beliefs]]），认识论认知强调其不一定是显性表达的信念，也包含隐性且无法言传的[[Epistemic Commitments|认识论承诺]]（epistemic commitments）。
 
 > [!tension] 核心界限辨析：认识论认知 vs. 非认识论倾向
 > - **认识论认知（Epistemic Cognition）** 目标指向获取真理、深层理解或连贯知识。例如认为“辩论能帮助发现逻辑漏洞以逼近事实”。本质上具有达成认识论成就（epistemic achievements）的意图。
@@ -63,7 +65,7 @@ updated: 2026-08-18
 > [!feature] 核心要素
 > - **[[Epistemic Aims|认识目标]]与价值（[[Epistemic Aims]] & [[Epistemic Value]]）** 探究中追求真理或仅仅是最低限度确证等目标及其价值评估是决定其他认知活动是否属于[[Epistemology|认识论]]认知的大前提。
 > - **知识结构（Structure of Knowledge）** 包括普遍性与特殊性、决定论与随机性，以及具体的[[Epistemology|认识论]]形式，如生物学机制、因果模型。这超越了简单的复杂与简单维度。
-> - **来源与确证（Sources and Justification）** 知识来源呈现交互特征，涵盖感知、记忆、推理、证词。不同情境下界定好证据或好解释的确证标准差异巨大。
+> - **来源与确证（Sources and Justification）** 知识来源呈现交互特征，涵盖感知、记忆、推理、证词。不同情境下界定好证据或好解释的[[Justificatory Standards|确证标准]]差异巨大。
 > - **[[Epistemic Virtues and Vices|认识论美德与恶习]]（[[Epistemic Virtues and Vices]]）** 思想开放、理智勇气等促进认识目标的性格倾向具有高度的情境特异性。
 > - **可靠与不可靠的过程（Reliable and unreliable processes）** 涵盖产生信念的[[Causal Processes|因果过程]]，如群体协作、同行评审、科学实验，及其有效性前提条件的判定。
 

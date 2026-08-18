@@ -26,16 +26,20 @@ related_concepts:
   - "[[Establishing One's Will]]"
   - "[[Hypothesis]]"
   - "[[Rote Learning]]"
+  - "[[Epistemic Forms]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
+  - "[[Justificatory Standards]]"
   - "[[Sample Size Determination]]"
   - "[[Critical Thinking]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Epoché]]"
   - "[[Conatus]]"
   - "[[Homework]]"
+  - "[[Epistemic Commitments]]"
   - "[[Variable]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Epistemological Naturalism]]"
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Reliabilism]]"
@@ -56,7 +60,7 @@ title: "Argument_Chinn_2011_EP"
 argument_key: "Argument_Chinn_2011_EP"
 argument_display_title: "Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -159,7 +163,7 @@ issuing_organization: ""
 >   传统认识论追求放之四海而皆准的绝对普遍知识，但以 Code (1991) 为代表的女性主义认识论（Feminist epistemology）对此提出严厉批评。她们主张知识必然具备特殊性与情境敏感性（context-sensitivity），强调认知主体的社会位置与具体经验是构成真实知识结构不可或缺的要素。
 > - **决定论 vs. 随机性（Determinism vs. Stochasticity）**
 >   在分析科学理论的底层逻辑时，Salmon (1989) 等科学哲学家指出，必须明确区分解释现象的理论架构是建立在决定论的必然因果链条之上，还是建立在统计学与随机过程（stochastic processes）之上。这种对知识内在概率与确定性的区分，远比单纯衡量知识的“复杂程度”要深刻得多。
-> - **学科特异性的认识形式（Discipline-Specific Epistemic Forms）**
+> - **学科特异性的认识形式（Discipline-Specific [[Epistemic Forms]]）**
 >   当代科学哲学不再追求跨学科的统一知识模型，而是深入各个专业分支。Machamer et al. (2000) 细致拆解了神经科学与分子生物学中的机制结构（涵盖实体、活动、组织方式以及启动/终止条件）；Cartwright (2004) 则阐明了物理学与经济学中高度情境化的因果模型（Causal Models）。这些高度具体化的结构，构成了科学[[Praxis|实践]]中知识的真实样貌。
 
 > [!exegesis] 心理学效用（情境与预测力检验）
@@ -176,7 +180,7 @@ issuing_organization: ""
 ### 论证步骤三：为证词正名与确证标准的细化
 
 > [!claim] 步骤三主张
-> 现行心理学研究将诉诸权威视为低级信念是错误的。权威应当被去污名化并概念化为证词（testimony）。同时，确证标准必须实现情境特异化。
+> 现行心理学研究将诉诸权威视为低级信念是错误的。权威应当被去污名化并概念化为证词（testimony）。同时，[[Justificatory Standards|确证标准]]必须实现情境特异化。
 
 > [!warrant] 哲学辩护（概念合法性）
 > 心理学中传统上将依赖权威视为幼稚的低级信念，但这一预设在当代社会认识论（Social Epistemology）中遭到了强烈反驳。
@@ -241,7 +245,7 @@ issuing_organization: ""
 > [!critique-logic] 理论反思：从“认知技能”到“理智品格”的教育转向
 > 传统教育心理学往往陷入“技能主义（Skillism）”的迷思，认为只要教给学生足够多的批判性思维技巧或论证策略，他们就能自动成为优秀的探究者。然而，本步骤的分析揭示了一个残酷的现实：**“拥有技能”与“愿意在面临社会压力或高昂认知成本时使用该技能求真”之间，存在着巨大的鸿沟。**
 > 
-> 将“认识论美德”确立为独立的核心组件，实际上是在宣告：高阶学习本质上不仅是一个冷冰冰的信息加工过程，更是一个深刻的**理智品格（Intellectual Character）**塑造过程。一个掌握完美论证技巧但在同侪压力下缺乏“理智勇气”的学生，或是一个极其聪明却因“教条主义”而拒绝承认相反证据的学生，最终都会在真理面前败下阵来。这一维度的引入，彻底填补了传统认知模型“重技能、轻品格”的理论盲区。
+> 将“认识论美德”确立为独立的核心组件，实际上是在宣告：高阶学习本质上不仅是一个冷冰冰的信息加工过程，更是一个深刻的**理智品格（Intellectual Character）**与深层[[Epistemic Commitments|认识论承诺]]（[[Epistemic Commitments]]）塑造过程。一个掌握完美论证技巧但在同侪压力下缺乏“理智勇气”的学生，或是一个极其聪明却因“教条主义”而拒绝承认相反证据的学生，最终都会在真理面前败下阵来。这一维度的引入，彻底填补了传统认知模型“重技能、轻品格”的理论盲区。
 
 ---
 
@@ -271,6 +275,11 @@ issuing_organization: ""
 > - **最终推论：从形式到实质的跨越（Leap from Form to Substance）**
 >   仅仅测量对过程有效性的泛泛认可是无效的。学习者脑海中对于可靠过程成立的具体前提条件的微观理解程度，才是直接决定其是否能高质量参与真实认知[[Praxis|实践]]的核心[[Variable|变量]]。
 
+> [!critique-logic] 理论反思：破除[[Constructivist Paradigm|建构主义]]探究的“形式化陷阱”
+> 在当前的建构主义教学实践中，存在一种极易被忽视的危险倾向：**将探究活动“仪式化（Ritualization）”**。教育者和学生常常误以为，只要走完了“小组讨论”、“科学实验”或“项目展示”的形式流程，知识建构就会自然发生。
+> 
+> 引入源自[[Epistemological Naturalism|认识论自然主义]]（Epistemological Naturalism）的可靠主义视角，正是为了彻底击碎这种形式主义错觉。本步骤的深度解读表明，任何教学活动形式本身并不能自动保证知识的产出，真正起作用的是隐藏在活动背后的“客观因果机制”。如果学习者不理解（或不在乎）该过程生效的严苛前提条件，那么他们参与的就只是一场**缺乏认识论内核的表演**（例如为了不伤和气而互相附和的“伪论证”）。因此，教学设计的重心必须从单纯的“促使学生参与过程”发生范式转移，走向“培养学生对过程有效性前提的敏锐审查能力”。
+
 ---
 
 ## 主要发现
@@ -289,7 +298,7 @@ issuing_organization: ""
 > 
 > 当认识论认知被细化到特定学科的微观层面时，它就直接转化为了学习者处理学科信息的操作系统：
 > - **提供学科专属的图式工具** 当学生掌握了生物学中特定的“机制结构”[[Epistemology|认识论]]图式，他们在阅读科学文本时就能自动寻找实体与触发条件，从而极大提升知识组织效率（呼应步骤二）。
-> - **指导复杂信息的加工策略** 当学生具备了评估“实证共识”的细粒度确证标准，就能像真正的专家那样，在面对教材或外部冲突信息时采取实质性的验证与比对策略（呼应步骤三）。
+> - **指导复杂信息的加工策略** 当学生具备了评估“实证共识”的细粒度[[Justificatory Standards|确证标准]]，就能像真正的专家那样，在面对教材或外部冲突信息时采取实质性的验证与比对策略（呼应步骤三）。
 > - **塑造攻克学科难点的韧性** 求真的[[Epistemic Aims|认识目标]]与理智勇气等认识论美德，为学生克服高昂认知成本、坚持完成复杂的学科探究提供了不可或缺的心理底座（呼应步骤一、四）。
 > 
 > 这也预示了未来教育干预的方向：教育者不应再泛泛地教授“知识是复杂的”，而应在具体的学科教学中，帮助学习者安装这套高度结构化、情境化的认识论操作系统，以此实质性地拉动学科成绩与探究表现。

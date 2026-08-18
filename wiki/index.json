@@ -2425,6 +2425,24 @@
     ]
   },
   {
+    "title": "Epistemic Commitments",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Commitments.md",
+    "aliases": [
+      "认识论承诺",
+      "隐性认识论信念"
+    ]
+  },
+  {
+    "title": "Epistemic Forms",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Forms.md",
+    "aliases": [
+      "认识论形式",
+      "知识的结构形式"
+    ]
+  },
+  {
     "title": "Epistemic Stances",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Epistemic Stances.md",
@@ -2459,6 +2477,15 @@
     "aliases": [
       "认识论信念",
       "epistemological beliefs"
+    ]
+  },
+  {
+    "title": "Epistemological Naturalism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemological Naturalism.md",
+    "aliases": [
+      "认识论自然主义",
+      "自然化认识论"
     ]
   },
   {
@@ -2502,6 +2529,15 @@
     "path": "wiki/concepts/educational-psychology/Justification for Knowing.md",
     "aliases": [
       "认知的辩护"
+    ]
+  },
+  {
+    "title": "Justificatory Standards",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Justificatory Standards.md",
+    "aliases": [
+      "确证标准",
+      "辩护标准"
     ]
   },
   {

@@ -3,16 +3,17 @@ title: Justification for Knowing
 summary: "衡量个体如何评估知识主张、运用证据，以及如何在不同观点之间进行概率性的评价与辩护。这是高阶认识论理论的核心机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 aliases:
   - "认知的辩护"
 tags:
   - "theme/epistemological-beliefs"
 related_concepts:
   - "[[Epistemological Theories]]"
+  - "[[Justificatory Standards]]"
   - "[[Epistemology]]"
   - "[[Subjectivism]]"
   - "[[Critical Thinking]]"
@@ -29,7 +30,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-18
 ---
 
 # Justification for Knowing
@@ -57,7 +58,7 @@ updated: 2026-08-16
 > 探讨当个体面对冲突的观点或不确定的信息时，判断“相信什么”的依据是如何发生根本转变的。
 
 > [!claim] [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]
-> **辩护标准跃迁主张** 随着[[Epistemology|认识论]]的成熟，个体评价知识合法性的机制会经历彻底的重构。
+> **[[Justificatory Standards|辩护标准]]跃迁主张** 随着[[Epistemology|认识论]]的成熟，个体评价知识合法性的机制会经历彻底的重构。
 > 在认知层级较低时，个体由于认为知识是确定的，因此“无需辩护”，只要接受事实或权威的指令即可。随着个体步入多元论（发现权威也有争议），辩护标准可能陷入极端的[[Subjectivism|主观主义]]，即认为“既然没有绝对真理，那所有观点都是平等的”。
 > 只有到达最高阶的认知阶段，个体才能够熟练运用质询规则，能够关联不同视角的证据并权衡其权重。他们不再盲目接受或全盘否定专家，而是基于证据和具体语境，对结论的优劣进行概率性的评价与辩护。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 120)]]
 

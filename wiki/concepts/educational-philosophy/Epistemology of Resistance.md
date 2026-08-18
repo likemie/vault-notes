@@ -6,7 +6,7 @@ aliases:
 summary: "从被排斥群体的具体经验出发构建替代性知识形式的认识论取向，用于反抗支配性知识秩序。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,8 +18,10 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Praxis]]"
+  - "[[Epistemic Stances]]"
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
+  - "[[Epistemic Forms]]"
   - "[[Critical Pedagogy]]"
   - "[[Conscientization]]"
   - "[[Ganz-Methode]]"
@@ -61,7 +63,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs **去殖民[[Epistemology|认识论]]（Mignolo）** Mignolo 的"认识论不服从"在学术话语层面论证去链接西方认识论的必要性；抵抗认识论则在具体[[Praxis|实践]]（剧场、博物馆、口述传统）中实际执行这种不服从。前者提供理论框架，后者提供实践形态，两者互补([[Argument_Delambre_2022_Springer|Delambre, 2022, p.105–106, 109–110]])
-> - vs **替代性认识论（Alternative Epistemology）** 替代性认识论是一个更宽泛的范畴，涵盖所有不同于西方主流认识论的知识体系（如原住民知识、安第斯宇宙观）。抵抗认识论特指那些在与霸权认识论的**直接对抗中**被锻造的认识论形式——它因抵抗而生，在抵抗中获取形态，不仅仅是"不同的"而是"对抗性的"
+> - vs **替代性认识论（Alternative Epistemology）** 替代性认识论是一个更宽泛的范畴，涵盖所有不同于西方主流认识论的知识体系（如原住民知识、安第斯宇宙观）。抵抗认识论特指那些在与霸权认识论的**直接对抗中**被锻造的[[Epistemic Forms|认识论形式]]——它因抵抗而生，在抵抗中获取形态，不仅仅是"不同的"而是"对抗性的"
 > - vs **[[Critical Pedagogy|批判教育学]]（Critical Pedagogy, Freire）** Freire 关注被压迫者通过教育过程获得批判意识（[[Conscientization|conscientização]]）；抵抗认识论关注被压迫者通过[[Knowledge Production|知识生产]]实践直接制造与霸权知识竞争的替代知识。两者共享政治承诺但操作路径不同——前者走教育，后者走知识生产本身
 
 ## 概念演变

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/educational-psychology/Epistemic Cognition.md",
+                "file": "wiki/theories/educational-psychology/Expanded Framework of Epistemic Cognition.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Epistemic Cognition"
+              "title": "Expanded Framework of Epistemic Cognition"
             }
           }
         ],
@@ -226,14 +226,19 @@
   },
   "active": "81d5dcb4edb5f122",
   "lastOpenFiles": [
-    "wiki/concepts/curriculum/Areas of Knowledge.md",
-    "wiki/concepts/educational-psychology/Epistemic Cognition.md",
+    "wiki/concepts/educational-psychology/Justificatory Standards.md",
+    "wiki/concepts/educational-psychology/Epistemic Commitments.md",
+    "wiki/concepts/educational-psychology/Epistemic Forms.md",
+    "wiki/concepts/educational-psychology/Epistemological Naturalism.md",
+    "wiki/theories/educational-philosophy/Reliabilism.md",
+    "wiki/theories/educational-psychology/Expanded Framework of Epistemic Cognition.md",
     "wiki/arguments/journal-articles/Educational Psychologist/Argument_Chinn_2011_EP.md",
+    "wiki/concepts/educational-psychology/Epistemic Cognition.md",
+    "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/theories/educational-philosophy/Virtue Epistemology.md",
     "wiki/arguments/journal-articles/Educational Psychologist/Argument_Slavin_2019_EP.md",
     "wiki/concepts/educational-psychology/Epistemic Virtues and Vices.md",
     "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
-    "wiki/theories/educational-philosophy/Reliabilism.md",
     "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CE.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md",
     "wiki/concepts/higher-education/International Education.md",
@@ -244,16 +249,11 @@
     "wiki/persons/uk/Desmond Hoare.md",
     "sources/Chinn_2011_EP.md",
     "sources/Chinn_2011_EP.pdf",
-    "wiki/theories/educational-psychology/Expanded Framework of Epistemic Cognition.md",
     "wiki/concepts/educational-psychology/Epistemic Stances.md",
     "wiki/concepts/educational-psychology/Epistemic Value.md",
     "wiki/concepts/educational-psychology/Epistemic Aims.md",
     "wiki/facts/uk/Grammar School.md",
-    "wiki/concepts/curriculum/Knowledge Questions.md",
     "raw/chinn2011.pdf",
-    "wiki/methods/qualitative/Qualitative Interview.md",
-    "wiki/concepts/curriculum/IB Learner Profile.md",
-    "wiki/concepts/curriculum/Ways of Knowing.md",
     "rewrite_sec3.py",
     "rewrite_sec2.py",
     "rewrite_sec1.py",

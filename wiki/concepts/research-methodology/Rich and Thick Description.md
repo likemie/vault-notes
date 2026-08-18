@@ -9,7 +9,7 @@ aliases:
 summary: "Geertz (1973) 提出的质性研究质量标准，要求不仅提供详细的观察数据，还须包含意义、参与者诠释和不可观察因素的数据，使读者能够充分理解情境并对研究发现做出知情判断。"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Praxis]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Epistemic Commitments]]"
   - "[[Trustworthiness]]"
   - "[[Reliability]]"
   - "[[Qualitative Validity]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-08-15
+updated: 2026-08-18
 ---
 
 # Rich and Thick Description
@@ -77,7 +78,7 @@ updated: 2026-08-15
 >
 > | 关联项 | 类型 | 厚描述扮演的角色 |
 > |:-------|:-----|:-----------------|
-> | [[Interpretive Paradigm\|诠释范式]] | 范式基础 | 厚描述是诠释范式从"理解参与者意义"这一认识论承诺出发的方法论落地。 |
+> | [[Interpretive Paradigm\|诠释范式]] | 范式基础 | 厚描述是诠释范式从"理解参与者意义"这一[[Epistemic Commitments\|认识论承诺]]出发的方法论落地。 |
 > | 人类主动建构意义 | 范式公理 | 意义的归因是持续演化的——厚描述捕捉这种演化而非定格。 |
 > | [[Trustworthiness\|Lincoln & Guba的可信度框架]] | 质量标准 | Lincoln & Guba（1985: 189）将厚描述定位为可[[Reliability\|信度]]（[[Qualitative Validity\|trustworthiness]]）的核心操作手段，取代常规信效度概念。 |
 > | [[Emic and Etic\|主位进路]] | 方法论区分 | 厚描述服务于主位进路——从内部人视角呈现参与者对世界的理解和感受。 |
