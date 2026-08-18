@@ -423,6 +423,12 @@ Argument 引用规则：
 - 当前文献引用其他文献时，按原引用内容直接记录，不额外添加二手引文标记，使用APA引用
 - 只有引用当前 Argument 对应文献之外的独立来源时，才写作者、年份与页码。
 
+全库引用格式（APA 规范）：
+
+- 无论是论证页（Argument）还是其他知识库条目，在正文中提及或引用多作者文献时，必须严格遵循 APA 格式。
+- **严禁**使用中文的“等人”或“等学者”来代替英文多作者（例如：不得写成 `Machamer 等人指出` 或 `Sandoval 等学者发现`，必须规范写作 `Machamer et al. (2000) 指出` 或 `Sandoval et al. (2016) 发现`）。
+- 两名作者的文献在叙述时，应写出双方名字（如 `Hofer 和 Pintrich (1997)`）；三人及以上作者首引或续引均统一使用 `et al.`，彻底剔除口语化的“等人”，保持严格客观的学术语态。
+
 ### Writing and Template Rules
 
 - 新建或重写条目必须读取三个文件：`wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md`、对应 `wiki/templates/template-*.md`。
