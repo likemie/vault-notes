@@ -60,7 +60,7 @@ title: "Argument_Chinn_2011_EP"
 argument_key: "Argument_Chinn_2011_EP"
 argument_display_title: "Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
