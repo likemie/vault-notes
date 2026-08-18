@@ -43,7 +43,7 @@ Total entries: **109**
 > - [[Pragma-Dialectics]] — van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准
 > - [[Pragmatic Constructivism]] — 由 Rauste-von Wright 提出，将杜威的反思概念与米德的社会互动论相融合，主张学习是身心与环境具身交互的情境化过程
 > - [[Radical Constructivism]] — 把学习与知识理解为主体主动建构而非被动再现现实的学习理论，强调认知适切性胜于客观真理的直接把握
-> - [[Reliabilism]] — 哲学理论附加强调信念的确证依赖于产生该信念的过程是否可靠。科学实践与认知过程被纳入认识论研究。
+> - [[Reliabilism]] — 一种外部主义认识论理论，主张信念的确证依赖于产生该信念的因果过程是否可靠，促成了哲学向实证科学的自然主义转向，扩展了认识论认知的研究范畴。
 > - [[Societies of Control]] — Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑
 > - [[Third Generation Activity Theory]] — 在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论视角，聚焦多活动系统相遇时的矛盾、边界跨越与扩展性改造机制
 > - [[Toulmin's Argumentation Model]] — Toulmin 提出的领域依赖的论证结构模型，将论证拆解为六个部件，基于法律推理逻辑，广泛应用于科学教育和批判性思维教学

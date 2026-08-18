@@ -6,7 +6,7 @@ aliases:
 summary: "一种主张将认识论从先验哲学转向利用心理学和认知科学的实证方法，研究人类实际信念生成机制与社会实践的哲学转向。"
 type: concept
 domain: "educational-psychology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
