@@ -19,11 +19,13 @@ tags:
 related_concepts:
   - "[[Epistemological Understanding]]"
   - "[[Epistemology]]"
+  - "[[Epistemic Stances]]"
   - "[[Domain Specificity]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
   - "[[Critical Thinking]]"
+  - "[[Theory of Mind]]"
   - "[[Constructivist Paradigm]]"
   - "[[Areas of Knowledge]]"
   - "[[Pure Evaluation]]"
@@ -52,7 +54,7 @@ title: "Argument_Kuhn_2000_CD"
 argument_key: "Argument_Kuhn_2000_CD"
 argument_display_title: "The development of epistemological understanding"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -173,7 +175,7 @@ issuing_organization: ""
 
 ### 论证步骤一：认识论理解的发端与心理理论（Theory of Mind）
 
-> [!claim] [[Epistemological Understanding|认识论理解]]的最初觉醒，植根于儿童早期在“心理理论”上的突破。个体必须首先认识到信念是人类心智的产物且可能出错，才能开启向成熟[[Epistemology|认识论]]迈进的历程。
+> [!claim] [[Epistemological Understanding|认识论理解]]的最初觉醒，植根于儿童早期在“[[Theory of Mind|心理理论]]”上的突破。个体必须首先认识到信念是人类心智的产物且可能出错，才能开启向成熟[[Epistemology|认识论]]迈进的历程。
 > 协调主客观维度的能力并非凭空出现，而是儿童早期对“人的内部认知状态如何表征外部现实”的认知发展的自然延续。
 
 > [!dev-timeline] 从前绝对论到多元论的心智发育时间轴

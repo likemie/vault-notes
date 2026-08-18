@@ -1161,6 +1161,15 @@
     ]
   },
   {
+    "title": "Theory of Mind",
+    "type": "concept",
+    "path": "wiki/concepts/developmental-psychology/Theory of Mind.md",
+    "aliases": [
+      "心理理论",
+      "ToM"
+    ]
+  },
+  {
     "title": "EST Integrated Development",
     "type": "concept",
     "path": "wiki/concepts/education-economics/EST Integrated Development.md",
@@ -9175,6 +9184,14 @@
     "aliases": [
       "扩展的认识论认知框架",
       "认识论认知五组件框架"
+    ]
+  },
+  {
+    "title": "Integrative Pluralism",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Integrative Pluralism.md",
+    "aliases": [
+      "整合的多元主义"
     ]
   },
   {
@@ -17492,6 +17509,11 @@
     "title": "Argument_Ball_2008_SR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/The Sociological Review/Argument_Ball_2008_SR.md"
+  },
+  {
+    "title": "Argument_Sandoval_2016_RRE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Review of Research in Education/Argument_Sandoval_2016_RRE.md"
   },
   {
     "title": "Argument_Wecker_2016_ZfE",

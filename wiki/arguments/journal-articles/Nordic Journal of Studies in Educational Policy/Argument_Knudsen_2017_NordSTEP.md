@@ -9,7 +9,7 @@ title: "Argument_Knudsen_2017_NordSTEP"
 argument_key: "Argument_Knudsen_2017_NordSTEP"
 argument_display_title: "John Hattie: I'm a statistician, I'm not a theoretician"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
+  - "[[Theory of Mind]]"
   - "[[Problem-Based Learning]]"
   - "[[Effect Size]]"
   - "[[Surface and Deep Learning]]"
@@ -129,7 +130,7 @@ citation_aliases:
 > - 认为 3–5 岁儿童可以有复杂的思维——"只是另一种复杂性"(p.257)
 > - 坚持幼儿可以反思自己的学习——"我更担心 10–12 岁的孩子被教得不会反思"
 > - 以 30 million word gap（Hart & Risley）论证需要对低资源家庭儿童进行干预
-> - 1–2 岁之间儿童发展出心理理论（theory of mind），那是"我们应该让他们接触学习概念的时机"
+> - 1–2 岁之间儿童发展出[[Theory of Mind|心理理论]]（theory of mind），那是"我们应该让他们接触学习概念的时机"
 > - 主张 0–8 岁是让儿童接触学习概念的最关键时期，但反对在学前教识字——应通过游戏学习
 >
 > ### 可见性概念
