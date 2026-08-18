@@ -133,7 +133,7 @@ Total entries: **1865**
 > - [[Ways of Knowing]] — IB 知识论课程中用于追问个体与共同体如何获得、建构和审查知识的课程分类框架；它连接认知者、知识主张与知识领域，并随指南版本由四项扩展为八项。
 
 > [!index-list]- Developmental Psychology (1)
-> - [[Theory of Mind]] — 个体理解自己和他人具有不同心理状态（如信念、欲望、意图），且这些状态可能与客观现实不符的认知能力。
+> - [[Theory of Mind]] — 个体理解自己和他人具有不同心理状态（如信念、欲望、意图），且这些状态可能与客观现实不符的认知能力，被视为认识论认知发展的重要前置基础。
 
 > [!index-list]- Education Economics (3)
 > - [[EST Integrated Development]] — 教育（Education）、科技（Science and Technology）与人才（Talent）三个子系统协同演进的一体化发展概念，以系统论为理论基础，强调三者之间相互支撑、相互制约的耦合关系

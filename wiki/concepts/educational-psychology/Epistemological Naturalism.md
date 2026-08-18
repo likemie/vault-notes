@@ -6,7 +6,7 @@ aliases:
 summary: "一种主张将认识论从先验哲学转向利用心理学和认知科学的实证方法，研究人类实际信念生成机制与社会实践的哲学转向。"
 type: concept
 domain: "educational-psychology"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,8 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Causal Processes]]"
+  - "[[Hypothesis]]"
+  - "[[Paradigm]]"
   - "[[Epistemic Cognition]]"
 related_theories:
   - "[[Reliabilism]]"
@@ -119,7 +121,8 @@ updated: 2026-08-18
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1969 — 起源阶段** [[W. V. O. Quine]] 发表《自然化的[[Epistemology|认识论]]》，宣告传统基于演绎逻辑的基础主义破产，提出将认识论交给心理学。
+> - **17世纪至20世纪中 — 传统[[Epistemology|认识论]]的“[[René Descartes|笛卡尔]]焦虑”（前置背景）** 以 [[René Descartes|笛卡尔]] 为代表的传统认识论始终面临激进怀疑论（如“恶魔[[Hypothesis|假设]]”、“缸中之脑”）的威胁。为了拯救知识的合法性，哲学家们试图在完全脱离经验感官与心理学的前提下，通过纯粹的先验逻辑和第一人称的理性直觉（如“我思故我在”）为科学知识建立绝对不可动摇的底层地基（基础主义，Foundationalism）。这种[[Paradigm|范式]]要求认识论必须作为“第一哲学”，像法官一样站在实证科学之外去审判科学的有效性。
+> - **1969 — 破局与自然化起源阶段** [[W. V. O. Quine]] 发表《自然化的[[Epistemology|认识论]]》，指出笛卡尔式的基础主义项目已经彻底失败。他主张既然我们无法用纯演绎逻辑从感觉材料建构出科学理论，就应当放弃寻找绝对的确定性，将认识论降格交给心理学。
 > - **1980s — 扩展阶段** [[Alvin Goldman]] 提出[[Reliabilism|可靠主义]]，将自然主义从 Quine 的激进版本引向温和版本，强调社会认识论，关注群体、同行评审和证词的作用。
 > - **2000s 至今 — 教育研究应用** 这一哲学转向进入教育心理学（如 Chinn, Sandoval 等人），促使研究者跳出测量单一内部信念的局限，开始研究课堂真实情境中的[[Epistemic Cognition|认识论认知]][[Praxis|实践]]、工具使用及社会互动。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 
