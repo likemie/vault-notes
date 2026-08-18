@@ -6,7 +6,7 @@ summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Examined Life]]"
+  - "[[Theory of Mind]]"
   - "[[Certainty of Knowledge]]"
   - "[[Western Learner]]"
   - "[[Theory of Knowledge]]"
@@ -76,7 +77,7 @@ updated: '2026-06-08'
 > 柏拉图约 36 篇[[Dialogue in Education|对话]]录和书信传世，学界通常将其分为早、中、晚三期（此处仅列 Li 第 2 章引用的以及最具代表性的著作）：
 > - *Euthyphro*（《优绪弗洛》）— 早期对话，[[Socrates|苏格拉底]]追问"什么是虔敬"的经典示范。Li 在第 2 章中重点拆解了苏格拉底与优绪弗洛的七轮对话过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.31-32]])
 > - *Apology*（《申辩篇》）— 苏格拉底在雅典陪审团前的自我辩护词。"[[Examined Life|未经省察的生活不值得过]]"即出自此篇，被 Li 视为 西方学习传统第三主题的核心文本([[Argument_Li_2012_Cambridge|Li, 2012, p.31]])
-> - *Meno*（《美诺篇》）— 苏格拉底以一系列问题引导从未学过几何的奴隶男孩自己说出几何结论。Li 将此视为西方先天性心智理论的经典证明——"人类知识不是学来的，而是回忆出来的"([[Argument_Li_2012_Cambridge|Li, 2012, pp.27-28]])
+> - *Meno*（《美诺篇》）— 苏格拉底以一系列问题引导从未学过几何的奴隶男孩自己说出几何结论。Li 将此视为西方先天性[[Theory of Mind|心智理论]]的经典证明——"人类知识不是学来的，而是回忆出来的"([[Argument_Li_2012_Cambridge|Li, 2012, pp.27-28]])
 > - *Republic*（《理想国》）— 柏拉图最著名的著作，涉及理型论、洞穴喻、哲学家王、几何学知识观和教育选拔体系。Li 在 [[Certainty of Knowledge|知识的确定性]]、心智及其奇迹和 [[Western Learner|西方学习者]]三个主题中引用了《理想国》([[Argument_Li_2012_Cambridge|Li, 2012, pp.24-25, 27-28, 35]])
 > - *Phaedo*（《斐多篇》）— 论述灵魂不朽与理型论，记载苏格拉底临终场景
 > - *Symposium*（《会饮篇》）— 论爱欲与美的理型

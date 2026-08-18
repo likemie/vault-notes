@@ -63,9 +63,9 @@ title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 8
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Review of Research in Education"
 book_title: ""
@@ -98,7 +98,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **自然化认识论**<br>[[Epistemological Naturalism]] | 将[[Epistemology\|认识论]]从先验的哲学思辨转向对实际[[Causal Processes\|因果过程]]（causal processes）的实证考察，为跨越传统认知模型提供合法性，强调社会认知[[Praxis\|实践]]。 |
-> | **心理理论**<br>[[Theory of Mind]] | 解释[[Epistemic Cognition\|认识论认知]]在儿童早期的前置发育基础，打破阶段论模型关于儿童不具备认识论反思能力的论断。 |
+> | **心智理论**<br>[[Theory of Mind]] | 解释[[Epistemic Cognition\|认识论认知]]在儿童早期的前置发育基础，打破阶段论模型关于儿童不具备认识论反思能力的论断。 |
 > | **整合的多元主义**<br>[[Integrative Pluralism]] | 作为解决多学科模型冲突的统合框架，主张在个体、个体交互、活动系统等多个层级同时开展研究并建立关联。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -149,7 +149,7 @@ issuing_organization: ""
 > - **链节二 个人认识论的演进**
 >   从单线发展模型到多维信念系统模型，确立了当前主流研究的坐标系。
 > - **链节三 发展心理学的前置补全**
->   幼儿通过[[Theory of Mind|心理理论]]（theory of mind）、因果推理以及对社会证词（testimony）的选择性信任，展现了认识论认知的极早期发育。
+>   幼儿通过[[Theory of Mind|心智理论]]（theory of mind）、因果推理以及对社会证词（testimony）的选择性信任，展现了认识论认知的极早期发育。
 > - **链节四 学科教育的情境化深化**
 >   科学、历史等具体学科的研究表明，[[Justificatory Standards|确证标准]]具有极强的[[Domain Specificity|领域特异性]]，对抽象个人认识论模型提出了挑战。
 
