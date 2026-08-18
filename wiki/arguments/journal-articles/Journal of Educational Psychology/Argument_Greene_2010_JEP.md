@@ -208,7 +208,7 @@ issuing_organization: ""
 > 
 > 正因如此，学生在历史课上会更早地遇到“知识是不确定的”这一观念冲突，从而被迫进行批判性思考。这就解释了为什么在表2中，个体在劣构领域中的认识论发展往往会**快于**良构领域，更早地摆脱幼稚的“现实主义”（Donald, 1990; Frederiksen, 1984）。
 
-> [!example]- 图1：Range of differences regarding the [[Domain Specificity|Domain Generality]] or specificity of [[Epistemic Cognition]]
+> [!example]- 图1：Range of differences regarding the Domain Generality or specificity of [[Epistemic Cognition]]
 > ```mermaid
 > flowchart LR
 >     A["完全领域一般性
@@ -228,7 +228,7 @@ issuing_organization: ""
 ### 第二步：验证测量模型与领域特殊性
 
 > [!claim] 测量模型主张
-> [[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]的分数在大部分因子上具有可接受的[[Construct Validity|建构效度]]，数据显著支持认知信念具有领域特殊性，而非领域一般性。
+> [[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]的分数在大部分因子上具有可接受的[[Construct Validity|建构效度]]，数据显著支持认知信念具有[[Domain Specificity|领域特殊性]]，而非领域一般性。
 
 > [!chain-link] 证据到判断
 > [[Confirmatory Factor Analysis|验证性因子分析]]显示，区分数学与历史两个领域的领域特定测量模型在数据拟合度上显著优于将两学科题目归为同一因子的领域一般性模型。在简单知识维度上，领域特定模型与领域一般性模型的拟合度存在显著差异（$\Delta\chi^2(10) = 245.56, p < .001$）。
