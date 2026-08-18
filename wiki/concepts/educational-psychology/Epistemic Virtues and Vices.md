@@ -16,6 +16,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Aims]]"
   - "[[Conatus]]"
+  - "[[Critical Thinking]]"
   - "[[Questionnaire]]"
 related_theories:
   - "[[Virtue Epistemology]]"
@@ -58,6 +59,9 @@ updated: 2026-08-18
 > [!tension] 特质辨析：认识论美德 vs. 认知需求
 > - **认识论美德（Epistemic Virtues）** 核心驱动力为追求真理与深层理解。表现为具备理智勇气，愿意为澄清事实而长时间[[Conatus|努力]]核查数据，能够有效产生真实信念（求真导向）。
 > - **认知需求（Need for Cognition）** 核心驱动力为享受高强度的脑力劳动过程。表现为极其享受解数独或填字游戏，喜欢努力思考，但不关心是否得出真理，属于纯粹的非认识论倾向。
+
+> [!critique-logic] 理论反思：从“认知技能”到“理智品格”
+> 传统教育心理学往往陷入“技能主义（Skillism）”，认为只要传授[[Critical Thinking|批判性思维]]技巧即可。然而，认识论美德的确立揭示了**“拥有技能”与“愿意在社会压力下使用技能求真”之间的巨大鸿沟**。一个掌握完美论证技巧但在同侪压力下缺乏“理智勇气”的学生，无法触及深度学习。将美德单独列出，宣告了高阶认知不仅是信息加工，更是理智品格（Intellectual Character）的塑造。
 
 ---
 

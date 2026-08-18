@@ -15,6 +15,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Aims]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Critical Thinking]]"
   - "[[Epistemic Value]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Causal Processes]]"
@@ -51,6 +52,9 @@ updated: 2026-08-18
 > [!tension] 核心界限辨析：认识论认知 vs. 非认识论倾向
 > - **认识论认知（Epistemic Cognition）** 目标指向获取真理、深层理解或连贯知识。例如认为“辩论能帮助发现逻辑漏洞以逼近事实”。本质上具有达成认识论成就（epistemic achievements）的意图。
 > - **非认识论倾向（Nonepistemic Dispositions）** 目标指向展示口才、打发时间或单纯的思考乐趣。例如享受辩论的智力挑战，但仅为了展示口才赢得比赛。本质上缺乏追求真理或理解的纯粹心理偏好。
+
+> [!critique-logic] 理论延伸：[[Critical Thinking|批判性思维]]的两种形态
+> 认识论认知构成了**建构性批判（Constructive Critique）**的核心支撑。传统教育常将批判性思维简化为“无差别的怀疑一切”（即缺乏确证标准支撑的表面质疑），这极易使学习者陷入认识论虚无主义（盲目抬杠或愤世嫉俗）。而成熟的认识论认知（如掌握评估实证共识的方法学标准）能够引导学习者进行**合理信任（Calibrated Trust）**，从而在面对复杂冲突信息时，既不盲从权威，也不盲目拒斥。
 
 ---
 
