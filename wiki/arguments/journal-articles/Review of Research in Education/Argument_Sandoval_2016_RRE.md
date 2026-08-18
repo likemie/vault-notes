@@ -26,8 +26,7 @@ related_concepts:
   - "[[Theory of Mind]]"
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
-  - "[[Research Scope]]"
-  - "[[Reliability]]"
+  - "[[Simplicity of Knowledge]]"
   - "[[Justificatory Standards]]"
   - "[[Domain Specificity]]"
   - "[[Epistemological Beliefs]]"
@@ -35,11 +34,13 @@ related_concepts:
   - "[[Likert Scale]]"
   - "[[Epistemic Commitments]]"
   - "[[Metacognition]]"
+  - "[[Reliability]]"
 related_theories:
   - "[[Integrative Pluralism]]"
   - "[[Reliabilism]]"
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Quantitative Research]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Triangulation]]"
@@ -144,14 +145,14 @@ issuing_organization: ""
 > [[Epistemic Cognition|认识论认知]]并非统一的领域，而是由哲学[[Epistemology|认识论]]的转向、个人认识论的模型建构、发展心理学的早期基础，以及学科教育中的特异性[[Praxis|实践]]共同拼凑而成的复杂网络。
 
 > [!chain-link] 证据到判断
-> - **链节一 哲学层面的转向**
->   [[W. V. O. Quine]] 等哲学家推动了从探讨知识获取可能性的传统认识论，转向考察信念生成客观过程的[[Epistemological Naturalism|自然化认识论]]（如 [[Alvin Goldman]] 提出的[[Reliabilism|可靠主义]]），极大拓宽了[[Research Scope|研究范围]]，纳入了社会认知和机制[[Reliability|可靠性]]。
-> - **链节二 个人认识论的演进**
->   从单线发展模型到多维信念系统模型，确立了当前主流研究的坐标系。
-> - **链节三 发展心理学的前置补全**
->   幼儿通过[[Theory of Mind|心智理论]]（theory of mind）、因果推理以及对社会证词（testimony）的选择性信任，展现了认识论认知的极早期发育。
-> - **链节四 学科教育的情境化深化**
->   科学、历史等具体学科的研究表明，[[Justificatory Standards|确证标准]]具有极强的[[Domain Specificity|领域特异性]]，对抽象个人认识论模型提出了挑战。
+> - **链节一 哲学层面的转向（Philosophical Turn）**
+>   传统认识论长期受困于“确证的真信念（justified true belief）”模型与激进怀疑论的拉扯。[[W. V. O. Quine]] 等哲学家推动了[[Epistemological Naturalism|自然化认识论]]（epistemological naturalism）转向，彻底放弃了纯粹的先验理论推导，主张利用心理学与认知科学的实证发现来研究人类实际生成和评估知识的过程。这一转向不仅催生了[[Reliabilism|可靠主义]]（如 [[Alvin Goldman]]），更进一步衍生出社会认识论（social epistemology），将评价焦点从孤立个体扩展到了诸如“同行评审”等科学共同体的实践机制。
+> - **链节二 个人认识论的演进（Evolution of Personal Epistemology）**
+>   发端于 Perry 对大学生“双元论—多元论—相对主义”的线性发展阶段（developmental models）刻画；随后，Schommer 与 Hofer 等人引入了多维信念系统（dimensional models），将认识论解构为[[Simplicity of Knowledge|知识的简单性]]、确定性、来源与确证等多个可独立变化的信念维度。高度标准化的自陈量表（如EQ[[Questionnaire|问卷]]）极大推动了该领域的[[Quantitative Research|量化研究]]，但也遗留了将认知视为脱离情境的稳定特质的理论隐患。
+> - **链节三 发展心理学的前置补全（Developmental Foundations）**
+>   儿童并不像早期理论[[Hypothesis|假设]]的那样缺乏认识论认知。幼儿在四个底层维度展现了极早期的发育：通过[[Theory of Mind|心智理论]]（theory of mind）理解他人的错误信念；发展出区分猜测与严密推理的因果推理（causal reasoning）能力；在科学思维中初步分离主张与证据；以及在社会认知（social cognition）中表现出对社会证词（testimony）并非盲从，而是基于过往准确度进行选择性信任（selective trust）的高阶能力。
+> - **链节四 学科教育的情境化深化（Disciplinary Education）**
+>   科学、历史等具体学科领域的研究表明，知识与认知高度嵌入在学科特有的实践活动中。例如，历史学家的[[Justificatory Standards|确证标准]]依赖于史料的交叉印证，而科学则依赖机制与证据的因果验证。更极端的实证表明，研究者甚至能在阅读同一文本时，于“学术标准”与“宗教标准”之间自如切换。这些发现强有力地证明了[[Justificatory Standards|确证标准]]具有极强的[[Domain Specificity|领域特异性]]与情境敏感性，直接挑战了抽象且普遍的个人认识论模型。
 
 > [!warrant]- 推理桥梁
 > 梳理上述四条支流，证明了没有任何单一学科或模型能够涵盖认识论认知的所有图景，这为后续识别各支流碰撞时产生的深层断层线奠定了基础。
