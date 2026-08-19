@@ -67,9 +67,9 @@ title: "Argument_Lodewyk_2007_EP"
 argument_key: "Argument_Lodewyk_2007_EP"
 argument_display_title: "Relations among epistemological beliefs, academic achievement, and task performance in secondary school students"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 32
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Psychology"
 book_title: ""
@@ -387,7 +387,7 @@ issuing_organization: ""
 > *Students who see knowledge as simple—that is, they seek single answers, avoid ambiguity, and depend too much on authority—tend to experience more difficulty with the ambiguous features of tasks that call for reflective judgments, perseverance, and appropriate self-regulated learning.*
 
 > [!citation-card]- 课堂任务结构平衡的教学告诫
-> 如果如 Spiro 等人所推测的那样，布置过多良构任务会促进一种该学科领域在根本上是简单的虚假理解并刺激表面化投入；然而，平衡至关重要，布置过于模糊的任务可能会引发焦虑与退缩。（p.324）
+> 如果正如 Spiro et al. (1988) 所推测的那样，布置过多良构任务会促进一种该学科领域在根本上是简单的虚假理解并刺激表面化投入；然而，平衡至关重要，布置过于模糊的任务可能会引发焦虑与退缩（Doyle, 1983）。（p.324）
 >
 > *The type of structure of assigned tasks also merits attention if, as Spiro et al. (1988) conjecture, assigning too many well-structured tasks can promote a false understanding that the domain is fundamentally simple and can stimulate superficial engagement. However, balance is important—assigning especially ambiguous tasks may induce anxiety and withdrawal (Doyle, 1983).*
 
