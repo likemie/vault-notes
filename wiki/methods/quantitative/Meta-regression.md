@@ -166,13 +166,7 @@ updated: 2026-08-19
 > [!software-impl] 软件实现
 > - **推荐软件** R（`metafor` 包）、Comprehensive Meta-Analysis (CMA)、Stata（`meta regress` 命令）、Python（`statsmodels`）
 > - **核心包或命令**
->   - R `metafor` 实现：
->     ```R
->     library(metafor)
->     # 估计随机效应多元元回归
->     res <- rma(yi = r_z, vi = var_z, mods = ~ reliability + grade_level, data = meta_data, method = "REML")
->     summary(res)
->     ```
+>   - R `metafor` 命令：`res <- rma(yi = r_z, vi = var_z, mods = ~ reliability + grade_level, data = meta_data, method = "REML")`
 >   - CMA 软件实现：在主界面选择 `Analyses -> Meta-regression`，选定 Moderator 变量并指定 Mixed Effects 模型运行。
 > - **实现流程** 数据清洗 -> 效应量转换（如 $r$ 转 Fisher's $z$）-> 连续调节变量中心化 -> REML 模型估计 -> 残差诊断与报告。
 > - **报告标准** 完整报告样本量 $k$、回归系数 $b$ 与[[Standard Error|标准误]]、95% CI、$p$ 值、模型[[Chi-Squared Test|卡方检验]]量 $Q_{\text{model}}$、残差异质性 $\tau^2$ 及解释比例 $R^2$。
