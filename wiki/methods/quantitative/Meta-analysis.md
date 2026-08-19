@@ -89,7 +89,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Meta-analysis
@@ -453,6 +453,7 @@ Wolf（1986, pp. 55–56）聚焦于"如果要做元分析，怎样才能做得�
 > - [[Moderator Analysis]] — 元分析中解释研究间效果变异的核心分析技术
 > - [[Meta-meta-analysis]] — 在元分析基础上进一步聚合，综合多个元分析的效应量
 > - [[Fixed-Effect and Random-Effects Models]] — 元分析中两种基本的统计建模策略
+> - [[Three-Level Meta-Analysis]] — 解决单项研究报告多个相关效应量时统计依赖性的多层扩展模型
 > - [[Randomised Controlled Trials]] — 元分析最常见的源研究设计类型
 
 ---
@@ -466,5 +467,6 @@ Wolf（1986, pp. 55–56）聚焦于"如果要做元分析，怎样才能做得�
 > - [[Argument_Wrigley_2018_BERJ]] — 对元分析和元-元分析（Hattie / EEF Toolkit）的系统方法论批判
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 系统介绍元分析的四种操作模型（Glass 八步、Cook 四阶段、Fitz-Gibbon 四步、Gorard 四步）、[[Effect Size|效应量]]计算、[[Class Size|班级规模]]案例及多维度批判
 > - [[Argument_Greene_2018_JEP]] — 使用[[Fixed-Effect and Random-Effects Models|随机效应模型]]对132项非[[Experimental Research|实验研究]]的752个效应量进行了元分析，并考察了[[Epistemic Cognition|认识论认知]][[Construct|构念]]、成就类型等多种调节变量。
+> - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用三层多层随机效应元分析模型综合了韩国 18 项实证研究中的 512 个效应量，探讨中小学生认识论认知与学习成果的关联。
 
 ---

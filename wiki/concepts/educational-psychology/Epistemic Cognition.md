@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 # Epistemic Cognition
 （[[Epistemology|认识论]]认知）
@@ -183,6 +183,7 @@ updated: 2026-08-19
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Academic Achievement\|学业成就]] | 151 / 55,418 | r；随机效应 | 0.162 [0.135, 0.189] | I²=88.77%，Q=1335.22 | — |
+> | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 学习成果（认知、动机、自我调节） | 512 / 6,312 | r；三层多层随机效应（REML） | 0.191 [0.119, 0.261] | I²=92.46%（L2: 35.82%, τ²=0.015; L3: 56.64%, τ²=0.024）, Q=6004.06*** | — |
 
 > [!ma-table]- 调节[[Variable|变量]]与亚组分析
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -192,6 +193,9 @@ updated: 2026-08-19
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 亚组分析 | 初中（r=.246）和混合阶段（r=.233）较大，大学（r=.131）较小 | — | Q_between = 15.111 (p<.05) | 预设 | — |
 > | 同上 | 成就类型 | 亚组分析 | 概念性知识（r=.190）和论证（r=.154）较高，程序性知识（r=.077，不显著）较低 | — | Q_between = 1.766 (p>.05) | 预设 | — |
 > | 同上 | [[Epistemology\|认识论]][[Construct\|构念]] | 亚组分析 | 知识发展（r=.274）、一般认识论认知（r=.266）、多种证成（r=.225）较高 | — | Q_between = 57.955 (p<.001) | 预设 | — |
+> | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 学段（School level） | 亚组分析与多元元回归 | 小学（r=0.375）显著高于初中（r=0.142）与高中（r=0.157） | — | F(2, 485) = 5.683, p = 0.003 | 预设 | 高学段应试升学与课外补习强化了机械记诵，弱化了高级认识论认知的作用 |
+> | 同上 | 认识论认知构念（EC constructs） | 亚组分析与多元元回归 | 总体认识论认知（r=0.288）、学习速度（r=0.207）、知识确证（r=0.187）、学习能力与知识来源（r=0.174）较高，确定性（r=0.122）较低 | — | F(7, 498) = 3.193, p = 0.002 | 预设 | 学习本质（外围）与认识本质（核心）效应明显，本体论维度的知识本质与学习成果关联较弱 |
+> | 同上 | 领域特异性、测量对齐、量表极性、成果类型 | 多元元回归 | 均不显著（p > 0.05） | — | 领域特异性 p=0.126；对齐 p=0.277；量表极性 p=0.159；成果类型 p=0.828 | 预设 | 成果类型不显著反映东亚文化将学习视为自我修养与持续努力，高级认识论认知产生全域性促进 |
 
 > [!ma-table]- 稳健性与偏倚
 > <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>
@@ -199,6 +203,7 @@ updated: 2026-08-19
 > | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
 > |---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | — | 漏斗图，Trim-and-fill，Fail-safe N | 0.162 | 稳定 | Fail-safe N=9265，未发现发表偏倚 |
+> | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 逐一排除敏感性分析（r 稳定在 0.177–0.203）；无绝对残差 \|z\| > 3.29 的离群值 | 三层 Egger 回归检验（斜率 = -1.007, p = 0.429；截距 = 0.257, p = 0.004）与漏斗图 | 0.191 | 稳定 | 漏斗图对称，未发现发表偏倚或小样本效应 |
 
 ---
 
@@ -208,3 +213,4 @@ updated: 2026-08-19
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 包含五个组件的扩展[[Epistemology|认识论]]认知框架推动了研究向细粒度和情境化方向发展。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism|整合多元主义]]”主张。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 提供了一项大规模的[[Meta-analysis|元分析]]，评估了认识论认知对[[Academic Achievement|学业成就]]的预测效应，澄清了[[Reliability|信度]]与对齐规则的核心地位。
+> - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用三层元分析模型综合韩国中小学生 512 个效应量，证实认识论认知与学习成果呈小到中等正相关（r = 0.191），并揭示学段与构念维度的关键调节效应。

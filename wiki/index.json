@@ -11873,6 +11873,18 @@
     ]
   },
   {
+    "title": "Three-Level Meta-Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Three-Level Meta-Analysis.md",
+    "aliases": [
+      "三层元分析",
+      "多层元分析",
+      "Multilevel Meta-analysis",
+      "3层元分析",
+      "三水平元分析"
+    ]
+  },
+  {
     "title": "Time Series Design",
     "type": "method",
     "path": "wiki/methods/quantitative/Time Series Design.md",
@@ -17395,6 +17407,11 @@
     "title": "Argument_Berk_2011_ER",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Evaluation Review/Argument_Berk_2011_ER.md"
+  },
+  {
+    "title": "Argument_Song_Choi_2026_FPSYG",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Frontiers in Psychology/Argument_Song_Choi_2026_FPSYG.md"
   },
   {
     "title": "Argument_Beech_2015_GSE",
