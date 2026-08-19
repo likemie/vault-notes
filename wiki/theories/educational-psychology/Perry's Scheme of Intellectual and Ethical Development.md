@@ -5,13 +5,14 @@ aliases:
   - 佩里智力与伦理发展图式
   - Perry's scheme
   - 佩里图式
+  - Cognitive-developmental stage model
 summary: "William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 14
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/epistemological-beliefs
   - theory/developmental
@@ -100,13 +101,27 @@ updated: 2026-08-19
 ### 核心命题一｜认识论认知是个体在面对多元知识经验时经历的单向阶梯式质变过程
 
 > [!proposition-chain] 核心命题一｜[[Epistemic Cognition|认识论认知]]遵循从权威依赖向语境建构与价值承诺的阶段演进
-> - **前提一** 大学生入学时普遍带有朴素实在论的认知图式，倾向于寻找唯一的标准答案。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 91)]]
+> - **前提一** 大学生入学时普遍带有朴素实在论的认知图式，倾向于寻找唯一的标准答案。
 > - **前提二** 高等教育环境中的多学科冲突观点和同伴互动持续打破学生的认知平衡，迫使其重构心理图式。
-> - **推导** 佩里将这一历程细化为 9 个连续的“位置”（Positions），并归纳为四大宏观认知簇：
->   1. **二元论（Dualism / Positions 1–2）** 将世界划分为绝对的二元对立（对与错、善与恶、我们与他们）。知识是简单、确定的既成事实；教师是传授真理的绝对权威；学习即记忆真理。
->   2. **多元论（[[Multiplicity]] / Positions 3–4）** 当发现权威之间存在无法调和的学术分歧时，学生起初认为“权威只是暂时没找到正确答案（Position 3）”；随后滑向极端[[Subjectivism|主观主义]]，认为“既然无人确知，则人人有权持有自己的观点，所有见解等价（Position 4）”。
->   3. **相对主义（Relativism / Positions 5–6）** 实现[[Epistemology|认识论]]的根本转折。学生意识到并非所有观点都同样合理，知识是由人在具体语境中主动建构的，必须根据特定的学科分析规范、逻辑连贯性及实证证据进行客观评估与比较（Position 5）。学生开始认识到自身也是意义的建构者（Maker of meaning）。
->   4. **相对主义内的承诺（Commitment within Relativism / Positions 7–9）** 认知发展延伸至伦理与身份领域。在充分意识到知识和世界具有相对性、没有终极绝对真理的背景下，个体主动在职业、婚姻、价值观及思想立场上做出清晰的自我承诺（Position 7），并逐步体认到承诺的责任与开放性（Positions 8–9）。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 91–92)]]
+> - **推导** 佩里将认知演进划分为 9 个连续的“位置”（Positions），并归纳为四大宏观发展阶段：个体从盲目依附权威的二元论出发，历经[[Subjectivism|主观主义]]多元论的过渡与相对主义的理性转折，最终达到能够在不确定世界中承担价值责任的相对主义内承诺。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 91–92)]]
+
+> [!phase] Perry 的智力与伦理发展四阶段图式
+>
+> - **二元论（Dualism / Positions 1–2）**
+>
+>   将世界划分为绝对的非黑即白对立（对与错、善与恶、我们与他们）。知识被视为简单、确定的既成事实；教师是知晓并传授真理的绝对权威；学习的本质即准确记忆与复述真理，学习者处于被动的接收状态。
+>
+> - **多元论（[[Multiplicity]] / Positions 3–4）**
+>
+>   开始意识到多样性与不确定性的客观存在。当发现权威之间存在学术分歧时，学生起初认为权威只是尚未找到标准答案；随后滑向极端主观主义，认为既然权威也无确切答案，则人人皆有权持有自己的见解，所有观点一律等价。
+>
+> - **相对主义（Relativism / Positions 5–6）**
+>
+>   实现[[Epistemology|认识论]]的根本性[[Paradigm|范式]]转折。知识被认识到是由人在具体语境中主动建构的产物，具有情境性与暂定性。并非所有观点都同样有效，必须依据学科分析规范、逻辑连贯性与实证证据对不同观点进行审慎评估；学习者自身成为意义的建构者（Maker of meaning）。
+>
+> - **相对主义内的承诺（Commitment within Relativism / Positions 7–9）**
+>
+>   认知发展延伸至伦理责任与身份认同领域。在充分体认到世界充满相对性与不确定性的前提下，个体勇于在职业、价值观、思想立场与人际关系中做出明确的自我承诺，并在行动中保持反思与自我修正的开放性。
 
 ---
 
