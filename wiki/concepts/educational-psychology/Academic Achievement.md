@@ -7,10 +7,10 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科中知识与技能掌握程度的指标。通常通过课程分数、标准化测试成绩或绩点（GPA）进行测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: []
 related_concepts:
   - "[[Epistemic Cognition]]"

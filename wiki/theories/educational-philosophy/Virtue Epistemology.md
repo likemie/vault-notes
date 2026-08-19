@@ -5,10 +5,10 @@ aliases:
 summary: "哲学理论附加将认识论的重心从信念转移到认识主体及其智力美德。为研究认知过程提供性格视角的框架。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags: []
 related_concepts:
   - "[[Epistemology]]"

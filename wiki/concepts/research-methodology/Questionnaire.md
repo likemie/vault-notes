@@ -8,7 +8,7 @@ aliases:
 summary: "一种广泛使用的调查研究工具，通过结构化或半结构化题项收集受访者的信息、态度和行为数据，可无需研究者在场施测，数据分析相对直接，但需投入大量时间进行开发、预测试和优化"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

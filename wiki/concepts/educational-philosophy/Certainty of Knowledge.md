@@ -9,10 +9,10 @@ aliases:
 summary: "关于知识本质的底层假设。在宏观西方哲学史中，它是以数学和逻辑为模型追求客观永恒真知的文化传统；在微观教育心理学中，它是衡量个体认识论信念（绝对固定 vs 相对演变）的核心心理维度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - region/western
 - field/educational-philosophy

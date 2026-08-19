@@ -974,7 +974,7 @@ Total entries: **1879**
 > - [[Epistemological Reflection Model]] — Baxter Magolda提出的一项考察男女学生在四种认知方式中性别相关推理模式的纵向发展模型。
 > - [[Expanded Framework of Epistemic Cognition]] — 分析框架附加整合哲学观念的五组件模型。取代或扩展了传统简单的认识论信念维度。
 > - [[Integrative Pluralism]] — 一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。
-> - [[Perry's Scheme of Intellectual and Ethical Development]] — Perry提出的关于大学生在知识、价值与权威的认知上如何从二元论发展到相对主义的经典阶段理论。
+> - [[Perry's Scheme of Intellectual and Ethical Development]] — William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。
 > - [[Reflective Judgment Model]] — King和Kitchener提出的关于个体如何理解认知过程并为劣构问题提供辩护的七阶段反思性判断模型。
 > - [[Situative Perspective]] — 一种将学习和认知视为特定社会、文化与物理环境中持续进行的参与实践（participation in social practices），而非个体头脑内部脱域知识存储的理论范式。
 > - [[Women's Ways of Knowing]] — Belenky等人提出的关注女性作为认知者如何看待真理、知识与权威的五个认识论视角模型。

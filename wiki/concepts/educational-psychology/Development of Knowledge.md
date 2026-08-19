@@ -6,10 +6,10 @@ aliases:
 summary: "认识论认知构念之一，指个体认识到知识是不断演化、可被修正的发展性产物，而非永恒不变的绝对真理集合。是预测学业成就效力最强的单一认识论构念。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/epistemic-cognition
   - educational-psychology
@@ -133,7 +133,7 @@ updated: 2026-08-19
 
 ## 实证数据
 
-> [!ma-table]- [[Meta-analysis|元分析]][[Construct|构念]][[Effect Size|效应量]]比较（Greene et al., 2018）
+> [!ma-table]- [[Meta-analysis|元分析]][[Construct|构念]][[Effect Size|效应量]]比较（[[Argument_Greene_2018_JEP|Greene et al., 2018]]）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | [[Epistemology\|认识论]]构念 | k | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 相对地位 | 解释边界 |
