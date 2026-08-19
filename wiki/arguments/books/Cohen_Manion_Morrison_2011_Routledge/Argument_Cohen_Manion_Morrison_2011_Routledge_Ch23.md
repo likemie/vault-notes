@@ -77,6 +77,7 @@ related_concepts:
   - "[[Habituation]]"
   - "[[Rich and Thick Description]]"
 related_theories:
+  - "[[Situative Perspective]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Observation Method]]"
@@ -217,7 +218,7 @@ Patton（1990, p. 202）指出观察数据应使研究者能够进入并理解�
 
 > [!spectrum] 观察类型连续体
 >
-> - **非[[Structured Observation|结构化观察]]** 不预先清楚要寻找什么，先进入情境观察正在发生什么，再决定其对研究的意义。**[[Hypothesis|假设]]生成性（hypothesis-generating）**。
+> - **非[[Structured Observation|结构化观察]]** 不预先清楚要寻找什么，先进入[[Situative Perspective|情境观]]察正在发生什么，再决定其对研究的意义。**[[Hypothesis|假设]]生成性（hypothesis-generating）**。
 > - **半结构化观察** 有一个议题清单（agenda of issues），但以远不那么预先决定或系统化的方式收集数据来阐明这些议题。
 > - **结构化观察** 预先知道要寻找什么（预设性观察，pre-ordinate），观察类别已事先制定。**假设验证性（hypothesis-testing）**，用观察数据来验证或反驳假设。
 

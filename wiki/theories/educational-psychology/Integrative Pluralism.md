@@ -6,10 +6,10 @@ aliases:
 summary: "一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 domain: "educational-psychology"
 related_count: 0
 related_level: 0
@@ -35,7 +35,8 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Praxis]]"
   - "[[Hypothesis]]"
-related_theories: []
+related_theories:
+  - "[[Situative Perspective]]"
 related_methods:
   - "[[Accounts]]"
   - "[[Mixed Methods Research]]"
@@ -84,7 +85,7 @@ updated: 2026-08-19
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Epistemic Cognition|认识论认知]]在三个不同聚合层级上呈现出截然不同且不可互相替代的运作规律。
-> - **前提一** 传统的认知[[Constructivist Paradigm|建构主义]]只关注个体头脑，而情境主义只关注社会互动。两者的[[Ontology|本体论]]冲突源于它们观察的颗粒度（grain size）不同，而非谁对谁错。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> - **前提一** 传统的认知[[Constructivist Paradigm|建构主义]]只关注个体头脑，而[[Situative Perspective|情境主义]]只关注社会互动。两者的[[Ontology|本体论]]冲突源于它们观察的颗粒度（grain size）不同，而非谁对谁错。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 >   > [!evidence-grid]- 证据
 >   > - **层级一：个体层级（Individual）** 聚焦学生头脑内部的机制。个体在此层级调配内在的“[[Epistemology|认识论]]资源”或图式。
 >   > - **层级二：人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动。学生在小组合作或[[Dialogue in Education|对话]]中，通过话语流动态协商并确立共同的“[[Epistemic Aims|认识论目标]]”。

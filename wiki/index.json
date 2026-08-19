@@ -9000,6 +9000,16 @@
     ]
   },
   {
+    "title": "Cognitive Constructivism",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Cognitive Constructivism.md",
+    "aliases": [
+      "认知建构主义",
+      "个体建构主义",
+      "Cognitive Constructivist"
+    ]
+  },
+  {
     "title": "Complexity Theory",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Complexity Theory.md",
@@ -9229,6 +9239,17 @@
     "aliases": [
       "反思性判断模型",
       "reflective judgment model"
+    ]
+  },
+  {
+    "title": "Situative Perspective",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Situative Perspective.md",
+    "aliases": [
+      "情境主义",
+      "情境认知",
+      "情境观",
+      "Situativity Theory"
     ]
   },
   {

@@ -52,6 +52,7 @@ related_concepts:
 related_theories:
   - "[[Integrative Pluralism]]"
   - "[[Reliabilism]]"
+  - "[[Situative Perspective]]"
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Quantitative Research]]"
@@ -81,7 +82,7 @@ title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -105,7 +106,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 心理学与教育学关于认识论认知与个人[[Epistemology|认识论]]（personal epistemology）的267篇高被引核心[[Document|文献]]。
-> - **张力** 个体[[Constructivist Paradigm|建构主义]]关注内部心理表征，情境视角关注社会实践，二者在[[Ontology|本体论]]和方法论上存在深度割裂。
+> - **张力** [[Cognitive Constructivism|个体建构主义]]关注内部心理表征，情境视角关注社会实践，二者在[[Ontology|本体论]]和方法论上存在深度割裂。
 > - **贡献** 绘制领域诊断图，界定不同派别争论的底层分歧点，为[[Mixed Methods Research|混合方法研究]]和跨语境迁移指明道路。
 
 ---
@@ -191,8 +192,8 @@ issuing_organization: ""
 > 社会科学领域的“文化转向（cultural turn）”引发了认识论认知研究中的第一条深层断层线：学界在知识与认知的本质定义上存在[[Ontology|本体论]]层级的严重分歧。这种分歧导致研究在分析单元（unit of analysis）、发展路径的解释机制以及测量干预方法上产生了极大的张力。
 
 > [!tension] 个体心智建构 vs. 分布式社会实践
-> - **个体[[Constructivist Paradigm|建构主义]]（cognitive constructivism）（蓝方）** 以 Piaget 的发生认识论为基石，视知识为个体心智为适应经验而构建的内部概念结构（viable conceptual structures）。在此视角下，“个人认识论”被假定为个体内部通过反思构建出的系统性信念，研究者通常将认识论认知视为个体头脑中的稳定特质进行静态测量。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, pp. 470–471)]]
-> - **情境主义（situative perspective）（红方）** 深受 Vygotsky 及其衍生的强社会认识论影响，视知识为分布在社会与物质资源中的文化产物。在此视角下，基础分析单元转移到了“互动中的个体（individual-in-interaction）”，认识论认知不再是头脑内的脱域命题，而是特定实践共同体为解决集体认识论问题而动态展开的社会实践（social practices）。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 471)]]
+> - **[[Cognitive Constructivism|个体建构主义]]（cognitive constructivism）（蓝方）** 以 Piaget 的发生认识论为基石，视知识为个体心智为适应经验而构建的内部概念结构（viable conceptual structures）。在此视角下，“个人认识论”被假定为个体内部通过反思构建出的系统性信念，研究者通常将认识论认知视为个体头脑中的稳定特质进行静态测量。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, pp. 470–471)]]
+> - **[[Situative Perspective|情境主义]]（situative perspective）（红方）** 深受 Vygotsky 及其衍生的强社会认识论影响，视知识为分布在社会与物质资源中的文化产物。在此视角下，基础分析单元转移到了“互动中的个体（individual-in-interaction）”，认识论认知不再是头脑内的脱域命题，而是特定实践共同体为解决集体认识论问题而动态展开的社会实践（social practices）。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 471)]]
 
 > [!exegesis]- 理论妥协尝试与底层断层后果
 > - **认知情境主义（Cognitive Contextualist）的折中** 部分学者试图在两极之间搭建桥梁。例如，Muis et al. (2006) 提出通用信念是在特定的社会文化生态中发育的；而 Hammer & Elby (2002) 提出了“[[Epistemic Resources|认识论资源]]（epistemic resources）”模型，主张微观粒度的认知资源会在具体活动语境中被有条件地激活，并通过反复使用凝结成认识框架。

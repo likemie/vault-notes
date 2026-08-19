@@ -49,6 +49,7 @@ related_methods:
   - "[[Participant Observation]]"
   - "[[Non-participant Observation]]"
   - "[[Structured Observation]]"
+  - "[[Narrative Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Survey Research]]"
@@ -63,6 +64,8 @@ related_persons:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
+related_theories:
+  - "[[Situative Perspective]]"
 status: draft
 created: 2026-06-25
 updated: 2026-07-23
@@ -111,7 +114,7 @@ updated: 2026-07-23
 > [!method-stack] 方法层级
 > - **研究设计** 自然观察、实验观察、[[Participant Observation|参与观察]]、[[Non-participant Observation|非参与观察]]、[[Structured Observation|结构式观察]]、非结构式观察
 > - **数据收集** 描述观察（日记描述法、轶事记录法、连续记录法）、取样观察（时间取样、活动取样、事件取样）、行为检核法
-> - **分析方法** 定性分析（文字描述、叙事分析）、定量分析（[[Coding in Qualitative Research|编码]]体系、记号体系、等级量表）
+> - **分析方法** 定性分析（文字描述、[[Narrative Analysis|叙事分析]]）、定量分析（[[Coding in Qualitative Research|编码]]体系、记号体系、等级量表）
 > - **辅助技术** 观察仪器和记录设备（录音、录像）、观察量表、观察笔记
 
 ---
@@ -161,7 +164,7 @@ updated: 2026-07-23
 
 > [!spectrum] 观察类型连续体
 >
-> - **非[[Structured Observation|结构化观察]]** 不预先知道要寻找什么，先进入情境观察，再决定其对研究的意义。**[[Hypothesis|假设]]生成性**
+> - **非[[Structured Observation|结构化观察]]** 不预先知道要寻找什么，先进入[[Situative Perspective|情境观]]察，再决定其对研究的意义。**[[Hypothesis|假设]]生成性**
 > - **半结构化观察** 有一个议题清单，以不那么预先决定的方式收集数据来阐明议题
 > - **[[Structured Observation|结构化观察]]** 预先知道要寻找什么（预设性观察），观察类别已事先制定。**假设验证性**
 

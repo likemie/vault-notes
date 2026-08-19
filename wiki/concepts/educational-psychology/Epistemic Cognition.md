@@ -6,10 +6,10 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemic Resources]]"
   - "[[Epistemic Climate]]"
 related_theories:
+  - "[[Situative Perspective]]"
   - "[[Integrative Pluralism]]"
 related_methods:
   - "[[Discourse Analysis]]"
@@ -109,7 +110,7 @@ related_arguments:
 > [!debates] 学术争议
 >
 > > [!axis] [[Ontology|本体论]]断层：知识与认知是如何存在的？
-> > 认知建构学说与情境主义在[[Epistemology|认识论]]认知的底层归属上存在不可通约的分歧。
+> > 认知建构学说与[[Situative Perspective|情境主义]]在[[Epistemology|认识论]]认知的底层归属上存在不可通约的分歧。
 > >
 > > - **认知认知建构学说（Cognitive Constructivism）** 以 Piaget 发生认识论为基础，视知识为个体为适应经验而建构的内部概念结构，认识论认知是头脑中的相对稳定的信念或特质。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 > > - **情境主义（Situative Perspective）** 受 Vygotsky 影响，视知识为分布式的文化产物，认识论认知不再是脱域命题，而是特定共同体解决问题的“社会[[Praxis|实践]]活动（social practices）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]

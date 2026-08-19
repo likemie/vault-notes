@@ -7,10 +7,10 @@ aliases:
 summary: "特定课堂、学校或科学共同体内部共享的关于知识本质和认知实践的宏观制度规范与文化氛围，结构化地约束着微观互动与个体的资源调配。"
 type: concept
 domain: "educational-psychology"
-related_count: 6
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
