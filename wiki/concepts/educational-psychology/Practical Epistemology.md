@@ -15,6 +15,10 @@ related_concepts:
   - "[[Formal Epistemology]]"
   - "[[Epistemological Beliefs]]"
   - "[[Knowledge Production]]"
+  - "[[Epistemological Resources]]"
+  - "[[Epistemic Resources]]"
+  - "[[Ontology]]"
+  - "[[Questionnaire]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -39,36 +43,35 @@ updated: 2026-08-19
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生在自己进行科学探究（如实验设计、数据收集、论证构建）时所持有的关于知识生成和评估的观念。
-> - **用途** 帮助研究者和教育者理解为什么学生在探究实践中表现出的认知策略和决策（如系统性、证据标准）往往与他们在传统调查中表达的科学[[Epistemological Beliefs|认识论信念]]不一致。
-> - **边界** 区别于学生对科学家是如何做研究的这类远距离的、抽象的形式认识论信念；也不同于一般的学习信念（beliefs about learning），它专门关注知识的认识论维度。
+> - **用途** 帮助研究者和教育者理解为什么学生在探究实践中表现出的认知策略（如系统性、证据标准）往往与他们在传统调查中表达的[[Epistemological Beliefs|认识论信念]]不一致。
+> - **边界** 区别于一般的学习信念（beliefs about learning），它专门关注知识的认识论维度；也不同于关注遥远专业科学的形式认识论。
 
 > [!boundary]- 概念边界
-> - 不等于 [[Formal Epistemology]]：形式认识论是关于专业科学的表达性信念，而实践认识论是关于学生自身[[Knowledge Production|知识生产]]的实践性信念。Hogan 将前者称为远端认识论，将后者称为近端认识论。
+> - 不等于 [[Formal Epistemology]]：形式认识论是关于专业科学的表达性信念，而实践认识论是关于学生自身[[Knowledge Production|知识生产]]的实践性信念。Hogan 将前者称为远端认识论（distal），将后者称为近端认识论（proximal）。
+> - 不等于 [[Epistemic Resources]]（认识论资源）：虽然两者都强调认识论的情境依赖性，但 Sandoval 批评 Hammer and Elby 的资源论过于宽泛（将“记忆”等学习策略混同于知识信念，且忽视了学科差异）。实践认识论的范围更窄，专门聚焦于特定学科（如科学）中特定形式的知识建构（如探究实践）。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
 
 ---
 
-## 核心要素
+## 核心表现与特征
 
 > [!feature] 核心要素
-> - **隐性与[[Praxis|实践]]性** 实践[[Epistemology|认识论]]通常是隐性的（tacit），不一定能被学生清晰表达，而是通过他们在科学探究（如实验、论证）中的认识论决策反映出来。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
-> - **情境依赖** 实践认识论可能不是一个连贯统一的信念框架，而是一组在不同探究情境下被触发的资源（resources），具有碎片化和不稳定特征。
-> - **指导探究行为** 实践认识论观念直接影响学生如何寻找和验证因果主张，以及如何决定何时证据足够充分。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 649)]]
+> - **隐性与[[Praxis|实践]]性** 实践[[Epistemology|认识论]]通常是隐性的（tacit），不一定能被学生用语言清晰表达，而是通过他们在科学探究（如实验操作、论证构建）中的认识论决策反映出来。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
+> - **情境依赖** 实践认识论往往不是一个连贯统一的信念框架，而是一组在不同探究情境下被触发的细粒度认知资源（resources），具有碎片化和不稳定特征。
+> - **指导探究行为** 观念直接影响学生的行为表现。例如，具有“动态/建构性”观念的学生往往能更系统地寻找数据、提出并论证因果主张；而持有“知识是既定事实”观念的学生则倾向于只做表面记忆或盲目尝试。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 649)]]
 
 ---
 
-## 争议与争论
+## 学术争议与前沿探讨
 
-关于学生实践认识论信念的发展，存在连贯框架假说与情境化资源假说的对立：
+关于学生[[Praxis|实践]][[Epistemological Beliefs|认识论信念]]的发展与本质，学界存在激烈的[[Ontology|本体论]]争论。
 
-> [!debates] 认识论信念的本体论争论
+> [!debates] 学术争议
 >
-> > [!axis] 连贯框架假说（Coherent Frameworks）
-> > 认为学生的[[Epistemological Beliefs|认识论信念]]表现为不同发展层级的、相对稳定的概念框架。学生只有在概念发生根本转变后，才能在各项任务中展现出更高层级的表现。
-> > - **Driver et al. (1996)** 提出了三种递进的认识论图景：现象驱动、关系驱动和模型驱动。
-> > - **Carey & Smith (1993)** 认为学生在理解科学本质时经历了三个认识论门槛。
->
-> > [!axis] 情境化资源假说（Contextualized Resources）
-> > 认为认识论信念并非稳定连贯的框架，而是矛盾、碎片化的资源集合，会根据具体的问题情境（如[[Praxis|实践]]任务的不同）被不同地触发和应用。
-> > - **Hammer & Elby (2002)** 主张认识论观念像细粒度的认知资源，会在特定的任务和情境中被独立触发，导致表现上的不稳定。
-> > - **Sandoval** 认为学生在 BGuILE 项目中的表现支持了这一观点，他们展现出的认识论决策依赖于具体的探究任务。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
+> > [!axis] 信念的本体论：连贯框架 vs. 碎片化资源
+> > 争论焦点在于：指导学生探究行为的[[Epistemology|认识论]]，到底是一种宏观的概念框架，还是碎片化的认知资源？
+> >
+> > - **Driver et al. (1996)** 认为学生的认识论表现为相对稳定的连贯框架。他们根据学生在具体探究中的推理，提出了三种递进的图景：现象驱动（认为实验只是让事情发生）、关系驱动（认为理论直接由证据推导）和模型驱动（认识到科学包含连贯理论且关系复杂）。学生需要发生概念转变才能升级。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
+> > - **Hammer and Elby (2002)** 主张认识论观念更像是一堆松散的细粒度认知资源（如“知识是实体的”或“知识是累积的”）。这些资源会在特定情境中被独立触发。这解释了为什么学生在不同任务下（例如在 BGuILE 项目中解决具体问题 vs. 填写 VNOS [[Questionnaire|问卷]]）的表现极不稳定。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
 
+> [!implication]- 对教学的启示：建立显式反思
+> 仅仅让学生“做”高水平的探究，并不能自动将其高级的“实践认识论”转化为对专业科学的“[[Formal Epistemology|形式认识论]]”。研究（如 Smith et al., 2000）表明，要弥合这二者的脱节，教师必须在日常的探究教学中持续进行**显式的认识论反思（explicit epistemological reflection）**，帮助学生将他们自己的隐性决策与专业科学家的[[Knowledge Production|知识生产]]过程等同起来。
