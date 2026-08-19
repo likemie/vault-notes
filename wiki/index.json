@@ -2540,6 +2540,14 @@
     ]
   },
   {
+    "title": "Formal Epistemology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Formal Epistemology.md",
+    "aliases": [
+      "形式认识论"
+    ]
+  },
+  {
     "title": "Independent Knowing",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Independent Knowing.md",
@@ -2573,6 +2581,14 @@
     "aliases": [
       "多元论者",
       "multiplists"
+    ]
+  },
+  {
+    "title": "Practical Epistemology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Practical Epistemology.md",
+    "aliases": [
+      "实践认识论"
     ]
   },
   {
@@ -17537,6 +17553,11 @@
     "title": "Argument_Zemplen_2007_SciEduc",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md"
+  },
+  {
+    "title": "Argument_Sandoval_2005_SE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Science Education/Argument_Sandoval_2005_SE.md"
   },
   {
     "title": "Argument_Downey_2016_SoE",
