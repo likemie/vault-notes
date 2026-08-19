@@ -60,7 +60,6 @@ updated: 2026-08-19
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
-（佩里智力与伦理发展图式）
 
 ---
 
