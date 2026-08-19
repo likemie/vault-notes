@@ -44,9 +44,9 @@ title: "Argument_Sandoval_2005_SE"
 argument_key: "Argument_Sandoval_2005_SE"
 argument_display_title: "Understanding students' practical epistemologies and their influence on learning through inquiry"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Science Education
 ---

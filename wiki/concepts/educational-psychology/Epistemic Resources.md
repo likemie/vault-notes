@@ -5,7 +5,7 @@ aliases:
 summary: "一种细粒度、情境敏感的微观认知图式。该概念主张个体并不拥有跨情境稳定的宏大信念阶段，而是根据当下的活动任务与框架，动态激活并调配不同的底层认知资源。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

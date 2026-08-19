@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Science Education/Argument_Sandoval_2005_SE.md",
+                "file": "wiki/concepts/research-methodology/Scientific Method.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Sandoval_2005_SE"
+              "title": "Scientific Method"
             }
           }
         ],
@@ -226,9 +226,12 @@
   },
   "active": "81d5dcb4edb5f122",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Science Education/Argument_Sandoval_2005_SE.md",
+    "wiki/concepts/educational-philosophy/Epistemology.md",
+    "wiki/concepts/research-methodology/Scientific Method.md",
+    "wiki/concepts/research-methodology/Epistemological Break.md",
     "wiki/concepts/educational-psychology/Epistemological Resources.md",
     "wiki/concepts/educational-psychology/Formal Epistemology.md",
-    "wiki/arguments/journal-articles/Science Education/Argument_Sandoval_2005_SE.md",
     "wiki/concepts/educational-psychology/Practical Epistemology.md",
     "sources/Sandoval_2005_SE.md",
     "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md",
@@ -252,10 +255,7 @@
     "wiki/concepts/educational-psychology/Epistemological Naturalism.md",
     "wiki/concepts/educational-psychology/Epistemic Cognition.md",
     "wiki/concepts/curriculum/Areas of Knowledge.md",
-    "wiki/concepts/educational-philosophy/Epistemology.md",
     "wiki/concepts/educational-psychology/Simplicity of Knowledge.md",
-    "wiki/arguments/journal-articles/Review of Educational Research/Argument_Hofer_1997_RER.md",
-    "wiki/theories/educational-psychology/Expanded Framework of Epistemic Cognition.md",
     "raw/科研使用医疗数据保密协议(1).pdf",
     "sources/Sandoval_2016_RRE.pdf",
     "wiki/concepts/developmental-psychology",

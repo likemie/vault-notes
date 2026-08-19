@@ -6,7 +6,7 @@ aliases:
 summary: "指出个体的认知能力与认识论信念并非跨情境通用的，而是被深度绑定在特定的生活判断领域（如道德、审美）或学术知识域（如数学、历史）内。近年来，该概念正受到颗粒度更细的“情境特异性”挑战。"
 type: concept
 domain: "educational-psychology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

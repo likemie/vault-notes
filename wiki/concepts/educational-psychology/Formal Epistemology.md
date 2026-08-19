@@ -4,7 +4,7 @@ aliases: [形式认识论]
 summary: "学生对专业科学或正规科学知识及其生产方式所表达出的认识论信念。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
