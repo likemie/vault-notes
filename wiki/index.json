@@ -2423,6 +2423,16 @@
     ]
   },
   {
+    "title": "Epistemic Climate",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Climate.md",
+    "aliases": [
+      "认识论氛围",
+      "认识论环境",
+      "Epistemic Environment"
+    ]
+  },
+  {
     "title": "Epistemic Cognition",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Epistemic Cognition.md",
@@ -2447,6 +2457,14 @@
     "aliases": [
       "认识论形式",
       "知识的结构形式"
+    ]
+  },
+  {
+    "title": "Epistemic Resources",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Resources.md",
+    "aliases": [
+      "认识论资源"
     ]
   },
   {

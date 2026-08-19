@@ -34,6 +34,8 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Justificatory Standards]]"
   - "[[Domain Specificity]]"
+  - "[[Epistemic Resources]]"
+  - "[[Epistemic Climate]]"
   - "[[Epistemological Beliefs]]"
   - "[[Heterogeneity]]"
   - "[[Predictive Validity]]"
@@ -193,9 +195,9 @@ issuing_organization: ""
 > - **情境主义（situative perspective）（红方）** 深受 Vygotsky 及其衍生的强社会认识论影响，视知识为分布在社会与物质资源中的文化产物。在此视角下，基础分析单元转移到了“互动中的个体（individual-in-interaction）”，认识论认知不再是头脑内的脱域命题，而是特定实践共同体为解决集体认识论问题而动态展开的社会实践（social practices）。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 471)]]
 
 > [!exegesis]- 理论妥协尝试与底层断层后果
-> - **认知情境主义（Cognitive Contextualist）的折中** 部分学者试图在两极之间搭建桥梁。例如，Muis et al. (2006) 提出通用信念是在特定的社会文化生态中发育的；而 Hammer & Elby (2002) 提出了“认识论资源（epistemic resources）”模型，主张微观粒度的认知资源会在具体活动语境中被有条件地激活，并通过反复使用凝结成认识框架。
+> - **认知情境主义（Cognitive Contextualist）的折中** 部分学者试图在两极之间搭建桥梁。例如，Muis et al. (2006) 提出通用信念是在特定的社会文化生态中发育的；而 Hammer & Elby (2002) 提出了“[[Epistemic Resources|认识论资源]]（epistemic resources）”模型，主张微观粒度的认知资源会在具体活动语境中被有条件地激活，并通过反复使用凝结成认识框架。
 > - **不可通约的争论** 这种妥协并未完全平息争议。Packer & Goicoechea (2000) 尖锐地指出，个体建构与情境主义在底层[[Ontology|本体论]]上是彻底“不可通约（incommensurate）”的；虽然 Greeno (2015) 试图缓和这一对立，认为它们只是在处理不同抽象层级的解释（即统合多元主义）。
-> - **分歧引发的研究撕裂** 本体论分歧直接撕裂了实证研究的设计逻辑——建构派致力于探究如何改变个体头脑中的稳定观念维度（因而热衷脱离情境的分发标准化问卷）；情境派则侧重探究个体如何适应并改变特定的社区认识论规范（epistemic climate）（因而坚持深入现场进行真实活动的[[Discourse Analysis|话语分析]]）。
+> - **分歧引发的研究撕裂** 本体论分歧直接撕裂了实证研究的设计逻辑——建构派致力于探究如何改变个体头脑中的稳定观念维度（因而热衷脱离情境的分发标准化问卷）；情境派则侧重探究个体如何适应并改变特定的社区认识论规范（[[Epistemic Climate]]）（因而坚持深入现场进行真实活动的[[Discourse Analysis|话语分析]]）。
 
 ---
 

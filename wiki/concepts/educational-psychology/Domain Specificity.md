@@ -15,6 +15,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Areas of Knowledge]]"
   - "[[Hypothesis]]"
+  - "[[Epistemic Resources]]"
   - "[[Epistemology]]"
   - "[[Construct Validity]]"
   - "[[Questionnaire]]"
@@ -55,7 +56,7 @@ updated: 2026-08-19
 > [!concept-lens] 概念透镜
 > - **含义** 认知升级并非“整体操作系统”的更新，而是不同“应用软件（领域）”的独立迭代。
 > - **用途** 用于解释为何理科顶尖的专家在面对社会历史问题时可能表现出极度轻信的幼稚认知，或者幼童为何在特定领域能展现出超越成人的复杂辩证思维。
-> - **边界** 区别于 **领域一般性（Domain Generality）（[[Hypothesis|假设]]认知能力跨情境通用）**。同时也正面临着被更底层的“细粒度情境资源（epistemic resources）”解构的理论危机。
+> - **边界** 区别于 **领域一般性（Domain Generality）（[[Hypothesis|假设]]认知能力跨情境通用）**。同时也正面临着被更底层的“细粒度情境资源（[[Epistemic Resources]]）”解构的理论危机。
 
 ---
 
@@ -116,7 +117,7 @@ updated: 2026-08-19
 > 探讨即便将“领域”细分到学科层面，是否依然过于粗放，不足以捕捉真实的认知动态。
 
 > [!claim] Sandoval, W. A.
-> **颗粒度（Grain Size）危机与动态认识论资源** “科学”或“历史”这样的宏大领域划分依然是一种粗放的错觉。实证观察发现，面对完全相同的领域文本，个体的认知标准也会随任务目标发生剧烈的动态跳跃（如历史学家在严谨学术考证与寻求宗教情感间的无缝切换）。因此，领域特异性应被解构为更微观的“情境特异性（context specificity）”：认知不是被锁定在特定领域的宏大信念，而是在具体任务中灵活调用的细粒度“认识论资源（epistemic resources）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, pp. 473-474)]]
+> **颗粒度（Grain Size）危机与动态[[Epistemic Resources|认识论资源]]** “科学”或“历史”这样的宏大领域划分依然是一种粗放的错觉。实证观察发现，面对完全相同的领域文本，个体的认知标准也会随任务目标发生剧烈的动态跳跃（如历史学家在严谨学术考证与寻求宗教情感间的无缝切换）。因此，领域特异性应被解构为更微观的“情境特异性（context specificity）”：认知不是被锁定在特定领域的宏大信念，而是在具体任务中灵活调用的细粒度“认识论资源（epistemic resources）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, pp. 473-474)]]
 
 ---
 
@@ -139,7 +140,7 @@ updated: 2026-08-19
 > > 争论焦点在于：究竟应该在多大尺度上划分认知差异的边界？
 > >
 > > - **宏大领域论（Domain-specific traits）** 主张按照学科建制（文科 vs 理科）或生活大类（审美 vs 物理）进行切分，认为在这些大领域内部，认知是相对稳定的。[[Argument_Greene_2010_JEP|(Greene et al., 2010)]]
-> > - **微观资源论（Epistemic Resources）** 认为只要任务目的或社会互动情境稍有改变，即使同一文本、同一节课，个体的认知标准也会切换。因此彻底否定了宏大领域的解释力。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> > - **微观资源论（[[Epistemic Resources]]）** 认为只要任务目的或社会互动情境稍有改变，即使同一文本、同一节课，个体的认知标准也会切换。因此彻底否定了宏大领域的解释力。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 
 ---
 

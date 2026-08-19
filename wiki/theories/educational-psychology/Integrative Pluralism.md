@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemic Aims]]"
+  - "[[Epistemic Climate]]"
   - "[[Emergence]]"
   - "[[Epistemic Stances]]"
   - "[[Variable]]"
@@ -87,7 +88,7 @@ updated: 2026-08-19
 >   > [!evidence-grid]- 证据
 >   > - **层级一：个体层级（Individual）** 聚焦学生头脑内部的机制。个体在此层级调配内在的“[[Epistemology|认识论]]资源”或图式。
 >   > - **层级二：人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动。学生在小组合作或[[Dialogue in Education|对话]]中，通过话语流动态协商并确立共同的“[[Epistemic Aims|认识论目标]]”。
->   > - **层级三：活动系统层级（Activity System）** 聚焦宏观的社会文化环境。如学校制度、科学共同体的文化规范，构成一种集体的“认识论氛围（epistemic climate）”。
+>   > - **层级三：活动系统层级（Activity System）** 聚焦宏观的社会文化环境。如学校制度、科学共同体的文化规范，构成一种集体的“[[Epistemic Climate|认识论氛围]]（epistemic climate）”。
 > - **推导** 因为不同层级的运作法则不同（如突触放电不同于课堂氛围），任何单一视角的理论（如单纯的神经科学或单纯的社会学）都无法包揽对全局现象的解释，必须承认各层级模型的独立合法性。
 
 > [!proposition-chain] 核心命题二｜整合的本质不是相对主义的混搭，而是跨层级的因果机制缝合。

@@ -23,6 +23,8 @@ related_concepts:
   - "[[Epistemic Virtues and Vices]]"
   - "[[Causal Processes]]"
   - "[[Ontology]]"
+  - "[[Epistemic Resources]]"
+  - "[[Epistemic Climate]]"
 related_theories:
   - "[[Integrative Pluralism]]"
 related_methods:
@@ -96,9 +98,9 @@ related_arguments:
 > [!framework-table] 聚合层级分类
 > | 分析层级 | 关注焦点 | 认识论认知的本体形态 | 研究方法偏好 |
 > |---|---|---|---|
-> | **个体层级（Individual）** | 学生头脑内部的认知结构 | 个体调配的细粒度“认识论资源” | 改良调查表工具、认知访谈 |
+> | **个体层级（Individual）** | 学生头脑内部的认知结构 | 个体调配的细粒度“[[Epistemic Resources\|认识论资源]]” | 改良调查表工具、认知访谈 |
 > | **人际交互（Individual-in-interaction）** | 微观的社会互动过程 | 小组内协商共同的认识论目标与标准 | [[Discourse Analysis\|话语分析]]、行为观察 |
-> | **活动系统（Activity System）** | 宏观文化与制度规范 | 课堂或科学共同体整体的“认识论氛围” | [[Ethnography\|民族志]]、制度话语分析 |
+> | **活动系统（Activity System）** | 宏观文化与制度规范 | 课堂或科学共同体整体的“[[Epistemic Climate\|认识论氛围]]” | [[Ethnography\|民族志]]、制度话语分析 |
 
 ---
 
@@ -116,7 +118,7 @@ related_arguments:
 > > 认知信念是跨学科领域稳定的，还是高度随任务波动的？
 > >
 > > - **宏大领域特质论（Domain-specific beliefs）** 认为认识论具有宏大跨学科（如科学、历史）间的特异性，但在学科内部保持稳定状态（通常依赖修改词汇的标准化自陈量表进行测量）。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 473)]]
-> > - **微观资源库理论（Epistemic Resources）** 摒弃大颗粒度维度，主张认知是微观的“框架与资源”，即便是面对完全相同的领域文本，个体的认知标准也会随任务目标（如考证历史与寻求宗教情感）发生剧烈的动态切换。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 474)]]
+> > - **微观资源库理论（[[Epistemic Resources]]）** 摒弃大颗粒度维度，主张认知是微观的“框架与资源”，即便是面对完全相同的领域文本，个体的认知标准也会随任务目标（如考证历史与寻求宗教情感）发生剧烈的动态切换。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, p. 474)]]
 
 > [!critique] 方法论推论危机
 > - **脱域困境与内部推论黑箱** 建构派广泛使用的标准化自陈量表将缄默（tacit）的知识强行脱离语境显性化，犯了认识论错误；而情境派崇尚的纯外部[[Discourse Analysis|话语分析]]虽保留了真实情境，却陷入了仅靠表面行为流难以准确推断内部隐蔽机制的“推论危机（inference problem）”。这迫使该领域不得不转向[[Mixed Methods Research|混合方法]]的[[Triangulation|三角验证]]。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
