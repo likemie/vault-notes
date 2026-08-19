@@ -2404,6 +2404,15 @@
     ]
   },
   {
+    "title": "Development of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Development of Knowledge.md",
+    "aliases": [
+      "知识的发展",
+      "知识发展信念"
+    ]
+  },
+  {
     "title": "Domain Specificity",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Domain Specificity.md",
@@ -2498,8 +2507,7 @@
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Epistemological Beliefs.md",
     "aliases": [
-      "认识论信念",
-      "epistemological beliefs"
+      "认识论信念"
     ]
   },
   {
@@ -2570,6 +2578,17 @@
       "确证标准",
       "辩护标准",
       "epistemic standards"
+    ]
+  },
+  {
+    "title": "Measurement Alignment",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Measurement Alignment.md",
+    "aliases": [
+      "测量对齐",
+      "对齐法则",
+      "颗粒度对齐",
+      "领域对齐"
     ]
   },
   {
@@ -11419,6 +11438,15 @@
     ]
   },
   {
+    "title": "Meta-regression",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Meta-regression.md",
+    "aliases": [
+      "元回归",
+      "meta-regression analysis"
+    ]
+  },
+  {
     "title": "Moderator Analysis",
     "type": "method",
     "path": "wiki/methods/quantitative/Moderator Analysis.md",
@@ -11913,6 +11941,15 @@
     "aliases": [
       "CTSS",
       "批判性思维策略量表"
+    ]
+  },
+  {
+    "title": "Global Certainty Scale",
+    "type": "instrument",
+    "path": "wiki/instruments/scales/Global Certainty Scale.md",
+    "aliases": [
+      "全局确定性量表",
+      "全局知识确定性量表"
     ]
   },
   {
@@ -17115,6 +17152,11 @@
     "title": "Argument_Zhou_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Zhou_2024_CE.md"
+  },
+  {
+    "title": "Argument_Trautwein_2007_CEP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md"
   },
   {
     "title": "Argument_Johnson_2023_CE",

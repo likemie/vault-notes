@@ -36,6 +36,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
+  - "[[Cultural Capital]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
@@ -51,10 +52,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Trautwein_2007_CEP]]"
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-06-18
+updated: 2026-08-19
 ---
 
 # Causal Modeling
@@ -208,3 +210,10 @@ updated: 2026-06-18
 > | [[Covariate Adjustment]] | 配套技术 | 通过纳入协变量调整效应估计，变量选择影响[[Effect Size\|效应量]]与显著性 |
 > | [[Multiple Regression]] | 基本构件 | 估计单个路径系数；[[Standard Error\|SEM]] 扩展了多元回归以同时处理多方程系统 |
 > | [[Recommendations for Practice]] | 风险关联 | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 关注建模语汇推动越界实践建议的风险 |
+
+---
+
+## 使用此方法的研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 在 Mplus 中使用复合抽样校正（Type=Complex）构建潜[[Variable|变量]]结构方程模型，检验了科学知识确定性信念在中介认知能力、家庭[[Cultural Capital|文化资本]]与高中毕业成绩之间的因果路径，并估计了跨期潜变量回归。

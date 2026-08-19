@@ -45,6 +45,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Multiple Regression]]"
+  - "[[Meta-regression]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 confidence: medium
@@ -212,7 +213,7 @@ updated: 2026-07-21
 > - **第一类：格式与覆盖范围预测试**
 >   检查清晰度、效度、措辞、可读性、题型适当性、外观吸引力、完成时间、敏感性和编码系统，从有限数量受访者和专家处获取反馈。Oppenheim（1992, p. 48）强调问卷上的一切都应经过预测试，甚至包括字体或纸张质量。
 > - **第二类：统计缩减预测试**
->   从大量题项列表开始，通过对代表性样本（50–100人）的统计分析（信度分析、共线性、多元回归、因子分析）缩减题项至可管理规模（Kgaile & Morrison, 2006）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 176–179]]）。
+>   从大量题项列表开始，通过对代表性样本（50–100人）的统计分析（信度分析、共线性、多[[Meta-regression|元回归]]、因子分析）缩减题项至可管理规模（Kgaile & Morrison, 2006）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 176–179]]）。
 
 > [!dev-timeline] 第一类预测试的检查流程
 > - **措辞与清晰度** 检查题项、指导语和布局的清晰度；消除措辞中的歧义或困难；检查目标受众的可读性水平；获取[[Leading Questions|引导性问题]]的反馈。

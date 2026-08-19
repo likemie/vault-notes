@@ -26,6 +26,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Multiple Regression]]"
+  - "[[Meta-regression]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
 related_persons: []
@@ -59,7 +60,7 @@ updated: 2026-05-31
 ## 方法变体与相近方法
 
 > [!tip]-
-> - vs [[Multiple Regression|多元回归]] — Pearson 相关是双[[Variable|变量]]（bivariate）分析，一次只考察两个变量间的关系；多元回归将相关分析扩展到两个或以上的[[Independent Variable|预测变量]]，同时评估多个预测变量对一个[[Dependent Variable|结果变量]]的相对预测力。
+> - vs [[Multiple Regression|多元回归]] — Pearson 相关是双[[Variable|变量]]（bivariate）分析，一次只考察两个变量间的关系；多[[Meta-regression|元回归]]将相关分析扩展到两个或以上的[[Independent Variable|预测变量]]，同时评估多个预测变量对一个[[Dependent Variable|结果变量]]的相对预测力。
 > - vs Spearman 等级相关 — 当变量为顺序量表或分数非正态分布时，应使用 Spearman's ρ（rho）而非 Pearson's r。
 > - vs t 检验 — t 检验比较两组均值差异，Pearson 相关考察两个连续变量间的线性关联。
 

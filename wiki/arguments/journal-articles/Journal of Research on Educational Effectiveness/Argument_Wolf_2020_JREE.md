@@ -43,6 +43,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Meta-regression]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
@@ -74,7 +75,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**[[Meta-analysis]]（多元元回归，multivariate meta-regression），使用 robust variance estimation (RVE) 处理[[Effect Size|效应量]]依赖性，small-sample correction (Tipton, 2015) 防止 I 类错误膨胀
+> - **方法**[[Meta-analysis]]（多元[[Meta-regression|元回归]]，multivariate meta-regression），使用 robust variance estimation (RVE) 处理[[Effect Size|效应量]]依赖性，small-sample correction (Tipton, 2015) 防止 I 类错误膨胀
 > - **样本**[[What Works Clearinghouse|WWC]] 数据库中 K-12 数学和阅读/读写领域的 755 个效应量，来自 169 项研究（均达到 WWC 标准）(p. 433)
 > - **数据来源** What Works Clearinghouse (WWC) 数据库（2018 年 1 月提取），辅以对原始研究的个别审查以填充缺失数据、作者邮件询问资金来源(pp. 433–434)
 > - **关键[[Coding in Qualitative Research|编码]]** 每个研究编码为开发者委托（作者为开发者雇员 或 开发者资助）vs. 独立研究；结果测量编码为研究者/开发者自编 vs. 独立测量(pp. 434–435)
@@ -86,7 +87,7 @@ citation_aliases:
 > [!example] 核心论证
 > 1. **前提/观察** ESSA 2015 将联邦拨款与项目有效性证据绑定，开发者面临前所未有的经济激励去证明其产品有效(p. 428)
 > 2. **[[Hypothesis|假设]]** 开发者可能通过研究设计特征（更小样本、自编测量）、文件抽屉效应、[[Researcher Degrees of Freedom|研究者自由度]]三重机制抬高[[Effect Size|效应量]](p. 429)
-> 3. **方法步骤** 使用 [[What Works Clearinghouse|WWC]] 全数据库，先估计零模型，再加入开发者和协[[Variable|变量]]的元回归模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释(pp. 437–438)
+> 3. **方法步骤** 使用 [[What Works Clearinghouse|WWC]] 全数据库，先估计零模型，再加入开发者和协[[Variable|变量]]的[[Meta-regression|元回归]]模型，最后限制在同时有开发者和独立研究的干预子样本并加入干预固定效应——逐步排除替代解释(pp. 437–438)
 > 4. **结论** 在控制可观测研究设计特征和项目特征后，[[Developer Effect|开发者效应]]仍然存在（全样本差异 0.141 SD，同一干预差异 0.130 SD），[[Publication Bias|发表偏倚]]估计可解释约 66%，但剩余部分不能由现有数据明确解释(pp. 441–443)
 
 ## 主要发现

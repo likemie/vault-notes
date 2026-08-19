@@ -33,6 +33,7 @@ related_methods:
   - "[[Chi-Squared Test]]"
   - "[[Multiple Regression]]"
   - "[[Random Sampling]]"
+  - "[[Meta-regression]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -102,7 +103,7 @@ updated: 2026-07-13
 > | 样本量趋势 | 更大 | 相对较小 |
 > | 总体 2,000+ 时样本量 | 仍随总体增加 | 不再变化 |
 > | [[Multiple Regression\|多元回归]] 5:1 比率 | ≥ 313 例，自[[Variable\|变量]] ≤ 62 | ≥ 111 例，[[Independent Variable\|自变量]] ≤ 22 |
-> | 多元回归 10:1 比率 | ≥ 313 例，自变量 ≤ 31 | ≥ 111 例，自变量 ≤ 11 |
+> | 多[[Meta-regression\|元回归]] 10:1 比率 | ≥ 313 例，自变量 ≤ 31 | ≥ 111 例，自变量 ≤ 11 |
 
 ---
 

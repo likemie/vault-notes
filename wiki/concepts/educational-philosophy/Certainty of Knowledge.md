@@ -30,8 +30,12 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Construct]]"
   - "[[Metacognition]]"
+  - "[[Academic Achievement]]"
+  - "[[Cultural Capital]]"
   - "[[Operationalization]]"
-related_theories: []
+  - "[[Variable]]"
+related_theories:
+  - "[[Item Response Theory]]"
 related_methods: []
 related_persons:
   - "[[Plato]]"
@@ -45,10 +49,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Hofer_1997_RER]]"
+  - "[[Argument_Trautwein_2007_CEP]]"
 confidence: medium
 status: active
 created: 2026-05-22
-updated: 2026-08-14
+updated: 2026-08-19
 ---
 
 # Certainty of Knowledge
@@ -112,6 +117,18 @@ updated: 2026-08-14
 
 ---
 
+### 命题三　科学知识确定性信念负向预测学业成就并受学科选择与社会化双重塑造
+
+> [!concept-lens] 学业预测力与学科分化机制
+> 探讨确定性信念是否能独立于智力与家庭背景预测[[Academic Achievement|学业表现]]，以及学科间的确定性信念差异究竟源于先验选择还是大学环境塑造。
+
+> [!claim] [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]]
+> **学业预测力与双重塑造机制** 在大规模纵向追踪（TOSCA 项目）中，知识确定性信念对学业成就具有稳健的独立负向预测作用，且与大学专业选择之间存在自我选择与学科社会化的双重机制：
+> - **超越智力与阶层的独立预测力** 在控制了一般认知能力（$g$ 因子推断力）、家庭社会经济地位（ISEI）和[[Cultural Capital|文化资本]]（藏书量）后，高中毕业生的全局确定性信念仍能显著负向预测毕业总评成绩（$\beta = -0.15$），并部分中介了认知能力与家庭文化资本对学业成绩的促进效应。持幼稚确定性信念的学生倾向于表面加工，难以应对高阶学术挑战。
+> - **先验自我选择与后续学科社会化** 中学毕业阶段（T1），未来选择工科（$b = 0.38$）、商科（$b = 0.33$）、数学自然科学（$b = 0.39$）及医学（$b = 0.38$）的学生，其确定性信念已显著高于人文艺术类学生，证实了先验的自我选择；入读大学两年后（T2），学科间差距进一步拉大，工科（$\Delta b = 0.40$）与商科（$\Delta b = 0.22$）学生的确定性信念被进一步强化，而人文与社会科学（$\Delta b = -0.26$）学生的确定性信念则显著下降，直接验证了学科环境对认识论信念的社会化塑造效应。[[Argument_Trautwein_2007_CEP|(Trautwein & Lüdtke, 2007, pp. 357–361)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -119,6 +136,7 @@ updated: 2026-08-14
 > |---|---|---|---|
 > | **文化传统假说** | 知识的确定性是西方科学与哲学传统的根基，追求超越感官的客观真理 | 跨文化教育比较、学习传统的历史溯源 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 > | **心理测量维度** | 知识的确定性是衡量个体认识论成熟度的连续体（从绝对固定到相对演变） | 预测学生的学习策略、阅读理解和元认知能力 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
+> | **学业预测与双重塑造** | 确定性信念独立负向预测学业成绩，并受大学专业的先验自我选择与后继学科社会化共同塑造 | 大规模纵向追踪、学业选拔与学科认识论演化 | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] |
 
 ---
 
@@ -130,6 +148,17 @@ updated: 2026-08-14
 > - **17 世纪 — 科学革命** 现代科学奠基人（Copernicus、Kepler、Galileo、Leibniz、Newton）的全部成就均被视为是数学和逻辑推理力量的极致见证。
 > - **17 至 18 世纪 — 方法论注入** [[Francis Bacon]] 引入归纳法为探究真知注入活力；Locke 主张即便是宗教启示也应受理性评判；[[Immanuel Kant|康德]]则通过区分先验与后天，提出人类心智装置通过范畴理性地过滤经验。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 25-26)]]
 > - **20 世纪下半叶 — 降维为心理学[[Construct|构念]]** 现代[[Epistemology|认识论]]动摇了知识绝对确定的根基。自 Perry (1970) 始，教育心理学家不再将“确定性”视为必须抵达的绝对终点，而是将其[[Operationalization|操作化]]为衡量个体认知发展阶段的一个“信念维度”——认知越成熟的个体，越倾向于摒弃知识的绝对确定性。
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与设计 | 测量工具 | 控制[[Variable\|变量]] | 核心结果 |
+> |---|---|---|---|---|
+> | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，T1 $N = 2854$；大学追踪 T2 $N = 1094$） | 7 题全局确定性量表（4 点李克特计分，T1 $\alpha = .75$；T2 $\alpha = .73$） | 认知推理能力（KFT 4-13+R [[Item Response Theory\|IRT]] 分数）、家庭 SES（ISEI）、[[Cultural Capital\|文化资本]]（藏书量）、性别、年龄 | 结构方程模型（SEM）表明确定性信念显著负向预测毕业成绩（$\beta = -0.15, p < .001$）；工科（$\Delta b = 0.40, p < .001$）与商科（$\Delta b = 0.22, p < .05$）在控制 T1 信念后仍显著强化确定性，社科显著弱化（$\Delta b = -0.26, p < .05$） |
 
 ---
 

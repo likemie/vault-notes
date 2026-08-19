@@ -26,6 +26,7 @@ related_theories: []
 related_methods:
   - "[[Analysis of Variance]]"
   - "[[Multiple Regression]]"
+  - "[[Meta-regression]]"
   - "[[Experimental Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Random Assignment]]"
@@ -65,7 +66,7 @@ updated: 2026-06-01
 
 > [!tip]-
 > - vs [[Analysis of Variance|ANOVA]] — ANOVA 直接比较组间均值；ANCOVA 在控制协[[Variable|变量]]后比较调整均值。当各组在某一连续变量（如[[Pre-test and Post-test|前测]]分数）上存在初始差异且该变量与[[Dependent Variable|因变量]]相关时，ANCOVA 比 ANOVA 更合适。
-> - vs [[Multiple Regression|多元回归]] — 多元回归使用连续[[Independent Variable|预测变量]]；ANCOVA 同时包含类别自变量和连续协变量，可视为 ANOVA 和回归的混合形式。
+> - vs [[Multiple Regression|多元回归]] — 多[[Meta-regression|元回归]]使用连续[[Independent Variable|预测变量]]；ANCOVA 同时包含类别自变量和连续协变量，可视为 ANOVA 和回归的混合形式。
 
 ## 适用场景
 

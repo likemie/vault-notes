@@ -17,6 +17,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Multiplicity]]"
   - "[[Epistemology]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -24,9 +25,10 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
+  - "[[Argument_Trautwein_2007_CEP]]"
 status: active
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-19
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
@@ -58,3 +60,10 @@ updated: 2026-08-13
 > - **适合** 解释传统文理学院大学生的认知转变规律。
 > - **谨慎** 高阶段更偏向伦理与身份发展，而并非纯粹的[[Epistemology|认识论]]判断。
 > - **局限** 原样本高度同质化（1950年代哈佛精英白人男性为主），且可能反映的只是西方自由教育的社会化产物。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 93)]]
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 对 Perry 提出的“大学教育环境塑造[[Epistemology|认识论]]思维”（涵化/社会化[[Hypothesis|假设]]）进行了大规模纵向追踪检验。结果证实大学专业学习确实发挥了学科社会化效应（人文社科确定性信念下降、工科商科上升），但同时也揭示在进入大学前学生已存在显著的先验自我选择效应（self-selection）。

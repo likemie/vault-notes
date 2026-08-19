@@ -27,6 +27,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Meta-regression]]"
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments:
@@ -59,7 +60,7 @@ updated: 2026-07-13
 >
 > **3. 统计检验**
 >
-> 通过亚组分析或元回归等方法，检验候选调节变量与效应量之间的关系。例如，比较不同年龄段学生的效果差异，或检验结果测量类型是否与效应量大小相关。
+> 通过亚组分析或[[Meta-regression|元回归]]等方法，检验候选调节变量与效应量之间的关系。例如，比较不同年龄段学生的效果差异，或检验结果测量类型是否与效应量大小相关。
 >
 > **4. 解释与报告**
 >

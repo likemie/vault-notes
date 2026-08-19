@@ -30,6 +30,7 @@ related_concepts:
 related_methods:
   - "[[Survey Research]]"
   - "[[Multiple Regression]]"
+  - "[[Meta-regression]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
 confidence: medium
@@ -129,7 +130,7 @@ updated: 2026-07-11
 > |:-----|:-----|:-----|
 > | [[Survey Research]] | 前置方法 | 调查中的无回应（单位/题项）是插补方法最主要的应用场景。 |
 > | [[Response Bias]] | 相关概念 | 无回应偏倚是插补方法试图校正的核心问题——无回应者的值可能系统性不同于有回应者。 |
-> | [[Multiple Regression]] | 基础方法 | 回归插补以多元回归为数学基础。 |
+> | [[Multiple Regression]] | 基础方法 | 回归插补以多[[Meta-regression\|元回归]]为数学基础。 |
 
 ---
 

@@ -20,6 +20,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Reliability]]"
+  - "[[Development of Knowledge]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Constructivist Paradigm]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Measurement Alignment]]"
   - "[[Rote Learning]]"
   - "[[Educational Level]]"
   - "[[Theoretical Validity]]"
@@ -58,6 +60,7 @@ related_methods:
   - "[[Moderator Analysis]]"
   - "[[Experimental Research]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Meta-regression]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"
@@ -96,7 +99,7 @@ issuing_organization: ""
 > [[Epistemic Cognition|认识论认知]]（Epistemic cognition）与[[Academic Achievement|学业成就]]（academic achievement）之间的总体相关性有多大？这种相关性是否受到理论模型、[[Epistemology|认识论]][[Construct|构念]]、学术领域、特异性（specificity）对齐、成就类型、学段以及工具[[Reliability|可靠性]]等因素的调节？
 
 > [!claim] 核心主张
-> 认识论认知与学业成就之间存在较小但具有统计学意义的正相关（整体 $r = .162$）。且这种相关性高度依赖于测量工具的理论焦点（关注知识的发展与证成胜过关注权威）、测量域的对齐程度，以及成就测试的层次（概念性与论证表现胜过陈述性知识）。
+> 认识论认知与学业成就之间存在较小但具有统计学意义的正相关（整体 $r = .162$）。且这种相关性高度依赖于测量工具的理论焦点（关注[[Development of Knowledge|知识的发展]]与证成胜过关注权威）、测量域的对齐程度，以及成就测试的层次（概念性与论证表现胜过陈述性知识）。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 涵盖了过去 50 年间 132 项非实验[[Quantitative Research|定量研究]]，提取出 752 个[[Effect Size|效应量]]，样本包含从小学到研究生的 55,418 名学生。
@@ -142,7 +145,7 @@ issuing_organization: ""
 > | **样本阶段** | 大学生最多（68 个样本），其次为高中（39 个），小学（8 个）、初中（10 个）、研究生（4 个）及职前教师（10 个）。 |
 > | **[[Document\|文献]]清洗** | 初始搜到 737 篇，剔除不含相关性的（278 篇）、非该主题的（105 篇）、干预类（36 篇）等。 |
 
-> [!index-table]- 表 4：研究报告中编码的信息（完整复刻）
+> [!index-table]- 表 4：研究报告中编码的信息
 > | 类别 (Category) | 编码指标 (Codes) |
 > |---|---|
 > | **报告特征**<br>(Report characteristics) | 1. 作者姓名 (Author names)<br>2. 年份 (Year, 如果已发表或已发表)<br>3. 报告类型 (Report type, 如期刊文章、会议论文、海报、书籍章节、学位论文、未发表研究)<br>4. 简写引文 (Abbreviated citation)<br>5. 报告的缺失数据百分比 (Percent missing data reported) |
@@ -219,7 +222,7 @@ issuing_organization: ""
 > [!index-table]- 核心认识论构念释义
 > | 认识论构念 (Epistemic cognition construct) | 构念内涵解释 |
 > |---|---|
-> | **知识的发展 (Development of knowledge)** | 认识到知识是不断演化和发展的。 |
+> | **[[Development of Knowledge\|知识的发展]] (Development of knowledge)** | 认识到知识是不断演化和发展的。 |
 > | **一般认识论认知 (General epistemic cognition)** | 将多维度的不同认识论信念加总求和的整体粗略得分。 |
 > | **Kuhn 的发展层次 (Kuhn's levels)** | 测试学生所处阶段（绝对主义、多元主义、评价主义）。 |
 > | **知识的证成 (Justification of knowledge)** | 关注如何评估知识主张以及何种证据能使其成立。 |
@@ -285,7 +288,7 @@ issuing_organization: ""
 > > [!concept-lens] 什么是测量的“对齐（匹配）”？
 > > 本研究中的“对齐”分为两种非常具体的维度，任何一种错配都会导致预测效力的衰减：
 > > - **颗粒度/特异性对齐 (Specificity Alignment)** 指测量**层次**必须一致。例如，如果你用一份“一般性知识信念问卷（领域通用）”去预测“某次化学期末考试（领域特定）”的成绩，这就是**颗粒度错配**。正确的对齐是：用“通用问卷”预测“总体GPA”，用“化学认识论问卷”预测“化学成绩”。
-> > - **学科领域对齐 (Domain Alignment)** 指测量**情境**必须一致。例如，在“数学课堂”中让学生填写认识论问卷，却用“阅读理解测试”的成绩来评估其成就，这就是**领域错配**。正确的对齐是：在数学课测信念，就用数学成绩作为结果指标。
+> > - **学科[[Measurement Alignment|领域对齐]] (Domain Alignment)** 指测量**情境**必须一致。例如，在“数学课堂”中让学生填写认识论问卷，却用“阅读理解测试”的成绩来评估其成就，这就是**领域错配**。正确的对齐是：在数学课测信念，就用数学成绩作为结果指标。
 
 > [!chain-link] 证据到判断
 > - **颗粒度下沉的优势** 针对具体领域的测量的整体效应量（$r = .184$）本就高于宽泛的领域通用（$r = .140$）测量。
@@ -367,12 +370,12 @@ issuing_organization: ""
 ### 步骤五：方法学影响与信度决定论
 
 > [!claim] 测量的可靠性是决定关联强度的底层方法学因素
-> 剥开理论外衣，工具本身的设计方法（同侪评审状态、测量信度以及所选用的特定问卷）极大地决定了最终效应量的上限。元回归分析揭示了一个惊人的事实：信度才是王道。
+> 剥开理论外衣，工具本身的设计方法（同侪评审状态、测量信度以及所选用的特定问卷）极大地决定了最终效应量的上限。[[Meta-regression|元回归]]分析揭示了一个惊人的事实：信度才是王道。
 
 > [!chain-link] 证据到判断
 > - **同行评审的质量门槛** 经过同行评审的期刊文献（$r = .175$）由于数据清洗和质量把控更严，其报告的效应量显著高于学术会议论文（$r = .097$），两者的 95% CI 互不重叠。
 > - **问卷效力的巨大方差** 当[[Sample Size Determination|样本量]] $k > 5$ 时，各问卷捕获的效应量存在天壤之别。领域对口的印第安纳数学信念量表（Indiana Mathematics Belief Scale, $r = .421$）和 Conley et al. (2004) 问卷（Conley et al. Questionnaire, $r = .242$）表现出极强的预测力；而曾经非常流行的 Hofer (2000) 特定学科认识论信念问卷（Discipline-Focused Epistemological Beliefs Questionnaire, DEBQ，$r = .059$）和 Jehng et al. (1993) 问卷（Jehng et al. Questionnaire, $r = .051$）的整体效应竟然在统计学上不显著异于 0。
-> - **决定性的“信度回归”** 元回归（Meta-regression）分析揭示，问卷的[[Internal Consistency|内部一致性]]信度直接决定了效应量大小（$b = .300, p < .001$）。在这个回归模型中，如果一份问卷的信度是 0，那么它与成绩的相关性也会归 0；而如果一份问卷的信度达到完美的 1.0，它与成绩的预期相关性将高达 $r = .300$！
+> - **决定性的“信度回归”** [[Meta-regression|元回归]]分析揭示，问卷的[[Internal Consistency|内部一致性]]信度直接决定了效应量大小（$b = .300, p < .001$）。在这个回归模型中，如果一份问卷的信度是 0，那么它与成绩的相关性也会归 0；而如果一份问卷的信度达到完美的 1.0，它与成绩的预期相关性将高达 $r = .300$！
 
 > [!ma-table]- 表 15：同行评审状态调节变量分析
 > | 同行评审状态 | k | 效应量 (ES) | 95% CI |
@@ -421,7 +424,7 @@ issuing_organization: ""
 > [!stat-cards]- 核心数据
 > - **r = .162** 整体相关系数（[[Fixed-Effect and Random-Effects Models|随机效应模型]]）。
 > - **d = .328** 转换为 Cohen's d 后的中等偏下效应，具有一定[[Praxis|实践]]意义。
-> - **b = .300** 量表信度对效应量的元回归系数（$p < .001$）。
+> - **b = .300** 量表信度对效应量的[[Meta-regression|元回归]]系数（$p < .001$）。
 
 ---
 
@@ -439,7 +442,7 @@ issuing_organization: ""
 > [!warning] 
 > - **[[Causality|因果推断]]受限** 由于仅纳入了非实验性研究，无法推断[[Epistemic Cognition|认识论认知]]与成绩之间的直接因果关系。
 > - **垃圾进，垃圾出（Garbage in, garbage out）** 该领域的自陈[[Questionnaire|问卷]]长期存在[[Reliability|信度]]偏低的问题，这不仅衰减了相关性，也使得通过[[Meta-analysis|元分析]]得到的数据可能低估了真实的潜在效应。（p.1103）
-> - **元回归的稀疏数据限制** 由于部分[[Construct|构念]]和调节[[Variable|变量]]的组合[[Sample Size Determination|样本量]]极小，无法对所有变量组合进行同时的元回归以剥离深层混杂变量。（p.1103）
+> - **[[Meta-regression|元回归]]的稀疏数据限制** 由于部分[[Construct|构念]]和调节[[Variable|变量]]的组合[[Sample Size Determination|样本量]]极小，无法对所有变量组合进行同时的元回归以剥离深层混杂变量。（p.1103）
 
 ---
 

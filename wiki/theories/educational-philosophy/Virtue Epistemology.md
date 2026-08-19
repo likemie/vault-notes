@@ -14,6 +14,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Analytic Framework]]"
   - "[[Epistemic Aims]]"
+  - "[[Development of Knowledge]]"
 related_theories:
   - "[[Expanded Framework of Epistemic Cognition]]"
 related_methods: []
@@ -43,7 +44,7 @@ updated: 2026-08-17
 > - **知识位置** 当代哲学认识论的分支领域，吸收了[[Aristotle|亚里士多德]]与[[John Dewey|杜威]]的伦理学思想。
 
 > [!claim] 核心主张
-> 知识和理解的获得源于认识主体的认识论美德（epistemic virtues），涵盖理智诚实、理智谨慎、思想开放、理智勇气或运作良好的认知官能。这些美德是有助于达到追求真理等[[Epistemic Aims|认识论目标]]的稳定倾向。与之相对，教条主义与理智懦弱等恶习阻碍知识的发展。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 156)]]
+> 知识和理解的获得源于认识主体的认识论美德（epistemic virtues），涵盖理智诚实、理智谨慎、思想开放、理智勇气或运作良好的认知官能。这些美德是有助于达到追求真理等[[Epistemic Aims|认识论目标]]的稳定倾向。与之相对，教条主义与理智懦弱等恶习阻碍[[Development of Knowledge|知识的发展]]。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 156)]]
 
 ---
 

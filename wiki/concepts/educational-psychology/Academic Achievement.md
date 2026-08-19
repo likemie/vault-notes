@@ -13,21 +13,29 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: []
 related_concepts:
-  - "[[Variable]]"
+  - "[[Epistemic Cognition]]"
   - "[[Operationalization]]"
+  - "[[Construct]]"
+  - "[[Conatus]]"
+  - "[[Variable]]"
+  - "[[Procedural Knowledge]]"
+  - "[[Hypothesis]]"
+  - "[[Rote Learning]]"
+  - "[[Measurement Alignment]]"
+  - "[[Effect Size]]"
+  - "[[Independent Variable]]"
   - "[[Epistemological Beliefs]]"
   - "[[Dependent Variable]]"
-  - "[[Independent Variable]]"
-  - "[[Effect Size]]"
-  - "[[Epistemic Cognition]]"
+  - "[[Confidence Interval]]"
+  - "[[Heterogeneity]]"
   - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Realism in International Relations]]"
 related_theories:
   - "[[Epistemic and Ontological Cognition]]"
 related_methods:
-  - "[[Multinomial Logistic Regression]]"
   - "[[Meta-analysis]]"
+  - "[[Multinomial Logistic Regression]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -88,7 +96,7 @@ updated: 2026-08-19
 > 在教育实证中，如何获取成绩（主观还是客观）以及测量的粗细程度（总体还是特定领域），决定了研究结论的成败。
 
 > [!claim] Greene, J.
-> **测量客观性与对齐法则** 
+> **测量客观性与[[Measurement Alignment|对齐法则]]** 
 > - **客观性惩罚** 采用标准化测试（$r = .214$）和专门开发的测试（$r = .177$）作为学业成就时，其与认知信念的[[Effect Size|效应量]]远超依靠参与者主观自报（$r = .083$）的研究，主观自报会严重稀释真实的理论关联。
 > - **对齐法则（Alignment）** 当学业成就的测量领域（如特定学科成绩）与认知测试工具的特异性严格匹配时，能够捕捉到显著更强的预测效力，盲目使用跨领域的总体 GPA 往往会削弱解释力。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 

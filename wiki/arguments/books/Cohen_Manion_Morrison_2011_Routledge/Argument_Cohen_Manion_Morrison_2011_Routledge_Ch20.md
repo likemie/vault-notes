@@ -72,6 +72,7 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Causal Modeling]]"
   - "[[Chi-Squared Test]]"
+  - "[[Meta-regression]]"
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Telephone Interview]]"
@@ -223,7 +224,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > | 简单频率与百分比 | 名义或顺序数据 | 问卷必须以能够产生所需统计量的方式构建，类别必须离散互斥且穷尽 | 案例 3：学校沟通交叉表分析 |
 > | [[Chi-Squared Test\|交叉表分析 / 卡方检验]] | 名义数据 | 二分类或多选题项即可，适合大样本、分类比较 | 案例 3（Table 20.1） |
 
-> [!case] 案例 1　多元回归规划（pp. 110–111）
+> [!case] 案例 1　多[[Meta-regression|元回归]]规划（pp. 110–111）
 > 研究者想找出三个自变量（教学准备、[[Student-Teacher Relationship|师生关系]]、学科知识）对因变量（教学有效性）的相对权重。所有题项使用相同的 11 点量表（0="完全没有"至 10="非常大程度"），同时包含：
 >
 > - 因变量题项：总体上，你认为数学系的教学有多有效？

@@ -30,6 +30,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Meta-regression]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
 related_facts:
@@ -54,7 +55,7 @@ updated: '2026-05-18'
 ## 核心要素
 
 > [!abstract] [[Effect Size|效应量]]差异
-> [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 通过多元元回归模型（multivariate meta-regression）得出以下核心发现：
+> [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 通过多元[[Meta-regression|元回归]]模型（multivariate meta-regression）得出以下核心发现：
 >
 > - **全样本**（755 个效应量，169 项研究）：控制研究设计特征和项目特征后，独立研究的平均效应量为 +0.168，开发者研究的平均效应量为 +0.309，差异为 0.141 标准差([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 441]])。即开发者研究的效应量约为独立研究的 **1.8 倍**。
 > - **同一干预子样本**（350 个效应量，91 项研究）：控制协[[Variable|变量]]并加入每个干预的虚拟变量后，独立研究平均效应量为 +0.194，开发者研究为 +0.324，差异为 0.130 标准差([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 439]])。即对于**同一个项目**，开发者研究效应量约为独立研究的 **1.7 倍**。

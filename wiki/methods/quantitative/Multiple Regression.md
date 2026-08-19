@@ -26,6 +26,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
+  - "[[Meta-regression]]"
   - "[[Analysis of Variance]]"
   - "[[Analysis of Covariance]]"
   - "[[Survey Research]]"
@@ -44,7 +45,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> 多元回归（Multiple Regression）是将 Pearson 相关扩展到两个或以上预测[[Variable|变量]]（predictor variables）的推断统计方法。它用于评估多个[[Independent Variable|预测变量]]（自变量）与一个[[Dependent Variable|结果变量]]（因变量）之间的关系，提供整体模型拟合指标（R² 和 F 统计量）以及每个预测变量的相对贡献（b 系数和 t 统计量）。多元回归揭示了众多变量中哪一个变量对结果的相对预测力最强（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
+> 多[[Meta-regression|元回归]]（Multiple Regression）是将 Pearson 相关扩展到两个或以上预测[[Variable|变量]]（predictor variables）的推断统计方法。它用于评估多个[[Independent Variable|预测变量]]（自变量）与一个[[Dependent Variable|结果变量]]（因变量）之间的关系，提供整体模型拟合指标（R² 和 F 统计量）以及每个预测变量的相对贡献（b 系数和 t 统计量）。多元回归揭示了众多变量中哪一个变量对结果的相对预测力最强（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
@@ -57,7 +58,7 @@ updated: 2026-05-31
 > - 变量类型：连续／连续（预测变量和结果变量均为连续变量）
 > - 分数分布：正态分布
 
-> [!note]- 多元回归的输出指标
+> [!note]- 多[[Meta-regression|元回归]]的输出指标
 > - **R²** — 模型整体拟合度，表示所有预测变量共同解释的结果变量方差比例。
 > - **F 统计量** — 检验整体模型是否显著优于仅使用均值的零模型。
 > - **b（非标准化回归系数）** — 每个预测变量一个单位变化时结果变量的原始单位变化量。
@@ -69,7 +70,7 @@ updated: 2026-05-31
 > [!tip]-
 > - **层级回归（Hierarchical Regression）** 按理论驱动的顺序逐步加入预测[[Variable|变量]]块，考察每块变量对 R² 的增量贡献。
 > - **逐步回归（Stepwise Regression）** 由统计程序自动选择进入或退出模型的变量——但因其结果依赖样本特征且缺乏理论驱动，Creswell 未推荐此方法。
-> - vs Pearson 相关 — Pearson 相关是双变量分析（一次两个变量）；多元回归是多变量分析（多个[[Independent Variable|预测变量]]同时进入模型）。
+> - vs Pearson 相关 — Pearson 相关是双变量分析（一次两个变量）；多[[Meta-regression|元回归]]是多变量分析（多个[[Independent Variable|预测变量]]同时进入模型）。
 > - vs [[Analysis of Variance|ANOVA]]／[[Analysis of Covariance|ANCOVA]] — ANOVA 比较组间均值，通常使用类别预测变量；多元回归使用连续预测变量。ANCOVA 可视为 ANOVA 和回归的混合形式——组间比较中加入连续协变量。
 
 ## 适用场景
