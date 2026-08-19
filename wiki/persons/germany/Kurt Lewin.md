@@ -92,10 +92,10 @@ updated: 2026-07-18
 ## 核心思想
 
 > [!claim] 勒温的核心主张：研究必须与行动结合以改变社会现实
-> 勒温的根本信念是：社会研究不应只是描述现实，而应成为改变现实的工具。[[Action Research|行动研究]]将研究者的分析能力与[[Praxis|实践]]者的行动能力相结合，通过"计划—行动—观察—反思"的螺旋循环，在解决真实社会问题（如住房、就业、偏见）的过程中同时产生知识和变革。他将行动研究[[Coding in Qualitative Research|编码]]为一种"理性社会管理"——计划、行动和关于行动结果之查证的螺旋（Lewin, 1948: 205）。
+> 勒温的根本信念是：社会研究不应只是描述现实，而应成为改变现实的工具。[[Action Research|行动研究]]将研究者的分析能力与[[Praxis|实践]]者的行动能力相结合，通过"计划—行动—观察—反思"的螺旋循环，在解决真实社会问题（如住房、就业、偏见）的过程中同时产生知识和变革。他将行动研究[[Coding in Qualitative Research|编码]]为一种"理性社会管理"——计划、行动和关于行动结果之查证的螺旋（Lewin, 1948, p. 205）。
 
 > [!citation-card]- 关键表述
-> "理性社会管理"可被视为计划、行动和关于所采取行动结果之查证的螺旋。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 280, citing Lewin, 1948: 205)]]
+> "理性社会管理"可被视为计划、行动和关于所采取行动结果之查证的螺旋。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 280, citing Lewin, 1948, p. 205)]]
 >
 > *Such "rational social management" can be conceived of as a spiral of planning, action and fact-finding about the outcomes of the actions taken.*
 
@@ -106,7 +106,7 @@ updated: 2026-07-18
 > [!influence-path] 影响路径
 > - **理论路径** 场论（B = f(P, E)）影响了后来的社会认知理论、生态[[Luhmann's Systems Theory|系统理论]]和情境学习理论；群体动力学成为社会心理学和组织行为学的核心领域。
 > - **方法路径** [[Action Research|行动研究]]螺旋模型被 Kemmis & McTaggart（1981, 1988, 1992）改进和发展为当代行动研究的核心程序框架；力场分析和变革三步模型成为组织发展和变革管理的方法论基础。
-> - **政策路径** 勒温对弱势群体的关注和对民主参与的倡导为[[Participatory Action Research|参与式行动研究]]和赋权研究提供了政治基础——Kemmis & McTaggart（1992: 6）将行动研究的合作性定位在勒温本人对群体决策的承诺中。
+> - **政策路径** 勒温对弱势群体的关注和对民主参与的倡导为[[Participatory Action Research|参与式行动研究]]和赋权研究提供了政治基础——Kemmis & McTaggart（1992, p. 6）将行动研究的合作性定位在勒温本人对群体决策的承诺中。
 > - **跨国／跨领域传播** 行动研究从社会心理学扩展到教育（Stenhouse 的"[[Teacher-as-Researcher|教师即研究者]]"、Elliott 的[[Reflexivity|反思性]][[Praxis|实践]]、Carr & Kemmis 的批判行动研究）、护理、社区发展、组织变革和管理学。
 
 ---

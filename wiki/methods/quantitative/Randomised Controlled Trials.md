@@ -172,7 +172,7 @@ updated: 2026-07-13
 > 随机分配的核心逻辑是采纳**其他条件相同（ceteris paribus）**条件——假设参与者构成中的大量未控制[[Variable|变量]]在组间均匀分布，因此无需单独控制它们。但这是一个**大胆且可能危险的假设**[[Complexity Theory|复杂性理论]]和混沌理论表明，微小的变化和差异就可以带来结果的重大差异（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
 
 > [!method-limits] Holland 的基本[[Causality|因果推断]]问题
-> Holland（1986: 947）提出了因果推断的一个根本性困难：同一个人不能同时处于接受和不接受干预的组中——"[[Fundamental Problem of Causal Inference|因果推断的基本问题]]"（fundamental problem of causal inference）。这一问题可能无法仅通过随机化充分缓解——因为无论随机分配多么完美，都只能在群体层面比较平均值，永远无法在个体层面观察[[Counterfactual|反事实]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
+> Holland（1986, p. 947）提出了因果推断的一个根本性困难：同一个人不能同时处于接受和不接受干预的组中——"[[Fundamental Problem of Causal Inference|因果推断的基本问题]]"（fundamental problem of causal inference）。这一问题可能无法仅通过随机化充分缓解——因为无论随机分配多么完美，都只能在群体层面比较平均值，永远无法在个体层面观察[[Counterfactual|反事实]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]]）。
 
 ---
 
@@ -184,7 +184,7 @@ updated: 2026-07-13
 > - **反线性因果** 混沌和复杂性理论反对线性的、决定论的、可普遍化的、原子化的、受控的封闭系统——这些系统可能在实验室中运作，但在教育的社会世界中并不运作（Gleick, 1987; Waldrop, 1992; Lewin, 1993）
 > - **反[[Variable|变量]]控制** 在一个动态、演化、流动、开放的情境中，保持变量恒常是误导性的——所测量到的已经是历史（What is measured is history, Morrison, 2001）
 > - **整体论** 现象必须被整体地看待——将现象原子化为有限数量的变量会错过多个部分的必要动态互动（Morrison, 2008）
-> - **分析单位转向** 复杂性理论建议分析单位从个体/机构/制度转向网络或生态系统（Capra, 1996: 301）
+> - **分析单位转向** 复杂性理论建议分析单位从个体/机构/制度转向网络或生态系统（Capra, 1996, p. 301）
 > - **测量之限** 人可以测量一个人的每一个可观察变量到无限微小的程度，但他的本质——是什么使他成为他——却逃逸了原子化和测量
 
 > [!quote] 赫拉克利特的名言

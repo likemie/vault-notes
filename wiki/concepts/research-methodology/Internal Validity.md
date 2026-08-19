@@ -140,7 +140,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 
 ## 质性研究中的内部效度
 
-在[[Qualitative Research|质性研究]]中，内部效度通过完全不同的方式处理。LeCompte & Preissle (1993: 338) 提出了五种解决方式（p.166）：
+在[[Qualitative Research|质性研究]]中，内部效度通过完全不同的方式处理。LeCompte & Preissle (1993, p. 338) 提出了五种解决方式（p.166）：
 
 > [!feature] 质性内部效度的解决方式（LeCompte & Preissle）
 > - **使用低推断描述符（low-inference descriptors）** 尽可能贴近原始数据和直接观察，减少研究者推断的跳跃
@@ -149,7 +149,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > - **使用同伴数据检查（peer examination of data）** 同行审查原始数据和解释
 > - **使用机械手段记录、存储和检索数据（mechanical means）** 录音、录像等技术手段减少人为记忆偏差
 
-> [!feature] 质性内部效度的八种主导类型（LeCompte & Preissle, 1993: 323–4）
+> [!feature] 质性内部效度的八种主导类型（LeCompte & Preissle, 1993, pp. 323–4）
 > - **数据置[[Reliability|信度]]（confidence）** 研究结论被数据充分支撑的程度
 > - **数据真实性（authenticity）** 通过参与者视角报告情境的能力
 > - **数据说服力（cogency）** 论证的逻辑力量和连贯性
@@ -167,7 +167,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > - **公平性（fairness）**
 >   对情境中多重现实和建构的完整、平衡呈现——不应有任何一个相关群体的视角被忽略
 > - **[[Ontology|本体论]]真实性（ontological authenticity）**
->   研究应提供对情境更精微（more sophisticated）的理解——使熟悉变得陌生（[[Making the Familiar Strange]]），这是减少研究者文化盲视（cultural blindness）的重要特征（Brock-Utne, 1996: 610）
+>   研究应提供对情境更精微（more sophisticated）的理解——使熟悉变得陌生（[[Making the Familiar Strange]]），这是减少研究者文化盲视（cultural blindness）的重要特征（Brock-Utne, 1996, p. 610）
 > - **教育真实性（educative authenticity）**
 >   研究应对这些理解产生新的认识——不仅仅是复现已知，而是让参与者（和读者）以新的眼光看待熟悉的情境
 > - **[[Catalytic Validity|催化真实性]]（catalytic authenticity）**
@@ -193,7 +193,7 @@ Hammersley (1992b: 71) 从更务实的角度提出质性内部效度需要注意
 
 ### Lincoln & Guba 建立可信性的六条并行策略
 
-Lincoln & Guba (1985: 219, 301) 认为[[Interpretive Paradigm|自然主义探究]]中的可信性（credibility）——质性研究内部效度的对应概念——可通过六种策略实现（p.167）：
+Lincoln & Guba (1985, p. 219, 301) 认为[[Interpretive Paradigm|自然主义探究]]中的可信性（credibility）——质性研究内部效度的对应概念——可通过六种策略实现（p.167）：
 
 > [!dimension] Lincoln & Guba 建立可信性的六条并行策略
 > - **长期田野参与**

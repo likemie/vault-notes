@@ -42,4 +42,4 @@ Woods（1979）识别出三个层层递进的基本[[Hypothesis|假设]]（[[Arg
 
 ## 核心焦点
 
-Woods（1983: 15–16）进一步总结了互动论的核心焦点：个体作为自身行动的建构者；自我的各组成部分及其互动；协商过程（meanings are continually being constructed）；社会语境；以及通过扮演他人角色来对齐行动（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+Woods（1983, pp. 15–16）进一步总结了互动论的核心焦点：个体作为自身行动的建构者；自我的各组成部分及其互动；协商过程（meanings are continually being constructed）；社会语境；以及通过扮演他人角色来对齐行动（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

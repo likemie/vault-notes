@@ -118,7 +118,7 @@ Onwuegbuzie & Johnson (2006) 在[[Mixed Methods Research|混合方法研究]]中
 
 ## 混合方法的三重困难与元推断
 
-Onwuegbuzie & Johnson (2006: 52) 指出[[Mixed Methods Research|混合方法研究]]在三个维度面临独特困难，直接关乎元推断的质量：
+Onwuegbuzie & Johnson (2006, p. 52) 指出[[Mixed Methods Research|混合方法研究]]在三个维度面临独特困难，直接关乎元推断的质量：
 
 > [!challenges] 影响元推断质量的三个维度
 > - **表征（representation）** 主要或仅使用词语和图像来捕捉生活经验的动态性和[[Emergence|涌现]]性——量化和质性对"什么构成了充分的表征"有不同标准，这直接影响元推断的丰富性。

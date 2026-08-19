@@ -87,10 +87,10 @@ updated: 2026-07-23
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。
-> - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。角色在参与-观察光谱上滑动（Figure 11.4），Swain（2006）指出研究者在[[Praxis|实践]]中可能需要在从完全被动到完全积极的整个连续体上切换角色。
+> - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998, p. 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。角色在参与-观察光谱上滑动（Figure 11.4），Swain（2006）指出研究者在[[Praxis|实践]]中可能需要在从完全被动到完全积极的整个连续体上切换角色。
 
-Gold（1958）提出了观察者角色的经典四层连续体分类（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1 节]]）：完全参与者（隐蔽身份的内部人，可能获得内部人知识但缺乏客观性）、参与者即观察者（公开身份的内部人）、观察者即参与者（非群体成员但少量参与，角色公开）、完全观察者（只观察，脱离群体）。完全参与和完全脱离各自都有局限——前者有"**[[Going Native|本土化]]**"（going native）的风险，研究者将群体价值观和规范当作自己的，不再保持客观性和研究者身份（Kawulich, 2005: 4）；后者与被观察者没有接触，推断危险。参与式观察通常在达到"**[[Saturation|理论饱和]]**"时停止——被观察的情境似乎正在重复已经收集到的数据（Adler & Adler, 1994: 380）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.6 节]]）。
-- **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler and Spindler（1992: 65）认为[[Ethnography|民族志]]效度通过研究者在场时间足够长、观察到事件重复发生来获得。Morrison（1993: 88）强调通过长期沉浸，不仅情境的显著特征会浮现，而且能获得诸因素相互关系的更整体性视角。
+Gold（1958）提出了观察者角色的经典四层连续体分类（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.1 节]]）：完全参与者（隐蔽身份的内部人，可能获得内部人知识但缺乏客观性）、参与者即观察者（公开身份的内部人）、观察者即参与者（非群体成员但少量参与，角色公开）、完全观察者（只观察，脱离群体）。完全参与和完全脱离各自都有局限——前者有"**[[Going Native|本土化]]**"（going native）的风险，研究者将群体价值观和规范当作自己的，不再保持客观性和研究者身份（Kawulich, 2005, p. 4）；后者与被观察者没有接触，推断危险。参与式观察通常在达到"**[[Saturation|理论饱和]]**"时停止——被观察的情境似乎正在重复已经收集到的数据（Adler & Adler, 1994, p. 380）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.6 节]]）。
+- **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler and Spindler（1992, p. 65）认为[[Ethnography|民族志]]效度通过研究者在场时间足够长、观察到事件重复发生来获得。Morrison（1993, p. 88）强调通过长期沉浸，不仅情境的显著特征会浮现，而且能获得诸因素相互关系的更整体性视角。
 > - **不声称回答的问题** 不能估计因果[[Effect Size|效应量]]、不能统计概括到人口总体、不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
@@ -119,9 +119,9 @@ Gold（1958）提出了观察者角色的经典四层连续体分类（[[Argumen
 
 ## 进入现场的策略
 
-进入现场是参与观察中最微妙且最具挑战性的环节。LeCompte & Preissle（1993: 112）指出最关键要素是研究者的灵活性和对参与者行为反应细微差别的敏感。De Laine（2000: 41）补充道，与人相处的能力和愿意加入并分享群体活动经验是获得和维持进入的关键标准。
+进入现场是参与观察中最微妙且最具挑战性的环节。LeCompte & Preissle（1993, p. 112）指出最关键要素是研究者的灵活性和对参与者行为反应细微差别的敏感。De Laine（2000, p. 41）补充道，与人相处的能力和愿意加入并分享群体活动经验是获得和维持进入的关键标准。
 
-Wolff（2004: 195–196）和 Flick（1998: 57）指出进入现场的六项关键观察：
+Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六项关键观察：
 
 > [!seq-table] 进入作为一种干预：六项观察（Wolff, 2004; Flick, 1998）
 > | 观察 | 说明 |
@@ -133,7 +133,7 @@ Wolff（2004: 195–196）和 Flick（1998: 57）指出进入现场的六项关�
 > | 现场进入后才显现 | 被研究现场的真实面貌只有在研究者进入之后才会逐渐清晰。 |
 > | 研究无回报 | 研究通常对被研究系统没有任何直接回报，但也没有理由拒绝。 |
 
-Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段过程：新人→临时接纳→类别接纳→个人接纳→即将迁移者。Loftland（1971）建议采取"可接受的无能者"角色，平衡侵入和知道何时保持距离。在[[Covert Research|隐蔽研究]]中，印象管理（Hammersley & Atkinson, 1983: 78ff.）具有额外紧迫性——一次失误即可暴露身份。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 425–427)]]
+Walford（2001, p. 62）报告了研究者角色随现场时间演变的五阶段过程：新人→临时接纳→类别接纳→个人接纳→即将迁移者。Loftland（1971）建议采取"可接受的无能者"角色，平衡侵入和知道何时保持距离。在[[Covert Research|隐蔽研究]]中，印象管理（Hammersley & Atkinson, 1983, p. 78ff.）具有额外紧迫性——一次失误即可暴露身份。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 425–427)]]
 
 > [!case] Patrick（1973）：格拉斯哥帮派[[Ethnography|民族志]]中的角色张力
 > Patrick 以隐蔽研究者身份进入一个格拉斯哥帮派开展参与观察。他必须完全融入帮派文化——采纳其语言、着装和行为规范——同时秘密记录[[Field Notes|田野笔记]]。当目击一起谋杀时，两难达到顶点：举报意味着暴露身份并危及自身生命，不举报则意味着对严重犯罪保持沉默。这个极端案例揭示了参与观察中角色、伦理和安全之间不可调和的张力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 416–417)]]
@@ -142,12 +142,12 @@ Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段�
 
 ## 边际性管理
 
-参与观察的核心操作概念是"边际性"（marginality）——研究者"在组织之中但不属于组织"（Hammersley & Atkinson, 1983: 97–99）：
+参与观察的核心操作概念是"边际性"（marginality）——研究者"在组织之中但不属于组织"（Hammersley & Atkinson, 1983, pp. 97–99）：
 
 > [!citation-card]- 边际性管理
 > [[Ethnography|民族志]]学者必须在智识上保持"熟悉"与"陌生"之间的平衡，同时在社交上保持"局外人"和"朋友"之间的平衡。这种多重角色的管理，尤其是边际性的管理，可能产生一种持续的不安全感。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 427)]]
 >
-> *The ethnographer must be intellectually poised between '[[Familiarization|familiarity]]' and 'strangeness', while socially he or she is poised between 'stranger' and 'friend'... this management of several roles, not least the management of marginality, can engender 'a continual sense of insecurity'. (Hammersley & Atkinson, 1983: 97–100)*
+> *The ethnographer must be intellectually poised between '[[Familiarization|familiarity]]' and 'strangeness', while socially he or she is poised between 'stranger' and 'friend'... this management of several roles, not least the management of marginality, can engender 'a continual sense of insecurity'. (Hammersley & Atkinson, 1983, pp. 97–100)*
 
 ## 适用场景
 
@@ -166,17 +166,17 @@ Walford（2001: 62）报告了研究者角色随现场时间演变的五阶段�
 
 ## 使用此方法的研究
 
-### Bailey（1994: 243–244）的四项固有优势
+### Bailey（1994, pp. 243–244）的四项固有优势
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14, p. 293)]]引述Bailey的总结：
 
-> [!strength] Bailey（1994: 243–244）的四项优势
+> [!strength] Bailey（1994, pp. 243–244）的四项优势
 > - **非语言行为数据的优势** [[Observation Method|观察研究]]在收集非语言行为数据时优于实验和调查
 > - **辨别正在发生的行为** 研究者能够辨别正在发生的行为并记录其显著特征
 > - **更亲密和非正式的关系** 因为观察发生在延长时间段内，研究者可以与观察对象建立更亲密和非正式的关系，通常在比实验和调查更自然的环境中
 > - **更少反应性** [[Case Study|案例研究]]观察比其他数据收集方法更少反应性——在实验室实验和依赖对结构化问题的言语反应的调查中，偏误可能被引入数据本身
 
-此外，[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14, p. 293)]]指出直接观察忠实于个案研究的真实生活、原址和整体性质（Verschuren, 2003: 131）。在实际案例中，Acker（1990）基于数百小时参与观察进行[[Ethnography|民族志研究]]；Patrick（1973）在格拉斯哥帮派中保持隐蔽身份四个月，在目击谋杀时面临角色/伦理/安全之间的极端张力；Willis（1977）作为"班级成员而非教师"对工人阶级男孩进行参与观察。
+此外，[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14, p. 293)]]指出直接观察忠实于个案研究的真实生活、原址和整体性质（Verschuren, 2003, p. 131）。在实际案例中，Acker（1990）基于数百小时参与观察进行[[Ethnography|民族志研究]]；Patrick（1973）在格拉斯哥帮派中保持隐蔽身份四个月，在目击谋杀时面临角色/伦理/安全之间的极端张力；Willis（1977）作为"班级成员而非教师"对工人阶级男孩进行参与观察。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]] — 教材将参与观察列为个案研究的核心观察方式，讨论了参与观察的四项优势（Bailey, 1994）、与[[Non-participant Observation|非参与式观察]]的连续体区分，以及六种研究类型示例（Acker/Boulton/Wild/Blease & Cohen/Antonsen/Houghton）（pp. 290–293）

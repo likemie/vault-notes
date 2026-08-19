@@ -4,7 +4,7 @@ aliases: [科学方法, empirical science, 经验科学, scientific approach]
 summary: "以经验证据为基础的系统性探究程序，传统上被视为基于假设检验和受控观察的标准化流程，但在当代科学哲学与科学教育中被重构为多元、社会的知识建构实践。"
 type: concept
 domain: "research-methodology"
-related_count: 2
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -33,7 +33,7 @@ updated: 2026-08-19
 ## 定义
 
 > [!def] 核心定义
-> 科学方法（Scientific Method）传统上被定义为一套系统性、经验性的研究程序，强调通过经验观察、提出[[Hypothesis|假设]]、受控实验检验和逻辑推理来建立或证伪现象之间的关系。程序的可复制性被视为其第二显著特征，使得同行可以重复检验结果（Cuff & Payne, 1979: 4）。然而，当代科学社会学与科学教育界已逐渐摒弃“存在单一通用方法”的观念，转而将其视为一组包含观察、建模、实验与历史推演的多元、社会性的知识建构实践。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]、[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
+> 科学方法（Scientific Method）传统上被定义为一套系统性、经验性的研究程序，强调通过经验观察、提出[[Hypothesis|假设]]、受控实验检验和逻辑推理来建立或证伪现象之间的关系。程序的可复制性被视为其第二显著特征，使得同行可以重复检验结果(Cuff & Payne, 1979, p. 4)。然而，当代科学社会学与科学教育界已逐渐摒弃“存在单一通用方法”的观念，转而将其视为一组包含观察、建模、实验与历史推演的多元、社会性的知识建构实践。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]、[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学共同体生成、验证和积累系统化知识的途径。
@@ -46,7 +46,7 @@ updated: 2026-08-19
 
 在经典实证主义中，科学方法被视为一个严谨的、逐步逼近真理的过程。Mouly (1978) 将其概括为五步：经验 → 分类 → 量化 → 发现关系 → 逐步逼近真理。Maslow (1954) 则将其功能细化为从直觉假设、严格检验、理论化到公众教育的九大功能。
 
-Hitchcock and Hughes (1995: 23) 提出了一种最具代表性的八阶段线性模型，刻画了传统“科学方法”的运作逻辑：
+Hitchcock & Hughes (1995, p. 23) 提出了一种最具代表性的八阶段线性模型，刻画了传统“科学方法”的运作逻辑：
 
 > [!logic-map] 科学方法八阶段（Hitchcock & Hughes, 1995）
 > ```mermaid

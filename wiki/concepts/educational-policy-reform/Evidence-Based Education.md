@@ -236,7 +236,7 @@ updated: 2026-07-13
 
 #### Fitz-Gibbon 的三个必要性论证（1997）
 
-在 EBE 的早期制度化过程中，Carol Fitz-Gibbon（1997: 35–36）提出了循证方法的三个必要性论证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.338–339]]）：
+在 EBE 的早期制度化过程中，Carol Fitz-Gibbon（1997, pp. 35–36）提出了循证方法的三个必要性论证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.338–339]]）：
 
 > [!claim] Fitz-Gibbon, C. (1997)
 > **挑战未经证实的实践的推行** 抵制未经验证的方案的强制实施，以系统性证据作为政策推行的门槛。

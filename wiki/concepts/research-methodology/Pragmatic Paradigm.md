@@ -120,7 +120,7 @@ updated: '2026-07-24'
 ### 第二部分：方法论层次核心要素（研究方法论范式）
 
 > [!feature] 方法论层次要素
-> - **[[Research Question|研究问题]]驱动** 放弃量化与质性优劣的纯哲学争论，直接判断研究是否成功回答了想了解的问题（Feilzer, 2010: 14）。
+> - **[[Research Question|研究问题]]驱动** 放弃量化与质性优劣的纯哲学争论，直接判断研究是否成功回答了想了解的问题（Feilzer, 2010, p. 14）。
 > - **[[Fitness for Purpose|适合目的]]与技术自由** 基于问题需求自由组合最合适的数据收集与分析程序（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 > - **[[Praxis|实践]]共同体（Community of Practice）** 从[[Deanna Kuhn|库恩]][[Paradigm|范式]]论出发，将[[Mixed Methods Research|混合方法研究]]者理解为由共同实用主义标准凝聚的学术共同体（Denscombe, 2008）。
 

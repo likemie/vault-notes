@@ -63,9 +63,9 @@ updated: 2026-07-11
 > - 不适用于纯粹的描述性研究、探索性[[Qualitative Research|质性研究]]（这些研究可能不预设假设）
 
 > [!citation-card]- Medawar 论假设的创造性本质
-> 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972: 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
+> 科学理解的所有进步，无论在哪个层面，都始于一次思辨的冒险，一种对什么可能是真的的想象性预想——这种预想总是且必然地略略超出我们有任何逻辑或事实依据去相信的范围。推测随后被暴露于批评之下，以发现那个想象的世界是否与真实的世界有任何相似之处。（Medawar, 1972, p. 22）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）
 >
-> *All advances of scientific understanding, at every level, begin with a speculative adventure, an imaginative preconception of what might be true – a preconception which always, and necessarily, goes a little way (sometimes a long way) beyond anything which we have logical or factual authority to believe in. The conjecture is then exposed to criticism to find out whether or not that imagined world is anything like the real one.* (Medawar, 1972: 22)
+> *All advances of scientific understanding, at every level, begin with a speculative adventure, an imaginative preconception of what might be true – a preconception which always, and necessarily, goes a little way (sometimes a long way) beyond anything which we have logical or factual authority to believe in. The conjecture is then exposed to criticism to find out whether or not that imagined world is anything like the real one.* (Medawar, 1972, p. 22)
 
 ---
 

@@ -43,7 +43,7 @@ updated: 2026-07-11
 > - **宏大叙事的缺席（the absence of 'grand narratives' / metanarratives）**拒绝宏大设计和普遍的行为法则与模式
 > - **重视不连续性、差异、多样性（the valorization of discontinuity, difference, diversity, variety, uniqueness, subjectivity, distinctiveness and individuality）**
 > - **地方性与个体性的重要地位（the importance of the local, the individual and the particular）**
-> - **当下的自指性（the 'utter forgetfulness of the past' and the 'autoreferentiality' of the present, Jameson, 1991: 42）**
+> - **当下的自指性（the 'utter forgetfulness of the past' and the 'autoreferentiality' of the present, Jameson, 1991, p. 42）**
 > - **时间性与语境依赖（the importance of temporality and context）**意义根植于时间、空间、文化和社会中，并非跨越这些的普遍存在
 > - **无深度性与多重实在（the celebration of depthlessness, multiple realities — and, as Jameson argues, multiple superficialities）**以及个体解释与意义的正当性（the rectitude of individual interpretations and meanings）
 > - **相对主义而非绝对主义（relativism rather than absolutism）**在决定什么构成有价值的知识、研究及其发现时

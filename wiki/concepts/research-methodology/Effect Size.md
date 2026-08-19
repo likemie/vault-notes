@@ -151,7 +151,7 @@ updated: 2026-07-19
 ### 技术定义与计算
 
 > [!info] Fitz-Gibbon 的早期推动（1985）
-> Fitz-Gibbon（1985: 45）在[[Meta-analysis|元分析]]发展早期即主张以效应量替代[[Statistical Significance|统计显著性]]作为[[Evaluation Research|评估研究]]的主要指标，将统计显著性重新定位为"[[Internal Validity|内部效度]]众多可能威胁中的一个"——效应大小是否满足[[Research Purpose|研究目的]]，而非是否跨过了显著性水平的任意截断点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.339–340]]）。
+> Fitz-Gibbon（1985, p. 45）在[[Meta-analysis|元分析]]发展早期即主张以效应量替代[[Statistical Significance|统计显著性]]作为[[Evaluation Research|评估研究]]的主要指标，将统计显著性重新定位为"[[Internal Validity|内部效度]]众多可能威胁中的一个"——效应大小是否满足[[Research Purpose|研究目的]]，而非是否跨过了显著性水平的任意截断点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.339–340]]）。
 
 > [!formula-step] 标准化均值差（Cohen's d）
 > $$d = \frac{M_{\text{干预组}} - M_{\text{对照组}}}{SD_{pooled}}$$

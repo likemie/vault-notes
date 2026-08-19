@@ -502,7 +502,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > [!citation-card]- 证据只能说明[[Hypothesis|假设]]，不能检验假设
 > 事后回溯假设生成于数据收集之后，因此无法被[[Falsification|证伪]]（Babbie, 2010, p. 462）。正如 Lord（1973, p. 7）所强调的，证据说明假设，不能检验假设：假设不能在与推导出假设的同一数据上进行检验。（第15章，pp. 313, 316）
 >
-> *The ex post facto hypothesis is generated after the data have been collected, so it is not possible to disconfirm it (Babbie, 2010: 462). The evidence illustrates rather than tests the hypothesis here (Lord, 1973: 7).*
+> *The ex post facto hypothesis is generated after the data have been collected, so it is not possible to disconfirm it (Babbie, 2010, p. 462). The evidence illustrates rather than tests the hypothesis here (Lord, 1973, p. 7).*
 
 > [!citation-card]- 将事后回溯研究重新定位为调查
 > 事后回溯设计更适合被理解为调查（surveys），作为需由更常规实验方法在日后检验的假设的有用来源。尽管有诸多局限，教育和心理学中许多重要研究都是事后回溯设计：通常别无选择，无法使一组人成为失败者、犯罪者、自杀者或脑损伤者，研究必须依赖已有群体。（第15章，p. 310）

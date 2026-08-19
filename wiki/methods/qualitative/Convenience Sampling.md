@@ -70,7 +70,7 @@ updated: 2026-07-11
 > [!method-limits] 方法局限
 > - **选择偏差** 样本完全由可得性和便利性驱动，可能与总体存在系统性差异。
 > - **不可推广** 参数推广性（[[External Validity|generalizability]]）可忽略不计，必须在报告中明确说明。
-> - **本质缺陷** Patton（1980: 88）和 Miles & Huberman（1994: 27–29）明确指出便利抽样"既不目的性也不战略性"，无法证明代表性——哪怕对被研究的更广泛群体本身也做不到，更不用说更广泛的人口总体了。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 421–422)]]
+> - **本质缺陷** Patton（1980, p. 88）和 Miles & Huberman（1994, pp. 27–29）明确指出便利抽样"既不目的性也不战略性"，无法证明代表性——哪怕对被研究的更广泛群体本身也做不到，更不用说更广泛的人口总体了。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 421–422)]]
 
 ## 使用此方法的研究
 

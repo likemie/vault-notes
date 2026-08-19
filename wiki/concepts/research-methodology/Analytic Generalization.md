@@ -37,7 +37,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 核心定义
-> 分析性推广是[[Case Study|个案研究]]中从案例到理论的推广逻辑。与统计推广（从样本推断总体参数）根本不同，分析性推广关注案例对理论扩展和检验的贡献——案例不是样本，而是理论与经验世界之间的逻辑桥梁。Yin（2009: 15）明确指出：个案研究选择分析性推广而非统计推广。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, pp. 288–289)]]
+> 分析性推广是[[Case Study|个案研究]]中从案例到理论的推广逻辑。与统计推广（从样本推断总体参数）根本不同，分析性推广关注案例对理论扩展和检验的贡献——案例不是样本，而是理论与经验世界之间的逻辑桥梁。Yin（2009, p. 15）明确指出：个案研究选择分析性推广而非统计推广。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, pp. 288–289)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 个案研究的推广不依赖于案例的代表性或典型性，而依赖于案例能否通过逻辑推理贡献于更广泛理论的扩展、精炼或检验。
@@ -47,7 +47,7 @@ updated: 2026-07-11
 > [!citation-card]- Yin的关键论断
 > 推定推广只能是从样本到总体/全域的观点，在个案研究这一特殊情况下完全是错误的、不相关的、不适当的和不适用。个案研究可帮助推广到更广泛的理论——理论可以在一个或多个经验案例中检验，并可以被证明不支持竞争性（即使是看似合理的）理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, pp. 288–289)]]
 >
-> *To assume that generalization is only from sample to population/universe is simply incorrect, irrelevant, inappropriate and inapplicable in respect of case studies. Rather, case studies can help to generalize to a broader theory, in that the theory can be tested in one or more empirical cases and can be shown not to support rival, even if plausible, theories.* (Yin, 2009: 38–39, 43)
+> *To assume that generalization is only from sample to population/universe is simply incorrect, irrelevant, inappropriate and inapplicable in respect of case studies. Rather, case studies can help to generalize to a broader theory, in that the theory can be tested in one or more empirical cases and can be shown not to support rival, even if plausible, theories.* (Yin, 2009, pp. 38–39, 43)
 
 ## 概念辨析
 
@@ -75,7 +75,7 @@ updated: 2026-07-11
 ### 命题一　复杂议题的变异性低于单独变量，因此少量个案的推广可以成立
 
 > [!concept-lens] 低变异性机制
-> Verschuren（2003: 136–137）从方法论层面为分析性推广提供了更精致的辩护：[[Case Study|个案研究]]包含许多[[Variable|变量]]，而多变量现象的特征是同质性而非高变异性。因此如果研究者能够识别捕捉变异性范围的个案研究，则[[External Validity|外部效度]]——可推广性——可以得到展示。
+> Verschuren（2003, pp. 136–137）从方法论层面为分析性推广提供了更精致的辩护：[[Case Study|个案研究]]包含许多[[Variable|变量]]，而多变量现象的特征是同质性而非高变异性。因此如果研究者能够识别捕捉变异性范围的个案研究，则[[External Validity|外部效度]]——可推广性——可以得到展示。
 
 > [!claim] Verschuren（2003）
 > **复杂议题的同质性优势** 统计推广基于总体和样本的同质性（或变异性）以及样本所需的确定水平。个案研究包含许多变量；多变量现象的特征是同质性而非高变异性；因此研究者可以从少量个案研究中进行推广——每个个案研究包含相关变量的范围，从而减少所需的总体案例数量。核心论断：复杂议题总体上比单独变量具有低得多的变异性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, p. 288)]]

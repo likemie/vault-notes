@@ -75,7 +75,7 @@ status: active
 - Argument 条目引用当前对应文献时只写页码，例如（p.147）或（pp.147–148）。
 - Argument 条目引用当前文献之外的已处理文献时，使用 APA 短引用。
 - 同一普通段落或同一 callout 内，相同来源与相同页码的引用只出现一次。跨段落、跨 callout 或页码不同可以分别引用。`vault_lint.py` 使用 `CITATION_DUPLICATE_IN_UNIT` 检查。
-- 原文已有 `Author (YearSuffix: page)` 或 `Author, YearSuffix: page` 这类内部参考文献编号时，清除原文后缀，只保留作者、年份和页码，例如将 `Tandon (2005c: 30)` 写作 `Tandon (2005: 30)`；未独立处理该文献前不自动补链。
+- 原文已有 `Author (YearSuffix: page)` 或 `Author, YearSuffix: page` 这类内部参考文献编号时，清除原文后缀，只保留作者、年份和页码，例如将 `Tandon (2005c: 30)` 写作 `Tandon (2005, p. 30)`；未独立处理该文献前不自动补链。
 - Argument frontmatter 的 `authors` 必须写成 YAML 列表，每位作者单独一项。
 - 英文个人作者若使用 Person wikilink，链接显示名必须是 APA 倒置姓名，例如 `"&#91;&#91;Louis Cohen&#124;Cohen, L.&#93;&#93;"` 或 `"&#91;&#91;Cohen, L.&#93;&#93;"`。
 - `year` 写出版年份。

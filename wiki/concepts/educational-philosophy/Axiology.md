@@ -35,7 +35,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 价值论（Axiology）
-> 研究者持有的价值与信念（the values and beliefs that we hold）——什么被视为有价值的（what is deemed valuable）、理解的目的是什么。它是 Hitchcock and Hughes（1995: 21）五层研究框架的最顶层，将研究从纯技术操作提升为受世界观和价值判断驱动的活动（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> 研究者持有的价值与信念（the values and beliefs that we hold）——什么被视为有价值的（what is deemed valuable）、理解的目的是什么。它是 Hitchcock and Hughes（1995, p. 21）五层研究框架的最顶层，将研究从纯技术操作提升为受世界观和价值判断驱动的活动（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 在研究层级中的位置
 

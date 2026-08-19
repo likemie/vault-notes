@@ -43,12 +43,12 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 核心定义
-> 研究者作为关键工具（Researcher as Key Instrument）是[[Qualitative Research|质性研究]]的核心公理之一：质性研究者自行收集数据——通过检查文件、观察行为或访谈参与者。他们可能使用协议（一种记录数据的工具），但收集信息和解释信息的是研究者本人。质性研究者不倾向于使用或依赖其他研究者开发的[[Questionnaire|问卷]]或工具（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。Eisner（1991）最早明确提出这一概念：在质性/自然主义研究中，研究者生成而非检验[[Hypothesis|假设]]，不知事先会看到什么、寻求什么。Lincoln & Guba（1985: 187）将研究者描述为"人即研究工具"（human instrument），其优势在于适应性、反应性、知识储备、处理敏感事务的能力、看到全貌的能力、以及澄清、概括和探索非典型反应的能力（pp.193–194）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 404, 408)]]
+> 研究者作为关键工具（Researcher as Key Instrument）是[[Qualitative Research|质性研究]]的核心公理之一：质性研究者自行收集数据——通过检查文件、观察行为或访谈参与者。他们可能使用协议（一种记录数据的工具），但收集信息和解释信息的是研究者本人。质性研究者不倾向于使用或依赖其他研究者开发的[[Questionnaire|问卷]]或工具（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch9）。Eisner（1991）最早明确提出这一概念：在质性/自然主义研究中，研究者生成而非检验[[Hypothesis|假设]]，不知事先会看到什么、寻求什么。Lincoln & Guba（1985, p. 187）将研究者描述为"人即研究工具"（human instrument），其优势在于适应性、反应性、知识储备、处理敏感事务的能力、看到全貌的能力、以及澄清、概括和探索非典型反应的能力（pp.193–194）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 404, 408)]]
 
 > [!citation-card]- Hammersley & Atkinson 的经典表述
 > 研究者是卓越的研究工具。行为和态度通常在跨情境中不稳定，而研究者可能在塑造情境中发挥关键作用——这成为分析的核心。我们发展的用来解释所研究人群行为的理论，也应在相关时适用于我们自身作为研究者的活动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 409)]]
 >
-> *He or she [the researcher] is the research instrument par excellence. The fact that behaviour and attitudes are often not stable across contexts and that the researcher may play a part in shaping the context becomes central to the analysis... The theories we develop to explain the behaviour of the people we study should also, where relevant, be applied to our own activities as researchers. (Hammersley & Atkinson, 1983: 18–19)*
+> *He or she [the researcher] is the research instrument par excellence. The fact that behaviour and attitudes are often not stable across contexts and that the researcher may play a part in shaping the context becomes central to the analysis... The theories we develop to explain the behaviour of the people we study should also, where relevant, be applied to our own activities as researchers. (Hammersley & Atkinson, 1983, pp. 18–19)*
 
 ---
 
@@ -62,15 +62,15 @@ updated: 2026-07-11
 > |:-------|:-----|:-----|
 > | [[Interpretive Paradigm\|诠释范式]] | 范式基础 | "人作为工具"是诠释范式从"理解参与者主观意义"这一[[Epistemic Stances\|认识论立场]]出发的必然推论——只有人才能理解人。 |
 > | 研究者生成而非检验[[Hypothesis\|假设]] | 范式公理 | 研究者在进入现场时不预设假设，在现场中生成——这要求研究工具（即研究者本人）具有开放性和适应性。 |
-> | 默会知识的运用 | 范式公理 | Lincoln & Guba（1985: 187）强调默会知识（tacit knowledge）的运用不可避免——质性方法比量化方法更适合人作为工具的概念。 |
+> | 默会知识的运用 | 范式公理 | Lincoln & Guba（1985, p. 187）强调默会知识（tacit knowledge）的运用不可避免——质性方法比量化方法更适合人作为工具的概念。 |
 > | [[Reflexivity\|反身性]] | 核心相关概念 | 研究者作为工具意味着研究者的个人特质直接影响数据质量，因此反身性（反思自身背景如何塑造解释）成为必要补充——两者互为因果。Cooley（1902）的"镜中自我"（looking glass self）概念被用于描述研究者应将自己"置于审视之下"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 409)]] |
-> | 进入现场的四种角色 | 操作含义 | Flick（1998: 60）区分研究者四角色：陌生人、访客、内部人（insider）、入门者（initiate）。角色在参与-观察光谱上滑动，Swain（2006）指出研究者在实践中可能需要在完全被动到完全积极的整个连续体上切换。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 426–427)]] |
+> | 进入现场的四种角色 | 操作含义 | Flick（1998, p. 60）区分研究者四角色：陌生人、访客、内部人（insider）、入门者（initiate）。角色在参与-观察光谱上滑动，Swain（2006）指出研究者在实践中可能需要在完全被动到完全积极的整个连续体上切换。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 426–427)]] |
 
 ---
 
 ## 人作为工具的优势
 
-Lincoln & Guba（1985: 193–194）系统阐述了人作为研究工具相对于标准化工具的独特优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], p. 408）：
+Lincoln & Guba（1985, pp. 193–194）系统阐述了人作为研究工具相对于标准化工具的独特优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011]], p. 408）：
 
 > [!feature] 人作为研究工具的优势
 > - **适应性（Adaptability）** 人能够即时适应意外情境，调整数据收集策略——固定工具无法做到。

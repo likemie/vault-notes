@@ -51,7 +51,7 @@ updated: 2026-08-03
 ## 定义
 
 > [!def] 方法定义
-> 角色扮演（role-playing）是一种自发的、戏剧性的、创造性的研究策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002: 498）。作为一种研究方法，角色扮演让参与者在"仿佛"（as if）的虚构情境中探索行为、态度和人际互动，研究者通过观察、记录和分析这些互动来收集资料（Bolton and Heathcote, 1999: 57）。
+> 角色扮演（role-playing）是一种自发的、戏剧性的、创造性的研究策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498）。作为一种研究方法，角色扮演让参与者在"仿佛"（as if）的虚构情境中探索行为、态度和人际互动，研究者通过观察、记录和分析这些互动来收集资料（Bolton and Heathcote, 1999, p. 57）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 参与者在模拟情境中的行为表现、态度反应、情感变化、决策过程、语言使用和社会互动。
@@ -60,9 +60,9 @@ updated: 2026-08-03
 > - **输出形式** 观察记录、数字录像分析、参与者反思日志、角色扮演后的访谈[[Transcription in Qualitative Research|转录]]、以及研究者对角色互动模式的质性分析。
 
 > [!citation-card]- 关键定义
-> 角色扮演是一种"自发的、戏剧性的、创造性的教学策略，参与者在其中公开且有意识地扮演他人的角色"（Sellers, 2002: 498），涉及"多层次沟通"，能够影响参与者的态度和情感，同时促进高阶认知技能。
+> 角色扮演是一种"自发的、戏剧性的、创造性的教学策略，参与者在其中公开且有意识地扮演他人的角色"（Sellers, 2002, p. 498），涉及"多层次沟通"，能够影响参与者的态度和情感，同时促进高阶认知技能。
 >
-> *Role-play is a "spontaneous, dramatic, creative teaching strategy in which individuals overtly and consciously assume the roles of others" (Sellers, 2002: 498).*
+> *Role-play is a "spontaneous, dramatic, creative teaching strategy in which individuals overtly and consciously assume the roles of others" (Sellers, 2002, p. 498).*
 
 ---
 

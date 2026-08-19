@@ -41,7 +41,7 @@ updated: 2026-07-11
 ## 定义
 
 > [!def] 数据转换（Data Transformation / Data Conversion）
-> [[Mixed Methods Research|混合方法研究]]中将一种类型的数据转换为另一种类型的策略。Teddlie and Tashakkori (2009: 27) 将其称为"数据转换"（data conversion / transformation）：质性数据被"量化"（quantitized）——转换为数字（通常为名义或序数尺度）；量化数据被"质化"（qualitized）——转换为叙事，然后用质性数据分析程序处理（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+> [[Mixed Methods Research|混合方法研究]]中将一种类型的数据转换为另一种类型的策略。Teddlie and Tashakkori (2009, p. 27) 将其称为"数据转换"（data conversion / transformation）：质性数据被"量化"（quantitized）——转换为数字（通常为名义或序数尺度）；量化数据被"质化"（qualitized）——转换为叙事，然后用质性数据分析程序处理（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 在 Creswell & Creswell (2022) 的框架中，数据转换是[[Convergent Design|聚敛式设计]]（Convergent Design）中三种整合分析方式之一。具体操作是将质性主题或[[Coding in Qualitative Research|编码]]进行计数（并可能分组），形成量化测量指标。这一方法在量化训练背景的研究者中较受欢迎（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.238]]）。
 
@@ -50,7 +50,7 @@ updated: 2026-07-11
 ## 两种转换方向
 
 > [!line-a] 量化（Quantitizing）
-> 将质性数据转换为数值形式。例如给特定回应、[[Coding in Qualitative Research|编码]]或主题赋予**频率计数（frequency counts）**以建立规律性或特殊性（Sandelowski et al., 2009: 210），或赋予**强度[[Rating Scale|评定量表]]（rating scales of intensity, Teddlie and Tashakkori, 2009: 269）**。Miles & Huberman (1994) 是这一方法的早期倡导者。Bazeley (2006: 68) 报告了可辅助研究者的软件（如 [[Qualitative Computer Software|QDAS]]），例如用于频率计数。
+> 将质性数据转换为数值形式。例如给特定回应、[[Coding in Qualitative Research|编码]]或主题赋予**频率计数（frequency counts）**以建立规律性或特殊性（Sandelowski et al., 2009, p. 210），或赋予**强度[[Rating Scale|评定量表]]（rating scales of intensity, Teddlie and Tashakkori, 2009, p. 269）**。Miles & Huberman (1994) 是这一方法的早期倡导者。Bazeley (2006, p. 68) 报告了可辅助研究者的软件（如 [[Qualitative Computer Software|QDAS]]），例如用于频率计数。
 
 > [!line-b] 质化（Qualitizing）
 > 将量化数据转换为叙事形式，然后用质性数据分析程序处理。例如将[[Questionnaire|问卷调查]]中的数值回答转化为关于参与者经验的叙事性描述，或从统计模式中提取质性主题。

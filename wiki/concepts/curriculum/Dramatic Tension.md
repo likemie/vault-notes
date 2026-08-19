@@ -45,7 +45,7 @@ updated: 2026-08-04
 > [!citation-card]- 关键表述
 > 通过向角色扮演中插入低级或温和的戏剧张力，可以激励参与者，建立对虚构情境的投入，而且它具有让最陈腐的情境重新聚焦、创造新认识的效果（Heathcote, 1991, p. 34）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|(Cohen et al., 2011, Ch. 26, p. 15)]]
 >
-> *By inserting low-level or insipid dramatic tension into a role-play, it can motivate participants, build investment in the fictional situation, and it "has the effect of making the most hackneyed situations spring into new focus and create new awareness" (Heathcote, 1991: 34).*
+> *By inserting low-level or insipid dramatic tension into a role-play, it can motivate participants, build investment in the fictional situation, and it "has the effect of making the most hackneyed situations spring into new focus and create new awareness" (Heathcote, 1991, p. 34).*
 
 ---
 

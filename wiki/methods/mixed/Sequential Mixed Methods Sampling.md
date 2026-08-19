@@ -39,7 +39,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 方法定义
-> 顺序[[Mixed Methods Research|混合方法]]抽样（Sequential Mixed Methods Sampling）是[[Mixed Methods Research|混合方法研究]]中的一种抽样设计：一种样本（概率或非概率）先于另一种并影响后续样本的选取——早期样本的分析结果指导后续样本的选择策略（Teddlie & Tashakkori, 2009: 185–91）。
+> 顺序[[Mixed Methods Research|混合方法]]抽样（Sequential Mixed Methods Sampling）是[[Mixed Methods Research|混合方法研究]]中的一种抽样设计：一种样本（概率或非概率）先于另一种并影响后续样本的选取——早期样本的分析结果指导后续样本的选择策略（Teddlie & Tashakkori, 2009, pp. 185–91）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 需要分阶段推进的多阶段研究

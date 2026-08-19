@@ -59,7 +59,7 @@ updated: 2026-06-23
 ## 定义
 
 > [!def] 方法定义
-> 同行汇报（Peer debriefing）是[[Qualitative Research|质性研究]]中增强研究可信性（credibility）的一项效度策略。Lincoln & Guba (1985: 308) 将其定义为：**"将自己暴露于一位无利害关系的同行面前，以类似交叉审问（cross-examination）的方式，检验诚实性、工作[[Hypothesis|假设]]并识别研究的下一步"**。这一策略通过引入研究者解释之外的另一个人对研究的审视，为研究报告增加了效度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 167)]]
+> 同行汇报（Peer debriefing）是[[Qualitative Research|质性研究]]中增强研究可信性（credibility）的一项效度策略。Lincoln & Guba (1985, p. 308) 将其定义为：**"将自己暴露于一位无利害关系的同行面前，以类似交叉审问（cross-examination）的方式，检验诚实性、工作[[Hypothesis|假设]]并识别研究的下一步"**。这一策略通过引入研究者解释之外的另一个人对研究的审视，为研究报告增加了效度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 167)]]
 
 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 的补充定义强调了同行审议在确保研究报告"能够与研究者以外的人产生共鸣"方面的作用——审议者的解读作为对研究者解读的外部检验。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch9, p. 213)]]
 
@@ -72,7 +72,7 @@ updated: 2026-06-23
 > [!citation-card]- Lincoln & Guba 对同行汇报的定义
 > 同行汇报是"将自己暴露于一位无利害关系的同行面前，以类似交叉审问的方式，检验诚实性、工作假设并识别研究的下一步"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 167)]]
 >
-> *Peer debriefing is "exposing oneself to a disinterested peer in a manner akin to cross-examination, in order to test honesty, working [[Hypothesis|hypotheses]] and to identify the next steps in the research" (Lincoln & Guba, 1985: 308).*
+> *Peer debriefing is "exposing oneself to a disinterested peer in a manner akin to cross-examination, in order to test honesty, working [[Hypothesis|hypotheses]] and to identify the next steps in the research" (Lincoln & Guba, 1985, p. 308).*
 
 ---
 
@@ -93,7 +93,7 @@ updated: 2026-06-23
 
 ## 研究程序
 
-Lincoln & Guba (1985: 308) 将同行汇报设计为一种特定形式的审议互动，其程序不仅是"找一个人看看"，而是有明确的目的结构：
+Lincoln & Guba (1985, p. 308) 将同行汇报设计为一种特定形式的审议互动，其程序不仅是"找一个人看看"，而是有明确的目的结构：
 
 > [!proc] 同行汇报的操作程序
 > 1. **选择同行审议者** 寻找一位熟悉[[Qualitative Research|质性研究]]方法论但**未直接参与**当前研究的人——如同事、同学或学术同行。审议者必须处于"无利害关系"（disinterested）的位置——没有在研究结果中既得利益，能够以外部视角提出不受研究者先入之见影响的问题。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch9)]]
@@ -121,7 +121,7 @@ Lincoln & Guba (1985: 308) 将同行汇报设计为一种特定形式的审议�
 > | **在 L&G 框架中的位置** | 可信性（credibility）策略之一 | 既是可信性策略，也是[[Reliability\|可依赖性]]（dependability）策略 | 可依赖性策略——独立审计识别可接受的探究过程 |
 
 > [!note]- L&G 对同行汇报与成员核查的功能区分
-> Lincoln & Guba (1985: 315) 在讨论[[Interpretive Paradigm|自然主义探究]]时明确区分：**[[Triangulation|三角验证]]**本意是作为对**数据**的检查——交叉检验不同来源的信息是否一致；**成员核查**则用作对**成员对数据的建构**的检查——参与者如何理解和解释数据。同行汇报处于两者之间——它既审阅数据，更重要的是审阅研究者**如何建构**数据，是研究者推理过程的外部检验（p. 315）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+> Lincoln & Guba (1985, p. 315) 在讨论[[Interpretive Paradigm|自然主义探究]]时明确区分：**[[Triangulation|三角验证]]**本意是作为对**数据**的检查——交叉检验不同来源的信息是否一致；**成员核查**则用作对**成员对数据的建构**的检查——参与者如何理解和解释数据。同行汇报处于两者之间——它既审阅数据，更重要的是审阅研究者**如何建构**数据，是研究者推理过程的外部检验（p. 315）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 ---
 

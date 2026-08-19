@@ -993,7 +993,7 @@ Cobb et al. (2003, p. 9) 强调：理论生成是设计实验的核心，它们�
 > [!quote]
 > 为了捕捉真实世界的真实性，认识到真实世界的组成部分很少可隔离，整体确实大于部分之和。（第16章，p. 338）
 >
-> *The real world is 'rarely isolatable' in terms of its components... the whole really is more than the sum of its parts.* (Brown, 1992: 166)
+> *The real world is 'rarely isolatable' in terms of its components... the whole really is more than the sum of its parts.* (Brown, 1992, p. 166)
 
 这一转向的代价是整洁性，设计研究比传统实验更乱（messier），因为它要处理多个变量和多种情境，干预随时间发展和变化，且涉及多方参与（Gorard et al., 2004, pp. 578, 582）。设计研究开发的是多变量剖面（profile），而非检验单一假设（Lobato, 2003, p. 19）。
 
@@ -1132,7 +1132,7 @@ Reips (2002a, 2002b) 提供的系统实施指南（pp. 340–342）：
 > [!citation-card]- [[Random Assignment|随机化]]是[[Causality|因果推断]]的关键
 > 随机化是真实验的关键、核心要素；[[Random Sampling|随机抽样]]和随机分配至控制组或实验组是应对大量未控制的、因此也未测量的额外[[Variable|变量]]的关键方式，这些变量可能是各组构成的一部分。这是试图克服内源性变量和外源性变量的混淆效应：其他条件不变（ceteris paribus）的条件。（第16章，p. 313）
 >
-> *Randomization is a key, critical element of the 'true' experiment; random sampling and random allocation to either a control or experimental group is a key way of allowing for the very many additional uncontrolled and, hence, unmeasured, variables that may be part of the make-up of the groups in question... It is an attempt to overcome the confounding effects of [[Exogenous and Endogenous Variables]]: the ceteris paribus condition.* (Morrison, 2009: 143–144)
+> *Randomization is a key, critical element of the 'true' experiment; random sampling and random allocation to either a control or experimental group is a key way of allowing for the very many additional uncontrolled and, hence, unmeasured, variables that may be part of the make-up of the groups in question... It is an attempt to overcome the confounding effects of [[Exogenous and Endogenous Variables]]: the ceteris paribus condition.* (Morrison, 2009, pp. 143–144)
 
 > [!citation-card]- 复杂理论对 [[Randomised Controlled Trials|RCT]] 的根本挑战
 > 即使我们可以进行实验，其在实际中适用于持续[[Emergence|涌现]]、交互、关系性、变化、开放的情境的可能性可能是有限的。在动态、演化、流动、开放的情境中保持变量恒定是错误的。（第16章，p. 319）
@@ -1142,17 +1142,17 @@ Reips (2002a, 2002b) 提供的系统实施指南（pp. 340–342）：
 > [!citation-card]- [[Design-Based Research|设计研究]]的迭代逻辑
 > 设计研究试图"工程化创新的教育环境，同时对这些创新进行[[Experimental Research|实验研究]]"。（第16章，p. 337）
 >
-> *Design studies attempt to 'engineer innovative educational environments and simultaneously conduct experimental studies of those innovations'.* (Brown, 1992: 141)
+> *Design studies attempt to 'engineer innovative educational environments and simultaneously conduct experimental studies of those innovations'.* (Brown, 1992, p. 141)
 
 > [!citation-card]- 真实世界的整体性
 > 真实世界的组成部分"很少可隔离"，"整体确实大于部分之和"。（第16章，p. 338）
 >
-> *The real world is 'rarely isolatable' in terms of its components... the whole really is more than the sum of its parts.* (Brown, 1992: 166)
+> *The real world is 'rarely isolatable' in terms of its components... the whole really is more than the sum of its parts.* (Brown, 1992, p. 166)
 
 > [!citation-card]- [[Fundamental Problem of Causal Inference|因果推断的基本问题]]
 > 因果效应的基本问题在于：一个人不可能同时处于控制组和实验组。（第16章，p. 313）
 >
-> *The 'fundamental problem of causal inference'... is that a person may not be in both a control group and an experimental group simultaneously.* (Holland, 1986; 引自 Morrison, 2009: 143–144)
+> *The 'fundamental problem of causal inference'... is that a person may not be in both a control group and an experimental group simultaneously.* (Holland, 1986; 引自 Morrison, 2009, pp. 143–144)
 
 ## 来源
 

@@ -102,7 +102,7 @@ journal: Science Education
 
 > [!chain-link] 步骤二：传统[[Formal Epistemology|形式认识论]]评估的局限与发现
 > - **从强制选择到开放式评估**
->   早期的形式认识论研究多依赖强制选择[[Questionnaire|问卷]]（forced-choice instruments），但这种方法被批评为预设了过多的特定哲学立场，无法真实反映学生的想法（Aikenhead et al., 1987; Lederman & O'Malley, 1990）。这促使学界转向开放式问卷与访谈相结合的评估工具，最著名的便是由 Lederman et al. (2002) 开发的 VNOS（Views of Nature of Science）量表。
+>   早期的形式认识论研究多依赖强制选择[[Questionnaire|问卷]]（forced-choice instruments），但这种方法被批评为预设了过多的特定哲学立场，无法真实反映学生的想法（Aikenhead et al., 1987; Lederman & O'Malley, 1990）。这促使学界转向开放式问卷与访谈相结合的评估工具，最著名的便是由 Lederman et al. (2002) 开发的 [[Views of Nature of Science Questionnaire|VNOS（Views of Nature of Science）量表]]。
 > - **普遍且悲观的发现**
 >   大量使用这些评估工具的研究一致发现，从初中到大学阶段，学生普遍持有朴素或幼稚的形式科学本质观（Abd-El-Khalick & Lederman, 2000; Driver et al., 1996）。他们往往认为科学理论只是没有证据的猜测，实验是完全按部就班的方法，而科学知识是绝对确定的“事实”。
 > - **脱离情境的方法论困境**
@@ -121,7 +121,7 @@ journal: Science Education
 > > [!axis] 情境化资源假说（Contextualized Resources）
 > > 认为认识论信念并非稳定连贯的框架，而是高度依赖情境的细粒度资源（fine-grained resources）集合。
 > > - **Hammer and Elby (2002)** 提出，认识论观念就像是一堆松散的认知资源（例如“知识是实体的/knowledge is stuff”或“知识是累积的”）。
-> > - 这些资源会在特定的任务和情境中被独立“触发”。这解释了为什么学生在某一项探究任务中能表现出极高的认识论复杂性（激活了生产性资源），却在填写 VNOS 问卷时给出极其幼稚的回答（激活了刻板印象资源）。表现上的不一致并非因为他们缺乏能力，而是因为不同情境调用了不同的资源。
+> > - 这些资源会在特定的任务和情境中被独立“触发”。这解释了为什么学生在某一项探究任务中能表现出极高的认识论复杂性（激活了生产性资源），却在填写 [[Views of Nature of Science Questionnaire|VNOS 问卷]]时给出极其幼稚的回答（激活了刻板印象资源）。表现上的不一致并非因为他们缺乏能力，而是因为不同情境调用了不同的资源。
 
 > [!chain-link] 步骤三：探究实践与形式信念的脱节现象
 > - **探究中展现的高级实践能力**

@@ -56,9 +56,9 @@ updated: 2026-06-21
 > 研究设计不应被理解为线性的、分步骤执行的计划，而应被视为一个**互动系统**——五个关键领域（目标、概念框架、[[Research Question|研究问题]]、方法、效度）彼此相互通知、相互塑造。研究问题位于模型的核心，但受到其他四个领域的强有力影响。模型随时间迭代和递归演进，研究设计从这些要素的互动中涌现（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.121–122]]）。
 
 > [!citation-card]- 关键表述
-> Maxwell (2005: 5–6) 发展了一个互动式（而非线性）研究设计模型，五个关键领域相互通知、彼此塑造。模型的核心是研究问题，但研究问题受到其他四个领域的有力影响。该模型随时间推移是迭代和递归的；研究设计从这些要素的互动中涌现，并随研究的展开而发展。（第7章, pp.121–122）
+> Maxwell (2005, pp. 5–6) 发展了一个互动式（而非线性）研究设计模型，五个关键领域相互通知、彼此塑造。模型的核心是研究问题，但研究问题受到其他四个领域的有力影响。该模型随时间推移是迭代和递归的；研究设计从这些要素的互动中涌现，并随研究的展开而发展。（第7章, pp.121–122）
 >
-> *Maxwell (2005: 5–6) develops an interactive (rather than linear) model of research design (for qualitative research), in which key areas are mutually informing and shape each other. His model is iterative and recursive over time; the research design emerges from the interplay of these elements and as the research unfolds.* (pp.121–122)
+> *Maxwell (2005, pp. 5–6) develops an interactive (rather than linear) model of research design (for qualitative research), in which key areas are mutually informing and shape each other. His model is iterative and recursive over time; the research design emerges from the interplay of these elements and as the research unfolds.* (pp.121–122)
 
 ---
 

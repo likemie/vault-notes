@@ -1247,7 +1247,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > [!citation-card]- Wax 对知情同意的批评
 > Wax (1982, p. 44) 认为知情同意"既太多又太少"：在[[Qualitative Research|质性研究]]的[[Emergence|涌现]]性情境中"过度谨慎且具有破坏性"，但[[Fieldwork|田野研究]]者往往需要比知情同意多得多的东西："信任、参与者的积极协助和同事关系"。知情同意不是"一锤子买卖"，在质性的、涌现性的研究中必须持续协商。（pp.83–84）
 >
-> Wax (1982: 44) holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
+> Wax (1982, p. 44) holds that informed consent offers both 'too much and too little': 'too much' in the sense that it is 'overscrupulous and disruptive' in emergent situations and qualitative research, and 'too little' in the sense that [[Champ|field]] researchers often require much more than informed consent — trust, 'active assistance' from participants and 'colleagueship'.
 
 > [!citation-card]- debriefing 的核心（Aronson & Carlsmith）
 > "对一个受试者进行 debriefing 不仅仅是把他暴露在真相面前的问题……如果以严厉的方式呈现，真相可能比完全没有解释更有害。""没有任何量的实验后温和对待能像实验者对自己在情境中的不安的诚实说明那样有效缓解受试者的不适。"（p.113）

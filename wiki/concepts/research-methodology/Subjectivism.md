@@ -33,7 +33,7 @@ updated: 2026-08-16
 
 ## 定义
 
-主观主义（Subjectivism）是 Burrell & Morgan（1979）在[[Burrell and Morgan Four Assumptions Framework|四组假设框架]]中识别的主观–客观维度的另一端。持主观主义取向的研究者强调个体主观经验在社会世界创造中的重要性。主要关注点在于理解个体如何创造、修改和解释他们所置身的世界（how individuals create, modify and interpret the world in which they find themselves）。这一取向兼顾量化和质性（takes on a qualitative as well as quantitative aspect）；重点放在对独特的、个别案例的解释和理解上，而非一般的、普遍的情况（explanation and understanding of the unique and the particular individual case rather than the general and the universal）；兴趣在于一个主观的、相对主义的社会世界，而非一个绝对主义的外部实在（a subjective, relativistic social world rather than an [[Absolutist]], external reality）（Burrell and Morgan, 1979; Kirk and Miller, 1986: 14）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+主观主义（Subjectivism）是 Burrell & Morgan（1979）在[[Burrell and Morgan Four Assumptions Framework|四组假设框架]]中识别的主观–客观维度的另一端。持主观主义取向的研究者强调个体主观经验在社会世界创造中的重要性。主要关注点在于理解个体如何创造、修改和解释他们所置身的世界（how individuals create, modify and interpret the world in which they find themselves）。这一取向兼顾量化和质性（takes on a qualitative as well as quantitative aspect）；重点放在对独特的、个别案例的解释和理解上，而非一般的、普遍的情况（explanation and understanding of the unique and the particular individual case rather than the general and the universal）；兴趣在于一个主观的、相对主义的社会世界，而非一个绝对主义的外部实在（a subjective, relativistic social world rather than an [[Absolutist]], external reality）（Burrell and Morgan, 1979; Kirk and Miller, 1986, p. 14）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 这种以关注独特个体案例为特征的方法论取向被称为**[[Idiographic|个例式]]（idiographic）**。
 

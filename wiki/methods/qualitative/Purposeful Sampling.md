@@ -92,7 +92,7 @@ Miles & Huberman（1994）提出了讨论参与者和场所时应涵盖的四个
 
 ### Teddlie & Yu 目的性抽样类型学
 
-Teddlie & Yu（2007）和 Teddlie & Tashakkori（2009: 174）系统梳理了目的性抽样的多种类型，将之归入三个大类。目的性抽样涉及一种权衡：比[[Random Sampling|概率抽样]]提供更深的深度，但提供更窄的广度。
+Teddlie & Yu（2007）和 Teddlie & Tashakkori（2009, p. 174）系统梳理了目的性抽样的多种类型，将之归入三个大类。目的性抽样涉及一种权衡：比[[Random Sampling|概率抽样]]提供更深的深度，但提供更窄的广度。
 
 > [!taxonomy] 代表性／可比性抽样
 >

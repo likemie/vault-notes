@@ -35,7 +35,7 @@ updated: 2026-07-11
 > 酷儿理论建立在但超越女性主义理论和同性恋研究，探讨身份的社会建构、性行为的特权化或否认、越轨行为以及涉及这些建构的分类与意识形态。它拒绝将个人简单归类，主张尊重其个体性和独特性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, p. 414)]]
 
 > [!citation-card]- Halperin 的关键定义
-> 酷儿理论从它与规范的**对立关系**中获取意义。酷儿按定义就是**凡是与正常、合法、支配者不合的**。酷儿并不必然指向任何特定东西。它是一种**没有本质的身份**。酷儿界定的不是一种实在性，而是相对于规范的一种**位置性（positionality）**。（Halperin, 1997: 62）
+> 酷儿理论从它与规范的**对立关系**中获取意义。酷儿按定义就是**凡是与正常、合法、支配者不合的**。酷儿并不必然指向任何特定东西。它是一种**没有本质的身份**。酷儿界定的不是一种实在性，而是相对于规范的一种**位置性（positionality）**。（Halperin, 1997, p. 62）
 >
 > Queer theory acquires its meaning from its oppositional relation to the norm. Queer is by definition whatever is at odds with the normal, the legitimate, the dominant. There is nothing in particular to which it necessarily refers. It is an identity without an essence. 'Queer' then, demarcates not a positivity but a positionality vis-à-vis the normative.
 

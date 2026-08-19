@@ -47,7 +47,7 @@ updated: 2026-07-11
 > [!citation-card]- Yin（2009）的核心呼吁
 > 需要提供证据链——使外部研究者能够追踪个案研究的每一步，从起始到研究问题、设计、数据来源、工具、数据（证据及其收集的情境——时间、地点和人员/地点/事物的功能互联）和结论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, p. 289)]]
 >
-> *Yin's (2009: 41, 122–4) call for a 'chain of evidence' to be provided, such that an external researcher could track through every step of the case study from its inception to its research questions, design, data sources, instrumentation, data (evidence and the circumstances in which they were collected, e.g. time, place and functional interconnections of people, places, etc.) and conclusions.*
+> *Yin's (2009, p. 41, 122–4) call for a 'chain of evidence' to be provided, such that an external researcher could track through every step of the case study from its inception to its research questions, design, data sources, instrumentation, data (evidence and the circumstances in which they were collected, e.g. time, place and functional interconnections of people, places, etc.) and conclusions.*
 
 ## 核心要素
 
@@ -77,7 +77,7 @@ updated: 2026-07-11
 > [[Case Study|个案研究]]的情境特殊性意味着数据收集的时间与地点不仅是"[[Rich and Thick Description|厚描述]]"的组成部分，更是其他研究者规划复制研究的前提条件。没有这些信息，复制研究无法有效规划。
 
 > [!claim] Macpherson et al.（2000）
-> **时间与地点的关键性** 记录个案研究数据收集的时间和地点非常重要：不仅因为许多行动和事件是情境特定的且属于厚描述的一部分，而且这将使任何复制研究能够被规划。证据链必须包含这些情境信息——否则复制研究在方法论上将无从着手。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, p. 289; Macpherson et al., 2000: 56)]]
+> **时间与地点的关键性** 记录个案研究数据收集的时间和地点非常重要：不仅因为许多行动和事件是情境特定的且属于厚描述的一部分，而且这将使任何复制研究能够被规划。证据链必须包含这些情境信息——否则复制研究在方法论上将无从着手。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch14, p. 289; Macpherson et al., 2000, p. 56)]]
 
 ### 命题二　证据链是个案研究效度与信度的基础保障
 

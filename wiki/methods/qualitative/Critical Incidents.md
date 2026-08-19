@@ -45,7 +45,7 @@ updated: 2026-07-23
 ## 定义
 
 > [!def] 方法定义
-> 关键事件法（Critical Incident Technique）由 Flanagan（1949）提出，后被 Wragg（1994）发展为教育研究中的关键事件观察方法。关键事件是"对观察者而言似乎比其他事件更有趣的事件，因此值得比其他事件更详细地记录；它们具有重要的洞察可供提供"（Wragg, 1994: 64）。这些事件通常是非例行但极具揭示性的，可能典型地或鲜明地阐明被观察者行为、态度或情境的某一重要特征（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.5 节]]）。
+> 关键事件法（Critical Incident Technique）由 Flanagan（1949）提出，后被 Wragg（1994）发展为教育研究中的关键事件观察方法。关键事件是"对观察者而言似乎比其他事件更有趣的事件，因此值得比其他事件更详细地记录；它们具有重要的洞察可供提供"（Wragg, 1994, p. 64）。这些事件通常是非例行但极具揭示性的，可能典型地或鲜明地阐明被观察者行为、态度或情境的某一重要特征（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.5 节]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 非例行、不寻常但对理解个体或情境具有重要揭示力的特定事件和行为。
@@ -56,7 +56,7 @@ updated: 2026-07-23
 > [!citation-card]- Wragg 对关键事件的定义
 > 关键事件是对观察者而言似乎比其他事件更有趣的事件，因此值得比其他事件更详细地记录；它们具有重要的洞察可供提供。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|(Cohen et al., 2011, Ch. 23, 23.5 节)]]
 >
-> *Critical events are events that appear to the observer to have more interest than other ones, and therefore warrant greater detail and recording than other events; they have an important insight to offer. (Wragg, 1994: 64)*
+> *Critical events are events that appear to the observer to have more interest than other ones, and therefore warrant greater detail and recording than other events; they have an important insight to offer. (Wragg, 1994, p. 64)*
 
 ---
 

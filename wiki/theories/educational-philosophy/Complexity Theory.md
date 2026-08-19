@@ -62,7 +62,7 @@ updated: 2026-07-19
 ## 理论定位
 
 > [!def] 复杂性理论
-> 教育研究中一个正在兴起的新[[Paradigm|范式]]（Medd, 2002; Radford, 2006, 2007, 2008; Kuhn, 2007; Morrison, 2002a, 2008），将学校视为**复杂适应系统（complex adaptive systems, Kauffman, 1995）**。它以有机的、非线性的和整体的方法取代简单的因果模型和原子化的分析方法（Santonus, 1998: 3; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。
+> 教育研究中一个正在兴起的新[[Paradigm|范式]]（Medd, 2002; Radford, 2006, 2007, 2008; Kuhn, 2007; Morrison, 2002a, 2008），将学校视为**复杂适应系统（complex adaptive systems, Kauffman, 1995）**。它以有机的、非线性的和整体的方法取代简单的因果模型和原子化的分析方法（Santonus, 1998, p. 3; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。
 
 > [!theory-position] 复杂性理论在知识地图中的位置
 > - **解释对象** 教育系统中的非线性变化、[[Emergence|涌现]]行为、自组织和不可预测性——这些是线性因果模型无法解释的现象。
@@ -80,15 +80,15 @@ updated: 2026-07-19
 > [!proposition-chain] 复杂性理论的核心命题链
 > - **前提一：教育系统是复杂适应系统** 学校由大量相互连接的要素（学生、教师、家庭、社区、政策）组成，要素之间的互动产生不可预测的全局行为。
 > - **前提二：非线性[[Causality|因果关系]]** 小原因可产生大效应，大原因可能无效应。将现象原子化为可测量变量会错失协同效应和整体精神（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 319]]）。
-> - **前提三：[[Emergence|涌现]]替代控制** 系统从低层复杂性产生高层复杂性和新形式，源于相对简单的局部规则——全局秩序是涌现的而非设计或控制的（Waldrop, 1992: 16–17）。
+> - **前提三：[[Emergence|涌现]]替代控制** 系统从低层复杂性产生高层复杂性和新形式，源于相对简单的局部规则——全局秩序是涌现的而非设计或控制的（Waldrop, 1992, pp. 16–17）。
 > - **结论** 在动态、演化、流动、开放的情境中保持变量恒定是误导性的。[[Randomised Controlled Trials|RCT]] 属于一种已被质疑的[[Positivism|实证主义]]科学观（Morrison, 2001; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 319–320]]）。
 
 ### 方法论推论：研究设计必须适应复杂性
 
 > [!claim] 复杂性研究需要新方法论
-> 复杂性理论倡导[[Case Study|案例研究]]方法论、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元因果性、多元视角和多元效应；主张[[Teacher-as-Researcher|教师即研究者]]运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。分析单位应从个体或机构转向**网络或生态系统（Capra, 1996: 301）**。
+> 复杂性理论倡导[[Case Study|案例研究]]方法论、叙事、[[Action Research|行动研究]]和[[Participatory Research|参与式研究]]——通过尽可能多的参与者的眼睛来看待情境；需要追踪多元因果性、多元视角和多元效应；主张[[Teacher-as-Researcher|教师即研究者]]运动以及内外部研究者的共生关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。分析单位应从个体或机构转向**网络或生态系统（Capra, 1996, p. 301）**。
 
-> [!axioms] 复杂性研究的五条公理（Kuhn, 2007: 172–173）
+> [!axioms] 复杂性研究的五条公理（Kuhn, 2007, pp. 172–173）
 > - **动态实在** 实在是动态的、[[Emergence|涌现]]的、自组织的，需要多重视角来把握。
 > - **知者与被知者的共构** 知者与被知者之间的关系本身是动态的、涌现的和自组织的。
 > - **语境依赖性** [[Hypothesis|研究假设]]必须与时间和语境相关。
@@ -102,9 +102,9 @@ updated: 2026-07-19
 > [!entry-map] 复杂性理论的核心构件
 > | 构件 | 类型 | 在理论中的功能 |
 > |---|---|---|
-> | **[[Feedback\|反馈]]** | 机制 | 负反馈起调节作用；正反馈放大微小变化，带来递增回报——一个孩子一旦开始阅读就以指数速率学习（Wheatley, 1999: 78） |
-> | **连接性（Connectedness）** | 概念 | 系统中万物相连——蚂蚁吃树叶，鸟吃蚂蚁并留下粪便，肥沃土壤，长出树木供蚂蚁食用（Lewin, 1993: 86）。学校中，孩子与家庭、教师、同伴、社会相连 |
-> | **[[Emergence\|涌现]]（Emergence）** | 机制 | 系统从低层复杂性产生高层复杂性和新形式，源于相对简单的规则——局部规则产生涌现的复杂全局秩序和多样性（Waldrop, 1992: 16–17） |
+> | **[[Feedback\|反馈]]** | 机制 | 负反馈起调节作用；正反馈放大微小变化，带来递增回报——一个孩子一旦开始阅读就以指数速率学习（Wheatley, 1999, p. 78） |
+> | **连接性（Connectedness）** | 概念 | 系统中万物相连——蚂蚁吃树叶，鸟吃蚂蚁并留下粪便，肥沃土壤，长出树木供蚂蚁食用（Lewin, 1993, p. 86）。学校中，孩子与家庭、教师、同伴、社会相连 |
+> | **[[Emergence\|涌现]]（Emergence）** | 机制 | 系统从低层复杂性产生高层复杂性和新形式，源于相对简单的规则——局部规则产生涌现的复杂全局秩序和多样性（Waldrop, 1992, pp. 16–17） |
 > | **自组织（Self-organization）** | 机制 | 秩序是免费的，它取代了控制（Kauffman, 1995）。自组织是内部生成的，是对外部控制的对立面 |
 > | **自组织临界性（Self-organized Criticality）** | 机制 | 在转折点（tipping point），单个事件的效应可能非常大——压垮骆驼的最后一根稻草（Bak, 1996） |
 
@@ -137,7 +137,7 @@ updated: 2026-07-19
 
 ### 与行动研究的深层互补
 
-Phelps & Graham（2010: 184）论证[[Action Research|行动研究]]与复杂性理论之间存在深层互补性，行动研究可以很容易地容纳复杂性理论的关键信条（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al., 2011, Ch. 18, pp. 278–279]]）：
+Phelps & Graham（2010, p. 184）论证[[Action Research|行动研究]]与复杂性理论之间存在深层互补性，行动研究可以很容易地容纳复杂性理论的关键信条（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al., 2011, Ch. 18, pp. 278–279]]）：
 
 > [!feature] 行动研究与复杂性理论的共鸣点
 > - **接受系统的不可预测性** 行动研究接受系统是不可预测的、开放的和非线性的
@@ -150,7 +150,7 @@ Phelps & Graham（2010: 184）论证[[Action Research|行动研究]]与复杂性
 > - **不控制[[Variable|变量]]** 行动研究不关心控制变量
 > - **接受系统的复杂性** 行动研究接受其所在的系统是复杂和动态的
 
-Davis & Sumara（2005: 455）在自组织的语境中强化了这一观点：连贯的集体行为和特征在个体行动者的活动和互动中[[Emergence|涌现]]。Phelps & Graham（2010: 195）力图表明行动研究像复杂性理论一样，对[[Positivism|实证主义]]有一定反感。
+Davis & Sumara（2005, p. 455）在自组织的语境中强化了这一观点：连贯的集体行为和特征在个体行动者的活动和互动中[[Emergence|涌现]]。Phelps & Graham（2010, p. 195）力图表明行动研究像复杂性理论一样，对[[Positivism|实证主义]]有一定反感。
 
 ### 作为计算机模拟与虚拟世界的理论基础
 

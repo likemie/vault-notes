@@ -100,7 +100,7 @@ updated: 2026-07-11
 > [!citation-card]- LeCompte & Preissle 的经典定义
 > 民族志是一个涉及探究方法、探究结果和探究产生的记录的过程。其意图是尽可能生动地重构所研究的文化或群体。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]
 >
-> *Ethnographic research is a process involving methods of enquiry, an outcome and a resultant record of the enquiry. The intention of the research is to create as vivid a reconstruction as possible of the culture or groups being studied. (LeCompte & Preissle, 1993: 235)*
+> *Ethnographic research is a process involving methods of enquiry, an outcome and a resultant record of the enquiry. The intention of the research is to create as vivid a reconstruction as possible of the culture or groups being studied. (LeCompte & Preissle, 1993, p. 235)*
 
 ---
 
@@ -120,7 +120,7 @@ LeCompte & Preissle（1993）提出了民族志研究的八项核心要素：
 > | 推进到推断和理论 | 从描述和数据推进到推断、解释、[[Causality\|因果]]建议和理论生成。 |
 > | 方法论杂食者 | 方法是多模态的；民族志学者是方法论的杂食者（p.232）。 |
 
-Hitchcock & Hughes（1989: 52–53）补充了民族志的六项产出面向：
+Hitchcock & Hughes（1989, pp. 52–53）补充了民族志的六项产出面向：
 
 > [!seq-table] 民族志的六项产出（Hitchcock & Hughes, 1989）
 > | 产出 | 说明 |
@@ -132,7 +132,7 @@ Hitchcock & Hughes（1989: 52–53）补充了民族志的六项产出面向：
 > | 内部人记述 | 以第一人称或近距视角呈现参与者对自身世界的理解和感受。 |
 > | 理论发展 | 从具体文化材料中抽象出可迁移到其他情境的分析概念和解释框架。 |
 
-Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会现象的特征是什么？原因是什么？后果是什么？在此过程中可观察七个维度的数据（Baker, 1994: 241–244）：
+Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会现象的特征是什么？原因是什么？后果是什么？在此过程中可观察七个维度的数据（Baker, 1994, pp. 241–244）：
 
 > [!seq-table] [[Interpretive Paradigm|自然主义探究]]的七个观察维度（Lofland, 1971; Baker, 1994）
 > | 维度 | 观察内容 |
@@ -149,7 +149,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 
 ## 有效民族志的标志
 
-Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性标准，将[[Epistemology|认识论]]原则转化为质量基准：
+Spindler & Spindler（1992, pp. 72–74）提出了有效民族志的11条操作性标准，将[[Epistemology|认识论]]原则转化为质量基准：
 
 > [!seq-table] 有效民族志的11条标志（Spindler & Spindler, 1992）
 > | 标志 | 说明 |
@@ -172,8 +172,8 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。意义从社会情境中产生并通过诠释过程处理。现实是多元的、建构的、整体的；认识者与被认识者互动且不可分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 403–404)]]
-> - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998: 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。研究者需管理"边际性"：在组织之中但不属于组织，在智识上保持熟悉与陌生的平衡，在社交上保持局外人与朋友的平衡（Hammersley & Atkinson, 1983: 97–99）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 426–427)]]
-> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler & Spindler（1992: 65）认为民族志效度通过研究者在场时间足够长、观察到事件重复发生来获得。概括性被重释为**可比较性（comparability）**和**可翻译性（translatability）（LeCompte & Preissle, 1993: 47）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 406–407)]]
+> - **研究者角色** 研究者是"人即研究工具"——既是参与者又是观察者。Flick（1998, p. 60）区分四种角色：陌生人、访客、内部人（insider）和入门者（initiate）。研究者需管理"边际性"：在组织之中但不属于组织，在智识上保持熟悉与陌生的平衡，在社交上保持局外人与朋友的平衡（Hammersley & Atkinson, 1983, pp. 97–99）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 426–427)]]
+> - **有效性标准** 长期驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角验证]]、成员检查、同伴情况报告。Spindler & Spindler（1992, p. 65）认为民族志效度通过研究者在场时间足够长、观察到事件重复发生来获得。概括性被重释为**可比较性（comparability）**和**可翻译性（translatability）（LeCompte & Preissle, 1993, p. 47）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 406–407)]]
 > - **不能声称回答的问题** 不能估计因果[[Effect Size|效应量]]；不能统计概括到人口总体；不能从观察中直接推断参与者的内在心理状态。
 
 > [!method-stack] 方法层级
@@ -194,7 +194,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 > 5. **生成整体性描述** 生成关于该文化群体的整体性描述（holistic description）。
 > 6. **[[Reflexivity|反身性]]审视** 研究者反思自身文化背景如何影响对研究群体的理解（[[Reflexivity|反身性]]）。
 
-[[Qualitative Research|质性研究]]的12阶段操作模型为民族志研究提供了一个系统导航框架（综合了 Hitchcock & Hughes, 1989; Bogdan & Biklen, 1992; LeCompte & Preissle, 1993）。实际操作中各阶段之间存在往复运动，过程是迭代和递归的（Flick, 2009: 133）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 407–408)]]
+[[Qualitative Research|质性研究]]的12阶段操作模型为民族志研究提供了一个系统导航框架（综合了 Hitchcock & Hughes, 1989; Bogdan & Biklen, 1992; LeCompte & Preissle, 1993）。实际操作中各阶段之间存在往复运动，过程是迭代和递归的（Flick, 2009, p. 133）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 407–408)]]
 
 > [!seq-table] 民族志研究的12阶段操作概览
 > | 阶段 | 民族志语境下的要点 |
@@ -214,7 +214,7 @@ Spindler & Spindler（1992: 72–74）提出了有效民族志的11条操作性�
 
 进入现场时，Wolff（2004）和 Flick（1998）指出六项关键观察：研究始终是对社会系统的侵入和干预；系统与研究间存在相互不透明性；进入时应追求协议作为过程推进；数据存储权会增加协议复杂性；现场只有进入后才会变得清晰；研究通常对被研究系统无任何直接回报。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 425–426)]]
 
-Walford（2001: 62）报告了研究者角色演变的五阶段过程：
+Walford（2001, p. 62）报告了研究者角色演变的五阶段过程：
 
 > [!phase] 研究者角色的五阶段演变（Walford, 2001）
 >
@@ -285,14 +285,14 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 > | 研究者效应 | 研究者的在场改变情境（[[Reactivity in Qualitative Research\|反应性]]），即[[Hawthorne Effect\|霍桑效应]]。 | 长期驻留使参与者回归自然行为；谨慎自我呈现。 |
 > | 研究者偏见 | [[Halo Effect\|光环效应]]（过度正面评价）与牛角效应（过度负面评价）影响观察。 | 广泛、[[Triangulation\|三角验证]]的数据库和外部观察者协助。 |
 > | 真实性 | 参与者对情境的定义没有智慧垄断权，可能虚假意识或故意歪曲。 | 三角验证、成员检查、寻找偏差案例。 |
-> | 概括性 | 对单个群体的深入描述限制结论的[[External Validity\|可推广性]]。 | 重释为可比较性（comparability）和可翻译性（translatability）（LeCompte & Preissle, 1993: 47）。 |
+> | 概括性 | 对单个群体的深入描述限制结论的[[External Validity\|可推广性]]。 | 重释为可比较性（comparability）和可翻译性（translatability）（LeCompte & Preissle, 1993, p. 47）。 |
 > | 概括性 | 过度强调特定情境的差异可能忽视整体相似性和常规特征。 | 对规律性的关注不亚于对差异性的关注（Dobbert & Kurth-Schai, 1992）。 |
 > | 视野局限 | 研究者因太靠近情境而忽视隐性方面。 | 使熟悉变陌生（Delamont, 1981）：研究非典型案例、其他文化例子、类似但不同机构、刻意聚焦重大议题。 |
 > | 视野局限 | 微观研究存在排除重要宏观因素的风险。 | 场外数据收集；将微观行为与宏观结构关联（如 Bowles & Gintis, 1976）。 |
 > | 保守倾向 | 诠释方法论具有内在保守主义，接受参与者视角并巩固现状，关注过去和当下而非未来。 | 采用[[Critical Ethnography\|批判民族志]]视角：从描述推进到质疑和改变。 |
 > | 书写困难 | 多重现实和解释的书写带来挑战；如何得出代表性观点。 | 呈现多重声音；明确标注解释和推断。 |
 > | 伦理 | 数据和报告的所有权和控制权存在争议。 | 在进入阶段明确约定数据存储权、发布权和参与者否决权。 |
-> | 数据选择 | 最终报告仅包含不到1%的收集数据；忠实于细节与必然选择性之间存在根本张力（Swain, 2006: 202）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 443)]] | 撰写时明确数据选择标准；提供完整数据可供复查。 |
+> | 数据选择 | 最终报告仅包含不到1%的收集数据；忠实于细节与必然选择性之间存在根本张力（Swain, 2006, p. 202）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 443)]] | 撰写时明确数据选择标准；提供完整数据可供复查。 |
 
 ---
 
@@ -309,12 +309,12 @@ Walford（2001: 62）报告了研究者角色演变的五阶段过程：
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Critical Ethnography]] | 方法分支 | 批判民族志是民族志的新兴分支，将民族志从"描述"推进到"质疑和改变"，理论基础植根于[[Ideology Critique\|意识形态批判]]。传统民族志关注"是什么"，批判民族志关注"可能是什么"（Thomas, 1993: 4）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 446–451)]]。 |
+> | [[Critical Ethnography]] | 方法分支 | 批判民族志是民族志的新兴分支，将民族志从"描述"推进到"质疑和改变"，理论基础植根于[[Ideology Critique\|意识形态批判]]。传统民族志关注"是什么"，批判民族志关注"可能是什么"（Thomas, 1993, p. 4）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 446–451)]]。 |
 > | [[Autoethnography]] | 方法分支 | 自我民族志是民族志的最新分支，研究者编撰关于自身生活或情境的个人化、主观性叙事，与带有反思性转向的自传对齐。代表作品包括 Reed-Denahay（1997）、Ellis（2004）和 Chang（2008）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 453)]]。 |
 > | [[Participant Observation]] | 核心方法 | 参与观察是民族志数据收集的核心方法，研究者同时扮演参与者和观察者的双重角色。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 425–427)]]。 |
-> | [[Reflexivity]] | 核心概念 | 反身性在民族志中不仅是自我审视——研究者承认自己不可避免是社会世界的一部分，须将自身置于审视之下（Hammersley & Atkinson, 1983: 14–19）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 409)]]。 |
+> | [[Reflexivity]] | 核心概念 | 反身性在民族志中不仅是自我审视——研究者承认自己不可避免是社会世界的一部分，须将自身置于审视之下（Hammersley & Atkinson, 1983, pp. 14–19）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 409)]]。 |
 > | [[Rich and Thick Description]] | 核心概念 | 厚描述是民族志报告的核心质量标准，要求不仅包含详细的观察数据，还包含意义、参与者诠释和不可观察因素的数据（Geertz, 1973）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 403–404)]]。 |
-> | [[Emic and Etic]] | 核心概念 | 民族志以主位进路（emic）为核心——取音位学类比，关注捕捉参与者赋予情境的主观意义。客位进路（etic）取语音学类比，识别研究者的客观建构（LeCompte & Preissle, 1993: 45）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]]。 |
+> | [[Emic and Etic]] | 核心概念 | 民族志以主位进路（emic）为核心——取音位学类比，关注捕捉参与者赋予情境的主观意义。客位进路（etic）取语音学类比，识别研究者的客观建构（LeCompte & Preissle, 1993, p. 45）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]]。 |
 
 ---
 

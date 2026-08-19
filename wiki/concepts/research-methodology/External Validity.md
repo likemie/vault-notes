@@ -89,7 +89,7 @@ updated: 2026-07-13
 > | **核心概念** | 可推广性（generalizability）——从样本到总体 | 可比较性（comparability）和可迁移性（transferability） |
 > | **实现方式** | 通过[[Random Sampling\|随机抽样]]和统计推断 | 通过[[Rich and Thick Description\|厚描述]]让读者自行判断迁移可能性 |
 > | **对情境的态度** | 剥离情境[[Variable\|变量]]以追求普遍规律 | 情境是意义的来源——去情境化的推广无价值 |
-> | **研究者任务** | 提供可推广性证据（如[[Sampling Error\|抽样误差]]、[[Confidence Interval\|置信区间]]） | 提供足够丰富的描述，不提供可迁移性指标（Lincoln & Guba, 1985: 316） |
+> | **研究者任务** | 提供可推广性证据（如[[Sampling Error\|抽样误差]]、[[Confidence Interval\|置信区间]]） | 提供足够丰富的描述，不提供可迁移性指标（Lincoln & Guba, 1985, p. 316） |
 > | **典型策略** | 大样本随机抽样、多场所复制 | 研究典型案例、多场所研究、厚描述 |
 
 Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境变量来推广是根本；对于另一派，对情境几乎无所言说的推广对人类行为几乎无有用之言。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 168)]]
@@ -138,13 +138,13 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 
 ## 质性研究中的外部效度
 
-在自然主义研究中，可推广性被重新解释为**可比较性（comparability）**和**可迁移性（transferability）（Lincoln & Guba, 1985; Eisenhart & Howe, 1992: 647）**。研究者应评估情境、参与者和环境的**典型性（typicality）**，识别可能的比较群体，并说明数据如何转化为不同环境和文化的意义（LeCompte & Preissle, 1993: 348）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 171–172)]]
+在自然主义研究中，可推广性被重新解释为**可比较性（comparability）**和**可迁移性（transferability）（Lincoln & Guba, 1985; Eisenhart & Howe, 1992, p. 647）**。研究者应评估情境、参与者和环境的**典型性（typicality）**，识别可能的比较群体，并说明数据如何转化为不同环境和文化的意义（LeCompte & Preissle, 1993, p. 348）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 171–172)]]
 
 > [!claim] Schofield 的质性可推广性路径
-> Schofield (1996: 200) 认为[[Qualitative Research|质性研究]]提供清晰、详细和深入的描述至关重要——以便他人判断一项研究的发现在多大程度上可推广到另一种情境，即解决可比较性和可翻译性这一对问题。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性——即可迁移性）；以及进行**多场所研究（multi-site studies，如 Miles & Huberman, 1984）**。
+> Schofield (1996, p. 200) 认为[[Qualitative Research|质性研究]]提供清晰、详细和深入的描述至关重要——以便他人判断一项研究的发现在多大程度上可推广到另一种情境，即解决可比较性和可翻译性这一对问题。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性——即可迁移性）；以及进行**多场所研究（multi-site studies，如 Miles & Huberman, 1984）**。
 
 > [!boundary] Lincoln & Guba 对研究者任务的限定
-> Lincoln & Guba (1985: 316) 明确界定：自然主义研究者**不应**试图提供可迁移性指标——这不是研究者的任务。研究者应做的是提供**足够丰富的数据**，让读者和[[Research Utilization|研究使用]]者自行判断迁移是否可能。在此意义上，可迁移性需要**[[Rich and Thick Description|厚描述]]（thick description）**。
+> Lincoln & Guba (1985, p. 316) 明确界定：自然主义研究者**不应**试图提供可迁移性指标——这不是研究者的任务。研究者应做的是提供**足够丰富的数据**，让读者和[[Research Utilization|研究使用]]者自行判断迁移是否可能。在此意义上，可迁移性需要**[[Rich and Thick Description|厚描述]]（thick description）**。
 
 ---
 
@@ -171,7 +171,7 @@ Lincoln & Guba (1985) 列出四种自然主义威胁，Onwuegbuzie & Leech (2006
 > > | | 顺序偏差 | 问题顺序对结果[[Reliability\|可依赖性]]的影响 |
 > > | | [[Effect Size\|效应量]] | 质性分析中效应量缺失限制精确性 |
 
-Bogdan & Biklen (1992: 45) 从更广泛的角度总结：在质性研究中，更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+Bogdan & Biklen (1992, p. 45) 从更广泛的角度总结：在质性研究中，更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 ---
 

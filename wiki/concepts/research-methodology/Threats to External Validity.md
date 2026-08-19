@@ -89,7 +89,7 @@ updated: 2026-07-13
 > - **对实验条件的敏感化/反应性** [[Pre-test and Post-test|前测]]可能改变受试者对干预变量的敏感性——后测表现反映的可能是对前测的记忆，而非干预的真实效果
 > - **外来因素与实验处理的[[Interaction Effect|交互效应]]** 多种混淆因素与处理之间的交互作用
 > - **工具的无效或不可靠** 使用产生不可信数据的工具
-> - **[[Ecological Validity|生态效度]]** 在一个情境中观察到的行为能否推广到另一个情境？Hammersley & Atkinson (1983: 10) 评论了从实验条件或访谈中获得的推论与日常生活之间关系的严重问题。Hammersley (2008, p. 4) 进一步指出：控制变量的实验室试验在原则上就歪曲了教室的真实世界——在高度控制下发现的效应，可能不适用于变量控制弱得多的真实情境（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 332]]）
+> - **[[Ecological Validity|生态效度]]** 在一个情境中观察到的行为能否推广到另一个情境？Hammersley & Atkinson (1983, p. 10) 评论了从实验条件或访谈中获得的推论与日常生活之间关系的严重问题。Hammersley (2008, p. 4) 进一步指出：控制变量的实验室试验在原则上就歪曲了教室的真实世界——在高度控制下发现的效应，可能不适用于变量控制弱得多的真实情境（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 332]]）
 > - **多重处理效度** 同时或依次施加多种处理可能导致处理间交互效应，难以隔离特定处理的效果
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 168–171)]]
@@ -123,7 +123,7 @@ Creswell & Guetterman (2018) 将外部效度威胁按交互类型分为三种（
 
 ### Lincoln & Guba 的自然主义威胁框架
 
-Lincoln & Guba (1985: 189, 300) 列出了自然主义研究的四种外部效度威胁（p.172）：
+Lincoln & Guba (1985, p. 189, 300) 列出了自然主义研究的四种外部效度威胁（p.172）：
 
 > [!dimension] 自然主义研究的外部效度威胁（Lincoln & Guba）
 > - **选择效应（selection effects）**
@@ -166,8 +166,8 @@ Onwuegbuzie & Leech (2006b: 237–8) 进一步识别了质性研究中跨越十�
 > | **核心策略** | 通过大样本[[Random Sampling\|随机抽样]]和统计推断**扩大**推广范围 | 通过[[Rich and Thick Description\|厚描述]]和典型案例让读者**自行判断**迁移可能性 |
 > | **威胁态度** | 需要测量和控制的偏差来源 | 情境本身即是意义——威胁概念需要重新定义 |
 > | **推广方式** | 从样本到总体的统计推广 | 从典型案例到类似情境的分析性迁移 |
-> | **研究者任务** | 提供可推广性证据（[[Sampling Error\|抽样误差]]、[[Confidence Interval\|置信区间]]） | 提供足够丰富的描述，不提供可迁移性指标（Lincoln & Guba, 1985: 316） |
+> | **研究者任务** | 提供可推广性证据（[[Sampling Error\|抽样误差]]、[[Confidence Interval\|置信区间]]） | 提供足够丰富的描述，不提供可迁移性指标（Lincoln & Guba, 1985, p. 316） |
 > | **判断者** | 研究者通过统计证据来判断 | 读者基于厚描述自行判断迁移是否可能 |
 
 > [!note] Schofield 的质性可推广性路径
-> Schofield (1996: 200) 认为质性研究提供清晰、详细和深入的描述至关重要——以便他人判断研究发现的可推广性。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性）；以及进行**多场所研究（multi-site studies, Miles & Huberman, 1984）**。Bogdan & Biklen (1992: 45) 总结说质性研究中更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+> Schofield (1996, p. 200) 认为质性研究提供清晰、详细和深入的描述至关重要——以便他人判断研究发现的可推广性。他提出两条路径（p. 209）：研究**典型案例**（其对其他情境的适用性）；以及进行**多场所研究（multi-site studies, Miles & Huberman, 1984）**。Bogdan & Biklen (1992, p. 45) 总结说质性研究中更关心的是发现**可能**适用于哪些环境、人群和情境——而不是发现是否在最广义上是可推广的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]

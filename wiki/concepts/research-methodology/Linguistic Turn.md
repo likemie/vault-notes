@@ -43,7 +43,7 @@ updated: 2026-07-09
 > 语言学转向（linguistic turn）在[[Documentary Analysis|文献分析]]中指对[[Document|文献]]的语言和话语进行细致研究，以理解文本如何**建构**其所呈现的事实和论证，而非仅仅从中提取信息。这一取向遵循解释学（hermeneutics）原则，并受到文学批评的影响（Reinfandt, 2009）。一些教育史学者已创造性地将其运用于文献研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(pp. 17–18)]]
 
 > [!citation-card]- 关键表述
-> 文献应被理解为与文本生产的符号学相关：意义如何在文本中被制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、话语共同体在文本接受中的角色等。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen, 1999: 81, 转引自 p. 18)]]
+> 文献应被理解为与文本生产的符号学相关：意义如何在文本中被制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、话语共同体在文本接受中的角色等。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen, 1999, p. 81, 转引自 p. 18)]]
 >
 > *Documents should be understood in relation to the semiotics of text production, how meaning is made in text, how readers take meaning from text, the status of authorial intention versus the reader's interpretation, the role of the community of discourse in the reception of text, and so forth.*
 
@@ -51,7 +51,7 @@ updated: 2026-07-09
 
 ## 核心要素
 
-Sol Cohen（1999: 81）提出了[[Documentary Analysis|文献分析]]中语言学转向的系统议程，包含五个相互关联的分析维度：
+Sol Cohen（1999, p. 81）提出了[[Documentary Analysis|文献分析]]中语言学转向的系统议程，包含五个相互关联的分析维度：
 
 > [!feature] Cohen 的五维[[Analytic Framework|分析框架]]
 > - **文本生产的符号学（semiotics of text production）** 意义如何在文本中被制造——语言选择、修辞策略和叙事结构如何共同生产特定的"事实"和"论证"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 18)]]
@@ -65,7 +65,7 @@ Sol Cohen（1999: 81）提出了[[Documentary Analysis|文献分析]]中语言�
 ## 概念演变
 
 > [!dev-timeline] 语言学转向在[[Documentary Analysis|文献分析]]中的引入
-> - **1999 — 教育史中的系统应用** Sol Cohen 将语言学转向引入教育史和文献分析领域，提出五维[[Analytic Framework|分析框架]]，将[[Document|文献]]理解为一个符号学[[Champ|场域]]，要求研究者关注文本生产、读者接受、作者意图和话语共同体之间的复杂关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen, 1999: 81, 转引自 pp. 17–18)]]
+> - **1999 — 教育史中的系统应用** Sol Cohen 将语言学转向引入教育史和文献分析领域，提出五维[[Analytic Framework|分析框架]]，将[[Document|文献]]理解为一个符号学[[Champ|场域]]，要求研究者关注文本生产、读者接受、作者意图和话语共同体之间的复杂关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen, 1999, p. 81, 转引自 pp. 17–18)]]
 > - **2009 — 文学批评方法论的持续影响** Reinfandt 进一步论证了文学批评对文献分析的启发，强调文本的语言和形式在决定深层意义中的关键作用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Reinfandt, 2009, 转引自 p. 18)]]
 
 ---

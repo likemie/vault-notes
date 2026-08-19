@@ -73,11 +73,11 @@ updated: 2026-07-17
 ## 定义
 
 > [!def] 方法定义
-> 系统综述（Systematic Review）是研究综合（Research Synthesis）的一种严格形式：要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议（Evans & Benefield, 2001: 529; Hemsley-Brown & Sharp, 2003）。正是这些标准使系统综述区别于传统叙事综述——后者更宽泛且选择标准更不明确（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.384–385]]）。
+> 系统综述（Systematic Review）是研究综合（Research Synthesis）的一种严格形式：要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003）。正是这些标准使系统综述区别于传统叙事综述——后者更宽泛且选择标准更不明确（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.384–385]]）。
 >
 > 系统综述通常作为[[Meta-analysis|元分析]]的前置步骤：先通过系统综述识别符合条件的研究，再对这些研究的[[Effect Size|效应量]]进行统计综合。但系统综述本身也可以独立于元分析存在——当纳入研究的结果无法量化合并时，系统综述仍可提供结构化的证据总结。
 >
-> 研究综合追求两个并行目标：发现表面上相似的主要研究之间的**一致性**，同时**解释研究之间的变异性（Cooper & Hedges, 1994: 4）**，从而在所用研究的限度和情境内得出推广性结论（Davies, 2000: 366）。
+> 研究综合追求两个并行目标：发现表面上相似的主要研究之间的**一致性**，同时**解释研究之间的变异性（Cooper & Hedges, 1994, p. 4）**，从而在所用研究的限度和情境内得出推广性结论（Davies, 2000, p. 366）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 已发表的实证研究[[Document|文献]]，包括[[Quantitative Research|定量研究]]、[[Qualitative Research|质性研究]]和[[Mixed Methods Research|混合方法研究]]；也可纳入灰色文献和未发表研究以减少[[Publication Bias|发表偏倚]]。
@@ -86,7 +86,7 @@ updated: 2026-07-17
 > - **输出形式** 系统综述报告——包含纳入研究清单、质量评估、综合结论和政策建议；定量综合时输出[[Effect Size|效应量]]汇总。
 
 > [!citation-card]- Evans & Benefield (2001) 的系统综述定义
-> 系统综述要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议。（Evans & Benefield, 2001: 529; Hemsley-Brown & Sharp, 2003）
+> 系统综述要求使用最小化偏差的技术、遵循搜索相关原始研究（通常为实证研究）的协议和标准、明确纳入排除标准、规定可接受的方法论严谨性标准、界定纳入研究的范围、采用团队方法减少偏差、采用一致且明确的方法综合来自不同研究的信息，并得出谨慎的结论和建议。（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003）
 >
 > *Systematic reviews require the use of techniques to minimize bias, they follow protocols and criteria for searching for relevant primary, usually empirical, studies, their inclusion and exclusion, the standards for acceptable methodological rigour, their relevance to the topic in question, the scope of the studies included, team approaches to reviewing in order to reduce bias, the adoption of a consistent and clearly stated approach to combining information from across different studies, and the careful, relevant conclusions and recommendations drawn.*
 
@@ -100,7 +100,7 @@ updated: 2026-07-17
 > | 方法 | 描述 | 来源 |
 > |---|---|---|
 > | **叙事综述与总结** | 对研究发现进行叙述性总结 | — |
-> | **投票计数综述** | 计数有多少结果在一个方向上有[[Statistical Significance\|统计显著性]]，多少无效应 | Davies, 2000: 367 |
+> | **投票计数综述** | 计数有多少结果在一个方向上有[[Statistical Significance\|统计显著性]]，多少无效应 | Davies, 2000, p. 367 |
 > | **最佳证据综合** | 基于明确标准和方法论选择研究 | Slavin, 1986 |
 > | **元[[Ethnography\|民族志]]** | 总结和综合来自民族志和解释性质性研究的证据 | — |
 > | **主题分析** | 基于主题的综合 | — |
@@ -158,7 +158,7 @@ updated: 2026-07-17
 > | **筛选与质量评估** | 筛选与质量评估 | 收集（后半）→ 评估（前半） | 3 纳入排除标准 + 4 评估方法论质量 | 3 收集信息 + 4 评估质量 |
 > | **综合、报告与传播** | 数据提取与综合 | 评估（后半）→ 使用综述 | 5 减少偏差策略 + 6 方法论透明度 | 5 整合 + 6 解释 + 7 呈现 |
 
-其中 Evans & Benefield 的纳入排除标准最为详尽，明确了数据提取应包括：发表状态、引用细节、语言、关键词、资助来源、研究类型、干预性质、样本特征、研究规划和过程、结果评估，以及研究的描述性数据——资助来源、干预内容、人群与抽样、干预和研究的设计规划（Evans & Benefield, 2001: 537）。
+其中 Evans & Benefield 的纳入排除标准最为详尽，明确了数据提取应包括：发表状态、引用细节、语言、关键词、资助来源、研究类型、干预性质、样本特征、研究规划和过程、结果评估，以及研究的描述性数据——资助来源、干预内容、人群与抽样、干预和研究的设计规划（Evans & Benefield, 2001, p. 537）。
 
 EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步骤的**质量标准**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.386–389]]）：
 
@@ -173,7 +173,7 @@ EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步�
 
 **英国教育研究协会（British Educational Research Association，BERA）** 也发布了系统综述操作指南，涵盖系统综述问题的制定、概念框架与纳入/排除标准，并提供进一步阅读资源（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.392–393]]）。
 
-> [!warning] Davies (2000: 373) 的警示
+> [!warning] Davies (2000, p. 373) 的警示
 > Davies 警告研究者确保系统综述不要选择性地使用证据来制造"大多数教育干预的正面效应"的印象——即这些结论可能是综述本身方法论的产物——并确保[[Statistical Significance|统计显著性]]不凌驾于教育显著性之上。这一警示对元分析和研究综合同样适用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.397–398]]）。
 
 ---

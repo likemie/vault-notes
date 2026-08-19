@@ -48,7 +48,7 @@ updated: 2026-07-19
 > [!citation-card]- 人物定位的关键来源
 > Torres（1992, p. 56）在拉美语境中提出参与式[[Action Research|行动研究]]的五项原则，其认识论基础植根于[[Critical Theory|批判理论]]及其对研究中主客体关系的批判。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 271)]]
 >
-> *Torres (1992: 56) in Latin America, setting out several principles of participatory action research: its epistemological base is rooted in critical theory and its critique of the subject/object relations in research.*
+> *Torres (1992, p. 56) in Latin America, setting out several principles of participatory action research: its epistemological base is rooted in critical theory and its critique of the subject/object relations in research.*
 
 ---
 

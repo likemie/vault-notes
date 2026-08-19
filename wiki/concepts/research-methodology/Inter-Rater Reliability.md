@@ -169,7 +169,7 @@ Harlen (1994, pp. 140–142) 认为教师和学校本位评估中不一致的来
 
 > [!method-fit] 适用判断
 > - **适合使用** 研究设计中涉及多位观察者对行为进行[[Coding in Qualitative Research|编码]]或评定时（如课堂[[Observation Method|观察研究]]、临床行为评定）；[[Qualitative Research|质性研究]]的内容分析中多位编码者对文本进行编码时；系统性[[Literature Review|文献综述]]和[[Meta-analysis|元分析]]中多位筛选者独立筛选[[Document|文献]]时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch8)]]
-> - **谨慎使用** 在严格的[[Constructivist Paradigm|建构主义]]质性研究中，[[Hypothesis|假设]]不同研究者应产生相同解释的前提可能与[[Paradigm|研究范式]]冲突（Lincoln & Guba, 1985: 307）。
+> - **谨慎使用** 在严格的[[Constructivist Paradigm|建构主义]]质性研究中，[[Hypothesis|假设]]不同研究者应产生相同解释的前提可能与[[Paradigm|研究范式]]冲突（Lincoln & Guba, 1985, p. 307）。
 > - **不适合使用** 当研究设计中只有一位评判者或编码者时，评分者间[[Reliability|信度]]不适用，此时应关注评分者[[Internal Consistency|内部一致性]]（intra-rater reliability）。
 
 ---

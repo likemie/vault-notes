@@ -79,7 +79,7 @@ updated: 2026-07-22
 > [!citation-card]- 关键定义
 > 访谈不是专门主观的，也不是专门客观的——它是主体间的（intersubjective）。访谈使参与者能够讨论他们对所生活的世界的解释，并从自身立场表达对情境的看法。（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al., 2011, p. 409]]）
 >
-> *The interview is not exclusively either subjective or objective, it is intersubjective. (Laing, 1967: 66)*
+> *The interview is not exclusively either subjective or objective, it is intersubjective. (Laing, 1967, p. 66)*
 
 ---
 
@@ -143,7 +143,7 @@ updated: 2026-07-22
 > 6. 引出理由和解释
 
 > [!warning] 访谈不是自动适用
-> 某些文化中正式访谈可能被视为异化的；在敏感群体中（如海洛因使用者），非正式[[Dialogue in Education|对话]]和[[Field Notes|田野笔记]]可能更合适（Maxwell, 2005: 93; Whyte, 1993: 303）。访谈不同于日常对话，部分参与者在非对话情境中可能不会敞开心扉（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 432–433]]）。
+> 某些文化中正式访谈可能被视为异化的；在敏感群体中（如海洛因使用者），非正式[[Dialogue in Education|对话]]和[[Field Notes|田野笔记]]可能更合适（Maxwell, 2005, p. 93; Whyte, 1993, p. 303）。访谈不同于日常对话，部分参与者在非对话情境中可能不会敞开心扉（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 432–433]]）。
 
 ---
 

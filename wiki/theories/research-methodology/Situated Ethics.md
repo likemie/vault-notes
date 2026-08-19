@@ -53,7 +53,7 @@ updated: 2026-06-19
 > [!citation-card]- 关键表述
 > "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 128]]）
 >
-> 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons and Usher, 2000: 1).
+> 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons and Usher, 2000, p. 1).
 
 ---
 

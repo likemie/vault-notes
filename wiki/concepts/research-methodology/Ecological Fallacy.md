@@ -33,7 +33,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 生态谬误（Ecological fallacy）指"将聚合数据中发现的关系（如均值分数）假定适用于个体——即从群体特征推断个体特征"（Morrison, 2009: 62）。其核心错误在于：**[[Hypothesis|假设]]群体中的每个个体表现出与群体整体相同的特征**——这是一种**刻板印象**的逻辑形式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 181–182)]]
+> 生态谬误（Ecological fallacy）指"将聚合数据中发现的关系（如均值分数）假定适用于个体——即从群体特征推断个体特征"（Morrison, 2009, p. 62）。其核心错误在于：**[[Hypothesis|假设]]群体中的每个个体表现出与群体整体相同的特征**——这是一种**刻板印象**的逻辑形式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 181–182)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 生态谬误的本质是**分析层次的混淆**——将在群体层面（聚合数据）发现的统计关系错误地归因到个体层面。群体层面的相关性不一定在个体层面成立，反之亦然。

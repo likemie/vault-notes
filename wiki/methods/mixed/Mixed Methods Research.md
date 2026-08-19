@@ -87,7 +87,7 @@ updated: 2026-07-11
 > [!def] 混合方法研究（Mixed Methods Research）
 > 核心特征是同时收集并整合（"混合"）量化与质性数据，以获取超越单一方法的额外洞察。它被称为"第三种方法论运动"（the third methodological movement, Teddlie and Tashakkori, 2009）、"第三种研究[[Paradigm|范式]]"（the third research paradigm, Johnson and Onwuegbuzie, 2004; Denscombe, 2008）和"第三条道路"（the third path, Gorard and Taylor, 2004）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 >
-> Leech and Onwuegbuzie (2009: 265) 将其[[Operationalization|操作化]]定义为："在一项单一研究或一系列研究同一底层现象的研究中，收集、分析和解释量化与质性数据"（collecting, analyzing, and interpreting quantitative and qualitative data in a single study or in a series of studies that investigate the same underlying phenomenon）。
+> Leech and Onwuegbuzie (2009, p. 265) 将其[[Operationalization|操作化]]定义为："在一项单一研究或一系列研究同一底层现象的研究中，收集、分析和解释量化与质性数据"（collecting, analyzing, and interpreting quantitative and qualitative data in a single study or in a series of studies that investigate the same underlying phenomenon）。
 
 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 将混合方法定位为与量化和质性并列的第三种独立研究路径，以数据整合为关键标志。
 
@@ -135,7 +135,7 @@ updated: 2026-07-11
 
 ### 范式战争
 
-混合方法研究的兴起根植于量化与质性方法之间的"[[Paradigm Wars|范式战争]]"（paradigm wars, Gage, 1989）。混合方法研究认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"（Gorard and Smith, 2006: 61），主张更少的对抗、更多的趋同（Brannen, 2005）和更大的[[Dialogue in Education|对话]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+混合方法研究的兴起根植于量化与质性方法之间的"[[Paradigm Wars|范式战争]]"（paradigm wars, Gage, 1989）。混合方法研究认识到"质性还是量化只是对方法的一种——也许并不十分有用的——分类方式"（Gorard and Smith, 2006, p. 61），主张更少的对抗、更多的趋同（Brannen, 2005）和更大的[[Dialogue in Education|对话]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ### 发展里程碑
 
@@ -153,7 +153,7 @@ updated: 2026-07-11
 
 [[Positivism|实证主义]]取向以科学的、[[Objectivism|客观主义]]的[[Ontology|本体论]]和[[Epistemology|认识论]]为前提，诠释取向以人文主义和存在主义的本体论和认识论为前提，而混合方法取向则以[[Pragmatic Paradigm|实用主义]]（pragmatism）的本体论和认识论为前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
-实用主义本质上是[[Praxis|实践]]驱动的（practice-driven, Denscombe, 2008: 280）：
+实用主义本质上是[[Praxis|实践]]驱动的（practice-driven, Denscombe, 2008, p. 280）：
 
 > [!finding-cards]
 > - **真理的多元性** 真理和实在可能同时存在单一版本和多重版本，有时主观有时客观

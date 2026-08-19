@@ -36,7 +36,7 @@ updated: 2026-06-22
 ## 定义
 
 > [!def] 方法定义
-> 平行[[Mixed Methods Research|混合方法]]抽样（Parallel Mixed Methods Sampling）是[[Mixed Methods Research|混合方法研究]]中的一种抽样设计：概率样本和非概率样本同时并排运行，彼此独立——一种样本的数据收集和分析不影响另一种样本的数据收集和分析（Teddlie & Tashakkori, 2009: 185–91）。Onwuegbuzie & Leech（2007: 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）。
+> 平行[[Mixed Methods Research|混合方法]]抽样（Parallel Mixed Methods Sampling）是[[Mixed Methods Research|混合方法研究]]中的一种抽样设计：概率样本和非概率样本同时并排运行，彼此独立——一种样本的数据收集和分析不影响另一种样本的数据收集和分析（Teddlie & Tashakkori, 2009, pp. 185–91）。Onwuegbuzie & Leech（2007, p. 239）补充，平行设计可在样本的同一层次内进行跨子组比较（如男生 vs 女生）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 同时需要定量和定性数据的同一[[Research Question|研究问题]]
