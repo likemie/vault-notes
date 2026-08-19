@@ -24,9 +24,11 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Epistemological Beliefs]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[Descriptive Analysis]]"
   - "[[Epistemology]]"
-related_methods: []
+related_methods:
+  - "[[Exploratory Factor Analysis]]"
 related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 confidence: medium
@@ -46,6 +48,7 @@ updated: 2026-08-19
 > - **开发者与年份** Schommer (1993)。
 > - **测量目的** 用于测量中学生在知识本质与学习本质上的[[Epistemological Beliefs|认识论信念]]多维特征，评估其在固定与快速学习能力、简单知识与确定知识等维度上的成熟度或朴素度，以预测学生的[[Academic Achievement|学业成就]]、学习策略及学术任务表现。
 > - **实施方式** 自陈问卷（纸笔或课堂计算机施测）
+> - **题量说明** 课堂施测总题量为 52 题；经[[Exploratory Factor Analysis|探索性因子分析]]后，最终提取并保留用于计算三因子核心得分的代表性题项共 11 题。
 
 ---
 
@@ -54,8 +57,8 @@ updated: 2026-08-19
 > [!construct-table] [[Epistemological Beliefs|认识论信念]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
-> | 维度 | 题项数 | 测量内容 | 计分方式 |
-> |---|---|---|---|
+> | 维度 | 因子保留题项数 | 测量内容 | 计分方式 |
+> |---|:---:|---|---|
 > | 固定与快速学习能力（fixed and quick ability to learn, FQAL） | 5 | 认为学习能力是先天固定不变且学习必须迅速发生（否则无法学会）的倾向 | 5点Likert量表均分或因子得分（分数越高代表越朴素） |
 > | 简单知识（simple knowledge, SK） | 4 | 将知识视为孤立互不连通的事实碎片、回避整合与复杂性的倾向 | 5点Likert量表均分或因子得分（分数越高代表越朴素） |
 > | 确定知识（certain knowledge, CK） | 2 | 坚信科学能揭示绝对确凿真理、知识具有确定性的倾向 | 5点Likert量表均分或因子得分（分数越高代表越朴素） |
@@ -68,6 +71,7 @@ updated: 2026-08-19
 > - **题项形式** 第一人称或泛指陈述句。
 > - **作答格式** 5点 Likert 量表（1 = 完全不同意，5 = 完全同意）。
 > - **反向题与跳题** 部分反向表述题项在计分时予以反向转换；分数越高通常代表[[Epistemological Beliefs|认识论信念]]越朴素（naïve），分数越低代表认识论信念越成熟（sophisticated）。
+> - **题项呈现说明** 学生实际施测填写 52 题[[Questionnaire|问卷]]；经[[Exploratory Factor Analysis|探索性因子分析]]（EFA）筛选后，仅将因子载荷达标（$\ge .33$）且构成 3 个核心因子的 **11 个核心题项** 纳入统计模型并在[[Document|文献]]中公开发布（见下表）。其余 41 题因载荷过低或跨载荷未进入核心模型。
 
 ### 固定与快速学习能力
 
@@ -113,7 +117,7 @@ updated: 2026-08-19
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 加拿大十年级中学生修订版（52题） | 447名加拿大十年级中学生（公立学校与独立基督教学校），评估[[Epistemological Beliefs\|认识论信念]]在性别、办学导向、[[Academic Achievement\|学业成就]]与不同任务结构下的差异及预测力 | 探索性因子分析（exploratory factor analysis, EFA，主轴提取与Varimax正交旋转）提取出 3 个核心因子，解释 16.81% 方差；整体问卷 $\alpha = .67$；各因子 $\alpha$ 分别为：FQAL（.65）、SK（.51）、CK（.73）；因子间相关系数极低（$r = -.002 \sim .08$） | FQAL 与 SK 显著负向预测总体学业成就预估值（estimates of overall academic achievement, EOAA，$R^2 = .08, p < .001$）；SK 显著负向预测劣构任务表现（$R^2 = .06, p = .02$）与反思性判断得分（$R^2 = .06, p = .02$），但在良构任务中无显著预测力；女生在 FQAL 与 CK 上信念显著比男生更为成熟 |
+> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 加拿大十年级中学生修订版（52题施测，提取11题核心因子） | 447名加拿大十年级中学生（公立学校与独立基督教学校），评估[[Epistemological Beliefs\|认识论信念]]在性别、办学导向、[[Academic Achievement\|学业成就]]与不同任务结构下的差异及预测力 | 探索性因子分析（exploratory factor analysis, EFA，主轴提取与Varimax正交旋转）从52题中提取出 3 个核心因子（11题），解释 16.81% 方差；整体问卷 $\alpha = .67$；各因子 $\alpha$ 分别为：FQAL（.65）、SK（.51）、CK（.73）；因子间相关系数极低（$r = -.002 \sim .08$） | FQAL 与 SK 显著负向预测总体学业成就预估值（estimates of overall academic achievement, EOAA，$R^2 = .08, p < .001$）；SK 显著负向预测劣构任务表现（$R^2 = .06, p = .02$）与反思性判断得分（$R^2 = .06, p = .02$），但在良构任务中无显著预测力；女生在 FQAL 与 CK 上信念显著比男生更为成熟 |
 
 ### [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] 各群体测量均值与标准差
 
@@ -139,4 +143,4 @@ updated: 2026-08-19
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 中学生原始版（SMEQ） | 英文（美国） | 中学生群体 | 63 | 基于大学生[[Epistemology\|认识论]][[Questionnaire\|问卷]]（Schommer's Epistemological Questionnaire, SEQ）进行用词简化，归入 12 个子集 | Schommer (1993) |
-> | 加拿大十年级中学生修订版 | 英文（加拿大） | 十年级中学生 | 52 | 经 24 名中学生预试，简化部分用词，删除理解困难题（1题）及全知权威题项（10题），提取出 3 个核心因子 | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
+> | 加拿大十年级中学生修订版 | 英文（加拿大） | 十年级中学生 | 52（保留11题核心因子） | 经 24 名中学生预试，简化部分用词，删除理解困难题（1题）及全知权威题项（10题），提取出 3 个核心因子共 11 题 | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
