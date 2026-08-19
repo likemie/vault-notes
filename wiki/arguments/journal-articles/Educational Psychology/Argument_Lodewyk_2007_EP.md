@@ -54,9 +54,9 @@ title: "Argument_Lodewyk_2007_EP"
 argument_key: "Argument_Lodewyk_2007_EP"
 argument_display_title: "Relations among epistemological beliefs, academic achievement, and task performance in secondary school students"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 19
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Psychology"
 book_title: ""
