@@ -17,6 +17,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
+  - "[[Task Structure]]"
+  - "[[Epistemological Beliefs]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -25,6 +27,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
+  - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
 updated: 2026-08-13
@@ -37,7 +40,7 @@ updated: 2026-08-13
 > [!theory-position] 
 > - **解释对象** 个体对劣构问题（ill-structured problems）的推理与信念辩护方式。
 > - **理论问题** 人们如何理解认知的过程，以及相应地如何为没有确定答案的问题辩护？
-> - **理论类型** 基于[[Jean Piaget|皮亚杰]]发展论的七阶段[[Epistemic Cognition|认识认知]]（[[Epistemic Cognition]]）模型。
+> - **理论类型** 基于[[Jean Piaget|皮亚杰]]发展论的七阶段认识认知（[[Epistemic Cognition]]）模型。
 > - **知识位置** 详细阐发了Perry图式的高阶阶段，区分了前反思、准反思与反思阶段。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 100)]]
 
 ## 核心命题与机制
@@ -59,3 +62,10 @@ updated: 2026-08-13
 > - **适合** 解释个体（尤其是青少年到成年期）在面对复杂真实世界问题时的认知成熟度。
 > - **谨慎** 高阶的[[Reflexivity|反思性]]判断（阶段6与7）极其罕见，通常仅在接受高级研究生教育的个体中出现。
 > - **局限** 将信念的激活局限于“劣构问题”可能无法完全反映个体在日常教育环境中所抱持的普通[[Epistemology|认识论假设]]。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, pp. 102-103)]]
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 在加拿大高中生[[Task Structure|劣构任务]]（癌症政策辩护）中评定[[Reflexivity|反思性]]判断得分（1–5分制对应阶段1–5），发现[[Epistemological Beliefs|认识论信念]]（尤其是简单知识信念，$\beta = -0.24, R^2 = .06, p = .02$）显著负向预测学生的反思性判断表现。

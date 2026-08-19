@@ -24,6 +24,9 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Heterogeneity]]"
   - "[[Sample Size Determination]]"
+  - "[[Academic Achievement]]"
+  - "[[Task Structure]]"
+  - "[[Reflexivity]]"
 related_theories: []
 related_methods:
   - "[[Meta-regression]]"
@@ -34,6 +37,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Lodewyk_2007_EP]]"
 confidence: medium
 status: draft
 created: 2026-05-31
@@ -87,4 +91,11 @@ updated: 2026-05-31
 > - 与 Pearson 相关一样，回归揭示的是关联而非因果——即使控制了多个变量，未测量的混淆变量仍可能驱动结果。
 > - 对异常值、非线性关系和方差[[Heterogeneity|异质性]]（heteroscedasticity）敏感。
 > - [[Independent Variable|预测变量]]数量大而[[Sample Size Determination|样本量]]小会导致过拟合（overfitting）——R² 被夸大且模型在新样本中表现差。
+
+---
+
+## 使用此方法的研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 采用分层与多元线性回归分析，在控制学校导向（确定知识）后检验固定与快速学习能力（FQAL）及简单知识（SK）对总体[[Academic Achievement|学业成就]]、[[Task Structure|良构与劣构任务]]表现及[[Reflexivity|反思性]]判断的预测力。
 

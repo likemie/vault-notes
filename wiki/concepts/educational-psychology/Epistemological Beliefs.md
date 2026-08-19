@@ -32,13 +32,16 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
   - "[[Cultural Capital]]"
+  - "[[Task Structure]]"
+  - "[[Reflexivity]]"
 related_theories:
   - "[[Epistemic and Ontological Cognition]]"
   - "[[Item Response Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Factor Mixture Modeling]]"
-related_instruments: []
+related_instruments:
+  - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []
 related_facts:
   - "[[TOSCA]]"
@@ -46,6 +49,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Trautwein_2007_CEP]]"
   - "[[Argument_Greene_2010_JEP]]"
+  - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
 updated: 2026-08-19
@@ -152,6 +156,7 @@ updated: 2026-08-19
 > | 研究 | 样本与设计 | 测量工具 | 控制[[Variable\|变量]] | 核心结果 |
 > |---|---|---|---|---|
 > | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，T1 $N = 2854$；大学追踪 T2 $N = 1094$） | 7 题全局确定性量表（4 点李克特计分，T1 $\alpha = .75$；T2 $\alpha = .73$） | 认知推理能力（KFT 4-13+R [[Item Response Theory\|IRT]] 分数）、家庭 SES（ISEI）、[[Cultural Capital\|文化资本]]（藏书量）、性别、年龄 | 确定性信念显著负向预测毕业总评成绩（$\beta = -0.15, p < .001$）；工科（$b = 0.38$）、商科（$b = 0.33$）学生在高中阶段已持有更高确定性（自我选择），大学阶段工科（$\Delta b = 0.40$）与商科（$\Delta b = 0.22$）确定性进一步上升，社科显著下降（$\Delta b = -0.26$）（社会化效应） |
+> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级中学生（公立与独立教会学校，横截面与组内任务对比） | 52题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点李克特计分，提取 FQAL、SK、CK 三因子） | 确定知识（CK，控制学校宗教导向差异）、性别、任务顺序 | FQAL（$R^2 = .04, p < .001$）与 SK（$R^2 = .05, p < .001$）显著负向预测学生总体学业成就预估值（整体模型 $R^2 = .08$）；在学术任务中，SK 显著负向预测劣构任务总分（$R^2 = .06, p = .02$）及反思性判断得分（$R^2 = .06, p = .02$），但在良构任务中无显著预测力（$R^2 = .002, p = .69$）；女生在 FQAL 与 CK 上的信念成熟度显著高于男生 |
 
 ---
 
@@ -162,3 +167,11 @@ updated: 2026-08-19
 
 > [!critique] 量表工具的方法论局限
 > - **因子结构不稳定** Schommer 认识论量表的有效性遭到学界质疑。其因子分析是建立在预设的子集而非单个题目层面，且后续研究（如 Qian & Alvermann）显示其底层因子结构在实际不同人群的数据中并不稳定，缺乏一致的重现性。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 110)]]
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 追踪德国高中毕业生进入大学后的确定性[[Epistemology|认识论]]信念，揭示[[Disciplinary Socialization|学科社会化]]与自我选择机制。
+> - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 检验加拿大中学生在不同[[Task Structure|任务结构]]（良构与劣构）下认识论信念对任务表现和[[Reflexivity|反思性]]判断的差异化预测作用。

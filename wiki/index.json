@@ -4347,6 +4347,18 @@
     ]
   },
   {
+    "title": "Task Structure",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Task Structure.md",
+    "aliases": [
+      "任务结构",
+      "well-structured and ill-structured tasks",
+      "良构与劣构任务",
+      "良构任务",
+      "劣构任务"
+    ]
+  },
+  {
     "title": "Teaching and Learning Activities",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Teaching and Learning Activities.md",
@@ -11937,6 +11949,17 @@
     ]
   },
   {
+    "title": "Schommer's Modified Epistemological Questionnaire",
+    "type": "instrument",
+    "path": "wiki/instruments/questionnaire/Schommer's Modified Epistemological Questionnaire.md",
+    "aliases": [
+      "SMEQ",
+      "Modified Epistemological Questionnaire",
+      "中学生认识论问卷",
+      "中学生认识论信念量表"
+    ]
+  },
+  {
     "title": "Academic Self-Concept General Scale",
     "type": "instrument",
     "path": "wiki/instruments/scales/Academic Self-Concept General Scale.md",
@@ -17302,6 +17325,11 @@
     "title": "Argument_Slavin_2019_EP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Psychologist/Argument_Slavin_2019_EP.md"
+  },
+  {
+    "title": "Argument_Lodewyk_2007_EP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Psychology/Argument_Lodewyk_2007_EP.md"
   },
   {
     "title": "Argument_Brady_2023_EPR",
