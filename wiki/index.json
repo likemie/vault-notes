@@ -1352,7 +1352,8 @@
       "true knowledge",
       "eternal truth",
       "absolute knowledge",
-      "pursuit of certainty"
+      "pursuit of certainty",
+      "certainty beliefs"
     ]
   },
   {
@@ -8451,7 +8452,10 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Cultural Capital.md",
     "aliases": [
-      "文化资本"
+      "文化资本",
+      "embodied cultural capital",
+      "objectified cultural capital",
+      "institutionalized cultural capital"
     ]
   },
   {
