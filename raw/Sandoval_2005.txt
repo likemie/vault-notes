@@ -1,0 +1,1205 @@
+Understanding Students’ Practical
+Epistemologies and Their
+Influence on Learning Through
+Inquiry
+WILLIAM A. SANDOVAL
+Graduate School of Education & Information Studies, University of California,
+Los Angeles, Los Angeles, CA 90095-1521, USA
+Received 27 February 2004; revised 15 October 2004; accepted 16 November 2004
+DOI 10.1002/sce.20065
+Published online 27 May 2005 in Wiley InterScience (www.interscience.wiley.com).
+ABSTRACT: It has long been a goal of science education in the United States that students
+leave school with a robust understanding of the nature of science. Decades of research show
+that this does not happen. Inquiry-based instruction is advocated as a means for developing
+such understanding, although there is scant direct evidence that it does. There is a gap
+between what is known about students’ inquiry practices and their epistemological beliefs
+about science. Studies of students’ ideas about epistemological aspects of formal science
+are unlikely to shed any light on how they perceive their own inquiry efforts. Conversely,
+inquiry-based instruction that does not account for the epistemological beliefs that guide
+students’ inquiry stands very little chance of helping students to understand professional
+science. This paper reviews largely independent lines of research into students’ beliefs about
+the nature of science and their practices of inquiry to argue that students’ inquiry is guided
+by practical epistemologies that are in need of study. An approach to studying practical
+epistemologies is proposed that has the potential to produce a better psychological theory
+of epistemological development, as well as to realize goals of a science education that
+ 2005 Wiley Periodicals, Inc. Sci Ed 89:634 – 656,
+C
+develops scientifically informed citizens.
+2005
+
+INTRODUCTION
+Current standards argue that inquiry should be a central strategy of science instruction,
+for several reasons. These reasons include that students will learn science concepts more
+deeply as well as develop their skills of doing science. A major reason is that inquiry is
+presumed to be a way to help students develop a sophisticated understanding of the nature of
+science (NOS). Curiously, until very recently research on students’ beliefs about the nature
+of science, or their scientific epistemologies, has occurred largely independently of research
+on inquiry. One of the outcomes of this separation of inquiry and epistemology is that it is
+Correspondence to: William A. Sandoval; e-mail: sandoval@gseis.ucla.edu
+
+C
+
+2005 Wiley Periodicals, Inc.
+
+635
+
+not clear that inquiry approaches to science instruction change students’ epistemological
+beliefs about science. I argue in this paper that a comparison of the research on students’
+epistemological beliefs and research on students’ inquiry practices suggests a paradox:
+that students’ practices of inquiry appear to share much with scientific practice but their
+expressed epistemological beliefs seem hopelessly naı̈ve. The resolution of this paradox
+requires a shift in the way scientific epistemologies are conceptualized and studied. At the
+moment, there appear to be two camps regarding students’ scientific epistemologies. In one
+camp are those who argue that students’ epistemological beliefs can be directly investigated
+and explicitly developed. In another camp, are those who argue that epistemological beliefs
+are manifested through practice, and practice is the only, or at least primary, means for interrogating them. I argue for a middle ground, and suggest that the practical epistemological
+ideas that students bring to bear on their own scientific sense making must be studied, as
+both practice and expressed beliefs, in order to hypothesize a trajectory of epistemological
+development from such ideas to sophisticated views of professional science.
+There is accumulating evidence that simply engaging in inquiry in school is insufficient to
+change most students’ ideas about the nature of science (Khishfe & Abd-El-Khalick, 2002;
+Meichtry, 1992; Sandoval & Morrison, 2003). I will argue that the difference between
+practical epistemologies and formal epistemologies can explain this. At present, little is
+known about students’ practical epistemological beliefs and how they might be developed
+into more formal ones. Building a more grounded theory of epistemological development
+through inquiry is vital to realizing the promise of a science education that can educate
+students to be scientifically informed citizens.
+I define “practical epistemologies” as the epistemological ideas that students apply to their
+own scientific knowledge building through inquiry. Practical epistemologies are contrasted
+with formal epistemologies, defined here as students’ expressed beliefs about professional or
+formal science. The main goal of this paper is to argue that studies of scientific epistemology
+have to extend analyses of practice to interrogate students’ goals for such practice and the
+criteria they employ during their own inquiry, and must bridge practical epistemologies
+to formal ones. I begin by laying out why epistemology matters in science education,
+advancing a minimal set of epistemological ideas students should understand, and then
+examining what we know of students’ epistemological beliefs through research on nature
+of science and on inquiry. Following this review, I propose a research agenda for studying
+practical epistemologies and their potential development toward formal epistemologies.
+
+CONCEPTUAL FRAMEWORK
+Defining Epistemology
+Epistemology is a term used quite differently by philosophers and psychologists. It will
+be helpful to briefly introduce some definitions to clarify the argument to follow, although
+the definitions of formal and practical epistemologies that I mention here will be expanded
+upon at greater length throughout the paper. Epistemology is the branch of philosophy
+concerned with the study of knowledge. Philosophers of science have been concerned with
+outlining an epistemology of science---the logical and philosophical grounds upon which
+scientific claims are advanced and justified. This move itself presupposes that scientific
+knowledge and the processes of its construction are potentially different from other forms
+of knowledge and knowing. For the purposes of this paper, it is important to understand that
+from a philosophical perspective, scientific epistemology is a description of the nature of
+scientific knowledge, including the sources of such knowledge, its truth value, scientifically
+appropriate warrants, and so forth.
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+Psychologists take this notion of epistemology and internalize it, defining personal epistemology as the set of beliefs that individuals hold about the nature of knowledge and
+its production. This psychological perspective on epistemology began with Perry’s (1970)
+study of college students and their changing ideas of the source and certainty of knowledge,
+and implications of those changes on their learning strategies. Perry’s work was highly
+influential and initiated a line of research that set about developing Piagetian stage theories
+of epistemological development (this body of work is usefully synthesized and updated
+in Hofer and Pintrich, 2002). Until recently, research on personal epistemology assumed
+that such beliefs were general, an assumption implicitly at odds with contemporary philosophical views of science as mentioned above. An exception to this has been the work
+of Schommer, who has studied students’ epistemological beliefs about mathematics (e.g.,
+Schommer et al., 1997; Schommer, Crouse, & Rhodes, 1992). Psychological research on
+personal epistemology has suffered, however, from a conflation of beliefs about knowledge
+with beliefs about learning (Hofer & Pintrich, 1997). They are clearly related, as one’s
+beliefs about knowledge are likely to influence how one approaches learning, but they are
+definitely not the same. A flaw in psychological studies of personal epistemology has been
+to infer that expressed beliefs about how to best learn reflect epistemological beliefs, as
+opposed to other beliefs or motives (e.g., how to most easily succeed in school).
+From a psychological perspective, then, people can have an epistemology, or potentially
+more than one. Throughout the rest of this paper I refer to the beliefs that students may have
+about the epistemology of science as scientific epistemologies. The thrust of the argument
+to follow is to distinguish between two kinds of scientific epistemologies. I use the term
+formal epistemology to label the set of ideas about scientific knowledge and its production
+that students appear to have about professional (formal) science. I use the term practical
+epistemology to refer to the set of ideas that students have about their own knowledge
+production in school science. I aim to show that these ideas are not the same, and that
+at least partially explains why students’ formal epistemological ideas seem so difficult to
+change through instruction. This argument is similar to Hogan’s (2000) distinction between
+distal and proximal epistemologies. Her notion of distal epistemology is roughly the same
+as what I am calling formal epistemology, and she uses the term distal specifically to
+connote the distance of such ideas from students’ own experience. Hogan defined proximal
+epistemology as the beliefs that students’ have about themselves as science learners, and
+argued that such views are more likely to influence their approaches to learning than distal
+epistemological ideas. Her framing of proximal epistemology shares the problem regarding
+conceptualizations of personal epistemology: it conflates views about oneself as a learner
+with views about knowledge. The ideas that students have about themselves as learners, or
+about the best ways to learn science, can arise from many sources and are not necessarily
+epistemological. At issue, then, is to understand what specific epistemological ideas that
+students use to guide their own practice.
+It might also be necessary to define my use of the term inquiry in this paper. As defined
+by research-based voices in the science education community, inquiry generally refers to a
+process of asking questions, generating and pursuing strategies to investigate those questions
+by generating data, analyzing and interpreting those data, drawing conclusions from them,
+communicating those conclusions, applying conclusions back to the original question, and
+perhaps following up on new questions that arise (e.g., Krajcik et al., 1998; NRC, 1996;
+White & Frederiksen, 1998). Note that I am defining these steps quite broadly, to reflect
+that within and across scientific disciplines there are many ways to investigate particular
+questions, from simple observation to controlled experimentation. From an epistemological
+perspective, inquiry is simply the process of doing science (cf., Schwab, 1962). From an
+instructional perspective, inquiry is a way of organizing activity in the classroom. As an
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+636
+
+637
+
+instructional method, inquiry can occur along a continuum of more to less structure (see
+NRC, 2000). Generally, the largely unstructured approach to discovery learning advocated
+in the 1960s (Bruner, 1961) is too difficult for most students. The broad term guided inquiry
+refers to approaches to supporting students’ inquiry by guiding one or more of the steps
+mentioned above. Nearly all inquiry interventions reported in the literature provide some
+form of guidance.
+Chinn and Malhotra (2002) recently analyzed the “epistemological authenticity” of various inquiry-oriented activities, including textbook activities and research-based interventions. They describe 11 features of epistemological authenticity that expand on the broad
+process of inquiry outlined above. For space reasons, I will not describe these features. I
+simply note that in their analysis, Chinn and Malhotra found that textbook activities have
+almost no epistemological authenticity, and research-based efforts focus on a fairly narrow
+bandwidth of epistemological features related to generating and interpreting data. An important contribution of their analysis is that it emphasizes that choices made by curriculum
+designers have epistemological consequences with respect to the kinds of decisions that
+inquiry activities demand of students. That is, if students do not have to decide what kind
+of data to get, they are unlikely to engage in epistemological considerations of what kind
+of data would be appropriate. If they are not responsible for coordinating data with particular claims, they are unlikely to consider the bases upon which particular claims might
+be warranted. Clearly, then, how “inquiry” gets implemented in particular classrooms has
+direct consequences upon the epistemological ideas that students might bring to bear on
+their work, and the potential of that work to affect those ideas. For the rest of this paper, I will use the term inquiry fairly loosely to refer to any activity or set of activities
+in which students pursue an investigation to some question. I do not assume that students
+necessarily generate these questions, but I do assume that students are largely responsible
+for figuring out how to answer their question, that they collect data in the course of their
+investigation, and that they interpret these data to construct some kind of answer to their
+question.
+Why Epistemology Matters to Inquiry-Based Science Instruction
+There are at least two reasons why an understanding of scientific epistemology matters
+in science education, and in inquiry-based instruction in particular. The first reason is instrumental: an understanding of the epistemological frame of inquiry will help students to
+do it better. Evidence for this claim comes from a variety sources. Dunbar (1993) manipulated subjects’ goals for experimentation in a genetics microworld and found that those
+subjects attempting to generate explanations were more systematic in their experiments and
+more likely to discover the correct function of a gene. Schauble and colleagues (Schauble
+et al., 1995) found that 5th grade students designed better experiments after instruction
+about the purpose of experimentation. More recent efforts to use tools to organize students’
+inquiry around constructing various forms of arguments also appear to improve students’
+investigative strategies (Sandoval & Reiser, 2004; Toth, Suthers, & Lesgold, 2002).
+There is a second, more fundamental, reason to desire that students develop sophisticated epistemologies of science. In contemporary democratic societies, lay citizens need
+to understand the nature of scientific knowledge and practice in order to participate effectively in policy decisions, and to interpret the meaning of new scientific claims for their
+lives. Scholars since Dewey (1900/1990) have argued that an understanding of “scientific
+method” would provide powerful tools for thinking to citizens in their everyday lives. For
+Dewey, this method was more akin to habits of mind, a way of knowing---an epistemological perspective. This faith in the value of a scientific way of knowing for reasoning about
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+the world is reflected in current reform documents, and is promoted as a central facet of
+understanding science (AAAS, 1993; NRC, 1996; Rutherford & Ahlgren, 1990). To put it
+succinctly, lay citizens need to understand the power that science can potentially bring to
+decision making, and, as importantly, the limits of science. I am suggesting that lay citizens
+need to understand science, its power and limits, not because that is good for science (see
+Rudolph, 2002, for an analysis of the political motives behind early science reforms), but
+because it is crucial to democracy (cf., Kolstø, 2001; Roth & Désautels, 2002).
+An Epistemology of Inquiry
+In science education, research on epistemology has more commonly been labeled by
+the construct of “nature of science” or NOS, and researchers have often conceptualized
+the nature of science in rather different ways, and not always to the benefit of clarity or
+comparability. This is partly because of disagreement among philosophers of science about
+what the nature of science is. Notwithstanding the philosophically contested nature of
+science, science educators have included various aspects of the social and political context
+in which science is conducted, i.e., science and society, students’ images of scientists as
+people, relations between science and technology, and even the moral dimensions of science
+as an endeavor. For the purposes of this paper, I will refer to scientific epistemologies rather
+than use the more common term “nature of science” or “NOS,” because I want to focus
+particularly on students’ ideas about the nature of scientific knowledge and the methods
+appropriate for generating and evaluating such knowledge. This move is not made to deny the
+relevance or importance of other aspects of the scientific endeavor that may legitimately be
+goals of science education. Instead, this narrower, more clearly epistemological focus seems
+appropriate for a consideration of the role that students’ inquiry may play in developing
+their understanding of the practice of science, and on understanding how students’ ideas
+about the nature of knowledge and the means for generating it may influence their inquiry.
+The meaning of epistemology I rely on here is nicely captured in two questions recently
+framed by Duschl and Osborne (2002) as central to the epistemological basis of science, or
+really any discipline: How do we know what we know? And why do we believe it? I might
+add to these a third question regarding the nature of knowledge itself: What exactly do we
+know? These questions capture essential facets of the nature of knowledge and its production
+that are at the heart of inquiry. They include questions about the forms that knowledge may
+take, including distinctions between laws, theories, and facts, for instance. They also entail
+questions about both the status and scope of knowledge claims. The question of how we
+know what we know encompasses issues of methods for generating knowledge and for
+evaluating claims, including what have been shown to be inherently social and historical
+methods of argumentation and persuasion (e.g., Bazerman, 1988; Kitcher, 1991).
+What Epistemology Should Students Know?
+The nature of science is contested by philosophers, historians, sociologists, and scientists
+themselves (e.g., see the summary of debates in Driver et al., 1996). On the other hand, there
+is a general consensus about desirable understandings of the nature of science in international
+standards documents (McComas & Olson, 1998). There is also growing evidence that there
+is a consensus among science experts, including the groups mentioned above and science
+educators, on a basic, perhaps simplified, set of propositions about the nature of science
+that students should know upon leaving school.
+Lederman et al. (2002) advance a set of seven aspects of the nature of science that
+they argue are broadly agreed upon by historical, philosophical, and sociological studies
+of science. These aspects are that (a) scientific knowledge is tentative, (b) is partially
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+638
+
+639
+
+subjective (i.e., theory laden), (c) relies on an empirical basis, (d) is creative, (e) is socially
+and culturally embedded, (f) is based upon observations and inferences, and (g) theories and
+laws are different forms of scientific knowledge. These categories were derived primarily
+to help Lederman and colleagues interpret responses to an open-ended questionnaire they
+developed to probe students’ views of the nature of science. One of the limitations of this
+framework as currently laid out, however, is that it is unclear that each of these seven
+aspects is defined at the same level of abstraction. For example, the distinction between
+observation and inference seems a consequence of both the empirical basis of science and
+its subjectivity.
+A somewhat different consensus view on the nature of science appears from a recent
+study of science experts from a range of disciplines (Osborne et al., 2003). Osborne and
+colleagues used an open-ended survey technique (a Delphi study) to question approximately
+two dozen scientists, philosophers, historians, and sociologists about their views of essential
+epistemological features of science. The Delphi technique, as they describe it, is specifically
+designed to lead participants to reach consensus. Osborne et al.’s experts produced consensus
+around a set of themes that the authors characterized as mainly concerned with scientific
+methods. This characterization is remarkable in relation to other educational discussions of
+the nature of science, in these respondents’ focus on methodological aspects of science--how science is done---with much less discussion of the kind of knowledge that science can
+produce.
+I suggest four broad epistemological themes that students should know in order to inquire
+effectively into scientific problems, to understand their inquiry as science, and to be able to
+evaluate scientific claims in relation to socioscientific issues in their lives outside of (and
+beyond) school. These themes are not new, and it does not seem particularly important to
+agree on whether the “right” number of themes is four, or seven, or something else. My aim
+here is simply to show how particular epistemological ideas can be expected to influence
+students’ scientific inquiry, and, conversely, how such inquiry might influence such ideas.
+I do believe, however, that the four themes discussed below are clearly distinct from each
+other, if interrelated. This will hopefully become clearer in the description. The evidence
+available for how students understand these themes, and whether or not inquiry is influenced
+by or influences them, will be discussed later.
+Scientific Knowledge Is Constructed. Probably the most important epistemological
+
+notion for students to understand is that scientific knowledge is constructed by people,
+not simply discovered out in the world. Indeed, science may be best characterized as the
+effort to explain observations of the natural world. The key to this notion is that there is
+a dialectical relationship between theory and observation. On one hand, our observations
+of the natural world, including our interpretations of experimental manipulations of the
+world, are strongly guided by our current theories. At the same time, those ideas must
+“be evaluated against the recalcitrance of the material world” (Driver, Newton, & Osborne,
+2000, pp. 293). There are consequences to the belief that scientific knowledge is constructed.
+One is that creativity plays an important role in the development of scientific knowledge,
+as human creativity is the source of theoretical ideas. A second corollary is that scientific
+knowledge is not accepted because it is “true” but because people are persuaded of its value,
+i.e., its adequacy as an explanation, or its utility, or some other standard. Related to this is
+the notion that scientific knowledge is socially constructed, and thus includes cooperation,
+collaboration, and competition. Epistemologically, these social aspects of scientific practice
+are most important in the way they locate criteria for scientific knowledge claims within
+social, historical communities. That is, scientific claims gain their authority through their
+ability to persuade.
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+Diversity of Scientific Methods. To properly understand science and effectively con-
+
+duct inquiry, students should understand that scientific methods are diverse. Part of the
+diversity in method stems from the differences among scientific disciplines, as they explore
+different kinds of phenomena. It has been common for psychologists to construe “scientific
+thinking” as controlled experimentation to test hypotheses (e.g., Klahr, Dunbar, & Fay,
+1990; Kuhn, Amsel, & O’Loughlin, 1988; Wason, 1960; Zimmerman, 2000). Controlled
+experimentation is certainly an important means of generating scientific knowledge, but
+entire disciplines rely on other methods because controlled experimentation is infeasible,
+including astronomy, ethology, paleontology, and others. Of course, these fields are considered science.
+Informally then, it seems that it is not that any one method necessarily can be considered
+scientific. Rather, scientific fields appear to rely on standards for evaluating methods and the
+knowledge they produce according to criteria related to systematicity, care, fit with existing
+knowledge, and so forth. The main scientific objective is that claims about the natural
+world have to fit with and make sense of observations of that world. Epistemologically,
+the goal is to help students develop standards for evaluating the fit between observations,
+methods of obtaining them, and the knowledge claims advanced through them. Importantly,
+this evaluation has implications for the degree of certainty imputed to specific knowledge
+claims.
+A third key epistemological goal is that students
+should understand that there are different forms of scientific knowledge, varying in their
+explanatory or predictive power and in their relation to the observable world. For instance,
+a robust finding of NOS research is that lay people typically see a linear progression from
+hypotheses to theories to laws, where the difference between these lies in the certainty with
+which they can be believed (Lederman et al., 2002; McComas, 1996). Within a sophisticated scientific epistemology, however, these entities vary in both scope and purpose. For
+instance, laws are typically understood as generalized descriptions of some phenomenon
+with high predictive value but little explanatory power. Theories, in contrast, are conceptual
+frameworks that provide relatively high degrees of explanatory power and varying degrees
+of predictive value. For example, Boyle’s law provides a regular description of the relations
+between pressure, volume, and temperature in containers, while the relations are explained
+by kinetic molecular theory. There are other forms of scientific knowledge and its communication that might be considered epistemological entities and with which students should be
+familiar to fulfill social goals of science education. Besides theories, laws, and hypotheses,
+models are an important form of scientific knowledge. There are also rhetorical forms, such
+as explanations, predictions, and arguments that rely on these other epistemological forms
+to advance specific claims (e.g., using the theory of natural selection to explain the change
+in a bird population; Sandoval, 2003).
+Understanding forms of scientific knowledge seems to be an epistemological blind spot in
+standards documents and expert opinions that instead focus on scientific methods (McComas
+& Olson, 1998; Osborne et al., 2003). This is curious, since the value of methodologies, even
+the ways in which we might deem some methods as scientific and others not, is derived from
+the kinds of knowledge that they might produce. Methods are driven by epistemological
+goals: for example, controlling variables is driven by the goal to isolate causal relations.
+
+Forms of Scientific Knowledge.
+
+It is commonplace among NOS researchers
+to assert that a sophisticated epistemological viewpoint acknowledges that scientific knowledge is tentative (e.g., Lederman et al., 2002). This assertion smacks many the wrong way,
+
+Scientific Knowledge Varies in Certainty.
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+640
+
+641
+
+as if it implies an inescapable relativism: since scientific knowledge is not known to be
+absolutely true, then there is no particular reason to believe it. In their recent study, Osborne
+et al. (2003) provide a useful refinement of the tentativeness assertion---some claims are
+more tentative than others. For all practical purposes, the force of gravity is not a tentative
+idea; whereas string theory is quite tentative. Philosophically, there are many different ways
+of interpreting the sources of tentativeness: it could be due to our imperfect ability to comprehend the world; we could be inching closer and closer to some ultimately knowable truth;
+or we may simply be constructing our reality. It is not my aim to evaluate these positions,
+and I leave it to others to argue whether or not such philosophical debates ought to be part
+of science education.
+The importance of the notion that scientific knowledge varies in its degree of certainty for
+inquiry reforms is at least twofold. First, removal of absolute certainty decenters authority
+with respect to knowledge, from teachers toward students. Second, this decentering enables
+a more authentic consideration of the locus of authority of claims in terms of their ability
+to satisfy epistemological criteria. That is, the ultimate truth value of claims, scientific or
+otherwise, may be indeterminate and rely on what come down to philosophical axioms, but
+that does not mean that claims cannot be evaluated with respect to consensual standards.
+Some claims are better than others. An important instructional goal, therefore, is the recognition that current scientific ideas may change as new observations or new, competing ideas
+come to light. This changing nature of theories reflects the cultural, historical development
+of scientific theories (Duschl, 1990).
+Summary. These four broad epistemological themes are advanced as a minimal set of
+
+epistemological conceptions that students should know, because they directly impinge on
+how students are likely to perceive and pursue inquiry in the science classroom, and on what
+students might learn about nature of science through such inquiry. Although I have discussed
+them separately, they clearly interrelate in multiple ways. For example, the constructed
+nature of scientific knowledge is one of the sources of its uncertainty, and judgments about
+certainty are often grounded in evaluations of the methods used to generate the knowledge.
+In the next two sections I examine what two distinct lines of science education research,
+on nature of science beliefs and inquiry-based interventions, suggest students believe about
+these themes.
+
+THE (MIS)MEASURE OF EPISTEMOLOGICAL BELIEFS
+Students’ epistemological beliefs have been an object of study for more than half a
+century. Throughout that time there have been consistently dismal findings about students’
+understanding of the nature of science, accompanied by serious critiques of the methods
+used to assess such understanding. This section summarizes the conventional wisdom on
+students’ epistemological ideas about science, more commonly called nature of science. This
+summary is followed by a review of the major critiques leveled at NOS assessments over
+the last two decades, with a particular focus on recent research suggesting the fragmented
+and inconsistent nature of epistemological ideas.
+The Conventional Wisdom on Students’ Formal
+Epistemologies of Science
+Ideas of NOS have been reviewed several times recently (see Abd-El-Khalick &
+Lederman, 2000a; Driver et al., 1996; Lederman, 1992), so I will do so only briefly, to
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+summarize the problematic nature of this research. This area of research has a long history in science education, emerging shortly after the first inquiry-based reforms were being
+advocated in the late 1950s (e.g., Cooley & Klopfer, 1963; Kimball, 1967–1968). Despite
+a number of critiques, discussed below, the findings regarding students’ views of formal
+science are remarkably consistent. Assessments of formal science tend to ask students to
+express their opinions on the nature of scientific knowledge and activity, including questions
+about what scientists do, what theories are, how theories influence experimentation and vice
+versa, and so forth. The general picture from such studies is that students’ ideas about formal science follow a developmental trajectory toward increasing sophistication throughout
+adolescence (Driver et al., 1996; Leach et al., 1997; Mackay, 1971; Ryan & Aikenhead,
+1992), but tend to remain fairly naı̈ve through high school or even university instruction.
+In this summary, I focus here on studies that have explicitly asked students to describe
+their epistemological beliefs about science. In the next section, I will examine studies of
+practice, including interventions aimed at making instruction more authentically scientific,
+to explore the inferences about epistemological beliefs that can be drawn from that work.
+Science as Constructed. Through middle school, students do not readily acknowledge
+
+that scientific knowledge is constructed. Younger students tend to report that scientific
+knowledge resides directly in experimental results, whereas older students talk about ideas
+as being definitely right or wrong (Carey et al., 1989; Carey & Smith, 1993; Driver et al.,
+1996; Mackay, 1971; Ryan & Aikenhead, 1992). By high school, there is evidence that some
+students have developed notions that scientists construct models and theories (Driver et al.,
+1996; Lederman & O’Malley, 1990; Solomon, Scott, & Duveen, 1996). Students who have
+constructivist notions appear to have more productive science-learning strategies (Hammer,
+1994), and perform better in inquiry-oriented environments (Linn & Songer, 1993; Tobin,
+Tippins, & Hook, 1995; Windschitl & Andre, 1998).
+Epistemological assessments, whether surveys or interviews, routinely ask students to describe the purpose of experimentation or the relation between experimentation and theory, or prior ideas of some sort (Aikenhead, Fleming, & Ryan, 1987;
+Carey et al., 1989; Cooley & Klopfer, 1963; Lederman et al., 2002; Mackay, 1971; Ryan
+& Aikenhead, 1992; Smith et al., 2000). Still others ask students to evaluate experimental
+designs in terms of their capacity to test or discriminate between ideas (e.g., Driver et al.,
+1996; Koslowski, 1996; Kuhn et al., 1988; Leach et al., 2000; Linn & Songer, 1993), and
+then researchers draw inferences about how these evaluations reflect epistemological conceptions. Although some surveys have asked students to generally compare disciplines (e.g.,
+Rubba & Andersen, 1978), I know of no studies where diversity of scientific methodologies
+is an explicit topic.
+What the above studies and others show is that students at all age levels commonly have
+inarticulate ideas about the nature and role of scientific experimentation, and the relation
+between method and theory. Of course, given the authoritative, overly objective view of
+evidence promoted in typical science classrooms (Lemke, 1990) this is hardly surprising.
+Although Deanna Kuhn has argued that most children, and even lay adults, fail to distinguish
+between theories and evidence (Kuhn, 1993; Kuhn et al., 1988), a number of researchers
+have demonstrated that children as young as five (Sodian, Zaitchik, & Carey, 1991; Tschirgi,
+1980) and certainly older students, can in fact distinguish ideas from experiments designed
+to test those ideas (Carey & Smith, 1993; Chinn & Brewer, 1998; Koslowski, 1996; Sandoval
+& Morrison, 2003; Smith et al., 2000). The difficulty appears to be that students do not have
+a clear way to define “experiment” and struggle to talk about how they relate to testing or
+
+Methods of Science.
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+642
+
+643
+
+building ideas (Sandoval & Morrison, 2003), and younger children do not appear to know,
+without instruction, what experiments are for (Schauble et al., 1995).
+In sum, we do not yet know very much about how students think of the diversity of scientific methods, because assessments focus exclusively on experimentation as the method
+of generating scientific knowledge. What is known about students’ strategies of experimentation will be discussed below.
+Most students, even through high school, appear to
+believe that hypotheses, theories, and laws are related in a linear hierarchy from less to more
+proof. That is, hypotheses are guesses, theories are hypotheses supported by evidence, and
+laws have been irrefutably proven (Carey et al., 1989; Ryan & Aikenhead, 1992; Sandoval
+& Morrison, 2003; Smith et al., 2000). Students also seem to think of scientific models in
+a common everyday sense, as physical replicas of some aspect of the world, rather than
+conceptual systems for explaining phenomena (Grosslight et al., 1991). Overall, the effort
+in NOS research has been to help students understand the relation between theories and
+evidence, but there seems to be little explicit attention to what it means to have a theory about
+something, or how a theory differs from a law or a model. In the same way, the exclusive
+focus in NOS assessments on a vague notion of experimentation leaves the relationship
+between empirical methods and forms of knowledge undertheorized. As inquiry-oriented
+reforms are commonly framed around students’ construction of particular artifacts (see
+below), this epistemological blind spot may, in fact, represent an opportunity to ground
+epistemology in instruction.
+
+Forms of Scientific Knowledge.
+
+Through adolescence, most students seem to believe that scientific knowledge is, or at least can be, certain. Students talk about ideas as
+either being right or wrong. As instruction tends to focus on what Duschl (1990) calls “final
+form science,” divorcing ideas from their historical development, most students seem to
+believe that old ideas are simply wrong and replaced by newer ideas. For summaries, see
+the reviews by (Abd-El-Khalick & Lederman, 2000b; Driver et al., 1996; Lederman, 1992).
+This belief in the certainty of knowledge is supported in studies of personal epistemology
+(e.g., Baxter Magolda, 1992; Belenky et al., 1986; King & Kitchener, 1994; Perry, 1970).
+The question is whether or not students bring such beliefs to school, or whether school, and
+science education specifically, inculcates such beliefs.
+
+Certainty of Scientific Knowledge.
+
+Critiques of Epistemological Assessments
+Assessments of students’ scientific epistemologies have been critiqued on several
+grounds, and historically have made several questionable assumptions. Major problems
+are summarized here, although in-depth treatment of these issues can be found in the work
+cited below. My aim here is not simply to repeat these critiques, but to emphasize that
+historical problems with assessing students’ epistemological beliefs, what I am calling their
+formal epistemologies, has hampered not only our ability to characterize those beliefs but
+also efforts to develop these beliefs through instruction.
+Assumed Philosophical Positions. One of the first major critiques of the survey instru-
+
+ments that dominated studies of students’ beliefs about the nature of science through the
+mid-1980s was that such forced-choice instruments could not be assumed to unproblematically assess students’ beliefs (Aikenhead et al., 1987; Lederman & O’Malley, 1990). Rather,
+such assessments simply measured respondents’ level of agreement or fit with researchers’
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+predefined positions. Aikenhead and his colleagues used extensive interviews to develop a
+survey grounded in students’ own ideas (Aikenhead et al., 1987; Ryan & Aikenhead, 1992).
+This approach makes it more likely that students’ survey responses will more closely match
+their own ideas. On the other hand, as has been pointed out, students’ responses to various
+items were presumed to reflect particular philosophical positions (Lederman, Wade, & Bell,
+1998).
+One way out of the bind of assuming philosophical positions is to interview students or
+to combine interviews with surveys. Lederman and colleagues have developed an openended questionnaire that they supplement with interviews to clarify student positions on a
+variety of epistemological themes, and have used this approach in recent studies (Khishfe
+& Abd-El-Khalick, 2002; Lederman et al., 2002). So far, however, their approach has been
+to classify students’ epistemological views as either naı̈ve or informed, or in transition. Not
+surprisingly, most students on most themes get coded as having transitional views, which
+means neither obviously naı̈ve or clearly informed. It is not clear from these studies why
+this position reflects a transition toward anything, as opposed to simply a mix of ideas.
+Assumed Coherence of Beliefs. Following criticisms of the assumptions underlying
+
+survey instruments, some researchers have developed extensive interview protocols to characterize students’ epistemological ideas directly. These interviews generally do not assume
+particular formal philosophical positions, but they have assumed coherence of students’
+beliefs. Carey and Smith have pursued interview studies that allow for probing students’
+ideas, especially around theory and experimentation. They ascribe students’ beliefs to distinct levels of epistemological frameworks, characterized by the roles that ideas play in
+experimentation, the purpose of experimentation, and processes of theory change (Carey
+et al., 1989; Carey & Smith, 1993; Smith et al., 2000). At the simplest level, students do
+not distinguish between ideas and experiments, experiments directly give answers. At the
+second level, experiments test prior ideas, but ideas can be shown either definitively right or
+wrong. The third level represents what these researchers take to be a sophisticated Western
+scientific epistemology as sketched above. Their interview protocol, however, asks rather
+abstract questions about the nature of theories and the role of ideas in experimentation that
+children find rather difficult to answer (Sandoval & Morrison, 2003; Smith et al., 2000).
+Carey and Smith have also suggested that their model is developmental, that people progress
+through the three levels, but the evidence for this assertion is rather mixed, especially as
+no cross-age studies have been conducted with this interview and there are no published
+reports of anyone, in fact, holding what they consider a sophisticated, level 3 epistemology.
+Driver and her colleagues have developed a similar three-level scheme using an interview
+protocol that asks students to reason about particular situations, such as electric circuits
+(Driver et al., 1996; Leach et al., 1997). Their studies ask students to describe how they
+might test particular ideas or discriminate among competing ideas. Their scheme describes
+a developmental progression from elementary through high school, derived from their data.
+The simplest level they call phenomenon based, where the role of experiments is to make
+things happen; similarly to Carey and Smith’s level 1 epistemology. Driver and colleagues
+describe a second level that they call relation based, where experiments allow links between
+variables to be definitively established, with a strong sense that theory follows directly from
+evidence. At the third level, which they call model based, students display an understanding
+that science involves coherent theoretical frameworks, and the relation between theory and
+evidence becomes problematic. In their studies, this last level was rare and observed only
+in the oldest adolescents in their samples.
+The studies of Driver and colleagues make two important contributions to the study
+of scientific epistemologies. One is that students’ ideas are probed within problem-solving
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+644
+
+645
+
+contexts in which students have some knowledge upon which to draw. This is a very different
+context than simply asking students what they think theories are, for example. The second
+contribution is that their epistemological scheme is grounded in students’ actual ideas. At
+the same time, a limitation of this model, as with Carey’s and Smith’s, is that the labeling of
+broad frameworks appears to presume a stability or coherence to students’ epistemological
+ideas and obscures particulars of reasoning across contexts.
+There are a growing set of studies that suggest that students’ epistemological views of science are not stable coherent frameworks, but inconsistent, fragmented and possibly unstable
+beliefs. More recent studies using both Driver’s protocol (Leach et al., 2000) and Carey’s
+and Smith’s interview (Sandoval & Morrison, 2003) show inconsistency in students’ beliefs across contexts. In Leach et al.’s study, students’ responses to decontextualized and
+contextualized open-ended survey items that asked them to reason about the relation between theory and data were found to be inconsistent across the two contexts. Sandoval and
+Morrison interviewed a sample of high school students before and after a month-long intervention and found both that individual students’ responses to different questions reflected
+different epistemological levels, and that student responses were not stable across interviews (or predictable). There are other studies showing that students often hold inconsistent
+views of the nature of science that show up in different contexts (Hammer, 1994; Roth &
+Roychoudhury, 1994; Solomon, Duveen, & Scott, 1994). There is also indirect evidence
+for fragmented epistemological beliefs from those studies that have been unable to assign
+large portions of students to a single epistemological “type” (Carey et al., 1989; Khishfe &
+Abd-El-Khalick, 2002; Linn & Songer, 1993).
+EPISTEMOLOGY AS SEEN THROUGH PRACTICE
+Several researchers have argued recently that it may be more useful to look at student
+practices to understand epistemological beliefs. Hogan (2000) has suggested that students’
+ideas about themselves as science learners are more likely to influence their efforts to learn
+science than their ideas about a distant formal science. Similarly, Lederman and colleagues
+suggest in their critique of NOS assessments that studies of practice are likely to produce
+more accurate inferences about students’ beliefs about what science is and how it is done
+(Lederman et al., 1998). These are both important points, but there remain two problems
+with studying only students’ science practices, for all the good that it can do. First, much of
+the practice to look at is so obviously school science and so unlike professional science that
+we have no real hope to expect that students would develop robust epistemologies of science,
+or that we could study anything other than epistemologies of school science. Second, even
+studies that look at students’ practices in detail have to make quite speculative inferences
+on how students interpret the purposes of their activity (cf., Sandoval & Morrison, 2003).
+Kelly in particular has argued that the focus of research should be on students’ sensemaking practices, either through traditional or inquiry-oriented instruction (Kelly, Chen, &
+Crawford, 1998; Kelly & Duschl, 2002). Certainly, the development of certain practices that
+can be labeled as scientific is a main goal of recent reforms. Kelly’s perspective on science
+is strongly influenced by science and technology studies (STS), which argue that practice is
+the only thing, or main thing, that matters because science is a practice. Yet, most students
+will not really engage in science as a practice. Rather, as citizens they must be able to reflect
+upon scientific knowledge claims as they relate to personal or policy decisions. It is far from
+clear that simply engaging in practices of authentic science leads to such reflective ability.
+In fact, available evidence suggests that this is unlikely (Khishfe & Abd-El-Khalick, 2002;
+Linn & Songer, 1993; Meichtry, 1992; Sandoval & Morrison, 2003; Windschitl & Andre,
+1998).
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+Studies of practice in themselves do not provide enough of a window onto students’
+epistemological ideas about science, because there are many possible ideas that might
+motivate particular practices. More to the present argument, studies of students’ practices of
+science have rarely attended to epistemological issues. At the same time, there is an extensive
+body of research aimed at understanding students’ abilities at scientific inquiry, or to improve
+those abilities. This research supports in some ways the research on epistemological beliefs
+in science (NOS), and in other ways draws it into question.
+Inquiry and Epistemological Beliefs
+Since the long-running research on inquiry has paid little explicit attention to epistemological issues, it is not always clear how such research maps onto the core epistemological
+ideas laid out above. Explicit assessments of the effects of inquiry interventions on students’
+epistemological beliefs generally show no change (Linn & Songer, 1993; Meichtry, 1992;
+Sandoval & Morrison, 2003). There are two notable exceptions to this. One study of 6th
+graders’ epistemological beliefs showed atypically sophisticated ideas about the nature of
+science in students who had been taught in a consistently inquiry-oriented way for their
+entire elementary career (Smith et al., 2000). Another study with 6th graders compared
+inquiry-oriented approaches coupled with implicit or explicit attention to epistemological
+issues (Khishfe & Abd-El-Khalick, 2002). They found that about half of the students in
+the explicit condition made measurable changes in epistemological beliefs after a threemonth intervention, with no change in the implicit condition. The evidence to date then is
+that inquiry in itself is insufficient to change students’ formal epistemologies. At the same
+time, students’ practices of inquiry as they have been studied shed some light on the core
+epistemological ideas described above.
+Science as Constructed. There is some evidence that students with more constructivist
+
+beliefs about scientific knowledge tend to learn more from inquiry-oriented instruction
+(Hammer, 1994; Songer & Linn, 1991; Windschitl & Andre, 1998). In his study, Hammer
+repeatedly interviewed six students throughout a university physics course. He found that the
+few students who conceived of physics as a set of coherent ideas that had been constructed
+over time tended to pursue learning strategies that emphasized their own construction of
+meaning of physics principles. In contrast, those students who saw physics as simply a
+collection of discovered “facts” tended to try to memorize those facts without understanding
+them. Songer and Linn found that the 8th grade students who began their inquiry unit with a
+view that science is dynamic and constructed were more likely to learn the target principles
+about heat and temperature than students who saw science as an unchanging, “static”
+collection of facts.
+There is certainly compelling evidence that students can construct scientific knowledge
+for themselves. A range of studies spanning students from elementary through high school
+have used guided inquiry approaches to help students construct Newtonian laws of motion
+(White, 1993; White & Frederiksen, 1998), principles of heat and temperature (Linn &
+Songer, 1993), biomechanical models of the elbow (Penner, Lehrer, & Schauble, 1998),
+explanations of natural selection (Reiser et al., 2001), and causal models of stream quality
+(Jackson et al., 1994), to cite only some examples. While these interventions engage students
+in constructing particular artifacts of scientific knowledge, none of these studies asked
+students to reflect on the epistemological status of the knowledge they were making, except
+implicitly. That is, in all of these studies, students generally engaged in repeated efforts
+to evaluate their emerging knowledge in relation to data they were presented or generated
+themselves. Making such evaluations is inherently epistemological, drawing on students’
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+646
+
+647
+
+ideas about what counts as good evidence in a particular situation, as well as how to decide
+when enough evidence is available to support or refute a claim. Thus, while students in
+these studies construct knowledge, they are not engaged in reflecting upon the constructed
+nature of that knowledge. Consequently, it remains unclear whether or not most students see
+themselves as constructing knowledge, scientific or otherwise, as opposed to discovering
+or receiving knowledge.
+Parallel to assessments of students’ beliefs about methods of science, research on students’ own practices of science has focused almost exclusively on
+strategies of experimentation. This work was extensively reviewed recently by Zimmerman
+(2000). There are several findings from this line of research, but from an epistemological
+perspective a key finding is that the goals that subjects pursue affect investigative strategies.
+In school, students appear to view the purpose of experiments as generating particular effects
+(e.g., Reif & Larkin, 1991; Schauble et al., 1995). When subjects pursue goals to generate
+explanations rather than simply verify given hypotheses, for example, they are more systematic in their investigation (Dunbar, 1993). Providing scaffolds to support explanatory
+goals seems to encourage epistemic monitoring of investigation, students strategically seek
+data to generate new or verify prior causal claims (Sandoval & Reiser, 2004). Schauble
+and colleagues showed that elementary students could learn that experiments were tests
+of causal conjectures, but this knowledge did not necessarily help them to design or conduct more effective experiments. This finding underscores the importance of conceptual
+knowledge in particular domains to generating ideas about what important causal variables
+might be (see Zimmerman). Still, these studies do not illuminate how students perceive the
+purpose of their own activity, including whether or not they see such work as a particular
+form of school activity or as a scientific activity.
+
+Methods of Science.
+
+Several recent efforts in science education have built
+curricula around students’ construction or articulation of laws (White & Frederiksen, 1998),
+models (Jackson et al., 1994; Stewart et al., 1992), and various forms of argument (Bell &
+Linn, 2000; Kelly & Takao, 2002; Sandoval & Reiser, 2004; Toth et al., 2002). These efforts
+typically engage students in considerations of what makes a good law, model, or argument.
+As such, these studies tend to raise, at least implicitly, epistemological issues. On the other
+hand, such work has rarely, if at all, contrasted multiple forms of scientific knowledge.
+For example, I know of no studies where students have explored the differences between a
+theory and a law, or a theory and a model. Work in the BGuILE project implicitly tried to
+link explanations for particular phenomena to the theories from which such explanations
+could be generated (Reiser et al., 2001; Sandoval & Reiser, 2004), but the epistemological
+relations between theories and explanations derived from them were not made explicit, and
+it is not clear how students perceived this connection.
+There is a good deal of research on ways in which students attempt to coordinate claims
+and evidence. Some of this work comes from laboratory-based cognitive science research
+(see Zimmerman, 2000), and some from studies of argumentation in classrooms (e.g., Bell
+& Linn, 2000; deVries, Lund, & Baker, 2002; Jiménez-Aleixandre, Rodrı́guez, & Duschl,
+2000; Kelly, Druker, & Chen, 1998; Kelly & Takao, 2002; Warren & Rosebery, 1996). This
+emerging line of research on students verbal or written argumentation has tended to focus
+on analyzing the structure of students’ arguments in terms of the argumentative moves that
+arguers make.
+Students do seem generally capable of differentiating the epistemic role of claims and
+evidence. At the same time, these studies suggest that students see data as almost literally
+
+Forms of Scientific Knowledge.
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+self-evident, which seems to contradict that ability to differentiate data from the claims they
+support. Studies of argumentation practices, in themselves, seem unlikely to untangle this
+contradiction, if only because they demand researchers to make very high level inferences
+about students’ intentions.
+There does not appear to be any evidence from
+inquiry-oriented interventions to contradict the finding from NOS studies that the vast majority of students believe that scientific knowledge can be shown definitively right or wrong.
+The single exception to this might be Smith’s and colleagues study of sixth graders epistemological beliefs after six years of consistently inquiry-based instruction from the same
+teacher (Smith et al., 2000). The students in this classroom had much more sophisticated
+ideas about the nature of scientific knowledge than did comparison students, and some were
+beginning to recognize that scientific knowledge is socially constructed and tentative in various ways. At least part of the reason for this seems to be that their teacher engaged them in
+repeated, explicit discussions of epistemological issues throughout their science instruction
+in first through sixth grade. The case is so unusual, however, that the main message appears
+to be that students at this age can develop sophisticated epistemological ideas, at least after
+six years of epistemologically explicit science instruction.
+
+Certainty of Scientific Knowledge.
+
+PRACTICAL EPISTEMOLOGIES: LINKING PRACTICES TO BELIEFS
+This review raises three questions about students’ scientific epistemologies and their development. First, the nature of epistemological conceptions, fragmented beliefs or coherent
+frameworks, remains unclear. Second, the specific epistemological beliefs that guide students’ practices are largely unknown. Third, the relation of these practical epistemologies
+and students’ expressed epistemological beliefs about formal science are not well articulated. Given the discrepancy between what students seem able to do during inquiry and
+the difficulty they have in articulating epistemological aspects of formal science, it seems
+more likely that epistemological beliefs are contextualized rather than coherent frameworks
+(cf., Hammer & Elby, 2002). Pursuing the practical epistemology agenda will help to discriminate between the contextualized and frameworks views, because if particular beliefs
+recur in particular patterns, then one could argue for coherence. In any case, the pursuit of
+practical epistemological beliefs will provide a rich catalogue of observed conceptions, not
+presumptions about what people think about a science that they do not know.
+Defining Practical Epistemologies
+Earlier, I defined practical epistemology to refer to the set of beliefs that students have
+about their own knowledge production in school science---the epistemological beliefs that
+guide practice. These are beliefs about what knowledge is, the methods through which
+knowledge can be produced, and the criteria for evaluating knowledge claims. To refer to
+practical epistemologies as beliefs may be read to imply that they are coherent, explicit
+belief frameworks. The evidence summarized to this point suggests that this is probably
+not the case for most people; they may very well not be coherent and they are probably
+tacit. They are reflected in the epistemic decisions people make during the construction and
+evaluation of scientific knowledge. The research goal is to document the epistemological
+beliefs that justify, again either tacitly or explicitly, epistemic decisions.
+For example, recent studies of students’ written argumentation show various ways in
+which students assert claims and refer to various forms of evidence to support those claims
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+648
+
+649
+
+(e.g., Bell & Linn, 2000; Kelly & Takao, 2002; Sandoval & Millwood, 2005). These
+studies and others like them have yet to document the reasons students do what they do.
+How do students decide when they have enough evidence for a claim? How do students
+decide when some data need to be explained, but others do not? Conversely, when students
+are asked to reflect on scientific epistemological issues, like the relations between theory
+and experimentation, they do not draw upon their own inquiry experiences (Sandoval &
+Morrison, 2003). Understanding the practical epistemological beliefs that guide how students answer these kinds of questions for themselves is an important need to link school
+inquiry to epistemological development.
+Hammer and Elby (2002) have proposed a theoretical framework that sees epistemological conceptions as a loose collection of “resources” that get triggered in different contexts.
+These resources include notions about the nature of knowledge, such as “knowledge is
+stuff,” as well as ways of gaining knowledge, e.g., “memorize.” The program of research
+that might definitely document such resources and the circumstances under which they are
+triggered remains nascent. Moreover, general notions like “knowledge is stuff,” while they
+certainly entail certain consequences for practice (such as knowledge can be given and
+received), do not account for possible disciplinary differences in epistemological frameworks. Also, framing learning strategies like “memorize” as epistemological “resources”
+propagates the conflation of beliefs about knowledge with beliefs about or strategies for
+learning. The notion of practical epistemologies I suggest here is similar to the resources
+view, but probably narrower. For the moment, it seems fruitful to focus on specific forms of
+knowledge construction, like scientific inquiry, and develop a grounded theory of practical
+epistemological beliefs.
+A Research Agenda on Practical Epistemologies
+Understanding just what epistemological ideas guide students’ practice, their practical
+epistemologies, requires linking ongoing research on students’ practices of inquiry to the
+independent line of work on formal epistemological beliefs (NOS research). Calls for such
+a link have been made before (Kelly, Chen et al., 1998; Lederman et al., 1998), but little has
+yet been done. Here I lay out six aspects of a research program for documenting practical
+epistemologies and tracing their links to formal epistemologies.
+In order to understand the practical epistemological beliefs that students bring to bear in making sense of science, the practices of students
+that require study are those that are authentically scientific. Authenticity in this case means
+particularly that students must be engaged in using scientific methods to construct scientific
+knowledge. That is, they should be doing scientific inquiry. The epistemic practices of typical science instruction have been well documented (e.g., Lemke, 1990). More studies of such
+practice are unlikely to illuminate the practical epistemological beliefs that are potentially
+related to formal epistemological beliefs. This point hopefully does not need belaboring,
+but it is a necessary condition for the remaining features of renewed epistemological studies
+in science education.
+
+Study Authentic Scientific Practice.
+
+Examine Students’ Practical Epistemological Ideas. Studies of authentic science
+
+practice as exemplified through students’ inquiry should be accompanied by examinations of students’ own perspectives on that practice. This is in contrast to recent studies
+that examine students’ formal epistemological conceptions in connection with inquiry interventions (e.g., Khishfe & Abd-El-Khalick, 2002; Linn & Songer, 1993; Meichtry, 1992;
+Sandoval & Morrison, 2003; Windschitl & Andre, 1998). Uncovering students’ practical
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+epistemological ideas requires interrogating their perceptions of their own inquiry experiences. There are at least two aspects of students’ inquiry practices that can be explored to
+discover students’ practical epistemologies: the artifacts that students generate from their
+inquiry, and the discourse they have as they construct and evaluate these artifacts.
+For example, recent studies of students’ written arguments in both high school (Bell &
+Linn, 2000; Sandoval & Millwood, 2005) and college (Kelly & Takao, 2002) have generated
+interesting insights into students’ practices of making claims and linking them to evidence.
+These studies show that written artifacts capture important facets of students’ epistemic (i.e.,
+knowledge-making) practices. Yet, in these studies no data were collected from students on
+their understanding of the epistemic or rhetorical demands that they were trying to fulfill.
+These and other studies of practice (e.g., Goldman et al., 2003), while they can tell us much
+about that practice, are insufficient to illuminate the epistemological goals or criteria that
+students pursue during their practice.
+A fruitful approach would be for researchers to develop interview protocols designed to
+elicit students’ articulation of their reasoning behind epistemologically salient decisions. In
+the studies by Sandoval or Takao and Kelly, for example, students could have been asked
+to explain the sources of their belief in the claims they made, their reasons for selecting
+the evidence that they did, how they decided what to write and what not to write, and so
+forth. What seems important about this approach is that it is grounded in students’ actual
+work, not their perceptions of the motives behind someone else’s work or a type of work,
+professional science, that they have no experience with.
+Besides the artifacts constructed through inquiry, another crucial aspect of student practice
+to interrogate is the discourse students engage in as they inquire and construct knowledge
+artifacts. The power of discourse to shape students’ epistemic practices has been shown in
+other studies (e.g., Rosebery, Warren, & Conant, 1992). There is much in the dialogue of
+students’ collaborative inquiry that does not show up in their constructed artifacts. In terms
+of understanding students’ practical epistemologies, what gets left out is at least as important
+as what gets included. Studies of discourse alone, however, suffer a similar limitation to
+studies of artifacts: they demand high levels of inference about why students say what they
+say. One way to elicit such information would be to conduct prompted recall interviews
+with students using videotapes of their inquiry. Researchers could identify epistemologically
+salient episodes and ask students to articulate why they made certain decisions at particular
+points. Alternatively, students could be asked to point out what they perceived as the crucial
+events in their investigations and to explain why.
+It might be objected that such techniques as interviews or video-prompted recall are too
+labor-intensive or expensive. It is true that such methods are probably prohibitive on any
+large scale. I would argue, however, that at this point close analysis of student thinking is the
+most fruitful path toward the development of instruments that can be applied at larger scale.
+Otherwise, we are likely to repeat the methodological flaws already raised about nature of
+science research.
+Explore Relations Between Classroom Discourse and Individual Epistemologies.
+
+The few studies that have documented sophisticated expressions of epistemological beliefs
+have relied on instruction that makes epistemology an explicit topic of classroom discourse (Khishfe & Abd-El-Khalick, 2002; Smith et al., 2000). Still, the relations between
+students’ epistemological beliefs and broader classroom discursive practices are not well
+understood. Rosebery and colleagues traced 6th grade students development of argumentation discourse over the course of a school year (Rosebery et al., 1992), but did not explicitly
+assess individual students’ epistemological beliefs. The more recent studies by Khishfe
+and Abd-El-Khalick and Smith and her colleagues provide evidence of the changes in (at
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+650
+
+651
+
+least some) students’ beliefs, but do not provide substantial descriptions of the discursive
+practices that contributed to this change.
+We need to understand how learners’ participation in forms of discursive practice elicit
+and change their epistemological ideas. Making this link requires detailed observation and
+rich analysis of classroom interaction. For instance, using video to prompt recall of the
+epistemic goals being pursued during a particular class discussion. This approach seems
+difficult, as interaction analyses require so much time as to make it highly likely that relevant
+episodes would be identified only long after the end of an intervention. On the other hand,
+retrospective analyses of interaction could potentially trace how epistemological ideas get
+raised and subsequently propagated through the class (like the description of the spread of
+probability concepts through a math class described by Enyedy, 2003).
+From the research on scientific epistemology and on classroom inquiry summarized
+above, one could also hypothesize particular discursive strategies that should lead to epistemological change and test these in classrooms (e.g., Khishfe & Abd-El-Khalick, 2002).
+In this case, discourse analysis could supplement assessments of individual students to
+identify potential relations between class discussions and epistemological change. It is also
+quite likely that organizing classroom discussions around epistemological issues, highly uncommon in most science classrooms, would itself elicit students’ practical epistemological
+beliefs.
+Compare Practical and Formal Epistemologies. Given the critiques summarized
+
+earlier about assessments of scientific epistemologies, one might wonder why even bother
+to attempt to assess them at all. Perhaps the most compelling reason is that they remain
+an ultimate goal of science education. So, there must be some way to determine whether
+students’ instructional experiences help them develop formal epistemological frameworks.
+At the moment, however, even the best assessment instruments for formal epistemologies
+(e.g., Lederman et al., 2002) leave much to be desired. The questions asked are usually
+quite abstract (e.g.,. “What is an experiment?”) and students’ responses are both terse and
+ambiguous as to make reliable interpretation extremely difficult. One of the benefits of
+an aggressive research program on practical epistemological conceptions is that it might
+actually improve the development of such research instruments. When asked about their
+own practice, students are more likely to express ideas that researchers recognize as epistemologically relevant and can then probe more deeply.
+A research program focused on documenting practical epistemologies should be carried
+out with an eye toward developing models of how such contextualized beliefs about practice
+can potentially be organized into more coherent, formal epistemological frameworks. Practical epistemological beliefs can be assessed in the ways just described and compared to
+assessments of formal beliefs. This might be done by asking students to explicitly compare
+their own work to the work of scientists, eliciting students’ perceptions of that relationship.
+It could also be done by using students’ articulated practical epistemologies to refine assessments of formal epistemologies, and vice versa. The claim here is definitely not that
+we know nothing of students’ epistemological beliefs, just that what we know about are
+their beliefs about formal science, and not necessarily about the scientific work that they
+do themselves.
+Examine Practical and Formal Epistemologies Across Disciplines. Given the ap-
+
+parently fragmented nature of epistemological ideas, as described earlier, and evidence
+suggesting that epistemological conceptions are domain dependent (Kuhn, Cheney, &
+Weinstock, 2000; Schommer et al., 1997), any comprehensive research agenda on practical epistemologies must span disciplines. Indeed, there are reasons to believe that
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+epistemological commitments among scientific disciplines vary (e.g., Mayr, 1988). It is
+almost certainly the case that epistemological criteria and goals vary across broader disciplines such as science, math, and history. Indeed, in laying out his formal structure for
+analyzing arguments, Toulmin (1958) was careful to point this out. In many ways, this seems
+the most difficult aspect of this proposed research agenda to carry out, because it relies on
+collaboration among researchers from various disciplinary homes that is rare in educational
+research. Yet, from a psychological perspective, such a cross-disciplinary program of research could be extremely fruitful to the extent that it informs theories of epistemological
+development. The general approach laid out above, to study practice, including discourse
+and artifacts, and to compare practices and beliefs about practices, seems to generally apply.
+If the cross-disciplinary study of practical
+epistemologies is thought of as the lateral dimension, then within disciplines practical
+epistemologies also need to be studied developmentally, longitudinally. In science education, the study of epistemological beliefs (NOS) has been carried out across grade levels,
+as discussed above. There have also been studies of practice across age levels, although
+this work appears at the moment to be much less systematic. Consequently, the general
+developmental trend in formal scientific epistemological beliefs is known, even though the
+details and the mechanisms are not. On the other hand, there are no clear developmental
+trends from the research on inquiry. This is at least partially attributable to the difficulty in
+arranging comparable inquiry experiences across grade levels. What investigations make
+sense for both 5 and 15 year olds to do, for instance? Still, studies of practical epistemologies can be carried out both cross-sectionally and longitudinally with the expectation that,
+over time, results would accumulate in a way to enable developmental trajectories to be
+established. The pursuit of this aspect may require that easily used, validated instruments
+for assessing practical epistemologies be developed to support such studies.
+
+Study Epistemologies Developmentally.
+
+CONCLUSIONS
+My aim in this paper has been to lay out an agenda for studying epistemology in science
+education in ways that can couple students’ epistemological development to their practices
+of inquiry. My assumption is that sophisticated scientific epistemologies are critical to full
+democratic participation in the 21st century, as science increasingly pervades aspects of daily
+life and public policy. The review that I have presented here suggests that students reveal
+through their practice of inquiry in school both productive and unproductive epistemological
+resources that can be capitalized on. At the same time, methods for studying students’
+epistemological beliefs about science have largely ignored these resources because these
+methods have focused on students’ beliefs about a distant professional science. The approach
+outlined here is to more explicitly tie these two lines of research together, to understand
+students’ practical epistemologies and to connect them to conceptions of formal science.
+I am certain that there are other fruitful methods for doing so than I have outlined here,
+and also that efforts to make this connection between practical and formal epistemologies
+will enrich our understanding of epistemological development not just in science, but more
+broadly.
+I am grateful to many people for discussions of epistemology over the past few years, whether they
+know it or not, especially Noel Enyedy, Andy diSessa, Philip Bell, David Hammer, Carol Smith, and
+Mike Rose. I thank Richard Duschl and two anonymous reviewers for comments on an earlier version
+of this paper and Costas Constantinou for his generosity in helping me work out these ideas through
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+652
+
+653
+
+an address to the 6th International Conference on Computer-Based Learning in Science in Nicosia,
+Cyprus, July 2003.
+
+REFERENCES
+AAAS. (1993). Benchmarks for science literacy. Oxford: Oxford University Press.
+Abd-El-Khalick, F., & Lederman, N. G. (2000a). Improving science teachers’ conceptions of nature of science:
+A critical review of the literature. International Journal of Science Education, 22(7), 665 – 701.
+Abd-El-Khalick, F., & Lederman, N. G. (2000b). The influence of history of science courses on students’ views
+of nature of science. Journal of Research in Science Teaching, 37(10), 1057 – 1095.
+Aikenhead, G. S., Fleming, R. W., & Ryan, A. G. (1987). High-school graduates’ beliefs about science-technologysociety, I. Methods and issues in monitoring student views. Science Education, 71(2), 145 – 161.
+Baxter Magolda, M. B. (1992). Knowing and reasoning in college. San Francisco, CA: Jossey-Bass.
+Bazerman, C. (1988). Shaping written knowledge: The genre and activity of the experimental article in science.
+Madison, WI: University of Wisconsin Press.
+Belenky, M. F., Clinchy, B. M., Goldberger, N. R., & Tarule, J. M. (1986). Women’s ways of knowing: The
+development of self, voice, and mind. New York: Basic Books.
+Bell, P., & Linn, M. C. (2000). Scientific arguments as learning artifacts: Designing for learning from the web
+with KIE. International Journal of Science Education, 22(8), 797 – 817.
+Bruner, J. S. (1961). The act of discovery. Harvard Educational Review, 31(1), 21 – 32.
+Carey, S., Evans, R., Honda, M., Jay, E., & Unger, C. (1989). “An experiment is when you try it and see if it
+works”: A study of grade 7 students’ understanding of the construction of scientific knowledge. International
+Journal of Science Education, 11, 514 – 529.
+Carey, S., & Smith, C. (1993). On understanding the nature of scientific knowledge. Educational Psychologist,
+28(3), 235 – 251.
+Chinn, C. A., & Brewer, W. F. (1998). An empirical test of a taxonomy of responses to anomalous data in science.
+Journal of Research in Science Teaching, 35(6), 623 – 654.
+Chinn, C. A., & Malhotra, B., A. (2002). Epistemologically authentic inquiry in schools: A theoretical framework
+for evaluating inquiry tasks. Science Education, 86, 175 – 218.
+Cooley, W., & Klopfer, L. (1963). The evaluation of specific educational innovations. Journal of Research in
+Science Teaching, 1(1), 73 – 80.
+deVries, E., Lund, K., & Baker, M. (2002). Computer-mediated epistemic dialogue: Explanation and argumentation
+as vehicles for understanding scientific notions. Journal of the Learning Sciences, 11(1), 63 – 103.
+Dewey, J. (1900/1990). The school and society. Chicago, IL: University of Chicago Press.
+Driver, R., Leach, J., Millar, R., & Scott, P. (1996). Young people’s images of science. Buckingham: Open
+University Press.
+Driver, R., Newton, P., & Osborne, J. (2000). Establishing the norms of scientific argumentation in classrooms.
+Science Education, 84, 287 – 312.
+Dunbar, K. (1993). Concept discovery in a scientific domain. Cognitive Science, 17, 397 – 434.
+Duschl, R. A. (1990). Restructuring science education: The importance of theories and their development.
+New York: Teachers College Press.
+Duschl, R. A., & Osborne, J. (2002). Supporting and promoting argumentation discourse in science education.
+Studies in Science Education, 38, 39 – 72.
+Enyedy, N. (2003). Knowledge construction and collective practice: At the intersection of learning, talk, and
+social configurations in a computer-mediated mathematics classroom. Journal of the Learning Sciences, 12(3),
+361 – 407.
+Goldman, S. R., Duschl, R. A., Ellenbogen, K., Williams, S. M., & Tzou, C. (2003). Science inquiry in a digital
+world: Possibilities for making thinking visible. In V. Oostendorp (Ed.), Cognition in a digital world (pp. 253 –
+281). Mahwah, NJ: Erlbaum.
+Grosslight, L., Unger, C., Jay, E., & Smith, C. L. (1991). Understanding models and their use in science: Conceptions of middle and high school students and experts. Journal of Research in Science Teaching, 28(9),
+799 – 822.
+Hammer, D. (1994). Epistemological beliefs in introductory physics. Cognition and Instruction, 12(2), 151 –
+183.
+Hammer, D., & Elby, A. (2002). On the form of a personal epistemology. In B. K. Hofer & P. R. Pintrich (Eds.),
+Personal epistemology: The psychology of beliefs about knowledge and knowing (pp. 169 – 190). Mahwah,
+NJ: Erlbaum.
+Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories: Beliefs about knowledge and
+knowing and their relation to learning. Review of Educational Research, 67(1), 88 – 140.
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+Hofer, B. K., & Pintrich, P. R. (Eds.). (2002). Personal epistemology: The psychology of beliefs about knowledge
+and knowing. Mahwah, NJ: Erlbaum.
+Hogan, K. (2000). Exploring a process view of students’ knowledge about the nature of science. Science Education,
+84(1), 51 – 70.
+Jackson, S. L., Stratford, S. J., Krajcik, J., & Soloway, E. (1994). Making dynamic modeling accessible to precollege
+science students. Interactive Learning Environments, 4(3), 233 – 257.
+Jiménez-Aleixandre, M. P., Rodrı́guez, A. B., & Duschl, R. A. (2000). “Doing the lesson” or ”doing science”:
+Argument in high school genetics. Science Education, 84, 757 – 792.
+Kelly, G. J., Chen, C., & Crawford, T. (1998). Methodological considerations for studying science-in-the-making
+in educational settings. Research in Science Education, 28(1), 23 – 49.
+Kelly, G. J., Druker, S., & Chen, C. (1998). Students’ reasoning about electricity: Combining performance assessments with argumentation analysis. International Journal of Science Education, 20(7), 849 – 871.
+Kelly, G. J., & Duschl, R. A. (2002). Toward a research agenda for epistemological studies in science education,
+Paper presented at the Annual Meeting of NARST 2002, New Orleans, LA.
+Kelly, G. J., & Takao, A. (2002). Epistemic levels in argument: An analysis of university oceanography students’
+use of evidence in writing. Science Education, 86, 314 – 342.
+Khishfe, R., & Abd-El-Khalick, F. (2002). Influence of explicit and reflective versus implicit inquiry-oriented
+instruction on sixth graders’ views of nature of science. Journal of Research in Science Teaching, 39(7), 551 –
+578.
+Kimball, M. E. (1967-1968). Understanding the nature of science: A comparison of scientists and science teachers.
+Journal of Research in Science Teaching, 5, 110 – 120.
+King, P. M., & Kitchener, K. S. (1994). Developing reflective judgment. San Francisco, CA: Jossey-Bass.
+Kitcher, P. (1991). Persuasion. In M. Pera & W. R. Shea (Eds.), Persuading science: The art of scientific rhetoric
+(pp. 3 – 27). Canton, MA: Science History Publications.
+Klahr, D., Dunbar, K., & Fay, A. L. (1990). Designing good experiments to test bad hypotheses. In J. Shrager
+& P. Langley (Eds.), Computational models of scientific discovery and theory formation (pp. 355 – 401). San
+Mateo, CA: Morgan Kaufman.
+Kolstø, S. D. (2001). Scientific literacy for citizenship: Tools for dealing with the science dimension of controversial
+socioscientific issues. Science Education, 85, 291 – 310.
+Koslowski, B. (1996). Theory and evidence: The development of scientific reasoning. Cambridge, MA: MIT Press.
+Krajcik, J., Blumenfeld, P. C., Marx, R. W., Bass, K. M., & Fredricks, J. (1998). Inquiry in project-based science
+classrooms: Initial attempts by middle school students. Journal of the Learning Sciences, 7(3&4), 313 – 350.
+Kuhn, D. (1993). Science as argument: Implications for teaching and learning scientific thinking. Science Education, 77(3), 319 – 337.
+Kuhn, D., Amsel, E., & O’Loughlin, M. (1988). The development of scientific thinking skills. San Diego, CA:
+Academic.
+Kuhn, D., Cheney, R., & Weinstock, M. (2000). The development of epistemological understanding. Cognitive
+Development, 15, 309 – 328.
+Leach, J., Driver, R., Millar, R., & Scott, P. (1997). A study of progression in learning about ‘the nature of science’:
+Issues of conceptualisation and methodology. International Journal of Science Education, 19(2), 147 – 166.
+Leach, J., Millar, R., Ryder, J., & Séré, M.-G. (2000). Epistemological understanding in science learning: The
+consistency of representations across contexts. Learning and Instruction, 10, 497 – 527.
+Lederman, N. G. (1992). Students’ and teachers’ conceptions of the nature of science: A review of the research.
+Journal of Research in Science Teaching, 29(4), 331 – 359.
+Lederman, N. G., Abd-El-Khalick, F., Bell, R. L., & Schwartz, R. S. (2002). Views of nature of science questionnaire: Toward valid and meaningful assessment of learners’ conceptions of nature of science. Journal of
+Research in Science Teaching, 39(6), 497 – 521.
+Lederman, N. G., & O’Malley, M. (1990). Students’ perceptions of tentativeness in science: Development, use,
+and sources of change. Science Education, 74(2), 225 – 239.
+Lederman, N. G., Wade, P. D., & Bell, R. L. (1998). Assessing the nature of science: What is the nature of our
+assessments? Science & Education, 7, 595 – 615.
+Lemke, J. L. (1990). Talking science: Language, learning, and values. Norwood, NJ: Ablex.
+Linn, M. C., & Songer, N. B. (1993). How do students make sense of science? Merrill-Palmer Quarterly, 39(1),
+47 – 73.
+Mackay, L. D. (1971). Development of understanding about the nature of science. Journal of Research in Science
+Teaching, 8(1), 57 – 66.
+Mayr, E. (1988). Toward a new philosophy of biology. Cambridge, MA: Harvard University Press.
+McComas, W. F. (1996). Ten myths of science: Reexamining what we think we know about the nature of science.
+School Science and Mathematics, 96, 10 – 16.
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+654
+
+655
+
+McComas, W. F., & Olson, J. K. (1998). The nature of science in international science education standards
+documents. In W. F. McComas (Ed.), The nature of science in science education: Rationales and strategies
+(pp. 41 – 52). Dordrecht: Kluwer.
+Meichtry, Y. J. (1992). Influencing student understanding of the nature of science: Data from a case of curriculum
+development. Journal of Research in Science Teaching, 29(4), 389 – 407.
+NRC. (1996). National science education standards. Washington, DC: National Academy Press.
+NRC. (2000). Inquiry and the national science education standards: A guide for teaching and learning. Washington,
+DC: National Academy Press.
+Osborne, J., Collins, S., Ratcliffe, M., Millar, R., & Duschl, R. A. (2003). What “ideas-about-science” should be
+taught in school science? A Delphi study of the expert community. Journal of Research in Science Teaching,
+40(7), 692 – 720.
+Penner, D., Lehrer, R., & Schauble, L. (1998). From physical models to biomechanics: A design-based modeling
+approach. Journal of the Learning Sciences, 7(3&4), 429 – 449.
+Perry, W. G., Jr. (1970). Forms of intellectual and ethical development in the college years. New York: Holt,
+Rinehart & Winston.
+Reif, F., & Larkin, J. H. (1991). Cognition in scientific and everyday domains: Comparison and learning implications. Journal of Research in Science Teaching, 28(9), 733 – 760.
+Reiser, B. J., Tabak, I., Sandoval, W. A., Smith, B. K., Steinmuller, F., & Leone, A. J. (2001). BGuILE: Strategic and
+conceptual scaffolds for scientific inquiry in biology classrooms. In S. M. Carver & D. Klahr (Eds.), Cognition
+and instruction: Twenty-five years of progress (pp. 263 – 305). Mahwah, NJ: Lawrence Erlbaum.
+Rosebery, A. S., Warren, B., & Conant, F. R. (1992). Appropriating scientific discourse: Findings from language
+minority classrooms. Journal of the Learning Sciences, 2(1), 61 – 94.
+Roth, W.-M., & Désautels, J. (Eds.). (2002). Science education as/for sociopolitical action. New York: Peter Lang.
+Roth, W.-M., & Roychoudhury, A. (1994). Physics students’ epistemologies and views about knowing and learning.
+Journal of Research in Science Teaching, 31(1), 5 – 30.
+Rubba, P., & Andersen, H. (1978). Development of an instrument to assess secondary students’ understanding of
+the nature of scientific knowledge. Science Education, 62(4), 449 – 458.
+Rudolph, J. L. (2002). Scientists in the classroom: The cold war reconstruction of American science education.
+New York: Palgrave.
+Rutherford, F. J., & Ahlgren, A. (1990). Science for all Americans. Washington, DC: AAAS.
+Ryan, A. G., & Aikenhead, G. S. (1992). Students’ preconceptions about the epistemology of science. Science
+Education, 76(6), 559 – 580.
+Sandoval, W. A. (2003). Conceptual and epistemic aspects of students’ scientific explanations. Journal of the
+Learning Sciences, 12(1), 5 – 51.
+Sandoval, W. A., & Millwood, K. A. (2005). The quality of students’ use of evidence in written scientific explanations. Cognition and Instruction, 23(1), 23 – 55.
+Sandoval, W. A., & Morrison, K. (2003). High school students’ ideas about theories and theory change after a
+biological inquiry unit. Journal of Research in Science Teaching, 40(4), 369 – 392.
+Sandoval, W. A., & Reiser, B. J. (2004). Explanation-driven inquiry: Integrating conceptual and epistemic supports
+for science inquiry. Science Education, 88, 345 – 372.
+Schauble, L., Glaser, R., Duschl, R. A., Schulze, S., & John, J. (1995). Students’ understanding of the objectives
+and procedures of experimentation in the science classroom. Journal of the Learning Sciences, 4(2), 131 – 166.
+Schommer, M., Calvert, C., Gariglietti, G., & Bajaj, A. (1997). The development of epistemological beliefs among
+secondary students: A longitudinal study. Journal of Educational Psychology, 89(1), 37 – 40.
+Schommer, M., Crouse, A., & Rhodes, N. (1992). Epistemological beliefs and mathematical text comprehension:
+Believing it is simple does not make it so. Journal of Educational Psychology, 84(4), 435 – 443.
+Schwab, J. J. (1962). The teaching of science as enquiry. In J. J. Schwab & P. Brandwein (Eds.), The teaching of
+science (pp. 3 – 103). Cambridge, MA: Harvard University Press.
+Smith, C. L., Maclin, D., Houghton, C., & Hennessey, M. G. (2000). Sixth-grade students’ epistemologies of
+science: The impact of school science experiences on epistemological development. Cognition & Instruction,
+18(3), 349 – 422.
+Sodian, B., Zaitchik, D., & Carey, S. (1991). Young children’s differentiation of hypothetical beliefs from evidence.
+Child Development, 62, 753 – 766.
+Solomon, J., Duveen, J., & Scott, L. (1994). Pupils’ images of scientific epistemology. International Journal of
+Science Education, 16(3), 361 – 373.
+Solomon, J., Scott, L., & Duveen, J. (1996). Large-scale exploration of pupils’ understanding of the nature of
+science3. Science Education, 80(5), 493 – 508.
+Songer, N. B., & Linn, M. C. (1991). How do students’ views of science influence knowledge integration? Journal
+of Research in Science Teaching, 28(9), 761 – 784.
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+PRACTICAL EPISTEMOLOGIES
+
+SANDOVAL
+
+Stewart, J., Hafner, R., Johnson, S., & Finkel, E. (1992). Science as model building: Computers and high-school
+genetics. Educational Psychologist, 27(3), 317 – 336.
+Tobin, K., Tippins, D. J., & Hook, K. S. (1995). Students’ beliefs about epistemology, science, and classroom
+learning: A question of fit. In S. M. Glynn & R. Duit (Eds.), Learning science in the schools: Research reforming
+practice (pp. 85 – 110). Mahwah, NJ: Erlbaum.
+Toth, E. E., Suthers, D. D., & Lesgold, A. (2002). “Mapping to know”: The effects of representational guidance
+and reflective assessment on scientific inquiry. Science Education, 86, 264 – 286.
+Toulmin, S. (1958). The uses of argument. Cambridge: Cambridge University Press.
+Tschirgi, J. E. (1980). Sensible reasoning: A hypothesis about hypotheses. Child Development, 51, 1 – 10.
+Warren, B., & Rosebery, A. S. (1996). “This question is just too, too easy!” Students’ perspectives on accountability
+in science. In L. Schauble & R. Glaser (Eds.), Innovations in learning: New environments for education (pp. 97 –
+125). Mahwah, NJ: Erlbaum.
+Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental
+Psychology, 12, 129 – 140.
+White, B. Y. (1993). ThinkerTools: Causal models, conceptual change, and science education. Cognition and
+Instruction, 10(1), 1 – 100.
+White, B. Y., & Frederiksen, J. R. (1998). Inquiry, modeling, and metacognition: Making science accessible to all
+students. Cognition and Instruction, 16(1), 3 – 118.
+Windschitl, M., & Andre, T. (1998). Using computer simulations to enhance conceptual change: The roles of
+constructivist instruction and student epistemological beliefs. Journal of Research in Science Teaching, 35(2),
+145 – 160.
+Zimmerman, C. (2000). The development of scientific reasoning skills. Developmental Review, 20, 99 – 149.
+
+1098237x, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.20065, Wiley Online Library on [17/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+656
+
+
