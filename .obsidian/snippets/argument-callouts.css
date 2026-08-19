@@ -15008,7 +15008,7 @@
 }
 
 /* ═══════════════════════════════════════════════════════════
-   TABLE HORIZONTAL SCROLL & DRAG — 表格横向拖拽与平滑滚动增强
+   TABLE HORIZONTAL SCROLL & DRAG — 表格横向拖拽与黄金阅读列宽
    ═══════════════════════════════════════════════════════════ */
 
 /* 1. 统一为所有包含表格的 Callout 内容区开启横向滚动容器 */
@@ -15033,7 +15033,7 @@
   scrollbar-color: rgba(var(--callout-color, 120, 140, 180), 0.35) transparent;
 }
 
-/* 2. 表格自身采用自适应宽排版，支持横向拖拽与完整阅读 */
+/* 2. 表格宽度自适应且设防无限制单行拉伸 */
 .callout[data-callout*="-table"] table,
 .callout[data-callout="ref-table"] table,
 .callout[data-callout="meta-table"] table,
@@ -15048,11 +15048,11 @@
 .callout[data-callout="prop-table"] table {
   width: max-content !important;
   min-width: 100% !important;
-  max-width: none !important;
   border-collapse: collapse;
+  table-layout: auto;
 }
 
-/* 3. 单元格保留合理内边距与列宽，防止文字被压缩为单字竖条 */
+/* 3. 设定黄金阅读列宽与舒适断行（防止单行无限延伸，保证每列 15-22 字自然换行） */
 .callout[data-callout*="-table"] th,
 .callout[data-callout*="-table"] td,
 .callout[data-callout="ref-table"] th,
@@ -15062,17 +15062,38 @@
 .callout[data-callout="effect-table"] th,
 .callout[data-callout="effect-table"] td,
 .callout[data-callout="ma-table"] th,
-.callout[data-callout="ma-table"] td {
+.callout[data-callout="ma-table"] td,
+.callout[data-callout="contrast-table"] th,
+.callout[data-callout="contrast-table"] td,
+.callout[data-callout="tension-table"] th,
+.callout[data-callout="tension-table"] td,
+.callout[data-callout="framework-table"] th,
+.callout[data-callout="framework-table"] td {
   min-width: 130px;
-  white-space: normal;
+  max-width: 320px;
+  white-space: normal !important;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.62;
+  padding: 0.6rem 0.85rem;
 }
 
-/* 标签列/首列不强制过宽，适中固定 */
+/* 首列（分类/阶段/维度/术语）：紧凑适中 */
 .callout[data-callout*="-table"] th:first-child,
 .callout[data-callout*="-table"] td:first-child,
 .callout[data-callout="ref-table"] th:first-child,
-.callout[data-callout="ref-table"] td:first-child {
-  min-width: 95px;
+.callout[data-callout="ref-table"] td:first-child,
+.callout[data-callout="contrast-table"] th:first-child,
+.callout[data-callout="contrast-table"] td:first-child {
+  min-width: 90px;
+  max-width: 150px;
+}
+
+/* 次列（若为阶段编号/简短标签） */
+.callout[data-callout*="-table"] th:nth-child(2),
+.callout[data-callout*="-table"] td:nth-child(2) {
+  min-width: 100px;
+  max-width: 160px;
 }
 
 /* 4. 优化横向滚动条视觉（细长扁平，悬浮时更明显） */
