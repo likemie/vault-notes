@@ -1,45 +1,13 @@
----
-title: Academic Achievement
-aliases:
-  - "学业成就"
-  - "学业表现"
-  - "GPA"
-summary: "衡量学生在特定学习阶段、特定学科中知识与技能掌握程度的指标。通常通过课程分数、标准化测试成绩或绩点（GPA）进行测度。"
-type: concept
-domain: "educational-psychology"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
-tags: []
-related_concepts:
-  - "[[Variable]]"
-  - "[[Operationalization]]"
-  - "[[Epistemological Beliefs]]"
-  - "[[Dependent Variable]]"
-  - "[[Independent Variable]]"
-  - "[[Effect Size]]"
-  - "[[Epistemic Cognition]]"
-  - "[[Questionnaire]]"
-  - "[[Epistemology]]"
-  - "[[Realism in International Relations]]"
-related_theories:
-  - "[[Epistemic and Ontological Cognition]]"
-related_methods:
-  - "[[Multinomial Logistic Regression]]"
-  - "[[Meta-analysis]]"
-related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments:
-  - "[[Argument_Greene_2018_JEP]]"
-  - "[[Argument_Greene_2010_JEP]]"
-confidence: medium
-status: draft
-created: 2026-08-15
-updated: 2026-08-19
----
-# Academic Achievement
+import re
+
+filepath = "wiki/concepts/educational-psychology/Academic Achievement.md"
+with open(filepath, "r") as f:
+    text = f.read()
+
+frontmatter_match = re.search(r'^---.*?^---\n', text, re.MULTILINE | re.DOTALL)
+frontmatter = frontmatter_match.group(0) if frontmatter_match else ""
+
+new_content = """# Academic Achievement
 （学业成就）
 
 ---
@@ -51,7 +19,7 @@ updated: 2026-08-19
 
 > [!concept-lens] 概念透镜
 > - **含义** 它是学生内部心理过程（如认识论认知、动机、策略使用）在外部学习任务上的具象化产物。
-> - **用途** 将其操作化为具体的成绩指标（GPA、考分）后，可倒推和验证不同认知构念对学习深度的预测能力。
+> - **用途** 研究者通过将其操作化为具体的成绩指标（GPA、考分），来倒推和验证不同认知构念对学习深度的预测能力。
 > - **边界** 随着研究精度的提升，它不再被视为一个笼统的“分数”，而是被细分为不同层级的知识类型（陈述性、程序性、概念性、论证等）。用单一的总体成绩来代表学业成就，往往会掩盖深层的认知规律。
 
 > [!boundary]- 概念边界
@@ -64,11 +32,11 @@ updated: 2026-08-19
 
 > [!taxonomy] 学业成就的认知加工层级
 > 在认知层面上，单纯用 GPA 已经无法满足精细的理论检验。[[Argument_Greene_2018_JEP|Greene et al. (2018)]] 在元分析中，根据测试要求的思维深度，将学业成就任务严格划分为以下五大层级：
-> - **程序性知识（Procedural knowledge）** 侧重于机械步骤的执行与底层规则的套用。
-> - **陈述性知识（Declarative knowledge）** 侧重于对零散事实和定义的记忆与再认。
-> - **一般知识（General knowledge）** 混合了多种基础认知要求的常规综合测试。
-> - **概念性知识（Conceptual knowledge）** 要求学生理解知识背后的深层结构，能进行概念间的网络连接与迁移。
-> - **论证（Argumentation）** 最高阶的认知表现，要求学生在面对复杂信息时，能评估证据质量并为自己的立场提供合理证成。
+> - **程序性知识（Procedural knowledge）**：侧重于机械步骤的执行与底层规则的套用。
+> - **陈述性知识（Declarative knowledge）**：侧重于对零散事实和定义的记忆与再认。
+> - **一般知识（General knowledge）**：混合了多种基础认知要求的常规综合测试。
+> - **概念性知识（Conceptual knowledge）**：要求学生理解知识背后的深层结构，能进行概念间的网络连接与迁移。
+> - **论证（Argumentation）**：最高阶的认知表现，要求学生在面对复杂信息时，能评估证据质量并为自己的立场提供合理证成。
 
 ---
 
@@ -89,8 +57,8 @@ updated: 2026-08-19
 
 > [!claim] Greene, J.
 > **测量客观性与对齐法则** 
-> - **客观性惩罚** 采用标准化测试（$r = .214$）和专门开发的测试（$r = .177$）作为学业成就时，其与认知信念的效应量远超依靠参与者主观自报（$r = .083$）的研究，主观自报会严重稀释真实的理论关联。
-> - **对齐法则（Alignment）** 当学业成就的测量领域（如特定学科成绩）与认知测试工具的特异性严格匹配时，能够捕捉到显著更强的预测效力，盲目使用跨领域的总体 GPA 往往会削弱解释力。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
+> - **客观性惩罚**：采用标准化测试（$r = .214$）和研究者专门开发的测试（$r = .177$）作为学业成就时，其与认知信念的效应量远超依靠参与者主观自报（$r = .083$）的研究，主观自报会严重稀释真实的理论关联。
+> - **对齐法则（Alignment）**：当学业成就的测量领域（如特定学科成绩）与认知测试工具的特异性严格匹配时，能够捕捉到显著更强的预测效力，盲目使用跨领域的总体 GPA 往往会削弱解释力。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 
 ---
 
@@ -108,14 +76,14 @@ updated: 2026-08-19
 
 > [!dev-timeline] 概念演变
 > - **早期阶段：粗颗粒度输出** 学业成就常被简单等同于学生自报的总体 GPA 或宽泛的统考总分，忽略了其内部复杂的认知加工差异。
-> - **当代转型：细粒度认知剖析** 随着理论的深化，笼统的学业成就开始被拆解为程序性、陈述性、概念性和论证等不同颗粒度的任务，以求精准对齐不同的底层心理机制。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
+> - **当代转型：细粒度认知剖析** 随着理论的深化，研究者开始将笼统的学业成就拆解为程序性、陈述性、概念性和论证等不同颗粒度的任务，以求精准对齐不同的底层心理机制。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 
 ---
 
 ## 争议与批评
 
 > [!critique] 方法论危机
-> - **主观自报成绩的失真** 在极大量的实证研究中，出于便利而收集的学生主观自报成绩（self-reported grades）往往充满主观偏差。元分析证实，相比于官方记录的客观成绩或标准化测试，它大幅低估了教育心理学变量（如认识论信念）与学业成就之间的真实关联强度，造成了统计上的“虚假无效”。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
+> - **主观自报成绩的失真** 在极大量的实证研究中，研究者出于便利而收集学生主观自报的成绩（self-reported grades）。元分析证实，这类数据充满主观偏差，相比于官方记录的客观成绩或标准化测试，它大幅低估了教育心理学变量（如认识论信念）与学业成就之间的真实关联强度，造成了统计上的“虚假无效”。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 
 ---
 
@@ -150,3 +118,8 @@ updated: 2026-08-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 将学业成就作为潜类别分析的协变量，证明了特定学科的学业表现差异能有效预测学生的认识论与本体论认知阶段。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 通过大规模元分析考察了认识论认知对不同类型学业成就的预测作用，明确了不同层级知识（概念性/论证 vs 程序性）与成绩测量方式（自报 vs 客观测试）带来的巨大差异。
+"""
+
+with open(filepath, "w") as f:
+    f.write(frontmatter + new_content)
+
