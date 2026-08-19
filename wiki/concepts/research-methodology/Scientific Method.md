@@ -4,10 +4,10 @@ aliases: [科学方法, empirical science, 经验科学, scientific approach]
 summary: "以经验证据为基础的系统性探究程序，传统上被视为基于假设检验和受控观察的标准化流程，但在当代科学哲学与科学教育中被重构为多元、社会的知识建构实践。"
 type: concept
 domain: "research-methodology"
-related_count: 4
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [theme/research-methodology, paradigm/positivism, theme/nature-of-science]
 related_concepts:
   - "[[Hypothesis]]"
