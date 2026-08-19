@@ -226,6 +226,8 @@
   },
   "active": "81d5dcb4edb5f122",
   "lastOpenFiles": [
+    "fix_all_tables.py",
+    "fix_tables_8_11.py",
     "fix_tables_2.py",
     "wiki/methods/quantitative/Moderator Analysis.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md",
@@ -255,8 +257,6 @@
     "wiki/concepts/educational-psychology/Practical Epistemology.md",
     "sources/Sandoval_2005_SE.md",
     "wiki/arguments/journal-articles/Review of Research in Education/Argument_Sandoval_2016_RRE.md",
-    "sources/Sandoval_2005_SE.pdf",
-    "wiki/arguments/journal-articles/Science Education",
     "wiki/concepts/developmental-psychology/Theory of Mind.md",
     "wiki/theories/educational-philosophy/Cognitive Constructivism.md",
     "wiki/theories/educational-psychology/Situative Perspective.md",
