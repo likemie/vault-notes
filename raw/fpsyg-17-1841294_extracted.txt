@@ -1,0 +1,1515 @@
+--- PAGE 1 ---
+Frontiers in Psychology 01 frontiersin.org
+TYPE Systematic Review
+PUBLISHED 04 August 2026
+DOI 10.3389/fpsyg.2026.1841294
+OPEN ACCESS
+EDITED BY
+Jesús N. García,  
+University of León, Spain
+REVIEWED BY
+Hui Luan,  
+National Taiwan Normal University, 
+Taiwan
+Daniela Medina Coronado,  
+Cesar Vallejo University, Peru
+Uğur Orhan,  
+Sakarya University, Türkiye
+Philip Dorsah,  
+C K Tedam University of Technology and 
+Applied Sciences, Ghana
+*CORRESPONDENCE
+Wonseok Choi  
+ wschoi@kmu.ac.kr
+RECEIVED 28 March 2026
+REVISED 08 July 2026
+ACCEPTED 09 July 2026
+PUBLISHED 04 August 2026
+CITATION
+Song J and Choi W (2026) A three-level 
+meta-analysis of the association 
+between students’ epistemic cognition 
+and learning outcomes in South Korea.
+Front. Psychol. 17:1841294.
+doi: 10.3389/fpsyg.2026.1841294
+COPYRIGHT
+© 2026 Song and Choi. This is an 
+open-access article distributed under 
+the terms of the Creative Commons 
+Attribution License (CC BY). The use, 
+distribution or reproduction in other 
+forums is permitted, provided the 
+original author(s) and the copyright 
+owner(s) are credited and that the 
+original publication in this journal is 
+cited, in accordance with accepted 
+academic practice. No use, distribution 
+or reproduction is permitted which does 
+not comply with these terms.
+A three-level meta-analysis of the 
+association between students’ 
+epistemic cognition and learning 
+outcomes in South Korea
+Jihyun Song  and Wonseok Choi *
+Department of Kinesiology, Keimyung University, Daegu, Republic of Korea
+Introduction: In the current era where unverified and non-credible information 
+is prevalent, students’ epistemic cognition has become increasingly critical in 
+education. Epistemic cognition helps students develop the abilities to acquire, 
+understand, justify, change, and use knowledge. Although the literature has pro-
+vided extensive insights into epistemic cognition, the association between such 
+cognition and learning outcomes remains unclear within specific cultural con -
+texts. Given that epistemic cognition is particularly shaped by the culture, the 
+purpose of this study was to synthesize empirical evidence on the association 
+between students’ epistemic cognition and learning outcomes in South Korea 
+through a three-level meta-analysis.
+Methods: Following the PRISMA guideline, this study conducted a three-level 
+meta-analysis. A hierarchical model was employed to account for statistical 
+dependence across 512 effect sizes from 18 peer-reviewed studies. Multivariate 
+meta-regression and sensitivity analyses were performed to determine significant 
+moderators and ensure the robustness of the pooled effect sizes.
+Results: The analysis yielded a statistically significant small-to-moderate pooled 
+effect size (r = 0.191, p < 0.001). The heterogeneity test exhibited low-to-mod-
+erate variance at Level 2 (τ2 = 0.015, I2 = 35.82%) and moderate variance at Level 
+3 (τ2 = 0.024, I2 = 56.64%). The school level and epistemic cognition construct 
+were found to be key moderators of the pooled effect size, while the other four, 
+domain specificity, alignment, scale polarity, and type of learning outcome, were 
+not.
+Conclusion: These findings suggest that epistemic cognition is a critical factor 
+in relation to different types of learning outcomes, such as higher and lower 
+order cognitive outcomes, self-regulation, and motivation. The school level and 
+epistemic cognition constructs appear to influence the association between epis-
+temic cognition and learning outcomes. However, caution should be taken in 
+interpreting these findings, given that the effect sizes were based on correlation 
+coefficients from Korean studies, limiting causal inference and generalizability 
+across different contexts and cultures.
+KEYWORDS
+academic achievements, epistemic beliefs, epistemic cognition, epistemological 
+beliefs, epistemology, student learning
+--- PAGE 2 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 02 frontiersin.org
+1 Introduction
+The development of digital technologies enables the global popu-
+lation to have access to large amounts of data and information quickly 
+and easily. In particular, generative artificial intelligence (GenAI), such 
+as ChatGPT, Claude, and Google Gemini, has served as a powerful 
+means for learning, teaching, and curriculum design in education 
+(OECD, 2022). A critical issue, however, is that the information gener-
+ated by GenAI is neither verified nor credible, often producing fake, 
+misleading, or inaccurate content (Eysenbach, 2023). In today’s world, 
+“greater information and knowledge come with greater uncertainty, ” 
+which makes the capabilities to evaluate and justify knowledge central 
+to learners (OECD, 2022, p. 9). Such capabilities require learners to 
+develop epistemic cognition, defined as a cognitive process that indi-
+viduals “acquire, understand, justify, change, and use knowledge” 
+(Greene et al., 2016, p. 1).
+Epistemic cognition has been studied in the fields of education 
+and psychology for over 55 years; the development of digital technolo-
+gies has accelerated attention to the topic. Epistemic cognition has 
+primarily been conceptualized as developmental and multidimen-
+sional (Hofer and Pintrich, 1997). Initial researchers (e.g., Kuhn, 1991; 
+Perry, 1970) assumed that epistemic cognition develops with increases 
+in age and educational levels. For example, Perry (1970) as a pioneer 
+of a developmental model proposed the developmental stage of epis-
+temic cognition, ranging from dualism (dichotomous/absolute view 
+of knowledge as either truth or not) to commitment within relativism 
+(views of knowledge and knowing as shaped by the values and identi-
+ties individuals support) through multiplicity (modified dichotomous 
+view of knowledge by acknowledging uncertainty), and relativism 
+(view of knowledge and knowing as relative, context-dependent). 
+These stages have been further expanded from a multidimensional 
+perspective, which posits that epistemic cognition comprises relatively 
+independent belief dimensions/constructs. Schommer (1990) sug-
+gested five independent constructs of epistemic cognition, including 
+beliefs about (a) certainty of knowledge, ranging from certain/absolute 
+to uncertain/tentative, (b) structure of knowledge , ranging from 
+simple/isolated to integrated, (c) source of knowledge, ranging from 
+handed down by authority (e.g., teachers, experts) to obtained from 
+observation and reason, (d) speed of learning, ranging from quick-all-
+or-non to gradual, and (e) ability to learn, ranging from entity/fixed at 
+birth to incremental/lifelong-improving. Based on the five epistemic 
+constructs, Jehng et al. (1993) broadened the simple beliefs to those 
+about rigid learning, ranging from a process in which individuals pas-
+sively acquire already-formulated, simple knowledge to one in which 
+they develop integrated knowledge constructs on their own. 
+Reviewing previous studies on developmental and multidimensional 
+epistemic beliefs, Hofer and Pintrich (1997) reconceptualized the epis-
+temic cognition constructs as the nature of knowledge (certainty, sim-
+plicity) and the nature of knowing (source, justification), while 
+proposing the nature of learning (learning speed, ability to learn) as 
+peripheral to core epistemic cognition. Beliefs about justification for 
+knowing present a way in which individuals evaluate knowledge 
+claims, such as the use of evidence, authority, or expertise. From the 
+multidimensional perspective, the more individuals perceive knowl-
+edge and knowing as uncertain/tentative, integrated, evidence-, obser-
+vation-, and reason-based, gradual, and incremental/
+lifelong-improving, the more they possess “sophisticated” epistemic 
+cognition. In contrast, viewing knowledge and knowing as certain, 
+simple, and dictated by authority, quick-all-or-non, and entity/fixed 
+reflects “naïve” epistemic cognition (Schommer, 1990). Since the mul-
+tidimensional aspect of epistemic cognition was proposed, the con-
+ceptualization of epistemic beliefs has been further expanded to 
+encompass diverse constructs, such as epistemic aims, epistemic 
+values, and epistemic ideals (Chinn et al., 2011).
+Scholars have debated whether epistemic cognition is general or 
+specific (Hofer and Pintrich, 1997; Muis et al., 2006). Domain general-
+ity posits that epistemic cognition is consistent/general across aca-
+demic domains. Domain specificity assumes that epistemic cognition 
+varies in an academic domain from others, such as science, mathemat-
+ics, and history. Although the debate is ongoing, previous studies have 
+suggested that epistemic cognition is both general and specific, with 
+similarities and differences across academic domains ( Muis et al., 
+2006; Rosman et al., 2020). For example, synthesizing 19 empirical 
+studies, Muis et al. (2006) found evidence of domain generality, based 
+on positive correlations in epistemic beliefs across academic domains 
+such as social studies, mathematics, and business. The study also 
+revealed domain specificity by identifying significant mean differences 
+in epistemic beliefs between science (e.g., physics, chemistry) and psy-
+chology. The study further suggested that epistemic cognition is even 
+topic/context specific within an academic domain, providing a more 
+nuanced understanding of epistemic cognition.
+The importance of understanding students’ epistemic cognition is 
+its ability to explain learning outcomes in education. Previous studies 
+have confirmed a positive association between epistemic cognition 
+and learning outcomes, such as academic achievement (Greene et al., 
+2018), self-efficacy (Muis and Duffy, 2013), and motivation (Chen, 
+2012). In a meta-analysis, for example, Greene et al. (2018) found that 
+students’ epistemic cognition across countries was associated with 
+learning outcomes, including argumentation, conceptual change, and 
+declarative and procedural knowledge, with a small-to-moderate 
+effect size. Chen (2012) reported that epistemic cognition of 1,225 
+middle and high school students in the U. S. was associated with moti-
+vational constructs, such as self-efficacy and mastery goal orienta -
+tions. These findings suggested that the more sophisticated epistemic 
+beliefs are positively associated with enhanced learning outcomes.
+The association between epistemic cognition and learning out-
+comes differs across learning contexts (Muis et al., 2016). Learning 
+contexts are often created by teachers’ instructional approaches, where 
+the cognitive and psychological dynamics of epistemic cognition are 
+activated. Bendixen and Rule (2004) suggested that learning contexts 
+should include various activities that help learners become aware of 
+cognitive disequilibrium (doubt about their existing epistemic cogni-
+tion), perceive epistemic volition (a desire to resolve that doubt), and 
+employ resolution strategies (reflection, discussion, and argumenta-
+tion). Such contexts are often embedded in constructivist learning 
+approaches in that they are central to students’ active engagement in 
+learning to construct their knowledge from individual and interper-
+sonal experiences (Vygotsky, 1978). Previous studies have confirmed 
+that constructivist instructional contexts, such as inquiry-based 
+instruction, source evaluation, and metacognitive scaffolds, help stu-
+dents develop sophisticated epistemic beliefs and learning achieve-
+ment (Cartiff et al., 2021; Muis and Duffy, 2013).
+Although the research evidence on the association between 
+epistemic cognition and learning outcomes is well-documented 
+across countries/cultures, a majority of studies were conducted in 
+Western countries, leaving a lack of a nuanced understanding of the 
+cultural-specific association (see Greene et al., 2018  for details). 
+Scholars have argued that epistemic cognition and its relevance to 
+--- PAGE 3 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 03 frontiersin.org
+learning outcomes cannot be translated from Western to other 
+countries without considering their cultural complexity as epis -
+temic cognition is socially and culturally constructed ( Bang and 
+Medin, 2010 ; Hofer and Pintrich, 1997 ). One of the key cultural 
+distinctions in the literature is the individualism–collectivism 
+framework ( Hofstede, 1991 ). In individualistic cultures, it is 
+assumed that individuals are autonomous, independent subjects 
+with unique perspectives, conceptualizing learning as an active, 
+student-centered process of inquiry ( Felbrich et al., 2012 ; Y oun et 
+al., 2001 ). Learners within the cultures are expected to navigate 
+epistemic uncertainty, engage in critical discussion, and question 
+authority, which, in turn, fosters higher-order and critical thinking. 
+In contrast, collectivistic cultures often prioritize individuals as 
+socially interdependent to conform to collective goals, shared rela -
+tional norms, and authority ( Felbrich et al., 2012; Y oun et al., 2001). 
+Within the cultures, teacher-centered education is emphasized, and 
+learners passively receive absolute knowledge, adhere to relatively 
+strict rules, and comply with instructional authority. However, this 
+individualism–collectivism framework does not consistently 
+account for learners’ epistemic cognition and its association with 
+learning outcomes. For example, Felbrich et al. (2012)  demon -
+strated that learners in Taipei and Singapore considered collectiv -
+istic cultures possessed both sophisticated and naïve epistemic 
+beliefs. Similar findings were observed in cross-cultural comparison 
+studies (e.g., Y oun et al., 2001), suggesting that in certain Asian 
+cultures learners’ epistemic cognition is highly nuanced and com -
+plex, which cannot be captured by the single cultural label. In addi -
+tion, Asian societies such as Singapore, Taipei, Japan, and South 
+Korea, traditionally classified as collectivistic cultures, have consis -
+tently achieved top-tier rankings in the Programme for International 
+Student Assessment (PISA) as an international standardized test 
+(OECD, 2023 ), suggesting that the psychological and cognitive 
+mechanisms of academic success in Asian societies are more 
+dynamic and complex. Moving beyond macro-cultural generaliza -
+tions, it is thus necessary to understand epistemic cognition and its 
+association with learning outcomes within a very specific culture 
+(Park and Han, 2018).
+Among Asian countries, South Korea (Korea hereafter) in par -
+ticular likely offers a unique cultural milieu for investigating such 
+epistemic dynamics and their relevance to learning outcomes. 
+Historically, within the interdependent social structure, the high 
+authority of teachers has played a central role in shaping students’ 
+epistemic cognition ( Y oun, 2000). This cultural aspect is well encap -
+sulated in the Korean saying, “One should not even step on the 
+shadow of a teacher. ” This suggests that teachers serve as role 
+models for behavior and knowledge to be followed ( Choi and Kwon, 
+2012). Within the context, students tend to cultivate absolute 
+knowledge through conformity to authority figures, shaping their 
+beliefs about knowledge and knowing. However, this cultural envi -
+ronment has rapidly changed due to industrialization and 
+Westernization over recent decades, creating a coexistence of indi -
+vidualism and collectivism ( Park and Han, 2018; Y oun et al., 2001). 
+Specifically, within the culture, while the older generation tends to 
+conform to in-group norms, the younger generation tends to pursue 
+subjective selfhood, individuality, and other-focused, empathetic 
+relationship formation ( Park and Han, 2018 ). In addition, the 
+Ministry of Education (2022)  has consistently mandated in the 
+national curriculum a systematic transition from teacher-centered, 
+one-way lecturing and students’ passive, repetitive, and rote 
+learning to learner-centered, constructivist learning by facilitating 
+inquiry-based learning, critical thinking, conceptual understand -
+ing, and problem-solving to strengthen national competitiveness 
+(Choi, 2016). This top-down policy, however, appears constrained 
+in actual practice; as students progress to higher grade levels, they 
+need to prepare for the Sooneung (the high-stakes national college 
+entrance examination), which rigorously reinforces an exam- and 
+assessment-oriented learning climate ( Park and Kim, 2021; Y oun et 
+al., 2001).
+Given these unique cultural and educational dynamics in 
+Korea, where older generation’s high respect for and conformity to 
+authority, younger generation’s pursuit of individuality and free -
+dom, modern constructivist instructional mandates in the national 
+curriculum, and intense examination-focused competition coexist, 
+students’ epistemic cognition in the unique learning context may 
+vary in its function and relevance to learning outcomes, suggesting 
+the need to synthesize the existing body of research in order to 
+clarify how epistemic cognition operates in this distinctive con -
+text. To our knowledge, although scholars have attempted to syn -
+thesize a large volume of the literature, a majority of the reviews 
+focused on conceptual definitions, theoretical frameworks, and 
+expansions of the epistemic belief constructs ( Greene et al., 2016 ; 
+Hofer, 2016; Hofer and Pintrich, 1997 ; Kelly, 2021). Consequently, 
+robust empirical evidence synthesizing the association between 
+epistemic cognition and learning outcomes remains surprisingly 
+sparse. Recently, Greene et al. (2018)  provided empirical evidence 
+for the association between epistemic cognition and learning out -
+comes through a meta-analysis; but the macro-level synthesis 
+based on data drawn from diverse cultural contexts offered limited 
+insight into how the association is observed within specific non-
+Western learning contexts, such as Korea. Given Korea’s distinctive 
+cultural and educational dynamics described above, it is necessary 
+to clarify the nature and strength of these associations within the 
+Korean learning context. Therefore, the purpose of this study was 
+to synthesize empirical evidence on the association between stu -
+dents’ epistemic cognition and learning outcomes in the Korean 
+learning context. This study adopted a three-level meta-analysis 
+approach to address the dependent issue in effect sizes and include 
+all effect sizes reported within a study ( Cheung, 2014 ; Van Den 
+Noortgate et al., 2013 ). The findings of this study would provide 
+critical insights into whether the association between students’ 
+epistemic cognition and learning outcomes within the Korean 
+learning context. In doing so, the study may contribute to ongoing 
+theoretical discussions regarding the cultural generalizability and 
+contextual dependency of epistemic cognition. In addition, the 
+findings may inform educational policy and instructional, curricu -
+lum, and intervention designs aimed at fostering students’ epis -
+temic cognition in the culturally dynamic learning contexts 
+beyond Korea with similar cultural and educational 
+characteristics.
+2 Methods
+This study followed the Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses (PRISMA) 2020 statement. 
+PRISMA is a reporting guideline, which comprises a 27-item 
+checklist designed to ensure transparent, rigorous, and 
+--- PAGE 4 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 04 frontiersin.org
+comprehensive reporting for systematic and meta-analytic reviews 
+(Page et al., 2021 ). Following this guideline, this study established 
+inclusion criteria and searched multiple electronic databases. 
+Then, data were extracted from the included studies, their quality 
+was assessed, and analyses were conducted to demonstrate the 
+relationship between students’ epistemic cognition and learning 
+outcomes.
+2.1 Inclusion criteria
+This review included studies that met the following criteria: 
+(a) written in English or Korean; (b) published in peer-reviewed 
+journals before November 2025; (c) a sample of K-12 students, 
+ranging from 1st to 12th graders, in the Korean school context; 
+(d) measuring the association between epistemic cognition (e.g., 
+beliefs about certainty, simplicity, source, justification, learning 
+speed, ability to learn) and learning outcomes (e.g., standardized 
+test scores, critical thinking, conceptual understanding, self-reg -
+ulation, learning strategies, motivation); and (e) necessary statisti -
+cal data reported, including correlation coefficients ( rs) and 
+standardized regression analysis coefficients ( βs) with sample size. 
+As this study aimed to synthesize the association between stu -
+dents’ epistemic cognition and learning outcomes, both experi -
+mental and non-experimental studies were eligible for this 
+meta-analysis if they met the criteria. Studies that did not meet 
+these criteria were excluded, such as those involving university 
+students or pre- and in-service teachers; those conducted outside 
+the Korean school context; those that did not report the necessary 
+statistics; and gray literature (e.g., theses, dissertations, or confer -
+ence papers).
+2.2 Literature search strategy
+Nine electronic databases were used to conduct a structured, 
+systematic literature search: Korea Citation Index (KCI), Korean 
+Studies Information Service System (KISS), Web of Science, 
+Scholar, DBpia, eArticle, Education Source, Scopus, and 
+ERIC. Initial search strings to identify potential studies included 
+the following keywords: (“epistemic” OR “epistemological”) AND 
+(“cognition” OR “beliefs”) AND (“students” OR “elementary 
+school” OR “middle school” OR “high school”) AND (“learning 
+outcomes” OR “learning achievement” OR “academic achieve -
+ment” OR “cognitive” OR “affect” OR “motivation” OR “behavior” 
+OR “engagement”) at an abstract level. However, this initial search 
+yielded 10 studies, likely due to terminological heterogeneity in 
+how epistemic cognition and learning outcomes were described 
+in the original studies. In addition, given that this study was the 
+first meta-analysis to synthesize Korean students’ epistemic cogni -
+tion, expanding the search strategy without restricting the start 
+date was necessary to improve search sensitivity and avoid omit -
+ting relevant studies. Thus, focusing on the topic of epistemic 
+cognition, we decided to use the following search strings: (“per -
+sonal epistemology”) OR (“epistemic” OR “epistemological”) 
+AND (“cognition” OR “beliefs” OR “views”) at the abstract level 
+in the Korean databases. When searching the literature in the 
+international databases (e.g., Education Source, Scopus, ERIC), 
+“Korea” was added to the search strings to ensure the scope of the 
+study. This updated search was conducted up to February 10, 2026.
+2.3 Data extraction and collection
+Before extracting data from the included studies, we indepen -
+dently reviewed five studies and developed a coding sheet. We then 
+shared the coding sheets and discussed discrepancies to ensure 
+inter-rater reliability. For example, we found that epistemic cogni -
+tion constructs were measured using either a bipolar scale (e.g., 
+certainty measured on a single continuum from certain to fluid 
+beliefs) or a separate scale (measuring each side of the beliefs inde -
+pendently). Accordingly, we created a coding category (i.e., scale 
+polarity) with two codes (i.e., bipolar, separate). In addition, we 
+classified learning outcomes into four categories, including higher 
+order cognitive outcome, lower order cognitive outcome, motiva -
+tion/affect, and self-regulation based on Bloom’s (1956) classical 
+taxonomy. In particular, although self-regulation is part of higher-
+order thinking, we distinguished it from the category, higher-order 
+cognitive outcome, because self-regulation functions as activating 
+both cognitions and behaviors through which learners monitor and 
+control their learning processes, whereas higher-order cognitive 
+outcomes were treated as the educational products that learners 
+ultimately proved in measures ( Dinsmore et al., 2008 ; Schunk, 
+2008). Using the coding sheet, we extracted data from the complete 
+datasets of the studies ( n = 18). We also collected statistics (e.g., r, 
+β) and sample sizes during the data collection process. In a subse -
+quent meeting, we discussed further discrepancies. For instance, 
+Y oo and Yum (2019)  treated perceived utility of mathematics, 
+problem-solving, and self-efficacy as components of epistemic cog -
+nition; these factors are theoretically recognized as learning out -
+comes influenced by epistemic cognition in a learning context 
+(Hofer and Pintrich, 1997 ; Greene et al., 2018 ). Therefore, we 
+decided to assign these factors to the learning outcome category 
+for conceptual and theoretical alignment. The finalized coding 
+sheet, including 13 code categories and 73 codes, is described in 
+Table 1.
+2.4 Quality assessment
+To assess the quality of the included studies, we used the 
+Quality Assessment Tool for Observational Cohort and Cross-
+Sectional Studies ( National Institutes of Health, 2020 ). The tool 
+consists of 14 items designed to evaluate the internal validity of 
+both types of the studies. In the present study, however, Items 6, 7, 
+10, 12, and 13 were excluded from this assessment, as they are 
+intended to assess the quality of longitudinal or cohort studies that 
+measure variables at multiple time points. We coded each remain -
+ing item as “Y es” if the study met the criterion, “No” if not, and 
+“NR” if not reported. After assessing each item, we aggregated the 
+scores to determine the final quality rating. Studies were rated as 
+“Good, ” “Fair, ” and “Poor” if their aggregated “Y es” scores were 7–9, 
+4–6, and 0–3, respectively.
+2.5 Data analysis
+Traditional meta-analyses have relied on univariate approaches 
+that treat multiple effect sizes within a study as independent, select 
+one effect size, or average them into a single estimate per study. 
+However, these approaches do not account for the statistical depen-
+dence inherent in data in which multiple effect sizes are extracted 
+--- PAGE 5 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 05 frontiersin.org
+from the same sample (Cheung, 2014). Given that all studies included 
+in the current analysis reported more than three effect sizes, a more 
+robust approach was required. Thus, we adopted a three-level meta-
+analysis approach. This approach partitions the total variance into 
+three levels: Level 1 explains the sampling error of the observed effect 
+sizes; Level 2 accounts for within-study variance (differences of effect 
+sizes within a study); and Level 3 represents between-study variance 
+(differences of effect sizes across independent studies) ( Cheung, 
+2014; Van Den Noortgate et al., 2013). In this study, Level 1 variance 
+would be determined by the sample size within each study. Level 2 
+variance would arise from differences in the measurement of epis-
+temic cognition constructs and learning outcomes across multiple 
+effect sizes within a study. Level 3 variance would reflect differences 
+in study characteristics, such as school levels, grades, gender, domain 
+specificity, and measurement instruments. Adopting this hierarchical 
+structure enables all relevant effect sizes to be used in the meta-anal-
+ysis without violating the independence assumption.
+Before data analysis, we transformed βs to rs to ensure that all 
+data were consistent across studies. It has been acknowledged that 
+βs can be converted if they range from − 0.50 to 0.50. In the data -
+set, this transformation was applied to a single study ( Choi, 2019 ), 
+which reported only 24 βs, ranging from − 0.20 to 0.23. We calcu -
+lated rs from these βs using the Peterson and Brown’s (2005) for-
+mula: r = β + 0.05 λ, where λ is 1 if β ≥  0, or λ is 0 if β < 0. We then 
+converted all rs into Fisher’s z-scores because rs are heavily depen -
+dent on their variances, limiting their direct synthesis ( Borenstein 
+et al., 2009 ). After conducting all analyses, we transformed Fisher’s 
+z-scores back to rs to report the results. The rs were interpreted as 
+weak if > 0.1, moderate if > 0.3, and strong if > 0.5 ( Cohen, 1988 ). 
+For studies reporting effect sizes in the opposite direction due to 
+the nature of the measurements, the directions were inverted. 
+Specifically, for effect sizes involving naïve epistemic cognition 
+constructs (e.g., beliefs about certainty, simplicity, source, justifi -
+cation) and/or negative learning outcomes (e.g., surface learning 
+strategies, academic stress, or test anxiety), the signs were reversed 
+by multiplying by − 1. This alignment ensures consistency across 
+all synthesized effect sizes, indicating the consistent association 
+between epistemic cognition and learning outcomes.
+The three-level meta-analysis was conducted in R (v. 4.5.0) using 
+the rma.mv function of the metafor package. The pooled estimate of 
+effect sizes was computed using a restricted maximum likelihood 
+(REML) estimator. Heterogeneity of the pooled estimate was assessed 
+using the Q-statistic and I2 statistics. The magnitude of variance across 
+the three levels was calculated using I2 for the proportion of variance 
+and τ 2 for the absolute amount of true heterogeneity for each level. A 
+Log-Likelihood Ratio T est (LRT) was also performed to justify using 
+a three-level meta-analysis rather than a traditional two-level meta-
+analysis. These statistics were interpreted as follows: potential hetero-
+geneity if the Q-statistic was significant (p < 0.05); I2 values of 25, 50, 
+and 75% as low, moderate, and high, respectively; and a significant 
+LRT result (χ2, p < 0.05) indicating both significant heterogeneity (τ 2 
+> 0) and a better fit for the three-level meta-analysis than the two-level 
+meta-analysis (Cheung, 2014; Higgins et al., 2003).
+The three-level model was extended to a three-level mixed-effects 
+model to demonstrate the contribution of pre-identified categorical 
+moderators during data collection to the association between epis-
+temic cognition and learning outcomes, using multivariate meta-
+regression ( Assink and Wibbelink, 2016 ). This model treats 
+moderators as fixed-effects, while effect sizes are considered to differ 
+randomly across and within studies, allowing for explaining residual 
+heterogeneity that remains after the fixed-effects are included 
+(Borenstein et al., 2009). The F-test was reported to determine the 
+significant contribution of moderators. Subgroup analyses were also 
+performed to estimate the specific effect sizes within each moderator. 
+TABLE 1 Coding sheet for data collection.
+Code categories Specific codes
+School level Elementary school, middle school, high school, mixed (middle and high school)
+Grade 4th–6th, 6th, 7th, 7th–9th, 7th–12th, 8th, 10th, 11th, 12th
+Gender Mixed (both female and male), only female, not reported
+Epistemic cognition construct Certainty, simplicity, source, justification, ability to learn, learning speed, learning process, beliefs about knowledge, beliefs about 
+learning
+Learning outcome
+Higher order cognitive outcome Cognitive conflict, conceptual understanding, critical thinking, information literacy, mathematical problem solving, acceptance 
+of evolution theory, multiple document selection, multiple document use, scientific inquiry skill
+Lower order cognitive outcome Standardized tests (overall, Korean language, mathematics, science, social studies), evolution content knowledge
+Motivation/affect Matery-approach goal, mastery-avoidance goal, performance-approach goal, performance-avoidance goal, implicit theory of 
+intelligence, intercultural sensitivity, situational interest, learning motivation, perceived utility of mathematics, mathematical 
+self-efficacy, academic stress, test anxiety, group activity preference, scientific attitude
+Self-regulation Meta-cognition, self-regulated learning, deep learning strategy, surface learning strategy, learning style, mathematics test 
+preparation, academic emotion regulation, frequency of asking questions
+Domain specificity Domain-general, domain-specific, content-specific
+Academic subject Mathematics, science, social studies
+Scale polarity Bipolar scale, separate scale
+Alignment Aligned, non-aligned
+--- PAGE 6 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 06 frontiersin.org
+Potential publication bias was assessed through a funnel plot and a 
+three-level extension of Egger’s regression test (Fernández-Castilla et 
+al., 2021). Potential publication bias was expected to be minimal or 
+undetected if the funnel plot exhibited a symmetric distribution with 
+a statistically insignificant slope of the Egger’s test (p > 0.05), where 
+the standard error was incorporated as a moderator within the 3-level 
+model. In addition, the intercept was examined to determine whether 
+the model-implied effect size, as calculated when the standard effort 
+was 0, remained robust after controlling for potential publication bias. 
+Two types of sensitivity analyses were conducted: one using a leave-
+one-out method to assess whether any single study influenced the 
+pooled estimate, and another using standardized residuals to examine 
+extreme effect sizes (outliers) exceeding ±z = 3.29.
+3 Results
+3.1 Study selection process
+Figure 1 exhibits a flow diagram of the study selection process. 
+From the nine databases, we initially identified 502 studies. After 
+removing duplicates (n = 140), we screened 362 potential studies, of 
+which 308 were excluded based on the titles and abstracts. Then, we 
+reviewed 54 full-text studies based on the inclusion criteria, of which 
+36 were excluded due to lack of statistics ( n = 23), not being K-12 
+students ( n = 8), qualitative study ( n = 3), duplicate ( n = 1), and 
+redundant measure construct (n = 1). In turn, we yielded a total of 18 
+studies for the meta-analysis.
+3.2 Characteristics of the included studies
+Table 2 exhibits the characteristics of the 18 included studies. 
+The total sample size across the studies was 6,312, ranging from 
+87 to 1,086 ( M = 350.67, Mdn = 304.00). Most studies ( n = 17) 
+adopted a non-experimental research design, while one study 
+used a quasi-experimental design ( Kang et al., 2007 ). Two studies 
+reported sample sizes by specific groups, separately, such as aca -
+demic tracks ( n = 166 for the Humanities track and n = 174 for 
+the Science track; Y oon et al., 2014 ) and religious affiliation 
+(n = 46 for Christians and n = 139 for non-Christians; Kim, 2015 ). 
+Most studies ( n = 14) included mixed-gender participants, while 
+one involved only females, and three did not report gender distri -
+bution. School levels were identified as elementary school ( n = 4), 
+middle school ( n = 5), high school ( n = 8), and a combination of 
+middle and high schools ( n = 1). One study ( So, 2013 ) reported 
+effect sizes separately by sample and grade level. Most studies 
+(n = 13) adopted domain-general measures of students’ epistemic 
+cognition, while five focused on domain-specific epistemic cogni -
+tion in science ( n = 3), mathematics ( n = 1), and social studies 
+FIGURE 1
+Flow diagram of literature search process.
+--- PAGE 7 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 07 frontiersin.org
+TABLE 2 Characteristics of the included studies.
+Study 
+ID
+Author School 
+level
+Grade Sample N Gender Domain 
+specificity
+Subject EC model EC 
+construct
+Scale 
+polarity
+Alignment Learning 
+outcome
+1 Bak and Chai 
+(2006)
+High 11th 398 Mixed D-general Hofer (2016), 
+Schommer 
+(1990)
+Certainty, 
+simplicity, source, 
+justification, 
+ability to learn, 
+learning speed
+Separate Aligned Motivation/affect
+2 Chang (2022) High 12th 450 Not reported D-general Hofer (2016) 
+and 
+Schommer 
+(1990)
+Total EC Bipolar Non-aligned Higher order 
+cognitive 
+outcome, lower 
+order cognitive 
+outcome
+3 Choi (2019) Mid & High 7th–12th 287 Mixed D-general Hofer (2016) 
+and 
+Schommer 
+(1990)
+Certainty, 
+simplicity, source, 
+justification, 
+ability to learn, 
+learning speed
+Separate Aligned Motivation/affect
+4 Choi and 
+Kwon (2012)
+Mid 7th–9th 1,086 Mixed D-general Chan and 
+Elliot (2002)
+Certainty, source, 
+ability to learn, 
+learning speed
+Bipolar Aligned Self-regulation
+5 Kang et al. 
+(2007)
+Mid 7th 218 Not reported D-specific Science Schommer et 
+al. (1990)
+Certainty, ability 
+to learn, learning 
+speed
+Bipolar Aligned Higher order 
+cognitive 
+outcome, 
+motivation/
+affect, self-
+regulation
+6 Kim (2015) High 11th 46 (Christian), 
+139 (Non-
+Christian)
+Mixed D-specific, 
+C-specific
+Science Tsai and Liu 
+(2005)
+Total EC Bipolar Aligned Higher order 
+cognitive 
+outcome, lower 
+order cognitive 
+outcome
+(Continued)
+--- PAGE 8 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 08 frontiersin.org
+TABLE 2 (Continued)
+Study 
+ID
+Author School 
+level
+Grade Sample N Gender Domain 
+specificity
+Subject EC model EC 
+construct
+Scale 
+polarity
+Alignment Learning 
+outcome
+7 Kim et al. 
+(2025)
+Elementary 4th–6th 309 Mixed D-specific Science Hofer and 
+Pintrich 
+(1997), Jehng 
+et al. (1993), 
+Schommer 
+(1990)
+Total EC Bipolar Non-aligned Motivation/
+affect, self-
+regulation
+8 Kim and 
+Chung (2015)
+High 12th 450 Mixed D-general Jehng et al. 
+(1993)
+Certainty, source, 
+ability to learn, 
+learning speed, 
+rigid learning
+Bipolar Non-aligned Higher order 
+cognitive 
+outcome, lower 
+order cognitive 
+outcome, self-
+regulation
+9 Kim and Yun 
+(2009)
+Mid 8th 118 Female D-general Hofer (2016), 
+Schommer 
+(1990)
+Certainty, 
+simplicity, source, 
+justification, 
+ability to learn, 
+learning speed
+Separate Aligned Higher order 
+cognitive 
+outcome
+10 Mun (2009) Elementary 6th 280 Mixed D-general Hofer (2016), 
+Schommer 
+(1990)
+Total EC Bipolar Aligned Lower order 
+cognitive 
+outcome, 
+motivation/
+affect, self-
+regulation
+11 Mun and Koh 
+(2009)
+High 10th 280 Mixed D-general Hofer (2016), 
+Schommer 
+(1990)
+Certainty, 
+simplicity, source, 
+justification
+Separate Aligned Lower order 
+cognitive 
+outcome, self-
+regulation
+12 So (2013) Elementary 4th, 6th 236 (4th 
+graders), 240 
+(6th graders)
+Mixed D-general Schommer 
+(1990)
+Ability to learn, 
+learning speed
+Bipolar Aligned Motivation/
+affect, self-
+regulation
+(Continued)
+--- PAGE 9 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 09 frontiersin.org
+TABLE 2 (Continued)
+Study 
+ID
+Author School 
+level
+Grade Sample N Gender Domain 
+specificity
+Subject EC model EC 
+construct
+Scale 
+polarity
+Alignment Learning 
+outcome
+13 Song and 
+Jeong (2012)
+Mid 7th 87 Mixed D-general Hofer (2016), 
+Schommer 
+(1990)
+Certainty, 
+simplicity, source, 
+justification, 
+ability to learn, 
+learning speed
+Separate Aligned Higher order 
+cognitive 
+outcome
+14 Y oo and Yum 
+(2019)
+Elementary 6th 810 Mixed D-specific Math Hofer and 
+Pintrich 
+(1997), 
+Schommer 
+(1990)
+Ability to learn, 
+learning speed
+Bipolar Aligned Higher order 
+cognitive 
+outcome, 
+motivation/
+affect, self-
+regulation
+15 Y oon et al. 
+(2014)
+High 12th 166 
+(Humanities 
+track), 174 
+(Science track)
+Not reported D-general Jehng et al. 
+(1993)
+Certainty, source, 
+justification, 
+ability to learn, 
+learning speed, 
+rigid learning
+Bipolar Aligned Self-regulation
+16 Y oun et al. 
+(2001)
+High 10th–12th 455 Mixed D-general Jehng et al. 
+(1993)
+Beliefs about 
+learning, beliefs 
+about knowledge
+Bipolar Aligned Lower order 
+cognitive 
+outcome, 
+motivation/affect
+17 Yu (2003) High 12th 227 Mixed D-general Schommer 
+(1990)
+Certainty, 
+simplicity, ability 
+to learn, learning 
+speed
+Bipolar Non-aligned Lower order 
+cognitive 
+outcome
+18 Yu (2020) Mid 8th 434 Mixed D-specific Social studies Hofer (2016), 
+Schommer 
+(1990)
+Certainty, 
+simplicity, source, 
+justification, 
+ability to learn, 
+learning speed
+Bipolar Aligned Lower order 
+cognitive 
+outcome, higher 
+order cognitive 
+outcome
+Sample N, sample number; Mid, middle school; D-general, domain-general; D-specific, domain specific; C-specific, content-specific; EC, epistemic cognition.
+--- PAGE 10 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 10 frontiersin.org
+(n = 1). One study ( Kim, 2015 ) measured both domain-specific 
+and content-specific epistemic cognition. Following multidimen -
+sional models (e.g., Hofer and Pintrich, 1997 ; Schommer, 1990 ), 
+most studies ( n = 14) measured different epistemic cognition con -
+structs, such as beliefs about certainty, simplicity, source, justifica -
+tion, ability to learn, and learning speed. Four studies ( Bak and 
+Chai, 2006 ; Kim, 2015 ; Kim et al., 2025 ; Mun, 2009 ) aggregated 
+the scores of the distinct constructs and reported a total epistemic 
+cognition score. Based on the constructs suggested by Jehng et al. 
+(1993) , one study ( Y oun et al., 2001) developed two constructs: 
+beliefs about learning, which integrated ability to learn and learn -
+ing speed, and beliefs about knowledge, which combined cer -
+tainty, source, and learning process. These constructs were 
+measured on either a bipolar scale ( n = 13) or separate scales that 
+distinguished sophisticated and naïve epistemic beliefs ( n = 5). 
+Most studies ( n = 14) indicated alignment of domain specificity 
+between epistemic cognition and learning outcomes, suggesting 
+that epistemic beliefs and learning outcomes were consistently 
+matched in being either domain-general or domain-specific. For 
+learning outcomes, motivation/affect were most frequently mea -
+sured ( n = 14), followed by higher order cognitive outcome 
+(n = 9), self-regulation ( n = 8), and lower order cognitive outcome 
+(n = 6).
+3.3 Quality assessment of the included 
+studies
+Table 3 exhibits the results of the quality assessment of the 
+included studies. Of the 18 studies, 11 (61.1%) were rated as good 
+quality, seven (38.9%) as fair, and none as poor. All the studies with 
+good quality met the criteria for: clearly stated research questions/
+objectives (Item 1), defined study population (Item 2), uniform 
+inclusion and exclusion criteria (Item 4), different levels of indepen-
+dent variables examined (Item 8), valid, reliable, and consistent mea-
+surement of independent variables (Item 9), and dependent variables 
+(Item 11). Most of the good-quality studies (n = 8, 72.7%) provided 
+participation rates of eligible people (Item 3), and three studies 
+(27.3%) provided sample size justifications (Item 5). Notably, three 
+studies (27.3%) met the criterion for statistical adjustment for con-
+founding variables (Item 14). In contrast, seven fair-quality studies 
+mostly met Items 1, 2, 4, 8, 9, and 11, but commonly lacked informa-
+tion on Items 3, 5, and 14.
+3.4 Pooled effect size
+Table 4 presents the results of the three-level meta-analysis, compris-
+ing 512 effect sizes from 18 independent studies. The analysis yielded a 
+statistically significant small-to-moderate pooled estimate of r = 0.191 
+(z = 5.127, 95% CI = [0.119, 0.261], p < 0.001). Heterogeneity in the esti-
+mates was observed across effect sizes (Q(511) = 6004.06, p < 0.001). This 
+variance was high (τ2 = 0.039, I2 = 92.46%), indicating that most of the 
+observed variance is explained by the within-studies variance (Level 2) 
+and/or between-studies variance (Level 3) rather than sampling error 
+(Level 1). Following the criteria of Higgins et al. (2003), the heterogene-
+ity test resulted in a low-to-moderate variance at Level 2 (τ2 = 0.015, 
+I2 = 35.82%) and moderate variance at Level 3 (τ2 = 0.024, I2 = 56.64%). 
+The statistical significance of these variance components was confirmed 
+by the LRT, which indicated that the three-level model had a signifi-
+cantly better fit than the traditional two-level model ( χ2 = 261.06, 
+p < 0.001), justifying the use of hierarchical modeling. The low-to-mod-
+erate heterogeneity at Level 2 and Level 3 suggested that the pooled effect 
+size likely varied within and between studies, suggesting that contextual 
+and methodological factors might influence the magnitude of the asso-
+ciation, which called for moderator analyses.
+TABLE 3 Results of quality assessment of the included studies.
+Author (Year) Q1 Q2 Q3 Q4 Q5 Q8 Q9 Q11 Q14 Rating
+Bak and Chai (2006) Ye s Ye s Not reported Ye s No Ye s Ye s Ye s No Fair
+Chang (2022) Ye s Ye s Not reported Ye s No Ye s Ye s Ye s No Fair
+Choi (2019) Ye s Ye s Ye s Ye s No Ye s Ye s Ye s Ye s Good
+Choi and Park (2012) Ye s Ye s Ye s Ye s No Ye s Ye s Ye s No Good
+Kang et al. (2007) Ye s Ye s Not reported Ye s No Ye s Ye s Ye s No Fair
+Kim (2015) Ye s Ye s Not reported Ye s No Ye s Ye s Ye s No Fair
+Kim et al. (2025) Ye s Ye s Ye s Ye s No Ye s Ye s Ye s Ye s Good
+Kim and Chung (2015) Ye s Ye s Not reported Ye s Ye s Ye s Ye s Ye s No Good
+Kim and Yun (2009) Ye s Ye s Ye s Ye s No Ye s Ye s Ye s No Good
+Mun (2009) Ye s Ye s Not reported Ye s No Ye s Ye s Ye s No Fair
+Mun and Koh (2009) Ye s Ye s Not reported Ye s No Ye s Ye s Ye s No Fair
+So (2013) Ye s Ye s Not reported Ye s Ye s Ye s Ye s Ye s No Good
+Song and Jeong (2012) Ye s Ye s Ye s Ye s No Ye s Ye s Ye s No Good
+Y oo and Yum (2019) Ye s Ye s Ye s Ye s No Ye s Ye s Ye s No Good
+Y oon et al. (2014) Ye s Ye s Ye s Ye s No Ye s Ye s Ye s No Good
+Y oun et al. (2001) Ye s Ye s Not reported Ye s Ye s Ye s Ye s Ye s Ye s Good
+Yu (2003) Ye s Ye s Not reported Ye s No Ye s Ye s Ye s No Fair
+Yu (2020) Ye s Ye s Ye s Ye s No Ye s Ye s Ye s No Good
+--- PAGE 11 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 11 frontiersin.org
+3.5 Moderator and subgroup analyses
+Table 5 presents the results of the moderator and subgroup analy-
+ses. The categorical moderators used in the analyses included school 
+level, epistemic cognition construct, domain specificity, epistemic 
+cognition measure, alignment, and learning outcome. Of the six mod-
+erators, the school level and epistemic cognition construct were found 
+to moderate the association between epistemic cognition and learning 
+outcomes ( p < 0.05), while domain specificity ( F(1, 506)  = 2.342, 
+p = 0.126), epistemic cognition measure (F(1, 510) = 1.984, p = 0.159), 
+alignment (F(1, 510) = 1.183, p = 0.277), and type of learning outcome 
+(F(3, 508)  = 0.300, p = 0.828) were not. In particular, the moderator 
+analysis showed that the school level significantly moderated the rela-
+tionship between epistemic cognition and learning outcomes ( F(2, 
+485) = 5.683, p = 0.003). The subgroup analysis indicated that the ele-
+mentary school had a larger effect size (r = 0.375, p < 0.001) than the 
+middle school ( r = 0.142, p = 0.001) and high school ( r = 0.157, 
+p = 0.004) groups. These findings suggest that students’ sophisticated 
+epistemic cognition is positively associated with learning outcomes 
+during the early stages of formal education. The moderating effects of 
+the epistemic cognition constructs varied significantly (F(7, 498) = 3.194, 
+p = 0.002). The highest effect size was total epistemic cognition 
+(r = 0.288, p < 0.001), followed by learning speed (r = 0.207, p < 0.001), 
+justification (r = 0.187, p < 0.001), source (r = 0.174, p < 0.001), ability 
+to learn (r = 0.174, p < 0.001), simplicity (r = 0.157, p = 0.001), rigid 
+learning (r = 0.142, p = 0.011), and certainty (r = 0.122, p = 0.006).
+3.6 Publication bias and sensitivity analysis
+The funnel plot of effect sizes shown in Figure 2 appears symmet-
+ric. This visuality was supported by the results of the three-level 
+Egger’s regression test, with a statistically insignificant slope of −1.007 
+(SE = 1.271, z = −0.792, p = 0.429). These findings imply no evidence 
+of publication bias or a small-study effect despite the substantial het-
+erogeneity (τ2 = 0.039, I2 = 92.46%). In addition, the significant inter-
+cept term of 0.257 ( SE = 0.089, z = 2.896, p = 0.004) in the Egger’s 
+regression test suggests that the model-implied effect size remains 
+robust when the standard error is 0. The leave-one-out sensitivity 
+analyses demonstrated highly stable effect sizes ( rs = 0.177–0.203) 
+with no influential outliers detected (|z| < 3.29).
+4 Discussion
+In this three-level meta-analysis, the pooled estimate exhibited 
+that epistemic cognition was significantly associated with learning 
+outcomes. In particular, two moderators, school level and epistemic 
+cognition construct, predicted the association, while the other four, 
+domain specificity, alignment, scale polarity, and type of learning 
+outcome, did not. Overall, these findings suggest that sophisticated 
+epistemic cognition should be developed and sustained from elemen-
+tary through high school so that it was positively associated with mul-
+tiple learning outcomes.
+4.1 Association between epistemic 
+cognition and learning outcomes
+The small-to-moderate pooled effect size of the association 
+between epistemic cognition and learning outcomes suggests that the 
+more sophisticated epistemic cognition Korean students possess, the 
+higher their learning outcomes. That is, Korean students who perceive 
+knowledge as uncertain/tentative and complex/integrated, knowing 
+as self-constructed and self-justified by critical assessment of knowl-
+edge sources, and learning as incremental/life-long improving and 
+gradual appear to enhance learning outcomes. Although this finding 
+may be limited to Korean students, this pattern is relatively consistent 
+with the international literature. For example, Greene et al. (2018), in 
+a meta-analysis that reviewed 132 studies conducted across countries, 
+such as the U.S., Canada, Norway, Germany, and Türkiye, also proved 
+that students’ epistemic cognition was associated with learning 
+achievement at a small-to-moderate level. This consistent finding 
+implies that this positive association is not limited to the Korean learn-
+ing context. However, interpretation should be cautious, given that 
+this study did not compare effect sizes across countries and instead 
+focused on culturally specific epistemic cognition associated with 
+learning outcomes (Hofer, 2016).
+As the literature has argued, the positive association between 
+epistemic cognition and learning outcomes can be fostered in a 
+learning context in which students develop sophisticated epistemic 
+beliefs ( Muis et al., 2016 ). Although such a learning context was 
+not identified due to the lack of information from the original stud -
+ies, it is reasoned that the positive association was a result of inter -
+actions with a learning context. Bendixen and Rule (2004)  
+suggested that a learning context should help students perceive 
+cognitive disequilibrium in epistemic cognition and motivate them 
+to change their epistemic cognition toward a more sophisticated 
+form through various learning activities, such as reflection and 
+social interaction. Such a learning context can be operationalized 
+through constructivist instructional approaches ( Muis et al., 2016 ). 
+Previous studies have confirmed the contribution of such contexts 
+to students’ epistemic cognition as well as learning achievement 
+(Cartiff et al., 2021 ; Muis and Duffy, 2013 ; Rosman and Kerwer, 
+2022). In a meta-analysis, Cartiff et al. (2021)  demonstrated that 
+constructivist learning approaches, such as inquiry-based instruc -
+tion, source evaluation, and metacognitive scaffolds, have been 
+acknowledged as effective in improving learning achievement. 
+These approaches involve students in the learning activities through 
+the cultivation of sophisticated epistemic beliefs, where they transi -
+tion from passive recipients to active participants by evaluating and 
+TABLE 4 Results of the meta-analysis for the pooled effect size.
+Analysis No. 
+studies
+No. 
+ES
+r (SE) 95% 
+CI
+z Overall Level 2 Level 3
+Q(df) τ2 I2 L2 τ2 L2 I2 L3 τ2 L3 I2
+Pooled 
+estimate
+18 512
+0.191 
+(0.038)
+[0.119, 
+0.261]
+5.127***
+6004.06 
+(511)***
+0.039 92.46% 0.015*** 35.82% 0.024*** 56.64%
+No., number; ES, effect sizes; CI, confidence interval; ***, p < 0.001.
+--- PAGE 12 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 12 frontiersin.org
+justifying their learning processes with enhanced motivation, 
+thereby facilitating cognitive restructuring necessary for learning 
+achievement. Based on theoretical articulation and empirical evi -
+dence, the findings of this study suggest that sophisticated epis -
+temic cognition should be facilitated through constructivist 
+learning activities.
+4.2 Results of moderator and subgroup 
+analyses
+The findings of moderator analyses demonstrated that the school 
+level and epistemic cognition construct were key moderators of the 
+association, whereas domain specificity, alignment, scale polarity, and 
+type of learning outcome were not. Subsequent subgroup analyses 
+revealed that, for school level, elementary school exhibited the highest 
+effect size compared with middle and high schools. Elementary school 
+seems to be a critical period when the function of epistemic cognition 
+is more activated for learning outcomes than in middle and high 
+schools. However, these findings were inconsistent with international 
+research emphasizing that epistemic cognition develops with increas-
+ing age and educational level (Hofer and Pintrich, 1997; Perry, 1970). 
+This inconsistency appears to reflect the unique education context 
+within this culture. The learning context in Korea across different 
+school levels often emphasizes constructivist instructional approaches, 
+such as inquiry-based, student-centered learning, critical thinking, 
+conceptual understanding, and problem-solving ( Ministry of 
+Education, 2022), which may create a learning context in which 
+sophisticated epistemic cognition is more directly involved in learn-
+ing. However, as students progress to higher grades, the learning con-
+text may become increasingly exam- and answer-oriented, as they 
+generally prepare for the Sooneung, the Korean nationwide college 
+entrance examination, in which test scores are directly linked to col-
+lege admission (Y oun et al., 2001). This change in the learning context 
+appears to be accelerated by the prevalence of private tutoring. Park 
+TABLE 5 Results of moderator and subgroup analyses.
+Moderator k r 95% CI z F(df1, df2) p L2 variance L3 variance
+School level 488 F(2, 485) = 5.683 0.003 0.016*** 0.014***
+Elementary 49 0.375 [0.262, 0.477] 6.144 < 0.001
+Middle 251 0.142 [0.055, 0.226] 3.202 0.001
+High 188 0.157 [0.052, 0.259] 2.921 0.004
+EC constructs 506 F(7, 498) = 3.193 0.002 0.015*** 0.022***
+Certainty 93 0.122 [0.036, 0.206] 2.77 0.006
+Simplicity 58 0.157 [0.068, 0.244] 3.444 0.001
+Source 78 0.185 [0.099, 0.268] 4.178 < 0.001
+Justification 65 0.187 [0.099, 0.271] 4.145 < 0.001
+Ability to learn 87 0.174 [0.089, 0.256] 3.983 < 0.001
+Learning speed 87 0.207 [0.123, 0.288] 4.765 < 0.001
+Rigid learning 16 0.142 [0.033, 0.247] 2.56 0.011
+Total EC 22 0.288 [0.138, 0.425] 3.691 < 0.001
+Domain specificity 508 F(1, 506) = 2.342 0.126 0.015*** 0.021***
+Domain-general 81 0.281 [0.142, 0.409] 3.89 < 0.001
+Domain-specific 427 0.159 [0.081, 0.234] 3.995 < 0.001
+Alignment 512 F(1, 510) = 1.183 0.277 0.015*** 0.024***
+Aligned 436 0.185 [0.111, 0.257] 4.864 < 0.001
+Non-aligned 76 0.212 [0.13, 0.291] 5.001 < 0.001
+Scale polarity 512 F(1, 510) = 1.984 0.159 0.015*** 0.023***
+Bipolar 248 0.222 [0.14, 0.302] 5.2 < 0.001
+Separate 264 0.112 [−0.021, 
+0.241]
+1.656 0.098
+Type of learning 
+outcome
+512 F(3, 508) = 0.300 0.828 0.015*** 0.024***
+Higher order cognitive 
+outcomes
+184 0.188 [0.106, 0.268] 4.462 < 0.001
+Lower order cognitive 
+outcome
+55 0.208 [0.126, 0.288] 4.900 < 0.001
+Motivation/affect 109 0.189 [0.106, 0.269] 4.407 0.025
+Self-regulation 164 0.186 [0.108, 0.261] 4.647 < 0.001
+k, number of r; r, correlation coefficient; L, Level; EC, epistemic cognition; ***, p < 0.001.
+--- PAGE 13 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 13 frontiersin.org
+and Kim (2021) reported that monthly private tutoring expenditures 
+for core school subjects, such as literature, English, mathematics, sci-
+ence, and social studies, were highest in high school students (approx-
+imately $240.35), followed by middle school students (approximately 
+$199.24) and elementary school students (approximately $114.93). 
+This assessment-oriented learning context that middle and high 
+school students experience is likely to limit their opportunities to 
+engage in sophisticated epistemic cognition in meaningful ways. It is 
+possibly posited that the learning context functions as an important 
+factor that declines the association between epistemic cognition and 
+learning outcomes as school level increases, which should be further 
+verified.
+For the epistemic cognition construct as another significant mod-
+erator, the subgroup analyses demonstrated that all constructs, includ-
+ing certainty, simplicity, source, justification, ability to learn, learning 
+speed, learning process, and total epistemic cognition, were statisti-
+cally significant. The highest effect size was for total epistemic cogni-
+tion, a composite score of all constructs. In fact, this finding is a direct 
+result of the increased number of items, which enhances measurement 
+reliability while minimizing individual observational errors, thereby 
+yielding a correlation closer to its theoretical maximum (Spearman, 
+1904). The remaining epistemic cognition constructs can be grouped 
+into the nature of knowledge (certainty, simplicity), the nature of 
+knowing (source, justification), and the nature of knowing (ability to 
+learn, learning speed) based on Hofer and Pintrich (1997)  and 
+Schommer (1990). For rigid learning, the beliefs can be attributed to 
+the nature of knowledge, given that they represent an expanded view 
+of simplicity by incorporating the knowledge acquisition process 
+(Jehng et al., 1993).
+The subgroup analyses indicated that the nature of learning had 
+the strongest correlation, followed by the nature of knowing and the 
+nature of knowledge, suggesting a clear hierarchy in effect sizes across 
+these constructs. First, for the nature of learning, the ability to learn 
+and learning speed are theoretically acknowledged as peripheral to 
+the core epistemic cognition constructs (Hofer and Pintrich, 1997), 
+but these beliefs may function as a proximal predictor of learning 
+outcomes. For example, regarding beliefs about the ability to learn, 
+Blackwell et al. (2007) in a longitudinal study revealed that students 
+who perceived learning as incremental/life-long improved facilitated 
+academic success, while those with beliefs about learning as entity/
+fixed did not, or even decreased. The nature of learning in epistemic 
+cognition may serve as a bridge between epistemic cognition and 
+learning outcomes.
+Second, the nature of knowing (source, justification) exhibited 
+moderate effect sizes. These constructs have been recognized as the 
+core of epistemic cognition, reflecting how individuals use and vali -
+date knowledge and learning. The findings suggest that beliefs about 
+sources and justification in a more sophisticated way is likely to be 
+associated with improved learning outcomes. These beliefs mea -
+sured in the included study, however, focused predominantly on 
+authority as a source and means of justification, dichotomizing it 
+into external authority (naïve) or internal opinion/experience 
+(sophisticated). This reductive approach does not capture the mul -
+tidimensional nature of knowing ( Greene et al., 2018 ). In the cur -
+rent era of prolific online information and easy access to GenAI, in 
+particular, a single authority is unlikely to function as a sole source 
+of information. Rather, students are likely to rely on multiple 
+sources of information to evaluate and justify their learning 
+(Ferguson et al., 2013 ). Existing instruments that treat authority as 
+a static, uniform entity are unlikely to capture authentic epistemic 
+cognition regarding sources of knowledge and justification for 
+knowing.
+FIGURE 2
+Funnel plot for effect sizes.
+--- PAGE 14 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 14 frontiersin.org
+Lastly, the smallest effect sizes were indicated in the nature of 
+knowledge (certainty, simplicity, rigid learning). These relatively 
+weak associations may reflect the ontological aspects of these 
+beliefs. Emphasizing sources of knowledge and justification for 
+knowing as central to epistemic cognition, scholars (e.g., Chinn et 
+al., 2011; Greene et al., 2008 ) have argued that epistemic cognition 
+constructs, particularly certainty and simplicity, are more con -
+cerned with what knowledge is, often conceptualized in ontology, 
+rather than how knowledge is acquired/learned as an epistemic 
+stance. These constructs appear to function as a prerequisite world -
+view for other constructs, distal to learning outcomes ( Greene et al., 
+2008). Consequently, this distance might yield the weakest associa -
+tions between epistemic cognition constructs and learning 
+outcomes.
+Interesting findings included insignificant moderators, such 
+as domain specificity, alignment, scale polarity, and type of learn -
+ing outcome. These moderators seem not to be influential to 
+account for the variance in the pooled effect size. Domain speci -
+ficity as well as alignment have been theoretically and empirically 
+addressed in epistemic cognition as they influence learning 
+achievement ( Greene et al., 2018 ; Urhahne and Kremer, 2023 ). 
+One probability of these insignificant moderators is that the 
+Korean students in the included studies might misidentify domain 
+specificity in epistemic cognition and learning outcomes. That is, 
+the students might have misunderstood domain-general measures 
+as domain-specific at the moment of the data collection. For 
+example, in Kim and Chung (2015) , students were asked to com -
+plete a domain-general epistemic cognition questionnaire while 
+responding to an instrument measuring domain-specific inquiry 
+skills in science. This domain inconsistency between epistemic 
+cognition and the targeted learning outcome might induce con -
+ceptual confusion among students, thereby flattening potential 
+variance, thereby resulting in an offsetting effect of the 
+moderators.
+For scale polarity, this was a unique moderator identified in the 
+Korean context. International studies have predominantly used bipo-
+lar, scaled instruments that force respondents to choose between a 
+relatively sophisticated and a naïve stance ( Greene et al., 2018 ; 
+Urhahne and Kremer, 2023). In contrast, several Korean studies used 
+instruments on separate scales (e.g., Bak and Chai, 2006; Choi, 2019). 
+For example, certainty was measured through two independent items 
+(e.g., certainty as naïve; uncertainty as sophisticated). The insignifi-
+cance of this moderator suggests that measurement variance does not 
+significantly account for heterogeneity in the pooled effect size esti-
+mate. However, using the separate scale is likely to allow for capturing 
+students’ concurrent naïve and sophisticated epistemic beliefs, provid-
+ing a novel perspective to the literature.
+The statistically insignificant type of learning outcome suggests 
+that the association between epistemic cognition and learning out-
+comes is relatively stable across different types of learning outcomes, 
+including higher and lower order cognitive outcomes, self-regulation, 
+and motivation/affect. Inconsistent with these findings, previous 
+studies have suggested the positive association between sophisticated 
+epistemic cognition and higher order learning achievement and 
+motivation (Cartiff et al., 2021; Hofer, 2016). In a meta-analysis using 
+cross-country data, Greene et al. (2018) demonstrated that students’ 
+more availing or sophisticated epistemic cognition were significantly 
+higher in the association with higher order learning achievement 
+(e.g., conceptual knowledge, argumentation), compared with lower 
+order learning achievement (e.g., declarative knowledge, procedural 
+knowledge), although the degree of all the associations were small. 
+This inconsistency may reflect the unique cultural characteristic in 
+Korea, where learning is understood as a process of self-discipline 
+and continuous effort (Choi and Kwon, 2012). Within this milieu, 
+students’ sophisticated epistemic cognition may control their cogni-
+tion and behavior, while facilitating both lower and higher order 
+learning achievement. Consequently, sophisticated epistemic cogni-
+tion may systematically align with the overarching cultural pursuit of 
+self-discipline, thereby leading to a uniform alignment across differ-
+ent types of learning outcomes, such as standardized tests, conceptual 
+change, self-regulated learning, and motivation. However, as the find-
+ings were based on correlations, not causal relationships, future 
+research should confirm whether Korean students’ epistemic cogni-
+tion consistently predicts different types of learning outcomes.
+5 Limitations and future research
+Although this study provides numerous insights into the role 
+of epistemic cognition in learning outcomes, interpreting the find -
+ings requires caution due to five key limitations. First, the statisti -
+cal power of the findings may be less stable in terms of 
+between-variance estimates and their standard error as this study 
+collected data from a relatively small number of studies ( n = 18) 
+that met the criteria. Although there is no required minimum 
+number of studies that should be included in three-level meta-
+analysis, scholars have emphasized the larger number of studies to 
+ensure the precision of variance estimates ( Assink and Wibbelink, 
+2016; Van Den Noortgate et al., 2013 ). Future replication studies 
+are suggested to incorporate a larger number of studies, encom -
+passing diverse populations. Second, the generalizability of the 
+findings beyond the Korean learning context is limited, as this 
+study focused on a sample of Korean students across elementary, 
+middle, and high schools. Although the findings suggest both cul -
+turally specific and cross-cultural aspects of epistemic cognition 
+associated with learning outcomes among Korean students, com -
+parative studies across cultures are necessary to determine the 
+universal applicability of the observed patterns. Third, the findings 
+of this study do not verify causal relationships or the structural 
+pathways between epistemic cognition and learning outcomes. 
+Rather, based on the findings, a hierarchy within epistemic cogni -
+tion constructs and the role of motivation/affect connecting epis -
+temic cognition with academic achievement were hypothesized. 
+Future research should theoretically and empirically examine the 
+hypothesized relationships with longitudinal studies, which would 
+help clarify the mechanisms underlying these associations. Fourth, 
+there may be unidentified moderators. While the school level and 
+epistemic cognition construct were observed to be key modera -
+tors, the significant residual variance at Levels 2 and 3 remained 
+stable. For example, it was expected that the learning context in 
+which students experience would explain the variance. However, 
+due to the lack of a description of the context, we could not empir -
+ically confirm the role of the learning context in the association 
+between epistemic cognition and learning outcomes. Detailed 
+descriptions of the context are required to clarify its influence, 
+thereby helping to develop interventions that facilitate students’ 
+sophisticated epistemic cognition. Lastly, this study does not fully 
+account for the diverse sources of knowledge and means of justi -
+fication for knowing other than authority. Future research should 
+--- PAGE 15 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 15 frontiersin.org
+address these multidimensional features, both theoretically and 
+methodologically, to capture authentic epistemic cognition.
+6 Conclusion
+Through a three-level meta-analysis, this study demonstrated a 
+small-to-moderate effect size of the association between epistemic cog-
+nition and learning outcomes in the Korean learning context. The 
+school level and epistemic cognition construct were found to be key 
+moderators of the association. Overall, these findings imply that epis-
+temic cognition is positively associated with different types of learning 
+outcomes, such as higher and lower order cognitive outcomes, self-
+regulation, and motivation/affect, suggesting designing a learning con-
+text that fosters students’ sophisticated epistemic cognition. However, 
+future research is needed to confirm whether these findings are cul-
+tural-specific or generalizable across different cultures or countries.
+Data availability statement
+The original contributions presented in the study are included in 
+the article/supplementary material, further inquiries can be directed 
+to the corresponding author.
+Author contributions
+JS: Conceptualization, Data curation, Formal analysis, 
+Investigation, Methodology, Resources, Software, Validation, 
+Visualization, Writing – original draft, Writing – review & editing. 
+WC: Conceptualization, Data curation, Formal analysis, Investigation, 
+Methodology, Resources, Software, Validation, Visualization, 
+Writing – original draft, Writing – review & editing.
+Funding
+The author(s) declared that financial support was not received for 
+this work and/or its publication.
+Conflict of interest
+The author(s) declared that this work was conducted in the 
+absence of any commercial or financial relationships that could be 
+construed as a potential conflict of interest.
+Generative AI statement
+The author(s) declared that Generative AI was not used in the 
+creation of this manuscript.
+Any alternative text (alt text) provided alongside figures in this 
+article has been generated by Frontiers with the support of artificial 
+intelligence and reasonable efforts have been made to ensure accuracy, 
+including review by the authors wherever possible. If you identify any 
+issues, please contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their affiliated 
+organizations, or those of the publisher, the editors and the review -
+ers. Any product that may be evaluated in this article, or claim that 
+may be made by its manufacturer, is not guaranteed or endorsed 
+by the publisher.
+References
+Assink, M., and Wibbelink, C. J. (2016). Fitting three-level meta-analytic models in R: a 
+step-by-step tutorial. Quant. Methods Psychol. 12, 154–174. doi: 10.20982/tqmp.12.3.p154
+Bak, B. G., and Chai, S. Y . (2006). Re-conceptualization of personal epistemology and its 
+validation. Korean J. Educ. Psychol. 20, 829–854.
+Bang, M., and Medin, D. (2010). Cultural processes in science education: supporting the 
+navigation of multiple epistemologies. Sci. Educ. 94, 1008–1026. doi: 10.1002/sce.20392
+Bendixen, L. D., and Rule, D. C. (2004). An integrative approach to personal epistemol-
+ogy: a guiding model. Educ. Psychol. 39, 69–80. doi: 10.1207/s15326985ep3901_7
+Blackwell, L. S., Trzesniewski, K. H., and Dweck, C. S. (2007). Implicit theories of intel-
+ligence predict achievement across an adolescent transition: a longitudinal study and an 
+intervention. Child Dev. 78, 246–263. doi: 10.1111/j.1467-8624.2007.00995.x
+Bloom, B. S. (1956). Taxonomy of Educational Objectives: Handbook I: Cognitive Domain. 
+New Y ork: David McKay.
+Borenstein, M., Hedges, L. V ., Higgins, J. P . T., and Rothstein, H. R. (2009). Introduction 
+to Meta-Analysis. Hoboken, NY: Wiley.
+Cartiff, B. M., Duke, R. F ., and Greene, J. A. (2021). The effect of epistemic cognition 
+interventions on academic achievement: a meta-analysis. J. Educ. Psychol. 113, 477–498. 
+doi: 10.1037/edu0000490
+Chang, S. M. (2022). Factors affecting multiple-document selection and use in a digital 
+context: who falls for fake news and misinformation? Korean Lang. Educ. Res.  57, 
+245–294. doi: 10.20880/kler.2022.57.2.245
+Chan, K. W ., and Elliott, R. G. (2002). Exploratory study of Hong Kong teacher education 
+students’ epistemological beliefs: Cultural perspectives and implications on beliefs 
+research. Contemp. Educ Psychol. 27, 392–414. doi: 10.1006/ceps.2001.1102
+Chen, J. A. (2012). Implicit theories, epistemic beliefs, and science motivation: a person-
+centered approach. Learn. Individ. Differ. 22, 724–735. doi: 10.1016/j.lindif.2012.07.013
+Cheung, M. W . L. (2014). Modeling dependent effect sizes with three-level meta-analyses: 
+a structural equation modeling approach. Psychol. Methods 19, 211–229. doi: 10.1037/
+a0032968
+Chinn, C. A., Buckland, L. A., and Samarapungavan, A. (2011). Expanding the dimen-
+sions of research on epistemic cognition: applying philosophy to psychology and educa-
+tion. Educ. Psychol. 46, 141–167. doi: 10.1080/00461520.2011.587722
+Choi, J. (2016). “Understanding students’ beliefs about knowledge and learning in a socio-
+cultural context: the case of Korean middle school students, ” in The Psychology of Asian 
+Learners: A Festschrift in Honor of David Watkins, eds. R. B. King and A. B. I. Bernardo 
+(Singapore: Springer Singapore), 53–70.
+Choi, J., and Kwon, N. Y . (2012). The general and domain-specific epistemological beliefs 
+of Korean preservice mathematics teachers. Asia-Pac. Educ. Res. 21, 353–364.
+Choi, J. S., and Park, E. A. (2012). Middle school students’ self-directed learning in terms 
+of epistemological beliefs. J. Yeolin Educ. 20, 23–45.
+Choi, N. E. (2019). The reciprocal relationship between epistemological beliefs and class-
+room communication of middle and high school students. J. Speech Commun. 44, 
+121–165. doi: 10.18625/jsc.2019.44.121
+Cohen, J. (1988). Statistical Power Analysis for the Behavioral Sciences. 2nd Edn Hillsdale, 
+NJ: Lawrence Erlbaum Associates.
+Dinsmore, D. L., Alexander, P . A., and Loughlin, S. M. (2008). Focusing the conceptual 
+lens on metacognition, self-regulation, and self-regulated learning. Educ. Psychol. Rev. 20, 
+391–409. doi: 10.1007/s10648-008-9083-6
+--- PAGE 16 ---
+Song and Choi 10.3389/fpsyg.2026.1841294
+Frontiers in Psychology 16 frontiersin.org
+Eysenbach, G. (2023). The role of ChatGPT, generative language models, and artificial 
+intelligence in medical education: a conversation with ChatGPT and a call for papers. 
+JMIR Med, Educ. 9:e46885. doi: 10.2196/46885
+Felbrich, A., Kaiser, G., and Schmotz, C. (2012). The cultural dimension of beliefs: an 
+investigation of future primary teachers’ epistemological beliefs concerning the nature of 
+mathematics in 15 countries. ZDM 44, 355–366. doi: 10.1007/s11858-012-0418-x
+Ferguson, L. E., Bråten, I., Strømsø, H. I., and Anmarkrud, Ø. (2013). Epistemic beliefs 
+and comprehension in the context of reading multiple documents: examining the role of 
+conflict. Int. J. Educ. Res. 62, 100–114. doi: 10.1016/j.ijer.2013.07.001
+Fernández-Castilla, B., Declercq, L., Jamshidi, L., Beretvas, S. N., Onghena, P ., and Van 
+den Noortgate, W . (2021). Detecting selection bias in meta-analyses with multiple out-
+comes: a simulation study. J. Exp. Educ. 89, 125–144. doi: 10.1080/00220973.2019.1582470
+Greene, J. A., Azevedo, R., and Torney-Purta, J. (2008). Modeling epistemic and ontologi-
+cal cognition: philosophical perspectives and methodological directions. Educ. Psychol. 
+43, 142–160. doi: 10.1080/00461520802178458
+Greene, J. A., Cartiff, B. M., and Duke, R. F . (2018). A meta-analytic review of the relation-
+ship between epistemic cognition and academic achievement. J. Educ. Psychol. 110, 
+1084–1111. doi: 10.1037/edu0000263
+Greene, J. A., Sandoval, W . A., and Braten, I. (2016). Handbook of Epistemic Cognition. 
+New Y ork: Routledge.
+Higgins, J. P ., Thompson, S. G., Deeks, J. J., and Alstman, D. G. (2003). Measuring incon-
+sistency in meta-analyses. BMJ 327, 557–560. doi: 10.1136/bmj.327.7414.557
+Hofer, B. K. (2016). “Epistemic cognition as a psychological construct: advancements and 
+challenges, ” in Handbook of Epistemic Cognition, eds. J. A. Greene, W . A. Sandoval and I. 
+Bråten (NY: Routledge), 19–38.
+Hofer, B. K., and Pintrich, P . R. (1997). The development of epistemological theories: 
+beliefs about knowledge and knowing and their relation to learning. Rev. Educ. Res. 67, 
+88–140. doi: 10.3102/003465430670010
+Hofstede, G. (1991). Cultures and Organizations. London: McGraw-Hill Book Company.
+Jehng, J. J., Johnson, S. D., and Anderson, R. C. (1993). Schooling and students’ epistemo-
+logical beliefs about learning. Contemp. Educ. Psychol.  18, 23–35. doi: 10.1006/
+ceps.1993.1004
+Kang, H. S., Kim, M. Y ., and Noh, T. H. (2007). The influences of epistemological beliefs 
+on the conceptual change processes in learning density. J. Korean Assoc. Sci. Educ. 27, 
+412–420.
+Kelly, M. (2021). Epistemology, epistemic belief, personal epistemology, and epistemics: 
+a review of concepts as they impact information behavior research. J. Assoc. Inf. Sci. 
+Technol. 72, 507–519. doi: 10.1002/asi.24422
+Kim, K. S., and Yun, K. M. (2009). Relationship between epistemological belief and criti-
+cal thinking disposition. Korean J. Educ. Psychol. 23, 91–107.
+Kim, N. H., Kim, S. H., and Y eo, S. I. (2025). The mediating role of metacognition in the 
+relationship between elementary students’ epistemological beliefs in science and their 
+scientific attitudes. J. Korean Assoc. Sci. Educ.  45, 517–525. doi: 10.14697/
+jkase.2025.45.5.517
+Kim, S. J., and Chung, Y . L. (2015). Structural relationships among the epistemological 
+beliefs, metacognition, science inquiry skills, and science achievement of high school 
+students. J. Korean Assoc. Sci. Educ. 35, 931–938. doi: 10.14697/jkase.2015.35.6.0931
+Kim, S. Y . (2015). The relation of high school students’ epistemological belief, acceptance 
+of evolutionary theory and evolutionary knowledge. J. Korean Assoc. Sci. Educ.  35, 
+259–265. doi: 10.14697/jkase.2015.35.2.0259
+Kuhn, D. (1991). The Skills of Argument. New Y ork: Cambridge University Press.
+Ministry of Education (2022). 2022 Revised National Curriculum for Primary, Secondary 
+and Special Schools. Sejong: Ministry of Education.
+Muis, K. R., and Duffy, M. (2013). Epistemic climate and epistemic change: instruction 
+designed to change students’ epistemic beliefs, learning strategies, and improve achieve-
+ment. J. Educ. Psychol. 105, 213–225. doi: 10.1037/a0029690
+Muis, K. R., Bendixen, L. D., and Haerle, F . (2006). Domain-generality and domain-
+specificity in personal epistemology research: philosophical and empirical reflections in 
+the development of a theoretical framework. Educ. Psychol. Rev. 18, 3–54. doi: 10.1007/
+s10648-006-9003-6
+Muis, K. R., Trevors, G., Chevrier, M., Greene, J. A., Sandoval, W ., and Bråten, I. (2016). 
+“Epistemic climate for epistemic change, ” in Handbook of Epistemic Cognition, eds. J. A. 
+Greene, W . A. Sandoval and I. Bråten (NY: Routledge), 331–359.
+Mun, B. S. (2009). The relationship among epistemic beliefs, achievement goal-orienta-
+tion, self-regulated learning and academic achievement. J. Elem. Educ. 22, 49–68.
+Mun, B. S., and Koh, J. S. (2009). A structural analysis of epistemic beliefs, self-regulated 
+learning and academic achievement. Korean J. Educ. Psychol. 23, 581–599.
+National Institutes of Health (2020) Quality Assessment Tool for Observational Cohort 
+and Cross-Sectional Studies. Available online at: https://www.nhlbi.nih.gov/health-topics/
+study-quality-assessment-tools (Accessed October 2, 2025).
+OECD (2022). Trends Shaping Education 2022. Paris: OECD Publishing.
+OECD (2023). PISA 2022 Results (Volume I): The State of Learning and Equity in 
+Education. Paris: OECD Publishing.
+Page, M. J., McKenzie, J. E., Bossuyt, P . M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., 
+et al. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic 
+reviews. BMJ 372:n71. doi: 10.1136/bmj.n71
+Park, H. R., and Kim, H. C. (2021). The change of the private tutoring expenditure by 
+school level and subject. J. Korean Assn. Learn. Cent. Curric. Instr. 21, 907–923. doi: 
+10.22251/jlcci.2021.21.10.907
+Park, J., and Han, G. (2018). “Collectivism and the development of indigenous psychology 
+in South Korea, ” in In Asia-Pacific Perspectives on Intercultural Psychology, eds. W . W . 
+Li, D. Hodgetts and K. H. Foo (NY: Routledge), 53–74.
+Perry, W . G. (1970). Forms of Intellectual and Ethical Development in the College Years: A 
+Scheme. New Y ork: Holt, Rinehart, & Winston.
+Peterson, R. A., and Brown, S. P . (2005). On the use of beta coefficients in meta-analysis. 
+J. Appl. Psychol. 90, 175–181. doi: 10.1037/0021-9010.90.1.175
+Rosman, T., and Kerwer, M. (2022). Mechanisms of epistemic change: the roles of reflec-
+tion and social interaction. Psychol. Learn. Teach.  21, 193–209. doi: 
+10.1177/14757257221098860
+Rosman, T., Seifried, E., and Merk, S. (2020). Combining intra-and interindividual 
+approaches in epistemic beliefs research. Front. Psychol.  11:570. doi: 10.3389/
+fpsyg.2020.00570
+Schommer, M. (1990). Effects of beliefs about the nature of knowledge on comprehension. 
+J. Educ. Psychol. 82, 498–504. doi: 10.1037/0022-0663.82.3.498
+Schunk, D. H. (2008). Metacognition, self-regulation, and self-regulated learning: 
+research recommendations. Educ. Psychol. Rev.  20, 463–467. doi: 10.1007/
+s10648-008-9086-3
+Song, Y . M., and Jeong, M. S. (2012). The relationship between epistemic beliefs and 
+creativity of mathematics & science gifted students. J. Gifted Talent. Educ. 22, 805–821. 
+doi: 10.9722/JGTE.2012.22.4.805
+So, Y . H. (2013). The effect of academic emotional regulation on academic stress, episte-
+mological belief, and learning flow of 44th and 6th graders. J. Child Educ. 22, 139–154.
+Spearman, C. (1904). The proof and measurement of association between two things. Am. 
+J. Psychol. 15, 72–101. doi: 10.2307/1412159
+Tsai, C. C., and Liu, S. Y . (2005). Developing a multi‐dimensional instrument for assessing 
+students’ epistemological views toward science. Int. J. Sci. Educ. 27, 1621–1638. doi: 
+10.1080/09500690500206432
+Urhahne, D., and Kremer, K. (2023). Specificity of epistemic beliefs across school subject 
+domains. Educ. Psychol. 43, 99–118. doi: 10.1080/01443410.2023.2179605
+Van den Noortgate, W ., López-López, J. A., Marín-Martínez, F ., and Sánchez-Meca, J. 
+(2013). Three-level meta-analysis of dependent effect sizes. Behav. Res. Methods 45, 
+576–594. doi: 10.3758/s13428-012-0261-6
+Vygotsky, L. (1978). Mind in Society. Cambridge, MA: Harvard University Press.
+Y oo, H. S., and Yum, S. C. (2019). The moderated effects of mathematics test-preparation 
+strategies in the relation between elementary school students’ epistemological beliefs 
+about mathematics and test anxiety. J. Elem. Math. Educ. Korea 23, 365–382.
+Y oon, H. J., Kim, J. Y ., and Bang, D. M. (2014). Differences in epistemological beliefs and 
+learning style of liberal arts and natural science students and relationship between epis-
+temological beliefs and learning style. J. Res. Curric. Instr. 18, 989–1009.
+Y oun, I. (2000). The culture specificity of epistemological beliefs about learning. Asian J. 
+Soc. Psychol. 3, 87–105. doi: 10.1111/1467-839x.00056
+Y oun, I., Y ang, K. M., and Choi, I. J. (2001). An analysis of the nature of epistemological 
+beliefs: investigating factors affecting the epistemological development of south Korean 
+high school students. Asia Pac. Educ. Rev. 2, 10–21. doi: 10.1007/BF03024928
+Yu, J. Y . (2003). The study on the relation between epistemological beliefs and academic 
+performance in social studies. Res. Soc. Stud. Educ. 10, 29–60.
+Yu, J. Y . (2020). An analysis on influence of epistemological belief and information literacy 
+on academic achievement. J. Learn. Cent. Curric. Instr.  20, 51–81. doi: 10.22251/
+jlcci.2020.20.1.53
