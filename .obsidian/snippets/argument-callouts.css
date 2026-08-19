@@ -15006,3 +15006,94 @@
   border-bottom: 1px solid #8bb5cc !important;
   background-color: rgba(104, 150, 176, 0.12) !important;
 }
+
+/* ═══════════════════════════════════════════════════════════
+   TABLE HORIZONTAL SCROLL & DRAG — 表格横向拖拽与平滑滚动增强
+   ═══════════════════════════════════════════════════════════ */
+
+/* 1. 统一为所有包含表格的 Callout 内容区开启横向滚动容器 */
+.callout > .callout-content:has(table),
+.callout[data-callout*="-table"] > .callout-content,
+.callout[data-callout="ref-table"] > .callout-content,
+.callout[data-callout="meta-table"] > .callout-content,
+.callout[data-callout="effect-table"] > .callout-content,
+.callout[data-callout="ma-table"] > .callout-content,
+.callout[data-callout="contrast-table"] > .callout-content,
+.callout[data-callout="tension-table"] > .callout-content,
+.callout[data-callout="framework-table"] > .callout-content,
+.callout[data-callout="index-table"] > .callout-content,
+.callout[data-callout="seq-table"] > .callout-content,
+.callout[data-callout="construct-table"] > .callout-content,
+.callout[data-callout="prop-table"] > .callout-content,
+.table-wrapper {
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(var(--callout-color, 120, 140, 180), 0.35) transparent;
+}
+
+/* 2. 表格自身采用自适应宽排版，支持横向拖拽与完整阅读 */
+.callout[data-callout*="-table"] table,
+.callout[data-callout="ref-table"] table,
+.callout[data-callout="meta-table"] table,
+.callout[data-callout="effect-table"] table,
+.callout[data-callout="ma-table"] table,
+.callout[data-callout="contrast-table"] table,
+.callout[data-callout="tension-table"] table,
+.callout[data-callout="framework-table"] table,
+.callout[data-callout="index-table"] table,
+.callout[data-callout="seq-table"] table,
+.callout[data-callout="construct-table"] table,
+.callout[data-callout="prop-table"] table {
+  width: max-content !important;
+  min-width: 100% !important;
+  max-width: none !important;
+  border-collapse: collapse;
+}
+
+/* 3. 单元格保留合理内边距与列宽，防止文字被压缩为单字竖条 */
+.callout[data-callout*="-table"] th,
+.callout[data-callout*="-table"] td,
+.callout[data-callout="ref-table"] th,
+.callout[data-callout="ref-table"] td,
+.callout[data-callout="meta-table"] th,
+.callout[data-callout="meta-table"] td,
+.callout[data-callout="effect-table"] th,
+.callout[data-callout="effect-table"] td,
+.callout[data-callout="ma-table"] th,
+.callout[data-callout="ma-table"] td {
+  min-width: 130px;
+  white-space: normal;
+}
+
+/* 标签列/首列不强制过宽，适中固定 */
+.callout[data-callout*="-table"] th:first-child,
+.callout[data-callout*="-table"] td:first-child,
+.callout[data-callout="ref-table"] th:first-child,
+.callout[data-callout="ref-table"] td:first-child {
+  min-width: 95px;
+}
+
+/* 4. 优化横向滚动条视觉（细长扁平，悬浮时更明显） */
+.callout > .callout-content::-webkit-scrollbar {
+  height: 6px;
+}
+
+.callout > .callout-content::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.04);
+  border-radius: 3px;
+}
+
+.theme-dark .callout > .callout-content::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.callout > .callout-content::-webkit-scrollbar-thumb {
+  background: rgba(var(--callout-color, 120, 140, 180), 0.35);
+  border-radius: 3px;
+}
+
+.callout > .callout-content::-webkit-scrollbar-thumb:hover {
+  background: rgba(var(--callout-color, 120, 140, 180), 0.65);
+}
