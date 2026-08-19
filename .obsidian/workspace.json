@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/methods/quantitative/Meta-regression.md",
+                "file": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Meta-regression"
+              "title": "Argument_Greene_2018_JEP"
             }
           }
         ],
@@ -227,8 +227,10 @@
   },
   "active": "81d5dcb4edb5f122",
   "lastOpenFiles": [
-    "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md",
+    "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
+    "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md",
+    "wiki/methods/quantitative/Meta-regression.md",
     "wiki/arguments/journal-articles/Review of Educational Research/Argument_Hofer_1997_RER.md",
     "wiki/theories/educational-psychology/Perry's Scheme of Intellectual and Ethical Development.md",
     "sources/Trautwein_2007_CEP/figures",
@@ -240,12 +242,10 @@
     "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md",
     "wiki/arguments/journal-articles/Contemporary Educational Psychology",
     "wiki/instruments/scales/Global Certainty Scale.md",
-    "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/methods/quantitative/Meta-analysis.md",
     "raw/trautwein2007.pdf",
     "wiki/concepts/educational-psychology/Development of Knowledge.md",
     "wiki/concepts/educational-psychology/Measurement Alignment.md",
-    "wiki/methods/quantitative/Meta-regression.md",
     "wiki/theories/educational-psychology/Reflective Judgment Model.md",
     "wiki/concepts/research-methodology/Constructivist Paradigm.md",
     "wiki/concepts/educational-psychology/Constructed Knowledge.md",
