@@ -18,7 +18,6 @@ related_concepts:
   - "[[Epistemic Resources]]"
   - "[[Epistemology]]"
   - "[[Construct Validity]]"
-  - "[[Epistemological Resources]]"
   - "[[Questionnaire]]"
   - "[[Dependent Variable]]"
   - "[[Effect Size]]"
@@ -118,7 +117,7 @@ updated: 2026-08-19
 > 探讨即便将“领域”细分到学科层面，是否依然过于粗放，不足以捕捉真实的认知动态。
 
 > [!claim] Sandoval, W. A.
-> **颗粒度（Grain Size）危机与动态[[Epistemic Resources|认识论资源]]** “科学”或“历史”这样的宏大领域划分依然是一种粗放的错觉。实证观察发现，面对完全相同的领域文本，个体的认知标准也会随任务目标发生剧烈的动态跳跃（如历史学家在严谨学术考证与寻求宗教情感间的无缝切换）。因此，领域特异性应被解构为更微观的“情境特异性（context specificity）”：认知不是被锁定在特定领域的宏大信念，而是在具体任务中灵活调用的细粒度“[[Epistemological Resources|认识论资源]]（epistemic resources）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, pp. 473-474)]]
+> **颗粒度（Grain Size）危机与动态[[Epistemic Resources|认识论资源]]** “科学”或“历史”这样的宏大领域划分依然是一种粗放的错觉。实证观察发现，面对完全相同的领域文本，个体的认知标准也会随任务目标发生剧烈的动态跳跃（如历史学家在严谨学术考证与寻求宗教情感间的无缝切换）。因此，领域特异性应被解构为更微观的“情境特异性（context specificity）”：认知不是被锁定在特定领域的宏大信念，而是在具体任务中灵活调用的细粒度“认识论资源（epistemic resources）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016, pp. 473-474)]]
 
 ---
 

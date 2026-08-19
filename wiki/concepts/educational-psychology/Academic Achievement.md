@@ -32,6 +32,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Interaction Effect]]"
   - "[[Epistemology]]"
+  - "[[Simplicity of Knowledge]]"
   - "[[Gender Differences in Academic Achievement]]"
   - "[[Ways of Knowing]]"
   - "[[Dependent Variable]]"
@@ -48,6 +49,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Measurement Alignment]]"
 related_theories:
+  - "[[Reflective Judgment Model]]"
   - "[[Epistemic and Ontological Cognition]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -104,7 +106,7 @@ updated: 2026-08-19
 > 2. **微观[[Task Structure|任务结构]]化程度（Frederiksen, 1984; [[Argument_Lodewyk_2007_EP|Lodewyk, 2007]]）**
 >    - **良构任务学业表现（well-structured task performance）** 在目标清晰、算法现成、资料齐备的标准化任务中的结构化产出得分。
 >    - **劣构任务学业表现（ill-structured task performance）** 在开放、无唯一正解、需自主检索与权衡矛盾证据的复杂任务中的论辩总分。
->    - **[[Reflexivity|反思性]]判断水平（reflective judgment level）** 劣构学术任务中展现出的审视自身偏见、权衡对立立场与情境化辩护的认知反思深度。
+>    - **[[Reflexivity|反思性]]判断水平（[[Reflective Judgment Model|Reflective Judgment]] level）** 劣构学术任务中展现出的审视自身偏见、权衡对立立场与情境化辩护的认知反思深度。
 > 
 > 3. **宏观长期学业成就（Overall Academic Indices）**
 >    - **加权实际总评学业成绩（overall academic average, OAA）** 学校教务档案记录的学生跨学科官方加权平均总分。
@@ -132,7 +134,7 @@ updated: 2026-08-19
 > 探讨任务结构如何充当关键情境边界，决定学生的[[Epistemological Beliefs|认识论信念]]何时对具体学业任务得分产生实质制约。
 
 > [!claim] [[Argument_Lodewyk_2007_EP|Lodewyk (2007, pp. 320–324)]]
-> **良构与劣构任务的表现分化** 学生的认识论信念对良构任务的学业表现完全不具预测力（$R^2 = .04, p = .37$），但对劣构任务的学业总分（$R^2 = .12, p = .01$）以及[[Reflexivity|反思性]]判断得分（$R^2 = .10, p = .04$）具有极强的预测效力。在良构任务中，教师提供的先行组织者、打包资料袋和明确评分细则充当了完备的脚手架，掩盖并补偿了[[Epistemology|认识论]]朴素带来的短板；而在缺乏现成算法的劣构任务中，简单知识信念成为核心制约瓶颈（$\beta = -.24, p = .02$），视知识为孤立碎片的学生在开放论辩中遭遇系统性学业挫折。
+> **良构与劣构任务的表现分化** 学生的认识论信念对良构任务的学业表现完全不具预测力（$R^2 = .04, p = .37$），但对劣构任务的学业总分（$R^2 = .12, p = .01$）以及[[Reflexivity|反思性]]判断得分（$R^2 = .10, p = .04$）具有极强的预测效力。在良构任务中，教师提供的先行组织者、打包资料袋和明确评分细则充当了完备的脚手架，掩盖并补偿了[[Epistemology|认识论]]朴素带来的短板；而在缺乏现成算法的劣构任务中，[[Simplicity of Knowledge|简单知识]]信念成为核心制约瓶颈（$\beta = -.24, p = .02$），视知识为孤立碎片的学生在开放论辩中遭遇系统性学业挫折。
 
 ---
 
@@ -220,7 +222,7 @@ updated: 2026-08-19
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级科学课学生（公立与独立教会学校） | [[Survey Research\|调查研究]]、多元分层回归与 MANOVA | 总体学业成就预估（EOAA）、固定快速学习（FQAL）、简单知识（SK）、确定知识（CK） | EOAA 全样本均值 74.11%；自报 EOAA 与官方实际总评成绩 OAA 相关 $r = .91$；控制 CK 后，FQAL 和 SK 显著负向预测 EOAA（增量 $\Delta R^2 = .08$）；高成就组在 FQAL 和 SK 上均显著成熟于低成就组（$M = -.22$ vs $.21$ 与 $-.21$ vs $.18$） | 回归增量 $F(3,436) = 12.09, p < .001$；学业组别 MANOVA 主效应 $F(6,874) = 5.52, p < .001, \eta^2 = .04$；FQAL 组间 $t = 3.89, p < .001, \eta^2 = .06$；SK 组间 $t = 3.97, p < .001, \eta^2 = .06$ | 证实长期平时总评学业成绩与能力可塑性及知识网络化信念高度挂钩 |
+> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级科学课学生（公立与独立教会学校） | [[Survey Research\|调查研究]]、多元分层回归与 MANOVA | 总体学业成就预估（EOAA）、固定快速学习（FQAL）、[[Simplicity of Knowledge\|简单知识]]（SK）、确定知识（CK） | EOAA 全样本均值 74.11%；自报 EOAA 与官方实际总评成绩 OAA 相关 $r = .91$；控制 CK 后，FQAL 和 SK 显著负向预测 EOAA（增量 $\Delta R^2 = .08$）；高成就组在 FQAL 和 SK 上均显著成熟于低成就组（$M = -.22$ vs $.21$ 与 $-.21$ vs $.18$） | 回归增量 $F(3,436) = 12.09, p < .001$；学业组别 MANOVA 主效应 $F(6,874) = 5.52, p < .001, \eta^2 = .04$；FQAL 组间 $t = 3.89, p < .001, \eta^2 = .06$；SK 组间 $t = 3.97, p < .001, \eta^2 = .06$ | 证实长期平时总评学业成绩与能力可塑性及知识网络化信念高度挂钩 |
 > | 同上 | 89名加拿大十年级中学生（独立学校实验子样本） | 平衡顺序组内对比设计（counterbalanced within-subject design） | 良构任务（WST）表现、劣构任务（IST）表现、[[Reflexivity\|反思性]]判断（RJ）得分 | WST 均分 70.30，IST 均分 67.72；认识论三因子无法预测 WST（$R^2 = .04, p = .37$），但显著预测 IST（$R^2 = .12, p = .01$）与 RJ（$R^2 = .10, p = .04$）；SK 是 IST 与 RJ 的核心负向预测源（$\beta = -.24, p = .02$） | 两任务均分差异 $t(88) = -1.38, p = .17, ES = 0.15$；IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$ | 确立任务结构对学业表现[[Epistemology\|认识论]]制约效应的关键调节作用 |
 > | 同上 | 447名全样本及89名实验子样本 | 性别差异对比分析（独立样本 t 检验与 MANOVA） | 生理性别（男/女）、EOAA、WST 表现、IST 表现、认识论三因子 | 女生在各维度学业成就上全面显著优于男生：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 信念成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST 性别差异 $t(87) = 2.92, p = .004, ES = .58$；IST 性别差异 $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明性别在长期与短期学业成就上的优势受更成熟的能力观与真理观支撑 |
 

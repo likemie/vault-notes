@@ -23,6 +23,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Simplicity of Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -90,7 +91,7 @@ updated: 2026-06-05
 > [!info]
 > 韩国高等教育毕业生比例在[[OECD]]成员国中位居首位。2010年启动"未来基础科学核心领军人才计划"培养硕博人才。在高校推行AI、区块链、大数据等前沿技术实习项目，引入AR/VR沉浸式教学。
 >
-> 以企业需求为导向：教育部自2022年起主导"半导体人才培养合作协议"，推动三星电子、SK海力士等龙头企业开展跨机构联合培养。
+> 以企业需求为导向：教育部自2022年起主导"半导体人才培养合作协议"，推动三星电子、[[Simplicity of Knowledge|SK]]海力士等龙头企业开展跨机构联合培养。
 
 ---
 

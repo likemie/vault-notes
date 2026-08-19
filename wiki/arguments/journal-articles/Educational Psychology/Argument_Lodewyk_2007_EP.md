@@ -21,6 +21,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Task Structure]]"
   - "[[Reflexivity]]"
+  - "[[Simplicity of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Questionnaire]]"
   - "[[Growth]]"
@@ -87,7 +88,7 @@ issuing_organization: ""
 > 尽管既有研究指出学生的[[Epistemological Beliefs|认识论信念]]与其思维推理、认知策略及学业成绩存在关联，但在常规课堂教学情境中，认识论信念如何随办学导向（公立学校与独立教会学校）、[[Academic Achievement|学业成就]]等级、性别以及微观教学[[Task Structure|任务结构]]（良构任务 vs 劣构任务）发生分化？特别是，认识论信念是否对不同结构化特征的任务表现和[[Reflexivity|反思性]]判断具有差异化的预测效力？（pp.307–308, 312）
 
 > [!claim] 核心主张
-> 中学生的认识论信念（尤其是固定与快速学习能力、简单知识信念）显著预测其总体学业成就；更关键的是，认识论信念对学术任务表现的预测力严格受任务结构的调节：简单知识信念显著负向预测劣构任务总分与反思性判断得分，但在良构任务中完全失去预测效力。（pp.320–324）
+> 中学生的认识论信念（尤其是固定与快速学习能力、[[Simplicity of Knowledge|简单知识]]信念）显著预测其总体学业成就；更关键的是，认识论信念对学术任务表现的预测力严格受任务结构的调节：简单知识信念显著负向预测劣构任务总分与反思性判断得分，但在良构任务中完全失去预测效力。（pp.320–324）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 加拿大大温哥华地区 6 所中学（5 所公立学校，1 所独立基督教学校）447 名十年级科学课学生（358 名公立学生，89 名独立学校学生）。（pp.313–314）
@@ -183,7 +184,7 @@ issuing_organization: ""
 ### 论证步骤一　中学生认识论信念的因子结构及其在办学导向上的分化
 
 > [!claim] 步骤一主张
-> 在中学生群体中，[[Epistemological Beliefs|认识论信念]]稳定汇聚为固定与快速学习能力（fixed and quick ability to learn, FQAL）、简单知识（simple knowledge, SK）与确定知识（certain knowledge, CK）三个相对独立的维度；新教独立学校学生的确定知识信念显著比公立学校学生更为成熟。（pp.317–318）
+> 在中学生群体中，[[Epistemological Beliefs|认识论信念]]稳定汇聚为固定与快速学习能力（fixed and quick ability to learn, FQAL）、[[Simplicity of Knowledge|简单知识]]（simple knowledge, SK）与确定知识（certain knowledge, CK）三个相对独立的维度；新教独立学校学生的确定知识信念显著比公立学校学生更为成熟。（pp.317–318）
 
 > [!concept-lens] 通俗解读：中学生的认识论信念究竟在想什么？
 > 认识论信念听起来抽象，但在中学生日常学习中表现得非常具体：
@@ -368,7 +369,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **[[Task Structure|任务结构]]调节[[Epistemology|认识论]]预测效力** [[Epistemological Beliefs|认识论信念]]对良构任务表现无显著预测力（$R^2 = .04, p = .37$），但显著预测劣构任务总分（$R^2 = .12, p = .01$）及[[Reflexivity|反思性]]判断得分（$R^2 = .10, p = .04$），确立了任务情境的边界调节作用。（pp.320–321）
-> 2. **简单知识信念是劣构推理的核心制约因素** 在控制学校宗教导向后，简单知识（SK）信念仍能独立解释劣构任务表现 8% 的增量方差及反思性判断 7% 的增量方差，视知识为简单孤立事实的学生在开放辩护中表现最差。（p.321）
+> 2. **[[Simplicity of Knowledge|简单知识]]信念是劣构推理的核心制约因素** 在控制学校宗教导向后，简单知识（SK）信念仍能独立解释劣构任务表现 8% 的增量方差及反思性判断 7% 的增量方差，视知识为简单孤立事实的学生在开放辩护中表现最差。（p.321）
 > 3. **认识论信念深度分化[[Academic Achievement|学业成就]]与性别群体** 固定快速学习（FQAL）与简单知识（SK）显著预测总体学业成就（$R^2 = .08$）；女生在学业表现、任务得分以及 FQAL 和 CK 信念成熟度上全面显著优于男生。（pp.318–322）
 
 > [!stat-cards]- 核心数据
@@ -381,7 +382,7 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card]- 简单知识与[[Task Structure|劣构任务]]困难
+> [!citation-card]- [[Simplicity of Knowledge|简单知识]]与[[Task Structure|劣构任务]]困难
 > 视知识为简单的学生，即寻求单一标准答案、回避歧义且过度依赖权威的学生，在应对需要[[Reflexivity|反思性]]判断、坚持性以及恰当自我调节学习的模糊任务特征时，往往会体验到更大的困难。（p.324）
 >
 > *Students who see knowledge as simple—that is, they seek single answers, avoid ambiguity, and depend too much on authority—tend to experience more difficulty with the ambiguous features of tasks that call for reflective judgments, perseverance, and appropriate self-regulated learning.*

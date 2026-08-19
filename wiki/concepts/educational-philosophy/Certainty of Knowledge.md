@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -38,6 +38,8 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Variable]]"
   - "[[Disciplinary Socialization]]"
+  - "[[Hypothesis]]"
+  - "[[Task Structure]]"
   - "[[Ontology]]"
   - "[[Postmodernism]]"
   - "[[Sample Size Determination]]"
@@ -51,6 +53,7 @@ related_theories:
   - "[[Reflective Judgment Model]]"
 related_methods:
   - "[[Causal Modeling]]"
+  - "[[Multiple Regression]]"
   - "[[Cohort Study]]"
 related_instruments:
   - "[[Global Certainty Scale]]"
@@ -69,6 +72,7 @@ related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Trautwein_2007_CEP]]"
+  - "[[Argument_Lodewyk_2007_EP]]"
 confidence: medium
 status: active
 created: 2026-05-22
@@ -204,6 +208,17 @@ updated: 2026-08-19
 
 ---
 
+### 命题四　办学导向与性别角色塑造确定知识信念的成熟度分化
+
+> [!concept-lens] 制度文化与性别社会化维度
+> 探讨办学导向与性别如何塑造学生对知识可变性与不确定性的包容水平。
+
+> [!claim] [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
+> **办学导向与性别分化主张** 确定知识信念的成熟度受学校办学导向与性别社会化的显著调节。
+> 实证研究表明，独立基督教学校学生在确定知识成熟度上显著超越公立学校学生（$M = -.26$ vs $.08, t = 2.85, p = .005, \eta^2 = .02$），打破了宗教办学必然导致绝对教条确定的刻板[[Hypothesis|假设]]，揭示了思辨性道德议题讨论对协调矛盾视角的促进作用；同时，女生在确定知识成熟度上显著高于男生（$t = -2.59, p = .01, \eta^2 = .02$）。在[[Multiple Regression|多元回归]]分析中，确定知识充当了不可或缺的基础控制变量，控制确定知识后方能更纯粹地识别出[[Simplicity of Knowledge|简单知识]]对[[Task Structure|劣构任务]]表现的特异性阻碍。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 317–318, 321–323)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -212,6 +227,7 @@ updated: 2026-08-19
 > | **文化哲学根基命题** | 知识的确定性是西方科学与哲学传统的根基，追求超越感官的客观真理 | 跨文化教育比较、中西学习传统哲学溯源 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 > | **心理认知维度命题** | 知识确定性是衡量个体认识论成熟度的连续谱系，决定元认知策略与信息加工深度 | 学习心理学、阅读理解与劣构问题推理 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
 > | **学业与学科双重塑造命题** | 确定性信念独立负向预测毕业成绩，并在大学专业中表现出“先验自我选择—后继学科社会化”双重机制 | 大规模纵向评估、高等教育选拔与学科文化研究 | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] |
+> | **办学导向与性别分化命题** | 独立学校思辨课程与女性认识方式显著促进对知识不确定性的包容 | 办学模式比较、性别差异与认识论发展 | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
 
 ---
 
@@ -255,6 +271,7 @@ updated: 2026-08-19
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，T1 $N = 2854$；大学追踪 T2 $N = 1094$） | 两波前瞻性面板设计与潜变量结构方程模型（[[Causal Modeling\|SEM]]） | 7 题全局确定性潜变量（[[Global Certainty Scale]]）、认知能力（德国认知能力测验 KFT 5 题包）、文化资本（藏书量）、毕业总评成绩（Abitur） | 1. 确定性信念显著负向预测毕业成绩：$\beta = -0.15$<br>2. 跨期自回归稳定性：$b = 0.54$<br>3. T1 专业自我选择（相比文科）：工科 $b = 0.38$、商科 $b = 0.33$、理科 $b = 0.39$、医科 $b = 0.38$<br>4. T2 控制 T1 后社会化净变化：工科 $b = 0.40$、商科 $b = 0.22$、社科 $b = -0.26$ | 1. $p < .001$<br>2. $p < .001$<br>3. $p < .01$<br>4. $p < .05$<br>模型拟合 $\text{TLI} = .952, \text{RMSEA} = .033$ | 样本抽自德国精英高级文理中学（Gymnasium，前 30% 学生），方差受限条件下该[[Effect Size\|效应量]]具有实质选拔意义 |
+> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级中学生（公立学校 $N=244$ vs 独立基督教学校 $N=203$） | [[Questionnaire\|问卷调查]]与 MANOVA 对比分析 | 确定知识（CK，3题，解释率 4.88%）、办学导向（公立 vs 独立）、性别（男 vs 女） | 1. 独立基督教学校学生在 CK 上显著成熟于公立学校学生（$M = -.26$ vs $.08$）<br>2. 女生在 CK 上显著成熟于男生（$M = -.11$ vs $.14$） | 1. $t = 2.85, p = .005, \eta^2 = .02$<br>2. $t = -2.59, p = .01, \eta^2 = .02$<br>MANOVA 办学导向主效应 $F(3,443) = 2.92, p = .03, \eta^2 = .02$ | 表明思辨性道德议题课程与关系性认识方式能有效促进个体对知识暂时性与不确定性的包容 |
 
 ---
 
@@ -264,3 +281,4 @@ updated: 2026-08-19
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 跨文化对比研究，揭示西方学习传统将追求外部世界确定性知识作为第一核心主题，以数学和公理演绎为典范，与儒家追求自我道德[[Self-Cultivation|修身]]的传统形成鲜明对照。
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 整合与提纯个人[[Epistemological Theories|认识论理论]]框架，将知识确定性确立为知识本质的核心维度，奠定了其作为连续谱系心理[[Construct|构念]]的测量基础。
 > - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 大规模纵向[[Cohort Study|面板研究]]，证实科学知识确定性信念在控制智力与家庭背景后仍显著负向预测毕业成绩，并揭示大学专业选择中存在自我选择与[[Disciplinary Socialization|学科社会化]]的双重机制。
+> - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 提供了中学生在确定知识（CK）上的办学导向分化与性别分化实证证据，证实了思辨课程对不确定性包容的培养作用。

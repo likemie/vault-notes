@@ -2634,7 +2634,10 @@
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Simplicity of Knowledge.md",
     "aliases": [
-      "知识的简单性"
+      "知识的简单性",
+      "简单知识",
+      "Simple Knowledge",
+      "structure of knowledge"
     ]
   },
   {
@@ -8579,7 +8582,10 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Gender Differences in Academic Achievement.md",
     "aliases": [
-      "学业成就性别差异"
+      "学业成就性别差异",
+      "学业表现性别差异",
+      "gender gap in achievement",
+      "gender differences in achievement"
     ]
   },
   {

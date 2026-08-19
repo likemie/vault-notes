@@ -36,6 +36,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Simplicity of Knowledge]]"
   - "[[Measurement Alignment]]"
   - "[[Metacognition]]"
   - "[[Rote Learning]]"
@@ -237,7 +238,7 @@ issuing_organization: ""
 > | **建构主义 (Constructivism)** | 认为学习是主动建构意义的过程（已被证实存在严重的概念混杂）。 |
 > | **[[Source of Knowledge\|知识的来源]] (Source of knowledge)** | 关注知识是来自外部权威赋权还是由个人内部建构。 |
 > | **个人证成 (Personal justification)** | 倾向于基于个人经验、观点或直觉来确证知识。 |
-> | **简单知识 (Simple knowledge)** | 认为知识是孤立的、碎片化的事实，而非复杂的关联网络。 |
+> | **[[Simplicity of Knowledge\|简单知识]] (Simple knowledge)** | 认为知识是孤立的、碎片化的事实，而非复杂的关联网络。 |
 > | **简单与确定知识 (Simple and certain)** | 混合维度：认为知识不仅是碎片化的事实，而且一成不变。 |
 > | **先天能力 (Innate ability)** | 认为学习能力是天生的、不可改变的（归为智力内隐理论）。 |
 > | **确定知识 (Certain knowledge)** | 认为知识是绝对不变的，排斥知识的暂定性（tentative）。 |

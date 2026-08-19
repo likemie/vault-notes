@@ -19,6 +19,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
+  - "[[Simplicity of Knowledge]]"
 related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
@@ -117,4 +118,4 @@ updated: 2026-08-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] — 量化部分利用探索性因子分析（EFA，带主成分提取）检验了包含 11 道题的教学信心量表结构，确认其单一维度结构并解释了 35.03% 的累积方差。
-> - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 对 447 名十年级中学生的 Schommer 修订版[[Epistemology|认识论]][[Questionnaire|问卷]]（[[Schommer's Modified Epistemological Questionnaire|SMEQ]]）52 个题项进行主轴探索性因子分析与方差最大旋转，提取出固定与快速学习能力（FQAL）、简单知识（SK）和确定知识（CK）三个核心因子（解释 16.81% 方差）。
+> - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 对 447 名十年级中学生的 Schommer 修订版[[Epistemology|认识论]][[Questionnaire|问卷]]（[[Schommer's Modified Epistemological Questionnaire|SMEQ]]）52 个题项进行主轴探索性因子分析与方差最大旋转，提取出固定与快速学习能力（FQAL）、[[Simplicity of Knowledge|简单知识]]（SK）和确定知识（CK）三个核心因子（解释 16.81% 方差）。

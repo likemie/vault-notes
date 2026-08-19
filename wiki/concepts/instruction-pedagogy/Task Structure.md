@@ -17,6 +17,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemological Beliefs]]"
   - "[[Epistemology]]"
+  - "[[Simplicity of Knowledge]]"
   - "[[Hypothesis]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
@@ -74,7 +75,7 @@ updated: 2026-08-19
 ### 命题一　任务结构的松散程度决定了认识论信念对学术表现的预测力与激活机制
 
 > [!concept-lens] [[Epistemological Beliefs|认识论信念]]的激活条件
-> 探讨任务结构如何作为边界条件，决定认识论信念（尤其是简单知识与确定性信念）何时对学业产出产生实质影响。
+> 探讨任务结构如何作为边界条件，决定认识论信念（尤其是[[Simplicity of Knowledge|简单知识]]与确定性信念）何时对学业产出产生实质影响。
 
 > [!claim] [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
 > **劣构任务特异性预测效应** 学生的认识论信念对良构任务的表现无显著预测力（$R^2 = .04, p = .37$），但对劣构任务的表现具有显著预测力（$R^2 = .12, p = .01$）；其中简单知识（simple knowledge, SK）信念越朴素（认为知识由孤立碎片构成、回避复杂性），在劣构任务中的总成绩（$\beta = -0.24, R^2 = .06, p = .02$）和[[Reflexivity|反思性]]判断得分（$\beta = -0.24, R^2 = .06, p = .02$）越差。这是因为劣构任务的模糊性与复杂性激活了认识动机（epistemic motivation），迫使认知者进行[[Hypothesis|假设]]检验与认知解冻；而良构任务因提供现成线索与明确标准，抵消了个体认识论信念朴素带来的认知劣势。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 320-324)]]

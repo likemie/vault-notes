@@ -270,7 +270,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 >   认为智力是先天固定的，还是可通过[[Conatus|努力]]改变的。
 > - **快速学习（quick learning）**
 >   认为学习要么立刻发生要么根本不发生。
-> - **简单知识（simple knowledge）**
+> - **[[Simplicity of Knowledge|简单知识]]（simple knowledge）**
 >   知识是孤立的、无歧义的片段。
 > - **确定知识（certain knowledge）**
 >   知识是绝对不变的。

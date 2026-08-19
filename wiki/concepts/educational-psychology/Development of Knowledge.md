@@ -76,7 +76,7 @@ updated: 2026-08-19
 > [!taxonomy] 理论模型中的构念归属
 > 知识发展在不同理论框架中具有明确的坐标定位：
 > - **发展模型视角** 对应于 Perry (1970) 的评价主义（Evaluatism）阶段与 King & Kitchener (1994) 的[[Reflective Thinking|反思性思维]]阶段，表现为对知识相对性与证据演化性的协调。
-> - **多维信念系统视角** 属于 Hofer & Pintrich (1997) 框架中“知识的性质”维度的核心组成部分，与“[[Simplicity of Knowledge|知识的简单性]]”并列。
+> - **多维信念系统视角** 属于 [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 框架中“知识的性质”维度的核心组成部分，与“[[Simplicity of Knowledge|知识的简单性]]”并列。
 > - **Conley et al. (2004) 测量体系** 在中小学科学[[Epistemology|认识论]]量表中被独立[[Operationalization|操作化]]为核心分量表，专门测量儿童对科学知识变化演进的理解。
 
 ---
@@ -133,14 +133,14 @@ updated: 2026-08-19
 
 ## 实证数据
 
-> [!ma-table]- [[Meta-analysis|元分析]][[Construct|构念]][[Effect Size|效应量]]比较（[[Argument_Greene_2018_JEP|Greene et al., 2018]]）
+> [!ma-table]- 元分析构念效应量比较
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | [[Epistemology\|认识论]]构念 | k | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 相对地位 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 知识的发展 (Development of knowledge) | 18 | r；随机效应 | 0.274 [0.180, 0.363] | 效应量最高（第 1 位） | 测量对科学与知识动态演化的理解 |
 > | 同上 | 知识的证成 (Justification of knowledge) | 26 | r；随机效应 | 0.228 [0.160, 0.294] | 高预测力（第 4 位） | 强调证据与规则评估 |
-> | 同上 | 简单知识 (Simple knowledge) | 52 | r；随机效应 | 0.162 [0.113, 0.209] | 中等效应 | 关注知识的孤立 vs 关联结构 |
+> | 同上 | [[Simplicity of Knowledge\|简单知识]] (Simple knowledge) | 52 | r；随机效应 | 0.162 [0.113, 0.209] | 中等效应 | 关注知识的孤立 vs 关联结构 |
 > | 同上 | 确定知识 (Certain knowledge) | 78 | r；随机效应 | 0.136 [0.087, 0.184] | 相对偏低 | 仅测量对绝对不变性的排斥 |
 > | 同上 | 全知权威 (Omniscient authority) | 26 | r；随机效应 | 0.083 [0.024, 0.141] | 极低效应 | 粗糙自陈量表难以捕捉合理信任 |
 
