@@ -23,9 +23,11 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Constructed Knowledge]]"
-  - "[[Variable]]"
+  - "[[Source of Knowledge]]"
+  - "[[Epistemic Aims]]"
+  - "[[Epistemic Resources]]"
   - "[[Domain Specificity]]"
+  - "[[Variable]]"
   - "[[Study Population and Sample]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
@@ -34,15 +36,19 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
   - "[[Rote Learning]]"
-  - "[[Procedural Knowledge]]"
+  - "[[Educational Level]]"
   - "[[Theoretical Validity]]"
+  - "[[Sample Size Determination]]"
   - "[[Internal Consistency]]"
+  - "[[Epistemological Understanding]]"
+  - "[[Justification for Knowing]]"
   - "[[Construct Validity]]"
   - "[[Praxis]]"
+  - "[[Procedural Knowledge]]"
   - "[[Causality]]"
-  - "[[Sample Size Determination]]"
 related_theories:
-  - "[[Cognitive Constructivism]]"
+  - "[[Reflective Judgment Model]]"
+  - "[[Situative Perspective]]"
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Meta-analysis]]"
@@ -53,7 +59,8 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Thomas Kuhn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
@@ -100,19 +107,19 @@ issuing_organization: ""
 
 ## 理论框架
 
-> [!quad-grid] 认识论认知（[[Epistemic Cognition]]）的四大类理论模型
+> [!quad-grid] [[Epistemic Cognition|认识论认知]]（[[Epistemic Cognition]]）的四大类理论模型
 > - **发展模型 (Developmental Models)**
->   发端于 Perry (1970)。认为认识论认知遵循阶段性演进：从**绝对主义**（知识简单确定且由权威赋予）、经历**多元主义**（知识皆为主观意见），最终走向**评价主义**（知识是情境建构的，需要基于证据评估）。代表模型包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的反思性判断模型。
+>   发端于 Perry (1970)。认为认识论认知遵循阶段性演进：从**绝对主义**（知识简单确定且由权威赋予）、经历**多元主义**（知识皆为主观意见），最终走向**评价主义**（知识是情境建构的，需要基于证据评估）。代表模型包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model|反思性判断模型]]。
 > - **多维模型 (Multidimensional Models)**
->   发端于 Schommer (1990)。认为认识论是由若干相对独立的“信念维度”组成，而非整体式的阶段。Hofer & Pintrich (1997) 将其经典化，划分为**知识的性质**（简单性、确定性）与**认识的性质**（知识的来源、知识的证成）两大核心簇。
+>   发端于 Schommer (1990)。认为[[Epistemology|认识论]]是由若干相对独立的“信念维度”组成，而非整体式的阶段。[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 将其经典化，划分为**知识的性质**（简单性、确定性）与**认识的性质（[[Source of Knowledge|知识的来源]]、知识的证成）**两大核心簇。
 > - **哲学驱动模型 (Philosophically Driven Models)**
->   旨在解决早期心理学模型缺乏“分析认识论”根基的问题。以 Chinn, Buckland, & Samarapungavan (2011) 的 AIR 模型为首，将其拆解为：**认识论目标（Epistemic aims，如追求理解或真理）**、**认识论理想（Ideals，评价真理的标准）**以及**可靠过程（Reliable processes，实现目标的程序）**。
+>   旨在解决早期心理学模型缺乏“分析认识论”根基的问题。以 Chinn, Buckland, & Samarapungavan (2011) 的 AIR 模型为首，将其拆解为：**[[Epistemic Aims|认识论目标]]（Epistemic aims，如追求理解或真理）**、**认识论理想（Ideals，评价真理的标准）**以及**可靠过程（Reliable processes，实现目标的程序）**。
 > - **学科/领域驱动模型 (Discipline-Driven Models)**
->   受情境认知（situated cognition）启发，强调认识论高度依赖特定任务情境。如 Elby & Hammer (2001) 的“认识论资源”模型指出，学生会在分析史料时动态激活不同的认识论预设；而 Muis, Bendixen, & Haerle (2006) 则进一步系统化了领域特异性的理论框架。
+>   受[[Situative Perspective|情境认知]]（situated cognition）启发，强调认识论高度依赖特定任务情境。如 Elby & Hammer (2001) 的“[[Epistemic Resources|认识论资源]]”模型指出，学生会在分析史料时动态激活不同的认识论预设；而 Muis, Bendixen, & Haerle (2006) 则进一步系统化了[[Domain Specificity|领域特异性]]的理论框架。
 
-> [!theory-boundary] 概念隔离：与建构主义的边界
+> [!theory-boundary] 概念隔离：与[[Constructivist Paradigm|建构主义]]的边界
 > - **认识论认知 (Epistemic Cognition)** 旨在探究个人如何界定“知识的本质”及其确证过程。
-> - **[[Cognitive Constructivism|建构主义]]** 侧重于人类大脑如何“[[Constructed Knowledge|构建心理表征]]”（mental representations）。本文强调，将[[Constructivist Paradigm|建构主义]]量表误用为认识论测量，是该领域最大的混杂因素之一。
+> - **建构主义** 侧重于人类大脑如何“构建心理表征”（mental representations）。本文强调，将[[Constructivist Paradigm|建构主义]]量表误用为认识论测量，是该领域最大的混杂因素之一。
 
 > [!warrant]- 理论如何支撑论证
 > 论文通过梳理上述不同理论模型的发展轨迹，将这些模型及其包含的具体[[Construct|构念]]（如确定性、简单性、权威、证成、目标等）作为[[Meta-analysis|元分析]]的调节[[Variable|变量]]（moderators），以此验证哪种理论概念化方式最能真实预测[[Academic Achievement|学业成就]]，从而为未来量表的开发指明方向。
@@ -175,7 +182,7 @@ issuing_organization: ""
 > > [!evidence-grid] 证实不存在发表偏倚的多重统计检验
 > > - **漏斗图与插补测试 (Funnel Plot & Imputing)** [[Standard Error|标准误]]与 Fisher's z 的漏斗图基本对称；CMA 软件的缺失研究插补测试表明，插补缺失数据后漏斗图外观无显著变化。
 > > - **经典失安全系数 (Classic Fail-safe N)** 为 9,265。即需要 9,265 项呈现零效应的未发表研究，才能将观察到的 $p$ 值推升至 .05 以上。
-> > - **Orwin's 失安全系数 (Orwin's Fail-safe N)** 为 881。将微小相关性阈值设为 .100，缺失研究的平均相关性设为 .090，仍需额外 881 项研究才能将整体效应量拉低至微小阈值之下。
+> > - **Orwin's 失安全系数 (Orwin's Fail-safe N)** 为 881。将微小相关性阈值设为 .100，缺失研究的平均相关性设为 .090，仍需额外 881 项研究才能将整体[[Effect Size|效应量]]拉低至微小阈值之下。
 > > - **Duval & Tweedie 修剪与填充 (Trim-and-fill)** 检验未指示需要进行任何修剪或填充，效应量分布未见偏倚倾斜。
 
 > [!ma-table]- 表 5：认识论认知与学业成就的总体相关性
@@ -219,7 +226,7 @@ issuing_organization: ""
 > | **多源证成 (Multiple justification)** | 认为需要整合多个来源的证据来交叉验证知识。 |
 > | **学习速度 (Quick learning)** | 认为学习要么很快发生，要么永远学不会（归为智力内隐理论）。 |
 > | **建构主义 (Constructivism)** | 认为学习是主动建构意义的过程（已被证实存在严重的概念混杂）。 |
-> | **知识的来源 (Source of knowledge)** | 关注知识是来自外部权威赋权还是由个人内部建构。 |
+> | **[[Source of Knowledge\|知识的来源]] (Source of knowledge)** | 关注知识是来自外部权威赋权还是由个人内部建构。 |
 > | **个人证成 (Personal justification)** | 倾向于基于个人经验、观点或直觉来确证知识。 |
 > | **简单知识 (Simple knowledge)** | 认为知识是孤立的、碎片化的事实，而非复杂的关联网络。 |
 > | **简单与确定知识 (Simple and certain)** | 混合维度：认为知识不仅是碎片化的事实，而且一成不变。 |
@@ -227,7 +234,7 @@ issuing_organization: ""
 > | **确定知识 (Certain knowledge)** | 认为知识是绝对不变的，排斥知识的暂定性（tentative）。 |
 > | **基于权威的证成 (Justification by authority)** | 认为知识只需要权威（如书本、专家）背书即可成立。 |
 > | **全知权威 (Omniscient authority)** | 认为权威掌握着所有的真理，不会犯错。 |
-> | **认识论目标 (Epistemic aims)** | 认知活动追求的终点（如获得满分 vs 追求深层理解）。 |
+> | **[[Epistemic Aims\|认识论目标]] (Epistemic aims)** | 认知活动追求的终点（如获得满分 vs 追求深层理解）。 |
 > | **真理的可及性 (Attainability of truth)** | 是否认为最终可以获得绝对且客观的真理。 |
 > | **知识的结构 (Structure of knowledge)** | 关注知识的组织形态（如层级式或网络式）。 |
 > | **微观可变性 (Texture & Variability)** | 特定实验任务中的细粒度知识建构属性。 |
@@ -322,7 +329,7 @@ issuing_organization: ""
 > 认识论认知对成绩的影响不限于大学生，在中小学甚至更强；且它与论证及概念理解紧密挂钩，而非[[Rote Learning|死记硬背]]。
 
 > [!chain-link] 证据到判断
-> - **学段（Educational Level）的“反直觉”倒挂** 在过去的文献中，研究者受早期发展模型影响，往往将重点放在大学生群体，默认中小学生缺乏成熟的认识论认知。然而元分析数据显示，**初中生（$r = .246$）和小学生（$r = .212$）的整体效应量显著高于大学生（$r = .131$）**，且初中生与大学生的 95% CI 完全不重叠，证明这一“倒挂”差异具有高度的统计稳健性。
+> - **学段（[[Educational Level]]）的“反直觉”倒挂** 在过去的[[Document|文献]]中，研究者受早期发展模型影响，往往将重点放在大学生群体，默认中小学生缺乏成熟的认识论认知。然而元分析数据显示，**初中生（$r = .246$）和小学生（$r = .212$）的整体效应量显著高于大学生（$r = .131$）**，且初中生与大学生的 95% CI 完全不重叠，证明这一“倒挂”差异具有高度的统计稳健性。
 > - **高阶成就类型的强挂钩** 成就指标的要求越高阶，其与认识论信念的相关性就越强。预测**概念性知识（$r = .190$）**和**论证能力（$r = .154$）**的效应量，明显强于底层的陈述性知识（$r = .127$）和程序性知识（$r = .077$）。
 > - **成就测量方式的客观性惩罚** 在成绩数据的获取途径上，采用**标准化测试（$r = .214$）**和研究者开发测试（$r = .177$）客观记录成绩的研究，效应量远超依靠参与者主观自报（$r = .083$）的研究。这两者的 CI 区间完全不重叠，提示了自报成绩的主观偏差会严重稀释真实的理论关联。
 
@@ -364,8 +371,8 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - **同行评审的质量门槛** 经过同行评审的期刊文献（$r = .175$）由于数据清洗和质量把控更严，其报告的效应量显著高于学术会议论文（$r = .097$），两者的 95% CI 互不重叠。
-> - **问卷效力的巨大方差** 当样本量 $k > 5$ 时，各问卷捕获的效应量存在天壤之别。领域对口的印第安纳数学信念量表（Indiana Mathematics Belief Scale, $r = .421$）和 Conley et al. (2004) 问卷（Conley et al. Questionnaire, $r = .242$）表现出极强的预测力；而曾经非常流行的 Hofer (2000) 特定学科认识论信念问卷（Discipline-Focused Epistemological Beliefs Questionnaire, DEBQ，$r = .059$）和 Jehng et al. (1993) 问卷（Jehng et al. Questionnaire, $r = .051$）的整体效应竟然在统计学上不显著异于 0。
-> - **决定性的“信度回归”** 元回归（Meta-regression）分析揭示，问卷的[[Internal Consistency|内部一致性信度]]直接决定了效应量大小（$b = .300, p < .001$）。在这个回归模型中，如果一份问卷的信度是 0，那么它与成绩的相关性也会归 0；而如果一份问卷的信度达到完美的 1.0，它与成绩的预期相关性将高达 $r = .300$！
+> - **问卷效力的巨大方差** 当[[Sample Size Determination|样本量]] $k > 5$ 时，各问卷捕获的效应量存在天壤之别。领域对口的印第安纳数学信念量表（Indiana Mathematics Belief Scale, $r = .421$）和 Conley et al. (2004) 问卷（Conley et al. Questionnaire, $r = .242$）表现出极强的预测力；而曾经非常流行的 Hofer (2000) 特定学科认识论信念问卷（Discipline-Focused Epistemological Beliefs Questionnaire, DEBQ，$r = .059$）和 Jehng et al. (1993) 问卷（Jehng et al. Questionnaire, $r = .051$）的整体效应竟然在统计学上不显著异于 0。
+> - **决定性的“信度回归”** 元回归（Meta-regression）分析揭示，问卷的[[Internal Consistency|内部一致性]]信度直接决定了效应量大小（$b = .300, p < .001$）。在这个回归模型中，如果一份问卷的信度是 0，那么它与成绩的相关性也会归 0；而如果一份问卷的信度达到完美的 1.0，它与成绩的预期相关性将高达 $r = .300$！
 
 > [!ma-table]- 表 15：同行评审状态调节变量分析
 > | 同行评审状态 | k | 效应量 (ES) | 95% CI |
@@ -380,8 +387,8 @@ issuing_organization: ""
 > | 印第安纳数学信念量表 | 5 | .421 | [.196, .604] |
 > | 希腊物理认识论信念评估工具（Greek Epistemological Beliefs Evaluation Instrument for Physics, GEBEP） | 1 | .284 | [.062, .478] |
 > | Conley et al. (2004) 问卷 | 17 | .242 | [.155, .325] |
-> | 认识论理解量表（Epistemic Understanding Inventory, EUI） | 5 | .242 | [.104, .371] |
-> | Bråten et al. 认知证成问卷（Justification for Knowing Questionnaire, JFK-Q） | 7 | .179 | [.100, .255] |
+> | [[Epistemological Understanding\|认识论理解]]量表（Epistemic Understanding Inventory, EUI） | 5 | .242 | [.104, .371] |
+> | Bråten et al. 认知证成问卷（[[Justification for Knowing]] Questionnaire, JFK-Q） | 7 | .179 | [.100, .255] |
 > | 认识论信念内涵方面问卷（Connotative Aspects of Epistemological Beliefs Questionnaire, CAEB） | 3 | .170 | [.022, .312] |
 > | Elder (1999) 问卷（Elder Questionnaire） | 4 | .166 | [.006, .317] |
 > | Schommer (1990) 认识论问卷（Epistemological Questionnaire, EQ） | 53 | .156 | [.115, .195] |

@@ -13,41 +13,47 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
-  - "[[Epistemic Aims]]"
-  - "[[Praxis]]"
+  - "[[Document]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Epistemic Commitments]]"
-  - "[[Critical Thinking]]"
-  - "[[Epistemic Value]]"
+  - "[[Hypothesis]]"
+  - "[[Source of Knowledge]]"
+  - "[[Construct]]"
+  - "[[Epistemic Aims]]"
+  - "[[Epistemic Resources]]"
+  - "[[Domain Specificity]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Causal Processes]]"
-  - "[[Ontology]]"
-  - "[[Epistemic Resources]]"
+  - "[[Causality]]"
   - "[[Epistemic Climate]]"
+  - "[[Questionnaire]]"
+  - "[[Reliability]]"
+  - "[[Internal Consistency]]"
+  - "[[Effect Size]]"
+  - "[[Academic Achievement]]"
+  - "[[Praxis]]"
+  - "[[Construct Validity]]"
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
-  - "[[Academic Achievement]]"
   - "[[Variable]]"
-  - "[[Construct]]"
   - "[[Publication Bias]]"
+  - "[[Ontology]]"
 related_theories:
+  - "[[Reflective Judgment Model]]"
   - "[[Situative Perspective]]"
-  - "[[Cognitive Constructivism]]"
   - "[[Integrative Pluralism]]"
 related_methods:
-  - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Triangulation]]"
+  - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Chinn_2011_EP]]"
-  - "[[Argument_Sandoval_2016_RRE]]"
   - "[[Argument_Greene_2018_JEP]]"
+  - "[[Argument_Hofer_1997_RER]]"
+  - "[[Argument_Sandoval_2016_RRE]]"
 confidence: high
 status: draft
 created: 2026-08-17
@@ -79,7 +85,7 @@ updated: 2026-08-19
 > [!taxonomy] [[Epistemology|认识论]]认知的四大理论流派
 > [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 通过全面梳理，将半个多世纪以来的理论演进归纳为四种截然不同的架构：
 > - **发展模型（Developmental Models）** 发端于 Perry (1970)。该流派认为认识论认知遵循严格的宏观阶段性演进：从早期的绝对主义（Absolutism，知识由权威赋予且简单确定），经历多元主义（Multiplism，知识皆为主观意见），最终走向成熟的评价主义（Evaluatism，知识是情境建构的，需基于证据进行客观评估）。其代表模型还包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model|反思性判断模型]]。
-> - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的[[Hypothesis|假设]]，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。Hofer & Pintrich (1997) 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge|知识的来源]]、知识的证成）两大核心[[Construct|构念]]簇。
+> - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的[[Hypothesis|假设]]，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge|知识的来源]]、知识的证成）两大核心[[Construct|构念]]簇。
 > - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 Chinn et al. (2011) 提出的 AIR 框架为绝对代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims|认识论目标]]（Epistemic aims）、评估证据的认识论理想（Epistemic ideals）以及实现这些目标的可靠过程（Reliable processes）。
 > - **学科/领域驱动模型（Discipline-Driven Models）** 受[[Situative Perspective|情境认知]]（Situated cognition）理论深度启发，强调认识论并不是跨领域的稳定特质，而是高度依赖特定任务情境的。例如，Elby & Hammer (2001) 提出的[[Epistemic Resources|认识论资源]]模型明确指出，学生在分析历史史料与解决物理方程时，会瞬间动态激活完全不同的认识论预设；而 Muis et al. (2006) 则进一步系统化了这种[[Domain Specificity|领域特异性]]的理论框架。
 
@@ -147,7 +153,7 @@ updated: 2026-08-19
 > - **1970–1994 — 起源阶段：发展模型** Perry (1970) 和 Kuhn (1991) 确立了个体[[Epistemology|认识论]]从绝对主义到评价主义的宏大线性发展阶段。
 > - **1990–1997 — 扩展阶段：多维模型** Schommer (1990) 以及 Hofer & Pintrich (1997) 打破了单维发展观，提出知识确定性、来源等多维独立的信念系统。
 > - **2001–2006 — 转向阶段：学科/领域驱动模型** Elby & Hammer (2001) 提出微观的[[Epistemic Resources|认识论资源]]，Muis et al. (2006) 确立了情境依赖性，摒弃了跨领域稳定特质的[[Hypothesis|假设]]。
-> - **2011至今 — 教育研究应用：哲学驱动与整合框架** Chinn et al. (2011) 与 Sandoval et al. (2016) 提出了基于规范哲学与多层系统的整合框架；Greene et al. (2018) 的[[Meta-analysis|元分析]]确立了该领域的实证基准。
+> - **2011至今 — 教育研究应用：哲学驱动与整合框架** [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 与 Sandoval et al. (2016) 提出了基于规范哲学与多层系统的整合框架；[[Argument_Greene_2018_JEP|Greene et al. (2018)]] 的[[Meta-analysis|元分析]]确立了该领域的实证基准。
 
 ---
 

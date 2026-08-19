@@ -13,8 +13,10 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Epistemological Resources]]"
   - "[[Questionnaire]]"
+  - "[[Rote Learning]]"
+  - "[[Praxis]]"
+  - "[[Practical Epistemology]]"
   - "[[Domain Specificity]]"
 related_theories:
   - "[[Integrative Pluralism]]"
@@ -25,6 +27,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Sandoval_2016_RRE]]"
+  - "[[Argument_Sandoval_2005_SE]]"
 confidence: high
 status: draft
 created: 2026-08-19
@@ -52,7 +55,7 @@ updated: 2026-08-19
 > [!feature] 资源的激活与调配机制
 > - **情境特异性（Context Specificity）** [[Epistemology|认识论]]资源没有优劣之分，只有“是否匹配当前情境”之分。在紧急逃生演习中激活“听从权威”资源是极具适应性的，而在学术辩论中激活该资源则是不恰当的。
 > - **与框架（Framing）的耦合** 资源的激活高度依赖于学生如何“框架化（frame）”当前的活动。如果学生认为当前物理课是一场“做题游戏”，他们会激活寻找记忆公式的资源；如果学生将其框架化为“解释自然现象的探究”，他们就会激活“常识推理”与“逻辑论证”资源。
-> - **极高的动态切换能力** 研究表明，在没有任何宏大的认知发育或长期干预的情况下，学生仅仅因为教师的一句引导或任务指令的微调，就能在几秒钟内实现不同[[Epistemological Resources|认识论资源]]的无缝切换。
+> - **极高的动态切换能力** 研究表明，在没有任何宏大的认知发育或长期干预的情况下，学生仅仅因为教师的一句引导或任务指令的微调，就能在几秒钟内实现不同认识论资源的无缝切换。
 
 ---
 
@@ -67,8 +70,8 @@ updated: 2026-08-19
 > > - **资源派（微观情境派）** 认为试图测量跨情境稳定的信念本身就是在测量一种错觉。但也承认，要捕捉瞬间激活的微观资源，只能依赖深度的[[Discourse Analysis|话语分析]]或视频刺激回顾，这带来了极大的“推论难题（inference problem）”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 >
 > > [!critique] 外部批评
-> > - **理论边界过于宽泛（概念混淆）** Sandoval (2005) 指出，Hammer & Elby 对微观资源的定义可能过度泛化。例如，他们将“死记硬背（memorize）”等纯粹的学习策略也视为一种认识论资源，这导致了“关于知识本质的信念”与“关于学习策略的信念”之间的严重混淆。
-> > - **忽视学科探究的特异性** 像“知识是实体”这样极度一般性的微观资源，无法解释科学与历史等不同学科在探究实践上的根本差异。基于此批评，Sandoval (2005) 提出了[[Practical Epistemology|实践认识论]]，它吸收了“情境触发”的优势，但将概念范围严格限制在特定学科的探究形式上。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
+> > - **理论边界过于宽泛（概念混淆）** [[Argument_Sandoval_2005_SE|Sandoval (2005)]] 指出，Hammer & Elby 对微观资源的定义可能过度泛化。例如，他们将“[[Rote Learning|死记硬背]]（memorize）”等纯粹的学习策略也视为一种认识论资源，这导致了“关于知识本质的信念”与“关于学习策略的信念”之间的严重混淆。
+> > - **忽视学科探究的特异性** 像“知识是实体”这样极度一般性的微观资源，无法解释科学与历史等不同学科在探究[[Praxis|实践]]上的根本差异。基于此批评，[[Argument_Sandoval_2005_SE|Sandoval (2005)]] 提出了[[Practical Epistemology|实践认识论]]，它吸收了“情境触发”的优势，但将概念范围严格限制在特定学科的探究形式上。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
 
 ---
 
@@ -76,4 +79,4 @@ updated: 2026-08-19
 
 > [!evidence-grid-a] 相关研究索引
 > - **Hammer & Elby (2002)** — 首次提出“[[Epistemology|认识论]]资源”与“认识论框架”概念，通过物理教学的实证案例展示了学生在不同课堂互动中如何调配不同的微观资源。
-> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将[[Epistemological Resources|认识论资源]]作为[[Integrative Pluralism|整合多元主义]]框架中“个体层级”的基石，并指出其对传统[[Domain Specificity|领域特异性]]（[[Domain Specificity]]）研究在“颗粒度”上的降维打击。
+> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将认识论资源作为[[Integrative Pluralism|整合多元主义]]框架中“个体层级”的基石，并指出其对传统[[Domain Specificity|领域特异性]]（[[Domain Specificity]]）研究在“颗粒度”上的降维打击。
