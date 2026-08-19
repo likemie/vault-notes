@@ -19,7 +19,6 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Praxis]]"
   - "[[Document]]"
-  - "[[Constructivist Paradigm]]"
   - "[[Ontology]]"
   - "[[Epistemological Naturalism]]"
   - "[[Causal Processes]]"
@@ -46,11 +45,13 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Epistemic Commitments]]"
   - "[[Paradigm]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Epistemological Theories]]"
   - "[[Paradigm Wars]]"
   - "[[Reliability]]"
 related_theories:
   - "[[Integrative Pluralism]]"
+  - "[[Cognitive Constructivism]]"
   - "[[Reliabilism]]"
   - "[[Situative Perspective]]"
 related_methods:
@@ -82,7 +83,7 @@ title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -263,7 +264,7 @@ issuing_organization: ""
 
 > [!chain-link] 从割裂走向整合的论证路径
 > - **链节一 承认“多层级聚合”的解释合法性**
->   作者指出，建构主义和情境主义的本体论之争，本质上是因为它们关注的是不同的“聚合层级（levels of aggregation）”。要实现理论和解，必须停止跨层级的盲目攻击，承认各范式在其特有层级上的合法性：
+>   作者指出，个体[[Constructivist Paradigm|建构主义]]和情境主义的本体论之争，本质上是因为它们关注的是不同的“聚合层级（levels of aggregation）”。要实现理论和解，必须停止跨层级的盲目攻击，承认各范式在其特有层级上的合法性：
 >   1. **个体层级（Individual）** 聚焦学生头脑内部（如认知心理学），探讨个体如何调配内部的“认识论资源”。
 >   2. **人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动，探讨学生在小组合作中如何与他人动态协商、确立共同的认识论标准（epistemic aims）。
 >   3. **活动系统层级（Activity System）** 聚焦宏观的社会文化环境，探讨课堂、学校或科学共同体层面的制度规范与集体性的“认识论氛围（epistemic climate）”。

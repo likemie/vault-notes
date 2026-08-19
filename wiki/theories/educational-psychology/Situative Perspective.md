@@ -8,10 +8,10 @@ aliases:
 summary: "一种将学习和认知视为特定社会、文化与物理环境中持续进行的参与实践（participation in social practices），而非个体头脑内部脱域知识存储的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 8
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 20
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "educational-psychology"
 related_count: 0
 related_level: 0
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Epistemic Commitments]]"
 related_theories:
+  - "[[Cognitive Constructivism]]"
   - "[[Integrative Pluralism]]"
 related_methods:
   - "[[Ethnography]]"
@@ -126,7 +127,7 @@ updated: 2026-08-19
 > > [!axis] [[Ontology|本体论]]断裂：情境主义 vs 个体[[Constructivist Paradigm|建构主义]]
 > > 这是学习科学中最旷日持久的“[[Paradigm Wars|范式战争]]”。
 > >
-> > - **个体建构主义（Cognitive Constructivism）** 聚焦个体头脑内部知识结构的同化与顺应，认为环境只是刺激。
+> > - **[[Cognitive Constructivism|个体建构主义]]（Cognitive Constructivism）** 聚焦个体头脑内部知识结构的同化与顺应，认为环境只是刺激。
 > > - **情境主义（Situative Perspective）** 认为个体建构派彻底搞错了本体论，把“社会[[Praxis|实践]]”错误地还原成了“脑内[[Coding in Qualitative Research|编码]]”。Packer & Goicoechea (2000) 认为这两者是不可通约的（incommensurate）。
 
 > [!warning] 方法论的推论危机（Inference Problem）
