@@ -9,7 +9,7 @@ summary: "在多个时间点对同一或不同受访者收集数据的调查研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Reliability]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Disciplinary Socialization]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Cohort Study]]"
@@ -207,4 +208,4 @@ updated: 2026-08-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统讨论了纵向研究作为[[Survey Research|调查研究]]设计的定义、类型（前瞻性/回溯性、队列/面板/趋势）、优势与局限，以及与其他研究设计的比较。
-> - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 采用两波前瞻性面板追踪设计（高中毕业阶段 T1 与大学就读阶段 T2，间隔两年），通过在跨期回归模型中控制 T1 初始信念，成功分离并检验了[[Epistemological Beliefs|认识论信念]]在专业发展中的“自我选择效应”与“学科社会化效应”。
+> - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 采用两波前瞻性面板追踪设计（高中毕业阶段 T1 与大学就读阶段 T2，间隔两年），通过在跨期回归模型中控制 T1 初始信念，成功分离并检验了[[Epistemological Beliefs|认识论信念]]在专业发展中的“自我选择效应”与“[[Disciplinary Socialization|学科社会化]]效应”。

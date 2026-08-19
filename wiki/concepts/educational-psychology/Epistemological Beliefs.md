@@ -3,7 +3,7 @@ title: Epistemological Beliefs
 summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Epistemological Theories]]"
   - "[[Academic Achievement]]"
+  - "[[Disciplinary Socialization]]"
   - "[[Ontology]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Source of Knowledge]]"
@@ -39,7 +40,8 @@ related_methods:
   - "[[Factor Mixture Modeling]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[TOSCA]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Trautwein_2007_CEP]]"
@@ -71,7 +73,7 @@ updated: 2026-08-19
 > - **20 世纪 70-80 年代 — 发展阶段论起源** Perry (1970) 等人首创对大学生认知发展历程的探究，将[[Epistemology|认识论]]信念视为一种从二元论、多元论到相对主义的单向、结构化的发展阶段。
 > - **1990 年 — 量化与多维独立转向** Schommer (1990) 提出了“认识论信念”量表（Epistemological [[Questionnaire]]），打破了阶段论[[Hypothesis|假设]]，主张个体的认识论信念由多个相互独立的维度构成，开辟了大规模[[Quantitative Research|量化研究]]。
 > - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct|构念]]升级为更具内部连贯性的“[[Epistemological Theories|认识论理论]]（epistemological theories）”。
-> - **2007 年 — 大规模纵向追踪与因果/社会化检验** [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] 基于德国 TOSCA 追踪数据，通过结构方程模型证实知识确定性信念在控制智力与家庭背景后仍能显著独立预测[[Academic Achievement|学业成就]]，并揭示了学科选择中的自我选择与大学学科社会化双重机制。
+> - **2007 年 — 大规模纵向追踪与因果/社会化检验** [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] 基于德国 [[TOSCA]] 追踪数据，通过结构方程模型证实知识确定性信念在控制智力与家庭背景后仍能显著独立预测[[Academic Achievement|学业成就]]，并揭示了学科选择中的自我选择与大学[[Disciplinary Socialization|学科社会化]]双重机制。
 > - **2008-2010 年 — 阶段论与维度论的整合与重定** Greene 等人提出整合性的 [[Epistemic and Ontological Cognition|EOC]] 模型，将对“[[Certainty of Knowledge|知识的确定性]]与简单性”的信念重新界定为“[[Ontology|本体论]]认知”（ontological cognition），并通过[[Factor Mixture Modeling|因子混合模型]]将独立维度的测量分数成功聚类回个人的认知发展阶段中。
 
 ---

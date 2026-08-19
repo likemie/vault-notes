@@ -3059,6 +3059,17 @@
     ]
   },
   {
+    "title": "Disciplinary Socialization",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Disciplinary Socialization.md",
+    "aliases": [
+      "学科社会化",
+      "学科涵化",
+      "academic socialization",
+      "disciplinary enculturation"
+    ]
+  },
+  {
     "title": "Double Spatiality of Universities",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Double Spatiality of Universities.md",
@@ -9302,6 +9313,18 @@
     ]
   },
   {
+    "title": "Biglan's Disciplinary Classification Scheme",
+    "type": "theory",
+    "path": "wiki/theories/higher-education/Biglan's Disciplinary Classification Scheme.md",
+    "aliases": [
+      "比格兰学科分类模型",
+      "比格兰学科分类理论",
+      "Biglan's classification of academic disciplines",
+      "Biglan's model of academic disciplines",
+      "Biglan's disciplinary taxonomy"
+    ]
+  },
+  {
     "title": "Creative Tension of Sense",
     "type": "theory",
     "path": "wiki/theories/higher-education/Creative Tension of Sense.md",
@@ -11971,6 +11994,17 @@
     ]
   },
   {
+    "title": "Cognitive Ability Test KFT",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Cognitive Ability Test KFT.md",
+    "aliases": [
+      "KFT",
+      "KFT 4-13+R",
+      "Kognitiver Fähigkeitstest",
+      "认知能力测验"
+    ]
+  },
+  {
     "title": "Views of Nature of Science Questionnaire",
     "type": "instrument",
     "path": "wiki/instruments/Views of Nature of Science Questionnaire.md",
@@ -12639,6 +12673,15 @@
     "aliases": [
       "Descartes, R.",
       "笛卡尔"
+    ]
+  },
+  {
+    "title": "Ulrich Trautwein",
+    "type": "person",
+    "path": "wiki/persons/germany/Ulrich Trautwein.md",
+    "aliases": [
+      "乌尔里希·特劳特温",
+      "U. Trautwein"
     ]
   },
   {
@@ -14700,6 +14743,16 @@
       "德国卓越计划",
       "Exzellenzinitiative",
       "Excellence Strategy"
+    ]
+  },
+  {
+    "title": "TOSCA",
+    "type": "fact",
+    "path": "wiki/facts/germany/TOSCA.md",
+    "aliases": [
+      "中等教育系统转型与学术职业发展追踪",
+      "Transformation des Sekundarschulsystems und akademische Karrieren",
+      "Transformation of the Secondary School System and Academic Careers"
     ]
   },
   {

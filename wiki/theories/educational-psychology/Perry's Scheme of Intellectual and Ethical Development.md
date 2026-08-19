@@ -9,7 +9,7 @@ aliases:
 summary: "William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Epistemic Resources]]"
   - "[[Ways of Knowing]]"
   - "[[Constructed Knowledge]]"
+  - "[[Disciplinary Socialization]]"
   - "[[Effect Size]]"
   - "[[Justificatory Standards]]"
   - "[[Academic Achievement]]"
@@ -194,7 +195,7 @@ updated: 2026-08-19
 > - **1986 — 性别批判与[[Women's Ways of Knowing|女性认知方式]]** Belenky et al. 指出佩里样本的男性精英偏差，提出女性[[Ways of Knowing|认知方式]]（Women's Ways of Knowing），将[[Constructed Knowledge|建构知识]]置于顶阶。
 > - **1990 — 多维信念系统转向** Schommer 提出认识论是由多维独立信念构成的系统，打破了单向单维的发展阶段[[Hypothesis|假设]]。
 > - **1997 — 理论系统整合** Hofer & Pintrich 在综述中系统对齐了佩里、Belenky、King & Kitchener、[[Thomas Kuhn|Kuhn]] 等各大发展模型，奠定了该领域的综合理论框架。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997)]]
-> - **2007 — 纵向追踪检验** Trautwein & Lüdtke 运用纵向大样本检验佩里的大学涵化假设，证实学科社会化与先验自我选择效应并存。[[Argument_Trautwein_2007_CEP|(Trautwein & Lüdtke, 2007)]]
+> - **2007 — 纵向追踪检验** Trautwein & Lüdtke 运用纵向大样本检验佩里的大学涵化假设，证实[[Disciplinary Socialization|学科社会化]]与先验自我选择效应并存。[[Argument_Trautwein_2007_CEP|(Trautwein & Lüdtke, 2007)]]
 > - **2018 — [[Meta-analysis|元分析]]实证反思** Greene et al. 大规模元分析揭示中小学生认识论[[Effect Size|效应量]]高于大学生（学段倒挂），反驳了佩里传统发展模型对低龄儿童缺乏高级[[Epistemic Cognition|认识论认知]]的悲观假定。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 
 ---
@@ -234,5 +235,5 @@ updated: 2026-08-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] — 详尽梳理佩里图式的 9 个位置与 4 大阶段，将其置于[[Epistemology|认识论]]发展模型的谱系源头予以评述。
-> - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 针对佩里提出的大学教育环境塑造认识论思维[[Hypothesis|假设]]进行大规模纵向追踪检验，证实学科社会化效应。
+> - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 针对佩里提出的大学教育环境塑造认识论思维[[Hypothesis|假设]]进行大规模纵向追踪检验，证实[[Disciplinary Socialization|学科社会化]]效应。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 在[[Meta-analysis|元分析]]中将佩里开创的发展论模型作为调节[[Variable|变量]]进行检验，并基于实证数据反思了阶段论对低年级学生的传统假设。

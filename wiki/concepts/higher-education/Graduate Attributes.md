@@ -9,7 +9,7 @@ aliases:
 summary: "大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Conatus]]"
   - "[[Return on Investment]]"
+  - "[[Disciplinary Socialization]]"
   - "[[Praxis]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-26'
+updated: '2026-08-19'
 ---
 
 ## 定义
@@ -170,7 +171,7 @@ updated: '2026-05-26'
 
 > [!tip]-
 > - **高等教育市场化理论** 大学需要向学生证明其价值和[[Return on Investment|投资回报]]，推动了毕业生特质在本科层次的产生与发展([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1340]])。博士层次同样受此驱动——就业多元化使大学面临培养"不只做学术"的博士毕业生的问责压力([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.86]])
-> - **学科社会化理论（disciplinary socialization）** 博士培养不仅传递知识技能，更传递"什么是有价值的职业路径"的隐性规范。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的访谈揭示了这一机制：导师和院系文化主动暗示非学术路径是"次等选择"，从而系统性地压制了对可转移技能和职业发展的需求表达（p.96）
+> - **[[Disciplinary Socialization|学科社会化]]理论（disciplinary socialization）** 博士培养不仅传递知识技能，更传递"什么是有价值的职业路径"的隐性规范。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的访谈揭示了这一机制：导师和院系文化主动暗示非学术路径是"次等选择"，从而系统性地压制了对可转移技能和职业发展的需求表达（p.96）
 
 ---
 
@@ -202,7 +203,7 @@ updated: '2026-05-26'
 - **理论与[[Praxis|实践]]脱节** UK 毕业生特质的形成几乎未见系统性的教育理论或学习理论支撑，更多由高层管理或市场营销驱动([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1351]])
 
 ### 博士层次的批评
-- **"发展"还是"已有"** 近 80% 的 Spronken-Smith et al.（2024）受访者在进入博士前已有工作经验（兼职 22.8%、全职 55.1%），这意味着调查测量的"发展"可能包含博士前积累的技能基础，而非纯粹的博士培养效果（p.89）
+- **"发展"还是"已有"** 近 80% 的 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] 受访者在进入博士前已有工作经验（兼职 22.8%、全职 55.1%），这意味着调查测量的"发展"可能包含博士前积累的技能基础，而非纯粹的博士培养效果（p.89）
 - **自我感知的局限性**[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]自述依赖毕业生自评，个体可能对"发展"和"应用"的理解不一致；部分人可能未意识到导师或项目试图培养某些特质（p.99）
 - **工具窄化理论框架**[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的 20 项特质清单基于 NZU 既有的毕业生 profile，制定时未以 Senekal et al.（2022）的十域框架或 O'Brien（2011）的[[Global Citizenship|全球公民]]理论为依据，存在"先有数据、后找框架"的风险
 - **七域分类缺乏独立验证** Table 5 的七域分类是将自身发现与 Senekal 综述和 Vitae RDF 综合而成的"简化分类"（p.98），本质上是一个启发式工具，域与子域的命名和归属缺乏独立的专家评审或实证验证([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.98–99]])

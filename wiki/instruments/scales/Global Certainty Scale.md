@@ -37,7 +37,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[TOSCA]]"
 related_arguments:
   - "[[Argument_Trautwein_2007_CEP]]"
 confidence: high
@@ -114,4 +115,4 @@ updated: 2026-08-19
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | SMILE 项目德文原版 | 德语（德国） | 中学生与大学生 | — | 基于 Hofer (2000) 与 Schommer (1990) 的德文翻译与改编 | Schiefele et al. (2002) |
-> | TOSCA 项目 7 题修订版 | 德语/英语对照（德国） | 高中毕业生与大学低年级学生 | 7 | 增加强调科学理论[[Falsification\|可证伪性]]的具体题项，适用于泛科学领域（包含自然科学与人文社会科学） | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] |
+> | [[TOSCA]] 项目 7 题修订版 | 德语/英语对照（德国） | 高中毕业生与大学低年级学生 | 7 | 增加强调科学理论[[Falsification\|可证伪性]]的具体题项，适用于泛科学领域（包含自然科学与人文社会科学） | [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] |

@@ -11,7 +11,7 @@ title: "Argument_SpronkenSmith_2024_AEHE"
 argument_key: "Argument_SpronkenSmith_2024_AEHE"
 argument_display_title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Conatus]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Disciplinary Socialization]]"
   - "[[Hypothesis]]"
   - "[[Praxis]]"
   - "[[Critical Thinking]]"
@@ -54,7 +55,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-26'
-updated: '2026-06-10'
+updated: '2026-08-19'
 ---
 # Argument_SpronkenSmith_2024_AEHE
 
@@ -165,7 +166,7 @@ updated: '2026-06-10'
 ### 导师文化对职业发展的单一塑造与非学术路径的排斥
 
 > [!line-a] 解构默认的学术职业社会化路径
-> 职业和职业生涯发展是缺失最为严重的领域。调查显示，在 136 名受访者中，仅有 2 人制定了个人发展计划，大多数人从未参与过职业生涯规划或简历准备活动（p. 96）。访谈显示，这源于深厚的导师文化和学科社会化规范：院系和导师默认所有博士生都会进入学术界，非学术路径被暗示为“次等选择”，导致针对其他职业选择的信息流和讨论被阻断。
+> 职业和职业生涯发展是缺失最为严重的领域。调查显示，在 136 名受访者中，仅有 2 人制定了个人发展计划，大多数人从未参与过职业生涯规划或简历准备活动（p. 96）。访谈显示，这源于深厚的导师文化和[[Disciplinary Socialization|学科社会化]]规范：院系和导师默认所有博士生都会进入学术界，非学术路径被暗示为“次等选择”，导致针对其他职业选择的信息流和讨论被阻断。
 > 
 > > [!tension] 学术职业[[Hypothesis|假设]]与就业现实的张力
 > > - **学术界的默认假设** 导师与院系默认所有博士生都应当且仅应当进入学术界，非学术路径被暗示为最优秀者的“次等选择”。
