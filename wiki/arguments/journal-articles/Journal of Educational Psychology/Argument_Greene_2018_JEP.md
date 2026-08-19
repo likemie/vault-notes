@@ -126,7 +126,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **文献检索／[[Meta-analysis]]** | 搜索 PsycINFO, ERIC 等 9 个数据库，结合引用追踪（如对 *Handbook of [[Epistemic Cognition]]* 各章的追溯）。仅纳入报告了相关系数的非实验[[Quantitative Research\|定量研究]]，排除[[Intervention Research\|干预研究]]和[[Qualitative Research\|质性研究]]以控制方差。 |
 > | **数据编码／[[Coding in Qualitative Research]]** | 按照研究特征、样本特征、[[Epistemology\|认识论]]认知[[Variable\|变量]]（模型、[[Construct\|构念]]、测量工具、[[Domain Specificity\|领域特异性]]）、[[Academic Achievement\|学业成就]]变量四大类进行系统编码。 |
-> | **分析策略／[[Moderator Analysis]]** | 使用 CMA 软件。考虑到依赖效应（同一研究的多个效应量），采用“转移分析单位”（shifting unit of analysis）策略计算平均相关系数 $r$ 和 95% 置信区间。使用 $Q$ 统计量进行异质性检验。 |
+> | **分析策略／[[Moderator Analysis]]** | 使用综合元分析软件（Comprehensive Meta-Analysis, CMA）。考虑到依赖效应（同一研究的多个效应量），采用“转移分析单位”（shifting unit of analysis）策略计算平均相关系数 $r$ 和 95% 置信区间。使用 $Q$ 统计量进行异质性检验。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -142,7 +142,7 @@ issuing_organization: ""
 > | **环境特征**<br>(Setting characteristics) | 1. 地点 (Location)<br>2. 学校类型 (School type, 公立或私立) |
 > | **样本特征**<br>(Sample characteristics) | 1. 群体 (Group, 如小学生、初中生、高中生、大学生、研究生、职前教师、在职教师)<br>2. 样本大小 (Sample size)<br>3. 女性百分比 (Percent female)<br>4. 白人身份认同百分比 (Percent identifying as white)<br>5. 平均年龄 (Average age) |
 > | **认识论认知变量**<br>(Epistemic cognition variables) | 1. 核心理论模型 (Main theoretical model)<br>2. 认识论认知构念 (Epistemic cognition construct)<br>3. 测量工具名称 (Epistemic cognition instrument name)<br>4. 量表的信度 (Reliability of epistemic cognition instrument measure)<br>5. 测量领域的特异性水平 (Level of domain-specificity, 如领域通用、领域特定、任务特定)<br>6. 研究的具体学科或领域 (Domain/discipline of the study) |
-> | **学业成就变量**<br>(Academic achievement variables) | 1. 成就测量的类型 (Type of achievement measure, 如参与者自报、研究者开发、教师开发、官方 GPA、标准化测试)<br>2. 学术领域或学科 (Academic domain or discipline)<br>3. 成就的类型 (Type of achievement, 如论证、一般知识、概念性知识、陈述性知识、程序性知识)<br>4. 成就测量的信度 (Reliability of achievement measure) |
+> | **学业成就变量**<br>(Academic achievement variables) | 1. 成就测量的类型 (Type of achievement measure, 如参与者自报、研究者开发、教师开发、官方平均绩点（Grade Point Average, GPA）、标准化测试)<br>2. 学术领域或学科 (Academic domain or discipline)<br>3. 成就的类型 (Type of achievement, 如论证、一般知识、概念性知识、陈述性知识、程序性知识)<br>4. 成就测量的信度 (Reliability of achievement measure) |
 > | **效应量信息**<br>(Effect size information) | 1. 相关系数 (Correlation coefficient, 如 Pearson, Spearman, 或 beta)<br>2. p 值 (p-value)<br>3. 效应方向 (Effect direction) |
 
 ---
@@ -179,7 +179,7 @@ issuing_organization: ""
 > > - **Duval & Tweedie 修剪与填充 (Trim-and-fill)** 检验未指示需要进行任何修剪或填充，效应量分布未见偏倚倾斜。
 
 > [!ma-table]- 表 5：认识论认知与学业成就的总体相关性
-> | 模型 | k | [[Effect Size\|效应量]] (ES) | 95% [[Confidence Interval\|CI]] | Z 值 | Q 值 | df | I² |
+> | 模型 | k | [[Effect Size\|效应量]]（Effect Size, ES） | 95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI） | Z 值 | Q 值 | df | I² |
 > |---|---|---|---|---|---|---|---|---|
 > | 固定效应 | 151 | .158 | [.150, .166] | 37.317 | 1,335.222 | 150 | 88.766 |
 > | 随机效应 | 151 | .162 | [.135, .189] | 11.741 | | | |
@@ -360,12 +360,12 @@ issuing_organization: ""
 ### 步骤五：方法学影响与信度决定论
 
 > [!claim] 测量的可靠性是决定关联强度的底层方法学因素
-> 剥开理论外衣，工具本身的设计方法（同侪评审状态、测量信度以及所选用的问卷类型）极大地决定了最终效应量的上限。
+> 剥开理论外衣，工具本身的设计方法（同侪评审状态、测量信度以及所选用的特定问卷）极大地决定了最终效应量的上限。元回归分析揭示了一个惊人的事实：信度才是王道。
 
 > [!chain-link] 证据到判断
-> - **同行评审的质量门槛效应** 经过同行评审的[[Document|文献]]由于数据清洗和审稿标准更严，其报告的效应量（$r = .175$）明显高于未经同行评审（$r = .132$）或会议论文（$r = .097$）。
-> - **问卷方差极大** 从 Table 16 可以看出，使用印第安纳数学信念量表（$r = .421$）和 Conley 等人的量表（$r = .242$）能抓取极强的相关性，而早期多维模型代表作 Hofer DEBQ （$r = .059$）的整体效应竟然不显著异于 0。
-> - **致命的信度回归** 元回归分析显示，测量工具的[[Internal Consistency|内部一致性]]信度极大地预测了效应量大小（$b = .300, p < .001$）。
+> - **同行评审的质量门槛** 经过同行评审的期刊文献（$r = .175$）由于数据清洗和质量把控更严，其报告的效应量显著高于学术会议论文（$r = .097$），两者的 95% CI 互不重叠。
+> - **问卷效力的巨大方差** 当样本量 $k > 5$ 时，各问卷捕获的效应量存在天壤之别。领域对口的印第安纳数学信念量表（Indiana Mathematics Belief Scale, $r = .421$）和 Conley et al. (2004) 问卷（Conley et al. Questionnaire, $r = .242$）表现出极强的预测力；而曾经非常流行的 Hofer (2000) 特定学科认识论信念问卷（Discipline-Focused Epistemological Beliefs Questionnaire, DEBQ，$r = .059$）和 Jehng et al. (1993) 问卷（Jehng et al. Questionnaire, $r = .051$）的整体效应竟然在统计学上不显著异于 0。
+> - **决定性的“信度回归”** 元回归（Meta-regression）分析揭示，问卷的[[Internal Consistency|内部一致性信度]]直接决定了效应量大小（$b = .300, p < .001$）。在这个回归模型中，如果一份问卷的信度是 0，那么它与成绩的相关性也会归 0；而如果一份问卷的信度达到完美的 1.0，它与成绩的预期相关性将高达 $r = .300$！
 
 > [!ma-table]- 表 15：同行评审状态调节变量分析
 > | 同行评审状态 | k | 效应量 (ES) | 95% CI |
@@ -374,15 +374,29 @@ issuing_organization: ""
 > | 非同行评审 | 27 | .132 | [.049, .213] |
 > | 会议论文 | 10 | .097 | [.056, .138] |
 
-> [!ma-table]- 表 16：认识论问卷调节变量分析（部分关键问卷）
+> [!ma-table]- 表 16：认识论问卷调节变量分析（完整复刻 20 种）
 > | 认识论问卷 | k | 效应量 (ES) | 95% CI |
 > |---|---|---|---|
-> | Indiana mathematics belief scale | 5 | .421 | [.196, .604] |
-> | Conley et al. Q | 17 | .242 | [.155, .325] |
-> | Bråten JFK-Q | 7 | .179 | [.100, .255] |
-> | Schommer EQ | 53 | .156 | [.115, .195] |
-> | | Schraw et al. EBI | 17 | .154 | [.044, .259] |
-> | | Hofer DEBQ | 14 | .059 | [-.016, .133] |
+> | 印第安纳数学信念量表 | 5 | .421 | [.196, .604] |
+> | 希腊物理认识论信念评估工具（Greek Epistemological Beliefs Evaluation Instrument for Physics, GEBEP） | 1 | .284 | [.062, .478] |
+> | Conley et al. (2004) 问卷 | 17 | .242 | [.155, .325] |
+> | 认识论理解量表（Epistemic Understanding Inventory, EUI） | 5 | .242 | [.104, .371] |
+> | Bråten et al. 认知证成问卷（Justification for Knowing Questionnaire, JFK-Q） | 7 | .179 | [.100, .255] |
+> | 认识论信念内涵方面问卷（Connotative Aspects of Epistemological Beliefs Questionnaire, CAEB） | 3 | .170 | [.022, .312] |
+> | Elder (1999) 问卷（Elder Questionnaire） | 4 | .166 | [.006, .317] |
+> | Schommer (1990) 认识论问卷（Epistemological Questionnaire, EQ） | 53 | .156 | [.115, .195] |
+> | Schraw et al. (2002) 认识论信念量表（Epistemic Belief Inventory, EBI） | 17 | .154 | [.044, .259] |
+> | Wood & Kardash 认识论信念量表（Epistemological Belief Scale, EBS） | 3 | .148 | [.067, .226] |
+> | Muis & Royce 心理认识论轮廓量表（Psycho-Epistemological Profile） | 2 | .131 | [-.026, .282] |
+> | 特定主题认识论信念问卷（Topic-Specific Epistemic Beliefs） | 6 | .125 | [.051, .198] |
+> | 科学认识论观点量表（Scientific Epistemological Views Scale） | 1 | .099 | [-.065, .258] |
+> | 特定情境认识论目标与来源信念问卷（Context-Specific Epistemic Aims and Source Beliefs Questionnaire, CEASBQ） | 1 | .087 | [-.017, .190] |
+> | Hofer (2000) DEBQ | 14 | .059 | [-.016, .133] |
+> | Jehng et al. (1993) 问卷 | 5 | .051 | [-.005, .107] |
+> | Hofer 数学本质认识论信念量表（Nature of Mathematics Epistemological Belief Scale） | 1 | .040 | [-.054, .133] |
+> | 数学认识论信念量表（Mathematics Epistemological Beliefs Scale） | 5 | .035 | [-.158, .226] |
+> | 物理科学认识论信念评估工具（Epistemological Beliefs Assessment for Physical Science, EBAPS） | 1 | .028 | [-.193, .246] |
+> | 认识论思维评估工具（Epistemic Thinking Assessment） | 2 | .006 | [-.124, .136] |
 
 > [!warrant]- 推理桥梁
 > 我们不能被部分宣称测量“一般性（general）”认识论的问卷虚高相关性所蒙蔽——它们只是因为题目数量庞杂而在统计学上推高了 Alpha 信度系数。未来真正的突破点不是增加通用题目的长度，而是提升针对性任务工具（如针对论证分析的情境量表）的[[Construct Validity|构念效度]]和测量信度。
