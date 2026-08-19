@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接赋能学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
-  - "[[Conatus]]"
   - "[[Bildung]]"
   - "[[Cultural Barrier]]"
   - "[[Epistemological Beliefs]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Cultural Capital
@@ -149,7 +148,7 @@ updated: 2026-08-19
 ### 命题一　学校教育并非价值中立，而是将优势阶层的文化资本作为隐性筛选机制
 
 > [!concept-lens] 教育再生产维度
-> 探讨教育系统如何通过默认要求特定的文化习惯与品位，将社会经济地位的不平等合法化为个人天赋和[[Conatus|努力]]的差距，从而实现阶层再生产。
+> 探讨教育系统如何通过默认要求特定的文化习惯与品位，将社会经济地位的不平等合法化为个人天赋和努力的差距，从而实现阶层再生产。
 
 > [!claim] [[Pierre Bourdieu|Bourdieu, P.]]
 > **学术选拔的隐性前提** 教育系统倾向于把有[[Bildung|教养]]阶级传递的语言风格、知识广度与审美模式作为默认前提，使得缺乏这些资本的弱势家庭子女在学业选拔中面临系统性不利，从而合法化了社会出身的特权差距。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu & Passeron, 1979）

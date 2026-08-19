@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_display_title: "Research Methods in Education · Ch23"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -69,7 +69,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Document]]"
   - "[[Hawthorne Effect]]"
-  - "[[Conatus]]"
   - "[[Construct Validity]]"
   - "[[Reflexivity]]"
   - "[[Internal Consistency]]"
@@ -101,7 +100,7 @@ related_facts:
   - "[[Stanford Prison Experiment]]"
 status: draft
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23
 
@@ -914,7 +913,7 @@ Silverman（1993）提醒注意主位分析（emic）与客位分析（etic）�
 
 > [!warning] 观察中的十类偏误来源
 > - **选择性注意** 我们所看到的是我们在**哪里看、看什么、如何看、何时看、我们认为我们看到什么、我们看谁的函数**；以及观察时我们心里的东西、我们自身的兴趣和经验
-> - **反应性** 参与者知道正在被观察时可能改变行为，更[[Conatus|努力]]、更焦虑、表现得更好或更差、以他们认为研究者希望的方式行为或研究者默许的方式行为，即 Shaughnessy 等人（2003, p. 113）所说的**需求特征（demand characteristics）**
+> - **反应性** 参与者知道正在被观察时可能改变行为，更努力、更焦虑、表现得更好或更差、以他们认为研究者希望的方式行为或研究者默许的方式行为，即 Shaughnessy 等人（2003, p. 113）所说的**需求特征（demand characteristics）**
 > - **注意力缺失** 观察者走神或移开视线而错过事件
 > - **[[Construct Validity|构念效度]]** 什么算作有效判断的证据？例如，微笑是放松的、紧张的、友好的还是敌意的？注视一个人的非语言手势算作互动的有效指标吗？
 > - **选择性数据记录** 有时先**解释情境再记录我们的解释**而非现象本身

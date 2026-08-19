@@ -4,7 +4,7 @@ aliases: [假设, 研究假设, hypotheses, research hypothesis]
 summary: "对变量间关系的推测性陈述，是连接理论与经验数据的桥梁。好假设必须陈述变量关系、可被检验、方向清晰，并通过操作化转化为可测量的形式。"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-07-11
+updated: 2026-08-20
 ---
 # Hypothesis
 
@@ -199,7 +198,7 @@ Cohen et al. 在 Ch.7 中详细区分了两种假设方向性（[[Argument_Cohen
 Kerlinger（1970）指出假设作为研究工具的四重重要性（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!feature] 假设的四重重要性
-> - **组织研究者的[[Conatus|努力]]** 假设所表达的关系指示研究者应当做什么，为收集、分析和解释数据提供框架
+> - **组织研究者的努力** 假设所表达的关系指示研究者应当做什么，为收集、分析和解释数据提供框架
 > - **理论的工作工具（the working instruments of theory）**假设可以从理论或其他假设中推导出来
 > - **可被检验** 假设可被经验或实验检验，导致证实或拒绝；一个被支持和确立的假设可能成为法则
 > - **推动知识进步** 假设使我们能够走到自身之外，是推动知识前进的有力工具

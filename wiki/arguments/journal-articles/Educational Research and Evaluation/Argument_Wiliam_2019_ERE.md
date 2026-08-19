@@ -9,7 +9,7 @@ title: "Argument_Wiliam_2019_ERE"
 argument_key: "Argument_Wiliam_2019_ERE"
 argument_display_title: "Some reflections on the role of evidence in improving education"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
-  - "[[Conatus]]"
   - "[[Effect Size]]"
   - "[[Emergence]]"
 related_theories:
@@ -53,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-08-20
 year: 2019
 doi: ""
 citation_aliases:
@@ -88,7 +87,7 @@ citation_aliases:
 >
 > 4. **EBE 整个项目永远不会成功** 任何关于"什么有效"的主张必然局限于被实际研究的参与者和情境，且永远是临时的——新发现、新洞见和新理解将使先前可信的研究解释受到质疑。(p.10)
 >
-> 5. **利益相关者须成为批判性研究消费者** 不存在客观程序来识别和传播"什么有效"——识别如何最有利地引导[[Conatus|努力]]永远涉及判断的应用，需要考虑本地知识、其他情境发现的相关性、改革的可行性等多重因素。
+> 5. **利益相关者须成为批判性研究消费者** 不存在客观程序来识别和传播"什么有效"——识别如何最有利地引导努力永远涉及判断的应用，需要考虑本地知识、其他情境发现的相关性、改革的可行性等多重因素。
 
 ## 主要发现
 

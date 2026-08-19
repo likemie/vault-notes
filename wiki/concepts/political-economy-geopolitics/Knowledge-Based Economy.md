@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育和研发作为价值创造与全球竞争核心要素的经济形态。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Growth]]"
   - "[[Further Education]]"
   - "[[Corporate Education]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-19'
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -94,7 +93,7 @@ updated: '2026-05-19'
 
 ### 十九世纪先驱：Friedrich List
 
-KBE 的知性根源可追溯至 Friedrich List 的《政治经济学的国家系统》（[1841] 1991）。List 主张国家不仅应获取更先进国家的成就，还应通过自身[[Conatus|努力]]加以扩展，包括"国家组织的技术教育、科学和培训，以及研发[[Praxis|实践]]"，国家应为工业和经济发展实施长期政策。Freeman（1995）论证十九世纪政府实验室的增长不仅表明"发明的方法"成为十九世纪最伟大的创新，更表明"国家的"创新过程开始决定国家的整体竞争力([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])。
+KBE 的知性根源可追溯至 Friedrich List 的《政治经济学的国家系统》（[1841] 1991）。List 主张国家不仅应获取更先进国家的成就，还应通过自身努力加以扩展，包括"国家组织的技术教育、科学和培训，以及研发[[Praxis|实践]]"，国家应为工业和经济发展实施长期政策。Freeman（1995）论证十九世纪政府实验室的增长不仅表明"发明的方法"成为十九世纪最伟大的创新，更表明"国家的"创新过程开始决定国家的整体竞争力([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])。
 
 ### 二战后学术脉络（1950s–1980s）
 

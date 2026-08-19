@@ -53,7 +53,6 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Academic Freedom]]"
   - "[[Knowledge Diplomacy]]"
-  - "[[Conatus]]"
   - "[[Policy Network]]"
   - "[[Relational Space]]"
   - "[[Confucian Heritage Cultures]]"
@@ -81,14 +80,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-07-09
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -428,7 +427,7 @@ journal: "高等教育研究"
 #### 教育枢纽作为空间项目：三种国家策略的比较
 
 > [!claim] 当前全球南方国家积极投身区域高等教育中心建设，挑战由全球北方国家主导的空间关系格局
-> 不是权力中心正在转换或更迭，而是空间-权力格局发生了根本性重构。亚洲国家日益重视打造教育枢纽（education hub），力图以高等教育跨境合作项目为节点构建区域网络，整合本地高等教育资源并吸引区域外部力量参与，服务自身的多重目标。这些[[Conatus|努力]]可被看作教育地缘政治去中心化趋势的一部分，是对单极秩序的回应（pp.11–12）。
+> 不是权力中心正在转换或更迭，而是空间-权力格局发生了根本性重构。亚洲国家日益重视打造教育枢纽（education hub），力图以高等教育跨境合作项目为节点构建区域网络，整合本地高等教育资源并吸引区域外部力量参与，服务自身的多重目标。这些努力可被看作教育地缘政治去中心化趋势的一部分，是对单极秩序的回应（pp.11–12）。
 
 > [!case] 马来西亚：多重空间政治目标的区域教育枢纽
 > 马来西亚打造区域教育枢纽，服务三重空间政治目标：

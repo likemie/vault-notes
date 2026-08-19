@@ -7,7 +7,7 @@ aliases:
 summary: "Meyer 提出的概念，指大学与社会之间关于毕业生地位、资格和社会认可的不成文约定。"
 type: concept
 domain: "higher-education"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ tags:
 - sociology-of-education
 - level/higher-ed
 related_concepts:
-  - "[[Conatus]]"
   - "[[Global Universities Rankings]]"
   - "[[Hypothesis]]"
 related_theories: []
@@ -30,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 # Social Charter
@@ -67,7 +66,7 @@ updated: '2026-05-18'
 社会宪章的核心机制是分配社会地位。Meyer（1977）指出，大学通过把一部分年轻人标记为"大学毕业生=成功"，同时也就把另一部分人标记为"非大学毕业生=失败"。这不是教育质量的问题——即使两所大学的教学质量完全相同，它们授予的文凭所附带的社会地位也可以截然不同([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p.128]])。
 
 > [!example]
-> 想象两个高中生在选大学。一个选了某顶尖研究型大学，另一个选了某地方教学型学院。入学前他们就知道一个模糊但真实的预期：前者四年后将被社会视为"精英"，后者将被视为"合格的从业者"。这个预期不是招生简章写的，但它真实地影响学生的自我认知、[[Conatus|努力]]方向，以及四年后雇主看待他们的方式。
+> 想象两个高中生在选大学。一个选了某顶尖研究型大学，另一个选了某地方教学型学院。入学前他们就知道一个模糊但真实的预期：前者四年后将被社会视为"精英"，后者将被视为"合格的从业者"。这个预期不是招生简章写的，但它真实地影响学生的自我认知、努力方向，以及四年后雇主看待他们的方式。
 
 ### 独立于教学效果
 

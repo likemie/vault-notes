@@ -486,7 +486,7 @@ Total entries: **1887**
 > - [[Flow]] — Csikszentmihalyi 提出的最佳体验概念，指技能与挑战匹配时个体完全投入任务、忘记时间和自我的心理状态
 > - [[Ideal Learner]] — 跨文化学习研究中的分析概念，指特定文化偏好的最优发展终点，可通过学习目的、过程、品格和情感维度加以描述
 > - [[Intrinsic vs Extrinsic Motivation]] — Deci and Ryan 等人发展的动机类型区分，内在动机以活动本身为目的，外在动机以活动为手段
-> - [[Learned Helplessness]] — Dweck 早期研究发现的现象，指学习者因相信自己缺乏能力而放弃努力的行为模式，是 Entity vs Incremental Intelligence 理论的经验前身
+> - [[Learned Helplessness]] — 学习者在经历挑战或挫折时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式。表现为低自尊、失败恐惧、迅速放弃努力及负面评价泛化，是实体智力观与固定/快速学习认识论信念的典型行为表征。
 > - [[Learning-Impeding Behavior]] — 学生在课堂中表现出的干扰同伴、分心、疲惫或其他妨碍学习过程的行为，用于描述不利于学习参与和课堂秩序的行为模式。
 > - [[Locus of Control]] — Rotter (1966) 提出的动机概念，指个体将成败原因感知为内部（能力、努力）或外部（运气、任务难度）的倾向，是 Weiner 归因理论的前置基础
 > - [[Metacognition]] — 个体对自己认知过程的意识和调节，包括元认知知识和元认知调节两个核心成分，是批判性思维的高阶认知基础

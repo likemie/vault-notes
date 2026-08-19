@@ -6,7 +6,7 @@ aliases:
 summary: "质性田野研究中研究者与参与者之间建立的信任、相互理解和合作关系，是有效数据收集的前提条件和持续过程。"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,7 +15,6 @@ tags:
   - method/data-collection
 related_concepts:
   - "[[Attrition]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
@@ -29,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-07-13
+updated: 2026-08-20
 ---
 
 # Rapport in Qualitative Research
@@ -56,7 +55,7 @@ updated: 2026-07-13
 > - **同理心与接纳** 研究者展示对参与者处境、情感和视角的理解，避免评判性态度。De Laine（2000, p. 41）强调展示兴趣、保证保密（在适当处）和不评判。
 > - **时间投入** 融洽关系是过程性的——Walford（2001, p. 62）报告了从新人→临时接纳→类别接纳→个人接纳→即将迁移者的五阶段演变。
 > - **灵活与适应性** 容忍模糊性、控制自我怀疑、承受不安全感和保持灵活的适应能力——这些虽不能被写入正式协议，却是有效质性探究的命脉（De Laine, 2000, p. 97）。
-> - **权力意识** 融洽关系受权力关系影响——研究者的年龄、身份、着装、声音等特征会塑造参与者如何回应。Swain（2006, p. 205）作为成人在小学开展[[Ethnography|民族志]]时，尽管[[Conatus|努力]]降低成人中心感，仍无法假装不是成人。
+> - **权力意识** 融洽关系受权力关系影响——研究者的年龄、身份、着装、声音等特征会塑造参与者如何回应。Swain（2006, p. 205）作为成人在小学开展[[Ethnography|民族志]]时，尽管努力降低成人中心感，仍无法假装不是成人。
 > - **边界管理** Maxwell（2005, p. 83）指出管理者角色与社会研究员角色之间的潜在冲突——个人化和非个人化关系的平衡。
 
 ## 在纵向研究中的特殊作用

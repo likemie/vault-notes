@@ -8,7 +8,7 @@ aliases:
 summary: "跨文化学习研究中的分析概念，指特定文化偏好的最优发展终点，可通过学习目的、过程、品格和情感维度加以描述"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Enculturation]]"
   - "[[Growth]]"
-  - "[[Conatus]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
 related_theories:
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-23
+updated: 2026-08-20
 ---
 
 # Ideal Learner
@@ -94,7 +93,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 >    - 高智力（high intelligence）
 >    - 失败（failure）
 >    - 不理解概念（not understanding concepts）
->    - [[Conatus|努力]]后仍学不会（inability to learn despite effort）
+>    - 努力后仍学不会（inability to learn despite effort）
 >    - 无聊（boredom）
 > 4. **情感模式** 与好学习和坏学习相关的情感——学习者感受到什么、对成就和失败做出怎样的情感反应
 

@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 24
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Evaluation Research]]"
   - "[[Academic Freedom]]"
-  - "[[Conatus]]"
   - "[[Concierge Service]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Co-location]]"
@@ -53,7 +52,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-07-08
+updated: 2026-08-20
 year: 2025
 doi: ""
 citation_aliases:
@@ -131,7 +130,7 @@ citation_aliases:
 
 4. 滑铁卢大学合作教育的规模使产业合作成为大学运作的常态而非例外。该校拥有全球最大的本科合作教育项目之一，每年将 **26,000 名**本科生与 **8,000 多个**国内外雇主连接(pp.243–244)。然而，工作整合学习机会在研究生层面面临更大的实际和后勤困难——加拿大经济以中小企业和外国跨国公司的分支工厂为主，全球总部较少，使得为研究生寻找有薪研究型实习岗位更具挑战性(p.244)。Mitacs Accelerate 项目正是对这一结构性困难的回应。对教师而言，能够为学生提供产业[[Praxis|实践]]机会本身就成为研究生招生的差异化优势。
 
-5. 2022 年，滑铁卢大学发布了全球未来框架（[[University of Waterloo Global Futures Framework|Global Futures Framework]]），以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校跨学科的教育、研究和创新活动。每个维度都与其他维度重叠，交叉点正是滑铁卢大学识别新机会的优势领域(p.244)。该框架在产学合作语境中充当"协调器"——它将分散在各院系的合作[[Conatus|努力]]纳入一个共同的战略叙事，使大学在面对外部伙伴时能够呈现一个清晰的方向(pp.244, 254)。
+5. 2022 年，滑铁卢大学发布了全球未来框架（[[University of Waterloo Global Futures Framework|Global Futures Framework]]），以社会、健康、可持续、技术和经济五个相互关联的未来维度来聚焦和协调全校跨学科的教育、研究和创新活动。每个维度都与其他维度重叠，交叉点正是滑铁卢大学识别新机会的优势领域(p.244)。该框架在产学合作语境中充当"协调器"——它将分散在各院系的合作努力纳入一个共同的战略叙事，使大学在面对外部伙伴时能够呈现一个清晰的方向(pp.244, 254)。
 
 ---
 

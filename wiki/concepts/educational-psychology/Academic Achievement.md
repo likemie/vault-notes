@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Task Structure]]"
   - "[[Reflexivity]]"
   - "[[Construct]]"
-  - "[[Conatus]]"
   - "[[Epistemological Beliefs]]"
   - "[[Criterion-related Validity]]"
   - "[[Procedural Knowledge]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Academic Achievement
@@ -85,7 +84,7 @@ updated: 2026-08-19
 > - **边界** 学业成就绝非单一笼统的分数，它随测试所要求的认知深度（程序性 vs 论证性）以及任务的结构化程度（良构 vs 劣构）发生深刻的性质分化。单一使用跨学科总评绩点（GPA）往往会掩盖深层的认知心理规律。
 
 > [!boundary]- 概念边界辨析
-> - **不等于先天智商或潜在认知能力** 学业成就是[[Conatus|努力]]、策略、动机、[[Epistemological Beliefs|认识论信念]]与环境支架长期交互的输出产物，受学习情境与教学任务结构的剧烈调节，而非不可改变的静态心理特质。
+> - **不等于先天智商或潜在认知能力** 学业成就是努力、策略、动机、[[Epistemological Beliefs|认识论信念]]与环境支架长期交互的输出产物，受学习情境与教学任务结构的剧烈调节，而非不可改变的静态心理特质。
 > - **不等于无效标锚定的随意主观自报** 随意的主观自评会因社会赞许性而产生偏差并稀释理论关联；但若在严谨指导下自报特定学科平均百分比并与学校官方实际总评成绩（OAA）建立效标锚定，其自报预估值（EOAA）可达到高达 $r = .91$ 的[[Criterion-related Validity|效标效度]]。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, p. 314)]]
 > - **不等于脱离情境的一般性表现** 学生在结构清晰的常规练习题中的表现，与在充满矛盾争议的开放辩护任务中的反思性表现，属于不同维度的学业成就。
 

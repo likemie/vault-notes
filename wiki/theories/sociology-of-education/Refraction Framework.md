@@ -5,7 +5,7 @@ aliases:
 summary: "Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 15
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ tags:
   - paradigm/sociological
 related_concepts:
   - "[[Counterfactual]]"
-  - "[[Conatus]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-05-18
+updated: 2026-08-20
 ---
 
 ## 核心主张
@@ -76,7 +75,7 @@ updated: 2026-05-18
 >
 > 2. **向弱势群体倾斜的资源分配（targeted resources）** Title 1、Head Start、1973 年《康复法》、1990 年《美国残疾人法》等政策旨在改善弱势儿童的学校条件。2007 年肯塔基州数据：平均每位特殊需求儿童获额外 USD 11,970/年，而天才儿童仅获额外 USD 62/年（Seiler et al., 2008, cited in [[Argument_Downey_2016_SoE|Downey & Condron, 2016, p.7]]）。
 >
-> 3. **教师的平等主义倾向（teacher egalitarian dispositions）** 教师群体与非教师群体在态度上存在系统性差异。GSS 数据：47% 的非教师认为"缺乏[[Conatus|努力]]"是贫困的"非常重要"原因，而教师仅 32%。全国教师调查：80% 的教师表示"学业困难学生"最可能获得一对一关注，仅 5% 表示"学业超前的学生"（Duffett, Farkas & Loveless, 2008, cited in Downey & Condron, 2016, p.7）。
+> 3. **教师的平等主义倾向（teacher egalitarian dispositions）** 教师群体与非教师群体在态度上存在系统性差异。GSS 数据：47% 的非教师认为"缺乏努力"是贫困的"非常重要"原因，而教师仅 32%。全国教师调查：80% 的教师表示"学业困难学生"最可能获得一对一关注，仅 5% 表示"学业超前的学生"（Duffett, Farkas & Loveless, 2008, cited in Downey & Condron, 2016, p.7）。
 
 
 > [!abstract] 与传统视角的对比

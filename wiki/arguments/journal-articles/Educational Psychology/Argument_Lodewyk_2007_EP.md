@@ -29,7 +29,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Order Effects]]"
   - "[[Rote Learning]]"
-  - "[[Conatus]]"
   - "[[Going Native]]"
   - "[[Variable]]"
   - "[[Critical Thinking]]"
@@ -61,7 +60,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Lodewyk_2007_EP"
@@ -190,7 +189,7 @@ issuing_organization: ""
 > 认识论信念听起来抽象，但在中学生日常学习中表现得非常具体：
 > 1. **关于能力的信念（FQAL）** 学生是否认为聪明是天生的？如果一道难题几分钟没做出来，是觉得多钻研就能学会，还是认为自己天生不是这块料、花时间也是白费？
 > 2. **关于知识结构的信念（SK）** 学生是把课本知识看成一张相互关联的大网，还是看成一条条互不相干的[[Rote Learning|死记硬背]]清单？遇到新观点时，是主动与已有知识融会贯通，还是觉得混在一起只会徒增困惑？
-> 3. **关于真理确定性的信念（CK）** 学生是否坚信世界上所有事情都有唯一的标准答案？是否盲目认为科学家只要[[Conatus|努力]]就一定能找到绝对永恒的真理？
+> 3. **关于真理确定性的信念（CK）** 学生是否坚信世界上所有事情都有唯一的标准答案？是否盲目认为科学家只要努力就一定能找到绝对永恒的真理？
 
 > [!chain-link] 证据到判断：[[Questionnaire|问卷]]编制与因子分析结果
 > 早期 Schommer 问卷主要面向大学生，共包含 63 个题项。本研究在加拿大十年级学生中进行了[[Going Native|本土化]]适配：

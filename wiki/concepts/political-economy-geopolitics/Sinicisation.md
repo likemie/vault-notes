@@ -7,7 +7,7 @@ aliases:
 summary: "以汉文化传统为核心重新定义’中国性’的文化同化过程，通过语言替换、课程标准化和历史叙事重构将非汉群体纳入汉文化中心框架"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Bildung]]"
   - "[[Wuhu Ruhua]]"
-  - "[[Conatus]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sacrifice Theory]]"
   - "[[Settler Colonialism]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-05-25
+updated: 2026-08-20
 ---
 
 # Sinicisation
@@ -80,7 +79,7 @@ updated: 2026-05-25
 > [!note]-
 > 弗兰肯斯坦（Frankenstein）隐喻与去政治化逻辑
 >
-> 西方后殖民批评将中国少数民族框定为"族裔"（ethnicity／zuqun）而非"民族"（nationality／minzu）的做法，与中共推动汉化的[[Conatus|努力]]形成了一种非意图的合谋([[Argument_Bulag_2024_CE|Bulag, 2024, p.101–103]])：
+> 西方后殖民批评将中国少数民族框定为"族裔"（ethnicity／zuqun）而非"民族"（nationality／minzu）的做法，与中共推动汉化的努力形成了一种非意图的合谋([[Argument_Bulag_2024_CE|Bulag, 2024, p.101–103]])：
 > - 遵循社会建构论的逻辑，西方学者关注于中共在 1950 年代"发明"或"建构"少数民族分类的过程（Gladney, 1991; Schein, 2000; Mullaney, 2010）。
 > - 这一逻辑被中国政策学者挪用，要求对民族政策"去政治化"（马戎，Ma Rong, 2004）甚至废除——理由是苏联和南斯拉夫正是因为共产党"发明"的民族政策而分裂的([[Argument_Bulag_2024_CE|Bulag, 2024, p.102–103]])。
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]]将少数民族的处境概括为"弗兰肯斯坦的怪物"（Frankenstein's monsters）：它们被视为共产党国家创造的产物，如今已成为威胁其创造者的存在——"不仅忘恩负义，而且是'邪恶或其无数替代物之一'，对[[Zhonghua Minzu|中华民族]]自我的存在构成威胁"（Connolly, 1991, p.64，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.103]]）。
@@ -116,7 +115,7 @@ updated: 2026-05-25
 >
 > [[Argument_Bulag_2024_CE|Bulag (2024, p.98)]]指出，中国汉化政策的独特之处在于，它不仅消除少数民族文化和身份构成的障碍，还要求少数民族"自愿"放弃自己的身份和权利以认同[[Zhonghua Minzu|中华民族]]——即少数民族的"自我牺牲"（self-sacrifice）。这一逻辑体现在：
 > - 中共通过"感恩"话语将全体人口（汉族和非汉族）与党的主权权力纵向绑定（Sorace, 2021; Yeh, 2013，引自 [[Argument_Bulag_2024_CE|Bulag, 2024, p.110]]）。
-> - 少数民族精英被要求以身作则——如内蒙古 2021 年表彰两名蒙古族"北疆楷模"，表彰他们为学习和使用国家通用语言所做的[[Conatus|努力]]，实际上是在庆祝他们的"自我阉割"（self-castration）([[Argument_Bulag_2024_CE|Bulag, 2024, p.110–111]])。
+> - 少数民族精英被要求以身作则——如内蒙古 2021 年表彰两名蒙古族"北疆楷模"，表彰他们为学习和使用国家通用语言所做的努力，实际上是在庆祝他们的"自我阉割"（self-castration）([[Argument_Bulag_2024_CE|Bulag, 2024, p.110–111]])。
 > - 根据 Halbertal（2012）的[[Sacrifice Theory|牺牲理论]]，为中华民族殉道的烈士们的自我牺牲赋予了中华民族以道德价值，而这种债务又反过来要求今天中国公民的进一步自我牺牲([[Argument_Bulag_2024_CE|Bulag, 2024, p.109]])。
 
 > [!warning]

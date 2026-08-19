@@ -8,7 +8,7 @@ aliases:
 summary: "西方学校中一种将高学业成就与同伴接纳对立起来的同伴文化，理智好奇、努力学习的学生被冠以nerd等贬称并遭受同伴骚扰"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
   - theme/achievement
   - theme/social-acceptance
 related_concepts:
-  - "[[Conatus]]"
   - "[[Academic Achievement]]"
   - "[[Academic Engagement]]"
   - "[[Hypothesis]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-08-20
 ---
 
 # Nerd
@@ -46,7 +45,7 @@ updated: 2026-05-23
 ## 定义
 
 > [!info]
-> Nerd 是西方（尤其是美国）中学文化中用来标记那些理智好奇、对学习（特别是科学、数学、技术等复杂学科）有兴趣并投入[[Conatus|努力]]、[[Academic Achievement|学业成就]]高的学生的贬称。与之类似的称谓包括 geek、dork，英国的 swot，德国的 Schreber，法国的 bouttoneux，荷兰的 stuud，以色列的 hnun([[Argument_Li_2012_Cambridge|Li, 2012, p.89]])。
+> Nerd 是西方（尤其是美国）中学文化中用来标记那些理智好奇、对学习（特别是科学、数学、技术等复杂学科）有兴趣并投入努力、[[Academic Achievement|学业成就]]高的学生的贬称。与之类似的称谓包括 geek、dork，英国的 swot，德国的 Schreber，法国的 bouttoneux，荷兰的 stuud，以色列的 hnun([[Argument_Li_2012_Cambridge|Li, 2012, p.89]])。
 
 根据《美国传统英语词典》的定义，nerd 指"在科学或技术追求上专注或有成就，但被认为社交笨拙的人"（转引自 Li, 2012, p.89）。定义的两个关键要素是：（1）理智好奇与[[Academic Engagement|学业投入]]；（2）被认为缺乏社交能力。这种将知性与社交对立起来的[[Hypothesis|假设]]——即理智投入的人必有社交缺陷——是 nerd 标签的核心。
 
@@ -62,7 +61,7 @@ updated: 2026-05-23
 
 ### 标签化
 
-被标记为 nerd 的学生通常是男生（后扩展至女生和各族裔），他们在科学、数学、技术等同伴觉得过于复杂和困难的学科上表现出好奇心和学习[[Conatus|努力]]，并且取得高成就。仅仅社交笨拙不会使人成为 nerd——理智投入和高成就是定义性的必要要素([[Argument_Li_2012_Cambridge|Li, 2012, p.89]])。
+被标记为 nerd 的学生通常是男生（后扩展至女生和各族裔），他们在科学、数学、技术等同伴觉得过于复杂和困难的学科上表现出好奇心和学习努力，并且取得高成就。仅仅社交笨拙不会使人成为 nerd——理智投入和高成就是定义性的必要要素([[Argument_Li_2012_Cambridge|Li, 2012, p.89]])。
 
 ### 同伴规范："Try but Not Too Hard"
 
@@ -77,7 +76,7 @@ N. T. Feather 用"[[Tall Poppy Syndrome|高罂粟]]的倒下"（fall of the tall
 ## 实证发现
 
 > [!success]
-> **[[Conatus|努力]]隐瞒策略**。由于害怕同伴排斥，高 [[Academic Achievement|GPA]] 学生经常采取以下策略：声称自己不学习、避免公开显示对学术学习的兴趣、隐瞒成绩。许多高成就学生通过这一策略获得了同伴欢迎([[Argument_Li_2012_Cambridge|Li, 2012, pp.91]])。
+> **努力隐瞒策略**。由于害怕同伴排斥，高 [[Academic Achievement|GPA]] 学生经常采取以下策略：声称自己不学习、避免公开显示对学术学习的兴趣、隐瞒成绩。许多高成就学生通过这一策略获得了同伴欢迎([[Argument_Li_2012_Cambridge|Li, 2012, pp.91]])。
 
 > [!success]
 > **年级发展趋势**。Juvonen and Murdock 比较四、六、八年级学生发现：八年级学生（约 14 岁）开始不愿向受欢迎同伴披露自己的勤奋程度，而愿意告诉教师。到八年级，曾因高能力和努力而受欢迎的儿童，受欢迎程度下降；那些无论能力如何都不努力的学生享有最高的同伴欢迎度([[Argument_Li_2012_Cambridge|Li, 2012, p.91]])。
@@ -105,7 +104,7 @@ Márta Fülöp 的跨文化研究发现：美国儿童将竞争视为零和游�
 
 ### 3. 天赋假设
 
-西方文化深植着"智力成就是天赋"的[[Hypothesis|假设]]——才能（talent）是天生的。Dweck 的研究表明：西方幼儿园儿童相信"聪明的人[[Conatus|努力]]，努力的人也聪明"，但到童年中期他们意识到光靠努力不足以取得大成就；青少年则明确认为"努力是低能力的标志——聪明的人不需要努力"([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
+西方文化深植着"智力成就是天赋"的[[Hypothesis|假设]]——才能（talent）是天生的。Dweck 的研究表明：西方幼儿园儿童相信"聪明的人努力，努力的人也聪明"，但到童年中期他们意识到光靠努力不足以取得大成就；青少年则明确认为"努力是低能力的标志——聪明的人不需要努力"([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
 
 > [!example]
 > Li 引述了一个美国高中男生对写作课的"自我实验"：每次英语课的第一篇作文都拿 B。他尝试按照老师要求完成所有步骤——大纲、草稿、修改——还是 B。于是开始故意迟交[[Homework|作业]]，几小时、一天、几周——最后还是 B。到高中毕业，他的写作评分始终固定在 B。他由此得出结论：老师心中有一个不成文的法则——一旦被标记为 B 等写作者，做多少好事都无济于事，做多少坏事也不会降级([[Argument_Li_2012_Cambridge|Li, 2012, pp.97–98]])。
@@ -125,7 +124,7 @@ Oakes and Guiton 对美国高中[[Tracking|分轨制]]（tracking）的长期研
 
 Chen 等人的[[Longitudinal Study|纵向研究]]发现：属于高成就群体的小学和初中儿童，两年后社交能力变得更强。即使是学业较弱的学生，只要属于高成就群体，也比属于低成就群体的学生发展出更少的社交问题——在 China，与高成就同伴交往对负面社交行为具有保护作用([[Argument_Li_2012_Cambridge|Li, 2012, p.102]])。
 
-这种差异的文化根源在于东亚的**可变自我观**和**环境影响力信念**——自我通过个人[[Conatus|努力]]和社会影响是可变的。"近朱者赤，近墨者黑"概括了这种信念。当学习好还意味着品德好时，家长鼓励孩子与高成就者交朋友就是完全合理的([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
+这种差异的文化根源在于东亚的**可变自我观**和**环境影响力信念**——自我通过个人努力和社会影响是可变的。"近朱者赤，近墨者黑"概括了这种信念。当学习好还意味着品德好时，家长鼓励孩子与高成就者交朋友就是完全合理的([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
 
 参见 [[Tongxue]] 了解东亚同伴概念的文化根源。
 

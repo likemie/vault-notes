@@ -8,7 +8,7 @@ aliases:
 summary: "中国学习过程的终极目标，指从熟悉到练习再到精炼完美的掌握，表现为透彻理解与运用自如"
 type: concept
 domain: "chinese-philosophy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-08-20
 ---
 
 # Jing (Refined Mastery)
@@ -131,7 +130,7 @@ updated: 2026-05-23
 > [!warning]
 > - 精的目标的**模糊性** Li 坦承中国人几千年来没有将学习目标变得可测量和明确([[Argument_Li_2012_Cambridge|Li, 2012, p.130]])。这种模糊性是一把双刃剑——它使学习成为一个开放的、精神性的过程（类似于[[Self-Cultivation|修身]]），但也使得"是否已经达到精"永远无法客观判断
 > - 精的达成者高度依赖**大师的示范**——"学习者知道目标是什么，因为老师本身就是技能的体现"。这在武术、书法、音乐等有清晰师徒传承的领域中可行，但在数学和科学等抽象学科中，"精"可能难以具象化
-> - 精的文化崇拜可能使学习者对"不完美"的学习成果感到羞耻——但 Li 也指出，中国教师和父母奖励的是**向着精[[Conatus|努力]]的品德**（勤奋、恒心），而非精的结果本身([[Argument_Li_2012_Cambridge|Li, 2012, pp.130-131]])
+> - 精的文化崇拜可能使学习者对"不完美"的学习成果感到羞耻——但 Li 也指出，中国教师和父母奖励的是**向着精努力的品德**（勤奋、恒心），而非精的结果本身([[Argument_Li_2012_Cambridge|Li, 2012, pp.130-131]])
 
 ---
 

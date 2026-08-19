@@ -7,7 +7,7 @@ aliases:
 summary: "Jessop (2007) 从 Polanyi 视角提出的概念，描述知识被定价和交换但因其公共品特性而无法完全商品化的半市场状态，解释大学何以像企业运作却不必成为企业"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Analytic Framework]]"
-  - "[[Conatus]]"
   - "[[Academic Capitalism]]"
   - "[[Fictitious Commodity of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-08-20
 ---
 
 # Quasi-commodification of Knowledge
@@ -43,7 +42,7 @@ updated: 2026-06-01
 ## 定义
 
 > [!info]
-> 知识的准商品化（Quasi-commodification of Knowledge）是 Jessop（2007）在 Polanyi 视角下提出的概念，后由 Schulze-Cleven et al.（2017）置于高等教育新政治经济学的[[Analytic Framework|分析框架]]中。它描述知识在当代资本主义中被当作可交易商品（commodity）来处理，但由于知识固有的公共品特性——非竞争性使用（一个人的使用不减少另一个人的使用）和非排他性（排除他人使用的成本很高）——它无法被完整地转化为商品。因此，知识处于一种"准商品"（quasi-commodity）的状态：被定价、被交换、被赋予市场价值，但其商品化始终是不完全的，需要持续的制度[[Conatus|努力]]来维持([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])。
+> 知识的准商品化（Quasi-commodification of Knowledge）是 Jessop（2007）在 Polanyi 视角下提出的概念，后由 Schulze-Cleven et al.（2017）置于高等教育新政治经济学的[[Analytic Framework|分析框架]]中。它描述知识在当代资本主义中被当作可交易商品（commodity）来处理，但由于知识固有的公共品特性——非竞争性使用（一个人的使用不减少另一个人的使用）和非排他性（排除他人使用的成本很高）——它无法被完整地转化为商品。因此，知识处于一种"准商品"（quasi-commodity）的状态：被定价、被交换、被赋予市场价值，但其商品化始终是不完全的，需要持续的制度努力来维持([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.804–805]])。
 
 这一概念的分析功能在于：揭示"[[Academic Capitalism|学术资本主义]]"概念的一个核心模糊性——大学被说成在"市场化"，但大学的"产品"（知识、教育、研究）从根本上抗拒完全的市场化。准商品化的概念精确地捕捉了知识在这个过程中的"半市场"状态。
 

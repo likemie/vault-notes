@@ -9,7 +9,7 @@ aliases:
 summary: "实验研究中使实验者或受试者不知道受试者所属研究条件的技术，用于降低实验者偏差和需求特征等系统性偏差"
 type: concept
 domain: "research-methodology"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Experimenter Bias]]"
   - "[[Informed Consent]]"
-  - "[[Conatus]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
@@ -31,7 +30,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-05-31
-updated: 2026-07-13
+updated: 2026-08-20
 ---
 # Blinding
 
@@ -102,4 +101,4 @@ updated: 2026-07-13
 > 在药物实验中，参与者被[[Random Assignment|随机分配]]至实验组（接受新药）或控制组（接受外观相同的安慰剂）。不仅参与者不知道自己在哪一组（单盲），连施药和评估结果的医生也不知道（双盲）——组别信息由第三方持有。这种设计同时控制了：参与者的安慰剂效应（对"接受治疗"的信念）、参与者的[[Hawthorne Effect|霍桑效应]]（对"被研究"的反应）、以及医生的[[Experimenter Bias|实验者偏差]]（对"有益"处理组更积极的观察和记录）。
 
 > [!case] 教育实验中的"误导"策略
-> 在检验一种新的阅读教学方法时，如果直接告知学生"你们在参与实验"，学生可能因被选中而格外[[Conatus|努力]]，混淆教学方法的真实效果。一种策略是告知所有学生这是常规课堂活动，实际测量的是阅读能力——但研究真正关注的是教学方法的效果。学生因被研究而产生的额外努力被引导到了错误的方向，不会系统地偏向某一组（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 315]]）。
+> 在检验一种新的阅读教学方法时，如果直接告知学生"你们在参与实验"，学生可能因被选中而格外努力，混淆教学方法的真实效果。一种策略是告知所有学生这是常规课堂活动，实际测量的是阅读能力——但研究真正关注的是教学方法的效果。学生因被研究而产生的额外努力被引导到了错误的方向，不会系统地偏向某一组（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 315]]）。

@@ -12,7 +12,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
   - "region/uk"
   - "level/higher-education"
 related_concepts:
-  - "[[Conatus]]"
   - "[[Research Scope]]"
   - "[[Growth]]"
   - "[[Precompetitive Research]]"
@@ -45,12 +44,12 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-08-20
 ---
 ## 背景
 
 > [!info]
-> 1990 年代末，多家航空航天公司在硬金属（钛和超合金钢）加工效率提升上各自独立投入大量研究资金。这些公司面临的是同一个技术难题，但它们的[[Conatus|努力]]是分散的、互不共享的。谢菲尔德大学在这一领域已有国际领先的研究声誉，具备了作为联合研究主办方的条件（pp.113–114）。
+> 1990 年代末，多家航空航天公司在硬金属（钛和超合金钢）加工效率提升上各自独立投入大量研究资金。这些公司面临的是同一个技术难题，但它们的努力是分散的、互不共享的。谢菲尔德大学在这一领域已有国际领先的研究声誉，具备了作为联合研究主办方的条件（pp.113–114）。
 
 1999 年，谢菲尔德大学 Keith Ridgway 教授和 Adrian Allen（当时在一家定制加工工具制造公司工作）共同构思了一个方案。他们看到多家公司在同一个问题上各自烧钱，意识到与其让每家公司独立投入，不如在谢菲尔德大学成立一个联合体——成员共同投资、相互撬动对方的投入、并以此为基础争取政府资助。两人于 1999 年秋季向波音公司提交了这一方案（pp.113–114）。
 

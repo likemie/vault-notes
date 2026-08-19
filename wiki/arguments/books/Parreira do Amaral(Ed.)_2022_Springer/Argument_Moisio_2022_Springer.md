@@ -41,7 +41,6 @@ related_concepts:
   - "[[Hub and Flow Imaginaries]]"
   - "[[Innovation Hub]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Conatus]]"
   - "[[Economic Patriotism]]"
   - "[[Selectivity]]"
   - "[[Geopolitical Subject]]"
@@ -54,6 +53,7 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Fixity-Motion Tension]]"
 related_methods:
+  - "[[Typological Analysis]]"
   - "[[Ethnography]]"
 related_persons: []
 related_facts:
@@ -64,7 +64,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: '2026-06-08'
+updated: 2026-08-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -168,7 +168,7 @@ Moisio 引入 Porter(1990)的 [[National Competitive Advantage|国家竞争优�
 
 这是论证的理论核心。Moisio 引入 David Harvey（1985, 重印于 2001）的资本主义地缘政治理论：地缘政治"源于资本主义生产方式内部的政治经济动力，特别是资本流通的动力"。资本主义生产方式总是"不可逃避地空间构成的"，需要某些社会基础设施（如教育）和物质基础设施（如建筑和实验室）来支撑资本流通(pp.27–28)。
 
-由此产生核心地缘政治悖论："国家和地方锚定的空间形成被需要来实际促进资本的地理流动，但这种流动仅导致既有国家和地方配置的慢性不稳定"(p.28)。用 Harvey 的原话："资本主义不断[[Conatus|努力]]创造一个符合其自身需求的社会和物质景观……却又在随后的时间点削弱、扰乱甚至摧毁该景观"(Harvey, 2001, p.333, p.28)。知识经济化中，国家和城市"试图将'知识密集型'资本的躁动流动固定在原地——这些资本在寻找价值创造和提取的最优位置"。
+由此产生核心地缘政治悖论："国家和地方锚定的空间形成被需要来实际促进资本的地理流动，但这种流动仅导致既有国家和地方配置的慢性不稳定"(p.28)。用 Harvey 的原话："资本主义不断努力创造一个符合其自身需求的社会和物质景观……却又在随后的时间点削弱、扰乱甚至摧毁该景观"(Harvey, 2001, p.333, p.28)。知识经济化中，国家和城市"试图将'知识密集型'资本的躁动流动固定在原地——这些资本在寻找价值创造和提取的最优位置"。
 
 **3g. 城市形态、空间选择性与[[Economic Patriotism|经济爱国主义]]**
 
@@ -223,7 +223,7 @@ Moisio 的核心论旨：
 
 Harvey 的[[Fixity-Motion Tension|固着-流动张力]]——本章最核心的理论资源：
 
-> “因此，资本主义永远在[[Conatus|努力]]按照自己的形象并为满足自己在特定时间点的需求，去创造一种社会和物质景观，然而在随后的时间点，它又同样确凿地会去破坏、扰乱甚至摧毁这种景观。”
+> “因此，资本主义永远在努力按照自己的形象并为满足自己在特定时间点的需求，去创造一种社会和物质景观，然而在随后的时间点，它又同样确凿地会去破坏、扰乱甚至摧毁这种景观。”
 > (“因此，资本主义永远在努力按照自己的形象并为满足自己在特定时间点的需求，去创造一种社会和物质景观，然而在随后的时间点，它又同样确凿地会去破坏、扰乱甚至摧毁这种景观。”
 > ("Capitalism perpetually strives, therefore, to create a social and physical landscape in its own image and requisite to its own needs at a particular point in time, only just as certainly to undermine, disrupt and even destroy that landscape at a later point in time."))(Harvey, 2001, p.333, p.28)
 

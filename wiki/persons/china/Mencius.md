@@ -8,7 +8,7 @@ summary: "战国时期儒家思想家，孔子学说的直接继承者，以性�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Junzi]]"
-  - "[[Conatus]]"
   - "[[Benevolence]]"
   - "[[Rightness]]"
   - "[[Sense of Shame]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-07-23
+updated: 2026-08-20
 ---
 
 # Mencius
@@ -99,7 +98,7 @@ updated: 2026-07-23
 ## 核心思想
 
 > [!claim] 核心主张
-> 孟子在三个关键维度上深化了[[Confucius|孔子]]的学说：第一，提出“性善论”，将[[Self-Cultivation|修身]]建立在人类先天的道德感之上；第二，归纳“[[Four Sprouts|四端]]说”（恻隐、羞恶、辞让、是非），论证道德卓越并非精英特权，而是“人人皆可为尧舜”；第三，主张“[[Junzi|君子]]深造之以道，欲其自得之也”，强调个人自主[[Conatus|努力]]的终极责任，并确立了“[[Take the World Upon Oneself|以天下为己任]]”的社会批判精神[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 42–46)]]。
+> 孟子在三个关键维度上深化了[[Confucius|孔子]]的学说：第一，提出“性善论”，将[[Self-Cultivation|修身]]建立在人类先天的道德感之上；第二，归纳“[[Four Sprouts|四端]]说”（恻隐、羞恶、辞让、是非），论证道德卓越并非精英特权，而是“人人皆可为尧舜”；第三，主张“[[Junzi|君子]]深造之以道，欲其自得之也”，强调个人自主努力的终极责任，并确立了“[[Take the World Upon Oneself|以天下为己任]]”的社会批判精神[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 42–46)]]。
 
 > [!citation-card]- 关键表述：梁惠王问利与四端之说
 > 王何必曰利？亦有仁义而已矣。（《孟子·梁惠王上》）[[Argument_Li_2012_Cambridge|(Li, 2012, p. 45)]]

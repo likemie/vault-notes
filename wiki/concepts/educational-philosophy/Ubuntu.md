@@ -5,7 +5,7 @@ aliases:
 summary: "强调个体在关系中成其为人的非洲关系性伦理哲学，用于理解共同体、互依性和相互责任。"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Posthumanism]]"
-  - "[[Conatus]]"
   - "[[Transhumanism]]"
   - "[[Emergence]]"
   - "[[Buen Vivir]]"
@@ -32,7 +31,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-07-08
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -42,7 +41,7 @@ updated: 2026-07-08
 >
 > 在 [[Argument_Amos_2022_Springer|Amos (2022, p.64)]] 的论述中，Ubuntu 被定位为与 Haraway/Escobar 的[[Posthumanism|后人类主义]]具有"家族相似性"（family resemblances）的非西方思想传统：它将人的存在从根本上理解为关系性的——个体不是独立、自足的实体，而是在与他者（其他人、祖先、自然）的关系网络中才成为"人"。
 >
-> > 例：对比两种理解"成功"的方式。个体主义框架：一个人的成功来自她的[[Conatus|努力]]、天赋和选择——"我自己做到的"。Ubuntu 框架：一个人的"成功"不可分割地依赖于她的父母、老师、社区、她所使用的语言（前人的创造）、她所享受的公共基础设施——"我们共同成就的"。前者是[[Transhumanism|超人类主义]]优化的逻辑基础（"增强你自己"），后者是后人类主义关系伦理的文化表达。
+> > 例：对比两种理解"成功"的方式。个体主义框架：一个人的成功来自她的努力、天赋和选择——"我自己做到的"。Ubuntu 框架：一个人的"成功"不可分割地依赖于她的父母、老师、社区、她所使用的语言（前人的创造）、她所享受的公共基础设施——"我们共同成就的"。前者是[[Transhumanism|超人类主义]]优化的逻辑基础（"增强你自己"），后者是后人类主义关系伦理的文化表达。
 >
 
 ## 概念辨析

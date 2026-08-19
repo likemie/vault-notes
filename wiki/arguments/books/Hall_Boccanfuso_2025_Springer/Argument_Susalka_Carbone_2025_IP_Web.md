@@ -20,7 +20,6 @@ related_concepts:
   - "[[Background IP]]"
   - "[[Technology Transfer]]"
   - "[[Blue Skies Research]]"
-  - "[[Conatus]]"
   - "[[Technology Transfer Office]]"
 related_theories: []
 related_methods: []
@@ -35,14 +34,14 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-07-08
+updated: 2026-08-20
 subtype: book-chapter
 publication_type: book
 title: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_key: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_display_title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_kind: "book"
-argument_related_count: 12
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -315,7 +314,7 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 > 2. 大学在提交发表前将稿件提供给企业方，最好提前 30 天，但在任何情况下不得晚于提交发表的同一时间
 > 3. 企业有 30 天时间审查稿件，以识别企业的保密信息或可专利的发明
 > 4. 如果发现企业的保密信息被包含在稿件中，大学同意修订以遵守协议的保密义务
-> 5. 如果稿件中披露了可专利的发明，企业书面通知大学后，大学同意尽合理[[Conatus|努力]]提交美国专利申请以保护专利权。但一个关键的保护条款是：大学**无义务**为配合专利申请而修订或延迟发表
+> 5. 如果稿件中披露了可专利的发明，企业书面通知大学后，大学同意尽合理努力提交美国专利申请以保护专利权。但一个关键的保护条款是：大学**无义务**为配合专利申请而修订或延迟发表
 
 > [!warning] 发表延迟机制的微妙平衡
 > 这一机制在多个利益之间建立了精巧的平衡。大学的研究人员，特别是需要及时毕业的研究生，不应因产学合作而被无限期推迟发表。30 天的审查窗口提供了足够时间识别可专利主题并提交临时申请，同时不会对学术发表时间线造成实质性干扰。"无义务延迟发表"的条款明确划定了大学的底线。

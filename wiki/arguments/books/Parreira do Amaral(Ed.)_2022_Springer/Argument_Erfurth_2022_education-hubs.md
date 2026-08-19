@@ -19,7 +19,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
-  - "[[Conatus]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Production]]"
@@ -42,14 +41,14 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
-updated: '2026-06-08'
+updated: 2026-08-20
 subtype: book-chapter
 publication_type: book
 title: "Argument_Erfurth_2022_education-hubs"
 argument_key: "Argument_Erfurth_2022_education-hubs"
 argument_display_title: "Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates"
 argument_kind: "book"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -149,7 +148,7 @@ citation_aliases:
 该路径的三层地缘政治意涵(pp.211–212)：
 
 1. **区域赢家与输家** 枢纽在有"空隙"的环境中繁荣——有发达高教体系的国家在缺乏类似条件的区域获得不对称优势，可能加剧区域不平等和冲突
-2. **削弱传统发展话语** 减少国际组织和民主制度推广者的影响力，降低其制度建设论点的说服力。几乎所有教育枢纽都是战略性地缘位置（香港、阿联酋、新加坡），对这一模式的背书可能**损害**国际发展界推动更民主、更具社会进步性的世界的[[Conatus|努力]]
+2. **削弱传统发展话语** 减少国际组织和民主制度推广者的影响力，降低其制度建设论点的说服力。几乎所有教育枢纽都是战略性地缘位置（香港、阿联酋、新加坡），对这一模式的背书可能**损害**国际发展界推动更民主、更具社会进步性的世界的努力
 3. **大学的去社会化** 大学充当外交的主体与客体——既被政府用作文化外交工具（主体），也在此过程中被重塑（客体），其更广泛的社会功能被剥离。这可能是大多数分校在枢纽国家只开设自然科学而非社会科学课程的原因之一(p.212)
 
 ### 结论

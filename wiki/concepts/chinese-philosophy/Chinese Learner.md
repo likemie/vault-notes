@@ -6,7 +6,7 @@ aliases:
 summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
 type: concept
 domain: "chinese-philosophy"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Familiarization]]"
   - "[[Quality Education]]"
   - "[[Heart and Mind for Wanting to Learn]]"
-  - "[[Conatus]]"
   - "[[Ideal Learner]]"
   - "[[Bildung]]"
   - "[[Examination Hell]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-16
-updated: 2026-05-24
+updated: 2026-08-20
 ---
 
 # Chinese Learner
@@ -269,7 +268,7 @@ updated: 2026-05-24
 > [!success]
 > Li（2012, Ch3）综述了数十年跨文化比较研究的系统性实证证据。以下按研究发现组织：
 
-**归因模式：[[Conatus|努力]] vs 能力**。Stevenson & Stigler（1992）的十年跨国研究发现：美国儿童、家长和教师以**能力**解释[[Academic Achievement|学业成就]]，中国/东亚群体以**努力**解释。香港研究者进一步发现中国学生将努力视为跨时间、跨情境的稳定因素([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-80]])。
+**归因模式：努力 vs 能力**。Stevenson & Stigler（1992）的十年跨国研究发现：美国儿童、家长和教师以**能力**解释[[Academic Achievement|学业成就]]，中国/东亚群体以**努力**解释。香港研究者进一步发现中国学生将努力视为跨时间、跨情境的稳定因素([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-80]])。
 
 **记忆与理解的重新解释**。Marton、Dall'Alba & Tse（1996）发现中国学习者的记忆不是目的本身，而是达成深度理解的更大策略的**第一步**。Dahlin & Watkins（2000）：英国学生用重复来**检查**自己是否记住了，中国学生用重复来**创造深刻印象**以奠定理解基础；英国学生认为理解是突然顿悟，中国学生认为理解是长期智力努力的过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.86-87]])。
 

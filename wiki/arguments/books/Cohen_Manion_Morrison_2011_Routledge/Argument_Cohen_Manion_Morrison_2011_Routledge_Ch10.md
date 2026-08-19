@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 129
+argument_related_count: 128
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -83,7 +83,6 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Falsification]]"
   - "[[Literature Search]]"
-  - "[[Conatus]]"
   - "[[Cross-cultural Validity]]"
   - "[[Ecological Fallacy]]"
   - "[[Praxis]]"
@@ -165,7 +164,7 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-07-13
+updated: 2026-08-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10
 
@@ -657,7 +656,7 @@ Scheurich (1996) 提出了一个更为激进的反思：效度不过是实际上
 
 #### 10.4.8 效标关联效度（Criterion-related validity）
 
-效标关联效度[[Conatus|努力]]将某一特定工具的结果与另一个**外部标准（external criterion）**关联（p.179）。包含两种主要形式：
+效标关联效度努力将某一特定工具的结果与另一个**外部标准（external criterion）**关联（p.179）。包含两种主要形式：
 
 > [!contrast-table] 预测效度 vs 共时效度
 > | | 预测效度（Predictive validity） | 共时效度（Concurrent validity） |
@@ -1521,7 +1520,7 @@ Plummer (1983) 提供了四种效度检查：
 ## 关键引用
 
 > [!citation-card]- 效度的程度论
-> 效度应当被视为一个程度问题，而非一个绝对状态（Gronlund, 1981）。因此，我们充其量只能[[Conatus|努力]]最小化无效度并最大化效度。（第10章, p.157）
+> 效度应当被视为一个程度问题，而非一个绝对状态（Gronlund, 1981）。因此，我们充其量只能努力最小化无效度并最大化效度。（第10章, p.157）
 >
 > *Validity, then, should be seen as a matter of degree rather than as an absolute state (Gronlund, 1981). Hence at best we strive to minimize invalidity and maximize validity.*
 

@@ -41,7 +41,6 @@ related_concepts:
   - "[[Multiplist]]"
   - "[[Subjectivism]]"
   - "[[Evaluativist]]"
-  - "[[Conatus]]"
   - "[[Domain Specificity]]"
   - "[[Rote Learning]]"
 related_theories:
@@ -60,14 +59,14 @@ sources:
 part_of:
 status: active
 created: 2026-08-13
-updated: 2026-08-16
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hofer_1997_RER"
 argument_key: "Argument_Hofer_1997_RER"
 argument_display_title: "The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -267,7 +266,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 
 > [!dimension] Schommer 的认识论信念独立维度
 > - **固定能力（fixed ability）**
->   认为智力是先天固定的，还是可通过[[Conatus|努力]]改变的。
+>   认为智力是先天固定的，还是可通过努力改变的。
 > - **快速学习（quick learning）**
 >   认为学习要么立刻发生要么根本不发生。
 > - **[[Simplicity of Knowledge|简单知识]]（simple knowledge）**

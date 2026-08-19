@@ -7,7 +7,7 @@ aliases:
 summary: "中文对学校同伴的称谓，字面意为一起学习的人，与西方强调平等地位的peer概念形成对比，反映东亚文化中同伴作为学习朋友的功能定位"
 type: concept
 domain: "chinese-philosophy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Class Size]]"
   - "[[Homework]]"
-  - "[[Conatus]]"
   - "[[Zero-Sum Competition]]"
 related_theories: []
 related_methods: []
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-07-08
+updated: 2026-08-20
 ---
 
 # Tongxue
@@ -112,7 +111,7 @@ Heyman 等人比较了中美学童向同伴披露成绩的行为：欧裔美国�
 
 **亲属称谓的社会延伸**。中国儿童在家庭中学会按"兄／姐／弟／妹"称呼同胞，按"伯伯／叔叔／阿姨"称呼成人，每个称谓都带有明确的责任与权利——年长者有照顾、指导、示范的责任，年幼者有尊重、听从、跟随的立场。在台湾，学生至今仍在校园中使用学長（xuezhang，"学习兄长"）、学弟（xuedi，"学习弟弟"）、学姐（xuejie，"学习姐姐"）、学妹（xuemei，"学习妹妹"）等称谓。这种基于家庭模型的社会关系使得高成就学生对低成就学生的帮助，以及低成就学生对高成就学生指导的接受，都是**理所当然的义务**——不涉及羞耻或轻视([[Argument_Li_2012_Cambridge|Li, 2012, pp.113–114]])。
 
-**可变自我观**。东亚文化不认为自我是固定的——自我通过个人[[Conatus|努力]]和社会影响是可变的。因此，高成就不意味自我完全是正面的，失败也不意味自我有任何内在缺陷。"近朱者赤，近墨者黑"概括了环境对自我的影响信念([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
+**可变自我观**。东亚文化不认为自我是固定的——自我通过个人努力和社会影响是可变的。因此，高成就不意味自我完全是正面的，失败也不意味自我有任何内在缺陷。"近朱者赤，近墨者黑"概括了环境对自我的影响信念([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
 
 **非[[Zero-Sum Competition|零和竞争]]观**。Fülöp 发现日本学生将竞争视为与同伴互相激励、共同进步的过程——竞争对手是朋友，合作程度高，结果是所有人的成就都提高了。这与美国学生将竞争视为零和游戏的观念形成鲜明对比([[Argument_Li_2012_Cambridge|Li, 2012, pp.110–112]])。
 

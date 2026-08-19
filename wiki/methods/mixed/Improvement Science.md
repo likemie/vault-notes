@@ -6,7 +6,7 @@ summary: "把教育改进视为在真实系统中持续测试、反馈和迭代�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 21
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm Wars]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -139,7 +138,7 @@ updated: '2026-05-18'
 
 
 > [!warning] 与"什么有效"[[Paradigm|范式]]的[[Paradigm Wars|范式战争]]
-> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 301)]] 将此文定位为"避免另一场范式战争"的[[Conatus|努力]]，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（[[Education Endowment Foundation|EEF]]、IES、[[What Works Clearinghouse|WWC]]）中为改进科学争取空间——仍待观察。
+> [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 301)]] 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（[[Education Endowment Foundation|EEF]]、IES、[[What Works Clearinghouse|WWC]]）中为改进科学争取空间——仍待观察。
 
 ## 相关案例／政策
 

@@ -8,7 +8,7 @@ summary: "南宋理学家，程朱理学集大成者。编纂四书并将其确�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Praxis]]"
   - "[[Sage]]"
-  - "[[Conatus]]"
 related_theories:
   - "[[Neo-Confucianism]]"
   - "[[Confucian Learning Tradition]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-07-23
+updated: 2026-08-20
 ---
 
 # Zhu Xi
@@ -97,7 +96,7 @@ updated: 2026-07-23
 > 朱熹在四个关键维度上完成了新儒学的系统整合：第一，提出“格物致知”，将探究天理与事物物理确定为[[Self-Cultivation|修身]]的必要起点；第二，提炼《大学》“[[The Great Learning|八条目]]”链条（格物→致知→诚意→正心→修身→齐家→治国→平天下），以修身为连接内在修养与社会[[Praxis|实践]]的枢纽；第三，主张“[[Sage|圣人]]可及”，宣称天赋予所有人的禀赋相同，人人皆有责任成为[[Sage|圣人]]；第四，将读书上升为严肃的修身天职[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 43–47)]]。
 
 > [!citation-card]- 关键表述：圣人可及与读书天职
-> 许多人觉得成为圣贤的目标太高远，认为自己不配。因此，他们不做任何[[Conatus|努力]]向它前进……然而，天赋予所有人的禀赋是相同的……一个人怎能不自己承担成为圣贤的责任呢？[[Argument_Li_2012_Cambridge|(Li, 2012, p. 47 引朱熹)]]
+> 许多人觉得成为圣贤的目标太高远，认为自己不配。因此，他们不做任何努力向它前进……然而，天赋予所有人的禀赋是相同的……一个人怎能不自己承担成为圣贤的责任呢？[[Argument_Li_2012_Cambridge|(Li, 2012, p. 47 引朱熹)]]
 >
 > *“Many feel that the goal of becoming a sage is too lofty and unattainable... However, Heaven has endowed all people with the same nature... How can one not take upon oneself the responsibility to become a sage?”*
 

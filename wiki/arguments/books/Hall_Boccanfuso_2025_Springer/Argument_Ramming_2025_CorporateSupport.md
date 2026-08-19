@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Joint Faculty Appointments]]"
   - "[[Research Question]]"
-  - "[[Conatus]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Research Scope]]"
   - "[[Precompetitive Research]]"
@@ -58,7 +57,7 @@ sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch12_Ramming_2025|Ch12_Ramming_2025]]"
 status: draft
 created: 2026-06-03
-updated: '2026-06-08'
+updated: 2026-08-20
 year: 2025
 doi: ""
 citation_aliases:
@@ -280,7 +279,7 @@ citation_aliases:
    > 三条路径可能同时存在，互不排斥。学术合作可以为公司提供一个"窗口"来观察新兴产业的演化方向。
 
    > [!example] Google PageRank：三条路径都没有走的案例
-   > 斯坦福的 PageRank 算法专利(Page et al., 1998)，尽管斯坦福[[Conatus|努力]]营销，没有被任何企业授权（有机创新路径未实现）。也没有公司收购当时尚不存在的初创企业（无机创新路径未实现）。创始学生自己创建了 Google，如今是全球最有价值的公司之一(pp.232–233)。
+   > 斯坦福的 PageRank 算法专利(Page et al., 1998)，尽管斯坦福努力营销，没有被任何企业授权（有机创新路径未实现）。也没有公司收购当时尚不存在的初创企业（无机创新路径未实现）。创始学生自己创建了 Google，如今是全球最有价值的公司之一(pp.232–233)。
    >
    > 这个案例的教训不是"产学合作无用"，而是：当一个研究团队既拥有专利又拥有"独家专有技术"（know-how）时，他们可能选择自己走，这意味着企业的产学合作策略需要同时考虑"如何合作"和"如何不错过"两个问题。
 

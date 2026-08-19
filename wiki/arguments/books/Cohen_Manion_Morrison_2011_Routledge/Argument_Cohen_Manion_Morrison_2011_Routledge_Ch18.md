@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 56
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
-  - "[[Conatus]]"
   - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Hypothesis]]"
@@ -96,7 +95,7 @@ related_persons:
   - "[[Donald A. Schön]]"
 status: draft
 created: 2026-07-18
-updated: 2026-07-19
+updated: 2026-08-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18
 
@@ -264,7 +263,7 @@ updated: 2026-07-19
 > - **关注实践者当下关切的问题** 研究问题由实践者自身在日常工作中识别，具有紧迫性和现实性
 > - **参与性** 受研究影响的人参与研究过程，对研究的方向、方法和成果拥有发言权
 > - **贡献于教育科学** 行动研究不仅改进局部实践，其成果还积累为教育科学知识体系的一部分
-> - **[[Conatus|努力]]使研究可被参与者使用和分享** 研究过程和结果以参与者能理解和运用的方式呈现，而非封闭在学术话语中
+> - **努力使研究可被参与者使用和分享** 研究过程和结果以参与者能理解和运用的方式呈现，而非封闭在学术话语中
 > - **[[Dialogue in Education|对话]]性并颂扬论述** 重视多方对话和观点交流，将不同声音的碰撞视为[[Knowledge Production|知识生产]]的源泉
 >
 > **目的与价值取向**

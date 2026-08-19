@@ -8,7 +8,7 @@ aliases:
 summary: "研究中研究者有意隐瞒真实目的、条件或误导参与者的行为，涉及不告知全部真相，在社会心理学实验和隐蔽研究中尤为常见，是研究伦理中最具争议的实践之一"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Rating Scale]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Hypothesis]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods:
   - "[[Role-playing]]"
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-20
 ---
 
 # Deception in Research
@@ -104,7 +103,7 @@ Kelman (1967) 提出了三种处理欺骗问题的方式（[[Argument_Cohen_Mani
 ## 争议与批评
 
 > [!tension] 欺骗的普遍性与可接受性
-> Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗——过于保守的方法可能使重要研究几乎不值得[[Conatus|努力]]。即使是最严厉的批评者也很难断言所有欺骗对参与者都有潜在有害效果或是错误的。AERA 的伦理标准"不鼓励欺骗"，"仅当明确必要时使用"——但承认在某些情况下可能必要且有用，需要仔细证成（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 114]]）。
+> Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗——过于保守的方法可能使重要研究几乎不值得努力。即使是最严厉的批评者也很难断言所有欺骗对参与者都有潜在有害效果或是错误的。AERA 的伦理标准"不鼓励欺骗"，"仅当明确必要时使用"——但承认在某些情况下可能必要且有用，需要仔细证成（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 114]]）。
 
 ---
 

@@ -27,7 +27,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Return on Investment]]"
   - "[[Preregistration]]"
-  - "[[Conatus]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Informed Consent]]"
   - "[[Paradigm]]"
@@ -37,7 +36,8 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Literature Review]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Typological Analysis]]"
 related_persons: []
 related_facts:
   - "[[Clinical Trials Transformation Initiative]]"
@@ -48,7 +48,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-07-13
+updated: 2026-08-20
 subtype: book-chapter
 publication_type: book
 title: "Argument_Bang_2025_ClinicalTrials"
@@ -184,7 +184,7 @@ citation_aliases:
 
 **6. 启动速度缓慢源于合同、预算和委员会审查的多层串行机制**
 
-[[Clinical Trials Transformation Initiative|临床试验转型倡议]]（Clinical Trials Transformation Initiative, CTTI）发起的基地度量项目（site metrics project）旨在按基地类型和 IRB 类型分析启动度量指标(p.206)。研究发现，缺乏统一的临床试验合同和预算标准——包括语言和解释的不一致——造成了严重延误，尤其在赔偿（indemnification）和知识产权（Intellectual Property, IP）等争议性条款上(pp.206–207)。
+[[Clinical Trials Transformation Initiative|临床试验转型倡议]]（Clinical Trials Transformation Initiative, CTTI）发起的基地度量项目（site metrics project）旨在按基地类型和 IRB [[Typological Analysis|类型分析]]启动度量指标(p.206)。研究发现，缺乏统一的临床试验合同和预算标准——包括语言和解释的不一致——造成了严重延误，尤其在赔偿（indemnification）和知识产权（Intellectual Property, IP）等争议性条款上(pp.206–207)。
 
 > [!warning] 学术机构的启动瓶颈全景
 > 一个临床试验从被选中到可以开始招募患者，需要经过以下串行流程（每一步都需要数周到数月）：
@@ -245,7 +245,7 @@ citation_aliases:
 
 **9. CTTI 的多利益相关方合作模式提供了制度层面的改善框架，但执行效果高度依赖机构层面的投入**
 
-过去二十年，产业界和大学通过集中化行政工作持续[[Conatus|努力]]简化和改善临床研究。多利益相关方[[Public-Private Partnership in Research|公私合作伙伴关系]]——临床试验转型倡议（Clinical Trials Transformation Initiative, CTTI）——制定并推动了提高临床试验质量和效率的实践(p.210)。CTTI 确定了战略重点领域：消除运营效率障碍、提高试验质量、将患者作为特定的利益相关方进行参与，以及回应公共卫生关切。CTTI 领导并发布了超过 30 套基于证据的建议、框架和工具来改善临床试验。
+过去二十年，产业界和大学通过集中化行政工作持续努力简化和改善临床研究。多利益相关方[[Public-Private Partnership in Research|公私合作伙伴关系]]——临床试验转型倡议（Clinical Trials Transformation Initiative, CTTI）——制定并推动了提高临床试验质量和效率的实践(p.210)。CTTI 确定了战略重点领域：消除运营效率障碍、提高试验质量、将患者作为特定的利益相关方进行参与，以及回应公共卫生关切。CTTI 领导并发布了超过 30 套基于证据的建议、框架和工具来改善临床试验。
 
 > [!success] CTTI 的案例：从倡议到实践
 > CTTI 于 2007 年由 FDA 和杜克大学共同发起，最初的目标是回应"临床试验变得越来越昂贵和低效"这一广泛共识。它的工作方式不是自上而下的监管指令，而是召集产业方、学术机构、患者倡导团体和政府机构共同制定基于共识的建议，然后通过试点项目验证。超过 30 套建议涵盖了从试验设计、基地选择、IRB 审查到数据质量的各个环节。例如，CTTI 的基地度量项目（site metrics project）直接回应了启动速度缓慢的问题，通过按基地类型和 IRB 类型分析启动度量指标，为各机构提供了可操作的基准(p.210)。

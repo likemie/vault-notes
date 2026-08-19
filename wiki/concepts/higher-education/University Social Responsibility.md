@@ -7,7 +7,7 @@ aliases:
 summary: "大学对多元利益相关者和社会议题保持制度化回应与公共责任的取向，用于组织大学的社会参与、伦理承诺和公共使命。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Praxis]]"
   - "[[Document]]"
-  - "[[Conatus]]"
 related_theories:
   - "[[World Society Theory]]"
 related_methods: []
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 # University Social Responsibility
@@ -111,7 +110,7 @@ updated: '2026-05-18'
 > [!warning]
 > - **"口头采纳"与"实际行动"的落差**[[Argument_Zapp_2022_Springer|Zapp (2022)]] 提示，CSR 报告的快速增长可能反映的是制度性"口头采纳"（talk）而非实质性行动转变（p.153）
 > - **作为新自由主义合法化工具** 从批判视角看，USR 可能被用于为大学的企业化、市场化和公共拨款缩减提供道德合法性外衣([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
-> - **指标化的简化风险** THE 影响力排名将 USR 的复杂多维[[Praxis|实践]]简化为可比较的量化指标，可能鼓励大学在易得分领域进行表面[[Conatus|努力]]而忽视深层的制度变革
+> - **指标化的简化风险** THE 影响力排名将 USR 的复杂多维[[Praxis|实践]]简化为可比较的量化指标，可能鼓励大学在易得分领域进行表面努力而忽视深层的制度变革
 
 ---
 ## 相关案例／政策

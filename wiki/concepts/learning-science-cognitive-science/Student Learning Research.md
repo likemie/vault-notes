@@ -7,7 +7,7 @@ aliases:
 summary: "以学生在正式教育情境中如何处理具体任务为研究对象的研究传统，连接现象图式学、建构主义与教学设计。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Theoretical Perspective]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Direct Instruction]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-20
 ---
 
 # Student Learning Research
@@ -99,7 +98,7 @@ updated: 2026-08-01
 > 这一命题关注学习差异应被定位为个人特征，还是学生在特定任务和评估要求下采用的活动方式。
 
 > [!claim] [[John Biggs|Biggs, J.]]
-> **同一学生可以改变学习方式** Marton & Säljö (1976) 的阅读研究发现，一组学生为预期问题记忆细节，只留下零散事实；另一组[[Conatus|努力]]把握作者主旨，并理解事实如何共同构成论点。表层与深层描述的是两组学生当时处理任务的方式。Robert 当前依赖记笔记和背诵，也不意味着他具有固定的表层人格；当任务要求提出[[Hypothesis|假设]]和解决问题时，他可能开展更高阶的活动。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 57–60)]]
+> **同一学生可以改变学习方式** Marton & Säljö (1976) 的阅读研究发现，一组学生为预期问题记忆细节，只留下零散事实；另一组努力把握作者主旨，并理解事实如何共同构成论点。表层与深层描述的是两组学生当时处理任务的方式。Robert 当前依赖记笔记和背诵，也不意味着他具有固定的表层人格；当任务要求提出[[Hypothesis|假设]]和解决问题时，他可能开展更高阶的活动。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 57–60)]]
 
 ---
 

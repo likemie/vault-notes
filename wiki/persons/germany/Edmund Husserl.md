@@ -21,10 +21,10 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epoché]]"
   - "[[Critical Pedagogy]]"
-  - "[[Conatus]]"
   - "[[Positivism]]"
   - "[[Scientific Method]]"
   - "[[Phenomenon-Based Learning]]"
+  - "[[Theory of Mind]]"
   - "[[Objectivism]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-07-11
+updated: 2026-08-20
 ---
 
 # Edmund Husserl
@@ -63,7 +63,7 @@ updated: 2026-07-11
 > - **代表贡献** 提出[[Epoché|悬置]]（Epoché）与现象学还原方法，确立“意向性”与生活世界作为人类认识生成的基础。
 
 > [!citation-card]- 人物定位的关键来源
-> 胡塞尔将体验的主体视为本体论和认识论[[Conatus|努力]]的核心。与当时飞速发展的[[Positivism|实证主义]]与[[Scientific Method|经验科学]]相反，胡塞尔将体验着的主体视为“在世存在”，并认为其属于构成其日常情境的“生活世界”。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> 胡塞尔将体验的主体视为本体论和认识论努力的核心。与当时飞速发展的[[Positivism|实证主义]]与[[Scientific Method|经验科学]]相反，胡塞尔将体验着的主体视为“在世存在”，并认为其属于构成其日常情境的“生活世界”。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 >
 > *Husserl suggested considering the living subject as the core of ontological and epistemological endeavours. In contrast to the immense development of empiric and positivistic approaches to science... Husserl considered the experiencing subject as 'being in the world', and a part of a 'lifeworld' that is their everyday context.*
 
@@ -84,7 +84,7 @@ updated: 2026-07-11
 
 > [!timeline] 生平与职涯
 > - **1859年** 出生于奥地利帝国摩拉维亚的普罗斯尼茨（Proßnitz，现捷克普罗斯捷约夫）一个德语犹太中产家庭。（根据维基百科的生平记载）
-> - **1876–1883年** 先后在莱比锡大学、柏林大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（Tomáš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。（根据维基百科的生平记载）
+> - **1876–1883年** 先后在莱比锡大学、柏林大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（[[Theory of Mind|ToM]]áš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。（根据维基百科的生平记载）
 > - **1884–1886年** 在维也纳大学旁听弗朗茨·布伦塔诺（Franz Brentano）的哲学与经验心理学讲座，深受其意向性概念启发，决定终身转向哲学。（根据维基百科的生平记载）
 > - **1886–1887年** 受布伦塔诺推荐，追随卡尔·施图姆普夫（Carl Stumpf）前往哈勒大学，并于1887年完成大学授课资格论文（Habilitation）《论数的概念》（*Über den Begriff der Zahl*）。同年与马尔维娜·施泰因施奈德（Malvine Steinschneider）结婚并改信基督教路德宗。（根据维基百科的生平记载）
 > - **1887–1901年** 在哈勒大学担任无薪私人讲师（Privatdozent）。1891年发表《算术哲学》（*Philosophie der Arithmetik*），并于1894年遭遇哥特洛布·弗雷格（Gottlob Frege）针对该书“心理学主义”立场的严厉批评，促使其深刻反思并转向纯粹逻辑研究。（根据维基百科的生平记载）
@@ -155,7 +155,7 @@ updated: 2026-07-11
 >   - **弗朗茨·布伦塔诺（Franz Brentano）** 老师，激发了胡塞尔对意向性概念的哲学思考。
 >   - **卡尔·施图姆普夫（Carl Stumpf）** 授课资格论文导师，实验心理学先驱。
 >   - **卡尔·魏尔斯特拉斯（Karl Weierstrass）** 数学导师，启发了数作为对象集合的构造性思维。
->   - **托马斯·加里格·马萨里克（Tomáš Garrigue Masaryk）** 莱比锡时期的导师与密友，引导其皈依基督新教并推荐了布伦塔诺。
+>   - **托马斯·加里格·马萨里克（[[Theory of Mind|ToM]]áš Garrigue Masaryk）** 莱比锡时期的导师与密友，引导其皈依基督新教并推荐了布伦塔诺。
 > - **学生／继承者**
 >   - **马丁·海德格尔（Martin Heidegger）** 继承弗莱堡大学教席，但其在《存在与时间》中用“此在”替代纯粹自我，导致两人哲学决裂。
 >   - **埃迪特·施泰因（Edith Stein）** 早期私人助手，协助整理手稿，对[[Phenomenology|现象学]]做出了实在论维度的重要贡献。

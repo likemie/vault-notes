@@ -5,7 +5,7 @@ aliases:
 summary: "学生向人际互动、课外活动、组织参与和职业探索投入时间精力的社会性投入维度。"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Cultural Barrier]]"
-  - "[[Conatus]]"
   - "[[Academic and Social Integration]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 # Social Engagement
@@ -89,7 +88,7 @@ updated: '2026-05-18'
 > - **学生组织与社团参与** 加入并投入学生组织、社团活动——从普通成员到领导职务构成投入深度的连续统（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - **实习与职业探索** 通过实习积累职业经验、锻造软技能、建立职业网络。在[[Knowledge-Based Economy|知识经济]]时代，雇主越来越看重这类"[[Economy of Experience|履历资本]]"（，引 Brown & Hesketh, 2003）
 > - **同伴与[[Student-Teacher Relationship|师生关系]]** 与同伴建立有意义的人际连接、与教师建立非正式互动——这既是社交融入的指标，也是积累社会资本的渠道
-> - **[[Cultural Barrier|文化障碍]]与阶层不平等** 社会性投入的阶层差异不能仅归因于个人不[[Conatus|努力]]——弱势学生面临"语言包"不适配（大成）、屡次融入失败后的回避（冰倩"弃疗"）、对社交的根本性疏离（禹海"依靠会有不安全感吧"），这些是[[Cultural Barrier|文化障碍]]的表现
+> - **[[Cultural Barrier|文化障碍]]与阶层不平等** 社会性投入的阶层差异不能仅归因于个人不努力——弱势学生面临"语言包"不适配（大成）、屡次融入失败后的回避（冰倩"弃疗"）、对社交的根本性疏离（禹海"依靠会有不安全感吧"），这些是[[Cultural Barrier|文化障碍]]的表现
 
 ---
 

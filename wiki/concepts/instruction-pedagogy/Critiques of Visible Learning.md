@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 122
+related_count: 121
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Praxis]]"
   - "[[Confidence Interval]]"
-  - "[[Conatus]]"
   - "[[Analytic Framework]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
@@ -148,7 +147,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-07-13
+updated: 2026-08-20
 ---
 
 # Critiques of Visible Learning
@@ -314,7 +313,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p. 3�
 > [!citation-card]- Terhart, 2011, p. 436
 > 「当然可以通过不同渠道累积金钱并将不同货币汇集在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？如果你这样做，这仍然可靠吗——还是你累积的越多……证据的稳健性就越降低？」
 
-**数据质量问题** 大多数元分析来自 1980s-1990s，基础数据"大概不是最新的"（p. 428）。Hattie "没有向读者提供关于他在决定某研究是否纳入元-元分析时使用的质量标准的准确信息"——而"通常元分析作者投入大量精力和[[Conatus|努力]]讨论这个问题"（p. 429）。数据库的规模令人印象深刻，"但该数据库不同区域的质量非常异质"——从[[Experimental Research|实验研究]]到"较少控制的[[Survey Research|调查研究]]"（p. 429）。
+**数据质量问题** 大多数元分析来自 1980s-1990s，基础数据"大概不是最新的"（p. 428）。Hattie "没有向读者提供关于他在决定某研究是否纳入元-元分析时使用的质量标准的准确信息"——而"通常元分析作者投入大量精力和努力讨论这个问题"（p. 429）。数据库的规模令人印象深刻，"但该数据库不同区域的质量非常异质"——从[[Experimental Research|实验研究]]到"较少控制的[[Survey Research|调查研究]]"（p. 429）。
 
 > [!tension] 双重困境：稳定性 vs. 变异性
 > 这是 Terhart 最具原创性的论点：Hattie 的元-元分析同时面临两个**相反方向**的挑战，任何一方都足以动摇结论。

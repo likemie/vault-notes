@@ -10,7 +10,7 @@ summary: "明代心学思想家，以良知说和知行合一反对程朱理学�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Four Sprouts]]"
   - "[[Subjectivism]]"
-  - "[[Conatus]]"
 related_theories:
   - "[[Neo-Confucianism]]"
 related_methods: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: '2026-06-08'
+updated: 2026-08-20
 ---
 # Wang Yangming
 
@@ -134,7 +133,7 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning]
-> - 王阳明对"良知"的强调，如果脱离了严格的[[Self-Cultivation|修身]][[Praxis|实践]]，可能导致[[Subjectivism|主观主义]]——"既然良知人人都有，那还需要[[Conatus|努力]]学习吗？"（这一点在阳明后学中确实出现了"空谈心性"的流弊）
+> - 王阳明对"良知"的强调，如果脱离了严格的[[Self-Cultivation|修身]][[Praxis|实践]]，可能导致[[Subjectivism|主观主义]]——"既然良知人人都有，那还需要努力学习吗？"（这一点在阳明后学中确实出现了"空谈心性"的流弊）
 > - 程朱与阳明之争持续数百年，到清代考据学兴起后，两者的对立也被学者反思和调和
 
 ---

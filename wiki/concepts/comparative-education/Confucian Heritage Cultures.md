@@ -9,7 +9,7 @@ aliases:
 summary: "受儒家学习传统影响的文化区域分类，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等国家和地区"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Praxis]]"
   - "[[Bildung]]"
-  - "[[Conatus]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: '2026-05-23'
+updated: 2026-08-20
 ---
 
 # Confucian Heritage Cultures
@@ -67,7 +66,7 @@ Watkins and Biggs 有意使用 CHC 而非 "Chinese"，以避免将现象局限�
 [[Argument_Li_2012_Cambridge|Li (2012, pp.84-89)]]将 CHC 框架下的研究归纳为两条互补路径：
 
 1. **学习信念路径** 探究 CHC 学习者如何理解学习的目的和本质。Wing On Lee 论证了儒家核心价值观（尤其是通过个人投入追求 自我完善）对当代学习者的持久影响；Kai-ming Cheng 的[[Ethnography|民族志]]显示中国父母送孩子上学"是为了成为一个了解世界、能在社会关系中良好运作、道德上受[[Bildung|教化]]的人"；An Ran 发现英国华人父母与英国教师在学习目的上存在系统性冲突([[Argument_Li_2012_Cambridge|Li, 2012, pp.84-85]])
-2. **学习过程路径** 重新解释 CHC 学习者的"记忆"与"理解"关系。Marton 团队发现中国学习者的记忆是通向深度理解的**第一步**而非终点；Dahlin and Watkins 发现中英学生对"理解"本身的定义不同——英国学生视为突然顿悟，中国学生视为长期智力[[Conatus|努力]]的过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.86-87]])
+2. **学习过程路径** 重新解释 CHC 学习者的"记忆"与"理解"关系。Marton 团队发现中国学习者的记忆是通向深度理解的**第一步**而非终点；Dahlin and Watkins 发现中英学生对"理解"本身的定义不同——英国学生视为突然顿悟，中国学生视为长期智力努力的过程([[Argument_Li_2012_Cambridge|Li, 2012, pp.86-87]])
 
 > [!tip]- 详见
 > 两条路径的完整研究发现见 [[Paradox of the Chinese Learner#实证发现]]。Li 本人的[[Cultural Models|文化模型]]研究（[[Chinese Learner]]）为 CHC 学习特征提供了从儒家文本到实证数据的系统性论证。

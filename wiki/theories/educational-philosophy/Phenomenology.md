@@ -5,7 +5,7 @@ aliases:
 summary: "以主观意识和直接经验为核心的哲学传统，关注意识如何主动赋予世界意义，是诠释范式的三大研究传统之一。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 38
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Realism in International Relations]]"
   - "[[Discipline-Based Theory]]"
-  - "[[Conatus]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-08-16
+updated: 2026-08-20
 ---
 
 # Phenomenology
@@ -166,7 +165,7 @@ updated: 2026-08-16
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **19–20 世纪之交 — 经典奠基** 胡塞尔提出“回到事物本身”的口号，创立先验现象学，确立意向性与[[Epoché|悬置]]方法，视 living subject 为[[Ontology|本体论]]和[[Epistemology|认识论]][[Conatus|努力]]的核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
+> - **19–20 世纪之交 — 经典奠基** 胡塞尔提出“回到事物本身”的口号，创立先验现象学，确立意向性与[[Epoché|悬置]]方法，视 living subject 为[[Ontology|本体论]]和[[Epistemology|认识论]]努力的核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > - **20 世纪中期 — 存在、社会与具身转向** 舒茨将现象学引入社会学，创立存在现象学，关注日常生活世界的意义结构与主体间性分析。 同期，Heidegger、Sartre 与 梅洛-庞蒂发展了存在与具身转向，特别是梅洛-庞蒂将身体经验置于知觉之前，批判[[René Descartes|笛卡尔]]二元论。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 3]]
 > - **21 世纪初 — 教育哲学与学习现象学** Biesta、Küpers 等将现象学应用于反思当代教育，提出“学习现象学”（Phenomenology of learning），突出具身、情绪、体验和响应性的学习过程，用以批判绩效测量与知识技能原子化。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 3, 10]]
 > - **2014年至今 — 跨学科课程化与实证应用** 芬兰等国将跨学科探究政策化，现象学作为 [[Phenomenon-Based Learning|现象本位学习]]（PhBL） 的关键哲学根源，在教师教育和可持续发展项目（如 SveaSus 项目）中获得实证、艺术及多语教学层面的[[Praxis|实践]]检验。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 2]]

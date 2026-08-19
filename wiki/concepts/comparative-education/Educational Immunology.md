@@ -9,10 +9,10 @@ aliases:
 summary: "比较教育学分析视角，描述接受国在面对强行嵌入的外来教育学制或政策移植时，为了维护本土文化生态和制度主体性而自发形成的排异、过滤和抵抗改写机制"
 type: concept
 domain: "comparative-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - comparative-education
   - policy-borrowing
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Geometries of Insertion]]"
   - "[[Social Cloning]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-20
 ---
 
 # Educational Immunology
@@ -82,5 +81,5 @@ updated: 2026-07-03
 
 > [!evidence-grid] 教育免疫学与情境抗性研究
 > - **[[Argument_Cowen_2009_CE|Cowen (2009)]]** 奠定教育免疫学的理论本源，通过德国对美式综合中学的抗拒和中国对[[John Dewey|杜威]]思想的过滤，阐述情境防卫的重要性。
-> - **[[Geometries of Insertion]]** 反向反映了新自由主义政策借鉴试图攻破本土文化免疫防线、实现“无缝[[Social Cloning|社会克隆]]”的嵌入[[Conatus|努力]]与伦理边界。
+> - **[[Geometries of Insertion]]** 反向反映了新自由主义政策借鉴试图攻破本土文化免疫防线、实现“无缝[[Social Cloning|社会克隆]]”的嵌入努力与伦理边界。
 > - **[[Transfer Translation Transformation]]** 框架中的转化（Transformation）阶段，是本土免疫反应与外来嵌入政策展开长期拉锯、最终实现 indigenisation 或 extinction 的主战场。

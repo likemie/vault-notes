@@ -8,7 +8,7 @@ aliases:
 summary: "以学习结果为中心的课程设计范式，强调可测量的学习成果而非知识内容，在新西兰 2007 年课程和全球教育改革中广泛采用，近年受到社会实在论批评"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Powerful Knowledge]]"
   - "[[Educated Identity]]"
-  - "[[Conatus]]"
   - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-08-20
 ---
 
 # Outcomes-based Education
@@ -69,7 +68,7 @@ updated: 2026-06-06
 ## 概念演变
 
 > [!note]-
-> **Lauwerys 时期（1965）**。[[Joseph Lauwerys]] 最初以理解的方式把握法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型，这些模型作为世界[[Paradigm|范式]]具有影响力。此时结果导向是学术性的文化理解[[Conatus|努力]]([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
+> **Lauwerys 时期（1965）**。[[Joseph Lauwerys]] 最初以理解的方式把握法国、英格兰、美国和苏联的理想[[Educated Identity|受教育身份]]模型，这些模型作为世界[[Paradigm|范式]]具有影响力。此时结果导向是学术性的文化理解努力([[Argument_Cowen_2023_CE|Cowen, 2023, p.333]])。
 >
 > **IEA 研究时期**。结果变成了通过[[International Education|国际教育]]成就评价协会（IEA）研究衡量教育效率。这一转变标志着从理解文化到衡量效率的转向。
 >

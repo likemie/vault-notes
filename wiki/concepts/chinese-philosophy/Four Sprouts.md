@@ -4,7 +4,7 @@ aliases: ["四端", "siduan", "four beginnings"]
 summary: "孟子提出的性善论基础，四种先天的道德萌芽，恻隐之心，羞恶之心，辞让之心，是非之心，为修身提供人性论依据"
 type: concept
 domain: "chinese-philosophy"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -13,7 +13,6 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Benevolence]]"
   - "[[Ritual Propriety]]"
-  - "[[Conatus]]"
   - "[[Sage]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -29,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-20
 ---
 
 # Four Sprouts
@@ -53,7 +52,7 @@ updated: 2026-05-25
 ## 概念辨析
 
 > [!abstract]
-> 四端说的关键不在于天赋本身，而在于它只是"萌芽"（germinations）。[[Mencius|孟子]]明确指出，这些先天能力本身并不会自动导致伟大的道德成就——每个个体必须付出巨大的[[Conatus|努力]]，持续学习与[[Self-Cultivation|修身]]，才能实现其全部道德潜能([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
+> 四端说的关键不在于天赋本身，而在于它只是"萌芽"（germinations）。[[Mencius|孟子]]明确指出，这些先天能力本身并不会自动导致伟大的道德成就——每个个体必须付出巨大的努力，持续学习与[[Self-Cultivation|修身]]，才能实现其全部道德潜能([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
 
 孟子的四端说为[[Confucian Learning Tradition|儒家学习传统]]提供了人性论基础。他的核心信念是：道德上的自我完善不是某些特殊人物或社会精英的专利，而是对每个人开放的可能。这一主张在根本上将人类卓越的可能性赋予了所有人([[Argument_Li_2012_Cambridge|Li, 2012, p.43]])。
 

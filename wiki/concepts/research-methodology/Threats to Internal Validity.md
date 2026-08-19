@@ -6,7 +6,7 @@ aliases:
 summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell and Stanley 经典框架列出十种主要威胁，Onwuegbuzie and Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Growth]]"
   - "[[Questionnaire]]"
-  - "[[Conatus]]"
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
   - "[[Praxis]]"
@@ -51,7 +50,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-07-13
+updated: 2026-08-20
 ---
 # Threats to Internal Validity
 
@@ -117,7 +116,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 >
 > **补偿性怨恨（Compensatory/Resentful Demoralization）** 学校推行一项新的免费午餐计划，只有实验班学生可以领取。对照班学生知道后感到不公平，在后期测试中消极应答或故意表现差，导致组间差异被人为放大。应对方式是承诺实验结束后给予对照组同等待遇。
 >
-> **补偿性竞争（Compensatory Rivalry）** 对照组的教师知道自己是"对照组"后，加倍[[Conatus|努力]]教学以证明自己不比实验组差——对照组结果因此被拉高，处理效应被低估。这是 John Henry 效应的一种形式。应对方式是不过度强调"实验 vs 对照"的标签，或给予对照组一个有意义的替代任务，使其感到自己的工作同样重要。
+> **补偿性竞争（Compensatory Rivalry）** 对照组的教师知道自己是"对照组"后，加倍努力教学以证明自己不比实验组差——对照组结果因此被拉高，处理效应被低估。这是 John Henry 效应的一种形式。应对方式是不过度强调"实验 vs 对照"的标签，或给予对照组一个有意义的替代任务，使其感到自己的工作同样重要。
 
 ### 与实验程序相关的威胁（Procedure Threats）
 

@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 41
+method_related_count: 40
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
-  - "[[Conatus]]"
   - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Concurrency of Learning]]"
@@ -62,7 +61,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-06-25
-updated: 2026-07-19
+updated: 2026-08-20
 ---
 # Action Research
 
@@ -152,7 +151,7 @@ updated: 2026-07-19
 > - **关注实践者当下关切的问题** [[Research Question|研究问题]]由实践者自身在日常工作中识别
 > - **参与性** 受研究影响的人参与研究过程，对研究的方向、方法和成果拥有发言权
 > - **贡献于教育科学** 成果不仅改进局部实践，还积累为教育科学知识体系的一部分
-> - **[[Conatus|努力]]使研究可被参与者使用和分享** 研究过程和结果以参与者能理解和运用的方式呈现
+> - **努力使研究可被参与者使用和分享** 研究过程和结果以参与者能理解和运用的方式呈现
 > - **[[Dialogue in Education|对话]]性并颂扬论述** 重视多方对话和观点交流，将不同声音的碰撞视为[[Knowledge Production|知识生产]]的源泉
 >
 > **目的与价值取向**

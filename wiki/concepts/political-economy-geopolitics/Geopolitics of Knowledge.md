@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 78
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,7 +61,6 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Research Question]]"
-  - "[[Conatus]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -103,7 +102,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-05-20
+updated: 2026-08-20
 ---
 
 # Geopolitics of Knowledge
@@ -333,7 +332,7 @@ updated: 2026-05-20
 > Thompson 等人（2022）将 GPK 分析延伸至教学治理的微观层面，展示 GPK 逻辑如何通过数字化治理技术渗透到学生主体层面。
 
 > [!finding-cards]
-> 1. **竞争力作为地缘政治装置** 大学通过排名、指标化和审计文化被重塑为竞争者。教学领域中，竞争力表现为对学生"潜在未来[[Conatus|努力]]"（potential future effort）的预期管理——大学需要在入学前就预判哪些学生有潜力贡献"成功"指标（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]]）
+> 1. **竞争力作为地缘政治装置** 大学通过排名、指标化和审计文化被重塑为竞争者。教学领域中，竞争力表现为对学生"潜在未来努力"（potential future effort）的预期管理——大学需要在入学前就预判哪些学生有潜力贡献"成功"指标（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.220]]）
 > 2. **[[Online Self-Assessment|OSA]] 作为 GPK 治理工具** 将 GPK 的竞争逻辑[[Operationalization|操作化]]为个体化的自我评估实践——潜在学生被引导将自身与"完美匹配"的理想形象对齐，[[Digital Self|数字自我]]与[[Digital Optimum|数字最优]]之间的差距驱动着永不停息的自我优化（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.224–226]]）
 > 3. **[[Promising Student|有前景的学生]]：[[Geopolitical Subject|地缘政治主体]]的教学变体** GPK 在教学治理层面产出的主体形态——通过自我技术被"呼唤"出来的、主动自我评估和优化的学术主体（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]]）
 

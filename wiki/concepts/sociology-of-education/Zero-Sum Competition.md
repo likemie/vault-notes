@@ -8,7 +8,7 @@ aliases:
 summary: "美国学生将学业竞争视为零和博弈的文化信念，是 nerd 同伴文化的重要文化根源之一"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ tags:
   - theme/cultural-psychology
 related_concepts:
   - "[[Nerd]]"
-  - "[[Conatus]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Self-Cultivation]]"
   - "[[Talent Assumption]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-08-20
 ---
 
 # Zero-Sum Competition
@@ -113,7 +112,7 @@ Watkins 及其学生采用 Fülöp 的方法研究香港高中生（含高能力
 
 这种非零和竞争观的文化基础包括：
 - 同学概念——同伴是"一起学习的朋友"，不是竞争对手
-- 可变自我观——别人的成功不威胁我的自我价值，因为我的能力也可以通过[[Conatus|努力]]提升
+- 可变自我观——别人的成功不威胁我的自我价值，因为我的能力也可以通过努力提升
 - [[Confucian Learning Tradition|儒家学习传统]]——切磋琢磨（qiecuo zhuomo），通过相互砥砺共同进步
 
 > [!tip]- 与 [[Tall Poppy Syndrome]] 的领域区分
@@ -128,7 +127,7 @@ Watkins 及其学生采用 Fülöp 的方法研究香港高中生（含高能力
 
 1. 固定自我观 → 学术表现 = 自我价值的验证
 2. **零和竞争** → 别人的成功 = 我的自我价值受损
-3. [[Talent Assumption|天赋假设]] → [[Conatus|努力]] = 低能力的标志，不努力的成功 = 天才
+3. [[Talent Assumption|天赋假设]] → 努力 = 低能力的标志，不努力的成功 = 天才
 4. [[Intellectual-Social Divide|知性-社交二分]] → 学术投入的人 = 社交有缺陷的人
 
 四条根相互加强：固定自我使人敏感于比较 → 零和竞争将比较建构为敌对 → 天赋[[Hypothesis|假设]]让"不努力的成功者"获得豁免、"努力的成功者"加倍可疑 → 知性-社交二分为所有骚扰提供合理化。

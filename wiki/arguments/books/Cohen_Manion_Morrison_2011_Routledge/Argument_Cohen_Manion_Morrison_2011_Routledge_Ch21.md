@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,7 +52,6 @@ related_concepts:
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
-  - "[[Conatus]]"
   - "[[Active Listening]]"
   - "[[Construct]]"
   - "[[Chain of Evidence]]"
@@ -89,7 +88,7 @@ related_methods:
   - "[[Accounts]]"
 status: draft
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21
 
@@ -364,7 +363,7 @@ Kvale（1996, p. 88）的访谈调查七个阶段（pp.418–420）：
 >
 > **受访者** 能力较差的学生会拖慢班级中能力较强的学生，而且教师必须非常辛苦地应对广泛的能力差异。
 >
-> **研究者（控制能力较强学生放慢速度）** 但我们知道，许多能力较强的学生无论如何都会放慢速度，原因有二：快速完成会被布置更多[[Homework|作业]]→想要轻松生活；不想在班级中显得与众不同→放慢速度。而且教师无论如何都必须[[Conatus|努力]]工作——她有日常多项任务。实际上教师可以有助教协助不同能力的学生。
+> **研究者（控制能力较强学生放慢速度）** 但我们知道，许多能力较强的学生无论如何都会放慢速度，原因有二：快速完成会被布置更多[[Homework|作业]]→想要轻松生活；不想在班级中显得与众不同→放慢速度。而且教师无论如何都必须努力工作——她有日常多项任务。实际上教师可以有助教协助不同能力的学生。
 >
 > **受访者** 但即使有助教，也不能确保所有学生都公平地获得教师的注意力——只有能力较弱和能力较强孩子获得额外关注。
 >

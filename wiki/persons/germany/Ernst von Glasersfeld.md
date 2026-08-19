@@ -7,7 +7,7 @@ summary: "德裔美籍哲学家和认知心理学家，激进建构主义创始�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
-  - "[[Conatus]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Luhmann's Systems Theory]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: 2026-08-20
 ---
 ## 简介
 
@@ -80,4 +79,4 @@ updated: '2026-06-08'
 > [!warning] 争议与批评
 > - **规范性缺失**[[Radical Constructivism|激进建构主义]]无法区分好知识与坏知识、知识与谬误，使教育判断失去基础([[Argument_Rømer_2018_EPT|Rømer, 2018, p.6-7]])
 > - **外部世界的消解** Rømer 论证 Glasersfeld 的唯我论前提使教育中的社会、政治、文化和科学维度全部退场
-> - **与科学实在论的对立**[[Karl Popper|Popper]] 的哲学代表了 Glasersfeld 立场的精确对立面，Hattie 试图桥接两者的[[Conatus|努力]]因此注定失败([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])
+> - **与科学实在论的对立**[[Karl Popper|Popper]] 的哲学代表了 Glasersfeld 立场的精确对立面，Hattie 试图桥接两者的努力因此注定失败([[Argument_Rømer_2018_EPT|Rømer, 2018, p.10-11]])

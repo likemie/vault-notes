@@ -20,9 +20,9 @@ tags:
   - instrument/interview
 related_concepts:
   - "[[Theory of Knowledge]]"
-  - "[[Conatus]]"
   - "[[Dialogue in Education]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Conatus]]"
   - "[[IB Learner Profile]]"
   - "[[Teacher Beliefs]]"
   - "[[Self-Efficacy]]"
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-08-20
 ---
 
 # 6-Item TOK Focus Group Protocol
@@ -52,7 +52,7 @@ updated: 2026-08-17
 > [!instrument-profile] [[Theory of Knowledge|知识论]][[Focus Group|焦点小组]]六题协议
 > - **工具类型** 半结构化焦点小组协议，适用于知识论教师。
 > - **开发者与年份** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]]。
-> - **测量目的** 收集教师对于知识论课程（TOK）的目的、收益、挑战、教学[[Conatus|努力]]程度，以及对学生和教师自身影响的深度质性看法。
+> - **测量目的** 收集教师对于知识论课程（TOK）的目的、收益、挑战、教学努力程度，以及对学生和教师自身影响的深度质性看法。
 > - **实施方式** 研究者作为主持人，在专业发展工作坊或区域会议期间招募教师组成焦点小组，进行 1 小时的半结构化[[Dialogue in Education|对话]]，全程录音并[[Transcription in Qualitative Research|转录]]。
 
 ---

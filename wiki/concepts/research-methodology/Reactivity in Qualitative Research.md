@@ -6,7 +6,7 @@ aliases:
 summary: "研究者在场改变被研究情境的现象，在质性研究中通过延长驻留、谨慎自我呈现和反身性来管理而非消除。"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Blinding]]"
   - "[[Research Ethics]]"
-  - "[[Conatus]]"
   - "[[Habituation]]"
   - "[[Informed Consent]]"
   - "[[Qualitative Validity]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-07-24
+updated: 2026-08-20
 ---
 
 # Reactivity in Qualitative Research
@@ -96,7 +95,7 @@ updated: 2026-07-24
 在[[Observation Method|观察研究]]中，反应性是十类偏误来源之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
 
 > [!info] 观察中的需求特征
-> 参与者知道正在被观察时可能改变行为——更[[Conatus|努力]]、更焦虑、表现得更好或更差、以他们认为研究者希望的方式行为或研究者默许的方式行为。Shaughnessy 等人（2003, p. 113）将这种现象称为需求特征（demand characteristics）。
+> 参与者知道正在被观察时可能改变行为——更努力、更焦虑、表现得更好或更差、以他们认为研究者希望的方式行为或研究者默许的方式行为。Shaughnessy 等人（2003, p. 113）将这种现象称为需求特征（demand characteristics）。
 
 > [!contrast-table] 观察中减少反应性的两种策略
 > | 策略 | 方法 | 优势 | 风险 |

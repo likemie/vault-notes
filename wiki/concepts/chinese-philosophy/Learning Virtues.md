@@ -7,7 +7,7 @@ aliases:
 summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性"
 type: concept
 domain: "chinese-philosophy"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,7 +19,6 @@ tags:
 - theme/learning
 related_concepts:
   - "[[Self-Cultivation]]"
-  - "[[Conatus]]"
   - "[[Ideal Learner]]"
   - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-23
+updated: 2026-08-20
 ---
 
 # Learning Virtues
@@ -61,7 +60,7 @@ updated: 2026-05-23
 ## 定义
 
 > [!info]
-> 学习美德是 Li 从儒家文本中识别出的七种核心学习品质，它们构成了儒家学习者的个人能动性（personal agency）——即学习者在[[Self-Cultivation|修身]]过程中必须发展和运用的内在品质。这些品质被称为"美德"，一是因为它们长期属于中国道德话语的一部分，二是因为父母、教师和社会共同[[Conatus|努力]]在儿童身上培养这些品质([[Argument_Li_2012_Cambridge|Li, 2012, p.49]])。
+> 学习美德是 Li 从儒家文本中识别出的七种核心学习品质，它们构成了儒家学习者的个人能动性（personal agency）——即学习者在[[Self-Cultivation|修身]]过程中必须发展和运用的内在品质。这些品质被称为"美德"，一是因为它们长期属于中国道德话语的一部分，二是因为父母、教师和社会共同努力在儿童身上培养这些品质([[Argument_Li_2012_Cambridge|Li, 2012, p.49]])。
 
 ---
 
@@ -106,7 +105,7 @@ updated: 2026-05-23
 > 4. **以勤补拙** 中国学习者清楚意识到个体天赋差异的存在——"没有人怀疑需要天赋才能成为伟大的运动员、艺术家或科学家"。但他们不认为缺乏天赋就不能学到很多东西。两个关键信念贯穿童年社会化："勤能补拙"和"笨鸟先飞"。在 Li 的理想学习者研究中，受访者描述缺乏天赋的学习者会"加倍、三倍乃至百倍"增加勤奋，并对此表达尊重和钦佩([[Argument_Li_2012_Cambridge|Li, 2012, pp.133-134]])
 
 > [!info] 文化认知差异：hypercognition vs hypocognition
-> Li 引用 Robert Levy 在 Tahiti 情感词汇研究中提出的概念([[Argument_Li_2012_Cambridge|Li, 2012, p.126]])：中文学习词汇中与勤奋／[[Conatus|努力]]相关的术语极为丰富（36 个进入核心列表），而 Li 收集的近 500 个英语学习词汇中甚至没有出现 hard work 或 effort 这两个词。换言之，努力／勤奋在中文文化中是 **hypercognized**（高度认知化）的领域——有精细的分化和详细的表达；而在英语文化中，这一领域是 **hypocognized**（低度认知化）的。Li 因而选择使用 diligence/self-exertion 而非 hard work/effort 来更准确地翻译中国学习者勤奋的丰富内涵。
+> Li 引用 Robert Levy 在 Tahiti 情感词汇研究中提出的概念([[Argument_Li_2012_Cambridge|Li, 2012, p.126]])：中文学习词汇中与勤奋／努力相关的术语极为丰富（36 个进入核心列表），而 Li 收集的近 500 个英语学习词汇中甚至没有出现 hard work 或 effort 这两个词。换言之，努力／勤奋在中文文化中是 **hypercognized**（高度认知化）的领域——有精细的分化和详细的表达；而在英语文化中，这一领域是 **hypocognized**（低度认知化）的。Li 因而选择使用 diligence/self-exertion 而非 hard work/effort 来更准确地翻译中国学习者勤奋的丰富内涵。
 
 ### 3. 刻苦（Endurance of Hardship — kèkǔ）
 

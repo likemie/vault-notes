@@ -24,7 +24,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Wuhu Ruhua]]"
   - "[[Second-generation Ethnic Policy]]"
-  - "[[Conatus]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Operationalization]]"
   - "[[External Validity]]"
@@ -44,14 +43,14 @@ sources:
 part_of:
 status: draft
 created: 2026-05-25
-updated: '2026-06-25'
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bulag_2024_CE"
 argument_key: "Argument_Bulag_2024_CE"
 argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -198,7 +197,7 @@ citation_aliases:
 > 借用哈金（Ian Hacking, 1999）对社会建构论的分析：将某事物称为建构的本身就是一种反抗现状的姿态。西方学者称其为建构是为了抗议国家霸权；而中国政策学者接过来称其为建构，则是为了抗议现存的少数民族优待与自治制度，从而论证同化政策的正当性。同一概念工具在不同的政治语境中发生了 180 度的翻转(p.103)。
 
 > [!warrant]- 步骤二推理桥梁
-> 知识分子的话语并非在真空中运行。西方左翼学术的解构冲动与现代主权国家的同化诉求在概念层面上找到了交汇点——两者都否定了本质化民族的合法性。这一学术挪用过程说明，概念去政治化的学术[[Conatus|努力]]在威权统治下极易被转化为国家权力拆除少数民族自治法律屏障的政策工具。
+> 知识分子的话语并非在真空中运行。西方左翼学术的解构冲动与现代主权国家的同化诉求在概念层面上找到了交汇点——两者都否定了本质化民族的合法性。这一学术挪用过程说明，概念去政治化的学术努力在威权统治下极易被转化为国家权力拆除少数民族自治法律屏障的政策工具。
 
 ---
 

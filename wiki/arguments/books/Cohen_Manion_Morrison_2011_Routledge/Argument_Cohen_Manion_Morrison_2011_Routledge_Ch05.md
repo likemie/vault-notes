@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 49
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Hypothesis]]"
   - "[[Gatekeepers]]"
-  - "[[Conatus]]"
   - "[[Hawthorne Effect]]"
   - "[[Questionnaire]]"
   - "[[Research Scope]]"
@@ -86,7 +85,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-18
-updated: 2026-07-08
+updated: 2026-08-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05
 
@@ -315,7 +314,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 > [!tension] 是否应该提供物质诱导？
 > 这是一个真实的伦理张力（p.81）：
 > - **反对物质诱导** 任何形式的物质诱导都扭曲了研究者与参与者之间的真实关系。参与者可能只因为会被付费而说某些话，或提供敷衍的信息以获取奖励，其实际投入非常小
-> - **支持物质诱导** 参与者为研究付出了时间和[[Conatus|努力]]，他们应该像其他种类的工作一样为此获得报酬（Oliver, 2003, pp. 23, 59）
+> - **支持物质诱导** 参与者为研究付出了时间和努力，他们应该像其他种类的工作一样为此获得报酬（Oliver, 2003, pp. 23, 59）
 >
 > 研究者必须确保如果知情同意要得到履行，志愿者拥有真正的选择自由。
 

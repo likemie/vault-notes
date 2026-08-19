@@ -9,7 +9,7 @@ aliases:
 summary: "大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。"
 type: concept
 domain: "higher-education"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Revoicing]]"
-  - "[[Conatus]]"
   - "[[Return on Investment]]"
   - "[[Disciplinary Socialization]]"
   - "[[Praxis]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-08-19'
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -137,7 +136,7 @@ updated: '2026-08-19'
 
 ### 分类框架的演变
 
-博士毕业生特质的系统化[[Conatus|努力]]始于 Senekal, Munnik, and Frantz（2022）对 35 篇论文的综述，识别出十个领域：知识、研究、沟通、人际、组织、学术声誉、高阶思维、个人资源fulness 和积极公民身份。该综述同时指出，已有研究缺乏[[Global Citizenship|全球公民]]和职业发展维度([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。
+博士毕业生特质的系统化努力始于 Senekal, Munnik, and Frantz（2022）对 35 篇论文的综述，识别出十个领域：知识、研究、沟通、人际、组织、学术声誉、高阶思维、个人资源fulness 和积极公民身份。该综述同时指出，已有研究缺乏[[Global Citizenship|全球公民]]和职业发展维度([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。
 
 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在此基础上，综合其美新三国 PhD 毕业生的[[Mixed Methods Research|混合方法研究]]发现与 Vitae RDF，提出了一个简化的七域分类框架（p.98, Table 5）：
 

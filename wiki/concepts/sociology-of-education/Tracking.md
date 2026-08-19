@@ -8,7 +8,7 @@ aliases:
 summary: "根据学术能力、成绩或职业目标将学生分配到不同课程、项目或学校的制度实践，是教育社会学中研究教育不平等如何制度化的核心机制。"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Hypothesis]]"
-  - "[[Conatus]]"
   - "[[Talent Assumption]]"
   - "[[Entity vs Incremental Intelligence]]"
   - "[[Intellectual-Social Divide]]"
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-20
 ---
 
 # Tracking
@@ -58,7 +57,7 @@ updated: 2026-05-25
 
 **分轨的目的从"改变学生"转向"适应学生"**。课程和教学的设计不是为了提高学生的智识能力，而是为了**适应**学生已经被判断出的特征。这构成 tracking 的逻辑基础——轨道不是发展的起点，而是终点的预先分配。
 
-**自我实现的预言**。被标记为低轨的学生吸收了"能力固定"的信念——"既然我在低轨，说明我不够聪明，[[Conatus|努力]]也没用"——放弃了努力，最终达到了与教师预期一致的"低成就"。教师的信念因此被"验证"了，但他们没有意识到这正是他们自己促成的。
+**自我实现的预言**。被标记为低轨的学生吸收了"能力固定"的信念——"既然我在低轨，说明我不够聪明，努力也没用"——放弃了努力，最终达到了与教师预期一致的"低成就"。教师的信念因此被"验证"了，但他们没有意识到这正是他们自己促成的。
 
 ---
 
@@ -85,7 +84,7 @@ updated: 2026-05-25
 ## 跨文化对比
 
 > [!example]
-> Li 指出，在东亚学校中，正式的分轨制度并不突出——这与东亚文化的可变自我观和环境影响力信念一致。如果自我是可变的、能力是通过[[Conatus|努力]]发展的，那么早期将学生锁定在不同轨道中就失去了逻辑基础([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
+> Li 指出，在东亚学校中，正式的分轨制度并不突出——这与东亚文化的可变自我观和环境影响力信念一致。如果自我是可变的、能力是通过努力发展的，那么早期将学生锁定在不同轨道中就失去了逻辑基础([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
 
 但这不意味着东亚教育系统没有分层——中学入学考试本身就是一种选拔机制。区别在于：选拔之后，学校内部更强调所有学生共享同一高标准的课程（而非永久性地分成高轨和低轨），且强调努力——而非天赋——是[[Academic Achievement|学业成就]]的主要途径。
 

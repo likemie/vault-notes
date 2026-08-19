@@ -8,7 +8,7 @@ aliases:
 summary: "男女学生在学业成绩、微观学术任务及认知信念上呈现的系统性差异。既有实证揭示女生在平时总评与良构/劣构任务上普遍领先，其机制受学校规范适应、学习动机投入、能力可塑性信念及关系性认知方式的共同驱动。"
 type: concept
 domain: "sociology-of-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Ways of Knowing]]"
   - "[[Task Structure]]"
-  - "[[Conatus]]"
   - "[[Self-control]]"
   - "[[Paradigm]]"
   - "[[Domain Specificity]]"
@@ -36,6 +35,7 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
+  - "[[Conatus]]"
   - "[[Simplicity of Knowledge]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Gender Differences in Academic Achievement
@@ -80,7 +80,7 @@ updated: 2026-08-19
 ### 命题一　行为规范适应与学习动机投入是学业性别差异的核心中介
 
 > [!concept-lens] 学校过程[[Variable|变量]]的间接传导机制
-> 探讨校内行为规范适应与动机[[Conatus|努力]]如何充当关键中介，解释女生在[[Academic Achievement|学业表现]]上的领先优势。
+> 探讨校内行为规范适应与动机努力如何充当关键中介，解释女生在[[Academic Achievement|学业表现]]上的领先优势。
 
 > [!claim] [[Argument_Lekhal_2015_Paideia|Lekhal et al. (2015)]]
 > **规范适应与动机中介主张** 性别对学业成绩的影响主要是经由校内行为与评价机制交互实现的间接作用。
@@ -114,9 +114,9 @@ updated: 2026-08-19
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
-> | **规范与动机中介** | 性别差异主要经由课堂规范适应与持续工作努力等过程变量间接传导。 | 课堂行为管理、评价偏差控制与动机辅导 | [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] |
-> | **学业与[[Epistemology\|认识论]]双领先** | 女生在长周期成绩与良构/[[Task Structure\|劣构任务]]上全面领先，受更成熟的[[Growth\|成长]]型能力观与真理演变观支撑。 | 中学科学教育、良构与劣构任务实验 | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
-> | **心理性别角色转向** | 超越生理二分，引入心理性别取向与关系性认识方式能更深层解释学业分化。 | 性别平等教育、学术角色认同与心理辅导 | Pintrich (2002); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |
+> | **规范与动机中介** | 性别差异主要经由课堂规范适应与持续工作努力等过程变量间接传导。 | 课堂行为管理、评价偏差控制与动机辅导 | Lekhal et al. |
+> | **学业与[[Epistemology\|认识论]]双领先** | 女生在长周期成绩与良构/[[Task Structure\|劣构任务]]上全面领先，受更成熟的[[Growth\|成长]]型能力观与真理演变观支撑。 | 中学科学教育、良构与劣构任务实验 | Lodewyk |
+> | **心理性别角色转向** | 超越生理二分，引入心理性别取向与关系性认识方式能更深层解释学业分化。 | 性别平等教育、学术角色认同与心理辅导 | Pintrich; Lodewyk |
 
 ---
 
@@ -155,7 +155,7 @@ updated: 2026-08-19
 > - **中学科学双任务测评中的性别表现对比（[[Argument_Lodewyk_2007_EP|Lodewyk, 2007]]）**
 >   十年级科学实验中，女生在良构生活方式任务（$ES = .58$）与劣构癌症辩护任务（$ES = .44$）中均取得显著优势，展示出在规则执行与复杂价值权衡上的双重适应力。
 > - **课堂规范适应与归因辅导干预（[[Argument_Lekhal_2015_Paideia|Lekhal et al., 2015]]）**
->   针对男生在行为规范与持续[[Conatus|努力]]上的劣势，开展[[Self-control|自我控制]]训练与[[Growth|成长]]型思维辅导以缩小性别学业差距。
+>   针对男生在行为规范与持续努力上的劣势，开展[[Self-control|自我控制]]训练与[[Growth|成长]]型思维辅导以缩小性别学业差距。
 
 ---
 
@@ -163,4 +163,4 @@ updated: 2026-08-19
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 提供了十年级科学课堂中女生在长周期成绩、微观任务表现及[[Epistemological Beliefs|认识论信念]]成熟度（能力可塑性与确定知识）上系统性领先的量化实证，并提出了心理性别角色取向的理论解释。
-> - [[Argument_Lekhal_2015_Paideia|Lekhal et al. (2015)]] — 基于大规模挪威中小学样本，论证了[[School Norm Adaptation|学校规范适应]]与动机[[Conatus|努力]]是解释教师评定学业成绩性别差异的核心中介机制。
+> - [[Argument_Lekhal_2015_Paideia|Lekhal et al. (2015)]] — 基于大规模挪威中小学样本，论证了[[School Norm Adaptation|学校规范适应]]与动机努力是解释教师评定学业成绩性别差异的核心中介机制。

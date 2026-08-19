@@ -35,7 +35,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Epoché]]"
-  - "[[Conatus]]"
   - "[[Homework]]"
   - "[[Epistemic Commitments]]"
   - "[[Praxis]]"
@@ -54,14 +53,14 @@ sources:
   - "[[sources/Chinn_2011_EP|Chinn_2011_EP]]"
 status: draft
 created: 2026-08-17
-updated: 2026-08-18
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chinn_2011_EP"
 argument_key: "Argument_Chinn_2011_EP"
 argument_display_title: "Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology"
 argument_kind: "journal-article"
-argument_related_count: 29
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -226,7 +225,7 @@ issuing_organization: ""
 >   包括封闭思想、理智懒惰以及教条主义。
 
 > [!tension] 特质辨析：认识论美德 vs. 认知需求
-> - **认识论美德** 核心驱动力为追求真理与深层理解。表现为具备理智勇气，愿意为澄清事实而长时间[[Conatus|努力]]核查数据。
+> - **认识论美德** 核心驱动力为追求真理与深层理解。表现为具备理智勇气，愿意为澄清事实而长时间努力核查数据。
 > - **认知需求（need for cognition）** 核心驱动力为享受高强度脑力劳动过程。表现为极其享受解数独或填字游戏，但不关心是否得出真理，属纯粹的非认识论倾向。
 
 > [!exegesis] 心理学效用（情境与预测力检验）

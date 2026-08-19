@@ -9,7 +9,7 @@ aliases:
 summary: "学习成就中一种积极但文化变异显著的自我意识情感，西方以骄傲为正面情感，东亚以骄傲为双价情感——兼具正面与负面含义，以谦逊为骄傲的对立面"
 type: concept
 domain: "chinese-philosophy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ tags:
   - region/western
 related_concepts:
   - "[[Humility in Learning]]"
-  - "[[Conatus]]"
   - "[[Western Learner]]"
   - "[[Dialogue in Education]]"
 related_theories:
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-08-20
 ---
 
 # Pride in Learning
@@ -66,7 +65,7 @@ updated: 2026-05-23
 
 ### 西方语境中的骄傲
 
-- 骄傲被视为高度正面的情感，尤其当成功归因于内部因素（能力或[[Conatus|努力]]）时([[Argument_Li_2012_Cambridge|Li, 2012, p.61]])
+- 骄傲被视为高度正面的情感，尤其当成功归因于内部因素（能力或努力）时([[Argument_Li_2012_Cambridge|Li, 2012, p.61]])
 - Li 的模范学习者研究中，53% 的欧裔美国受访者提到骄傲，而中国受访者仅 22%([[Argument_Li_2012_Cambridge|Li, 2012, p.75]])
 - [[Western Learner|西方学习者]]倾向于因自己的成就感到骄傲，并以骄傲激励后续学习([[Argument_Li_2012_Cambridge|Li, 2012, p.63]])
 
@@ -102,7 +101,7 @@ updated: 2026-05-23
 > [!success]
 > 东亚学习者经历骄傲时的实际心理过程可能如下([[Argument_Li_2012_Cambridge|Li, 2012, p.78]])：
 
-> "我做到了！我很高兴自己[[Conatus|努力]]了并且成功了。但要小心，不要太自满；还有更多要达成的。如果我公开表达我的快乐，别人可能会觉得我傲慢。而且公开炫耀骄傲会让没做好的同学不好受。所以我应该保持[[Humility in Learning|谦逊]]——这对我好，对别人也好。"
+> "我做到了！我很高兴自己努力了并且成功了。但要小心，不要太自满；还有更多要达成的。如果我公开表达我的快乐，别人可能会觉得我傲慢。而且公开炫耀骄傲会让没做好的同学不好受。所以我应该保持[[Humility in Learning|谦逊]]——这对我好，对别人也好。"
 
 这一过程体现了东亚学习者的**预防焦点（prevention focus）**——一种自我调节风格，倾向于警惕潜在的错误和过失以避免不良后果，而非追求积极增益的促进焦点（promotion focus）。研究表明中国人比西方人更偏向预防焦点，而预防焦点本身可以带来积极的情感体验——因此骄傲的"负面"一面实际上可能在帮助学习者持续奋斗方面起到积极作用，而非削弱他们([[Argument_Li_2012_Cambridge|Li, 2012, p.78–79]])。
 

@@ -6,7 +6,7 @@ aliases:
 summary: "用于分析高等教育社会空间如何由物质结构、空间想象和社会实践共同制造的框架。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,7 +16,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Analytic Framework]]"
-  - "[[Conatus]]"
   - "[[Relational Space]]"
   - "[[Praxis]]"
   - "[[Ontology]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 # Space-Making in Higher Education
@@ -48,7 +47,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info]
-> 高等教育空间制造（space-making in higher education）是 Simon Marginson（2022d, 2025）在 Lefebvre（1991）和 [[Doreen Massey]]（2005）的基础上提出的[[Analytic Framework|分析框架]]。社会空间不是预先存在的容器，而是由人类行动者通过持续[[Conatus|努力]]构建的、不断运动的关系性产物。Marginson 将高等教育中的[[Relational Space|关系性空间]]制造分析为三个维度的结合：（a）预先给定的历史-物质元素（结构）；（b）空间制造行动者的想象和解释；（c）行动者将愿景付诸物质形式的社会[[Praxis|实践]]([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–4]])。
+> 高等教育空间制造（space-making in higher education）是 Simon Marginson（2022d, 2025）在 Lefebvre（1991）和 [[Doreen Massey]]（2005）的基础上提出的[[Analytic Framework|分析框架]]。社会空间不是预先存在的容器，而是由人类行动者通过持续努力构建的、不断运动的关系性产物。Marginson 将高等教育中的[[Relational Space|关系性空间]]制造分析为三个维度的结合：（a）预先给定的历史-物质元素（结构）；（b）空间制造行动者的想象和解释；（c）行动者将愿景付诸物质形式的社会[[Praxis|实践]]([[Argument_Marginson_2025_ROE|Marginson, 2025, pp. 3–4]])。
 
 > [!quote]
 > "Social space is the outcome of prolonged and often strenuous past and present human effort."([[Argument_Marginson_2025_ROE|Marginson, 2025, p. 3]])

@@ -8,7 +8,7 @@ aliases:
 summary: "尊重的双类型理论，区分基于权利原则的义务性尊重与基于他人品质认可和仰慕的情感性尊重"
 type: concept
 domain: "chinese-philosophy"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ tags:
   - theme/teacher-student-relationship
 related_concepts:
   - "[[Student-Teacher Relationship]]"
-  - "[[Conatus]]"
   - "[[Learning Virtues]]"
 related_theories: []
 related_methods: []
@@ -30,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-08-20
 ---
 
 # Affect-Respect and Ought-Respect
@@ -66,7 +65,7 @@ updated: 2026-05-23
 **与学习的关系** 情感性尊重对学习有重要的积极意义：
 - 它是寻找榜样过程中的关键环节——榜样必然是自我仰慕并渴望效仿的人
 - 每次面对榜样时，自我会体验到情感性尊重这一高度积极的情感，使自我也感到良好
-- 情感性尊重可能产生强大的行为动机，推动自我朝着获得尊重对象所拥有品质的方向[[Conatus|努力]]——Li 将此称为"自我皮格马利翁过程"（self-Pygmalion process），以希腊神话中雕塑变活人的雕刻家命名([[Argument_Li_2012_Cambridge|Li, 2012, p.72]])
+- 情感性尊重可能产生强大的行为动机，推动自我朝着获得尊重对象所拥有品质的方向努力——Li 将此称为"自我皮格马利翁过程"（self-Pygmalion process），以希腊神话中雕塑变活人的雕刻家命名([[Argument_Li_2012_Cambridge|Li, 2012, p.72]])
 
 ---
 
@@ -76,7 +75,7 @@ updated: 2026-05-23
 > Li 对中文尊重概念的研究发现，中国人尊重的对象比西方多出了两个类别：父母/长辈/亲属，以及教师/导师/学者。教师/导师/学者类别对学习的意义尤为重大——它意味着在课堂中就有可供效仿的榜样([[Argument_Li_2012_Cambridge|Li, 2012, p.72–73]])。
 
 Hsueh 等人对中美中小学生尊重教师原因的研究发现：
-- 中国儿童选择最多的是"[[Conatus|努力]]学习"（[[Learning Virtues|学习美德]]，33.4%），选择最少的是"服从"（6%）
+- 中国儿童选择最多的是"努力学习"（[[Learning Virtues|学习美德]]，33.4%），选择最少的是"服从"（6%）
 - 欧裔美国儿童选择最多的是"服从"（37%），选择最少的是"学习美德"（7%）
 
 这表明中国儿童对教师的尊重更多地与自身学习美德的使用相关联，而非对权威的服从([[Argument_Li_2012_Cambridge|Li, 2012, p.73–74]])。

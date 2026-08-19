@@ -9,7 +9,7 @@ aliases:
 summary: "产学合作中最常见的合同类型，企业从内部资金中向大学提供特定研究项目资助，标准条款包括产业方自动获得前景 IP 的非排他免版税内部使用许可以及有时间限制的商业许可谈判选择权"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Background IP]]"
   - "[[Freedom to Operate]]"
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Master Agreement]]"
   - "[[Research Question]]"
   - "[[Academic Engagement Team]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-06-04
+updated: 2026-08-20
 ---
 
 # Sponsored Research Agreement
@@ -71,7 +70,7 @@ updated: 2026-06-04
 
 **背景 IP 的处理**。SRA 中[[Background IP|背景知识产权]]（Background IP, BIP）条款是谈判的焦点。产业方通常希望获得大学控制的 BIP 的免费或低成本访问权以保证[[Freedom to Operate|自由实施权]]（Freedom to Operate, FTO）。大学则倾向于将 BIP 权利与 SRA 解耦。[[Praxis|实践]]中通过时间限制、空间限制（合作首席研究员（Principal Investigator, PI）实验室）、必要性限制和排除已被束缚 IP 的组合策略寻找中间地带（pp.280–281）。
 
-**发表延迟机制**。大学保留随时发表研究结果的权利，但在提交发表前将稿件提供给企业方审查（最好提前 30 天）。企业有 30 天时间识别保密信息和可专利发明。如果发现可专利主题，大学同意尽合理[[Conatus|努力]]提交专利申请，但无义务为配合专利申请而修订或延迟发表（pp.283–284）。
+**发表延迟机制**。大学保留随时发表研究结果的权利，但在提交发表前将稿件提供给企业方审查（最好提前 30 天）。企业有 30 天时间识别保密信息和可专利发明。如果发现可专利主题，大学同意尽合理努力提交专利申请，但无义务为配合专利申请而修订或延迟发表（pp.283–284）。
 
 ## 财务考量
 

@@ -1380,8 +1380,6 @@
     "aliases": [
       "欲力",
       "自我保存的努力",
-      "conatus",
-      "努力",
       "生机"
     ]
   },
@@ -4531,7 +4529,9 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Learned Helplessness.md",
     "aliases": [
       "习得性无助",
-      "习得无助"
+      "习得无助",
+      "学术习得性无助",
+      "academic learned helplessness"
     ]
   },
   {

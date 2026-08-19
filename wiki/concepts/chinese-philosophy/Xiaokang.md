@@ -8,7 +8,7 @@ aliases:
 summary: "儒家政治社会思想中千年之久的理想社会形态，强调每个家庭有充足食物与安稳生活，1982年被中国政府设为经济社会发展目标并实现"
 type: concept
 domain: "chinese-philosophy"
-related_count: 2
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,8 +16,7 @@ tags:
   - theme/confucian-political-thought
   - theme/social-ideal
   - region/china
-related_concepts:
-  - "[[Conatus]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
@@ -27,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-20
 ---
 
 # Xiaokang
@@ -49,7 +48,7 @@ updated: 2026-05-25
 ## 当代政策应用
 
 > [!success]
-> 1982 年，中国政府将小康设为 13 亿人口的经济社会发展目标，并为其赋予了具体的经济指标——人均年收入 ¥800。经过数十年[[Conatus|努力]]，这一目标已"令人惊讶地实现了"([[Argument_Li_2012_Cambridge|Li, 2012, p.338, pp.349-350, note 31]])。
+> 1982 年，中国政府将小康设为 13 亿人口的经济社会发展目标，并为其赋予了具体的经济指标——人均年收入 ¥800。经过数十年努力，这一目标已"令人惊讶地实现了"([[Argument_Li_2012_Cambridge|Li, 2012, p.338, pp.349-350, note 31]])。
 
 > [!tip]-
 > Li 将小康政策的成功作为文化持久性的关键证据：政府提出的目标之所以能够动员全社会协调一致的努力，是因为它"与个体成员长期持有的文化信念和欲望产生了深刻和谐的共鸣"([[Argument_Li_2012_Cambridge|Li, 2012, pp.338-339]])。政策不是凭空创造了一个新目标——它只是用现代国家的政策工具，重新激活了植根于民间几千年的文化理想。

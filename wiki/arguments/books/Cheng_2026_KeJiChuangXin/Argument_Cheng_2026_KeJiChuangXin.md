@@ -42,7 +42,6 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Simplicity of Knowledge]]"
   - "[[Technology Transfer Office]]"
   - "[[Growth]]"
   - "[[Megascience Installations]]"
@@ -75,7 +74,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-03
-updated: 2026-06-08
+updated: 2026-08-20
 year: 2026
 doi: ""
 citation_aliases:
@@ -420,7 +419,7 @@ citation_aliases:
 > [!info] 人才培养：企业需求导向
 > 韩国高等教育毕业生比例在OECD成员国中位居首位。2010年启动"未来基础科学核心领军人才计划"培养硕博人才。近年来在高校推行AI、区块链、大数据等前沿技术实习项目，引入AR/VR沉浸式教学培养ICT融合型人才(p.60)。
 >
-> 特别注重以企业需求为导向：教育部自2022年起主导"半导体人才培养合作协议"，推动三星电子、[[Simplicity of Knowledge|SK]]海力士等龙头企业开展跨机构联合培养——企业提供紧缺人才标准，政府和科研机构协同引进专家、开发定制化课程。
+> 特别注重以企业需求为导向：教育部自2022年起主导"半导体人才培养合作协议"，推动三星电子、SK海力士等龙头企业开展跨机构联合培养——企业提供紧缺人才标准，政府和科研机构协同引进专家、开发定制化课程。
 
 > [!example] 验证：显示技术的全面领先
 > 韩国OLED产业连续17年保持全球市场占有率第一，市场份额87.5%。在智能手机、平板电脑、笔记本电脑、电视机和显示器五大高端OLED产品类别中，韩国平均市场份额达91.7%(pp.60–61)。

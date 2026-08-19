@@ -8,7 +8,7 @@ aliases:
 summary: "东亚文化学习过程模型，以诚心、勤奋、刻苦、恒心、专心、尊师和谦虚等学习美德组织学习行为，目标是通过美德实践实现自我完善"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Chinese Learner]]"
   - "[[Western Learner]]"
-  - "[[Conatus]]"
   - "[[Pride in Learning]]"
   - "[[Sage]]"
   - "[[Dialogue in Education]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-20
 ---
 
 # Virtue-Oriented Learning Process
@@ -139,7 +138,7 @@ Li 以西方管弦乐团类比说明这种文化契约：指挥与乐手之间�
 - 中国学习者并非不知道个体天赋差异的存在，也并非不在意这些差异——他们在意，尤其当需要了解自己在高天赋群体中的学习定位时
 - 但他们不相信天赋不足就不能学有所成。两个核心信念："勤能补拙"和"笨鸟先飞"
 - 在 Li 的[[Ideal Learner|理想学习者]]研究中，当被问及理想学习者在不够聪明时会如何学习时，受访者描述他们会加倍、三倍甚至百倍增加勤奋——并对此表示尊重和钦佩
-- 历史上许多残疾或身体障碍者通过学习美德取得成就的榜样被反复讲述，与有天赋但不[[Conatus|努力]]的案例形成对比
+- 历史上许多残疾或身体障碍者通过学习美德取得成就的榜样被反复讲述，与有天赋但不努力的案例形成对比
 
 #### 2.3 精 — 精通／精深
 

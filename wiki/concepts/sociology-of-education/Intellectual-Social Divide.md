@@ -7,7 +7,7 @@ aliases:
 summary: "西方学校文化中的深层假设，认为理智追求与社交能力相互排斥，是 nerd 同伴文化的重要文化根源之一"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Nerd]]"
   - "[[Hypothesis]]"
-  - "[[Conatus]]"
   - "[[Academic Engagement]]"
   - "[[Zero-Sum Competition]]"
   - "[[Tracking]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-08-20
 ---
 
 # Intellectual-Social Divide
@@ -47,7 +46,7 @@ updated: 2026-05-24
 ## 定义
 
 > [!info]
-> 知性-社交二分（intellectual-social divide）是 Li (2012) 在分析西方 [[Nerd]] 同伴文化时识别的四重文化根源之一。这一[[Hypothesis|假设]]的核心信念是：**理智追求与社交能力是相互排斥的**——如果一个人对学术学习有兴趣并投入[[Conatus|努力]]，那么他一定缺乏社交能力；反之，社交能力强的人不会在学术上投入过多([[Argument_Li_2012_Cambridge|Li, 2012, pp.91–92, 99]])。
+> 知性-社交二分（intellectual-social divide）是 Li (2012) 在分析西方 [[Nerd]] 同伴文化时识别的四重文化根源之一。这一[[Hypothesis|假设]]的核心信念是：**理智追求与社交能力是相互排斥的**——如果一个人对学术学习有兴趣并投入努力，那么他一定缺乏社交能力；反之，社交能力强的人不会在学术上投入过多([[Argument_Li_2012_Cambridge|Li, 2012, pp.91–92, 99]])。
 
 这一假设的运作逻辑是一个隐含的三段论：
 1. 一个人的时间和精力是有限的（零和前提）
@@ -113,7 +112,7 @@ updated: 2026-05-24
 - 高[[Academic Achievement|学业成就]]者被普遍**尊重和仰慕**，而非被视为社交缺陷者——Li 的研究中 87% 的受访者表达了尊重和仰慕，42% 承认高成就者为榜样并渴望与之交友([[Argument_Li_2012_Cambridge|Li, 2012, p.102]])
 - [[Three Excellences|三好生]]制度将**道德品行、学业成就、文艺体育**三者统一评价——制度本身拒绝将知性与社交/身体发展对立
 - 同学概念以"共同学习"而非"平等地位"为核心——同伴是**学习的朋友**，不是竞争者
-- 可变自我观意味着：一个人的知性能力和社交能力都是可以通过[[Conatus|努力]]**同时发展**的
+- 可变自我观意味着：一个人的知性能力和社交能力都是可以通过努力**同时发展**的
 
 ---
 

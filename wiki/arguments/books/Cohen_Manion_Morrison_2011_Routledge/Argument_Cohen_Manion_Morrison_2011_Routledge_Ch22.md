@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 46
+argument_related_count: 45
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Internal Consistency]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Data Reduction and Data Display]]"
-  - "[[Conatus]]"
   - "[[Falsification]]"
   - "[[Questionnaire]]"
   - "[[Growth]]"
@@ -84,7 +83,7 @@ related_persons:
   - "[[Rom Harré]]"
 status: draft
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-08-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22
 
@@ -222,7 +221,7 @@ Kitwood（1977）发展的[[Experience Sampling Method|经验取样法]]（[[Exp
 > 参与者从中选择 10 个最关心的话题，访谈前自行回忆具体情境，然后进行录音访谈。
 
 > [!claim] 经验取样法的设计原理
-> 因为这种方法**避免审问式提问（interrogation）**，浮现的材料比从紧密结构化访谈中获得的材料更少组织化，但恰恰因此更接近参与者真实的经验结构。成功处理个体陈述要求研究者**极其熟悉访谈内容**，并朝着逐步浮现的尝试性解释图式[[Conatus|努力]]，在研究进行中不断修改、确认或[[Falsification|证伪]]。这是一个归纳的、迭代的过程（p.447）。
+> 因为这种方法**避免审问式提问（interrogation）**，浮现的材料比从紧密结构化访谈中获得的材料更少组织化，但恰恰因此更接近参与者真实的经验结构。成功处理个体陈述要求研究者**极其熟悉访谈内容**，并朝着逐步浮现的尝试性解释图式努力，在研究进行中不断修改、确认或[[Falsification|证伪]]。这是一个归纳的、迭代的过程（p.447）。
 
 ---
 
@@ -547,7 +546,7 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 > *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to achieve them.*
 
 > [!citation-card]- Kitwood 论经验取样的[[Epistemology|认识论]]立场
-> 因为[[Experience Sampling Method|经验取样法]]避免审问式提问，浮现的材料比从紧密结构化访谈中获得的材料更少组织化。因此，成功处理个体陈述要求研究者极其熟悉访谈内容，并朝着逐步浮现的尝试性解释图式[[Conatus|努力]]，在研究进行中不断修改、确认或[[Falsification|证伪]]。（第22章, p.447）
+> 因为[[Experience Sampling Method|经验取样法]]避免审问式提问，浮现的材料比从紧密结构化访谈中获得的材料更少组织化。因此，成功处理个体陈述要求研究者极其熟悉访谈内容，并朝着逐步浮现的尝试性解释图式努力，在研究进行中不断修改、确认或[[Falsification|证伪]]。（第22章, p.447）
 >
 > *Because the [[Experience-Sampling Method]] avoids interrogation, the material which emerges is less organized than that obtained from a tightly structured interview. Successful handling of individual [[Accounts]] therefore requires the researcher to know the interview content extremely well and to work toward the gradual [[Emergence]] of tentative interpretive schemata.*
 

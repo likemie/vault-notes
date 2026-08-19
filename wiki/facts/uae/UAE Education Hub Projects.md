@@ -10,7 +10,7 @@ subtype: policy
 region: uae
 fact_region: "uae"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Soft Power]]"
-  - "[[Conatus]]"
   - "[[Cultural Diplomacy]]"
   - "[[Knowledge Production]]"
   - "[[International Education Hubs]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-08-20
 ---
 
 # UAE Education Hub Projects
@@ -71,7 +70,7 @@ updated: 2026-05-19
 - **阿布扎比** 以国家石油财富资助高端外国大学和文化机构——NYU Abu Dhabi、索邦大学阿布扎比、卢浮宫阿布扎比——通过**关联全球高雅文化**来提升国家形象和[[Soft Power|软实力]]
 - **迪拜** 通过创建专门的**高等教育经济区**（模仿其金融自由区的成功模式），吸引国际分校形成产业集群，将高等教育打造为可直接盈利的出口产业，同时服务于日益增长的 expat 人口的教育需求
 
-核心官方话语框架来自阿联酋外交部："阿联酋建于开国者谢赫扎耶德关于宽容、和平和稳定的基本价值之上。他的指导策略是向所有文化和人民展示友谊，推广温和伊斯兰教，并为与所有国家的互利合作而[[Conatus|努力]]"（MoFAIC, 2020, cited in p.208）。
+核心官方话语框架来自阿联酋外交部："阿联酋建于开国者谢赫扎耶德关于宽容、和平和稳定的基本价值之上。他的指导策略是向所有文化和人民展示友谊，推广温和伊斯兰教，并为与所有国家的互利合作而努力"（MoFAIC, 2020, cited in p.208）。
 
 ---
 

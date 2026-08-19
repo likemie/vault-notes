@@ -7,7 +7,7 @@ aliases:
 summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋"
 type: concept
 domain: "chinese-philosophy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Cognitive Source]]"
-  - "[[Conatus]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
   - "[[Document]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-08-20
 ---
 
 # Confucian Tutoring Style
@@ -75,7 +74,7 @@ updated: 2026-05-24
 4. 儿童通过掌握技术克服了恐惧
 5. 但掌握只有通过大量练习才有可能
 6. 练习越多，学得越好
-7. [[Conatus|努力]]学习是必要的
+7. 努力学习是必要的
 8. 儿童不能在任何学习中懒惰
 
 > [!quote]

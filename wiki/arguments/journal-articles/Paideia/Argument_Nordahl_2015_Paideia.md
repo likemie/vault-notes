@@ -9,7 +9,7 @@ title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Homework]]"
   - "[[Growth]]"
@@ -51,7 +50,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-21'
-updated: '2026-06-08'
+updated: 2026-08-20
 year: 2015
 doi: ""
 citation_aliases:
@@ -92,7 +91,7 @@ citation_aliases:
 > 2. 学习具有累积性，前面没学会，后面会越来越难补，因此“早期没有学好的损失”不是局部损失，而会沿着整条学习链向后扩散(p.62)。
 > 3. [[PISA]] 这类国际比较被拿来说明，斯堪的纳维亚学校并不能因为整体看起来“还不错”就停止追问改进空间，因为和领先地区相比，学习结果仍有明显差距(pp.62–63)。
 >
-> > 一个很好懂的例子：文中把学习比作爬长梯子。如果低年级的几个梯级断了，后面再[[Conatus|努力]]也会越来越难往上爬。比如阅读基础一直没打稳，数学应用题、科学阅读、历史文本理解都会一起受影响。
+> > 一个很好懂的例子：文中把学习比作爬长梯子。如果低年级的几个梯级断了，后面再努力也会越来越难往上爬。比如阅读基础一直没打稳，数学应用题、科学阅读、历史文本理解都会一起受影响。
 >
 > 这一层推出的中间结论是：**学校改进不是“想不想改”的问题，而是“必须找到更有效改法”的问题。**
 >

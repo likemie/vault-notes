@@ -11,7 +11,7 @@ aliases:
 summary: "Damon and Hart 提出的 I-Self 三个构成维度，Li 以此解释文化学习模型在全球化中为何通过身份认同得以持久"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Growth]]"
   - "[[Pride in Learning]]"
-  - "[[Conatus]]"
   - "[[Learning Virtues]]"
   - "[[Causality]]"
 related_theories:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-20
 ---
 
 # Self-Continuity, Self-Distinctness, and Self-Agency
@@ -72,7 +71,7 @@ updated: 2026-05-25
 [[Argument_Li_2012_Cambridge|Li (2012, pp.337-340)]]将这三个维度用于解释文化学习模型在全球化中为何持久：
 
 - 文化通过自我连续性保持代际传递：移民家庭主动向子女教授母文化价值观，因为失去连续性会导致严重的心理后果（如 Native American 保留地儿童面临的身份危机）
-- 文化通过自我独特性维持群体边界：即使在同一国籍和共同语言下，各文化群体仍然[[Conatus|努力]]保留自身的独特文化遗产，这解释了为什么 bicultural 存在是常态而非例外
+- 文化通过自我独特性维持群体边界：即使在同一国籍和共同语言下，各文化群体仍然努力保留自身的独特文化遗产，这解释了为什么 bicultural 存在是常态而非例外
 - 文化通过自我能动性延续优势领域：一种文化公认的卓越领域（如东亚的武术电影、数理成就）会通过儿童的社会化得到系统传承
 
 ---

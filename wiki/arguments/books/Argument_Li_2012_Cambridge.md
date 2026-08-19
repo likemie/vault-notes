@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 139
+argument_related_count: 140
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -45,12 +45,13 @@ related_concepts:
   - "[[Enculturation]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Epistemology]]"
+  - "[[Epistemic Stances]]"
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Growth]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
+  - "[[Conatus]]"
   - "[[Rationalism in International Relations]]"
   - "[[Metacognition]]"
   - "[[Causality]]"
@@ -173,7 +174,7 @@ sources:
 part_of: []
 status: draft
 created: 2026-05-21
-updated: 2026-07-13
+updated: 2026-08-20
 year: 2012
 doi: ""
 citation_aliases:
@@ -292,7 +293,7 @@ Li 通过两个故事来阐明研究者的[[Epistemic Stances|认识论立场]]�
 > [!example] 布莱希特与梅兰芳：把经验变成理论
 > Li 引用一位中国文学批评家的观察：1935 年梅兰芳在莫斯科演出京剧，德国剧作家布莱希特观看后从中"发现"了"间离效果"（alienation effect）这一戏剧理论。批评家感叹："中国人有丰富的经验和伟大的艺术，但不善于将经验和艺术形式转化为理论。"结果是中国人"不得不依赖一个西方人来帮助'提升'他们的艺术形式"。
 
-这个类比直接对应本书的任务：**像布莱希特那样，在理论层面理解活的文化经验**。中国学习传统有丰富的日常[[Praxis|实践]]（父母的教导、教室的标语、[[Conatus|努力]]被表扬的惯例），但缺乏理论化的提炼。Li 的学术工作就是要做这种提炼。
+这个类比直接对应本书的任务：**像布莱希特那样，在理论层面理解活的文化经验**。中国学习传统有丰富的日常[[Praxis|实践]]（父母的教导、教室的标语、努力被表扬的惯例），但缺乏理论化的提炼。Li 的学术工作就是要做这种提炼。
 
 > [!abstract] 小结：前言的三层铺垫
 > 1. **概念工具** 好學心——一个绕过翻译陷阱的中国本土概念，成为全书的核心分析工具
@@ -507,7 +508,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 
 > [!tip]- [[Bertrand Russell|罗素]]的评价
 > Li 引用罗素（Russell）的话来描述这种态度的两个特质(p.33)：
-> 1. **儿童般的天真好奇** "富有想象力的、生机勃勃的、充满冒险的喜悦"——他们对一切感兴趣：星星、风、海龟、豆子、神、道德
+> 1. **儿童般的天真好奇** "富有想象力的、[[Conatus|生机]]勃勃的、充满冒险的喜悦"——他们对一切感兴趣：星星、风、海龟、豆子、神、道德
 > 2. **静观的科学精神** 他们对世界的思考是"冷静的"（serene），即使以今天的标准看也展现出真正的科学精神——提出假说、相互辩论、有人甚至检验假说
 
 除了认识世界之外，Li 也指出西方传统中另一条清晰的线索：**掌握和利用世界**来为人类需要服务(pp.33-34)。科学知识被用来消除疾病、提高健康、减少饥饿、提高效率、创造财富。但最近两个世纪人类对自然的"前所未有的、无情的"开发，也创造了严重的新问题——核武器、工业污染——这种加速破坏的趋势使得"地球资源将很快耗尽，真正的人造灾难可能随之而来"(p.34)。

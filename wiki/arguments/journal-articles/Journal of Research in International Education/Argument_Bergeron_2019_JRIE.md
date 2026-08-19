@@ -37,7 +37,6 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[IB Learner Profile]]"
   - "[[Growth]]"
-  - "[[Conatus]]"
   - "[[Formative Assessment]]"
   - "[[Homework]]"
 related_theories:
@@ -60,14 +59,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bergeron_2019_JRIE"
 argument_key: "Argument_Bergeron_2019_JRIE"
 argument_display_title: "Investigating the perspective of Theory of Knowledge teachers in International Baccalaureate World Schools"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -206,7 +205,7 @@ issuing_organization: ""
 > 尽管理念上高度认同，但 TOK 作为一门非标准化的“认识论”核心课程，在传统的排课体系和量化评估要求下遭遇了多重结构性阻力。
 
 > [!warning] 现实困境剖析
-> - **最消耗精力的环节：评估模糊与高耗能** 在备课、上课、反馈等环节中，“评估学生的学习”被教师列为最费力气的工作（[[Conatus|努力]]度评分高达 7.47/10），远超实施教学（6.17/10）。因为 TOK 追求多视角探索，往往“没有唯一正确答案，但学生又迫切想要一个具体的分数”。尽管 IB 的《TOK 指南》花了 9 页详细说明评估量规，但定性数据显示“官方提供的支持与实操需求之间存在断层”。（p. 180-181）
+> - **最消耗精力的环节：评估模糊与高耗能** 在备课、上课、反馈等环节中，“评估学生的学习”被教师列为最费力气的工作（努力度评分高达 7.47/10），远超实施教学（6.17/10）。因为 TOK 追求多视角探索，往往“没有唯一正确答案，但学生又迫切想要一个具体的分数”。尽管 IB 的《TOK 指南》花了 9 页详细说明评估量规，但定性数据显示“官方提供的支持与实操需求之间存在断层”。（p. 180-181）
 > - **行政排课的“附加物”心态（Add-on mentality）** 与其他在常规课表内的核心科目（按1-7分计分）不同，有些学校将 TOK 安排在放学后（like an extracurricular activity）。这种课表安排隐性地向师生传递了“TOK 在学术重要性下次于常规科目”的负面信息，削弱了课程的合法性。（p. 182）
 > - **大班额的桎梏** 在过大班级规模教学中，教师极难与学生建立“解剖知识”所需的深层反思关系，也很难高频地进行有效的[[Formative Assessment|形成性评价]]。同上
 > - **跨学科备课资质焦虑（Teacher Background）** 许多 TOK 教师原本专攻某一特定学科，教授涵盖多个“知识领域”的课程让他们感到专业知识不足（underprepared），不得不耗费大量额外时间自学其他学科内容。（p. 181-182）
@@ -242,7 +241,7 @@ issuing_organization: ""
 > *"I think the TOK also develops the pedagogy of teaching. I know how much I have grown when it comes to the methods that I use during classes... I discovered that they are thinking routines, so a structured way of inquiry."*
 
 > [!voice] 关于行政排课的边缘化
-> “但这也和一些小事有关，比如把它排到早上并调整课表，这样我就能在 10 点到 11 点半上课，这是上 TOK 的完美时间。但我们需要非常[[Conatus|努力]]地争取（fight really hard）才能把它排在白天……” (p. 181)
+> “但这也和一些小事有关，比如把它排到早上并调整课表，这样我就能在 10 点到 11 点半上课，这是上 TOK 的完美时间。但我们需要非常努力地争取（fight really hard）才能把它排在白天……” (p. 181)
 > 
 > *"But also it’s connected with small things, like moving it into the morning and the schedule... But we needed to fight really hard to have it somewhere during the day..."*
 

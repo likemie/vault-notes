@@ -7,7 +7,7 @@ aliases:
 summary: "跨国学习比较中的概念，指美国学生倾向以能力解释成就而东亚学生倾向以努力解释成就的系统性文化差异"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ tags:
 - theme/attribution
 related_concepts:
   - "[[Academic Achievement]]"
-  - "[[Conatus]]"
   - "[[International Education]]"
   - "[[Questionnaire]]"
   - "[[Western Learner]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: '2026-05-23'
+updated: 2026-08-20
 ---
 
 # Learning Gap
@@ -51,7 +50,7 @@ updated: '2026-05-23'
 ## 定义
 
 > [!info]
-> "学习差距"（learning gap）是 [[Stevenson and Stigler|Harold Stevenson]] 和 James Stigler 在 1992 年同名著作中提出的概念，指美国（以欧裔美国人为主）与东亚（日本、台湾、中国）在解释儿童[[Academic Achievement|学业成就]]时的根本归因差异：美国儿童、家长和教师以**能力（ability）**解释成就，而东亚对应群体以**[[Conatus|努力]]（effort）**解释成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
+> "学习差距"（learning gap）是 [[Stevenson and Stigler|Harold Stevenson]] 和 James Stigler 在 1992 年同名著作中提出的概念，指美国（以欧裔美国人为主）与东亚（日本、台湾、中国）在解释儿童[[Academic Achievement|学业成就]]时的根本归因差异：美国儿童、家长和教师以**能力（ability）**解释成就，而东亚对应群体以**努力（effort）**解释成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-79]])。
 
 ---
 
@@ -73,7 +72,7 @@ updated: '2026-05-23'
 
 ### 归因差异
 - 美国学生、家长和教师以**能力观念**解释儿童的[[Academic Achievement|学业成就]]——与 [[Western Learner|西方学习者]]模型 中"区分最有能力者与普通者"的核心倾向一致([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])
-- 东亚学生、家长和教师将成就归因于**[[Conatus|努力]]**——与 [[Chinese Learner|中国学习者]]模型 中 [[Learning Virtues|学习美德]]（勤奋、刻苦、恒心）构成的文化能动性系统一致([[Argument_Li_2012_Cambridge|Li, 2012, pp.49-52]])
+- 东亚学生、家长和教师将成就归因于**努力**——与 [[Chinese Learner|中国学习者]]模型 中 [[Learning Virtues|学习美德]]（勤奋、刻苦、恒心）构成的文化能动性系统一致([[Argument_Li_2012_Cambridge|Li, 2012, pp.49-52]])
 
 ### 学校组织差异
 - 美国儿童在校天数更少，每日在校时间更短
@@ -93,7 +92,7 @@ updated: '2026-05-23'
 
 [[Stevenson and Stigler]] 的研究激发了更多比较研究：
 
-- **Seishin and Gambaru** 美国研究者发现日本学习者使用文化特定的概念来描述能力与[[Conatus|努力]]，如 seishin（帮助人们应对任务的心理态度）和 gambaru（"对坚持的内在益处的积极取向"）([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
+- **Seishin and Gambaru** 美国研究者发现日本学习者使用文化特定的概念来描述能力与努力，如 seishin（帮助人们应对任务的心理态度）和 gambaru（"对坚持的内在益处的积极取向"）([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
 - **努力作为稳定因素** 香港研究者发现，在西方动机[[Document|文献]]中被定义为"内部但不稳定"因素的努力，对[[Chinese Learner|中国学习者]]而言是跨时间和跨情境的稳定因素——中国学生相信他们需要对所有学习任务始终付出努力([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])
 - **日本教学优势** Stigler 领导的视频研究比较了美、日、德三国课堂教学，结论是日本教学法确实优于西方对应方([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
 - **家庭因素** 研究显示亚裔父母表达了比欧裔美国父母更高的学术期望（通常要求全 A），为子女报名更多的课后和周末补习项目，并更密切地监控家庭学习([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])
@@ -112,7 +111,7 @@ Hess and Azuma 发现美国教师偏好高效、快节奏的教学风格，而�
 ## 理论基础
 
 > [!tip]-
-> - [[Chinese Learner]] — [[Argument_Li_2012_Cambridge|Li (2012)]] 将学习差距研究作为中国学习者[[Cultural Models|文化模型]]的重要实证基础之一，特别是[[Conatus|努力]]归因与 [[Learning Virtues|学习美德]]（勤奋、刻苦、恒心）之间的文化连续性
+> - [[Chinese Learner]] — [[Argument_Li_2012_Cambridge|Li (2012)]] 将学习差距研究作为中国学习者[[Cultural Models|文化模型]]的重要实证基础之一，特别是努力归因与 [[Learning Virtues|学习美德]]（勤奋、刻苦、恒心）之间的文化连续性
 > - [[Western Learner]] — 能力归因与西方模型中"区分最有能力者与普通者"的倾向([[Argument_Li_2012_Cambridge|Li, 2012, pp.34-35]])一脉相承
 > - [[Confucian Learning Tradition]] — 东亚的努力归因可追溯至儒家传统中"人人皆可为尧舜"的平等主义——天赋差异存在，但不决定学习结果([[Argument_Li_2012_Cambridge|Li, 2012, pp.49-52]])
 
@@ -121,7 +120,7 @@ Hess and Azuma 发现美国教师偏好高效、快节奏的教学风格，而�
 ## 争议与批评
 
 > [!warning]
-> - 能力 vs. [[Conatus|努力]]的二分法可能过度简化——两种文化中都存在两种归因模式，差异在于程度和默认偏好的不同
+> - 能力 vs. 努力的二分法可能过度简化——两种文化中都存在两种归因模式，差异在于程度和默认偏好的不同
 > - 该概念主要基于 1980-90 年代的跨国比较数据，近几十年来美国教育改革（如 [[Entity vs Incremental Intelligence|growth mindset]] 运动）和东亚教育变革可能已改变归因模式
 
 ---

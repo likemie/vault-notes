@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27"
 argument_display_title: "Research Methods in Education · Ch27"
 argument_kind: "book-chapter"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Research Question]]"
   - "[[Covert Research]]"
-  - "[[Conatus]]"
   - "[[Research Ethics]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Anonymity in Research]]"
@@ -55,7 +54,9 @@ related_methods:
   - "[[Case Study]]"
   - "[[Random Sampling]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Content Analysis]]"
   - "[[Grounded Theory]]"
+  - "[[Constant Comparison]]"
   - "[[Photo-elicitation]]"
   - "[[Field Notes]]"
   - "[[Convenience Sampling]]"
@@ -69,7 +70,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-08-05
-updated: 2026-08-15
+updated: 2026-08-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27
 
@@ -119,7 +120,7 @@ updated: 2026-08-15
 > 1. **确定[[Research Question|研究问题]]与资料来源** 确定要研究什么问题、由谁制作或提供图像，涉及研究者、受访者、既有档案或再现。
 > 2. **选择图像** 由研究者或参与者选取；无现成图像时指定选择标准（目的抽样、分层[[Random Sampling|随机抽样]]、代表性抽样等），并说明与辩护选择。
 > 3. **收集数据** 按媒体类型执行，照片拍摄或收集、录像记录、器物观察；考虑自然／摆拍、固定／移动镜头、位置与照明。
-> 4. **处理解读** [[Coding in Qualitative Research|编码]]、内容分析、[[Grounded Theory|扎根理论]]式的图像与编码不断比较、反复观看并允许第三方核查；纳入[[Triangulation|三角互证]]。
+> 4. **处理解读** [[Coding in Qualitative Research|编码]]、[[Content Analysis|内容分析]]、[[Grounded Theory|扎根理论]]式的图像与编码[[Constant Comparison|不断比较]]、反复观看并允许第三方核查；纳入[[Triangulation|三角互证]]。
 > 5. **伦理处理** 获得知情同意（含拍摄与复制许可）、匿名化或遮蔽识别特征，对[[Covert Research|隐蔽研究]]与公开场所拍摄保持审慎。
 
 ---
@@ -290,7 +291,7 @@ updated: 2026-08-15
 > - 有些学校不在乎教学用房，另一些则煞费苦心营造激发性的环境
 > - 有些学校经济拮据，另一些则富裕
 > - 有些教室强调从教师那里学习，另一些则强调从环境学习
-> - 有些教室不在乎学生的情绪，另一些则[[Conatus|努力]]让环境成为快乐的地方
+> - 有些教室不在乎学生的情绪，另一些则努力让环境成为快乐的地方
 > - 有些教室很旧、令人反感，另一些则崭新、引人入胜
 
 > [!case] 校长办公室与教师格子间

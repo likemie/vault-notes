@@ -9,10 +9,10 @@ aliases:
 summary: "大学研究成果通过知识产权许可、初创企业或企业合作转化为商业应用的过程，以 Bayh-Dole Act 为核心法律框架，涉及 IP 合同机制、权利转让谱系和商业化路径选择等制度安排"
 type: concept
 domain: "higher-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - "theme/technology-transfer"
   - "level/higher-education"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Background IP]]"
   - "[[Freedom to Operate]]"
   - "[[Sponsored Research Agreement]]"
-  - "[[Conatus]]"
   - "[[Joint Ownership of IP]]"
   - "[[Total Factor Productivity]]"
   - "[[Absorptive Capacity]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-06-05
+updated: 2026-08-20
 ---
 
 # Technology Transfer
@@ -199,7 +198,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 1. 大学保留随时发表研究结果的权利
 2. 提交发表前将稿件提供给企业方审查，最好提前 30 天
 3. 企业有 30 天时间识别保密信息和可专利发明
-4. 如发现可专利主题，大学同意尽合理[[Conatus|努力]]提交专利申请
+4. 如发现可专利主题，大学同意尽合理努力提交专利申请
 5. 但大学无义务为配合专利申请而修订或延迟发表
 
 这一机制在保障学术发表自由的同时为企业提供了有限的窗口来保护可专利发明。研究生和博士后尤其不应因产学合作而被限制其及时发表论文的能力（p.285）。

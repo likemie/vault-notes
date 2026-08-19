@@ -8,10 +8,10 @@ aliases:
 summary: "由 King 和 Kitchener 提出的认知发展与信念辩护模型，描述个体面对劣构问题时从前反思阶段（阶段1-3）、准反思阶段（阶段4-5）向反思阶段（阶段6-7）演进的认识论认知路径。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - "theme/epistemological-beliefs"
   - "level/developmental"
@@ -40,7 +40,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Reflective Judgment Model

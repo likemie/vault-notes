@@ -8,7 +8,7 @@ aliases:
 summary: "Li (2012) 通过母-子对话研究识别的两种文化社会化模式，欧裔母亲侧重心智-智力框架与兴趣-骄傲情感，台湾母亲侧重美德-品格框架与吃苦-坚持情感"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Learning Virtues]]"
-  - "[[Conatus]]"
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
   - "[[Heart and Mind for Wanting to Learn]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-20
 ---
 
 # Parental Cognitive and Affective Socialization
@@ -63,7 +62,7 @@ updated: 2026-05-25
 
 **台湾母亲的认知社会化**聚焦于美德维度([[Argument_Li_2012_Cambridge|Li, 2012, p.259–265]])：
 - **美德来源** 母亲从"[[Learning Virtues|学习美德]]"这一文化资源中汲取合法性，引导孩子将学习成果与勤奋、坚持、专注、认真等美德关联起来
-- **美德效力归因** 母亲构建的因果逻辑以持续练习和[[Conatus|努力]]为核心环节。例如，孩子怕水但学会了游泳 → 有人教导技术 → 但掌握需要大量练习 → 练习越多进步越大 → 辛苦是学习的必然代价 → 任何事都不能懒惰
+- **美德效力归因** 母亲构建的因果逻辑以持续练习和努力为核心环节。例如，孩子怕水但学会了游泳 → 有人教导技术 → 但掌握需要大量练习 → 练习越多进步越大 → 辛苦是学习的必然代价 → 任何事都不能懒惰
 - **典型话语** "你付出了努力才学会的""你已经练习了又练习""种瓜得瓜，种豆得豆"
 
 > [!abstract]

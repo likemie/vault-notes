@@ -7,7 +7,7 @@ aliases:
 summary: "区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"
-  - "[[Conatus]]"
   - "[[Educative Conceptual Change]]"
   - "[[Constructive Alignment]]"
   - "[[Assessment Backwash]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-08-02'
+updated: 2026-08-20
 ---
 
 # Surface and Deep Learning
@@ -168,7 +167,7 @@ updated: '2026-08-02'
 ### 命题三　目标、评估与互动条件共同决定学生是否有必要深入学习
 
 > [!concept-lens] 情境塑造机制
-> 学生会根据课程实际奖励的行为分配[[Conatus|努力]]；促进深层学习既要提出理解目标，也要让教学活动、评估任务和社会互动持续支持这些目标。
+> 学生会根据课程实际奖励的行为分配努力；促进深层学习既要提出理解目标，也要让教学活动、评估任务和社会互动持续支持这些目标。
 
 > [!claim] Biggs, J.
 > **概念改变需要四项条件** 学习包含信息重组和理解方式的改变，信息增长只是其中一部分。要促成这种[[Educative Conceptual Change|教育性概念改变]]，学生首先要看清目标及其在评估中的体现；其次要感到达到目标确有必要，而这种动机可以由教学产生；再次要能专注于任务，避免在紧迫或设计不当的考试压力下采取防御性应付；最后还要通过同伴与教师的合作和[[Dialogue in Education|对话]]，对理解进行塑造、扩展和深化。四项条件共同把理解目标转化为学生实际开展的活动。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 60–61)]]

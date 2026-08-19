@@ -8,7 +8,7 @@ aliases:
 summary: "Kitwood (1977) 提出的访谈研究中信度与效度的根本矛盾——通过标准化和理性化增强信度的程度越高，访谈的效度就越低，因为访谈中独特的人性元素对其效度是必要的"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,12 +24,11 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Internal Validity]]"
   - "[[Research Purpose]]"
-  - "[[Conatus]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-20
 ---
 # Kitwood's Paradox
 
@@ -67,5 +66,5 @@ updated: 2026-06-24
 ## 争议与批评
 
 > [!tension] 矛盾的普适性争议
-> - **Kitwood 立场** 访谈中[[Reliability|信度]]与效度的矛盾是**内在的**和**不可消除的**——它源于访谈作为人际方法的本质特征。任何试图通过标准化完全解决这一矛盾的[[Conatus|努力]]都会将访谈变成一种劣质的[[Questionnaire|问卷]]。
+> - **Kitwood 立场** 访谈中[[Reliability|信度]]与效度的矛盾是**内在的**和**不可消除的**——它源于访谈作为人际方法的本质特征。任何试图通过标准化完全解决这一矛盾的努力都会将访谈变成一种劣质的[[Questionnaire|问卷]]。
 > - **Silverman (1993) 的反驳** 在访谈中通过高度结构化的格式（相同的格式、措辞序列和问题）可以同时保障信度和效度——开放式问题虽然允许受访者展示独特视角，但不需要牺牲标准化。Silverman 认为这与其说是矛盾，不如说是**设计选择**——研究者可以选择在信度-效度连续统上的位置。

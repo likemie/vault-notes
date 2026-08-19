@@ -8,7 +8,7 @@ aliases:
 summary: "要求受访者在选项之间进行比较并确定优先级的题型，操作在零和模型上——提高一项的排位意味着另一项下降，适用于需要判断相对权重而非绝对取值的场景"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,14 +21,13 @@ related_concepts:
   - "[[Rating Scale]]"
   - "[[Variable]]"
   - "[[Fitness for Purpose]]"
-  - "[[Conatus]]"
   - "[[Praxis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-08-20
 ---
 # Ranking Questions
 
@@ -119,7 +118,7 @@ updated: 2026-07-21
 > [!case] 排序与评分差异的具体案例（Ovadia, 2004, p. 407）（pp. 143–144）
 > 两位受访者对三个学生成功因素的重要性打分（满分 10 分）：
 >
-> **受访者 A** [[Conatus|努力]]学习（9 分）、家庭压力（6 分）、享受学科（5 分）
+> **受访者 A** 努力学习（9 分）、家庭压力（6 分）、享受学科（5 分）
 > **受访者 B** 努力学习（6 分）、家庭压力（4 分）、享受学科（2 分）
 >
 > 排序结果完全相同（努力第一、家庭第二、享受第三），但实际分数差异巨大——受访者 A 认为这些因素远比受访者 B 认为的重要。如果 A 的分数随时间分别下降 2/1/3 分，排序依然不变。**排序对变化不敏感**。

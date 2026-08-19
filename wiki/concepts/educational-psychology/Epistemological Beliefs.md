@@ -3,7 +3,7 @@ title: Epistemological Beliefs
 summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Simplicity of Knowledge]]"
   - "[[Source of Knowledge]]"
   - "[[Justification for Knowing]]"
-  - "[[Conatus]]"
   - "[[Domain Specificity]]"
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
@@ -52,7 +51,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Epistemological Beliefs
@@ -107,7 +106,7 @@ updated: 2026-08-19
 
 > [!claim] Schommer (1990)
 > **独立维度假说与学业预测** 个体的各项认识论[[Hypothesis|假设]]不必是整合在同一阶段的结构，而是可以在某些信念维度上显得成熟，而在其他维度上保持幼稚。这种不均衡分布能够通过量表进行测量。基于此主张，Schommer 提出了包含以下独立维度的测量模型：
-> - **固定能力（fixed ability）** 认为智力是先天固定的，还是可通过[[Conatus|努力]]改变的。
+> - **固定能力（fixed ability）** 认为智力是先天固定的，还是可通过努力改变的。
 > - **快速学习（quick learning）** 认为学习要么立刻发生要么根本不发生，还是渐进过程。
 > - **[[Simplicity of Knowledge|简单知识]]（simple knowledge）** 认为知识是孤立的片段，还是相关的概念网络。
 > - **确定知识（certain knowledge）** 认为知识是绝对不变的，还是暂时的。

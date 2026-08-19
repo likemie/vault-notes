@@ -38,7 +38,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
-  - "[[Conatus]]"
   - "[[Value Neutrality]]"
   - "[[Science and Technology Studies]]"
   - "[[Epistemology]]"
@@ -76,14 +75,14 @@ sources:
   - "[[sources/Zemplen_2007_SciEduc/Zemplen_2007_SciEduc|Zemplen_2007_SciEduc]]"
 status: draft
 created: 2026-07-04
-updated: 2026-07-09
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -296,7 +295,7 @@ issuing_organization: ""
 > - 与之形成对比的是 Gregory & Miller（2001, p.71）的警告：旨在引起对神秘的白大褂男性的敬畏式崇拜的传播方式，不是我们应对 21 世纪挑战所需要的方式（p.178, note 20）。
 
 > [!question] TOK 教师的两难处境
-> 学生能否公开质疑这些观点？如果一些学生有亲戚是科学家，他们对科学家的日常经验与教科书呈现的形象不符，他们该怎么办？TOK 教师是否应该尽一切[[Conatus|努力]]用一种正面的科学形象取代另一种通俗形象，以符合教育的权威修辞？而这一切都要在一门声称培养独立思考的课程中完成？（p.178）
+> 学生能否公开质疑这些观点？如果一些学生有亲戚是科学家，他们对科学家的日常经验与教科书呈现的形象不符，他们该怎么办？TOK 教师是否应该尽一切努力用一种正面的科学形象取代另一种通俗形象，以符合教育的权威修辞？而这一切都要在一门声称培养独立思考的课程中完成？（p.178）
 
 > [!warrant]- 为什么内部批评和外部批评指向同一个结论
 > 教科书层面的问题源于 TOK 课程的深层设计矛盾：

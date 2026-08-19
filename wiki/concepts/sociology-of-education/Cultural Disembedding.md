@@ -6,14 +6,14 @@ aliases:
 summary: "群体或个体在面对主导文化场域（如精英大学或国家学校课程）时，因自身文化语码被边缘化而产生的疏离感与身份断裂"
 type: concept
 domain: "sociology-of-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: '2026-07-23'
+updated: 2026-08-20
 tags:
   - cultural-disembedding
   - higher-education
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Cultural Hierarchy]]"
   - "[[Sense of Shame]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -151,7 +150,7 @@ related_arguments:
 > [!debates] 学术争议与理论交锋
 >
 > > [!axis] 短期情境调和 vs. 长期结构性隔阂
-> > 讨论文化脱嵌是否可以通过个体[[Conatus|努力]]或校园制度支持予以消除。
+> > 讨论文化脱嵌是否可以通过个体努力或校园制度支持予以消除。
 > >
 > > - **微观调适派 (Zheng, 2023)** — 认为在高等教育机构中，通过班集体建设与同伴支持，微观文化脱嵌可以在短时间内得到很大缓解[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, p. 120)]]。
 > > - **宏观批判派 ([[Argument_Yu_2024_CE|Yu & Zhao, 2024]])** — 指出在国家课程与[[Cultural Hierarchy|文化等级]]范畴，只要教科书继续单向度排除少数文化，宏观文化脱嵌就是不可调和的结构性产物[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, p. 71)]]。

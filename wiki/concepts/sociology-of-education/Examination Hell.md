@@ -7,7 +7,7 @@ aliases:
 summary: "描述东亚与部分社会高强度应试选拔的术语。在儒家文化圈中，它是应对亲情道德与公共公平冲突的功能性防腐方案，亦是吸收和转化外来学制的强力重力场"
 type: concept
 domain: "sociology-of-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Confucian Heritage Cultures]]"
   - "[[Shape-Shifting]]"
   - "[[Paradigm]]"
-  - "[[Conatus]]"
   - "[[Self-Cultivation]]"
   - "[[Academic Engagement]]"
   - "[[Academic Achievement]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-07-02
+updated: 2026-08-20
 ---
 
 # Examination Hell
@@ -83,7 +82,7 @@ updated: 2026-07-02
 > - **反主观评估的“防腐剂”角色**
 >   由于社会关系网络（“关系”资本）极易穿透任何涉及主观判断的选拔机制（如推荐信、面试、综合质性评估），此类评估极易导致特权寻租和公平防线的崩溃。因此，排除人情因素的客观纸笔分数成为唯一能抵御裙带关系的“防腐剂”（[[Argument_Li_2012_Cambridge|Li, 2012, p. 76]]）。
 > - **责任的彻底个体化**
->   在纯粹以分数为准的选拔机制中，升学成败的责任被完全转移给学生个体的刻苦与[[Conatus|努力]]。这消解了评估者与家庭之间的道德拉扯——“只有自己考不好，没有关系没托到”。因此，考试地狱虽被谴责，却在社会稳定层面构成了解释儒家道德困境的唯一技术可行方案（[[Argument_Li_2012_Cambridge|Li, 2012, p. 77]]）。
+>   在纯粹以分数为准的选拔机制中，升学成败的责任被完全转移给学生个体的刻苦与努力。这消解了评估者与家庭之间的道德拉扯——“只有自己考不好，没有关系没托到”。因此，考试地狱虽被谴责，却在社会稳定层面构成了解释儒家道德困境的唯一技术可行方案（[[Argument_Li_2012_Cambridge|Li, 2012, p. 77]]）。
 > - **[[Self-Cultivation|修身]]取向的文化动力 (Li 2012 拓展)**
 >   除了资源分配的科学考量，驱使人们甘愿承受考试地狱折磨的深层心理动力是“学习作为[[Self-Cultivation|修身]]”的儒家[[Cultural Models|文化模型]]。学习被视为个体意志锻炼与道德提升的必经途径，而非纯粹的功利晋身工具，这解释了为何移民家庭子女在没有国内考分绑定的西式宽松环境下，依然自发维持着极高强度的备考与[[Academic Engagement|学业投入]]（[[Argument_Li_2012_Cambridge|Li, 2012, p. 78]]）。
 

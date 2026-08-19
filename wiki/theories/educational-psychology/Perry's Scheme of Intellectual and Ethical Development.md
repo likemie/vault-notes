@@ -9,7 +9,7 @@ aliases:
 summary: "William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 33
+theory_related_count: 32
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Subjectivism]]"
   - "[[Hypothesis]]"
-  - "[[Conatus]]"
   - "[[Theoretical Perspective]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -57,7 +56,7 @@ related_persons:
   - "[[Thomas Kuhn]]"
 status: active
 created: 2026-08-13
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
@@ -159,7 +158,7 @@ updated: 2026-08-19
 > ```
 
 > [!exegesis]- 教育情境实例：大学本科生的认识论转变体验
-> 一名大一历史系新生在刚入学时（二元论），期望教授给出关于“一战爆发原因”的标准答案，并[[Conatus|努力]]背诵教材要点；当他发现不同史学流派给出了截然相反的因果解释时（多元论），一度沮丧地认为“历史学不过是个人的主观编造，怎么写都能得分”；到了大三（相对主义），在研讨课的史料研读中，他学会了运用史料批判、交叉互证（Corroboration）和语境化标准来评价不同史学解释的论证效力；在撰写毕业论文时（相对主义内的承诺），他明确采纳了某种特定的[[Theoretical Perspective|理论视角]]来解释历史事件，同时充分声明自己立场的适用边界，并做好了接纳学术批评的准备。
+> 一名大一历史系新生在刚入学时（二元论），期望教授给出关于“一战爆发原因”的标准答案，并努力背诵教材要点；当他发现不同史学流派给出了截然相反的因果解释时（多元论），一度沮丧地认为“历史学不过是个人的主观编造，怎么写都能得分”；到了大三（相对主义），在研讨课的史料研读中，他学会了运用史料批判、交叉互证（Corroboration）和语境化标准来评价不同史学解释的论证效力；在撰写毕业论文时（相对主义内的承诺），他明确采纳了某种特定的[[Theoretical Perspective|理论视角]]来解释历史事件，同时充分声明自己立场的适用边界，并做好了接纳学术批评的准备。
 
 ---
 

@@ -28,7 +28,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[T-Shaped Skills]]"
-  - "[[Conatus]]"
   - "[[Literature Search]]"
   - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
@@ -46,14 +45,14 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: 2026-07-13
+updated: 2026-08-20
 subtype: book-chapter
 publication_type: book
 title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -234,7 +233,7 @@ citation_aliases:
 
 > 一个有 T 型技能的教育研究者，不仅懂得教育实验设计和统计分析（深度），还能理解 AI 工程师在开发自适应学习系统时的技术约束和思维方式（广度）。这样才能在"AI+教育"的交叉领域中有效地充当桥梁角色，既不被工程师视为不懂技术的外行，又不被教育实践者视为只懂算法的技术控。
 
-23. 作者指出，弥合这两个挑战不仅需要大学和企业的[[Conatus|努力]]，也需要政府资助机构的支持。[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）的技术、创新与伙伴关系部门（Technology, Innovation and Partnerships, TIP）首次允许企业作为 NSF 提案的主要受资助方，而不只能作为大学的合作方(p.96)。NSF 的融合加速器项目（Convergence Accelerator）和工程研究愿景联盟（Engineering Research Visioning Alliance, ERVA）也在推动跨学科研究和工程教育方向的重构(pp.96–97)。这些制度安排的意义在于，它们承认了传统"大学做研究→企业做产品"线性分工的失效，转而支持从研究到产品整个链条中的多方协作。
+23. 作者指出，弥合这两个挑战不仅需要大学和企业的努力，也需要政府资助机构的支持。[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）的技术、创新与伙伴关系部门（Technology, Innovation and Partnerships, TIP）首次允许企业作为 NSF 提案的主要受资助方，而不只能作为大学的合作方(p.96)。NSF 的融合加速器项目（Convergence Accelerator）和工程研究愿景联盟（Engineering Research Visioning Alliance, ERVA）也在推动跨学科研究和工程教育方向的重构(pp.96–97)。这些制度安排的意义在于，它们承认了传统"大学做研究→企业做产品"线性分工的失效，转而支持从研究到产品整个链条中的多方协作。
 
 ---
 

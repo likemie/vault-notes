@@ -8,7 +8,7 @@ aliases:
 summary: "围绕商业技术、产业知识和经济情报获取展开的秘密信息攫取活动，用于分析国家与企业之间的竞争性知识争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
 - region/global
 related_concepts:
   - "[[Technology Transfer]]"
-  - "[[Conatus]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Transfer]]"
   - "[[Research Utilization]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 # Economic and Industrial Espionage
@@ -55,7 +54,7 @@ updated: '2026-05-18'
 > - **边界** 与合法的"竞争情报"（competitive intelligence，收集公开可得信息）存在灰色地带；并非所有秘密信息获取都涉及商业秘密盗窃——[[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] 指出斯塔西接收的情报中相当一部分可能是本就公开的信息（p.1061）。
 
 > [!info]
-> Søilen (2016) 区分了两种知识间谍活动：经济间谍（economic espionage）指"政府收集信息、侵占商业机密和窃取知识的[[Conatus|努力]]"；工业间谍（industrial espionage）则无政府参与（Søilen, 2016, p.52; 引自 Partaken, 2022, p.78）。两者共同构成[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer|知识转移]]的关键非法模态。对于无法负担昂贵 R&D 的发展中国家和产业而言，间谍活动提供了获取知识的"捷径"——虽然短期成本效益高，但其本身就是内部和外部冲突的来源([[Argument_Partaken_2022_Springer|Partaken, 2022, p.77, 79]])。
+> Søilen (2016) 区分了两种知识间谍活动：经济间谍（economic espionage）指"政府收集信息、侵占商业机密和窃取知识的努力"；工业间谍（industrial espionage）则无政府参与（Søilen, 2016, p.52; 引自 Partaken, 2022, p.78）。两者共同构成[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer|知识转移]]的关键非法模态。对于无法负担昂贵 R&D 的发展中国家和产业而言，间谍活动提供了获取知识的"捷径"——虽然短期成本效益高，但其本身就是内部和外部冲突的来源([[Argument_Partaken_2022_Springer|Partaken, 2022, p.77, 79]])。
 
 ---
 

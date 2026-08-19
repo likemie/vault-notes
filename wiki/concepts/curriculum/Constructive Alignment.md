@@ -5,7 +5,7 @@ aliases:
 summary: "Biggs 提出的课程系统设计原则，以学生实际开展的学习活动为核心，并用同一组目标动词协调预期学习结果、教学／学习活动与标准参照评估。"
 type: concept
 domain: "curriculum"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Metacognition]]"
   - "[[Homework]]"
-  - "[[Conatus]]"
   - "[[Learning Gap]]"
   - "[[Norm-Referenced Test]]"
   - "[[Operationalization]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-04'
-updated: '2026-08-03'
+updated: 2026-08-20
 ---
 
 # Constructive Alignment
@@ -229,7 +228,7 @@ updated: '2026-08-03'
 ### 命题三　评估与目标对齐时，评估反拨会推动预期学习
 
 > [!concept-lens] 从应试行为到课程机制
-> 学生依据评估分配时间和[[Conatus|努力]]是一种可预期行为。课程设计的关键是让评估所奖励的活动与课程希望学生学习的活动一致。
+> 学生依据评估分配时间和努力是一种可预期行为。课程设计的关键是让评估所奖励的活动与课程希望学生学习的活动一致。
 
 > [!claim] [[Argument_Biggs_1999_HERD|Biggs (1999)]]
 > **评估塑造学生实际经历的课程**　[[Criterion-Referenced Test|标准参照评估]]直接要求学生开展课程目标所规定的活动，学生为完成评估所做的练习便会同时推进课程目标。若课程目标要求分析和应用，考试却奖励事实罗列，学生往往会转向记忆、猜题和[[Surface and Deep Learning|表层学习]]。[[Assessment Backwash|评估反拨]]的方向取决于对齐程度，不能只把应试归咎于学生动机。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 68–70)]]

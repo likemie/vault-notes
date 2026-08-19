@@ -7,9 +7,9 @@ aliases:
 summary: "Weiner (1976) 提出的动机理论，以因果归因解释人们对成就结果的情感和行为反应，包括 locus、stability、control 三个维度"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 5
+theory_related_count: 4
 theory_related_level: 0
-theory_related_stars: ""
+theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
 tags:
   - theme/motivation
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Locus of Control]]"
-  - "[[Conatus]]"
   - "[[Pride in Learning]]"
 related_theories: []
 related_methods: []
@@ -29,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-08-20
 ---
 
 # Attribution Theory
@@ -49,7 +48,7 @@ updated: 2026-05-23
 > 归因理论的三个维度如下([[Argument_Li_2012_Cambridge|Li, 2012, p.61]])：
 
 **1. 来源（locus）**
-原因被个体感知为位于内部（如能力、[[Conatus|努力]]）还是外部（如运气、任务难度）。
+原因被个体感知为位于内部（如能力、努力）还是外部（如运气、任务难度）。
 
 **2. 稳定性（stability）**
 原因在时间上是稳定的（如能力被视为相对固定）还是不稳定的（如努力在不同任务间可能波动）。
@@ -67,7 +66,7 @@ updated: 2026-05-23
 > Weiner 的理论激发了大量研究，记录了与三个归因维度相关的具体情感([[Argument_Li_2012_Cambridge|Li, 2012, p.61]])：
 
 - **意外/惊讶** 当将成功或失败归因于运气时
-- **内疚** 当将失败归因于缺乏[[Conatus|努力]]时
+- **内疚** 当将失败归因于缺乏努力时
 - **感激** 因接受他人帮助而成功时
 - **[[Pride in Learning|骄傲]]** 当将成功归因于内部因素（能力或勤奋）时
 - **羞耻** 当将失败归因于内部因素（如缺乏努力）时

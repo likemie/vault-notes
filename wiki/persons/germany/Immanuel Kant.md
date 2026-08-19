@@ -7,7 +7,7 @@ summary: "德国哲学家，启蒙运动与德国古典哲学的核心人物，�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
-  - "[[Conatus]]"
   - "[[Critical Thinking]]"
   - "[[Revolutionism]]"
   - "[[Realism in International Relations]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-07-09
+updated: 2026-08-20
 ---
 # Immanuel Kant
 
@@ -100,7 +99,7 @@ updated: 2026-07-09
 ### 调和先天论与经验论
 
 > [!tip]-
-> 在西方 2,500 年的心智辩论中，康德占据了独特的调和位置：他既不同意[[Plato|柏拉图]]—[[René Descartes|笛卡尔]]的纯粹先天论（先天知识独立于一切经验），也不同意 Locke—Berkeley—Hume 的纯粹经验论（一切知识来自经验）。他的方案是：知识**始于**经验，但不**完全源于**经验——经验提供感觉材料，心智提供加工这些材料的先天范畴。"没有内容的思想是空洞的，没有概念的直观是盲目的"（待核原文出处）。Li 将这一调和立场置于洛克、[[George Berkeley|贝克莱]]和休谟的经验论挑战之后，视为对"保留人类先天能力"的[[Conatus|努力]]([[Argument_Li_2012_Cambridge|Li, 2012, p.30]])。
+> 在西方 2,500 年的心智辩论中，康德占据了独特的调和位置：他既不同意[[Plato|柏拉图]]—[[René Descartes|笛卡尔]]的纯粹先天论（先天知识独立于一切经验），也不同意 Locke—Berkeley—Hume 的纯粹经验论（一切知识来自经验）。他的方案是：知识**始于**经验，但不**完全源于**经验——经验提供感觉材料，心智提供加工这些材料的先天范畴。"没有内容的思想是空洞的，没有概念的直观是盲目的"（待核原文出处）。Li 将这一调和立场置于洛克、[[George Berkeley|贝克莱]]和休谟的经验论挑战之后，视为对"保留人类先天能力"的努力([[Argument_Li_2012_Cambridge|Li, 2012, p.30]])。
 
 ### 定言律令
 

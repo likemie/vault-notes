@@ -9,7 +9,7 @@ subtype: policy
 region: bolivia
 fact_region: "bolivia"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - region/latin-america
   - level/k12
 related_concepts:
-  - "[[Conatus]]"
   - "[[Floating Signifier]]"
   - "[[Praxis]]"
   - "[[Transfer Translation Transformation]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-06-24
+updated: 2026-08-20
 ---
 
 # Bolivian Education Reform 1994
@@ -70,7 +69,7 @@ updated: 2026-06-24
 > [!timeline] 政策时间线
 > - **20世纪初** 玻利维亚原住民领袖和组织开始进行长期的社会动员，公开争取学校教育中的语言与文化认同权利。
 > - **1994** 玻利维亚政府正式通过《教育改革法》（Ley de Reforma Educativa），启动了原住民语言与文化普遍融入中小学核心课程的全面改革。
-> - **2008** 研究指出根深蒂固的制度性种族主义与语言歧视仍制约着改革的实施成效，但该法案仍被视为反殖民课程改革的最杰出[[Conatus|努力]]。(Luykx & Lopez, 2008, 引自 [[Argument_Beech_2009_CE|Beech, 2009, pp. 359–360]])
+> - **2008** 研究指出根深蒂固的制度性种族主义与语言歧视仍制约着改革的实施成效，但该法案仍被视为反殖民课程改革的最杰出努力。(Luykx & Lopez, 2008, 引自 [[Argument_Beech_2009_CE|Beech, 2009, pp. 359–360]])
 
 ---
 
@@ -85,7 +84,7 @@ updated: 2026-06-24
 ## 效果与评价
 
 > [!finding-cards] 效果与评价
-> - **反殖民教育的最全面尝试** 被学术界评价为迄今为止打破将摧毁原住民身份作为学校核心目标之一的殖民同化工程（文明化工程）的最全面[[Conatus|努力]]。(Luykx & Lopez, 2008, p. 45, 引自 [[Argument_Beech_2009_CE|Beech, 2009, pp. 359–360]])
+> - **反殖民教育的最全面尝试** 被学术界评价为迄今为止打破将摧毁原住民身份作为学校核心目标之一的殖民同化工程（文明化工程）的最全面努力。(Luykx & Lopez, 2008, p. 45, 引自 [[Argument_Beech_2009_CE|Beech, 2009, pp. 359–360]])
 > - **多数群体的少数话语悖论** 同上研究指出，玻利维亚原住民占总人口的 50% 以上（在人口学上属于多数群体）。然而，这场改革却动用了国际上通常用于保护边缘“少数群体”文化认同的“尊重多样性”话语，使其转化为保护占人口一半的多数群体免受少数精英统治阶层压迫的独特地缘斗争。
 
 ---

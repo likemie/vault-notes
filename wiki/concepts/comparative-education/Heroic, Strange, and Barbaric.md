@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2023）提出的比较教育批判工具词汇，用以打破精致中立的专业相对主义滤镜，直面学校系统和教育政策背后的国家暴力与人道后果"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,6 @@ tags:
   - theory/critical-theory
 related_concepts:
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Educated Identity]]"
 related_theories: []
 related_methods:
@@ -30,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: '2026-07-04'
+updated: 2026-08-20
 ---
 
 # Heroic, Strange, and Barbaric
@@ -57,7 +56,7 @@ updated: '2026-07-04'
 > - **陌生的（Strange）**
 >   指向那些由极端政治强权、地缘冲突、或扭曲的算法监控强加在学校和儿童身上的荒谬生存状态与课程变迁。通过将其定义为“陌生”，阻止学者将其视为“不可避免的客观事实”或“正常的转型现象”。
 > - **英雄的（Heroic）**
->   指向在战争、国家冲突、制度压迫以及社会动荡等极端生存境遇下，教师和个体在传统围墙内外依然坚守教学、维护儿童生命权与受教育权利的抗争性学术与[[Praxis|实践]][[Conatus|努力]]。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 335–336)]]
+>   指向在战争、国家冲突、制度压迫以及社会动荡等极端生存境遇下，教师和个体在传统围墙内外依然坚守教学、维护儿童生命权与受教育权利的抗争性学术与[[Praxis|实践]]努力。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 335–336)]]
 
 ---
 

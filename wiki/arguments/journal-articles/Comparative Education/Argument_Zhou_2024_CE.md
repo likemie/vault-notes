@@ -10,7 +10,7 @@ title: "Argument_Zhou_2024_CE"
 argument_key: "Argument_Zhou_2024_CE"
 argument_display_title: "A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Document]]"
   - "[[Going Native]]"
-  - "[[Conatus]]"
   - "[[Growth]]"
 related_theories: []
 related_methods:
@@ -62,7 +61,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-26
-updated: '2026-07-23'
+updated: 2026-08-20
 year: 2024
 doi: "10.1080/03050068.2024.2346654"
 citation_aliases:
@@ -157,7 +156,7 @@ citation_aliases:
 > 在[[John Dewey|杜威]]1919年抵华之前，民国教育界围绕晚清残存的1904年[[1904 Educational System|癸卯学制]]去留问题，已形成了温和渐进派与激进系统重建派两条截然对立的改革路线。这一既有的思想分歧预先决定了杜威思想传入中国后的接收方式（pp.612–613）。
 
 > [!tension] 杜威到华前教育界的两条改革路线（p.613）
-> - **温和渐进派（Moderate Reformers）** 主张教育改革的核心不在于制定完美的制度蓝图，而在于教育者在实际执行中的灵活性与社会条件的协同改善。沈颐（1915）在《教育杂志》撰文强调，教育进步应优先考虑社会实际[[Conatus|努力]]而非打造完美制度本身；蒋琦（1920）在《新教育》指出，教育只能随着社会繁荣而改善，若财政瓶颈不破、社会百业不兴，再完美的学制也无法产生实际功效。
+> - **温和渐进派（Moderate Reformers）** 主张教育改革的核心不在于制定完美的制度蓝图，而在于教育者在实际执行中的灵活性与社会条件的协同改善。沈颐（1915）在《教育杂志》撰文强调，教育进步应优先考虑社会实际努力而非打造完美制度本身；蒋琦（1920）在《新教育》指出，教育只能随着社会繁荣而改善，若财政瓶颈不破、社会百业不兴，再完美的学制也无法产生实际功效。
 > - **激进系统重建派（Radical Reformers）** 坚信旧有教育体系已彻底腐朽，必须通过激烈手段推翻重建。《新闻报》（1916）发表六期连载的长篇论述《改进教育制度之所见》，主张政府必须建立一个兼具“适合数亿国民、切合国情、组织复杂且易于实施、跻身世界最先进”的全新教育制度，宣称彻底重组将收到“事半功倍”之效。
 
 > [!contrast-table] 温和派与激进派的社会变革观对比

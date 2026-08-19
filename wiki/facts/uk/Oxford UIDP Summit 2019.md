@@ -10,7 +10,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -20,7 +20,6 @@ tags:
   - region/uk
   - region/us
 related_concepts:
-  - "[[Conatus]]"
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Dialogue in Education]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-20
 ---
 
 # Oxford UIDP Summit 2019
@@ -46,7 +45,7 @@ updated: 2026-06-10
 ## 背景
 
 > [!info]
-> 2019 年，英国牛津大学与美国的 [[University Industry Demonstration Partnership|UIDP]] 联合力量，开发和举办了首届 Oxford UIDP Summit。背景是政府、大学和企业之间的关系正受到前所未有的关注——英国、美国和欧洲各国都在[[Conatus|努力]]解决如何将大学中产生和发展的知识通过[[Technology Transfer|技术转移]]和全球企业合作来为经济和人类福祉服务的难题。许多大型企业和大学也在努力寻找更有效和高产的合作方式，反映了管理伙伴关系以创造和获取价值所必须克服的诸多挑战（[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, p.2)]]）。
+> 2019 年，英国牛津大学与美国的 [[University Industry Demonstration Partnership|UIDP]] 联合力量，开发和举办了首届 Oxford UIDP Summit。背景是政府、大学和企业之间的关系正受到前所未有的关注——英国、美国和欧洲各国都在努力解决如何将大学中产生和发展的知识通过[[Technology Transfer|技术转移]]和全球企业合作来为经济和人类福祉服务的难题。许多大型企业和大学也在努力寻找更有效和高产的合作方式，反映了管理伙伴关系以创造和获取价值所必须克服的诸多挑战（[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, p.2)]]）。
 
 ## 经过
 

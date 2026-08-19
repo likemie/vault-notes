@@ -11,9 +11,9 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 tags:
   - region/china
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Praxis]]"
   - "[[Hypothesis]]"
-  - "[[Conatus]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-08-20
 ---
 
 # Three Excellences
@@ -80,7 +79,7 @@ updated: 2026-05-23
 
 榜样学习的核心[[Hypothesis|假设]]与西方形成鲜明对比：
 - **西方** 能力是固定的——某些人天生就有天赋——模范对学生而言主要起"展示何为卓越"的作用
-- **东亚** 能力是可变的——模范展示了"通过[[Conatus|努力]]可以达到的境界"——每个人都可以通过学习达到榜样的水平([[Argument_Li_2012_Cambridge|Li, 2012, pp.103–104]])
+- **东亚** 能力是可变的——模范展示了"通过努力可以达到的境界"——每个人都可以通过学习达到榜样的水平([[Argument_Li_2012_Cambridge|Li, 2012, pp.103–104]])
 
 ---
 

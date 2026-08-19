@@ -51,7 +51,7 @@ sources:
 part_of:
 status: draft
 created: 2026-07-13
-updated: 2026-08-12
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2005_JRIE"
@@ -236,7 +236,7 @@ issuing_organization: ""
 > *The more we understand things as necessary, the less we feel the strength or intensity of passions rooted in the imagination.*
 
 > [!citation-card]- 权力的探究作为思辨的终结与[[Praxis|实践]]的起点
-> 对权力的探究构成了思辨的终结与实践的开始，这也是我们停止[[Conatus|努力]]思考世界、并开始创造世界的时刻。（引自 Hardt, p.222）
+> 对权力的探究构成了思辨的终结与实践的开始，这也是我们停止努力思考世界、并开始创造世界的时刻。（引自 Hardt, p.222）
 > 
 > *The investigation of power constitutes the end of speculation and the beginning of practice, it is the moment in which we stop striving to think the world and begin to create it.*
 

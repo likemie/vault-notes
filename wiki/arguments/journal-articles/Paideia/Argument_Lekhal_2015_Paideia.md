@@ -12,7 +12,7 @@ title: "Argument_Lekhal_2015_Paideia"
 argument_key: "Argument_Lekhal_2015_Paideia"
 argument_display_title: "Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Learning-Impeding Behavior]]"
   - "[[School Norm Adaptation]]"
-  - "[[Conatus]]"
   - "[[Dependent Variable]]"
   - "[[Gender Differences in Academic Achievement]]"
   - "[[Independent Variable]]"
@@ -59,7 +58,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: '2026-06-08'
+updated: 2026-08-20
 year: 2015
 doi: ""
 citation_aliases:
@@ -88,7 +87,7 @@ citation_aliases:
 > ### [[Variable|变量]][[Operationalization|操作化]]细节
 >
 > - 学生自评变量：[[Student-Teacher Relationship|师生关系]]、班级学习文化、课堂反馈、[[Learning-Impeding Behavior|学习阻碍行为]]、学习兴趣与学业愉悦(p.80)。
-> - 教师评定变量（完整）：学业成绩（挪威语/数学/英语，3 项）、自控（9 项）、自我主张（8 项）、[[School Norm Adaptation|学校规范适应]]（9 项）、动机与[[Conatus|努力]]投入（3 项）(pp.80-82)。
+> - 教师评定变量（完整）：学业成绩（挪威语/数学/英语，3 项）、自控（9 项）、自我主张（8 项）、[[School Norm Adaptation|学校规范适应]]（9 项）、动机与努力投入（3 项）(pp.80-82)。
 > - 信度：关键量表 alpha 多数较高（如学校规范适应与动机/努力均为.95），支持后续回归建模。
 >
 > ### 变量词汇映射表（统一）
@@ -116,7 +115,7 @@ citation_aliases:
 
 > [!example] 核心论证
 > 1. 男女学业差异客观存在，但差异大小在不同[[Variable|变量]]与学科上并不一致，且教师评定变量上的性别差异显著大于学生自评变量(pp.82-83)。
-> 2. 在控制文化背景和年龄后，能解释[[Academic Achievement|学业表现]]的关键变量主要是"对学校规范的适应"和"动机与[[Conatus|努力]]投入"，且对男女生的解释方向基本一致(pp.83-84)。
+> 2. 在控制文化背景和年龄后，能解释[[Academic Achievement|学业表现]]的关键变量主要是"对学校规范的适应"和"动机与努力投入"，且对男女生的解释方向基本一致(pp.83-84)。
 > 3. 性别本身新增解释力极小（仅增加约 0.2%），更可能通过与其他变量交互间接影响成绩，而非直接决定成绩(p.83)。
 > 4. 因此，问题不宜被简化为"男生/女生天生差异"，而应转向学校环境、教师期待、同伴文化与课堂规范如何共同塑造在校行为和评价结果(pp.84-86)。
 
@@ -140,7 +139,7 @@ citation_aliases:
 > ### 表 2/3 的关键[[Effect Size|效应量]]（Cohen's d）
 >
 > - 学业成绩总分：d=-0.33；其中挪威语 d=-0.50，英语 d=-0.33，数学 d=-0.10。
-> - 教师评定行为变量：[[School Norm Adaptation|学校规范适应]] d=-0.70，动机与[[Conatus|努力]] d=-0.61，自控 d=-0.42，自我主张 d=-0.29。
+> - 教师评定行为变量：[[School Norm Adaptation|学校规范适应]] d=-0.70，动机与努力 d=-0.61，自控 d=-0.42，自我主张 d=-0.29。
 > - 学生自评变量：多数差异较小，提示学生自我报告与教师评定在性别差异幅度上并不一致。
 >
 > ### 在校变量性别差异（表 3 完整重构）

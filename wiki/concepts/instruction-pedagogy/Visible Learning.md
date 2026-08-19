@@ -6,10 +6,10 @@ aliases:
 summary: "John Hattie 发起的教育证据项目，通过汇总大量元分析并以效应量比较教学干预影响，广泛用于学校改进、教学决策和证据本位教育讨论。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 100
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
-related_color: "#ddd6fe"
+related_count: 99
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - visible-learning
   - evidence-based-education
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
-  - "[[Conatus]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Epistemology]]"
   - "[[Feedback]]"
@@ -124,7 +123,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-06-10
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -209,7 +208,7 @@ Hattie & Yates 在 *Synlig læring og læringens anatomi*（Dafolo, 2014；英�
 > 2. 通过感官接触信息来学习——但增加知识需要信息具备与心智结构匹配的组织水平，且组织方式随年龄变化
 > 3. 心智有局限——达到局限时深度学习不可能，此后仅发生[[Surface and Deep Learning|表层学习]]
 > 4. 学习者可从社会榜样、[[Direct Instruction|直接教学]]和纠正性反馈中极大受益——通过教师学习至关重要，教师越理解学生学习的进展，学习就越有效
-> 5. [[Conatus|努力]]（effort）对动机至关重要——努力难以激活但可学习
+> 5. 努力（effort）对动机至关重要——努力难以激活但可学习
 > 6. 短期目标极有激励作用——但可能与长期价值冲突，因此发展冲动控制和延迟满足重要
 > 7. 学习需要坚持——包括自尊需求和与他人互动
 > 8. 我们拥有显著的社会脑

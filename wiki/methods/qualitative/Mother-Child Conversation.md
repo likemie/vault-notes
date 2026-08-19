@@ -8,7 +8,7 @@ summary: "一种通过采集模拟母子对话样本来研究文化学习信念�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Causality]]"
-  - "[[Conatus]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Document]]"
   - "[[Cognitive Source]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-08-20
 ---
 
 # Mother-Child Conversation
@@ -180,7 +179,7 @@ Li 团队先将对话按"事件"（event）[[Coding in Qualitative Research|编�
 > [!tip]- 差学习讨论差异放大——一个自然实验
 > 差学习讨论中差异放大不是偶然的。差学习是一个**需要解释的负面事件**——面对同一个"孩子没学好"的情境，两种文化给出了两个不同的因果解释框架：
 > - EA："你可能只是还没理解——让我们想清楚哪里出了问题"（心智框架）
-> - TW："你是不是懒惰了？你要更[[Conatus|努力]]"（美德框架）
+> - TW："你是不是懒惰了？你要更努力"（美德框架）
 >
 > 这证明了两种文化框架不是因为"话题中性"而共存——它们是在**处理同一个问题时产生了系统性分歧**。
 
@@ -319,7 +318,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 > **4. 推理链的过度系统化风险**。Li 为两种文化的因果推理各提炼出了多条步骤的推理链（EA: 8 步，TW: 10 步）。这些推理链帮助读者理解文化逻辑，但母亲在对话中未必在脑海中"执行了这些步骤"——她可能只是直觉性地知道该往哪个方向引导。需要区分：推理链是研究者的**分析工具**（帮助看清文化逻辑），而非母亲心理过程的**描述工具**（母亲可能根本不是在"推理"）([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 > [!warning]
-> **5. "母亲不表达"≠"情感不存在"**。台湾母亲在对话中几乎不谈论[[Pride in Learning|骄傲]]——但这不意味着台湾儿童在取得成就时不感到骄傲。母亲**选择不表达什么**可能与母亲**相信儿童应该感受到什么**不同：一个 TW 母亲可能内心欣喜若狂，但她认为"表达骄傲"不利于儿童的品德发展（因为骄傲可能导致自满）——所以她有意识地在对话中把焦点从成就情感转向未来[[Conatus|努力]]([[Argument_Li_2012_Cambridge|Li, 2012]])。
+> **5. "母亲不表达"≠"情感不存在"**。台湾母亲在对话中几乎不谈论[[Pride in Learning|骄傲]]——但这不意味着台湾儿童在取得成就时不感到骄傲。母亲**选择不表达什么**可能与母亲**相信儿童应该感受到什么**不同：一个 TW 母亲可能内心欣喜若狂，但她认为"表达骄傲"不利于儿童的品德发展（因为骄傲可能导致自满）——所以她有意识地在对话中把焦点从成就情感转向未来努力([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 ---
 

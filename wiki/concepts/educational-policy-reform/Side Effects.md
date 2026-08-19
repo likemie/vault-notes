@@ -5,7 +5,7 @@ aliases:
 summary: "指教育干预在产生预期效果的同时也可能带来伴随性损害或代价的概念，用于反思只关注什么有效而忽视何种代价的评估逻辑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Direct Instruction]]"
   - "[[Operationalization]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -31,7 +30,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -86,7 +85,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与批评
 > - 副作用概念在教育中的[[Operationalization|操作化]]存在挑战——教育结果具有多维性和长期性，不像药物副作用那样容易归因和测量（Zhao 对此承认，并提出 6 项建议作为起点）
-> - 目前副作用研究主要由批评者和反对者提供，被支持者以"缺乏客观性"或"意识形态驱动"为由不予采信——这需要制度性改变而非仅靠个别研究者的[[Conatus|努力]]([[Argument_Zhao_2017_JEC|Zhao, 2017, p.15-16]])
+> - 目前副作用研究主要由批评者和反对者提供，被支持者以"缺乏客观性"或"意识形态驱动"为由不予采信——这需要制度性改变而非仅靠个别研究者的努力([[Argument_Zhao_2017_JEC|Zhao, 2017, p.15-16]])
 
 ## 理论基础
 

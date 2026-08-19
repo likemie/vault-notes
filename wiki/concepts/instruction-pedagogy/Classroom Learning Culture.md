@@ -5,7 +5,7 @@ aliases:
 summary: "班级中的学习氛围与同伴协作文化，用于描述课堂内部的互动规范、参与方式和共同学习环境。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[School Norm Adaptation]]"
   - "[[Variable]]"
   - "[[Motivation and Work Effort]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +28,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -57,5 +56,5 @@ updated: '2026-05-18'
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - 与 [[School Norm Adaptation]] 相比，它是班级层面的环境[[Variable|变量]]；与 [[Motivation and Work Effort]] 相比，它强调班级学习氛围，不直接描述个体[[Conatus|努力]]程度。
+> - 与 [[School Norm Adaptation]] 相比，它是班级层面的环境[[Variable|变量]]；与 [[Motivation and Work Effort]] 相比，它强调班级学习氛围，不直接描述个体努力程度。
 

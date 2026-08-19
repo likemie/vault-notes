@@ -6,7 +6,7 @@ aliases:
 summary: "证据本位方案实施中的核心张力，指忠实复制原始方案与根据本地条件进行调整之间的平衡问题。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
-  - "[[Conatus]]"
   - "[[Effect Size]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -128,7 +127,7 @@ updated: '2026-05-18'
 > [!warning] 争议与批评
 > - **忠实执行的局限** 加州班级缩减政策的失败说明有时"忠实执行"在[[Praxis|实践]]中根本不可能——因为支持因素（合格教师、教室）在当地不可得([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.17-18]])。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.7)]] 补充了更深层的问题：当大规模推广时，[[Randomised Controlled Trials|RCT]] 试验本身的参与者（教师）质量就不可复制——这不是执行的问题，而是**试验条件本身在推广时就不再成立**。
 > - **适应的风险** 教师创造性地使用证据有时远远超出证据支持的范围([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.41]])
-> - **没有手册可以告诉你答案**[[Argument_Cowen_2015_CHESS|Cowen et al. (2015, p.19)]] 指出没有现成手册规定哪些情况下应忠实哪些情况下应适应。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]] 的结论呼应了这一点："识别如何最有利地引导[[Conatus|努力]]永远涉及判断的应用。"
+> - **没有手册可以告诉你答案**[[Argument_Cowen_2015_CHESS|Cowen et al. (2015, p.19)]] 指出没有现成手册规定哪些情况下应忠实哪些情况下应适应。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]] 的结论呼应了这一点："识别如何最有利地引导努力永远涉及判断的应用。"
 > - **"教育研究只告诉我们曾经是什么，而非可能是什么"**Wiliam 的核心洞见——现有研究只能告诉我们"已被测试过的方案在已被测试过的条件下的效果"，而无法告诉我们"如果我们将此方案与情境适应的创新结合会发生什么"
 
 ## 相关案例／政策

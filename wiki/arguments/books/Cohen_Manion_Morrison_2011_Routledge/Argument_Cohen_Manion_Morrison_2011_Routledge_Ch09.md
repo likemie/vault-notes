@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -71,7 +71,8 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Participatory Research]]"
   - "[[Design-Based Research]]"
-related_persons: []
+related_persons:
+  - "[[William Foote Whyte]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -79,7 +80,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-22
-updated: 2026-07-09
+updated: 2026-08-20
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09
 
@@ -337,7 +338,7 @@ Morrison (2006) 在敏感教育研究中具体发现了十五项与守门人相�
 在寻找守门人的同时，研究者还可能遇到另一种角色——担保人。担保人（sponsor）是研究群体内部的成员，提供准入、信息和支持（pp.207–208）。
 
 > [!phase] Whyte《街角社会》中 Doc 的角色演变（pp.207–208）
-> William Foote Whyte (1993, 原版 1943) 在芝加哥波士顿北端的意大利裔街角社会研究中，遇到了 Doc——一位帮派核心人物。Doc 的角色经历了四个阶段的演进：
+> [[William Foote Whyte]] (1993, 原版 1943) 在芝加哥波士顿北端的意大利裔街角社会研究中，遇到了 Doc——一位帮派核心人物。Doc 的角色经历了四个阶段的演进：
 > - **担保功能** 
  Doc 为 Whyte 的在场提供合法性。"你告诉我你想让我看什么，我们来安排。当你想了解信息时，我会去问，你听着。当你想了解他们的人生哲学时，我会挑起争论并为你获取它……你以朋友的身份进来。"（Whyte, 1993, p. 292）
 > - **行为教练** 

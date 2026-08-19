@@ -8,7 +8,7 @@ aliases:
 summary: "Grice 提出的四条会话合作原则，包括量、质、关联和清晰，可用于比较不同文化中的说话风格与互动期待"
 type: concept
 domain: "communication-discourse"
-related_count: 3
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ tags:
   - field/communication-discourse
 related_concepts:
   - "[[Dialogue in Education]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-08-20
 ---
 
 # Grice's Conversational Maxims
@@ -71,7 +70,7 @@ updated: 2026-05-24
 
 说话者需要避免晦涩，明确表达自己意图传达的信息而不让听者误解。"吱吱响的轮子能得到油"这句谚语——Li 分析——不仅是关于说话的响度，更是关于"清晰明确地表达自己的欲求"。浪漫伴侣的成功也取决于能否"清晰恰当地表达各自的欲求和需求"([[Argument_Li_2012_Cambridge|Li, 2012, p.91]])。
 
-这一准则在更大文化层面上承载了诚实和透明的道德标准——一个人应该说心里话、不保留信息，然后[[Conatus|努力]]把话说清楚，使听众理解其信息、推理和立场([[Argument_Li_2012_Cambridge|Li, 2012, p.91]])。
+这一准则在更大文化层面上承载了诚实和透明的道德标准——一个人应该说心里话、不保留信息，然后努力把话说清楚，使听众理解其信息、推理和立场([[Argument_Li_2012_Cambridge|Li, 2012, p.91]])。
 
 ---
 

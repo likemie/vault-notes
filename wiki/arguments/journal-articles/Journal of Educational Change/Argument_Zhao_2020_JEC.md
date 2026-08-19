@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Hypothesis]]"
   - "[[Sampling Frame]]"
-  - "[[Conatus]]"
   - "[[Humility in Learning]]"
 related_theories: []
 related_methods:
@@ -47,7 +46,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: '2026-06-08'
+updated: 2026-08-20
 year: 2020
 doi: ""
 citation_aliases:
@@ -186,7 +185,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 ---
 
 > [!warning] 威权教育的本质
-> 自我谴责更可能是威权教育的结果而非高绩效的原因。在威权教育系统中，学生更可能责怪自己，更不可能质疑教师权威。威权教育要求服从，不容忍质疑权威，通过严格的规则和严厉的惩罚强制合规。更重要的是，权威[[Conatus|努力]]说服孩子将失败归咎于自己。结果是产生低自信和低自尊的学生（Zhao 2016b）。
+> 自我谴责更可能是威权教育的结果而非高绩效的原因。在威权教育系统中，学生更可能责怪自己，更不可能质疑教师权威。威权教育要求服从，不容忍质疑权威，通过严格的规则和严厉的惩罚强制合规。更重要的是，权威努力说服孩子将失败归咎于自己。结果是产生低自信和低自尊的学生（Zhao 2016b）。
 >
 > 在威权系统中，统治者和统治阶级从人们相信成功只取决于自身努力的信念中获益甚多。权威希望人们相信他们的先天能力或社会环境在教育结果中不重要。如果他们不能成功，只能责怪自己。这是帮助精英和权威让人们接受他们生来就有的不平等的有效手段（Zhao 2016a, b）。
 

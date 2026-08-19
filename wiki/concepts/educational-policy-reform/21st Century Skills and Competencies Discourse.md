@@ -11,7 +11,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括4C技能的主导地位和对非认知能力的边缘化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Global Policy Space]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Conatus]]"
   - "[[Metacognition]]"
   - "[[Floating Signifier]]"
   - "[[Postmodernism]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-20
-updated: 2026-06-02
+updated: 2026-08-20
 ---
 
 # 21st Century Skills and Competencies Discourse
@@ -111,7 +110,7 @@ SCD 中的技能和素养被理解为一个统摄性概念，涵盖知识社会�
 >
 > 在时间线上，SCD 经历了三个阶段。**第一阶段（2000 年代初）**以美国为主导：enGauge（2003）和 P21（2009）是最早的系统性框架，前者强调数字时代素养，后者提出 4C 概念雏形。**第二阶段（2010 年代）**转向跨国协调：ATCS（2012）和美国国家研究委员会（2012）试图建立跨国的评估标准；世界经济论坛（2016）的加入标志着私营部门开始直接参与技能框架的制定。**第三阶段（2010 年代末至今）**呈现出全球趋同：OECD（2019）和欧盟委员会（2019）的框架尽管来自不同治理传统，但核心技能列表高度一致([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.254]]; Chalkiadaki, 2018)。
 >
-> 博士层次的 SCD 讨论起步更晚。Senekal, Munnik, and Frantz（2022）对 2016–2021 年间 35 篇论文的[[Systematic Review|系统综述]]是首次将博士[[Graduate Attributes|毕业生特质]]纳入类似框架的尝试，识别出十个领域([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在此基础上提出的七域分类——知识、研究、沟通、人际、高阶思维、个人应变能力、[[Global Citizenship|全球公民]]——则是将 21 世纪技能话语与博士教育对接的最新[[Conatus|努力]]（p.98）。
+> 博士层次的 SCD 讨论起步更晚。Senekal, Munnik, and Frantz（2022）对 2016–2021 年间 35 篇论文的[[Systematic Review|系统综述]]是首次将博士[[Graduate Attributes|毕业生特质]]纳入类似框架的尝试，识别出十个领域([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在此基础上提出的七域分类——知识、研究、沟通、人际、高阶思维、个人应变能力、[[Global Citizenship|全球公民]]——则是将 21 世纪技能话语与博士教育对接的最新努力（p.98）。
 
 ---
 
@@ -215,7 +214,7 @@ SCD 不受限于任何特定机构、政府或商业结构，但占据并再生�
 
 SCD 将关注点从结构变革转向个体技能和素养的发展，使主体有义务获取新能力并扩展现有能力（Parreira do Amaral & Zelinka, 2019）。这种自我实现和自我责任化催生了一种以[[Employability|就业力]]和市场为导向的主体性——现代 [[Self-Entrepreneur|自我企业家]]（self-entrepreneur, Bröckling, 2015），它正在全球范围内成为一种心灵景观（mindscape）和新型文化（Moisio & Kangas, 2016, p.275）。
 
-在这一生产文化中，生产来源不再是主体获取的技能和素养，而是基于受期望能力的主体性——即自我引导的模式（Reed, 2009, p.33）。主体只有在承认并强化其自我企业家精神、展现对增长的激情和加速意愿时才有价值（Vostal, 2016）。主体的意愿和激情——即他们将[[Conatus|努力]]获取新技能和素养的承诺，无论其实际用途如何——成为新的生产要素([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.261]])。
+在这一生产文化中，生产来源不再是主体获取的技能和素养，而是基于受期望能力的主体性——即自我引导的模式（Reed, 2009, p.33）。主体只有在承认并强化其自我企业家精神、展现对增长的激情和加速意愿时才有价值（Vostal, 2016）。主体的意愿和激情——即他们将努力获取新技能和素养的承诺，无论其实际用途如何——成为新的生产要素([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.261]])。
 
 与此同时，愿意主体的逻辑共同创造了其反面——不愿主体（unwilling subject），被标记为失业者、无证者或可弃置的个体（disposable individual, Oksala, 2015）。不愿主体成为[[Lifelong Learning|终身学习]]话语的干预对象，通过各种政策以预防、补偿、激活或赋权的逻辑加以治理（Parreira do Amaral & Zelinka, 2019, p.409）。
 

@@ -7,16 +7,23 @@ aliases:
 summary: "Bandura 提出的动机概念，指个体对自身在特定任务上表现能力的自我评价，不同于一般能力感或实际能力水平"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 3
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/motivation
   - theme/self-belief
   - theme/achievement
 related_concepts:
-  - "[[Conatus]]"
+  - "[[Teacher Beliefs]]"
+  - "[[Praxis]]"
+  - "[[Critical Thinking]]"
+  - "[[Epistemological Beliefs]]"
+  - "[[Dependent Variable]]"
+  - "[[Effect Size]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -27,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-17
+updated: 2026-08-20
 ---
 
 # Self-Efficacy
@@ -42,7 +49,7 @@ updated: 2026-08-17
 > [!concept-lens] 概念透镜
 > - **含义** 指向个体对其完成特定任务能力的信念系统。
 > - **用途** 帮助研究者解释为什么实际能力相同的人在面对挑战时，会表现出截然不同的动机水平、努力程度和抗挫折能力。
-> - **边界** 它只回答“我能不能完成这个任务”，而不回答“我的整体智力如何”（后者属于[[Mindset|智力观]]范畴）。
+> - **边界** 它只回答“我能不能完成这个任务”，而不回答“我的整体智力如何”（后者属于智力观范畴）。
 
 > [!citation-card]- 关键表述
 > Bandura 强调，如果一个人缺乏某项技能，这个人会被激发去获取该技能。因此，感到有能效会推动人走向学习和掌握。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 58)]]
@@ -83,11 +90,11 @@ updated: 2026-08-17
 
 ### 命题一　教学实践经验能够反向重塑教师的自我效能感
 
-> [!concept-lens] 教师信念（Teacher Beliefs）视角
-> 该命题将自我效能感的探讨对象从“学生/学习者”扩展到了“教师群体”，探讨复杂的教学实践是如何反过来影响教师自身的胜任信念的。
+> [!concept-lens] [[Teacher Beliefs|教师信念]]（Teacher Beliefs）视角
+> 该命题将自我效能感的探讨对象从“学生/学习者”扩展到了“教师群体”，探讨复杂的教学[[Praxis|实践]]是如何反过来影响教师自身的胜任信念的。
 
 > [!claim] Buehl & Beck
-> **教师信念与实践的双向重塑** 教师信念与教学实践之间并非单向的指导关系，而是存在深刻的双向影响。尤其是当教师在教学实践中教授那些复杂的高阶技能（如批判性思维）并取得成功时，这种成功的实践经验能直接且深刻地重塑教师的认识论信念，并显著提升其自我效能感。[[Argument_Bergeron_2015_TeachingTOK|(Bergeron, 2015, p. 9 引用 Buehl & Beck, 2015)]]
+> **教师信念与实践的双向重塑** 教师信念与教学实践之间并非单向的指导关系，而是存在深刻的双向影响。尤其是当教师在教学实践中教授那些复杂的高阶技能（如[[Critical Thinking|批判性思维]]）并取得成功时，这种成功的实践经验能直接且深刻地重塑教师的[[Epistemological Beliefs|认识论信念]]，并显著提升其自我效能感。[[Argument_Bergeron_2015_TeachingTOK|(Bergeron, 2015, p. 9 引用 Buehl & Beck, 2015)]]
 
 ---
 
@@ -96,9 +103,9 @@ updated: 2026-08-17
 > [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 > 
-> | 研究 | 比较或干预 | 结果变量 | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron (2015)]] | TOK教龄：4-9年中等经验组 vs 1-3年新手组 | 教学信心量表得分（自我效能感代理指标） | 274 vs 289 | 4-9年组 M=3.35(SD=0.42) vs 新手组 M=3.17(SD=0.47) | $d = 0.40$* | $p<.001$ | 量化横截面调查。证明了在教授复杂探究性课程时，长期的实践经验能提升教师自我效能。高度依赖自我报告数据。（*注：效应量基于原文 M, SD, N 补算） |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron (2015)]] | [[Theory of Knowledge\|TOK]]教龄：4-9年中等经验组 vs 1-3年新手组 | 教学信心量表得分（自我效能感代理指标） | 274 vs 289 | 4-9年组 M=3.35(SD=0.42) vs 新手组 M=3.17(SD=0.47) | $d = 0.40$* | $p<.001$ | 量化横截面调查。证明了在教授复杂探究性课程时，长期的实践经验能提升教师自我效能。高度依赖自我报告数据。（*注：效应量基于原文 M, SD, N 补算） |
 > | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron (2015)]] | TOK教龄：10年以上资深组 vs 1-3年新手组 | 教学信心量表得分（自我效能感代理指标） | 105 vs 289 | 10年以上组 M=3.40(SD=0.40) vs 新手组 M=3.17(SD=0.47) | $d = 0.51$* | $p<.001$ | 同上。 |
 
 ---
@@ -107,4 +114,4 @@ updated: 2026-08-17
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 详细梳理了 Bandura 关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制影响二语学习者动机的基础心理学模型。
-> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] — 将自我效能感的概念延伸至教师群体（Teacher Efficacy），通过全球大样本量表证明了教龄和复杂课程（如知识论）的成功实施能够显著提升教师的自我效能感。
+> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] — 将自我效能感的概念延伸至教师群体（Teacher Efficacy），通过全球大[[Sample Size Determination|样本量]]表证明了教龄和复杂课程（如[[Theory of Knowledge|知识论]]）的成功实施能够显著提升教师的自我效能感。

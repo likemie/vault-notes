@@ -5,7 +5,7 @@ aliases:
 summary: "解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 14
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Innovation Ecosystem]]"
   - "[[Champ]]"
-  - "[[Conatus]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
   - "[[Geopolitical Subject]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -124,7 +123,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 > - **领土逻辑** 国家需要稳定的税收基础、持续的经济活动和人口定居——这要求资本*留在*特定领土上
 > - **资本逻辑** 资本需要自由移动到回报最高的地方——这意味着对任何特定领土的承诺都是暂时的
 >
-> 这两组逻辑之间的冲突是普遍的、不可消除的：资本主义不断[[Conatus|努力]]创造一个符合其自身需求的社会和物质景观，却又在随后的时间点削弱、扰乱甚至摧毁该景观（Harvey, 2001, p.333, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]]）。
+> 这两组逻辑之间的冲突是普遍的、不可消除的：资本主义不断努力创造一个符合其自身需求的社会和物质景观，却又在随后的时间点削弱、扰乱甚至摧毁该景观（Harvey, 2001, p.333, cited in [[Argument_Moisio_2022_Springer|Moisio, 2022, p.28]]）。
 
 
 > [!success] 城市形态：张力的空间表现

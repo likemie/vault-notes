@@ -46,7 +46,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
-  - "[[Conatus]]"
   - "[[Absorptive Capacity]]"
 related_theories:
   - "[[Network Society]]"
@@ -66,14 +65,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-06-22
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -404,7 +403,7 @@ Castells 据此区分了两种空间逻辑：
 当抽象的全球话语“尊重多样性”降落到拉美三个不同地域的地方空间时，其实践转化的差异揭示了物质环境和历史传统的巨大中介力量：
 
 > [!case] 玻利维亚：反殖民斗争中的多数群体话语
-> 玻利维亚 1994 年教育改革是打破将原住民身份彻底抹杀之“文明化工程（civilizatory project）”的最全面[[Conatus|努力]](Luykx & Lopez, 2008, 45)。
+> 玻利维亚 1994 年教育改革是打破将原住民身份彻底抹杀之“文明化工程（civilizatory project）”的最全面努力(Luykx & Lopez, 2008, 45)。
 > 
 > 其一，“尊重多样性”在此被赋予了**普遍性**的方法：原住民语言与文化的学习被规定为玻利维亚“每一个”儿童的必修课，而无论其本身的族裔。
 > 

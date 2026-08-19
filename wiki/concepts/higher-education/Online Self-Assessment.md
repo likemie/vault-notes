@@ -9,7 +9,7 @@ aliases:
 summary: "用于入学前咨询和项目匹配的数字化自我评估工具，通常通过问卷和测试引导潜在学生评估自身特征、准备程度和就读适配性。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Questionnaire]]"
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Digital Self]]"
   - "[[Learning Analytics]]"
   - "[[Digital Optimum]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: 2026-05-20
+updated: 2026-08-20
 ---
 
 # Online Self-Assessment
@@ -63,7 +62,7 @@ OSA 的设计目的不是筛选淘汰，而是通过促进"有根据的自我选
 
 ### 匹配逻辑
 
-OSA 的理论基础是"人-环境匹配"（person-environment fit）——找到学生与学习项目之间的"完美匹配"（perfect fit），以提升学生满意度和学业成功率（Thiele & Kauffeld, 2019a, p.275）。在[[Praxis|实践]]中表现为三种结果：完全匹配、有条件的匹配（需要在某些领域额外[[Conatus|努力]]）、以及不匹配——此时学生会被建议选择其他项目。
+OSA 的理论基础是"人-环境匹配"（person-environment fit）——找到学生与学习项目之间的"完美匹配"（perfect fit），以提升学生满意度和学业成功率（Thiele & Kauffeld, 2019a, p.275）。在[[Praxis|实践]]中表现为三种结果：完全匹配、有条件的匹配（需要在某些领域额外努力）、以及不匹配——此时学生会被建议选择其他项目。
 
 > [!example]
 > 荷兰 Saxion 大学的"学习选择检查"是一个典型示例：该校在 YouTube 视频中用一个木制形状分类玩具（shape sorter）来说明匹配逻辑——三种结果分别为完全匹配、基本匹配（建议在某些领域投入额外努力）和不匹配（明确建议选择其他学位项目）。整个过程中，该检查被反复强调"不是入学考试，不影响录取"——它纯粹是一个咨询工具，通过自我反思来引导选择([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.222–223]])。

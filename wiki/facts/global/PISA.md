@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 30
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Construct]]"
   - "[[Hypothesis]]"
-  - "[[Conatus]]"
   - "[[PISA Shock]]"
   - "[[Policy Borrowing]]"
   - "[[Governing by Numbers]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: "2026-05-17"
-updated: "2026-07-09"
+updated: 2026-08-20
 ---
 
 # PISA
@@ -167,7 +166,7 @@ updated: "2026-07-09"
 ### 美化威权教育
 
 > [!critique]
-> PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越的秘密。Schleicher 用自我谴责来解释中国上海的 PISA 超级表现，认为中国学生对自己的学习负责。但 PISA 报告本身发现，成绩较低的学生群体反而更觉得数学考试失败是自己的责任（OECD 2013, p.62, 引自 Zhao, 2020）。自我谴责更可能是威权教育的结果而非高绩效的原因——威权教育要求服从，不容忍质疑权威，通过严格的规则和严厉的惩罚强制合规，并[[Conatus|努力]]说服孩子将失败归咎于自己（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）。
+> PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越的秘密。Schleicher 用自我谴责来解释中国上海的 PISA 超级表现，认为中国学生对自己的学习负责。但 PISA 报告本身发现，成绩较低的学生群体反而更觉得数学考试失败是自己的责任（OECD 2013, p.62, 引自 Zhao, 2020）。自我谴责更可能是威权教育的结果而非高绩效的原因——威权教育要求服从，不容忍质疑权威，通过严格的规则和严厉的惩罚强制合规，并努力说服孩子将失败归咎于自己（[[Argument_Zhao_2020_JEC|Zhao, 2020]]）。
 
 ### 实施缺陷
 

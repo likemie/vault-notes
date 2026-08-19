@@ -6,7 +6,7 @@ aliases:
 summary: "个体在成长过程中通过日常互动吸收本文化价值观、行为模式与信念体系的社会化过程"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Praxis]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
-  - "[[Conatus]]"
   - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Operationalization]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: '2026-05-25'
+updated: 2026-08-20
 ---
 
 # Enculturation
@@ -94,7 +93,7 @@ updated: '2026-05-25'
 
 濡化也通过家长日常行为传递了对高成就同伴的文化态度，这一机制在东亚与西方呈现出系统性差异([[Argument_Li_2012_Cambridge|Li, 2012, pp.106–108]])。
 
-**东亚：主动寻找学习榜样**。中国（及其他东亚）家长在日常生活中主动为子女识别"好学生"——包括亲戚、朋友和同事的子女，以及社区中公认的学业优秀者。一旦发现，家长会频繁地以比较性语言将其作为榜样推荐给子女，敦促子女模仿。Li 的华裔移民高中生研究中，77% 的受访者报告其家长使用了邻里好学生作为榜样——尽管许多人觉得家长的这些[[Conatus|努力]]"烦人"，但他们承认这些引用让他们更有动力去努力学习([[Argument_Li_2012_Cambridge|Li, 2012, pp.107–108]])。
+**东亚：主动寻找学习榜样**。中国（及其他东亚）家长在日常生活中主动为子女识别"好学生"——包括亲戚、朋友和同事的子女，以及社区中公认的学业优秀者。一旦发现，家长会频繁地以比较性语言将其作为榜样推荐给子女，敦促子女模仿。Li 的华裔移民高中生研究中，77% 的受访者报告其家长使用了邻里好学生作为榜样——尽管许多人觉得家长的这些努力"烦人"，但他们承认这些引用让他们更有动力去努力学习([[Argument_Li_2012_Cambridge|Li, 2012, pp.107–108]])。
 
 **文化信念支撑**。这种行为背后是"近朱者赤，近墨者黑"的信念——年幼的儿童尤其容易受环境影响。家长和教育者因此积极鼓励孩子接近好学生，远离不良行为者。这种对同伴的选择性接近并非出于功利目的，而是建立在一个文化前提之上：好学习意味着好品德——因此与好学生交友是道德上的明智选择([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。
 

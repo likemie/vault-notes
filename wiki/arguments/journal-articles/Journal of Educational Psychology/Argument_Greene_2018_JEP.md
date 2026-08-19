@@ -79,14 +79,14 @@ sources:
   - "[[sources/Greene_2018_JEP/Greene_2018_JEP|Greene_2018_JEP]]"
 status: draft
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-08-20
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"

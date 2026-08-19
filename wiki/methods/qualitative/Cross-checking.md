@@ -14,7 +14,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Conatus]]"
   - "[[Analytic Framework]]"
   - "[[Praxis]]"
   - "[[Reliability]]"
@@ -23,6 +22,7 @@ related_concepts:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Content Analysis]]"
   - "[[Member Tests]]"
   - "[[Accounts]]"
   - "[[Ethogenic Approach]]"
@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-08-20
 ---
 # Cross-checking
 
@@ -60,7 +60,7 @@ updated: 2026-07-23
 > 1. 多位研究者分别独立分析相同的质性材料（如访谈[[Transcription in Qualitative Research|转录]]、课堂观察记录）
 > 2. 每位研究者独立提出类别系统、[[Coding in Qualitative Research|编码]]方案或解释框架
 > 3. 研究者之间交换意见，比较各自分析的异同
-> 4. 协商讨论，识别分歧来源并[[Conatus|努力]]达成共识
+> 4. 协商讨论，识别分歧来源并努力达成共识
 > 5. 基于协商结果修改和确定最终的[[Analytic Framework|分析框架]]
 > 6. 记录协商过程和最终决定的理由
 
@@ -69,7 +69,7 @@ Kitwood（1977）推荐的[[Praxis|实践]]是两位以上研究者独立提出�
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 涉及多研究者团队的[[Qualitative Research|质性研究]]；内容分析和[[Coding in Qualitative Research|编码]]研究中需要建立编码者[[Reliability|信度]]时；[[Research Topic|研究主题]]容易引发研究者个人立场和偏见时。
+> - **适合使用** 涉及多研究者团队的[[Qualitative Research|质性研究]]；[[Content Analysis|内容分析]]和[[Coding in Qualitative Research|编码]]研究中需要建立编码者[[Reliability|信度]]时；[[Research Topic|研究主题]]容易引发研究者个人立场和偏见时。
 > - **谨慎使用** 当研究资源不允许配备多研究者时；当研究者之间的视角差异过大以至于难以协商时。
 > - **不适合使用** 单人研究项目（但可部分通过[[Member Tests|成员核验]]和其他验证手段来弥补）。
 

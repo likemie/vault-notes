@@ -8,7 +8,7 @@ aliases:
 summary: "研究工具、数据和发现在跨时间、跨工具和跨受访者群体上的一致性、可依赖性和可复制性，是效度的必要非充分条件，在量化研究中分为稳定性、等值性和内部一致性三种形式，在质性研究中转化为可依赖性、可信赖性和可确认性"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Qualitative Reliability]]"
   - "[[Hypothesis]]"
   - "[[Ecological Validity]]"
-  - "[[Conatus]]"
   - "[[Definition of Terms]]"
   - "[[Qualitative Validity]]"
   - "[[Variable]]"
@@ -51,7 +50,7 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 status: draft
 created: 2026-06-23
-updated: 2026-07-08
+updated: 2026-08-20
 ---
 # Reliability
 
@@ -141,7 +140,7 @@ updated: 2026-07-08
 
 > [!tension] [[Qualitative Reliability|质性信度]]的两个立场
 > - **量化信度标准对质性研究不可行** LeCompte & Preissle (1993, p. 332) 认为量化研究的信度标准根本无法用于质性研究——量化[[Hypothesis|研究假设]]**可复制性**的可能，但这**扭曲了现象的自然发生（[[Ecological Validity|生态效度]]）**。自然主义研究的前提恰恰包括情境的**独特性和特殊性**——研究不能被复制，这正是其优势而非劣势。
-> - **质性研究仍需复制要素** LeCompte & Preissle (1993, p. 334) 同时主张质性研究应[[Conatus|努力]]在以下方面进行复制：研究者的地位位置、信息提供者/受访者选择、社会情境和条件、分析[[Construct|构念]]和前提、资料收集和分析方法。
+> - **质性研究仍需复制要素** LeCompte & Preissle (1993, p. 334) 同时主张质性研究应努力在以下方面进行复制：研究者的地位位置、信息提供者/受访者选择、社会情境和条件、分析[[Construct|构念]]和前提、资料收集和分析方法。
 
 Bogdan & Biklen (1992, p. 48) 提出了质性信度的一个[[Definition of Terms|操作性定义]]：**"研究者记录为数据的内容与在被研究的自然情境中实际发生的内容之间的吻合度"**——即一定程度的准确性和覆盖面的全面性。但这**不是追求一致性**——两位研究者研究同一情境可能得出截然不同但两套发现都可能可靠的发现。经典例证是 Nissan 英国汽车工厂研究（p.206）：Wickens (1987) 发现了"良性循环"（灵活性、团队合作、质量意识），而 Garrahan & Stewart (1992) 发现了"恶性循环"（剥削、监视、控制）——**同一现实的两个版本共存，因为现实是多层次的**。
 

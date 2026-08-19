@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 22
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Praxis]]"
   - "[[Performativity of Measurement]]"
-  - "[[Conatus]]"
   - "[[Learning Analytics]]"
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
@@ -60,7 +59,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
-updated: '2026-06-08'
+updated: 2026-08-20
 year: 2022
 doi: ""
 citation_aliases:
@@ -111,7 +110,7 @@ citation_aliases:
 
 - 排名和指标化[[Praxis|实践]]将大学转化为竞争者——[[Performativity of Measurement|测量的生产性]]在此发挥关键作用(p.220)
 - 在科研领域，Bröckling & Peter(2017)已证明"卓越"与自我呈现和持续自我优化的任务绑定在一起——[[German Excellence Initiative|德国卓越计划]]和英国 [[Research Excellence Framework|REF]] 就是通过指标和排名构建市场环境的典型技术(p.220)
-- 在教学领域，竞争力表现为对**学生成功的预期管理**——大学竞争的是学生的"潜在未来[[Conatus|努力]]"(p.220)
+- 在教学领域，竞争力表现为对**学生成功的预期管理**——大学竞争的是学生的"潜在未来努力"(p.220)
 
 > 例：两所大学竞争——A 大学和 B 大学。在科研方面，它们可以通过论文数量、引用率、第三方经费等指标直接比较。但在教学方面，它们如何比较？答案是：通过毕业率、学生满意度、雇主评价等"成功"指标——但这些指标衡量的是**已经发生的**结果，而大学真正需要的是在入学前就预判哪些学生有潜力贡献这些指标。这就是为什么 OSA 作为**提前的**管理工具变得至关重要。
 
@@ -151,7 +150,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 
 > [!success]
 
-- 竞争力作为地缘政治装置通过排名、指标化和比较[[Praxis|实践]]重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来[[Conatus|努力]]"(p.220)
+- 竞争力作为地缘政治装置通过排名、指标化和比较[[Praxis|实践]]重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来努力"(p.220)
 - OSAs 作为治理工具重新定义了从中学到大学的过渡——从集体性的约定转变为个体化的自我反思情境(p.222)
 - [[Online Self-Assessment|OSA]] 的三种战略功能：发现天赋、降低成本和风险、完善大学形象/教育品牌(pp.223–224)
 - 数据化使大学获得通过"成功相关性"分析来管理不确定性的能力，OSA 使"问题学生"在入学前就被识别(p.224)

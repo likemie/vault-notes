@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
 type: concept
 domain: "sociology-of-education"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Symbolic Boundary]]"
-  - "[[Conatus]]"
   - "[[Cultural Capital]]"
   - "[[Hypothesis]]"
   - "[[Self-Authorship]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-05-18
+updated: 2026-08-20
 ---
 
 # Goal-Controlled Mode
@@ -73,7 +72,7 @@ updated: 2026-05-18
 > [!example]
 > - vs [[Intuition-Dependent Mode]] — 目标掌控模式以清晰的生涯目标和策略性资源利用为特征，直觉依赖模式则以目标模糊和被动适应为特征。两者构成大学生活组织方式连续统的两极（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
 > - vs 职业成熟度／目标定向 — 关键区分在于该概念包含**道德维度** 目标掌控者不仅有一套行动策略，还持有一套特定的道德判断——认为大学生理应有自己的目标，在规则允许限度内使用策略达成目标无可厚非；无目标地组织生活是一种对自己的"不负责任"
-> - **[[Symbolic Boundary|象征边界]]** 目标掌控者用"有趣"标识自我，与"做事情都特别好，可是你问他为什么要做好，他会觉得做好就行了"的"习惯性优秀的学霸"划清界限。这条边界区分的是"对大学生活的安排在多大程度上有自我主导的方向性和目标感"，而非优秀或[[Conatus|努力]]程度
+> - **[[Symbolic Boundary|象征边界]]** 目标掌控者用"有趣"标识自我，与"做事情都特别好，可是你问他为什么要做好，他会觉得做好就行了"的"习惯性优秀的学霸"划清界限。这条边界区分的是"对大学生活的安排在多大程度上有自我主导的方向性和目标感"，而非优秀或努力程度
 
 ---
 

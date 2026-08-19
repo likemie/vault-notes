@@ -11,9 +11,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 4
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -25,7 +25,6 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
-  - "[[Conatus]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Doxa]]"
   - "[[Geopolitics of Knowledge]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 # GATS and Trade in Education Services
@@ -46,7 +45,7 @@ updated: '2026-05-18'
 ## 背景
 
 > [!info]
-> 在 2000 年代初期，世界贸易组织（WTO）主导了推动教育服务全球贸易的[[Conatus|努力]]。其《服务贸易总协定》（General Agreement on Trade in Services, GATS）是一项多边协定，鼓励 WTO 成员接受服务贸易的自愿自由化([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])。
+> 在 2000 年代初期，世界贸易组织（WTO）主导了推动教育服务全球贸易的努力。其《服务贸易总协定》（General Agreement on Trade in Services, GATS）是一项多边协定，鼓励 WTO 成员接受服务贸易的自愿自由化([[Argument_Rizvi_2022_Springer|Rizvi, 2022, p.97]])。
 
 ## 政策文本摘要
 

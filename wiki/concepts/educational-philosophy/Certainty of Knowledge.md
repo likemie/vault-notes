@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 42
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -76,7 +76,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-22
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # Certainty of Knowledge

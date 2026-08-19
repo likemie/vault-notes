@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Knowledge Production]]"
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-05-18'
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -102,7 +101,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success] 实证发现
-> 被描述为"有史以来规模最大的教育研究[[Conatus|努力]]之一"：到 1991 年探索与开发阶段结束时，数百名政策制定者、高级政府官员和顶尖学者参与其中(Walberg & Zhang, 1998, pp.55–56; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.9]])。
+> 被描述为"有史以来规模最大的教育研究努力之一"：到 1991 年探索与开发阶段结束时，数百名政策制定者、高级政府官员和顶尖学者参与其中(Walberg & Zhang, 1998, pp.55–56; [[Argument_Gorur_2014_Discourse|Gorur, 2014, p.9]])。
 
 ## 争议与批评
 

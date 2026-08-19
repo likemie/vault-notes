@@ -8,7 +8,7 @@ aliases:
 summary: "Li (2012) 识别的西方文化学习过程模型，以心智发展为焦点，包含主动参与，探索与探究，思考与批判性思维，自我表达与沟通四个支柱"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Western Learner]]"
   - "[[Metacognition]]"
-  - "[[Conatus]]"
   - "[[Hypothesis]]"
   - "[[Research Topic]]"
   - "[[Reflexivity]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-20
 ---
 
 # Mind-Oriented Learning Process
@@ -86,7 +85,7 @@ updated: 2026-05-25
 **心理层面**的学习策略尤为重要。[[Western Learner|西方学习者]]使用三类自我调节学习策略（Pintrich 等人分类，转引自 Li, 2012, pp.109-110）：
 - 认知策略：复述（如反复背诵、使用闪卡）、精加工（如改写概念、总结阅读材料）、组织（如列提纲、分类、整合材料）
 - [[Metacognition|元认知]]策略：计划（设定目标与步骤）、监控（追踪进展与理解程度）、调节（根据理解调整复习）
-- 资源策略：时间管理、维持有利学习环境、调控[[Conatus|努力]]、同伴学习、求助
+- 资源策略：时间管理、维持有利学习环境、调控努力、同伴学习、求助
 
 这些策略在西方学习者中的使用频率高于亚洲学习者([[Argument_Li_2012_Cambridge|Li, 2012, p.110]])。
 

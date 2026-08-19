@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一教育组织变量，其影响不仅取决于人数变化本身，还取决于教师质量、课堂资源和教学方式是否随之调整。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Classroom Management]]"
-  - "[[Conatus]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Dependent Variable]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-07-15
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -108,7 +107,7 @@ updated: 2026-07-15
 
 > [!finding-cards] Blatchford 研究揭示的课堂过程
 > 1. **对课堂整体互动框架的影响** 大班产生更多小组和更多组内学生人数，对教学、学习和学生注意力产生负面影响（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, p.157]]）。
-> 2. **对教师的影响** 小班中教师更有可能花时间与个别学生相处；大班中教师面临更多[[Classroom Management|课堂管理]]和控制压力，需要补偿性[[Conatus|努力]]，并承受更大压力（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.157–158]]）。
+> 2. **对教师的影响** 小班中教师更有可能花时间与个别学生相处；大班中教师面临更多[[Classroom Management|课堂管理]]和控制压力，需要补偿性努力，并承受更大压力（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.157–158]]）。
 > 3. **对学生的影响** 小班中学生更可能积极参与学习、较少出现干扰行为；大班中学生更可能被动听教师讲课（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, p.158]]）。
 > 4. **对低成就学生的意义** 小班对所有学生都有教师注意力方面的可证明益处，但在小学低年级和中学低年级尤其重要，对低成就学生尤为关键，因为他们在大班中更可能脱离学习。
 

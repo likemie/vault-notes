@@ -7,7 +7,7 @@ aliases:
 summary: "沃尔夫提出的殖民主义形式理论，核心是消除的逻辑而非剥削的逻辑，近年被西方学者用于分析新疆的汉人移民与维吾尔人关系"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Necropolitics]]"
   - "[[Hegemony]]"
   - "[[Paradigm]]"
-  - "[[Conatus]]"
   - "[[Praxis]]"
 related_theories: []
 related_methods: []
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: '2026-06-25'
+updated: 2026-08-20
 ---
 
 # Settler Colonialism
@@ -89,7 +88,7 @@ updated: '2026-06-25'
 > 
 > > [!axis] 西方学术与国家控制的“合谋”
 > > - **布拉格（[[Argument_Bulag_2024_CE|Bulag, 2024]]）的批判** 将新疆框定为殖民地虽然道德立场鲜明，却在政治效果上面临深刻悖论。定居殖民主义以“土著人”话语为武器，而根据国际法，土著人地位并不支持要求将定居者遣返原籍（因为现状已被国际社会默认），反而是将反殖民自决权降格为国家主权框架内的内部人权与自治请求，客观上锁死了少数民族的行动边界。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 100]])
-> > - **消解宪法自治权** 该框架将地方与中央的关系赤裸裸地界定为殖民关系，实际上抹杀并否定了该地区作为“维吾尔自治区”的官方宪法地位，使少数民族的宪法自治权利变得多余。这在客观上与国家掏空、削弱自治区自治权力的[[Conatus|努力]]达成了非意图的话语合谋。
+> > - **消解宪法自治权** 该框架将地方与中央的关系赤裸裸地界定为殖民关系，实际上抹杀并否定了该地区作为“维吾尔自治区”的官方宪法地位，使少数民族的宪法自治权利变得多余。这在客观上与国家掏空、削弱自治区自治权力的努力达成了非意图的话语合谋。
 > 
 > > [!axis] 土著话语与政治双重标准
 > > - **托马斯·阿尔伯茨（Thomas Alberts, 2015）的发现** 全球土著主义调查表明，与土著相关的政策和国际法自 1940 年代以来多被设计为促进同化，自决权已被收缩为国家框架内部的改良性自治。

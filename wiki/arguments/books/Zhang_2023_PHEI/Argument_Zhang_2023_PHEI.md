@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -49,7 +49,6 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Going Native]]"
   - "[[Evaluation Research]]"
-  - "[[Conatus]]"
   - "[[Praxis]]"
   - "[[International Education]]"
   - "[[Document]]"
@@ -66,7 +65,7 @@ related_facts:
   - "[[Open Competition Mechanism]]"
 status: draft
 created: 2026-06-11
-updated: 2026-07-08
+updated: 2026-08-20
 ---
 # Argument_Zhang_2023_PHEI
 
@@ -443,7 +442,7 @@ updated: 2026-07-08
 > [!line-a] 基础研究投入机制
 > > [!features] 三大机制
 > > - **完善多元稳定的科技资金投入机制** 加快形成以政府投入为主、社会投入多元化的机制。建议将现行由承担单位提供配套资金的做法，改为政府对企业的创新项目给予补贴（如对增加研发投入、应用新技术开发新产品、开展产学研合作的企业给予税收优惠）。引导企业和金融机构以适当方式加大对基础研究的投入，推动企业与省自然科学基金设立联合基金或独立建立基础研究基金。探索民间捐赠、非政府组织公益创投等多元化投入渠道
-> > - **构建基础研究与[[Evaluation Research|应用研究]]的融通机制** 完善前沿性、原创性科学问题的发现和提出机制，完善颠覆性和非共识性研究的遴选和支持机制，[[Conatus|努力]]实现更多"从0到1"的突破。构建从国家安全、产业发展、民生改善的[[Praxis|实践]]中提炼基础科学问题的机制。面向重大前沿科学问题建立快速立项、强化绩效的管理机制，对原创性项目开通绿色评审通道。建立以产业目标为导向的基础研究和应用研究项目库
+> > - **构建基础研究与[[Evaluation Research|应用研究]]的融通机制** 完善前沿性、原创性科学问题的发现和提出机制，完善颠覆性和非共识性研究的遴选和支持机制，努力实现更多"从0到1"的突破。构建从国家安全、产业发展、民生改善的[[Praxis|实践]]中提炼基础科学问题的机制。面向重大前沿科学问题建立快速立项、强化绩效的管理机制，对原创性项目开通绿色评审通道。建立以产业目标为导向的基础研究和应用研究项目库
 > > - **探索符合基础研究规律的评价机制** 对自由探索类、目标导向类和交叉学科研究等基础科学研究项目实行以质量、贡献、绩效为导向的分类评价。实行严格的知识产权保护和以增加知识价值为导向的分配政策，提高基础科学研究投入回报。建立适用于不同类别基础科学研究项目的投入前评价机制和投入后评价机制
 
 > [!line-a] 企业主导的关键核心技术攻关机制

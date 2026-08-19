@@ -11,7 +11,7 @@ summary: "通过访谈、观察和文本材料理解行动者经验、意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 59
+method_related_count: 58
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Qualitative Generalization]]"
-  - "[[Conatus]]"
   - "[[Research Scope]]"
   - "[[Further Education]]"
   - "[[Institutional Review Board]]"
@@ -87,7 +86,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-05-30
+updated: 2026-08-20
 ---
 
 ## 定义
@@ -236,7 +235,7 @@ Creswell & Creswell（2022, Ch9）提出了质性数据分析的七个步骤，�
 >
 > - **过去经验与研究的关联** 1980 年 8 月至 1990 年 5 月间在私立院校担任行政人员（校园规模 600–5000 学生）；1987–1990 年在中西部一所小型学院担任学生事务院长——在此期间作为校长内阁成员，参与所有高层行政活动与决策，与校长紧密协作度过其第一年任期
 > - **经验如何塑造解释** "我相信这种对情境和角色的理解增强了我在许多挑战、决策和问题上的意识、知识和敏感性……并将在研究过程中帮助我与参与者合作"（p.650）
-> - **偏见的明确陈述** "尽管尽一切[[Conatus|努力]]确保客观性，这些偏见可能塑造我查看和理解数据以及解释经验的方式。我以这样的视角开始这项研究：学院校长职位是一个多元且常常困难的职位……我认为第一年至关重要：充满调整、挫折、意外的惊喜和挑战"（p.651）
+> - **偏见的明确陈述** "尽管尽一切努力确保客观性，这些偏见可能塑造我查看和理解数据以及解释经验的方式。我以这样的视角开始这项研究：学院校长职位是一个多元且常常困难的职位……我认为第一年至关重要：充满调整、挫折、意外的惊喜和挑战"（p.651）
 >
 > 这段话同时展示了反身性的两个要求：陈述过去经验与研究的连接，以及明确这些经验如何塑造解释。
 >

@@ -9,9 +9,9 @@ title: "Argument_Fredens_2015_Paideia"
 argument_key: "Argument_Fredens_2015_Paideia"
 argument_display_title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 9
 argument_related_level: 0
-argument_related_stars: ""
+argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Fredens, K. (2015). Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]. Paideia, (9), 70–75."
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
-  - "[[Conatus]]"
   - "[[Translational Research]]"
   - "[[Working Memory]]"
 related_theories: []
@@ -42,7 +41,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-06-08'
+updated: 2026-08-20
 year: 2015
 doi: ""
 citation_aliases:
@@ -72,7 +71,7 @@ citation_aliases:
 > 2. 我们通过感官接触信息来学习——但要增加知识，信息必须具备与我们心智结构相匹配的组织水平，且这种组织方式随年龄变化
 > 3. 我们的心智有局限——当这些局限达到时，深度学习变得不可能，此后仅发生[[Surface and Deep Learning|表层学习]]
 > 4. 学习者可从社会榜样、[[Direct Instruction|直接教学]]和纠正性反馈中极大受益——通过教师学习至关重要，教师越理解学生学习的进展，学习就越有效
-> 5. [[Conatus|努力]]（effort）对动机至关重要——努力难以激活但可学习
+> 5. 努力（effort）对动机至关重要——努力难以激活但可学习
 > 6. 短期目标极有激励作用——但可能与长期价值冲突，因此发展冲动控制和延迟满足能力很重要
 > 7. 学习需要坚持——包括自尊需求和与他人互动
 > 8. 我们拥有显著的社会脑
@@ -103,7 +102,7 @@ citation_aliases:
 > ### Fredens 的补充性批评
 >
 > - **默认网络的功能** Hattie & Yates 强调注意力中断的缺点，但 Fredens 补充指出好处——当大脑"走神"时，前额叶关闭并转入默认网络（社会脑），在恢复的同时产生联想和创意发展。这种注意力"缺失"在创造性过程中至关重要(p.71–72)
-> - **认知负荷与不必要指导** Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理[[Conatus|努力]]"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——[[Working Memory|工作记忆]]被不必要信息填满的状态
+> - **认知负荷与不必要指导** Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——[[Working Memory|工作记忆]]被不必要信息填满的状态
 
 ## 关键引用
 

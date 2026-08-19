@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 49
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Convergence Research]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Technology Readiness Level]]"
   - "[[Absorptive Capacity]]"
   - "[[Operationalization]]"
@@ -88,7 +87,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-07-08
+updated: 2026-08-20
 ---
 # Argument_OxfordUIDP_2019_UIPartnerships
 
@@ -265,7 +264,7 @@ updated: 2026-07-08
 >   利用最新科学和技术进步（尤其是 AI 和大数据科学工具、数字化制造）寻求颠覆传统产业的新企业。
 > - **历史上与大学互动有限的行业**
 >   如法律服务、金融服务和金融科技，已意识到扩大互动以支持其创新活动的潜在价值。
-> - **创新保守但正在增加创新[[Conatus|努力]]的行业**
+> - **创新保守但正在增加创新努力的行业**
 >   如建筑业。
 > - **历史上缺乏与大学互动的本地创新生态系统**
 >   需要建立创新能力和实现经济发展目标的地方（pp.18–19）。
