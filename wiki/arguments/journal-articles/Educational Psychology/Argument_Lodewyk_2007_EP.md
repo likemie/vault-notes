@@ -100,7 +100,7 @@ issuing_organization: ""
 > - **维度三：认识论信念对总体学业成就的预测力** 检验各认识论信念因子对学[[Growth|生长]]期总体学业成就预估值（estimates of overall academic achievement, EOAA）的回归预测作用。
 > - **维度四：不同学业成就水平组的信念分化** 对比高、中、低三组学业成就学生在各项认识论维度上的朴素程度差异。
 > - **维度五：任务结构对认识论预测效应的调节作用** 比较认识论信念对良构任务（well-structured task, WST）与劣构任务（ill-structured task, IST）表现的差异化预测效力。
-> - **维度六：劣构任务中反思性判断的预测机制** 检验认识论信念是否能独立预测学生在劣构辩护任务中的反思性判断（reflective judgment, RJ）深度。
+> - **维度六：劣构任务中反思性判断的预测机制** 检验认识论信念是否能独立预测学生在劣构辩护任务中的反思性判断（[[Reflective Judgment Model|Reflective Judgment]], RJ）深度。
 > - **维度七：性别在认识论、任务表现与学业成就上的交互差异** 考察男女生在认识论成熟度、反思能力及两类任务表现上的系统性差异。
 
 ---
@@ -311,7 +311,7 @@ issuing_organization: ""
 > | **独立学校子样本（Independent Sub-sample, $n = 89$）** | | | | |
 > | 认识论信念三因子（EB factors） | 劣构任务表现（IST Performance） | .12 | $3.80*$ | $.01$ |
 > | 简单知识（Simple Knowledge, SK） | 劣构任务表现（IST Performance） | .06 | $5.84*$ | $.02$ |
-> | 认识论信念三因子（EB factors） | 反思性判断得分（Reflective Judgment, RJ） | .10 | $2.97*$ | $.04$ |
+> | 认识论信念三因子（EB factors） | 反思性判断得分（[[Reflective Judgment Model\|Reflective Judgment]], RJ） | .10 | $2.97*$ | $.04$ |
 > | 简单知识（Simple Knowledge, SK） | 反思性判断得分（Reflective Judgment, RJ） | .06 | $5.56*$ | $.02$ |
 > 
 > *注：EOAA = 总体学业成就预估值；IST = 劣构任务；EB factors = FQAL、SK 与 CK 三因子；* $p < .05$; *** $p < .001$。*
@@ -387,7 +387,7 @@ issuing_organization: ""
 > *Students who see knowledge as simple—that is, they seek single answers, avoid ambiguity, and depend too much on authority—tend to experience more difficulty with the ambiguous features of tasks that call for reflective judgments, perseverance, and appropriate self-regulated learning.*
 
 > [!citation-card]- 课堂任务结构平衡的教学告诫
-> 如果正如 Spiro et al. (1988) 所推测的那样，布置过多良构任务会促进一种该学科领域在根本上是简单的虚假理解并刺激表面化投入；然而，平衡至关重要，布置过于模糊的任务可能会引发焦虑与退缩（Doyle, 1983）。（p.324）
+> 如果布置过多良构任务，可能会促进一种该学科领域在根本上是简单的虚假理解并刺激表面化投入；然而，教学平衡至关重要，布置过于模糊的任务可能会引发焦虑与退缩。（p.324）
 >
 > *The type of structure of assigned tasks also merits attention if, as Spiro et al. (1988) conjecture, assigning too many well-structured tasks can promote a false understanding that the domain is fundamentally simple and can stimulate superficial engagement. However, balance is important—assigning especially ambiguous tasks may induce anxiety and withdrawal (Doyle, 1983).*
 
