@@ -1,70 +1,45 @@
-import re
+import sys
 
-with open("wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2010_JEP.md", "r") as f:
-    content = f.read()
+with open("wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md", "r") as f:
+    lines = f.readlines()
 
-# Define the new content
-new_text = """> [!chain-link] 证据到判断
-> 传统的阶段模型（见表1）本质上可以解构为对客观现实、知识来源和评价机制的不同量化态度。
+new_content = """> [!ma-table]- 表 6：理论模型[[Moderator Analysis|调节变量分析]]（完整复刻）
+> | 核心理论模型 | k | 效应量 (ES) | 95% CI | Q 值 |
+> |---|---|---|---|---|
+> | 哲学驱动模型 (Chinn) | 1 | .087 | [-.017, .190] | .000 |
+> | 建构主义 (Constructivism) | 12 | .240 | [.071, .396] | 324.381 |
+> | 整合模型 (Greene/Bråten) | 8 | .189 | [.112, .264] | 11.500 |
+> | 学科模型 (Hammer) | 4 | .166 | [.006, .317] | 6.778 |
+> | 多维模型 (Hofer & Pintrich) | 46 | .158 | [.119, .197] | 374.182 |
+> | 发展模型 (Kuhn) | 7 | .142 | [-.003, .280] | 13.416 |
+> | 哲学驱动模型 (Muis et al. Royce) | 2 | .131 | [-.026, .282] | .238 |
+> | 多维模型 (Schommer/Schommer-Aikins) | 72 | .144 | [.107, .181] | 491.088 |
 
-> [!contrast-table] 表1：Kuhn et al. (2000) 认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
-> | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | 批判性思维（Critical thinking） | 知识主张（Assertions） |
-> | --- | --- | --- | --- | --- |
-> | 现实主义者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
-> | 绝对主义者（Absolutist） | 可直接认知 | 确定，来自外部来源 | 用于确定谁是“正确的” | 可对可错的事实 |
-> | 多元主义者（Multiplist） | 无法直接认知 | 不确定，来自人类心智 | 不相关 | 不可质疑的观点 |
-> | 评价主义者（Evaluativist） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
-> 
-> *核心看点：此表呈现了传统的认识论发展阶段。作者指出，这四个定性的阶段本质上可以被拆解为个体对客观现实、知识来源及评价机制的不同信念维度的强弱组合。*
-> *来源：Greene et al. (2010), p. 235*
+> [!ma-table]- 表 7：认识论构念调节变量分析（完整复刻及内涵解释）
+> | 认识论构念 (Epistemic cognition construct) | 构念内涵解释 | k | 效应量 (ES) | 95% CI |
+> |---|---|---|---|---|
+> | **知识的发展 (Development of knowledge)** | 认识到知识是不断演化和发展的（第一梯队） | 18 | .274 | [.180, .363] |
+> | **一般认识论认知 (General epistemic cognition)** | 将多维度的不同信念加总求和的整体得分 | 14 | .266 | [.097, .420] |
+> | **Kuhn 的发展层次 (Kuhn's levels)** | 测试学生所处阶段（绝对主义/多元主义/评价主义） | 5 | .241 | [.105, .369] |
+> | **知识的证成 (Justification of knowledge)** | 关注如何评估知识主张以及何种证据能使其成立 | 26 | .228 | [.160, .294] |
+> | **多源证成 (Multiple justification)** | 认为需要整合多个来源的证据来交叉验证知识 | 7 | .225 | [.139, .308] |
+> | **学习速度 (Quick learning)** | 认为学习要么很快发生，要么永远学不会（归为智力内隐） | 52 | .199 | [.146, .252] |
+> | **建构主义 (Constructivism)** | 认为学习是主动建构意义的过程（已被证实存在概念混杂） | 22 | .191 | [.098, .281] |
+> | **知识的来源 (Source of knowledge)** | 关注知识是来自外部权威赋权还是由个人内部建构 | 29 | .174 | [.089, .256] |
+> | **个人证成 (Personal justification)** | 倾向于基于个人经验、观点或直觉来证成知识 | 13 | .169 | [.084, .252] |
+> | **简单知识 (Simple knowledge)** | 认为知识是孤立的、碎片化的事实，而非复杂的关联网络 | 52 | .162 | [.113, .209] |
+> | **简单与确定知识 (Simple and certain)** | 混合维度：知识不仅碎片化，而且一成不变 | 15 | .146 | [.089, .203] |
+> | **先天能力 (Innate ability)** | 认为学习能力是天生的、不可改变的（归为智力内隐） | 52 | .137 | [.066, .207] |
+> | **确定知识 (Certain knowledge)** | 认为知识是绝对不变的，排斥其暂定性（tentative） | 78 | .136 | [.087, .184] |
+> | **基于权威的证成 (Justification by authority)** | 认为知识只需要权威（如书本、专家）背书即可成立 | 10 | .110 | [.041, .177] |
+> | **全知权威 (Omniscient authority)** | 认为权威掌握着所有的真理，不会犯错 | 26 | .083 | [.024, .141] |
+> | **认识论目标 (Epistemic aims)** | 认知活动追求的终点（如获得满分 vs 追求深层理解） | 1 | .087 | [-.018, .189] |
+> | **真理的可及性 (Attainability of truth)** | 是否认为最终可以获得绝对且客观的真理 | 10 | .050 | [-.001, .100] |
+> | **知识的结构 (Structure of knowledge)** | 关注知识的组织形态（第三梯队，效应均不显著） | 8 | -.035 | [-.219, .152] |
+> | **微观可变性 (Texture & Variability)** | 特定实验任务中的细粒度知识建构属性（罕见维度） | 2 | .148 | [-.065, .328] |
+"""
 
-> [!warrant] 推理桥梁
-> 作者将上述传统模型与三维量化信念（SC、JA、PJ）进行了逻辑重构，演化出了全新的整合模型。
-> - **合并初级阶段**：Kuhn 模型中的“现实主义者”（视知识为现实的无脑复制、无需批判性思维）多见于幼儿，而“绝对主义者”（引入批判性思维以辨别事实对错）多见于小学生。由于这两者在量化问卷中都会表现出极其相似的极端轮廓（即盲信知识简单确定、盲信权威与个人感觉），加之本研究的样本排除了低龄儿童，因此作者将这两者合并为了新模型中的“现实主义”。
-> - **拆分中期阶段**：随着对知识绝对性的质疑，原本的“多元主义”被拆分为了两条分化路径：要么在不确定中依然盲从权威（教条主义），要么彻底只信自己的主观体验（怀疑主义）。
-> - **重定义高级阶段**：最终能够整合多方证据的“评价主义”，则被重新定义为“理性主义”。
-> 
-> ```mermaid
-> flowchart LR
->     subgraph Kuhn [Kuhn et al. 经典阶段]
->         direction TB
->         A0[现实主义 Realist]
->         A[绝对主义 Absolutist]
->         B[多元主义 Multiplist]
->         C[评价主义 Evaluativist]
->     end
-> 
->     subgraph Greene [Greene EOC 整合模型]
->         direction TB
->         D[现实主义 Realism]
->         E1[教条主义 Dogmatism]
->         E2[怀疑主义 Skepticism]
->         F[理性主义 Rationalism]
->     end
-> 
->     A0 -- "合并为三维皆强" --> D
->     A -- "合并为三维皆强" --> D
->     B -- "重权威、轻个人" --> E1
->     B -- "轻权威、重个人" --> E2
->     C -- "理性评估与整合" --> F
-> ```
+lines[211:235] = [new_content]
 
-> [!contrast-table] 表2：认识论与本体论认知模型（Model of Epistemic and Ontological Cognition）
-> | 受教育水平 | 劣构领域阶段 | SC 信念 | JA 信念 | PJ 信念 | 良构领域阶段 | SC 信念 | JA 信念 | PJ 信念 |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | 小学早期 | 现实主义 | 强 | 强 | 强 | 现实主义 | 强 | 强 | 强 |
-> | 小学晚期至大学早期 | 教条/怀疑主义 | 弱<br>弱 | 强<br>弱 | 弱<br>强 | 现实主义 | 强 | 强 | 强 |
-> | 大学中期至晚期 | 理性主义 | 弱 | 中等 | 中等 | 教条/怀疑主义 | 弱<br>弱 | 强<br>弱 | 弱<br>强 |
-> | 本科后教育（研究生） | 理性主义 | 弱 | 中等 | 中等 | 理性主义 | 弱 | 中等 | 中等 |
-> 
-> *核心看点：本表是作者提出的核心整合模型。它展示了四个定性的发展阶段（现实、教条/怀疑、理性）是如何由三个独立信念维度的不同强弱配置（Profile）构成的，并预测了个体在劣构领域（如历史）中的认知发展会快于良构领域（如数学）。*
-> *注：SC=简单与确定知识（Simple and Certain Knowledge）; JA=权威辩护（Justification by Authority）; PJ=个人辩护（Personal Justification）。来源：Greene et al. (2010), p. 238*"""
-
-# We know it's between "> [!chain-link] 证据到判断" and the end of Table 2 "*注：SC=...来源：Greene et al. (2010), p. 238*"
-pattern = re.compile(r"> \[!chain-link\] 证据到判断.*?来源：Greene et al\. \(2010\), p\. 238\*", re.DOTALL)
-new_content = pattern.sub(new_text, content)
-
-with open("wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2010_JEP.md", "w") as f:
-    f.write(new_content)
-
-print("Replacement successful")
+with open("wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md", "w") as f:
+    f.writelines(lines)
