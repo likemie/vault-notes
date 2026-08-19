@@ -6,10 +6,10 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 22
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
@@ -25,6 +25,13 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemic Resources]]"
   - "[[Epistemic Climate]]"
+  - "[[Dependent Variable]]"
+  - "[[Confidence Interval]]"
+  - "[[Heterogeneity]]"
+  - "[[Academic Achievement]]"
+  - "[[Variable]]"
+  - "[[Construct]]"
+  - "[[Publication Bias]]"
 related_theories:
   - "[[Situative Perspective]]"
   - "[[Cognitive Constructivism]]"
@@ -34,12 +41,14 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Mixed Methods Research]]"
   - "[[Triangulation]]"
+  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Chinn_2011_EP]]"
   - "[[Argument_Sandoval_2016_RRE]]"
+  - "[[Argument_Greene_2018_JEP]]"
 confidence: high
 status: draft
 created: 2026-08-17
@@ -127,8 +136,36 @@ related_arguments:
 
 ---
 
+## 实证数据
+
+> [!ma-table]- [[Meta-analysis|元分析]]总体结果
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Academic Achievement\|学业成就]] | 151 / 55,418 | r；随机效应 | 0.162 [0.135, 0.189] | I²=88.77%，Q=1335.22 | — |
+
+> [!ma-table]- 调节[[Variable|变量]]与亚组分析
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 亚组分析 | 初中（r=.246）和混合阶段（r=.233）较大，大学（r=.131）较小 | — | Q_between = 15.111 (p<.05) | 预设 | — |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 成就类型 | 亚组分析 | 概念性知识（r=.190）和论证（r=.154）较高，程序性知识（r=.077，不显著）较低 | — | Q_between = 1.766 (p>.05) | 预设 | — |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Epistemology\|认识论]][[Construct\|构念]] | 亚组分析 | 知识发展（r=.274）、一般认识论认知（r=.266）、多种证成（r=.225）较高 | — | Q_between = 57.955 (p<.001) | 预设 | — |
+
+> [!ma-table]- 稳健性与偏倚
+> <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
+> |---|---|---|---|---|---|
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | — | 漏斗图，Trim-and-fill，Fail-safe N | 0.162 | 稳定 | Fail-safe N=9265，未发现发表偏倚 |
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 包含五个组件的扩展[[Epistemology|认识论]]认知框架推动了研究向细粒度和情境化方向发展。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism|整合多元主义]]”主张。
+> - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 提供了一项大规模的[[Meta-analysis|元分析]]，评估了认识论认知对[[Academic Achievement|学业成就]]的预测效应及各类调节[[Variable|变量]]的影响。

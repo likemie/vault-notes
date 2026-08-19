@@ -7,7 +7,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科中知识与技能掌握程度的指标。通常通过课程分数、标准化测试成绩或绩点（GPA）进行测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,8 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Effect Size]]"
+  - "[[Epistemic Cognition]]"
   - "[[Questionnaire]]"
   - "[[Epistemology]]"
   - "[[Realism in International Relations]]"
@@ -25,15 +27,17 @@ related_theories:
   - "[[Epistemic and Ontological Cognition]]"
 related_methods:
   - "[[Multinomial Logistic Regression]]"
+  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Greene_2010_JEP]]"
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-19
 ---
 
 # Academic Achievement
@@ -52,6 +56,13 @@ updated: 2026-08-15
 
 ## 实证数据
 
+> [!effect-table]- 一级研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 与[[Epistemic Cognition\|认识论认知]]的相关 | 学业成就 | 151个独立样本 | — | r = .162 | 95% CI [.135, .189], p < .001 | 此为元分析合并效应，表明认识论认知能正向预测学业成就。按类型分：概念知识(r=.190)、论证(r=.154)、陈述性知识(r=.127)、程序性知识(r=.077, ns)。 |
+
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -64,4 +75,5 @@ updated: 2026-08-15
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] —  将学业成就作为潜类别分析的协[[Variable|变量]]，证明了特定学科的学业表现差异能有效预测学生的[[Epistemic and Ontological Cognition|认识论与本体论认知]]阶段。
+> - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 将学业成就作为潜类别分析的协[[Variable|变量]]，证明了特定学科的学业表现差异能有效预测学生的[[Epistemic and Ontological Cognition|认识论与本体论认知]]阶段。
+> - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 通过[[Meta-analysis|元分析]]考察了[[Epistemic Cognition|认识论认知]]对不同类型的学业成就（GPA、标准化测试、概念性/陈述性知识等）的预测作用。

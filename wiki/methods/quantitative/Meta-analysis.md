@@ -6,7 +6,7 @@ summary: "通过汇总多项原始研究的效应量来综合证据的统计方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 60
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -49,6 +49,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Intercoder Agreement]]"
   - "[[Research Question]]"
+  - "[[Epistemic Cognition]]"
+  - "[[Construct]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -63,6 +65,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Quantitative Research]]"
   - "[[Observation Method]]"
+  - "[[Experimental Research]]"
 related_persons:
   - "[[Gene Glass]]"
   - "[[Karl Pearson]]"
@@ -82,10 +85,11 @@ related_arguments:
   - "[[Argument_Hattie_2015_Paideia]]"
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Greene_2018_JEP]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-07-14
+updated: 2026-08-19
 ---
 
 # Meta-analysis
@@ -461,5 +465,6 @@ Wolf（1986, pp. 55–56）聚焦于"如果要做元分析，怎样才能做得�
 > - [[Argument_Wrigley_2019_ERE]] — 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例的深度追踪揭示[[Meta-meta-analysis|元-元分析]]的程序缺陷
 > - [[Argument_Wrigley_2018_BERJ]] — 对元分析和元-元分析（Hattie / EEF Toolkit）的系统方法论批判
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 系统介绍元分析的四种操作模型（Glass 八步、Cook 四阶段、Fitz-Gibbon 四步、Gorard 四步）、[[Effect Size|效应量]]计算、[[Class Size|班级规模]]案例及多维度批判
+> - [[Argument_Greene_2018_JEP]] — 使用[[Fixed-Effect and Random-Effects Models|随机效应模型]]对132项非[[Experimental Research|实验研究]]的752个效应量进行了元分析，并考察了[[Epistemic Cognition|认识论认知]][[Construct|构念]]、成就类型等多种调节变量。
 
 ---
