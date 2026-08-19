@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中把具体知识主张转化为开放且一般化认识论探究的核心问题形式，用于组织跨领域分析，并在并发学习中连接反思与实践。"
 type: concept
 domain: "curriculum"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

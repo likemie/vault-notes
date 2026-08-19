@@ -9,7 +9,7 @@ summary: "将Pearson相关扩展到两个或多个预测变量的推断统计方
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-08-19
 ---
 
 # Multiple Regression

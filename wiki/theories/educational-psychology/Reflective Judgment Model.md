@@ -3,13 +3,12 @@ title: Reflective Judgment Model
 summary: "King和Kitchener提出的关于个体如何理解认知过程并为劣构问题提供辩护的七阶段反思性判断模型。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 6
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 9
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 aliases:
   - "反思性判断模型"
-  - "reflective judgment model"
 tags:
   - "theme/epistemological-beliefs"
 related_concepts:
@@ -30,7 +29,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-19
 ---
 
 # Reflective Judgment Model

@@ -16,10 +16,29 @@ tags:
   - "level/secondary"
   - "subject/science"
   - "method/quantitative"
-related_concepts: []
-related_theories: []
-related_methods: []
-related_instruments: []
+related_concepts:
+  - "[[Epistemological Beliefs]]"
+  - "[[Academic Achievement]]"
+  - "[[Task Structure]]"
+  - "[[Reflexivity]]"
+  - "[[Epistemology]]"
+  - "[[Analytic Framework]]"
+  - "[[Hypothesis]]"
+  - "[[Questionnaire]]"
+  - "[[Order Effects]]"
+  - "[[Variable]]"
+  - "[[Metacognition]]"
+  - "[[Ways of Knowing]]"
+  - "[[Statistical Significance]]"
+related_theories:
+  - "[[Reflective Judgment Model]]"
+related_methods:
+  - "[[Survey Research]]"
+  - "[[Exploratory Factor Analysis]]"
+  - "[[t-test]]"
+  - "[[Multiple Regression]]"
+related_instruments:
+  - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -85,17 +104,17 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **问卷调查与因子分析**<br>[[Survey Research]] & [[Exploratory Factor Analysis\|EFA]] | 采用加拿大中学生修订版 52 题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点 Likert 计分），结合主轴因子提取与 Varimax 正交旋转，识别中学生认识论信念的底层因子维度。（pp.314–315, 317–318） |
-> | **学业成就与群体差异检验**<br>[[Multivariate Analysis of Variance\|MANOVA]] & [[t-test]] | 自编 14 题人口学问卷（DQ）采集学业平均分预估值（EOAA，与实际成绩相关 $r = .91$）。运用多变量方差分析与事后 $t$ 检验，对比公立与教会学校、不同学业水平组（高/中/低）及性别间的认识论信念差异。（pp.314, 318–320） |
+> | **学业成就与群体差异检验**<br>MANOVA & [[t-test]] | 自编 14 题人口学问卷（DQ）采集学业平均分预估值（EOAA，与实际成绩相关 $r = .91$）。运用多变量方差分析与事后 $t$ 检验，对比公立与教会学校、不同学业水平组（高/中/低）及性别间的认识论信念差异。（pp.314, 318–320） |
 > | **组内平衡任务实验**<br>Counterbalanced Within-Subject Design | 在独立学校 89 名学生中实施平衡顺序设计的两类癌症学术任务（各4节80分钟课时完成）：[[Task Structure\|良构任务]]（“个人生活方式计划”，提供先行组织者、打包资料与细化评分表）与劣构任务（“专案组癌症资金分配辩护”，需自行检索资料、权衡预防与治疗、撰写议论文）。（pp.315–316） |
-> | **任务表现与反思性判断评定**<br>Rubric Scoring & [[Reflective Judgment Model\|RJ]] Rating | 任务总分采用评分量规（权重 .90）与 10 题单选题（权重 .10）合成（评分者信度 $r = .88 \sim .93$）；劣构任务中基于 King and Kitchener (1994) 模型独立评定 1–5 分的反思性判断得分（评分者信度 $r = .89$）。（pp.316–317） |
+> | **任务表现与反思性判断评定**<br>Rubric Scoring & [[Reflective Judgment Model\|RJ]] Rating | 任务总分采用评分量规（权重 .90）与 10 题单选题（权重 .10）合成（评分者信度 $r = .88 \sim .93$）；劣构任务中基于 King & Kitchener (1994) 模型独立评定 1–5 分的反思性判断得分（评分者信度 $r = .89$）。（pp.316–317） |
 > | **分层与多元回归分析**<br>[[Multiple Regression]] | 采用多元回归与分层回归，在控制学校导向因子（确定知识）前后，分别检验[[Epistemological Beliefs\|认识论信念]]对[[Academic Achievement\|学业成就]]、两类任务总成绩及[[Reflexivity\|反思性]]判断得分的预测力。（pp.318–321） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
 > | **总样本（Combined Sample）** | 447名十年级科学课学生（男生219人，女生228人；平均年龄15.3岁；85%白人、9%亚裔、6%其他；中产阶级为主；来自大温哥华地区5所公立学校与1所独立学校）。（pp.313–314） |
-> | **公立学校子样本（Public School Sub-sample）** | 358名学生（男生174人，女生184人；平均年龄15.2岁；86%白人、7.5%亚裔、6.4%其他）。（p.313） |
-> | **独立学校子样本（Independent School Sub-sample）** | 89名学生（男生45人，女生44人；平均年龄15.3岁；全员具备新教基督信仰；完成两项学术任务与全部[[Questionnaire\|问卷]]）。（pp.313–314） |
+> | **公立学校子样本（Public School Sub-sample）** | 358名学生（男生174人，女生184人；平均年龄15.2岁；86%白人、7.5%亚裔、6.4%其他）。 |
+> | **独立学校子样本（Independent School Sub-sample）** | 89名学生（男生45人，女生44人；平均年龄15.3岁；全员具备新教基督信仰；完成两项学术任务与全部[[Questionnaire\|问卷]]）。 |
 > | **材料情境** | 问卷与任务均在常规科学课课时由第一作者与任课教师共同施测；任务按班级轮换平衡先后顺序以排除[[Order Effects\|顺序效应]]与时间效应。（p.314） |
 
 ---
@@ -180,7 +199,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > 性别比较表明：
 > - **学业表现** 女生的总体学业成就预估值显著高于男生（$M = 76.90$ vs $72.05, t[444] = 3.99, p < .001$）；在两项学术任务中表现亦显著优于男生（IST: $M = 71.64$ vs $63.88, t[87] = 2.08, p = .04, ES = .44$；WST: $M = 75.60$ vs $65.12, t[87] = 2.92, p = .004, ES = .58$）。（pp.321–322）
-> - **认识论信念** MANOVA 显示性别主效应显著（$F[3,437] = 12.82, p < .001, \eta^2 = .08$）。女生在 FQAL（$M = -.19$ vs $.20, t[439] = -5.07, p < .001, \eta^2 = .06$）和 CK（$M = -.10$ vs $.11, t[439] = -2.59, p = .01, \eta^2 = .02$）上显著比男生更成熟，而在 SK 上男女无显著差异。（pp.321–322）
+> - **认识论信念** MANOVA 显示性别主效应显著（$F[3,437] = 12.82, p < .001, \eta^2 = .08$）。女生在 FQAL（$M = -.19$ vs $.20, t[439] = -5.07, p < .001, \eta^2 = .06$）和 CK（$M = -.10$ vs $.11, t[439] = -2.59, p = .01, \eta^2 = .02$）上显著比男生更成熟，而在 SK 上男女无显著差异。
 
 > [!warrant]- 推理桥梁
 > 男生更为朴素的固定能力与确定性知识信念，可能直接削弱了其在长周期学习与复杂任务中的坚持性与元认知投入，部分解释了其学业表现与任务成绩的相对落后；但生物学性别可能内嵌了社会化、[[Ways of Knowing|认知方式]]与情感维度的复杂交互。（pp.322, 324–325）
@@ -221,7 +240,7 @@ issuing_organization: ""
 > [!warning]
 > 1. **一般性与领域/任务特殊性测量的张力** 研究采用的 [[Schommer's Modified Epistemological Questionnaire|SMEQ]] [[Questionnaire|问卷]]属于领域一般性（general）[[Epistemological Beliefs|认识论信念]]测量，而在具体科学学科任务中，一般性信念可能未能完全捕捉特定学科或特定任务微观情境下的信念动态，未来需开发针对具体任务与学科领域的精细测量工具。（pp.324–325）
 > 2. **宗教办学导向与家庭背景的潜在混杂** 独立基督教学校学生在确定知识上的成熟度虽高于公立学校，但由于公立学校样本中亦可能存在信教学生，且独立学校学生的家庭社会经济地位与家庭教育环境可能存在未被完全控制的混淆[[Variable|变量]]，因果机制尚需深入检验。（p.323）
-> 3. **性别二元分类的局限性** 仅以生理性别（男/女）进行分组可能掩盖了更具解释力的“性别角色认同（男性化/女性化维度）”、认识方式及情绪感受对[[Epistemology|认识论]]思维的深层影响。（pp.324–325）
+> 3. **性别二元分类的局限性** 仅以生理性别（男/女）进行分组可能掩盖了更具解释力的“性别角色认同（男性化/女性化维度）”、认识方式及情绪感受对[[Epistemology|认识论]]思维的深层影响。
 
 ---
 

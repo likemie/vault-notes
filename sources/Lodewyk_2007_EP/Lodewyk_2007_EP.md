@@ -1,6 +1,7 @@
 ---
 citation: "Lodewyk, K. R. (2007). Relations among epistemological beliefs, academic achievement, and task performance in secondary school students. Educational Psychology, 27(3), 307–327. https://doi.org/10.1080/01443410601104080"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Lodewyk_2007_EP]]"
 processed_date: 2026-08-19
 ---
 
