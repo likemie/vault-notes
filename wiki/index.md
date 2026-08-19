@@ -2403,7 +2403,7 @@ Total entries: **1872**
 > - [[Argument_Zemplen_2007_SciEduc]] — 以 IB 知识论课程为案例，揭示批判性思维议程与科学教育议程之间的深层张力，提出三种协调路径
 
 > [!index-list]- Science Education (1)
-> - [[Argument_Sandoval_2005_SE]] — 本文回顾了关于学生科学本质信念和探究实践的研究，指出两者之间存在脱节，并提出必须研究指导学生自身探究的“实践认识论”，以弥合这一差距并促进科学认识论的发展。
+> - [[Argument_Sandoval_2005_SE]] — 关于学生科学本质信念和探究实践的研究存在脱节，必须研究指导学生自身探究的实践认识论，以弥合这一差距并促进科学认识论的发展。
 
 > [!index-list]- Sociology of Education (1)
 > - [[Argument_Downey_2016_SoE]] — 在 Coleman Report 50 周年重新审视学校与不平等的关系，提出折射框架调和批判视角与季节性比较证据，论证学校对 SES 认知差距是补偿性的
