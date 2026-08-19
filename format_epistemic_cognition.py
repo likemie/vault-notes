@@ -1,95 +1,27 @@
----
-title: Epistemic Cognition
-aliases:
-  - 认识论认知
-summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
-type: concept
-domain: "educational-psychology"
-related_count: 31
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
-tags: []
-related_concepts:
-  - "[[Epistemology]]"
-  - "[[Justificatory Standards]]"
-  - "[[Epistemic Aims]]"
-  - "[[Praxis]]"
-  - "[[Epistemological Beliefs]]"
-  - "[[Epistemic Commitments]]"
-  - "[[Critical Thinking]]"
-  - "[[Epistemic Value]]"
-  - "[[Epistemic Virtues and Vices]]"
-  - "[[Causal Processes]]"
-  - "[[Ontology]]"
-  - "[[Epistemic Resources]]"
-  - "[[Epistemic Climate]]"
-  - "[[Dependent Variable]]"
-  - "[[Confidence Interval]]"
-  - "[[Heterogeneity]]"
-  - "[[Academic Achievement]]"
-  - "[[Variable]]"
-  - "[[Construct]]"
-  - "[[Publication Bias]]"
-related_theories:
-  - "[[Situative Perspective]]"
-  - "[[Cognitive Constructivism]]"
-  - "[[Integrative Pluralism]]"
-related_methods:
-  - "[[Discourse Analysis]]"
-  - "[[Ethnography]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Triangulation]]"
-  - "[[Meta-analysis]]"
-related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments:
-  - "[[Argument_Chinn_2011_EP]]"
-  - "[[Argument_Sandoval_2016_RRE]]"
-  - "[[Argument_Greene_2018_JEP]]"
-confidence: high
-status: draft
-created: 2026-08-17
-updated: 2026-08-19
----
-# Epistemic Cognition
+import re
+
+filepath = "wiki/concepts/educational-psychology/Epistemic Cognition.md"
+with open(filepath, "r") as f:
+    text = f.read()
+
+frontmatter_match = re.search(r'^---.*?^---\n', text, re.MULTILINE | re.DOTALL)
+frontmatter = frontmatter_match.group(0) if frontmatter_match else ""
+
+new_content = """# Epistemic Cognition
 （认识论认知）
 
----
-
-## 定义
-
-> [!def] 核心定义
+> [!abstract] 定义与内涵
 > [[Epistemic Cognition|认识论认知]]是指个体在获取、理解、证成和运用知识时，对“知识本质”（知识是什么）和“认知过程”（如何获得知识）的潜在信念、标准与思维过程。它回答了学习者内心深处的终极问题：“我如何知道我所知道的是真的？”
+>
+> 相比于早期文献中常用的“认识论信念（Epistemological Beliefs）”，当前的“认识论认知（Epistemic Cognition）”是一个更为宽泛且具包容性的伞形术语。它不再假定个体头脑中存在一套像特质一样稳固、脱离情境的“信念组合”，而是强调认知过程的动态性、情境性和社会互动性。
 
-> [!concept-lens] 概念透镜
-> - **含义** 这个概念指向学生在面对复杂信息时，调用的知识确证标准与心智过程。相比于早期文献中常用的“认识论信念（Epistemological Beliefs）”，它是一个更为宽泛且具包容性的伞形术语，强调认知的动态性、情境性和社会互动性。
-> - **用途** 它帮助研究者看见为什么学生在面临学术任务时会采取不同的探究深度，以及为何他们对同一论据会有完全不同的采信标准。
-> - **边界** 它不适合解释缺乏“追求真实（truth）”动机的纯智力游戏或单纯的话术辩论。
+> [!feature] 核心排他性特征
+> 并非所有的高阶认知活动都属于认识论认知。Chinn 等人明确了其排他性边界：
+> - **必须受认识目标（Epistemic Aims）驱动** 其核心动机必须是为了追求真实（truth）、避免虚假（avoiding falsehood）、或获取合理的理解（justified understanding）。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
+> - **非认识论倾向（Nonepistemic Dispositions）** 如果目标仅仅是指向展示口才、打发时间或单纯的思考乐趣（例如享受辩论的智力挑战，但仅为了赢得比赛），则缺乏追求真理的纯粹偏好，不属于认识论认知。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
 
-> [!boundary]- 概念边界
-> - 不等于 **非认识论倾向（Nonepistemic Dispositions）** — 如果个体的目标仅仅是指向展示口才、打发时间或单纯的思考乐趣，则缺乏追求真理的纯粹偏好，不属于认识论认知。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
-> - 不等于 **无差别的怀疑主义** — 认识论认知构成了**建构性批判（Constructive Critique）**的核心支撑，它引导学习者进行合理信任（Calibrated Trust），而非盲目抬杠或陷入认识论虚无主义。
-
----
-
-## 核心要素
-
-> [!taxonomy] 认识论认知的四大理论流派
-> [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 总结了该领域四种完全不同的本体论架构：
-> - **发展论模型（Developmental Models）** 认为个体的认识论经历从“绝对主义（非黑即白）”到“多元主义（相对主义）”再到“评价主义（基于证据的客观评价）”的线性发展。
-> - **独立信念系统（Independent Beliefs）** 认为认识论是由多个独立维度（如知识的确定性、简单性等）组成的稳定系统。
-> - **认识论资源库（Epistemic Resources）** 彻底摒弃了宏大的稳定信念假设，主张认知是微观的、细粒度的“资源”，个体在面对不同情境时会瞬间激活不同的资源组合。
-> - **整合框架（Integrated Frameworks）** 试图弥合稳定信念与情境资源之间的鸿沟，强调微观组件与多层级互动的动态统一。
-
-> [!feature] 认识论认知的微观构成
-> 根据 Chinn 等人的整合框架，真正的认识论认知必须包含五个排他性微观组件：
-> - **认识目标与价值** 探究中追求真理或确证等目标。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
-> - **知识结构** 包括普遍性与特殊性、决定论与随机性。
-> - **来源与确证** 涵盖感知、推理、证词及不同情境下的确证标准。
-> - **认识论美德与恶习** 思想开放、理智勇气等性格倾向。
-> - **可靠与不可靠的过程** 涵盖产生信念的因果过程及其有效性判定。
+> [!critique-logic] 理论延伸：批判性思维的两种形态
+> 认识论认知构成了**建构性批判（Constructive Critique）**的核心支撑。传统教育常将[[Critical Thinking|批判性思维]]简化为“无差别的怀疑一切”（即缺乏确证标准支撑的表面质疑），这极易使学习者陷入认识论虚无主义（盲目抬杠或愤世嫉俗）。而成熟的认识论认知能够引导学习者进行**合理信任（Calibrated Trust）**，在面对复杂冲突信息时，既不盲从权威，也不盲目拒斥。
 
 ---
 
@@ -188,3 +120,7 @@ updated: 2026-08-19
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 包含五个组件的扩展认识论认知框架推动了研究向细粒度和情境化方向发展。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（本体论、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“整合多元主义”主张。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 提供了一项大规模的元分析，评估了认识论认知对学业成就的预测效应，澄清了信度与对齐规则的核心地位。
+"""
+
+with open(filepath, "w") as f:
+    f.write(frontmatter + new_content)

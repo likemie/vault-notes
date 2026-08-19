@@ -1,59 +1,13 @@
----
-title: Epistemic Cognition
-aliases:
-  - 认识论认知
-summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
-type: concept
-domain: "educational-psychology"
-related_count: 31
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
-tags: []
-related_concepts:
-  - "[[Epistemology]]"
-  - "[[Justificatory Standards]]"
-  - "[[Epistemic Aims]]"
-  - "[[Praxis]]"
-  - "[[Epistemological Beliefs]]"
-  - "[[Epistemic Commitments]]"
-  - "[[Critical Thinking]]"
-  - "[[Epistemic Value]]"
-  - "[[Epistemic Virtues and Vices]]"
-  - "[[Causal Processes]]"
-  - "[[Ontology]]"
-  - "[[Epistemic Resources]]"
-  - "[[Epistemic Climate]]"
-  - "[[Dependent Variable]]"
-  - "[[Confidence Interval]]"
-  - "[[Heterogeneity]]"
-  - "[[Academic Achievement]]"
-  - "[[Variable]]"
-  - "[[Construct]]"
-  - "[[Publication Bias]]"
-related_theories:
-  - "[[Situative Perspective]]"
-  - "[[Cognitive Constructivism]]"
-  - "[[Integrative Pluralism]]"
-related_methods:
-  - "[[Discourse Analysis]]"
-  - "[[Ethnography]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Triangulation]]"
-  - "[[Meta-analysis]]"
-related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments:
-  - "[[Argument_Chinn_2011_EP]]"
-  - "[[Argument_Sandoval_2016_RRE]]"
-  - "[[Argument_Greene_2018_JEP]]"
-confidence: high
-status: draft
-created: 2026-08-17
-updated: 2026-08-19
----
-# Epistemic Cognition
+import re
+
+filepath = "wiki/concepts/educational-psychology/Epistemic Cognition.md"
+with open(filepath, "r") as f:
+    text = f.read()
+
+frontmatter_match = re.search(r'^---.*?^---\n', text, re.MULTILINE | re.DOTALL)
+frontmatter = frontmatter_match.group(0) if frontmatter_match else ""
+
+new_content = """# Epistemic Cognition
 （认识论认知）
 
 ---
@@ -86,10 +40,10 @@ updated: 2026-08-19
 > [!feature] 认识论认知的微观构成
 > 根据 Chinn 等人的整合框架，真正的认识论认知必须包含五个排他性微观组件：
 > - **认识目标与价值** 探究中追求真理或确证等目标。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
-> - **知识结构** 包括普遍性与特殊性、决定论与随机性。
-> - **来源与确证** 涵盖感知、推理、证词及不同情境下的确证标准。
-> - **认识论美德与恶习** 思想开放、理智勇气等性格倾向。
-> - **可靠与不可靠的过程** 涵盖产生信念的因果过程及其有效性判定。
+> - **知识结构** 包括普遍性与特殊性、决定论与随机性。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
+> - **来源与确证** 涵盖感知、推理、证词及不同情境下的确证标准。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
+> - **认识论美德与恶习** 思想开放、理智勇气等性格倾向。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
+> - **可靠与不可靠的过程** 涵盖产生信念的因果过程及其有效性判定。[[Argument_Chinn_2011_EP|(Chinn et al., 2011)]]
 
 ---
 
@@ -188,3 +142,7 @@ updated: 2026-08-19
 > - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 包含五个组件的扩展认识论认知框架推动了研究向细粒度和情境化方向发展。
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（本体论、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“整合多元主义”主张。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 提供了一项大规模的元分析，评估了认识论认知对学业成就的预测效应，澄清了信度与对齐规则的核心地位。
+"""
+
+with open(filepath, "w") as f:
+    f.write(frontmatter + new_content)
