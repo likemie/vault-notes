@@ -22,28 +22,45 @@ tags:
   - method/longitudinal
   - method/sem
 related_concepts:
+  - "[[Cultural Capital]]"
   - "[[Academic Achievement]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Cultural Capital]]"
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Variable]]"
   - "[[Enculturation]]"
   - "[[Certainty of Knowledge]]"
-  - "[[Metacognition]]"
-  - "[[Questionnaire]]"
-  - "[[Falsification]]"
   - "[[Reflexivity]]"
+  - "[[Analytic Framework]]"
+  - "[[Metacognition]]"
+  - "[[Paradigm]]"
+  - "[[Multiplicity]]"
+  - "[[Questionnaire]]"
+  - "[[Construct]]"
+  - "[[Epistemological Theories]]"
+  - "[[Falsification]]"
+  - "[[Simplicity of Knowledge]]"
+  - "[[Source of Knowledge]]"
+  - "[[Justification for Knowing]]"
+  - "[[Rote Learning]]"
+  - "[[Effect Size]]"
+  - "[[Theoretical Perspective]]"
+  - "[[Hypothesis]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Standard Error]]"
   - "[[Likert Scale]]"
-  - "[[Hypothesis]]"
   - "[[Domain Specificity]]"
   - "[[Ecological Validity]]"
 related_theories:
   - "[[Perry's Scheme of Intellectual and Ethical Development]]"
+  - "[[Reflective Judgment Model]]"
 related_methods:
+  - "[[Cohort Study]]"
   - "[[Longitudinal Study]]"
   - "[[Causal Modeling]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Multiple Regression]]"
 related_instruments:
   - "[[Global Certainty Scale]]"
 related_persons: []
@@ -62,9 +79,9 @@ title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 22
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 0
+argument_related_level: 0
+argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
 journal: "Contemporary Educational Psychology"
 book_title: ""
@@ -79,15 +96,15 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 学生的科学知识确定性信念（认为科学知识是确定、稳定和绝对真理）能否在严格控制一般认知能力、性别与家庭背景后，独立预测其中学[[Academic Achievement|学业成就]]？同时，不同大学专业学生之间显著的[[Epistemological Beliefs|认识论信念]]差异，究竟是由进入大学前的“自我选择效应”（self-selection）所致，还是由大学专业环境塑造的“学科社会化效应”（socialization）所致？
+> 学生的科学知识确定性信念（认为科学理论是绝对确定、不可改变的永恒真理）能否在严格控制一般认知推理能力（$g$ 因子）、性别与家庭社会经济背景（SES 及[[Cultural Capital|文化资本]]）的前提下，独立预测其中学[[Academic Achievement|学业成就]]？同时，不同大学专业门类学生之间显著的[[Epistemological Beliefs|认识论信念]]分化，究竟是由进入大学前的“自我选择效应”（self-selection）所致，还是由大学专业环境长期浸润的“学科社会化效应”（socialization）所致？
 
 > [!claim] 核心主张
-> 科学知识确定性信念是独立于智力与社会经济地位的负向学业成就预测源，并部分中介了认知能力与家庭[[Cultural Capital|文化资本]]对学业表现的影响；不同学科间的认识论信念差异同时受自我选择与学科社会化的双重机制驱动——高中阶段已有显著的专业意向分化，而大学就读经验则进一步拉大了“硬科学/应用学科”与“软科学/人文学科”之间的[[Epistemology|认识论]]鸿沟。
+> 科学知识确定性信念是独立于认知能力与家庭阶层背景的负向学业成就预测源，并在因果链条上部分中介了认知能力与家庭文化资本对学业成绩的促进效应；不同学科间的认识论信念分化同时受自我选择与学科社会化的双重机制驱动——高中毕业生在专业选择前已存在显著的[[Epistemology|认识论]]自我分流，而大学就读经验则进一步拉大了“硬科学/应用学科”与“软科学/人文学科”之间的认识论鸿沟。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 德国巴登-符腾堡州高级文理中学（Gymnasium）高三毕业生及其在升入大学两年后的追踪队列（TOSCA 项目）。
-> - **张力** 以往关于认识论信念与学业成绩关系的研究结果多有矛盾且[[Sample Size Determination|样本量]]较小，未能充分排除认知能力与家庭 SES 混淆；以往关于学科间认识论差异的研究多为横截面设计，无法在分析上有效区分选择效应与社会化效应。
-> - **贡献** 首次基于大规模代表性纵向样本和两波追踪数据，运用潜[[Variable|变量]]结构方程模型确立了确定性信念对学业成就的净效应及中介机制，并从纵向因果链条上证实了专业选择中的“自我选择—社会化”复合发展机制。
+> - **对象** 德国巴登-符腾堡州 90 所代表性高级文理中学（Gymnasium）高三毕业生（T1 $N = 2854$）及其在升入全德近百所高校两年后的追踪队列（T2 $N = 1094$）（TOSCA 项目）。
+> - **张力** 既往关于认识论信念与学业表现关系的研究结果充满矛盾且[[Sample Size Determination|样本量]]普遍较小，未能有效排除智力与家庭资本等关键第三[[Variable|变量]]混淆；既往关于学科认识论差异的研究多为横截面设计，无法在分析上有效分离生源先验选择效应与大学环境社会化效应。
+> - **贡献** 首次基于大规模代表性两波纵向追踪数据，运用潜变量结构方程模型确立了确定性信念对学业表现的独立净效应与中介机制，并从纵向因果面板上证实了学科专业分化中的“先验自我选择—后继学科社会化”复合发展机制。
 
 ---
 
@@ -96,12 +113,67 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **认知发展阶段图式**<br>[[Perry's Scheme of Intellectual and Ethical Development\|Perry's Scheme of Intellectual and Ethical Development]] | 将[[Epistemology\|认识论]]发展描述为从二元论（非黑即白、权威掌握真理）、多元论到相对主义与承诺的演变过程；主张学校和学科环境提供了促进认识论思维发展的涵化（[[Enculturation]]）情境。 |
-> | **多维认识论信念体系**<br>[[Epistemological Beliefs\|Epistemological Beliefs]] | Schommer (1990) 与 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 将认识论信念划分为相互区别的维度，其中[[Certainty of Knowledge\|知识的确定性]]（Certainty of Knowledge）构成衡量个体知识观成熟度的核心维度；幼稚的确定性信念促使学生采取低水平表层信息加工，进而损害学业成就。 |
-> | **发展路径中的自我选择与社会化模型**<br>Self-Selection and Socialization Hypotheses | Pulkkinen & Caspi (2002) 提出的生命历程发展假说，用于区分个体基于已有特质主动选择环境的“自我选择效应”与进入环境后受特定规范熏陶同化的“社会化效应”。 |
+> | **认知发展阶段图式**<br>[[Perry's Scheme of Intellectual and Ethical Development\|Perry's Scheme of Intellectual and Ethical Development]] | 将[[Epistemology\|认识论]]发展界定为从二元论（非黑即白、权威掌握绝对真理）、多元论到相对主义与承诺的单向演进过程；主张教育环境通过“涵化（[[Enculturation]]）”机制重塑学生的认识论思维。 |
+> | **多维认识论信念体系**<br>[[Epistemological Beliefs\|Epistemological Beliefs]] | Schommer (1990) 打破阶段论假说，提出多维独立信念模型；[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步提炼出“知识的本质”与“认知的本质”四大核心维度，确立[[Certainty of Knowledge\|知识的确定性]]（Certainty of Knowledge）为认知成熟度的核心指标。 |
+> | **反思性判断模型**<br>Reflective Judgment Model | King & Kitchener (1994) 构建认知发展阶梯，阐明个体如何从前反思阶段（确信知识是确定给定的）过渡到准反思阶段（承认知识具有不确定性），最终达成[[Reflexivity\|反思性]]判断（在语境与证据中建构概率性判断）。 |
+> | **学科环境与生命历程模型**<br>Self-Selection and Socialization Hypotheses | Biglan (1973) 与 Jehng et al. (1993) 的“硬科学 vs. 软科学”学科文化分类，结合 Pulkkinen & Caspi (2002) 的生命历程发展模型，提供区分个体先验特质主动匹配（自我选择）与环境规范持续塑造（社会化）的[[Analytic Framework\|分析框架]]。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架为研究提供了双重推论逻辑：一方面，认识论信念作为指导学习与认知加工的“个人理论”，其成熟度决定了学生在面对劣构问题和复杂学术材料时的[[Metacognition|元认知]]与深层加工策略，因而能直接转化为[[Academic Achievement|学业表现]]差距；另一方面，不同学科在知识确定性上的认识论文化差异，既成为中学生依据自身信念进行学科选择的过滤网（自我选择），又在入学后通过学科训练持续塑造和极化学生的认知取向（社会化）。
+> 理论框架为研究提供了双重推论逻辑：一方面，认识论信念作为指导学习与认知加工的“个人理论”，其成熟度决定了学生在面对劣构问题和复杂学术材料时的[[Metacognition|元认知]]监控与深层加工策略，因而能直接转化为[[Academic Achievement|学业表现]]差距；另一方面，不同学科在知识确定性上的认识论文化差异，既成为中学生依据自身信念进行学科选择的过滤网（自我选择），又在入学后通过学科训练持续塑造和极化学生的认知取向（社会化）。
+
+---
+
+### 认识论信念的构念演化与维度提纯
+
+> [!dev-timeline] 认识论研究的三大理论[[Paradigm|范式]]演进
+> - **1970 年代 — 发展阶段论起源** Perry (1970) 通过对哈佛大学本科生的深度追踪访谈，开创了认识论信念研究。他提出个体认知经历四大发展阶段：二元论（Dualism，视世界为非黑即白，权威掌握正确答案） $\to$ 多元论（[[Multiplicity]]，承认存在不同观点，但坚信未来科学终将给出标准答案） $\to$ 相对主义（Relativism，认识到所有知识皆为人类主观建构，具有暂时性与语境依赖性） $\to$ 相对主义中的承诺（Commitment within Relativism，在承认无绝对真理的前提下主动确立学术与价值立场）。King & Kitchener (1994) 的[[Reflective Judgment Model|反思性判断模型]]（RJM）进一步将应对不确定性确立为高阶心智的核心特征。
+> - **1990 年 — 多维量表化转向** Schommer (1990) 批评访谈法耗时且难以大规模量化，提出了认识论[[Questionnaire|问卷]]（EQ），主张个体的认识论系统由相互独立的维度构成，不必在所有维度上同步发展。其模型包含四个维度：知识的稳定性（Stability of Knowledge，即确定性）、知识的结构（Structure of Knowledge，即简单性）、学习的速度（Speed of Learning）、学习的能力（Ability to Learn）。
+> - **1997 年 — 理论框架重构与[[Construct|构念]]提纯** [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 系统审查过往模型，指出 Schommer 模型混入了隐性智力理论（能力是否固定）和学习任务预期（学习快慢）等外围心理特质。他们倡导将构念提纯为严格指向知识与认知的四大核心维度，并重构为内部连贯的“个人理论（personal theories）”。
+
+> [!dimension] [[Epistemological Theories|认识论理论]]的核心分析维度
+> - **【知识的本质】知识的确定性（Certainty of Knowledge）**
+>   个体关于科学理论与知识究竟是绝对固定、不可置疑的永恒真理，还是暂时演变、随时可被[[Falsification|证伪]]的主观建构之信念。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 119)]]
+> - **【知识的本质】[[Simplicity of Knowledge|知识的简单性]]（Simplicity of Knowledge）**
+>   将知识视为孤立、离散的事实集合，还是高度互联、具有复杂权衡的概念网络。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 120)]]
+> - **【认知的本质】[[Source of Knowledge|知识的来源]]（Source of Knowledge）**
+>   知识是由外部权威单向传授灌输的，还是认知者作为主体主动参与意义建构生成的。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 120)]]
+> - **【认知的本质】[[Justification for Knowing|认知的辩护]]（Justification for Knowing）**
+>   个体依据什么评估知识主张并为之辩护——是诉诸权威断言、个人直觉，还是依据经验证据与逻辑论证进行概率性评价。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 121)]]
+
+---
+
+### 确定性信念与学业成就的理论机制与实证争议
+
+> [!factors] 确定性信念作用于学业学习的心理机制
+> - **信息加工深度与策略选择** 持有高确定性信念的学生倾向于采用表层加工策略与[[Rote Learning|死记硬背]]（Rote Learning），期望直接获取“标准答案”；持有低确定性信念的学生则更倾向于采用精加工策略（Elaboration）与深层反思（Ryan, 1984; Köller et al., 2000）。
+> - **劣构问题推断与偏误抵御** 在面对复杂、争议性现实议题（如艾滋病病因）时，高确定性信念个体倾向于忽视信息的未定性，过早得出绝对化、草率的结论（Kardash & Scholes, 1996; Schommer, 1990）。
+> - **认知能力的放大器效应** 基础认知推理能力高（High Cognitive Ability）的学生更能从挑战过度简化知识的学校教学中获益，从而发展出成熟的非确定性知识观。（p.353）
+> - **家庭[[Cultural Capital|文化资本]]与环境刺激** 拥有更高文化资本（家庭藏书量丰富）和高社会经济地位的家庭，能提供更具启发性的认知环境，更有能力示范和鼓励孩子应对知识的不确定性。（p.353）
+
+> [!debates] 既往实证研究的矛盾与方法学缺陷
+>
+> > [!axis] 确定性维度与学业成绩预测力的争议
+> > - **Schommer (1993, 1997) 的否定性证据** 在针对千余名中学生的横截面与[[Cohort Study|追踪研究]]中，尽管确定性信念与 GPA 存在零阶负相关，但在控制言语智力（Verbal IQ）后，确定性维度的预测力完全消失，仅“快速学习”维度保持显著。Schommer et al. (1992) 在数学测验中也未发现确定性信念的显著效应。
+> > - **Hofer (2000) 与 Köller et al. (2000) 的支持性证据** Hofer (2000) 发现领域一般与领域特殊的确定性分数是大学生成绩最强的负向预测源；Köller et al. (2000) 基于德国 TIMSS 样本发现物理确定性信念显著负向预测物理成绩（部分通过降低学科兴趣中介）。
+>
+> > [!axis] Wood & Kardash (2002) 的三大方法论诊断
+> > 早期认识论实证研究结果之所以高度矛盾，主要源于三大设计缺陷：
+> > 1. **统计功效不足（Lack of Statistical Power）** [[Sample Size Determination|样本量]]过小，缺乏检验中低[[Effect Size|效应量]]（Small-to-Moderate Effect Sizes）的统计功效；
+> > 2. **偶遇样本局限（Convenience Samples）** 多依赖同质性极高的高校便利样本，限制了变异范围；
+> > 3. **关键混淆[[Variable|变量]]遗漏（Omission of Third Variables）** 多数研究未同时控制基础认知智力与家庭社会经济背景（SES 与文化资本），导致潜在虚假相关难以排除。
+
+---
+
+### 学科认识论分化的理论模型：自我选择 vs. 学科社会化
+
+> [!contrast-table] 学科认识论分化的两大竞争性[[Theoretical Perspective|理论视角]]
+> | 分析维度 | 自我选择假说（Self-Selection [[Hypothesis]]） | 学科社会化假说（Socialization / Enculturation Hypothesis） |
+> |----------|-----------------------------------------|----------------------------------------------------------|
+> | **理论源起** | 生命历程发展模型（Pulkkinen & Caspi, 2002） | 认知涵化理论（Perry, 1970; Jehng et al., 1993） |
+> | **发生时序** | 进入大学前（中学毕业阶段） | 进入大学后（大学就读期间） |
+> | **核心机制** | 个体基于先验认识论信念主动挑选与其知识观契合的学科（如寻求确定事实者主动报考工科与商科） | 学科专业共同体的学术文化、认识论范式与教学训练持续重塑学生的认知图式（"learn correct diction or couth behavior"） |
+> | **既往证据局限** | 横截面研究（Jehng et al., 1993; Paulsen & Wells, 1998）无法证实入学前差异是否存在 | Hofer (2000) 发现大一新生在领域一般确定性上无学科差异，提示社会化分化可能在大学期间才发生 |
+> | **本研究检验策略** | 检验 T1 中学毕业阶段未来学科选择意向对确定性信念的预测力（Model 1） | 在控制 T1 初始信念的前提下，检验大学实际就读学科对 T2 确定性信念变化的净效应（Model 3） |
 
 ---
 
@@ -120,7 +192,31 @@ issuing_organization: ""
 > |----------|------|
 > | **T1 调查样本** | 抽自德国巴登-符腾堡州 90 所代表性高级文理中学（Gymnasium，占同龄人口前 30% 精英选拔序列），学校参与率 100%，学生参与率 > 80%；有效样本 $N = 2854$（男生 45%，平均年龄 19.29 岁，标准差 0.79）。 |
 > | **T2 追踪样本** | 1886 名学生（66.4%）签署追踪知情同意书，两年后回收问卷 1495 份；最终纳入可清晰归类大学专业的有效纵向追踪样本 $N = 1094$（分布于全德近 100 所大学）。 |
-> | **专业分类分布** | 划分为七大主要学科门类：人文艺术（257 人，基准组）、数学与自然科学（241 人）、商科/经济（203 人）、工科/工程（142 人）、社会科学（88 人）、医学（84 人）、法学（79 人）。 |
+> | **专业分类分布** | 依据德国官方学科分类（Statistisches Bundesamt, 2001）划分为七大主要学科门类：人文艺术（257 人，基准组）、数学与自然科学（241 人）、商科/经济（203 人）、工科/工程（142 人）、社会科学（88 人）、医学（84 人）、法学（79 人）。401 人就读其他学科、无法归类或未上大学。 |
+
+---
+
+### 测量工具复刻与属性
+
+> [!construct-table] [[Certainty of Knowledge|知识的确定性]]
+> <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
+>
+> | 维度 | 题项数 | 测量内容 | 计分方式 |
+> |---|---|---|---|
+> | 全局科学知识确定性 | 7 | 对科学理论的绝对性、不变性、终极真理性以及可证伪性的总体认知预设 | 4 点计分均值（反向题反向[[Coding in Qualitative Research\|编码]]后求均值或构建潜变量；高分代表高确定性/低[[Epistemology\|认识论]]成熟度） |
+
+> [!ref-table]- Figure 1 题项列表复刻：全局确定性量表（引自 Trautwein & Lüdtke, 2007, p. 355）
+> <span class="instrument-item-table-marker" aria-hidden="true"></span>
+>
+> | 编号 | 题项英文原文 | 题项中文译文 | 作答选项 | 计分规则 |
+> |---|---|---|---|---|
+> | 1 | Scientific theories can be proven false at any time | 科学理论随时可能被证明是错误的 | 1–4 点 | 反向计分（Reverse scored） |
+> | 2 | Scientific theories that we presently consider to be correct can be proven false in the future | 我们目前认为正确的科学理论在未来可能被证明是错误的 | 1–4 点 | 反向计分（Reverse scored） |
+> | 3 | Even scientific knowledge must be revised time and again | 即使是科学知识也必须一次又一次地被修正 | 1–4 点 | 反向计分（Reverse scored） |
+> | 4 | At some stage, scientists will be able to explain the whole world | 在某个阶段，科学家将能够解释整个世界 | 1–4 点 | 正向计分 |
+> | 5 | Scientific research shows that for most problems there is one clear-cut answer | 科学研究表明对于大多数问题都有一个明确的答案 | 1–4 点 | 正向计分 |
+> | 6 | Scientific laws are universal truths | 科学定律是普遍真理 | 1–4 点 | 正向计分 |
+> | 7 | Scientific knowledge is unimpeachable | 科学知识是无可置疑的 | 1–4 点 | 正向计分 |
 
 ---
 
@@ -130,80 +226,179 @@ issuing_organization: ""
 > ```mermaid
 > flowchart TD
 >     subgraph Antecedents["个体先验与背景特征"]
->         CA["认知推理能力 (g)"]
+>         CA["认知推理能力 (g 因子 / KFT 题包)"]
 >         CC["家庭文化资本 (藏书量)"]
 >         SES["家庭社会经济地位 (ISEI)"]
->         GEN["性别与年龄"]
+>         GEN["性别 (女性) 与 年龄"]
 >     end
 > 
 >     subgraph T1_Level["T1 中学毕业阶段"]
->         CB1["科学知识确定性信念 (T1)"]
->         ACH["高中毕业总评成绩 (Abitur)"]
->         SEL["未来专业意向选择 (T1)"]
+>         CB1["科学知识确定性信念 (T1 潜变量, α = .75)"]
+>         ACH["高中毕业总评成绩 (Abiturgesamtnote)"]
+>         SEL["未来专业意向选择 (T1 门类)"]
 >     end
 > 
 >     subgraph T2_Level["T2 大学就读阶段"]
->         MAJ["大学所学专业门类 (硬科学 vs 软科学)"]
->         CB2["科学知识确定性信念 (T2)"]
+>         MAJ["大学实际就读学科 (硬学科 vs. 软学科)"]
+>         CB2["科学知识确定性信念 (T2 潜变量, α = .73)"]
 >     end
 > 
->     CA -->|负向预测| CB1
->     CC -->|负向预测| CB1
->     CA -->|正向直接效应| ACH
->     CC -->|正向直接效应| ACH
->     SES -->|正向直接效应| ACH
->     CB1 -->|β = -0.15 净负向预测 / 中介路径| ACH
+>     CA -->|β = -0.15 抑制确定性| CB1
+>     CC -->|β = -0.13 抑制确定性| CB1
+>     GEN -->|β = -0.18 (女性更低)| CB1
+>     
+>     CA -->|β = 0.29 直接促进| ACH
+>     CC -->|β = 0.16 直接促进| ACH
+>     SES -->|β = 0.10 直接促进| ACH
+>     GEN -->|β = 0.11 (女性更高)| ACH
+>     CB1 -->|β = -0.15 净负向效应 / 中介效应| ACH
 > 
->     CB1 -->|先验分化 / 自我选择| SEL
+>     CB1 -->|先验分化 / 自我选择 (工/商/理/医显著高于文科)| SEL
 >     SEL --> MAJ
 >     MAJ -->|控制 T1 后持续塑造 / 学科社会化| CB2
->     CB1 -->|稳定性 b = 0.54| CB2
+>     CB1 -->|跨期自回归稳定性 b = 0.54| CB2
 > ```
 
 ---
 
-### 论证步骤一 确定性信念对学业成绩的独立负向预测与中介效应
+### 论证步骤一 变量间相关与潜在混淆因素的辨析
 
-> [!claim] 确定性信念是独立于智力与背景的学业阻碍因素
-> 知识确定性信念对高中毕业总评成绩具有显著且稳健的负向预测作用；更重要的是，确定性信念部分中介了一般认知能力、家庭[[Cultural Capital|文化资本]]与性别对[[Academic Achievement|学业成就]]的促进效应。（p.358）
+> [!claim] 确定性信念与学业成绩及背景[[Variable|变量]]呈显著负相关
+> 在双变量层面上，科学知识确定性信念与高中毕业总评成绩、认知推理能力、家庭社会经济地位及[[Cultural Capital|文化资本]]均呈现显著负相关，初步支持了确定性信念对学业成绩的潜在阻碍效应。（p.357）
 
-> [!chain-link] 潜[[Variable|变量]]中介模型证据
-> 在全样本结构方程模型（[[Causal Modeling|SEM]]）分析中，在控制了由 5 个题包构成的认知能力潜变量、家庭 SES（ISEI 指数）、文化资本（藏书量）、性别和年龄后，由 7 个题项构成的确定性信念潜变量对高中毕业总评成绩具有显著的负向路径系数（$\beta = -0.15, p < .001$）。模型拟合优度优秀（$\chi^2(115) = 478.47, \text{TLI} = .952, \text{RMSEA} = .033, \text{SRMR} = .025$）。认知能力（$\beta = 0.29$）、文化资本（$\beta = 0.16$）、家庭 SES（$\beta = 0.10$）和女性（$\beta = 0.11$）均正向预测成绩；同时，认知能力（$\beta = -0.15$）、文化资本（$\beta = -0.13$）和女性（$\beta = -0.18$）显著负向预测确定性信念，证实了确定性信念在智力与家庭资源向学业成果转化中的中介桥梁作用。（pp.357–359）
+> [!chain-link] 变量间相关矩阵证据
+> 在全样本潜变量相关分析中（Table 1），确定性信念与毕业总评成绩呈显著负相关（$r = -.23, p < .05$），与认知能力（$r = -.18$）、家庭文化资本（$r = -.17$）及家庭 SES（$r = -.09$）亦呈显著负相关。高中毕业成绩与认知能力（$r = .33$）、文化资本（$r = .25$）、家庭 SES（$r = .11$）及女性（$r = .10$）呈显著正相关，与年龄呈负相关（$r = -.26$）。（pp.357–358）
+
+> [!ref-table]- Table 1 完整复刻：最终毕业成绩、确定性信念与五个[[Independent Variable|预测变量]]的潜变量互相关矩阵（引自 Trautwein & Lüdtke, 2007, p. 357）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 变量 | 1. 女性（Female） | 2. 年龄（Age） | 3. 家庭 SES | 4. 文化资本 | 5. 认知能力 | 6. 确定性信念 | 7. 最终毕业成绩 |
+> |---|---|---|---|---|---|---|---|
+> | 1. 女性（Female） | — | | | | | | |
+> | 2. 年龄（Age） | -.12 | — | | | | | |
+> | 3. 家庭 SES | .00 | -.17 | — | | | | |
+> | 4. 文化资本（藏书量） | -.01 | -.11 | .52 | — | | | |
+> | 5. 认知能力（KFT） | -.26 | -.18 | .05 | .17 | — | | |
+> | 6. 确定性信念（T1） | -.02 | -.04 | -.09 | -.17 | -.18 | — | |
+> | 7. 最终毕业成绩（Abitur） | .10 | -.26 | .11 | .25 | .33 | -.23 | — |
+>
+> *注：全局确定性、家庭背景和认知能力均设定为潜变量。所有绝对值大于 .06 的相关系数在 $p < .05$ 水平显著。*
 
 > [!warrant]- 推理桥梁
-> 认知能力较高的学生能更有效地从[[Reflexivity|反思性]]教学中受益，识别出知识的复杂性与暂时性；文化资本丰富的家庭则为学生提供了更多质疑过度简化论断的环境刺激。这些优势使得学生发展出更成熟的非确定性[[Epistemological Beliefs|认识论信念]]，进而在需要深层建构与批判性评价的高级中学评价（Abitur）中取得更优异的成绩。（p.353, p.362）
+> 相关矩阵不仅证实了确定性信念与[[Academic Achievement|学业成就]]之间的负向关联，也表明确定性信念与智力、家庭背景存在中度共变。这证实了 Wood & Kardash (2002) 的警告：若不进行多元控制，确定性信念的学业效应极可能属于虚假相关；因此必须进入潜变量[[Causal Modeling|结构方程建模]]阶段。（p.357）
+
+---
+
+### 论证步骤二 确定性信念对高中毕业成绩的净负向预测与中介模型检验
+
+> [!claim] 确定性信念是独立于智力与背景的学业阻碍因素并发挥中介功能
+> 知识确定性信念对高中毕业总评成绩具有显著且稳健的净负向预测作用；同时，确定性信念部分中介了认知能力、家庭文化资本与性别对学业成就的促进效应。（p.358）
+
+> [!chain-link] 潜变量中介结构方程模型证据
+> 构建以 5 个题包代表的认知能力、家庭 SES（父/母最高 ISEI）、文化资本（藏书量）、性别、年龄为外生预测源，以 7 题潜变量确定性信念为中介变量，以毕业总评成绩为最终[[Dependent Variable|结果变量]]的结构方程模型（Figure 2）。模型自由估计了 3 道反向计分题的残差相关以控制方法因子，模型拟合优度极佳（$\chi^2(115) = 478.47, \text{TLI} = .952, \text{RMSEA} = .033, \text{SRMR} = .025$）。（pp.357–358）
+
+> [!ref-table]- 结构方程模型路径系数与拟合指标复刻（Figure 2 结构数据）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 路径关系（自变量 $\to$ 因变量） | 标准化路径系数 $\beta$ | 显著性水平 | 理论含义 |
+> |---|---|---|---|
+> | 确定性信念 $\to$ 最终毕业成绩 | **-0.15** | $p < .001$ | 确定性信念对学业成就的独立净负向预测效应 |
+> | 认知能力 $\to$ 最终毕业成绩 | **0.29** | $p < .05$ | 认知智力对毕业成绩的直接促进效应 |
+> | 文化资本 $\to$ 最终毕业成绩 | **0.16** | $p < .05$ | 家庭文化资本对毕业成绩的直接促进效应 |
+> | 家庭 SES $\to$ 最终毕业成绩 | **0.10** | $p < .05$ | 社会经济地位对毕业成绩的直接促进效应 |
+> | 女性 $\to$ 最终毕业成绩 | **0.11** | $p < .05$ | 女性学生在中学毕业评价中的直接优势 |
+> | 年龄 $\to$ 最终毕业成绩 | **-0.15** | $p < .05$ | 年龄偏大（存在留级或晚入学）负向预测成绩 |
+> | 认知能力 $\to$ 确定性信念 | **-0.15** | $p < .05$ | 智力促进成熟认识论，降低确定性信念（中介前半段） |
+> | 文化资本 $\to$ 确定性信念 | **-0.13** | $p < .05$ | 藏书量丰富促进批判性思维，降低确定性信念（中介前半段） |
+> | 女性 $\to$ 确定性信念 | **-0.18** | $p < .05$ | 女性学生持有更成熟的非确定性知识观 |
+> | 家庭 SES $\to$ 确定性信念 | **-0.02** | $ns$ | 经济地位对确定性信念无直接影响（被文化资本吸收） |
+> | 年龄 $\to$ 确定性信念 | **-0.02** | $ns$ | 同一年级内年龄差异不影响确定性信念 |
 
 > [!example]- 图2：结构方程模型预测高中毕业总评成绩
 > ![](https://img.mylikemie.icu/sources/Trautwein_2007_CEP/figures/Trautwein_2007_CEP_Fig2_Predicting_Final_School_Grades.jpg)
 
+> [!warrant]- 推理桥梁
+> 结构方程模型排除了以往研究中因未控制认知能力与家庭背景而导致的混淆解释。确定性信念对成绩 $\beta = -0.15$ 的[[Effect Size|效应量]]在高度同质的精英高级文理中学（仅前 30% 学生就读，方差受限）中具有实质性的教育选拔意义；更为关键的是，中介效应的证实揭示了认知能力与文化资本不仅通过直接途径提升学业，还通过培育“质疑绝对真理、接纳理论暂时性”的成熟[[Epistemological Beliefs|认识论信念]]间接赋能学业成就。（p.358, p.362）
+
 ---
 
-### 论证步骤二 大学专业选择前的先验信念差异与自我选择效应
+### 论证步骤三 大学专业意向选择中的先验认识论分化（自我选择效应）
 
-> [!claim] 专业分化在大学入学前已因自我选择而产生
-> 在高中毕业阶段（T1），未来选择不同大学专业的学生在确定性信念上已呈现出显著的系统性差异，证实了认识论信念在专业选择中的自我选择假说。（p.360）
+> [!claim] 专业[[Epistemology|认识论]]鸿沟在进入大学前已因自我选择而形成
+> 在高中毕业阶段（T1），未来意向报考不同大学专业的学生在确定性信念上已呈现出显著的系统性差异，证实了认识论信念在专业选择中的自我选择假说。（p.360）
 
 > [!chain-link] T1 专业意向回归模型证据
-> 以人文艺术类学生为基准参照组，在控制认知能力、毕业成绩、家庭 SES、文化资本和性别后，T1 阶段未来攻读自然科学与应用学科的学生均表现出显著更高的确定性信念：医学（$b = 0.38, p < .01$）、商科（$b = 0.33, p < .01$）、数学与自然科学（$b = 0.39, p < .001$）、工科（$b = 0.38, p < .01$）。未来选择社会科学（$b = -0.19, ns$）与法学（$b = 0.08, ns$）的学生与人文艺术组差异不显著。模型解释了 T1 确定性信念 12% 的方差（$R^2 = .12$）。（pp.359–360）
+> 在[[Multiple Regression|多元回归]]模型 Model 1 中（Table 2），以人文艺术类学生为基准参照组，在控制了认知能力（$b = -0.18, p < .001$）、毕业成绩（$b = -0.18, p < .001$）、家庭 SES、文化资本和性别后，未来选择自然科学与应用学科的学生均表现出显著更高的确定性信念：数学与自然科学（$b = 0.39, p < .001$）、医学（$b = 0.38, p < .01$）、工科（$b = 0.38, p < .01$）、商科（$b = 0.33, p < .01$）。未来选择社会科学（$b = -0.19, ns$）与法学（$b = 0.08, ns$）的学生与人文艺术组差异不显著。模型整体解释了 T1 确定性信念 12% 的方差（$R^2 = .12$）。（pp.359–360）
 
 > [!warrant]- 推理桥梁
-> 硬科学和工程技术常被大众媒体和早期教育塑造成提供“确定事实”与“客观真理”的领域。那些偏好确定性、排斥模糊性的中学生会主动将这些学科视为更具吸引力的发展方向，从而在进入大学前就完成了[[Epistemology|认识论]]维度的群体自我分流。（p.352, p.363）
+> 硬科学、工程与商业领域常被早期科普与大众媒介塑造成由客观、确定、无可争辩之“硬事实”构成的世界。偏好确定性、排斥认知模糊与争论的学生会主动将这些领域评估为更具吸引力的志向，进而在中学阶段完成了认识论维度的群体自我分流。（p.352, p.363）
 
 ---
 
-### 论证步骤三 大学环境对认识论信念的塑造与学科社会化效应
+### 论证步骤四 大学专业环境对认识论信念的纵向塑造与极化（学科社会化效应）
 
-> [!claim] 大学专业环境在控制先验差异后进一步拉大认识论分化
-> 大学就读经验对学生的确定性信念具有显著的塑造效应；即使在控制了 T1 初始信念水平后，工科与商科环境仍持续强化学生的确定性信念，而人文与社会科学环境则促进了对确定性信念的解构，证实了学科社会化假说。（p.361）
+> [!claim] 大学就读经验在控制先验差异后进一步拉大了软硬学科的认识论鸿沟
+> 大学专业训练对学生的认识论信念具有显著的社会化塑造效应；在严格控制了 T1 初始信念水平后，工科与商科环境仍持续强化学生的确定性信念，而人文与社会科学环境则加速解构确定性信念，证实了学科社会化假说。（p.361）
 
 > [!chain-link] 跨期变化回归模型证据
-> 在引入 T1 确定性信念作为预测源的 Model 3 中（模型拟合 $\chi^2(340) = 799.98, \text{TLI} = .903, \text{RMSEA} = .035, \text{SRMR} = .039, R^2 = .41$），确定性信念展现出较强的个体稳定性（$b = 0.54, p < .001$）。然而，在控制了这一稳定性及所有协变量后，大学就读学科对确定性信念的变化仍产生显著影响：相对于人文艺术类学生，工科学生（$b = 0.40, p < .001$）和商科学生（$b = 0.22, p < .05$）在 T2 阶段显著走向了更不具批判性的确定性立场；而社会科学学生（$b = -0.26, p < .05$）则进一步降低了确定性信念。从均值轨迹来看，人文艺术与社会科学学生在大学期间确定性信念大幅下降，工科学生则出现微弱上升。（pp.360–361）
+> 在引入 T1 确定性信念作为预测因子的 Model 3 中（Table 2，模型拟合 $\chi^2(340) = 799.98, \text{TLI} = .903, \text{RMSEA} = .035, \text{SRMR} = .039, R^2 = .41$），确定性信念表现出显著的自回归稳定性（$b = 0.54, p < .001$）。然而，在控制了这一稳定性及所有协变量后，大学就读学科门类对确定性信念的变化（Change in Beliefs）仍产生显著影响：
+> 相对于人文艺术类基准组，工科学生（$b = 0.40, p < .001$）和商科学生（$b = 0.22, p < .05$）在 T2 阶段显著走向了更加绝对化、更不具批判性的确定性立场；而社会科学学生（$b = -0.26, p < .05$）则进一步降低了确定性信念。（pp.360–361）
 
-> [!warrant]- 推理桥梁
-> 纵向两波设计使得研究者能够在分析中将 T1 已有的先验选择效应剥离出去。Model 3 中学科变量的显著回归系数直接反映了大学入读后“信念变化量”的组间差异，排除了单纯由生源特征造成的假象，确证了学科教学文化与学术共同体规范对学生认识论图式的社会化塑造。（p.361, p.363）
+> [!ref-table]- Table 2 完整复刻：确定性信念对（未来）学科门类、人口学与背景特征的三个回归模型对比（引自 Trautwein & Lüdtke, 2007, p. 360）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 预测变量（Predictors） | T1 确定性信念：Model 1（自我选择） | T2 确定性信念：Model 2（大学现状） | T2 确定性信念：Model 3（社会化变化） |
+> |---|---|---|---|
+> | **基准参照组：人文艺术（Humanities/Arts）** | — | — | — |
+> | 社会科学（Social sciences） | -0.19 | **-0.34\*** | **-0.26\*** |
+> | 法学（Law） | 0.08 | 0.20 | 0.14 |
+> | 医学（Medicine） | **0.38\*\*** | **0.46\*\*\*** | 0.23 |
+> | 商科/经济（Business） | **0.33\*\*** | **0.42\*\*\*** | **0.22\*** |
+> | 数学与自然科学（Math/natural sciences） | **0.39\*\*\*** | **0.40\*\*\*** | 0.17 |
+> | 工科/工程（Engineering） | **0.38\*\*** | **0.63\*\*\*** | **0.40\*\*\*** |
+> | 女性（Gender: female） | -0.03 | 0.00 | 0.01 |
+> | 年龄（Age） | -0.01 | -0.02 | -0.01 |
+> | 家庭 SES | -0.05 | -0.03 | -0.01 |
+> | 文化资本（藏书量） | -0.04 | -0.08 | -0.06 |
+> | 认知能力（KFT） | **-0.18\*\*\*** | -0.05 | 0.04 |
+> | 最终毕业成绩（Abitur） | **-0.18\*\*\*** | **-0.24\*\*\*** | **-0.14\*\*\*** |
+> | **T1 确定性信念（自回归稳定性）** | — | — | **0.54\*\*\*** |
+> | **模型判定系数 $R^2$** | **.12** | **.16** | **.41** |
+>
+> *注：二分类虚拟变量效应为 y-标准化系数；连续变量效应为全标准化系数。\* $p < .05$, \*\* $p < .01$, \*\*\* $p < .001$。*
+
+> [!ref-table]- Figure 3 各学科专业在 T1 与 T2 确定性信念均值与轨迹复刻表（引自 Trautwein & Lüdtke, 2007, p. 359）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 学科门类 | T1 阶段均值（高中毕业） | T2 阶段均值（大学就读） | 纵向发展轨迹特征 | 学科认识论属性 |
+> |---|---|---|---|---|
+> | **人文艺术（Humanities/Arts）** | $M \approx 1.83$ | $M \approx 1.62$ | 确定性大幅下降（变得更具批判性与相对主义） | 软学科、纯理论领域 |
+> | **社会科学（Social Sciences）** | $M \approx 1.70$ | $M \approx 1.48$ | 全库最低确定性，且大学期间进一步大幅下降 | 软学科、[[Reflexivity\|反思性]]领域 |
+> | **法学（Law）** | $M \approx 1.90$ | $M \approx 1.88$ | 保持稳定，轻微下降 | 专业职业领域 |
+> | **医学（Medicine）** | $M \approx 2.05$ | $M \approx 1.98$ | 维持高确定性，轻微下降 | 应用生命科学 |
+> | **商科/经济（Business）** | $M \approx 2.08$ | $M \approx 2.02$ | 维持最高确定性水平之一 | 硬学科、应用管理领域 |
+> | **数学与自然科学（Math/Sciences）** | $M \approx 2.02$ | $M \approx 1.95$ | 维持高确定性，轻微下降 | 硬学科、纯科学领域 |
+> | **工科/工程（Engineering）** | $M \approx 2.05$ | **$M \approx 2.08$** | **全样本中唯一确定性不降反升的学科门类** | 硬学科、应用技术领域 |
 
 > [!example]- 图3：不同专业学生在T1与T2时期的确定性信念均值与[[Standard Error|标准误]]
 > ![](https://img.mylikemie.icu/sources/Trautwein_2007_CEP/figures/Trautwein_2007_CEP_Fig3_Certainty_Beliefs_Across_Fields_T1_T2.jpg)
+
+> [!warrant]- 推理桥梁
+> 纵向面板设计使得研究者能够通过在跨期回归中控制 T1 初始信念，将“生源先验差异（自我选择）”在统计上彻底剥离。Model 3 中工科与商科显著的正向系数（相对于文科）直接反映了大学入读后“信念变化量”的组间差异，确证了不同学科的课程组织、评价机制与学术共同体文化对学生认识论图式的社会化重塑。（p.361, p.363）
+
+---
+
+### 论证步骤五 科学教育反思与不确定性教学的实践案例
+
+> [!claim] 科学教育必须打破“事实堆砌”迷思并直面知识的不确定性
+> 鉴于确定性信念对深层学术学习的长期损害，科学教育（尤其是硬科学教育）必须将呈现科学知识的暂时性与争论性作为核心教学目标。（pp.362–363）
+
+> [!exegesis]- 科学知识暂时性案例：胃溃疡病因认识的[[Paradigm|范式]]转变
+> 在传统医学与科学教科书中，胃溃疡曾被长期视为是由心理社会压力与胃酸分泌过多所导致的确定“事实”，相关治疗方案亦围绕抑酸与缓解压力展开。然而，Barry Marshall 与 Robin Warren 荣获诺贝尔奖的突破性研究彻底推翻了这一长期被奉为定论的“确定事实”，证明幽门螺杆菌感染才是胃溃疡的核心病因，从而彻底重构了整个消化病学的治疗范式。这一经典案例生动表明：即便是在最讲求客观确凿的医学与自然科学中，所谓的科学结论也绝非不可动摇的永恒真理，而仅仅是特定历史时期科学共同体探索的“暂时性终产物（temporary end-product）”。（pp.362–363）
+
+> [!implication]- 破除不当确定性信念的两大科学教学干预路径
+> 1. **引入真实世界的冲突性证据（Conflicting Evidence on Real-World Issues）** 借鉴 Schommer (1990) 与 Kardash & Scholes (1996) 的设计，在课堂中向学生呈现针对某一复杂现实问题存在相互对立解释的科学研究报告，迫使学生放弃寻求单一标准答案的幼稚预期，学会权衡证据的概率性与局限性。
+> 2. **对比历史教科书展示范式更迭（Historical Shifts in Scientific Paradigms）** 通过对照早期科学教科书与当代研究成果（如胃溃疡病因、大陆漂移学说等），向学生直观呈现“曾经被视为无可置疑的科学真理如何被后续研究所推翻和修正”，从而树立科学理论的[[Falsification|可证伪性]]信念。
 
 ---
 
@@ -211,9 +406,9 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **确定性信念净负向预测高中毕业[[Academic Achievement|学业成就]]** 在严格控制认知能力、家庭 SES 和[[Cultural Capital|文化资本]]后，科学知识确定性信念对高中毕业总评成绩仍具有显著负向预测力（$\beta = -0.15$），并部分中介了智力与文化资本的学业效应。（p.358）
-> 2. **大学专业选择存在显著的先验自我选择效应** 高中毕业生在选择未来专业时已表现出[[Epistemology|认识论]]分化，未来攻读工科、商科、自然科学和医学的学生其确定性信念显著高于人文社会学科学生。（p.360）
+> 2. **大学专业选择存在显著的先验自我选择效应** 高中毕业生在选择未来专业时已表现出[[Epistemology|认识论]]分化，未来攻读工科（$b = 0.38$）、商科（$b = 0.33$）、自然科学（$b = 0.39$）和医学（$b = 0.38$）的学生其确定性信念显著高于人文艺术类学生。（p.360）
 > 3. **大学专业环境发挥了显著的学科社会化塑造效应** 在控制 T1 初始信念后，大学工科（$b = 0.40$）与商科（$b = 0.22$）学习显著强化了知识确定性信念，而人文与社会科学学习（$b = -0.26$）则进一步瓦解了确定性信念，拉大了软硬学科间的认识论鸿沟。（p.361）
-> 4. **[[Epistemological Beliefs|认识论信念]]兼具跨期稳定性与情境可塑性** 两年跨期的确定性信念自回归稳定性系数达 $b = 0.54$，说明认识论信念具有稳定的个体特质属性，但同时对所处的学科规范与学习情境保持高度敏感。
+> 4. **[[Epistemological Beliefs|认识论信念]]兼具跨期稳定性与情境可塑性** 两年跨期的确定性信念自回归稳定性系数达 $b = 0.54$，说明认识论信念具有稳定的个体特质属性，但同时对所处的学科规范与学习情境保持高度敏感。（p.361）
 
 > [!stat-cards]- 核心数据
 > - **$\beta = -0.15$** 结构方程模型中确定性信念对高中毕业总评成绩（Abitur）的标准化路径系数（$p < .001$）。（p.358）
@@ -234,6 +429,11 @@ issuing_organization: ""
 > 接触不确定性在硬科学中可能尤为重要。媒体往往将硬科学的发现描绘成“事实”。一些学生可能正是因为硬科学似乎提供事实而非模糊的理论或[[Hypothesis|假设]]而被其吸引。因此，科学教育去探讨知识及其获取过程中的复杂性显得尤为重要。（p.362）
 >
 > *Exposure to uncertainty might be particularly relevant in the hard sciences. The media often portray findings from the hard sciences as "facts." Some students might be attracted to the hard sciences precisely because they seem to offer facts, and not vague theories or assumptions. It is thus especially important for science education to address the complexities involved in knowledge and knowledge acquisition.*
+
+> [!citation-card]- 科学知识作为探索的暂时性终产物
+> 在这个情境中，大学与高校教师让学生意识到知识——作为人类的主观建构——绝非“确定无疑”的，而是科学话语体系中“暂时的终产物”，显得格外重要。（p.362）
+>
+> *In this context, it seems important for college and university teachers to make their students aware that knowledge—as a human construction—is never "certain," but rather the "temporary end-product" of scientific discourse.*
 
 ---
 
