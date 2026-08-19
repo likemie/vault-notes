@@ -8,7 +8,7 @@ summary: "一种从社会学发展而来的质性研究设计，通过多阶段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
