@@ -35,16 +35,6 @@ related_methods:
   - "[[Constructivist Grounded Theory]]"
 related_persons: []
 related_facts: []
-related_methods:
-  - "[[Qualitative Research]]"
-  - "[[Theoretical Sampling]]"
-  - "[[Coding in Qualitative Research]]"
-  - "[[Qualitative Computer Software]]"
-  - "[[Discourse Analysis]]"
-  - "[[Ethnography]]"
-  - "[[Quantitative Research]]"
-  - "[[Constructivist Grounded Theory]]"
-  - "[[Constant Comparison]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_Creswell_2022_SAGE]]"
