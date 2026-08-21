@@ -61,7 +61,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-06-25
-updated: 2026-08-20
+updated: 2026-08-22
 ---
 # Action Research
 
@@ -370,6 +370,7 @@ updated: 2026-08-20
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch.9)]] — 系统介绍行动研究的定义、历史发展、四大特征、螺旋循环过程和常用方法。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen et al. (2011, Ch18)]] — 系统阐述定义谱系、21项特征、Winter六原则与Kemmis & McTaggart核心原则、三分类型学、操作程序、报告撰写、[[Reflexivity|反身性]]及[[Praxis|实践]]议题。
+> - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 23–24, 30–31)]] — 国际学校考试辛迪加把国际文凭开发组织为六年行动研究：限定获批学校、每年最多 500 名考生并争取大学暂时承认，在真实教学、考试与升学过程中检验课程和资格能否运行。[[1967 Sevres International Conference on the IB|塞夫尔会议]]将课程方案、风险控制和承认安排组合成可执行的试验。

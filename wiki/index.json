@@ -2033,6 +2033,19 @@
     ]
   },
   {
+    "title": "Evaluator Independence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evaluator Independence.md",
+    "aliases": [
+      "评估者独立性",
+      "独立评估者",
+      "independent evaluation",
+      "第三方独立评估",
+      "研发者偏倚",
+      "developer bias"
+    ]
+  },
+  {
     "title": "Evidence-Based Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
@@ -2070,6 +2083,20 @@
       "exam-oriented education",
       "examination-driven education",
       "yingshi jiaoyu"
+    ]
+  },
+  {
+    "title": "Fade-out Effect",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Fade-out Effect.md",
+    "aliases": [
+      "效应衰退",
+      "效应消退",
+      "fadeout effect",
+      "sustained effects",
+      "持续效果",
+      "效应衰减",
+      "干预后持续效果"
     ]
   },
   {
@@ -5900,6 +5927,18 @@
     ]
   },
   {
+    "title": "Complier Average Causal Effect",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Complier Average Causal Effect.md",
+    "aliases": [
+      "顺从者平均因果效应",
+      "依从者平均因果效应",
+      "CACE",
+      "Local Average Treatment Effect in RCTs",
+      "依从者效应"
+    ]
+  },
+  {
     "title": "Compound Causes",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Compound Causes.md",
@@ -6727,6 +6766,21 @@
       "研究假设",
       "hypotheses",
       "research hypothesis"
+    ]
+  },
+  {
+    "title": "Iatrogenic Effects in Education",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Iatrogenic Effects in Education.md",
+    "aliases": [
+      "医源性伤害",
+      "医源性效应",
+      "教育干预负效应",
+      "iatrogenic effects",
+      "iatrogenic harm",
+      "越轨同伴传染",
+      "越轨训练",
+      "deviancy training"
     ]
   },
   {
@@ -11181,8 +11235,13 @@
     "path": "wiki/methods/quantitative/Cluster Randomized Trials.md",
     "aliases": [
       "集群随机试验",
+      "整群随机试验",
+      "群组随机对照试验",
       "集群随机对照试验",
-      "CRT"
+      "Cluster RCT",
+      "CRCT",
+      "group-randomized trials",
+      "cluster-randomized trial"
     ]
   },
   {
@@ -11755,6 +11814,21 @@
     "aliases": [
       "Rasch模型",
       "Rasch 模型"
+    ]
+  },
+  {
+    "title": "Regression Discontinuity Design",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Regression Discontinuity Design.md",
+    "aliases": [
+      "断点回归设计",
+      "断点回归",
+      "RDD",
+      "regression discontinuity",
+      "Sharp RDD",
+      "Fuzzy RDD",
+      "清晰断点回归",
+      "模糊断点回归"
     ]
   },
   {
@@ -14757,6 +14831,15 @@
     ]
   },
   {
+    "title": "Oxford Council of Europe Studies in Curriculum and Examinations",
+    "type": "fact",
+    "path": "wiki/facts/europe/Oxford Council of Europe Studies in Curriculum and Examinations.md",
+    "aliases": [
+      "牛津—欧洲委员会课程与考试研究",
+      "OCESCE"
+    ]
+  },
+  {
     "title": "SveaSus Project",
     "type": "fact",
     "path": "wiki/facts/finland/SveaSus Project.md",
@@ -15022,6 +15105,15 @@
     "aliases": [
       "国际教育协会",
       "EI"
+    ]
+  },
+  {
+    "title": "International Schools Association",
+    "type": "fact",
+    "path": "wiki/facts/global/International Schools Association.md",
+    "aliases": [
+      "国际学校协会",
+      "ISA"
     ]
   },
   {
@@ -15661,6 +15753,16 @@
       "瑞士州际义务教育协调协议",
       "Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule",
       "Interstate Compulsory Education Harmonization Agreement"
+    ]
+  },
+  {
+    "title": "International School of Geneva",
+    "type": "fact",
+    "path": "wiki/facts/switzerland/International School of Geneva.md",
+    "aliases": [
+      "日内瓦国际学校",
+      "École internationale de Genève",
+      "Ecolint"
     ]
   },
   {

@@ -116,7 +116,7 @@ updated: 2026-08-17
 
 > [!chain-link] 从未获回应的设想到可使用资格的因果链
 > - **设想因缺乏需求而沉寂，又因战后流动而复活** 保罗·迈霍弗（Paul Meyhoffer）1925 年提出国际毕业会考时，还没有足够多的学校、家庭和大学愿意承担改革成本；战后[[International Schools|国际学校]]扩张、大学竞争和多轨备考的资源浪费，才使共同资格成为现实需要（pp. 15–17）。
-> - **教学问题产生教师倡议，志愿网络又推动组织化** 日内瓦教师从历史、语言和社会研究的国家偏向发动合作，但短期经费只够开会；日内瓦国际学校（École internationale de Genève，Ecolint）与国际学校协会（International Schools Association，ISA）也无力承担考试责任，因此独立 [[International Schools Examination Syndicate|ISES]]、连续资金和跨国治理先后形成（pp. 17–24）。
+> - **教学问题产生教师倡议，志愿网络又推动组织化** 日内瓦教师从历史、语言和社会研究的国家偏向发动合作，但短期经费只够开会；[[International School of Geneva|日内瓦国际学校]]（École internationale de Genève，Ecolint）与[[International Schools Association|国际学校协会]]（International Schools Association，ISA）也无力承担考试责任，因此独立 [[International Schools Examination Syndicate|ISES]]、连续资金和跨国治理先后形成（pp. 17–24）。
 > - **组织能力使改革课程进入真实学校** 办公室、全职人员和基金会支持使项目能够协调各国改革者，形成六学科、双语与 [[Theory of Knowledge|TOK]]，并由九所学校及其教师、家长和学生承担试验风险（pp. 24–30）。
 > - **大学有限承认把课程试验变成升学资格** 1967 年塞夫尔会议把课程、考试、获批学校、人数上限和大学承认组合为六年试验；1970 年首批 29 名学生使用正式成绩申请大学，完成从倡议到可使用资格的转变（pp. 30–31）。
 
@@ -254,7 +254,7 @@ updated: 2026-08-17
 > [!event-context] 牛津大学进入项目以前已经积累课程改革与比较研究能力
 > - **英国高中课程改革提供共同问题** [[Alec Peterson|亚历克·皮特森]]（Alec Peterson）除参与大西洋学院外，还领导牛津大学教育系研究英国高中最后阶段。1960 年报告 *Arts and Science Sides in the Sixth Form* 批评英国课程过度专门化和文理分裂，销量超过 3,000 册。
 > - **国内讨论规模大却长期无果** 1960 年 10 月至 1961 年 4 月，牛津举行三次会议，汇集 300 多名中学与大学教师讨论改革。原书回顾，这些会议开启了此后约二十五年仍未取得成果的全国讨论。国际项目因规模较小，反而可能提供实际试验空间。
-> - **欧洲比较研究提供课程与考试资料** 牛津与欧洲委员会合作开展牛津—欧洲委员会课程与考试研究（The Oxford Council of Europe Studies in Curriculum and Examinations，OCESCE），由威廉·霍尔斯（W. D. Halls）负责比较成员国高中课程和考试。Halls 随后成为 ISES／IBO 的主要顾问。
+> - **欧洲比较研究提供课程与考试资料** 牛津与欧洲委员会合作开展[[Oxford Council of Europe Studies in Curriculum and Examinations|牛津—欧洲委员会课程与考试研究]]（Oxford Council of Europe Studies in Curriculum and Examinations，OCESCE），由威廉·霍尔斯（W. D. Halls）负责比较成员国高中课程和考试。Halls 随后成为 ISES／IBO 的主要顾问。
 > - **1964 年访问确认了共同资格的现实需求** 二十世纪基金资助落实后，Alec Peterson 在秋季首次到日内瓦参与更系统的可行性调查。他看到 Ecolint 没有统一教学语言，高中生即使学习物理也被分成四套国家课程。牛津的课程改革与比较教育研究由此获得明确的国际应用场景（pp. 21–22）。
 
 > [!case] 福特基金对联合国国际学校的投入打开了跨大西洋联盟

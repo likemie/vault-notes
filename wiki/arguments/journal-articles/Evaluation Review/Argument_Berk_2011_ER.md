@@ -160,7 +160,7 @@ citation_aliases:
 > - 作为编辑反思而非[[Systematic Review|系统综述]]，论文的方法论批评虽然有 35 年编辑经验支撑，但属于个人观察而非实证研究
 > - Berk 对 [[Randomised Controlled Trials|RCT]] 的辩护（"防止[[Type I and Type II Errors|统计错误]]"）与批判（"集群[[Random Assignment|随机化]]中的 [[Stable Unit Treatment Value Assumption|SUTVA]] 违反"）之间存在张力——他的"铜标准"（bronze standard, Berk 2005）比喻试图调和二者，但在本文中未充分展开
 > - 提出的对策（中立专家审查、团队评估）偏重精英专家模式，未回应 Cowen (2019) 后来提出的官僚[[Knowledge Questions|知识问题]]和制度激励问题
-> - 论文发表于 2011 年，此后[[Causality|因果推断]]方法（如双重差分、合成控制、断点回归设计）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评
+> - 论文发表于 2011 年，此后[[Causality|因果推断]]方法（如双重差分、合成控制、[[Regression Discontinuity Design|断点回归设计]]）在经济学中的发展可能已部分回应了 Berk 对[[Causal Modeling|因果建模]]的批评
 
 ## 来源
 
