@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
+                "file": "wiki/methods/quantitative/Randomised Controlled Trials.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Wadhwa_2024_RER"
+              "title": "Randomised Controlled Trials"
             }
           }
         ],
@@ -226,8 +226,11 @@
   },
   "active": "402a31327c0cd077",
   "lastOpenFiles": [
-    "wiki/methods/quantitative/Multitrait-Multimethod Matrix.md",
+    "fix_research_index.py",
+    "update_rct.py",
     "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
+    "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
+    "wiki/methods/quantitative/Multitrait-Multimethod Matrix.md",
     "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "wiki/concepts/educational-policy-reform/What Works Movement.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md",
@@ -252,7 +255,6 @@
     "fix_causality_duplicate_citations.py",
     "fix_causality_lint.py",
     "wiki/concepts/research-methodology/Construct Validity.md",
-    "fix_cv_warnings.py",
     "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/arguments/journal-articles/Frontiers in Psychology/Argument_Song_Choi_2026_FPSYG.md",
     "wiki/facts/us/Blueprints for Healthy Youth Development.md",
@@ -264,8 +266,6 @@
     "tmp_figures/page_19_img_1.jpeg",
     "tmp_figures/page_18_img_1.jpeg",
     "wiki/concepts/curriculum/Knowledge Questions.md",
-    "wiki/arguments/journal-articles/Journal of Research in International Education/Argument_Hughes_2014_JRIE.md",
-    "wiki/concepts/curriculum/Ways of Knowing.md",
     "sources/Trautwein_2007_CEP/figures/Trautwein_2007_CEP_Fig3_Certainty_Beliefs_Across_Fields_T1_T2.jpg",
     "sources/Trautwein_2007_CEP/figures/Trautwein_2007_CEP_Fig2_Predicting_Final_School_Grades.jpg",
     "tmp/pdfs/Hughes_2014_validity-14.png",
