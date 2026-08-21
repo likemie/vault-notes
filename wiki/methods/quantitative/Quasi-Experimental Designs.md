@@ -7,19 +7,20 @@ aliases:
   - counterfactual viability
   - counterfactual strength
   - 反事实可行性
-summary: "ESSA证据层级中对应中等证据的量化研究设计，核心判断包括比较组是否提供可信反事实和实施条件是否足以解释效果。"
+summary: "在无法实现随机分配的真实教育情境中通过非等对控制组、时间序列或断点规则构建反事实比较的量化研究设计，对应ESSA中等证据与WWC有保留达标标准。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quasi-experimental-design
   - method/quantitative
   - evidence-based-education
   - causal-inference
+  - counterfactual
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Counterfactual]]"
@@ -30,67 +31,175 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Pre-test and Post-test]]"
   - "[[Causality]]"
-related_theories: []
+  - "[[Internal Validity]]"
+  - "[[External Validity]]"
+  - "[[Attrition]]"
+  - "[[Statistical Significance]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Evidence-Informed Practice]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Single-Case Design]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Systematic Review]]"
+  - "[[Time Series Design]]"
+related_instruments: []
 related_persons: []
-related_arguments:
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[ESSA 2015 Evidence Standards]]"
-confidence: medium
-status: draft
+  - "[[Best Evidence Encyclopedia]]"
+  - "[[National Dropout Prevention Center]]"
+  - "[[Blueprints for Healthy Youth Development]]"
+related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Hitchcock_2015_JBE]]"
+confidence: high
+status: active
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-08-21
+---
+
+# Quasi-Experimental Designs
+
 ---
 
 ## 定义
 
-> [!info]
-> 准实验设计（Quasi-Experimental Designs, QED）是在教育项目证据标准中被视为严格研究的一类量化设计。在 [[What Works Clearinghouse]] 中，QED 是达到“有保留”证据标准的研究路径之一；在 [[ESSA 2015 Evidence Standards]] 中，QED 对应“中等证据”([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
+> [!def] 方法定义
+> **准实验设计（Quasi-Experimental Designs, QED）** 是指在无法实施完全[[Random Assignment|随机分配（Random Assignment）]]的真实教育与社会情境中，通过选用非等对自然组别（Non-equivalent Groups）、构建间断时间序列（Interrupted Time Series）或设定断点赋值规则（Regression Discontinuity），系统操纵自变量以检验因果假设的量化实验设计方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 317–318]])。
+>
+> 在当代[[Evidence-Based Education|循证教育]]体系中，QED 构成了连接完全随机对照试验（RCT）与纯观察性研究的关键方法桥梁；在 2015 年《每个学生都成功法案》（ESSA）中对应**中等证据（Moderate Evidence / Tier 2）**法定层级，在[[What Works Clearinghouse|WWC]] 中对应**有保留达标（Meets Standards With Reservations）**标准([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]]; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
 
-## 认识论立场
+> [!method-scope] 方法范围
+> - **研究对象** 嵌入在自然班级、完整学校或行政行政区划中的具名教育干预方案、教学模式与政策改革。
+> - **问题类型** 因果效应估计（Causal Effect Estimation）、政策试点成效评估、比较有效性研究（Comparative Effectiveness）。
+> - **分析单位** 学生个体、自然班级、学校集群或时间观测点。
+> - **输出形式** 调整后效应量（Adjusted Effect Size）、双重差分（DID）估计值、基线等值性检验参数、间断斜率变化统计量。
 
-> [!abstract]
-> 在[[Evidence-Based Education|证据本位教育]]中，QED 的角色是提供项目效果的因果证据，但其证据等级低于 [[Randomised Controlled Trials|RCT]]。ESSA 将强证据对应 RCT，中等证据对应 QED，说明该政策框架承认非随机设计可以进入证据标准，但会对其强度作层级区分([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
+> [!citation-card]- 关键定义
+> 准实验设计涉及在无法进行随机分配的情境中对自变量进行操纵。虽然缺乏随机化带来的理论等价性保证，但通过严密的控制组选择、前测基线调整与替代解释排除，准实验能够建立高度可信的因果证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, pp. 317–320)]]
+>
+> *Quasi-experimental designs encompass situations where the researcher can manipulate the independent variable but cannot randomly assign participants to groups. Establishing counterfactual viability through robust pretesting and baseline equivalence is the cornerstone of causal inference in quasi-experiments.*
+
+---
+
+## 方法定位
+
+> [!method-position] 认识论与方法定位
+> - **认识论取向** 秉承后实证主义与实用主义哲学取向，承认社会与学校系统具有开放性与情境嵌套性，在坚持因果推断逻辑的同时，以妥协性控制技术换取更高的生态效度（Ecological Validity）。
+> - **因果识别定位** 采用反事实潜在结果逻辑，但因果识别依赖于**条件独立性假设（Conditional Independence Assumption）**——即假定在控制了基线前测和关键可观察协变量后，组别分配与潜在结果无关。
+> - **与 RCT 的互补关系** 当出于伦理考量（如不能剥夺弱势学生的必要辅导）、行政限制（学校拒绝打破现有班级建制）或政治可行性而无法实施 RCT 时，QED 提供唯一合法的因果证据替代路径([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
+
+> [!method-stack] 方法层级
+> - **设计形态** 非等对控制组前后测设计、间断时间序列设计（ITS）、断点回归设计（RDD）、轮换/对等材料设计。
+> - **数据采集** 标准化基线前测、多时间点追踪观测、过程实施忠实度记录、终结性后测。
+> - **统计控制工具** 倾向得分匹配（PSM）、双重差分模型（DID）、协方差分析（ANCOVA）、多层线性模型（HLM）。
+
+---
 
 ## 研究程序
 
-> [!example]
-> 在证据审查中，QED 的关键不是“有没有对照组”这么简单，而是[[Counterfactual|反事实]]条件是否可信、潜在偏误是否被控制。干预组面对的比较条件也会影响解释：如果对照条件是低质量或低强度项目，干预更容易显示优势；如果对照条件本身已经很强，干预效果就更难显示出来([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
+> [!proc] 准实验研究标准实施六步规程
+> 1. **选择非等对比较组** 依据地理、学业背景与人口学特征，匹配选择最接近干预组的自然对照学校或班级。
+> 2. **实施全面基线测量** 采集详尽的前测学业成绩与背景协变量，严密检验两组基线等值性（Baseline Equivalence）。
+> 3. **常态化现场干预实施** 干预组落实新教学方案，对照组维持**常规照常教学（Business-As-Usual, BAU）**，同步监控实施忠实度。
+> 4. **终结性后测数据采集** 采用完全相同的标准化工具进行干预后评估，排查差异流失（Differential Attrition）。
+> 5. **构建统计纠偏模型** 运用双重差分法（DID）或 ANCOVA 剥离基线初始差异与自然时间趋势。
+> 6. **开展替代解释敏感性分析** 针对历史事件、测验敏感化及选择-成熟交互作用进行证伪检验。
 
-### 反事实条件的可行性
+---
 
-反事实可行性（Counterfactual Viability）指比较组是否能为“如果没有采用该项目会发生什么”提供可信参照。QED 和 [[Randomised Controlled Trials|RCT]] 都依赖比较组来解释项目效果，但比较组本身也有强弱：一个项目若只和低质量、低强度或缺少研究支持的对照方案比较，更容易显示优势；若和已经有效、强度较高的方案比较，效果就更难显著([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
+### 准实验五大经典亚型
 
-> [!example]
-> 同一个数学软件，如果对照组只是普通练习册，可能显示较大优势；如果对照组是已有证据支持的高质量小组辅导，[[Effect Size|效应量]]可能明显变小。这个差异不一定说明软件本身变差，而是比较条件改变了。
+> [!framework-table] 准实验五大经典设计亚型对比（基于 Cohen et al., 2011, Ch. 16）
+> | 设计亚型 | 经典符号模型 | 核心机制与控制优势 | 主要效度威胁与防范 | 典型应用情境 |
+> |:---|:---:|:---|:---|:---|
+> | **非等对控制组前后测设计<br>(Non-equivalent Control Group)** | $rac{O_1 \quad X \quad O_2}{O_3 \quad\quad\quad O_4}$ | 教育中最广泛使用；通过前测 $O_1, O_3$ 建立基线，控制历史与成熟主效应 | 威胁：**选择-成熟交互（Selection $	imes$ Maturation）**；防范：协变量调整与倾向匹配 | 班级或学校整体采纳新课程的教学对比 |
+> | **间断时间序列设计<br>(Interrupted Time Series, ITS)** | $O_1 O_2 O_3 \ X \ O_4 O_5 O_6$ | 干预前后多时间点连续观测，通过前测趋势线外推建立动态反事实 | 威胁：与干预同时发生的历史事件；防范：引入非等对对照时间序列 | 区域性中高考改革、全校行为管理系统实施 |
+> | **断点回归设计<br>(Regression Discontinuity, RDD)** | $rac{C \quad X \quad O_1}{C \quad\quad\quad O_2}$ | 依据连续变量阈值（Cut-off）分组，断点局域近似随机分配（因果效力最高） | 威胁：阈值操纵（Manipulation）；防范：断点密度检验与带宽敏感性分析 | 依据成绩达线入选的资优生项目或补救辅导 |
+> | **轮换对等设计<br>(Counterbalanced Design)** | $rac{X_A O_1 X_B O_2}{X_B O_3 X_A O_4}$ | 两组交叉接受不同干预，所有被试兼任自身对照，控制组间不可测异质性 | 威胁：**处理滞留污染（Carry-over Effect）**；防范：设置充足的清洗期（Washout Period） | 两种短期互补教学策略或数字软件轮换测试 |
+> | **仅后测非等对组设计<br>(Posttest-Only Non-equivalent)** | $rac{X \quad O_1}{\quad\quad O_2}$ | 无法获取前测时的妥协设计；依赖事后统计匹配尝试控制已知背景变量 | 威胁：严重的初始选择偏倚；属于弱因果设计 | 突发教育事件评估或历史档案回溯研究 |
 
-反事实可行性也说明，证据审查不能只看“研究设计是否严格”。还需要报告对照条件的[[Logic Model|逻辑模型]]、使用强度、证据支持程度和实施质量，否则[[Praxis|实践]]者很难判断研究效果是否能迁移到本地学校([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
+---
+
+### 统计模型与基线等值性规范
+
+> [!formula-step] 双重差分模型（DID）与 WWC 基线等值分级判定
+> 
+> 1. **双重差分因果效应估计模型（Difference-in-Differences）**
+>    $$Y_{it} = eta_0 + eta_1 \cdot 	ext{Treat}_i + eta_2 \cdot 	ext{Post}_t + \mathbf{\delta} \cdot (	ext{Treat}_i 	imes 	ext{Post}_t) + \mathbf{\gamma}' \mathbf{X}_{it} + arepsilon_{it}$$
+>    - **$\delta$** 核心因果效应参数（净处理效应），代表干预组在干预前后的变化量减去控制组的变化量；
+>    - **$\mathbf{X}_{it}$** 控制的可观察协变量向量（如家庭经济背景、先前基线成绩）。
+>
+> 2. **WWC 对 QED 的基线等值性（Baseline Equivalence）三级判定准则**
+>    - **基线差异 $\le 0.05	ext{ SD}$** 判定为基线完全等价，统计模型无需额外控制即满足“有保留达标”；
+>    - **$0.05	ext{ SD} < 	ext{基线差异} \le 0.25	ext{ SD}$** 判定为中度失衡，**必须**在回归模型中纳入前测协变量进行统计调整；
+>    - **基线差异 $> 0.25	ext{ SD}$** 判定为严重不等价，直接裁定为“未达标（Does Not Meet Standards）”，否定其因果推断资格([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
+
+---
+
+## 政策与清算体系中的审查标准
+
+> [!framework-table] 循证清算中心对 QED 的准入门槛与评级待遇对比（基于 Wadhwa et al., 2024）
+> | 清算中心 / 政策法规 | 对 QED 因果设计的描述强度 | 允许获得的最高评级待遇 | 关键限制条件与特殊要求 |
+> |:---|:---:|:---|:---|
+> | **[[What Works Clearinghouse\|WWC]] (美国联邦)** | 2 级 (明确规程) | **Meets Standards With Reservations**<br>(封顶于二等，不得作为单项一等证据) | 必须满足严苛的基线等值性要求（$\le 0.25	ext{ SD}$）及整体/差异流失模型。 |
+> | **[[ESSA 2015 Evidence Standards\|ESSA 2015]] (联邦立法)** | 法定分级 | **Tier 2 (Moderate Evidence)**<br>(中等证据法定上限) | 要求具备良好的统计控制与广泛代表性，作为学区申请联邦资助的合法依据。 |
+> | **[[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin)** | 1 级 (元分析纳入) | **Moderate / Strong** (需与 RCT 结合) | 允许高质量 QED 纳入元分析；最高 Strong 证据允许“1 项大型多中心 RCT + 1 项高质量 QED”组合。 |
+> | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 3 级 (严苛规程) | **Promising** (封顶于二等) | 排除单独 QED 参评 Model / Model Plus 顶级认证；强制要求独立评估者报告与持续效果。 |
+> | **[[National Dropout Prevention Center\|NDPC]]** | 1 级 (宽松包容) | **Strong Evidence** (允许 QED 获评最高级) | 准入门槛包容，仅要求存在显著正向 QED 证据且方案在学校现场实际运行满 3 年。 |
+
+> [!abstract] 反事实可行性与比较组强度（Counterfactual Viability）
+> [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021, p. 112)]] 指出，QED 的有效性高度依赖于反事实可行性（Counterfactual Viability）：
+> - **比较条件的真实强度** 对照组若为“低质量、低强度或缺乏支持的弱条件”，干预容易呈现虚大效应量；若对照组为“成熟优质的常规教学”，效应量虽小但代表真实的政策净附加值。
+> - **透明报告对照组生态** 证据审查不仅要审查干预组，更必须详尽报告对照组的教学时间、支持资源与课程逻辑模型，否则无法在真实学校间迁移。
+
+---
 
 ## 适用场景
 
-> [!success]
-> QED 适用于教育项目需要达到 ESSA “中等证据”标准的场景。学校、学区或项目开发者若无法提供 [[Randomised Controlled Trials|RCT]] 证据，但能够提供 QED 证据，就可能进入 ESSA 的第二层证据支持([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
+> [!fit-grid] 适用判断
+> - **适合使用** 自然班级和完整学校建制不可随意打散拆分时；政策试点推广前的阶段性因果检验；评估既有历史性教育改革方案；弱势群体补偿性项目（伦理上不允许设立无支持对照组）。
+> - **谨慎使用** 候选对照组与干预组在学区财政、生源背景上存在显著系统鸿沟时；样本流失率极高且无法追踪流失原因时。
+> - **不适合使用** 完全缺乏基线前测数据、且无法通过历史档案构建可信对照的单组事后研究。
+
+---
 
 ## 局限性
 
-> [!warning]
-> QED 和 [[Randomised Controlled Trials|RCT]] 一样，若只报告对学生成就的统计显著效果，仍可能遗漏[[Praxis|实践]]者真正需要的信息，如实施要求、用户满意度、成本、情境限制和项目使用强度。对低强度补充项目或复杂改革而言，这类信息会直接影响学校是否采用和持续使用项目([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110-112, 120-121]])。
+> [!method-limits] 效度威胁、偏误来源与误用风险
+> - **选择-成熟交互威胁（Selection-Maturation Interaction）** 即使基线分数完全一致，来自高社会经济地位（SES）学校的对照组学生其自然成长斜率可能远快于薄弱校干预组，导致因果估计发生系统偏差。
+> - **不可测混杂与遗漏变量偏倚（Omitted Variable Bias）** 倾向得分匹配只能平衡已测量协变量，无法控制动机、家庭教养风格等不可测潜变量。
+> - **均值回归现象（Regression to the Mean）** 当依据极端低分挑选干预组时，后测分数的提高可能仅仅是统计回归假象，而非干预真实功效。
+> - **实践维度的信息遮蔽** QED 同 RCT 一样，若仅报告平均效应量，会系统性遗漏学校采纳最急需的**实施成本**、**用户满意度**与**本地适配指南**([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 120–122]])。
 
-> [!warning]
-> QED 的“中等证据”地位不等于所有 QED 证据都同样可用。若比较组[[Counterfactual|反事实]]较弱、[[Implementation Fidelity|实施忠实度]]不清楚、结果测量过窄，研究仍可能给实践者留下过度乐观或难以迁移的效果判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.112, 120-121]])。
+---
+
+## 相关理论与方法
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Randomised Controlled Trials]] | 量化方法 | 真实实验母方法，QED 在无法随机化时的主要替代与对照基准。 |
+> | [[Campbellian Validity Framework]] | 核心理论 | 提供 QED 内外部效度威胁分类体系与因果推断逻辑框架。 |
+> | [[Causality]] | 核心概念 | QED 的认识论归宿，通过反事实控制建立概率性因果关系。 |
+> | [[Single-Case Design]] | 替代方法 | 针对单一个案通过密集重复测量建立因果证据的非组间替代设计。 |
+> | [[ESSA 2015 Evidence Standards]] | 政策依据 | 确立 QED 对应 Tier 2 Moderate Evidence 的联邦法定资助地位。 |
+> | [[What Works Clearinghouse]] | 评价机构 | 制定了最具代表性的 QED 基线等值性与流失纠偏审查技术规程。 |
+
+---
 
 ## 使用此方法的研究
 
-> [!example]
-> - [[ESSA 2015 Evidence Standards]] — QED 对应“中等证据”，用于把非随机但设计良好的项目研究纳入政策证据层级([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
-> - [[Educational Evidence Clearinghouses]] — 清算中心对 QED 的纳入和评级标准并不完全一致，具体差异集中写在清算中心条目中([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9-11]])。
-> - [[Implementation Fidelity]] — QED 的结果解释需要知道项目是否以足够质量和强度实施，以及对照条件是否足够可信([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.112]])。
-> - [[Argument_Ross_Morrison_2021_ROE]] — 作为论证条目，讨论严格证据在学校项目选择中的作用和局限([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.109, 112]])。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统介绍准实验的多种形式（非等价控制组、单组前[[Pre-test and Post-test|后测]]、时间序列），并与真实验在[[Random Assignment|随机化]]、控制和[[Causality|因果推断]]力上进行系统对比。
-
+> [!evidence-grid-a] 研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011)]] — 体系化梳理准实验五大经典设计（非等对控制组、时间序列、断点回归、轮换对等），详析选择-成熟交互与均值回归等效度威胁(Ch. 16, pp. 317–324)。
+> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 所清算中心对 QED 的因果审查规程（0–3 级编码），揭示 WWC/HomVEE 的 0.05–0.25 SD 基线等值模型及 QED 在最高证据层级中的制度性分歧(pp. 8–11)。
+> - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 深入探讨 QED 在 ESSA Tier 2 政策证据层级中的应用，提出反事实可行性（Counterfactual Viability）与对照组生态报告的必要性(pp. 109–112)。
+> - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 论证准实验、单一被试设计与组间 RCT 在排除历史与成熟威胁上的同构逻辑与效度门控机制(pp. 461–464)。

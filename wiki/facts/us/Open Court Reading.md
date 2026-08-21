@@ -1,64 +1,128 @@
 ---
 title: Open Court Reading
 aliases:
-  - Open Court阅读教材
-summary: "Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同"
+  - 开放式阅读教材
+  - Open Court Reading (OCR)
+  - 开放式阅读
+  - OCR
+summary: "SRA/McGraw-Hill旗下K-6早期读写旗舰课程，在Wadhwa et al. (2024)元评估中作为表面评级一致（Promising）但底层文献池、因果分类与时间混杂解释存在深刻分歧的经典案例。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
-- open-court-reading
-- educational-program
-- clearinghouse-rating-case
-- evidence-based-education
-- region/us
+  - open-court-reading
+  - ocr
+  - educational-program
+  - clearinghouse-rating-case
+  - evidence-based-education
+  - phonics
+  - early-literacy
+  - region/us
 related_concepts:
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
   - "[[Attrition]]"
   - "[[Statistical Significance]]"
-  - "[[Educational Evidence Clearinghouses]]"
-related_theories: []
+  - "[[Internal Validity]]"
+  - "[[Construct Validity]]"
+  - "[[Causality]]"
+  - "[[Praxis]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Meta-analysis]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Best Evidence Encyclopedia]]"
+  - "[[Success for All]]"
+  - "[[Peer-Assisted Learning Strategies]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: 2026-07-13
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
 ---
-## 概述
 
-> [!info] 概述
-> Open Court Reading 是一个面向小学的阅读项目，目标是发展儿童的英语阅读能力。Wadhwa et al. 将它作为清算中心评级一致性的案例之一，因为 [[What Works Clearinghouse]]、[[Blueprints for Healthy Youth Development]] 和 [[Best Evidence Encyclopedia]] 都评价该项目，并均得出 promising 判断([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.22]])。
+# Open Court Reading
 
-## 清算中心评级分歧
+---
 
-> [!info] 清算中心评级分歧
-> 三个清算中心都纳入同一项 Borman et al. (2008) [[Randomised Controlled Trials|RCT]]，并将其视为高质量证据；[[What Works Clearinghouse|WWC]] 和 [[Best Evidence Encyclopedia|BEE]] 还纳入 Skindrud & Gersten (2006) 的匹配 [[Quasi-Experimental Designs|QED]]，但 [[Blueprints for Healthy Youth Development|Blueprints]] 认为该 QED 未达到研究认证标准，因此没有把它纳入项目总体判断([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.22]])。
+## 项目定位与方案概况
+
+> [!info] 项目定位与方案概况
+> **开放式阅读（Open Court Reading, OCR）** 是由 SRA/McGraw-Hill 开发出版的美国全美知名学前至小学（Pre-K–6）基础读写与语言艺术综合课程方案，在全美成千上万所小学中广泛使用([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 22]])。
 >
-> 尽管底线评级一致，清算中心仍在细节上分歧。Blueprints 将 Borman et al. 的效应称为 very small，并指出可能的基线差异和差异[[Attrition|流失]]检验质量问题；WWC 在不同主题协议下对[[Statistical Significance|统计显著性]]和实质重要性采用不同判断；BEE 在不同综述中把同一研究分别称为 randomized quasi-experiment 和 RCT，并指出 Open Court 班级每日阅读教学时间更长可能构成混淆。
+> 在循证教育与政策元评估研究中，Open Court Reading 成为 **“表面底线评级一致掩盖底层方法学深层分歧（Surface Agreement Concealing Underlying Methodological Divergence）”** 的标志性经典案例——[[What Works Clearinghouse|WWC]]、[[Blueprints for Healthy Youth Development|Blueprints]] 与 [[Best Evidence Encyclopedia|BEE]] 三大权威清算中心均将其裁定为**“有望（Promising / Modest Evidence / Potentially Positive）”**，但其底层的证据池筛选、因果设计分类、效应量解释及混杂控制规则存在剧烈冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 22–23]])。
 
-## 案例意义
+---
 
-> [!success] 案例意义
-> Open Court Reading 案例说明，清算中心即使给出同样的 promising 底线判断，也可能在研究设计分类、效应大小解释、聚类处理和基线差异处理上采用不同标准。因此，评级一致不等于证据解释完全一致([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.22–23]])。
+## 课程设计与教学机制
 
-## 相关概念／政策
+> [!policy-design] 课程设计与教学架构
+> - **核心教学取向** 强调系统性与显性自然拼读（Systematic and Explicit Phonics）、音素意识（Phonemic Awareness）、词汇构建、流畅度训练与基于文学文本的阅读理解整合。
+> - **干预实施强度** 方案要求高度结构化的教学时间安排，标准实施要求每天分配 **2.5 小时（150 分钟）** 的综合读写教学时间。
+> - **适用对象与目标** 早期小学阶段（K–3 年级）处于阅读习得关键期的儿童，特别聚焦缩小低收入家庭与薄弱学校学生的早期读写能力鸿沟。
 
-> [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — Open Court Reading 是 Wadhwa et al. 用来解释清算中心评级一致性与隐性分歧的五个项目案例之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.21–23]])。
-> - [[What Works Clearinghouse]] — WWC 在两个不同阅读主题协议下审查 Open Court Reading，显示 outcome-domain-specific protocol 会影响证据解释([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.22]])。
-> - [[Best Evidence Encyclopedia]] — BEE 在不同综述中对同一研究的设计类型描述不同，是该案例中标准差异的关键细节。
+---
 
+## 循证清算中心评级全景对比
+
+> [!contrast-table] WWC、Blueprints 与 BEE 对 Open Court Reading 的评级与审查机制对比（基于 Wadhwa et al., 2024）
+> | 审查维度 | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development\|Blueprints]] (科罗拉多大学) | [[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin) |
+> |:---|:---|:---|:---|
+> | **最终底线评级** | **Potentially Positive（潜在积极）**<br>(With Reservations) | **Promising（有望）**<br>(二级认证) | **Moderate Evidence（中等证据）**<br>(加权 $ES = +0.13\text{ SD}$) |
+> | **核心 RCT (Borman 2008) 评定** | 认定为高质量证据；指出样本统计显著性未达标，但平均 $ES > 0.25\text{ SD}$，判定具实质重要性。 | 认证为标准 RCT，但定性效应为“非常微小（very small）”，指出存在未调整基线差异与差异流失风险。 | 在一年级综述中因班级数过少（9 实验 vs 7 对照）**降级为准实验（QED）**；在高年级综述中恢复为 RCT。 |
+> | **教学时间混杂识别** | **未识别 / 未报告**（未考察干预班级课时长度偏差）。 | **未识别 / 未报告**（未将教学课时差异列为效度威胁）。 | **明确指出课时混杂**，实验班每天 2.5 小时读写 vs 对照班仅 90 分钟，存在 67% 的额外课时偏差。 |
+> | **准实验 QED (Skindrud 2006)** | 发现未校正集群偏倚；自行实施统计校正后虽不显著但 $ES > 0.25$，**保留为支持性证据**。 | **彻底剔除并否决**；因未校正集群、脱落者基线不平衡及样本地域狭窄直接判定为不合格。 | **纳入元分析池**；与其他合格研究共同参与方差倒数加权效应量合成。 |
+> | **结果域聚合机制** | **按微观细分结果域独立发布**（在阅读理解、词汇与总分领域分别定级）。 | **整体方案统一评级（给出单一项目级推荐）**。 | **学科专项元分析综合**（初读与中读分别合成单一加权效应量）。 |
+
+---
+
+## 案例核心启示：表面一致掩盖底层分歧
+
+> [!critique] 评级一致性背后的三大方法学剪刀差
+> [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024, pp. 22–23)]] 指出，Open Court Reading 案例揭示了宏观循证教育评级中最容易误导政策制定者的“虚假共识”假象：
+>
+> 1. **核心 RCT 研究的因果定性与时间混杂识别剪刀差**
+>    - 针对 Borman et al. (2008) 的多中心集群 RCT，BEE 评审团队敏锐发现了其他机构完全忽略的**共时课时混杂（Time-on-Task Confounder）**——实验组每天接受 150 分钟读写教学，而对照组仅为 90 分钟常规教学。效应量的提升究竟源于 Open Court 课程本身的优越性，还是单纯源于多出了 60 分钟学习时间？WWC 与 Blueprints 对此完全失察。
+> 2. **准实验 QED 门槛的宽容度与剔除分歧**
+>    - 针对 Skindrud & Gersten (2006) 准实验研究，Blueprints 坚守严谨主义原则予以彻底剔除，而 WWC 在自行动手校正集群误差后，因效应量大于 0.25 SD 仍破格保留入库，展现了不同机构在准实验容忍度上的制度裁量权。
+> 3. **底线标签无法传递证据不确定性**
+>    - 政策制定者若仅查阅“Promising”这一最终标签，将完全无法获知背后的课时偏差、小样本班级降级与准实验争议，凸显了必须穿透标签审视底层证据链条的方法学必要性。
+
+---
+
+## 实证数据与效应量表现
+
+> [!stat-cards]- 核心实证研究数据快照
+> - **Borman et al. (2008)** 大型多中心集群 RCT，涵盖多个学区与数十所小学，各清算中心估计的净效应量在 **$+0.10$ 至 $+0.19\text{ SD}$** 之间（被 BEE 定性为“适度效应”）。
+> - **Skindrud & Gersten (2006)** 准实验匹配研究（QED），样本集中于特定加州薄弱学区，展示早期阅读成绩提升但存在集群校正与差异流失争议。
+> - **BEE 元分析加权平均效应量** 基于多项合格研究方差倒数加权合成结果为 **$ES = +0.13\text{ SD}$**（$p < 0.05$），达到 BEE 中等证据标准。
+
+---
+
+## 相关概念与制度脉络
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:---|:---|:---|
+> | [[Educational Evidence Clearinghouses]] | 核心概念 | OCR 是检验清算中心评级一致性与隐藏分歧的核心案型。 |
+> | [[What Works Clearinghouse]] | 评价机构 | 对 OCR 开展分域审查，展示了细分协议对证据解释的调节作用。 |
+> | [[Best Evidence Encyclopedia]] | 评价机构 | 唯一识别出 OCR 教学时长混杂并实施定量加权元分析的机构。 |
+> | [[Blueprints for Healthy Youth Development]] | 评价机构 | 对 OCR 实施严格 QED 剔除并给予整体 Promising 认证。 |
+> | [[Campbellian Validity Framework]] | 理论基础 | 解释 OCR 课时偏差（内部效度）与推广边界（外部效度）的理论透镜。 |

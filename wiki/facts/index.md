@@ -511,7 +511,7 @@ Total entries: **289**
 > - [[National Dropout Prevention Center]] — 专注高危学生辍学预防的非营利教育清算中心，以宽容的准入门槛（单项QED即可认证）和强制现场实际运行满3年要求为特征。
 > - [[National Science Foundation]] — 1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助
 > - [[NSF I-Corps]] — 2011 年由美国国家科学基金会启动的创业培训项目，已孵化超过 1000 家初创企业并累计获得超过 7.6 亿美元后续融资，核心是教授学者创业思维而非仅提供科研资金
-> - [[Open Court Reading]] — Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
+> - [[Open Court Reading]] — SRA/McGraw-Hill旗下K-6早期读写旗舰课程，在Wadhwa et al. (2024)元评估中作为表面评级一致（Promising）但底层文献池、因果分类与时间混杂解释存在深刻分歧的经典案例。
 > - [[Pajaro Dunes Statement of 1982]] — 1982 年由一批美国精英研究型大学在 Bayh-Dole Act 通过后不久共同发布的产学关系原则声明，确立了大学-企业合作协议的透明性原则
 > - [[Peer-Assisted Learning Strategies]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
 > - [[Promise Neighborhoods Research Consortium]] — 美国国家药物滥用研究所（NIDA）资助建立的多领域公共证据平台，基于培育环境理论为脆弱社区提供教育、行为与健康综合干预清单；2012年结项后归档。

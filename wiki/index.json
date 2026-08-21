@@ -11909,7 +11909,9 @@
     "aliases": [
       "时间序列设计",
       "time series quasi-experiment",
-      "interrupted time series"
+      "interrupted time series",
+      "ITS",
+      "间断时间序列设计"
     ]
   },
   {
@@ -16322,7 +16324,10 @@
     "type": "fact",
     "path": "wiki/facts/us/Open Court Reading.md",
     "aliases": [
-      "Open Court阅读教材"
+      "开放式阅读教材",
+      "Open Court Reading (OCR)",
+      "开放式阅读",
+      "OCR"
     ]
   },
   {
