@@ -338,7 +338,7 @@ Total entries: **208**
 
 > [!index-list]- Review of Educational Research (2)
 > - [[Argument_Hofer_1997_RER]] — 整理和比较了教育心理学中六种认识论信念发展模型，并提出涵盖四维度的认识论理论作为该领域的核心构念。
-> - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育证据清算中心的有效性标准与项目评级一致性，发现“evidence-based“在清算中心语境中构念效度有限
+> - [[Argument_Wadhwa_2024_RER]] — 比较 12 个教育证据清算中心的有效性标准与项目评级一致性，基于多质多法视角检验发现循证评级实践构念效度有限，分歧主要源于证据综合门槛而非因果识别偏好
 
 > [!index-list]- Review of Research in Education (1)
 > - [[Argument_Sandoval_2016_RRE]] — 对认识论认知研究的历史溯源、四大核心断层线（知识概念化、情境性、发展轨迹、测量方法）的系统梳理，并呼吁迈向整合的多元主义范式。
