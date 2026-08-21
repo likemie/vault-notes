@@ -114,7 +114,7 @@ updated: 2026-08-21
 > PPN 在早期教育清算生态中扮演了重要桥梁角色，其历史评级在后续 Wadhwa et al. 的多中心比较中被广泛引用：
 > - [[Open Court Reading]]（OCR）— PPN 评为 Promising，肯定其在早期识字率上的积极表现，但因部分研究[[Effect Size|效应量]]波动未达 Proven 门槛([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 22]])。
 > - [[Peer-Assisted Learning Strategies]]（PALS）— PPN 评为 Promising，与 [[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 共同构成对同伴辅导模式的广泛支持[[Chain of Evidence|证据链]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 23–24]])。
-> - [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）— PPN 历史评级为 Promising，与 [[National Dropout Prevention Center|NDPC]] 的最高推荐接近，但低于 [[Blueprints for Healthy Youth Development|Blueprints]] 和 WWC 的否定结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
+> - [[Communities in Schools]]（CIS）— PPN 历史评级为 Promising，与 [[National Dropout Prevention Center|NDPC]] 的最高推荐接近，但低于 [[Blueprints for Healthy Youth Development|Blueprints]] 和 WWC 的否定结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
 
 ---
 

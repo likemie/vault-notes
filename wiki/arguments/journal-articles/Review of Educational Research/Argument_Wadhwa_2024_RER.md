@@ -383,7 +383,7 @@ updated: 2026-08-21
 ### 步骤五：五大深度案例拆解与分歧归因
 
 > [!claim] 步骤五主张
-> 通过对五个知名成熟教育干预案例（开放式阅读 [OCR]、人人成功 [SFA]、[[Peer-Supported Learning|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies|PALS]]、量子机会项目 [[Quantum Opportunity Program|QOP]] / EQOP]、校内社区 [[Community Innovation Survey|CIS]]）的深入追踪，证明评级分歧主要是由证据综合门槛差异（独立复制与长期持续效果）和纳入[[Document|文献]]池差异驱动的，结果域细分与项目变体差异则是重要的次要调节因素(pp. 21–26)。
+> 通过对五个知名成熟教育干预案例（开放式阅读 [OCR]、人人成功 [SFA]、[[Peer-Supported Learning|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies|PALS]]、量子机会项目 [[Quantum Opportunity Program|QOP]] / EQOP]、校内社区 CIS）的深入追踪，证明评级分歧主要是由证据综合门槛差异（独立复制与长期持续效果）和纳入[[Document|文献]]池差异驱动的，结果域细分与项目变体差异则是重要的次要调节因素(pp. 21–26)。
 
 > [!chain-link] 案例一：开放式阅读（[[Open Court Reading]], OCR） —— 表面结论一致掩盖底层评估分歧
 > 小学早期读写项目，被 [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 和 [[Best Evidence Encyclopedia\|BEE]] 三家清算中心共同评价，均判定为“有望（Promising / Modest Evidence）”，但底层评价机制存在深刻分歧(pp. 22–23)：

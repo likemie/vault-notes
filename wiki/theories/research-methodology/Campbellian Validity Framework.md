@@ -118,7 +118,7 @@ updated: 2026-08-21
 > | [[Statistical Significance\|统计结论效度（Statistical Conclusion Validity）]] | 概念 / 核心维度 | 基于样本数据判断两变量之间是否存在协变关系的统计检验力与估计准确性。 |
 > | [[Threats to Internal Validity\|效度威胁（Threats to Validity）]] | 分类 / 机制 | 造成实验假象与因果误判的各种竞争性替代解释清单（如历史、成熟、回归均值、选择偏倚、[[Attrition\|流失]]）。 |
 > | [[Gating Procedure\|门控程序（Gating Procedure）]] | 方法 / 评价规程 | 依据“内部效度优先”原则设立的方法学初筛机制，未通过内部效度门槛的研究不进入推广性评估。 |
-> | [[多质多法矩阵（MTMM）]] | 方法 / 检验程序 | 通过多特质与多方法的双向交叉，系统检验测量与评价工具的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度。 |
+> | [[Multitrait-Multimethod Matrix|多特质-多方法矩阵（MTMM）]] | 方法 / 检验程序 | 通过多特质与多方法的双向交叉，系统检验测量与评价工具的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度。 |
 
 ---
 
@@ -201,7 +201,7 @@ updated: 2026-08-21
 
 > [!exegesis]- 教育研究例子
 > - **阅读干预的内部效度排除（命题一应用）** 在评估某项小学阅读补救课程时，若干预后阅读流利度提升，研究必须通过随机分配或 ABAB 阶段撤回，排除“学生年龄自然增长带来的阅读发展（成熟）”以及“学区同期开展的图书馆借阅激励计划（历史）”，方能将提分归因于课程本身([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 462]])。
-> - **清算中心构念效度分歧（命题三应用）** 针对 [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）项目，[[National Dropout Prevention Center|NDPC]] 依据单项准实验将其评为最高级 Strong，而 WWC 在辍学预防域评为 No Discernible Effects，[[Blueprints for Healthy Youth Development|Blueprints]] 亦未予认证。这一冲突在 Campbellian MTMM 框架下清晰展现了“有效性”这一构念由于各机构综合门槛不同而发生的内涵异化([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 25–26]])。
+> - **清算中心构念效度分歧（命题三应用）** 针对 [[Communities in Schools]]（CIS）项目，[[National Dropout Prevention Center|NDPC]] 依据单项准实验将其评为最高级 Strong，而 WWC 在辍学预防域评为 No Discernible Effects，[[Blueprints for Healthy Youth Development|Blueprints]] 亦未予认证。这一冲突在 Campbellian MTMM 框架下清晰展现了“有效性”这一构念由于各机构综合门槛不同而发生的内涵异化([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 25–26]])。
 
 ---
 

@@ -102,7 +102,7 @@ updated: 2026-08-21
 > [!formula-step] BEE 最高评级效应量门槛判定
 > BEE 对达到最高有效性评级的项目执行严格的定量门槛标准：
 >
-> $$\mathbf{ES}_{\text{weighted}} = rac{\sum w_i \cdot d_i}{\sum w_i} \ge +\mathbf{0.20	ext{ SD}} \quad (p < 0.05)$$
+> $$\mathbf{ES}_{\text{weighted}} = \frac{\sum w_i \cdot d_i}{\sum w_i} \ge +\mathbf{0.20\text{ SD}} \quad (p < 0.05)$$
 >
 > - **$d_i$** 单项研究中调整基线后的标准化平均差（Cohen's $d$ 或 Hedges' $g$）；
 > - **$w_i$** 对应研究效应量的方差倒数权重（$w_i = 1 / v_i$）；
@@ -115,8 +115,8 @@ updated: 2026-08-21
 > [!contrast-table] BEE 评级层级与标准
 > | 评级等级 | 核心准入条件与证据门槛 |
 > |:---|:---|
-> | **强证据（Strong Evidence of Effectiveness）** | 拥有 **至少 2 项高质量 [[Randomised Controlled Trials\|RCT]]（或 1 项大型多中心 RCT + 1 项高质量 [[Quasi-Experimental Designs\|QED]]）**；总[[Sample Size Determination\|样本量]]丰富（跨多校多班）；加权平均[[Effect Size\|效应量]]达到 **$\mathbf{ES \ge +0.20	ext{ SD}}$ 且统计显著**；至少 1 项研究干预持续一整学年。 |
-> | **中等证据（Moderate Evidence of Effectiveness）** | 至少 1 项 RCT 或 2 项高质量 QED，加权平均效应量 **$\mathbf{ES \ge +0.20	ext{ SD}}$**；或多项达标研究加权效应量在 $+0.10$ 至 $+0.19	ext{ SD}$ 之间。 |
+> | **强证据（Strong Evidence of Effectiveness）** | 拥有 **至少 2 项高质量 [[Randomised Controlled Trials\|RCT]]（或 1 项大型多中心 RCT + 1 项高质量 [[Quasi-Experimental Designs\|QED]]）**；总[[Sample Size Determination\|样本量]]丰富（跨多校多班）；加权平均[[Effect Size\|效应量]]达到 **$\mathbf{ES \ge +0.20\text{ SD}}$ 且统计显著**；至少 1 项研究干预持续一整学年。 |
+> | **中等证据（Moderate Evidence of Effectiveness）** | 至少 1 项 RCT 或 2 项高质量 QED，加权平均效应量 **$\mathbf{ES \ge +0.20\text{ SD}}$**；或多项达标研究加权效应量在 $+0.10$ 至 $+0.19\text{ SD}$ 之间。 |
 > | **有限证据（Limited Evidence of Effectiveness）** | 存在至少 1 项达标研究呈现积极趋势（$ES > 0$），但研究数量或样本量不足以得出稳健结论。 |
 > | **证据不足（Insufficient Evidence / No Qualifying Studies）** | 缺乏达标实证研究，或既有研究存在严重方法学缺陷（如无对照组、严重基线不平衡、干预小于 12 周）。 |
 
@@ -135,7 +135,7 @@ updated: 2026-08-21
 
 > [!warning] 跨清算中心评级分歧与共识案例
 > - [[Success for All]]（SFA）— SFA 是 Slavin 团队创立的旗舰全校改革方案，在 BEE 获得最高的 **Strong Evidence** 评级；在 [[What Works Clearinghouse|WWC]]（阅读理解 Positive）、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 亦获得一致高度评价，成为全库极少数在多机构间达成高度收敛的干预项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 23]])。
-> - [[Open Court Reading]]（OCR）— BEE 将其评为 **Moderate Evidence**（基于多项研究合成加权 $ES = +0.13	ext{ SD}$），与 WWC 的“潜在积极”及 [[Blueprints for Healthy Youth Development|Blueprints]] 的“有望（Promising）”保持宏观定性一致，但在微观因果证据池取舍上展现出元分析整合优势([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 22–23]])。
+> - [[Open Court Reading]]（OCR）— BEE 将其评为 **Moderate Evidence**（基于多项研究合成加权 $ES = +0.13\text{ SD}$），与 WWC 的“潜在积极”及 [[Blueprints for Healthy Youth Development|Blueprints]] 的“有望（Promising）”保持宏观定性一致，但在微观因果证据池取舍上展现出元分析整合优势([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 22–23]])。
 > - [[Peer-Assisted Learning Strategies]]（PALS）— BEE 将其小学数学与阅读版本分别评为 Moderate / Strong，肯定其同伴互助教学的高性价比与稳定提分效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 23–24]])。
 
 ---

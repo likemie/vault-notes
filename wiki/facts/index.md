@@ -494,7 +494,7 @@ Total entries: **289**
 > - [[CNCS Evidence Exchange]] — 美国国家与社区服务公司（AmeriCorps / 原CNCS）设立的联邦公共证据清算中心，为志愿服务、社区能力建设与青少年教育支持项目提供法定资助证据评级。
 > - [[Coleman Report 1966]] — 美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用
 > - [[Collaborative for Academic Social and Emotional Learning Guide]] — 非营利组织CASEL发布的教育专精证据清算指南，专注于Pre-K至高中社会情感学习（SEL）项目，以五大核心胜任力与高质量实施培训支持为特色。
-> - [[Communities in Schools]] — 美国综合学生支持项目，在多个证据清算中心中获得不一致评级，是教育干预证据分歧的典型案例
+> - [[Communities in Schools]] — 全美规模最大的综合学生支持（ISS）与预防辍学非营利组织，在Wadhwa et al. (2024)中作为从最高推荐（NDPC Strong）到彻底否决（WWC/Blueprints/CMFR拒认）呈现全库最大极性冲突的经典案例。
 > - [[Comparative and International Education Society]] — 1956年在美国成立的专业学术组织，原名比较教育学会（CES），1969年正式更名为比较与国际教育学会（CIES）。该学位的成立与更名进程折射了二战后比较教育领域向发展中国家技术援助、国际组织规训及地缘政治干预整合的“发展转向”历史进程，是全球规模最大、影响力最广的比较教育学术学会。
 > - [[Comparative Education Center at Chicago 1958]] — C. Arnold Anderson 于 1958 年在芝加哥大学创立的比较教育中心，在融合比较教育与教育经济学方面发挥了关键作用，帮助人力资本理论在全球扩散
 > - [[Creation of REES]] — IES 于 2018 年启动的教育项目评估预注册平台（Registry of Efficacy and Effectiveness Studies），旨在缓解可疑研究实践并增加对知识库的信心

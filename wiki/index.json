@@ -5691,7 +5691,10 @@
       "experimental mortality",
       "attrition bias",
       "流失偏差",
-      "dropout"
+      "实验死亡率",
+      "差异流失",
+      "differential attrition",
+      "overall attrition"
     ]
   },
   {
@@ -16159,7 +16162,9 @@
     "type": "fact",
     "path": "wiki/facts/us/Communities in Schools.md",
     "aliases": [
-      "学校中的社区"
+      "学校中的社区",
+      "校内社区",
+      "Communities in Schools (CIS)"
     ]
   },
   {

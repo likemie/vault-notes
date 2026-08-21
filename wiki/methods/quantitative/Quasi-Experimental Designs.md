@@ -120,11 +120,11 @@ updated: 2026-08-21
 > [!framework-table] 准实验五大经典设计亚型对比（基于 Cohen et al., 2011, Ch. 16）
 > | 设计亚型 | 经典符号模型 | 核心机制与控制优势 | 主要效度威胁与防范 | 典型应用情境 |
 > |:---|:---:|:---|:---|:---|
-> | **非等对控制组前后测设计<br>(Non-equivalent Control Group)** | $rac{O_1 \quad X \quad O_2}{O_3 \quad\quad\quad O_4}$ | 教育中最广泛使用；通过前测 $O_1, O_3$ 建立基线，控制历史与成熟主效应 | 威胁：**选择-成熟交互（Selection $	imes$ Maturation）**；防范：协变量调整与倾向匹配 | 班级或学校整体采纳新课程的教学对比 |
+> | **非等对控制组前后测设计<br>(Non-equivalent Control Group)** | $\frac{O_1 \quad X \quad O_2}{O_3 \quad\quad\quad O_4}$ | 教育中最广泛使用；通过前测 $O_1, O_3$ 建立基线，控制历史与成熟主效应 | 威胁：**选择-成熟交互（Selection $\times$ Maturation）**；防范：协变量调整与倾向匹配 | 班级或学校整体采纳新课程的教学对比 |
 > | **间断时间序列设计<br>(Interrupted Time Series, ITS)** | $O_1 O_2 O_3 \ X \ O_4 O_5 O_6$ | 干预前后多时间点连续观测，通过前测趋势线外推建立动态反事实 | 威胁：与干预同时发生的历史事件；防范：引入非等对对照时间序列 | 区域性中高考改革、全校行为管理系统实施 |
-> | **断点回归设计<br>(Regression Discontinuity, RDD)** | $rac{C \quad X \quad O_1}{C \quad\quad\quad O_2}$ | 依据连续变量阈值（Cut-off）分组，断点局域近似随机分配（因果效力最高） | 威胁：阈值操纵（Manipulation）；防范：断点密度检验与带宽敏感性分析 | 依据成绩达线入选的资优生项目或补救辅导 |
-> | **轮换对等设计<br>(Counterbalanced Design)** | $rac{X_A O_1 X_B O_2}{X_B O_3 X_A O_4}$ | 两组交叉接受不同干预，所有被试兼任自身对照，控制组间不可测异质性 | 威胁：**处理滞留污染（Carry-over Effect）**；防范：设置充足的清洗期（Washout Period） | 两种短期互补教学策略或数字软件轮换测试 |
-> | **仅后测非等对组设计<br>(Posttest-Only Non-equivalent)** | $rac{X \quad O_1}{\quad\quad O_2}$ | 无法获取前测时的妥协设计；依赖事后统计匹配尝试控制已知背景变量 | 威胁：严重的初始选择偏倚；属于弱因果设计 | 突发教育事件评估或历史档案回溯研究 |
+> | **断点回归设计<br>(Regression Discontinuity, RDD)** | $\frac{C \quad X \quad O_1}{C \quad\quad\quad O_2}$ | 依据连续变量阈值（Cut-off）分组，断点局域近似随机分配（因果效力最高） | 威胁：阈值操纵（Manipulation）；防范：断点密度检验与带宽敏感性分析 | 依据成绩达线入选的资优生项目或补救辅导 |
+> | **轮换对等设计<br>(Counterbalanced Design)** | $\frac{X_A O_1 X_B O_2}{X_B O_3 X_A O_4}$ | 两组交叉接受不同干预，所有被试兼任自身对照，控制组间不可测异质性 | 威胁：**处理滞留污染（Carry-over Effect）**；防范：设置充足的清洗期（Washout Period） | 两种短期互补教学策略或数字软件轮换测试 |
+> | **仅后测非等对组设计<br>(Posttest-Only Non-equivalent)** | $\frac{X \quad O_1}{\quad\quad O_2}$ | 无法获取前测时的妥协设计；依赖事后统计匹配尝试控制已知背景变量 | 威胁：严重的初始选择偏倚；属于弱因果设计 | 突发教育事件评估或历史档案回溯研究 |
 
 ---
 
@@ -133,14 +133,14 @@ updated: 2026-08-21
 > [!formula-step] 双重差分模型（DID）与 WWC 基线等值分级判定
 > 
 > 1. **双重差分因果效应估计模型（Difference-in-Differences）**
->    $$Y_{it} = eta_0 + eta_1 \cdot 	ext{Treat}_i + eta_2 \cdot 	ext{Post}_t + \mathbf{\delta} \cdot (	ext{Treat}_i 	imes 	ext{Post}_t) + \mathbf{\gamma}' \mathbf{X}_{it} + arepsilon_{it}$$
+>    $$Y_{it} = \beta_0 + \beta_1 \cdot \text{Treat}_i + \beta_2 \cdot \text{Post}_t + \mathbf{\delta} \cdot (\text{Treat}_i \times \text{Post}_t) + \mathbf{\gamma}' \mathbf{X}_{it} + \varepsilon_{it}$$
 >    - **$\delta$** 核心因果效应参数（净处理效应），代表干预组在干预前后的变化量减去控制组的变化量；
 >    - **$\mathbf{X}_{it}$** 控制的可观察协变量向量（如家庭经济背景、先前基线成绩）。
 >
 > 2. **WWC 对 QED 的基线等值性（Baseline Equivalence）三级判定准则**
->    - **基线差异 $\le 0.05	ext{ SD}$** 判定为基线完全等价，统计模型无需额外控制即满足“有保留达标”；
->    - **$0.05	ext{ SD} < 	ext{基线差异} \le 0.25	ext{ SD}$** 判定为中度失衡，**必须**在回归模型中纳入前测协变量进行统计调整；
->    - **基线差异 $> 0.25	ext{ SD}$** 判定为严重不等价，直接裁定为“未达标（Does Not Meet Standards）”，否定其因果推断资格([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
+>    - **基线差异 $\le 0.05\text{ SD}$** 判定为基线完全等价，统计模型无需额外控制即满足“有保留达标”；
+>    - **$0.05\text{ SD} < \text{基线差异} \le 0.25\text{ SD}$** 判定为中度失衡，**必须**在回归模型中纳入前测协变量进行统计调整；
+>    - **基线差异 $> 0.25\text{ SD}$** 判定为严重不等价，直接裁定为“未达标（Does Not Meet Standards）”，否定其因果推断资格([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 
 ---
 
@@ -149,7 +149,7 @@ updated: 2026-08-21
 > [!framework-table] 循证清算中心对 QED 的准入门槛与评级待遇对比（基于 Wadhwa et al., 2024）
 > | 清算中心 / 政策法规 | 对 QED 因果设计的描述强度 | 允许获得的最高评级待遇 | 关键限制条件与特殊要求 |
 > |:---|:---:|:---|:---|
-> | **[[What Works Clearinghouse\|WWC]] (美国联邦)** | 2 级 (明确规程) | **Meets Standards With Reservations**<br>(封顶于二等，不得作为单项一等证据) | 必须满足严苛的基线等值性要求（$\le 0.25	ext{ SD}$）及整体/差异流失模型。 |
+> | **[[What Works Clearinghouse\|WWC]] (美国联邦)** | 2 级 (明确规程) | **Meets Standards With Reservations**<br>(封顶于二等，不得作为单项一等证据) | 必须满足严苛的基线等值性要求（$\le 0.25\text{ SD}$）及整体/差异流失模型。 |
 > | **[[ESSA 2015 Evidence Standards\|ESSA 2015]] (联邦立法)** | 法定分级 | **Tier 2 (Moderate Evidence)**<br>(中等证据法定上限) | 要求具备良好的统计控制与广泛代表性，作为学区申请联邦资助的合法依据。 |
 > | **[[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin)** | 1 级 (元分析纳入) | **Moderate / Strong** (需与 RCT 结合) | 允许高质量 QED 纳入元分析；最高 Strong 证据允许“1 项大型多中心 RCT + 1 项高质量 QED”组合。 |
 > | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 3 级 (严苛规程) | **Promising** (封顶于二等) | 排除单独 QED 参评 Model / Model Plus 顶级认证；强制要求独立评估者报告与持续效果。 |

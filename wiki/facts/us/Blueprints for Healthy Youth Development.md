@@ -124,7 +124,7 @@ updated: 2026-08-21
 ## 生态定位与评级分歧案例
 
 > [!warning] 跨中心分歧与典型案例
-> - [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）— 经审查，CIS 因缺乏无经济利益关联的独立第三方复制研究，未能获得 Blueprints 的 Model Plus 顶级认证；同时因部分随访期效果衰退，与 [[National Dropout Prevention Center|NDPC]] 的最高推荐形成鲜明对比([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
+> - [[Communities in Schools]]（CIS）— 经审查，CIS 因缺乏无经济利益关联的独立第三方复制研究，未能获得 Blueprints 的 Model Plus 顶级认证；同时因部分随访期效果衰退，与 [[National Dropout Prevention Center|NDPC]] 的最高推荐形成鲜明对比([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
 > - [[Success for All]]（SFA）— SFA 依靠全美范围内大量的独立学者复制研究与长期追踪数据，成功跨越了 Blueprints 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 的严苛门槛，成为极少数获得跨机构多重高度认可的典范项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 23]])。
 
 ---

@@ -107,7 +107,7 @@ updated: 2026-08-21
 
 > [!warning] 跨中心分歧与典型案例
 > SPTW 的极高门槛导致全美绝大多数声名显赫的教育干预被挡在门外：
-> - [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）— 尽管在 [[National Dropout Prevention Center|NDPC]] 获评最高级，但在 SPTW 审核中，因缺乏跨多个独立学区的一致大型 [[Randomised Controlled Trials|RCT]] 复制数据，未能进入 Top [[Top Institute for Evidence-Based Education Research|TIER]] 榜单([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
+> - [[Communities in Schools]]（CIS）— 尽管在 [[National Dropout Prevention Center|NDPC]] 获评最高级，但在 SPTW 审核中，因缺乏跨多个独立学区的一致大型 [[Randomised Controlled Trials|RCT]] 复制数据，未能进入 Top [[Top Institute for Evidence-Based Education Research|TIER]] 榜单([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
 
 ---
 
