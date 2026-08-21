@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 57
+method_related_count: 59
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Rating Scale]]"
   - "[[Attrition]]"
   - "[[Pre-test Sensitisation]]"
+  - "[[Scientific Attitude]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -80,10 +81,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: '2026-07-21'
+updated: 2026-08-22
 ---
 
 # Survey Research
@@ -306,4 +308,12 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 > - 如果研究者关注捕捉地方性、制度性或小规模因素和[[Variable|变量]]——描绘情境的特殊性、独特性和复杂性、人际动态，以及解释为何某种情境发生或某人为何表现出特定行为——则调查方法可能并不适合。其解释潜力和细节精细度有限，它会牺牲在不受时间、空间或地方情境影响的概括性泛化中（p.259）。
 > - 个体实例被牺牲在聚合回应中（这对受访者具有匿名性、不可追踪性和保密性的吸引力）（p.259）。
 > - 横截面设计难以建立[[Causality|因果关系]]。
+
+---
+
+## 使用此方法的研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026b)]] — 综合运用 2025 年公众[[Scientific Attitude|科学态度]]调查（PAS 2025）与英国科研人员科学参与调查的全国抽样数据，评估公众参与需求、信任度及制度障碍。
+
 

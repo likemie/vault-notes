@@ -9,7 +9,7 @@ title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
 argument_display_title: "Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Reliability]]"
   - "[[International Schools]]"
+  - "[[Scientific Literacy]]"
   - "[[Global Universities Rankings]]"
   - "[[International Baccalaureate]]"
   - "[[Hypothesis]]"
@@ -49,7 +50,7 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: 2026-07-08
+updated: 2026-08-22
 year: 2010
 doi: ""
 citation_aliases:
@@ -102,7 +103,7 @@ Slethaug 的起点是一个看似平淡但很关键的观察：**教育几乎在
 
 第一个打破"教育=本地事务"的信号，是 [[OECD]] 在 2000 年推出的 [[PISA|国际学生评估项目]]（PISA）(pp.6–8)。
 
-Slethaug 的逻辑是：PISA 意味着各国不再生活在"教育茧"里——同样的考试可以发给几十个国家的几十万学生，结果可以列表比较，而且这些比较结果真的会影响教育策略。为什么？因为 PISA 测量的不是"是否掌握了某国课程"，而是阅读、数学和科学素养——即"充分参与社会"所需的核心技能。"充分参与社会"实际上意味着**经济竞争力**。
+Slethaug 的逻辑是：PISA 意味着各国不再生活在"教育茧"里——同样的考试可以发给几十个国家的几十万学生，结果可以列表比较，而且这些比较结果真的会影响教育策略。为什么？因为 PISA 测量的不是"是否掌握了某国课程"，而是阅读、数学和[[Scientific Literacy|科学素养]]——即"充分参与社会"所需的核心技能。"充分参与社会"实际上意味着**经济竞争力**。
 
 > 例：PISA 的早期轮次已经揭示了一些反直觉的发现。芬兰、香港、韩国、挪威和加拿大在各项素养中持续领先，且都拥有强劲经济——这说明高素养与经济成功之间的关系不是西方独有的。同时，第二代移民的表现优于本地出生学生，女性在学校完成率上几乎普遍超越男性（在全球化国家中）。这些发现直接挑战了关于"哪个族群擅长什么"的刻板印象。(pp.8–9)
 

@@ -817,6 +817,14 @@
     ]
   },
   {
+    "title": "AI Literacy",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/AI Literacy.md",
+    "aliases": [
+      "人工智能素养"
+    ]
+  },
+  {
     "title": "Approaches to Teaching and Learning",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Approaches to Teaching and Learning.md",
@@ -887,6 +895,15 @@
     "path": "wiki/concepts/curriculum/Critical Pedagogy.md",
     "aliases": [
       "批判教育学"
+    ]
+  },
+  {
+    "title": "Data Literacy",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Data Literacy.md",
+    "aliases": [
+      "数据素养",
+      "数据素养教育"
     ]
   },
   {
@@ -1107,6 +1124,16 @@
     "aliases": [
       "科学技术研究",
       "STS"
+    ]
+  },
+  {
+    "title": "Scientific Literacy",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Scientific Literacy.md",
+    "aliases": [
+      "科学素养",
+      "科学素养教育",
+      "science literacy"
     ]
   },
   {
@@ -4315,6 +4342,17 @@
       "peer tutoring",
       "互帮互学",
       "同伴互助"
+    ]
+  },
+  {
+    "title": "Practical Inquiry in Science Education",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Practical Inquiry in Science Education.md",
+    "aliases": [
+      "科学教育中的实践探究",
+      "实验探究教学",
+      "practical work in science",
+      "enquiry-based learning"
     ]
   },
   {
@@ -8583,6 +8621,17 @@
     ]
   },
   {
+    "title": "Deficit Model of Science Communication",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Deficit Model of Science Communication.md",
+    "aliases": [
+      "赤字模型",
+      "科学传播赤字模型",
+      "deficit model",
+      "亏缺模型"
+    ]
+  },
+  {
     "title": "Discursive Opportunity Structures",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Discursive Opportunity Structures.md",
@@ -8798,6 +8847,17 @@
     ]
   },
   {
+    "title": "Public Engagement with Science",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Public Engagement with Science.md",
+    "aliases": [
+      "公众科学参与",
+      "PES",
+      "public engagement with research",
+      "公众参与科学"
+    ]
+  },
+  {
     "title": "School Choice",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/School Choice.md",
@@ -8806,6 +8866,14 @@
       "学校选择",
       "parental school choice",
       "school choice policy"
+    ]
+  },
+  {
+    "title": "Science Capital",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Science Capital.md",
+    "aliases": [
+      "科学资本"
     ]
   },
   {
@@ -13251,6 +13319,16 @@
     ]
   },
   {
+    "title": "Carlos Frenk",
+    "type": "person",
+    "path": "wiki/persons/uk/Carlos Frenk.md",
+    "aliases": [
+      "Frenk, C.",
+      "卡洛斯·弗伦克",
+      "Carlos S. Frenk"
+    ]
+  },
+  {
     "title": "Christopher Day",
     "type": "person",
     "path": "wiki/persons/uk/Christopher Day.md",
@@ -13610,6 +13688,16 @@
     ]
   },
   {
+    "title": "Sheila Rowan",
+    "type": "person",
+    "path": "wiki/persons/uk/Sheila Rowan.md",
+    "aliases": [
+      "Rowan, S.",
+      "希拉·罗文",
+      "Sheila Rowan FRS"
+    ]
+  },
+  {
     "title": "Stephen Ball",
     "type": "person",
     "path": "wiki/persons/uk/Stephen Ball.md",
@@ -13625,6 +13713,17 @@
     "aliases": [
       "Wrigley, T.",
       "特里·瑞格利"
+    ]
+  },
+  {
+    "title": "Walter Bodmer",
+    "type": "person",
+    "path": "wiki/persons/uk/Walter Bodmer.md",
+    "aliases": [
+      "Bodmer, W.",
+      "瓦尔特·博德默尔",
+      "沃尔特·博德默",
+      "Sir Walter Bodmer"
     ]
   },
   {
@@ -15915,6 +16014,26 @@
     ]
   },
   {
+    "title": "Beyond 2000 Report",
+    "type": "fact",
+    "path": "wiki/facts/uk/Beyond 2000 Report.md",
+    "aliases": [
+      "Beyond 2000",
+      "Beyond 2000 Science Education for the Future"
+    ]
+  },
+  {
+    "title": "Bodmer Report 1985",
+    "type": "fact",
+    "path": "wiki/facts/uk/Bodmer Report 1985.md",
+    "aliases": [
+      "博德默尔报告",
+      "1985年博德默尔报告",
+      "The Bodmer Report",
+      "Public Understanding of Science Report 1985"
+    ]
+  },
+  {
     "title": "British Sociological Association Statement on Visual Research Ethics",
     "type": "fact",
     "path": "wiki/facts/uk/British Sociological Association Statement on Visual Research Ethics.md",
@@ -16040,6 +16159,16 @@
     ]
   },
   {
+    "title": "Public Attitudes to Science Survey 2025",
+    "type": "fact",
+    "path": "wiki/facts/uk/Public Attitudes to Science Survey 2025.md",
+    "aliases": [
+      "PAS 2025",
+      "2025年英国公众对科学的态度调查",
+      "Public Attitudes to Science 2025"
+    ]
+  },
+  {
     "title": "Research Excellence Framework",
     "type": "fact",
     "path": "wiki/facts/uk/Research Excellence Framework.md",
@@ -16078,6 +16207,16 @@
     ]
   },
   {
+    "title": "Twenty First Century Science",
+    "type": "fact",
+    "path": "wiki/facts/uk/Twenty First Century Science.md",
+    "aliases": [
+      "21世纪科学课程",
+      "21世纪科学",
+      "Twenty First Century Science Project"
+    ]
+  },
+  {
     "title": "UK Knowledge Exchange Framework",
     "type": "fact",
     "path": "wiki/facts/uk/UK Knowledge Exchange Framework.md",
@@ -16085,6 +16224,16 @@
       "英国知识交流框架",
       "KEF",
       "Knowledge Exchange Framework"
+    ]
+  },
+  {
+    "title": "UK Science Education Tracker",
+    "type": "fact",
+    "path": "wiki/facts/uk/UK Science Education Tracker.md",
+    "aliases": [
+      "英国科学教育追踪调查",
+      "Science Education Tracker",
+      "SET 2023"
     ]
   },
   {
@@ -17275,6 +17424,16 @@
     "title": "Argument_QiMei_2015_EducationalResearchMethods",
     "type": "argument",
     "path": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md"
+  },
+  {
+    "title": "Argument_RoyalSociety_2026_ScienceForSociety",
+    "type": "argument",
+    "path": "wiki/arguments/books/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md"
+  },
+  {
+    "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch01",
+    "type": "argument",
+    "path": "wiki/arguments/books/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch01.md"
   },
   {
     "title": "Argument_Ryan_2010_ChineseLearner",

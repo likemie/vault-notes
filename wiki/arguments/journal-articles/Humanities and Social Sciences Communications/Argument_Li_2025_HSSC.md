@@ -45,6 +45,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
   - "[[Academic Achievement]]"
+  - "[[Scientific Literacy]]"
   - "[[Praxis]]"
   - "[[Active Learning]]"
   - "[[Interaction Effect]]"
@@ -78,14 +79,14 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-07-13
+updated: 2026-08-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -248,7 +249,7 @@ issuing_organization: ""
 
 > [!dimension] 微观决策层面的两种表现
 > - **课程改革**
->   德国基于 PISA 结果的课程改革话语围绕学生如何将知识和技能应用于解决多种情境中的相关问题。知识掌握不再被视为判断学业成功的关键指标；学生通过课程学习获得的学习能力成为课程评价的焦点。Neumann et al.（2010）详细讨论了 PISA 对德国科学教育的影响：PISA 是德国 **NES 课程（Nationale Bildungsstandards，国家教育标准）**建设的基础，NES 纳入了 PISA 测试框架中的科学素养概念，包括理解与[[Praxis|实践]]与科学相关的情境，特别强调科学在日常生活中的关键角色。
+>   德国基于 PISA 结果的课程改革话语围绕学生如何将知识和技能应用于解决多种情境中的相关问题。知识掌握不再被视为判断学业成功的关键指标；学生通过课程学习获得的学习能力成为课程评价的焦点。Neumann et al.（2010）详细讨论了 PISA 对德国科学教育的影响：PISA 是德国 **NES 课程（Nationale Bildungsstandards，国家教育标准）**建设的基础，NES 纳入了 PISA 测试框架中的[[Scientific Literacy|科学素养]]概念，包括理解与[[Praxis|实践]]与科学相关的情境，特别强调科学在日常生活中的关键角色。
 > - **学制调整**
 >   瑞士通过 HarmoS 协调了国家教育结构，将义务教育从 9 年延长至 11 年（2006 年），并扩展了学校体系以对接 PISA 测试周期标准（Bieber & Martens, 2011）。
 

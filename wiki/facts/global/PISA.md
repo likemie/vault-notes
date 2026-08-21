@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Reference Society]]"
   - "[[PISA Literacy]]"
+  - "[[Scientific Literacy]]"
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
   - "[[Evidence-Based Education]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: "2026-05-17"
-updated: 2026-08-20
+updated: 2026-08-22
 ---
 
 # PISA
@@ -87,7 +88,7 @@ updated: 2026-08-20
 ### 设计与实施
 
 > [!feature]
-> - **评估周期与对象** 每三年评估一次 15 岁学生的阅读、数学和科学素养，重点不是具体课程记忆，而是学生是否具备充分参与社会所需的知识和能力（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.7]]）。
+> - **评估周期与对象** 每三年评估一次 15 岁学生的阅读、数学和[[Scientific Literacy|科学素养]]，重点不是具体课程记忆，而是学生是否具备充分参与社会所需的知识和能力（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.7]]）。
 > - **主测领域轮换** 每一轮会有一个主测领域，其余领域仍保留评估。
 > - **共同量表与跨国可比框架** 通过共同量表和跨国可比框架，把各国教育表现转化成排名、平均分与差距叙事；相关测量技术背景可见 [[Rasch Measurement]]。
 
@@ -123,7 +124,7 @@ updated: 2026-08-20
 > - **中观决策层面**
 >   改善教师教育（约旦、法国、加拿大）；对接 PISA 标准的全国性教育评估体系建设（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP）；强化学校管理监测与持续改进（日本证据—改进循环）。
 > - **微观决策层面**
->   课程改革——接受 PISA 能力标准（德国 NES 课程引入科学素养概念）；学制调整（瑞士 HarmoS 延长义务教育 9→11 年）。
+>   课程改革——接受 PISA 能力标准（德国 NES 课程引入[[Scientific Literacy|科学素养]]概念）；学制调整（瑞士 HarmoS 延长义务教育 9→11 年）。
 > 各国案例及论证细节详见 [[Argument_Li_2025_HSSC|Li et al. (2025)]]。
 
 > [!dimension] 公平路径：机会—过程—结果三维度

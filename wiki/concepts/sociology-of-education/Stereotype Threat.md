@@ -5,7 +5,7 @@ aliases:
 summary: "社会心理学概念，指个体意识到针对自身群体的负面刻板印象时产生的额外情感与认知负担，进而影响表现、参与和认同。"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Deficiencies Model for an Introduction]]"
+  - "[[Deficit Model of Science Communication]]"
   - "[[Chinese Learner]]"
   - "[[Orientalism]]"
   - "[[Document]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: '2026-05-18'
+updated: 2026-08-22
 ---
 
 # Stereotype Threat
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 > [!example]
 > - vs 偏见（prejudice）— 偏见是持有者对某一群体的负面态度；刻板印象威胁是**被标签者**在意识到刻板印象存在时产生的心理反应，不要求被标签者自身持有偏见
 > - vs 自我实现的预言（self-fulfilling prophecy）— 刻板印象威胁是自我实现预言的**触发机制**之一：刻板印象 → 威胁感 → 行为改变 → 刻板印象被"证实"。前者是原因端，后者是结果端
-> - vs 文化[[Deficiencies Model for an Introduction|缺陷模型]]（cultural deficit model）— 文化缺陷模型直接声称某群体"缺乏"某种能力；刻板印象威胁不判断群体是否真的"缺乏"，而是解释**为什么即使没有缺乏，刻板标签本身也会制造出缺乏的效果**
+> - vs 文化[[Deficiencies Model for an Introduction|缺陷模型]]（cultural [[Deficit Model of Science Communication|deficit model]]）— 文化缺陷模型直接声称某群体"缺乏"某种能力；刻板印象威胁不判断群体是否真的"缺乏"，而是解释**为什么即使没有缺乏，刻板标签本身也会制造出缺乏的效果**
 
 ## 概念演变
 

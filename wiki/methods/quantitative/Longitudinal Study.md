@@ -9,9 +9,9 @@ summary: "在多个时间点对同一或不同受访者收集数据的调查研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -43,10 +43,13 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
   - "[[Argument_Trautwein_2007_CEP]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+related_facts:
+  - "[[UK Science Education Tracker]]"
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-08-19
+updated: 2026-08-22
 ---
 
 # Longitudinal Study
@@ -209,3 +212,5 @@ updated: 2026-08-19
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统讨论了纵向研究作为[[Survey Research|调查研究]]设计的定义、类型（前瞻性/回溯性、队列/面板/趋势）、优势与局限，以及与其他研究设计的比较。
 > - [[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] — 采用两波前瞻性面板追踪设计（高中毕业阶段 T1 与大学就读阶段 T2，间隔两年），通过在跨期回归模型中控制 T1 初始信念，成功分离并检验了[[Epistemological Beliefs|认识论信念]]在专业发展中的“自我选择效应”与“[[Disciplinary Socialization|学科社会化]]效应”。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 使用[[UK Science Education Tracker|英国科学教育追踪调查]]（SET）多轮纵向监测数据，分析 2016–2023 年间英格兰中学生课堂动手实验频率的持续衰减趋势。
+
