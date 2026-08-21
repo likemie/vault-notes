@@ -35,23 +35,23 @@ updated: 2026-08-19
 ## 工具定位
 
 > [!instrument-profile] VNOS
-> - **工具类型** 问卷与访谈结合的测量工具（open-ended questionnaire supplemented with interviews）。
+> - **工具类型** [[Questionnaire|问卷]]与访谈结合的测量工具（open-ended questionnaire supplemented with interviews）。
 > - **开发者与年份** Lederman et al. (2002)。
-> - **测量目的** 评估学生对科学本质（Nature of Science）的理解水平，将学生的认识论观点分类为“朴素（naïve）”、“知情（informed）”或“过渡型（in transition）”。
-> - **实施方式** 自陈（开放式问答）与半结构化访谈（用于澄清和深挖回答背后的认知）。
+> - **测量目的** 评估学生对科学本质（Nature of Science）的理解水平，将学生的[[Epistemology|认识论]]观点分类为“朴素（naïve）”、“知情（informed）”或“过渡型（in transition）”。
+> - **实施方式** 自陈（开放式问答）与[[Semi-structured Interview|半结构化访谈]]（用于澄清和深挖回答背后的认知）。
 
 ---
 
 ## 测量构念与维度
 
-VNOS 的核心测量构念为[[Formal Epistemology|形式认识论]]（Formal Epistemology）。问卷评估了科学教育界广泛共识的七个“科学本质”核心面向：
+VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论]]（Formal [[Epistemology]]）。[[Questionnaire|问卷]]评估了科学教育界广泛共识的七个“科学本质”核心面向：
 
 > [!construct-table] [[Formal Epistemology]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **暂定性（Tentative）** | — | 科学知识是暂时的，可根据新证据修改。 | 质性编码：朴素 / 过渡 / 知情 |
+> | **暂定性（Tentative）** | — | 科学知识是暂时的，可根据新证据修改。 | [[Coding in Qualitative Research\|质性编码]]：朴素 / 过渡 / 知情 |
 > | **主观性（Subjective）** | — | 科学知识承载了理论负载（theory-laden）。 | 质性编码：朴素 / 过渡 / 知情 |
 > | **经验基础（Empirical）** | — | 科学主张依赖于经验观察。 | 质性编码：朴素 / 过渡 / 知情 |
 > | **创造性（Creative）** | — | 科学知识的产生包含科学家的直觉、创造和想象。 | 质性编码：朴素 / 过渡 / 知情 |
@@ -73,7 +73,7 @@ VNOS 的核心测量构念为[[Formal Epistemology|形式认识论]]（Formal Ep
 >
 > | 编号 | 题项 | 作答选项 | 计分 | 来源 |
 > |---|---|---|---|---|
-> | — | （受限于当前收录文献，具体题目暂缺） | 开放作答 | 质性编码（朴素/知情） | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 638)]] |
+> | — | （受限于当前收录[[Document\|文献]]，具体题目暂缺） | 开放作答 | [[Coding in Qualitative Research\|质性编码]]（朴素/知情） | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 638)]] |
 
 ---
 
@@ -84,7 +84,7 @@ VNOS 的核心测量构念为[[Formal Epistemology|形式认识论]]（Formal Ep
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果与批评 |
 > |---|---|---|---|---|
-> | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] | VNOS（各子版本） | 用于评估大范围学生的科学本质观，及探究干预对认识论的影响。 | — | 批评其具有“脱离情境（decontextualized）”的局限性。许多学生在面对 VNOS 的脱域问题时，给出非常幼稚的回答（如把实验视为按部就班的证明），但这可能仅仅激活了他们对遥远专业科学的“刻板印象”，而非他们真实的认识论能力。 |
+> | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] | VNOS（各子版本） | 用于评估大范围学生的科学本质观，及探究干预对[[Epistemology\|认识论]]的影响。 | — | 批评其具有“脱离情境（decontextualized）”的局限性。许多学生在面对 VNOS 的脱域问题时，给出非常幼稚的回答（如把实验视为按部就班的证明），但这可能仅仅激活了他们对遥远专业科学的“刻板印象”，而非他们真实的认识论能力。 |
 
 ---
 
@@ -95,4 +95,4 @@ VNOS 的核心测量构念为[[Formal Epistemology|形式认识论]]（Formal Ep
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版 VNOS-C 等 | 英语 | 学生与教师 | — | 原始开放式问卷架构 | Lederman et al. (2002) |
+> | 原始版 VNOS-C 等 | 英语 | 学生与教师 | — | 原始开放式[[Questionnaire\|问卷]]架构 | Lederman et al. (2002) |

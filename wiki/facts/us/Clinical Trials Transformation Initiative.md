@@ -50,7 +50,7 @@ CTTI 的运作方式不是自上而下的监管指令，而是召集产业方、
 ## 产出
 
 > [!success]
-> 截至目前，CTTI 已领导并发布超过 30 套基于证据的建议、框架和工具来改善[[Clinical Trial|临床试验]]（p.210）。代表性项目包括基地度量项目（site metrics project），该项目按基地类型和 [[Institutional Review Board|IRB]] 类型分析启动度量指标，为各机构提供可操作的效率基准（p.206）。
+> 截至目前，CTTI 已领导并发布超过 30 套基于证据的建议、框架和工具来改善[[Clinical Trial|临床试验]]（p.210）。代表性项目包括基地度量项目（site metrics project），该项目按基地类型和 [[Institutional Review Board|IRB]] [[Typological Analysis|类型分析]]启动度量指标，为各机构提供可操作的效率基准（p.206）。
 
 这些建议覆盖了从试验设计、基地选择、机构审查委员会（Institutional Review Board, IRB）审查到数据质量的各个环节，构成了产学在临床试验协作中最具系统性的改善框架。
 

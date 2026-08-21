@@ -61,7 +61,7 @@ updated: 2026-05-18
 
 > [!note]- 时间线
 > - 2002 年 Centre for Evidence Based Policy and Practice 总结了 EBP 成功的四个关键要求
-> - 2000s 早期 [[Campbell Collaboration]] 等通用证据清算中心开始运作
+> - 2000s 早期 [[Campbell Collaboration]] 等通用[[Educational Evidence Clearinghouses|证据清算中心]]开始运作
 > - 2011 年 Sutton Trust / [[Education Endowment Foundation|EEF]] 成立，发布 Teaching and Learning Toolkit
 > - 2013 年 What Works Network 正式建立，Goldacre (2013b) 发表"Building Evidence into Education"倡导 [[Randomised Controlled Trials|RCT]]
 > - 2015 年 Cowen & Cartwright 发表本工作论文，评估网络的实施效果

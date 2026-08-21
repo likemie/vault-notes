@@ -45,7 +45,7 @@ updated: 2026-08-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 把独特个体与其情境作为分析核心，重视意义、语言与主观诠释。
-> - **用途** 支撑[[Qualitative Research|质性研究]]、[[Case Study|案例研究]]、生命史与叙事分析。
+> - **用途** 支撑[[Qualitative Research|质性研究]]、[[Case Study|案例研究]]、生命史与[[Narrative Analysis|叙事分析]]。
 > - **边界** 不以发现可推广的普遍法则为目的，结论的普适性有限。
 
 ## 概念辨析

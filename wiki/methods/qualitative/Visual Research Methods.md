@@ -69,7 +69,7 @@ updated: 2026-08-11
 > - **研究对象** 照片与静态图像、影片与动态图像、器物以及它们所处的社会与文化语境。
 > - **问题类型** 描述性、解释性与揭示性[[Research Question|研究问题]]，尤其适合捕捉即时情境、非言语行为、情绪氛围与物质环境的隐性信息。
 > - **分析单位** 单幅图像、图像序列、录像片段、器物组合、场景与互动。
-> - **输出形式** [[Coding in Qualitative Research|编码]]与主题、内容分析、扎根式范畴、图像的多重解读与叙事。
+> - **输出形式** [[Coding in Qualitative Research|编码]]与主题、[[Content Analysis|内容分析]]、扎根式范畴、图像的多重解读与叙事。
 
 > [!citation-card]- 方法定位的经典表述
 > 视觉媒体不是中立的；它们有意或无意地传递信息，我们以多种方式解读它们。图像是建构的社会事件与视角、权力与权力关系、社会关系与社会差异。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27|Cohen et al. (2011, 27.1)]]
@@ -87,7 +87,7 @@ updated: 2026-08-11
 > [!method-stack] 方法层级
 > - **研究设计** [[Ethnography|民族志]]、[[Case Study|案例研究]]、[[Action Research|行动研究]]、访谈研究等质性设计，常作为其中一种资料收集途径。
 > - **数据收集** 照片与静态图像、影片与动态图像、器物（详见各小节），以及相关的照片引谈访谈。
-> - **分析方法** [[Coding in Qualitative Research|编码]]、内容分析、[[Grounded Theory|扎根理论]]式的图像—编码不断比较、类型与文类识别、反复观看与第三方复核。
+> - **分析方法** [[Coding in Qualitative Research|编码]]、[[Content Analysis|内容分析]]、[[Grounded Theory|扎根理论]]式的图像—编码[[Constant Comparison|不断比较]]、类型与文类识别、反复观看与第三方复核。
 > - **辅助技术** 固定或移动镜头、参与者自行拍摄、抽样与选择标准、[[Informed Consent|知情同意]]与匿名化处理。
 
 ## 研究程序
@@ -96,7 +96,7 @@ updated: 2026-08-11
 > 1. **明确[[Research Question|研究问题]]与资料来源** 确定要研究什么问题、由谁制作或提供图像，涉及研究者、受访者、既有档案或再现。
 > 2. **选择图像** 可由研究者或参与者选取图像；若无现成图像则需指定选择标准，可基于目的抽样、分层[[Random Sampling|随机抽样]]、代表性抽样等。
 > 3. **收集数据** 按媒体类型执行，照片拍摄或收集、录像记录、[[Artefact|器物]]观察与检视；考虑自然／摆拍、固定／移动镜头等。
-> 4. **处理解读** 对图像与文本进行[[Coding in Qualitative Research|编码]]、内容分析、扎根式比较；反复观看录像并允许第三方核查；将[[Visual Data|视觉数据]]纳入[[Triangulation|三角互证]]。
+> 4. **处理解读** 对图像与文本进行[[Coding in Qualitative Research|编码]]、[[Content Analysis|内容分析]]、扎根式比较；反复观看录像并允许第三方核查；将[[Visual Data|视觉数据]]纳入[[Triangulation|三角互证]]。
 > 5. **伦理处理** 获得[[Informed Consent|知情同意]]（含对拍摄与复制的许可）、匿名化或遮蔽识别特征、对[[Covert Research|隐蔽研究]]与公开场所拍摄保持审慎。
 
 ### 照片与静态图像
@@ -106,7 +106,7 @@ updated: 2026-08-11
 >
 > **数据用途** 照片传达文字难以承载的意义，包括真实生活、情绪、氛围与感觉；既可补充其他数据，也可独立成据。照片既承载主位意义，也承载客位意义（同时具有[[Emic and Etic|主位与客位]]性质）。
 >
-> **分析方式** 可对访谈文本、[[Field Notes|田野笔记]]进行常规分析，使用文本分析软件（如 ATLAS.ti）、编码、内容分析与[[Grounded Theory|扎根理论]]取向的图像—编码不断比较。
+> **分析方式** 可对访谈文本、[[Field Notes|田野笔记]]进行常规分析，使用文本分析软件（如 ATLAS.ti）、编码、内容分析与[[Grounded Theory|扎根理论]]取向的图像—编码[[Constant Comparison|不断比较]]。
 >
 > **取样标准** 图像选择可来自参与者或研究者；可运用[[Stratified Sampling|随机分层抽样]]、代表性抽样、[[Convenience Sampling|便利抽样]]等，但图像稀缺时严格抽样不可行；选择标准应明确指定并加以辩护。
 

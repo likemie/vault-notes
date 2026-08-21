@@ -94,7 +94,7 @@ updated: 2026-08-01
 > [!concept-lens] 个体差异的可比较性
 > 这一命题关注常模参照为何重视数量尺度、分数变异和[[Item Analysis|题目区分度]]，以及这些技术要求如何由“比较个体”的目的推出。
 
-> [!claim] Cohen, L., Manion, L., & Morrison, K.
+> [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
 > **题目质量取决于比较功能** 当测验用于区分个体时，题目必须产生足够差异。难度适中、能够区分高低分者的题目更有价值；如果题目过易，所有学生都答对，它便难以提供排序信息。由此可见，常模参照的题目分析围绕相对差异展开，而不是围绕共同掌握展开。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011, Ch. 24.3)]]
 
 > [!claim] [[John Biggs|Biggs, J.]]

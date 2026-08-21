@@ -94,7 +94,7 @@ updated: 2026-07-22
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research|质性研究]]、[[Case Study|案例研究]]、[[Ethnography|民族志]]、[[Grounded Theory|扎根理论]]、[[Phenomenology|现象学]]研究
 > - **数据收集** 一对一访谈、[[Focus Group|焦点小组]]、[[Group Interview|小组访谈]]、[[Telephone Interview|电话访谈]]、电子邮件访谈
-> - **分析方法** [[Coding in Qualitative Research|编码]]、主题分析、[[Phenomenology|现象学]]分析、叙事分析、内容分析
+> - **分析方法** [[Coding in Qualitative Research|编码]]、主题分析、[[Phenomenology|现象学]]分析、[[Narrative Analysis|叙事分析]]、[[Content Analysis|内容分析]]
 > - **辅助技术** [[Interview Protocol|访谈提纲]]、追问、[[Pilot Testing|预测试]]、录音与[[Transcription in Qualitative Research|转录]]、人员校验、[[Triangulation|三角互证]]
 
 ---
@@ -156,7 +156,7 @@ Kvale（1996, p. 88）提出访谈调查的七个阶段（[[Argument_Cohen_Manio
 > 2. **设计** 将研究目标转化为访谈问题，选择问题格式、回答模式，构建[[Interview Protocol|访谈提纲]]。
 > 3. **访谈实施** 建立融洽关系、管理互动动态、保持[[Fitness for Purpose|适合目的]]的引导程度。
 > 4. **[[Transcription in Qualitative Research|转录]]** 将口头遭遇转换为书面文本——这是选择性转换，数据损失风险巨大。
-> 5. **分析** 通过[[Coding in Qualitative Research|编码]]、内容分析或[[Phenomenology|现象学]]程序生成意义。
+> 5. **分析** 通过[[Coding in Qualitative Research|编码]]、[[Content Analysis|内容分析]]或[[Phenomenology|现象学]]程序生成意义。
 > 6. **验证** 在全部七个阶段持续进行效度核验。
 > 7. **报告** 以适合目的的格式呈现发现。
 

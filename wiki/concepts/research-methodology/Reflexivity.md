@@ -159,7 +159,7 @@ McCormick & James（1988, p. 191）进一步论述了操作含义：高度的反
 ## 反身性与数据分析中的偏误来源
 
 > [!claim] "所有研究都是在研究自己"
-> 质性数据分析几乎不可避免地是诠释性的，与其说它是精确的表征（如量化、实证主义传统），不如说是研究者与被去脉络化数据之间的反思性、反应性互动——而这些数据本身已是对社会遭遇的诠释。研究者带着自身的先入之见、兴趣、偏误、偏好、传记、背景与议程进入数据；正如 Walford（2001, p. 98）所写："所有研究都是在研究自己"（all research is researching yourself）。研究者可能对焦点有选择性，研究也可能受研究者主观特征的影响。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
+> 质性数据分析几乎不可避免地是诠释性的，与其说它是精确的表征（如量化、[[Positivism|实证主义]]传统），不如说是研究者与被去脉络化数据之间的反思性、反应性互动——而这些数据本身已是对社会遭遇的诠释。研究者带着自身的先入之见、兴趣、偏误、偏好、传记、背景与议程进入数据；正如 Walford（2001, p. 98）所写："所有研究都是在研究自己"（all research is researching yourself）。研究者可能对焦点有选择性，研究也可能受研究者主观特征的影响。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
 
 > [!factors] 质性数据分析中的偏误来源（Robson, 1993, pp. 374–5; Lincoln & Guba, 1985, pp. 354–5）
 > - **数据过载（data overload）** 人类可能无法处理大量数据。
@@ -167,16 +167,16 @@ McCormick & James（1988, p. 191）进一步论述了操作含义：高度的反
 > - **人员可得性（availability of people）** 例如这些人的代表性如何，以及如何知道缺失的人员与数据是否重要。
 > - **信息可得性（information availability）** 易于获取的信息可能比难以获得的数据获得更多关注。
 > - **正例（positive instances）** 研究者可能过度强调确证数据，低估否证数据。
-> - **内部一致性（internal consistency）** 不寻常、意外或新颖之处可能被轻描淡写。
-> - **信度不均（uneven reliability）** 研究者可能忽视某些来源比其他来源更可靠／不可靠。
+> - **[[Internal Consistency|内部一致性]]（internal consistency）** 不寻常、意外或新颖之处可能被轻描淡写。
+> - **[[Reliability|信度]]不均（uneven reliability）** 研究者可能忽视某些来源比其他来源更可靠／不可靠。
 > - **缺失数据（missing data）** 数据不完整的问题可能被忽视或遗漏。
-> - **假设修订（revision of hypotheses）** 研究者可能对新数据反应过度或不足。
+> - **[[Hypothesis|假设]]修订（revision of hypotheses）** 研究者可能对新数据反应过度或不足。
 > - **判断信心（confidence in judgement）** 研究者可能对最终判断信心过强。
 > - **共现误认为关联（co-occurrence mistaken for association）** 共现不等于关联。
 > - **不一致（inconsistency）** 对同一数据的后续分析可能得出不同结果；著名例子如 Bennett（1976）与 Aitken et al.（1981）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
 
 > [!warning] 分析可能更多反映研究者而非数据
-> 质性数据分析中研究者须极为谨慎并保持自我觉察，因为分析与发现可能更多反映研究者本人而非数据。正是研究者设定分析所用的编码与类别（无论是预设的还是回应性的），是研究者的议程驱动研究，是研究者选择方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
+> 质性数据分析中研究者须极为谨慎并保持自我觉察，因为分析与发现可能更多反映研究者本人而非数据。正是研究者设定分析所用的[[Coding in Qualitative Research|编码]]与类别（无论是预设的还是回应性的），是研究者的议程驱动研究，是研究者选择方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|(Cohen et al., 2011, 29.4)]]
 
 ---
 

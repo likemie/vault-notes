@@ -72,7 +72,7 @@ updated: 2026-07-22
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research|质性研究]]、[[Case Study|案例研究]]、[[Grounded Theory|扎根理论]]
 > - **数据收集** [[Interview Protocol|访谈提纲]]、一对一访谈、[[Focus Group|焦点小组]]
-> - **分析方法** [[Coding in Qualitative Research|编码]]、主题分析、内容分析
+> - **分析方法** [[Coding in Qualitative Research|编码]]、主题分析、[[Content Analysis|内容分析]]
 > - **辅助技术** 追问、[[Pilot Testing|预测试]]、渐进式聚焦法
 
 ---

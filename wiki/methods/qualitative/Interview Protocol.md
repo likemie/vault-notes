@@ -90,7 +90,7 @@ updated: 2026-07-22
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research|质性研究]]、[[Mixed Methods Research|混合方法研究]]中的质性部分
 > - **数据收集** 一对一访谈、[[Focus Group|焦点小组]]访谈
-> - **分析方法** [[Coding in Qualitative Research|编码]]、主题分析、内容分析
+> - **分析方法** [[Coding in Qualitative Research|编码]]、主题分析、[[Content Analysis|内容分析]]
 > - **辅助技术** [[Pilot Testing|预测试]]、录音与[[Transcription in Qualitative Research|转录]]、访谈者培训
 
 ---

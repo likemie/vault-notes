@@ -47,7 +47,7 @@ updated: '2026-05-18'
 ## 清算中心评级分歧
 
 > [!info] 清算中心评级分歧
-> 五个清算中心都没有给出负面评价，但评价强度不同。Blueprints、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 和 [[Social Programs That Work|SPTW]] 将其评为 promising；[[What Works Clearinghouse|WWC]] 根据不同结果域给出从 recommended 到 mixed 的判断；[[Best Evidence Encyclopedia|BEE]] 对不同项目变体给出 strong 或 modest evidence of effectiveness([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
+> 五个清算中心都没有给出负面评价，但评价强度不同。[[Blueprints for Healthy Youth Development|Blueprints]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 和 [[Social Programs That Work|SPTW]] 将其评为 promising；[[What Works Clearinghouse|WWC]] 根据不同结果域给出从 recommended 到 mixed 的判断；[[Best Evidence Encyclopedia|BEE]] 对不同项目变体给出 strong 或 modest evidence of effectiveness([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
 >
 > 用于评价 SFA 的研究数量差异很大：SPTW 使用 6 项研究，CMFR 使用 8 项，WWC 使用 9 项，Blueprints 考察 16 项但只认证 1 项。Borman et al. (2007) 是四个清算中心共同审查的核心 [[Randomised Controlled Trials|RCT]]，但它们对该研究的基线等值、随访期和结果域解释仍有差异。
 

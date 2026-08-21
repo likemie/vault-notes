@@ -65,7 +65,7 @@ updated: 2026-07-22
 > [!method-stack] 方法层级
 > - **研究设计** 治疗性研究、深度[[Case Study|个案研究]]
 > - **数据收集** 自由[[Dialogue in Education|对话]]、最少干预、受访者主导
-> - **分析方法** 主题分析、叙事分析、[[Phenomenology|现象学]]分析
+> - **分析方法** 主题分析、[[Narrative Analysis|叙事分析]]、[[Phenomenology|现象学]]分析
 > - **辅助技术** [[Active Listening|积极倾听]]、反映、澄清、接纳
 
 ---

@@ -70,7 +70,7 @@ updated: 2026-07-22
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research|质性研究]]设计，常与其他方法（个别访谈、[[Questionnaire|问卷]]、观察）[[Triangulation|三角互证]]。
 > - **数据收集** 同质性小组（4–12 人，Morgan 建议；6–8 人，Fowler 建议），半结构化话题指南，技能性主持，录音记录。
-> - **分析方法** 主题分析、内容分析、群体互动分析（关注参与者如何相互支持、影响、补充、同意和不同意）。
+> - **分析方法** 主题分析、[[Content Analysis|内容分析]]、群体互动分析（关注参与者如何相互支持、影响、补充、同意和不同意）。
 > - **辅助技术** 过度招募（超额招募多达 20% 以应对缺席，Morgan, 1988, p. 44）；目的抽样确保每人是所需特征的承载者或群体具有所需背景的同质性；[[Transcription in Qualitative Research|转录]]与[[Coding in Qualitative Research|编码]]。
 
 ---
@@ -123,4 +123,4 @@ updated: 2026-07-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21)]] — [[Systematic Review|系统综述]]焦点小组的定义、用途、操作程序、局限和与[[Group Interview|群体访谈]]的区别。
-> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] — 在其研究的质性阶段，通过举办多场焦点小组访谈（N=33）让教师们深入讨论，利用小组互动挖掘出“被改变的视角”和“教学哲学的深层转变”等主题，解释了量化问卷无法探究的因果机制。
+> - [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] — 在其研究的质性阶段，通过举办多场焦点小组访谈（N=33）让教师们深入讨论，利用小组互动挖掘出“被改变的视角”和“教学哲学的深层转变”等主题，解释了量化[[Questionnaire|问卷]]无法探究的因果机制。

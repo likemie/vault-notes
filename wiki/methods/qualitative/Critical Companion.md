@@ -54,7 +54,7 @@ updated: 2026-05-21
 > [!example]
 > [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.254-260)]]对 [[Single-Case Design|SCD]] 的批判性伴随分析遵循以下步骤：
 
-1. **文本汇编** 收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, [[OECD]], [[Epistemic Cognition|EC]]），时间跨度超过 15 年([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.255-257]])
+1. **文本汇编** 收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, [[OECD]], EC），时间跨度超过 15 年([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.255-257]])
 2. **框架结构化** 按发布时间排列，将各框架的技能和素养定义按聚类和定义进行结构化呈现，识别跨框架的共同模式和术语差异([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.254-258]])
 3. **识别核心特征** 从汇编的框架中归纳出 SCD 的四个分析维度——共同技能聚类、结果导向、经济增长叙事和全球均质化倾向([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.258-260]])
 4. **精细化分析（fine-grained analysis）** 通过三组"张力对"（tension-pairs）细致揭示主体性的生产过程([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.260-263]])

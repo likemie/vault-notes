@@ -44,7 +44,7 @@ updated: 2026-07-11
 ## 核心要素
 
 > [!case] 经典案例：Whyte《街角社会》中的 Doc
-> William Foote Whyte (1993, 原版 1943) 在芝加哥的"街角社会"研究中，Doc 作为帮派核心人物担任了担保人角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 207–208]]）：
+> [[William Foote Whyte]] (1993, 原版 1943) 在芝加哥的"街角社会"研究中，Doc 作为帮派核心人物担任了担保人角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 207–208]]）：
 >
 > "你告诉我你想让我看什么，我们来安排。当你想了解信息时，我会去问，你听着。当你想了解他们的人生哲学时，我会挑起争论并为你获取它……你以朋友的身份进来。"（Whyte, 1993, p. 292）
 >

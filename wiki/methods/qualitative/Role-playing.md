@@ -77,7 +77,7 @@ updated: 2026-08-03
 > [!method-stack] 方法层级
 > - **研究设计** [[Case Study|案例研究]]设计、[[Quasi-Experimental Designs|准实验设计]]（如角色扮演组 vs 传统教学组的比较）、纵向追踪设计（如记录多次角色扮演中的技能发展变化）。
 > - **数据收集** 直接观察、数字录像、参与者反思日志或日记、"热座"问答（hot seating）、角色扮演后的[[Focus Group|焦点小组]]访谈。
-> - **分析方法** 主题分析、内容分析、发展性[[Coding in Qualitative Research|编码]]评分（如对反思写作的逐句分析）、比较分析（如录像回放前后的反思质量对比）。
+> - **分析方法** 主题分析、[[Content Analysis|内容分析]]、发展性[[Coding in Qualitative Research|编码]]评分（如对反思写作的逐句分析）、比较分析（如录像回放前后的反思质量对比）。
 > - **辅助技术** 角色卡（role cards）、流媒体视频服务器、数字录像回放、参与者日记。
 
 ---

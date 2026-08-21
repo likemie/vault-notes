@@ -81,10 +81,10 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CASEL 因果设计描述程度编码为 **RCT=1, QED=1, RDD=0, ITS=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> CASEL 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=1, [[Quasi-Experimental Designs|QED]]=1, RDD=0, ITS=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
-> 1. **对照组实证设计** 要求拥有至少 1 项包含实验组与对照组（RCT 或严格匹配 QED）的实证评估研究。
-> 2. **统计显著成效** 在干预结束后的即时或延时测量中，在学生的行为改善、心理健康或学业成绩上呈现具有统计显著性的积极成效。
+> 1. **对照组实证设计** 要求拥有至少 1 项包含实验组与对照组（RCT 或严格匹配 QED）的实证[[Evaluation Research|评估研究]]。
+> 2. **统计显著成效** 在干预结束后的即时或延时测量中，在学生的行为改善、心理健康或学业成绩上呈现具有[[Statistical Significance|统计显著性]]的积极成效。
 
 ---
 
@@ -93,7 +93,7 @@ updated: 2026-08-21
 > [!contrast-table] CASEL 核心评级等级与标准
 > | 评级等级 | 核心准入条件与证据门槛 |
 > |:---|:---|
-> | **CASEL SELect（最高精选认证）** | 包含成套且连贯的 SEL 教学设计；为学校提供高质量的专业发展培训；拥有 **至少 1 项良好实施的实证研究（RCT 或 QED）** 证明对行为或学业有显著正向效果。 |
+> | **CASEL SELect（最高精选认证）** | 包含成套且连贯的 SEL 教学设计；为学校提供高质量的专业发展培训；拥有 **至少 1 项良好实施的实证研究（[[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]）** 证明对行为或学业有显著正向效果。 |
 > | **Promising Programs（有前景项目）** | 教学设计符合 CASEL 框架且具备初步实证成效支持，但在全校性推广支持或实证证据量上稍有欠缺。 |
 > | **Not Included / Insufficient Evidence** | 未达到实证或实施支持门槛的项目。 |
 
@@ -103,7 +103,7 @@ updated: 2026-08-21
 
 > [!warning] 跨中心分歧与典型案例
 > CASEL 专注于 SEL 领域的垂直深耕，其认证方案在全美学区选购情绪管理与霸凌预防课程时具有极高号召力：
-> - 与 WWC 相比，CASEL 更强调**教学法设计与教师培训可获得性**，而 WWC 则更聚焦于微观统计偏差与数据流失率，体现了专业学科中介与通用因果清算中心的侧重点差异([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
+> - 与 [[What Works Clearinghouse|WWC]] 相比，CASEL 更强调**教学法设计与教师培训可获得性**，而 WWC 则更聚焦于微观统计偏差与数据[[Attrition|流失]]率，体现了专业学科中介与通用因果清算中心的侧重点差异([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
 
 ---
 

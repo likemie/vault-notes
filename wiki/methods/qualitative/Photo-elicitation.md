@@ -78,7 +78,7 @@ updated: 2026-08-11
 > 2. **确定照片来源** 照片可以是研究者拍摄的、受访者应研究者之邀拍摄的（研究者可提供相机），或受访者已有的照片。
 > 3. **以照片开启访谈** 从照片开始提问，照片显示什么、谁拍的、何时何地、背后有什么故事。
 > 4. **借助照片的共同焦点** 共同注视照片，形成共同关注，引入中性的第三方。
-> 5. **记录并分析** 访谈[[Transcription in Qualitative Research|转录]]后按常规方法分析，包括[[Coding in Qualitative Research|编码]]、内容分析、[[Grounded Theory|扎根理论]]取向的图像与编码不断比较。
+> 5. **记录并分析** 访谈[[Transcription in Qualitative Research|转录]]后按常规方法分析，包括[[Coding in Qualitative Research|编码]]、[[Content Analysis|内容分析]]、[[Grounded Theory|扎根理论]]取向的图像与编码[[Constant Comparison|不断比较]]。
 
 > [!info] 照片在访谈中的缓冲作用
 > 在访谈中注视照片可以避免尴尬的沉默，也无需维持直接眼神接触，这对某些参与者（如儿童）可能令人生畏，尤其当存在研究者与参与者之间的权力与地位差异时。把注意力集中在照片上，可以冲淡把访谈当成一场测试或盘问的感受，尤其是当照片来自参与者本人时。

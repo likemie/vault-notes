@@ -58,9 +58,9 @@ updated: 2026-08-21
 ## 概述
 
 > [!info] 机构定位与运营概况
-> **军人家庭准备清算中心（Clearinghouse for Military Family Readiness, CMFR）** 是由美国国防部（DoD）、美国农业部国家食品与农业研究所（USDA/NIFA）与宾夕法尼亚州立大学联合发起设立的公共部门证据清算中心，旨在服务全美军人家庭、军属及随军子女的教育与身心发展需求([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
+> **军人家庭准备清算中心（[[Educational Evidence Clearinghouses|Clearinghouse]] for Military Family Readiness, CMFR）** 是由美国国防部（DoD）、美国农业部国家食品与农业研究所（USDA/NIFA）与宾夕法尼亚州立大学联合发起设立的公共部门证据清算中心，旨在服务全美军人家庭、军属及随军子女的教育与身心发展需求([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
-> CMFR 覆盖军人子女学业表现、心理健康、家庭适应力与就业准备等领域。当前处于**活跃运营（Active）**状态，官方平台为 [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)，持续维护“证据连续体（Continuum of Evidence）”数据库。
+> CMFR 覆盖军人子女[[Academic Achievement|学业表现]]、心理健康、家庭适应力与就业准备等领域。当前处于**活跃运营（Active）**状态，官方平台为 [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)，持续维护“证据连续体（Continuum of Evidence）”数据库。
 
 ---
 
@@ -70,14 +70,14 @@ updated: 2026-08-21
 > 鉴于美军官兵及其家属面临高频次跨州调防、海外部署与战斗创伤等特殊压力，随军子女在基础教育阶段普遍面临适应困难。
 >
 > - **联邦三方联合资助** 获得国防部与农业部持续拨款支持，为各军种家庭支援项目与国防部海外军人子女学校系统（DoDEA）提供循证项目采购依据。
-> - **同行评审文献硬门槛** 明确规定仅纳入发表于同行评审期刊的科学研究，排除未经验证的内部报告([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
+> - **同行评审[[Document|文献]]硬门槛** 明确规定仅纳入发表于同行评审期刊的科学研究，排除未经验证的内部报告([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 
 ---
 
 ## 评级对象与项目纳入范围
 
 > [!feature] 评价范围与项目入库
-> - **样本贡献** 在 Wadhwa et al. 汇总的教育项目池中，CMFR 贡献了 **166 个项目**（属于学业表现、学校氛围与就学准备主题）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
+> - **样本贡献** 在 Wadhwa et al. 汇总的教育项目池中，CMFR 贡献了 **166 个项目（属于[[Academic Achievement|学业表现]]、学校氛围与就学准备主题）**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
 > - **评估对象级别** 仅针对具名干预项目进行整体评估与连续体分级。
 
 ---
@@ -85,10 +85,10 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CMFR 因果设计描述程度编码为 **RCT=3, QED=3, RDD=0, ITS=0**，是少数同时为 RCT 和准实验（QED）均制定详尽审查手册的机构之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
+> CMFR 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=3, RDD=0, ITS=0**，是少数同时为 RCT 和准实验（QED）均制定详尽审查手册的机构之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
 >
-> 1. **流失率刚性红线** 设定了不超过 **20%** 的总样本流失率上限，且对处理组与对照组差异流失进行严格控制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
-> 2. **准实验匹配控制** 对 QED 的倾向得分匹配、基线协变量平衡性制定了细致的审核规程。
+> 1. **[[Attrition|流失]]率刚性红线** 设定了不超过 **20%** 的总样本流失率上限，且对处理组与对照组差异流失进行严格控制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
+> 2. **准实验匹配控制** 对 QED 的倾向得分匹配、基线协[[Variable|变量]]平衡性制定了细致的审核规程。
 
 ---
 
@@ -97,7 +97,7 @@ updated: 2026-08-21
 > [!contrast-table] CMFR 证据连续体评级等级
 > | 评级等级 | 核心准入条件与方法学门槛 |
 > |:---|:---|
-> | **Effective（有效·最高级）** | 拥有 **至少 2 项在同行评审期刊发表的高质量 RCT 或严格控制的 QED**；研究样本充分；在核心结果指标上表现出统计显著的正向因果效应；无任何有害副反应。 |
+> | **Effective（有效·最高级）** | 拥有 **至少 2 项在同行评审期刊发表的高质量 [[Randomised Controlled Trials\|RCT]] 或严格控制的 [[Quasi-Experimental Designs\|QED]]**；[[Study Population and Sample\|研究样本]]充分；在核心结果指标上表现出统计显著的正向因果效应；无任何有害副反应。 |
 > | **Promising（有前景）** | 拥有至少 1 项同行评审发表的高质量研究，展示出统计显著的正向效果。 |
 > | **Tentative（初步探索）** | 仅有小样本或前实验数据，初步呈现积极效果。 |
 > | **Unclear / Ineffective** | 证据不足、设计存在重大偏倚风险，或经检验无显著效果/存在潜在危害。 |

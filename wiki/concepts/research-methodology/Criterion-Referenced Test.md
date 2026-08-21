@@ -105,7 +105,7 @@ updated: 2026-08-01
 > [!claim] [[John Biggs|Biggs, J.]]
 > **标准模型以学习结果为对象** 大学教学以改变学生为目的，因此总结性评估应识别学生学会了什么、学得多好。标准参照把目标表现作为判断对象，不要求把学生放入预定分布。学生之间的差距可以随着[[Effective Teaching|有效教学]]而缩小，甚至所有学生都达到标准；这种结果表示教学取得成功，而不是测验失去作用。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 69–70)]]
 
-> [!claim] Cohen, L., Manion, L., & Morrison, K.
+> [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
 > **共同掌握改变题目评价方式** 在标准参照框架下，题目价值取决于它能否准确判断目标是否达到。经过有效教学后，如果所有学生都答对某道关键题，低区分度可以反映共同掌握，而不必自动视为题目缺陷。这一判断与常模参照追求分数变异的逻辑不同。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011, Ch. 24.3)]]
 
 ---

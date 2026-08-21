@@ -76,7 +76,7 @@ updated: '2026-05-18'
 > [!abstract] 政策文本摘要
 > [[What Works Clearinghouse|WWC]] [[Single-Case Design|SCD]] Pilot Standards（全称：[[Single-Case Design]] Technical Documentation Version 1.0 (Pilot)）由 Kratochwill and Hitchcock 以及专家组为 Institute of Education Sciences (IES) 在合同 ED-07-CO-0062 下与 Mathematica Policy Research, Inc. 合作开发([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.459]])。
 >
-> > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works Clearinghouse (WWC)."
+> > "The Standards that are described in the technical documentation were developed by a Panel of authors for the Institute of Education Sciences (IES) under Contract ED-07-CO-0062 with Mathematica Policy Research, Inc. to operate the What Works [[Educational Evidence Clearinghouses|Clearinghouse]] (WWC)."
 >
 > 标准的核心设计逻辑基于 [[Campbellian Validity Framework]]（Shadish, 1995; Shadish et al., 2002），该框架适用于能够产生因果证据的多种设计类型([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
 

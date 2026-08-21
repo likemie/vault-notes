@@ -75,7 +75,7 @@ updated: 2026-08-21
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **Campbellian 效度框架**<br>[[Campbellian Validity Framework]] | 从 Campbell & Fiske (1959) 的[[Multitrait-Multimethod Matrix|多特质-多方法（MTMM）矩阵]]视角出发，将“基于证据”视作教育科学[[Praxis\|实践]]中的[[Construct\|构念]]。不同清算中心（不同测量方法）对同一项目（同一特质）的评级必须高度收敛，[[Reliability\|信度]]与可靠性是[[Construct Validity\|构念效度]]的[[Necessary and Sufficient Conditions\|必要条件]](p. 4)。 |
+> | **Campbellian 效度框架**<br>[[Campbellian Validity Framework]] | 从 Campbell & Fiske (1959) 的[[Multitrait-Multimethod Matrix\|多特质-多方法（MTMM）矩阵]]视角出发，将“基于证据”视作教育科学[[Praxis\|实践]]中的[[Construct\|构念]]。不同清算中心（不同测量方法）对同一项目（同一特质）的评级必须高度收敛，[[Reliability\|信度]]与可靠性是[[Construct Validity\|构念效度]]的[[Necessary and Sufficient Conditions\|必要条件]](p. 4)。 |
 > | **循证教育**<br>[[Evidence-Based Education]] | 提供制度与政策背景[[Hypothesis\|假设]]：假设高质量科学证据能够有效识别干预因果效应并支持大规模推广。论文严格区分了科学语境中基于严谨因果标准的 evidence-based 与公共政策语境中宽泛等同于“有正向效果”的 evidence-based。 |
 > | **因果识别与因果估计**<br>[[Causality]] | 区分单项研究的因果推断有效性（[[Internal Validity\|内部效度]]控制、[[Attrition\|流失]]、基线等值）与跨研究因果证据综合的附加条件（外部复制、独立性、时间持久性）(pp. 8–15)。 |
 
