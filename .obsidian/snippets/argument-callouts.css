@@ -1631,7 +1631,9 @@
   display: none;
 }
 
-.callout[data-callout="framework-table"] td {
+.callout[data-callout="framework-table"] td,
+.callout[data-callout="dual-header"] th,
+.callout[data-callout="dual-header"] td {
   border: 1px solid rgba(82, 145, 214, 0.16);
   background: color-mix(in srgb, var(--background-primary) 90%, rgb(82, 145, 214) 10%);
   vertical-align: top;
@@ -9901,10 +9903,14 @@
 
 .callout[data-callout="dual-header"] > .callout-content {
   padding: 0;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
 }
 
 .callout[data-callout="dual-header"] table {
-  width: 100%;
+  width: max-content !important;
+  min-width: 100% !important;
   border-collapse: collapse;
   margin: 0;
 }
@@ -10023,7 +10029,8 @@
   padding: 0;
 }
 
-.callout[data-callout="prop-table"] table {
+.callout[data-callout="prop-table"] table,
+.callout[data-callout="dual-header"] table {
   display: table;
   width: 100%;
   margin-block: 0;
@@ -15025,6 +15032,7 @@
 .callout[data-callout="seq-table"] > .callout-content,
 .callout[data-callout="construct-table"] > .callout-content,
 .callout[data-callout="prop-table"] > .callout-content,
+.callout[data-callout="dual-header"] > .callout-content,
 .table-wrapper {
   overflow-x: auto !important;
   -webkit-overflow-scrolling: touch;
@@ -15045,7 +15053,8 @@
 .callout[data-callout="index-table"] table,
 .callout[data-callout="seq-table"] table,
 .callout[data-callout="construct-table"] table,
-.callout[data-callout="prop-table"] table {
+.callout[data-callout="prop-table"] table,
+.callout[data-callout="dual-header"] table {
   width: max-content !important;
   min-width: 100% !important;
   border-collapse: collapse;
@@ -15068,7 +15077,9 @@
 .callout[data-callout="tension-table"] th,
 .callout[data-callout="tension-table"] td,
 .callout[data-callout="framework-table"] th,
-.callout[data-callout="framework-table"] td {
+.callout[data-callout="framework-table"] td,
+.callout[data-callout="dual-header"] th,
+.callout[data-callout="dual-header"] td {
   min-width: 130px;
   max-width: 320px;
   white-space: normal !important;
