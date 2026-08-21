@@ -16346,7 +16346,9 @@
     "path": "wiki/facts/us/Peer-Assisted Learning Strategies.md",
     "aliases": [
       "同伴辅助学习策略",
-      "PALS"
+      "同伴互助学习策略",
+      "PALS",
+      "Peer-Assisted Learning Strategies (PALS)"
     ]
   },
   {
@@ -16481,7 +16483,10 @@
     "type": "fact",
     "path": "wiki/facts/us/Success for All.md",
     "aliases": [
-      "全面成功计划"
+      "全面成功计划",
+      "Success for All (SFA)",
+      "人人成功",
+      "SFA"
     ]
   },
   {

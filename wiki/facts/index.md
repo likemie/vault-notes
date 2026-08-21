@@ -513,7 +513,7 @@ Total entries: **289**
 > - [[NSF I-Corps]] — 2011 年由美国国家科学基金会启动的创业培训项目，已孵化超过 1000 家初创企业并累计获得超过 7.6 亿美元后续融资，核心是教授学者创业思维而非仅提供科研资金
 > - [[Open Court Reading]] — SRA/McGraw-Hill旗下K-6早期读写旗舰课程，在Wadhwa et al. (2024)元评估中作为表面评级一致（Promising）但底层文献池、因果分类与时间混杂解释存在深刻分歧的经典案例。
 > - [[Pajaro Dunes Statement of 1982]] — 1982 年由一批美国精英研究型大学在 Bayh-Dole Act 通过后不久共同发布的产学关系原则声明，确立了大学-企业合作协议的透明性原则
-> - [[Peer-Assisted Learning Strategies]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
+> - [[Peer-Assisted Learning Strategies]] — 范德堡大学Fuchs团队研发的结构化互惠同伴辅导模式（涵盖阅读与数学），在Wadhwa et al. (2024)中作为文献池极端割裂（仅共享2篇）、组件拆分与随访门槛导致五大清算中心产生严重评级冲突的经典案例。
 > - [[Promise Neighborhoods Research Consortium]] — 美国国家药物滥用研究所（NIDA）资助建立的多领域公共证据平台，基于培育环境理论为脆弱社区提供教育、行为与健康综合干预清单；2012年结项后归档。
 > - [[Promising Practices Network]] — 兰德公司（RAND Corporation）运营的多领域非营利证据清算中心，设立了基于效应量（ES≥0.25 SD）与样本量门槛的评级体系；2014年结项后归档为免费电子书TL145。
 > - [[Purdue Discovery Park]] — 普渡大学以 Lilly Endowment 和印第安纳州各 1500 万美元初始投资创建的大学研究园区，如今发展为超过 10 亿美元的自持研发企业，是美国最大的大学附属研究园区之一
@@ -527,7 +527,7 @@ Total entries: **289**
 > - [[Social Programs That Work]] — 阿诺德基金会（Arnold Ventures）维护的多领域非营利证据平台，以极高门槛著称，仅收录在真实世界中经严谨多中心RCT验证且低流失（<20%）的顶级项目。
 > - [[Social Science One]] — 哈佛大学量化社会科学研究所（IQSS）孵化的组织实施 [[King-Persily Model]]，通过独立学术委员会机制使学术研究者能够分析企业掌握的敏感数据以解决社会问题
 > - [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
-> - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
+> - [[Success for All]] — Robert Slavin与Nancy Madden创立的全校性读写综合改革方案（CSR），在Wadhwa et al. (2024)中作为五大清算中心均无负面评级、但因结果域细分、文献池规模与变体效应量产生多层评价分化的经典案例。
 > - [[Sunshine Act]] — 美国《平价医疗法案》2010 年组成部分，要求制药和医疗器械公司公开报告向医生和教学医院的所有支付，通过 Open Payments 数据库向公众披露，旨在增加产学临床试验中的财务透明度和防止利益冲突
 > - [[Tech Square at Georgia Tech]] — Georgia Tech 于 1990 年代末开发的产学合作创新园区，由校长 Wayne Clough 推动，以管理学院为锚点，经 TUFF 运营支持，是美国最成功的大学创新中心之一
 > - [[Tennessee STAR Project 1985-1989]] — 1985年至1989年在田纳西州开展的大规模班级规模随机对照试验，是教育领域最著名的RCT之一，为小班化教学提供了核心因果证据。

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
+                "file": "wiki/facts/us/Peer-Assisted Learning Strategies.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Wadhwa_2024_RER"
+              "title": "Peer-Assisted Learning Strategies"
             }
           }
         ],
@@ -226,9 +226,14 @@
   },
   "active": "402a31327c0cd077",
   "lastOpenFiles": [
+    "fix_pals.py",
+    "reconstruct_pals.py",
+    "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
+    "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
+    "wiki/facts/us/Success for All.md",
+    "fix_sfa.py",
     "wiki/facts/us/Open Court Reading.md",
     "fix_ocr.py",
-    "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
     "reconstruct_its.py",
     "wiki/methods/quantitative/Time Series Design.md",
     "reconstruct_qed.py",
@@ -236,7 +241,6 @@
     "wiki/methods/quantitative/Randomised Controlled Trials.md",
     "fix_research_index.py",
     "update_rct.py",
-    "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
     "wiki/methods/quantitative/Multitrait-Multimethod Matrix.md",
     "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "wiki/concepts/educational-policy-reform/What Works Movement.md",
@@ -252,16 +256,12 @@
     "wiki/arguments/reports-policy-documents/Argument_Lakhani_2012_AKUIED.md",
     "reconstruct_wwc.py",
     "fix_latex_formula.py",
-    "escape_table_pipes.py",
     "wiki/facts/us/Promising Practices Network.md",
-    "fix_tables_and_mermaid.py",
     "wiki/concepts/research-methodology/Attrition.md",
     "wiki/concepts/research-methodology/Causality.md",
     "wiki/concepts/research-methodology/Construct Validity.md",
     "wiki/concepts/curriculum/Areas of Knowledge.md",
     "wiki/arguments/journal-articles/Frontiers in Psychology/Argument_Song_Choi_2026_FPSYG.md",
-    "wiki/facts/us/Blueprints for Healthy Youth Development.md",
-    "wiki/facts/us/Promise Neighborhoods Research Consortium.md",
     "sources/Wadhwa_2024_RER/figures/Wadhwa_2024_RER_Fig2_Dispersion_in_Evaluative_Ratings_MultiCHs.jpg",
     "sources/Wadhwa_2024_RER/figures/Wadhwa_2024_RER_Fig1_Correspondence_in_Rating_2CHs.jpg",
     "tmp_figures/page_19_img_1.jpeg",
