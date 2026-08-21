@@ -54,19 +54,19 @@ updated: 2026-08-21
 
 > [!question]
 > 围绕三个层层递进的问题展开：
-> 1. **科学标准异质性** 教育证据清算中心用于归因干预有效性的因果识别标准、研究纳入规则和证据合成门槛有多大差异？
-> 2. **评级结论收敛性** 不同清算中心对同一教育项目的有效性评级在多大程度上达成共识？
+> 1. **科学标准异质性** 教育证据清算中心（Education Evidence Clearinghouse, CH）用于归因干预有效性的因果识别标准、研究纳入规则和证据合成门槛有多大差异？
+> 2. **评级结论收敛性** 不同证据清算中心（CH）对同一教育项目的有效性评级在多大程度上达成共识？
 > 3. **评级分歧解释源** 当评级发生冲突时，纳入研究差异、同名项目变体、评估结果域差异、以及证据方法学标准（尤其是独立复制与长期持续效果）这四种机制中，哪些起主导解释作用？(pp. 4–5)
 >
 > 总体目标是从教育科学实践的制度语境出发，检验“基于证据（evidence-based）”这一概念的 [[Construct Validity|构念效度]] 与 [[Reliability|可靠性]]：如果清算中心声称能识别并传播关于教育干预因果效应的可靠知识，那么不同清算中心对同一项目的有效性评级至少应具备高度收敛性(p. 4)。
 
 > [!claim] 核心主张
-> 在当前教育清算中心体系中，“基于证据”作为一项实践构念仅具有有限的 [[Construct Validity|构念效度]]（limited practical construct validity）。评级高度不一致的核心原因并非传统因果识别偏好（各中心均高度推崇随机对照试验），而是根源于证据综合门槛的分歧（是否要求独立复制、跨地点复制与 6–12 个月持续效果）以及纳入文献集的悬殊差异。识别“基于证据”的干预目前仍更多是一种政策愿景，而非可靠的研究实践(pp. 3, 26–27)。
+> 在当前教育清算中心体系中，“基于证据”作为一项实践构念仅具有有限的 [[Construct Validity|构念效度]]（limited practical construct validity）。评级高度不一致的核心原因并非传统因果识别偏好（各中心均高度推崇随机对照试验 [Randomized Controlled Trial, RCT]），而是根源于证据综合门槛的分歧（是否要求独立复制、跨地点复制与 6–12 个月持续效果）以及纳入文献集的悬殊差异。识别“基于证据”的干预目前仍更多是一种政策愿景，而非可靠的研究实践(pp. 3, 26–27)。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 美英 43 个候选机构中筛选出的 12 个评估 pre-K 至大学教育干预有效性的教育清算中心，以及由 10 个清算中心评估的 1,359 个去重教育项目与 429 个多重评级对(pp. 5–7, 16–18)。
-> - **张力** [[Evidence-Based Education|循证教育运动]] 假定清算中心能提供中立、收敛的干预有效性黄金标准 vs. 实证中清算中心标准割裂、83.2% 项目仅有单一评级、多重评级项目中完全对立（推荐 vs 不推荐）成为最常见分歧的制度现实(pp. 4, 18–19)。
-> - **贡献** 首次运用 Campbellian 多质多法构念效度框架对教育证据清算中心进行全景式比较综述与实证一致性度量；证明了循证评级不一致的瓶颈在于证据综合标准与制度筛选规则，而非单一研究层面的因果推断偏好(pp. 4, 26–27)。
+> - **对象** 美英 43 个候选机构中筛选出的 12 个评估学前至大学（Pre-Kindergarten to College, pre-K to College）教育干预有效性的教育清算中心，以及由 10 个清算中心评估的 1,359 个去重教育项目与 429 个多重评级对(pp. 5–7, 16–18)。
+> - **张力** [[Evidence-Based Education|循证教育（Evidence-Based Education, EBE）运动]] 假定清算中心能提供中立、收敛的干预有效性黄金标准 vs. 实证中清算中心标准割裂、83.2% 项目仅有单一评级、多重评级项目中完全对立（推荐 vs 不推荐）成为最常见分歧的制度现实(pp. 4, 18–19)。
+> - **贡献** 首次运用 Campbellian 多质多法（Multitrait-Multimethod, MTMM）构念效度框架对教育证据清算中心进行全景式比较综述与实证一致性度量；证明了循证评级不一致的瓶颈在于证据综合标准与制度筛选规则，而非单一研究层面的因果推断偏好(pp. 4, 26–27)。
 
 ---
 
@@ -90,9 +90,9 @@ updated: 2026-08-21
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **清算中心检索与筛选**<br>Comparative Review | 检索美英 43 个候选清算中心，依据三阶段排除标准（是否发布自身评级、是否在线可访问、是否评估 pre-K 至大学教育干预及教育结果）最终确定 12 个教育清算中心(pp. 5–6)。 |
-> | **网站标准系统编码**<br>Systematic Content Coding | 于 2019 年 6 月至 2020 年 8 月全面收集并编码 12 个清算中心公开文档与技术手册，涵盖使命领域、目标人群、资金来源、评级对象、单项研究质量标准（RCT/QED/RDD/ITS 评级规则，0–3 级编码）、项目最高评级门槛等维度(pp. 5–15)。 |
-> | **评级一致性量化分析**<br>Descriptive Analysis & Pairwise Consistency | 提取 10 个清算中心共 1,359 个去重教育项目（排除停止运营的 PPN 与无分层评级的 PNRC）。将评级统一转换为三级量表（1=Recommended, 2=Promising, 3=Not Recommended）以及二元有效性指标，计算 2 至 5 个清算中心共同评级时的配对一致性百分比(pp. 16–19)。 |
-> | **典型案例深度比较**<br>Comparative Case Studies | 选取 5 个横跨完全有望、中度一致、中度分歧与完全对立的成熟知名教育干预项目进行微观证据追踪，逐一对比纳入文献池、效应量估算、设计缺陷判定与评级推导过程(pp. 21–25)。 |
+> | **网站标准系统编码**<br>Systematic Content Coding | 于 2019 年 6 月至 2020 年 8 月全面收集并编码 12 个清算中心公开文档与技术手册，涵盖使命领域、目标人群、资金来源、评级对象、单项研究质量标准（涵盖随机对照试验 [RCT]、准实验设计 [Quasi-Experimental Design, QED]、断点回归设计 [Regression Discontinuity Design, RDD] 与中断时间序列 [Interrupted Time Series, ITS] 等评级规则，0–3 级编码）、项目最高评级门槛等维度(pp. 5–15)。 |
+> | **评级一致性量化分析**<br>Descriptive Analysis & Pairwise Consistency | 提取 10 个清算中心共 1,359 个去重教育项目（排除停止运营的前景广阔的实践网络 [Promising Practices Network, PPN] 与无分层评级的承诺社区研究联盟 [Promise Neighborhoods Research Consortium, PNRC]）。将评级统一转换为三级量表（1=Recommended, 2=Promising, 3=Not Recommended）以及二元有效性指标，计算 2 至 5 个清算中心共同评级时的配对一致性百分比(pp. 16–19)。 |
+> | **典型案例深度比较**<br>Comparative Case Studies | 选取 5 个横跨完全有望、中度一致、中度分歧与完全对立的成熟知名教育干预项目（开放式阅读 [Open Court Reading, OCR]、人人成功 [Success for All, SFA]、同伴互助学习策略 [Peer-Assisted Learning Strategies, PALS]、量子机会项目 [Quantum Opportunity Program, QOP] 以及校内社区 [Communities in Schools, CIS]）进行微观证据追踪，逐一对比纳入文献池、效应量估算、设计缺陷判定与评级推导过程(pp. 21–25)。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -112,7 +112,7 @@ updated: 2026-08-21
 >     A --> C["步骤三：高等级项目评级门槛与证据综合标准<br>(Table 4)"]
 >     B --> D["步骤四：项目评级数据库构建与一致性检验<br>(Table 5-8, Fig 1-2)"]
 >     C --> D
->     D --> E["步骤五：五大深度案例拆解与分歧归因<br>(OCR, SFA, PALS, QOP, CIS)"]
+>     D --> E["步骤五：五大深度案例拆解与分歧归因<br>(OCR, SFA, PALS, QOP/EQOP, CIS)"]
 >     E --> F["步骤六：分歧机制归因与构念效度审思<br>(Discussion & Policy Implications)"]
 > ```
 
@@ -130,28 +130,28 @@ updated: 2026-08-21
 > | 排除理由 | 数量 | 被排除机构清单 |
 > |---|---:|---|
 > | **不发布有效性评级**<br>主要作为研究资料库或其他社会科学用途 | 8 | California Healthy Kids Resource Center; Center on Knowledge Translation for Disability and Rehabilitation Research; My Brother's Keeper; National Quality Measures Clearinghouse; National Guideline Clearinghouse; Washington State Institute of Public Policy (WSIPP); Out-of-School Time Program Database; United States Interagency Council on Homelessness Solutions Database |
-> | **无法在线访问或已停运**<br>截至 2019 年 5 月已关闭或无法获取标准 | 6 | National Registry of Evidence-based Programs and Practices (NREPP) SAMHSA; Social Work Policy Institute; Evidence-based Practices for Substance Abuse; FindYouthInfo.gov; Self-Sufficiency Research Clearinghouse; What Works/Lifecourse Interventions to Nurture Kids Successfully (LINKS) |
-> | **不进行自身独立评级**<br>仅转载、链接或采纳其他清算中心评级 | 5 | Office of Juvenile Justice and Delinquency Prevention (OJJDP) Model Programs Guide; What Works in Reentry Clearinghouse; Youth.gov; Best Practices Registry for Suicide Prevention; [[Campbell Collaboration]] |
+> | **无法在线访问或已停运**<br>截至 2019 年 5 月已关闭或无法获取标准 | 6 | 美国物质滥用和精神健康服务管理局国家循证项目与实践登记库（National Registry of Evidence-based Programs and Practices, NREPP SAMHSA）; Social Work Policy Institute; Evidence-based Practices for Substance Abuse; FindYouthInfo.gov; Self-Sufficiency Research Clearinghouse; 培育儿童成功终身干预（Lifecourse Interventions to Nurture Kids Successfully, LINKS） |
+> | **不进行自身独立评级**<br>仅转载、链接或采纳其他清算中心评级 | 5 | 美国少年司法和预防犯罪办公室示范项目指南（Office of Juvenile Justice and Delinquency Prevention Model Programs Guide, OJJDP）; What Works in Reentry Clearinghouse; Youth.gov; Best Practices Registry for Suicide Prevention; [[Campbell Collaboration]] |
 
 > [!dual-header] Table 2：12 个教育清算中心的制度异质性特征
 > | 清算中心全称与简称 | 主要领域焦点 | 目标人群定位 | 资助组织性质 | 评估对象级别 |
 > |---|---|---|---|---|
-> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|California Evidence Based Clearinghouse (CEBC)]]** | 多领域：儿童福利、教育、行为发展、健康、经济福利 | 儿童与家庭 | 公共部门 (Public) | 具名项目 |
-> | **[[Promising Practices Network\|Promising Practices Network (PPN)]]** | 多领域：社会与行为发展、健康、教育、经济福利 | 儿童与家庭 | 非营利组织 (Nonprofit, RAND) | 具名项目 |
-> | **[[Best Evidence Encyclopedia\|Best Evidence Encyclopedia (BEE)]]** | 教育领域 | 学前至中小学学生 | 公共资助 (Public, Johns Hopkins) | 具名项目 |
-> | **[[National Dropout Prevention Center\|National Dropout Prevention Center (NDPC)]]** | 教育领域（辍学预防专项） | 处于辍学风险的学生 | 非营利组织 (Nonprofit) | 具名项目 |
-> | **[[Social Programs That Work\|Social Programs That Work (SPTW)]]** | 多领域：教育、健康、劳动、社会与经济福利 | 全体人群 (All) | 非营利组织 (Nonprofit, Arnold) | 具名项目 |
-> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|Clearinghouse for Military Family Readiness (CMFR)]]** | 多领域：健康、教育、行为发展、劳动就业 | 军人家庭及子女 | 公共部门 (Public, DoD/USDA/Penn State) | 具名项目 |
-> | **[[Collaborative for Academic Social and Emotional Learning Guide\|CASEL Guide (CASEL)]]** | 教育领域（社会情感学习专项） | 学前至中小学学生 | 非营利组织 (Nonprofit) | 具名项目 |
-> | **[[Blueprints for Healthy Youth Development\|Blueprints for Healthy Youth Development (Blueprints)]]** | 多领域：行为发展、教育、身心健康 | 青少年群体 (Youth) | 非营利组织 (Nonprofit, Univ. of Colorado) | 具名项目；单项研究 |
-> | **[[Home Visiting Evidence of Effectiveness\|Home Visiting Evidence of Effectiveness (HomVEE)]]** | 多领域：早期教育、健康、行为发展、经济福利 | 孕妇家庭及出生至学前（0–5岁）儿童 | 公共部门 (Public, HHS/ACF) | 具名项目；单项研究 |
-> | **[[CNCS Evidence Exchange\|CNCS Evidence Exchange (EE)]]** | 多领域：经济福利、教育、行为发展、健康、劳动 | 青年、退伍军人、学校、社区、非营利组织 | 公共部门 (Public, CNCS/AmeriCorps) | 项目与具体干预 |
-> | **[[Promise Neighborhoods Research Consortium\|Promise Neighborhoods Research Consortium (PNRC)]]** | 多领域：教育、行为发展、健康、经济福利、劳动 | 脆弱社区青少年 (Youth) | 公共部门 (Public) | 项目、政策与实践 |
-> | **[[What Works Clearinghouse\|What Works Clearinghouse (WWC)]]** | 教育领域 | 早期教育至高等教育全体学生 | 公共部门 (Public, IES/ED, >$100M) | 项目、政策、实践；单项研究 |
+> | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|加利福尼亚儿童福利循证清算中心（California Evidence-Based Clearinghouse for Child Welfare, CEBC）]]** | 多领域：儿童福利、教育、行为发展、健康、经济福利 | 儿童与家庭 | 公共部门 (Public) | 具名项目 |
+> | **[[Promising Practices Network\|前景广阔的实践网络（Promising Practices Network, PPN）]]** | 多领域：社会与行为发展、健康、教育、经济福利 | 儿童与家庭 | 非营利组织（Nonprofit, 兰德公司 [RAND Corporation]） | 具名项目 |
+> | **[[Best Evidence Encyclopedia\|最佳证据百科全书（Best Evidence Encyclopedia, BEE）]]** | 教育领域 | 学前至中小学学生 | 公共资助（Public, 约翰斯·霍普金斯大学 [Johns Hopkins University]） | 具名项目 |
+> | **[[National Dropout Prevention Center\|国家预防辍学中心（National Dropout Prevention Center, NDPC）]]** | 教育领域（辍学预防专项） | 处于辍学风险的学生 | 非营利组织 (Nonprofit) | 具名项目 |
+> | **[[Social Programs That Work\|行之有效的社会项目（Social Programs That Work, SPTW）]]** | 多领域：教育、健康、劳动、社会与经济福利 | 全体人群 (All) | 非营利组织（Nonprofit, 阿诺德基金会 [Arnold Ventures]） | 具名项目 |
+> | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|军人家庭准备清算中心（Clearinghouse for Military Family Readiness, CMFR）]]** | 多领域：健康、教育、行为发展、劳动就业 | 军人家庭及子女 | 公共部门（Public, 美国国防部 [DoD] / 美国农业部 [USDA] / 宾夕法尼亚州立大学 [Penn State]） | 具名项目 |
+> | **[[Collaborative for Academic Social and Emotional Learning Guide\|学术、社会与情感学习协作指南（Collaborative for Academic, Social, and Emotional Learning Guide, CASEL）]]** | 教育领域（社会情感学习专项） | 学前至中小学学生 | 非营利组织 (Nonprofit) | 具名项目 |
+> | **[[Blueprints for Healthy Youth Development\|健康青年发展蓝图（Blueprints for Healthy Youth Development, Blueprints）]]** | 多领域：行为发展、教育、身心健康 | 青少年群体 (Youth) | 非营利组织（Nonprofit, 科罗拉多大学 [University of Colorado Boulder]） | 具名项目；单项研究 |
+> | **[[Home Visiting Evidence of Effectiveness\|家访成效证据（Home Visiting Evidence of Effectiveness, HomVEE）]]** | 多领域：早期教育、健康、行为发展、经济福利 | 孕妇家庭及出生至学前（0–5岁）儿童 | 公共部门（Public, 美国卫生与公众服务部儿童与家庭管理局 [HHS/ACF]） | 具名项目；单项研究 |
+> | **[[CNCS Evidence Exchange\|国家与社区服务公司证据交流中心（Corporation for National and Community Service Evidence Exchange, CNCS EE）]]** | 多领域：经济福利、教育、行为发展、健康、劳动 | 青年、退伍军人、学校、社区、非营利组织 | 公共部门（Public, 美国国家与社区服务公司 [CNCS/AmeriCorps]） | 项目与具体干预 |
+> | **[[Promise Neighborhoods Research Consortium\|承诺社区研究联盟（Promise Neighborhoods Research Consortium, PNRC）]]** | 多领域：教育、行为发展、健康、经济福利、劳动 | 脆弱社区青少年 (Youth) | 公共部门 (Public) | 项目、政策与实践 |
+> | **[[What Works Clearinghouse\|有效干预清算中心（What Works Clearinghouse, WWC）]]** | 教育领域 | 早期教育至高等教育全体学生 | 公共部门（Public, 美国教育部教育科学研究院 [IES/ED], >$100M） | 项目、政策、实践；单项研究 |
 
 > [!warrant]- 步骤一深度解读：制度定位与资源禀赋如何塑造评价逻辑
 > 1. **机构属性对评价标准的塑形作用**
->    - 纯教育类机构（如 WWC、BEE）的使命聚焦于课堂教学法、阅读与数学课程改革，其标准深受教育测量学与学科教学论影响；
+>    - 纯教育类机构（如 WWC、BEE）的使命聚焦于课堂教学法、读写与数学课程改革，其标准深受教育测量学与学科教学论影响；
 >    - 多领域跨界机构（如 Blueprints、CEBC、HomVEE、SPTW）脱胎于公共卫生、犯罪学与社会福利学界，天然继承了循证医学（Evidence-Based Medicine, EBM）与流行病学的严苛规范，格外重视临床试验级的安慰剂对照、医源性伤害排除与长期随访。
 > 2. **资金与技术实力的巨大断层**
 >    - 美国教育部累计向 WWC 投入超过 **1 亿美元** 的研发资金，使其拥有常设的技术审查委员会、庞大的外包评审团队、以及每两至三年迭代一次的极其详尽的技术手册（Handbook v4.0）；
@@ -165,7 +165,7 @@ updated: 2026-08-21
 ### 步骤二：因果推断方法论标准与单项研究质量
 
 > [!claim] 步骤二主张
-> 所有清算中心均视 [[Randomised Controlled Trials|随机对照试验（RCT）]] 为因果推断的黄金标准，但在 RCT 实施质量的技术检验（流失、基线等值、分析层次、ITT 与 CACE）以及对 [[Quasi-Experimental Designs|准实验设计（QED）]]、断点回归（RDD）和中断时间序列（ITS）的采纳程度上存在显著断层(pp. 8–11)。
+> 所有清算中心均视随机对照试验（RCT）为因果推断的黄金标准，但在 RCT 实施质量的技术检验（流失、基线等值、分析层次、意向治疗分析 [Intention-to-Treat, ITT] 与顺从者平均因果效应 [Complier Average Causal Effect, CACE]）以及对准实验设计（QED）、断点回归设计（RDD）和中断时间序列（ITS）的采纳程度上存在显著断层(pp. 8–11)。
 
 > [!chain-link] 设计编码与实施细则
 > 作者将清算中心对四类因果设计的描述程度编码为 0–3 级（0=不提及；1=简要提及但无标准；2=描述设计但无专属实施标准；3=提供专属因果推断与实施质量标准）。
@@ -173,7 +173,7 @@ updated: 2026-08-21
 > [!index-table] Table 3：因果设计标准描述程度编码表（Extent of Description, 0–3）
 > | 清算中心名称 | 随机对照试验 (RCT) | 通用准实验 (QED) | 断点回归设计 (RDD) | 中断时间序列 (ITS) |
 > |---|---:|---:|---:|---:|
-> | **[[What Works Clearinghouse\|What Works Clearinghouse (WWC)]]** | **3** | 2 | **3** | 2 |
+> | **[[What Works Clearinghouse\|WWC]]** | **3** | 2 | **3** | 2 |
 > | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 2 | 1 | 0 | 0 |
 > | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]** | 2 | 1 | 0 | 0 |
 > | **[[Home Visiting Evidence of Effectiveness\|HomVEE]]** | **3** | **3** | **3** | 0 |
@@ -184,13 +184,13 @@ updated: 2026-08-21
 > | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | **3** | **3** | 0 | 0 |
 > | **[[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]]** | 1 | 1 | 0 | 0 |
 > | **[[Promise Neighborhoods Research Consortium\|PNRC]]** | 2 | 1 | 1 | 1 |
-> | **[[CNCS Evidence Exchange\|CNCS Evidence Exchange]]** | 2 | 2 | 0 | 0 |
+> | **[[CNCS Evidence Exchange\|CNCS EE]]** | 2 | 2 | 0 | 0 |
 
 > [!warrant]- 步骤二深度解读：因果质量评估的技术分歧与方法学盲区
 > 1. **RCT 黄金标准的表象共识与实质割裂**
 >    - 虽然全部 12 个清算中心在名义上均赋予 RCT 最高优先级，但对于“何为高质量 RCT”的技术审查深度判若云泥。
->    - **集群随机分配（Cluster RCT）的致命处理** 在教育现场，随机化往往发生在学校或班级层面，而测量发生在学生个体层面。若不进行多层线性模型（HLM）或群组内相关系数（ICC）校正，标准误将被严重低估，导致虚假显著性。全库仅 WWC 制定了详尽的集群偏倚防范与自由度调整规程；多数机构（如 NDPC、CASEL）甚至无法识别集群与分析单位错位问题。
->    - **样本流失（Attrition）与选择偏差** WWC 建立了著名的“整体流失 vs 差异流失”边界模型（允许最大潜在偏倚在 0.05 SD 以内）；SPTW 与 CMFR 仅设定了粗糙的 20% 流失率上限；Blueprints 则要求对脱落者与保留者实施双重卡方/t检验。这意味着同一篇因流失被 WWC 降级的 RCT，在其他清算中心可能轻松获评最高质量。
+>    - **集群随机对照试验（Cluster Randomized Controlled Trial, Cluster RCT）的致命处理** 在教育现场，随机化往往发生在学校或班级层面，而测量发生在学生个体层面。若不进行多层线性模型（Hierarchical Linear Model, HLM）或群组内相关系数（Intraclass Correlation Coefficient, ICC）校正，标准误将被严重低估，导致虚假显著性。全库仅 WWC 制定了详尽的集群偏倚防范与自由度调整规程；多数机构（如 NDPC、CASEL）甚至无法识别集群与分析单位错位问题。
+>    - **样本流失（[[Attrition]]）与选择偏差** WWC 建立了著名的“整体流失 vs 差异流失”边界模型（允许最大潜在偏倚在 0.05 个标准差 [Standard Deviation, SD] 以内）；SPTW 与 CMFR 仅设定了粗糙的 20% 流失率上限；Blueprints 则要求对脱落者与保留者实施双重卡方/t检验。这意味着同一篇因流失被 WWC 降级的 RCT，在其他清算中心可能轻松获评最高质量。
 > 2. **意向治疗分析（ITT） vs 顺从者平均因果效应（CACE）之争**
 >    - Blueprints、SPTW 等坚持公共卫生传统的机构强制要求 ITT（即不论学生实际上了几节课，只要被分入实验组均计入分析），以避免依从性偏倚（compliance bias）；
 >    - WWC 则在严格满足工具变量排除性约束（exclusion restriction）的前提下，允许报告针对实际参与者的 CACE 估计。这反映出各中心在“评估政策推广效果（ITT）”还是“评估干预纯生理/心理效能（CACE）”上的根本哲学分歧。
@@ -209,7 +209,7 @@ updated: 2026-08-21
 > 作者选取具有代表性的四个清算中心（WWC、Blueprints、NDPC、CEBC）进行全要素对比，揭示“最高评级”在不同机构间的巨大内涵差异。
 
 > [!contrast-table] Table 4：四大清算中心证据标准与评级门槛深度对照
-> | 比较维度 | [[What Works Clearinghouse\|What Works Clearinghouse (WWC)]] | [[Blueprints for Healthy Youth Development\|Blueprints for Healthy Youth Development]] | [[National Dropout Prevention Center\|National Dropout Prevention Center (NDPC)]] | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|California Evidence-Based Clearinghouse (CEBC)]] |
+> | 比较维度 | [[What Works Clearinghouse\|WWC]] | [[Blueprints for Healthy Youth Development\|Blueprints]] | [[National Dropout Prevention Center\|NDPC]] | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] |
 > |---|---|---|---|---|
 > | **评级对象** | 单项研究；按**结果域**独立评价干预有效性（不跨域聚合） | 单项研究；具名项目整体 | 项目整体（不为单项研究独立评级） | 项目整体（提供研究摘要，不为单项研究独立评级） |
 > | **总体评级等级** | Positive; potentially positive; mixed; potentially negative; negative; no discernible effects（证据量标为 medium to large 或 small） | Model plus; model; promising; non-certified（证据不足/不确定、无效或有害） | Strong evidence; moderate evidence; limited evidence; insufficient evidence of effectiveness | Well-supported; supported; promising; evidence fails to demonstrate effect; NR (Not ratable) |
@@ -247,16 +247,16 @@ updated: 2026-08-21
 > [!index-table] Table 5：10 个清算中心教育项目选取池与领域范围
 > | 清算中心名称 | 纳入项目数 | 纳入项目的学科与人群范围 |
 > |---|---:|---|
-> | **[[What Works Clearinghouse\|What Works Clearinghouse (WWC)]]** | 537 | 该中心评估的所有项目：读写、数学、幼儿教育、英语学习者、科学、行为、特许学校、高等教育、特殊教育、K–12、教师卓越、毕业路径等 |
+> | **[[What Works Clearinghouse\|WWC]]** | 537 | 该中心评估的所有项目：读写、数学、幼儿教育、英语学习者、科学、行为、特许学校、高等教育、特殊教育、幼儿园至高中（Kindergarten to 12th Grade, K–12）、教师卓越、毕业路径等 |
 > | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 310 | 42 个认证教育项目（学术表现、认知发展、毕业、学前语言、就学准备等）与 268 个摘要表明聚焦教育的未认证项目 |
 > | **[[National Dropout Prevention Center\|NDPC]]** | 274 | 该中心评级的全部项目（均属于辍学预防与学业促进） |
 > | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | 166 | 属于学业表现、学校文化、就学准备主题下的项目 |
 > | **[[Best Evidence Encyclopedia\|BEE]]** | 124 | BEE 网站按字母顺序列出的全部具名项目（涵盖阅读、写作、早教、全校改革、数学等） |
 > | **[[Home Visiting Evidence of Effectiveness\|HomVEE]]** | 53 | 处理儿童发展与就学准备结果的家访模型项目 |
-> | **[[Collaborative for Academic Social and Emotional Learning Guide\|CASEL Guide]]** | 25 | 2015 版 CASEL 指南中收录的全部社会情感学习项目 |
+> | **[[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]]** | 25 | 2015 版 CASEL 指南中收录的全部社会情感学习项目 |
 > | **[[Social Programs That Work\|SPTW]]** | 24 | 产前/早期儿童、K–12 教育、高等教育主题下的项目 |
 > | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]** | 11 | 儿童福利系统下儿童与青少年教育干预主题项目 |
-> | **[[CNCS Evidence Exchange\|CNCS Evidence Exchange]]** | 52 | “教育”与“能力建设”领域内有成效研究且具备证据等级的项目 |
+> | **[[CNCS Evidence Exchange\|CNCS EE]]** | 52 | “教育”与“能力建设”领域内有成效研究且具备证据等级的项目 |
 
 > [!stat-cards]- 评价重叠度与覆盖广度
 > - **1,359 个** 纳入分析的去重教育干预项目总量
@@ -277,8 +277,8 @@ updated: 2026-08-21
 > [!index-table] Table 7：多重评级项目中“有效”与“无效”判断的分布比例
 > | 多重评级情境 | “有效（Recommended + Promising）” 判断分布状态 | 对应项目百分比 (%) |
 > |---|---|---:|
-> | **2 个清算中心共同评级 (n = 164)** | 两个清算中心**均评为无效(Both Not Effective, 3&3)** | **82.3%** |
-> | | 两个清算中心**均评为有效(Both Effective, 1&1, 2&2, 1&2)** | **17.7%** |
+> | **2 个清算中心共同评级 (n = 164)** | 两个清算中心**均评为无效 (Both Not Effective, 3&3)** | **82.3%** |
+> | | 两个清算中心**均评为有效 (Both Effective, 1&1, 2&2, 1&2)** | **17.7%** |
 > | **3 个清算中心共同评级 (n = 45)** | 3 个中心均评为无效 (0/3 Effective) | 2.2% |
 > | | 仅 1 个中心评为有效 (1/3 Effective) | **44.4%** |
 > | | 2 个中心评为有效 (2/3 Effective) | 37.8% |
@@ -318,33 +318,33 @@ updated: 2026-08-21
 ### 步骤五：五大深度案例拆解与分歧归因
 
 > [!claim] 步骤五主张
-> 通过对五个知名成熟教育干预案例（Open Court Reading, Success for All, PALS, QOP, Communities in Schools）的深入追踪，证明评级分歧主要是由证据综合门槛差异（独立复制与长期持续效果）和纳入文献池差异驱动的，结果域细分与项目变体差异则是重要的次要调节因素(pp. 21–26)。
+> 通过对五个知名成熟教育干预案例（开放式阅读 [OCR]、人人成功 [SFA]、同伴互助学习策略 [PALS]、量子机会项目 [QOP / EQOP]、校内社区 [CIS]）的深入追踪，证明评级分歧主要是由证据综合门槛差异（独立复制与长期持续效果）和纳入文献池差异驱动的，结果域细分与项目变体差异则是重要的次要调节因素(pp. 21–26)。
 
-> [!chain-link] 案例一：Open Court Reading (OCR) —— 表面结论一致掩盖底层评估分歧
-> 小学早期读写项目，被 [[What Works Clearinghouse|WWC]]、[[Blueprints for Healthy Youth Development|Blueprints]] 和 [[Best Evidence Encyclopedia|BEE]] 三家清算中心共同评价，均判定为“有望（Promising / Modest Evidence）”，但底层评价机制存在深刻分歧(pp. 22–23)：
+> [!chain-link] 案例一：开放式阅读（Open Court Reading, OCR） —— 表面结论一致掩盖底层评估分歧
+> 小学早期读写项目，被 [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 和 [[Best Evidence Encyclopedia\|BEE]] 三家清算中心共同评价，均判定为“有望（Promising / Modest Evidence）”，但底层评价机制存在深刻分歧(pp. 22–23)：
 > - **核心 RCT 研究的评判与混淆争议** 三家中心均审查了 Borman et al. (2008) 的多中心集群 RCT。WWC 指出该研究未报告其首选学生样本的统计显著性，但平均效应量大于 0.25 SD，因而认定具有实质重要性；BEE 在初等阅读综述中因一年级仅有 9 个实验班和 7 个对照班而将其降级为“随机化准实验（randomized quasi-experiment）”，但在高年级综述中将其视为标准 RCT，并特别指出潜在的混杂变量——实验班每天接受 2.5 小时阅读教学，而对照班仅有 90 分钟常规阅读教学，其他中心均未指出此时间偏差；两家中心估计的效应量在 +0.10 至 +0.19 SD 之间，被 BEE 定性为“适度（modest）”。
 > - **准实验研究的采纳与剔除** 针对 Skindrud & Gersten (2006) 的准实验研究，WWC 与 Blueprints 均识别出未校正集群效应的问题。WWC 实施统计校正后发现结果不再显著但仍具实质重要性，因而将其纳入支持证据；Blueprints 则因集群问题、排除脱落者后的基线不平衡以及样本地域狭窄而彻底剔除该研究。
 > - **启示** 即便清算中心最终给出了相同的底线评级（Promising），其内部关于设计分类、实施混杂及 QED 纳入规则的标准依然存在显著差异。
 
-> [!chain-link] 案例二：Success for All (SFA) —— 结果域与项目变体导致的评价分化
+> [!chain-link] 案例二：人人成功（Success for All, SFA） —— 结果域与项目变体导致的评价分化
 > 著名全校性读写改革模式，由 5 个清算中心共同评估（WWC, Blueprints, CMFR, SPTW, BEE），所有中心均未给出负面评级，但具体评级因结果域与变体呈现多层分化(p. 23)：
 > - **纳入文献池差异** SPTW 纳入 6 项研究，CMFR 纳入 8 项，WWC 纳入 9 项，Blueprints 检索了 16 项但仅认证了 1 项高质量 RCT（Borman et al., 2007），BEE 在初读综述中则合成了多达 23 项合格研究。
 > - **对核心 RCT（Borman et al., 2007）的审视分歧** Blueprints 认证该研究但指出其缺乏干预后长期随访且种族/族裔基线等值存疑；SPTW 评审员则完全认可该研究的基线等值性与随访期。
 > - **结果域细分造成的信息复杂性** WWC 发现 SFA 对语音拼读（alphabetics, K–4）具有显著正向效果而评为“推荐（Positive）”，对阅读流畅度评为“有望（Potentially Positive）”，但对复杂的阅读理解与一般阅读成绩判定为“未证实效果（Indeterminate / No Discernible Effects）”。
-> - **项目变体的效应量分层** BEE 依靠加权平均效应量分层，基础 SFA 读写方案因加权平均效应量达 +0.29 SD（基于 23 项研究）获得最高评级，而针对 2–5 年级西英双语过渡的 Transition Program 因单项研究效应量仅为 +0.16 SD（低于 0.20 门槛）被降为最低评级。
+> - **项目变体的效应量分层** BEE 依靠加权平均效应量分层，基础 SFA 读写方案因加权平均效应量达 +0.29 SD（基于 23 项研究）获得最高评级，而针对 2–5 年级西英双语过渡的过渡项目（Transition Program）因单项研究效应量仅为 +0.16 SD（低于 0.20 门槛）被降为最低评级。
 
-> [!chain-link] 案例三：Peer-Assisted Learning Strategies (PALS) —— 文献割裂与组件拆分分歧
+> [!chain-link] 案例三：同伴互助学习策略（Peer-Assisted Learning Strategies, PALS） —— 文献割裂与组件拆分分歧
 > 同伴互助辅导项目，涵盖阅读与数学，被 5 个清算中心评估（WWC, BEE, Blueprints, CMFR, NDPC），展现出中度评级冲突(pp. 23–24)：
 > - **评级结论冲突** NDPC 对整体项目予以“强力推荐”；Blueprints 将阅读版评为“有望”；BEE 仅评估 PALS Math 并给予“推荐”；WWC 在 5 个结果域中给出从“有望”到“不推荐”的跨度；CMFR 对 PALS Reading 和 PALS Math 均判定为“证据不足 / 不予推荐”。
 > - **文献池几乎完全不重叠** Blueprints 与 BEE 仅基于 1 项研究；WWC 依据 1 至 3 项研究；CMFR 对阅读版纳入 10 项、数学版纳入 2 项研究；CMFR 与 WWC 仅共享了 2 项研究（Fuchs et al., 2002; Sáenz et al., 2005），其余中心互不重合；NDPC 未公开其引用的具体文献。
 > - **方法学门槛的阻隔作用** Blueprints 审查了 18 项因果研究，其中 17 项因差异流失、缺乏长期随访、分析层次错误以及 ITT 估计不清被全部否决，仅认证 1 项 RCT，由于缺乏独立重复验证而只能止步于“有望”；CMFR 则因所有研究均未能证明干预结束后 6 个月的持续效果而直接拒绝给予有望评级。
 
-> [!chain-link] 案例四：Quantum Opportunity Program (QOP / EQOP) —— 版本迭代与文献可得性
-> 高中生学业与预防辍学干预项目，评估涵盖原始 QOP 与改良版 Eisenhower QOP (EQOP)，出现显著分歧(pp. 24–25)：
+> [!chain-link] 案例四：量子机会项目与艾森豪威尔量子机会项目（QOP / EQOP） —— 版本迭代与文献可得性
+> 高中生学业与预防辍学干预项目，评估涵盖原始量子机会项目（Quantum Opportunity Program, QOP）与改良版艾森豪威尔量子机会项目（Eisenhower Quantum Opportunities Program, EQOP），出现显著分歧(pp. 24–25)：
 > - **原始 QOP 的评级冲突** NDPC 评为“有望”（基于两项声称在单一试点产生学业与毕业正效应的多中心 RCT，但未具名引述）；WWC 审查了两项研究，其中仅 Schirm et al. (2006) 符合标准，但未发现统计显著或实质重要的学业进展效应，判定为无效果；Blueprints 认为原始 QOP 完全缺乏合格证据。
-> - **改良版 EQOP 的评估差异** Blueprints 依据一项单一 RCT（Curtis & Bandy, 2015, 2016）将 EQOP 认证为“有望”（显示 GPA、大学录取率提升，尽管存在未检验基线差异与未校正集群等缺陷）；而 CMFR 截至 2019 年初因检索不到任何已发表的同行评审期刊文献，直接判定为不予推荐。
+> - **改良版 EQOP 的评估差异** Blueprints 依据一项单一 RCT（Curtis & Bandy, 2015, 2016）将 EQOP 认证为“有望”（显示平均学分绩点 [Grade Point Average, GPA]、大学录取率提升，尽管存在未检验基线差异与未校正集群等缺陷）；而 CMFR 截至 2019 年初因检索不到任何已发表的同行评审期刊文献，直接判定为不予推荐。
 
-> [!chain-link] 案例五：Communities in Schools (CIS) —— 最大极性冲突（全面推荐 vs 彻底否决）
+> [!chain-link] 案例五：校内社区（Communities in Schools, CIS） —— 最大极性冲突（全面推荐 vs 彻底否决）
 > 全美规模最大的高危学生综合支持与预防辍学项目，被 5 个中心评估（NDPC, PPN, CNCS EE, Blueprints, CMFR），出现完全对立的极端分歧(p. 25)：
 > - **NDPC 强力推荐** 基于未公开具体篇目的多项学生级 RCT 和 1 项学校级 QED，宣称在辍学率、出勤率、GPA 和初中数学/阅读上全面有效。
 > - **PPN 与 CNCS EE 评为有望 / 中度支持** PPN（2009年）依据一项完全未进行任何匹配的跨地点准实验（Rossman & Morley, 1995）给出有望评级；CNCS EE 依据 Parise et al. (2017) 的 2 年期 RCT（改善非学业结果）与 Somers & Haider (2017) 的中断时间序列研究（ITS 显示干预组毕业率提升，但未超越对照组自然增长）评为中度支持。
