@@ -1,0 +1,1017 @@
+=== Page 1 ===
+
+Science  
+for society
+How society and science 
+shape each other
+
+=== Page 2 ===
+
+Cover image: Illustration inspired by Feynman diagrams, 
+visual representations describing the behaviour and 
+interactions of subatomic particles in quantum field theory.
+Science for society: How society and science 
+shape each other
+Issued: April 2026 DES9211_1
+ISBN: 978-1-78252-829-6
+© The Royal Society 
+The text of this work is licensed under the terms of 
+the Creative Commons Attribution License which 
+permits unrestricted use, provided the original 
+author and source are credited.
+ 
+The license is available at:  
+creativecommons.org/licenses/by/4.0
+Images are not covered by this license.
+This report and other project outputs can be viewed at:  
+royalsociety.org/scienceforsociety
+
+=== Page 3 ===
+
+Contents
+Preface	
+4
+Foreword	
+5
+Introduction	
+8
+Executive summary	
+14
+Recommendations	
+16
+Chapter one: Education	
+29
+Chapter two: Informal engagement with science	
+41
+Chapter three: Mass media and misinformation	
+55
+Chapter four: Industry and business sector	
+67
+	
+Third sector	
+74
+Chapter five: Policy	
+79
+Chapter six: Academic scientific community	
+91
+Annexes	
+107
+	
+Annex 1: Acknowledgements	 	
+108
+	
+Annex 2: Abbreviations	
+114
+	
+Annex 3: Key terms	
+115
+	
+Annex 4: Timeline of significant milestones in the 40 years since the Bodmer report	
+118
+To view the case studies highlighted within this report, scan the QR code  
+or visit royalsociety.org/sfsstudies
+CONTENTS
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER 	
+3
+
+=== Page 4 ===
+
+Preface
+This most welcome and timely report is aimed 
+particularly at the scientific community, but with a 
+strong message to government and industry of 
+the need for their support. It is an in-depth review 
+of how best to promote public engagement with 
+STEM (science, technology, engineering and 
+mathematics). This covers all aspects of science 
+from basic discovery through technology and 
+medicine to advanced mathematics, computing 
+and Artificial Intelligence (AI). It comes at a time 
+when scientific literacy is becoming more and 
+more important for everyday life. 
+It is 40 years since the publication of the 
+1985 Royal Society report on The public 
+understanding of science, which had an overall 
+impact beyond all expectations. Following 
+the report there was a requirement for the 
+Research Councils to fund public understanding 
+of science activities and a requirement for grant 
+applications to include statements about how 
+they would approach increasing the public 
+understanding of science. National Science 
+Week was inaugurated and the Royal Society 
+introduced the Faraday lecture and science 
+book prizes. There was also a huge increase 
+in opportunities for training, and for engaging 
+the public with science.
+Since that time, however, there have been very 
+substantial changes in the scientific environment, 
+which require a major reconsideration of how 
+to pursue the public understanding of and 
+engagement with, science. Climate change and 
+AI have become major new areas of scientific 
+concern. There has been an enormous increase 
+in the use of computers, which can be a smart 
+phone in your hand, as well as the development 
+of the internet and the World Wide Web, the 
+huge impact of social media and the concern 
+about the trustworthiness of its content, and now 
+the sudden quite recent explosion of AI and 
+Large Language Models (LLMs). There has also 
+been a substantial increase in the proportion of 
+the population having some education beyond 
+secondary school. 
+School education from primary through 
+secondary school is the ultimate basis for 
+public understanding of, and engagement with, 
+science and is the first major topic of the report. 
+There is, once again, a strong recommendation 
+to broaden the 16 – 18 secondary education 
+for all students to include science and the 
+humanities. Let’s hope that this finally gets 
+some traction with policy makers. 
+Perhaps the most important current issue is 
+the reliability of information available on the 
+internet in social media, and in the large data 
+bases needed for AI and LLMs. As the report 
+says, “trustworthiness of sources is a vital 
+issue”. The integrity of science-related data 
+is a key topic for the Royal Society to pursue. 
+It is always most important that politics does 
+not interfere with scientific integrity, and the 
+independence of the Royal Society is very 
+important in this respect. 
+The report is full of useful recommendations 
+for government actions, and of analyses 
+showing, for example, the extent of interest in 
+the scientific community in promoting public 
+understanding and engagement with science, 
+and the extent to which the public wants to 
+understand and be engaged.
+The final message to the scientific community is, 
+as it was in 1985, that it is important to learn how 
+to communicate and engage with the public at 
+all levels and to consider it a duty to do so.
+Sir Walter Bodmer FMedSci FRS
+PREFACE
+4	
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER
+
+=== Page 5 ===
+
+Foreword
+1	
+The Royal Society, The public understanding of science (1985). See: https://royalsociety.org/-/media/policy/
+publications/1985/10700.pdf (accessed 7 January 2026).
+The pursuit of knowledge about our world 
+– the essence of the scientific endeavour – 
+lies at the very heart of human civilisation. 
+Science is not the preserve of a small group 
+of accredited scientists; it belongs to all of 
+humanity. Access to scientific principles and 
+facts, and their implications, should be available 
+to everyone. Yet even today, when virtually 
+instantaneous communication is taken for 
+granted and information on almost anything is 
+readily accessible to so many, an appreciation 
+of basic scientific realities, even those that 
+affect everyday life and the future of our planet, 
+such as climate change, is too often missing.
+It is the responsibility of scientists and the 
+institutions that support them to ensure that 
+scientific knowledge is shared. The practice 
+of public engagement with science is deeply 
+rooted. The UK’s pre-eminent scientific 
+institution, the Royal Society, may even 
+owe its existence to this idea since it was 
+founded at Gresham College, the Elizabethan 
+establishment charged with delivering free 
+lectures to Londoners from 1597. The Royal 
+Institution, created in 1799, took up the 
+mantle by hosting its first public lecture in 
+1800. However, the notion that participation 
+in public engagement is a desirable and 
+legitimate concern for all practising scientists 
+is relatively modern. The 1985 Royal Society 
+report on The public understanding of 
+science, written by a group appointed by 
+the Royal Society Council and chaired by 
+Sir Walter Bodmer (colloquially known as 
+the ‘Bodmer report’), marked a turning point 
+in the general acceptance by the scientific 
+community and others of the extensive 
+benefits of public engagement. The Bodmer 
+report led to public engagement becoming 
+embedded in the Royal Society’s mission 
+and an integral component of scientists’ 
+activities in higher education institutions.
+If science was key to society in 1985, it is 
+imperative in 2026. As the Bodmer report 
+so eloquently put it: “Science pervades our 
+society. Most of our industry and much of our 
+national prosperity are based on science … 
+Science affects many, if not most, policy issues 
+of national and international importance. It also 
+affects a wide range of personal activities, 
+from health and diet to holidays and sport.”1
+The world has changed since 1985. Today, 
+science and technology underpin the 
+dissemination of information. It is critical not 
+only to everyone’s health and comfort, but to 
+safety and security, indeed to the future of our 
+planet. The ability to engage with the subjects, 
+structures, methods and outcomes of science 
+should be a public right. With that ability to 
+engage comes the power to make informed 
+choices about how to live and to influence how 
+society can and should use the tremendous 
+capability of science for the common good.
+The Bodmer report was published just before 
+the invention that brought about the biggest 
+societal change of recent times: the internet. 
+The internet was introduced in the early 1980s 
+and became user-friendly with the deployment 
+of the World Wide Web in 1989. The internet 
+profoundly changed society across the world: 
+in the space of a few years, enormous amounts 
+of information (virtually all human knowledge) 
+became available to anyone with access to 
+a computer, initially large mainframes, then 
+compact laptops, and today mobile phones.
+Above:
+Professor Carlos Frenk 
+CBE FRS (top) and 
+Professor Sheila Rowan 
+CBE FRS (bottom).
+FOREWORD
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER 	
+5
+
+=== Page 6 ===
+
+The internet created the opportunity for 
+interested organisations, including the media, 
+to make scientific advances accessible to  
+non-specialists. Naturally, this has had an 
+enormous effect on the public’s engagement 
+with science, enabling them not just to be 
+informed and inspired but also to make their 
+voices heard on scientific matters of public 
+concern, a central plank of effective public 
+engagement. But not all things internet 
+have been beneficial. The internet also 
+exposed serious vulnerabilities, such as 
+cyber attacks on essential infrastructure and 
+internet fraud. The internet has provided a 
+vehicle for self-interested parties to spread 
+mis- and disinformation, as demonstrated, 
+for example, by unscientific attacks on 
+the efficacy and safety of vaccines.
+The volume of scientific research has 
+increased dramatically since 1985. According 
+to an analysis of Web of Science data, 
+approximately 500,000 scientific papers were 
+published in 19812, whereas, according to the 
+National Science Foundation, approximately 
+3.3 million papers were published in 20233. 
+This increase reflects a commensurate 
+increase in the number of professional 
+science, technology, engineering and 
+mathematics (STEM) researchers. Although 
+accurate numbers are difficult to come by, an 
+indication of the trend is provided by a survey 
+that showed that the number of doctorates 
+awarded in STEM in the UK approximately 
+doubled between 1994 and 20084. 
+2	
+Adams, J and Szomszor, M. A converging global research system, Quantitative Science Studies 3 (3): 715–731 (2022). 
+See: https://doi.org/10.1162/qss_a_00208
+3	
+National Science Board, National Science Foundation, Discovery: R&D Activity and Research Publications,  
+Science & Engineering Indicators, Executive Summary (2025). See: https://ncses.nsf.gov/pubs/nsb20257  
+(accessed 6 January 2026).
+4	
+Lee, H-f et al. Career Patterns and Competences of PhDs in Science and Engineering in the Knowledge Economy: 
+The Case of Graduates from a UK Research-based University, Research Policy 39 (7): 869–881 (2010).  
+See: https://doi.org/10.1016/j.respol.2010.05.001
+5	
+The Royal Society/News and Resources/Projects, Mathematical Futures Programme (2024).  
+See: https://royalsociety.org/news-resources/projects/mathematical-futures (accessed 6 January 2026).
+6	
+STEM Learning, Improving science teacher retention: do National STEM Learning Network professional development 
+courses keep science teachers in the classroom? (2019). See: https://www.stem.org.uk/resources/library/
+resource/418071/improving-science-teacher-retention-do-national-stem-learning (accessed 6 January 2026). 
+There are many more active researchers 
+and STEM engagement professionals 
+who participate in public engagement in 
+science today than there were in 1985.
+An area of great prominence in the 1985 
+report in which there has been some success 
+in the past 40 years is in science education 
+in schools. The Bodmer report stressed the 
+need “to provide a broadly based science 
+education at school for all to the age of 16”, and 
+compulsory science to age 16 was implemented 
+in England, Wales, and Northern Ireland within a 
+few years of the report’s publication. However, 
+the report also recommended that post-16 
+education should be broader and explicitly 
+stated that students should not drop science 
+subjects entirely after the age of 16. Despite 
+multiple recommendations, including by the 
+Royal Society5, this has not yet come to pass. 
+A welcome development is the inclusion of 
+computing and data science in the school 
+curriculum. The inadequate supply of qualified 
+science teachers in schools, particularly 
+in physics and mathematics, was already 
+highlighted as a major problem in the Bodmer 
+report. Sadly, this is another area where there 
+has been no progress in 40 years6.
+“	Science pervades 
+our society. Most 
+of our industry 
+and much of our 
+national prosperity 
+are based on 
+science… Science 
+affects many, if 
+not most, policy 
+issues of national 
+and international 
+importance. It also 
+affects a wide 
+range of personal 
+activities, from  
+health and diet to 
+holidays and sport.”
+	 The public  
+understanding  
+of science, 1985.
+FOREWORD
+6	
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER
+
+=== Page 7 ===
+
+By contrast, the informal science education 
+sector has flourished. In 1985, this sector 
+was essentially limited to a few science 
+museums (mostly in London) and a handful 
+of science festivals. Today, there is a welcome 
+proliferation of science and ‘science and 
+discovery’ centres spread around the 
+country, and many new science festivals. 
+The Millennium Commission, set up at the 
+turn of the century, created over a dozen new 
+science centres, botanic gardens and aquaria 
+across the UK. Now the challenge is to renew 
+the 25-year-old infrastructure of these facilities 
+and to place the entire informal education 
+sector on a financially sustainable footing.
+The central scientific and technological 
+concerns that dominate today’s attention 
+are different from those in 1985. The Bodmer 
+report mentions ‘acid rain’, nuclear waste, 
+in vitro fertilisation, fluoridation of the 
+water supply and environmental pollution. 
+Although some current topical subjects, 
+such as the energy supply, the ageing 
+population and vaccines, were mentioned 
+in the Bodmer report, the central concerns 
+of today – climate change, the decline of 
+biodiversity, ecological collapse, pandemics, 
+uncontrolled artificial general intelligence – 
+have only emerged in the past 40 years.
+In recognition of the profound changes over 
+the past 40 years and our conviction that 
+public engagement is a critical aspect of 
+our role as scientists, we were delighted to  
+co-chair a group tasked with updating 
+Sir Walter’s original report. We hope that 
+this Science for society report will help 
+set the scene for public engagement 
+with science for years to come.
+Professor Carlos Frenk CBE FRS and 
+Professor Sheila Rowan CBE FRS, 
+Co-Chairs of the Science for society 
+report Steering Committee
+“	It is the responsibility 
+of scientists and 
+the institutions that 
+support them to 
+ensure that  
+scientific knowledge 
+is shared.”
+	 Professor Carlos Frenk  
+CBE FRS and Professor  
+Sheila Rowan CBE FRS.
+FOREWORD
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER 	
+7
+
+=== Page 8 ===
+
+Introduction
+7	
+The Royal Society, The public understanding of science (1985). See: https://royalsociety.org/-/media/policy/
+publications/1985/10700.pdf (accessed 7 January 2026).
+Our approach
+This report has been inspired by the 
+Public understanding of science report led 
+by Sir Walter Bodmer FMedSci FRS in 1985 
+(colloquially known as the Bodmer report7). 
+In revisiting this report, 40 years on, the 
+Royal Society set out to establish what has 
+changed, and what has not. The nature of 
+public engagement with research has shifted 
+dramatically to a more dialogue-driven, 
+two-way engagement model, yet many of 
+the problems set out in the 1985 report still 
+feel relevant today. In producing this report, 
+the Royal Society has, where appropriate, 
+mirrored the chapters set out in the 1985 
+report; each chapter has been led by a 
+Fellow of the Royal Society supported by 
+a steering group of sector experts. These 
+groups determined what they wished to 
+cover and the specific recommendations 
+relevant to their chapter. In that sense, this 
+report has had many different authors, 
+just as it has many different audiences.
+In choosing to revisit the areas highlighted 
+in the 1985 Public understanding of science 
+report, we acknowledge that some areas 
+where science and society interact are not 
+covered. This is a far-reaching topic, and 
+there are inevitably areas that have not been 
+addressed in this report, or areas where only a 
+small aspect of a much wider subject has been 
+considered. Nevertheless, the Society has set 
+out to show why a public voice is essential to 
+the development of science, and how science 
+is fundamental to the lives of every one of us.
+Audiences
+The primary audience for this report is the 
+scientific community, which comprises many 
+different groups of people, from those active 
+in scientific research in academia, industry or 
+the third sector. This also extends to those 
+who enable or support science as funders, 
+press and communications teams and the 
+public engagement with research. As with 
+the original Bodmer report, there are also 
+recommendations for the Royal Society itself.
+In addition, there are further audiences who 
+are key stakeholders in any report considering 
+the interactions between science and society. 
+This includes those with the power to directly 
+influence work in this area, such as government 
+and policy makers more generally, research 
+funders, media and other organisations, and 
+those with whom the scientific community may 
+seek to engage, such as local and national 
+community groups and organisations.
+All the recommendations in this report specify 
+the audience for which they are intended.
+	The Society has 
+set out to show 
+why a public voice 
+is essential to 
+the development 
+of science, and 
+how science is 
+fundamental to 
+the lives of every 
+one of us.
+INTRODUCTION
+8	
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER
+
+=== Page 9 ===
+
+Setting the context
+As the Royal Society began to consider the 
+different chapters for this report, it became 
+clear that there were cross-cutting topics that 
+provide context for how science and society 
+shape one another. This introduction aims 
+to bring together just some of the examples 
+that were common across the individual 
+groups looking at each chapter. Some of 
+these are familiar from the report led by Sir 
+Walter Bodmer FMedSci FRS in 1985, others 
+were not even imagined 40 years ago.
+At the outset of this report, the Society wants 
+to set out why science matters and why it is 
+important to have meaningful dialogue and 
+engagement with the public not just about how 
+science is involved in everyone’s daily lives 
+but also the nature of science and the role of 
+uncertainty. Moreover, engaging with the public 
+provides direct benefit to both researchers 
+and their institutions, as can be seen in the 
+academic scientific community chapter.
+Science provides knowledge, innovation and 
+solutions that support progress, including 
+economic and societal. Beyond its economic 
+contributions8, it informs decision-making, 
+inspires curiosity and equips society to 
+tackle emerging problems – from pandemics 
+and climate change to technological 
+transformation. The increased spread of 
+misinformation has reinforced the need 
+to uphold the value of science and clearly 
+communicate the transparency and integrity 
+that make science trustworthy.
+8	
+Department for Science, Innovation and Technology, The Value of Public R&D (2025).  
+See: https://www.gov.uk/government/publications/the-value-of-public-rd/the-value-of-public-rd  
+(accessed 6 January 2026).
+9	
+UK Research and Innovation, Public attitudes to science (2025). See: https://pas.ipsos.com/ (accessed 14 April 2026).
+10	 Dawson, E. Equity, Exclusion and Everyday Science Learning: The Experiences of Minoritised Groups.  
+London: Routledge (2019).
+Public attitudes to science
+Public attitudes to science are fundamental 
+to the findings and recommendations 
+in this report. The findings of the 2025 
+Public attitudes to science (PAS) survey, 
+undertaken by Ipsos, in partnership with 
+the British Science Association, on behalf 
+of UK Research and Innovation (UKRI), are 
+considered throughout each chapter9.
+PAS survey data show that the public continue 
+to value the contributions of science and 
+scientists in their daily lives, to wider society 
+and the economy. However, three-fifths 
+of those surveyed felt that they heard 
+too little information about science, and 
+they wanted greater dialogue on science 
+issues. They also raised concerns about 
+equity in science and believed that the 
+opportunity to pursue science was not 
+open to all. This concern reflects the fact 
+that access to science is not equitable10.
+There are variances across different groups 
+of people. The PAS survey highlights some 
+potential warning signs for policymakers and 
+the scientific community more generally; the 
+Royal Society encourages readers to look at the 
+full PAS report for more information than can be 
+conveyed here. What is clear, however, is a wish 
+for the public to engage more with science, 
+but this should not be taken for granted.
+INTRODUCTION
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER 	
+9
+
+=== Page 10 ===
+
+Researcher attitudes towards public 
+engagement
+The capacity, aspirations, barriers and 
+concerns of researchers with regard to 
+public engagement is another fundamental 
+consideration of this report. As part of the 
+report, the Royal Society commissioned 
+Technopolis to undertake an updated version of 
+the Factors affecting public engagement by UK 
+researchers survey11, last undertaken in 2015. 
+Survey responses show a clear and growing 
+wish among academic researchers to support 
+public engagement.
+As discussed in Chapter six: Academic scientific 
+community, researchers still face considerable 
+barriers to undertaking meaningful public 
+engagement activity. Public engagement is 
+often not considered as a core activity or 
+as an important part of career progression, 
+which makes prioritising this activity difficult, 
+especially when time and money are limited. 
+The importance of public engagement to 
+researchers is evident, as is their willingness 
+to participate, but they need support to do so. 
+11	
+Technopolis on behalf of the Royal Society (2025) Factors affecting public engagement by UK researchers.  
+See: https://royalsociety.org/-/media/policy/projects/science-for-society/factors-affecting-public-engagement-by-uk-
+researchers-2025.pdf (accessed 19 April 2026).
+12	 House of Lords, Science and Technology: Third Report (2000). See: https://publications.parliament.uk/pa/ld199900/
+ldselect/ldsctech/38/3801.htm (accessed 6 January 2026).
+13	 Dawson, E. Equity, Exclusion and Everyday Science Learning: The Experiences of Minoritised Groups.  
+London: Routledge (2019).
+Changes to the public engagement sector
+Public engagement with research in the UK 
+has undergone substantial development since 
+the late twentieth century, emerging from early 
+efforts in science communication to become a 
+formalised element of national research policy. 
+A pivotal moment came with the House of 
+Lords Science and Technology Committee’s 
+2000 report, which criticised the ‘deficit model’ 
+of science communication, where the “public 
+was viewed as a passive recipient of” expert 
+knowledge, and advocated for more dialogic 
+and participatory approaches to science-
+society relations12. 
+In the time since the 1985 Public understanding 
+of science report was published, the public 
+engagement landscape has expanded to 
+include new facilities and organisations, 
+including the creation of new science centres, 
+festivals and events. The Science Media 
+Centre was set up in 2000, and many research 
+institutions have established public engagement, 
+community and civic outreach, participatory 
+research and patient involvement programmes. 
+The multitude of opportunities now available 
+to connect science with public audiences are 
+a real success story for the UK and one that 
+we should nurture and resource; however, 
+opportunities are not distributed equally or 
+equitably13, and much more needs to be done 
+to engage underserved communities across 
+the UK. Financial pressures across the public 
+engagement landscape in recent years have 
+caused many of the dedicated support roles 
+for engagement activity to be reduced or 
+removed completely.
+INTRODUCTION
+10	
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER
+
+=== Page 11 ===
+
+Environmental and health crises
+Human activity is changing the climate of 
+our planet and destroying its biodiversity 
+at an unprecedented rate. Climate change 
+is increasing the risk of extreme weather 
+and rising sea levels, harming our ability 
+to grow food, and making it harder 
+for biodiversity to thrive – potentially 
+impoverishing our planet in ways that will 
+hamper the benefits we can derive from it.
+Antimicrobial resistance threatens to undermine 
+our control of infections. While the Bodmer 
+report was being written, awareness was 
+rising of a new viral infection, HIV/AIDS, which 
+has killed more than 40 million people14 (for 
+a further exploration of the effect this had on 
+the relationship between scientists and the 
+public see case study: AIDS activism in the 
+US). COVID-19 has been the most disastrous 
+example of a series of epidemics and 
+pandemics over the past four decades. In the 
+UK, the pandemic highlighted complexities in 
+the relationship between science, policymaking, 
+politicians and the public15. It raised numerous 
+considerations, including the role of different 
+areas of science in shaping policy during health 
+crises, managing uncertainty while attempting 
+to communicate clearly with the public and the 
+public spotlight on scientific advisers.
+At the same time, scientific advances to find 
+solutions to these problems are emerging 
+all the time, with incredible progress being 
+made to address societal and global 
+problems, not least the rapid development of 
+vaccines to reduce the effects of COVID-19 
+by scientists working in academia and 
+industry and collaborating across borders.
+14	 HIV.gov, The Global HIV and AIDS Epidemic (2025). See: https://www.hiv.gov/hiv-basics/overview/data-and-trends/
+global-statistics (accessed 6 January 2026).
+15	 The British Academy, Public Trust In Science-For-Policymaking (2024). See: https://www.thebritishacademy.ac.uk/
+publications/public-trust-in-science-for-policymaking/ (accessed 6 January 2026).
+16	 The Royal Society et al., Forensic DNA analysis: A primer for courts (2nd edition) (2025). See: https://royalsociety.
+org/-/media/about-us/programmes/science-and-law/royal-society-forensic-dna-analysis-primer-second-edition.pdf 
+(accessed 6 January 2026).
+Advances in genetic technologies
+While methods of deoxyribonucleic acid 
+(DNA) sequencing to read DNA were first 
+developed in the 1970s, new methods and 
+rapid advancements in genetics have been 
+transformational since the publication of the 
+original Bodmer report. Advances have led to 
+the complete genome sequence of humans, 
+and many animals, plants and microorganisms.
+As well as genetic technologies helping 
+to advance healthcare, DNA is a vital part 
+of forensic science, with DNA evidence 
+regularly cited in courtrooms and in TV 
+and film dramas. The Royal Society has 
+published a primer for the courts on DNA 
+evidence as part of its science and the law 
+programme16, but the potential benefits of 
+genetic technologies must also be weighed 
+against ethical and societal concerns about 
+how they might be used. Effective regulation 
+and ethical boundaries are essential.
+INTRODUCTION
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER 	
+11
+
+=== Page 12 ===
+
+A digital world
+In 1985, 13% of UK households had a home 
+computer17. The internet was two years old. 
+The world wide web was unveiled in 1989 and 
+went public in the mid-1990s. These inventions 
+transformed people’s access to information and 
+their relationship with technology, particularly 
+following the launch of smartphones. These 
+advances provided instantaneous access 
+to almost all human knowledge. They also 
+revolutionised how people communicated 
+with one another and shared information, 
+particularly with the emergence of social 
+media. Anyone born after 1985 (when the 
+Bodmer report was published) has grown 
+up immersed in a digital society. This has 
+profound implications for where people obtain 
+information, from whom and how they consume 
+it18. With new channels of communication, 
+opportunities for public engagement 
+are enhanced, but science faces greatly 
+increased competition for people’s attention.
+The rise of AI
+The unprecedented speed and scale of 
+progress with AI in recent years suggests 
+society may be living through an inflection 
+point. Platforms that can generate 
+human-like text and image content have 
+accelerated public interest in the field and 
+raised flags for policymakers, who have 
+concerns about how AI-based technologies 
+may be integrated into wider society. 
+17	 Statista, Percentage of Households With Home Computers in the United Kingdom (UK) from 1985 to 2018 (2026).  
+https://www.statista.com/statistics/289191/household-penetration-of-home-computers-in-the-uk/  
+(accessed 6 January 2026).
+18	 The Royal Society, The online information environment (2022). See: https://royalsociety.org/news-resources/projects/
+online-information-environment/ (accessed 6 January 2026).
+19	 UK Research and Innovation, Public attitudes to science (2025). See: https://pas.ipsos.com/ (accessed 14 April 2026).
+20	 The Royal Society, Science in the age of AI: How artificial intelligence is changing the nature and method of scientific 
+research (2024). See: https://royalsociety.org/news-resources/projects/science-in-the-age-of-ai/ (accessed 6 January 2026).
+21	 UK Research and Innovation, Public attitudes to science (2025). See: https://pas.ipsos.com/ (accessed 14 April 2026).
+22	 Ipsos, Ipsos Veracity Index 2024 (2024). See: https://www.ipsos.com/en-uk/ipsos-veracity-index-2024  
+(accessed 6 January 2026).
+These concerns are shared by the public. The 
+PAS survey 2025 shows that the public is very 
+polarised about the benefits and risks of AI19.
+The potential benefits of AI include its 
+capability to accelerate scientific discovery 
+or to provide the means for non-experts to 
+interact with and translate complex code, 
+data and information. However there are also 
+significant societal risks from a global system 
+whose employment, financial and energy 
+systems are becoming increasingly enmeshed 
+with the rapid expansion of AI capacity20.
+Public trust in scientists and institutions
+Despite some concerns, public trust in scientists 
+working for universities is still very high at 87%21, 
+although scientists working in industry and 
+government are less well trusted. Further, the 
+role of science and scientists is recognised, 
+with 83% of people stating that scientists make 
+a valuable contribution to society. 
+ 
+However, trust in government ministers – 
+and politicians generally – is low22, suggesting 
+an undermining of key authorities. Trust in 
+journalists, traditionally key mediators of 
+information to the public, is also relatively low, 
+although nowhere near as low as trust in social 
+media influencers. The question of trusted 
+sources is considered in Chapter three: Mass 
+media and misinformation.
+INTRODUCTION
+12	
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER
+
+=== Page 13 ===
+
+Misinformation and disinformation
+The internet has transformed the way 
+people consume, produce, and disseminate 
+information about the world. In the online 
+information environment, internet users 
+can tailor unlimited content to their own 
+needs and desires. This shift away from 
+limited, gatekept and pre-scheduled 
+content has democratised access to 
+knowledge and driven societal progress.
+The unlimited volume of content, however, 
+means that capturing attention in the online 
+information environment is difficult and highly 
+competitive. This heightened competition for 
+attention presents a challenge for those who 
+wish to communicate trustworthy information 
+to help guide important decisions. The 
+poor navigation, or even active exploitation, 
+of this environment by prominent public 
+figures and political leaders has, on many 
+occasions, led to detrimental advice being 
+disseminated among the public. This has 
+caused significant concern, with online 
+misinformation content being widely 
+discussed as a factor that affects democratic 
+elections and incites violence. In recent years, 
+misinformation has also interfered with how 
+scientific topics have been perceived by 
+the public, including vaccine safety, climate 
+change and the rollout of 5G technology23.
+23	 The Royal Society, The online information environment: Understanding how the internet shapes people’s 
+engagement with scientific information (2022). See: https://royalsociety.org/topics-policy/projects/online-information-
+environment/ (accessed 6 January 2026).
+Financial constraints and public benefit
+There are always financial constraints and 
+economic considerations and governments 
+and organisations need to make difficult 
+decisions on where to prioritise spending. 
+At the time of writing, there are significant 
+concerns about the state of the UK economy 
+following major blows such as the COVID-19 
+pandemic and the current geo-political situation.
+As the Royal Society considers the 
+recommendations in this report, we must be 
+mindful of the current economic position for 
+all key stakeholders involved in engaging 
+the public with science and their need to 
+prioritise spending.
+Yet, it is more important than ever that the 
+role of science be understood and discussed 
+publicly and the value of those individuals 
+who work in public engagement and science 
+communication is recognised. The scientific, 
+technological and social shifts seen over the 
+past 40 years reinforce the key messages 
+from the 1985 Public understanding of science 
+report that science and technology are 
+central to the future prosperity of the UK and 
+profoundly shape people’s everyday lives.
+INTRODUCTION
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER 	
+13
+
+=== Page 14 ===
+
+Executive summary
+24	 UK Research and Innovation, Public attitudes to science (2025). See: https://pas.ipsos.com/ (accessed 14 April 2026).
+25	 Technopolis on behalf of the Royal Society (2025), Factors affecting public engagement by UK researchers 2025.  
+See: https://royalsociety.org/-/media/policy/projects/science-for-society/factors-affecting-public-engagement-by-uk-
+researchers-2025.pdf (accessed 19 April 2026).
+Public engagement is an essential part of the 
+research lifecycle. It should be acknowledged 
+as such, and researchers in academia, industry 
+and the third sector should be supported, 
+protected and rewarded for doing it well.
+There are threats to science from financial 
+pressures. Opportunities to engage, such 
+as science centres, science festivals, and 
+university-based engagement projects, are 
+under threat owing to lack of resources 
+and accurate online content is increasingly 
+eclipsed by misinformation. Ideological 
+agendas are being used to suppress research, 
+threaten academic freedom, and cut funding. 
+Scientific evidence and those who advocate 
+for it are under attack by those who wish to 
+undermine rational debate. Platforms that 
+should facilitate open, transparent debate 
+are giving free rein to harmful misinformation 
+and ideological attacks on people and ideas. 
+Equality is under attack and that threatens 
+our global community of scientists. To 
+counter these threats, science should be 
+viewed as a vital part of how society works 
+and be made available to everyone.
+The ‘public’ is not one uniform group of people. 
+It is made up of individuals and communities 
+of which everyone is a part at one point or 
+another in our lives. The Public attitudes to 
+science (PAS) data show that the public are 
+largely still very supportive24, but this cannot 
+be taken for granted. Science is impossible 
+without a licence to operate (in political, 
+financial and ethical terms) and needs to 
+be done in partnership with the public.
+The UK research community views public 
+engagement positively, but is not always 
+given the stability, time, skills, confidence, 
+protections, support, or money to do it well. 
+It should not be seen as an ‘extra’ on top 
+of research and teaching commitments, 
+it should be recognised as a vital part of 
+research and pedagogical culture.
+Scientists and researchers at multiple career 
+levels can make a meaningful difference in 
+how science and society interact by acting 
+as individuals or as part of large research 
+groups. While not all researchers are 
+confident, or indeed equipped, to undertake 
+public engagement, providing the support 
+for those who want to engage is important. 
+The UK government needs to invest in 
+training and development for scientists and 
+researchers and support them to engage 
+meaningfully in whichever way is most 
+appropriate for them, for the people they 
+are working with and for their science.
+As with the ‘public’, researchers and scientists 
+are not a uniform group; different disciplines 
+and different working environments mean 
+that engagement will look different in different 
+situations. How different engagement models 
+fit with different ‘modes’ of knowledge 
+creation needs to be considered25.
+ EXECUTIVE SUMMARY
+14	
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER
+
+=== Page 15 ===
+
+Why the Royal Society is making 
+recommendations and why now?
+Public engagement is an essential part of 
+the scientific process. It should be seen as 
+an investment for the future of the UK, and 
+engagement practitioners should be viewed as 
+a vital component in the scientific workforce. 
+High quality engagement allows UK science 
+to maintain a public mandate for science 
+spending, builds trust in science, makes a case 
+for the existence of universities and research 
+institutes and provides ways for the public 
+to access scientific information in a world 
+of increasing misinformation. In challenging 
+financial situations, it is all too easy to cut 
+support for engagement activities. The Royal 
+Society argues that this short-term solution to 
+financial pressures could result in long-term 
+damage to the connections between society 
+and science. While acknowledging current 
+economic and financial challenges, this report 
+examines where funders of scientific research, 
+government, media organisations and others 
+might prioritise spending on support for high-
+quality public engagement with science. This 
+report also discusses the potential benefits 
+of developing stronger philanthropic links 
+within the science communication and public 
+engagement sector.
+Transparency and trustworthiness are essential. 
+The public expect and want scientists to be 
+open and transparent about the work they do, 
+and to engage directly with the public, especially 
+around ethical and societal implications arising 
+from their work. To meet this expectation, 
+the independence of scientific advice in 
+government must be protected, scientists in 
+industry must be supported, and all scientists 
+given opportunities to connect with the public 
+in new, improved, and meaningful ways.
+26	 The Royal Society, Science 2040: Interim report (2025). See: https://royalsociety.org/-/media/policy/projects/
+science-2040/science-2040-interim-report.pdf (accessed 7 January 2026).
+The UK has made great progress in building 
+engagement opportunities, but risks taking a 
+backstep. Since 1985, multiple sectors have 
+collaborated to build significant infrastructure, 
+such as science centres and festivals, and 
+capacity for meaningful interactions between 
+science and society. While the Society 
+acknowledges the need to adapt and explore 
+new models of engagement that fit current 
+realities, losing this capacity and infrastructure 
+is a significant risk and would cause lasting 
+damage to both science and society.
+Artificial intelligence (AI) threatens to disrupt 
+established ways of engaging. When the 
+original Bodmer report was published in 1985, 
+the internet existed, but the effect it would 
+have on how everyone communicates could 
+not have been fully predicted. This report 
+faces the same unknown future with AI. 
+The Society knows that AI will change how 
+information is created and shared, but we do 
+not know exactly what the future will look like. 
+One thing we do know is that critical thinking 
+skills, being able to question evidence, being 
+able to create and test hypotheses and an 
+awareness of the merits of the scientific 
+method will continue to be essential life 
+skills for everyone.
+Science underpins innovation and 
+technological advancement. This drives 
+productivity, which in turn boosts wages. 
+Science-led innovation also benefits the 
+economy indirectly, by contributing to national 
+security, environmental protection and 
+public health. Public confidence in science is 
+essential for economic growth, which (in its 
+broadest sense) relies on positive interactions 
+between society and science26.
+EXECUTIVE SUMMARY
+SCIENCE FOR SOCIETY: HOW SOCIETY AND SCIENCE SHAPE EACH OTHER 	
+15
