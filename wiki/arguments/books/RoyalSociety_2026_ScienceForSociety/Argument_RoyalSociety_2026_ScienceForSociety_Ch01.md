@@ -10,9 +10,9 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 19
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: "Science for society: How society and science shape each other"
 publication_place: London
@@ -30,13 +30,32 @@ tags:
   - theme/curriculum-reform
   - level/secondary-education
   - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Research Question]]"
+  - "[[Scientific Literacy]]"
+  - "[[Rote Learning]]"
+  - "[[Attrition]]"
+  - "[[Data Literacy]]"
+  - "[[Reliability]]"
+  - "[[AI Literacy]]"
+  - "[[Science Capital]]"
+  - "[[Practical Inquiry in Science Education]]"
+  - "[[Construct]]"
+  - "[[Paradigm]]"
+  - "[[Praxis]]"
+  - "[[Further Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[UK Science Education Tracker]]"
+  - "[[Beyond 2000 Report]]"
+  - "[[PISA]]"
+  - "[[Twenty First Century Science]]"
+  - "[[OECD]]"
+related_arguments:
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 sources:
   - "[[books/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 part_of: "[[books/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
@@ -51,7 +70,7 @@ updated: 2026-08-22
 ## 研究问题
 
 > [!question]
-> 基础教育如何平衡“培养未来 STEM 专业人才”（约占学生总数 25%）与“为所有学生赋能公民[[Scientific Literacy|科学素养]]”的双重目标？面对数字信息爆炸与人工智能浪潮，学校科学课程为何必须从[[Rote Learning|死记硬背]]事实转向多源证据评估，又该如何破解实验探究课时锐减、后 16 岁过早分科狭窄化以及专业师资[[Attrition|流失]]的系统性危机？
+> 本章聚焦全书总[[Research Question|研究问题]]矩阵（详见 [[Argument_RoyalSociety_2026_ScienceForSociety|全书总览]]）中的“人才与素养根基”维度：基础教育如何平衡“培养未来 STEM 专业人才”（约占学生总数 25%）与“为所有学生赋能公民[[Scientific Literacy|科学素养]]”的双重目标？面对数字信息爆炸与人工智能浪潮，学校科学课程为何必须从[[Rote Learning|死记硬背]]事实转向多源证据评估，又该如何破解实验探究课时锐减、后 16 岁过早分科狭窄化以及专业师资[[Attrition|流失]]的系统性危机？
 
 > [!claim] 核心主张
 > 学校科学教育是全民科学素养与终身科学参与的根本基石。科学教育必须确立证据评估、[[Data Literacy|数据素养]]、AI 素养与可持续发展的核心地位，遏制课堂动手实验探究课时的严重下滑趋势，推行 16–18 岁跨学科宽口径课程体系，并通过赋予教师专业自主权与全周期持续专业发展（CPD）筑牢高质量师资根基。
@@ -65,25 +84,26 @@ updated: 2026-08-22
 
 ## 理论框架
 
-> [!framework-table] 核心概念工具
+> [!framework-table] 核心概念工具（详见 [[Argument_RoyalSociety_2026_ScienceForSociety|全书总览]] 概念体系）
 > | 概念工具 | 分析与解释功能 |
 > |---|---|
 > | **[[Scientific Literacy\|科学素养（Scientific Literacy）]]** | 指导课程从孤立的事实灌输转向理解“科学如何运作”、证据[[Reliability\|可靠性]]辨识与审慎对待科学不确定性（pp. 30–31） |
 > | **[[Data Literacy\|数据素养（Data Literacy）]]** | 阐明数字社会中概率、风险、不确定性与数据图表批判性评估对公民理性决策的支撑（p. 31） |
-> | **[[AI Literacy\|人工智能素养（AI Literacy）]]** | 确立批判性运用算法工具以放大人类认知与创造力、避免认知外包的核心原则（p. 32） |
-> | **[[Science Capital\|科学资本（Science Capital）]]** | 揭示家庭社会经济地位、课外科技接触与社会网络如何深刻制约学生的科学抱负与认同（p. 32） |
+> | **[[AI Literacy|人工智能素养（AI Literacy）]]** | 确立批判性运用算法工具以放大人类认知与创造力、避免认知外包的核心原则 |
+> | **[[Science Capital|科学资本（Science Capital）]]** | 揭示家庭社会经济地位、课外科技接触与社会网络如何深刻制约学生的科学抱负与认同（p. 32） |
 > | **[[Practical Inquiry in Science Education\|实践探究（Practical Inquiry）]]** | 分析动手实验操作与真实课题研究在具身化理解科学本质过程中的本体功能（p. 33） |
 
 ---
 
 ## 研究方法
 
-> [!method-panel] 证据基础与监测数据
+> [!method-panel] 本章证据基础与监测数据（依托全书方法体系，详见 [[Argument_RoyalSociety_2026_ScienceForSociety|全书总览]]）
 > | 证据类型 | 来源与方法口径 |
 > |---|---|
 > | **全国纵向追踪监测** | [[UK Science Education Tracker\|英国科学教育追踪调查（SET 2023）]]，涵盖英格兰 11–18 岁青少年关于课堂实验频率、课外拓展活动及职业抱负的长期监测数据（pp. 32–33） |
 > | **全国教师职业调查** | 2024 年科学教学调查（Science Teaching Survey 2024）与教育政策研究所（EPI）教师劳动力市场模型分析（p. 35） |
 > | **政策评估与国际比较** | 评估[[Beyond 2000 Report\|《Beyond 2000》报告]]对 OECD [[PISA]] 的影响、英格兰[[Twenty First Century Science\|《21世纪科学》]]课程实施经验及爱沙尼亚 STEM 教师赋权案例（pp. 31, 36） |
+
 
 ---
 

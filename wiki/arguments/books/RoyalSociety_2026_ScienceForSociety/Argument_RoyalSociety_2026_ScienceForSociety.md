@@ -10,9 +10,9 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "book"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 26
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: "Science for society: How society and science shape each other"
 publication_place: London
@@ -29,13 +29,39 @@ tags:
   - theme/science-communication
   - theme/science-policy
   - region/uk
-related_concepts: []
+related_concepts:
+  - "[[Public Engagement with Science]]"
+  - "[[Questionnaire]]"
+  - "[[Central Question]]"
+  - "[[Research Question]]"
+  - "[[Deficit Model of Science Communication]]"
+  - "[[Dialogue in Education]]"
+  - "[[Data Literacy]]"
+  - "[[Paradigm]]"
+  - "[[Scientific Literacy]]"
+  - "[[Science Capital]]"
+  - "[[AI Literacy]]"
+  - "[[Praxis]]"
+  - "[[Practical Inquiry in Science Education]]"
+  - "[[Reliability]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Case Study]]"
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Walter Bodmer]]"
+  - "[[Carlos Frenk]]"
+  - "[[Sheila Rowan]]"
+related_facts:
+  - "[[OECD]]"
+  - "[[Research Excellence Framework]]"
+  - "[[Public Attitudes to Science Survey 2025]]"
+  - "[[Beyond 2000 Report]]"
+  - "[[Twenty First Century Science]]"
+  - "[[UK Science Education Tracker]]"
+  - "[[Bodmer Report 1985]]"
+related_arguments:
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 sources:
   - "[[books/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 part_of:
@@ -60,12 +86,21 @@ updated: 2026-08-22
 
 ## 研究问题与核心主张
 
-> [!question] 全书问题
+> [!question] 全书[[Central Question|核心研究问题]]
 > 在 1985 年由[[Walter Bodmer|瓦尔特·博德默尔]]主持的《公众理解科学》报告发布 40 年后，面对互联网革命、科研产出几何级激增、人工智能爆炸、虚假信息泛滥以及财政紧缩挑战，科学界如何重构与多元公众的良性互动，使科学参与从边缘衍生转化为科研全生命周期的核心制度支柱？
+
+> [!framework-table] 全书五大核心[[Research Question|研究问题]]矩阵
+> | 问题维度 | 核心探讨问题 | 对应报告章节 |
+> |---|---|---|
+> | **宏观历史演进** | 40 年间科学传播范式如何从单向灌输的[[Deficit Model of Science Communication\|赤字模型]]演变为双向平权的[[Public Engagement with Science\|公众科学参与]]？（pp. 4–10） | 引言、执行摘要 |
+> | **公众态度与信任** | 现代公众如何看待科学的价值与风险？其对双向[[Dialogue in Education\|对话]]的诉求与对科学获取公平性的担忧何在？（pp. 9–13） | 导论、Ch. 2（非正式参与）、Ch. 3（媒体） |
+> | **人才与素养根基** | 基础教育如何培养兼具科学本质理解、[[Data Literacy\|数据素养]]与 AI 素养的未来公民，遏制实验探究萎缩与学科狭隘化？（pp. 29–40） | Ch. 1（教育） |
+> | **信息生态与治理** | 数字算法、社交媒体与生成式 AI 如何重构公众认知？科学界如何构建抵御虚假信息的免疫防线？（pp. 11–13, 55–66） | Ch. 3（大众传媒与虚假信息） |
+> | **制度机制与全生命周期** | 大学考评体制、科研经费与职业保障如何消除阻碍，使科研人员投身公众参与获得实质支持与认可？（pp. 14–15, 91–106） | Ch. 4（产业/第三部门）、Ch. 5（政策）、Ch. 6（学术界） |
 
 > [!monograph-thesis] 全书核心主张
 > - **问题起点** 科学并非少数专业学者的特权领地，而是全人类文明的基石。科学事业离开公众在政治、财政与伦理层面的支持许可（Licence to Operate）将难以为继。
-> - **核心解释** 40 年间科学传播[[Paradigm|范式]]已从单向知识灌输的[[Deficit Model of Science Communication|赤字模型]]彻底转向平权、双向[[Dialogue in Education|对话]]的[[Public Engagement with Science|公众科学参与]]；但在高校晋升机制、资源配置与职业保障上，科研人员仍面临严重制度性阻碍。
+> - **核心解释** 40 年间科学传播[[Paradigm|范式]]已从单向知识灌输的[[Deficit Model of Science Communication|赤字模型]]彻底转向平权、双向对话的[[Public Engagement with Science|公众科学参与]]；但在高校晋升机制、资源配置与职业保障上，科研人员仍面临严重制度性阻碍。
 > - **最终贡献** 系统确立了将科学参与内嵌于科研全生命周期的制度范式，为教育、非正式场所、媒体治理、产业协同、政策咨询及大学改革提供了协同行动路径。
 
 > [!citation-card]- 核心表述
@@ -77,18 +112,22 @@ updated: 2026-08-22
 
 ## 理论、概念与方法工具
 
-> [!monograph-tools] 理论与概念工具
-> - **[[Public Engagement with Science|公众科学参与]]（Public Engagement with Science, PES）** 贯穿全书的核心概念框架，强调平权[[Dialogue in Education|对话]]、倾听公众关切与共建信任。（pp. 8–10）
-> - **[[Scientific Literacy|科学素养]]（Scientific Literacy）** 阐述公民理解科学本质、评估多源证据与理性参与民主决策的核心能力。（pp. 30–31）
+> [!monograph-tools] 理论与概念工具体系
+> - **[[Public Engagement with Science|公众科学参与]]（Public Engagement with Science, PES）** 贯穿全书的核心概念支柱，确立双向互动、倾听关切与科研生命周期嵌入原则。（pp. 8–10, 14）
 > - **[[Deficit Model of Science Communication|科学传播赤字模型]]（Deficit Model of Science Communication）** 作为全书反思的传统知识传播[[Paradigm|范式]]，揭示单向灌输在应对现代公众信任危机时的根本局限。（p. 10）
+> - **[[Scientific Literacy|科学素养]]（Scientific Literacy）** 阐述公民理解科学本质、评估多源证据与理性参与民主决策的核心能力。（pp. 30–31）
+> - **[[Science Capital|科学资本]]（Science Capital）** 解释家庭阶层、社会网络与文化资源如何影响青少年科学抱负与公众参与分化。（p. 32）
 > - **[[Data Literacy|数据素养]]（Data Literacy） 与 [[AI Literacy|人工智能素养]]（AI Literacy）** 作为数字时代公民驾驭算法推荐、辨识虚假信息与负责任协同的必要扩展。（pp. 31–32）
+> - **[[Praxis|实践]]探究（[[Practical Inquiry in Science Education]]）** 阐明动手实验操作与真实课题研究在具身化理解科学本质过程中的本体功能。（p. 33）
 
-> [!monograph-method] 研究方法与材料
-> - **研究设计** 综合政策回顾与混合证据综合，由[[Carlos Frenk]]与[[Sheila Rowan]]领导的指导委员会及六个专业工作组分别研讨。
+> [!monograph-method] 全书综合研究方法与证据体系
+> - **顶层设计与工作组研讨** 由[[Carlos Frenk]]与[[Sheila Rowan]]领导的指导委员会设立六个专业工作组（教育、非正式参与、大众媒体、产业/第三部门、政策、学术界），开展多学科证据综合与跨界研讨。（pp. 5–8）
+> - **全国公众态度调查（PAS 2025）** 英国研究与创新署（UKRI）委托 Ipsos 与英国科学协会联合执行的全国代表性民意调查，测度公众对科学的信任度、信息需求、AI 态度与公平性认知。（pp. 9–13）
+> - **全国科研人员参与调查（Technopolis 2025）** 针对英国高校与科研机构一线研究人员的抽样调查，系统评估科研人员参与频次、参与动力、考评障碍与制度需求。（p. 10）
+> - **纵向教育追踪与教师职业调查** 皇家学会科学教育追踪调查（SET 2016–2023 纵向监测）与 2024 年科学教学调查（Science Teaching Survey 2024），追踪初高中实验课时滑坡与师资短缺态势。（pp. 32–35）
+> - **政策演进与国际比较** 深度解构 1985 年以来的国家政策演进，并对比[[OECD|经合组织]]（OECD）成员国及爱沙尼亚等高绩效科学教育体制的实践经验。（pp. 31, 36）
+> - **方法边界与适用性** 报告聚焦英国特定科研体制、资助架构（UKRI/[[Research Excellence Framework|REF]]）与教育分权体系，跨国比较与经验借鉴时须结合本土制度情境审慎调适。
 
-> - **资料来源** 英国研究与创新署委托开展的2025年公众对科学的态度调查（PAS 2025）、Technopolis 开展的 2025 年英国科研人员科学参与调查、[[UK Science Education Tracker|英国科学教育追踪调查]]（SET 2023）以及海量[[Document|文献]]与实地案例。
-> - **分析策略** 40 年历史纵向对比、全国代表性样本统计描述、系统性障碍归因与政策工具匹配。
-> - **方法边界** 报告聚焦英国语境下的科学与社会关系，不同国家教育与科研体制差异需审慎迁移。
 
 ---
 
