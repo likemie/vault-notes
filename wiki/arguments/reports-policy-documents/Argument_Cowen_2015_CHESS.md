@@ -84,7 +84,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提／观察**[[What Works Network]] 和 [[Education Endowment Foundation|EEF]] 的建立使英国教育领域有了专门的证据清算中心，但证据的实施面临独特的挑战——从"什么有效"到"在这里有效"之间存在知识鸿沟
+> 1. **前提／观察**[[What Works Network]] 和 [[Education Endowment Foundation|EEF]] 的建立使英国教育领域有了专门的[[Educational Evidence Clearinghouses|证据清算中心]]，但证据的实施面临独特的挑战——从"什么有效"到"在这里有效"之间存在知识鸿沟
 >
 > 2. **论证步骤**
 >    - [[Literature Review|文献综述]]识别出 EBP 实施的三个关键前提：本地知识、专业自主性和判断力、以及适合从业者使用的证据呈现方式

@@ -118,7 +118,7 @@ updated: 2026-08-02
 
 > [!dev-timeline] 概念演变
 > - **1970 — 概念确立** [[Paulo Freire|弗莱雷]]在《被压迫者教育学》中将[[Coding in Qualitative Research|编码]]作为[[Problem-Posing Education|提问式教育]]的具象探究中介。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 105)]]
-> - **2005 — 批判识字推广** 希尼（Tom Heaney）总结编码在跨文化成人批判识字项目中的应用经验。[[Argument_Darwish_2009_Queens|(Heaney, 2005; Darwish, 2009, p. 53)]]
+> - **2005 — 批判识字推广** 希尼（[[Theory of Mind|ToM]] Heaney）总结编码在跨文化成人批判识字项目中的应用经验。[[Argument_Darwish_2009_Queens|(Heaney, 2005; Darwish, 2009, p. 53)]]
 
 ---
 

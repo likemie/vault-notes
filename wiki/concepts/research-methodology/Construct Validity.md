@@ -10,6 +10,10 @@ aliases:
 summary: "评价抽象构念的界定、操作化与所得证据是否共同支持预期解释；涵盖测量工具、实验操纵、质性范畴、课程评估以及宏观政策认证体系（MTMM收敛与判别效度），防范构念不足呈现与无关方差污染。"
 type: concept
 domain: "research-methodology"
+related_count: 46
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - construct-validity
   - validity
@@ -171,7 +175,7 @@ updated: 2026-08-21
 > [!concept-lens] 证据组合与 MTMM 原则
 > 单一统计相关或孤立验证无法确立构念效度，必须将多特质与多方法的交叉检验置于统一论证链中。
 
-> [!claim] Campbell, D. T., & Fiske (1959); Cohen et al. (2011)
+> [!claim] Campbell & Fiske (1959); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]]
 > **收敛与区分构成效度双翼** 基于 Campbell & Fiske 的经典 MTMM 框架，不同独立方法测量同一构念时应形成高相关（收敛效度），相似方法测量不同构念时应保持低相关（判别效度）。收敛证据证明操作化指向共同实体，判别证据则划定了构念的特异性边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 176–178)]]
 
 ---
@@ -201,10 +205,10 @@ updated: 2026-08-21
 > [!contrast-table] 构念效度核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **表述对应命题** | 操作化必须与理论核心含义精确相容，排查反例 | 量表开发、变量定义、操纵检查 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
-> | **MTMM 验证命题** | 收敛效度与判别效度构成构念成立的经验基准 | 多方法测量、量表验证研究 | Campbell and Fiske (1959); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] |
-> | **制度元评估命题** | 跨机构评级发散证明“循证”标签实践构念效度受限 | 循证清算中心、政策评级元分析 | [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] |
-> | **课程表征命题** | 内部自洽对齐可能掩盖目标构念不足呈现 | 课程纲要审查、高阶思维评估 | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
+> | **表述对应命题** | 操作化必须与理论核心含义精确相容，排查反例 | 量表开发、变量定义、操纵检查 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]]; [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] |
+> | **MTMM 验证命题** | 收敛效度与判别效度构成构念成立的经验基准 | 多方法测量、量表验证研究 | Campbell & Fiske (1959); Cohen 等人 |
+> | **制度元评估命题** | 跨机构评级发散证明“循证”标签实践构念效度受限 | 循证清算中心、政策评级元分析 | [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] |
+> | **课程表征命题** | 内部自洽对齐可能掩盖目标构念不足呈现 | 课程纲要审查、高阶思维评估 | [[Argument_Hughes_2014_JRIE|Hughes (2014)]] |
 
 ---
 
@@ -261,9 +265,9 @@ updated: 2026-08-21
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---:|:---|
-> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | MTMM 跨平台一致性检验 | 评级收敛效度 (Table 8) | 2-CH 评级对中完全一致率仅 **30.5%**（其中共同推荐 1&1 仅 1.2%）；**完全对立冲突 (1&3) 高达 35.4%** | 全样本去重配对核算 | 揭示清算中心“循证”构念实践效度有限 |
-> | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] | IB 知识论 (ToK) 课程大纲与评估指南 | 内容分析与构念映射 | 批判性思维构念表征率 | 8 个批判性思维核心维度中，指南仅覆盖 2 项（论证与反主张），其余 6 项（批判阅读、假设检验、问题解决等）均未进入评分标准 | 系统文本质性编码 | 揭示课程评估中内部对齐与构念不足呈现并存 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] | 测量学实验与调查设计案例 | 方法论论证与反例分析 | 构念对应性与方差分解 | 证明削铅笔测验与智力构念相关近乎为 0；数学测验中阅读负荷导致无关方差占比显著上升 | 测量学经典理论案例 | 阐明操作化相容性与无关方差机制 |
+> | [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | MTMM 跨平台一致性检验 | 评级收敛效度 (Table 8) | 2-CH 评级对中完全一致率仅 **30.5%**（其中共同推荐 1&1 仅 1.2%）；**完全对立冲突 (1&3) 高达 35.4%** | 全样本去重配对核算 | 揭示清算中心“循证”构念实践效度有限 |
+> | [[Argument_Hughes_2014_JRIE|Hughes (2014)]] | IB 知识论 (ToK) 课程大纲与评估指南 | 内容分析与构念映射 | 批判性思维构念表征率 | 8 个批判性思维核心维度中，指南仅覆盖 2 项（论证与反主张），其余 6 项（批判阅读、假设检验、问题解决等）均未进入评分标准 | 系统文本质性编码 | 揭示课程评估中内部对齐与构念不足呈现并存 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] | 测量学实验与调查设计案例 | 方法论论证与反例分析 | 构念对应性与方差分解 | 证明削铅笔测验与智力构念相关近乎为 0；数学测验中阅读负荷导致无关方差占比显著上升 | 测量学经典理论案例 | 阐明操作化相容性与无关方差机制 |
 
 ---
 

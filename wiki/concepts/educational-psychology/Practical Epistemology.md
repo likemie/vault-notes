@@ -71,7 +71,7 @@ updated: 2026-08-19
 > > 争论焦点在于：指导学生探究行为的[[Epistemology|认识论]]，到底是一种宏观的概念框架，还是碎片化的认知资源？
 > >
 > > - **Driver et al. (1996)** 认为学生的认识论表现为相对稳定的连贯框架。他们根据学生在具体探究中的推理，提出了三种递进的图景：现象驱动（认为实验只是让事情发生）、关系驱动（认为理论直接由证据推导）和模型驱动（认识到科学包含连贯理论且关系复杂）。学生需要发生概念转变才能升级。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
-> > - **Hammer and Elby (2002)** 主张认识论观念更像是一堆松散的细粒度认知资源（如“知识是实体的”或“知识是累积的”）。这些资源会在特定情境中被独立触发。这解释了为什么学生在不同任务下（例如在 BGuILE 项目中解决具体问题 vs. 填写 VNOS [[Questionnaire|问卷]]）的表现极不稳定。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
+> > - **Hammer and Elby (2002)** 主张认识论观念更像是一堆松散的细粒度认知资源（如“知识是实体的”或“知识是累积的”）。这些资源会在特定情境中被独立触发。这解释了为什么学生在不同任务下（例如在 BGuILE 项目中解决具体问题 vs. 填写 [[Views of Nature of Science Questionnaire|VNOS]] [[Questionnaire|问卷]]）的表现极不稳定。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]
 
 > [!implication]- 对教学的启示：建立显式反思
 > 仅仅让学生“做”高水平的探究，并不能自动将其高级的“实践认识论”转化为对专业科学的“[[Formal Epistemology|形式认识论]]”。研究（如 Smith et al., 2000）表明，要弥合这二者的脱节，教师必须在日常的探究教学中持续进行**显式的认识论反思（explicit epistemological reflection）**，帮助学生将他们自己的隐性决策与专业科学家的[[Knowledge Production|知识生产]]过程等同起来。

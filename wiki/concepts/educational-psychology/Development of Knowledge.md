@@ -133,7 +133,7 @@ updated: 2026-08-19
 
 ## 实证数据
 
-> [!ma-table]- 元分析构念效应量比较
+> [!ma-table]- [[Meta-analysis|元分析]][[Construct|构念]][[Effect Size|效应量]]比较
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | [[Epistemology\|认识论]]构念 | k | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 相对地位 | 解释边界 |

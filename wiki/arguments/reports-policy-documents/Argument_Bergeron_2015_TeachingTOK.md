@@ -159,17 +159,17 @@ issuing_organization: "International Baccalaureate Organization"
 ### 背景：知识论（TOK）的独特架构与定位
 
 > [!def] [[Theory of Knowledge|知识论]]（Theory of Knowledge）
-> [[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|IBDP]]）的“三大核心要求”之一（与拓展论文 EE、创造行动与服务 CAS 并列）。旨在引导学生探讨“什么是认知”、“我们如何认知”以及“追求真理与说服的过程”，通过审视知识构建背后的心理与社会文化机制，培养符合 [[IB Learner Profile|IB 学习者特质]]（如探究者、思考者、胸襟开阔等）的[[Reflexivity|反思性]]知识构建意识。
+> [[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|IBDP]]）的“三大核心要求”之一（与[[Extended Essay|拓展论文]] EE、创造行动与服务 [[Creativity, Action, Service|CAS]] 并列）。旨在引导学生探讨“什么是认知”、“我们如何认知”以及“追求真理与说服的过程”，通过审视知识构建背后的心理与社会文化机制，培养符合 IB 学习者特质（如探究者、思考者、胸襟开阔等）的[[Reflexivity|反思性]]知识构建意识。
 
 > [!contrast-table] 知识论与传统哲学的区别
 > | 维度 | 知识论（TOK） | 传统哲学课程 |
 > |---|---|---|
 > | **探讨重心** | 认知的过程（[[Ways of Knowing\|认知方式]]）与知识的分类（[[Areas of Knowledge\|知识领域]]） | 哲学史流派、形而上学或经典文本 |
-> | **经典依托** | 作为启发探究的引子（如洞穴之喻等认识论原点） | 课程的绝对主体与通读对象 |
+> | **经典依托** | 作为启发探究的引子（如洞穴之喻等[[Epistemology\|认识论]]原点） | 课程的绝对主体与通读对象 |
 > | **探究目的** | 建立跨学科联系，挑战自我中心，培养国际情怀 | 深入理解哲学家的思想与推导逻辑 |
 
 > [!feature] 知识论的哲学原点与核心组件
-> 尽管在定位上刻意区别于传统哲学，知识论的底层依然深受经典认识论（Epistemology）的启发。报告（p. 5）指出，课程的奠基性阅读通常包括四大经典文本：**柏拉图**的《洞穴之喻》（*Allegory of the Cave*）、**笛卡尔**的《方法论》（*Discourse on method*）、**洛克**的《人类理解论》（*An Essay Concerning Human Understanding*）以及**康德**的《纯粹理性批判》（*Critique of Pure Reason*）。
+> 尽管在定位上刻意区别于传统哲学，知识论的底层依然深受经典认识论（Epistemology）的启发。报告（p. 5）指出，课程的奠基性阅读通常包括四大经典文本：**[[Plato|柏拉图]]**的《洞穴之喻》（*Allegory of the Cave*）、**[[René Descartes|笛卡尔]]**的《方法论》（*Discourse on method*）、**洛克**的《人类理解论》（*An Essay Concerning Human Understanding*）以及**[[Immanuel Kant|康德]]**的《纯粹理性批判》（*Critique of Pure Reason*）。
 > 
 > 在此哲学原点之上，课程被具象化为两大核心分析矩阵：
 > - **八大[[Areas of Knowledge\|知识领域]]（AOKs）**
@@ -192,7 +192,7 @@ issuing_organization: "International Baccalaureate Organization"
 > |---|---|---|---|
 > | 建立对个体和群体如何构建、批判性审视与更新知识的认识 | 753 | 1.80 | 1.28 |
 > | 帮助学生在学术门类之间、以及思想、情感和行动之间建立联系 | 746 | 2.90 | 1.18 |
-> | 帮助学生建立对个人和意识形态假设的认识 | 745 | 3.01 | 1.21 |
+> | 帮助学生建立对个人和意识形态[[Hypothesis\|假设]]的认识 | 745 | 3.01 | 1.21 |
 > | 鼓励学生反思他们在学校和日常生活中的经历 | 747 | 3.24 | 1.24 |
 > | 为学生进一步的学习做准备 | 738 | 4.33 | 1.20 |
 
@@ -222,7 +222,7 @@ issuing_organization: "International Baccalaureate Organization"
 > | **国际公民与生活技能** | 国际情怀 | 173 |
 > | | 不论断他人（not judge others） | 170 |
 
-> [!case]- 焦点小组 视角改变与溢出效应
+> [!case]- [[Focus Group|焦点小组]] 视角改变与溢出效应
 > 在质性焦点小组中，任课群体生动地描述了知识论给学生带来的深远影响：
 > 1. **建立联系（Connections）** “我认为该课程的重点在于建立联系... 一旦学生开始建立认知方式和知识领域的联系，这种状态就无法逆转（that bell can't be unrung）。” 在许多学校，知识论甚至变成了一个动词——“你被知识论了（you have been TOKed）”，指的是学生对每件事都开始进行思想唤醒与多维探究。
 > 2. **批判性思维（Critical thinking）** 学生不再轻信。“简单来说，如果阅读了一篇关于奥巴马的文章，学生不会直接吞下（swallow it all），而是会去研究其他国家的人对同一件事的看法。”
@@ -262,7 +262,7 @@ issuing_organization: "International Baccalaureate Organization"
 > [!citation-card]- 焦点小组中的评估困境 学生索要数字分数
 > “学生想要分数，他们需要知道自己表现如何。对于反馈，即使是详尽的形成性反馈，他们实际上并不清楚自己表现如何，他们只想要一个数字。”（p. 33）
 > 
-> *“Because they want to have grades, because they need to know how they are doing. With the feedback, even if it's an extended feedback, they don't really know how they are doing, they want the number.”*
+> *“Because they want to have grades, because they need to know how they are doing. With the [[Feedback]], even if it's an extended feedback, they don't really know how they are doing, they want the number.”*
 
 > [!citation-card]- 焦点小组中的评估困境 探究性评分主观
 > “批判性评估学生的知识是一个挑战，因为即使在一小群学生中，思考也可能处于许多完全不同的阶段。过去教授英语语言艺术（ELA），知识论中学生写作的评估与传统环境中的写作评估非常不同。”（p. 32）
@@ -318,7 +318,7 @@ issuing_organization: "International Baccalaureate Organization"
 ---
 
 > [!finding-cards] 教学哲学的深层转变
-> 在开放式问卷与焦点小组中，教师们详细描述了这种“教学哲学”深层转变的四个核心维度（pp. 26–29）：
+> 在开放式[[Questionnaire|问卷]]与焦点小组中，教师们详细描述了这种“教学哲学”深层转变的四个核心维度（pp. 26–29）：
 > 1. **事实走向概念** 传统学科教师（如科学教师）坦言，知识论把他们带出了舒适区，使其不再局限于讲授离散的“事实（facts）”，而是转向探讨底层的“概念（concepts）”与伦理议题，挑战学生去反思“为什么事物会这样运作”。
 > 2. **重塑教学方法** 即使是拥有心理学博士学位、自认熟谙教学法的资深教师，也在沉浸于该课程后，重新发现了“思考常规（thinking routines）”和“结构化探究（structured way of inquiry）”在课堂上的强大力量。
 > 3. **全面转向学生** 对“教学哲学”开放式回答的词频分析（图1）揭示，教师高频使用了“以讨论为基础（discussion based）”、“反思性聆听（reflective listening practices）”、“通过活动而非讲授来教学（teach through activity not lecture）”等理念词汇。
@@ -358,7 +358,7 @@ issuing_organization: "International Baccalaureate Organization"
 > **真实而有机的跨学科协作** 面对知识盲区，这些高热情的兼职教师把背景缺陷转化为了跨学科合作的契机（p. 37–38）。
 > - **团队与轮转教学** 这是在[[Qualitative Interview|质性访谈]]中被频繁提及的模式。“我是科学老师，但我们的教学团队里有语言老师和音乐老师...这省去了你非得去弄懂其他所有学科的时间。”互补的专长彻底消解了备课焦虑。
 > - **引入客座专家** 知识论教师极其频繁地邀请校内的其他科任老师作为“客座嘉宾”进入自己的课堂参与辩论。
-> - **作业与进度的宏观对齐** 除了内容互补，他们在教务操作上也高度协同（表11，p. 31）。43.4% 的教师跨学科协调[[Homework|作业]]截止日期以防学生崩溃；23.4% 跨部门对齐主题，让知识论的探讨能紧贴常规学科的教学进度；14.7% 则直接进行跨学科课业重叠整合。
+> - **[[Homework|作业]]与进度的宏观对齐** 除了内容互补，他们在教务操作上也高度协同（表11，p. 31）。43.4% 的教师跨学科协调[[Homework|作业]]截止日期以防学生崩溃；23.4% 跨部门对齐主题，让知识论的探讨能紧贴常规学科的教学进度；14.7% 则直接进行跨学科课业重叠整合。
 > 
 > 最终结论指出，这种“拼凑”师资的模式虽然在初期引发了自我怀疑，但凭借教师的高度兴趣与自发的密集协作，并未造成任何长期的负面影响；反而打破了学科壁垒，在全校范围内促成了一次“真正真实的协作教与学的体验（a truly authentic collaborative learning and teaching experience）”（p. 39）。
 

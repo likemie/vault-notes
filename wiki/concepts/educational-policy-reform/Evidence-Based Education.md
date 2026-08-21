@@ -423,7 +423,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 ### 美国
 
 > [!case] 美国：联邦立法与 [[What Works Clearinghouse|WWC]] 主导的证据标准
-> 从 [[No Child Left Behind Act 2001|NCLB]] 到 ESSA，通过联邦立法和 What Works Clearinghouse 将 [[Randomised Controlled Trials|RCT]] 证据标准制度化。
+> 从 [[No Child Left Behind Act 2001|NCLB]] 到 ESSA，通过联邦立法和 What Works [[Educational Evidence Clearinghouses|Clearinghouse]] 将 [[Randomised Controlled Trials|RCT]] 证据标准制度化。
 
 > [!evidence-grid-a] 美国案例索引
 > - [[Tennessee STAR Project 1985-1989]] — RCT 外推失败的经典案例

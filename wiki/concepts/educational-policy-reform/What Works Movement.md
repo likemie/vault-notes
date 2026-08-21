@@ -64,7 +64,7 @@ updated: 2026-06-06
 
 > [!abstract]
 > - **证据等级** 将研究设计按[[Causality|因果推断]]能力分层，[[Randomised Controlled Trials|RCT]]通常被视为最高级证据
-> - **中介组织** 通过证据清算中心、智库等机构筛选和传播"有效"干预
+> - **中介组织** 通过[[Educational Evidence Clearinghouses|证据清算中心]]、智库等机构筛选和传播"有效"干预
 > - **标准化** 将复杂教育[[Praxis|实践]]简化为可测量、可复制的干预项目
 > - **问责机制** 将证据与资金、认证挂钩，形成激励和惩罚结构
 
@@ -83,7 +83,7 @@ updated: 2026-06-06
 ## 相关案例／政策
 
 > [!example]
-> - [[What Works Clearinghouse]] — 美国教育部资助的证据清算中心
+> - [[What Works Clearinghouse]] — 美国教育部资助的[[Educational Evidence Clearinghouses|证据清算中心]]
 > - [[What Works Network]] — 英国的证据中介网络
 > - [[Strong Beginnings Report]] — 澳大利亚2023年报告，将该运动逻辑应用于教师教育
 

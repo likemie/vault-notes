@@ -11543,6 +11543,19 @@
     ]
   },
   {
+    "title": "Multitrait-Multimethod Matrix",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Multitrait-Multimethod Matrix.md",
+    "aliases": [
+      "多特质-多方法矩阵",
+      "多特质多方法矩阵",
+      "多特质多方法",
+      "MTMM",
+      "Multitrait-Multimethod",
+      "MTMM Matrix"
+    ]
+  },
+  {
     "title": "Non-Equivalent Control Group Design",
     "type": "method",
     "path": "wiki/methods/quantitative/Non-Equivalent Control Group Design.md",
