@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md",
+                "file": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch03.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Peterson_1987_OpenCourt_Ch02"
+              "title": "Argument_Peterson_1987_OpenCourt_Ch03"
             }
           },
           {
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,8 +224,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "402a31327c0cd077",
+  "active": "4a27173df321c7e9",
   "lastOpenFiles": [
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md",
+    "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
+    "wiki/methods/quantitative/Regression Discontinuity Design.md",
     "wiki/concepts/research-methodology/Iatrogenic Effects in Education.md",
     "create_iatrogenic.py",
     "wiki/concepts/educational-policy-reform/Evaluator Independence.md",
@@ -238,10 +241,8 @@
     "wiki/facts/global/International Schools Association.md",
     "wiki/facts/switzerland/International School of Geneva.md",
     "create_crct.py",
-    "wiki/methods/quantitative/Regression Discontinuity Design.md",
     "create_rdd.py",
     "wiki/methods/quantitative/Quasi-Experimental Designs.md",
-    "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
     "wiki/concepts/research-methodology/Attrition.md",
     "reconstruct_cis.py",
     "wiki/facts/us/Communities in Schools.md",
@@ -258,7 +259,6 @@
     "wiki/methods/quantitative/Multitrait-Multimethod Matrix.md",
     "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "wiki/concepts/educational-policy-reform/What Works Movement.md",
-    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch02.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch01.md",
     "多质多法矩阵（MTMM）.md",
     "wiki/theories/research-methodology/Campbellian Validity Framework.md",
