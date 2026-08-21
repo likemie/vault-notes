@@ -114,7 +114,7 @@ Total entries: **112**
 
 > [!index-list]- Research Methodology (15)
 > - [[Absolutist and Relativist Ethics]] — 研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则
-> - [[Campbellian Validity Framework]] — 围绕内部效度和外部效度组织因果推断评估的实验设计框架，强调先建立可信因果关系再判断其跨情境推广边界
+> - [[Campbellian Validity Framework]] — Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。
 > - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
 > - [[Central Limit Theorem]] — 概率论核心定理，指从任何总体中反复抽取等大随机样本时样本均值趋近正态分布，且样本均值的均值逼近总体均值，是抽样误差理论和统计推论的数学基础
 > - [[Classical Test Theory]] — 将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架

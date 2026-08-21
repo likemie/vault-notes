@@ -106,7 +106,7 @@ citation_aliases:
 > - ESSA 强/中标准的阅读和数学项目已达约 100 个
 >
 > **条件 2 — 证据审查系统**
-> - [[What Works Clearinghouse|WWC]]（What Works Clearinghouse）：IES 旗舰审查平台
+> - [[What Works Clearinghouse|WWC]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]]）：IES 旗舰审查平台
 > - [[Best Evidence Encyclopedia|BEE]]（Best-Evidence Encyclopedia）：JHU 团队的[[Systematic Review|系统综述]]网站
 > - Evidence for ESSA：面向教育领导者的 ESSA 对齐平台，月活 70,000+
 >

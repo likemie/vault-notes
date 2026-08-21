@@ -136,7 +136,7 @@ issuing_organization: ""
 
 > [!dev-timeline] 认识论研究的三大理论[[Paradigm|范式]]演进
 > - **1970 年代 — 发展阶段论起源** Perry (1970) 通过对哈佛大学本科生的深度追踪访谈，开创了认识论信念研究。他提出个体认知经历四大发展阶段：二元论（Dualism，视世界为非黑即白，权威掌握正确答案） $\to$ 多元论（[[Multiplicity]]，承认存在不同观点，但坚信未来科学终将给出标准答案） $\to$ 相对主义（Relativism，认识到所有知识皆为人类主观建构，具有暂时性与语境依赖性） $\to$ 相对主义中的承诺（Commitment within Relativism，在承认无绝对真理的前提下主动确立学术与价值立场）。King & Kitchener (1994) 的[[Reflective Judgment Model|反思性判断模型]]（RJM）进一步将应对不确定性确立为高阶心智的核心特征。
-> - **1990 年 — 多维量表化转向** Schommer (1990) 批评访谈法耗时且难以大规模量化，提出了认识论[[Questionnaire|问卷]]（Epistemological Questionnaire，EQ），主张个体的认识论系统由相互独立的维度构成，不必在所有维度上同步发展。其模型包含四个维度：知识的稳定性（Stability of Knowledge，即确定性）、知识的结构（Structure of Knowledge，即简单性）、学习的速度（Speed of Learning）、学习的能力（Ability to Learn）。
+> - **1990 年 — 多维量表化转向** Schommer (1990) 批评访谈法耗时且难以大规模量化，提出了认识论[[Questionnaire|问卷]]（Epistemological Questionnaire，EQ），主张个体的认识论系统由相互独立的维度构成，不必在所有维度上同步发展。其模型包含四个维度：知识的稳定性（Stability of Knowledge，即确定性）、知识的结构（[[Simplicity of Knowledge|structure of knowledge]]，即简单性）、学习的速度（Speed of Learning）、学习的能力（Ability to Learn）。
 > - **1997 年 — 理论框架重构与[[Construct|构念]]提纯** [[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]] 系统审查过往模型，指出 Schommer 模型混入了隐性智力理论（能力是否固定）和学习任务预期（学习快慢）等外围心理特质。他们倡导将构念提纯为严格指向知识与认知的四大核心维度，并重构为内部连贯的“个人理论（personal theories）”。
 
 > [!dimension] [[Epistemological Theories|认识论理论]]的核心分析维度（[[Argument_Hofer_1997_RER|Hofer & Pintrich, 1997, pp. 119–122]]）

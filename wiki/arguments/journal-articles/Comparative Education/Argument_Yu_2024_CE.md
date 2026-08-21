@@ -232,7 +232,7 @@ citation_aliases:
 > - **对比道德约束与灵魂解脱（汉族佛教徒学生，新闻专业）** 深刻总结道：“儒家倾向于给人们施加道德束缚（moral constraints），而佛教则能赋予人们力量，将灵魂从各种现实压力中解放出来。儒家显然不具备这样的力量。”
 
 > [!voice] 边缘声音的主体性彰显
-> [[In-depth Interview|深度访谈]]表明，文化边缘族群并非被动接受国家灌输的“空白单板”。相反，他们的民族身份与宗教信仰构成了强大的“[[Epistemic Resources|认识论资源]]”（[[Epistemological Resources]]），使他们能够保持高度的政治与文化警觉，准确看穿官方[[Official Knowledge|官方知识]]背后的汉[[Hegemony|文化霸权]]与统治逻辑。
+> [[In-depth Interview|深度访谈]]表明，文化边缘族群并非被动接受国家灌输的“空白单板”。相反，他们的民族身份与宗教信仰构成了强大的“[[Epistemic Resources|认识论资源]]”（Epistemological Resources），使他们能够保持高度的政治与文化警觉，准确看穿官方[[Official Knowledge|官方知识]]背后的汉[[Hegemony|文化霸权]]与统治逻辑。
 
 ---
 
