@@ -517,7 +517,7 @@ Total entries: **289**
 > - [[Promise Neighborhoods Research Consortium]] — 美国国家药物滥用研究所（NIDA）资助建立的多领域公共证据平台，基于培育环境理论为脆弱社区提供教育、行为与健康综合干预清单；2012年结项后归档。
 > - [[Promising Practices Network]] — 兰德公司（RAND Corporation）运营的多领域非营利证据清算中心，设立了基于效应量（ES≥0.25 SD）与样本量门槛的评级体系；2014年结项后归档为免费电子书TL145。
 > - [[Purdue Discovery Park]] — 普渡大学以 Lilly Endowment 和印第安纳州各 1500 万美元初始投资创建的大学研究园区，如今发展为超过 10 亿美元的自持研发企业，是美国最大的大学附属研究园区之一
-> - [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP and Eisenhower QOP 两个项目版本
+> - [[Quantum Opportunity Program]] — 福特基金会与OICA创立的高中四年贯穿式防辍学与青年发展综合干预模式，在Wadhwa et al. (2024)中作为版本世代迭代（原始QOP vs EQOP）、文献可得性（同行评审vs灰色报告）及规模化效应衰减引发清算中心评级分歧的经典案例。
 > - [[Research Triangle Park]] — 1950 年代末在北卡罗来纳州建立的美国最大研究园区之一，联合 Duke、UNC-Chapel Hill and NC State 三所研究型大学，以 IBM 为早期锚定租户，是产学合作推动区域经济转型的经典案例
 > - [[Rising Above the Gathering Storm 2007]] — 2007 年美国国家科学院报告，重申基础与开放式研究投资的战略重要性，呼应 Vannevar Bush 的 Science, The Endless Frontier，强调科学与工程人才对美国经济未来的关键作用
 > - [[SBIR and STTR Programs]] — 美国联邦政府设立的小企业创新研究（SBIR）和小企业技术转移（STTR）计划，要求产业代表直接参与项目并提供市场输入，是大学衍生企业获得非稀释性资助和早期市场验证的重要联邦渠道
