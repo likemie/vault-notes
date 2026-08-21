@@ -3,7 +3,10 @@ title: Educational Evidence Clearinghouses
 aliases:
   - 教育证据清算中心
   - 教育证据清算机构
-summary: "证据本位教育中的制度化中介机构，通过设定证据标准、审查项目研究和发布效果评级，把研究证据转化为学校和政策可使用的项目信息。"
+  - 证据清算中心
+  - Educational Evidence Clearinghouse
+  - Clearinghouse
+summary: "循证教育改革中的制度化中介机构，通过设定因果证据标准、审查实证研究和发布有效性评级，将学术证据转化为学校采购和政策决策可用的干预信息；实证表明其评级实践面临显著的综合门槛分歧与构念效度挑战。"
 type: concept
 domain: "educational-policy-reform"
 related_count: 62
@@ -11,14 +14,17 @@ related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
 tags:
-- educational-evidence-clearinghouses
-- evidence-based-education
-- clearinghouse
-- what-works
-- research-synthesis
-- region/us
-- region/uk
-- region/eu
+  - educational-evidence-clearinghouses
+  - evidence-based-education
+  - clearinghouse
+  - what-works
+  - research-synthesis
+  - construct-validity
+  - causal-inference
+  - program-evaluation
+  - region/us
+  - region/uk
+  - region/eu
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
@@ -52,6 +58,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Single-Case Design]]"
   - "[[Gating Procedure]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
@@ -87,136 +94,199 @@ related_arguments:
   - "[[Argument_Dachet_2021_ROE]]"
   - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: 2026-07-13
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
+---
+
+# Educational Evidence Clearinghouses
+
 ---
 
 ## 定义
 
-> [!info] 定义
-> 教育证据清算中心（Educational Evidence Clearinghouses）是审查教育项目效果研究并发布项目有效性评级的机构。Wadhwa, Zheng & Cook 将 clearinghouse（清算中心）定义为一类实体：它们审查分析教育项目效果的研究，然后发布关于该项目"有多有效"的评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.5]])。
+> [!def] 核心定义
+> **教育证据清算中心（Educational Evidence Clearinghouses, CH）** 是在[[Evidence-Based Education|循证教育（EBE）]]与[[Evidence-Based Reform|循证改革（EBR）]]中兴起的制度化知识中介机构，指系统审查评估教育干预效果的科学研究，并面向公众和政策界发布项目“有效性评级（effectiveness ratings）”的实体平台([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 5]])。
 >
-> 在[[Evidence-Based Education|证据本位教育]]中，清算中心承担五项功能：规定因果效应的科学标准、搜寻符合质量要求的研究、评价单项研究、综合研究结果以判断项目是否值得推荐，并向研究者、政策制定者、教师、学校管理者、家长和公众传播"有效、 promising、效果不清、无效或有害"等结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> 清算中心承担五项核心功能：(1) 设定因果推断的科学证据标准；(2) 搜寻符合质量要求的实证研究；(3) 审查评价单项研究的因果质量；(4) 跨研究综合证据以判定项目整体有效性；(5) 向政策制定者、[[School Leadership|学校领导]]、教师和公众传播“推荐、有望、未证实、无效或有害”等评级结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
+
+> [!concept-lens] 概念透镜
+> - **含义** 作为连接科学研究与教育实践的制度化中介，清算中心将复杂的微观计量模型与统计证据转化为可直接检索的标准化项目评级。
+> - **用途** 帮助教育采购者和政策制定者快速甄别“行之有效（What Works）”的干预方案，降低信息不对称与决策成本。
+> - **边界** 清算中心提供的是基于学术文献审查的“因果有效性信号”，而非包含成本、本地实施适配与满意度在内的完整采购决策方案([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 121]])。
+
+> [!citation-card]- 关键表述
+> 清算中心制定科学质量标准，审查教育干预的研究证据，并发布关于项目有效性的评级。然而，识别“基于证据”的干预措施目前仍更多是一种政策愿景，而不是一种可靠的研究实践。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, p. 3)]]
 >
-> > "Clearinghouses set standards of scientific quality"([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.3]])
+> *Clearinghouses set standards of scientific quality, review research on educational interventions, and issue ratings of program effectiveness. However, identifying "evidence-based" interventions is still more of a policy aspiration than a reliable research practice.*
 
-## 概念演变
+> [!boundary]- 概念边界
+> - 不等于 [[Evidence-Based Education|循证教育（EBE）]] — EBE 是一种认为教育决策应依赖最佳科学证据的宏观哲学与运动；清算中心是支撑该运动具体落地的**制度化基础设施与评价平台**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
+> - 不等于 [[Evidence-Based Reform|循证改革（EBR）]] — EBR 强调将财政拨款与有效性证据挂钩的政策机制；清算中心仅提供证据认证环节，其自身不直接执行行政拨款。
+> - 不等于 [[Systematic Review|系统综述]] 与 [[Meta-analysis|元分析]] — 系统综述与元分析是具体的研究综合方法；清算中心则是**常设的制度化实体**，集成了标准制定、文献入库、专家同行评审与公众平台传播等多重职能([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 4–5]])。
+> - 不等于 [[Inclusive Evidence Validation Typology|包容性证据验证类型学]] — 清算中心设置高门槛的外部通用认证；包容性证据验证类型学则是为早期本地创新工具设立阶梯式准入标准，防止因盲目照搬清算中心高门槛而扼杀本土实践创新([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp. 175–176]])。
 
-> [!note]- 制度演化
-> 教育证据清算中心的演变，是[[Evidence-Based Reform|证据本位改革]]基础设施逐步成形的过程：联邦政策提出证据要求，清算中心把研究证据转化为可检索的项目评级，学校和学区再把这些评级纳入采购与改进决策。
+---
 
-- **2001** — [[No Child Left Behind Act 2001|NCLB]] 将“科学本位研究”嵌入美国联邦教育政策，推动学校改进、阅读项目和联邦拨款与实证研究标准连接起来([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
-- **2002** — [[What Works Clearinghouse]] 由美国教育部创建，用于识别和审查符合严格标准的教育研究；在 WWC 体系中，达到“无保留”或“有保留”标准通常需要 [[Randomised Controlled Trials|RCT]] 或 [[Quasi-Experimental Designs|QED]] 证据([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
-- **2015** — ESSA 将证据分为强、中、有希望和基于原理四级，使清算中心的评级语言更直接进入学校改进拨款和项目选择([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]])。
-- **2015 之后** — Evidence for ESSA 等面向[[Praxis|实践]]者的平台出现，并与 WWC 一起扩展学校和学区获取项目证据的渠道；这种变化提高了正式证据的可及性，但没有自动解决实践者对成本、实施和本地适配信息的需求([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110, 120-121]])。
-- **2020s** — 美国和英国的教育清算中心形成多机构生态，不同机构在研究设计、复制要求、[[Effect Size|效应量]]阈值、持续效果和评级单位上采用不同标准；这使“evidence-based”在实践中的含义变得不稳定([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3-5, 26-30]])。
+## 概念辨析
+
+> [!contrast-table] 教育证据中介与相关概念辨析
+> | 比较维度 | 教育证据清算中心 (Clearinghouse) | 循证教育 (EBE) | 系统综述 / 元分析 | 包容性证据验证类型学 |
+> |:---|:---|:---|:---|:---|
+> | **本体属性** | 制度化中介组织与信息检索平台 | 认识论取向与宏观政策运动 | 科学研究方法与文献合成技术 | 本地改革工具的阶梯式评价框架 |
+> | **核心产出** | 具名项目/政策的有效性等级标签（如 Recommended, Promising） | “证据指导实践”的治理理念与准则 | 汇总效应量（Effect Size）与异质性统计量 | 本地创新工具的包容性证据等级 |
+> | **目标用户** | 教育局官员、中小学校长、教师、公众 | 全体教育研究者与政策决策群体 | 学术同行、专业研究人员 | 地区教育改革者、课程设计者 |
+> | **决策功能** | 提供粗颗粒度的干预准入与采购初筛信号 | 确立教育决策的合法性依据 | 提供具体因果效应的无偏点估计 | 支持本土工具在研发初期的循序迭代 |
+
+---
 
 ## 核心要素
 
-> [!abstract] 核心机制
-> 清算中心把教育[[Research Translation|研究转化]]为[[Praxis|实践]]可读的项目判断，通常经过五个环节：设定证据标准、搜寻项目研究、评价单项研究质量、综合项目效果、发布面向非方法专家的评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> [!feature] 清算中心运作的五大核心要素
+> - **证据标准制定（Standard Setting）** 明确界定何种研究设计可作为合法证据。普遍推崇 [[Randomised Controlled Trials|随机对照试验（RCT）]]，但对集群校正（HLM/ICC）、流失模型（[[Attrition]]）、[[Intent-to-Treat Analysis|意向治疗分析（ITT）]] 与准实验（[[Quasi-Experimental Designs|QED]]）制定了悬殊的准入规则([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–11]])。
+> - **文献检索与准入筛选（Literature Screening）** 依据机构使命、资助规模与出版形式筛选文献。部分机构（如 CMFR、CEBC）强制要求同行评审期刊，部分机构（如 WWC）依托充裕预算开展大规模灰色文献与委托评估报告筛查([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
+> - **单项研究因果质量评估（Study Quality Appraisal）** 对单项因果识别设计的内部效度进行技术审查，评估基线等值性、样本流失偏倚风险以及混杂变量控制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
+> - **跨研究证据综合与最高门槛判定（Evidence Synthesis & Highest Hurdle）** 决定项目获得最高评级的前置条件，核心涉及**独立评估者复制（Evaluator Independence）**、**12 个月干预后持续效果（Sustained Effects）** 以及 **医源性伤害排除（Iatrogenic Harm）**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 11–15]])。
+> - **面向实践者的信息转译与发布（Public Dissemination）** 将高度复杂的统计参数转换为分层评级语言（如 1/2/3 级），发布于开放数据库供公众检索([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
 
-### 证据标准制定
+> [!logic-map]- 证据清算中心的知识转译与评级生成机制
+> ```mermaid
+> flowchart TD
+>     A["原始教育实证研究池<br>(RCTs, QEDs, RDD, ITS)"] --> B["文献准入过滤<br>(同行评审门槛 / 检索时效)"]
+>     B --> C["单项研究因果质量审查<br>(流失偏倚 / 基线等值 / 集群ICC / ITT)"]
+>     C --> D{"跨研究证据综合门槛"}
+>     D -->|严苛门槛| E["Blueprints / CEBC 模型<br>(独立复制 + 12个月持续效果)"]
+>     D -->|中度门槛| F["WWC / BEE 模型<br>(多项高质量RCT / 领域细分)"]
+>     D -->|宽容门槛| G["NDPC 模型<br>(单项显著QED / 现场运行3年)"]
+>     E & F & G --> H["面向公众的有效性标签<br>(Recommended / Promising / Not Effective)"]
+>     H --> I["学校采购与政策采纳决策"]
+> ```
 
-清算中心首先决定“什么样的研究能算证据”。在 12 个教育清算中心的比较中，全部把 [[Randomised Controlled Trials|RCT]] 放在首选研究设计位置，但对[[Random Assignment|随机化]]层级、[[Attrition|流失]]、基线等值、分析层级和 [[Intent-to-Treat Analysis|ITT]] 的要求不同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。对 [[Quasi-Experimental Designs|QED]] 的处理更不一致：所有机构都承认一般 QED 类型，但对回归断点设计和中断时间序列的重视程度不同，[[What Works Clearinghouse|WWC]] 是少数为这些设计制定较详细标准的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9-11]])。
+---
 
-### 项目与研究纳入
+## 围绕概念形成的命题
 
-清算中心不是把所有教育研究都放进同一个库，而是按自身任务筛选对象。标准可能涉及研究设计、出版日期、地理场景、[[Sample Size Determination|样本量]]、结果测量、目标人群、语言和是否同行评审；例如 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 只纳入同行评审研究，[[Home Visiting Evidence of Effectiveness|HomVEE]] 搜索 1989 年以后的研究，WWC 的截止点通常为综述开始前 20 年([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8-9]])。
+---
 
-### 评级单位与结果域
+### 命题一　清算中心评级实践在实证上呈现低收敛性与有限的构念效度
 
-清算中心评价的对象并不统一。7 个清算中心只给有名称或唯一标签的教育项目评级，其余机构评价项目、政策和实践的组合，有时还会为不同对象设置不同标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。这意味着“同一个项目是否有效”并不总是同一个问题：有的机构按项目整体评级，有的按阅读、数学、行为等结果域分别评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12-13]])。
+> [!concept-lens] 收敛效度与多质多法检验
+> 探讨清算中心体系作为特质测量工具，在多大程度上能够对同一教育干预的有效性给出稳定、收敛的评级。基于 Campbellian 多质多法（MTMM）框架，信度与跨机构收敛性是构念效度的先决条件。
 
-### 复制、效应与持续效果
+> [!claim] [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]]
+> **评级收敛效度的经验崩溃** 实证检验 10 个清算中心评估的 1,359 个教育项目发现，83.2% 的项目仅由单一清算中心评级（存在严重的信息孤岛）；在 228 个获得多重评级的项目中，完全一致率仅约 30.5%，且一致性主要体现为共同判定为“无效/不推荐”（占 21.3%），而共同判定为最高推荐（1&1）仅占 1.2%；完全对立的极端冲突（1&3，一家强推 vs 另一家否决）高达 35.4%，成为最主要的分歧形态。这证明“基于证据”在清算中心体系中仅具有极其有限的实践构念效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 3, 18–20, 26]])。
 
-最高评级门槛是清算中心差异最大的地方。一个机构可能基于单项统计显著的 RCT 或 QED 认定项目成功，另一个机构则可能要求两个 RCT、达到最低[[Effect Size|效应量]]、干预结束 12 个月后仍持续、并由独立研究者复制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])。复制标准也不统一：有的把两个不重叠样本中的相似结果视为复制，有的要求跨地点或跨文化情境效果，有的要求至少一项由项目外部实体完成的独立复制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.11-12]])。
+---
 
-### 面向实践者的信息转换
+### 命题二　证据评级冲突主要源于跨研究综合门槛的分歧而非单项因果识别偏好
 
-清算中心的目标读者通常不是方法专家，而是政策制定者、[[School Leadership|学校领导]]、教师、家长和公众([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。正式证据平台虽然提高了研究可及性，仍常缺少学校采购真正需要的信息：产品特征、实施要求、用户满意度、成本、潜在结果和情境限制([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。因此，清算中心若只提供[[Statistical Significance|统计显著性]]和效果评级，仍不足以替代[[Local Knowledge in Evidence-Based Policy|地方知识]]和[[Evidence-Informed Practice|证据知情实践]]。
+> [!concept-lens] 单项内部效度 vs 跨研究证据综合门槛
+> 探讨导致清算中心评级分裂的核心方法论机制：是各中心对单项研究的因果推断设计偏好不同，还是在项目层面的证据综合规则上设定了截然不同的门槛。
 
-> [!example]
-> 一个阅读软件被评级为“有希望”，学校仍需要知道它是否需要一对一设备、教师培训多久、对英语学习者是否适用、年度续费多少、研究中的对照组是什么。清算中心提供的是“研究证据经过审查后的信号”，不是完整的采购决策([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.121]])。
+> [!claim] [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]]
+> **证据综合门槛悬殊是分歧首因** 12 个清算中心在单项研究层面高度一致地将 RCT 视为黄金标准，但当进入项目级综合评级时产生本质分化：Blueprints 与 CEBC 强制要求“至少一项由独立评估者完成的研究”和“干预结束后 12 个月的持续效果”，直接过滤了 90% 以上的商业项目；而 NDPC 仅需单项无需长期追踪的显著研究即可给予最高评级。评级不一致的最主要根源在于综合门槛与文献池准入规则，而非因果识别偏好([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 11–15, 26–27]])。
 
-## 与相关概念的区别
+---
 
-> [!example] 与相关概念的区别
-> - vs [[Evidence-Based Education]] — EBE 是教育[[Praxis|实践]]和政策应依赖研究证据的理念；教育证据清算中心是把这一理念制度化为项目评级、证据标准和传播机制的基础设施([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
-> - vs [[Evidence-Based Reform]] — EBR 强调用有效性证据选择项目和产品；清算中心提供 EBR 所需的"可信证据审查"环节，但不同清算中心对同一项目是否"有证据"常常并不一致([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.16-17]])。
-> - vs [[Systematic Review|系统综述]]/[[Meta-analysis|元分析]] — 系统综述和元分析是研究综合方法；清算中心则是制度化中介机构，会同时制定纳入标准、研究质量标准、效果评级规则和面向公众的传播格式([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.4–5]])。
-> - vs [[Inclusive Evidence Validation Typology]] — 清算中心通常面向外部用户发布项目评级；包容性证据验证类型学则是在本地[[Experimental Research|实验研究]]和项目证据稀少时，为改革内部候选工具设置最低验证标准，避免直接复制 [[Education Endowment Foundation|EEF]]、[[What Works Clearinghouse|WWC]] 或 [[Best Evidence Encyclopedia|BEE]] 标准导致绝大多数本地工具被排除([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp.175-176]])。
+### 命题三　正式证据评级无法自动替代实践者的本地决策信息与情境适配
 
-## 理论基础
+> [!concept-lens] 研究转译与实践采购信息需求
+> 探讨清算中心公布的宏观证据等级能否充分满足学校管理层在真实采购中的信息需求。
 
-> [!info] 理论基础
-> - [[Campbellian Validity Framework]] — "evidence-based"在清算中心[[Praxis|实践]]中的意义可以被视为一个[[Construct Validity|构念效度]]问题：如果不同清算中心对同一项目的有效性判断不能收敛，就说明 [[Evidence-Based Education|EBE]] 实践中的概念与实施方式差异过大，使用者应谨慎对待评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
+> [!claim] [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]]
+> **正式证据库的实用信息缺口** 尽管 WWC 和 Evidence for ESSA 显著提高了研究证据的可及性，但一线教育决策者仍普遍偏好同伴推荐与本地试点。因为清算中心评级仅提供抽象的统计显著性与效应量，缺失了学校采购必不可少的实施难度、教师培训时长、年度维护成本、用户满意度及特殊生源适配性等地方性情境信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 110, 120–121]])。
 
-## 实证发现
+---
 
-> [!success] 实证发现
-> - 尽管 [[What Works Clearinghouse|WWC]] 和 Evidence for ESSA 扩展了研究证据的可及性，教育产品消费者仍常偏好同伴推荐和本地试点，因为这些渠道更能同时提供产品特征、实施要求、使用满意度、成本和潜在结果等地方决策信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.110, 120-121]])。
-> - 以 2019 年 5 月为筛选节点，美国和英国可识别出 43 个清算中心；排除不发布效果评级、无法访问或只转载其他机构评级的站点后，聚焦 pre-K 至大学教育干预且关注[[Academic Achievement|学业成就]]、入学准备、毕业和学校社会问题预防等结果的教育清算中心为 12 个([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.5]])。
-> - 在 1,359 个教育项目中，1,131 个项目（83.2%）只被一个清算中心评级，164 个（12.1%）被两个评级，45 个（3.3%）被三个评级，15 个（1.1%）被四个评级，4 个（0.3%）被五个评级；没有项目被超过五个清算中心评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.18]])。
-> - 只有 17% 的项目拥有多重清算中心评级可供消费者比较；这些多重评级项目通常是教育研究与政策界更知名的项目，但即使在这些项目上，评级分歧仍很常见([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.18, 27]])。
-> - 对被多个清算中心评级的项目，类似评级只出现在约 30% 的情形；主要原因在于清算中心对高项目评级是否需要复制、独立复制和治疗后持续效果没有共识([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 26-27]])。
-> - 清算中心评级更容易在"不推荐"项目上达成一致，而最不容易在"推荐/最高等级"项目上达成一致；这意味着认真查阅多个清算中心的使用者，最可能获得的是"哪些项目不值得采用"的一致信号，而不是"哪些项目可靠有效"的一致信号([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.19]])。
+### 命题四　通用清算中心高门槛对本土创新工具具有过度排除风险
+
+> [!concept-lens] 证据准入门槛与本地工具发展
+> 探讨将清算中心的严苛标准直接套用于早期教育改革和本土教学工具开发时所产生的制度排斥效应。
+
+> [!claim] [[Argument_Dachet_2021_ROE|Dachet & Baye (2021)]]
+> **包容性阶梯式验证的必要性** 在本土实验研究和成熟项目证据匮乏的语境下，若机械照搬 WWC、EEF 或 BEE 的顶级认证门槛，将导致绝大多数本地创新工具被直接排除。必须建立包容性证据验证类型学，通过设定发展性的最低验证标准，支持本土工具从概念验证逐步走向严格因果检验([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp. 175–176]])。
+
+---
+
+### 命题总览
+
+> [!contrast-table] 教育证据清算中心核心命题总览
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |:---|:---|:---|:---|
+> | **构念效度命题** | 清算中心评级一致性极低，极端冲突成为常态，“循证”构念效度受限 | 跨清算中心评级横向比较与政策采购 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
+> | **分歧机制命题** | 评级冲突根源于独立复制、12个月随访等综合门槛与文献库差异 | 证据综合标准制定与方法学规范 | 同上（Wadhwa 等） |
+> | **实践转译命题** | 正式评级缺乏实施成本与情境信息，无法替代本地知识与证据知情实践 | 学校采购决策、学区政策落地 | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison (2021)]] |
+> | **生态准入命题** | 通用顶级门槛易扼杀早期创新，需建立阶梯式包容性证据验证体系 | 地区性教育改革、本土工具孵化 | [[Argument_Dachet_2021_ROE\|Dachet & Baye (2021)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 教育证据清算中心的制度化演进
+> - **2001 — NCLB 法案确立科学研究要求** 美国《不让一个孩子掉队法案》（NCLB）将“基于科学的研究”写入联邦法规，强制要求联邦教育拨款与实证因果证据挂钩，催生了政府级证据中介的需求([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
+> - **2002 — WWC 成立确立因果推断范式** 美国教育部教育科学研究院（IES）创设有效干预清算中心，累计投入超 1 亿美元研发资金，建立了以 RCT 和高质量 QED 为基石的严格审查手册与因果质量分级体系(WWC, 2002; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
+> - **2011 — 英国 EEF 成立与工具箱推广** 英国教育捐款基金会（EEF）成立，推出教学与学习工具箱，以月度学术进展与实施成本为核心指标，开创了欧洲循证教育中介模式([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 142]])。
+> - **2015 — ESSA 四级证据标准出台** 美国《每个学生都成功法案》（ESSA）正式出台四级证据框架（强、中、有希望、理论支持），推动清算中心评级深度嵌入全美学区与学校的采购审查流程。
+> - **2015 之后 — 实践导向平台兴起与多中心生态** 约翰斯·霍普金斯大学推出 Evidence for ESSA 等面向一线校长的平台，与 WWC、Blueprints 等形成多元并存但标准割裂的多中心格局([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 110, 120–121]])。
+> - **2024 — 评级一致性实证检验与构念效度审思** 首次完成 12 个教育清算中心全景比较，实证揭示多重评级一致性极低与综合门槛断层，推动循证教育界反思单一标签崇拜，探索元标准协调与穿透式证据审查([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
+
+---
 
 ## 争议与批评
 
-> [!warning] "Evidence-based"的[[Construct Validity|构念效度]]不足
-> 核心问题不是某一个清算中心质量低，而是清算中心作为整体未能对"evidence-based"形成稳定的[[Praxis|实践]]意义。若一个术语具有高构念效度，那么不同清算中心在评价同一项目时至少应有较高收敛；但现有比较显示这种收敛只是有限的，因此"evidence-based"在清算中心语境中只有有限的实践[[Construct|构念]]效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.26]])。
+> [!debates] 学术争议
+>
+> > [!axis] 标准统一化（Standardization） vs 机构多元性（Heterogeneity）
+> > 各方围绕是否应强制统一所有清算中心的因果与综合标准展开争论。
+> >
+> > - **标准化倡导者** 认为跨中心评级分裂严重误导政策采购，亟需建立跨机构元标准（meta-standards），统一流失模型、集群校正与随访时限([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 29–30]])。
+> > - **多元主义支持者** 认为不同机构服务于不同目标人群（如军人家庭 CMFR vs 辍学高危生 NDPC），差异化标准反映了特定政策领域的实质需求，不宜强求一律([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
+>
+> > [!axis] 纯因果严谨性（Internal Validity） vs 实践可推广性（Ecological Validity）
+> > 围绕清算中心过分偏好小样本纯净实验还是重视大规模真实复杂情境的争论。
+> >
+> > - **方法学派** 坚守严格排除混杂与偏倚，要求多重独立复制与 12 个月持续效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。
+> > - **实践学派** 批评过度严苛的标准阻碍了富有前景的本土创新工具，呼吁建立更具弹性的包容性证据验证路径([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp. 175–176]])。
 
+> [!tension] 核心治理哲学张力：宽进（Inclusiveness） vs 严出（Selectivity）
+> - **宽进导向（NDPC / 实践支持型）** 降低准入门槛（单项 QED 或现场运行 3 年即可认证），最大化网罗一线实践项目，避免学校无项目可选。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 15–16)]]
+> - **严出导向（Blueprints / 临床医学型）** 设立极高过滤门槛（独立第三方评估 + 12 个月随访 + 零医源性伤害），宁缺毋滥，严防财政浪费与不良副作用。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 14–15)]]
 
-> [!warning] 证据消费者的误导风险
-> 清算中心原本承诺为非方法专家提供简化推荐，但由于同一项目可能因复制要求、持续效果要求、研究纳入范围或结果域划分不同而得到不同评级，消费者不能把任何单一清算中心的评级当作"已认证的高效度知识"。评级页面需要更明确地提示使用者：清算中心之间只有有限一致性，使用评级时需要谨慎([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.27]])。
+> [!critique] 外部批评
+> - **构念效度危机** 清算中心评级高度依附于特定机构审查细则，“基于证据”缺乏跨平台的一致涵义，难以作为无偏的客观特质([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 26]])。
+> - **实践采购信息缺失** 评级页面高度浓缩于抽象统计指标，未提供成本预算、教师培训负担与本地生源适配等实施关键信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 121]])。
+> - **开发者评估偏倚风险** 部分清算中心未设置独立评估者隔离墙，导致由商业机构或课程开发者自行主导的评估（常伴随高估效应量）轻松获得最高评级推荐([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 13–15]])。
 
+> [!warning] 适用局限
+> - 结论主要适用于承担“项目有效性认证与评级”职能的清算中心，不直接等同于纯粹承担知识检索、专业网络联络或个案咨询的教育中介组织([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 28–29]])。
 
-> [!warning] 实践信息不足
-> 对学校采购者而言，正式证据来源若只突出[[Statistical Significance|统计显著性]]和[[Effect Size|效应量]]，仍可能缺少实施要求、成本、用户满意度和情境限制等信息。更清楚地报告研究语境、限制、实施需求和使用者经验，可以减少实践者只能依赖同伴推荐和本地试点的压力([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.121]])。
+---
 
+## 实证数据
 
-> [!warning] 标准化与[[Heterogeneity|异质性]]的两难
-> 清算中心生态不能简单通过宣布某个机构标准“最佳”来解决。更合理的问题是：哪些异质性源于尚无科学共识而应被保留，哪些异质性已可通过共识标准减少；可能的改进方向包括对复制要求、效应量阈值、持续效果时长等因果条件进行部分标准化([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.29-30]])。
+> [!ref-table]- 教育证据清算中心核心实证研究结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> |:---|:---|:---|:---|:---|:---:|:---|
+> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 美英 43 个候选清算中心 | 比较综述与内容系统编码 | 纳入/排除数量；制度维度 | 排除 19 个（8 个非评级、6 个已停运、5 个转引），纳入 12 个教育清算中心；涵盖 4 个教育专精与 8 个多领域机构 | 100% 系统编码核验 | 针对美英主要活跃评级清算中心 |
+> | 同上 | 10 个清算中心审查的 1,359 个去重教育项目 | 描述性统计与重叠度分析 | 评价重叠度分布 | 83.2%（1,131 个）仅获单中心评级；16.8%（228 个）获多重评级（2-CH 164 个，3-CH 45 个，4-CH 15 个，5-CH 4 个，>5 为 0） | 全样本去重统计 | 排除无分级评级的 PPN 与 PNRC |
+> | 同上 | 164 个由 2 个清算中心共同评估的项目 (n = 164) | 配对一致性检验 | 二元有效性分布 (Table 7) | 82.3% 共同判定为无效 (3&3)；仅 17.7% 共同判定为有效 (1&1, 2&2, 1&2) | 配对双向交叉检验 | 聚合有效 (1/2) 与无效 (3) |
+> | 同上 | 429 个清算中心多重评级对 (Rating Pairs) | 三级配对一致性矩阵 (Table 8) | 评级一致性与分歧比例 | 2-CH 评级对中：完全一致 30.5%（其中 1&1 仅 1.2%，3&3 占 21.3%）；中度一致 8.5%；中度不一致 25.6%；**完全不一致（1&3）高达 35.4%** | 3-CH、4-CH 完全一致率稳定在 30.0%–31.1% | 1=Recommended, 2=Promising, 3=Not Recommended |
+> | 同上 | 美国教育部对 WWC 的财政资助总额 | 财政与制度背景分析 | 累计资助金额 | 累计资助金额超过 **1 亿美元（>$100M）** | 官方财政记录核验 | 奠定 WWC 详尽技术手册与审查委员会基础 |
+> | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison (2021)]] | 美国学校与学区教育采购决策者 | 质性访谈与调查研究 | 决策信息渠道偏好 | 决策者显著偏好同伴推荐与本地试点而非单一正式评级库 | 质性三角互证 | 正式评级平台存在情境信息缺口 |
+> | [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | WWC 单一被试设计 (SCD) 证据标准 | 测量与审查标准规范 | 内部效度门控与 5-3-20 阈值 | WWC 对 SCD 证据要求至少 5 项研究、由至少 3 个独立团队完成、涵盖至少 20 个被试以达到最高评级 | 官方标准规程 | 适用于 SCD 因果证据综合 |
 
-## 相关案例／政策
+---
 
-> [!example] 如何读这些案例
-> 清算中心生态可以通过三类案例来理解：机构如何设置标准，项目如何被不同机构评级，方法规则如何进入评级。
+## 相关研究
 
-### 清算中心机构
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 全景比较美英 12 个教育清算中心的制度异质性、因果推断标准与 1,359 个项目的评级一致性，首次实证揭示多重评级高度冲突（完全对立占 35.4%）与构念效度局限，归因于证据综合门槛与文献库差异。
+> - [[Argument_Ross_Morrison_2021_ROE|Ross & Morrison (2021)]] — 追踪 NCLB 至 ESSA 政策背景下清算中心（WWC, Evidence for ESSA）的发展脉络，揭示学校采购者对实施成本、教师培训与满意度等地方性情境信息的核心诉求。
+> - [[Argument_Dachet_2021_ROE|Dachet & Baye (2021)]] — 批判直接照搬美英清算中心最高门槛对本地工具的过度排除效应，提出包容性证据验证类型学以支持本土创新工具的分阶孵化。
+> - [[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet (2021)]] — 考察英国教育捐款基金会（EEF）及其工具箱在欧洲循证教育治理中的制度化角色与转化机制。
+> - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 详细解析 WWC 在组间实验与单一被试设计（SCD）中采用的内部效度门控规程与 5-3-20 证据综合门槛。
 
-- [[What Works Clearinghouse]] — 教育领域 public 清算中心，评价项目、政策、[[Praxis|实践]]和研究；在 1,359 个项目样本中贡献 537 个项目，且在教育生态中具有特殊可见度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 16, 28]])。
-- [[Best Evidence Encyclopedia]] — 教育领域清算中心，目标人群为学生，评级对象为项目，在比较样本中贡献 124 个教育项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 16]])。
-- [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 维护的证据资源；欧洲语境中的完整机构功能写在 EEF 条目和 [[Argument_Pellegrini_2021_ROE]]。
-- [[Campbell Collaboration]] — [[Systematic Review|系统综述]]型证据组织，2007 年将国际总部迁至挪威。
-- [[Danish Clearinghouse for Educational Research]] — 丹麦国家语境中的系统综述型教育证据中心。
-- [[EPPI-Centre]] — 英国系统综述和[[Research Utilization|研究使用]]指导中心。
-- [[Institute for Effective Education]] — 英国连接学校支持、严格评价、Evidence in Brief and Evidence 4 Impact 的证据机构。
-- [[Swedish Institute for Educational Research]] — 瑞典系统综述、传播和研究资助机构。
-- [[Top Institute for Evidence-Based Education Research]] — 荷兰跨大学[[Evidence-Based Education|证据本位教育]]研究所。
-- [[Centre for the Use of Research and Evidence in Education]] — 英国研究[[Transfer Translation Transformation|转译]]和实践材料开发机构。
-- [[Evidence-Based Teachers Network]] — 英国教师、研究者和教育利益相关者证据分享网络。
-- [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，在比较样本中贡献 25 个项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 16]])。
-- [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心；在四个详细比较对象中，其最高评级门槛最低([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 15-16]])。
-- [[Blueprints for Healthy Youth Development]] — 多领域、非营利清算中心，目标人群为 youth；最高评级要求高质量研究、独立复制和 12 个月持续效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 14-15]])。
-- [[Home Visiting Evidence of Effectiveness]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 [[Randomised Controlled Trials|RCT]]、[[Quasi-Experimental Designs|QED]]、RDD 均有详细标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 10, 16]])。
-
-### 项目评级分歧
-
-- [[Open Court Reading]] — 三个清算中心均评为 promising，但对研究设计分类、效应大小和研究限制的解释不同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.22-23]])。
-- [[Success for All]] — 五个清算中心均未给负面评价，但按结果域、项目变体和纳入研究数量产生不同强度的证据判断([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.23]])。
-- [[Peer-Assisted Learning Strategies]] — 五个清算中心对整体项目、阅读版本、数学版本和结果域给出中度分歧评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.23-24]])。
-- [[Quantum Opportunity Program]] — QOP and Eisenhower QOP 展示了项目变体、研究可获得性和质量标准如何改变评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.24-25]])。
-- [[Communities in Schools]] — 五个清算中心给出 recommended、promising/中等支持和不背书三类冲突结论，是评级分歧最清晰的案例([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.25]])。
-
-### 方法与标准
-
-- [[Randomised Controlled Trials]] — 12 个清算中心全部将 RCT 作为首选设计，但对[[Random Assignment|随机化]]层级、[[Attrition|流失]]、基线等值和分析要求不同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9-10]])。
-- [[Intent-to-Treat Analysis]] — Blueprints、[[Social Programs That Work|SPTW]] 和 [[Promise Neighborhoods Research Consortium|PNRC]] 明确要求 ITT 分析；WWC 在特定条件下允许 CACE([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
-- [[Effect Size]] — [[Promising Practices Network|PPN]] 最高评级要求至少 0.25 SD，BEE 要求至少 0.20 SD，显示清算中心会把效应量阈值写入证据标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
-- [[Single-Case Design]] — WWC 的综述协议将 [[Single-Case Design|SCD]] 列为可纳入设计之一，HomVEE 也为 single case designs 设置单独标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8-11]])。
-- [[Gating Procedure]] 和 [[5-3-20 Rule]] — WWC 的 SCD 和组间设计审查以[[Internal Validity|内部效度]]门控为基础，SCD 证据综合还使用 5-3-20 阈值([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.462, 466]])。
-
+---

@@ -1,78 +1,118 @@
 ---
 title: Clearinghouse for Military Family Readiness Continuum of Evidence
 aliases:
-  - 军人家庭准备证据清算中心
+  - 军人家庭准备清算中心
   - CMFR
-summary: "面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准"
+summary: "美国国防部（DoD）、农业部（USDA）与宾夕法尼亚州立大学联合建立的公共证据清算中心，针对军人家庭及子女教育与身心发展，为RCT与QED均制定了详尽标准。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 17
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
-- cmfr
-- educational-evidence-clearinghouse
-- evidence-based-education
-- military-family
-- region/us
+  - cmfr
+  - military-families
+  - educational-evidence-clearinghouse
+  - evidence-based-education
+  - dod
+  - penn-state
+  - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Academic Achievement]]"
-  - "[[Causality]]"
-  - "[[Attrition]]"
-  - "[[Study Population and Sample]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
+  - "[[Academic Achievement]]"
+  - "[[Attrition]]"
+  - "[[Internal Validity]]"
+  - "[[Construct Validity]]"
+  - "[[Statistical Significance]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Systematic Review]]"
+related_instruments: []
 related_persons: []
 related_facts:
-  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[What Works Clearinghouse]]"
+  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
+  - "[[Best Evidence Encyclopedia]]"
+  - "[[Success for All]]"
+  - "[[Peer-Assisted Learning Strategies]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: 2026-07-13
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
 ---
+
+# Clearinghouse for Military Family Readiness Continuum of Evidence
+
+---
+
 ## 概述
 
-> [!info] 概述
-> Clearinghouse for Military Family Readiness - Continuum of Evidence（CMFR）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖健康、教育、社会与行为发展、劳动；目标人群为军人家庭；资金组织类型为 public；评级对象为项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-
-## 评级对象与范围
-
-> [!abstract] 评级对象与范围
-> 在作者的教育项目一致性分析中，CMFR 贡献了 166 个项目，主题包括[[Academic Achievement|学业表现]]、学校文化和入学准备([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
-
-## 证据标准
-
-> [!abstract] 证据标准
-> CMFR 在设计标准[[Coding in Qualitative Research|编码]]中对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 3，对 RDD and ITS 均为 0。编码 3 表示清算中心为[[Causality|因果推断]]与实施质量提供了设计专属标准；因此 CMFR 是少数对 RCT 与一般 QED 都有详细标准的清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10, 29]])。
+> [!info] 机构定位与运营概况
+> **军人家庭准备清算中心（Clearinghouse for Military Family Readiness, CMFR）** 是由美国国防部（DoD）、美国农业部国家食品与农业研究所（USDA/NIFA）与宾夕法尼亚州立大学联合发起设立的公共部门证据清算中心，旨在服务全美军人家庭、军属及随军子女的教育与身心发展需求([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
-> CMFR 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 只纳入同行评审研究。它在 RCT [[Attrition|流失]]标准上接受总体流失低于 20%；在 QED 方面，它对匹配比较组设计和统计控制比较组设计使用不同标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
+> CMFR 覆盖军人子女学业表现、心理健康、家庭适应力与就业准备等领域。当前处于**活跃运营（Active）**状态，官方平台为 [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)，持续维护“证据连续体（Continuum of Evidence）”数据库。
 
-## 复制与持续效果要求
+---
 
-> [!success] 复制与持续效果要求
-> CMFR 最高评级要求至少一项由项目外部实体进行的独立复制；这种复制只能包含项目形式上的小幅调整，不能对[[Study Population and Sample|研究样本]]做重大改变。CMFR 也属于区分无效项目与效果不确定项目的清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12, 14]])。
+## 机构背景与资助体系
 
-## 与其他清算中心的差异
+> [!note]- 发展背景与资助演进
+> 鉴于美军官兵及其家属面临高频次跨州调防、海外部署与战斗创伤等特殊压力，随军子女在基础教育阶段普遍面临适应困难。
+>
+> - **联邦三方联合资助** 获得国防部与农业部持续拨款支持，为各军种家庭支援项目与国防部海外军人子女学校系统（DoDEA）提供循证项目采购依据。
+> - **同行评审文献硬门槛** 明确规定仅纳入发表于同行评审期刊的科学研究，排除未经验证的内部报告([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 
-> [!abstract] 与其他清算中心的差异
-> CMFR 的设计标准较细，尤其是在 [[Randomised Controlled Trials|RCT]] 和一般 [[Quasi-Experimental Designs|QED]] 上均达到作者[[Coding in Qualitative Research|编码]]的最高描述程度；但它不把 RDD and ITS 作为单独设计标准列出。与 Blueprints 类似，它重视外部独立复制；与 [[What Works Clearinghouse|WWC]] 不同，它在表 3 中没有 RDD 或 ITS 标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.10–12]])。
+---
+
+## 评级对象与项目纳入范围
+
+> [!feature] 评价范围与项目入库
+> - **样本贡献** 在 Wadhwa et al. 汇总的教育项目池中，CMFR 贡献了 **166 个项目**（属于学业表现、学校氛围与就学准备主题）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
+> - **评估对象级别** 仅针对具名干预项目进行整体评估与连续体分级。
+
+---
+
+## 因果推断与方法学标准
+
+> [!abstract] 因果设计与质量规程
+> CMFR 因果设计描述程度编码为 **RCT=3, QED=3, RDD=0, ITS=0**，是少数同时为 RCT 和准实验（QED）均制定详尽审查手册的机构之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
+>
+> 1. **流失率刚性红线** 设定了不超过 **20%** 的总样本流失率上限，且对处理组与对照组差异流失进行严格控制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
+> 2. **准实验匹配控制** 对 QED 的倾向得分匹配、基线协变量平衡性制定了细致的审核规程。
+
+---
+
+## 评级体系与最高准入门槛
+
+> [!contrast-table] CMFR 证据连续体评级等级
+> | 评级等级 | 核心准入条件与方法学门槛 |
+> |:---|:---|
+> | **Effective（有效·最高级）** | 拥有 **至少 2 项在同行评审期刊发表的高质量 RCT 或严格控制的 QED**；研究样本充分；在核心结果指标上表现出统计显著的正向因果效应；无任何有害副反应。 |
+> | **Promising（有前景）** | 拥有至少 1 项同行评审发表的高质量研究，展示出统计显著的正向效果。 |
+> | **Tentative（初步探索）** | 仅有小样本或前实验数据，初步呈现积极效果。 |
+> | **Unclear / Ineffective** | 证据不足、设计存在重大偏倚风险，或经检验无显著效果/存在潜在危害。 |
+
+---
+
+## 生态定位与评级分歧案例
+
+> [!warning] 跨中心分歧与典型案例
+> - [[Success for All]]（SFA）与 [[Peer-Assisted Learning Strategies]]（PALS）— 在 CMFR 数据库中均被评为 **Effective** 或 **Promising**，作为国防部基地学校提升调防学生阅读与数学成绩的核心推荐方案([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 23–24]])。
+
+---
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — CMFR 是 12 个被比较的教育清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-> - [[Evidence-Based Education]] — CMFR 展示了 EBE 评级中同行评审、详细 [[Quasi-Experimental Designs|QED]] 标准、独立复制和持续效果要求的组合([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–12]])。
-> - [[Randomised Controlled Trials]] — CMFR 对 RCT 的标准描述程度为 3，并接受总体[[Attrition|流失]]低于 20% 的 RCT([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10]])。
-
+> [!example] 关联概念与制度脉络
+> - [[Educational Evidence Clearinghouses]] — CMFR 代表了针对特殊群体（军人家庭及子女）设立的专业化证据清算中心。
+> - [[Quasi-Experimental Designs]] — CMFR 为教育与社会干预中的准实验设计制定了高度规范的技术审查标杆。

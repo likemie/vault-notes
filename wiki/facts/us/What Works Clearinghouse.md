@@ -2,146 +2,158 @@
 title: What Works Clearinghouse
 aliases:
   - 何者有效清算中心
+  - 有效干预清算中心
   - WWC
-summary: "美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点"
+summary: "美国教育部教育科学研究院（IES）2002年设立的联邦旗舰教育证据清算中心，累计资助超1亿美元，确立了以RCT/QED/RDD和Handbook审查手册为核心的因果推断标准。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 33
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
-- what-works-clearinghouse
-- wwc
-- educational-evidence-clearinghouse
-- evidence-based-education
-- region/us
+  - what-works-clearinghouse
+  - wwc
+  - educational-evidence-clearinghouse
+  - evidence-based-education
+  - causal-inference
+  - ies
+  - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Praxis]]"
   - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Effect Size]]"
   - "[[Internal Validity]]"
-  - "[[Research Question]]"
-  - "[[Variable]]"
-  - "[[Reliability]]"
-  - "[[Independent Variable]]"
-  - "[[Dependent Variable]]"
-  - "[[Definition of Terms]]"
-  - "[[5-3-20 Rule]]"
-  - "[[Hypothesis]]"
-  - "[[Evidence-Based Education]]"
   - "[[Construct Validity]]"
-related_theories: []
+  - "[[Statistical Significance]]"
+  - "[[5-3-20 Rule]]"
+  - "[[Heterogeneity]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Systematic Review]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Single-Case Design]]"
   - "[[Random Assignment]]"
   - "[[Gating Procedure]]"
-  - "[[Design-Based Research]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Systematic Review]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
-  - "[[WWC SCD Pilot Standards]]"
-  - "[[National Dropout Prevention Center]]"
-  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[ESSA 2015 Evidence Standards]]"
+  - "[[WWC SCD Pilot Standards]]"
+  - "[[Blueprints for Healthy Youth Development]]"
+  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
+  - "[[National Dropout Prevention Center]]"
+  - "[[Best Evidence Encyclopedia]]"
+  - "[[Open Court Reading]]"
+  - "[[Success for All]]"
+  - "[[Peer-Assisted Learning Strategies]]"
+  - "[[Quantum Opportunity Program]]"
+  - "[[Communities in Schools]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Wolf_2020_JREE]]"
+  - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: 2026-07-13
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
 ---
+
+# What Works Clearinghouse
+
+---
+
 ## 概述
 
-> [!info] 概述
-> What Works Clearinghouse（WWC）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它的主要焦点领域是教育，目标人群为学生，资金组织类型为 public；评级对象包括项目、政策、[[Praxis|实践]]和研究([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
+> [!info] 机构定位与运营概况
+> **有效干预清算中心（What Works Clearinghouse, WWC）** 是由美国教育部教育科学研究院（IES）于 2002 年依据《教育科学改革法案》（ESRA）创立的联邦官方教育证据清算中心，是当代[[Evidence-Based Education|循证教育（EBE）]]与[[Evidence-Based Reform|循证改革（EBR）]]基础设施的核心基石([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 7–8]])。
 >
-> WWC 在教育清算中心生态中具有特殊地位。美国教育部两位高级官员在 2021 年 5 月书面确认，教育部支持 WWC 的支出已超过 1 亿美元；作者指出，WWC 的长期存在、资金水平、标准清晰度和合理化、评级项目数量、结果更新速度、美国教育部推广以及其在若干研究和实践决策中的授权使用，共同使 WWC 在教育领域具有高度可见度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8, 28]])。
+> WWC 专注于早期教育至高等教育全学段，评估对象穿透至具名项目（Programs）、教学实践（Practices）、教育政策（Policies）以及单项实证研究。当前处于**活跃运营（Active）**状态，官方平台为 [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)，技术规范已持续演进至审查手册第 5 版（Handbook v5.0）。
 
-## 创建背景与经过
+---
 
-> [!note]- 创建背景与经过
-> 从 1960 年代起，美国政治家和政策制定者对教育研究的"复杂性"日益不满。参议员 Robert F. Kennedy 在 1966 年质问教育专员 Harold "Doc" Howe 的名言捕捉了这一情绪："你是说你花了十亿美元却不知道他们是否会读写？"（Wickline, 1971, p. 7; 引自 Wiliam, 2019, p.3）。政策制定者要求的是一个简单的焦点："什么有效"（what works）——这一压力最终导致 WWC 的创建([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.3]])。
->
-> - **2001** — [[No Child Left Behind Act 2001|No Child Left Behind Act]] 通过，全文提及"科学本位研究"110 次，将实验证据标准嵌入联邦教育项目核心。
-> - **2002** — 美国教育部创建 WWC，旨在成为"关于教育中什么有效的科学证据的中央可信来源"（What Works Clearinghouse, 2017a, p.1; 引自 Wolf et al., 2020, p.429）。
-> - WWC 由 IES 签约的专家个人和组织负责识别、审查和评级教育项目的研究([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p.429]])。
+## 机构背景与资助体系
 
-## 评级对象与范围
+> [!note]- 发展背景与资助演进
+> 1960 年代起，美国政策制定者对教育科研无法给出简明因果答案深感不满。参议员 Robert F. Kennedy 曾质问教育专员 Harold Howe：“你是说你花了十亿美元却不知道他们是否会读写？”([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 3]])。2001 年《不让一个孩子掉队法案》（NCLB）提出“基于科学的研究”，直接促成了 WWC 的设立([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
+>
+> - **超 1 亿美元联邦资助** 美国教育部高级官员证实，联邦政府对 WWC 的累计研发与运维投入已超过 **1 亿美元（>$100M）**，使其拥有全美最庞大的常设技术审查委员会、外包合同研究专家库以及每 2–3 年迭代的技术审查手册([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
+> - **ESSA 证据分级支柱** 2015 年《每个学生都成功法案》（ESSA）出台后，WWC 成为全美学区申请联邦第 1 篇（Title I） school improvement 拨款时认定“强证据（Tier 1）”与“中等证据（Tier 2）”的核心法定依据。
 
-> [!abstract] 评级对象与范围
-> WWC 在作者的教育项目一致性分析中贡献了 537 个项目，是样本中项目数最多的清算中心。作者纳入了 WWC 评级的所有项目，主题包括 literacy、mathematics、early childhood、English learners、science、behavior、charter schools、postsecondary、children and youth with disabilities、kindergarten to 12th grade、teacher excellence 和 path to graduation 等([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
->
-> WWC 通过与专家配合，依据[[Systematic Review|系统综述]]协议识别相关项目；该协议说明综述过程和标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
+---
 
-## 证据标准
+## 评级对象与项目纳入范围
 
-> [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，WWC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 3，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD 为 3，对 ITS 为 2。WWC 是少数详细处理 RDD 的清算中心之一，也是主要将 RDD and ITS 都视为[[Causality|因果推断]]重要设计并为其制定标准的例外([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.10–11]])。
->
-> WWC 主题特定综述协议会规定结果域、研究焦点（仅影响研究）、样本特征、20 年出版滞后期、学校为主的研究场景、干预特征、英文报告，以及限定为 RCT、RDD、[[Single-Case Design|SCD]] 和 QED 的研究设计([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–9]])。
->
-> WWC 对 RCT 的实施质量有详细规定：它是唯一对集群层级[[Random Assignment|随机分配]]提供深入说明的清算中心；它允许在特定条件下计算 CACE。其[[Attrition|流失]]标准结合总体流失和差异流失：预期流失偏差低于可容忍水平（0.05 SD 或以下）时可获得最高研究评级；若基线差异低于 0.05 SD，可获得正向研究评级且无需统计调整；0.05–0.25 SD 之间需调整；超过 0.25 SD 则不能满足 WWC 质量标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
->
-> WWC 的 Standards and Procedures Handbooks（Version 4.0）详细规定如何评估教育研究的严谨性。研究被分为三级：Meets Standards Without Reservations（仅限实验设计或满足特定标准的回归断点设计）、Meets Standards With Reservations（达到特定方法标准的准实验设计）、Does Not Meet Standards（未达标研究）。[[Argument_Wolf_2020_JREE|Wolf et al. (2020)]] 只纳入达到前两级标准的研究，最终样本为 755 个[[Effect Size|效应量]]，来自 169 项研究([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p.433]])。
->
-> WWC 使用 Hedges' g 作为标准化效应量，通常以干预组与对照组结果均值之差除以合并组内标准差计算。对于聚类研究，WWC 的效应量分母包含组内和组间变异；Hedges (2007) 论证，在非聚类研究包含多个学校站点时，聚类和非聚类研究的效应量可被视为"合理可比"([[Argument_Wolf_2020_JREE|Wolf et al., 2020, pp.435–436]])。
->
-> ### WWC [[Single-Case Design|SCD]] 审查程序
->
-> 除组间设计（RCT、准实验）外，WWC 也审查 [[Single-Case Design]] 研究。SCD 被 WWC 认可为产生实证证据的可行实验方法([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.460]])。WWC 对 SCD 和组间设计均采用 门控程序：只有通过[[Internal Validity|内部效度]]门槛的研究才进入后续推广性评估([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p.462]])。
->
-> [[WWC SCD Pilot Standards]] 是 WWC 为 SCD 研究开发的专门技术标准：它服务于 WWC 的 SCD 研究审查，但不能等同于 [[Single-Case Design]] 方法本身，也不能等同于 WWC 的完整审查程序。Hitchcock et al. 强调，SCD 设计标准必须与 WWC 审查协议和 SCD Review Guide 一起理解；审查协议规定[[Research Question|研究问题]]、目标人群、结果领域和场所，Review Guide 则系统记录研究细节并支持推广性判断([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.459–461]])。
->
-> SCD 审查分四个阶段：第一，对照审查协议判断研究是否符合干预、因[[Variable|变量]]、场所和参与者特征等条件；第二，评估阶段对比数量、每阶段数据点数量、结果测量[[Reliability|信度]]、[[Independent Variable|自变量]]是否被主动操纵，并通过视觉分析评估实验控制；第三，仅对通过设计标准的研究系统记录场所、设计、参与者、[[Dependent Variable|因变量]][[Definition of Terms|操作性定义]]、基线和干预条件、实施者和培训、干预忠实度等推广性信息；第四，当至少有 5 项达标 SCD 研究、由 3 个不同研究团队完成、累计至少 20 名参与者时，WWC 可仅基于 SCD 证据生成干预报告([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.464–466]])。
->
-> WWC 不评分推广性细节，而是描述这些信息供消费者判断证据是否适用于自身情境；[[5-3-20 Rule]] 是 SCD 证据充分性的唯一阈值([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.466–467]])。WWC 首个包含 SCD 证据的干预报告为 Repeated Reading（WWC, 2014）([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.461, 466]])。
+> [!feature] 评价范围与项目入库
+> - **最大样本贡献者** 在 Wadhwa et al. 汇总的 1,359 个去重教育项目池中，WWC 贡献了 **537 个项目**（占比 39.5%），是收录规模最大的清算中心。
+> - **全学科与全学段覆盖** 纳入主题涵盖早期读写（Literacy）、中小学数学（Mathematics）、幼儿早教、英语学习者（ELL）、科学教育、课堂行为、特许学校、高等教育、特殊教育（Disabilities）、教师卓越（Teacher Excellence）及毕业路径等([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
+> - **20 年文献追溯期** 主题特定综述协议设定了严格的检索边界（通常回溯综述前 20 年的英文实证文献），开展广泛的学术期刊与委托评估报告筛查([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–9]])。
 
-## 评级体系
+---
 
-> [!abstract] 评级体系
-> WWC 对干预效果的评级包括 Positive、Potentially positive、Mixed、Potentially negative、Negative、No discernible effects，并标注结论证据程度为 medium to large 或 small。单项研究可被评为 Meets WWC evidence standards without reservations、Meets WWC standards with reservations 或 Does not meet WWC standards([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
+## 因果推断与方法学标准
+
+> [!abstract] 因果设计与质量规程
+> WWC 在因果设计描述程度编码中获评最高级别（**RCT=3, QED=2, RDD=3, ITS=2**），是全库唯一对前沿计量因果设计均制定完备规程的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
 >
-> 最高项目效果判断要求至少两项研究，其中至少一项必须"Meets WWC Evidence Standards Without Reservations"；研究需在指定结果上呈现正向且统计显著的效果。WWC 不要求平均效果达到特定大小，也不要求治疗结束一年后效果仍存在，不要求研究者独立于项目开发者，也不要求不同研究之间研究团队相互独立([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–15]])。
+> 1. **集群随机试验（Cluster RCT）校正** 深入规范学校或班级层面的集群随机化，强制要求使用多层线性模型（HLM）或群组内相关系数（ICC）校正标准误，防范虚假显著性。
+> 2. **整体流失与差异流失边界模型** 建立允许最大潜在偏倚在 0.05 SD 以内的流失模型；基线等值性要求差异在 0.05–0.25 SD 之间必须实施协变量统计调整，超过 0.25 SD 判定不达标。
+> 3. **CACE 估计容许** 在满足严格工具变量排除性约束前提下，允许报告顺从者平均因果效应（CACE）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
+> 4. **单一被试设计（SCD）门控与 5-3-20 规则** 确立内部效度门控程序，要求至少 5 项达标研究、3 个独立团队、涵盖 20 个被试方可综合评级([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp. 464–466]])。
 
-## 与其他清算中心的差异
+---
 
-> [!abstract] 与其他清算中心的差异
-> WWC 不对一个干预跨所有结果聚合为单一项目评级，而是按结果域分别分析和报告教育干预结果。与 Blueprints、[[National Dropout Prevention Center|NDPC]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 不同，WWC 的评级结构更偏向 outcome-specific intervention appraisal([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–13]])。
->
-> 在 Wadhwa et al. 的解释中，WWC 的标准不是唯一可行标准，也不是论文试图加冕的最佳标准；它只是教育领域最具支配性和可见度的清算中心之一。作者的比较目的正是显示不同清算中心所采用的证据标准和[[Hypothesis|假设]]并不相同([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.28]])。
+## 评级体系与最高准入门槛
 
-## 影响与争议
+> [!contrast-table] WWC 评级层级与门槛要素
+> | 评级维度 | WWC 规定标准 |
+> |:---|:---|
+> | **单项研究评级** | Meets WWC Standards Without Reservations（无保留达标，限低流失 RCT/合格 RDD）；<br>Meets WWC Standards With Reservations（有保留达标，限高质量 QED 或高流失等值 RCT）；<br>Does Not Meet WWC Standards（未达标） |
+> | **干预效果等级** | Positive（积极）；Potentially Positive（潜在积极）；Mixed（混合）；Potentially Negative（潜在消极）；Negative（消极）；No Discernible Effects（无明显效果） |
+> | **最高评级门槛** | 需 **至少 2 项研究**，且至少 1 项为“无保留达标”；在指定结果域上表现出正向且统计显著的效果 |
+> | **独立评估者要求** | **未做要求**（允许全部由课程开发者自行完成的研究支持） |
+> | **干预后随访期** | **未做要求**（干预刚结束即测即可，不考察 12 个月持续效果） |
+> | **结果域聚合机制** | **按结果域分别评级**（如阅读、数学独立发布，不强行跨域合并为单一分数） |
 
-> [!warning] 影响与争议
-> - WWC 成为美国联邦教育证据基础设施的核心组成部分，并为后续 ESSA 证据标准定义提供了制度基础([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.3]]; [[Argument_Wolf_2020_JREE|Wolf et al., 2020, p.429]])。
-> - WWC 的审查标准也受到批评：Ginsburg & Smith (2016) 分析 27 项被 WWC 高评分的数学课程 [[Randomised Controlled Trials|RCT]]，发现 26 项存在多重严重问题；Wiliam 引用该研究指出，即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size|效应量]]([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.5]])。
-> - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 使用 WWC 的创建作为 [[Evidence-Based Education|EBE]] 政治动力的标志：它反映了政策制定者想要简单"什么有效"答案的持续需求，即使 Wiliam 的论证认为这种简单答案在原则上不可得。
-> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 将 WWC 放入 12 个教育清算中心的比较生态中，显示 WWC 虽然高度可见，但其标准不是教育领域唯一可行标准；不同清算中心对同一项目的评级分歧说明"evidence-based"在清算中心语境中只有有限[[Praxis|实践]][[Construct Validity|构念效度]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.26, 28]])。
+---
+
+## 在 1,359 个教育项目库中的实证表现
+
+> [!stat-cards]- WWC 评价重叠度与多重评级表现
+> - **537 个** WWC 纳入的教育项目总量（占全库 39.5%）
+> - **131 个** 与其他清算中心发生评价重叠的项目数（重叠率 24.4%）
+> - **24.1%** WWC 参与的评级对中达成完全一致的比例（高度倾向于共同判定“无效”）
+> - **35.7%** WWC 参与的评级对中出现极端冲突（1&3，即 WWC 推荐 vs 他机构否决，或反之）的比例([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 18–20]])
+
+---
+
+## 生态定位与评级分歧案例
+
+> [!warning] 跨中心分歧与典型案例
+> WWC 在实证评级中展现出显著的“细分结果域穿透”特征，因而与其他整体评级机构产生显著分歧：
+> - [[Open Court Reading]] — WWC 在理解、词汇、总分等细分域评为 Potentially Positive，但因研究设计局限将其单项研究定为 With Reservations([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 22–23]])。
+> - [[Success for All]] — WWC 在阅读理解领域评为 Positive，但在通用自然拼读域评为 Mixed，展现其微观分域特性([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 23]])。
+> - [[Communities in Schools]] — WWC 评估辍学预防领域认定为 **No Discernible Effects（无明显效果）**，与 NDPC 的“强证据（Strong）”最高推荐形成正面极化冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
+
+---
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — WWC 是 12 个被比较的教育清算中心之一，也是教育领域最具可见度的案例([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 28]])。
-> - [[Evidence-Based Education]] — WWC 是 EBE 通过项目、政策、[[Praxis|实践]]和研究评级制度化的重要载体([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-> - [[Randomised Controlled Trials]] — WWC 对 RCT 的标准描述程度为 3，并且是唯一深入说明集群层级[[Random Assignment|随机分配]]的清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10]])。
-> - [[Effect Size]] — WWC 的最高项目效果判断要求统计显著正向效果，但不要求平均效果达到特定大小([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–15]])。
-> - [[ESSA 2015 Evidence Standards]] — WWC 为 ESSA 证据标准提供了重要制度基础。
-> - [[No Child Left Behind Act 2001]] — WWC 的立法前身和制度触发因素。
-> - [[Single-Case Design]] — WWC 认可的第二种实验设计方法学([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015]])。
-> - [[5-3-20 Rule]] — WWC 用于判断 [[Single-Case Design|SCD]] 证据充分性的阈值。
-> - [[Gating Procedure]] — WWC 审查 SCD 和组间[[Design-Based Research|设计研究]]时均采用的门控程序。
-> - [[WWC SCD Pilot Standards]] — WWC 为 SCD 研究制定的专门技术标准；它需与审查协议和 SCD Review Guide 共同构成完整审查程序([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.459–461]])。
-
+> [!example] 关联概念与制度脉络
+> - [[Educational Evidence Clearinghouses]] — WWC 是教育领域最具支配地位与制度可见度的公共清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
+> - [[Evidence-Based Education]] — WWC 作为 EBE 因果推断标准的旗舰体现，将医学临床试验逻辑系统性引入教育学界。
+> - [[5-3-20 Rule]] 与 [[Gating Procedure]] — WWC 单一被试设计审查的技术规范([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015]])。
+> - [[ESSA 2015 Evidence Standards]] 与 [[No Child Left Behind Act 2001]] — WWC 发展的联邦立法基础。

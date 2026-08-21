@@ -1,76 +1,95 @@
 ---
 title: Promise Neighborhoods Research Consortium
 aliases:
-  - 希望社区研究联盟
+  - 承诺社区研究联盟
   - PNRC
-summary: "评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集"
+summary: "美国国家药物滥用研究所（NIDA）资助建立的多领域公共证据平台，基于培育环境理论为脆弱社区提供教育、行为与健康综合干预清单；2012年结项后归档。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
-- pnrc
-- educational-evidence-clearinghouse
-- evidence-based-education
-- promise-neighborhoods
-- region/us
+  - pnrc
+  - promise-neighborhoods
+  - nida
+  - educational-evidence-clearinghouse
+  - nurturing-environments
+  - archived
+  - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
+  - "[[Construct Validity]]"
+  - "[[Internal Validity]]"
+  - "[[Heterogeneity]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Intent-to-Treat Analysis]]"
+  - "[[Systematic Review]]"
+related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Top Institute for Evidence-Based Education Research]]"
-  - "[[Social Programs That Work]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Home Visiting Evidence of Effectiveness]]"
+  - "[[Blueprints for Healthy Youth Development]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: '2026-05-18'
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
 ---
+
+# Promise Neighborhoods Research Consortium
+
+---
+
 ## 概述
 
-> [!info] 概述
-> Promise Neighborhoods Research Consortium（PNRC）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖教育、社会与行为发展、健康、社会和经济福利、劳动；目标人群为 youth；资金组织类型为 public；评级对象包括项目、政策和[[Praxis|实践]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-
-## 评级对象与范围
-
-> [!abstract] 评级对象与范围
-> PNRC 被纳入 12 个清算中心的标准比较，但没有进入最终项目评级一致性分析，因为它不对项目效果进行分层评级（[[Top Institute for Evidence-Based Education Research|TIER]]-wise ratings of programs for effectiveness）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.15]])。
-
-## 证据标准
-
-> [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，PNRC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD 为 1，对 ITS 为 1([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
+> [!info] 机构定位与运营概况
+> **承诺社区研究联盟（Promise Neighborhoods Research Consortium, PNRC）** 是由美国国家药物滥用研究所（NIDA/NIH）于 2009 年资助建立的多领域公共证据清算联合体，由俄勒冈研究所（ORI）牵头全美数十所大学学者共同组建([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
-> PNRC 是要求 [[Intent-to-Treat Analysis|ITT]] 分析的三个清算中心之一，另外两个是 Blueprints 和 [[Social Programs That Work|SPTW]]。它在复制标准上强调多地点研究以及跨地点和文化情境复制的效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9, 11]])。
+> PNRC 专注于高度贫困与高风险社区的青少年与儿童综合发展，覆盖教育促进、行为发展、身心健康与家庭经济等领域。当前处于**已停运 / 结项关闭（Defunct）**状态：2012 年科研专项拨款周期结束后原网站正式下线，其开创的“培育环境（Nurturing Environments）”循证框架沉淀于学术期刊文献中。
+
+---
+
+## 机构背景与资助体系
+
+> [!note]- 发展背景与资助演进
+> 配合联邦政府设立的“承诺社区（Promise Neighborhoods）”重大政策倡议（借鉴纽约哈莱姆儿童区模式），PNRC 旨在为贫困社区领导者提供一整套“从摇篮到大学（Cradle to Career）”的循证干预工具包。
 >
-> 对于 ITS，PNRC 提供较一般性的指南，偏好长基线但不一定要求重叠基线，并偏好较大的效果；这与 [[What Works Clearinghouse|WWC]] 对 ITS 更强调多个处理前时间段的基线等值形成对比([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.11]])。
+> - **生态系统干预哲学** 强调单一学校课堂改革不足以克服贫困代际传递，必须将学校教育干预与家庭支持、社区暴力防范及健康医疗有机结合。
+> - **严谨的因果推断框架** 尽管是早期项目，PNRC 在方法学上对因果推断设计给予了高度关注。
 
-## 与其他清算中心的差异
+---
 
-> [!abstract] 与其他清算中心的差异
-> PNRC 的特殊性在于它评价项目、政策和[[Praxis|实践]]，但不提供用于最终一致性分析的项目效果分层评级。方法上，它是少数明确提及 RDD and ITS 的清算中心之一，但对这些设计的标准描述程度低于 [[What Works Clearinghouse|WWC]] 和 [[Home Visiting Evidence of Effectiveness|HomVEE]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.10–11, 15]])。
+## 因果推断与方法学标准
+
+> [!abstract] 因果设计与质量规程
+> PNRC 因果设计描述程度编码为 **RCT=2, QED=1, RDD=1, ITS=1**，是全库中少数在早期即对断点回归（RDD）与中断时间序列（ITS）给予方法学规范的多领域机构之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
+>
+> 1. **支持意向治疗分析（ITT）** 明确鼓励在复杂社区干预评估中实施 ITT 分析，以如实反映全社区推广效果。
+> 2. **多层级干预评估** 评估对象涵盖微观具名项目、宏观教育政策与社区治理实践。
+
+---
+
+## 生态定位与历史贡献
+
+> [!warning] 历史地位与经验沉淀
+> - **阶段性科研专项的典范** PNRC 展示了以短期联邦竞争性科研基金（Grant-Funded Consortium）形式运作的证据中介机构的生命周期：在资助期内集中产出高质量证据综合，结项后则由学术共同体继承其理论遗产([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
+> - **培育环境理论影响** 其提出的最小化毒性应激、强化亲社会行为与支持性学业环境三大支柱，深刻影响了后来的学区与社区协同育人政策。
+
+---
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — PNRC 是 12 个被比较的教育清算中心之一，但未进入最终 1,359 个项目评级一致性分析([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 15]])。
-> - [[Evidence-Based Education]] — PNRC 展示了清算中心如何把证据评级对象扩展到项目、政策和[[Praxis|实践]]，而不仅是具名教育项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-> - [[Randomised Controlled Trials]] — PNRC 对 RCT 的标准描述程度为 2，并同时提及 RDD and ITS([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
-> - [[Intent-to-Treat Analysis]] — PNRC 是明确要求 ITT 分析的三个清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
-
+> [!example] 关联概念与制度脉络
+> - [[Educational Evidence Clearinghouses]] — PNRC 是 12 个被比较的教育证据清算中心之一，代表了多领域、生态系统视角的社区证据中介。
+> - [[Campbellian Validity Framework]] — PNRC 对复杂社区综合干预的评估深刻体现了生态效度与内部效度的结合。

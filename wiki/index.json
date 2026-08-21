@@ -2006,7 +2006,10 @@
     "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
     "aliases": [
       "教育证据清算中心",
-      "教育证据清算机构"
+      "教育证据清算机构",
+      "证据清算中心",
+      "Educational Evidence Clearinghouse",
+      "Clearinghouse"
     ]
   },
   {
@@ -16036,7 +16039,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
     "aliases": [
-      "最佳证据百科",
+      "最佳证据百科全书",
       "BEE"
     ]
   },
@@ -16045,7 +16048,8 @@
     "type": "fact",
     "path": "wiki/facts/us/Blueprints for Healthy Youth Development.md",
     "aliases": [
-      "健康青年发展蓝图"
+      "健康青年发展蓝图",
+      "Blueprints"
     ]
   },
   {
@@ -16062,7 +16066,8 @@
     "type": "fact",
     "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare.md",
     "aliases": [
-      "加州儿童社会与经济福祉循证清算中心",
+      "加利福尼亚儿童福利循证清算中心",
+      "加州儿童福利循证清算中心",
       "CEBC"
     ]
   },
@@ -16091,7 +16096,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Clearinghouse for Military Family Readiness Continuum of Evidence.md",
     "aliases": [
-      "军人家庭准备证据清算中心",
+      "军人家庭准备清算中心",
       "CMFR"
     ]
   },
@@ -16109,7 +16114,9 @@
     "type": "fact",
     "path": "wiki/facts/us/CNCS Evidence Exchange.md",
     "aliases": [
-      "CNCS证据交流平台"
+      "国家与社区服务公司证据交流中心",
+      "CNCS EE",
+      "AmeriCorps Evidence Exchange"
     ]
   },
   {
@@ -16126,7 +16133,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Collaborative for Academic Social and Emotional Learning Guide.md",
     "aliases": [
-      "学术社会与情感学习协作组织指南",
+      "学术社会与情感学习协作指南",
       "CASEL"
     ]
   },
@@ -16219,7 +16226,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Home Visiting Evidence of Effectiveness.md",
     "aliases": [
-      "家访效果证据",
+      "家访成效证据",
       "HomVEE"
     ]
   },
@@ -16270,7 +16277,7 @@
     "type": "fact",
     "path": "wiki/facts/us/National Dropout Prevention Center.md",
     "aliases": [
-      "全国防辍学中心",
+      "国家预防辍学中心",
       "NDPC"
     ]
   },
@@ -16327,7 +16334,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Promise Neighborhoods Research Consortium.md",
     "aliases": [
-      "希望社区研究联盟",
+      "承诺社区研究联盟",
       "PNRC"
     ]
   },
@@ -16336,7 +16343,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Promising Practices Network.md",
     "aliases": [
-      "经验做法网络",
+      "前景广阔的实践网络",
       "PPN"
     ]
   },
@@ -16429,7 +16436,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Social Programs That Work.md",
     "aliases": [
-      "有效社会项目",
+      "行之有效的社会项目",
       "SPTW"
     ]
   },
@@ -16590,6 +16597,7 @@
     "path": "wiki/facts/us/What Works Clearinghouse.md",
     "aliases": [
       "何者有效清算中心",
+      "有效干预清算中心",
       "WWC"
     ]
   },

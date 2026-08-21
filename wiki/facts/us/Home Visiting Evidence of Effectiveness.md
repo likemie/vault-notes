@@ -1,85 +1,110 @@
 ---
 title: Home Visiting Evidence of Effectiveness
 aliases:
-  - 家访效果证据
+  - 家访成效证据
   - HomVEE
-summary: "聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准"
+summary: "美国卫生与公众服务部（HHS/ACF）设立的联邦公共清算中心，专注于早期儿童与母婴家访模型，为RCT、QED与RDD均制定了极其严密的因果审查标准。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
-- homvee
-- educational-evidence-clearinghouse
-- evidence-based-education
-- home-visiting
-- early-childhood
-- region/us
+  - homvee
+  - educational-evidence-clearinghouse
+  - early-childhood
+  - home-visiting
+  - hhs
+  - causal-inference
+  - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Causality]]"
-  - "[[Attrition]]"
-  - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
-  - "[[Sample Size Determination]]"
-related_theories: []
+  - "[[Attrition]]"
+  - "[[Effect Size]]"
+  - "[[Internal Validity]]"
+  - "[[Construct Validity]]"
+  - "[[Statistical Significance]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Single-Case Design]]"
+  - "[[Systematic Review]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
+  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
+  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: 2026-07-13
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
 ---
+
+# Home Visiting Evidence of Effectiveness
+
+---
+
 ## 概述
 
-> [!info] 概述
-> Home Visiting Evidence of Effectiveness（HomVEE）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖健康、教育、社会与行为发展、社会和经济福利；目标人群为孕妇家庭和从出生至幼儿园入学前（最高 5 岁）的儿童家庭；资金组织类型为 public；评级对象包括项目与研究（programs; study）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-
-## 评级对象与范围
-
-> [!abstract] 评级对象与范围
-> HomVEE 在作者的教育项目一致性分析中贡献了 53 个项目，纳入范围为处理儿童发展和入学准备结果的项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
+> [!info] 机构定位与运营概况
+> **家访成效证据（Home Visiting Evidence of Effectiveness, HomVEE）** 是由美国卫生与公众服务部儿童与家庭管理局（HHS/ACF）于 2009 年依据《患者保护与平价医疗法案》（ACA）所创设的母婴与幼儿家访项目（MIECHV）而设立的联邦官方证据清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
-> HomVEE 的组织使命限定其项目范围：它只关注旨在改善儿童发展和入学准备的家庭访问模型（home visiting models）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
+> HomVEE 专注于孕妇家庭及 0–5 岁早期儿童发展领域，评估对象包括家访干预模型（Home Visiting Models）与单项实证研究。当前处于**活跃运营（Active）**状态，官方平台为 [homvee.acf.hhs.gov](https://homvee.acf.hhs.gov)，定期发布联邦法定资助家访模型的审核报告。
 
-## 证据标准
+---
 
-> [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，HomVEE 对 [[Randomised Controlled Trials|RCT]]、一般 [[Quasi-Experimental Designs|QED]] 和 RDD 的描述程度均为 3，对 ITS 为 0。这意味着它在 RCT、QED and RDD 上都有设计专属的[[Causality|因果推断]]与实施质量标准，但没有将 ITS 作为标准化设计类型列出([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
+## 机构背景与资助体系
+
+> [!note]- 发展背景与资助演进
+> 联邦 MIECHV 拨款法案规定，各州至少 75% 的联邦家访资助资金必须投向被 HomVEE 认证为“符合 HHS 有效性证据标准”的模型。
 >
-> HomVEE 的搜索限于 1989 年之后开展的研究，并偏好超过 250 名个体参与者的研究；它在[[Attrition|流失]]指南上遵循 [[What Works Clearinghouse|WWC]] 指南。对于 QED，HomVEE 有匹配比较设计和[[Single-Case Design|单一个案设计]]的分开标准；对于 RDD，它像 WWC 一样要求关于 forcing [[Variable]] 完整性、结果与 forcing variable 连续性以及函数形式/带宽[[Hypothesis|假设]]可行性的有力证据([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
+> - **强大的行政约束力** 与一般仅具咨询性质的清算中心不同，HomVEE 评级直接与数十亿美元的联邦财政转移支付挂钩，因而其标准具有极强的制度刚性。
+> - **1989 年文献起算点** 综述检索窗口固定设定为 1989 年至今，涵盖早期儿童认知发展、就学准备、母婴保健、家庭经济自立及虐待预防等八大核心结果域([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 
-## 复制与持续效果要求
+---
 
-> [!success] 复制与持续效果要求
-> HomVEE 使用复制标准，并将两个不重叠样本中获得相似结果视为复制。它也属于少数对 [[Quasi-Experimental Designs|QED]] 设计细分并设置较详细标准的清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.11]])。
+## 因果推断与方法学标准
 
-## 与其他清算中心的差异
+> [!abstract] 因果设计与质量规程
+> HomVEE 在因果设计描述程度编码中获评极高级别（**RCT=3, QED=3, RDD=3, ITS=0**），是全库中唯一在技术细化程度上与 WWC 并驾齐驱的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
+>
+> 1. **全套专属设计指南** 针对 RCT、准实验（QED）及断点回归（RDD）均建立了数百页的独立审查规程与微观统计门槛。
+> 2. **量化流失率模型** 严格核算总体流失与差异流失率，设定了与 WWC 类似的无偏样本流失边界。
+> 3. **基线等值性与混杂因素排除** 强制要求在干预前基线测量中证明两组在人口学变量与核心发展指标上的等值性。
 
-> [!abstract] 与其他清算中心的差异
-> HomVEE 与 [[What Works Clearinghouse|WWC]] 在 RDD 标准上都较详细，但 HomVEE 的对象范围窄得多，集中于家庭访问模型和儿童发展/入学准备结果。它和 [[Collaborative for Academic Social and Emotional Learning Guide|CASEL]] 在[[Attrition|流失]]判断上跟随 WWC 指南([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
+---
+
+## 评级体系与最高准入门槛
+
+> [!contrast-table] HomVEE 评级标准与联邦法定认证
+> | 评级维度 | HomVEE 标准规范 |
+> |:---|:---|
+> | **单项研究评级** | High Quality（高质量）；Moderate Quality（中等质量）；Low Quality（低质量） |
+> | **最高模型认证** | **Meets HHS Criteria for Evidence of Effectiveness（符合 HHS 有效性标准）** |
+> | **最高认证门槛** | 必须拥有 **至少 1 项高质量 RCT/QED**，或 **至少 2 项中等质量 RCT/QED**；且研究必须在至少一个主要结果域上展示出具有统计显著性的积极效果 |
+> | **医源性风险规避** | 必须由独立专家组核实无任何负面效应或医源性伤害风险 |
+
+---
+
+## 在 1,359 个教育项目库中的实证表现
+
+> [!stat-cards]- HomVEE 样本表现
+> - **53 个** 处理早期儿童认知发展与就学准备结果的家访干预项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])
+> - **高技术一致性** 在方法学审查上高度严密，其对单项 RCT 和 RDD 的内部效度打分与 WWC 展现出极高的一致性，但因其模型聚焦于家访模式，与纯学校课堂教学项目重叠度较低。
+
+---
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — HomVEE 是 12 个被比较的教育清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-> - [[Evidence-Based Education]] — HomVEE 展示了早期儿童与家庭访问领域中 EBE 标准如何被具体化为研究年份、[[Sample Size Determination|样本量]]、[[Quasi-Experimental Designs|QED]]/RDD 设计标准和复制标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
-> - [[Randomised Controlled Trials]] — HomVEE 对 RCT 的标准描述程度为 3，属于较详细处理 RCT 实施标准的清算中心([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
-> - [[Single-Case Design]] — HomVEE 为 matched comparison 和 single case designs 设置分开标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.11]])。
-> - [[What Works Clearinghouse]] — HomVEE 在[[Attrition|流失]]指南上遵循 WWC，并在 RDD 标准上与 WWC 同样要求 forcing [[Variable]]、连续性和函数形式/带宽[[Hypothesis|假设]]的证据([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–11]])。
-
+> [!example] 关联概念与制度脉络
+> - [[Educational Evidence Clearinghouses]] — HomVEE 代表了公共部门以法律刚性条款直接绑定财政拨款的清算中心治理典范。
+> - [[Randomised Controlled Trials]] 与 [[Quasi-Experimental Designs]] — HomVEE 制定了全美最详尽的早期儿童干预因果评估技术规程之一。

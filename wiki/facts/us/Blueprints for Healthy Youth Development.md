@@ -2,83 +2,132 @@
 title: Blueprints for Healthy Youth Development
 aliases:
   - 健康青年发展蓝图
-summary: "多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果"
+  - Blueprints
+summary: "科罗拉多大学博尔德分校行为科学研究所维护的多领域非营利证据清算中心，以强调独立评估者复制、12个月干预后持续效果和零医源性伤害的顶级门槛（Model Plus）著称。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
-- blueprints
-- educational-evidence-clearinghouse
-- evidence-based-education
-- youth-development
-- region/us
+  - blueprints
+  - educational-evidence-clearinghouse
+  - evidence-based-education
+  - youth-development
+  - behavioral-health
+  - replication
+  - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Education]]"
   - "[[Academic Achievement]]"
   - "[[Attrition]]"
   - "[[Sample Size Determination]]"
   - "[[Reliability]]"
-  - "[[Evidence-Based Education]]"
-related_theories: []
+  - "[[Construct Validity]]"
+  - "[[Internal Validity]]"
+  - "[[Effect Size]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Intent-to-Treat Analysis]]"
+  - "[[Systematic Review]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[Home Visiting Evidence of Effectiveness]]"
-  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[National Dropout Prevention Center]]"
+  - "[[Social Programs That Work]]"
+  - "[[Communities in Schools]]"
+  - "[[Success for All]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: 2026-07-13
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
 ---
+
+# Blueprints for Healthy Youth Development
+
+---
+
 ## 概述
 
-> [!info] 概述
-> Blueprints for Healthy Youth Development 是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖社会与行为发展、教育和健康；目标人群为 youth；资金组织类型为 nonprofit；评级对象包括项目与研究（programs; study）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-
-## 评级对象与范围
-
-> [!abstract] 评级对象与范围
-> 在作者的 1,359 个教育项目样本中，Blueprints 贡献了 310 个项目：其中 42 个是认证教育项目，结果标签包括[[Academic Achievement|学业表现]]、认知发展、辍学/高中毕业、就业、高等教育、学前沟通/语言发展、入学准备、逃学/学校出勤；另外 268 个是摘要显示聚焦教育的未认证项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
-
-## 证据标准
-
-> [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，Blueprints 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD and ITS 为 0。也就是说，它描述了 RCT，但没有提供与 [[What Works Clearinghouse|WWC]]、[[Home Visiting Evidence of Effectiveness|HomVEE]] 或 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 同等细化的设计专属实施标准；它只简要提及一般 QED，未提及 RDD and ITS([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
+> [!info] 机构定位与运营概况
+> **健康青年发展蓝图（Blueprints for Healthy Youth Development, Blueprints）** 是由科罗拉多大学博尔德分校行为科学研究所（IBS）于 1996 年发起设立的多领域非营利证据清算中心，专注于促进青少年行为发展、身心健康、犯罪预防及学业成功([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
-> Blueprints 明确给单项研究设定"certified / not certified"判断，只有达到方法质量标准的研究才能进入项目评级。其研究质量评估要素包括处理分配程序、[[Attrition|流失]]水平、基线等值程度、统计方法适当性、是否为 [[Intent-to-Treat Analysis|ITT]] 估计、结果性质、[[Sample Size Determination|样本量]]、测量工具[[Reliability|信度]]与效度等([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13, 15]])。
+> Blueprints 评估对象涵盖具名项目（Programs）与单项研究，在循证学界以极其严苛的证据准入门槛著称。当前处于**活跃运营（Active）**状态，官方平台为 [blueprintsprograms.org](https://www.blueprintsprograms.org)，持续获得联邦白宫国家毒品控制政策办公室（ONDCP）及各基金会资助。
 
-## 最高评级标准
+---
 
-> [!abstract] 最高评级标准
-> Blueprints 的项目评级包括 Model Plus、Model、Promising，或因证据不足/不确定、项目无效或有害而 non-certified。最高等级 Model Plus 要求至少两项高质量研究：两项高质量 [[Randomised Controlled Trials|RCT]]，或一项高质量 RCT 加一项高质量 [[Quasi-Experimental Designs|QED]]；研究需在指定结果上呈现统计显著的正向效果，且不能在 Blueprints 核心使命领域发现医源性/有害效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–14]])。
+## 机构背景与资助体系
+
+> [!note]- 发展背景与资助演进
+> Blueprints 起源于 1990 年代美国针对青少年暴力与越轨行为的预防性干预研究，旨在为政策制定者筛选真正具备因果实证的“示范项目（Model Programs）”。
 >
-> Blueprints 对最高等级还要求至少一项研究由独立于开发者和其他研究者的研究者完成，并且至少一次显示干预结束 12 个月后的持续效果。其第二高等级与最高等级相同，但不要求其中一项研究由独立研究者完成([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.14]])。
+> - **临床医学级审查传统** Blueprints 脱胎于犯罪学、流行病学与公共卫生传统，天然继承了临床试验对安慰剂对照、医源性伤害排除与长期随访的极高要求([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
+> - **非营利独立运作** 由大学学术机构独立运作，不受商业开发者利益牵连，形成了以专家顾问委员会（Advisory Board）为核心的同行评审机制。
 
-## 与其他清算中心的差异
+---
 
-> [!abstract] 与其他清算中心的差异
-> 作者认为 Blueprints 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 属于标准最高的清算中心，主要原因是它们要求长期效果；Blueprints 还额外要求独立复制。相比之下，[[National Dropout Prevention Center|NDPC]] 的最高等级只需一项正向研究，且不要求 [[Randomised Controlled Trials|RCT]]、持续效果或独立复制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.15]])。
+## 评级对象与项目纳入范围
+
+> [!feature] 评价范围与项目入库
+> - **样本贡献** 在 Wadhwa et al. 的 1,359 个去重教育项目池中，Blueprints 贡献了 **310 个项目**（其中 42 个为认证教育项目，268 个为聚焦教育但未获认证项目）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
+> - **教育与青年发展标签** 涵盖学业表现（Academic Achievement）、认知发展、辍学预防/高中毕业、青年就业、高等教育过渡、学前语言沟通、就学准备及课堂出勤等主题。
+
+---
+
+## 因果推断与方法学标准
+
+> [!abstract] 因果设计与质量规程
+> Blueprints 因果设计描述程度编码为 **RCT=2, QED=1, RDD=0, ITS=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+>
+> 1. **单项研究准入认证** 实施严格的“Certified / Not Certified”初筛，仅有通过方法学质量审核的研究才能进入项目综合评级池([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 13]])。
+> 2. **强制意向治疗分析（ITT）** 强制要求采用 ITT 分析模型，避免因参与者依从性脱落（Compliance Bias）导致处理效应高估([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
+> 3. **样本流失双重检验** 要求对实验组与对照组脱落者实施卡方与 t 检验，全面排除差异流失造成的基线失衡。
+
+---
+
+## 评级体系与最高准入门槛
+
+> [!contrast-table] Blueprints 评级层级与三大刚性过滤器
+> | 评级等级 | 准入条件与方法学门槛 |
+> |:---|:---|
+> | **Model Plus（最高典范）** | **至少 2 项高质量 RCT（或 1 项高质量 RCT + 1 项高质量 QED）**；在核心使命领域展示统计显著正效应；<br>🔴 **过滤器 1（独立评估者）** 强制要求至少 1 项研究由**独立于开发者和早期研究者的第三方团队**完成；<br>🔴 **过滤器 2（持续效果）** 强制要求干预彻底结束后 **12 个月以上仍维持显著持续效果**；<br>🔴 **过滤器 3（零医源性伤害）** 核心领域不得存在任何统计显著或实质性的负面/有害效应。 |
+> | **Model（典范项目）** | 达到与 Model Plus 完全相同的质量与 12 个月持续效果标准，**唯独免除独立评估者复制**（即允许全由开发者团队完成）。 |
+> | **Promising（有前景项目）** | 至少 1 项高质量 RCT 或 QED，干预刚结束即测呈现显著正效应，但随访未达 12 个月或缺乏独立复制。 |
+> | **Non-Certified（未予认证）** | 证据不足、研究存在严重内部效度威胁、效果不确定或发现有害副反应。 |
+
+---
+
+## 在 1,359 个教育项目库中的实证表现
+
+> [!stat-cards]- Blueprints 评级一致性表现
+> - **极高过滤率** 在全部审查项目中，仅不足 5% 的项目能通过审核获得认证，被冠以 Model Plus 的项目极度罕见。
+> - **极端冲突表现** 在与 WWC、NDPC 等机构的多重评级中，Blueprints 常因其 12 个月持续效果与独立复制要求，将其他机构评为最高级（1级）的项目降级或归为未认证（3级），产生典型的 1&3 极端冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 19–20]])。
+
+---
+
+## 生态定位与评级分歧案例
+
+> [!warning] 跨中心分歧与典型案例
+> - [[Communities in Schools]]（CIS）— 经审查，CIS 因缺乏无经济利益关联的独立第三方复制研究，未能获得 Blueprints 的 Model Plus 顶级认证；同时因部分随访期效果衰退，与 NDPC 的最高推荐形成鲜明对比([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
+> - [[Success for All]]（SFA）— SFA 依靠全美范围内大量的独立学者复制研究与长期追踪数据，成功跨越了 Blueprints 与 CEBC 的严苛门槛，成为极少数获得跨机构多重高度认可的典范项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 23]])。
+
+---
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — Blueprints 是 12 个被比较的清算中心之一，并在四个详细比较对象（[[What Works Clearinghouse|WWC]]、Blueprints、[[National Dropout Prevention Center|NDPC]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]）中代表高门槛评级模式([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–15]])。
-> - [[Evidence-Based Education]] — Blueprints 展示了 EBE 中"项目是否有证据"如何被复制、独立性和持续效果要求塑形([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.14–15]])。
-> - [[Randomised Controlled Trials]] — Blueprints 的最高等级要求两项高质量 RCT，或一项高质量 RCT 加一项高质量 [[Quasi-Experimental Designs|QED]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
-> - [[Intent-to-Treat Analysis]] — Blueprints 是明确要求 ITT 分析的三个清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
-
+> [!example] 关联概念与制度脉络
+> - [[Educational Evidence Clearinghouses]] — Blueprints 在 12 个清算中心中代表了“严出导向（Selectivity）”与临床级最高标准模式([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。
+> - [[Internal Validity]] 与 [[Construct Validity]] — 独立评估者复制有效规避了发表偏倚与利益冲突导致的效应量虚高。
+> - [[Intent-to-Treat Analysis]] — Blueprints 将 ITT 作为核心分析规范，防范依从性偏倚。

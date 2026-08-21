@@ -63,12 +63,12 @@ Total entries: **289**
 > [!trail]- Evidence infrastructure (8)
 > - [[Australian Education Research Organisation]] — 澳大利亚国家级教育证据中介组织，成立于2010年代后期。作为“什么是有效”（what works）运动在澳大利亚的制度化载体，AERO致力于评估和推广“循证”教育实践。其在2023年《强劲开端》改革中扮演了核心角色，是推动全国初始教师教育（ITE）标准化和惩罚性问责的重要政策节点。
 > - [[Azione LIM]] — 2008年意大利教育部推动的互动白板采购与教师培训政策，向学校提供35114块互动白板但被用作证据不足的教育技术投入案例。
-> - [[Best Evidence Encyclopedia]] — 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
+> - [[Best Evidence Encyclopedia]] — 约翰斯·霍普金斯大学教育研究与改革中心（CRRE）创立的教育专精清算中心，以Robert Slavin倡导的最佳证据综合法与加权效应量（ES≥+0.20 SD）为核心。
 > - [[Best Evidence in Brief]] — Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
 > - [[BHP Foundation]] — 由全球矿业与跨国资源巨头必和必拓集团（BHP Group）全资资助的慈善基金会。作为典型的风险慈善（Venture Philanthropy）组织，基金会通过资助英国教育捐赠基金会（EEF）全球证据生态项目，在全球推广复制标准化循证教育机构（如AERO），深刻介入主权国家教育知识生产与准入政策流动的隐形重塑。
-> - [[Blueprints for Healthy Youth Development]] — 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
+> - [[Blueprints for Healthy Youth Development]] — 科罗拉多大学博尔德分校行为科学研究所维护的多领域非营利证据清算中心，以强调独立评估者复制、12个月干预后持续效果和零医源性伤害的顶级门槛（Model Plus）著称。
 > - [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
-> - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
+> - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 加利福尼亚州社会服务部（CDSS）资助建立的多领域公共证据清算中心，专注于儿童福利与教育干预，最高评级（Well-Supported）强制要求至少2项高质量RCT及干预后12个月持续效果。
 
 > [!trail]- Curriculum and assessment (8)
 > - [[1904 Educational System]] — 1904年清政府颁布的中国第一个现代国家学制（癸卯学制），以日德集权模式为蓝本，涵盖学前至高等教育，兼具现代科学与儒家经典双轨，其在1910年代引发的“渐进修补”与“全盘重构”论战构成了杜威思想在华接受的前置场域。
@@ -483,17 +483,17 @@ Total entries: **289**
 > - [[American Attraction to Japanese Education 1980s]] — 1980 年代美国在经济竞争与危机叙事下对日本教育产生强烈跨国吸引力，白宫、教育部、学者和智库构成密集的改革话语网络，但受联邦分权结构制约，呈现高吸引力、低制度借用的特征
 > - [[APLU Innovation and Economic Prosperity Program]] — 美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定
 > - [[Bayh-Dole Act of 1980]] — 1980 年美国联邦立法，规定联邦政府资助下在大学产生的知识产权归大学所有，为大学技术转移和产学合作奠定了核心法律框架
-> - [[Best Evidence Encyclopedia]] — 教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目
-> - [[Blueprints for Healthy Youth Development]] — 多领域非营利清算中心，最高评级强调高质量研究、独立复制和 12 个月持续效果
+> - [[Best Evidence Encyclopedia]] — 约翰斯·霍普金斯大学教育研究与改革中心（CRRE）创立的教育专精清算中心，以Robert Slavin倡导的最佳证据综合法与加权效应量（ES≥+0.20 SD）为核心。
+> - [[Blueprints for Healthy Youth Development]] — 科罗拉多大学博尔德分校行为科学研究所维护的多领域非营利证据清算中心，以强调独立评估者复制、12个月干预后持续效果和零医源性伤害的顶级门槛（Model Plus）著称。
 > - [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
-> - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果
+> - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 加利福尼亚州社会服务部（CDSS）资助建立的多领域公共证据清算中心，专注于儿童福利与教育干预，最高评级（Well-Supported）强制要求至少2项高质量RCT及干预后12个月持续效果。
 > - [[California Master Plan for Higher Education]] — 1960 年加州通过的高等教育总体规划，建立了社区学院、加州州立大学和加州大学的三层公立高等教育体系，为硅谷创新经济提供了多层次人才支撑
 > - [[Central Florida Research Park]] — 1978 年与中佛罗里达大学合作建立的研究园区，1993 年海军空战中心迁入后逐渐聚集国防承包商，现拥有超过 9,500 名雇员，推动 UCF 研发支出十年翻番
-> - [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — 面向军人家庭的 public 清算中心，对 RCT 与一般 QED 均有详细证据标准
+> - [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — 美国国防部（DoD）、农业部（USDA）与宾夕法尼亚州立大学联合建立的公共证据清算中心，针对军人家庭及子女教育与身心发展，为RCT与QED均制定了详尽标准。
 > - [[Clinical Trials Transformation Initiative]] — 2007 年由美国 FDA 和杜克大学共同发起的多利益相关方公私合作伙伴关系，已发布超过 30 套基于证据的建议、框架和工具，旨在提高临床试验的质量和效率
-> - [[CNCS Evidence Exchange]] — 只审查 CNCS 自身资助项目和干预的公共清算中心，提供项目证据评级与资助决策支持
+> - [[CNCS Evidence Exchange]] — 美国国家与社区服务公司（AmeriCorps / 原CNCS）设立的联邦公共证据清算中心，为志愿服务、社区能力建设与青少年教育支持项目提供法定资助证据评级。
 > - [[Coleman Report 1966]] — 美国教育部委托的里程碑式教育机会平等研究（650,000+ 学生、4,000 所学校），结论为家庭背景而非学校特征是学业差距的主要驱动力，50 年后 Downey & Condron 重新评估认为 Coleman 低估了学校的补偿性作用
-> - [[Collaborative for Academic Social and Emotional Learning Guide]] — 聚焦社会情感学习项目的非营利教育清算中心，Wadhwa et al. (2024) 样本中贡献 25 个项目
+> - [[Collaborative for Academic Social and Emotional Learning Guide]] — 非营利组织CASEL发布的教育专精证据清算指南，专注于Pre-K至高中社会情感学习（SEL）项目，以五大核心胜任力与高质量实施培训支持为特色。
 > - [[Communities in Schools]] — 美国综合学生支持项目，在多个证据清算中心中获得不一致评级，是教育干预证据分歧的典型案例
 > - [[Comparative and International Education Society]] — 1956年在美国成立的专业学术组织，原名比较教育学会（CES），1969年正式更名为比较与国际教育学会（CIES）。该学位的成立与更名进程折射了二战后比较教育领域向发展中国家技术援助、国际组织规训及地缘政治干预整合的“发展转向”历史进程，是全球规模最大、影响力最广的比较教育学术学会。
 > - [[Comparative Education Center at Chicago 1958]] — C. Arnold Anderson 于 1958 年在芝加哥大学创立的比较教育中心，在融合比较教育与教育经济学方面发挥了关键作用，帮助人力资本理论在全球扩散
@@ -503,19 +503,19 @@ Total entries: **289**
 > - [[ESSA 2015 Evidence Standards]] — 美国联邦教育主法定义强/中/有希望与理论依据证据层级，将联邦拨款与使用达到证据标准的项目绑定
 > - [[First Look SoCal]] — 南加州创新联盟自 2018 年起每年举办的前沿科技与生命科学衍生企业展示会，从十余所顶尖研究机构中甄选 24 家衍生企业向投资者路演，揭示了大学衍生企业普遍面临的早期融资困境
 > - [[Hatch Act of 1887]] — 1887 年美国联邦立法，在赠地大学建立农业实验站，直接将大学研究与农场和食品加工者的实际需求连接，是赠地大学体系从教学向研究与应用服务延伸的关键制度节点
-> - [[Home Visiting Evidence of Effectiveness]] — 聚焦家庭访问模型与儿童发展/入学准备结果的 public 清算中心，对 RCT、QED、RDD 均有详细标准
+> - [[Home Visiting Evidence of Effectiveness]] — 美国卫生与公众服务部（HHS/ACF）设立的联邦公共清算中心，专注于早期儿童与母婴家访模型，为RCT、QED与RDD均制定了极其严密的因果审查标准。
 > - [[Investing in Innovation Program]] — 2009–2016 年美国教育部 USD 1.4B 分层拨款项目，以开发→验证→规模化结构推动教育 RCT 证据生产
 > - [[Kendall Square]] — 1999 年成立于 MIT 周边的产学合作创新区，以剑桥创新中心为核心，通过意向性网络建设和联合办公催生超过 10,000 家客户组织和 170 亿美元累计投资，是全球最成功的创新生态系统之一
 > - [[Local Innovation Systems Project]] — MIT 工业绩效中心 Richard Lester 领导的多年期多案例比较研究项目（2002-2005），覆盖 6 个国家 22 个地区的产业转型案例，提出大学对本地经济的四种差异化贡献模式
 > - [[Morrill Land-Grant Act of 1862]] — 1862 年美国联邦立法，通过赠地建立面向工业阶层的实践教育大学体系，将高等教育从精英教育扩展为大众实践教育，奠定产学合作的历史基础
-> - [[National Dropout Prevention Center]] — 聚焦辍学预防项目的非营利教育清算中心，提供项目筛选、证据评级和实践资源
+> - [[National Dropout Prevention Center]] — 专注高危学生辍学预防的非营利教育清算中心，以宽容的准入门槛（单项QED即可认证）和强制现场实际运行满3年要求为特征。
 > - [[National Science Foundation]] — 1950 年根据 Vannevar Bush 报告建议创建的美国独立联邦机构，是联邦政府资助大学基础研究的核心渠道，2022 年后通过 TIP 理事会大幅扩展区域创新中心建设资助
 > - [[NSF I-Corps]] — 2011 年由美国国家科学基金会启动的创业培训项目，已孵化超过 1000 家初创企业并累计获得超过 7.6 亿美元后续融资，核心是教授学者创业思维而非仅提供科研资金
 > - [[Open Court Reading]] — Wadhwa et al. (2024) 的清算中心评级案例：WWC、Blueprints、BEE 均评为 promising，但研究解释标准不同
 > - [[Pajaro Dunes Statement of 1982]] — 1982 年由一批美国精英研究型大学在 Bayh-Dole Act 通过后不久共同发布的产学关系原则声明，确立了大学-企业合作协议的透明性原则
 > - [[Peer-Assisted Learning Strategies]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，显示结果域和项目组件切分如何改变项目有效性判断
-> - [[Promise Neighborhoods Research Consortium]] — 评价项目、政策和实践的公共清算中心，不进行项目效果分层评级，更强调社区项目证据整理与资源汇集
-> - [[Promising Practices Network]] — 面向儿童与家庭政策的多领域非营利清算中心，曾提供项目证据摘要和实践案例库
+> - [[Promise Neighborhoods Research Consortium]] — 美国国家药物滥用研究所（NIDA）资助建立的多领域公共证据平台，基于培育环境理论为脆弱社区提供教育、行为与健康综合干预清单；2012年结项后归档。
+> - [[Promising Practices Network]] — 兰德公司（RAND Corporation）运营的多领域非营利证据清算中心，设立了基于效应量（ES≥0.25 SD）与样本量门槛的评级体系；2014年结项后归档为免费电子书TL145。
 > - [[Purdue Discovery Park]] — 普渡大学以 Lilly Endowment 和印第安纳州各 1500 万美元初始投资创建的大学研究园区，如今发展为超过 10 亿美元的自持研发企业，是美国最大的大学附属研究园区之一
 > - [[Quantum Opportunity Program]] — Wadhwa et al. (2024) 的清算中心评级分歧案例，包含 QOP and Eisenhower QOP 两个项目版本
 > - [[Research Triangle Park]] — 1950 年代末在北卡罗来纳州建立的美国最大研究园区之一，联合 Duke、UNC-Chapel Hill and NC State 三所研究型大学，以 IBM 为早期锚定租户，是产学合作推动区域经济转型的经典案例
@@ -524,7 +524,7 @@ Total entries: **289**
 > - [[Science, The Endless Frontier 1945]] — 1945 年 Vannevar Bush 向美国总统提交的报告，强调基础与开放式研究的战略重要性，直接促成 NSF 创建，塑造了二战后美国联邦政府资助大学基础研究的制度框架
 > - [[Semiconductor Research Corporation]] — 美国半导体行业长期运作的公私合作伙伴关系，多家公司（包括直接竞争对手）共同资助前竞争阶段的大学研究并支持人才发展，是产学合作中竞争者在研究层面合作的制度化典范
 > - [[Smith Lever Act of 1914]] — 1914 年美国联邦立法，在赠地大学建立农业推广服务体系，以联邦资金直接支持农业产业的应用研究、教育和培训，是产学合作中连接研究与实际应用的早期制度模型
-> - [[Social Programs That Work]] — 多领域非营利清算中心，将教育项目纳入更宽广的社会项目证据库
+> - [[Social Programs That Work]] — 阿诺德基金会（Arnold Ventures）维护的多领域非营利证据平台，以极高门槛著称，仅收录在真实世界中经严谨多中心RCT验证且低流失（<20%）的顶级项目。
 > - [[Social Science One]] — 哈佛大学量化社会科学研究所（IQSS）孵化的组织实施 [[King-Persily Model]]，通过独立学术委员会机制使学术研究者能够分析企业掌握的敏感数据以解决社会问题
 > - [[Sputnik Shock 1957]] — 1957 年苏联发射人类首颗人造卫星触发的美国科技信心危机，强化了教育质量、科技能力和国家竞争力之间的政策连接
 > - [[Success for All]] — Wadhwa et al. (2024) 的清算中心评级案例，五个清算中心均无负面评价但按结果域、变体和研究纳入数量形成不同证据判断
@@ -541,7 +541,7 @@ Total entries: **289**
 > - [[University of Illinois Research Park]] — 伊利诺伊大学的研究园区，执行主任同时兼任大学经济发展办公室主任，下设对外合作、孵化器 EnterpriseWorks、企业活动与创新外联等专职岗位，以整合组织架构链接产业伙伴与大学资源
 > - [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
 > - [[US-China Economic and Security Review Commission]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
-> - [[What Works Clearinghouse]] — 美国教育部 2002 年建立的教育证据清算中心，用于评估项目、实践和研究质量，已成为证据本位教育基础设施中的核心节点
+> - [[What Works Clearinghouse]] — 美国教育部教育科学研究院（IES）2002年设立的联邦旗舰教育证据清算中心，累计资助超1亿美元，确立了以RCT/QED/RDD和Handbook审查手册为核心的因果推断标准。
 
 > [!index-list]- Organization (1)
 > - [[Innovation Institute for Food and Health]] — 2015 年 Mars and UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议

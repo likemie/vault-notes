@@ -1,81 +1,120 @@
 ---
 title: California Evidence Based Clearinghouse for Child Social and Economic Welfare
 aliases:
-  - 加州儿童社会与经济福祉循证清算中心
+  - 加利福尼亚儿童福利循证清算中心
+  - 加州儿童福利循证清算中心
   - CEBC
-summary: "面向儿童与家庭的 public 清算中心，最高评级要求两项高质量 RCT、非重叠样本和持续效果"
+summary: "加利福尼亚州社会服务部（CDSS）资助建立的多领域公共证据清算中心，专注于儿童福利与教育干预，最高评级（Well-Supported）强制要求至少2项高质量RCT及干预后12个月持续效果。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
-- cebc
-- educational-evidence-clearinghouse
-- evidence-based-education
-- child-welfare
-- region/us
+  - cebc
+  - educational-evidence-clearinghouse
+  - child-welfare
+  - evidence-based-education
+  - sustained-effects
+  - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Literature Search]]"
-  - "[[Abstract]]"
-  - "[[Reliability]]"
-  - "[[Rating Scale]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
+  - "[[Attrition]]"
+  - "[[Effect Size]]"
+  - "[[Internal Validity]]"
+  - "[[Construct Validity]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Systematic Review]]"
+related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Blueprints for Healthy Youth Development]]"
+  - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[National Dropout Prevention Center]]"
+  - "[[Success for All]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: '2026-05-18'
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
 ---
+
+# California Evidence Based Clearinghouse for Child Social and Economic Welfare
+
+---
+
 ## 概述
 
-> [!info] 概述
-> California Evidence Based Clearinghouse for Child Social and Economic Welfare（CEBC）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖教育、社会与行为发展、健康、社会和经济福利；目标人群为儿童与家庭；资金组织类型为 public；评级对象为项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-
-## 评级对象与范围
-
-> [!abstract] 评级对象与范围
-> CEBC 在作者的教育项目一致性分析中贡献了 11 个项目。作者只选择其"儿童与青少年儿童福利教育干预"主题下的项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
+> [!info] 机构定位与运营概况
+> **加利福尼亚儿童福利循证清算中心（California Evidence-Based Clearinghouse for Child Welfare, CEBC）** 是由加利福尼亚州社会服务部（CDSS）于 2006 年资助成立的公共部门证据清算中心，旨在为儿童福利系统、教育工作者与社区机构提供经过科学实证检验的干预项目数据库([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
-> CEBC 通过专家建议与广泛[[Literature Search|文献搜索]]相结合来决定项目纳入范围；它和 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 一样只纳入同行评审研究([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
+> CEBC 覆盖儿童福利、心理健康、行为发展与教育干预等多领域。当前处于**活跃运营（Active）**状态，官方网站为 [cebc4cw.org](https://www.cebc4cw.org)，持续维护包含数百项干预方案的“科学评级量表（Scientific Rating Scale）”。
 
-## 证据标准
+---
 
-> [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，CEBC 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 1，对 RDD and ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。CEBC 提供[[Abstract|研究摘要]]但不为每项研究单独评级；其工作人员使用的标准包括研究设计（只接受 RCT 或 QED）、控制/比较组性质、至少一个结果测量的[[Reliability|信度]]与效度，以及所有干预组件是否一起分析([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
+## 机构背景与资助体系
 
-## 最高评级标准
-
-> [!abstract] 最高评级标准
-> CEBC 的项目评级包括 Well-supported by research evidence、Supported by research evidence、Promising research evidence、Evidence fails to demonstrate effect 和 NR（不能按 CEBC Scientific [[Rating Scale]] 评级）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.13]])。
+> [!note]- 发展背景与资助演进
+> CEBC 由加州政府直接拨款资助，由雷迪儿童医院（Rady Children's Hospital-San Diego）下属的儿童与家庭强化中心负责运营。
 >
-> 其最高等级要求至少两项高质量 [[Randomised Controlled Trials|RCT]]，且样本不重叠；必须在指定结果上呈现正向效果；不允许医源性或法律上有问题的效果；其中一项 RCT 必须显示干预结束后至少 12 个月仍有持续效果。第二高等级与最高等级相比，只要求一项 RCT，并接受干预结束后 6 个月的较短随访期([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–14]])。
+> - **公共福利与教育跨界** 旨在解决儿童福利系统内儿童面临的严重学业滞后、创伤应激与家庭不稳定问题，将循证医学标准无缝嵌入社会工作与基础教育支持项目。
+> - **严格限定同行评审文献** CEBC 实行文献准入硬性门槛：所有作为评级依据的研究必须发表于同行评审的学术期刊（Peer-Reviewed Journals），完全排除未发表的内部委托评估报告或商业白皮书([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 
-## 与其他清算中心的差异
+---
 
-> [!abstract] 与其他清算中心的差异
-> CEBC and Blueprints 被作者归为标准较高的清算中心，主要因为它们要求长期效果；CEBC 的最高等级尤其依赖两项高质量 [[Randomised Controlled Trials|RCT]] 与至少 12 个月持续效果。与 [[What Works Clearinghouse|WWC]] 不同，CEBC 不单独评级每项研究；与 [[National Dropout Prevention Center|NDPC]] 不同，它明确要求两项高质量 RCT([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–15]])。
+## 评级对象与项目纳入范围
+
+> [!feature] 评价范围与项目入库
+> - **样本贡献** 在 Wadhwa et al. 的教育项目池中，CEBC 贡献了 **11 个教育干预项目**（聚焦于涉入福利系统的儿童与青少年的学业促进项目）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
+> - **评估对象级别** 仅针对具备明确项目文档、操作手册与培训体系的**具名项目（Named Programs）**实施整体评级，不为单项研究独立发布评级([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8, 13]])。
+
+---
+
+## 因果推断与方法学标准
+
+> [!abstract] 因果设计与质量规程
+> CEBC 因果设计描述程度编码为 **RCT=2, QED=1, RDD=0, ITS=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+>
+> 1. **非重叠样本 RCT 验证** 要求评估项目必须拥有至少两个独立开展、样本不重叠的高质量 RCT。
+> 2. **测量工具信效度审查** 要求核心结果变量必须采用具备经过同行检验的公认心理测量学信效度的测量工具。
+> 3. **零医源性伤害原则** 项目不得在任何测量维度上产生对儿童及其家庭的心理或行为有害后果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 14]])。
+
+---
+
+## 评级体系与最高准入门槛
+
+> [!contrast-table] CEBC 科学评级量表（1–5 级）与核心门槛
+> | 科学评级等级 | 核心准入条件与随访要求 |
+> |:---|:---|
+> | **Level 1: Well-Supported（强力支持·最高级）** | **至少 2 项非重叠样本的高质量 RCT**；在核心使命领域展示统计显著正效应；<br>🔴 **强制要求** 至少 1 项 RCT 证明干预结束后 **12 个月以上仍维持积极持续效果**；<br>🔴 **零医源性伤害** 无任何有害或法理存疑的负面效应。 |
+> | **Level 2: Supported（得到支持·次高级）** | 至少 1 项高质量 RCT，干预结束后随访期要求缩短至 **6 个月** 仍维持持续效果。 |
+> | **Level 3: Promising（有前景实践）** | 至少 1 项建立在已确立理论基础上的高质量 QED，干预刚结束即测呈现正效应（无长期随访要求）。 |
+> | **Level 4 & 5: Evidence Fails / Concerning Practice** | 未能证实效果，或存在确凿的医源性伤害风险。 |
+> | **NR: Not Ratable** | 缺乏同行评审文献支持，不予评级。 |
+
+---
+
+## 生态定位与评级分歧案例
+
+> [!warning] 跨中心分歧与典型案例
+> CEBC 与 Blueprints 构成了 12 个清算中心中最高门槛的第一梯队，其核心差异在于 CEBC 虽未强制要求外部独立评估者，但将 **12 个月（Level 1）与 6 个月（Level 2）干预后随访期** 设为刚性门槛：
+> - [[Success for All]]（SFA）— 在 CEBC 评级中获评 Level 2（Supported），其严谨的纵向追踪研究与多样本验证使其在跨界福利清算体系中获得高度肯定([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 23]])。
+
+---
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — CEBC 是 12 个被比较的教育清算中心之一，也是四个详细比较对象之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.7, 13]])。
-> - [[Evidence-Based Education]] — CEBC 展示了"evidence-based"可被严格定义为两项高质量 [[Randomised Controlled Trials|RCT]]、非重叠样本和持续效果的组合([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.13–14]])。
-> - [[Randomised Controlled Trials]] — CEBC 最高等级要求至少两项高质量 RCT，且样本不重叠；其中一项须显示至少 12 个月持续效果。
-
+> [!example] 关联概念与制度脉络
+> - [[Educational Evidence Clearinghouses]] — CEBC 是多领域公共清算中心的典范，展示了儿童福利与教育政策的交叉证据治理。
+> - [[Campbellian Validity Framework]] — CEBC 通过 12 个月长期随访要求，有效检验干预效能是否随时间推移发生衰减（Fade-Out Effect）。

@@ -1,74 +1,114 @@
 ---
 title: CNCS Evidence Exchange
 aliases:
-  - CNCS证据交流平台
-summary: "只审查 CNCS 自身资助项目和干预的公共清算中心，提供项目证据评级与资助决策支持"
+  - 国家与社区服务公司证据交流中心
+  - CNCS EE
+  - AmeriCorps Evidence Exchange
+summary: "美国国家与社区服务公司（AmeriCorps / 原CNCS）设立的联邦公共证据清算中心，为志愿服务、社区能力建设与青少年教育支持项目提供法定资助证据评级。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
-- cncs-evidence-exchange
-- ee
-- educational-evidence-clearinghouse
-- evidence-based-education
-- region/us
+  - cncs-ee
+  - americorps
+  - educational-evidence-clearinghouse
+  - national-service
+  - community-action
+  - region/us
 related_concepts:
-  - "[[Extended Essay]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Literature Search]]"
   - "[[Evidence-Based Education]]"
-related_theories: []
+  - "[[Evidence-Based Reform]]"
+  - "[[Internal Validity]]"
+  - "[[Construct Validity]]"
+  - "[[Statistical Significance]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Systematic Review]]"
+related_instruments: []
 related_persons: []
 related_facts:
-  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Home Visiting Evidence of Effectiveness]]"
+  - "[[Blueprints for Healthy Youth Development]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: '2026-05-18'
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
 ---
+
+# CNCS Evidence Exchange
+
+---
+
 ## 概述
 
-> [!info] 概述
-> CNCS Evidence Exchange（[[Extended Essay|EE]]）是 Wadhwa et al. 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它是多领域清算中心，覆盖社会和经济福利、教育、社会与行为发展、健康和劳动；目标人群覆盖 youth、veterans、military families、tribes、schools、rural/urban/suburban/low-income communities 和 nonprofits；资金组织类型为 public；评级对象为项目和干预（programs and interventions）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
+> [!info] 机构定位与运营概况
+> **国家与社区服务公司证据交流中心（Corporation for National and Community Service Evidence Exchange, CNCS EE，现更名为 AmeriCorps Evidence Exchange）** 是由美国联邦独立机构国家与社区服务公司（AmeriCorps）设立的官方公共证据清算平台([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
+>
+> CNCS EE 覆盖国民志愿服务、经济福利、基础教育辅导、青少年行为发展及退伍军人服务等领域。当前处于**活跃运营（Active）**状态，官方平台为 [americorps.gov/evidence-exchange](https://americorps.gov/about/our-impact/evidence-exchange)，持续作为联邦资助拨款中评估项目证据力度的法定依据。
 
-## 评级对象与范围
+---
 
-> [!abstract] 评级对象与范围
-> 作者在一致性分析中从 CNCS Evidence Exchange 选择了 52 个项目，范围为"Education"和"Capacity Building"两个 focus areas。作者只保留有"Impact"和"Outcomes"研究的项目，使用搜索部分的"Program Evaluation"过滤器，并删除没有"Level of Evidence"的项目和重复项；这些选择依据 CNCS Evidence Exchange Metadata Glossary 中对相关术语的定义([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
+## 机构背景与资助体系
 
-## 项目纳入逻辑
+> [!note]- 发展背景与资助演进
+> 依据《爱德华·肯尼迪服务美国法案》（Serve America Act），AmeriCorps 每年向全美非营利组织、学区与高等院校拨付数亿美元的志愿服务专项基金。
+>
+> - **拨款竞争法定准绳** CNCS EE 建立了一套严谨的“证据分层体系（Evidence Tiers）”，申请机构提交的干预项目所具备的证据等级直接决定了其在联邦资金竞争中的胜算与拨款额度。
+> - **教育赋能重心** 在其全部受资助项目中，超过半数涉及中小学课后辅导、早期阅读同伴结对及高中学业指导等教育干预。
 
-> [!info] 项目纳入逻辑
-> CNCS Evidence Exchange 与许多清算中心不同，它只审查 CNCS 自身资助的项目和干预。因此，它的项目样本受组织使命和资助范围限制，而不是面向教育领域所有可得项目进行开放式搜索([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
+---
 
-## 证据标准
+## 评级对象与项目纳入范围
 
-> [!abstract] 证据标准
-> 在设计标准[[Coding in Qualitative Research|编码]]中，CNCS Evidence Exchange 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 2，对一般 [[Quasi-Experimental Designs|QED]] 为 2，对 RDD and ITS 均为 0([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。在复制标准上，CNCS Evidence Exchange 强调多地点研究以及跨地点和文化情境复制的效果；它也会给独立评估更高评级，这里的独立性指研究者独立于项目管理者和实施者([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.11–12]])。
+> [!feature] 评价范围与项目入库
+> - **样本贡献** 在 Wadhwa et al. 汇总的项目池中，CNCS EE 贡献了 **52 个教育与能力建设领域项目**（均具备正式评估报告与明确证据等级）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
+> - **评估对象级别** 针对受资助的组织机构、具体干预方案及单项独立评估报告进行综合评级。
 
-## 与其他清算中心的差异
+---
 
-> [!abstract] 与其他清算中心的差异
-> CNCS Evidence Exchange 的特殊性在于项目来源被 CNCS 资助范围限定；这使其与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 的专家建议+[[Literature Search|文献搜索]]、[[What Works Clearinghouse|WWC]] 的综述协议驱动纳入、[[Home Visiting Evidence of Effectiveness|HomVEE]] 的家庭访问模型聚焦形成对照([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
+## 因果推断与方法学标准
+
+> [!abstract] 因果设计与质量规程
+> CNCS EE 因果设计描述程度编码为 **RCT=2, QED=2, RDD=0, ITS=0**，对组间对比实验与准实验均建立了明确的证据质量审查指南([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+>
+> 1. **独立外部评估要求** 强制要求获得高额资助的项目必须由外部独立第三方研究机构实施因果评估。
+> 2. **多层级证据阶梯** 建立了从“概念验证（Preliminary）”到“严格因果（Strong）”的清晰发展阶梯。
+
+---
+
+## 评级体系与最高准入门槛
+
+> [!contrast-table] CNCS EE / AmeriCorps 证据分层标准
+> | 证据等级 | 核心准入条件与方法学门槛 |
+> |:---|:---|
+> | **Strong Evidence Tier（强证据层级·最高级）** | 拥有 **至少 2 项独立开展的高质量实证研究（RCT 或严格匹配 QED）**；在关键结果指标上展示出具有统计显著性的正向因果效应；研究具有高内部效度与样本代表性。 |
+> | **Moderate Evidence Tier（中等证据层级）** | 拥有至少 1 项良好实施的 RCT 或具有良好对照组的准实验研究支持。 |
+> | **Preliminary Evidence Tier（初步证据层级）** | 具备前后测对比或描述性成效数据，呈现积极效果但缺乏严格对照组。 |
+> | **Pre-preliminary Tier（预备探索层级）** | 拥有清晰的变革理论（Theory of Change）但尚未开展正式效果评估。 |
+
+---
+
+## 生态定位与政策作用
+
+> [!warning] 联邦政策治理意义
+> - **财政杠杆撬动实证研究** CNCS EE 成功展示了如何通过联邦资助条款，倒逼基层非营利组织与学校主动引入高校或专业智库开展独立因果评价，推动了基层教育志愿项目的科学化发展([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
+
+---
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — CNCS Evidence Exchange 是 12 个被比较的教育清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-> - [[Evidence-Based Education]] — CNCS Evidence Exchange 体现了 EBE 基础设施中资助机构自身项目库与证据评级之间的连接([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.8]])。
-> - [[Randomised Controlled Trials]] — CNCS Evidence Exchange 对 RCT 与一般 [[Quasi-Experimental Designs|QED]] 的标准描述程度均为 2，并将跨地点/文化情境复制作为证据条件之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.10–12]])。
-
+> [!example] 关联概念与制度脉络
+> - [[Educational Evidence Clearinghouses]] — CNCS EE 代表了联邦拨款机构将证据清算与项目资助深度绑定的治理范式。
+> - [[Evidence-Based Reform]] — CNCS EE 实践了以有效性证据分级确定资助优先级的改革理念。

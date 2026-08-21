@@ -1,76 +1,120 @@
 ---
 title: Best Evidence Encyclopedia
 aliases:
-  - 最佳证据百科
+  - 最佳证据百科全书
   - BEE
-summary: "教育领域 public 清算中心，评级对象为项目，Wadhwa et al. (2024) 样本中贡献 124 个阅读、写作、早教、综合学校改革、数学等项目"
+summary: "约翰斯·霍普金斯大学教育研究与改革中心（CRRE）创立的教育专精清算中心，以Robert Slavin倡导的最佳证据综合法与加权效应量（ES≥+0.20 SD）为核心。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
-- best-evidence-encyclopedia
-- bee
-- educational-evidence-clearinghouse
-- evidence-based-education
-- region/us
+  - bee
+  - best-evidence-encyclopedia
+  - johns-hopkins
+  - robert-slavin
+  - educational-evidence-clearinghouse
+  - meta-analysis
+  - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
+  - "[[Evidence-Based Reform]]"
   - "[[Effect Size]]"
-related_theories: []
+  - "[[Construct Validity]]"
+  - "[[Internal Validity]]"
+  - "[[Statistical Significance]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Meta-analysis]]"
+  - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Coding in Qualitative Research]]"
+related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Promising Practices Network]]"
-  - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
-  - "[[Social Programs That Work]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Home Visiting Evidence of Effectiveness]]"
-  - "[[Open Court Reading]]"
-  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
+  - "[[ESSA 2015 Evidence Standards]]"
+  - "[[Success for All]]"
+  - "[[Peer-Assisted Learning Strategies]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-confidence: medium
-status: draft
-created: '2026-05-05'
-updated: '2026-05-18'
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-08-21
 ---
+
+# Best Evidence Encyclopedia
+
+---
+
 ## 概述
 
-> [!info] 概述
-> Best Evidence Encyclopedia（BEE）是 Wadhwa, Zheng & Cook 比较的 12 个[[Educational Evidence Clearinghouses|教育证据清算中心]]之一。它的主要焦点领域是教育，目标人群为学生，资金组织类型被列为 public，评级对象为项目（programs）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-
-## 评级对象与范围
-
-> [!abstract] 评级对象与范围
-> BEE 在作者的教育项目一致性分析中贡献了 124 个项目。纳入标准是：数据收集时 BEE 网站上按字母顺序列名的所有项目；这些项目涵盖阅读、写作、早期儿童教育、综合学校改革、数学等主题([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.16]])。
-
-## 证据标准
-
-> [!abstract] 证据标准
-> 在研究设计标准表中，BEE 对 [[Randomised Controlled Trials|RCT]] 的描述程度为 1，对一般 [[Quasi-Experimental Designs|QED]] 的描述程度为 1，对 RDD and ITS 均为 0。作者的[[Coding in Qualitative Research|编码]]含义是：1 表示该设计类型只被简要提及，未提供具体实施标准；0 表示标准未提及该设计类型([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.9–10, 29]])。
+> [!info] 机构定位与运营概况
+> **最佳证据百科全书（Best Evidence Encyclopedia, BEE）** 是由著名循证教育学者 Robert Slavin 团队于约翰斯·霍普金斯大学教育研究与改革中心（CRRE）设立的教育专精证据清算中心，受到美国教育部 IES 资助([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
-> BEE and Blueprints、[[Promising Practices Network|PPN]]、[[Collaborative for Academic Social and Emotional Learning Guide|CASEL]]、[[Social Programs That Work|SPTW]] 一样，只报告具有正向效果的项目；在最低效果阈值上，BEE 要求至少 0.20 SD 的影响([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
+> BEE 聚焦学前至 K–12 中小学阶段的阅读、数学、科学及全校改革项目。当前处于**在线资料库 / 重心迁移（Shifted）**状态：官网 [bestevidence.org](https://www.bestevidence.org) 仍作为综合学术文库在线，但评级团队的主力业务已全面迁移至符合 ESSA 法案的新一代决策平台 [Evidence for ESSA](https://www.evidenceforessa.org)([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 110]])。
 
-## 与其他清算中心的差异
+---
 
-> [!abstract] 与其他清算中心的差异
-> BEE 的设计标准描述相对简略：它承认 [[Randomised Controlled Trials|RCT]] 和一般 [[Quasi-Experimental Designs|QED]]，但没有像 [[What Works Clearinghouse|WWC]] 或 [[Home Visiting Evidence of Effectiveness|HomVEE]] 那样为 RDD 设置详细实施标准，也没有为 ITS 设置标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。在 [[Open Court Reading]] 案例中，BEE 将同一 Borman et al. 研究在不同综述中分别称为"randomized quasi-experiment"和 RCT，并指出课堂阅读时间差异可能构成混淆；作者用此例说明不同清算中心会对同一研究限制做出不同判断([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.22]])。
+## 机构背景与资助体系
+
+> [!note]- 发展背景与资助演进
+> BEE 的核心学术灵魂是 Slavin 提出的“最佳证据综合法（Best-Evidence Synthesis, BES）”，该方法结合了系统综述的定性深度与元分析（Meta-analysis）的量化效应量聚合。
+>
+> - **反对无干预对照组** Slavin 强烈批判教育研究中采用“人为弱化或无教学的假对照组”，BEE 强制要求对照组必须接受真实的常规替代教学（Business-As-Usual Control），以反映干预的真实附加值。
+> - **12 周干预时长底线** 排除短期试验（短于 12 周的研究），以确保所观测到的效应并非由于新奇效应（Novelty Effect）产生。
+
+---
+
+## 评级对象与项目纳入范围
+
+> [!feature] 评价范围与项目入库
+> - **样本贡献** 在 Wadhwa et al. 汇总的教育项目池中，BEE 贡献了 **124 个项目**（按学科与学段系统组织）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 16]])。
+> - **学科专项综述** 包括初等阅读、中等阅读、中小学数学、早期儿童教育、全校综合改革（Comprehensive School Reform）以及英语学习者专项。
+
+---
+
+## 因果推断与方法学标准
+
+> [!abstract] 因果设计与质量规程
+> BEE 因果设计描述程度编码为 **RCT=1, QED=1, RDD=0, ITS=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+>
+> 1. **元分析加权平均效应量** 将所有达标研究的效应量按样本量进行方差倒数加权，计算合并效应量。
+> 2. **+0.20 SD 门槛** 明确规定最高有效性评级必须满足加权平均效应量 **ES ≥ +0.20 SD** 且统计显著([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 12]])。
+
+---
+
+## 评级体系与最高准入门槛
+
+> [!contrast-table] BEE 评级层级与标准
+> | 评级等级 | 核心准入条件与证据门槛 |
+> |:---|:---|
+> | **Strong Evidence of Effectiveness（强证据·最高级）** | 拥有 **至少 2 项高质量 RCT（或 1 项大型多中心 RCT + 1 项高质量 QED）**；总样本量丰富；加权平均效应量达到 **ES ≥ +0.20 SD** 且统计显著；至少 1 项研究干预持续一整学年。 |
+> | **Moderate Evidence of Effectiveness（中等证据）** | 至少 1 项 RCT 或 2 项高质量 QED，平均效应量 **ES ≥ +0.20 SD**；或多项研究加权效应量在 +0.10 至 +0.19 SD 之间。 |
+> | **Limited Evidence of Effectiveness（有限证据）** | 存在至少 1 项达标研究呈现积极趋势，但证据量不足以得出明确结论。 |
+> | **Insufficient Evidence / No Qualifying Studies** | 缺乏达标研究或研究存在严重方法缺陷。 |
+
+---
+
+## 生态定位与评级分歧案例
+
+> [!warning] 跨中心分歧与典型案例
+> - [[Success for All]]（SFA）— SFA 是 Slavin 团队创立的旗舰全校改革方案，在 BEE 获得最高的 **Strong Evidence** 评级；在 WWC、CEBC、CMFR 亦获得广泛高度评价，成为全库高度一致推荐的罕见代表([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 23]])。
+> - [[Peer-Assisted Learning Strategies]]（PALS）— BEE 将其小学数学与阅读版本分别评为 Moderate / Strong，肯定其实施便捷性与稳定提分效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 23–24]])。
+
+---
 
 ## 相关概念／政策
 
-> [!example] 相关概念／政策
-> - [[Educational Evidence Clearinghouses]] — BEE 是 12 个被比较的教育清算中心之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.7]])。
-> - [[Evidence-Based Education]] — BEE 以项目效果证据评级参与 EBE 的证据传播基础设施([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.4]])。
-> - [[Randomised Controlled Trials]] — BEE 承认 RCT，但其标准描述程度在作者[[Coding in Qualitative Research|编码]]中为 1，低于 [[What Works Clearinghouse|WWC]]、[[Home Visiting Evidence of Effectiveness|HomVEE]]、[[Social Programs That Work|SPTW]] 和 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.10]])。
-> - [[Effect Size]] — BEE 要求至少 0.20 SD 的影响，说明其项目评级包含最低效应量阈值([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.12]])。
-
+> [!example] 关联概念与制度脉络
+> - [[Educational Evidence Clearinghouses]] — BEE 是由大学权威学者主导、结合学科元分析的教育专精清算中心代表。
+> - [[Evidence-Based Reform]] 与 [[ESSA 2015 Evidence Standards]] — BEE 的评级准则直接孵化了面向 ESSA 法案的 Evidence for ESSA 平台([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 110]])。
