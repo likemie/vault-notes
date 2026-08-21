@@ -8,7 +8,7 @@ aliases:
 summary: "在研究群体内部提供准入、信息和支持的关键人物，与守门人不同——担保人是群体的内部成员而非看门者，常发展为研究的合作者"
 type: concept
 domain: "research-methodology"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,8 @@ related_methods:
   - "[[Qualitative Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_persons:
+  - "[[William Foote Whyte]]"
 status: draft
 created: 2026-06-22
 updated: 2026-07-11

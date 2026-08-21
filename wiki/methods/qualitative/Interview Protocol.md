@@ -8,7 +8,7 @@ summary: "质性访谈中用于指导问题提问和记录回答的一至两页�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Focus Group]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Content Analysis]]"
   - "[[Semi-structured Interview]]"
   - "[[Ethnography]]"
 related_arguments:

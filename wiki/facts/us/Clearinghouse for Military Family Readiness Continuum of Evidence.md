@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - cmfr
@@ -23,24 +23,19 @@ tags:
   - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[Attrition]]"
-  - "[[Internal Validity]]"
-  - "[[Construct Validity]]"
-  - "[[Statistical Significance]]"
-related_theories:
-  - "[[Campbellian Validity Framework]]"
+  - "[[Variable]]"
+  - "[[Study Population and Sample]]"
+related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[What Works Clearinghouse]]"
-  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
-  - "[[Best Evidence Encyclopedia]]"
   - "[[Success for All]]"
   - "[[Peer-Assisted Learning Strategies]]"
 related_arguments:

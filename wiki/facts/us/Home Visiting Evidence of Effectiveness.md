@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,24 +23,20 @@ tags:
   - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Attrition]]"
-  - "[[Effect Size]]"
-  - "[[Internal Validity]]"
-  - "[[Construct Validity]]"
+  - "[[Variable]]"
   - "[[Statistical Significance]]"
-related_theories:
-  - "[[Campbellian Validity Framework]]"
+  - "[[Internal Validity]]"
+related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
-  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high

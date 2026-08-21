@@ -8,7 +8,7 @@ summary: "通过电话进行的数据收集方法，具有成本低、覆盖广�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Pilot Testing]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Content Analysis]]"
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
   - "[[Systematic Review]]"

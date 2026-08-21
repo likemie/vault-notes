@@ -6,7 +6,7 @@ summary: "通过汇总多项原始研究的效应量来综合证据的统计方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 64
+method_related_count: 66
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -65,6 +65,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Quantitative Research]]"
   - "[[Observation Method]]"
+  - "[[Three-Level Meta-Analysis]]"
   - "[[Experimental Research]]"
 related_persons:
   - "[[Gene Glass]]"
@@ -86,6 +87,7 @@ related_arguments:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Greene_2018_JEP]]"
+  - "[[Argument_Song_Choi_2026_FPSYG]]"
 confidence: medium
 status: draft
 created: '2026-05-01'

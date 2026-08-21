@@ -7,22 +7,27 @@ summary: "德裔英国教育家，以共同服务、挑战性活动与跨文化�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 0
+person_related_count: 5
 person_related_level: 0
-person_related_stars: "☆"
+person_related_stars: ""
 person_related_color: "#e5e7eb"
 tags:
   - region/uk
   - field/educational-philosophy
   - theme/international-education
   - theme/experiential-education
-related_concepts: []
+related_concepts:
+  - "[[International Baccalaureate]]"
+  - "[[International Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Alec Peterson]]"
+related_facts:
+  - "[[Founding of Atlantic College]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch01]]"
 confidence: high
 status: draft
 created: 2026-08-17
@@ -78,5 +83,5 @@ updated: 2026-08-17
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **合作者** [[Alec Peterson]] — 1957 年相识，随后共同把国际教育愿景转化为大西洋学院的课程与制度。
+> - **合作者** [[Alec Peterson]] — 1957 年相识，随后共同把[[International Education|国际教育]]愿景转化为大西洋学院的课程与制度。
 > - **机构／运动／项目** [[Founding of Atlantic College]] — 提供创办愿景并参与早期筹备。

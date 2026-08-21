@@ -8,7 +8,7 @@ summary: "与参与者进行开放式对话以理解其主观经验和意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -45,6 +45,8 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Group Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Narrative Analysis]]"
+  - "[[Content Analysis]]"
   - "[[Interview Protocol]]"
   - "[[Pilot Testing]]"
   - "[[Triangulation]]"

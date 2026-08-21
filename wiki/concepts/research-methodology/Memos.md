@@ -10,7 +10,7 @@ aliases:
 summary: "质性研究者在研究过程中记录的书面笔记，反映编码和主题的发展，是反身性的基础"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - qualitative-research
 related_concepts:
   - "[[Reflexivity]]"
+  - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

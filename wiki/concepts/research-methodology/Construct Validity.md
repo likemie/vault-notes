@@ -10,7 +10,7 @@ aliases:
 summary: "评价抽象构念的界定、操作化与所得证据是否共同支持预期解释；涵盖测量工具、实验操纵、质性范畴、课程评估以及宏观政策认证体系（MTMM收敛与判别效度），防范构念不足呈现与无关方差污染。"
 type: concept
 domain: "research-methodology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -24,40 +24,43 @@ tags:
   - causal-inference
 related_concepts:
   - "[[Construct]]"
-  - "[[Evaluation Research]]"
   - "[[Operationalization]]"
-  - "[[Document]]"
-  - "[[Variable]]"
-  - "[[Questionnaire]]"
-  - "[[Dependent Variable]]"
+  - "[[Convergent and Discriminant Validity]]"
+  - "[[Falsification]]"
+  - "[[Epistemology]]"
   - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Manipulation Check]]"
+  - "[[Praxis]]"
   - "[[Content Validity]]"
   - "[[Criterion-related Validity]]"
-  - "[[Theoretical Validity]]"
   - "[[Internal Validity]]"
-  - "[[External Validity]]"
-  - "[[Professional Judgment]]"
-  - "[[Falsification]]"
-  - "[[Literature Review]]"
-  - "[[Convergent and Discriminant Validity]]"
-  - "[[Paradigm]]"
-  - "[[Knowledge Questions]]"
-  - "[[Areas of Knowledge]]"
-  - "[[Critical Thinking]]"
+  - "[[Variable]]"
+  - "[[Questionnaire]]"
+  - "[[Hawthorne Effect]]"
+  - "[[Experimenter Bias]]"
+  - "[[Test-Retest Reliability]]"
+  - "[[Rich and Thick Description]]"
   - "[[Hypothesis]]"
-  - "[[Internal Consistency]]"
-  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Conatus]]"
   - "[[Evidence-Based Education]]"
-related_theories:
-  - "[[Campbellian Validity Framework]]"
+  - "[[International Baccalaureate]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Knowledge Questions]]"
+  - "[[Critical Thinking]]"
+  - "[[Document]]"
+  - "[[Internal Consistency]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+related_theories: []
 related_methods:
-  - "[[Qualitative Research]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Confirmatory Factor Analysis]]"
+  - "[[Member Checking]]"
   - "[[Ethnography]]"
-  - "[[Quantitative Research]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Systematic Review]]"
+  - "[[Meta-analysis]]"
+  - "[[Qualitative Research]]"
+  - "[[Causal Modeling]]"
+  - "[[Content Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Louis Cohen]]"
@@ -68,13 +71,11 @@ related_persons:
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Blueprints for Healthy Youth Development]]"
-  - "[[Communities in Schools]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Hughes_2014_JRIE]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: high
 status: active
 created: 2026-06-01

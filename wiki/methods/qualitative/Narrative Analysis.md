@@ -8,9 +8,9 @@ summary: "以故事为意义建构与表达的基本形式，通过时间序列�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 13
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -18,14 +18,20 @@ tags:
   - narrative
   - life-history
 related_concepts:
+  - "[[Epistemology]]"
+  - "[[Reflexivity]]"
+  - "[[Hypothesis]]"
+  - "[[Emergence]]"
+  - "[[Abstract]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Narrative Research]]"
-  - "[[Stories as Research Data]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Stories as Research Data]]"
 related_persons: []
 related_facts: []
 related_arguments:

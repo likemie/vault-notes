@@ -34,11 +34,12 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Global Citizenship]]"
   - "[[Questionnaire]]"
+  - "[[Extended Essay]]"
+  - "[[Creativity, Action, Service]]"
   - "[[Reflexivity]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
   - "[[Hypothesis]]"
-  - "[[Extended Essay]]"
   - "[[Feedback]]"
   - "[[Examination-Oriented Education]]"
   - "[[Class Size]]"
@@ -57,7 +58,10 @@ related_methods:
 related_instruments:
   - "[[Confidence Teaching TOK Scale]]"
   - "[[6-Item TOK Focus Group Protocol]]"
-related_persons: []
+related_persons:
+  - "[[Plato]]"
+  - "[[René Descartes]]"
+  - "[[Immanuel Kant]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -72,7 +76,7 @@ title: "Argument_Bergeron_2015_TeachingTOK"
 argument_key: "Argument_Bergeron_2015_TeachingTOK"
 argument_display_title: "Teaching the Theory of Knowledge course in IB World Schools"
 argument_kind: "report"
-argument_related_count: 35
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"

@@ -10,7 +10,7 @@ summary: "利用照片、影片录像与器物等视觉媒体收集教育研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,11 +33,13 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Content Analysis]]"
   - "[[Triangulation]]"
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Action Research]]"
   - "[[Grounded Theory]]"
+  - "[[Constant Comparison]]"
   - "[[Random Sampling]]"
   - "[[Field Notes]]"
   - "[[Stratified Sampling]]"

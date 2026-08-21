@@ -6,10 +6,10 @@ aliases:
 summary: "弗莱雷解放教育与提问式教学法中的核心中介机制，指将受教者日常生活中复杂的受压迫生存矛盾制作成具象的照片、画作或文本符号，使其对象化以便于开展批判性对话。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-philosophy
   - freire
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Learned Helplessness]]"
   - "[[Problem-Posing Education]]"
+  - "[[Theory of Mind]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"

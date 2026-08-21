@@ -15,13 +15,13 @@ related_concepts:
   - "[[Formal Epistemology]]"
   - "[[Epistemological Beliefs]]"
   - "[[Knowledge Production]]"
-  - "[[Epistemological Resources]]"
   - "[[Epistemic Resources]]"
   - "[[Ontology]]"
   - "[[Questionnaire]]"
 related_theories: []
 related_methods: []
-related_instruments: []
+related_instruments:
+  - "[[Views of Nature of Science Questionnaire]]"
 related_persons: []
 related_facts: []
 related_arguments:

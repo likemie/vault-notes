@@ -5,7 +5,7 @@ summary: "将故事和叙事作为教育研究证据来源的方法，故事是�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Transcription in Qualitative Research]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Narrative Analysis]]"
   - "[[Narrative Research]]"
   - "[[Triangulation]]"
   - "[[Ex Post Facto Research]]"

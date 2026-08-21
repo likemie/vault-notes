@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 21
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 25
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - blueprints
@@ -23,30 +23,34 @@ tags:
   - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
+  - "[[Clinical Trial]]"
   - "[[Academic Achievement]]"
+  - "[[Access and Acceptance in Research]]"
   - "[[Attrition]]"
-  - "[[Sample Size Determination]]"
-  - "[[Reliability]]"
-  - "[[Construct Validity]]"
+  - "[[Threats to Internal Validity]]"
+  - "[[Selectivity]]"
   - "[[Internal Validity]]"
+  - "[[Construct Validity]]"
+  - "[[Publication Bias]]"
+  - "[[Conflict of Interest in Research]]"
   - "[[Effect Size]]"
-related_theories:
-  - "[[Campbellian Validity Framework]]"
+related_theories: []
 related_methods:
+  - "[[Intervention Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Intent-to-Treat Analysis]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Youth Development Blueprint]]"
   - "[[What Works Clearinghouse]]"
-  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[National Dropout Prevention Center]]"
-  - "[[Social Programs That Work]]"
   - "[[Communities in Schools]]"
+  - "[[Community Innovation Survey]]"
   - "[[Success for All]]"
+  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high

@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -23,7 +23,8 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Institutional Review Board]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Typological Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []

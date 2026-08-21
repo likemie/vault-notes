@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,23 +21,20 @@ tags:
   - evidence-based-education
   - region/us
 related_concepts:
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Academic Achievement]]"
-  - "[[Internal Validity]]"
-  - "[[Construct Validity]]"
+  - "[[Evaluation Research]]"
   - "[[Statistical Significance]]"
-related_theories:
-  - "[[Campbellian Validity Framework]]"
+  - "[[Attrition]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Evidence-Based Reform]]"
+related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
-  - "[[Blueprints for Healthy Youth Development]]"
   - "[[ESSA 2015 Evidence Standards]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"

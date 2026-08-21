@@ -8,7 +8,7 @@ aliases:
 summary: "TUFF 创新中心框架的六项优先领域之一，通过非正式激活活动、意向性空间设计和社区文化建设，在建筑内部空间创造人际互动价值，以信任和人际密度推动商业活力"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[University-Industry Collaboration]]"
   - "[[Praxis]]"
+  - "[[Theory of Mind]]"
 related_theories: []
 related_methods: []
 related_persons: []

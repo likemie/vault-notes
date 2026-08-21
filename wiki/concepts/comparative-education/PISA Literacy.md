@@ -7,7 +7,7 @@ aliases:
 summary: "日本在 2004 年 PISA 2003 结果公布后纳入国家教育政策目标的学术能力概念，聚焦问题解决、知识应用等高阶能力，区别于传统知识记忆型学力"
 type: concept
 domain: "comparative-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - region/asia
 related_concepts:
   - "[[Going Native]]"
+  - "[[Academic Achievement]]"
   - "[[Active Learning]]"
   - "[[Knowledge-Based Economy]]"
 related_theories: []

@@ -9,7 +9,7 @@ summary: "一种源自人文学科的质性研究设计，通过研究个体生�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,15 +20,13 @@ tags:
 related_concepts:
   - "[[External Validity]]"
   - "[[Analytic Framework]]"
-  - "[[Causality]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Narrative Analysis]]"
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
-  - "[[Stories as Research Data]]"
+  - "[[Narrative Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments:

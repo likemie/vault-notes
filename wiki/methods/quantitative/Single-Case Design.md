@@ -133,7 +133,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 > - **特殊教育领域** SCD 在特殊教育中被广泛用于识别循证[[Praxis|实践]]（Horner et al., 2005）
 > - **行为[[Intervention Research|干预研究]]** 适用于需要密集、纵向测量的行为改变研究
 > - **难以进行大规模 [[Randomised Controlled Trials|RCT]] 的情境** 当目标人群较小或[[Heterogeneity|异质性]]较高时
-> - **证据清算中心审查**[[What Works Clearinghouse]] 的主题特定综述协议把 SCD 列为可纳入的影响研究设计之一；[[Home Visiting Evidence of Effectiveness]] 也为 single case designs 设置单独标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
+> - **[[Educational Evidence Clearinghouses|证据清算中心]]审查**[[What Works Clearinghouse]] 的主题特定综述协议把 SCD 列为可纳入的影响研究设计之一；[[Home Visiting Evidence of Effectiveness]] 也为 single case designs 设置单独标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.8–11]])。
 
 ## 内部效度与外部效度的关系
 

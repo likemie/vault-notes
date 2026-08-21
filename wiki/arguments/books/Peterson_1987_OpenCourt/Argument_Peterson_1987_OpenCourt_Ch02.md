@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 20
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -35,15 +35,21 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Praxis]]"
   - "[[International Education]]"
-  - "[[Flow]]"
+  - "[[Reliability]]"
+  - "[[Conatus]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Areas of Knowledge]]"
+  - "[[Scientific Method]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Knowledge Questions]]"
-  - "[[Reliability]]"
+  - "[[Predictive Validity]]"
   - "[[Champ]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
+  - "[[Fieldwork]]"
 related_instruments: []
 related_persons:
   - "[[Bob Leach]]"
@@ -53,6 +59,7 @@ related_persons:
   - "[[William Foote Whyte]]"
 related_facts:
   - "[[International Schools Examination Syndicate]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt]]"
 sources:

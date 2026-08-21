@@ -21,7 +21,6 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Teacher Beliefs]]"
   - "[[Knowledge Questions]]"
-  - "[[Document]]"
   - "[[Class Size]]"
   - "[[Internal Consistency]]"
 related_theories:
@@ -31,8 +30,8 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Bergeron_2019_JRIE]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
+  - "[[Argument_Bergeron_2019_JRIE]]"
 confidence: medium
 status: active
 created: 2026-08-06

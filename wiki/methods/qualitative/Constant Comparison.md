@@ -9,9 +9,9 @@ summary: "质性数据分析中把新获取数据与既有数据、类别和理�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -19,13 +19,15 @@ tags:
   - data-analysis
   - grounded-theory
 related_concepts:
+  - "[[Epistemology]]"
   - "[[Emergence]]"
   - "[[Analytic Induction]]"
 related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
-  - "[[Coding in Qualitative Research]]"
+  - "[[Theoretical Sampling]]"
   - "[[Content Analysis]]"
 related_persons: []
 related_facts: []

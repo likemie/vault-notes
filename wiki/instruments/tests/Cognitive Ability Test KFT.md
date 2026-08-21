@@ -24,19 +24,15 @@ tags:
   - intelligence
   - irt
 related_concepts:
-  - "[[Construct]]"
-  - "[[Operationalization]]"
-  - "[[Academic Achievement]]"
-  - "[[Certainty of Knowledge]]"
+  - "[[Variable]]"
+  - "[[Parallel-Forms Reliability]]"
 related_theories:
   - "[[Item Response Theory]]"
 related_methods:
-  - "[[Causal Modeling]]"
+  - "[[Rasch Measurement]]"
 related_instruments: []
-related_persons:
-  - "[[Ulrich Trautwein]]"
-related_facts:
-  - "[[TOSCA]]"
+related_persons: []
+related_facts: []
 related_arguments:
   - "[[Argument_Trautwein_2007_CEP]]"
 confidence: high

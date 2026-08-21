@@ -5,7 +5,7 @@ summary: "一种质性话语分析方法，通过批判性陪伴而非传统系�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -15,7 +15,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Discursive Opportunity Structures]]"
   - "[[Post-structuralism]]"
-  - "[[Epistemic Cognition]]"
   - "[[Governmentality]]"
   - "[[Praxis]]"
   - "[[Self-Entrepreneur]]"

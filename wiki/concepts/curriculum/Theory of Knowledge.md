@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 61
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -27,20 +27,21 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Ways of Knowing]]"
   - "[[Knowledge Framework]]"
+  - "[[Epistemic Stances]]"
   - "[[Construct]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
   - "[[Learner Autonomy]]"
   - "[[Extended Essay]]"
-  - "[[Champ]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Constructed Knowledge]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
+  - "[[Champ]]"
   - "[[Praxis]]"
   - "[[Class Size]]"
   - "[[Teacher Beliefs]]"
-  - "[[Encyclopaedism]]"
   - "[[Empty Knower]]"
   - "[[Bildung]]"
   - "[[Conatus]]"
@@ -63,6 +64,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Alec Peterson]]"
+  - "[[Gerard Renaud]]"
   - "[[Baruch Spinoza]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
@@ -71,6 +73,8 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
+  - "[[Argument_Peterson_1987_OpenCourt]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Darwish_2009_Queens]]"

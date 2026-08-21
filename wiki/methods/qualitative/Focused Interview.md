@@ -9,9 +9,9 @@ summary: "Merton & Kendall（1946）发展的访谈方法，研究者预先分�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 8
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
 related_methods:
   - "[[Non-directive Interview]]"
+  - "[[Content Analysis]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Qualitative Interview]]"
   - "[[In-depth Interview]]"

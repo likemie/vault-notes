@@ -8,7 +8,7 @@ summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_methods:
 related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Stephen Kemmis]]"
+  - "[[Keith Morrison]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft

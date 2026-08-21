@@ -7,7 +7,7 @@ aliases:
 summary: "以理解和解释独特个体案例为目标的方法论取向：核心关注解释和理解独特的、个别的情况而非普遍情况，是质性研究的方法论根基，与通则式相对"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
+  - "[[Narrative Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments:

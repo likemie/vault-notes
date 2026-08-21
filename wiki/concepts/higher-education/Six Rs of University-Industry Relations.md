@@ -4,7 +4,7 @@ aliases: ["产学关系六R框架", "6R框架", "IBM 6 Rs", "IBM six Rs", "six R
 summary: "IBM 用于组织产学投资的六领域框架，包括 Research、Readiness、Recruiting、Revenue、Responsibility、Regions，外加 Refresh 作为动态调适维度，每个领域配有对应的可量化度量指标"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,8 @@ related_persons:
   - "[[Jim Spohrer]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
 confidence: medium
 status: draft
 created: 2026-05-28

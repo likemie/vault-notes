@@ -9,7 +9,7 @@ aliases:
 summary: "多位独立评判者使用同一工具对相同对象评分时彼此一致的程度，是信度作为等值性的核心形式之一，在量化观察、质性编码、测验评分和访谈分析中均有对应操作"
 type: concept
 domain: "research-methodology"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Qualitative Research]]"
   - "[[Observation Method]]"
+  - "[[Content Analysis]]"
   - "[[Meta-analysis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"

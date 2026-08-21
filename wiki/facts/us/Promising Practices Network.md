@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -22,28 +22,32 @@ tags:
   - archived
   - region/us
 related_concepts:
+  - "[[Praxis]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Effect Size]]"
-  - "[[Sample Size Determination]]"
   - "[[Statistical Significance]]"
-  - "[[Internal Validity]]"
-  - "[[Construct Validity]]"
-related_theories:
-  - "[[Campbellian Validity Framework]]"
+  - "[[Sample Size Determination]]"
+  - "[[Chain of Evidence]]"
+related_theories: []
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Blueprints for Healthy Youth Development]]"
-  - "[[Best Evidence Encyclopedia]]"
   - "[[Open Court Reading]]"
   - "[[Peer-Assisted Learning Strategies]]"
+  - "[[Best Evidence Encyclopedia]]"
+  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[Communities in Schools]]"
+  - "[[Community Innovation Survey]]"
+  - "[[National Dropout Prevention Center]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high

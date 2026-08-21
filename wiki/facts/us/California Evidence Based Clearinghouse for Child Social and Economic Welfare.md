@@ -10,9 +10,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - cebc
@@ -23,24 +23,21 @@ tags:
   - region/us
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Attrition]]"
-  - "[[Effect Size]]"
-  - "[[Internal Validity]]"
-  - "[[Construct Validity]]"
+  - "[[Rating Scale]]"
+  - "[[Document]]"
+  - "[[Dependent Variable]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Systematic Review]]"
+  - "[[Cohort Study]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[What Works Clearinghouse]]"
   - "[[Blueprints for Healthy Youth Development]]"
-  - "[[Home Visiting Evidence of Effectiveness]]"
-  - "[[National Dropout Prevention Center]]"
   - "[[Success for All]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"

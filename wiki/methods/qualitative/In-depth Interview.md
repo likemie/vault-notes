@@ -8,7 +8,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 44
+method_related_count: 45
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Interview Protocol]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Narrative Analysis]]"
   - "[[Member Checking]]"
   - "[[Focus Group]]"
 related_persons:

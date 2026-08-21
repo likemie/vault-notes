@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 119
+argument_related_count: 120
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -143,6 +143,7 @@ related_methods:
   - "[[Convenience Sampling]]"
   - "[[Quota Sampling]]"
   - "[[Mixed Methods Research]]"
+  - "[[Constant Comparison]]"
   - "[[In-depth Interview]]"
 related_persons:
   - "[[Kurt Lewin]]"

@@ -10,10 +10,10 @@ aliases:
 summary: "以参照群体的分数分布为比较基准，用于判断个体的相对位置并区分表现差异。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/measurement
   - theme/assessment
@@ -24,6 +24,9 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Constructive Alignment]]"
 related_persons:
+  - "[[Louis Cohen]]"
+  - "[[Lawrence Manion]]"
+  - "[[Keith Morrison]]"
   - "[[John Biggs]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"

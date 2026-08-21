@@ -49,6 +49,7 @@ related_theories:
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Website Content Analysis]]"
+  - "[[Content Analysis]]"
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
@@ -68,7 +69,7 @@ title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_key: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"

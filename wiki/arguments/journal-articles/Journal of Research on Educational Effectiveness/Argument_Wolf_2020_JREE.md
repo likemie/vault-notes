@@ -13,7 +13,7 @@ title: "Argument_Wolf_2020_JREE"
 argument_key: "Argument_Wolf_2020_JREE"
 argument_display_title: "Average effect sizes in developer-commissioned and independent evaluations"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Developer Effect]]"
   - "[[Document]]"
+  - "[[Educational Evidence Clearinghouses]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"

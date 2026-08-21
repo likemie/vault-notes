@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
+  - "[[Theory of Mind]]"
   - "[[Paradigm]]"
   - "[[Governing by Numbers]]"
   - "[[Emergence]]"

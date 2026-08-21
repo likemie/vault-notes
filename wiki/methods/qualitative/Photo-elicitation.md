@@ -9,9 +9,9 @@ summary: "以一张或一组照片唤起受访者讨论、反思、评论、观�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -30,7 +30,9 @@ related_methods:
   - "[[Visual Research Methods]]"
   - "[[Group Interview]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Content Analysis]]"
   - "[[Grounded Theory]]"
+  - "[[Constant Comparison]]"
   - "[[Participatory Research]]"
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"

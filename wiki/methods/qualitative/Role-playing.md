@@ -8,7 +8,7 @@ summary: "一种让参与者有意识地扮演他人角色、在虚构情境中�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Focus Group]]"
+  - "[[Content Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Time Series Design]]"
 related_instruments: []

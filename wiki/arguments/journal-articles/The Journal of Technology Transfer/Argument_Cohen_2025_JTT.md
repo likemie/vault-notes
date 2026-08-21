@@ -11,7 +11,7 @@ title: "Argument_Cohen_2025_JTT"
 argument_key: "Argument_Cohen_2025_JTT"
 argument_display_title: "Measuring the impacts of university-industry R&D collaborations: a systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Longitudinal Study]]"
   - "[[Case Study]]"
   - "[[In-depth Interview]]"
+  - "[[Narrative Analysis]]"
   - "[[Focus Group]]"
   - "[[Cohort Study]]"
   - "[[Matching]]"

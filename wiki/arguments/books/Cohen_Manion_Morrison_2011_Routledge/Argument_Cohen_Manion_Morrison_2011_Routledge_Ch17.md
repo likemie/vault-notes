@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -86,6 +86,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
+  - "[[Content Analysis]]"
   - "[[Case Study]]"
 related_facts:
   - "[[EPPI-Centre]]"

@@ -5,10 +5,10 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 42
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
@@ -37,8 +37,9 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
-  - "[[Publication Bias]]"
   - "[[Ontology]]"
+  - "[[Publication Bias]]"
+  - "[[Interaction Effect]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
   - "[[Situative Perspective]]"
@@ -48,6 +49,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Three-Level Meta-Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -56,6 +58,7 @@ related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Sandoval_2016_RRE]]"
+  - "[[Argument_Song_Choi_2026_FPSYG]]"
 confidence: high
 status: draft
 created: 2026-08-17

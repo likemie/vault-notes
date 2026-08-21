@@ -10,7 +10,7 @@ aliases:
 summary: "以预先界定的标准或学习结果为判断依据，用于识别个体是否达标及其表现质量。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,9 @@ related_concepts:
   - "[[Item Analysis]]"
 related_persons:
   - "[[John Biggs]]"
+  - "[[Louis Cohen]]"
+  - "[[Lawrence Manion]]"
+  - "[[Keith Morrison]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
   - "[[Argument_Biggs_1999_HERD]]"

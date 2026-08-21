@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,23 +22,22 @@ tags:
   - archived
   - region/us
 related_concepts:
+  - "[[Document]]"
+  - "[[Causality]]"
+  - "[[Praxis]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Construct Validity]]"
+  - "[[Ecological Validity]]"
   - "[[Internal Validity]]"
-  - "[[Heterogeneity]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Intent-to-Treat Analysis]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[What Works Clearinghouse]]"
-  - "[[Blueprints for Healthy Youth Development]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high

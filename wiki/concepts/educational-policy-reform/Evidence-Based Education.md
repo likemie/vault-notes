@@ -53,8 +53,8 @@ related_concepts:
   - "[[Theory of Mind]]"
   - "[[Visible Learning]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Technology Infusion]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Technology Infusion]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"

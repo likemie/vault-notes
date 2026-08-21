@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 186
+argument_related_count: 188
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -79,6 +79,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Dependent Variable]]"
+  - "[[Epistemic Stances]]"
   - "[[Operationalization]]"
   - "[[Multiplicity]]"
   - "[[Construct]]"
@@ -92,6 +93,7 @@ related_concepts:
   - "[[Descriptive Research Question]]"
   - "[[Paradigm]]"
   - "[[Study Population and Sample]]"
+  - "[[Epistemic Aims]]"
   - "[[Self-report Bias]]"
   - "[[Ecological Validity]]"
   - "[[Big Ideas]]"

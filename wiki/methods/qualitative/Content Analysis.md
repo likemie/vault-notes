@@ -7,20 +7,30 @@ summary: "通过对开放性或质性文本进行阅读与判断、系统分类�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 6
-method_related_level: 0
-method_related_stars: ""
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - research-methodology
   - data-analysis
 related_concepts:
+  - "[[Hypothesis]]"
+  - "[[Research Purpose]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Epistemology]]"
+  - "[[Reflexivity]]"
+  - "[[Questionnaire]]"
   - "[[Memos]]"
+  - "[[Research Question]]"
+  - "[[Presence]]"
+  - "[[Emergence]]"
 related_theories: []
 related_methods:
-  - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Mixed Methods Research]]"
   - "[[Constant Comparison]]"
   - "[[Typological Analysis]]"
 related_persons: []

@@ -8,7 +8,7 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Heterogeneity]]"
   - "[[Critical Pedagogy]]"
+  - "[[Domain Specificity]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"

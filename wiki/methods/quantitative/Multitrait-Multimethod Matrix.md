@@ -11,9 +11,9 @@ summary: "Campbell & Fiske (1959) 提出的经典测量效度检验矩阵，通�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
 method_related_color: "#dcfce7"
 tags:
   - mtmm
@@ -25,27 +25,14 @@ tags:
   - psychometrics
 related_concepts:
   - "[[Construct Validity]]"
-  - "[[Convergent and Discriminant Validity]]"
-  - "[[Internal Validity]]"
-  - "[[External Validity]]"
-  - "[[Reliability]]"
-  - "[[Variable]]"
-  - "[[Operationalization]]"
-  - "[[Educational Evidence Clearinghouses]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Internal Consistency]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
-  - "[[Structural Equation Modeling]]"
   - "[[Pearson Product-Moment Correlation]]"
-  - "[[Quantitative Research]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[What Works Clearinghouse]]"
-  - "[[Blueprints for Healthy Youth Development]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Wadhwa_2024_RER]]"

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -102,6 +102,7 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
+  - "[[Content Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []

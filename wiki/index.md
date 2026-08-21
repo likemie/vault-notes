@@ -1993,7 +1993,7 @@ Total entries: **1890**
 > - [[American Attraction to Japanese Education 1980s]] — 1980 年代美国在经济竞争与危机叙事下对日本教育产生强烈跨国吸引力，白宫、教育部、学者和智库构成密集的改革话语网络，但受联邦分权结构制约，呈现高吸引力、低制度借用的特征
 > - [[APLU Innovation and Economic Prosperity Program]] — 美国公立与赠地大学协会（APLU）设立的认证项目，为在区域经济参与、增长和经济机会方面取得成功的大学提供官方认定
 > - [[Bayh-Dole Act of 1980]] — 1980 年美国联邦立法，规定联邦政府资助下在大学产生的知识产权归大学所有，为大学技术转移和产学合作奠定了核心法律框架
-> - [[Best Evidence Encyclopedia]] — 约翰斯·霍普金斯大学教育研究与改革中心（CRRE）创立的教育专精清算中心，以Robert Slavin倡导的最佳证据综合法与加权效应量（ES≥+0.20 SD）为核心。
+> - [[Best Evidence Encyclopedia]] — 约翰斯·霍普金斯大学教育研究与改革中心（CRRE）由Robert Slavin创立的教育专精证据清算中心，以最佳证据综合法（BES）、常规对照组要求及加权效应量（ES≥+0.20 SD）为核心，现已孵化演进为Evidence for ESSA决策平台。
 > - [[Blueprints for Healthy Youth Development]] — 科罗拉多大学博尔德分校行为科学研究所维护的多领域非营利证据清算中心，以强调独立评估者复制、12个月干预后持续效果和零医源性伤害的顶级门槛（Model Plus）著称。
 > - [[California Class Size Reduction 1996]] — 1996 年加州大规模推行的班额缩减政策，因教师与教室供给不足暴露出试点成功经验在全州扩张中的实施条件问题
 > - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 加利福尼亚州社会服务部（CDSS）资助建立的多领域公共证据清算中心，专注于儿童福利与教育干预，最高评级（Well-Supported）强制要求至少2项高质量RCT及干预后12个月持续效果。
@@ -2051,7 +2051,7 @@ Total entries: **1890**
 > - [[University of Illinois Research Park]] — 伊利诺伊大学的研究园区，执行主任同时兼任大学经济发展办公室主任，下设对外合作、孵化器 EnterpriseWorks、企业活动与创新外联等专职岗位，以整合组织架构链接产业伙伴与大学资源
 > - [[University of Kentucky Top-20 Plan]] — 肯塔基州立法机构指令赠地大学达到 Top-20 排名的战略计划，因 USNWR 评分惩罚招收弱势群体学生而失败，成为排名与使命冲突的经典案例
 > - [[US-China Economic and Security Review Commission]] — 美国国会设立的委员会，系统监控中美贸易关系的国家安全影响，Partaken 定位为中美 GPK 中美国方面的核心制度行动者
-> - [[What Works Clearinghouse]] — 美国教育部教育科学研究院（IES）2002年设立的联邦旗舰教育证据清算中心，累计资助超1亿美元，确立了以RCT/QED/RDD和Handbook审查手册为核心的因果推断标准。
+> - [[What Works Clearinghouse]] — 美国教育部教育科学研究院（IES）2002年依据ESRA设立的联邦旗舰教育证据清算中心，累计资助超1亿美元，确立了以RCT/QED/RDD和Handbook为核心的因果推断规程与ESSA证据认定基准。
 
 > [!index-list]- Organization (1)
 > - [[Innovation Institute for Food and Health]] — 2015 年 Mars and UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议

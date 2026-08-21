@@ -5,10 +5,10 @@ aliases:
 summary: "个体对认知的主观维度与客观维度的协调能力，表现为从绝对论、多元论到评价论的发展过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/epistemology
   - theme/cognitive-development
@@ -17,10 +17,13 @@ related_concepts:
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
+  - "[[Domain Specificity]]"
   - "[[Areas of Knowledge]]"
+  - "[[Critical Thinking]]"
   - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"

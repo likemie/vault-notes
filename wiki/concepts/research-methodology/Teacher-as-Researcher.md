@@ -7,7 +7,7 @@ aliases:
 summary: "由Stenhouse开创的运动，主张教师研究自身实践而非被外部研究者研究，将反思置于专业行动的核心，是行动研究中实践性类型的方法论基础"
 type: concept
 domain: "research-methodology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Emancipatory Action Research]]"
   - "[[Participatory Action Research]]"
 related_persons:
+  - "[[William Foote Whyte]]"
   - "[[Stephen Kemmis]]"
   - "[[Jürgen Habermas]]"
   - "[[Donald A. Schön]]"

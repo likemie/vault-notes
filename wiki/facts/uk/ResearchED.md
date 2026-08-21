@@ -7,7 +7,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -19,6 +19,7 @@ tags:
   - synthetic-phonics
   - region/uk
 related_concepts:
+  - "[[Theory of Mind]]"
   - "[[Evidence-Based Education]]"
   - "[[Praxis]]"
   - "[[Scientific Method]]"

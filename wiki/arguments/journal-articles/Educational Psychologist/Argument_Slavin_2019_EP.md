@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How Evidence-Based Reform Will Transform Research and Practice in Education"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Theoretical Standpoint]]"
   - "[[Evidence-Based Education]]"
+  - "[[Educational Evidence Clearinghouses]]"
   - "[[Learning Analytics]]"
   - "[[Effect Size]]"
   - "[[External Validity]]"

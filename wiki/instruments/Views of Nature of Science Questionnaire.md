@@ -13,10 +13,15 @@ administration_mode: self-report
 response_format: "open-ended"
 tags: [theme/nature-of-science, theme/epistemology]
 related_concepts:
+  - "[[Questionnaire]]"
+  - "[[Epistemology]]"
+  - "[[Construct]]"
   - "[[Formal Epistemology]]"
-  - "[[Epistemological Beliefs]]"
+  - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Semi-structured Interview]]"
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []

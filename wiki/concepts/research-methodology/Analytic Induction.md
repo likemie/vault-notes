@@ -6,7 +6,7 @@ aliases:
 summary: "Znaniecki (1934) 提出的质性研究策略：从数据生成理论后，主动寻找偏差或否证案例，通过反复修正理论直至其经得起严格检验。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Emergence]]"
   - "[[Progressive Focussing]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

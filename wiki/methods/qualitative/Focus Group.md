@@ -9,7 +9,7 @@ summary: "一种群体访谈方法，依赖小组成员围绕研究者提供的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_methods:
   - "[[Group Interview]]"
   - "[[Triangulation]]"
   - "[[Qualitative Research]]"
+  - "[[Content Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"

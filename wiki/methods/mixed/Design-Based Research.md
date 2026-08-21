@@ -10,7 +10,7 @@ summary: "以迭代循环为核心的研究方法论：在真实教育情境中�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Random Assignment]]"
+  - "[[Narrative Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments:

@@ -8,7 +8,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Praxis]]"
+  - "[[Educational Evidence Clearinghouses]]"
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"

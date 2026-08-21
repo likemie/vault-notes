@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 17
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -34,7 +34,9 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Growth]]"
   - "[[International Schools]]"
-  - "[[Reliability]]"
+  - "[[Assemblage]]"
+  - "[[Normal School]]"
+  - "[[Lost Mode]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,9 +44,10 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Kurt Hahn]]"
   - "[[Desmond Hoare]]"
+  - "[[William Foote Whyte]]"
+  - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts:
   - "[[Grammar School]]"
-  - "[[Founding of Atlantic College]]"
   - "[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]"
   - "[[International Schools Examination Syndicate]]"
 related_arguments: []

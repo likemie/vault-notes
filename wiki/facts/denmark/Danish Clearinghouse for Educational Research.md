@@ -21,9 +21,9 @@ tags:
   - theme/systematic-review
   - policy/evidence-informed-policy
 related_concepts:
+  - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
   - "[[Praxis]]"
-  - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"

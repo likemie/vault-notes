@@ -11,9 +11,9 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 65
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Review of Educational Research
 citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs. Review of Educational Research, 94(1), 3–32. https://doi.org/10.3102/00346543231152262"
@@ -32,12 +32,77 @@ tags:
   - construct-validity
   - program-evaluation
   - causal-inference
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Heterogeneity]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Praxis]]"
+  - "[[Construct Validity]]"
+  - "[[Reliability]]"
+  - "[[Construct]]"
+  - "[[Document]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Causality]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[Hypothesis]]"
+  - "[[Internal Validity]]"
+  - "[[Attrition]]"
+  - "[[Convergent and Discriminant Validity]]"
+  - "[[Operationalization]]"
+  - "[[Peer-Supported Learning]]"
+  - "[[Effect Size]]"
+  - "[[Clinical Trial]]"
+  - "[[Literature Search]]"
+  - "[[Direct Instruction]]"
+  - "[[Standard Error]]"
+  - "[[Variable]]"
+  - "[[Manipulation Check]]"
+  - "[[Statistical Significance]]"
+  - "[[Abstract]]"
+  - "[[Sample Size Determination]]"
+  - "[[Publication Bias]]"
+  - "[[Dependent Variable]]"
+  - "[[Academic Achievement]]"
+  - "[[Extended Essay]]"
+  - "[[Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[School Leadership]]"
+related_theories:
+  - "[[Campbellian Validity Framework]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Multitrait-Multimethod Matrix]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Quasi-Experimental Designs]]"
+  - "[[Experimental Research]]"
+  - "[[Time Series Design]]"
+  - "[[Intent-to-Treat Analysis]]"
+  - "[[Cluster Randomized Trials]]"
+  - "[[Random Assignment]]"
+  - "[[t-test]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Promising Practices Network]]"
+  - "[[Promise Neighborhoods Research Consortium]]"
+  - "[[Open Court Reading]]"
+  - "[[Success for All]]"
+  - "[[Peer-Assisted Learning Strategies]]"
+  - "[[Quantum Opportunity Program]]"
+  - "[[Communities in Schools]]"
+  - "[[Community Innovation Survey]]"
+  - "[[Campbell Collaboration]]"
+  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
+  - "[[Best Evidence Encyclopedia]]"
+  - "[[National Dropout Prevention Center]]"
+  - "[[Social Programs That Work]]"
+  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
+  - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
+  - "[[Blueprints for Healthy Youth Development]]"
+  - "[[Home Visiting Evidence of Effectiveness]]"
+  - "[[CNCS Evidence Exchange]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Partnership Schools Kura Hourua]]"
 related_arguments: []
 sources:
   - "[[sources/Wadhwa_2024_RER|Wadhwa_2024_RER]]"
