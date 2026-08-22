@@ -960,8 +960,7 @@
     "path": "wiki/concepts/curriculum/Extended Essay.md",
     "aliases": [
       "拓展论文",
-      "EE",
-      "extended essay"
+      "IB Extended Essay"
     ]
   },
   {
@@ -14765,6 +14764,17 @@
     ]
   },
   {
+    "title": "Estonian STEM Education Model",
+    "type": "fact",
+    "path": "wiki/facts/estonia/Estonian STEM Education Model.md",
+    "aliases": [
+      "爱沙尼亚科学教育模式",
+      "爱沙尼亚教育体系",
+      "Estonian STEM Education",
+      "Estonian Science Education"
+    ]
+  },
+  {
     "title": "Comparative Education Society in Europe",
     "type": "fact",
     "path": "wiki/facts/eu/Comparative Education Society in Europe.md",
@@ -16190,6 +16200,18 @@
     ]
   },
   {
+    "title": "Science Learning Centres Network",
+    "type": "fact",
+    "path": "wiki/facts/uk/Science Learning Centres Network.md",
+    "aliases": [
+      "科学学习中心网络",
+      "英国科学学习中心网络",
+      "Science Learning Centres",
+      "SLC Network",
+      "STEM Learning"
+    ]
+  },
+  {
     "title": "Selective Schools Expansion Fund",
     "type": "fact",
     "path": "wiki/facts/uk/Selective Schools Expansion Fund.md",
@@ -16242,6 +16264,16 @@
     "path": "wiki/facts/uk/What Works Network.md",
     "aliases": [
       "英国What Works网络"
+    ]
+  },
+  {
+    "title": "RAiSE Programme",
+    "type": "fact",
+    "path": "wiki/facts/uk/RAiSE Programme.md",
+    "aliases": [
+      "RAiSE",
+      "苏格兰科学教育抱负提升计划",
+      "Raising Aspirations in Science Education"
     ]
   },
   {
@@ -17426,16 +17458,6 @@
     "path": "wiki/arguments/books/QiMei_2015_EducationalResearchMethods/Argument_QiMei_2015_EducationalResearchMethods.md"
   },
   {
-    "title": "Argument_RoyalSociety_2026_ScienceForSociety",
-    "type": "argument",
-    "path": "wiki/arguments/books/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md"
-  },
-  {
-    "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch01",
-    "type": "argument",
-    "path": "wiki/arguments/books/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch01.md"
-  },
-  {
     "title": "Argument_Ryan_2010_ChineseLearner",
     "type": "argument",
     "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_ChineseLearner.md"
@@ -18099,6 +18121,16 @@
     "title": "Argument_Lester_2005_MIT",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md"
+  },
+  {
+    "title": "Argument_RoyalSociety_2026_ScienceForSociety",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md"
+  },
+  {
+    "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch01",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch01.md"
   },
   {
     "title": "Argument_OxfordUIDP_2019_UIPartnerships",

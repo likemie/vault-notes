@@ -145,7 +145,7 @@ issuing_organization: ""
 > **方向二：由 TOK 伦理探讨激发 CAS 行动**
 > 在 TOK 中阅读关于“过去曾被接受但如今被视为极度不道德的行为”的文章，并提出知识问题：“我们在多大程度上应当对过去的行为进行道德评判？”或“是否可能构建超越时间、文化和语境的道德原则？”这种在 TOK 中对道德评判的探究，可以直接转化为 CAS 中的行动灵感，例如设计一个“口述历史”社区项目，通过录音或宣传册与社区分享历史意识（Historical Consciousness）。
 
-> [!case] TOK 与 [[Extended Essay|EE]] 的认知迁移：从知识审查走向独立研究
+> [!case] TOK 与 EE 的认知迁移：从知识审查走向独立研究
 > **自然的研究方法链接**
 > TOK 探讨的“[[Knowledge Framework|知识框架]]”（Knowledge Framework）能直接帮助学生探索 EE 的[[Research Question|研究问题]]。特别是在[[Literature Review|文献回顾]]阶段，TOK 对信源[[Reliability|可靠性]]、有效性及证据评估的批判性审视，能够自然迁移至 EE 研究中。学校可通过安排图书馆员主持专题研讨，显性化这种从 TOK 到 EE 的技能转移。
 > 

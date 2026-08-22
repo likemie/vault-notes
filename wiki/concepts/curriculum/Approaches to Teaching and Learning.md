@@ -55,7 +55,7 @@ updated: 2026-08-11
 ## 核心要素
 
 > [!feature] 核心要素
-> - **通用技能底座** ATL 为学生提供研究、沟通、思考等工具，这些工具是连接不同学科以及核心组件（如 [[Theory of Knowledge|TOK]]、[[Creativity, Action, Service|CAS]]、[[Extended Essay|EE]]）的基础。
+> - **通用技能底座** ATL 为学生提供研究、沟通、思考等工具，这些工具是连接不同学科以及核心组件（如 [[Theory of Knowledge|TOK]]、[[Creativity, Action, Service|CAS]]、EE）的基础。
 > - **连贯性支撑** 教师通过在课堂上协同规划和应用 ATL，能够显著支持核心课程的连贯性，帮助学生理解跨学科的内在联系 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 221)]]。
 > - **与培养目标的联动** ATL 技能（如“思考”）直接服务于 [[International Baccalaureate|IB]] [[IB Learner Profile|学习者培养目标]]（如“思考者”），二者在日常教学中相辅相成。
 
@@ -85,7 +85,7 @@ updated: 2026-08-11
 ## 应用案例
 
 > [!evidence-grid] ATL 在[[Concurrency of Learning|并发学习]]中的应用
-> - **教师协同规划** 教师在跨学科协同备课时，利用 ATL 作为共同目标来设计教学活动，从而打破各核心组件（如 [[Extended Essay|EE]] 与 [[Theory of Knowledge|TOK]]）孤立运行的状态 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022)]]。
+> - **教师协同规划** 教师在跨学科协同备课时，利用 ATL 作为共同目标来设计教学活动，从而打破各核心组件（如 EE 与 [[Theory of Knowledge|TOK]]）孤立运行的状态 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022)]]。
 > - **定向培训** 学校在开设 TOK 和 [[Creativity, Action, Service|CAS]] 课程前，通过整合的 ATL 培训帮助师生建立对跨学科学习的初步共识 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 225)]]。
 
 ---

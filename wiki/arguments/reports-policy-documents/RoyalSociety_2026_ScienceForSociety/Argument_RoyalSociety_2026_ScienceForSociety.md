@@ -4,19 +4,17 @@ authors:
 source_language: en
 summary: "系统回顾自 1985 年《公众理解科学》（Bodmer 报告）发布 40 年来英国科学与社会关系的演进，从数字革命、人工智能、虚假信息与公众信任等宏观背景出发，确立公众科学参与作为科研全生命周期核心要素的战略定位，并提出跨教育、非正式参与、大众传媒、产业、政策及学术界的系统性行动框架。"
 type: argument
-subtype: monograph
-publication_type: book
+subtype: report
+publication_type: report
 title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
-argument_kind: "book"
+argument_kind: "report"
 argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
-argument_related_color: "#ede9fe"
-book_title: "Science for society: How society and science shape each other"
-publication_place: London
-publisher: The Royal Society
+argument_related_color: "#dcfce7"
+issuing_organization: The Royal Society
 year: 2026
 isbn: 978-1-78252-829-6
 citation: "The Royal Society. (2026). Science for society: How society and science shape each other. London: The Royal Society."
@@ -24,7 +22,7 @@ citation_aliases:
   - "The Royal Society, 2026b"
   - "The Royal Society (2026b)"
 tags:
-  - source/monograph
+  - source/report
   - theme/public-engagement
   - theme/science-communication
   - theme/science-policy
@@ -63,7 +61,7 @@ related_facts:
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 sources:
-  - "[[books/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
+  - "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 part_of:
 status: draft
 created: 2026-08-22
@@ -73,13 +71,13 @@ updated: 2026-08-22
 
 ---
 
-## 全书定位
+## 报告定位
 
 > [!monograph-profile] 报告档案
 > - **核心对象** 英国科学与社会的互动生态，涵盖科学教育、非正式科学学习、大众媒体与虚假信息、产业与第三部门、政府科技决策以及学术界科研人员的[[Public Engagement with Science|公众科学参与]]机制。
-> - **领导架构** 报告由[[Walter Bodmer|瓦尔特·博德默尔]]（Walter Bodmer）撰写前言回顾 40 年演进，由天体物理学家[[Carlos Frenk|卡洛斯·弗伦克]]（Carlos Frenk）与物理学家[[Sheila Rowan|希拉·罗文]]（Sheila Rowan）共同担任指导委员会联席主席主持全书研制。
+> - **领导架构** 报告由[[Walter Bodmer|瓦尔特·博德默尔]]（Walter Bodmer）撰写前言回顾自 1985 年公众理解科学（Public Understanding of Science, PUS）报告以来的 40 年演进，由天体物理学家[[Carlos Frenk|卡洛斯·弗伦克]]（Carlos Frenk）与物理学家[[Sheila Rowan|希拉·罗文]]（Sheila Rowan）共同担任指导委员会联席主席主持全书研制。
 > - **论证类型** 宏观政策评估与国家战略研究，结合全国民意调查、科研人员[[Questionnaire|问卷]]、纵向监测数据与跨领域[[Case Study|案例研究]]。
-> - **处理粒度** `chapter-arguments`。本篇为全书总览页，提炼导论、宏观背景与跨章综合，各章细节由独立章节 Argument 承载。
+> - **处理粒度** `chapter-arguments`。本篇为全报告总览页，提炼导论、宏观背景、全局方法与跨章综合，各章论证细节由独立章节 Argument 承载。
 > - **材料边界** 整合范围覆盖报告前言、序言、导论、执行摘要（pp. 1–15）及已处理的第一章（教育，pp. 29–40）。
 
 ---
@@ -122,12 +120,11 @@ updated: 2026-08-22
 
 > [!monograph-method] 全书综合研究方法与证据体系
 > - **顶层设计与工作组研讨** 由[[Carlos Frenk]]与[[Sheila Rowan]]领导的指导委员会设立六个专业工作组（教育、非正式参与、大众媒体、产业/第三部门、政策、学术界），开展多学科证据综合与跨界研讨。（pp. 5–8）
-> - **全国公众态度调查（PAS 2025）** 英国研究与创新署（UKRI）委托 Ipsos 与英国科学协会联合执行的全国代表性民意调查，测度公众对科学的信任度、信息需求、AI 态度与公平性认知。（pp. 9–13）
+> - **全国公众对科学的态度调查（Public Attitudes to Science Survey, PAS 2025）** 英国研究与创新署（UKRI）委托 Ipsos 与英国科学协会联合执行的全国代表性民意调查，测度公众对科学的信任度、信息需求、AI 态度与公平性认知。（pp. 9–13）
 > - **全国科研人员参与调查（Technopolis 2025）** 针对英国高校与科研机构一线研究人员的抽样调查，系统评估科研人员参与频次、参与动力、考评障碍与制度需求。（p. 10）
 > - **纵向教育追踪与教师职业调查** 皇家学会科学教育追踪调查（SET 2016–2023 纵向监测）与 2024 年科学教学调查（Science Teaching Survey 2024），追踪初高中实验课时滑坡与师资短缺态势。（pp. 32–35）
 > - **政策演进与国际比较** 深度解构 1985 年以来的国家政策演进，并对比[[OECD|经合组织]]（OECD）成员国及爱沙尼亚等高绩效科学教育体制的实践经验。（pp. 31, 36）
 > - **方法边界与适用性** 报告聚焦英国特定科研体制、资助架构（UKRI/[[Research Excellence Framework|REF]]）与教育分权体系，跨国比较与经验借鉴时须结合本土制度情境审慎调适。
-
 
 ---
 
@@ -174,7 +171,6 @@ updated: 2026-08-22
 > |---|---|---|
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|第1章 教育]] | 阐明科学教育作为公民科学素养与人才管道的基石，剖析科学素养转型、实验探究课时滑坡、后 16 岁过早专门化及师资专业发展困境。 | [[Scientific Literacy]]、[[Data Literacy]]、[[AI Literacy]]、[[Practical Inquiry in Science Education]]、[[Science Capital]]、[[Beyond 2000 Report]]、[[Twenty First Century Science]]、[[UK Science Education Tracker]] |
 
-
 ---
 
 ## 跨章综合
@@ -216,4 +212,4 @@ updated: 2026-08-22
 
 ## 来源
 
-- [[books/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]
+- [[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]

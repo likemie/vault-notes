@@ -99,10 +99,6 @@ Total entries: **210**
 > [!index-list]- QiMei_2015_EducationalResearchMethods (1)
 > - [[Argument_QiMei_2015_EducationalResearchMethods]] — 面向高等院校教师教育类专业本科生和研究生的教育研究方法入门教材，以七编十一章系统介绍研究选题、课题论证、各类研究方法和研究报告撰写
 
-> [!index-list]- RoyalSociety_2026_ScienceForSociety (2)
-> - [[Argument_RoyalSociety_2026_ScienceForSociety]] — 系统回顾自 1985 年《公众理解科学》（Bodmer 报告）发布 40 年来英国科学与社会关系的演进，从数字革命、人工智能、虚假信息与公众信任等宏观背景出发，确立公众科学参与作为科研全生命周期核心要素的战略定位，并提出跨教育、非正式参与、大众传媒、产业、政策及学术界的系统性行动框架。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]] — 系统论证中小学科学教育作为公众科学参与根基的战略价值，剖析科学素养从事实记忆向证据评估的转型、数据与 AI 素养的新要求，揭示实验动手探究课时大幅萎缩与后 16 岁过早专门化分科的双重危机，并提出重塑教师专业自主权与强化持续专业发展的应对路径。
-
 > [!index-list]- Ryan(Ed.)_2010_HKUP (3)
 > - [[Argument_Ryan_2010_ChineseLearner]] — Ch2 文献批判综述：西方对中国学习者“缺陷型“与“优势型“双重刻板印象的诊断，二元对立表格的建构，“儒家价值“归因的非实证性，2001 年中国课程改革使刻板印象过时，元文化敏感度作为替代路径
 > - [[Argument_Ryan_2010_HKUP]] — 论文集整体论证：国际教育快速增长与中国学习者核心角色，主张去本质化“中 国学习者“概念；九章三部分（理论奠基→香港国际学校→跨国高等教育）
@@ -401,6 +397,10 @@ Total entries: **210**
 
 > [!index-list]- MIT Industrial Performance Center (1)
 > - [[Argument_Lester_2005_MIT]] — 基于对 6 个国家 22 个地区的产业转型案例研究，提出大学对本地经济的四种差异化贡献模式，论证大学的经济贡献应与其所在地区的产业转型类型相匹配，反对一刀切的专利许可和创业孵化策略
+
+> [!index-list]- The Royal Society (2)
+> - [[Argument_RoyalSociety_2026_ScienceForSociety]] — 系统回顾自 1985 年《公众理解科学》（Bodmer 报告）发布 40 年来英国科学与社会关系的演进，从数字革命、人工智能、虚假信息与公众信任等宏观背景出发，确立公众科学参与作为科研全生命周期核心要素的战略定位，并提出跨教育、非正式参与、大众传媒、产业、政策及学术界的系统性行动框架。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]] — 系统论证中小学科学教育作为公众科学参与根基的战略价值，剖析科学素养从事实记忆向证据评估的转型、数据与 AI 素养的新要求，揭示实验动手探究课时大幅萎缩与后 16 岁过早专门化分科的双重危机，并提出重塑教师专业自主权与强化持续专业发展的应对路径。
 
 > [!index-list]- University of Oxford and University-Industry Demonstration Partnership (UIDP) (1)
 > - [[Argument_OxfordUIDP_2019_UIPartnerships]] — 基于 2019 年首届 Oxford UIDP Summit 149 名产学政高层讨论，识别大学-产业合作面临的十大关键议题，包括创新生态系统建设、新合作模式、超越传统伙伴、度量指标发展、AI 与数据驱动决策、国家研发目标、中介角色、多样性、人才流动和公众沟通

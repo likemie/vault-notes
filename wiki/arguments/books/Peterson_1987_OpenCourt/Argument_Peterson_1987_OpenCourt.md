@@ -127,7 +127,7 @@ updated: 2026-08-17
 > [!chapter-arc] 章节推进线
 > - **Ch. 1 — The [[Founding of Atlantic College]]** 从和平教育理念、行动与服务机制、创校领导、场地与资金、跨国共同生活及课程资格矛盾，解释第一个联合世界书院实验如何形成并产生国际共同资格的需要。
 > - **Ch. 2 — The [[Founding of the International Baccalaureate]]** 从 1925 年未实现的国际毕业考试设想出发，追踪教师网络、[[International Schools Examination Syndicate|国际学校考试辛迪加]]（[[International Schools]] Examination Syndicate，ISES）／[[International Baccalaureate|国际文凭]]办公室（International Baccalaureate Office，IBO）、基金会资助、六学科结构、英法双语与大学承认试验如何共同建立 IB。
-> - **Ch. 3 — From Educational Aims to a Curriculum and Examinations** 从全人教育目标出发，比较欧陆百科全书课程、英国过早专门化与美国大学通识传统，说明六学科、[[Paradigmatic Learning|范例学习]]、[[Extended Essay|EE]]、CASS、[[Theory of Knowledge|TOK]] 与强调[[Assessment Backwash|评估反拨]]的考试体系如何形成。
+> - **Ch. 3 — From Educational Aims to a Curriculum and Examinations** 从全人教育目标出发，比较欧陆百科全书课程、英国过早专门化与美国大学通识传统，说明六学科、[[Paradigmatic Learning|范例学习]]、EE、CASS、[[Theory of Knowledge|TOK]] 与强调[[Assessment Backwash|评估反拨]]的考试体系如何形成。
 
 > [!chapter-index] 章节索引
 > - **Ch. 1 — The Founding of Atlantic College** [[Argument_Peterson_1987_OpenCourt_Ch01]] — 大西洋学院的组织创办与课程难题。
@@ -148,7 +148,7 @@ updated: 2026-08-17
 > - **学校到资格** 大西洋学院采用英国普通教育证书高级程度考试的权宜方案，直接引出后续章节需要解决的国际课程与大学承认问题。
 > - **草根倡议到国际制度** [[International Baccalaureate|IB]] 创立过程的直接推动者是[[International Schools|国际学校]]教师。教师讨论只有在独立法律组织、连续资金、国际课程委员会、试验学校、家长风险承担和大学承认机制出现后，才转化为可运行的国际资格。
 > - **课程理念的复合来源** 六学科组平衡欧洲通识传统与英国专门化传统，双语安排回应英法教育体系，[[Theory of Knowledge|知识论]]来自法国必修哲学与跨学科共同课程的折中，单科证书则回应文凭项目可能形成精英隔离的担忧（第 2 章，pp. 24–31）。
-> - **课程结构的思想逻辑** 第 3 章进一步说明，六学科并非只为资格兼容而设，而是以学科分布提供广度、以共同核心＋深度范例提供深度；[[Extended Essay|EE]]、CASS and TOK 分别补入自主研究、直接经验和跨学科[[Epistemology|认识论]]反思（第 3 章，pp. 38–48）。
+> - **课程结构的思想逻辑** 第 3 章进一步说明，六学科并非只为资格兼容而设，而是以学科分布提供广度、以共同核心＋深度范例提供深度；EE、CASS and TOK 分别补入自主研究、直接经验和跨学科[[Epistemology|认识论]]反思（第 3 章，pp. 38–48）。
 > - **考试是课程的实施机制** IBO 没有国家教育系统的处方和督导能力，考试规则因此承担课程政策功能。评价设计不能只追求[[Reliability|可靠性]]，还要保护效度和正向反拨，再受成本与出分速度约束（第 3 章，pp. 34, 49–57）。
 
 > [!finding-cards] 综合发现

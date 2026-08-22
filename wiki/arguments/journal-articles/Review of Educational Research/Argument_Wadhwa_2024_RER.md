@@ -415,7 +415,7 @@ updated: 2026-08-22
 > - **改良版 EQOP 的评估差异** Blueprints 依据一项单一 RCT（Curtis & Bandy, 2015, 2016）将 EQOP 认证为“有望”（显示平均学分绩点 [Grade Point Average, GPA]、大学录取率提升，尽管存在未检验基线差异与未校正集群等缺陷）；而 CMFR 截至 2019 年初因检索不到任何已发表的同行评审期刊文献，直接判定为不予推荐。
 
 > [!chain-link] 案例五：校内社区（[[Communities in Schools]], CIS） —— 最大极性冲突（全面推荐 vs 彻底否决）
-> 全美规模最大的高危学生综合支持与预防辍学项目，被 5 个中心评估（NDPC, PPN, CNCS [[Extended Essay|EE]], Blueprints, CMFR），出现完全对立的极端分歧(p. 25)：
+> 全美规模最大的高危学生综合支持与预防辍学项目，被 5 个中心评估（NDPC, PPN, CNCS EE, Blueprints, CMFR），出现完全对立的极端分歧(p. 25)：
 > - **NDPC 强力推荐** 基于未公开具体篇目的多项学生级 RCT 和 1 项学校级 QED，宣称在辍学率、出勤率、GPA 和初中数学/阅读上全面有效。
 > - **PPN 与 CNCS EE 评为有望 / 中度支持** PPN（2009年）依据一项完全未进行任何匹配的跨地点准实验（Rossman & Morley, 1995）给出有望评级；CNCS EE 依据 Parise et al. (2017) 的 2 年期 RCT（改善非学业结果）与 Somers & Haider (2017) 的中断时间序列研究（ITS 显示干预组毕业率提升，但未超越对照组自然增长）评为中度支持。
 > - **Blueprints 与 CMFR 彻底否决（Not Endorsed / Inconclusive）** Blueprints 认为现有研究缺乏足够高质量 RCT/QED 或存在严重方法缺陷，判定为证据不确定；CMFR 因截至 2018 年初检索不到任何评估 CIS 的同行评审出版物而拒绝背书。

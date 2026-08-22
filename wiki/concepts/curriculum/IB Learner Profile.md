@@ -54,7 +54,7 @@ updated: 2026-08-17
 ## 定义
 
 > [!def] 核心定义
-> 学习者特征（[[International Baccalaureate|IB]] Learner Profile）是国际文凭教育的核心使命宣言，包含 10 项特质（如探究者、思考者、反思者、胸襟开阔者等），旨在培养具有国际情怀的[[Lifelong Learning|终身学习]]者。在课程[[Praxis|实践]]中，它不仅是单一学科的德育目标，更是贯穿于所有学术科目与核心组件（[[Theory of Knowledge|TOK]]、[[Creativity, Action, Service|CAS]]、[[Extended Essay|EE]]）的统一价值观，为跨学科[[Concurrency of Learning|并发学习]]提供了稳定的教育导向。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, pp. 227–228)]]
+> 学习者特征（[[International Baccalaureate|IB]] Learner Profile）是国际文凭教育的核心使命宣言，包含 10 项特质（如探究者、思考者、反思者、胸襟开阔者等），旨在培养具有国际情怀的[[Lifelong Learning|终身学习]]者。在课程[[Praxis|实践]]中，它不仅是单一学科的德育目标，更是贯穿于所有学术科目与核心组件（[[Theory of Knowledge|TOK]]、[[Creativity, Action, Service|CAS]]、EE）的统一价值观，为跨学科[[Concurrency of Learning|并发学习]]提供了稳定的教育导向。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, pp. 227–228)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者特征将抽象的教育使命（如国际情怀、[[Global Citizenship|全球公民]]）[[Operationalization|操作化]]为师生应具备的 10 个具体认知与行为特质。
