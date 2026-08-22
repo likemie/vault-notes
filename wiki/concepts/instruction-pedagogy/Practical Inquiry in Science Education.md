@@ -5,6 +5,7 @@ aliases:
   - 实验探究教学
   - practical work in science
   - enquiry-based learning
+  - hands-on practical work
 summary: "指学生通过亲自动手实验、野外考察和真实科学问题探究，体验知识生成过程、发展实证思维并加深对科学本质理解的教学实践"
 type: concept
 domain: "instruction-pedagogy"
@@ -18,14 +19,15 @@ tags:
   - theme/scientific-literacy
 related_concepts:
   - "[[Praxis]]"
-  - "[[Paradigm]]"
   - "[[Variable]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+related_facts:
+  - "[[UK Science Education Tracker]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # Practical Inquiry in Science Education
@@ -35,36 +37,51 @@ updated: 2026-08-22
 ## 定义
 
 > [!def] 核心定义
-> 科学教育中的[[Praxis|实践]]探究是指学生在教师和专业技术人员支持下，通过直接动手实验操作（Hands-on Practical Work）、课题探究、野外实地考察及与真实科研问题连接，体验科学作为一种创造性、协作性经验探究过程的教学[[Paradigm|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 33)]]
+> 科学教育中的[[Praxis|实践]]探究是指学生在教师与专业技术人员支持下，通过直接动手实验操作（Hands-on Practical Work）、长周期课题研究、野外生态考察以及与真实科研前沿连接，具身化体验科学知识生成、检验与修正过程的教学模式。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 33)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 科学的实证属性决定了科学知识建立在观察与实验之上；实践探究是将抽象原理转化为具身体验与探究技能的核心桥梁。
-> - **用途** 激发学生好奇心与内在动机，培养科学思维、团队协作与实验技能。
-> - **边界** 不等于机械遵照实验讲义的“菜谱式验证”，强调具有探究开放性与科学本质反思的高质量实践。
+> - **含义** 科学知识的实证属性决定了其必须建立在观察与实验之上；实践探究是将抽象数理公式转化为具身体验与实证反思的核心桥梁。
+> - **用途** 激发青少年对科学探索的内在好奇心，培养实验设计、数据采集、误差分析与团队协作技能。
+> - **边界** 坚决区别于机械遵照讲义操作的“菜谱式验证”（Recipe Following），强调具有探究开放性、[[Variable|变量]]控制思考与科学本质反思的高质量实践。
 
 ---
 
 ## 核心要素
 
-> [!feature] 核心要素
-> - **动手实验操作（Hands-on Practical Work）** 学生直接操纵仪器设备、观察现象并收集第一手数据。
-> - **真实问题探究（Authentic Inquiry）** 依托如 CREST Awards、IRIS 或科研合作项目解决具有现实意义的课题。
-> - **专业技术支持（Specialist Technician Support）** 实验技术人员提供安全保障、器材准备与专业指导，是探究得以实施的基础支撑。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 33)]]
+> [!feature] [[Praxis|实践]]探究的三大支撑支柱
+> - **课堂动手实验（Hands-on Laboratory Work）** 学生亲自操作仪器器材，在控制[[Variable|变量]]中观察现象并采集原始数据。
+> - **真实科研课题（Authentic Research Projects）** 依托如 CREST Awards、IRIS（学校科研研究所）等项目，让中学生直接参与解决现实科研与工程课题。
+> - **专业实验技术员队伍（Technician Support）** 实验技术人员提供安全规程、仪器调试与试剂准备，是探究实验开齐开足的基础支撑。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 33)]]
+
+---
+
+## 围绕概念形成的命题
+
+---
+
+### 命题一　应试大纲回忆导向与资源紧缩导致课堂动手实验课时严重萎缩
+
+> [!concept-lens] [[Praxis|实践]]教学的体制性困境
+> 当考试评价过度聚焦于事实回忆，且学校生均经费与技术员队伍受限时，耗时的动手探究最容易被讲实验与演示所替代。
+
+> [!claim] The Royal Society (2026)
+> **七年滑坡实证** [[UK Science Education Tracker|英国科学教育追踪调查]]（SET 2016–2023）表明，英格兰初中高年级学生双周动手实验率从 44% 断崖式降至 26%；大纲超载、应试回忆导向与实验耗材经费短缺构成三重主要根源。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 33)]]
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果
+> [!ref-table]- 动手实验频率监测数据（SET 2016–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英格兰 14–16 岁中学生（SET 2023） | 抽样调查监测 | 课堂动手实验频率 | 至少每两周一次动手实验比例从 2016 年 44% 下降至 2019 年 37%，并在 2023 年降至 26% | — | 反映了重知识记忆的课程大纲、资源经费削减及实验员短缺对[[Praxis\|实践]]探究的严重冲击 |
+> | 调查年份 / 监测指标 | 2016 年基线 | 2019 年中期 | 2023 年最新 | 7 年演进趋势与政策含义 |
+> |---|---|---|---|
+> | **14–16 岁动手实验双周率** | 44% | 37% | 26% | 暴跌 18 个百分点，实证探究教学面临系统性萎缩危机 |
+> | **课外真实探究项目获取率** | 少数学校 | 缓慢拓展 | 极度不均衡 | 依赖少数热心教师与外部赞助，亟需国家财政专项保障 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 系统揭示[[Praxis|实践]]探究课时萎缩的严峻现状，呼吁政府设立专项经费与评价改革予以保障。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 详尽揭示动手探究滑坡现状，呼吁通过大纲减负、设立专项实验耗材基金与稳定技术员队伍予以破局。

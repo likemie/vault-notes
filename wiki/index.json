@@ -821,7 +821,9 @@
     "type": "concept",
     "path": "wiki/concepts/curriculum/AI Literacy.md",
     "aliases": [
-      "人工智能素养"
+      "人工智能素养",
+      "批判性人工智能素养",
+      "AI and Critical Digital Literacy"
     ]
   },
   {
@@ -903,7 +905,8 @@
     "path": "wiki/concepts/curriculum/Data Literacy.md",
     "aliases": [
       "数据素养",
-      "数据素养教育"
+      "数据素养教育",
+      "Mathematical and Data Literacy"
     ]
   },
   {
@@ -4351,7 +4354,8 @@
       "科学教育中的实践探究",
       "实验探究教学",
       "practical work in science",
-      "enquiry-based learning"
+      "enquiry-based learning",
+      "hands-on practical work"
     ]
   },
   {
@@ -8872,7 +8876,9 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Science Capital.md",
     "aliases": [
-      "科学资本"
+      "科学资本",
+      "科学资本理论",
+      "science capital framework"
     ]
   },
   {
@@ -16255,7 +16261,8 @@
     "aliases": [
       "英国科学教育追踪调查",
       "Science Education Tracker",
-      "SET 2023"
+      "SET 2023",
+      "SET Survey"
     ]
   },
   {
