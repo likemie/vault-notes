@@ -1,11 +1,13 @@
 ---
-title: "Creativity, Action, Service"
+title: Creativity, Action, Service
 aliases:
   - CAS
   - 创意、行动、服务
   - 创意行动服务
   - Creativity Action Service
   - Creativity, Activity, Service
+  - CASS
+  - Creative, Aesthetic and Social Service
 summary: "国际文凭预科项目（IB DP）的三项必修核心要素之一，要求学生参与课堂之外的艺术创意、体育活动与社区服务体验，促进全人发展与体验式学习。"
 type: concept
 domain: "curriculum"

@@ -5,10 +5,10 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度；既包含国际理解的教育计划，也包含全球化推动的流动、比较和市场扩张。"
 type: concept
 domain: "higher-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - region/global
 - level/k12
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[International Education Hubs]]"
   - "[[Extended Essay]]"
+  - "[[Creativity, Action, Service]]"
   - "[[Assessment Backwash]]"
 related_theories: []
 related_methods: []
@@ -247,5 +248,5 @@ updated: '2026-08-17'
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Chs. 1–3)]] — 从大西洋学院的共同生活和服务[[Praxis|实践]]，追踪到教师倡议、独立组织、试验学校与大学承认，再说明国际教育目标如何转化为六学科、[[Extended Essay|拓展论文]]（Extended Essay，EE）、创造、审美与社会服务（Creative, Aesthetic and Social Service，CASS）、[[Theory of Knowledge|TOK]] 和强调[[Assessment Backwash|评价反拨]]的考试制度。
+> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Chs. 1–3)]] — 从大西洋学院的共同生活和服务[[Praxis|实践]]，追踪到教师倡议、独立组织、试验学校与大学承认，再说明国际教育目标如何转化为六学科、[[Extended Essay|拓展论文]]（Extended Essay，EE）、创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，[[Creativity, Action, Service|CASS]]）、[[Theory of Knowledge|TOK]] 和强调[[Assessment Backwash|评价反拨]]的考试制度。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 描述国际教育从国家绑定走向大众流动、全球比较、市场化和去国家化，并集中讨论文化预设、师资缺口与统计问题。

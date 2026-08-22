@@ -7,7 +7,7 @@ aliases:
 summary: "北欧福利国家制度的核心支柱，以民主、团结、社会公平和人人平等为原则，致力于通过公共均等化基础教育促进社会整合"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - social-welfare
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Teacher Professional Agency]]"
   - "[[Global Education Industry]]"
   - "[[Global Education Reform Movement]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -51,7 +52,7 @@ updated: '2026-07-09'
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向一套非竞争性、强调社会包容和福利国家整合的教育供给体系与平等主义价值体系。
 > - **用途** 帮助比较教育研究者分析战后北欧社会的公平驱动力，并用作评判新自由主义绩效导向改革（如以 [[PISA]] 评估为驱动的全球教育治理）对地方团结体制破坏的政策参照物。
-> - **边界** 它不是一个单一绝对标准的制度，而是北欧各国在相似的社会民主框架下对学校体制、学费减免及教师专业自主权的具体政策重组的总称。
+> - **边界** 它不是一个单一绝对标准的制度，而是北欧各国在相似的社会民主框架下对学校体制、学费减免及[[Teacher Professional Agency|教师专业自主权]]的具体政策重组的总称。
 
 ---
 

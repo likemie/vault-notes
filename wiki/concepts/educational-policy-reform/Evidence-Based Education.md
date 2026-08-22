@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 95
+related_count: 96
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Teacher Professional Agency]]"
   - "[[Epistemology]]"
   - "[[Tracking]]"
   - "[[Effect Size]]"
@@ -215,7 +216,7 @@ updated: 2026-07-13
 
 > [!warrant]- 支撑理由与反驳
 > 随机对照试验通过随机化将未测量的混淆变量均匀分配在干预组与对照组中，是目前社会科学确立因果推断[[Internal Validity|内部效度]]最强大的工具，能防止因"相关性不等于因果性"导致的无效改革。[[Argument_Slavin_2002_ER|Slavin (2002, pp. 15–16)]].
-> - *反驳观点*：教育是分层的开放系统。RCT 缺乏双盲和安慰剂机制，[[Pre-test and Post-test|前测]]失衡屡见不鲜；最关键的是，它将教师能动性这一产生效果的"必要机制"强行视为需要被控制的"污染源"，形成了逻辑悖论。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 5–6)]]; [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]].
+> - *反驳观点*：教育是分层的开放系统。RCT 缺乏双盲和安慰剂机制，[[Pre-test and Post-test|前测]]失衡屡见不鲜；最关键的是，它将[[Teacher Professional Agency|教师能动性]]这一产生效果的"必要机制"强行视为需要被控制的"污染源"，形成了逻辑悖论。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 5–6)]]; [[Argument_Biesta_2010_SPE|Biesta (2010, pp. 496–497)]].
 
 ---
 #### 隐含假设

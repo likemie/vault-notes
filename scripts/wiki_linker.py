@@ -198,6 +198,21 @@ class Term:
     text: str
     target: str
     is_alias: bool
+    entry_type: str = ""
+
+
+@dataclass(frozen=True)
+class PersonPrefixConflict:
+    shorter: Term
+    longer: Term
+
+
+@dataclass
+class PersonPrefixRegistry:
+    """Person terms where one known name is a lexical prefix of another."""
+
+    conflicts: tuple[PersonPrefixConflict, ...]
+    longer_terms: frozenset[Term]
 
 
 @dataclass
@@ -308,11 +323,47 @@ def make_terms(entries: list[Entry]) -> tuple[list[Term], dict[str, Entry], dict
             if key in seen:
                 continue
             seen.add(key)
-            terms.append(Term(text=text, target=e.title, is_alias=is_alias))
+            terms.append(Term(text=text, target=e.title, is_alias=is_alias, entry_type=e.type))
 
     # Longest first prevents linking "Culture" inside "World Culture Theory".
     terms.sort(key=lambda t: len(t.text), reverse=True)
     return terms, entries_by_title, path_to_title
+
+
+def is_person_prefix(shorter: Term, longer: Term) -> bool:
+    if shorter.entry_type != "person" or longer.entry_type != "person":
+        return False
+    if shorter.target == longer.target or len(shorter.text) >= len(longer.text):
+        return False
+    if not longer.text.casefold().startswith(shorter.text.casefold()):
+        return False
+
+    remainder = longer.text[len(shorter.text) :]
+    return bool(remainder and (remainder[0].isspace() or remainder[0] in ",.-–—()"))
+
+
+def build_person_prefix_registry(terms: list[Term]) -> PersonPrefixRegistry:
+    """Register cross-person prefix collisions such as Peterson, A. / Peterson, A. D. C."""
+
+    person_terms = [term for term in terms if term.entry_type == "person"]
+    conflicts: list[PersonPrefixConflict] = []
+    seen: set[tuple[str, str, str, str]] = set()
+
+    for shorter in person_terms:
+        for longer in person_terms:
+            if not is_person_prefix(shorter, longer):
+                continue
+            key = (shorter.text.casefold(), shorter.target, longer.text.casefold(), longer.target)
+            if key in seen:
+                continue
+            seen.add(key)
+            conflicts.append(PersonPrefixConflict(shorter=shorter, longer=longer))
+
+    conflicts.sort(key=lambda item: (item.shorter.text.casefold(), item.longer.text.casefold(), item.longer.target))
+    return PersonPrefixRegistry(
+        conflicts=tuple(conflicts),
+        longer_terms=frozenset(item.longer for item in conflicts),
+    )
 
 
 def entry_terms(entry: Entry) -> set[str]:
@@ -1040,6 +1091,7 @@ def link_plain_text(
     table_safe: bool = False,
     preferred_cjk_lengths: dict[int, int] | None = None,
     terms_by_first: dict[str, list[Term]] | None = None,
+    person_prefix_registry: PersonPrefixRegistry | None = None,
 ) -> tuple[str, int]:
     preferred_cjk_lengths = preferred_cjk_lengths or {}
     terms_by_first = terms_by_first or build_terms_by_first(terms, current_title)
@@ -1047,8 +1099,38 @@ def link_plain_text(
     i = 0
     new_chunk: list[str] = []
     while i < len(chunk):
+        bucket = terms_by_first.get(term_first_key(chunk[i]), [])
+
+        # Reserve the longest known person span before applying the
+        # once-per-section rule. Otherwise an already-linked longer person can
+        # be skipped and a shorter cross-person prefix can capture the start of
+        # the same name, e.g. Peterson, A. inside Peterson, A. D. C.
+        if person_prefix_registry:
+            protected_person: Term | None = None
+            for term in bucket:
+                if term not in person_prefix_registry.longer_terms:
+                    continue
+                if match_term_at(chunk, i, term.text):
+                    protected_person = term
+                    break
+
+            if protected_person is not None:
+                end = i + len(protected_person.text)
+                if (
+                    protected_person.target != current_title
+                    and protected_person.target not in already_linked
+                    and valid_boundary(chunk, i, end, protected_person.text)
+                ):
+                    new_chunk.append(link_text(protected_person.text, protected_person.target, table_safe=table_safe))
+                    already_linked.add(protected_person.target)
+                    additions += 1
+                else:
+                    new_chunk.append(chunk[i:end])
+                i = end
+                continue
+
         matched: Term | None = None
-        for term in terms_by_first.get(term_first_key(chunk[i]), []):
+        for term in bucket:
             if term.target == current_title or term.target in already_linked:
                 continue
             if contains_cjk(term.text) and preferred_cjk_lengths.get(i, 0) > len(term.text):
@@ -1080,6 +1162,7 @@ def link_table_row(
     already_linked: set[str],
     preferred_cjk_lengths: dict[int, int] | None = None,
     terms_by_first: dict[str, list[Term]] | None = None,
+    person_prefix_registry: PersonPrefixRegistry | None = None,
 ) -> tuple[str, int]:
     if is_markdown_table_separator_line(line):
         return line, 0
@@ -1111,6 +1194,7 @@ def link_table_row(
                     table_safe=True,
                     preferred_cjk_lengths=preferred_cjk_lengths,
                     terms_by_first=terms_by_first,
+                    person_prefix_registry=person_prefix_registry,
                 )
                 out.append(linked_cell)
                 additions += added
@@ -1138,6 +1222,7 @@ def link_unprotected_chunk(
     already_linked: set[str],
     preferred_cjk_lengths: dict[int, int] | None = None,
     terms_by_first: dict[str, list[Term]] | None = None,
+    person_prefix_registry: PersonPrefixRegistry | None = None,
 ) -> tuple[str, int]:
     out: list[str] = []
     additions = 0
@@ -1151,7 +1236,15 @@ def link_unprotected_chunk(
                 if offset <= start < offset + len(line)
             }
         if is_markdown_table_line(line):
-            linked_line, added = link_table_row(line, terms, current_title, already_linked, local_preferred, terms_by_first)
+            linked_line, added = link_table_row(
+                line,
+                terms,
+                current_title,
+                already_linked,
+                local_preferred,
+                terms_by_first,
+                person_prefix_registry,
+            )
         else:
             linked_line, added = link_plain_text(
                 line,
@@ -1160,6 +1253,7 @@ def link_unprotected_chunk(
                 already_linked,
                 preferred_cjk_lengths=local_preferred,
                 terms_by_first=terms_by_first,
+                person_prefix_registry=person_prefix_registry,
             )
         out.append(linked_line)
         additions += added
@@ -1167,7 +1261,13 @@ def link_unprotected_chunk(
     return "".join(out), additions
 
 
-def link_section(section: str, terms: list[Term], current_title: str, already_linked: set[str]) -> tuple[str, int]:
+def link_section(
+    section: str,
+    terms: list[Term],
+    current_title: str,
+    already_linked: set[str],
+    person_prefix_registry: PersonPrefixRegistry | None = None,
+) -> tuple[str, int]:
     additions = 0
     chunks = split_protected_spans(section)
     preferred = collect_preferred_cjk_lengths(section, terms, current_title)
@@ -1189,7 +1289,15 @@ def link_section(section: str, terms: list[Term], current_title: str, already_li
             for start, length in preferred.items()
             if offset <= start < offset + len(chunk)
         }
-        linked_chunk, added = link_unprotected_chunk(chunk, terms, current_title, already_linked, local_preferred, terms_by_first)
+        linked_chunk, added = link_unprotected_chunk(
+            chunk,
+            terms,
+            current_title,
+            already_linked,
+            local_preferred,
+            terms_by_first,
+            person_prefix_registry,
+        )
         out.append(linked_chunk)
         additions += added
         offset += len(chunk)
@@ -1230,6 +1338,7 @@ def link_body(
     source_pattern: re.Pattern[str] | None,
     source_links: dict[str, str],
     current_title: str,
+    person_prefix_registry: PersonPrefixRegistry | None = None,
 ) -> tuple[str, int]:
     sections = split_h2_sections(body)
     linked_sections: list[str] = []
@@ -1245,7 +1354,7 @@ def link_body(
         # Track links as we encounter them left-to-right so the first mention in
         # a ## section gets linked even when a later mention was already linked.
         already_linked: set[str] = set()
-        linked, added = link_section(section, terms, current_title, already_linked)
+        linked, added = link_section(section, terms, current_title, already_linked, person_prefix_registry)
         linked_sections.append(linked)
         additions += added
 
@@ -1260,6 +1369,7 @@ def sync_file(
     entries_by_title: dict[str, Entry],
     path_to_title: dict[str, str],
     author_map: dict[str, str],
+    person_prefix_registry: PersonPrefixRegistry,
     dry_run: bool,
     tables_only: bool = False,
 ) -> tuple[bool, int, int, int, int]:
@@ -1276,7 +1386,14 @@ def sync_file(
     else:
         linked_fm, yaml_added = link_yaml_author_fields(fm, author_map)
         cleaned_body, removed, cleaned_table_pipes = clean_invalid_links(body, entries_by_title)
-        linked_body, body_added = link_body(cleaned_body, terms, source_pattern, source_links, current_title)
+        linked_body, body_added = link_body(
+            cleaned_body,
+            terms,
+            source_pattern,
+            source_links,
+            current_title,
+            person_prefix_registry,
+        )
         added = yaml_added + body_added
         # Final guard: regardless of which chunks were protected or linked,
         # never write table rows with raw wikilink alias pipes.
@@ -1306,6 +1423,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     entries = load_entries()
     source_entries = load_source_entries()
     terms, entries_by_title, path_to_title = make_terms(entries)
+    person_prefix_registry = build_person_prefix_registry(terms)
     author_map = make_yaml_author_term_map(entries)
     for source in source_entries:
         entries_by_title.setdefault(source.title, source)
@@ -1323,6 +1441,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
             entries_by_title,
             path_to_title,
             author_map,
+            person_prefix_registry,
             dry_run,
             tables_only=tables_only,
         )
@@ -1346,6 +1465,12 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     print(f"Links removed: {stats.links_removed}")
     print(f"Table pipes escaped: {stats.table_pipes_escaped}")
     print(f"Heading styles normalized: {stats.heading_styles_normalized}")
+    print(f"Person prefix conflicts registered: {len(person_prefix_registry.conflicts)}")
+    for conflict in person_prefix_registry.conflicts:
+        print(
+            f"  {conflict.shorter.text} ({conflict.shorter.target}) -> "
+            f"{conflict.longer.text} ({conflict.longer.target})"
+        )
 
 
 def build_parser() -> argparse.ArgumentParser:

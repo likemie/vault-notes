@@ -7,7 +7,7 @@ summary: "英国哲学家、逻辑学家与数学家，分析哲学奠基人之�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -27,7 +27,6 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[William Foote Whyte]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts: []
 related_arguments:
@@ -42,7 +41,7 @@ updated: 2026-08-20
 ## 简介
 
 > [!info]
-> 伯特兰·罗素（1872–1970）是英国哲学家、逻辑学家、数学家和公共知识分子，分析哲学的奠基人之一。他与[[William Foote Whyte|怀特]]海（Alfred North Whitehead）合著的《数学原理》（*Principia Mathematica*，1910–1913）试图将全部数学还原为逻辑，是 20 世纪哲学最具雄心的智识工程之一。他写作面向大众的《哲学问题》（1912）和《西方哲学史》（1945）使哲学走出学院高墙，后者为他赢得了 1950 年诺贝尔文学奖。他终其一生是一位积极的社会活动家——反战、反核、批评宗教和威权。在 Li 第 2 章中，罗素扮演双重角色：他的 *A History of Western Philosophy* 是 Li 梳理西方智识传统的主要参考([[Argument_Li_2012_Cambridge|Li, 2012, p.57 脚注 3]])；他对数学知识特征的描述——"确定、精确、仅通过思维即可获得"——被 Li 直接引用来阐明西方以数学为模型的 知识确定性理想([[Argument_Li_2012_Cambridge|Li, 2012, p.24]])。
+> 伯特兰·罗素（1872–1970）是英国哲学家、逻辑学家、数学家和公共知识分子，分析哲学的奠基人之一。他与怀特海（Alfred North Whitehead）合著的《数学原理》（*Principia Mathematica*，1910–1913）试图将全部数学还原为逻辑，是 20 世纪哲学最具雄心的智识工程之一。他写作面向大众的《哲学问题》（1912）和《西方哲学史》（1945）使哲学走出学院高墙，后者为他赢得了 1950 年诺贝尔文学奖。他终其一生是一位积极的社会活动家——反战、反核、批评宗教和威权。在 Li 第 2 章中，罗素扮演双重角色：他的 *A History of Western Philosophy* 是 Li 梳理西方智识传统的主要参考([[Argument_Li_2012_Cambridge|Li, 2012, p.57 脚注 3]])；他对数学知识特征的描述——"确定、精确、仅通过思维即可获得"——被 Li 直接引用来阐明西方以数学为模型的 知识确定性理想([[Argument_Li_2012_Cambridge|Li, 2012, p.24]])。
 
 > [!warning]
 > 第 2 章对罗素本人的思想未做分析——他主要作为来源和引用对象出现。本条目目前以 Li 的引用为基础，罗素在逻辑哲学、语言哲学、[[Epistemology|认识论]]等领域的完整贡献需从其他来源补充。
@@ -53,7 +52,7 @@ updated: 2026-08-20
 
 > [!note]-
 > - **1872** — 出生于威尔士特雷勒克（Trellech）的贵族家庭。祖父约翰·罗素勋爵曾两度担任英国首相。三岁时父母相继去世，由祖母抚养
-> - **1890–1894** — 就读于剑桥大学三一学院，学习数学和哲学，深受麦塔格（McTaggart）和[[William Foote Whyte|怀特]]海影响
+> - **1890–1894** — 就读于剑桥大学三一学院，学习数学和哲学，深受麦塔格（McTaggart）和怀特海影响
 > - **1903** — 出版《数学的原理》（*The Principles of Mathematics*）
 > - **1910–1913** — 与怀特海合著三卷本《数学原理》（*Principia Mathematica*），试图从逻辑公理推导出全部数学
 > - **1912** — 出版《哲学问题》（*The Problems of Philosophy*），面向普通读者的哲学导论

@@ -888,7 +888,9 @@
       "创意、行动、服务",
       "创意行动服务",
       "Creativity Action Service",
-      "Creativity, Activity, Service"
+      "Creativity, Activity, Service",
+      "CASS",
+      "Creative, Aesthetic and Social Service"
     ]
   },
   {
@@ -1156,6 +1158,18 @@
       "sociomuseology",
       "sociomuseologia",
       "new museology"
+    ]
+  },
+  {
+    "title": "Sustainability Education",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Sustainability Education.md",
+    "aliases": [
+      "可持续发展教育",
+      "气候与生态素养",
+      "气候与可持续发展教育",
+      "Climate and Sustainability Education",
+      "Education for Sustainable Development"
     ]
   },
   {
@@ -2008,7 +2022,8 @@
       "核心素养",
       "key competencies",
       "21世纪技能",
-      "关键能力"
+      "关键能力",
+      "21世纪核心素养话语"
     ]
   },
   {
@@ -9030,6 +9045,18 @@
     ]
   },
   {
+    "title": "Teacher Professional Agency",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Professional Agency.md",
+    "aliases": [
+      "教师专业自主权",
+      "教师能动性",
+      "教师专业能动性",
+      "professional agency",
+      "teacher agency"
+    ]
+  },
+  {
     "title": "Confucian Learning Tradition",
     "type": "theory",
     "path": "wiki/theories/chinese-philosophy/Confucian Learning Tradition.md",
@@ -14144,7 +14171,6 @@
     "path": "wiki/persons/us/William Foote Whyte.md",
     "aliases": [
       "威廉·富特·怀特",
-      "怀特",
       "W. F. Whyte"
     ]
   },
@@ -15182,7 +15208,8 @@
     "path": "wiki/facts/global/PISA.md",
     "aliases": [
       "国际学生评估项目",
-      "Programme for International Student Assessment"
+      "Programme for International Student Assessment",
+      "国际学生评价项目"
     ]
   },
   {
@@ -16078,6 +16105,15 @@
     ]
   },
   {
+    "title": "CREST Awards",
+    "type": "fact",
+    "path": "wiki/facts/uk/CREST Awards.md",
+    "aliases": [
+      "CREST",
+      "Creativity in Science and Technology Awards"
+    ]
+  },
+  {
     "title": "EDEXCEL Perspectives on Science",
     "type": "fact",
     "path": "wiki/facts/uk/EDEXCEL Perspectives on Science.md",
@@ -16141,6 +16177,16 @@
     ]
   },
   {
+    "title": "Gatsby Benchmarks",
+    "type": "fact",
+    "path": "wiki/facts/uk/Gatsby Benchmarks.md",
+    "aliases": [
+      "盖茨比基准",
+      "盖茨比职业生涯指导基准",
+      "Gatsby Benchmarks of Good Career Guidance"
+    ]
+  },
+  {
     "title": "Grammar School",
     "type": "fact",
     "path": "wiki/facts/uk/Grammar School.md",
@@ -16164,6 +16210,16 @@
     "aliases": [
       "IEE",
       "有效教育研究所"
+    ]
+  },
+  {
+    "title": "Institute for Research in Schools",
+    "type": "fact",
+    "path": "wiki/facts/uk/Institute for Research in Schools.md",
+    "aliases": [
+      "IRIS",
+      "学校科研研究所",
+      "Institute for Research in Schools (IRIS)"
     ]
   },
   {

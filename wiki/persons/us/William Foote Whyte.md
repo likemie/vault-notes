@@ -2,7 +2,6 @@
 title: William Foote Whyte
 aliases:
   - 威廉·富特·怀特
-  - 怀特
   - W. F. Whyte
 summary: "美国社会学家，《街角社会》（Street Corner Society）作者，以参与式观察研究著称，晚年反思田野工作者的个人经验与反身性，并推动参与式行动研究"
 type: person

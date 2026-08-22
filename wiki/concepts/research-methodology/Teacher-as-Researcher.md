@@ -7,7 +7,7 @@ aliases:
 summary: "由Stenhouse开创的运动，主张教师研究自身实践而非被外部研究者研究，将反思置于专业行动的核心，是行动研究中实践性类型的方法论基础"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,6 @@ related_methods:
   - "[[Emancipatory Action Research]]"
   - "[[Participatory Action Research]]"
 related_persons:
-  - "[[William Foote Whyte]]"
   - "[[Stephen Kemmis]]"
   - "[[Jürgen Habermas]]"
   - "[[Donald A. Schön]]"
@@ -50,7 +49,7 @@ updated: 2026-07-19
 ## 定义
 
 > [!def] 教师即研究者（Teacher-as-Researcher）
-> 教师即研究者是由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）开创的一项运动，主张教师不应只是教育研究的对象或研究成果的被动消费者，而应成为自身[[Praxis|实践]]的研究者。教师自问：我看到的问题是什么、可能的解决方案是什么、我如何导向解决方案、我如何评价结果并采取后续行动（杰克·[[William Foote Whyte|怀特]]海德（Jack Whitehead）, 1985, p. 98）。琼·麦克尼夫（Jean McNiff, 2002a, p. 6）将其称为实践者本位研究（practitioner based research）——在某些研究形式中研究者对他人做研究，但在[[Action Research|行动研究]]中研究者是对自己做的（McNiff, 2002, p. 6）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 263, 269–270, 272)]]
+> 教师即研究者是由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）开创的一项运动，主张教师不应只是教育研究的对象或研究成果的被动消费者，而应成为自身[[Praxis|实践]]的研究者。教师自问：我看到的问题是什么、可能的解决方案是什么、我如何导向解决方案、我如何评价结果并采取后续行动（杰克·怀特海德（Jack Whitehead）, 1985, p. 98）。琼·麦克尼夫（Jean McNiff, 2002a, p. 6）将其称为实践者本位研究（practitioner based research）——在某些研究形式中研究者对他人做研究，但在[[Action Research|行动研究]]中研究者是对自己做的（McNiff, 2002, p. 6）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 263, 269–270, 272)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将教师从知识消费者的角色重新定位为[[Knowledge Production|知识生产]]者——教师通过系统性地审视自身课堂实践来生成关于教与学的知识。
@@ -81,7 +80,7 @@ updated: 2026-07-19
 在雪莉·格伦迪（Shirley Grundy, 1987）的三分类型学中，教师即研究者运动支撑**实践性行动研究（practical action research）**——它以教师的知情判断（informed judgment）为基础，是理解和诠释社会情境以改进实践的诠释学活动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 272)]]
 
 > [!tension] 个体 vs 集体之争
-> - **个体立场（[[William Foote Whyte|怀特]]海德（Whitehead）, 1985; 斯滕豪斯（Stenhouse）, 1975）** 行动研究可以是个体性的事务。教师自问自答——识别问题、寻找方案、实施干预、评价结果——构成了完整的行动研究循环。教师即研究者运动为课堂层面的专业改进提供了方法论基础。
+> - **个体立场（怀特海德（Whitehead）, 1985; 斯滕豪斯（Stenhouse）, 1975）** 行动研究可以是个体性的事务。教师自问自答——识别问题、寻找方案、实施干预、评价结果——构成了完整的行动研究循环。教师即研究者运动为课堂层面的专业改进提供了方法论基础。
 > - **集体立场（[[Stephen Kemmis|凯米斯]]与麦克塔格特（Kemmis & McTaggart）, 1992, p. 15）** "诉诸个人主义就是摧毁群体的批判动力。"受计划变革影响的人对决定改进方向负有首要责任——行动研究是群体活动，不是个体性的。
 
 奥亚与斯穆良（Oja & Smulyan, 1989, p. 14）从实用层面为合作行动研究辩护：教师如果参与了证明变革必要性和可行性的研究，更可能改变行为和态度——这是所有权和参与的问题。但教师即研究者传统坚持个体教师也可以在自身课堂中独立开展严谨的探究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 270)]]

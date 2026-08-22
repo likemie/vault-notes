@@ -11,7 +11,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - region/europe
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Teacher Professional Agency]]"
   - "[[Praxis]]"
   - "[[Scientific Literacy]]"
 related_theories: []
@@ -58,7 +59,7 @@ updated: 2026-08-23
 ## 模式核心与机制
 
 > [!claim] 模式核心
-> 爱沙尼亚科学教育的成功关键在于：在宽广宏观的国家课程框架下，赋予教师充分的专业自主权（Professional Agency）与教学灵活性，鼓励结合本土情境与跨学科探究开展富有激发性的课堂教学。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 36)]]
+> 爱沙尼亚科学教育的成功关键在于：在宽广宏观的国家课程框架下，赋予教师充分的专业自主权（[[Teacher Professional Agency|professional agency]]）与教学灵活性，鼓励结合本土情境与跨学科探究开展富有激发性的课堂教学。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 36)]]
 
 > [!policy-design]- 治理与教学机制
 > - **宏观宽大纲与去微观规制** 国家只界定核心学习成果与关键胜任力标准，彻底摒弃自上而下的微观进度规制，避免过度应试回忆，为一线留足探索空间。
@@ -71,4 +72,4 @@ updated: 2026-08-23
 
 > [!finding-cards] 国际评价与启示
 > - **卓越的 [[PISA]] 科学成就与教育公平** 爱沙尼亚在多次 [[OECD]] PISA 测评中均取得全欧洲第一的[[Scientific Literacy|科学素养]]与数学成绩，且家庭社会经济背景对学业的不利影响为经合组织内最低之一，实现了学术卓越与普惠公平的高效统一。
-> - **对英国师资改革的启示** 实证证明，提升教师专业自主权、社会地位与制度信任，是增强职业吸引力、稳定紧缺学科师资队伍的最具成本效益的战略支点。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 31, 36)]]
+> - **对英国师资改革的启示** 实证证明，提升[[Teacher Professional Agency|教师专业自主权]]、社会地位与制度信任，是增强职业吸引力、稳定紧缺学科师资队伍的最具成本效益的战略支点。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 31, 36)]]

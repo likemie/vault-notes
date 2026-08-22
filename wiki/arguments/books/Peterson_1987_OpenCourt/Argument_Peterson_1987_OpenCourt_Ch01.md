@@ -44,11 +44,11 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Kurt Hahn]]"
   - "[[Desmond Hoare]]"
-  - "[[William Foote Whyte]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts:
   - "[[Grammar School]]"
   - "[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]"
+  - "[[International School of Geneva]]"
   - "[[International Schools Examination Syndicate]]"
 related_arguments: []
 sources:
@@ -157,7 +157,7 @@ updated: 2026-08-17
 > - **流亡后：把机制移入不同机构** 哈恩在英国创办或推动戈登斯敦学校、外展训练运动、爱丁堡公爵奖，最后参与形成联合世界书院。这些机构反复设置有难度的真实任务，要求参与者发展技能、承担领导与接受领导，并让服务对象而非课堂口号检验责任。皮特森因此强调，哈恩的特殊能力是把愿景转化为组织，并最终让这些理念进入教学大纲与考试制度（pp. 2–3）。
 
 > [!info] 北约防务学院的制度背景
-> - **成立目的** 北约防务学院（NATO Defense College，NDC）由北约首任欧洲盟军最高司令德[[William Foote Whyte|怀特]]·艾森豪威尔（Dwight D. Eisenhower）倡议，1951 年 11 月 19 日在巴黎军事学校校舍内开设第一期课程。北约需要能够进入联盟关键岗位、理解共同防务整体问题的军官和文职官员，学院因而承担高级跨国人员培养任务。
+> - **成立目的** 北约防务学院（NATO Defense College，NDC）由北约首任欧洲盟军最高司令德怀特·艾森豪威尔（Dwight D. Eisenhower）倡议，1951 年 11 月 19 日在巴黎军事学校校舍内开设第一期课程。北约需要能够进入联盟关键岗位、理解共同防务整体问题的军官和文职官员，学院因而承担高级跨国人员培养任务。
 > - **学员与课程形态** 1950 年代的课程约为六个月，每期约五十人，主要招收中校或上校层级及同等军衔的三军军官，也包括少量文职官员。学员来自不同北约成员国，教学使用英语和法语，教职人员同样由多国军人与文职人员组成。
 > - **共同学习内容** 课程涵盖北约的组织与目标、联盟机构的工作方法，以及共同防务涉及的军事、经济、政治、社会和心理因素。各国人员需要解释本国制度、理解不同参谋程序与军事学说，并把国家经验放入联盟共同问题中讨论。
 > - **合作机制** NDC 把来自不同军种、国家和行政传统的高级人员置于同一期课程，使他们在持续接触中形成共同语言、工作关系和联盟视角。哈恩后来借鉴的正是这种组织形式：多国成员围绕无法由单一国家解决的问题共同工作，并在合作中形成关系。

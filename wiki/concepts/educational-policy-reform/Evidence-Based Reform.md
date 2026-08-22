@@ -5,7 +5,7 @@ aliases:
 summary: "以实验有效性证据作为选择教育项目和产品核心标准的改革框架，强调开发、评估、推广和政策激励之间的联动循环。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 69
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Research Question]]"
   - "[[Epistemology]]"
+  - "[[Teacher Professional Agency]]"
   - "[[Professional Judgment]]"
   - "[[Statistical Significance]]"
   - "[[Technology Infusion]]"
@@ -322,7 +323,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 
 ### 证据 vs. 专业判断：谁会最终做出决策？
 
-**争议背景**[[Argument_Slavin_2019_EP|Slavin (2019)]] 明确反对"证据知情"（evidence-informed）的弱版本——"教师难以将通用原则转化为有效实践，不使用结构化材料和专业培训就会退回惯常方法"。这一立场与 Hammersley (2005)、Biesta (2007a, 2010) 对教师专业自主权的辩护直接对立。
+**争议背景**[[Argument_Slavin_2019_EP|Slavin (2019)]] 明确反对"证据知情"（evidence-informed）的弱版本——"教师难以将通用原则转化为有效实践，不使用结构化材料和专业培训就会退回惯常方法"。这一立场与 Hammersley (2005)、Biesta (2007a, 2010) 对[[Teacher Professional Agency|教师专业自主权]]的辩护直接对立。
 
 **各方立场**
 - **[[Argument_Slavin_2019_EP|Slavin (2019)]]** 教师需要经过验证的结构化项目而非通用原则——"等待教师自行开发或发现有效方法是无效的"，政府应通过拨款激励学校采用已验证项目。

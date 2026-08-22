@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -56,9 +56,11 @@ related_persons:
   - "[[John Goormaghtigh]]"
   - "[[Alec Peterson]]"
   - "[[Gerard Renaud]]"
-  - "[[William Foote Whyte]]"
 related_facts:
   - "[[International Schools Examination Syndicate]]"
+  - "[[International School of Geneva]]"
+  - "[[International Schools Association]]"
+  - "[[Oxford Council of Europe Studies in Curriculum and Examinations]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt]]"
@@ -462,7 +464,7 @@ updated: 2026-08-17
 #### TOK 最初要解决的是知识割裂与思维迁移问题
 
 > [!claim] 通识教育培养多种思考方式
-> 早期 IB 改革者反对百科全书式通识教育：课程若只让学生在许多科目中记忆少量信息，容易产生阿尔弗雷德·诺思·[[William Foote Whyte|怀特]]海（Alfred North Whitehead）所说的惰性观念。他们把通识教育的目标改写为学会学习，即发展历史性、科学性、数学性、道德性和审美性思考的能力，并把这些能力用于新的问题。TOK 使各科隐含的认识规则成为可讨论对象，为六科课程增加跨学科统整。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 3, pp. 38–44)]]
+> 早期 IB 改革者反对百科全书式通识教育：课程若只让学生在许多科目中记忆少量信息，容易产生阿尔弗雷德·诺思·怀特海（Alfred North Whitehead）所说的惰性观念。他们把通识教育的目标改写为学会学习，即发展历史性、科学性、数学性、道德性和审美性思考的能力，并把这些能力用于新的问题。TOK 使各科隐含的认识规则成为可讨论对象，为六科课程增加跨学科统整。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 3, pp. 38–44)]]
 
 > [!challenges] TOK 针对的两项课程缺陷
 > 1. **学科成为密封隔间** 学生可能分别学习物理、历史、文学和心理学，却看不见它们解释问题的方式如何关联；考试结构还会强化这种隔离。

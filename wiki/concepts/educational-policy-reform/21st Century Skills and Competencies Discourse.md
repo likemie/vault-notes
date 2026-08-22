@@ -8,10 +8,11 @@ aliases:
   - key competencies
   - 21世纪技能
   - 关键能力
-summary: "由全球教育治理中的多边组织、国家政府和私营伙伴共同推动的技能话语，通过界定未来劳动力市场所需的关键能力来塑造教育政策与个体主体性，其核心特征包括4C技能的主导地位和对非认知能力的边缘化"
+  - 21世纪核心素养话语
+summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的技能话语，通过界定未来劳动力市场所需关键能力塑造教育政策与主体性，其特征包括4C认知技能主导、漂浮能指运作以及与学科认识论扎根的深层张力"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,300 +20,225 @@ tags:
   - theme/global-education-governance
   - theme/skills
   - theme/employability
+  - theme/stem-education
   - level/higher-education
-  - level/k-12
+  - level/k12
 related_concepts:
-  - "[[Graduate Attributes]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
+  - "[[Self-Entrepreneur]]"
+  - "[[Graduate Attributes]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Global Citizenship]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Global Policy Space]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Metacognition]]"
-  - "[[Floating Signifier]]"
-  - "[[Postmodernism]]"
-  - "[[Performativity]]"
-  - "[[Reflexivity]]"
-  - "[[Self-Entrepreneur]]"
-  - "[[Lifelong Learning]]"
-  - "[[Statistical Significance]]"
-  - "[[Praxis]]"
-  - "[[Technical Rationality]]"
-  - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Theoretical Perspective]]"
-  - "[[Going Native]]"
-  - "[[Data Reduction and Data Display]]"
-  - "[[Chain of Evidence]]"
-  - "[[Causality]]"
-  - "[[Operationalization]]"
+  - "[[Scientific Literacy]]"
+  - "[[Data Literacy]]"
+  - "[[Construct]]"
+  - "[[Big Ideas]]"
+  - "[[Metacognition]]"
+  - "[[Reflexivity]]"
+  - "[[Praxis]]"
+  - "[[Floating Signifier]]"
   - "[[Disciplina and Doctrina]]"
-related_theories: []
+  - "[[Theoretical Perspective]]"
+  - "[[Governmentality]]"
+  - "[[Competitiveness]]"
+  - "[[Hegemony]]"
+  - "[[Rote Learning]]"
+  - "[[Science Capital]]"
+  - "[[AI Literacy]]"
+  - "[[Paradigm]]"
 related_methods:
   - "[[Single-Case Design]]"
-  - "[[Systematic Review]]"
   - "[[Comparative Case Study]]"
   - "[[In-depth Interview]]"
-related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Beyond 2000 Report]]"
+  - "[[Twenty First Century Science]]"
+  - "[[UK Science Education Tracker]]"
 related_arguments:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Wong_2022_HERD]]"
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Argument_Beech_2009_CE]]"
-confidence: medium
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+confidence: high
 status: draft
-created: 2026-05-20
-updated: 2026-08-20
+created: "2026-05-20"
+updated: 2026-08-23
 ---
 
 # 21st Century Skills and Competencies Discourse
 
+---
+
 ## 定义
 
-> [!info] 核心定义
-> 21 世纪技能与素养话语（21st Century Skills and Competencies Discourse, [[Single-Case Design|SCD]]）是一套在全球层面运作的教育政策话语，旨在界定未来劳动力顺利参与劳动市场所需的关键能力和素养。该话语由国际组织、研究智库、国家政府和私营合作方共同塑造，其核心主张是：面对技术发展、自动化和数据交换（即工业 4.0）的快速推进，各国必须调整教育体系以培养具备特定关键技能的劳动力，从而保障社会稳定与经济增长([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.254]])。
+> [!def] 核心定义
+> 21 世纪技能与素养话语（21st Century Skills and Competencies Discourse, [[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（[[OECD]]）、世界经济论坛（WEF）、联合国教科文组织（UNESCO）、欧盟委员会及跨国商业智库共同塑造，旨在面对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估和课程重组规约各国的教育改革方向与个体的自我发展责任。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]
 
-SCD 中的技能和素养被理解为一个统摄性概念，涵盖知识社会中公民所需的知识、技能和性向（Voogt & Roblin, 2010, p.16; 引自 Zelinka, 2022, p.254）。作为一种全球话语，SCD 不仅引导各国和国家层面的教育政策制定其目标和议程([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.258]])，还深刻影响个体如何理解资格获取以及如何进行学校到工作、工作到工作的过渡。
+> [!concept-lens] 概念透镜
+> - **含义** 话语将关注焦点从宏观社会结构的再分配改革，转向个体技能与素养的终身积累，将青年与劳动者塑造为必须对自身[[Employability|就业能力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。
+> - **用途** 揭示全球教育政策趋同的修辞动力，批判以经济生产力与人力资本为单一维度的工具主义教育观。
+> - **边界** 区别于具体学科内的专业知识教学，SCD 侧重于超越学科门类的横向可迁移技能（Transversal / Generic Skills）；但若脱离具体学科知识脉络与实证探究载体，极易沦为抽象口号与技能空心化。
 
-> [!quote]
-> "shifting the focus from structural change towards the development of individual skills and competencies, making the subject duty-bound to acquire new and extend existing ones"（Parreira do Amaral & Zelinka, 2019; 引自 Zelinka, 2022, p.260）
+> [!boundary]- 概念边界与辨析
+> - **vs [[Graduate Attributes|毕业生特质]]** SCD 运作于全球与国家政策话语层，界定哪些通用能力具有市场合法性；毕业生特质则是高等院校对这些技能的制度化[[Transfer Translation Transformation|转译]]与课程操作。SCD 偏重经济竞争与劳动力预测，毕业生特质则兼顾学术传承与公民责任。[[Argument_Wong_2022_HERD|(Wong et al., 2022, p. 1341)]]
+> - **vs [[Employability|就业能力]]** 就业能力是 SCD 最核心的功利化目标，但 SCD 范围更广——它不仅定义就业技能，更建构了个体应当主动进行终身技能投资的主体性规范。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 260)]]
+> - **vs [[Global Citizenship|全球公民]]素养** SCD 框架系统性偏向与短期生产力直接挂钩的认知技能（如[[Critical Thinking|批判性思维]]、协作），而将全球公民、环境伦理、文化同理心与社会正义等非认知品质置于边缘位置。[[Argument_SpronkenSmith_2024_AEHE|(Spronken-Smith et al., 2024, pp. 89–90)]]
+
+---
+
+## 概念演变与话语谱系
+
+> [!dev-timeline] 话语演变与跨国扩散四阶段
+> - **阶段零（历史-物质起源） — 后福特主义生产组织转型**
+>   - 能力（Competence）概念源于企业管理由泰勒制向丰田制的转型，后福特主义劳动组织要求新型工人具备流程改善与团队协作能力；进入[[Global Policy Space|全球政策空间]]后，其具体的资本主义车间历史起源被抽象化为普世教育命题。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 353–355)]]
+> - **第一阶段（2000 年代初） — 美国国家框架主导**
+>   - enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking|批判性思维]]、创造力、协作、沟通）雏形，强调数字时代素养。
+> - **第二阶段（2010 年代） — 跨国协调与多边私营共建**
+>   - ATCS 跨国评估项目、美国 NRC 报告（2012）与世界经济论坛（WEF, 2016）加入，私营部门直接介入技能标准设定，确立标准化测量意图。
+> - **第三阶段（2010 年代末至 2020 年代初） — 全球指标趋同与产品下沉**
+>   - [[OECD]]《学习罗盘 2030》（2019）与欧盟八大关键素养高度同质化；[[PISA]] 通过创新领域（协作问题解决、创造性思维）实现跨国测量落地。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]
+> - **第四阶段（2020 年代中至今） — 智能时代交叉素养与学科[[Epistemology|认识论]]重构**
+>   - 面对大模型与生成式 AI 冲击，以英国皇家学会（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]]）为代表的科学界反思抽象技能空心化，提出将 21 世纪核心素养扎根于四大交叉支柱：**[[Scientific Literacy|科学素养]] + [[Data Literacy|数据素养]] + 批判性 AI 素养 + 气候生态素养**，要求贯穿融入基础学科与面向 18 岁的宽口径教育。
+
+---
+
+## 核心要素与框架对比
+
+> [!feature] 核心[[Construct|构念]]：主导认知的“四 C 核心”
+> - **[[Critical Thinking|批判性思维]]（Critical Thinking）** 证据评估、逻辑推理与辨析虚假信息的能力。
+> - **创造力（Creativity）** 产生新颖、适应性观念与发散性问题解决能力。
+> - **协作（Collaboration）** 团队分工、冲突协调与集体智能构建能力。
+> - **沟通（Communication）** 多模态表达、向多元受众清晰传递复杂思想的能力。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 257)]]
+
+> [!ref-table] 表：主要国际与前沿跨学科素养框架横向对比表
+> | 框架名称（发布年） | 主导机构 / 来源 | 核心素养分类与集群 | [[Epistemology\|认识论]]倾向与重点 |
+> |---|---|---|---|
+> | **P21 框架 (2009)** | 美国 21 世纪技能伙伴组织 | 基础学科核心、4C 学习创新技能、信息媒体技术、生活职业技能 | 奠定 4C 技能作为全球通用最小公分母的基础 |
+> | **WEF 技能框架 (2016)** | 世界经济论坛 | 基础素养（读写/数理/ICT/财商）、能力（4C）、性格品质（好奇心/韧性） | 劳动力市场直接需求导向，强调适应性与灵活性 |
+> | **OECD Learning Compass 2030 (2019)** | [[OECD\|经合组织]] | 变革性胜任力（创造新价值、调和张力、承担责任）、核心基础素养 | 强调学生能动性（Student Agency）与复合素养 |
+> | **欧盟关键素养框架 (2019)** | 欧盟委员会 | 读写、多语、数理科技、数字、个人社会与学会学习、公民、创业、文化表达 | 具备政策约束力的八大素养，统筹经济与社会包容 |
+> | **皇家学会交叉素养蓝图 (2026)** | 英国皇家学会 | [[Scientific Literacy\|科学素养]]（证据评估）、[[Data Literacy\|数据素养]]（风险概率）、AI 素养（放大非外包）、气候生态 | 纠正技能空心化，扎根于学科[[Big Ideas\|大概念]]与面向 18 岁宽口径大纲（p. 31） |
+
+> [!warning] 话语中被系统性边缘化的素养
+> 与 4C 认知技能的高调霸权相比，以下维度在主流 [[Single-Case Design|SCD]] 政策中遭遇系统性边缘化：
+> - 基础读写与深层文本阅读（Basic Literacy）
+> - 环境素养与生态伦理（Environmental Literacy）
+> - 人际同理心与社会情感技能（Social-emotional Skills）
+> - [[Metacognition|元认知]]与批判性哲学反思（Metacognition & Epistemic [[Reflexivity]]）
+> - 具身动手实验与野外[[Praxis|实践]]探究（Hands-on Practical Inquiry）[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 257–258)]]
+
+---
+
+## 围绕概念形成的命题
+
+---
+
+### 命题一　核心素养在全球政策空间中作为“漂浮能指”运作，以高度可塑性促成跨意识形态趋同
+
+> [!concept-lens] [[Floating Signifier|漂浮能指]]机制
+> 核心素养之所以能同时被立场迥异的国际多边机构和各国政府全盘接受，并非源于实质性教育哲学共识，而是因为概念在剥离具体历史情境后成为高度抽象的符号容器。
+
+> [!claim] 漂浮能指与全球同质化趋同
+> **抽象化与权威光环** 能力话语的可塑性使其能适应不同国家的文化与意识形态包装，而其稳定性的权威光环使其成为不可质疑的现代化政策象征；话语越空泛，能填充的语境越多，进而促成了全球范围内的强制同质化。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 353–355)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 258)]]
+
+---
+
+### 命题二　通用技能若脱离学科大概念与实证探究载体，将不可避免地导致“技能空心化”与实践断裂
+
+> [!concept-lens] [[Epistemology|认识论]]扎根与[[Big Ideas|大概念]]
+> [[Critical Thinking|批判性思维]]、协作与[[Data Literacy|数据素养]]无法在真空中习得；若脱离具体学科的认识论逻辑与真实[[Praxis|实践]]，技能训练将沦为虚幻的形式主义。
+
+> [!claim] 学科认识论锚定与大概念融合
+> **学科认识论锚定** 21 世纪核心素养必须扎根于具体学科的核心概念（Big Ideas）与实证探究（Practical Inquiry），通过解决空气污染、流行病、气候变化等真实社会科学争议（SSI）获得具身体验，而非架空为脱离知识的抽象技巧清单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 30–33)]]
+
+---
+
+### 命题三　技能话语通过自我企业家逻辑生产出“愿意主体”，将结构性失业隐蔽地转嫁为个体能力缺陷
+
+> [!concept-lens] 主体性[[Disciplina and Doctrina|规训]]
+> 话语将经济转型中的劳动风险完全个体化，创造出时刻准备自我更新的理想员工形象。
+
+> [!claim] 愿意主体生产与[[Self-Entrepreneur|自我企业家]]规训
+> **愿意主体与不愿主体** [[Single-Case Design|SCD]] 确立了不断学习新技能的“愿意主体”（[[Self-Entrepreneur|自我企业家]]）为规范标准，并将未能适应市场变迁的群体标记为“不愿主体”或“可弃置个体”，使国家免于承担解决劳动力市场结构性不平等的根本责任。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 260–261)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | [[Theoretical Perspective\|理论视角]] | 关键学者 / 来源 |
+> |---|---|---|---|
+> | **漂浮能指命题** | 概念抽象化促成全球政策同质化趋同 | 话语社会学 / [[Global Policy Space\|全球政策空间]] | [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]] |
+> | **认识论扎根命题** | 批判抽象技能清单，倡导学科大概念与探究融合 | 科学教育学 / 课程认识论 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] |
+> | **自我企业家主体性** | 将结构性经济风险转化为个体自我责任化 | 批判社会学 / 福柯[[Governmentality\|治理术]] | Bröckling (2015); Zelinka |
+
+---
+
+## 话语机制与主体性生产
+
+> [!factors] 四大深层话语运作机制
+> - **强制同质化（Coercive Homogenisation）** 跨国智库与评估机构界定统一的技能公分母，隐性剥夺了多元地方性知识与非功利技能的合法性。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 258)]]
+> - **个体化与竞争性（Individualisation & [[Competitiveness]]）** competence 与 compete 同根，素养获取预设了个体时刻响应外部市场成功的持续竞争准备。
+> - **自然必然性的自我呈现（Naturalised Inevitability）** 将技能框架呈现为不可抗拒的历史必然事实，掩盖了对未来劳动力需求预测的极高不确定性。
+> - **新自由主义地缘政治（Geopolitical [[Hegemony]]）** 通过跨国基准与指标排名，巩固全球北方对教育现代化定义权的地缘控制。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 259)]]
+
+> [!dimension] 主体性生产的三组核心张力
+> - **愿意主体 vs 不愿主体** 赞美展现无限增长与加速意愿的“[[Self-Entrepreneur|自我企业家]]”，将失业与贫困归咎于个体的不愿参与技能升级。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 261)]]
+> - **结果导向素养 vs 品质本位素养** 主流框架聚焦可量化的就业结果素养，严重忽视以人格完整、同理心、脆弱性关怀（Vulnerability）为核心的品质本位素养。
+> - **全球经济增长 vs 区域社会包容** 全球普适框架无法响应欠发达地区因人口、产业和后殖民语境产生的特殊生存与发展需求。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 263)]]
+
+---
+
+## 实证证据与实践断裂
+
+> [!stat-cards]- 核心量化实证发现
+> - **4.4 vs 2.9** 博士教育在研究批判技能上均值达 4.4/5，但在协作（2.9/5）与跨界沟通（3.7/5）上存在系统性断裂（Spronken-Smith et al., 2024）。
+> - **44% → 26%** 英国中学生动手实验双周率断崖暴跌 18 个百分点，暴露出政策大谈 21 世纪探究技能与课堂事实[[Rote Learning|死记硬背]]（[[Rote Learning]]）并存的讽刺现实（SET 2016–2023, p. 33）。
+> - **2.8/5** 环境素养与[[Global Citizenship|全球公民]]特质在多国毕业生发展感知中常年位居绝对垫底（Spronken-Smith et al., 2024, pp. 89–90）。
+
+> [!ref-table]- [[Praxis|实践]]层面的[[Transfer Translation Transformation|转译]]分化与技能缺口
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> 将关注点从结构变革转向个体技能和素养的发展，使主体有义务获取新能力并扩展现有能力。
+> | 调查情境 / 样本 | 研究方法 | 监测指标 / 现象 | 关键实证发现 | 解释边界与理论含义 |
+> |---|---|---|---|---|
+> | 美新三国 136 名 PhD 校友 | [[Comparative Case Study\|比较案例研究]] | 4C 技能与可迁移特质感知 | 团队合作（2.9/5）与非学术沟通存在巨大缺口，环境素养（2.8/5）严重边缘化 | SCD 话语对高等教育最高阶段的学科规训文化缺乏渗透力（Spronken-Smith et al., 2024） |
+> | 阿根廷与巴西教师教育者 | [[In-depth Interview\|深度访谈]] | 对能力课程标准的转译理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology\|认识论]]大杂烩 | 全球[[Floating Signifier\|漂浮能指]]的可塑性在课堂教学转化中变为概念混乱（Beech, 2009, pp. 358–359） |
+> | 英格兰 11–18 岁中学生（SET） | 纵向追踪调查 | 课堂动手实验频率与[[Science Capital\|科学资本]] | 动手实验率从 44% 暴跌至 26%，高 SES 家庭科学资本与抱负优势扩大 | 考试事实回忆过载与经费短缺导致探究技能无法落地（Royal Society, 2026a, p. 33） |
 
 ---
 
-## 概念辨析
+## 争议与学术批评
 
-> [!example] 与邻近概念的关系
-> - **vs [[Graduate Attributes|毕业生特质]]** [[Single-Case Design|SCD]] 运作于全球政策层面，由国际组织和跨国伙伴主导框架制定，界定哪些技能值得拥有；毕业生特质是大学层面对这些技能的制度化操作，将全球话语转化为具体的培养目标和课程设计。SCD 是话语层，毕业生特质是实施层。两者在内容上高度重叠（如 4C 技能），但驱动逻辑不同：SCD 更偏向经济竞争力和劳动力市场预测，毕业生特质则同时包含公民责任和终身发展维度([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1341]])。
-> - **vs [[Employability|就业能力]]** 就业能力是 SCD 的核心目标之一，但 SCD 的范围更广——它不仅定义什么是就业能力，还塑造个体如何看待自己的技能获取责任([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
-> - **vs [[Global Citizenship|全球公民]]** SCD 聚焦经济生产力导向的技能（[[Critical Thinking|批判性思维]]、协作等），全球公民则强调跨文化沟通、社会正义和环境伦理。在 SCD 框架中，全球公民类技能（环境素养、文化理解）处于系统性边缘地位([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.257–258]])；博士层次的实证数据同样显示，全球公民属性是发展感知最低的特质组([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.89–90]])。
-> - **vs 人力资本理论** 二者共享教育投资带来经济回报的基本[[Hypothesis|假设]]，但 SCD 更进一步：它不仅认为技能有经济价值，还通过框架的制定和推广界定了哪些技能有价值和哪些没有，从而塑造全球教育治理的方向([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.258–259]])。
-
----
-
-## 概念演变
-
-> [!note]- 话语的历史-物质起源
-> 能力概念进入教育话语之前，有其特定的历史-物质起源。[[Argument_Beech_2009_CE|Beech (2009)]]追溯了这一谱系：能力一词来自企业管理和职业培训领域，与二战后从泰勒制到丰田制的生产组织转型密切相关。在泰勒制工厂中，工人只需执行标准化操作，不需要理解整个生产流程；丰田制则要求工人能够识别问题、与团队协作改进流程。能力就是描述后一种工作方式所需要的素养。这一概念在[[Document|文献]]中被公认与后福特主义劳动组织对具备智力和人际技能的新型工人的需求直接相关([[Argument_Beech_2009_CE|De Ketele, 2008, 引自 Beech, 2009, pp. 353–354]])。
+> [!debates] 学术争议焦点
 >
-> OECD（1990, pp. 100–101）对传统学校知识的批判性描述构成了能力话语进入教育的直接推力。在 [[OECD]] 的描述中，传统教学是一件简单的事——教师拥有知识并将其打包呈现，学生记忆并在考试中复现，正确和错误的答案可以轻易识别。能力概念被树立为这一模式的对立面：学生应积极参与并发展对知识采取行动的能力([[Argument_Beech_2009_CE|UNESCO, 1996, 引自 Beech, 2009, p. 353]])。
+> > [!axis] 核心素养话语的三重理论批判
+> >
+> > - **[[Epistemology|认识论]]批判（Epistemic Critique）** 批判技能话语试图抽离具体知识内容，假定存在一套通用的、脱离学科语境的独立思维技能；然而认知科学与科学教育表明，深度思维必须依赖扎实的领域专业知识与[[Big Ideas|大概念]]支撑（Royal Society, 2026a; Millar & Osborne, 1998）。
+> > - **政治经济学与治理批判（Critical Political Economy）** 指责 [[Single-Case Design|SCD]] 充当了新自由主义资本重构与教育商品化的意识形态遮羞布，通过“数据治理”剥夺了教师的专业自主权，并将教育公共品属性窄化为纯粹的劳动力技能供应（Zhao, 2020; Sjøberg, 2015）。
+> > - **人文主义与全人发展批判（Humanistic Critique）** 抨击结果导向素养将生命意义、同理心、审美与公民民主参与等崇高价值剔除出教育中心，造成人性的单向度工具化（Zelinka, 2022; McLeod, 2012）。
+
+---
+
+## 相关条目
+
+> [!entry-map]
 >
-> 然而，一旦能力概念进入[[Global Policy Space|全球政策空间]]，这些具体的历史起源——泰勒制、丰田制、后福特主义劳动组织——就被模糊化了。能力被抽象为一个关于 21 世纪学习者应该具备什么素养的普遍教育命题。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 353–355)]]
-
-> [!note]- 从国家框架到全球话语
-> [[Single-Case Design|SCD]] 的兴起与三个宏观趋势相关。一是**[[Knowledge-Based Economy|知识经济]]的崛起**——20 世纪 90 年代末，政策制定者开始认为传统的学科知识不足以应对快速变化的经济环境，需要界定一套跨领域的通用技能。二是**国际评估的扩张**——[[PISA]] 等跨国比较项目的成功激发了哪些能力可以被测量和比较的政策想象。三是**教育治理的全球化**——[[OECD]]、世界经济论坛和欧盟委员会等组织逐步成为教育政策议程的设置者，其发布的技能框架对各国的课程改革产生了实质性影响([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.254–255]])。
->
-> 在时间线上，SCD 经历了三个阶段。**第一阶段（2000 年代初）**以美国为主导：enGauge（2003）和 P21（2009）是最早的系统性框架，前者强调数字时代素养，后者提出 4C 概念雏形。**第二阶段（2010 年代）**转向跨国协调：ATCS（2012）和美国国家研究委员会（2012）试图建立跨国的评估标准；世界经济论坛（2016）的加入标志着私营部门开始直接参与技能框架的制定。**第三阶段（2010 年代末至今）**呈现出全球趋同：OECD（2019）和欧盟委员会（2019）的框架尽管来自不同治理传统，但核心技能列表高度一致([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.254]]; Chalkiadaki, 2018)。
->
-> 博士层次的 SCD 讨论起步更晚。Senekal, Munnik, and Frantz（2022）对 2016–2021 年间 35 篇论文的[[Systematic Review|系统综述]]是首次将博士[[Graduate Attributes|毕业生特质]]纳入类似框架的尝试，识别出十个领域([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在此基础上提出的七域分类——知识、研究、沟通、人际、高阶思维、个人应变能力、[[Global Citizenship|全球公民]]——则是将 21 世纪技能话语与博士教育对接的最新努力（p.98）。
-
----
-
-## 核心要素
-
-> [!abstract] 框架构成
-> 各国际框架尽管发布主体和时间跨度不同，但在核心技能的选择上呈现高度趋同。以下按主题层次组织。
-
-### 主导技能：四 C 核心
-
-在各框架中居于绝对主导地位的四项认知能力([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.257]])：
-- **[[Critical Thinking|批判性思维]]（critical thinking）**
-- **创造力（creativity）**
-- **协作（collaboration）**
-- **沟通（communication）**
-
-这四项技能几乎出现在所有主要框架中，构成了 [[Single-Case Design|SCD]] 的最小公分母。它们的共同特征是以认知能力为主、直接关联劳动市场生产力、可被课程化和评估化。
-
-### 主要国际框架
-
-[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.255–257)]]汇编了七个具有代表性的国际和国家框架，按发布时间排列：
-
-| 框架（发布年） | 发布主体 | 核心集群 |
-|---|---|---|
-| enGauge (2003) | 美国 North Central Regional Educational Laboratory | 数字时代素养、创造性思维、有效沟通、高生产力 |
-| P21 (2009) | 美国 Partnership for 21st Century Skills | 基础学科与 21 世纪主题、学习与创新技能、信息媒体技术技能、生活与职业技能 |
-| National Research Council (2012) | 美国国家研究委员会 | 认知能力、内省能力、人际能力 |
-| ATCS (2012) | 跨国评估与教学项目组 | 思议方式、工作工具、工作方式、生活方式 |
-| World Economic Forum (2016) | 世界经济论坛 | 基础素养、能力、性格品质 |
-| [[OECD]] (2019) | 经合组织 | 任务表现、情绪调节、协作、开放心态、社会参与、复合技能 |
-| European Commission (2019) | 欧盟委员会 | 八项关键素养：读写、多语、数学与科技、数字、个人社会与学会学习、公民、创业、文化意识与表达 |
-
-这些框架尽管跨越 15 年以上、来自教育体系各异的地区，却在核心议题上高度一致([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.254]]; Chalkiadaki, 2018)。
-
-### 被边缘化的技能
-
-> [!warning] 话语中的沉默
-> 与四 C 形成对照的是一批被话语系统性边缘化的技能和素养([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.257–258]])：
-> - 基础读写能力（basic literacy）
-> - 情境学习（contextual learning）
-> - 环境素养（environmental literacy）
-> - 人际技能（interpersonal skills）
-> - [[Metacognition|元认知]]（metacognition）
-> - 可视化技能（visualization skills）
-> - 非认知技能、软技能、全儿童发展、横向技能、可迁移技能或社会情感技能（GPE, 2020, p.2）
-
-这一边缘化并非偶然——这些技能的共同特征是难以量化、难以与短期劳动市场需求直接挂钩、以及难以通过标准化课程大规模传授。
-
-博士层次的实证数据证实了这一边缘化的实际后果。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的调查中，环境素养（2.8/5）、团队合作（2.9/5）、文化理解（3.2/5）正是博士毕业生发展感知最低的三项特质——与四 C 中的批判性思维和创造力（通常融入研究技能，发展均值 4.4/5）形成鲜明对比（pp.89–90）。换言之，SCD 框架中哪些技能重要的排序，与博士培养中哪些技能被实际发展的排序高度吻合——话语的边缘化与培养的缺失相互强化。
-
----
-
-## 话语机制
-
-> [!abstract] 四个分析面向
-> [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.258–260)]]将七个框架作为话语的文本表现进行分析，提炼出四个分析面向，揭示 [[Single-Case Design|SCD]] 如何不只是描述技能需求，而是**主动塑造**教育政策的方向和个体的行为预期。
-
-### 强制同质化
-
-全球对关键技能的搜寻呈现出惊人的一致性——国际组织、研究智库、国家政府和私营合作方在什么是核心技能上高度趋同。考虑到这些技能本身的高度主观性、测量困难和对不同语境的理解差异（Soland et al., 2013; Suto & Eccles, 2014），这种一致性并非自然共识的产物，而是话语权力的运作结果([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.258]])。
-
-关键技能的存在暗示着边缘技能的存在。个体在众多终身习得的技能中，只有一部分被认定为值得拥有和必要的。这种区分从一开始就引导着技能获取的方向：个体不再被邀请从多样化甚至可能尚未存在的技能中自由选择，而是被引导去服从未来劳动市场的统一理想([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.258–259]])。
-
-> [!note]- 能力作为[[Floating Signifier|漂浮能指]]
-> [[Argument_Beech_2009_CE|Beech (2009)]]从[[Global Policy Space|全球政策空间]]的话语生产角度提供了一个更早的互补分析：能力之所以能在全球范围内被广泛接受，恰恰因为它是一个被剥离了具体历史经验的[[Floating Signifier|漂浮能指]]。
-
-**抽象化机制。** 能力一词的起源——与泰勒制向丰田制的转型、后福特主义劳动组织对新型工人的需求相关联——一旦进入[[Global Policy Space|全球政策空间]]，其在时空中具体的历史位置就被模糊化了。[[OECD]] 的报告中不谈泰勒制和丰田制，也不谈企业管理和工厂车间，只将能力抽象为一个关于 21 世纪学习者应该具备什么素养的普遍教育命题。概念失去了其特定含义，其传播力恰恰来自在不同语境中被不同解读和重组的潜能。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 353–355)]]
-
-**可塑性与稳定性的双重运作。** 漂浮能指同时具备两种看似矛盾的性质。可塑性使其能够被不同文化、意识形态和社会经济语境接受和适用；稳定性使其保持一定的权威光环，能够在全球传播中获得承认。正是这种组合使能力话语得以跨越意识形态鸿沟——从 OECD 到 UNESCO 到世界银行，各机构尽管立场迥异，却共同倡导着同一套能力话语。话语越空，能填充它的语境越多。[[Argument_Beech_2009_CE|(Beech, 2009, p. 355)]]
-
-**与尊重多样性话语的平行结构。** [[Argument_Beech_2009_CE|Beech (2009)]]在论文中以两条线索并行追踪了同一个机制。尊重多样性话语经历了与能力话语完全相同的抽象化过程：其起源于[[Postmodernism|后现代主义]]对宏大叙事的削弱和世界各地社会运动对既有叙事的挑战，但一旦进入全球教育空间，它被剥离了具体的社会运动语境，成为一个可以被反种族主义、女权主义、多元文化主义或包容教育等截然不同立场填充的抽象口号。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 354–355)]]两条线索共同证明：抽象化不是能力话语的偶发特征，而是[[Global Policy Space|全球政策空间]]的结构属性——网络逻辑和[[Performativity|操演性]]政治运作——系统性地生产了漂浮能指式的话语。
-
-**与 Zelinka 框架的互补。** [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]]的七个框架分析聚焦于 SCD 的话语文本层面——哪些技能被纳入、哪些被边缘化。[[Argument_Beech_2009_CE|Beech (2009)]]的分析则揭示了这些技能何以能够同时出现在意识形态立场迥异的框架中：不是因为各机构达成了实质性共识，而是因为概念本身已被抽象到足以容纳互不兼容的解读。两者结合，构成了 SCD 从话语生产（Beech）到话语文本（Zelinka）到主体性塑造（Zelinka）的完整分析链。
-
-### 个体化与竞争性
-
-从词源上看，competence（素养／能力）的词根与 compete（竞争）相同。具备某项素养意味着做某事做得好或成功（Cambridge Dictionary），这不仅是对自身能力的最佳发挥，更是对外部成功期望的回应。Hampson & Junor（2009）将其视为典型的盎格鲁概念——个人主义的、由雇主定义的、不受其他社会力量制约([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。
-
-因此，素养的获取伴随着对竞争的准备（readiness to compete）。成功标准虽然表现为个人化的，但实际上并非由个体自己设定，而是由外部期望、规范和价值观所决定，使个体长期处于竞争和自我实现的状态之中。
-
-### 自然必然性的自我呈现
-
-关键素养和技能在框架中被呈现为事实本身，不提及应当获取和使用它们的主体。未来主体被刻画为初始性地和前[[Reflexivity|反思性]]地愿意获取任何必要素养的形象([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。
-
-技能的获取被呈现为一种必然性和事件的自然进程——持续的、开放的、高度竞争的追求，而非一种经过审慎思考的选择。然而，没有人需要对未来劳动力需要什么的错误预测负责。Finegold & Notabartolo（2010, p.41）指出，如果工作岗位的设计不使用这些能力，投资提升个体通用能力不太可能带来正回报。
-
-### 地缘政治维度
-
-SCD 不受限于任何特定机构、政府或商业结构，但占据并再生产着新自由主义知识型社会的地缘政治空间。在这个空间中，对技能和素养的关注表达了可持续和包容性社会的核心条件[[Hypothesis|假设]]。在全球尺度上，SCD 通过排名、影响因子和国际合作标准等隐性成功标准来保障霸权地位([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。
-
-正是在这一地缘政治空间中，对卓越和创新的呼吁不断提高对主体的期望和要求（Rostan & Vaira, 2011; Rasmussen & Ydesen, 2019），主体性的生产和转移也在此发生并传播到其他知识空间。
-
----
-
-## 主体性生产：三组张力
-
-> [!abstract] 话语如何塑造人
-> [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.260–264)]]在对 [[Single-Case Design|SCD]] 进行精细化分析时，识别出三组塑造主体性生产的核心张力。这三组张力不是并列的分析维度，而是相互嵌套的——第一组（愿意/不愿）是话语对主体的最直接分类，第二组（结果/品质）揭示分类的内在标准，第三组（增长/包容）暴露这套标准的区域性盲点。
-
-### 愿意主体 vs 不愿主体
-
-SCD 将关注点从结构变革转向个体技能和素养的发展，使主体有义务获取新能力并扩展现有能力（Parreira do Amaral & Zelinka, 2019）。这种自我实现和自我责任化催生了一种以[[Employability|就业力]]和市场为导向的主体性——现代 [[Self-Entrepreneur|自我企业家]]（self-entrepreneur, Bröckling, 2015），它正在全球范围内成为一种心灵景观（mindscape）和新型文化（Moisio & Kangas, 2016, p.275）。
-
-在这一生产文化中，生产来源不再是主体获取的技能和素养，而是基于受期望能力的主体性——即自我引导的模式（Reed, 2009, p.33）。主体只有在承认并强化其自我企业家精神、展现对增长的激情和加速意愿时才有价值（Vostal, 2016）。主体的意愿和激情——即他们将努力获取新技能和素养的承诺，无论其实际用途如何——成为新的生产要素([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.261]])。
-
-与此同时，愿意主体的逻辑共同创造了其反面——不愿主体（unwilling subject），被标记为失业者、无证者或可弃置的个体（disposable individual, Oksala, 2015）。不愿主体成为[[Lifelong Learning|终身学习]]话语的干预对象，通过各种政策以预防、补偿、激活或赋权的逻辑加以治理（Parreira do Amaral & Zelinka, 2019, p.409）。
-
-博士培养中的一个具体例子：[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]发现 136 名博士毕业生中仅 2 人创建了个人发展计划（p.96），职业发展完全被个体化——从没有人讨论过任何其他可能性（Veronica, USU1, p.96）。这意味着博士培养不仅将职业发展的责任完全归于个体，还通过院系文化暗示只有学术路径值得追求，从而使选择非学术路径的毕业生在某种意义上成为不愿主体。
-
-### 结果导向素养 vs 品质本位素养
-
-[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, pp.261–263)]]提出了一组分析性区分：各框架中突出强调的技能主要是**结果导向的（outcome-oriented）**——获取它们应能提高个体的就业力。
-
-结果导向素养面临若干可行性问题：瞄准这些素养是否真的能让主体变得更有能力和更具就业力，这一点尚不明确；这些素养难以融入学校课程和项目（Chalkiadaki, 2018）；创造力、[[Critical Thinking|批判性思维]]或创新如何教学？谁能为此颁发证书？谁能保证这些技能在不同劳动市场和行业中被同等重视？雇主是否真的将这些视为潜在雇员所需的关键素养？([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, pp.261–262]])
-
-与之相对的是**品质本位的（quality-based）**技能和素养，虽然未在任何框架中被明确列出，但可能更为全面地回应教育挑战：更重视人格完整性和在尊重他人有限条件和能力的前提下进行互动的能力；获取这些素养伴随着障碍、失败、误解和错误，无法仅凭个人训练解决，需要相互互动；需要培养对他人负责的意识、提升生命本身的质量，而不仅是工作生活质量（Lamb et al., 2017, p.12）。
-
-以脆弱性（vulnerability）为例：在教育政策制定中，脆弱性通常被视为某些个体的负面条件。然而，强调脆弱性的积极面向可以开启反思空间——它不仅指向受威胁或受伤害的状态，也指向特定的软技能，如温柔、同情、对他人的开放、柔软和脆弱感（McLeod, 2012, p.22）。将脆弱性重新框定为一种积极条件，可以赋能主体将其对社会不平等、污名化、标签和压迫的敏感转化为充分的公民参与和积极的政治参与([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.263]])。
-
-### 经济增长 vs 社会包容
-
-许多教育政策同时追求可持续经济增长和保障社会包容与机会平等（European Commission, 2010, 2013; [[OECD]], 2018; United Nations, 2020）。然而，Joynes et al.（2019, p.6）建议，在承认全球层面存在广泛需求的同时，讨论还应认识到各区域的需求多样性（如东亚 vs 撒哈拉以南非洲），以及欠发达地区的语境和经济条件如何影响实际的技能需求和优先事项。
-
-不同区域对劳动力资格有不同需求，取决于人口增长、家庭收入、教育程度、住房拥有率和地方特定影响等因素（Zimmer et al., 2013）。由此产生一系列问题([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.263]])：同一项素养在不同区域是否具有同等价值？关键技能和素养框架在多大程度上承认区域差异和特殊性？对关键技能的推动如何能贡献于区域凝聚力和社会包容？它们如何使未来劳动力为区域挑战做好准备？
-
----
-
-## 实证发现
-
-> [!success] 话语与培养的现实差距
-
-### 博士层次的系统性技能缺口
-
-[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]对美新三国 136 名 PhD 校友的[[Comparative Case Study|比较案例研究]]提供了 [[Single-Case Design|SCD]] 在博士教育中影响力的直接证据。研究发现，博士培养在研究者身份建构上高度成功，但在 SCD 所强调的可转移技能上存在可测量的缺口（pp.89–93）：
-
-- **协作（SCD 四 C 之一）**是发展-应用差距最大的特质：发展均值 2.9/5 vs. 应用均值 4.2/5，差值 1.3。科学学科毕业生通过实验室获得非正式团队经验但缺乏正式冲突管理培训；人文学科毕业生连团队工作的机会都缺乏（pp.95–96）。
-- **沟通（SCD 四 C 之一）**同样存在显著缺口：口头沟通的发展-应用差值为 0.8（发展 3.7 vs. 应用 4.5）。毕业生能够撰写学术论文，但完全无法把这些研究传达给更广泛的受众（Marty, USU2, p.96）。
-- **[[Critical Thinking|批判性思维]]**和**创造力（SCD 四 C 的另两项）**在博士培养中得到了充分发展——但主要局限于学术语境内的应用（研究技能 4.4、分析技能 4.4），在非学术职场中的迁移程度存疑（pp.89–90）。
-
-这一发现揭示了一个关键悖论：SCD 声称四 C 是 21 世纪所有劳动者都需要的通用技能，但博士培养——教育的最高阶段——只充分发展了其中两项（批判性思维和创造力），且在高度特定的学术语境中；另外两项（协作和沟通）则严重不足。
-
-### 边缘化技能的实证确认
-
-SCD 中被边缘化的技能在博士培养中同样处于底层。环境素养（2.8/5）是 20 项特质中发展感知最低的，文化理解（3.2）和全球视野（3.4）分列倒数第二、第三([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.89–90]])。这一模式在三所大学中高度一致——应用感知的校际差异均不具[[Statistical Significance|统计显著性]]（p.92）——表明技能边缘化不是个别制度的问题，而是系统性的。
-
-> [!info]- 核心数据
-> - 博士 4C 技能发展均值（满分 5）：批判性思维/创造力（研究技能 4.4、分析技能 4.4）、协作（团队合作 2.9）、沟通（口头 3.7、书面 4.2）([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp.89–90]])
-> - 专业发展活动参与率：研究技能 80.2% vs. 创业 2.9%、领导力 8.1%、项目管理 14.7%（p.91, Table 2）
-> - 三所制度不同大学在差距模式上的一致性 → 指向博士培养的系统性偏向（pp.92, 99）
-
----
-
-### 实践层面的解读分化
-
-> [!example]
-> [[Argument_Beech_2009_CE|Beech (2009)]]提供了能力话语在[[Praxis|实践]]层面遭遇系统性解读分化的直接证据。在对阿根廷和巴西教师教育者（负责培养未来教师的人）的[[In-depth Interview|深度访谈]]中，Beech（2005）发现了对能力概念的至少四种互不兼容的解读（pp.358–359）：
-
-**解读一：重新解释为既有范畴。** 一部分教师教育者将能力重新纳入他们已有的认知框架，比如 1960 年代的行为目标、布鲁姆的教育目标分类学、[[Technical Rationality|技术理性]]。他们用既有范畴来消解新话语的陌生性，而不是用新话语来改变既有理解。
-
-**解读二：坦率承认不知道含义。** 一些教师教育者直白地说，他们虽然在教学中提到能力，但实际上不知道这个概念到底意味着什么。作为理论上构成新课程[[Paradigm|范式]]基础的核心概念，其定义在承担培养未来教师职责的教育者中竟然是模糊的。
-
-**解读三：视为既有实践的合法化。** 另一部分教师教育者将新课程规定解读为对自己既有实践的迟到的官方认可，认为改变完全不必要发生。
-
-**解读四：认识到[[Epistemology|认识论]]矛盾。** 少数教师教育者明确抱怨课程文件中的矛盾。一位教师教育者观察道，官方话语混合了不同的[[Theoretical Perspective|理论取向]]，有些部分包含了教师的旧诉求但与应该被反对的其他思想混杂在一起。另一位指出官方文本试图挪用许多话语，有时变成了一种认识论大杂烩，因为其中包含了不可调和的思想；他还洞察到这种包含多种视角的话语在实践中被用来中立化反对意见。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 358–359)]]
-
-> [!abstract] 实践层面分化的理论意义
-> 这四种解读揭示了一个核心困境：能力这一全球[[Floating Signifier|漂浮能指]]的可塑性在全球和国家层面是其传播的功能性优势，但在实践层面转化为教学行动时，可塑性变成了概念混乱。将抽象的能力话语转化为互动的、可持续的教学实践，涉及根本性的重新解释和[[Going Native|本土化]]，不是简单的操作方法问题。在那些学校知识传统上被定义为获取事实和信息的地方，设计和发展传递能力所需的教学活动尤为困难。[[Argument_Beech_2009_CE|(Beech, 2009, p. 359)]]
->
-> 这一发现与前述博士层次的实证数据形成尺度上的互补：博士[[Data Reduction and Data Display|数据展示]]的是教育产出端（毕业生）的技能缺口，Beech 的访谈展示的是教育输入端（教师教育者）的概念混乱。两条[[Chain of Evidence|证据链]]共同指向 SCD 的一个根本矛盾——话语越能在全球层面传播，越难以在实践层面被一致地理解和执行。
-
----
-
-## 争议与批评
-
-> [!warning] 话语的多重困境
-
-### 方法论批评
-
-**因果证据匮乏**。Pellegrino & Hilton（2012, p.4）指出，迄今为止只有少数研究证明了 21 世纪素养与成人结果之间的[[Causality|因果关系]]。公开宣称的技能（国际框架中）与正式要求的技能（求职时）之间的比较研究尚未完成([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。
-
-**测量困境**。如何衡量这些素养的获取以及它们之间的相互关系，仍然存在争议（Finegold & Notabartolo, 2010, p.30）。人际和内省技能无法通过制度化程序测量，而需要工作和生活文化的长期精炼([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.262]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]对[[Global Citizenship|全球公民]]的[[Operationalization|操作化]]尝试——将 O'Brien（2011）的数字、文化、社会沟通三种素养压缩为三个 Likert 评分项——也暴露了同样的测量挑战（pp.87–89）。
-
-### 政治与伦理批评
-
-**未来劳动市场的不确定性**。全球对关键技能的聚焦间接暗示了边缘技能的存在，但关于未来劳动市场实际需要什么技能，目前证据不足([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.259]])。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]的发现进一步质疑了这一[[Hypothesis|假设]]：博士毕业生在职场中应用最多的技能（团队合作 4.2、口头沟通 4.5）恰恰是博士培养发展最少的——这暗示着 [[Single-Case Design|SCD]] 框架与职场实际需求之间可能存在错位（p.93）。
-
-**区域忽视**。SCD 推广一套适用于全球问题的同质化技能集合，但忽视区域需求和后殖民差异，从而强化了新自由主义知识型社会的既有霸权([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.264]])。
-
-**概念狭窄化**。SCD 将教育目的窄化为经济生产力和[[Employability|就业力]]，排除了教育在意义建构、人格陶成和公民参与等方面的更广泛目的。
-
-**话语与[[Praxis|实践]]的断裂**。[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]提供了这一断裂的直接证据：三所制度不同大学的博士毕业生在技能差距模式上呈现一致性（pp.92, 99），说明问题不在于个别大学没有响应 SCD，而在于 SCD 本身作为一套话语，对最深层的教育实践——博士培养的学科[[Disciplina and Doctrina|规训]]逻辑和导师文化——缺乏渗透力。
-
----
-
-## 相关案例／政策
-
-> [!example]
-> - P21 框架（2009）——美国 21 世纪技能伙伴组织发布，是 4C 概念最具影响力的推广者，被多国课程改革引用
-> - [[OECD]] Learning Compass 2030（2019）——将 21 世纪技能从能力列表转向学习框架，强调学生能动性和转化性能力
-> - European Commission Key Competences for [[Lifelong Learning]]（2019）——欧盟八项关键素养框架，对成员国课程改革具有政策约束力
-> - Vitae 研究员发展框架（RDF, UK）——博士层次最全面的技能参照框架，覆盖知识、个人效能、研究治理与组织、参与影响四个领域([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])
-> - NZU 博士毕业生 profile —— 在研究技能之外明确列出 13 项可转移技能，包括全球视野、文化理解和环境素养三项[[Global Citizenship|全球公民]]属性([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.88]])
-
----
-
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Graduate Attributes]] | 概念 | 高等教育机构对全球 21 世纪技能话语的课程化与制度化[[Transfer Translation Transformation\|转译]]。 |
+> | [[Floating Signifier]] | 概念 | 解释能力话语得以跨越意识形态分歧在全球普遍传播的理论本质。 |
+> | [[Self-Entrepreneur]] | 概念 | 21 世纪技能话语所塑造的对自身[[Employability\|就业能力]]承担无限责任的新自由主义主体形态。 |
+> | [[Scientific Literacy]] | 概念 | 现代科学界主张用来克服抽象技能空心化的核心交叉素养支柱。 |
+> | [[Data Literacy]] | 概念 | 支撑数字时代[[Critical Thinking\|批判性思维]]与概率风险评估的基础数理素养。 |
+> | [[AI Literacy]] | 概念 | 智能时代防范“认知外包”、维护思维主体性的前沿交叉素养。 |
+> | [[PISA]] | 事实 | 推动 21 世纪技能跨国测量、比较与国家政策议程设置的核心制度载体。 |
+> | [[Beyond 2000 Report]] | 事实 | 奠定科学领域核心素养[[Paradigm\|范式]]、启发 PISA 科学框架的经典政策报告。 |
+> | [[Twenty First Century Science]] | 事实 | 落实科学核心素养与科学本质教育的英格兰代表性课程方案。 |
+> | [[UK Science Education Tracker]] | 事实 | 揭示技能话语高调宣称与实际动手实验课时雪崩断裂的实证监测调查。 |

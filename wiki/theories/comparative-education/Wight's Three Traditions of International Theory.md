@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 35
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -46,7 +46,6 @@ related_theories:
 related_methods:
   - "[[Discourse Analysis]]"
 related_persons:
-  - "[[William Foote Whyte]]"
   - "[[Eleftherios Klerides]]"
   - "[[Immanuel Kant]]"
   - "[[Michael Sadler]]"
@@ -73,7 +72,7 @@ updated: 2026-07-11
 > - **解释对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing|政策借用]]与流动的分析[[Paradigm|范式]]以及跨国教育治理网络。
 > - **理论问题** 探讨比较教育中“政策借用与情境理解”、“技术治理与批判解放”等核心争论的底层政治哲学根源，回应学科在国家权力、殖民扩张和新自由主义治理下的无意识共谋。
 > - **理论类型** 国际关系理论框架、分析视角与批判范式。
-> - **知识位置** 国际关系学派中的英国学派奠基性理论，由马丁·[[William Foote Whyte|怀特]]于 1950 年代末提出，并由赫德利·布尔等继承；后由[[Eleftherios Klerides|克莱里德斯]]于 2023 年系统性地移植并发展于比较教育领域。
+> - **知识位置** 国际关系学派中的英国学派奠基性理论，由马丁·怀特于 1950 年代末提出，并由赫德利·布尔等继承；后由[[Eleftherios Klerides|克莱里德斯]]于 2023 年系统性地移植并发展于比较教育领域。
 
 > [!claim] 核心主张
 > 比较教育在学说、制度和大学建制上均是国际关系的产物与[[Praxis|实践]]。对国际社会性质和政治运作规则的不同底层[[Hypothesis|假设]]（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]），塑造了不同的比较教育学术形态、研究路径与[[Agendas of Attention|注意力议程]]。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 417]])
@@ -103,7 +102,7 @@ updated: 2026-07-11
 
 > [!proposition-chain] 核心命题一｜比较教育的学术形态由其对国际社会性质的底层政治哲学设定所决定
 > - **前提一** 比较教育并不是中立的技术性科学，其学术建制、期刊编委、学会名称和注意力选择高度受制于变迁的地缘政治秩序 (p. 416)。
-> - **前提二** [[William Foote Whyte|怀特]]的三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]）为理解国际社会的本质提供了三种基本的理想类型，分别以权力、权威和武力为核心驱动力 (p. 417)。
+> - **前提二** 怀特的三大传统（[[Realism in International Relations|现实主义]]、[[Rationalism in International Relations|理性主义]]和[[Revolutionism|革命主义]]）为理解国际社会的本质提供了三种基本的理想类型，分别以权力、权威和武力为核心驱动力 (p. 417)。
 > - **推导** 比较教育学者的[[Ontology|本体论]]和方法论偏好本质上是这三种底层国际关系预设在教育领域的折射，对国际社会性质的设想决定了什么值得比较、如何比较以及比较服务于什么目的。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 416–417]])
 
 > [!proposition-chain] 核心命题二｜无政府状态的现实主义[[Hypothesis|假设]]将比较教育塑造成国家实力竞争、地缘自保及殖民剥削的实用工具
