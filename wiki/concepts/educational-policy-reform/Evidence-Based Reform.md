@@ -5,7 +5,7 @@ aliases:
 summary: "以实验有效性证据作为选择教育项目和产品核心标准的改革框架，强调开发、评估、推广和政策激励之间的联动循环。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 68
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Fade-out Effect]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Conflict of Interest in Research]]"
@@ -258,7 +259,7 @@ Slavin 在 RTI（Response to Intervention）基础上提出**RTPI**，将其三�
 - **Best-Evidence Encyclopedia ([[Best Evidence Encyclopedia|BEE]])** JHU 团队创建和维护的免费网站，主要包含特定领域项目有效性的完整学术综述（如小学和中学阅读、数学、科学、学前项目等）
 - **Evidence for ESSA** JHU 团队为教育者（非学术研究者）设计的网站，与 ESSA 证据标准对齐。截至 2020 年 1 月，约 100 个阅读和数学项目达到 ESSA 强/中/有希望标准（"强"类别数量最多），24 个社会情感学习项目和 8 个出勤项目达标，拥有 100,000+ 独立用户，每周新增约 800 用户（p.20）
 - **BEiB 与博客** BEiB 每两周向数万订阅者免费发送，[[Robert Slavin]] 维护每周博客
-- **[[Educational Evidence Clearinghouses|教育证据清算中心]]的一致性问题** [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 对 12 个美国/英国教育清算中心的比较显示，这类信息传播基础设施并不只是"把证据传递出去"的中性管道，而是通过项目纳入标准、研究设计标准、复制要求、[[Effect Size|效应量]]阈值和持续效果要求主动塑造"什么算作有效"。在 1,359 个项目中，83.2% 只被一个清算中心评级；对被多个清算中心评级的项目，类似评级约只出现在 30% 的情形([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 18]])。这意味着 EBR 所依赖的"可信赖证据审查"条件本身也需要被审查。
+- **[[Educational Evidence Clearinghouses|教育证据清算中心]]的一致性问题** [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 对 12 个美国/英国教育清算中心的比较显示，这类信息传播基础设施并不只是"把证据传递出去"的中性管道，而是通过项目纳入标准、研究设计标准、复制要求、[[Effect Size|效应量]]阈值和[[Fade-out Effect|持续效果]]要求主动塑造"什么算作有效"。在 1,359 个项目中，83.2% 只被一个清算中心评级；对被多个清算中心评级的项目，类似评级约只出现在 30% 的情形([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.3, 18]])。这意味着 EBR 所依赖的"可信赖证据审查"条件本身也需要被审查。
 
 ### 中国学者对证据本位研究的质疑
 

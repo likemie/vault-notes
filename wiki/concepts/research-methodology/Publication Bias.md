@@ -6,7 +6,7 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，用于解释证据库为何可能高估干预效果。"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Critique of Meta-analysis]]"
   - "[[Developer Effect]]"
   - "[[Hypothesis]]"
+  - "[[Evaluator Independence]]"
   - "[[Categorical Funding]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Visible Learning]]"
@@ -74,7 +75,7 @@ Rosenthal（1991）提出了量化发表偏倚影响的经典方法：计算需�
 > [!feature] 发表偏倚的双重机制
 > [[Argument_Wolf_2020_JREE|Wolf et al. (2020, p. 429)]] 识别了教育评估中发表偏倚的双重来源：
 > - **学术发表压力** 学术机构研究者面临发表压力，期刊偏好发表"引人注目、干净的故事"（John, Loewenstein, & Prelec, 2012; McBee, Makel, Peters, & Matthews, 2017）
-> - **开发者经济激励** 开发者有更强的动机不传播关于其产品功效的零结果或负面结果——即使是开发者雇佣的独立评估者也可能因不愿破坏与客户关系而压制零结果
+> - **开发者经济激励** 开发者有更强的动机不传播关于其产品功效的零结果或负面结果——即使是开发者雇佣的[[Evaluator Independence|独立评估者]]也可能因不愿破坏与客户关系而压制零结果
 
 > [!warning] 文件抽屉问题的最早案例（1940）
 > Pratt and Rhine 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计了未发表论文对总体汇总效果的影响。他们基于汇总证据认为超感知觉存在，但后世对此持怀疑态度——最重要的原因是这些发现未能被重复验证。这说明发表偏差可能导致系统性不完整的研究图景，即使按当时标准进行严格分析也可能无法发现（[[Argument_Higgins_2016_RE|Higgins, 2016, p.35]]）。

@@ -8,10 +8,10 @@ aliases:
 summary: "Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 51
+theory_related_level: 6
+theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_color: "#fef3c7"
 tags:
   - campbellian-validity
   - internal-validity
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Threats to Internal Validity]]"
   - "[[Attrition]]"
-  - "[[Multimethod Research]]"
   - "[[Test-Retest Reliability]]"
   - "[[Definition of Terms]]"
   - "[[Threats to External Validity]]"
@@ -55,17 +54,20 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Falsification]]"
   - "[[Ecological Validity]]"
+  - "[[Multimethod Research]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
   - "[[Gating Procedure]]"
+  - "[[Multitrait-Multimethod Matrix]]"
   - "[[Single-Case Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Single-Subject Design]]"
   - "[[ABAB Design]]"
+  - "[[Regression Discontinuity Design]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -118,7 +120,7 @@ updated: 2026-08-21
 > | [[Statistical Significance\|统计结论效度（Statistical Conclusion Validity）]] | 概念 / 核心维度 | 基于样本数据判断两变量之间是否存在协变关系的统计检验力与估计准确性。 |
 > | [[Threats to Internal Validity\|效度威胁（Threats to Validity）]] | 分类 / 机制 | 造成实验假象与因果误判的各种竞争性替代解释清单（如历史、成熟、回归均值、选择偏倚、[[Attrition\|流失]]）。 |
 > | [[Gating Procedure\|门控程序（Gating Procedure）]] | 方法 / 评价规程 | 依据“内部效度优先”原则设立的方法学初筛机制，未通过内部效度门槛的研究不进入推广性评估。 |
-> | [[Multitrait-Multimethod Matrix|多特质-多方法矩阵（MTMM）]] | 方法 / 检验程序 | 通过多特质与多方法的双向交叉，系统检验测量与评价工具的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度。 |
+> | [[Multitrait-Multimethod Matrix\|多特质-多方法矩阵（MTMM）]] | 方法 / 检验程序 | 通过多特质与多方法的双向交叉，系统检验测量与评价工具的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度。 |
 
 ---
 
@@ -170,7 +172,7 @@ updated: 2026-08-21
 ### 命题三　基于多质多法框架，“循证”构念要求跨评价机构展现经验收敛效度
 
 > [!proposition-chain] 核心命题三｜基于多质多法框架，“循证”[[Construct|构念]]要求跨评价机构展现经验[[Convergent and Discriminant Validity|收敛效度]]
-> - **前提一（[[Construct Validity|构念效度]]的收敛性[[Hypothesis|假设]]）** Campbell & Fiske (1959) 确立的多质多法（MTMM）原则指出：若某一概念（如“干预有效性”）具有客观构念效度，则运用不同独立方法或不同评价者对其进行测量时，评级结果必须高度收敛。[[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024, p. 4)]]
+> - **前提一（[[Construct Validity|构念效度]]的收敛性[[Hypothesis|假设]]）** Campbell & Fiske (1959) 确立的多质多法（[[Multitrait-Multimethod Matrix|MTMM]]）原则指出：若某一概念（如“干预有效性”）具有客观构念效度，则运用不同独立方法或不同评价者对其进行测量时，评级结果必须高度收敛。[[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024, p. 4)]]
 >   > [!evidence-grid]- 证据
 >   > - **证据一（1,359 项目多中心评级实证检验）** 实证分析 10 个清算中心评估的教育项目发现，多重评级完全一致率仅约 30.5%，完全对立冲突（1&3，一家推荐 vs 一家否决）高达 35.4%，共同推荐率仅 1.2%。[[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024, pp. 18–20)]]
 > - **前提二（综合门槛导致的特质异化）** 评级不一致并非源于单项 RCT 内部效度判定，而是源于各中心在证据综合门槛（独立复制、12个月随访、医源性排除）上的本质割裂。
@@ -201,7 +203,7 @@ updated: 2026-08-21
 
 > [!exegesis]- 教育研究例子
 > - **阅读干预的内部效度排除（命题一应用）** 在评估某项小学阅读补救课程时，若干预后阅读流利度提升，研究必须通过随机分配或 ABAB 阶段撤回，排除“学生年龄自然增长带来的阅读发展（成熟）”以及“学区同期开展的图书馆借阅激励计划（历史）”，方能将提分归因于课程本身([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 462]])。
-> - **清算中心构念效度分歧（命题三应用）** 针对 [[Communities in Schools]]（CIS）项目，[[National Dropout Prevention Center|NDPC]] 依据单项准实验将其评为最高级 Strong，而 WWC 在辍学预防域评为 No Discernible Effects，[[Blueprints for Healthy Youth Development|Blueprints]] 亦未予认证。这一冲突在 Campbellian MTMM 框架下清晰展现了“有效性”这一构念由于各机构综合门槛不同而发生的内涵异化([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 25–26]])。
+> - **清算中心构念效度分歧（命题三应用）** 针对 [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）项目，[[National Dropout Prevention Center|NDPC]] 依据单项准实验将其评为最高级 Strong，而 WWC 在辍学预防域评为 No Discernible Effects，[[Blueprints for Healthy Youth Development|Blueprints]] 亦未予认证。这一冲突在 Campbellian MTMM 框架下清晰展现了“有效性”这一构念由于各机构综合门槛不同而发生的内涵异化([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 25–26]])。
 
 ---
 
@@ -210,12 +212,12 @@ updated: 2026-08-21
 > [!theory-stance] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology|本体论]]** 承认客观世界中干预与结果之间存在真实的因果作用机制，但社会系统的复杂性使因果效应往往嵌入于特定情境与机制之中。
 > - **[[Epistemology|认识论]]** 秉持[[Postpositivism|后实证主义]]（Postpositivism）与[[Falsification|证伪主义]]取向；主张[[Causality|因果关系]]永远无法被绝对“证实”，只能通过系统、严密地排除所有已知的竞争性替代解释来不断逼近真理。
-> - **方法含义** 强调研究设计优于事后统计修补；推崇[[Randomised Controlled Trials|随机对照试验]]（RCT）、严谨准实验（[[Quasi-Experimental Designs|QED]]）、断点回归（RDD）与单一被试实验（[[Single-Case Design|SCD]]）的因果控制功能。
+> - **方法含义** 强调研究设计优于事后统计修补；推崇[[Randomised Controlled Trials|随机对照试验]]（RCT）、严谨准实验（[[Quasi-Experimental Designs|QED]]）、[[Regression Discontinuity Design|断点回归]]（RDD）与单一被试实验（[[Single-Case Design|SCD]]）的因果控制功能。
 > - **不能直接推出的东西** 不能仅凭单项实验的高[[Internal Validity|内部效度]]直接自动推导出跨情境的普遍有效性（[[External Validity|外部效度]]），亦不能将单一机构的认证标签直接等同于无偏的客观[[Construct|构念]]。
 
 > [!theory-use] 如何用于研究与证据治理
 > - **作为方法学审查规程** 指导证据清算机构（如 [[What Works Clearinghouse|WWC]]、[[Education Endowment Foundation|EEF]]）建立分阶段门控程序，先审查因果识别设计与数据质量，再提炼推广性特征。
-> - **作为元评估（Meta-Evaluation）分析工具** 运用 MTMM 矩阵与收敛/判别效度框架，检验各类教育评级平台、评估指标与认证体系的跨机构一致性与构念稳定性。
+> - **作为元评估（Meta-Evaluation）分析工具** 运用 [[Multitrait-Multimethod Matrix|MTMM]] 矩阵与收敛/判别效度框架，检验各类教育评级平台、评估指标与认证体系的跨机构一致性与构念稳定性。
 > - **作为批判性审视视角** 揭示过度偏好微观内部效度可能导致的[[Ecological Validity|生态效度]]脱节，警示政策制定者穿透单一“循证”标签，核查底层因果证据与综合门槛。
 
 ---
@@ -233,7 +235,7 @@ updated: 2026-08-21
 ## 发展脉络
 
 > [!dev-timeline] Campbellian 效度框架的演进脉络
-> - **1959 — MTMM 矩阵创立** Donald Campbell 与 Donald Fiske 发表经典论文，提出多质多法（Multitrait-[[Multimethod Research|multimethod]], MTMM）[[Analytic Framework|分析框架]]，奠定了[[Construct Validity|构念效度]]检验的收敛与判别准则([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
+> - **1959 — [[Multitrait-Multimethod Matrix|MTMM]] 矩阵创立** Donald Campbell 与 Donald Fiske 发表经典论文，提出多质多法（Multitrait-[[Multimethod Research|multimethod]], MTMM）[[Analytic Framework|分析框架]]，奠定了[[Construct Validity|构念效度]]检验的收敛与判别准则([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
 > - **1963 — 实验与准实验效度二分法** Campbell & Stanley 出版《教学研究中的实验与[[Quasi-Experimental Designs|准实验设计]]》，首次系统确立[[Internal Validity|内部效度]]与[[External Validity|外部效度]]概念，系统编目八大[[Threats to Internal Validity|内部效度威胁]]。
 > - **1979 — 四分效度体系初步成型** Cook & Campbell 出版《准实验设计》，将效度体系拓展为内部效度、外部效度、构念效度与统计结论效度四大支柱。
 > - **2002 — 四分效度体系集大成** Shadish, Cook, & Campbell 出版《广义[[Causality|因果推断]]的实验与准实验设计》，系统化四分效度体系，论证内部效度为实验设计的[[Necessary and Sufficient Conditions|必要条件]]（*sin qua non*）([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 461]])。
@@ -265,4 +267,4 @@ updated: 2026-08-21
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 运用 Campbellian 框架阐释 [[What Works Clearinghouse|WWC]] 组间实验与[[Single-Subject Design|单一被试设计]]（[[Single-Case Design|SCD]]）的[[Internal Validity|内部效度]]门控逻辑与[[External Validity|外部效度]]信息捕获机制。
-> - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 创新性地将 Campbell & Fiske (1959) MTMM 多质多法框架应用于清算中心评级一致性元评估，实证检验“基于证据”[[Construct|构念]]的跨机构[[Convergent and Discriminant Validity|收敛效度]]。
+> - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 创新性地将 Campbell & Fiske (1959) [[Multitrait-Multimethod Matrix|MTMM]] 多质多法框架应用于清算中心评级一致性元评估，实证检验“基于证据”[[Construct|构念]]的跨机构[[Convergent and Discriminant Validity|收敛效度]]。

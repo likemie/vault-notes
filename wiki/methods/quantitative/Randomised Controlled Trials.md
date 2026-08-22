@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 76
+method_related_count: 94
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,12 +26,13 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Achievement and Aptitude Tests]]"
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Internal Validity]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
   - "[[Causal Processes]]"
-  - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Emergence]]"
   - "[[Pre-test and Post-test]]"
@@ -54,10 +55,16 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Clinical Trial]]"
   - "[[Side Effects]]"
+  - "[[Complier Average Causal Effect]]"
+  - "[[Evaluator Independence]]"
+  - "[[Fade-out Effect]]"
   - "[[Document]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Ontology]]"
   - "[[Validity as Inferences]]"
   - "[[Recommendations for Practice]]"
+  - "[[Class Size]]"
+  - "[[Screening Off]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Complexity Theory]]"
@@ -84,6 +91,17 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
   - "[[Stanford Prison Experiment]]"
+  - "[[Home Visiting Evidence of Effectiveness]]"
+  - "[[Blueprints for Healthy Youth Development]]"
+  - "[[Social Programs That Work]]"
+  - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
+  - "[[Promising Practices Network]]"
+  - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
+  - "[[Best Evidence Encyclopedia]]"
+  - "[[National Dropout Prevention Center]]"
+  - "[[Promise Neighborhoods Research Consortium]]"
+  - "[[CNCS Evidence Exchange]]"
+  - "[[Collaborative for Academic Social and Emotional Learning Guide]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
@@ -91,6 +109,7 @@ related_arguments:
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Kraft_2023_ER]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Møller_2017_EERJ]]"
@@ -99,7 +118,6 @@ related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Peterson_2016_IJRME]]"
-  - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
 status: active
 created: 2026-06-14
@@ -134,7 +152,7 @@ updated: 2026-08-21
 >    - 2011 — [[Education Endowment Foundation|EEF]] 成立，此后资助了 100 项涉及 50 万以上学生的 RCT（[[Argument_Higgins_2016_RE|Higgins, 2016, p.49]]）
 > - 2020 — 干预研究比例维持在 25%，随机实验进一步降至 20%，只有五分之一经验文章使用随机分配
 >    - 2023 — [[Argument_Kraft_2023_ER|Kraft (2023)]] 在 3,426 个教育干预 RCT 效应量的扩展样本中发现：若结果限定为标准化学业[[Achievement and Aptitude Tests|成就测验]]，36% 的效应量小于 0.05，整体中位数约为 0.10
-   - 2024 — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 全景检验 12 所教育证据清算中心 1,359 个项目，揭示 11 所中心均将 RCT 确立为证据金字塔顶端；但基于 RCT 支持的多中心评级一致率仅 30.5%，极端冲突率达 35.4%，证明微观 RCT 内部效度达标不能等同于宏观政策综合收敛
+   - 2024 — [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 全景检验 12 所[[Educational Evidence Clearinghouses|教育证据清算中心]] 1,359 个项目，揭示 11 所中心均将 RCT 确立为证据金字塔顶端；但基于 RCT 支持的多中心评级一致率仅 30.5%，极端冲突率达 35.4%，证明微观 RCT [[Internal Validity|内部效度]]达标不能等同于宏观政策综合收敛
 
 > [!citation-card]- 关键定义
 > 实验技术，尤其是随机对照试验（RCT），在建立[[Causality|因果性]]方面具有强大效力。通过识别、隔离和控制自变量，操纵一个自变量看其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则变化可归因于该自变量——它成为原因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|(Cohen et al., 2011, pp. 78, 81)]]
@@ -147,7 +165,7 @@ updated: 2026-08-21
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** RCT 隐含经验主义和[[Positivism|实证主义]]认识论：[[Hypothesis|假设]]通过人为创造封闭系统（稳定干预以外的所有[[Variable|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的[[Causal Processes|因果过程]]（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 112–115]]）。
-> - **研究者角色** 随机分配和变量控制旨在消除潜在混杂并追求客观中立，但其实验操作本身涉及对受试者的严格控制与变量操纵——“研究者是国王或女王，参与者是臣民”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]])。
+> - **研究者角色** [[Random Assignment|随机分配]]和变量控制旨在消除潜在混杂并追求客观中立，但其实验操作本身涉及对受试者的严格控制与变量操纵——“研究者是国王或女王，参与者是臣民”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, p. 78]])。
 > - **有效性标准**[[Internal Validity|内部效度]]优先（通过随机分配消除混淆），但[[External Validity|外部效度]]常被牺牲。[[Argument_Wiliam_2019_ERE|Wiliam (2019, p.9)]] 从效度理论角度补充：继承 Cronbach (1971) 和 Messick (1989)，效度是推论的属性而非实验或测试的属性——即使是设计良好的 RCT，其推论的效度也取决于排除替代解释的能力，而这种能力随着新证据的[[Emergence|涌现]]而持续演变。
 > - **不声称回答的问题** RCT 只能告诉我们"在已被测试的条件下已测试过的干预的效果"（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]]），不能直接回答干预为什么有效、如何在其他情境中起作用、或未来是否仍然有效。
 
@@ -313,18 +331,18 @@ updated: 2026-08-21
 ---
 
 
-> [!framework-table] 教育证据清算中心对 RCT 的方法学审查分层（基于 Wadhwa et al., 2024）
+> [!framework-table] [[Educational Evidence Clearinghouses|教育证据清算中心]]对 RCT 的方法学审查分层（基于 Wadhwa et al., 2024）
 > | 因果审查规程层级 | 代表清算中心 | 对 RCT 内部效度与计量控制的具体规程 |
 > |:---|:---|:---|
-> | **3 级规程（深度计量规范）** | [[What Works Clearinghouse\|WWC]]、[[Home Visiting Evidence of Effectiveness\|HomVEE]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Social Programs That Work\|SPTW]] | 深入规范集群随机化（强制多层线性模型 HLM 或 ICC 校正）；建立 0.05 SD 容许偏倚流失模型；严格核查基线等值性；允许 CACE 顺从者估计。 |
+> | **3 级规程（深度计量规范）** | [[What Works Clearinghouse\|WWC]]、[[Home Visiting Evidence of Effectiveness\|HomVEE]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Social Programs That Work\|SPTW]] | 深入规范集群随机化（强制多层线性模型 HLM 或 ICC 校正）；建立 0.05 SD 容许偏倚流失模型；严格核查基线等值性；允许 [[Complier Average Causal Effect\|CACE]] 顺从者估计。 |
 > | **2 级规程（中度因果规范）** | [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]、[[Promising Practices Network\|PPN]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] | 明确要求随机分配至对照组并监控样本流失率，但未制定形式化计量纠偏方程。 |
 > | **1 级规程（基础分类要求）** | [[Best Evidence Encyclopedia\|BEE]]、[[National Dropout Prevention Center\|NDPC]]、[[Promise Neighborhoods Research Consortium\|PNRC]]、[[CNCS Evidence Exchange\|AmeriCorps EE]] | 将 RCT 作为高等级证据标签，但在单项研究审查中未设专门技术操作手册。 |
 > | **0 级规程（无独立门槛）** | [[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]] | 仅评估方案整体教学设计，未针对 RCT 建立独立因果方法学门槛。 |
 
 > [!critique] 单项 RCT 内部效度与宏观政策评级的“RCT 悖论”
-> [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024, pp. 18–20, 26–27)]] 揭示了当代循证教育中的重大悖论：学界长期假设“只要单项研究采用 RCT，就能获得客观收敛的政策评级”。然而实证元评估发现，在 429 对跨机构多重评级中，评级完全一致率仅 30.5%，而完全对立冲突率（Recommended vs Not Recommended）高达 35.4%。
+> [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024, pp. 18–20, 26–27)]] 揭示了当代[[Evidence-Based Education|循证教育]]中的重大悖论：学界长期假设“只要单项研究采用 RCT，就能获得客观收敛的政策评级”。然而实证元评估发现，在 429 对跨机构多重评级中，评级完全一致率仅 30.5%，而完全对立冲突率（Recommended vs Not Recommended）高达 35.4%。
 >
-> 核心根源在于：跨机构分歧并非源于单项因果识别偏好（各中心均推崇 RCT），而是根源于**跨研究证据综合标准**（是否要求独立评估者外部复制、跨地点复制、6–12 个月持续效果）以及纳入文献集的悬殊差异。单项 RCT 内部效度达标只是因果推断的必要条件，绝非宏观政策认证的充分条件。
+> 核心根源在于：跨机构分歧并非源于单项因果识别偏好（各中心均推崇 RCT），而是根源于**跨研究证据综合标准（是否要求[[Evaluator Independence|独立评估者]]外部复制、跨地点复制、6–12 个月[[Fade-out Effect|持续效果]]）**以及纳入[[Document|文献]]集的悬殊差异。单项 RCT 内部效度达标只是[[Causality|因果推断]]的[[Necessary and Sufficient Conditions|必要条件]]，绝非宏观政策认证的充分条件。
 
 ### 设计变体与替代方案
 
@@ -378,8 +396,8 @@ updated: 2026-08-21
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 资助了超 100 项涉及 50 万以上学生的独立 RCT，并将证据综合进入 Toolkit 的元分析([[Argument_Higgins_2016_RE|Higgins, 2016, p. 49]])。
-> - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将随机分配实验作为干预研究中的更强子类进行趋势比较，发现其在顶刊中的比例从 2010 年的 23% 降至 2020 年的 20%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]])。
+> - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 资助了超 100 项涉及 50 万以上学生的独立 RCT，并将证据综合进入 Toolkit 的[[Meta-analysis|元分析]]([[Argument_Higgins_2016_RE|Higgins, 2016, p. 49]])。
+> - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其在顶刊中的比例从 2010 年的 23% 降至 2020 年的 20%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]])。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 个教育清算中心对 RCT 的因果审查规程，实证揭示各中心虽均推崇 RCT，但因跨研究综合门槛割裂导致 35.4% 的极端评级冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 9–11, 18–20]])。
-> - [[Tennessee STAR Project 1985-1989]] — 田纳西星级班级规模实验，[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 揭示了其家长施压转组与数据差异缺失对随机分配的破坏。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] — 系统构建教育实验因果推断全景，详述概率因果、反事实、筛选隔离与真实课堂复杂性对 RCT 的挑战(Ch. 4 / Ch. 16)。
+> - [[Tennessee STAR Project 1985-1989]] — 田纳西星级[[Class Size|班级规模]]实验，[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 揭示了其家长施压转组与数据差异缺失对随机分配的破坏。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al. (2011)]] — 系统构建教育实验[[Causality|因果推断]]全景，详述概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]与真实课堂复杂性对 RCT 的挑战(Ch. 4 / Ch. 16)。

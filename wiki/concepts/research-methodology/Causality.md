@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "research-methodology"
-related_count: 54
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,9 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Operationalization]]"
   - "[[Construct Validity]]"
+  - "[[Evaluator Independence]]"
+  - "[[Fade-out Effect]]"
+  - "[[Iatrogenic Effects in Education]]"
   - "[[Attrition]]"
   - "[[Implementation Fidelity]]"
   - "[[Praxis]]"
@@ -57,6 +60,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Regression Discontinuity Design]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Factorial Design]]"
   - "[[Qualitative Research]]"
@@ -131,7 +135,7 @@ updated: 2026-08-21
 
 > [!feature] 因果推断的五大核心要素
 > - **时间优先序（Temporal Precedence）** [[Independent Variable|自变量]] $X$ 的施加必须在时间轴上严格先于[[Dependent Variable|因变量]] $Y$ 的变动，防范反向因果（Reverse Causality）([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 57]])。
-> - **[[Counterfactual|反事实]]基准构建（Counterfactual Benchmark）** 解决“因果推断基本问题（Holland, 1986）”——通过[[Random Assignment|随机化]]（[[Randomised Controlled Trials|RCT]]）或[[Quasi-Experimental Designs|准实验设计]]（QED/RDD）构建出在期望上完全可比的反事实控制组。
+> - **[[Counterfactual|反事实]]基准构建（Counterfactual Benchmark）** 解决“因果推断基本问题（Holland, 1986）”——通过[[Random Assignment|随机化]]（[[Randomised Controlled Trials|RCT]]）或[[Quasi-Experimental Designs|准实验设计]]（QED/[[Regression Discontinuity Design|RDD]]）构建出在期望上完全可比的反事实控制组。
 > - **[[Screening Off|筛选隔离]]与混杂控制（Screening Off & Confounder Control）** 基于 Reichenbach-Salmon 原理，通过实验物理隔离或统计控制（偏相关、结构方程模型），切断共同原因导致的伪相关([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 59–60]])。
 > - **因果识别设计层级（Causal Design Hierarchy）** 依据[[Internal Validity|内部效度]]控制强度，将实证设计划分为 0–3 级严密阶梯（RCT/RDD 为 3 级，严谨 QED 为 2–3 级，单组前[[Pre-test and Post-test|后测]]为 0 级）([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 > - **因果机制与情境条件（Mechanisms & Contextual Conditions）** 识别[[Compound Causes|复合原因]]（Compound Causes）与[[Interaction Effect|交互效应]]，解释干预在特定生态情境中赖以起效的中介机制。
@@ -207,7 +211,7 @@ updated: 2026-08-21
 > 从微观单项实验的因果识别到宏观政策采纳，必须跨越证据综合与[[Construct Validity|构念效度]]的双重门槛。
 
 > [!claim] [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]]
-> **因果有效性的综合门槛割裂** [[Internal Validity|内部效度]]达标是因果推断成立的必要条件，但并非宏观认证的充分条件。Wadhwa 等人揭示，由于不同清算机构在**独立评估者复制**、**12 个月持续效果**及**医源性伤害排除**等综合门槛上的分歧，单项高质量 [[Randomised Controlled Trials|RCT]] 的因果结论在跨机构综合评级中表现出高达 35.4% 的极端冲突，要求政策制定者穿透评级标签审视底层因果证据。[[Argument_Hitchcock_2015_JBE|(Hitchcock et al., 2015, pp. 461–462)]]; [[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 4, 26)]]
+> **因果有效性的综合门槛割裂** [[Internal Validity|内部效度]]达标是因果推断成立的必要条件，但并非宏观认证的充分条件。Wadhwa 等人揭示，由于不同清算机构在**[[Evaluator Independence|独立评估者]]复制**、**12 个月[[Fade-out Effect|持续效果]]**及**[[Iatrogenic Effects in Education|医源性伤害]]排除**等综合门槛上的分歧，单项高质量 [[Randomised Controlled Trials|RCT]] 的因果结论在跨机构综合评级中表现出高达 35.4% 的极端冲突，要求政策制定者穿透评级标签审视底层因果证据。[[Argument_Hitchcock_2015_JBE|(Hitchcock et al., 2015, pp. 461–462)]]; [[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 4, 26)]]
 
 ---
 
@@ -239,7 +243,7 @@ updated: 2026-08-21
 
 > [!proc] 建立严谨因果推断的六步规程
 > 1. **明确界定因果识别问题** 清晰界定干预[[Variable|变量]] $X$ 的具体成分与目标[[Dependent Variable|结果变量]] $Y$，锁定目标推断人群。
-> 2. **选择高等级因果设计** 优先选用[[Randomised Controlled Trials|随机对照试验]]（RCT）或严谨准实验（RDD/[[Quasi-Experimental Designs|QED]]/[[Single-Case Design|SCD]]），在设计阶段阻断选择偏倚。
+> 2. **选择高等级因果设计** 优先选用[[Randomised Controlled Trials|随机对照试验]]（RCT）或严谨准实验（[[Regression Discontinuity Design|RDD]]/[[Quasi-Experimental Designs|QED]]/[[Single-Case Design|SCD]]），在设计阶段阻断选择偏倚。
 > 3. **核查基线等值性与[[Attrition|流失]]边界** 严格检验对照组基线等值性（差值 $< 0.05\text{ SD}$），套用 WWC 流失模型排查样本流失偏倚风险([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 > 4. **规范实施[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）** 保留所有[[Random Assignment|随机化]]入组样本，防范处理依从性（Compliance）选择偏倚对因果识别的破坏。
 > 5. **开展敏感性与多重[[Hypothesis|假设]]校正** 针对多重比较实施 Benjamini-Hochberg 校正，开展混杂敏感性分析检验因果结论的稳健性。
@@ -263,7 +267,7 @@ updated: 2026-08-21
 > [!critique] 常见因果推断误用
 > - **把相关性直接解读为因果结论** 在回归模型中控制若干[[Variable|变量]]后便轻率得出“政策导致提分”的结论。
 > - **以单组前[[Pre-test and Post-test|后测]]声称因果成效** 忽略时间推移带来的自然成熟与均值回归假象。
-> - **混淆局部处理效应（LATE）与全局平均效应（ATE）** 将断点回归或工具变量识别出的局域因果效应盲目推广至全样本。
+> - **混淆局部处理效应（LATE）与全局平均效应（ATE）** 将[[Regression Discontinuity Design|断点回归]]或工具变量识别出的局域因果效应盲目推广至全样本。
 
 ---
 

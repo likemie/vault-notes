@@ -44,6 +44,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Construct Validity]]"
+  - "[[Fade-out Effect]]"
   - "[[New Public Management]]"
   - "[[Material Fallacies]]"
 related_theories:
@@ -66,7 +67,6 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Participant Observation]]"
   - "[[Case Study]]"
-  - "[[Cluster Randomized Trials]]"
 related_persons:
   - "[[Roy Bhaskar]]"
 related_facts:
@@ -242,7 +242,7 @@ updated: 2026-07-15
 > 英美主导的 RCT 评估投资巨大，但在大规模实施后高达 90% 的干预实验显示零效应或未达显著影响。
 
 > [!claim] [[Argument_Pampaka_2016_IJRME|Pampaka et al. (2016)]] — 大规模干预的零效应与萎靡感
-> Pampaka, Williams & Homer 在 IJRME"什么有效"特刊导言中诊断了一个关键经验事实：尽管 [[Education Endowment Foundation|EEF]]（最初约 £125M）和美国 DOE 等机构对 RCT 进行了大量主导性资助，"至今很少有显著正向的教育实践在大规模上出现"（p.231）。这一发现直接动摇了 EBE 核心推动力的经验基础——如果大规模投入未能产生大规模效果，则"什么有效"议程本身的有效性需要被重新审视。RCT 领域正面临一种"萎靡感（malaise）"，源于"该方法未能识别大规模有效的干预"（p.233）。特刊中 Spybrook 等的 [[Cluster Randomized Trials|CRT]] 精度研究提供了技术层面的回应，但编者质疑这些技术改进"是否真的能产生必要的差异"。[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]]
+> Pampaka, Williams & Homer 在 IJRME"什么有效"特刊导言中诊断了一个关键经验事实：尽管 [[Education Endowment Foundation|EEF]]（最初约 £125M）和美国 DOE 等机构对 RCT 进行了大量主导性资助，"至今很少有显著正向的教育实践在大规模上出现"（p.231）。这一发现直接动摇了 EBE 核心推动力的经验基础——如果大规模投入未能产生大规模效果，则"什么有效"议程本身的有效性需要被重新审视。RCT 领域正面临一种"萎靡感（malaise）"，源于"该方法未能识别大规模有效的干预"（p.233）。特刊中 Spybrook 等的 CRT 精度研究提供了技术层面的回应，但编者质疑这些技术改进"是否真的能产生必要的差异"。[[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]]
 > 
 
 > [!claim] Wiliam D. (2019) — 反馈元分析-平均效应的误导性
@@ -256,7 +256,7 @@ updated: 2026-07-15
 > 即使暂时接受 RCT 和研究综合可以产生项目有效性知识，仍然存在一个更后设的问题：哪些效果、哪些研究、哪些复制条件足以使项目被公共机构标记为"有证据"？在清算中心语境中，"evidence-based"只有有限的实践[[Construct|构念]]效度。
 
 > [!claim] [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 清算中心评级不一致
-> Wadhwa, Zheng & Cook 将"什么算作 evidence-based"转化为清算中心实践中的[[Construct Validity|构念效度]]问题。比较 12 个教育清算中心并在 10 个清算中心的 1,359 个项目中估计跨机构一致性：83.2% 的项目只被一个清算中心评级，仅 17% 有多重评级可供比较；在多重评级项目中，类似评级仅出现在约 30% 的情形。评级不一致主要来自清算中心对高等级证据标准的差异——尤其是是否要求复制、独立复制和治疗后持续效果。即使接受 RCT 和研究综合可以产生项目有效性知识，哪些效果、哪些研究、哪些复制条件足以使项目被标记为"有证据"仍无共识。使用者不应把单一清算中心评级视为高效度、已认证的知识。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]
+> Wadhwa, Zheng & Cook 将"什么算作 evidence-based"转化为清算中心实践中的[[Construct Validity|构念效度]]问题。比较 12 个教育清算中心并在 10 个清算中心的 1,359 个项目中估计跨机构一致性：83.2% 的项目只被一个清算中心评级，仅 17% 有多重评级可供比较；在多重评级项目中，类似评级仅出现在约 30% 的情形。评级不一致主要来自清算中心对高等级证据标准的差异——尤其是是否要求复制、独立复制和治疗后[[Fade-out Effect|持续效果]]。即使接受 RCT 和研究综合可以产生项目有效性知识，哪些效果、哪些研究、哪些复制条件足以使项目被标记为"有证据"仍无共识。使用者不应把单一清算中心评级视为高效度、已认证的知识。[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024]]
 
 ---
 

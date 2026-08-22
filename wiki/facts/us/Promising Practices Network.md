@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 22
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - ppn
@@ -36,6 +36,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Regression Discontinuity Design]]"
+  - "[[Time Series Design]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -90,7 +92,7 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> PPN 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=1, [[Quasi-Experimental Designs|QED]]=1, RDD=0, ITS=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> PPN 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=1, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Time Series Design|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **[[Effect Size|效应量]]绝对阈值设定** PPN 是少数直接将效应量大小写入最高准入门槛的清算中心之一，要求标准化效应量至少达到 **0.25 个标准差（ES ≥ 0.25 SD）** 且达到[[Statistical Significance|统计显著性]]水平([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 12]])。
 > 2. **[[Sample Size Determination|样本量]]硬性门槛** 要求纳入研究的样本总量必须达到 **N > 100**，以确保统计检验力与估计稳定性。
@@ -114,7 +116,7 @@ updated: 2026-08-21
 > PPN 在早期教育清算生态中扮演了重要桥梁角色，其历史评级在后续 Wadhwa et al. 的多中心比较中被广泛引用：
 > - [[Open Court Reading]]（OCR）— PPN 评为 Promising，肯定其在早期识字率上的积极表现，但因部分研究[[Effect Size|效应量]]波动未达 Proven 门槛([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 22]])。
 > - [[Peer-Assisted Learning Strategies]]（PALS）— PPN 评为 Promising，与 [[What Works Clearinghouse|WWC]]、[[Best Evidence Encyclopedia|BEE]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 共同构成对同伴辅导模式的广泛支持[[Chain of Evidence|证据链]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 23–24]])。
-> - [[Communities in Schools]]（CIS）— PPN 历史评级为 Promising，与 [[National Dropout Prevention Center|NDPC]] 的最高推荐接近，但低于 [[Blueprints for Healthy Youth Development|Blueprints]] 和 WWC 的否定结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
+> - [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）— PPN 历史评级为 Promising，与 [[National Dropout Prevention Center|NDPC]] 的最高推荐接近，但低于 [[Blueprints for Healthy Youth Development|Blueprints]] 和 WWC 的否定结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
 
 ---
 

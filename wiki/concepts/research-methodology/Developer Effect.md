@@ -5,7 +5,7 @@ aliases:
 summary: "指项目开发者委托、参与或实施的评估往往得到系统性高于独立第三方的效果估计，用于分析利益关系如何影响教育证据。"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Categorical Funding]]"
   - "[[Heterogeneity]]"
+  - "[[Evaluator Independence]]"
   - "[[Preregistration]]"
 related_theories: []
 related_methods:
@@ -95,7 +96,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - **vs [[Publication Bias]]** — 发表偏倚是开发者效应的可能解释机制之一（估计解释约 66%），但开发者效应是一个更广泛的现象，可能还涉及选择性报告、[[Researcher Degrees of Freedom|研究者自由度]]和[[Implementation Fidelity|实施忠实度]]
-> - **vs [[Researcher Degrees of Freedom]]** — 研究者自由度是产生开发者效应的可能行为机制；开发者效应是这一机制在开发者 vs. 独立评估者比较中表现出的系统性结果
+> - **vs [[Researcher Degrees of Freedom]]** — 研究者自由度是产生开发者效应的可能行为机制；开发者效应是这一机制在开发者 vs. [[Evaluator Independence|独立评估者]]比较中表现出的系统性结果
 
 ## 实证发现
 

@@ -9,7 +9,7 @@ aliases:
 summary: "循证教育改革中的制度化中介机构，通过设定因果证据标准、审查实证研究和发布有效性评级，将学术证据转化为学校采购和政策决策可用的干预信息；实证表明其评级实践面临显著的综合门槛分歧与构念效度挑战。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 65
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,9 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
+  - "[[Evaluator Independence]]"
+  - "[[Fade-out Effect]]"
+  - "[[Iatrogenic Effects in Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Convergent and Discriminant Validity]]"
@@ -58,6 +61,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Multitrait-Multimethod Matrix]]"
   - "[[Experimental Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
@@ -150,7 +154,7 @@ updated: 2026-08-21
 > - **证据标准制定（Standard Setting）** 明确界定何种研究设计可作为合法证据。普遍推崇 [[Randomised Controlled Trials|随机对照试验]]（RCT），但对集群校正（HLM/ICC）、[[Attrition|流失]]模型（[[Attrition]]）、[[Intent-to-Treat Analysis|意向治疗分析]]（ITT） 与准实验（[[Quasi-Experimental Designs|QED]]）制定了悬殊的准入规则([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–11]])。
 > - **[[Literature Search|文献检索]]与准入筛选（Literature Screening）** 依据机构使命、资助规模与出版形式筛选[[Document|文献]]。部分机构（如 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]）强制要求同行评审期刊，部分机构（如 [[What Works Clearinghouse|WWC]]）依托充裕预算开展大规模灰色文献与委托评估报告筛查([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
 > - **单项研究因果质量评估（Study Quality Appraisal）** 对单项因果识别设计的[[Internal Validity|内部效度]]进行技术审查，评估基线等值性、样本流失偏倚风险以及混杂[[Variable|变量]]控制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
-> - **跨研究证据综合与最高门槛判定（Evidence Synthesis & Highest Hurdle）** 决定项目获得最高评级的前置条件，核心涉及**独立评估者复制（Evaluator Independence）**、**12 个月干预后持续效果（Sustained Effects）** 以及 **医源性伤害排除（Iatrogenic Harm）**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 11–15]])。
+> - **跨研究证据综合与最高门槛判定（Evidence Synthesis & Highest Hurdle）** 决定项目获得最高评级的前置条件，核心涉及**[[Evaluator Independence|独立评估者]]复制（Evaluator Independence）**、**12 个月[[Fade-out Effect|干预后持续效果]]（Sustained Effects）** 以及 **[[Iatrogenic Effects in Education|医源性伤害]]排除（Iatrogenic Harm）**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 11–15]])。
 > - **面向[[Praxis|实践]]者的信息[[Transfer Translation Transformation|转译]]与发布（Public Dissemination）** 将高度复杂的统计参数转换为分层评级语言（如 1/2/3 级），发布于开放数据库供公众检索([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
 
 > [!logic-map]- 证据清算中心的[[Knowledge Mobilisation|知识转译]]与评级生成机制
@@ -205,7 +209,7 @@ updated: 2026-08-21
 ### 命题一　清算中心评级实践在实证上呈现低收敛性与有限的构念效度
 
 > [!concept-lens] [[Convergent and Discriminant Validity|收敛效度]]与多质多法检验
-> 探讨清算中心体系作为特质测量工具，在多大程度上能够对同一教育干预的有效性给出稳定、收敛的评级。基于 Campbellian 多质多法（MTMM）框架，[[Reliability|信度]]与跨机构收敛性是[[Construct Validity|构念效度]]的先决条件。
+> 探讨清算中心体系作为特质测量工具，在多大程度上能够对同一教育干预的有效性给出稳定、收敛的评级。基于 Campbellian 多质多法（[[Multitrait-Multimethod Matrix|MTMM]]）框架，[[Reliability|信度]]与跨机构收敛性是[[Construct Validity|构念效度]]的先决条件。
 
 > [!claim] [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]]
 > **评级收敛效度的经验崩溃** 实证检验 10 个清算中心评估的 1,359 个教育项目发现，83.2% 的项目仅由单一清算中心评级（存在严重的信息孤岛）；在 228 个获得多重评级的项目中，完全一致率仅约 30.5%，且一致性主要体现为共同判定为“无效/不推荐”（占 21.3%），而共同判定为最高推荐（1&1）仅占 1.2%；完全对立的极端冲突（1&3，一家强推 vs 另一家否决）高达 35.4%，成为最主要的分歧形态。这证明“基于证据”在清算中心体系中仅具有极其有限的[[Praxis|实践]]构念效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 3, 18–20, 26]])。
@@ -218,7 +222,7 @@ updated: 2026-08-21
 > 探讨导致清算中心评级分裂的核心方法论机制：是各中心对单项研究的[[Causality|因果推断]]设计偏好不同，还是在项目层面的证据综合规则上设定了截然不同的门槛。
 
 > [!claim] [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]]
-> **证据综合门槛悬殊是分歧首因** 12 个清算中心在单项研究层面高度一致地将 [[Randomised Controlled Trials|RCT]] 视为黄金标准，但当进入项目级综合评级时产生本质分化：[[Blueprints for Healthy Youth Development|Blueprints]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 强制要求“至少一项由独立评估者完成的研究”和“干预结束后 12 个月的持续效果”，直接过滤了 90% 以上的商业项目；而 [[National Dropout Prevention Center|NDPC]] 仅需单项无需长期追踪的显著研究即可给予最高评级。评级不一致的最主要根源在于综合门槛与[[Document|文献]]池准入规则，而非因果识别偏好([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 11–15, 26–27]])。
+> **证据综合门槛悬殊是分歧首因** 12 个清算中心在单项研究层面高度一致地将 [[Randomised Controlled Trials|RCT]] 视为黄金标准，但当进入项目级综合评级时产生本质分化：[[Blueprints for Healthy Youth Development|Blueprints]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 强制要求“至少一项由[[Evaluator Independence|独立评估者]]完成的研究”和“干预结束后 12 个月的[[Fade-out Effect|持续效果]]”，直接过滤了 90% 以上的商业项目；而 [[National Dropout Prevention Center|NDPC]] 仅需单项无需长期追踪的显著研究即可给予最高评级。评级不一致的最主要根源在于综合门槛与[[Document|文献]]池准入规则，而非因果识别偏好([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 11–15, 26–27]])。
 
 ---
 
@@ -279,17 +283,17 @@ updated: 2026-08-21
 > > [!axis] 纯因果严谨性（[[Internal Validity]]） vs [[Praxis|实践]][[External Validity|可推广性]]（[[Ecological Validity]]）
 > > 围绕清算中心过分偏好小样本纯净实验还是重视大规模真实复杂情境的争论。
 > >
-> > - **方法学派** 坚守严格排除混杂与偏倚，要求多重独立复制与 12 个月持续效果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。
+> > - **方法学派** 坚守严格排除混杂与偏倚，要求多重独立复制与 12 个月[[Fade-out Effect|持续效果]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。
 > > - **实践学派** 批评过度严苛的标准阻碍了富有前景的本土创新工具，呼吁建立更具弹性的包容性证据验证路径([[Argument_Dachet_2021_ROE|Dachet & Baye, 2021, pp. 175–176]])。
 
 > [!tension] 核心治理哲学张力：宽进（Inclusiveness） vs 严出（[[Selectivity]]）
 > - **宽进导向（NDPC / 实践支持型）** 降低准入门槛（单项 [[Quasi-Experimental Designs|QED]] 或现场运行 3 年即可认证），最大化网罗一线实践项目，避免学校无项目可选。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 15–16)]]
-> - **严出导向（[[Blueprints for Healthy Youth Development|Blueprints]] / 临床医学型）** 设立极高过滤门槛（独立第三方评估 + 12 个月随访 + 零医源性伤害），宁缺毋滥，严防财政浪费与不良副作用。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 14–15)]]
+> - **严出导向（[[Blueprints for Healthy Youth Development|Blueprints]] / 临床医学型）** 设立极高过滤门槛（独立第三方评估 + 12 个月随访 + 零[[Iatrogenic Effects in Education|医源性伤害]]），宁缺毋滥，严防财政浪费与不良副作用。[[Argument_Wadhwa_2024_RER|(Wadhwa et al., 2024, pp. 14–15)]]
 
 > [!critique] 外部批评
 > - **[[Construct Validity|构念效度]]危机** 清算中心评级高度依附于特定机构审查细则，“基于证据”缺乏跨平台的一致涵义，难以作为无偏的客观特质([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 26]])。
 > - **实践采购信息缺失** 评级页面高度浓缩于抽象统计指标，未提供成本预算、教师培训负担与本地生源适配等实施关键信息([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 121]])。
-> - **开发者评估偏倚风险** 部分清算中心未设置独立评估者隔离墙，导致由商业机构或课程开发者自行主导的评估（常伴随高估[[Effect Size|效应量]]）轻松获得最高评级推荐([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 13–15]])。
+> - **开发者评估偏倚风险** 部分清算中心未设置[[Evaluator Independence|独立评估者]]隔离墙，导致由商业机构或课程开发者自行主导的评估（常伴随高估[[Effect Size|效应量]]）轻松获得最高评级推荐([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 13–15]])。
 
 > [!warning] 适用局限
 > - 结论主要适用于承担“项目有效性认证与评级”职能的清算中心，不直接等同于纯粹承担知识检索、专业网络联络或个案咨询的教育中介组织([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 28–29]])。
