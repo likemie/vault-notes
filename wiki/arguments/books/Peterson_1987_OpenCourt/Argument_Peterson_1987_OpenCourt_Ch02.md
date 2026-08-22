@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Theory of Knowledge]]"
   - "[[Praxis]]"
+  - "[[General Education]]"
   - "[[International Education]]"
   - "[[Reliability]]"
   - "[[Conatus]]"
@@ -127,7 +128,7 @@ updated: 2026-08-17
 ### 国际毕业会考设想与需求条件的错位（1925–1945）
 
 > [!claim] 1925 年的国际毕业会考设想超前于实际需求与承载机构
-> Paul Meyhoffer 已经提出跨国共同毕业资格，并触及通识教育与专门教育怎样平衡这一长期课程问题。设想出现时，[[International Schools|国际学校]]数量很少，学生跨国流动有限，各国侨民又拥有各自的学校和升学通道。大学入学较少依赖竞争性考试，学校、家庭、大学和政府都缺少为共同资格承担改革成本的迫切理由。方案的教育问题意识可以延续四十年，制度需求却尚未形成（pp. 15–16）。
+> Paul Meyhoffer 已经提出跨国共同毕业资格，并触及[[General Education|通识教育]]与专门教育怎样平衡这一长期课程问题。设想出现时，[[International Schools|国际学校]]数量很少，学生跨国流动有限，各国侨民又拥有各自的学校和升学通道。大学入学较少依赖竞争性考试，学校、家庭、大学和政府都缺少为共同资格承担改革成本的迫切理由。方案的教育问题意识可以延续四十年，制度需求却尚未形成（pp. 15–16）。
 
 > [!event-context] 1924 年日内瓦国际学校建立了提出设想的组织起点
 > - **建校需求来自国际组织人员** 日内瓦国际学校于 1924 年创办，最初服务国际联盟工作人员家庭。它在多国学生与跨国家庭集中生活的环境中较早面对课程和升学如何跨越国家边界的问题。

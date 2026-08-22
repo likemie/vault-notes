@@ -9,10 +9,10 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 related_concepts:
   - "[[Rote Learning]]"
   - "[[Experiential Learning]]"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Quality Education]]"
   - "[[Selective Affinity]]"
+  - "[[General Education]]"
   - "[[Decodification]]"
   - "[[Growth]]"
   - "[[Variable]]"
@@ -169,7 +170,7 @@ updated: '2026-07-22'
 > **战后占领期日本与西德对美式进步教育的异质[[Transfer Translation Transformation|转译]]** 战后美占当局向日本和西德强推美式进步教育学制。日本进步教育者与文部省官员顺应占领军要求，将其转译为日本走向现代化与民主重生的必然逻辑；而西德保守教育精英则以维护德意志文化独特性为名，将其转译为对地方自治的粗暴干涉并联合抵制。[[Argument_Cowen_2009_CE|(Cowen, 2009, p. 323)]]
 
 > [!claim] [[Argument_Yan_2025_JCS|Yan & Morris (2025, p. 486)]]
-> **进步教育作为全球化趋势的政策修辞资源** 政府在推行本土争议性课程（如香港通识教育 LS）时，常将进步教育探究法包装为“全球教育趋势”，借助国际专家背书与进步教育修辞来为本地政策提供合法性包装。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 486–487)]]
+> **进步教育作为全球化趋势的政策修辞资源** 政府在推行本土争议性课程（如香港[[General Education|通识教育]] LS）时，常将进步教育探究法包装为“全球教育趋势”，借助国际专家背书与进步教育修辞来为本地政策提供合法性包装。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 486–487)]]
 
 ---
 
@@ -181,7 +182,7 @@ updated: '2026-07-22'
 > - **1910s–1930s — 跨国传播与分支分化** 苏俄 Shatskii 建立大规模农村进步教育实验；中国[[Hu Shi|胡适]]、[[Tao Xingzhi|陶行知]]引进杜威思想；而后苏联在 1930 年代因阶级意识分歧转向全面拒绝杜威。[[Argument_Ryabyy_2024_Maneto|(Ryabyy, 2024, pp. 103–104)]]; [[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 75)]]
 > - **1940s–1950s — 战后占领区移植与抵抗** 美占当局在二战后向日本与西德推行美式进步教育，日本顺应[[Transfer Translation Transformation|转译]]为现代化逻辑，西德以学术标准为名展开抵制。[[Argument_Cowen_2009_CE|(Cowen, 2009, p. 323)]]
 > - **1980s–2000s — 本土重构与认知负荷论批判** 中国将杜威重构为[[Quality Education|素质教育]]代言人；同时教育心理学家 Sweller 提出[[Cognitive Load Theory|认知负荷理论]]，对进步教育无指导探究提出严厉批评。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 93)]]
-> - **2020s — 高压考试下的[[Pragmatic Paradigm|实用主义]]转向与修辞化** Wang & McLaughlin 揭示中国高利害考试下 [[Learner-Centred Education|LCE]]/进步教育的实用主义提分[[Decodification|解码]]；Yan & Morris 分析香港通识教育中进步教育修辞的工具化运用。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]; [[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 486–487)]]
+> - **2020s — 高压考试下的[[Pragmatic Paradigm|实用主义]]转向与修辞化** Wang & McLaughlin 揭示中国高利害考试下 [[Learner-Centred Education|LCE]]/进步教育的实用主义提分[[Decodification|解码]]；Yan & Morris 分析香港[[General Education|通识教育]]中进步教育修辞的工具化运用。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]; [[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 486–487)]]
 
 ---
 
@@ -220,7 +221,7 @@ updated: '2026-07-22'
 > | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey\|杜威]]教育思想的文献与论述 | 历史[[Recontextualization\|再脉络化]]追踪与文献分析 | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education\|素质教育]]代言人的四次质变再脉络化 | 历史文献分析 — | 聚焦特定思想家在中国的接受史 |
 > | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study\|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability\|考试问责]]、[[Learner-Centred Education\|LCE]]/进步教育系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将进步探究法[[Pragmatic Paradigm\|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation\|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
 > | [[Argument_Cowen_2009_CE\|Cowen (2009)]] | 战后占领期日本与西德美占区教育改革档案与立法记录 | 比较教育转移与[[Transfer Translation Transformation\|转译]]分析 | 美式学制与进步教育指令、地方政治文化、转译修辞 | 日本顺应美式指令转译为民主重生与行政效能结合，西德保守精英以学术标准为名联合抵制综合中学 | 历史比较分析 — | 揭示战后美式进步教育移植的[[Heterogeneity\|异质性]]结果 |
-> | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] | 香港通识教育（LS）1990s–2020s 创立与废除全过程官方文档与立法记录 | 课程政策历史分析，结合 Cuban 3 因素框架 | 进步教育运动、国家安全/新冷战、立法协商 | 创立阶段政府将进步教育探究法包装为全球趋势修辞；废除阶段国家安全上升为决定性力量 | 课程政策分析 — | 揭示了进步教育话语在课程政治中的修辞功能 |
+> | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] | 香港[[General Education\|通识教育]]（LS）1990s–2020s 创立与废除全过程官方文档与立法记录 | 课程政策历史分析，结合 Cuban 3 因素框架 | 进步教育运动、国家安全/新冷战、立法协商 | 创立阶段政府将进步教育探究法包装为全球趋势修辞；废除阶段国家安全上升为决定性力量 | 课程政策分析 — | 揭示了进步教育话语在课程政治中的修辞功能 |
 
 ---
 
@@ -231,4 +232,4 @@ updated: '2026-07-22'
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 以[[John Dewey|杜威]]在中国 100 年的四次[[Recontextualization|再脉络化]]为例，阐述进步教育思想在跨国转移中被本土意识形态议程选择性挪用与重写的机制。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 揭示中国高利害考试文化下以学生为中心/进步教育探究法被[[Pragmatic Paradigm|实用主义]]再脉络化为提分与效率工具、与儒家[[Dialogue in Education|对话]]传统亲和但保留权力共享硬边界的机制。
 > - [[Argument_Cowen_2009_CE|Cowen (2009)]] — 分析战后占领期美式进步教育在日德两国的[[Heterogeneity|异质性]][[Transfer Translation Transformation|转译]]与抵抗。
-> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 分析香港通识教育改革中政府如何将进步教育包装为“全球教育趋势”作为政策合法化修辞资源。
+> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 分析香港[[General Education|通识教育]]改革中政府如何将进步教育包装为“全球教育趋势”作为政策合法化修辞资源。

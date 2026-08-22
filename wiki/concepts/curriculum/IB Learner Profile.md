@@ -23,10 +23,10 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Theory of Knowledge]]"
   - "[[Creativity, Action, Service]]"
-  - "[[Extended Essay]]"
   - "[[Concurrency of Learning]]"
   - "[[Global Citizenship]]"
   - "[[Operationalization]]"
+  - "[[Whole Person Education]]"
   - "[[Critical Thinking]]"
   - "[[Reflexivity]]"
   - "[[IB Diploma Programme]]"
@@ -84,7 +84,7 @@ updated: 2026-08-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **全人教育目标** 超越纯认知学习，强调伦理、情感与社会责任感（如“有原则的”、“懂得关爱的”）。
+> - **[[Whole Person Education|全人教育]]目标** 超越纯认知学习，强调伦理、情感与社会责任感（如“有原则的”、“懂得关爱的”）。
 > - **跨界融合枢纽** 作为一致的价值观，鼓励教师和学生展现这些特质，从而促进对跨学科学习的更深理解。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 228)]]
 >
 > > [!taxonomy] 10 项核心特质（10 Attributes）

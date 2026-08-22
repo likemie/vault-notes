@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Gamification]]"
   - "[[Document]]"
   - "[[Active Learning]]"
+  - "[[General Education]]"
   - "[[Student Engagement]]"
   - "[[Bildung]]"
   - "[[Hypothesis]]"
@@ -304,7 +305,7 @@ Cabral（1987, p. 470）将角色扮演描述为一种已被广泛改造用于�
 > - **促进[[Active Learning|主动学习]]参与** 角色扮演促进学生参与[[Active Learning|主动学习]]（Freeman, 2003; Kerr et al., 2003）
 > - **科学课堂中的动机与理解** 在科学课堂中角色扮演发展学生更深入的理解、改善学生动机，并促进跨能力水平的学习（Aubusson et al., 1997）
 > - **未来科学家的创造力** 学校中的角色扮演增强未来科学家的创造性和创新潜力（Bergen, 2009），并鼓励创造力与想象力（Johnson, 1998）
-> - **通识教育课程** 角色扮演符合美国学院与大学协会（AACU）等寻求促进更有活力的大学通识教育课程的组织所确立的教学框架（Oberle, 2004; AACU, 2002）
+> - **[[General Education|通识教育]]课程** 角色扮演符合美国学院与大学协会（AACU）等寻求促进更有活力的大学通识教育课程的组织所确立的教学框架（Oberle, 2004; AACU, 2002）
 > - **补充传统讲授** 角色扮演活动补充传统讲授，因为它们模拟真实世界经验并增强学生对信息的保持（DeNeve & Heppner, 1997）
 > - **概念理解与关键技能** 角色扮演活动增强学生对概念的理解，发展可迁移到课堂之外其他活动的关键技能，并提高学生在学习过程中的动机和参与水平（Livingstone, 1999）
 > - **挑战刻板印象** 角色扮演活动可以让[[Student Engagement|学生投入]]挑战性别、阶级和种族刻板印象的项目，削弱学生与教师之间的等级关系，并鼓励学生参与民主实践（Maddrell, 1994）（pp. 6–7）

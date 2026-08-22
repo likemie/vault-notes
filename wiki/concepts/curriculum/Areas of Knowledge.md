@@ -6,7 +6,7 @@ aliases:
 summary: "知识论课程中用于比较不同学科与知识传统如何形成概念、证据、方法和判断标准的课程框架；其历史根源是以多种思维方式回应学科割裂，并逐步由早期知识形式主题发展为可比较的领域分类。"
 type: concept
 domain: "curriculum"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Construct Validity]]"
+  - "[[General Education]]"
   - "[[Variable]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
@@ -284,7 +285,7 @@ updated: 2026-08-17
 ## 概念演变
 
 > [!dev-timeline] [[Theory of Knowledge|TOK]] 中知识领域框架的演变
-> - **1960 年　跨学科统整课程出现先行草图** 牛津课程改革报告反对把通识教育等同于广泛记忆事实，建议在文理专业课程之外设置统整板块，讨论各学科的方法、限制和相互联系。皮特森后来把它视为 TOK 的第一份草图，并认为潜在[[Epistemology|认识论]]比报告使用的方法论更准确。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 41–43)]]
+> - **1960 年　跨学科统整课程出现先行草图** 牛津课程改革报告反对把[[General Education|通识教育]]等同于广泛记忆事实，建议在文理专业课程之外设置统整板块，讨论各学科的方法、限制和相互联系。皮特森后来把它视为 TOK 的第一份草图，并认为潜在[[Epistemology|认识论]]比报告使用的方法论更准确。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 41–43)]]
 > - **1965 至 1967 年　六学科与共同反思课程结合** 六学科分布提供多种思维方式，法国哲学传统则经雷诺和德雷福斯转化为全体文凭学生必修的 TOK。领域比较开始承担显化学科知识形式、建立联系和支持迁移的功能。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 28–30)]] [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 46–48)]]
 > - **[[International Baccalaureate|IB]] 早期　八主题形成混合型知识结构** 第四版总指南并列语言与逻辑、自然科学、人文科学、数学、历史、道德与政治判断、审美判断以及意见、信仰、知识与真理。学科领域、价值判断和共同认识条件仍处在同一层级。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, p. 48)]]
 > - **1987 年所载成熟纲要　知识体系成为独立主题组** 附录一把数学、自然科学、人文科学和历史归入知识体系，把道德、政治和审美归入价值判断与知识，并用语言、逻辑和真理主题连接各领域。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Appendix 1, pp. 221–223)]]

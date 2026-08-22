@@ -11,7 +11,7 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,8 @@ tags:
   - policy/national-security
   - theme/curriculum-reform
   - theme/history-education
-related_concepts: []
+related_concepts:
+  - "[[General Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -58,7 +59,7 @@ updated: 2026-07-13
 ## 教育后果：三重冲击
 
 > [!success] 教育后果：三重冲击
-> 抗议被定性为国家安全危机后，香港教育承受了三重相互关联的冲击——中国历史课程改革加速、通识教育科废除、以及整体治理模式的系统性转变。三重冲击共享同一个政治逻辑：**通过教育解决政治问题——用国家认同替代政治不满，用命令式决策消解协商式民主。**
+> 抗议被定性为国家安全危机后，香港教育承受了三重相互关联的冲击——中国历史课程改革加速、[[General Education|通识教育]]科废除、以及整体治理模式的系统性转变。三重冲击共享同一个政治逻辑：**通过教育解决政治问题——用国家认同替代政治不满，用命令式决策消解协商式民主。**
 >
 > ### 第一重：中国历史课程改革加速——自古以来叙事的制度化
 >
@@ -95,7 +96,7 @@ updated: 2026-07-13
 > [!warning] 争议与评论
 > ### 教育后果的因果归因：教育真的导致了抗议吗？
 >
-> [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 的核心论证不是通识教育科 (LS) 确实导致年轻人参与抗议——而是分析**叙事如何被构建以服务于政策目的**。官媒的攻击将复杂的政治抗议简化为教育失败，为课程替代提供了合法性。这一逻辑同样适用于 [[Argument_Xu_2024_CE|Xu (2024)]] 揭示的中国历史课程改革：**抗议被用作加速一项已在进行的改革的政治窗口**——即使没有抗议，课程改革也会推进；抗议的作用是为加速提供了危机合法性。
+> [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] 的核心论证不是[[General Education|通识教育]]科 (LS) 确实导致年轻人参与抗议——而是分析**叙事如何被构建以服务于政策目的**。官媒的攻击将复杂的政治抗议简化为教育失败，为课程替代提供了合法性。这一逻辑同样适用于 [[Argument_Xu_2024_CE|Xu (2024)]] 揭示的中国历史课程改革：**抗议被用作加速一项已在进行的改革的政治窗口**——即使没有抗议，课程改革也会推进；抗议的作用是为加速提供了危机合法性。
 ...
 
 ---

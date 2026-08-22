@@ -21,15 +21,15 @@ tags:
   - theme/public-trust
   - method/survey-research
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Public Engagement with Science]]"
   - "[[Science Capital]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # Public Attitudes to Science Survey 2025
@@ -40,19 +40,18 @@ updated: 2026-08-22
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2025 年发布，由英国研究与创新署（UK Research and Innovation, UKRI）委托权威民调机构 Ipsos 联合英国科学协会（British Science Association）执行。
-> - **适用地区 / 对象** 英国全国代表性成年公众样本。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026b, p. 9)]]
-> - **问题背景** 为英国政府、资助机构及科学界提供关于公众对科学贡献认知、参与意愿、公平性忧虑及新兴技术（如 AI）信任度的实证基准。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026b, pp. 9–14)]]
+> - **适用地区 / 对象** 英国全国代表性成年公众样本。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026c, p. 9)]]
+> - **问题背景** 为英国政府、资助机构及科学界提供关于公众对科学贡献认知、参与意愿、公平性忧虑及新兴技术（如 AI）信任度的实证基准。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026c, pp. 9–14)]]
 
 ---
 
 ## 核心数据与发现
 
-> [!stat-cards]- 核心数据
-> - **87%** 公众对高校科学家的信任度极高，显著高于政府官员与社交媒体网红。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026b, p. 12)]]
-> - **83%** 公众认为科学家为社会做出了宝贵贡献。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026b, p. 12)]]
-> - **60%（五分之三）** 受访公众认为自己获取的科学信息过少，强烈渴望参与更多的科学议题双向[[Dialogue in Education|对话]]。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026b, p. 9)]]
-> - **公平性忧虑** 大多数公众表达了对科学参与公平性的担忧，认为投身科学和接触科学的机会并未对所有人公平开放。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026b, p. 9)]]
-> - **AI 极化** 公众对人工智能的潜在收益与社会风险呈现高度极化态度。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026b, p. 12)]]
+> [!stat-cards]- 核心数据（全国民意与非正式参与）
+> - **87% vs 83%** 公众对高校科学家信任度极高（87%），且压倒性认为科学对社会做出了宝贵贡献（83%）。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026c, p. 12)]]
+> - **62% 渴求更多科学信息** 62% 受访公众明确表示自己平时看到或听到的科学信息太少，较 2019 年的 47% 出现大幅激增。
+> - **仅 12% 认为公众充分参与科技决策** 公众在科技重大决策中的参与感降至历史新低，自 2008 年的 21% 持续滑落至 12%，暴露出严重的民主治理落差。
+> - **场馆年访问率格局** 过去 12 个月内，42% 访问动物园/水族馆，33% 访问科技博物馆，24% 访问科学探索中心（较 2019 年 19% 显著增长），17% 参加校外科普讲座，13% 访问天文馆，7% 参与科学节。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 47)]]
 
 ---
 

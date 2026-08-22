@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Examination-Oriented Education]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[General Education]]"
   - "[[Critical Thinking]]"
   - "[[Growth]]"
   - "[[Constructivist Paradigm]]"
@@ -73,7 +74,7 @@ updated: 2026-07-13
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 通识教育科（LS）是香港高中必修的核心科目，课程采用跨学科议题本位探究模式，不设官方统编教科书，通过独立专题探究（IES）及分级外部考评，旨在培养学生的[[Critical Thinking|批判性思维]]、多角度分析能力和责任市民素养（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]]）。
+> [[General Education|通识教育]]科（LS）是香港高中必修的核心科目，课程采用跨学科议题本位探究模式，不设官方统编教科书，通过独立专题探究（IES）及分级外部考评，旨在培养学生的[[Critical Thinking|批判性思维]]、多角度分析能力和责任市民素养（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 485]]）。
 
 > [!policy-design]- 政策设计
 > - **设计目标** 克服灌输式应试教学，引导学生从多角度分析争议性社会议题，培养理性沟通、尊重证据、包容不同价值观的开放态度（[[Argument_Vickers_2024_CE|Vickers, 2024, p.150]]）。
@@ -92,7 +93,7 @@ updated: 2026-07-13
 
 ## 与公民科（CSD）的核心差异
 
-> [!contrast-table] 通识教育科（LS）与[[Citizenship and Social Development|公民与社会发展科]]（CSD）对比
+> [!contrast-table] [[General Education|通识教育]]科（LS）与[[Citizenship and Social Development|公民与社会发展科]]（CSD）对比
 > | 比较维度 | 通识教育科（LS） (2009–2021) | 公民与社会发展科（CSD） (2021–) |
 > |---|---|---|
 > | **课程核心目标** | 培养批判性思维（[[Critical Thinking]]）、多角度分析社会议题，培育具备社会能动性的参与式公民（pp.141, 150）。 | 强调爱国主义、国族认同（[[Zhonghua Minzu]]）、守法意识与国家安全教育，重塑青年的臣民认同（pp.149, 152）。 |
@@ -157,7 +158,7 @@ updated: 2026-07-13
 > [!stat-cards]- 核心数据
 > - **250** 教学计划总课时容量达250小时，以保证深入的跨学科议题思辨。
 > - **20** 独立专题探究（IES）占据高考总评成绩的20%，是培养学生自我导向研究的核心工具。
-> - **12** 从2009年9月落地必修，到2021年9月彻底废除，通识教育科共运行了12年（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 490–491]]）。
+> - **12** 从2009年9月落地必修，到2021年9月彻底废除，[[General Education|通识教育]]科共运行了12年（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 490–491]]）。
 
 ---
 
@@ -193,7 +194,7 @@ updated: 2026-07-13
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Citizenship and Social Development]] | 政策/事实 | 取代通识教育科并强推的新核心必修科目。 |
+> | [[Citizenship and Social Development]] | 政策/事实 | 取代[[General Education\|通识教育]]科并强推的新核心必修科目。 |
 > | [[National Security Law]] | 政策/事实 | 强行废除通识科并实施新审查的威慑性宪制基础。 |
 | [[National Education]] | 政策/事实 | 通识科被废除的根本政治原因在于其被指责未能有效推行国民教育。 |
 | [[My Pledge to Act]] | 政策/事实 | 配合公社科去政治化所推行的课外[[Psychologisation\|心理化]]协同项目。 |

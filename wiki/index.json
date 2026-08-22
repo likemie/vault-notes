@@ -1662,6 +1662,16 @@
     ]
   },
   {
+    "title": "General Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/General Education.md",
+    "aliases": [
+      "通识教育",
+      "culture générale",
+      "allgemeine Bildung"
+    ]
+  },
+  {
     "title": "Generative Themes",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Generative Themes.md",
@@ -2001,6 +2011,17 @@
     "path": "wiki/concepts/educational-philosophy/Vergegenkunft.md",
     "aliases": [
       "过去现在未来同现"
+    ]
+  },
+  {
+    "title": "Whole Person Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Whole Person Education.md",
+    "aliases": [
+      "全人教育",
+      "整全教育",
+      "education of the whole person",
+      "whole-person education"
     ]
   },
   {
@@ -4299,6 +4320,18 @@
     ]
   },
   {
+    "title": "Informal Science Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Informal Science Learning.md",
+    "aliases": [
+      "非正式科学学习",
+      "非正式科学参与",
+      "非正式科学教育",
+      "Informal Science Engagement",
+      "Informal Science Education"
+    ]
+  },
+  {
     "title": "Language Experience Approach",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Language Experience Approach.md",
@@ -5948,6 +5981,18 @@
     "aliases": [
       "证据链",
       "evidential chain"
+    ]
+  },
+  {
+    "title": "Citizen Science",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Citizen Science.md",
+    "aliases": [
+      "公民科学",
+      "大众科学",
+      "群众科学",
+      "参与式科学",
+      "Participatory Science"
     ]
   },
   {
@@ -16057,12 +16102,32 @@
     ]
   },
   {
+    "title": "Association for Science and Discovery Centres",
+    "type": "fact",
+    "path": "wiki/facts/uk/Association for Science and Discovery Centres.md",
+    "aliases": [
+      "ASDC",
+      "英国科学与探索中心协会",
+      "Association for Science and Discovery Centres (ASDC)"
+    ]
+  },
+  {
     "title": "Beyond 2000 Report",
     "type": "fact",
     "path": "wiki/facts/uk/Beyond 2000 Report.md",
     "aliases": [
       "Beyond 2000",
       "Beyond 2000 Science Education for the Future"
+    ]
+  },
+  {
+    "title": "Big Butterfly Count",
+    "type": "fact",
+    "path": "wiki/facts/uk/Big Butterfly Count.md",
+    "aliases": [
+      "大蝴蝶计数",
+      "英国大蝴蝶计数调查",
+      "The Big Butterfly Count"
     ]
   },
   {
@@ -16111,6 +16176,15 @@
     "aliases": [
       "CREST",
       "Creativity in Science and Technology Awards"
+    ]
+  },
+  {
+    "title": "Dippy on Tour",
+    "type": "fact",
+    "path": "wiki/facts/uk/Dippy on Tour.md",
+    "aliases": [
+      "迪皮恐龙巡展",
+      "Dippy on Tour: A Natural History Adventure"
     ]
   },
   {
@@ -16288,6 +16362,16 @@
     "path": "wiki/facts/uk/Strength in Places Fund.md",
     "aliases": [
       "英国地方优势基金"
+    ]
+  },
+  {
+    "title": "The Perception Census",
+    "type": "fact",
+    "path": "wiki/facts/uk/The Perception Census.md",
+    "aliases": [
+      "感知普查",
+      "英国感知多样性普查",
+      "Dreamachine and the Perception Census"
     ]
   },
   {
@@ -18194,6 +18278,11 @@
     "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch01",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch01.md"
+  },
+  {
+    "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch02",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md"
   },
   {
     "title": "Argument_OxfordUIDP_2019_UIPartnerships",

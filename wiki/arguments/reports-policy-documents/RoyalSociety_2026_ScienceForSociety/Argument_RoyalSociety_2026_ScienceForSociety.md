@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "report"
-argument_related_count: 26
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -19,8 +19,8 @@ year: 2026
 isbn: 978-1-78252-829-6
 citation: "The Royal Society. (2026). Science for society: How society and science shape each other. London: The Royal Society."
 citation_aliases:
-  - "The Royal Society, 2026b"
-  - "The Royal Society (2026b)"
+  - "The Royal Society, 2026c"
+  - "The Royal Society (2026c)"
 tags:
   - source/report
   - theme/public-engagement
@@ -28,6 +28,7 @@ tags:
   - theme/science-policy
   - region/uk
 related_concepts:
+  - "[[Informal Science Learning]]"
   - "[[Public Engagement with Science]]"
   - "[[Questionnaire]]"
   - "[[Central Question]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Praxis]]"
   - "[[Practical Inquiry in Science Education]]"
+  - "[[Citizen Science]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods:
@@ -65,7 +67,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety
 
@@ -74,7 +76,7 @@ updated: 2026-08-22
 ## 报告定位
 
 > [!monograph-profile] 报告档案
-> - **核心对象** 英国科学与社会的互动生态，涵盖科学教育、非正式科学学习、大众媒体与虚假信息、产业与第三部门、政府科技决策以及学术界科研人员的[[Public Engagement with Science|公众科学参与]]机制。
+> - **核心对象** 英国科学与社会的互动生态，涵盖科学教育、[[Informal Science Learning|非正式科学学习]]、大众媒体与虚假信息、产业与第三部门、政府科技决策以及学术界科研人员的[[Public Engagement with Science|公众科学参与]]机制。
 > - **领导架构** 报告由[[Walter Bodmer|瓦尔特·博德默尔]]（Walter Bodmer）撰写前言回顾自 1985 年公众理解科学（Public Understanding of Science, PUS）报告以来的 40 年演进，由天体物理学家[[Carlos Frenk|卡洛斯·弗伦克]]（Carlos Frenk）与物理学家[[Sheila Rowan|希拉·罗文]]（Sheila Rowan）共同担任指导委员会联席主席主持全书研制。
 > - **论证类型** 宏观政策评估与国家战略研究，结合全国民意调查、科研人员[[Questionnaire|问卷]]、纵向监测数据与跨领域[[Case Study|案例研究]]。
 > - **处理粒度** `chapter-arguments`。本篇为全报告总览页，提炼导论、宏观背景、全局方法与跨章综合，各章论证细节由独立章节 Argument 承载。
@@ -152,7 +154,7 @@ updated: 2026-08-22
 > [!chapter-arc] 章节推进线
 > - **导论与宏观背景（pp. 1–15）** 确立 40 年演进脉络，分析数字时代、虚假信息与公众信任态势，提出全书总主张。
 > - **第 1 章 — Education（pp. 29–40）** 夯实全民[[Scientific Literacy|科学素养]]基础，聚焦科学本质理解、数据与 AI 素养、[[Practical Inquiry in Science Education|实验探究教学]]及 16–18 岁宽口径课程改革。
-> - **第 2 章 — Informal engagement with science（pp. 41–54）** 待处理 — 分析科学中心、博物馆、科技节等非正式科学教育基础设施的更新与财政可持续性。
+> - **第 2 章 — Informal engagement with science（pp. 41–54）** 待处理 — 分析科学中心、博物馆、科技节等[[Informal Science Learning|非正式科学教育]]基础设施的更新与财政可持续性。
 > - **第 3 章 — Mass media and misinformation（pp. 55–66）** 待处理 — 剖析在线信息环境、社交媒体算法、科学新闻中介及虚假信息治理。
 > - **第 4 章 — Industry and business sector / Third sector（pp. 67–78）** 待处理 — 探讨产业研发人员与慈善/患者组织的公众沟通[[Praxis|实践]]与伦理考量。
 > - **第 5 章 — Policy（pp. 79–90）** 待处理 — 阐述政府科学咨询独立性、证据赋能决策与公众参与政策制定的机制。
@@ -169,7 +171,7 @@ updated: 2026-08-22
 > [!textbook-overview] 章节概览表
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|第1章 教育]] | 阐明科学教育作为公民科学素养与人才管道的基石，剖析科学素养转型、实验探究课时滑坡、后 16 岁过早专门化及师资专业发展困境。 | [[Scientific Literacy]]、[[Data Literacy]]、[[AI Literacy]]、[[Practical Inquiry in Science Education]]、[[Science Capital]]、[[Beyond 2000 Report]]、[[Twenty First Century Science]]、[[UK Science Education Tracker]] |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|第1章 教育]] | 阐明科学教育作为[[Citizen Science\|公民科学]]素养与人才管道的基石，剖析科学素养转型、实验探究课时滑坡、后 16 岁过早专门化及师资专业发展困境。 | [[Scientific Literacy]]、[[Data Literacy]]、[[AI Literacy]]、[[Practical Inquiry in Science Education]]、[[Science Capital]]、[[Beyond 2000 Report]]、[[Twenty First Century Science]]、[[UK Science Education Tracker]] |
 
 ---
 

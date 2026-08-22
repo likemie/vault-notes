@@ -7,7 +7,7 @@ aliases:
 summary: "指个体理解科学探究过程、批判性评估证据来源、把握科学知识的暂定性与不确定性，并在日常生活和公共决策中做出理性判断的核心素养"
 type: concept
 domain: "curriculum"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Data Literacy]]"
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
+  - "[[Citizen Science]]"
   - "[[Construct]]"
   - "[[AI Literacy]]"
   - "[[Variable]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # Scientific Literacy
@@ -93,15 +94,15 @@ updated: 2026-08-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **公民科学素养范式** | 强调证据评估、科学本质与日常决策能力 | 中小学全员基础科学教育 | Millar & Osborne (1998); The Royal Society (2026) |
+> | **[[Citizen Science\|公民科学]]素养范式** | 强调证据评估、科学本质与日常决策能力 | 中小学全员基础科学教育 | Millar & Osborne (1998); The Royal Society (2026) |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1985 — [[Bodmer Report 1985|博德默尔报告]]确立基调** 强调科学渗透于现代社会，提出 16 岁前义务教育全员普及科学。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026b, pp. 4–5)]]
-> - **1998 — 《[[Beyond 2000 Report|Beyond 2000]]》重塑[[Construct|构念]]** 明确提出面向全体学生的“公民科学素养”构想，启发 [[OECD]] [[PISA]] 评价标准。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
+> - **1985 — [[Bodmer Report 1985|博德默尔报告]]确立基调** 强调科学渗透于现代社会，提出 16 岁前义务教育全员普及科学。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026c, pp. 4–5)]]
+> - **1998 — 《[[Beyond 2000 Report|Beyond 2000]]》重塑[[Construct|构念]]** 明确提出面向全体学生的“[[Citizen Science|公民科学]]素养”构想，启发 [[OECD]] [[PISA]] 评价标准。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 31)]]
 > - **2026 — 数字与人工智能时代的科学素养** 融入[[Data Literacy|数据素养]]、[[AI Literacy|人工智能素养]]及应对虚假信息的批判性防线。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 30–32)]]
 
 ---

@@ -7,7 +7,7 @@ summary: "德国教育学家和 Didaktik 代表人物，批判建设性教学论
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
+  - "[[General Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Reflexivity]]"
   - "[[Constructivist Paradigm]]"
@@ -54,7 +55,7 @@ updated: '2026-06-22'
 > [!person-profile] 人物档案
 > - **身份位置** 德国教育学家，马尔堡大学（University of Marburg）教授，德国批判建设性教学论（Critical-constructive [[Didaktik]]）和范畴教育学（Categorical [[Bildung]]）的领军人物。
 > - **核心角色** 重新阐释经典教化（Bildung）理论的社会政治意义，将教学论（[[Didaktik]]）与不确定的开放未来及公共责任相连，为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）等跨学科课程改革奠定了核心的哲学和课程组织框架。
-> - **代表贡献**[[Epochal Key Problems|时代关键问题]]（Epochal Key Problems）、批判建设性教学论（Critical-constructive Didaktik）、通识教育（Allgemeinbildung）重构。
+> - **代表贡献**[[Epochal Key Problems|时代关键问题]]（Epochal Key Problems）、批判建设性教学论（Critical-constructive Didaktik）、[[General Education|通识教育]]（Allgemeinbildung）重构。
 
 > [!citation-card]- 人物定位的关键来源
 > Wolfgang Klafki 是德国教育学与 [[Didaktik]] 传统中的关键人物。他把 [[Bildung]] 与课程/教学理论连接起来，提出以 [[Epochal Key Problems]] 指导课程规划，使教育面向开放未来、公共责任和复杂社会问题。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7]]
@@ -101,7 +102,7 @@ updated: '2026-06-22'
 >   - **阶段转向** 此阶段致力于克服传统“实质教育”（Materiale Bildung，侧重客观文化知识）与“形式教育”（Formale Bildung，侧重学生内在力量与方法能力）的二元对立。Klafki 提出，只有当一个教学内容兼具对主体的客观价值（实质）和主观能力塑造（形式）时，其选择才是正当的。在此基础上，他为教师提供了一套通过五大基本问题分析教学内容“教育价值”的工具。
 > - **1970s–1990s — 批判建设性教学论与 Allgemeinbildung 重构阶段（Kritisch-konstruktive Didaktik）**
 >   - **核心著作** *Aspekte kritisch-konstruktiver Erziehungswissenschaft* (1976), *Neue Studien zur Bildungstheorie und Didaktik* (1985/1991).
->   - **核心概念** **[[Epochal Key Problems|时代关键问题]]（Epochal Key Problems）**、三大基础能力（**自我决定能力** Selbstbestimmungsfähigkeit、**参与决定能力** Mitbestimmungsfähigkeit、**团结能力** Solidaritätsfähigkeit）、**通识教育（Allgemeinbildung）的三重含义**、**七大教学规划维度**（七个教学分析面向与情境分析的整合）。
+>   - **核心概念** **[[Epochal Key Problems|时代关键问题]]（Epochal Key Problems）**、三大基础能力（**自我决定能力** Selbstbestimmungsfähigkeit、**参与决定能力** Mitbestimmungsfähigkeit、**团结能力** Solidaritätsfähigkeit）、**[[General Education|通识教育]]（Allgemeinbildung）的三重含义**、**七大教学规划维度**（七个教学分析面向与情境分析的整合）。
 >   - **阶段转向** 受[[Critical Theory|批判理论]]（法兰克福学派）和 1968 年学生运动的冲击，Klafki 吸收了社会科学实证研究与[[Action Research|行动研究]]方法，以回应传统精神科学教学论被质疑为保守及流于“节日教学论”（Feiertagsdidaktik，缺乏方法和具体行动支持）的局限。在此阶段，他将教化与社会的民主化和解放相联系，并主张以全球共同面对的时代难题（如和平、环境、技术后果、不平等和民主化）作为课程规划的中心。
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge Framework]]"
   - "[[Epistemic Stances]]"
   - "[[Construct]]"
+  - "[[General Education]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
   - "[[Learner Autonomy]]"
@@ -137,7 +138,7 @@ updated: 2026-08-22
 > - **1965 年　法国哲学要求被重新设计** [[Gerard Renaud|杰拉德·雷诺]]（Gerard Renaud）与法国哲学总督学特里先生（Monsieur Trie）协商，把哲学实体学科列入第三组选修，同时要求所有文凭学生共同修读范围较窄的 TOK。法国哲学教育对判断和反思的要求由此进入国际课程，学生无须共同接受法国国家哲学大纲。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 29–30)]]
 > - **1965–1967 年　法英合作形成初始课程** Gerard Renaud 先把制度折中转化为课程框架，法国哲学督学迪娜·德雷福斯（Dina Dreyfus）随后成为主要合作者，并在课程表现进入评价的范围内担任首任评估者。牛津的跨学科统整问题、法国哲学传统和 [[International Baccalaureate|IB]] 六学科结构在这一阶段汇合。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 46–48)]]
 
-> [!event-context] TOK 源于两种通识教育模式同时失效
+> [!event-context] TOK 源于两种[[General Education|通识教育]]模式同时失效
 > 欧陆百科全书式课程把通识教育理解为接触尽可能多的学科。学生可能每周学习十余门课程，却主要记忆彼此分离的信息和预先组织好的解释。英国高中最后阶段则把学生提前分入文科或理科，集中准备少数高级程度考试；不考试的通识学习很难得到学校和学生的稳定投入。前者牺牲理解深度，后者牺牲思维方式的广度。IB 改革者因此把通识教育重新界定为发展历史性、科学性、数学性、道德性和审美性思考，并使这些思考能够用于新的问题。TOK 承担的是把这种共同目标显化和连接起来的任务。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 38–43)]]
 
 > [!challenges] TOK 最初针对的两项课程缺陷

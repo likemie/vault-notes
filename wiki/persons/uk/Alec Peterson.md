@@ -8,7 +8,7 @@ summary: "英国教育家、牛津大学教育学教授，国际文凭组织（I
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
+  - "[[General Education]]"
   - "[[International Education]]"
   - "[[Praxis]]"
   - "[[Critical Thinking]]"
@@ -60,7 +61,7 @@ updated: 2026-08-17
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育家（1908–1988），牛津大学教育系主任、教授；[[International Baccalaureate|国际文凭]]组织（IBO）首任总干事（1968–1977）。
 > - **核心角色** 参与[[Founding of Atlantic College|大西洋学院创办]]及其学术课程设计，随后成为国际文凭预科项目（[[IB Diploma Programme]]）与[[Theory of Knowledge|知识论]]（TOK）课程的核心奠基人与总建筑师。
-> - **代表贡献** 把跨国共同教育面临的课程与大学资格承认问题转化为国际文凭制度，并提出“教育在于思维过程而非知识内容”的通识教育观。
+> - **代表贡献** 把跨国共同教育面临的课程与大学资格承认问题转化为国际文凭制度，并提出“教育在于思维过程而非知识内容”的[[General Education|通识教育]]观。
 
 ## 生平与职涯
 
@@ -82,7 +83,7 @@ updated: 2026-08-17
 
 ## 核心思想
 
-> [!claim] 核心主张：作为过程而非内容的通识教育
+> [!claim] 核心主张：作为过程而非内容的[[General Education|通识教育]]
 > Peterson 批判传统学校将教育还原为“事实存入”（fact-depositing），指出百科全书式的课程让学生疲于在化学、法语与地理间机械吸收孤立信息，而无暇形成自己的思维方式。他主张教育的根本任务在于培养跨学科的[[Critical Thinking|批判性思维]]与思考能力（如历史性思考、科学性思考），这成为 [[International Baccalaureate|IB]] 课程与 [[Theory of Knowledge|TOK]] [[Epistemology|认识论]]设计的核心哲学源泉 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 13–16)]]。
 
 ---

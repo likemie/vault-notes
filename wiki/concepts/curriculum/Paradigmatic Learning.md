@@ -6,7 +6,7 @@ aliases:
 summary: "一种以共同核心维持学科背景、以代表性问题承载深度研究的课程取舍原则，使有限课时用于形成学科思维，并为知识爆炸条件下的课程选择提供依据。"
 type: concept
 domain: "curriculum"
-related_count: 5
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,7 +17,9 @@ tags:
   - theme/curriculum-design
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[General Education]]"
   - "[[Encyclopaedism]]"
+  - "[[Praxis]]"
   - "[[Areas of Knowledge]]"
 related_theories: []
 related_methods: []
@@ -43,7 +45,7 @@ updated: 2026-08-22
 
 > [!concept-lens] 内容选择、学习目标与课程条件
 > - **含义** 以有限而有代表性的内容承载学科方法，深度来自持续使用证据、概念和解释规则，而非单纯延长某一主题的授课时间。
-> - **用途** 回应知识总量无法穷尽、课时有限以及通识教育同时需要学科广度和学习深度的问题。
+> - **用途** 回应知识总量无法穷尽、课时有限以及[[General Education|通识教育]]同时需要学科广度和学习深度的问题。
 > - **成立条件** 范例必须连接共同核心和更宽背景，教师需要接受课程必然留有空白，考试也必须奖励理解和运用而非完整内容回忆。
 
 > [!boundary]- 概念边界
@@ -101,8 +103,8 @@ updated: 2026-08-22
 > [!concept-lens] 广度与深度的分层组合
 > 范例学习不在同一层面平均折中广度和深度，而是让跨学科分布承担广度、单科范例承担深度。
 
-> [!claim] [[Alec Peterson|亚历克·彼得森]]（Alec Peterson）
-> **通识教育通过专门化实现** IB 的六门学科使学生接触人类主要的思想工具，各学科再以共同核心和深度选项组织学习。学生因此不必在十三门课程中浅尝辄止，也不必像英国文理分流那样只剩极窄的专门训练；课程可以在结构上保持广度，在实际学习中获得深度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–45)]]
+> [!claim] 亚历克·彼得森（[[Alec Peterson]]）
+> **[[General Education|通识教育]]通过专门化实现** [[International Baccalaureate|IB]] 的六门学科使学生接触人类主要的思想工具，各学科再以共同核心和深度选项组织学习。学生因此不必在十三门课程中浅尝辄止，也不必像英国文理分流那样只剩极窄的专门训练；课程可以在结构上保持广度，在实际学习中获得深度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–45)]]
 
 ---
 
@@ -135,7 +137,7 @@ updated: 2026-08-22
 > 范例学习要求教师改变完成课程的判断标准，也要求考试停止奖励知识清单的完整复现。结构改革若没有进入备课和评价，旧课程逻辑会继续运行。
 
 > [!claim] Becker
-> **教师接受决定改革能否进入实践** 德国教育委员会围绕高中课程先后形成十四版建议，最终由教育部长据此向各州提出核心与选项结构。Becker 后来发现，教师虽知道全面覆盖已经不可能，仍按照仿佛全部知识可以掌握的方式备课，也没有接受主动留下空白。正式制度已经改变，课堂仍维持百科全书式规划，范例学习因而没有真正实施。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
+> **教师接受决定改革能否进入[[Praxis|实践]]** 德国教育委员会围绕高中课程先后形成十四版建议，最终由教育部长据此向各州提出核心与选项结构。Becker 后来发现，教师虽知道全面覆盖已经不可能，仍按照仿佛全部知识可以掌握的方式备课，也没有接受主动留下空白。正式制度已经改变，课堂仍维持百科全书式规划，范例学习因而没有真正实施。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
 
 ### 命题总览
 
@@ -152,11 +154,11 @@ updated: 2026-08-22
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1960 — “学会学习”的课程草图** 牛津大学教育系报告提出跨文理的专业学习和统一反思课程，并主张通识教育不应再等同于一般知识，为范例学习所需的“深度＋方法反思”提供前提。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 41–43)]]
+> - **1960 — “学会学习”的课程草图** 牛津大学教育系报告提出跨文理的专业学习和统一反思课程，并主张[[General Education|通识教育]]不应再等同于一般知识，为范例学习所需的“深度＋方法反思”提供前提。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 41–43)]]
 > - **1968 — 六门多样学科的深度学习** 让·卡佩勒主张，与其浏览十余个[[Areas of Knowledge|知识领域]]，不如深入学习约六门性质不同的学科，让学生形成自己的头脑。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 43)]]
-> - **1960 年代后期 — 进入国际文凭课程设计** Becker 的建议被转化为国际文凭（International Baccalaureate，IB）学科大纲中的概略共同核心和多个深度选项。六学科负责通识分布，单科范例负责学习深度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–45)]]
+> - **1960 年代后期 — 进入[[International Baccalaureate|国际文凭]]课程设计** Becker 的建议被转化为国际文凭（International Baccalaureate，IB）学科大纲中的概略共同核心和多个深度选项。六学科负责通识分布，单科范例负责学习深度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–45)]]
 > - **1970 年代 — 德国核心与选项建议经历十四版修订** Becker 参与德国教育委员会的建议起草，第十四版获得通过；教育部长随后据此向各州提出高中阶段的核心与选项结构。正式政策开始接近范例课程的制度形态。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
-> - **1979 — 德国改革实施反思** Becker 指出，教师即使承认知识爆炸使百科全书教育不可能，仍会依照固定知识全集备课。主动留下空白没有进入课堂判断，结构改革因而没有转化为教学实践。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
+> - **1979 — 德国改革实施反思** Becker 指出，教师即使承认知识爆炸使百科全书教育不可能，仍会依照固定知识全集备课。主动留下空白没有进入课堂判断，结构改革因而没有转化为教学[[Praxis|实践]]。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 44–45)]]
 
 ---
 
@@ -165,7 +167,7 @@ updated: 2026-08-22
 > [!case] 国际历史课程使完整内容清单失去可行性
 > 国家历史课程可以把本国王朝、战争和革命列入共同知识，国际课程却必须同时面对法国、美国、俄国、中国和墨西哥等多种革命经验。继续增加必学事件只会恢复百科全书式浅层覆盖。范例学习把较宽历史背景放入共同核心，再选择部分事件深入处理材料、因果和解释，使学生形成历史思维，而非记住一份全球事件目录。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 41, 44)]]
 
-> [!case] IB 学科大纲把共同背景与科内选择分开
+> [!case] [[International Baccalaureate|IB]] 学科大纲把共同背景与科内选择分开
 > 十三至十六岁阶段已经积累的基础内容构成共同核心的主要来源，高中最后两年进一步强化必要背景。教师和学生随后从若干选项中选择主题深入研究。共同核心避免范例成为孤岛，选项则防止核心吞噬全部课时。六门性质不同的学科采用这一结构后，通识广度与科内深度分别由不同课程层次承担。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–45)]]
 
 > [!case] 德国改革显示结构改变不等于教学改变
@@ -186,4 +188,4 @@ updated: 2026-08-22
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3)]] 追溯范例学习如何连接牛津通识教育改革、卡佩勒对百科全书课程的批评、Becker 的德国教育改革思想和 IB 的共同核心与深度选项结构。
+> - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3)]] 追溯范例学习如何连接牛津[[General Education|通识教育]]改革、卡佩勒对百科全书课程的批评、Becker 的德国教育改革思想和 [[International Baccalaureate|IB]] 的共同核心与深度选项结构。

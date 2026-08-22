@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt"
 argument_key: "Argument_Peterson_1987_OpenCourt"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 argument_kind: "book"
-argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -33,9 +33,11 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Schools]]"
   - "[[Praxis]]"
+  - "[[General Education]]"
   - "[[Extended Essay]]"
   - "[[Creativity, Action, Service]]"
   - "[[Theory of Knowledge]]"
+  - "[[Whole Person Education]]"
   - "[[Paradigmatic Learning]]"
   - "[[Assessment Backwash]]"
   - "[[Transfer Translation Transformation]]"
@@ -120,14 +122,14 @@ updated: 2026-08-17
 > - **[[Founding of Atlantic College|大西洋学院创办]]（1958–1962）** 创办者、校长、校址、资金、跨国招生与救援课程把和平教育理想转化为学校制度。
 > - **国家资格冲突显现（1962–1964）** 大西洋学院使用英国课程维持共同教学，却暴露课程偏向、语言公平和学生回国升学障碍。
 > - **[[International Baccalaureate|国际文凭]]制度化（1961–1970）** 日内瓦教师倡议经独立组织、连续资金、课程折中、试验学校、塞夫尔会议和大学有限承认，发展为实际升学资格。
-> - **教育目标转化为课程与评价（1960年代后期）** 通识教育被重新定义为多种思维方式，并经六学科、共同核心与深度选项、[[Extended Essay|拓展论文]]（Extended Essay，EE）、创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，[[Creativity, Action, Service|CASS]]）、[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）及综合评价制度具体化。
+> - **教育目标转化为课程与评价（1960年代后期）** [[General Education|通识教育]]被重新定义为多种思维方式，并经六学科、共同核心与深度选项、[[Extended Essay|拓展论文]]（Extended Essay，EE）、创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，[[Creativity, Action, Service|CASS]]）、[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）及综合评价制度具体化。
 
 ## 章节推进
 
 > [!chapter-arc] 章节推进线
 > - **Ch. 1 — The [[Founding of Atlantic College]]** 从和平教育理念、行动与服务机制、创校领导、场地与资金、跨国共同生活及课程资格矛盾，解释第一个联合世界书院实验如何形成并产生国际共同资格的需要。
 > - **Ch. 2 — The [[Founding of the International Baccalaureate]]** 从 1925 年未实现的国际毕业考试设想出发，追踪教师网络、[[International Schools Examination Syndicate|国际学校考试辛迪加]]（[[International Schools]] Examination Syndicate，ISES）／[[International Baccalaureate|国际文凭]]办公室（International Baccalaureate Office，IBO）、基金会资助、六学科结构、英法双语与大学承认试验如何共同建立 IB。
-> - **Ch. 3 — From Educational Aims to a Curriculum and Examinations** 从全人教育目标出发，比较欧陆百科全书课程、英国过早专门化与美国大学通识传统，说明六学科、[[Paradigmatic Learning|范例学习]]、EE、[[Creativity, Action, Service|CASS]]、[[Theory of Knowledge|TOK]] 与强调[[Assessment Backwash|评估反拨]]的考试体系如何形成。
+> - **Ch. 3 — From Educational Aims to a Curriculum and Examinations** 从[[Whole Person Education|全人教育]]目标出发，比较欧陆百科全书课程、英国过早专门化与美国大学通识传统，说明六学科、[[Paradigmatic Learning|范例学习]]、EE、[[Creativity, Action, Service|CASS]]、[[Theory of Knowledge|TOK]] 与强调[[Assessment Backwash|评估反拨]]的考试体系如何形成。
 
 > [!chapter-index] 章节索引
 > - **Ch. 1 — The Founding of Atlantic College** [[Argument_Peterson_1987_OpenCourt_Ch01]] — 大西洋学院的组织创办与课程难题。
@@ -139,7 +141,7 @@ updated: 2026-08-17
 > |---|---|---|
 > | [[Argument_Peterson_1987_OpenCourt_Ch01\|第1章 大西洋学院的创办]] | 追踪和平教育理念怎样经由领导、场地、资金、共同生活与服务课程成为学校制度，并说明英国国家资格为何无法解决国际课程与跨国升学问题。 | [[Kurt Hahn\|库尔特·哈恩（Kurt Hahn）]]、[[Desmond Hoare\|德斯蒙德·霍尔（Desmond Hoare）]]、[[Atlantic College Curriculum 1962]]、[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]、[[Founding of Atlantic College]] |
 > | [[Argument_Peterson_1987_OpenCourt_Ch02\|第2章 国际文凭的创立]] | 说明实际需求、教师动员、独立组织、连续资金、改革型课程、试验学校和有限大学承认怎样共同构成国际资格。 | [[International Schools Examination Syndicate]]、[[1967 Sevres International Conference on the IB]]、[[Founding of the International Baccalaureate]]、[[Action Research]] |
-> | [[Argument_Peterson_1987_OpenCourt_Ch03\|第3章 从教育目标到课程与考试]] | 追踪 IB 如何在三种通识教育传统的张力中形成六学科与核心组件，并以效度、可靠性和评估反拨之间的权衡设计综合评价。 | [[Paradigmatic Learning]]、[[Extended Essay]]、[[Creativity, Action, Service]]、[[Theory of Knowledge]]、[[Assessment Backwash]] |
+> | [[Argument_Peterson_1987_OpenCourt_Ch03\|第3章 从教育目标到课程与考试]] | 追踪 IB 如何在三种[[General Education\|通识教育]]传统的张力中形成六学科与核心组件，并以效度、可靠性和评估反拨之间的权衡设计综合评价。 | [[Paradigmatic Learning]]、[[Extended Essay]]、[[Creativity, Action, Service]]、[[Theory of Knowledge]]、[[Assessment Backwash]] |
 
 ## 跨章综合
 

@@ -10,7 +10,7 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
   - "[[International Education]]"
+  - "[[General Education]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -81,7 +82,7 @@ updated: '2026-05-18'
 > [!example]
 > - [[International Schools]] — ESF 是国际学校体系的一个典型案例
 > - [[Fourth Culture]] — ESF 的本地华人学生处于典型的第四文化空间
-> - [[Liberal Studies]] — 香港高中通识教育科，与 ESF 的课程国际化形成对比
+> - [[Liberal Studies]] — 香港高中[[General Education|通识教育]]科，与 ESF 的课程国际化形成对比
 > - [[Symposium on International Teaching]] — 2007 年港大研讨会，ESF 教师参与其中
 
 ---

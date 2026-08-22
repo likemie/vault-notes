@@ -6,7 +6,7 @@ aliases:
 summary: "知识经济时代围绕毕业生可雇用性形成的比较排序逻辑，文凭只是入场门槛，个体还需通过经历管理和能力展示争取竞争优势"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Governmentality]]"
   - "[[Governing at a Distance]]"
   - "[[Academic Engagement]]"
+  - "[[General Education]]"
   - "[[Critical Thinking]]"
   - "[[Causality]]"
   - "[[Academic Achievement]]"
@@ -123,7 +124,7 @@ SCD 中突出强调的技能主要是**结果导向的（outcome-oriented）**�
 
 > [!warning]
 > - **个人化责任的陷阱** 就业力概念的相对化将结构性竞争压力转化为个体的管理责任——学生被要求不断优化自我呈现和积累[[Economy of Experience|履历资本]]，但不同阶层的学生在这方面的起点和资源截然不同。这一批评指向就业力话语可能掩盖了劳动力市场的结构性不平等（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - **教育的工具化** 就业力为导向的高等教育可能将大学的育人目标窄化为职业技能培训，挤压了通识教育、[[Critical Thinking|批判性思维]]和公民素养的空间。详见 [[Graduate Attributes]] 中关于毕业生特质涵盖更广泛素养的讨论
+> - **教育的工具化** 就业力为导向的高等教育可能将大学的育人目标窄化为职业技能培训，挤压了[[General Education|通识教育]]、[[Critical Thinking|批判性思维]]和公民素养的空间。详见 [[Graduate Attributes]] 中关于毕业生特质涵盖更广泛素养的讨论
 - **[[Single-Case Design|SCD]] 技能与实际就业力的证据缺口** 瞄准 SCD 框架中的关键技能是否真的能提升个体的就业力，尚缺乏充分证据。Pellegrino & Hilton（2012, p.4）指出，仅有少数研究证明了 21 世纪素养与成人结果之间的[[Causality|因果关系]]；公开宣称的技能（国际框架中）与正式要求的技能（求职时）之间的比较研究尚未完成([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。Finegold & Notabartolo（2010, p.41）进一步指出，如果工作岗位的设计不使用这些能力，投资提升个体通用能力不太可能带来正回报
 
 ---

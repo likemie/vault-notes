@@ -4,12 +4,13 @@ aliases: ["T型技能", "T-shaped competencies", "T型能力"]
 summary: "Donofrio and DeMarco (2022) 提出的跨学科技能模型，指兼具跨学科广泛沟通能力与单一学科深度问题解决能力的人才特质，用于产学合作中的劳动力培养讨论"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: ["theme/talent-development", "theme/workforce-training", "theme/university-industry-collaboration"]
 related_concepts:
+  - "[[General Education]]"
   - "[[University-Industry Collaboration]]"
   - "[[Translational Research]]"
   - "[[Applied Medical Innovation]]"
@@ -39,7 +40,7 @@ updated: 2026-05-28
 
 > [!example]
 > - vs 跨学科能力（interdisciplinarity） — T 型技能特别强调深度与广度的组合：仅有广度而无深度是"—"型，仅有深度而无广度是"I"型。T 型要求两者兼备。
-> - vs 通识教育（general education） — 通识教育侧重于知识面的广度，T 型技能同时要求在一个学科内的深度专业训练。
+> - vs [[General Education|通识教育]]（general education） — 通识教育侧重于知识面的广度，T 型技能同时要求在一个学科内的深度专业训练。
 
 ---
 

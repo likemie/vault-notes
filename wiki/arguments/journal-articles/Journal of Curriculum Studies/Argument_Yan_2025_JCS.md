@@ -10,7 +10,7 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - region/china
   - level/k12
 related_concepts:
+  - "[[General Education]]"
   - "[[Analytic Framework]]"
   - "[[Policy Borrowing]]"
   - "[[Progressive Education]]"
@@ -83,7 +84,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question] 课程变革的政治逻辑
-> 通识教育科（[[Liberal Studies]], LS）是香港高中一门没有学科基础、与高等教育和就业无直接关联的跨学科必修科目。它于 2009 年引入，2021 年被[[Citizenship and Social Development|公民与社会发展科]]（Citizenship and Social Development, CSD）取代。同一门科目在短短十二年内经历了从创立到废除的完整生命周期，其背后的驱动力是什么？
+> [[General Education|通识教育]]科（[[Liberal Studies]], LS）是香港高中一门没有学科基础、与高等教育和就业无直接关联的跨学科必修科目。它于 2009 年引入，2021 年被[[Citizenship and Social Development|公民与社会发展科]]（Citizenship and Social Development, CSD）取代。同一门科目在短短十二年内经历了从创立到废除的完整生命周期，其背后的驱动力是什么？
 >
 > 此前的研究分别关注 LS 的创立(Deng, 2009)或废除(Vickers & Morris, 2022)，但从未将两者并置分析。并置的意义在于：创立阶段与废除阶段的政治气候截然不同，对比两个阶段可以揭示课程变革中哪些因素是持续的、哪些是突变的，以及全球化论述在其中扮演的角色到底是动因还是修辞。
 
@@ -110,7 +111,7 @@ citation_aliases:
 
 > [!info] [[Historical Document Analysis of Curriculum|历史文献分析]]
 > - **方法**[[Historical Document Analysis of Curriculum|课程历史文献分析]]，对课程指引、政府出版物、媒体报道和既有学术[[Document|文献]]进行系统分析
-> - **数据来源** 《通识教育科课程及评估指引》(2007)、《[[Citizenship and Social Development|公民与社会发展科]]课程及评估指引》(2021)、历届《施政报告》、教育局通告与新闻稿、立法会记录、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》）、香港本地媒体、以及围绕 LS 的学术文献
+> - **数据来源** 《[[General Education|通识教育]]科课程及评估指引》(2007)、《[[Citizenship and Social Development|公民与社会发展科]]课程及评估指引》(2021)、历届《施政报告》、教育局通告与新闻稿、立法会记录、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》）、香港本地媒体、以及围绕 LS 的学术文献
 > - **分析范围** 限定在"意图课程"（intended curriculum）层面，即国家定义的官方课程，不涉及课堂实施或学生学习成果
 > - **时间跨度** 1997 年回归至 2021 年公民与社会发展科（CSD）实施，覆盖 LS 从酝酿到废除的全周期
 
@@ -159,7 +160,7 @@ LS 的设计恰好可以吸收这批教师。由于 LS 没有单一学科基础�
 
 LS 也被定位为解决香港教育体制长期痼疾的改革措施。教育委员会多年来在多份报告中反复指出的问题包括：过度学术化、以教师为中心的灌输式教学、过度依赖教科书和[[Rote Learning|死记硬背]](Morris & Adamson, 2010, 引自 p. 485)。
 
-LS 的课程设计直接回应了这些批评。《通识教育科课程及评估指引》明确表述了[[Constructivist Paradigm|建构主义]]知识观：
+LS 的课程设计直接回应了这些批评。《[[General Education|通识教育]]科课程及评估指引》明确表述了[[Constructivist Paradigm|建构主义]]知识观：
 
 > "知识是情境化的、跨学科的、由个人和社会建构的。学习者通过听讲、阅读和模仿等活动获取知识，也通过个人反思和体验式学习，以及与他人的互动、协作和[[Dialogue in Education|对话]]来[[Constructed Knowledge|建构知识]]。"(CDC & HKEAA, 2007, p. 83,原文斜体)
 

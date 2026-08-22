@@ -6,7 +6,7 @@ aliases:
 summary: "大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[General Education]]"
   - "[[Growth]]"
 related_theories: []
 related_methods:
@@ -103,7 +104,7 @@ updated: 2026-05-18
 
 > [!warning]
 > - **阶层不平等的再生产** 履历经济学将就业竞争压力转化为个体的自我管理义务，但不同阶层的学生在投资课余经历方面的起点和资源截然不同。这一概念可能被批评为将结构性不平等自然化为个人能力的差异（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）
-> - **大学教育的工具化** 当大学生活被完全[[Coding in Qualitative Research|编码]]为"履历经济学"，通识教育、探索性学习和内在[[Growth|成长]]的大学原初功能可能被挤出
+> - **大学教育的工具化** 当大学生活被完全[[Coding in Qualitative Research|编码]]为"履历经济学"，[[General Education|通识教育]]、探索性学习和内在[[Growth|成长]]的大学原初功能可能被挤出
 
 ---
 

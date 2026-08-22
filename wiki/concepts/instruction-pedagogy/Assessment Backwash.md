@@ -8,7 +8,7 @@ aliases:
 summary: "评估任务、评分规则、成绩权重及其利害关系提前进入教学与学习决策，进而改变实际课程的机制；方向取决于获分活动与课程目标是否一致，强度取决于后果、权重、任务组合和制度环境。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[International Baccalaureate]]"
   - "[[Extended Essay]]"
+  - "[[Whole Person Education]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[Alec Peterson]]"
@@ -208,7 +209,7 @@ updated: 2026-08-23
 > [!warning] 正向反拨无法消除评价取舍
 > 开放论文、口试、项目和教师评价能够保护复杂目标，也引入主观判断、考官差异、跨校可比性、成本和速度问题。多种证据与权重控制可以分散风险，却无法让每一项任务同时达到最高效度、[[Reliability|可靠性]]和最低成本。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 53–57)]]
 
-> [!warning] 考试能够保护的全人教育经验有限
+> [!warning] 考试能够保护的[[Whole Person Education|全人教育]]经验有限
 > 评价可以为深入阅读、个人表达、[[Praxis|实践]]和持续研究保留制度空间，却难以直接测量终身兴趣、知识活动带来的享受，以及学生未来改变环境的能力。持久热情仍强烈依赖教师、学校文化和考试之外的生活经验（pp. 57–59）。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 57–59)]]
 
 ---

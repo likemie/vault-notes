@@ -9,9 +9,9 @@ subtype: event
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "event"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/switzerland
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Questionnaire]]"
   - "[[Reflexivity]]"
+  - "[[General Education]]"
   - "[[Praxis]]"
 related_theories: []
 related_methods:
@@ -35,7 +36,9 @@ related_persons:
   - "[[Gerard Renaud]]"
   - "[[Alec Peterson]]"
 related_facts:
+  - "[[International Schools Association]]"
   - "[[International Schools Examination Syndicate]]"
+  - "[[International School of Geneva]]"
   - "[[Founding of Atlantic College]]"
   - "[[1967 Sevres International Conference on the IB]]"
 related_arguments:
@@ -54,9 +57,9 @@ updated: 2026-08-17
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 1924–1970 年，以瑞士日内瓦为组织中心，并通过威尔士大西洋学院、英国牛津、法国塞夫尔及多国学校和大学形成跨国试验网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 15–31)]]
-> - **关键主体** 日内瓦[[International Schools|国际学校]]教师、国际学校协会、[[International Schools Examination Syndicate|国际学校考试辛迪加]]／[[International Baccalaureate|国际文凭]]办公室、大西洋学院、牛津大学教育系、国际试验学校、基金会、大学与教育主管机关。
+> - **关键主体** 日内瓦[[International Schools|国际学校]]教师、[[International Schools Association|国际学校协会]]、[[International Schools Examination Syndicate|国际学校考试辛迪加]]／[[International Baccalaureate|国际文凭]]办公室、大西洋学院、牛津大学教育系、国际试验学校、基金会、大学与教育主管机关。
 > - **制度背景** 战前外侨学校通常按法国、英国、美国或其他国家体系分别办学；1945 年后国际学校和学生跨国流动增加，大学入学竞争又要求申请者精确准备国家课程与考试。
-> - **触发条件** 日内瓦国际学校高中物理课曾按瑞士毕业会考、英国高级程度考试、法国中学毕业会考和美国大学先修课程分为四个小组。资源浪费、国家分隔和少数国籍学生缺少适合通道，使国际共同资格从理想转化为办学必需。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 16–17)]]
+> - **触发条件** [[International School of Geneva|日内瓦国际学校]]高中物理课曾按瑞士毕业会考、英国高级程度考试、法国中学毕业会考和美国大学先修课程分为四个小组。资源浪费、国家分隔和少数国籍学生缺少适合通道，使国际共同资格从理想转化为办学必需。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 16–17)]]
 
 ---
 
@@ -77,7 +80,7 @@ updated: 2026-08-17
 > | 人物 | 角色定位 | 可归属的具体贡献 | 不宜夸大的边界 |
 > |:---|:---|:---|:---|
 > | 保罗·迈霍弗（Paul Meyhoffer） | 思想先驱 | 1925 年向 17 位欧洲教育改革者发出[[Questionnaire\|问卷]]，提出 *maturité internationale*。 | 没有收到可查证的回复，也未建立课程、考试或组织，属于前史而非直接制度创立。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]] |
-> | 德斯蒙德·科尔-贝克（Desmond Cole-Baker） | 校内发动者 | 1961 年出任日内瓦国际学校英语部主任后，把长期设想转为教师协作和机构行动。 | 主要作用是组织和启动；后续课程、考试与治理由多人共同完成。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 17)]] |
+> | 德斯蒙德·科尔-贝克（Desmond Cole-Baker） | 校内发动者 | 1961 年出任[[International School of Geneva\|日内瓦国际学校]]英语部主任后，把长期设想转为教师协作和机构行动。 | 主要作用是组织和启动；后续课程、考试与治理由多人共同完成。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 17)]] |
 > | [[Bob Leach\|鲍勃·利奇（Bob Leach）]] | 草根倡议者 | 组织 1962 年日内瓦会议，明确讨论“International Baccalaureate”，并取得 UNESCO 2,500 美元资助；以社会研究课程为切入口建立跨校教师网络。 | 他自称“original promoter”，彼得森同时提醒他只是众多推动者之一，不能据此视为唯一创始人。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–18)]] |
 > | [[Gerard Renaud\|杰拉德·雷诺（Gerard Renaud）]] | 课程总架构者 | 与范·斯梅沃德提出六学科组折中；协商把法国必修哲学转化为全体学生共同修读的知识论，连接课程广度、选择和[[Reflexivity\|反思性]]共同核心。 | 他的贡献集中于课程架构；法律组织、融资、考试实施及资格承认并非由他单独完成。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–30)]] |
 > | 安德烈·范·斯梅沃德（André van Smeevoorde） | 课程与考试设计者 | 与雷诺形成六学科组方案，随后担任语言科首任主考官，帮助法英课程传统进入共同考试结构。 | 是关键共同设计者，但不是整个项目的行政负责人。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–30)]] |
@@ -92,9 +95,9 @@ updated: 2026-08-17
 ## 经过
 
 > [!dev-timeline]- [[International Baccalaureate|国际文凭]]的起源与早期制度形成
-> - **1924–1925 — 日内瓦[[International Schools|国际学校]]提出最早设想** 日内瓦国际学校于 1924 年为国际联盟雇员子女创办。1925 年，校长保罗·迈霍弗（Paul Meyhoffer）依治理委员会要求，向 17 位欧洲教育改革者发出[[Questionnaire|问卷]]，试探建立“国际毕业会考”（maturité internationale）的可能性。现存材料没有记录回复；当时国际学校和跨国学生流动都很少，设想未进入实施，但通识教育与专门化教育的关系已经成为核心问题。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 15)]]
+> - **1924–1925 — 日内瓦[[International Schools|国际学校]]提出最早设想** [[International School of Geneva|日内瓦国际学校]]于 1924 年为国际联盟雇员子女创办。1925 年，校长保罗·迈霍弗（Paul Meyhoffer）依治理委员会要求，向 17 位欧洲教育改革者发出[[Questionnaire|问卷]]，试探建立“国际毕业会考”（maturité internationale）的可能性。现存材料没有记录回复；当时国际学校和跨国学生流动都很少，设想未进入实施，但[[General Education|通识教育]]与专门化教育的关系已经成为核心问题。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 15)]]
 >
-> - **1948–1955 — 战后需求使旧设想重新出现** 1948 年，国际意识学校会议要求日内瓦国际学校恢复倡议；1951 年成立的国际学校协会（International Schools Association，ISA）为不断增加的国际学校协调共同问题；1955 年，欧洲共同体学校创办者范·豪特再次向 ISA 呼吁建立国际文凭。大学入学竞争加剧，使学生必须精确准备某一国家的课程与考试，国际共同资格由理想议题转为现实需要。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 15–17)]]
+> - **1948–1955 — 战后需求使旧设想重新出现** 1948 年，国际意识学校会议要求日内瓦国际学校恢复倡议；1951 年成立的[[International Schools Association|国际学校协会]]（International Schools Association，ISA）为不断增加的国际学校协调共同问题；1955 年，欧洲共同体学校创办者范·豪特再次向 ISA 呼吁建立国际文凭。大学入学竞争加剧，使学生必须精确准备某一国家的课程与考试，国际共同资格由理想议题转为现实需要。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 15–17)]]
 >
 > - **1961–1962 — 日内瓦教师把倡议转为课程项目** 德斯蒙德·科尔-贝克（Desmond Cole-Baker）于 1961 年出任日内瓦国际学校英语部主任后，组织教师和日内瓦国际机构成员推进项目。1962 年，[[Bob Leach|鲍勃·利奇]]（Bob Leach）领导社会研究教师召开小型会议，正式使用“International Baccalaureate”名称，并以联合国教科文组织 2,500 美元资助讨论适合国际文凭的社会研究课程。联合国教科文组织后来四笔小额资助合计 10,000 美元，只足以维持教师会议，无法支持办公室和持续开发。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–18)]]
 >

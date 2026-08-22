@@ -9,7 +9,7 @@ title: "Argument_Vickers_2024_CE"
 argument_key: "Argument_Vickers_2024_CE"
 argument_display_title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - method/textbook-analysis
   - policy/national-security-law
 related_concepts:
+  - "[[General Education]]"
   - "[[Paradigm]]"
   - "[[Psychologisation]]"
   - "[[One Country, Two Systems]]"
@@ -74,7 +75,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 2020年香港特别行政区维护国家安全法（[[National Security Law]]）实施后，国民教育的推行力度和紧迫性空前提高。2022年，[[Citizenship and Social Development|公民与社会发展科]]（Citizenship and Social Development）正式取代通识教育科（[[Liberal Studies|Liberal Studies]]）。这一课程替代仅是对官方身份认同话语的强化，还是标志着教育目标从培养具备批判思考的公民转向灌输单一中国国族身份的质的变化（qualitative change）？（p.138）
+> 2020年香港特别行政区维护国家安全法（[[National Security Law]]）实施后，国民教育的推行力度和紧迫性空前提高。2022年，[[Citizenship and Social Development|公民与社会发展科]]（Citizenship and Social Development）正式取代[[General Education|通识教育]]科（[[Liberal Studies|Liberal Studies]]）。这一课程替代仅是对官方身份认同话语的强化，还是标志着教育目标从培养具备批判思考的公民转向灌输单一中国国族身份的质的变化（qualitative change）？（p.138）
 
 > [!claim] 核心主张
 > 通识教育科向公民与社会发展科的转变并非课程微调，而是一场深刻的[[Paradigm|范式转换]]（paradigm shift）。学校教育的使命已从培养能在多元社会中行使判断力的自主公民，彻底转变为灌输与中央意志高度统一、抹除能动性的爱国臣民（p.154）。这一灌输体系与制度层面的压制以及课外的[[Psychologisation\|心理化]]（psychologisation）治理机制协同运作，共同消解了集体政治能动性（pp.153–154）。
@@ -165,7 +166,7 @@ citation_aliases:
 ### 步骤二 教科书重构的四个经验维度与具体案例
 
 > [!claim] 步骤二主张
-> [[Citizenship and Social Development|公民与社会发展科]]教科书在历史叙事、宪制关系、文化定位以及公民权利四个维度上对通识教育科进行了系统性改写，通过本质主义的国族身份重构与政治抗议叙事的全面抹除，剥夺了学生进行多元思考与理性讨论的空间（pp.148–153）。
+> [[Citizenship and Social Development|公民与社会发展科]]教科书在历史叙事、宪制关系、文化定位以及公民权利四个维度上对[[General Education|通识教育]]科进行了系统性改写，通过本质主义的国族身份重构与政治抗议叙事的全面抹除，剥夺了学生进行多元思考与理性讨论的空间（pp.148–153）。
 
 > [!dimension] CSD 对比 LS 教科书变迁的四个核心维度
 > 
@@ -260,7 +261,7 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card]- 课程重组的终极目的
-> 2020年后对通识教育和[[Citizenship and Social Development|公民与社会发展科]]的全面改革标志着一种决定性的转变，即从强调培养对负责任地行使参与式公民权至关重要的品质，转向强加一种将香港视为中国人的同质化、总体化的愿景。（p.154）
+> 2020年后对[[General Education|通识教育]]和[[Citizenship and Social Development|公民与社会发展科]]的全面改革标志着一种决定性的转变，即从强调培养对负责任地行使参与式公民权至关重要的品质，转向强加一种将香港视为中国人的同质化、总体化的愿景。（p.154）
 >
 > *“The post-2020 overhaul of the curriculum for [[Liberal Studies]] / CSD signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.”*
 

@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - theme/scientific-literacy
   - level/secondary-education
 related_concepts:
+  - "[[Informal Science Learning]]"
   - "[[Science Capital]]"
   - "[[Praxis]]"
   - "[[Variable]]"
@@ -44,7 +45,7 @@ updated: 2026-08-23
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布主体与运营** 由英国科学协会（British Science Association, BSA）设立并长期运营，是英国最具影响力的非正式科学教育与探究认证体系。
+> - **发布主体与运营** 由英国科学协会（British Science Association, BSA）设立并长期运营，是英国最具影响力的[[Informal Science Learning|非正式科学教育]]与探究认证体系。
 > - **适用对象** 覆盖全英 5–19 岁中小学生（从小学早期至高中 16–18 岁）。
 > - **问题背景** 应对国家课程大纲事实记忆过载、课堂动手实验萎缩与弱势学生[[Science Capital|科学资本]]匮乏的系统性挑战，为青少年提供走出课本、解决真实世界未知问题的探究平台。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 33)]]
 > - **制度位置** 英国连接正规学校教育与课外真实科学工程[[Praxis|实践]]的旗舰型认证基础设施。

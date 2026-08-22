@@ -3,7 +3,8 @@ citation: "The Royal Society. (2026). Science for society: How society and scien
 extracted_to:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
-processed_date: 2026-08-22
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
+processed_date: 2026-08-23
 ---
 
 # RoyalSociety_2026_ScienceForSociety

@@ -5,7 +5,7 @@ aliases:
 summary: "一种以广泛覆盖既定学科知识和准确复现事实为通识教育标准的课程范式，可解释多科目课程的浅层学习、考试反拨以及能力改革中旧有分科结构的延续。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ tags:
   - region/latin-america
   - region/europe
 related_concepts:
+  - "[[General Education]]"
   - "[[Paradigm]]"
   - "[[Educated Identity]]"
   - "[[Recontextualization]]"
@@ -47,7 +48,7 @@ updated: 2026-08-22
 ## 定义
 
 > [!def] 核心定义
-> 百科全书主义（Encyclopaedism）是一种以广泛覆盖既定知识为通识教育标准的课程[[Paradigm|范式]]。知识按离散学科分类，课程通过增加科目和内容扩大覆盖范围，教师传递事实与预先组织的解释，考试要求学生准确复现。它既指一种知识观，也指由多科目课程、短课时、记忆性教学和内容型考试相互强化的制度形态。[[Argument_Beech_2009_CE|Beech (2009, pp. 347–348, 354–356)]]；[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 38–39, 43–44)]]
+> 百科全书主义（Encyclopaedism）是一种以广泛覆盖既定知识为[[General Education|通识教育]]标准的课程[[Paradigm|范式]]。知识按离散学科分类，课程通过增加科目和内容扩大覆盖范围，教师传递事实与预先组织的解释，考试要求学生准确复现。它既指一种知识观，也指由多科目课程、短课时、记忆性教学和内容型考试相互强化的制度形态。[[Argument_Beech_2009_CE|Beech (2009, pp. 347–348, 354–356)]]；[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 38–39, 43–44)]]
 
 > [!concept-lens] 知识观、课程形态与分析用途
 > - **含义** 通识性来自学生接触的学科和事实范围，受教育程度因而容易由知道多少内容来衡量。
@@ -128,7 +129,7 @@ updated: 2026-08-22
 ## 概念演变
 
 > [!dev-timeline] 从欧陆通识课程到能力改革中的结构延续
-> - **19 世纪至 20 世纪前期　通识教育转化为知识范围扩张** 欧陆课程在古典语言和数学之外不断吸收历史、自然科学、地理和经济。德国文理中学（Gymnasium）一度被称为十三科学校，百科全书主义由知识理想转化为多科目、短课时的课程制度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 38–39)]]
+> - **19 世纪至 20 世纪前期　[[General Education|通识教育]]转化为知识范围扩张** 欧陆课程在古典语言和数学之外不断吸收历史、自然科学、地理和经济。德国文理中学（Gymnasium）一度被称为十三科学校，百科全书主义由知识理想转化为多科目、短课时的课程制度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 38–39)]]
 > - **1958 年　比较教育识别法国传统及其跨国影响** 尼古拉斯·汉斯（Nicholas Hans）把百科全书主义列为欧洲重要的世俗教育思想传统，并区分法国科学与理性脉络及其德国演变；受欧陆文化影响的拉丁美洲教育体系也据此形成各自的[[Educated Identity|受教育身份]]。[[Argument_Beech_2009_CE|Beech (2009, pp. 347–348)]]
 > - **1960 年　牛津课程改革把通识从一般知识转向学科方法** 牛津大学教育系提出横跨文理的四门专门科目和一个统整区块，用于宗教、体育、创意艺术以及学科方法与限度。通识程度开始由事实储量转向能否区分审美、道德、历史与科学判断。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 41–43)]]
 > - **1966 至 1968 年　英、美、法改革路线在约六门深度学科上汇合** 丹尼尔·贝尔（Daniel Bell）提出通过专门化实现通识教育；让·卡佩勒（Jean Capelle）批评法国考试把学生变成按题目交付知识样本的储存者，主张从十余个浅学领域缩减到约六门多样学科。英国试图扩大过窄的专门化，法国试图压缩百科全书课程，两条路线都把深度和多样性结合起来。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 39–43)]]
@@ -155,5 +156,5 @@ updated: 2026-08-22
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 追踪欧洲通识教育从多科目知识覆盖转向多种思维方式的过程，并以 [[International Baccalaureate|IB]] 的六学科、共同核心和深度选项呈现课程回应。
+> - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 追踪欧洲[[General Education|通识教育]]从多科目知识覆盖转向多种思维方式的过程，并以 [[International Baccalaureate|IB]] 的六学科、共同核心和深度选项呈现课程回应。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] 追踪全球教育话语在拉丁美洲的[[Transfer Translation Transformation|转译]]，揭示百科全书式分科如何在能力与跨学科改革语言中继续存在。

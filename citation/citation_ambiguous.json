@@ -222,6 +222,23 @@
           "The Royal Society, 2026b",
           "The Royal Society (2026b)"
         ],
+        "argument": "Argument_RoyalSociety_2026_ScienceForSociety_Ch02",
+        "authors": [
+          "[[The Royal Society]]"
+        ],
+        "citation": "The Royal Society. (2026). Chapter two: Informal engagement with science. In Science for society: How society and science shape each other (pp. 41–54). London: The Royal Society.",
+        "doi": "",
+        "isbn": "978-1-78252-829-6",
+        "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
+        "source_language": "en",
+        "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch02",
+        "year": "2026"
+      },
+      {
+        "aliases": [
+          "The Royal Society, 2026c",
+          "The Royal Society (2026c)"
+        ],
         "argument": "Argument_RoyalSociety_2026_ScienceForSociety",
         "authors": [
           "[[The Royal Society]]"

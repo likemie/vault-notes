@@ -11,7 +11,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Lifelong Learning]]"
+  - "[[General Education]]"
   - "[[Critical Thinking]]"
   - "[[Rote Learning]]"
   - "[[International Baccalaureate]]"
@@ -56,7 +57,7 @@ updated: 2026-07-13
 > [!abstract] 核心内容
 > 改革将英式 3+2+2+3 学制（三年初中、两年高中、两年大学预科、三年大学）转为 3+3+4 学制（三年初中、三年高中、四年大学）。所有学生接受六年中学教育，统一参加香港中学文凭考试（Hong Kong Diploma of Secondary Education, HKDSE），取代此前的两套入学考试制度。
 >
-> 通识教育科（LS）被设计为新高中课程的核心必修科，旨在培养[[Critical Thinking|批判性思维]]、沟通能力和[[Lifelong Learning|终身学习]]技能，回应教育体制长期存在的过度依赖教科书和[[Rote Learning|死记硬背]]的问题([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 484–485]])。
+> [[General Education|通识教育]]科（LS）被设计为新高中课程的核心必修科，旨在培养[[Critical Thinking|批判性思维]]、沟通能力和[[Lifelong Learning|终身学习]]技能，回应教育体制长期存在的过度依赖教科书和[[Rote Learning|死记硬背]]的问题([[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 484–485]])。
 
 ---
 
@@ -67,7 +68,7 @@ updated: 2026-07-13
 > - **2000** — 董建华《施政报告》以[[Knowledge-Based Economy|知识经济]]和[[Lifelong Learning|终身学习]]为框架提出教育改革方向
 > - **2001** — 课程发展议会发布《学会学习：终身学习与全人发展》
 > - **2005** — 教统局发布《新学制行动计划》，确立 3+3+4 学制框架
-> - **2007** — 课程发展议会与香港考试及评核局联合发布《通识教育科课程及评估指引》
+> - **2007** — 课程发展议会与香港考试及评核局联合发布《[[General Education|通识教育]]科课程及评估指引》
 > - **2009 年 9 月** — NSS 课程正式实施，LS 成为必修科
 
 ---
