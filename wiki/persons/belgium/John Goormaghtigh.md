@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-08-23
 ---
 
 # John Goormaghtigh
@@ -49,7 +49,7 @@ updated: 2026-08-17
 > [!timeline] 与 [[International Baccalaureate|IB]] 创立有关的活动
 > - **1964** 参与推动建立独立于[[International Schools|国际学校]]协会的[[International Schools Examination Syndicate|国际学校考试辛迪加]]，使高中课程与考试项目能够取得专门治理结构。
 > - **1965** ISES 依瑞士法律正式注册后，继续通过卡内基欧洲中心提供办公、法律和国际联系条件。
-> - **1965–1980** 长期主持 ISES／IBO 理事会，在课程争论、资金不稳定、跨国试验和组织更名期间维持制度连续性。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 18–20)]]
+> - **1965–1980** 长期主持 ISES／IBO 理事会，在课程争论、资金不稳定、跨国试验和组织更名期间维持制度连续性。六年试验后期，他指出延长至 1976 年的考试义务缺少对应资金，随后设计 UNESCO 之外的政府参与方案；海牙会议把出资政府进入理事会确立为方向。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 18–20)]] [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 89–97)]]
 
 ---
 
@@ -64,7 +64,7 @@ updated: 2026-08-17
 
 > [!person-network] 关系网络
 > - **共同创制事件** [[Founding of the International Baccalaureate|国际文凭创立]]。
+> - **制度延续事件** [[International Baccalaureate Six-Year Experiment|国际文凭六年试验]] — 在道德承诺、经费危机和 UNESCO 谈判之间维护考试连续性，并推动政府支持与独立法律身份结合。
 > - **治理机构** [[International Schools Examination Syndicate|国际学校考试辛迪加]]（ISES）／[[International Baccalaureate|国际文凭]]办公室（IBO）。
 > - **教育与考试合作者** 乔治·潘绍、让·西奥蒂 — 分别提供教育改革声望与早期考试委员会领导。
 > - **执行领导者** [[Alec Peterson|亚历克·皮特森]] — 在理事会治理框架内推动项目全职实施和国际筹资。
-

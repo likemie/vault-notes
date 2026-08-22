@@ -3437,6 +3437,16 @@
     ]
   },
   {
+    "title": "International Qualification Recognition",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/International Qualification Recognition.md",
+    "aliases": [
+      "国际资格承认",
+      "跨国学历资格承认",
+      "international credential recognition"
+    ]
+  },
+  {
     "title": "Internationalization of Higher Education",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Internationalization of Higher Education.md",
@@ -15173,6 +15183,15 @@
     ]
   },
   {
+    "title": "International Baccalaureate Six-Year Experiment",
+    "type": "fact",
+    "path": "wiki/facts/global/International Baccalaureate Six-Year Experiment.md",
+    "aliases": [
+      "国际文凭六年试验",
+      "IB six-year experiment"
+    ]
+  },
+  {
     "title": "International Indicators of Education Systems",
     "type": "fact",
     "path": "wiki/facts/global/International Indicators of Education Systems.md",
@@ -17598,6 +17617,11 @@
     "title": "Argument_Peterson_1987_OpenCourt_Ch03",
     "type": "argument",
     "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch03.md"
+  },
+  {
+    "title": "Argument_Peterson_1987_OpenCourt_Ch04",
+    "type": "argument",
+    "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch04.md"
   },
   {
     "title": "Argument_QiMei_2015_EducationalResearchMethods",

@@ -55,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-17
-updated: 2026-08-17
+updated: 2026-08-23
 ---
 
 # International Baccalaureate
@@ -139,9 +139,10 @@ updated: 2026-08-17
 > - **1948–1955 — 现实需求形成** 国际学校扩张、大学入学竞争和国家课程分轨，使国际共同资格成为实际需要。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 15–17)]]
 > - **1961–1967 — 教师倡议制度化** 日内瓦教师网络逐步建立 [[International Schools Examination Syndicate|ISES]]／IBO、六学科组、双语课程、[[Theory of Knowledge|知识论]]与国际试验学校网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–31)]]
 > - **1969–1970 — 资格验证** 六年试验启动，首批 29 名学生使用正式 IB 考试结果申请大学。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 31)]]
+> - **1970–1976 — 制度可行性验证** [[International Baccalaureate Six-Year Experiment|六年试验]]把考试实施、学校采用、家长信任、[[International Qualification Recognition|大学承认]]、行政能力和持续资金作为相互依赖的系统来建设。到 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学；1976 年海牙会议把政府资助和治理参与纳入常设结构。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 61–97)]]
 
 > [!ref-table]- 详细史实
-> [[Founding of the International Baccalaureate|国际文凭创立]]记录 1924–1970 年间的行动者、组织、资助、课程决策与大学承认时间轴；[[International Schools Examination Syndicate|ISES]]与1967 年塞夫尔会议分别展开其组织载体和资格试验机制。
+> [[Founding of the International Baccalaureate|国际文凭创立]]记录 1924–1970 年间的行动者、组织、资助、课程决策与大学承认时间轴；[[International Schools Examination Syndicate|ISES]]与1967 年塞夫尔会议分别展开其组织载体和资格试验机制；[[International Baccalaureate Six-Year Experiment|国际文凭六年试验]]记录考试、学校、承认、财务与治理怎样把方案转为常设制度。
 
 ---
 
@@ -160,6 +161,14 @@ updated: 2026-08-17
 ---
 
 ## 实证数据
+
+> [!ref-table]- 六年试验的制度规模
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 时期与情境 | 指标 | 关键结果 | 解释边界 |
+> |---|---|---|---|---|
+> | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 67–68)]] | 1970–1975 年正式考试 | 完整文凭考生与通过率 | 考生由 29 人增至 377 人；1971–1975 年通过率为 70%、63%、79%、80%、75% | 学生与学校并非随机样本，数量和通过率不能单独证明课程效果 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 71)]] | 截至 1973 年底 | 承认范围 | 20 国给予一般承认，学生进入 25 国 175 所大学 | 入学、分班、免修和部分承认未在总数中分开 |
 
 > [!effect-table]- [[Critical Thinking|批判性思维]]与学术成就 ([[Argument_Cole_2015_AJE|Cole et al., 2015]])
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -186,6 +195,7 @@ updated: 2026-08-17
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — 以六年试验说明 IB 只有把课程、考试、学校、[[International Qualification Recognition|资格承认]]、行政和收入连接为制度闭环，才能从教育改革方案转为常设国际资格。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 分析了 IB 在[[International Education|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 提供了澳大利亚 IB 毕业生在[[Critical Thinking|批判性思维]]和学术成就上的大规模量化实证数据。
 > - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme|IBDP]] 的核心组件，从机制层面探讨了如何通过“[[Concurrency of Learning|并发学习]]（Concurrency of Learning）”来实现其标榜的整体学习理念。

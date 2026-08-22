@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-16'
-updated: '2026-08-17'
+updated: '2026-08-23'
 ---
 
 # International Education
@@ -147,6 +147,9 @@ updated: '2026-08-17'
 > [!claim] 皮特森
 > **考试是缺乏行政权力时的课程实施工具** 国际文凭办公室（International Baccalaureate Office，IBO）无法像国家系统那样以法律、师训和督学规定学校，只能主要通过考试规则保护课程。因此，课程必须先规定希望形成的思维方式和经验，评价再在效度、[[Reliability|可靠性]]、反拨、成本与速度之间权衡；否则升学压力会把国际教育重新缩减为最容易计分的内容。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 33–57)]]
 
+> [!claim] 皮特森
+> **国际教育的制度单位是相互依赖的资格网络** [[International Baccalaureate Six-Year Experiment|IB 六年试验]]表明，共同课程只有同时获得学校采用、家长信任、[[International Qualification Recognition|大学承认]]、考试行政和持续资金，才能服务跨国流动学生。扩大多样学校网络降低了研究控制，却检验了普遍适用性并形成业务收入；1976 年海牙会议再把学校付费、政府资助和治理代表连接起来，使教育实验转为常设国际组织。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, pp. 61–97)]]
+
 ---
 
 ### 命题三　全球化扩大了国际教育，也使它进入市场和文化权力关系
@@ -177,8 +180,8 @@ updated: '2026-08-17'
 > - **国家教育的基线（20世纪中期以前）**
 >   中小学通常由地方税收支持并反映本地选民价值，大学名称、教育研究和资格制度也深嵌地区或国家。早期海外学校多是殖民或侨民“前哨”，把母国课程移植到境外，而非建立真正共同的国际课程。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 3–5, 19–24)]]
 >
-> - **共同生活与国际资格的制度实验（1925–1970）**
->   1925 年国际毕业会考设想缺乏现实需求；战后[[International Schools|国际学校]]、学生流动和竞争性大学入学扩大后，多轨备考变成资源与公平问题。1950–1960 年代的大西洋学院把国际理解转化为共同生活和服务，[[International Schools Examination Syndicate|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）／IBO 再把教师合作、课程、考试和大学承认组织起来；1970 年首批学生用正式 [[International Baccalaureate|IB]] 成绩申请大学。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]] [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–31)]]
+> - **共同生活与国际资格的制度实验（1925–1978）**
+>   1925 年国际毕业会考设想缺乏现实需求；战后[[International Schools|国际学校]]、学生流动和竞争性大学入学扩大后，多轨备考变成资源与公平问题。1950–1960 年代的大西洋学院把国际理解转化为共同生活和服务，[[International Schools Examination Syndicate|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）／IBO 再把教师合作、课程、考试和大学承认组织起来；1970 年首批学生用正式 [[International Baccalaureate|IB]] 成绩申请大学。此后的[[International Baccalaureate Six-Year Experiment|六年试验]]通过多样学校、大学承认、考试行政与资金治理检验制度可行性，1976–1978 年政府会议则把项目转为有政府参与的常设组织。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]] [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–31)]] [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, pp. 61–97)]]
 >
 > - **大众流动、全球比较与市场扩张（1978–2009）**
 >   国际学生流动、国际学校、IB 和海外分校迅速增长；2000 年 [[PISA]]、2003 年[[Academic Ranking of World Universities|世界大学学术排名]]（Academic Ranking of World Universities，ARWU）及后续排名又把国家和大学置入共同测量空间。国际教育由相对小规模的学校和资格实验，扩展为留学、声誉和教育服务产业。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–18, 22–28)]]
@@ -202,6 +205,7 @@ updated: '2026-08-17'
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 17–18)]] | 中国学生流动，1978–2007 | 出境与入境人数 | 1978–2003 年 580,000 名中国本科生和研究生赴美；赴华外国学生由 61,869（2001）增至 110,844（2004）和 140,000 以上（2005） | 中国出境数据在媒体与[[Education International\|国际教育协会]]（Institute of International Education，IIE）之间差异显著 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 2)]] | 美国新入学国际学生，2008 | 来源地区 | 南亚、东亚（含中国）及印度次大陆学生占 61% | 区域聚合不能代表内部学习者具有同质文化 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 26)]] | 香港国际学校 | 学费 | 年费约 10,000–20,000 美元 | 价格显示市场与阶层门槛，不代表全球国际学校共同水平 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, pp. 67–71)]] | IB 六年试验，1970–1975 | 考试与承认规模 | 完整文凭考生由 29 人增至 377 人；截至 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学 | 样本非随机，承认用途和部分承认范围未在总数中分开 |
 
 > [!stat-cards]- 补充案例数据
 > - **40%–50%** 香港英基学校协会（English Schools Foundation，[[English Schools Foundation Hong Kong|ESF]]）学生为本地香港华人，显示侨民学校向本地家庭开放。
@@ -239,6 +243,7 @@ updated: '2026-08-17'
 > | 类型 | 条目 | 所呈现的国际教育机制 |
 > |---|---|---|
 > | **学校与课程** | [[International Schools]]、[[International Baccalaureate]] | 国际学校提供共同学习空间，IB 提供跨国课程、评价和升学资格。 |
+> | **资格与组织实验** | [[International Qualification Recognition]]、[[International Baccalaureate Six-Year Experiment]] | 展示国际课程如何经由入学、分班、免修和国家等值取得跨境效力，并形成考试行政、收入与治理结构。 |
 > | **比较与评价** | [[PISA]]、[[Academic Ranking of World Universities]]、[[Global Universities Rankings]] | 以共同指标把国家和大学置入跨国比较，同时引出指标权力问题。 |
 > | **跨境机构布局** | [[Education City Doha]]、[[International Education Hubs]] | 大学海外分校和国家教育枢纽把教育纳入地缘政治、[[Knowledge-Based Economy\|知识经济]]与服务市场。 |
 > | **地方转型与跨文化教学** | [[English Schools Foundation Hong Kong]]、[[Transnationalism and America Project SYSU\|中山大学跨国主义与美国项目]] | 前者显示侨民学校向本地家庭转型，后者呈现跨文化团队教学[[Praxis\|实践]]。 |
@@ -248,5 +253,5 @@ updated: '2026-08-17'
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Chs. 1–3)]] — 从大西洋学院的共同生活和服务[[Praxis|实践]]，追踪到教师倡议、独立组织、试验学校与大学承认，再说明国际教育目标如何转化为六学科、[[Extended Essay|拓展论文]]（Extended Essay，EE）、创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，[[Creativity, Action, Service|CASS]]）、[[Theory of Knowledge|TOK]] 和强调[[Assessment Backwash|评价反拨]]的考试制度。
+> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Chs. 1–4)]] — 从大西洋学院的共同生活和服务[[Praxis|实践]]，追踪到教师倡议、独立组织、课程与考试设计，再以六年试验说明学校、[[International Qualification Recognition|资格承认]]、行政和资金如何把国际教育目标转化为常设制度。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 描述国际教育从国家绑定走向大众流动、全球比较、市场化和去国家化，并集中讨论文化预设、师资缺口与统计问题。

@@ -43,7 +43,7 @@ updated: 2026-08-23
 > 非正式科学学习（Informal Science Learning / Engagement）是指发生在正规学校课程与教室环境之外的多元科学学习与互动活动。它涵盖科学探索中心、科技博物馆、动物园与植物园、科学节、社区科技社团、[[Citizen Science|公民科学]]项目以及数字媒体科普，具有高度自愿性、情境性、兴趣驱动与全生命周期贯穿特征，不仅传授知识，更致力于促进公共福祉、好奇心激发与社会文化赋权。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, pp. 42–43)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 超越将非正规场景简单视为正规学校“知识查漏补缺”的工具主义狭隘视角，将其确立为支撑繁荣社区不可或缺的“社会与文化基础设施”（Social and Cultural Infrastructure）。
+> - **含义** 超越将非正规场景简单视为正规学校知识查漏补缺的工具主义狭隘视角，将其确立为支撑繁荣社区不可或缺的社会与文化基础设施（Social and Cultural Infrastructure）。
 > - **用途** 弥合家庭与区域[[Science Capital|科学资本]]鸿沟，为公众在日常生活与伦理决策中理解科学争议提供双向[[Dialogue in Education|对话]]与具身参与空间。
 > - **边界** 不以统一考试或强制大纲为评价指标，其育人效果呈现高度的非线性、分散性与长周期累积性。
 
@@ -55,7 +55,7 @@ updated: 2026-08-23
 > - **促进福祉、好奇心与生活乐趣（Wellbeing & Curiosity）** 提供沉浸式探索空间与家庭[[Dialogue in Education|对话]]契机，将科学体验融入休闲生活。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 46)]]
 > - **赋能明智决策与创造新知识（Informed Choices & Knowledge Co-production）** 帮助公众在健康、饮食与低碳消费中理性权衡，并为科研人员倾听社会关切提供对话界面。
 > - **汇聚集体行动与公众能动性（Collective Action & Agency）** 依托[[Citizen Science|公民科学]]将公众从被动接受者转变为生态保护与数据贡献的主动参与者。
-> - **赋能职业发展与终身技能（Career Empowerment & Lifelong Skills）** 拓宽弱势青少年对 STEM 职业的接触面，打破职业抱负的阶层固化。
+> - **赋能职业发展与终身技能（Career Empowerment & Lifelong Skills）** 拓宽弱势青少年对科学、技术、工程与数学（Science, Technology, Engineering and Mathematics, STEM）职业的接触面，打破职业抱负的阶层固化。
 > - **多元财务模式支撑公益使命（Harnessing Financial Models）** 依托票务、文创及跨界协同实现社会效益与可持续运营的平衡。
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-08-23
 > 单次场馆参观可能看似微小，但贯穿一生的多次积极科学遭遇能够深度重塑个体的科学认同（Science Identity）。
 
 > [!claim] 累积效应与公平补偿
-> 伦敦大学学院 ASPIRES 等纵向追踪表明，学校教育与非正式学习的有机协同对弥合低社会经济地位家庭的[[Science Capital|科学资本]]匮乏具有不可替代的补偿作用，亟需建立跨越几十年的国家队列追踪机制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, pp. 50–52)]]
+> 伦敦大学学院（University College London, UCL）ASPIRES（Young People's Science and Career Aspirations）等纵向追踪表明，学校教育与非正式学习的有机协同对弥合低社会经济地位家庭的[[Science Capital|科学资本]]匮乏具有不可替代的补偿作用，亟需建立跨越几十年的国家队列追踪机制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, pp. 50–52)]]
 
 ---
 
