@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_display_title: "Chapter two: Informal engagement with science"
 argument_kind: "report"
-argument_related_count: 35
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Rich and Thick Description]]"
   - "[[Public Engagement with Science]]"
-  - "[[Questionnaire]]"
 related_theories: []
 related_methods:
   - "[[Participatory Research]]"
@@ -56,7 +55,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Focus Group]]"
   - "[[Cohort Study]]"
-  - "[[Stratified Sampling]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -280,13 +278,13 @@ updated: 2026-08-23
 > - **区域经济与社会基建评估（Regional & Infrastructure Impact）** 评估科学文化活动对区域文旅经济拉动与社区社会资本积累的综合效益（如考文垂文化之城评估、英国国家学术院社会文化基建测量）。
 > - **长期队列纵向追踪（Long-Term Cohort Trial）** 跨越数年乃至数十年跟踪同一群体在多次正规与非正规科学遭遇后的科学资本与职业轨迹演变（如伦敦大学学院（University College London, UCL）ASPIRES 追踪、布拉德福德出生队列 Age of Wonder）。（pp. 51–52）
 
-> [!ref-table] 表2-4：英国非正式科学参与四级评估实践与典型项目矩阵表（Table 1, p. 51）
-> | 评估层级（Type of evaluation） | 代表性项目与机制（Example(s)） | 核心评估方法与监测指标 | 核心价值与政策启示 |
-> |---|---|---|---|
-> | **项目与计划级（Programme / project level）** | • [[Dippy on Tour\|Dippy on tour（迪皮恐龙巡展）]] | [[Questionnaire\|问卷]]调研、观众流向分析、首次访客率（84%）、体验深度与满意度 | 证明国家级资产下沉可极大破除边缘受众参与壁垒（p. 51） |
-> | **全国公众民意级（National public sentiment）** | • [[UK Science Education Tracker\|Science education tracker（SET 科学教育追踪）]]<br>• [[Public Attitudes to Science\|PAS survey（公众对科学态度调查）]]<br>• Discovery Decade tracker（CaSE 探索十年追踪）<br>• Wellcome global monitor（惠康全球监测） | 全国[[Stratified Sampling\|分层抽样]]问卷、纵向民意趋势追踪、科学信息渴求度、科技重大决策参与感指标 | 提供国家宏观科学文化生态与公众信任晴雨表，指导国家战略议程设置 |
-> | **区域社会基建级（Regional assessment）** | • Economic impact of the City of Culture programme（文化之城经济影响评估）<br>• Measuring social and cultural infrastructure（英国国家学术院社会文化基建测量） | 区域文旅经济乘数模型、社区凝聚力、地方认同感与社会资本增量指标 | 确立非正式科学作为区域转型与繁荣社区核心支柱的实证依据 |
-> | **长期队列试验级（Cohort trial）** | • ASPIRES programme（UCL 科学资本纵向追踪）<br>• Born in Bradford – Age of Wonder（布拉德福德出生队列追踪） | 跨 10–20 年纵向队列跟踪、多节点混合研究设计、科学资本测量工具与职业路径映射 | 揭示非正式遭遇对个体科学认同与终身职业发展的深层累积机制（p. 52） |
+> [!ref-table] 表2-5：校外科学评估四种典型层级与代表项目（复刻报告 Table 1, p. 51）
+> | 评估层级（Type of evaluation） | 代表性项目与案例（Example(s)） | 核心评估重点与指标 |
+> |---|---|---|
+> | **项目与计划级（Programme / project level）** | • [[Dippy on Tour\|Dippy on tour（迪皮恐龙巡展）]] | 观众流向、首次访客率（84%）与满意度调研 |
+> | **全国公众民意级（National public sentiment）** | • [[UK Science Education Tracker\|Science education tracker（SET 科学教育追踪）]]<br>• [[Public Attitudes to Science\|PAS survey（公众对科学态度调查）]]<br>• Discovery Decade tracker（CaSE 探索十年追踪）<br>• Wellcome global monitor（惠康全球监测） | 全国宏观民意、信任度、信息渴求度与决策参与感 |
+> | **区域社会基建级（Regional assessment）** | • Economic impact of the City of Culture programme（文化之城经济影响评估）<br>• Measuring social and cultural infrastructure（社会文化基建测量） | 区域文旅经济拉动与社区社会资本积累模型 |
+> | **长期队列试验级（Cohort trial）** | • ASPIRES programme（UCL 科学资本长期追踪）<br>• Born in Bradford: Age of Wonder（布拉德福德出生队列追踪） | 跨 10–20 年科学资本演变与终身职业路径映射（p. 52） |
 
 > [!policy-design] 非正式科学参与两大核心建议行动蓝图（Recommendations 4 & 5）
 > - **建议四：英国政府应优化资助机制以确保多元参与网络的可持续性（Recommendation 4, p. 52）**
