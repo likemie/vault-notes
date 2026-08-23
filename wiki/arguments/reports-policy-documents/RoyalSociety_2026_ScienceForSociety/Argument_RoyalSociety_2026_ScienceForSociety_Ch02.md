@@ -280,7 +280,7 @@ updated: 2026-08-23
 > - **区域经济与社会基建评估（Regional & Infrastructure Impact）** 评估科学文化活动对区域文旅经济拉动与社区社会资本积累的综合效益（如考文垂文化之城评估、英国国家学术院社会文化基建测量）。
 > - **长期队列纵向追踪（Long-Term Cohort Trial）** 跨越数年乃至数十年跟踪同一群体在多次正规与非正规科学遭遇后的科学资本与职业轨迹演变（如伦敦大学学院（University College London, UCL）ASPIRES 追踪、布拉德福德出生队列 Age of Wonder）。（pp. 51–52）
 
-> [!ref-table] 表2-4：英国非正式科学参与四级评估实践与典型项目矩阵表（完整复刻报告 Table 1, p. 51）
+> [!ref-table] 表2-4：英国非正式科学参与四级评估实践与典型项目矩阵表（Table 1, p. 51）
 > | 评估层级（Type of evaluation） | 代表性项目与机制（Example(s)） | 核心评估方法与监测指标 | 核心价值与政策启示 |
 > |---|---|---|---|
 > | **项目与计划级（Programme / project level）** | • [[Dippy on Tour\|Dippy on tour（迪皮恐龙巡展）]] | [[Questionnaire\|问卷]]调研、观众流向分析、首次访客率（84%）、体验深度与满意度 | 证明国家级资产下沉可极大破除边缘受众参与壁垒（p. 51） |
