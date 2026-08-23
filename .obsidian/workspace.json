@@ -37,7 +37,8 @@
               "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,12 +209,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "ffc1a70d9b63a440",
   "lastOpenFiles": [
+    "wiki/concepts/sociology-of-education/Deficit Model of Science Communication.md",
     "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch04.md",
     "wiki/facts/uk/Big Butterfly Count.md",
     "wiki/facts/uk/Dippy on Tour.md",
-    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch04.md",
     "wiki/facts/uk/Public Attitudes to Science.md",
     "wiki/facts/uk/Public Attitudes to Science Survey 2025.md",
     "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch01.md",
@@ -246,7 +248,6 @@
     "wiki/concepts/research-methodology/Scientific Method.md",
     "wiki/concepts/curriculum/Creativity, Action, Service.md",
     "wiki/persons/us/William Foote Whyte.md",
-    "wiki/concepts/instruction-pedagogy/Assessment Backwash.md",
     "scripts/tests/__pycache__/test_wiki_linker.cpython-313.pyc",
     "scripts/tests/__pycache__",
     "scripts/tests/test_wiki_linker.py",
