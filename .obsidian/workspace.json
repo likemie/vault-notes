@@ -37,8 +37,7 @@
               "title": "Argument_RoyalSociety_2026_ScienceForSociety"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +208,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ffc1a70d9b63a440",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
     "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
     "wiki/concepts/sociology-of-education/Deficit Model of Science Communication.md",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch04.md",
@@ -247,7 +247,6 @@
     "wiki/persons/uk/Kurt Hahn.md",
     "wiki/concepts/research-methodology/Scientific Method.md",
     "wiki/concepts/curriculum/Creativity, Action, Service.md",
-    "wiki/persons/us/William Foote Whyte.md",
     "scripts/tests/__pycache__/test_wiki_linker.cpython-313.pyc",
     "scripts/tests/__pycache__",
     "scripts/tests/test_wiki_linker.py",
