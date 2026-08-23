@@ -2502,12 +2502,35 @@
     ]
   },
   {
+    "title": "Creativity",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Creativity.md",
+    "aliases": [
+      "创造力",
+      "创造性",
+      "创造潜能",
+      "creative ability",
+      "creative potential"
+    ]
+  },
+  {
     "title": "Development of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Development of Knowledge.md",
     "aliases": [
       "知识的发展",
       "知识发展信念"
+    ]
+  },
+  {
+    "title": "Divergent Thinking",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Divergent Thinking.md",
+    "aliases": [
+      "发散思维",
+      "发散性思维",
+      "扩散思维",
+      "ideational fluency"
     ]
   },
   {
@@ -11713,7 +11736,11 @@
       "meta-synthesis",
       "元综合",
       "super-analysis",
-      "super-synthesis"
+      "super-synthesis",
+      "Second-Order Meta-Analysis",
+      "二阶元分析",
+      "二级元分析",
+      "SOMA"
     ]
   },
   {
@@ -12003,6 +12030,19 @@
     ]
   },
   {
+    "title": "Robust Variance Estimation",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Robust Variance Estimation.md",
+    "aliases": [
+      "稳健方差估计",
+      "RVE",
+      "cluster-robust variance estimation",
+      "CRVE",
+      "三明治估计量",
+      "sandwich estimator"
+    ]
+  },
+  {
     "title": "Seasonal Comparison",
     "type": "method",
     "path": "wiki/methods/quantitative/Seasonal Comparison.md",
@@ -12235,6 +12275,17 @@
       "Modified Epistemological Questionnaire",
       "中学生认识论问卷",
       "中学生认识论信念量表"
+    ]
+  },
+  {
+    "title": "AMSTAR",
+    "type": "instrument",
+    "path": "wiki/instruments/rubric/AMSTAR.md",
+    "aliases": [
+      "系统评价质量评估工具",
+      "A MeaSurement Tool to Assess systematic Reviews",
+      "AMSTAR 2",
+      "系统综述质量评估工具"
     ]
   },
   {
@@ -14130,6 +14181,17 @@
     "aliases": [
       "Magolda, M. B.",
       "马西娅·巴克斯特·马戈尔达"
+    ]
+  },
+  {
+    "title": "Mark A. Runco",
+    "type": "person",
+    "path": "wiki/persons/us/Mark A. Runco.md",
+    "aliases": [
+      "Runco, M. A.",
+      "马克·A·朗科",
+      "马克·朗科",
+      "Mark Runco"
     ]
   },
   {
@@ -17763,6 +17825,11 @@
     "title": "Argument_Trautwein_2007_CEP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md"
+  },
+  {
+    "title": "Argument_Runco_2026_CRJ",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Creativity Research Journal/Argument_Runco_2026_CRJ.md"
   },
   {
     "title": "Argument_Johnson_2023_CE",

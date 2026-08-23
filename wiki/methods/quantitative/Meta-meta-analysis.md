@@ -8,6 +8,10 @@ aliases:
   - 元综合
   - super-analysis
   - super-synthesis
+  - Second-Order Meta-Analysis
+  - 二阶元分析
+  - 二级元分析
+  - SOMA
 summary: "在更高层次汇总多个已发表元分析结果的统计综合方法，用于处理大型证据库、比较不同综合结论并评估聚合稳定性"
 type: method
 method_type: quantitative
@@ -86,7 +90,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-07-08
+updated: 2026-08-23
 ---
 
 ## 定义
@@ -112,6 +116,7 @@ updated: 2026-07-08
 > | super-analysis | Dillon (1982) | 强调层级上的超越 |
 > | super-synthesis | Sipe & Curlette (1996) | 强调综合过程 |
 > | meta-synthesis | Sipe & Curlette; [[Argument_Higgins_2016_RE\|Higgins (2016)]] | 当前较通用的术语 |
+> | second-order meta-analysis (SOMA) | Schmidt & Oh (2013) | 强调估计一阶元分析之间的二阶抽样误差并采用多水平稳健方差模型进行精确校正 |
 >
 > Higgins区分了两种不同的用法：一些研究者将元分析作为单位来研究元分析过程本身的统计特征（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；另一些则试图将不同元分析合并为关于更一般主题的单一信息（如 Hattie, 1992; Marzano, 1998）。后者面临更深层的可比性挑战。
 
@@ -384,6 +389,7 @@ updated: 2026-07-08
 > - Argument_Simpson_2019_ERE — 以思想实验证明效应量是试验清晰度的测量，元-元分析是对无效指标的高级统计操作([[Argument_Simpson_2019_ERE|Simpson, 2019]])
 > - [[Argument_Wrigley_2019_ERE]] — 以 EEF Toolkit 体育参与案例追踪元-元分析的三级统计失真
 > - [[Argument_OConnor_2020_AJLL]] — 以《可见的学习》[[Whole Language|全语言]]处理为案例的细读审查，揭示分类错误、不对称审查和选择性排除([[Argument_OConnor_2020_AJLL|O'Connor, 2020]])
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 综合 52 项创造力一阶元分析（包含 2609 项原始研究、124 万参与者），运用 CHE 模型与稳健方差估计（RVE）系统检验创造力作为预测变量与结果变量的效应差异。
 
 ---
 

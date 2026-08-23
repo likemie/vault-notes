@@ -1,0 +1,1314 @@
+--- PAGE 1 ---
+Creativity Research Journal
+ISSN: 1040-0419 (Print) 1532-6934 (Online) Journal homepage: www.tandfonline.com/journals/hcrj20
+Second-Order Meta-Analysis of the Creativity
+Research
+Mark A. Runco, Sakhavat Mammadov, Daihe Sui, Taehee Kim & Laura
+Giuliana Neher
+To cite this article: Mark A. Runco, Sakhavat Mammadov, Daihe Sui, Taehee Kim & Laura
+Giuliana Neher (31 Mar 2026): Second-Order Meta-Analysis of the Creativity Research,
+Creativity Research Journal, DOI: 10.1080/10400419.2026.2644245
+To link to this article:  https://doi.org/10.1080/10400419.2026.2644245
+© 2026 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+Published online: 31 Mar 2026.
+Submit your article to this journal 
+Article views: 879
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=hcrj20
+
+--- PAGE 2 ---
+Second-Order Meta-Analysis of the Creativity Research
+Mark A. Runco
+a
+, Sakhavat Mammadov
+b
+, Daihe Sui
+c
+, Taehee Kim
+b
+, and Laura Giuliana Neher
+b
+a
+Aalto University; 
+b
+University of Georgia; 
+c
+Northwestern University
+ABSTRACT
+This second-order meta-analysis examined 52 first-order creativity meta-analyses (164 effect sizes) 
+which met inclusion and exclusion criteria. These meta-analyses provided data from 2609 studies 
+(1,248,416 research participants) and 16,153 primary effect sizes. The original meta-analyses all 
+examined creativity, but each had a specific focus. Even with that large range of foci, certain 
+questions could be addressed with a second-order meta-analysis. More specifically, 
+a comprehensive statistical analysis provided an effect size for all previous meta-analyses (a) 
+where creativity had been used as a predictor and (b) where creativity was the outcome. This 
+moderator was statistically significant, F(1, 16.3) = 9.43, p = .007. The average second-order effect 
+size was .12 when creativity was the criterion and .29 when it was a predictor. Four categories were 
+created for the type of creativity variable used in first-order meta-analyses: creative outcomes, 
+creative process, divergent thinking, and overall creativity. In the first model, where creative 
+process and divergent thinking were analyzed separately, creative process had an effect size of 
+.27, while divergent thinking had an effect size of .14. Different correlates of creativity were also 
+analyzed. Of these, interventions and educational programs yielded the largest effect size ( r = .20). 
+Implications and limitations are discussed.
+Creativity has long been recognized as enormously valu -
+able for individuals. It is associated with health, self- 
+expression, openness to experience, problem solving, 
+and a slew of other adaptive tendencies and traits. 
+Creativity is also an enormously valuable commodity 
+for business and society (Florida & Gabe, 2024 ; Runco 
+et al., 2020 ). Admittedly, the benefits of creativity are 
+not all adaptive and benevolent. Creativity is also some -
+times associated with malevolence and disturbance 
+(Cropley, 1997 ; Runco and Richards, 1997 ).
+Great headway has been made in the creativity 
+research, much of it resulting from the new methods 
+and technologies that have been brought to bear on the 
+topic. A great deal has, for example, been learned from 
+meta-analyses (Acar et al., 2020 ). Meta-analyses contri -
+bute significantly to our understanding of creativity in 
+part because they represent large samples. The second- 
+order meta-analysis of da Costa et al. ( 2015 ), for exam -
+ple, summarized data from over 15,000 research parti -
+cipants and from just over 100 studies. The large 
+samples make meta analyses highly reliable and support 
+the generalizability of the findings (Acar et al., 2020 ). da 
+Costa et al. ( 2015 ) analyzed effect sizes from seven meta- 
+analyses. They included research on both creativity and 
+innovation. Nine years later, we were able to locate over 
+70 meta-analyses, each of which focused on creativity. 
+Our search and inclusion/exclusion procedures are 
+described in detail below.
+da Costa et al. ( 2015 ) only asked about personal 
+correlates of creativity (e.g., intelligence, motivation, 
+and emotion). The second-order meta-analysis reported 
+here took a broader view. Indeed, the meta-analyses we 
+analyzed were categorized, first, in terms of creativity 
+being treated as a predictor or an outcome. One of the 
+moderators compared creativity when it was defined in 
+the earlier research as a criterion vs creativity when it 
+was defined as a predictor. This distinction fits with 
+creativity research and theory, and in particular the 
+psychometric conceptualization of criteria (e.g., as in 
+criterion-related validity) and predictors (e.g., as in pre -
+dictive validity). The distinction reflects the fact that 
+sometimes creativity is defined as an outcome or result 
+and used in analyses as the criterion, with other vari -
+ables used as predictors of the creativity criterion or 
+criteria. Other times the research has used creativity as 
+a predictor and there are other outcomes (e.g., health or 
+problem solving or academic success) other than crea -
+tivity. This dichotomy parallels the distinction between 
+independent variables in research and dependent vari -
+ables. The labels predictor and outcome were used 
+because they do not imply causality. The previous meta- 
+analyses were also categorized in terms of the study 
+CONTACT Mark A. Runco 
+ runco.mark.a@gmail.com 
+ Radical Creativity, Aalto University, Helsinki, Finland
+CREATIVITY RESEARCH JOURNAL                      
+https://doi.org/10.1080/10400419.2026.2644245
+© 2026 The Author(s). Published with license by Taylor & Francis Group, LLC.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, 
+distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted 
+Manuscript in a repository by the author(s) or with their consent.
+
+--- PAGE 3 ---
+design. Eighteen of them were comparative and 34 were 
+correlational. Next were categories for the types of crea -
+tivity variables involved. This required four categories 
+for creative outcomes (e.g., achievements, honors, and 
+awards), creative processes (e.g., flexibility and problem 
+finding), divergent thinking (e.g., ideation and origin -
+ality), and overall creativity (e.g., no specific measure 
+was reported). The last categorization of the previous 
+meta-analyses defined moderators for the correlates of 
+creativity involved in the previous meta-analyses, with 
+background variables (e.g., birth order, family size, sex, 
+race diversity), cognitive correlates (e.g., flexibility, 
+time-on-task, problem finding), extracognitive corre -
+lates (e.g., psychoticism, mood, stress), interventions 
+and education (e.g., purdue creative problem solving, 
+brainstorming), and finally, immediate influences (e.g., 
+explicit instructions and stress). The cognitive category 
+represents thinking or intellectual processes. The extra -
+cognitive correlates represent things which research has 
+suggested may influence the creative process but do not 
+represent well-recognized cognitive (or intellectual) 
+processes. Mood, for example, was coded as extracogni -
+tive because it is affective and yet sometimes does influ -
+ence creative thinking (Kaufmann & Vosburg, 2002 ).
+These categorizations were chosen for several rea -
+sons. First, they were chosen a priori and selected 
+because they fit with creativity theory and research. 
+The predictor vs criterion category, for example, fits 
+with psychometric research on creativity (Runco, Park 
+& Acar, 2020 ). The categorizations also represent a fairly 
+optimal number of statistical tests, relative to the sample 
+size. The predictor vs criterion categorization maxi -
+mized power in that it could be applied to all previous 
+meta analyses (rather than just a subsample) and it fits 
+with general concerns about creativity as it may influ -
+ence various aspects of life (and is in that sense 
+a predictor) and creativity as it may be influenced by 
+various factors (and can therefore be supported). It was 
+necessary for the moderator analyses to have a sufficient 
+number of effect sizes per each moderator level, which 
+meant avoiding narrow categories and combined them 
+when conceptually appropriate.
+These categorizations of the previous meta-analyses 
+– or, more precisely, the effect sizes previously 
+reported – allowed second-order meta-analyses to 
+determine what effect sizes have been reported across 
+studies, where creativity was treated as a predictor or 
+treated as an outcome, and, within each of those two 
+broad categories, how the different types of studies 
+(comparative and correlational), different creativity 
+variables (e.g., divergent thinking), and different corre -
+lates (e.g., cognitive, extracognitive, and background) 
+moderated these effect sizes. The current second-order 
+meta-analysis should provide a broad picture of where 
+the field of creative studies stands, where there has been 
+clear progress, and where there is more work to do.
+Second-order meta-analyses (SOMA) have several 
+unique advantages over literature reviews and other 
+approaches used to synthesize research. First, SOMA 
+are empirical rather than theoretical. Relatedly, unlike 
+literature reviews, in SOMA reliability is calculated and 
+reported. Then there is the fact that, instead of some 
+theoretical conclusions offered by a literature review, 
+SOMA synthesize previous results into an overall esti -
+mate (or estimates), with known reliability. As Sala et al. 
+( 2019 ) wrote, “Theory building in science requires repli -
+cation and integration of findings regarding a particular 
+research question. Second-order meta-analysis (i.e., 
+a meta-analysis of meta-analyses) offers a powerful 
+tool for achieving this aim.” Put differently, SOMA 
+offers highly robust analyses. They utilize large samples 
+(the present sample includes 1,248,416 individuals), 
+often from quite varied primary meta-analyses, and 
+thus provide results with justified generalizability. The 
+generalizability is supported by the larger samples but 
+also by the fact that no one methodology is used. 
+Diverse methodologies (e.g., tests, measures, and con -
+trols) had been used in the original meta-analyses, and 
+the results of the SOMA are thus not indicative of any 
+one methodology. Another key advantage of SOMA is 
+that they estimate the proportion of the variance in 
+mean meta-analytic effect sizes across multiple first- 
+order meta-analyses that is attributable to second- 
+order sampling error and use this information to 
+improve the accuracy of the overall estimation for each 
+first order meta-analytic estimates (Schmidt & Oh,  
+2013 ). In short, they are highly accurate.
+A SOMA of the creativity research can address 
+broadly important questions that could not be 
+addressed with any other analytic strategy. Over 70 
+meta-analyses had in some way previously investigat -
+ing the impact of creativity, and the SOMA reported 
+here therefore offers an empirical answer to the ques -
+tion, “does creativity matter?” Data used to answer 
+this question were found in the previous meta- 
+analyses that used creativity as an independent vari -
+able, an influence, or a predictor. The answer to “does 
+creativity matter” would be affirmative if it was in fact 
+predictive of important outcomes (e.g., health, pro -
+blem solving, and creative achievement), as indicated 
+by an overall effect size. Another subset of primary 
+meta-analyses included in the present data in some 
+way investigated the things that influence creativity. 
+Here, creativity was an outcome or the dependent 
+variable. The SOMA reported here could therefore 
+offer an empirical answer to the question, “what can 
+2
+ M. A. RUNCO ET AL.
+
+--- PAGE 4 ---
+be done about creativity?” The degree to which is 
+creativity influenced by experiences, education, treat -
+ments and training, and group and individual char -
+acteristics indicates whether or not it does react to 
+varied influences. In a sense, this speaks to the ques -
+tion, can anything can be done about creativity? That 
+is a broad question, but in addition, SOMA can ana -
+lyze moderators and thereby offer specific estimates of 
+the degree to which various sources of heterogeneity 
+(moderators) have been related to creativity in the 
+primary meta-analyses. Admittedly, not all sources of 
+heterogeneity can be empirical examined. The present 
+analyses were limited by the available data. Theory 
+might have suggested that one particular sources of 
+heterogeneity should be analyzed (e.g., historical eras), 
+but if there are too few extant primary meta-analyses 
+(and effect sizes) about it, meta-analyses are not pos -
+sible. Given the various advantages of SOMA, it is no 
+wonder that they have been used to synthesize 
+research on cognitive training (Sala et al., 2019 ), the 
+impact of technology on learning (Tamim et al., 2011 ) 
+the impact of relying on college students as research 
+participants (Peterson, 2001 ), the impact of online 
+and distance learning (Martin et al., 2022 ), and 
+a large number of other research questions.
+Abundant theoretical justification could be cited for 
+each of these variables, correlates, and influences. Each 
+of them was justified by theory in the original meta- 
+analyses. Given that there were over 70 of these con -
+tributing effect sizes to the present effort, the specific 
+theories are too numerous to cite here. That being said, 
+the idea that background variables may influence crea -
+tivity follows from the theory that humans have creative 
+potentials which may be fulfilled (e.g., Runco, 2024 ). 
+The idea that there are cognitive correlates of creativity 
+follows from numerous theories which point to diver -
+gent thinking, insight, problem solving, and so on (e.g., 
+Roberts et al., 2021 ). The idea that there are extracogni -
+tive correlates follows from theories of personality (e.g., 
+Eysenck, 2003 ), and mood and affect (Kaufmann & 
+Vosburg, 2002 ; Hirt, 1999 ). The idea that interventions 
+and education may influence creativity follows from 
+theories of instruction, teaching, and training (e.g., 
+Beghetto & van Geffen, 2024 ). Finally, the idea that 
+there are important immediate influences on creativity 
+(e.g., task instructions and stress) follows from theories 
+of creativity an expression of current functioning 
+(Rhodes, 1997 ). These are just examples and additional 
+theoretical detail can be found in the original meta- 
+analyses. The most important theory justifying the cur -
+rent analysis is no doubt that which explains the mean -
+ing and value of second-order meta-analyses (Schmidt 
+& Oh, 2013 ).
+Method
+Search strategy
+A multimodal search strategy was used to identify rele -
+vant first-order meta-analyses on creativity. First, we 
+conducted a multi-database search using EBSCOhost 
+for peer-reviewed literature across the following five 
+databases: ERIC, APA PsycINFO, APA PsycArticles, 
+Education Research Complete, and Academic Search 
+Complete. Additionally, we searched ProQuest 
+Dissertations and Theses for unpublished meta- 
+analyses. The keyword creativity and its associated com -
+ponents and variations (e.g., divergent thinking, origin -
+ality, and fluency) along with specific meta-analysis 
+terms (e.g., meta-analysis and systematic review) were 
+applied to article and dissertation titles and abstracts 
+using Boolean operators and truncation. Second, we 
+manually searched key creativity research journals, 
+including Creativity Research Journal , The Journal of 
+Creative Behavior , Psychology of Aesthetics, Creativity 
+and the Arts , and Thinking Skills and Creativity . Third, 
+a document title search was performed in Google 
+Scholar for additional gray literature. Finally, we 
+reached out to creativity scholars to inquire about addi -
+tional meta-analysis studies, including those not yet 
+published. Our search identified 4228 studies which 
+were screened at the title and abstract levels; 78 were 
+full text assessed for eligibility, with 52 included in 
+this second-order meta-analysis (see Figure 1 ).
+Inclusion and exclusion criteria
+Our database search was limited to first-order meta- 
+analyses published in English between January 1, 1980, 
+and August 1, 2023. To be included, studies had to 
+report at least one meta-analytic effect size related to 
+creativity or its components. Systematic reviews without 
+meta-analytic methods were excluded (e.g., Bicer et al.,  
+2021 ). Additionally, studies involving brain imaging 
+that used Activation Likelihood Estimation (ALE) meta- 
+analysis of fMRI data were excluded, as they did not 
+provide meta-analytic effect sizes on the relationships 
+between creativity and other variables (e.g., Boccia et al.,  
+2015 ).
+Data coding and extraction
+A coding spreadsheet was developed to systematically 
+record the following key features from each first-order 
+meta-analysis: the authors, publication year, publication 
+status (published vs. unpublished), the year span of the 
+included empirical studies, the meta-analytic model 
+employed (fixed effects and random effects), the meta- 
+CREATIVITY RESEARCH JOURNAL
+ 3
+
+--- PAGE 5 ---
+analytic design (correlational and comparative), the 
+number of included primary studies, and the number 
+of analyzed effect sizes. For each individual reported 
+effect size, we extracted the associated reported sample 
+size, effect size, type of effect size, sampling error, 
+standard deviation, and 95% confidence interval. 
+Additionally, we recorded the type of creativity (e.g., 
+divergent thinking task performance, creative activity 
+performance, and self-perceptions and self-ratings), 
+modality of creativity (e.g., verbal, figural, numerical, 
+Figure 1. Preferred reporting items for systematic reviews and meta-analyses diagram illustrating study search and inclusion process.
+Table 1. Study quality criteria.
+Study Quality Criterion Details
+1. Was an “a priori” design provided? Were the research question and inclusion criteria pre-registered before the review was 
+conducted?
+2. Was there duplicate study selection and data 
+extraction?
+Were there at least two independent data extractors and a consensus procedure in place for 
+disagreements?
+3. Was a comprehensive literature search performed? Were at least two electronic sources searched, with keywords/search specifiers, date ranges, and 
+databases specified? And, was the overall search strategy provided?
+4. Was gray literature included during the search? Did the authors search for reports regardless of their publication type? (Reports should not have 
+been excluded solely based on publication status.)
+5. Was a list of included studies provided? Were studies selected for inclusion listed in the body or clearly annotated with asterisks in the 
+References?
+6. Were the characteristics of included studies provided? Was relevant information provided on each included study (e.g., variables, interventions, 
+outcomes) in an aggregated form such as a table or forest plot?
+7. Was the scientific quality of included studies assessed 
+and documented?
+Did the authors provide details regarding their assessment of the scientific/methodological 
+quality of included studies?
+8. Was the scientific quality of included studies used 
+appropriately in formulating conclusions?
+Did the authors use study quality score as a moderator when analyzing their meta-analytic 
+results and when reporting conclusions and recommendations?
+9. Were the methods used to combine findings of studies 
+appropriate?
+Was a homogeneity assessment conducted to determine whether studies were combinable (e.g., 
+Chi-squared test)? And, if needed, was a multi-level or random effects model employed to 
+ensure the appropriateness of pooling results?
+10. Was a confidence/credibility interval or standard error 
+reported?
+Was at least one of the following reported for the effect size: a confidence interval, a credibility 
+interval, or a standard error?
+11. Was the likelihood of publication bias assessed? Was a graphical aid (e.g., funnel plot) and/or statistical test (e.g., Egger’s regression test, Fail-Safe 
+N test) used to assess publication bias?
+12. Were potential conflicts of interest included? Were sources of funding or support (or lack thereof) clearly acknowledged?
+4
+ M. A. RUNCO ET AL.
+
+--- PAGE 6 ---
+and mixed), and domain of creativity assessed (e.g., 
+science, arts, and domain general), along with any 
+reported moderators.
+The methodological quality of the included first- 
+order meta-analyses was assessed using the AMSTAR 
+measurement tool (Shea et al., 2017 ). The 12 study 
+quality criteria used in the assessment are detailed in 
+Table 1 . Each criterion was scored dichotomously, and 
+an overall quality score for each meta-analysis was cal -
+culated by averaging the scores across all criteria. Two 
+independent coders evaluated the study quality variable. 
+One coder assessed all 61 studies, while another inde -
+pendently assessed 52 of them. The inter-rater agree -
+ment was 97% for the 636 individual study quality 
+variables. All discrepancies were resolved through con -
+sensus during multiple review meetings involving both 
+coders and an additional author. A dichotomous mod -
+erator that indicated whether or not a first-order meta- 
+analysis was considered high quality was then created, 
+with the threshold for the average quality score set at 
+0.75. In other words, a first-order meta-analysis should 
+meet at least nine out of 12 criteria to be considered high 
+quality.
+Data analysis
+Pearson correlation coefficient (Pearson’s r ) was used as 
+the measure of relationship between creativity and its 
+correlates. In cases where the first-order meta-analyses 
+presented Spearman’s rank correlation coefficients 
+(Spearman’s ρ ), we converted them to Pearson’s 
+r using Equation 1 (Rupinski & Dunlap, 1996 ): 
+If standardized mean differences (Cohen’s d or 
+Hedges’ g ) were reported in the first-order meta- 
+analyses, they were transformed to Pearson’s r using 
+formulas in Borenstein et al. ( 2009 ).
+Due to the non-normality of Pearson’s r , each r was 
+transformed to Fisher’s z to better approximate the 
+normal distribution. The z -transformed correlation 
+coefficients were then used in the subsequent meta- 
+analyses. These meta-analytic estimates were eventually 
+converted back to Pearson’s r to aid interpretation.
+All statistical analyses were performed in R, using the 
+metafor (Viechtbauer, 2010 ) and clubSandwich 
+(Pustejovsky & Tipton, 2017 ) packages.
+The primary analysis employed the combination of 
+a multilevel meta-analytical model with robust variance 
+estimation (RVE; Hedges et al., 2010 ). Initially, 
+a working model was used to approximate the depen -
+dency structure of the effect size data, enabling the 
+calculation of inverse-variance weights. More specifi -
+cally, the CHE model was used (Tipton & Pustejovsky,  
+2022 ). It assumes correlations between effect sizes 
+within the same first-order meta-analysis due to possi -
+ble measurements on shared participants, while 
+acknowledging potential differences between these 
+effect sizes. For the analyses, we assumed that effect 
+sizes within the same first-order meta-analysis were 
+correlated with r = 0.8. To mitigate misspecification 
+risks related to the working model and the assumed 
+correlation, standard errors were estimated and RVE 
+used for hypothesis testing. This combined approach 
+ensured the validity of hypothesis testing and increased 
+the precision of the estimates.
+The average effect size was estimated using an inter -
+cept-only meta-analytic model. For moderator analysis, 
+all potential moderators (i.e., creativity as a criterion or 
+predictor, study design, the types of creativity, the types 
+of correlates of creativity, and the indicator of high- 
+quality meta-analysis) were included in the model. 
+Moderator effects were evaluated using the F test with 
+the Approximate Hotelling’s T -squared approach 
+(Tipton & Pustejovsky, 2015 ). Since all moderators 
+were discrete variables, we also presented the effect 
+estimate at each level of each moderator (representing 
+each subgroup), controlling for the remaining modera -
+tors by centering to their mean levels. Confidence inter -
+vals and prediction intervals were also presented along 
+with the subgroup effect estimates.
+Although no studies have specifically examined 
+methods for publication bias in second-order meta- 
+analyses, the methods used to address publication bias 
+in first-order meta-analyses were presumed to be simi -
+larly effective. A modified Egger’s regression test (Sterne 
+& Egger, 2006 ) was applied within the multilevel meta- 
+analytic model with RVE, to both detect and adjust for 
+any small-study effects, which potentially indicated 
+publication bias. If the test result was significant, then 
+the bias-corrected estimates would be presented. The 
+primary advantage of the regression-based adjustment 
+is that it can be seamlessly integrated into the multilevel 
+meta-analytic framework with RVE. By contrast, alter -
+native approaches, such as the trim-and-fill method 
+(Duval & Tweedie, 2000 ), Fail-Safe N test (Orwin,  
+1983 ), and selection models (Vevea & Hedges, 1995 ) 
+have not yet been thoroughly evaluated in the context 
+of multilevel meta-analysis.
+Results
+Data from 52 meta-analyses were analyzed. These had 
+summarized 2609 studies from 1,248,416 individuals 
+and reported 16,153 effect sizes. On average, the first- 
+CREATIVITY RESEARCH JOURNAL
+ 5
+
+--- PAGE 7 ---
+order meta-analyses each summarized results from 
+around 50 studies, 323 primary effect sizes, and 24,968 
+individuals. Figure 2 illustrates the frequency distribu -
+tion of the 164 first-order meta-analytic effect sizes 
+included in our study. To verbally classify the second- 
+order effect sizes, this overall distribution was used, 
+taking into account the 33rd and 67th percentiles 
+(following Kraft, 2020 ): effects with an absolute value 
+below 0.16 were classified as small, those ranging from 
+0.16 to 0.31 as medium, and those exceeding 0.31 as 
+large.
+The overall bias-corrected second-order meta- 
+analytic effect size that was calculated in the intercept- 
+only meta-analytic model was .17 (95% CI [.11, .22]). 
+The Egger’s regression test was significant, F (1, 10.9) =  
+15.7, p = .002, indicating the presence of small-study 
+effects and favoring the use of the bias-corrected esti -
+mate; by comparison, the uncorrected overall effect was 
+.21 (95% CI [.17, .26]). The 95% prediction interval was 
+[−.24, .53]. The statistic of effect heterogeneity was 
+Q ( df = 162) = 12494, p < .001, suggesting substantial 
+heterogeneity. This heterogeneity was explored by the 
+meta-regression model which included all moderators 
+simultaneously.
+Examined moderators included creativity as 
+a criterion or predictor, study design, the types of crea -
+tivity, the types of correlates of creativity, and the indi -
+cator of high-quality first-order meta-analysis. 
+Correlates of creativity represented (a) cognitive corre -
+lates (intelligence, imagination, cognitive load, incuba -
+tion; e.g. Gerwig et al., 2021 ; Kim, 2008 ), (b) 
+background (sex, culture; e.g., Acar et al., 2022 ; 
+Abdulla Alabbasi et al. 2022 ), (c) extracognitive corre -
+lates (stress, mood, intrinsic motivation, personality, 
+curiosity, schizotypy, psychoticism; e.g., Acar & 
+Runco, 2012 ; Byron et al., 2010 ), (d) interventions and 
+education (programs such as Osborne’s Creative 
+Problem Solving or the Purdue Creative Thinking 
+Program, explicit instructions given with DT tests; e.g., 
+DeRosa et al., 2007 ; Itsarangkul et al., 2022 ), and (e) 
+immediate influences (team composition or diversity, 
+climate, role expectations; e.g., Hammond et al., 2011 ; 
+Hunter et al., 2007 ). The modality or domain of crea -
+tivity was not assessed because there were not enough 
+first-order effect sizes across their levels. Publication 
+status as a moderator also could not be assessed, as 
+nearly all of the included meta-analyses were published.
+Tables 2 and 3 present detailed meta-regression and 
+subgroup results. In the meta-regression output, the 
+reference level for creativity as a criterion or predictor 
+is creativity as a criterion; the reference level for study 
+design is comparative; the reference level for types of 
+creativity is creative outcomes; the reference level for 
+types of correlates of creativity is background; and the 
+reference level for the indicator of high-quality meta- 
+analysis is not high. The coefficients for the dummies in 
+Table 2 then represented the difference between the 
+corresponding level and the reference level. The 
+Egger’s test was significant, F (1, 11.1) = 19.5, p = .001, 
+indicating that bias-corrected estimates are necessary. 
+Among all moderators, only the criterion/predictor 
+moderator was statistically significant, F (1, 16.3) =  
+9.43, p = .007. The average second-order effect size for 
+the relationship between creativity and its correlates was 
+Figure 2. Distribution of the meta-analytic effect sizes.
+6
+ M. A. RUNCO ET AL.
+
+--- PAGE 8 ---
+.12 (95% CI [.05, .19]) for studies where creativity was 
+treated as a criterion and .29 (95% CI [.18, .41]) when 
+considered a predictor. The design of the first-order 
+meta-analyses was also tested as a moderator. No statis -
+tical difference was observed, F (1, 23.1) = 1.48, p = .24. 
+For comparative studies, the second-order meta- 
+analytic effect size was .10 (95% CI [−.03, .22]), and 
+for correlational studies, it was .17 (95% CI [.10, .24]). 
+Finally, the indicator of high-quality meta-analysis was 
+not a significant moderator, F (1, 12.9) = 0.97, p = .34.
+Four categories were created for the type of creativity 
+variable used in first-order meta-analyses: creative out -
+comes, creative process, divergent thinking, and overall 
+creativity. The first-order meta-analysis studies 
+specifically focused on divergent thinking in its distinct 
+form. Creative process, however, included a range of 
+other creativity variables that were theoretically and 
+conceptually classified under it. To capture the effect 
+size for divergent thinking, it was initially analyzed 
+separately, and then integrated into the creative process. 
+In both models, there were no significant differences in 
+effect sizes among the types of creativity, with substan -
+tial overlaps between the confidence intervals. In the 
+first model, where creative process and divergent think -
+ing were analyzed separately, creative process had an 
+effect size of .27 (95% CI [.10, .43] while divergent 
+thinking had an effect size of .14 (95% CI [.04, .24]). 
+Of the types of correlates of creativity, interventions and 
+Table 2. Meta-regression results.
+estimate SE 95% CI p
+Model 1
+Intercept −0.03 0.10 [−0.25, 0.19] 0.75
+Creativity as a Predictor 0.18 0.06 [0.06, 0.30] 0.01
+Correlational 0.07 0.06 [−0.05, 0.20] 0.24
+Creative Process 0.16 0.11 [−0.09, 0.41] 0.19
+Divergent Thinking 0.02 0.07 [−0.11, 0.16] 0.71
+Overall Creativity −0.02 0.07 [−0.16, 0.11] 0.73
+Cognitive Correlates 0.04 0.07 [−0.11, 0.20] 0.55
+Extracognitive Correlates 0.07 0.07 [−0.10, 0.24] 0.37
+Intervention/Education 0.13 0.09 [−0.06, 0.32] 0.16
+Immediate Influence 0.08 0.12 [−0.23, 0.39] 0.56
+High Quality 0.06 0.06 [−0.07, 0.18] 0.34
+Model 2
+Intercept −0.04 0.10 [−0.26, 0.18] 0.69
+Creativity as a Predictor 0.17 0.05 [0.05, 0.28] 0.01
+Correlational 0.09 0.06 [−0.03, 0.20] 0.14
+Creative Process
+a
+0.08 0.08 [−0.08, 0.25] 0.31
+Overall Creativity −0.01 0.07 [−0.15, 0.12] 0.83
+Cognitive Correlates 0.04 0.07 [−0.11, 0.20] 0.55
+Extracognitive Correlates 0.06 0.07 [−0.11, 0.24] 0.42
+Intervention/Education 0.14 0.08 [0.03, 0.32] 0.11
+Immediate Influence 0.10 0.12 [−0.20, 0.40] 0.46
+High Quality 0.03 0.05 [−0.09, 0.15] 0.63
+Note. To capture the effect size for divergent thinking, it was initially analyzed separately in Model 1, and 
+then integrated it with the creative process in Model 2.
+Table 3. Subgroup analysis results.
+estimate 95% CI 95% PI
+Creativity as a Criterion or Predictor 
+Creativity as a Criterion .12 [.05, .19] [−.25, .47]
+Creativity as a Predictor 
+Study Design 
+Comparative 
+Correlational 
+Types of Creativity
+.29  
+.10 
+.17
+[.18, .41]  
+[−.02, .22] 
+[.10, .24]
+[−.10, .61]  
+[−.30, .47] 
+[−.21, .50]
+Creative Outcomes .12 [−.02, .26] [−.28, .49]
+Creative Process .27 [.10, .43] [−.17, .62]
+Divergent Thinking .14 [.04, .24] [−.25, .50]
+Overall Creativity 
+Types of Correlates
+.10 [.01, .19] [−.29, .46]
+Background .07 [−.10, .25] [−.38, .49]
+Cognitive Correlates .12 [.04, .19] [−.27, .47]
+Extracognitive Correlates .14 [.06, .22] [−.24, .49]
+Intervention/Education .20 [.10, .29] [−.20, .54]
+Immediate Influence 
+Indicator of High Quality 
+Not High Quality 
+High Quality
+.15 
+.14 
+.19
+[−.07, .35] 
+[.07, .21] 
+[.07, .32]
+[−.35, .59] 
+[−.24, .48] 
+[−.22, .55]
+CREATIVITY RESEARCH JOURNAL
+ 7
+
+--- PAGE 9 ---
+educational programs yielded the largest effect size in 
+relation to creativity, with a Pearson’s correlation of .20 
+(95% CI [.10, .29]). Cognitive and extracognitive corre -
+lates yielded statistically similar effects of .12 and .14, 
+with largely overlapping confidence intervals. Finally, 
+background factors and immediate influences showed 
+non-significant effects, as evidenced by 95% confidence 
+intervals that included zero.
+Discussion
+Creative studies have grown a great deal in the past 
+several decades, so much so that not only have there 
+been hundreds of original empirical studies, but also 
+dozens of meta-analyses. The present investigation 
+summarized what had been reported in the previous 
+meta-analyses. Fifty-two first-order meta-analyses satis -
+fied the inclusion criteria and were analyzed.
+Across meta-analyses where creativity was used as 
+a predictor, the average effect size was .29. Across 
+those where creativity was instead the criterion (an out -
+come), the average effect size was .12. This might sug -
+gest that creativity as a predictor is easier to 
+operationalize than creativity as an outcome. That may 
+come as a surprise, given that creativity as an outcome 
+could include actual creative activities and accomplish -
+ments – things which can simply be counted. Of some 
+relevance on this point is that the meta-analytic study 
+design examined as a moderator and did not seem to 
+matter. The quality of the first-order meta-analysis was 
+also not important. Each of these nonsignificant mod -
+erators suggests some generality of the present results. If 
+study design had been statistically significant, for exam -
+ple, it would suggest that the effect sizes for creativity as 
+a criterion or as a predictor only applied some of the 
+time (e.g., in studies that used certain designs). If the 
+quality of the meta-analysis had been statistically sig -
+nificant, it would imply that the effect sizes in the pre -
+sent results only applied some of the time (e.g., only in 
+high-quality meta-analyses). Also relevant is that there 
+was a statistically significant amount of heterogeneity, 
+which implies that the range in the previous meta- 
+analyses was substantial, even though the summarized 
+effect size for creativity as a predictor was large, at .29. 
+Sometimes creativity was a reasonable predictor, but 
+sometimes it was not. The significant heterogeneity is 
+a reminder that in some of the previous meta-analyses, 
+creativity as a predictor was more (or less) strongly 
+associated with criteria than the value of .29 might 
+suggest.
+Standing back, these results might imply that there is 
+a stronger argument for the claim that creativity is 
+important (because of what it can predict) than the 
+claim that creativity can accurately be predicted. It 
+may, however, be best to postpone that conclusion. 
+After all, the variables and measures used in the research 
+where creativity was a predictor are not the same as 
+those used in the research where creativity was 
+a criterion, so it is not a fair comparison. Also, keep in 
+mind that although the analyses reported above exam -
+ined 52 meta-analyses, many influences and outcomes 
+were excluded because they have not yet been examined 
+(or not yet justified a meta-analysis). Conclusions about 
+influences on creativity are similarly limited because not 
+all possible influences on creativity have been studied. 
+Conclusions about predictions from creativity must be 
+qualified by the fact that there was a finite number of 
+criteria used in the previous meta-analyses. This is in 
+addition to the well-known criterion problem which has 
+long plagued the creativity research (Paek & Runco,  
+2018 ; Shapiro, 1970 ).
+The type of creativity targeted in the previous meta- 
+analyses was only moderately important. For studies 
+focusing on divergent thinking, the average effect size 
+was .14. When divergent thinking was included with 
+other measures of the creative process, the effect size 
+was .27. This is no surprise, given that divergent think -
+ing is only one component of the creative process 
+(Basadur et al., 2000 ; Cropley, 2006 , Runco & Chand,  
+1995 ; Zeng et al., 2011 ). Thus, it makes sense that more 
+information is provided when all process variables are 
+examined rather than just one, even if it is divergent 
+thinking. Incidentally, the largest effect size reported by 
+da Costa et al. ( 2015 ) in their second-order meta- 
+analysis, which included both creativity and innovation 
+but focused more on personality than the 
+present second-order analysis, was .31. This is very 
+close to the largest effect size uncovered in our own 
+results.
+Analyses of the correlates of creativity as a moderator 
+indicated that interventions and educational efforts had 
+a modest association with creativity; the second-order 
+meta-analytic Pearson correlation coefficient was .20. 
+There was not much difference between the cognitive 
+and extracognitive correlates of creativity, which were 
+.12 and .14. This is important because it reinforces the 
+idea that creativity cannot be well understood by only 
+taking cognitive factors into account. Motivation, affect, 
+attitudes, mood, and so on should also be recognized 
+(Kaufmann & Vosburg, 2002 ). Background variables 
+(birth order, family size, sex, race diversity) were non -
+significant in the current analyses, with a confidence 
+interval that included zero. This was somewhat surpris -
+ing, given the logic for including culture, sex, and other 
+demographics (cf Csikszentmihalyi, 1988 ; Rudowicz,  
+2003 ). However, as is the case with all of the results 
+8
+ M. A. RUNCO ET AL.
+
+--- PAGE 10 ---
+reported here, the statistics are averages that are not 
+necessarily indicative of what might be found in any 
+single sample. The prediction interval for background 
+variables was −.38 to .49, indicating that the true effect 
+size could range from a negative correlation to a positive 
+correlation.
+This brings us to limitations of the current research 
+and future directions. One limitation was that the only 
+data that could be used in the SOMA were those pro -
+duced in the earlier meta-analyses. This meant that 
+some of the results suggest important questions in 
+need of research. Future research might follow up on 
+some of the particular findings reported here. One 
+obvious example is the result from the present SOMA 
+that creativity as a predictor had a larger effect size 
+than creativity as an outcome. Could that be 
+a reflection of the operationalization of each? Is it 
+a reflection of the creative process, or a measurement 
+artifact? The present data do not provide an answer but 
+perhaps future research can be designed along these 
+lines. Similarly, the present results indicated that crea -
+tive processes had a larger effect size than divergent 
+thinking. Future research might follow up on that as 
+well in an attempt to explain the discrepancy. In addi -
+tion to research like this, additional second-order 
+meta-analyses will be warranted as more and more 
+primary meta-analyses on creativity are published. 
+These will be interesting, especially given what was 
+said above about the limitations of the present 
+research. The current results are not indicative of all 
+measures (predictors and criteria) that could be used 
+when doing research on creativity. This research was 
+also limited in that only certain a priori categories were 
+used as moderators and correlates. Those analyzed 
+(e.g., background variables, cognitive vs. meta- 
+cognitive processes, and educational interventions) fit 
+well with current theory and with the previous meta- 
+analyses, but they were chosen a priori, and other 
+categories could have been hypothesized. Future 
+research might be able to use as of yet unreported 
+meta-analyses on cultural differences or domain differ -
+ences and other important issues. Undoubtedly, other 
+categories will be used in future research when 
+another second-order meta-analysis is justified by 
+further advancements in the field.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+ORCID
+Mark A. Runco 
+ http://orcid.org/0000-0002-5043-7900
+References
+References marked with an asterisk indicate studies included 
+in the meta-analysis.
+*Abdulla, A. M., Paek, S. H., Cramond, B., & Runco, M. A. 
+(2020). Problem finding and creativity: A meta-analytic 
+review. Psychology of Aesthetics, Creativity, and the Arts , 
+14 (1), 3–14. https://doi.org/10.1037/aca0000194  
+*Abdulla Alabbasi, A. M., Tadik, H., Acar, S., & Runco, M. A. 
+(2021). Birth order and divergent thinking: A 
+meta-analysis. Creativity Research Journal , 33 (4), 331–346.  
+https://doi.org/10.1080/10400419.2021.1913559  
+Abdulla Alabbasi, A. M., Thompson, T. L., Runco, M. A., 
+Alansari, L. A., & Ayoub, A. E. A. ( 2022 ). Gender differ -
+ences in creative potential: A meta-analysis of mean differ -
+ences and variability. Psychology of Aesthetics, Creativity, 
+and the Arts , 19 (1), 87–100. https://doi.org/10.1037/ 
+aca0000506  
+Acar, S., Ogurlu, U., & Runco, M. A. ( 2020 ). Meta-analytic 
+research on creativity: Challenges and solutions. In 
+M. Stierand & V. Dorfler (Eds.), Handbook of research 
+methods on creativity (pp. 244–258). Edward Elgar 
+Publishers. https://doi.org/10.4337/9781786439659.00028  
+Acar, S., & Runco, M. A. ( 2012 ). Psychoticism and creativity: 
+A meta-analytic review. Psychology of Aesthetics, Creativity, 
+and the Arts , 6 (4), 341–350. https://doi.org/10.1037/ 
+a0027497  
+Acar, S., Runco, M. A., & Park, H. ( 2020 ). What should people 
+be told when they take a divergent thinking test? A 
+meta-analytic review of explicit instructions for divergent 
+thinking. Psychology of Aesthetics, Creativity, and the Arts , 
+14 (1), 39–49. https://doi.org/10.1037/aca0000256  
+*Acar, S., & Sen, S. (2013). A multilevel meta-analysis of the 
+relationship between creativity and schizotypy. Psychology 
+of Aesthetics, Creativity, and the Arts , 7 (3), 214–228. https:// 
+doi.org/10.1037/a0031975  
+Acar, S., Tadik, H., Uysal, R., Myers, D., & Inetas, B. ( 2022 ). 
+Socio-economic status and creativity: A meta analysis. 
+Journal of Creative Behavior , 57 (1), 138–172. https://doi. 
+org/10.1002/jocb.568  
+*Anderson, N., Potočnik, K., & Zhou, J. (2014). Innovation 
+and creativity in organizations: A state-of-the-science 
+review, prospective commentary, and guiding framework. 
+Journal of Management , 40 (5), 1297–1333. https://doi.org/ 
+10.1177/0149206314527128  
+*Ayutthaya, T. I. N., & Damrongpanit, S. (2022). A meta- 
+analysis of instructional management model for students’ 
+creative thinking development: An application of propen -
+sity score matching. European Journal of Educational 
+Research , 11 (4), 2429–2444. https://doi.org/10.12973/eu- 
+jer.11.4.2429  
+*Baas, M., De Dreu, C. K., & Nijstad, B. A. (2008). A 
+meta-analysis of 25 years of mood-creativity research: 
+Hedonic tone, activation, or regulatory focus? 
+Psychological Bulletin , 134 (6), 779–806. https://doi.org/10. 
+1037/a0012815  
+Basadur, M., Runco, M. A., & Vega, L. A. ( 2000 ). 
+Understanding how creative thinking skills, attitudes, and 
+behaviors work together: A causal process model. Journal of 
+Creative Behavior , 34 (2), 77–100. https://doi.org/10.1002/j. 
+2162-6057.2000.tb01203.x  
+CREATIVITY RESEARCH JOURNAL
+ 9
+
+--- PAGE 11 ---
+Beghetto, R., & van Geffen, B. ( 2024 ). Creativity assessment in 
+schools and classrooms. In M. A. Runco & S. Acar (Eds.), 
+Handbook of creativity assessment (pp. 234–252). Edward 
+Elgar.
+*Bell, S. T., Villado, A. J., Lukasik, M. A., Belau, L., & 
+Briggs, A. L. (2011). Getting specific about demographic 
+diversity variable and team performance relationships: A 
+meta-analysis. Journal of Management , 37 (3), 709–743.  
+https://doi.org/10.1177/0149206310365001  
+*Bharadwaj, S., & Menon, A. (2000). Making innovation hap -
+pen in organizations: Individual creativity mechanisms, 
+organizational creativity mechanisms or both? Journal of 
+Product Innovation Management , 17 (6), 424–434. https:// 
+doi.org/10.1111/1540-5885.1760424  
+Bicer, A., Chamberlin, S., & Perihan, C. ( 2021 ). A 
+meta-analysis of the relationship between mathematics 
+achievement and creativity. Journal of Creative Behavior , 
+55 (3), 569–590. https://doi.org/10.1002/jocb.474  
+Boccia, M., Piccardi, L., Palermo, L., Nori, R., & Palmiero, M. 
+( 2015 ). Where do bright ideas occur in our brain? 
+Meta-analytic evidence from neuroimaging studies of 
+domain-specific creativity. Frontiers in Psychology , 6 , 
+1195. https://doi.org/10.3389/fpsyg.2015.01195  
+Borenstein, M., Hedges, L. V., Higgins, J. P. T., & 
+Rothstein, H. R. ( 2009 ). Introduction to meta-analysis . 
+Wiley. https://doi.org/10.1002/9780470743386  
+*Brown, S., & Kim, E. (2021). The neural basis of creative 
+production: A cross-modal ALE meta-analysis. Open 
+Psychology , 3 (1), 123–152. https://doi.org/10.1515/psych- 
+2020-0114  
+Byron, K., Khazanchi, S., & Nazarian, D. ( 2010 ). The relation -
+ship between stressors and creativity: A meta-analysis 
+examining competing theoretical models. Journal of 
+Applied Psychology , 95 (1), 201–212. https://doi.org/10. 
+1037/a0017868  
+*Carson, S. H., Peterson, J. B., & Higgins, D. M. (2003). 
+Decreased latent inhibition is associated with increased 
+creative achievement in high-functioning individuals. 
+Journal of Personality & Social Psychology , 85 (3), 499–506.  
+https://doi.org/10.1037/0022-3514.85.3.499  
+*Chen, Q., Ding, K., Yang, Y., Yu, R., Kenett, Y., & Qiu, J. 
+(2022). A meta-analysis of the effects of non-invasive brain 
+stimulation on creative thinking. PsyArxiv . https://doi.org/ 
+10.31234/osf.io/nza2f  
+*Colangelo, R. F. (1990). A meta-analysis and confirmatory 
+factor analysis of the relationship between intelligence and 
+divergent thinking-based creative abilities (publication 
+No. 9020293 [Doctoral dissertation, The George 
+Washington University.] ProQuest Dissertations & Theses
+Cropley, A. J. ( 1997 ). Creativity and mental health in everyday 
+life. In M. A. Runco & R. Richards (Eds.), Eminent creativ -
+ity, everyday creativity, and health (pp. 231–246). Ablex.
+Cropley, A. J. ( 2006 ). In praise of convergent thinking. 
+Creativity Research Journal , 18 (3), 391–404. https://doi. 
+org/10.1207/s15326934crj1803_13  
+Csikszentmihalyi, M. ( 1988 ). Society, culture, and person: 
+A system view of creativity. In R. J. Sternberg (Ed.), The 
+nature of creativity (pp. 325–339). Cambridge University 
+Press.
+da Costa, S., Páez, D., Sánchez, F., Garaigordobil, M., & 
+Gondim, S. ( 2015 ). Personal factors of creativity: 
+A second order meta-analysis. Revista de Psicología del 
+Trabajo y de las Organizaciones , 31 (3), 165–173. https:// 
+doi.org/10.1016/j.rpto.2015.06.002  
+*Davis, M. A. (2009). Understanding the relationship between 
+mood and creativity: A meta-analysis. Organizational 
+Behavior and Human Decision Processes , 108 (1), 25–38.  
+https://doi.org/10.1016/j.obhdp.2008.04.001  
+*de Jesus, S. N., Rus, C. L., Lens, W., & Imaginário, S. (2013). 
+Intrinsic motivation and creativity related to product: A 
+meta-analysis of the studies published between 1990-2010. 
+Creativity Research Journal , 25 (1), 80–84. https://doi.org/ 
+10.1080/10400419.2013.752235  
+DeRosa, D. M., Smith, C. L., & Hantula, D. A. ( 2007 ). The 
+medium matters: Mining the long-promised merit of group 
+interaction in creative idea generation tasks in a 
+meta-analysis of the electronic group brainstorming 
+literature. Computers in Human Behavior , 23 (3), 
+1549–1581. https://doi.org/10.1016/j.chb.2005.07.003  
+Duval, S., & Tweedie, R. ( 2000 ). Trim and fill: A simple 
+funnel-plot-based method of testing and adjusting for pub -
+lication bias in meta-analysis. Biometrics , 56 (2), 455–463.  
+https://doi.org/10.1111/j.0006-341x.2000.00455.x  
+*Evans, G. (2009). Creative cities, creative spaces and urban 
+policy. Urban Studies , 46 (5–6), 1003–1040. https://doi.org/ 
+10.1177/0042098009103853  
+Eysenck, H. ( 2003 ). Creativity, personality, and the conver -
+gent-divergent continuum. In M. A. Runco (Ed.), Critical 
+creative processes (pp. 95–114). Hampton Press.
+*Feist, G. J. (1998). A meta-analysis of personality in scientific 
+and artistic creativity. Personality and Social Psychology 
+Review , 2 (4), 290–309. https://doi.org/10.1207/ 
+s15327957pspr0204_5  
+Florida, R., & Gabe, T. ( 2024 ). Assessing the rise and geogra -
+phy of the creative economy. In M. A. Runco & S. Acar 
+(Eds.), Handbook of creativity assessment (pp. 215–233). 
+Edward Elgar.
+*Gajda, A., Karwowski, M., & Beghetto, R. A. (2017). 
+Creativity and academic achievement: A meta-analysis. 
+Journal of Educational Psychology , 109 (2), 269–299.  
+https://doi.org/10.1037/edu0000133  
+*Gelade, G. A. (2002). Creative style, personality, and artistic 
+endeavor. Genetic, Social, and General Psychology 
+Monographs , 128 (3), 213–234.
+Gerwig, A., Miroshnik, K., Forthmann, B., Benedek, M., 
+Karwowski, M., & Holling, H. ( 2021 ). The relationship 
+between intelligence and divergent thinking-a 
+meta-analytic update. Journal of Intelligence , 9 (2), 23.  
+https://doi.org/10.3390/jintelligence9020023  
+*Gonen-Yaacovi, G., De Souza, L. C., Levy, R., Urbanski, M., 
+Josse, G., & Volle, E. (2013). Rostral and caudal prefrontal 
+contribution to creativity: A meta-analysis of functional 
+imaging data. Frontiers in Human Neuroscience , 7 , 465.  
+https://doi.org/10.3389/fnhum.2013.00465  
+*Gralewski, J., & Karwowski, M. (2019). Are teachers’ ratings 
+of students’ creativity related to students’ divergent think -
+ing? A meta-analysis. Thinking Skills and Creativity , 33 , 
+100583. https://doi.org/10.1016/j.tsc.2019.100583  
+*Haase, J., Hoff, E. V., Hanel, P. H., & Innes-Ker, Å. (2018). A 
+meta-analysis of the relation between creative self-efficacy 
+and different creativity measurements. Creativity Research 
+Journal , 30 (1), 1–16. https://doi.org/10.1080/10400419. 
+2018.1411436  
+10
+ M. A. RUNCO ET AL.
+
+--- PAGE 12 ---
+Hammond, M. M., Neff, N. L., Farr, J. L., Schwall, A. R., & 
+Zhao, X. ( 2011 ). Predictors of individual-level innovation 
+at work: A meta-analysis. Psychology of Aesthetics, 
+Creativity, and the Arts , 5 (1), 90–105. https://doi.org/10. 
+1037/a0018556  
+Hedges, L. V., Tipton, E., & Johnson, M. C. ( 2010 ). Robust 
+variance estimation in meta-regression with dependent 
+effect size estimates. Research Synthesis Methods , 1 (1), 
+39–65. https://doi.org/10.1002/jrsm.5  
+Hirt, E. R. ( 1999 ). Mood. In M. A. Runco & S. R. Pritzker 
+(Eds.), Encyclopedia of creativity (Vol. 2, p. 241 250). New 
+York: Academic Press.
+*Hülsheger, U. R., Anderson, N., & Salgado, J. F. (2009). 
+Team-level predictors of innovation at work: 
+A comprehensive meta-analysis spanning three decades of 
+research. Journal of Applied Psychology , 94 (5), 1128–1145.  
+https://doi.org/10.1037/a0015978  
+Hunter, S. T., Bedell, K. E., & Mumford, M. D. ( 2007 ). Climate 
+for creativity: A quantitative review. Creativity Research 
+Journal , 19 (1), 69–90. https://doi.org/10.1080/ 
+10400410709336883  
+Itsarangkul, T. N. A., & Damrongpanit, S. ( 2022 ). A meta- 
+analysis of instructional management models affecting 
+creative thinking development. European Journal of 
+Educational Research , 11 (4), 2069–2085. https://doi.org/ 
+10.12973/eu-jer.11.4.2069 
+*Kaczykowski, K., Forthmann, B., Benedek, M., & Holling, H. 
+(2021). The manic idea creator? A review and meta-analysis 
+of the relationship between bipolar disorder and creative 
+cognitive potential. PsyArxiv . https://doi.org/10.31234/osf. 
+io/tkc79  
+*Karwowski, M., Czerwonka, M., Wisniewska, E., & 
+Forthmann, B. (2021). How is intelligence test performance 
+associated with creative achievement? A meta-analysis. 
+Journal of Intelligence , 9 (2), 28. https://doi.org/10.3390/ 
+jintelligence9020028  
+*Karwowski, M., & Lebuda, I. (2016). The big five, the huge 
+two, and creative self-beliefs: A meta-analysis. Psychology of 
+Aesthetics, Creativity, and the Arts , 10 (2), 214–232. https:// 
+doi.org/10.1037/aca0000035  
+Kaufmann, G., & Vosburg, S. K. ( 2002 ). Mood effects in early 
+and late idea production. Creativity Research Journal , 14 
+(3–4), 317–330. https://doi.org/10.1207/ 
+S15326934CRJ1434_3  
+*Kim, K. H. (2005). Can only intelligent people be creative? A 
+meta-analysis. Journal of Secondary Gifted Education , 16 
+(2–3), 57–66. https://doi.org/10.4219/jsge-2005-473  
+Kim, K. H. ( 2008 ). Meta analyses of the relationship of crea -
+tive achievement to both IQ and divergent thinking test 
+scores. Journal of Creative Behavior , 42 (2), 106–130.  
+https://doi.org/10.1002/j.2162-6057.2008.tb01290.x  
+Kraft, M. A. ( 2020 ). Interpreting effect sizes of education 
+interventions. Educational Researcher , 49 (4), 241–253.  
+https://doi.org/10.3102/0013189X20912798  
+*Kuncel, N. R., Hezlett, S. A., & Ones, D. S. (2004). Academic 
+performance, career potential, creativity, and job perfor -
+mance: Can one construct predict them all? Journal of 
+Personality & Social Psychology , 86 (1), 148–161. https:// 
+doi.org/10.1037/0022-3514.86.1.148  
+*Kuška, M., Trnka, R., Mana, J., & Nikolai, T. (2020). 
+Emotional creativity: A meta-analysis and integrative 
+review. Creativity Research Journal , 32 (2), 151–160.  
+https://doi.org/10.1080/10400419.2020.1751541  
+*LeBoutillier, N., & Marks, D. F. (2003). Mental imagery and 
+creativity: A meta analytic review study. British Journal of 
+Psychology , 94 (1), 29–44. https://doi.org/10.1348/ 
+000712603762842084  
+*Lebuda, I., Zabelina, D. L., & Karwowski, M. (2016). Mind 
+full of ideas: A meta-analysis of the mindfulness-creativity 
+link. Personality & Individual Differences , 93 , 22–26.  
+https://doi.org/10.1016/j.paid.2015.09.040  
+*Lewandowska, K., & Węziak-Białowolska, D. (2020). The 
+impact of theatre on empathy and self-esteem: A 
+meta-analysis. Creativity Research Journal , 32 (3), 237–245.  
+https://doi.org/10.1080/10400419.2020.1821553  
+*Li, Y., Du, Y., Xie, C., Liu, C., Yang, Y., Li, Y., & Qiu, J. 
+(2023). A meta-analysis of the relationship between seman -
+tic distance and creative thinking. Advances in 
+Psychological Science , 31 (4), 519. https://doi.org/10.3724/ 
+SP.J.1042.2023.00519  
+*Lin, X., Luan, Y., Zhao, K., & Zhao, G. (2022). A 
+meta-analysis of the relationship between leadership styles 
+and employee creative performance: A self-determination 
+perspective. Advances in Psychological Science , 30 (4), 781.  
+https://doi.org/10.3724/SP.J.1042.2022.00781  
+*Ma, H. H. (2006). A synthetic analysis of the effectiveness of 
+single components and packages in creativity training 
+programs. Creativity Research Journal , 18 (4), 435–446.  
+https://doi.org/10.1207/s15326934crj1804_3  
+*Ma, H. H. (2009). The effect size of variables associated with 
+creativity: A meta-analysis. Creativity Research Journal , 21 
+(1), 30–42. https://doi.org/10.1080/10400410802633400  
+Martin, F., Sun, T., Westine, C. D., & Ritzhaupt, A. D. ( 2022 ). 
+Examining research on the impact of distance and online 
+learning: A second-order meta-analysis study. Educational 
+Research Review , 36 (2), 100438. https://doi.org/10.1016/j. 
+edurev.2022.100438  
+*Nijstad, B. A., De Dreu, C. K., Rietzschel, E. F., & Baas, M. 
+(2010). The dual pathway to creativity model: Creative 
+ideation as a function of flexibility and persistence. 
+European Review of Social Psychology , 21 (1), 34–77.  
+https://doi.org/10.1080/10463281003765323  
+Orwin, R. G. ( 1983 ). A fail-safe n for effect size in 
+meta-analysis. Journal of Educational Statistics , 8 (2), 
+157–159. https://doi.org/10.3102/10769986008002157  
+*Pacauskas, D., & Rajala, R. (2017). Information system users’ 
+creativity: A meta-analysis of the link between IT use and 
+creative performance. Information Technology and People , 
+30 (1), 81–116. https://doi.org/10.1108/ITP-04-2015-0090  
+Paek, S.-H., & Runco, M. A. ( 2018 ). A latent profile analysis of 
+the criterion-related validity of a divergent thinking test. 
+Creativity Research Journal , 30 (2), 212–223. https://doi.org/ 
+10.1080/10400419.2018.1446751  
+Peterson, R. A. ( 2001 ). On the use of college students in social 
+science research: Insights from a second-order 
+meta-analysis. Journal of Consumer Research , 28 (3), 
+450–461. https://doi.org/10.1086/323732  
+*Pidgeon, L. M., Grealy, M., Duffy, A. H., Hay, L., 
+McTeague, C., Vuletic, T., & Gilbert, S. J. (2016). 
+Functional neuroimaging of visual creativity: A systematic 
+review and meta-analysis. Brain and Behavior , 6 (10), 
+e00540. https://doi.org/10.1002/brb3.540  
+CREATIVITY RESEARCH JOURNAL
+ 11
+
+--- PAGE 13 ---
+*Pinheiro, I. R., & Cruz, R. M. (2014). Mapping creativity: 
+Creativity measurements network analysis. Creativity 
+Research Journal , 26 (3), 263–275. https://doi.org/10.1080/ 
+10400419.2014.929404  
+Pustejovsky, J. E., & Tipton, E. ( 2017 ). Small-sample methods 
+for cluster-robust variance estimation and hypothesis test -
+ing in fixed effects models. Journal of Business and 
+Economic Statistics , 36 (4), 672–683. https://doi.org/10. 
+1080/07350015.2016.1247004  
+*Ramdani, D., & Susilo, H. (2022). The effectiveness of colla -
+borative learning on critical thinking, creative thinking, 
+and metacognitive skill ability: Meta-analysis on biological 
+learning. European Journal of Educational Research , 11 (3), 
+1607–1628. https://doi.org/10.12973/eu-jer.11.3.1607  
+Rhodes, C. ( 1997 ). Growth from deficiency creativity to being 
+creativity. In M. A. Runco & R. Richards (Eds.), Eminent 
+creativity, everyday creativity, and health (pp. 247–263). Ablex.
+Roberts, A. M., Sternberg, R. J., Runco, M. A., Acar, S., 
+Ward, T. B., Kolomyts, Y., & Kaufman, J. C. ( 2021 ). 
+Creativity and cognition, divergent thinking, and intelli -
+gence. In J. C. Kaufman & R. J. Sternberg (Eds.), Creativity: 
+An introduction (pp. 102–127). Cambridge University Press.
+*Rose, L. H., & Lin, H. T. (1984). A meta-analysis of long-term 
+creativity training programs. Journal of Creative Behavior , 
+18 (1), 11–22. https://doi.org/10.1002/j.2162-6057.1984. 
+tb00985.x  
+Rudowicz, E. ( 2003 ). Creativity and culture: A two way 
+interaction. Scandinavian Journal of Educational Research , 
+47 (3), 273–290. https://doi.org/10.1080/00313830308602  
+Runco, M. A. ( 2024 ). Assessment of creative potential: Measures, 
+methods, and theories. In M. A. Runco & S. Acar (Eds.), 
+Handbook of creativity assessment (pp. 40–63). Elgar.
+Runco, M. A., & Chand, I. ( 1995 ). Cognition and creativity. 
+Educational Psychology Review , 7 , 243–267.
+Runco, M. A., Park, H., & Acar, S. ( 2020 ). Attitudes towards 
+creativity, creative people, and innovation expressed in TV 
+commercials: Evidence for a creative zeitgeist. The 
+International Journal of Creativity & Problem Solving , 30 
+(1), 31–44.
+Runco, M. A., & Richards, R. (Eds.). ( 1997 ). Eminent creativ -
+ity, everyday creativity, and health . Ablex.
+Rupinski, M. T., & Dunlap, W. P. ( 1996 ). Approximating 
+Pearson product-moment correlations from Kendall’s tau 
+and Spearman’s rho. Educational and Psychological 
+Measurement , 56 (3), 419–429. https://doi.org/10.1177/ 
+0013164496056003004  
+*Said-Metwaly, S., Fernández-Castilla, B., Kyndt, E., & Van 
+den Noortgate, W. (2018). The factor structure of the 
+figural Torrance tests of creative thinking: A 
+meta-confirmatory factor analysis. Creativity Research 
+Journal , 30 (4), 352–360. https://doi.org/10.1080/10400419. 
+2018.1530534  
+*Said-Metwaly, S., Taylor, C. L., Camarda, A., & Barbot, B. 
+(2022). Divergent thinking and creative achievement-how 
+strong is the link? An updated meta-analysis. Psychology of 
+Aesthetics, Creativity, and the Arts , 18 (5), 869–881. https:// 
+doi.org/10.1037/aca0000507  
+Sala, G., Deniz Aksayli, N., Semir Tatlidil, K., Tatsumi, T., 
+Gondo, Y., & Gobet, F. ( 2019 ). Near and far transfer in 
+cognitive training: A second-order meta-analysis. Collabra 
+Psychology , 5 (1), 18. https://doi.org/10.1525/collabra.203  
+*Sarooghi, H., Libaers, D., & Burkemper, A. (2015). 
+Examining the relationship between creativity and innova -
+tion: A meta-analysis of organizational, cultural, and envir -
+onmental factors. Journal of Business Venturing , 30 (5), 
+714–731. https://doi.org/10.1016/j.jbusvent.2014.12.003  
+Schmidt, F. L., & Oh, I.-S. ( 2013 ). Methods for second order 
+meta-analysis and illustrative applications. Organizational 
+Behavior and Human Decision Processes , 121 (2), 204–218.  
+https://doi.org/10.1016/j.obhdp.2013.03.002  
+*Schutte, N. S., & Malouff, J. M. (2020). A meta-analysis of the 
+relationship between curiosity and creativity. Journal of 
+Creative Behavior , 54 (4), 940–947. https://doi.org/10.1002/ 
+jocb.421  
+*Scott, G., Leritz, L. E., & Mumford, M. D. (2004). The effec -
+tiveness of creativity training: A quantitative review. 
+Creativity Research Journal , 16 (4), 361–388. https://doi. 
+org/10.1080/10400410409534549  
+*Sen, S. (2022). A reliability generalization meta-analysis of 
+Runco ideational behavior scale. Creativity Research 
+Journal , 34 (2), 178–194. https://doi.org/10.1080/10400419. 
+2021.1960719  
+Shapiro, R. J. ( 1970 ). The criterion problem. In P. E. Vernon 
+(Ed.), Creativity (pp. 257–269). Penguin.
+Shea, B. J., Reeves, B. C., Wells, G., Thuku, M., Hamel, C., 
+Moran, J., Moher, D., Tugwell, P., Welch, V., Kristjansson, 
+E., & Henry, D. A. ( 2017 ). AMSTAR 2: A critical appraisal 
+tool for systematic reviews that include randomised or non- 
+randomised studies of healthcare interventions, or both. 
+BMJ , 358 , j4008. https://doi.org/10.1136/bmj.j4008 
+*Shen, W., Yuan, Y., Liu, C., Zhang, X., Luo, J., & Gong, Z. 
+(2016). Is creative insight task-specific? A coordinate-based 
+meta-analysis of neuroimaging studies on insightful pro -
+blem solving. International Journal of Psychophysiology , 
+110 , 81–90. https://doi.org/10.1016/j.ijpsycho.2016.10.001  
+*Sio, U. N., & Ormerod, T. C. (2009). Does incubation 
+enhance problem solving? A meta-analytic review. 
+Psychological Bulletin , 135 (1), 94–120. https://doi.org/10. 
+1037/a0014212  
+Sterne, J. A. C., & Egger, M. ( 2006 ). Regression methods to 
+detect publication and other bias in meta-analysis. In 
+H. R. Rothstein, A. J. Sutton, & M. Borenstein (Eds.), 
+Publication bias in meta-analysis: Prevention, assessment 
+and adjustments (pp. 99–110). John Wiley & Sons. https:// 
+doi.org/10.1002/0470870168.ch6  
+*Suganda, E., Latifah, S., Sari, P. M., Ichsan, H., 
+Rahmayanti, I. Z., & Rahman, M. M. (2021). Steam and 
+environment on students’ creative-thinking skills: A meta- 
+analysis study. Journal of Physics: Conference Series , 1796 
+(1), 012101. https://doi.org/10.1088/1742-6596/1796/1/ 
+012101  
+*Susilowati, N. E., Muslim, M., Efendi, R., & Samsudin, A. 
+(2022). What is the most impressive treatment to foster 
+students’ creative thinking skills? A meta-analysis and bib -
+liometric review. Tadris: Jurnal Keguruan dan Ilmu 
+Tarbiyah , 7 (2), 201–219. https://doi.org/10.24042/tadris. 
+v7i2.12690  
+Tamim, R. M., Bernard, R. M., Borokhovski, E., Abrami, P. C., 
+& Schmid, R. F. ( 2011 ). What forty years of research says 
+about the impact of technology on learning: A 
+second-order meta-analysis and validation study. Review 
+of Educational Research , 81 (1), 4–28. https://doi.org/10. 
+3102/0034654310393361  
+12
+ M. A. RUNCO ET AL.
+
+--- PAGE 14 ---
+Tipton, E., & Pustejovsky, J. E. ( 2015 ). Small-sample adjust -
+ments for tests of moderators and model fit using robust 
+variance estimation in meta-regression. Journal of 
+Educational and Behavioral Statistics , 40 (6), 604–634.  
+https://doi.org/10.3102/1076998615606099  
+Tipton, E., & Pustejovsky, J. E. ( 2022 ). Meta-analysis with 
+robust variance estimation: Expanding the range of work -
+ing models. Prevention Science , 23 (3), 425–438. https://doi. 
+org/10.1007/s11121-021-01246-3  
+*Tsai, K. C. (2013). A review of the effectiveness of creative 
+training on adult learners. Journal of Social Science Studies , 
+1 (1), 17. https://doi.org/10.5296/jsss.v1i1.4329  
+Vevea, J. L., & Hedges, L. V. ( 1995 ). A general linear model for 
+estimating effect size in the presence of publication bias. 
+Psychometrika , 60 (3), 419–435. https://doi.org/10.1007/ 
+BF02294384  
+Viechtbauer, W. ( 2010 ). Conducting meta-analyses in R with 
+the metafor package. Journal of Statistical Software , 36 (3), 
+1–48. https://doi.org/10.18637/jss.v036.i03  
+*Weiss, S., & Steger, D. Ulrich Schroeders 2 and Oliver 
+Wilhelm (2021). A reappraisal of the threshold hypothesis 
+of creativity and intelligence. Journal of Intelligence , 9 , 
+1–20. https://doi.org/10.3390/jintelligence8040038  
+*Wu, X., Yang, W., Tong, D., Sun, J., Chen, Q., Wei, D., 
+Zhang, Q., Zhang, M., & Qiu, J. (2015). A meta-analysis 
+of neuroimaging studies on divergent thinking using 
+activation likelihood estimation. Human Brain Mapping , 
+36 (7), 2703–2718. https://doi.org/10.1002/hbm.22801  
+*Yasin, R. M., & Yunus, N. S. R. (2014). A meta-analysis study 
+on the effectiveness of creativity approaches in technology 
+and engineering education. Asian Social Science , 10 (3), 
+242–252. https://doi.org/10.5539/ass.v10n3p242  
+*Yodchai, N., Ly, P. T. M., & Tran, L. T. T. (2022). Co-creating 
+creative self-efficacy to build creative performance and 
+innovation capability for business success: A 
+meta-analysis. Creativity Studies , 15 (1), 74–88. https://doi. 
+org/10.3846/cs.2022.13852  
+*Yörük, S., & Sen, S. (2022). A reliability generalization 
+meta-analysis of the creative achievement questionnaire. 
+Creativity Research Journal , 35 (4), 1–16. https://doi.org/ 
+10.1080/10400419.2022.2148073  
+*Yunita, Y., Juandi, D., Tamur, M., Adem, A. M. G., & 
+Pereira, J. (2020). A meta-analysis of the effects of problem- 
+based learning on students’ creative thinking in mathe -
+matics. Beta: Jurnal Tadris Matematika , 13 (2), 104–116.  
+https://doi.org/10.20414/betajtm.v13i2.380  
+Zeng, L., Proctor, R. W., & Salvendy, G. ( 2011 ). Can tradi -
+tional divergent thinking tests be trusted in measuring and 
+predicting real-world creativity ? Creativity Research 
+Journal , 23 (1), 24–37. https://doi.org/10.1080/10400419. 
+2011.545713
+CREATIVITY RESEARCH JOURNAL
+ 13
+
