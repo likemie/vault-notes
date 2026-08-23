@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "report"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Practical Inquiry in Science Education]]"
   - "[[Citizen Science]]"
   - "[[Reliability]]"
+  - "[[Research Scope]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -55,7 +56,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Research Excellence Framework]]"
-  - "[[Public Attitudes to Science Survey 2025]]"
+  - "[[Public Attitudes to Science]]"
   - "[[Beyond 2000 Report]]"
   - "[[Twenty First Century Science]]"
   - "[[UK Science Education Tracker]]"
@@ -80,7 +81,7 @@ updated: 2026-08-23
 > - **领导架构** 报告由[[Walter Bodmer|瓦尔特·博德默尔]]（Walter Bodmer）撰写前言回顾自 1985 年公众理解科学（Public Understanding of Science, PUS）报告以来的 40 年演进，由天体物理学家[[Carlos Frenk|卡洛斯·弗伦克]]（Carlos Frenk）与物理学家[[Sheila Rowan|希拉·罗文]]（Sheila Rowan）共同担任指导委员会联席主席主持全书研制。
 > - **论证类型** 宏观政策评估与国家战略研究，结合全国民意调查、科研人员[[Questionnaire|问卷]]、纵向监测数据与跨领域[[Case Study|案例研究]]。
 > - **处理粒度** `chapter-arguments`。本篇为全报告总览页，提炼导论、宏观背景、全局方法与跨章综合，各章论证细节由独立章节 Argument 承载。
-> - **材料边界** 整合范围覆盖报告前言、序言、导论、执行摘要（pp. 1–15）及已处理的第一章（教育，pp. 29–40）。
+> - **材料边界** 覆盖报告前言、序言、导论、执行摘要（pp. 1–15）及第一章（教育，pp. 29–40）与第二章（非正式参与，pp. 41–54）。
 
 ---
 
@@ -143,7 +144,7 @@ updated: 2026-08-23
 
 > [!argument-steps] 核心论证逻辑步骤
 > - **1. 历史演进与现实挑战** 40 年来全球科研论文出版量从每年 50 万篇飙升至 330 万篇，互联网与 AI 彻底重塑信息环境，气候危机与公共卫生事件加剧了公众对科学证据与不确定性理解的需求。（pp. 5–7, 11–13）
-> - **2. 公众信任与参与诉求** [[Public Attitudes to Science Survey 2025|PAS 2025]] 调查显示公众对大学科学家信任度高达 87%，但五分之三的公众认为获取科学信息不足并渴望更多双向[[Dialogue in Education|对话]]，同时对科学机会的公平性深感担忧。（pp. 9, 12）
+> - **2. 公众信任与参与诉求** [[Public Attitudes to Science|PAS 2025]] 调查显示公众对大学科学家信任度高达 87%，但五分之三的公众认为获取科学信息不足并渴望更多双向[[Dialogue in Education|对话]]，同时对科学机会的公平性深感担忧。（pp. 9, 12）
 > - **3. 科学家参与意愿与体制困境** 科研人员参与科普意愿显著提升，但在高校考评、经费与时间配置中屡遭边缘化，缺乏职业认可与必要防护。（pp. 10, 14）
 > - **4. 六大领域系统行动** 从中小学全员科学教育、非正式科技场馆更新、媒体反虚假信息生态、产业与第三部门合作、政策咨询独立性到学术界评价改革全面发力。（pp. 14–15）
 
@@ -185,7 +186,7 @@ updated: 2026-08-23
 > [!finding-cards] 综合发现
 > - **公众高度信任但渴求更多对话** 87% 的受访公众信任大学科学家，60% 认为获知的科学信息不足，期望参与科技决策双向讨论。（p. 9, 12）
 > - **科学参与是防范虚假信息的免疫屏障** 培养公众理解科学探究过程、数据不确定性与证据[[Reliability|可靠性]]，是数字时代抵御虚假信息与意识形态攻击的根本防御。（pp. 13, 15）
-> - **科研人员意愿与高校考评脱节** 广大研究者具备强烈的参与意愿，但缺乏考评奖励、培训机会与工作量保护。（pp. 10, 14）
+> - **科研人员意愿与高校考评脱节** 大学与科研机构学者具备强烈的公共参与意愿，但缺乏考评奖励、培训机会与工作量保护。（pp. 10, 14）
 
 > [!stat-cards]- 核心数据
 > - **330 万篇** 2023 年全球科学论文出版量，较 1981 年的 50 万篇呈爆炸式增长。（p. 6）
@@ -197,7 +198,7 @@ updated: 2026-08-23
 ## 关键引用
 
 > [!citation-card]- 科学属于全人类
-> 探索关于我们世界的知识——科学事业的本质——处于人类文明的核心。科学绝非少数经认证科学家的专属领地；它属于全人类。接触科学原理、事实及其推论，应当向所有人开放。（p. 5）
+> 探索世界的知识作为科学事业的本质，处于人类文明的核心。科学绝非少数经认证科学家的专属领地；它属于全人类。接触科学原理、事实及其推论，应当向所有人开放。（p. 5）
 >
 > *The pursuit of knowledge about our world – the essence of the scientific endeavour – lies at the very heart of human civilisation. Science is not the preserve of a small group of accredited scientists; it belongs to all of humanity. Access to scientific principles and facts, and their implications, should be available to everyone.*
 
@@ -206,7 +207,7 @@ updated: 2026-08-23
 ## 自述局限与使用边界
 
 > [!book-limits] 自述局限与使用边界
-> - **作者自述局限** 科学与社会的互动涵盖极广，本报告虽全面审视核心领域，但未能涵盖科技与社会互动的全部细分场景。（p. 8）
+> - **[[Research Scope|研究范围]]局限** 科学与社会的互动涵盖极广，报告全面审视核心领域，但未能涵盖科技与社会互动的全部细分场景。（p. 8）
 > - **材料边界** [[Questionnaire|问卷调查]]与追踪数据主要采集自英国本土（英格兰、苏格兰、威尔士及北爱尔兰），涉及政策工具与课程结构时须注意分权体制的本土特征。
 > - **引用提醒** 引用具体领域的实证数据（如中小学实验课时变化、科研人员考评机制）时，应优先回溯至对应章节 Argument。
 

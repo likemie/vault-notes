@@ -49,7 +49,7 @@ updated: 2026-08-23
 ## 核心行动与政策倡导
 
 > [!claim] 核心行业倡导与项目
-> ASDC 致力于打破非正式科学部门在政府部门划分中“边缘化”的困境，推动跨界政策认可与长期资金保障。
+> ASDC 致力于打破非正式科学部门在政府部门划分中边缘化的困境，推动跨界政策认可与长期资金保障。
 
 > [!policy-design]- 核心战略倡议
 > - **Science Centres for Our Future（开放信倡议）** 在后疫情时代联合全英场馆向财政部和政府部门呼吁建立长期战略稳定基金，避免场馆因基础设施维护与能源成本飙升而倒闭。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 48)]]

@@ -51,7 +51,7 @@ related_facts:
   - "[[Big Butterfly Count]]"
   - "[[The Perception Census]]"
   - "[[OECD]]"
-  - "[[Public Attitudes to Science Survey 2025]]"
+  - "[[Public Attitudes to Science]]"
   - "[[UK Science Education Tracker]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
@@ -138,7 +138,7 @@ updated: 2026-08-23
 > [[Scientific Literacy|科学素养]]的获取并非在义务教育阶段终结，[[Informal Science Learning|非正式科学参与]]网络通过提供全生命周期的多感官探究与双向[[Dialogue in Education|对话]]，持续重塑个体的科学认同与社会资本。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b)]]
-> **非正式参与的社会基础设施定位与全周期累积机制** 英国皇家学会论证指出，科学探索中心、博物馆、科学节与[[Citizen Science|公民科学]]不仅是学校教育的课外补充，更是维系现代社会健康运行的核心社会与文化基础设施；全英代表性调查（[[Public Attitudes to Science Survey 2025|PAS 2025]]）显示 62% 的成年公众渴求更多科学信息，非正式科学遭遇伴随正规教育所产生的[[Science Capital|科学资本]]重塑具有终身累积性，亟需国家建立长期队列追踪予以系统实证。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, pp. 42, 47, 50–52)]]
+> **非正式参与的社会基础设施定位与全周期累积机制** 科学探索中心、博物馆、科学节与[[Citizen Science|公民科学]]不仅是学校教育的课外补充，更是维系现代社会健康运行的核心社会与文化基础设施，更是维系现代社会健康运行的核心社会与文化基础设施；全英代表性调查（PAS 2025）显示 62% 的成年公众渴求更多科学信息，非正式科学遭遇伴随正规教育所产生的[[Science Capital|科学资本]]重塑具有终身累积性，亟需国家建立长期队列追踪予以系统实证。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, pp. 42, 47, 50–52)]]
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]]
 > **全贯通素养基础与成年期技能跨界升级** 强调终身学习能力的形成依赖于基础教育阶段扎实宽广的通识素养，过早专门化分科会剥夺学生日后跨界转型所需的智力灵活性；必须通过宽口径大纲与贯穿性交叉素养（[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养），为未来公民在整个成年期持续学习与职业重塑奠定基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 31–34)]]
@@ -183,7 +183,7 @@ updated: 2026-08-23
 >
 > | 监测体系 / 研究 | 样本与情境 | 研究设计 | 核心[[Variable\|变量]]与指标 | 关键实证结果 | 政策与理论启示 |
 > |---|---|---|---|---|---|
-> | **[[Public Attitudes to Science Survey 2025\|PAS 2025 调查]]** | 英国代表性成年公众样本 | 全国抽样[[Questionnaire\|问卷调查]] | 信息渴求度、决策参与感、场馆访问率 | **62%** 渴求更多科学信息；仅 **12%** 认为公众充分参与科技决策；动植物园年访问率 42%、科技馆 33%、科学探索中心 24% | 揭示出公众终身参与意愿高涨与制度化参与渠道匮乏的结构性落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026b, p. 47)]] |
+> | **[[Public Attitudes to Science\|PAS 2025 调查]]** | 英国代表性成年公众样本 | 全国抽样[[Questionnaire\|问卷调查]] | 信息渴求度、决策参与感、场馆访问率 | **62%** 渴求更多科学信息；仅 **12%** 认为公众充分参与科技决策；动植物园年访问率 42%、科技馆 33%、科学探索中心 24% | 揭示出公众终身参与意愿高涨与制度化参与渠道匮乏的结构性落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026b, p. 47)]] |
 > | **[[UK Science Education Tracker\|SET 2016–2023 追踪]]** | 英格兰 14–16 岁青少年样本 | 7 年三期纵向追踪 | 课堂动手实验参与频率 | 双周动手实验率自 **44%** 骤降至 **26%** | 早期实证探究萎缩将削弱青少年终身科学素养与探究信心的养成。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 33)]] |
 > | **PwC 绿色技能缺口模型** | 英国劳动力市场预测 | 计量经济劳动力模型 | 绿色转型岗位技能缺口 | 英国低碳转型面临约 **20 万**名绿色技能专业人才缺口 | 证实成年劳动力终身技能重构（可持续素养）是实现国家战略转型的物质前提。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 32)]] |
 > | **ASPIRES 纵向[[Cohort Study\|队列研究]]** | 英国 10–19+ 岁青少年队列 | 多节点混合研究设计 | [[Science Capital\|科学资本]]、职业抱负与终身发展 | 科学资本积累对个体全生命周期职业选择与科学认同产生持久深远影响 | 实证支持将终身科学参与作为长效社会机制，而非短期功利培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026b, p. 52)]] |

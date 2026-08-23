@@ -16326,12 +16326,14 @@
     ]
   },
   {
-    "title": "Public Attitudes to Science Survey 2025",
+    "title": "Public Attitudes to Science",
     "type": "fact",
-    "path": "wiki/facts/uk/Public Attitudes to Science Survey 2025.md",
+    "path": "wiki/facts/uk/Public Attitudes to Science.md",
     "aliases": [
+      "PAS",
+      "Public Attitudes to Science Survey",
+      "英国公众对科学态度调查",
       "PAS 2025",
-      "2025年英国公众对科学的态度调查",
       "Public Attitudes to Science 2025"
     ]
   },
