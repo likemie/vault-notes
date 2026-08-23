@@ -37,7 +37,8 @@
               "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,8 +209,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "ffc1a70d9b63a440",
   "lastOpenFiles": [
+    "wiki/facts/uk/Public Attitudes to Science Survey 2025.md",
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
+    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch01.md",
+    "wiki/concepts/educational-philosophy/Lifelong Learning.md",
+    "wiki/concepts/educational-policy-reform/Scientific Attitude.md",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch04.md",
+    "wiki/concepts/research-methodology/Citizen Science.md",
     "tmp/pdfs/ch4_review/contact_86_97.jpg",
     "tmp/pdfs/ch4_review/contact_74_85.jpg",
     "tmp/pdfs/ch4_review/contact_61_73.jpg",
@@ -220,21 +228,16 @@
     "tmp/pdfs/ch4_review/page-111.jpg",
     "tmp/pdfs/ch4_review/page-110.jpg",
     "tmp/pdfs/ch4_review/page-109.jpg",
-    "tmp/pdfs/ch4_review/page-108.jpg",
     "tmp/pdfs/ch4_review",
     "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch03.md",
-    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
     "wiki/concepts/higher-education/International Qualification Recognition.md",
     "wiki/facts/global/International Baccalaureate Six-Year Experiment.md",
-    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch04.md",
-    "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch01.md",
     "wiki/concepts/educational-philosophy/Whole Person Education.md",
     "wiki/concepts/educational-philosophy/General Education.md",
     "wiki/facts/uk/The Perception Census.md",
     "wiki/facts/uk/Dippy on Tour.md",
     "wiki/facts/uk/Big Butterfly Count.md",
     "wiki/facts/uk/Association for Science and Discovery Centres.md",
-    "wiki/concepts/research-methodology/Citizen Science.md",
     "wiki/concepts/instruction-pedagogy/Informal Science Learning.md",
     "wiki/facts/uk/Gatsby Benchmarks.md",
     "wiki/concepts/teacher-education/Teacher Professional Agency.md",
@@ -245,8 +248,6 @@
     "wiki/persons/us/William Foote Whyte.md",
     "wiki/concepts/instruction-pedagogy/Assessment Backwash.md",
     "wiki/facts/uk/Science Learning Centres Network.md",
-    "wiki/facts/estonia/Estonian STEM Education Model.md",
-    "wiki/facts/uk/Institute for Research in Schools.md",
     "scripts/tests/__pycache__/test_wiki_linker.cpython-313.pyc",
     "scripts/tests/__pycache__",
     "scripts/tests/test_wiki_linker.py",

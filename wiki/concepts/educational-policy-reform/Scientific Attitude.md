@@ -5,44 +5,67 @@ aliases:
   - kexue taidu
   - scientific spirit in education
   - 教育上的科学态度
-summary: "1920年代中国新教育运动后期由赵乃传于《新教育评论》系统化的教育改革原则，包含客观事实、实验渐进与精细研究三要素，标志着范式从激进民主向适应国情与国家建设的转移。"
+  - Scientific Disposition
+summary: "指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 33
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - region/china
+  - region/uk
   - theme/educational-reform
   - theme/progressive-education
+  - theme/public-engagement
+  - theme/scientific-literacy
   - period/republican-china
-  - theme/knowledge-transfer
   - educational-policy-reform
 related_concepts:
-  - "[[Paradigm]]"
-  - "[[Pragmatism in China]]"
+  - "[[Epistemology]]"
+  - "[[Rote Learning]]"
+  - "[[Critical Thinking]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Scientism]]"
   - "[[Scientific Method]]"
-  - "[[Pragmatic Paradigm]]"
+  - "[[Reliability]]"
+  - "[[Champ]]"
+  - "[[Falsification]]"
+  - "[[Scientific Literacy]]"
+  - "[[Paradigm]]"
+  - "[[Deficit Model of Science Communication]]"
+  - "[[Praxis]]"
   - "[[Document]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Quality Education]]"
+  - "[[Citizen Science]]"
+  - "[[Public Engagement with Science]]"
+  - "[[Reflective Thinking]]"
+  - "[[Epoché]]"
+  - "[[Dialogue in Education]]"
+  - "[[Variable]]"
+  - "[[Pragmatism in China]]"
 related_theories: []
 related_methods: []
+related_instruments: []
 related_persons:
-  - "[[John Dewey]]"
   - "[[Tao Xingzhi]]"
+  - "[[John Dewey]]"
 related_facts:
   - "[[New Education Movement]]"
-  - "[[May Fourth Movement]]"
+  - "[[Public Attitudes to Science Survey 2025]]"
+  - "[[PISA]]"
+  - "[[Bodmer Report 1985]]"
 related_arguments:
   - "[[Argument_Zhou_2024_CE]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 confidence: high
 status: active
 created: 2026-05-26
-updated: '2026-07-24'
+updated: 2026-08-23
 ---
 
 # Scientific Attitude
@@ -52,54 +75,40 @@ updated: '2026-07-24'
 ## 定义
 
 > [!def] 核心定义
-> “科学态度”（Scientific Attitude）专指 1920 年代中国[[New Education Movement|新教育运动]]后期——以《新教育评论》（1925–1928）取代《新教育》（1919–1925）为制度标志——确立的核心教育改革原则。它由年轻教育家赵乃传（Zhao Naichuan, 1897–1986）在《新教育评论》创刊号中系统化，以“客观事实、实验渐进精神、精细研究”三要素，取代了此前新教育运动以“民主”与“追赶世界”为核心原则的变革[[Paradigm|范式]]。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.619–620]]）
+> 科学态度（Scientific Attitude / Disposition）指个体与社会公众在认识世界、评估证据与参与决策过程中所秉持的理性倾向、认知心智与价值规范。在教育[[Epistemology|认识论]]层面，它要求尊重客观实证、批判性审视多源证据、理解科学知识的暂定性与不确定性；在教育改革与政策史层面，它是 1920 年代中国[[New Education Movement|新教育运动]]以客观事实、实验渐进与精细研究取代激进空想的纲领原则；在当代科技治理层面，它表现为公众对科学的信任、信息渴求以及参与重大科技决策的民主诉求。[[Argument_Zhou_2024_CE|(Zhou & Westberg, 2024, pp. 619–620)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b, p. 47)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向教育改革中以现实调研、循序渐进试验与精细数据/证据替代主观臆断与激进空想的方法论立场。
-> - **用途** 解释民国教育改革者在激进政治失败与军阀混战危局中，如何从“激进民主改造”退缩重构为“适应国情、国家建设与科学改良”。
-> - **边界** 异于西方[[John Dewey|杜威]]在民主社会中作为民主巩固手段的[[Pragmatism in China|实验主义]]；亦异于将科学绝对化的[[Scientism|科学主义]]。
-
-> [!citation-card]- 关键表述：科学态度作为新教育的显著特征
-> 赵乃传将科学态度定义为新教育区别于旧教育的“显著特征和优点”——缺乏这一态度的旧教育“被主观性所主导、不适应实际条件、因而阻碍进步”。（Zhao 1925, pp.7–13，引自 [[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.620]]）
+> - **含义** 科学态度不仅指向个体心理层面的探究好奇心与证据怀疑论，更是联结科学共同体与大众民主协商的社会文化规范。
+> - **用途** 在科学教育中用于打破[[Rote Learning|死记硬背]]、培养直面复杂争议的[[Critical Thinking|批判性思维]]；在历史社会学中用于解释改革者如何将[[Pragmatic Paradigm|实用主义]][[Transfer Translation Transformation|转译]]为适应国情的改良工具；在科技政策中用于测量国家科学文化生态与公众信任晴雨表。
+> - **边界** 科学态度坚守对证据的开放反思与自我修正，严格区别于将科学教条化为绝对终极真理的[[Scientism|科学主义]]（Scientism）。
 
 > [!boundary]- 概念边界
-> - 不等于 [[Scientism]]（科学主义） — 科学主义将[[Scientific Method|科学方法]]泛化为唯一的形而上学真理，而科学态度在民国教育中主要表现为实事求是、调研证据与渐进改良的方法论取向。
-> - 不等于西方原典中的 实验主义 — 杜威在美原典将实验主义视为促进民主参与的手段，而民国“科学态度”剥离了民主敏感性，折算为适应国情的技术工具。
+> - 不等于 [[Scientism]]（科学主义）：科学主义将[[Scientific Method|科学方法]]泛化为衡量一切人类经验的绝对真理，排斥人文艺术与价值反思；科学态度则将科学视为动态、开放、具备自我修正能力的探究过程。
+> - 不等于传统科技事实回忆：它关注的是认知倾向、证据评估与不确定性接纳，而非死记硬背标准公式。
 
 ---
 
-## 概念辨析
+## 核心要素与理论维度
 
-> [!contrast-table] 概念辨析
-> | 维度 | [[Scientific Attitude\|科学态度 (1920s)]] | 杜威[[Pragmatic Paradigm\|实验主义 (原典)]] | 五四“民主”教育原则 (1919–1923) |
-> |------|-----------------------------------------|------------------------------------------|---------------------------------|
-> | **社会语境** | 军阀混战、民主未建成、救亡危机 | 已建成民主制度的西方社会 | [[May Fourth Movement\|五四运动]]激进反封建与追赶世界潮流 |
-> | **核心定位** | 适应国情、建立统一民族国家的渐进工具 | 巩固民主生活与探究探知的方法 | 既是教育终极目标，也是教育过程规范 |
-> | **变革路径** | 一步一个脚印、调研反馈、精细改良 | 试错探究、经验重构 | 彻底废除旧学制、推倒重来的激进变革 |
-> | **民主关系** | 将民主从即时议程推迟为远期理想 | 民主是[[Pragmatism in China\|实验主义]]不可分割的前提与目的 | 要求立即兑现儿童中心与民主自治 |
+> [!dimension] 科学态度的三重核心维度
+> - **1. [[Epistemology|认识论]]与探究心智维度（Epistemic Disposition & Inquiry Mindset）**
+>   - **实证证据优先** 坚守基于实证数据（Empirical Evidence）与严格检验推导结论，反对无证据的教条臆断。
+>   - **接纳科学不确定性（Embracing Uncertainty）** 深刻理解科学知识的暂定性（Provisional Nature），将假说修正与同行评议视为科学演进的内在动力。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026a, p. 30]]）
+>   - **知觉多样性与理性质疑** 保持开放包容心智，主动识别算法偏见与统计操纵，审慎评估复杂现实情境。
+> - **2. 教育改革与行动方法论维度（Methodological Reform in Education）**
+>   - **客观事实（Objective Facts）** 以社会实际调查为起点，拒绝对外国模式的盲目崇拜与生搬硬套。
+>   - **实验与渐进精神（Experimental & Incremental Spirit）** 采取一步一个脚印的试错改良，通过渐进试点推进教育重组。
+>   - **精细研究（Sophisticated Research）** 构建诊断、治疗与监测三位一体的研究闭环，确保政策反馈[[Reliability|可靠性]]。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p. 620]]）
+> - **3. 公众信任与民主参与维度（Public Sentiment & Civic Deliberation）**
+>   - **宏观信任与信息渴求** 保持对前沿科学探索的高度兴趣与社会价值认同（如 [[Public Attitudes to Science Survey 2025|PAS 2025]] 中 87% 的科学家信任度与 62% 的信息渴求）。
+>   - **科技民主审议诉求** 超越被动科普接受，要求在涉及生物安全、人工智能与生态气候的重大科技决策中拥有实质性参与权。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026b, p. 47]]）
 
----
-
-## 核心要素
-
-> [!feature] 核心要素
-> - **基于客观事实（Objective Facts）** 以实际调查和证据为依据，反对主观臆断与教条移植，先了解实际国情再设计改革方案（Zhao 1925, 引自 [[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.620]]）。
-> - **采取实验和渐进精神（Experimental & Incremental Spirit）** 以试错改良为行动方式，明确针对 1919–1923 年间的激进倾向，强调教育重组“只能零碎地完成，一步一个脚印”（Dewey, 1916）。
-> - **开展精细研究（Sophisticated Research）** 克服此前教育讨论中的模糊与含混，以深细研究确保“客观事实”与“渐进行动”之间的反馈监测是可靠的。
-> - **“诊断—治疗—监测”方法论闭环** 客观事实构成诊断基础，实验渐进构成治疗方式，精细研究构成监测调整，形成完整的教育研究闭环。
-
-> [!logic-map]- 要素关系
-> ```mermaid
-> flowchart LR
->     A["诊断：基于客观事实"]
->     B["治疗：实验与渐进精神"]
->     C["监测：开展精细研究"]
->     D["科学态度闭环 Scientific Attitude"]
->     
->     A --> D
->     B --> D
->     C --> D
-> ```
+> [!contrast-table] 表：科学态度在不同历史语境与应用[[Champ|场域]]中的内涵对比
+> | 应用场域 / 语境 | 核心关注点 | 典型倡导者 / 监测工具 | 关键机制与功能 |
+> |---|---|---|---|
+> | **当代科学教育认识论** | 证据评估、[[Falsification\|可证伪性]]、理解科学不确定性 | 英国皇家学会 (2026a); [[PISA]] [[Scientific Literacy\|科学素养]]框架 | 破除[[Rote Learning\|死记硬背]]，培育公民面对健康与气候议题的理性决策能力 |
+> | **民国[[New Education Movement\|新教育运动]]后期** | 客观事实、实验渐进、精细研究与适应国情 | 赵乃传 (1925); [[Tao Xingzhi\|陶行知]]; 《新教育评论》 | 克服激进空想与教条移植，建立国家建设导向的渐进实验闭环 |
+> | **现代科技政策与公众参与** | 科学信任、信息需求、民主治理与协商参与 | [[Public Attitudes to Science Survey 2025\|PAS 2025 调查]]; [[Bodmer Report 1985\|Bodmer 报告]] | 诊断公众信息渴求与决策边缘化落差，推动从单向科普转向双向参与 |
 
 ---
 
@@ -110,54 +119,53 @@ updated: '2026-07-24'
 ### 命题一　“科学态度”构成了1920年代民国新教育运动从激进民主向适应国情与渐进实验的范式转向
 
 > [!concept-lens] [[Paradigm|范式]]转向与本土政治语境
-> 比较教育学者指出：1923年后的军阀混战与激进课改受挫，促使教育阵营从《新教育》的民主理想转向《新教育评论》的“科学态度”。
+> 比较教育研究揭示，1923 年后军阀混战危局与激进课改受挫，促使教育阵营从《新教育》的民主理想转向《新教育评论》的科学态度。
 
-> [!claim] [[Argument_Zhou_2024_CE|Zhou & Westberg (2024, pp.619–621)]]
-> **从《新教育》民主范式向《新教育评论》科学态度范式转型** 详细阐述1925年[[Tao Xingzhi|陶行知]]主持的《新教育评论》创刊号确立“科学态度”为新教育核心原则。改革者检讨了此前对“国际潮流”的盲目崇拜，教育目标从“追赶世界”转向“适应国情”与国家建设。
-
----
-
-### 命题二　赵乃传三要素确立了“诊断—治疗—监测”的科学教育改革方法论闭环
-
-> [!concept-lens] 科学态度的三大结构要素
-> 结合[[Document|文献]]厘清赵乃传对科学态度的三层递进定义及其对旧教育主观随意性的批判。
-
-> [!claim] [[Argument_Zhou_2024_CE|Zhou & Westberg (2024, p.620)]]
-> **基于客观事实、实验渐进与精细研究的三要素闭环** 总结赵乃传（1925）系统化的三大要素：以调研证据为诊断基础，以试错渐进为治疗手段，以深入测量与精细研究为反馈监测，奠定了民国科学教育学的方法论框架。
+> [!claim] [[Argument_Zhou_2024_CE|Zhou & Westberg (2024, pp. 619–621)]]
+> **从《新教育》民主范式向《新教育评论》科学态度范式转型** 详细阐述 1925 年[[Tao Xingzhi|陶行知]]主持的《新教育评论》创刊号确立科学态度为新教育核心原则。改革者深刻检讨了此前对国际潮流的盲目崇拜，教育目标从追赶世界转向适应国情与国家建设。
+>
+> 赵乃传（1925）将科学态度总结为基于客观事实、采取实验渐进精神与开展精细研究三大要素，以调研证据为诊断基础，以试错渐进为实施手段，以深入测量为监测反馈，奠定了民国科学教育学的方法论闭环。
 
 ---
 
-### 命题三　“科学态度”既是实用主义在华解耦转化的产物，又在当代形成了重塑的科学创新话语
+### 命题二　现代科学态度要求超越事实记忆并接纳科学知识的暂定性与不确定性
 
-> [!concept-lens] 跨国[[Transfer Translation Transformation|转译]]中的话语再剥离与政治重塑
-> 追溯“科学态度”如何作为话语资源在不同历史时期被赋予截然不同的内涵。
+> [!concept-lens] 科学本质与证据评估
+> 面对数字信息爆炸与伪科学泛滥，科学态度的核心不再是记忆孤立的科学定理，而是理解科学探索本身的实证逻辑。
 
-> [!claim] [[Argument_Zhou_2024_CE|Zhou & Westberg (2024, pp.621–622)]]
-> **民主前提剥离与[[Pragmatic Paradigm|实用主义]]的工具化折算** 揭示民国改革者将[[John Dewey|杜威]]重构为“科学态度与改良方法”的代言人，剥离了其政治民主内核，完成了实用主义在华的转译与转化折算。
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a, pp. 30–31)]]
+> **科学不确定性理解与证据质量批判审视** 强调科学知识生成是动态演进的实证探索过程，[[Scientific Literacy|科学素养]]的核心在于具备评估多源证据质量、识别数据偏差以及接纳科学知识暂定性（Provisional Nature）的态度倾向。缺乏对不确定性的理性认知，往往导致公众在面对动态修正的科学共识（如公共卫生危机中的指引调整）时陷入极端怀疑论或反智主义。
 
-> [!claim] [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, pp.86–87)]]
-> **建国后科学与创新话语的二次重塑** 追踪1980年代至今杜威被从“反科学”批判对象重塑为“创新科学与[[Quality Education|素质教育]]”旗手的话语变形，展示了“科学态度”在不同政治时期的可塑性。
+---
+
+### 命题三　公众对科学的高度信任与信息渴求呼唤从单向普及转向实质性科技民主审议
+
+> [!concept-lens] 科技治理中的公众参与态度
+> 民意调查揭示出公众对科学发展抱有高度正向态度，但制度化参与渠道的匮乏制约了科学与社会的良性协同。
+
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b, pp. 47–48)]]
+> **信息渴求高涨与决策边缘化的结构性矛盾** 依托 2025 年全英公众对科学态度调查（[[Public Attitudes to Science Survey 2025|PAS 2025]]）指出，87% 的受访公众高度信任高校科学家，62% 的公众明确表示渴望获取更多科学信息；然而仅有 12% 的受访者认为公众在科技重大决策中得到了充分参与。健康的科学态度不仅包括公众对科学知识的向往，更包括科学共同体对公众多元诉求与价值关切的主动倾听，必须彻底废弃[[Deficit Model of Science Communication|赤字模型]]，构建双向协商制度。
 
 ---
 
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> | 命题类型 | 核心指向 | 适用情境与[[Praxis\|实践]]机制 | 代表[[Document\|文献]] / 来源 |
 > |---|---|---|---|
-> | **范式转向与国情适应** | 揭示1923年后[[New Education Movement\|新教育运动]]从激进民主向科学态度的转型 | 中国教育思想史、范式转移 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024, pp.619–621)]] |
-> | **三要素闭环方法论** | 阐明客观事实、实验渐进与精细研究形成的闭环 | 教育政策与研究方法 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024, p.620)]]; 赵乃传 (1925) |
-> | **解耦转化与话语重塑** | 追踪科学态度从实用主义去政治化折算到当代创新符号的演变 | 比较教育与政治话语 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024, pp.621–622)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.86–87)]] |
+> | **范式转向与国情适应** | 揭示民国[[New Education Movement\|新教育运动]]从激进民主向科学态度的转型 | 比较教育史、教育范式演进 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] |
+> | **[[Epistemology\|认识论]]与不确定性接纳** | 强调掌握多源证据批判与科学暂定性认知的核心地位 | 科学课程改革、[[Citizen Science\|公民科学]]素养 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026a)]] |
+> | **公众民主审议与双向参与** | 诊断公众信息渴求与科技决策边缘化的深层矛盾 | 科技政策、[[Public Engagement with Science\|公众科学参与]]（PES） | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026b)]] |
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline] 概念演变
-> - **1919–1923 — 五四民主与追赶世界[[Paradigm|范式]]** [[New Education Movement|新教育运动]]以“民主”与“追赶世界”为核心原则，追求激进教育与政治重构。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.614–615]]）
-> - **1923–1925 — 现实困局与思想检讨** 军阀混战加剧，激进改革受挫，教育阵营从“追赶世界”检讨为“适应国情”（Gao 1923），[[Tao Xingzhi|陶行知]]思想转向国情优先。（pp.619–620）
-> - **1925–1928 — 科学态度范式确立** 赵乃传在《新教育评论》创刊号系统化“科学态度”三要素，取代民主成为主导原则。（p.620）
-> - **1980年代至今 — 科学创新与[[Quality Education|素质教育]]重构** [[John Dewey|杜威]]从“反科学”批判对象重塑为现代化、科学创新与[[Quality Education|素质教育]]符号。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, pp.86–87]]）
+> [!dev-timeline] 概念演变脉络
+> - **1910 年代 [[John Dewey|杜威]][[Reflective Thinking|反思性思维]]与探究态度奠基** 约翰·杜威（John Dewey）在《我们如何思维》（*How We Think*）中系统阐释探究态度（Scientific Attitude of Mind），强调[[Epoché|悬置]]判断、审慎求证与试错探究。
+> - **1925 年 民国新教育确立“科学态度”主导原则** 赵乃传在《新教育评论》系统化客观事实、实验渐进与精细研究三要素，取代民主原则成为中国[[New Education Movement|新教育运动]]主导纲领。[[Argument_Zhou_2024_CE|(Zhou & Westberg, 2024, p. 620)]]
+> - **1985 年 [[Bodmer Report 1985|博德默尔报告]]倡导公众理解科学** 英国皇家学会发布《公众理解科学》（Bodmer 报告），将培育公众对科学的积极态度与理解置于国家科学繁荣战略核心。
+> - **2020 年代中 科学不确定性理解与双向民主协商转向** 英国皇家学会（Royal Society, 2026）报告全面重构科学态度，强调在跨学科课程中接纳科学不确定性，并在全社会依托 PAS 调查与非正式参与平台实现科技决策的民主平权。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026b)]]
 
 ---
 
@@ -165,18 +173,40 @@ updated: '2026-07-24'
 
 > [!debates] 学术争议
 >
-> > [!axis] 渐进改良与现状妥协的张力
-> > 学者指出：科学态度以“适应国情”替代“追赶世界”缓解了脱离实际的问题，但在政治条件恶劣时，“渐进”容易退化为“不进”与对现状的过度妥协。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp.621–622]]）
-> >
-> > - **[[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]** 评估了这种折算在保存教育阵营力量与放弃政治变革之间的两难。
+> > [!axis] 渐进改良与政治妥协的张力
+> > 在恶劣政治社会条件下，强调科学态度与实验渐进是否会导致改革者过度妥协而放弃根本性变革？
+> > - **[[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]** 评估了民国改革者在保存教育专业力量与放弃激进政治变革之间的历史两难。
+>
+> > [!axis] 单向[[Deficit Model of Science Communication|赤字模型]] vs 双向民主参与
+> > 普及科学态度是自上而下消灭公众的科学无知，还是建立科学家与公众的平等[[Dialogue in Education|对话]]？
+> > - **传统赤字模型** 将公众视为缺乏科学知识的被动容器，认为普及知识即可自动消除反对声音。
+> > - **现代公众参与理论与皇家学会（2026b）** 强调科学态度是双向的，科学家同样需要倾听公众对伦理、生态与社会影响的关切。
 
 > [!warning] 适用局限
-> 科学态度在民国语境下剥离了民主政治内涵，若脱离其“适应国情”的历史背景，容易被误读为纯粹冷酷的技术主义或后来的[[Scientism|科学主义]]。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p.622]]）
+> 科学态度必须与具体的社会文化情境相结合。若将科学态度抽离民主监督与人文关怀，容易异化为冷酷的技术官僚主义或将所有社会争议简化为技术参数的[[Scientism|科学主义]]。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, p. 622]]）
+
+---
+
+## 实证数据
+
+> [!ref-table]- 科学态度与公众参与宏观民意实证数据
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 调查项目 / 来源 | 样本特征 | 核心[[Variable\|变量]]与测量维度 | 关键实证数据 | 政策含义与理论洞见 |
+> |---|---|---|---|---|
+> | **[[Public Attitudes to Science Survey 2025\|PAS 2025 全英调查]]** | 英国全国代表性成年样本 | 科学家信任度、科学价值认同、信息渴求度、科技决策参与感 | • **87%** 高度信任高校科学家<br>• **83%** 认为科学对社会作出巨大贡献<br>• **62%** 渴求更多科学信息<br>• 仅 **12%** 认为公众充分参与了科技决策 | 公众具备高度正向的科学态度与求知渴望，但面临严重的决策边缘化落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026b, p. 47)]] |
+> | **CaSE 探索十年追踪（2026）** | 英国公众代表性样本 | 科学在日常生活与经济中的重要性感知 | 超过 **70%** 公众认为研发与科学创新是国家长期繁荣的关键支柱 | 巩固了将科学参与确立为国家社会文化基础设施的民意基础。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 详细拆解民国[[New Education Movement|新教育运动]]后期[[Paradigm|范式]]从民主转向科学态度的历史过程与赵乃传三要素。
-> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪科学与[[John Dewey|杜威]]思想在建国后中国政治话语中的重塑历程。
+> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 系统考证 1920 年代民国[[New Education Movement|新教育运动]][[Paradigm|范式]]转向与赵乃传科学态度三要素。
+> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China|实用主义在中国]]现代政治话语中的[[Transfer Translation Transformation|转译]]演变。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 提出[[Scientific Literacy|科学素养]]本质在于掌握多源证据批判与科学不确定性理解。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b)]] — 依托 [[Public Attitudes to Science Survey 2025|PAS 2025]] 调查诊断公众科学态度、信息渴求与科技决策民主参与机制。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026c)]] — 报告总体论证科学与社会的双向塑造及公共科学文化生态建设。
+
+---
+

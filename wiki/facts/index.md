@@ -485,7 +485,7 @@ Total entries: **308**
 > - [[Institute for Effective Education]] — 英国约克大学相关独立慈善机构，通过学校支持、严格评价、Evidence in Brief和Evidence 4 Impact推动教育政策与实践中的证据使用。
 > - [[Institute for Research in Schools]] — 英国全国性科学教育慈善机构，搭建中学与顶尖高校及国际大科学工程的合作桥梁，使中学生直接使用真实科研数据和前沿课题开展长周期科学探究
 > - [[Ofsted]] — 英国教育标准办公室，负责英格兰学校检查与评级，其评级在教育政策辩论中常被当作研究证据使用并带有强烈道德判断色彩
-> - [[Public Attitudes to Science Survey 2025]] — 2025年由英国研究与创新署（UKRI）委托 Ipsos 与英国科学协会联合执行的全国代表性民意调查，系统评估英国公众对科学价值、科学家信任度、人工智能伦理及科学参与诉求的最新态度态势
+> - [[Public Attitudes to Science Survey 2025]] — 2025年由英国研究与创新署（UKRI）委托 Ipsos 与英国科学协会联合执行的全国代表性成年公民民意调查，系统评估英国公众对科学价值、科学家信任度、人工智能伦理及重大科技决策参与诉求的最新态势。
 > - [[Research Excellence Framework]] — 英国实施的全国性大学研究评估体系（前身为 RAE），直接决定 QR 研究拨款的分配，是高等教育准市场与新公共管理（NPM）审计文化中最成熟的制度形式，深刻驱动了英国大学的管理主义形变
 > - [[Rose Report]] — Jim Rose 领导的英国早期阅读教学独立审查，推广简单阅读观，直接导致全英强制合成语音教学
 > - [[Science Learning Centres Network]] — 由英国政府与 Wellcome Trust 于 21 世纪初联合投资 5100 万英镑设立的国家级科学教师专业发展网络，提供高质量学科专项持续专业发展（CPD），显著提升教师留任率与学科教学质量。

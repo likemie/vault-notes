@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Research Topic]]"
   - "[[Gamification]]"
+  - "[[Lifelong Learning]]"
   - "[[Document]]"
   - "[[Active Learning]]"
   - "[[General Education]]"
@@ -86,7 +87,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 status: draft
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-23
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26
 
@@ -294,7 +295,7 @@ Cabral（1987, p. 470）将角色扮演描述为一种已被广泛改造用于�
 > [!warning] [[Gamification|游戏化学习]]的衰退
 > 通过玩耍学习的观念往往与早期教育相关联，随着儿童在学制中前进并进入成年生活，想象和戏剧性游戏的机会逐渐减少。一种毫无根据的信念，即学业内容标准无法通过创造性和想象性活动达成，仍然存在，这导致游戏化学习方法几乎从教室里消失（Bergen, 2009）（p. 6）。
 
-以下是来自终身教育[[Document|文献]]的关于角色扮演使用价值的简要总结，涵盖十二项研究发现：
+以下是来自[[Lifelong Learning|终身教育]][[Document|文献]]的关于角色扮演使用价值的简要总结，涵盖十二项研究发现：
 
 > [!evidence-grid] 终身教育文献中的十二项发现
 > - **可迁移技能与内容知识** 角色扮演发展参与者的可迁移技能和内容知识（Cutler & Hay, 2000）
