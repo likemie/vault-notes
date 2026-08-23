@@ -24,13 +24,13 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
   - "[[Variable]]"
+  - "[[Creativity]]"
   - "[[External Validity]]"
   - "[[Knowledge Production]]"
   - "[[Visible Learning]]"
   - "[[Ecological Validity]]"
   - "[[Critical Thinking]]"
   - "[[Theory of Knowledge]]"
-  - "[[International Baccalaureate]]"
   - "[[Areas of Knowledge]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Effect Size]]"
@@ -89,7 +89,7 @@ updated: 2026-07-11
 
 > [!feature] 科学主义的核心特征
 > - **还原主义（Reductionism）** 将复杂现象简化为可测量的少数[[Variable|变量]]，忽视不可量化的维度（Hayek, 1942; Sergiovanni, 1989）
-> - **过度重视经验数据** 将实证数据视为唯一或最高形式的知识，排斥诠释学、审美、批判、道德和创造性等其他[[Ways of Knowing|认知方式]]（O'Mahony, 2017）
+> - **过度重视经验数据** 将实证数据视为唯一或最高形式的知识，排斥诠释学、审美、批判、道德和[[Creativity|创造性]]等其他[[Ways of Knowing|认知方式]]（O'Mahony, 2017）
 > - **历史源头** 源于二战后 R&D 模式的兴起——企业科学家和工程师从研发进入管理层，技术决定论、管理主义、社会工程和自由市场理念渗透政治思想，最终成为新自由主义的基础理念（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.34]]）
 
 > [!feature] 识别的操作信号
@@ -119,7 +119,7 @@ updated: 2026-07-11
 > 科学主义不仅通过测量和量化运作，还可以通过[[Critical Thinking|批判性思维]]课程本身的框架设计来隐性执行。这种形态比测量中心的科学主义更隐蔽，因为它包装在"学生中心""自由探究"的修辞中。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
 
 > [!claim] [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]：[[Theory of Knowledge|TOK]] 课程作为隐性科学主义的案例
-> [[International Baccalaureate|IB]] 的 [[Theory of Knowledge|TOK]] 课程声称培养学生的批判性思维和自由探究精神，但其评估框架以自创术语体系（[[Ways of Knowing|认知方式]]、[[Areas of Knowledge|知识领域]]等）作为评分依据，暗中[[Disciplina and Doctrina|规训]]学生接受科学作为最权威的知识形式。当教师用书明确指示教师展示科学中有某种奇妙的东西、将其他学科描述为经过几千年探究仍然离确定答案很远而科学在短短几百年内就取得了惊人成就时，科学主义已经嵌入了课程的评价标准而非仅存在于教学内容中（pp.177–178）。
+> IB 的 [[Theory of Knowledge|TOK]] 课程声称培养学生的批判性思维和自由探究精神，但其评估框架以自创术语体系（[[Ways of Knowing|认知方式]]、[[Areas of Knowledge|知识领域]]等）作为评分依据，暗中[[Disciplina and Doctrina|规训]]学生接受科学作为最权威的知识形式。当教师用书明确指示教师展示科学中有某种奇妙的东西、将其他学科描述为经过几千年探究仍然离确定答案很远而科学在短短几百年内就取得了惊人成就时，科学主义已经嵌入了课程的评价标准而非仅存在于教学内容中（pp.177–178）。
 
 > [!contrast-table] 两种科学主义形态的对比
 > | 维度 | 以测量为中心的科学主义 | 以课程框架为载体的科学主义 |
@@ -163,7 +163,7 @@ updated: 2026-07-11
 > - **语境依赖** 反对科学主义不等于反对实证研究。[[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009, p.72)]] 指出，在 1910–1920 年代的中国，[[Hu Shi|胡适]]并不担心科学主义——他认为迷信才是现代科学的主要敌人。[[John Dewey|杜威]]在美国语境中批评科学主义有其合理性，因为科学在那里已获得近乎不受质疑的权威；但在当时的中国，科学恰恰缺乏这种权威。科学主义批判的有效性取决于特定社会中科学相对于其他认知权威的实际地位
 
 > [!critique] 科学主义对教育的损害
-> [[Positivism|实证主义]]对控制和工具理性的追求，对人类行为中更开放、创造性和人道主义的方面构成了严重威胁。Hayek 指出人类是自由意志行动者，根据对信息的个体解读行动，而非遵循不变的物理定律（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.27]]）。
+> [[Positivism|实证主义]]对控制和工具理性的追求，对人类行为中更开放、[[Creativity|创造性]]和人道主义的方面构成了严重威胁。Hayek 指出人类是自由意志行动者，根据对信息的个体解读行动，而非遵循不变的物理定律（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.27]]）。
 
 ---
 
@@ -172,5 +172,5 @@ updated: 2026-07-11
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书中系统介绍了法兰克福学派对科学主义的批判，以及 Hayek、Ions、Roszak 等早期批评者的立场
 > - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 以 Hattie 的 [[Visible Learning]] 为案例，分析教育领域科学主义的表现形态和政策后果
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程为案例，揭示了科学主义通过课程评估框架隐性运作的新形态，扩展了科学主义的识别范围
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为案例，揭示了科学主义通过课程评估框架隐性运作的新形态，扩展了科学主义的识别范围
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 指出科学主义批判的语境依赖性：在科学尚未获得权威的社会中，科学主义的危险性不同于在科学已占主导地位的社会

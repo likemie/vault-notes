@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 67
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Extended Essay]]"
   - "[[Rationalism in International Relations]]"
   - "[[Constructed Knowledge]]"
+  - "[[Creativity]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
@@ -136,7 +137,7 @@ updated: 2026-08-22
 > [!timeline] TOK 的创制谱系
 > - **1960 年　牛津先行草图** 牛津大学教育系报告 *Arts and Science Sides in the Sixth Form* 提出在专业课程之外设置一个每年不超过 60 小时的统整板块，讨论各学科的方法和限制，使学生把全部学习经验组成整体。[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）后来认为，报告采用的 *methodology* 容易让课程被理解为方法论综述，*underlying [[Epistemology]]* 更接近其反思知识根据的目的。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 41–43)]]
 > - **1965 年　法国哲学要求被重新设计** [[Gerard Renaud|杰拉德·雷诺]]（Gerard Renaud）与法国哲学总督学特里先生（Monsieur Trie）协商，把哲学实体学科列入第三组选修，同时要求所有文凭学生共同修读范围较窄的 TOK。法国哲学教育对判断和反思的要求由此进入国际课程，学生无须共同接受法国国家哲学大纲。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 29–30)]]
-> - **1965–1967 年　法英合作形成初始课程** Gerard Renaud 先把制度折中转化为课程框架，法国哲学督学迪娜·德雷福斯（Dina Dreyfus）随后成为主要合作者，并在课程表现进入评价的范围内担任首任评估者。牛津的跨学科统整问题、法国哲学传统和 [[International Baccalaureate|IB]] 六学科结构在这一阶段汇合。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 46–48)]]
+> - **1965–1967 年　法英合作形成初始课程** Gerard Renaud 先把制度折中转化为课程框架，法国哲学督学迪娜·德雷福斯（Dina Dreyfus）随后成为主要合作者，并在课程表现进入评价的范围内担任首任评估者。牛津的跨学科统整问题、法国哲学传统和 IB 六学科结构在这一阶段汇合。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 46–48)]]
 
 > [!event-context] TOK 源于两种[[General Education|通识教育]]模式同时失效
 > 欧陆百科全书式课程把通识教育理解为接触尽可能多的学科。学生可能每周学习十余门课程，却主要记忆彼此分离的信息和预先组织好的解释。英国高中最后阶段则把学生提前分入文科或理科，集中准备少数高级程度考试；不考试的通识学习很难得到学校和学生的稳定投入。前者牺牲理解深度，后者牺牲思维方式的广度。IB 改革者因此把通识教育重新界定为发展历史性、科学性、数学性、道德性和审美性思考，并使这些思考能够用于新的问题。TOK 承担的是把这种共同目标显化和连接起来的任务。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 38–43)]]
@@ -199,7 +200,7 @@ updated: 2026-08-22
 ### 1987 年附录一把 TOK 制度化为两年连续的反思课程
 
 > [!claim] 课程以学生作为认知者的经验为反思对象
-> TOK 是每位 [[International Baccalaureate|IB]] 文凭候选人的必修课程，也是 IB 教育哲学的关键组成。课程从学生在课堂内外获得的知识和经验出发，通过分析概念、论证以及价值判断的根据，培养学生对自己和他人所知内容的批判意识。TOK 与第三组哲学选修具有相同目标，并共享一项表现标准；前者面向所有学生，后者面向希望专门学习哲学的学生。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Appendix 1, p. 221)]]
+> TOK 是每位 IB 文凭候选人的必修课程，也是 IB 教育哲学的关键组成。课程从学生在课堂内外获得的知识和经验出发，通过分析概念、论证以及价值判断的根据，培养学生对自己和他人所知内容的批判意识。TOK 与第三组哲学选修具有相同目标，并共享一项表现标准；前者面向所有学生，后者面向希望专门学习哲学的学生。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Appendix 1, p. 221)]]
 
 > [!contrast-table] 成熟课程规范划定的内容边界
 >
@@ -310,7 +311,7 @@ updated: 2026-08-22
 > TOK 把学习者置于知识建构过程之中。提问、解释、比较和表达形成连续的认识活动，使学生能够审查知识来源，也能反思自身信念与位置。
 
 > [!claim] Lakhani
-> **认知者的三重角色** 学习者以探究者、[[Reflexivity|反思性]]思考者和创造性沟通者三种角色参与知识建构。知识活动从提出问题开始，经由对检索材料和生活经验的反思形成解释，再通过课堂讨论和论文表达。课程内容与批判性反思的自信共同支撑[[Learner Autonomy|学习者自主性]]。[[Argument_Lakhani_2012_AKUIED|(Lakhani, 2012, pp. 177–178)]]
+> **认知者的三重角色** 学习者以探究者、[[Reflexivity|反思性]]思考者和[[Creativity|创造性]]沟通者三种角色参与知识建构。知识活动从提出问题开始，经由对检索材料和生活经验的反思形成解释，再通过课堂讨论和论文表达。课程内容与批判性反思的自信共同支撑[[Learner Autonomy|学习者自主性]]。[[Argument_Lakhani_2012_AKUIED|(Lakhani, 2012, pp. 177–178)]]
 
 > [!claim] Hughes
 > **[[Knowledge Questions|知识问题]]的枢纽作用** 知识问题把学科或生活情境中的具体知识主张转化为关于知识的一般探究，再由[[Ways of Knowing|认知方式]]、[[Areas of Knowledge|知识领域]]和不同观点提供分析路径。学生由此练习论证、评价和反思，但技能范围仍受课程命令词和评估任务约束。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 35–40)]]
@@ -375,7 +376,7 @@ updated: 2026-08-22
 >
 > - **1960–1965 年的课程思想与制度折中**
 >
->   牛津报告先提出讨论学科方法与限制的统整课程；1965 年，[[Gerard Renaud]] 又把法国哲学必修要求改造为所有 [[International Baccalaureate|IB]] 学生共同修读的知识论核心。TOK 由英国课程统整问题和法国哲学反思传统共同形成，课程结构经过连续协商才逐渐稳定。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 29–30)]] [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 41–48)]]
+>   牛津报告先提出讨论学科方法与限制的统整课程；1965 年，[[Gerard Renaud]] 又把法国哲学必修要求改造为所有 IB 学生共同修读的知识论核心。TOK 由英国课程统整问题和法国哲学反思传统共同形成，课程结构经过连续协商才逐渐稳定。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 29–30)]] [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 41–48)]]
 >
 > - **1965–1970 年的初始课程制度化**
 >

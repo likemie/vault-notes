@@ -37,6 +37,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Theory of Mind]]"
   - "[[Research Question]]"
+  - "[[Creativity]]"
 related_theories: []
 related_methods:
   - "[[Snowball Sampling]]"
@@ -65,7 +66,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -399,7 +400,7 @@ citation_aliases:
 > **[[TUFF]] 总结的四个成功主题**(pp.139–140)：
 > 1. **Tech Square 作为韧性透镜** Tech Square 经历了两次全国最严重衰退和全球疫情，仍然充满活力。创新中心通过成功的文化建设、长期投资和真正响应性的[[Placemaking|场所营造]]来获得韧性。
 > 2. **商业地产不等于产学开发** 疫情带来的商业地产困境恰恰强调了[[University-Industry Collaboration|产学合作]]基本原则的重要性。以强大学术-产业合作为基础的创新园区，其物理和无形资产相互强化，因此能够抵御不断变化的市场条件。
-> 3. **创造性场所营造与关系建设比以往更重要** 产学合作没有保证的成功公式，但当合作方寻求与社区的现有基础设施和资产对齐时，合作会更加成功。在较不发达地区设计一个新的职业培训中心时，应仔细关注本州的历史和专长，并尽可能围绕这些进行设计。
+> 3. **[[Creativity|创造性]]场所营造与关系建设比以往更重要** 产学合作没有保证的成功公式，但当合作方寻求与社区的现有基础设施和资产对齐时，合作会更加成功。在较不发达地区设计一个新的职业培训中心时，应仔细关注本州的历史和专长，并尽可能围绕这些进行设计。
 > 4. **建立对区域差异化的具体认知** 合作方应明确知道自己的区域差异因素（regional differentiators），然后利用这些资产从强大的核心向外构建。当合作方忠于一个地方独特的人才和特征时，从筹款、市场营销到复杂的跨公私利益相关者协调，各个方面的合作都会变得更容易。
 
 ---

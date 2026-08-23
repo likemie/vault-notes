@@ -9,7 +9,7 @@ aliases:
 summary: "IB 为 16–19 岁学生设计的两年制大学预科课程，由六学科组加 TOK、EE、CAS 三项核心要素组成，以显性批判性思维教学和跨学科整合为特色"
 type: concept
 domain: "curriculum"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Praxis]]"
   - "[[Learner Autonomy]]"
+  - "[[Creativity]]"
   - "[[Variable]]"
   - "[[School Effectiveness]]"
   - "[[Academic Self-Concept]]"
@@ -59,7 +60,7 @@ updated: 2026-08-03
 ## 定义
 
 > [!def] 核心定义
-> [[International Baccalaureate|国际文凭]]大学预科项目（International Baccalaureate Diploma Programme, IB DP）是[[International Baccalaureate|IB]] 为 16–19 岁学生设计的两年制课程。学生需完成六个学科组的课程和三项核心要素——[[Theory of Knowledge|知识论]]（ToK）、[[Extended Essay|拓展论文]]（Extended Essay, EE）、创造—行动—服务（[[Creativity, Action, Service|Creativity, Activity, Service]], [[Creativity, Action, Service|CAS]]）（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.29–31]]）。
+> [[International Baccalaureate|国际文凭]]大学预科项目（International Baccalaureate Diploma Programme, IB DP）是IB 为 16–19 岁学生设计的两年制课程。学生需完成六个学科组的课程和三项核心要素——[[Theory of Knowledge|知识论]]（ToK）、[[Extended Essay|拓展论文]]（Extended Essay, EE）、创造—行动—服务（[[Creativity, Action, Service|Creativity, Activity, Service]], [[Creativity, Action, Service|CAS]]）（[[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, pp.29–31]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** IB DP 的核心结构特征是学科学习与跨学科核心要素的并行。ToK 要求学生反思知识本质，EE 要求完成 4,000 字独立研究论文，CAS 要求参与社区服务活动。
@@ -73,7 +74,7 @@ updated: 2026-08-03
 > [!feature] 三项核心要素
 > - **[[Theory of Knowledge|知识论]]（ToK）** 100 小时必修[[Epistemology|认识论]]课程，是 DP 的跨学科核心。不教授固定内容，要求学生反思"我们如何知道我们所知道的"，形成关于知识本质的连贯观点（IBO, 2014）。TOK 与[[Extended Essay|拓展论文]]合计最多贡献 3 分（满分 45），这一低权重设计旨在减轻内容考核压力，使课程不易退化为应试训练，同时留给教师在主题选择和方法上更多自由（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007, p. 168]]）。首次 TOK 考试于 2001 年举行。
 > - **拓展论文（EE）** 4,000 字独立研究论文，展示学术写作和研究能力。
-> - **创造—行动—服务（[[Creativity, Action, Service|CAS]]）** 要求学生参与社区服务、体育和创造性活动，培养全人发展。
+> - **创造—行动—服务（[[Creativity, Action, Service|CAS]]）** 要求学生参与社区服务、体育和[[Creativity|创造性]]活动，培养全人发展。
 
 > [!info] TOK 评估结构
 > TOK 评估由两部分组成，均不采用选择题等快速反应测试，以呼应[[Critical Thinking|批判性思维]]需要充分反思时间的理念（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007, p. 171]]）：

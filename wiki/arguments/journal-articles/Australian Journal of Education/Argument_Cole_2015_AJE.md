@@ -41,7 +41,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Effect Size]]"
   - "[[Areas of Knowledge]]"
-  - "[[Extended Essay]]"
   - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Reliability]]"
@@ -80,7 +79,7 @@ title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -335,7 +334,7 @@ journal: "Australian Journal of Education"
 > [!finding-cards] 核心发现
 > 1. **ToK 学生在两年课程期间[[Critical Thinking|批判性思维]]技能显著增长** 12 年级在 [[Critical Thinking Strategies Scale|CTSS]] 14 项技能中的 11 项上显著高于 11 年级，且在 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 批判性思维分量表上同样表现出显著增长。效应最大的技能是"评估主张"（$p < .001$），三项未达显著的技能（基于证据得出结论、限制主张范围、呈现论证）可能代表了需要更长时间发展的高阶能力（pp. 254–255）
 > 2. **DP 毕业生的批判性思维倾向均值和大学学术指标均高于非 DP 毕业生** DP 毕业生在 [[California Critical Thinking Disposition Inventory|CCTDI]] 七个维度上的得分均值都更高（推理自信差异最大），但原文未报告显著性检验；ATAR（$+4.84$分）、[[Academic Self-Concept|学术自我概念]]和预期大学成果则均显著更高（pp. 257–258）
-> 3. **ToK 的批判性思维教学效果高度依赖学校实施方式** 四所案例学校展示了从全校整合（学校 1 和 4）到过度依赖讨论（学校 2）的四种截然不同的实施模式。课程框架本身不能自动保证批判性思维培养。学校文化、教师经验和知识传统是关键调节[[Variable|变量]]。其中一所学校已将 ToK 模式复制给非 [[International Baccalaureate|IB]] 学生，构成对课程价值的"揭示的偏好"（pp. 256–259）
+> 3. **ToK 的批判性思维教学效果高度依赖学校实施方式** 四所案例学校展示了从全校整合（学校 1 和 4）到过度依赖讨论（学校 2）的四种截然不同的实施模式。课程框架本身不能自动保证批判性思维培养。学校文化、教师经验和知识传统是关键调节[[Variable|变量]]。其中一所学校已将 ToK 模式复制给非 IB 学生，构成对课程价值的"揭示的偏好"（pp. 256–259）
 > 4. **学生经历"ToK 冲击"后长期获益** 学生在 ToK 课程初期可能遇到困难（"ToK-shock"），因为这是他们第一次被要求在没有标准答案的情况下思考，但许多学生日后重新肯定这门课程的价值，认识到它培养了一种以成熟方式批判性思考的能力（p. 259）
 
 > [!stat-cards]- 核心数据汇总
@@ -372,7 +371,7 @@ journal: "Australian Journal of Education"
 > *"only $19\%$ [of interviewees] gave a clear explanation of what critical thinking is . . . [and] only $9\%$ of the respondents were clearly teaching for critical thinking on a typical day in class."*
 
 > [!citation-card]- ToK 作为不受学科内容约束的思维空间
-> ToK 成功的关键在于"它不依赖课程知识的学习来运作……相反，ToK 允许学生通过结构化的思维练习和跨学科活动，充分使用和探索他们的知识"。案例学校中有一所已经复制了 ToK 课程（出于版权原因重新命名），并将其作为所有学生（包括非 [[International Baccalaureate|IB]] 学生）的必修大学预科课程。（p. 259）
+> ToK 成功的关键在于"它不依赖课程知识的学习来运作……相反，ToK 允许学生通过结构化的思维练习和跨学科活动，充分使用和探索他们的知识"。案例学校中有一所已经复制了 ToK 课程（出于版权原因重新命名），并将其作为所有学生（包括非 IB 学生）的必修大学预科课程。（p. 259）
 >
 > *"key to ToK's success . . . lies in the fact that the ToK subject is not subsidiary to any other subject, as it does not have learnt curriculum knowledge tied to its functioning; instead, ToK allows students to fully use and explore their knowledge through structured thinking exercises and cross-curricula activities."*
 
@@ -381,7 +380,7 @@ journal: "Australian Journal of Education"
 ## 自述局限
 
 > [!warning] 研究设计局限
-> - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[International Baccalaureate|IB]] DP 课程（六门学科 + EE + [[Creativity, Action, Service|CAS]] + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp. 256–257）
+> - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[IB Diploma Programme|IB DP]] 课程（六门学科 + EE + [[Creativity, Action, Service|CAS]] + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp. 256–257）
 > - **横断设计限制[[Causality|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性[[Attrition|流失]]的替代解释（p. 256）
 > - **选课效应无法排除** 选择 [[IB Diploma Programme|IB DP]] 的学生可能在入学前就具有更高的学术能力、更强的学习动机或更支持性的家庭背景。ATAR 差异（$+4.84$分）可能部分或全部反映的是选课效应而非 DP 的培养效应（p. 258）
 

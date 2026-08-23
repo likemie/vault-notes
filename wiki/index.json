@@ -1007,8 +1007,8 @@
     "path": "wiki/concepts/curriculum/International Baccalaureate.md",
     "aliases": [
       "国际文凭",
-      "IB",
-      "IB Diploma"
+      "IB Diploma",
+      "国际文凭组织"
     ]
   },
   {
@@ -6294,7 +6294,6 @@
     "aliases": [
       "标准参照测验",
       "标准参照评估",
-      "criterion-referenced test",
       "criterion-referenced assessment",
       "Criterion-Referenced",
       "标准参照"
@@ -13700,6 +13699,16 @@
     ]
   },
   {
+    "title": "Louis Mountbatten",
+    "type": "person",
+    "path": "wiki/persons/uk/Louis Mountbatten.md",
+    "aliases": [
+      "路易斯·蒙巴顿",
+      "Mountbatten, L.",
+      "Lord Mountbatten"
+    ]
+  },
+  {
     "title": "Maria Pampaka",
     "type": "person",
     "path": "wiki/persons/uk/Maria Pampaka.md",
@@ -15203,6 +15212,15 @@
     ]
   },
   {
+    "title": "1976 Hague Intergovernmental Conference on the International Baccalaureate",
+    "type": "fact",
+    "path": "wiki/facts/global/1976 Hague Intergovernmental Conference on the International Baccalaureate.md",
+    "aliases": [
+      "1976年国际文凭海牙政府间会议",
+      "1976 Hague Conference on the International Baccalaureate"
+    ]
+  },
+  {
     "title": "Baby PISA",
     "type": "fact",
     "path": "wiki/facts/global/Baby PISA.md",
@@ -15395,6 +15413,15 @@
     "aliases": [
       "NACRO",
       "大学企业关系官网络"
+    ]
+  },
+  {
+    "title": "United World Colleges",
+    "type": "fact",
+    "path": "wiki/facts/global/United World Colleges.md",
+    "aliases": [
+      "联合世界书院",
+      "UWC"
     ]
   },
   {
@@ -17690,6 +17717,11 @@
     "title": "Argument_Peterson_1987_OpenCourt_Ch04",
     "type": "argument",
     "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch04.md"
+  },
+  {
+    "title": "Argument_Peterson_1987_OpenCourt_Ch05",
+    "type": "argument",
+    "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch05.md"
   },
   {
     "title": "Argument_QiMei_2015_EducationalResearchMethods",

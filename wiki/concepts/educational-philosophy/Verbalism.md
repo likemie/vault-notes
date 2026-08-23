@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷在《被压迫者教育学》中提出的病态批判概念，指在教育与政治探讨中只有口头的理智觉察或批评、却剥离了改变不公现实的实质行动（Praxis）的异化现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Theory of Knowledge]]"
   - "[[Active Learning]]"
-  - "[[International Baccalaureate]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -115,7 +114,7 @@ updated: 2026-08-03
 
 > [!dev-timeline] 概念演变
 > - **1970 — 概念确立** [[Paulo Freire|弗莱雷]]在《被压迫者教育学》第 3 章提出“言语主义 vs 盲动主义”双重异化判定。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 87)]]
-> - **2009 — [[Theory of Knowledge|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用言语主义诊断 [[International Baccalaureate|IB]] TOK 课程“只讨论不行动”的致命瓶颈。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 81)]]
+> - **2009 — [[Theory of Knowledge|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用言语主义诊断 IB TOK 课程“只讨论不行动”的致命瓶颈。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 81)]]
 
 ---
 
@@ -129,4 +128,4 @@ updated: 2026-08-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合言语主义概念批评 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程“只引导讨论种族与贫困、却不要求变革行动”的内在矛盾。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合言语主义概念批评 IB [[Theory of Knowledge|TOK]] 课程“只引导讨论种族与贫困、却不要求变革行动”的内在矛盾。

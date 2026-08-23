@@ -8,7 +8,7 @@ aliases:
 summary: "Toulmin 提出的领域依赖的论证结构模型，将论证拆解为六个部件，基于法律推理逻辑，广泛应用于科学教育和批判性思维教学"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 11
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Analytic Framework]]"
   - "[[Paradigm]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
 related_theories:
   - "[[Pragma-Dialectics]]"
@@ -122,4 +121,4 @@ updated: 2026-07-05
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 在 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程的语境中批评图尔敏模型在科学教育中的局限，提出[[Pragma-Dialectics|语用辩证学派]]作为替代方案。
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 在 IB [[Theory of Knowledge|TOK]] 课程的语境中批评图尔敏模型在科学教育中的局限，提出[[Pragma-Dialectics|语用辩证学派]]作为替代方案。

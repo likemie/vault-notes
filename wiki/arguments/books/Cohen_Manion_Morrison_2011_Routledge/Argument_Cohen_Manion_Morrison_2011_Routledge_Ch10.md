@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 128
+argument_related_count: 129
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -81,6 +81,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Research Utilization]]"
   - "[[Formative Assessment]]"
+  - "[[Creativity]]"
   - "[[Falsification]]"
   - "[[Literature Search]]"
   - "[[Cross-cultural Validity]]"
@@ -623,7 +624,7 @@ Scheurich (1996) 提出了一个更为激进的反思：效度不过是实际上
 > [!example]- 构念效度的经典例子：智力的操作化
 > "假设我想评估一个儿童的'智力'（为此示例假设智力是一个单一品质）。我可以说，我将智力解释为'削铅笔的能力'。这种对智力的构造有多可接受？智力难道不是其他什么东西吗——例如在智力测验中得高分所展示的东西？"
 >
-> 这个例子虽然极端，但精确地说明了构念效度的核心问题：**我对这个构念的理解是否与被普遍接受的该构念的理解一致？**要建立构念效度，我需要确保我对特定议题的构造与其他对同一底层议题的构造或理论（如智力、创造力、焦虑、动机）**一致（p.176）**。
+> 这个例子虽然极端，但精确地说明了构念效度的核心问题：**我对这个构念的理解是否与被普遍接受的该构念的理解一致？**要建立构念效度，我需要确保我对特定议题的构造与其他对同一底层议题的构造或理论（如智力、[[Creativity|创造力]]、焦虑、动机）**一致（p.176）**。
 
 构念效度不仅需要确认建构与相关文献一致，还需要**寻找反例**——可能[[Falsification|证伪]]我的构造的反例。只有平衡了确认性和反驳性证据后，才能证明构念效度。在存在冲突解释时，可能需要承认冲突并明确规定将采用的解释。
 

@@ -65,12 +65,12 @@ updated: 2026-08-17
 
 ## 创立者与角色分工
 
-> [!claim] [[International Baccalaureate|IB]] 是集体创制的制度，而非单一人物的发明
+> [!claim] IB 是集体创制的制度，而非单一人物的发明
 > 彼得森的叙述没有给出一位可以包揽“创立者”称号的人。IB 的形成横跨 1925 年的思想先声、1960 年代初的教师动员、独立组织建设、课程架构、考试技术、国际筹资和大学承认试验。因而，更准确的记录方式是按贡献性质区分共同创制者，并说明每个人的作用边界。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 15–31)]]
 
 > [!actor-grid] 共同创制者群体
 > - **思想先声（1925）** 保罗·迈霍弗首次系统征询建立“国际毕业会考”的可能性，但倡议没有进入实施阶段。
-> - **草根发动（1961–1962）** 德斯蒙德·科尔-贝克组织日内瓦[[International Schools|国际学校]]教师行动；[[Bob Leach|鲍勃·利奇]]召集会议、争取首笔经费，并推动“International Baccalaureate”名称进入正式讨论。
+> - **草根发动（1961–1962）** 德斯蒙德·科尔-贝克组织日内瓦[[International Schools|国际学校]]教师行动；[[Bob Leach|鲍勃·利奇]]召集会议、争取首笔经费，并推动“[[International Baccalaureate]]”名称进入正式讨论。
 > - **组织治理（1964 起）** [[John Goormaghtigh|约翰·戈尔马蒂赫]]把教师项目接入独立、跨国且可持续的法律与治理结构；乔治·潘绍和让·西奥蒂提供教育与考试治理支持。
 > - **课程架构（1965–1967）** [[Gerard Renaud|杰拉德·雷诺]]、安德烈·范·斯梅沃德与[[Alec Peterson|亚历克·皮特森]]把课程广度、专业深度、双语考试和[[Theory of Knowledge|知识论]]共同核心组合成可执行方案。
 > - **考试、筹资与试验设计（1966–1969）** 哈兰·“哈波”·汉森、德斯蒙德·科尔和拉尔夫·泰勒分别补足考试专业、跨大西洋参与、开放性设计与有限规模[[Action Research|行动研究]]。
@@ -126,7 +126,7 @@ updated: 2026-08-17
 > 问卷向 17 位欧洲教育改革者征询建立国际毕业会考的意见。计划没有留下回复记录，但已提出通识与专门化教育之间的课程关系问题。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 15)]]
 
 > [!citation-card]- 1967 年塞夫尔试验方案
-> 拉尔夫·泰勒提出，从 1969 年起以六年为期，让尽可能多国家的大学和主管机关承认由获批学校每年不超过 500 名学生取得的 [[International Baccalaureate|IB]] 成绩。该提议把理念争论转化为有限规模、可观察并可扩展的资格试验。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 31)]]
+> 拉尔夫·泰勒提出，从 1969 年起以六年为期，让尽可能多国家的大学和主管机关承认由获批学校每年不超过 500 名学生取得的 IB 成绩。该提议把理念争论转化为有限规模、可观察并可扩展的资格试验。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 31)]]
 
 ---
 
@@ -136,7 +136,7 @@ updated: 2026-08-17
 > - **课程结构** 六学科组在广泛通识与学科专门化之间建立折中，保留学生选择并强制跨学科分布。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 28–29)]]
 > - **理念结构** 英法双语、全体学生修读[[Theory of Knowledge|知识论]]、整体文凭与单科证书，把语言平衡、知识反思、课程整体性和项目开放性写入制度设计。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 29–31)]]
 > - **组织结构** 教师自发网络经 [[International Schools Examination Syndicate|ISES]]／IBO 转化为能够筹资、开发课程、组织考试和协调国际承认的独立机构。
-> - **资格[[Praxis|实践]]** 1970 年首批 29 名学生以正式 [[International Baccalaureate|IB]] 考试进入大学申请，证明国际共同资格能够超越讨论阶段进入实际使用。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 31)]]
+> - **资格[[Praxis|实践]]** 1970 年首批 29 名学生以正式 IB 考试进入大学申请，证明国际共同资格能够超越讨论阶段进入实际使用。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, p. 31)]]
 
 ---
 

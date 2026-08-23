@@ -10,7 +10,7 @@ aliases:
 summary: "基于地点的跨部门联合体，将区域内大学、企业、投资者和政府组织起来围绕共同愿景进行大规模创新投资，TUFF 以四个信条和六项优先领域为其实践框架，目标是提升社区居民生活水平"
 type: concept
 domain: "higher-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[TUFF]]"
+  - "[[RAiSE Programme]]"
   - "[[Research Triangle Park]]"
   - "[[Central Florida Research Park]]"
   - "[[Kendall Square]]"
@@ -64,7 +65,7 @@ updated: 2026-07-13
 > 创新中心（Innovation Hub）是基于地点的（place-based）跨部门联合体，将区域内关键利益相关者——大学、企业、投资者和政府——组织起来，围绕区域独特优势形成共同愿景，催化新技术的发现、开发和部署及其配套劳动力（Hoffman, Radasch & Thorsell, 2025, pp.112–113）。
 
 > [!info]
-> 从[[Praxis|实践]]角度看，[[TUFF]] 将创新中心的最终目标定位为通过增加商业活动和创业精神来提升社区居民的生活水平（raise the standard of living）。创新中心应成为真实、偶然的人际连接的管道（conduit for authentic, serendipitous human connections），由此产生的思想自由交流催生创新，最终转移到社区并使其受益([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.124, 137]])。
+> 从[[Praxis|实践]]角度看，[[TUFF]] 将创新中心的最终目标定位为通过增加商业活动和创业精神来提升社区居民的生活水平（[[RAiSE Programme|RAiSE]] the standard of living）。创新中心应成为真实、偶然的人际连接的管道（conduit for authentic, serendipitous human connections），由此产生的思想自由交流催生创新，最终转移到社区并使其受益([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.124, 137]])。
 
 > [!quote]
 > "Place-based innovation hubs organize key stakeholders from across the research and innovation spectrum and create a common vision that couples their region's unique strengths with a common vision and purpose."([[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al., 2025, p.112]])

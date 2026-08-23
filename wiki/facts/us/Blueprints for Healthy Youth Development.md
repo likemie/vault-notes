@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -24,9 +24,12 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Clinical Trial]]"
+  - "[[Iatrogenic Effects in Education]]"
   - "[[Academic Achievement]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Attrition]]"
+  - "[[Fade-out Effect]]"
+  - "[[Evaluator Independence]]"
   - "[[Threats to Internal Validity]]"
   - "[[Selectivity]]"
   - "[[Internal Validity]]"
@@ -40,6 +43,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Regression Discontinuity Design]]"
+  - "[[Time Series Design]]"
   - "[[Intent-to-Treat Analysis]]"
 related_instruments: []
 related_persons: []
@@ -77,7 +82,7 @@ updated: 2026-08-21
 > [!note]- 发展背景与资助演进
 > Blueprints 起源于 1990 年代美国针对青少年暴力与越轨行为的预防性[[Intervention Research|干预研究]]，旨在为政策制定者筛选真正具备因果实证的“示范项目（Model Programs）”。
 >
-> - **临床医学级审查传统** Blueprints 脱胎于犯罪学、流行病学与公共卫生传统，天然继承了[[Clinical Trial|临床试验]]对安慰剂对照、医源性伤害排除与长期随访的极高要求([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
+> - **临床医学级审查传统** Blueprints 脱胎于犯罪学、流行病学与公共卫生传统，天然继承了[[Clinical Trial|临床试验]]对安慰剂对照、[[Iatrogenic Effects in Education|医源性伤害]]排除与长期随访的极高要求([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
 > - **非营利独立运作** 由大学学术机构独立运作，不受商业开发者利益牵连，形成了以专家顾问委员会（Advisory Board）为核心的同行评审机制。
 
 ---
@@ -93,7 +98,7 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> Blueprints 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=1, RDD=0, ITS=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> Blueprints 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Time Series Design|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **单项[[Access and Acceptance in Research|研究准入]]认证** 实施严格的“Certified / Not Certified”初筛，仅有通过方法学质量审核的研究才能进入项目综合评级池([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 13]])。
 > 2. **强制[[Intent-to-Treat Analysis|意向治疗分析]]（ITT）** 强制要求采用 ITT 分析模型，避免因参与者依从性脱落（Compliance Bias）导致处理效应高估([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
@@ -107,7 +112,7 @@ updated: 2026-08-21
 > | 评级等级 | 准入条件与方法学门槛 |
 > |:---|:---|
 > | **Model Plus（最高典范）** | **至少 2 项高质量 RCT（或 1 项高质量 RCT + 1 项高质量 QED）**；在核心使命领域展示统计显著正效应；<br>🔴 **过滤器 1（独立评估者）** 强制要求至少 1 项研究由**独立于开发者和早期研究者的第三方团队**完成；<br>🔴 **过滤器 2（持续效果）** 强制要求干预彻底结束后 **12 个月以上仍维持显著持续效果**；<br>🔴 **过滤器 3（零医源性伤害）** 核心领域不得存在任何统计显著或实质性的负面/有害效应。 |
-> | **Model（典范项目）** | 达到与 Model Plus 完全相同的质量与 12 个月持续效果标准，**唯独免除独立评估者复制**（即允许全由开发者团队完成）。 |
+> | **Model（典范项目）** | 达到与 Model Plus 完全相同的质量与 12 个月[[Fade-out Effect\|持续效果]]标准，**唯独免除[[Evaluator Independence\|独立评估者]]复制**（即允许全由开发者团队完成）。 |
 > | **Promising（有前景项目）** | 至少 1 项高质量 [[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]，干预刚结束即测呈现显著正效应，但随访未达 12 个月或缺乏独立复制。 |
 > | **Non-Certified（未予认证）** | 证据不足、研究存在严重[[Threats to Internal Validity\|内部效度威胁]]、效果不确定或发现有害副反应。 |
 
@@ -117,14 +122,14 @@ updated: 2026-08-21
 
 > [!stat-cards]- Blueprints 评级一致性表现
 > - **极高过滤率** 在全部审查项目中，仅不足 5% 的项目能通过审核获得认证，被冠以 Model Plus 的项目极度罕见。
-> - **极端冲突表现** 在与 [[What Works Clearinghouse|WWC]]、[[National Dropout Prevention Center|NDPC]] 等机构的多重评级中，Blueprints 常因其 12 个月持续效果与独立复制要求，将其他机构评为最高级（1级）的项目降级或归为未认证（3级），产生典型的 1&3 极端冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 19–20]])。
+> - **极端冲突表现** 在与 [[What Works Clearinghouse|WWC]]、[[National Dropout Prevention Center|NDPC]] 等机构的多重评级中，Blueprints 常因其 12 个月[[Fade-out Effect|持续效果]]与独立复制要求，将其他机构评为最高级（1级）的项目降级或归为未认证（3级），产生典型的 1&3 极端冲突([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 19–20]])。
 
 ---
 
 ## 生态定位与评级分歧案例
 
 > [!warning] 跨中心分歧与典型案例
-> - [[Communities in Schools]]（CIS）— 经审查，CIS 因缺乏无经济利益关联的独立第三方复制研究，未能获得 Blueprints 的 Model Plus 顶级认证；同时因部分随访期效果衰退，与 [[National Dropout Prevention Center|NDPC]] 的最高推荐形成鲜明对比([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
+> - [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）— 经审查，CIS 因缺乏无经济利益关联的独立第三方复制研究，未能获得 Blueprints 的 Model Plus 顶级认证；同时因部分随访期效果衰退，与 [[National Dropout Prevention Center|NDPC]] 的最高推荐形成鲜明对比([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
 > - [[Success for All]]（SFA）— SFA 依靠全美范围内大量的独立学者复制研究与长期追踪数据，成功跨越了 Blueprints 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]] 的严苛门槛，成为极少数获得跨机构多重高度认可的典范项目([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 23]])。
 
 ---
@@ -133,5 +138,5 @@ updated: 2026-08-21
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — Blueprints 在 12 个清算中心中代表了“严出导向（[[Selectivity]]）”与临床级最高标准模式([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。
-> - [[Internal Validity]] 与 [[Construct Validity]] — 独立评估者复制有效规避了[[Publication Bias|发表偏倚]]与[[Conflict of Interest in Research|利益冲突]]导致的[[Effect Size|效应量]]虚高。
+> - [[Internal Validity]] 与 [[Construct Validity]] — [[Evaluator Independence|独立评估者]]复制有效规避了[[Publication Bias|发表偏倚]]与[[Conflict of Interest in Research|利益冲突]]导致的[[Effect Size|效应量]]虚高。
 > - [[Intent-to-Treat Analysis]] — Blueprints 将 ITT 作为核心分析规范，防范依从性偏倚。

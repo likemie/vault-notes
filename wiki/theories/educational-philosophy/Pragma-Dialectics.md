@@ -9,7 +9,7 @@ aliases:
 summary: "van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 11
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Dialogue in Education]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
 related_theories:
@@ -124,4 +123,4 @@ updated: 2026-07-04
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 提出将语用辩证法作为解决 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程中[[Critical Thinking|批判性思维]]与科学教育冲突的三种方案之一；论证该理论可以作为中学课堂中统一教授批判性思维和科学论证的框架。
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 提出将语用辩证法作为解决 IB [[Theory of Knowledge|TOK]] 课程中[[Critical Thinking|批判性思维]]与科学教育冲突的三种方案之一；论证该理论可以作为中学课堂中统一教授批判性思维和科学论证的框架。

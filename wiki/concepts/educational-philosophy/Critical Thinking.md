@@ -8,7 +8,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Humility in Learning]]"
+  - "[[Creativity]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
@@ -91,7 +92,7 @@ updated: 2026-08-16
 ## 概念辨析
 
 > [!contrast-table] 相近思维[[Construct|构念]]
-> | 维度 | 批判性思维 | 纯形式推理 | 高阶思维 | 创造性思维与问题解决 |
+> | 维度 | 批判性思维 | 纯形式推理 | 高阶思维 | [[Creativity\|创造性]]思维与问题解决 |
 > |---|---|---|---|---|
 > | **核心对象** | 知识主张、证据、论证、判断与行动 | 命题形式及推导有效性 | 超越记忆和理解的复杂认知活动 | 新方案、问题表征与可行解法 |
 > | **典型过程** | 解释、分析、评价、推论、说明、自我调节 | 演绎、证明、检验一致性 | 应用、分析、评价、创造 | 发散、重构、生成、试验与修正 |
@@ -290,7 +291,7 @@ updated: 2026-08-16
 > > [!axis] 问题解决与创造的构念位置
 > > 学者对构念外延采用不同标准，差异会直接改变课程内容与评估蓝图。
 > >
-> > - **Halpern** 把问题解决和创造性思维纳入批判性思维技能体系。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32, 34)]]
+> > - **Halpern** 把问题解决和[[Creativity|创造性]]思维纳入批判性思维技能体系。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32, 34)]]
 > > - **Black** 将阅读理解、问题解决、创造和三段论置于构念边缘或外部。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 33–34)]]
 
 > [!critique-method] 分类与测量风险

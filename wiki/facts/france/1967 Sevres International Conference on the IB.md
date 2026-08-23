@@ -21,8 +21,8 @@ tags:
   - theme/qualification-recognition
 related_concepts:
   - "[[International Education]]"
-  - "[[International Baccalaureate]]"
   - "[[International Schools]]"
+  - "[[International Baccalaureate]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -51,7 +51,7 @@ updated: 2026-08-17
 > [!event-context] 事件背景
 > - **时间／地点** 1967 年 2 月，法国塞夫尔[[International Education|国际教育]]研究中心。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, p. 26)]]
 > - **关键主体** [[International Schools Examination Syndicate|ISES]]／IBO、法国研究与实验中心、九所潜在试验学校，以及保加利亚、英国、喀麦隆、法国、两个西德州、波兰、瑞典、瑞士、坦桑尼亚的政府代表；大学、[[OECD]]、UNESCO、欧洲委员会和国家考试机构也派员参加。
-> - **制度背景** 早期教师会议已经产生课程讨论，但没有足够授权把 [[International Baccalaureate|IB]] 变成大学入学资格。福特基金要求举行一场由实际承认主体参加的国际会议。
+> - **制度背景** 早期教师会议已经产生课程讨论，但没有足够授权把 IB 变成大学入学资格。福特基金要求举行一场由实际承认主体参加的国际会议。
 > - **准备条件** 会前已完成六学科框架、英法双语教学大纲、考试方案与样题；九所学校愿意参与试验。会议因此评议的是可实施方案，而不是抽象愿景。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 26–30)]]
 
 ---
@@ -82,7 +82,7 @@ updated: 2026-08-17
 > - **会前组织 — 从开放讨论转为授权者会议** 与会者按其代表的国家、大学、考试和国际组织利益受邀。美国 AP 项目主任、伦敦大学 GCE 委员会秘书、法国 baccalauréat 办公室主任和瑞士成熟证书前负责人首次同桌讨论。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, p. 26)]]
 > - **首次全体会议后 — 分设两个委员会** A 委员会讨论课程结构、标准和教学大纲，由费舍尔-沃尔珀特主持、[[Gerard Renaud|杰拉德·雷诺]]任顾问；B 委员会讨论考试组织与程序，由罗伯特·布莱克本主持、比尔·霍尔斯任顾问。
 > - **课程与考试原则 — 快速形成共识** 六学科总体结构、高级与辅助程度、成绩补偿原则获得接受。会议由此确认文凭应评价完整课程组合，而不是把六张互不相关的单科成绩简单相加。
-> - **开放性修正 — 文凭与证书并存** 德斯蒙德·科尔担心 [[International Baccalaureate|IB]] 会形成校内精英轨道，提出保留整体文凭，同时向在个别科目达到要求但未取得文凭者颁发单科证书；方案得到一致接受。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 30–31)]]
+> - **开放性修正 — 文凭与证书并存** 德斯蒙德·科尔担心 IB 会形成校内精英轨道，提出保留整体文凭，同时向在个别科目达到要求但未取得文凭者颁发单科证书；方案得到一致接受。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 30–31)]]
 > - **最终全体会议 — 提出有限承认试验** 拉尔夫·泰勒建议从 1969 年起进行六年试验，由尽可能多国家的大学和主管机关承认来自获批学校、每年不超过 500 名学生的 IB 成绩。
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-08-17
 > [!finding-cards] 直接影响
 > - **承认联盟启动** 保加利亚代表当场宣布接受；多数代表没有正式授权，但承诺推动本国部委或自治大学认可。法国、瑞典、14 所英国大学、3 所瑞士大学及许多美国大学随后同意合作。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, p. 31)]]
 > - **[[Action Research|行动研究]]成形** 会议把课程、考试、学校批准、政府同意、人数上限和时间期限组合为一项[[Action Research|行动研究]]，以实际升学使用代替继续表达善意。
-> - **资格开始替代国家考试** 1969 年试验启动；1970 年经过两年试考后，首批 29 名学生使用正式 [[International Baccalaureate|IB]] 成绩申请大学。
+> - **资格开始替代国家考试** 1969 年试验启动；1970 年经过两年试考后，首批 29 名学生使用正式 IB 成绩申请大学。
 > - **课程开放性被制度化** 单科证书成为整体文凭之外的正式成果，避免“未取得文凭”等于“全部学习无记录”。
 
 > [!warning] 解释边界

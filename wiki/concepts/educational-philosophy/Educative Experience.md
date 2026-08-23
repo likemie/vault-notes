@@ -6,7 +6,7 @@ aliases:
 summary: "约翰·杜威在《经验与教育》中提出的正向经验品质标准。教育性经验能够丰富个体的当下体验，为未来更深刻、更广阔的经验打开大门，促进个体在智性、道德与社会参与上的持续生长。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Mis-educative Experience]]"
   - "[[Interaction Effect]]"
   - "[[Progressive Education]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Active Learning]]"
   - "[[Praxis]]"
@@ -127,7 +126,7 @@ updated: 2026-08-01
 
 > [!dev-timeline] 概念演变
 > - **1938 — 理论确立** [[John Dewey|杜威]]在《经验与教育》中提出“教育性经验 vs [[Mis-educative Experience|反教育经验]]”双重标准，回应对[[Progressive Education|进步主义教育]]的误解。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 30)]]
-> - **2009 — 批判分析应用** Darwish 将教育性经验作为评估 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程与[[Active Learning|主动学习]]三环节模型的[[Epistemology|认识论]]基准。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 30–32)]]
+> - **2009 — 批判分析应用** Darwish 将教育性经验作为评估 IB [[Theory of Knowledge|TOK]] 课程与[[Active Learning|主动学习]]三环节模型的[[Epistemology|认识论]]基准。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 30–32)]]
 
 ---
 

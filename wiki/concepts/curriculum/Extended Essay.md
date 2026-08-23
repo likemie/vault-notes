@@ -6,10 +6,10 @@ aliases:
 summary: "国际文凭大学预科项目的必修核心要素，通过学生自主选题、长期研究、导师指导和外部评价，把个人兴趣转化为一项可纳入跨国文凭的独立学术探究。"
 type: concept
 domain: "curriculum"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/curriculum
   - theme/research-skills
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Theory of Knowledge]]"
   - "[[Creativity, Action, Service]]"
+  - "[[Creativity]]"
   - "[[Epistemology]]"
   - "[[Literature Review]]"
   - "[[Homework]]"
@@ -63,7 +64,7 @@ updated: 2026-08-22
 ## 定义
 
 > [!def] 核心定义
-> 拓展论文（Extended Essay，EE）是[[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的必修核心要素。学生从所学领域中自主确定[[Research Question|研究问题]]，在导师指导下持续搜集和分析材料，最终完成一篇上限约 4,000 字的独立学术论文。EE 与[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）及[[Creativity, Action, Service|创意、行动、服务]]（Creativity, Activity, Service，CAS）共同把六学科课程扩展为自主探究、[[Epistemology|认识论]]反思和经验行动相结合的完整文凭经验。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 45–48)]]；[[Argument_Darwish_2009_Queens|Darwish (2009, p. 18)]]
+> 拓展论文（Extended Essay，EE）是[[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的必修核心要素。学生从所学领域中自主确定[[Research Question|研究问题]]，在导师指导下持续搜集和分析材料，最终完成一篇上限约 4,000 字的独立学术论文。EE 与[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）及[[Creativity, Action, Service|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）共同把六学科课程扩展为自主探究、[[Epistemology|认识论]]反思和经验行动相结合的完整文凭经验。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 45–48)]]；[[Argument_Darwish_2009_Queens|Darwish (2009, p. 18)]]
 
 > [!concept-lens] 课程位置、学习功能与资格作用
 > - **课程位置** 六学科和科内选项仍由课程大纲规定学习范围，EE 进一步把问题选择和持续研究交给学生，使个人兴趣进入正式文凭结构。

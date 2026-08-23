@@ -20,6 +20,7 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
   - "[[Creativity, Action, Service]]"
+  - "[[Creativity]]"
   - "[[Extended Essay]]"
   - "[[Concurrency of Learning]]"
   - "[[Praxis]]"
@@ -63,9 +64,9 @@ title: "Argument_Metli_2022_IJER"
 argument_key: "Argument_Metli_2022_IJER"
 argument_display_title: "Concurrency of Learning: Strategies and Challenges of Promoting Coherence in the Core in the International Baccalaureate Diploma Programme (IBDP)"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "International Journal of Educational Reform"
 book_title: ""
@@ -80,7 +81,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 本文探讨[[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）核心课程组件：[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）、[[Creativity, Action, Service|创意、行动、服务]]（Creativity, Activity, Service，CAS）以及[[Extended Essay|拓展论文]]（Extended Essay，EE）之间如何促进[[Concurrency of Learning|并发学习]]（Concurrency of Learning）的连贯性，并分析其实施策略、良好[[Praxis|实践]]、面临的挑战及解决方案。
+> 本文探讨[[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）核心课程组件：[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）、[[Creativity, Action, Service|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）以及[[Extended Essay|拓展论文]]（Extended Essay，EE）之间如何促进[[Concurrency of Learning|并发学习]]（Concurrency of Learning）的连贯性，并分析其实施策略、良好[[Praxis|实践]]、面临的挑战及解决方案。
 
 > [!claim] 核心主张
 > 促进核心课程间的并发学习对实现跨学科学习和整体教育至关重要。尽管存在时间限制、双轨制课程冲突和教师认知不足等实施障碍，但通过协同备课、主题反思以及围绕现实情境的[[Experiential Learning|经验学习]]，可以有效实现课程间的连贯性。
@@ -125,7 +126,7 @@ issuing_organization: ""
 > - 大多数[[Questionnaire|问卷]]受访者“认为”其学校存在跨组件链接
 > - 支持互联性（interconnectedness of learning）
 > - 在[[Focus Group|焦点小组]]追问中，受访者难以举出超越表层的具体实践案例
-> - 有助于跨越孤立学科、实现 [[International Baccalaureate|IB]] [[IB Learner Profile|学习者培养目标]]
+> - 有助于跨越孤立学科、实现 IB [[IB Learner Profile|学习者培养目标]]
 > - 超过半数的参与者承认，核心组件在其学校内往往是“孤立运作”的
 > 
 > *注：并发学习在 IB 体系内的期待呈递进关系。在小学项目（PYP）中其存在但不严格；在中学项目（MYP）中是跨学科学习的核心；而在大学预科项目（[[IB Diploma Programme|IBDP]]）中，它必须通过强有力的“反思”机制来实现整体学习（holistic learning）。*
@@ -193,7 +194,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **普遍困境** 尽管教育者高度认同核心课程连贯性的价值，但具体的链接策略和最佳[[Praxis|实践]]在学校中仍然非常有限和表面化。（p. 230）
-> 2. **促成条件** 促进[[Concurrency of Learning|并发学习]]的有效机制包括：基于真实情境的反思实践、协同备课机制以及全校层面对 [[International Baccalaureate|IB]] [[IB Learner Profile|学习者培养目标]]的显性整合。（pp. 227–228）
+> 2. **促成条件** 促进[[Concurrency of Learning|并发学习]]的有效机制包括：基于真实情境的反思实践、协同备课机制以及全校层面对 IB [[IB Learner Profile|学习者培养目标]]的显性整合。（pp. 227–228）
 > 3. **制度呼吁** 解决并发学习的挑战需要结构性支持，建议 IB 官方与当地高等教育机构协调提升项目认可度，并在官方培训中增设关于“并发学习”的具体指导。同上
 
 ---
@@ -204,7 +205,7 @@ issuing_organization: ""
 > 原文未专门设立局限性章节，但在结论中提出，目前关于[[Concurrency of Learning|并发学习]]的[[Document|文献]]有限，本研究揭示的挑战受制于土耳其独特的双轨制教育背景（国家课程与[[Gaokao|高考]]压力）。
 
 > [!implication]- 对未来研究与[[Praxis|实践]]的启示
-> - **对 [[International Baccalaureate|IB]] 官方的建议** 除了将并发学习显性纳入现有培训，IB 应考虑增设关于并发学习的 **第 3 类（Category 3）专业发展工作坊**。此外，IB 需与土耳其等地区的高等教育机构合作，提高 [[IB Diploma Programme|IBDP]] 的录取认可度，以帮助学校和学生在国家考试压力下优先考虑 DP 课程。
+> - **对 IB 官方的建议** 除了将并发学习显性纳入现有培训，IB 应考虑增设关于并发学习的 **第 3 类（Category 3）专业发展工作坊**。此外，IB 需与土耳其等地区的高等教育机构合作，提高 [[IB Diploma Programme|IBDP]] 的录取认可度，以帮助学校和学生在国家考试压力下优先考虑 DP 课程。
 > - **对师资培养的建议** 呼吁在职前教师教育（特别是参加 IB 教育证书项目的实习教师）中，加入针对跨学科学习以及课程的 **垂直与水平衔接（vertical and horizontal articulation）** 的专门培训，从源头提升教师整合课程的能力。
 > - **对未来研究的建议** 建议在不同的学校背景下开展更多实证研究，以探索不仅在核心组件之间，而且在所有学术课程中实施并发学习的有效策略。
 

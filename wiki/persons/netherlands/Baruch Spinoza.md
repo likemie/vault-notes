@@ -7,7 +7,7 @@ summary: "17世纪荷兰哲学家。在后现代教育学与批判性课程理�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Feeder Mechanism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[International Spinozian Curriculum]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -64,7 +63,7 @@ updated: 2026-08-12
 
 > [!influence-path] 影响路径
 > - **理论路径** 经由德勒兹（Gilles Deleuze）、哈特（Michael Hardt）等后现代学者的重新阐释，斯宾诺莎的哲学进入了批判性教育学领域，催生了诸如“情感政治（Politics of Affection）”和“[[International Spinozian Curriculum|国际斯宾诺莎主义课程]]”等前沿理论。
-> - **方法路径** 为突破僵化的知识传授（如 [[International Baccalaureate|IB]] 体系中的[[Theory of Knowledge|知识论]]教学壁垒）提供了新的行动指南：即将课堂中的焦虑、虚无主义等负面情绪合法化，并直接转化为探究的生产性材料。
+> - **方法路径** 为突破僵化的知识传授（如 IB 体系中的[[Theory of Knowledge|知识论]]教学壁垒）提供了新的行动指南：即将课堂中的焦虑、虚无主义等负面情绪合法化，并直接转化为探究的生产性材料。
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Cole_2005_JRIE|Cole (2005)]] — 提出了“国际斯宾诺莎主义课程”，论证了斯宾诺莎的哲学如何能够打破[[Georg Wilhelm Friedrich Hegel|黑格尔]]式的[[Disciplina and Doctrina|规训]]，通过转化课堂上的负面情绪和释放想象力，促成深度的突破性学习。

@@ -8,7 +8,7 @@ aliases:
 summary: "保罗·弗莱雷与批判教育学提出的核心教学范式，作为储蓄式教育的替代方案，主张教育者提出与学生现实处境相关的问题，使师生成为批判性共同探究者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Culture of Silence]]"
   - "[[Conscientization]]"
   - "[[Praxis]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
 related_methods: []
@@ -102,7 +101,7 @@ updated: 2026-07-25
 > [!debates] 学术争议
 >
 > > [!axis] 提问式教育的形式化风险
-> > [[Argument_Darwish_2009_Queens|Darwish (2009)]] 审查 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程时指出，某些课程虽然采用了类似提问式教育的跨学科讨论与问题探讨形式，但若缺乏对社会不公的真实批判以及推动学生采取[[Praxis|实践]]干预的承诺，提问式教育仍有可能被去政治化为表面化的学术讨论 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 1, p. 10)]]。
+> > [[Argument_Darwish_2009_Queens|Darwish (2009)]] 审查 IB [[Theory of Knowledge|TOK]] 课程时指出，某些课程虽然采用了类似提问式教育的跨学科讨论与问题探讨形式，但若缺乏对社会不公的真实批判以及推动学生采取[[Praxis|实践]]干预的承诺，提问式教育仍有可能被去政治化为表面化的学术讨论 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 1, p. 10)]]。
 
 ---
 

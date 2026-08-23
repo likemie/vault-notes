@@ -11,7 +11,7 @@ aliases:
 summary: "由苏格拉底与柏拉图提出的哲学交锋与交叉反诘方法，通过连续提问揭示既有信念中的内在矛盾，为真理探求与辩证法清理土壤。"
 type: concept
 domain: "educational-philosophy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Conscientization]]"
   - "[[Socratic Tutoring Style]]"
@@ -138,7 +137,7 @@ updated: 2026-07-25
 > [!influence-path] 理论与[[Praxis|实践]]路径
 > - **理论路径** 奠定了西方哲学方法论与[[Critical Thinking|批判性思维]]的基石，为[[Pragmatic Paradigm|实用主义]]探究与辩证法提供了直接源头。
 > - **教学实践路径** 发展出[[Socrates|苏格拉底]]式指导风格、提问式教学（problem-posing）以及法学教育中的 Socratic Case Method。
-> - **课程审查路径** 用于评估课程体系（如 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程）是否真正提供了深度的概念反诘与探究自由 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 10)]]。
+> - **课程审查路径** 用于评估课程体系（如 IB [[Theory of Knowledge|TOK]] 课程）是否真正提供了深度的概念反诘与探究自由 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 10)]]。
 
 ---
 

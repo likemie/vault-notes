@@ -9,7 +9,7 @@ title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
 argument_display_title: "Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Scientific Literacy]]"
   - "[[Global Universities Rankings]]"
-  - "[[International Baccalaureate]]"
   - "[[Hypothesis]]"
   - "[[Rote Learning]]"
   - "[[Operationalization]]"
@@ -149,7 +148,7 @@ Slethaug 由此推出一个重要结论：国际学校已经从"教育机构"变
 
 ### 第 5 步：IB 课程成为国际学校的"操作系统"，但它有文化盲区
 
-Slethaug 接着论证：国际学校需要一个不绑定任何特定国家的课程体系，于是 [[International Baccalaureate|IB]] 应运而生(pp.27–31)。
+Slethaug 接着论证：国际学校需要一个不绑定任何特定国家的课程体系，于是 IB 应运而生(pp.27–31)。
 
 IB 的吸引力在于它声称**意识形态中立**——不绑定任何国家的政治或宗教教条。2009 年已在 135 个国家、2,609 所学校覆盖 709,000 名学生。
 
@@ -188,7 +187,7 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 > - 国际学校从约 50 所(1964)增至约 3,000 所(2005)，学生约 200 万(pp.22–23)
 > - 学生构成去国家化：创始国学生比例从 70%(1960)降至 30%(2005)(p.24)
 > - 国际学校已成为面向精英阶层的市场化机构：香港年费 US$10,000–20,000(p.26)
-> - 课程从国家课程转向 [[International Baccalaureate|IB]]，语言设置从单一母语转向双语/三语(pp.27–28)
+> - 课程从国家课程转向 IB，语言设置从单一母语转向双语/三语(pp.27–28)
 
 > [!success]
 > **[[Chinese Learner|中国学习者]]的流动性与多元性**
@@ -229,7 +228,7 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 > - **数据[[Reliability|可靠性]]** 本章高度依赖二手统计数据和媒体报道。不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍(pp.17–18)。Slethaug 指出了这些差异但未系统评估各数据来源的方法论质量。
 > - **核心概念未[[Operationalization|操作化]]** 对"[[International Education|国际教育]]""全球化""[[Knowledge-Based Economy|知识经济]]"等概念的使用停留在常识层面，未进行批判性审视或操作化定义。"知识经济"作为一个有争议的概念被当作事实接受。
 > - **缺乏原创实证分析** 本章作为背景章节，论证主要是描述性和综合性的——这在全书结构中合理，但独立看时说服力有一定限度。
-> - **西方中心视角** 尽管 Slethaug 批评 [[International Baccalaureate|IB]] 的西方文化预设，他对"国际教育"的整体叙事仍然以西方机构（[[OECD]]、英美澳大学）为基准框架，未充分考虑非西方的国际教育[[Praxis|实践]]形态。
+> - **西方中心视角** 尽管 Slethaug 批评 IB 的西方文化预设，他对"国际教育"的整体叙事仍然以西方机构（[[OECD]]、英美澳大学）为基准框架，未充分考虑非西方的国际教育[[Praxis|实践]]形态。
 
 ## 来源
 

@@ -287,7 +287,7 @@ updated: 2026-08-17
 > [!dev-timeline] [[Theory of Knowledge|TOK]] 中知识领域框架的演变
 > - **1960 年　跨学科统整课程出现先行草图** 牛津课程改革报告反对把[[General Education|通识教育]]等同于广泛记忆事实，建议在文理专业课程之外设置统整板块，讨论各学科的方法、限制和相互联系。皮特森后来把它视为 TOK 的第一份草图，并认为潜在[[Epistemology|认识论]]比报告使用的方法论更准确。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 41–43)]]
 > - **1965 至 1967 年　六学科与共同反思课程结合** 六学科分布提供多种思维方式，法国哲学传统则经雷诺和德雷福斯转化为全体文凭学生必修的 TOK。领域比较开始承担显化学科知识形式、建立联系和支持迁移的功能。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 28–30)]] [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 46–48)]]
-> - **[[International Baccalaureate|IB]] 早期　八主题形成混合型知识结构** 第四版总指南并列语言与逻辑、自然科学、人文科学、数学、历史、道德与政治判断、审美判断以及意见、信仰、知识与真理。学科领域、价值判断和共同认识条件仍处在同一层级。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, p. 48)]]
+> - **IB 早期　八主题形成混合型知识结构** 第四版总指南并列语言与逻辑、自然科学、人文科学、数学、历史、道德与政治判断、审美判断以及意见、信仰、知识与真理。学科领域、价值判断和共同认识条件仍处在同一层级。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, p. 48)]]
 > - **1987 年所载成熟纲要　知识体系成为独立主题组** 附录一把数学、自然科学、人文科学和历史归入知识体系，把道德、政治和审美归入价值判断与知识，并用语言、逻辑和真理主题连接各领域。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Appendix 1, pp. 221–223)]]
 > - **1999 至 2003 年　超学科框架进入课程与评估** TOK 以 AOK and [[Ways of Knowing|WOK]] 组织跨学科探究，并把领域联系逐渐纳入评估语言。共同分类方便课程交流，也使术语使用可能替代真实思维表现。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, pp. 171–173)]]
 > - **2007 年　六项传统领域围绕认知者组织** 数学、自然科学、人文科学、历史、艺术和伦理构成主要领域，AOK and WOK 以可渗透关系环绕认知者，支持跨学科的知识来源与[[Reliability|可靠性]]探究。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 16–17, 22, 72)]]

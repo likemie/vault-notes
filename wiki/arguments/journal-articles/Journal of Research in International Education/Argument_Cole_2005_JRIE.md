@@ -125,7 +125,7 @@ issuing_organization: ""
 ### 论证步骤一：传统 IB 知识论面临的黑格尔式困境
 
 > [!claim] 步骤一主张
-> [[International Baccalaureate|IB]] 课程的核心机制遵循了[[Georg Wilhelm Friedrich Hegel|黑格尔]]式的[[Bildung|教化]]（Bildung）路径，将学生预设为等待知识填充并被要求进行强行反思的“空无认知者”（[[Empty Knower]]）。这导致了教育目标的异化，使反思课程沦为市场体制下的工具技能训练。
+> IB 课程的核心机制遵循了[[Georg Wilhelm Friedrich Hegel|黑格尔]]式的[[Bildung|教化]]（Bildung）路径，将学生预设为等待知识填充并被要求进行强行反思的“空无认知者”（[[Empty Knower]]）。这导致了教育目标的异化，使反思课程沦为市场体制下的工具技能训练。
 
 > [!chain-link] 证据到判断
 > - **链节一：课堂中的“[[Resonant Oscillation|共振震荡]]（Resonant Oscillation）”**

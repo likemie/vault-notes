@@ -6,26 +6,32 @@ aliases:
 summary: "跨越单一国家教育体系、服务跨国流动家庭或本地国际课程需求的学校类型，其历史从侨民国家通道逐步发展出共同课程、跨国资格协调与市场化运营。"
 type: concept
 domain: "comparative-education"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/global
 - level/k12
 related_concepts:
   - "[[Boarding Schools]]"
   - "[[International Baccalaureate]]"
-  - "[[Hypothesis]]"
   - "[[Fourth Culture]]"
+  - "[[Praxis]]"
   - "[[International Education]]"
+  - "[[Hypothesis]]"
+  - "[[Attrition]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Education City Doha]]"
+  - "[[International School of Geneva]]"
+  - "[[International Schools Association]]"
+  - "[[International Schools Examination Syndicate]]"
   - "[[English Schools Foundation Hong Kong]]"
 related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
 confidence: medium
 status: draft
@@ -48,7 +54,7 @@ updated: '2026-08-22'
 > - **与[[Boarding Schools|寄宿学校]]的区别** 寄宿学校通常位于学校所属国家，海外学生跨境前往就读；国际学校设在学生家庭居住国，为当地的跨国或多国共同体提供教育。
 > - **与本地公立学校的区别** 国际学校通常收取学费，采用国际课程或外国国家课程，并常以英语或多种语言教学；本地公立学校主要由政府资助并遵循本国课程。
 > - **与海外分校的区别** 海外分校通常指大学在另一国家设立的高等教育机构，例如[[Education City Doha|多哈教育城]]内的大学分校；国际学校主要覆盖中小学阶段。
-> - **国际学校与国际课程并不等同** 一所国际学校可以并行开设法国、英国、美国或其他国家课程；本地学校也可以采用国际文凭（International Baccalaureate，IB）等国际课程。学校类型与资格类型需要分别判断。
+> - **国际学校与国际课程并不等同** 一所国际学校可以并行开设法国、英国、美国或其他国家课程；本地学校也可以采用[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）等国际课程。学校类型与资格类型需要分别判断。
 
 ---
 
@@ -69,7 +75,7 @@ updated: '2026-08-22'
 > - **跨国学生共同体** 学生的国籍、家庭流动路径和预期升学国家不一致，学校需要同时处理语言、文化与大学资格差异。
 > - **课程与资格协调** 学校可以并行提供多国课程，也可以采用共同国际课程。早期 IB 直接回应多套国家课程造成的重复教学、国家分组和小国籍学生支持不足。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 16–17, 27–28)]]
 > - **跨国承认关系** 课程能否成为可使用的升学资格，取决于大学、考试机构和政府是否接受其成绩。国际学校因此需要持续协调教学内容、考试标准和大学准入。
-> - **多层组织网络** 单所学校提供教师、学生和试验环境，学校协会负责跨校联系，专门考试机构承担长期课程开发与资格责任。Ecolint、ISA 与[[International Schools Examination Syndicate|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）的分工体现了这一结构。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–20)]]
+> - **多层组织网络** 单所学校提供教师、学生和试验环境，学校协会负责跨校联系，专门考试机构承担长期课程开发与资格责任。[[International School of Geneva|Ecolint]]、[[International Schools Association|ISA]] 与[[International Schools Examination Syndicate|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）的分工体现了这一结构。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–20)]]
 
 ### 市场化运营
 
@@ -89,7 +95,7 @@ updated: '2026-08-22'
 
 > [!warning]
 > ### 本地学生的身份张力
-> 大量本地学生在本国就读国际学校，以降低海外学习带来的文化疏离风险。学生在学校中的价值观和期望仍可能与家庭及本地社区出现明显差异，形成 Deveney（2005）所称的[[Fourth Culture|第四文化]]。Rao、Ng 与 Pearson（2009）进一步指出，社会、经济和技术变迁会改变教育政策与实践，全球化课程价值与本地传统之间的张力也随之进入学校。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 24–25)]]
+> 大量本地学生在本国就读国际学校，以降低海外学习带来的文化疏离风险。学生在学校中的价值观和期望仍可能与家庭及本地社区出现明显差异，形成 Deveney（2005）所称的[[Fourth Culture|第四文化]]。Rao、Ng 与 Pearson（2009）进一步指出，社会、经济和技术变迁会改变教育政策与[[Praxis|实践]]，全球化课程价值与本地传统之间的张力也随之进入学校。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 24–25)]]
 
 > [!warning]
 > ### 道德教育维度的缺失
@@ -105,7 +111,7 @@ updated: '2026-08-22'
 
 > [!warning]
 > ### 对公立系统的冲击
-> [[English Schools Foundation Hong Kong|香港英基学校协会]]（English Schools Foundation，ESF）等国际学校扩张并吸纳本地优秀学生，使本地英文中学和中文中学在出生率下降之外进一步流失生源。这会削弱公立学校，并可能引发对国际教育部门的不满。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 5)]]
+> 香港英基学校协会（English Schools Foundation，[[English Schools Foundation Hong Kong|ESF]]）等国际学校扩张并吸纳本地优秀学生，使本地英文中学和中文中学在出生率下降之外进一步[[Attrition|流失]]生源。这会削弱公立学校，并可能引发对国际教育部门的不满。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 5)]]
 
 ---
 

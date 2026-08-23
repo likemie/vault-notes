@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Soft Power]]"
   - "[[Progressive Education]]"
-  - "[[International Baccalaureate]]"
   - "[[Rote Learning]]"
   - "[[Dialogue in Education]]"
   - "[[One Country, Two Systems]]"
@@ -136,7 +135,7 @@ updated: 2026-07-13
 > - **学术考评主体** 高中学生与考评局，独立专题探究（IES）校本评估占[[Gaokao|高考]]总成绩的20%，以引导学生进行自我导向的实证课题探究。
 
 > [!pathways]- 实施路径
-> - **全球借鉴与制度落地** 借鉴[[International Baccalaureate|IB]]等全球课程元素，将其确立为毕业必修科目，成功在新高中学制中建立了高学分、高学术标准的地位。
+> - **全球借鉴与制度落地** 借鉴IB等全球课程元素，将其确立为毕业必修科目，成功在新高中学制中建立了高学分、高学术标准的地位。
 > - **时政研讨与多角度辩论** 摆脱了官方统编大纲束缚，教师利用报刊、网络和时事开展多角度争议讨论，极大地促进了本地认同与批判思维的形成。
 > - **政治接管与行政取缔** 在2019年社会风暴后，行政威慑长驱直入，通过大换血教材顾问、取缔IES并强推新大纲，迅速抹去了LS的专业痕迹（[[Argument_Vickers_2024_CE|Vickers, 2024, pp.141, 148]]）。
 

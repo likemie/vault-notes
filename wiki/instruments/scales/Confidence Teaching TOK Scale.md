@@ -17,10 +17,10 @@ response_format: "4 点李克特量表 (1 = 不自信, 4 = 非常自信)"
 tags: [scale, teacher-beliefs, self-efficacy]
 related_concepts:
   - "[[Theory of Knowledge]]"
-  - "[[International Baccalaureate]]"
   - "[[Self-Efficacy]]"
   - "[[Teacher Beliefs]]"
   - "[[Knowledge Questions]]"
+  - "[[International Baccalaureate]]"
   - "[[Class Size]]"
   - "[[Internal Consistency]]"
 related_theories:
@@ -47,7 +47,7 @@ updated: 2026-08-17
 > [!instrument-profile] Confidence Teaching [[Theory of Knowledge|TOK]] ([[Classical Test Theory|CTT]]) Scale
 > - **工具类型** 量表
 > - **开发者与年份** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]]。该量表是 "The TOK Survey"（教师卷 Survey A）的组成部分（题项 31-41）。
-> - **测量目的** 测量 [[International Baccalaureate|IB]] 教师在教授知识论（TOK）课程时的教学信心，作为评估教师[[Self-Efficacy|自我效能感]]与专业准备的指标。
+> - **测量目的** 测量 IB 教师在教授知识论（TOK）课程时的教学信心，作为评估教师[[Self-Efficacy|自我效能感]]与专业准备的指标。
 > - **实施方式** 自陈
 
 ---

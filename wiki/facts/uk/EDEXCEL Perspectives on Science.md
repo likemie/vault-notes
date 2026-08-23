@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - level/k12
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Scientism]]"
   - "[[Epistemology]]"
@@ -56,7 +55,7 @@ updated: 2026-07-05
 
 ## 课程设计
 
-> [!contrast-table] 与 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 的对比
+> [!contrast-table] 与 IB [[Theory of Knowledge|TOK]] 的对比
 > | 维度 | EDEXCEL Perspectives on Science | [[Theory of Knowledge\|IB TOK]] |
 > |---|---|---|
 > | **框架选择** | 留在学术学科内部（[[Scientism\|科学主义]]框架） | 创建超学科框架（学生中心） |

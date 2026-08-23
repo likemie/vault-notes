@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中用于追问个体与共同体如何获得、建构和审查知识的课程分类框架；它连接认知者、知识主张与知识领域，并随指南版本由四项扩展为八项。"
 type: concept
 domain: "curriculum"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,7 +17,6 @@ tags:
   - theme/critical-thinking
   - level/k12
 related_concepts:
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Areas of Knowledge]]"
   - "[[Analytic Framework]]"
@@ -58,7 +57,7 @@ updated: 2026-08-04
 ## 定义
 
 > [!def] 核心定义
-> 认知方式是 [[International Baccalaureate|IB]] [[Theory of Knowledge|知识论]]课程中的分类工具，用于追问我如何知道以及我们如何知道。它把认知者获取、组织、表达、保存和审查知识时调用的能力与经验转化为课程分析维度，并连接个人知识、共享知识、知识主张和[[Areas of Knowledge|知识领域]]。2013 年指南列出语言、感官知觉、情感、理性、想象、信仰、直觉和记忆八项认知方式。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 36)]]
+> 认知方式是 IB [[Theory of Knowledge|知识论]]课程中的分类工具，用于追问我如何知道以及我们如何知道。它把认知者获取、组织、表达、保存和审查知识时调用的能力与经验转化为课程分析维度，并连接个人知识、共享知识、知识主张和[[Areas of Knowledge|知识领域]]。2013 年指南列出语言、感官知觉、情感、理性、想象、信仰、直觉和记忆八项认知方式。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 36)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 认知方式描述认知者借助哪些能力和经验形成、表达并检验知识。

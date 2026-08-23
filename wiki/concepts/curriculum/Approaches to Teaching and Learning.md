@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭项目中的一套核心教学与学习方法，旨在通过培养思考、交流、研究等技能，支持核心组件的连贯性与跨学科学习。"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Concurrency of Learning]]"
   - "[[Theory of Knowledge]]"
   - "[[Creativity, Action, Service]]"
-  - "[[Extended Essay]]"
   - "[[IB Learner Profile]]"
   - "[[IB Diploma Programme]]"
 related_theories: []
@@ -57,7 +56,7 @@ updated: 2026-08-11
 > [!feature] 核心要素
 > - **通用技能底座** ATL 为学生提供研究、沟通、思考等工具，这些工具是连接不同学科以及核心组件（如 [[Theory of Knowledge|TOK]]、[[Creativity, Action, Service|CAS]]、EE）的基础。
 > - **连贯性支撑** 教师通过在课堂上协同规划和应用 ATL，能够显著支持核心课程的连贯性，帮助学生理解跨学科的内在联系 [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 221)]]。
-> - **与培养目标的联动** ATL 技能（如“思考”）直接服务于 [[International Baccalaureate|IB]] [[IB Learner Profile|学习者培养目标]]（如“思考者”），二者在日常教学中相辅相成。
+> - **与培养目标的联动** ATL 技能（如“思考”）直接服务于 IB [[IB Learner Profile|学习者培养目标]]（如“思考者”），二者在日常教学中相辅相成。
 
 > [!logic-map]- 要素关系
 > ```mermaid

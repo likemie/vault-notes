@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学与非科学的划界标准，主张科学理论的标志不是可被证实而是可被证伪，即理论必须明确什么经验证据将构成对它的反驳"
 type: concept
 domain: "research-methodology"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Postpositivism]]"
   - "[[Paradigm]]"
-  - "[[International Baccalaureate]]"
 related_theories:
   - "[[Duhem-Quine Thesis]]"
 related_methods:
@@ -129,4 +128,4 @@ updated: 2026-07-11
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书的哲学基础章节中介绍了证伪主义作为[[Postpositivism|后实证主义]][[Paradigm|范式]]的基础概念，将推测与反驳循环纳入科学发现逻辑。
-> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 教科书为案例，分析了证伪主义在[[Critical Thinking|批判性思维]]课程中被简化和误用的结构性问题，提出以不完全决定性和纽拉特的反基础主义[[Positivism|实证主义]]作为替代教学起点。
+> - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 教科书为案例，分析了证伪主义在[[Critical Thinking|批判性思维]]课程中被简化和误用的结构性问题，提出以不完全决定性和纽拉特的反基础主义[[Positivism|实证主义]]作为替代教学起点。

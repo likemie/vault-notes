@@ -6,7 +6,7 @@ aliases:
 summary: "课程理论的核心范式之一，由劳伦斯·斯滕豪斯（Stenhouse）提出。强调课程不是预设结果的流水线，而是师生在课堂中围绕探究原则与实践明智（Phronesis）共同展开的理解与对话过程。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Phronesis]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Curriculum as Product]]"
   - "[[Curriculum as Praxis]]"
@@ -51,7 +50,7 @@ updated: 2026-08-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以探究过程、开放对话与实践明智为核心的非控制性课程模式。
-> - **用途** 帮助研究者评估强调批判思考、反思审议与学生主体参与的课程（如 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程）。
+> - **用途** 帮助研究者评估强调批判思考、反思审议与学生主体参与的课程（如 IB [[Theory of Knowledge|TOK]] 课程）。
 > - **边界** 不等于无目标的混乱探究；它依靠严格的探究程序原则与理性批判标准。
 
 > [!citation-card]- 关键表述
@@ -122,7 +121,7 @@ updated: 2026-08-03
 > [!dev-timeline] 概念演变
 > - **1975 — 过程模式提出** 斯滕豪斯在《课程研究与开发引论》中创立过程模式。[[Argument_Darwish_2009_Queens|(Stenhouse, 1975)]]
 > - **1987 — 理论归类** 格伦迪将过程模式归结为基于[[Aristotle|亚里士多德]] *[[Phronesis]]* 的[[Praxis|实践]]利益[[Paradigm|范式]]。[[Argument_Darwish_2009_Queens|(Grundy, 1987)]]
-> - **2009 — [[Theory of Knowledge|TOK]] 定位评价** 达维什将 [[International Baccalaureate|IB]] TOK 课程成功定位为卓越的“作为过程的课程”。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 72–78)]]
+> - **2009 — [[Theory of Knowledge|TOK]] 定位评价** 达维什将 IB TOK 课程成功定位为卓越的“作为过程的课程”。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 72–78)]]
 
 ---
 
@@ -136,4 +135,4 @@ updated: 2026-08-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 评估 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程指南如何符合作为过程的课程[[Paradigm|范式]]。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 评估 IB [[Theory of Knowledge|TOK]] 课程指南如何符合作为过程的课程[[Paradigm|范式]]。

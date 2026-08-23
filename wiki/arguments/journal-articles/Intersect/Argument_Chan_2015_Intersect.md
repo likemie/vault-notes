@@ -24,6 +24,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Governance by Spin]]"
+  - "[[Creativity]]"
   - "[[Military-Industrial Black Hole]]"
   - "[[Ideological Capture of Science]]"
   - "[[Scientific Autarky]]"
@@ -58,7 +59,7 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -182,7 +183,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 >
 > 苏联技术的唯一客户是国防部，而国防部对军事硬件有极其特殊和狭窄的技术要求，几乎没有动力解密技术用于军工以外的开发。过度保密封锁将军事技术隔离在公众视野之外，最大限度地减少了从军事技术到民用经济的"衍生应用"（[[Governance by Spin|Spin]]-offs）。结果是：绝大多数创新被锁在实验室中，对民用经济的改善贡献微乎其微（p.4）。
 >
-> 将全部研究能力导向"使苏联成为一台全面战争机器"的极其狭隘目标，苏联军事工业部门变成了一个从经济中吸走巨大生产力和创造力的黑洞。这是 Castells 对[[Military-Industrial Black Hole]]的核心诊断。
+> 将全部研究能力导向"使苏联成为一台全面战争机器"的极其狭隘目标，苏联军事工业部门变成了一个从经济中吸走巨大生产力和[[Creativity|创造力]]的黑洞。这是 Castells 对[[Military-Industrial Black Hole]]的核心诊断。
 
 > [!chain-link] 从投入产出效率看军工黑洞
 > 美国军工虽然也消耗大量资源，但其国防承包商（如洛克希德、波音）同时为民用市场生产，军用技术常衍生出民用产品（互联网、GPS、半导体早期应用）。苏联军工系统则是一个完全封闭的循环：国家拨款 → 军事研发 → 军事应用 → 保密归档。这个闭环不产生民用经济回报，也不培育消费市场，更不培养面向市场需求的工程师文化。
@@ -315,7 +316,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > Original: Informationalization is a mode of development in which the main source of productivity lies in the qualitative capacity to optimize combination and use factors of production on the basis of knowledge and information.
 
 > [!citation-card]- [[Military-Industrial Black Hole|军工黑洞]]
-> 将其全部研究能力导向使苏联成为一台全面战争机器的极其狭隘的目标，苏联军事工业部门变成了一个黑洞，从苏联经济中吸走了巨大的生产力和创造力。（p.4）
+> 将其全部研究能力导向使苏联成为一台全面战争机器的极其狭隘的目标，苏联军事工业部门变成了一个黑洞，从苏联经济中吸走了巨大的生产力和[[Creativity|创造力]]。（p.4）
 >
 > Original: In directing all of its research capacities toward the extremely narrow goal of making the Soviet Union a total war machine, the Soviet military-industrial sector became a black hole that sucked away massive productive and creative energies from the Soviet economy.
 

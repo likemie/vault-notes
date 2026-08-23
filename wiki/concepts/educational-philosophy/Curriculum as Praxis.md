@@ -6,7 +6,7 @@ aliases:
 summary: "由雪莉·葛兰蒂（Shirley Grundy）基于弗莱雷批判哲学提出的课程范式。强调课程不仅是过程与探究，更必须包含对压迫制度的显性政治解构承诺，将批判意识觉醒与改变不公的社会变革行动（Praxis）作为核心。"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Critical Pedagogy]]"
   - "[[Theory of Knowledge]]"
-  - "[[International Baccalaureate]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -124,7 +123,7 @@ updated: 2026-08-03
 
 > [!dev-timeline] 概念演变
 > - **1987 — 理论构建** 雪莉·葛兰蒂出版《课程：产品、过程与[[Praxis|实践]]》，确立实践[[Paradigm|范式]]。[[Argument_Darwish_2009_Queens|(Grundy, 1987)]]
-> - **2009 — [[Theory of Knowledge|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用实践范式指出了 [[International Baccalaureate|IB]] TOK 课程“有过程无实践”的致命缺陷。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 78–81)]]
+> - **2009 — [[Theory of Knowledge|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用实践范式指出了 IB TOK 课程“有过程无实践”的致命缺陷。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 78–81)]]
 
 ---
 

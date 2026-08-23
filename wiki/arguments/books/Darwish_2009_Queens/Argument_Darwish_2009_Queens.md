@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Argument_Darwish_2009_Queens"
 argument_kind: "books"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -47,7 +47,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Freedom of the Learner]]"
   - "[[Reflective Thinking]]"
-  - "[[International Baccalaureate]]"
   - "[[Banking Model of Education]]"
   - "[[Socratic Elenchus]]"
   - "[[Learning by Doing]]"
@@ -74,10 +73,12 @@ related_concepts:
   - "[[Generative Themes]]"
   - "[[Decodification]]"
   - "[[Empty Knower]]"
+  - "[[Creativity]]"
   - "[[Codification]]"
   - "[[Epistemic Responsibility]]"
   - "[[Verbalism]]"
   - "[[Humility in Learning]]"
+  - "[[International Baccalaureate]]"
   - "[[Curriculum as Product]]"
   - "[[Positivism]]"
   - "[[Curriculum as Process]]"
@@ -124,7 +125,7 @@ related_persons:
 >  通过对比[[John Dewey|杜威]]的经验[[Growth|生长]]理论与[[Paulo Freire|弗莱雷]]的问题提出式教育，确立主动学习的核心在于恢复[[Freedom of the Learner|学习者的自由]]与[[Praxis|实践]]能动性 (pp. 4–8)。
 > - **[[Active Learning|主动学习]]三环节模型的构建**
 >  提出由切身经验/难题感知、“[[Reflective Thinking|反思性探究]]与对话”以及“变革性[[Praxis|实践]]行动”构成的三环节动态模型，以此作为评估教学有效性的[[Epistemology|认识论]]标准 (pp. 8–12)。
-> - **[[International Baccalaureate|IB]] [[Theory of Knowledge|知识论]]（TOK）课程的案例应用与困境**
+> - **IB [[Theory of Knowledge|知识论]]（TOK）课程的案例应用与困境**
 >  将三环节模型应用于 [[Theory of Knowledge|TOK]] 课程分析，指出其在促进反思性思维的同时，因评估标准化而陷入[[Banking Model of Education|储蓄式教育]]异化的理论疑局 (pp. 12–16)。
 
 ---
@@ -428,7 +429,7 @@ related_persons:
 
 > [!chain-link] 第4章逻辑推导链条
 > - **储蓄式教育的“[[Narration Sickness|叙事病]]”、空白知者与驯化逻辑**
->   弗莱雷解构将学生视为被动容器与“空白知者”（[[Empty Knower]]）的[[Banking Model of Education|储蓄式教育]]模型，揭示脱离总体性现实的断裂宣讲如何制造“[[Narration Sickness|叙事病]]”（Narration Sickness），消解受教者的创造力与批判好奇心，从而驯化受压迫者适应既有阶级秩序 (Freire, 2000, pp. 71–75; Darwish, 2009, pp. 45–46)。
+>   弗莱雷解构将学生视为被动容器与“空白知者”（[[Empty Knower]]）的[[Banking Model of Education|储蓄式教育]]模型，揭示脱离总体性现实的断裂宣讲如何制造“[[Narration Sickness|叙事病]]”（Narration Sickness），消解受教者的[[Creativity|创造力]]与批判好奇心，从而驯化受压迫者适应既有阶级秩序 (Freire, 2000, pp. 71–75; Darwish, 2009, pp. 45–46)。
 > - **提问式教育、[[Coding in Qualitative Research|编码]]/[[Decodification|解码]]与生成性主题探究**
 >   提出消解教师-学生二元对立的[[Problem-Posing Education|提问式教育]]（Problem-Posing Education），主张深入被压迫者的切身生活抽取“[[Generative Themes|生成性主题]]”（Generative Themes），通过“编码/[[Decodification|解码]]”（[[Codification]]/Decodification）分析，使教师-学生与学生-教师在我们思考（We think）的横向合作中共同探究现实矛盾 (Freire, 2000, pp. 80–86; Freire, 1973, p. 135; Darwish, 2009, pp. 46–48, p. 55)。
 > - **批判意识觉醒、打破沉默文化与实践（Praxis）**
@@ -581,7 +582,7 @@ related_persons:
 #### 章节概述
 
 > [!chapter-arc] 主动学习评估与课程整合线索
-> 将杜威的[[Educative Experience|教育性经验]]（Ch3）与弗莱雷的[[Problem-Posing Education|提问式教育]]及[[Praxis|实践]]（Ch4）作为双重理论标尺，对国际文凭组织（IBO）的哲学与《知识论》（TOK）课程指南展开全面的认识论评估。通过建立作为产物、作为过程与作为实践的三大课程范式，肯定了 TOK 课程在以认识者为中心和促进反思性探究上的过程模式成就，但同时指出了其缺乏真实社会变革行动（[[Praxis|Praxis]]）的致命断层，最终提出了整合杜威与弗莱雷思想的主动学习三位一体模型 (Darwish, 2009, pp. 64–84)。
+> 将杜威的[[Educative Experience|教育性经验]]（Ch3）与弗莱雷的[[Problem-Posing Education|提问式教育]]及[[Praxis|实践]]（Ch4）作为双重理论标尺，对[[International Baccalaureate|国际文凭组织]]（IBO）的哲学与《知识论》（TOK）课程指南展开全面的认识论评估。通过建立作为产物、作为过程与作为实践的三大课程范式，肯定了 TOK 课程在以认识者为中心和促进反思性探究上的过程模式成就，但同时指出了其缺乏真实社会变革行动（[[Praxis|Praxis]]）的致命断层，最终提出了整合杜威与弗莱雷思想的主动学习三位一体模型 (Darwish, 2009, pp. 64–84)。
 
 #### 核心论点结构
 

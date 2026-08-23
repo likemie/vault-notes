@@ -19,7 +19,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
-  - "[[International Baccalaureate]]"
   - "[[Teacher Beliefs]]"
   - "[[Hypothesis]]"
   - "[[Praxis]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[IB Learner Profile]]"
   - "[[Growth]]"
+  - "[[International Baccalaureate]]"
   - "[[Formative Assessment]]"
   - "[[Homework]]"
 related_theories:
@@ -89,7 +89,7 @@ issuing_organization: ""
 > TOK 教师高度认可该课程在培养学生[[Critical Thinking|批判性思维]]与跨学科连接上的价值。更重要的是，教授 TOK 成为重塑教师教学信念的专业发展[[Champ|场域]]，使其教学向以学生为中心和探究式发生转变。然而，这种具有高度[[Epistemology|认识论]]属性的课程在现实实施中，遭遇了评估主观性强、行政排课边缘化以及跨学科备课压力大等系统性阻力。
 
 > [!concept-lens] 阅读透镜
-> - **对象** [[International Baccalaureate|IB]] DP TOK 课程的教师与协调员视角。
+> - **对象** IB DP TOK 课程的教师与协调员视角。
 > - **张力** 高度的教育理念认同 vs. 现实行政与评估制度下的实施阻力。
 > - **贡献** 基于大规模跨国实证样本，揭示了“认识论课程”作为专业发展工具对[[Teacher Beliefs|教师信念]]的反向重塑作用。
 
@@ -116,7 +116,7 @@ issuing_organization: ""
 > - **第二阶段（质性[[Focus Group|焦点小组]]）** 基于问卷发现的问题，开展半结构化焦点[[Group Interview|小组访谈]]。运用逐行开放[[Coding in Qualitative Research|编码]]和恒定比较法，归纳出教学法转变、行政排课问题及评估困难等核心主题。
 
 > [!stat-cards] 样本与[[Reliability|信度]]快照
-> - **量化样本** $n=1,534$（960 名 TOK 教师，585 名 DP 协调员），涵盖英、法、西三种语言的全球 [[International Baccalaureate|IB]] 学校。
+> - **量化样本** $n=1,534$（960 名 TOK 教师，585 名 DP 协调员），涵盖英、法、西三种语言的全球 IB 学校。
 > - **质性样本** $n=33$（13男，20女），分别在澳大利亚（布里斯班）、荷兰（阿姆斯特丹）和美国（芝加哥）进行三场焦点小组访谈。
 > - **信度指标** “教授 TOK 自信心（[[Classical Test Theory|CTT]]）”量表表现出良好的[[Internal Consistency|内部一致性]]（Cronbach's $\alpha = .798$）。
 
@@ -227,7 +227,7 @@ issuing_organization: ""
 > 3. **教学行为反向重塑[[Teacher Beliefs|教师信念]]** 讲授 [[Theory of Knowledge|TOK]] 事实上成为一种高效的在职专业发展，持续增强了教师处理复杂问题的效能感。
 > 4. **制度化支持的脱节** TOK 的成功很大程度上建立在教师的热情之上，学校在排课时间、师资准备及评价工具上的系统性支持仍显薄弱。
 
-> [!implication]- 对 [[International Baccalaureate|IB]] 学校管理的启示
+> [!implication]- 对 IB 学校管理的启示
 > - **行政平权** 将 TOK 纳入常规白天课表，消除其“课外附加”的边缘感。
 > - **资源倾斜** 鉴于巨大的跨学科备课和主观评价压力，学校应为 TOK 教师（特别是新手）提供额外的联合教研时间和评分准则培训。
 
@@ -236,7 +236,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!voice] 关于教学理念的跨学科溢出
-> “我认为 [[Theory of Knowledge|TOK]] 也发展了教学法。我知道我在课堂上使用的方法[[Growth|成长]]了多少……当我开始沉浸在 [[International Baccalaureate|IB]] 理念中时，我发现了很多新事物。我发现它们是思考常规（thinking routines），一种结构化的探究方式。” (p. 179)
+> “我认为 [[Theory of Knowledge|TOK]] 也发展了教学法。我知道我在课堂上使用的方法[[Growth|成长]]了多少……当我开始沉浸在 IB 理念中时，我发现了很多新事物。我发现它们是思考常规（thinking routines），一种结构化的探究方式。” (p. 179)
 > 
 > *"I think the TOK also develops the pedagogy of teaching. I know how much I have grown when it comes to the methods that I use during classes... I discovered that they are thinking routines, so a structured way of inquiry."*
 
@@ -250,7 +250,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning] 方法论局限
-> - **样本自选偏误 (Self-selection Bias)** 选择回复[[Questionnaire|问卷]]和参加[[Focus Group|焦点小组]]的教师可能更具热情，未必能完全代表全球 [[International Baccalaureate|IB]] 教师的平均样态。（p. 174）
+> - **样本自选偏误 (Self-selection Bias)** 选择回复[[Questionnaire|问卷]]和参加[[Focus Group|焦点小组]]的教师可能更具热情，未必能完全代表全球 IB 教师的平均样态。（p. 174）
 > - **社会期望偏差 (Social Desirability)** 调查高度依赖教师的自我报告数据，受访者可能倾向于提供更符合 IB 官方期望或更正面的评价。同上
 
 ---

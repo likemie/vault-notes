@@ -3,14 +3,13 @@ title: Criterion-Referenced Test
 aliases:
   - 标准参照测验
   - 标准参照评估
-  - criterion-referenced test
   - criterion-referenced assessment
   - Criterion-Referenced
   - 标准参照
 summary: "以预先界定的标准或学习结果为判断依据，用于识别个体是否达标及其表现质量。"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +24,8 @@ related_concepts:
   - "[[Assessment Backwash]]"
   - "[[Homework]]"
   - "[[Constructive Alignment]]"
+  - "[[International Baccalaureate]]"
+  - "[[Confidence Interval]]"
   - "[[Item Analysis]]"
 related_persons:
   - "[[John Biggs]]"
@@ -35,10 +36,13 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
   - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
+related_methods:
+  - "[[Random Sampling]]"
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-24
 ---
 
 # Criterion-Referenced Test
@@ -190,13 +194,26 @@ updated: 2026-08-01
 
 > [!dev-timeline] 概念演变
 > - **1963 — 标准参照测验的提出** Glaser (1963) 区分常模参照和标准参照，把教学评估的重点从学生之间的比较转向预定目标的掌握情况。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011, Ch. 24.3)]]
+> - **1970–1975 年 — 进入跨国资格考试** [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）完整文凭以预定标准判定考生是否通过，不按当年考生比例配置合格人数。考试在考生增加、学校和语言扩展的同时保持年度判定，使标准参照从课程内评估进入跨国升学资格。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 67–68)]]
 > - **1999 — 与[[Constructive Alignment|建构性对齐]]结合** [[Argument_Biggs_1999_HERD|Biggs (1999)]] 把标准参照评估扩展为课程设计系统。课程目标用动词界定预期理解，教学活动促成相应行为，评估任务再依据质量层次判断学生表现；标准参照由此成为连接目标、活动和评估的关键环节。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 64–70)]]
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> |:---|:---|:---|:---|:---|:---|:---|
+> | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 67–68)]] | 1970–1975 年 [[International Baccalaureate\|IB]] 正式完整文凭考试 | 连续年度行政记录 | 考生数与通过率 | 完整文凭考生由 29 人增至 377 人；1971—1975 年通过率依次为 70%、63%、79%、80% 和 75% | — | 没有[[Random Sampling\|随机样本]]、[[Confidence Interval\|置信区间]]或后续表现数据，不能由通过率推断教学效果或标准绝对不变 |
 
 ---
 
 ## 应用案例
 
 > [!evidence-grid] 典型应用
+> - **跨国文凭判定** IB 完整文凭不预设通过者比例。考生规模增长时，通过率可以随实际达标情况由 63% 变化到 80%；单科证书与完整文凭又承担不同用途，前者主要支持免修或个人学习，后者作为完整大学入学资格。该案例说明标准参照必须把判定标准、资格用途和报告单位同时说清。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 67–68)]]
 > - **课程目标分级** 用不同认知动词和质量描述区分最高理解、充分理解、相当充分的理解与最低可接受的理解，再根据学生明确表现出的最高层次评定等级。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 64–66)]]
 > - **[[Constructive Alignment|建构性对齐]]** 以同一组目标行为贯通课程目标、教学／学习活动和评估任务，使学生面向评估的学习同时成为面向课程目标的学习。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 64–69)]]
 > - **掌握判断与切分点** 根据预定能力要求判断学生是否达到最低标准，并用 Angoff 或 Ebel 等方法确定切分点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011, Ch. 24.3)]]
@@ -206,5 +223,6 @@ updated: 2026-08-01
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
+> - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — 记录 IB 在六年试验中以标准参照方式判定完整文凭，并提供 1970—1975 年考生规模与年度通过率。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011)]] — 系统说明标准参照的达标逻辑、[[Item Analysis|题目分析]]要求、切分点设定与评分特异性。
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 区分标准模型与常模测量模型，并用标准参照评估连接课程目标、教学活动、评估任务和理解质量。

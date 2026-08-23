@@ -133,7 +133,7 @@ updated: 2026-08-22
 > - **1958 年　比较教育识别法国传统及其跨国影响** 尼古拉斯·汉斯（Nicholas Hans）把百科全书主义列为欧洲重要的世俗教育思想传统，并区分法国科学与理性脉络及其德国演变；受欧陆文化影响的拉丁美洲教育体系也据此形成各自的[[Educated Identity|受教育身份]]。[[Argument_Beech_2009_CE|Beech (2009, pp. 347–348)]]
 > - **1960 年　牛津课程改革把通识从一般知识转向学科方法** 牛津大学教育系提出横跨文理的四门专门科目和一个统整区块，用于宗教、体育、创意艺术以及学科方法与限度。通识程度开始由事实储量转向能否区分审美、道德、历史与科学判断。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 41–43)]]
 > - **1966 至 1968 年　英、美、法改革路线在约六门深度学科上汇合** 丹尼尔·贝尔（Daniel Bell）提出通过专门化实现通识教育；让·卡佩勒（Jean Capelle）批评法国考试把学生变成按题目交付知识样本的储存者，主张从十余个浅学领域缩减到约六门多样学科。英国试图扩大过窄的专门化，法国试图压缩百科全书课程，两条路线都把深度和多样性结合起来。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 39–43)]]
-> - **1960 年代后期　[[International Baccalaureate|IB]] 用六学科和[[Paradigmatic Learning|范例学习]]形成制度回应** 赫尔穆特·贝克尔（Hellmut Becker）的范例学习主张主动留下知识空白，以共同核心提供背景，再用少数选项深入研究学科方法。IB 据此用六学科维持跨领域分布，用科内深究防止六门课再次变成压缩的百科全书课程，并以[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）比较各学科的证据、方法与限度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–48)]]
+> - **1960 年代后期　IB 用六学科和[[Paradigmatic Learning|范例学习]]形成制度回应** 赫尔穆特·贝克尔（Hellmut Becker）的范例学习主张主动留下知识空白，以共同核心提供背景，再用少数选项深入研究学科方法。IB 据此用六学科维持跨领域分布，用科内深究防止六门课再次变成压缩的百科全书课程，并以[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）比较各学科的证据、方法与限度。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–48)]]
 > - **1990 年代　全球能力话语将百科全书主义塑造成改革对象** [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、世界银行（World Bank，WB）和联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO）推广能力发展与尊重多样性。阿根廷、巴西和智利的课程政策相继批评记忆、去语境化和割裂的分科传统。[[Argument_Beech_2009_CE|Beech (2009, pp. 353–356)]]
 > - **1990 年代以后　能力语言与百科全书结构形成混合课程** 巴西政策用三大跨学科领域重组课程表述，却在领域内部保留十四门传统科目。百科全书主义由公开的教育理想转变为可以隐藏在改革框架中的制度结构。[[Argument_Beech_2009_CE|Beech (2009, pp. 356–357)]]
 
@@ -141,7 +141,7 @@ updated: 2026-08-22
 
 ## 应用案例
 
-> [!case] [[International Baccalaureate|IB]] 以共同核心和深度选项限制内容覆盖
+> [!case] IB 以共同核心和深度选项限制内容覆盖
 > 六学科结构仍保留学科知识，也承认学生需要事实才能思考。每门课以概略共同核心建立术语、事实关系和较宽背景，再从若干典型主题中选择部分内容深入研究。学生由此有时间持续使用证据、解释、实验或论证，同时接受课程不可能穷尽整个知识体系。
 >
 > 课程改革的难点在于教师必须具有主动留下空白的勇气。Becker 1979 年回顾德国改革时指出，教师即使知道知识爆炸已使全面覆盖失去可能，仍可能按照旧有知识正典规划课堂，使共同核心与选项在实施中重新变成内容清单。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–45)]]
@@ -156,5 +156,5 @@ updated: 2026-08-22
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 追踪欧洲[[General Education|通识教育]]从多科目知识覆盖转向多种思维方式的过程，并以 [[International Baccalaureate|IB]] 的六学科、共同核心和深度选项呈现课程回应。
+> - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 追踪欧洲[[General Education|通识教育]]从多科目知识覆盖转向多种思维方式的过程，并以 IB 的六学科、共同核心和深度选项呈现课程回应。
 > - [[Argument_Beech_2009_CE|Beech (2009)]] 追踪全球教育话语在拉丁美洲的[[Transfer Translation Transformation|转译]]，揭示百科全书式分科如何在能力与跨学科改革语言中继续存在。

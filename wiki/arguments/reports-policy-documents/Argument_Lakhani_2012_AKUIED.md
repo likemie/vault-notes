@@ -22,7 +22,7 @@ title: "Argument_Lakhani_2012_AKUIED"
 argument_key: "Argument_Lakhani_2012_AKUIED"
 argument_display_title: "Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum"
 argument_kind: "conference-paper"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -35,14 +35,15 @@ related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
   - "[[Reflexivity]]"
+  - "[[Creativity]]"
   - "[[Learner Autonomy]]"
   - "[[Epistemology]]"
-  - "[[International Baccalaureate]]"
   - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Definition of Terms]]"
   - "[[Homework]]"
   - "[[International Education]]"
+  - "[[International Baccalaureate]]"
   - "[[Dialogue in Education]]"
   - "[[Growth]]"
   - "[[Heterogeneity]]"
@@ -76,12 +77,12 @@ updated: 2026-07-02
 > [[National Education Policy 2009 Pakistan|巴基斯坦 2009 年国家教育政策]]将"培养具备分析和原创思维能力的自力更生个体"列为核心目标之一（Ministry of Education, 2009, p. 11）。然而，实际运作中的课程和学校[[Praxis|实践]]并未能实现这一目标。既有的课程实施方式和教学常规无法有效培养学生的独立思考和批判分析能力。政策文本与实践之间的落差引出一个问题：如果国家政策期望课程培养自主思考者，那么已经内置了[[Critical Thinking|批判性思维]]成分的课程，是否以及如何在教学中实现这一目标？
 
 > [!claim] 核心主张
-> [[IB Diploma Programme|IB 文凭项目]]的[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程中，认知者通过扮演**提问者（questioning mind）**、**[[Reflexivity|反思性]]思考者（reflective thinker）**和**创造性沟通者（creative communicator）**三种角色来行使知识建构的自主性。这三种角色构成了一个完整的自主性认知循环。提问启动探究，反思进行深度加工，创造性表达完成知识输出。自主性的实现依赖两个条件的同时满足：批判性思维能力的建设，以及认知者对自身反思能力的自信。
+> [[IB Diploma Programme|IB 文凭项目]]的[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程中，认知者通过扮演**提问者（questioning mind）**、**[[Reflexivity|反思性]]思考者（reflective thinker）**和**[[Creativity|创造性]]沟通者（creative communicator）**三种角色来行使知识建构的自主性。这三种角色构成了一个完整的自主性认知循环。提问启动探究，反思进行深度加工，创造性表达完成知识输出。自主性的实现依赖两个条件的同时满足：批判性思维能力的建设，以及认知者对自身反思能力的自信。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 巴基斯坦卡拉奇一所私立学校 The Urban Academy 的 IBDP 项目中，三名第一年学生和一名 TOK 教师的[[Learner Autonomy|自主学习]]实践与感知。
 > - **张力** 国家教育政策号召培养自主思考者，但实际的课程运作未能实现；具有[[Epistemology|认识论]]训练成分的 TOK 课程在结构上为自主性预留了空间，但这一空间能否以及如何在实践中被填充，取决于认知者的能力和信心。
-> - **贡献** 将[[Learner Autonomy|学习者自主性]]研究从传统的语言学习领域扩展到 [[International Baccalaureate|IB]] 认识论课程情境，识别出认知者行使自主性的三种可观察角色，证明自主性依赖能力与信心的双条件机制，并提出自主的相互依存性（autonomous interdependence）：自主性是在社会互动中实现的有支持的独立。
+> - **贡献** 将[[Learner Autonomy|学习者自主性]]研究从传统的语言学习领域扩展到 IB 认识论课程情境，识别出认知者行使自主性的三种可观察角色，证明自主性依赖能力与信心的双条件机制，并提出自主的相互依存性（autonomous interdependence）：自主性是在社会互动中实现的有支持的独立。
 
 ---
 
@@ -149,7 +150,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > | **Ariana** | 15 | 从 [[International Baccalaureate\|IB]] 中学项目（MYP）过渡至 DP；此前在肯尼亚接受 O-level 课程教育 | 积极参与：主动发言、回应他人观点、在作业中尝试超出课堂内容的例子 | **主动探索型自主** 最完整的 [[International Baccalaureate\|IB]] 教育轨迹与跨国教育经历（肯尼亚 $\rightarrow$ 巴基斯坦），赋予其极高的课程准备度与积极探索能力。三者中年龄最小（p.146）。 |
 > | **Ayaan** | 19 | 完成巴基斯坦 Matriculation 考试，在软件公司工作后加入 IBDP | 替代性参与：课堂发言较少，但在阅读中深度反思，课余与教师单独探讨问题 | **深度反思型自主** 中学毕业后工作的间隔期（gap）赋予其不同的学习动机与[[Metacognition\|元认知]]深度，展现出非正式互动的自主性。三者中年龄最大（p.147）。 |
 > | **Sabaina** | 16 | 完成传统英式 O-level 体系（中等教育）后直接转入 IBDP | 依赖型参与：参与度较低，对学习能力存在不确定性，依赖外部确认与指导 | **受阻依赖型自主（反例）** 从传统应试体系向探究体系的过渡期，虽有基本认知能力，但因缺乏自我信心（self-confidence）导致自主实践受阻，构成了解析机制的关键反例（p.148）。 |
-> | **Simak** | — | 外国大学文学与经济学 B.A.，批判性与创造性思维 M.Ed.，五年教学经验 | 引导与[[Dialogue in Education\|对话]]：以兼职身份加入 The Urban Academy 担任 TOK 课程教师 | **自主空间的构建者** 通过以认知者为中心的对话式教学设计，为三位异质学生提供自主实践与元认知[[Growth\|成长]]的弹性边界（p.149）。 |
+> | **Simak** | — | 外国大学文学与经济学 B.A.，批判性与[[Creativity\|创造性]]思维 M.Ed.，五年教学经验 | 引导与[[Dialogue in Education\|对话]]：以兼职身份加入 The Urban Academy 担任 TOK 课程教师 | **自主空间的构建者** 通过以认知者为中心的对话式教学设计，为三位异质学生提供自主实践与元认知[[Growth\|成长]]的弹性边界（p.149）。 |
 
 > [!warrant]- 参与者[[Heterogeneity|异质性]]的分析价值
 > 三位学生不同的参与模式——Ariana 的主动探索、Ayaan 的课后深度追问、Sabaina 的自信不足——是将自主性的条件机制（能力与信心）从背景[[Variable|变量]]中分离出来的关键证据。如果三位学生背景相同且表现一致，就只能描述 TOK 中发生了什么，而无法解释什么条件下自主性能够或不能发展。
@@ -184,7 +185,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > [[Theory of Knowledge|TOK]] 课程以认知者处于中心位置、环绕[[Ways of Knowing|认知方式]]和[[Areas of Knowledge|知识领域]]的结构，为[[Learner Autonomy|学习者自主性]]提供了制度化的课程空间。但课程结构只设置可能性，可能性能否转化为现实取决于认知者的能力和信心。
 
 > [!chain-link] TOK 的结构特征与自主性空间
-> TOK 是[[International Baccalaureate|IB]] DP 三项核心要素中唯一直接以[[Epistemology|认识论]]为内容的课程。其核心设计是要求学生反思自身如何知道所知，而非记忆已知什么，这使其根本区别于以内容覆盖为逻辑的传统课程（p.173）。课程围绕**认知方式（ways of knowing）**和**知识领域（areas of knowledge）**两个维度展开，认知者（knower）在结构中占据中心位置（IBO, 2011）。这一结构意味着课程的核心活动是促使每个认知者对自己已经接受的知识和信念进行系统性质疑。
+> TOK 是[[IB Diploma Programme|IB DP]] 三项核心要素中唯一直接以[[Epistemology|认识论]]为内容的课程。其核心设计是要求学生反思自身如何知道所知，而非记忆已知什么，这使其根本区别于以内容覆盖为逻辑的传统课程（p.173）。课程围绕**认知方式（ways of knowing）**和**知识领域（areas of knowledge）**两个维度展开，认知者（knower）在结构中占据中心位置（IBO, 2011）。这一结构意味着课程的核心活动是促使每个认知者对自己已经接受的知识和信念进行系统性质疑。
 >
 > TOK 在结构上是一个已经包含[[Critical Thinking|批判性思维]]成分的课程。案例选择的逻辑是追问在这样一个已经为自主性预留了空间的课程中，认知者实际上以什么方式行使了自主性，以及什么条件决定了自主性[[Praxis|实践]]的质量。
 
@@ -199,7 +200,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ### 论证步骤二　三种角色：自主性的实证形态
 
 > [!claim] 步骤二主张
-> 认知者在 TOK 学习中扮演了三种角色：**提问者（questioning mind）**、**[[Reflexivity|反思性]]思考者（reflective thinker）**和**创造性沟通者（creative communicator）**。这三种角色是自主性认知循环的三个功能环节：提问启动自主探究，反思对探究所得进行深度加工，创造性表达将加工后的知识输出为可交流的形式。
+> 认知者在 TOK 学习中扮演了三种角色：**提问者（questioning mind）**、**[[Reflexivity|反思性]]思考者（reflective thinker）**和**[[Creativity|创造性]]沟通者（creative communicator）**。这三种角色是自主性认知循环的三个功能环节：提问启动自主探究，反思对探究所得进行深度加工，创造性表达将加工后的知识输出为可交流的形式。
 
 ---
 
@@ -298,7 +299,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **知识建构遵循提问、反思、表达三阶段认知循环** 认知者通过自发性提问启动自主探究，通过对搜索内容和生活经验的反思进行深度加工，通过课堂讨论和论文进行创造性表达。三种角色分别对应循环的三个功能环节（pp.175–177）。
+> 1. **知识建构遵循提问、反思、表达三阶段认知循环** 认知者通过自发性提问启动自主探究，通过对搜索内容和生活经验的反思进行深度加工，通过课堂讨论和论文进行[[Creativity|创造性]]表达。三种角色分别对应循环的三个功能环节（pp.175–177）。
 > 2. **自主性依赖能力与信心的双条件机制** [[Critical Thinking|批判性思维]]的知识和技能提供能力基础，但对自身反思和意义建构能力的自信是自主性从可能到实现的[[Necessary and Sufficient Conditions|必要条件]]（pp.177–178）。Sabaina 的案例证明：有能力而无信心时，认知者会退缩到模仿和最低要求的完成。
 > 3. **自主性本质上是社会性[[Praxis|实践]]** 阅读不是[[Learner Autonomy|自主学习]]经验的终点。即使在最独立的反思活动中，认知者仍依赖课堂互动、讨论和[[Dialogue in Education|对话]]来激发思维、检验观点和建立自信（p.178）。自主性是在社会支持中独立判断，而非独自学习。
 
@@ -307,7 +308,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 ## 关键引用
 
 > [!citation-card]- 探究者、思考者与创造者的统一
-> [[IB Learner Profile|学习者培养目标]]中提到的探究者、思考者、风险承担者、反思者和创造者角色及其实际表现，共同凸显了学习者的主动性、[[Critical Thinking|批判性思维]]、多元视角、创造性表达和自我反思。（pp.178–179）
+> [[IB Learner Profile|学习者培养目标]]中提到的探究者、思考者、风险承担者、反思者和创造者角色及其实际表现，共同凸显了学习者的主动性、[[Critical Thinking|批判性思维]]、多元视角、[[Creativity|创造性]]表达和自我反思。（pp.178–179）
 >
 > *Briefly, it can be asserted that, the roles of being Inquirers, Thinkers, Risk-takers, Reflective and Creative mentioned in the learner profile and also their enactments highlight the learners' initiative, critical thinking, diverse perspectives, creative expression and self-reflection.*
 

@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中把具体知识主张转化为开放且一般化认识论探究的核心问题形式，用于组织跨领域分析，并在并发学习中连接反思与实践。"
 type: concept
 domain: "curriculum"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Knowledge Production]]"
   - "[[Creativity, Action, Service]]"
+  - "[[Creativity]]"
   - "[[Extended Essay]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
@@ -61,7 +62,7 @@ updated: 2026-08-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 知识问题把对某一事实或事件的讨论提升为对[[Knowledge Production|知识生产]]、正当化与边界的探究。
-> - **用途** 它为跨学科比较提供共同问题，使学生能够考察不同领域中的证据、解释、方法、视角和确定性。同时它也为学生将个人经验（如[[Creativity, Action, Service|创意、行动、服务]]（Creativity, Activity, Service，CAS）中的社区服务）提炼为学术探究（如[[Extended Essay|拓展论文]]（Extended Essay，EE））提供了[[Epistemology|认识论]]桥梁。
+> - **用途** 它为跨学科比较提供共同问题，使学生能够考察不同领域中的证据、解释、方法、视角和确定性。同时它也为学生将个人经验（如[[Creativity, Action, Service|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）中的社区服务）提炼为学术探究（如[[Extended Essay|拓展论文]]（Extended Essay，EE））提供了[[Epistemology|认识论]]桥梁。
 > - **课程位置** 在 2013 年指南中，知识问题被置于课程大纲、评估目标、规定题目论文和展示任务的中心。
 > - **边界** 一般性需要保留具体分析支点。知识问题仍需通过知识主张、真实实例和领域材料得到发展。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 36, 38–40)]]
 

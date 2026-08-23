@@ -10,7 +10,7 @@ subtype: policy
 region: pakistan
 fact_region: "pakistan"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Praxis]]"
   - "[[Critical Thinking]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Learner Autonomy]]"
 related_methods:
@@ -65,7 +64,7 @@ updated: 2026-07-02
 ## 实施情况
 
 > [!warning] 政策与[[Praxis|实践]]的落差
-> 尽管政策文本设定了培养自主思维个体的目标，但实际运作中的课程和普遍的学校实践未能实现这一目标（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.173]]）。为理解如何为自主性赋权创造空间，需要实证证据来理解已经包含[[Critical Thinking|批判性思维]]成分的课程（如 [[International Baccalaureate|IB]] 的[[Theory of Knowledge|知识论]]）如何影响学习者的自主性。
+> 尽管政策文本设定了培养自主思维个体的目标，但实际运作中的课程和普遍的学校实践未能实现这一目标（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.173]]）。为理解如何为自主性赋权创造空间，需要实证证据来理解已经包含[[Critical Thinking|批判性思维]]成分的课程（如 IB 的[[Theory of Knowledge|知识论]]）如何影响学习者的自主性。
 
 ---
 

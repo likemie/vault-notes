@@ -6,10 +6,10 @@ aliases:
 summary: "保罗·弗莱雷解放教育理论的核心课程概念，指从受压迫者具体日常生存境遇与社会矛盾中提取出的、能够引发强烈理智与情感共鸣并促成批判意识觉醒的课程起点主题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - educational-philosophy
   - freire
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Culture of Silence]]"
   - "[[Critical Pedagogy]]"
-  - "[[International Baccalaureate]]"
   - "[[Active Learning]]"
   - "[[Decodification]]"
 related_theories: []
@@ -120,7 +119,7 @@ updated: 2026-08-02
 > [!dev-timeline] 概念演变
 > - **1963 — 昂吉科斯识字实验** [[Paulo Freire|弗莱雷]]在巴西东北部识字运动中提取 17 个生成性词汇（如 Tijolo/泥砖, Salário/工资）。[[Argument_Darwish_2009_Queens|(Freire, 1973; Darwish, 2009, p. 48)]]
 > - **1970 — 理论体系化** 在《被压迫者教育学》中将生成性主题升华为[[Critical Pedagogy|批判教育学]]的核心课程理论。[[Argument_Darwish_2009_Queens|(Freire, 2000, p. 96)]]
-> - **2009 — 课程批判应用** 达维什在学位论文中将其作为评估 [[International Baccalaureate|IB]] 课程[[Active Learning|主动学习]]真实性的分析工具。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 47)]]
+> - **2009 — 课程批判应用** 达维什在学位论文中将其作为评估 IB 课程[[Active Learning|主动学习]]真实性的分析工具。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 47)]]
 
 ---
 

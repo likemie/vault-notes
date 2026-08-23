@@ -9,22 +9,32 @@ subtype: project
 region: europe
 fact_region: "europe"
 fact_kind: "project"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#e5e7eb"
 tags:
   - region/europe
   - theme/comparative-education
   - theme/curriculum-reform
   - theme/examinations
-related_concepts: []
+related_concepts:
+  - "[[International Schools]]"
+  - "[[International Baccalaureate]]"
+  - "[[Research Translation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Action Research]]"
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Gerard Renaud]]"
+  - "[[Alec Peterson]]"
+related_facts:
+  - "[[International Schools Examination Syndicate]]"
+  - "[[1967 Sevres International Conference on the IB]]"
+  - "[[Founding of the International Baccalaureate]]"
+related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
 confidence: medium
 status: active
 created: 2026-08-22
@@ -40,7 +50,7 @@ updated: 2026-08-22
 > [!event-context] 项目档案
 > - **项目名称** 牛津—欧洲委员会课程与考试研究（Oxford Council of Europe Studies in Curriculum and Examinations，OCESCE）。
 > - **发起机构** 牛津大学教育系与欧洲委员会。
-> - **负责人** 比较教育导师威廉·霍尔斯（W. D. Halls）负责实施，并随后成为国际学校考试辛迪加（International Schools Examination Syndicate，ISES）及国际文凭组织（International Baccalaureate Organization，IBO）的主要顾问。
+> - **负责人** 比较教育导师威廉·霍尔斯（W. D. Halls）负责实施，并随后成为[[International Schools Examination Syndicate|国际学校考试辛迪加]]（[[International Schools]] Examination Syndicate，ISES）及[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization，IBO）的主要顾问。
 > - **研究对象** 欧洲委员会成员国的高中课程和考试制度，成果以 OCESCE 系列出版。
 > - **与国际文凭的关系** 项目使牛津团队能够把各国课程改革、学科要求和考试趋势带入国际文凭（International Baccalaureate，IB）的可行性研究与制度设计。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 21–22)]]
 
@@ -80,11 +90,11 @@ updated: 2026-08-22
 > [!finding-cards] 项目影响
 > - **知识基础** OCESCE 为国际课程设计提供成员国高中课程与考试的比较背景。
 > - **路线选择** 比较材料使 IB 能够有意识地选择改革型试验，而非简单拼合现行制度。
-> - **考试能力** Halls 及牛津学科专家把比较研究转化为考试说明、样题和首批考官资源。
+> - **考试能力** Halls 及牛津学科专家把比较[[Research Translation|研究转化]]为考试说明、样题和首批考官资源。
 > - **组织背书** 牛津教育系的研究与人员投入增强了基金会、大学和试验学校对项目连续性的信心。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 21–31)]]
 
 > [!boundary]- 项目作用的边界
-> OCESCE 提供比较资料、学科专家和考试设计资源，课程路线由 ISES／IBO 团队结合学校问题、各国改革方案、基金会条件及大学承认风险共同决定。比较项目的作用集中在知识与人员支持，课程结构和资格政策还取决于更广泛的执行联盟。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 21–31)]]
+> OCESCE 提供比较资料、学科专家和考试设计资源，课程路线由 [[International Schools Examination Syndicate|ISES]]／IBO 团队结合学校问题、各国改革方案、基金会条件及大学承认风险共同决定。比较项目的作用集中在知识与人员支持，课程结构和资格政策还取决于更广泛的执行联盟。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 21–31)]]
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "一种协调理解、行动与享受能力的完整发展理念，把智识学习与社会、道德、审美、身体和精神经验纳入共同教育目标。"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Creativity, Action, Service]]"
   - "[[Theory of Knowledge]]"
   - "[[Praxis]]"
+  - "[[Creativity]]"
   - "[[Extended Essay]]"
 related_theories: []
 related_methods: []
@@ -117,7 +118,7 @@ updated: 2026-08-23
 > 认识环境可以借助学科解释和判断，作用于环境还需要制作、组织、参与、服务和承担后果的经验。
 
 > [!claim] Peterson, A. D. C.
-> **行动能力需要超出学科解释的课程经验** 部分学科大纲包含创造性活动，创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，CASS）也通过文凭要求保护行动和服务时间，因此学生不会只在课堂上解释世界。Peterson 仍明确认为力度不足。CASS 能保证经验入口，却不能证明学生已经形成持续改变物质或社会环境的能力，也没有把真实社会作用统一转化为可外部评分的结果。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 58)]]
+> **行动能力需要超出学科解释的课程经验** 部分学科大纲包含[[Creativity|创造性]]活动，创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，CASS）也通过文凭要求保护行动和服务时间，因此学生不会只在课堂上解释世界。Peterson 仍明确认为力度不足。CASS 能保证经验入口，却不能证明学生已经形成持续改变物质或社会环境的能力，也没有把真实社会作用统一转化为可外部评分的结果。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 58)]]
 
 ---
 
@@ -149,7 +150,7 @@ updated: 2026-08-23
 > - **难以验证** 学生是否真正享受课程、能否持续改变环境，以及兴趣能否转化为成年后的智识生活，无法从文凭完成情况直接推出。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 57–59)]]
 
 > [!warning] Peterson 对结果证据保持明确保留
-> 学生协商会议中的有限接触显示，参与者通常更喜欢 [[International Baccalaureate|IB]] 课程而非学校提供的替代方案。Peterson 同时说明自己没有证明，观察也无法确认当下兴趣能否长期延续。全人教育在这里首先是课程设计和持续审查的规范目标，不能被写成已经获得验证的项目成效。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 59)]]
+> 学生协商会议中的有限接触显示，参与者通常更喜欢 IB 课程而非学校提供的替代方案。Peterson 同时说明自己没有证明，观察也无法确认当下兴趣能否长期延续。全人教育在这里首先是课程设计和持续审查的规范目标，不能被写成已经获得验证的项目成效。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, p. 59)]]
 
 ---
 

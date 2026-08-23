@@ -8,7 +8,7 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 28
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -25,7 +25,9 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Variable]]"
   - "[[Praxis]]"
+  - "[[Creativity]]"
   - "[[School Leadership]]"
+  - "[[IB Diploma Programme]]"
   - "[[Operationalization]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -111,11 +113,11 @@ updated: 2026-08-03
 > - **前提二** 教师倾向于将批判性思维视为仅与高成就学生相关的能力，尽管证据表明批判性思维对所有学生都有益（Dweck, 2002; Halpern, 2003; Zohar & Dori, 2003）。
 >   > [!evidence-grid]- 证据
 >   > - **新南威尔士州** 批判性思维主要通过资优班、选拔性学校和选拔性分流来提供，实际效果是将批判性思维教育保留给通过标准化测试被归类为高成就者的学生（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 251]]）。
->   > - **维多利亚州** 批判性思维被整合为跨学科"批判与创造性思维"能力，但由于缺乏专门的课程和教师培训，其实施高度依赖个别教师和[[School Leadership|学校领导]]的意愿（p.5）。
+>   > - **维多利亚州** 批判性思维被整合为跨学科"批判与[[Creativity|创造性]]思维"能力，但由于缺乏专门的课程和教师培训，其实施高度依赖个别教师和[[School Leadership|学校领导]]的意愿（p.5）。
 > - **推导** 隐性融入路径在制度层面缺乏保障机制。它依赖教师个人意愿（前提二），且在课程压力下容易被挤占（前提一）。因此，即使从理论上隐性融入可以运作，在实践中它往往导致批判性思维教育的不均衡提供，弱势学生更可能被排除在外。
 
 > [!proposition-chain]- 延伸命题
-> - **推论一（源自核心命题一）** 在拥挤的课程格局中设置一门独立的批判性思维课程（如 ToK），并配备专门培训的教师，是提高全体学生批判性思维技能的有效策略。[[International Baccalaureate|IB]] DP 的实践为此提供了实证案例：ToK 作为独立课程为学生提供了不受学科内容复制压力影响的批判性思维实践空间（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 259]]）。
+> - **推论一（源自核心命题一）** 在拥挤的课程格局中设置一门独立的批判性思维课程（如 ToK），并配备专门培训的教师，是提高全体学生批判性思维技能的有效策略。[[IB Diploma Programme|IB DP]] 的实践为此提供了实证案例：ToK 作为独立课程为学生提供了不受学科内容复制压力影响的批判性思维实践空间（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 259]]）。
 > - **推论二（源自核心命题二和三）** 即使开设了独立课程，批判性思维教学的效果仍取决于学校的实施方式。[[Case Study|案例研究]]显示，不同学校对同一门 ToK 课程的诠释和[[Operationalization|操作化]]差异很大——有的学校将 ToK 视为全校批判性思维计划的核心，有的学校则过度依赖全班讨论而缺乏目的性教学（[[Argument_Cole_2015_AJE|Cole et al., 2015, pp. 256–257]]）。
 
 > [!exegesis]- 教育研究例子
@@ -171,4 +173,4 @@ updated: 2026-08-03
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 [[International Baccalaureate|IB]] DP 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]检验显性[[Critical Thinking|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 [[IB Diploma Programme|IB DP]] 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]检验显性[[Critical Thinking|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。

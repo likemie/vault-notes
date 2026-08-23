@@ -8,7 +8,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"
   - "[[Critical Pedagogy]]"
-  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Habituation]]"
 related_theories: []
@@ -192,7 +191,7 @@ updated: 2026-07-25
 > - **1930年代（意识形态全面摒弃）** 苏联因其自下而上的民主成长观与阶级意识形态教育发生深刻冲突，全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]，将杜威的探究、对话与生长重构为三环节主动学习模型，并审查 [[International Baccalaureate|IB]] [[Theory of Knowledge|TOK]] 课程。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]，将杜威的探究、对话与生长重构为三环节主动学习模型，并审查 IB [[Theory of Knowledge|TOK]] 课程。
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 运用 Cowen 3T 框架拆解杜威思想在民国中国1919–1928年的转移、转译与转化机制。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 分析杜威思想在建国后中国教育话语中的三重变形与政治重构。
 > - [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] — 探究1928年杜威访苏及[[Progressive Education|进步教育]]在美苏[[Cultural Diplomacy|文化外交]]中的交锋与断裂。

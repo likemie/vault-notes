@@ -9,7 +9,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,8 @@ related_persons:
   - "[[Gerard Renaud]]"
   - "[[John Goormaghtigh]]"
 related_facts:
+  - "[[International School of Geneva]]"
+  - "[[International Schools Association]]"
   - "[[Founding of the International Baccalaureate]]"
   - "[[1967 Sevres International Conference on the IB]]"
 related_arguments:
@@ -53,7 +55,7 @@ updated: 2026-08-17
 > [!fact-profile] 组织档案
 > - **组织名称** [[International Schools|国际学校]]考试辛迪加（International Schools Examination Syndicate，ISES）。
 > - **时间与地点** 1964 年 6 月在瑞士日内瓦开始非正式运作，1965 年 1 月依瑞士法律注册为协会。
-> - **组织来源** 由日内瓦[[International Schools|国际学校]]（École internationale de Genève，Ecolint）教师倡议、国际学校协会（International Schools Association，ISA）项目和日内瓦国际事务支持者网络共同发展而来。
+> - **组织来源** 由日内瓦[[International Schools|国际学校]]（[[International School of Geneva|École internationale de Genève]]，Ecolint）教师倡议、[[International Schools Association|国际学校协会]]（International Schools Association，ISA）项目和日内瓦国际事务支持者网络共同发展而来。
 > - **历史位置** ISES 是[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）创立阶段的独立法律与治理主体。它负责把课程讨论转化为能够筹资、聘员、开发考试、检查学校并争取资格承认的连续项目。
 > - **名称转型** 组织于 1967 年采用国际文凭办公室（International Baccalaureate Office，IBO）名称，原有项目、人员和治理关系在新名称下延续。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 18–24)]]
 
@@ -71,7 +73,7 @@ updated: 2026-08-17
 >
 > - **1962–1964 年　教师合作形成项目母体**
 >
->   [[Bob Leach|鲍勃·利奇]]（Bob Leach）组织社会研究教师讨论国际历史课程，德斯蒙德·科尔-贝克（Desmond Cole-Baker）在 Ecolint 内建立支持者网络。工作组首次持续使用[[International Baccalaureate|国际文凭]]名称，并通过 UNESCO and ISA 合同把教师问题带入跨校会议。资金和行政仍以单次会议为单位，项目没有独立执行能力。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–19)]]
+>   [[Bob Leach|鲍勃·利奇]]（Bob Leach）组织社会研究教师讨论国际历史课程，德斯蒙德·科尔-贝克（Desmond Cole-Baker）在 [[International School of Geneva|Ecolint]] 内建立支持者网络。工作组首次持续使用[[International Baccalaureate|国际文凭]]名称，并通过 UNESCO and [[International Schools Association|ISA]] 合同把教师问题带入跨校会议。资金和行政仍以单次会议为单位，项目没有独立执行能力。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–19)]]
 >
 > - **1964–1965 年　独立法律身份与研究资金形成**
 >
@@ -103,7 +105,7 @@ updated: 2026-08-17
 > | **福特基金** | 在 Oxford 和美国大学理事会作出明确投入后，承担[[Action Research\|行动研究]]风险。 | 把课程、考试、学校招募、家长风险和大学承认推进为小规模真实试验。 | 项目能否取得大学承认并在实践中运行仍需塞夫尔会议及后续考试验证。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 18–24)]] |
 
 > [!case] 二十世纪基金把外部报告和学校调查嵌入资助
-> 《日内瓦论坛报》编辑、二十世纪基金受托人乔治-亨利·马丁（Georges-Henri Martin）把 ISES 带入基金会视野。基金会委托马丁·梅耶（Martin Mayer）撰写可行性调查结果，并资助 Mayer and Ecolint 教师吉恩·沃拉克（Gene Wallach）访问可能采用项目的国际学校。资金因而同时产生行政能力和外部检验证据，学校的课程需求、升学方向与采用意愿也开始进入组织决策。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 20–22)]]
+> 《日内瓦论坛报》编辑、二十世纪基金受托人乔治-亨利·马丁（Georges-Henri Martin）把 ISES 带入基金会视野。基金会委托马丁·梅耶（Martin Mayer）撰写可行性调查结果，并资助 Mayer and [[International School of Geneva|Ecolint]] 教师吉恩·沃拉克（Gene Wallach）访问可能采用项目的国际学校。资金因而同时产生行政能力和外部检验证据，学校的课程需求、升学方向与采用意愿也开始进入组织决策。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 20–22)]]
 
 > [!case] Café de Remor 外的凌晨谈话把兼职困境转化为全职安排
 > 一次令人挫折的行政会议结束后，Desmond Cole、Harlan Hanson and [[Alec Peterson]] 凌晨一点在日内瓦 Café de Remor 外继续讨论。三人判断，没有人全职承担，项目便无法启动。Alec Peterson 原计划在学术休假期间前往伯克利教学，Harlan Hanson 随即协调伯克利教育学院，把教学压缩到 1967 年夏季一个学期。新的时间安排使 Alec Peterson 可以从 1966 年末起集中近一年推进项目。随后，他与 Harlan Hanson 在纽约同谢普·斯通（Shep Stone）会谈约一小时，完成福特基金 300,000 美元资助的最后确认。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 23–24)]]
@@ -123,7 +125,7 @@ updated: 2026-08-17
 >
 > | 行动者 | 组织位置与资源 | 对 ISES 的具体贡献 |
 > |:---|:---|:---|
-> | **[[John Goormaghtigh\|约翰·戈尔马蒂赫]]（John Goormaghtigh）** | Ecolint 董事会主席、卡内基国际和平基金会欧洲办事处主任及国际律师。 | 接受 ISES 主席职务后不久辞去 Ecolint 主席，集中领导 ISES／IBO；以跨文化协调和法律经验维持治理连续性，任理事会主席至 1980 年。 |
+> | **[[John Goormaghtigh\|约翰·戈尔马蒂赫]]（John Goormaghtigh）** | [[International School of Geneva\|Ecolint]] 董事会主席、卡内基国际和平基金会欧洲办事处主任及国际律师。 | 接受 ISES 主席职务后不久辞去 Ecolint 主席，集中领导 ISES／IBO；以跨文化协调和法律经验维持治理连续性，任理事会主席至 1980 年。 |
 > | **乔治·潘绍（Georges Panchaud）** | 洛桑大学教育学教授。 | 成为最早加入项目、具有国际声誉和联系的教育学者，为教师网络增加专业信誉。 |
 > | **让·西奥蒂（Jean Siotis）** | 卡内基欧洲办事处希腊籍助理主任。 | 参加理事会并主持第一届考试委员会，负责 Ecolint 当代史试验考试。 |
 > | **[[Gerard Renaud]] and Halls** | Ecolint 哲学教师与 Oxford 比较教育研究者。 | 分别推进课程结构与学科大纲、比较课程研究、考试性质说明和样题。 |
@@ -132,7 +134,7 @@ updated: 2026-08-17
 > | **Ruth Bonner and Lucette Donche** | Geneva 办公室行政与财务人员。 | 把会议之间的文件、联络、账务和日常协调转化为持续行政工作。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 19–24, 26–28)]] |
 
 > [!case] 国际扩员同时增加改革资源并改变原始权力分布
-> 理事会新增让·卡佩勒（Jean Capelle）、阿廷盖夫人（Madame Hatinguais）和赫尔穆特·贝克尔（Hellmut Becker）等国家课程改革者。他们把 [[International Baccalaureate|IB]] 视为检验本国改革建议的跨国试验场。1966 至 1967 年又加入安德伦博士（Dr Andren）、穆罕默德·法西（Mohammed El Fasi）、海因茨·菲舍尔-沃尔珀特（Heinz Fischer-Wollpert）、汉基勋爵（Lord Hankey）、森特扎·卡朱比（Senteza Kajubi）、查尔斯·萨阿德（Charles Sa'd）和扎科娃夫人（Madame Zakowa），分别连接欧洲、北非、东非、中东和东欧的大学、学校、外交与教育行政网络。代表性的扩大提高了项目获得学校和政府支持的可能，也削弱了日内瓦原始小组的相对控制。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 24–26)]]
+> 理事会新增让·卡佩勒（Jean Capelle）、阿廷盖夫人（Madame Hatinguais）和赫尔穆特·贝克尔（Hellmut Becker）等国家课程改革者。他们把 IB 视为检验本国改革建议的跨国试验场。1966 至 1967 年又加入安德伦博士（Dr Andren）、穆罕默德·法西（Mohammed El Fasi）、海因茨·菲舍尔-沃尔珀特（Heinz Fischer-Wollpert）、汉基勋爵（Lord Hankey）、森特扎·卡朱比（Senteza Kajubi）、查尔斯·萨阿德（Charles Sa'd）和扎科娃夫人（Madame Zakowa），分别连接欧洲、北非、东非、中东和东欧的大学、学校、外交与教育行政网络。代表性的扩大提高了项目获得学校和政府支持的可能，也削弱了日内瓦原始小组的相对控制。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 24–26)]]
 
 > [!contrast-table] 委员会膨胀之后形成较清晰的责任结构
 >
@@ -183,7 +185,7 @@ updated: 2026-08-17
 > - **[[Alec Peterson]] 的合作救援叙事** 全职安排由 Desmond Cole、Harlan Hanson and Alec Peterson 在共同判断项目无法继续兼职运行后形成，Oxford 和美国大学理事会提供的是挽救项目所需的时间与信誉。两种叙事都记录了相同的组织变化：日内瓦兼职教师小组的相对控制下降，执行权转向具有全职时间和机构资源的跨国联盟。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 22–24)]]
 
 > [!boundary]- 组织边界
-> ISES 是 IB 创立时期的组织载体，不等同于 IB 课程本身，也不同于服务范围更广的 ISA。1967 年的名称变化延续了原有项目和治理关系，同时标志着组织任务已经超出为[[International Schools|国际学校]]设计考试，开始承担完整文凭、学校试验与资格承认的协调。IBO 后续的长期治理、正式考试和全球扩展属于其下一阶段组织史。
+> ISES 是 IB 创立时期的组织载体，不等同于 IB 课程本身，也不同于服务范围更广的 [[International Schools Association|ISA]]。1967 年的名称变化延续了原有项目和治理关系，同时标志着组织任务已经超出为[[International Schools|国际学校]]设计考试，开始承担完整文凭、学校试验与资格承认的协调。IBO 后续的长期治理、正式考试和全球扩展属于其下一阶段组织史。
 
 ---
 
@@ -196,5 +198,5 @@ updated: 2026-08-17
 > | [[Founding of the International Baccalaureate]] | 事件 | ISES 是把教师倡议转化为资格制度的组织载体。 |
 > | [[1967 Sevres International Conference on the IB]] | 事件 | ISES／IBO 在会议上提交课程、考试与六年试验方案。 |
 > | [[International Baccalaureate]] | 概念 | ISES 负责早期课程和考试项目的制度化。 |
-> | [[International Schools]] | 概念 | Ecolint and ISA 提供教师网络和初始项目空间，也因自身能力边界推动独立组织形成。 |
+> | [[International Schools]] | 概念 | [[International School of Geneva\|Ecolint]] and [[International Schools Association\|ISA]] 提供教师网络和初始项目空间，也因自身能力边界推动独立组织形成。 |
 > | [[John Goormaghtigh]] | 人物 | 长期主持理事会并提供国际法律与治理连续性。 |

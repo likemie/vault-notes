@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 140
+argument_related_count: 141
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Academic Freedom]]"
   - "[[University Motto]]"
+  - "[[Creativity]]"
   - "[[Externalization]]"
   - "[[Self-Efficacy]]"
   - "[[Certainty of Knowledge]]"
@@ -658,7 +659,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 > 
 > **3. 探究世界** — 学习者应保持开放的心态和自由的探究精神：观察、提问、辩论、挑战既有知识和权威（老师和专家）、自我表达。
 > 
-> **4. 理解并掌握世界作为学习的终极目标** — 最高成就表现为个人洞见、创造力、发现和问题解决。"即使那些在日常课堂中取得较小成就的普通学习者——也会因他们的新鲜想法、有深度的提问和回答、新颖的解决方案——以及实际上任何形式的自我表达——而受到奖励和庆祝"(p.47)。
+> **4. 理解并掌握世界作为学习的终极目标** — 最高成就表现为个人洞见、[[Creativity|创造力]]、发现和问题解决。"即使那些在日常课堂中取得较小成就的普通学习者——也会因他们的新鲜想法、有深度的提问和回答、新颖的解决方案——以及实际上任何形式的自我表达——而受到奖励和庆祝"(p.47)。
 
 > [!tip]- 关键洞察
 > 注意整个西方学习者模型的方向性：**从学习者指向外部世界**。心灵的各项功能——推理、好奇、探究、批判——全部投向学习者**之外**的对象。

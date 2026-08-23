@@ -36,8 +36,24 @@
               "icon": "lucide-file",
               "title": "Argument_RoyalSociety_2026_ScienceForSociety"
             }
+          },
+          {
+            "id": "3dc6cd1cf7f5c2a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/arguments/journal-articles/Creativity Research Journal/Argument_Runco_2026_CRJ.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Argument_Runco_2026_CRJ"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,15 +224,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "3dc6cd1cf7f5c2a4",
   "lastOpenFiles": [
+    "wiki/persons/uk/Louis Mountbatten.md",
+    "wiki/facts/global/United World Colleges.md",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch05.md",
+    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch04.md",
+    "wiki/concepts/higher-education/International Qualification Recognition.md",
+    "wiki/persons/uk/Alec Peterson.md",
+    "wiki/arguments/journal-articles/Creativity Research Journal/Argument_Runco_2026_CRJ.md",
+    "wiki/facts/global/1976 Hague Intergovernmental Conference on the International Baccalaureate.md",
     "sources/Runco_2026_CRJ/figures",
     "sources/Runco_2026_CRJ/Runco_2026_CRJ.md",
     "sources/Runco_2026_CRJ/Runco_2026_CRJ.pdf",
     "sources/Runco_2026_CRJ",
     "sources/Runco_2026_CRJ.md",
     "sources/Runco_2026_CRJ.pdf",
-    "wiki/arguments/journal-articles/Creativity Research Journal/Argument_Runco_2026_CRJ.md",
     "wiki/arguments/journal-articles/Creativity Research Journal",
     "wiki/concepts/educational-psychology/Creativity.md",
     "tmp/pdfs/ch04_hague/page-115.png",
@@ -236,7 +259,6 @@
     "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
     "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
     "wiki/concepts/sociology-of-education/Deficit Model of Science Communication.md",
-    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch04.md",
     "wiki/facts/uk/Big Butterfly Count.md",
     "wiki/facts/uk/Dippy on Tour.md",
     "wiki/facts/uk/Public Attitudes to Science.md",
@@ -249,12 +271,6 @@
     "tmp/pdfs/ch4_review/contact_74_85.jpg",
     "tmp/pdfs/ch4_review/contact_61_73.jpg",
     "tmp/pdfs/ch4_review/page-115.jpg",
-    "tmp/pdfs/ch4_review",
-    "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch03.md",
-    "wiki/concepts/higher-education/International Qualification Recognition.md",
-    "wiki/facts/global/International Baccalaureate Six-Year Experiment.md",
-    "wiki/concepts/educational-philosophy/Whole Person Education.md",
-    "wiki/concepts/educational-philosophy/General Education.md",
-    "scripts/tests/__pycache__/test_wiki_linker.cpython-313.pyc"
+    "tmp/pdfs/ch4_review"
   ]
 }

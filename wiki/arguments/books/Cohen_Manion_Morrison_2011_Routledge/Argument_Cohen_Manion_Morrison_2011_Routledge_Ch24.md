@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_display_title: "Research Methods in Education · Ch24"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Pre-test and Post-test]]"
   - "[[Achievement and Aptitude Tests]]"
+  - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Locus of Control]]"
   - "[[Praxis]]"
@@ -68,6 +69,7 @@ related_concepts:
   - "[[Internal Consistency]]"
   - "[[Operationalization]]"
   - "[[Professional Judgment]]"
+  - "[[Divergent Thinking]]"
   - "[[Dialogue in Education]]"
   - "[[Test Scoring and Weighting]]"
   - "[[Rating Scale]]"
@@ -130,7 +132,7 @@ updated: 2026-07-26
 > | anxiety | 焦虑 | aptitude | [[Achievement and Aptitude Tests\|能力倾向]] |
 > | attainment | 学业成绩 | attitudes and values | 态度与价值观 |
 > | behavioural disorders | 行为障碍 | competence-based assessment | 能力本位评估 |
-> | computer-based assessment | 计算机化评估 | creativity | 创造力 |
+> | computer-based assessment | 计算机化评估 | [[Creativity]] | 创造力 |
 > | [[Critical Thinking\|critical thinking]] | 批判思维 | cross-cultural adjustment | 跨文化适应 |
 > | depression | 抑郁 | diagnostic assessment | 诊断性评估 |
 > | diagnosis of difficulties | 困难诊断 | higher order thinking | 高阶思维 |
@@ -659,7 +661,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > | 开放式论文 | 高阶：分析、综合、评价 | 低 |
 > | 事实性高度定向论文 | 中阶：理解、应用、分析 | 中 |
 > | 简答题 | 低-中阶：回忆、理解 | 高 |
-> | 发散思维题 | 高阶：创造、综合 | 低 |
+> | [[Divergent Thinking\|发散思维]]题 | 高阶：创造、综合 | 低 |
 > | 填空题 | 低阶：回忆 | 高 |
 > | 多项选择题 | 低-高阶：全部层级 | 高（机器可读） |
 > | 配对题 | 低-中阶：回忆、理解 | 高 |
