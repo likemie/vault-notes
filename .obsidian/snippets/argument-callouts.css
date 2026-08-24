@@ -1762,6 +1762,473 @@
   color: rgb(var(--callout-color));
 }
 
+/* ═══════════════════════════════════════════════════════════
+   EVIDENCE SYNTHESIS — 元分析与二阶元分析专用组件
+   ═══════════════════════════════════════════════════════════ */
+
+.callout[data-callout="evidence-scope"],
+.callout[data-callout="search-protocol"],
+.callout[data-callout="coding-frame"],
+.callout[data-callout="synthesis-model"],
+.callout[data-callout="overlap-audit"],
+.callout[data-callout="effect-summary"],
+.callout[data-callout="moderator-summary"],
+.callout[data-callout="bias-audit"] {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(var(--callout-color), 0.24);
+  border-left: 6px solid rgb(var(--callout-color));
+  border-radius: 10px;
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.12), transparent 46%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.08);
+  transition: box-shadow 0.28s ease, transform 0.28s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.24s ease;
+}
+
+/* 顶缘扫描光：提示当前聚焦的证据模块。 */
+.callout[data-callout="evidence-scope"]::before,
+.callout[data-callout="search-protocol"]::before,
+.callout[data-callout="coding-frame"]::before,
+.callout[data-callout="synthesis-model"]::before,
+.callout[data-callout="overlap-audit"]::before,
+.callout[data-callout="effect-summary"]::before,
+.callout[data-callout="moderator-summary"]::before,
+.callout[data-callout="bias-audit"]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  width: 34%;
+  height: 2px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, transparent, rgba(var(--callout-color), 0.86), transparent);
+  opacity: 0;
+  transform: translateX(-120%);
+  pointer-events: none;
+}
+
+.callout[data-callout="evidence-scope"]:hover,
+.callout[data-callout="search-protocol"]:hover,
+.callout[data-callout="coding-frame"]:hover,
+.callout[data-callout="synthesis-model"]:hover,
+.callout[data-callout="overlap-audit"]:hover,
+.callout[data-callout="effect-summary"]:hover,
+.callout[data-callout="moderator-summary"]:hover,
+.callout[data-callout="bias-audit"]:hover {
+  border-color: rgba(var(--callout-color), 0.36);
+  box-shadow: 0 14px 30px rgba(var(--callout-color), 0.14);
+  transform: translateY(-2px);
+}
+
+.callout[data-callout="evidence-scope"]:hover::before,
+.callout[data-callout="search-protocol"]:hover::before,
+.callout[data-callout="coding-frame"]:hover::before,
+.callout[data-callout="synthesis-model"]:hover::before,
+.callout[data-callout="overlap-audit"]:hover::before,
+.callout[data-callout="effect-summary"]:hover::before,
+.callout[data-callout="moderator-summary"]:hover::before,
+.callout[data-callout="bias-audit"]:hover::before {
+  animation: evidence-synthesis-scan 0.86s ease-out both;
+}
+
+.callout[data-callout="evidence-scope"] {
+  --callout-color: 69, 95, 155;
+  --callout-icon: lucide-scan-search;
+}
+
+.callout[data-callout="search-protocol"] {
+  --callout-color: 48, 112, 165;
+  --callout-icon: lucide-search;
+}
+
+.callout[data-callout="coding-frame"] {
+  --callout-color: 118, 86, 150;
+  --callout-icon: lucide-tags;
+}
+
+.callout[data-callout="synthesis-model"] {
+  --callout-color: 28, 132, 142;
+  --callout-icon: lucide-sigma;
+}
+
+.callout[data-callout="overlap-audit"] {
+  --callout-color: 177, 114, 42;
+  --callout-icon: lucide-git-merge;
+}
+
+.callout[data-callout="effect-summary"] {
+  --callout-color: 50, 135, 92;
+  --callout-icon: lucide-bar-chart-3;
+}
+
+.callout[data-callout="moderator-summary"] {
+  --callout-color: 91, 93, 172;
+  --callout-icon: lucide-sliders-horizontal;
+}
+
+.callout[data-callout="bias-audit"] {
+  --callout-color: 170, 76, 72;
+  --callout-icon: lucide-shield-check;
+}
+
+.callout[data-callout="evidence-scope"] > .callout-title,
+.callout[data-callout="search-protocol"] > .callout-title,
+.callout[data-callout="coding-frame"] > .callout-title,
+.callout[data-callout="synthesis-model"] > .callout-title,
+.callout[data-callout="overlap-audit"] > .callout-title,
+.callout[data-callout="effect-summary"] > .callout-title,
+.callout[data-callout="moderator-summary"] > .callout-title,
+.callout[data-callout="bias-audit"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+  letter-spacing: 0.01em;
+}
+
+.callout[data-callout="evidence-scope"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="search-protocol"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="coding-frame"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="synthesis-model"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="overlap-audit"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="effect-summary"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="moderator-summary"] > .callout-title .callout-title-inner::before,
+.callout[data-callout="bias-audit"] > .callout-title .callout-title-inner::before {
+  display: inline-block;
+  margin-right: 0.52rem;
+  padding: 1px 7px;
+  border: 1px solid rgba(var(--callout-color), 0.22);
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.11);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 820;
+  letter-spacing: 0.075em;
+  vertical-align: middle;
+  transform-origin: center;
+  transition: transform 0.28s cubic-bezier(0.34, 1.56, 0.64, 1),
+              box-shadow 0.24s ease,
+              background 0.24s ease;
+}
+
+.callout[data-callout="evidence-scope"] > .callout-title .callout-title-inner::before { content: "SCOPE"; }
+.callout[data-callout="search-protocol"] > .callout-title .callout-title-inner::before { content: "SEARCH"; }
+.callout[data-callout="coding-frame"] > .callout-title .callout-title-inner::before { content: "CODEBOOK"; }
+.callout[data-callout="synthesis-model"] > .callout-title .callout-title-inner::before { content: "MODEL"; }
+.callout[data-callout="overlap-audit"] > .callout-title .callout-title-inner::before { content: "OVERLAP"; }
+.callout[data-callout="effect-summary"] > .callout-title .callout-title-inner::before { content: "EFFECT"; }
+.callout[data-callout="moderator-summary"] > .callout-title .callout-title-inner::before { content: "MODERATOR"; }
+.callout[data-callout="bias-audit"] > .callout-title .callout-title-inner::before { content: "ROBUST"; }
+
+.callout[data-callout="evidence-scope"]:hover > .callout-title .callout-title-inner::before,
+.callout[data-callout="search-protocol"]:hover > .callout-title .callout-title-inner::before,
+.callout[data-callout="coding-frame"]:hover > .callout-title .callout-title-inner::before,
+.callout[data-callout="synthesis-model"]:hover > .callout-title .callout-title-inner::before,
+.callout[data-callout="overlap-audit"]:hover > .callout-title .callout-title-inner::before,
+.callout[data-callout="effect-summary"]:hover > .callout-title .callout-title-inner::before,
+.callout[data-callout="moderator-summary"]:hover > .callout-title .callout-title-inner::before,
+.callout[data-callout="bias-audit"]:hover > .callout-title .callout-title-inner::before {
+  background: rgba(var(--callout-color), 0.18);
+  box-shadow: 0 0 0 4px rgba(var(--callout-color), 0.07);
+  transform: translateY(-1px) scale(1.06);
+}
+
+.callout[data-callout="evidence-scope"] > .callout-title .callout-icon,
+.callout[data-callout="search-protocol"] > .callout-title .callout-icon,
+.callout[data-callout="coding-frame"] > .callout-title .callout-icon,
+.callout[data-callout="synthesis-model"] > .callout-title .callout-icon,
+.callout[data-callout="overlap-audit"] > .callout-title .callout-icon,
+.callout[data-callout="effect-summary"] > .callout-title .callout-icon,
+.callout[data-callout="moderator-summary"] > .callout-title .callout-icon,
+.callout[data-callout="bias-audit"] > .callout-title .callout-icon {
+  transition: transform 0.34s cubic-bezier(0.34, 1.56, 0.64, 1), filter 0.25s ease;
+}
+
+.callout[data-callout="evidence-scope"]:hover > .callout-title .callout-icon,
+.callout[data-callout="search-protocol"]:hover > .callout-title .callout-icon,
+.callout[data-callout="coding-frame"]:hover > .callout-title .callout-icon,
+.callout[data-callout="synthesis-model"]:hover > .callout-title .callout-icon,
+.callout[data-callout="overlap-audit"]:hover > .callout-title .callout-icon,
+.callout[data-callout="effect-summary"]:hover > .callout-title .callout-icon,
+.callout[data-callout="moderator-summary"]:hover > .callout-title .callout-icon,
+.callout[data-callout="bias-audit"]:hover > .callout-title .callout-icon {
+  filter: drop-shadow(0 2px 5px rgba(var(--callout-color), 0.28));
+  transform: translateY(-1px) rotate(-7deg) scale(1.12);
+}
+
+/* 范围、效应与偏倚采用摘要卡片布局。 */
+.callout[data-callout="evidence-scope"] > .callout-content > ul,
+.callout[data-callout="effect-summary"] > .callout-content > ul,
+.callout[data-callout="bias-audit"] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin: 0.5rem 0 0.2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.callout[data-callout="evidence-scope"] > .callout-content > ul > li,
+.callout[data-callout="effect-summary"] > .callout-content > ul > li,
+.callout[data-callout="bias-audit"] > .callout-content > ul > li {
+  position: relative;
+  min-width: 0;
+  padding: 0.72rem 0.82rem;
+  border: 1px solid rgba(var(--callout-color), 0.17);
+  border-top: 3px solid rgba(var(--callout-color), 0.62);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--background-primary) 93%, rgb(var(--callout-color)) 7%);
+  box-shadow: 0 3px 10px rgba(var(--callout-color), 0.05);
+  line-height: 1.58;
+  transition: transform 0.26s cubic-bezier(0.22, 1, 0.36, 1),
+              box-shadow 0.24s ease,
+              border-color 0.24s ease,
+              background 0.24s ease;
+}
+
+.callout[data-callout="evidence-scope"] > .callout-content > ul > li::after,
+.callout[data-callout="effect-summary"] > .callout-content > ul > li::after,
+.callout[data-callout="bias-audit"] > .callout-content > ul > li::after {
+  content: "";
+  position: absolute;
+  left: 0.82rem;
+  right: 0.82rem;
+  bottom: 0.35rem;
+  height: 2px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, rgb(var(--callout-color)), transparent);
+  opacity: 0;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.28s ease, opacity 0.2s ease;
+}
+
+.callout[data-callout="evidence-scope"] > .callout-content > ul > li:hover,
+.callout[data-callout="effect-summary"] > .callout-content > ul > li:hover,
+.callout[data-callout="bias-audit"] > .callout-content > ul > li:hover {
+  border-color: rgba(var(--callout-color), 0.34);
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+  box-shadow: 0 9px 18px rgba(var(--callout-color), 0.12);
+  transform: translateY(-4px);
+}
+
+.callout[data-callout="evidence-scope"] > .callout-content > ul > li:hover::after,
+.callout[data-callout="effect-summary"] > .callout-content > ul > li:hover::after,
+.callout[data-callout="bias-audit"] > .callout-content > ul > li:hover::after {
+  opacity: 0.72;
+  transform: scaleX(1);
+}
+
+.callout[data-callout="evidence-scope"] > .callout-content > ul > li strong:first-child,
+.callout[data-callout="effect-summary"] > .callout-content > ul > li strong:first-child,
+.callout[data-callout="bias-audit"] > .callout-content > ul > li strong:first-child {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-body);
+  font-weight: 760;
+}
+
+/* 检索、编码、模型、重叠与调节采用高密度审计表。 */
+.callout[data-callout="search-protocol"] > .callout-content,
+.callout[data-callout="coding-frame"] > .callout-content,
+.callout[data-callout="synthesis-model"] > .callout-content,
+.callout[data-callout="overlap-audit"] > .callout-content,
+.callout[data-callout="moderator-summary"] > .callout-content {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 0.25rem;
+}
+
+.callout[data-callout="search-protocol"] table,
+.callout[data-callout="coding-frame"] table,
+.callout[data-callout="synthesis-model"] table,
+.callout[data-callout="overlap-audit"] table,
+.callout[data-callout="moderator-summary"] table {
+  width: max-content;
+  min-width: 100%;
+  margin-block: 0.5rem 0.25rem;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: var(--fs-table);
+}
+
+/* 信息密度分级：长文本编码表与多列调节表进一步缩小字号。 */
+.callout[data-callout="search-protocol"] table,
+.callout[data-callout="synthesis-model"] table {
+  font-size: 0.84em;
+}
+
+.callout[data-callout="overlap-audit"] table {
+  font-size: 0.81em;
+}
+
+.callout[data-callout="coding-frame"] table {
+  font-size: 0.78em;
+}
+
+.callout[data-callout="moderator-summary"] table {
+  min-width: 920px;
+  font-size: 0.75em;
+}
+
+.callout[data-callout="search-protocol"] th,
+.callout[data-callout="coding-frame"] th,
+.callout[data-callout="synthesis-model"] th,
+.callout[data-callout="overlap-audit"] th,
+.callout[data-callout="moderator-summary"] th {
+  background: rgba(var(--callout-color), 0.14);
+  color: rgb(var(--callout-color));
+  font-weight: 740;
+}
+
+.callout[data-callout="search-protocol"] th,
+.callout[data-callout="search-protocol"] td,
+.callout[data-callout="coding-frame"] th,
+.callout[data-callout="coding-frame"] td,
+.callout[data-callout="synthesis-model"] th,
+.callout[data-callout="synthesis-model"] td,
+.callout[data-callout="overlap-audit"] th,
+.callout[data-callout="overlap-audit"] td,
+.callout[data-callout="moderator-summary"] th,
+.callout[data-callout="moderator-summary"] td {
+  min-width: 125px;
+  max-width: 330px;
+  padding: 0.62rem 0.78rem;
+  border-color: rgba(var(--callout-color), 0.18);
+  white-space: normal;
+  overflow-wrap: anywhere;
+  vertical-align: top;
+  line-height: 1.58;
+  transition: background 0.2s ease, box-shadow 0.2s ease, padding 0.2s ease;
+}
+
+.callout[data-callout="coding-frame"] th,
+.callout[data-callout="coding-frame"] td,
+.callout[data-callout="overlap-audit"] th,
+.callout[data-callout="overlap-audit"] td {
+  padding: 0.5rem 0.64rem;
+  line-height: 1.48;
+}
+
+.callout[data-callout="moderator-summary"] th,
+.callout[data-callout="moderator-summary"] td {
+  min-width: 98px;
+  max-width: 245px;
+  padding: 0.46rem 0.56rem;
+  line-height: 1.42;
+}
+
+.callout[data-callout="search-protocol"] td:first-child,
+.callout[data-callout="coding-frame"] td:first-child,
+.callout[data-callout="synthesis-model"] td:first-child,
+.callout[data-callout="overlap-audit"] td:first-child,
+.callout[data-callout="moderator-summary"] td:first-child {
+  min-width: 9.5rem;
+  max-width: 12rem;
+  color: rgb(var(--callout-color));
+  font-weight: 690;
+  background: rgba(var(--callout-color), 0.045);
+}
+
+.callout[data-callout="search-protocol"] tbody tr:hover td,
+.callout[data-callout="coding-frame"] tbody tr:hover td,
+.callout[data-callout="synthesis-model"] tbody tr:hover td,
+.callout[data-callout="overlap-audit"] tbody tr:hover td,
+.callout[data-callout="moderator-summary"] tbody tr:hover td {
+  background: color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+  box-shadow: inset 0 1px rgba(var(--callout-color), 0.14), inset 0 -1px rgba(var(--callout-color), 0.14);
+}
+
+.callout[data-callout="search-protocol"] tbody tr:hover td:first-child,
+.callout[data-callout="coding-frame"] tbody tr:hover td:first-child,
+.callout[data-callout="synthesis-model"] tbody tr:hover td:first-child,
+.callout[data-callout="overlap-audit"] tbody tr:hover td:first-child,
+.callout[data-callout="moderator-summary"] tbody tr:hover td:first-child {
+  padding-left: 0.94rem;
+}
+
+/* 任意 callout 中的超宽表格按列数自动降字号。 */
+.callout table:has(thead th:nth-child(6)):not(:has(thead th:nth-child(8))) {
+  font-size: 0.82em;
+}
+
+.callout table:has(thead th:nth-child(8)) {
+  font-size: 0.74em;
+  line-height: 1.38;
+}
+
+@keyframes evidence-synthesis-scan {
+  0%   { opacity: 0; transform: translateX(-120%); }
+  18%  { opacity: 1; }
+  78%  { opacity: 0.9; }
+  100% { opacity: 0; transform: translateX(310%); }
+}
+
+.theme-dark .callout[data-callout="evidence-scope"],
+.theme-dark .callout[data-callout="search-protocol"],
+.theme-dark .callout[data-callout="coding-frame"],
+.theme-dark .callout[data-callout="synthesis-model"],
+.theme-dark .callout[data-callout="overlap-audit"],
+.theme-dark .callout[data-callout="effect-summary"],
+.theme-dark .callout[data-callout="moderator-summary"],
+.theme-dark .callout[data-callout="bias-audit"] {
+  background:
+    linear-gradient(135deg, rgba(var(--callout-color), 0.16), transparent 48%),
+    var(--background-primary);
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="evidence-scope"] > .callout-content > ul,
+  .callout[data-callout="effect-summary"] > .callout-content > ul,
+  .callout[data-callout="bias-audit"] > .callout-content > ul {
+    grid-template-columns: 1fr;
+  }
+
+  .callout[data-callout="coding-frame"] table,
+  .callout[data-callout="overlap-audit"] table,
+  .callout[data-callout="moderator-summary"] table {
+    font-size: 0.72em;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .callout[data-callout="evidence-scope"],
+  .callout[data-callout="search-protocol"],
+  .callout[data-callout="coding-frame"],
+  .callout[data-callout="synthesis-model"],
+  .callout[data-callout="overlap-audit"],
+  .callout[data-callout="effect-summary"],
+  .callout[data-callout="moderator-summary"],
+  .callout[data-callout="bias-audit"],
+  .callout[data-callout="evidence-scope"] *,
+  .callout[data-callout="search-protocol"] *,
+  .callout[data-callout="coding-frame"] *,
+  .callout[data-callout="synthesis-model"] *,
+  .callout[data-callout="overlap-audit"] *,
+  .callout[data-callout="effect-summary"] *,
+  .callout[data-callout="moderator-summary"] *,
+  .callout[data-callout="bias-audit"] * {
+    animation: none !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .callout[data-callout="evidence-scope"]:hover,
+  .callout[data-callout="search-protocol"]:hover,
+  .callout[data-callout="coding-frame"]:hover,
+  .callout[data-callout="synthesis-model"]:hover,
+  .callout[data-callout="overlap-audit"]:hover,
+  .callout[data-callout="effect-summary"]:hover,
+  .callout[data-callout="moderator-summary"]:hover,
+  .callout[data-callout="bias-audit"]:hover,
+  .callout[data-callout="evidence-scope"] > .callout-content > ul > li:hover,
+  .callout[data-callout="effect-summary"] > .callout-content > ul > li:hover,
+  .callout[data-callout="bias-audit"] > .callout-content > ul > li:hover {
+    transform: none;
+  }
+}
+
 
 /* ═══════════════════════════════════════════════════════════
    EVIDENCE & TENSION — 证据与张力
