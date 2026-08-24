@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 61
+method_related_count: 68
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,7 +32,9 @@ related_concepts:
   - "[[Construct]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
+  - "[[Small Study Effects]]"
   - "[[Confidence Interval]]"
+  - "[[Prediction Interval]]"
   - "[[External Validity]]"
   - "[[Research Purpose]]"
   - "[[Publication Bias]]"
@@ -55,6 +57,9 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Predictive Validity]]"
+  - "[[Cooperative Learning]]"
+  - "[[Academic Achievement]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemology]]"
   - "[[Critique of Meta-meta-analysis]]"
 related_theories:
@@ -72,6 +77,7 @@ related_methods:
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Random Sampling]]"
   - "[[Comparative Meta-synthesis]]"
+  - "[[Umbrella Review]]"
   - "[[Effect Size Conversion]]"
 related_instruments:
   - "[[AMSTAR]]"
@@ -85,6 +91,7 @@ related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -111,7 +118,7 @@ updated: 2026-08-24
 > - **研究对象** 已发表或灰色文献中关于特定主题的系统评价与一阶元分析汇总效应量矩阵。
 > - **问题类型** 评估跨领域宏观效应量强度、检验不同理论构念或干预模式的相对差异、探索出版偏倚与方法学质量的[[Interaction Effect|调节效应]]。
 > - **分析单位** 纳入的一阶元分析或其报告的独立一阶效应量集群（Clusters）。
-> - **输出形式** 经小研究效应偏倚校正后的二阶总体效应量点估计值（$r$ 或 $g$）、95% [[Confidence Interval|置信区间]]（CI）、95% 预测区间（PI）及多水平二阶[[Meta-regression|元回归]]调节系数。
+> - **输出形式** 经[[Small Study Effects|小研究效应]]偏倚校正后的二阶总体效应量点估计值（$r$ 或 $g$）、95% [[Confidence Interval|置信区间]]（CI）、95% [[Prediction Interval|预测区间]]（PI）及多水平二阶[[Meta-regression|元回归]]调节系数。
 
 > [!citation-card]- 关键定义
 > 二阶元分析在大样本水平上整合多重一阶元分析，采用[[AMSTAR|系统评价质量评估工具]]与多水平[[Robust Variance Estimation|稳健方差估计]]，能够克服单一研究局限，提供高度稳健且具备[[External Validity|可推广性]]的效应量基准。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–5)]]
@@ -166,7 +173,7 @@ updated: 2026-08-24
 >
 > - **现代多水平稳健统计推断模型（2013–至今）**
 >
->   Sipe & Curlette（1997）严格筛选 103 项元分析并验证重叠率低于 10%；Schmidt & Oh（2013）提出二阶[[Sampling Error|抽样误差]]估计理论；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]在[[Creativity|创造力]]研究中确立了由系统评价和荟萃分析优先报告条目声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）检索、AMSTAR 方法学评估、效应量正态化转换、CHE 多水平工作模型与 RVE 三明治估计量组成的现代二阶元分析规范[[Paradigm|范式]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–6)]]
+>   Sipe & Curlette（1997）严格筛选 103 项元分析并验证重叠率低于 10%；Schmidt & Oh（2013）提出二阶[[Sampling Error|抽样误差]]估计理论；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]在[[Creativity|创造力]]研究中确立了由系统评价和荟萃分析优先报告条目声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）检索、[[AMSTAR]] 方法学评估、效应量正态化转换、[[Correlated and Hierarchical Effects Model|CHE]] 多水平工作模型与 [[Robust Variance Estimation|RVE]] 三明治估计量组成的现代二阶元分析规范[[Paradigm|范式]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–6)]]
 
 ---
 
@@ -197,7 +204,7 @@ updated: 2026-08-24
 > |:---|:---|:---|:---|
 > | **[[Correlated and Hierarchical Effects Model\|相关与层级效应模型（CHE）]]** | **方差分解与加权工作模型** | 解决同一研究内多重测量相关（相关效应）与跨元分析嵌套（层级效应）的**双重依赖问题**，通过三水平方差分解提供最优逆方差权重矩阵 $\mathbf{W}$，最大化统计估计效率。 | 🔗 [[Correlated and Hierarchical Effects Model]] |
 > | **[[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]** | **稳健统计推断与[[Standard Error\|标准误]]校正** | 解决文献重叠与聚类依赖导致传统理论方差严重低估（标准误虚假缩水、假阳性率急剧膨胀）的**推断失真问题**，在无需严苛独立性假定下提供渐近无偏的标准误与霍特林 $T^2$ 小样本调整。 | 🔗 [[Robust Variance Estimation]] |
-> | **[[Multilevel Egger's Test\|多水平艾格检验（Multilevel Egger's Test）]]** | **小研究效应诊断与截距偏倚校正** | 解决传统单水平[[Publication Bias\|发表偏倚]]检验在聚类依赖数据下假阳性率高的问题，并同时实现<strong>“小研究偏倚定量诊断”与“截距校正真实效应量”</strong>的一体化输出（参见[[Effect Size\|效应量]]）。 | 🔗 [[Multilevel Egger's Test]] |
+> | **[[Multilevel Egger's Test\|多水平艾格检验（Multilevel Egger's Test）]]** | **[[Small Study Effects\|小研究效应]]诊断与截距偏倚校正** | 解决传统单水平[[Publication Bias\|发表偏倚]]检验在聚类依赖数据下假阳性率高的问题，并同时实现<strong>“小研究偏倚定量诊断”与“截距校正真实效应量”</strong>的一体化输出（参见[[Effect Size\|效应量]]）。 | 🔗 [[Multilevel Egger's Test]] |
 > | **[[Second-Order Meta-Regression\|二阶元回归（Second-Order Meta-Regression）]]** | **全领域[[Heterogeneity\|异质性]]来源分解与调节检验** | 解决宏观二阶效应量高度离散、单一平均值掩盖因果机制的问题，在控制[[Document\|文献]]重叠下系统检验[[Construct\|构念]]分类、[[Variable\|变量]]角色与研究特征的[[Interaction Effect\|调节效应]]。 | 🔗 [[Second-Order Meta-Regression]] |
 
 ---
@@ -209,7 +216,7 @@ updated: 2026-08-24
 > 2. **[[AMSTAR]] 12 项方法学质量评估** 采用改编的 AMSTAR 准则进行双人独立[[Coding in Qualitative Research|编码]]（一致率 $\ge 95\%$），设定得分阈值（如 $\ge 0.75$）作为高质量指示[[Variable|变量]]。
 > 3. **效应量标准化转换与正态化** 将不同一阶指标统一转换为[[Pearson Product-Moment Correlation|皮尔逊相关]]系数 $r$ 或标准化均值差 $g$，运用 Fisher's $z$ 变换实现方差稳定化。
 > 4. **多水平 [[Correlated and Hierarchical Effects Model|CHE]] 与 [[Robust Variance Estimation|RVE]] 稳健方差建模** 设定集群内相关系数（$\rho = 0.8$），运用经验残差构造三明治估计量，计算稳健[[Standard Error|标准误]]与小样本 $F$ 检验。
-> 5. **多水平改进艾格回归偏倚检验与校正** 检验小研究效应并根据回归模型截距输出偏倚校正后的二阶效应量点估计值与[[Confidence Interval|置信区间]]。
+> 5. **多水平改进艾格回归偏倚检验与校正** 检验[[Small Study Effects|小研究效应]]并根据回归模型截距输出偏倚校正后的二阶效应量点估计值与[[Confidence Interval|置信区间]]。
 > 6. **二阶[[Meta-regression|元回归]]与亚组调节变量检验** 纳入[[Construct|理论构念]]类型、[[Independent Variable|自变量]]/[[Dependent Variable|结果变量]]角色、研究设计等调节变量，全面分解效应[[Heterogeneity|异质性]]来源。
 
 ---
@@ -285,7 +292,7 @@ flowchart LR
 > [!concept-lens] 截距校正真实[[Effect Size|效应量]]原理
 > 经典艾格回归将元分析内不同效应量视为独立点，容易将“同一综述内部效应量的聚集性”误判为[[Publication Bias|发表偏倚]]。[[Multilevel Egger's Test|多水平艾格检验]]在三水平随机效应架构下，将抽样标准误（$\text{SE}$）作为[[Independent Variable|自变量]]纳入回归模型：
 >
-> 1. **偏倚诊断原理** 若回归斜率系数显著大于零，表明小样本研究系统性报告了偏大的效应量，证实全领域存在小研究效应或发表偏倚；
+> 1. **偏倚诊断原理** 若回归斜率系数显著大于零，表明小样本研究系统性报告了偏大的效应量，证实全领域存在[[Small Study Effects|小研究效应]]或发表偏倚；
 > 2. **截距校正原理** 回归方程的截距项在数学上对应抽样标准误趋近于零（$\text{SE} \to 0$，即理论无限大样本研究）时的渐近效应量。通过逆双曲正切函数（$\tanh$）将截距还原，即可直接提取出**剔除小样本膨胀效应后的无偏真实效应量基准**。
 >
 > 🔗 完整多水平回归模型与偏倚校正公式参见：[[Multilevel Egger's Test|多水平艾格检验]]。
@@ -346,7 +353,7 @@ flowchart LR
 > - **[[Visible Learning]]** Hattie (2009) 综合 800 多项[[Meta-analysis|元分析]]的开创性巨型综合项目。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
 > - **[[EEF Teaching and Learning Toolkit]]** 英国[[Education Endowment Foundation|教育捐赠基金会]]以[[Effect Size|效应量]]与额外学习月数排名 30+ 类教育干预的循证政策工具。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019)]]
 > - **[[Creativity|创造力]]全领域二阶元分析** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶元分析（2,609 项原始研究、124 万被试），运用 [[Correlated and Hierarchical Effects Model|CHE]] 与 [[Robust Variance Estimation|RVE]] 确立创造力[[Predictive Validity|预测效度]]与教育干预效应。
-> - **[[Cooperative Learning|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），运用随机效应模型评估合作学习对学业成就、高阶思维与情感行为的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的调节效应。
+> - **[[Cooperative Learning|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review|伞状综述]]框架下采用单水平经典逆方差加权[[Fixed-Effect and Random-Effects Models|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与情感行为的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect|调节效应]]。
 > - **固定效应等价性与方法论批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 从固定效应数学模型推导 6 项要求并系统审查《可见的学习》。
 
 ---
