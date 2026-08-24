@@ -11821,6 +11821,19 @@
     ]
   },
   {
+    "title": "Inverse-Variance Weighting",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Inverse-Variance Weighting.md",
+    "aliases": [
+      "逆方差加权法",
+      "逆方差加权",
+      "逆方差法",
+      "Inverse-Variance Method",
+      "Inverse-Variance Weighting Method",
+      "IVW"
+    ]
+  },
+  {
     "title": "LISA Spatiotemporal Transition",
     "type": "method",
     "path": "wiki/methods/quantitative/LISA Spatiotemporal Transition.md",

@@ -95,7 +95,7 @@ updated: 2026-08-21
 >
 > 1. **强制要求常规替代对照组（Business-As-Usual Control, BAU）** 坚决排斥“无教学或虚假对照组”（No-Treatment Controls），对照组学生必须接受同等课时的常规教学，以测度干预的真实净增量。
 > 2. **12 周干预时长刚性底线** 明确排除干预周期短于 12 周的短期实验，阻断新奇效应（Novelty Effect）对因果[[Effect Size|效应量]]的虚假推高。
-> 3. **加权平均效应量合成（Inverse-Variance Weighting）** 采用方差倒数加权元分析模型，依据[[Sample Size Determination|样本量]]与测量精度对入选的 [[Randomised Controlled Trials|RCT]] 与高质量 [[Quasi-Experimental Designs|QED]] 进行定量合成。
+> 3. **加权平均效应量合成（[[Inverse-Variance Weighting]]）** 采用方差倒数加权元分析模型，依据[[Sample Size Determination|样本量]]与测量精度对入选的 [[Randomised Controlled Trials|RCT]] 与高质量 [[Quasi-Experimental Designs|QED]] 进行定量合成。
 > 4. **样本量与[[Ecological Validity|生态效度]]门槛** 要求单项[[Study Population and Sample|研究样本]]量充沛（通常要求跨班级或多学校），排除小样本实验室设计。
 
 > [!formula-step] BEE 最高评级效应量门槛判定

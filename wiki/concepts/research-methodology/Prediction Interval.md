@@ -91,7 +91,7 @@ updated: 2026-08-24
 > **这个公式在做什么** 在汇总[[Effect Size|效应量]] $\hat{\mu}$ 的基础上，不仅加上平均值估计的[[Standard Error|标准误]]，更将研究间真实效应变异方差 $\hat{\tau}^2$ 开根号后通过自由度为 $\text{df} = k - 2$（或 Satterthwaite 近似自由度）的临界 $t$ 值进行外推扩展。（pp. 5–6）
 >
 > **符号说明**
-> - $\hat{\mu}$：经逆方差加权合并后的平均效应量（如费舍尔 $z$ 或相关系数 $r$）。
+> - $\hat{\mu}$：经[[Inverse-Variance Weighting|逆方差加权]]合并后的平均效应量（如费舍尔 $z$ 或相关系数 $r$）。
 > - $\operatorname{SE}(\hat{\mu})$：合并效应量的标准误。
 > - $\hat{\tau}^2$：研究间真实效应[[Heterogeneity|异质性]]方差估计值（通过 REML 或 [[Correlated and Hierarchical Effects Model|CHE]] 模型估计）。
 > - $t_{0.025, \, \text{df}}$：双侧显著性水平 $\alpha = 0.05$ 下 $t$ 分布的临界分位数。

@@ -154,7 +154,22 @@ updated: 2026-08-24
 ### 3. 三明治估计量经验残差外积构造与稳健推断
 
 > [!formula-step] 公式步骤　RVE 聚类稳健三明治协方差估计量
-> $$\mathbf{V}_{\text{RVE}} = \underbrace{\left( \sum_{j=1}^J \mathbf{X}_j^T \mathbf{W}_j \mathbf{X}_j \right)^{-1}}_{\text{左面包（Wecker 经典逆方差）}} \overbrace{\left( \sum_{j=1}^J \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j \right)}^{\text{夹心肉（基于经验残差外积，自动吸收重叠与聚类依赖）}} \underbrace{\left( \sum_{j=1}^J \mathbf{X}_j^T \mathbf{W}_j \mathbf{X}_j \right)^{-1}}_{\text{右面包（Wecker 经典逆方差）}}$$
+> $$
+> \begin{aligned}
+> \mathbf{V}_{\text{RVE}}
+>   &= \underbrace{\mathbf{B}^{-1}}_{\text{左面包}}
+>      \;\underbrace{\mathbf{M}}_{\text{夹心肉}}\;
+>      \underbrace{\mathbf{B}^{-1}}_{\text{右面包}}, \\
+> \mathbf{B}
+>   &= \sum_{j=1}^{J} \mathbf{X}_j^T \mathbf{W}_j \mathbf{X}_j
+>      && \text{（Wecker 经典逆方差信息矩阵）}, \\
+> \mathbf{M}
+>   &= \sum_{j=1}^{J} \mathbf{X}_j^T \mathbf{W}_j
+>      \mathbf{e}_j \mathbf{e}_j^T
+>      \mathbf{W}_j \mathbf{X}_j
+>      && \text{（经验残差外积，吸收重叠与聚类依赖）}.
+> \end{aligned}
+> $$
 >
 > **数学原理与破局机制**
 > 1. **经验残差向量** 定义集群 $j$ 的残差向量为 $\mathbf{e}_j = \mathbf{y}_j - \mathbf{X}_j \hat{\boldsymbol{\beta}}$；

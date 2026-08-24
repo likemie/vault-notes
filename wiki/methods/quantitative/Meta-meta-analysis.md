@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 68
+method_related_count: 69
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -38,26 +38,27 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Research Purpose]]"
   - "[[Publication Bias]]"
+  - "[[Literature Search]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
-  - "[[Individualised Instruction]]"
   - "[[Visible Learning]]"
+  - "[[Paradigm]]"
+  - "[[Cooperative Learning]]"
+  - "[[Creativity]]"
+  - "[[Hypothesis]]"
+  - "[[Standard Error]]"
+  - "[[Student-Teacher Relationship]]"
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
-  - "[[Creativity]]"
-  - "[[Paradigm]]"
-  - "[[Student-Teacher Relationship]]"
   - "[[Class Size]]"
   - "[[Tracking]]"
   - "[[School Leadership]]"
   - "[[Growth]]"
-  - "[[Standard Error]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Sample Size Determination]]"
-  - "[[Hypothesis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Predictive Validity]]"
-  - "[[Cooperative Learning]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemology]]"
@@ -72,12 +73,12 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Multilevel Egger's Test]]"
+  - "[[Umbrella Review]]"
   - "[[Second-Order Meta-Regression]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Random Sampling]]"
   - "[[Comparative Meta-synthesis]]"
-  - "[[Umbrella Review]]"
   - "[[Effect Size Conversion]]"
 related_instruments:
   - "[[AMSTAR]]"
@@ -89,9 +90,9 @@ related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -144,36 +145,35 @@ updated: 2026-08-24
 > 1. **方法学过程研究** 将元分析作为分析单位来研究元分析过程本身的统计特征、[[Publication Bias|发表偏倚]]与报告质量（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；
 > 2. **实质性主题综合** 试图将不同元分析合并为关于更广泛教育或心理主题的单一信息结论（如 Hattie, 1992; Marzano, 1998; [[Argument_Runco_2026_CRJ|Runco et al., 2026]]）。后者必须解决深刻的[[Construct|构念]]可比性与[[Heterogeneity|异质性]]挑战。
 
-> [!contrast-table] 一阶元分析 vs 传统元综合 vs 现代多水平二阶元分析
-> | 比较维度 | 一阶元分析（Meta-analysis） | 传统元综合（如早版 Hattie） | 现代多水平二阶元分析（[[Argument_Runco_2026_CRJ\|Runco et al., 2026]]） |
+> [!contrast-table] 二阶元分析三代方法谱系多维对比
+> | 比较维度 | 第一代：粗放元综合<br>（Naive Meta-Synthesis） | 第二代：标准伞状二阶元分析<br>（Standard Umbrella / SOMA） | 第三代：现代多水平稳健二阶元分析<br>（Modern Multilevel & Robust SOMA） |
 > |---|---|---|---|
-> | **分析单位** | 原始实证研究（Primary Studies） | 已发表一阶元分析的汇总 $d$ | 一阶元分析汇总[[Effect Size\|效应量]]及其多水平依赖集群 |
-> | **质量准入** | 原始研究设计筛选 | 粗放纳入、声称不关心质量 | 严格基于系统评价方法学质量评估工具（A MeaSurement Tool to Assess systematic Reviews, AMSTAR）12 项准则设定质量门槛（$\ge 0.75$） |
-> | **统计模型** | 单级固定效应 / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | 伪固定效应模型、简单未加权平均 | 相关与层级效应工作模型（Correlated and Hierarchical Effects Model, [[Correlated and Hierarchical Effects Model\|CHE]]）+ 稳健方差估计（Robust Variance Estimation, [[Robust Variance Estimation\|RVE]]） |
-> | **偏倚控制** | 漏斗图、经典艾格回归 | 无偏倚检验与校正 | 多水平改进艾格回归（[[Multilevel Egger's Test]]）截距校正 |
-> | **核心目的** | 检验具体干预或相关关系的平均效应 | 建立宏观排名联盟表（League Table） | 估计宏观效应基准、分解全领域异质性、检验理论调节模型 |
+> | **代表学者与文献** | Fraser, Walberg & Hattie (1987); Hattie (1992, 2008, 2009); Marzano (1998) | Cooper & Koenka (2012); Cafri et al. (2010); [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]; [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | Schmidt & Oh (2013); Cheung (2014); Pustejovsky & Tipton (2022); [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] |
+> | **分析单位** | 一阶元分析报告的算术平均值 $d$ | 一阶元分析提取的汇总效应量（$k$ 个独立观测项） | 一阶元分析[[Effect Size\|效应量]]及其多水平依赖集群（Clusters） |
+> | **[[Literature Search\|文献检索]]与质控** | 粗放纳入、无统一质量准入门槛 | 遵循 PRISMA 指南、采用 [[AMSTAR]] / R-AMSTAR 进行严格方法学质量评级 | 遵循 PRISMA 2020、严格 AMSTAR-2 质控并建立初级研究全量引用矩阵 |
+> | **效应量尺度处理** | 混用 $d, g, r, \Delta$ 等不同测度而不转换 | 将 OR、$r$、Hedges' $g$ 规范转换为统一 Cohen's $d$ 或 Fisher's $z$ | 统一进行效应量标准化、Fisher's $z$ 变换并保留完整协方差结构 |
+> | **初级研究重叠处理** | 完全忽略（容忍 90%+ 的初级研究重叠） | 宏观经验门槛控制（Cooper & Koenka $\le 25\%$ 重叠率门槛，或计算校正覆盖面积 CCA） | 微观[[Primary and Secondary Documents\|初级文献]]完全矩阵去重，或构建跨元分析重叠协方差矩阵进行统计校正 |
+> | **加权与统计模型** | 简单未加权算术平均、违规套用单级[[Fixed-Effect and Random-Effects Models\|固定效应模型]] | 单水平经典[[Inverse-Variance Weighting\|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$）与[[Fixed-Effect and Random-Effects Models\|随机效应模型]]（Borenstein et al., 2021） | 三水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE / 三明治估计量） |
+> | **发表偏倚检验** | 无偏倚检验与校正 | 经典漏斗图、Egger 回归截距检验与剪补法（DTTF） | 多水平改进艾格检验（[[Multilevel Egger's Test]]）截距校正与二阶元回归 |
+> | **核心目的与产出** | 建立宏观全景排行榜（League Table）与气压计 | 评估特定领域宏观平均效应、检验亚组调节[[Variable\|变量]]并评估发表偏倚 | 估计无偏宏观效应基准、精确分解全领域多层级异质性、检验理论调节模型 |
 
 ---
 
-## 历史演变与范式演进
+## 历史演变与三代方法谱系演进
 
-> [!phase] 二阶[[Meta-analysis|元分析]]的四个发展阶段
+> [!phase] 二阶[[Meta-analysis|元分析]]的三代方法谱系演进
 >
-> - **早期探索与教育生产力模型检验（1980s）**
+> - **第一代：早期探索与粗放元综合（1980s–2000s）**
 >
->   Glass 提出元分析 10 年后，Fraser, Walberg & Hattie（1987）首次综合了 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]，涵盖数千项原始研究，识别学生资质、教学与环境三类影响[[Variable|变量]]，开创了跨元分析大规模统计汇总的先河。[[Argument_Higgins_2016_RE|(Higgins, 2016, pp. 41–42)]]
+>   Glass 提出元分析 10 年后，Fraser, Walberg & Hattie（1987）首次综合 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。Hattie（1992, 2008, 2009）在《[[Visible Learning|可见的学习]]》中将其扩展至 800 多项元分析（涵盖 52,649 项研究、8300 万学生），建立 $d = 0.40$ 的影响气压计。然而第一代综合在统计上存在严重缺陷：采用简单算术平均而非逆方差加权、混用不同[[Effect Size|效应量]]测度、强行套用[[Fixed-Effect and Random-Effects Models|固定效应模型]]、完全忽略初级研究高达 90% 以上的重叠率，且不报告[[Confidence Interval|置信区间]]与显著性检验。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
 >
-> - **大一统通用连续体与气压计排名（1990s–2000s）**
+> - **第二代：标准伞状综述与经典规范二阶元分析（2010s）**
 >
->   Hattie（1992）综合 Fraser et al. 中的 134 项元分析（涵盖 22,155 个效应量、7,827 项研究和 500–1500 万学生），建立标准差单位的通用连续体（Universal Continuum），平均[[Effect Size|效应量]]为 $d = 0.40$（SD 0.13），强化（1.13）、反馈（0.65）最高，[[Individualised Instruction|个别化教学]]（0.14）最低。Hattie（2008）在《[[Visible Learning|可见的学习]]》中扩展至 800 多项元分析（涵盖 52,649 项研究、8300 万学生与 146,626 个效应量），提出 $d = 0.40$ 的影响气压计关节点并生成 138 项干预排名。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 427–428)]]
+>   针对第一代的统计乱象，Cooper & Koenka（2012）在《Research Synthesis Methods》系统提出了综述之综述（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；Wecker, Vogel & Hetmanek（2016）从数学基础推导出六项方法论规范；Güngör et al.（2026）则将该[[Paradigm|范式]]应用于[[Cooperative Learning|合作学习]]领域。第二代二阶元分析建立了 PRISMA 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**随机效应模型**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或校正覆盖面积（CCA）控制[[Document|文献]]重叠，全面报告置信区间与[[Publication Bias|发表偏倚]]检验。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]; [[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
 >
-> - **理论驱动的构念精细化分类（1998）**
+> - **第三代：现代多水平与集群稳健二阶元分析（2013–至今）**
 >
->   Marzano（1998）综合 100 多项元分析（涵盖 4000 多个实验-控制组比较），系统批评了将不同干预成分打包为粗放品牌名（Brand-name）聚合的做法。例如 Athappilly et al. (1983) 现代数学元分析中，操作教具为 $d = 0.51$、[[Direct Instruction|直接教学]]为 $d = 0.35$、探究方法为 $d = 0.04$；将其粗暴平均为单一品牌名会掩盖核心有效成分。Marzano 按认知、[[Metacognition|元认知]]、自我系统等四层学习机制细化分类，推动元综合走向机制解释。[[Argument_Higgins_2016_RE|(Higgins, 2016, pp. 42–43)]]
->
-> - **现代多水平稳健统计推断模型（2013–至今）**
->
->   Sipe & Curlette（1997）严格筛选 103 项元分析并验证重叠率低于 10%；Schmidt & Oh（2013）提出二阶[[Sampling Error|抽样误差]]估计理论；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]在[[Creativity|创造力]]研究中确立了由系统评价和荟萃分析优先报告条目声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）检索、[[AMSTAR]] 方法学评估、效应量正态化转换、[[Correlated and Hierarchical Effects Model|CHE]] 多水平工作模型与 [[Robust Variance Estimation|RVE]] 三明治估计量组成的现代二阶元分析规范[[Paradigm|范式]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–6)]]
+>   Schmidt & Oh（2013）在《HRMR》奠定了二阶[[Sampling Error|抽样误差]]与全领域推广理论；Cheung（2014）与 Pustejovsky & Tipton（2022）建立了多水平元分析与集群[[Robust Variance Estimation|稳健方差估计]]（RVE）体系；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]在[[Creativity|创造力]]全领域综合中确立了第三代范式标杆。第三代方法彻底放弃单水平[[Hypothesis|假设]]，对初级研究进行微观完全去重，采用**[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（CHE）**进行三水平方差分解（Level 1 抽样误差、Level 2 一阶元分析内依赖、Level 3 跨元分析变异），结合**[[Robust Variance Estimation|稳健方差估计]]（RVE / 三明治估计量）**提供渐近无偏的[[Standard Error|标准误]]与小样本 $T^2 / F$ 校正，并运用多水平改进艾格检验（[[Multilevel Egger's Test]]）和[[Second-Order Meta-Regression|二阶元回归]]，在无需严苛独立性假定下实现了高度稳健的宏观证据推断。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–6)]]
 
 ---
 
@@ -202,6 +202,7 @@ updated: 2026-08-24
 > [!contrast-table] 现代二阶[[Meta-analysis|元分析]]核心统计支柱与分析方法
 > | 统计方法条目 | 方法定位与角色 | 解决的核心统计问题与方法论痛点 | 深度条目索引 |
 > |:---|:---|:---|:---|
+> | **[[Inverse-Variance Weighting\|逆方差加权法（Inverse-Variance Weighting）]]** | **精度加权基础算法** | 解决简单算术平均扭曲估计精度的问题，依据抽样方差与研究间异质性方差的倒数（$w_i^* = \frac{1}{v_i + \tau^2}$）分配权重，实现合成效应量方差最小化。 | 🔗 [[Inverse-Variance Weighting]] |
 > | **[[Correlated and Hierarchical Effects Model\|相关与层级效应模型（CHE）]]** | **方差分解与加权工作模型** | 解决同一研究内多重测量相关（相关效应）与跨元分析嵌套（层级效应）的**双重依赖问题**，通过三水平方差分解提供最优逆方差权重矩阵 $\mathbf{W}$，最大化统计估计效率。 | 🔗 [[Correlated and Hierarchical Effects Model]] |
 > | **[[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]** | **稳健统计推断与[[Standard Error\|标准误]]校正** | 解决文献重叠与聚类依赖导致传统理论方差严重低估（标准误虚假缩水、假阳性率急剧膨胀）的**推断失真问题**，在无需严苛独立性假定下提供渐近无偏的标准误与霍特林 $T^2$ 小样本调整。 | 🔗 [[Robust Variance Estimation]] |
 > | **[[Multilevel Egger's Test\|多水平艾格检验（Multilevel Egger's Test）]]** | **[[Small Study Effects\|小研究效应]]诊断与截距偏倚校正** | 解决传统单水平[[Publication Bias\|发表偏倚]]检验在聚类依赖数据下假阳性率高的问题，并同时实现<strong>“小研究偏倚定量诊断”与“截距校正真实效应量”</strong>的一体化输出（参见[[Effect Size\|效应量]]）。 | 🔗 [[Multilevel Egger's Test]] |
