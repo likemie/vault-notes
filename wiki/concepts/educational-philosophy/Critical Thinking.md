@@ -7,7 +7,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 61
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,8 +45,10 @@ related_concepts:
   - "[[Variable]]"
   - "[[Prediction Interval]]"
   - "[[Dependent Variable]]"
+  - "[[Domain Specificity]]"
   - "[[Jigsaw]]"
   - "[[Direct Instruction]]"
+  - "[[Common Method Variance]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Evaluativist]]"
   - "[[Multiplist]]"
@@ -79,6 +81,7 @@ related_arguments:
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Erdem_2026_SHE]]"
+  - "[[Argument_Park_2026_TSC]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -275,10 +278,11 @@ updated: 2026-08-25
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]]：教学干预对通用批判性思维技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验与非标准化测验；通用批判性思维标准化测试结果 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：教学干预对学科特异性批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：教学干预对[[Domain Specificity\|学科特异性]]批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：教学干预对批判性思维倾向的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Jigsaw\|拼图法]]对护理临床批判性思维的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，拼图法结构化互动显著提升反思决策 |
 > | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼中小学数学教学情境，合作学习显著增强批判性解题能力 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念：学生样本中批判性思维与[[Creativity\|创造力]]的总体相关 | $k = 51$ / $N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $r = 0.386$ $[0.296, 0.470]$ | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -287,6 +291,10 @@ updated: 2026-08-25
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | 教学干预策略：[[Authentic Instruction\|真实性教学]]（A）vs [[Dialogue in Education\|对话]]（D）vs 真实性+对话（A+D）vs 真实性+对话+[[Mentorship\|导师制]]（A+D+M） | A 单独 $k = 22$；D 单独 $k = 43$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；D $g+ = 0.23$ $[0.07, 0.39]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维复合策略显著最优，导师制发挥催化功能 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | Ennis 课程模式：[[Direct Instruction\|直接教学]] vs 融入模式 vs 沉浸模式 vs 混合模式 | 直接教学 $k = 44$；融入 $k = 152$；沉浸 $k = 61$；混合 $k = 84$ | 直接 $g+ = 0.26$；融入 $g+ = 0.29$；沉浸 $g+ = 0.23$；混合 $g+ = 0.38$ $[0.26, 0.51]$ | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ | 混合模式效应量最高，各模式均显著大于 0 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联[[Construct\|构念]] | 双主观组合（创造力主观 × 批判性思维主观） | — | $r = 0.509$ | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ | 相关最高；逐组合样本量与 95% CI 未在正文报告，见 [[Argument_Park_2026_TSC\|Park et al. (2026)]] 图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | — | $r = 0.317$ | 同上 | 高于全部混合组合，支持表现型测量间存在真实认知重叠 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力客观 × 批判性思维主观组合 | — | $r = 0.260$ | 同上 | 混合组合相关居中 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力主观 × 批判性思维客观组合 | — | $r = 0.195$ | 同上 | 混合组合相关最低 |
 
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
@@ -359,3 +367,4 @@ updated: 2026-08-25
 > - **[[Cooperative Learning|合作学习]]与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 基于 15 项一阶[[Meta-analysis|元分析]]开展二阶元分析，证实合作学习对批判性思维等[[Higher-Order Thinking Skills|高阶思维技能]]具有最强的赋能效应（$ES = 0.76$），从[[Constructivist Paradigm|社会建构主义]]视角确立了同伴互动与认知冲突对批判性反思的驱动机制。
 > - **教学策略元分析与复合干预** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 综合 341 项实验与准[[Experimental Research|实验研究]]，确立了[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维协同对批判性思维技能与倾向的最高干预效应（$g+ = 0.57$）。
 > - **[[Problem-Based Learning|PBL]] 与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析，报告 PBL 对高等教育学生[[Critical Thinking|批判性思维]]的高效应（ES = 0.56），并将批判性思维作为结果类型之一纳入调节分析。
+> - **与[[Creativity|创造力]]关系的元分析实证** [[Argument_Park_2026_TSC|Park et al. (2026)]] 综合 29 项学生研究 51 个[[Effect Size|效应量]]，确立批判性思维与创造力中等正相关（$r = 0.386$），并证实测量类型显著调节相关——双主观测量组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。

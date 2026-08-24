@@ -5,10 +5,10 @@ aliases:
 summary: "指项目开发者委托、参与或实施的评估往往得到系统性高于独立第三方的效果估计，用于分析利益关系如何影响教育证据。"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - developer-effect
 - program-evaluation
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Categorical Funding]]"
   - "[[Heterogeneity]]"
+  - "[[Prediction Interval]]"
   - "[[Evaluator Independence]]"
   - "[[Preregistration]]"
 related_theories: []
@@ -84,7 +85,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] [[Heterogeneity|异质性]]
-> 开发者效应的背后存在大量异质性。控制协变量后，独立研究的 95% 预测区间为 (−0.452, +0.788)，开发者研究为 (−0.311, +0.929)([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 441]])。这意味着并非所有开发者研究的效应量都大——而是分布整体向右偏移。
+> 开发者效应的背后存在大量异质性。控制协变量后，独立研究的 95% [[Prediction Interval|预测区间]]为 (−0.452, +0.788)，开发者研究为 (−0.311, +0.929)([[Argument_Wolf_2020_JREE|Wolf et al., 2020, p. 441]])。这意味着并非所有开发者研究的效应量都大——而是分布整体向右偏移。
 
 ## 历史沿革
 

@@ -8,7 +8,7 @@ aliases:
 summary: "元分析中综合了抽样误差与研究间真实异质性方差（τ²），用于估计未来单一全新实证情境下个体效应量可能分布范围的统计推断区间。"
 type: concept
 domain: "research-methodology"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
+  - "[[Between-Study Variance]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Confidence Interval]]"
@@ -34,6 +35,7 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Inverse-Variance Weighting]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Intervention Research]]"
   - "[[Robust Variance Estimation]]"
@@ -52,7 +54,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> [[Prediction Interval|预测区间]]（Prediction Interval, PI）是指在[[Fixed-Effect and Random-Effects Models|随机效应模型]]（Random-Effects Model）的[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中，**同时综合汇总[[Effect Size|效应量]]的[[Standard Error|标准误]]（[[Sampling Error|抽样误差]]）与研究间真实[[Heterogeneity|异质性]]方差（Between-study Variance, $\tau^2$）**，用以量化估计**在未来某个单一全新实证情境或特定研究总体中，真实[[Effect Size|效应量]]落入该区间的预期概率范围（通常为 95%）**的统计推断指标（Higgins et al., 2009; Borenstein et al., 2009, 2017; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 5, 8, 10]]）。
+> [[Prediction Interval|预测区间]]（Prediction Interval, PI）是指在[[Fixed-Effect and Random-Effects Models|随机效应模型]]（Random-Effects Model）的[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中，**同时综合汇总[[Effect Size|效应量]]的[[Standard Error|标准误]]（[[Sampling Error|抽样误差]]）与研究间真实[[Heterogeneity|异质性]]方差（[[Between-Study Variance]], $\tau^2$）**，用以量化估计**在未来某个单一全新实证情境或特定研究总体中，真实[[Effect Size|效应量]]落入该区间的预期概率范围（通常为 95%）**的统计推断指标（Higgins et al., 2009; Borenstein et al., 2009, 2017; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 5, 8, 10]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向元分析结论在具体实践情境中真实效果的不确定性与离散范围，而非单纯的全局平均值精度。

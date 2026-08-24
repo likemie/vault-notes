@@ -11,7 +11,7 @@ type: method
 domain: "research-methodology"
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Small Study Effects]]"
   - "[[Hypothesis]]"
+  - "[[Funnel Plot]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
@@ -61,7 +62,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 方法定义
-> Trim and Fill Method（剪补法 / 剪除与填补法，由 Sue Duval 与 Richard Tweedie 于 2000 年提出）是一种用于诊断和校正[[Meta-analysis|元分析]]中[[Publication Bias|发表偏倚]]（及[[Small Study Effects|小研究效应]]）的经典非参数迭代统计方法。该方法[[Hypothesis|假设]]在无发表偏倚时，漏斗图中的研究[[Effect Size|效应量]]应围绕真实均值呈对称分布；当检出单侧漏斗图不对称时，该算法先迭代“剪除（Trim）”导致不对称的极端小样本研究以估计无偏的中心效应，随后在漏斗图对侧“填补（Fill）”相应数量的镜像虚拟研究，并重新拟合计算校正后的最终效应量与 95% [[Confidence Interval|置信区间]]。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–8)]]
+> Trim and Fill Method（剪补法 / 剪除与填补法，由 Sue Duval 与 Richard Tweedie 于 2000 年提出）是一种用于诊断和校正[[Meta-analysis|元分析]]中[[Publication Bias|发表偏倚]]（及[[Small Study Effects|小研究效应]]）的经典非参数迭代统计方法。该方法[[Hypothesis|假设]]在无发表偏倚时，[[Funnel Plot|漏斗图]]中的研究[[Effect Size|效应量]]应围绕真实均值呈对称分布；当检出单侧漏斗图不对称时，该算法先迭代“剪除（Trim）”导致不对称的极端小样本研究以估计无偏的中心效应，随后在漏斗图对侧“填补（Fill）”相应数量的镜像虚拟研究，并重新拟合计算校正后的最终效应量与 95% [[Confidence Interval|置信区间]]。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–8)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 元分析中各纳入研究的效应量及其抽样[[Standard Error|标准误]]散点分布（漏斗图空间结构）。
@@ -79,7 +80,7 @@ updated: 2026-08-24
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 认为[[Sampling Error|抽样误差]]在漏斗图中应当对称呈现，单侧截断是不完全发表机制的统计指纹。
+> - **知识观** 认为[[Sampling Error|抽样误差]]在[[Funnel Plot|漏斗图]]中应当对称呈现，单侧截断是不完全发表机制的统计指纹。
 > - **研究者角色** 运用非参数秩次检验与对称性拟合，对证据库进行压力测试与保守校正。
 > - **有效性标准** 若算法估计缺失研究数 $k_{\text{miss}} = 0$ 且校正后[[Effect Size|效应量]]保持不变，表明原结论完全不受[[Publication Bias|发表偏倚]]影响。
 > - **不声称回答的问题** 不能证明漏斗图不对称必然由发表偏倚引起（[[Heterogeneity|异质性]]、研究质量差异或真实[[Small Study Effects|小研究效应]]亦可导致不对称）。
@@ -133,7 +134,7 @@ updated: 2026-08-24
 > |---|---|
 > | 能够直接给出**偏倚校正后的具体[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]**，突破了失安全数只能检验[[Hypothesis\|假设]]的缺陷 | 严重依赖“漏斗图不对称必然源于[[Publication Bias\|发表偏倚]]”的前提假定 |
 > | 非参数估计，无需对未发表研究的效应分布做过于严苛的参数先验设定 | 在研究间存在高度真实[[Heterogeneity\|异质性]]时容易误判，导致过度填补并产生保守偏倚 |
-> | 结果直观，可通过漏斗图可视化呈现填补后的完整证据图景 | 在多水平嵌套或[[Document\|文献]]重叠复杂数据中需结合多水平[[Meta-regression\|元回归]]谨慎解释 |
+> | 结果直观，可通过[[Funnel Plot\|漏斗图]]可视化呈现填补后的完整证据图景 | 在多水平嵌套或[[Document\|文献]]重叠复杂数据中需结合多水平[[Meta-regression\|元回归]]谨慎解释 |
 
 ---
 

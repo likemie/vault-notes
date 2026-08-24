@@ -59,6 +59,7 @@ related_concepts:
   - "[[Forest Plot]]"
   - "[[Standard Error]]"
   - "[[Publication Bias]]"
+  - "[[Funnel Plot]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Prediction Interval]]"
   - "[[Hypothesis]]"
@@ -104,7 +105,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 68
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -237,7 +238,7 @@ issuing_organization: ""
 > | 质量结果应用 | 原始研究质量得分是否在结论或调节分析中恰当使用？ |
 > | 统计合并模型 | 用于合并结果的方法是否恰当（[[Heterogeneity\|异质性]]检验、多水平随机效应）？ |
 > | 不确定性报告 | 效应量是否完整报告置信区间、可信区间或[[Standard Error\|标准误]]（Standard Error, SE）？ |
-> | [[Publication Bias\|发表偏倚]]检验 | 是否通过漏斗图、艾格回归等评估潜在发表偏倚？ |
+> | [[Publication Bias\|发表偏倚]]检验 | 是否通过[[Funnel Plot\|漏斗图]]、艾格回归等评估潜在发表偏倚？ |
 > | [[Conflict of Interest in Research\|利益冲突]]声明 | 是否明确列出资金资助来源与无潜在利益冲突声明？ |
 >
 > **图表解读** 本表呈现了用于评估 52 项一阶元分析科学规范度的 12 项 AMSTAR 评估指标。每项指标按满足（1 分）与未满足（0 分）进行二分类独立双盲编码（评定者间一致性达到 97%）。以得分达到 0.75（即至少满足 9 项准则）作为高质量元分析判定阈值。统计检验显示，方法学质量未对综合效应量产生显著调节影响（$F(1, 12.9) = 0.97, p = .34$），表明纳入研究在不同质量等级下均展现出一致稳健的实证效应。（pp. 4–6）

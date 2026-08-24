@@ -38,9 +38,17 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Pre-test and Post-test]]"
   - "[[Document]]"
+  - "[[Between-Study Variance]]"
+  - "[[Funnel Plot]]"
+  - "[[Publication Bias]]"
+  - "[[I-squared Statistic]]"
+  - "[[Peer Mentoring]]"
   - "[[Reciprocal Peer Questioning]]"
   - "[[Classroom Debate]]"
   - "[[Socratic Dialogue]]"
+  - "[[Simulation-Based Learning]]"
+  - "[[Anchored Instruction]]"
+  - "[[Cognitive Apprenticeship]]"
   - "[[Direct Instruction]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Phronesis]]"
@@ -54,6 +62,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Pre-Experimental Designs]]"
   - "[[Moderator Analysis]]"
+  - "[[Cochran's Q Test]]"
   - "[[True Experimental Design]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Fail-Safe N]]"
@@ -77,9 +86,9 @@ title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 35
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 46
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Review of Educational Research"
 book_title: ""
@@ -100,7 +109,7 @@ issuing_organization: ""
 > 批判性思维技能与倾向可以通过明确的教学干预有效提升；将[[Authentic Instruction|真实性教学]]（应用型解题与[[Role-playing|角色扮演]]）、深度[[Dialogue in Education|对话]]（师生互动与同伴研讨）以及导师指导有机结合的三维复合策略（A + D + M）能够产生最显著的协同增益（$g+ = 0.57$），而导师制在其中扮演了关键的“催化剂”（Catalytic Capacity）角色。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 涵盖学前、初等、中等、高等教育及成人阶段的批判性思维教学干预实证研究（基于 341 个标准化测量的真实验与准实验[[Effect Size|效应量]]，以及 97 个学科特异性技能效应量、140 个学业成就效应量与 25 个思维倾向效应量）。
+> - **对象** 涵盖学前、初等、中等、高等教育及成人阶段的批判性思维教学干预实证研究（基于 341 个标准化测量的真实验与准实验[[Effect Size|效应量]]，以及 97 个[[Domain Specificity|学科特异性]]技能效应量、140 个学业成就效应量与 25 个思维倾向效应量）。
 > - **张力** 理论上关于批判性思维是可跨情境迁移的通用认知技能还是依附于特定学科的[[Domain Specificity|领域特异性]]知识的长期争论；实践中关于“单一讲授”与“探究互动”、“独立设课”与“学科融入”之间的效果分歧。
 > - **贡献** 构建了对话、真实性教学、导师制三维微观教学策略[[Coding in Qualitative Research|编码]]体系；通过大规模高质量[[Meta-analysis|元分析]]量化论证了单一策略、双重组合与三维协同的效应梯度，揭示了显性示范、情境锚定与过程脚手架的交互增强机制。
 
@@ -129,7 +138,7 @@ issuing_organization: ""
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **通用批判性思维技能**<br>（Generic CT Skills） | 跨领域的通用认知技能，包括论证分析、证据评价、[[Hypothesis\|假设]]识别与逻辑推论。 | 标准化测试：[[California Critical Thinking Disposition Inventory\|CCTDI]] 关联技能量表、加州批判性思维技能测验（CCTST）、Watson-Glaser 批判性思维评估（WGCTA）、Ennis-Weir 批判性思维论证测试、Cornell 批判性思维测试；纳入 $k = 341$ 个效应量。（pp. 283–284, 289–291） |
-> | **学科特异性批判性思维技能**<br>（Content-Specific CT Skills） | 嵌入特定学科领域（如化学、历史、护理）的情境化批判性思维表现。 | 学科特异性标准化与自编测验；纳入 $k = 97$ 个效应量。（pp. 295–296） |
+> | **[[Domain Specificity\|学科特异性]]批判性思维技能**<br>（Content-Specific CT Skills） | 嵌入特定学科领域（如化学、历史、护理）的情境化批判性思维表现。 | 学科特异性标准化与自编测验；纳入 $k = 97$ 个效应量。（pp. 295–296） |
 > | **批判性思维倾向**<br>（CT Dispositions） | 运用批判性思维的习惯、态度与倾向（求真、开放、探究、系统性等）。 | 加州批判性思维倾向问卷（CCTDI）等自陈量表；排除前实验后纳入 $k = 25$ 个效应量。（pp. 296–297） |
 > | **学业成就**<br>（Achievement） | 课程学科知识与常规内容掌握度。 | 学科期末考试、标准化成就测验；纳入 $k = 140$ 个效应量。（p. 295） |
 > | **教学策略：对话**<br>（Dialogue） | 师生或生生之间针对有争议问题的互动论辩与研讨。 | 11 个子类编码：教师提问（2.1）、学生提问（2.2）、双人配对（2.3/2.6）、全班研讨（2.4/2.7）、小组研讨（2.5/2.8）、正式辩论（2.9）、学生汇报后研讨（2.10）、[[Socrates\|苏格拉底]]对话（2.11）。（pp. 285–286） |
@@ -186,7 +195,7 @@ issuing_organization: ""
 > 针对高质量实验与准[[Experimental Research|实验研究]]的[[Meta-analysis|元分析]]证实，教学干预能够有效提升学生的通用批判性思维技能（$g+ = 0.30, p < .001$），且该促进效果在不同出版类型、研究设计、学段、学科领域和干预时长中均保持高度稳健。（pp. 289–293）
 
 > [!chain-link] 证据到判断
-> 在严格排除[[Pre-Experimental Designs|前实验设计]]和非标准化测量工具后，基于 $k = 341$ 项真实验与准实验研究的随机效应合并[[Effect Size|效应量]]为 $g+ = 0.30$，对应的改善指数为 $11.79\%$。（pp. 290–291, 297）
+> 在严格排除[[Pre-Experimental Designs|前实验设计]]和非标准化测量工具后，基于 $k = 341$ 项真实验与准实验研究的随机效应合并[[Effect Size|效应量]]为 $g+ = 0.30$，通过纳入[[Between-Study Variance|研究间方差]]调整权重并结合[[Funnel Plot|漏斗图]]与出版类型检验排除了[[Publication Bias|发表偏倚]]，对应的改善指数为 $11.79\%$。（pp. 290–291, 297）
 >
 > > [!example]- 图 1：通用批判性思维技能未加权效应量分布直方图
 > > ![](https://img.mylikemie.icu/sources/Abrami_2015_RER/figures/Abrami_2015_RER_Fig1_Effect_Size_Distribution.jpg)
@@ -198,7 +207,7 @@ issuing_organization: ""
 > 4. **干预时长** 从数天内的短期强化（$g+ = 0.66$）、中期干预（$g+ = 0.33$）到一学期（$g+ = 0.27$）及长程教学（$g+ = 0.23$），干预均产生持续成效。（pp. 292–293）
 
 > [!ma-table]- 表 1A 与表 1B：通用批判性思维效应量在出版类型与研究设计中的分布
-> | 调节[[Variable\|变量]]维度 | 分类亚组 | 效应量数 $k$ | 汇总加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 组内异质性 $Q_w$ | 组内 $I^2$ (%) | 组间检验 $Q_b$ (df, $p$) |
+> | 调节[[Variable\|变量]]维度 | 分类亚组 | 效应量数 $k$ | 汇总加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 组内异质性 [[Cochran's Q Test\|$Q_w$]] | 组内 [[I-squared Statistic\|$I^2$ (%) ]] | 组间检验 $Q_b$ (df, $p$) |
 > |---|---|---|---|---|---|---|---|---|
 > | **出版类型**<br>(Table 1A) | 期刊论文（Journal Articles） | 188 | 0.28 | 0.22 | 0.35 | 663.26 ($p < .001$) | 71.81% | $Q_b(2) = 1.02$ ($p = .60$) |
 > | | 著作章节/会议论文（Book/Conference） | 36 | 0.30 | 0.17 | 0.44 | 127.81 ($p < .001$) | 72.62% | |
@@ -233,10 +242,10 @@ issuing_organization: ""
 > 混合效应调节分析表明：
 > 1. **对话（Dialogue）** 实验组对话强度高于对照组时效应量达 $g+ = 0.32$，显著优于无差异组（$g+ = 0.19$）。在具体子策略中，教师主导的全班研讨（$g+ = 0.42$）、教师主导的小组研讨（$g+ = 0.41$）与教师提问（$g+ = 0.38$）促进效果最强，凸显了教师脚手架的核心引导价值。（pp. 294–295）
 > 2. **[[Authentic Instruction|真实性教学]]（Authentic Instruction）** 实验组真实性教学强度高于对照组时效应量达 $g+ = 0.34$，显著优于无差异组（$g+ = 0.22$）。在具体子策略中，[[Role-playing|角色扮演]]（$g+ = 0.61$）与应用型问题解决（$g+ = 0.35$）表现出最高的思维激发效能。（pp. 294–295）
-> 3. **[[Mentorship|导师制]]（Mentoring）** 实验组高于对照组时获得 $g+ = 0.39$ 的正向效应，但作为单一策略维度时组间差异未达统计显著，暗示其作用机制需要与其他情境策略配合。（pp. 294–295）
+> 3. **[[Mentorship|导师制]]（Mentoring）** 涵盖专家导师与[[Peer Mentoring|同伴导师制]]，实验组高于对照组时获得 $g+ = 0.39$ 的正向效应，但作为单一策略维度时组间差异未达统计显著，暗示其作用机制需要与其他情境策略配合。（pp. 287, 294–295）
 
 > [!ma-table]- 表 3B 与 3C：对话与真实性教学具体子策略效应量分布
-> | 策略分类维度 | 子类代码与具体教学策略 | $k$ | $g+$ | 95% CI 下限 | 95% CI 上限 | 组内 $Q_w$ | 组内 $I^2$ (%) | 实践特征与效应表现 |
+> | 策略分类维度 | 子类代码与具体教学策略 | $k$ | $g+$ | 95% CI 下限 | 95% CI 上限 | 组内 [[Cochran's Q Test\|$Q_w$]] | 组内 [[I-squared Statistic\|$I^2$ (%) ]] | 实践特征与效应表现 |
 > |---|---|---|---|---|---|---|---|---|
 > | **对话子策略**<br>(Table 3B) | 2.1 教师针对性提问（Teacher posing questions） | 19 | 0.38 | 0.21 | 0.56 | 57.90 ($p < .001$) | 68.91% | 启发式提问激活认知反思 |
 > | | 2.2 [[Reciprocal Peer Questioning\|学生自主提问]]（Students posing questions） | 4 | 0.37 | -0.02 | 0.77 | 10.99 ($p = .012$) | 72.70% | 学生对等互问生成深层探究 |
@@ -250,8 +259,8 @@ issuing_organization: ""
 > | | 2.10 口头汇报后研讨（Oral presentations） | 5 | 0.29 | -0.07 | 0.65 | 14.59 ($p = .006$) | 72.58% | 成果展示与答辩互动 |
 > | | 2.11 [[Socratic Dialogue\|苏格拉底对话]]（Socratic dialogue） | 8 | 0.27 | -0.01 | 0.55 | 21.59 ($p = .003$) | 67.58% | 追问[[Hypothesis\|假设]]与概念澄清 |
 > | **真实性教学子策略**<br>(Table 3C) | 3.1 应用型问题解决（Applied problem solving） | 31 | 0.35 | 0.20 | 0.49 | 101.59 ($p < .001$) | 70.47% | 解决现实复杂劣构问题 |
-> | | 3.2 角色扮演（Role-playing） | 5 | 0.61 | 0.24 | 0.98 | 10.76 ($p = .030$) | 62.83% | 换位思考多方利益与伦理冲突 |
-> | | 3.3 情境模拟（Simulations） | 23 | 0.26 | 0.09 | 0.43 | 80.03 ($p < .001$) | 72.51% | 动态情境决策与即时反馈 |
+> | | 3.2 [[Role-playing\|角色扮演]]（Role-playing） | 5 | 0.61 | 0.24 | 0.98 | 10.76 ($p = .030$) | 62.83% | 换位思考多方利益与伦理冲突 |
+> | | 3.3 [[Simulation-Based Learning\|情境模拟]]（Simulations） | 23 | 0.26 | 0.09 | 0.43 | 80.03 ($p < .001$) | 72.51% | 动态情境决策与即时反馈 |
 > | | 3.4 两难困境分析（Dilemmas） | 3 | 0.11 | -0.37 | 0.58 | 8.21 ($p = .017$) | 75.64% | 价值冲突与伦理权衡 |
 
 > [!ma-table]- 表 4：三大教学策略有无的组间检验比较
@@ -266,7 +275,7 @@ issuing_organization: ""
 
 > [!exegesis]- 教学策略代表性案例
 > - **对话教学典型案例：King 的互惠对等同伴提问法（RPQ）** King（1995）在大学课堂中向学生提供高阶提问句干（如“……与……的核心区别是什么？”、“支持……的最佳论据是什么？”），引导学生在结对与小组互动中相互质询与论辩。此类由教师提供结构化脚手架的对话显著提升了学生的深度推理水平。（p. 285）
-> - **真实性教学典型案例：范德堡大学 Jasper Woodbury 抛锚式教学** 认知与技术小组（CTGV, 1990）开发了基于复杂真实航行与探究情境的多媒体故事，学生需自主识别数据、规划航线并解决劣构矛盾。实证表明这种情境锚定能够显著降低抽象思维的认知阻力。（pp. 286–287）
+> - **真实性教学典型案例：范德堡大学 Jasper Woodbury [[Anchored Instruction|抛锚式教学]]** 认知与技术小组（CTGV, 1990）开发了基于复杂真实航行与探究情境的多媒体故事，学生需自主识别数据、规划航线并解决劣构矛盾。实证表明这种情境锚定能够显著降低抽象思维的认知阻力。（pp. 286–287）
 
 > [!warrant]- 推理桥梁
 > 对话为学生提供了[[Externalization|外化]]推理过程、经历认知冲突与接受即时反驳的社交空间；真实性教学则提供了调动知识、解决劣构矛盾的情境载体。两者分别从社会互动与[[Situative Perspective|情境认知]]的维度构成了批判性思维教学的基础要素。（pp. 285–287, 297–298）
@@ -299,7 +308,7 @@ issuing_organization: ""
 > | | 真实性教学 + 对话（A + D） | 45 | 0.32 | 0.17 | 0.47 | 两两比较检验： | |
 > | | **真实性教学 + 对话 + 导师制（A + D + M）** | **19** | **0.57** | **0.38** | **0.77** | **A+D+M vs A+D: $z = 1.98, p = .024$** | **确立导师制在复合情境中的催化功能** |
 
-> [!exegesis]- 三维复合干预案例：医学与跨学科探究中的认知学徒制
+> [!exegesis]- 三维复合干预案例：医学与跨学科探究中的[[Cognitive Apprenticeship|认知学徒制]]
 > 在高难度的医学临床与科学探究课堂中，学生首先面对真实患者病例或复杂环境危机（真实性情境），在小组内部开展论据质疑与方案答辩（深度对话），此时临床导师/资深学者介入进行示范、点拨认知盲区并提供即时反馈（导师指导）。单纯提供导师指导因缺乏自主探究任务而效果受限（$g+=0.13$），但在真实情境与同伴研讨的双重驱动下，导师的个别化点拨能够瞬间打通思维瓶颈，产生突破性的干预增益（$g+=0.57$）。（pp. 298–299）
 
 > [!warrant]- 最终推理桥梁
@@ -310,7 +319,7 @@ issuing_organization: ""
 ### 论证步骤四：混合课程模式最优，批判性思维教学同步促进学科思维与学业成就
 
 > [!claim] 显性独立教学与学科融入的结合（混合模式）最利于综合发展
-> 批判性思维教学不仅不会削弱学科知识学习，反而对学科特异性思维、常规[[Academic Achievement|学业成就]]与思维倾向产生全面的正向溢出。（pp. 293, 295–297）
+> 批判性思维教学不仅不会削弱学科知识学习，反而对[[Domain Specificity|学科特异性]]思维、常规[[Academic Achievement|学业成就]]与思维倾向产生全面的正向溢出。（pp. 293, 295–297）
 
 > [!chain-link] 证据到判断
 > 1. **Ennis 课程模式比较** 混合模式（独立思维教学 + 学科融入）获得最高的促进效果（$g+ = 0.38$），优于融入模式（$g+ = 0.29$）、[[Direct Instruction|直接教学]]（$g+ = 0.26$）与沉浸模式（$g+ = 0.23$）。（pp. 293–294）
@@ -342,7 +351,7 @@ issuing_organization: ""
 > 1. **[[Critical Thinking|批判性思维]]普遍可教且跨情境稳健** 基于 341 项高质量真实验与准实验的[[Meta-analysis|元分析]]证实教学干预显著提升通用批判性思维技能（$g+ = 0.30$），且在小学、初中、高中、本科、成人及 STEM/非 STEM 领域普遍稳健有效。（pp. 289–293）
 > 2. **[[Authentic Instruction|真实性教学]]与[[Dialogue in Education|对话]]构成核心教学支柱** 引入应用型问题解决/[[Role-playing|角色扮演]]（$g+ = 0.34$）和师生/同伴研讨对话（$g+ = 0.32$）的教学显著优于对照组教学。（pp. 294–295）
 > 3. **三维策略协同产生最大增益与催化效应** 真实性教学、对话与导师指导复合干预（A + D + M）产生最高的促进效应（$g+ = 0.57$），[[Mentorship|导师制]]在其中发挥了关键的“催化剂”功能。（pp. 294–295, 298）
-> 4. **批判性思维教学对[[Academic Achievement|学业成就]]具有正向溢出** 批判性思维干预不仅大幅促进学科特异性思维（$g+ = 0.57$）与思维倾向（$g+ = 0.23$），同时显著提升常规学科成就（$g+ = 0.33$），彻底粉碎了“教思维会挤压基础知识掌握”的疑虑。（pp. 295–297）
+> 4. **批判性思维教学对[[Academic Achievement|学业成就]]具有正向溢出** 批判性思维干预不仅大幅促进[[Domain Specificity|学科特异性]]思维（$g+ = 0.57$）与思维倾向（$g+ = 0.23$），同时显著提升常规学科成就（$g+ = 0.33$），彻底粉碎了“教思维会挤压基础知识掌握”的疑虑。（pp. 295–297）
 
 > [!stat-cards]- 核心数据
 > - **$g+ = 0.30$** 通用批判性思维技能总体[[Effect Size|效应量]]（$k = 341, 95\%\text{ CI} = [0.25, 0.34]$）。（p. 291）

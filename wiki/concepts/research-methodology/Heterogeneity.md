@@ -6,7 +6,7 @@ aliases:
 summary: "元分析中各研究效应量之间超出抽样误差的变异，是判断能否合理合并研究 and 探索调节变量的核心概念"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Random Sampling]]"
   - "[[Moderator Analysis]]"
+  - "[[Cochran's Q Test]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
@@ -92,7 +93,7 @@ updated: 2026-07-08
 ## 核心要素
 
 > [!feature] 核心要素
-> - **异质性检测与量化** 通过 Q 检验判断研究间变异是否超出随机误差；通过 $I^2$ 统计量描述异质性占总观测变异的比例。此外，[[Forest Plot|森林图]]是直观展示变异性的重要可视化工具。
+> - **异质性检测与量化** 通过 [[Cochran's Q Test|Q 检验]]判断研究间变异是否超出随机误差；通过 $I^2$ 统计量描述异质性占总观测变异的比例。此外，[[Forest Plot|森林图]]是直观展示变异性的重要可视化工具。
 > - **统计模型选择**[[Fixed-Effect and Random-Effects Models|固定效应模型]][[Hypothesis|假设]]所有研究估计同一个真实[[Effect Size|效应量]]，观测差异仅来自[[Sampling Error|抽样误差]]；随机效应模型则承认每项研究有其随机变异，同时考虑研究内和研究间变异([[Argument_Higgins_2016_RE|Higgins, 2016, p. 39]])。
 > - **调节[[Variable|变量]]探索** 通过调节[[Variable|变量]]分析（[[Moderator Analysis]]）识别与较大或较小效应相关的特征（如学生年龄、干预时长等），使研究从“有没有效”转向“对谁、在什么情境下有效”([[Argument_Higgins_2016_RE|Higgins, 2016, p. 32]])。
 

@@ -32,6 +32,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
+  - "[[Funnel Plot]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
@@ -87,7 +88,7 @@ title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -191,7 +192,7 @@ issuing_organization: ""
 > - **发表偏倚排查** 多项统计检验一致表明，当前的小幅正相关具有极高的稳健性，受到未发表负面结果冲击的概率极低。
 >
 > > [!evidence-grid] 证实不存在发表偏倚的多重统计检验
-> > - **漏斗图与插补测试 (Funnel Plot & Imputing)** [[Standard Error|标准误]]与 Fisher's z 的漏斗图基本对称；CMA 软件的缺失研究插补测试表明，插补缺失数据后漏斗图外观无显著变化。
+> > - **[[Funnel Plot|漏斗图]]与插补测试 (Funnel Plot & Imputing)** [[Standard Error|标准误]]与 Fisher's z 的漏斗图基本对称；CMA 软件的缺失研究插补测试表明，插补缺失数据后漏斗图外观无显著变化。
 > > - **经典[[Fail-Safe N|失安全系数]] (Classic Fail-safe N)** 为 9,265。即需要 9,265 项呈现零效应的未发表研究，才能将观察到的 $p$ 值推升至 .05 以上。
 > > - **Orwin's 失安全系数 (Orwin's Fail-safe N)** 为 881。将微小相关性阈值设为 .100，缺失研究的平均相关性设为 .090，仍需额外 881 项研究才能将整体[[Effect Size|效应量]]拉低至微小阈值之下。
 > > - **Duval & Tweedie 修剪与填充 (Trim-and-fill)** 检验未指示需要进行任何修剪或填充，效应量分布未见偏倚倾斜。

@@ -7,7 +7,7 @@ summary: "美国教育心理学家，1976年创造元分析一词并发展其方
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Heterogeneity]]"
   - "[[Positivism]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -126,5 +125,5 @@ updated: '2026-06-19'
 > [!tension] 争议焦点
 > - **争议对象**[[Meta-analysis|元分析]]的 “苹果与橙子” [[Heterogeneity|异质性]]混合问题。
 > - **批评立场**[[Positivism|实证主义]]和方法论学者批评元分析将完全不可比的研究（如不同的测量指标、干预强度、目标人群）混在一起计算。
-> - **证据依据** 将完全不同的教学[[Praxis|实践]]合并为一个单一均值，会导致具体的实践机制和情境变异被抹平（即 “统计炼金术” 批评）。
+> - **证据依据** 将完全不同的教学实践合并为一个单一均值，会导致具体的实践机制和情境变异被抹平（即 “统计炼金术” 批评）。
 > - **回应或余留问题** 格拉斯坚称，只有比较苹果 and 橙子（即水果整体）才是真正科学的任务，关键在于不能用均值代替图表，必须让研究者看到变异的分布。

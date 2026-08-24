@@ -11,7 +11,7 @@ type: method
 domain: "research-methodology"
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Hypothesis]]"
   - "[[Standard Error]]"
+  - "[[Funnel Plot]]"
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Cooperative Learning]]"
@@ -64,7 +65,7 @@ updated: 2026-08-24
 
 > [!method-scope] 方法范围
 > - **研究对象** [[Hypothesis|假设]]抽样相互独立的单水平元分析数据集（包含各研究效应量 $y_i$ 及其[[Standard Error|标准误]] $\text{SE}_i$）。
-> - **问题类型** 检验是否存在小样本研究系统性高估效应量的漏斗图不对称与选择性发表偏倚。
+> - **问题类型** 检验是否存在小样本研究系统性高估效应量的[[Funnel Plot|漏斗图]]不对称与选择性发表偏倚。
 > - **分析单位** 包含 $k$ 个独立效应量的一阶元分析或去重后的[[Meta-meta-analysis|二阶元分析]]。
 > - **输出形式** 截距估计值（Intercept $a$）、$t$ 统计量、自由度 $df$ 与双尾显著性 $p$ 值。
 
@@ -101,7 +102,7 @@ updated: 2026-08-24
 > 4. **截距项 $a$** 为偏倚指标：在无[[Publication Bias|发表偏倚]]时，回归线应穿过原点（即 $a = 0$）；若 $a \neq 0$ 且统计显著，证实存在小研究不对称偏倚。
 
 > [!tip] Egger 检验的判断标准与决策阈值
-> - **$p \ge .05$** 截距项未显著偏离 0，判定漏斗图对称，**未检出显著发表偏倚**；
+> - **$p \ge .05$** 截距项未显著偏离 0，判定[[Funnel Plot|漏斗图]]对称，**未检出显著发表偏倚**；
 > - **$p < .05$ 且 $a > 0$** 截距显著为正，提示[[Small Study Effects|小样本研究效应]]系统性偏大，**存在显著发表偏倚/小研究效应**。
 
 ---

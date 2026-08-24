@@ -71,7 +71,7 @@ updated: 2026-08-19
 >
 > > [!critique] 外部批评
 > > - **理论边界过于宽泛（概念混淆）** [[Argument_Sandoval_2005_SE|Sandoval (2005)]] 指出，Hammer & Elby 对微观资源的定义可能过度泛化。例如，他们将“[[Rote Learning|死记硬背]]（memorize）”等纯粹的学习策略也视为一种认识论资源，这导致了“关于知识本质的信念”与“关于学习策略的信念”之间的严重混淆。
-> > - **忽视学科探究的特异性** 像“知识是实体”这样极度一般性的微观资源，无法解释科学与历史等不同学科在探究[[Praxis|实践]]上的根本差异。基于此批评，[[Argument_Sandoval_2005_SE|Sandoval (2005)]] 提出了[[Practical Epistemology|实践认识论]]，它吸收了“情境触发”的优势，但将概念范围严格限制在特定学科的探究形式上。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
+> > - **忽视学科探究的特异性** 像“知识是实体”这样极度一般性的微观资源，无法解释科学与历史等不同学科在探究实践上的根本差异。基于此批评，[[Argument_Sandoval_2005_SE|Sandoval (2005)]] 提出了[[Practical Epistemology|实践认识论]]，它吸收了“情境触发”的优势，但将概念范围严格限制在特定学科的探究形式上。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 648)]]
 
 ---
 

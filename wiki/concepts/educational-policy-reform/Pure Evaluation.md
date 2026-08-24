@@ -5,7 +5,7 @@ aliases:
 summary: "用于描述被宣称可在自调节系统中独立于具体时空运作的评价实践的概念，常用于批评抽离情境的普遍化评估逻辑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,7 +14,6 @@ tags:
 - methodology
 - region/denmark
 related_concepts:
-  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
   - "[[Variable]]"
@@ -34,7 +33,7 @@ updated: '2026-05-18'
 ## 定义
 
 > [!info] 定义
-> 由 Tanggaard, Rømer & Brinkmann (2014) 提出的概念，仿照"纯粹教育"（pure education）的用法，指一种被宣称在自调节系统中独立于时间和空间运作的评价[[Praxis|实践]]。
+> 由 Tanggaard, Rømer & Brinkmann (2014) 提出的概念，仿照"纯粹教育"（pure education）的用法，指一种被宣称在自调节系统中独立于时间和空间运作的评价实践。
 >
 > > 类比"pure education"——"an educational theory and practice that is claimed to work in self-regulating systems independent of time and space"([[Argument_Rømer_2018_EPT|Rømer, 2018, p.3,引用 Tanggaard, Rømer, & Brinkmann, 2014]])
 >
@@ -52,7 +51,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs **[[Evidence-Based Education]]** Pure Evaluation 是 EBE 方法论的极端形式，EBE 至少还保留了"什么有效"的问题意识，Pure Evaluation 进一步将评价本身变为教育
-> - vs 传统评价：传统评价是对教育[[Praxis|实践]]的回溯性审查；Pure Evaluation 中评价即是教育本身
+> - vs 传统评价：传统评价是对教育实践的回溯性审查；Pure Evaluation 中评价即是教育本身
 
 ## 争议与批评
 

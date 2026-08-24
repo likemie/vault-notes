@@ -15844,3 +15844,83 @@
   min-width: 1320px;
   table-layout: fixed !important;
 }
+
+/* ================================================================
+   EMPIRICAL DATA · final layout override
+   Keep statistical tables readable without allowing them to escape
+   the callout; long descriptions start at the top of each row.
+   ================================================================ */
+
+.callout:has(.scrollable-table-marker) > .callout-content {
+  min-width: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-inline: contain;
+}
+
+.callout:has(.scrollable-table-marker) .table-container {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.callout:has(.concept-effect-table-marker) table {
+  width: max(100%, 1080px) !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+}
+
+.callout:has(.concept-meta-analysis-table-marker) table {
+  width: max(100%, 1280px) !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+}
+
+.callout:has(.concept-meta-moderator-table-marker) table {
+  width: max(100%, 1280px) !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+}
+
+.callout:has(.concept-second-order-meta-table-marker) table {
+  width: max(100%, 1320px) !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+}
+
+.callout:has(.concept-second-order-role-subgroup-marker) table,
+.callout:has(.concept-other-empirical-table-marker) table {
+  width: max(100%, 1280px) !important;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+}
+
+.callout:has(.scrollable-table-marker) tbody td {
+  vertical-align: top !important;
+}
+
+.callout:has(.scrollable-table-marker) thead th {
+  vertical-align: middle !important;
+}
+
+.callout:has(.scrollable-table-marker) td .katex {
+  white-space: nowrap;
+}
+
+.callout:has(.concept-effect-table-marker) :is(th, td):is(:nth-child(1), :nth-child(2), :nth-child(3), :nth-child(8)),
+.callout:has(.concept-meta-analysis-table-marker) :is(th, td):is(:nth-child(1), :nth-child(2), :nth-child(7)),
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):is(:nth-child(1), :nth-child(2), :nth-child(3), :nth-child(7)),
+.callout:has(.concept-second-order-meta-table-marker) :is(th, td):is(:nth-child(1), :nth-child(2), :nth-child(7)) {
+  text-align: left !important;
+}
+
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(1) { width: 14% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(2) { width: 11% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(3) { width: 18% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(4) { width: 12% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(5) { width: 18% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(6) { width: 14% !important; }
+.callout:has(.concept-meta-moderator-table-marker) :is(th, td):nth-child(7) { width: 13% !important; }

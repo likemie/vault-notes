@@ -42,6 +42,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Funnel Plot]]"
   - "[[Variable]]"
   - "[[Creativity]]"
   - "[[Cooperative Learning]]"
@@ -91,7 +92,7 @@ updated: 2026-08-24
 > | 纳入文献特征与透明度 | 2 | 检验是否提供纳入研究完整清单及汇总特征表或[[Forest Plot\|森林图]] | 二分类（每条 0/1 分） |
 > | 原始研究质量评估与应用 | 2 | 检验是否评估原始研究科学质量并在结论或调节分析中恰当使用 | 二分类（每条 0/1 分） |
 > | 统计综合与[[Effect Size\|效应量]]合并模型 | 2 | 检验合并方法是否恰当（[[Heterogeneity\|异质性]]检验、随机效应）及是否报告[[Confidence Interval\|置信区间]]与[[Standard Error\|标准误]] | 二分类（每条 0/1 分） |
-> | [[Publication Bias\|发表偏倚]]与[[Conflict of Interest in Research\|利益冲突]]控制 | 2 | 检验是否通过漏斗图或统计检验评估发表偏倚及是否声明资金与利益冲突 | 二分类（每条 0/1 分） |
+> | [[Publication Bias\|发表偏倚]]与[[Conflict of Interest in Research\|利益冲突]]控制 | 2 | 检验是否通过[[Funnel Plot\|漏斗图]]或统计检验评估发表偏倚及是否声明资金与利益冲突 | 二分类（每条 0/1 分） |
 
 ---
 

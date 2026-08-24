@@ -11,10 +11,10 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/creativity
   - construct/cognitive-ability
@@ -48,6 +48,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Jigsaw]]"
   - "[[Construct]]"
+  - "[[Common Method Variance]]"
   - "[[Cooperative Integrated Reading and Composition]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -61,12 +62,13 @@ related_persons:
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Gungor_2026_CP]]"
+  - "[[Argument_Park_2026_TSC]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Creativity
@@ -235,6 +237,17 @@ updated: 2026-08-24
 > |---|---|---|---|---|---|---|
 > | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对数学创造性思维（[[Divergent Thinking\|发散思维]]与问题提出）的促进效应 | $k = 24$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.69$ $[0.42, 0.98]$ | — | 基础教育阶段准实验与全实验，采用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]等工具 |
 > | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（含创造性思维）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]在促进创造性构想生成中的有效性 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念：学生样本中创造力与[[Critical Thinking\|批判性思维]]的总体相关 | $k = 51$ / $N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $r = 0.386$ $[0.296, 0.470]$ | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
+
+> [!ma-table]- 一阶元分析互补维度亚组
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联[[Construct\|构念]] | 双主观组合（创造力主观 × 批判性思维主观） | — | $r = 0.509$ | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ | 相关最高；逐组合样本量与 95% CI 未在正文报告，见 [[Argument_Park_2026_TSC\|Park et al. (2026)]] 图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | — | $r = 0.317$ | 同上 | 高于全部混合组合，支持表现型测量间存在真实认知重叠 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力客观 × 批判性思维主观组合 | — | $r = 0.260$ | 同上 | 混合组合相关居中 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力主观 × 批判性思维客观组合 | — | $r = 0.195$ | 同上 | 混合组合相关最低 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -261,3 +274,4 @@ updated: 2026-08-24
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 开展创造力领域的[[Meta-meta-analysis|二阶元分析]]，系统整合 52 项一阶[[Meta-analysis|元分析]]，量化确立了创造力作为[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的基准效应，并证明教育干预（$r = 0.20$）对创造力的显著促进效能。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 开展[[Cooperative Learning|合作学习]]对多维学习产出的二阶元分析，实证确立了合作学习对创造性思维等高阶认知技能的赋能效应达到 $ES = 0.76$，证实小群体互动与认知冲突对[[Creative Problem Solving|创造性问题解决]]的促进价值。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] 开展学生样本中创造力与[[Critical Thinking|批判性思维]]相关的一阶元分析，综合 29 项研究 51 个[[Effect Size|效应量]]，确立两者中等正相关（$r = 0.386$），并证实测量类型显著调节相关大小——双主观组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。

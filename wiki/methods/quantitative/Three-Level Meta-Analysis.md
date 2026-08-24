@@ -10,9 +10,9 @@ summary: "处理同一原始研究内报告多个相关效应量所致统计依�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 33
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - meta-analysis
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Sampling Error]]"
+  - "[[Between-Study Variance]]"
   - "[[Document]]"
   - "[[Dependent Variable]]"
   - "[[Construct]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
+  - "[[Funnel Plot]]"
   - "[[Qualitative Codebook]]"
   - "[[Research Question]]"
   - "[[Literature Search]]"
@@ -53,10 +55,11 @@ related_methods:
   - "[[Moderator Analysis]]"
 related_arguments:
   - "[[Argument_Song_Choi_2026_FPSYG]]"
+  - "[[Argument_Park_2026_TSC]]"
 confidence: high
 status: draft
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-25
 ---
 
 # Three-Level Meta-Analysis
@@ -66,7 +69,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!def] 方法定义
-> 三层[[Meta-analysis|元分析]]（Three-Level Meta-Analysis）是将多层线性模型（Multilevel Linear Modeling）扩展应用于元分析的量化合成方法，专门用于解决单项原始研究报告多个相关[[Effect Size|效应量]]时产生的统计依赖性（Statistical Dependence）问题。该方法将观察到的总变异解构为三个层级：第一层为效应量层面的[[Sampling Error|抽样误差]]方差（Sampling Variance），第二层为同一研究内部不同效应量之间的研究内方差（Within-Study Variance），第三层为不同研究之间的研究间方差（Between-Study Variance）。[[Argument_Song_Choi_2026_FPSYG|(Song & Choi, 2026, pp. 4–5)]]
+> 三层[[Meta-analysis|元分析]]（Three-Level Meta-Analysis）是将多层线性模型（Multilevel Linear Modeling）扩展应用于元分析的量化合成方法，专门用于解决单项原始研究报告多个相关[[Effect Size|效应量]]时产生的统计依赖性（Statistical Dependence）问题。该方法将观察到的总变异解构为三个层级：第一层为效应量层面的[[Sampling Error|抽样误差]]方差（Sampling Variance），第二层为同一研究内部不同效应量之间的研究内方差（Within-Study Variance），第三层为不同研究之间的[[Between-Study Variance|研究间方差]]（Between-Study Variance）。[[Argument_Song_Choi_2026_FPSYG|(Song & Choi, 2026, pp. 4–5)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含多个非独立效应量的实证研究[[Document|文献]]集（如同一研究报告多个[[Dependent Variable|结果变量]]、子样本、[[Construct|构念]]维度或测量时间点）。
@@ -86,7 +89,7 @@ updated: 2026-08-20
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 视实证[[Document|文献]]中的测量结果为包含多源误差与多层[[Heterogeneity|异质性]]的抽样观察值，主张通过分层方差分解捕捉真实效应的结构性分布。
 > - **研究者角色** 在[[Effect Size|效应量]][[Coding in Qualitative Research|编码]]、[[Construct|构念]]分类、调节[[Variable|变量]]识别和协方差结构假定中行使理论与统计判断。
-> - **有效性标准** 依靠受限最大似然法（Restricted Maximum Likelihood, REML）估计、对数似然比检验（Log-Likelihood Ratio Test, LRT）对比模型拟合优度、[[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE）以及漏斗图与三层 Egger 回归检验。
+> - **有效性标准** 依靠受限最大似然法（Restricted Maximum Likelihood, REML）估计、对数似然比检验（Log-Likelihood Ratio Test, LRT）对比模型拟合优度、[[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE）以及[[Funnel Plot|漏斗图]]与三层 Egger 回归检验。
 > - **不声称回答的问题** 不能仅凭观察性效应量的[[Meta-analysis|元分析]]关联直接推断因果机制，也不能自动纠正原始研究内在的方法学偏倚。
 
 > [!method-stack] 方法层级
@@ -105,7 +108,7 @@ updated: 2026-08-20
 > 3. 构建无协[[Variable|变量]]的三层空模型（Intercept-Only Model），估计总效应量，并通过对数似然比检验（LRT）检验第二层与第三层方差的[[Statistical Significance|统计显著性]]。
 > 4. 计算各层方差分量与[[Heterogeneity|异质性]]比例指标（$I_{(1)}^2, I_{(2)}^2, I_{(3)}^2$），评估异质性来源。
 > 5. 引入类别或连续型调节变量构建混合效应多变量[[Meta-regression|元回归]]模型，评估背景特征、测量工具与学段等因素的[[Interaction Effect|调节效应]]。
-> 6. 执行[[Publication Bias|发表偏倚]]检验（三层 Egger 检验与漏斗图）与敏感性分析（逐一排除与异常值诊断），最后将 Fisher\'s $z$ 转换回原始指标进行解释与呈现。
+> 6. 执行[[Publication Bias|发表偏倚]]检验（三层 Egger 检验与[[Funnel Plot|漏斗图]]）与敏感性分析（逐一排除与异常值诊断），最后将 Fisher\'s $z$ 转换回原始指标进行解释与呈现。
 
 ### 量化方法模块
 
@@ -134,7 +137,7 @@ updated: 2026-08-20
 >
 > **这个公式在做什么** 计算抽样误差（Level 1）、研究内变异（Level 2）与研究间变异（Level 3）在总变异中所占的相对百分比。
 >
-> **符号说明** $\tilde{v}$ 为典型抽样方差；$\tau_{(2)}^2$ 为 Level 2 研究内真实方差；$\tau_{(3)}^2$ 为 Level 3 研究间真实方差。
+> **符号说明** $\tilde{v}$ 为典型抽样方差；$\tau_{(2)}^2$ 为 Level 2 研究内真实方差；$\tau_{(3)}^2$ 为 Level 3 [[Between-Study Variance|研究间真实方差]]。
 >
 > **数学直觉** 将经典的 $I^2$ 统计量推广至三层架构，使研究者能够明确异质性主要来自于研究内不同测量维度的差异（$I_{(2)}^2$）还是跨研究背景与样本的宏观差异（$I_{(3)}^2$）。
 >
@@ -187,3 +190,4 @@ updated: 2026-08-20
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用三层[[Meta-analysis|元分析]]模型分析了嵌套在 18 项研究中的 512 个[[Effect Size|效应量]]，妥善处理了单个研究同时报告多个[[Epistemology|认识论]][[Construct|构念]]与学习成果指标所造成的统计依赖性。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 对嵌套在 29 项研究中的 51 个相关系数采用三层随机效应[[Meta-analysis|元分析]]，将方差分解为[[Sampling Error|抽样误差]]、研究内与研究间三层，处理同一研究报告多个测量组合[[Effect Size|效应量]]造成的统计依赖性。

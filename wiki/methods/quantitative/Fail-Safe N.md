@@ -11,7 +11,7 @@ type: method
 domain: "research-methodology"
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
+  - "[[Funnel Plot]]"
   - "[[Cooperative Learning]]"
   - "[[Confidence Interval]]"
 related_theories: []
@@ -74,7 +75,7 @@ updated: 2026-08-24
 > - **知识观** 基于频数统计学[[Hypothesis|假设]]检验框架，将[[Publication Bias|发表偏倚]]建模为未发表阴性研究的“抽屉堆积”。
 > - **研究者角色** 通过设定临界显著性水平（$\alpha = .05$），对潜在缺失[[Document|文献]]的极端情形进行逆向推导。
 > - **有效性标准** 若计算得出的 $N_{\text{fs}} > 5k + 10$（Rosenthal 准则），则判定结论具备高度稳健性。
-> - **不声称回答的问题** 不能识别漏斗图不对称的具体机制，也不能直接修正有偏的[[Effect Size|效应量]]点估计值。
+> - **不声称回答的问题** 不能识别[[Funnel Plot|漏斗图]]不对称的具体机制，也不能直接修正有偏的[[Effect Size|效应量]]点估计值。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Meta-analysis|元分析]]偏倚敏感性分析
@@ -106,7 +107,7 @@ updated: 2026-08-24
 > | 维度 | 经典失安全数 (Rosenthal Fail-Safe N) | 现代偏倚校正法 ([[Trim and Fill Method\|剪补法]] / [[Multilevel Egger's Test\|Egger检验]]) |
 > |---|---|---|
 > | 直观性 | 极高，以“缺失研究篇数”输出直观常识指标 | 较低，输出漏斗图、拟合截距或虚拟填补[[Effect Size\|效应量]] |
-> | [[Hypothesis\|假设]]现实性 | 极差（假定所有未发表[[Document\|文献]]效应量严格等于 0） | 较好（基于漏斗图不对称形态建模） |
+> | [[Hypothesis\|假设]]现实性 | 极差（假定所有未发表[[Document\|文献]]效应量严格等于 0） | 较好（基于[[Funnel Plot\|漏斗图]]不对称形态建模） |
 > | 效应量校正 | **无法校正效应量点估计**，仅提供假设检验门槛 | 能够提供**偏倚校正后的真实效应量**点估计与[[Confidence Interval\|置信区间]] |
 > | 现代定位 | 仅作为辅助性参考与极端情境压力测试 | 循证研究与 PRISMA 推荐的标准报告工具 |
 

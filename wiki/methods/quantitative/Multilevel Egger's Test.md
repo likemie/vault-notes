@@ -10,7 +10,7 @@ summary: "在多水平与聚类依赖元分析数据中检验小研究效应与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Funnel Plot]]"
   - "[[Hypothesis]]"
   - "[[Research Contribution]]"
   - "[[Sample Size Determination]]"
@@ -72,7 +73,7 @@ updated: 2026-08-24
 
 ## 方法定位：解决的核心问题
 
-> [!contrast-table] 传统单水平 Egger 检验 vs 漏斗图[[Trim and Fill Method|剪补法]] vs 多水平 Egger 检验
+> [!contrast-table] 传统单水平 Egger 检验 vs [[Funnel Plot|漏斗图]][[Trim and Fill Method|剪补法]] vs 多水平 Egger 检验
 > | 比较维度 | 传统 Egger 检验（1997） | 漏斗图剪补法（Trim and Fill） | 多水平 Egger 检验（Rodgers & Pustejovsky, 2021） |
 > |---|---|---|---|
 > | **独立性[[Hypothesis\|假设]]** | 假定每项[[Research Contribution\|研究贡献]]单一独立[[Effect Size\|效应量]] | 假定漏斗图基于独立样本 | **允许效应量嵌套于研究/[[Meta-analysis\|元分析]]中（聚类依赖）** |

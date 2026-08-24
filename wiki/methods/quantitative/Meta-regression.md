@@ -7,9 +7,9 @@ summary: "在元分析框架下，通过加权回归检验研究特征（调节�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 42
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/statistical
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Interaction Effect]]"
+  - "[[Between-Study Variance]]"
   - "[[Publication Bias]]"
   - "[[Sample Size Determination]]"
   - "[[Epistemic Cognition]]"
@@ -41,8 +42,11 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Preregistration]]"
   - "[[Analytic Framework]]"
+  - "[[Creativity]]"
+  - "[[Critical Thinking]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
+  - "[[Argument_Park_2026_TSC]]"
 related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
@@ -59,7 +63,7 @@ related_methods:
   - "[[Analysis of Variance]]"
 status: active
 created: 2026-08-19
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Meta-regression
@@ -102,7 +106,7 @@ updated: 2026-08-24
 > [!proc] 通用程序
 > 1. 明确理论问题：预设哪些研究特征（如[[Reliability|信度]]、学段、任务类型）可能[[Interaction Effect|调节效应]]量大小。
 > 2. 系统检索与[[Document|文献]]筛选，提取各研究的[[Effect Size|效应量]]指标（如 $r$、$d$、$g$）及其抽样方差 $v_i$，并对调节[[Variable|变量]]进行标准化[[Coding in Qualitative Research|编码]]。
-> 3. 计算合并效应与[[Heterogeneity|异质性]]检验，评估总异质性 $Q_{\text{total}}$ 与研究间方差 $\tau^2$ 是否支持进行元回归。
+> 3. 计算合并效应与[[Heterogeneity|异质性]]检验，评估总异质性 $Q_{\text{total}}$ 与[[Between-Study Variance|研究间方差]] $\tau^2$ 是否支持进行元回归。
 > 4. 构建加权元回归模型（固定效应或随机效应），估计截距 $\beta_0$、偏回归系数 $\beta_j$、[[Confidence Interval|置信区间]]及模型解释比例 $R^2_{\text{analog}}$。
 > 5. 进行模型诊断：检查残余异质性 $Q_{\text{residual}}$、多重共线性、高杠杆异常点及[[Publication Bias|发表偏倚]]影响。
 
@@ -217,3 +221,4 @@ updated: 2026-08-24
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 在[[Epistemic Cognition|认识论认知]][[Meta-analysis|元分析]]中运用元回归检验[[Questionnaire|问卷]][[Reliability|信度]]对[[Effect Size|效应量]]的预测力，发现信度回归系数达 $b = .300$。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在三水平[[Meta-analysis|元分析]]框架下运用元回归检验参与者年龄、学段、地理区域、发表年份及[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]测量类型（主观 vs 客观）对相关量的调节作用，并检验两类测量类型的交互项（$Q_M(1) = 6.524, p = .011$）。

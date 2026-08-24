@@ -8,7 +8,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Mentorship]]"
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
   - "[[School Leadership]]"
@@ -57,7 +56,7 @@ updated: '2026-05-18'
 > - **地点** 在著名足球俱乐部的体育场内设立学习中心
 > - **学生身份体验** 学生参观俱乐部博物馆、董事会议室，与明星球员见面——"被选中参与的学生感受到的是特权而非污名"（Sharp et al., 2003, pp. 113–120）
 > - **总时长** 每名学生 20 小时（持续约 6 个月）
-> - **资源投入** 一对一辅导（one-to-one [[Mentorship|mentoring]]）、专用 ICT 套件
+> - **资源投入** 一对一辅导（one-to-one mentoring）、专用 ICT 套件
 > - **课程设计** 个性化课程（personalised curriculum），适应每个学生在读写、计算和 ICT 技能方面的个人需求
 > - **教学方法** 围绕实践性和情境化活动设计——数学步道（mathematics trails）、数座位和测量球场、使用门票收入与商店/餐厅/售货亭销售数据进行计算和数据操作、撰写比赛报道、研究和撰写球员传记、编制体育杂志或比赛节目、使用体育主题任务学习互联网搜索
 >

@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Cult of Efficiency]]"
   - "[[Analytic Framework]]"
-  - "[[Praxis]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Document]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Paradigm]]"
   - "[[Falsification]]"
+  - "[[Phronesis]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
@@ -72,7 +72,7 @@ updated: 2026-05-18
 ## 历史沿革
 
 > [!note-] 历史沿革
-> - **Callahan（1962）** 出版 *Education and the [[Cult of Efficiency]]*，论证 20 世纪上半叶美国公立学校改革被商业管理[[Praxis|实践]]（尤其是 Taylor 1911 的科学管理）渗透——Eacott 将这一[[Analytic Framework|分析框架]]类比应用于当代澳大利亚的 Hattie 现象([[Argument_Eacott_2017_SLM|Eacott, 2017, p.413-414]])
+> - **Callahan（1962）** 出版 *Education and the [[Cult of Efficiency]]*，论证 20 世纪上半叶美国公立学校改革被商业管理实践（尤其是 Taylor 1911 的科学管理）渗透——Eacott 将这一[[Analytic Framework|分析框架]]类比应用于当代澳大利亚的 Hattie 现象([[Argument_Eacott_2017_SLM|Eacott, 2017, p.413-414]])
 > - **2009 年** Hattie 出版 *[[Visible Learning]]*，此后被 ACEL 年会频繁邀请为主题演讲者（自 2009 年起），其品牌开始向多领域扩展([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]])
 > - **2015 年** ACEL and Corwin 出版公司正式宣布合作伙伴关系，系统推广 Hattie 启发的专业发展工作坊和出版物
 > - **2017 年** Eacott 发表"Cult of the Guru"论文，系统论证 Hattie 已成为澳大利亚[[School Leadership|学校领导力]]领域的大师崇拜对象，其工作"现在在澳大利亚教育中无处不在"([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419, 422]])
@@ -136,7 +136,7 @@ updated: 2026-05-18
 >
 > **（3）否认"大师崇拜"的存在。** Hattie 以 ACEL 网站列出了许多其他讲者、论文和批评者为证据，逐条回应 Eacott 的三项主张：（a）针对 Eacott 主张 Hattie 的工作因满足泰勒主义效率追求而获得接受——Hattie 反驳 Eacott 在"嘲笑严谨性和稳健性"（p.428-429）；（b）针对 Eacott 主张 VL 数据吸引行政人员——Hattie 坚持[[Meta-analysis|元分析]]综合的严谨性，声称 VL 的核心思想被教师和[[School Leadership|学校领导]]欢迎（p.429）；（c）针对 Eacott 主张学校领导力已屈服于大师崇拜——Hattie 称"Eacott 不必担心；有很多批评我工作的人；有很多部门官员和政客使用我之外的来源；有教师和学校领导选择 VL 之外的信息"（p.430）。
 >
-> **（4）将教师[[Praxis|实践]]智慧作为最终检验标准。** [[Argument_Hattie_2017_SLM|Hattie (2017, p.430)]]在结论中声称："如果实施这些想法没有改善学生学习生活的证据，教育者会迅速抛弃它们。教育者不是不加批判的大师崇拜信徒。"
+> **（4）将教师[[Phronesis|实践智慧]]作为最终检验标准。** [[Argument_Hattie_2017_SLM|Hattie (2017, p.430)]]在结论中声称："如果实施这些想法没有改善学生学习生活的证据，教育者会迅速抛弃它们。教育者不是不加批判的大师崇拜信徒。"
 
 
 > [!warning] [[Argument_Eacott_2019_IJLE|Eacott (2019)]]对 Hattie 回应的再分析

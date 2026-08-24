@@ -7,7 +7,7 @@ summary: "对已有系统综述和元分析进行再综合的高级综述方法�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
 - methodology
 related_concepts:
   - "[[Effect Size]]"
-  - "[[Praxis]]"
   - "[[Heterogeneity]]"
   - "[[Recommendations for Practice]]"
 related_theories: []
@@ -44,7 +43,7 @@ updated: '2026-06-08'
 ## 定义
 
 > [!info] 定义
-> 伞状综述（Umbrella Review）是一种对已有[[Systematic Review|系统综述]]和[[Meta-analysis|元分析]]进行再综合的高级综述方法。Grant & Booth（2009）将其定义为一种整合多个综述的证据的综合形式。与[[Meta-meta-analysis|元-元分析]]直接合并[[Effect Size|效应量]]不同，伞状综述更强调以共同的方法论框架跨不同领域整合证据，为[[Praxis|实践]]者提供可比较的信息([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
+> 伞状综述（Umbrella Review）是一种对已有[[Systematic Review|系统综述]]和[[Meta-analysis|元分析]]进行再综合的高级综述方法。Grant & Booth（2009）将其定义为一种整合多个综述的证据的综合形式。与[[Meta-meta-analysis|元-元分析]]直接合并[[Effect Size|效应量]]不同，伞状综述更强调以共同的方法论框架跨不同领域整合证据，为实践者提供可比较的信息([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])。
 >
 > [[EEF Teaching and Learning Toolkit]] 是伞状综述在教育领域最具代表性的应用。[[Argument_Higgins_2016_RE|Higgins (2016)]]将 Toolkit 的摘要描述为一系列整合的伞状综述，以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结（p.47）。
 
@@ -78,14 +77,14 @@ updated: '2026-06-08'
 >
 > 元-[[Meta-analysis|元分析]]侧重于对多个元分析的[[Effect Size|效应量]]进行统计合并，产生单一的汇总估计。伞状综述更侧重于以共同方法论框架整合多个综述的结论，输出形式可以是效应量排名，也可以是证据质量分级和[[Recommendations for Practice|实践建议]]。
 >
-> [[EEF Teaching and Learning Toolkit]] 的设计融合了两者的特征。它使用元综合的统计逻辑来估计效果，但以伞状综述的方法论框架来组织跨领域的证据，并以可及的方式呈现给[[Praxis|实践]]者([[Argument_Higgins_2016_RE|Higgins, 2016, pp.46–47]])。
+> [[EEF Teaching and Learning Toolkit]] 的设计融合了两者的特征。它使用元综合的统计逻辑来估计效果，但以伞状综述的方法论框架来组织跨领域的证据，并以可及的方式呈现给实践者([[Argument_Higgins_2016_RE|Higgins, 2016, pp.46–47]])。
 
 ---
 
 ## 适用场景
 
 > [!success] 适用场景
-> - 当特定领域已有大量[[Systematic Review|系统综述]]和[[Meta-analysis|元分析]]，需要为[[Praxis|实践]]者提供跨领域的比较性信息时
+> - 当特定领域已有大量[[Systematic Review|系统综述]]和[[Meta-analysis|元分析]]，需要为实践者提供跨领域的比较性信息时
 > - 当政策决策需要同时考虑多个教育干预的相对效果、成本和证据强度时
 > - 当证据需要以非研究者可理解的方式呈现时
 > - [[EEF Teaching and Learning Toolkit]] 是教育领域最典型的伞状综述应用，覆盖 30 多类教育干预([[Argument_Higgins_2016_RE|Higgins, 2016, p.47]])

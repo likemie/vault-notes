@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Ontology]]"
   - "[[Publication Bias]]"
+  - "[[Funnel Plot]]"
   - "[[Interaction Effect]]"
 related_theories:
   - "[[Reflective Judgment Model]]"
@@ -207,7 +208,7 @@ updated: 2026-08-20
 > | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
 > |---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | — | 漏斗图，Trim-and-fill，[[Fail-Safe N]] | 0.162 | 稳定 | Fail-safe N=9265，未发现发表偏倚 |
-> | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 逐一排除敏感性分析（r 稳定在 0.177–0.203）；无绝对残差 \|z\| > 3.29 的离群值 | 三层 [[Egger Regression Test\|Egger 回归检验]]（斜率 = -1.007, p = 0.429；截距 = 0.257, p = 0.004）与漏斗图 | 0.191 | 稳定 | 漏斗图对称，未发现发表偏倚或小样本效应 |
+> | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 逐一排除敏感性分析（r 稳定在 0.177–0.203）；无绝对残差 \|z\| > 3.29 的离群值 | 三层 [[Egger Regression Test\|Egger 回归检验]]（斜率 = -1.007, p = 0.429；截距 = 0.257, p = 0.004）与漏斗图 | 0.191 | 稳定 | [[Funnel Plot\|漏斗图]]对称，未发现发表偏倚或小样本效应 |
 
 ---
 

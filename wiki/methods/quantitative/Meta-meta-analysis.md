@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 80
+method_related_count: 81
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Growth]]"
   - "[[Dependent Variable]]"
+  - "[[Funnel Plot]]"
   - "[[Independent Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Transcription in Qualitative Research]]"
@@ -220,7 +221,7 @@ updated: 2026-08-24
 > |:---|:---|:---|:---|:---|
 > | **[[Inverse-Variance Weighting\|经典逆方差加权（IVW）]]** | **精度加权基础算法** | 解决简单算术平均扭曲估计精度的问题，依据抽样方差与研究间异质性方差的倒数（$w_i^* = \frac{1}{v_i + \tau^2}$）分配权重，实现合成效应量方差最小化。 | 观察 95% 置信区间是否跨 0 及 $p < .05$；通过 $Q$ 统计量（$p < .05$）与 $I^2$ 指数（$25\%/50\%/75\%$ 分别对应低/中/高度异质性）判定跨研究离散度。 | 🔗 [[Inverse-Variance Weighting]] |
 > | **[[Fail-Safe N\|经典失安全系数（Fail-Safe N）]]** | **抽屉文件极端敏感性测试** | 解决潜在未发表阴性研究威胁的判断问题，通过计算将当前显著合并效应拉低至不显著所需零效应隐藏研究篇数，设定 $5k + 10$ 安全判定门槛。 | **Rosenthal 安全准则** 若计算值 **$N_{\text{fs}} > 5k + 10$**（$k$ 为纳入效应量数），则判定发表偏倚极难颠覆当前结论；反之则提示证据稳健性较脆弱。 | 🔗 [[Fail-Safe N]] |
-> | **[[Trim and Fill Method\|剪补法（Trim & Fill / DTTF）]]** | **非参数漏斗图偏倚填补校正** | 解决单侧[[Publication Bias\|发表偏倚]]导致漏斗图不对称与[[Effect Size\|效应量]]高估的问题，通过迭代剪除极端不对称研究锁定对称中心，并对侧镜像填补虚拟研究以重新估计偏倚校正后的真实效应量。 | **填补数与效应量变动判断** 若估计缺失研究数 **$k_{\text{miss}} = 0$** 且校正后效应量无变化，确证无偏倚；若 $k_{\text{miss}} > 0$，对比填补后效应量点估计降幅与 95% CI 是否仍显著。 | 🔗 [[Trim and Fill Method]] |
+> | **[[Trim and Fill Method\|剪补法（Trim & Fill / DTTF）]]** | **非参数[[Funnel Plot\|漏斗图]]偏倚填补校正** | 解决单侧[[Publication Bias\|发表偏倚]]导致漏斗图不对称与[[Effect Size\|效应量]]高估的问题，通过迭代剪除极端不对称研究锁定对称中心，并对侧镜像填补虚拟研究以重新估计偏倚校正后的真实效应量。 | **填补数与效应量变动判断** 若估计缺失研究数 **$k_{\text{miss}} = 0$** 且校正后效应量无变化，确证无偏倚；若 $k_{\text{miss}} > 0$，对比填补后效应量点估计降幅与 95% CI 是否仍显著。 | 🔗 [[Trim and Fill Method]] |
 > | **[[Egger Regression Test\|经典艾格回归检验（Egger's Test）]]** | **参数化漏斗图不对称与[[Small Study Effects\|小研究效应]]检验** | 解决传统单水平元分析中主观目测漏斗图不对称的不精确性问题，通过标准化效应量对精度的线性回归截距偏离度定量诊断发表偏倚。 | **回归截距显著性判定** 检验线性方程截距 $a$；若 **$p < .05$** 且截距显著偏离 0，确认存在显著发表偏倚/小研究效应；若 **$p \ge .05$**，未检出显著偏倚。 | 🔗 [[Egger Regression Test]] |
 > | **[[Begg and Mazumdar Rank Correlation\|Begg 秩相关检验（Rank Correlation）]]** | **非参数等级相关偏倚检验** | 解决小样本研究与效应量大小单调关联的诊断问题，通过计算标准化效应量与方差的 Kendall's $\tau$ 秩相关，提供不受正态性假定约束的偏倚检验。 | **等级相关显著性标准** 若 **$p \ge .05$**（$\tau$ 接近 0），判定效应量与样本量无单调关联，未提示发表偏倚；若 **$p < .05$** 且 $\tau > 0$，提示存在显著小研究偏倚。 | 🔗 [[Begg and Mazumdar Rank Correlation]] |
 

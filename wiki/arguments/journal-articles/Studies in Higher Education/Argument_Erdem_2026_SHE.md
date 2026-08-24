@@ -50,6 +50,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Flow]]"
   - "[[Standard Error]]"
+  - "[[Funnel Plot]]"
   - "[[Surface and Deep Learning]]"
   - "[[Problem Finding]]"
   - "[[Research Scope]]"
@@ -86,7 +87,7 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -376,7 +377,7 @@ issuing_organization: ""
 > - Begg & Mazumdar 秩相关 tau = −.01，z = .12，p = .89，未提示发表偏倚；Egger 回归 t(45) = 5.53，p < .001，提示小效应研究未充分代表。（pp. 960–961）
 > - Duval & Tweedie [[Trim and Fill Method|剪补法]]建议在均值左侧补入 k = 6 个负或小效应量，调整后 $d = 0.60$（$CI = [0.49, 0.71]$），与观测值差约 0.08。（p. 961）
 
-> [!example]- 图2：效应量漏斗图（Funnel Plot Graph）
+> [!example]- 图2：效应量[[Funnel Plot|漏斗图]]（Funnel Plot Graph）
 > ![](https://img.mylikemie.icu/sources/Erdem_2026_SHE/figures/Erdem_2026_SHE_Fig2_Funnel_Plot_Graph.jpg)
 
 > [!stat-cards]- 核心综合数据

@@ -20,13 +20,13 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Domain Specificity]]"
   - "[[Ways of Knowing]]"
   - "[[Knowledge Framework]]"
   - "[[Knowledge Questions]]"
   - "[[Domain Analysis]]"
   - "[[Document]]"
+  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Constructed Knowledge]]"
   - "[[Reliability]]"
@@ -74,7 +74,7 @@ updated: 2026-08-17
 > **知识领域（Areas of Knowledge，AOK）** 广义上指[[Knowledge Production|知识生产]]、信念辩护和日常论辩发生的具体领域，涵盖从个人品味、审美和价值判断到社会事实与物理事实的连续范围。狭义上，它是[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）课程中用于比较主要学科与知识传统的课程框架。它考察各科如何界定对象、形成概念、接受证据、选择方法并建立判断标准，超越对学科事实数量的统计。[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, pp. 314–319)]] [[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 35–39)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 将抽象的[[Epistemology|认识论]]问题放进具体知识[[Praxis|实践]]，例如比较数学证明、科学实验、历史解释与审美判断凭什么成立。
+> - **含义** 将抽象的[[Epistemology|认识论]]问题放进具体知识实践，例如比较数学证明、科学实验、历史解释与审美判断凭什么成立。
 > - **用途** 在课程中，它帮助学生比较不同学科的证据、方法与解释标准；在心理学中，它用于分析认识论发展在不同判断领域中的[[Domain Specificity|领域特异性]]。
 > - **边界** 领域名称是比较入口，不是封闭领地。一个领域内部可能并存多种方法，不同领域也会共享语言、模型、量化、解释与价值判断。
 
@@ -105,7 +105,7 @@ updated: 2026-08-17
 1965 年形成的六学科结构让学生接触语言、数学、社会科学、实验科学和其他选修领域，以多种思维方式维持通识广度。然而，并列修读不同学科并不会自动产生统整。[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）指出，大学预备课程中的学生往往把物理与历史、文学与心理学、历史与文学分别置于封闭隔间，考试形式还会强化这种分离。与此同时，学生在各科中使用了不同证据与解释方式，却未必能明确说出这些知识形式的根据和限制。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 45–47)]]
 
 > [!chain-link] 从学科分布到知识领域比较
-> - **多学科接触** 六学科分布让学生实际进入性质不同的知识[[Praxis|实践]]，广度来自领域分布，深度来自各科的持续学习。
+> - **多学科接触** 六学科分布让学生实际进入性质不同的知识实践，广度来自领域分布，深度来自各科的持续学习。
 > - **知识形式显化** [[Theory of Knowledge|TOK]] 把历史解释、科学概念、数学证明和价值判断中隐含的规则变成可讨论对象。
 > - **共同问题比较** 学生比较一个主张在逻辑、数学、物理、社会研究或历史中凭什么被接受，并考察量化在不同学科中的作用与限度。
 > - **原则迁移** 当学科原则被明确表达，学生才可能把历史性、科学性或数学性思考带到新的公共、职业与生活问题中。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, Ch. 3, pp. 47–48)]]
@@ -242,7 +242,7 @@ updated: 2026-08-17
 ### 命题三　领域分类过度简化时会阻碍真正的跨领域理解
 
 > [!concept-lens] 分类边界
-> AOK 为复杂知识提供导航，但分类名称容易被误用为领域本质。有效比较需要回到具体方法、历史争论和知识[[Praxis|实践]]，检验领域内部差异及领域之间的共享结构。
+> AOK 为复杂知识提供导航，但分类名称容易被误用为领域本质。有效比较需要回到具体方法、历史争论和知识实践，检验领域内部差异及领域之间的共享结构。
 
 > [!claim] 休斯（C. Hughes）
 > **领域标签可能制造排他性认识论** 过度强调[[Domain Specificity|领域特异性]]会产生数学等于推理、艺术等于表达、科学等于[[Falsification|证伪]]等简化判断。这类标签压缩领域内部多样性，也遮蔽信念、创造、解释和模型在多个领域中的共同作用，限制迁移与更广阔的概念理解。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 39)]]
@@ -311,7 +311,7 @@ updated: 2026-08-17
 ## 争议与批评
 
 > [!tension] [[Domain Specificity|领域特异性]]与跨领域迁移
-> - **领域特异性立场** 知识按照学科图式[[Coding in Qualitative Research|编码]]，各领域具有不同的方法、证据标准和专业[[Praxis|实践]]，批判性判断因而依赖具体领域知识。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34, 38–39)]]
+> - **领域特异性立场** 知识按照学科图式[[Coding in Qualitative Research|编码]]，各领域具有不同的方法、证据标准和专业实践，批判性判断因而依赖具体领域知识。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34, 38–39)]]
 > - **跨领域迁移立场** 证据、因果、解释、信念和不确定性等结构能够跨越学科情境，课程应帮助学习者抽离并迁移这些思维模式。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 34, 38–39)]]
 
 > [!critique-method] 分类与评估风险

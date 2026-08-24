@@ -59,6 +59,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Flow]]"
+  - "[[Funnel Plot]]"
   - "[[Standard Error]]"
   - "[[Interaction Effect]]"
   - "[[Deficiencies in Past Literature]]"
@@ -102,7 +103,7 @@ title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -293,7 +294,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - 综合 23 个效应量（涵盖 403 项原始研究），总体加权平均效应量为 $ES = 0.71$（$95\%\text{ CI} = [0.55, 0.87]$），[[Heterogeneity|异质性]]检验表明效应量存在高水平异质性（$Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$），证实不同研究间存在实质性变异。（p. 6）
 > - 在各产出类型中，高阶思维技能效应量最高（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11], k = 4$），学业成就次之（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90], k = 12$），情感行为亦显著正向（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84], k = 6$），综合产出达 $ES = 1.25$（$k = 1$），产出间差异未达统计显著（$Q_b(3) = 4.35, p = .23$）。（pp. 8–9）
-> - 经典[[Fail-Safe N|失安全系数]] $N = 4954$ 远超临界值 125（$5k + 10$）；Egger 回归未检出偏倚（$t = 2.08, p = .05$）；杜瓦尔与特威迪[[Trim and Fill Method|剪补法]]（Duval and Tweedie's Trim and Fill，DTTF）补充 0 个效应量；漏斗图整体对称（图2）。（p. 8）
+> - 经典[[Fail-Safe N|失安全系数]] $N = 4954$ 远超临界值 125（$5k + 10$）；Egger 回归未检出偏倚（$t = 2.08, p = .05$）；杜瓦尔与特威迪[[Trim and Fill Method|剪补法]]（Duval and Tweedie's Trim and Fill，DTTF）补充 0 个效应量；[[Funnel Plot|漏斗图]]整体对称（图2）。（p. 8）
 
 > [!example]- 图2：效应量漏斗图（Funnel Plot Graph）
 > ![](https://img.mylikemie.icu/sources/Gungor_2026_CP/figures/Gungor_2026_CP_Fig2_Funnel_Plot_Graph.jpg)

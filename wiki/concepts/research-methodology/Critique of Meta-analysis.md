@@ -5,7 +5,7 @@ aliases:
 summary: "围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系，涵盖研究可比性、输入质量、发表偏倚、过度简化、统计推断、领域迁移、抽样伦理和平均效应误导等问题"
 type: concept
 domain: "research-methodology"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Scientific Method]]"
   - "[[Document]]"
+  - "[[Funnel Plot]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
@@ -365,7 +366,7 @@ updated: 2026-07-13
 > 2. [[Effect Size|效应量]]是**干预**的结果还是仅仅是**关联**？
 > 3. 效应量比较的是**相同的事物**（如与替代干预比较或"照常教学"比较，而非仅前后比较）？
 > 4. 效应量在**同一层面（如个体层面 vs. 群体层面）**？
-> 5. 是否检查了**[[Publication Bias|发表偏倚]]**（如漏斗图）？
+> 5. 是否检查了**[[Publication Bias|发表偏倚]]（如[[Funnel Plot|漏斗图]]）**？
 > 6. 被比较的干预在**持续时间**上是否相似？
 > 7. 被比较的干预在**强度**上是否相似？
 > 8. 使用的所有**结果测量**是否测量**同一事物**？

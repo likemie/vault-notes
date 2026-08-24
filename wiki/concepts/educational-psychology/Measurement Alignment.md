@@ -105,7 +105,7 @@ updated: 2026-08-19
 ---
 
 ### 命题二　学科认识论规范的清晰度决定了领域对齐效应的稳健性
-> [!concept-lens] 学科特异性与对齐效应的交互
+> [!concept-lens] [[Domain Specificity|学科特异性]]与对齐效应的交互
 > 并不是所有学科的对齐效应表现一致，学科内部知识[[Justificatory Standards|确证标准]]的明确程度调节着对齐的收益。
 
 > [!claim] Greene, J.
@@ -127,7 +127,7 @@ updated: 2026-08-19
 
 > [!dev-timeline] 概念演变
 > - **1970–1990 — 宏观通用测量时代** 早期研究（Perry、Schommer）普遍采用跨学科的通用[[Questionnaire|问卷]]，默认[[Epistemological Beliefs|认识论信念]]是跨情境稳定的个体特质，忽略了测量对齐的重要性。
-> - **2000–2006 — 学科特异性转向** Hofer (2000) 与 Muis et al. (2006) 提出特定学科信念问卷，[[Epistemology|认识论]]研究开始区分通用与特定学科情境，对齐意识萌芽。
+> - **2000–2006 — [[Domain Specificity|学科特异性]]转向** Hofer (2000) 与 Muis et al. (2006) 提出特定学科信念问卷，[[Epistemology|认识论]]研究开始区分通用与特定学科情境，对齐意识萌芽。
 > - **2018 — 系统对齐法则的确立** [[Argument_Greene_2018_JEP|Greene et al. (2018)]] 在大规模[[Meta-analysis|元分析]]中形式化界定了颗粒度对齐与领域对齐的双重框架，通过量化证据确立了测量对齐在教育心理学中的基准地位。
 
 ---

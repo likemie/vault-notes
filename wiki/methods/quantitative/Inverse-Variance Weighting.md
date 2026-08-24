@@ -11,7 +11,7 @@ summary: "元分析与统计综合中最核心的最优加权方法，依据各�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,9 +25,11 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
+  - "[[Between-Study Variance]]"
   - "[[Epistemology]]"
   - "[[Sample Size Determination]]"
   - "[[Publication Bias]]"
+  - "[[Funnel Plot]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Sampling Error]]"
@@ -70,7 +72,7 @@ updated: 2026-08-24
 > - **研究对象** 包含连续型或二分类效应量（如 Cohen's $d$、Hedges' $g$、Pearson $r$、比值比 Odds Ratio、相对危险度 Relative Risk）及其相应方差或[[Standard Error|标准误]]的数据集。
 > - **问题类型** 用于解答多个独立实证研究或一阶元分析效应量的定量聚合、精度加权合成与全领域平均效应估计问题。
 > - **分析单位** 独立的原始实证研究（在一阶元分析中）或独立的一阶元分析效应量（在[[Meta-meta-analysis|二阶元分析]]中）。
-> - **输出形式** 逆方差加权平均效应量点估计值、合成标准误、95% [[Confidence Interval|置信区间]]、总异质性统计量（$Q$ 值与 $I^2$）以及研究间方差 $\tau^2$。
+> - **输出形式** 逆方差加权平均效应量点估计值、合成标准误、95% [[Confidence Interval|置信区间]]、总异质性统计量（$Q$ 值与 $I^2$）以及[[Between-Study Variance|研究间方差]] $\tau^2$。
 
 > [!citation-card]- 经典界定与方法学规范
 > 在元分析加权估计中，简单算术平均会严重扭曲估计精度，必须依据每个研究的估计精度（抽样方差的倒数 $w_i = 1/v_i$）进行逆方差加权，方能确保大样本高精度研究主导合成结果，同时控制总体估计误差。在二阶综合中，若忽视逆方差加权而直接采用算术平均，将导致效应量与置信区间出现系统性偏差。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 26–29)]]
@@ -91,7 +93,7 @@ updated: 2026-08-24
 > - **研究设计** 一阶定量[[Meta-analysis|元分析]]（Meta-analysis）与[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis / [[Umbrella Review]]）。
 > - **数据收集** 提取各研究的效应量点估计值（$ES_i$）、样本量（$n_{1i}, n_{2i}$）、标准误（$SE_i$）或 95% [[Confidence Interval|置信区间]]。
 > - **分析方法** [[Fixed-Effect and Random-Effects Models|固定效应模型]]加权合成、随机效应模型加权合成、DerSimonian-Laird 异质性矩估计、限制极大似然估计（REML）。
-> - **辅助技术** 效应量测度转换、漏斗图与发表偏倚检验、敏感性分析、亚组调节检验。
+> - **辅助技术** 效应量测度转换、[[Funnel Plot|漏斗图]]与发表偏倚检验、敏感性分析、亚组调节检验。
 
 ---
 
@@ -133,7 +135,7 @@ updated: 2026-08-24
 > **这个公式在做什么** 假设不同研究由于被试特征、干预情境与实施方案的差异而具有不同的真实效应量，权重由研究内抽样方差 $v_i$ 与研究间异质性方差 $\tau^2$ 共同决定。
 >
 > **符号说明**
-> - $\tau^2$：研究间真实效应量的异质性方差（Between-Study Variance）。
+> - $\tau^2$：研究间真实效应量的异质性方差（[[Between-Study Variance]]）。
 > - $w_i^*$：第 $i$ 个研究在随机效应模型下的调整权重。
 > - $\bar{y}_{\text{RE}}$：随机效应模型下的加权平均效应量。
 >
@@ -191,7 +193,7 @@ updated: 2026-08-24
 > [!method-limits] 方法局限
 > - **对大样本研究极端值敏感** 在[[Fixed-Effect and Random-Effects Models|固定效应模型]]下，超大样本研究会占据绝大多数权重，若该研究存在系统性测量偏误，将拉偏全局估计。
 > - **不能消除[[Document|文献]]重叠偏倚** 逆方差加权假定各观测项彼此独立；若多个[[Meta-analysis|元分析]]包含相同的主要研究，直接应用逆方差加权会导致重复研究获得多重权重（Double-Counting）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
-> - **小样本研究中 $\tau^2$ 估计不稳定** 当纳入研究数量较少（如 $k < 5$）时，研究间方差 $\tau^2$ 的估计精度极低，随机效应加权权重的[[Reliability|可靠性]]下降。
+> - **小样本研究中 $\tau^2$ 估计不稳定** 当纳入研究数量较少（如 $k < 5$）时，[[Between-Study Variance|研究间方差]] $\tau^2$ 的估计精度极低，随机效应加权权重的[[Reliability|可靠性]]下降。
 
 ---
 

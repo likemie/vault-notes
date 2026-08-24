@@ -8,10 +8,10 @@ aliases:
 summary: "指元分析中小样本研究系统性报告比大样本研究更大效应量的经验现象，源于发表偏倚、方法学质量差异与小样本过度拟合等多重偏倚机制。"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - field/research-methodology
   - topic/quantitative-methods
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Funnel Plot]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Presence]]"
@@ -62,7 +63,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> [[Small Study Effects|小研究效应]]（Small-Study Effects，亦称小样本研究效应）是指在[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中观察到的一种经验现象：**较小[[Sample Size Determination|样本量]]（即较大[[Standard Error|标准误]]）的研究倾向于系统性报告比大样本研究更大、更具[[Statistical Significance|统计显著性]]的[[Effect Size|效应量]]。**这一现象由 Sterne et al. (2000)、Sterne & Egger (2005) 以及 [[Argument_Runco_2026_CRJ|Runco et al. (2026, pp. 5–6)]] 等研究记录。小研究效应是造成漏斗图（Funnel Plot）不对称的根本物理原因，其来源不仅包括[[Document|文献]][[Publication Bias|发表偏倚]]（Publication Bias），还涵盖小样本研究方法学控制不严、干预实施强度差异以及特定亚组人群选择偏差。
+> [[Small Study Effects|小研究效应]]（Small-Study Effects，亦称小样本研究效应）是指在[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中观察到的一种经验现象：**较小[[Sample Size Determination|样本量]]（即较大[[Standard Error|标准误]]）的研究倾向于系统性报告比大样本研究更大、更具[[Statistical Significance|统计显著性]]的[[Effect Size|效应量]]。**这一现象由 Sterne et al. (2000)、Sterne & Egger (2005) 以及 [[Argument_Runco_2026_CRJ|Runco et al. (2026, pp. 5–6)]] 等研究记录。小研究效应是造成[[Funnel Plot|漏斗图]]（Funnel Plot）不对称的根本物理原因，其来源不仅包括[[Document|文献]][[Publication Bias|发表偏倚]]（Publication Bias），还涵盖小样本研究方法学控制不严、干预实施强度差异以及特定亚组人群选择偏差。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向实证文献库中效应量大小与研究精度（标准误）之间存在的系统性虚假依赖关系。
@@ -86,7 +87,7 @@ updated: 2026-08-24
 > | 比较维度 | 小研究效应（Small-Study Effects） | 发表偏倚（Publication Bias） | 方法学质量缺陷（Methodological Quality Defect） |
 > |---|---|---|---|
 > | **性质定位** | **可观测的统计现象（[[Effect Size\|效应量]]与[[Standard Error\|标准误]]正相关）** | 导致现象产生的机制之一（基于 $p$ 值筛选发表） | 导致现象产生的机制之一（缺乏双盲、[[Random Assignment\|随机化]]不足） |
-> | **表现形态** | 漏斗图底部散点向有利益偏向的一侧严重倾斜 | 漏斗图左下角（小样本非显著区）数据点大面积缺失 | 小样本研究中报告的效应量因执行松散而虚高 |
+> | **表现形态** | [[Funnel Plot\|漏斗图]]底部散点向有利益偏向的一侧严重倾斜 | 漏斗图左下角（小样本非显著区）数据点大面积缺失 | 小样本研究中报告的效应量因执行松散而虚高 |
 > | **检测与校正手段** | **艾格回归（Egger's Test）、多水平 [[Robust Variance Estimation\|RVE]] 截距模型** | [[Trim and Fill Method\|剪补法]]（Trim and Fill）、选择模型（Selection Models） | [[AMSTAR]] 质量评分分层、[[Second-Order Meta-Regression\|二阶元回归]]调节检验 |
 > | **[[Meta-meta-analysis\|二阶元分析]]表现** | 显著存在（$F = 15.7, p = .002$），校正后为 $r = 0.17$ | 经全面灰色[[Literature Search\|文献检索]]与博硕士论文纳入得到部分控制 | AMSTAR 高质量 vs 低质量调节不显著（$p = .34$） |
 
@@ -99,7 +100,7 @@ updated: 2026-08-24
 > - **研究质量与设计妥协（Methodological Quality Discrepancy）** 小规模探索性实验往往在[[Random Assignment|随机分组]]、[[Blinding|盲法]]评估与实验控制上弱于大规模多中心临床/教育[[Cohort Study|追踪研究]]，容易产生方法学假阳性增益。
 > - **真实干预强度差异（Clinical / Educational [[Heterogeneity]]）** 在小规模班级实验中，研究者或一线名师能够投入极高的个别化辅导精力（高保真度实施）；而在大规模推广时干预被稀释，导致大样本效应量自然回落。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 5–6)]]
 
-> [!logic-map]- 小研究效应在漏斗图中的偏倚机制
+> [!logic-map]- 小研究效应在[[Funnel Plot|漏斗图]]中的偏倚机制
 > ```mermaid
 > flowchart TD
 >     A["实证研究开展"] --> B{"样本规模 (N) 与精度 (SE)"}

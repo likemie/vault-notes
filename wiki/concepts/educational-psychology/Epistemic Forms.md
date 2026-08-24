@@ -6,7 +6,7 @@ aliases:
 summary: "特定的、细粒度的知识组织结构，如列表、树状图、阶段模型或因果机制，用于指导探究和知识建构。"
 type: concept
 domain: "educational-psychology"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Domain Specificity]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -46,7 +47,7 @@ updated: 2026-08-18
 ## 核心要素
 
 > [!feature] 核心要素
-> - **学科特异性与通用性** 某些形式具有强学科特征（如分子生物学的机制结构），另一些则较为通用（如列表、矩阵）。
+> - **[[Domain Specificity|学科特异性]]与通用性** 某些形式具有强学科特征（如分子生物学的机制结构），另一些则较为通用（如列表、矩阵）。
 > - **指导探究策略** 学习者掌握了特定的[[Epistemology|认识论]]形式后，便会采用相应的策略。例如，知道生态学知识呈现非线性因果结构的学生，在学习时会主动寻找反馈回路，而不仅仅是线性背诵。
 
 ---

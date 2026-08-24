@@ -50,6 +50,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Flow]]"
   - "[[Statistical Significance]]"
+  - "[[Between-Study Variance]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Academic Engagement]]"
   - "[[Interaction Effect]]"
@@ -61,6 +62,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Ontology]]"
   - "[[Reliability]]"
+  - "[[Funnel Plot]]"
   - "[[Publication Bias]]"
   - "[[Causality]]"
   - "[[External Validity]]"
@@ -94,7 +96,7 @@ title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -299,7 +301,7 @@ issuing_organization: ""
 > | 总体合并效应量 ($r$) | **0.191** [0.119, 0.261] | 92.46% (总异质性) | $z = 5.127, p < 0.001$ |
 
 > [!warrant]- 推理桥梁
-> 仅有 7.54% 的变异可归因于不可控的抽样误差，而研究内方差（35.82%）与研究间方差（56.64%）并存，表明效应量既受到[[Primary and Secondary Documents|原始文献]]方法学设计与学段特征的宏观塑造，也受到单项研究内部所测具体构念和[[Dependent Variable|因变量]]类型的微观制约，为后续开展多[[Variable|变量]]调节分析提供了坚实的统计学前提。（pp.10–11）
+> 仅有 7.54% 的变异可归因于不可控的抽样误差，而研究内方差（35.82%）与[[Between-Study Variance|研究间方差]]（56.64%）并存，表明效应量既受到[[Primary and Secondary Documents|原始文献]]方法学设计与学段特征的宏观塑造，也受到单项研究内部所测具体构念和[[Dependent Variable|因变量]]类型的微观制约，为后续开展多[[Variable|变量]]调节分析提供了坚实的统计学前提。（pp.10–11）
 
 ---
 
@@ -457,7 +459,7 @@ issuing_organization: ""
 
 ### 步骤六：发表偏倚检验与模型稳健性验证
 
-> [!claim] 漏斗图对称与三层 Egger 回归排除了[[Publication Bias|发表偏倚]]，模型具有高度统计稳健性
+> [!claim] [[Funnel Plot|漏斗图]]对称与三层 Egger 回归排除了[[Publication Bias|发表偏倚]]，模型具有高度统计稳健性
 > 漏斗图目视对称与三层扩展版 Egger 回归检验证实文献池不存在显著的发表偏倚或小样本效应，逐一排除敏感性分析与标准化残差诊断证实全域效应量估计具有高度统计稳健性。
 
 > [!chain-link] 证据到判断

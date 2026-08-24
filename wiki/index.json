@@ -2571,7 +2571,10 @@
     "path": "wiki/concepts/educational-psychology/Domain Specificity.md",
     "aliases": [
       "领域特殊性",
-      "领域特异性"
+      "领域特异性",
+      "学科特异性",
+      "Domain-Specificity",
+      "Domain Specific"
     ]
   },
   {
@@ -3699,7 +3702,6 @@
     "aliases": [
       "导师制",
       "导师关系",
-      "mentoring",
       "mentor"
     ]
   },
@@ -3807,6 +3809,17 @@
       "合作连续体",
       "UIDP 伙伴关系连续体",
       "Spectrum of Partnerships"
+    ]
+  },
+  {
+    "title": "Peer Mentoring",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Peer Mentoring.md",
+    "aliases": [
+      "同伴导师制",
+      "同伴指导",
+      "近同伴导师制",
+      "near-peer mentoring"
     ]
   },
   {
@@ -4328,6 +4341,16 @@
     ]
   },
   {
+    "title": "Anchored Instruction",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Anchored Instruction.md",
+    "aliases": [
+      "抛锚式教学",
+      "锚定教学",
+      "锚式教学"
+    ]
+  },
+  {
     "title": "Assessment Backwash",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Assessment Backwash.md",
@@ -4344,8 +4367,7 @@
     "path": "wiki/concepts/instruction-pedagogy/Authentic Instruction.md",
     "aliases": [
       "真实性教学",
-      "抛锚式教学",
-      "anchored instruction",
+      "真实性学习",
       "authentic learning",
       "authentic problem solving"
     ]
@@ -4647,6 +4669,17 @@
     ]
   },
   {
+    "title": "Simulation-Based Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Simulation-Based Learning.md",
+    "aliases": [
+      "模拟教学法",
+      "基于模拟的学习",
+      "情境模拟教学",
+      "instructional simulations"
+    ]
+  },
+  {
     "title": "Socratic Dialogue",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Socratic Dialogue.md",
@@ -4790,6 +4823,15 @@
     "aliases": [
       "注意力惯性",
       "attentional inertia"
+    ]
+  },
+  {
+    "title": "Cognitive Apprenticeship",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Cognitive Apprenticeship.md",
+    "aliases": [
+      "认知学徒制",
+      "认知学徒模式"
     ]
   },
   {
@@ -6123,6 +6165,17 @@
     ]
   },
   {
+    "title": "Between-Study Variance",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Between-Study Variance.md",
+    "aliases": [
+      "研究间方差",
+      "Tau-squared",
+      "tau2",
+      "研究间真实方差"
+    ]
+  },
+  {
     "title": "Blinding",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Blinding.md",
@@ -6293,6 +6346,18 @@
       "写作连贯性",
       "writing coherence",
       "textual coherence"
+    ]
+  },
+  {
+    "title": "Common Method Variance",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Common Method Variance.md",
+    "aliases": [
+      "共同方法变异",
+      "共同方法偏差",
+      "共同方法效应",
+      "CMV",
+      "common method bias"
     ]
   },
   {
@@ -7029,7 +7094,8 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Forest Plot.md",
     "aliases": [
-      "森林图"
+      "森林图",
+      "森林图可视化"
     ]
   },
   {
@@ -7052,6 +7118,15 @@
       "因果推断的基本问题",
       "fundamental problem of causal inference",
       "Holland's fundamental problem"
+    ]
+  },
+  {
+    "title": "Funnel Plot",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Funnel Plot.md",
+    "aliases": [
+      "漏斗图",
+      "漏斗散点图"
     ]
   },
   {
@@ -7157,6 +7232,18 @@
       "研究假设",
       "hypotheses",
       "research hypothesis"
+    ]
+  },
+  {
+    "title": "I-squared Statistic",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/I-squared Statistic.md",
+    "aliases": [
+      "I² 统计量",
+      "I2 统计量",
+      "I-squared",
+      "异质性百分比",
+      "Higgins I2"
     ]
   },
   {
@@ -11452,6 +11539,8 @@
     "path": "wiki/methods/qualitative/Role-playing.md",
     "aliases": [
       "角色扮演",
+      "角色扮演教学法",
+      "角色扮演法",
       "role-play",
       "role play"
     ]
@@ -11757,6 +11846,17 @@
     ]
   },
   {
+    "title": "Cochran's Q Test",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cochran's Q Test.md",
+    "aliases": [
+      "Q 检验",
+      "Q 统计量",
+      "Cochran Q",
+      "柯克兰 Q 检验"
+    ]
+  },
+  {
     "title": "Cohort Study",
     "type": "method",
     "path": "wiki/methods/quantitative/Cohort Study.md",
@@ -11959,7 +12059,8 @@
       "固定效应模型",
       "随机效应模型",
       "Fixed-Effect Model",
-      "Random-Effects Model"
+      "Random-Effects Model",
+      "固定与随机效应模型"
     ]
   },
   {
@@ -12104,7 +12205,8 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Meta-analysis.md",
     "aliases": [
-      "元分析"
+      "元分析",
+      "meta-analysis"
     ]
   },
   {
@@ -18837,6 +18939,11 @@
     "title": "Argument_Ball_2008_SR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/The Sociological Review/Argument_Ball_2008_SR.md"
+  },
+  {
+    "title": "Argument_Park_2026_TSC",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md"
   },
   {
     "title": "Argument_Wecker_2016_ZfE",

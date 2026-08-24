@@ -10,7 +10,7 @@ aliases:
 summary: "由 Ray Pawson and Nick Tilley 提出的科学实在论评估方法与理论，主张项目干预非机械因果，而是通过在特定背景下为受试者提供资源并激活其推理来产生结果。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 28
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Heterogeneity]]"
   - "[[Governing by Numbers]]"
@@ -129,7 +128,7 @@ updated: 2026-07-13
 > - **[[Ontology|本体论]]** 深度实在论（Depth Realism）。世界是分层的，结构和机制是真实的，且其因果力量独立于我们的观察。
 > - **认识论**[[Interpretive Paradigm|反实证主义]]/经验主义。知识是概念中介的；[[Causality|因果关系]]不等于恒常规则性，而是机制在开放系统中的复杂[[Emergence|涌现]]。
 > - **方法含义** 方法论多元主义（Methodological Pluralism）。结合[[Qualitative Observation|质性观察]]、历史分析、[[Action Research|行动研究]]和统计分析，重在追踪和验证机制的运作，而非单纯估计[[Effect Size|效应量]]。
-> - **不能直接推出的东西** 不能直接推导出放之四海而皆准的“最佳[[Praxis|实践]]”处方，或独立于情境的绝对平均效应值。
+> - **不能直接推出的东西** 不能直接推导出放之四海而皆准的“最佳实践”处方，或独立于情境的绝对平均效应值。
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 替代传统的 [[Evidence-Based Education|EBE]] “什么有效”框架，分析政策在不同地域、学校或班级中实施时产生的[[Heterogeneity|异质性]]结果。
@@ -180,4 +179,4 @@ updated: 2026-07-13
 > [!evidence-grid-a] 相关研究与应用索引
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 用实在论评估的因果机制观，深度解构了 [[Education Endowment Foundation|EEF]] Fresh Start 拼读项目和教学助理项目由于去情境化聚合导致的政策误导。
 > - [[Argument_Rambla_2022_Springer|Rambla, 2022]] — 将实在论评估框架应用于剖析[[EU Skills Agenda\|欧盟技能议程]]政策，分析特定政策干预在特定情境中激活的因果机制。
-> - [[Professional Judgment]] — 实在论评估对个体推理和能动性的强调，为重构和确立教师在循证[[Praxis|实践]]中的专业判断力提供了理论支撑。
+> - [[Professional Judgment]] — 实在论评估对个体推理和能动性的强调，为重构和确立教师在循证实践中的专业判断力提供了理论支撑。

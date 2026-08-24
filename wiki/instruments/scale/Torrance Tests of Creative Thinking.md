@@ -29,19 +29,23 @@ related_concepts:
   - "[[Inter-Rater Reliability]]"
   - "[[Test-Retest Reliability]]"
   - "[[Problem Finding]]"
+  - "[[Critical Thinking]]"
+  - "[[Common Method Variance]]"
 related_theories: []
 related_methods:
   - "[[Cohort Study]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
+  - "[[Argument_Park_2026_TSC]]"
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Torrance Tests of Creative Thinking
@@ -97,6 +101,7 @@ updated: 2026-08-24
 > | Rose & Lin (1984) | 普渡[[Creativity\|创造力]]思维计划（PCTP）等认知训练 | TTCT 总分显著提升 | **$d = 0.47$**（言语 $d = 0.58$，图形 $d = 0.36$） | 证实[[Divergent Thinking\|发散思维]]潜能具备高度教学可塑性 |
 > | Acar, Runco & Park (2020) | 显式独创性指导语操纵 | TTCT 图形测验独创性 | **$g = 0.62$**（$p < .001$） | 提示指令可即时激活注意分配与原创取向 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 发散思维一阶元分析二阶合并 | TTCT 作为发散思维代表工具 | **$r = 0.14$**（95% CI $[0.04, 0.24]$） | 证实发散思维是创造潜能的重要构成，但需与[[Problem Finding\|问题发现]]（$r = 0.27$）互补 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 学生样本创造力-[[Critical Thinking\|批判性思维]]相关元分析 | TTCT 被[[Coding in Qualitative Research\|编码]]为客观创造力测量（如 Khatami et al., 2023; Misset, 2012; Ulger, 2016 等） | 总体相关 $r = 0.386$；双客观测量组合 $r = 0.317$ | 双主观组合相关更高（$r = 0.509$），提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
 
 ---
 

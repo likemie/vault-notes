@@ -11,7 +11,7 @@ summary: "在元分析中处理复杂依赖与嵌套效应量的统计方法，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -44,10 +44,11 @@ related_methods:
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Park_2026_TSC]]"
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Robust Variance Estimation
@@ -243,3 +244,4 @@ updated: 2026-08-24
 > | [[Multilevel Egger's Test]] | 偏倚方法 | 结合应用 | 运用 RVE 确保多水平艾格回归偏倚检验斜率与截距[[Standard Error\|标准误]]的稳健性。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 理论基础 | 严格证明二阶逆方差等价性及文献重叠时经典方差失效机制，构成 RVE 的理论出发点。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | 在[[Creativity\|创造力]]二阶元分析中运用 CHE + RVE 完成了 52 项元分析的稳健推断与[[Meta-regression\|元回归]]。 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 论证 | 敏感性分析 | 在三水平[[Meta-analysis\|元分析]]基础上采用 RVE（clubSandwich，CR 调整）检验研究内依赖效应的稳健性，得到与主分析一致的估计（$r = 0.386, 95\%\text{ CI }[0.292, 0.473]$）。 |

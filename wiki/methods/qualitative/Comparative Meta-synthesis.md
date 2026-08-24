@@ -22,9 +22,9 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
-  - "[[Praxis]]"
   - "[[Visible Learning]]"
   - "[[Epistemology]]"
+  - "[[Creativity]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Structured Teaching]]"
@@ -73,7 +73,7 @@ updated: 2026-06-08
 >
 > **Marzano（1998）——理论驱动的元综合**
 >
-> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验组和控制组比较。其关键贡献是批评品牌名聚合做法，用宽泛标签代表包含多种活性成分的复杂干预，并按四层学习系统分类教学策略，追求课堂[[Praxis|实践]]的可操作性。
+> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验组和控制组比较。其关键贡献是批评品牌名聚合做法，用宽泛标签代表包含多种活性成分的复杂干预，并按四层学习系统分类教学策略，追求课堂实践的可操作性。
 >
 > **Hattie（2008）——《[[Visible Learning|可见的学习]]》**
 >
@@ -87,7 +87,7 @@ updated: 2026-06-08
 > 比较性[[Meta-meta-analysis|元综合]]面临的核心认识论问题是：将已聚合的结果再次聚合在原则上是否合理。[[Argument_Higgins_2016_RE|Higgins (2016)]]指出，任何推论都直接取决于元综合所包含的内容。在研究苹果和橙子时，可以讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有的结论（如瓣状结构、多汁果肉）。同样，跨[[Meta-analysis|元分析]]比较可以得出关于改善阅读理解的方法的一般推论，但无法得出关于特定群体的结论（p.41）。
 
 > [!note]- 推论层级的约束
-> 比较性元综合的推论只能在聚合层级上成立。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授[[Transcription in Qualitative Research|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。
+> 比较性元综合的推论只能在聚合层级上成立。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用[[Creativity|创造力]]和意象教学、教授[[Transcription in Qualitative Research|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-06-08
 > - 选择国际和本土研究综述，并记录材料差异（p.589）
 > - 阅读、扫描和协议记录，将描述性报告转化为可比较的分析主题（pp.589–590）
 > - 在不同综述之间进行翻译：有些可直接互译，有些相互抵触，有些可以组合成推论链（p.588）
-> - 综合翻译结果，形成对研究领域的整体重建，并把结论[[Transfer Translation Transformation|转译]]给政策、[[Praxis|实践]]或学术讨论（pp.588–590）
+> - 综合翻译结果，形成对研究领域的整体重建，并把结论[[Transfer Translation Transformation|转译]]给政策、实践或学术讨论（pp.588–590）
 
 ---
 
@@ -107,7 +107,7 @@ updated: 2026-06-08
 
 > [!success] 适用场景
 > - 当某一研究领域已积累大量[[Meta-analysis|元分析]]，需要比较不同方法的相对效果时
-> - 适合为政策制定者和[[Praxis|实践]]者提供关于什么有效的宏观概览，[[EEF Teaching and Learning Toolkit]] 和《[[Visible Learning|可见的学习]]》是这一用途的标志性产物
+> - 适合为政策制定者和实践者提供关于什么有效的宏观概览，[[EEF Teaching and Learning Toolkit]] 和《[[Visible Learning|可见的学习]]》是这一用途的标志性产物
 > - Håkansson（2015）的质性版本适合研究材料已经高度综述化、但结论分散且概念不统一的领域（pp.588–590）
 
 ---

@@ -31,16 +31,18 @@ related_concepts:
   - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Variable]]"
+  - "[[Critical Thinking]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
+  - "[[Argument_Park_2026_TSC]]"
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Creative Achievement Questionnaire
@@ -115,6 +117,7 @@ updated: 2026-08-24
 > | 同上 | 原始英文版（96 题） | $N = 296$ 名哈佛大学学生；效度验证与潜抑制机制研究 | 重测信度 $r = 0.81$；与专家评定产品效度 $r = 0.59$ | 确立 CAQ 优秀的[[Construct Validity\|构念效度]]与跨领域预测力 |
 > | Yörük & Sen (2022) | 跨语言与修订版 | 56 个独立实证样本元分析（$N = 18,412$） | 信度概化元分析显示均值 $lpha = 0.85$；重测信度 $r = 0.81$ | 证实 CAQ 跨文化与跨群体的测量稳健性 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 产出测量基准工具 | 52 项二阶元分析；用于区分预测源（$r=0.29$）与效标（$r=0.12$） | 产出/成果维度二阶合并关联系数 $r = 0.12$ | 揭示[[Creativity\|创造性]]成就受多重外在环境[[Variable\|变量]]制约 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | — | 元分析中 Lu et al. (2023) 以 CAQ 作为主观创造力成就测量报告其与[[Critical Thinking\|批判性思维]]倾向的相关 | — | 采用主观创造力测量的相关显著更高（$Q_M(1) = 10.133, p = .002$） |
 
 ---
 

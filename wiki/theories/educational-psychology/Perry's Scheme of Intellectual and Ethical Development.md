@@ -9,7 +9,7 @@ aliases:
 summary: "William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Multiplicity]]"
   - "[[Subjectivism]]"
+  - "[[Domain Specificity]]"
   - "[[Hypothesis]]"
   - "[[Theoretical Perspective]]"
   - "[[Epistemic Stances]]"
@@ -130,7 +131,7 @@ updated: 2026-08-20
 > [!proposition-chain] 核心命题二｜学科环境的多元化互动通过涵化机制驱动认识论思维的成熟
 > - **前提一** 佩里理论假定大学教育环境提供了一个充满批判性质询与复杂论证的“温室”，能够系统性加速学生的认识论脱幼。[[Argument_Hofer_1997_RER|(Hofer & Pintrich, 1997, p. 90)]]
 > - **前提二** 不同的学科文化对知识确证规则的要求存在显著差异。
-> - **推导** 学生在大学阶段的认识论演进兼具“普遍涵化”与“学科特异性”特征：
+> - **推导** 学生在大学阶段的认识论演进兼具“普遍涵化”与“[[Domain Specificity|学科特异性]]”特征：
 >   > [!evidence-grid]- 实证检验
 >   > - **[[Argument_Trautwein_2007_CEP|Trautwein & Lüdtke (2007)]] 纵向检验** 对大学阶段的认识论追踪证实了佩里的“大学涵化[[Hypothesis|假设]]”：人文学科与社会科学的专业学习显著加速了学生向相对主义的转变（确定性信念大幅下降）；然而研究也发现，进入大学前学生已存在显著的先验自我选择效应（Self-selection），且工科商科学生的确定性信念反而可能上升。[[Argument_Trautwein_2007_CEP|(Trautwein & Lüdtke, 2007, p. 358)]]
 
