@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Psychologisation]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Growth]]"
   - "[[School Autonomy]]"
 related_theories:
@@ -111,7 +112,7 @@ updated: 2026-07-13
 > [!debates] 政策争议与评论
 > 
 > > [!axis] 正向心理韧性培养 vs. 意识形态去政治化控制
-> > 争议聚焦于感恩计划究竟是纯粹的正向生命教育，还是官方旨在扑灭青年批判精神的政治工具。
+> > 争议聚焦于感恩计划究竟是纯粹的正向生命教育，还是官方旨在扑灭青年[[Critical Thinking Disposition|批判精神]]的政治工具。
 > > - **[[Argument_Vickers_2024_CE|Vickers（2024, pp.153–154）]]** 批评该计划是典型的“[[Psychologisation|心理化]]治理”手段，通过强制推行“快乐”与“感恩”说教，掩盖社会正义与制度改革的核心诉求。
 > > - **教育局官员（2020）** 认为感恩是普世的道德规范，开展此类活动能够有效改善青少年在动荡社会中的精神健康，绝非政治工具。
 > 

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,7 +35,6 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
-  - "[[Praxis]]"
   - "[[Technical Rationality]]"
   - "[[Reflexivity]]"
   - "[[Teacher-as-Researcher]]"
@@ -55,7 +54,9 @@ related_concepts:
   - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Positivism]]"
+  - "[[Praxis]]"
   - "[[Operationalization]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Humility in Learning]]"
   - "[[Theoretical Perspective]]"
   - "[[Emergence]]"
@@ -482,7 +483,7 @@ Kemmis（1997, p. 177）区分了行动研究中的两个阵营（pp. 276–277�
 
 > [!critique-logic] 逻辑与概念矛盾
 > - **三分类型化站不住脚** 技术性—实践性—解放性的三分法过于简化行动研究的多样性，三种类型之间边界模糊，实际研究常同时包含多种取向
-> - **非批判和自相矛盾** 解放性行动研究标榜批判精神，却拒绝将同样的批判标准应用于自身的前提假设
+> - **非批判和自相矛盾** 解放性行动研究标榜[[Critical Thinking Disposition|批判精神]]，却拒绝将同样的批判标准应用于自身的前提假设
 > - **假设行动研究的无差别观** 将多种形式的行动研究视为同质整体，忽视了不同流派和实践之间的根本差异
 > - **试图殖民和重定向行动研究** 以批判理论的名义重新定义行动研究，将原本属于实践者的方法纳入学术理论家的控制范围
 

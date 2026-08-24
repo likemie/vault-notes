@@ -29,6 +29,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Effect Size]]"
   - "[[Domain Specificity]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Infusion Approach]]"
@@ -54,6 +55,7 @@ related_concepts:
   - "[[Achievement and Aptitude Tests]]"
   - "[[Phronesis]]"
 related_theories:
+  - "[[APA Delphi Consensus on Critical Thinking]]"
   - "[[Explicit Critical Thinking Instruction]]"
   - "[[Ennis's Curricular Typology]]"
   - "[[Situative Perspective]]"
@@ -71,6 +73,7 @@ related_methods:
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
 related_persons:
+  - "[[Peter Facione]]"
   - "[[Robert Ennis]]"
   - "[[John Dewey]]"
   - "[[Gert Biesta]]"
@@ -89,7 +92,7 @@ title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -123,7 +126,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **德尔菲共识框架（APA Delphi Consensus）**<br>[[Critical Thinking]] | 确立批判性思维的六项核心认知技能（解释 Interpretation、分析 Analysis、评价 Evaluation、推论 Inference、说明 Explanation、自我调节 Self-Regulation）及思维倾向[[Construct\|构念]]，为干预效果的界定与标准化测试筛选提供[[Operationalization\|操作化]]判据。（pp. 277–278） |
+> | **德尔菲共识框架（APA Delphi Consensus）**<br>[[APA Delphi Consensus on Critical Thinking]] · [[Critical Thinking]] | [[Peter Facione\|Facione (1990)]] 领衔确立的批判性思维六项核心认知技能（解释 Interpretation、分析 Analysis、评价 Evaluation、推论 Inference、说明 Explanation、自我调节 Self-Regulation）及[[Critical Thinking Disposition\|思维倾向]][[Construct\|构念]]，为干预效果的界定与标准化测试筛选提供[[Operationalization\|操作化]]判据。（pp. 277–278） |
 > | **显性教学与四类课程模式**<br>[[Explicit Critical Thinking Instruction]] · [[Ennis's Curricular Typology]] | [[Robert Ennis\|Ennis (1989)]] 提出的通用（General）、[[Infusion Approach\|融入（Infusion）]]、[[Immersion Approach\|沉浸（Immersion）]]与混合（Mixed）四类课程模式，用于区分思维原则的显性示范程度与学科知识的结合架构。（pp. 280–281） |
 > | **实用主义探究与真实学习**<br>[[Authentic Instruction]] | [[John Dewey\|杜威]]（Dewey）关于“言之有物”与真实情境探究的理论，论证真实生活问题、模拟演练与劣构情境在激发主动思考动机与提供认知锚点中的基底作用。（pp. 286–287） |
 > | **苏格拉底对话与社会建构**<br>[[Dialogue in Education]] | 强调师生提问、结构化辩论与同伴协商在暴露认知矛盾、检验论证充分性与[[Externalization\|外化]]思维过程中的核心中介机制。（pp. 285–286） |
@@ -142,7 +145,7 @@ issuing_organization: ""
 > |---|---|---|
 > | **通用批判性思维技能**<br>（Generic CT Skills） | 跨领域的通用认知技能，包括论证分析、证据评价、[[Hypothesis\|假设]]识别与逻辑推论。 | 标准化测试：[[California Critical Thinking Disposition Inventory\|CCTDI]] 关联技能量表、加州批判性思维技能测验（CCTST）、Watson-Glaser 批判性思维评估（WGCTA）、Ennis-Weir 批判性思维论证测试、Cornell 批判性思维测试；纳入 $k = 341$ 个效应量。（pp. 283–284, 289–291） |
 > | **[[Domain Specificity\|学科特异性]]批判性思维技能**<br>（Content-Specific CT Skills） | 嵌入特定学科领域（如化学、历史、护理）的情境化批判性思维表现。 | 学科特异性标准化与自编测验；纳入 $k = 97$ 个效应量。（pp. 295–296） |
-> | **批判性思维倾向**<br>（CT Dispositions） | 运用批判性思维的习惯、态度与倾向（求真、开放、探究、系统性等）。 | 加州批判性思维倾向问卷（CCTDI）等自陈量表；排除前实验后纳入 $k = 25$ 个效应量。（pp. 296–297） |
+> | **[[Critical Thinking Disposition\|批判性思维倾向]]**<br>（CT Dispositions） | 运用批判性思维的习惯、态度与倾向（求真、开放、探究、系统性等）。 | 加州批判性思维倾向问卷（[[California Critical Thinking Disposition Inventory\|CCTDI]]）等自陈量表；排除前实验后纳入 $k = 25$ 个效应量。（pp. 296–297） |
 > | **学业成就**<br>（Achievement） | 课程学科知识与常规内容掌握度。 | 学科期末考试、标准化成就测验；纳入 $k = 140$ 个效应量。（p. 295） |
 > | **教学策略：对话**<br>（Dialogue） | 师生或生生之间针对有争议问题的互动论辩与研讨。 | 11 个子类编码：教师提问（2.1）、学生提问（2.2）、双人配对（2.3/2.6）、全班研讨（2.4/2.7）、小组研讨（2.5/2.8）、正式辩论（2.9）、学生汇报后研讨（2.10）、[[Socrates\|苏格拉底]]对话（2.11）。（pp. 285–286） |
 > | **教学策略：真实性教学**<br>（Authentic Instruction） | 呈现源自现实生活的真实、复杂或有意义的探究情境。 | 4 个子类编码：应用型问题解决（3.1）、[[Role-playing\|角色扮演]]（3.2）、情境模拟（3.3）、两难困境分析（3.4）。（pp. 286–287） |
@@ -328,7 +331,7 @@ issuing_organization: ""
 > 1. **Ennis 课程模式比较** 混合模式（独立思维教学 + 学科融入）获得最高的促进效果（$g+ = 0.38$），优于融入模式（$g+ = 0.29$）、[[Direct Instruction|直接教学]]（$g+ = 0.26$）与沉浸模式（$g+ = 0.23$）。（pp. 293–294）
 > 2. **学科特异性批判性思维技能** 嵌入具体学科情境的批判性思维干预获得更高的总体效应（$g+ = 0.57$），其中自编测验达 $g+ = 0.65$，标准化测验达 $g+ = 0.40$。（pp. 295–297）
 > 3. **常规学业成就** 批判性思维教学对常规学科成绩产生显著正向促进（$g+ = 0.33$），课程期末考试中增益尤为显著（$g+ = 0.37$），证明思维训练与知识学习相得益彰。（pp. 295, 297）
-> 4. **批判性思维倾向** 教学干预显著培育了批判性思维倾向（$g+ = 0.23$），在融入导师制时达到峰值（$g+ = 0.38$）。（pp. 296–297）
+> 4. **[[Critical Thinking Disposition|批判性思维倾向]]** 教学干预显著培育了批判性思维倾向（$g+ = 0.23$），在融入导师制时达到峰值（$g+ = 0.38$）。（pp. 296–297）
 
 > [!ma-table]- 表 3A、7A、7B、表 8 与表 9：课程模式与多维成果（特异性思维、学业成就、思维倾向）综合检验
 > | 结果维度 | 分类维度与亚组 | $k$ | $g+$ | 95% CI 下限 | 95% CI 上限 | 组间检验 $Q_b$ (df, $p$) | 理论与实践启示 |
@@ -362,7 +365,7 @@ issuing_organization: ""
 > - **$g+ = 0.57$** 学科特异性批判性思维技能总体效应量（$k = 97, 95\%\text{ CI} = [0.47, 0.68]$）。（p. 296）
 > - **$g+ = 0.38$** Ennis 混合课程模式效应量（$k = 84$）。
 > - **$g+ = 0.33$** 学科常规学业成就合并效应量（$k = 140$）。
-> - **$g+ = 0.23$** 批判性思维倾向合并效应量（$k = 25, 95\%\text{ CI} = [0.06, 0.40]$）。（p. 297）
+> - **$g+ = 0.23$** [[Critical Thinking Disposition|批判性思维倾向]]合并效应量（$k = 25, 95\%\text{ CI} = [0.06, 0.40]$）。（p. 297）
 > - **$N = 434,819$** 经典[[Fail-Safe N|失安全系数]]，证实元分析结论的高度稳健性。（p. 289）
 
 ---

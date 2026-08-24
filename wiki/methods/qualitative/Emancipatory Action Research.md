@@ -8,7 +8,7 @@ summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -20,16 +20,17 @@ tags:
   - theme/critical-theory
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Reflexivity]]"
   - "[[Value Neutrality]]"
   - "[[Ideal Speech Situation]]"
   - "[[Conscientization]]"
+  - "[[Praxis]]"
   - "[[Professional Judgment]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
   - "[[Dialogue in Education]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Humility in Learning]]"
   - "[[Theoretical Perspective]]"
   - "[[Document]]"
@@ -59,7 +60,7 @@ updated: 2026-07-19
 ## 定义
 
 > [!def] 解放性[[Action Research|行动研究]]（Emancipatory Action Research）
-> 解放性行动研究是[[Action Research|行动研究]]中最激进的分支，以[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas|Jürgen Habermas]]）的[[Critical Theory|批判理论]]为[[Epistemology|认识论]]基础，旨在发展参与者对阻碍其自主与自由的制度性和人际性约束的理解，帮助参与者从束缚走向自由、自主和社会正义（雪莉·格伦迪（Shirley Grundy）, 1987, pp. 146–147）。其核心目的不仅是技术和[[Praxis|实践]]改进，还包括改变系统本身或阻碍系统改进的条件，没有层级，只有开放和对称沟通（奥特伦·祖伯-斯凯里特（Ortrun Zuber-Skerritt）, 1996a, p. 5）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–280)]]
+> 解放性行动研究是[[Action Research|行动研究]]中最激进的分支，以[[Jürgen Habermas|尤尔根·哈贝马斯]]（[[Jürgen Habermas|Jürgen Habermas]]）的[[Critical Theory|批判理论]]为[[Epistemology|认识论]]基础，旨在发展参与者对阻碍其自主与自由的制度性和人际性约束的理解，帮助参与者从束缚走向自由、自主和社会正义（雪莉·格伦迪（Shirley Grundy）, 1987, pp. 146–147）。其核心目的不仅是技术和实践改进，还包括改变系统本身或阻碍系统改进的条件，没有层级，只有开放和对称沟通（奥特伦·祖伯-斯凯里特（Ortrun Zuber-Skerritt）, 1996a, p. 5）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–280)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 阻碍参与者自主与自由的制度性和人际性约束——不合法的压制、支配和控制结构。
@@ -118,7 +119,7 @@ updated: 2026-07-19
 
 ## 核心概念：实践（Praxis）
 
-> [!def] [[Praxis|实践]]（Praxis）
+> [!def] 实践（[[Praxis]]）
 > 实践（praxis）定义为通过反思赋予信息并以解放为目标的行动。它融合理论与实践于一个平等的社会秩序之中——[[Action Research|行动研究]]设计以改善社会、走向更公正平等的政治议程为目的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 273)]]
 
 > [!info] 赋权的两种含义
@@ -141,7 +142,7 @@ updated: 2026-07-19
 >
 > 2. **行动——实施计划**
 >
->    将战略意图转化为具体[[Praxis|实践]]，在真实情境中执行干预。
+>    将战略意图转化为具体实践，在真实情境中执行干预。
 >
 > 3. **观察、评价和自我评价**
 >
@@ -180,7 +181,7 @@ updated: 2026-07-19
 ## 解放性行动研究与反身性
 
 > [!info] [[Reflexivity|反身性]]的构成性角色
-> 反身性是解放性[[Action Research|行动研究]]的构成要素和[[Epistemology|认识论]]基础（Hall, 1996, p. 29）。其知识建构立场具有双重特征：(a) 数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位；(b) 所有参与者之间存在民主关系。反身性要求参与者-[[Praxis|实践]]者-研究者将同样的批判审视应用于自己和他人。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
+> 反身性是解放性[[Action Research|行动研究]]的构成要素和[[Epistemology|认识论]]基础（Hall, 1996, p. 29）。其知识建构立场具有双重特征：(a) 数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位；(b) 所有参与者之间存在民主关系。反身性要求参与者-实践者-研究者将同样的批判审视应用于自己和他人。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 294–295)]]
 
 ---
 
@@ -192,7 +193,7 @@ updated: 2026-07-19
 > - **效率导向而非研究开发导向** 缺乏反思和提问的空间
 > - **关注操作性思维而非战略性思考** 被日常事务束缚，无法进行系统和长远的批判分析
 
-祖伯-斯凯里特（Zuber-Skerritt, 1996a, p. 17）进一步指出四个[[Praxis|实践]]问题：如何在正常工作量和有限时间内设计经济的数据收集方法；如何使技术足够具体以产生真正新见解而不被认为过于单薄或过于繁复；如何让方法容易被任何希望实践的人获得和使用；如何为投入的时间和精力回报真正的理解和技能进步。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 296)]]
+祖伯-斯凯里特（Zuber-Skerritt, 1996a, p. 17）进一步指出四个实践问题：如何在正常工作量和有限时间内设计经济的数据收集方法；如何使技术足够具体以产生真正新见解而不被认为过于单薄或过于繁复；如何让方法容易被任何希望实践的人获得和使用；如何为投入的时间和精力回报真正的理解和技能进步。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, p. 296)]]
 
 ---
 
@@ -203,8 +204,8 @@ updated: 2026-07-19
 ### 逻辑与概念矛盾
 
 > [!critique-logic] 逻辑与概念矛盾
-> - **三分类型化站不住脚** 技术性—[[Praxis|实践]]性—解放性的三分法过于简化行动研究的多样性，三种类型之间边界模糊，实际研究常同时包含多种取向
-> - **非批判和自相矛盾** 标榜批判精神，却拒绝将同样的批判标准应用于自身的前提[[Hypothesis|假设]]
+> - **三分类型化站不住脚** 技术性—实践性—解放性的三分法过于简化行动研究的多样性，三种类型之间边界模糊，实际研究常同时包含多种取向
+> - **非批判和自相矛盾** 标榜[[Critical Thinking Disposition|批判精神]]，却拒绝将同样的批判标准应用于自身的前提[[Hypothesis|假设]]
 > - **假设行动研究的无差别观** 将多种形式的行动研究视为同质整体，忽视不同流派之间的根本差异
 > - **试图殖民和重定向行动研究** 以[[Critical Theory|批判理论]]的名义重新定义行动研究，将原本属于实践者的方法纳入学术理论家的控制范围
 > - **乌托邦性和不可实现** 改变社会宏观结构的目标过于宏大，缺乏实现路径和可验证的中间步骤

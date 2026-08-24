@@ -31,6 +31,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
+  - "[[Critical Thinking]]"
   - "[[Sinicisation]]"
 related_theories: []
 related_methods:
@@ -39,6 +40,7 @@ related_instruments: []
 related_persons: []
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
+  - "[[Argument_Park_2026_TSC]]"
 confidence: high
 status: draft
 created: 2026-08-24
@@ -107,6 +109,7 @@ updated: 2026-08-24
 > | 同上 | 原始版（23 题） | $N = 212$ 名大学生；量表编制与发散思维效标关联 | 内部一致性 $lpha = 0.91$；与托兰斯发散思维测验显著正相关 | 确立 RIBS 测量日常[[Creativity\|创造潜能]]的优良信效度 |
 > | Sen (2022) | 跨文化多语言版本 | 37 个独立样本信度概化元分析（$N = 14,236$） | 全球样本平均 Cronbach's $lpha = 0.88$（95% CI $[0.86, 0.89]$） | 证实 RIBS 具有高度跨文化测量不变性与高[[Reliability\|信度]] |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 潜能测量工具 | 52 项[[Meta-analysis\|元分析]]二阶综合；作为预测源与过程[[Variable\|变量]]的[[Operationalization\|操作化]]代表 | 过程与潜能测量合并二阶效应 $r = 0.27$ | 支持创造潜能的全民普及性与高可塑性 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | — | 元分析中 Guan et al. (2024) 以 RIBS 作为主观[[Critical Thinking\|批判性思维]]测量，报告其与创造自我效能的相关 | — | 采用主观批判性思维测量的相关显著更高（$Q_M(1) = 5.234, p = .022$） |
 
 ---
 

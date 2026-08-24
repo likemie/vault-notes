@@ -39,6 +39,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Value Neutrality]]"
   - "[[Science and Technology Studies]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Positivism]]"
@@ -82,7 +83,7 @@ title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -334,7 +335,7 @@ issuing_organization: ""
 即使在科学教育的学术讨论中，这一冲突也常常未被充分认识。
 
 > [!line-a] Davson-Galle（2004）的调和尝试暴露了冲突的深度
-> - **调和方案** Davson-Galle 试图在训练专业科学家和培养批判精神之间找到一个共同基础。他的方案是：教给学生一套规范性[[Epistemology|认识论]]，即关于什么是好的知识、好的推理的规则体系，并聚焦于训练演绎技能（deductive skill），也就是从给定的前提出发、严格按逻辑推出结论的能力。这个方案乍看合理：演绎技能既可用于科学推理，也可用于批判性审查任何论证。
+> - **调和方案** Davson-Galle 试图在训练专业科学家和培养[[Critical Thinking Disposition|批判精神]]之间找到一个共同基础。他的方案是：教给学生一套规范性[[Epistemology|认识论]]，即关于什么是好的知识、好的推理的规则体系，并聚焦于训练演绎技能（deductive skill），也就是从给定的前提出发、严格按逻辑推出结论的能力。这个方案乍看合理：演绎技能既可用于科学推理，也可用于批判性审查任何论证。
 > - **致命问题** 但批判精神不能被限定在只能批判别人的范围内。如果学生运用同样的演绎技能去审查这套规范性认识论本身的前提，比如追问为什么演绎推理是合理的、这套规则是谁制定的为谁服务的，会发现某些前提可能是假的或可疑的。Davson-Galle 承认这一点，但他只能说：这种追问培养了健康的批判态度，但要小心，不要滑向轻蔑的犬儒主义。问题在于，他无法给出区分两者的逻辑标准。同一个批判行为，在不同人眼中可以被判定为健康或犬儒，而这一判定本身不是逻辑推导的结果，是价值判断（Davson-Galle, 2004, p.513）。
 >
 > > [!exegesis]- 课堂上的具体表现

@@ -7,7 +7,7 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层理论，主张教育决策是阶级条件下对成本、风险和收益的理性计算"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -39,6 +39,8 @@ related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
+related_instruments:
+  - "[[Remote Associates Test]]"
 confidence: medium
 status: draft
 created: 2026-05-08
@@ -53,7 +55,7 @@ updated: 2026-06-18
 > - **解释对象** 不同社会阶级在教育获得上的持续差异——为什么家庭背景在控制学业能力后仍然系统性地影响教育选择。
 > - **理论问题** 教育决策究竟是阶级文化的自动复制，还是阶级约束条件下的理性选择？如果教育扩张增加了所有人的机会，为什么阶级间教育获得的相对差距始终未能缩小？
 > - **理论类型** 中层理论——以相对风险规避为核心机制，连接微观的个体理性决策与宏观的阶级分层结构。Breen & Goldthorpe（1997）的模型最具影响力。
-> - **知识位置** 属于理性选择理论在社会分层研究中的应用传统，与马克思主义的结构决定论、自由主义的现代化预期和文化理论的价值内化构成四种竞争解释。在文化社会学[[Paradigm|范式]]争论中，RAT 是"价值选择过程"理论讨论的[[Dialogue in Education|对话]]方之一（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
+> - **知识位置** 属于理性选择理论在社会分层研究中的应用传统，与马克思主义的结构决定论、自由主义的现代化预期和文化理论的价值内化构成四种竞争解释。在文化社会学[[Paradigm|范式]]争论中，[[Remote Associates Test|RAT]] 是"价值选择过程"理论讨论的[[Dialogue in Education|对话]]方之一（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。
 
 > [!claim] 核心主张
 > 不同社会阶级的成员在做出教育决策时，基于各自阶级位置的约束条件，对成本、风险和收益进行系统性不同的理性计算。决策的首要目标不是最大化回报，而是**避免向下社会流动**——优势阶级为了维持现有位置必须投入更多教育资源，弱势阶级则在有限资源下对风险更加敏感（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Breen & Goldthorpe, 1997；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 37, 85–87]]）。
@@ -94,7 +96,7 @@ updated: 2026-06-18
 ## 关键概念与理论构件
 
 > [!theory-components] 理论构件
-> - **相对风险规避（Relative Risk Aversion）** RAT 的核心机制——不同阶级成员的首要关切是最小化向下阶级流动的风险和最大化向上流动或至少维持现有阶级位置的机会。
+> - **相对风险规避（Relative Risk Aversion）** [[Remote Associates Test|RAT]] 的核心机制——不同阶级成员的首要关切是最小化向下阶级流动的风险和最大化向上流动或至少维持现有阶级位置的机会。
 > - **首属效应与次属效应** Boudon 的经典区分，界定了 RAT 的核心解释范围。首属效应指家庭背景通过影响学业能力间接影响教育获得；次属效应指控制学业能力后家庭背景仍直接影响教育选择。Breen & Goldthorpe（1997）的 RAT 模型集中解释次属效应——为什么成绩相同的孩子，阶级出身不同会做出系统性不同的教育选择（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Boudon, 2001；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 84–85]]）。
 > - **抱负的相对性** 抱负不是绝对的，而是相对于阶级位置而言——这是 RAT 区别于文化决定论的关键概念前提。
 > - **分叉点（Branching Points）** 教育系统中的关键决策节点（小学到中学、中学到大学），次属效应的力量在分叉点进入并随学程推进而增强。
@@ -105,7 +107,7 @@ updated: 2026-06-18
 ## 认识论与方法含义
 
 > [!theory-stance] [[Epistemology|认识论]]与方法含义
-> - **[[Ontology|本体论]]** RAT 预设行动者是理性计算者，在阶级结构的约束条件下做出效用最大化的选择。阶级结构是客观存在的，但通过个体的理性决策被再生产。
+> - **[[Ontology|本体论]]** [[Remote Associates Test|RAT]] 预设行动者是理性计算者，在阶级结构的约束条件下做出效用最大化的选择。阶级结构是客观存在的，但通过个体的理性决策被再生产。
 > - **认识论** RAT 采纳个体主义方法论——从个体决策出发解释宏观结构现象。证据类型偏好可量化的成本-收益数据、教育选择数据和阶级流动统计。
 > - **方法含义** 通常通过大规模调查数据、纵向[[Cohort Study|追踪研究]]和比较不同阶级教育选择的统计模型来检验。Goldthorpe（2007）的七步推理过程——确立规律性→设定理论基础→排除竞争理论→提出[[Hypothesis|假设]]→阐明假设→经验检验→得出结论——是其典型检验策略（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 82–83]]）。
 > - **不能直接推出的东西** RAT 不能自动证明行动者是"完全理性"的——它承认理性是在阶级约束条件下的[[Bounded Rationality|有限理性]]。RAT 也不能解释为什么个体可能有不同于阶级预期的价值观、信仰或情感驱动的教育选择。
@@ -128,7 +130,7 @@ updated: 2026-06-18
 > - **适合解释** 在控制学业能力后仍存在的教育选择阶级差异；义务教育后分叉点的阶级差异；教育扩张未能消除阶级差异的宏观现象。
 > - **谨慎使用** 当教育选择涉及强烈情感、价值观或文化认同驱动时，需要补充文化社会学视角。在阶级结构剧烈变化的社会中，成本-收益参数可能需要重新校准。
 > - **不适合解释** 首属效应（早期[[Academic Achievement|学业成就]]的阶级差异）——这需要文化理论或社会化理论补充；个体因独特经历、信仰或情感而非阶级约束做出的教育选择。
-> - **常见误用** 将 RAT 等同于"穷人短视"或"穷人不够理性"——这完全误解了该理论。RAT 恰恰论证了弱势阶级的教育选择在其阶级约束条件下是**完全理性的**——问题是约束条件不同，而非理性程度不同。
+> - **常见误用** 将 [[Remote Associates Test|RAT]] 等同于"穷人短视"或"穷人不够理性"——这完全误解了该理论。RAT 恰恰论证了弱势阶级的教育选择在其阶级约束条件下是**完全理性的**——问题是约束条件不同，而非理性程度不同。
 
 ---
 
@@ -136,7 +138,7 @@ updated: 2026-06-18
 
 > [!dev-timeline] 发展脉络
 > 1. **理论奠基**
->    - 1973 — Boudon 提出首属效应与次属效应的经典区分，为 RAT 提供了核心解释范围
+>    - 1973 — Boudon 提出首属效应与次属效应的经典区分，为 [[Remote Associates Test|RAT]] 提供了核心解释范围
 >    - 1997 — Breen and Goldthorpe 建立 RAT 的形式化模型，以相对风险规避为核心机制解释阶级差异
 > 2. **实证检验与扩展**
 >    - 2001 — Boudon 进一步阐述理性选择在社会分层中的应用
@@ -159,7 +161,7 @@ updated: 2026-06-18
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian]] — 将 RAT 纳入文化社会学[[Paradigm|范式]]争论，作为"价值选择过程"的理论讨论[[Dialogue in Education|对话]]方之一，指出其工具理性[[Hypothesis|假设]]的文化社会学局限
+> - [[Argument_Zheng_2023_ShanghaiSanlian]] — 将 [[Remote Associates Test|RAT]] 纳入文化社会学[[Paradigm|范式]]争论，作为"价值选择过程"的理论讨论[[Dialogue in Education|对话]]方之一，指出其工具理性[[Hypothesis|假设]]的文化社会学局限
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 以 Goldthorpe（2007）的七步案例展示 RAT 如何通过排除竞争理论、确立假设和三组证据集群的检验来解释阶级差异的持续存在
 
 ---
@@ -167,5 +169,5 @@ updated: 2026-06-18
 ## 应用领域
 
 > [!case] 应用领域索引
-> - 高等教育入学 — RAT 的核心应用领域，解释不同阶级在是否进入高等教育决策上的系统性差异
+> - 高等教育入学 — [[Remote Associates Test|RAT]] 的核心应用领域，解释不同阶级在是否进入高等教育决策上的系统性差异
 > - 教育政策评估 — RAT 揭示仅增加教育供给而不改变阶级间成本-收益相对关系，无法消除阶级差异

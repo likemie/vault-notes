@@ -8,7 +8,7 @@ summary: "战国时期儒家思想家，孔子学说的直接继承者，以性�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Four Sprouts]]"
   - "[[Self-Cultivation]]"
   - "[[Take the World Upon Oneself]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Junzi]]"
   - "[[Benevolence]]"
   - "[[Rightness]]"
@@ -61,7 +62,7 @@ updated: 2026-08-20
 > [!person-profile] 人物档案
 > - **身份位置** 战国时期儒家思想家，[[Confucius|孔子]]学说的直接继承者，被后世尊为“亚圣”。
 > - **核心角色** 为[[Confucian Learning Tradition|儒家学习传统]]建立人性论哲学基础的节点；其著作《孟子》被宋代[[Zhu Xi|朱熹]]列入“四书”，在当代国家课程中作为正统[[Official Knowledge|官方知识]]被广泛选编。
-> - **代表贡献** 提出“性善论”与“[[Four Sprouts|四端]]说”；主张“人人皆可为尧舜”，将道德修养开放给所有人；确立“自得之”的[[Self-Cultivation|修身]]责任与“[[Take the World Upon Oneself|以天下为己任]]”的独立批判精神。
+> - **代表贡献** 提出“性善论”与“[[Four Sprouts|四端]]说”；主张“人人皆可为尧舜”，将道德修养开放给所有人；确立“自得之”的[[Self-Cultivation|修身]]责任与“[[Take the World Upon Oneself|以天下为己任]]”的独立[[Critical Thinking Disposition|批判精神]]。
 
 > [!citation-card]- 人物定位的关键来源
 > 孟子最重要的贡献是将孔子“学以[[Self-Cultivation|修身]]成仁”的教导建立在人性论的基础上，为[[Confucian Learning Tradition|儒家学习传统]]提供了一套系统的哲学论证。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 42–43)]]
@@ -98,7 +99,7 @@ updated: 2026-08-20
 ## 核心思想
 
 > [!claim] 核心主张
-> 孟子在三个关键维度上深化了[[Confucius|孔子]]的学说：第一，提出“性善论”，将[[Self-Cultivation|修身]]建立在人类先天的道德感之上；第二，归纳“[[Four Sprouts|四端]]说”（恻隐、羞恶、辞让、是非），论证道德卓越并非精英特权，而是“人人皆可为尧舜”；第三，主张“[[Junzi|君子]]深造之以道，欲其自得之也”，强调个人自主努力的终极责任，并确立了“[[Take the World Upon Oneself|以天下为己任]]”的社会批判精神[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 42–46)]]。
+> 孟子在三个关键维度上深化了[[Confucius|孔子]]的学说：第一，提出“性善论”，将[[Self-Cultivation|修身]]建立在人类先天的道德感之上；第二，归纳“[[Four Sprouts|四端]]说”（恻隐、羞恶、辞让、是非），论证道德卓越并非精英特权，而是“人人皆可为尧舜”；第三，主张“[[Junzi|君子]]深造之以道，欲其自得之也”，强调个人自主努力的终极责任，并确立了“[[Take the World Upon Oneself|以天下为己任]]”的社会[[Critical Thinking Disposition|批判精神]][[Argument_Li_2012_Cambridge|(Li, 2012, pp. 42–46)]]。
 
 > [!citation-card]- 关键表述：梁惠王问利与四端之说
 > 王何必曰利？亦有仁义而已矣。（《孟子·梁惠王上》）[[Argument_Li_2012_Cambridge|(Li, 2012, p. 45)]]

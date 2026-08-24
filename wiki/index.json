@@ -1464,8 +1464,7 @@
     "path": "wiki/concepts/educational-philosophy/Critical Thinking.md",
     "aliases": [
       "批判性思维",
-      "critical thinking skills",
-      "critical thinking dispositions"
+      "critical thinking skills"
     ]
   },
   {
@@ -2564,6 +2563,19 @@
       "creative potential",
       "创造性思维",
       "creative thinking"
+    ]
+  },
+  {
+    "title": "Critical Thinking Disposition",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Critical Thinking Disposition.md",
+    "aliases": [
+      "批判性思维倾向",
+      "批判性思维意向",
+      "批判性思维习性",
+      "批判精神",
+      "CT Disposition",
+      "Critical Thinking Dispositions"
     ]
   },
   {
@@ -9700,6 +9712,18 @@
     ]
   },
   {
+    "title": "APA Delphi Consensus on Critical Thinking",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/APA Delphi Consensus on Critical Thinking.md",
+    "aliases": [
+      "德尔菲专家共识",
+      "德尔菲批判性思维共识",
+      "德尔菲批判性思维共识框架",
+      "Delphi Report on Critical Thinking",
+      "Delphi Consensus on Critical Thinking"
+    ]
+  },
+  {
     "title": "Autopoiesis",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Autopoiesis.md",
@@ -12952,6 +12976,15 @@
     ]
   },
   {
+    "title": "Remote Associates Test",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Remote Associates Test.md",
+    "aliases": [
+      "RAT",
+      "远距离联想测验"
+    ]
+  },
+  {
     "title": "Views of Nature of Science Questionnaire",
     "type": "instrument",
     "path": "wiki/instruments/Views of Nature of Science Questionnaire.md",
@@ -14921,6 +14954,16 @@
       "Lincoln, Y. S.",
       "Yvonna Lincoln",
       "伊冯娜·林肯"
+    ]
+  },
+  {
+    "title": "Peter Facione",
+    "type": "person",
+    "path": "wiki/persons/us/Peter Facione.md",
+    "aliases": [
+      "Peter A. Facione",
+      "彼得·法乔恩",
+      "法乔恩"
     ]
   },
   {

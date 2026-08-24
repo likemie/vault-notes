@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 142
+argument_related_count: 143
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Examined Life]]"
   - "[[Critical Thinking]]"
   - "[[Socratic Dialogue]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Academic Freedom]]"
   - "[[University Motto]]"
   - "[[Creativity]]"
@@ -640,7 +641,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 > 
 > Li 分析道：苏格拉底不仅追问，而且"执着地、无情地"追求真知——在对话中他完全不关心优绪弗洛被逼到墙角会有什么感受。他被告上法庭、被判死刑——罪名之一是"腐蚀青年"（因为他教青年像他一样质疑一切）。他本可以越狱，但选择平静地喝下毒药。苏格拉底的一生就是"省察的生活"的全面体现。
 
-> [!success] 从苏格拉底到今天：批判精神的延续
+> [!success] 从苏格拉底到今天：[[Critical Thinking Disposition|批判精神]]的延续
 > Li 指出这一传统在今天的具体表现(pp.42-43)：
 > - **[[Academic Freedom|学术自由]]** 教师和学生自由探究、挑战旧观念、表达新思想
 > - **批判既有权威** 从[[Jean-Jacques Rousseau|卢梭]]（攻击当时的教育实践和"文明"本身对人类的伤害）到当代教育改革，挑战正统是"被高度珍视的西方文化气质"

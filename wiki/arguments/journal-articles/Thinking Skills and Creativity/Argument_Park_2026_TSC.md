@@ -45,6 +45,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Between-Study Variance]]"
   - "[[Performance Indicators]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Self-Efficacy]]"
   - "[[Sample Size Determination]]"
   - "[[Funnel Plot]]"
@@ -75,7 +76,9 @@ related_instruments:
   - "[[Consensual Assessment Technique]]"
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[National Education Association]]"
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
 sources:
@@ -90,7 +93,7 @@ title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -107,7 +110,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]都被视为学生在 21 世纪立足的关键技能：[[National Education Association|全美教育协会]]（National Education Association, NEA）将两者列为教育者应帮助学生发展的核心技能，美国心理学会（American Psychological Association, APA）与世界经济论坛亦强调其个体与经济价值；2000–2021 年间批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能的核心成分（Thornhill-Miller et al., 2023）。然而，两者关系的直接实证证据长期稀缺（Runco, 2003; Runco & Chand, 1994），这种关系上的不明朗既削弱了对它们在教育与学习中[[Interaction Effect|交互作用]]的理解，也阻碍了联合训练与联合评估机会的开发。随着人工智能对人工创造与人工思考能否侵蚀或替代人类心智能力的争论升温（Partnership for 21st Century Skills, 2009; Runco, 2023; Spector & Ma, 2019），厘清这两个[[Construct|构念]]究竟相互关联、相互独立还是彼此对立，成为教育心理学与课程设计都必须回应的核心问题。（pp. 1–2）
+> [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]都被视为学生在 21 世纪立足的关键技能：[[National Education Association|全美教育协会]]（[[National Education]] Association, NEA）将两者列为教育者应帮助学生发展的核心技能，美国心理学会（American Psychological Association, APA）与世界经济论坛亦强调其个体与经济价值；2000–2021 年间批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能的核心成分（Thornhill-Miller et al., 2023）。然而，两者关系的直接实证证据长期稀缺（Runco, 2003; Runco & Chand, 1994），这种关系上的不明朗既削弱了对它们在教育与学习中[[Interaction Effect|交互作用]]的理解，也阻碍了联合训练与联合评估机会的开发。随着人工智能对人工创造与人工思考能否侵蚀或替代人类心智能力的争论升温（Partnership for 21st Century Skills, 2009; Runco, 2023; Spector & Ma, 2019），厘清这两个[[Construct|构念]]究竟相互关联、相互独立还是彼此对立，成为教育心理学与课程设计都必须回应的核心问题。（pp. 1–2）
 
 > [!claim] 核心主张
 > 在[[Meta-analysis|元分析]]综合的学生样本中，创造力与批判性思维呈显著的中等正相关（$r = 0.386$，95% [[Confidence Interval|置信区间]]（Confidence Interval, CI）$[0.296, 0.470]$），该相关随测量类型显著变化：两者都用自陈（主观）测量时相关最高（$r = 0.509$），两者都用任务表现（客观）测量时次之（$r = 0.317$），混合测量组合相关最低，这既表明两个构念共享部分认知基础，也提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。（pp. 2–3, 9）
@@ -150,6 +153,14 @@ issuing_organization: ""
 
 > [!warrant]- 理论如何支撑论证
 > 共享认知与执行功能基础为两者正相关提供理论前提；发散与收敛的互补关系又说明两者不应完全相同，最优预期是显著且大小适中的正相关。同时，由于主观（自陈）测量可能共享社会期望、自尊等作答倾向，测量方式本身应改变观察到的相关强度，这为测量类型调节假设提供依据。（pp. 2–3）
+
+> [!dual-header] 纳入研究的测量工具分类：构念 × 主客观
+> | 测量构念 | 主观测量（自陈/自评） | 客观测量（任务/产品表现） |
+> |---|---|---|
+> | **[[Creativity\|创造力]]** | <br>- 创造自我效能量表（Creative Self-Efficacy Scale）<br>- 马尔马拉创造性思维倾向量表（Marmara Creative Thinking Dispositions Scale）<br>- [[Creative Achievement Questionnaire\|创造性成就问卷]]（CAQ）<br>- 考夫曼创造力领域量表（Kaufman Domains of Creativity Scale）<br>- 创造力量表（Creativity Scale）<br>- 创造性人格量表（Creative Personality Scale）<br>- 特质性创造自我效能（Trait-like Creative Self Efficacy） | <br>- [[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）<br>- 非常规用途测验（Alternate Uses Test）<br>- 吉尔福德联想流畅性与观念流畅性测验（Guilford Fluency Tests）<br>- 发散思维测验（Divergent Thinking Test）<br>- 筷子创造力测验（Chopsticks Creativity Test）<br>- 科学创造力（Scientific Creativity）<br>- 产品设计创作（Product Design Creation）<br>- 批判与创造思维测验（Critical and Creative Thinking Test） |
+> | **[[Critical Thinking\|批判性思维]]** | <br>- [[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷]]（CCTDI）<br>- 批判性思维倾向量表（Critical Thinking Disposition Scale）<br>- 批判性思维量表（Critical Thinking Scale）<br>- UF/EMI 批判性思维倾向量表<br>- 批判性思维问卷（Critical Thinking Questionnaire）<br>- 批判性思维倾向工具（Critical Thinking Disposition Instrument） | <br>- 沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal, WGCTA）<br>- 康奈尔批判性思维测验（Cornell Critical Thinking Test, CCTT）<br>- PENCRISAL 批判性思维测验<br>- 高级智力结构批判与分析思维测验（Advanced Structure of Intellect Test）<br>- 批判性思维评估工具（Critical Thinking Assessment Tool）<br>- 按批判性思维评分规准评定的书面分析 |
+> 
+> **图表解读** 主客观[[Coding in Qualitative Research|编码]]遵循创造力[[Meta-analysis|元分析]]惯例（Storme et al., 2021; N. K. Park et al., 2016）：主观指自陈或自评作答，客观指观念/产品产出或任务表现。同一构念的编码随研究而异，完整逐研究归属见下方 Table 1。（pp. 4–5）
 
 ### 核心变量与操作化编码表
 
@@ -198,20 +209,12 @@ issuing_organization: ""
 > - **稳健性** RVE（clubSandwich，Pustejovsky, 2023）施加于 metafor 三水平模型（Viechtbauer, 2010）（pp. 4–5）。
 > - **软件** R 包 "meta"（Balduzzi et al., 2019）（p. 4）。
 
-> [!dual-header] 纳入研究的测量工具分类：构念 × 主客观
-> | 测量构念 | 主观测量（自陈/自评） | 客观测量（任务/产品表现） |
-> |---|---|---|
-> | **[[Creativity\|创造力]]** | <br>- 创造自我效能量表（Creative Self-Efficacy Scale）<br>- 马尔马拉创造性思维倾向量表（Marmara Creative Thinking Dispositions Scale）<br>- [[Creative Achievement Questionnaire\|创造性成就问卷]]（CAQ）<br>- 考夫曼创造力领域量表（Kaufman Domains of Creativity Scale）<br>- 创造力量表（Creativity Scale）<br>- 创造性人格量表（Creative Personality Scale）<br>- 特质性创造自我效能（Trait-like Creative Self Efficacy） | <br>- [[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）<br>- 非常规用途测验（Alternate Uses Test）<br>- 吉尔福德联想流畅性与观念流畅性测验（Guilford Fluency Tests）<br>- 发散思维测验（Divergent Thinking Test）<br>- 筷子创造力测验（Chopsticks Creativity Test）<br>- 科学创造力（Scientific Creativity）<br>- 产品设计创作（Product Design Creation）<br>- 批判与创造思维测验（Critical and Creative Thinking Test） |
-> | **[[Critical Thinking\|批判性思维]]** | <br>- [[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷]]（CCTDI）<br>- 批判性思维倾向量表（Critical Thinking Disposition Scale）<br>- 批判性思维量表（Critical Thinking Scale）<br>- UF/EMI 批判性思维倾向量表<br>- 批判性思维问卷（Critical Thinking Questionnaire）<br>- 批判性思维倾向工具（Critical Thinking Disposition Instrument） | <br>- 沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal, WGCTA）<br>- 康奈尔批判性思维测验（Cornell Critical Thinking Test, CCTT）<br>- PENCRISAL 批判性思维测验<br>- 高级智力结构批判与分析思维测验（Advanced Structure of Intellect Test）<br>- 批判性思维评估工具（Critical Thinking Assessment Tool）<br>- 按批判性思维评分规准评定的书面分析 |
-> 
-> **图表解读** 主客观编码遵循创造力元分析惯例（Storme et al., 2021; N. K. Park et al., 2016）：主观指自陈或自评作答，客观指观念/产品产出或任务表现。同一构念的编码随研究而异，完整逐研究归属见下方 Table 1。（pp. 4–5）
-
 > [!ref-table]- 纳入研究特征与测量类型编码清单（Table 1）
 > | 研究（国家） | 参与者年龄 | 学段 | 地理区域 | 批判性思维测量（主观/客观） | 创造力测量（主观/客观） |
 > |---|---|---|---|---|---|
 > | Akpur (2020) | NA | College | Middle East | The Critical Thinking Scale（客观） | Marmara Creative Thinking Dispositions Scale（主观） |
 > | AlMahdawi et al. (2021) | 16.5 | Middle/High school | Middle East | [[Internet-based Survey\|online survey]] [[Questionnaire]] for High School Students’ [[Performance Indicators]] in Distance Learning in Chemistry during the COVID-19 Pandemic - Critical Thinking Domain（主观） | Online Survey Questionnaire for High School Students’ Performance Indicators in Distance Learning in Chemistry during the COVID-19 Pandemic - Creativity and Innovation Domain（主观） |
-> | Álvarez-Huerta et al. (2022) | 20.35 | College | Other countries | Critical Thinking Disposition Scale (Spanish adaptation)（主观） | Creative [[Self-Efficacy]] Instrument（主观） |
+> | Álvarez-Huerta et al. (2022) | 20.35 | College | Other countries | [[Critical Thinking Disposition]] Scale (Spanish adaptation)（主观） | Creative [[Self-Efficacy]] Instrument（主观） |
 > | Anderson & Beach (2022) | 14.5 | Middle/High school | North America | Student MetaSkills Survey - Critical Thinking Domain（主观） | Student MetaSkills Survey - Creativity Domain（主观） |
 > | Brubaker (1971) | NA | College | North America | The Critical Thinking Scale（客观） | Creative Personality Scale（主观） |
 > | Egger et al. (1997) | NA | College | North America | Written analysis provided by students assessed using a critical thinking rubric（客观） | Creation of Product Design（客观） |
@@ -288,7 +291,7 @@ issuing_organization: ""
 > 教育机构、心理学会与经济论坛均强调两种技能的发展价值，批判性思维研究在 2000–2021 年间持续增长；人工智能对人工创造与人工思考的争论进一步抬高研究兴趣；然而直接考察两者关系的实证研究很少，构成明确的知识缺口。（pp. 1–2）
 
 > [!chain-link] 证据到判断
-> - **机构与学界共同强调** 全美教育协会（National Education Association, 2012）、美国心理学会（American Psychological Association, 2016）与世界经济论坛（Di Battista et al., 2023）把两者列为 21 世纪核心技能；[[Document|文献]]计量综述显示 2000–2021 年批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能核心成分（Thornhill-Miller et al., 2023）。（pp. 1–2）
+> - **机构与学界共同强调** [[National Education Association|全美教育协会]]（National Education Association, 2012）、美国心理学会（American Psychological Association, 2016）与世界经济论坛（Di Battista et al., 2023）把两者列为 21 世纪核心技能；[[Document|文献]]计量综述显示 2000–2021 年批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能核心成分（Thornhill-Miller et al., 2023）。（pp. 1–2）
 > - **人工智能争论抬高兴趣** 人工创造与人工思考能否替代人类心智的争论强化了研究这两种独特能力的必要性（Partnership for 21st Century Skills, 2009; Runco, 2023; Spector & Ma, 2019）。（pp. 1–2）
 > - **关系证据长期稀缺** 尽管兴趣高涨，直接考察两者关系的实证研究很少（Runco, 2003; Runco & Chand, 1994），构成知识缺口。（p. 2）
 
@@ -355,10 +358,10 @@ issuing_organization: ""
 > - **[[Coding in Qualitative Research|编码]]与调节变量** 测量按主观（自陈/自评）与客观（观念/产品产出或任务表现）[[Coding in Qualitative Research|编码]]，并提取年龄、学段、年份、地理区域四个调节变量。（pp. 4–5）
 
 > [!case] 嵌套效应量的来源：同一研究为何贡献多个相关
-> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽批判性思维评价（WGCTA）分别匹配非常规用途测验、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一批判性思维倾向量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。（p. 4）
+> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽批判性思维评价（WGCTA）分别匹配非常规用途测验、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一[[Critical Thinking Disposition|批判性思维倾向]]量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。（p. 4）
 
 > [!warrant]- 推理桥梁
-> 三水平模型在统计上正确处理嵌套依赖（模型细节见上文"效应量与统计模型"），RVE 进一步保证标准误对依赖结构稳健，元回归与偏倚检验则分别回应"哪些条件改变相关"与结论是否被选择性发表扭曲两个问题，四项技术合起来系统回应了 Park et al. (2023) 的五点缺口。（pp. 4–5）
+> 三水平模型在统计上正确处理嵌套依赖（模型细节见上文效应量与统计模型一节），RVE 进一步保证标准误对依赖结构稳健，元回归与偏倚检验则分别回应哪些条件改变相关与结论是否被选择性发表扭曲两个问题，四项技术合起来系统回应了 Park et al. (2023) 的五点缺口。（pp. 4–5）
 
 ---
 

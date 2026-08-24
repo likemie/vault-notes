@@ -46,6 +46,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Student Attitude]]"
   - "[[Document]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Blue Skies Research]]"
   - "[[Flow]]"
@@ -87,7 +88,7 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -228,7 +229,7 @@ issuing_organization: ""
 > | Liu & Pásztor (2022) | 批判性思维 | .58 [.41, .75] | 42 | 医学 | 文章 | 非特定 | RCT 与非 RCT | 高 | 2000–2021 |
 > | Liu & Pásztor (2022) | 批判性思维 | .74 [.38, 1.10] | 10 | 理科 | 文章 | 非特定 | RCT 与非 RCT | 高 | 2000–2021 |
 > | Liu & Pásztor (2022) | 批判性思维 | .91 [.48, 1.33] | 6 | 文科 | 文章 | 非特定 | RCT 与非 RCT | 高 | 2000–2021 |
-> | Liu & Pásztor (2022) | 批判性思维倾向 | .49 [.14, .85] | 16 | 医学 | 文章 | 非特定 | RCT 与非 RCT | 高 | 2000–2021 |
+> | Liu & Pásztor (2022) | [[Critical Thinking Disposition\|批判性思维倾向]] | .49 [.14, .85] | 16 | 医学 | 文章 | 非特定 | RCT 与非 RCT | 高 | 2000–2021 |
 > | Liu & Pásztor (2022) | 批判性思维倾向 | .87 [.22, 1.51] | 6 | 理科 | 文章 | 非特定 | RCT 与非 RCT | 高 | 2000–2021 |
 > | Liu & Pásztor (2022) | 批判性思维倾向 | .71 [.42, .99] | 5 | 文科 | 文章 | 非特定 | RCT 与非 RCT | 高 | 2000–2021 |
 > | Shin & Kim (2013) | 理论性知识 | 1.32 [.72, 1.93] | 10 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |

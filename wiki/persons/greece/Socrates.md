@@ -6,7 +6,7 @@ summary: "古希腊哲学家，西方批判性思维的化身，以苏格拉底�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Avatar]]"
   - "[[Academic Freedom]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Effective Teaching]]"
 related_theories: []
 related_methods: []
@@ -87,7 +88,7 @@ updated: '2026-06-08'
 > [!success]
 > - 苏格拉底是 Li 识别的 西方学习传统第三主题的最完整人格化体现——他代表了质疑一切理所当然之事的智识态度([[Argument_Li_2012_Cambridge|Li, 2012, pp.31-33]])
 > - 他是 西方先天论心智传统的起点——"知识即回忆"的论断开启了 2,500 年的先天论与经验论之争([[Argument_Li_2012_Cambridge|Li, 2012, pp.27-29]])
-> - 现代[[Academic Freedom|学术自由]]被 Li 视为苏格拉底批判精神的制度化延续——教师和学生"自由探究、思考和挑战旧观念并表达新思想"([[Argument_Li_2012_Cambridge|Li, 2012, pp.32-33]])
+> - 现代[[Academic Freedom|学术自由]]被 Li 视为苏格拉底[[Critical Thinking Disposition|批判精神]]的制度化延续——教师和学生"自由探究、思考和挑战旧观念并表达新思想"([[Argument_Li_2012_Cambridge|Li, 2012, pp.32-33]])
 > - 苏格拉底与 [[Confucius|孔子]] 在 Li 的比较框架中形成对称：两人均不立文字、均由弟子记录思想，但一人向外追问真知，一人向内修养人格。Li 引 Hecht 将苏格拉底与耶稣并列为西方最具创新性的人物([[Argument_Li_2012_Cambridge|Li, 2012, p.164 脚注 2]])
 
 ---

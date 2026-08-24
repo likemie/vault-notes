@@ -8,10 +8,10 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知过程，是创造潜能研究中最常用的操作化构念"
 type: concept
 domain: "educational-psychology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/creativity
   - construct/cognitive-process
@@ -40,6 +40,7 @@ related_arguments:
 related_theories:
   - "[[Creative Problem Solving]]"
 related_instruments:
+  - "[[Remote Associates Test]]"
   - "[[Runco Ideational Behavior Scale]]"
 confidence: medium
 status: draft
@@ -79,7 +80,7 @@ updated: 2026-08-24
 > |------|--------------|--------------|-------------------------------|
 > | 认知目标 | 产生多样化、独创性[[Hypothesis\|假设]]与构想 | 评估、筛选并收敛至最优单一解 | 整合[[Problem Finding\|问题发现]]、观念生成、方案评估与产品实现 |
 > | 评价标准 | 流畅性、灵活性、独创性与精细性 | 逻辑正确性、精确性与一致性 | 新颖性与适切性 |
-> | 测量工具 | 非常规用途测验、托兰斯测验 | 智力测验、远距离联想测验 | 综合问题解决任务、[[Creativity\|创造性]]活动与成就量表 |
+> | 测量工具 | 非常规用途测验、托兰斯测验 | 智力测验、[[Remote Associates Test\|远距离联想测验]] | 综合问题解决任务、[[Creativity\|创造性]]活动与成就量表 |
 
 ---
 

@@ -22,8 +22,8 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Academic Self-Concept]]"
-  - "[[Praxis]]"
   - "[[IB Diploma Programme]]"
   - "[[Operationalization]]"
   - "[[Metacognition]]"
@@ -95,7 +95,7 @@ journal: "Australian Journal of Education"
 > [[International Baccalaureate|国际文凭]]（IB）文凭项目（DP）的"[[Theory of Knowledge|知识论]]"课程。它不教授固定学科内容，而是要求学生反思知识本质，是一门 100 小时独立[[Critical Thinking|批判性思维]]课程。它是否有效提升了澳大利亚学生的批判性思维技能和倾向？完成 DP 课程的学生在大学学术准备上是否优于未完成的学生？
 
 > [!claim] 核心主张
-> 显性的、独立的批判性思维教学（如 ToK 课程）对学生批判性思维技能的发展有积极影响。12 年级 ToK 学生在批判性思维测量上显著高于 11 年级学生。DP 毕业生的批判性思维倾向各维度均值均高于非 DP 毕业生，且大学学术指标（澳大利亚高等教育入学排名 ATAR、[[Academic Self-Concept|学术自我概念]]、预期大学成果）均显著更高；不过，原文未报告批判性思维倾向差异的显著性检验。ToK 的效果高度依赖学校的实施方式。相同的课程框架在不同学校中产生了从高度整合到近乎随意的差异悬殊的教学实践。
+> 显性的、独立的批判性思维教学（如 ToK 课程）对学生批判性思维技能的发展有积极影响。12 年级 ToK 学生在批判性思维测量上显著高于 11 年级学生。DP 毕业生的[[Critical Thinking Disposition|批判性思维倾向]]各维度均值均高于非 DP 毕业生，且大学学术指标（澳大利亚高等教育入学排名 ATAR、[[Academic Self-Concept|学术自我概念]]、预期大学成果）均显著更高；不过，原文未报告批判性思维倾向差异的显著性检验。ToK 的效果高度依赖学校的实施方式。相同的课程框架在不同学校中产生了从高度整合到近乎随意的差异悬殊的教学实践。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 澳大利亚 [[IB Diploma Programme|IB DP]] 学校的 11–12 年级 ToK 学生（$n = 1,338$），四所新南威尔士州（NSW）案例学校，以及 DP 与非 DP 大学一年级新生（$n = 389$）。
@@ -299,7 +299,7 @@ journal: "Australian Journal of Education"
 ### 论证步骤四　阶段三证据：DP 毕业生在大学学术和批判性思维上的全面优势
 
 > [!claim] 步骤四主张
-> 完成整个 DP 课程（含 ToK）的学生在进入大学时，批判性思维倾向的七个维度均值均高于非 DP 毕业生，而且在三项大学学术准备指标（ATAR、[[Academic Self-Concept|学术自我概念]]、预期大学成果）上均表现出统计显著的优势。原文没有报告批判性思维倾向组间差异的显著性检验。
+> 完成整个 DP 课程（含 ToK）的学生在进入大学时，[[Critical Thinking Disposition|批判性思维倾向]]的七个维度均值均高于非 DP 毕业生，而且在三项大学学术准备指标（ATAR、[[Academic Self-Concept|学术自我概念]]、预期大学成果）上均表现出统计显著的优势。原文没有报告批判性思维倾向组间差异的显著性检验。
 
 > [!contrast-table] 批判性思维倾向比较（[[California Critical Thinking Disposition Inventory|CCTDI]] 七维度 + 总分）
 > | 维度 | DP ($n = 42$) M (SD) | 非DP ($n = 126$) M (SD) | Δ | Hedges' $g$（派生） |
@@ -333,7 +333,7 @@ journal: "Australian Journal of Education"
 
 > [!finding-cards] 核心发现
 > 1. **ToK 学生在两年课程期间[[Critical Thinking|批判性思维]]技能显著增长** 12 年级在 [[Critical Thinking Strategies Scale|CTSS]] 14 项技能中的 11 项上显著高于 11 年级，且在 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale|MSLQ]] 批判性思维分量表上同样表现出显著增长。效应最大的技能是"评估主张"（$p < .001$），三项未达显著的技能（基于证据得出结论、限制主张范围、呈现论证）可能代表了需要更长时间发展的高阶能力（pp. 254–255）
-> 2. **DP 毕业生的批判性思维倾向均值和大学学术指标均高于非 DP 毕业生** DP 毕业生在 [[California Critical Thinking Disposition Inventory|CCTDI]] 七个维度上的得分均值都更高（推理自信差异最大），但原文未报告显著性检验；ATAR（$+4.84$分）、[[Academic Self-Concept|学术自我概念]]和预期大学成果则均显著更高（pp. 257–258）
+> 2. **DP 毕业生的[[Critical Thinking Disposition|批判性思维倾向]]均值和大学学术指标均高于非 DP 毕业生** DP 毕业生在 [[California Critical Thinking Disposition Inventory|CCTDI]] 七个维度上的得分均值都更高（推理自信差异最大），但原文未报告显著性检验；ATAR（$+4.84$分）、[[Academic Self-Concept|学术自我概念]]和预期大学成果则均显著更高（pp. 257–258）
 > 3. **ToK 的批判性思维教学效果高度依赖学校实施方式** 四所案例学校展示了从全校整合（学校 1 和 4）到过度依赖讨论（学校 2）的四种截然不同的实施模式。课程框架本身不能自动保证批判性思维培养。学校文化、教师经验和知识传统是关键调节[[Variable|变量]]。其中一所学校已将 ToK 模式复制给非 IB 学生，构成对课程价值的"揭示的偏好"（pp. 256–259）
 > 4. **学生经历"ToK 冲击"后长期获益** 学生在 ToK 课程初期可能遇到困难（"ToK-shock"），因为这是他们第一次被要求在没有标准答案的情况下思考，但许多学生日后重新肯定这门课程的价值，认识到它培养了一种以成熟方式批判性思考的能力（p. 259）
 

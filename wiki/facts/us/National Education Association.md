@@ -10,9 +10,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
   - region/us
@@ -20,11 +20,12 @@ tags:
   - theme/21st-century-skills
   - theme/teacher-organizations
 related_concepts:
-  - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Creativity]]"
   - "[[Critical Thinking]]"
+  - "[[Creativity]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -52,9 +53,9 @@ updated: 2026-08-25
 ## 关键文件与主张
 
 > [!claim] 核心主张
-> 2012 年发布《为全球社会培养 21 世纪学生：教育者"4C"指南》（Preparing 21st Century Students for a Global Society: An Educator's Guide to the "Four Cs"），把批判性思维与问题解决、沟通、协作、创造力与创新列为学生必备的"4C"技能，是[[21st Century Skills and Competencies Discourse|21 世纪技能话语]]进入美国课堂实践的代表性机构文件。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
+> 2012 年发布《为全球社会培养 21 世纪学生：教育者4C指南》（Preparing 21st Century Students for a Global Society: An Educator's Guide to the "Four Cs"），把[[Critical Thinking|批判性思维]]与问题解决、沟通、协作、[[Creativity|创造力]]与创新列为学生必备的 4C 技能，是21 世纪技能话语进入美国课堂实践的代表性机构文件。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
 
-> [!policy-design]- "4C"技能框架
+> [!policy-design]- 4C 技能框架
 > - **批判性思维与问题解决（Critical Thinking and Problem Solving）** 以证据评价、推理与决策为核心的思维技能。
 > - **沟通（Communication）** 清晰表达、有效倾听与多媒介传递信息。
 > - **协作（Collaboration）** 团队分工、互赖与共识建构。
@@ -65,8 +66,8 @@ updated: 2026-08-25
 ## 影响与评价
 
 > [!finding-cards] 影响
-> - **推动 21 世纪技能话语** 与[[21st Century Skills and Competencies Discourse|21 世纪技能与能力话语]]相互强化，为"4C"框架提供机构背书，影响[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]进入美国课程与教学讨论。
-> - **进入元分析证据** 全美教育协会对创造力与批判性思维的强调，被 Park et al. (2026) 引为研究两者关系重要性的机构依据。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
+> - **推动 21 世纪技能话语** 与21 世纪技能与能力话语相互强化，为 4C 框架提供机构背书，影响[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]进入美国课程与教学讨论。
+> - **进入[[Meta-analysis|元分析]]证据** 全美教育协会对创造力与批判性思维的强调，被 Park et al. (2026) 引为研究两者关系重要性的机构依据。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
 
 ---
 
@@ -76,6 +77,6 @@ updated: 2026-08-25
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[21st Century Skills and Competencies Discourse]] | 概念 | NEA 的"4C"指南是 21 世纪技能话语的机构源头之一。 |
-> | [[Creativity]] | 概念 | "4C"之一，NEA 强调其课堂培养价值。 |
-> | [[Critical Thinking]] | 概念 | "4C"之一，NEA 强调其课堂培养价值。 |
+> | [[21st Century Skills and Competencies Discourse]] | 概念 | NEA 的 4C 指南是 21 世纪技能话语的机构源头之一。 |
+> | [[Creativity]] | 概念 | 4C 之一，NEA 强调其课堂培养价值。 |
+> | [[Critical Thinking]] | 概念 | 4C 之一，NEA 强调其课堂培养价值。 |

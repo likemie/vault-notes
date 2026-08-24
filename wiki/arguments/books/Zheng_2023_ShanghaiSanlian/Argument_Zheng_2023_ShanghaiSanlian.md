@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 101
+argument_related_count: 102
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -134,6 +134,8 @@ related_arguments: []
 sources:
   - "[[books/Zheng_2023_ShanghaiSanlian/Zheng_2023_ShanghaiSanlian|Zheng_2023_ShanghaiSanlian]]"
 part_of: ""
+related_instruments:
+  - "[[Remote Associates Test]]"
 status: draft
 created: 2026-05-08
 updated: 2026-08-20
@@ -424,7 +426,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 **（b）但目标并非个体的自由选择——社会学的问题化**
 - Roberts(1975)：决策由个体在劳动力市场上的"机会结构"（opportunity structure）决定，机会结构由工业组织、政策和社会阶层共同塑造
-- Breen & Goldthorpe(1997)的理性行动理论（RAT）：不同阶层对风险-收益的理性衡量有系统性差异 → 揭示家庭背景在教育选择中的"次属效应"（second effects）
+- Breen & Goldthorpe(1997)的理性行动理论（[[Remote Associates Test|RAT]]）：不同阶层对风险-收益的理性衡量有系统性差异 → 揭示家庭背景在教育选择中的"次属效应"（second effects）
 - Hodkinson & Sparkes(1997)：结合布迪厄习性与场域理论，提出修正模型 —（a）理性选择是[[Pragmatic Paradigm|实用主义]]式的个体选择，但深受习性影响；（b）场域中不平等的资源分配影响与场域中其他人的互动；（c）决策受人生历程中难以预料的转折点和路径影响
 
 > 关键发现：学生的决策基于他们自身已经了解的信息，而这些信息自然是有偏颇的——决策与家庭背景、文化背景和生活经历密不可分（引 Hodkinson & Sparkes, 1997）

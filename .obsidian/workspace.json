@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,12 +239,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7b1888ea00f7062e",
+  "active": "7ef1b49d2c627a52",
   "lastOpenFiles": [
+    "wiki/persons/us/Peter Facione.md",
+    "wiki/instruments/tests/Remote Associates Test.md",
+    "wiki/theories/educational-philosophy/APA Delphi Consensus on Critical Thinking.md",
+    "wiki/concepts/educational-psychology/Critical Thinking Disposition.md",
+    "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md",
     "wiki/facts/us/National Education Association.md",
     "wiki/arguments/journal-articles/Review of Educational Research/Argument_Abrami_2015_RER.md",
     "wiki/concepts/instruction-pedagogy/Direct Instruction.md",
-    "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md",
     "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
     "sources/Park_2026_TSC/Park_2026_TSC.md",
     "wiki/persons/us/Robert Ennis.md",
@@ -263,10 +267,6 @@
     "wiki/concepts/research-methodology/Prediction Interval.md",
     "wiki/methods/quantitative/Fixed-Effect and Random-Effects Models.md",
     "wiki/concepts/research-methodology/I-squared Statistic.md",
-    "wiki/methods/quantitative/Cochran's Q Test.md",
-    "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
-    "wiki/concepts/educational-psychology/Domain Specificity.md",
-    "wiki/methods/qualitative/Role-playing.md",
     "sources/Park_2026_TSC/figures",
     "sources/Park_2026_TSC/Park_2026_TSC.pdf",
     "sources/Park_2026_TSC",

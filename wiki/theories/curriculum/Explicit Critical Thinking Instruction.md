@@ -8,7 +8,7 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Domain Specificity]]"
   - "[[Prediction Interval]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
@@ -194,7 +195,7 @@ updated: 2026-08-25
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论支撑：检验教学干预对通用[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验；确立批判性思维教学的跨情境可教性（改善指数 11.79%） |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论支撑：检验教学干预对[[Domain Specificity\|学科特异性]]批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论支撑：检验教学干预对批判性思维倾向的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论支撑：检验教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="theory-meta-moderator-table-marker" aria-hidden="true"></span>
