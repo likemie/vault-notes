@@ -30,8 +30,8 @@ related_concepts:
   - "[[Cognitive Shifting]]"
   - "[[Attentional Inertia]]"
   - "[[Hypothesis]]"
+  - "[[Domain Specificity]]"
   - "[[Literature Review]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Neo-Piagetian Theories]]"
 related_methods:
@@ -228,7 +228,7 @@ updated: 2026-07-13
 > - **记忆负载与逻辑能力的混淆 (Memory vs. Logic)**  
 >   Bryant & Trabasso (1971) 指出，皮亚杰的很多评估任务（如传递性推理）失败，可能是因为任务对[[Working Memory|工作记忆]]的负载过大，导致儿童在逻辑运算前就遗忘了前提，而不是其逻辑推理结构发育不全 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 3)]]。当实验对前提进行强化记忆训练后，更年轻的儿童也能完成这些任务。
 > 
-> - **单一阶段假设的动摇 (Domain-Generality vs. Domain-Specificity)**  
+> - **单一阶段假设的动摇 (Domain-Generality vs. [[Domain Specificity|Domain-Specificity]])**  
 > 皮亚杰认为儿童在某一时期只能整体处于某一个确定的认知阶段。然而，Flavell (1982) 和 Case (1992) 等人指出，认知发展具有领域特定性 (Domain-Specificity)，儿童在不同学科领域（如空间、数理、语言）的发展速度是不均衡的，可能在某些领域展现具体运算而在另一些领域仍处于前运算阶段（即水平差异 / Horizontal Decalage）。
 > 
 > - **文化与社会背景的忽略 (Cultural Bias)**  
@@ -249,6 +249,6 @@ updated: 2026-07-13
 ## 应用领域
 
 > [!success] 教学设计与认知测评应用
-> - **发展适宜性[[Praxis|实践]] (Developmentally Appropriate Practice, DAP)** — 指导学校课程设计必须契合儿童当前阶段的认知图式与前额叶发育限制，避免过度超前教学。
+> - **发展适宜性实践 (Developmentally Appropriate Practice, DAP)** — 指导学校课程设计必须契合儿童当前阶段的认知图式与前额叶发育限制，避免过度超前教学。
 > - **认知负荷与教学干预 (Cognitive Load Management)** — 依据具体运算和形式运算阶段的[[Working Memory|工作记忆]]更新容量限制，优化教材中抽象符号与具象材料的配比，减轻学生在[[Executive Function|执行功能]]上的过度消耗 [[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, pp. 19–20)]]。
 > - **探究式学习与科学教育 (Inquiry-based Learning)** — 支持基于[[Constructivist Paradigm|建构主义]]的主动探索教学，鼓励学生通过亲手操作、守恒实验等活动，在认知失衡中主动实现图式的同化与顺应。
