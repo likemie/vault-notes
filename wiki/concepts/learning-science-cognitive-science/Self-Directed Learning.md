@@ -80,11 +80,11 @@ updated: 2026-08-24
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | k / N | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Smith (2003) 博士论文（1977–2002，见 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, Table 1)]]） | [[Dependent Variable\|结果变量]]：[[Problem-Based Learning\|PBL]] 对自我导向学习的促进效应（高等教育） | k = 19 / N 未报告 | 标准化均差（SMD）；模型未报告 | ES = 0.47 [0.39, 0.55] | 未报告 | 单一[[Effect Size\|效应量]]；论文未将 SDL 单列为调节亚组，此数据来自纳入 FOM 的原始结果 |
+> | Smith (2003) 博士论文（1977–2002，见 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, Table 1)]]） | [[Dependent Variable\|结果变量]]：[[Problem-Based Learning\|PBL]] 对自我导向学习的促进效应（高等教育） | k = 19 / N 未报告 | 标准化均差（SMD）；模型未报告 | d = 0.47 [0.39, 0.55] | 未报告 | 单一[[Effect Size\|效应量]]；论文未将 SDL 单列为调节亚组，此数据来自纳入 FOM 的原始结果 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 将 SDL 作为[[Problem-Based Learning|PBL]]的核心机制：学生识别知识缺口后自导学习，并报告 PBL 对高等教育学生自我导向学习的中等正向效应（ES = 0.47）。
+> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 将 SDL 作为[[Problem-Based Learning|PBL]]的核心机制：学生识别知识缺口后自导学习，并报告 PBL 对高等教育学生自我导向学习的中等正向效应（d = 0.47）。

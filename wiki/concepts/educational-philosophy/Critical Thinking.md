@@ -24,6 +24,9 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Epistemological Understanding]]"
+  - "[[Problem Finding]]"
+  - "[[Definition of Terms]]"
+  - "[[Metacognition]]"
   - "[[Reflective Thinking]]"
   - "[[Effect Size]]"
   - "[[Authentic Instruction]]"
@@ -53,9 +56,9 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
 related_theories: []
 related_methods:
-  - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Role-playing]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"
@@ -82,7 +85,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Critical Thinking
@@ -151,21 +154,11 @@ updated: 2026-08-24
 > | **Cambridge Assessment 框架** | 论证分析、信息相关性判断、主张与解释评价、论证建构和有理由的决策 | 适合考试任务设计，明确把阅读理解、问题解决、创造和三段论置于构念边缘或外部。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 33)]] |
 > | **修订版 Bloom 分类法** | 记忆、理解、应用、分析、评价和创造 | 提供命令词层级；后三类可指示批判性或高阶思维，但行动词本身不能证明思维质量。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 33–35)]] |
 
-> [!frames-ref] [[Critical Thinking Strategies Scale|CTSS]] 的 14 项可观察策略
-> - **澄清意义** 明确陌生术语的含义和定义。
-> - **关联新旧知识** 将新材料与已有知识或经验建立联系。
-> - **多角度表述问题** 采用不同方式重述问题，澄清含义和范围。
-> - **分解子问题** 将复杂问题拆为可处理的组成部分。
-> - **识别论证** 主动辨认他人的主张和论证。
-> - **分析论证** 检查前提、结论和推理链条。
-> - **评估主张** 判断主张与来源的可靠性。
-> - **设想替代方案** 生成处理同一问题的其他路径。
-> - **依据证据得出结论** 使判断受现有证据约束。
-> - **限制主张范围** 让结论范围与证据强度相称。
-> - **搜索对立信息** 同时寻找支持和反对自身立场的材料。
-> - **反思假设** 审视自身[[Hypothesis|假设]]如何塑造观点。
-> - **辩护论证策略** 说明解决问题或建构论证所采用的方法。
-> - **清晰呈现论证** 以他人能够理解和检验的方式表达推理。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 252–255)]]
+> [!frames-ref] [[Critical Thinking Strategies Scale|CTSS]] 14 项可观察策略（四大认知集群）
+> - **[[Problem Finding|问题界定]]与澄清** 澄清陌生[[Definition of Terms|术语定义]]（1）、关联新旧知识经验（2）、多角度重构表述问题（3）、分解复杂子问题（4）。
+> - **论证分析与评估** 主动识别他人论证（5）、剖析推理与论据结构（6）、审慎评估主张可靠性（7）、设想替代解决路径（8）。
+> - **证据推理与求证** 依据证据得出审慎结论（9）、将主张严格限制于证据范围内（10）、兼顾搜索对立与支持材料（11）。
+> - **[[Metacognition|元认知]]反思与沟通** 审视自身假设对视角的塑造（12）、辩护解题与论证策略选择（13）、以他人能理解的方式清晰呈现推理（14）。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 252–255)]]
 
 > [!feature] [[California Critical Thinking Disposition Inventory|CCTDI]] 的七种倾向
 > - **求真** 证据挑战原有立场时仍继续追求较可靠的判断。
@@ -197,7 +190,7 @@ updated: 2026-08-24
 > 研究关注批判性思维是否需要被明确命名、示范和练习，以及独立课程获得的策略如何与学科知识、教师能力和学校组织结合。
 
 > [!claim] Abrami, P. C., et al.; Marin, L. M., & Halpern, D. F.
-> **显性教学与复合策略优势** Abrami 等人汇总 117 项研究和 20,698 名参与者，发现显性教学条件下的批判性思维增益最大，隐性融入条件的效果较小，教师接受专门培训且教学受到评估时获益最高。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials|随机对照实验]]也发现，显性教学组的技能增益更大。[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 进一步基于 341 个标准化[[Effect Size|效应量]]进行[[Meta-analysis|元分析]]，证实将[[Authentic Instruction|真实性教学]]（应用型解题与[[Role-playing|角色扮演]]）、深度[[Dialogue in Education|对话]]与导师指导整合的三维复合干预（A + D + M）产生最高增益（$g+ = 0.57$），揭示了显性示范、情境锚定与过程脚手架的协同机制。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]] [[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 293–295)]]
+> **显性教学与复合策略优势** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 基于 341 个标准化[[Effect Size|效应量]]进行[[Meta-analysis|元分析]]，证实显性混合教学模式（Mixed approach，独立思维教学 + 学科融入，效应量 $g+ = 0.38$）显著优于单纯隐性沉浸模式（$g+ = 0.23$）；同时，将[[Authentic Instruction|真实性教学]]（应用型解题与[[Role-playing|角色扮演]]）、深度[[Dialogue in Education|对话]]与导师指导整合的三维复合干预（A + D + M）产生最高增益（$g+ = 0.57$），揭示了显性示范、情境锚定与过程脚手架的协同机制。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials|随机对照实验]]也发现，显性教学组的技能增益显著更大。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 293–295)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]]
 
 > [!claim] Willingham, D. T.; Bailin, S.; Cole, D. R., et al.
 > **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole 等人的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250, 255–259)]]
@@ -280,7 +273,6 @@ updated: 2026-08-24
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]]：教学干预对通用批判性思维技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验与非标准化测验；通用批判性思维标准化测试结果 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：教学干预对学科特异性批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：教学干预对批判性思维倾向的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
-> | Abrami et al. (2008)，引自 [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 结果变量：显性教学与融入式教学对批判性思维技能的促进效应 | $k = 117$ / $N = 20,698$ | — | — | — | 现有 Argument 仅引述主要定性结论，详细效应量与异质性指标待回查元分析原文补齐 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Jigsaw\|拼图法]]对护理临床批判性思维的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，拼图法结构化互动显著提升反思决策 |
 > | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼中小学数学教学情境，合作学习显著增强批判性解题能力 |
 
@@ -291,8 +283,6 @@ updated: 2026-08-24
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | 教学干预策略：[[Authentic Instruction\|真实性教学]]（A）vs [[Dialogue in Education\|对话]]（D）vs 真实性+对话（A+D）vs 真实性+对话+[[Mentorship\|导师制]]（A+D+M） | A 单独 $k = 22$；D 单独 $k = 43$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；D $g+ = 0.23$ $[0.07, 0.39]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维复合策略显著最优，导师制发挥催化功能 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | Ennis 课程模式：[[Direct Instruction\|直接教学]] vs 融入模式 vs 沉浸模式 vs 混合模式 | 直接教学 $k = 44$；融入 $k = 152$；沉浸 $k = 61$；混合 $k = 84$ | 直接 $g+ = 0.26$；融入 $g+ = 0.29$；沉浸 $g+ = 0.23$；混合 $g+ = 0.38$ $[0.26, 0.51]$ | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ | 混合模式效应量最高，各模式均显著大于 0 |
-> | Abrami et al. (2008)，引自 [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 结果变量 | 教学路径亚组：显性教学 vs 隐性融入 | — | 显性教学效应较大，隐性融入效应较小 | — | 当前为 Cole et al. 转述，需查阅元分析原文补充定量检验 |
-> | Abrami et al. (2008)，引自 [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 结果变量 | 教师条件亚组：接受专门培训且有教学评估 vs 常规条件 | — | 教师接受专门培训且受评估时效应较大 | — | 同上 |
 
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果

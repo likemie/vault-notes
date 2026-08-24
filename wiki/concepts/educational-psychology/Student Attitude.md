@@ -76,11 +76,11 @@ updated: 2026-08-24
 >
 > | [[Meta-meta-analysis\|二阶元分析]] | 当前概念角色 | 对应亚组 | 证据数 E | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | [[Dependent Variable\|结果变量]] | [[Problem-Based Learning\|PBL]] 对学生态度的促进效应 | E = 7 | ES = 0.57 [0.26, 0.88] | Q_b(6) = 14.65, p = .02 | 结果[[Variable\|变量]]亚组中效应为高水平；高等教育情境 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | [[Dependent Variable\|结果变量]] | [[Problem-Based Learning\|PBL]] 对学生态度的促进效应 | E = 7 | d = 0.57 [0.26, 0.88] | Q_b(6) = 14.65, p = .02 | 结果[[Variable\|变量]]亚组中效应为高水平；高等教育情境 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] [[Meta-meta-analysis|二阶元分析]]报告，[[Problem-Based Learning|PBL]] 对学生态度的效应（ES = 0.57）为高水平，源于主动参与问题解决培养的积极态度与热情；Song (2008) 亦比较发现 PBL 在满意度、态度与动机上优于传统教学。（pp. 963–964）
+> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] [[Meta-meta-analysis|二阶元分析]]报告，[[Problem-Based Learning|PBL]] 对学生态度的效应（d = 0.57）为高水平，源于主动参与问题解决培养的积极态度与热情；Song (2008) 亦比较发现 PBL 在满意度、态度与动机上优于传统教学。（pp. 963–964）

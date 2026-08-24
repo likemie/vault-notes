@@ -74,9 +74,9 @@ title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 34
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Review of Educational Research"
 book_title: ""
