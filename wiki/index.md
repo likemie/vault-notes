@@ -1004,7 +1004,7 @@ Total entries: **1962**
 > - [[Epistemic and Ontological Cognition]] — 一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。
 > - [[Epistemological Reflection Model]] — Baxter Magolda提出的一项考察男女学生在四种认知方式中性别相关推理模式的纵向发展模型。
 > - [[Expanded Framework of Epistemic Cognition]] — 分析框架附加整合哲学观念的五组件模型。取代或扩展了传统简单的认识论信念维度。
-> - [[Four P Model of Creativity]] — 由罗兹提出的经典创造力全域整合分析框架，将创造力系统解构为人（Person）、过程（Process）、产品（Product）与压力/环境（Press）四个交互维度。
+> - [[Four P Model of Creativity]] — 由罗兹提出的经典创造力全域整合分析框架，将创造力系统解构为人（Person）、过程（Process）、产品（Product）与压力/环境（Press）四个交互维度，构成创造力心理学与教育实证研究的奠基性元理论。
 > - [[Integrative Pluralism]] — 一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。
 > - [[Perry's Scheme of Intellectual and Ethical Development]] — William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。
 > - [[Reflective Judgment Model]] — 由 King 和 Kitchener 提出的认知发展与信念辩护模型，描述个体面对劣构问题时从前反思阶段（阶段1-3）、准反思阶段（阶段4-5）向反思阶段（阶段6-7）演进的认识论认知路径。

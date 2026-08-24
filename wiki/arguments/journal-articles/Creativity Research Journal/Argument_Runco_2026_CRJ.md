@@ -33,6 +33,7 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Creativity Training]]"
   - "[[Criterion-related Validity]]"
+  - "[[Criterion Problem]]"
   - "[[Sampling Error]]"
   - "[[Paradigm]]"
   - "[[Operationalization]]"
@@ -61,7 +62,6 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Prediction Interval]]"
-  - "[[Criterion Problem]]"
   - "[[Hypothesis]]"
   - "[[Literature Review]]"
   - "[[Reliability]]"
@@ -89,8 +89,7 @@ related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Consensual Assessment Technique]]"
   - "[[AMSTAR]]"
-related_persons:
-  - "[[Mark A. Runco]]"
+related_persons: []
 related_theories:
   - "[[Four P Model of Creativity]]"
 status: draft
@@ -102,7 +101,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -138,10 +137,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **创造潜能与表现理论**<br>[[Creativity]]<br>[[Mark A. Runco|Runco (2024)]] | 区分人类普遍具有的[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现（Creative Performance），解释人口背景、认知加工与外认知调节对潜能发挥的支持机制。（p. 4） |
-> | **心理测量学预测源与效标双分模型**<br>[[Predictive Validity]] / [[Criterion-related Validity]]<br>Runco et al. (2020) | 依据[[Predictive Validity\|预测效度]]与[[Criterion-related Validity\|效标关联效度]]逻辑，将实证研究区分为创造力作为[[Independent Variable\|预测变量]]与创造力作为[[Dependent Variable\|结果变量]]，避免因果逻辑混淆。（pp. 2–3） |
-> | **二阶抽样误差与稳健综合理论**<br>[[Meta-meta-analysis]] / [[Sampling Error]]<br>Schmidt & Oh (2013) | 从统计学上分离一阶[[Sampling Error\|抽样误差]]与二阶抽样误差，通过大样本聚合消除单一测量工具与研究方法的特异性偏误。（p. 3） |
-> | **创造力 4P 与多维相关因素模型**<br>[[Four P Model of Creativity]]<br>Rhodes (1961); Kaufmann & Vosburg (2002) | 将影响创造力的相关因素结构化为认知、外认知、干预与教育、即时情境影响及人口背景五大理论维度。（pp. 3–4） |
+> | **创造力 4P 模型与多维相关因素**<br>[[Four P Model of Creativity]] | 将影响[[Creativity\|创造力]]的相关因素系统结构化为认知（过程 Process）、外认知（人 Person）、[[Creativity Training\|干预与教育教学]]、即时情境（压力/环境 Press）及人口学背景五大理论维度（Rhodes, 1961; Kaufmann & Vosburg, 2002; pp. 3–4）。 |
+> | **创造潜能与表现理论**<br>[[Creativity]] | 区分人类普遍具有的[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现（Creative Performance），解释人口背景、认知加工与外认知调节对潜能发挥的支持机制（Runco, 2024, p. 4）。 |
+> | **心理测量学预测源与效标双分模型**<br>[[Predictive Validity]] / [[Criterion-related Validity]] | 依据[[Predictive Validity\|预测效度]]与[[Criterion-related Validity\|效标关联效度]]逻辑，将实证研究区分为创造力作为[[Independent Variable\|预测变量]]与创造力作为[[Dependent Variable\|结果变量]]，并揭示[[Criterion Problem\|效标问题]]对效标关联系数的稀释机制（Runco et al., 2020, pp. 2–3, 7–8）。 |
+> | **二阶抽样误差与稳健综合理论**<br>[[Meta-meta-analysis]] / [[Sampling Error]] | 从统计学上分离一阶[[Sampling Error\|抽样误差]]与二阶[[Sampling Error\|抽样误差]]，通过大样本聚合消除单一测量工具与研究方法的特异性偏误，为多水平[[Robust Variance Estimation\|稳健方差估计]]奠定理论基础（Schmidt & Oh, 2013, p. 3）。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将多源异质的一阶[[Meta-analysis|元分析]]纳入统一的输入、过程与输出概念框架。预测源与效标[[Variable|变量]]的先验划分使得二阶分析能够检验创造力在不同测量位置上的结构性差异；二阶抽样误差理论则为跨越数十年不同测量[[Paradigm|范式]]提供了统计可比性与聚合精度。（pp. 2–4）

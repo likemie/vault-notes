@@ -9459,27 +9459,43 @@
   vertical-align: middle;
 }
 
-/* 内容区：零内边距，表格边到边 */
+/* 内容区：零内边距，表格边到边，支持横向拖拽/滚动 */
 .callout[data-callout="entry-map"] > .callout-content {
   padding: 0;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+
+.callout[data-callout="entry-map"] > .callout-content::-webkit-scrollbar {
+  height: 5px;
+}
+.callout[data-callout="entry-map"] > .callout-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+.callout[data-callout="entry-map"] > .callout-content::-webkit-scrollbar-thumb {
+  background: rgba(100, 112, 158, 0.25);
+  border-radius: 3px;
+}
+.callout[data-callout="entry-map"] > .callout-content::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 112, 158, 0.50);
 }
 
 /* ─── 表格基础 ───────────────────────────────────────── */
 .callout[data-callout="entry-map"] table {
   width: 100%;
+  min-width: 680px;
   border-collapse: collapse;
   font-size: 0.90em;
   line-height: 1.55;
   margin: 0;
-  table-layout: fixed;
+  table-layout: auto;
 }
 
-/* 条目 28% / 类型 10% / 贡献 62% */
 .callout[data-callout="entry-map"] th:first-child,
-.callout[data-callout="entry-map"] td:first-child  { width: 28%; }
+.callout[data-callout="entry-map"] td:first-child  { min-width: 130px; }
 .callout[data-callout="entry-map"] th:nth-child(2),
-.callout[data-callout="entry-map"] td:nth-child(2) { width: 10%; }
+.callout[data-callout="entry-map"] td:nth-child(2) { min-width: 90px; }
 
 /* thead */
 .callout[data-callout="entry-map"] thead tr {
