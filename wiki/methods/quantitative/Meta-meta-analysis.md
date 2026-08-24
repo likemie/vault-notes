@@ -16,7 +16,7 @@ summary: "在更高层次汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 53
+method_related_count: 59
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Policy Network]]"
   - "[[Document]]"
+  - "[[Sampling Error]]"
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
   - "[[Metacognition]]"
@@ -42,9 +43,9 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Reliability]]"
-  - "[[Sampling Error]]"
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
+  - "[[Creativity]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Heterogeneity]]"
   - "[[Homework]]"
@@ -53,6 +54,8 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Language Experience Approach]]"
   - "[[Cargo Cult Science]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Walberg's Educational Productivity Model]]"
@@ -60,11 +63,13 @@ related_theories:
   - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size Conversion]]"
   - "[[Moderator Analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Comparative Meta-synthesis]]"
   - "[[Intervention Research]]"
   - "[[Quantitative Research]]"
+  - "[[Robust Variance Estimation]]"
 related_persons:
   - "[[Steven Stahl]]"
   - "[[William Jeynes]]"
@@ -83,6 +88,7 @@ related_arguments:
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Runco_2026_CRJ]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[PISA]]"
@@ -98,7 +104,7 @@ updated: 2026-08-23
 > [!info] 定义
 > 元-[[Meta-analysis|元分析]]（Meta-meta-analysis，也称 Mega-analysis）是一种将多个已发表的元分析结果在更高层次上进行统计综合的方法——"改变层次，组合元分析，尝试开发一个元-元分析"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])。与普通[[Meta-analysis|元分析]]综合原始研究不同，元-元分析综合的是已聚合的[[Effect Size|效应量]]，从而大幅扩大参照范围。
 >
-> > 例：Hattie (2009) 的 *[[Visible Learning]]* 综合了 816 项元分析（涵盖 52,649 项原始研究、83,033,433 名参与者、146,626 个效应量），产生 138 个影响因素的效应量排名——这是该方法的标志性应用([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]])。[[EEF Teaching and Learning Toolkit]] 是另一个采用类似逻辑的政策工具，将效应量转换为"额外学习月数"并按成本、有效性和证据确定性三个维度排名。
+> > 例：Hattie (2009) 的 *[[Visible Learning]]* 综合了 816 项元分析（涵盖 52,649 项原始研究、83,033,433 名参与者、146,626 个效应量），产生 138 个影响因素的效应量排名——这是该方法的标志性应用([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]])。[[EEF Teaching and Learning Toolkit]] 是另一个采用类似逻辑的政策工具，将[[Effect Size Conversion|效应量转换]]为"额外学习月数"并按成本、有效性和证据确定性三个维度排名。
 >
 > Hattie 本人坚持其工作不是"元分析的元分析"，而是"综合"（synthesis）——但 Snook et al.（2009, p.94）指出，根据 Evidence Informed [[Policy Network]] 的定义，"研究综合"必须包含协议制定、系统和明确方法的使用、数据收集、分析、解释和结果报告，而 Hattie 声称不关心纳入研究的质量，这与综合的方法论要求直接矛盾。
 >
@@ -116,7 +122,7 @@ updated: 2026-08-23
 > | super-analysis | Dillon (1982) | 强调层级上的超越 |
 > | super-synthesis | Sipe & Curlette (1996) | 强调综合过程 |
 > | meta-synthesis | Sipe & Curlette; [[Argument_Higgins_2016_RE\|Higgins (2016)]] | 当前较通用的术语 |
-> | second-order meta-analysis (SOMA) | Schmidt & Oh (2013) | 强调估计一阶元分析之间的二阶抽样误差并采用多水平稳健方差模型进行精确校正 |
+> | second-order meta-analysis (SOMA) | Schmidt & Oh (2013) | 强调估计一阶元分析之间的二阶[[Sampling Error\|抽样误差]]并采用多水平稳健方差模型进行精确校正 |
 >
 > Higgins区分了两种不同的用法：一些研究者将元分析作为单位来研究元分析过程本身的统计特征（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；另一些则试图将不同元分析合并为关于更一般主题的单一信息（如 Hattie, 1992; Marzano, 1998）。后者面临更深层的可比性挑战。
 
@@ -261,7 +267,7 @@ updated: 2026-08-23
 > [!note]- 推论层级的约束
 > [[Argument_Higgins_2016_RE|Higgins (2016)]]区分了两种不同的跨元分析比较。**[[Comparative Meta-synthesis|比较性元分析]]**是在单一元分析中纳入多种干预以识别哪种更有效，回答的是”X 是否比 Y 更有效”。**[[Comparative Meta-synthesis|比较性元综合]]**是通过跨元分析比较来得出推论。两者都面临”苹果和橙子”批评的升级版([[Argument_Higgins_2016_RE|Higgins, 2016, pp.40–41]])。
 >
-> 推论的层级约束可以通过具体例子说明。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授[[Transcription in Qualitative Research|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的。在苹果和橙子的类比中，这类似于讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有性质（如瓣状结构、多汁果肉）的结论([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。
+> 推论的层级约束可以通过具体例子说明。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用[[Creativity|创造力]]和意象教学、教授[[Transcription in Qualitative Research|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的。在苹果和橙子的类比中，这类似于讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有性质（如瓣状结构、多汁果肉）的结论([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。
 
 ---
 
@@ -389,7 +395,7 @@ updated: 2026-08-23
 > - Argument_Simpson_2019_ERE — 以思想实验证明效应量是试验清晰度的测量，元-元分析是对无效指标的高级统计操作([[Argument_Simpson_2019_ERE|Simpson, 2019]])
 > - [[Argument_Wrigley_2019_ERE]] — 以 EEF Toolkit 体育参与案例追踪元-元分析的三级统计失真
 > - [[Argument_OConnor_2020_AJLL]] — 以《可见的学习》[[Whole Language|全语言]]处理为案例的细读审查，揭示分类错误、不对称审查和选择性排除([[Argument_OConnor_2020_AJLL|O'Connor, 2020]])
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 综合 52 项创造力一阶元分析（包含 2609 项原始研究、124 万参与者），运用 CHE 模型与稳健方差估计（RVE）系统检验创造力作为预测变量与结果变量的效应差异。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 综合 52 项[[Creativity|创造力]]一阶元分析（包含 2609 项原始研究、124 万参与者），运用 CHE 模型与[[Robust Variance Estimation|稳健方差估计]]（RVE）系统检验创造力作为[[Independent Variable|预测变量]]与[[Dependent Variable|结果变量]]的效应差异。
 
 ---
 

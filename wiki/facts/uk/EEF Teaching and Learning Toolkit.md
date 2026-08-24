@@ -8,10 +8,10 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dbeafe"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 issuing_organization: ''
 tags:
 - eef
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Metacognition]]"
   - "[[Tracking]]"
+  - "[[Creativity]]"
   - "[[Professional Judgment]]"
   - "[[Statistical Significance]]"
   - "[[Academic Achievement]]"
@@ -46,6 +47,7 @@ related_methods:
   - "[[Umbrella Review]]"
   - "[[Intervention Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size Conversion]]"
   - "[[In-depth Interview]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
@@ -128,7 +130,7 @@ updated: '2026-06-08'
 >
 > - 搜集相关 [[Randomised Controlled Trials|RCT]] 和其他研究
 > - 计算平均[[Effect Size|效应量]]
-> - 将效应量转换为"额外学习月数"
+> - 将[[Effect Size Conversion|效应量转换]]为"额外学习月数"
 > - 按联盟表格式排名展示（+8 至 −4 个月）
 >
 > Toolkit 定位为帮助[[School Leadership|学校领导]]（尤其是使用学生津贴的学校）做出"好的赌注"([[Argument_Higgins_2016_RE|Higgins, 2016, p.46]])。
@@ -148,7 +150,7 @@ updated: '2026-06-08'
 > [!example] 说服工具
 > 教师使用 Toolkit 来影响管理决策和参与学校治理辩论。一位教师说，"我喜欢把它当锤子用，当讨论[[Tracking|能力分组]]或绩效薪酬时，可以指着 Toolkit 说，你看，这不值得花时间，甚至是有害的"([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.23]])。
 
-> [!example] 创造性重新诠释
+> [!example] [[Creativity|创造性]]重新诠释
 > 一所特殊学校将 [[Education Endowment Foundation|EEF]] 关于"反馈"的证据应用于教师反馈系统（而非学生反馈），结合监控录像观察教师课堂表现，这远远超出了证据直接支持的范畴([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.24]])。Cowen 认为，如果接受"证据的角色是激发审议而非直接指导实践"，这种创造性使用是可以被正面看待的（p.41）。
 
 > [!warning] 误读与简化

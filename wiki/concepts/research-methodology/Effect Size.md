@@ -5,7 +5,7 @@ aliases:
 summary: "比较不同干预或变量影响强度的标准化统计指标，被广泛用于元分析与证据排序，但其解释边界、聚合方式和政策用途长期存在争议"
 type: concept
 domain: "research-methodology"
-related_count: 65
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Random Assignment]]"
   - "[[Power Analysis]]"
+  - "[[Effect Size Conversion]]"
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Covariate Adjustment]]"
@@ -130,7 +131,7 @@ updated: 2026-07-19
 > - **1980** — Cooper and Rosenthal 的实证检验表明，[[Meta-analysis|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_RE|Higgins, 2016, p.32]])。
 > - **1988** — Cohen 出版 Statistical Power Analysis 第 2 版，以身高类比等直观方式解释效应量的实质含义([[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]])。
 > - **2009** — [[John Hattie]] 出版《[[Visible Learning|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和[[Praxis|实践]]话语。
-> - **2014** — [[EEF Teaching and Learning Toolkit]] 以效应量转换为"额外学习月数"的格式传播教育干预证据。
+> - **2014** — [[EEF Teaching and Learning Toolkit]] 以[[Effect Size Conversion|效应量转换]]为"额外学习月数"的格式传播教育干预证据。
 > - **2017 至 2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（[[Argument_Simpson_2017_JEP|Simpson, 2017]], 2018）。
 > - **2019** — Simpson 用"教一个匈牙利单词"思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单([[Argument_Simpson_2019_ERE|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019]])。
 > - **2020 至 2023** — Kraft 以教育[[Randomised Controlled Trials|随机对照试验]]中标准化学业成绩结果的经验分布替代 Cohen 基准，并强调 36% 的效应量小于 0.05 这一"失败频率"应成为解释政策相关性的核心参照([[Argument_Kraft_2023_ER|Kraft, 2023, pp.183–184]])。
@@ -381,7 +382,7 @@ updated: 2026-07-19
 ### 排名工具
 
 > [!evidence-grid-a] 排名工具案例
-> - [[EEF Teaching and Learning Toolkit]] — 以效应量转换的”额外学习月数”为核心排名格式（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.120-123]]）
+> - [[EEF Teaching and Learning Toolkit]] — 以[[Effect Size Conversion|效应量转换]]的”额外学习月数”为核心排名格式（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.120-123]]）
 > - [[Visible Learning]] — 以效应量排名为核心方法论的全球教育影响项目（Hattie, 2015, p.82）
 
 ### 政策误用与来源追踪

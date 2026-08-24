@@ -10,7 +10,7 @@ summary: "处理同一原始研究内报告多个相关效应量所致统计依�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 28
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -46,7 +46,9 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-regression]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Robust Variance Estimation]]"
   - "[[Systematic Review]]"
+  - "[[Effect Size Conversion]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Moderator Analysis]]"
 related_arguments:
@@ -84,14 +86,14 @@ updated: 2026-08-20
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 视实证[[Document|文献]]中的测量结果为包含多源误差与多层[[Heterogeneity|异质性]]的抽样观察值，主张通过分层方差分解捕捉真实效应的结构性分布。
 > - **研究者角色** 在[[Effect Size|效应量]][[Coding in Qualitative Research|编码]]、[[Construct|构念]]分类、调节[[Variable|变量]]识别和协方差结构假定中行使理论与统计判断。
-> - **有效性标准** 依靠受限最大似然法（Restricted Maximum Likelihood, REML）估计、对数似然比检验（Log-Likelihood Ratio Test, LRT）对比模型拟合优度、稳健方差估计（Robust Variance Estimation, RVE）以及漏斗图与三层 Egger 回归检验。
+> - **有效性标准** 依靠受限最大似然法（Restricted Maximum Likelihood, REML）估计、对数似然比检验（Log-Likelihood Ratio Test, LRT）对比模型拟合优度、[[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE）以及漏斗图与三层 Egger 回归检验。
 > - **不声称回答的问题** 不能仅凭观察性效应量的[[Meta-analysis|元分析]]关联直接推断因果机制，也不能自动纠正原始研究内在的方法学偏倚。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Systematic Review|系统综述]]（Systematic Review）与量化证据综合设计。
 > - **数据收集** 基于电子数据库检索、PRISMA 流程筛选以及标准化[[Qualitative Codebook|编码手册]]提取相关系数、标准化均数差或回归系数。
 > - **分析方法** 多层随机效应建模、受限最大似然估计（REML）、多变量[[Meta-regression|元回归]]调节分析、逐一剔除敏感性分析。
-> - **辅助技术** 效应量转换（如将回归系数 $\beta$ 转换为相关系数 $r$、Fisher\'s $z$ 变换）、三层 Egger 回归检验、标准化残差异常值诊断。
+> - **辅助技术** [[Effect Size Conversion|效应量转换]]（如将回归系数 $\beta$ 转换为相关系数 $r$、Fisher\'s $z$ 变换）、三层 Egger 回归检验、标准化残差异常值诊断。
 
 ---
 
@@ -164,7 +166,7 @@ updated: 2026-08-20
 > - **偏误来源** 原始研究层面的选择性报告偏倚、测量工具[[Reliability|信度]]缺陷以及未观测到的混杂因素。
 > - **适用边界** 依赖于足够的样本研究数与[[Effect Size|效应量]]数量以保证受限最大似然估计的收敛性与功效。
 > - **误用风险** 容易将调节分析中的生态学关联（Ecological Association）误认为个体层面的因果机制。
-> - **补救方式** 结合稳健方差估计（RVE）、三层 Egger 检验、逐一剔除敏感性分析及离群值残差诊断。
+> - **补救方式** 结合[[Robust Variance Estimation|稳健方差估计]]（RVE）、三层 Egger 检验、逐一剔除敏感性分析及离群值残差诊断。
 
 ---
 

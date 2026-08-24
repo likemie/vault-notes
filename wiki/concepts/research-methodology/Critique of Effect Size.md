@@ -5,10 +5,10 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 48
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - effect-size
   - meta-analysis
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Pre-test and Post-test]]"
   - "[[Visible Learning]]"
+  - "[[Creativity]]"
   - "[[Class Size]]"
   - "[[Whole Language]]"
   - "[[Academic Achievement]]"
@@ -45,6 +46,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Intervention Research]]"
+  - "[[Effect Size Conversion]]"
 related_persons:
   - "[[Lars Qvortrup]]"
   - "[[Gene Glass]]"
@@ -188,7 +190,7 @@ updated: 2026-07-15
 > **读法** $r$ 为相关系数。$r = 0.196$ 即可转换得到 $d = 0.4$（《可见的学习》的期望效应区），但在简单线性回归中这仅对应 $r^2 = 0.0385$——仅 3.85% 的变异被解释，96.15% 为未解释的随机噪音。转换在 $r$ 接近 1 时迅速膨胀。
 
 > [!critique-method] 转换公式的误用
-> [[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017, p.242)]]揭示了 Hattie 使用最多的效应量计算技巧的深层问题。Hattie 用此公式获得"创造力对学业成功的影响"（Kim, 2005），实际是 IQ 与创造力测试的相关；"自我报告成绩"（《可见的学习》中最强效应量）是一组报告成绩与实际成绩之间的相关，完全未测量干预效果（p.242）。
+> [[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017, p.242)]]揭示了 Hattie 使用最多的效应量计算技巧的深层问题。Hattie 用此公式获得"[[Creativity|创造力]]对学业成功的影响"（Kim, 2005），实际是 IQ 与创造力测试的相关；"自我报告成绩"（《可见的学习》中最强效应量）是一组报告成绩与实际成绩之间的相关，完全未测量干预效果（p.242）。
 
 ---
 
@@ -334,7 +336,7 @@ updated: 2026-07-15
 
 **"苹果和橙子"问题** 根本不同的干预措施被聚合产生单一平均效应量，违背 Glass 最初的警告([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 118–119]])。
 
-**额外假设问题** 将效应量转换为"额外学习月数"引入额外假设（如进步速度在全年龄段均匀分布），这些假设本身可能不可靠([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])。当效应量被用作政策排名指标时，这些未经检验的假设会透过看似中立的数字影响资源分配决策。
+**额外假设问题** 将[[Effect Size Conversion|效应量转换]]为"额外学习月数"引入额外假设（如进步速度在全年龄段均匀分布），这些假设本身可能不可靠([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])。当效应量被用作政策排名指标时，这些未经检验的假设会透过看似中立的数字影响资源分配决策。
 
 ---
 

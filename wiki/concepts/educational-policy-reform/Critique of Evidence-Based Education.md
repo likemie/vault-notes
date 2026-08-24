@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 74
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -63,6 +63,7 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Non-intervention Research]]"
   - "[[Experimental Research]]"
+  - "[[Effect Size Conversion]]"
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
   - "[[Participant Observation]]"
@@ -215,7 +216,7 @@ updated: 2026-07-15
 > [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]] 在 [[Visible Learning|VL]] 出版仅两年后就识别了[[Meta-meta-analysis|元-元分析]]（mega-analysis）的根本困境：元-元分析扩大了参照范围，"但同时也变得更加复杂、混乱和充满不一致……通过反复累积，原始的详细经验信息消失"（p.436）。Terhart 提出稳定性与变异性的双重困境——如果进一步研究只产生对已知结果的渐近逼近（稳定性假说），继续累积的意义何在？但如果某些领域的发现已被新结果超越（变异性假说），则元-元分析的结论始终是临时的。
 
 > [!claim] [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] — 三级统计失真
-> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 以 [[Education Endowment Foundation|EEF]] Toolkit 体育参与条目（效应量 0.17，约 +2 个月进步）为案例，逐层追踪了失真过程。该 0.17 是对四个效应量（来自三个元分析）加权平均得来。元分析层面，不同[[Research Utilization|研究使用]]不可比的比较基线合并为单一效应量；元-元分析层面，叠加干预时长未控制、年龄效应、方向性混淆（前后比较与组间比较）和结果类型混合（成绩与毕业率，自评与[[Academic Achievement|学业成就]]）等问题；政策工具层面，将效应量转换为"额外学习月数"时引入额外假设（如进步速度在全年龄段均匀分布）。追踪其中一个效应量 0.80 的来源发现来自 Newman et al.（2010）的 [[Playing for Success]]，一个在著名足球场进行的包含一对一辅导、专用 ICT 设备和个性化课程的高度资源密集型项目，与普通"体育参与"几乎不可比。
+> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] 以 [[Education Endowment Foundation|EEF]] Toolkit 体育参与条目（效应量 0.17，约 +2 个月进步）为案例，逐层追踪了失真过程。该 0.17 是对四个效应量（来自三个元分析）加权平均得来。元分析层面，不同[[Research Utilization|研究使用]]不可比的比较基线合并为单一效应量；元-元分析层面，叠加干预时长未控制、年龄效应、方向性混淆（前后比较与组间比较）和结果类型混合（成绩与毕业率，自评与[[Academic Achievement|学业成就]]）等问题；政策工具层面，将[[Effect Size Conversion|效应量转换]]为"额外学习月数"时引入额外假设（如进步速度在全年龄段均匀分布）。追踪其中一个效应量 0.80 的来源发现来自 Newman et al.（2010）的 [[Playing for Success]]，一个在著名足球场进行的包含一对一辅导、专用 ICT 设备和个性化课程的高度资源密集型项目，与普通"体育参与"几乎不可比。
 
 > [!claim] [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] — 简单科学观批判
 > EBE 对"科学"的诉诸依赖于一种过分简化的民间科学观，将科学等同于实验控制、[[Statistical Significance|统计显著性]]和效应量排名，忽视了科学实践中理论驱动、机制探索和价值判断的核心角色。

@@ -11526,6 +11526,18 @@
     ]
   },
   {
+    "title": "Effect Size Conversion",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Effect Size Conversion.md",
+    "aliases": [
+      "效应量转换",
+      "效应量换算",
+      "效应量指标转换",
+      "效应量公式转换",
+      "Effect Size Transformation"
+    ]
+  },
+  {
     "title": "Electroencephalography",
     "type": "method",
     "path": "wiki/methods/quantitative/electroencephalography.md",

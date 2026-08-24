@@ -9,7 +9,7 @@ title: "Argument_Higgins_2016_RE"
 argument_key: "Argument_Higgins_2016_RE"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Sample Size Determination]]"
   - "[[Whole Language]]"
+  - "[[Creativity]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[International Education]]"
   - "[[Variable]]"
@@ -63,6 +64,7 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Systematic Review]]"
   - "[[Comparative Meta-synthesis]]"
+  - "[[Effect Size Conversion]]"
   - "[[Intervention Research]]"
   - "[[Umbrella Review]]"
   - "[[Non-intervention Research]]"
@@ -257,7 +259,7 @@ Glass 命名元分析几年后，医学领域开始将元分析作为综合研�
 > [!note]- 推论层级的约束
 > 在研究苹果和橙子时，可以讨论水果的共同特征（如种子用于繁殖、从花的雌蕊发育、保护种子、发育出可食用的外皮以帮助传播）和变异（相对大小、果肉的性质、种子的细节等），但无法得出关于橙子特有的结论（如瓣状结构、多汁果肉、油性果皮等）。同样，跨元分析比较可以得出关于改善阅读理解的方法的一般推论，但无法得出关于特定群体的结论(p.41)。
 
-**写作教学的例子**说明了这一点。Graham et al.(2012)的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用创造力和意象教学、教授[[Transcription in Qualitative Research|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的(p.41)。
+**写作教学的例子**说明了这一点。Graham et al.(2012)的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用[[Creativity|创造力]]和意象教学、教授[[Transcription in Qualitative Research|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的(p.41)。
 
 ---
 
@@ -361,7 +363,7 @@ Hattie 的工作面临批评。核心假设是元综合中的研究按类型和�
 初始工作基于 2008 至 2011 年间英国经济与社会研究委员会研究者发展计划编制的教育干预发现元分析数据库。与 Sutton Trust 的进一步合作使得一系列[[Abstract|研究摘要]]得以开发，帮助学校决定如何分配新宣布的学生津贴资金(p.46)。
 
 > [!abstract] Toolkit 的三层信息结构
-> **第一层**是效果估计，将效应量转换为"额外学习月数"。
+> **第一层**是效果估计，将[[Effect Size Conversion|效应量转换]]为"额外学习月数"。
 > **第二层**是成本分析，估计学校的额外财务支出。这些成本估计虽然粗糙，但是初始 Toolkit 的独特特征。
 > **第三层**是证据的范围和稳健性评估，以"Which"风格的消费者指南形式呈现(p.46)。
 
@@ -437,7 +439,7 @@ Toolkit and Visible Learning 中跨所有领域的效果变异表明，元综合
 > - Hattie(1992)发现教育干预的平均效应量为 0.40，反馈是最强大的单一影响（1.13），[[Individualised Instruction|个别化教学]]效果最低（0.14）(p.42)
 > - Marzano(1998)批评"品牌名"聚合掩盖了教学策略内部的关键差异，如"现代数学"中操作教具（0.51）与探究方法（0.04）之间的巨大差距(p.43)
 > - Hattie(2008)发现平均效应量稳定在约 0.4，但干预效果、成熟差异和相关效果三种效果量不可混为一谈(pp.43–44)
-> - [[EEF Teaching and Learning Toolkit]] 将效应量转换为"额外学习月数"，即使研究稀疏也提供估计，并以逐层深入的方式支持更深入的参与(pp.46–47)
+> - [[EEF Teaching and Learning Toolkit]] 将[[Effect Size Conversion|效应量转换]]为"额外学习月数"，即使研究稀疏也提供估计，并以逐层深入的方式支持更深入的参与(pp.46–47)
 > - [[Meta-meta-analysis|元综合]]应被定位为"什么曾经有效"的总结而非"什么有效"的确定性声明，[[Praxis|实践]]者的[[Professional Judgment|专业判断]]不可或缺(p.49)
 
 > [!info]- 核心数据

@@ -7,7 +7,7 @@ summary: "在元分析框架下，通过加权回归检验研究特征（调节�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Effect Size Conversion]]"
   - "[[Chi-Squared Test]]"
   - "[[Moderator Analysis]]"
   - "[[Analysis of Variance]]"
@@ -168,7 +169,7 @@ updated: 2026-08-19
 > - **核心包或命令**
 >   - R `metafor` 命令：`res <- rma(yi = r_z, vi = var_z, mods = ~ reliability + grade_level, data = meta_data, method = "REML")`
 >   - CMA 软件实现：在主界面选择 `Analyses -> Meta-regression`，选定 Moderator 变量并指定 Mixed Effects 模型运行。
-> - **实现流程** 数据清洗 -> 效应量转换（如 $r$ 转 Fisher's $z$）-> 连续调节变量中心化 -> REML 模型估计 -> 残差诊断与报告。
+> - **实现流程** 数据清洗 -> [[Effect Size Conversion|效应量转换]]（如 $r$ 转 Fisher's $z$）-> 连续调节变量中心化 -> REML 模型估计 -> 残差诊断与报告。
 > - **报告标准** 完整报告样本量 $k$、回归系数 $b$ 与[[Standard Error|标准误]]、95% CI、$p$ 值、模型[[Chi-Squared Test|卡方检验]]量 $Q_{\text{model}}$、残差异质性 $\tau^2$ 及解释比例 $R^2$。
 
 ---
