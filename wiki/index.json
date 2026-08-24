@@ -12115,6 +12115,19 @@
     ]
   },
   {
+    "title": "Second-Order Meta-Regression",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Second-Order Meta-Regression.md",
+    "aliases": [
+      "二阶元回归",
+      "二级元回归",
+      "二阶调节分析",
+      "Second-Order Meta-Regression Analysis",
+      "SOMA Meta-Regression",
+      "二阶元分析元回归"
+    ]
+  },
+  {
     "title": "Secondary Analysis",
     "type": "method",
     "path": "wiki/methods/quantitative/Secondary Analysis.md",

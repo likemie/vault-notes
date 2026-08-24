@@ -79,6 +79,7 @@ related_methods:
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Functional Magnetic Resonance Imaging]]"
+  - "[[Second-Order Meta-Regression]]"
   - "[[Meta-regression]]"
   - "[[Role-playing]]"
 related_instruments:
@@ -94,7 +95,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -250,7 +251,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二 预测变量与效标变量的效应不对称性：二阶元回归检验
+### 论证步骤二 预测变量与效标变量的效应不对称性：[[Second-Order Meta-Regression|二阶元回归]]检验
 
 > [!claim] 步骤二主张
 > 创造力作为[[Independent Variable|预测变量]]时展现出中等偏大的稳定关联效应（$r = 0.29$），作为效标[[Dependent Variable|结果变量]]时的关联效应较弱（$r = 0.12$）；[[Variable|变量]]角色的不对称性构成了全领域唯一统计显著的异质性调节来源（$F(1, 16.3) = 9.43, p = .007$）。（pp. 2, 6–8）
@@ -269,7 +270,7 @@ issuing_organization: ""
 > - **创造力作为预测变量（$r = 0.29$）** 实证数据表明创造潜能能够有效预测后续[[Academic Achievement|学业成就]]、职业发展与身心健康；回答创造力是否重要这一问题。（p. 2）
 > - **创造力作为结果变量（$r = 0.12$）** 实证数据受到创造性成果界定多样性与测量噪声制约（效标问题），导致平均关联系数偏低；回答对创造力能做些什么这一问题。（p. 7）
 
-> [!ref-table]- 表 2：二阶[[Meta-regression|元回归]]模型估计结果
+> [!ref-table]- 表 2：[[Second-Order Meta-Regression|二阶元回归]]模型估计结果
 >
 > | 变量与模型 | 估计值 | 标准误 | 95% 置信区间 | $p$ 值 |
 > |---|---|---|---|---|
@@ -297,7 +298,7 @@ issuing_organization: ""
 > | 即时情境影响 | 0.10 | 0.12 | [−0.20, 0.40] | 0.46 |
 > | 高方法学质量 | 0.03 | 0.05 | [−0.09, 0.15] | 0.63 |
 >
-> **图表解读** 本表汇报了多水平二阶元回归估计结果。模型 1（拆分发散思维）与模型 2（整合发散思维）中，全领域唯一达到统计显著水平的预测因子均为“创造力作为预测变量”（模型 1 中 $\beta = 0.18, p = .01$；模型 2 中 $\beta = 0.17, p = .01$），证实了变量角色的核心调节作用。其余协变量（研究设计、认知与外认知因素、教学干预、情境与方法学质量）的回归系数均不显著（ > .10$），表明宏观结论具备高度的跨模型稳健性。（pp. 6–7）
+> **图表解读** 本表汇报了多水平二阶[[Meta-regression|元回归]]估计结果。模型 1（拆分发散思维）与模型 2（整合发散思维）中，全领域唯一达到统计显著水平的预测因子均为“创造力作为预测变量”（模型 1 中 $\beta = 0.18, p = .01$；模型 2 中 $\beta = 0.17, p = .01$），证实了变量角色的核心调节作用。其余协变量（研究设计、认知与外认知因素、教学干预、情境与方法学质量）的回归系数均不显著（ > .10$），表明宏观结论具备高度的跨模型稳健性。（pp. 6–7）
 
 > [!contrast-table] 模型 1 与模型 2 的变量处理策略与理论对比
 > | 比较维度 | 模型 1（过程与发散思维拆分模型） | 模型 2（过程与发散思维整合模型） |

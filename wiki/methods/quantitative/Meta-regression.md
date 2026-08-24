@@ -7,7 +7,7 @@ summary: "在元分析框架下，通过加权回归检验研究特征（调节�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -29,10 +29,10 @@ related_concepts:
   - "[[Document]]"
   - "[[Reliability]]"
   - "[[Ecological Fallacy]]"
-  - "[[Literature Search]]"
-  - "[[Publication Bias]]"
-  - "[[Interaction Effect]]"
   - "[[Hypothesis]]"
+  - "[[Construct]]"
+  - "[[Interaction Effect]]"
+  - "[[Publication Bias]]"
   - "[[Sample Size Determination]]"
   - "[[Epistemic Cognition]]"
   - "[[Academic Achievement]]"
@@ -48,15 +48,18 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Systematic Review]]"
+  - "[[Second-Order Meta-Regression]]"
+  - "[[Correlated and Hierarchical Effects Model]]"
+  - "[[Robust Variance Estimation]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Effect Size Conversion]]"
   - "[[Chi-Squared Test]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Moderator Analysis]]"
   - "[[Analysis of Variance]]"
 status: active
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-08-24
 ---
 
 # Meta-regression
@@ -84,11 +87,13 @@ updated: 2026-08-19
 > - **有效性标准** 统计结论效度（检验功效取决于纳入研究数量 $k$）、测量效度（调节变量编码准确性与一致性）以及外部推广边界。
 > - **不声称回答的问题** 元回归揭示的是研究层面的生态关联（ecological association），不能直接等同于个体层面的因果机制，不可犯[[Ecological Fallacy|生态谬误]]。
 
-> [!method-stack] 方法层级
-> - **研究设计** [[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]（证据合成与二次分析设计）。
-> - **数据收集** 系统[[Literature Search|文献检索]]、PRISMA 流程筛选、效应量与研究特征双盲编码。
-> - **分析方法** 加权最小二乘法（WLS）、限制性最大似然法（REML）或完全贝叶斯元回归。
-> - **辅助技术** [[Heterogeneity|异质性]]检验（$Q$ 检验、$I^2$、$\tau^2$）、[[Publication Bias|发表偏倚]]敏感性分析、多重共线性诊断。
+> [!contrast-table] 一阶元回归 vs [[Second-Order Meta-Regression|二阶元回归]]（高阶拓展）
+> | 比较维度 | 经典一阶元回归（[[Meta-regression]]） | 现代二阶元回归（[[Second-Order Meta-Regression]]） |
+> |---|---|---|
+> | **分析单位** | 原始实证研究（Primary Studies） | 一阶[[Meta-analysis\|元分析]]汇总[[Effect Size\|效应量]]及其多层集群（Meta-Analysis Clusters） |
+> | **依赖性[[Hypothesis\|假设]]** | 假定各纳入研究抽样完全独立 | **同时处理集群间、集群内变异及跨元分析[[Document\|文献]]交叉重叠** |
+> | **建模与推断引擎** | 单级/两水平 WLS 加权（对角权重矩阵 $\mathbf{W}$） | **[[Correlated and Hierarchical Effects Model\|CHE]] 块对角工作协方差 + [[Robust Variance Estimation\|RVE]] 经验残差三明治估计量** |
+> | **适用场景** | 探索具体单一干预或相关关系的[[Heterogeneity\|异质性]]来源 | **跨越数千项研究宏观检验全领域[[Construct\|理论构念]]体系的效度边界与机制分异** |
 
 ---
 
@@ -200,6 +205,7 @@ updated: 2026-08-19
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Meta-analysis]] | 前置方法 | 元回归依附于元[[Analytic Framework\|分析框架]]，以元分析提取的[[Effect Size\|效应量]]与抽样方差作为建模输入。 |
+> | [[Second-Order Meta-Regression]] | 进阶方法 | 在[[Meta-meta-analysis\|二阶元分析]]多层嵌套与文献重叠数据下，运用 [[Correlated and Hierarchical Effects Model\|CHE]] 与 [[Robust Variance Estimation\|RVE]] 检验宏观[[Interaction Effect\|调节效应]]的高阶形态。 |
 > | [[Moderator Analysis]] | 关联方法 | 元回归是调节分析的高阶形态，弥补了传统子组[[Analysis of Variance\|方差分析]]无法处理连续[[Variable\|变量]]的缺陷。 |
 > | [[Heterogeneity]] | 诊断基础 | 研究间异质性是实施元回归的前提依据，元回归的核心目标即为解释此异质性。 |
 > | [[Effect Size]] | [[Dependent Variable\|因变量]] | 各项研究的效应量点估计构成元回归模型的响应变量。 |

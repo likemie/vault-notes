@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 60
+method_related_count: 61
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -67,6 +67,7 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Multilevel Egger's Test]]"
+  - "[[Second-Order Meta-Regression]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Random Sampling]]"
@@ -189,14 +190,15 @@ updated: 2026-08-24
 
 ---
 
-## 现代二阶元分析三大核心统计支柱与问题导向矩阵
+## 现代二阶元分析核心统计支柱与分析方法矩阵
 
-> [!contrast-table] 现代二阶[[Meta-analysis|元分析]]三大核心统计支柱
+> [!contrast-table] 现代二阶[[Meta-analysis|元分析]]核心统计支柱与分析方法
 > | 统计方法条目 | 方法定位与角色 | 解决的核心统计问题与方法论痛点 | 深度条目索引 |
 > |:---|:---|:---|:---|
 > | **[[Correlated and Hierarchical Effects Model\|相关与层级效应模型（CHE）]]** | **方差分解与加权工作模型** | 解决同一研究内多重测量相关（相关效应）与跨元分析嵌套（层级效应）的**双重依赖问题**，通过三水平方差分解提供最优逆方差权重矩阵 $\mathbf{W}$，最大化统计估计效率。 | 🔗 [[Correlated and Hierarchical Effects Model]] |
 > | **[[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]** | **稳健统计推断与[[Standard Error\|标准误]]校正** | 解决文献重叠与聚类依赖导致传统理论方差严重低估（标准误虚假缩水、假阳性率急剧膨胀）的**推断失真问题**，在无需严苛独立性假定下提供渐近无偏的标准误与霍特林 $T^2$ 小样本调整。 | 🔗 [[Robust Variance Estimation]] |
 > | **[[Multilevel Egger's Test\|多水平艾格检验（Multilevel Egger's Test）]]** | **小研究效应诊断与截距偏倚校正** | 解决传统单水平[[Publication Bias\|发表偏倚]]检验在聚类依赖数据下假阳性率高的问题，并同时实现**“小研究偏倚定量诊断”**与**“截距校正真实[[Effect Size\|效应量]]”**的一体化输出。 | 🔗 [[Multilevel Egger's Test]] |
+> | **[[Second-Order Meta-Regression\|二阶元回归（Second-Order Meta-Regression）]]** | **全领域[[Heterogeneity\|异质性]]来源分解与调节检验** | 解决宏观二阶效应量高度离散、单一平均值掩盖因果机制的问题，在控制[[Document\|文献]]重叠下系统检验[[Construct\|构念]]分类、[[Variable\|变量]]角色与研究特征的[[Interaction Effect\|调节效应]]。 | 🔗 [[Second-Order Meta-Regression]] |
 
 ---
 
@@ -294,6 +296,8 @@ flowchart LR
 
 > [!concept-lens] 二阶[[Heterogeneity|异质性]]来源识别
 > 二阶元分析的最终目的不仅在于获得单一平均值，更在于分解全领域的异质性来源。通过在 CHE-RVE 框架下纳入宏观协[[Variable|变量]]（如变量角色：自变量 vs [[Dependent Variable|结果变量]]；研究设计：横断面 vs 纵向 vs 实验；方法学质量等级：[[AMSTAR]] 高 vs 低），采用稳健 Wald $F$ 检验系统识别哪些特征显著改变综合效应量，从而在宏观理论层面阐明干预有效性的边界条件。
+>
+> 🔗 完整三水平[[Meta-regression|元回归]]方程与多参数 Wald 检验公式参见：[[Second-Order Meta-Regression|二阶元回归]]。
 
 ---
 
@@ -371,6 +375,7 @@ flowchart LR
 > | [[Correlated and Hierarchical Effects Model]] | 方法 | 建模工作模型 | CHE 三水平方差分解为二阶合成提供最优逆方差权重矩阵。 |
 > | [[Robust Variance Estimation]] | 方法 | 稳健推断方法 | RVE 三明治估计量是解决二阶[[Document\|文献]]重叠与聚类依赖的支柱技术。 |
 > | [[Multilevel Egger's Test]] | 方法 | 偏倚控制方法 | 在控制聚类依赖下定量诊断[[Publication Bias\|发表偏倚]]并输出校正后真实效应量。 |
+> | [[Second-Order Meta-Regression]] | 方法 | 调节分析方法 | 运用多水平稳健[[Meta-regression\|元回归]]系统检验全领域[[Construct\|理论构念]]与研究特征的[[Interaction Effect\|调节效应]]。 |
 > | [[AMSTAR]] | 工具 | 质量控制 | 用于二阶元分析中对一阶元分析规范度进行量化评级的方法学工具。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | [[Creativity\|创造力]]领域二阶元分析代表作，确立了现代六步建模与偏倚校正规程。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 诊断先驱 | 严格证明二级固定效应等价性与文献重叠时经典方差失效的机制。 |
