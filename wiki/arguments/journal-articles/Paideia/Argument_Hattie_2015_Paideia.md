@@ -28,7 +28,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
-  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Falsification]]"
@@ -62,7 +61,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> [[Visible Learning]] 已经从一本 2009 年出版的研究综合扩展为一组面向教师、[[School Leadership|学校领导]]和政策系统的[[Praxis|实践]]话语。核心问题因此变成：在面对方法论批评、[[Effect Size|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？(pp.9-11)
+> [[Visible Learning]] 已经从一本 2009 年出版的研究综合扩展为一组面向教师、[[School Leadership|学校领导]]和政策系统的实践话语。核心问题因此变成：在面对方法论批评、[[Effect Size|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？(pp.9-11)
 >
 > 更直白地说，这篇文章要把 Visible Learning 从一个容易被误读的“干预排名表”，重新解释成一个学校里的工作习惯：教师和学校要持续追问“我的教学到底对学生产生了多大影响，这种影响是否足够好”。(pp.11-13)
 
@@ -71,7 +70,7 @@ citation_aliases:
 > [!abstract] 理论框架
 > - [[Visible Learning]] — 作为整篇文章的核心框架，被解释为“认识并评估自身影响”的教学改进模式，而不是一套固定教学法或高[[Effect Size|效应量]]清单(pp.11-13)。
 > - [[Effect Size]] — 作为比较不同教育影响的共同尺度，尤其通过 d = 0.40 这个平均参考点帮助判断某项影响是否高于所有可见教育影响的平均水平(pp.10-11)。
-> - [[Meta-analysis]] 与 [[Meta-meta-analysis]] — 作为 Visible Learning 的证据基础。文章承认这些综合需要更好地处理调节[[Variable|变量]]、研究质量和结果类型，但仍主张它们能为教育[[Praxis|实践]]提供可讨论的证据起点(pp.10-18)。
+> - [[Meta-analysis]] 与 [[Meta-meta-analysis]] — 作为 Visible Learning 的证据基础。文章承认这些综合需要更好地处理调节[[Variable|变量]]、研究质量和结果类型，但仍主张它们能为教育实践提供可讨论的证据起点(pp.10-18)。
 > - [[Karl Popper|Popper]] 式[[Falsification|证伪]]观 — 研究进步来自主动寻找反例，而不是保护理论不受挑战。Hattie 将 Visible Learning 称为一种可被课堂证据检验、也可被修正的解释模型(p.14)。
 
 ## 研究方法
@@ -86,7 +85,7 @@ citation_aliases:
 ## 论证结构
 
 > [!example] 论证结构
-> 这篇文章的论证可以拆成“起点困惑 → 共同尺度 → 教师工作原则 → 批评回应 → 开放性结论”五段。它的关键不在于证明每个排名都绝对正确，而在于说明为什么教育[[Praxis|实践]]需要一种持续评估影响的语言。
+> 这篇文章的论证可以拆成“起点困惑 → 共同尺度 → 教师工作原则 → 批评回应 → 开放性结论”五段。它的关键不在于证明每个排名都绝对正确，而在于说明为什么教育实践需要一种持续评估影响的语言。
 >
 > ### 一、起点困惑：几乎每个教师都能说自己的方法“有效”
 >

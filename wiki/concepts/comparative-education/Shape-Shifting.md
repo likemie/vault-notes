@@ -16,12 +16,12 @@ tags:
   - theme/knowledge-transfer
   - theory/transfer-frameworks
 related_concepts:
-  - "[[Praxis]]"
   - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Recontextualization]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
+  - "[[Praxis]]"
   - "[[Growth]]"
   - "[[Examination Hell]]"
 related_theories:
@@ -50,7 +50,7 @@ updated: 2026-06-24
 ## 定义
 
 > [!def] 核心定义
-> 形变（Shape-Shifting）是指教育制度、思想、政策或[[Praxis|实践]]在跨国空间移动过程中，受制于不同的社会、政治、经济力量与历史传统而发生的核心结构及形态变化。其核心命题是移动即变形（As it moves, it morphs）——任何教育现象在跨空间转移时，绝不可能保持原貌，而是在接受语境中经历一系列重构与形变。([[Argument_Cowen_2009_CE\|Cowen, 2009, p. 315]])
+> 形变（Shape-Shifting）是指教育制度、思想、政策或实践在跨国空间移动过程中，受制于不同的社会、政治、经济力量与历史传统而发生的核心结构及形态变化。其核心命题是移动即变形（As it moves, it morphs）——任何教育现象在跨空间转移时，绝不可能保持原貌，而是在接受语境中经历一系列重构与形变。([[Argument_Cowen_2009_CE\|Cowen, 2009, p. 315]])
 
 > [!concept-lens] 概念透镜
 > - **指向机制** 指向移动后的教育构件与接受国本土既有教育系统、权力结构相交织而产生的结构性杂糅状态或微观[[Going Native|本土化]]扭曲。
@@ -80,7 +80,7 @@ updated: 2026-06-24
 > - **移动即变形命题** 教育流动不是物理意义上的平移，而是社会学意义上的[[Recontextualization|再脉络化]]。任何跨境流动的教育符号，都会由于时空压缩和地方权力的压缩而改变其原有的核心配置。([[Argument_Cowen_2009_CE\|Cowen, 2009, p. 315]])
 > - **形状分析维度的缺失** 比较教育长期缺乏描述制度形状的系统概念（如外部治理、内部管理、教学关系和研究承诺）。这使得研究者难以精准刻画制度形态在形变前后的具体差异。([[Argument_Cowen_2009_CE\|Cowen, 2009, p. 322]])
 > - **国家层面的杂糅式并置** 形变在政策层常表现为革新与保守的矛盾并存——政策文本表面上采纳全球化新词（如能力、跨学科），但其实际结构依然保留传统体制（如百科全书分科）。([[Argument_Beech_2009_CE\|Beech, 2009, p. 356]])
-> - **微观[[Praxis|实践]]的[[Going Native|本土化]]变形** 形变最终在微观学校层面发生质的偏离，即地方行动者在既有认知框架 与物质（如贫困）约束下对概念进行重新释义，甚至导致与初衷相反的结果。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 360–361]])
+> - **微观实践的[[Going Native|本土化]]变形** 形变最终在微观学校层面发生质的偏离，即地方行动者在既有认知框架 与物质（如贫困）约束下对概念进行重新释义，甚至导致与初衷相反的结果。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 360–361]])
 
 > [!logic-map]- 形变多层级分析模型
 > ```mermaid

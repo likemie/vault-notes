@@ -23,7 +23,6 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Humility in Learning]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -91,7 +90,7 @@ updated: 2026-05-22
 ## 争议与批评
 
 > [!warning]
-> - 耻在[[Praxis|实践]]层面可能从"自我纠正"滑向"社会羞辱"（public shaming）——"在他人面前"的元素可能使耻从内在的道德警醒变质为外在的社会控制工具
+> - 耻在实践层面可能从"自我纠正"滑向"社会羞辱"（public shaming）——"在他人面前"的元素可能使耻从内在的道德警醒变质为外在的社会控制工具
 > - Li 承认耻在西方语境中的理解会不同，但未深入讨论耻在中国文化中是否也可能产生"逃避"而非"纠正"的反应——实际上，不少人面对羞耻的自然反应是掩盖而非坦白
 
 ---

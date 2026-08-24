@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Familiarization]]"
   - "[[Analytic Framework]]"
+  - "[[Creativity]]"
   - "[[Learning Virtues]]"
   - "[[Self-Cultivation]]"
 related_theories: []
@@ -112,7 +113,7 @@ updated: 2026-08-20
 > **精 vs [[Familiarization|熟]]** 精是勤奋三阶段的终点，熟是起点。Li 从中文词汇中引用的一个关键表达揭示了这种递进："熟能生巧，巧能生精"——这暗示了一个三级结构：熟 → 巧 → 精。只达到巧（skillfulness）而不进入精（refined mastery），在中国学习传统中被认为是不完整的学习([[Argument_Li_2012_Cambridge|Li, 2012, p.133]])。
 
 > [!example]
-> **精 vs 创造力（creativity）** 乍看之下，以模仿大师为起点的学习路径似乎排斥创造力。但出道（第二阶段）恰恰是创造力的体现——只是这种创造力**根植于传统**而非与传统断裂。Li 的分析暗示了中国学习传统中"创新"的独特含义：不是从零开始，而是在精通传统之后的超越([[Argument_Li_2012_Cambridge|Li, 2012, pp.131-132]])。
+> **精 vs [[Creativity|创造力]]（creativity）** 乍看之下，以模仿大师为起点的学习路径似乎排斥创造力。但出道（第二阶段）恰恰是创造力的体现——只是这种创造力**根植于传统**而非与传统断裂。Li 的分析暗示了中国学习传统中"创新"的独特含义：不是从零开始，而是在精通传统之后的超越([[Argument_Li_2012_Cambridge|Li, 2012, pp.131-132]])。
 
 ---
 

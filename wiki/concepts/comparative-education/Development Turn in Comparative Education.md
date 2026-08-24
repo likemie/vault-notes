@@ -26,7 +26,6 @@ related_concepts:
   - "[[Methodological Statism]]"
   - "[[Scientism]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Praxis]]"
   - "[[Governing at a Distance]]"
   - "[[Evidence-Based Education]]"
   - "[[Realism in International Relations]]"
@@ -126,7 +125,7 @@ updated: 2026-07-09
 ### 命题二　新自由主义全球化并未终结“发展范式”，而是通过数据化与标准化的远处治理对其进行了深化
 
 > [!concept-lens] 新自由主义的延续
-> 这一维度的命题关注冷战结束后，“发展话语”如何转化为以世界银行和[[OECD|经合组织]]（OECD）为载体的新自由主义全球[[Disciplina and Doctrina|规训]]，通过效率指标和“最佳[[Praxis|实践]]”输出维系资本积累。
+> 这一维度的命题关注冷战结束后，“发展话语”如何转化为以世界银行和[[OECD|经合组织]]（OECD）为载体的新自由主义全球[[Disciplina and Doctrina|规训]]，通过效率指标和“最佳实践”输出维系资本积累。
 
 > [!claim] Tikly (2004)
 > **发展话语演变为全球新自由主义霸权** 提出最初为遏制共产主义和推广美国发展模式而发明的话语，在冷战后转化为支配性的新自由主义“最佳实践”标准。这一过程继续将西方的教育现代化范本施加于全球，扮演着“知识新帝国”的角色。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 422–428]])
@@ -150,14 +149,14 @@ updated: 2026-07-09
 
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 冷战驱动的发展转向与多边建制化** [[Sputnik Shock 1957|Sputnik]]人造卫星发射成功在美国激发了地缘与科技恐慌，直接催生了[[Economics of Education Movement|教育经济学运动]]。芝加哥大学Anderson中心促进了学科融合，协助人力资本理论在国际项目（如地中海区域项目）中全球扩散；[[OECD|经合组织]]（1961年）与[[International Education|国际教育]]规划研究所（1963年）等机构在此时期成立，为发展中国家教育规划提供技术援助。
-> - **1990s 至今 — 新自由主义[[Governing at a Distance|远处治理]]下的“最佳[[Praxis|实践]]”输出** 苏联解体后，“发展[[Paradigm|范式]]”平稳过渡为新自由主义的全球标准话语。OECD通过[[PISA]]测验等量化指标实施远处治理，将早期的“技术援助”升级为制造高效教育系统模型的“最佳实践”，以维持后福特主义的全球资本积累与西方知识霸权。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
+> - **1990s 至今 — 新自由主义[[Governing at a Distance|远处治理]]下的“最佳实践”输出** 苏联解体后，“发展[[Paradigm|范式]]”平稳过渡为新自由主义的全球标准话语。OECD通过[[PISA]]测验等量化指标实施远处治理，将早期的“技术援助”升级为制造高效教育系统模型的“最佳实践”，以维持后福特主义的全球资本积累与西方知识霸权。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
 
 ---
 
 ## 争议与批评
 
 > [!tension] [[Governing at a Distance|远处治理]]的本质争议
-> - **去政治化的客观援助（蓝方）** 倡导者认为发展转向带来了规范化的计划管理和[[Evidence-Based Education|循证教育]]政策，为缺乏资源的国家提供了基于客观数据和科学模型的“最佳[[Praxis|实践]]”，有助于提升教育质量与经济发展水平。
+> - **去政治化的客观援助（蓝方）** 倡导者认为发展转向带来了规范化的计划管理和[[Evidence-Based Education|循证教育]]政策，为缺乏资源的国家提供了基于客观数据和科学模型的“最佳实践”，有助于提升教育质量与经济发展水平。
 > - **知识殖民与资本[[Disciplina and Doctrina|规训]]（红方）** 批判学者指出，发展话语构建了“西方即标准”的落后[[Paradigm|范式]]，通过把教育窄化为生产力工具剥夺了本土文化主权，实质上是以“技术中立”为掩护实施的知识殖民。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]])
 
 > [!critique] 学术与方法论视角的外部批评

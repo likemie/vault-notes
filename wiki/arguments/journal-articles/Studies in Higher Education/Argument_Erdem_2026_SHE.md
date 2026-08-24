@@ -38,10 +38,12 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Experiential Learning]]"
   - "[[Cooperative Learning]]"
+  - "[[Dependent Variable]]"
+  - "[[Construct]]"
+  - "[[Document]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Blue Skies Research]]"
   - "[[Flow]]"
-  - "[[Document]]"
   - "[[Standard Error]]"
   - "[[Surface and Deep Learning]]"
   - "[[Problem Finding]]"
@@ -148,16 +150,16 @@ issuing_organization: ""
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 学生结果[[Variable|变量]]与[[Operationalization|操作化]]编码规程
-> | 变量维度与分类 | 理论构念与操作化定义 | 编码规则与典型结果 |
+> [!index-table] 学生[[Dependent Variable|结果变量]]操作化定义、核心教学规程、典型测量工具与纳入案例
+> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **理论性知识**<br>（Theoretical Knowledge） | 对支撑学科的基本概念、原理与理论的理解；通过分析真实问题更深入有效地掌握理论概念。 | 按 FOM 报告的知识测试结果编码；典型效应如 Ma & Lu (2019) 的 ES = 1.16。（pp. 954–955, 959） |
-> | **临床技能**<br>（Clinical Skills） | 通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能；促进更快更有效的临床决策并支持长期技能保持。 | 按 FOM 报告的临床技能、临床能力或临床实践结果编码；典型效应如临床技能亚组 ES = 1.06。（pp. 954–955, 962） |
-> | **[[Critical Thinking\|批判性思维]]**<br>（Critical Thinking） | 与组织、分析、评价并最终决策自身认知过程相关的技能与习惯；在问题解决环境中发展。 | 按 FOM 报告的批判性思维技能或倾向（disposition）结果编码；典型效应如亚组 ES = 0.56。（pp. 955, 962） |
-> | **学生态度**<br>（Student Attitude） | 学生对特定学科、学习方法或教育环境的总体感受与想法；技能与知识以外的结果（如倾向、兴趣）归入此类。 | 按 FOM 报告的态度、兴趣或倾向结果编码；典型效应如亚组 ES = 0.57。（pp. 955–956, 959, 962） |
-> | **学生满意度**<br>（Student Satisfaction） | 学生对学习过程与学习环境的总体满意程度；PBL 激发内在动机并提升学习体验。 | 按 FOM 报告的满意度结果编码；典型效应如亚组 ES = 1.10。（pp. 955–956, 962） |
-> | **综合**<br>（Combined） | FOM 未拆分认知与情感结果、直接汇总报告的综合结果。 | FOM 合并报告不同结果时编码为综合；典型效应如亚组 ES = 0.88。（pp. 959, 962） |
-> | **其他**<br>（Others） | 不足以独立成组的结果类型。 | 某结果类型效应量不足（k < 3）时编码为其他；典型效应如亚组 ES = 0.31。（pp. 959, 962） |
+> | **理论性知识**<br>（Theoretical Knowledge） | 对支撑学科的基本概念、原理与理论的理解，通过分析真实问题更深入有效地掌握理论概念。 | **核心教学规程** 学生以真实问题为起点，在小组中激活先备知识、分析问题、检索资料并通过问题解决整合理解（pp. 952–953）；<br>**典型测量工具** 学科知识测试或成绩测验；<br>**纳入案例** Ma & Lu (2019, ES = 1.16)、Wang et al. (2016, ES = 0.76)、Galvao et al. (2014, ES = 0.21)、Huang et al. (2013, ES = 0.88) 等 15 个效应量，加权平均 ES = 0.59。（pp. 954–955, 962） |
+> | **临床技能**<br>（Clinical Skills） | 通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能，促进更快更有效的决策并支持长期技能保持。 | **核心教学规程** 在真实患者情景的问题解决中练习临床决策与操作，发展长期技能保持（pp. 954–955）；<br>**典型测量工具** 临床技能、临床能力或临床实践考核；<br>**纳入案例** Ma & Lu (2019, ES = 1.56)、Zhang et al. (2018, ES = 1.56)、Shin & Kim (2013, ES = 0.92)、Li et al. (2024, ES = 1.20) 等 8 个效应量，加权平均 ES = 1.06。（pp. 954–955, 962） |
+> | **[[Critical Thinking\|批判性思维]]**<br>（Critical Thinking） | 与组织、分析、评价并最终决策自身认知过程相关的技能与习惯，在问题解决环境中发展。 | **核心教学规程** 问题解决环境促使学生深度思考、评价多样视角、分析综合信息（pp. 955, 963–964）；<br>**典型测量工具** 批判性思维技能测验或倾向量表；<br>**纳入案例** Kong et al. (2014, ES = 0.33)、Liu & Pásztor (2022, ES = 0.58–0.91)、Wei et al. (2023, ES = 0.47) 等 6 个效应量，加权平均 ES = 0.56。（pp. 955, 962） |
+> | **学生态度**<br>（Student Attitude） | 学生对特定学科、学习方法或教育环境的总体感受与想法，技能与知识以外的结果（如倾向、兴趣）归入此类。 | **核心教学规程** 主动参与问题解决过程培养积极态度与热情（pp. 955–956, 963–964）；<br>**典型测量工具** 态度、兴趣或倾向量表；<br>**纳入案例** Shin & Kim (2013, ES = 0.67)、Brice (2017, ES = −0.15)、（未识别博士论文，ES = 0.45）等 7 个效应量，加权平均 ES = 0.57。（pp. 955–956, 962） |
+> | **学生满意度**<br>（Student Satisfaction） | 学生对学习过程与学习环境的总体满意程度，PBL 激发内在动机并提升学习体验。 | **核心教学规程** 主动参与增强内在动机与学习能力，提升学习体验（pp. 955–956, 963–964）；<br>**典型测量工具** 满意度问卷；<br>**纳入案例** Shin & Kim (2013, ES = 1.44)、Zheng et al. (2023, ES = 0.92)、Li et al. (2024, ES = 5.43，OR 转换) 等 3 个效应量，加权平均 ES = 1.10。（pp. 955–956, 962） |
+> | **综合**<br>（Combined） | FOM 未拆分认知与情感结果、直接汇总报告的综合结果。 | **核心教学规程** FOM 对多项结果未拆分、直接汇总报告（p. 959）；<br>**典型测量工具** 综合测验或综合表现评价；<br>**纳入案例** Gao et al. (2020, ES = 1.51)、Sayyah et al. (2017, ES = 0.90) 等 4 个效应量，加权平均 ES = 0.88。（pp. 959, 962） |
+> | **其他**<br>（Others） | 不足以独立成组的结果类型。 | **核心教学规程** 某结果类型效应量不足以独立成组（k < 3）（p. 959）；<br>**典型测量工具** 各 FOM 报告的零星结果；<br>**纳入案例** Sharma et al. (2023, 自信 ES = 0.31) 等 4 个效应量，加权平均 ES = 0.31。（pp. 959, 962） |
 
 ---
 
@@ -168,12 +170,22 @@ issuing_organization: ""
 > |------|----------------|
 > | **方法定位**<br>Second-Order Meta-Analysis | 以整合 FOM 统计结果为目标，将一阶[[Meta-analysis\|元分析]]报告的分析单位（独立[[Effect Size\|效应量]]）作为二阶综合的分析单位，在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下进行整合（Oh, 2020; Schmidt & Oh, 2013）。（p. 956） |
 > | **文献检索与筛选**<br>Systematic Search & Screening | 检索 Scopus、Web of Science、MEDLINE、ERIC、Academic Search Ultimate、Google Scholar 与 ProQuest；使用“problem based”或“[[Problem-Based Learning\|PBL]]”与“meta-analysis”“meta analytic”“systematic review”关键词组合；遵循系统综述和荟萃分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses，PRISMA）指南。检索得 495 项，去重后 43 项，按标准筛选后最终纳入 20 项 FOM。（pp. 956–957） |
-> | **纳入与排除标准**<br>Inclusion & Exclusion Criteria | 六项标准：（1）截至 2024 年英文发表；（2）含以传统教学为对照组的 PBL [[Experimental Research\|实验研究]]，排除网络、计算机、小组等富化 PBL 与混合其他教学模式者；（3）报告标准化均差（Standardized Mean Difference，SMD）、Cohen's d、Hedges' g、比值比（Odds Ratio，OR）或 Fisher's z 及充分统计量；（4）FOM 间重叠率低于 25%（Cooper & Koenka, 2012）；（5）覆盖高等教育，排除 K-12；（6）对照组为传统教学方法。（pp. 956–957） |
+> | **纳入与排除标准**<br>Inclusion & Exclusion Criteria | 六项标准涵盖[[Document\|文献]]语言与时限、干预与对照要求、统计信息、文献重叠、教育阶段与对照组类型，具体判定见下方序号表。（pp. 956–957） |
 > | **方法学质量评估**<br>Quality Assessment | 采用修订版[[AMSTAR\|系统评价质量评估工具]]（Revised Assessment of Multiple Systematic Reviews，R-AMSTAR，Kung et al., 2010）评估 FOM 质量；量表 11 个章节，剔除 8A 与 8B 临床适用条目（各 1 分）不计分；质量得分作为调节[[Variable\|变量]]参与统计检验。（p. 957） |
 > | **数据提取与双人编码**<br>Data Extraction & Coding | 以 MS Excel 开发编码表；两位研究者独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$；分歧经讨论，无法达成一致者征询专家意见后决定。（p. 957） |
-> | **效应量选择与转换**<br>Effect Size Selection & Conversion | SMD、Cohen's d 与 Hedges' g 在大样本下等价（Goulet-Pelletier & Cousineau, 2018）；数据集中 $k = 47$ 个报告 SMD、$k = 2$ 个报告 OR、$k = 1$ 个报告 Hedges' g，OR 转换为 SMD 后纳入分析；统计软件为 CMA 3.0。（pp. 957–960） |
+> | **效应量选择与转换**<br>Effect Size Selection & Conversion | 标准化均差（Standardized Mean Difference，SMD）、Cohen's d 与 Hedges' g 在大样本下等价（Goulet-Pelletier & Cousineau, 2018）；数据集中 $k = 47$ 个报告 SMD、$k = 2$ 个报告比值比（Odds Ratio，OR）、$k = 1$ 个报告 Hedges' g，OR 转换为 SMD 后纳入分析；统计软件为 CMA 3.0。（pp. 957–960） |
 > | **统计模型与分析**<br>Statistical Model | 采用[[Fixed-Effect and Random-Effects Models\|随机效应模型]]进行平均效应、发表偏倚、调节与异质性分析；以 Q 统计量评估异质性（$Q(t)$ 总异质性、$Q(b)$ 组间异质性）。（pp. 957–960） |
 > | **离群与偏倚分析**<br>Outlier & Bias | 识别并剔除 3 个离群效应量，分析以 $k = 47$ 进行；发表偏倚检验包括漏斗图、Egger 回归、Begg 与 Mazumdar 秩相关及 Duval & Tweedie 剪补法。（p. 960） |
+
+> [!seq-table]- 六项纳入与排除标准（Inclusion & Exclusion Criteria）
+> | 纳入标准 |
+> |---|
+> | 截至 2024 年以英文发表的期刊文章。 |
+> | 含以传统教学为对照组的 PBL [[Experimental Research\|实验研究]]；排除网络、计算机、团队工作等富化 PBL 与混合其他教学模式者。 |
+> | 报告标准化均差（SMD）、Cohen's d、Hedges' g、比值比（OR）或 Fisher's z 及充分统计量。 |
+> | FOM 间重叠率低于 25%（Cooper & Koenka, 2012）。 |
+> | 覆盖高等教育，排除 K-12 层面。 |
+> | 对照组为传统教学方法。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Task Structure]]"
   - "[[Individualised Instruction]]"
   - "[[Decodification]]"
+  - "[[Teams-Games-Tournament]]"
   - "[[Homework]]"
   - "[[Think-Pair-Share]]"
   - "[[Divergent Thinking]]"
@@ -114,7 +115,7 @@ updated: 2026-08-24
 > - **小组[[Survey Research|调查法]]（Group Investigation / Sharan & Sharan）** 学生自主选择感兴趣的子议题组成探究小组，共同规划研究方案、收集分析真实资料并在全班进行多元化综合展示。
 > - **合作整合阅读与写作（Cooperative Integrated Reading and Composition，CIRC / Slavin）** 针对语言教学的系统化技术，将教师主导的阅读理解教学与[[Heterogeneity|异质性]]同伴配对[[Decodification|解码]]、词汇研讨、同伴编辑与写作紧密整合。
 > - **学生小组成就区分法（Student Teams-Achievement Divisions，STAD / Slavin）** 教师讲授后组员互助复习材料，随后进行独立测验；小组总分取决于各成员超越自身先前基线水平的进步分（Improvement Points）。
-> - **团队游戏竞赛法（Team-Games-Tournament，TGT / Slavin）** 以每周组间同等能力桌游戏竞赛替代常规书面测验，强化同伴支持与趣味竞争激励。
+> - **[[Teams-Games-Tournament|团队游戏竞赛法]]（Team-Games-Tournament，TGT / Slavin）** 以每周组间同等能力桌游戏竞赛替代常规书面测验，强化同伴支持与趣味竞争激励。
 > - **团队辅助[[Individualised Instruction|个别化教学]]（Team Accelerated Instruction，TAI / Slavin）** 将个别化自定步调的数学学习材料与异质性小组互助管理相结合，兼顾因材施教与同伴激励。
 > - **共同学习法（Learning Together / Johnson & Johnson）** 小组共同完成一份[[Homework|作业]]或实验报告并接受集体奖励，重点强调五大要素的显性落实与人际反思。
 > - **建设性争议法（Constructive Controversy / Johnson & Johnson）** 针对特定学术或伦理议题将组员分为两派正反方，经历立场辩护、角色互换辩护与最终寻求超越二元的综合共识。

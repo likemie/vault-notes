@@ -25,7 +25,6 @@ related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
   - "[[Document]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
@@ -129,6 +128,6 @@ updated: 2026-08-20
 > **儒家式辅导 vs [[Socratic Tutoring Style|苏格拉底式辅导]]** 两者结构相似——都是家长通过[[Dialogue in Education|对话]]引导儿童形成学习信念的高效辅导方式。差异在**内容**[[Socrates|苏格拉底]]式辅导围绕心智和积极情感，儒家式辅导围绕[[Learning Virtues|学习美德]]和持续自我改进。前者问"你有多聪明？"，后者问"你还可以怎么更好？"([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 > [!example]
-> **儒家式辅导 vs 学校教学** 这是一种**家庭日常对话**中的社会化[[Praxis|实践]]，不是正式教学。母亲通常不意识到自己在"辅导"——她们只是在履行身为家长的道德责任（在中国文化中，不引导子女学习被视为**家长的道德失败**）。
+> **儒家式辅导 vs 学校教学** 这是一种**家庭日常对话**中的社会化实践，不是正式教学。母亲通常不意识到自己在"辅导"——她们只是在履行身为家长的道德责任（在中国文化中，不引导子女学习被视为**家长的道德失败**）。
 
 ---

@@ -17,11 +17,11 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
-  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Ontology]]"
   - "[[Epistemological Naturalism]]"
   - "[[Causal Processes]]"
+  - "[[Praxis]]"
   - "[[Theory of Mind]]"
   - "[[Questionnaire]]"
   - "[[Hypothesis]]"
@@ -103,7 +103,7 @@ issuing_organization: ""
 > [[Epistemology|认识论]]认知（[[Epistemic Cognition]]）研究在过去半个世纪中经历了怎样的多学科源流交汇？当前不同学术阵营存在哪些阻碍理论整合的核心断层线（fault lines）？如何跨越这些断层线以迈向连贯的理论建构？
 
 > [!claim] 核心主张
-> 认识论认知研究处于充满活力但极度分裂的状态。跨越知识概念化、领域普遍性与情境性、发展轨迹、测量方法等四大核心断层线，并采用[[Integrative Pluralism|整合的多元主义]]（integrative pluralism）视角统合个体内在认知与社会文化情境，是指导复杂信息时代教育[[Praxis|实践]]的前提。
+> 认识论认知研究处于充满活力但极度分裂的状态。跨越知识概念化、领域普遍性与情境性、发展轨迹、测量方法等四大核心断层线，并采用[[Integrative Pluralism|整合的多元主义]]（integrative pluralism）视角统合个体内在认知与社会文化情境，是指导复杂信息时代教育实践的前提。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 心理学与教育学关于认识论认知与个人[[Epistemology|认识论]]（personal epistemology）的267篇高被引核心[[Document|文献]]。
@@ -161,7 +161,7 @@ issuing_organization: ""
 ### 论证步骤一 认识论认知研究的多源流拼图
 
 > [!claim] 步骤一主张
-> [[Epistemology|认识论]]认知并非统一的领域，而是由哲学[[Epistemology|认识论]]的转向、个人认识论的模型建构、发展心理学的早期基础，以及学科教育中的特异性[[Praxis|实践]]共同拼凑而成的复杂网络。
+> [[Epistemology|认识论]]认知并非统一的领域，而是由哲学[[Epistemology|认识论]]的转向、个人认识论的模型建构、发展心理学的早期基础，以及学科教育中的特异性实践共同拼凑而成的复杂网络。
 
 > [!chain-link] 证据到判断
 > - **链节一 哲学层面的转向（Philosophical Turn）**
@@ -303,7 +303,7 @@ issuing_organization: ""
 ## 教育启示
 
 > [!implication]- 打通学校化与非学校化语境
-> [[Epistemology|认识论]]认知的干预不应仅停留在提高学术成绩。最大的挑战在于跨语境迁移：学生在课堂中学会的评价相互冲突的主张的能力，很少能带入日常生活中。如何让具备高阶[[Epistemic Cognition|认识论认知]]的公民，在离开学校后，面对网络上真假难辨的社会科学争议时，依然能自如地调用复杂的来源评估（source evaluation）与证据质询技能，是教育设计必须正视的议题。这要求教师本身对科学[[Praxis|实践]]具备极深的[[Epistemology|认识论]]校准。
+> [[Epistemology|认识论]]认知的干预不应仅停留在提高学术成绩。最大的挑战在于跨语境迁移：学生在课堂中学会的评价相互冲突的主张的能力，很少能带入日常生活中。如何让具备高阶[[Epistemic Cognition|认识论认知]]的公民，在离开学校后，面对网络上真假难辨的社会科学争议时，依然能自如地调用复杂的来源评估（source evaluation）与证据质询技能，是教育设计必须正视的议题。这要求教师本身对科学实践具备极深的[[Epistemology|认识论]]校准。
 
 ---
 

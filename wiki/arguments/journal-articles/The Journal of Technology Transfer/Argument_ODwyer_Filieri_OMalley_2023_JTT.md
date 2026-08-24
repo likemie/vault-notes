@@ -30,7 +30,6 @@ tags:
   - source/journal-article
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Academic Engagement]]"
   - "[[Document]]"
   - "[[Theoretical Perspective]]"
@@ -61,7 +60,7 @@ updated: 2026-06-10
 ## 研究问题
 
 > [!question]
-> [[University-Industry Collaboration|产学合作]]网络对国民经济日益重要，但已有研究对障碍和促进因素的探索以横截面分析为主，识别了各种障碍（制度壁垒、文化差异、交易成本等）和促进因素（信任、先前经验、政府资助等），却没有回答一个关键的时间维度问题：**这些障碍和促进因素在合作的不同阶段如何变化？** 政策制定者和[[Praxis|实践]]者需要在正确的时间采取正确的干预措施，但缺乏一个能指导阶段性行动的演化框架。
+> [[University-Industry Collaboration|产学合作]]网络对国民经济日益重要，但已有研究对障碍和促进因素的探索以横截面分析为主，识别了各种障碍（制度壁垒、文化差异、交易成本等）和促进因素（信任、先前经验、政府资助等），却没有回答一个关键的时间维度问题：**这些障碍和促进因素在合作的不同阶段如何变化？** 政策制定者和实践者需要在正确的时间采取正确的干预措施，但缺乏一个能指导阶段性行动的演化框架。
 
 > [!stat-cards]+ 一页读懂
 > - **对象**[[Synthesis and Solid State Pharmaceutical Centre|SSPC]]（Synthesis and Solid State Pharmaceutical Centre），爱尔兰制药产学合作网络，10 家跨国企业 + 8 所学术机构

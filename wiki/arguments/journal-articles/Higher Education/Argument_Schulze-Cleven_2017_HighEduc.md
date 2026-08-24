@@ -34,6 +34,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Capitalism]]"
   - "[[New Public Management]]"
+  - "[[Creativity]]"
   - "[[Theoretical Perspective]]"
   - "[[University-Industry Collaboration]]"
   - "[[Non-monetary Competition]]"
@@ -52,7 +53,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Field Images]]"
   - "[[Positioning Practice]]"
-  - "[[Praxis]]"
   - "[[Analytic Framework]]"
   - "[[Dialogue in Education]]"
   - "[[Sociology of Valuation and Evaluation]]"
@@ -105,7 +105,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 这一多维分析策略不追求单一的理论正统，而是主动拥抱三种理论传统之间的创造性张力，面对当代高等教育转型的复杂性，任何单一[[Theoretical Perspective|理论视角]]都必然有盲点(pp.795–799)。
+> 这一多维分析策略不追求单一的理论正统，而是主动拥抱三种理论传统之间的[[Creativity|创造性]]张力，面对当代高等教育转型的复杂性，任何单一[[Theoretical Perspective|理论视角]]都必然有盲点(pp.795–799)。
 
 ### 三类核心现象
 
@@ -224,7 +224,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 
 - **Schulze-Cleven & Olson** 的跨国比较（美国、德国、挪威）是最直接的"分配冲突"分析。他们展示了 [[Varieties of Capitalism]] 的类型差异如何映射到高等教育部门：在自由主义美国，市场化最深，金融化程度最高；在保守主义德国，改革反复拉锯；在社会民主主义挪威，国家仍主导供给，但也经历了自由化进程。三类国家都经历了自由化，但自由化的形式和分配后果截然不同。在美国，利益流向金融机构和精英院校；在德国，改革更多是治理结构调整而非资源再分配；在挪威，公共供给的韧性更强(pp.803–804)。
 - **Meyer & Zhou** 聚焦于一个具体的分配机制：美国精英大学的永久捐赠基金。这些基金不仅集中了巨额财富，更通过税收优惠将公共资金（免税）转化为私人特权（精英教育）。在极端情况下，一个哈佛学生的生均教育资源可以是一个社区学院学生的数十倍，而这种差距以卓越的名义被正当化。
-- **Jessop** 通过三重思想实验区分了三种不同的市场化程度：成本效率（cost-efficiency）只是基本的预算纪律；准商品化（[[Quasi-commodification of Knowledge|quasi-commodification]]）将知识劳动转化为可交易的商品；金融化（financialization）则是让金融资本直接进入并主导高等教育。关键洞见是：即便大学不成为营利企业，它们仍然可以被 Schumpeter 意义上的"创造性破坏"所重塑，而政治资本主义（political capitalism）提供了另一种可能：国家和财富机构之间的紧密联盟。
+- **Jessop** 通过三重思想实验区分了三种不同的市场化程度：成本效率（cost-efficiency）只是基本的预算纪律；准商品化（[[Quasi-commodification of Knowledge|quasi-commodification]]）将知识劳动转化为可交易的商品；金融化（financialization）则是让金融资本直接进入并主导高等教育。关键洞见是：即便大学不成为营利企业，它们仍然可以被 Schumpeter 意义上的"[[Creativity|创造性]]破坏"所重塑，而政治资本主义（political capitalism）提供了另一种可能：国家和财富机构之间的紧密联盟。
 - **Reitz** 的贡献可能是其中最具理论冲击力的修正。他提出：资本主义[[Knowledge-Based Economy|知识经济]]需要一个**非资本主义的学术部门**来界定知识为有价值。为什么？因为知识本质上具有公共品的特性，一个人的使用不减少另一个人的使用，排除他人使用的成本很高。在纯市场条件下，知识的生产将严重不足。因此，需要评估和等级机制来为知识赋予价值，这个价值信号不仅指导学术界的内部资源分配，更向外部行动者（雇主、投资者、政府）提供关于在哪里寻找专业知识、创新和投资机会的指引。学术界的等级，精英大学、高影响因子期刊、引用排名，从功能主义角度看，是[[Knowledge Capitalism|知识资本主义]]运转所必需的信号基础设施(p.805)。
 - **Wieczorek, Beyer & Münch** 以美国化学系为案例，提出了 [[Neo-feudalism in Higher Education]] 的两种理想类型：封地封建主义（fief feudalism），研究者通过自主拨款维持相对独立性；俸禄封建主义（benefice feudalism），研究方向和产出节奏由资助方的经济适用性指令所约束。量化分析和[[Qualitative Interview|质性访谈]]共同支持了这一类型学的经验基础(pp.805–806)。
 
@@ -259,7 +259,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 
 马克思主义分析则将政治选择置于更深层的系统性动力之中，资本主义作为一种社会形态，对成本削减和利润增长施加结构性压力，这种压力不是任何单一政策选择可以"逆转"的。即便德国撤销了学费，高等教育仍然面临财政紧缩和竞争压力。
 
-话语理论者提供了第三种视角：变革的驱动力不能还原为政策选择或系统性需求，而要从具体的话语[[Praxis|实践]]和权力关系中寻找，排名之所以有力量，不是因为政策要求或资本逻辑，而是因为人们（学生、雇主、管理者）学会了按照排名来思考和行动。
+话语理论者提供了第三种视角：变革的驱动力不能还原为政策选择或系统性需求，而要从具体的话语实践和权力关系中寻找，排名之所以有力量，不是因为政策要求或资本逻辑，而是因为人们（学生、雇主、管理者）学会了按照排名来思考和行动。
 
 > [!note]- 这三种解释不是互相排斥的
 > 一项政策的出台确实是一个政治选择（制度主义的洞见），但这个选择不是在真空中做出的，资本积累的压力塑造了可选择的范围（马克思主义的洞见），而人们为什么接受而非抵抗这一政策，则涉及话语合法化的过程（话语理论的洞见）。三种解释可以，而且应该，被编织在一起。

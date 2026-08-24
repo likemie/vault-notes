@@ -22,7 +22,6 @@ related_concepts:
   - "[[Shape-Shifting]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Going Native]]"
-  - "[[Praxis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Geometries of Insertion]]"
   - "[[Social Cloning]]"
@@ -63,7 +62,7 @@ updated: 2026-08-20
 > - **[[Going Native|本土化]]过滤与选择性翻译**
 >   本土免疫机制极少进行简单的全面抵制，而是倾向于通过“[[Transfer Translation Transformation|转译]]（Translation）”阶段的选择性吸收，主动剔除外来思想中对本土既有秩序或核心利益有威胁的成分，仅“驯化”并保留对自身有利的工具性工具（[[Argument_Cowen_2009_CE|Cowen, 2009, p. 323]]）。
 > - **长时段历史博弈的报复**
->   即使外来几何在初期依靠强力（如战争、军事占领或财政裹挟）实现强制嵌入，本土的社会力量、文官系统与文化逻辑也会在漫长的日常[[Praxis|实践]]中进行持续拉锯，最终导致外来体制的消亡（灭绝）或发生本土化形变（[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 321–323]]）。
+>   即使外来几何在初期依靠强力（如战争、军事占领或财政裹挟）实现强制嵌入，本土的社会力量、文官系统与文化逻辑也会在漫长的日常实践中进行持续拉锯，最终导致外来体制的消亡（灭绝）或发生本土化形变（[[Argument_Cowen_2009_CE|Cowen, 2009, pp. 321–323]]）。
 
 ---
 

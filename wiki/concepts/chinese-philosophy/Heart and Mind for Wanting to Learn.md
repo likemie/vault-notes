@@ -21,7 +21,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Enculturation]]"
   - "[[Learning Virtues]]"
-  - "[[Praxis]]"
   - "[[Cross-cultural Validity]]"
   - "[[Humility in Learning]]"
   - "[[Active Learning]]"
@@ -105,7 +104,7 @@ Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可�
 ## 实证发现
 
 > [!success]
-> ### 学校中的[[Learning Virtues|学习美德]][[Praxis|实践]]
+> ### 学校中的[[Learning Virtues|学习美德]]实践
 > Li 报告了以下来自中国学校的系统性观察([[Argument_Li_2012_Cambridge|Li, 2012, pp.13–14]])：
 >
 > - **表扬机制** 考试后，老师常让"最努力"——而非"成绩最好"——的学生站起来接受全班掌声。肯定的是学习美德（learning virtue），而非学习结果

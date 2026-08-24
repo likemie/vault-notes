@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,13 +239,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7b1888ea00f7062e",
+  "active": "7ef1b49d2c627a52",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
+    "wiki/concepts/instruction-pedagogy/Teams-Games-Tournament.md",
+    "wiki/arguments/journal-articles/Current Psychology/Argument_Gungor_2026_CP.md",
     "wiki/templates/template-argument.md",
     "wiki/templates/template-argument-edited-volume.md",
-    "wiki/arguments/journal-articles/Current Psychology/Argument_Gungor_2026_CP.md",
     "wiki/templates/template-concept.md",
-    "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
     "wiki/concepts/research-methodology/Constructivist Paradigm.md",
     "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
     "wiki/concepts/instruction-pedagogy/Think-Pair-Share.md",
@@ -277,7 +278,6 @@
     "sources/Erdem_2026_SHE.pdf",
     "wiki/arguments/journal-articles/Studies in Higher Education",
     "raw/Problem-based learning and student outcomes in higher education  a second-order meta-analysis.pdf",
-    "wiki/concepts/educational-psychology/Creativity.md",
     "sources/Gungor_2026_CP/figures",
     "sources/Gungor_2026_CP/Gungor_2026_CP.pdf",
     "tmp/pdfs/ch04_hague/page-115.png",

@@ -18,7 +18,6 @@ tags:
 - theme/learning-process
 related_concepts:
   - "[[Chinese Learner]]"
-  - "[[Praxis]]"
   - "[[Rote Learning]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Analytic Framework]]"
@@ -52,7 +51,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> "[[Chinese Learner|中国学习者]]悖论"（paradox of the Chinese learner）由 [[David Watkins]] 和 [[John Biggs]] 在《The Chinese Learner》（1996）中系统提出。悖论的基本形态是：从西方教育视角看，中国／东亚教育体系充斥着"不良教学[[Praxis|实践]]"——教师中心、威权主义、学生被动服从、[[Rote Learning|死记硬背]]、缺乏内在动机、只求应试；但这些学习者在国际评估中持续表现优异，形成了"低劣学习方式"与"持续高成就"之间的尖锐矛盾([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-83]])。
+> "[[Chinese Learner|中国学习者]]悖论"（paradox of the Chinese learner）由 [[David Watkins]] 和 [[John Biggs]] 在《The Chinese Learner》（1996）中系统提出。悖论的基本形态是：从西方教育视角看，中国／东亚教育体系充斥着"不良教学实践"——教师中心、威权主义、学生被动服从、[[Rote Learning|死记硬背]]、缺乏内在动机、只求应试；但这些学习者在国际评估中持续表现优异，形成了"低劣学习方式"与"持续高成就"之间的尖锐矛盾([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-83]])。
 
 > [!quote]
 > "如果不是被彻底激怒并谴责中国学习的话，每当西方人教中国学生或参观中国学校时，他们都会感到失望。如前所述，中国教育体系主要由过时的教与学组成。"([[Argument_Li_2012_Cambridge|Li, 2012, p.82]])

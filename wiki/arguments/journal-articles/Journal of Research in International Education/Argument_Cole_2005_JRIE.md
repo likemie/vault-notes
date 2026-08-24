@@ -32,7 +32,6 @@ related_concepts:
   - "[[Feeder Mechanism]]"
   - "[[Performativity]]"
   - "[[Areas of Knowledge]]"
-  - "[[Praxis]]"
   - "[[Emergence]]"
   - "[[Epistemology]]"
   - "[[Rote Learning]]"
@@ -173,7 +172,7 @@ issuing_organization: ""
 > - **链节四：应对后现代完美信息博弈的滋养机制**
 >   引用[[Jean-François Lyotard|利奥塔]]（Lyotard）的观点，在后现代电子互联社会中，技术性知识已经公开透明（完美信息博弈）。当获取信息不再是秘密和壁垒时，决定卓越绩效的额外红利（extra [[Performativity]]）只能依赖于“想象力”——这使人能够做出新举措，甚至改变游戏规则（比如运用想象力将社会学和地理学结合为后现代的“城市学”）。因此，基于群体情感和想象力的斯宾诺莎课程，不再是一个封闭的终点，而是不断开启新[[Areas of Knowledge|知识领域]]的“动态滋养机制（Feeder Mechanism）”。（p.220）
 
-> [!proc] [[Praxis|实践]]拆解：国际斯宾诺莎课程绝非空洞口号
+> [!proc] 实践拆解：国际斯宾诺莎课程绝非空洞口号
 > 针对“如何在教学中具体落地”的问题，Cole 指出了具体的教学实务转变：
 > 1. **重构“核心知识（Knowledge Core）”** 课程不再把先验的哲学理论作为核心，而是将“探究情感本身”作为知识核心。教学起点是审查学生身上的无意识情感（如考试焦虑、对权威的盲从），展开对常规的激进批判。
 > 2. **化“否定”为“生产”** 在传统课堂中，学生表现出的虚无主义、叛逆或冷漠会被视为必须被纠正（否定）的违纪行为。斯宾诺莎模式要求教师将这些负面情绪视为构成情感想象力的“生产性材料”，引导全班对其背后的权力机制进行自由探索。
@@ -191,7 +190,7 @@ issuing_organization: ""
 > **现象表现：作为额外知识的“哲学快照”与情感异化**
 > 进入 TOK 课堂的学生，仍然期望像其他科目一样“被赋予知识”，以便在考试中重现。缺乏自然反思能力的学生，往往强行将复杂的哲学问题降维成可以背诵的“哲学与逻辑快照（snapshots）”。当教师不再提供标准答案、而是要求他们质疑既有[[Hypothesis|假设]]时，这种悬空感引发了极大的负面情绪，学生表现出深度的疏离、冷漠，甚至是对常规教学秩序的虚无主义与叛逆。（pp.212–213）
 > 
-> **[[Baruch Spinoza|斯宾诺莎]]式[[Praxis|实践]]转变**
+> **[[Baruch Spinoza|斯宾诺莎]]式实践转变**
 > - **停止[[Georg Wilhelm Friedrich Hegel|黑格尔]]式压制** 教师（Cole）没有采用传统的纪律或外在的“理性[[Bildung|教化]]”来纠正这些“异化”行为，也没有逼迫学生强行回到学术正轨。
 > - **破除规范（Breaking normative rules）** 彻底打破主导教育行为的常规纪律规范，终止权威式的知识灌输。
 > - **拥抱情感风暴（Embracing the maelstrom of emotionality）** 教师将学生抵触的情感、焦虑与无意识的[[Conatus|欲力]]（Conatus）直接合法化，并将其作为课堂探究的“核心知识”材料本身。（pp.214–215）
@@ -235,7 +234,7 @@ issuing_organization: ""
 > 
 > *The more we understand things as necessary, the less we feel the strength or intensity of passions rooted in the imagination.*
 
-> [!citation-card]- 权力的探究作为思辨的终结与[[Praxis|实践]]的起点
+> [!citation-card]- 权力的探究作为思辨的终结与实践的起点
 > 对权力的探究构成了思辨的终结与实践的开始，这也是我们停止努力思考世界、并开始创造世界的时刻。（引自 Hardt, p.222）
 > 
 > *The investigation of power constitutes the end of speculation and the beginning of practice, it is the moment in which we stop striving to think the world and begin to create it.*
@@ -250,7 +249,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> 实施基于释放欲望和想象力的“[[International Spinozian Curriculum|国际斯宾诺莎主义课程]]”，可能会在[[Praxis|实践]]中遭遇阻力（缺乏明确的、预设的单一教学方向）。对于高度目标导向的一线教育工作者来说，在科层化的学校体系中，系统性地接纳并探索充满混乱的情感情境（maelstrom of emotionality）是一个极具挑战性的实务难题，需要面对完全异质化和失控的课堂张力。（pp.215, 217, 222）
+> 实施基于释放欲望和想象力的“[[International Spinozian Curriculum|国际斯宾诺莎主义课程]]”，可能会在实践中遭遇阻力（缺乏明确的、预设的单一教学方向）。对于高度目标导向的一线教育工作者来说，在科层化的学校体系中，系统性地接纳并探索充满混乱的情感情境（maelstrom of emotionality）是一个极具挑战性的实务难题，需要面对完全异质化和失控的课堂张力。（pp.215, 217, 222）
 
 ---
 

@@ -20,7 +20,6 @@ tags:
 - theme/ethics
 related_concepts:
   - "[[Five Cardinal Relationships]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Self-Cultivation]]"
   - "[[Champ]]"
@@ -55,7 +54,7 @@ updated: 2026-05-22
 > **孝 ≠ 提供物质赡养**[[Confucius|孔子]]的名言直指要害——如果孝只是"能让父母有饭吃"，那与养狗养马有何区别？真正的孝在于"敬"——即发自内心的尊重和情感，而非单纯的物质供给或形式上的义务履行([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])。
 
 > [!example]
-> **孝 ≠ 临时的情感冲动** "父母的完全承诺和子女的孝道不是单纯的情感（通常由暂时的情感冲动决定），而是锚定在相应的道德义务中，以滋养彼此的福祉。如此理解和[[Praxis|实践]]，这些义务将持续一生"([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])。
+> **孝 ≠ 临时的情感冲动** "父母的完全承诺和子女的孝道不是单纯的情感（通常由暂时的情感冲动决定），而是锚定在相应的道德义务中，以滋养彼此的福祉。如此理解和实践，这些义务将持续一生"([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])。
 
 > [!example]
 > **孝是道德起点，非终点**[[Confucius|孔子]]认为孝是"百善孝为先"——一切人类道德的起始。[[Hypothesis|假设]]是：如果一个人连对生养自己的父母都做不到敬爱和尊重，他如何能对无关的人展现爱与关怀？([[Argument_Li_2012_Cambridge|Li, 2012, pp.38-39]])
@@ -76,7 +75,7 @@ updated: 2026-05-22
 
 > [!tip]-
 > - [[Five Cardinal Relationships]] — 孝是五伦之首对关系（父子）的子女向德目
-> - [[Self-Cultivation]] — 孝是修身在家庭[[Champ|场域]]中的基本[[Praxis|实践]]
+> - [[Self-Cultivation]] — 孝是修身在家庭[[Champ|场域]]中的基本实践
 > - [[Confucius]] — 孔子是孝的主要阐述者
 
 ---

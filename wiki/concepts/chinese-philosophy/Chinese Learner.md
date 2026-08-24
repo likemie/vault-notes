@@ -27,7 +27,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Western Learner]]"
   - "[[Five Cardinal Relationships]]"
-  - "[[Praxis]]"
   - "[[Junzi]]"
   - "[[Sage]]"
   - "[[Humility in Learning]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Paradox of the Chinese Learner]]"
   - "[[Rote Learning]]"
   - "[[Academic Achievement]]"
+  - "[[Creativity]]"
   - "[[Stereotype Threat]]"
   - "[[Familiarization]]"
   - "[[Quality Education]]"
@@ -102,7 +102,7 @@ updated: 2026-08-20
 
 一个人的本质不是由生物学定义的，而是由其在[[Five Cardinal Relationships|五伦]]关系（父子、夫妻、兄弟、君臣、朋友）中的行事方式定义的——"这些关系及其社会和道德含义——而不是我们的生物学——定义了我们作为人的本质"([[Argument_Li_2012_Cambridge|Li, 2012, pp.47-48]])。
 
-学习的终极目标不是掌握知识或获得成就，而是**[[Self-Cultivation|修身]]**——一个持续终身的人格完善过程。修身从[[Five Cardinal Relationships|五伦]]出发，经由礼、义、廉、耻四道德原则的[[Praxis|实践]]，最终通向仁的最高境界。人格进阶从士 → [[Junzi|君子]] → [[Sage|圣人]]，每个阶段代表更深层的自我转化([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-46]])。完整的人格层级分析见 [[Junzi#人格进阶：士 → 君子 → 圣人]]。
+学习的终极目标不是掌握知识或获得成就，而是**[[Self-Cultivation|修身]]**——一个持续终身的人格完善过程。修身从[[Five Cardinal Relationships|五伦]]出发，经由礼、义、廉、耻四道德原则的实践，最终通向仁的最高境界。人格进阶从士 → [[Junzi|君子]] → [[Sage|圣人]]，每个阶段代表更深层的自我转化([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-46]])。完整的人格层级分析见 [[Junzi#人格进阶：士 → 君子 → 圣人]]。
 
 > [!example] 与西方模型的根本差异
 > 西方 Learner 是一个**认识主体**——心智向外探究、掌握世界。中国 Learner 是一个**自我项目**——向内修炼品德、转化自我。一个问"我如何认识世界？"，一个问"我应成为什么样的人？"([[Argument_Li_2012_Cambridge|Li, 2012, p.31]])。
@@ -220,7 +220,7 @@ updated: 2026-08-20
 
 ### 第一阶段：缺陷型刻板印象（Deficit Stereotypes）
 
-西方长期持有的负面认知：认为中国学习者[[Rote Learning|死记硬背]]、被动、缺乏想象力、等级观念强。这一模式隐含地将西方教育理念（批判思维、独立、创造性）设为规范，中国学习者因偏离此规范而被视为"有缺陷"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
+西方长期持有的负面认知：认为中国学习者[[Rote Learning|死记硬背]]、被动、缺乏想象力、等级观念强。这一模式隐含地将西方教育理念（批判思维、独立、[[Creativity|创造性]]）设为规范，中国学习者因偏离此规范而被视为"有缺陷"([[Argument_Slethaug_2010_InternationalEducation|Slethaug, 2010, p.2]])。
 
 > [!note]- 刻板印象的再生产机制
 > [[Argument_Ryan_2010_ChineseLearner|Ryan (2010, pp.41–42)]]以 Ballard & Clanchy（1991, 1997）在澳大利亚的影响为典型案例：其著作在图书馆中被严重标注，但被高亮的段落恰恰是描述 [[Confucian Heritage Cultures|CHC]] 学习者"缺陷"的部分，而作者明确警告刻板印象危险的段落却几乎未被标注。完整四步拆解见 [[Argument_Ryan_2010_ChineseLearner#2a. 缺陷型刻板印象（Deficit Stereotypes）]]。心理机制——刻板印象如何通过威胁感知成为自我实现的预言——见 [[Stereotype Threat]]。
@@ -256,7 +256,7 @@ updated: 2026-08-20
 > [!tip]-
 > - [[Confucian Learning Tradition]] — 中国学习者模型的知识根源。[[Confucius|孔子]]的"好之者不如乐之者"将[[Heart and Mind for Wanting to Learn|好學心]]置于"知之"之上，奠定了学习的情感/品德优先性
 > - [[Cultural Models]] — Li 将中国学习者模型归类为一种文化模型（cultural model）——文化成员共享的、通常隐性的关于"学习是什么"的心智图式
-> - [[Self-Cultivation]] — 修身是中国学习者模型的核心枢纽，连接认知准备（格物→正心）与社会[[Praxis|实践]]（齐家→平天下）
+> - [[Self-Cultivation]] — 修身是中国学习者模型的核心枢纽，连接认知准备（格物→正心）与社会实践（齐家→平天下）
 > - [[Learning Virtues]] — 七种学习美德的完整文本传统、实证发现和文化认知差异
 > - [[Heart and Mind for Wanting to Learn]] — 好學心是中国学习概念地图中最大的集群（占可取方式的 46%），是中国学习者模型的核心动力概念
 > - [[Western Learner]] — 对称对比条目，共同构成 Li (2012) 全书的二[[Meta-analysis|元分析]]框架

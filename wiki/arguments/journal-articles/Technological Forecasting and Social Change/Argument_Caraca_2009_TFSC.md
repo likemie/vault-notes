@@ -30,6 +30,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Knowledge Exchange]]"
+  - "[[Creativity]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -309,7 +310,7 @@ Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模
 > It would be a mistake to use this as an argument to make universities and basic research subordinate to markets or to political dictates. It undermines the long-term viability of the innovation process and it neglects that the most important bottlenecks in the innovation process may have to do more with organizational forms that do not support experience-based learning in relation to markets and production.
 
 > [!citation-card]- 大学需要更宽的知识带宽
-> 如果大学要与这样一个不断演变的创新过程互动，那么它们就必须发展更宽的知识带宽。这意味着在保持卓越教学和基础科学研究的同时，获取更好的组织洞察力和营销创造力 (p.866)。
+> 如果大学要与这样一个不断演变的创新过程互动，那么它们就必须发展更宽的知识带宽。这意味着在保持卓越教学和基础科学研究的同时，获取更好的组织洞察力和营销[[Creativity|创造力]] (p.866)。
 >
 > If universities are to interact with such an evolving innovation process then they have to develop a broader knowledge bandwidth. This means gathering better organizational insights and marketing creativity without divesting from excellence in teaching and fundamental scientific research.
 

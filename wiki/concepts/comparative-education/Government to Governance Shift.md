@@ -18,7 +18,6 @@ tags:
   - theme/comparative-education
 related_concepts:
   - "[[Network Governance]]"
-  - "[[Praxis]]"
   - "[[Global-Local Binary]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Network]]"
@@ -53,7 +52,7 @@ updated: 2026-06-07
 >
 > **网络国家**。为了保持或恢复合法性，国家适应并转变为「网络国家」，由国际、跨国、国家、区域、地方和非政府政治机构之间的复杂权力共享和协商决策网络构成（Castells, 2000, 引自 [[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]）。
 >
-> **边界模糊**。Ball & Junemann (2012) 使用[[Network Governance|网络治理]]概念分析英格兰教育政策的变化，发现国家、经济和公民社会之间的边界正在变得模糊，教育的边界和空间视野正在以各种方式被拉伸、分散和重新配置。教育的定义、教学[[Praxis|实践]]的管理方式、教育的组织和资助方式都在被重新定义（引自 Beech & Artopoulos, 2015）。
+> **边界模糊**。Ball & Junemann (2012) 使用[[Network Governance|网络治理]]概念分析英格兰教育政策的变化，发现国家、经济和公民社会之间的边界正在变得模糊，教育的边界和空间视野正在以各种方式被拉伸、分散和重新配置。教育的定义、教学实践的管理方式、教育的组织和资助方式都在被重新定义（引自 Beech & Artopoulos, 2015）。
 >
 > **多元行动者**。参与教育空间的行动者包括国际机构、大学、企业、咨询公司、发展机构、区域集团和非政府组织。这些行动者不容易被归入[[Global-Local Binary|全球/地方二元对立]]，其话语权力也不总是通过国家政策来部署。
 >

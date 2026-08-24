@@ -40,14 +40,15 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Scientific Literacy]]"
   - "[[Scientific Attitude]]"
-  - "[[Praxis]]"
   - "[[Cultural Capital]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Science Capital]]"
   - "[[Attrition]]"
+  - "[[Creativity]]"
   - "[[Epistemology]]"
   - "[[Rich and Thick Description]]"
   - "[[Public Engagement with Science]]"
+  - "[[Praxis]]"
   - "[[Questionnaire]]"
 related_theories: []
 related_methods:
@@ -165,7 +166,7 @@ updated: 2026-08-23
 > - **87% vs 83% 坚实信任底座** 87% 的受访公众高度信任高校科学家能够诚信开展科研，83% 深刻认同科学对日常生活与国家经济繁荣作出了不可替代的巨大贡献。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026c, p. 12)]]
 > - **62%（较 2019 年 47% 激增 15%）信息渴求** 接近三分之二（五分之三）的公众明确表示日常生活中看到或听到的科学信息太少，展现出数字时代面对 AI 与气候危机时全社会对权威、优质科学对话的强烈渴求。
 > - **仅 12%（自 2008 年 21% 持续滑落）决策参与感冰点** 仅 12% 的公众认为普通民众在涉及科学与技术的国家重大决策中得到了充分参与，八成以上公众感到科技政策是由精英闭门制定，参与感滑落至近二十年历史最低点。（p. 47）
-> - **公平性与准入鸿沟忧虑** 绝大多数公众对科学机会的分配公平性深表担忧，明确指出追求科学探索与参与科学[[Praxis|实践]]的机会并未向所有社会阶层平等开放。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026c, p. 9)]]
+> - **公平性与准入鸿沟忧虑** 绝大多数公众对科学机会的分配公平性深表担忧，明确指出追求科学探索与参与科学实践的机会并未向所有社会阶层平等开放。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026c, p. 9)]]
 
 > [!contrast-table] 表2-2：英国公众参与科技决策与信息需求 17 年趋势表（2008–2025）
 > | 调查轮次 / 年份 | 主持委托机构 | 科技重大决策充分参与感（%） | 认为日常接触科学信息过少（%） | 高校科学家信任度（%） | 宏观社会背景与核心科技争议 |
@@ -213,7 +214,7 @@ updated: 2026-08-23
 > - **公众主体能动性与认知重构** 打破了只有专业科研学者才能开展野外实证探究的神秘壁垒，让全年龄段公民在亲近本土自然的过程中建立起动态生态系统思维，极大激发了公众保护生物多样性的[[Self-Efficacy|自我效能感]]与社区环保行动力。（p. 46）
 
 > [!case] 案例研究二：造梦机器与[[The Perception Census|感知普查]]：艺术体验与脑科学认知共创
-> - **学术主导与国家重大跨界工程** 由苏塞克斯大学萨克勒意识科学中心主任、英国皇家学会会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、先锋音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发，作为英国 2022 年非约束（Unboxed: Creativity in the UK）重大科技艺术节的核心科研工程。（p. 43）
+> - **学术主导与国家重大跨界工程** 由苏塞克斯大学萨克勒意识科学中心主任、英国皇家学会会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、先锋音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发，作为英国 2022 年非约束（Unboxed: [[Creativity]] in the UK）重大科技艺术节的核心科研工程。（p. 43）
 > - **双轨实验交互矩阵设计**
 >   - *线下沉浸式造梦机器（Dreamachine）* 依托定制白光脉冲频闪与环绕声场，在参与者闭目状态下通过视网膜与大脑节律共振，安全激发丰富动态的内心几何幻觉与深层知觉体验；
 >   - *线上感知普查（The Perception Census）* 将高度晦涩的计算神经科学与认知心理学实验转化为生动易懂的 10 大线上互动测试模块，系统测量颜色知觉差异、视错觉与几何扭曲敏感度、主观时间流速感知、声音视觉联觉机制以及对他人心智状态的推断能力。

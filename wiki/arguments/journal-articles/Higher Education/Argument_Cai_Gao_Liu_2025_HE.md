@@ -32,7 +32,6 @@ tags:
 related_concepts:
   - "[[Structural Holes]]"
   - "[[Space Production]]"
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Research Question]]"
 related_theories:
@@ -110,7 +109,7 @@ updated: 2026-06-11
 ### 论证步骤一：空间不是容器——GBA 空间的经验基础
 
 > [!info] Lefebvre 的[[Space Production|空间生产]]逻辑
-> Lefebvre 的核心命题是：空间不是中性的容器，而是由社会关系和[[Praxis|实践]]主动**生产**出来的。如果 [[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] 空间仅停留在政策文件和物理连接层面，它就只是一个"意识形态上层建筑"或"政治装置"（Lefebvre, 1991, p. 54）。空间要获得"真实"存在，必须通过使用者的日常实践——即活生生空间——来完成。
+> Lefebvre 的核心命题是：空间不是中性的容器，而是由社会关系和实践主动**生产**出来的。如果 [[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]] 空间仅停留在政策文件和物理连接层面，它就只是一个"意识形态上层建筑"或"政治装置"（Lefebvre, 1991, p. 54）。空间要获得"真实"存在，必须通过使用者的日常实践——即活生生空间——来完成。
 
 > [!note]- GBA 空间的经验基础：感知维度
 > 对大多数受访者而言，GBA 高等教育空间最初被本能地理解为现有和新兴场所的**集群**——这些场所随着持续的投资、制度化、网络和流动而发展。具体表现包括三个层次：

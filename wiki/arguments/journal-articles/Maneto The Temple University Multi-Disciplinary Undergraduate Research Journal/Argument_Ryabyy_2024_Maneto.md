@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Learning by Doing]]"
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Growth]]"
   - "[[Progressive Education]]"
@@ -136,7 +135,7 @@ citation_aliases:
 > 这不是客套话。十月革命前后，苏俄教育面临一个根本问题：如何在社会主义框架下教育下一代？Dewey 的"[[Learning by Doing|从做中学]]"（learning by doing）和"学校即社会"的理念为苏联教育者提供了一个不来自沙皇旧体制的理论资源。一位苏联教育官员在 1928 年告诉 Dewey 说"你在革命最初几年是我们最知名的作者"——这意味着当 Shatskii 在农村建立实验学校、当 Lunacharsky 设计连接工厂和课堂的新学校时，Dewey 的著作就在他们的书桌上。
 >
 > > [!example] 日常类比
-> > 你读了一位外国作家的书，深受启发，照着书里的方法在自己的社区办学。十年后，你终于有机会见到作者本人。你不是去"学习"的——你已经有十年的[[Praxis|实践]]经验了——你是去确认、交流和展示的。苏联教育者面对 Dewey 时，就是这种心态。
+> > 你读了一位外国作家的书，深受启发，照着书里的方法在自己的社区办学。十年后，你终于有机会见到作者本人。你不是去"学习"的——你已经有十年的实践经验了——你是去确认、交流和展示的。苏联教育者面对 Dewey 时，就是这种心态。
 >
 > ---
 >

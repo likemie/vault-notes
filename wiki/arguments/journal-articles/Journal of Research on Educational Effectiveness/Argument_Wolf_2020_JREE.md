@@ -39,12 +39,14 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Prediction Interval]]"
   - "[[Causality]]"
   - "[[Implementation Fidelity]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-regression]]"
+  - "[[Robust Variance Estimation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
 related_persons: []
@@ -76,7 +78,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法**[[Meta-analysis]]（多元[[Meta-regression|元回归]]，multivariate meta-regression），使用 robust variance estimation (RVE) 处理[[Effect Size|效应量]]依赖性，small-sample correction (Tipton, 2015) 防止 I 类错误膨胀
+> - **方法**[[Meta-analysis]]（多元[[Meta-regression|元回归]]，multivariate meta-regression），使用 [[Robust Variance Estimation]] (RVE) 处理[[Effect Size|效应量]]依赖性，small-sample correction (Tipton, 2015) 防止 I 类错误膨胀
 > - **样本**[[What Works Clearinghouse|WWC]] 数据库中 K-12 数学和阅读/读写领域的 755 个效应量，来自 169 项研究（均达到 WWC 标准）(p. 433)
 > - **数据来源** What Works [[Educational Evidence Clearinghouses|Clearinghouse]] (WWC) 数据库（2018 年 1 月提取），辅以对原始研究的个别审查以填充缺失数据、作者邮件询问资金来源(pp. 433–434)
 > - **关键[[Coding in Qualitative Research|编码]]** 每个研究编码为开发者委托（作者为开发者雇员 或 开发者资助）vs. 独立研究；结果测量编码为研究者/开发者自编 vs. 独立测量(pp. 434–435)
@@ -96,7 +98,7 @@ citation_aliases:
 > [!success] 主要发现
 > - **全样本** 控制协[[Variable|变量]]后，独立研究 ES = +0.168，开发者研究 ES = +0.309，差异 = 0.141 SD(p. 441)
 > - **同一干预子样本** 控制协变量和干预固定效应后，独立研究 ES = +0.194，开发者研究 ES = +0.324，差异 = 0.130 SD(p. 439)
-> - **[[Effect Size|效应量]]分布[[Heterogeneity|异质性]]** 独立研究 95% 预测区间 (−0.452, +0.788)；开发者研究 (−0.311, +0.929)
+> - **[[Effect Size|效应量]]分布[[Heterogeneity|异质性]]** 独立研究 95% [[Prediction Interval|预测区间]] (−0.452, +0.788)；开发者研究 (−0.311, +0.929)
 > - **[[Publication Bias|发表偏倚]]** Vevea-Hedges 校正后开发者-独立研究差异从 0.115 降至 0.076，约 66% 的差异可归因于发表偏倚(p. 442)
 > - **描述性差异** 开发者研究更倾向[[Quasi-Experimental Designs|准实验设计]]（51% vs. 15%）、自编测量（29% vs. 8%）、更小[[Sample Size Determination|样本量]]（均值 392 vs. 659），控制后效应仍在(pp. 434–436)
 > - **敏感性分析** 移除研究生研究、仅实验设计、仅准实验设计——[[Developer Effect|开发者效应]]均持续存在且大小相似

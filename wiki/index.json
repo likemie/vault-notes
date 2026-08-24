@@ -4597,6 +4597,17 @@
     ]
   },
   {
+    "title": "Teams-Games-Tournament",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teams-Games-Tournament.md",
+    "aliases": [
+      "团队游戏竞赛法",
+      "团队-游戏-竞赛法",
+      "TGT",
+      "小组游戏竞赛法"
+    ]
+  },
+  {
     "title": "Think-Pair-Share",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Think-Pair-Share.md",

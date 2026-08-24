@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Champ]]"
-  - "[[Praxis]]"
   - "[[Filial Piety]]"
   - "[[Affect-Respect and Ought-Respect]]"
   - "[[Benevolence]]"
@@ -44,7 +43,7 @@ updated: 2026-05-22
 ## 定义
 
 > [!info]
-> 五伦是[[Confucius|孔子]]和后世儒家定义的五种基本人际关系，每种关系对应一个特定的道德德目。这些关系构成了一个人[[Self-Cultivation|修身]]的社会[[Champ|场域]]——一个人正是通过在这些关系中的[[Praxis|实践]]而被塑造为特定类型的人([[Argument_Li_2012_Cambridge|Li, 2012, pp.38-39]])。
+> 五伦是[[Confucius|孔子]]和后世儒家定义的五种基本人际关系，每种关系对应一个特定的道德德目。这些关系构成了一个人[[Self-Cultivation|修身]]的社会[[Champ|场域]]——一个人正是通过在这些关系中的实践而被塑造为特定类型的人([[Argument_Li_2012_Cambridge|Li, 2012, pp.38-39]])。
 
 > [!quote]
 > "一个人的存在不可避免地嵌入在深刻的人际关系中。随着一个人的成长和变老，其关系和角色也会变化。这些关系及其相关的社会和道德意义——而非我们的生物性——定义了我们个体的人性。"([[Argument_Li_2012_Cambridge|Li, 2012, p.38]])
@@ -85,7 +84,7 @@ updated: 2026-05-22
 ## 理论基础
 
 > [!tip]-
-> - [[Self-Cultivation]] — 五伦提供了修身的主要[[Praxis|实践]][[Champ|场域]]
+> - [[Self-Cultivation]] — 五伦提供了修身的主要实践[[Champ|场域]]
 > - [[Benevolence]] — 在五伦中的完善实践导向仁
 > - [[Ritual Propriety]] — 礼是调节五伦关系的社会语法
 

@@ -35,6 +35,11 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
+  - "[[Operationalization]]"
+  - "[[Critical Thinking]]"
+  - "[[Self-Efficacy]]"
+  - "[[Scientific Attitude]]"
+  - "[[Metacognition]]"
   - "[[Qualitative Codebook]]"
   - "[[Rote Learning]]"
   - "[[Sample Size Determination]]"
@@ -47,12 +52,10 @@ related_concepts:
   - "[[Statistical Significance]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Academic Engagement]]"
-  - "[[Metacognition]]"
   - "[[Interaction Effect]]"
   - "[[Hypothesis]]"
   - "[[Confidence Interval]]"
   - "[[Formative Assessment]]"
-  - "[[Self-Efficacy]]"
   - "[[Learner Autonomy]]"
   - "[[Champ]]"
   - "[[Homework]]"
@@ -142,20 +145,20 @@ issuing_organization: ""
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 认识论认知与学习成果操作化定义与[[Coding in Qualitative Research|编码]]规程
-> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 具体编码、指标与类别边界 |
+> [!index-table] 认识论认知与学习成果[[Operationalization|操作化]]定义与[[Coding in Qualitative Research|编码]]规程
+> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **知识本质：确定性**<br>（Certainty） | 个体对知识是否固定、绝对且不随证据修正的信念；成熟取向将知识理解为暂时、可发展并可修正。 | certainty；与知识简单性共同构成知识本质维度。 |
-> | **知识本质：简单性**<br>（Simplicity） | 个体对知识是孤立事实的集合，还是相互联系、具有复杂结构的概念网络的信念。 | simplicity；与确定性区分编码。 |
-> | **认识本质：知识来源**<br>（Source） | 个体对知识主要来自外部权威，还是由学习者通过证据、经验与推理主动建构的信念。 | source；原量表中的朴素方向在效应量处理中反向计分。 |
-> | **认识本质：知识确证**<br>（Justification） | 个体评价主张、证据与理由，并据此确认或修正知识的方式。 | justification；强调证据评估与多重观点比较。 |
-> | **学习本质：学习能力**<br>（Ability to learn） | 个体认为学习能力是固定禀赋，还是能够通过努力、策略与经验发展的信念。 | ability to learn；与学习速度分别编码。 |
-> | **学习本质：学习速度与过程**<br>（Learning speed / process） | 个体认为学习应当迅速完成，还是需要渐进投入、反复理解与意义建构的信念。 | learning speed；learning process／rigid learning；机械学习方向反向处理。 |
-> | **总体认识论认知**<br>（Total EC） | 原研究仅报告认识论认知总分，或无法可靠拆分为上述子构念时使用的综合类别。 | beliefs about knowledge；beliefs about learning；total epistemic cognition。 |
-> | **高阶认知成果**<br>（Higher-order cognitive outcome） | 需要分析、评价、整合、探究或复杂问题解决的学习表现。 | 认知冲突、概念理解、批判性思维、信息素养、数学问题解决、进化论接受、多文本选择与使用、科学探究技能。 |
-> | **低阶认知成果**<br>（Lower-order cognitive outcome） | 以学科内容掌握、事实知识或标准化成绩为主的学习表现。 | 总体及韩国语、数学、科学、社会学科标准化测验；进化论内容知识。 |
-> | **动机与情感成果**<br>（Motivation / affect） | 与学习目标、兴趣、自我信念、价值判断、压力及态度有关的心理结果。 | 成就目标、智力内隐观、跨文化敏感性、情境兴趣、学习动机、数学效用与自我效能、学业压力、考试焦虑、小组活动偏好、科学态度。 |
-> | **自我调节成果**<br>（Self-regulation） | 学习者对认知、策略、行为和情绪进行计划、监控与调节的过程。 | 元认知、自我调节学习、深层／表层策略、学习风格、数学备考、学业情绪调节、提问频率。 |
+> | **知识本质：确定性**<br>（Certainty） | 个体对知识是否固定、绝对且不随证据修正的信念；成熟取向将知识理解为暂时、可发展并可修正。 | 采用 Schommer、Hofer 等理论传统下的认识论信念问卷，以双极量表或独立分量表测量；纳入 Bak & Chai (2006)、Choi (2019)、Kim & Yun (2009)、Yu (2020) 等研究。 |
+> | **知识本质：简单性**<br>（Simplicity） | 个体对知识是孤立事实的集合，还是相互联系、具有复杂结构的概念网络的信念。 | 以知识简单性分量表测量事实孤立观与复杂网络观；纳入 Bak & Chai (2006)、Choi (2019)、Kim & Yun (2009)、Song & Jeong (2012) 等研究。 |
+> | **认识本质：知识来源**<br>（Source） | 个体对知识主要来自外部权威，还是由学习者通过证据、经验与推理主动建构的信念。 | 采用知识来源或权威信念分量表，朴素方向在[[Effect Size\|效应量]]处理中反向计分；纳入 Choi & Kwon (2012)、Mun & Koh (2009)、Yoon et al. (2014) 等研究。 |
+> | **认识本质：知识确证**<br>（Justification） | 个体评价主张、证据与理由，并据此确认或修正知识的方式。 | 采用确证分量表测量证据评估与多重观点比较；纳入 Bak & Chai (2006)、Choi (2019)、Mun & Koh (2009)、Yu (2020) 等研究。 |
+> | **学习本质：学习能力**<br>（Ability to learn） | 个体认为学习能力是固定禀赋，还是能够通过努力、策略与经验发展的信念。 | 采用学习能力分量表，并与学习速度分开计分；纳入 Choi & Kwon (2012)、So (2013)、Yoo & Yum (2019)、Yu (2003) 等研究。 |
+> | **学习本质：学习速度与过程**<br>（Learning speed / process） | 个体认为学习应当迅速完成，还是需要渐进投入、反复理解与意义建构的信念。 | 采用学习速度、学习过程或机械学习分量表，朴素／机械方向反向处理；纳入 Kim & Chung (2015)、So (2013)、Yoon et al. (2014) 等研究。 |
+> | **总体认识论认知**<br>（Total EC） | 原研究仅报告认识论认知总分，或无法可靠拆分为上述子构念时使用的综合类别。 | 使用认识论认知、知识信念或学习信念总分；纳入 Chang (2022)、Kim (2015)、Kim et al. (2025)、Mun (2009) 等研究。 |
+> | **高阶认知成果**<br>（Higher-order cognitive outcome） | 需要分析、评价、整合、探究或复杂问题解决的学习表现。 | 以认知冲突、概念理解、[[Critical Thinking\|批判性思维]]、信息素养、数学问题解决、多文本使用及科学探究任务测量；纳入 Chang (2022)、Kang et al. (2007)、Kim & Yun (2009)、Yu (2020) 等研究。 |
+> | **低阶认知成果**<br>（Lower-order cognitive outcome） | 以学科内容掌握、事实知识或标准化成绩为主的学习表现。 | 采用总体及韩国语、数学、科学、社会学科标准化测验或进化论内容知识测验；纳入 Kim (2015)、Mun (2009)、Mun & Koh (2009)、Yu (2003) 等研究。 |
+> | **动机与情感成果**<br>（Motivation / affect） | 与学习目标、兴趣、自我信念、价值判断、压力及态度有关的心理结果。 | 采用成就目标、智力内隐观、情境兴趣、学习动机、数学效用、[[Self-Efficacy\|自我效能]]、压力、焦虑及[[Scientific Attitude\|科学态度]]量表；纳入 Bak & Chai (2006)、Choi (2019)、So (2013)、Yoo & Yum (2019) 等研究。 |
+> | **自我调节成果**<br>（Self-regulation） | 学习者对认知、策略、行为和情绪进行计划、监控与调节的过程。 | 采用[[Metacognition\|元认知]]、自我调节学习、深层／表层策略、学习风格、备考行为、情绪调节及提问频率量表；纳入 Choi & Kwon (2012)、Kim & Chung (2015)、Yoon et al. (2014) 等研究。 |
 >
 > **图表解读** 本表将认识论认知区分为知识本质、认识本质、学习本质及总体构念，并将学习成果划分为高阶认知、低阶认知、动机／情感与自我调节四类，为构念与成果类型的调节分析提供统一编码边界。
 

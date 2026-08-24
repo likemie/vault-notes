@@ -40,7 +40,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Document]]"
   - "[[Rote Learning]]"
-  - "[[Praxis]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Progressive Education]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[External Validity]]"
@@ -243,7 +243,7 @@ citation_aliases:
 >   拒绝对外部模式的盲目照搬，通过校本研讨对比新旧教法，解构传统讲授的局限，寻找到契合本地考情与学情的本土话语(p. 599)。
 
 > [!warrant]- 理论推理桥梁
-> Engeström（2001）指出，系统间的矛盾是扩展性改造的催化剂。城市二校与农村二校的经验证明，当学校领袖成功将外部引介的教学理念与本土高利害考试中的特定痛点（高阶思维要求与农村家庭支持缺失）相结合时，活动系统的主体便获得了重构规则与分工的合法性。这种重构反过来改变了只有教师主导才能考高分的传统信念，实现了应试与改革的相互借力(pp. 600–602)。
+> Engeström（2001）指出，系统间的矛盾是扩展性改造的催化剂。城市二校与农村二校的经验证明，当学校领袖成功将外部引介的教学理念与本土高利害考试中的特定痛点（[[Higher-Order Thinking Skills|高阶思维]]要求与农村家庭支持缺失）相结合时，活动系统的主体便获得了重构规则与分工的合法性。这种重构反过来改变了只有教师主导才能考高分的传统信念，实现了应试与改革的相互借力(pp. 600–602)。
 
 ---
 

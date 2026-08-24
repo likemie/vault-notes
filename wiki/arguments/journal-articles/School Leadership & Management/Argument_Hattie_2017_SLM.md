@@ -31,7 +31,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Paradigm]]"
-  - "[[Praxis]]"
+  - "[[Phronesis]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -94,7 +94,7 @@ citation_aliases:
 > - 声称 [[Visible Learning|VL]] 的核心猜想——通过学生眼睛看学习、学生成为自身教师、成功标准、Know thy impact、信任关系、反馈、学习策略、邀请性学校——"so far no critique (that I know about)" 证伪了这些猜想
 > - 指出 Hattie, Masters & Birch(2016)已共同撰写了关于 VL 实施效果的案例书(p.427–428)
 > - 将 Eacott 的批评定性为忽视了 VL 的核心教育思想，仅关注管理主义、研究方法和"不加批判接受的指令"
-> - 回应末尾宣称"教育者不是不加批判的[[Cult of the Guru|大师崇拜]]信徒"，以教师和[[School Leadership|学校领导]]的[[Praxis|实践]]智慧为最终检验标准(p.430)
+> - 回应末尾宣称"教育者不是不加批判的[[Cult of the Guru|大师崇拜]]信徒"，以教师和[[School Leadership|学校领导]]的[[Phronesis|实践智慧]]为最终检验标准(p.430)
 
 ## 关键引用
 

@@ -30,7 +30,6 @@ issuing_organization: Aga Khan University Institute for Educational Development
 sources:
   - "[[sources/Lakhani_2012_AKUIED/Lakhani_2012_AKUIED|Lakhani_2012_AKUIED]]"
 related_concepts:
-  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
@@ -52,6 +51,7 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Constructivist Paradigm]]"
   - "[[Leading Questions]]"
+  - "[[Cooperative Learning]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[IB Learner Profile]]"
   - "[[Sample Size Determination]]"
@@ -74,7 +74,7 @@ updated: 2026-07-02
 ## 研究问题
 
 > [!question]
-> [[National Education Policy 2009 Pakistan|巴基斯坦 2009 年国家教育政策]]将"培养具备分析和原创思维能力的自力更生个体"列为核心目标之一（Ministry of Education, 2009, p. 11）。然而，实际运作中的课程和学校[[Praxis|实践]]并未能实现这一目标。既有的课程实施方式和教学常规无法有效培养学生的独立思考和批判分析能力。政策文本与实践之间的落差引出一个问题：如果国家政策期望课程培养自主思考者，那么已经内置了[[Critical Thinking|批判性思维]]成分的课程，是否以及如何在教学中实现这一目标？
+> [[National Education Policy 2009 Pakistan|巴基斯坦 2009 年国家教育政策]]将"培养具备分析和原创思维能力的自力更生个体"列为核心目标之一（Ministry of Education, 2009, p. 11）。然而，实际运作中的课程和学校实践并未能实现这一目标。既有的课程实施方式和教学常规无法有效培养学生的独立思考和批判分析能力。政策文本与实践之间的落差引出一个问题：如果国家政策期望课程培养自主思考者，那么已经内置了[[Critical Thinking|批判性思维]]成分的课程，是否以及如何在教学中实现这一目标？
 
 > [!claim] 核心主张
 > [[IB Diploma Programme|IB 文凭项目]]的[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）课程中，认知者通过扮演**提问者（questioning mind）**、**[[Reflexivity|反思性]]思考者（reflective thinker）**和**[[Creativity|创造性]]沟通者（creative communicator）**三种角色来行使知识建构的自主性。这三种角色构成了一个完整的自主性认知循环。提问启动探究，反思进行深度加工，创造性表达完成知识输出。自主性的实现依赖两个条件的同时满足：批判性思维能力的建设，以及认知者对自身反思能力的自信。
@@ -144,7 +144,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > | **教师样本** | 1 名 TOK 教师，具有[[International Education\|国际教育]]背景和[[Critical Thinking\|批判性思维]]专业训练 |
 > | **数据收集时间** | 访谈集中在 2012 年 2–3 月（学生访谈：3 月 8 日、12 日、14 日；教师访谈：2 月 8 日） |
 
-> [!ref-table] 表1：研究参与者信息与自主性[[Praxis|实践]]分析
+> [!ref-table] 表1：研究参与者信息与自主性实践分析
 > | 认知者 | 年龄 | 先前教育背景 | 课堂参与特征 | 自主性实践与分析价值 |
 > |---|---|---|---|---|
 > | **Ariana** | 15 | 从 [[International Baccalaureate\|IB]] 中学项目（MYP）过渡至 DP；此前在肯尼亚接受 O-level 课程教育 | 积极参与：主动发言、回应他人观点、在作业中尝试超出课堂内容的例子 | **主动探索型自主** 最完整的 [[International Baccalaureate\|IB]] 教育轨迹与跨国教育经历（肯尼亚 $\rightarrow$ 巴基斯坦），赋予其极高的课程准备度与积极探索能力。三者中年龄最小（p.146）。 |
@@ -187,7 +187,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > [!chain-link] TOK 的结构特征与自主性空间
 > TOK 是[[IB Diploma Programme|IB DP]] 三项核心要素中唯一直接以[[Epistemology|认识论]]为内容的课程。其核心设计是要求学生反思自身如何知道所知，而非记忆已知什么，这使其根本区别于以内容覆盖为逻辑的传统课程（p.173）。课程围绕**认知方式（ways of knowing）**和**知识领域（areas of knowledge）**两个维度展开，认知者（knower）在结构中占据中心位置（IBO, 2011）。这一结构意味着课程的核心活动是促使每个认知者对自己已经接受的知识和信念进行系统性质疑。
 >
-> TOK 在结构上是一个已经包含[[Critical Thinking|批判性思维]]成分的课程。案例选择的逻辑是追问在这样一个已经为自主性预留了空间的课程中，认知者实际上以什么方式行使了自主性，以及什么条件决定了自主性[[Praxis|实践]]的质量。
+> TOK 在结构上是一个已经包含[[Critical Thinking|批判性思维]]成分的课程。案例选择的逻辑是追问在这样一个已经为自主性预留了空间的课程中，认知者实际上以什么方式行使了自主性，以及什么条件决定了自主性实践的质量。
 
 > [!example]- 图1：TOK 模型图（Diagram of TOK Model）
 > ![](https://img.mylikemie.icu/sources/Lakhani_2012_AKUIED/figures/Lakhani_2012_AKUIED_Fig1_TOK_Model.jpg)
@@ -292,7 +292,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > [!pathways] 三项课程建议
 > - **引入视觉媒介作为意义建构和表征工具** 将图像、视频、海报等视觉媒介纳入书面评估的合法表达方式，而非仅将其视为口头演示的辅助手段。这一建议直接回应了 Sabaina 的案例（p.178）。
 > - **通过引导式方法、反思性问题和角色期望的明确沟通来提供支架（scaffolding）** 在独立阅读和探究任务中，教师应以[[Leading Questions|引导性问题]]和明确的角色期望搭建支架。支架的目的是帮助认知者建立从跟随到独立的过渡路径。Sabaina 不知道自己该怎么推进的困惑，正提示了支架的缺失（p.179）。
-> - **采用合作学习策略以支持自主性中的关联性** 辩论、戏剧和[[Case Study|案例研究]]等策略可以为学生提供互动空间，让他们在执行独立任务时分享自己的关切和困难。与他人的对话和协作是自主性发展的社会条件，而非其对立面。
+> - **采用[[Cooperative Learning|合作学习]]策略以支持自主性中的关联性** 辩论、戏剧和[[Case Study|案例研究]]等策略可以为学生提供互动空间，让他们在执行独立任务时分享自己的关切和困难。与他人的对话和协作是自主性发展的社会条件，而非其对立面。
 
 ---
 
@@ -301,7 +301,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > [!finding-cards] 核心发现
 > 1. **知识建构遵循提问、反思、表达三阶段认知循环** 认知者通过自发性提问启动自主探究，通过对搜索内容和生活经验的反思进行深度加工，通过课堂讨论和论文进行[[Creativity|创造性]]表达。三种角色分别对应循环的三个功能环节（pp.175–177）。
 > 2. **自主性依赖能力与信心的双条件机制** [[Critical Thinking|批判性思维]]的知识和技能提供能力基础，但对自身反思和意义建构能力的自信是自主性从可能到实现的[[Necessary and Sufficient Conditions|必要条件]]（pp.177–178）。Sabaina 的案例证明：有能力而无信心时，认知者会退缩到模仿和最低要求的完成。
-> 3. **自主性本质上是社会性[[Praxis|实践]]** 阅读不是[[Learner Autonomy|自主学习]]经验的终点。即使在最独立的反思活动中，认知者仍依赖课堂互动、讨论和[[Dialogue in Education|对话]]来激发思维、检验观点和建立自信（p.178）。自主性是在社会支持中独立判断，而非独自学习。
+> 3. **自主性本质上是社会性实践** 阅读不是[[Learner Autonomy|自主学习]]经验的终点。即使在最独立的反思活动中，认知者仍依赖课堂互动、讨论和[[Dialogue in Education|对话]]来激发思维、检验观点和建立自信（p.178）。自主性是在社会支持中独立判断，而非独自学习。
 
 ---
 
@@ -334,7 +334,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 > [!warning]
 > **单案例设计的推广边界** 研究涉及一所学校的三名学生和一名教师，[[Sample Size Determination|样本量]]极小且高度情境特定。The Urban Academy 作为一所提供 [[IB Diploma Programme|IBDP]] 的私立学校，其资源、教师质量和学生群体与巴基斯坦公立学校系统存在系统性差异，研究结论不能直接推广到更广泛的教育情境（pp.173–174）。
 >
-> **横断设计的时序局限** 数据收集限于 IBDP 第一年。学生在两年项目结束时，经过更长时间的 [[Theory of Knowledge|TOK]] 训练和更多的论文写作经验后，可能出现不同的自主性[[Praxis|实践]]模式。由于没有进行纵向追踪，无法判断观察到的三种角色是稳定特征还是发展阶段的产物。
+> **横断设计的时序局限** 数据收集限于 IBDP 第一年。学生在两年项目结束时，经过更长时间的 [[Theory of Knowledge|TOK]] 训练和更多的论文写作经验后，可能出现不同的自主性实践模式。由于没有进行纵向追踪，无法判断观察到的三种角色是稳定特征还是发展阶段的产物。
 >
 > **未讨论的[[Reflexivity|反身性]]问题** 研究未报告研究者自身在田野中的位置、与被研究学校的关系以及这些因素对数据收集和解读的潜在影响。在巴基斯坦的多语环境中，访谈语言（英语还是乌尔都语）可能影响学生表达的丰富性和准确性，但论文未对此做出说明。研究也没有报告是否对参与者进行了成员检查（[[Member Checking]]）或同伴审阅。
 

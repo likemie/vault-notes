@@ -34,10 +34,11 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Disciplinary Socialization]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
   - "[[Lifelong Learning]]"
   - "[[Document]]"
+  - "[[Creativity]]"
   - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
@@ -177,7 +178,7 @@ updated: '2026-08-19'
 ### 全球公民属性的隐性定位与七域分类框架的建构
 
 > [!line-a] 探索公民属性的融合与七域分类工具
-> 虽然全球公民属性（如环境素养、文化理解、全球视野）的发展得分和职场应用评分均偏低，但访谈表明学生普遍认可其重要性，倾向于将其视为融入具体学科日常实践中的隐性成分，而非脱离学科单独开设的课程（p. 96）。鉴于这些核心能力的脱节，需要建立一个更具系统性的评估框架，将毕业生特质整合为七个维度：知识、研究、沟通、人际技能、高阶思维、个人资源丰富性（包含职业生涯管理）和全球公民素养，以实现博士培养质量的系统提升与评估（p. 98, Table 5）。
+> 虽然全球公民属性（如环境素养、文化理解、全球视野）的发展得分和职场应用评分均偏低，但访谈表明学生普遍认可其重要性，倾向于将其视为融入具体学科日常实践中的隐性成分，而非脱离学科单独开设的课程（p. 96）。鉴于这些核心能力的脱节，需要建立一个更具系统性的评估框架，将毕业生特质整合为七个维度：知识、研究、沟通、人际技能、[[Higher-Order Thinking Skills|高阶思维]]、个人资源丰富性（包含职业生涯管理）和全球公民素养，以实现博士培养质量的系统提升与评估（p. 98, Table 5）。
 > 
 > > [!logic-map] 博士毕业生特质七域分类框架
 > > ```mermaid

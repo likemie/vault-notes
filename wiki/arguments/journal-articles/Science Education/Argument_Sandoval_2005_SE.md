@@ -12,13 +12,14 @@ citation_aliases:
   - "Sandoval (2005)"
 tags: [theme/epistemology, theme/nature-of-science, theme/inquiry]
 related_concepts:
-  - "[[Praxis]]"
   - "[[Practical Epistemology]]"
   - "[[Formal Epistemology]]"
   - "[[Epistemology]]"
   - "[[Evaluation Research]]"
   - "[[Questionnaire]]"
+  - "[[Praxis]]"
   - "[[Epistemological Break]]"
+  - "[[Creativity]]"
   - "[[Scientific Method]]"
   - "[[Ontology]]"
   - "[[Epistemological Beliefs]]"
@@ -58,7 +59,7 @@ journal: Science Education
 ## 研究问题
 
 > [!question]
-> 为什么基于探究的教学往往难以改变学生对科学本质（Nature of Science）的认识？学生在探究[[Praxis|实践]]中展现出的能力与他们对形式科学表达出的幼稚信念之间，存在怎样的矛盾？
+> 为什么基于探究的教学往往难以改变学生对科学本质（Nature of Science）的认识？学生在探究实践中展现出的能力与他们对形式科学表达出的幼稚信念之间，存在怎样的矛盾？
 
 > [!claim] 核心主张
 > 学生的探究活动是由[[Practical Epistemology|实践认识论]]（practical epistemologies）指导的，这与他们对专业科学的[[Formal Epistemology|形式认识论]]（formal epistemologies）信念不同。只通过简单的探究活动不足以改变形式[[Epistemology|认识论]]，科学教育研究必须直接考察实践认识论，以建立更可靠的认识论发展心理学理论。
@@ -82,19 +83,19 @@ journal: Science Education
 
 
 > [!warrant]- 理论如何支撑论证
-> 区分这两种认识论可以发现，传统的科学本质研究测量的是形式认识论，而探究教学干预的是实践认识论。如果不理解学生在自身探究中使用的实践认识论，就无法设计出能有效将[[Praxis|实践]]经验转化为对形式科学深刻理解的教学路径。
+> 区分这两种认识论可以发现，传统的科学本质研究测量的是形式认识论，而探究教学干预的是实践认识论。如果不理解学生在自身探究中使用的实践认识论，就无法设计出能有效将实践经验转化为对形式科学深刻理解的教学路径。
 
 ---
 
 ## 论证展开与案例分析
 
 > [!argument-steps] 核心论证展开
-> 对科学本质的[[Evaluation Research|评估研究]]和科学探究[[Praxis|实践]]的[[Intervention Research|干预研究]]进行平行对比，揭示了当前科学教育中的[[Epistemological Break|认识论断裂]]，并论证了转向[[Practical Epistemology|实践认识论]]的必要性。
+> 对科学本质的[[Evaluation Research|评估研究]]和科学探究实践的[[Intervention Research|干预研究]]进行平行对比，揭示了当前科学教育中的[[Epistemological Break|认识论断裂]]，并论证了转向[[Practical Epistemology|实践认识论]]的必要性。
 
 > [!chain-link] 步骤一：确立科学本质的核心共识
 > - **[[Epistemology|认识论]]共识作为评估基准**
 >   尽管科学哲学家对科学本质的具体细节存在争议，但科学教育界对以下四个主题有基本共识，它们构成了学生应该掌握的最低限度的认识论观念：
->   1. **科学知识是建构的（Constructed）** 科学既不是被动发现的“事实集合”，也不是绝对的真理，而是由科学家基于现有理论创造性地提出，并必须在社会共同体中通过说服来确立权威。
+>   1. **科学知识是建构的（Constructed）** 科学既不是被动发现的“事实集合”，也不是绝对的真理，而是由科学家基于现有理论[[Creativity|创造性]]地提出，并必须在社会共同体中通过说服来确立权威。
 >   2. **[[Scientific Method|科学方法]]是多样的（Diverse Methods）** 打破“存在唯一且线性的科学方法”的神话，承认科学包含观察、建模、受控实验、历史推演等多种合法探究途径。
 >   3. **科学知识具有不同形式（Forms of Knowledge）** 科学知识由数据、假说、定律、理论和模型等构成，它们具有不同的认识论地位和功能（例如定律描述规律，理论提供因果解释）。
 >   4. **科学知识具有不同程度的确定性（Varying Certainty）** 所有科学知识本质上都是暂时的（tentative），但确定性程度不同；既包含极难被颠覆的核心共识，也包含充满不确定性的前沿主张。
@@ -150,7 +151,7 @@ journal: Science Education
 
 > [!implication]- 对未来研究和教学的启示
 > - **教学启示** 探究环境的设计必须包含显式的认识论提示，促使学生将自己的探究决策（如：为什么我要这个数据？）与专业科学家的工作建立显性连接。
-> - **研究启示** 需要开发新的方法学（如录像分析、实时干预），去捕捉学生在[[Praxis|实践]]中如何调动[[Epistemic Resources|认识论资源]]。
+> - **研究启示** 需要开发新的方法学（如录像分析、实时干预），去捕捉学生在实践中如何调动[[Epistemic Resources|认识论资源]]。
 
 ---
 

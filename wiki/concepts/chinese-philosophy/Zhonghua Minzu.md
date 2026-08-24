@@ -22,7 +22,6 @@ tags:
   - theme/nation-building
   - paradigm/critical
 related_concepts:
-  - "[[Praxis]]"
   - "[[Official Knowledge]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
@@ -60,7 +59,7 @@ related_arguments:
 ## 定义
 
 > [!def] 核心定义
-> 中华民族（Zhonghua Minzu / Chinese nation），是一个现代政治与文化建构概念。该词由梁启超于 1902 年引入，用以指代涵盖中国境内所有民族的单一国族共同体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 104)]]。1988 年，社会学家[[Fei Xiaotong|费孝通]]在“中华民族多元一体格局”论述中对其进行了系统重构，强调中华民族作为整体是一体，内部 56 个民族是多元[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。这一定义在[[Praxis|实践]]中试图将宪法上界定的多民族国家，转变为具有族群多样性的单一国族实体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。
+> 中华民族（Zhonghua Minzu / Chinese nation），是一个现代政治与文化建构概念。该词由梁启超于 1902 年引入，用以指代涵盖中国境内所有民族的单一国族共同体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 104)]]。1988 年，社会学家[[Fei Xiaotong|费孝通]]在“中华民族多元一体格局”论述中对其进行了系统重构，强调中华民族作为整体是一体，内部 56 个民族是多元[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。这一定义在实践中试图将宪法上界定的多民族国家，转变为具有族群多样性的单一国族实体[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 101)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向官方主导的、将中国境内 56 个民族凝聚为单一国族共同体的政治与文化建构。
@@ -194,7 +193,7 @@ related_arguments:
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 探究了中华民族复兴[[Retrotopia|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的[[Praxis|实践]]。
+> - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 探究了中华民族复兴[[Retrotopia|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的实践。
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 对中国历史教科书中的中华民族族裔文化观与领土观进行了实证话语对比分析。
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 实证分析 217 册必修教材中“中华民族”话语的汉儒正统化及其在少数民族学生中的[[Reflexivity|反思性]]回应。
 > - [[2020 Inner Mongolia Bilingual Education Reform]] — 国家为推广通用语言文字与铸牢中华民族共同体意识而实施的语言替代性改革实证案例。

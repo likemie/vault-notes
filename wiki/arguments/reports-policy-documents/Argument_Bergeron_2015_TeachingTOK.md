@@ -22,9 +22,9 @@ related_concepts:
   - "[[Research Question]]"
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemological Beliefs]]"
   - "[[Self-Efficacy]]"
-  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[IB Diploma Programme]]"
   - "[[Sample Size Determination]]"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Knowledge Framework]]"
   - "[[Dialogue in Education]]"
   - "[[Homework]]"
+  - "[[Cooperative Learning]]"
   - "[[Growth]]"
 related_theories: []
 related_methods:
@@ -93,7 +94,7 @@ issuing_organization: "International Baccalaureate Organization"
 ## 研究问题
 
 > [!question] [[Research Question|研究问题]]
-> [[International Baccalaureate|国际文凭]]（IB）的核心课程[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）在全球范围内的实施现状、教师认知以及对师生的深远影响是什么？具体探究：教师对课程目的、益处与挑战的认知；课程对学生高阶思维及未来成功的影响；教学过程对教师自身[[Epistemological Beliefs|认识论信念]]、[[Self-Efficacy|自我效能]]及教学[[Praxis|实践]]的反向作用；以及学校层面的实施与跨学科协作机制（p. 6）。
+> [[International Baccalaureate|国际文凭]]（IB）的核心课程[[Theory of Knowledge|知识论]]（Theory of Knowledge, TOK）在全球范围内的实施现状、教师认知以及对师生的深远影响是什么？具体探究：教师对课程目的、益处与挑战的认知；课程对学生[[Higher-Order Thinking Skills|高阶思维]]及未来成功的影响；教学过程对教师自身[[Epistemological Beliefs|认识论信念]]、[[Self-Efficacy|自我效能]]及教学实践的反向作用；以及学校层面的实施与跨学科协作机制（p. 6）。
 
 > [!claim] 核心主张
 > 知识论课程不仅极大地促进了学生[[Critical Thinking|批判性思维]]与跨学科连接能力的发展（被广泛视为“改变人生”的体验），同时也是一项极具价值、能重塑教学哲学的高效教师在职专业发展（PD）载体。尽管实施过程中面临评估困难、课时边缘化以及对教师背景知识要求极高等结构性挑战，但教师群体凭借强烈的内在兴趣和自发的跨学科协作成功克服了这些阻碍，成为了推动课程成功的最核心要素（pp. 38–39）。
@@ -299,7 +300,7 @@ issuing_organization: "International Baccalaureate Organization"
 ### 2. 知识论对教师专业发展的影响（Impact on Teachers）
 
 > [!claim] 步骤二主张
-> 教授知识论深刻地重塑了任课群体的[[Epistemological Beliefs|认识论信念]]与教学[[Praxis|实践]]。它本身就是一项高价值的在职专业发展，推动了教师从“事实传递者”向“概念探究引导者”的哲学转变，尽管应对不同知识领域的信心存在显著梯次落差。
+> 教授知识论深刻地重塑了任课群体的[[Epistemological Beliefs|认识论信念]]与教学实践。它本身就是一项高价值的在职专业发展，推动了教师从“事实传递者”向“概念探究引导者”的哲学转变，尽管应对不同知识领域的信心存在显著梯次落差。
 
 > [!chain-link] 教学能力的提升与信心的领域落差
 > - **信心的积累** 量表分析显示，“教学信心量表”具有高效度（Cronbach's $\alpha = 0.798$）。随着教龄的增加，教师信心显著提升（10年以上教龄组得分显著高于1-3年新手组，表7）。
@@ -374,7 +375,7 @@ issuing_organization: "International Baccalaureate Organization"
 > | 协调作业使学生课业有重叠 | 141 | 14.7% | 960 |
 
 > [!citation-card]- 协作带来的破壁效应
-> “这是一次极其真实的合作学习和教学体验...比如我是科学老师，但我们的团队里有语言老师和音乐老师一起参与。这大大减少了你需要去自己研究和理解其他学科知识的压力。”（p. 38）
+> “这是一次极其真实的[[Cooperative Learning|合作学习]]和教学体验...比如我是科学老师，但我们的团队里有语言老师和音乐老师一起参与。这大大减少了你需要去自己研究和理解其他学科知识的压力。”（p. 38）
 > 
 > *“I think this is a truly authentic collaborative learning and teaching experience... I'm a science teacher but we have a language teacher, music teacher as part of the team. It cuts back on you having to do the research and trying to understand other subjects.”*
 

@@ -22,7 +22,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Rote Learning]]"
-  - "[[Praxis]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -59,7 +58,7 @@ updated: 2026-08-20
 
 CHC 这一术语诞生于一群在香港工作的澳大利亚、英国和瑞典研究者对[[Chinese Learner|中国学习者]]现象的集体关注。他们直接观察到 CHC 学习者和西方教师之间的文化碰撞——西方教师抱怨中国学生"[[Rote Learning|死记硬背]]""被动服从"，但国际评估数据却反复显示这些学生的高成就([[Argument_Li_2012_Cambridge|Li, 2012, pp.82-84]])。
 
-Watkins and Biggs 有意使用 CHC 而非 "Chinese"，以避免将现象局限于中国大陆——该术语强调共享的**文化传统（儒家学习信念与[[Praxis|实践]]）**而非民族或政治归属([[Argument_Li_2012_Cambridge|Li, 2012, p.84]])。2001 年，两人出版续作《Teaching the Chinese Learner》，将研究从学习层面扩展到教学层面。
+Watkins and Biggs 有意使用 CHC 而非 "Chinese"，以避免将现象局限于中国大陆——该术语强调共享的**文化传统（儒家学习信念与实践）**而非民族或政治归属([[Argument_Li_2012_Cambridge|Li, 2012, p.84]])。2001 年，两人出版续作《Teaching the Chinese Learner》，将研究从学习层面扩展到教学层面。
 
 ### CHC 研究的两条路径
 
@@ -83,7 +82,7 @@ Watkins and Biggs 有意使用 CHC 而非 "Chinese"，以避免将现象局限�
 > "East Asian" 是地理标签，包含很多不受儒家传统影响的文化（如马来西亚、印度尼西亚）。CHC 以文化传统为纽带——因此越南（地理上属东南亚）被纳入，而马来西亚未被纳入。
 
 ### CHC vs "Asian"
-> "Asian" 的覆盖范围更广——南亚（印度、巴基斯坦）、东南亚（泰国、菲律宾）等国拥有完全不同的文化传统（印度教、佛教、伊斯兰教）。将 CHC 学习者与"亚洲学习者"混为一谈，会掩盖南亚与东亚之间在教育信念和[[Praxis|实践]]上的根本差异([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.39]])。
+> "Asian" 的覆盖范围更广——南亚（印度、巴基斯坦）、东南亚（泰国、菲律宾）等国拥有完全不同的文化传统（印度教、佛教、伊斯兰教）。将 CHC 学习者与"亚洲学习者"混为一谈，会掩盖南亚与东亚之间在教育信念和实践上的根本差异([[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, p.39]])。
 
 ---
 

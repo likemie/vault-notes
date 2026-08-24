@@ -28,6 +28,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Document]]"
   - "[[Dialogue in Education]]"
+  - "[[Creativity]]"
   - "[[Classroom Management]]"
   - "[[Academic Achievement]]"
   - "[[Chain of Evidence]]"
@@ -76,7 +77,7 @@ citation_aliases:
 >
 > ### 国家文化[[Hypothesis|假设]]
 >
-> Laursen 起初认为文化差异假设"合理"：同样的控制与评价在美国可被解释为质量关怀，在英国可能被解释为不信任教师和学生，因此相同措施可能在一种文化中促进学习、在另一种文化中抑制学习(p.34)。根据 Hofstede 的丹麦画像，他原本可预期丹麦学生更适合开放、[[Dialogue in Education|对话]]、弱教师控制和创造性空间较大的教学(p.37)。
+> Laursen 起初认为文化差异假设"合理"：同样的控制与评价在美国可被解释为质量关怀，在英国可能被解释为不信任教师和学生，因此相同措施可能在一种文化中促进学习、在另一种文化中抑制学习(p.34)。根据 Hofstede 的丹麦画像，他原本可预期丹麦学生更适合开放、[[Dialogue in Education|对话]]、弱教师控制和[[Creativity|创造性]]空间较大的教学(p.37)。
 >
 > ### 丹麦证据的检验
 >

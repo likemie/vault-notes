@@ -26,7 +26,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Hypothesis]]"
   - "[[Interpretation Community]]"
-  - "[[Praxis]]"
   - "[[Professional Judgment]]"
   - "[[Reflexivity]]"
   - "[[Document]]"
@@ -67,7 +66,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Interpretation Community]] — Stanley Fish (1980)：某种特定解释在社群中获得动量，从观点演变为广泛接受的事实，用于解释丹麦 Hattie 批评者的误读现象
-> - [[Bounded Rationality]] — [[Herbert A. Simon]] (1969/1996)：复杂专业任务的复杂度大于专业人员的[[Praxis|实践]]能力，作为[[Professional Judgment|专业判断]]的理论基础
+> - [[Bounded Rationality]] — [[Herbert A. Simon]] (1969/1996)：复杂专业任务的复杂度大于专业人员的实践能力，作为[[Professional Judgment|专业判断]]的理论基础
 > - 技术赤字（Technology Deficit） — Luhmann & Schorr (1982a)：所有教师都在技术赤字的条件下工作——教育的努力效果永远无法完全预测
 > - Merton (1982) 的专业实践三维度：帮助（伦理）、执行（方法）、认知（研究知识）
 > - Schön (1983) 的[[Reflexivity|反思性]]实践：实践中的反思 + 对实践的反思

@@ -17,7 +17,6 @@ related_concepts:
   - "[[Boarding Schools]]"
   - "[[International Baccalaureate]]"
   - "[[Fourth Culture]]"
-  - "[[Praxis]]"
   - "[[International Education]]"
   - "[[Hypothesis]]"
   - "[[Attrition]]"
@@ -95,7 +94,7 @@ updated: '2026-08-22'
 
 > [!warning]
 > ### 本地学生的身份张力
-> 大量本地学生在本国就读国际学校，以降低海外学习带来的文化疏离风险。学生在学校中的价值观和期望仍可能与家庭及本地社区出现明显差异，形成 Deveney（2005）所称的[[Fourth Culture|第四文化]]。Rao、Ng 与 Pearson（2009）进一步指出，社会、经济和技术变迁会改变教育政策与[[Praxis|实践]]，全球化课程价值与本地传统之间的张力也随之进入学校。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 24–25)]]
+> 大量本地学生在本国就读国际学校，以降低海外学习带来的文化疏离风险。学生在学校中的价值观和期望仍可能与家庭及本地社区出现明显差异，形成 Deveney（2005）所称的[[Fourth Culture|第四文化]]。Rao、Ng 与 Pearson（2009）进一步指出，社会、经济和技术变迁会改变教育政策与实践，全球化课程价值与本地传统之间的张力也随之进入学校。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 24–25)]]
 
 > [!warning]
 > ### 道德教育维度的缺失

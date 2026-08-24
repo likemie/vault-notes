@@ -16,7 +16,6 @@ tags:
   - field/chinese-philosophy
   - theme/learning
 related_concepts:
-  - "[[Praxis]]"
   - "[[Self-Cultivation]]"
   - "[[Sage]]"
   - "[[University Motto]]"
@@ -48,7 +47,7 @@ updated: 2026-05-25
 ## 核心要素
 
 > [!abstract]
-> [[Zhu Xi|朱熹]]在《大学》中整合了[[Cheng Brothers|程颐]]与程颢的学说，提出了从认知探究到道德[[Praxis|实践]]、从个人[[Self-Cultivation|修身]]到世界治理的完整学习路径。这一路径包含八个步骤([[Argument_Li_2012_Cambridge|Li, 2012, pp.44, 46-47]])：
+> [[Zhu Xi|朱熹]]在《大学》中整合了[[Cheng Brothers|程颐]]与程颢的学说，提出了从认知探究到道德实践、从个人[[Self-Cultivation|修身]]到世界治理的完整学习路径。这一路径包含八个步骤([[Argument_Li_2012_Cambridge|Li, 2012, pp.44, 46-47]])：
 
 1. 格物（investigating things）——探究事物的原理
 2. 致知（extending knowledge）——扩展知识

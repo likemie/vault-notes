@@ -29,7 +29,6 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Knowledge-that and Know-how-to]]"
-  - "[[Praxis]]"
   - "[[Outcomes-based Education]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
@@ -121,7 +120,7 @@ citation_aliases:
 > 两种知识形式的区分来自[[Lev Vygotsky|维果茨基]]的科学概念和自发概念：
 >
 > - **[[Knowledge-that and Know-how-to|知其然]]（knowledge-that）**包括命题（提出主要主张的陈述）、学科概念（通过词语或短语表达的抽象思想）和内容（概念的具体体现，可包括事实、情境等）。
-> - **[[Knowledge-that and Know-how-to|知其所用]]（know-how-to）**包括技能、能力和学科[[Praxis|实践]]，即通过学科相关的技能或实践来应用知识。
+> - **[[Knowledge-that and Know-how-to|知其所用]]（know-how-to）**包括技能、能力和学科实践，即通过学科相关的技能或实践来应用知识。
 >
 > CDCM 的核心主张是，[[Knowledge-that and Know-how-to|知其然]]和[[Knowledge-that and Know-how-to|知其所用]]的连接是[[Surface and Deep Learning|深层学习]]的先决条件。当学生能够将所学知识应用于新情境，并清楚阐述知识之间的联系时，深层学习才真正发生。课程设计的目标是实现深层设计连贯性，即让课程设计与知识的认识论结构对齐，避免三种失衡，过于抽象（只讲概念）、过于拥挤（只堆事实）或过于工具化（只练技能）。
 
@@ -188,7 +187,7 @@ citation_aliases:
 >
 > **双文化主义**。毛利知识体系贯穿整个课程改革，为其提供了统一的主题和隐喻凝聚力：
 > - 课程文件声称 Te Mātaiaho 旨在落实怀唐伊条约的承诺，「旨在转变毛利人的教育不平等，给予毛利知识体系和毛利语言突出地位」（March 2023d, p.12）
-> - Siteine (2018) 提出了一个强烈的身份指令，[[Coding in Qualitative Research|编码]]在[[The New Zealand Curriculum|新西兰课程]]话语中：认为[[Academic Achievement|学业成就]]与民族身份认可之间存在[[Causality|因果关系]]，主张在课堂中运用文化价值观、语言和[[Praxis|实践]]来实现这一目标
+> - Siteine (2018) 提出了一个强烈的身份指令，[[Coding in Qualitative Research|编码]]在[[The New Zealand Curriculum|新西兰课程]]话语中：认为[[Academic Achievement|学业成就]]与民族身份认可之间存在[[Causality|因果关系]]，主张在课堂中运用文化价值观、语言和实践来实现这一目标
 > - 这一身份指令在课程改革中进一步强化
 >
 > **地方化**。地方化原则强调「与当地社区共同设计和审查学校课程」(p.5)，通过「与当地人民（tangata whenua）和社区的关系来学习」(p.6)：

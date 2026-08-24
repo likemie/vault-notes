@@ -10,15 +10,18 @@ doi: ""
 isbn: ""
 citation_aliases: []
 tags: []
-related_concepts: []
+related_concepts:
+  - "[[Variable]]"
+  - "[[Construct]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments: []
 sources:
-  - "[[sources/Source_Name|Source_Name]]"
+  - "[[sources/Source_Name]]"
 part_of:
 status: draft
 created: <% tp.date.now("YYYY-MM-DD") %>
@@ -65,10 +68,10 @@ issuing_organization: ""
 
 ### 核心变量与操作化编码表（仅量化研究填写）
 
-%% 仅量化研究填写；质性研究、理论研究与文本分析删除本节。元分析与二阶元分析必须填写；其他量化文章在存在明确核心变量、构念分类或操作化规程时保留。优先参照原文的变量表、编码表和测量说明，按 Argument_Gungor_2026_CP 的三列结构整理；只呈现文章内容，不写模板使用或表格改造说明。 %%
+%% 仅量化研究填写；质性研究、理论研究与文本分析删除本节。元分析与二阶元分析必须填写；其他量化文章在存在明确核心变量、构念分类或操作化规程时保留。优先参照原文的变量表、编码表和测量说明，按 Argument_Gungor_2026_CP 的三列结构整理；第三列固定为“核心教学规程、典型测量工具与纳入案例”。无教学干预时不强行补写教学规程，填写原文报告的测量工具、具体指标和代表性纳入研究。只呈现文章内容，不写模板使用或表格改造说明。 %%
 
 > [!index-table] 核心变量操作化定义与[[Coding in Qualitative Research|编码]]规程
-> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心操作规程、典型测量工具与纳入案例 |
+> | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **<核心结果／因变量类别>**<br>（Outcome Code） | 界定理论含义、可观察指标及与相邻类别的边界。 | 列出具体编码、测量工具、计分规则、代表研究或效应量。 |
 > | **<核心干预／暴露／预测变量类别>**<br>（Intervention / Exposure / Predictor Code） | 界定理论含义、必要构成及归类边界。 | 列出实施步骤、剂量／强度、比较条件、具体编码或代表案例。 |
@@ -192,4 +195,4 @@ issuing_organization: ""
 
 ## 来源
 
-- [[sources/Source_Name|Source_Name]]
+- [[sources/Source_Name]]

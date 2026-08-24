@@ -41,7 +41,6 @@ related_concepts:
   - "[[Science Capital]]"
   - "[[Citizen Science]]"
   - "[[AI Literacy]]"
-  - "[[Praxis]]"
   - "[[Practical Inquiry in Science Education]]"
   - "[[Rote Learning]]"
   - "[[Reliability]]"
@@ -128,7 +127,7 @@ updated: 2026-08-23
 > - **[[Informal Science Learning|非正式科学学习]]（Informal Science Learning）** 确立科学探索中心、博物馆、科学节与社区项目作为支撑繁荣社会的文化基建定位。（pp. 42–48）
 > - **[[Citizen Science|公民科学]]（Citizen Science）** 揭示公众深度参与真实科研数据生产、生态监测与议程共创的平权模式。（p. 43）
 > - **[[Data Literacy|数据素养]]（Data Literacy） 与 [[AI Literacy|人工智能素养]]（AI Literacy）** 作为数字时代公民驾驭算法推荐、辨识虚假信息与负责任协同的必要扩展。（pp. 31–32）
-> - **[[Praxis|实践]]探究（[[Practical Inquiry in Science Education]]）** 阐明动手实验操作与真实课题研究在具身化理解科学本质过程中的本体功能。（p. 33）
+> - **实践探究（[[Practical Inquiry in Science Education]]）** 阐明动手实验操作与真实课题研究在具身化理解科学本质过程中的本体功能。（p. 33）
 
 > [!monograph-method] 全书综合研究方法与证据体系
 > - **顶层设计与工作组研讨** 由[[Carlos Frenk]]与[[Sheila Rowan]]领导的指导委员会设立六个专业工作组（教育、非正式参与、大众媒体、产业/第三部门、政策、学术界），开展多学科证据综合与跨界研讨。（pp. 5–8）
@@ -166,7 +165,7 @@ updated: 2026-08-23
 > - **第 1 章 — Education（pp. 29–40）** 夯实全民[[Scientific Literacy|科学素养]]基础，聚焦科学本质理解、数据与 AI 素养、[[Practical Inquiry in Science Education|实验探究教学]]及 16–18 岁宽口径课程改革。
 > - **第 2 章 — Informal engagement with science（pp. 41–54）** 确立科学探索中心、科技馆、科学节与[[Citizen Science|公民科学]]作为社会文化基建的战略地位，破解地理不平等、场馆生存危机与建立长期队列追踪。
 > - **第 3 章 — Mass media and misinformation（pp. 55–66）** 待处理 — 剖析在线信息环境、社交媒体算法、科学新闻中介及虚假信息治理。
-> - **第 4 章 — Industry and business sector / Third sector（pp. 67–78）** 待处理 — 探讨产业研发人员与慈善/患者组织的公众沟通[[Praxis|实践]]与伦理考量。
+> - **第 4 章 — Industry and business sector / Third sector（pp. 67–78）** 待处理 — 探讨产业研发人员与慈善/患者组织的公众沟通实践与伦理考量。
 > - **第 5 章 — Policy（pp. 79–90）** 待处理 — 阐述政府科学咨询独立性、证据赋能决策与公众参与政策制定的机制。
 > - **第 6 章 — Academic scientific community（pp. 91–106）** 待处理 — 解构高校科研文化、职业晋升评价、专业技能培训与经费保障。
 
@@ -190,7 +189,7 @@ updated: 2026-08-23
 
 > [!book-synthesis] 跨章综合
 > - **[[Paradigm|范式]]演进的主线** 从 1985 年[[Bodmer Report 1985|博德默尔报告]]建立科学传播职责，到 2000 年上议院报告废弃[[Deficit Model of Science Communication|赤字模型]]，再到 2026 年确立科研全生命周期嵌入范式，科学参与已从单向知识普及演进为保障科学社会合法性的战略基石。（pp. 4–10）
-> - **正规教育与校外基建的协同共生** 第 1 章奠定的证据评估能力与探究心智，直接决定了个体进入成年后能否在校外场馆（第 2 章）、大众媒介（第 3 章）及公共政策讨论（第 5 章）中开展理性[[Dialogue in Education|对话]]；反之，第 2 章非正式科学场馆与[[Citizen Science|公民科学]]所激发的好奇心与[[Science Capital|科学资本]]，又为学校科学教育提供了生动的[[Praxis|实践]]场景与公平补偿。（pp. 30–34, 46–48）
+> - **正规教育与校外基建的协同共生** 第 1 章奠定的证据评估能力与探究心智，直接决定了个体进入成年后能否在校外场馆（第 2 章）、大众媒介（第 3 章）及公共政策讨论（第 5 章）中开展理性[[Dialogue in Education|对话]]；反之，第 2 章非正式科学场馆与[[Citizen Science|公民科学]]所激发的好奇心与[[Science Capital|科学资本]]，又为学校科学教育提供了生动的实践场景与公平补偿。（pp. 30–34, 46–48）
 > - **公平性与去中心化的全域诉求** 无论在学校教育中打破高中的文理过早分科与实验资源阶层鸿沟（第 1 章），还是在校外科普中打破伦敦集聚与高科学资本家庭自选壁垒（第 2 章），实现科技资源向欠发达地区与边缘工薪群体的普惠下沉是全书的核心主线。
 > - **系统性阻碍的跨界共性** 无论在中小学实验教学（第 1 章）、科普场馆运营（第 2 章）还是大学学术共同体（第 6 章），时间匮乏、考评机制偏颇与专项资源被削减均是制约高质量科学参与的核心瓶颈。（pp. 14, 33, 48）
 
