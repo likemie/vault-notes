@@ -8,7 +8,7 @@ aliases:
 summary: "由 Robert Slavin、Robert Stevens 等人（1987）开发的综合性语言与读写合作学习模式。该技术将教师主导的阅读理解策略精讲与异质性同伴配对朗读、词汇协商、故事语法图解、同伴互评修改及故事续写系统整合，是合作学习中干预效应最为突出的技术模式（ES = 2.04）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

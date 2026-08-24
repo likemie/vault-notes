@@ -91,7 +91,7 @@ title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -398,11 +398,13 @@ issuing_organization: ""
 > - **测量类型显著调节** 主观批判性思维测量（$Q_M(1) = 5.234$，$p = .022$）与主观创造力测量（$Q_M(1) = 10.133$，$p = .002$）均提高相关，交互项显著（$Q_M(1) = 6.524$，$p = .011$），同型组合相关更高，双主观 $r = 0.509$、双客观 $r = 0.317$、混合组合 $r = 0.195$–$0.260$（图 4）。（pp. 7–9）
 > - **其他调节不稳健** 年龄、学段、地理区域与发表年份仅在特定控制模型下偶达显著，不能可靠解释相关变异。（pp. 7–8）
 
-> [!quad-grid] 四种测量类型组合的相关
-> - **双主观**（自陈×自陈） 合并相关 $r = 0.509$，最高
-> - **双客观**（任务×任务） 合并相关 $r = 0.317$
-> - **创造力客观×批判性思维主观** 合并相关 $r = 0.260$
-> - **创造力主观×批判性思维客观** 合并相关 $r = 0.195$，最低
+> [!dual-header] 创造力 × 批判性思维测量类型组合的合并相关
+> | 创造力测量类型 | 批判性思维测量类型（主观） | 批判性思维测量类型（客观） |
+> |---|---|---|
+> | 创造力测量类型（主观） | 双主观 $r = 0.509$，最高 | $r = 0.195$，最低 |
+> | 创造力测量类型（客观） | $r = 0.260$ | 双客观 $r = 0.317$ |
+>
+> 同型测量组合相关高于混合组合，双主观最高、混合组合最低；逐组合样本量未在正文报告，95% CI 见图 4。（p. 9）
 
 > [!example]- 图4：不同测量类型组合的相关估计（含 95% CI）
 > ![](https://img.mylikemie.icu/sources/Park_2026_TSC/figures/Park_2026_TSC_Fig4_Correlation_Estimates.jpg)

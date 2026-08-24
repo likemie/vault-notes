@@ -7,7 +7,7 @@ aliases:
 summary: "区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
