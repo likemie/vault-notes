@@ -9,7 +9,7 @@ summary: "美国创造力心理学家，Creativity Research Journal 创刊主编
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Criterion-related Validity]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
+  - "[[Creativity Training]]"
   - "[[Predictive Validity]]"
   - "[[Effect Size]]"
 related_methods:
@@ -96,7 +97,7 @@ updated: 2026-08-24
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 推进[[Creativity|创造潜能]]与创造表现的解耦，为全民创造力教育与日常创造力（Everyday Creativity）提供理论依据。
+> - **理论路径** 推进[[Creativity|创造潜能]]与创造表现的解耦，为全民[[Creativity Training|创造力教育]]与日常创造力（Everyday Creativity）提供理论依据。
 > - **方法路径** 规范[[Divergent Thinking|发散思维]]测验的指导语与计分方法，倡导[[Meta-meta-analysis|二阶元分析]]方法综合庞杂的实证效应。
 > - **政策路径** 主张学校教育不应仅将创造力视为少数天才的特权，而应通过系统性教学干预开发学生的发散思维与问题发现技能。
 

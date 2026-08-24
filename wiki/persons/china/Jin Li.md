@@ -7,10 +7,10 @@ summary: "华人教育研究者，布朗大学教授，以中西文化学习模�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 38
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 tags:
 - region/china
 - region/us
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Growth]]"
   - "[[Didaktik]]"
+  - "[[Creativity Training]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Nerd]]"
   - "[[Hypothesis]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Junzi]]"
   - "[[Sage]]"
+  - "[[Creativity]]"
   - "[[Pride in Learning]]"
   - "[[Refined Mastery]]"
   - "[[Establishing One's Will]]"
@@ -84,7 +86,7 @@ updated: '2026-06-08'
 > - 大学期间学习德语语言、文学与西方艺术史，阅读歌德、席勒、海涅、卡夫卡、布莱希特等大量德语作家，同时接触莫扎特、贝多芬等西方音乐([[Argument_Li_2012_Cambridge|Li, 2012, p.4]])
 > - 大学毕业后留校教授德语数年，随后因婚姻移民美国([[Argument_Li_2012_Cambridge|Li, 2012, pp.5–6]])
 > - 初到美国时英语很差，在佛蒙特州高中担任代课教师（本应教德语却被安排了英语课），对美国学生对学习的冷漠态度感到震惊——这段经历后来成为研究议程的重要触发点([[Argument_Li_2012_Cambridge|Li, 2012, pp.6–7]])
-> - 在匹兹堡大学学习儿童创造力培养([[Argument_Li_2012_Cambridge|Li, 2012, p.xiii, p.8]])
+> - 在匹兹堡大学学习儿童[[Creativity Training|创造力培养]]([[Argument_Li_2012_Cambridge|Li, 2012, p.xiii, p.8]])
 > - 阅读 Howard Gardner 的《Frames of Mind》后决定申请哈佛大学教育学院，随后被录取，师从 Howard Gardner 与 [[Kurt Fischer]] 攻读人类发展与心理学博士([[Argument_Li_2012_Cambridge|Li, 2012, p.8]])
 > - 1990 年代末完成博士论文，以[[Heart and Mind for Wanting to Learn|好學心]]为核心研究概念([[Argument_Li_2012_Cambridge|Li, 2012, p.ix]])
 > - 现任布朗大学教授（[[Argument_Li_2012_Cambridge|Li, 2012]], 封面）
@@ -141,7 +143,7 @@ Li 在第 3 章通过"[[Prototype Methods|原型方法]]"（prototype methods）
 **欧裔美国学习模型([[Argument_Li_2012_Cambridge|Li, 2012, pp.98-103]])**
 - 学习目的：培养心智／理解世界、发展能力／技能、达成个人目标
 - 能动过程：主动参与、思考／批判推理、探究、沟通
-- 成就类型：理解本质／专长、个人洞见／创造性解决问题、做最好的自己
+- 成就类型：理解本质／专长、个人洞见／[[Creativity|创造性]]解决问题、做最好的自己
 - 正面情感：好奇心／兴趣、内在享受、挑战态度、对成就的[[Pride in Learning|自豪]]
 - 负面情感：冷漠／无聊、外在动机、对失败的失望／低自尊
 

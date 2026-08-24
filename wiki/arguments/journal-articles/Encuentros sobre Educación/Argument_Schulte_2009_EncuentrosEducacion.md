@@ -9,9 +9,9 @@ title: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_key: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_display_title: "The Chinese Dewey: Friend, fiend, and flagship"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 31
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Encuentros sobre Educación"
 citation: "Schulte, B. (2009). The Chinese Dewey: Friend, fiend, and flagship. Encuentros sobre Educación, 10, 67–101."
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Progressive Education]]"
   - "[[Rote Learning]]"
+  - "[[Creativity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Normal School]]"
   - "[[Sage]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Praxis]]"
   - "[[Quality Education]]"
+  - "[[Creativity Training]]"
   - "[[Analytic Framework]]"
   - "[[Abstract]]"
   - "[[Document]]"
@@ -134,7 +136,7 @@ citation_aliases:
 
 > - **1910–1920 年代** 被视为"发现了儿童作为独立个体的权利"，是[[Progressive Education|进步教育]]家反对传统[[Rote Learning|死记硬背]]的核心武器(p.75)
 > - **1950 年代** 被定性为"个人主义"——"以儿童为中心的原则是个人主义的，我们反对个人主义"（Cao Fu 1950，引自 p.81）
-> - **1980 年代** 重新被肯定为培养"创造力"和"主动性"的[[Necessary and Sufficient Conditions|必要条件]]，尽管仍有人担心过度自由会导致"混乱"(p.86)
+> - **1980 年代** 重新被肯定为培养"[[Creativity|创造力]]"和"主动性"的[[Necessary and Sufficient Conditions|必要条件]]，尽管仍有人担心过度自由会导致"混乱"(p.86)
 
 > 这个概念本身的含义没有变化。变化的是每一个时期的主导政治议程，而这个议程决定了该概念是被视为"亲和"还是"不可兼容"。
 
@@ -278,7 +280,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 > **第一次变形** 从科学的对立面（1950 年代的"反科学"指控）变为创新科学的象征（1980 年代的"科学态度"与"实验方法"旗手）。同一个"实验主义"概念，从需要被批判的西方资产阶级货色变成了中国现代化急需的科学精神。
 
-> **第二次变形** 从极端的资本主义个人主义（1950 年代的"个人主义""自私自利"指控）变为个体与社会和谐统一的符号（1990 年代后个体发展与社会需求"相互促进"的论述）。同一个"以儿童为中心"，从反集体主义的罪证变成了创造力培养的理论基础。
+> **第二次变形** 从极端的资本主义个人主义（1950 年代的"个人主义""自私自利"指控）变为个体与社会和谐统一的符号（1990 年代后个体发展与社会需求"相互促进"的论述）。同一个"以儿童为中心"，从反集体主义的罪证变成了[[Creativity Training|创造力培养]]的理论基础。
 
 > **第三次变形** 从马克思主义的批判对象（1950 年代的系统攻击）变为国家治理和反新自由主义话语的盟友（2000 年代后反新自由主义的道德权威）。同一个杜威，从需要被"肃清"的阶级敌人变成了"只有社会主义才能实现他的理想"的证明。
 

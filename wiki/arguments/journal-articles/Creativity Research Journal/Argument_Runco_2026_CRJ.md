@@ -31,6 +31,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Effect Size]]"
   - "[[Predictive Validity]]"
+  - "[[Creativity Training]]"
   - "[[Criterion-related Validity]]"
   - "[[Sampling Error]]"
   - "[[Paradigm]]"
@@ -61,6 +62,8 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Divergent Thinking]]"
   - "[[Cognitive Shifting]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Metacognition]]"
   - "[[Praxis]]"
   - "[[Emergence]]"
 related_methods:
@@ -72,6 +75,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Meta-regression]]"
+  - "[[Role-playing]]"
 related_instruments:
   - "[[AMSTAR]]"
 related_persons:
@@ -85,7 +89,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -111,7 +115,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **含义** 运用二阶统计综合与多水平[[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE）对创造力全领域一阶元分析进行宏观效应量聚合与调节机制检验。
-> - **用途** 确立创造力[[Predictive Validity|预测效度]]与教育干预效能的基准效应量，为学校创造力教学与心理测量提供量化证据基线。
+> - **用途** 确立创造力[[Predictive Validity|预测效度]]与教育干预效能的基准效应量，为学校[[Creativity Training|创造力教学]]与心理测量提供量化证据基线。
 > - **边界** 结论受制于已有一阶元分析的数据可得性，无法替代未被元分析覆盖的特定领域或微观质性机制研究。
 
 ---
@@ -342,7 +346,7 @@ issuing_organization: ""
 ### 论证步骤三 测量类型与多维相关因素的调节机制：教育干预的显著效能
 
 > [!claim] 步骤三主张
-> 在测量类型上，涵盖多维认知加工的综合创造过程（$r = 0.27$）展现出高于单一[[Divergent Thinking|发散思维]]测验（$r = 0.14$）的关联；在相关因素中，教育项目与专门教学干预（$r = 0.20$）与创造力关联最强，证实了创造力在教育情境中的高度可干预性。（pp. 6–8）
+> 在测量类型上，涵盖多维认知加工的综合创造过程（$r = 0.27$）展现出高于单一[[Divergent Thinking|发散思维]]测验（$r = 0.14$）的关联；在相关因素中，教育项目与[[Creativity Training|创造力训练]]干预（$r = 0.20$）与创造力关联最强，证实了创造力在教育情境中的高度可干预性。（pp. 6–8）
 
 > [!contrast-table] 综合创造过程测量 vs 单一发散思维测验
 > | 比较维度 | 综合创造过程 | 单一发散思维测验 |
@@ -351,6 +355,37 @@ issuing_organization: ""
 > | **二阶效应量** | $r = 0.27$（95% 置信区间 $[0.10, 0.43]$，95% 预测区间 $[-0.17, 0.62]$） | $r = 0.14$（95% 置信区间 $[0.04, 0.24]$，95% 预测区间 $[-0.25, 0.50]$） |
 > | **元回归系数** | 模型 1 中 $\beta = 0.16, p = .19$；模型 2 整合后 $\beta = 0.08, p = .31$ | 模型 1 中 $\beta = 0.02, p = .71$ |
 > | **理论机制** | 过程变量整合了更多认知加工信息，能更完整地反映创造性解决复杂问题的实际潜能 | 仅作为创造潜能的构件之一，无法涵盖观念评估与问题发现的全部变异 |
+
+> [!framework-table] 创造力干预与教育教学的主要范式与核心机制
+> | 干预范式 | 核心机制与教学策略 | 代表性模型与元分析证据 |
+> |---|---|---|
+> | **结构化认知训练课程** | 显性讲授系统化认知启发式策略，传授问题重构与概念搜索工具 | 创造性问题解决模型（CPS）、普渡创造力项目（PCTP）、SCAMPER 检核表法（Scott et al., 2004; Ma, 2006; Rose & Lin, 1984） |
+> | **[[Constructivist Paradigm\|建构主义]]探究教学** | 嵌入学科与跨学科真实劣构情境，通过自主探究与原型制作驱动深度加工 | 问题驱动教学（[[Problem-Based Learning\|PBL]]）、跨学科 STEAM 整合项目、设计思维（Yunita et al., 2020; Suganda et al., 2021） |
+> | **任务框架与显式指导语** | 在任务呈现时通过明确指令即时定向注意资源分配，激活原创性目标 | 显式独创性指导语（Explicit Instructions for Originality）（Acar, Runco & Park, 2020） |
+> | **技术中介与协作交互** | 借助数字化平台消除群体互动中的评价顾虑与发言轮流阻塞 | 电子头脑风暴（EBS）、概念图思维可视化工具（DeRosa et al., 2007; Ayutthaya & Damrongpanit, 2022） |
+> | **外认知与身心调节** | 降低习惯性思维定势与认知僵化，增强注意广度与情境视角采择 | 正念冥想（Mindfulness）、教育戏剧与角色扮演（Lebuda et al., 2016; Lewandowska & Węziak-Białowolska, 2020） |
+
+> [!dimension]- 创造力干预与教育教学五大范式的系统拆解与实证机制
+> 1. **结构化认知训练课程与思维模型**
+>    - **创造性问题解决模型（CPS）** 包含目标发现、事实发现、问题界定、观念生成、方案选择与接受度建立六阶段认知循环，元分析证实对发散思维与解决问题表现具有稳健的中大促进效应（Scott et al., 2004; Ma, 2006）。
+>    - **普渡创造力思维方案（PCTP）** 结合音频故事与针对性练习册，系统训练流畅性、灵活性、独创性与精细化（Rose & Lin, 1984）。
+>    - **SCAMPER 检核表与形态分析法** 运用替代、合并、改造、修改、另作他用、消除与反转七大重构算子引导概念空间系统重组。
+>    - **六顶思考帽与侧向思维** 训练在事实（白帽）、情感（红帽）、批判（黑帽）、收益（黄帽）、创新（绿帽）与[[Metacognition|元认知]]（蓝帽）间实现灵活模式切换。
+> 2. **以学习者为中心的建构主义探究教学模式**
+>    - **问题驱动教学法（PBL）** 以真实不良结构问题为起点，通过自主探究与方案迭代显著提升学科情境创造力（Yunita et al., 2020）。
+>    - **跨学科 STEAM 与项目式教学** 深度融合工程与艺术，强调动手设计与实体原型制作，打破学科孤岛（Suganda et al., 2021）。
+>    - **设计思维** 遵循同理心、定义、设想、原型、测试五步闭环，强调用户需求导向的创造性重构。
+>    - **探究式协作学习** 创设高心理安全感的小组协作环境，通过同伴观点碰撞与知识共建激发创新观念（Ramdani & Susilo, 2022）。
+> 3. **任务框架与认知指导语操纵**
+>    - **显性独创性指导语** 在任务施测时明确提出生成前所未有新颖观念的要求，即时显著提升独创性得分（Acar, Runco & Park, 2020）。
+>    - **多元量规预告** 提前展示评价标准，引导学生在观念生成后进行自我监控与筛选。
+> 4. **技术中介与数字化协作工具**
+>    - **电子头脑风暴（EBS）** 数字化平台匿名异步或同步提交，消除评价顾虑并打破发言轮流阻塞，构想产出显著优于传统头脑风暴（DeRosa et al., 2007; Ayutthaya & Damrongpanit, 2022）。
+>    - **思维可视化工具** 借助概念图直观呈现远距离联想与语义网络扩展。
+> 5. **外认知与身心调节干预**
+>    - **正念冥想与开放监控** 降低习惯性思维定势与认知僵化，增强注意广度（Lebuda et al., 2016）。
+>    - **教育戏剧与[[Role-playing|角色扮演]]** 模拟社会角色与情境冲突，提升共情与视角采择能力（Lewandowska & Węziak-Białowolska, 2020）。
+>    - **结构化酝酿期安排** 插入低认知负荷无关活动，促使无意识联想发生并引发顿悟（Sio & Ormerod, 2009）。
 
 > [!factors] 创造力相关因素的实证效应分级
 > 1. **教育项目与教学干预（$r = 0.20$）**
