@@ -38,9 +38,11 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Problem-Based Learning]]"
-  - "[[Computerized Adaptive Testing]]"
+  - "[[Divergent Thinking]]"
+  - "[[Problem Finding]]"
   - "[[Questionnaire]]"
   - "[[Rating Scale]]"
+  - "[[Threshold Hypothesis]]"
   - "[[Working Memory]]"
   - "[[Executive Function]]"
   - "[[Self-Efficacy]]"
@@ -49,6 +51,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Document]]"
   - "[[External Validity]]"
+  - "[[Small Study Effects]]"
   - "[[Confidence Interval]]"
   - "[[Literature Search]]"
   - "[[Flow]]"
@@ -57,16 +60,16 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Publication Bias]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Prediction Interval]]"
+  - "[[Criterion Problem]]"
   - "[[Hypothesis]]"
   - "[[Literature Review]]"
   - "[[Reliability]]"
   - "[[Critique of Meta-meta-analysis]]"
-  - "[[Divergent Thinking]]"
   - "[[Cognitive Shifting]]"
   - "[[Constructivist Paradigm]]"
   - "[[Metacognition]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Praxis]]"
   - "[[Emergence]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -83,9 +86,13 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Role-playing]]"
 related_instruments:
+  - "[[Torrance Tests of Creative Thinking]]"
+  - "[[Consensual Assessment Technique]]"
   - "[[AMSTAR]]"
 related_persons:
   - "[[Mark A. Runco]]"
+related_theories:
+  - "[[Four P Model of Creativity]]"
 status: draft
 created: 2026-08-23
 updated: 2026-08-24
@@ -95,9 +102,9 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 65
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Creativity Research Journal"
 book_title: ""
@@ -131,10 +138,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **创造潜能与表现双层理论**<br>[[Mark A. Runco]] | 区分人类普遍具有的[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现（Creative Performance），解释人口背景、认知加工与外认知调节对潜能发挥的支持机制。（p. 4） |
-> | **心理测量学预测源与效标双分模型**<br>[[Creativity]] | 依据[[Predictive Validity\|预测效度]]与[[Criterion-related Validity\|效标关联效度]]逻辑，将实证研究区分为创造力作为[[Independent Variable\|预测变量]]与创造力作为[[Dependent Variable\|结果变量]]，避免因果逻辑混淆。（pp. 2–3） |
-> | **二阶抽样误差与稳健综合理论**<br>Schmidt & Oh (2013) | 从统计学上分离一阶[[Sampling Error\|抽样误差]]与二阶抽样误差，通过大样本聚合消除单一测量工具与研究方法的特异性偏误。（p. 3） |
-> | **创造力 4P 与多维相关因素模型**<br>[[Four P Model of Creativity|Rhodes (1961)]]; Kaufmann & Vosburg (2002) | 将影响创造力的相关因素结构化为认知、外认知、干预与教育、即时情境影响及人口背景五大理论维度。（p. 4） |
+> | **创造潜能与表现理论**<br>[[Creativity]]<br>[[Mark A. Runco|Runco (2024)]] | 区分人类普遍具有的[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现（Creative Performance），解释人口背景、认知加工与外认知调节对潜能发挥的支持机制。（p. 4） |
+> | **心理测量学预测源与效标双分模型**<br>[[Predictive Validity]] / [[Criterion-related Validity]]<br>Runco et al. (2020) | 依据[[Predictive Validity\|预测效度]]与[[Criterion-related Validity\|效标关联效度]]逻辑，将实证研究区分为创造力作为[[Independent Variable\|预测变量]]与创造力作为[[Dependent Variable\|结果变量]]，避免因果逻辑混淆。（pp. 2–3） |
+> | **二阶抽样误差与稳健综合理论**<br>[[Meta-meta-analysis]] / [[Sampling Error]]<br>Schmidt & Oh (2013) | 从统计学上分离一阶[[Sampling Error\|抽样误差]]与二阶抽样误差，通过大样本聚合消除单一测量工具与研究方法的特异性偏误。（p. 3） |
+> | **创造力 4P 与多维相关因素模型**<br>[[Four P Model of Creativity]]<br>Rhodes (1961); Kaufmann & Vosburg (2002) | 将影响创造力的相关因素结构化为认知、外认知、干预与教育、即时情境影响及人口背景五大理论维度。（pp. 3–4） |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将多源异质的一阶[[Meta-analysis|元分析]]纳入统一的输入、过程与输出概念框架。预测源与效标[[Variable|变量]]的先验划分使得二阶分析能够检验创造力在不同测量位置上的结构性差异；二阶抽样误差理论则为跨越数十年不同测量[[Paradigm|范式]]提供了统计可比性与聚合精度。（pp. 2–4）
@@ -144,19 +151,19 @@ issuing_organization: ""
 > [!index-table] 核心变量与调节因素[[Operationalization|操作化]]定义与测量工具
 > | 变量与调节因素 | [[Construct\|理论构念]]与操作化定义 | 典型测量工具与代表案例 |
 > |---|---|---|
-> | **创造力作为预测变量**<br>（Predictor Variable） | 创造力（潜能、思维或产出）作为自变量，用于预测后续[[Academic Achievement\|学业成就]]、职业发展、身心适应或终身创造力。 | [[Cohort Study\|追踪研究]]中使用托兰斯创造性思维测验（[[Torrance Tests of Creative Thinking|Torrance Tests of Creative Thinking, TTCT]]）预测成人期重大创造性成就或平均学分绩点（Grade Point Average, GPA）。 |
-> | **创造力作为结果变量**<br>（Criterion Variable） | 创造力作为因变量或效标，用于检验教育教学干预、认知能力、人格特征或情境环境对创造力的塑造与提升效果。 | 准[[Experimental Research\|实验研究]]检验[[Problem-Based Learning\|问题驱动教学法]]（Problem-Based Learning, PBL）或创造性问题解决模型（Creative Problem Solving, CPS）项目对学生创造性思维的提升幅度。 |
-> | **发散思维**<br>（Divergent Thinking） | 评估个体在开放性任务中沿多方向生成多样、新颖观念的认知能力，通常以流畅性、灵活性和独创性计分。 | [[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT）、非常规用途测验（Alternative Uses Task, AUT）、连线测验。 |
-> | **创造过程**<br>（Creative Process） | 涵盖观念生成之外的复杂多阶段认知操作，包括问题发现、信息重构、顿悟、观念评估与选择等环节。 | [[Problem Finding|问题发现]]任务（Problem Finding Tasks）、远距离联想测验（Remote Associates Test, RAT）、电子头脑风暴（Electronic Brainstorming, EBS）。 |
-> | **创造性成果**<br>（Creative Outcomes） | 个体产出的显性创造性产品或客观成就，由外部专家主观评定或依据客观社会记录衡量。 | 同感评估技术（[[Consensual Assessment Technique|Consensual Assessment Technique, CAT]]）、自陈创造性成就[[Questionnaire\|问卷]]（Creative Achievement Questionnaire, CAQ）、专利与出版物。 |
+> | **创造力作为预测变量**<br>（Predictor Variable） | [[Creativity\|创造力]]（潜能、思维或产出）作为[[Independent Variable\|自变量]]或预测变量，用于预测后续[[Academic Achievement\|学业成就]]、职业发展、身心适应或终身创造力。 | [[Cohort Study\|追踪研究]]中使用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）预测成人期重大创造性成就或平均学分绩点（Grade Point Average, GPA）。 |
+> | **创造力作为结果变量**<br>（Criterion Variable） | [[Creativity\|创造力]]作为[[Dependent Variable\|因变量]]或效标，用于检验[[Creativity Training\|教育教学干预]]、认知能力、人格特征或情境环境对创造力的塑造与提升效果。 | 准[[Experimental Research\|实验研究]]检验[[Problem-Based Learning\|问题驱动教学法]]（PBL）或创造性问题解决模型（Creative Problem Solving, CPS）项目对学生创造性思维的提升幅度。 |
+> | **[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 评估个体在开放性任务中沿多方向生成多样、新颖观念的认知能力，通常以流畅性、灵活性和独创性计分。 | [[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）、非常规用途测验（Alternative Uses Task, AUT）、连线测验。 |
+> | **创造过程**<br>（Creative Process） | 涵盖观念生成之外的复杂多阶段认知操作，包括[[Problem Finding\|问题发现]]、信息重构、顿悟、观念评估与选择等环节。 | [[Problem Finding\|问题发现]]任务（Problem Finding Tasks）、远距离联想测验（Remote Associates Test, RAT）、电子头脑风暴（Electronic Brainstorming, EBS）。 |
+> | **创造性成果**<br>（Creative Outcomes） | 个体产出的显性创造性产品或客观成就，由外部专家主观评定或依据客观社会记录衡量。 | [[Consensual Assessment Technique\|同感评估技术]]（CAT）、自陈创造性成就[[Questionnaire\|问卷]]（Creative Achievement Questionnaire, CAQ）、专利与出版物。 |
 > | **总体创造力**<br>（Overall Creativity） | 未明确区分过程与成果、或采用综合测评套件获取的宽泛创造力总分指标。 | 综合创造潜能评估包、教师综合创造力[[Rating Scale\|评定量表]]。 |
 > | **人口学背景**<br>（Background Variables） | 个体的生物学与社会人口统计学静态或宏观特征。 | 年龄、性别、社会经济地位（Socioeconomic Status, SES）、年级水平。 |
-> | **认知相关因素**<br>（Cognitive Correlates） | 与信息加工、逻辑推理、知识存储与注意控制相关的基础智力与认知能力。 | 智商测验（Intelligence Quotient, IQ）与[[Threshold Hypothesis|智力门槛]]检验、[[Working Memory\|工作记忆]]广度、[[Executive Function\|执行功能]]任务、流体智力、注意力控制。 |
+> | **认知相关因素**<br>（Cognitive Correlates） | 与信息加工、逻辑推理、知识存储与注意控制相关的基础智力与认知能力。 | 智商测验（Intelligence Quotient, IQ）与[[Threshold Hypothesis\|智力门槛假说]]检验、[[Working Memory\|工作记忆]]广度、[[Executive Function\|执行功能]]任务、流体智力、注意力控制。 |
 > | **外认知相关因素**<br>（Extracognitive Correlates） | 情绪与心境状态、大五人格特质、动机倾向与创造性自我信念等非认知心理特征。 | 大五人格量表（经验开放性、外向性）、内在动机构念、心境诱发、创造性[[Self-Efficacy\|自我效能感]]（Creative Self-Efficacy, CSE）。 |
-> | **干预与教育教学**<br>（Intervention / Education） | 旨在提升创造思维与解决问题能力的[[Structured Teaching\|结构化教学]]方案、课程训练、教学法或显性指导语。 | 创造性问题解决模型（CPS）、普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）、PBL、跨学科 STEAM（科学、技术、工程、艺术与数学）教学、显性原创性指导语。 |
+> | **干预与教育教学**<br>（Intervention / Education） | 旨在提升创造思维与解决问题能力的[[Structured Teaching\|结构化教学]]方案、[[Creativity Training\|课程训练]]、教学法或显性指导语。 | 创造性问题解决模型（Creative Problem Solving, CPS）、普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）、[[Problem-Based Learning\|问题驱动教学法]]（PBL）、跨学科 STEAM（科学、技术、工程、艺术与数学）教学、显性原创性指导语。 |
 > | **即时情境影响**<br>（Immediate Influence） | 测评或任务执行过程中的即时环境诱因、情境压力与外部交互线索。 | 评价威胁、时间限制、竞争氛围、外部奖励机制、多媒体环境线索。 |
-> | **研究设计**<br>（Study Design） | 原始一阶实证研究所采用的研究架构（考察自然状态关联或实验操纵效应）。 | 相关设计（自然关联横截面/追踪） vs 比较设计（实验组/控制组前[[Pre-test and Post-test\|后测]]）。 |
-> | **方法学质量**<br>（Methodological Quality） | 基于系统评价方法学质量评估工具（[[AMSTAR\|A MeaSurement Tool to Assess systematic Reviews]], AMSTAR）12 项准则评定的一阶元分析规范度与偏倚控制水平。 | 高质量（AMSTAR 得分 $\ge 0.75$，至少满足 9 项） vs 非高质量。 |
+> | **研究设计**<br>（Study Design） | 原始一阶实证研究所采用的研究架构（考察自然状态关联或实验操纵效应）。 | 相关设计（自然关联横截面/追踪） vs 比较设计（实验组/控制组[[Pre-test and Post-test\|前-后测]]）。 |
+> | **方法学质量**<br>（Methodological Quality） | 基于[[AMSTAR\|系统评价方法学质量评估工具]]（AMSTAR）12 项准则评定的一阶元分析规范度与偏倚控制水平。 | 高质量（AMSTAR 得分 $\ge 0.75$，至少满足 9 项） vs 非高质量。 |
 >
 > **图表解读** 本表系统界定了[[Meta-meta-analysis|二阶元分析]]所涵盖的全部 13 个核心变量与调节因素的操作化定义、测量范式及代表性实证研究工具，为理解二阶统计建模、亚组[[Heterogeneity|异质性]]与跨模型比较提供了统一的概念基准。（pp. 3–5）
 

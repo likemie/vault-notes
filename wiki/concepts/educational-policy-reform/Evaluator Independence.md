@@ -104,7 +104,7 @@ updated: 2026-08-22
 
 ## 典型应用与实践争议
 
-> [!case] [[Robert Slavin]] 与 [[Success for All]] 的双重角色争鸣（Slavin, 2019）
+> [!case] [[Robert Slavin]] 与 [[Success for All]] 的双重角色争鸣（[[Argument_Slavin_2019_EP|Slavin, 2019]]）
 > - **批评者观点** 著名循证学者 [[Robert Slavin]] 既是全美顶级全校改革方案 [[Success for All]]（SFA）的共同创立者与版权方，又是 [[Best Evidence Encyclopedia|BEE]] 与 *Evidence for ESSA* 评级平台的总负责人。SFA 长年在 BEE 阅读榜单中位列[[Effect Size|效应量]]第一，被批评存在潜在的利益与声誉冲突([[Argument_Slavin_2019_EP|Slavin, 2019, p. 175]])。
 > - **实证元评估视角** [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] 证实，SFA 之所以具有极高公信力，是因为它随后在完全独立的第三方机构（[[What Works Clearinghouse|WWC]]、[[Blueprints for Healthy Youth Development|Blueprints]]、[[Social Programs That Work|SPTW]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]）以及外部独立学者的大规模试验中均成功实现了效果复制，跨越了“研发者自评”的信任鸿沟。
 

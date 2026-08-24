@@ -10,7 +10,7 @@ aliases:
 summary: "指公众自愿、直接参与科学研究全过程（如数据采集、模式分类、知觉测评、环境监测或课题共创）的协作科研与社会参与范式，兼具前沿科学突破、公众科学资本累积与社区生态治理的多维赋权价值。"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Epistemology]]"
   - "[[Scientific Literacy]]"
-  - "[[Praxis]]"
   - "[[Self-Efficacy]]"
   - "[[Knowledge Production]]"
   - "[[Transcription in Qualitative Research]]"
@@ -66,7 +65,7 @@ updated: 2026-08-23
 
 ## 概念辨析与参与阶梯
 
-> [!contrast-table] 表：公民科学四大协作梯度对比表（Haklay, 2013; The Royal Society, 2026b）
+> [!contrast-table] 表：公民科学四大协作梯度对比表（Haklay, 2013; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026b]]）
 > | 参与层级 | 核心定义与公众角色 | 权力关系与参与深度 | 典型案例 |
 > |---|---|---|---|
 > | **1. 贡献型（Contributory）** | 公众作为传感器，负责就地采集、记录或分类数据 | 科学家预设协议，公众提供数据输入 | [[Big Butterfly Count\|大蝴蝶计数]]、Zooniverse 天文图像分类 |
@@ -92,7 +91,7 @@ updated: 2026-08-23
 
 ## 核心理论维度与实践支柱
 
-> [!dimension] 公民科学的三大理论维度与[[Praxis|实践]]支柱
+> [!dimension] 公民科学的三大理论维度与实践支柱
 > - **1. 科研生产力与海量时空数据赋能（Scientific Data & Scalability）**
 >   突破传统职业科研团队在资金、人力与地理覆盖面上的物理瓶颈，构建数以百万计的连续时空监测数据集，为国家生态治理与复杂大科学工程提供基准底座。（p. 43）
 > - **2. 科学本质理解与探究心智培育（Nature of Science & Epistemic Mindset）**
@@ -122,7 +121,7 @@ updated: 2026-08-23
 > 摆脱昂贵物理场馆限制，让任何拥有智能手机的居民都能在自家花园或社区绿地参与国家科研。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026b, pp. 43, 48)]]
-> **穿透地理不平等的普惠[[Praxis|实践]]** 相比过度集聚于大都市的高门槛科技场馆，基于在地化环境和线上协作平台的公民科学项目（如[[Big Butterfly Count|大蝴蝶计数]]每年 15 分钟观测协议），能够穿透地理偏远与社会阶层壁垒，实现普惠均等的高质量科学参与。
+> **穿透地理不平等的普惠实践** 相比过度集聚于大都市的高门槛科技场馆，基于在地化环境和线上协作平台的公民科学项目（如[[Big Butterfly Count|大蝴蝶计数]]每年 15 分钟观测协议），能够穿透地理偏远与社会阶层壁垒，实现普惠均等的高质量科学参与。
 
 ---
 
@@ -159,7 +158,7 @@ updated: 2026-08-23
 > > [!axis] 志愿劳动力剥削 vs 赋能式公民科学
 > > 平台是否仅将公众作为免费的数据标注劳动力？
 > > - **批评者指出** 部分众包项目缺乏对志愿者的成果反馈与素养赋权。
-> > - **最佳[[Praxis|实践]]转向** 强调即时个性化数据画像反馈（如感知指纹）、社区治理赋能与成果共享。
+> > - **最佳实践转向** 强调即时个性化数据画像反馈（如感知指纹）、社区治理赋能与成果共享。
 
 > [!critique] 数字鸿沟与阶层自选偏差
 > 线上公民科学依然存在向高学历、高数字素养人群倾斜的风险；必须通过与草根青年社工、森林学校和社区图书馆深度嵌入，保障弱势群体的参与机会。

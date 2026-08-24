@@ -8,7 +8,7 @@ aliases:
 summary: "Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 51
+theory_related_count: 50
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Test-Retest Reliability]]"
   - "[[Definition of Terms]]"
   - "[[Threats to External Validity]]"
-  - "[[Praxis]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
   - "[[Effect Size]]"
@@ -137,7 +136,7 @@ updated: 2026-08-21
 > - **前提二（逻辑先后序）** 内部效度构成了[[External Validity|外部效度]]的逻辑前置条件（*sin qua non*）——若干预本身无效，推广性讨论便失去本体依据。
 > - **推导** ① 识别干预后结果变化的潜在威胁清单（成熟、历史、仪器变异、均值回归、[[Attrition|流失]]偏倚） → ② 构建能有效阻断这些威胁的设计机制 → ③ 确立内部效度门控程序（[[Gating Procedure]]），仅对通过因果质量审查的研究开展后续合成。[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, pp. 462–466)]]
 
-> [!index-table] 内部效度的核心威胁与实验控制机制（Shadish et al., 2002; Hitchcock et al., 2015）
+> [!index-table] 内部效度的核心威胁与实验控制机制（Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015]]）
 > | [[Threats to Internal Validity\|内部效度威胁]] | 威胁机制与含义 | 组间设计 (RCT/[[Quasi-Experimental Designs\|QED]]) 的控制方式 | 单一个案设计 (SCD) 的控制方式 |
 > |:---|:---|:---|:---|
 > | **成熟（Maturation）** | 被试随时间推移自然生理/心理发展或学习疲劳 | 随机分配设立同步对照组进行抵消 | [[ABAB Design\|ABAB 设计]]中的撤除与再引入阶段；若行为随干预开闭系统性变化则排除成熟效应 |
@@ -155,10 +154,10 @@ updated: 2026-08-21
 > - **前提一（威胁开放性与目标未知性）** 与内部效度拥有清晰编目的有限威胁清单不同，[[Threats to External Validity|外部效度威胁]]高度开放且难以穷尽；审查者通常无法预先知晓决策者希望推广至哪类具体微观情境。[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, pp. 462–463)]]
 >   > [!evidence-grid]- 证据
 >   > - **证据一（基线描述的双重功能）** 对基线环境与受试者特征的详尽描述，既服务于内部效度（界定处理对比的纯洁性），又同时为外部效度（判定现实情境相似度）提供关键信息。[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, p. 463)]]
-> - **前提二（[[Praxis|实践]]中门控而非评分）** 主流清算中心（如 [[What Works Clearinghouse|WWC]]）仅将内部效度作为刚性打分门槛，而对外部效度仅做定性“描述”并转交终端用户裁量。
+> - **前提二（实践中门控而非评分）** 主流清算中心（如 [[What Works Clearinghouse|WWC]]）仅将内部效度作为刚性打分门槛，而对外部效度仅做定性“描述”并转交终端用户裁量。
 > - **推导** ① 内部效度提供标准化评级信号 → ② 外部效度依赖对干预情境、师生特征及实施条件的微观记录 → ③ 推广性判断本质上是终端用户基于本地知识（Local Knowledge）的比对决策。[[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015, pp. 466–467)]]
 
-> [!index-table] 外部效度的核心威胁与推广维度（Kazdin, 2011; Shadish et al., 2002; Hitchcock et al., 2015）
+> [!index-table] 外部效度的核心威胁与推广维度（Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015]]）
 > | 外部效度威胁 | 机制含义与潜在风险 | 审查与推广评估应对策略 |
 > |:---|:---|:---|
 > | **多重处理干扰（Multiple-Treatment Interference）** | 观察到的积极效应是由多种并存的干预措施[[Interaction Effect\|交互作用]]导致，无法推广至单一孤立实施的情境 | 在研究设计中实施处理组件拆解分析（Component Analysis），排除复合干预混杂 |
@@ -240,7 +239,7 @@ updated: 2026-08-21
 > - **1979 — 四分效度体系初步成型** Cook & Campbell 出版《准实验设计》，将效度体系拓展为内部效度、外部效度、构念效度与统计结论效度四大支柱。
 > - **2002 — 四分效度体系集大成** Shadish, Cook, & Campbell 出版《广义[[Causality|因果推断]]的实验与准实验设计》，系统化四分效度体系，论证内部效度为实验设计的[[Necessary and Sufficient Conditions|必要条件]]（*sin qua non*）([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 461]])。
 > - **2015 — [[What Works Clearinghouse|WWC]] 单一被试门控规程落地** 论证 Campbellian 框架对组间设计与 [[Single-Case Design|SCD]] 的普适性，推动内部效度门控程序（[[Gating Procedure]]）成为联邦官方审查标准([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp. 459–467]])。
-> - **2024 — 清算中心[[Praxis|实践]]构念效度的实证审思** 运用 Campbellian MTMM 理论全景检验 10 个清算中心 1,359 个项目，实证揭示跨机构评级高度冲突与综合门槛割裂，深化了对“循证”实践构念效度的[[Epistemology|认识论]]反思([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
+> - **2024 — 清算中心实践构念效度的实证审思** 运用 Campbellian MTMM 理论全景检验 10 个清算中心 1,359 个项目，实证揭示跨机构评级高度冲突与综合门槛割裂，深化了对“循证”实践构念效度的[[Epistemology|认识论]]反思([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
 
 ---
 
@@ -255,7 +254,7 @@ updated: 2026-08-21
 > > - **生态学派** 批评过度严苛的实验室级控制使干预难以在常规师资与复杂生源情境中复制，主张在真实世界情境中开展务实评估。
 >
 > > [!axis] 门控机制中的推广责任转嫁
-> > 争议清算机构在[[Praxis|实践]]中仅对内部效度严格门控，而将最复杂的[[External Validity|外部效度]]判断转嫁给非方法专家的政策制定者与校长([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 466]])。
+> > 争议清算机构在实践中仅对内部效度严格门控，而将最复杂的[[External Validity|外部效度]]判断转嫁给非方法专家的政策制定者与校长([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 466]])。
 
 > [!critique]- 批评索引
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 实证揭示教育清算中心在实践中对“有效性”的评价缺乏收敛，指出不同机构设立的外部复制与长期随访门槛割裂了“基于证据”的[[Construct Validity|构念效度]]。

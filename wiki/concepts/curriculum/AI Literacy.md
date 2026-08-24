@@ -7,7 +7,7 @@ aliases:
 summary: "指个体理解人工智能基本工作机制、能力边界与算法偏见，能够批判性思考并负责任地将 AI 作为放大人类认知与创造力而非替代自身思考的综合素养"
 type: concept
 domain: "curriculum"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - theme/stem-education
   - theme/technology-innovation
 related_concepts:
+  - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Data Literacy]]"
   - "[[Scientific Literacy]]"
@@ -37,7 +38,7 @@ updated: 2026-08-23
 ## 定义
 
 > [!def] 核心定义
-> 人工智能素养是指个体理解人工智能（Artificial Intelligence, AI）工具的基本运作原理、技术局限与社会伦理影响，能够在生活、学习与工作中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与创造力**的辅助工具，而非替代或外包（Outsource）人类独立[[Critical Thinking|批判性思维]]与实证探索的综合胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
+> 人工智能素养是指个体理解人工智能（Artificial Intelligence, AI）工具的基本运作原理、技术局限与社会伦理影响，能够在生活、学习与工作中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与[[Creativity|创造力]]**的辅助工具，而非替代或外包（Outsource）人类独立[[Critical Thinking|批判性思维]]与实证探索的综合胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 在大语言模型（LLMs）与生成式 AI 深度渗透日常生活的背景下，培养学生对算法输出的审视、质疑、验证与伦理把控能力。
@@ -52,7 +53,7 @@ updated: 2026-08-23
 
 ## 核心要素
 
-> [!feature] 四维[[Construct|构念]]框架（Ng et al., 2021; The Royal Society, 2026a）
+> [!feature] 四维[[Construct|构念]]框架（Ng et al., 2021; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026a]]）
 > - **认知理解（Knowing & Understanding）** 深刻把握算法训练原理、大语言模型机制、生成幻觉（Hallucination）与黑箱效应（Black-box Effect）。
 > - **批判性应用（Critical Application）** 善用 Prompt 工程与人机协同，将 AI 作为启发思考的脚手架，坚守“放大而非外包”底线。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]]
 > - **证据验证与评估（Evaluation & Verification）** 对 AI 生成内容进行独立查证与多源证据比对，识别潜在算法偏见、虚假信息与版权侵权风险。
@@ -89,8 +90,8 @@ updated: 2026-08-23
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 关键主张 / 来源 |
 > |---|---|---|---|
-> | **认知放大原则** | 防范认知外包，保持思维主体性 | 课堂探究与课后学习 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 32)]] |
-> | **测评效度重塑** | 开发情境化、现场推理测评破除作弊冲击 | 国家课程与资格考试改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 34)]] |
+> | **认知放大原则** | 防范认知外包，保持思维主体性 | 课堂探究与课后学习 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 32)]] |
+> | **测评效度重塑** | 开发情境化、现场推理测评破除作弊冲击 | 国家课程与资格考试改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026a, p. 34)]] |
 
 ---
 

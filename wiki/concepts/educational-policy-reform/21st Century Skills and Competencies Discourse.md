@@ -12,10 +12,10 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的技能话语，通过界定未来劳动力市场所需关键能力塑造教育政策与主体性，其特征包括4C认知技能主导、漂浮能指运作以及与学科认识论扎根的深层张力"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/global-education-governance
   - theme/skills
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Critical Thinking]]"
   - "[[Global Policy Space]]"
+  - "[[Creativity]]"
   - "[[Epistemology]]"
   - "[[Scientific Literacy]]"
   - "[[Data Literacy]]"
@@ -39,7 +40,6 @@ related_concepts:
   - "[[Big Ideas]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
-  - "[[Praxis]]"
   - "[[Floating Signifier]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Theoretical Perspective]]"
@@ -66,6 +66,7 @@ related_arguments:
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_Zhao_2020_JEC]]"
 confidence: high
 status: draft
 created: "2026-05-20"
@@ -99,7 +100,7 @@ updated: 2026-08-23
 > - **阶段零（历史-物质起源） — 后福特主义生产组织转型**
 >   - 能力（Competence）概念源于企业管理由泰勒制向丰田制的转型，后福特主义劳动组织要求新型工人具备流程改善与团队协作能力；进入[[Global Policy Space|全球政策空间]]后，其具体的资本主义车间历史起源被抽象化为普世教育命题。[[Argument_Beech_2009_CE|(Beech, 2009, pp. 353–355)]]
 > - **第一阶段（2000 年代初） — 美国国家框架主导**
->   - enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking|批判性思维]]、创造力、协作、沟通）雏形，强调数字时代素养。
+>   - enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]、协作、沟通）雏形，强调数字时代素养。
 > - **第二阶段（2010 年代） — 跨国协调与多边私营共建**
 >   - ATCS 跨国评估项目、美国 NRC 报告（2012）与世界经济论坛（WEF, 2016）加入，私营部门直接介入技能标准设定，确立标准化测量意图。
 > - **第三阶段（2010 年代末至 2020 年代初） — 全球指标趋同与产品下沉**
@@ -113,7 +114,7 @@ updated: 2026-08-23
 
 > [!feature] 核心[[Construct|构念]]：主导认知的“四 C 核心”
 > - **[[Critical Thinking|批判性思维]]（Critical Thinking）** 证据评估、逻辑推理与辨析虚假信息的能力。
-> - **创造力（Creativity）** 产生新颖、适应性观念与发散性问题解决能力。
+> - **[[Creativity|创造力]]（Creativity）** 产生新颖、适应性观念与发散性问题解决能力。
 > - **协作（Collaboration）** 团队分工、冲突协调与集体智能构建能力。
 > - **沟通（Communication）** 多模态表达、向多元受众清晰传递复杂思想的能力。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 257)]]
 
@@ -132,7 +133,7 @@ updated: 2026-08-23
 > - 环境素养与生态伦理（Environmental Literacy）
 > - 人际同理心与社会情感技能（Social-emotional Skills）
 > - [[Metacognition|元认知]]与批判性哲学反思（Metacognition & Epistemic [[Reflexivity]]）
-> - 具身动手实验与野外[[Praxis|实践]]探究（Hands-on Practical Inquiry）[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 257–258)]]
+> - 具身动手实验与野外实践探究（Hands-on Practical Inquiry）[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 257–258)]]
 
 ---
 
@@ -153,7 +154,7 @@ updated: 2026-08-23
 ### 命题二　通用技能若脱离学科大概念与实证探究载体，将不可避免地导致“技能空心化”与实践断裂
 
 > [!concept-lens] [[Epistemology|认识论]]扎根与[[Big Ideas|大概念]]
-> [[Critical Thinking|批判性思维]]、协作与[[Data Literacy|数据素养]]无法在真空中习得；若脱离具体学科的认识论逻辑与真实[[Praxis|实践]]，技能训练将沦为虚幻的形式主义。
+> [[Critical Thinking|批判性思维]]、协作与[[Data Literacy|数据素养]]无法在真空中习得；若脱离具体学科的认识论逻辑与真实实践，技能训练将沦为虚幻的形式主义。
 
 > [!claim] 学科认识论锚定与大概念融合
 > **学科认识论锚定** 21 世纪核心素养必须扎根于具体学科的核心概念（Big Ideas）与实证探究（Practical Inquiry），通过解决空气污染、流行病、气候变化等真实社会科学争议（SSI）获得具身体验，而非架空为脱离知识的抽象技巧清单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 30–33)]]
@@ -199,17 +200,17 @@ updated: 2026-08-23
 ## 实证证据与实践断裂
 
 > [!stat-cards]- 核心量化实证发现
-> - **4.4 vs 2.9** 博士教育在研究批判技能上均值达 4.4/5，但在协作（2.9/5）与跨界沟通（3.7/5）上存在系统性断裂（Spronken-Smith et al., 2024）。
+> - **4.4 vs 2.9** 博士教育在研究批判技能上均值达 4.4/5，但在协作（2.9/5）与跨界沟通（3.7/5）上存在系统性断裂（[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024]]）。
 > - **44% → 26%** 英国中学生动手实验双周率断崖暴跌 18 个百分点，暴露出政策大谈 21 世纪探究技能与课堂事实[[Rote Learning|死记硬背]]（[[Rote Learning]]）并存的讽刺现实（SET 2016–2023, p. 33）。
-> - **2.8/5** 环境素养与[[Global Citizenship|全球公民]]特质在多国毕业生发展感知中常年位居绝对垫底（Spronken-Smith et al., 2024, pp. 89–90）。
+> - **2.8/5** 环境素养与[[Global Citizenship|全球公民]]特质在多国毕业生发展感知中常年位居绝对垫底（[[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, pp. 89–90]]）。
 
-> [!ref-table]- [[Praxis|实践]]层面的[[Transfer Translation Transformation|转译]]分化与技能缺口
+> [!ref-table]- 实践层面的[[Transfer Translation Transformation|转译]]分化与技能缺口
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 调查情境 / 样本 | 研究方法 | 监测指标 / 现象 | 关键实证发现 | 解释边界与理论含义 |
 > |---|---|---|---|---|
-> | 美新三国 136 名 PhD 校友 | [[Comparative Case Study\|比较案例研究]] | 4C 技能与可迁移特质感知 | 团队合作（2.9/5）与非学术沟通存在巨大缺口，环境素养（2.8/5）严重边缘化 | SCD 话语对高等教育最高阶段的学科规训文化缺乏渗透力（Spronken-Smith et al., 2024） |
-> | 阿根廷与巴西教师教育者 | [[In-depth Interview\|深度访谈]] | 对能力课程标准的转译理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology\|认识论]]大杂烩 | 全球[[Floating Signifier\|漂浮能指]]的可塑性在课堂教学转化中变为概念混乱（Beech, 2009, pp. 358–359） |
+> | 美新三国 136 名 PhD 校友 | [[Comparative Case Study\|比较案例研究]] | 4C 技能与可迁移特质感知 | 团队合作（2.9/5）与非学术沟通存在巨大缺口，环境素养（2.8/5）严重边缘化 | SCD 话语对高等教育最高阶段的学科规训文化缺乏渗透力（[[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024]]） |
+> | 阿根廷与巴西教师教育者 | [[In-depth Interview\|深度访谈]] | 对能力课程标准的转译理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology\|认识论]]大杂烩 | 全球[[Floating Signifier\|漂浮能指]]的可塑性在课堂教学转化中变为概念混乱（[[Argument_Beech_2009_CE\|Beech, 2009, pp. 358–359]]） |
 > | 英格兰 11–18 岁中学生（SET） | 纵向追踪调查 | 课堂动手实验频率与[[Science Capital\|科学资本]] | 动手实验率从 44% 暴跌至 26%，高 SES 家庭科学资本与抱负优势扩大 | 考试事实回忆过载与经费短缺导致探究技能无法落地（Royal Society, 2026a, p. 33） |
 
 ---
@@ -221,8 +222,8 @@ updated: 2026-08-23
 > > [!axis] 核心素养话语的三重理论批判
 > >
 > > - **[[Epistemology|认识论]]批判（Epistemic Critique）** 批判技能话语试图抽离具体知识内容，假定存在一套通用的、脱离学科语境的独立思维技能；然而认知科学与科学教育表明，深度思维必须依赖扎实的领域专业知识与[[Big Ideas|大概念]]支撑（Royal Society, 2026a; Millar & Osborne, 1998）。
-> > - **政治经济学与治理批判（Critical Political Economy）** 指责 [[Single-Case Design|SCD]] 充当了新自由主义资本重构与教育商品化的意识形态遮羞布，通过“数据治理”剥夺了教师的专业自主权，并将教育公共品属性窄化为纯粹的劳动力技能供应（Zhao, 2020; Sjøberg, 2015）。
-> > - **人文主义与全人发展批判（Humanistic Critique）** 抨击结果导向素养将生命意义、同理心、审美与公民民主参与等崇高价值剔除出教育中心，造成人性的单向度工具化（Zelinka, 2022; McLeod, 2012）。
+> > - **政治经济学与治理批判（Critical Political Economy）** 指责 [[Single-Case Design|SCD]] 充当了新自由主义资本重构与教育商品化的意识形态遮羞布，通过“数据治理”剥夺了教师的专业自主权，并将教育公共品属性窄化为纯粹的劳动力技能供应（[[Argument_Zhao_2020_JEC|Zhao, 2020]]; Sjøberg, 2015）。
+> > - **人文主义与全人发展批判（Humanistic Critique）** 抨击结果导向素养将生命意义、同理心、审美与公民民主参与等崇高价值剔除出教育中心，造成人性的单向度工具化（[[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022]]; McLeod, 2012）。
 
 ---
 

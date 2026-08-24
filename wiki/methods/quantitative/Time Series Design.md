@@ -116,7 +116,7 @@ updated: 2026-08-21
 
 ### 经典设计亚型与符号模型
 
-> [!framework-table] 时间序列设计四大经典亚型对比（基于 Cohen et al., 2011; 齐梅, 2015）
+> [!framework-table] 时间序列设计四大经典亚型对比（基于 Cohen et al., 2011; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]]）
 > | 设计亚型 | 经典符号模型 | 核心机制与控制优势 | 主要效度威胁与防范 | 典型应用情境 |
 > |:---|:---:|:---|:---|:---|
 > | **单组间断时间序列<br>(Single-Group ITS)** | $O_1 O_2 O_3 O_4 \ \mathbf{X} \ O_5 O_6 O_7 O_8$ | 受试组成为自身对照；多次前测建立动态基线，有效控制成熟与均值回归 | 威胁：**共时历史事件（Co-occurring History）**；防范：查证同期外部政策 | 全校推行新晨读方案对阅读能力的演进影响 |

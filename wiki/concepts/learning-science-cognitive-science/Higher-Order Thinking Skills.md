@@ -9,23 +9,44 @@ aliases:
 summary: "超越基础信息再认与机械程序算法的复杂认知加工能力，对应布鲁姆认知目标分类学高阶层级并涵盖批判性思维、推论推理与复杂问题解决"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 confidence: high
 status: draft
 tags:
   - theme/higher-order-thinking
   - cognition/learning-science
   - theory/bloom-taxonomy
-related_concepts: []
+related_concepts:
+  - "[[Operationalization]]"
+  - "[[Critical Thinking]]"
+  - "[[Evaluation Research]]"
+  - "[[Document]]"
+  - "[[Hypothesis]]"
+  - "[[Internal Consistency]]"
+  - "[[Reliability]]"
+  - "[[Heterogeneity]]"
+  - "[[Cooperative Learning]]"
+  - "[[Creativity]]"
+  - "[[Confidence Interval]]"
+  - "[[Effect Size]]"
+  - "[[Academic Achievement]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Dependent Variable]]"
+  - "[[Prediction Interval]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Gungor_2026_CP]]"
 created: 2026-08-24
 updated: 2026-08-24
 ---
@@ -37,15 +58,15 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> 高阶思维技能（Higher-Order Thinking Skills，HOTS）是指超越简单的信息再认、事实记忆与既定程序算法套用的复杂认知加工过程。它具有非算法性（non-algorithmic）、高度心智投入与自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成多元解决方案或进行细致的情境化判断；在理论渊源上深植于布鲁姆认知目标分类学（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体操作化为批判性思维、推论推理与复杂问题解决等核心能力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]
+> 高阶思维技能（Higher-Order Thinking Skills，HOTS）是指超越简单的信息再认、事实记忆与既定程序算法套用的复杂认知加工过程。它具有非算法性（non-algorithmic）、高度心智投入与自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成多元解决方案或进行细致的情境化判断；在理论渊源上深植于布鲁姆认知目标分类学（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization|操作化]]为[[Critical Thinking|批判性思维]]、推论推理与复杂问题解决等核心能力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生对已有知识进行深层重构、推论、评估与整合创新的复杂高阶心智加工运作系统。
-> - **用途** 帮助教学与评价研究者超越低阶事实回忆与机械刷题测验，精准识别与培养面向21世纪知识社会的核心认知素养。
+> - **用途** 帮助教学与[[Evaluation Research|评价研究]]者超越低阶事实回忆与机械刷题测验，精准识别与培养面向21世纪知识社会的核心认知素养。
 > - **边界** 高阶思维技能不等于脱离具体学科领域的空洞思辨技巧，亦不同于遵循固定套路公式的常规程序性计算。
 
 > [!citation-card]- 关键表述
-> 高阶思维技能被定义为“非算法性的、需要付出心智努力的、涉及自我调节的复杂认知过程，通常会产生多种解决方案或在面对不确定性时需要细致入微的判断”（Resnick, 1987）。在当代文献中，它将批判性思维、推论推理和复杂问题解决等高阶能力操作化，所有这些能力都需要对习得知识进行深层加工与结构重组（Ghanizadeh et al., 2020）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]
+> 高阶思维技能被定义为“非算法性的、需要付出心智努力的、涉及自我调节的复杂认知过程，通常会产生多种解决方案或在面对不确定性时需要细致入微的判断”（Resnick, 1987）。在当代[[Document|文献]]中，它将批判性思维、推论推理和复杂问题解决等高阶能力操作化，所有这些能力都需要对习得知识进行深层加工与结构重组（Ghanizadeh et al., 2020）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]
 >
 > *HOTS are defined as complex cognitive processes that are non-algorithmic, effortful, and involve self-regulation, often yielding multiple solutions or requiring nuanced judgment in the face of uncertainty (Resnick, 1987)... operationalizes abilities such as critical thinking, inferential reasoning, and complex problem-solving (Ghanizadeh et al., 2020).*
 
@@ -58,10 +79,10 @@ updated: 2026-08-24
 ## 核心维度与构成
 
 > [!feature] 高阶思维的核心构成维度
-> - **分析能力（Analysis）** 识别材料的组织结构、区分核心要素与次要信息、剖析因果关联与潜在假设的能力。
-> - **评价能力（Evaluation）** 根据明确的内部一致性或外部效标准则，对观点、方法、证据质量与论证逻辑作出审慎学术判断的能力。
+> - **分析能力（Analysis）** 识别材料的组织结构、区分核心要素与次要信息、剖析因果关联与潜在[[Hypothesis|假设]]的能力。
+> - **评价能力（Evaluation）** 根据明确的[[Internal Consistency|内部一致性]]或外部效标准则，对观点、方法、证据质量与论证逻辑作出审慎学术判断的能力。
 > - **创造与综合能力（Creation & Synthesis）** 整合多元信息碎片、重构概念框架、设计创新解决方案或生成新颖思想产品的能力。
-> - **批判性思维（Critical Thinking）** 审视论据可靠性、识别逻辑偏误、抵御情感煽动并基于充足证据形成独立主张的思维品质。
+> - **[[Critical Thinking|批判性思维]]（Critical Thinking）** 审视论据[[Reliability|可靠性]]、识别逻辑偏误、抵御情感煽动并基于充足证据形成独立主张的思维品质。
 > - **复杂问题解决（Complex Problem-Solving）** 在目标模糊、信息不完备且路径非唯一的劣构情境中，自主规划、监测与迭代解决路径的实践认知能力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, p. 4)]]
 
 ---
@@ -73,10 +94,10 @@ updated: 2026-08-24
 ### 命题一　社会建构主义教学互动对高阶思维技能的发展具有强效赋能作用
 
 > [!concept-lens] 认知冲突与社会协商的赋能机制
-> 探讨异质性同伴互动中的观点碰撞、论证辩护与协同建构如何驱动学生从被动信息接受走向深层高阶思维。
+> 探讨[[Heterogeneity|异质性]]同伴互动中的观点碰撞、论证辩护与协同建构如何驱动学生从被动信息接受走向深层高阶思维。
 
-> [!claim] Güngör et al. (2026)
-> **合作互动对高阶思维的突出提升** 二阶元分析实证检验表明，合作学习教学干预对学生高阶思维技能（涵盖批判性思维与创造性思维）表现出高度显著的正向促进效应（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11], k = 4$），在所有具体学习产出类型中效应量位居首位（高于常规学业成就 $ES = 0.71$ 与情感行为 $ES = 0.51$）。在拼图法（Jigsaw）与小组调查等具体模式中，组员必须向他人解释复杂概念、应对同伴质疑并整合多元观点，这一社会建构过程直接诱发了认知冲突与深层反思，显著超越了传统讲授式教学对高阶思维发展的局限。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
+> [!claim] [[Argument_Gungor_2026_CP|Güngör et al. (2026)]]
+> **合作互动对高阶思维的突出提升** [[Meta-meta-analysis|二阶元分析]]实证检验表明，[[Cooperative Learning|合作学习]]教学干预对学生高阶思维技能（涵盖[[Critical Thinking|批判性思维]]与[[Creativity|创造性]]思维）表现出高度显著的正向促进效应（$ES = 0.76, 95\%\text{ [[Confidence Interval|CI]]} = [0.42, 1.11], k = 4$），在所有具体学习产出类型中[[Effect Size|效应量]]位居首位（高于常规[[Academic Achievement|学业成就]] $ES = 0.71$ 与情感行为 $ES = 0.51$）。在拼图法（Jigsaw）与小组调查等具体模式中，组员必须向他人解释复杂概念、应对同伴质疑并整合多元观点，这一社会建构过程直接诱发了认知冲突与深层反思，显著超越了传统讲授式教学对高阶思维发展的局限。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
 
 ---
 
@@ -85,7 +106,7 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **社会建构赋能** | 同伴合作与结构化协商互动是激发学生分析、评价、创造与批判性高阶思维的关键教学机制。 | 课堂互动设计、探究式学习与高阶素养导向课程改革 | Güngör et al. (2026); Resnick (1987); Ghanizadeh et al. (2020) |
+> | **社会建构赋能** | 同伴合作与结构化协商互动是激发学生分析、评价、创造与批判性高阶思维的关键教学机制。 | 课堂互动设计、探究式学习与高阶素养导向课程改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Resnick (1987); Ghanizadeh et al. (2020) |
 
 ---
 
@@ -95,22 +116,22 @@ updated: 2026-08-24
 > - **1956 — 认知目标分类学奠基** Bloom 等人提出认知领域教育目标分类学，确立从知识、领会、运用到分析、综合、评价的六级阶梯，奠定高阶思维的层级框架。
 > - **1980s — 认知科学转向与思维教学兴起** Resnick（1987）系统阐述“教育与学习思考”，明确高阶思维的非算法性、复杂性与自我调节属性，推动思维技能显性教学运动。
 > - **2001 — 布鲁姆分类学修订** Anderson & Krathwohl 对分类学进行二维重构（知识维度 × 认知过程维度），将“创造”（Create）置于认知过程最高层级。
-> - **2020s 至今 — 21世纪核心素养与跨领域证据综合** 高阶思维成为全球课程改革的核心靶标；二阶元分析实证证实建构主义同伴互动对高阶思维的强效驱动作用。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
+> - **2020s 至今 — 21世纪[[21st Century Skills and Competencies Discourse|核心素养]]与跨领域证据综合** 高阶思维成为全球课程改革的核心靶标；[[Meta-meta-analysis|二阶元分析]]实证证实[[Constructivist Paradigm|建构主义]]同伴互动对高阶思维的强效驱动作用。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- 元分析总体结果
+> [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% CI | 异质性与预测区间 | 证据确定性 |
+> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 高阶思维技能（HOTS） | 4 / — | Cohen's d；随机效应模型 | 0.76 [0.42, 1.11] | — | 高度显著促进效应 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 高阶思维技能（HOTS） | 4 / — | Cohen's d；[[Fixed-Effect and Random-Effects Models\|随机效应模型]] | 0.76 [0.42, 1.11] | — | 高度显著促进效应 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 运用二阶元分析系统考察合作学习对高阶思维技能的干预效应，报告了 $ES = 0.76$ 的高效益表现，证实社会建构互动对学生复杂认知与批判性思维发展的关键推动价值。
+> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 运用[[Meta-meta-analysis|二阶元分析]]系统考察[[Cooperative Learning|合作学习]]对高阶思维技能的干预效应，报告了 $ES = 0.76$ 的高效益表现，证实社会建构互动对学生复杂认知与[[Critical Thinking|批判性思维]]发展的关键推动价值。
