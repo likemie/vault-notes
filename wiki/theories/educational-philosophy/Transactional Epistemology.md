@@ -5,7 +5,7 @@ aliases:
 summary: "Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 20
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[Constructivist Paradigm]]"
   - "[[Document]]"
-  - "[[Praxis]]"
   - "[[Theory of Knowledge]]"
   - "[[Value-Based Education]]"
 related_theories: []
@@ -105,7 +104,7 @@ updated: 2026-07-10
 > **目前状态** 此哲学争议在教育研究领域持续；Ercikan & Roth (2006) 以及 Maxwell (2004) 在[[Mixed Methods Research|混合方法]][[Document|文献]]中提供了折中方案——承认知识的交易性但不放弃跨情境比较。
 
 
-> [!warning] 对科学[[Praxis|实践]]的描述是否准确
+> [!warning] 对科学实践的描述是否准确
 > 批评者指出，即使交易认识论在哲学上成立，科学家和教师在实践决策中实质上使用"表象认识论思维"——他们会说"研究显示 X 有效"，而不是"研究显示 X 过去在这种情况下产生过这种关系"。
 >
 > **目前状态** 此张力指出了[[Philosophical Analysis in Education|哲学分析]]和实践决策之间的不匹配——哲学家（如 Biesta）追求概念精确性，实践者（如教师）需要可操作的启发式——两者可能永远无法完全对齐。

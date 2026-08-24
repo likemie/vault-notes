@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 75
+related_count: 74
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
@@ -109,7 +108,7 @@ updated: 2026-07-15
 ## 定义
 
 > [!def] 核心定义
-> [[Evidence-Based Education|循证教育]]（Evidence-Based Education，EBE）批判指围绕 EBE 的[[Epistemology|认识论]]前提、方法论基础、实施效果和政治后果形成的多维度批评体系。这些批判并非对"教育[[Praxis|实践]]应参考研究证据"这一基本理念的否定，而是追问：什么算作证据？谁来决定证据的等级？将医学的[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial，RCT）[[Paradigm|范式]]移植到教育领域是否正当？"什么有效"（what works）的追问方式本身是否遮蔽了更根本的教育问题？
+> [[Evidence-Based Education|循证教育]]（Evidence-Based Education，EBE）批判指围绕 EBE 的[[Epistemology|认识论]]前提、方法论基础、实施效果和政治后果形成的多维度批评体系。这些批判并非对"教育实践应参考研究证据"这一基本理念的否定，而是追问：什么算作证据？谁来决定证据的等级？将医学的[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial，RCT）[[Paradigm|范式]]移植到教育领域是否正当？"什么有效"（what works）的追问方式本身是否遮蔽了更根本的教育问题？
 
 > [!concept-lens] 概念透镜
 > - **含义** 对 EBE 运动的哲学、方法论、制度和政治维度的系统性批评，揭示其隐含的认识论[[Hypothesis|假设]]、方法论局限和制度后果。
@@ -133,7 +132,7 @@ updated: 2026-07-15
 > - **2004–2010** — 批判性[[Document|文献]]兴起：Hammersley (2005)、Holmes et al. (2006)、Smeyers & Depaepe (2006)
 > - **2007** — Biesta 在 *Educational Theory* 发表 "Why 'what works' Won't Work"，提出"民主缺陷"概念
 > - **2010** — Biesta 正式提出**三重缺陷**的完整框架（知识缺陷、效力缺陷、应用缺陷）（详见 [[Argument_Biesta_2010_SPE|Biesta, 2010]]）
-> - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究证据本位政策[[Praxis|实践]]（Evidence-Based Policy，EBP）的实施困境（详见 [[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]）
+> - **2015** — Cowen & Cartwright 发表 CHESS 工作论文，通过教师访谈实证研究证据本位政策实践（Evidence-Based Policy，EBP）的实施困境（详见 [[Argument_Cowen_2015_CHESS|Cowen et al., 2015]]）
 > - **2016** — Peterson 在 *IJRME* 发表"什么有效 2.0"提案：以[[Mechanism Experiments|机制实验]]取代黑箱 [[Randomised Controlled Trials|RCT]]，以改进网络作为实施基础设施([[Argument_Peterson_2016_IJRME|Peterson, 2016]])
 > - **2016** — Pampaka, Williams & Homer 编辑 IJRME 特刊 *Is the educational 'what works' agenda working?*，诊断"至今很少有显著正向的教育实践在大规模上出现"（p.231），并识别 agency 作为核心哲学分歧([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016]])
 > - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性；Wrigley & McCusker 论证证据本位教学（Evidence-Based Teaching，EBT）的"科学"宣称基于过分简化的民间科学观；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的
@@ -149,7 +148,7 @@ updated: 2026-07-15
 > - **[[Epistemology|认识论]]层面** 质疑 [[Evidence-Based Education|EBE]] 将实验因果识别作为最高证据等级的[[Theory of Knowledge|知识论]]前提，追问教育知识的本质是否可还原为干预效果估计。
 > - **方法论层面** 质疑 [[Randomised Controlled Trials|RCT]] 在教育领域的可操作性、[[Meta-analysis|元分析]]在合成不可比研究时的合法性，以及[[Effect Size|效应量]]作为教育有效性指标的解释边界。
 > - **制度与政治层面** 质疑 EBE 作为治理工具如何重塑教育研究资助流向、边缘化[[Qualitative Research|质性研究]]和批判性学术，以及如何通过"证据"话语为特定政策议程背书。
-> - **实施层面** 质疑"什么有效"的证据在课堂[[Praxis|实践]]中的可迁移性，以及教师[[Professional Judgment|专业判断]]在证据等级框架中被系统性地贬低的后果。
+> - **实施层面** 质疑"什么有效"的证据在课堂实践中的可迁移性，以及教师[[Professional Judgment|专业判断]]在证据等级框架中被系统性地贬低的后果。
 
 ---
 
@@ -194,7 +193,7 @@ updated: 2026-07-15
 > [!claim] Biesta G. (2007 2010) — 民主缺陷与三重缺陷
 > **民主缺陷** 将教育决策从民主协商转移到技术官僚手中——"什么有效"的优先性遮蔽了"什么是值得做的"。Biesta (2007) 在 *Educational Theory* 发表 *Why 'what works' Won't Work*，首次提出这一概念。
 >
-> **三重缺陷** 从认识论（实验无法预测未来）、存在论（教育因果非线性）和[[Praxis|实践]]论（科学应用不是线性传递）三个层面对 EBE 进行系统批判。这三重缺陷分别对应 EBE 在"实验证据能预测未来效果"、"教育因果是线性的"和"科学进步来自知识的应用"三个隐含[[Hypothesis|假设]]上的失败。[[Argument_Biesta_2010_SPE|Biesta (2010)]]
+> **三重缺陷** 从认识论（实验无法预测未来）、存在论（教育因果非线性）和实践论（科学应用不是线性传递）三个层面对 EBE 进行系统批判。这三重缺陷分别对应 EBE 在"实验证据能预测未来效果"、"教育因果是线性的"和"科学进步来自知识的应用"三个隐含[[Hypothesis|假设]]上的失败。[[Argument_Biesta_2010_SPE|Biesta (2010)]]
 
 > [!claim] Wrigley T. (2018) — 批判实在论与施为者悖论
 > Wrigley 借助 [[Roy Bhaskar]] 的[[Critical Realism|批判实在论]]对 EBE 进行深层解构：（1）实在区分为深层因果机制、实际事件与经验现象三层，EBE 只停留在经验层面计算效应量均值；（2）教育是多层交互的开放系统，整体效果不等于各部分线性累加；（3）RCT 极力控制并视为"污染源"的教师意志和学生推理，恰恰是产生教学效果的必要因果机制。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 6, 7, 15)]]
@@ -309,7 +308,7 @@ updated: 2026-07-15
 ## 相关研究
 
 > [!evidence-grid-a] 核心[[Document|文献]]索引
-> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 从[[Epistemology|认识论]]、存在论和[[Praxis|实践]]论三维提出 [[Evidence-Based Education|EBE]] 的三重缺陷框架
+> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 从[[Epistemology|认识论]]、存在论和实践论三维提出 [[Evidence-Based Education|EBE]] 的三重缺陷框架
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]为框架系统解构 EBE 的方法论预设，揭示施为者悖论
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 运用 Goldman 区分理论论证 EBE 在原则上不可完成
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] — 以 [[Education Endowment Foundation|EEF]] Toolkit 案例追踪[[Meta-meta-analysis|元-元分析]]三级失真，提出简单科学观批判

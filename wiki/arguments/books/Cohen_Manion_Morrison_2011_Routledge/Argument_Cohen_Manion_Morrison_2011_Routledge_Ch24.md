@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_display_title: "Research Methods in Education · Ch24"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,8 +40,8 @@ related_concepts:
   - "[[Achievement and Aptitude Tests]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Locus of Control]]"
-  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Reliability]]"
   - "[[Item Analysis]]"
@@ -88,6 +88,8 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Rasch Measurement]]"
   - "[[Role-playing]]"
+related_instruments:
+  - "[[Consensual Assessment Technique]]"
 status: draft
 created: 2026-07-24
 updated: 2026-07-26
@@ -135,7 +137,7 @@ updated: 2026-07-26
 > | computer-based assessment | 计算机化评估 | [[Creativity]] | 创造力 |
 > | [[Critical Thinking\|critical thinking]] | 批判思维 | cross-cultural adjustment | 跨文化适应 |
 > | depression | 抑郁 | diagnostic assessment | 诊断性评估 |
-> | diagnosis of difficulties | 困难诊断 | higher order thinking | 高阶思维 |
+> | diagnosis of difficulties | 困难诊断 | [[Higher-Order Thinking Skills\|higher order thinking]] | 高阶思维 |
 > | intelligence | 智力 | interest inventories | 兴趣量表 |
 > | introversion and extraversion | 内外向 | language proficiency tests | 语言能力测验 |
 > | learning disabilities | 学习障碍 | [[Locus of Control\|locus of control]] | 控制点 |
@@ -1060,7 +1062,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 ### 24.9 计算机自适应测验
 
 > [!info] IRT 的技术实现与信效度代价
-> [[Computerized Adaptive Testing|计算机自适应测验]]（CAT）代表了测验技术的前沿，它利用 [[Item Response Theory|IRT]] 的数学基础，根据受试者的实时表现动态调整项目难度。CAT 的核心承诺是在不牺牲测量精度的前提下大幅缩短测验长度，但这依赖于大型经校准的项目库和严格的单维性假设。同时，CAT 引入了传统纸笔测验所没有的信效度问题——认知过程差异、动机影响和信度含义的转换。
+> [[Computerized Adaptive Testing|计算机自适应测验]]（[[Consensual Assessment Technique|CAT]]）代表了测验技术的前沿，它利用 [[Item Response Theory|IRT]] 的数学基础，根据受试者的实时表现动态调整项目难度。CAT 的核心承诺是在不牺牲测量精度的前提下大幅缩短测验长度，但这依赖于大型经校准的项目库和严格的单维性假设。同时，CAT 引入了传统纸笔测验所没有的信效度问题——认知过程差异、动机影响和信度含义的转换。
 
 > [!def] 计算机自适应测验（CAT）
 > 根据受试者对先前项目的回答决定施测哪些测验项目（Wainer, 1990; Aiken, 2003, pp. 50–52）。首题置于假设能力范围的中位；答对 → 下一题更难，答错 → 下一题更易。
@@ -1149,7 +1151,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 >
 > *The test data should only be used for the purpose for which the test was constructed; too often test data become used for purposes other than these, and this is ethically highly questionable.*
 
-> [!citation-card]- CAT 的效率
+> [!citation-card]- [[Consensual Assessment Technique|CAT]] 的效率
 > [[Computerized Adaptive Testing|计算机自适应测验]]可以将测验项目数减少至传统测验的约 50%。（第 24 章，24.9 节；Aiken, 2003, p. 51）
 >
 > *Computer adaptive testing can reduce the number of test items present to around 50 per cent of those used in conventional tests.*

@@ -6,7 +6,7 @@ aliases:
 summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell and Stanley 经典框架列出十种主要威胁，Onwuegbuzie and Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Sample Size Determination]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -138,7 +137,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 ### 随机化实验中的额外威胁
 
 > [!factors] [[Randomised Controlled Trials|RCT]] 中的额外偏差来源（Torgerson & Torgerson, 2003b）
-> - **随机化的[[Praxis|实践]]局限** 并非所有混淆[[Variable|变量]]都能在随机化过程中得到适当控制——随机化在理论上完美，但在实践中受限于[[Sample Size Determination|样本量]]和实施质量（Hammersley, 2008, p. 4; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 332]]）。
+> - **随机化的实践局限** 并非所有混淆[[Variable|变量]]都能在随机化过程中得到适当控制——随机化在理论上完美，但在实践中受限于[[Sample Size Determination|样本量]]和实施质量（Hammersley, 2008, p. 4; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, p. 332]]）。
 > - **小样本的偶然失衡** 小样本中偶然因素可能导致严重失衡——例如 40 名学生中有 4 名阅读障碍者，全部四人随机落入同一组的概率不可忽略。可通过**最小化（minimisation）**策略应对（Torgerson & Torgerson, 2003b, p. 40）。
 > - **稀释偏差（Dilution Bias）** 控制组因未接触干预而主动寻求补偿性处理——例如在测试增加数学关注效果的实验中，控制组学生自行参加私人数学课程（p. 38）。
 > - **流失偏差（Attrition Bias）** 实验组部分学生退出——若只分析留守学生的结果会高估干预效果。参加自愿周六早间加强班的学生中，退出者本身动机水平可能较低（Torgerson & Torgerson, 2003a, pp. 74–75）。
@@ -154,7 +153,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性[[Internal Validity|内部效度]]
 
 > [!challenges] 十二种质性内部效度威胁
 > - **1. 反讽合法化（Ironic legitimation）** 研究能否识别和处理同一情境的多重、甚至同时矛盾的现实和解释？当不同参与者对同一事件有截然不同的叙述时，研究是否只是选择了最方便的版本？
-> - **2. 悖论合法化（Paralogical legitimation）** 研究能否捕捉和处理效度主张中的悖论？例如一位教师同时声称"我完全按照课程大纲教学"和"我经常根据学生需要灵活调整"，这种表面矛盾的陈述可能恰恰反映了教育[[Praxis|实践]]的复杂性。
+> - **2. 悖论合法化（Paralogical legitimation）** 研究能否捕捉和处理效度主张中的悖论？例如一位教师同时声称"我完全按照课程大纲教学"和"我经常根据学生需要灵活调整"，这种表面矛盾的陈述可能恰恰反映了教育实践的复杂性。
 > - **3. 根茎合法化（Rhizomatic legitimation）** 当研究者绘制数据地图（mapping）而非描述数据时，丢失了多少信息？将丰富的生活经验压缩为概念节点和关系线时不可避免有损失，但研究者是否意识到了这种损失并做了弥补？
 > - **4. 过度合法化（Voluptuous legitimation）** 对数据的解释是否超出了研究者从数据中支持该解释的能力？例如从三个教师的访谈中推断出全国性结论——数据不足以承载这个主张。
 > - **5. [[Descriptive Validity|描述效度]]（Descriptive validity）** 研究者所给描述的准确性——事实层面的[[Reliability|可靠性]]。

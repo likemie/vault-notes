@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "research-methodology"
-related_count: 58
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,7 +47,6 @@ related_concepts:
   - "[[Iatrogenic Effects in Education]]"
   - "[[Attrition]]"
   - "[[Implementation Fidelity]]"
-  - "[[Praxis]]"
   - "[[Emergence]]"
   - "[[Heterogeneity]]"
   - "[[Causal Processes]]"
@@ -258,7 +257,7 @@ updated: 2026-08-21
 > > [!axis] 纯净因果控制 vs 现实生态复杂性
 > > 争论过于追求封闭环境中的高[[Internal Validity|内部效度]]控制，是否会牺牲干预在常规学校与复杂课堂中的真实生命力。
 > >
-> > - **实验方法学派** 坚守内部效度优先原则，强调因果关系不清的研究无法提供任何有效[[Praxis|实践]]指导([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 461]])。
+> > - **实验方法学派** 坚守内部效度优先原则，强调因果关系不清的研究无法提供任何有效实践指导([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 461]])。
 > > - **复杂系统学派** 批评社会系统具有开放性与[[Emergence|涌现]]性（Emergence），过度隔离混杂可能脱离真实情境脉络([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch. 16, p. 319]])。
 >
 > > [!axis] 平均处理效应（ATE） vs [[Heterogeneity|异质性]]因果效应（HTE）

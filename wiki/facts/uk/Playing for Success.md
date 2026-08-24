@@ -8,7 +8,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Mentorship]]"
-  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
   - "[[School Leadership]]"
@@ -60,7 +59,7 @@ updated: '2026-05-18'
 > - **总时长** 每名学生 20 小时（持续约 6 个月）
 > - **资源投入** 一对一辅导（one-to-one [[Mentorship|mentoring]]）、专用 ICT 套件
 > - **课程设计** 个性化课程（personalised curriculum），适应每个学生在读写、计算和 ICT 技能方面的个人需求
-> - **教学方法** 围绕[[Praxis|实践]]性和情境化活动设计——数学步道（mathematics trails）、数座位和测量球场、使用门票收入与商店/餐厅/售货亭销售数据进行计算和数据操作、撰写比赛报道、研究和撰写球员传记、编制体育杂志或比赛节目、使用体育主题任务学习互联网搜索
+> - **教学方法** 围绕实践性和情境化活动设计——数学步道（mathematics trails）、数座位和测量球场、使用门票收入与商店/餐厅/售货亭销售数据进行计算和数据操作、撰写比赛报道、研究和撰写球员传记、编制体育杂志或比赛节目、使用体育主题任务学习互联网搜索
 >
 > > 例：学生在数学方面不是做抽象练习题，而是通过测量足球场尺寸、计算门票收入和商店销售额来学习数据操作和计算——这些活动对他们来说具有直接的意义和目的([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 121]])。
 
@@ -95,7 +94,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success] 影响与后果
-> Playing for Success 案例在学术[[Document|文献]]中已成为**说明[[Meta-meta-analysis|元-元分析]]如何通过多级统计聚合系统性消除因果解释信息**的经典案例。它同时展示了"什么有效"思维方式（what works mentality）的局限——知道平均[[Effect Size|效应量]]为 0.17 对试图决定是否投资体育项目的[[School Leadership|学校领导]]者几乎没有用处；理解 Playing for Success 为什么成功（情境化课程、地位提升、一对一辅导、密集时间投入）才可能指导[[Praxis|实践]]决策。
+> Playing for Success 案例在学术[[Document|文献]]中已成为**说明[[Meta-meta-analysis|元-元分析]]如何通过多级统计聚合系统性消除因果解释信息**的经典案例。它同时展示了"什么有效"思维方式（what works mentality）的局限——知道平均[[Effect Size|效应量]]为 0.17 对试图决定是否投资体育项目的[[School Leadership|学校领导]]者几乎没有用处；理解 Playing for Success 为什么成功（情境化课程、地位提升、一对一辅导、密集时间投入）才可能指导实践决策。
 
 ## 相关概念／政策
 

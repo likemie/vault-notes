@@ -5,10 +5,10 @@ aliases:
 summary: "把专业实践理解为以手段目的计算解决问题的实证主义模型，强调技术控制、价值中立和标准化决策，是批判教育技术化的重要参照"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - technical-rationality
 - positivism
@@ -16,7 +16,6 @@ tags:
 - paradigm/positivist
 related_concepts:
   - "[[Positivism]]"
-  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Value Neutrality]]"
   - "[[Professional Judgment]]"
@@ -53,14 +52,14 @@ updated: '2026-05-18'
 >
 > > "Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts|account]] of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind." (Schön, 1983, p. 31)
 >
-> 其核心主张是：**专业[[Praxis|实践]]应通过应用基础科学知识来解决实际问题**。工程师对材料和工件的设计与分析、医生对疾病的诊断与治疗，已成为所有专业领域——包括教育——的"科学本位的技术实践"模型（Nielsen & Klitmøller, 2021, p. 82）。
+> 其核心主张是：**专业实践应通过应用基础科学知识来解决实际问题**。工程师对材料和工件的设计与分析、医生对疾病的诊断与治疗，已成为所有专业领域——包括教育——的"科学本位的技术实践"模型（Nielsen & Klitmøller, 2021, p. 82）。
 >
 > > 例：在教育中，如果一个学校面临学生阅读成绩低下的问题，技术理性的回应方式是：查阅关于阅读教学的研究证据（如 [[Education Endowment Foundation|EEF]] Toolkit 或 Hattie 的[[Effect Size|效应量]]排名），选择效应量最高的干预方法，在课堂中忠实实施，然后通过标准化测试测量效果——整个过程类似于医生诊断→处方→治疗→复查的流程。
 
 ## 理论内部结构
 
 > [!abstract] 手段-目的思维（Means-Ends Thinking）
-> 技术理性铺平了教育中的手段-目的思维——问题被理解为独立于其所属情境的实体，可以通过查阅和应用基础科学知识来解决（Nielsen & Klitmøller, 2021, p. 82）。核心目标是识别因果——必然导致特定效果的"原因"——从而产生能解决手头[[Praxis|实践]]问题的理论。
+> 技术理性铺平了教育中的手段-目的思维——问题被理解为独立于其所属情境的实体，可以通过查阅和应用基础科学知识来解决（Nielsen & Klitmøller, 2021, p. 82）。核心目标是识别因果——必然导致特定效果的"原因"——从而产生能解决手头实践问题的理论。
 
 
 > [!abstract] [[Value Neutrality|价值中立]]（Value-Neutrality）
@@ -81,7 +80,7 @@ updated: '2026-05-18'
 
 > [!note-] 发展脉络
 > - **19 世纪** — [[Positivism|实证主义]]哲学兴起，科学和技术被视为解决人类问题的根本途径
-> - **1983** — [[Donald A. Schön|Donald Schön]] 出版 *The Reflective Practitioner*，系统阐述技术理性概念及其在专业[[Praxis|实践]]中的局限，提出"[[Reflexivity|反思性]]实践者"作为替代模型
+> - **1983** — [[Donald A. Schön|Donald Schön]] 出版 *The Reflective Practitioner*，系统阐述技术理性概念及其在专业实践中的局限，提出"[[Reflexivity|反思性]]实践者"作为替代模型
 > - **1976** — [[Jürgen Habermas|Habermas]] 出版 *Legitimation Crisis*，论证技术理性作为国家治理媒介替代传统共识理性的过程
 > - **1984** — Habermas 出版 *The Theory of Communicative Action*，发展系统/生活世界的二元框架，进一步阐述技术理性的制度功能
 > - **2009** — Hattie 出版 *[[Visible Learning]]*，被 Nielsen & Klitmøller (2021) 识别为教育领域技术理性的典型体现——将教学分解为可测量、可排名的技术干预
@@ -91,11 +90,11 @@ updated: '2026-05-18'
 
 > [!info] 研究[[Paradigm|范式]]
 > - [[Epistemology|认识论]]立场：[[Positivism|实证主义]]——[[Hypothesis|假设]]关于"什么有效"的知识可以通过标准化的科学程序（实验、测量、统计）获得并累积
-> - 与[[Evidence-Based Education|证据本位教育]]（EBE）的关系：技术理性是 EBE 运动的深层理论内核——EBE 的医学类比和方法论偏好（[[Randomised Controlled Trials|RCT]]、[[Effect Size|效应量]]、[[Systematic Review|系统综述]]）都源于技术理性对专业[[Praxis|实践]]的理解
+> - 与[[Evidence-Based Education|证据本位教育]]（EBE）的关系：技术理性是 EBE 运动的深层理论内核——EBE 的医学类比和方法论偏好（[[Randomised Controlled Trials|RCT]]、[[Effect Size|效应量]]、[[Systematic Review|系统综述]]）都源于技术理性对专业实践的理解
 
 ## 争议与批评
 
-> [!warning] Schön (1983) 的[[Reflexivity|反思性]][[Praxis|实践]]替代
+> [!warning] Schön (1983) 的[[Reflexivity|反思性]]实践替代
 > Schön 论证技术理性在"无序"实践情境中存在根本局限——真实世界的专业实践充满了不确定性、不稳定性和价值冲突，这些"沼泽地"问题正是技术理性的方法无法处理的。他提出**[[Reflexivity|反思性]]实践（reflective practice）**作为替代模型。
 
 

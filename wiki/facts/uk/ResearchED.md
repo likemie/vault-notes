@@ -7,7 +7,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Theory of Mind]]"
   - "[[Evidence-Based Education]]"
-  - "[[Praxis]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
@@ -64,7 +63,7 @@ updated: 2026-07-08
 ## 经过
 
 > [!dev-timeline]- 事件经过
-> - **2013 — 创立与思想奠定** 教师 [[Theory of Mind|ToM]] Bennett 出版著作《防教师计划》（*Teacher Proof*），痛陈“学习风格”等假科学，提倡以 [[Randomised Controlled Trials|RCT]] 作为唯一可靠的教育科学标准；同年创立 ResearchED 会议网络，标榜为教师主导、弥合研究与[[Praxis|实践]]距离的草根运动([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
+> - **2013 — 创立与思想奠定** 教师 [[Theory of Mind|ToM]] Bennett 出版著作《防教师计划》（*Teacher Proof*），痛陈“学习风格”等假科学，提倡以 [[Randomised Controlled Trials|RCT]] 作为唯一可靠的教育科学标准；同年创立 ResearchED 会议网络，标榜为教师主导、弥合研究与实践距离的草根运动([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
 > - **2015 — 官方背书与政治收编** ResearchED 迅速得到英国保守党政府学校部长 Nick Gibb 的强力背书，Gibb 在主旨演讲中甚至声称 ResearchED 的存在归功于他的政策倡导，标志着该运动与政府教育改革议程的深度绑定。
 > - **2016–至今 — 跨国扩张与争议深化** ResearchED 在澳大利亚、新西兰、美国等国建立国际分支会议。其在英国的政策活动中，频繁将 [[Education Endowment Foundation|EEF]] 发布的《教学与学习工具包》引为权威，面临方法论学者关于其“去情境化科学观”的系统性批判。
 
@@ -100,7 +99,7 @@ updated: 2026-07-08
 ## 争议与评论
 
 > [!actor-grid] 评论视角
-> - **当事方 / 官方视角** [[Theory of Mind|ToM]] Bennett 等倡导者认为 ResearchED 赋予了教师“声音”，打破了大学学术界对教育研究的权力垄断，让教师能够独立评估和识别“什么有效”，以科学知识赋能课堂[[Praxis|实践]]。
+> - **当事方 / 官方视角** [[Theory of Mind|ToM]] Bennett 等倡导者认为 ResearchED 赋予了教师“声音”，打破了大学学术界对教育研究的权力垄断，让教师能够独立评估和识别“什么有效”，以科学知识赋能课堂实践。
 > - **学术 / 方法视角**[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 与 [[Gary Thomas]] 等学者指出，ResearchED 奉行的“唯 [[Randomised Controlled Trials|RCT]] 论”在[[Ontology|本体论]]上犯了层次混淆的错误。许多重大科学发现（如进化论、天文学）并不依赖实验，而是源于密切观察与最佳解释推理（inference to the best explanation）([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 3]])。
 > - **政策 / 制度视角**[[Stephen Ball]] 与 Carol Black 等学者认为，标榜“草根”的 ResearchED 遭到保守党政客的迅速背书，实质上沦为政府推行新自由主义审计文化、对教师队伍实施技术化控制、并打击“左翼”高等教育机构的修辞工具([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 124]])。
 

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -81,6 +81,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Stanford Prison Experiment]]"
+  - "[[RAiSE Programme]]"
 related_arguments: []
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
@@ -854,7 +855,7 @@ Goldthorpe 随后用经验数据检验假设，考察三组证据集群（pp.87�
 > [!citation-card]- 论[[Causality|因果性]]的概率本质
 > 原因通常提高其效果的可能性，而不是保证它们。（Mellor, 1995, pp. 69–70）
 >
-> *Causes often raise the likelihood of their effects rather than guaranteeing them.*
+> *Causes often [[RAiSE Programme|RAiSE]] the likelihood of their effects rather than guaranteeing them.*
 
 > [!citation-card]- [[Causal Over-determination|因果过度决定]]的定义
 > 因果过度决定是指一个特定效果是多个原因的产物，而其中每一个原因本身都足以单独产生该效果。（p.63）

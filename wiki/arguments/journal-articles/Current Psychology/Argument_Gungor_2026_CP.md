@@ -47,6 +47,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Peer-Supported Learning]]"
   - "[[Paradigm]]"
+  - "[[Think-Pair-Share]]"
   - "[[Publication Bias]]"
   - "[[Blue Skies Research]]"
   - "[[Task Structure]]"
@@ -94,7 +95,7 @@ title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -156,7 +157,7 @@ issuing_organization: ""
 > | **拼图法**<br>（Jigsaw） | 由 Aronson et al. (1978) 开创并经 Slavin (1986) 发展的角色互补型合作技术，通过任务信息不对称强制组员相互依存。 | 四步规程：原属组（Home Group）分派不同学习模块 $\to$ 各组负责相同模块者组成专家组（Expert Group）深入研讨 $\to$ 返回原属组轮流教授组员 $\to$ 个人独立测验；纳入 Özkan & Çetinkaya-Uslusoy (2024)、Solissa et al. (2023)、Stanczak et al. (2022)、Shakerian et al. (2020) 等 6 个效应量，加权平均 $ES = 0.72$。 |
 > | **学生小组成就区分法**<br>（Student Teams-Achievement Divisions，STAD） | 由 Slavin (1978) 开发的经典结构化合作技术，强调个人进步分与团队奖励机制，以消除组内搭便车与同伴地位差异。 | 规程：教师授课 $\to$ 异质小组研讨与互测 $\to$ 独立小测 $\to$ 基于个人超越历史基线的进步分（Improvement Points）计算团队奖励；在一阶元分析中广泛整合于综合合作学习池中。 |
 > | **团队游戏竞赛法**<br>（Teams-Games-Tournament，TGT） | 由 DeVries & Edwards (1973) 提出的合作-竞赛混合[[Paradigm\|范式]]，用同质学术竞赛台替代传统闭卷测验。 | 规程：异质小组共同准备 $\to$ 组员按先前成就水平分派至同质三人竞赛台（Tournament Tables）竞答抢分 $\to$ 赢取积分带回原属小组 $\to$ 组间竞争表彰；整合于综合合作学习类别中。 |
-> | **思考配对分享**<br>（Think-Pair-Share，TPS） | 由 Lyman (1981) 提出的低门槛短周期即时合作策略，旨在最大化课堂全员参与度。 | 规程：教师提问 $\to$ 学生独立思考（Think, 1-2分钟） $\to$ 同桌两人配对交流修正（Pair, 3-5分钟） $\to$ 面向全班分享（Share）；整合于综合合作学习类别中。 |
+> | **[[Think-Pair-Share\|思考配对分享]]**<br>（Think-Pair-Share，TPS） | 由 Lyman (1981) 提出的低门槛短周期即时合作策略，旨在最大化课堂全员参与度。 | 规程：教师提问 $\to$ 学生独立思考（Think, 1-2分钟） $\to$ 同桌两人配对交流修正（Pair, 3-5分钟） $\to$ 面向全班分享（Share）；整合于综合合作学习类别中。 |
 > | **综合合作学习** | 涵盖 Johnson & Johnson (1989) 合作学习五要素模型（学习在一起（Learning Together，LT）），或一阶元分析未对具体教学法拆分而进行统合评估的整体干预模式。 | 强调积极互赖、个体责任、面对面促进性互动、社交技能与小组自评五要素；纳入 Çapar & Tarım (2015)、Kyndt et al. (2013)、Ridwan et al. (2022)、Siagian et al. (2023)、Warfa (2016) 等 14 个效应量，加权平均 $ES = 0.61$。 |
 >
 > **图表解读** 本表系统界定了[[Meta-meta-analysis|二阶元分析]]中 4 类学习产出与 7 类合作学习技术的核心理论构念、操作化定义、典型教学规程、代表性测评工具及纳入的一阶元分析实证案例，为二阶亚组调节分析与教学转化提供了精准的分类学与操作化基准。（pp. 3–7）

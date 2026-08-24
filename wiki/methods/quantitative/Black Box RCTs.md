@@ -7,7 +7,7 @@ summary: "一种不解释干预如何、为何以及在何种条件下有效的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Effect Size]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Clinical Trial]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Paradigm]]"
@@ -71,7 +70,7 @@ updated: '2026-05-18'
 >
 > 提高学生成就依赖于教师和校长的有效活动（Hattie & Anderman, 2013）。黑箱 RCT 几乎不提供信息来指导这些从业者的日常活动。在黑箱方法中，教师是向学生受试者成功交付项目设计的**管道**——极少数 RCT 设计考虑到实施者的经验([[Argument_Peterson_2016_IJRME|Peterson, 2016, p. 301]])。
 >
-> 此缺陷可追溯至医学起源：随机实验测试的是标准化产品（药物），但只有极少数的教育[[Praxis|实践]]可以被商品化——如计算机软件或盒装社会和情感学习课程。Cook (2002) 的建议——聚焦于直接交付给学生的"不同课程"或"新技术"——被证明在没有教师支持时效果很小或无效果（Higgins, Xiao, & Katsipataki, 2012; Kremer, Brannen, & Glennerster, 2013）。
+> 此缺陷可追溯至医学起源：随机实验测试的是标准化产品（药物），但只有极少数的教育实践可以被商品化——如计算机软件或盒装社会和情感学习课程。Cook (2002) 的建议——聚焦于直接交付给学生的"不同课程"或"新技术"——被证明在没有教师支持时效果很小或无效果（Higgins, Xiao, & Katsipataki, 2012; Kremer, Brannen, & Glennerster, 2013）。
 >
 > **2. 实施薄弱与规模扩展失败**
 >
@@ -116,7 +115,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> 评估界对黑箱 [[Randomised Controlled Trials|RCT]] 的拒绝已有悠久历史（Chen, 1990; Weiss, 1995），但 Peterson (2016) 的独特贡献在于：她不是在"放弃 RCT"和"坚持黑箱 RCT"之间做选择，而是提出了**第三条道路**——通过[[Mechanism Experiments|机制实验]]将 RCT 改建为生成与教师探究[[Praxis|实践]]兼容的因果知识。
+> 评估界对黑箱 [[Randomised Controlled Trials|RCT]] 的拒绝已有悠久历史（Chen, 1990; Weiss, 1995），但 Peterson (2016) 的独特贡献在于：她不是在"放弃 RCT"和"坚持黑箱 RCT"之间做选择，而是提出了**第三条道路**——通过[[Mechanism Experiments|机制实验]]将 RCT 改建为生成与教师探究实践兼容的因果知识。
 >
 > [[Argument_Peterson_2016_IJRME|Peterson (2016, p. 300)]] 明确声明其提案从"[[Random Assignment|随机化]]评估将继续是教育研究的主要组成部分"这一立场出发——部分原因是随机化评估"更不易腐败和'伪评估'（Fowler, 2012）且与其他影响评估相比未显示[[Publication Bias|发表偏差]]（Vivalt, forthcoming）"。
 

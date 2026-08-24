@@ -7,7 +7,7 @@ summary: "一种按原始随机分配而非实际接受情况来分析结果的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -15,6 +15,7 @@ tags:
 - method/intent-to-treat-analysis
 - method/quantitative
 related_concepts:
+  - "[[Complier Average Causal Effect]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
@@ -53,14 +54,14 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs 处理效应（Treatment Effect） — ITT 估计干预"提供"的效果，而非"接受"的效果
-> - vs 依从者平均因果效应（CACE） — CACE 估计实际接受干预者的效果，需要额外建模
+> - vs [[Complier Average Causal Effect|依从者平均因果效应]]（CACE） — CACE 估计实际接受干预者的效果，需要额外建模
 
 ## 实证发现
 
 > [!success] 实证发现
 > - Schweig & Pane (2016) 的模拟研究表明，在部分嵌套 [[Randomised Controlled Trials|RCT]] 设计中，集群效应和非合规"可能对 ITT 效应的统计推断产生实质性影响"([[Argument_Pampaka_2016_IJRME|Pampaka et al., 2016, p.233]])
 > - 非合规在教育研究中是"具有实际重要性的问题"
-> - 在[[Educational Evidence Clearinghouses|教育证据清算中心]]的评级标准中，[[Blueprints for Healthy Youth Development]]、[[Social Programs That Work]] 和 [[Promise Neighborhoods Research Consortium]] 明确要求 ITT 分析；[[What Works Clearinghouse]] 则在特定条件下允许计算 CACE。这说明 ITT 不只是 RCT 统计技术，也是部分清算中心判定研究质量的显性标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
+> - 在[[Educational Evidence Clearinghouses|教育证据清算中心]]的评级标准中，[[Blueprints for Healthy Youth Development]]、[[Social Programs That Work]] 和 [[Promise Neighborhoods Research Consortium]] 明确要求 ITT 分析；[[What Works Clearinghouse]] 则在特定条件下允许计算 [[Complier Average Causal Effect|CACE]]。这说明 ITT 不只是 RCT 统计技术，也是部分清算中心判定研究质量的显性标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p.9]])。
 
 ## 争议与批评
 

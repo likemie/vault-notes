@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Visible Learning]]"
-  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Cult of Efficiency]]"
   - "[[Neo-Taylorism]]"
@@ -88,7 +87,7 @@ updated: 2026-06-09
 > [!question] 核心关切与经验谜题
 > 澳大利亚[[School Leadership|学校领导力]]领域为何且如何在当代屈服于以[[John Hattie|约翰·哈蒂]]为核心的大师学说与教父崇拜？（p.413）
 > 
-> 经验与学术层面的谜题在于：为什么哈蒂的[[Meta-meta-analysis|元-元分析]]（[[Visible Learning|VL]]）在经历了一系列严厉的方法论技术质询后，非但没有在政策与[[Praxis|实践]]中被边缘化，反而成为澳大利亚教育系统中有史以来传播规模最广、接受度最高、且被制度性深锁的教育铁律？（pp.413–414）
+> 经验与学术层面的谜题在于：为什么哈蒂的[[Meta-meta-analysis|元-元分析]]（[[Visible Learning|VL]]）在经历了一系列严厉的方法论技术质询后，非但没有在政策与实践中被边缘化，反而成为澳大利亚教育系统中有史以来传播规模最广、接受度最高、且被制度性深锁的教育铁律？（pp.413–414）
 > 
 > 这个谜题可以还原为一个具体的学校管理场景：一位普通的澳大利亚公立学校校长，在面对 NAPLAN 与 [[PISA]] 成绩下滑的外部政治恐慌、以及日常事务缠身的行政压力时，如何通过哈蒂提供的[[Effect Size|效应量]]账本（以效应量大于等于 0.40 作为投资收益标准），以一种科学化、符号化的行政方式去管理教师的课堂教学并重构其专业生活？（pp.418–419）
 
@@ -159,7 +158,7 @@ updated: 2026-06-09
 
 在面临系统衰退时，管理修辞会根据衰退的性质发生分化：如果经济或教育系统经历迅速的崩溃（如金融危机或大萧条），管理修辞通常会转向“规范/意向修辞”（normative/aspirational rhetoric）以提供情感抚慰和乌托邦未来；而在澳大利亚面临的 NAPLAN、[[PISA]] 和 TIMSS 成绩慢性下滑背景下，系统自发激活了[[Rational-Control Rhetoric|理性/控制修辞]] (Rational/Control Rhetoric)，其核心关切是“避免探底”并建立确保成功的刚性结构（p.415）。这种理性修辞极大地激发了决策层对“唯一正确方法”和“什么最有效”的技术渴望。
 
-与这种理性饥渴形成鲜明对比的是，澳大利亚传统的大规模教学改革（如昆士兰州的 QSRLS、新基础项目和优质教学改革）由于理论过于精细，在行政[[Praxis|实践]]中面临严重障碍。校长的日常工作几乎被行政、人事和财务预算完全侵占，实际用于教学领导的时间微乎其微（p.416）。传统的教学过程理论缺乏能够与科层决策无缝接轨的扁平数据中介，导致学校管理者在面对标准化测试下滑压力时，陷入了行政控制话语的严重真空。
+与这种理性饥渴形成鲜明对比的是，澳大利亚传统的大规模教学改革（如昆士兰州的 QSRLS、新基础项目和优质教学改革）由于理论过于精细，在行政实践中面临严重障碍。校长的日常工作几乎被行政、人事和财务预算完全侵占，实际用于教学领导的时间微乎其微（p.416）。传统的教学过程理论缺乏能够与科层决策无缝接轨的扁平数据中介，导致学校管理者在面对标准化测试下滑压力时，陷入了行政控制话语的严重真空。
 
 > [!tension] 历史深层张力：管理与教学的结构性分离
 > 20 世纪初，美国教育行政学者如斯特雷耶（George Strayer）、埃利奥特（Edward Elliot）、博比特（Franklin Bobbit）和库伯利（Ellwood Cubberly）在创建教育行政学科时，便合法化了“管理”与“教学”的二分法。在这个历史惯性下，校长被塑造为学校的首席执行官（CEO）而非教学导师，这种管理与教学的结构性脱节，为量化控制工具的介入打开了时间窗口。
@@ -237,7 +236,7 @@ updated: 2026-06-09
 > Original: I argue that the uncritical acceptance and proliferation of this cult is a tragedy for Australian school leadership.
 
 > [!citation-card]- 循证决策与行政控制的本质
-> 相比于教学模型——即使是那些配有衡量[[Praxis|实践]]质量工具的模型——[[John Hattie|哈蒂]]为学校管理者提供的是他们可以据以做出决策的证据，即循证决策。（p.418）
+> 相比于教学模型——即使是那些配有衡量实践质量工具的模型——[[John Hattie|哈蒂]]为学校管理者提供的是他们可以据以做出决策的证据，即循证决策。（p.418）
 > 
 > Original: Rather than models of pedagogy, even those that came with instruments to measure the quality of practice ... Hattie provided school administrators with evidence on which they could base decisions – evidence informed decisions.
 

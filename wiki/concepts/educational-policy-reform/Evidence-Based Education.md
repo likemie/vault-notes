@@ -22,13 +22,13 @@ tags:
 - paradigm/positivist
 - region/global
 related_concepts:
-  - "[[Praxis]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Value-Based Education]]"
   - "[[Axiology]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Praxis]]"
   - "[[Side Effects]]"
   - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
@@ -136,7 +136,7 @@ updated: 2026-07-13
 ## 定义
 
 > [!def] 核心定义
-> 证据本位教育（Evidence-Based Education, EBE）是将循证医学的核心理念——专业[[Praxis|实践]]应以最佳研究证据为基础——应用于教育领域的运动和学术讨论。其核心问题是"什么有效"（what works），但这一问题的合法性和可行性本身已成为激烈学术争议的焦点。[[Argument_Biesta_2010_SPE|Biesta, 2010, p. 491]]; [[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]].
+> 证据本位教育（Evidence-Based Education, EBE）是将循证医学的核心理念——专业实践应以最佳研究证据为基础——应用于教育领域的运动和学术讨论。其核心问题是"什么有效"（what works），但这一问题的合法性和可行性本身已成为激烈学术争议的焦点。[[Argument_Biesta_2010_SPE|Biesta, 2010, p. 491]]; [[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]].
 
 > [!concept-lens] 概念透镜
 > - **含义** 专业决策和日常教学实践应基于系统性实证研究（尤其是 [[Randomised Controlled Trials|RCT]] 实验和[[Systematic Review|系统综述]]）产生的证据，而非传统或直觉。[[Argument_Slavin_2002_ER|Slavin, 2002, pp. 15–16]]
@@ -180,7 +180,7 @@ updated: 2026-07-13
 
 > [!feature] EBE 的核心构成要素
 > - **基本主张与[[Hypothesis|假设]]** EBE 的四个核心主张（证据驱动决策、[[Randomised Controlled Trials|RCT]] 优先、医学模式模拟、研究评估层级区分）以及支撑它们的休谟因果观、机械干预假设和科学应用假设。
-> - **Fitz-Gibbon 的三个必要性论证** 挑战未经证实的[[Praxis|实践]]、避免有害程序、创造改进——构成了 EBE 的实践正当性论证。
+> - **Fitz-Gibbon 的三个必要性论证** 挑战未经证实的实践、避免有害程序、创造改进——构成了 EBE 的实践正当性论证。
 > - **强版本与弱版本** 强版本（evidence-based）以 RCT 证据为核心依据，弱版本（evidence-informed）将证据定位为多种信息来源之一。
 > - **证据到政策与实践的转化模型** 政策[[Transfer Translation Transformation|转译]]的三种轨迹、研究资助的动力循环，以及证据进入课堂的四步转译链。
 
@@ -308,7 +308,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > Guyatt 等人建立循证医学范式；Hargreaves 在英国发起教育类比；[[OECD]] 开始关注研究-政策脱节问题。
 
 > [!timeline] 关键事件
-> - **1992** — Guyatt 等人提出循证医学（Evidence-Based Medicine），为后续所有领域的证据本位[[Praxis|实践]]奠定[[Paradigm|范式]]
+> - **1992** — Guyatt 等人提出循证医学（Evidence-Based Medicine），为后续所有领域的证据本位实践奠定[[Paradigm|范式]]
 > - **1995** — [[OECD]] 发布 *Educational Research and Development: Trends, Issues and Challenges*，首次提出教育中研究、政策与创新之间联系薄弱的问题([[Argument_Møller_2017|Møller, 2017, p.377]])
 > - **1996** — David Hargreaves 在 TTA 年度讲座中将教育研究与实践的关系与医学进行不利比较，标志着英国 EBE 运动的政策起点（[[Argument_Wiliam_2019|Wiliam, 2019, pp.3–4]]; 参见 [[Hargreaves 1996 TTA Lecture]]）
 > - **1999** — Philip Davies 发表 *What is Evidence-Based Education?*（*British Journal of Educational Studies*），系统阐述 EBE 与循证医学的关系，强调教育者也需使用多种形式和来源的证据
@@ -397,7 +397,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 
 
 > [!citation-card]- [[Argument_Slavin_2002_ER|Slavin (2002, p. 15)]]
-> 证据本位教育政策是"依赖[[Random Assignment|随机化]]和严格匹配实验作为政策和[[Praxis|实践]]的基础"——将可复制的教育项目和有前景的实践置于严格评估之下，仅推广那些被证明有效的。
+> 证据本位教育政策是"依赖[[Random Assignment|随机化]]和严格匹配实验作为政策和实践的基础"——将可复制的教育项目和有前景的实践置于严格评估之下，仅推广那些被证明有效的。
 
 
 > [!citation-card]- Coldwell et al. (2017) — 英国官方定义

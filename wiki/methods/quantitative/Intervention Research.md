@@ -7,7 +7,7 @@ summary: "通过操纵教育处理、项目或实践条件来检验效果及因�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -18,7 +18,6 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Variable]]"
-  - "[[Praxis]]"
   - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
@@ -53,14 +52,14 @@ updated: 2026-07-13
 ## 定义
 
 > [!info] 定义
-> 干预研究（Intervention Research）是在研究中操纵自[[Variable|变量]]、检验某种教育处理或[[Praxis|实践]]是否影响结果的研究设计。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 在[[Coding in Qualitative Research|编码]]教育心理学期刊文章时，将"干预研究"和"[[Experimental Research|实验研究]]"都定义为包含[[Independent Variable|自变量]]操纵；二者区别在于实验研究进一步包含[[Random Assignment|随机分配]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> 干预研究（Intervention Research）是在研究中操纵自[[Variable|变量]]、检验某种教育处理或实践是否影响结果的研究设计。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 在[[Coding in Qualitative Research|编码]]教育心理学期刊文章时，将"干预研究"和"[[Experimental Research|实验研究]]"都定义为包含[[Independent Variable|自变量]]操纵；二者区别在于实验研究进一步包含[[Random Assignment|随机分配]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 
 ---
 
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 干预研究处于教育心理学"探索到干预"研究序列的后半段：早期描述性研究用于理解情境，相关研究识别可能的[[Causality|因果关系]]，随后研究者设计可能改善学生学习的干预并与既有标准[[Praxis|实践]]比较([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
+> 干预研究处于教育心理学"探索到干预"研究序列的后半段：早期描述性研究用于理解情境，相关研究识别可能的[[Causality|因果关系]]，随后研究者设计可能改善学生学习的干预并与既有标准实践比较([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ---
 
@@ -68,7 +67,7 @@ updated: 2026-07-13
 
 > [!example] 操作步骤
 > - **形成干预[[Hypothesis|假设]]** 从描述性、观察性或[[Observational and Correlational Research|相关性研究]]中识别可能的[[Causality|因果关系]]，并据此设计可能改善学习的处理([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
-> - **操纵自[[Variable|变量]]** 研究者主动引入某种教育[[Praxis|实践]]、处理或项目，而不是仅观察既有变量关系([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
+> - **操纵自[[Variable|变量]]** 研究者主动引入某种教育实践、处理或项目，而不是仅观察既有变量关系([[Argument_Brady_2023_EPR|Brady et al., 2023, p.4]])。
 > - **与标准实践比较** 干预假设应通过把新处理与既有标准实践比较来正式检验。
 > - **[[Random Assignment|随机分配]]作为更强版本** 若研究还包含随机分配，则在 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的分类中属于 experimental studies，而不仅是 intervention studies。
 
@@ -77,7 +76,7 @@ updated: 2026-07-13
 ## 适用场景
 
 > [!success] 适用场景
-> - 当研究目标是为教育政策或[[Praxis|实践]]提供因果依据时，干预研究是从相关线索走向[[Recommendations for Practice|实践建议]]的重要环节([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-3]])。
+> - 当研究目标是为教育政策或实践提供因果依据时，干预研究是从相关线索走向[[Recommendations for Practice|实践建议]]的重要环节([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-3]])。
 > - 当论文希望提出强 [[Recommendations for Practice|实践建议]] 时，[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 认为研究方法必须能够识别[[Causality|因果关系]]；干预研究因此比[[Non-intervention Research|非干预研究]]更适合支撑"改变实践会改善结果"的主张([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3, 9]])。
 
 ---

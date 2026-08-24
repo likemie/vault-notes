@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 39
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,19 +44,15 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Champ]]"
   - "[[Domain Specificity]]"
-  - "[[Research Utilization]]"
-  - "[[Publication Bias]]"
-  - "[[Statistical Significance]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Construct]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
-  - "[[Meta-regression]]"
-  - "[[Multilevel Egger's Test]]"
 related_instruments:
   - "[[Consensual Assessment Technique]]"
   - "[[Creative Achievement Questionnaire]]"
-  - "[[AMSTAR]]"
+  - "[[Torrance Tests of Creative Thinking]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_arguments:
@@ -229,42 +225,31 @@ updated: 2026-08-24
 
 ## 实证数据
 
-> [!effect-table]- 一级研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Siagian et al. (2023) | [[Cooperative Learning\|合作学习]]干预 vs 传统讲授 | 数学创造性思维与[[Critical Thinking\|批判性思维]] | 35 项与 24 项实证研究 | 实验组创造性思维表现显著优于对照组 | $ES = 0.79$ 与 $ES = 0.69$ | 统计学显著 | 基础教育阶段[[Quasi-Experimental Designs\|准实验设计]]，采用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]等工具 |
-> | Solissa et al. (2023) | 拼图法（Jigsaw）vs 常规教学 | 21世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（含创造性思维与问题解决） | 10 项实证研究 | 实验组显著提升 | $ES = 0.84$ $[0.66, 1.03]$ | 统计学显著 | 跨学科与跨学段综合干预 |
-
-> [!ma-table]- [[Meta-analysis|元分析]]总体结果
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 创造力全领域二阶综合效应（截距模型） | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | $r = 0.17$ $[0.11, 0.22]$（偏倚校正前 $r = 0.21$） | $Q(162) = 12494, p < .001$; 95% PI $[-0.24, 0.53]$ | 中等，存在高度异质性与小研究效应 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 创造性思维与高阶认知技能干预效应 | 4 项一阶元分析 (403 项原始实证研究) | Cohen's $d$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]]经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$ | 高，失安全系数 $N = 4954$ 证实无发表偏倚 |
+> | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对数学创造性思维（[[Divergent Thinking\|发散思维]]与问题提出）的促进效应 | $k = 24$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.69$ $[0.42, 0.98]$ | — | 基础教育阶段准实验与全实验，采用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]等工具 |
+> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（含创造性思维）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证拼图法在促进创造性构想生成中的有效性 |
 
-> [!ma-table]- 调节[[Variable|变量]]与亚组分析
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 变量角色（[[Independent Variable\|预测变量]] vs 结果变量） | [[Meta-regression\|元回归]]与亚组分析 | 创造力作为预测变量效应显著高于作为结果变量 | $r = 0.29$ $[0.18, 0.41]$ vs $r = 0.12$ $[0.05, 0.19]$ | $F(1, 16.3) = 9.43, p = .007$ | 预设 | 两类[[Research Utilization\|研究使用]]的具体测量工具与情境存在不可比性 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 研究设计（相关设计 vs 比较设计） | 元回归与亚组分析 | 相关研究略高于比较研究，但差异不显著 | $r = 0.17$ $[0.10, 0.24]$ vs $r = 0.10$ $[-0.02, 0.22]$ | $F(1, 23.1) = 1.48, p = .24$ | 预设 | 设计类型不构成主要异质性来源 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 创造力测量类型 | 元回归与亚组分析 | 创造过程（$r = 0.27$）> 发散思维（$r = 0.14$）> 创造产品（$r = 0.12$） | $\beta = 0.16$ (过程) vs $\beta = 0.02$ (发散思维) | $F(3, 15.8) = 1.25, p = .33$ | 预设 | 各亚组间置信区间存在部分重叠 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 相关因素类型 | 元回归与亚组分析 | 教育干预与项目效应最大（$r = 0.20$），外认知（$r = 0.14$）与认知（$r = 0.12$）次之 | $r = 0.20$ $[0.10, 0.29]$ (干预) | $F(4, 15.6) = 0.95, p = .46$ | 预设 | 背景变量与即时影响置信区间包含 0 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 方法学质量（[[AMSTAR]] 得分达到 0.75） | 元回归与亚组分析 | 高质量与非高质量无显著差异 | $r = 0.19$ $[0.07, 0.32]$ vs $r = 0.14$ $[0.07, 0.21]$ | $F(1, 12.9) = 0.97, p = .34$ | 预设 | [[Effect Size\|效应量]]未因方法学质量出现系统性膨胀 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学习产出维度 | 亚组分析 | 涵盖创造性思维的高阶思维技能（$ES = 0.76$）高于常规学业成就（$ES = 0.71$）与情感（$ES = 0.51$） | $ES = 0.76$ $[0.42, 1.11]$ | $Q_b(3) = 4.35, p = .23$ | 预设 | 点估计表明异质同伴互动对创造性思维等高阶认知具有最大增益 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 教学技术类型 | 亚组分析 | 合作整合阅读与写作 CIRC（$ES = 2.04$）与小组调查法（$ES = 1.08$）最强，拼图法（$ES = 0.72$） | $ES = 2.04$ vs $ES = 1.08$ vs $ES = 0.72$ | $Q_b(3) = 9.36, p = .02$ | 预设 | 开放探究与结构化合作更能激发创造性构想生成 |
+> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 综合角色：创造力全领域二阶基准关联（截距模型） | $M = 52$；$E = 164$；$k = 2609$；$N = 1,248,416$ | 皮尔逊 $r$ / 多水平相关分层效应（CHE）+ 稳健方差估计（RVE） | $r = 0.17$ $[0.11, 0.22]$（小研究偏倚校正前 $r = 0.21$） | $Q(162) = 12494, p < .001$；95% PI $[-0.24, 0.53]$ | 包含预测与结果双向关系，极高异质性与显著小研究效应；预测区间跨零表明情境敏感性极强 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对高阶认知（含创造性思维）的干预效应 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 高阶思维中包含创造性思维研究，证实异质同伴互动对创造性构想生成的显著赋能 |
 
-> [!ma-table]- 稳健性与偏倚
-> <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 二阶元分析互补维度亚组
+> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
-> |---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 检验相关系数先验假定敏感性（$\rho = 0.8$） | [[Multilevel Egger's Test\|多水平艾格回归]]检验小研究效应 | $r = 0.17$ $[0.11, 0.22]$（未校正 $r = 0.21$） | 效应略有回调，[[Statistical Significance\|统计显著性]]与结论方向保持稳定 | 存在显著小研究效应（$F(1, 10.9) = 15.7, p = .002$），偏倚校正后估计更为稳健 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 异质性方差检验（$\tau^2 = 0.13$） | 失安全系数、Egger 回归与剪补法（DTTF） | 加权平均 $ES = 0.71$（剪补法未补入虚拟研究） | 结论方向高度稳健 | 失安全系数 $N = 4954$ 远超临界值 125，Egger 检验 $p = .05$ 无显著偏倚 |
+> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | [[Variable\|变量]]角色分类 | [[Construct\|构念]]角色互补比较：[[Independent Variable\|预测变量]] vs [[Dependent Variable\|结果变量]] | 预测变量 $E = 84$ / 结果变量 $E = 80$ | 预测变量 $r = 0.29$ $[0.18, 0.41]$；结果变量 $r = 0.12$ $[0.05, 0.19]$ | $F(1, 16.3) = 9.43, p = .007$ | 预设分析；组间差异高度显著，创造力作为预测变量关联显著强于作为结果变量 |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 结果变量 | 关联因素类型亚组：教育干预/项目 vs 外认知 vs 认知 vs 背景特征 | 干预 $E = 21$ / 外认知 $E = 47$ / 认知 $E = 34$ / 背景 $E = 50$ | 教育干预 $r = 0.20$ $[0.10, 0.29]$；外认知 $r = 0.14$ $[0.06, 0.22]$；认知 $r = 0.12$ $[0.03, 0.20]$；背景 $r = 0.05$ $[-0.07, 0.17]$ | $F(4, 15.6) = 0.95, p = .46$ | 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明显可塑性 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs CIRC 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；开放探究与结构化合作技术对创造性思维等高阶认知的激发最强 |
+
 
 ---
 

@@ -9,7 +9,7 @@ type: fact
 subtype: event
 fact_region: "europe"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
   - theme/internationalization
 related_concepts:
   - "[[Heterogeneity]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -72,4 +71,4 @@ updated: 2026-06-29
 ## 相关研究
 
 > [!evidence-grid] 相关研究索引
-> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 在跨境合作的论证步骤（论证步骤六）中将博洛尼亚进程作为高校能动性的关键例证，与英国脱欧对照分析，论证高校并非国家政策的附庸而是地缘政治的空间[[Praxis|实践]]者。
+> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 在跨境合作的论证步骤（论证步骤六）中将博洛尼亚进程作为高校能动性的关键例证，与英国脱欧对照分析，论证高校并非国家政策的附庸而是地缘政治的空间实践者。

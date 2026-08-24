@@ -9,7 +9,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、推论推理与复杂问题解决"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 26
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,17 +36,15 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Variable]]"
-  - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
-  - "[[Prediction Interval]]"
-  - "[[Publication Bias]]"
+  - "[[Dependent Variable]]"
+  - "[[Variable]]"
+  - "[[Sample Size Determination]]"
+  - "[[Divergent Thinking]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -147,37 +145,30 @@ updated: 2026-08-24
 
 ## 实证数据
 
-> [!effect-table]- 一级研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Siagian et al. (2023) | [[Cooperative Learning\|合作学习]]干预 vs 传统讲授 | 数学高阶思维（批判性与[[Creativity\|创造性思维]]） | 35 项与 24 项实证研究 | 实验组高阶思维表现显著优于对照组 | $ES = 0.79$ 与 $ES = 0.69$ | 统计学显著 | 基础教育阶段[[Quasi-Experimental Designs\|准实验设计]]，采用标准化与教师自编高阶测验 |
-> | Solissa et al. (2023) | 拼图法（Jigsaw）vs 常规教学 | [[21st Century Skills and Competencies Discourse\|21世纪技能]]（批判思维、创造性与问题解决） | 10 项实证研究 | 拼图法组高阶素养显著提升 | $ES = 0.84$ $[0.66, 1.03]$ | 统计学显著 | 跨学科跨学段综合合作教学干预 |
-
-> [!ma-table]- [[Meta-analysis\|元分析]]总体结果（Higher-Order Thinking Skills）
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 证据确定性 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 高阶思维技能（Higher-Order Thinking Skills，HOTS） | 4 项一阶元分析 / 403 项原始实证研究 | Cohen's $d$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]]经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$ | 高，失安全系数 $N = 4954$ 证实无发表偏倚 |
+> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对护理高阶思维（[[Critical Thinking\|批判性思维]]）的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，角色互换显著强化批判反思 |
+> | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果[[Variable\|变量]]：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼 K-12 数学教学，[[Sample Size Determination\|样本量]]大且效应稳健显著 |
+> | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对数学[[Creativity\|创造性思维]]技能的促进效应 | $k = 24$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.69$ $[0.42, 0.98]$ | — | 印尼 K-12 数学教学，采用[[Divergent Thinking\|发散思维]]与创造性解题测验 |
+> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：拼图法对高阶思维（[[21st Century Skills and Competencies Discourse\|21世纪技能]]）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，涵盖批判性、创造性与问题解决技能 |
 
-> [!ma-table]- 调节[[Variable\|变量]]与亚组分析
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学习产出类型 | 亚组分析 | 高阶思维技能（$ES = 0.76$）> 学业成就（$ES = 0.71$）> 情感行为（$ES = 0.51$） | $ES = 0.76$ $[0.42, 1.11]$ | $Q_b(3) = 4.35, p = .23$ | 预设 | 点估计表明合作互动对高阶认知加工具有最大的相对增益 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | 亚组分析 | 整合阅读写作法（CIRC，$ES = 2.04$）与小组调查法（$ES = 1.08$）最强，拼图法（$ES = 0.72$） | $ES = 2.04$ vs $ES = 1.08$ vs $ES = 0.72$ | $Q_b(3) = 9.36, p = .02$ | 预设 | 深度文本协商与自主探究型合作对高阶思维赋能最深 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 实验设计类型 | 亚组分析 | 真实课堂准实验（$ES = 1.11$）显著优于实验室全实验（$ES = 0.00$） | $ES = 1.11$ $[0.72, 1.50]$ | $Q_b(2) = 9.83, p = .01$ | 预设 | 高阶思维培养高度依赖自然真实的课堂文化与长周期人际互动 |
+> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对高阶思维技能（HOTS）的干预效应 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 纳入一阶研究涵盖批判性思维、创造性思维与21世纪技能，样本以印尼为主，全集异质性极高 |
 
-
-> [!ma-table]- 稳健性与偏倚
-> <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 二阶元分析互补维度亚组
+> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
-> |---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 异质性方差检验（$\tau^2 = 0.13$） | 失安全系数、Egger 回归与剪补法（DTTF） | 加权平均 $ES = 0.71$（剪补法未补入虚拟研究） | 结论方向高度稳健 | 失安全系数 $N = 4954$ 远超阈值 125，Egger 检验 $p = .05$ 无显著偏倚 |
+> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]] | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs CIRC 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；组间差异达统计显著，但 CIRC 仅由 1 项一阶元分析支撑，需警惕小证据规模偏差 |
+
 
 ---
 

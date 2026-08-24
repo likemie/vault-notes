@@ -21,7 +21,6 @@ tags:
   - theme/intermediary-organisation
 related_concepts:
   - "[[What Works Movement]]"
-  - "[[Praxis]]"
   - "[[Learning Gap]]"
   - "[[Scientific Method]]"
   - "[[Effect Size]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
   - "[[Critical Realism]]"
@@ -69,7 +69,7 @@ updated: 2026-06-20
 > [!event-context] 机构背景
 > - **时间 / 地点** 2011年成立于英国伦敦。
 > - **关键主体** 萨顿信托（Sutton Trust，牵头机构）、帝国教育信托（Impactus Education Trust，联合机构）、英国教育部（提供首期 1.25 亿英镑种子基金）([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
-> - **制度背景** 作为全球“[[What Works Movement|什么有效运动]]”（What Works Movement）在教育政策与[[Praxis|实践]]领域的旗舰中介组织（Evidence Broker），致力于建立以定量实验证据为基础的教学实践规范。
+> - **制度背景** 作为全球“[[What Works Movement|什么有效运动]]”（What Works Movement）在教育政策与实践领域的旗舰中介组织（Evidence Broker），致力于建立以定量实验证据为基础的教学实践规范。
 > - **触发条件** 通过系统化收集和提供高概率有效的教学干预证据，帮助学校合理分配学生津贴（Pupil Premium）资金，以减少弱势学生的[[Learning Gap|学习差距]]并促进教育公平([[Argument_Higgins_2016_RE|Higgins, 2016, p. 46]])。
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-06-20
 > - **2011 — 创立与工具包开发** 萨顿信托联合慈善信托在英国政府资助下创立教育捐赠基金会（EEF），着手开发《教学与学习工具包》（Teaching and Learning Toolkit），以比较性量表的形式为学校决策提供循证支持。
 > - **2016 — 模式国际辐射** 澳大利亚政府生产力委员会建议应当以英国的 EEF 为直接蓝本，建立本土的证据中介机构，直接催生了后来的 [[Australian Education Research Organisation|AERO]] 组织([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 8]])。
 > - **2018 — 私人资本注资与全球网络构建** EEF 启动“全球证据生态系统”扩张计划，获得跨国矿业巨头旗下**[[BHP Foundation|必和必拓基金会]]**的大额资金支持，通过资助澳大利亚社会风险投资公司旗下的“学习证据”（E4L），在全球复制“EEF式”的本地证据治理组织。
-> - **2020–2023 — 跨国治理与认知心理学推广** EEF 创始人柯林斯爵士（Sir Kevan Collins）直接担任澳大利亚 AERO 专家委员会成员。2023年，EEF 发布证据综述报告《课堂中的认知[[Scientific Method|科学方法]]》，积极推广以[[Cognitive Load Theory|认知负荷理论]]为核心的认知心理学教学[[Praxis|实践]]([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 8, 11]])。
+> - **2020–2023 — 跨国治理与认知心理学推广** EEF 创始人柯林斯爵士（Sir Kevan Collins）直接担任澳大利亚 AERO 专家委员会成员。2023年，EEF 发布证据综述报告《课堂中的认知[[Scientific Method|科学方法]]》，积极推广以[[Cognitive Load Theory|认知负荷理论]]为核心的认知心理学教学实践([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, pp. 8, 11]])。
 
 ---
 
@@ -96,7 +96,7 @@ updated: 2026-06-20
 > [!finding-cards] 影响与后果
 > - **跨国[[Policy Network|政策网络]]构建** EEF 通过在美、澳、新等多国扶植镜像组织，成功地将英国的话语体系转化为全球证据标准，成为跨国“理念编排”（idea orchestration）的制度化中介([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 11]])。
 > - **初始教师教育课程干预** 在澳大利亚 2023 年《强劲开端》报告制定的初始教师教育大纲中，EEF 推荐的科学[[Document|文献]]被列为必修核心课程的指定参考文献，从而直接干预了主权国家的教师能力培养框架。
-> - **证据官僚功能的异化** 尽管 EEF Toolkit 在修辞上被宣称为客观教学指南，但在制度[[Praxis|实践]]中，其真正功能往往转变为满足管理主义的问责需求（“[[Governing by Numbers|以数字治理]]”）。在实际政策制定中，政府甚至会回避 Toolkit 代表的学术证据，转而使用非同行评议的 [[Ofsted]] 评级进行决策([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p. 27]])、[[Argument_Cowen_2019_ERE|Cowen, 2019, p. 11]]。
+> - **证据官僚功能的异化** 尽管 EEF Toolkit 在修辞上被宣称为客观教学指南，但在制度实践中，其真正功能往往转变为满足管理主义的问责需求（“[[Governing by Numbers|以数字治理]]”）。在实际政策制定中，政府甚至会回避 Toolkit 代表的学术证据，转而使用非同行评议的 [[Ofsted]] 评级进行决策([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p. 27]])、[[Argument_Cowen_2019_ERE|Cowen, 2019, p. 11]]。
 
 ---
 
@@ -115,7 +115,7 @@ updated: 2026-06-20
 > [!critique-method]- 命题/案例二：教学助理（TA）类目的去情境化排名与政策风险
 > Toolkit 将 TA 归入“低影响、高成本”（效应量仅 $+0.08$）排行榜底部。
 > 
-> 然而，Peter Blatchford 的底层实证研究表明，TA 的低效是因为学校没有为其预留与教师备课沟通的时间，且系统性将低成就学生甩给 TA，剥夺了他们接受 qualified 教师授课的机会。Toolkit 过滤掉了这一“结构性使用不当”的情境，在预算裁剪时期极易被政策制造者用作裁减 TA 的错误依据，引发严重[[Praxis|实践]]风险([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])。
+> 然而，Peter Blatchford 的底层实证研究表明，TA 的低效是因为学校没有为其预留与教师备课沟通的时间，且系统性将低成就学生甩给 TA，剥夺了他们接受 qualified 教师授课的机会。Toolkit 过滤掉了这一“结构性使用不当”的情境，在预算裁剪时期极易被政策制造者用作裁减 TA 的错误依据，引发严重实践风险([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 12]])。
 
 > [!critique-logic]- 命题/案例三：实验控制设计与教育能动性（Agency）的根本悖论
 > EEF 的实验设计倾向于把教师的教学热情、学生的积极推理和反思互动视为需要被控制和清除的“干扰噪声”或“混淆[[Variable|变量]]”，以追求干预项目的标准化（teacher-proof）。

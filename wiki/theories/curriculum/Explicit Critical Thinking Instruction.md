@@ -8,7 +8,7 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 30
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Metacognition]]"
   - "[[Variable]]"
-  - "[[Praxis]]"
   - "[[Creativity]]"
   - "[[School Leadership]]"
   - "[[IB Diploma Programme]]"
@@ -108,7 +107,7 @@ updated: 2026-08-03
 >   > - **Aliakbari & Sadeghdaghighi (2013)** 确认教师对批判性思维障碍的感知影响了课堂实施。
 > - **推导** 教师批判性思维教学法的知识和技能不足（前提二），而培训能显著提升教学效果（前提一），因此显性教学路径能否成功在很大程度上取决于教师培训的质量。缺乏培训支持的显性课程很可能名存实亡，沦为另一种形式的"隐性教学"。
 
-> [!proposition-chain] 核心命题三｜隐性融入路径在[[Praxis|实践]]中有被边缘化的风险
+> [!proposition-chain] 核心命题三｜隐性融入路径在实践中有被边缘化的风险
 > - **前提一** 在以内容为本的传统课程占主导的教育体系中（如澳大利亚），批判性思维如果在各学科中仅作为隐性期望存在，则更可能在课程需求增加时被挤出，特别是当它不被定位为可测量的学习成果时（[[Argument_Cole_2015_AJE|Cole et al., 2015, p. 249]]）。
 > - **前提二** 教师倾向于将批判性思维视为仅与高成就学生相关的能力，尽管证据表明批判性思维对所有学生都有益（Dweck, 2002; Halpern, 2003; Zohar & Dori, 2003）。
 >   > [!evidence-grid]- 证据
@@ -136,7 +135,7 @@ updated: 2026-08-03
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于组织关于批判性思维教学效果的[[Research Question|研究问题]]：教学路径（显性 vs 隐性）、教师[[Variable|变量]]（培训 vs 未培训）、学生变量（年级间增长、群体间差异）如何交互影响批判性思维结果。
 > - **作为分析工具** 用于[[Coding in Qualitative Research|编码]]和比较不同教育项目或政策的批判性思维教学方式，判断其属于显性还是隐性路径，并预测其可能的效果。
-> - **作为批判视角** 用于揭示隐性融入路径在[[Praxis|实践]]中的制度性缺陷，特别是批判性思维教育在弱势学生群体中的不平等提供。
+> - **作为批判视角** 用于揭示隐性融入路径在实践中的制度性缺陷，特别是批判性思维教育在弱势学生群体中的不平等提供。
 > - **报告方式** 研究成果应说明教学路径的操作化定义、教师培训情况、测量工具的信效度，以及研究设计能否分离显性教学的效果与其他混淆变量（如选课效应）。
 
 ---

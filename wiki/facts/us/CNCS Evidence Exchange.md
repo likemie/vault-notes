@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -113,4 +112,4 @@ updated: 2026-08-21
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — CNCS EE 代表了联邦拨款机构将证据清算与项目资助深度绑定的治理[[Paradigm|范式]]。
-> - [[Evidence-Based Reform]] — CNCS EE [[Praxis|实践]]了以有效性证据分级确定资助优先级的改革理念。
+> - [[Evidence-Based Reform]] — CNCS EE 实践了以有效性证据分级确定资助优先级的改革理念。

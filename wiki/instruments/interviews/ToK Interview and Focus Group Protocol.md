@@ -22,9 +22,9 @@ tags:
   - instrument/interview
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[International Baccalaureate]]"
+  - "[[Praxis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -53,7 +53,7 @@ updated: 2026-07-01
 > [!instrument-profile] ToK 访谈与[[Focus Group|焦点小组]]协议
 > - **工具类型** [[Semi-structured Interview|半结构化访谈]]与焦点小组工具，适用于教师、学生和行政人员三类受访群体。
 > - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
-> - **测量目的** 收集受访者对 ToK 课程价值、[[Critical Thinking|批判性思维]]教学[[Praxis|实践]]、学校实施方式和自身经验的主观看法。
+> - **测量目的** 收集受访者对 ToK 课程价值、[[Critical Thinking|批判性思维]]教学实践、学校实施方式和自身经验的主观看法。
 > - **实施方式** 研究者进入学校进行面对面访谈（教师 40 分钟/人）和焦点小组（学生 30 分钟/组，4–7 人），以预设问题为指引进行半结构化[[Dialogue in Education|对话]]。
 
 ---

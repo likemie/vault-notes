@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Effect Size]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -93,7 +92,7 @@ updated: 2026-06-02
 >
 > ### [[Argument_Downey_2016_SoE|Downey & Condron (2016)]] — RCT 单过程研究的范围局限
 >
-> [[Argument_Downey_2016_SoE|Downey & Condron (2016, p.3)]] 从理解学校与不平等总体关系的角度，指出了 STAR 等 RCT 的根本范围局限：即使 RCT 成功使用随机分配解决了分离学校效应的问题，它通常只针对**单一学校过程（如[[Class Size|班级规模]]）**，仅构成更大拼图中的一块。这种研究可以告诉我们某一特定学校[[Praxis|实践]]是否增加不平等，但存在两个关键盲区([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.3–4]])：
+> [[Argument_Downey_2016_SoE|Downey & Condron (2016, p.3)]] 从理解学校与不平等总体关系的角度，指出了 STAR 等 RCT 的根本范围局限：即使 RCT 成功使用随机分配解决了分离学校效应的问题，它通常只针对**单一学校过程（如[[Class Size|班级规模]]）**，仅构成更大拼图中的一块。这种研究可以告诉我们某一特定学校实践是否增加不平等，但存在两个关键盲区([[Argument_Downey_2016_SoE|Downey & Condron, 2016, pp.3–4]])：
 >
 > - **无法评估所有机制的净效应** 我们无从得知所有加剧性学校机制的规模是否超过了所有补偿性机制的规模
 > - **无法将学校不平等与非学校不平等进行比较** 即使学校内部存在不平等，如果非学校环境的不平等更大，不平等的学校仍可能是均等化的力量——STAR 式 RCT 无法回答这一更宏观的 stratification 问题

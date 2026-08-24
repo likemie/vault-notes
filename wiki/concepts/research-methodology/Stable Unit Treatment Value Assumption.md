@@ -6,10 +6,10 @@ aliases:
 summary: "潜在结果框架中的关键假定，指每个主体的潜在结果只取决于自身接受的处理而不受他人处理影响。"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - sutva
 - stable-unit-treatment-value-assumption
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Confidence Interval]]"
   - "[[Ontology]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Potential Outcomes Framework]]"
 related_methods:
@@ -74,7 +73,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - [[Argument_Berk_2011_ER|Berk (2011, p.195)]] 指出，SUTVA 违反虽然被认为"只是"统计检验和[[Confidence Interval|置信区间]]的问题（对此存在有效补救），但"问题远为严重"——它从[[Ontology|本体论]]层面动摇了因果效应的可定义性。然而，部分研究者可能认为这一区分过于学术化，对[[Praxis|实践]]政策的直接影响有限
+> - [[Argument_Berk_2011_ER|Berk (2011, p.195)]] 指出，SUTVA 违反虽然被认为"只是"统计检验和[[Confidence Interval|置信区间]]的问题（对此存在有效补救），但"问题远为严重"——它从[[Ontology|本体论]]层面动摇了因果效应的可定义性。然而，部分研究者可能认为这一区分过于学术化，对实践政策的直接影响有限
 
 ## 相关案例／政策
 

@@ -5,7 +5,7 @@ aliases:
 summary: "因果推断的核心框架，通过比较同一主体在不同处理条件下的潜在结果来定义因果效应，并区分因果效应的定义与估计。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 12
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Evaluation Research]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Causal Modeling]]"
@@ -81,7 +80,7 @@ updated: '2026-05-18'
 
 
 > [!abstract] 在[[Evaluation Research|评估研究]]中的传播
-> [[Argument_Berk_2011_ER|Berk (2011, p.194)]] 观察到潜在结果公式已逐渐在评估研究[[Praxis|实践]]中取得重要进展，尤其在经济学家中，但进展"非常缓慢"。
+> [[Argument_Berk_2011_ER|Berk (2011, p.194)]] 观察到潜在结果公式已逐渐在评估研究实践中取得重要进展，尤其在经济学家中，但进展"非常缓慢"。
 
 ## 与相关概念的区别
 

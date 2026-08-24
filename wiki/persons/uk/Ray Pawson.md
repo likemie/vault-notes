@@ -7,7 +7,7 @@ summary: "英国社会研究方法论学者，实在论评估与实在论综合�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Evidence-Based Education]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Sage]]"
 related_theories:
   - "[[Realist Evaluation]]"
@@ -107,7 +106,7 @@ updated: '2026-06-19'
 > 医学 RCT 绝不是盲目的试错，在开展临床 RCT 之前，通常已经过数十年的药理学 and 生理学基础理论检验，研究者对其因果机制已了然于胸。而教育 RCT 往往在因果机制不明确、理论缺位的情况下，盲目地将拼读法或教学助理等复杂活动包入数据黑箱进行测量。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 117]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 6, 10]])
 
 > [!pathways] 替代方案：实在论综合（Realist Synthesis）
-> 以实在论综合代替传统统计元分析。实在论综合是一条基于理论（Theory-driven）的综述路径，它不追求计算平均效应量，而是识别干预在什么背景下激活了什么机制、产生了什么结果，虽然实操上极具复杂性，但能为政策和学校[[Praxis|实践]]提供真正的因果指南。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14-15]])
+> 以实在论综合代替传统统计元分析。实在论综合是一条基于理论（Theory-driven）的综述路径，它不追求计算平均效应量，而是识别干预在什么背景下激活了什么机制、产生了什么结果，虽然实操上极具复杂性，但能为政策和学校实践提供真正的因果指南。 ([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 123]])；另见 ([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, pp. 14-15]])
 
 ---
 
@@ -121,7 +120,7 @@ updated: '2026-06-19'
 > [!evidence-grid-a]- 相关研究
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中 [[Randomised Controlled Trials\|RCT]] 的不适用性。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 运用波森的实在论综合思想作为替代路线，揭示[[Meta-analysis\|元分析]] “净化过程” 的危害，并以 TA 项目为例论证脱离 CMO 背景的排行榜对政策的误导。
-> - [[Argument_Biesta_2010_SPE|Biesta, 2010]] — 引用波森关于开放系统无法人为封闭和控制的论证，从教育哲学的角度审视[[Evidence-Based Education\|证据本位教育]]对复杂教育[[Praxis|实践]]的歪曲。
+> - [[Argument_Biesta_2010_SPE|Biesta, 2010]] — 引用波森关于开放系统无法人为封闭和控制的论证，从教育哲学的角度审视[[Evidence-Based Education\|证据本位教育]]对复杂教育实践的歪曲。
 
 ---
 

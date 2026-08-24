@@ -7,7 +7,7 @@ summary: "英国教育学者和方法论批评者，民间科学观批判代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 6
+person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ tags:
 - region/uk
 related_concepts:
   - "[[Causality]]"
-  - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -63,7 +62,7 @@ updated: '2026-06-08'
 
 
 > [!info] 每个科学领域的独特性
-> Thomas (2012, p. 28) 论证"每个科学领域中的每个程序领域都是高度独特的，取决于其对象的形式和质地"([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])。将农业、植物科学和药物测试的实验方法直接应用于教育研究，忽视了教育作为人类[[Praxis|实践]]的[[Ontology|本体论]]特殊性。
+> Thomas (2012, p. 28) 论证"每个科学领域中的每个程序领域都是高度独特的，取决于其对象的形式和质地"([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 113]])。将农业、植物科学和药物测试的实验方法直接应用于教育研究，忽视了教育作为人类实践的[[Ontology|本体论]]特殊性。
 
 
 > [!info] 对 [[Randomised Controlled Trials|RCT]] 的多元批判

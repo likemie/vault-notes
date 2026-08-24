@@ -5,30 +5,44 @@ aliases:
   - "情感行为"
   - "Affective Behaviors"
   - "情感领域学习产出"
-summary: "合作学习研究中对学生情感领域可观测、可测量产出的操作化类别，包括自信心、学习态度、学业动机与内在动机等非认知结果变量。理论根植于 Bloom 情感分类目标（Krathwohl et al., 1964），是与学业成就、高阶思维并列的第三类学习结果维度，整体效应量（ES = 0.51）低于认知类结果，各一阶元分析间高度异质。"
+summary: "教育心理学与教学干预研究中指称学生情感领域可观测、可测量产出的操作化概念，涵盖自信心、学科态度、内在动机与一般学习感知等非认知结果变量。理论渊源根植于 Krathwohl 等人（1964）的情感分类学，与学业成就、高阶思维构成学习产出的三大支柱；实证研究表明其在合作学习中具有稳健正向响应（ES = 0.51），但受学科与测量工具影响具有高度情境依赖性。"
 type: concept
 domain: "educational-psychology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - "theme/affective-outcomes"
   - "theme/cooperative-learning"
   - "level/k12"
   - "level/higher-education"
 related_concepts:
-  - "[[Higher-Order Thinking Skills]]"
+  - "[[Operationalization]]"
+  - "[[Construct]]"
+  - "[[Intrinsic vs Extrinsic Motivation]]"
   - "[[Academic Achievement]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Cooperative Learning]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Meta-analysis]]"
-  - "[[Effect Size]]"
+  - "[[Document]]"
+  - "[[Questionnaire]]"
   - "[[Heterogeneity]]"
-  - "[[Bloom's Taxonomy]]"
+  - "[[Metacognition]]"
+  - "[[Self-Efficacy]]"
+  - "[[Learner Autonomy]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Task Structure]]"
+  - "[[Variable]]"
+  - "[[Emergence]]"
+  - "[[Confidence Interval]]"
+  - "[[Dependent Variable]]"
+  - "[[Publication Bias]]"
+  - "[[Sample Size Determination]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
+  - "[[Survey Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -47,40 +61,39 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> Affective Outcomes（情感产出）是[[Cooperative Learning|合作学习]]效果研究中对学生**情感领域可观测、可测量产出**的[[Operationalization|操作化]]类别。依据 Krathwohl et al.（1964）的情感分类目标，情感行为（Affective Behaviors）被定义为由内在动机等深层情感因素衍生出的可观测结果，包括自我报告的态度与表现自信心。具体覆盖：自信心（self-confidence）、对学科的学习态度（attitudes toward the subject）、一般学习感知（general learning perceptions）、学业动机（academic motivation）与内在动机（[[Intrinsic vs Extrinsic Motivation|intrinsic motivation]]）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 2–3)]]
+> Affective Outcomes（情感产出 / 情感行为）是教育心理学与教学效果研究中指称学生在**情感领域可观测、可测量产出**的[[Operationalization|操作化]][[Construct|构念]]。依据 Krathwohl et al.（1964）的教育目标分类学，情感产出指由内在动机、信念与价值取向等深层心理特质衍生出的行为倾向与自我报告结果，包括学习态度（attitudes）、表现自信心（self-confidence）、学业与内在动机（academic & [[Intrinsic vs Extrinsic Motivation|intrinsic motivation]]）以及一般学习感知（learning perceptions）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** Affective Outcomes 指向学生在情感领域的非认知可测结果，与[[Academic Achievement|学业成就]]（低阶认知）、[[Higher-Order Thinking Skills|高阶思维]]（复杂认知）并列，构成合作学习效果研究的三大产出维度。
-> - **用途** 帮助研究者超越纯认知视角，评估[[Cooperative Learning|合作学习]]对学生动机、态度与情感价值取向的系统影响；亦可作为探测干预路径（如正向相互依存机制）的观测窗口。
-> - **边界** 该类别为数据驱动的操作化分类，并非先验[[Construct|理论构念]]：Güngör et al. (2026) 的分类由实际纳入的一阶[[Meta-analysis|元分析]]可用[[Dependent Variable|结果变量]]决定，而非预设情感理论框架。因各研究测量工具高度分散，子类间差异无法直接比较。
+> - **含义** 指向学生在非认知层面的态度、情感体验与动力状态，与关注事实记忆的低阶[[Academic Achievement|学业成就]]及分析批判的[[Higher-Order Thinking Skills|高阶思维]]共同构成完整的全人学习结果谱系。
+> - **用途** 帮助研究者超越单纯认知分数的局限，评估教学干预（如[[Cooperative Learning|合作学习]]）对学生学习兴趣、学科认同与心理赋能的长效机制。
+> - **边界** 在实证[[Document|文献]]中通常作为数据驱动的操作化分类，其具体内涵受限于各研究采用的[[Questionnaire|问卷]]与量表指标；不同子维度之间[[Heterogeneity|异质性]]显著，不能简单等同于单一的同质心理特质。
 
 > [!boundary]- 概念边界
-> - 不等于**精神运动域产出（Psychomotor Outcomes）**——精神运动技能（肢体操作、体能表现）属于 Bloom 分类的第三领域，因缺乏满足纳入标准的元分析，未纳入 Güngör et al. (2026) 的分析范围。
-> - 不等于[[Academic Achievement|学业成就]]——学业成就属于认知域低阶产出（知识记忆与应用），而 Affective Outcomes 属于情感域产出，二者在元分析中的[[Effect Size|效应量]]和调节因素模式均不同。
+> - 不等于**精神运动域产出（Psychomotor Outcomes）**——精神运动产出聚焦身体动作、实验操作与体能技能表现，属于动作技能领域。
+> - 不等于**[[Academic Achievement|学业成就]]**——学业成就聚焦认知域的知识掌握、常规解题与测验分数，而情感产出聚焦于对学习的情感体验、态度倾向与动力状态。
+> - 不等于**[[Higher-Order Thinking Skills|高阶思维技能]]**——高阶思维属于复杂认知加工（批判、创造与问题解决），虽然二者在课堂深度互动中互相促进，但构念属性分别归属于认知域与情感域。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 三类学习产出对比
-> | 维度 | Affective Outcomes | [[Academic Achievement]] | [[Higher-Order Thinking Skills]] |
-> |------|---|---|---|
-> | 分类域 | 情感域（Affective Domain） | 认知域低阶 | 认知域高阶 |
-> | 典型[[Variable\|变量]] | 态度、自信心、内在动机 | GPA、测验成绩 | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]] |
-> | 整体 ES（Güngör 2026） | 0.51 [0.17, 0.84] | 0.71 [0.52, 0.90] | 0.76 [0.42, 1.11] |
-> | 跨研究[[Heterogeneity\|异质性]] | 极高（$I^2 = 93.70\%$） | 极高（$I^2 = 93.70\%$） | 极高（$I^2 = 93.70\%$） |
-> | 测量代理指标 | [[Questionnaire\|问卷]]自报为主 | 标准化测试、GPA | 任务表现、量表 |
+> [!contrast-table] 三类核心学习产出概念辨析
+> | 维度 | 情感产出 (Affective Outcomes) | [[Academic Achievement\|学业成就]] | [[Higher-Order Thinking Skills\|高阶思维技能]] |
+> |---|---|---|---|
+> | 分类领域 | 情感域（Affective Domain） | 认知域低阶（Cognitive Lower-order） | 认知域高阶（Cognitive Higher-order） |
+> | 核心关注 | 态度倾向、兴趣、自信心、内在动机 | 知识识记、理解、公式套用与学业成绩 | 逻辑批判、发散创造、[[Metacognition\|元认知]]与复杂问题解决 |
+> | 核心测量载体 | 自陈量表、态度[[Questionnaire\|问卷]]、反思日志 | 标准化考试、学科期末测验、GPA | 开放探究表现、思维量表、真实任务解题 |
+> | 在教学中的角色 | 动力引擎与学习体验的情感支撑 | 显性学业达标与常规效标要求 | 知识社会所需的高阶迁移与创新素养 |
 
 ---
 
 ## 核心要素
 
-> [!feature] 情感产出的构成要素（[[Argument_Gungor_2026_CP\|Güngör et al., 2026, p. 3]]）
-> - **内在动机（[[Intrinsic vs Extrinsic Motivation|intrinsic motivation]]）** 学生对学习活动本身的兴趣与满足感，是情感行为类产出中理论地位最核心的[[Variable|变量]]，Liu & Lipowski（2021）对体育课内在动机专项[[Meta-analysis|元分析]]的纳入印证其可测性。
-> - **学科态度（Subject Attitudes）** 学生对特定学科（如数学、护理学）的评价性倾向，是最常见的可报告情感变量，在各学科元分析中测量工具差异最大。
-> - **自信心与效能感（Self-confidence）** 学生对自身学业与操作能力的主观评价，在护理教育和物理学习的[[Cooperative Learning|合作学习]]干预中[[Effect Size|效应量]]较高。
-> - **一般学习感知（General Learning Perceptions）** 对学习环境、合作过程整体满意度或积极感受的综合评价，与合作学习的社会结构设计直接挂钩。
-
+> [!feature] 情感产出的核心构成维度
+> - **内在动机（[[Intrinsic vs Extrinsic Motivation|intrinsic motivation]]）** 学生对学习活动本身的好奇心、探索欲与自主满足感，是情感领域最核心的心理动力源泉。
+> - **学科学习态度（Subject Attitudes）** 对特定学科门类（如数学、科学、语言）所持有的正面或负面评价倾向与价值认同。
+> - **学业自信心与[[Self-Efficacy|自我效能感]]（Self-Confidence & Self-Efficacy）** 对自身在具体学习任务中能否取得成功的信念与效能评价。
+> - **一般学习感知与满意度（General Learning Perceptions）** 对课堂学习环境、同伴互动氛围与[[Learner Autonomy|自主学习]]体验的整体积极感受。
 
 ---
 
@@ -88,24 +101,23 @@ updated: 2026-08-24
 
 ---
 
-### 命题一　合作学习对情感行为具有积极但效应量偏低的正向促进效应
+### 命题一　合作学习等社会建构干预对情感产出具有稳健的正向赋能效应
 
-> [!concept-lens] 干预效应的规模与位序
-> 该命题考察[[Cooperative Learning|合作学习]]对情感类产出的整体促进强度，以及在三类学习产出中的相对位序。来自[[Meta-meta-analysis|二阶元分析]]的证据显示情感效应正向但相对保守，且方向一致性不受学习结果类型显著性调节。
+> [!concept-lens] 教学干预与情感塑造
+> [[Constructivist Paradigm|社会建构主义]]教学法通过同伴互动、角色互换与积极互赖，能够系统改善学生的学习体验，显著提升非认知维度的积极情感产出。
 
 > [!claim] Güngör et al.
-> **情感行为产出的效应偏低但显著正向** 二阶[[Meta-analysis|元分析]]综合 6 项一阶元分析报告 $ES = 0.51$ $[0.17, 0.84]$，[[Effect Size|效应量]]在三类学习产出（[[Higher-Order Thinking Skills|高阶思维]] $ES = 0.76$；[[Academic Achievement|学业成就]] $ES = 0.71$；情感行为 $ES = 0.51$）中最低，但三者差异在统计上不显著（$Q_b(3) = 4.35, p = .23$），意味着合作学习对情感产出的促进方向稳健，整体效益不及认知类产出。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–7)]]
+> **[[Cooperative Learning|合作学习]]对情感行为具有中等强度的正向促进效应** [[Meta-meta-analysis|二阶元分析]]表明，合作学习对学生态度、动机与自信心等情感行为具有统计显著的正向促进作用（$ES = 0.51$ $[0.17, 0.84]$），证实小群体协作能有效缓解学习焦虑并强化同伴认同与积极体验。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–7)]]
 
 ---
 
-### 命题二　情感产出效应受学科与合作技术的显著调节，学科间差异极端
+### 命题二　情感产出的干预效应表现出极强的学科与任务情境依赖性
 
-> [!concept-lens] 情境调节机制
-> 该命题关注学科情境与合作技术类型如何差异化地驱动情感产出效应。一阶元分析间极端的效应量跨度揭示了情感产出的高度情境依赖性。
+> [!concept-lens] 情境调节与机制差异
+> 情感产出并非脱离情境的均质反应，其对教学干预的敏感度高度依赖于学科本质特征、[[Task Structure|任务结构]]及特定合作技术的匹配度。
 
 > [!claim] Güngör et al.
-> **学科差异主导效应跨度** 纳入数据集的一阶元分析中，物理学科（Tanjung et al., 2022）情感产出 $ES = 1.26$ $[0.69, 1.88]$，护理学科（Özkan & Çetinkaya-Uslusoy, 2024）达 $ES = 1.18$ $[0.53, 1.84]$；而体育学科（Liu & Lipowski, 2021）仅 $ES = 0.05$ $[-1.3, 1.41]$，数学学科（Çapar & Tarım, 2015）为 $ES = 0.52$。体育情感产出效应不显著，可能源于体育教学目标优先生理激活而非社会情感互动，导致合作学习的情感促进机制无从激活。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 9–10)]]
-
+> **学科结构与协作深度主导情感效应的离散度** 物理探究（$ES = 1.26$）与护理临床（$ES = 1.18$）在合作学习下的情感赋能极其显著，源于复杂探究与高协作场景极度需要同伴支持；而在注重体能与独立技能练习的体育教学中情感效应不显著（$ES = 0.05$），表明情感产出的激发必须以深层认知与社会互动为中介。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 9–10)]]
 
 ---
 
@@ -114,64 +126,62 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **整体效应** | 合作学习对情感行为正向促进，ES = 0.51，在三类产出中最低 | 跨学科跨学段的合作学习干预评估 | Güngör et al. |
-> | **情境调节** | 情感效应受学科与合作技术类型显著调节，学科间跨度极大（0.05～1.26） | 具体学科情境的情感干预设计 | Güngör et al. |
+> | **干预有效性** | 合作学习对情感产出具有显著正向赋能（ES = 0.51） | K-12 与高等教育课堂教学法改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
+> | **情境依赖性** | 情感产出对干预的响应受学科任务结构与互动机制深度调节 | 具体学科教学设计与情感干预规划 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1964 — 情感域分类框架确立** Krathwohl、Bloom 与 Masia 在《教育目标分类学·情感域》中系统建立情感分类五层级（接受→回应→价值化→组织化→内化），奠定情感产出研究的理论基础。
-> - **1980s–2000s — [[Cooperative Learning|合作学习]]效果研究兴起** Johnson & Johnson 等人确立合作学习五要素框架，早期[[Meta-analysis|元分析]]开始将态度与动机纳入学习产出测量，但以认知结果为主。
-> - **2010s — 一阶元分析专项化** Çapar & Tarım (2015)、Kyndt et al. (2013)、Liu & Lipowski (2021) 等元分析开始报告专项情感[[Variable|变量]][[Effect Size|效应量]]，为二阶合并提供数据基础。
-> - **2026 — [[Meta-meta-analysis|二阶元分析]]系统综合** Güngör et al. (2026) 首次对合作学习一阶元分析进行系统二阶合并，将情感行为作为独立产出类别报告，揭示其相对于认知类产出偏低的效应量与极高[[Heterogeneity|异质性]]，指出粒度不足的研究局限。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
+> - **1964 — 情感域分类框架确立** Krathwohl、Bloom 与 Masia 联合出版《教育目标分类学·第二分册：情感域》，确立情感从“接受、反应”到“价值化、组织化、性格化”的层级体系，为情感产出奠定理论基石。
+> - **1980s–2000s — [[Cooperative Learning|合作学习]]效果研究将情感纳入指标** Johnson & Johnson、Slavin 等学者开展合作学习实证研究，逐步将态度、动机与[[Self-Efficacy|自我效能]]等非认知[[Variable|变量]]纳入教学成效评估。
+> - **2010s — 情感子维度一阶[[Meta-analysis|元分析]][[Emergence|涌现]]** Çapar & Tarım (2015)、Kyndt et al. (2013)、Liu & Lipowski (2021) 等元分析分别在数学、多学科及体育领域系统量化了教学干预对学科态度与内在动机的效应。
+> - **2026 — [[Meta-meta-analysis|二阶元分析]]将情感行为确立为独立产出维度** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 首次通过二阶元分析系统合成情感行为结果，明确其作为学习产出第三大支柱的循证地位，并指出现有测量粒度混合与情境[[Heterogeneity|异质性]]的研究局限。
 
 ---
 
 ## 争议与批评
 
-> [!warning] 适用局限（[[Argument_Gungor_2026_CP\|Güngör et al., 2026, p. 11]]）
-> - **粒度不足** 研究将所有情感行为类型（自信心、态度、动机等）合并报告，未能区分各子类型的差异效应。未来更细粒度的[[Meta-analysis|元分析]]有必要专项考察不同情感[[Variable|变量]]类型对[[Cooperative Learning|合作学习]]干预的响应差异。
-> - **地理与语言偏倚** 数据集以印度尼西亚（5 项）和土耳其（4 项）研究为主，并限于英文发表[[Document|文献]]，可能高估特定文化背景下的情感促进效应。
+> [!critique] [[Construct|构念]]测量与[[Heterogeneity|异质性]]争议
+> - **测量工具异质与粒度粗放** 现有实证研究常将态度、动机、自信心等不同心理构念混合打包为宽泛的“情感行为”大类，测量工具多依赖自陈[[Questionnaire|问卷]]，导致方法学异质性高（$I^2 = 93.70\%$），限制了对具体心理机制的细粒度解释。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, p. 11)]]
 
-
-> [!critique] 外部批评
-> - **测量工具分散** 各一阶元分析使用的情感量表、维度定义和[[Operationalization|操作化]]标准高度不统一，导致方法论[[Heterogeneity|异质性]]叠加在真实效应异质性之上，使 $I^2 = 93.70\%$ 的解读更加复杂，均值意义受限。
+> [!warning] 适用局限
+> - **文化与地域偏倚** 现有[[Cooperative Learning|合作学习]]情感产出的大规模[[Meta-analysis|元分析]]数据多集中于特定国家（如土耳其与印尼），在跨文化推广至其他教育体制时需审慎评估文化规范对群体协作情感体验的调节影响。
 
 ---
 
 ## 实证数据
 
-> [!ma-table]- [[Meta-analysis\|元分析]]总体结果
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 情感行为（Affective Behaviors） | 6 项一阶元分析 / 403 项原始研究 | Cohen's $d$ / 随机效应模型 | $ES = 0.51$ $[0.17, 0.84]$ | $I^2 = 93.70\%$，$\tau^2 = 0.13$ | 积极正向效应，在三类学习产出中[[Effect Size\|效应量]]最低 |
+> | Çapar & Tarım (2015)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]]：综合[[Cooperative Learning\|合作学习]]对数学学科态度的促进效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.52$ $[-0.20, 1.24]$ | — | 土耳其等地区数学混合学段，跨零未达统计显著 |
+> | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果[[Variable\|变量]]：面对面合作学习对一般态度的促进效应 | $k = 19$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.15$ $[0.04, 0.26]$ | — | 多国混合学科与混合学段，效应显著但整体偏低且检出[[Publication Bias\|发表偏倚]] |
+> | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对土耳其等地区学生态度的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.18$ $[-0.05, 0.40]$ | — | [[Sample Size Determination\|样本量]]较小，置信区间跨零未达统计显著 |
+> | Liu & Lipowski (2021)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对体育课内在动机的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.05$ $[-1.30, 1.41]$ | — | K-12 体育教育，置信区间极宽且检出发表偏倚 |
+> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：拼图法（Jigsaw）对护理学生专业态度的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.18$ $[0.53, 1.84]$ | — | 高等护理教育临床情境，角色互换显著增强专业认同 |
+> | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：小组[[Survey Research\|调查法]]对物理情感能力的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.26$ $[0.69, 1.88]$ | — | 印尼 10-11 年级物理课，探究合作对学科情感与效能感赋能突出 |
 
-> [!ma-table]- 调节[[Variable\|变量]]与亚组分析
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学习结果类型 | 亚组分析 | 高阶思维（$ES = 0.76$）> 学业成就（$ES = 0.71$）> 情感行为（$ES = 0.51$） | 见各组值 | $Q_b(3) = 4.35, p = .23$ | 预设 | 三类产出差异不显著；情感行为点估计最低 |
-
-> [!ref-table]- 各一阶元分析情感行为效应量汇总（均引自 [[Argument_Gungor_2026_CP\|Güngör et al., 2026]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 统计显著性与[[Effect Size\|效应量]] | 解释边界 |
+> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Çapar & Tarım (2015) | 数学，混合学段 | 一阶元分析（准实验与全实验，7 项研究） | 数学学科态度 | $ES = 0.52$ $[-0.20, 0.60]$ | 不显著（CI 含零） | 数学情感效应可能因高结构性任务压缩情感互动空间 |
-> | Kyndt et al. (2013) | 综合学科，混合学段 | 一阶元分析（19 项研究） | 一般态度 | $ES = 0.15$ $[0.04, 0.26]$ | 显著（CI 不含零） | 覆盖多学科，态度测量工具异质性高 |
-> | Liu & Lipowski (2021) | 体育，中学阶段 | 一阶元分析（6 项研究） | 内在动机 | $ES = 0.05$ $[-1.3, 1.41]$ | 不显著（CI 极宽） | [[Sample Size Determination\|样本量]]不足，体育课合作结构与情感激发路径待厘清 |
-> | Özkan & Çetinkaya-Uslusoy (2024) | 护理教育，高等教育 | 一阶元分析·拼图法（6 项研究） | 护理学生态度 | $ES = 1.18$ $[0.53, 1.84]$ | 显著 | 高强度专业技能情境中情感效应突出 |
-> | Tanjung et al. (2022) | 物理，中学阶段 | 一阶元分析·小组调查法（4 项研究） | 情感能力 | $ES = 1.26$ $[0.69, 1.88]$ | 显著 | 印度尼西亚样本，可能受集体主义文化放大情感效应 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对情感行为（Affective Behaviors）的干预效应 | $M = 6$；$E = 6$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.51$ $[0.17, 0.84]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 情感行为包含态度、动机与自信心等异质测量，点估计为三类产出中最低；一阶研究集中于土耳其与印尼 |
 
+> [!ma-table]- 二阶元分析互补维度亚组
+> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 产出类型互补比较：[[Higher-Order Thinking Skills\|高阶思维技能]] vs [[Academic Achievement\|学业成就]] vs 情感行为 | $E = 4$（HOTS）/ $E = 12$（成就）/ $E = 6$（情感） | HOTS $ES = 0.76$ $[0.42, 1.11]$；成就 $ES = 0.71$ $[0.52, 0.90]$；情感 $ES = 0.51$ $[0.17, 0.84]$ | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ | 预设分析；产出类型间差异未达统计显著，不能依据点估计断言有效性绝对优劣 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，综合 6 项含情感行为结果的一阶[[Meta-analysis|元分析]]，报告整体 $ES = 0.51$，揭示极高[[Heterogeneity|异质性]]与测量粒度局限，确立情感行为作为[[Cooperative Learning|合作学习]]第三类学习产出维度的实证地位。
+> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，系统综合 6 项一阶[[Meta-analysis|元分析]]中关于情感产出的实证证据，量化确立[[Cooperative Learning|合作学习]]对学生态度、内在动机与自信心的中等促进效应（$ES = 0.51$），并揭示学科[[Task Structure|任务结构]]对情感效应的显著调节作用。

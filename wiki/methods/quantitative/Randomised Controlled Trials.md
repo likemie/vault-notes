@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 94
+method_related_count: 95
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Pre-test and Post-test]]"
   - "[[Questionnaire]]"
   - "[[Blinding]]"
-  - "[[Praxis]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
   - "[[Sample Size Determination]]"
@@ -55,6 +54,7 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Clinical Trial]]"
   - "[[Side Effects]]"
+  - "[[Creativity]]"
   - "[[Complier Average Causal Effect]]"
   - "[[Evaluator Independence]]"
   - "[[Fade-out Effect]]"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Ontology]]"
   - "[[Validity as Inferences]]"
+  - "[[Praxis]]"
   - "[[Recommendations for Practice]]"
   - "[[Class Size]]"
   - "[[Screening Off]]"
@@ -182,7 +183,7 @@ updated: 2026-08-21
 > [!proc] 通用操作步骤
 > 1. **[[Random Assignment|随机分配]]** 将参与者随机分配至干预组（接受干预）和对照组。
 > 2. **[[Pre-test and Post-test|前测]]**（可选）：在干预前测量两组的基线水平。
-> 3. **实施干预** 干预组接受待评估的教育干预，对照组维持原有[[Praxis|实践]]。
+> 3. **实施干预** 干预组接受待评估的教育干预，对照组维持原有实践。
 > 4. **后测** 干预后测量两组的结果。
 > 5. **分析** 计算标准化[[Effect Size|效应量]]（均值差除以标准差），检验[[Statistical Significance|统计显著性]]。
 
@@ -270,7 +271,7 @@ updated: 2026-08-21
 > 在药物试验中，对照组通常使用安慰剂以判断干预的相对影响。在教育中，"控制组应该是'什么都不做'还是'照常做'？"Pawson (2006, p. 51) 指出："这不是静止的世界。这不是真空……控制组或控制区域实际上非常忙碌。"（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, p. 115]]）
 
 > [!critique-method] 双盲在教育中不可能
-> 药物试验中，严格的双盲程序为排除医生和患者的主观意志影响以及制药公司的力量提供了重要的社会保护。但在教育中，不可能在没有师生注意到的情况下改变[[Praxis|实践]]。药物试验试图消除人的因素因为"人的意志被视为污染物"，但社会变革恰恰通过人的能动性实现（Pawson, 2006, p. 27）（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 114–115]]）。
+> 药物试验中，严格的双盲程序为排除医生和患者的主观意志影响以及制药公司的力量提供了重要的社会保护。但在教育中，不可能在没有师生注意到的情况下改变实践。药物试验试图消除人的因素因为"人的意志被视为污染物"，但社会变革恰恰通过人的能动性实现（Pawson, 2006, p. 27）（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 114–115]]）。
 >
 > **Heckman 的 AIDS 药物试验例证（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.5]]）** 参与者不知道自己是在药物组还是安慰剂组，所以**他们互相分享分配的药品**以最大化获得真药的机会，致使结果难以甚至无法解释。
 >
@@ -326,7 +327,7 @@ updated: 2026-08-21
 > "The important point here is that educational research tells us only what was, not what might be." ([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p.7]])
 
 > [!tension] Taylorist 类比
-> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p. 114)]] 将 RCT 在教育中的推广与科学管理运动（Taylorism）类比——两者都将复杂的人类活动分解为可测量的离散"干预"，在此过程中压制了人的创造性过程。
+> [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019, p. 114)]] 将 RCT 在教育中的推广与科学管理运动（Taylorism）类比——两者都将复杂的人类活动分解为可测量的离散"干预"，在此过程中压制了人的[[Creativity|创造性]]过程。
 
 ---
 

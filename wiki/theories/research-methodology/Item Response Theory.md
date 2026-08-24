@@ -24,7 +24,6 @@ related_concepts:
   - "[[Standard Error]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
@@ -33,6 +32,8 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
+related_instruments:
+  - "[[Consensual Assessment Technique]]"
 confidence: medium
 status: draft
 created: 2026-07-24
@@ -146,9 +147,9 @@ updated: 2026-07-26
 
 > [!dev-timeline] 发展脉络
 > - **1960 — [[Rasch Measurement|Rasch 模型]]提出** Georg Rasch 提出一参数逻辑斯蒂模型，奠定客观测量的概率基础
-> - **1980 — Lord 出版《项目反应理论在[[Praxis|实践]]测验问题中的应用》** 系统化 IRT 的理论框架和实际应用
+> - **1980 — Lord 出版《项目反应理论在实践测验问题中的应用》** 系统化 IRT 的理论框架和实际应用
 > - **1990 — Rasch 测量成为教育测评主流** Wainer & Mislevy 等学者的推广使 IRT 进入大规模测评项目（如 NAEP、TIMSS、[[PISA]]）
-> - **2000 年代 — [[Computerized Adaptive Testing|计算机自适应测验]]普及** IRT 成为 CAT 的核心算法基础
+> - **2000 年代 — [[Computerized Adaptive Testing|计算机自适应测验]]普及** IRT 成为 [[Consensual Assessment Technique|CAT]] 的核心算法基础
 
 ---
 

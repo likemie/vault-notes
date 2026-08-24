@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 48
+method_related_count: 47
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Logic Model]]"
   - "[[Growth]]"
   - "[[Bildung]]"
-  - "[[Praxis]]"
   - "[[Threats to External Validity]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -194,7 +193,7 @@ updated: 2026-08-21
 > - **选择-成熟交互威胁（Selection-Maturation Interaction）** 即使基线分数完全一致，来自高社会经济地位（SES）学校的对照组学生其自然[[Growth|成长]]斜率可能远快于薄弱校干预组，导致因果估计发生系统偏差。
 > - **不可测混杂与遗漏[[Variable|变量]]偏倚（Omitted Variable Bias）** 倾向得分匹配只能平衡已测量协变量，无法控制动机、家庭[[Bildung|教养]]风格等不可测潜变量。
 > - **均值回归现象（Regression to the Mean）** 当依据极端低分挑选干预组时，[[Pre-test and Post-test|后测]]分数的提高可能仅仅是统计回归假象，而非干预真实功效。
-> - **[[Praxis|实践]]维度的信息遮蔽** QED 同 [[Randomised Controlled Trials|RCT]] 一样，若仅报告平均[[Effect Size|效应量]]，会系统性遗漏学校采纳最急需的**实施成本**、**用户满意度**与**本地适配指南**([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 120–122]])。
+> - **实践维度的信息遮蔽** QED 同 [[Randomised Controlled Trials|RCT]] 一样，若仅报告平均[[Effect Size|效应量]]，会系统性遗漏学校采纳最急需的**实施成本**、**用户满意度**与**本地适配指南**([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 120–122]])。
 
 ---
 

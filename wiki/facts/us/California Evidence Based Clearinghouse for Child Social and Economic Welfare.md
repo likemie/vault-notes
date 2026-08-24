@@ -10,9 +10,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - cebc
@@ -26,13 +26,18 @@ related_concepts:
   - "[[Rating Scale]]"
   - "[[Document]]"
   - "[[Dependent Variable]]"
+  - "[[Iatrogenic Effects in Education]]"
   - "[[Praxis]]"
+  - "[[Evaluator Independence]]"
+  - "[[Fade-out Effect]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Regression Discontinuity Design]]"
+  - "[[Time Series Design]]"
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons: []
@@ -81,11 +86,11 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CEBC 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=1, RDD=0, ITS=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> CEBC 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Time Series Design|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **非重叠样本 RCT 验证** 要求评估项目必须拥有至少两个独立开展、样本不重叠的高质量 RCT。
 > 2. **测量工具信效度审查** 要求核心[[Dependent Variable|结果变量]]必须采用具备经过同行检验的公认心理测量学信效度的测量工具。
-> 3. **零医源性伤害原则** 项目不得在任何测量维度上产生对儿童及其家庭的心理或行为有害后果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 14]])。
+> 3. **零[[Iatrogenic Effects in Education|医源性伤害]]原则** 项目不得在任何测量维度上产生对儿童及其家庭的心理或行为有害后果([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 14]])。
 
 ---
 
@@ -97,7 +102,7 @@ updated: 2026-08-21
 > | **Level 1: Well-Supported（强力支持·最高级）** | **至少 2 项非重叠样本的高质量 RCT**；在核心使命领域展示统计显著正效应；<br>🔴 **强制要求** 至少 1 项 RCT 证明干预结束后 **12 个月以上仍维持积极持续效果**；<br>🔴 **零医源性伤害** 无任何有害或法理存疑的负面效应。 |
 > | **Level 2: Supported（得到支持·次高级）** | 至少 1 项高质量 [[Randomised Controlled Trials\|RCT]]，干预结束后随访期要求缩短至 **6 个月** 仍维持持续效果。 |
 > | **Level 3: Promising（有前景[[Praxis\|实践]]）** | 至少 1 项建立在已确立理论基础上的高质量 [[Quasi-Experimental Designs\|QED]]，干预刚结束即测呈现正效应（无长期随访要求）。 |
-> | **Level 4 & 5: Evidence Fails / Concerning Practice** | 未能证实效果，或存在确凿的医源性伤害风险。 |
+> | **Level 4 & 5: Evidence Fails / Concerning Practice** | 未能证实效果，或存在确凿的[[Iatrogenic Effects in Education\|医源性伤害]]风险。 |
 > | **NR: Not Ratable** | 缺乏同行评审[[Document\|文献]]支持，不予评级。 |
 
 ---
@@ -105,7 +110,7 @@ updated: 2026-08-21
 ## 生态定位与评级分歧案例
 
 > [!warning] 跨中心分歧与典型案例
-> CEBC 与 [[Blueprints for Healthy Youth Development|Blueprints]] 构成了 12 个清算中心中最高门槛的第一梯队，其核心差异在于 CEBC 虽未强制要求外部独立评估者，但将 **12 个月（Level 1）与 6 个月（Level 2）干预后随访期** 设为刚性门槛：
+> CEBC 与 [[Blueprints for Healthy Youth Development|Blueprints]] 构成了 12 个清算中心中最高门槛的第一梯队，其核心差异在于 CEBC 虽未强制要求外部[[Evaluator Independence|独立评估者]]，但将 **12 个月（Level 1）与 6 个月（Level 2）干预后随访期** 设为刚性门槛：
 > - [[Success for All]]（SFA）— 在 CEBC 评级中获评 Level 2（Supported），其严谨的纵向[[Cohort Study|追踪研究]]与多样本验证使其在跨界福利清算体系中获得高度肯定([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 23]])。
 
 ---
@@ -114,4 +119,4 @@ updated: 2026-08-21
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — CEBC 是多领域公共清算中心的典范，展示了儿童福利与教育政策的交叉证据治理。
-> - [[Campbellian Validity Framework]] — CEBC 通过 12 个月长期随访要求，有效检验干预效能是否随时间推移发生衰减（Fade-Out Effect）。
+> - [[Campbellian Validity Framework]] — CEBC 通过 12 个月长期随访要求，有效检验干预效能是否随时间推移发生衰减（[[Fade-out Effect]]）。

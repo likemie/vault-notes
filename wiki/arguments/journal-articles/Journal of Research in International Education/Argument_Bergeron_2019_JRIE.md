@@ -21,7 +21,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Teacher Beliefs]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[Questionnaire]]"
@@ -66,7 +65,7 @@ title: "Argument_Bergeron_2019_JRIE"
 argument_key: "Argument_Bergeron_2019_JRIE"
 argument_display_title: "Investigating the perspective of Theory of Knowledge teachers in International Baccalaureate World Schools"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -98,7 +97,7 @@ issuing_organization: ""
 ## 理论框架
 
 > [!theory-position] 理论工具：[[Teacher Beliefs|教师信念]] (Teacher Beliefs)
-> - **解释对象** 教师对教学、学习和知识本质的观念[[Hypothesis|假设]]，及其与教学[[Praxis|实践]]的双向交互关系。
+> - **解释对象** 教师对教学、学习和知识本质的观念[[Hypothesis|假设]]，及其与教学实践的双向交互关系。
 > - **理论问题** 教师对 [[Theory of Knowledge|TOK]] 的看法如何影响其教学投入？教授高度[[Reflexivity|反思性]]的 TOK 课程又如何重塑教师原有的教学信念？
 > - **理论类型** 教育心理学与教师专业发展的中层机制。
 > - **知识位置** 作为分析 TOK 课程有效性的中介[[Variable|变量]]——课程的成功实施不仅改变学生，也在重塑教师。
@@ -182,7 +181,7 @@ issuing_organization: ""
 ### 反向重塑：作为专业发展场域的 TOK
 
 > [!claim] 教授 TOK 是一次深度的专业发展，能重塑[[Teacher Beliefs|教师信念]]
-> TOK 的教学过程本质上对教师自身也是一种“认识论干预”，极大地推动了教师教学理念向以学生为中心和反思性[[Praxis|实践]]转变。
+> TOK 的教学过程本质上对教师自身也是一种“认识论干预”，极大地推动了教师教学理念向以学生为中心和反思性实践转变。
 
 > [!evidence-grid] 专业发展与教学法革新
 > - **双向共振的获益** 教师强烈同意教授 TOK 对其是一次有价值的专业发展（M=3.72/4.0）。他们在教学中体验到了与期望学生获得的同样的[[Growth|成长]]：**从多重视角看问题、保持开放、不评判他人（seeing things from multiple viewpoints, being open, not judging others）**。

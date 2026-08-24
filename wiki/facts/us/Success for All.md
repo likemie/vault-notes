@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
+  - "[[Cooperative Learning]]"
   - "[[Implementation Fidelity]]"
   - "[[Academic Achievement]]"
   - "[[Master Protocol]]"
@@ -76,7 +77,7 @@ updated: 2026-08-21
 
 > [!policy-design] 课程设计与三层干预机制（RTPI 模型）
 > SFA 确立了以预防为主的循证干预金字塔架构（Response to Proven Intervention, RTPI）：
-> - **第一层（[[Top Institute for Evidence-Based Education Research|TIER]] 1 · 全班教学）** 每日 90 分钟高度结构化的读写课程，融合合作学习（Cooperative Learning）、显性自然拼读、音素意识与故事阅读理解。
+> - **第一层（[[Top Institute for Evidence-Based Education Research|TIER]] 1 · 全班教学）** 每日 90 分钟高度结构化的读写课程，融合[[Cooperative Learning|合作学习]]（Cooperative Learning）、显性自然拼读、音素意识与故事阅读理解。
 > - **第二层（Tier 2 · 小组精准辅导）** 针对在全班教学中存在跟进困难的学生，由经过专门认证的阅读助教提供每日 20 分钟的小组定向强化。
 > - **第三层（Tier 3 · 一对一密集辅导与家庭支持）** 针对严重读写障碍学生提供专业教师 1 对 1 辅导，配套建立全校“家庭支持团队（Family Support Team）”协调出勤与社会情感资源。
 > - **准入门槛机制** 规定全校必须有 **80% 以上教师匿名投票赞同** 方可引进该模式，确保基层[[Implementation Fidelity|实施保真度]]([[Argument_Cheung_2021_ROE|Cheung & Xie, 2021, p. 106]])。

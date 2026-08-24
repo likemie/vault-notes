@@ -7,7 +7,7 @@ summary: "英国政治科学家，公共选择理论取向的教育政策分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -21,7 +21,6 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Creativity]]"
   - "[[Knowledge Questions]]"
@@ -55,7 +54,7 @@ updated: 2026-08-24
 ## 简介
 
 > [!info] 简介
-> Nick Cowen 是英国政治科学家，任职于林肯大学（University of Lincoln）社会与政治科学学院，亦为纽约大学法学院古典自由主义研究所（Classical Liberal Institute, NYU School of Law）研究员。他将公共选择理论（特别是 Tullock 的官僚制模型）应用于教育政策分析，为[[Evidence-Based Education|证据本位教育]]（EBE）的批判提供了**制度逻辑**层面的解释。此外，Cowen 与科学哲学家 [[Nancy Cartwright]] 合作，从政策实施角度研究了 EBE 证据在课堂层面应用的[[Praxis|实践]]挑战。
+> Nick Cowen 是英国政治科学家，任职于林肯大学（University of Lincoln）社会与政治科学学院，亦为纽约大学法学院古典自由主义研究所（Classical Liberal Institute, NYU School of Law）研究员。他将公共选择理论（特别是 Tullock 的官僚制模型）应用于教育政策分析，为[[Evidence-Based Education|证据本位教育]]（EBE）的批判提供了**制度逻辑**层面的解释。此外，Cowen 与科学哲学家 [[Nancy Cartwright]] 合作，从政策实施角度研究了 EBE 证据在课堂层面应用的实践挑战。
 
 ## 核心思想
 
@@ -68,7 +67,7 @@ updated: 2026-08-24
 > **维度二：EBE 的实施困境（实证研究）**
 > [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] 通过对 22 位英国教师的精英访谈，揭示了 EBE 从"什么有效"到"在这里有效"之间的知识鸿沟。关键发现包括：
 >
-> 1. **证据实施的"流动性"** 学校不是"开箱即用"地应用证据本位方案。证据与已有知识、[[Praxis|实践]]和价值观以不可预测的方式互动——既可用于克服制度惯性，也可用于[[Creativity|创造性]]偏离。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40-41]])
+> 1. **证据实施的"流动性"** 学校不是"开箱即用"地应用证据本位方案。证据与已有知识、实践和价值观以不可预测的方式互动——既可用于克服制度惯性，也可用于[[Creativity|创造性]]偏离。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40-41]])
 >
 > 2. **本地知识的不可或缺性** 教师的本地知识（学生特征、社区环境、学校文化）是证据成功实施的必要前提，而非需要被科学证据取代的"轶事"。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.14, 27-28]])
 >
@@ -90,7 +89,7 @@ updated: 2026-08-24
 
 - 深受 **Gordon Tullock** 和公共选择传统影响
 - 与 **[[Nancy Cartwright]]** 密切合作，将科学哲学（[[Causality|因果推断]]、[[Randomised Controlled Trials|RCT]] [[External Validity|外部效度]]）应用于教育政策
-- 与 **[[Gert Biesta]]** 对 [[Evidence-Based Education|EBE]] 的批判互补：Biesta 提供哲学批判（EBE 为什么在[[Epistemology|认识论]]上是错的），Cowen 提供政治经济学解释（EBE 为什么在制度上被选择）和[[Praxis|实践]]分析（EBE 为什么在实施中受阻）
+- 与 **[[Gert Biesta]]** 对 [[Evidence-Based Education|EBE]] 的批判互补：Biesta 提供哲学批判（EBE 为什么在[[Epistemology|认识论]]上是错的），Cowen 提供政治经济学解释（EBE 为什么在制度上被选择）和实践分析（EBE 为什么在实施中受阻）
 
 ## 主要著作
 

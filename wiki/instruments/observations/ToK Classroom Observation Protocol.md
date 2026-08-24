@@ -22,8 +22,8 @@ tags:
   - instrument/observation
 related_concepts:
   - "[[Champ]]"
-  - "[[Praxis]]"
   - "[[Critical Thinking]]"
+  - "[[Creativity]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
 related_theories: []
@@ -53,19 +53,19 @@ updated: 2026-07-01
 > [!instrument-profile] ToK 课堂[[Observation Protocol|观察协议]]
 > - **工具类型** 半结构化课堂观察工具，以[[Field Notes|田野笔记]]（[[Champ|field]] notes）为记录形式。
 > - **开发者与年份** [[Argument_Cole_2015_AJE|Cole et al. (2015)]]。
-> - **测量目的** 记录 ToK 课堂教学[[Praxis|实践]]，分析[[Critical Thinking|批判性思维]]在课堂中的呈现方式和教学有效性。
+> - **测量目的** 记录 ToK 课堂教学实践，分析[[Critical Thinking|批判性思维]]在课堂中的呈现方式和教学有效性。
 > - **实施方式** 研究者进入课堂进行[[Non-participant Observation|非参与式观察]]，以预设重点为指引记录田野笔记，不录音录像。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Critical Thinking|批判性思维]]教学[[Praxis|实践]]
+> [!construct-table] [[Critical Thinking|批判性思维]]教学实践
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | 教学法与内容 | 5 | 教师如何教授 ToK、学生回应方式、材料使用、哲学提及、创造性 | [[Field Notes\|田野笔记]]定性记录 |
+> | 教学法与内容 | 5 | 教师如何教授 ToK、学生回应方式、材料使用、哲学提及、[[Creativity\|创造性]] | [[Field Notes\|田野笔记]]定性记录 |
 > | 批判性思维要素 | 2 | 课堂中应用的批判性思维要素、CT 被增强或未被增强的方式 | 田野笔记定性记录 |
 > | 教学有效性 | 3 | 影响教学法有效性的因素、教学法目的性与清晰度、小组动态运用 | 田野笔记定性记录 |
 > | 制度与[[Metacognition\|元认知]] | 2 | 学校政策/指示的提及、学生对自己 CT 提高的认知 | 田野笔记定性记录 |
@@ -90,7 +90,7 @@ updated: 2026-07-01
 > | 2 | 教学法与内容 | 学生如何回应特定的 ToK 教学法？学生在课堂上做了什么？ | 描述性田野笔记 | — | 同上 |
 > | 3 | 教学法与内容 | 教师仅引用学术材料还是引入了课外材料？ | 描述性田野笔记 | — | 同上 |
 > | 4 | 教学法与内容 | 课堂中是否提到了哲学？如果是，如何提及、为什么提及？ | 描述性田野笔记 | — | 同上 |
-> | 5 | 教学法与内容 | ToK 课堂是否具有想象力或创造性？ | [[Reflexivity\|反思性]]田野笔记 | — | 同上 |
+> | 5 | 教学法与内容 | ToK 课堂是否具有想象力或[[Creativity\|创造性]]？ | [[Reflexivity\|反思性]]田野笔记 | — | 同上 |
 > | 6 | [[Critical Thinking\|批判性思维]]要素 | 课堂中应用或使用了哪些批判性思维要素？ | 描述性田野笔记 | — | 同上 |
 > | 7 | 批判性思维要素 | 批判性思维在课堂中如何被增强或未被增强？ | 反思性田野笔记 | — | 同上 |
 > | 8 | 教学有效性 | 哪些因素影响了教学法的有效性，包括班级管理或小组动态？ | 反思性田野笔记 | — | 同上 |

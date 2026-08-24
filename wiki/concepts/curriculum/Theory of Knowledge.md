@@ -41,7 +41,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Champ]]"
-  - "[[Praxis]]"
   - "[[Class Size]]"
   - "[[Teacher Beliefs]]"
   - "[[Empty Knower]]"
@@ -56,6 +55,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
+  - "[[Praxis]]"
   - "[[Concurrency of Learning]]"
   - "[[Creativity, Action, Service]]"
 related_theories:
@@ -351,7 +351,7 @@ updated: 2026-08-22
 > TOK 这类高度开放的[[Epistemology|认识论]]课程对授课教师教学理念具有重塑作用，但其开放式探究在传统学校行政管理与评估体系中也遭遇制度化挑战。
 
 > [!claim] Bergeron, L., & Rogers, L.
-> **作为专业发展[[Champ|场域]]与教学法溢出** 教授高度关注批判性反思和多视角探究的 TOK，本质上对教师也是一种深度的“认识论干预”。教师不仅在处理复杂议题时累积了效能感，更重要的是产生了**教学法的溢出效应（spill-over effect）**——他们将在 TOK 中掌握的“探究的结构化方式（thinking routines）”和以学生为中心的反思性[[Praxis|实践]]，广泛迁移并重塑了其日常教授常规学科的教学模式。[[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019, pp. 177-179)]]
+> **作为专业发展[[Champ|场域]]与教学法溢出** 教授高度关注批判性反思和多视角探究的 TOK，本质上对教师也是一种深度的“认识论干预”。教师不仅在处理复杂议题时累积了效能感，更重要的是产生了**教学法的溢出效应（spill-over effect）**——他们将在 TOK 中掌握的“探究的结构化方式（thinking routines）”和以学生为中心的反思性实践，广泛迁移并重塑了其日常教授常规学科的教学模式。[[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019, pp. 177-179)]]
 
 > [!claim] Bergeron, L., & Rogers, L.
 > **“高期望，低支持”的实施阻力** 尽管教师高度认同 TOK 价值，但由于其追求多视角探究、没有“唯一正确答案”，教师在评估时面临极大内耗，且官方提供的量规与实际需要的实操支持之间存在断层。同时，由于多数 TOK 教师并非专职，常伴有跨学科备课的“资质焦虑”；部分学校甚至将 TOK 排在放学后（“附加物心态”），不仅导致大[[Class Size|班额]]难以开展高质量反思，更隐性削弱了课程的学术合法性。[[Argument_Bergeron_2019_JRIE|(Bergeron & Rogers, 2019, pp. 180-182)]]
@@ -396,7 +396,7 @@ updated: 2026-08-22
 >
 > - **2009 年的[[Critical Pedagogy|批判教育学]]审视**
 >
->   Darwish 结合[[John Dewey|约翰·杜威]]（John Dewey）与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）的[[Active Learning|主动学习]]和[[Critical Pedagogy|批判教育学]]审查 TOK。课程摆脱了[[Banking Model of Education|储蓄式教育]]的部分特征，但终结性评估较窄，也缺少推动学生以[[Praxis|实践]]回应社会压迫的明确承诺。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 23–24)]]
+>   Darwish 结合[[John Dewey|约翰·杜威]]（John Dewey）与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）的[[Active Learning|主动学习]]和[[Critical Pedagogy|批判教育学]]审查 TOK。课程摆脱了[[Banking Model of Education|储蓄式教育]]的部分特征，但终结性评估较窄，也缺少推动学生以实践回应社会压迫的明确承诺。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 23–24)]]
 >
 > - **2013 年的[[Knowledge Questions|知识问题]]与[[Knowledge Framework|知识框架]]架构**
 >
@@ -466,9 +466,9 @@ updated: 2026-08-22
 
 ### 反思性课程未必转化为实践解放
 
-> [!critique] 学习者与[[Praxis|实践]]的批评
+> [!critique] 学习者与实践的批评
 > - **[[Empty Knower|空无知者]]预设** 课程可能把学生当作等待理性框架塑造的[[Empty Knower|空无知者]]，使哲学术语和应试规范压缩情感、[[Conatus|欲力]]与创造空间。[[Argument_Cole_2005_JRIE|(Cole, 2005, pp. 212, 220)]]
-> - **实践承诺不足** TOK 能够摆脱部分[[Banking Model of Education|储蓄式教育]]特征，但一次论文与一次口头任务构成的终结性评估难以推动学生把反思转化为回应社会压迫的[[Praxis|实践]]。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 23–24)]]
+> - **实践承诺不足** TOK 能够摆脱部分[[Banking Model of Education|储蓄式教育]]特征，但一次论文与一次口头任务构成的终结性评估难以推动学生把反思转化为回应社会压迫的实践。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 23–24)]]
 
 ---
 
@@ -476,7 +476,7 @@ updated: 2026-08-22
 
 ### 澳大利亚学校将统一课程转化为不同实施路径
 
-四所新南威尔士州学校的[[Case Study|案例研究]]显示，统一指南可以形成明显不同的 TOK [[Praxis|实践]]。[[Argument_Cole_2015_AJE|Cole et al. (2015, pp. 256–259)]]
+四所新南威尔士州学校的[[Case Study|案例研究]]显示，统一指南可以形成明显不同的 TOK 实践。[[Argument_Cole_2015_AJE|Cole et al. (2015, pp. 256–259)]]
 
 > [!contrast-table] 四所案例学校的 TOK 实施模式
 > | 学校 | 实施方式 | TOK 与[[Critical Thinking\|批判性思维]]的关系 | 批判性思维教学程度 |

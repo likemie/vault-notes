@@ -20,7 +20,6 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
-  - "[[Praxis]]"
   - "[[IB Diploma Programme]]"
   - "[[Falsification]]"
   - "[[Disciplina and Doctrina]]"
@@ -49,6 +48,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Lifelong Learning]]"
   - "[[Metacognition]]"
+  - "[[Phronesis]]"
   - "[[Reflexivity]]"
 related_theories:
   - "[[Pragma-Dialectics]]"
@@ -99,7 +99,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）课程同时追求两个目标：培养[[Critical Thinking|批判性思维]]（Critical Thinking，CT）的开放探究精神，以及维护科学作为权威知识形式的地位。这两个目标能否在同一门课程中真正共存？如果不能，它们的冲突在课程评估、教科书和课堂[[Praxis|实践]]中如何具体表现？
+> [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的[[Theory of Knowledge|知识论]]（Theory of Knowledge，TOK）课程同时追求两个目标：培养[[Critical Thinking|批判性思维]]（Critical Thinking，CT）的开放探究精神，以及维护科学作为权威知识形式的地位。这两个目标能否在同一门课程中真正共存？如果不能，它们的冲突在课程评估、教科书和课堂实践中如何具体表现？
 
 > [!claim] 核心主张
 > TOK 课程面临一个未被诊断的两难困境。要么与科学科目的议程兼容，但必须妥协批判性思维要素；要么认真对待批判性思维目标，但无法充分支持科学教育维护科学知识权威的诉求。这一张力普遍存在于任何试图将批判性思维课程嫁接在传统学科结构之上的课程改革中。
@@ -121,7 +121,7 @@ issuing_organization: ""
 > | **[[Duhem-Quine Thesis]]**<br>（迪昂-蒯因论题） | 不完全决定性（underdetermination）论题：逻辑本身无法唯一决定理论选择。用来解释为何简化版[[Falsification\|证伪主义]]不足以描述科学实践。 |
 
 > [!warrant]- 理论如何支撑论证
-> 分析以 [[Theory of Knowledge|TOK]] 课程的三个内在问题作为分析透镜，依次审查评估标准、教科书内容和课堂[[Praxis|实践]]：
+> 分析以 [[Theory of Knowledge|TOK]] 课程的三个内在问题作为分析透镜，依次审查评估标准、教科书内容和课堂实践：
 > - **核心推理桥梁** 如果一门课程声称培养批判性思维，却通过评估框架暗中[[Disciplina and Doctrina|规训]]学生使用特定术语和思维模式，那么它在进行另一种形式的灌输，恰好违背了课程自身的宗旨
 > - **更根本的悖论** 批判性思维课程创造的[[Analytic Framework|分析框架]]，如果本身不能被批判性思维所审查，就是一个自毁的体系
 
@@ -236,7 +236,7 @@ issuing_organization: ""
 > [!chain-link] 证伪主义如何被教科书简化（pp.175–176）
 > - **科学卡牌游戏引入范式概念** 教师用书建议用一个科学卡牌游戏来让学生熟悉科学过程。学生猜测教师按照什么算法接受或拒绝展示的卡片，目标是发现规则。与卡片相关的规则（红、黑、红……）比与外部环境相关的规则（女孩给出、男孩给出、女孩给出……）更容易发现。随后引入范式概念，作为尝试解决问题时所做的一组假设。同时基于这个模式识别游戏引入了一种朴素[[Scientific Method|科学方法]]模型。
 > - **证伪被确立为科学的严峻检验** 教科书中波普尔式的语气清晰可辨。Alchin 写道，最重要的一点是实验的严峻检验必须是证伪——证伪允许我们剔除不符合自然实际运作方式的理论，这对自然科学来说是绝对核心的，是我们消除失败的机制（Alchin, 2003a, p.13）。
-> - **教科书随后又自相反驳** Alchin 在其他地方表现出谨慎。他承认证伪从来不是简单的、也从来不是结论性的，它本应避免归纳问题，但根本没有解决归纳问题（Alchin, 2003a, pp.15–16）。他指出证伪主义不能描述科学[[Praxis|实践]]。Imre Lakatos 早已指出这一点，另一位匈牙利流亡哲学家 Michael Polanyi 的观点也在书中被引用（Alchin, 2003b, p.22）。
+> - **教科书随后又自相反驳** Alchin 在其他地方表现出谨慎。他承认证伪从来不是简单的、也从来不是结论性的，它本应避免归纳问题，但根本没有解决归纳问题（Alchin, 2003a, pp.15–16）。他指出证伪主义不能描述科学实践。Imre Lakatos 早已指出这一点，另一位匈牙利流亡哲学家 Michael Polanyi 的观点也在书中被引用（Alchin, 2003b, p.22）。
 > - **练习题却回到证伪标准** 尽管有这些保留，在让学生判断哪些主张是科学的、哪些不是的练习中（Alchin, 2003b, p.19），12 道题中有 8 道的区分标准在教师用书中被标注为可检验性（testability）（Alchin, 2003a, p.14）。
 > - **教科书反复出现波普尔式口号** 科学真理的本质是：一个主张永远不能被实验证明为正确，但可以被证明为错误（Alchin, 2003b, p.18）。科学主张是应该能够接受实验检验的主张（Alchin, 2003b, p.19）。这些表述与教科书自身对证伪局限性的承认存在直接矛盾。
 
@@ -491,7 +491,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **[[Theory of Knowledge|TOK]] 课程的评估框架以培养[[Critical Thinking|批判性思维]]为名，行术语[[Disciplina and Doctrina|规训]]之实** 框架问题使特定术语成为评分捷径；黑箱化使评估有效性免于追问；批判性思维问题使课程对思维水平的期待缺乏认知发展依据。这三个问题相互强化，造成课程在需要约束的层面（价值观和 CT 适用范围）过于松散，在不需约束的层面（术语使用和思维模式）施加了隐性规训。（pp.171–174）
-> 2. **Alchin 教科书的科学章节是两种议程不可调和的集中表现** 教科书内部的[[Falsification|证伪主义]]呈现存在自我矛盾：既承认证伪不能描述科学[[Praxis|实践]]，又在练习题中复用可检验性作为科学划界标准。[[Paradigm|范式]]概念在文化讨论和科学讨论中被以两种互斥的方式使用。教科书层面的问题是课程结构矛盾的必然产物：课程结构迫使教科书作者回归简化版本。（pp.174–178）
+> 2. **Alchin 教科书的科学章节是两种议程不可调和的集中表现** 教科书内部的[[Falsification|证伪主义]]呈现存在自我矛盾：既承认证伪不能描述科学实践，又在练习题中复用可检验性作为科学划界标准。[[Paradigm|范式]]概念在文化讨论和科学讨论中被以两种互斥的方式使用。教科书层面的问题是课程结构矛盾的必然产物：课程结构迫使教科书作者回归简化版本。（pp.174–178）
 > 3. **批判性思维与科学教育的冲突是结构性的，当独立 CT 课程被创建后，CT 从属于科学教育就不再合理** 在科学教育内部引入批判性思维要素时偏向[[Scientism|科学主义]]议程是可接受的，但一旦专门科目（如 TOK）被创建，继续将批判性思维从属于科学普及就失去了合法性。这一冲突在 Davson-Galle（2004）的调和尝试中清晰可见，也在 Donnelly（2002）& Good & Shymansky（2001）的坦承立场中得到了诚实但未充分反思的表达。（pp.178–181）
 > 4. **三种基于学术合法框架的解决路径各有适用尺度，但共同的缺失是一个顶层协调框架** HPS 路径用小规模课程模块取代过时的证伪主义叙事；语用辩证路径用统一的论证理论协调批判性思维教学和科学教学；学生利益路径重新定位学生为知识网络中的行动者而非被动接收者。三者都是基于课堂经验的初步探索，而非成熟的长期方案。真正的解决方案必须自上而下地设计一个协调的、明确的教育框架。（pp.182–190）
 
@@ -514,7 +514,7 @@ issuing_organization: ""
 >
 > *They all stem from a commitment to a framework: either Neurath's anti-foundationalist and pluralist positivism, or a general theory of argumentation that investigates how differences of opinion are (or can be) resolved, or a politically motivated approach to self-interest and negotiation in the social realm.*
 
-> [!citation-card]- 纽拉特的[[Praxis|实践]]智慧
+> [!citation-card]- 纽拉特的[[Phronesis|实践智慧]]
 > 不完全决定性是好事，因为它允许价值观在竞争理论之间做出选择，从而使进步的社会行动成为可能。承认科学不是[[Value Neutrality|价值无涉]]的、确实受价值驱动，反而允许一种更丰富但仍然实证主义的科学哲学路径（pp.183–184）。
 >
 > *Underdetermination was good because it allowed values to play a role in opting for one of the competing theories, and thus made progressive social action possible. To recognise that science is not value-free, and indeed is driven by values allows for a richer and nevertheless positivist approach.*

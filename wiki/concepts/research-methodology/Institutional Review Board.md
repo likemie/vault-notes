@@ -8,7 +8,7 @@ aliases:
 summary: "设立于高校和研究机构内部的伦理审查委员会，依据美国联邦法规在数据收集前审查涉及人类受试者的研究方案，在临床试验中同时也是影响启动效率的关键运营节点"
 type: concept
 domain: "research-methodology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Covert Research]]"
   - "[[Research Ethics]]"
-  - "[[Praxis]]"
   - "[[Research Question]]"
   - "[[Sensitive Research]]"
   - "[[Guilty Knowledge]]"
@@ -132,7 +131,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 > [!warning] Hammersley 对伦理委员会的批评
 > Hammersley (2009, pp. 212–219) 论证[[Research Ethics|研究伦理]]委员会存在三个根本性问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 126–127]]）：
 >
-> **a. 不能做出合理或"优越"的伦理决策**，因为：(i) 社会科学家之间在伦理事项上缺乏共识；(ii) 伦理问题和[[Praxis|实践]]研究是复杂的；(iii) 伦理答案不能机械地或按算法产出，而是框定在特定情境中（伦理委员会可能不了解）；(iv) 伦理委员会的职责范围不明确；(v) 伦理委员会混淆了伦理审计与伦理决策
+> **a. 不能做出合理或"优越"的伦理决策**，因为：(i) 社会科学家之间在伦理事项上缺乏共识；(ii) 伦理问题和实践研究是复杂的；(iii) 伦理答案不能机械地或按算法产出，而是框定在特定情境中（伦理委员会可能不了解）；(iv) 伦理委员会的职责范围不明确；(v) 伦理委员会混淆了伦理审计与伦理决策
 >
 > **b. 没有合法性来控制研究者(i)** 研究者的自主性应被尊重；(ii) 伦理责任应由研究者自己承担，不能也不应被交给委员会；(iii) 伦理委员会必须将"知情同意"原则应用于研究者，而非仅应用于被研究者；(iv) 前瞻性监管在生活大多数领域中是极不寻常的；(v) 几乎没有证据表明研究者在不伦理地运作
 >

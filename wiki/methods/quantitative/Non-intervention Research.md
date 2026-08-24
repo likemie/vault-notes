@@ -6,7 +6,7 @@ summary: "不直接操纵处理条件而观察现象、关系或过程的研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Causality]]"
   - "[[Recommendations for Practice]]"
   - "[[Evidence-Based Education]]"
@@ -53,7 +52,7 @@ updated: '2026-05-18'
 ## 认识论立场
 
 > [!abstract] [[Epistemology|认识论]]立场
-> 非[[Intervention Research|干预研究]]适合在研究早期理解情境、描述现象、识别[[Variable|变量]]关系或生成干预[[Hypothesis|假设]]。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 承认不同方法植根于不同认识论视角，因此目标和含义不同；问题不在于方法多元本身，而在于非干预研究的发现是否被越界解释为[[Praxis|实践]]处方([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
+> 非[[Intervention Research|干预研究]]适合在研究早期理解情境、描述现象、识别[[Variable|变量]]关系或生成干预[[Hypothesis|假设]]。[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 承认不同方法植根于不同认识论视角，因此目标和含义不同；问题不在于方法多元本身，而在于非干预研究的发现是否被越界解释为实践处方([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ## 操作步骤
 
@@ -71,14 +70,14 @@ updated: '2026-05-18'
 ## 局限性
 
 > [!warning] 局限性
-> - **因果推论边界** 非[[Intervention Research|干预研究]]没有自[[Variable|变量]]操纵，因此通常不足以证明改变某[[Praxis|实践]]会导致某结果改善([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3-4]])。
+> - **因果推论边界** 非[[Intervention Research|干预研究]]没有自[[Variable|变量]]操纵，因此通常不足以证明改变某实践会导致某结果改善([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3-4]])。
 > - **[[Recommendations for Practice|实践建议]]高发** 2020 年五本教育心理学经验期刊中，约三分之二非干预文章包含 [[Recommendations for Practice|实践建议]]，其中观察/相关研究为 66%、[[Qualitative Research|质性研究]]为 65%、[[Mixed Methods Research|混合方法]]/[[Multimethod Research|多方法研究]]为 60%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 > - **讨论与局限部分可能自相矛盾**[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 观察到，一些论文在讨论部分给出清晰 RFP，却在局限性部分承认方法无法支持因果结论，显示出版规范可能鼓励越界建议([[Argument_Brady_2023_EPR|Brady et al., 2023, p.9]])。
 
 ## 相关理论
 
 > [!info] 相关理论
-> - [[Evidence-Based Education]] — 非[[Intervention Research|干预研究]]为[[Chain of Evidence|证据链]]提供探索和描述性材料，但若直接承担"什么有效"的[[Praxis|实践]]处方功能，就会引发因果推论争议。
+> - [[Evidence-Based Education]] — 非[[Intervention Research|干预研究]]为[[Chain of Evidence|证据链]]提供探索和描述性材料，但若直接承担"什么有效"的实践处方功能，就会引发因果推论争议。
 
 ## 与相关方法的区别
 

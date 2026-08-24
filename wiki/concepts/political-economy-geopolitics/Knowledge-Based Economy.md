@@ -21,8 +21,8 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Praxis]]"
   - "[[Growth]]"
+  - "[[Creativity]]"
   - "[[Further Education]]"
   - "[[Corporate Education]]"
   - "[[Lifelong Learning]]"
@@ -82,7 +82,7 @@ updated: 2026-08-20
 ## 概念辨析
 
 > [!example]
-> - vs [[Knowledge-Based Economization]]：知识经济（KBE）指实际存在的经济形态本身；知识经济化（KBE-ization）指 KBE 通过话语想象和物质[[Praxis|实践]]被持续建构的社会和政治过程——"将注意力从知识经济的狭隘理解转向经济化过程"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])
+> - vs [[Knowledge-Based Economization]]：知识经济（KBE）指实际存在的经济形态本身；知识经济化（KBE-ization）指 KBE 通过话语想象和物质实践被持续建构的社会和政治过程——"将注意力从知识经济的狭隘理解转向经济化过程"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])
 - vs 后工业社会（Post-Industrial Society）：Bell（1973）的后工业社会强调理论知识相对于工业生产的优先性，是 KBE 概念的重要学术先驱，但 KBE 更侧重知识作为资本积累的核心驱动机制，以及其与全球竞争的政策性连结([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-08-20
 
 ### 十九世纪先驱：Friedrich List
 
-KBE 的知性根源可追溯至 Friedrich List 的《政治经济学的国家系统》（[1841] 1991）。List 主张国家不仅应获取更先进国家的成就，还应通过自身努力加以扩展，包括"国家组织的技术教育、科学和培训，以及研发[[Praxis|实践]]"，国家应为工业和经济发展实施长期政策。Freeman（1995）论证十九世纪政府实验室的增长不仅表明"发明的方法"成为十九世纪最伟大的创新，更表明"国家的"创新过程开始决定国家的整体竞争力([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])。
+KBE 的知性根源可追溯至 Friedrich List 的《政治经济学的国家系统》（[1841] 1991）。List 主张国家不仅应获取更先进国家的成就，还应通过自身努力加以扩展，包括"国家组织的技术教育、科学和培训，以及研发实践"，国家应为工业和经济发展实施长期政策。Freeman（1995）论证十九世纪政府实验室的增长不仅表明"发明的方法"成为十九世纪最伟大的创新，更表明"国家的"创新过程开始决定国家的整体竞争力([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])。
 
 ### 二战后学术脉络（1950s–1980s）
 
@@ -109,7 +109,7 @@ Sputnik Shock 是理解教育和地缘政治关系的经典案例：美国对苏
 
 ### 1990 年代以来的政策话语化
 
-1990 年代以来，KBE 特别与学习、创造力和创业等议题相关联。许多原本用于解释 KBE 出现的学术概念成为 OECD 世界政策制定者频繁使用的核心术语：
+1990 年代以来，KBE 特别与学习、[[Creativity|创造力]]和创业等议题相关联。许多原本用于解释 KBE 出现的学术概念成为 OECD 世界政策制定者频繁使用的核心术语：
 
 - **世界银行（1991, pp.33–35）** 明确论断"无形投资于知识积累"——而非物理资本投资——是决定性的([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
 - **国家[[Systems of Innovation|创新系统]]（National Systems of Innovation）** Freeman（1995）将其追溯至 List，该概念成为 1990 年代 KBE 的学术象征([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])

@@ -29,10 +29,10 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Causality]]"
   - "[[School Leadership]]"
-  - "[[Praxis]]"
   - "[[Document]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Epistemology]]"
+  - "[[Praxis]]"
   - "[[Effect Size]]"
   - "[[Heterogeneity]]"
   - "[[Attrition]]"
@@ -119,7 +119,7 @@ updated: 2026-08-21
 > 清算中心承担五项核心功能：(1) 设定[[Causality|因果推断]]的科学证据标准；(2) 搜寻符合质量要求的实证研究；(3) 审查评价单项研究的因果质量；(4) 跨研究综合证据以判定项目整体有效性；(5) 向政策制定者、[[School Leadership|学校领导]]、教师和公众传播“推荐、有望、未证实、无效或有害”等评级结论([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
 
 > [!concept-lens] 概念透镜
-> - **含义** 作为连接科学研究与教育[[Praxis|实践]]的制度化中介，清算中心将复杂的微观计量模型与统计证据转化为可直接检索的标准化项目评级。
+> - **含义** 作为连接科学研究与教育实践的制度化中介，清算中心将复杂的微观计量模型与统计证据转化为可直接检索的标准化项目评级。
 > - **用途** 帮助教育采购者和政策制定者快速甄别“行之有效（What Works）”的干预方案，降低信息不对称与决策成本。
 > - **边界** 清算中心提供的是基于学术[[Document|文献]]审查的“因果有效性信号”，而非包含成本、本地实施适配与满意度在内的完整采购决策方案([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 121]])。
 
@@ -155,7 +155,7 @@ updated: 2026-08-21
 > - **[[Literature Search|文献检索]]与准入筛选（Literature Screening）** 依据机构使命、资助规模与出版形式筛选[[Document|文献]]。部分机构（如 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare|CEBC]]）强制要求同行评审期刊，部分机构（如 [[What Works Clearinghouse|WWC]]）依托充裕预算开展大规模灰色文献与委托评估报告筛查([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
 > - **单项研究因果质量评估（Study Quality Appraisal）** 对单项因果识别设计的[[Internal Validity|内部效度]]进行技术审查，评估基线等值性、样本流失偏倚风险以及混杂[[Variable|变量]]控制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
 > - **跨研究证据综合与最高门槛判定（Evidence Synthesis & Highest Hurdle）** 决定项目获得最高评级的前置条件，核心涉及**[[Evaluator Independence|独立评估者]]复制（Evaluator Independence）**、**12 个月[[Fade-out Effect|干预后持续效果]]（Sustained Effects）** 以及 **[[Iatrogenic Effects in Education|医源性伤害]]排除（Iatrogenic Harm）**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 11–15]])。
-> - **面向[[Praxis|实践]]者的信息[[Transfer Translation Transformation|转译]]与发布（Public Dissemination）** 将高度复杂的统计参数转换为分层评级语言（如 1/2/3 级），发布于开放数据库供公众检索([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
+> - **面向实践者的信息[[Transfer Translation Transformation|转译]]与发布（Public Dissemination）** 将高度复杂的统计参数转换为分层评级语言（如 1/2/3 级），发布于开放数据库供公众检索([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 4]])。
 
 > [!logic-map]- 证据清算中心的[[Knowledge Mobilisation|知识转译]]与评级生成机制
 > ```mermaid
@@ -212,7 +212,7 @@ updated: 2026-08-21
 > 探讨清算中心体系作为特质测量工具，在多大程度上能够对同一教育干预的有效性给出稳定、收敛的评级。基于 Campbellian 多质多法（[[Multitrait-Multimethod Matrix|MTMM]]）框架，[[Reliability|信度]]与跨机构收敛性是[[Construct Validity|构念效度]]的先决条件。
 
 > [!claim] [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]]
-> **评级收敛效度的经验崩溃** 实证检验 10 个清算中心评估的 1,359 个教育项目发现，83.2% 的项目仅由单一清算中心评级（存在严重的信息孤岛）；在 228 个获得多重评级的项目中，完全一致率仅约 30.5%，且一致性主要体现为共同判定为“无效/不推荐”（占 21.3%），而共同判定为最高推荐（1&1）仅占 1.2%；完全对立的极端冲突（1&3，一家强推 vs 另一家否决）高达 35.4%，成为最主要的分歧形态。这证明“基于证据”在清算中心体系中仅具有极其有限的[[Praxis|实践]]构念效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 3, 18–20, 26]])。
+> **评级收敛效度的经验崩溃** 实证检验 10 个清算中心评估的 1,359 个教育项目发现，83.2% 的项目仅由单一清算中心评级（存在严重的信息孤岛）；在 228 个获得多重评级的项目中，完全一致率仅约 30.5%，且一致性主要体现为共同判定为“无效/不推荐”（占 21.3%），而共同判定为最高推荐（1&1）仅占 1.2%；完全对立的极端冲突（1&3，一家强推 vs 另一家否决）高达 35.4%，成为最主要的分歧形态。这证明“基于证据”在清算中心体系中仅具有极其有限的实践构念效度([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 3, 18–20, 26]])。
 
 ---
 
@@ -265,7 +265,7 @@ updated: 2026-08-21
 > - **2002 — [[What Works Clearinghouse|WWC]] 成立确立[[Causality|因果推断]][[Paradigm|范式]]** 美国教育部教育科学研究院（IES）创设有效干预清算中心，累计投入超 1 亿美元研发资金，建立了以 [[Randomised Controlled Trials|RCT]] 和高质量 [[Quasi-Experimental Designs|QED]] 为基石的严格审查手册与因果质量分级体系(WWC, 2002; [[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 8]])。
 > - **2011 — 英国 [[Education Endowment Foundation|EEF]] 成立与工具箱推广** 英国教育捐款基金会（EEF）成立，推出教学与学习工具箱，以月度学术进展与实施成本为核心指标，开创了欧洲[[Evidence-Based Education|循证教育]]中介模式([[Argument_Pellegrini_2021_ROE|Pellegrini & Vivanet, 2021, p. 142]])。
 > - **2015 — ESSA 四级证据标准出台** 美国《每个学生都成功法案》（ESSA）正式出台四级证据框架（强、中、有希望、理论支持），推动清算中心评级深度嵌入全美学区与学校的采购审查流程。
-> - **2015 之后 — [[Praxis|实践]]导向平台兴起与多中心生态** 约翰斯·霍普金斯大学推出 Evidence for ESSA 等面向一线校长的平台，与 WWC、[[Blueprints for Healthy Youth Development|Blueprints]] 等形成多元并存但标准割裂的多中心格局([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 110, 120–121]])。
+> - **2015 之后 — 实践导向平台兴起与多中心生态** 约翰斯·霍普金斯大学推出 Evidence for ESSA 等面向一线校长的平台，与 WWC、[[Blueprints for Healthy Youth Development|Blueprints]] 等形成多元并存但标准割裂的多中心格局([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp. 110, 120–121]])。
 > - **2024 — 评级一致性实证检验与[[Construct Validity|构念效度]]审思** 首次完成 12 个教育清算中心全景比较，实证揭示多重评级一致性极低与综合门槛断层，推动循证教育界反思单一标签崇拜，探索元标准协调与穿透式证据审查([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
 
 ---
@@ -280,7 +280,7 @@ updated: 2026-08-21
 > > - **标准化倡导者** 认为跨中心评级分裂严重误导政策采购，亟需建立跨机构元标准（meta-standards），统一[[Attrition|流失]]模型、集群校正与随访时限([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 29–30]])。
 > > - **多元主义支持者** 认为不同机构服务于不同目标人群（如军人家庭 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] vs 辍学高危生 [[National Dropout Prevention Center|NDPC]]），差异化标准反映了特定政策领域的实质需求，不宜强求一律([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 6–8]])。
 >
-> > [!axis] 纯因果严谨性（[[Internal Validity]]） vs [[Praxis|实践]][[External Validity|可推广性]]（[[Ecological Validity]]）
+> > [!axis] 纯因果严谨性（[[Internal Validity]]） vs 实践[[External Validity|可推广性]]（[[Ecological Validity]]）
 > > 围绕清算中心过分偏好小样本纯净实验还是重视大规模真实复杂情境的争论。
 > >
 > > - **方法学派** 坚守严格排除混杂与偏倚，要求多重独立复制与 12 个月[[Fade-out Effect|持续效果]]([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 14–15]])。

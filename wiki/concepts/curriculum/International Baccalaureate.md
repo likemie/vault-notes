@@ -7,7 +7,7 @@ aliases:
 summary: "起源于国际学校共同课程与跨国升学需求的国际课程体系，通过学科组、核心组件和统一评估平衡通识教育、专业准备与国际理解。"
 type: concept
 domain: "curriculum"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -16,7 +16,6 @@ tags:
   - level/k12
 related_concepts:
   - "[[International Schools]]"
-  - "[[Praxis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Lifelong Learning]]"
   - "[[Critical Thinking]]"
@@ -71,7 +70,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> 国际文凭（International Baccalaureate，IB）是一套由国际文凭组织（International Baccalaureate Organization，IBO）开发的、覆盖 3 至 19 岁学生的全球化国际课程体系，包括小学项目（Primary Years Programme，PYP）、中学项目（Middle Years Programme，MYP）及大学预科项目（Diploma Programme，DP）。它源于[[International Schools|国际学校]]的教学[[Praxis|实践]]，以[[Constructivist Paradigm|建构主义]]为基础，强调跨学科的连贯性与整体学习（holistic learning），旨在通过严格的学术标准与核心体验模块，培养具备国际情怀（international-mindedness）的[[Lifelong Learning|终身学习]]者 [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 27)]] [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 210)]]。
+> 国际文凭（International Baccalaureate，IB）是一套由国际文凭组织（International Baccalaureate Organization，IBO）开发的、覆盖 3 至 19 岁学生的全球化国际课程体系，包括小学项目（Primary Years Programme，PYP）、中学项目（Middle Years Programme，MYP）及大学预科项目（Diploma Programme，DP）。它源于[[International Schools|国际学校]]的教学实践，以[[Constructivist Paradigm|建构主义]]为基础，强调跨学科的连贯性与整体学习（holistic learning），旨在通过严格的学术标准与核心体验模块，培养具备国际情怀（international-mindedness）的[[Lifelong Learning|终身学习]]者 [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 27)]] [[Argument_Metli_2022_IJER|(Metli & Akış, 2022, p. 210)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** IB 不仅仅是一个教学大纲，更是一个融合了特定教育价值观（如“探究者”、“反思者”）和严格外部评估机制的标准化教育系统。
@@ -101,7 +100,7 @@ updated: 2026-08-24
 ### 创制阶段形成的理念
 
 > [!feature] 从[[International Schools|国际学校]]难题形成的设计原则
-> - **[[Praxis|实践]]需求而非抽象口号** 战后国际学校高中阶段不断扩大，同一所学校不得不按瑞士、英国、法国和美国考试分班。资源浪费、国家分组和少数国籍学生无课程可循，使国际毕业考试从和平主义设想变成办学必需。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 16–17)]]
+> - **实践需求而非抽象口号** 战后国际学校高中阶段不断扩大，同一所学校不得不按瑞士、英国、法国和美国考试分班。资源浪费、国家分组和少数国籍学生无课程可循，使国际毕业考试从和平主义设想变成办学必需。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 16–17)]]
 > - **教师草根创制** 1960 年代的推进力量主要来自[[International School of Geneva|日内瓦国际学校]]教师，而非政府、联合国教科文组织或既有国际机构。有限的小额资助先支持跨校讨论，教师再逐步建立独立组织、课程小组和试验网络。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 17–20)]]
 > - **课程改革试验** 课程设计没有只提取欧美既有考试的最低共同部分，而是吸收各国改革者尚未能在本国推行的方案，把国际学校作为课程改革的实地试验场。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 24–26)]]
 > - **通识与专门化平衡** 六学科组结构试图在德国、瑞士式广泛通识和英国式三科高度专门化之间建立折中。学生保留选择，但必须跨规定学科组学习，两门语言和数学构成共同要求。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 28–29)]]
@@ -142,7 +141,7 @@ updated: 2026-08-24
 ### 命题二　IB 课程向亚洲移植时面临西方文化根源与本土情境的潜在冲突
 
 > [!concept-lens] 课程移植与[[Going Native|本土化]]
-> IB 标榜国际化和意识形态中立，但在跨文化[[Praxis|实践]]中，其隐性的西方哲学[[Hypothesis|假设]]是否普适。
+> IB 标榜国际化和意识形态中立，但在跨文化实践中，其隐性的西方哲学[[Hypothesis|假设]]是否普适。
 
 > [!claim] Slethaug, G.
 > **[[Constructivist Paradigm|建构主义]]的文化不适应性** 

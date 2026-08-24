@@ -15,13 +15,13 @@ tags:
   - stance/critique
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Scientific Method]]"
   - "[[Ways of Knowing]]"
   - "[[Positivism]]"
   - "[[Cargo Cult Science]]"
   - "[[Evidence-Based Education]]"
   - "[[Technical Rationality]]"
+  - "[[Praxis]]"
   - "[[Professional Judgment]]"
   - "[[Variable]]"
   - "[[Creativity]]"
@@ -65,7 +65,7 @@ updated: 2026-07-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学主义是一种[[Epistemology|认识论]]立场，它将自然科学的方法和权威过度扩展到原本不适用或不充分的领域，将科学知识视为唯一合法的知识形式。
-> - **用途** 帮助研究者识别教育政策、课程设计和研究[[Praxis|实践]]中以科学之名执行的简化论和量化霸权，区分"使用[[Scientific Method|科学方法]]"与"科学主义"之间的界限。
+> - **用途** 帮助研究者识别教育政策、课程设计和研究实践中以科学之名执行的简化论和量化霸权，区分"使用[[Scientific Method|科学方法]]"与"科学主义"之间的界限。
 > - **边界** 科学主义不等于科学本身，也不等于所有形式的实证研究。反对科学主义不是反对科学，而是反对将科学方法的适用范围扩大到它无法胜任的领域。在教育研究中，使用 [[Randomised Controlled Trials|RCT]] 或[[Meta-analysis|元分析]]不必然等于科学主义——只有将这些方法层级直接等同于价值层级、排斥其他[[Ways of Knowing|认知方式]]时，才构成科学主义。
 
 > [!boundary] 概念边界

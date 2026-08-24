@@ -1443,7 +1443,6 @@
     "path": "wiki/concepts/educational-philosophy/Critical Thinking.md",
     "aliases": [
       "批判性思维",
-      "CT",
       "critical thinking skills",
       "critical thinking dispositions"
     ]
@@ -4595,6 +4594,16 @@
       "teaching/learning activities",
       "TLA",
       "TLAs"
+    ]
+  },
+  {
+    "title": "Think-Pair-Share",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Think-Pair-Share.md",
+    "aliases": [
+      "思考配对分享",
+      "思考-配对-分享",
+      "Think Pair Share"
     ]
   },
   {

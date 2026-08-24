@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -40,10 +40,11 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Effect Size]]"
   - "[[Homework]]"
-  - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
+  - "[[Prediction Interval]]"
   - "[[Variable]]"
-  - "[[Statistical Significance]]"
+  - "[[Cooperative Learning]]"
+  - "[[Affective Outcomes]]"
   - "[[Questionnaire]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Ontology]]"
@@ -53,6 +54,7 @@ related_theories:
   - "[[Epistemic and Ontological Cognition]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Survey Research]]"
   - "[[Multinomial Logistic Regression]]"
   - "[[Matching]]"
@@ -67,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-08-20
+updated: 2026-08-24
 ---
 
 # Academic Achievement
@@ -203,38 +205,44 @@ updated: 2026-08-20
 
 ## 实证数据
 
-> [!ma-table]- [[Meta-analysis|元分析]]总体结果
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 学业成就 | 151 / 55,418 | r；随机效应 | 0.162 [0.135, 0.189] | I²=88.77%，Q=1335.22 | — |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学业成就（Academic Achievement） | 12 项一阶元分析 | Cohen's $d$ / 随机效应模型 | $ES = 0.71$ $[0.52, 0.90]$ | $I^2 = 93.70\%$ | 稳健中等促进效应 |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 结果变量：[[Epistemic Cognition\|认识论认知]]对学业成就的总体预测效应 | $k = 151$ / $N = 55,418$ | 皮尔逊 $r$ / 随机效应模型 | $r = 0.162$ $[0.135, 0.189]$ | $Q = 1335.22, p < .001, I^2 = 88.77\%$；95% PI 未报告 | 纳入横断与相关研究为主，测量方式与成就类型存在高异质性 |
 
-
-> [!ma-table]- 调节[[Variable|变量]]与亚组分析：成就类型与测量方式
+> [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 成就类型 | 亚组分析 | 概念性知识（r=.190）和论证（r=.154）较高，程序性知识（r=.077，不显著）较低 | — | Q_between = 1.766 (p>.05) | 预设 | 高阶成就类型需要深层认知加工 |
-> | 同上 | 测量方式 | 亚组分析 | 标准化测试（r=.214）最高，专门测验（r=.177）次之，参与者自报（r=.083）最低 | — | — | 预设 | 脱离效标的自报成绩存在主观偏差 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Dependent Variable\|结果变量]] | 成就类型亚组：概念性知识 vs 论证 vs 陈述性知识 vs 程序性知识 | 概念 $k = 25$ / 论证 $k = 14$ / 陈述 $k = 101$ / 程序 $k = 23$ | 概念 $r = 0.190$ $[0.133, 0.245]$；论证 $r = 0.154$ $[0.088, 0.219]$；陈述 $r = 0.127$ $[0.093, 0.160]$；程序 $r = 0.077$ $[-0.007, 0.160]$ | $Q_b = 1.766, p > .05$ | 预设分析；组间未达显著，但高阶概念与论证点估计显著高于[[Rote Learning\|死记硬背]]类[[Procedural Knowledge\|程序知识]] |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 结果[[Variable\|变量]] | 测量方式亚组：标准化测试 vs 专门测验 vs 参与者自报 GPA | 标准化 $k = 18$ / 专测 $k = 74$ / 自报 $k = 59$ | 标准化 $r = 0.214$ $[0.148, 0.278]$；专测 $r = 0.177$ $[0.136, 0.217]$；自报 $r = 0.083$ $[0.043, 0.122]$ | $Q_b = 16.48, p < .001$ | 预设分析；组间差异高度显著，脱离效标的自报成绩会严重低估理论关联 |
 
-> [!ref-table]- [[Task Structure|任务结构]]、群体分化与学业成就实证结果
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对学业成就（Academic Achievement）的干预效应 | $M = 11$；$E = 12$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.71$ $[0.52, 0.90]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 涵盖语言、数学、社科与自然科学多学科，效应量稳健中等，但学科间样本分布不均衡 |
+
+> [!ma-table]- 二阶元分析互补维度亚组
+> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 产出类型互补比较：[[Higher-Order Thinking Skills\|高阶思维技能]] vs 学业成就 vs [[Affective Outcomes\|情感行为]] | $E = 4$（HOTS）/ $E = 12$（成就）/ $E = 6$（情感） | HOTS $ES = 0.76$ $[0.42, 1.11]$；成就 $ES = 0.71$ $[0.52, 0.90]$；情感 $ES = 0.51$ $[0.17, 0.84]$ | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ | 预设分析；学业成就效应稳健居中，与高阶思维无显著差异 |
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级科学课学生（公立与独立教会学校） | [[Survey Research\|调查研究]]、多元分层回归与 MANOVA | 总体学业成就预估（EOAA）、固定快速学习（FQAL）、[[Simplicity of Knowledge\|简单知识]]（SK）、确定知识（CK） | EOAA 全样本均值 74.11%；自报 EOAA 与官方实际总评成绩 OAA 相关 $r = .91$；控制 CK 后，FQAL 和 SK 显著负向预测 EOAA（增量 $\Delta R^2 = .08$）；高成就组在 FQAL 和 SK 上均显著成熟于低成就组（$M = -.22$ vs $.21$ 与 $-.21$ vs $.18$） | 回归增量 $F(3,436) = 12.09, p < .001$；学业组别 MANOVA 主效应 $F(6,874) = 5.52, p < .001, \eta^2 = .04$；FQAL 组间 $t = 3.89, p < .001, \eta^2 = .06$；SK 组间 $t = 3.97, p < .001, \eta^2 = .06$ | 证实长期平时总评学业成绩与能力可塑性及知识网络化信念高度挂钩 |
-> | 同上 | 89名加拿大十年级中学生（独立学校实验子样本） | 平衡顺序组内对比设计（counterbalanced within-subject design） | 良构任务（WST）表现、劣构任务（IST）表现、[[Reflexivity\|反思性]]判断（RJ）得分 | WST 均分 70.30，IST 均分 67.72；认识论三因子无法预测 WST（$R^2 = .04, p = .37$），但显著预测 IST（$R^2 = .12, p = .01$）与 RJ（$R^2 = .10, p = .04$）；SK 是 IST 与 RJ 的核心负向预测源（$\beta = -.24, p = .02$） | 两任务均分差异 $t(88) = -1.38, p = .17, ES = 0.15$；IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$ | 确立任务结构对学业表现[[Epistemology\|认识论]]制约效应的关键调节作用 |
-> | 同上 | 447名全样本及89名实验子样本 | 性别差异对比分析（独立样本 t 检验与 MANOVA） | 生理性别（男/女）、EOAA、WST 表现、IST 表现、认识论三因子 | 女生在各维度学业成就上全面显著优于男生：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 信念成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST 性别差异 $t(87) = 2.92, p = .004, ES = .58$；IST 性别差异 $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明性别在长期与短期学业成就上的优势受更成熟的能力观与真理观支撑 |
-
-> [!ref-table]- 跨学科表现与认识论阶段实证结果
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 关键结果 | 统计显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 740名美国中学生 | [[Questionnaire\|问卷调查]]与[[Multinomial Logistic Regression\|多项逻辑回归]]（multinomial logistic regression） | 历史与数学学科平时成绩、[[Epistemic and Ontological Cognition\|认识论与本体论认知]]阶段 | 较差的数学学科成绩显著正向预测学生落入绝对主义/初级认识论阶段的几率（$OR = 1.770$） | $p < .01$ | 表明特定学科的学业失败会强化朴素与教条的认知信念 |
+> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447 名加拿大十年级科学课学生（公立与独立教会学校） | [[Survey Research\|调查研究]]、多元分层回归与 MANOVA | 总体学业成就预估（EOAA）、固定快速学习（FQAL）、[[Simplicity of Knowledge\|简单知识]]（SK）、确定知识（CK） | 自报 EOAA 与官方实际总评成绩 OAA 相关 $r = .91$；控制 CK 后，FQAL 和 SK 显著负向预测 EOAA（增量 $\Delta R^2 = .08$）；高成就组在 FQAL 和 SK 上均显著成熟于低成就组（$M = -.22$ vs $.21$ 与 $-.21$ vs $.18$） | 回归增量 $F(3,436) = 12.09, p < .001$；学业组别 MANOVA 主效应 $F(6,874) = 5.52, p < .001, \eta^2 = .04$ | 证实长期平时总评学业成绩与能力可塑性及知识网络化信念高度挂钩 |
+> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 89 名加拿大十年级中学生（独立学校实验子样本） | 平衡顺序组内对比设计 | 良构任务（WST）表现、劣构任务（IST）表现、[[Reflexivity\|反思性]]判断（RJ）得分 | WST 均分 70.30，IST 均分 67.72；认识论三因子无法预测 WST（$R^2 = .04, p = .37$），但显著预测 IST（$R^2 = .12, p = .01$）与 RJ（$R^2 = .10, p = .04$）；SK 是 IST 与 RJ 的核心负向预测源（$\beta = -.24, p = .02$） | 两任务均分差异 $t(88) = -1.38, p = .17, ES = 0.15$；IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$ | 确立[[Task Structure\|任务结构]]对学业表现[[Epistemology\|认识论]]制约效应的关键调节作用 |
+> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447 名全样本及 89 名实验子样本 | 性别差异对比分析（独立样本 t 检验与 MANOVA） | 生理性别（男/女）、EOAA、WST 表现、IST 表现、认识论三因子 | 女生在各维度学业成就上全面显著优于男生：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 信念成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST 性别差异 $t(87) = 2.92, p = .004, ES = .58$；IST 性别差异 $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明性别在长期与短期学业成就上的优势受更成熟的能力观与真理观支撑 |
+> | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 740 名美国中学生 | [[Questionnaire\|问卷调查]]与[[Multinomial Logistic Regression\|多项逻辑回归]] | 历史与数学学科平时成绩、[[Epistemic and Ontological Cognition\|认识论与本体论认知]]阶段 | 较差的数学学科成绩显著正向预测学生落入绝对主义/初级认识论阶段的几率（$OR = 1.770$） | $p < .01$ | 表明特定学科的学业失败会强化朴素与教条的认知信念 |
 
 ---
 

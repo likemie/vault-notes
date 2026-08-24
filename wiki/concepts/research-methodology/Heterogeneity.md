@@ -6,7 +6,7 @@ aliases:
 summary: "元分析中各研究效应量之间超出抽样误差的变异，是判断能否合理合并研究 and 探索调节变量的核心概念"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
-  - "[[Praxis]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Visible Learning]]"
   - "[[Positivism]]"
@@ -107,7 +106,7 @@ updated: 2026-07-08
 ---
 
 > [!claim] 命题一：异质性是教育改进的因果机制信号，而非待抹除的噪声
-> 在高度情境化的教育[[Praxis|实践]]中，平均[[Effect Size|效应量]]往往会抹杀具有实质意义的效果差异，因此探索异质性（什么条件下效果更好）比单纯计算平均效应更具有实践价值。([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
+> 在高度情境化的教育实践中，平均[[Effect Size|效应量]]往往会抹杀具有实质意义的效果差异，因此探索异质性（什么条件下效果更好）比单纯计算平均效应更具有实践价值。([[Argument_Higgins_2016_RE|Higgins, 2016, p. 37]])
 > 
 > [!warrant]- 命题一的支撑理由
 > 教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应。干预的效果高度依赖于特定情境（如学生先前水平、[[Student-Teacher Relationship|师生关系]]、学校文化等）与底层机制的交互，这些因素的变异直接在统计上表现为强烈的异质性([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 14]])。
@@ -133,7 +132,7 @@ updated: 2026-07-08
 > - **1970s–1980s — [[Meta-analysis|元分析]]倡导** [[Gene Glass]] 创立“元分析”概念，并明确警告：元分析 the 最终结果“绝对不应该是一个平均数，而应该是一张显示变异性（异质性）的图表”([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 9]])。
 > - **1995 — 方法论解构与批评**医学统计学家 Alvan Feinstein (1995) 批评元分析是“21世纪的统计炼金术”，指出它将不同病理状态的研究强行合流，从而将重要的异质性埋入统计泥浆之中。
 > - **2002 — 教育研究的测量批评**Robert Coe (2002) 警告，在测量工具、干预实施强度和目标人群大相径庭 of 教育研究中，将这些[[Effect Size|效应量]]进行平均在数学上是完全没有意义的。
-> - **2010s — 多级聚合失真与实在论转向**Ray Pawson (2006) 和 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 解构了从第一级 [[Randomised Controlled Trials|RCT]] 到第二级元分析再到第三级[[Meta-meta-analysis|元-元分析]]（如[[John Hattie|哈蒂]]的《[[Visible Learning|可见的学习]]》（Visible Learning，VL） and [[Education Endowment Foundation|EEF]] 工具包）的逐级消洗过程，指出“洗涤”使得因果解释性信息完全消失，主张转向探求“背景-机制-结果”的实在论综合([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])。
+> - **2010s — 多级聚合失真与实在论转向**Ray Pawson (2006) 和 [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] 解构了从第一级 [[Randomised Controlled Trials|RCT]] 到第[[Meta-meta-analysis|二级元分析]]再到第三级[[Meta-meta-analysis|元-元分析]]（如[[John Hattie|哈蒂]]的《[[Visible Learning|可见的学习]]》（Visible Learning，VL） and [[Education Endowment Foundation|EEF]] 工具包）的逐级消洗过程，指出“洗涤”使得因果解释性信息完全消失，主张转向探求“背景-机制-结果”的实在论综合([[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]])。
 
 ---
 
@@ -154,5 +153,5 @@ updated: 2026-07-08
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_RE|Higgins (2016)]] — 系统介绍了异质性检验的统计学机制（Q、I²、固定/随机模型） and [[Moderator Analysis|调节变量分析]]的价值。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 警示[[Meta-meta-analysis|元-元分析]]（如[[John Hattie|约翰·哈蒂]]的研究）存在变异性与稳定性困境，在累积中导致了原始经验信息的丢失。
-> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析了 [[Education Endowment Foundation|EEF]] 工具包中的“反馈”和“教学助理”等类目，揭示了多级统计聚合抹除教学异质性所带来的[[Praxis|实践]]与政策风险。
+> - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析了 [[Education Endowment Foundation|EEF]] 工具包中的“反馈”和“教学助理”等类目，揭示了多级统计聚合抹除教学异质性所带来的实践与政策风险。
 > - [[Argument_Wiliam_2019|Wiliam (2019)]] — 以反馈研究的变异和[[Tracking|能力分组]]研究的教师变异为例，论证了去情境化平均[[Effect Size|效应量]]的误导性。

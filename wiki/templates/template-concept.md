@@ -189,7 +189,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > |---|---|---|---|---|---|---|
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | 标明当前概念是干预因素还是结果变量，并写总体合成对象 | 原始研究数 $k$ 与总样本 $N$（仅填原文报告值） | SMD、OR、RR 或其他指标；固定效应或随机效应 | 总体汇总效应与 95% CI | $I^2$、$\tau^2$、$Q$ 与 95% PI | 仅写直接限制总体结果解释的设计、范围或适用边界 |
 
-> [!ma-table]- 一阶元分析互补维度亚组（按需保留）
+> [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
@@ -203,7 +203,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > |---|---|---|---|---|---|---|
 > | [[Argument_Author_Year_Journal\|Author (Year)]] | 标明当前概念是干预因素还是结果变量，并写总体合成对象 | 一阶元分析数 $M$；一阶汇总效应数 $E$；底层原始研究数 $k$；总样本 $N$（仅填原文报告值） | 共同效应尺度及固定／随机／其他模型 | 总体汇总效应与 95% CI | $Q$、$I^2$、$\tau^2$ 与 95% PI | 仅写直接限制总体结果解释的证据层级、低自由度、重叠或适用范围 |
 
-> [!ma-table]- 二阶元分析互补维度亚组（按需保留）
+> [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |

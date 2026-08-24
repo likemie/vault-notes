@@ -6,7 +6,7 @@ aliases:
 summary: "20世纪末兴起的教育政策取向，主张用随机对照试验等科学方法识别有效干预并推广，通过证据中介组织将研究发现转化为政策建议，但也因简化教育复杂性和服务私人利益而受到批评。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Causality]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Return on Investment]]"
@@ -46,7 +45,7 @@ updated: 2026-06-06
 ## 定义
 
 > [!info]
-> What Works Movement 是一种教育政策取向，主张通过[[Randomised Controlled Trials|随机对照试验]]（RCT）等[[Scientific Method|科学方法]]系统识别"有效"的教育干预，并将研究发现转化为可操作的政策建议。该运动的核心[[Hypothesis|假设]]是：教育可以像医学一样，通过严格的科学证据来判断哪些干预措施有效，从而指导政策和[[Praxis|实践]]([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]])。
+> What Works Movement 是一种教育政策取向，主张通过[[Randomised Controlled Trials|随机对照试验]]（RCT）等[[Scientific Method|科学方法]]系统识别"有效"的教育干预，并将研究发现转化为可操作的政策建议。该运动的核心[[Hypothesis|假设]]是：教育可以像医学一样，通过严格的科学证据来判断哪些干预措施有效，从而指导政策和实践([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]])。
 
 ---
 
@@ -66,7 +65,7 @@ updated: 2026-06-06
 > [!abstract]
 > - **证据等级** 将研究设计按[[Causality|因果推断]]能力分层，[[Randomised Controlled Trials|RCT]]通常被视为最高级证据
 > - **中介组织** 通过[[Educational Evidence Clearinghouses|证据清算中心]]、智库等机构筛选和传播"有效"干预
-> - **标准化** 将复杂教育[[Praxis|实践]]简化为可测量、可复制的干预项目
+> - **标准化** 将复杂教育实践简化为可测量、可复制的干预项目
 > - **问责机制** 将证据与资金、认证挂钩，形成激励和惩罚结构
 
 ---
@@ -76,7 +75,7 @@ updated: 2026-06-06
 > [!warning]
 > - **简化主义** 将教育简化为[[Causality|因果关系]]，忽视教育作为人类沟通和意义建构活动的复杂性（Biesta et al., 2015）
 > - **私人利益** 该运动与智库、基金会等私人机构的利益交织，证据生产受到[[Return on Investment|投资回报]]逻辑的影响([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024]])
-> - **权力集中** 中介组织通过证据标准的制定权获得对教育[[Praxis|实践]]的控制力，削弱了教师和教师教育者的[[Professional Judgment|专业判断]]
+> - **权力集中** 中介组织通过证据标准的制定权获得对教育实践的控制力，削弱了教师和教师教育者的[[Professional Judgment|专业判断]]
 > - **[[Value Neutrality|价值中立]]幻象** 声称"价值中立"的[[Scientific Method|科学方法]]实际上承载着特定的意识形态[[Hypothesis|假设]]
 
 ---

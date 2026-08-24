@@ -27,7 +27,6 @@ related_concepts:
   - "[[Physician-Scientist]]"
   - "[[Applied Medical Innovation]]"
   - "[[Team Science]]"
-  - "[[Praxis]]"
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
   - "[[Corporate R&D Labs]]"
@@ -67,6 +66,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Questionnaire]]"
   - "[[Absorptive Capacity]]"
+  - "[[Praxis]]"
   - "[[Multi-University]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Innovation Park]]"
@@ -168,7 +168,7 @@ updated: 2026-06-05
 > 产学合作是美国大学体系的独特特征，在内战之后随着 Morrill [[Morrill Land-Grant Act of 1862|Land-Grant Act]]（1862）的通过以及国家对工业化和效率的追求而出现。此后，大学与企业找到了相互支持的方式，不仅在美国，也在全球范围内发展（p.4）。
 
 > [!note]-
-> - 1862 年 Morrill Act 确立了赠地大学体系，要求大学"促进工业阶层的自由和[[Praxis|实践]]教育"，首次将高等教育与产业发展直接挂钩（p.11）
+> - 1862 年 Morrill Act 确立了赠地大学体系，要求大学"促进工业阶层的自由和实践教育"，首次将高等教育与产业发展直接挂钩（p.11）
 > - 1914 年 [[Smith Lever Act of 1914|Smith Lever Act]] 在赠地大学建立农业推广服务（extension services），将研究与实际应用连接起来，延续至今（p.11）
 > - 1920 年前后，美国大学的核心特征——博士教育、专业学位项目、产学互动、[[Academic Freedom|学术自由]]与客观性——已基本确立（pp.11–12）
 > - 二战后，Vannevar Bush 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调了[[Blue Skies Research|基础研究]]和开放式研究在美国的战略重要性，催生了国家科学基金会（[[National Science Foundation|NSF]]）和国防部对大学基础研究的支持（p.13）
@@ -209,7 +209,7 @@ updated: 2026-06-05
 ### 实践框架：TUFF 的四项信条
 
 > [!abstract]
-> 从[[Praxis|实践]]操作角度，[[TUFF]] 基于 43 年的[[Innovation Hub|创新中心]]开发经验提炼出产学合作的四个核心信条([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.124]])：
+> 从实践操作角度，[[TUFF]] 基于 43 年的[[Innovation Hub|创新中心]]开发经验提炼出产学合作的四个核心信条([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.124]])：
 > 1. 高质量学术机构（University）
 > 2. 产业研发的私人投资（Industry）
 > 3. 产学之间的合作（Collaboration）
@@ -361,7 +361,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 ### 学术参与团队（AET）
 
-产学合作在企业内部的组织载体是 [[Academic Engagement Team|学术参与团队]]（[[Academic Engagement]] Team, AET）——以预算责任负责领导和管理大学合作的组织单位。AET 的核心组织特征是"叠加层"（overlay）：它不是独立的业务部门，而是嵌入公司既有组织结构之上——成员可能在 CTO 办公室、HR 部门或分散在各业务单元中。AET 的[[Praxis|实践]]者必须在矩阵式的、高度分权的环境中运作([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.222–223]])。
+产学合作在企业内部的组织载体是 [[Academic Engagement Team|学术参与团队]]（[[Academic Engagement]] Team, AET）——以预算责任负责领导和管理大学合作的组织单位。AET 的核心组织特征是"叠加层"（overlay）：它不是独立的业务部门，而是嵌入公司既有组织结构之上——成员可能在 CTO 办公室、HR 部门或分散在各业务单元中。AET 的实践者必须在矩阵式的、高度分权的环境中运作([[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, pp.222–223]])。
 
 AET 的资助结构直接决定了产学合作在企业内部关注什么、忽略什么。[[Argument_Ramming_2025_CorporateSupport|Ramming (2025, pp.228–229)]]识别了五种典型结构：中央化运营预算（追求战略目标）、企业基金会（聚焦社会责任）、业务部门分布式预算（追求短期具体回报）、按职能分配预算（隔离合作不同面向）和按技术领域分配预算（深耕特定技术栈）。这些结构不是互斥的——大型企业可能同时组合使用多种来源。详见 [[Academic Engagement Team]]。
 
@@ -446,7 +446,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 ## 实证发现
 
 > [!success]
-> Battelle 技术合作[[Praxis|实践]] 2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(Battelle, 2013; [[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
+> Battelle 技术合作实践 2013 年对北美大学[[Innovation Park|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(Battelle, 2013; [[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.125]])。
 
 > [!success]
 > 多项研究提供了产学合作影响力的实证证据([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, pp.125–126]])：
