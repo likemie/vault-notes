@@ -15004,7 +15004,7 @@
 .callout:has(.concept-other-empirical-table-marker) th:nth-child(7),
 .callout:has(.concept-other-empirical-table-marker) td:nth-child(7) { width: 12%; }
 
-/* 概念页一级研究效应量表 */
+/* 概念页原始研究效应量表 */
 .callout:has(.concept-effect-table-marker) table {
   width: 100%;
   min-width: 1080px;
@@ -15057,7 +15057,7 @@
 .callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) th:nth-child(6),
 .callout:has(.concept-effect-table-marker) table:not(:has(th:nth-child(7))) td:nth-child(6) { width: 22% !important; }
 
-/* 概念页元分析汇总表 */
+/* 概念页一阶元分析汇总表 */
 .callout:has(.concept-meta-analysis-table-marker) table {
   width: 100%;
   min-width: 1280px;
@@ -15078,6 +15078,38 @@
 .callout:has(.concept-meta-analysis-table-marker) td:nth-child(6) { width: 18% !important; }
 .callout:has(.concept-meta-analysis-table-marker) th:nth-child(7),
 .callout:has(.concept-meta-analysis-table-marker) td:nth-child(7) { width: 12% !important; }
+
+/* 概念页二阶元分析汇总表：紧凑呈现证据规模与核心合成结果 */
+.concept-second-order-meta-table-marker {
+  display: none;
+}
+
+.callout:has(.concept-second-order-meta-table-marker) table {
+  width: 100%;
+  min-width: 1320px;
+  table-layout: fixed !important;
+}
+
+.callout:has(.concept-second-order-meta-table-marker) th,
+.callout:has(.concept-second-order-meta-table-marker) td {
+  font-size: 0.82rem !important;
+  line-height: 1.45;
+}
+
+.callout:has(.concept-second-order-meta-table-marker) th:nth-child(1),
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(1) { width: 14% !important; }
+.callout:has(.concept-second-order-meta-table-marker) th:nth-child(2),
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(2) { width: 14% !important; }
+.callout:has(.concept-second-order-meta-table-marker) th:nth-child(3),
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(3) { width: 15% !important; }
+.callout:has(.concept-second-order-meta-table-marker) th:nth-child(4),
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(4) { width: 14% !important; }
+.callout:has(.concept-second-order-meta-table-marker) th:nth-child(5),
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(5) { width: 16% !important; }
+.callout:has(.concept-second-order-meta-table-marker) th:nth-child(6),
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(6) { width: 15% !important; }
+.callout:has(.concept-second-order-meta-table-marker) th:nth-child(7),
+.callout:has(.concept-second-order-meta-table-marker) td:nth-child(7) { width: 12% !important; }
 
 /* 元分析调节变量与亚组分析 */
 .callout:has(.concept-meta-moderator-table-marker) table {
@@ -15807,4 +15839,10 @@
 
 .callout > .callout-content::-webkit-scrollbar-thumb:hover {
   background: rgba(var(--callout-color, 120, 140, 180), 0.65);
+}
+
+/* 覆盖通用滚动表的最小宽度与自动布局，保持二阶七列表列宽稳定。 */
+.callout:has(.scrollable-table-marker.concept-second-order-meta-table-marker) table {
+  min-width: 1320px;
+  table-layout: fixed !important;
 }
