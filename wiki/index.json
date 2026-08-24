@@ -1517,7 +1517,6 @@
     "aliases": [
       "教育对话",
       "对话",
-      "dialogue in education",
       "educational dialogue"
     ]
   },
@@ -2494,6 +2493,16 @@
     ]
   },
   {
+    "title": "Clinical Skills",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Clinical Skills.md",
+    "aliases": [
+      "临床技能",
+      "临床能力",
+      "clinical competence"
+    ]
+  },
+  {
     "title": "Constructed Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Constructed Knowledge.md",
@@ -2797,6 +2806,15 @@
     "path": "wiki/concepts/educational-psychology/Source of Knowledge.md",
     "aliases": [
       "知识的来源"
+    ]
+  },
+  {
+    "title": "Student Satisfaction",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Student Satisfaction.md",
+    "aliases": [
+      "学生满意度",
+      "学习满意度"
     ]
   },
   {
@@ -3662,7 +3680,6 @@
       "导师制",
       "导师关系",
       "mentoring",
-      "mentorship",
       "mentor"
     ]
   },
@@ -4299,6 +4316,18 @@
       "评价反拨",
       "assessment washback",
       "washback effect"
+    ]
+  },
+  {
+    "title": "Authentic Instruction",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Authentic Instruction.md",
+    "aliases": [
+      "真实性教学",
+      "抛锚式教学",
+      "anchored instruction",
+      "authentic learning",
+      "authentic problem solving"
     ]
   },
   {
@@ -4948,6 +4977,16 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Self-control.md",
     "aliases": [
       "自我控制"
+    ]
+  },
+  {
+    "title": "Self-Directed Learning",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self-Directed Learning.md",
+    "aliases": [
+      "自我导向学习",
+      "自导学习",
+      "SDL"
     ]
   },
   {
@@ -11759,6 +11798,18 @@
       "效应量公式转换",
       "效应量推导",
       "Effect Size Transformation"
+    ]
+  },
+  {
+    "title": "Egger Regression Test",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Egger Regression Test.md",
+    "aliases": [
+      "Egger's Test",
+      "Egger's Linear Regression",
+      "Egger Test",
+      "艾格回归检验",
+      "艾格检验"
     ]
   },
   {
@@ -18644,6 +18695,11 @@
     "title": "Argument_Higgins_2016_RE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Review of Education/Argument_Higgins_2016_RE.md"
+  },
+  {
+    "title": "Argument_Abrami_2015_RER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Review of Educational Research/Argument_Abrami_2015_RER.md"
   },
   {
     "title": "Argument_Hofer_1997_RER",

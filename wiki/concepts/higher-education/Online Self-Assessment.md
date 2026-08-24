@@ -62,7 +62,7 @@ OSA 的设计目的不是筛选淘汰，而是通过促进"有根据的自我选
 
 ### 匹配逻辑
 
-OSA 的理论基础是"人-环境匹配"（person-environment fit）——找到学生与学习项目之间的"完美匹配"（perfect fit），以提升学生满意度和学业成功率（Thiele & Kauffeld, 2019a, p.275）。在[[Praxis|实践]]中表现为三种结果：完全匹配、有条件的匹配（需要在某些领域额外努力）、以及不匹配——此时学生会被建议选择其他项目。
+OSA 的理论基础是"人-环境匹配"（person-environment fit）——找到学生与学习项目之间的"完美匹配"（perfect fit），以提升[[Student Satisfaction|学生满意度]]和学业成功率（Thiele & Kauffeld, 2019a, p.275）。在实践中表现为三种结果：完全匹配、有条件的匹配（需要在某些领域额外努力）、以及不匹配——此时学生会被建议选择其他项目。
 
 > [!example]
 > 荷兰 Saxion 大学的"学习选择检查"是一个典型示例：该校在 YouTube 视频中用一个木制形状分类玩具（shape sorter）来说明匹配逻辑——三种结果分别为完全匹配、基本匹配（建议在某些领域投入额外努力）和不匹配（明确建议选择其他学位项目）。整个过程中，该检查被反复强调"不是入学考试，不影响录取"——它纯粹是一个咨询工具，通过自我反思来引导选择([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.222–223]])。
@@ -128,8 +128,8 @@ Thompson 等人（2022, pp.223–224）从大学政策文件和进展报告中�
 
 > [!warning]
 
-- **自我选择还是隐性筛选？** 尽管 OSA 被宣称为非筛选性的"咨询"工具，其自我选择机制在[[Praxis|实践]]中可能导致与直接筛选等效的排斥效果——得到负面结果的学生可能自我淘汰([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.223]])
-- **[[Digital Self|数字自我]]的简化性** 将学生简化为数据特征和统计概率，忽略了教育过程中不可量化的维度——困惑的质量、创造性的酝酿、同伴间的非正式互动([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
+- **自我选择还是隐性筛选？** 尽管 OSA 被宣称为非筛选性的"咨询"工具，其自我选择机制在实践中可能导致与直接筛选等效的排斥效果——得到负面结果的学生可能自我淘汰([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.223]])
+- **[[Digital Self|数字自我]]的简化性** 将学生简化为数据特征和统计概率，忽略了教育过程中不可量化的维度——困惑的质量、[[Creativity|创造性]]的酝酿、同伴间的非正式互动([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 - **可预测性的幻觉** OSA 的逻辑预设学生的未来可以被入场数据预测，但这排除了教育的根本开放性——[[Bildung]] 指向的是一个超越数据相关性的、开放且不可预测的未来([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 - **对学术公共空间的侵蚀** 当每个人都沿着自己的学习轨迹独自优化时，大学作为学术共同体的公共空间——共同[[Constructed Knowledge|建构知识]]和进行审议——可能被削弱。高等教育中的批判实践——即对所呈现的知识采取立场、重新打开思考和探索的空间——可能因此消解([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])
 

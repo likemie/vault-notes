@@ -7,7 +7,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,12 +30,12 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[External Validity]]"
   - "[[Literature Review]]"
+  - "[[Clinical Skills]]"
   - "[[Critical Thinking]]"
   - "[[Constructive Alignment]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Confidence Interval]]"
-  - "[[Document]]"
-  - "[[Visible Learning]]"
   - "[[Problem Finding]]"
   - "[[Lifelong Learning]]"
 related_theories:
@@ -43,6 +43,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Inverse-Variance Weighting]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
 related_persons:
   - "[[John Biggs]]"
@@ -52,8 +53,8 @@ related_arguments:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
-  - "[[Argument_Blass_2020_JESP]]"
   - "[[Argument_Erdem_2026_SHE]]"
+  - "[[Argument_Blass_2020_JESP]]"
 related_instruments: []
 confidence: medium
 status: draft
@@ -80,6 +81,11 @@ updated: 2026-08-24
 > - **不等于无结构发现** 问题过度开放会使新手缺少推理支点，过度规定步骤又会取消搜索概念工具和选择应用路径的机会。[[Argument_Hattie_2015_SOTLP|Perkins (2014, as cited in Hattie, 2015b, p. 86)]]
 > - **不等于[[Phenomenon-Based Learning|现象本位学习]]** 两者都可能采用[[Constructivist Paradigm|建构主义]]学习观。PBL 以待解决的问题组织活动；芬兰现象本位学习还包含生活世界、具身经验、跨学科[[Bildung|教化]]和教学论传统。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, pp. 2–8)]]
 
+> [!citation-card]- PBL 的定义
+> PBL 是一种基于经验的方法，通过学习对有意义问题的调查、解释与解决来促进学习。[[Argument_Erdem_2026_SHE|(Erdem et al., 2026, p. 952)]]
+>
+> *PBL is an experience-based approach that fosters learning through the investigation, explanation, and resolution of meaningful problems.*
+
 ---
 
 ## 概念辨析
@@ -104,9 +110,9 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > | 学生主要活动 | 激活知识、建模、检索、协作解决和复盘 | 注意讲解、模仿、练习并接受反馈 | 观察体验、跨学科探究和共同反思 |
 > | 教师主要作用 | 设计问题、监控小组、追问解释并提供支架 | 明确讲解、示范、检查和纠错 | 组织现象经验与跨学科资源 |
 > | 主要边界 | 对先备知识、问题设计和导师能力敏感 | 学生能否进一步迁移和自主应用 | 芬兰语境中还涉及[[Bildung\|教化]]、教学论与[[Phenomenology\|现象学]] |
-> | 当前证据提示 | Hattie 的二级综合报告总体 d ≈ 0.08 | Hattie 的综合报告 d ≈ 0.60 | Schaffar & Wolff 未评价学习效应 |
+> | 当前证据提示 | 跨学段 d ≈ 0.08；高等教育二阶综合 ES = 0.60 | Hattie 的综合报告 d ≈ 0.60 | Schaffar & Wolff 未评价学习效应 |
 
-表中的[[Effect Size|效应量]]来自 [[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 82–86)]]；现象本位学习的概念边界来自 [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, pp. 2–8)]]。这些平均效应没有控制先备知识、结果类型和实施质量，适合提示证据差异，不宜直接充当教学法排名。
+表中的[[Effect Size|效应量]]来自 [[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 82–86)]] 与 [[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]；现象本位学习的概念边界来自 [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, pp. 2–8)]]。这些平均效应没有控制先备知识、结果类型和实施质量，适合提示证据差异，不宜直接充当教学法排名。
 
 ---
 
@@ -196,13 +202,13 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > PBL 研究横跨医学、大学、护理、高中和多学科情境，[[Dependent Variable|结果变量]]又包括知识、技能、评估表现与专业应用。平均值只能作为进一步分析的起点。
 
 > [!claim] Hattie, J.
-> **低平均效应需要条件解释** 九项[[Meta-analysis|元分析]]的二级综合得到 d ≈ 0.08，各项结果从 −0.30 到 0.32。Hattie 提出先备知识不足的解释，但同时承认该解释仍需研究。[[Argument_Hattie_2015_SOTLP|Gijbels et al. (2005, as cited in Hattie, 2015b, pp. 85–86)]] 报告知识增加时效果反而下降，也没有支持简单的年级递增模型。现有证据提示显著[[Heterogeneity|异质性]]，却缺少统一的结果分类与正式调节检验。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
+> **低平均效应需要条件解释** 九项[[Meta-analysis|元分析]]的二级综合（简单算术平均）得到 d ≈ 0.08，各项结果从 −0.30 到 0.32。Hattie 提出先备知识不足的解释，但同时承认该解释仍需研究。[[Argument_Hattie_2015_SOTLP|Gijbels et al. (2005, as cited in Hattie, 2015b, pp. 85–86)]] 报告知识增加时效果反而下降，也没有支持简单的年级递增模型。现有证据提示显著[[Heterogeneity|异质性]]，却缺少统一的结果分类与正式调节检验。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
 
 > [!claim] Blass, E.
 > **数据库构成限制[[External Validity|可推广性]]** Blass 审查 Hattie (2009) 的八项 PBL 来源后发现，其中三项来自医学教育，一项属于探索性研究，一项属于[[Literature Review|文献综述]]，两项主要讨论评估对结果的影响。只有 Haas (2005) 直接在学校情境比较教学方法，且报告最大的正向结果。这样的证据集合可以讨论特定专业课程，难以直接支持面向所有学校教学的统一排名。[[Argument_Blass_2020_JESP|Blass (2020, pp. 92–93)]]
 
 > [!claim] Erdem, C., et al.
-> **聚焦高等教育的二阶综合报告高效应** 综合 20 项一阶元分析（469 项独立研究）的[[Meta-meta-analysis|二阶元分析]]报告，PBL 在高等教育中对学生结果的总体效应为调整后 ES = 0.60，临床技能（1.06）与满意度（1.10）接近“很高”，理论性知识、[[Critical Thinking|批判性思维]]与态度约 0.56–0.59。该结果与跨学段混合综合的低平均效应（d ≈ 0.08）并存，差异主要来自教育阶段限定、按结果类型分列以及一阶元分析纳入范围；平均值仍不能替代对情境与结果类型的判断。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
+> **聚焦高等教育的二阶综合报告高效应** 综合 20 项一阶元分析（469 项独立研究）的[[Meta-meta-analysis|二阶元分析]]报告，PBL 在高等教育中对学生结果的总体效应为调整后 ES = 0.60，[[Clinical Skills|临床技能]]（1.06）与满意度（1.10）接近“很高”，理论性知识、[[Critical Thinking|批判性思维]]与态度约 0.56–0.59。该结果与跨学段混合综合的低平均效应（d ≈ 0.08）并存，差异主要来自教育阶段限定、按结果类型分列以及一阶元分析纳入范围；平均值仍不能替代对情境与结果类型的判断。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
 
 ---
 
@@ -214,20 +220,24 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > | 对齐性 | 同类专业问题贯穿目标、活动与评估 | 学生实际练习什么，评估又检查什么 | Biggs |
 > | 知识组织 | 问题序列共同决定覆盖与应用 | 内容是否充分，知识能否用于专业情境 | Biggs；Blass |
 > | 条件性 | 先备知识、问题结构和导师能力共同作用 | 何时引入、开放到什么程度、如何提供支架 | Hattie；Blass |
-> | 证据情境性 | 平均效应受研究情境与结果类型影响 | 数值能否迁移到当前课程与学生 | Hattie；Blass |
+> | 证据情境性 | 平均效应受研究情境与结果类型影响 | 数值能否迁移到当前课程与学生 | Hattie；Blass；Erdem |
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline] 从专业课程设计到证据与概念边界
+> [!dev-timeline] 从医学教育起源到证据与概念边界
+> - **1960 年代中期 — 医学教育起源与跨域扩散** PBL 最初为医学教育开发（Barrows, 2000; Schmidt et al., 2006），实践起源于加拿大，随后被美国、欧洲与亚洲高等教育采纳；1960 年代以来，医学、护理、药学、牙科与工程等专业将 PBL 纳入课程（Azer, 2017; Chan et al., 2022）。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 950–952)]]
+> - **20 世纪后半叶 — 教学论转向** 教育实践从行为主义与认知主义的知识传递转向超越知识获取的教学模型，PBL 作为[[Constructivist Paradigm|建构主义]]教学模式兴起（Hung, Jonassen, & Liu, 2008）。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, p. 951)]]
+> - **1970 年代 — 中国采纳** PBL 自 1970 年代进入中国高等教育并长期实施，为后续中国情境的高效应提供经验基础（Chan et al., 2022; Xu, Ye, & Wang, 2021）。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 964–965)]]
 > - **1993 — 医学教育证据进入综合研究** [[Argument_Hattie_2015_SOTLP|Albanese & Mitchell (1993, as cited in Hattie, 2015b, p. 85)]] 以及 [[Argument_Hattie_2015_SOTLP|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] 的早期综述与[[Meta-analysis|元分析]]，使医学 PBL 的知识、技能和课程结果进入系统比较。
 > - **1997–1999 — [[Constructive Alignment|建构性对齐]]解释** Biggs 把医学 PBL 和三跳评估作为[[Constructive Alignment|建构性对齐]]案例，说明专业问题如何连接课程目标、学习活动和评估。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 70–72)]]
 > - **2003–2013 — 跨情境元分析扩展** PBL 研究从医学延伸到大学知识与技能、评估结果和跨学科课程，九项元分析的结果方向与幅度差异明显。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, p. 85, Table 2)]]
+> - **2010 后 — [[Document|文献]]激增与模型演化** PBL 文献量翻倍以上，研究兴趣持续增长（Hallinger, 2021）；模型与实施方式在 2010 年代持续演化，为高阶元分析积累素材（Hallinger, 2020; Azer, 2017）。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 951, 965)]]
 > - **2015 — 先备知识与问题结构解释** Hattie 用新手逆向推理、知识获取负效应及过度结构化问题解释低平均效应，把讨论从方法排名推进到实施条件。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
 > - **2020 — 数据库情境审查** Blass 检查 Hattie 的 PBL 来源类型、教育阶段与结果目标，质疑单一排名跨越医学教育和学校课堂的合理性。[[Argument_Blass_2020_JESP|Blass (2020, pp. 92–95)]]
 > - **2024 — 与[[Phenomenon-Based Learning|现象本位学习]]划定边界** Schaffar & Wolff 将 PBL 视为芬兰现象本位学习吸收的[[Constructivist Paradigm|建构主义]]传统之一，同时指出后者还具有[[Phenomenology|现象学]]、[[Bildung|教化]]和教学论根源。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, pp. 2–8)]]
-> - **2026 — 高等教育二阶综合更新证据** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶[[Meta-analysis|元分析]]，报告 PBL 在高等教育中对学生结果的总体效应 ES = 0.60，临床技能与满意度效应最高；该结果与跨学段混合的低平均效应形成对照，强化了“平均效应高度依赖教育阶段与结果分类”的解释。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
+> - **2026 — 高等教育二阶综合更新证据** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶[[Meta-analysis|元分析]]，报告 PBL 在高等教育中对学生结果的总体效应 ES = 0.60，[[Clinical Skills|临床技能]]与满意度效应最高；该结果与跨学段混合的低平均效应形成对照，强化了“平均效应高度依赖教育阶段与结果分类”的解释。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
 
 ---
 
@@ -248,12 +258,12 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > | 一阶元分析 | 当前概念角色与总体结果 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hattie_2015_SOTLP\|Albanese & Mitchell (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学知识结果 | 11 项研究 / N 未报告；60 个效应 | Cohen's d；模型未报告 | d = 0.27；95% CI 未报告 | 未报告 | Blass 将其识别为[[Literature Review\|文献综述]] |
-> | [[Argument_Hattie_2015_SOTLP\|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 8 项研究 / N 未报告；26 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 医学教育情境 |
-> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的大学知识与技能结果 | 43 项研究 / N 未报告；35 个效应 | Cohen's d；模型未报告 | d = 0.12；95% CI 未报告 | 未报告 | 结果类型混合 |
-> | [[Argument_Hattie_2015_SOTLP\|Smith (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 82 项研究 / N 未报告；121 个效应 | Cohen's d；模型未报告 | d = 0.31；95% CI 未报告 | 未报告 | 医学教育情境 |
+> | [[Argument_Hattie_2015_SOTLP\|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 8 项研究 / N 未报告；26 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 医学教育情境；情境集中于专业高等教育 |
+> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的大学知识与技能结果 | 43 项研究 / N 未报告；35 个效应 | Cohen's d；模型未报告 | d = 0.12；95% CI 未报告 | 未报告 | 大学教育；结果类型需要细分 |
+> | [[Argument_Hattie_2015_SOTLP\|Smith (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 82 项研究 / N 未报告；121 个效应 | Cohen's d；模型未报告 | d = 0.31；95% CI 未报告 | 未报告 | 医学教育情境；难以直接迁移到学校科目 |
 > | [[Argument_Hattie_2015_SOTLP\|Newman (2004, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 12 项研究 / N 未报告；12 个效应 | Cohen's d；模型未报告 | d = −0.30；95% CI 未报告 | 未报告 | Blass 将其识别为探索性研究 |
 > | [[Argument_Hattie_2015_SOTLP\|Gijbels et al. (2005, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的评估结果 | 40 项研究 / N 未报告；49 个效应 | Cohen's d；模型未报告 | d = 0.32；95% CI 未报告 | 未报告 | 评估方式影响结果解释 |
-> | [[Argument_Hattie_2015_SOTLP\|Walker & Leary (2008, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的跨学科结果 | 82 项研究 / N 未报告；201 个效应 | Cohen's d；模型未报告 | d = 0.13；95% CI 未报告 | 未报告 | 跨学科情境混合 |
+> | [[Argument_Hattie_2015_SOTLP\|Walker & Leary (2008, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的跨学科结果 | 82 项研究 / N 未报告；201 个效应 | Cohen's d；模型未报告 | d = 0.13；95% CI 未报告 | 未报告 | 跨学科情境混合；教育阶段与学科异质 |
 > | [[Argument_Hattie_2015_SOTLP\|Schmidt et al. (2009, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的[[Constructivist Paradigm\|建构主义]]医学知识 | 10 项研究 / N 未报告；90 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 医学知识结果 |
 > | [[Argument_Hattie_2015_SOTLP\|Leary et al. (2013, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的总体结果 | 94 项研究 / N 未报告；213 个效应 | Cohen's d；模型未报告 | d = 0.24；95% CI 未报告 | 未报告 | 综合情境未细分 |
 > | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | 干预因素（PBL）的知识获取 | k / N 未报告 | Cohen's d；模型未报告 | d = −0.79；95% CI 未报告 | 未报告 | 知识获取结果不能代表全部 PBL 目标 |
@@ -263,7 +273,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 >
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 M / E / k / N | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | 干预因素（PBL）的总体学习结果 | M = 9；k / N 未报告 | Cohen's d；早期二级综合 | d ≈ 0.08；95% CI 未报告 | 单项汇总效应 −0.30 至 0.32；正式指标未报告 | 早期粗放综合；研究情境与结果类型混合 |
+> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | 干预因素（PBL）的总体学习结果 | M = 9；k / N 未报告 | Cohen's d；早期二级综合（一级元分析效应的简单算术平均） | d ≈ 0.08；95% CI 未报告 | 单项汇总效应 −0.30 至 0.32；正式指标未报告 | 早期粗放综合，未经[[Inverse-Variance Weighting\|逆方差加权]]；研究情境与结果类型混合 |
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL）的高等教育学生结果 | M = 20；E = 47；k = 469；N 未报告 | 标准化均差（SMD）；[[Fixed-Effect and Random-Effects Models\|随机效应模型]]；OR 转换 | 观测 ES = 0.68 [0.57, 0.79]；剪补调整后 ES = 0.60 [0.49, 0.71] | Q(46) = 730.67, p < .001, I² = 93.70% | 高等教育情境；存在轻微发表偏倚（详见 Argument） |
 
 > [!ma-table]- 二阶元分析互补维度亚组
@@ -272,10 +282,10 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 M / E | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL） | 理论性知识 | E = 15 | .59 [.37, .81] | Q_b(6) = 14.65, p = .02 | [[Dependent Variable\|结果变量]]亚组；组间差异显著 |
-> | 同上 | | 临床技能 | E = 8 | 1.06 [.75, 1.37] | | |
+> | 同上 | | [[Clinical Skills\|临床技能]] | E = 8 | 1.06 [.75, 1.37] | | |
 > | 同上 | | [[Critical Thinking\|批判性思维]] | E = 6 | .56 [.24, .89] | | |
 > | 同上 | | 学生态度 | E = 7 | .57 [.26, .88] | | |
-> | 同上 | | 学生满意度 | E = 3 | 1.10 [.62, 1.59] | | |
+> | 同上 | | [[Student Satisfaction\|学生满意度]] | E = 3 | 1.10 [.62, 1.59] | | |
 > | 同上 | | 综合 | E = 4 | .88 [.44, 1.33] | | |
 > | 同上 | | 其他 | E = 4 | .31 [−.08, .70] | | |
 
@@ -284,25 +294,12 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 ## 争议与批评
 
 > [!tension] 低平均效应与条件性效力
-> - **平均效应解读** 九项[[Meta-analysis|元分析]]的二级综合为 d ≈ 0.08，知识获取结果还出现 d = −0.79。按照统一学习结果判断，PBL 的平均优势很小。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
+> - **平均效应解读** 九项[[Meta-analysis|元分析]]的二级综合（简单算术平均）为 d ≈ 0.08，知识获取结果还出现 d = −0.79。按照统一学习结果判断，PBL 的平均优势很小。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
 > - **条件性解读** PBL 的目标可能是知识应用、专业推理和深层理解，效果又受到学生知识基础、问题结构、教师能力及评估方式影响。平均效应没有区分这些条件，无法单独决定具体课程是否适合采用 PBL。[[Argument_Blass_2020_JESP|Blass (2020, pp. 92–95)]]
 > - **阶段与结果敏感解读** 聚焦高等教育的二阶综合报告总体效应 ES = 0.60，明显高于跨学段混合的 d ≈ 0.08；差异主要由教育阶段限定、按结果类型分列与元分析纳入范围造成。两套综合并存时，单一平均数值不宜直接充当结论。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
 
 > [!critique-method] Hattie 的 PBL 数据库构成审查
-> - **来源类型与情境错配** Blass 审查 Hattie (2009) 纳入的八项来源，发现部分材料不属于元分析，多数来自大学医学或护理教育，直接面向学校教学的比较很少。[[Argument_Blass_2020_JESP|Blass (2020, pp. 92–93)]]
->
-> | 来源 | 实际内容 | 情境 | 审查发现 |
-> |---|---|---|---|
-> | Albanese & Mitchell (1993) | PBL [[Literature Review\|文献综述]] | 大学医学教育 | [[Document\|文献]]综述被当作元分析来源 |
-> | Smith (2003) | PBL 与讲授式医学教学 | 大学医学教育 | 难以直接迁移到学校科目 |
-> | Newman (2004) | PBL 方法探索与有效性评价 | 继续护理教育 | 探索性研究被纳入综合 |
-> | Vernon & Blake (1993) | PBL 元分析 | 医学教育 | 情境集中于专业高等教育 |
-> | Dochy et al. (2003) | PBL 元分析 | 大学教育 | 结果类型需要细分 |
-> | Gijbels et al. (2005) | 评估视角的 PBL 元分析 | 大学教育 | 重点是评估方式对结果的影响 |
-> | Walker & Leary (2008) | 跨学科 PBL 元分析 | 混合情境 | 教育阶段与学科异质 |
-> | Haas (2005) | 中学代数教学法元分析 | 中学 | 唯一直接比较学校教学法的来源，并报告最大正向结果 +37% |
-
-Blass 的审查同样需要边界说明。她只抽查了探究式教学和 PBL 两个主题，没有审计整个 [[Visible Learning]] 数据库；她还是在线 PBL 项目 Inventorium 的负责人，对 PBL 持明确支持立场。该研究适合揭示来源核查问题，不能独立确定 PBL 的真实平均效果。[[Argument_Blass_2020_JESP|Blass (2020, pp. 91–97)]]
+> - **来源类型与情境错配** Blass 审查 Hattie (2009) 纳入的八项来源，发现部分材料不属于元分析，多数来自大学医学或护理教育，直接面向学校教学的比较很少；各来源的实际性质与审查发现已并入上方一阶元分析表，其中 Haas (2005) 是唯一直接比较学校教学法的来源并报告最大正向结果（+37%）。[[Argument_Blass_2020_JESP|Blass (2020, pp. 92–93)]]
 
 > [!warning] 先备知识解释仍是待检验[[Hypothesis|假设]]
 > Hattie 提出，高年级学生可能因事实和概念基础较充分而从 PBL 中获得更多收益。然而 [[Argument_Hattie_2015_SOTLP|Gijbels et al. (2005, as cited in Hattie, 2015b, pp. 85–86)]] 的结果显示知识增加时 PBL 效果下降。现有二级综合没有提供正式调节检验，不能把年级或知识水平直接视为确定的因果解释。
@@ -310,10 +307,10 @@ Blass 的审查同样需要边界说明。她只抽查了探究式教学和 PBL 
 > [!debates] PBL 认知基础与实用性的争论
 >
 > > [!axis] PBL 是否过于耗时且实施困难
-> > 批评者认为 PBL 要求高且耗时，常由未充分理解其复杂性的人实施；有限的临床能力提升证据引发对其实用性的质疑，实施挑战包括班级拥挤、[[Problem Finding|问题发现]]的地域恶性循环、并非适合所有学生以及教师能力不足。[[Argument_Erdem_2026_SHE|(Erdem et al., 2026, p. 966)]]
+> > 批评者认为 PBL 要求高且耗时，常由未充分理解其复杂性的人实施；有限的[[Clinical Skills|临床能力]]提升证据引发对其实用性的质疑，实施挑战包括班级拥挤、[[Problem Finding|问题发现]]受地域局限的恶性循环（PBL 的问题源自学生身边的本地环境，欠发达地区学生只能遇到当地基础设施与环境等基础问题、难以触及前沿科技，反复面对低挑战、无需深度研究的问题，从而陷入学习的恶性循环）、并非适合所有学生以及教师能力不足。[[Argument_Erdem_2026_SHE|(Erdem et al., 2026, p. 966)]]
 > >
 > > - **Kilroy (2004)** 认为 PBL 要求高、时间密集，实施者常未掌握其复杂性。
-> > - **Ramadhani et al. (2019)** 指出拥挤课堂、问题发现恶性循环、非普适性与教师能力不足是主要障碍。
+> > - **Ramadhani et al. (2019)** 指出拥挤课堂、问题发现因地域局限而陷入恶性循环（问题源自本地环境，欠发达地区学生难以触及前沿科技、只能反复面对低挑战问题）、非普适性与教师能力不足是主要障碍。
 >
 > > [!axis] PBL 课程毕业生的专业能力
 > > 支持方证据表明，PBL 课程毕业生相对传统课程毕业生具备相当或更优的专业能力，且 PBL 同时促进学术、实践与情感类结果。
@@ -348,6 +345,6 @@ Blass 的审查同样需要边界说明。她只抽查了探究式教学和 PBL 
 > - [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] 以早期二级综合汇总九项一级[[Meta-analysis|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
 > - [[Argument_Blass_2020_JESP|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] 将 PBL 定位为芬兰[[Phenomenon-Based Learning|现象本位学习]]的近缘[[Constructivist Paradigm|建构主义]]传统，并划定两者的哲学与课程边界。
-> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 以[[Meta-meta-analysis|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（理论性知识、临床技能、[[Critical Thinking|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
+> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 以[[Meta-meta-analysis|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（理论性知识、[[Clinical Skills|临床技能]]、[[Critical Thinking|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
 
 ---

@@ -4,15 +4,14 @@ aliases:
   - 导师制
   - 导师关系
   - mentoring
-  - mentorship
   - mentor
 summary: "更有经验的人通过指导、支持和示范促进 less experienced 者专业和个人发展的过程，是科学和医学教育中的核心关系"
 type: concept
 domain: "higher-education"
-related_count: 5
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/higher-education
   - theme/medical-education
@@ -20,18 +19,24 @@ tags:
 related_concepts:
   - "[[Research Topic]]"
   - "[[Mentorship Recognition]]"
+  - "[[Authentic Instruction]]"
+  - "[[Dialogue in Education]]"
+  - "[[Critical Thinking]]"
 related_theories: []
 related_methods:
   - "[[Network Analysis]]"
+  - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
 related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments:
   - "[[Argument_Sandrone_2025_MEO]]"
+  - "[[Argument_Abrami_2015_RER]]"
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-08-24
 ---
 
 # Mentorship
@@ -89,3 +94,19 @@ updated: 2026-06-07
 
 ---
 
+## 实证数据
+
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 导师制独立实施 vs 复合教学策略（[[Authentic Instruction\|真实性教学]]+[[Dialogue in Education\|对话]]+导师制 A+D+M） | 导师制独立 $k = 28$；A+D+M 复合 $k = 19$ | 独立 $g+ = 0.39$ $[0.23, 0.55]$；复合 $g+ = 0.57$ $[0.38, 0.77]$ | A+D+M 显著优于 A+D（$z = 1.98, p = .024$） | 证实导师制在[[Critical Thinking\|批判性思维]]干预中发挥了关键的催化功能（Catalytic Capacity） |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Sandrone_2025_MEO|Sandrone (2025)]] — 基于 208 篇[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]演讲与学术家族树[[Network Analysis|网络分析]]，揭示导师制在科学精英培养中的决定性作用与致谢缺失现象。
+> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research|实验研究]]，证实导师指导在复合教学策略中发挥关键催化作用，使[[Critical Thinking|批判性思维]]教学增益提升至最高水平（$g+ = 0.57$）。

@@ -16,8 +16,8 @@ tags:
 - citizenship
 - boundaries
 related_concepts:
-  - "[[Praxis]]"
   - "[[Document]]"
+  - "[[Self-Directed Learning]]"
 related_theories:
   - "[[Nation Building through Education]]"
   - "[[World Society Theory]]"
@@ -48,7 +48,7 @@ updated: 2026-07-13
 
 > [!example] 概念辨析
 > - vs [[Nation Building through Education]] — 国族建构理论关注的是国家如何在**边疆地区**和**多元族群**中推行统一身份认同；membership-creating 是更基础性的机制——它解释的是为什么**所有**现代国家都建立了大众教育系统，不仅是边疆。前者是政策策略，后者是社会功能
-> - vs Citizenship Education — 公民教育是课程层面的[[Praxis|实践]]（教什么内容）；membership-creating 是制度层面的功能（教育系统本身在做什么）。公民教育可以更改为不同的内容（如香港从 LS 到 [[Citizenship and Social Development|CSD]]），但 membership-creating 功能本身——通过教育划定"谁属于我们"——是结构性的
+> - vs Citizenship Education — 公民教育是课程层面的实践（教什么内容）；membership-creating 是制度层面的功能（教育系统本身在做什么）。公民教育可以更改为不同的内容（如香港从 LS 到 [[Citizenship and Social Development|CSD]]），但 membership-creating 功能本身——通过教育划定"谁属于我们"——是结构性的
 >
 
 ## 核心要素
@@ -81,6 +81,6 @@ updated: 2026-07-13
 
 > [!warning] 争议与批评
 > - **包容与排斥的一体两面** membership-creating 最尖锐的矛盾在于，它同时完成了两件事——"创造成员之间的团结"和"划定对外来者的排斥"。这一矛盾无法在民族国家的框架内被解决([[Argument_Amos_2022_Springer|Amos, 2022, p.55]])
-> - **晚期现代性的弱化**[[Argument_Amos_2022_Springer|Amos (2022, pp.60–61)]] 指出，随着教育从国家中心转向市场中心，membership-creating 功能正在弱化——当教育变成个性化微证书和自导学习路径的拼贴时，"共同经验"在哪里？这对民主社会的公民基础构成威胁
+> - **晚期现代性的弱化**[[Argument_Amos_2022_Springer|Amos (2022, pp.60–61)]] 指出，随着教育从国家中心转向市场中心，membership-creating 功能正在弱化——当教育变成个性化微证书和[[Self-Directed Learning|自导学习]]路径的拼贴时，"共同经验"在哪里？这对民主社会的公民基础构成威胁
 >
 

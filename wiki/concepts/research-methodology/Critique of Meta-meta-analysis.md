@@ -11,7 +11,7 @@ aliases:
 summary: "对元-元分析（二阶元分析）在认识论假设、试验清晰度混淆、偏倚逐级复合、方法论不透明及政策排名误用层面的系统性学术批判"
 type: concept
 domain: "research-methodology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Cargo Cult Science]]"
+  - "[[Small Study Effects]]"
   - "[[Document]]"
   - "[[Reliability]]"
   - "[[Critique of Effect Size]]"
@@ -158,7 +159,7 @@ updated: 2026-08-24
 > |---|---|---|
 > | **数据合成逻辑** | 跨领域粗放收集、未加权算术平均、忽略重叠 | 严格 PRISMA 检索、[[AMSTAR]] 质量准入、排除主要研究重叠 |
 > | **统计推断模型** | 伪[[Fixed-Effect and Random-Effects Models\|固定效应模型]]、无[[Confidence Interval\|置信区间]]、忽略依赖性 | 多水平相关与层级效应（CHE）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE）三明治估计量 |
-> | **偏倚控制机制** | 声称不关心研究质量、无小研究效应检验 | 改进[[Multilevel Egger's Test\|多水平艾格回归]]检验并进行截距偏倚校正 |
+> | **偏倚控制机制** | 声称不关心研究质量、无[[Small Study Effects\|小研究效应]]检验 | 改进[[Multilevel Egger's Test\|多水平艾格回归]]检验并进行截距偏倚校正 |
 > | **知识产出定位** | 全球普适性有效性联盟表与排名 | 探索效应量异质性来源、识别调节变量、实在论因果机制解释（Pawson, 2006） |
 
 > [!pathways] 建设性替代方向

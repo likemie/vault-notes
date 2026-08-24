@@ -10,7 +10,7 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Creativity, Action, Service]]"
   - "[[Epistemology]]"
   - "[[Extended Essay]]"
+  - "[[Self-Directed Learning]]"
   - "[[Research Scope]]"
   - "[[Class Size]]"
   - "[[Reliability]]"
@@ -193,7 +194,7 @@ LS 的课程设计大量参照了国际文凭大学预科课程（[[IB Diploma P
 > |---|---|---|
 > | 其他学习经历 | 创造、行动与服务（Creativity, Activity, Service, [[Creativity, Action, Service\|CAS]]） | 强调学生对社区的参与 |
 > | 自由教育与建构主义理念 | 知识论（[[Epistemology\|theory of knowledge]], TOK） | 引导学生理解知识本质、发展批判性思维 |
-> | 独立专题探究（Independent Enquiry Study, IES） | 延伸论文（[[Extended Essay]]） | 学生自主选题、自主研究方法、自我导向学习 |
+> | 独立专题探究（Independent Enquiry Study, IES） | 延伸论文（[[Extended Essay]]） | 学生自主选题、自主研究方法、[[Self-Directed Learning\|自我导向学习]] |
 >
 > IES 被设计为"一种自我导向的学习体验，学生承担学习的主要责任......自主选择题目、[[Research Scope|研究范围]]、研究方法以及呈现研究发现和成果的方式"(CDC & HKEAA, 2007, pp. 57–58)。
 

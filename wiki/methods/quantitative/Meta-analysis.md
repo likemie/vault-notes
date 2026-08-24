@@ -6,7 +6,7 @@ summary: "通过汇总多项原始研究的效应量来综合证据的统计方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 66
+method_related_count: 71
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -50,6 +50,10 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Epistemic Cognition]]"
   - "[[Construct]]"
+  - "[[Dialogue in Education]]"
+  - "[[Authentic Instruction]]"
+  - "[[Mentorship]]"
+  - "[[Critical Thinking]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -88,10 +92,11 @@ related_arguments:
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
+  - "[[Argument_Abrami_2015_RER]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-08-20
+updated: 2026-08-24
 ---
 
 # Meta-analysis
@@ -470,5 +475,6 @@ Wolf（1986, pp. 55–56）聚焦于"如果要做元分析，怎样才能做得�
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch17)]] — 系统介绍元分析的四种操作模型（Glass 八步、Cook 四阶段、Fitz-Gibbon 四步、Gorard 四步）、[[Effect Size|效应量]]计算、[[Class Size|班级规模]]案例及多维度批判
 > - [[Argument_Greene_2018_JEP]] — 使用[[Fixed-Effect and Random-Effects Models|随机效应模型]]对132项非[[Experimental Research|实验研究]]的752个效应量进行了元分析，并考察了[[Epistemic Cognition|认识论认知]][[Construct|构念]]、成就类型等多种调节变量。
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用三层多层随机效应元分析模型综合了韩国 18 项实证研究中的 512 个效应量，探讨中小学生认识论认知与学习成果的关联。
+> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 采用随机效应模型综合 341 项标准化实验与准实验效应量，通过系统的混合效应调节分析检验了[[Dialogue in Education|对话]]、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]技能与倾向的干预效果。
 
 ---

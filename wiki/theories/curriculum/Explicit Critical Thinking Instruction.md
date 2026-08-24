@@ -8,10 +8,10 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 29
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 34
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/critical-thinking
   - theme/curriculum
@@ -24,6 +24,10 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Metacognition]]"
   - "[[Variable]]"
+  - "[[Effect Size]]"
+  - "[[Authentic Instruction]]"
+  - "[[Dialogue in Education]]"
+  - "[[Mentorship]]"
   - "[[Creativity]]"
   - "[[School Leadership]]"
   - "[[IB Diploma Programme]]"
@@ -47,6 +51,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Cole_2015_AJE]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
@@ -55,7 +60,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-08-03
+updated: 2026-08-24
 ---
 
 # Explicit Critical Thinking Instruction
@@ -96,6 +101,7 @@ updated: 2026-08-03
 > - **前提二** [[Meta-analysis|元分析]]汇总了 117 项研究、20,698 名参与者的数据，结果显示：显性教学条件下学生的批判性思维技能增益最大，而将批判性思维作为学科学习副产品（隐性融入）的条件效果最弱（Abrami et al., 2008）。
 >   > [!evidence-grid]- 证据
 >   > - **Abrami et al. (2008) 元分析** 117 项研究、20,698 名参与者。当批判性思维作为独立课程显性教授时，学生技能增益最大；当批判性思维仅作为学科学习的隐性副产品时，效果最低。
+>   > - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 元分析** 341 项标准化实验与准实验[[Effect Size|效应量]]。Ennis 课程模式检验显示，结合显性独立教学与学科融入的混合模式（Mixed approach）获得最高增益（$g+ = 0.38$）；同时，将[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]结合的三维复合干预产生最强效应（$g+ = 0.57$）。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 293–295)]]
 >   > - **Marin & Halpern (2011)** 两项[[Experimental Research|实验研究]]：在低表现学校的课后班和课内教学中，显性教学组的高中生在批判性思维技能上均显著优于隐性教学组。
 > - **推导** 如果批判性思维是一组可独立于学科内容教学的通用认知技能（前提一），且跨大量研究的元分析一致显示显性教学的效果优于隐性教学（前提二），那么可以合理推断显性独立教学路径是更有效的教学策略。这一推导不否认领域知识的重要性，但指出领域知识并不能自动产生批判性思维——需要显性的指导和练习。
 
@@ -173,3 +179,4 @@ updated: 2026-08-03
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 以 [[IB Diploma Programme|IB DP]] 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research|混合方法研究]]检验显性[[Critical Thinking|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
+> - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research|实验研究]]，系统检验 Ennis 课程模式（混合模式 $g+=0.38$ 表现最高）及[[Authentic Instruction|真实性教学]]、[[Dialogue in Education|对话]]与[[Mentorship|导师制]]三维复合策略（$g+=0.57$），为显性教学与课程整合提供了大规模[[Meta-analysis|元分析]]证据。

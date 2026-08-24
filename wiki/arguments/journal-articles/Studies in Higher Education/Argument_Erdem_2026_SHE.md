@@ -30,8 +30,10 @@ related_concepts:
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Clinical Skills]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
+  - "[[Self-Directed Learning]]"
   - "[[Metacognition]]"
   - "[[Operationalization]]"
   - "[[Literature Review]]"
@@ -54,6 +56,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Egger Regression Test]]"
   - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Trim and Fill Method]]"
   - "[[Experimental Research]]"
@@ -80,7 +83,7 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -107,7 +110,7 @@ issuing_organization: ""
 > 因此需要以[[Meta-meta-analysis|二阶元分析]]整合多个结果类型上的元分析证据，回答两个问题：（1）PBL 对高等教育学生结果的影响水平如何？（2）该影响是否随调节[[Variable|变量]]变化？（pp. 950–952）
 
 > [!claim] 核心主张
-> 基于 20 项一阶元分析（涵盖 469 项独立原始研究、47 个独立[[Effect Size|效应量]]（Effect Size，ES））的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis）表明，PBL 对高等教育学生结果具有显著且高的总体影响（调整后效应量 $ES = 0.60$，95% [[Confidence Interval|置信区间]]（Confidence Interval，CI）为 $[0.49, 0.71]$）。其中临床技能（$ES = 1.06$）与学生满意度（$ES = 1.10$）效应很高，理论性知识（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）效应较高。效应变异受结果类型、地域、一阶研究抽样方法、元分析质量、报告类型与发表年份显著调节，而高等教育专业类型无显著调节。（pp. 950, 961–962）
+> 基于 20 项一阶元分析（涵盖 469 项独立原始研究、47 个独立[[Effect Size|效应量]]（Effect Size，ES））的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis）表明，PBL 对高等教育学生结果具有显著且高的总体影响（调整后效应量 $ES = 0.60$，95% [[Confidence Interval|置信区间]]（Confidence Interval，CI）为 $[0.49, 0.71]$）。其中[[Clinical Skills|临床技能]]（$ES = 1.06$）与[[Student Satisfaction|学生满意度]]（$ES = 1.10$）效应很高，理论性知识（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）效应较高。效应变异受结果类型、地域、一阶研究抽样方法、元分析质量、报告类型与发表年份显著调节，而高等教育专业类型无显著调节。（pp. 950, 961–962）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 截至 2024 年、以英文发表、覆盖高等教育、以传统教学为对照的 20 项 PBL 元分析及其包含的 469 项独立原始研究。
@@ -122,13 +125,13 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Constructivist Paradigm\|建构主义]]教学模型（PBL）** | [[Problem-Based Learning\|PBL]] 以真实问题为出发点，学生激活先备知识、识别缺口、在小组中建构解释并通过自我导向学习修正模型；教师由知识传授者转为促进者。该模型为理解 PBL 何以促进深层理解与长期保持提供机制解释。（pp. 952–953） |
-> | **自我导向学习与[[Metacognition\|元认知]]（Self-Directed Learning, SDL）** | PBL 依赖目标设定、策略选择与目标评价等元认知过程，学生监控自身学习进程。这解释 PBL 为何能培养[[Lifelong Learning\|终身学习]]技能与反思能力。（pp. 952–953） |
+> | **[[Self-Directed Learning\|自我导向学习]]与[[Metacognition\|元认知]]（Self-Directed Learning, SDL）** | PBL 依赖目标设定、策略选择与目标评价等元认知过程，学生监控自身学习进程。这解释 PBL 为何能培养[[Lifelong Learning\|终身学习]]技能与反思能力。（pp. 952–953） |
 > | **学习结果分类框架** | 将学生结果[[Operationalization\|操作化]]为理论性知识、临床技能、[[Critical Thinking\|批判性思维]]、学生态度与学生满意度五类，并依据一阶[[Meta-analysis\|元分析]]报告方式补充综合与其他编码，为调节分析提供分类学基础。（pp. 954–956, 959） |
 
 > [!proc] PBL 的学习过程（[[Literature Review|文献综述]]中的操作流程）
 > 1. **呈现真实问题情景** 学生以真实或拟真的专业问题启动学习，问题成为学习的出发点。（pp. 952–953）
 > 2. **讨论先备知识** 小组调用既有知识解释问题，识别知识缺口（Loyens et al., 2015）。
-> 3. **自我导向学习** 学生通过自导学习填补缺口，收集与分析资料。
+> 3. **[[Self-Directed Learning|自我导向学习]]** 学生通过自导学习填补缺口，收集与分析资料。
 > 4. **检验[[Hypothesis|假设]]与评价** 学生检验假设、评估学习结果，在问题解决中整合理解（Begay et al., 2006; Hmelo-Silver, 2004）。
 > 5. **巩固与反思** 问题解决后巩固理解，发展批判性思维与反思学习能力，并为终身学习做准备。
 
@@ -156,10 +159,10 @@ issuing_organization: ""
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **理论性知识**<br>（Theoretical Knowledge） | 对支撑学科的基本概念、原理与理论的理解，通过分析真实问题更深入有效地掌握理论概念。 | **核心教学规程** 学生以真实问题为起点，在小组中激活先备知识、分析问题、检索资料并通过问题解决整合理解（pp. 952–953）；<br>**典型测量工具** 学科知识测试或成绩测验；<br>**纳入案例** Ma & Lu (2019, ES = 1.16)、Wang et al. (2016, ES = 0.76)、Galvao et al. (2014, ES = 0.21)、Huang et al. (2013, ES = 0.88) 等 15 个效应量，加权平均 ES = 0.59。（pp. 954–955, 962） |
-> | **临床技能**<br>（Clinical Skills） | 通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能，促进更快更有效的决策并支持长期技能保持。 | **核心教学规程** 在真实患者情景的问题解决中练习临床决策与操作，发展长期技能保持（pp. 954–955）；<br>**典型测量工具** 临床技能、临床能力或临床实践考核；<br>**纳入案例** Ma & Lu (2019, ES = 1.56)、Zhang et al. (2018, ES = 1.56)、Shin & Kim (2013, ES = 0.92)、Li et al. (2024, ES = 1.20) 等 8 个效应量，加权平均 ES = 1.06。（pp. 954–955, 962） |
+> | **[[Clinical Skills\|临床技能]]**<br>（Clinical Skills） | 通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能，促进更快更有效的决策并支持长期技能保持。 | **核心教学规程** 在真实患者情景的问题解决中练习临床决策与操作，发展长期技能保持（pp. 954–955）；<br>**典型测量工具** 临床技能、临床能力或临床实践考核；<br>**纳入案例** Ma & Lu (2019, ES = 1.56)、Zhang et al. (2018, ES = 1.56)、Shin & Kim (2013, ES = 0.92)、Li et al. (2024, ES = 1.20) 等 8 个效应量，加权平均 ES = 1.06。（pp. 954–955, 962） |
 > | **[[Critical Thinking\|批判性思维]]**<br>（Critical Thinking） | 与组织、分析、评价并最终决策自身认知过程相关的技能与习惯，在问题解决环境中发展。 | **核心教学规程** 问题解决环境促使学生深度思考、评价多样视角、分析综合信息（pp. 955, 963–964）；<br>**典型测量工具** 批判性思维技能测验或倾向量表；<br>**纳入案例** Kong et al. (2014, ES = 0.33)、Liu & Pásztor (2022, ES = 0.58–0.91)、Wei et al. (2023, ES = 0.47) 等 6 个效应量，加权平均 ES = 0.56。（pp. 955, 962） |
 > | **学生态度**<br>（Student Attitude） | 学生对特定学科、学习方法或教育环境的总体感受与想法，技能与知识以外的结果（如倾向、兴趣）归入此类。 | **核心教学规程** 主动参与问题解决过程培养积极态度与热情（pp. 955–956, 963–964）；<br>**典型测量工具** 态度、兴趣或倾向量表；<br>**纳入案例** Shin & Kim (2013, ES = 0.67)、Brice (2017, ES = −0.15)、（未识别博士论文，ES = 0.45）等 7 个效应量，加权平均 ES = 0.57。（pp. 955–956, 962） |
-> | **学生满意度**<br>（Student Satisfaction） | 学生对学习过程与学习环境的总体满意程度，PBL 激发内在动机并提升学习体验。 | **核心教学规程** 主动参与增强内在动机与学习能力，提升学习体验（pp. 955–956, 963–964）；<br>**典型测量工具** 满意度问卷；<br>**纳入案例** Shin & Kim (2013, ES = 1.44)、Zheng et al. (2023, ES = 0.92)、Li et al. (2024, ES = 5.43，OR 转换) 等 3 个效应量，加权平均 ES = 1.10。（pp. 955–956, 962） |
+> | **[[Student Satisfaction\|学生满意度]]**<br>（Student Satisfaction） | 学生对学习过程与学习环境的总体满意程度，PBL 激发内在动机并提升学习体验。 | **核心教学规程** 主动参与增强内在动机与学习能力，提升学习体验（pp. 955–956, 963–964）；<br>**典型测量工具** 满意度问卷；<br>**纳入案例** Shin & Kim (2013, ES = 1.44)、Zheng et al. (2023, ES = 0.92)、Li et al. (2024, ES = 5.43，OR 转换) 等 3 个效应量，加权平均 ES = 1.10。（pp. 955–956, 962） |
 > | **综合**<br>（Combined） | 元分析未拆分认知与情感结果、直接汇总报告的综合结果。 | **核心教学规程** 元分析对多项结果未拆分、直接汇总报告（p. 959）；<br>**典型测量工具** 综合测验或综合表现评价；<br>**纳入案例** Gao et al. (2020, ES = 1.51)、Sayyah et al. (2017, ES = 0.90) 等 4 个效应量，加权平均 ES = 0.88。（pp. 959, 962） |
 > | **其他**<br>（Others） | 不足以独立成组的结果类型。 | **核心教学规程** 某结果类型效应量不足以独立成组（k < 3）（p. 959）；<br>**典型测量工具** 各元分析报告的零星结果；<br>**纳入案例** Sharma et al. (2023, 自信 ES = 0.31) 等 4 个效应量，加权平均 ES = 0.31。（pp. 959, 962） |
 
@@ -177,7 +180,7 @@ issuing_organization: ""
 > | **数据提取与双人编码**<br>Data Extraction & Coding | 以 MS Excel 开发编码表；两位研究者独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$；分歧经讨论，无法达成一致者征询专家意见后决定。（p. 957） |
 > | **效应量选择与转换**<br>Effect Size Selection & Conversion | 标准化均差（Standardized Mean Difference，SMD）、Cohen's d 与 Hedges' g 在大样本下等价（Goulet-Pelletier & Cousineau, 2018）；数据集中 $k = 47$ 个报告 SMD、$k = 2$ 个报告比值比（Odds Ratio，OR）、$k = 1$ 个报告 Hedges' g，OR 转换为 SMD 后纳入分析；统计软件为 CMA 3.0。（pp. 957–960） |
 > | **统计模型与分析**<br>Statistical Model | 采用[[Fixed-Effect and Random-Effects Models\|随机效应模型]]进行平均效应、发表偏倚、调节与异质性分析；以 Q 统计量评估异质性（$Q(t)$ 总异质性、$Q(b)$ 组间异质性）。（pp. 957–960） |
-> | **离群与偏倚分析**<br>Outlier & Bias | 识别并剔除 3 个离群效应量，分析以 $k = 47$ 进行；发表偏倚检验包括漏斗图、Egger 回归、[[Begg and Mazumdar Rank Correlation\|Begg 与 Mazumdar 秩相关]]及 [[Trim and Fill Method\|Duval & Tweedie 剪补法]]。（p. 960） |
+> | **离群与偏倚分析**<br>Outlier & Bias | 识别并剔除 3 个离群效应量，分析以 $k = 47$ 进行；发表偏倚检验包括漏斗图、[[Egger Regression Test\|Egger 回归]]、[[Begg and Mazumdar Rank Correlation\|Begg & Mazumdar 秩相关]]及 [[Trim and Fill Method\|Duval & Tweedie 剪补法]]。（p. 960） |
 
 > [!seq-table]- 六项纳入与排除标准（Inclusion & Exclusion Criteria）
 > | 纳入标准 |
@@ -203,7 +206,7 @@ issuing_organization: ""
 > | Xu, Ye, & Wang (2021) | 理论性知识 | .89 [.52, 1.26] | 9 | 细胞生物学 | 文章 | 非特定 | [[Randomised Controlled Trials\|RCT]] 与非 RCT | 中等 | 至 2021 |
 > | Gao et al. (2020)*** | 综合 | 1.51 [.79, 2.23] | 9 | 心理学 | 文章 | 中国 | RCT 与非 RCT | 中等 | 至 2020 |
 > | Ma & Lu (2019) | 理论性知识 | 1.16 [.79, 1.52] | 12 | 儿科 | 文章 | 中国 | RCT | 高 | 至 2018 |
-> | Ma & Lu (2019) | 临床技能 | 1.56 [.87, 2.25] | 5 | 儿科 | 文章 | 中国 | RCT | 高 | 至 2018 |
+> | Ma & Lu (2019) | [[Clinical Skills\|临床技能]] | 1.56 [.87, 2.25] | 5 | 儿科 | 文章 | 中国 | RCT | 高 | 至 2018 |
 > | Sayyah et al. (2017) | 综合 | .90 [.56, 1.24] | 10 | 护理 | 文章 | 伊朗 | RCT 与非 RCT | 高 | 1980–2016 |
 > | Sayyah et al. (2017) | 综合 | .64 [.60, 1.13] | 5 | 医学 | 文章 | 伊朗 | RCT 与非 RCT | 高 | 1980–2016 |
 > | Sayyah et al. (2017) | 综合 | .66 [.25, 1.08] | 4 | 牙科 | 文章 | 伊朗 | RCT 与非 RCT | 高 | 1980–2016 |
@@ -226,7 +229,7 @@ issuing_organization: ""
 > | Liu & Pásztor (2022) | 批判性思维倾向 | .71 [.42, .99] | 5 | 文科 | 文章 | 非特定 | RCT 与非 RCT | 高 | 2000–2021 |
 > | Shin & Kim (2013) | 理论性知识 | 1.32 [.72, 1.93] | 10 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
 > | Shin & Kim (2013) | 临床技能 | .92 [.68, 1.17] | 8 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
-> | Shin & Kim (2013) | 学生满意度 | 1.44 [1.07, 1.81] | 19 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
+> | Shin & Kim (2013) | [[Student Satisfaction\|学生满意度]] | 1.44 [1.07, 1.81] | 19 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
 > | Shin & Kim (2013) | 学习态度 | .67 [.39, .94] | 21 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
 > | Zheng et al. (2023) | 理论性知识 | −.19 [−.71, .33] | 6 | 外科 | 文章 | 非特定 | RCT 与非 RCT | 中等 | 至 2022 |
 > | Zheng et al. (2023) | 临床能力 | .81 [.12, 1.49] | 7 | 外科 | 文章 | 非特定 | RCT 与非 RCT | 中等 | 至 2022 |
@@ -248,7 +251,7 @@ issuing_organization: ""
 > | （未识别博士论文） | 理论性知识 | .02 [−.02, .06] | 33 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
 > | （未识别博士论文） | 临床技能 | .32 [.27, .38] | 29 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
 > | （未识别博士论文） | 问题解决 | .19 [.03, .34] | 10 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
-> | （未识别博士论文） | 自我导向学习 | .47 [.39, .55] | 19 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
+> | （未识别博士论文） | [[Self-Directed Learning\|自我导向学习]] | .47 [.39, .55] | 19 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
 > | （未识别博士论文） | 态度 | .45 [.39, .52] | 30 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
 >
 > RCT 表示随机对照试验；非 RCT 表示非随机对照试验；* 表示离群值；** 表示以 OR 报告；*** 表示以 Hedges' g 报告。表内部分数值按原刊表格[[Transcription in Qualitative Research|转录]]，个别单元格存在排版不清。表中 1977–2002 年医学博士论文的作者名在原刊 Table 1 中缺失，且论文附录未列示该研究，故以未识别处理。（pp. 958–959）
@@ -318,7 +321,7 @@ issuing_organization: ""
 > - PBL 跨学科应用、年龄组与内容领域差异、学习概念与结果定义不清、实施方法不同及问题多样性，共同构成效果的不确定性（Moallem, 2019）。（p. 951）
 
 > [!tension] PBL 相对传统讲授式教学的效果争论
-> - **支持方** 实证与质性综合显示 PBL 有利于长期知识保持、技能发展与学习满意度（Strobel & Van Barneveld, 2009; Dochy et al., 2003）。
+> - **支持方** 实证与质性综合显示 PBL 有利于长期知识保持、技能发展与[[Student Satisfaction|学习满意度]]（Strobel & Van Barneveld, 2009; Dochy et al., 2003）。
 > - **质疑方** 关于 PBL 相对传统教学的优劣持续存在争论，因为实施方式与情境差异使结果难以一概而论。（p. 951）
 
 > [!warrant]- 推理桥梁
@@ -367,7 +370,7 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - 数据集 47 个效应量从 $ES = 1.15$ 到 $ES = −.39$，观测平均 $ES = 0.68$，总异质性 $Q(46) = 730.67, p < .001$，$I^2 = 93.70\%$。（p. 960）
-> - Begg 与 Mazumdar 秩相关 tau = −.01，z = .12，p = .89，未提示发表偏倚；Egger 回归 t(45) = 5.53，p < .001，提示小效应研究未充分代表。（pp. 960–961）
+> - Begg & Mazumdar 秩相关 tau = −.01，z = .12，p = .89，未提示发表偏倚；Egger 回归 t(45) = 5.53，p < .001，提示小效应研究未充分代表。（pp. 960–961）
 > - Duval & Tweedie [[Trim and Fill Method|剪补法]]建议在均值左侧补入 k = 6 个负或小效应量，调整后 $ES = 0.60$（$CI = [0.49, 0.71]$），与观测值差约 0.08。（p. 961）
 
 > [!example]- 图2：效应量漏斗图（Funnel Plot Graph）
@@ -393,7 +396,7 @@ issuing_organization: ""
 > | 调节变量维度 | 亚组类别 | k | ES | LL | UL | Q(b) | df | p |
 > |---|---|---|---|---|---|---|---|---|
 > | **结果类型** | 理论性知识 | 15 | .59 | .37 | .81 | 14.65 | 6 | .02 |
-> | | 临床技能 | 8 | 1.06 | .75 | 1.37 | | | |
+> | | [[Clinical Skills\|临床技能]] | 8 | 1.06 | .75 | 1.37 | | | |
 > | | [[Critical Thinking\|批判性思维]] | 6 | .56 | .24 | .89 | | | |
 > | | 学生态度 | 7 | .57 | .26 | .88 | | | |
 > | | 学生满意度 | 3 | 1.10 | .62 | 1.59 | | | |
@@ -449,7 +452,7 @@ issuing_organization: ""
 > 批判性思维的培养可能需要长期暴露（Masek & Yamin, 2011），短期[[Intervention Research|干预研究]]可能低估其效应；学界对批判性思维的定义不一致也造成混合结果（Thorndahl & Stentoft, 2020）。（p. 964）
 
 > [!warrant]- 推理桥梁
-> 各结果效应都能由 PBL 的机制（真实问题、主动参与、自我导向学习）加以解释；即便理论性知识存在获取与保持的权衡，该高效应仍与 PBL 促进深层理解的目标一致。（pp. 963–964）
+> 各结果效应都能由 PBL 的机制（真实问题、主动参与、[[Self-Directed Learning|自我导向学习]]）加以解释；即便理论性知识存在获取与保持的权衡，该高效应仍与 PBL 促进深层理解的目标一致。（pp. 963–964）
 
 ---
 
@@ -480,7 +483,7 @@ issuing_organization: ""
 > > 批评者认为 PBL 要求高且耗时，常由未充分理解其复杂性的人实施；有限的临床能力提升证据也引发对其实用性的质疑（Kilroy, 2004）。实施中的挑战包括班级拥挤、[[Problem Finding|问题发现]]的地域恶性循环、并非适合所有学生以及教师能力不足（Ramadhani, Huda, & Umam, 2019）。（p. 966）
 > >
 > > - **Kilroy (2004)** PBL 是要求高且时间密集的方法，常由未充分掌握其复杂性者实施，临床能力提升证据有限。（p. 966）
-> > - **Ramadhani et al. (2019)** 拥挤课堂、问题发现的恶性循环、非普适性与教师能力不足是主要实施障碍。（p. 966）
+> > - **Ramadhani et al. (2019)** 拥挤课堂、问题发现因地域局限而陷入恶性循环（问题源自本地环境，欠发达地区学生难以触及前沿科技、只能反复面对低挑战问题）、非普适性与教师能力不足是主要实施障碍。（p. 966）
 >
 > > [!axis] PBL 课程毕业生的专业能力
 > > 支持方证据表明，PBL 课程毕业生相对传统课程毕业生具备相当或更优的专业能力（Neville, 2008）。PBL 在学术表现之外，对实践类结果（临床技能、批判性思维）与情感类结果（态度、满意度）均具正效应。（p. 966）
@@ -505,7 +508,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **[[Problem-Based Learning|PBL]] 在高等教育中对学生结果具有高总体效应** [[Meta-meta-analysis|二阶元分析]]汇总 20 项一阶[[Meta-analysis|元分析]]（469 项独立研究、47 个[[Effect Size|效应量]]），调整后总体效应量为 $ES = 0.60$（$CI = [0.49, 0.71]$），观测值为 $ES = 0.68$，[[Publication Bias|发表偏倚]]校正不改变结论方向。（pp. 960–961）
-> 2. **临床技能与学生满意度效应最高，其余结果效应较高** 临床技能（$ES = 1.06$）与学生满意度（$ES = 1.10$）属很高，理论性知识（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）属高。（pp. 961–962）
+> 2. **[[Clinical Skills|临床技能]]与[[Student Satisfaction|学生满意度]]效应最高，其余结果效应较高** 临床技能（$ES = 1.06$）与学生满意度（$ES = 1.10$）属很高，理论性知识（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）属高。（pp. 961–962）
 > 3. **效应变异受结果类型、地域、抽样、质量、报告类型与年份显著调节** 中国情境（$ES = 1.10$）、仅含随机对照组的元分析（$ES = 0.84$）、高质量元分析（$ES = 0.82$）、文章形式（$ES = 0.77$）与 2011 年后发表（$ES \approx 0.70–0.77$）均伴随更高效应；专业类型无显著调节。（pp. 961–962）
 > 4. **推广需结合高[[Heterogeneity|异质性]]与轻微发表偏倚谨慎解释** 数据集 $I^2 = 93.70\%$，Egger 回归与[[Trim and Fill Method|剪补法]]提示轻微发表偏倚，医学与护理专业被过度代表；平均效应不能机械推广到所有专业与情境。（pp. 960–961, 965–966）
 

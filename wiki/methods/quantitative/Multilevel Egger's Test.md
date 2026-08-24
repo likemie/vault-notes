@@ -10,7 +10,7 @@ summary: "在多水平与聚类依赖元分析数据中检验小研究效应与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
 related_methods:
+  - "[[Egger Regression Test]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
@@ -54,7 +55,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 方法定义
-> [[Multilevel Egger's Test|多水平艾格检验]]（Multilevel Egger's Test，亦称多水平艾格回归 Multilevel Egger's Regression）是一种在包含聚类依赖、多重结果测量或多层嵌套结构（如[[Meta-meta-analysis|二阶元分析]]）的[[Meta-analysis|元分析]]中检验**[[Small Study Effects|小研究效应]]（Small-Study Effects）**与[[Publication Bias|发表偏倚]]（Publication Bias）的定量诊断与校正方法（Rodgers & Pustejovsky, 2021; [[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 6]]）。该方法将抽样[[Standard Error|标准误]]作为调节[[Variable|变量]]纳入三水平[[Fixed-Effect and Random-Effects Models|随机效应模型]]，通过斜率检验偏倚是否存在，并利用回归截距估计理论无限大样本下的无偏[[Effect Size|效应量]]。
+> [[Multilevel Egger's Test|多水平艾格检验]]（Multilevel [[Egger Regression Test|Egger's Test]]，亦称多水平艾格回归 Multilevel Egger's Regression）是一种在包含聚类依赖、多重结果测量或多层嵌套结构（如[[Meta-meta-analysis|二阶元分析]]）的[[Meta-analysis|元分析]]中检验**[[Small Study Effects|小研究效应]]（Small-Study Effects）**与[[Publication Bias|发表偏倚]]（Publication Bias）的定量诊断与校正方法（Rodgers & Pustejovsky, 2021; [[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 6]]）。该方法将抽样[[Standard Error|标准误]]作为调节[[Variable|变量]]纳入三水平[[Fixed-Effect and Random-Effects Models|随机效应模型]]，通过斜率检验偏倚是否存在，并利用回归截距估计理论无限大样本下的无偏[[Effect Size|效应量]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** 存在多重效应量嵌套依赖的一阶元分析或二阶元分析证据库。
@@ -86,7 +87,7 @@ updated: 2026-08-24
 
 ## 核心统计模型与数学公式
 
-> [!formula-set] 多水平艾格检验与截距校正流程
+> [!formula-set] 多水平[[Egger Regression Test|艾格检验]]与截距校正流程
 > ```mermaid
 > flowchart LR
 >   A["步骤 1：输入效应量与标准误<br/>(作为唯一连续调节变量)"] --> B["步骤 2：拟合三水平艾格元回归<br/>(分解集群间与集群内变异)"]
@@ -130,7 +131,7 @@ updated: 2026-08-24
 
 ## 软件实现与代码规程
 
-> [!software-impl] R 语言环境（metafor 与 clubSandwich）实现多水平艾格检验
+> [!software-impl] R 语言环境（metafor 与 clubSandwich）实现多水平[[Egger Regression Test|艾格检验]]
 > ```R
 > library(metafor)
 > library(clubSandwich)

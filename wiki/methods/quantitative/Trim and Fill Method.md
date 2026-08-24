@@ -11,7 +11,7 @@ type: method
 domain: "research-methodology"
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Logic Model]]"
   - "[[Cooperative Learning]]"
+  - "[[Problem-Based Learning]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -46,6 +47,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
+  - "[[Argument_Erdem_2026_SHE]]"
 confidence: high
 status: draft
 created: 2026-08-24
@@ -116,6 +118,11 @@ updated: 2026-08-24
 > - **剪补检验结果** 剪补算法估计缺失研究数为 **$k_{\text{miss}} = 0$**（未识别到任何需剪除或填补的不对称研究）；
 > - **校正效应量对比** 填补前后二阶效应量点估计值与 95% [[Confidence Interval|置信区间]]完全一致（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）；
 > - **结论推导** 与经典[[Fail-Safe N|失安全系数]]（$N_{\text{fs}} = 4954$）及 Egger 线性回归（$t = 2.08, p = .05$）相互印证，确凿证实合作学习对学生学习产出的中等促进效应具有高度稳健性，不存在[[Publication Bias|发表偏倚]]威胁。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–8)]]
+> [!example] [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 高等教育[[Problem-Based Learning|问题本位学习]]二阶元分析偏倚检验
+> 在问题本位学习高等教育二阶[[Meta-analysis|元分析]]中，作者综合运用剪补法对 47 个[[Effect Size|效应量]]进行偏倚检验：
+> - **剪补检验结果** 剪补算法估计需在均值左侧补入 **$k_{\text{miss}} = 6$** 个负或小效应研究；
+> - **校正效应量对比** 观测效应量 $ES = 0.68$ 经剪补调整后降至 $ES = 0.60$（$95\%\text{ CI} = [0.49, 0.71]$），差异约 $\Delta ES = 0.08$；
+> - **结论推导** 与Egger 回归（$t(45) = 5.53, p < .001$）相互印证，提示存在轻微[[Publication Bias|发表偏倚]]，但校正后 PBL 仍呈显著正效应。[[Argument_Erdem_2026_SHE|(Erdem et al., 2026, pp. 960–961)]]
 
 ---
 
@@ -134,3 +141,4 @@ updated: 2026-08-24
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，运用剪补法对跨学科 23 个一阶[[Meta-analysis|元分析]][[Effect Size|效应量]]进行[[Publication Bias|发表偏倚]]敏感性检验，确证 $k_{\text{miss}} = 0$ 且校正效应量保持 $ES = 0.71$ 稳健不变。
+> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，运用剪补法对高等教育[[Problem-Based Learning|问题本位学习]]的 47 个[[Effect Size|效应量]]进行[[Publication Bias|发表偏倚]]检验，估计缺失研究 $k_{\text{miss}} = 6$，校正后效应量由 $0.68$ 调整为 $0.60$，提示轻微偏倚。

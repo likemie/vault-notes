@@ -53,7 +53,7 @@ updated: 2026-06-16
 ## 核心数据
 
 > [!stat-cards] 2022年调查核心数据
-> - **75% 整体满意度** 在 2022 年发布的调查报告中，教师教育（Teacher Education）毕业生的整体学习满意度高达 75%（QILT, 2023），在各大主要高等教育专业中处于优秀区间。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 5]])
+> - **75% 整体满意度** 在 2022 年发布的调查报告中，教师教育（Teacher Education）毕业生的整体[[Student Satisfaction|学习满意度]]高达 75%（QILT, 2023），在各大主要高等教育专业中处于优秀区间。([[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe, 2024, p. 5]])
 > - **优秀的就业表现** 职前教师毕业后的就业率以及起薪中位数保持在良好水平，直接表明大多数毕业生成功过渡进入学校体系。
 
 ---

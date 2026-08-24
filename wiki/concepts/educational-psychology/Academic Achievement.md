@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 42
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Prediction Interval]]"
   - "[[Variable]]"
   - "[[Cooperative Learning]]"
+  - "[[Problem-Based Learning]]"
   - "[[Affective Outcomes]]"
   - "[[Questionnaire]]"
   - "[[Achievement and Aptitude Tests]]"
@@ -55,6 +56,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Survey Research]]"
   - "[[Multinomial Logistic Regression]]"
   - "[[Matching]]"
@@ -66,6 +68,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
   - "[[Argument_Greene_2010_JEP]]"
   - "[[Argument_Gungor_2026_CP]]"
+  - "[[Argument_Erdem_2026_SHE]]"
 confidence: medium
 status: draft
 created: 2026-08-15
@@ -226,6 +229,7 @@ updated: 2026-08-24
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对学业成就（Academic Achievement）的干预效应 | $M = 11$；$E = 12$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.71$ $[0.52, 0.90]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 涵盖语言、数学、社科与自然科学多学科，效应量稳健中等，但学科间样本分布不均衡 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对理论性知识的促进效应 | $M = 20$；$E = 15$（理论性知识亚组）；$k = 469$；$N = —$ | 标准化均差（SMD）/ [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $ES = 0.59$ $[0.37, 0.81]$ | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 理论性知识为知识获取类结果，与学业成就相关但不完全等同；高等教育情境 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
