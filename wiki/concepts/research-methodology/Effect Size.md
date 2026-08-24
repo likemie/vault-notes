@@ -5,7 +5,7 @@ aliases:
 summary: "比较不同干预或变量影响强度的标准化统计指标，被广泛用于元分析与证据排序，但其解释边界、聚合方式和政策用途长期存在争议"
 type: concept
 domain: "research-methodology"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Construct]]"
   - "[[Construct Validity]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-07-19
+updated: 2026-08-24
 ---
 
 ## 定义
@@ -166,6 +167,19 @@ updated: 2026-07-19
 > **统计前提** $d$ 的直观解释依赖于三个前提：（1）前后分布近似对称且接近正态；（2）两个分布的标准差相同，均值差才可解释为简单位移；（3）若分布右偏或左偏，均值并不在分布中心。极端情况下，若基础分布类似柯西分布（Cauchy distribution），均值和方差本身不稳定，$d$ 的计算基础会崩塌（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–49]]）。
 >
 > **第三[[Variable|变量]]影响** 边际分析与多[[Variable|变量]]控制会显著改变 $d$。TIMSS 2011 丹麦四年级数学中，教师学科专业资格的未控制效应量约 0.15，控制学生社会经济背景后降至 0.08 且不再显著——说明单个 $d$ 不能脱离第三变量独立解释（参见 [[Covariate Adjustment]]）。
+
+---
+
+### 效应量族系与指标转换
+
+> [!proc] 核心效应量族系与转换路径
+> 在元分析与证据合成中，不同研究设计报告的效应指标可通过标准数学公式统一换算：
+> 1. **两组均值差族系（$d$ 与 $g$）** 实验组与对照组比较，小样本下通过 $g = J(df) \times d$ 进行小样本无偏校正。
+> 2. **关联与相关族系（$r$）** 连续变量线性关联，平衡样本下通过 $r = \frac{d}{\sqrt{d^2 + 4}}$ 与 $d = \frac{2r}{\sqrt{1 - r^2}}$ 实现与 $d$ 的相互转换。
+> 3. **分类与概率比族系（$OR$）** 二分类变量比值比通过 $d \approx \frac{\ln(OR)}{1.814}$ 转换为连续均值差。
+> 4. **正态化与方差稳定化（Fisher's $z$）** 元分析在统计加权前需通过 $z = \operatorname{arctanh}(r)$ 稳定方差，合并后再逆转换为 $r$ 呈现。
+>
+> 完整数学推导、组间样本比率校正公式与数值对照矩阵见方法条目 **[[Effect Size Conversion|效应量转换]]**。
 
 ---
 
@@ -398,3 +412,14 @@ updated: 2026-07-19
 
 ---
 
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联方向 | 说明 |
+> |:-----|:-----|:---------|:-----|
+> | [[Effect Size Conversion]] | 方法 | 核心计算 | 解决跨研究设计与不同统计量之间的标准化数学换算。 |
+> | [[Critique of Effect Size]] | 概念 | 理论批评 | 剖析效应量跨研究聚合与政策排名中的方法学与[[Epistemology\|认识论]]争议。 |
+> | [[Meta-analysis]] | 方法 | 应用场景 | 效应量是元分析合成证据的核心统计单位。 |
+> | [[Visible Learning]] | 概念 | 政策应用 | Hattie 采用效应量对教育干预进行全球排名。 |
+> | [[EEF Teaching and Learning Toolkit]] | 事实 | 证据工具 | 将效应量转换为额外学习月数的循证决策工具。 |
