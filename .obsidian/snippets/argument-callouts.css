@@ -15111,29 +15111,27 @@
 .callout:has(.concept-second-order-meta-table-marker) th:nth-child(7),
 .callout:has(.concept-second-order-meta-table-marker) td:nth-child(7) { width: 12% !important; }
 
-/* 元分析调节变量与亚组分析 */
+/* 概念页一阶元分析互补维度亚组表 */
 .callout:has(.concept-meta-moderator-table-marker) table {
   width: 100%;
-  min-width: 1480px;
+  min-width: 1280px;
   table-layout: fixed !important;
 }
 
 .callout:has(.concept-meta-moderator-table-marker) th:nth-child(1),
-.callout:has(.concept-meta-moderator-table-marker) td:nth-child(1) { width: 12% !important; }
+.callout:has(.concept-meta-moderator-table-marker) td:nth-child(1) { width: 14% !important; }
 .callout:has(.concept-meta-moderator-table-marker) th:nth-child(2),
-.callout:has(.concept-meta-moderator-table-marker) td:nth-child(2) { width: 12% !important; }
+.callout:has(.concept-meta-moderator-table-marker) td:nth-child(2) { width: 11% !important; }
 .callout:has(.concept-meta-moderator-table-marker) th:nth-child(3),
-.callout:has(.concept-meta-moderator-table-marker) td:nth-child(3) { width: 10% !important; }
+.callout:has(.concept-meta-moderator-table-marker) td:nth-child(3) { width: 18% !important; }
 .callout:has(.concept-meta-moderator-table-marker) th:nth-child(4),
-.callout:has(.concept-meta-moderator-table-marker) td:nth-child(4) { width: 19% !important; }
+.callout:has(.concept-meta-moderator-table-marker) td:nth-child(4) { width: 12% !important; }
 .callout:has(.concept-meta-moderator-table-marker) th:nth-child(5),
-.callout:has(.concept-meta-moderator-table-marker) td:nth-child(5) { width: 14% !important; }
+.callout:has(.concept-meta-moderator-table-marker) td:nth-child(5) { width: 18% !important; }
 .callout:has(.concept-meta-moderator-table-marker) th:nth-child(6),
 .callout:has(.concept-meta-moderator-table-marker) td:nth-child(6) { width: 14% !important; }
 .callout:has(.concept-meta-moderator-table-marker) th:nth-child(7),
-.callout:has(.concept-meta-moderator-table-marker) td:nth-child(7) { width: 8% !important; }
-.callout:has(.concept-meta-moderator-table-marker) th:nth-child(8),
-.callout:has(.concept-meta-moderator-table-marker) td:nth-child(8) { width: 11% !important; }
+.callout:has(.concept-meta-moderator-table-marker) td:nth-child(7) { width: 13% !important; }
 
 /* 元分析稳健性与偏倚 */
 .callout:has(.concept-meta-robustness-table-marker) table {
