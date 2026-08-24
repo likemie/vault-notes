@@ -60,6 +60,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Literature Review]]"
   - "[[Reliability]]"
+  - "[[Critique of Meta-meta-analysis]]"
   - "[[Divergent Thinking]]"
   - "[[Cognitive Shifting]]"
   - "[[Constructivist Paradigm]]"
@@ -91,7 +92,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -243,7 +244,7 @@ issuing_organization: ""
 > **数学直觉** 经典方差估计依赖于效应量相互独立的[[Hypothesis|假设]]；三明治估计量通过外积残差矩阵 $\mathbf{e}_j \mathbf{e}_j^T$ 代替未知的真实方差结构，即使工作模型设定存在偏差，大样本下估计量依然无偏且有效。（pp. 5–6）
 
 > [!warrant]- 推理桥梁
-> 传统[[Literature Review|文献综述]]无法量化汇总效应的[[Reliability|可靠性]]，而二阶抽样误差的存在使得简单算术平均会导致精度高估。通过 CHE 工作模型与稳健方差估计进行经验残差校正，并结合艾格回归纠正小研究效应，保证了统计推断在复杂依赖情境下的严密性。（pp. 3, 5–6）
+> 传统[[Literature Review|文献综述]]无法量化汇总效应的[[Reliability|可靠性]]，而二阶抽样误差与研究重叠使得早期粗糙元综合面临诸多方法论质疑（参见 [[Critique of Meta-meta-analysis|元-元分析批判]]）。通过 CHE 工作模型与稳健方差估计进行经验残差校正，并结合艾格回归纠正小研究效应，系统克服了传统二阶综合的统计缺陷，保证了统计推断在复杂依赖情境下的严密性。（pp. 3, 5–6）
 
 ---
 

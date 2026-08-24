@@ -12,399 +12,268 @@ aliases:
   - 二阶元分析
   - 二级元分析
   - SOMA
-summary: "在更高层次汇总多个已发表元分析结果的统计综合方法，用于处理大型证据库、比较不同综合结论并评估聚合稳定性"
+summary: "在更高层级汇总多个已发表元分析结果的统计综合方法，运用多水平层级效应与稳健方差估计处理大型证据库并探索全领域异质性来源"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 59
-method_related_level: 6
-method_related_stars: "⭐⭐⭐⭐⭐⭐"
+method_related_count: 35
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
-- meta-meta-analysis
-- mega-analysis
-- meta-analysis
-- effect-size
-- evidence-based-education
-- statistical-synthesis
-- methodology
+  - method/quantitative
+  - statistics/meta-analysis
+  - theme/meta-meta-analysis
+  - field/research-methodology
 related_concepts:
-  - "[[Effect Size]]"
-  - "[[Visible Learning]]"
-  - "[[Policy Network]]"
   - "[[Document]]"
+  - "[[Effect Size]]"
   - "[[Sampling Error]]"
-  - "[[Variable]]"
-  - "[[Individualised Instruction]]"
-  - "[[Metacognition]]"
-  - "[[Praxis]]"
-  - "[[Direct Instruction]]"
-  - "[[Epistemology]]"
-  - "[[Hypothesis]]"
-  - "[[Ontology]]"
-  - "[[Reliability]]"
-  - "[[Standard Error]]"
-  - "[[Confidence Interval]]"
-  - "[[Creativity]]"
-  - "[[Transcription in Qualitative Research]]"
+  - "[[Construct]]"
   - "[[Heterogeneity]]"
-  - "[[Homework]]"
-  - "[[Class Size]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Whole Language]]"
-  - "[[Language Experience Approach]]"
-  - "[[Cargo Cult Science]]"
+  - "[[Interaction Effect]]"
+  - "[[Confidence Interval]]"
+  - "[[External Validity]]"
+  - "[[Epistemology]]"
+  - "[[Positivism]]"
+  - "[[Standard Error]]"
+  - "[[Internal Validity]]"
+  - "[[Metacognition]]"
+  - "[[Creativity]]"
+  - "[[Paradigm]]"
+  - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Hypothesis]]"
+  - "[[Reliability]]"
+  - "[[Publication Bias]]"
+  - "[[Critique of Meta-meta-analysis]]"
 related_theories:
-  - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Walberg's Educational Productivity Model]]"
-  - "[[Critical Realism]]"
-  - "[[Goldman's Discrimination Theory of Knowledge]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Effect Size Conversion]]"
-  - "[[Moderator Analysis]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
-  - "[[Comparative Meta-synthesis]]"
-  - "[[Intervention Research]]"
-  - "[[Quantitative Research]]"
+  - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"
-related_persons:
-  - "[[Steven Stahl]]"
-  - "[[William Jeynes]]"
-  - "[[Gene Glass]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Pearson Product-Moment Correlation]]"
+  - "[[Effect Size Conversion]]"
+related_instruments:
+  - "[[AMSTAR]]"
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Qvortrup_2015_Paideia]]"
-  - "[[Argument_Higgins_2016_RE]]"
-  - "[[Argument_Wrigley_2019_ERE]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Simpson_2017_JEP]]"
-  - "[[Argument_Simpson_2019_ERE]]"
-  - "[[Argument_OConnor_2020_AJLL]]"
-  - "[[Argument_Allerup_2015_Paideia]]"
-  - "[[Argument_Bergeron_2017_MJE]]"
-  - "[[Argument_Johnson_2023_CE]]"
-  - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Runco_2026_CRJ]]"
-related_facts:
-  - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[PISA]]"
-  - "[[Education Endowment Foundation]]"
-confidence: medium
+  - "[[Argument_Higgins_2016_RE]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
+confidence: high
 status: draft
-created: '2026-05-03'
-updated: 2026-08-23
+created: 2026-05-03
+updated: 2026-08-24
+---
+
+# Meta-meta-analysis
+
 ---
 
 ## 定义
 
-> [!info] 定义
-> 元-[[Meta-analysis|元分析]]（Meta-meta-analysis，也称 Mega-analysis）是一种将多个已发表的元分析结果在更高层次上进行统计综合的方法——"改变层次，组合元分析，尝试开发一个元-元分析"([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])。与普通[[Meta-analysis|元分析]]综合原始研究不同，元-元分析综合的是已聚合的[[Effect Size|效应量]]，从而大幅扩大参照范围。
->
-> > 例：Hattie (2009) 的 *[[Visible Learning]]* 综合了 816 项元分析（涵盖 52,649 项原始研究、83,033,433 名参与者、146,626 个效应量），产生 138 个影响因素的效应量排名——这是该方法的标志性应用([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.427–428]])。[[EEF Teaching and Learning Toolkit]] 是另一个采用类似逻辑的政策工具，将[[Effect Size Conversion|效应量转换]]为"额外学习月数"并按成本、有效性和证据确定性三个维度排名。
->
-> Hattie 本人坚持其工作不是"元分析的元分析"，而是"综合"（synthesis）——但 Snook et al.（2009, p.94）指出，根据 Evidence Informed [[Policy Network]] 的定义，"研究综合"必须包含协议制定、系统和明确方法的使用、数据收集、分析、解释和结果报告，而 Hattie 声称不关心纳入研究的质量，这与综合的方法论要求直接矛盾。
->
-> [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 从支持者角度为 Hattie 的综合方式辩护：元-元分析可以比较跨研究的相对学习结果，因为[[Effect Size|效应量]]把具体测量转换为共同表达式([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, p.27]])。但他同时指出，这一共同表达式的代价是结果层次变得抽象，研究者难以判断总体效应究竟来自表层知识、深层理解还是概念性学习；因此未来元-元分析需要借助[[Dynamic Knowledge and Learning Model]]更精确地区分学习结果([[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015, pp.27–33]])。
+> [!def] 方法定义
+> [[Meta-meta-analysis|元-元分析]]（Meta-[[Meta-analysis]]，在现代统计学中亦称二阶元分析 Second-Order Meta-Analysis, SOMA，早期[[Document|文献]]称 Mega-analysis 或 Meta-synthesis）指在更高统计层级上对多个已发表[[Meta-analysis|元分析]]（Meta-analysis）结果进行系统检索、方法学质控与定量合成的方法体系。与一阶元分析综合原始主要研究不同，二阶元分析以一阶元分析提取的汇总[[Effect Size|效应量]]（及其背后的[[Sampling Error|抽样误差]]结构）为分析单位，旨在估计宏观领域效应量基准、比较不同[[Construct|理论构念]]与干预维度的相对有效性，并识别全领域效应[[Heterogeneity|异质性]]的深层来源。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 436)]]; [[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 2)]]
 
-## 术语演变
+> [!method-scope] 方法范围
+> - **研究对象** 已发表或灰色文献中关于特定主题的系统评价与一阶元分析汇总效应量矩阵。
+> - **问题类型** 评估跨领域宏观效应量强度、检验不同理论构念或干预模式的相对差异、探索出版偏倚与方法学质量的[[Interaction Effect|调节效应]]。
+> - **分析单位** 纳入的一阶元分析或其报告的独立一阶效应量集群（Clusters）。
+> - **输出形式** 经小研究效应偏倚校正后的二阶总体效应量点估计值（$r$ 或 $g$）、95% [[Confidence Interval|置信区间]]（CI）、95% 预测区间（PI）及多水平二阶[[Meta-regression|元回归]]调节系数。
 
-> [!note]- 术语演变
-> 这一方法在[[Document|文献]]中有多种命名，反映了不同研究者的立场和侧重点([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])：
+> [!citation-card]- 关键定义
+> 二阶元分析在大样本水平上整合多重一阶元分析，采用[[AMSTAR|系统评价质量评估工具]]与多水平[[Robust Variance Estimation|稳健方差估计]]，能够克服单一研究局限，提供高度稳健且具备[[External Validity|可推广性]]的效应量基准。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–5)]]
 >
-> | 术语 | 提出者/使用者 | 含义侧重 |
-> |------|-------------|---------|
-> | meta-[[Meta-analysis]] | Kazrin et al. (1979) | 强调对元分析的再分析 |
-> | mega-analysis | Smith (1982) | 强调规模上的扩展 |
-> | super-analysis | Dillon (1982) | 强调层级上的超越 |
-> | super-synthesis | Sipe & Curlette (1996) | 强调综合过程 |
-> | meta-synthesis | Sipe & Curlette; [[Argument_Higgins_2016_RE\|Higgins (2016)]] | 当前较通用的术语 |
-> | second-order meta-analysis (SOMA) | Schmidt & Oh (2013) | 强调估计一阶元分析之间的二阶[[Sampling Error\|抽样误差]]并采用多水平稳健方差模型进行精确校正 |
->
-> Higgins区分了两种不同的用法：一些研究者将元分析作为单位来研究元分析过程本身的统计特征（如 Ioannidis & Trikalinos, 2007; Lipsey & Wilson, 1993）；另一些则试图将不同元分析合并为关于更一般主题的单一信息（如 Hattie, 1992; Marzano, 1998）。后者面临更深层的可比性挑战。
+> *Second-order meta-analyses synthesize the findings of previous meta-analyses to provide a higher-order summary of evidence... controlling for dependencies through cluster-robust variance estimation.*
 
 ---
 
-## 历史发展
+## 方法定位与层级结构
 
-> [!note]- 历史发展
-> **Fraser, Walberg & Hattie（1987）——首次大规模元综合**
->
-> Glass 创造[[Meta-analysis|元分析]]术语 10 年后，Fraser、Walberg and Hattie 团队综合了 226 项元分析，以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的 aptitudinal、instructional 和 environmental [[Variable|变量]]。这是教育领域最早的系统性元综合之一，展示了[[Meta-analysis|元分析]]作为新方法的快速普及([[Argument_Higgins_2016_RE|Higgins, 2016, pp.41–42]])。
->
-> **Hattie（1992）——"通用连续体"**
->
-> Hattie 综合了 Fraser et al.（1987）中的 134 项元分析，涵盖 22,155 个[[Effect Size|效应量]]、7,827 项原始研究和 500–1500 万学生。他引入"通用连续体"（universal continuum）概念，以标准差单位为尺度将元综合结果置于同一量表上。平均效应量为 0.40（标准差 0.13）。最大效应量来自反馈相关干预（强化 1.13、补救与反馈 0.65、掌握学习 0.50），最低来自[[Individualised Instruction|个别化教学]]（0.14）。Hattie 得出三个结论：创新可以改善学习；反馈是最强大的单一影响；最不成功的创新是试图个别化教学的尝试([[Argument_Higgins_2016_RE|Higgins, 2016, p.42]])。
->
-> **Sipe & Curlette（1997）——系统性方法论推进**
->
-> Sipe & Curlette 在方法论上更进一步：进行系统搜索、应用严格纳入标准（从 427 项中排除 324 项）、描述纳入研究的方法论和情境特征，并进行[[Moderator Analysis|调节变量分析]]。他们估计其纳入的元分析与 Fraser et al.和 Hattie的重叠不到 10%([[Argument_Higgins_2016_RE|Higgins, 2016, p.43]])。
->
-> **Marzano（1998）——理论驱动的元综合**
->
-> Marzano 为 McREL 发表了综合 100 多项元分析的报告，涵盖 4000 多个实验-控制组比较。其关键贡献是批评"品牌名"聚合做法——用宽泛标签代表包含多种活性成分的复杂干预——并按四层学习系统（知识、认知、[[Metacognition|元认知]]、自我系统）分类教学策略，追求课堂[[Praxis|实践]]的可操作性。
->
-> > [!warning] "品牌名"聚合的具体案例
-> > Marzano 以 Athappilly et al.（1983）的"现代数学"元分析为例。该元分析被纳入 Fraser et al.，其中"现代数学"这个品牌名下包含多种不同成分：
-> > - 使用操作教具，[[Effect Size|效应量]] 0.51
-> > - [[Direct Instruction|直接教学]]概念和原理，效应量 0.35
-> > - 使用探究方法，效应量 0.04
-> >
-> > 将这些聚合为单一品牌，掩盖了关于教学有效性的关键发现。更细粒度的类别才能为教师的课堂实践提供足够具体的指导。
->
-> **Hattie（2008）——[[Visible Learning]]**
->
-> Hattie 综合 800 多项元分析，发现平均效应量仍约为 0.4——他将此作为判断"什么有效"的关节点（hinge point）。这一稳定性本身引发讨论：它既可能代表教育干预的典型效果，也可能反映元分析方法的系统性特征([[Argument_Higgins_2016_RE|Higgins, 2016, pp.43–44]])。
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 秉持累积性[[Positivism|实证主义]]与多水平层次证据观，认为通过对多个独立[[Meta-analysis|元分析]]的系统加权与聚类方差建模，能够逼近真实总体的宏观效应并识别理论边界。
+> - **研究者角色** 研究者必须执行严格的先验检索方案（PRISMA）、独立的双人方法学[[Coding in Qualitative Research|编码]]（[[AMSTAR]]）以及对一阶[[Effect Size|效应量]]依赖结构的客观建模，避免主观证实偏差。
+> - **有效性标准** 遵循统计结论效度（通过 CHE 与 [[Robust Variance Estimation|RVE]] 校正[[Standard Error|标准误]]膨胀）、[[Internal Validity|内部效度]]（检验主要研究重叠与偏倚传播）及[[External Validity|外部效度]]（大样本全领域覆盖）。
+> - **不声称回答的问题** 不能脱离一阶研究的质量上限凭空消除测量偏倚；不能单凭边际效应量排名直接推断复杂教育情境中的因果充分性。
+
+> [!contrast-table] 一阶元分析 vs 传统元综合 vs 现代多水平二阶元分析
+> | 比较维度 | 一阶元分析（Meta-analysis） | 传统元综合（如早版 Hattie） | 现代多水平二阶元分析（[[Argument_Runco_2026_CRJ\|Runco et al., 2026]]） |
+> |---|---|---|---|
+> | **分析单位** | 原始实证研究（Primary Studies） | 已发表一阶元分析的汇总 $d$ | 一阶元分析汇总效应量及其多水平依赖集群 |
+> | **质量准入** | 原始研究设计筛选 | 粗放纳入、声称不关心质量 | 严格基于 AMSTAR 12 项准则设定质量门槛（$\ge 0.75$） |
+> | **统计模型** | 单级固定效应 / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | 伪固定效应模型、简单未加权平均 | 相关与层级效应工作模型（CHE）+ 稳健方差估计（RVE） |
+> | **偏倚控制** | 漏斗图、经典艾格回归 | 无偏倚检验与校正 | 多水平改进艾格回归（Multilevel Egger's Test）截距校正 |
+> | **核心目的** | 检验具体干预或相关关系的平均效应 | 建立宏观排名联盟表（League Table） | 估计宏观效应基准、分解全领域[[Heterogeneity\|异质性]]、检验理论调节模型 |
 
 ---
 
-## 认识论立场
+## 历史演变与范式演进
 
-> [!abstract] [[Epistemology|认识论]]立场
-> 元-[[Meta-analysis|元分析]]共享[[Meta-analysis|元分析]]的经验主义认识论[[Hypothesis|假设]]——通过对多项研究的[[Effect Size|效应量]]进行统计平均产生可靠知识——但在更高的抽象层次上操作。从[[Critical Realism|批判实在论]]的三层[[Ontology|本体论]]（实在/实际/经验）来看，元-元分析停留在"经验"层面的第三级聚合——原始研究的经验数据被元分析聚合一次，元分析的聚合结果再次被聚合——每一级都进一步远离了"实在"层面的因果机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])。
+> [!phase] 二阶[[Meta-analysis|元分析]]的四个发展阶段
 >
-> [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]从认识论角度提出根本性质疑：将已聚合的结果再次聚合在原则上是否合理——"当然可以通过不同渠道累积金钱并将不同货币汇集在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？"
+> - **早期探索与教育生产力模型检验（1980s）**
 >
-> Wecker, Vogel & Hetmanek（2016, p.33）从方法论角度补充：即使二级汇总本身执行正确，也无法纠正一级中的偏差——"随后不能在一级元分析中纠正的也将是"——这一误差传播特性意味着元-元分析的[[Reliability|可靠性]]受到其纳入的每一项元分析质量的硬性约束。
-
-## 操作步骤
-
-> [!example] Hattie 的元-[[Meta-analysis|元分析]]程序
-> [[Argument_Terhart_2011_JCS|Terhart (2011, pp.426–428)]]描述了 Hattie 的操作步骤：
+>   Glass 提出元分析 10 年后，Fraser, Walberg & Hattie（1987）首次综合了 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]，涵盖数千项原始研究，开创了跨元分析大规模统计汇总的先河。[[Argument_Higgins_2016_RE|(Higgins, 2016, pp. 41–42)]]
 >
-> 1. **确定影响因素分组** 将影响因素分为 6 组——学生、家庭、学校、教师、课程、教学方法（各组平均[[Effect Size|效应量]]分别为 0.40, 0.31, 0.23, 0.49, 0.45, 0.42，见表 1, p.428）
-> 2. **收集已发表的[[Meta-analysis|元分析]]** 在每组下收集所有可及的元分析
-> 3. **计算每个因素的"平均效应量"** 从每个元分析中提取或计算效应量 d，汇总为该因素的单一效应量
-> 4. **构建"影响气压计"（barometer of influence）** 将每个因素的效应量可视化呈现，分为四个区域——负面效应区（d < 0）、发展效应区（0.0–0.15）、教师效应区（0.15–0.40）、期望效应区（d > 0.40，即"关节点"hinge point）
-> 5. **排名** 将所有 138 个因素按效应量从高到低排名
-
-
-> [!example] [[Fixed-Effect and Random-Effects Models|固定效应模型]]的数学基础与方法论要求
-> Wecker, Vogel & Hetmanek（2016, pp.24–26, 37–38）从固定效应模型（Fixed-Effect Model）的数学基础出发，系统推导了二级元分析必须满足的方法论要求，并提供了完整的数学等价性证明。详见 [[Argument_Wecker_2016_ZfE]]。
+> - **大一统通用连续体与气压计排名（1990s–2000s）**
 >
-> #### 数学模型
+>   Hattie（1992, 2008）综合 800 多项元分析（涵盖 5 万多项研究、8000 多万学生），建立标准差单位的通用连续体（Universal Continuum），提出 $d = 0.40$ 的影响气压计关节点并生成 138 项干预排名，使二阶综合进入全球政策话语，但也因未加权平均与忽略研究重叠引发了广泛的方法论批评。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 427–428)]]
 >
-> 当 Hattie 声明"应用了固定效应模型"（Hattie, 2009, p.12）时，他从方法论上承诺了一个特定的数学模型。核心[[Hypothesis|假设]]：固定效应模型假设所有主要研究估计同一个恒定的"真实"效应量——观察到的不同效应量仅由主要研究内的[[Sampling Error|抽样误差]]造成（Hedges & Olkin, 1985, p.107; Borenstein et al., 2009, p.63）。主要研究按其精度加权——精度定义为效应量方差的倒数。
+> - **理论驱动的构念精细化分类（1998）**
 >
-> **第一级：元分析 j 内主要研究效应的汇总**
+>   Marzano（1998）综合 100 多项元分析，系统批评了将不同干预成分打包为粗放品牌名（Brand-name）聚合的做法，提出按认知、[[Metacognition|元认知]]、自我系统等四层学习机制细化分类，推动元综合走向机制解释。[[Argument_Higgins_2016_RE|(Higgins, 2016, pp. 42–43)]]
 >
-> > **公式 (1)** $w_{ji} = 1 / v_{ji}$，其中 $v_{ji}$ = 主要研究 $i$ 中效应量 $d_{ji}$ 的方差
-> >
-> > **公式 (2)** $d_j = \frac{\sum_{i=1}^{k_j} w_{ji} d_{ji}}{\sum_{i=1}^{k_j} w_{ji}}$
-> >
-> > **公式 (3)** $v_{d_j} = 1 / \sum_{i=1}^{k_j} w_{ji}$
+> - **现代多水平稳健统计推断模型（2013–至今）**
 >
-> **第二级：跨元分析的效应汇总**
->
-> > **公式 (4)** $w_j = 1 / v_{d_j}$
-> >
-> > **公式 (5)** $d = \frac{\sum_{j=1}^{m} w_j d_j}{\sum_{j=1}^{m} w_j}$
-> >
-> > **公式 (6)** $v_d = 1 / \sum_{j=1}^{m} w_j$
->
-> #### 等价性证明
->
-> 将公式 (4) 和 (3) 代入公式 (5)，再将公式 (2) 代入，得到：
->
-> > **公式 (7)** $d = \frac{\sum_{j=1}^{m} \left(\sum_{i=1}^{k_j} w_{ji}\right) d_j}{\sum_{j=1}^{m} \left(\sum_{i=1}^{k_j} w_{ji}\right)}$
-> >
-> > **公式 (8)** $d = \frac{\sum_{j=1}^{m} \sum_{i=1}^{k_j} w_{ji} d_{ji}}{\sum_{j=1}^{m} \sum_{i=1}^{k_j} w_{ji}}$
-> >
-> > **公式 (9)** $d = \frac{\sum_{\text{all } i} w_i d_i}{\sum_{\text{all } i} w_i}$
->
-> 公式 (9) 与对所有主要研究直接进行单级固定效应元分析的公式在形式上完全相同。
->
-> **等价性证明的关键含义** 当且仅当所有一级元分析使用的**主要研究互不重叠**时，二级元分析才等同于一级元分析。如果同一项主要研究的数据通过多个元分析路径进入二级汇总，则违反了统计独立性假设——该研究的数据被多次计数，人为降低了[[Standard Error|标准误]]，效应量被不成比例地影响([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.27–28]])。
->
-> #### 6 项方法论要求
->
-> 从上述数学模型出发，Wecker 等人推导出 6 项要求（pp.24–26, Table 1）：
->
-> **要求 1（效应量与方差的正确确定）**
-> - 选择统一的效应量测度（推荐 Hedges' g）
-> - 正确计算合并标准差：$SD_{pooled} = \sqrt{\frac{(n_E - 1)SD^2_E + (n_C - 1)SD^2_C}{n_E + n_C - 2}}$
-> - 正确区分标准误（$SE = SD/\sqrt{n}$）与标准差（SD）
-> - Fisher's z 转换必须执行：$z = \frac{1}{2}\ln\left(\frac{1+r}{1-r}\right)$
->
-> **要求 2（一级加权估计）** 按精度反比加权（wⱼᵢ = 1/vⱼᵢ），不能使用简单算术平均值。
->
-> **要求 3（非重叠主要研究）** 纳入的元分析必须基于互不重叠的主要研究集，否则违反统计独立性。
->
-> **要求 4（一级元分析效应量与方差的可用性）** 每个一级元分析必须提供联合效应量估计值 dⱼ 及其方差/标准误/[[Confidence Interval|置信区间]]。
->
-> **要求 5（二级加权估计）** 使用精度反比（wⱼ = 1/v_dⱼ）对一级元分析加权，不能使用简单算术平均值。
->
-> **要求 6（联合标准误和置信区间）** SE_d = √(1/Σwⱼ)，95% CI = d ± 1.96·SE_d，必须进行显著性检验。
->
-> #### [[Reliability|可靠性]]分析：要求违背的后果
->
-> | 违背类型 | 对 d 的影响 | 对 SE_d 的影响 | 可靠性后果 |
-> |---------|------------|--------------|-----------|
-> | 效应量测度混合 | 不可预测 | 无直接影响 | 跨元分析汇总失去意义 |
-> | SE/SD 混淆 | 可放大或缩小数倍（案例：d 从 ~−0.80 → −8.29） | 连锁错误 | 极端值扭曲平均值 |
-> | 未加权平均 | 高估或低估 | 系统性低估 SE_d | 估计非最优；p 值和 CI 错误 |
-> | 重复数据 | 被重复计算的数据不成比例影响 d | 系统性低估 SE_d | CI 过窄；显著性检验膨胀 |
-> | 方差缺失 | 无法确定 | 无法确定 | 效应量无精度信息 |
-> | 二级未加权 | 幅度可能更大（两级偏差复合） | 系统性低估 | 排名可能对调（案例：d=0.59→0.23，#26→#98） |
-> | 标准误武断设定 | 无直接影响 | 人为限制 SE（0.05 下限） | CI 不可靠；显著性不可解释 |
->
-> **误差传播特性** 一级元分析中的偏差（效应量测度混合、SE/SD 混淆、未加权汇总）在二级汇总时作为"输入"进一步复合——即使二级本身执行正确，也无法纠正一级的偏差([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.33]])。
->
-> **固定效应模型的根本性限制** 即使所有 6 项要求都被满足，固定效应模型的假设——所有研究估计同一恒定真实效应——在教育研究中几乎从不成立。"鉴于通常不同的教学主题、不同实现的方法——在初级研究之间从一开始就比假设一个共同常数更合理"([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.32]])。随机效应模型在方法论上更适当，但 Hattie 的数据基础（每个因素平均仅 ~63 项一级元分析）不足以估计 τ²([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.32–33]])。
+>   Schmidt & Oh（2013）提出二阶[[Sampling Error|抽样误差]]估计理论；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]在[[Creativity|创造力]]研究中确立了由 PRISMA 检索、[[AMSTAR]] 方法学评估、[[Effect Size|效应量]]正态化转换、CHE 多水平工作模型与 [[Robust Variance Estimation|RVE]] 三明治估计量组成的现代二阶元分析规范[[Paradigm|范式]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–6)]]
 
 ---
 
-## 适用场景
+## 现代二阶元分析研究程序
 
-> [!success] 适用场景
-> - 当某一研究领域已积累大量[[Meta-analysis|元分析]]，再做新的元分析只是"more of the same"时，元-元分析提供了更高层次的综合视角([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
-> - 适合为政策制定者和[[Praxis|实践]]者提供关于"什么有效"的宏观概览——[[EEF Teaching and Learning Toolkit]]和[[Visible Learning]]是这一用途的标志性产物
-> - 在 Hattie 的自我解释中，二级综合还承担一种”生成问题”的功能：它把大量正向但分散的教育研究结果放到同一张地图上，使教师和研究者继续追问为什么某些影响更强、哪些条件改变平均效果、哪些解释可以被反驳（Hattie, 2015, pp.9-15）。这一用法比直接照排名决策更谨慎。
-
-> [!note]- 推论层级的约束
-> [[Argument_Higgins_2016_RE|Higgins (2016)]]区分了两种不同的跨元分析比较。**[[Comparative Meta-synthesis|比较性元分析]]**是在单一元分析中纳入多种干预以识别哪种更有效，回答的是”X 是否比 Y 更有效”。**[[Comparative Meta-synthesis|比较性元综合]]**是通过跨元分析比较来得出推论。两者都面临”苹果和橙子”批评的升级版([[Argument_Higgins_2016_RE|Higgins, 2016, pp.40–41]])。
->
-> 推论的层级约束可以通过具体例子说明。Graham et al.（2012）关于小学生写作教学的元分析表明，教授写作策略、在策略教学中加入自我调节、教授文本结构、使用[[Creativity|创造力]]和意象教学、教授[[Transcription in Qualitative Research|转录]]技能，都是有效改善写作的重要特征。但无法确定这些策略的具体组成部分，也无法确定创造力和意象使用的哪些方面是有益的。在苹果和橙子的类比中，这类似于讨论水果的共同特征（如种子用于繁殖），但无法得出关于橙子特有性质（如瓣状结构、多汁果肉）的结论([[Argument_Higgins_2016_RE|Higgins, 2016, p.41]])。
+> [!proc] 现代二阶[[Meta-analysis|元分析]]六步标准操作规程
+> 1. **多数据库系统检索与灰色[[Document|文献]]扩展** 检索主流学术数据库与博硕士论文库，遵循 PRISMA 声明进行四阶段筛选，严格排除缺乏定量合并矩阵的质性综述与无关系[[Effect Size|效应量]]的坐标元分析。
+> 2. **[[AMSTAR]] 12 项方法学质量评估** 采用改编的 AMSTAR 准则进行双人独立[[Coding in Qualitative Research|编码]]（一致率 $\ge 95\%$），设定得分阈值（如 $\ge 0.75$）作为高质量指示[[Variable|变量]]。
+> 3. **效应量标准化转换与正态化** 将不同一阶指标统一转换为[[Pearson Product-Moment Correlation|皮尔逊相关]]系数 $r$ 或标准化均值差 $g$，运用 Fisher's $z$ 变换实现方差稳定化。
+> 4. **多水平 CHE 与 [[Robust Variance Estimation|RVE]] 稳健方差建模** 设定集群内相关系数（$\rho = 0.8$），运用经验残差构造三明治估计量，计算稳健[[Standard Error|标准误]]与小样本 $F$ 检验。
+> 5. **多水平改进艾格回归偏倚检验与校正** 检验小研究效应并根据回归模型截距输出偏倚校正后的二阶效应量点估计值与[[Confidence Interval|置信区间]]。
+> 6. **二阶[[Meta-regression|元回归]]与亚组调节变量检验** 纳入[[Construct|理论构念]]类型、[[Independent Variable|自变量]]/[[Dependent Variable|结果变量]]角色、研究设计等调节变量，全面分解效应[[Heterogeneity|异质性]]来源。
 
 ---
 
-## 局限性
+## 核心统计模型与数学公式
 
-> [!warning] 局限性
-> 元-[[Meta-analysis|元分析]]面临的批评覆盖了从概念基础到具体案例的多个层面，以下按主题分组，组内按时间排序。
-
-
-> [!warning] 概念基础：被聚合对象不测量有效性
-> **[[Argument_Simpson_2017_JEP|Simpson (2017)]]——联盟表是"研究设计操纵开放程度"的排名。** [[Argument_Simpson_2017_JEP|Simpson (2017, pp.5, 14–15)]]论证：三个系统性偏差（比较组不对等、范围限制、测量设计）随研究领域系统性变化——反馈和[[Metacognition|元认知]]研究容易使用无反馈比较、限制样本、设计聚焦测试；延长学校日或校服研究无法如此。因此，[[Effect Size|效应量]]排名高的领域仅说明研究者**更容易设计低噪声试验**，而非干预更具教育影响力。
->
-> > "Areas which rank highly in Marzano (1998), Hattie (2009) and Higgins et al. (2013) are those in which researchers can design more sensitive experiments." ([[Argument_Simpson_2017_JEP|Simpson, 2017, p.2]])
->
-> > 例：反馈研究的效应量系统性高于早期[[Intervention Research|干预研究]]——不是因为反馈更有效，而是因为反馈研究者可以轻松设计高度聚焦的测试（仅 9/68 个效应量使用标准化测试），而早期干预研究者几乎必须使用标准化测量（37/39 个效应量）([[Argument_Simpson_2017_JEP|Simpson, 2017, pp.13–14]])。
->
-> 以这些排名驱动公共政策是"误导"：标准ised效应量是**研究工具**而非**政策工具**——"these meta-meta-analyses which order areas on the basis of effect size are thus poor selection mechanisms for driving educational policy and should not be used for directing large portions of a country's education budget"([[Argument_Simpson_2017_JEP|Simpson, 2017, p.15]])。详见 [[Effect Size#Simpson (2017) 的三大系统性偏差：原始论证]]、[[Argument_Simpson_2017_JEP]]。
->
-> **[[Argument_Simpson_2019_ERE|Simpson (2019)]]——对一个已无效的指标进行更高级的统计操作。** [[Argument_Simpson_2019_ERE|Simpson (2019, pp.105–106)]]将 2017 年的论证推进为更一般的陈述：[[Effect Size|效应量]]不是教育有效性的测量而是试验清晰度的测量——将元分析再聚合成元-元分析，是对一个已经无效的指标进行更高级的统计操作。详见 [[Effect Size#Simpson (2019) 的思想实验：教一个匈牙利单词]]、Argument_Simpson_2019_ERE。
-
-
-> [!warning] 技术方法论缺陷
-> **LeLorier et al.（1997）——偏倚在聚合层级间传播。** LeLorier et al.（1997, p.536）在医学元分析[[Document|文献]]中最早警告："汇总结果纳入了个别研究的偏见，并体现新的偏见来源，主要是因为研究的选择和不可避免的[[Heterogeneity|异质性]]"（引自 O'Connor, 2020, p.147）。二级聚合中的偏见不仅继承自一级元分析的偏见，也在聚合决策（选择哪些元分析、如何加权、如何分类）中产生**新的偏见([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])**。
->
-> **[[Argument_Allerup_2015_Paideia|Allerup (2015)]]——排名未报告[[Confidence Interval|置信区间]]与统计前提检查。** 二级综合若只发布 d 的点估计，而不报告置信区间、[[Standard Error|标准误]]或相邻排名之间的显著性检验，就无法判断相邻干预是否真的不同。[[PISA]] 排名至少会用横向置信区间标出国家均值估计的误差范围；Hattie 的列表则没有类似信息，因此 d=0.71 与 d=0.72 这样的相邻差异可能只是估计误差([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.47–48]])。d 的解释还需要近似正态分布、相同标准差和可被理解为"均值平移"的分布结构；偏态分布、干预后离散度改变或 Cauchy 型厚尾分布都会削弱效应量的可解释性([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]]]])。
->
-> 元-元分析中的单一边际效应量可能把第三[[Variable|变量]]误读为干预影响。TIMSS 2011 丹麦四年级数学中，教师学科专业资格的未控制效应量约为 0.15；加入学生社会经济背景作为协变量后，控制效应量降至 0.08 且不再显著([[Argument_Allerup_2015_Paideia|Allerup, 2015, pp.49–51]])。这说明排名表不仅受一级元分析质量影响，也受每项研究是否采用边际分析或多变量模型影响。
->
-> **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]——6 项方法论要求的系统性违背。** Wecker, Vogel & Hetmanek（2016）以[[Fixed-Effect and Random-Effects Models|固定效应模型]]为数学基准，推导了二级元分析必须满足的 6 项方法论要求（详见上方[[#6 项方法论要求]]），并证明 Hattie 的 *[[Visible Learning]]* 在所有六个分析步骤中均存在方法论不足([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.26–30]])。关键发现：
->
-> - **SE/SD 混淆** 在个别一级元分析的主要研究中，[[Standard Error|标准误]]被错误地当作标准差使用——例如 Eisenstaedt 等人（1990）中控制组 SE=2.74 被当作 SD 处理，导致效应量从约 −0.80 变为 −8.29([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.26–27]])
-> - **效应量测度混合使用不做转换** Hattie 交替使用 Cohen's d、Hedges' g、Glass' Δ 和 Fisher's z，但二级汇总时直接合并而不做相互转换——"如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的"([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.27]])
-> - **声称固定效应模型但实际使用未加权平均** 正确加权后效应量从 0.59 变为 0.23，排名从 #26 跌至 #98([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp.29–30]])
-> - **误差传播** 一级中的偏差在二级汇总时作为"输入"，即使二级本身执行正确也无法纠正一级的偏差([[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p.33]])
->
-> 详见 [[Argument_Wecker_2016_ZfE]]。
->
-> **[[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017)]]——三种效应量公式的不可比性。** [[Argument_Bergeron_2017_MJE|Bergeron & Rivard (2017, pp.241–245)]]构造受控数值示例，证明组间比较、前后比较和相关转换三种公式对同一组数据产生不可调和的矛盾排名——详见 [[Effect Size#三种效应量公式及其不可比性]]。在元-元分析层面，这意味着 Hattie 混合使用了回答不同问题、使用不同分母的效应量，而二级汇总未做任何校正([[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, p.241]])。
->
-> **[[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]]——方法论不透明与读者无法验证。** Johnson & Janzen对 Hattie 的元-元分析进行了直接的透明度批判，其独特贡献在于**从读者视角**展示了方法论的不透明性如何使普通教育者无法验证其主张：
->
-> - **[[Homework|家庭作业]]效应量的逐步重构** Hattie 声称综合了 5 项元分析（161 项研究、10 万多名学生）得出 d=0.29。Johnson & Janzen 通过手动搜索附录 A 找到了 5 个被隐藏的 Cohen's d 值（d=0.36, 0.21, 0.39, 0.21, 0.28），确认算术平均为 0.29，但指出 5、161、100,000 这些数字实际上并不构成 d=0.29 的计算基础，后者只是未声明数值的平均([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp.25–26]])
-> - **不透明与伪科学的关联** 伪科学工作的特征是既放大其数学 sophistication 又模糊其本质，而《可见的学习》的方法论章节篇幅极短却声称找到了教育的"圣杯"([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.26]])
-> - **普通教育者无法验证** 一般的中小学教育者不太可能有时间、技能或渠道来挑战 Hattie 的主张
-> - **Glass & Smith (1979) 效应量提取不透明** 详见 [[Class Size#Johnson & Janzen (2023) 的五层拆解]]。《可见的学习》从 Glass & Smith 的最大规模班级规模元分析中提取的 d=0.09 并非 Glass & Smith 自己报告的值([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.32–33]])
-
-
-> [!warning] 信息损失与数据库质量
-> **[[Argument_Snook_2009_NZJES|Snook et al. (2009)]]——"质量就是一切"。** [[Argument_Snook_2009_NZJES|Snook et al. (2009, p.94)]]在《可见的学习》出版同年就指出：Hattie 声称不关心 800 项研究中包含的研究质量——"但是，质量就是一切"。任何未排除低质量或不当研究的元分析都是误导性的，如果导致不明智的政策发展则可能具有破坏性。
->
-> **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——信息损失与失真。** [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]识别了元-元分析最根本的局限——**通过反复累积，原始的详细经验信息系统性消失**。具体表现为：原始研究的情境细节被元分析消除；元分析的调节变量信息在二级聚合中进一步消失；不同质[[Quantitative Research|量的研究]]在各级聚合中被等同对待。
->
-> > "你能用来自不同项目、不同方法的研究结果做同样的事吗？……还是你累积的越多，在更低分析层次已被累积的东西越多，证据的稳健性就越降低？"
->
-> **Terhart——数据库质量异质性与纳入标准不透明。** 三个具体问题([[Argument_Terhart_2011_JCS|Terhart, 2011, pp.428–429]])：(1) **质量异质性**——纳入的元分析"可能有且确实有不同的针对个体研究的严格纳入标准"，数据库的纯粹规模令人印象深刻但质量非常异质；(2) **纳入标准不透明**——Hattie 未"向读者提供关于他在决定某研究是否纳入时使用的质量标准的准确信息"；(3) **时效性问题**——多数元分析来自 1980s–1990s，考虑原始研究平均约 5 年前发表，"原始数据库的大部分大概不是最新的"。
-
-
-> [!warning] [[Epistemology|认识论]]困境与角色争议
-> **[[Argument_Terhart_2011_JCS|Terhart (2011)]]——稳定性与变异性的双重困境。** [[Argument_Terhart_2011_JCS|Terhart (2011, p.436)]]提出了元-元分析的根本困境：(1) **稳定性假说**——许多因素的结果已高度稳定，进一步研究只会渐近逼近已知结论，"继续这个过程到什么时候才有意义？"；(2) **变异性假说**——某些领域的发现已过时（如 Hattie 关于教师教育影响的元-元分析在《可见的学习》出版时已被新的研究结果超越）。由于元-元分析同时支持两种假说，"很明显 Hattie 事实上没有找到圣杯"。
->
-> **[[Argument_Wiliam_2019_ERE|Wiliam (2019)]]——元-元分析在教育政策中绝对没有任何角色。** [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.11)]]做出了[[Evidence-Based Education|证据本位教育]]批判文献中对元-元分析最彻底的否定：
->
-> > "将多个元分析的结果通过效应量的某种加权合并——即所谓的元-元分析——在教育政策制定中绝对没有任何角色。"
->
-> Wiliam 同时提出了评估元分析是否值得严肃对待的 11 点检查清单（详见 [[Meta-analysis#评估清单]]），并以其核心论证——教育知识是局部且临时的（[[Goldman's Discrimination Theory of Knowledge]]）——说明元-元分析承诺的"累积性知识进步"在原则上不可能实现([[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.10–11]])。
-
-
-> [!warning] [[Whole Language|全语言]]案例：一个元-元分析如何从内部瓦解
-> [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]拆解了 Hattie 在 *[[Visible Learning]]* 中得出"[[Whole Language|全语言]]效应量 d=0.06"的全过程，为批评者关于"先验偏见驱动数据选择"的论点提供了系统性文本证据。详见 [[Argument_OConnor_2020_AJLL]]。
->
-> **起点：四个数字，一次简单平均**
->
-> 《可见的学习》纳入的四项"全语言"元分析及其效应量：
->
-> | 元分析 | Hattie 使用的 d |
-> |--------|----------------|
-> | Stahl & Miller (1989) | 0.09 |
-> | [[Steven Stahl\|Stahl]], McKenna & Pagnucco (1994) | 0.15 |
-> | Gee (1995) | 0.65 |
-> | Jeynes & Littell (2000) | −0.65 |
->
-> Hattie 将它们相加除以 4 → d = 0.06，据此宣布全语言"对学习阅读的影响可忽略不计"——未对元分析的研究数量、质量或规模进行任何加权([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.145]])。
->
-> **第一项元分析：研究的是另一回事。** Stahl & Miller的标题明确包含"Whole language **and language experience** approaches"。它包含 1960 年代早期和中期的研究——在全语言运动 1970 年代首次出现之前。Stahl 本人在五年后承认将[[Language Experience Approach|语言经验法]]等同于全语言是"时代错误的"（anachronistic），并明确排除了纯粹涉及语言经验法的研究。Hattie 在《可见的学习》中对此只字不提([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.144–145]])。
->
-> **第二项元分析：Jeynes & Littell 的 −0.65——极端异常值，不加审视。** Jeynes & Littell的 d=−0.65 是《可见的学习》800 多项元分析中仅有的两个低于 −0.5 的效应量之一。Hattie 未做审查([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.146]])。
->
-> *被掩盖的正面发现*：Jeynes & Littell 自己区分了四类全语言研究，其中被定义为"全语言热衷者会同意"的 2 项"纯粹"全语言研究效应量为 d=0.83。Hattie 只报告了四类汇总的总体负值。
->
-> *Krashen 的重新计算*：Krashen（2002）逐项检查后发现多项效应量计算错误([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.147]])：
->
-> | 研究 | Jeynes & Littell 的 d | Krashen 重算的 d |
-> |------|----------------------|-------------------|
-> | Hoffman (1976) | −0.23 | +0.68 |
-> | Lamb (1972) | −0.75 | +0.44 |
-> | Harris & Serwer (1966) | −0.51 | +0.18 |
->
-> Krashen 的结论与 Jeynes & Littell "几乎完全相反"。该批评发表于 2002 年，比《可见的学习》早 7 年，Hattie 未提及。
->
-> *作者背景*：[[William Jeynes|William H. Jeynes]] 是福音派牧师、God's Love Ministries 创始人，与共和党关系密切，曾进入 Trump 教育部长候选名单。Jeynes 的 −0.65 不仅是一个统计异常值——它嵌入了特定的政治议程([[Argument_OConnor_2020_AJLL|O'Connor, 2020, pp.147–148]])。
->
-> **第三项元分析：Gee 的 +0.65——唯一被 Hattie 动手修改的。** Gee报告 d=+0.65。Hattie 以其中三项研究"包含系统语音和单词学习"为由将其删除，将效应量修正为零。但全语言理论家早已撰写了大量关于在全语言框架内教授语音技能的专著——在有意义的语境中教技能恰恰是全语言的核心[[Praxis|实践]]([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.148]])。
->
-> **关键的对比** 在《可见的学习》800 多项元分析中，**仅此一项**——发现全语言有正面效果——被 Hattie 通过选择性删除研究修正了效应量。对报告极端负面效果的 Jeynes & Littell，他未做任何审查。这种不对称审查模式是  [[Cargo Cult Science]] 在方法论层面的具体表现——只修正支持自己预设结论的证据，对支持相反结论的证据不加审视。
->
-> **Hattie 自己的话** "当前对证据本位的痴迷往往忽视了研究者用来决定什么要纳入（作为证据）、什么要排除、以及如何整理证据来讲述他们的故事的镜头。故事才是被认为有说服力的贡献——是我在这个证据上的镜头。"（Hattie, 2009, p.237，引自 [[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.142]]）O'Connor 指出这与元分析创始人 [[Gene Glass]]（1976, p.3）的初衷——提供"对研究叙述性讨论的严谨替代方案"——直接矛盾。
+> [!formula-set] 二阶[[Meta-analysis|元分析]]统计推断与加权建模流程
+> ```mermaid
+> flowchart LR
+>   A["一阶元分析效应量 z_ij<br/>(嵌套于一阶元分析 j)"] --> B["三水平方差分解<br/>σ²_3(研究间) + σ²_2(研究内) + V_ij(抽样)"]
+>   B --> C["相关与层级效应工作模型 (CHE)<br/>设定协方差矩阵 V (ρ=0.8)"]
+>   C --> D["稳健方差估计 (RVE)<br/>构造经验三明治估计量 V_R"]
+>   D --> E["多水平艾格回归偏倚校正<br/>估计截距 β_0 与 95% CI/PI"]
+>   E --> F["二阶元回归模型<br/>全变量调节检验 (Wald F 检验)"]
+> ```
 
 ---
 
-## 相关理论
+### 1. 固定效应二级汇总的数学等价性与方法论条件
 
-> [!info] 相关理论
-> - [[Evidence-Based Education|证据本位教育]]的[[Epistemology|认识论假设]] — 元-[[Meta-analysis|元分析]]是该运动最具雄心的方法论工具，其局限也最鲜明地反映了证据本位教育的根本问题([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])
-> - [[Critical Realism|批判实在论]] — 从三层[[Ontology|本体论]]角度揭示：元-元分析在"经验"层面的第三级聚合进一步远离了"实在"层面的因果机制([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.116–117]])
-
----
-
-## 使用此方法的研究
-
-> [!example] 使用此方法的研究
-> - [[Visible Learning]] — Hattie（2009）的 800 多项[[Meta-analysis|元分析]]综合，该方法的标志性应用([[Argument_Terhart_2011_JCS|Terhart, 2011]])
-> - [[EEF Teaching and Learning Toolkit]] — 英国 [[Education Endowment Foundation|EEF]] 以[[Effect Size|效应量]]排名 30+ 类教育干预的联盟表工具([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]])
-> - [[Argument_Wecker_2016_ZfE]] — 从[[Fixed-Effect and Random-Effects Models|固定效应模型]]数学基础对 Hattie 的《可见的学习》进行系统性的内部和外部方法论批判([[Argument_Wecker_2016_ZfE|Wecker et al., 2016]])
-> - [[Argument_Simpson_2017_JEP]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名([[Argument_Simpson_2017_JEP|Simpson, 2017]])
-> - Argument_Simpson_2019_ERE — 以思想实验证明效应量是试验清晰度的测量，元-元分析是对无效指标的高级统计操作([[Argument_Simpson_2019_ERE|Simpson, 2019]])
-> - [[Argument_Wrigley_2019_ERE]] — 以 EEF Toolkit 体育参与案例追踪元-元分析的三级统计失真
-> - [[Argument_OConnor_2020_AJLL]] — 以《可见的学习》[[Whole Language|全语言]]处理为案例的细读审查，揭示分类错误、不对称审查和选择性排除([[Argument_OConnor_2020_AJLL|O'Connor, 2020]])
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 综合 52 项[[Creativity|创造力]]一阶元分析（包含 2609 项原始研究、124 万参与者），运用 CHE 模型与[[Robust Variance Estimation|稳健方差估计]]（RVE）系统检验创造力作为[[Independent Variable|预测变量]]与[[Dependent Variable|结果变量]]的效应差异。
+> [!formula-step] 公式步骤　固定效应二级汇总等价性定理
+> $$d_{\text{second}} = \frac{\sum_{j=1}^{m} w_j d_j}{\sum_{j=1}^{m} w_j} = \frac{\sum_{j=1}^{m} \left(\sum_{i=1}^{k_j} w_{ji}\right) d_j}{\sum_{j=1}^{m} \left(\sum_{i=1}^{k_j} w_{ji}\right)} = \frac{\sum_{\text{all } i} w_i d_i}{\sum_{\text{all } i} w_i}$$
+>
+> **这个公式在做什么** 证明当且仅当所有一阶元分析纳入的主要研究**互不重叠**且严格按精度反比（$w_j = 1/v_{d_j}$）加权时，二级固定效应元分析才在数学上等价于对所有原始研究直接进行的一级元分析。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–28)]]
+>
+> **推导过程与数学原理**
+> 1. 第一级元分析 $j$ 对主要研究 $i$ 进行加权估计：$d_j = \frac{\sum w_{ji} d_{ji}}{\sum w_{ji}}$，其方差为 $v_{d_j} = \frac{1}{\sum w_{ji}}$。
+> 2. 第二级元分析对一阶元分析 $j$ 进行加权估计：$w_j = 1/v_{d_j} = \sum_{i=1}^{k_j} w_{ji}$。
+> 3. 代入二级汇总公式展开即得公式右端：$d_{\text{second}} = \frac{\sum_{\text{all } i} w_i d_i}{\sum_{\text{all } i} w_i}$。
+>
+> **注意事项** 若一级元分析间存在重复研究，该研究的数据被重复计数，人为压缩了[[Standard Error|标准误]]并严重扭曲点估计；因此现代二阶元分析必须采用处理聚类依赖性的多水平模型。
 
 ---
 
-## 替代方案
+### 2. 相关与层级效应工作模型（Correlated and Hierarchical Effects Model, CHE）
 
-
-- **[[Argument_Terhart_2011_JCS|Terhart (2011)]]暗示的方向** (1) 更严格的质量控制和纳入标准透明度；(2) 承认元-[[Meta-analysis|元分析]]结果的根本临时性；(3) 同时关注可以使研究证据过时的新的、不同的发现（变异性假说）([[Argument_Terhart_2011_JCS|Terhart, 2011, p.436]])
-- **[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p.35)]]提出建立中央证据数据库** 以标准化格式收集实证研究的方法和结果（统一使用 Hedges' g），每个元分析发布完整的主要研究表——"通过提供标准化形式的'原始元分析数据'来促进像 Hattie 这样的项目"
-- **Pawson（2006）提出实在论综合（Realist Synthesis）** 基于因果理论（"为什么有效、对谁有效、在什么条件下有效"）而非纯技术标准选择源研究，以揭示效应变异性的分散图景而非单一平均值为输出([[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp.119, 123]])
+> [!formula-step] 公式步骤　CHE 三水平[[Fixed-Effect and Random-Effects Models|随机效应模型]]
+> $$z_{ij} = \beta_0 + \sum_{p=1}^P \beta_p X_{p,ij} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$
+> $$\operatorname{Var}(\zeta_{(3)j}) = \tau_3^2, \quad \operatorname{Var}(\zeta_{(2)ij}) = \tau_2^2, \quad \operatorname{Var}(\epsilon_{ij}) = V_{ij}$$
+>
+> **这个公式在做什么** 将一阶[[Effect Size|效应量]] $z_{ij}$ 的总方差分解为三层：一阶元分析间变异 $\tau_3^2$（Level 3）、同一元分析内不同效应量间变异 $\tau_2^2$（Level 2）以及主要研究已知的抽样方差 $V_{ij}$（Level 1）。
+>
+> **推导过程与数学原理**
+> 1. 考虑来自同一一阶元分析 $j$ 的多个效应量存在相关性，设定集群内相关系数为 $\rho$（通常在敏感性检验中设定 $\rho = 0.8$）。
+> 2. 构建块对角已知抽样协方差工作矩阵 $V_j$，其中对角线元素为 $V_{ijj} = 1/(n_{ij}-3)$，非对角线协方差为 $\operatorname{Cov}(z_{aj}, z_{bj}) = \rho \sqrt{V_{aj} V_{bj}}$。
+> 3. 采用限制极大似然法（REML）联合估计[[Heterogeneity|研究间异质性]]方差分量 $\tau_3^2$ 与 $\tau_2^2$。
+>
+> **结果怎么读** 异质性方差比率 $I_{(3)}^2 = \frac{\tau_3^2}{\tau_3^2 + \tau_2^2 + \bar{V}}$ 与 $I_{(2)}^2 = \frac{\tau_2^2}{\tau_3^2 + \tau_2^2 + \bar{V}}$ 分别反映二阶元分析间与元分析内的真实效应离散比例。
 
 ---
 
+### 3. 稳健方差估计与三明治估计量（Robust Variance Estimation, RVE）
+
+> [!formula-step] 公式步骤　聚类稳健三明治方差估计量
+> $$V_R = \left( \sum_{j=1}^m X_j' W_j X_j \right)^{-1} \left( \sum_{j=1}^m X_j' W_j e_j e_j' W_j X_j \right) \left( \sum_{j=1}^m X_j' W_j X_j \right)^{-1}$$
+>
+> **这个公式在做什么** 在 CHE 工作模型设定的相关系数 $\rho$ 不完全准确甚至协方差结构误设的条件下，基于经验残差向量 $e_j$ 给出渐近无偏、稳健的标准误与[[Hypothesis|假设]]检验结果。
+>
+> **推导过程与数学原理**
+> 1. 设广义最小二乘（GLS）权重矩阵为 $W_j = (\tau_3^2 I + \tau_2^2 J + V_j)^{-1}$。
+> 2. 残差向量定义为 $e_j = z_j - X_j \hat{\beta}$。
+> 3. 利用经验外积矩阵 $\sum X_j' W_j e_j e_j' W_j X_j$ 替代未知的真实协方差矩阵，形成经典的“面包-肉-面包”[[Robust Variance Estimation|三明治估计量]]结构。
+> 4. 配合 Tipton & Pustejovsky（2015）的小样本自由度调整，采用 Hotelling $T^2$ 近似进行稳健 $F$ 检验，有效控制假阳性错误率。
+>
+> **结果怎么读** 即使一阶效应量之间存在未知的复杂交叉重叠，RVE 也能保证[[Confidence Interval|置信区间]]和 $p$ 值的严格可[[Reliability|信度]]。
+
+---
+
+### 4. 多水平偏倚校正艾格回归模型（Multilevel Egger's Test）
+
+> [!formula-step] 公式步骤　多水平艾格回归偏倚检验
+> $$z_{ij} = \beta_0 + \beta_{\text{SE}} \sqrt{V_{ij}} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$
+>
+> **这个公式在做什么** 检验全领域是否存在小研究效应与[[Publication Bias|发表偏倚]]（Publication Bias），并通过回归截距 $\beta_0$ 估计剔除小样本膨胀效应后的无偏二阶效应量。
+>
+> **数学原理与读法**
+> - 若斜率系数 $\beta_{\text{SE}}$ 显著（$p < 0.05$），表明效应量大小与抽样标准误显著正相关，证实存在显著的小研究偏倚；
+> - 截距项 $\beta_0$ 即代表当[[Sampling Error|抽样误差]]趋近于 0（理论无限大样本）时的二阶真实效应量估计值，通过 $\tanh(\beta_0)$ 还原为相关系数汇报。
+
+---
+
+## 软件实现与代码规程
+
+> [!software-impl] R 语言多水平二阶[[Meta-analysis|元分析]]实现代码
+> ```R
+> library(metafor)
+> library(clubSandwich)
+> 
+> # 1. 效应量转换与计算抽样方差（Fisher's z）
+> dat <- escalc(measure = "ZCOR", ri = r_val, ni = n_sample, data = raw_data)
+> 
+> # 2. 构建 CHE 协方差工作矩阵（设定集群内相关系数 rho = 0.8）
+> V_mat <- impute_covariance_matrix(vi = dat$vi, cluster = dat$meta_id, r = 0.8)
+> 
+> # 3. 拟合三水平 CHE 随机效应模型
+> model_che <- rma.mv(yi, V_mat, random = ~ 1 | meta_id / effect_id, 
+>                     data = dat, sparse = TRUE)
+> 
+> # 4. 应用 RVE 稳健方差估计（CR2 小样本校正）
+> robust_res <- coef_test(model_che, vcov = "CR2", cluster = dat$meta_id)
+> 
+> # 5. 多水平二阶元回归调节检验
+> model_reg <- rma.mv(yi ~ predictor_type + study_design + amstar_high, 
+>                     V_mat, random = ~ 1 | meta_id / effect_id, data = dat)
+> robust_reg <- Wald_test(model_reg, constraints = constrain_predictors(model_reg), 
+>                         vcov = "CR2", cluster = dat$meta_id)
+> ```
+
+---
+
+## 方法学局限与学术争议总览
+
+> [!warning] 方法学局限与争议提示
+> 二阶[[Meta-analysis|元分析]]虽然在统计技术上实现了多水平稳健化，但在[[Epistemology|认识论]]和证据应用层面仍面临多重系统性挑战：
+> 1. **试验灵敏度混淆** [[Effect Size|效应量]]大小可能反映研究者操纵试验灵敏度的难易程度而非干预本身有效性；
+> 2. **偏倚逐级复合** 一阶元分析中的错误和偏倚无法在二阶统计中被自动消除；
+> 3. **因果机制距离** 宏观抽象聚合使结果远离了具体课堂情境中的实在因果机制。
+>
+> 完整详尽的批判脉络、数学反例、透明度重构与案例剖析详见专门理论条目：
+> 🔗 **[[Critique of Meta-meta-analysis|元-元分析批判]]（Critique of Meta-meta-analysis）**。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联方向 | 说明 |
+> |:-----|:-----|:---------|:-----|
+> | [[Critique of Meta-meta-analysis]] | 概念 | 方法学反思 | 系统阐释元-[[Meta-analysis\|元分析]]在[[Epistemology\|认识论]]、测量错位与政策误用层面的理论批判。 |
+> | [[Effect Size Conversion]] | 方法 | 计算前置 | 二阶元分析依赖[[Effect Size\|效应量]]转换统一不同一阶研究的量规尺度。 |
+> | [[Robust Variance Estimation]] | 方法 | 核心统计 | RVE 三明治估计量是解决二阶聚类依赖性与小样本膨胀的支柱技术。 |
+> | [[AMSTAR]] | 工具 | 质量控制 | 用于二阶元分析中对一阶元分析规范度进行量化评级的方法学工具。 |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | [[Creativity\|创造力]]领域二阶元分析代表作，确立了现代六步建模与偏倚校正规程。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 数学证明 | 推导二级固定效应等价性的 6 项数学要求，揭示粗糙元综合的计算失真。 |
