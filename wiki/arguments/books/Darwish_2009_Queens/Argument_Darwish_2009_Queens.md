@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Argument_Darwish_2009_Queens"
 argument_kind: "books"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -40,9 +40,10 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Epistemology]]"
   - "[[Theory of Knowledge]]"
-  - "[[Praxis]]"
   - "[[Paradigm]]"
+  - "[[Socratic Dialogue]]"
   - "[[Dialogue in Education]]"
+  - "[[Phronesis]]"
   - "[[Critical Pedagogy]]"
   - "[[Growth]]"
   - "[[Freedom of the Learner]]"
@@ -51,6 +52,7 @@ related_concepts:
   - "[[Socratic Elenchus]]"
   - "[[Learning by Doing]]"
   - "[[Conscientization]]"
+  - "[[Praxis]]"
   - "[[Knowledge Questions]]"
   - "[[Source of Knowledge]]"
   - "[[Reliability]]"
@@ -82,7 +84,6 @@ related_concepts:
   - "[[Curriculum as Product]]"
   - "[[Positivism]]"
   - "[[Curriculum as Process]]"
-  - "[[Phronesis]]"
   - "[[Curriculum as Praxis]]"
   - "[[Reflexivity]]"
   - "[[Dehumanization]]"
@@ -120,7 +121,7 @@ related_persons:
 
 > [!chain-link] 第1章逻辑推导链条
 > - **古典教育哲学的继承与局限**
->  追溯[[Plato|柏拉图]]的助产术[[Dialogue in Education|对话]]与[[Aristotle|亚里士多德]]的[[Phronesis|实践智慧]]，揭示古典教育对主体能动性的早期萌芽，但同时批判其受限于阶层固化与奴隶制社会的历史局限 (pp. 1–3)。
+>  追溯[[Plato|柏拉图]]的[[Socratic Dialogue|助产术]][[Dialogue in Education|对话]]与[[Aristotle|亚里士多德]]的[[Phronesis|实践智慧]]，揭示古典教育对主体能动性的早期萌芽，但同时批判其受限于阶层固化与奴隶制社会的历史局限 (pp. 1–3)。
 > - **进步主义与[[Critical Pedagogy|批判教育学]]的[[Paradigm|范式]]突破**
 >  通过对比[[John Dewey|杜威]]的经验[[Growth|生长]]理论与[[Paulo Freire|弗莱雷]]的问题提出式教育，确立主动学习的核心在于恢复[[Freedom of the Learner|学习者的自由]]与实践能动性 (pp. 4–8)。
 > - **[[Active Learning|主动学习]]三环节模型的构建**

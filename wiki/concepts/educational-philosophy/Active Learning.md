@@ -16,13 +16,13 @@ tags:
 - field/educational-philosophy
 - field/curriculum-theory
 related_concepts:
-  - "[[Praxis]]"
   - "[[Critical Thinking]]"
   - "[[Dialogue in Education]]"
   - "[[Conscientization]]"
   - "[[Growth]]"
   - "[[Banking Model of Education]]"
   - "[[Habituation]]"
+  - "[[Praxis]]"
   - "[[Freedom of the Learner]]"
   - "[[Problem-Posing Education]]"
   - "[[Rote Learning]]"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-08-25
 ---
 
 # Active Learning
@@ -48,7 +48,7 @@ updated: 2026-07-25
 ## 定义
 
 > [!def] 核心定义
-> 主动学习（Active Learning）是一种将课程与教学视为政治性与民主化[[Praxis|实践]]的教育观。在 Darwish (2009) 融合[[John Dewey|杜威]]（John Dewey）与[[Paulo Freire|弗莱雷]]（Paulo Freire）思想的框架中，主动学习被界定为由三个相互关联的环节构成的课程模型：促进[[Critical Thinking|批判性思维]]、开展民主[[Dialogue in Education|对话]]，以及表现为[[Conscientization|批判意识觉醒]]与[[Praxis|实践]]行动的[[Growth|生长]]/成长。任何单一环节都无法单独确保主动学习的实现 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 1, 6–10)]]。
+> 主动学习（Active Learning）是一种将课程与教学视为政治性与民主化实践的教育观。在 Darwish (2009) 融合[[John Dewey|杜威]]（John Dewey）与[[Paulo Freire|弗莱雷]]（Paulo Freire）思想的框架中，主动学习被界定为由三个相互关联的环节构成的课程模型：促进[[Critical Thinking|批判性思维]]、开展民主[[Dialogue in Education|对话]]，以及表现为[[Conscientization|批判意识觉醒]]与实践行动的[[Growth|生长]]/成长。任何单一环节都无法单独确保主动学习的实现 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 1, 6–10)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 拒绝将学生视为被动接收事实的储蓄容器，主张学生作为主体（Subjects）通过经验与对话探究现实不公并采取实际行动。
@@ -80,7 +80,7 @@ updated: 2026-07-25
 >   基于“做”（doing）的动手探究与[[Problem-Posing Education|提问式教育]]（problem-posing），使学习者获得辨识不公与独立决策的能动性 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
 > - **[[Dialogue in Education|对话]]（Dialogue）**
 >   摆脱被动吸收的听讲状态，转变为批判性共同探究者（critical co-investigators），通过经验共享揭露压迫 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 9–10)]]。
-> - **[[Growth|生长]]/成长与[[Praxis|实践]]（Growth and Praxis）**
+> - **[[Growth|生长]]/成长与实践（Growth and [[Praxis]]）**
 >   表现为自我实现与[[Conscientization|批判意识觉醒]]，并最终落实为改造个人与社区现实不公的实践行动 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–10)]]。
 
 ---
@@ -98,6 +98,6 @@ updated: 2026-07-25
 ---
 
 > [!case] 案例：弗莱雷的提问式教育（Problem-Posing Education）
-> 弗莱雷反对将知识当作礼物赐予学生的储蓄模式，主张教师提出与学生生活经验紧密相关的现实问题。师生围绕问题展开平等对话，揭露社会不公的根源，使学生实现[[Conscientization|批判意识觉醒]]并采取[[Praxis|实践]]行动 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 9–10)]]。
+> 弗莱雷反对将知识当作礼物赐予学生的储蓄模式，主张教师提出与学生生活经验紧密相关的现实问题。师生围绕问题展开平等对话，揭露社会不公的根源，使学生实现[[Conscientization|批判意识觉醒]]并采取实践行动 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 9–10)]]。
 
 ---

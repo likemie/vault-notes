@@ -27,9 +27,9 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Growth]]"
   - "[[Banking Model of Education]]"
+  - "[[Socratic Dialogue]]"
   - "[[Active Learning]]"
   - "[[Critical Pedagogy]]"
-  - "[[Praxis]]"
   - "[[Freedom of the Learner]]"
   - "[[Problem-Posing Education]]"
   - "[[Self-Cultivation]]"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-08-25
 ---
 
 # Socratic Elenchus
@@ -85,7 +85,7 @@ updated: 2026-07-25
 >   拒绝[[Banking Model of Education|储蓄式教育]]自上而下的知识存入，通过反诘暴露出“自以为知道”背后的无知，为真正的探究准备土壤 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 2)]]。
 > - **立场的否定与辩证修正（Refutation & Dialectic）**
 >   利用严密的逻辑推理引出[[Dialogue in Education|对话]]者前提与结论之间的内在矛盾，促使对话者主动修改原立场，向更高的真理与“形式本身”（Form itself）靠拢 [[Argument_Li_2012_Cambridge|(Li, 2012, p. 32)]]。
-> - **助产术与回忆说（Maieutics & Anamnesis）**
+> - **[[Socratic Dialogue|助产术]]与回忆说（Maieutics & Anamnesis）**
 >   将教师定位为精神上的“助产士”，相信理性与知识早已潜藏于人的灵魂深处，教学的使命是通过针对性提问引导学习者自身“产出”真理 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 3)]]。
 
 ---
@@ -116,8 +116,8 @@ updated: 2026-07-25
 >   柏拉图将驳诘法升华为通往最高善的辩证法（Dialectic），但将其与统治阶层绑定，限定于护卫者阶层的精英培养 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 2–5)]]。
 > - **现代进步主义时期（[[John Dewey|杜威]]与探究式教学）**
 >   [[John Dewey|杜威]]将驳诘法改造为基于“做”（doing）与问题解决（problem-posing）的[[Active Learning|主动学习]]环节，强调摆脱被动听讲 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 8–9)]]。
-> - **当代[[Critical Pedagogy|批判教育学]]时期（全员民主与解放[[Praxis|实践]]）**
->   [[Paulo Freire|弗莱雷]]与 Darwish (2009) 进一步去除了驳诘法的精英色彩，要求赋予每一个学习者[[Freedom of the Learner|学习者的自由]]，通过[[Problem-Posing Education|提问式教育]]与[[Dialogue in Education|对话]]走向意识觉醒与[[Praxis|实践]]。
+> - **当代[[Critical Pedagogy|批判教育学]]时期（全员民主与解放实践）**
+>   [[Paulo Freire|弗莱雷]]与 Darwish (2009) 进一步去除了驳诘法的精英色彩，要求赋予每一个学习者[[Freedom of the Learner|学习者的自由]]，通过[[Problem-Posing Education|提问式教育]]与[[Dialogue in Education|对话]]走向意识觉醒与实践。
 
 ---
 
@@ -134,7 +134,7 @@ updated: 2026-07-25
 
 ## 理论与实践路径
 
-> [!influence-path] 理论与[[Praxis|实践]]路径
+> [!influence-path] 理论与实践路径
 > - **理论路径** 奠定了西方哲学方法论与[[Critical Thinking|批判性思维]]的基石，为[[Pragmatic Paradigm|实用主义]]探究与辩证法提供了直接源头。
 > - **教学实践路径** 发展出[[Socrates|苏格拉底]]式指导风格、提问式教学（problem-posing）以及法学教育中的 Socratic Case Method。
 > - **课程审查路径** 用于评估课程体系（如 IB [[Theory of Knowledge|TOK]] 课程）是否真正提供了深度的概念反诘与探究自由 [[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 10)]]。
@@ -156,7 +156,7 @@ updated: 2026-07-25
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 分析苏格拉底无情反诘风格在跨文化比较中的边界。
 
 > [!warning] 未解问题与边界
-> 若驳诘法仅停留在纯粹的口头辩驳与逻辑推倒，而缺乏对社会压迫现实的[[Conscientization|批判意识觉醒]]与改造动作（[[Praxis|实践]]），则容易沦为无休止的智力游戏或形式化的课程活动。
+> 若驳诘法仅停留在纯粹的口头辩驳与逻辑推倒，而缺乏对社会压迫现实的[[Conscientization|批判意识觉醒]]与改造动作（实践），则容易沦为无休止的智力游戏或形式化的课程活动。
 
 ---
 

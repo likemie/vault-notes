@@ -8,7 +8,7 @@ summary: "中国春秋时期思想家、教育家，儒学创始人，以修身�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 38
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ritual Propriety]]"
   - "[[Five Cardinal Relationships]]"
-  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Zhonghua Minzu]]"
   - "[[Selective Affinity]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-07-23
+updated: 2026-08-25
 ---
 
 # Confucius
@@ -116,7 +115,7 @@ updated: 2026-07-23
 ## 核心思想
 
 > [!claim] 核心主张
-> 孔子思想的根本不在于政治权力或工具性知识，而在于回答“如何成为一个人与达成人性卓越”。他将学习的终极目的定义为[[Self-Cultivation|修身]]，以仁为最高道德境界，以[[Junzi|君子]]为[[Paradigm|范式]]人格；在学习动能上将[[Heart and Mind for Wanting to Learn|好學心]]置于纯粹认知之上，在社会[[Praxis|实践]]中以礼、孝与[[Action Better Than Words|行勝於言]]为纽带，构成了独立于政治体制的持久文化传统[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 37–41, 52–55)]]。
+> 孔子思想的根本不在于政治权力或工具性知识，而在于回答“如何成为一个人与达成人性卓越”。他将学习的终极目的定义为[[Self-Cultivation|修身]]，以仁为最高道德境界，以[[Junzi|君子]]为[[Paradigm|范式]]人格；在学习动能上将[[Heart and Mind for Wanting to Learn|好學心]]置于纯粹认知之上，在社会实践中以礼、孝与[[Action Better Than Words|行勝於言]]为纽带，构成了独立于政治体制的持久文化传统[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 37–41, 52–55)]]。
 
 > [!citation-card]- 关键表述
 > 知之者不如好之者，好之者不如乐之者。（《论语·雍也》）[[Argument_Li_2012_Cambridge|(Li, 2012, p. 52)]]
@@ -166,7 +165,7 @@ updated: 2026-07-23
 
 > [!critique]- 批评索引
 > - [[Argument_Yu_2024_CE|Yu & Zhao (2024)]] — 边缘学生指出孔子伦理缺乏对非人类自然的关怀（人类中心主义），且缺乏对生死起源的灵性终极解答。
-> - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — 指出威权政治将决策包装为“儒家价值”（如新加坡模式），但[[Praxis|实践]]与孔子本意相去甚远，稀释了概念解释力。
+> - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — 指出威权政治将决策包装为“儒家价值”（如新加坡模式），但实践与孔子本意相去甚远，稀释了概念解释力。
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 指出孔子传统强调教师道德与知识权威，在现代化课堂中留下了学生无法参与共决课程大纲与评估标准的结构性硬边界。
 
 > [!warning] 未解问题与边界

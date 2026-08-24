@@ -38,6 +38,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Pre-test and Post-test]]"
   - "[[Document]]"
+  - "[[Socratic Dialogue]]"
   - "[[Direct Instruction]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Phronesis]]"
@@ -74,7 +75,7 @@ title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -245,7 +246,7 @@ issuing_organization: ""
 > | | 2.8 无教师小组讨论（Small group without teacher） | 24 | 0.26 | 0.09 | 0.43 | 84.97 ($p < .001$) | 72.93% | 自主合作产生适度增益 |
 > | | 2.9 正式论辩（Debate） | 8 | 0.32 | 0.03 | 0.61 | 21.41 ($p = .003$) | 67.31% | 规则约束下的论点质询 |
 > | | 2.10 口头汇报后研讨（Oral presentations） | 5 | 0.29 | -0.07 | 0.65 | 14.59 ($p = .006$) | 72.58% | 成果展示与答辩互动 |
-> | | 2.11 [[Socrates\|苏格拉底]]对话（Socratic dialogue） | 8 | 0.27 | -0.01 | 0.55 | 21.59 ($p = .003$) | 67.58% | 追问[[Hypothesis\|假设]]与概念澄清 |
+> | | 2.11 [[Socratic Dialogue\|苏格拉底对话]]（Socratic dialogue） | 8 | 0.27 | -0.01 | 0.55 | 21.59 ($p = .003$) | 67.58% | 追问[[Hypothesis\|假设]]与概念澄清 |
 > | **真实性教学子策略**<br>(Table 3C) | 3.1 应用型问题解决（Applied problem solving） | 31 | 0.35 | 0.20 | 0.49 | 101.59 ($p < .001$) | 70.47% | 解决现实复杂劣构问题 |
 > | | 3.2 角色扮演（Role-playing） | 5 | 0.61 | 0.24 | 0.98 | 10.76 ($p = .030$) | 62.83% | 换位思考多方利益与伦理冲突 |
 > | | 3.3 情境模拟（Simulations） | 23 | 0.26 | 0.09 | 0.43 | 80.03 ($p < .001$) | 72.51% | 动态情境决策与即时反馈 |

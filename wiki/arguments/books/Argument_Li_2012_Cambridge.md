@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 141
+argument_related_count: 142
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -46,8 +46,8 @@ related_concepts:
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
+  - "[[Student Attitude]]"
   - "[[Growth]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Examined Life]]"
   - "[[Critical Thinking]]"
+  - "[[Socratic Dialogue]]"
   - "[[Academic Freedom]]"
   - "[[University Motto]]"
   - "[[Creativity]]"
@@ -175,7 +176,7 @@ sources:
 part_of: []
 status: draft
 created: 2026-05-21
-updated: 2026-08-20
+updated: 2026-08-25
 year: 2012
 doi: ""
 citation_aliases:
@@ -635,7 +636,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 > 
 > 4. **优绪弗洛最终给出的是一个神学定义**（第六轮）："神所爱的东西是虔敬的。"这个定义虽然在对话的后续部分被苏格拉底进一步追问（引出著名的"优绪弗洛困境"——是因为虔敬所以神爱，还是因为神爱所以虔敬？），但至少从"举例"进步到了"下定义"。这说明苏格拉底的方法不是要让对方难堪，而是要推动对方从具体的、未经反思的经验走向普遍的、经过论证的概念。
 > 
-> 5. **全程的控制与引导**（全七轮）：注意苏格拉底每轮都在收紧对话的方向——第一轮发问，第二轮指出回答不合格，第三轮建立共识，第四轮阐明要求，第五轮确认目标和方法，第六轮获得定义，第七轮给予正面反馈。整段对话中苏格拉底从未告诉优绪弗洛"虔敬是什么"，他只是通过连续提问迫使优绪弗洛**自己得出**一个更精确的回答。这就是苏格拉底自称的"精神助产术"（maieutics）——教师不灌输答案，而是帮助对方"分娩"出自己已有的但未经整理的知识。
+> 5. **全程的控制与引导**（全七轮）：注意苏格拉底每轮都在收紧对话的方向——第一轮发问，第二轮指出回答不合格，第三轮建立共识，第四轮阐明要求，第五轮确认目标和方法，第六轮获得定义，第七轮给予正面反馈。整段对话中苏格拉底从未告诉优绪弗洛"虔敬是什么"，他只是通过连续提问迫使优绪弗洛**自己得出**一个更精确的回答。这就是苏格拉底自称的"精神[[Socratic Dialogue|助产术]]"（maieutics）——教师不灌输答案，而是帮助对方"分娩"出自己已有的但未经整理的知识。
 > 
 > Li 分析道：苏格拉底不仅追问，而且"执着地、无情地"追求真知——在对话中他完全不关心优绪弗洛被逼到墙角会有什么感受。他被告上法庭、被判死刑——罪名之一是"腐蚀青年"（因为他教青年像他一样质疑一切）。他本可以越狱，但选择平静地喝下毒药。苏格拉底的一生就是"省察的生活"的全面体现。
 

@@ -10,7 +10,7 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,8 +20,8 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
-  - "[[Praxis]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Test-Based Accountability]]"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Document]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
@@ -65,8 +66,8 @@ updated: '2026-07-21'
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向打破教师单向灌输、强调以学生的学习体验、认知参与、自主探究与对话互动为重心的教学[[Paradigm|范式]]。
-> - **用途** 帮助研究者解构课堂权力关系，分析跨国教育[[Policy Borrowing|政策借用]]与本土教学[[Praxis|实践]]之间的张力、[[Transfer Translation Transformation|转译]]及扩展性改造机制。
-> - **边界** 在统一课程大纲与高利害升学考试约束下，LCE 的实施往往被重构为提升学习效率与高阶思维的认知工具，而排除了学生共决课程与评估形式的权力共享维度。
+> - **用途** 帮助研究者解构课堂权力关系，分析跨国教育[[Policy Borrowing|政策借用]]与本土教学实践之间的张力、[[Transfer Translation Transformation|转译]]及扩展性改造机制。
+> - **边界** 在统一课程大纲与高利害升学考试约束下，LCE 的实施往往被重构为提升学习效率与[[Higher-Order Thinking Skills|高阶思维]]的认知工具，而排除了学生共决课程与评估形式的权力共享维度。
 
 > [!citation-card]- 关键表述
 > 在近几十年来，以学习者为中心的教育在全球范围内得到了广泛的推广。（p.588）
@@ -182,7 +183,7 @@ updated: '2026-07-21'
 > [!debates] 学术争议
 >
 > > [!axis] 定义的模糊性与语境灵活性
-> > LCE 在全球[[Praxis|实践]]中被赋予了多种甚至相互冲突的内涵。部分学者坚持严格的西方进步主义标准，而部分学者则主张摒弃二元对立，采用情境化、灵活的定义，认可不同文化对“以学生为中心”的差异化理解。
+> > LCE 在全球实践中被赋予了多种甚至相互冲突的内涵。部分学者坚持严格的西方进步主义标准，而部分学者则主张摒弃二元对立，采用情境化、灵活的定义，认可不同文化对“以学生为中心”的差异化理解。
 > >
 > > - **Bremner（2021）** 呼吁采取情境化定义，尊重本地教育者对教育目的与教学法的理解。
 > > - **Schweisfurth（2013）** 强调应确立最低实施标准，防止 LCE 被任意泛化或标签化。

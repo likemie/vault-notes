@@ -8,7 +8,7 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 34
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -39,6 +39,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Critical Pedagogy]]"
   - "[[Domain Specificity]]"
+  - "[[Prediction Interval]]"
+  - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -47,6 +49,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
@@ -199,7 +202,7 @@ updated: 2026-08-25
 > | 一阶元分析 | 理论检验角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 核心命题检验 | Ennis 课程模式：[[Direct Instruction\|直接教学]] vs 融入模式 vs 沉浸模式 vs 混合模式 | 直接教学 $k = 44$；融入 $k = 152$；沉浸 $k = 61$；混合 $k = 84$ | 直接 $g+ = 0.26$；融入 $g+ = 0.29$；沉浸 $g+ = 0.23$；混合 $g+ = 0.38$ $[0.26, 0.51]$ | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ | 显性混合模式（独立显性教学 + 学科融入）实证增益最高，确立显性整合课程优势 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 核心命题检验 | 教学干预策略组合：单独真实性（A）vs 单独对话（D）vs 真实性+对话（A+D）vs 真实性+对话+导师制（A+D+M） | A 单独 $k = 22$；D 单独 $k = 43$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$；D $g+ = 0.23$；A+D $g+ = 0.32$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维复合策略显著最优，导师指导发挥关键催化功能 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 核心命题检验 | 教学干预策略组合：单独真实性（A）vs 单独[[Dialogue in Education\|对话]]（D）vs 真实性+对话（A+D）vs 真实性+对话+[[Mentorship\|导师制]]（A+D+M） | A 单独 $k = 22$；D 单独 $k = 43$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$；D $g+ = 0.23$；A+D $g+ = 0.32$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维复合策略显著最优，导师指导发挥关键催化功能 |
 
 ---
 

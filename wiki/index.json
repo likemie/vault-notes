@@ -1517,7 +1517,9 @@
     "aliases": [
       "教育对话",
       "对话",
-      "educational dialogue"
+      "对话教学",
+      "educational dialogue",
+      "dialogic teaching"
     ]
   },
   {
@@ -4617,6 +4619,18 @@
     "path": "wiki/concepts/instruction-pedagogy/Rote Learning.md",
     "aliases": [
       "死记硬背"
+    ]
+  },
+  {
+    "title": "Socratic Dialogue",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Socratic Dialogue.md",
+    "aliases": [
+      "苏格拉底对话",
+      "助产术",
+      "产婆术",
+      "苏格拉底式对话",
+      "Socratic inquiry"
     ]
   },
   {
