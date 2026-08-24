@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -30,7 +30,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[International Baccalaureate]]"
-  - "[[Praxis]]"
+  - "[[Student Attitude]]"
   - "[[Avatar]]"
   - "[[Growth]]"
   - "[[International Schools]]"
@@ -47,6 +47,7 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts:
   - "[[Grammar School]]"
+  - "[[United World Colleges]]"
   - "[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]"
   - "[[International School of Geneva]]"
   - "[[International Schools Examination Syndicate]]"
@@ -76,7 +77,7 @@ updated: 2026-08-17
 > | 概念工具 | 在论证中的作用 |
 > |---|---|
 > | **行动导向的教育**<br>[[Kurt Hahn\|库尔特·哈恩]] | 把民族偏见、冷漠和被动旁观理解为需要通过共同服务、技能训练、风险承担、团队领导与个人热情加以改变的行动倾向（pp. 2–3）。 |
-> | **课程的广义定义** | 课程覆盖学校用来影响学生态度与行为的社会、智识、审美和道德经验，因此救援、露营、共同生活与学术科目属于同一个教育设计（p. 8）。 |
+> | **课程的广义定义** | 课程覆盖学校用来影响[[Student Attitude\|学生态度]]与行为的社会、智识、审美和道德经验，因此救援、露营、共同生活与学术科目属于同一个教育设计（p. 8）。 |
 > | **影响扩散设想** | 创办者选择 16 至 19 岁、未来可能进入高等教育的学生，希望他们成年后在本国发挥社会影响，放大并扩散学校教育的效果（pp. 4–5）。 |
 > | **扎根的国际主义** | [[International Education\|国际教育]]让青年保持本国文化身份，同时学会理解、合作并建立跨国友谊，目标不包括培养脱离本国文化的世界公民（p. 5）。 |
 
@@ -381,7 +382,7 @@ updated: 2026-08-17
 > *All education that Hahn cared for was aimed at changing young people's attitudes in such a way as to lead them to change their actions.*
 
 > [!citation-card]- 广义课程
-> 课程涵盖学校试图借以影响学生态度与行为的全部社会、智识、审美和道德经验。（p. 8）
+> 课程涵盖学校试图借以影响[[Student Attitude|学生态度]]与行为的全部社会、智识、审美和道德经验。（p. 8）
 >
 > *I use this word in its widest sense, to cover all the experience, social, intellectual, aesthetic and moral, through which a school seeks to influence the attitudes and behaviour of its students.*
 

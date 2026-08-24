@@ -6,7 +6,7 @@ aliases:
 summary: "哲学与心理学概念附加特定认识成就的相对价值。影响探究中权衡成本与收益的决策。"
 type: concept
 domain: "educational-psychology"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Aims]]"
+  - "[[Theoretical Knowledge]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -47,7 +48,7 @@ updated: 2026-08-20
 
 > [!feature] 核心要素
 > - **相对价值与成本的权衡** 追求某个[[Epistemic Aims|认识目标]]的决策建立在评估知识价值是否大于付出的时间与努力等成本的基础之上。
-> - **知识类型的价值差异** 不同的学科文化赋予不同类型知识不同价值。在化学领域，部分学习者仅重视理论知识，而专家同样看重实验室实操技巧等好手艺（good hands）。
+> - **知识类型的价值差异** 不同的学科文化赋予不同类型知识不同价值。在化学领域，部分学习者仅重视[[Theoretical Knowledge|理论知识]]，而专家同样看重实验室实操技巧等好手艺（good hands）。
 > - **追求重大真理** 获取解释宇宙起源等重大真理被赋予高价值，而仅记忆琐碎事实则被赋予极低价值。
 
 ---

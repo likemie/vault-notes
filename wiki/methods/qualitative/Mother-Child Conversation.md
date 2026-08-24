@@ -8,7 +8,7 @@ summary: "一种通过采集模拟母子对话样本来研究文化学习信念�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - region/western
 related_concepts:
   - "[[Dialogue in Education]]"
+  - "[[Student Attitude]]"
   - "[[External Validity]]"
   - "[[Reliability]]"
   - "[[Variable]]"
@@ -102,7 +103,7 @@ updated: 2026-08-20
 - **样本** 200 组母子（100 组欧裔美国 EA 中产家庭 + 100 组台湾 TW 中产家庭），社会经济背景可比
 - **儿童年龄** 小学低年级（已有足够的学校经验理解"学习"是什么）
 - **[[Dialogue in Education|对话]]主题** 每位母亲与儿童讨论**两个**真实的学习事件：
-  - **好学习（good learning）** 儿童表现出良好学习态度/行为的事件
+  - **好学习（good learning）** 儿童表现出良好[[Student Attitude|学习态度]]/行为的事件
   - **差学习（poor learning）** 儿童表现出不佳学习态度/行为的事件
 - **指令** 母亲回忆一个真实的、具体的、她了解的儿童学习事件，与儿童自由讨论，不限时间，对话可以朝任何方向发展
 - **语言** EA 组用英语，TW 组用中文；所有中文对话由双语研究者翻译为英文进行分析

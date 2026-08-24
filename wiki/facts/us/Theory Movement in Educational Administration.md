@@ -19,9 +19,9 @@ tags:
   - level/higher-ed
   - paradigm/positivist
 related_concepts:
-  - "[[Praxis]]"
   - "[[Reliability]]"
   - "[[Definition of Terms]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Scientific Method]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
@@ -52,7 +52,7 @@ updated: 2026-05-18
 >
 > > 有趣的是，Cubberly 几乎没有教育研究的背景——他自身的专业背景是地质学和物理科学，却在教育行政项目中教授学校行政、学校问题、学校组织、学校统计等多门课程（Bates, 2010; Tynack & Hansot, 1982，引自 [[Argument_Eacott_2015_EPT|Eacott, 2015, p.326]]）。
 >
-> 然而，Taylor 和同期经典行政思想家（Lyndall Urwick、Henri Fayol）是**[[Praxis|实践]]者/研究者**而非科学家。"科学"与"教育行政的科学研究"在理论运动时期（1950–1960s）才达到顶峰([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315]])。
+> 然而，Taylor 和同期经典行政思想家（Lyndall Urwick、Henri Fayol）是**实践者/研究者**而非科学家。"科学"与"教育行政的科学研究"在理论运动时期（1950–1960s）才达到顶峰([[Argument_Eacott_2015_EPT|Eacott, 2015, p.315]])。
 
 ## 经过
 
@@ -66,7 +66,7 @@ updated: 2026-05-18
 > 理论运动大量借鉴 **Herbert Feigl** 的早期著作（Feigl 与维也纳学派有关联），试图以"**客观性、[[Reliability|可靠性]]、[[Definition of Terms|操作性定义]]、连贯或系统的结构以及全面性**"来刻画教育行政研究（Griffiths, 1959, p.45，引自）。
 >
 > 关键特征：
-> - 试图将教育行政研究**从[[Praxis|实践]]者/研究者的无理论知识中分离**出来
+> - 试图将教育行政研究**从实践者/研究者的无[[Theoretical Knowledge|理论知识]]中分离**出来
 > - 但这并非通过嵌入（社会）理论本身，而是通过**一种理性的探究技术**来实现
 > - "科学"通过观察者与研究对象的**中立性和表面距离**被构建([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])
 >
@@ -106,7 +106,7 @@ updated: 2026-05-18
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **[[Positivism|实证主义]]遗产的持续** [[Argument_Eacott_2015_EPT|Eacott (2015)]]认为尽管理论运动受到多次挑战，"'科学'和'科学探究'的标签与教育行政有长期联系"，这种联系延续至今，只是以管理主义和"对[[Praxis|实践]]有直接影响的"研究话语的形式出现（p.312-313）
+> - **[[Positivism|实证主义]]遗产的持续** [[Argument_Eacott_2015_EPT|Eacott (2015)]]认为尽管理论运动受到多次挑战，"'科学'和'科学探究'的标签与教育行政有长期联系"，这种联系延续至今，只是以管理主义和"对实践有直接影响的"研究话语的形式出现（p.312-313）
 > - **变形的重演**[[Argument_Eacott_2015_EPT|Eacott (2015, p.320-321)]]指出理论的"应用"标签在当代以项目管理的学术生活方式重现——研究者成为可以在不同[[Research Question|研究问题]]间流动的"技术人员"，实质上重复了理论运动的方法论替代理论的模式
 > - **拒绝而非重构** Greenfield and Bates 的批判虽然有力，但导致许多人放弃而非重构科学探究——Evers & Lakomski 是少数坚持"科学本身不是问题"的声音([[Argument_Eacott_2015_EPT|Eacott, 2015, p.316]])
 

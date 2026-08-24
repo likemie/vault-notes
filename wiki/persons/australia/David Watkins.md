@@ -8,16 +8,17 @@ summary: "澳大利亚教育心理学家，中国学习者悖论的核心研究�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 tags: ["region/australia", "field/comparative-education", "field/educational-psychology"]
 related_concepts:
   - "[[Paradox of the Chinese Learner]]"
   - "[[Chinese Learner]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Analytic Framework]]"
+  - "[[Student Attitude]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
@@ -57,5 +58,5 @@ updated: 2026-08-20
 
 > [!success]
 > - Watkins and Biggs 引入了**[[Confucian Heritage Cultures|儒家文化圈]]（[[Confucian Heritage Cultures]]）**这一术语，涵盖中国、香港、台湾、新加坡、日本、韩国和越南等受[[Confucian Learning Tradition|儒家学习传统]]影响的地区，为后续跨文化研究提供了统一的[[Analytic Framework|分析框架]]([[Argument_Li_2012_Cambridge|Li, 2012, p.73]])。
-> - 与 Lingbiao Gao 合作，运用质性和量化方法识别中国科学教师的教学目标，发现他们除了认知目标外还强调培养学生的适应性学习态度和道德引导([[Argument_Li_2012_Cambridge|Li, 2012, p.74]])。
+> - 与 Lingbiao Gao 合作，运用质性和量化方法识别中国科学教师的教学目标，发现他们除了认知目标外还强调培养学生的适应性[[Student Attitude|学习态度]]和道德引导([[Argument_Li_2012_Cambridge|Li, 2012, p.74]])。
 > - 与 Bo Dahlin 合作比较英国与中国学生的记忆和重复使用方式，发现英国学生用重复来检查是否记住，而中国学生用重复来创造深刻印象、为深入理解奠定基础；英国学生视理解为突然顿悟，中国学生则视之为需要大量心智努力的长期过程([[Argument_Li_2012_Cambridge|Li, 2012, p.75]])。

@@ -32,6 +32,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Clinical Skills]]"
   - "[[Student Satisfaction]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
   - "[[Self-Directed Learning]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Dependent Variable]]"
   - "[[Construct]]"
+  - "[[Student Attitude]]"
   - "[[Document]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Blue Skies Research]]"
@@ -84,9 +86,9 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 46
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Studies in Higher Education"
 book_title: ""
@@ -111,7 +113,7 @@ issuing_organization: ""
 > 因此需要以[[Meta-meta-analysis|二阶元分析]]整合多个结果类型上的元分析证据，回答两个问题：（1）PBL 对高等教育学生结果的影响水平如何？（2）该影响是否随调节[[Variable|变量]]变化？（pp. 950–952）
 
 > [!claim] 核心主张
-> 基于 20 项一阶元分析（涵盖 469 项独立原始研究、47 个独立[[Effect Size|效应量]]（Effect Size，ES））的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis）表明，PBL 对高等教育学生结果具有显著且高的总体影响（调整后效应量 $ES = 0.60$，95% [[Confidence Interval|置信区间]]（Confidence Interval，CI）为 $[0.49, 0.71]$）。其中[[Clinical Skills|临床技能]]（$ES = 1.06$）与[[Student Satisfaction|学生满意度]]（$ES = 1.10$）效应很高，理论性知识（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）效应较高。效应变异受结果类型、地域、一阶研究抽样方法、元分析质量、报告类型与发表年份显著调节，而高等教育专业类型无显著调节。（pp. 950, 961–962）
+> 基于 20 项一阶元分析（涵盖 469 项独立原始研究、47 个独立[[Effect Size|效应量]]（Effect Size，ES））的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis）表明，PBL 对高等教育学生结果具有显著且高的总体影响（调整后效应量 $ES = 0.60$，95% [[Confidence Interval|置信区间]]（Confidence Interval，CI）为 $[0.49, 0.71]$）。其中[[Clinical Skills|临床技能]]（$ES = 1.06$）与[[Student Satisfaction|学生满意度]]（$ES = 1.10$）效应很高，[[Theoretical Knowledge|理论性知识]]（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）效应较高。效应变异受结果类型、地域、一阶研究抽样方法、元分析质量、报告类型与发表年份显著调节，而高等教育专业类型无显著调节。（pp. 950, 961–962）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 截至 2024 年、以英文发表、覆盖高等教育、以传统教学为对照的 20 项 PBL 元分析及其包含的 469 项独立原始研究。
@@ -204,7 +206,7 @@ issuing_organization: ""
 > [!ref-table]- 纳入元分析特征全量清单（Table 1）
 > | 元分析研究 | 结果类型 | ES [95% CI] | k | 学科范围 | 报告类型 | 地区 | 抽样方法 | 质量 | 年份范围 |
 > |---|---|---|---|---|---|---|---|---|---|
-> | Xu, Ye, & Wang (2021) | 理论性知识 | .89 [.52, 1.26] | 9 | 细胞生物学 | 文章 | 非特定 | [[Randomised Controlled Trials\|RCT]] 与非 RCT | 中等 | 至 2021 |
+> | Xu, Ye, & Wang (2021) | [[Theoretical Knowledge\|理论性知识]] | .89 [.52, 1.26] | 9 | 细胞生物学 | 文章 | 非特定 | [[Randomised Controlled Trials\|RCT]] 与非 RCT | 中等 | 至 2021 |
 > | Gao et al. (2020)*** | 综合 | 1.51 [.79, 2.23] | 9 | 心理学 | 文章 | 中国 | RCT 与非 RCT | 中等 | 至 2020 |
 > | Ma & Lu (2019) | 理论性知识 | 1.16 [.79, 1.52] | 12 | 儿科 | 文章 | 中国 | RCT | 高 | 至 2018 |
 > | Ma & Lu (2019) | [[Clinical Skills\|临床技能]] | 1.56 [.87, 2.25] | 5 | 儿科 | 文章 | 中国 | RCT | 高 | 至 2018 |
@@ -231,7 +233,7 @@ issuing_organization: ""
 > | Shin & Kim (2013) | 理论性知识 | 1.32 [.72, 1.93] | 10 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
 > | Shin & Kim (2013) | 临床技能 | .92 [.68, 1.17] | 8 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
 > | Shin & Kim (2013) | [[Student Satisfaction\|学生满意度]] | 1.44 [1.07, 1.81] | 19 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
-> | Shin & Kim (2013) | 学习态度 | .67 [.39, .94] | 21 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
+> | Shin & Kim (2013) | [[Student Attitude\|学习态度]] | .67 [.39, .94] | 21 | 护理 | 文章 | 非特定 | RCT 与非 RCT | 高 | 1972–2012 |
 > | Zheng et al. (2023) | 理论性知识 | −.19 [−.71, .33] | 6 | 外科 | 文章 | 非特定 | RCT 与非 RCT | 中等 | 至 2022 |
 > | Zheng et al. (2023) | 临床能力 | .81 [.12, 1.49] | 7 | 外科 | 文章 | 非特定 | RCT 与非 RCT | 中等 | 至 2022 |
 > | Zheng et al. (2023) | 学生满意度 | .92 [.32, 1.53] | 8 | 外科 | 文章 | 非特定 | RCT 与非 RCT | 中等 | 至 2022 |
@@ -396,10 +398,10 @@ issuing_organization: ""
 > [!ref-table]- 调节变量与异质性分析表（Table 3）
 > | 调节变量维度 | 亚组类别 | k | ES | LL | UL | Q(b) | df | p |
 > |---|---|---|---|---|---|---|---|---|
-> | **结果类型** | 理论性知识 | 15 | .59 | .37 | .81 | 14.65 | 6 | .02 |
+> | **结果类型** | [[Theoretical Knowledge\|理论性知识]] | 15 | .59 | .37 | .81 | 14.65 | 6 | .02 |
 > | | [[Clinical Skills\|临床技能]] | 8 | 1.06 | .75 | 1.37 | | | |
 > | | [[Critical Thinking\|批判性思维]] | 6 | .56 | .24 | .89 | | | |
-> | | 学生态度 | 7 | .57 | .26 | .88 | | | |
+> | | [[Student Attitude\|学生态度]] | 7 | .57 | .26 | .88 | | | |
 > | | 学生满意度 | 3 | 1.10 | .62 | 1.59 | | | |
 > | | 综合 | 4 | .88 | .44 | 1.33 | | | |
 > | | 其他 | 4 | .31 | −.08 | .70 | | | |
@@ -509,7 +511,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **[[Problem-Based Learning|PBL]] 在高等教育中对学生结果具有高总体效应** [[Meta-meta-analysis|二阶元分析]]汇总 20 项一阶[[Meta-analysis|元分析]]（469 项独立研究、47 个[[Effect Size|效应量]]），调整后总体效应量为 $ES = 0.60$（$CI = [0.49, 0.71]$），观测值为 $ES = 0.68$，[[Publication Bias|发表偏倚]]校正不改变结论方向。（pp. 960–961）
-> 2. **[[Clinical Skills|临床技能]]与[[Student Satisfaction|学生满意度]]效应最高，其余结果效应较高** 临床技能（$ES = 1.06$）与学生满意度（$ES = 1.10$）属很高，理论性知识（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）属高。（pp. 961–962）
+> 2. **[[Clinical Skills|临床技能]]与[[Student Satisfaction|学生满意度]]效应最高，其余结果效应较高** 临床技能（$ES = 1.06$）与学生满意度（$ES = 1.10$）属很高，[[Theoretical Knowledge|理论性知识]]（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）属高。（pp. 961–962）
 > 3. **效应变异受结果类型、地域、抽样、质量、报告类型与年份显著调节** 中国情境（$ES = 1.10$）、仅含随机对照组的元分析（$ES = 0.84$）、高质量元分析（$ES = 0.82$）、文章形式（$ES = 0.77$）与 2011 年后发表（$ES \approx 0.70–0.77$）均伴随更高效应；专业类型无显著调节。（pp. 961–962）
 > 4. **推广需结合高[[Heterogeneity|异质性]]与轻微发表偏倚谨慎解释** 数据集 $I^2 = 93.70\%$，Egger 回归与[[Trim and Fill Method|剪补法]]提示轻微发表偏倚，医学与护理专业被过度代表；平均效应不能机械推广到所有专业与情境。（pp. 960–961, 965–966）
 
@@ -534,7 +536,7 @@ issuing_organization: ""
 > *The effect sizes observed in China were significantly higher than those observed in other locations. This may be attributed to the fact that the PBL model has been implemented in higher education institutions in China since the 1970s... the role of Chinese culture in this finding should not be overlooked.*
 
 > [!citation-card]- PBL 之争与推广结论
-> PBL 课程毕业生具备与传统课程毕业生相当或更强的专业能力。此外，PBL 对学生结果的影响超越了[[Academic Achievement|学业表现]]。……可以得出结论，PBL 应在高等教育环境中使用，以促进理论性知识获取、增强临床与[[Critical Thinking|批判性思维]]技能，以及形成积极的[[Student Attitude|学生态度]]与[[Student Satisfaction|学生满意度]]。（p. 966）
+> PBL 课程毕业生具备与传统课程毕业生相当或更强的专业能力。此外，PBL 对学生结果的影响超越了[[Academic Achievement|学业表现]]。……可以得出结论，PBL 应在高等教育环境中使用，以促进[[Theoretical Knowledge|理论性知识]]获取、增强临床与[[Critical Thinking|批判性思维]]技能，以及形成积极的[[Student Attitude|学生态度]]与[[Student Satisfaction|学生满意度]]。（p. 966）
 >
 > *Evidence indicates that graduates of PBL curricula exhibit comparable or enhanced professional competencies relative to graduates from more conventional curricula... It can be concluded that PBL should be employed in higher education settings to facilitate enhanced theoretical knowledge acquisition, augmented clinical and critical thinking skills, and positive student attitudes and increased satisfaction.*
 

@@ -7,7 +7,7 @@ aliases:
 summary: "通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能；在健康职业教育中由问题本位学习等教学模式重点培养。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - theme/health-professions-education
   - theme/higher-education
 related_concepts:
+  - "[[Theoretical Knowledge]]"
   - "[[Problem-Based Learning]]"
   - "[[Growth]]"
   - "[[Dependent Variable]]"
@@ -42,7 +43,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> 临床技能（Clinical Skills）指通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能。它要求学习者将理论知识转化为针对具体临床问题的判断与行动，促进更快更有效的临床决策，并支持长期技能保持。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 954–955)]]
+> 临床技能（Clinical Skills）指通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能。它要求学习者将[[Theoretical Knowledge|理论知识]]转化为针对具体临床问题的判断与行动，促进更快更有效的临床决策，并支持长期技能保持。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 954–955)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 临床技能是实践导向的能力，直接对应临床情境中遇到的问题。
@@ -59,7 +60,7 @@ updated: 2026-08-24
 
 > [!feature] 临床技能的构成
 > - **临床决策** 在多样临床情景中作出更快更有效的判断。（pp. 954–955）
-> - **临床能力与实践** 将理论知识转化为实际处置能力。
+> - **临床能力与实践** 将[[Theoretical Knowledge|理论知识]]转化为实际处置能力。
 > - **操作技能** 具体临床操作的技术熟练度。
 > - **长期保持** 实践能力随时间保持并深化，执业初期表现出更高自信与胜任力（Zhang et al., 2015）。（pp. 954–955）
 

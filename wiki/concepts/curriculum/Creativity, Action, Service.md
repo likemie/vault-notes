@@ -11,7 +11,7 @@ aliases:
 summary: "国际文凭预科项目（IB DP）的三项必修核心要素之一，要求学生参与课堂之外的艺术创意、体育活动与社区服务体验，促进全人发展与体验式学习。"
 type: concept
 domain: "curriculum"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Epistemology]]"
   - "[[International Schools]]"
   - "[[Transfer Translation Transformation]]"
@@ -61,7 +62,7 @@ updated: 2026-08-24
 
 > [!concept-lens] 概念透镜
 > - **含义** CAS 强调在真实社区与真实生活中通过“做”（doing）与反思来学习。它由三大维度组成：**创意（Creativity）**（艺术与探索性思考）、**行动（Action/Activity）**（体育与身体挑战）、**服务（Service）**（无偿社区服务与社会责任）。
-> - **用途** 为学生提供了将课堂理论知识应用于社会情境的机会。例如，在 [[Theory of Knowledge|TOK]] 课程中，CAS 提供了重要的现实经验素材。学生将抽象的[[Epistemology|认识论]]反思与 CAS 实践中遇到的真实伦理抉择、社会问题相印证。
+> - **用途** 为学生提供了将课堂[[Theoretical Knowledge|理论知识]]应用于社会情境的机会。例如，在 [[Theory of Knowledge|TOK]] 课程中，CAS 提供了重要的现实经验素材。学生将抽象的[[Epistemology|认识论]]反思与 CAS 实践中遇到的真实伦理抉择、社会问题相印证。
 > - **边界** CAS 虽不赋予数字分值，但属于 IB 文凭的强制性通过条件（Pass/Fail）。未成功完成 CAS 要求者无法获得 IB 文凭。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育和研发作为价值创造与全球竞争核心要素的经济形态。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Growth]]"
   - "[[Creativity]]"
   - "[[Further Education]]"
@@ -83,7 +84,7 @@ updated: 2026-08-20
 
 > [!example]
 > - vs [[Knowledge-Based Economization]]：知识经济（KBE）指实际存在的经济形态本身；知识经济化（KBE-ization）指 KBE 通过话语想象和物质实践被持续建构的社会和政治过程——"将注意力从知识经济的狭隘理解转向经济化过程"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])
-- vs 后工业社会（Post-Industrial Society）：Bell（1973）的后工业社会强调理论知识相对于工业生产的优先性，是 KBE 概念的重要学术先驱，但 KBE 更侧重知识作为资本积累的核心驱动机制，以及其与全球竞争的政策性连结([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])
+- vs 后工业社会（Post-Industrial Society）：Bell（1973）的后工业社会强调[[Theoretical Knowledge|理论知识]]相对于工业生产的优先性，是 KBE 概念的重要学术先驱，但 KBE 更侧重知识作为资本积累的核心驱动机制，以及其与全球竞争的政策性连结([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])
 
 ---
 
@@ -98,7 +99,7 @@ KBE 的知性根源可追溯至 Friedrich List 的《政治经济学的国家系
 ### 二战后学术脉络（1950s–1980s）
 
 - **Peter Drucker（1959/1969）** 提出"知识工作者"（knowledge worker）概念（首次使用于 1959 年），开创知识管理学术领域，在 *The Age of Discontinuity*（1969）中系统阐述知识在组织和社会中的核心地位([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])
-- **Daniel Bell（1973）** 在 *The Coming of Post-Industrial Society* 中强调理论知识在后工业主义中的相对重要性，揭示经济-社会界面正在发生结构性转变([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])
+- **Daniel Bell（1973）** 在 *The Coming of Post-Industrial Society* 中强调[[Theoretical Knowledge|理论知识]]在后工业主义中的相对重要性，揭示经济-社会界面正在发生结构性转变([[Argument_Moisio_2022_Springer|Moisio, 2022, p.22]])
 - **Paul Romer（1986）** 与其他"新增长理论家"：提出内生增长理论（endogenous [[Growth]] theory），论证创新、学习、人力资本、创业和技术是"内生增长"的根本驱动力。在此框架中，知识和人力资本投资被视为不受有限限制的增长和利润关键资产([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
 
 ### Sputnik Shock and OECD 的早期制度介入

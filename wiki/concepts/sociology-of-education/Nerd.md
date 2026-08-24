@@ -8,7 +8,7 @@ aliases:
 summary: "西方学校中一种将高学业成就与同伴接纳对立起来的同伴文化，理智好奇、努力学习的学生被冠以nerd等贬称并遭受同伴骚扰"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Academic Engagement]]"
   - "[[Hypothesis]]"
+  - "[[Student Attitude]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Document]]"
   - "[[Zero-Sum Competition]]"
@@ -65,7 +66,7 @@ updated: 2026-08-20
 
 ### 同伴规范："Try but Not Too Hard"
 
-John and Michael Bishop 对十万余名美国中学生的大规模研究发现了一条被严格执行的同伴规范：**努力可以，但不要太努力（try but not too hard）**。平均学业能力、学习态度和成就的学生受到的同伴骚扰最少（40–100 次/年），而低端和高端——即偏离常规的学生——受到的骚扰最多（120–220 次/年）。在低端，受到骚扰的包括最没有动力、本身就是破坏者的学生，以及那些被认为能力低但仍努力学习的"抗争者"([[Argument_Li_2012_Cambridge|Li, 2012, pp.90–91]])。
+John and Michael Bishop 对十万余名美国中学生的大规模研究发现了一条被严格执行的同伴规范：**努力可以，但不要太努力（try but not too hard）**。平均学业能力、[[Student Attitude|学习态度]]和成就的学生受到的同伴骚扰最少（40–100 次/年），而低端和高端——即偏离常规的学生——受到的骚扰最多（120–220 次/年）。在低端，受到骚扰的包括最没有动力、本身就是破坏者的学生，以及那些被认为能力低但仍努力学习的"抗争者"([[Argument_Li_2012_Cambridge|Li, 2012, pp.90–91]])。
 
 ### 高罂粟综合征（Tall Poppy Syndrome）
 

@@ -8,10 +8,10 @@ aliases:
 summary: "东亚课堂中以倾听为核心的学习方式，强调通过专注倾听、内化和反思参与学习，沉默不等于被动"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - region/east-asia
   - theme/speaking
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Action Better Than Words]]"
   - "[[Student Engagement]]"
+  - "[[Student Attitude]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
@@ -91,7 +92,7 @@ Inagaki、Hatano and Morita 对日本课堂的研究发现，尽管口头表达�
 **课堂观察([[Argument_Li_2012_Cambridge|Li, 2012, pp.116-117]])**
 > - 日本学生"口头表达很少，但日记和书面[[Homework|作业]]中充满问题、困惑和争论"
 > - 中国学生被反复观察到"对教师表现出全神贯注的注意，即使从外部视角看教学并不那么引人入胜"
-> - 当被点到时，学生被期望**准备好回答并回答得好**——这种"准备就绪"被视为[[Student Engagement|学生投入]]和良好学习态度的标志
+> - 当被点到时，学生被期望**准备好回答并回答得好**——这种"准备就绪"被视为[[Student Engagement|学生投入]]和良好[[Student Attitude|学习态度]]的标志
 
 ---
 

@@ -49,7 +49,6 @@ related_concepts:
   - "[[Cultural Barrier]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
-  - "[[Praxis]]"
   - "[[Bildung]]"
   - "[[Literature Review]]"
   - "[[Document]]"
@@ -68,6 +67,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Positivism]]"
   - "[[Reliability]]"
+  - "[[Student Attitude]]"
   - "[[Heterogeneity]]"
   - "[[Progressive Focussing]]"
   - "[[Growth]]"
@@ -554,7 +554,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 **第一阶段**（2015.10–2016.05）：滚雪球方式，北方大学 18 位 + 南方大学 20 位，共 38 位。对部分特征进行控制以减少干扰变量：
 - 仅男生（控制性别）
 - 仅本科就读于该大学或同层次高校（控制教育质量）
-- 仅学分绩点前 50%（控制学习态度和勤勉程度）
+- 仅学分绩点前 50%（控制[[Student Attitude|学习态度]]和勤勉程度）
 
 同时运用[[Theoretical Sampling|理论抽样]]（theoretical sampling）在关键特征上增加差异性：
 - 院系/学科背景力求差异

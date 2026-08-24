@@ -29,9 +29,9 @@ related_concepts:
   - "[[Growth]]"
   - "[[Social Realism]]"
   - "[[Selective Affinity]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Educational Neuroscience]]"
   - "[[Parental Cognitive and Affective Socialization]]"
-  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Recontextualization]]"
@@ -109,7 +109,7 @@ related_arguments:
 > 维果茨基学派提出**认知支架（Cognitive Scaffolding）**与最近发展区理论，强调儿童并非在真空中孤立建构技能，而是通过社交世界（如照料者与教师）的持续引导获得文化性认知工具。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 198)]]
 
 > [!citation-card]- 关键表述
-> 科学概念与自发概念的区分，为课程设计中理解日常知识与理论知识的区别提供了坚实基础。（p.4）
+> 科学概念与自发概念的区分，为课程设计中理解日常知识与[[Theoretical Knowledge|理论知识]]的区别提供了坚实基础。（p.4）
 >
 > *"Vygotsky's distinction between scientific and spontaneous concepts provides a foundational basis for distinguishing between everyday and theoretical knowledge in curriculum design." [[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 4)]]*
 
@@ -137,7 +137,7 @@ related_arguments:
 > - **合作者 / 莫斯科三人组** Alexander Luria & Alexei Leontiev — 1920–1930 年代共同奠定苏联文化-历史心理学与早期[[Third Generation Activity Theory|活动理论]]。
 > - **继承与扩展者** [[Yrjö Engeström]] — 在 Vygotsky 心理中介三角基础上增加共同体、规则与劳动分工，发展出第二代与[[Third Generation Activity Theory|第三代活动理论]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]
 > - **理论吸收者** Graham McPhail & [[Michael Young]] — 吸收其科学概念与自发概念区分，构建[[Social Realism|社会实在论]]与 [[Curriculum Design Coherence Model|CDCM]] 课程框架。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 4)]]
-> - **思想[[Dialogue in Education|对话]]与文化亲和** [[Confucius]] — 维果茨基的社会认知中介论在东亚教育[[Praxis|实践]]中与孔子启发式对话传统产生[[Selective Affinity|选择性亲和]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 596)]]
+> - **思想[[Dialogue in Education|对话]]与文化亲和** [[Confucius]] — 维果茨基的社会认知中介论在东亚教育实践中与孔子启发式对话传统产生[[Selective Affinity|选择性亲和]]。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 596)]]
 
 ---
 

@@ -360,7 +360,6 @@ updated: 2026-08-24
 > - **显性教学与学校实施** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 以 [[IB Diploma Programme|IB DP]] 的 ToK 为案例，结合量表、学校案例和毕业生比较，检验显性独立课程及其实施条件。
 > - **课程评估的[[Construct Validity|构念效度]]** [[Argument_Hughes_2014_JRIE|Hughes (2014)]] 用多套批判性思维分类框架审查 ToK 目标、评估目标和评分描述符的[[Construct|构念]]覆盖。
 > - **跨情境迁移与评估困境** [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] 证实了独立探究课程对学生其他学科和未来学业产生的批判性思维“溢出效应”，并揭示了其实操评估的主观性痛点。
-
 > - **术语表演与议程冲突** [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 分析 ToK 评估框架如何诱发术语表演，并揭示开放探究与科学知识传播之间的课程张力。
 > - **[[Epistemology|认识论]]引擎** [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 揭示了批判性思维不仅仅是一套认知技能，其发生的动机和动力受制于个体的底层认识论发展阶段。
 > - **[[Cooperative Learning|合作学习]]与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 基于 15 项一阶[[Meta-analysis|元分析]]开展二阶元分析，证实合作学习对批判性思维等[[Higher-Order Thinking Skills|高阶思维技能]]具有最强的赋能效应（$ES = 0.76$），从[[Constructivist Paradigm|社会建构主义]]视角确立了同伴互动与认知冲突对批判性反思的驱动机制。

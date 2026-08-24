@@ -7,7 +7,7 @@ aliases:
 summary: "事后回溯研究中的一种设计类型，通过收集回溯性数据确定自变量与因变量之间的关联，旨在识别当前条件的先行因素。属于探索性工具，产出的关联度量是因果研究的有用第一步。"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Student Attitude]]"
 related_methods:
   - "[[Ex Post Facto Research]]"
 related_arguments:
@@ -58,4 +59,4 @@ updated: 2026-07-12
 ## 应用案例
 
 > [!case] Borkowsky（1970）：音乐教师培训与教学效能
-> 基于共变关系设计，尝试展示音乐教师本科培训质量（X）与后续教学效能（O）之间的关系。培训质量的测量包括具体课程成绩、平均绩点和自评；教学效能通过学生表现指标、学生知识、学生态度和专家判断等评估。所有测量之间的相关被计算以确定关系。这项研究最多能显示培训质量与教学效能之间存在事后关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 307]]）。
+> 基于共变关系设计，尝试展示音乐教师本科培训质量（X）与后续教学效能（O）之间的关系。培训质量的测量包括具体课程成绩、平均绩点和自评；教学效能通过学生表现指标、学生知识、[[Student Attitude|学生态度]]和专家判断等评估。所有测量之间的相关被计算以确定关系。这项研究最多能显示培训质量与教学效能之间存在事后关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|Cohen et al., 2011, Ch. 15, p. 307]]）。

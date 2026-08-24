@@ -7,7 +7,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,11 +31,14 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Literature Review]]"
   - "[[Clinical Skills]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Critical Thinking]]"
   - "[[Constructive Alignment]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Confidence Interval]]"
+  - "[[Student Attitude]]"
+  - "[[Student Satisfaction]]"
   - "[[Problem Finding]]"
   - "[[Lifelong Learning]]"
 related_theories:
@@ -208,7 +211,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > **数据库构成限制[[External Validity|可推广性]]** Blass 审查 Hattie (2009) 的八项 PBL 来源后发现，其中三项来自医学教育，一项属于探索性研究，一项属于[[Literature Review|文献综述]]，两项主要讨论评估对结果的影响。只有 Haas (2005) 直接在学校情境比较教学方法，且报告最大的正向结果。这样的证据集合可以讨论特定专业课程，难以直接支持面向所有学校教学的统一排名。[[Argument_Blass_2020_JESP|Blass (2020, pp. 92–93)]]
 
 > [!claim] Erdem, C., et al.
-> **聚焦高等教育的二阶综合报告高效应** 综合 20 项一阶元分析（469 项独立研究）的[[Meta-meta-analysis|二阶元分析]]报告，PBL 在高等教育中对学生结果的总体效应为调整后 ES = 0.60，[[Clinical Skills|临床技能]]（1.06）与满意度（1.10）接近“很高”，理论性知识、[[Critical Thinking|批判性思维]]与态度约 0.56–0.59。该结果与跨学段混合综合的低平均效应（d ≈ 0.08）并存，差异主要来自教育阶段限定、按结果类型分列以及一阶元分析纳入范围；平均值仍不能替代对情境与结果类型的判断。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
+> **聚焦高等教育的二阶综合报告高效应** 综合 20 项一阶元分析（469 项独立研究）的[[Meta-meta-analysis|二阶元分析]]报告，PBL 在高等教育中对学生结果的总体效应为调整后 ES = 0.60，[[Clinical Skills|临床技能]]（1.06）与满意度（1.10）接近“很高”，[[Theoretical Knowledge|理论性知识]]、[[Critical Thinking|批判性思维]]与态度约 0.56–0.59。该结果与跨学段混合综合的低平均效应（d ≈ 0.08）并存，差异主要来自教育阶段限定、按结果类型分列以及一阶元分析纳入范围；平均值仍不能替代对情境与结果类型的判断。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
 
 ---
 
@@ -281,10 +284,10 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 >
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 M / E | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL） | 理论性知识 | E = 15 | .59 [.37, .81] | Q_b(6) = 14.65, p = .02 | [[Dependent Variable\|结果变量]]亚组；组间差异显著 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL） | [[Theoretical Knowledge\|理论性知识]] | E = 15 | .59 [.37, .81] | Q_b(6) = 14.65, p = .02 | [[Dependent Variable\|结果变量]]亚组；组间差异显著 |
 > | 同上 | | [[Clinical Skills\|临床技能]] | E = 8 | 1.06 [.75, 1.37] | | |
 > | 同上 | | [[Critical Thinking\|批判性思维]] | E = 6 | .56 [.24, .89] | | |
-> | 同上 | | 学生态度 | E = 7 | .57 [.26, .88] | | |
+> | 同上 | | [[Student Attitude\|学生态度]] | E = 7 | .57 [.26, .88] | | |
 > | 同上 | | [[Student Satisfaction\|学生满意度]] | E = 3 | 1.10 [.62, 1.59] | | |
 > | 同上 | | 综合 | E = 4 | .88 [.44, 1.33] | | |
 > | 同上 | | 其他 | E = 4 | .31 [−.08, .70] | | |
@@ -345,6 +348,6 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > - [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] 以早期二级综合汇总九项一级[[Meta-analysis|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
 > - [[Argument_Blass_2020_JESP|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] 将 PBL 定位为芬兰[[Phenomenon-Based Learning|现象本位学习]]的近缘[[Constructivist Paradigm|建构主义]]传统，并划定两者的哲学与课程边界。
-> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 以[[Meta-meta-analysis|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（理论性知识、[[Clinical Skills|临床技能]]、[[Critical Thinking|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
+> - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 以[[Meta-meta-analysis|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（[[Theoretical Knowledge|理论性知识]]、[[Clinical Skills|临床技能]]、[[Critical Thinking|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
 
 ---

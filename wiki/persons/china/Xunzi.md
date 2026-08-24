@@ -8,7 +8,7 @@ summary: "战国儒家思想家，主张性恶论，强调礼义教化与后天�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Four Sprouts]]"
   - "[[Bildung]]"
   - "[[Learning Virtues]]"
+  - "[[Student Attitude]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
@@ -62,4 +63,4 @@ updated: '2026-06-08'
 > [!success]
 - 荀子的性恶论与[[Mencius|孟子]]的性善论共同构成了[[Confucian Learning Tradition|儒家学习传统]]的两大理论支柱，分别从不同角度论证了学习的必要性([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-43]])。
 - 荀子对"诚意"（sincerity）和"坚持"（perseverance）等[[Learning Virtues|学习美德]]的强调，在后世[[Neo-Confucianism|宋明理学]]（[[Neo-Confucianism]]）中得到了进一步发展和系统化([[Argument_Li_2012_Cambridge|Li, 2012, p.140]])。
-- "锲而不舍"的精神至今仍是东亚教育文化中劝学励志的经典话语，影响了无数学习者的学习态度([[Argument_Li_2012_Cambridge|Li, 2012, p.142]])。
+- "锲而不舍"的精神至今仍是东亚教育文化中劝学励志的经典话语，影响了无数学习者的[[Student Attitude|学习态度]]([[Argument_Li_2012_Cambridge|Li, 2012, p.142]])。

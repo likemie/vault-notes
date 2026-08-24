@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 79
+method_related_count: 80
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -63,6 +63,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Affective Outcomes]]"
   - "[[Problem-Based Learning]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Clinical Skills]]"
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
@@ -385,7 +386,7 @@ flowchart LR
 > - **[[EEF Teaching and Learning Toolkit]]** 英国[[Education Endowment Foundation|教育捐赠基金会]]以[[Effect Size|效应量]]与额外学习月数排名 30+ 类教育干预的循证政策工具。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019)]]
 > - **[[Creativity|创造力]]全领域二阶元分析** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶元分析（2,609 项原始研究、124 万被试），运用 [[Correlated and Hierarchical Effects Model|CHE]] 与 [[Robust Variance Estimation|RVE]] 确立创造力[[Predictive Validity|预测效度]]与教育干预效应。
 > - **[[Cooperative Learning|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting|逆方差加权]][[Fixed-Effect and Random-Effects Models|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与[[Affective Outcomes|情感行为]]的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect|调节效应]]。
-> - **[[Problem-Based Learning|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size|效应量]]），在[[Fixed-Effect and Random-Effects Models|随机效应模型]]下采用经典[[Inverse-Variance Weighting|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制[[Document|文献]]重叠与质量偏倚，报告问题本位学习对学生理论性知识、[[Clinical Skills|临床技能]]、[[Critical Thinking|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect|调节效应]]。
+> - **[[Problem-Based Learning|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size|效应量]]），在[[Fixed-Effect and Random-Effects Models|随机效应模型]]下采用经典[[Inverse-Variance Weighting|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制[[Document|文献]]重叠与质量偏倚，报告问题本位学习对学生[[Theoretical Knowledge|理论性知识]]、[[Clinical Skills|临床技能]]、[[Critical Thinking|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect|调节效应]]。
 > - **固定效应等价性与方法论批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 从固定效应数学模型推导 6 项要求并系统审查《可见的学习》。
 
 ---

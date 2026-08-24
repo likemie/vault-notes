@@ -8,7 +8,7 @@ aliases:
 summary: "由 David DeVries 与 Keith Edwards（1973）开创、Robert Slavin 发展的经典合作-竞赛混合教学模式。该方法以同质能力竞赛台（Tournament Tables）替代传统纸笔测验，通过异质小组互助备考与能力均等同伴竞赛，实现低焦虑、高动机的学业掌握与团队赋能。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Gamification]]"
   - "[[Growth]]"
   - "[[Self-Efficacy]]"
+  - "[[Student Attitude]]"
   - "[[Confidence Interval]]"
   - "[[Peer-Supported Learning]]"
   - "[[Academic Achievement]]"
@@ -116,7 +117,7 @@ updated: 2026-08-24
 > 游戏规则的即时反馈、适度竞争刺激与团队归属感相结合，能够显著降低学习焦虑并提高抗遗忘率。
 
 > [!claim] Güngör et al.
-> **游戏化合作模式对学业掌握的稳健支撑** 在[[Meta-meta-analysis|二阶元分析]]所涵盖的综合[[Cooperative Learning|合作学习]]研究池中，TGT 作为经典结构化技术之一，证实了将游戏化同伴互动融入常规学科复习能够显著提升基础教育阶段的学业掌握度与学习态度（综合合作效应 $ES = 0.61$）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–6)]]
+> **游戏化合作模式对学业掌握的稳健支撑** 在[[Meta-meta-analysis|二阶元分析]]所涵盖的综合[[Cooperative Learning|合作学习]]研究池中，TGT 作为经典结构化技术之一，证实了将游戏化同伴互动融入常规学科复习能够显著提升基础教育阶段的学业掌握度与[[Student Attitude|学习态度]]（综合合作效应 $ES = 0.61$）。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–6)]]
 
 ---
 
@@ -168,4 +169,4 @@ updated: 2026-08-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，将 TGT 明确纳入[[Cooperative Learning|合作学习]]经典技术体系，实证确立了结构化游戏与[[Peer-Supported Learning|同伴互助]]对学生[[Academic Achievement|学业成就]]与学习态度的中等促进效应（$ES = 0.71$）。
+> - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，将 TGT 明确纳入[[Cooperative Learning|合作学习]]经典技术体系，实证确立了结构化游戏与[[Peer-Supported Learning|同伴互助]]对学生[[Academic Achievement|学业成就]]与[[Student Attitude|学习态度]]的中等促进效应（$ES = 0.71$）。
