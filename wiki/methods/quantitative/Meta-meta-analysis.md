@@ -16,9 +16,9 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 60
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -226,15 +226,17 @@ flowchart LR
 
 ### 步骤一：固定效应二级汇总的经典等价性原理与独立性约束
 
-> [!concept-lens] 经典加权等价性原理
-> [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 证明：在[[Fixed-Effect and Random-Effects Models|固定效应模型]]下，如果对每个一阶[[Meta-analysis|元分析]]内部的主要研究按精度反比加权计算平均[[Effect Size|效应量]]，再在第二级对所有一阶元分析按其精度反比加权计算总平均，所得二阶估计值在数学形式上完全等同于直接对所有原始研究进行单级元分析。
+> [!formula-step] 公式步骤　固定效应二级汇总等价性定理
+> $$d_{\text{second}} = \frac{\sum_{j=1}^{m} w_j d_j}{\sum_{j=1}^{m} w_j} = \frac{\sum_{j=1}^{m} \left(\sum_{i=1}^{k_j} w_{ji}\right) d_j}{\sum_{j=1}^{m} \left(\sum_{i=1}^{k_j} w_{ji}\right)} = \frac{\sum_{\text{all } i} w_i d_i}{\sum_{\text{all } i} w_i}$$
+>
+> **这个公式在做什么** 证明当且仅当所有一阶[[Meta-analysis|元分析]]纳入的主要研究**互不重叠**且严格按精度反比（$w_j = 1/v_{d_j}$）加权时，二级固定效应元分析才在数学上等价于对所有原始研究直接进行的一级元分析。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–28)]]
 >
 > **关键前提与崩溃条件**
 > 该数学等价性成立的**充要条件是纳入的一阶元分析所包含的原始实证研究互不重叠**（抽样独立性假定）。一旦不同元分析重复纳入了相同的经典[[Document|文献]]，该研究的数据就会被重复计算，人为压缩了联合[[Standard Error|标准误]]，造成[[Confidence Interval|置信区间]]虚假过窄与假阳性检验结果膨胀。
 >
-> 🔗 完整数学证明与理论推导参见：**`21`** 与 **`22`**。
+> 🔗 完整数学证明与理论推导参见：[[Fixed-Effect and Random-Effects Models]] 与 Wecker 等人的论证。
 
-> [!ref-table]- [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 二阶元分析 6 项方法论要求及其违背后果
+> [!ref-table] [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 二阶元分析 6 项方法论要求及其违背后果
 > | 要求编号 | 方法论准则与规范要求 | 违背类型 | 对效应量 $d$ 与标准误 $SE_d$ 的影响后果 |
 > |---|---|---|---|
 > | **要求 1** | 统一效应量测度（推荐 Hedges' $g$），正确计算合并标准差，严格区分 SE 与 SD，执行 Fisher's $z$ 转换。 | 测度混合 / SE 与 SD 混淆 | 效应量可放大或缩小十倍（如 Eisenstaedt 1990 中 SE=2.74 被当 SD，导致 $d$ 从 $-0.80$ 膨胀至 $-8.29$），极端值严重扭曲总体平均。 |
@@ -257,7 +259,7 @@ flowchart LR
 > **协方差工作矩阵的插补机制**
 > 通过设定合理的先验集群内相关常数（如 $\rho = 0.8$），CHE 模型构建块对角抽样协方差矩阵，使得广义最小二乘（GLS）加权估计能够紧密贴合数据的真实多层依赖结构，大幅提高点估计的精度。
 >
-> 🔗 完整三水平方差分解公式与协方差矩阵插补参见：**`23`**。
+> 🔗 完整三水平方差分解公式与协方差矩阵插补参见：相关与层级效应模型（CHE）。
 
 ---
 
@@ -272,19 +274,19 @@ flowchart LR
 > **破局机理**
 > 即使纳入的一阶元分析之间存在不可避免的主要研究重复引用，或者研究者设定的工作模型相关系数（$\rho$）不完全准确，经验残差外积也能自动捕获数据中的真实相关性与超额波动，**自动将虚假缩小的标准误修正回真实水平**。配合 Hotelling $T^2$ 小样本调整，确保在集群数量有限时检验的假阳性率被严格控制在名义水平（如 0.05）。
 >
-> 🔗 完整三明治矩阵公式与小样本校正算法参见：**`24`**。
+> 🔗 完整三明治矩阵公式与小样本校正算法参见：稳健方差估计（RVE）。
 
 ---
 
 ### 步骤四：多水平小研究效应检验与截距偏倚校正原理
 
-> [!concept-lens] 截距校正真实效应量原理
+> [!concept-lens] 截距校正真实[[Effect Size|效应量]]原理
 > 经典艾格回归将元分析内不同效应量视为独立点，容易将“同一综述内部效应量的聚集性”误判为[[Publication Bias|发表偏倚]]。[[Multilevel Egger's Test|多水平艾格检验]]在三水平随机效应架构下，将抽样标准误（$\text{SE}$）作为[[Independent Variable|自变量]]纳入回归模型：
 >
 > 1. **偏倚诊断原理** 若回归斜率系数显著大于零，表明小样本研究系统性报告了偏大的效应量，证实全领域存在小研究效应或发表偏倚；
 > 2. **截距校正原理** 回归方程的截距项在数学上对应抽样标准误趋近于零（$\text{SE} \to 0$，即理论无限大样本研究）时的渐近效应量。通过逆双曲正切函数（$\tanh$）将截距还原，即可直接提取出**剔除小样本膨胀效应后的无偏真实效应量基准**。
 >
-> 🔗 完整多水平回归模型与偏倚校正公式参见：**`25`**。
+> 🔗 完整多水平回归模型与偏倚校正公式参见：[[Multilevel Egger's Test|多水平艾格检验]]。
 
 ---
 
