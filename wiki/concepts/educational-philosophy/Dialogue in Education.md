@@ -110,12 +110,12 @@ updated: 2026-08-25
 > | | 2.3 教师个别化指导对话<br>（Dyad with teacher） | 师生一对一深度交流，针对学生认知障碍提供精准脚手架 | $k = 2$ | $0.43$ $[-0.17, 1.04]$ | 同上 |
 > | | 2.4 教师引导全班研讨<br>（Whole class with teacher） | 教师协调全班多元观点交锋，梳理论证链条并引导综合 | $k = 16$ | $0.42$ $[0.20, 0.64]$ | 同上 |
 > | | 2.5 教师引导小组研讨<br>（Small group with teacher） | 教师深入小组参与讨论，引导小组探究方向并化解认知瓶颈 | $k = 14$ | $0.41$ $[0.19, 0.63]$ | 同上 |
-> | **生生互动类** | 2.2 学生自主生成提问<br>（Students posing questions） | 学生基于句干脚手架（如 King 对等提问法）主动向同伴发问 | $k = 4$ | $0.37$ $[-0.02, 0.77]$ | King (1995); Abrami et al. |
+> | **生生互动类** | 2.2 [[Reciprocal Peer Questioning\|学生自主生成提问]]<br>（Students posing questions） | 学生基于句干脚手架（如 King 对等提问法）主动向同伴发问 | $k = 4$ | $0.37$ $[-0.02, 0.77]$ | [[Reciprocal Peer Questioning]] |
 > | | 2.6 无教师双人配对对话<br>（Dyad without teacher） | 结对同伴自由研讨任务，缺乏教师即时脚手架支持 | $k = 12$ | $0.19$ $[-0.04, 0.42]$ | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 > | | 2.7 无教师全班讨论<br>（Whole class without teacher） | 缺乏教师主持的大班自由讨论，易流于发散与表层交流 | $k = 2$ | $0.04$ $[-0.56, 0.63]$ | 同上 |
 > | | 2.8 无教师自主小组讨论<br>（Small group without teacher） | 小组在无教师直接介入下进行合作探究与观点协商 | $k = 24$ | $0.26$ $[0.09, 0.43]$ | 同上 |
-> | | 2.9 正式规则论辩<br>（Debate） | 在明确规则和正反立场约束下进行结构性质询与反驳 | $k = 8$ | $0.32$ $[0.03, 0.61]$ | 同上 |
-> | | 2.10 成果汇报后研讨答辩<br>（Oral presentations） | 学生展示探究成果并接受全班质询与同行评议 | $k = 5$ | $0.29$ $[-0.07, 0.65]$ | 同上 |
+> | | 2.9 [[Classroom Debate\|课堂辩论]]<br>（Debate） | 在明确规则和正反立场约束下进行结构性质询与反驳 | $k = 8$ | $0.32$ $[0.03, 0.61]$ | [[Classroom Debate]] |
+> | | 2.10 成果汇报后研讨答辩<br>（Oral presentations） | 学生展示探究成果并接受全班质询与同行评议 | $k = 5$ | $0.29$ $[-0.07, 0.65]$ | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 > | **专门流派** | 2.11 [[Socratic Dialogue\|苏格拉底对话]]<br>（Socratic dialogue） | 连续追问前提[[Hypothesis\|假设]]、界定[[Definition of Terms\|术语定义]]并暴露逻辑矛盾 | $k = 8$ | $0.27$ $[-0.01, 0.55]$ | [[Socratic Dialogue]] |
 > | | 批判教育学问题化对话<br>（Problem-Posing Dialogue） | 师生共同提出生成性问题并审视社会压迫结构 | 质性/理论 | — | [[Problem-Posing Education]] |
 > | | [[Mother-Child Conversation\|母子学习对话]]（MCC） | 家庭社会化中以心智启发为核心的日常对话互动 | 质性/语篇 | — | [[Mother-Child Conversation]] |

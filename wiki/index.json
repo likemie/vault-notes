@@ -4351,6 +4351,18 @@
     ]
   },
   {
+    "title": "Classroom Debate",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Classroom Debate.md",
+    "aliases": [
+      "课堂辩论",
+      "辩论教学法",
+      "教育辩论",
+      "educational debate",
+      "academic debate"
+    ]
+  },
+  {
     "title": "Classroom Learning Culture",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Classroom Learning Culture.md",
@@ -4600,6 +4612,19 @@
       "问题本位学习",
       "PBL",
       "基于问题的学习"
+    ]
+  },
+  {
+    "title": "Reciprocal Peer Questioning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Reciprocal Peer Questioning.md",
+    "aliases": [
+      "互惠同伴提问法",
+      "对等提问法",
+      "互惠提问",
+      "相互提问教学法",
+      "reciprocal questioning",
+      "guided peer questioning"
     ]
   },
   {

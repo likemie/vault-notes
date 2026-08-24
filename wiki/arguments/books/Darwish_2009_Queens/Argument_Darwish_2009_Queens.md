@@ -611,7 +611,7 @@ related_persons:
 >   TOK 课程指南将认识者（单数与复数）置于课程的核心图解中央，四周由各种知识领域（Areas of Knowledge / AOK）与认知方式（Ways of Knowing / WOK）所环绕。这一架构明确拒绝了“空白知者”假设，承认学生作为认识主体的切身经验价值 (IBO, 2007, p. 4; Darwish, 2009, p. 72)。
 > 
 > - **与杜威在做中学与反思探究的深度契合**
->   TOK 课程强调[[Reflexivity|反思性]]质询（Reflective Questioning）与开放讨论，鼓励学生追问我们如何知道我们所宣称知道的，在课堂辩论中践行[[Learning by Doing|在做中学]]，培育民主社会所需的批判思维与多元文化包容度 (Darwish, 2009, pp. 74–76)。
+>   TOK 课程强调[[Reflexivity|反思性]]质询（Reflective Questioning）与开放讨论，鼓励学生追问我们如何知道我们所宣称知道的，在[[Classroom Debate|课堂辩论]]中践行[[Learning by Doing|在做中学]]，培育民主社会所需的批判思维与多元文化包容度 (Darwish, 2009, pp. 74–76)。
 > 
 > - **与弗莱雷对话理念的横向契合**
 >   TOK 课程打破了传统教师单向宣讲的[[Narration Sickness|叙事病]]，要求教师扮演质询者与促进者角色，引导学生倾听不同文化背景同伴的声音，审查自身的隐蔽偏见与意识形态教条 (Darwish, 2009, pp. 76–78)。
