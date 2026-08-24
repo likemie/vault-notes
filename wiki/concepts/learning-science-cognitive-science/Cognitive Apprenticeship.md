@@ -57,7 +57,7 @@ updated: 2026-08-25
 
 ## 概念辨析
 
-> [!contrast-table] 认知学徒制与传统学徒制及直接讲授辨析
+> [!contrast-table] 认知学徒制与传统学徒制及[[Direct Instruction|直接讲授]]辨析
 > | 维度 | 认知学徒制（Cognitive Apprenticeship） | 传统手工艺学徒制（Traditional Craft） | 传统直接讲授（[[Direct Instruction]]） |
 > |---|---|---|---|
 > | **学习对象** | 抽象认知策略、批判审证与[[Metacognition\|元认知]]监控 | 物理性操作技能与工艺流程 | 事实性知识、抽象概念与标准化公式 |

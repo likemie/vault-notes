@@ -23,6 +23,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"
+  - "[[Direct Instruction]]"
   - "[[Educative Conceptual Change]]"
   - "[[Constructive Alignment]]"
   - "[[Assessment Backwash]]"
@@ -156,7 +157,7 @@ updated: 2026-08-20
 > **意义产生于学生的活动** [[Argument_Biggs_1999_HERD|Marton & Säljö (1976, as cited in Biggs, 1999, pp. 59–60)]] 的阅读研究显示，面向预测考题的学生把文本拆成可能被提问的细节，最终记住零散事实，却没有理解作者要说明什么；面向理解的学生则把细节放回整体论证中，因而看见事实如何共同支持作者的观点。Biggs 据此把表层方式界定为与任务不相称的低阶活动，把深层方式界定为足以处理任务并获得相应结果的活动。
 
 > [!claim] [[John Hattie|Hattie, J.]]
-> **事实基础与深层加工必须衔接** 表层知识是深层理解的重要起点，但只获得信息仍不充分。问题本位学习要求学生调用既有知识建立因果模型。新手的知识基础不足时，容易添加无关材料、从未知条件倒推，并保留推理错误。教学设计应先判断学生是否掌握支持复杂活动的知识，再安排联系、解释与迁移，不宜抽象地比较直接讲授和自主探究。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 84–85)]]
+> **事实基础与深层加工必须衔接** 表层知识是深层理解的重要起点，但只获得信息仍不充分。问题本位学习要求学生调用既有知识建立因果模型。新手的知识基础不足时，容易添加无关材料、从未知条件倒推，并保留推理错误。教学设计应先判断学生是否掌握支持复杂活动的知识，再安排联系、解释与迁移，不宜抽象地比较[[Direct Instruction|直接讲授]]和自主探究。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 84–85)]]
 
 > [!claim] McPhail et al.
 > **课程连贯性使知识能够被使用** [[Curriculum Design Coherence Model|课程设计连贯性模型]]把深层学习具体化为[[Knowledge-that and Know-how-to|知其然]]与[[Knowledge-that and Know-how-to|知其所用]]之间的连接。只讲抽象概念会使课程悬空，只堆积事实会使课程拥挤，只训练技能又会使课程工具化；当学生能够把命题与概念应用于新情境，并说明知识与实践之间为何如此连接时，深层理解才有了可观察的表现。[[Argument_McPhail_2023_JCS|McPhail et al. (2023, pp. 4–16)]]

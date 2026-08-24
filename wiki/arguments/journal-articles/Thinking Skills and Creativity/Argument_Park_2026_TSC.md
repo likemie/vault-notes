@@ -44,6 +44,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Sampling Error]]"
   - "[[Between-Study Variance]]"
+  - "[[Performance Indicators]]"
   - "[[Self-Efficacy]]"
   - "[[Sample Size Determination]]"
   - "[[Funnel Plot]]"
@@ -52,7 +53,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Predictive Validity]]"
   - "[[Effective Teaching]]"
-  - "[[Performance Indicators]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
@@ -75,7 +75,8 @@ related_instruments:
   - "[[Consensual Assessment Technique]]"
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
 sources:
@@ -107,7 +108,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]都被视为学生在 21 世纪立足的关键技能：全美教育协会（National Education Association, NEA）将两者列为教育者应帮助学生发展的核心技能，美国心理学会（American Psychological Association, APA）与世界经济论坛亦强调其个体与经济价值；2000–2021 年间批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能的核心成分（Thornhill-Miller et al., 2023）。然而，两者关系的直接实证证据长期稀缺（Runco, 2003; Runco & Chand, 1994），这种关系上的不明朗既削弱了对它们在教育与学习中[[Interaction Effect|交互作用]]的理解，也阻碍了联合训练与联合评估机会的开发。随着人工智能对人工创造与人工思考能否侵蚀或替代人类心智能力的争论升温（Partnership for 21st Century Skills, 2009; Runco, 2023; Spector & Ma, 2019），厘清这两个[[Construct|构念]]究竟相互关联、相互独立还是彼此对立，成为教育心理学与课程设计都必须回应的核心问题。（pp. 1–2）
+> [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]都被视为学生在 21 世纪立足的关键技能：全美教育协会（[[National Education]] Association, NEA）将两者列为教育者应帮助学生发展的核心技能，美国心理学会（American Psychological Association, APA）与世界经济论坛亦强调其个体与经济价值；2000–2021 年间批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能的核心成分（Thornhill-Miller et al., 2023）。然而，两者关系的直接实证证据长期稀缺（Runco, 2003; Runco & Chand, 1994），这种关系上的不明朗既削弱了对它们在教育与学习中[[Interaction Effect|交互作用]]的理解，也阻碍了联合训练与联合评估机会的开发。随着人工智能对人工创造与人工思考能否侵蚀或替代人类心智能力的争论升温（Partnership for 21st Century Skills, 2009; Runco, 2023; Spector & Ma, 2019），厘清这两个[[Construct|构念]]究竟相互关联、相互独立还是彼此对立，成为教育心理学与课程设计都必须回应的核心问题。（pp. 1–2）
 
 > [!claim] 核心主张
 > 在[[Meta-analysis|元分析]]综合的学生样本中，创造力与批判性思维呈显著的中等正相关（$r = 0.386$，95% [[Confidence Interval|置信区间]]（Confidence Interval, CI）$[0.296, 0.470]$），该相关随测量类型显著变化：两者都用自陈（主观）测量时相关最高（$r = 0.509$），两者都用任务表现（客观）测量时次之（$r = 0.317$），混合测量组合相关最低，这既表明两个构念共享部分认知基础，也提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。（pp. 2–3, 9）
@@ -198,51 +199,51 @@ issuing_organization: ""
 > - **稳健性** RVE（clubSandwich，Pustejovsky, 2023）施加于 metafor 三水平模型（Viechtbauer, 2010）（pp. 4–5）。
 > - **软件** R 包 "meta"（Balduzzi et al., 2019）（p. 4）。
 
-> [!ref-table]- 纳入研究特征与测量类型编码清单（Table 1，原文复刻）
-> | Author/Country | Age of Participants | Student Level | Geographical Region | CT Measurement (S/O) | CR Measurement (S/O) |
+> [!ref-table]- 纳入研究特征与测量类型编码清单（Table 1）
+> | 研究（国家） | 参与者年龄 | 学段 | 地理区域 | 批判性思维测量（主观/客观） | 创造力测量（主观/客观） |
 > |---|---|---|---|---|---|
-> | Akpur (2020) | NA | College | Middle East | The Critical Thinking Scale (Objective) | Marmara Creative Thinking Dispositions Scale (Subjective) |
-> | AlMahdawi et al. (2021) | 16.5 | Middle/High school | Middle East | Online Survey Questionnaire for High School Students’ Performance Indicators in Distance Learning in Chemistry during the COVID-19 Pandemic - Critical Thinking Domain (Subjective) | Online Survey Questionnaire for High School Students’ Performance Indicators in Distance Learning in Chemistry during the COVID-19 Pandemic - Creativity and Innovation Domain (Subjective) |
-> | Álvarez-Huerta et al. (2022) | 20.35 | College | Other countries | Critical Thinking Disposition Scale (Spanish adaptation) (Subjective) | Creative Self-Efficacy Instrument (Subjective) |
-> | Anderson and Beach (2022) | 14.5 | Middle/High school | North America | Student MetaSkills Survey - Critical Thinking Domain (Subjective) | Student MetaSkills Survey - Creativity Domain (Subjective) |
-> | Brubaker (1971) | NA | College | North America | The Critical Thinking Scale (Objective) | Creative Personality Scale (Subjective) |
-> | Egger et al. (1997) | NA | College | North America | Written analysis provided by students assessed using a critical thinking rubric (Objective) | Creation of Product Design (Objective) |
-> | Gadzella and Penland (1995) | NA | College | North America | WGCTA (Objective) | 16 Personality Factor Creativity scale (Subjective) |
-> | Gibson et al. (1968) | NA | College | North America | WGCTA (Objective) | Alternate Uses Test (Objective) |
-> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA (Objective) | Alternate Uses Test (Objective) |
-> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA (Objective) | Guilford Associational Fluency Test (Objective) |
-> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA (Objective) | Guilford Ideational Fluency Test – Fluency (Objective) |
-> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA (Objective) | Guilford Ideational Fluency Test – Originality (Objective) |
-> | Guan et al. (2024) | 20.29 | College | East Asia | Critical Thinking Scale (Subjective) | Creative Self-Efficacy Scale (Subjective) |
-> | Guan et al. (2024) | 20.29 | College | East Asia | Runco Ideational Behavior Scale (Subjective) | Creative Self-Efficacy Scale (Subjective) |
-> | Khatami et al. (2023) | 22.5 | College | Middle East | Critical Thinking Questionnaire (Subjective) | TTCT (Objective) |
-> | Kocak et al. (2021) | 21.82 | College | Middle East | Computational Thinking Scale – Critical Thinking subdimension (Subjective) | Computational Thinking Scale - Creativity subdimension (Subjective) |
-> | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale (Subjective) | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Investigative Creativity) (Subjective) |
-> | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale (Subjective) | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Analytical Creativity) (Subjective) |
-> | Li et al. (2022) | NA | College | East Asia | 4C Skills – Critical Thinking Domain (Subjective) | 4C Skills - Creativity Domain (Subjective) |
-> | Ling and Loh (2020) | 17.5 | Middle/High school | East Asia | CCTT (modified) (Objective) | Creativity Selected Elements Questionnaire (modified) (Subjective) |
-> | Long and Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale (Subjective) | Creative Self-Efficacy Scale (Subjective) |
-> | Long and Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale (Subjective) | Creativity Scale (Subjective) |
-> | Lu et al. (2023) | 20.13 | College | East Asia | Critical Thinking Disposition Scale (Subjective) | Creative Self-Efficacy Scale (Subjective) |
-> | Lu et al. (2023) | 20.13 | College | East Asia | Critical Thinking Disposition Scale (Subjective) | Creative Achievement Questionnaire (Subjective) |
-> | Misset (2012) | NA | Middle/High school | North America | CCTT (Objective) | TTCT - Verbal Fluency (Objective) |
-> | Misset (2012) | NA | Middle/High school | North America | CCTT (Objective) | TTCT - Verbal Flexibility (Objective) |
-> | Misset (2012) | NA | Middle/High school | North America | CCTT (Objective) | TTCT - Verbal Originality (Objective) |
-> | Orakci (2023) | NA | College | Middle East | Critical Thinking Scale (Subjective) | Creativity Scale (How Creative Are You?) (Subjective) |
-> | Pepe (2018) | 23.5 | College | Middle East | CCTDI (Subjective) | The Creativity Level Scale (Subjective) |
-> | Prakoso et al. (2021) | NA | College | East Asia | Critical Thinking Disposition Instrument (Subjective) | Creativity Scale (Subjective) |
-> | Qiang et al. (2020) | 16.2 | Middle/High school | East Asia | CCTDI (Subjective) | Scientific Creativity (Objective) |
-> | Qiang et al. (2020) | 16.2 | Middle/High school | East Asia | CCTDI (Subjective) | Trait-like Creative Self Efficacy (Subjective) |
-> | Runco et al. (1992) | 21.7 | College | North America | The Advanced Structure of Intellect Test for Critical and Analytical Thinking (Objective) | Divergent Thinking Test (Originality - uniqueness) (Objective) |
-> | Runco et al. (1992) | 21.7 | College | North America | The Advanced Structure of Intellect Test for Critical and Analytical Thinking (Objective) | Divergent Thinking Test (Fluency - popular) (Objective) |
-> | Shaber et al. (2025) | 18.5 | College | Middle East | Critical Thinking Assessment Tool (Objective) | Adapted version of Torrance Test of Creative Thinking – Verbal (Objective) |
-> | Silva et al. (2023) | 21.4 | College | Other countries | Critical Thinking Disposition Scale (Subjective) | Critical and Creative Thinking Test – Fluency (Objective) |
-> | Silva et al. (2023) | 21.4 | College | Other countries | Critical Thinking Disposition Scale (Subjective) | Critical and Creative Thinking Test – Flexibility (Objective) |
-> | Silva et al. (2023) | 21.4 | College | Other countries | Critical Thinking Disposition Scale (Subjective) | Critical and Creative Thinking Test – Originality (Objective) |
-> | Ulger (2016) | 21.74 | College | Middle East | CCTDI (Subjective) | TTCT (Objective) |
-> | Wechsler et al. (2018) | 21.35 | College | Other countries | PENCRISAL Critical Thinking Test (Objective) | Verbal Creative Thinking (based on TTCT - Verbal) (Objective) |
-> | Yang and Lin (2004) | 18 | Middle/High school | East Asia | WGCTA (Objective) | Chopsticks Creativity Test (Objective) |
-> | Yurt (2024) | 21.48 | College | Middle East | Critical Thinking Disposition Scale (Subjective) | Marmara Creative Thinking Disposition Scale (Subjective) |
+> | Akpur (2020) | NA | College | Middle East | The Critical Thinking Scale（客观） | Marmara Creative Thinking Dispositions Scale（主观） |
+> | AlMahdawi et al. (2021) | 16.5 | Middle/High school | Middle East | [[Internet-based Survey\|online survey]] [[Questionnaire]] for High School Students’ [[Performance Indicators]] in Distance Learning in Chemistry during the COVID-19 Pandemic - Critical Thinking Domain（主观） | Online Survey Questionnaire for High School Students’ Performance Indicators in Distance Learning in Chemistry during the COVID-19 Pandemic - Creativity and Innovation Domain（主观） |
+> | Álvarez-Huerta et al. (2022) | 20.35 | College | Other countries | Critical Thinking Disposition Scale (Spanish adaptation)（主观） | Creative [[Self-Efficacy]] Instrument（主观） |
+> | Anderson & Beach (2022) | 14.5 | Middle/High school | North America | Student MetaSkills Survey - Critical Thinking Domain（主观） | Student MetaSkills Survey - Creativity Domain（主观） |
+> | Brubaker (1971) | NA | College | North America | The Critical Thinking Scale（客观） | Creative Personality Scale（主观） |
+> | Egger et al. (1997) | NA | College | North America | Written analysis provided by students assessed using a critical thinking rubric（客观） | Creation of Product Design（客观） |
+> | Gadzella & Penland (1995) | NA | College | North America | WGCTA（客观） | 16 Personality Factor Creativity scale（主观） |
+> | Gibson et al. (1968) | NA | College | North America | WGCTA（客观） | Alternate Uses Test（客观） |
+> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Alternate Uses Test（客观） |
+> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Guilford Associational Fluency Test（客观） |
+> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Guilford [[Divergent Thinking\|ideational fluency]] Test – Fluency（客观） |
+> | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Guilford Ideational Fluency Test – Originality（客观） |
+> | Guan et al. (2024) | 20.29 | College | East Asia | Critical Thinking Scale（主观） | Creative Self-Efficacy Scale（主观） |
+> | Guan et al. (2024) | 20.29 | College | East Asia | [[Runco Ideational Behavior Scale]]（主观） | Creative Self-Efficacy Scale（主观） |
+> | Khatami et al. (2023) | 22.5 | College | Middle East | Critical Thinking Questionnaire（主观） | TTCT（客观） |
+> | Kocak et al. (2021) | 21.82 | College | Middle East | Computational Thinking Scale – Critical Thinking subdimension（主观） | Computational Thinking Scale - Creativity subdimension（主观） |
+> | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Investigative Creativity)（主观） |
+> | Komsu (2021) | 24.5 | Postgraduate | Middle East | UF/EMI Critical Thinking Disposition Scale（主观） | Kaufman Domains of Creativity Scale - Academic Creativity sub-dimension (Analytical Creativity)（主观） |
+> | Li et al. (2022) | NA | College | East Asia | 4C Skills – Critical Thinking Domain（主观） | 4C Skills - Creativity Domain（主观） |
+> | Ling & Loh (2020) | 17.5 | Middle/High school | East Asia | CCTT (modified)（客观） | Creativity Selected Elements Questionnaire (modified)（主观） |
+> | Long & Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creative Self-Efficacy Scale（主观） |
+> | Long & Long (2023) | 19.08 | College | East Asia | Critical Thinking Scale（主观） | Creativity Scale（主观） |
+> | Lu et al. (2023) | 20.13 | College | East Asia | Critical Thinking Disposition Scale（主观） | Creative Self-Efficacy Scale（主观） |
+> | Lu et al. (2023) | 20.13 | College | East Asia | Critical Thinking Disposition Scale（主观） | [[Creative Achievement Questionnaire]]（主观） |
+> | Misset (2012) | NA | Middle/High school | North America | CCTT（客观） | TTCT - Verbal Fluency（客观） |
+> | Misset (2012) | NA | Middle/High school | North America | CCTT（客观） | TTCT - Verbal Flexibility（客观） |
+> | Misset (2012) | NA | Middle/High school | North America | CCTT（客观） | TTCT - Verbal Originality（客观） |
+> | Orakci (2023) | NA | College | Middle East | Critical Thinking Scale（主观） | Creativity Scale (How Creative Are You?)（主观） |
+> | Pepe (2018) | 23.5 | College | Middle East | [[California Critical Thinking Disposition Inventory\|CCTDI]]（主观） | The Creativity Level Scale（主观） |
+> | Prakoso et al. (2021) | NA | College | East Asia | Critical Thinking Disposition Instrument（主观） | Creativity Scale（主观） |
+> | Qiang et al. (2020) | 16.2 | Middle/High school | East Asia | CCTDI（主观） | Scientific Creativity（客观） |
+> | Qiang et al. (2020) | 16.2 | Middle/High school | East Asia | CCTDI（主观） | Trait-like Creative Self Efficacy（主观） |
+> | Runco et al. (1992) | 21.7 | College | North America | The Advanced Structure of Intellect Test for Critical and Analytical Thinking（客观） | Divergent Thinking Test (Originality - uniqueness)（客观） |
+> | Runco et al. (1992) | 21.7 | College | North America | The Advanced Structure of Intellect Test for Critical and Analytical Thinking（客观） | Divergent Thinking Test (Fluency - popular)（客观） |
+> | Shaber et al. (2025) | 18.5 | College | Middle East | Critical Thinking Assessment Tool（客观） | Adapted version of Torrance Test of Creative Thinking – Verbal（客观） |
+> | Silva et al. (2023) | 21.4 | College | Other countries | Critical Thinking Disposition Scale（主观） | Critical and Creative Thinking Test – Fluency（客观） |
+> | Silva et al. (2023) | 21.4 | College | Other countries | Critical Thinking Disposition Scale（主观） | Critical and Creative Thinking Test – Flexibility（客观） |
+> | Silva et al. (2023) | 21.4 | College | Other countries | Critical Thinking Disposition Scale（主观） | Critical and Creative Thinking Test – Originality（客观） |
+> | Ulger (2016) | 21.74 | College | Middle East | CCTDI（主观） | TTCT（客观） |
+> | Wechsler et al. (2018) | 21.35 | College | Other countries | PENCRISAL Critical Thinking Test（客观） | Verbal Creative Thinking (based on TTCT - Verbal)（客观） |
+> | Yang & Lin (2004) | 18 | Middle/High school | East Asia | WGCTA（客观） | Chopsticks Creativity Test（客观） |
+> | Yurt (2024) | 21.48 | College | Middle East | Critical Thinking Disposition Scale（主观） | Marmara Creative Thinking Disposition Scale（主观） |
 >
 > 注：CCTDI = 加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory）；CCTT = 康奈尔批判性思维测验（Cornell Critical Thinking Test）；TTCT = 托兰斯创造性思维测验（Torrance Tests of Creative Thinking）；WGCTA = 沃森-格拉泽批判性思维评价（Watson-Glaser Critical Thinking Appraisal）。表中测量名称、主客观编码与数值按原文 Table 1 复刻；原文报告 51 个估计嵌套于 29 项研究（总样本 $N = 12{,}548$），PDF 文本层可读取 42 行。Egger et al. (1997) 行在原文中即以该文献编号标注对应创业模拟研究。（pp. 5–6）
 
@@ -280,7 +281,7 @@ issuing_organization: ""
 > 教育机构、心理学会与经济论坛均强调两种技能的发展价值，批判性思维研究在 2000–2021 年间持续增长；人工智能对人工创造与人工思考的争论进一步抬高研究兴趣；然而直接考察两者关系的实证研究很少，构成明确的知识缺口。（pp. 1–2）
 
 > [!chain-link] 证据到判断
-> - **机构与学界共同强调** 全美教育协会（National Education Association, 2012）、美国心理学会（American Psychological Association, 2016）与世界经济论坛（Di Battista et al., 2023）把两者列为 21 世纪核心技能；文献计量综述显示 2000–2021 年批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能核心成分（Thornhill-Miller et al., 2023）。（pp. 1–2）
+> - **机构与学界共同强调** 全美教育协会（National Education Association, 2012）、美国心理学会（American Psychological Association, 2016）与世界经济论坛（Di Battista et al., 2023）把两者列为 21 世纪核心技能；[[Document|文献]]计量综述显示 2000–2021 年批判性思维研究发表稳步增长（Dong et al., 2023），近期综述把两者定位为 21 世纪技能核心成分（Thornhill-Miller et al., 2023）。（pp. 1–2）
 > - **人工智能争论抬高兴趣** 人工创造与人工思考能否替代人类心智的争论强化了研究这两种独特能力的必要性（Partnership for 21st Century Skills, 2009; Runco, 2023; Spector & Ma, 2019）。（pp. 1–2）
 > - **关系证据长期稀缺** 尽管兴趣高涨，直接考察两者关系的实证研究很少（Runco, 2003; Runco & Chand, 1994），构成知识缺口。（p. 2）
 
@@ -297,7 +298,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - **创造力定义** 自 Guilford 1950 年 APA 主席演讲后，学界共识为特定领域中既新颖又有用的观念或产品（Amabile, 2019; Kaufman & Beghetto, 2009; Stein, 1953; Sternberg & Lubart, 1998）。（p. 2）
 > - **批判性思维定义** 从哲学、教育扩展到心理学的科学构念，涵盖态度、知识、技能与倾向及质疑、分析、解释、评价、判断与辨识能力，并以自我调节为本质（Dwyer, 2017; Glaser, 1941）。（p. 2）
-> - **领域特殊性与表面对立** 两个构念均具[[Domain Specificity|领域特殊性]]，心理与护理各有特定界定（Lawson, 1999, 2015; Alfaro-LeFevre, 1999），发散生成对收敛评价的对立构成两者共存的挑战（Ennis, 1987; Sternberg & Halpern, 2020）。（pp. 1–2）
+> - **[[Domain Specificity|领域特殊性]]与表面对立** 两个构念均具[[Domain Specificity|领域特殊性]]，心理与护理各有特定界定（Lawson, 1999, 2015; Alfaro-LeFevre, 1999），发散生成对收敛评价的对立构成两者共存的挑战（Ennis, 1987; Sternberg & Halpern, 2020）。（pp. 1–2）
 
 > [!tension] 创造力与批判性思维的概念对立
 > - **[[Creativity\|创造力]]（发散生成）** 强调非预期、非传统、非常规的观念生成，产出既新颖又有用的可能性；位于问题解决的生成阶段。
@@ -344,7 +345,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - **检索与纳入** 覆盖 PsycINFO、Academic Search Ultimate、ProQuest 与 ScienceDirect，关键词 "creativity"、"creative"、"creativ*"、"critical thinking"，排除书章节/综述/非同行评审[[Document|文献]]，纳入同时含两种测量、报告定量相关、样本为学生的同行评审期刊论文与公开学位论文。（p. 4）
 > - **证据规模** 在 Park et al. (2023) 基础上新增 16 项、剔除 4 项，最终纳入 29 项发表、51 个相关估计、总样本 $N = 12{,}548$。（p. 4）
-> - **编码与调节变量** 测量按主观（自陈/自评）与客观（观念/产品产出或任务表现）[[Coding in Qualitative Research|编码]]，并提取年龄、学段、年份、地理区域四个调节变量。（pp. 4–5）
+> - **[[Coding in Qualitative Research|编码]]与调节变量** 测量按主观（自陈/自评）与客观（观念/产品产出或任务表现）[[Coding in Qualitative Research|编码]]，并提取年龄、学段、年份、地理区域四个调节变量。（pp. 4–5）
 
 > [!case] 嵌套效应量的来源：同一研究为何贡献多个相关
 > 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽批判性思维评价（WGCTA）分别匹配非常规用途测验、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一批判性思维倾向量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。（p. 4）
@@ -445,7 +446,7 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - **预测效度与边界可渗透** 创造力对批判性思维具有某种[[Predictive Validity|预测效度]]，创造性成就测量可能有助于学术选拔；[[Creative Problem Solving|创造性问题解决]]模型与批判性思维模型分别把批判性评价与创造性[[Hypothesis|假设]]生成纳入彼此构念，边界比传统假设更可渗透（Isaksen & Treffinger, 2004; Kuhn, 1999）。（p. 10）
-> - **协同教学机制** 同时培养创造性构想与评价性推理的教学可能产生更广认知收益，可采用开放式任务先发散生成、再结构化反思、批评与修正的教学序列（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]），设计思维、探究式项目与[[Socrates|苏格拉底]]式提问是兼顾两者的课堂实践；以提升批判性思维为目标的有效教学同样可能附带发展创造力。（p. 10）
+> - **协同教学机制** 同时培养创造性构想与评价性推理的教学可能产生更广认知收益，可采用开放式任务先发散生成、再结构化反思、批评与修正的教学序列（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]），设计思维、探究式项目与[[Socrates|苏格拉底]]式提问是兼顾两者的课堂实践；以提升批判性思维为目标的[[Effective Teaching|有效教学]]同样可能附带发展创造力。（p. 10）
 > - **个体内边界** 相关基于个体间变异（Molenaar, 2004），训练其一带动其二仍需纵向与交叉滞后面板分析验证方向性（Kenny, 1975）。（p. 10）
 
 > [!implication]- 教育与实践含义

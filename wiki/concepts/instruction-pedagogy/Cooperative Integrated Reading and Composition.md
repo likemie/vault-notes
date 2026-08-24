@@ -23,6 +23,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Decodification]]"
   - "[[Peer-Supported Learning]]"
+  - "[[Direct Instruction]]"
   - "[[Effect Size]]"
   - "[[Classroom Management]]"
   - "[[Confidence Interval]]"
@@ -79,7 +80,7 @@ updated: 2026-08-24
 ## 核心要素与教学规程
 
 > [!feature] CIRC 的三大主体组成与五步教学规程
-> - **主体模块一：直接讲授与策略建模（Teacher-Led Instruction）** 教师精讲阅读策略（预测、推论、识别主旨、故事要素结构）与写作技能。
+> - **主体模块一：[[Direct Instruction|直接讲授]]与策略建模（Teacher-Led Instruction）** 教师精讲阅读策略（预测、推论、识别主旨、故事要素结构）与写作技能。
 > - **主体模块二：同伴结对读写活动（Team Practice Activities）**
 >   1. **配对朗读（Partner Reading）** 组内两人结对轮流朗读段落，伙伴即时纠正错误并给予反馈。
 >   2. **生字词汇协商（Word Meaning & Vocabulary）** 共同研读目标词汇，互相造句并解释词义。
