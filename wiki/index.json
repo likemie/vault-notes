@@ -2484,6 +2484,18 @@
     ]
   },
   {
+    "title": "Affective Outcomes",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Affective Outcomes.md",
+    "aliases": [
+      "情感产出",
+      "情感行为",
+      "Affective Behaviors",
+      "affective behaviors",
+      "情感领域学习产出"
+    ]
+  },
+  {
     "title": "Constructed Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Constructed Knowledge.md",
@@ -18579,6 +18591,11 @@
     "title": "Argument_Downey_2016_SoE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md"
+  },
+  {
+    "title": "Argument_Erdem_2026_SHE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md"
   },
   {
     "title": "Argument_Biesta_2010_SPE",

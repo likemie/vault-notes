@@ -8,10 +8,10 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 45
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/critical-thinking
   - theme/curriculum
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Cooperative Learning]]"
   - "[[Academic Achievement]]"
+  - "[[Affective Outcomes]]"
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
   - "[[Knowledge Questions]]"
@@ -37,6 +38,9 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Blue Skies Research]]"
+  - "[[Ecological Validity]]"
   - "[[Publication Bias]]"
   - "[[Evaluativist]]"
   - "[[Multiplist]]"
@@ -49,6 +53,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Quasi-Experimental Designs]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
@@ -64,6 +69,7 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
+  - "[[Argument_Erdem_2026_SHE]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -71,7 +77,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-08-16
+updated: 2026-08-24
 ---
 
 # Critical Thinking
@@ -192,7 +198,7 @@ updated: 2026-08-16
 > **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole 等人的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250, 255–259)]]
 
 > [!claim] [[Argument_Gungor_2026_CP|Güngör, F., et al.]]
-> **同伴互动与社会建构赋能** [[Meta-meta-analysis|二阶元分析]]表明，[[Cooperative Learning|合作学习]]（Cooperative Learning，CL）对涵盖批判性思维的[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）具有强劲的促进效应（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），高于常规[[Academic Achievement|学业成就]]（$ES = 0.71$）与情感行为（$ES = 0.51$）。其核心机制在于[[Heterogeneity|异质性]]同伴在面对面互动中必须阐明推理依据、处理认知冲突并协商达成共识，从社会交往层面直接激发了深度批判性反思。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
+> **同伴互动与社会建构赋能** [[Meta-meta-analysis|二阶元分析]]表明，[[Cooperative Learning|合作学习]]（Cooperative Learning，CL）对涵盖批判性思维的[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）具有强劲的促进效应（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），高于常规[[Academic Achievement|学业成就]]（$ES = 0.71$）与[[Affective Outcomes|情感行为]]（$ES = 0.51$）。其核心机制在于[[Heterogeneity|异质性]]同伴在面对面互动中必须阐明推理依据、处理认知冲突并协商达成共识，从社会交往层面直接激发了深度批判性反思。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
 
 ### 命题三　批判性思维的迁移来自通用结构与具体情境的动态结合
 
@@ -268,6 +274,7 @@ updated: 2026-08-16
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Higher-Order Thinking Skills\|高阶思维技能]]（包含批判性思维与创造性思维） | 4 项一阶元分析 / 403 项原始实证研究 | Cohen's $d$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]]经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$ | 高，失安全系数 $N = 4954$ 与剪补法证实无发表偏倚 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | [[Critical Thinking\|批判性思维]]（高等教育 [[Problem-Based Learning\|问题本位学习]]结果） | 20 项一阶元分析；批判性思维亚组 k = 6 | 标准化均差（SMD）；[[Fixed-Effect and Random-Effects Models\|随机效应模型]] | ES = 0.56 [0.24, 0.89] | 数据集总异质性 Q(46) = 730.67, p < .001, I² = 93.70% | 高；高等教育 PBL 情境 |
 > | [[Argument_Cole_2015_AJE\|Abrami et al. (2008)]] | 批判性思维技能 | 117 / 20,698 | — | — | — | — |
 >
 > 现有 Argument 仅记录研究数量、总样本和条件方向。效应指标、汇总效应、异质性及证据确定性需在处理元分析原文后回填。
@@ -342,3 +349,4 @@ updated: 2026-08-16
 > - **术语表演与议程冲突** [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 分析 ToK 评估框架如何诱发术语表演，并揭示开放探究与科学知识传播之间的课程张力。
 > - **[[Epistemology|认识论]]引擎** [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 揭示了批判性思维不仅仅是一套认知技能，其发生的动机和动力受制于个体的底层认识论发展阶段。
 > - **[[Cooperative Learning|合作学习]]与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 基于 15 项一阶[[Meta-analysis|元分析]]开展二阶元分析，证实合作学习对批判性思维等[[Higher-Order Thinking Skills|高阶思维技能]]具有最强的赋能效应（$ES = 0.76$），从[[Constructivist Paradigm|社会建构主义]]视角确立了同伴互动与认知冲突对批判性反思的驱动机制。
+> - **[[Problem-Based Learning|PBL]] 与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析，报告 PBL 对高等教育学生[[Critical Thinking|批判性思维]]的高效应（ES = 0.56），并将批判性思维作为结果类型之一纳入调节分析。

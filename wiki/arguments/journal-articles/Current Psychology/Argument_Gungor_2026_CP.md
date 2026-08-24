@@ -30,6 +30,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Sampling Error]]"
   - "[[Academic Achievement]]"
+  - "[[Affective Outcomes]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
@@ -93,7 +94,7 @@ title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -117,7 +118,7 @@ issuing_organization: ""
 > - **测量产出单一** 仅聚焦低阶常规学业考试成绩，而忽略[[Higher-Order Thinking Skills|高阶思维]]与情感动机；
 > - **学科范围单一** 过度集中于数学等个别学科，缺乏跨学科全局视野。
 >
-> 这种碎片化合成极大增加了[[Document|文献]]的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量证据综合，系统评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与情感行为的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable|变量]]的作用机制？（pp. 1–3）
+> 这种碎片化合成极大增加了[[Document|文献]]的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量证据综合，系统评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与[[Affective Outcomes|情感行为]]的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable|变量]]的作用机制？（pp. 1–3）
 
 > [!claim] 核心主张
 > 基于 15 项一阶元分析（涵盖 403 项原始实证研究、23 个独立[[Effect Size|效应量]]（Effect Size，ES））的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis，SOMA）表明，合作学习对学生的综合学习产出具有显著且高度稳健的中等促进效应（加权平均效应量 $ES = 0.71$，95% [[Confidence Interval|置信区间]]（Confidence Interval，CI）为 $[0.55, 0.87]$），其中对高阶思维技能的赋能效应最为突出（$ES = 0.76$），高于学业成就（$ES = 0.71$）与情感行为（$ES = 0.51$）。其干预成效受到具体合作学习教学技术（合作整合阅读与写作（Cooperative Integrated Reading and Composition，CIRC）与小组[[Survey Research|调查法]]（Group Investigation，GI）效应最高）、学科领域（语言、社会科与自然科学学科成效显著，体育学科不显著）以及原始研究实验设计类型（真实课堂准实验显著高于人工实验室全实验）的显著调节，同时揭示出当前软科学元分析严重匮乏的结构性文献失衡。（pp. 6–11）
@@ -278,7 +279,7 @@ issuing_organization: ""
 
 ### 论证步骤三：合作学习总体效果稳健，对高阶思维赋能最突出
 
-> [!claim] [[Cooperative Learning|合作学习]]对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与情感行为均具显著中等促进效应，且对高阶思维赋能最为突出
+> [!claim] [[Cooperative Learning|合作学习]]对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与[[Affective Outcomes|情感行为]]均具显著中等促进效应，且对高阶思维赋能最为突出
 > [[Fixed-Effect and Random-Effects Models|随机效应模型]]加权合成显示合作学习总体效应量为 $ES = 0.71$，高阶思维技能效应量最高（$ES = 0.76$），且全套偏倚检验证实结论无[[Publication Bias|发表偏倚]]。（pp. 6–9）
 
 > [!chain-link] 证据到判断
@@ -394,7 +395,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **[[Cooperative Learning|合作学习]]对学生的综合学习产出具有稳健的中等促进效应** [[Meta-meta-analysis|二阶元分析]]汇总 15 项一阶[[Meta-analysis|元分析]]（403 项原始实证研究、23 个独立[[Effect Size|效应量]]），得出加权平均效应量为 $ES = 0.71$（$95\%\text{ CI} = [0.55, 0.87]$），失安全系数（$N = 4954$）、Egger 回归与剪补法一致证实该结论高度稳健且无[[Publication Bias|发表偏倚]]。（pp. 6–8）
-> 2. **合作学习对[[Higher-Order Thinking Skills|高阶思维技能]]的赋能效应最为突出** 合作学习对高阶思维技能（HOTS）的促进效应达到 $ES = 0.76$（$95\%\text{ CI} = [0.42, 1.11]$），高于[[Academic Achievement|学业成就]]（$ES = 0.71$）与情感行为（$ES = 0.51$），实证确立了[[Heterogeneity|异质性]]同伴互动与认知冲突在培养批判性与[[Creativity|创造性]]思维中的核心价值。（pp. 8–9）
+> 2. **合作学习对[[Higher-Order Thinking Skills|高阶思维技能]]的赋能效应最为突出** 合作学习对高阶思维技能（HOTS）的促进效应达到 $ES = 0.76$（$95\%\text{ CI} = [0.42, 1.11]$），高于[[Academic Achievement|学业成就]]（$ES = 0.71$）与[[Affective Outcomes|情感行为]]（$ES = 0.51$），实证确立了[[Heterogeneity|异质性]]同伴互动与认知冲突在培养批判性与[[Creativity|创造性]]思维中的核心价值。（pp. 8–9）
 > 3. **教学技术与学科领域对干预效能产生显著调节分化** CIRC 整合阅读（$ES = 2.04$）与小组[[Survey Research|调查法]]（$ES = 1.08$）成效最强；语言（$ES = 2.04$）、社会科（$ES = 0.96$）与自然科学（$ES = 0.92$）学科效益显著，数学呈现中等效益（$ES = 0.70$），而体育教育领域效应微弱且不显著（$ES = 0.05$），同时揭示出当前软科学元分析严重匮乏的结构性失衡。（pp. 8–10）
 > 4. **真实课堂准实验展现出显著高于实验室全实验的[[Ecological Validity|生态效度]]** [[Quasi-Experimental Designs|准实验设计]]报告了 $ES = 1.11$ 的高效应量，而严格个体[[Random Assignment|随机化]]的全实验设计效应为零（$ES = 0.00$），表明合作学习高度依赖班级常态社会情境、师生默契与长周期文化积淀。（pp. 8–11）
 
@@ -437,7 +438,7 @@ issuing_organization: ""
 > 5. **语言与地理区域集中度偏高** 检索主要基于英文发表[[Document|文献]]，且样本高度集中于印尼与土耳其，存在潜在的地点与语言偏倚。
 > 6. **文献类型仅限于已发表期刊文章** 未能纳入博硕士学位论文等更广泛的未发表灰色文献以进一步降低潜在[[Publication Bias|发表偏倚]]。
 > 7. **模型范畴限定于[[Cooperative Learning|合作学习]]** 未涵盖协作学习（collaborative learning）、同伴学习（peer learning）及团队导向学习（team-based learning）等其他[[Constructivist Paradigm|建构主义]]小群体互动模式。
-> 8. **情感产出缺乏子维度的精细化拆解** 将各类情感行为粗放合并分析，未来亟待针对内在动机、[[Self-Efficacy|自我效能感]]与学科态度等具体子维度开展更精细的元分析。（p. 11）
+> 8. **[[Affective Outcomes|情感产出]]缺乏子维度的精细化拆解** 将各类情感行为粗放合并分析，未来亟待针对内在动机、[[Self-Efficacy|自我效能感]]与学科态度等具体子维度开展更精细的元分析。（p. 11）
 
 ---
 

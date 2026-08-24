@@ -9,10 +9,10 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - "theme/academic-achievement"
   - "theme/epistemological-beliefs"
@@ -63,6 +63,7 @@ related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Lodewyk_2007_EP]]"
   - "[[Argument_Greene_2010_JEP]]"
+  - "[[Argument_Gungor_2026_CP]]"
 confidence: medium
 status: draft
 created: 2026-08-15
@@ -208,6 +209,8 @@ updated: 2026-08-20
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 学业成就 | 151 / 55,418 | r；随机效应 | 0.162 [0.135, 0.189] | I²=88.77%，Q=1335.22 | — |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学业成就（Academic Achievement） | 12 项一阶元分析 | Cohen's $d$ / 随机效应模型 | $ES = 0.71$ $[0.52, 0.90]$ | $I^2 = 93.70\%$ | 稳健中等促进效应 |
+
 
 > [!ma-table]- 调节[[Variable|变量]]与亚组分析：成就类型与测量方式
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

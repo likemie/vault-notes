@@ -9,7 +9,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、推论推理与复杂问题解决"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Publication Bias]]"
 related_theories: []
@@ -153,37 +154,23 @@ updated: 2026-08-24
 > |---|---|---|---|---|---|---|---|
 > | Siagian et al. (2023) | [[Cooperative Learning\|合作学习]]干预 vs 传统讲授 | 数学高阶思维（批判性与[[Creativity\|创造性思维]]） | 35 项与 24 项实证研究 | 实验组高阶思维表现显著优于对照组 | $ES = 0.79$ 与 $ES = 0.69$ | 统计学显著 | 基础教育阶段[[Quasi-Experimental Designs\|准实验设计]]，采用标准化与教师自编高阶测验 |
 > | Solissa et al. (2023) | 拼图法（Jigsaw）vs 常规教学 | [[21st Century Skills and Competencies Discourse\|21世纪技能]]（批判思维、创造性与问题解决） | 10 项实证研究 | 拼图法组高阶素养显著提升 | $ES = 0.84$ $[0.66, 1.03]$ | 统计学显著 | 跨学科跨学段综合合作教学干预 |
-> | Özkan & Çetinkaya-Uslusoy (2024) | 拼图法 vs 常规临床带教 | 护理临床[[Critical Thinking\|批判性思维]]与高阶决策 | 4 项实证研究 | 实验组批判性思维显著增强 | $ES = 0.70$ $[0.13, 1.26]$ | 统计学显著 | 高等护理专业临床准实验 |
 
-> [!ma-table]- [[Meta-analysis|元分析]]总体结果（Higher-Order Thinking Skills）
+> [!ma-table]- [[Meta-analysis\|元分析]]总体结果（Higher-Order Thinking Skills）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 证据确定性 |
+> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 证据确定性 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 高阶思维技能（Higher-Order Thinking Skills，HOTS） | 4 项一阶元分析 / 403 项原始实证研究 | Cohen's $d$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]]经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$ | 高，失安全系数 $N = 4954$ 证实无发表偏倚 |
 
-> [!ma-table]- 元分析总体结果（[[Academic Achievement]]）
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% CI | 异质性与预测区间 | 证据确定性 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学业成就（Academic Achievement） | 12 项一阶元分析 | Cohen's $d$ / 随机效应模型 | $ES = 0.71$ $[0.52, 0.90]$ | $I^2 = 93.70\%$ | 稳健中等促进效应 |
-
-> [!ma-table]- 元分析总体结果（Affective Behaviors）
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% CI | 异质性与预测区间 | 证据确定性 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 情感行为（Affective Behaviors） | 6 项一阶元分析 | Cohen's $d$ / 随机效应模型 | $ES = 0.51$ $[0.17, 0.84]$ | $I^2 = 93.70\%$ | 积极正向促进效应 |
-
-> [!ma-table]- 调节[[Variable|变量]]与亚组分析
+> [!ma-table]- 调节[[Variable\|变量]]与亚组分析
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学习产出类型 | 亚组分析 | 高阶思维技能（$ES = 0.76$）> 学业成就（$ES = 0.71$）> 情感行为（$ES = 0.51$） | $ES = 0.76$ $[0.42, 1.11]$ | $Q_b(3) = 4.35, p = .23$ | 预设 | 点估计表明合作互动对高阶认知加工具有最大的相对增益 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | 亚组分析 | CIRC 整合读写（$ES = 2.04$）与小组调查法（$ES = 1.08$）最强，拼图法（$ES = 0.72$） | $ES = 2.04$ vs $ES = 1.08$ vs $ES = 0.72$ | $Q_b(3) = 9.36, p = .02$ | 预设 | 深度文本协商与自主探究型合作对高阶思维赋能最深 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | 亚组分析 | 整合阅读写作法（CIRC，$ES = 2.04$）与小组调查法（$ES = 1.08$）最强，拼图法（$ES = 0.72$） | $ES = 2.04$ vs $ES = 1.08$ vs $ES = 0.72$ | $Q_b(3) = 9.36, p = .02$ | 预设 | 深度文本协商与自主探究型合作对高阶思维赋能最深 |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 实验设计类型 | 亚组分析 | 真实课堂准实验（$ES = 1.11$）显著优于实验室全实验（$ES = 0.00$） | $ES = 1.11$ $[0.72, 1.50]$ | $Q_b(2) = 9.83, p = .01$ | 预设 | 高阶思维培养高度依赖自然真实的课堂文化与长周期人际互动 |
+
 
 > [!ma-table]- 稳健性与偏倚
 > <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>

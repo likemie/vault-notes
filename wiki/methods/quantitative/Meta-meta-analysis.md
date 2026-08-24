@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 70
+method_related_count: 74
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -61,6 +61,9 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Affective Outcomes]]"
+  - "[[Problem-Based Learning]]"
+  - "[[Critical Thinking]]"
   - "[[Epistemology]]"
   - "[[Critique of Meta-meta-analysis]]"
 related_theories:
@@ -94,6 +97,7 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Wrigley_2019_ERE]]"
+  - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -170,7 +174,7 @@ updated: 2026-08-24
 >
 > - **第二代：标准伞状综述与经典规范二阶元分析（2010s）**
 >
->   针对第一代的统计乱象，Cooper & Koenka（2012）在《Research Synthesis Methods》系统提出了综述之综述（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；Wecker, Vogel & Hetmanek（2016）从数学基础推导出六项方法论规范；Güngör et al.（2026）则将该[[Paradigm|范式]]应用于[[Cooperative Learning|合作学习]]领域。第二代二阶元分析建立了 PRISMA 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**随机效应模型**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或校正覆盖面积（CCA）控制[[Document|文献]]重叠，全面报告置信区间与[[Publication Bias|发表偏倚]]检验。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]; [[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
+>   针对第一代的统计乱象，Cooper & Koenka（2012）在《Research Synthesis Methods》系统提出了综述之综述（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；Wecker, Vogel & Hetmanek（2016）从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]]则将该[[Paradigm|范式]]应用于[[Cooperative Learning|合作学习]]领域。第二代二阶元分析建立了 PRISMA 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**随机效应模型**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或校正覆盖面积（CCA）控制[[Document|文献]]重叠，全面报告置信区间与[[Publication Bias|发表偏倚]]检验。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]; [[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
 >
 > - **第三代：现代多水平与集群稳健二阶元分析（2013–至今）**
 >
@@ -355,7 +359,8 @@ flowchart LR
 > - **[[Visible Learning]]** Hattie (2009) 综合 800 多项[[Meta-analysis|元分析]]的开创性巨型综合项目。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
 > - **[[EEF Teaching and Learning Toolkit]]** 英国[[Education Endowment Foundation|教育捐赠基金会]]以[[Effect Size|效应量]]与额外学习月数排名 30+ 类教育干预的循证政策工具。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019)]]
 > - **[[Creativity|创造力]]全领域二阶元分析** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶元分析（2,609 项原始研究、124 万被试），运用 [[Correlated and Hierarchical Effects Model|CHE]] 与 [[Robust Variance Estimation|RVE]] 确立创造力[[Predictive Validity|预测效度]]与教育干预效应。
-> - **[[Cooperative Learning|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting|逆方差加权]][[Fixed-Effect and Random-Effects Models|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与情感行为的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect|调节效应]]。
+> - **[[Cooperative Learning|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting|逆方差加权]][[Fixed-Effect and Random-Effects Models|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与[[Affective Outcomes|情感行为]]的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect|调节效应]]。
+> - **[[Problem-Based Learning|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size|效应量]]），在[[Fixed-Effect and Random-Effects Models|随机效应模型]]下采用经典[[Inverse-Variance Weighting|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制[[Document|文献]]重叠与质量偏倚，报告问题本位学习对学生理论性知识、临床技能、[[Critical Thinking|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect|调节效应]]。
 > - **固定效应等价性与方法论批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 从固定效应数学模型推导 6 项要求并系统审查《可见的学习》。
 
 ---
