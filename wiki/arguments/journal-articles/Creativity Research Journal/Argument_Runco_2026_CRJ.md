@@ -76,6 +76,8 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size Conversion]]"
+  - "[[Correlated and Hierarchical Effects Model]]"
+  - "[[Multilevel Egger's Test]]"
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Meta-regression]]"
   - "[[Role-playing]]"
@@ -92,7 +94,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -204,8 +206,8 @@ issuing_organization: ""
 > 2. **PRISMA 筛选与严格排除** 全文评估 78 篇，排除无合并统计量的质性综述（如 Bicer et al., 2021）与无关系效应量的脑成像坐标元分析（如 Boccia et al., 2015; Brown & Kim, 2021; Gonen-Yaacovi et al., 2013; Pidgeon et al., 2016; Wu et al., 2015），最终纳入 52 篇。（pp. 3–4）
 > 3. **AMSTAR 12 项方法学质量评估** 双人独立[[Coding in Qualitative Research|编码]]（97% 一致性），设立得分达到 0.75 为高质量判定门槛。（p. 4）
 > 4. **效应量标准化转换与正态化** 统一转换为相关系数 $r$ 并经费舍尔 $z$ 正态化转换。（p. 5）
-> 5. **多水平 CHE 与 RVE 稳健方差建模** 设定集群内相关系数为 0.8，基于经验残差构造三明治估计量，运用霍特林 $T^2$ 近似检验进行小样本 $F$ 检验。（pp. 5–6）
-> 6. **多水平艾格回归偏倚校正** 检验小研究效应（$F(1, 10.9) = 15.7, p = .002$），输出偏倚校正后二阶效应量 $r = 0.17$（95% [[Confidence Interval|置信区间]] $[0.11, 0.22]$）。（p. 6）
+> 5. **多水平 [[Correlated and Hierarchical Effects Model|相关与层级效应模型]] 与 [[Robust Variance Estimation|稳健方差估计]] 建模** 设定集群内相关系数为 0.8，基于经验残差构造三明治估计量，运用霍特林 $T^2$ 近似检验进行小样本 $F$ 检验。（pp. 5–6）
+> 6. **[[Multilevel Egger's Test|多水平艾格回归]]偏倚校正** 检验小研究效应（$F(1, 10.9) = 15.7, p = .002$），输出偏倚校正后二阶效应量 $r = 0.17$（95% [[Confidence Interval|置信区间]] $[0.11, 0.22]$）。（p. 6）
 
 > [!example]- 图1：[[Literature Search|文献检索]]与筛选流程图（PRISMA [[Flow]] Diagram）
 > ![](https://img.mylikemie.icu/sources/Runco_2026_CRJ/figures/Runco_2026_CRJ_Fig1_PRISMA_Flow_Diagram.jpg)
@@ -244,7 +246,7 @@ issuing_organization: ""
 > **数学直觉** 经典方差估计依赖于效应量相互独立的[[Hypothesis|假设]]；三明治估计量通过外积残差矩阵 $\mathbf{e}_j \mathbf{e}_j^T$ 代替未知的真实方差结构，即使工作模型设定存在偏差，大样本下估计量依然无偏且有效。（pp. 5–6）
 
 > [!warrant]- 推理桥梁
-> 传统[[Literature Review|文献综述]]无法量化汇总效应的[[Reliability|可靠性]]，而二阶抽样误差与研究重叠使得早期粗糙元综合面临诸多方法论质疑（参见 [[Critique of Meta-meta-analysis|元-元分析批判]]）。通过 CHE 工作模型与稳健方差估计进行经验残差校正，并结合艾格回归纠正小研究效应，系统克服了传统二阶综合的统计缺陷，保证了统计推断在复杂依赖情境下的严密性。（pp. 3, 5–6）
+> 传统[[Literature Review|文献综述]]无法量化汇总效应的[[Reliability|可靠性]]，而二阶抽样误差与研究重叠使得早期粗糙元综合面临诸多方法论质疑（参见 [[Critique of Meta-meta-analysis|元-元分析批判]]）。通过 [[Correlated and Hierarchical Effects Model|相关与层级效应模型]] 与 [[Robust Variance Estimation|稳健方差估计]] 进行经验残差校正，并结合 [[Multilevel Egger's Test|多水平艾格回归]] 纠正小研究效应，系统克服了传统二阶综合的统计缺陷，保证了统计推断在复杂依赖情境下的严密性。（pp. 3, 5–6）
 
 ---
 

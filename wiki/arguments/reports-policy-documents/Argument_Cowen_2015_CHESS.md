@@ -12,7 +12,7 @@ title: "Argument_Cowen_2015_CHESS"
 argument_key: "Argument_Cowen_2015_CHESS"
 argument_display_title: "Making the Most of the Evidence: Evidence-based policy in the classroom"
 argument_kind: "report"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Literature Review]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Creativity]]"
   - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
@@ -56,7 +57,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-08-24
 year: 2015
 doi: ""
 citation_aliases:
@@ -91,7 +92,7 @@ citation_aliases:
 >    - [[Literature Review|文献综述]]识别出 EBP 实施的三个关键前提：本地知识、专业自主性和判断力、以及适合从业者使用的证据呈现方式
 >    - Cartwright & Munro (2010) 的框架表明，[[Randomised Controlled Trials|RCT]] 仅提供"在某处有效"的证据，要做出"对我们有效"的预测需要理解因果机制
 >    - 教师访谈证实：成功实施需理解干预措施的底层原理（underlying rationale），而非机械遵循手册
->    - 证据以不可预测的方式与现有知识和[[Praxis|实践]]互动——既可用于克服制度惯性，也可用于创造性偏离
+>    - 证据以不可预测的方式与现有知识和[[Praxis|实践]]互动——既可用于克服制度惯性，也可用于[[Creativity|创造性]]偏离
 >    - 问责机制（[[Ofsted]]）可能阻挠证据的审慎使用，尤其对新学校和弱势生源学校
 >    - 教师专业[[Dialogue in Education|对话]]和辩论是证据阐释的重要机制，"传统 vs 进步"的意识形态分化推动了更深度的证据参与
 >

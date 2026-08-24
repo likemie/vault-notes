@@ -11496,6 +11496,17 @@
     ]
   },
   {
+    "title": "Correlated and Hierarchical Effects Model",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Correlated and Hierarchical Effects Model.md",
+    "aliases": [
+      "相关与层级效应模型",
+      "CHE",
+      "CHE model",
+      "Correlated and Hierarchical Effects"
+    ]
+  },
+  {
     "title": "Coupling Coordination Model",
     "type": "method",
     "path": "wiki/methods/quantitative/Coupling Coordination Model.md",
@@ -11808,6 +11819,18 @@
     "aliases": [
       "多阶段抽样",
       "multi-phase sample"
+    ]
+  },
+  {
+    "title": "Multilevel Egger's Test",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Multilevel Egger's Test.md",
+    "aliases": [
+      "多水平艾格检验",
+      "多水平艾格回归",
+      "Multilevel Egger's Regression",
+      "多水平发表偏倚检验",
+      "Multilevel Egger test"
     ]
   },
   {

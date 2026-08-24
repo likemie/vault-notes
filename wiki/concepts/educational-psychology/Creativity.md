@@ -9,7 +9,7 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Meta-regression]]"
+  - "[[Multilevel Egger's Test]]"
 related_instruments:
   - "[[AMSTAR]]"
 related_persons:
@@ -212,7 +213,7 @@ updated: 2026-08-24
 >
 > | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
 > |---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 检验相关系数先验假定敏感性（$\rho = 0.8$） | 多水平艾格回归检验小研究效应 | $r = 0.17$ $[0.11, 0.22]$（未校正 $r = 0.21$） | 效应略有回调，[[Statistical Significance\|统计显著性]]与结论方向保持稳定 | 存在显著小研究效应（$F(1, 10.9) = 15.7, p = .002$），偏倚校正后估计更为稳健 |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 检验相关系数先验假定敏感性（$\rho = 0.8$） | [[Multilevel Egger's Test\|多水平艾格回归]]检验小研究效应 | $r = 0.17$ $[0.11, 0.22]$（未校正 $r = 0.21$） | 效应略有回调，[[Statistical Significance\|统计显著性]]与结论方向保持稳定 | 存在显著小研究效应（$F(1, 10.9) = 15.7, p = .002$），偏倚校正后估计更为稳健 |
 
 ---
 

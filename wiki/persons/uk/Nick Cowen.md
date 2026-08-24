@@ -7,7 +7,7 @@ summary: "英国政治科学家，公共选择理论取向的教育政策分析�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
+  - "[[Creativity]]"
   - "[[Knowledge Questions]]"
   - "[[Paradigm]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
@@ -49,7 +50,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: '2026-06-08'
+updated: 2026-08-24
 ---
 ## 简介
 
@@ -67,7 +68,7 @@ updated: '2026-06-08'
 > **维度二：EBE 的实施困境（实证研究）**
 > [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] 通过对 22 位英国教师的精英访谈，揭示了 EBE 从"什么有效"到"在这里有效"之间的知识鸿沟。关键发现包括：
 >
-> 1. **证据实施的"流动性"** 学校不是"开箱即用"地应用证据本位方案。证据与已有知识、[[Praxis|实践]]和价值观以不可预测的方式互动——既可用于克服制度惯性，也可用于创造性偏离。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40-41]])
+> 1. **证据实施的"流动性"** 学校不是"开箱即用"地应用证据本位方案。证据与已有知识、[[Praxis|实践]]和价值观以不可预测的方式互动——既可用于克服制度惯性，也可用于[[Creativity|创造性]]偏离。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.40-41]])
 >
 > 2. **本地知识的不可或缺性** 教师的本地知识（学生特征、社区环境、学校文化）是证据成功实施的必要前提，而非需要被科学证据取代的"轶事"。([[Argument_Cowen_2015_CHESS|Cowen et al., 2015, p.14, 27-28]])
 >
