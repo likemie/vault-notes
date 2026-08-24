@@ -11,7 +11,7 @@ summary: "在元分析与证据合成中，将不同实证设计所报告的效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Meta-regression]]"
+  - "[[Inverse-Variance Weighting]]"
   - "[[Robust Variance Estimation]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
@@ -172,7 +173,7 @@ updated: 2026-08-24
 > **推导过程与数学原理**
 > 1. 根据大样本理论与 Delta 方法，样本相关系数 $r$ 的渐近方差强烈依赖于未知总体参数 $\rho$：
 >    $$\operatorname{Var}(r) \approx \frac{(1 - \rho^2)^2}{n}$$
-> 2. 当 $\rho \to \pm 1$ 时，$\operatorname{Var}(r) \to 0$ 且抽样分布严重左偏或右偏，直接进行线性逆方差加权会造成巨大估计偏倚。
+> 2. 当 $\rho \to \pm 1$ 时，$\operatorname{Var}(r) \to 0$ 且抽样分布严重左偏或右偏，直接进行线性[[Inverse-Variance Weighting|逆方差加权]]会造成巨大估计偏倚。
 > 3. 构造方差稳定化变换函数 $g(r)$，使得变换后变量的方差为常数。由 Delta 方法一阶近似：
 >    $$\operatorname{Var}(g(r)) \approx \left[ g'(\rho) \right]^2 \operatorname{Var}(r) \approx \left[ g'(\rho) \right]^2 \frac{(1 - \rho^2)^2}{n} = \text{常数}$$
 > 4. 令 $g'(\rho) \propto \frac{1}{1 - \rho^2}$，积分求解该一阶常微分方程：

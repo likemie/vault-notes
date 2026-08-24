@@ -11,7 +11,7 @@ summary: "在元分析中处理复杂依赖与嵌套效应量的统计方法，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Multilevel Egger's Test]]"
+  - "[[Inverse-Variance Weighting]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -103,7 +104,7 @@ updated: 2026-08-24
 
 ## 核心数学模型与完整推导：从 Wecker 经典加权到三明治估计量
 
-> [!formula-set] 从 Wecker 经典逆方差加权到现代三明治估计量的数学推导与演进
+> [!formula-set] 从 Wecker 经典[[Inverse-Variance Weighting|逆方差加权]]到现代三明治估计量的数学推导与演进
 > ```mermaid
 > flowchart LR
 >   A["步骤 1：Wecker 标量加权<br/>(经典逆方差加权平均)"] --> B["步骤 2：GLS 矩阵同构<br/>(面包层理论方差假定独立)"]

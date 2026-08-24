@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 69
+method_related_count: 70
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -71,6 +71,7 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Inverse-Variance Weighting]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Umbrella Review]]"
@@ -148,7 +149,7 @@ updated: 2026-08-24
 > [!contrast-table] 二阶元分析三代方法谱系多维对比
 > | 比较维度 | 第一代：粗放元综合<br>（Naive Meta-Synthesis） | 第二代：标准伞状二阶元分析<br>（Standard Umbrella / SOMA） | 第三代：现代多水平稳健二阶元分析<br>（Modern Multilevel & Robust SOMA） |
 > |---|---|---|---|
-> | **代表学者与文献** | Fraser, Walberg & Hattie (1987); Hattie (1992, 2008, 2009); Marzano (1998) | Cooper & Koenka (2012); Cafri et al. (2010); [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]; [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] | Schmidt & Oh (2013); Cheung (2014); Pustejovsky & Tipton (2022); [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] |
+> | **代表学者与文献** | Fraser, Walberg & Hattie (1987); Hattie (1992, 2008, 2009); Marzano (1998) | Cooper & Koenka (2012); Cafri et al. (2010); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | Schmidt & Oh (2013); Cheung (2014); Pustejovsky & Tipton (2022); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] |
 > | **分析单位** | 一阶元分析报告的算术平均值 $d$ | 一阶元分析提取的汇总效应量（$k$ 个独立观测项） | 一阶元分析[[Effect Size\|效应量]]及其多水平依赖集群（Clusters） |
 > | **[[Literature Search\|文献检索]]与质控** | 粗放纳入、无统一质量准入门槛 | 遵循 PRISMA 指南、采用 [[AMSTAR]] / R-AMSTAR 进行严格方法学质量评级 | 遵循 PRISMA 2020、严格 AMSTAR-2 质控并建立初级研究全量引用矩阵 |
 > | **效应量尺度处理** | 混用 $d, g, r, \Delta$ 等不同测度而不转换 | 将 OR、$r$、Hedges' $g$ 规范转换为统一 Cohen's $d$ 或 Fisher's $z$ | 统一进行效应量标准化、Fisher's $z$ 变换并保留完整协方差结构 |
@@ -165,7 +166,7 @@ updated: 2026-08-24
 >
 > - **第一代：早期探索与粗放元综合（1980s–2000s）**
 >
->   Glass 提出元分析 10 年后，Fraser, Walberg & Hattie（1987）首次综合 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。Hattie（1992, 2008, 2009）在《[[Visible Learning|可见的学习]]》中将其扩展至 800 多项元分析（涵盖 52,649 项研究、8300 万学生），建立 $d = 0.40$ 的影响气压计。然而第一代综合在统计上存在严重缺陷：采用简单算术平均而非逆方差加权、混用不同[[Effect Size|效应量]]测度、强行套用[[Fixed-Effect and Random-Effects Models|固定效应模型]]、完全忽略初级研究高达 90% 以上的重叠率，且不报告[[Confidence Interval|置信区间]]与显著性检验。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
+>   Glass 提出元分析 10 年后，Fraser, Walberg & Hattie（1987）首次综合 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]]。Hattie（1992, 2008, 2009）在《[[Visible Learning|可见的学习]]》中将其扩展至 800 多项元分析（涵盖 52,649 项研究、8300 万学生），建立 $d = 0.40$ 的影响气压计。然而第一代综合在统计上存在严重缺陷：采用简单算术平均而非[[Inverse-Variance Weighting|逆方差加权]]、混用不同[[Effect Size|效应量]]测度、强行套用[[Fixed-Effect and Random-Effects Models|固定效应模型]]、完全忽略初级研究高达 90% 以上的重叠率，且不报告[[Confidence Interval|置信区间]]与显著性检验。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
 >
 > - **第二代：标准伞状综述与经典规范二阶元分析（2010s）**
 >
@@ -278,7 +279,7 @@ flowchart LR
 > [!concept-lens] 从“理论模型[[Hypothesis|假设]]”到“经验残差修复”
 > [[Robust Variance Estimation|稳健方差估计]]（RVE）是现代二阶元分析破解 Wecker 等人指出的“文献重叠致命软肋”的标准解法。其核心在于经典的**“面包夹肉”三明治结构**
 >
-> - **两片面包（Bread）** 由 Wecker 经典逆方差加权矩阵构成；
+> - **两片面包（Bread）** 由 Wecker 经典[[Inverse-Variance Weighting|逆方差加权]]矩阵构成；
 > - **中间的夹心肉（Meat）** 由基于实际数据波动计算出的**经验残差外积矩阵**构成。
 >
 > **破局机理**
@@ -354,7 +355,7 @@ flowchart LR
 > - **[[Visible Learning]]** Hattie (2009) 综合 800 多项[[Meta-analysis|元分析]]的开创性巨型综合项目。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
 > - **[[EEF Teaching and Learning Toolkit]]** 英国[[Education Endowment Foundation|教育捐赠基金会]]以[[Effect Size|效应量]]与额外学习月数排名 30+ 类教育干预的循证政策工具。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019)]]
 > - **[[Creativity|创造力]]全领域二阶元分析** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶元分析（2,609 项原始研究、124 万被试），运用 [[Correlated and Hierarchical Effects Model|CHE]] 与 [[Robust Variance Estimation|RVE]] 确立创造力[[Predictive Validity|预测效度]]与教育干预效应。
-> - **[[Cooperative Learning|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review|伞状综述]]框架下采用单水平经典逆方差加权[[Fixed-Effect and Random-Effects Models|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与情感行为的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect|调节效应]]。
+> - **[[Cooperative Learning|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting|逆方差加权]][[Fixed-Effect and Random-Effects Models|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与情感行为的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect|调节效应]]。
 > - **固定效应等价性与方法论批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 从固定效应数学模型推导 6 项要求并系统审查《可见的学习》。
 
 ---

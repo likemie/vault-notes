@@ -1343,30 +1343,68 @@
   overflow-x: auto;
 }
 
-.callout[data-callout="logic-map"] .mermaid {
-  overflow: auto;
-  max-height: 380px;
-  padding: 0.5rem 0;
-  cursor: default;
-  /* 双向滚动：Obsidian 和 Quartz 均有效 */
+.callout[data-callout="logic-map"] .mermaid,
+.mermaid,
+.block-language-mermaid {
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+  max-width: 100% !important;
+  max-height: none !important;
+  padding: 0.6rem 0.2rem !important;
+  cursor: grab !important;
+  user-select: none;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
 }
 
-.callout[data-callout="logic-map"] .mermaid svg {
-  min-width: 640px;
-  height: auto;
-  max-height: none;
-  display: block;
+.callout[data-callout="logic-map"] .mermaid:active,
+.mermaid:active,
+.block-language-mermaid:active {
+  cursor: grabbing !important;
+}
+
+.callout[data-callout="logic-map"] .mermaid svg,
+.mermaid svg,
+.block-language-mermaid svg {
+  min-width: max-content !important;
+  max-width: none !important;
+  width: auto !important;
+  height: auto !important;
+  display: block !important;
   font-size: 15px;
 }
 
 /* Mermaid SVG 节点文字放大 */
 .callout[data-callout="logic-map"] .mermaid svg text,
-.callout[data-callout="logic-map"] .mermaid svg .label foreignObject div {
+.callout[data-callout="logic-map"] .mermaid svg .label foreignObject div,
+.mermaid svg text,
+.mermaid svg .label foreignObject div {
   font-size: 14px !important;
 }
 
-.callout[data-callout="logic-map"] .mermaid svg .edgeLabel .label {
+.callout[data-callout="logic-map"] .mermaid svg .edgeLabel .label,
+.mermaid svg .edgeLabel .label {
   font-size: 12px !important;
+}
+
+/* 美化横向滚动条 */
+.callout[data-callout="logic-map"] .mermaid::-webkit-scrollbar,
+.mermaid::-webkit-scrollbar,
+.block-language-mermaid::-webkit-scrollbar {
+  height: 6px;
+}
+
+.callout[data-callout="logic-map"] .mermaid::-webkit-scrollbar-thumb,
+.mermaid::-webkit-scrollbar-thumb,
+.block-language-mermaid::-webkit-scrollbar-thumb {
+  background: rgba(120, 140, 120, 0.4);
+  border-radius: 3px;
+}
+
+.callout[data-callout="logic-map"] .mermaid::-webkit-scrollbar-thumb:hover,
+.mermaid::-webkit-scrollbar-thumb:hover,
+.block-language-mermaid::-webkit-scrollbar-thumb:hover {
+  background: rgba(120, 140, 120, 0.7);
 }
 
 /* ─── line-a（靛蓝点阵）+ line-b（玫红网格） ─────────── */

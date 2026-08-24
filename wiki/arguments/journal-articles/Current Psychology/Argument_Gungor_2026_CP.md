@@ -66,6 +66,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Inverse-Variance Weighting]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlated and Hierarchical Effects Model]]"
@@ -89,7 +90,7 @@ title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -106,7 +107,14 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 21世纪知识社会对学生的高阶认知能力（问题解决、[[Creativity|创造性]]思维、[[Critical Thinking|批判性思维]]）与社会交往技能（团队协作、沟通表达、同理领导）提出了前所未有的要求，传统的以教师为中心、以知识单向传授为主的讲授式教学已难以满足这一多维素养的发展诉求。作为[[Constructivist Paradigm|社会建构主义]]的核心教学模式，[[Cooperative Learning|合作学习]]（Cooperative Learning，CL）自20世纪70年代在美国高校兴起后迅速推广至全球全学段与各学科领域。然而，既有大量一阶[[Meta-analysis|元分析]]（First-Order Meta-Analyses，FOM）虽证实了合作学习的积极效能，却普遍存在三类方法学局限：（1）地理区域单一，如局限于土耳其（Çapar & Tarım, 2015; Turgut & Gülşen Turgut, 2018）或印度尼西亚（Ridwan et al., 2022; Tanjung et al., 2022）；（2）测量产出单一，仅聚焦低阶学业考试成绩而忽略[[Higher-Order Thinking Skills|高阶思维]]与情感动机；（3）学科范围单一，过度集中于数学等个别学科。这种碎片化合成极大增加了[[Document|文献]]的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量证据综合，系统评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与情感行为的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable|变量]]的作用机制？（pp. 1–3）
+> 21世纪知识社会对学生的高阶认知能力（问题解决、[[Creativity|创造性]]思维、[[Critical Thinking|批判性思维]]）与社会交往技能（团队协作、沟通表达、同理领导）提出了前所未有的要求，传统的以教师为中心、以知识单向传授为主的讲授式教学已难以满足这一多维素养的发展诉求。作为[[Constructivist Paradigm|社会建构主义]]的核心教学模式，[[Cooperative Learning|合作学习]]（Cooperative Learning，CL）自20世纪70年代在美国高校兴起后迅速推广至全球全学段与各学科领域。
+>
+> 然而，既有大量一阶[[Meta-analysis|元分析]]（First-Order Meta-Analyses，FOM）虽证实了合作学习的积极效能，却普遍存在三类方法学局限：
+> - **地理区域单一** 高度局限于土耳其（Çapar & Tarım, 2015; Turgut & Gülşen Turgut, 2018）或印度尼西亚（Ridwan et al., 2022; Tanjung et al., 2022）等单一国别；
+> - **测量产出单一** 仅聚焦低阶常规学业考试成绩，而忽略[[Higher-Order Thinking Skills|高阶思维]]与情感动机；
+> - **学科范围单一** 过度集中于数学等个别学科，缺乏跨学科全局视野。
+>
+> 这种碎片化合成极大增加了[[Document|文献]]的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量证据综合，系统评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与情感行为的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable|变量]]的作用机制？（pp. 1–3）
 
 > [!claim] 核心主张
 > 基于 15 项一阶元分析（涵盖 403 项原始实证研究、23 个独立[[Effect Size|效应量]]）的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis，SOMA）表明，合作学习对学生的综合学习产出具有显著且高度稳健的中等促进效应（$ES = 0.71, 95\%\text{ [[Confidence Interval|CI]]} = [0.55, 0.87]$），其中对高阶思维技能的赋能效应最为突出（$ES = 0.76$），高于学业成就（$ES = 0.71$）与情感行为（$ES = 0.51$）。其干预成效受到具体合作学习教学技术（合作整合阅读与写作 CIRC 与小组[[Survey Research|调查法]]效应最高）、学科领域（语言、社会科与自然科学学科成效显著，体育学科不显著）以及原始研究实验设计类型（真实课堂准实验显著高于人工实验室全实验）的显著调节，同时揭示出当前软科学元分析严重匮乏的结构性文献失衡。（pp. 6–11）
@@ -160,7 +168,7 @@ issuing_organization: ""
 > | 一阶元分析研究 | 效应量 ES | 95% CI 下限 | 95% CI 上限 | 原始研究数 k | 学科领域 | 教育阶段 | 合作学习技术 | 研究区域 | 实验设计类型 | 测量产出 | 方法质量 | 发表偏倚 | 纳入[[Document\|文献]]年代 |
 > |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 > | **Çapar & Tarım (2015)** | 0.59 | 0.38 | 0.80 | 36 | 数学 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 学业成就 | 中等 | 无偏倚 | 1988–2010 |
-> | **Çapar & Tarım (2015)** | 0.52 | -0.20 | 0.60 | 7 | 数学 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 情感态度 | 中等 | 不清楚 | 1988–2010 |
+> | **Çapar & Tarım (2015)** | 0.52 | -0.20 | 1.24 | 7 | 数学 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 情感态度 | 中等 | 不清楚 | 1988–2010 |
 > | **Fuad et al. (2023)** | 2.04 | 1.35 | 2.74 | 10 | 语言（阅读） | K-12 | 整合阅读（CIRC） | 印度尼西亚 | 准实验设计 | 学业成就 | 中等 | 无偏倚 | 2015–2021 |
 > | **Gürdoğan-Bayır & Bozkurt (2018)** | 0.96 | 0.72 | 1.19 | 32 | 社会科 | K-12 | 综合合作学习 | 土耳其 | 全实验与准实验 | 学业成就 | 中等 | 不清楚 | 2005–2016 |
 > | **Kyndt et al. (2013)** | 0.54 | 0.47 | 0.60 | 51 | 混合学科 | 混合学段 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 检出偏倚 | 1995–2012 |
@@ -269,7 +277,11 @@ issuing_organization: ""
 > 合作学习之所以对高阶思维产生最强促进，是因为异质性组员在面对面互动中必须向同伴解释概念、处理认知冲突、质疑对立论点并协商形成共识，这一持续的社会建构过程直接激活了分析、评价与创造等深层认知加工；而全套发表偏倚检验证实该效应并非由选择性出版所制造。（pp. 8–10）
 
 > [!critique]- 方法学局限与统计边界反思
-> 本研究采用单水平经典[[Fixed-Effect and Random-Effects Models|随机效应模型]]的[[Inverse-Variance Weighting|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$，其中 $v_i$ 为一阶元分析方差，$\tau^2 = 0.13$ 为研究间异质性方差），在宏观整合上提供了全局基准，但存在两项明显的方法学局限：（1）**初级研究未微观去重**遵循 Cooper & Koenka (2012) 的 $\le 25\%$ 重叠率门槛，容许部分高影响力原始实验在不同一阶元分析中被重复计入（Double-Counting），导致其统计权重隐性放大；（2）**集群依赖性未建模** 将 15 项一阶元分析拆分为 23 个独立效应量（如 Kyndt et al. 贡献 3 个、Siagian et al. 贡献 2 个），缺乏现代多水平[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（CHE）与[[Robust Variance Estimation|稳健方差估计]]（RVE）的校正，理论上可能导致[[Standard Error|标准误]]被低估、置信区间偏窄。阅读与引用本效应量时需知悉其统计边界。（pp. 4–7）
+> 本研究采用单水平经典[[Fixed-Effect and Random-Effects Models|随机效应模型]]的[[Inverse-Variance Weighting|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$，其中 $v_i$ 为一阶元分析抽样方差，$\tau^2 = 0.13$ 为研究间异质性方差），在宏观整合上提供了全局基准，但存在四项关键的方法学局限与统计边界：
+> - **初级研究未微观去重（Double-Counting 风险）**遵循 Cooper & Koenka (2012) 的 $\le 25\%$ 重叠率宏观门槛，容许部分高影响力原始实验在不同一阶元分析中被重复计入，导致其统计权重被隐性放大；
+> - **集群依赖性未建模（Cluster-Dependence Ignored）** 将 15 项一阶元分析拆分为 23 个独立效应量（如 Kyndt et al. 贡献 3 个、Siagian et al. 贡献 2 个），缺乏现代多水平[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（CHE）进行三水平方差分解；
+> - **缺乏[[Robust Variance Estimation|稳健方差估计]]（No Robust Variance Estimation）** 未采用三明治估计量（RVE）校正聚类[[Standard Error|标准误]]，理论上会导致二阶[[Standard Error|标准误]]偏小、[[Confidence Interval|置信区间]]偏窄、显著性检验存在轻微假阳性膨胀风险；
+> - **效应量测度转换的粗放近似** 在将 Hedges' $g$ 与 Cohen's $d$ 合并时直接采用了大样本近似假设（$g \approx d$），未对小样本研究自由度进行精细分层。（pp. 4–7）
 
 ---
 
