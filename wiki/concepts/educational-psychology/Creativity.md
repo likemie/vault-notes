@@ -9,10 +9,10 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/creativity
   - construct/cognitive-ability
