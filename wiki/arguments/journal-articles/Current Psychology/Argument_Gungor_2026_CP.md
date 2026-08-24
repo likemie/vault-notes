@@ -79,6 +79,8 @@ related_methods:
   - "[[Inverse-Variance Weighting]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Fail-Safe N]]"
+  - "[[Trim and Fill Method]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Robust Variance Estimation]]"
   - "[[Trend Study]]"
@@ -291,7 +293,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - 综合 23 个效应量（涵盖 403 项原始研究），总体加权平均效应量为 $ES = 0.71$（$95\%\text{ CI} = [0.55, 0.87]$），[[Heterogeneity|异质性]]检验表明效应量存在高水平异质性（$Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$），证实不同研究间存在实质性变异。（p. 6）
 > - 在各产出类型中，高阶思维技能效应量最高（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11], k = 4$），学业成就次之（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90], k = 12$），情感行为亦显著正向（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84], k = 6$），综合产出达 $ES = 1.25$（$k = 1$），产出间差异未达统计显著（$Q_b(3) = 4.35, p = .23$）。（pp. 8–9）
-> - 经典失安全系数 $N = 4954$ 远超临界值 125（$5k + 10$）；Egger 回归未检出偏倚（$t = 2.08, p = .05$）；杜瓦尔与特威迪剪补法（Duval and Tweedie's Trim and Fill，DTTF）补充 0 个效应量；漏斗图整体对称（图2）。（p. 8）
+> - 经典[[Fail-Safe N|失安全系数]] $N = 4954$ 远超临界值 125（$5k + 10$）；Egger 回归未检出偏倚（$t = 2.08, p = .05$）；杜瓦尔与特威迪[[Trim and Fill Method|剪补法]]（Duval and Tweedie's Trim and Fill，DTTF）补充 0 个效应量；漏斗图整体对称（图2）。（p. 8）
 
 > [!example]- 图2：效应量漏斗图（Funnel Plot Graph）
 > ![](https://img.mylikemie.icu/sources/Gungor_2026_CP/figures/Gungor_2026_CP_Fig2_Funnel_Plot_Graph.jpg)
@@ -400,7 +402,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Cooperative Learning|合作学习]]对学生的综合学习产出具有稳健的中等促进效应** [[Meta-meta-analysis|二阶元分析]]汇总 15 项一阶[[Meta-analysis|元分析]]（403 项原始实证研究、23 个独立[[Effect Size|效应量]]），得出加权平均效应量为 $ES = 0.71$（$95\%\text{ CI} = [0.55, 0.87]$），失安全系数（$N = 4954$）、Egger 回归与剪补法一致证实该结论高度稳健且无[[Publication Bias|发表偏倚]]。（pp. 6–8）
+> 1. **[[Cooperative Learning|合作学习]]对学生的综合学习产出具有稳健的中等促进效应** [[Meta-meta-analysis|二阶元分析]]汇总 15 项一阶[[Meta-analysis|元分析]]（403 项原始实证研究、23 个独立[[Effect Size|效应量]]），得出加权平均效应量为 $ES = 0.71$（$95\%\text{ CI} = [0.55, 0.87]$），[[Fail-Safe N|失安全系数]]（$N = 4954$）、Egger 回归与[[Trim and Fill Method|剪补法]]一致证实该结论高度稳健且无[[Publication Bias|发表偏倚]]。（pp. 6–8）
 > 2. **合作学习对[[Higher-Order Thinking Skills|高阶思维技能]]的赋能效应最为突出** 合作学习对高阶思维技能（HOTS）的促进效应达到 $ES = 0.76$（$95\%\text{ CI} = [0.42, 1.11]$），高于[[Academic Achievement|学业成就]]（$ES = 0.71$）与[[Affective Outcomes|情感行为]]（$ES = 0.51$），实证确立了[[Heterogeneity|异质性]]同伴互动与认知冲突在培养批判性与[[Creativity|创造性]]思维中的核心价值。（pp. 8–9）
 > 3. **教学技术与学科领域对干预效能产生显著调节分化** [[Cooperative Integrated Reading and Composition|CIRC]] 整合阅读（$ES = 2.04$）与小组[[Survey Research|调查法]]（$ES = 1.08$）成效最强；语言（$ES = 2.04$）、社会科（$ES = 0.96$）与自然科学（$ES = 0.92$）学科效益显著，数学呈现中等效益（$ES = 0.70$），而体育教育领域效应微弱且不显著（$ES = 0.05$），同时揭示出当前软科学元分析严重匮乏的结构性失衡。（pp. 8–10）
 > 4. **真实课堂准实验展现出显著高于实验室全实验的[[Ecological Validity|生态效度]]** [[Quasi-Experimental Designs|准实验设计]]报告了 $ES = 1.11$ 的高效应量，而严格个体[[Random Assignment|随机化]]的全实验设计效应为零（$ES = 0.00$），表明合作学习高度依赖班级常态社会情境、师生默契与长周期文化积淀。（pp. 8–11）

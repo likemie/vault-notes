@@ -59,6 +59,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Effect Size Conversion]]"
+  - "[[Trim and Fill Method]]"
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
 related_instruments:
@@ -108,7 +109,7 @@ issuing_organization: ""
 > 基于 20 项一阶元分析（涵盖 469 项独立原始研究、47 个独立[[Effect Size|效应量]]（Effect Size，ES））的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis）表明，PBL 对高等教育学生结果具有显著且高的总体影响（调整后效应量 $ES = 0.60$，95% [[Confidence Interval|置信区间]]（Confidence Interval，CI）为 $[0.49, 0.71]$）。其中临床技能（$ES = 1.06$）与学生满意度（$ES = 1.10$）效应很高，理论性知识（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）效应较高。效应变异受结果类型、地域、一阶研究抽样方法、元分析质量、报告类型与发表年份显著调节，而高等教育专业类型无显著调节。（pp. 950, 961–962）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 截至 2024 年、以英文发表、覆盖高等教育、以传统教学为对照的 20 项 PBL元分析及其包含的 469 项独立原始研究。
+> - **对象** 截至 2024 年、以英文发表、覆盖高等教育、以传统教学为对照的 20 项 PBL 元分析及其包含的 469 项独立原始研究。
 > - **张力**一阶元分析碎片化与二阶宏观证据整合之间的张力；PBL 总体高效应与其高[[Heterogeneity|异质性]]、轻微[[Publication Bias|发表偏倚]]之间的张力；中国情境效应明显偏高所提示的地点偏倚。
 > - **贡献** 首次在二阶统计层级定量综合 PBL 高等教育元分析，按结果类型分列效应，并系统分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
 
@@ -366,7 +367,7 @@ issuing_organization: ""
 > [!chain-link] 证据到判断
 > - 数据集 47 个效应量从 $ES = 1.15$ 到 $ES = −.39$，观测平均 $ES = 0.68$，总异质性 $Q(46) = 730.67, p < .001$，$I^2 = 93.70\%$。（p. 960）
 > - Begg 与 Mazumdar 秩相关 tau = −.01，z = .12，p = .89，未提示发表偏倚；Egger 回归 t(45) = 5.53，p < .001，提示小效应研究未充分代表。（pp. 960–961）
-> - Duval & Tweedie 剪补法建议在均值左侧补入 k = 6 个负或小效应量，调整后 $ES = 0.60$（$CI = [0.49, 0.71]$），与观测值差约 0.08。（p. 961）
+> - Duval & Tweedie [[Trim and Fill Method|剪补法]]建议在均值左侧补入 k = 6 个负或小效应量，调整后 $ES = 0.60$（$CI = [0.49, 0.71]$），与观测值差约 0.08。（p. 961）
 
 > [!example]- 图2：效应量漏斗图（Funnel Plot Graph）
 > ![](https://img.mylikemie.icu/sources/Erdem_2026_SHE/figures/Erdem_2026_SHE_Fig2_Funnel_Plot_Graph.jpg)
@@ -505,7 +506,7 @@ issuing_organization: ""
 > 1. **[[Problem-Based Learning|PBL]] 在高等教育中对学生结果具有高总体效应** [[Meta-meta-analysis|二阶元分析]]汇总 20 项一阶[[Meta-analysis|元分析]]（469 项独立研究、47 个[[Effect Size|效应量]]），调整后总体效应量为 $ES = 0.60$（$CI = [0.49, 0.71]$），观测值为 $ES = 0.68$，[[Publication Bias|发表偏倚]]校正不改变结论方向。（pp. 960–961）
 > 2. **临床技能与学生满意度效应最高，其余结果效应较高** 临床技能（$ES = 1.06$）与学生满意度（$ES = 1.10$）属很高，理论性知识（$ES = 0.59$）、[[Critical Thinking|批判性思维]]（$ES = 0.56$）与态度（$ES = 0.57$）属高。（pp. 961–962）
 > 3. **效应变异受结果类型、地域、抽样、质量、报告类型与年份显著调节** 中国情境（$ES = 1.10$）、仅含随机对照组的元分析（$ES = 0.84$）、高质量元分析（$ES = 0.82$）、文章形式（$ES = 0.77$）与 2011 年后发表（$ES \approx 0.70–0.77$）均伴随更高效应；专业类型无显著调节。（pp. 961–962）
-> 4. **推广需结合高[[Heterogeneity|异质性]]与轻微发表偏倚谨慎解释** 数据集 $I^2 = 93.70\%$，Egger 回归与剪补法提示轻微发表偏倚，医学与护理专业被过度代表；平均效应不能机械推广到所有专业与情境。（pp. 960–961, 965–966）
+> 4. **推广需结合高[[Heterogeneity|异质性]]与轻微发表偏倚谨慎解释** 数据集 $I^2 = 93.70\%$，Egger 回归与[[Trim and Fill Method|剪补法]]提示轻微发表偏倚，医学与护理专业被过度代表；平均效应不能机械推广到所有专业与情境。（pp. 960–961, 965–966）
 
 > [!stat-cards]- 核心统计指标
 > - **$ES = 0.60$** 调整后总体效应量（$CI = [0.49, 0.71]$）。（pp. 950, 961）

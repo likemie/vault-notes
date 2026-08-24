@@ -11821,6 +11821,18 @@
     ]
   },
   {
+    "title": "Fail-Safe N",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Fail-Safe N.md",
+    "aliases": [
+      "失安全系数",
+      "失安全N",
+      "Rosenthal's Fail-Safe N",
+      "经典失安全数",
+      "Fail-Safe Number"
+    ]
+  },
+  {
     "title": "Fixed-Effect and Random-Effects Models",
     "type": "method",
     "path": "wiki/methods/quantitative/Fixed-Effect and Random-Effects Models.md",
@@ -12477,6 +12489,18 @@
       "prediction study",
       "预测研究",
       "repeated cross-sectional study"
+    ]
+  },
+  {
+    "title": "Trim and Fill Method",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Trim and Fill Method.md",
+    "aliases": [
+      "剪补法",
+      "剪补估计法",
+      "Duval and Tweedie's Trim and Fill",
+      "Trim and Fill",
+      "剪补技术"
     ]
   },
   {

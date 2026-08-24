@@ -56,6 +56,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Second-Order Meta-Regression]]"
+  - "[[Fail-Safe N]]"
   - "[[Meta-regression]]"
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
@@ -361,7 +362,7 @@ updated: 2026-08-24
 > | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
 > |---|---|---|---|---|---|
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 排除低方法学质量元分析（[[AMSTAR]] < 0.75）与重分类发散思维 | 多水平改进艾格回归（Multilevel Egger's Test） | 偏倚校正后全域效应 $r = 0.17$ $[0.11, 0.22]$ | 核心结论未变，干预与创造力关联最强保持稳健 | 存在小研究效应，但校正后宏观效应量依然高度稳健 |
-> | Scott et al. (2004) | 排除未发表学位论文与不同实验设计质量敏感性检验 | 漏斗图分析与失效安全数（Fail-Safe N） | 校正后仍维持大效应促进（$d > 0.65$） | 结论未变 | 早期实证研究存在一定程度发表偏倚，但不影响认知训练核心效能 |
+> | Scott et al. (2004) | 排除未发表学位论文与不同实验设计质量敏感性检验 | 漏斗图分析与失效安全数（[[Fail-Safe N]]） | 校正后仍维持大效应促进（$d > 0.65$） | 结论未变 | 早期实证研究存在一定程度发表偏倚，但不影响认知训练核心效能 |
 
 ---
 

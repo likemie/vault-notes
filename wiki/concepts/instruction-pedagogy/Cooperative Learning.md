@@ -51,6 +51,8 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Fail-Safe N]]"
+  - "[[Trim and Fill Method]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
@@ -140,7 +142,7 @@ updated: 2026-08-24
 > 考察合作学习在克服单一考试成绩局限后，对认知深度层级（低阶[[Academic Achievement|学业成就]]与复杂[[Higher-Order Thinking Skills|高阶思维]]）与非认知情感维度的整体干预效能。
 
 > [!claim] Güngör et al.
-> **多维学习成效的均衡促进** [[Meta-meta-analysis|二阶元分析]]（SOMA）对 15 项一阶[[Meta-analysis|元分析]]（涵盖 403 项原始实证研究、23 个独立[[Effect Size|效应量]]）的综合检验表明，合作学习对学生的总体学习结果具有显著且稳健的中等促进效应（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。在各项细分产出中，合作学习对高阶思维技能（HOTS）的促进效应最大（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），其次为学业成就（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90]$），对[[Affective Outcomes|情感行为]]亦表现出积极正向影响（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84]$）。各产出类型间无统计学显著差异（$Q_b(3) = 4.35, p = .23$），失安全系数（$N = 4954$）、Egger 回归（$t = 2.08, p = .05$）与剪补法一致证实结论无[[Publication Bias|发表偏倚]]。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–9)]]
+> **多维学习成效的均衡促进** [[Meta-meta-analysis|二阶元分析]]（SOMA）对 15 项一阶[[Meta-analysis|元分析]]（涵盖 403 项原始实证研究、23 个独立[[Effect Size|效应量]]）的综合检验表明，合作学习对学生的总体学习结果具有显著且稳健的中等促进效应（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。在各项细分产出中，合作学习对高阶思维技能（HOTS）的促进效应最大（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），其次为学业成就（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90]$），对[[Affective Outcomes|情感行为]]亦表现出积极正向影响（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84]$）。各产出类型间无统计学显著差异（$Q_b(3) = 4.35, p = .23$），[[Fail-Safe N|失安全系数]]（$N = 4954$）、Egger 回归（$t = 2.08, p = .05$）与[[Trim and Fill Method|剪补法]]一致证实结论无[[Publication Bias|发表偏倚]]。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–9)]]
 
 ---
 

@@ -45,6 +45,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Trim and Fill Method]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
@@ -243,7 +244,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 >
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | PBL 总体学习结果 | 9 项元分析 / N 未报告 | Cohen's d；二级综合模型未报告 | d ≈ 0.08；95% CI 未报告 | 单项汇总效应为 −0.30 至 0.32；正式指标未报告 | 未评级；研究情境与结果类型混合 |
+> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | PBL 总体学习结果（早期二级综合） | 9 项一级元分析 / N 未报告 | Cohen's d；早期二阶元分析综合 | d ≈ 0.08；95% CI 未报告 | 单项汇总效应为 −0.30 至 0.32；正式指标未报告 | 未评级；研究情境与结果类型混合 |
 > | [[Argument_Hattie_2015_SOTLP\|Albanese & Mitchell (1993, as cited in Hattie, 2015b, p. 85)]] | 医学 PBL | 11 项研究 / N 未报告；60 个效应 | Cohen's d；模型未报告 | d = 0.27；95% CI 未报告 | 未报告 | 未评级；Blass 将其识别为[[Literature Review\|文献综述]] |
 > | [[Argument_Hattie_2015_SOTLP\|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] | 医学 PBL | 8 项研究 / N 未报告；26 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 未评级；医学教育情境 |
 > | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 85)]] | 大学 PBL 的知识与技能 | 43 项研究 / N 未报告；35 个效应 | Cohen's d；模型未报告 | d = 0.12；95% CI 未报告 | 未报告 | 未评级；结果类型混合 |
@@ -254,7 +255,10 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > | [[Argument_Hattie_2015_SOTLP\|Schmidt et al. (2009, as cited in Hattie, 2015b, p. 85)]] | [[Constructivist Paradigm\|建构主义]] PBL 的医学知识 | 10 项研究 / N 未报告；90 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 未评级；医学知识结果 |
 > | [[Argument_Hattie_2015_SOTLP\|Leary et al. (2013, as cited in Hattie, 2015b, p. 85)]] | PBL 总体结果 | 94 项研究 / N 未报告；213 个效应 | Cohen's d；模型未报告 | d = 0.24；95% CI 未报告 | 未报告 | 未评级；综合情境未细分 |
 > | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | 知识获取 | k / N 未报告 | Cohen's d；模型未报告 | d = −0.79；95% CI 未报告 | 未报告 | 未评级；知识获取结果不能代表全部 PBL 目标 |
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | PBL 总体学生结果（高等教育） | 20 项一阶元分析 / 469 项独立研究；47 个[[Effect Size\|效应量]] | 标准化均差（SMD）；[[Fixed-Effect and Random-Effects Models\|随机效应模型]]；OR 转换后并入 | 观测 ES = 0.68 [0.57, 0.79]；剪补法调整后 ES = 0.60 [0.49, 0.71] | Q(46) = 730.67, p < .001, I² = 93.70% | 高；存在明显异质性，观测与调整效应差约 0.08 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | PBL 总体学生结果（高等教育，二阶综合） | 20 项一级元分析 / 469 项独立研究；47 个[[Effect Size\|效应量]] | 标准化均差（SMD）；[[Fixed-Effect and Random-Effects Models\|随机效应模型]]；OR 转换后并入 | 观测 ES = 0.68 [0.57, 0.79]；[[Trim and Fill Method\|剪补法]]调整后 ES = 0.60 [0.49, 0.71] | Q(46) = 730.67, p < .001, I² = 93.70% | 高；存在明显异质性，观测与调整效应差约 0.08 |
+
+> [!note] 表内层级说明
+> 表中 [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] 与 [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 均为二级综合（[[Meta-meta-analysis|二阶元分析]]）：前者属早期粗放综合，后者属近期规范综合；其余行为一级元分析，综合的是原始研究。不同层级的效应不宜直接比较。
 
 > [!effect-table]- 一级研究与实施观察
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -350,7 +354,7 @@ Blass 的审查同样需要边界说明。她只抽查了探究式教学和 PBL 
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] 将 PBL 作为自上而下[[Constructive Alignment|建构性对齐]]的案例，完整连接专业目标、问题活动和三跳评估。
-> - [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] 综合九项[[Meta-analysis|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
+> - [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] 以早期二级综合汇总九项一级[[Meta-analysis|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
 > - [[Argument_Blass_2020_JESP|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] 将 PBL 定位为芬兰[[Phenomenon-Based Learning|现象本位学习]]的近缘[[Constructivist Paradigm|建构主义]]传统，并划定两者的哲学与课程边界。
 > - [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 以[[Meta-meta-analysis|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（理论性知识、临床技能、[[Critical Thinking|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。

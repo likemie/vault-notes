@@ -63,6 +63,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Random Sampling]]"
   - "[[Quantitative Research]]"
+  - "[[Fail-Safe N]]"
   - "[[Observation Method]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Experimental Research]]"
@@ -309,7 +310,7 @@ Hedges（1981）提出了小样本校正版本 Hedges' g，以合并标准差替
 > - **漏斗图（Funnel Plot）** 以效应量为横轴、标准误为纵轴的散点图。无偏倚时呈对称漏斗状，有偏倚时小样本零效应研究缺失导致不对称。
 > - **Egger 回归检验** 检验漏斗图不对称性是否显著，截距显著偏离零提示可能存在[[Publication Bias|发表偏倚]]。
 > - **Trim-and-Fill 方法** 估算并填补"缺失"研究后重新计算合并效应量，比较填补前后的变化以评估偏倚影响。
-> - **Rosenthal 的失安全系数（Fail-Safe N）** 计算需要多少篇平均效果为零的未发表研究才能推翻现有显著结论。Rosenthal（1991）示例中该比率为 277:1，但该方法依赖未发表研究平均效果为零的假设（pp.355）。
+> - **Rosenthal 的[[Fail-Safe N|失安全系数]]（Fail-Safe N）** 计算需要多少篇平均效果为零的未发表研究才能推翻现有显著结论。Rosenthal（1991）示例中该比率为 277:1，但该方法依赖未发表研究平均效果为零的假设（pp.355）。
 
 ---
 

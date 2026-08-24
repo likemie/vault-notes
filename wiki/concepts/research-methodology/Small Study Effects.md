@@ -37,6 +37,7 @@ related_methods:
   - "[[Multilevel Egger's Test]]"
   - "[[Robust Variance Estimation]]"
   - "[[Random Assignment]]"
+  - "[[Trim and Fill Method]]"
   - "[[Second-Order Meta-Regression]]"
   - "[[Cohort Study]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
@@ -85,7 +86,7 @@ updated: 2026-08-24
 > |---|---|---|---|
 > | **性质定位** | **可观测的统计现象（[[Effect Size\|效应量]]与[[Standard Error\|标准误]]正相关）** | 导致现象产生的机制之一（基于 $p$ 值筛选发表） | 导致现象产生的机制之一（缺乏双盲、[[Random Assignment\|随机化]]不足） |
 > | **表现形态** | 漏斗图底部散点向有利益偏向的一侧严重倾斜 | 漏斗图左下角（小样本非显著区）数据点大面积缺失 | 小样本研究中报告的效应量因执行松散而虚高 |
-> | **检测与校正手段** | **艾格回归（Egger's Test）、多水平 [[Robust Variance Estimation\|RVE]] 截距模型** | 剪补法（Trim and Fill）、选择模型（Selection Models） | [[AMSTAR]] 质量评分分层、[[Second-Order Meta-Regression\|二阶元回归]]调节检验 |
+> | **检测与校正手段** | **艾格回归（Egger's Test）、多水平 [[Robust Variance Estimation\|RVE]] 截距模型** | [[Trim and Fill Method\|剪补法]]（Trim and Fill）、选择模型（Selection Models） | [[AMSTAR]] 质量评分分层、[[Second-Order Meta-Regression\|二阶元回归]]调节检验 |
 > | **[[Meta-meta-analysis\|二阶元分析]]表现** | 显著存在（$F = 15.7, p = .002$），校正后为 $r = 0.17$ | 经全面灰色[[Literature Search\|文献检索]]与博硕士论文纳入得到部分控制 | AMSTAR 高质量 vs 低质量调节不显著（$p = .34$） |
 
 ---

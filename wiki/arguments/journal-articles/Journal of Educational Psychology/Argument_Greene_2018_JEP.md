@@ -67,6 +67,7 @@ related_methods:
   - "[[Moderator Analysis]]"
   - "[[Experimental Research]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fail-Safe N]]"
   - "[[Meta-regression]]"
 related_instruments: []
 related_persons:
@@ -191,7 +192,7 @@ issuing_organization: ""
 >
 > > [!evidence-grid] 证实不存在发表偏倚的多重统计检验
 > > - **漏斗图与插补测试 (Funnel Plot & Imputing)** [[Standard Error|标准误]]与 Fisher's z 的漏斗图基本对称；CMA 软件的缺失研究插补测试表明，插补缺失数据后漏斗图外观无显著变化。
-> > - **经典失安全系数 (Classic Fail-safe N)** 为 9,265。即需要 9,265 项呈现零效应的未发表研究，才能将观察到的 $p$ 值推升至 .05 以上。
+> > - **经典[[Fail-Safe N|失安全系数]] (Classic Fail-safe N)** 为 9,265。即需要 9,265 项呈现零效应的未发表研究，才能将观察到的 $p$ 值推升至 .05 以上。
 > > - **Orwin's 失安全系数 (Orwin's Fail-safe N)** 为 881。将微小相关性阈值设为 .100，缺失研究的平均相关性设为 .090，仍需额外 881 项研究才能将整体[[Effect Size|效应量]]拉低至微小阈值之下。
 > > - **Duval & Tweedie 修剪与填充 (Trim-and-fill)** 检验未指示需要进行任何修剪或填充，效应量分布未见偏倚倾斜。
 
