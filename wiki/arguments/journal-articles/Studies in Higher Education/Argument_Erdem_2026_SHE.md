@@ -54,12 +54,13 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Begg and Mazumdar Rank Correlation]]"
+  - "[[Trim and Fill Method]]"
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Effect Size Conversion]]"
-  - "[[Trim and Fill Method]]"
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
 related_instruments:
@@ -79,7 +80,7 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -176,7 +177,7 @@ issuing_organization: ""
 > | **数据提取与双人编码**<br>Data Extraction & Coding | 以 MS Excel 开发编码表；两位研究者独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$；分歧经讨论，无法达成一致者征询专家意见后决定。（p. 957） |
 > | **效应量选择与转换**<br>Effect Size Selection & Conversion | 标准化均差（Standardized Mean Difference，SMD）、Cohen's d 与 Hedges' g 在大样本下等价（Goulet-Pelletier & Cousineau, 2018）；数据集中 $k = 47$ 个报告 SMD、$k = 2$ 个报告比值比（Odds Ratio，OR）、$k = 1$ 个报告 Hedges' g，OR 转换为 SMD 后纳入分析；统计软件为 CMA 3.0。（pp. 957–960） |
 > | **统计模型与分析**<br>Statistical Model | 采用[[Fixed-Effect and Random-Effects Models\|随机效应模型]]进行平均效应、发表偏倚、调节与异质性分析；以 Q 统计量评估异质性（$Q(t)$ 总异质性、$Q(b)$ 组间异质性）。（pp. 957–960） |
-> | **离群与偏倚分析**<br>Outlier & Bias | 识别并剔除 3 个离群效应量，分析以 $k = 47$ 进行；发表偏倚检验包括漏斗图、Egger 回归、Begg 与 Mazumdar 秩相关及 Duval & Tweedie 剪补法。（p. 960） |
+> | **离群与偏倚分析**<br>Outlier & Bias | 识别并剔除 3 个离群效应量，分析以 $k = 47$ 进行；发表偏倚检验包括漏斗图、Egger 回归、[[Begg and Mazumdar Rank Correlation\|Begg 与 Mazumdar 秩相关]]及 [[Trim and Fill Method\|Duval & Tweedie 剪补法]]。（p. 960） |
 
 > [!seq-table]- 六项纳入与排除标准（Inclusion & Exclusion Criteria）
 > | 纳入标准 |

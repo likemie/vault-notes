@@ -6,7 +6,7 @@ summary: "通过汇总多项原始研究的效应量来综合证据的统计方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 65
+method_related_count: 66
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"

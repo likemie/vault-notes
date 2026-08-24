@@ -11575,6 +11575,17 @@
     ]
   },
   {
+    "title": "Begg and Mazumdar Rank Correlation",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Begg and Mazumdar Rank Correlation.md",
+    "aliases": [
+      "Begg and Mazumdar's Rank Correlation Test",
+      "Begg's Test",
+      "Begg-Mazumdar Test",
+      "秩相关检验"
+    ]
+  },
+  {
     "title": "Between-Subjects and Within-Subjects Designs",
     "type": "method",
     "path": "wiki/methods/quantitative/Between-Subjects and Within-Subjects Designs.md",

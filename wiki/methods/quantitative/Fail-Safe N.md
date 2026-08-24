@@ -11,7 +11,7 @@ type: method
 domain: "research-methodology"
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"

@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

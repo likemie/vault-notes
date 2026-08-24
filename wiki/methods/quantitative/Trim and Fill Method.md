@@ -11,9 +11,9 @@ type: method
 domain: "research-methodology"
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 19
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - "method/quantitative"
@@ -111,7 +111,7 @@ updated: 2026-08-24
 
 ## 经典应用案例
 
-> [!example] Güngör et al. (2026) [[Cooperative Learning|合作学习]][[Meta-meta-analysis|二阶元分析]]偏倚检验
+> [!example] [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] [[Cooperative Learning|合作学习]][[Meta-meta-analysis|二阶元分析]]偏倚检验
 > 在合作学习二阶[[Meta-analysis|元分析]]中，作者综合运用剪补法对 23 个[[Effect Size|效应量]]进行偏倚检验：
 > - **剪补检验结果** 剪补算法估计缺失研究数为 **$k_{\text{miss}} = 0$**（未识别到任何需剪除或填补的不对称研究）；
 > - **校正效应量对比** 填补前后二阶效应量点估计值与 95% [[Confidence Interval|置信区间]]完全一致（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）；

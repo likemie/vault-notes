@@ -8,7 +8,7 @@ aliases:
 summary: "指元分析中小样本研究系统性报告比大样本研究更大效应量的经验现象，源于发表偏倚、方法学质量差异与小样本过度拟合等多重偏倚机制。"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

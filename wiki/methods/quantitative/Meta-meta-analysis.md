@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 74
+method_related_count: 77
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -81,6 +81,7 @@ related_methods:
   - "[[Umbrella Review]]"
   - "[[Second-Order Meta-Regression]]"
   - "[[Fail-Safe N]]"
+  - "[[Begg and Mazumdar Rank Correlation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Random Sampling]]"
@@ -215,6 +216,7 @@ updated: 2026-08-24
 > | **[[Multilevel Egger's Test\|多水平艾格检验（Multilevel Egger's Test）]]** | **[[Small Study Effects\|小研究效应]]诊断与截距偏倚校正** | 解决传统单水平[[Publication Bias\|发表偏倚]]检验在聚类依赖数据下假阳性率高的问题，并同时实现<strong>“小研究偏倚定量诊断”与“截距校正真实效应量”</strong>的一体化输出（参见[[Effect Size\|效应量]]）。 | 🔗 [[Multilevel Egger's Test]] |
 > | **[[Fail-Safe N\|失安全系数（Fail-Safe N）]]** | **发表偏倚极端敏感性测试** | 解决抽屉文件效应（File Drawer Problem）潜在威胁的判断问题，通过计算将当前显著合并效应拉低至不显著所需零效应隐藏研究篇数，设定 $5k + 10$ 安全判定门槛。 | 🔗 [[Fail-Safe N]] |
 > | **[[Trim and Fill Method\|剪补法（Trim and Fill Method）]]** | **非参数漏斗图偏倚诊断与填补校正** | 解决单侧发表偏倚导致漏斗图不对称与效应量高估的问题，通过迭代剪除极端不对称研究锁定对称中心，并对侧镜像填补虚拟研究以重新估计偏倚校正后的真实效应量。 | 🔗 [[Trim and Fill Method]] |
+> | **[[Begg and Mazumdar Rank Correlation\|Begg 秩相关检验（Begg & Mazumdar）]]** | **非参数等级相关偏倚检验** | 解决小样本研究与效应量大小单调关联的诊断问题，通过计算标准化效应量与方差的 Kendall's $\tau$ 秩相关，提供不受正态性假定约束的偏倚检验。 | 🔗 [[Begg and Mazumdar Rank Correlation]] |
 > | **[[Second-Order Meta-Regression\|二阶元回归（Second-Order Meta-Regression）]]** | **全领域[[Heterogeneity\|异质性]]来源分解与调节检验** | 解决宏观二阶效应量高度离散、单一平均值掩盖因果机制的问题，在控制[[Document\|文献]]重叠下系统检验[[Construct\|构念]]分类、[[Variable\|变量]]角色与研究特征的[[Interaction Effect\|调节效应]]。 | 🔗 [[Second-Order Meta-Regression]] |
 
 ---

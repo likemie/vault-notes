@@ -7,7 +7,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,9 +32,8 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Critical Thinking]]"
   - "[[Constructive Alignment]]"
-  - "[[Confidence Interval]]"
   - "[[Variable]]"
-  - "[[Publication Bias]]"
+  - "[[Confidence Interval]]"
   - "[[Document]]"
   - "[[Visible Learning]]"
   - "[[Problem Finding]]"
@@ -45,7 +44,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
-  - "[[Trim and Fill Method]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
@@ -56,8 +54,7 @@ related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Blass_2020_JESP]]"
   - "[[Argument_Erdem_2026_SHE]]"
-related_instruments:
-  - "[[AMSTAR]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-04
@@ -236,31 +233,8 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 
 ## 实证数据
 
-> [!note] 结果类型划分
-> 将学生结果按理论性知识、临床技能、[[Critical Thinking|批判性思维]]、学生态度与学生满意度分类；技能与知识以外的结果（如倾向、兴趣）归入学生态度，某结果类型不足以独立成组（k < 3）时归入其他。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 954–956, 959)]]
 
-> [!ma-table]- [[Meta-analysis|元分析]]总体结果
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | PBL 总体学习结果（早期二级综合） | 9 项一级元分析 / N 未报告 | Cohen's d；早期二阶元分析综合 | d ≈ 0.08；95% CI 未报告 | 单项汇总效应为 −0.30 至 0.32；正式指标未报告 | 未评级；研究情境与结果类型混合 |
-> | [[Argument_Hattie_2015_SOTLP\|Albanese & Mitchell (1993, as cited in Hattie, 2015b, p. 85)]] | 医学 PBL | 11 项研究 / N 未报告；60 个效应 | Cohen's d；模型未报告 | d = 0.27；95% CI 未报告 | 未报告 | 未评级；Blass 将其识别为[[Literature Review\|文献综述]] |
-> | [[Argument_Hattie_2015_SOTLP\|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] | 医学 PBL | 8 项研究 / N 未报告；26 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 未评级；医学教育情境 |
-> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 85)]] | 大学 PBL 的知识与技能 | 43 项研究 / N 未报告；35 个效应 | Cohen's d；模型未报告 | d = 0.12；95% CI 未报告 | 未报告 | 未评级；结果类型混合 |
-> | [[Argument_Hattie_2015_SOTLP\|Smith (2003, as cited in Hattie, 2015b, p. 85)]] | 医学 PBL | 82 项研究 / N 未报告；121 个效应 | Cohen's d；模型未报告 | d = 0.31；95% CI 未报告 | 未报告 | 未评级；医学教育情境 |
-> | [[Argument_Hattie_2015_SOTLP\|Newman (2004, as cited in Hattie, 2015b, p. 85)]] | 医学 PBL | 12 项研究 / N 未报告；12 个效应 | Cohen's d；模型未报告 | d = −0.30；95% CI 未报告 | 未报告 | 未评级；Blass 将其识别为探索性研究 |
-> | [[Argument_Hattie_2015_SOTLP\|Gijbels et al. (2005, as cited in Hattie, 2015b, p. 85)]] | PBL 评估结果 | 40 项研究 / N 未报告；49 个效应 | Cohen's d；模型未报告 | d = 0.32；95% CI 未报告 | 未报告 | 未评级；评估方式影响结果解释 |
-> | [[Argument_Hattie_2015_SOTLP\|Walker & Leary (2008, as cited in Hattie, 2015b, p. 85)]] | 跨学科 PBL | 82 项研究 / N 未报告；201 个效应 | Cohen's d；模型未报告 | d = 0.13；95% CI 未报告 | 未报告 | 未评级；跨学科情境混合 |
-> | [[Argument_Hattie_2015_SOTLP\|Schmidt et al. (2009, as cited in Hattie, 2015b, p. 85)]] | [[Constructivist Paradigm\|建构主义]] PBL 的医学知识 | 10 项研究 / N 未报告；90 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 未评级；医学知识结果 |
-> | [[Argument_Hattie_2015_SOTLP\|Leary et al. (2013, as cited in Hattie, 2015b, p. 85)]] | PBL 总体结果 | 94 项研究 / N 未报告；213 个效应 | Cohen's d；模型未报告 | d = 0.24；95% CI 未报告 | 未报告 | 未评级；综合情境未细分 |
-> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | 知识获取 | k / N 未报告 | Cohen's d；模型未报告 | d = −0.79；95% CI 未报告 | 未报告 | 未评级；知识获取结果不能代表全部 PBL 目标 |
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | PBL 总体学生结果（高等教育，二阶综合） | 20 项一级元分析 / 469 项独立研究；47 个[[Effect Size\|效应量]] | 标准化均差（SMD）；[[Fixed-Effect and Random-Effects Models\|随机效应模型]]；OR 转换后并入 | 观测 ES = 0.68 [0.57, 0.79]；[[Trim and Fill Method\|剪补法]]调整后 ES = 0.60 [0.49, 0.71] | Q(46) = 730.67, p < .001, I² = 93.70% | 高；存在明显异质性，观测与调整效应差约 0.08 |
-
-> [!note] 表内层级说明
-> 表中 [[Argument_Hattie_2015_SOTLP|Hattie (2015b)]] 与 [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 均为二级综合（[[Meta-meta-analysis|二阶元分析]]）：前者属早期粗放综合，后者属近期规范综合；其余行为一级元分析，综合的是原始研究。不同层级的效应不宜直接比较。
-
-> [!effect-table]- 一级研究与实施观察
+> [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
@@ -268,25 +242,42 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > | [[Argument_Hattie_2015_SOTLP\|Schwerdt & Wuppermann (2011, as cited in Hattie, 2015b, p. 86)]] | 将 10 个百分点的教学时间从问题解决转向讲授式呈现 | TIMSS 测试能力 | 高中样本；N 未报告 | 未报告 | 约提高 0.01 SD | 未报告 | 二手摘要未提供完整模型；不能推广到专业教育中的完整 PBL 系统 |
 > | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 受训团队管理教师与未经专门培训教师实施 Inventorium | 学生保留或参与 | 在线替代性高中；N 未报告 | 100% 保留与几乎全部不参与 | — | 未报告 | 作者实施观察，缺少[[Sample Size Determination\|样本量]]与统计检验；作者同时经营并倡导该项目 |
 
-> [!ma-table]- 调节变量与亚组分析
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果类型 | 亚组分析 | 临床技能（ES = 1.06）与学生满意度（ES = 1.10）最高，理论性知识（0.59）、[[Critical Thinking\|批判性思维]]（0.56）与态度（0.57）较高 | ES = 1.06 / 1.10 / 0.59 / 0.56 / 0.57 | Q(6) = 14.65, p = .02 | 预设 | 结果类型不同，平均效应需分列解释 |
-> | 同上 | 地域 | 亚组分析 | 中国（ES = 1.10）高于伊朗（0.74）与非特定地区（0.55） | ES = 1.10 vs 0.74 vs 0.55 | Q(2) = 19.03, p < .01 | 预设 | 地点偏倚；中国自 1970 年代起实施 PBL，经验较长 |
-> | 同上 | 一阶研究抽样方法 | 亚组分析 | 仅含随机对照组的元分析（ES = 0.84）高于混合随机与非随机对照（0.61） | ES = 0.84 vs 0.61 | Q(1) = 4.20, p = .04 | 预设 | 全随机控制组对实施过程变量控制更充分 |
-> | 同上 | 一阶元分析质量（R-[[AMSTAR]]） | 亚组分析 | 高质量组（ES = 0.82）高于中等质量组（0.46） | ES = 0.82 vs 0.46 | Q(1) = 15.25, p < .01 | 预设 | 方法学质量越高，效应估计越大 |
-> | 同上 | 报告类型 | 亚组分析 | 期刊文章（ES = 0.77）高于未发表博士论文（0.19） | ES = 0.77 vs 0.19 | Q(1) = 23.36, p < .01 | 预设 | 非显著或低效应研究不易发表，存在[[Publication Bias\|发表偏倚]] |
-> | 同上 | 发表年份区间 | 亚组分析 | 2011–2020（0.77）与 2021 后（0.70）高于 2010 前（0.29） | ES = 0.77 / 0.70 vs 0.29 | Q(2) = 11.42, p < .01 | 预设 | 早期实践者实验经验不足 |
-> | 同上 | 高等教育专业 | 亚组分析 | 医学、护理、药学、牙科、理科与文科之间无显著差异 | ES 0.50–0.80 | Q(5) = 1.17, p = .95 | 预设 | 专业类型不影响总体效应 |
+> | 一阶元分析 | 当前概念角色与总体结果 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Hattie_2015_SOTLP\|Albanese & Mitchell (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学知识结果 | 11 项研究 / N 未报告；60 个效应 | Cohen's d；模型未报告 | d = 0.27；95% CI 未报告 | 未报告 | Blass 将其识别为[[Literature Review\|文献综述]] |
+> | [[Argument_Hattie_2015_SOTLP\|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 8 项研究 / N 未报告；26 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 医学教育情境 |
+> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的大学知识与技能结果 | 43 项研究 / N 未报告；35 个效应 | Cohen's d；模型未报告 | d = 0.12；95% CI 未报告 | 未报告 | 结果类型混合 |
+> | [[Argument_Hattie_2015_SOTLP\|Smith (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 82 项研究 / N 未报告；121 个效应 | Cohen's d；模型未报告 | d = 0.31；95% CI 未报告 | 未报告 | 医学教育情境 |
+> | [[Argument_Hattie_2015_SOTLP\|Newman (2004, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 12 项研究 / N 未报告；12 个效应 | Cohen's d；模型未报告 | d = −0.30；95% CI 未报告 | 未报告 | Blass 将其识别为探索性研究 |
+> | [[Argument_Hattie_2015_SOTLP\|Gijbels et al. (2005, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的评估结果 | 40 项研究 / N 未报告；49 个效应 | Cohen's d；模型未报告 | d = 0.32；95% CI 未报告 | 未报告 | 评估方式影响结果解释 |
+> | [[Argument_Hattie_2015_SOTLP\|Walker & Leary (2008, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的跨学科结果 | 82 项研究 / N 未报告；201 个效应 | Cohen's d；模型未报告 | d = 0.13；95% CI 未报告 | 未报告 | 跨学科情境混合 |
+> | [[Argument_Hattie_2015_SOTLP\|Schmidt et al. (2009, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的[[Constructivist Paradigm\|建构主义]]医学知识 | 10 项研究 / N 未报告；90 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 医学知识结果 |
+> | [[Argument_Hattie_2015_SOTLP\|Leary et al. (2013, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的总体结果 | 94 项研究 / N 未报告；213 个效应 | Cohen's d；模型未报告 | d = 0.24；95% CI 未报告 | 未报告 | 综合情境未细分 |
+> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | 干预因素（PBL）的知识获取 | k / N 未报告 | Cohen's d；模型未报告 | d = −0.79；95% CI 未报告 | 未报告 | 知识获取结果不能代表全部 PBL 目标 |
 
-> [!ma-table]- 稳健性与偏倚
-> <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
-> |---|---|---|---|---|---|
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 剔除 3 个离群效应量后保留 k = 47 | Begg 与 Mazumdar 秩相关（tau = −.01, z = .12, p = .89）、Egger 回归（t(45) = 5.53, p < .001）、Duval & Tweedie 剪补法（建议左侧补入 k = 6） | 观测 ES = 0.68 调整为 ES = 0.60；ΔES ≈ 0.08 | 结论方向不变，PBL 仍呈显著正效应 | 存在轻微发表偏倚；正效应较大的 FOM 更可能发表 |
+> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 M / E / k / N | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | 干预因素（PBL）的总体学习结果 | M = 9；k / N 未报告 | Cohen's d；早期二级综合 | d ≈ 0.08；95% CI 未报告 | 单项汇总效应 −0.30 至 0.32；正式指标未报告 | 早期粗放综合；研究情境与结果类型混合 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL）的高等教育学生结果 | M = 20；E = 47；k = 469；N 未报告 | 标准化均差（SMD）；[[Fixed-Effect and Random-Effects Models\|随机效应模型]]；OR 转换 | 观测 ES = 0.68 [0.57, 0.79]；剪补调整后 ES = 0.60 [0.49, 0.71] | Q(46) = 730.67, p < .001, I² = 93.70% | 高等教育情境；存在轻微发表偏倚（详见 Argument） |
+
+> [!ma-table]- 二阶元分析互补维度亚组
+> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 M / E | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL） | 理论性知识 | E = 15 | .59 [.37, .81] | Q_b(6) = 14.65, p = .02 | [[Dependent Variable\|结果变量]]亚组；组间差异显著 |
+> | 同上 | | 临床技能 | E = 8 | 1.06 [.75, 1.37] | | |
+> | 同上 | | [[Critical Thinking\|批判性思维]] | E = 6 | .56 [.24, .89] | | |
+> | 同上 | | 学生态度 | E = 7 | .57 [.26, .88] | | |
+> | 同上 | | 学生满意度 | E = 3 | 1.10 [.62, 1.59] | | |
+> | 同上 | | 综合 | E = 4 | .88 [.44, 1.33] | | |
+> | 同上 | | 其他 | E = 4 | .31 [−.08, .70] | | |
 
 ---
 
