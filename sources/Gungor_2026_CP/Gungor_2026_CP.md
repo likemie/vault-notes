@@ -1,6 +1,7 @@
 ---
 citation: "Güngör, F., Altunbaşak, İ., Aydın, A. T., Kaya, M., & Erdem, C. (2026). A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors. Current Psychology, 45, 552. https://doi.org/10.1007/s12144-025-08943-0"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Gungor_2026_CP]]"
 processed_date: 2026-08-24
 ---
 

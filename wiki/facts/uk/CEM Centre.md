@@ -10,7 +10,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -20,7 +20,6 @@ tags:
   - theme/assessment
   - theme/school-monitoring
 related_concepts:
-  - "[[Praxis]]"
   - "[[Performance Indicators]]"
   - "[[Causality]]"
   - "[[Evidence-Based Education]]"
@@ -46,7 +45,7 @@ updated: 2026-07-14
 > - **创始人** Carol Fitz-Gibbon and Peter Tymms
 > - **定位** 大学内部最大的教育研究单位，专注于为学校提供基于数据的监测与评估工具
 
-CEM 中心（Curriculum, Evaluation and Management Centre，课程、评估与管理中心）是英国最早系统性地将增值评估（value-added assessment）引入学校[[Praxis|实践]]的研究机构之一（pp.330–335）。
+CEM 中心（Curriculum, Evaluation and Management Centre，课程、评估与管理中心）是英国最早系统性地将增值评估（value-added assessment）引入学校实践的研究机构之一（pp.330–335）。
 
 ---
 
@@ -78,7 +77,7 @@ CEM 中心开发了一系列覆盖 3 至 18 岁的学校监测与评估系统：
 
 ## 影响与评价
 
-CEM 中心在将增值评估方法引入英国学校[[Praxis|实践]]方面发挥了开创性作用，其系统为学校提供了问责数据与教师专业发展数据之间的区分框架。在[[Evidence-Based Education|证据本位教育]]运动中，CEM 与 [[EPPI-Centre]] 并列为英国教育研究的两个前沿机构。
+CEM 中心在将增值评估方法引入英国学校实践方面发挥了开创性作用，其系统为学校提供了问责数据与教师专业发展数据之间的区分框架。在[[Evidence-Based Education|证据本位教育]]运动中，CEM 与 [[EPPI-Centre]] 并列为英国教育研究的两个前沿机构。
 
 ---
 

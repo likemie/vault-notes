@@ -9,7 +9,7 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 30
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,16 +22,17 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Divergent Thinking]]"
-  - "[[Praxis]]"
+  - "[[Problem Finding]]"
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"
   - "[[Ecological Validity]]"
   - "[[Self-Efficacy]]"
-  - "[[Computerized Adaptive Testing]]"
+  - "[[Criterion Problem]]"
   - "[[Questionnaire]]"
   - "[[Construct Validity]]"
   - "[[Heterogeneity]]"
+  - "[[Threshold Hypothesis]]"
   - "[[Academic Achievement]]"
   - "[[Confidence Interval]]"
   - "[[Predictive Validity]]"
@@ -47,11 +48,15 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Multilevel Egger's Test]]"
 related_instruments:
+  - "[[Consensual Assessment Technique]]"
+  - "[[Creative Achievement Questionnaire]]"
   - "[[AMSTAR]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
+related_theories:
+  - "[[Creative Problem Solving]]"
 confidence: medium
 status: draft
 created: 2026-08-23
@@ -78,8 +83,8 @@ updated: 2026-08-24
 > *The distinction reflects the fact that sometimes creativity is defined as an outcome or result and used in analyses as the criterion, with other variables used as predictors... Other times the research has used creativity as a predictor and there are other outcomes (e.g., health or problem solving or academic success)...*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Divergent Thinking|发散思维]]：发散思维侧重于构想生成阶段的流畅与灵活性，创造力则涵盖问题发现、评价选择与产品实现的完整系统。
-> - 不等于 创新（Innovation）：创造力侧重于新颖适切构想的生成，创新侧重于构想在组织、市场或社会[[Praxis|实践]]中的应用、推广与价值转化。
+> - 不等于 [[Divergent Thinking|发散思维]]：发散思维侧重于构想生成阶段的流畅与灵活性，创造力则涵盖[[Problem Finding|问题发现]]、评价选择与产品实现的完整系统。
+> - 不等于 创新（Innovation）：创造力侧重于新颖适切构想的生成，创新侧重于构想在组织、市场或社会实践中的应用、推广与价值转化。
 
 ---
 
@@ -98,7 +103,7 @@ updated: 2026-08-24
 
 > [!feature] 核心要素
 > - **创造者（Person）** 探讨创造者的认知能力、人格特质（如经验开放性、精神质）、动机状态（内在动机）与创造潜能。
-> - **创造过程（Process）** 探讨问题发现、[[Divergent Thinking|发散思维]]、顿悟、酝酿与收敛评估等内在认知加工阶段。
+> - **创造过程（Process）** 探讨[[Problem Finding|问题发现]]、[[Divergent Thinking|发散思维]]、顿悟、酝酿与收敛评估等内在认知加工阶段。
 > - **创造产品（Product）** 探讨最终产出的作品、观念、专利、成就或行为在特定领域的独创性与价值。
 > - **创造环境（Press / Environment）** 探讨物理空间、组织气候、教学支持、社会文化规范对创造力的促进或抑制作用。
 
@@ -122,12 +127,12 @@ updated: 2026-08-24
 > | 测量范式与类别 | 评估核心与指标 | 代表性测量工具 | 测量优势与局限 | 二阶实证[[Effect Size\|效应量]]特征 |
 > |---|---|---|---|---|
 > | **发散思维测验<br>（Divergent Thinking Tests）** | 测量观念生成的流畅性（Fluency）、灵活性（Flexibility）、独创性（Originality）与精致性（Elaboration） | • 非常规用途测验（Alternative Uses Task, AUT; Guilford, 1967）<br>• 托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT; Torrance, 1974）<br>• 沃拉克-科根创造力测验（Wallach-Kogan Creativity Tests, WKCT; Wallach & Kogan, 1965） | 优势在于标准化程度高、评分客观、可群体施测；局限在于侧重认知潜能，不能完全等同于实际创造性成就 | 二阶元分析关联效应为 **$r = 0.14$**（与学业、智力及干预呈现中等关联） |
-> | **创造过程与问题发现<br>（Creative Process & Problem Finding）** | 测量开放情境下的问题重构、问题发现、构想评估与顿悟酝酿等高阶认知加工 | • 问题发现与界定任务（Problem Finding Tasks; Getzels & Csikszentmihalyi, 1976; Runco & Okuda, 1988）<br>• 观念评估与选择测验（Idea Evaluation Tasks; Runco & Basadur, 1993）<br>• 远距离联想测验（Remote Associates Test, RAT; Mednick, 1962） | 优势在于贴近真实创造性解决问题的核心认知瓶颈；局限在于任务情境依赖性强，评分需结合主客观标准 | 二阶元分析中呈现最强的关联系数 **$r = 0.27$**，反映过程加工的核心驱动力 |
+> | **创造过程与问题发现<br>（Creative Process & Problem Finding）** | 测量开放情境下的问题重构、[[Problem Finding\|问题发现]]、构想评估与顿悟酝酿等高阶认知加工 | • 问题发现与界定任务（Problem Finding Tasks; Getzels & Csikszentmihalyi, 1976; Runco & Okuda, 1988）<br>• 观念评估与选择测验（Idea Evaluation Tasks; Runco & Basadur, 1993）<br>• 远距离联想测验（Remote Associates Test, RAT; Mednick, 1962） | 优势在于贴近真实创造性解决问题的核心认知瓶颈；局限在于任务情境依赖性强，评分需结合主客观标准 | 二阶元分析中呈现最强的关联系数 **$r = 0.27$**，反映过程加工的核心驱动力 |
 > | **创造性产品评定<br>（Creative Product Evaluation）** | 评估实际产出物（艺术作品、设计、写作、科学方案）的新颖性与适切性 | • 同感评估技术（Consensual Assessment Technique, CAT; Amabile, 1982）<br>• 真实成果与专利计量（Patents, Publications, Artifacts） | 优势在于[[Ecological Validity\|生态效度]]最高，被公认为创造力测评的黄金标准；局限在于耗费领域专家资源，跨领域评分标准一致性受限 | 二阶元分析关联效应为 **$r = 0.12$**（受领域特殊性与专家主观变异影响） |
 > | **创造性成就与自陈量表<br>（Self-Report Achievements & Surveys）** | 评估个体跨领域的终身卓越创造性成就、日常观念产生行为及[[Self-Efficacy\|自我效能]]信念 | • 创造性成就问卷（Creative Achievement Questionnaire, CAQ; Carson et al., 2005）<br>• 朗科观念行为量表（Runco Ideational Behavior Scale, RIBS; Runco et al., 2001）<br>• 创造性自我效能感量表（Creative Self-Efficacy, CSE; Karwowski, 2016） | 优势在于施测便捷、能有效捕捉真实生活中的日常创造力与卓越创造力；局限在于存在社会赞许性效应与主观回忆偏差 | 跨领域综合效应集中于 **$r = 0.10 \sim 0.15$**，作为预测变量时预测效度较高 |
 
-> [!concept-lens] 效标困境与多维复合测评
-> 1. **效标问题（The Criterion Problem）的根源** 创造力不同测量工具之间的相关性往往仅为弱至中等（$r = 0.20 \sim 0.40$）。[[Divergent Thinking|发散思维]]测验测查的是**创造潜能（Potential）**，同感评估技术（Consensual Assessment Technique, CAT）评定测查的是**即时产品（Product）**，创造性成就[[Questionnaire|问卷]]（Creative Achievement Questionnaire, CAQ）记录的是**历史成就（Achievement）**。若研究者将某单一测验等同于整体创造力，将导致严重的[[Construct Validity|构念效度]]滑坡与效应量[[Heterogeneity|异质性]]；
+> [!concept-lens] [[Criterion Problem|效标困境]]与多维复合测评
+> 1. **效标问题（The Criterion Problem）的根源** 创造力不同测量工具之间的相关性往往仅为弱至中等（$r = 0.20 \sim 0.40$）。[[Divergent Thinking|发散思维]]测验测查的是**创造潜能（Potential）**，[[Consensual Assessment Technique|同感评估技术]]（Consensual Assessment Technique, CAT）评定测查的是**即时产品（Product）**，创造性成就[[Questionnaire|问卷]]（[[Creative Achievement Questionnaire]], CAQ）记录的是**历史成就（Achievement）**。若研究者将某单一测验等同于整体创造力，将导致严重的[[Construct Validity|构念效度]]滑坡与效应量[[Heterogeneity|异质性]]；
 > 2. **现代测评的复合化趋势** 现代创造力研究倡导结合“发散思维认知测验 + 真实产品同感评定 + 观念行为自陈”的多源复合测评矩阵，从而在兼顾心理测量学信效度的同时，全面覆盖从微观日常创造（Little-c）到专业卓越创造（Pro-c/Big-C）的完整谱系。
 
 ---
@@ -138,11 +143,11 @@ updated: 2026-08-24
 
 > [!dimension] 创造力相关因素维度谱系
 > - **教育项目与教学干预（Intervention / Education）**
->   包含专门的创造性问题解决训练（CPS, Osborne）、普渡创造性思维计划（Rose & Lin, 1984）、基于问题的学习（Yunita et al., 2020）、STEAM 整合教学（Suganda et al., 2021）以及显式指导语（Acar, Runco & Park, 2020），实证二阶[[Effect Size|效应量]]达 $r = 0.20$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
+>   包含专门的[[Creative Problem Solving|创造性问题解决]]训练（CPS, Osborne）、普渡创造性思维计划（Rose & Lin, 1984）、基于问题的学习（Yunita et al., 2020）、STEAM 整合教学（Suganda et al., 2021）以及显式指导语（Acar, Runco & Park, 2020），实证二阶[[Effect Size|效应量]]达 $r = 0.20$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
 > - **外认知相关因素（Extracognitive Correlates）**
 >   涵盖人格特质（大五人格、经验开放性; Feist, 1998; Karwowski & Lebuda, 2016）、精神质与分裂型人格（Acar & Runco, 2012; Acar & Sen, 2013）、双相情感障碍（Kaczykowski et al., 2021）、情绪心境（Baas et al., 2008; Davis, 2009; Kaufmann & Vosburg, 2002）、内在动机（de Jesus et al., 2013）、好奇心（Schutte & Malouff, 2020）、正念（Lebuda et al., 2016）与压力调节（Byron et al., 2010），二阶效应量为 $r = 0.14$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 > - **认知相关因素（Cognitive Correlates）**
->   涵盖智力水平（Gerwig et al., 2021; Kim, 2005, 2008; Karwowski et al., 2021）、智力门槛假说检验（Weiss & Steger, 2021）、心理表象（LeBoutillier & Marks, 2003）、语义距离（Li et al., 2023）、问题发现能力（Abdulla et al., 2020）、顿悟与酝酿（Shen et al., 2016; Sio & Ormerod, 2009）及[[Academic Achievement|学业成就]]（Gajda et al., 2017），二阶效应量为 $r = 0.12$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 6)]]
+>   涵盖智力水平（Gerwig et al., 2021; Kim, 2005, 2008; Karwowski et al., 2021）、[[Threshold Hypothesis|智力门槛假说]]检验（Weiss & Steger, 2021）、心理表象（LeBoutillier & Marks, 2003）、语义距离（Li et al., 2023）、[[Problem Finding|问题发现]]能力（Abdulla et al., 2020）、顿悟与酝酿（Shen et al., 2016; Sio & Ormerod, 2009）及[[Academic Achievement|学业成就]]（Gajda et al., 2017），二阶效应量为 $r = 0.12$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 6)]]
 > - **即时情境影响（Immediate Influences）**
 >   涵盖团队构成与多样性（Bell et al., 2011; Hülsheger et al., 2009）、组织创造力气候（Hunter et al., 2007）、领导风格（Lin et al., 2022）与信息技术使用（Pacauskas & Rajala, 2017），二阶效应量为 $r = 0.15$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
 > - **人口学背景[[Variable|变量]]（Background Variables）**
@@ -170,7 +175,7 @@ updated: 2026-08-24
 > 探讨创造力究竟是不可改变的天赋特质，还是能够通过系统教学设计与认知训练获得提升的心理潜能。
 
 > [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]
-> **教育干预在各类相关因素中效应最大** 在创造力的各类相关因素中，教育项目与专门训练干预与创造力呈现出最大的关联效应量（$r = 0.20$, 95% 置信区间 $[0.10, 0.29]$），显著超越认知相关因素（$r = 0.12$）、外认知人格动机因素（$r = 0.14$）以及人口学背景变量（$r = 0.07$），确立了教育[[Praxis|实践]]在赋能个体创造潜能中的核心价值。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
+> **教育干预在各类相关因素中效应最大** 在创造力的各类相关因素中，教育项目与专门训练干预与创造力呈现出最大的关联效应量（$r = 0.20$, 95% 置信区间 $[0.10, 0.29]$），显著超越认知相关因素（$r = 0.12$）、外认知人格动机因素（$r = 0.14$）以及人口学背景变量（$r = 0.07$），确立了教育实践在赋能个体创造潜能中的核心价值。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
@@ -198,7 +203,7 @@ updated: 2026-08-24
 
 > [!debates] 学术争议
 >
-> > [!axis] 效标问题（The Criterion Problem）
+> > [!axis] [[Criterion Problem|效标问题]]（The Criterion Problem）
 > > 创造力研究中缺乏统一、绝对且普遍认可的客观效标，导致不同研究采用不同[[Operationalization|操作化]]定义时[[Effect Size|效应量]][[Heterogeneity|异质性]]巨大。
 > >
 > > - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]** 承认效标问题导致创造力作为[[Dependent Variable|因变量]]时的效应量分散，但强调多维评估（结合潜能与表现）是化解效标困境的可行路径。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
@@ -207,7 +212,7 @@ updated: 2026-08-24
 > > > [!axis] 领域一般性 vs [[Domain Specificity|领域特殊性]]
 > > 争论创造力是一种跨学科通用的普遍认知潜能，还是高度依赖特定领域知识与技能的情境化能力。
 > >
-> > - **通才立场** 主张[[Divergent Thinking|发散思维]]、问题发现与开放性人格是跨领域的通用基础。
+> > - **通才立场** 主张[[Divergent Thinking|发散思维]]、[[Problem Finding|问题发现]]与开放性人格是跨领域的通用基础。
 > > - **专才立场** 强调艺术创造与科学创造在认知机制、评价标准及神经活动模式上存在实质性分离。
 
 ---

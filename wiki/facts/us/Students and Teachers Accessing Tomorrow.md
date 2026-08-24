@@ -8,7 +8,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Technology Infusion]]"
   - "[[Logic Model]]"
-  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Class Size]]"
   - "[[Classroom Management]]"
@@ -50,7 +49,7 @@ updated: 2026-05-23
 ## 政策文本摘要
 
 > [!abstract]
-> STAT 的关键投入是面向教师、管理者和技术教练的专业发展，目标是在课堂中使用技术支持学生中心学习、高阶学习、教师备课资源和学生学习活动。评价[[Logic Model|逻辑模型]]把专业发展、课堂环境变化、教学[[Praxis|实践]]变化、数字内容使用、学生参与、21 世纪学习活动和学生成就连接起来([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.115]])。
+> STAT 的关键投入是面向教师、管理者和技术教练的专业发展，目标是在课堂中使用技术支持学生中心学习、高阶学习、教师备课资源和学生学习活动。评价[[Logic Model|逻辑模型]]把专业发展、课堂环境变化、教学实践变化、数字内容使用、学生参与、21 世纪学习活动和学生成就连接起来([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.115]])。
 
 ## 时间线
 
@@ -94,5 +93,5 @@ updated: 2026-05-23
 
 > [!tip]-
 > - [[Technology Infusion]] — STAT 是全学区技术融入的案例，说明技术改革很难被当作单一、边界清晰的干预来评价([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.113-115]])。
-> - [[Evidence-Based Education]] — STAT 展示了严格证据进入地方[[Praxis|实践]]后，会受到项目目标、[[Formative Program Evaluation|形成性项目评价]]和利益相关者价值判断的共同塑造([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
+> - [[Evidence-Based Education]] — STAT 展示了严格证据进入地方实践后，会受到项目目标、[[Formative Program Evaluation|形成性项目评价]]和利益相关者价值判断的共同塑造([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.121-124]])。
 

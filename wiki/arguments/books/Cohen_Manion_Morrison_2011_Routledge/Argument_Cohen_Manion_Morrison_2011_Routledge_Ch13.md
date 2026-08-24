@@ -40,9 +40,9 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[External Validity]]"
   - "[[Positivism]]"
-  - "[[Praxis]]"
   - "[[Operationalization]]"
   - "[[Research Topic]]"
+  - "[[Problem Finding]]"
   - "[[Research Question]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
@@ -242,7 +242,7 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 Sapsford (1999, p. 34–40)将调查规划归纳为四个主题维度，每个维度对应若干操作阶段。Rosier (1997, p. 154–162)在每步补充了具体操作细目：
 
 > [!dev-timeline] 调查规划的四个维度与 14 阶段(Sapsford, 1999; Rosier, 1997)
-> - **问题界定（problem definition）** 决定所需答案的类型和内容、待检验假设与待探索变量。Rosier 在此维度补充了概念框架和操作化的要求。
+> - **[[Problem Finding|问题界定]]（problem definition）** 决定所需答案的类型和内容、待检验假设与待探索变量。Rosier 在此维度补充了概念框架和操作化的要求。
 >
 >   - 1. 界定目标（define the objectives）
 >   - 2. 决定所需调查类型（纵向、横截面、趋势、队列）

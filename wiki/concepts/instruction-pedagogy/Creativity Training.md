@@ -8,18 +8,18 @@ aliases:
   - 创造力培养
   - 创新思维训练
   - 创造力教育
-summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案"
+summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
 tags:
-  - concept/pedagogy
+  - field/educational-psychology
   - theme/creativity
   - method/intervention
-  - field/educational-psychology
+  - topic/instructional-design
 related_concepts:
   - "[[Creativity]]"
   - "[[Effect Size]]"
@@ -32,25 +32,34 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"
+  - "[[Problem Finding]]"
   - "[[Metacognition]]"
   - "[[Hypothesis]]"
   - "[[Structured Teaching]]"
-  - "[[Computer Simulation]]"
   - "[[Variable]]"
   - "[[Domain Specificity]]"
   - "[[Independent Knowing]]"
   - "[[Champ]]"
+  - "[[Criterion Problem]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Publication Bias]]"
   - "[[Homework]]"
-  - "[[Praxis]]"
+  - "[[Higher-Order Thinking Skills]]"
+related_theories:
+  - "[[Creative Problem Solving]]"
+  - "[[Four P Model of Creativity]]"
 related_methods:
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Intervention Research]]"
   - "[[Second-Order Meta-Regression]]"
   - "[[Meta-regression]]"
+related_instruments:
+  - "[[Torrance Tests of Creative Thinking]]"
+  - "[[AMSTAR]]"
 related_persons:
   - "[[Mark A. Runco]]"
 related_arguments:
@@ -68,7 +77,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> [[Creativity Training|创造力训练]]（[[Creativity]] Training）指通过显性讲授认知启发式策略、提供结构化问题解决模型、创设探究性教学情境及运用即时任务指导语，系统识别、激发并提升学习者[[Creativity|创造潜能]]（Creative Potential）与显性创造表现的教育教学干预方案（Scott et al., 2004; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 6–8]]）。在教育心理学中，创造力训练确立了创造潜能的教育可塑性（Educational Malleability），打破了将创造力视为少数天才专属天赋的宿命论观点。
+> [[Creativity Training|创造力训练]]（[[Creativity]] Training）指通过显性讲授认知启发式策略、提供结构化问题解决模型、创设探究性教学情境及运用即时任务指导语，系统识别、激发并提升学习者[[Creativity|创造潜能]]（Creative Potential）与显性创造表现的教育教学干预方案（Scott et al., 2004; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 6–8]]）。在教育心理学与教学论中，创造力训练确立了创造潜能的教育可塑性（Educational Malleability），打破了将创造力视为少数天才专属特权或神秘不可测灵感的宿命论偏见。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向可教学、可干预的创造性认知加工技能、问题重构策略与外认知支持环境。
@@ -76,13 +85,14 @@ updated: 2026-08-24
 > - **边界** 创造力训练不能替代特定学科领域的专业基础知识积累，亦非单一测验分数的机械操练。
 
 > [!citation-card]- 关键表述
-> 创造力干预与教育项目在各类相关因素中展现出最高的[[Effect Size|效应量]]（$r = 0.20$，95% [[Confidence Interval|置信区间]] $[0.10, 0.29]$），表明人类创造潜能具有高度的教育可塑性与环境响应度。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
+> 创造力干预与教育项目在各类相关因素中展现出最高的[[Effect Size|效应量]]（$r = 0.20$，95% [[Confidence Interval|置信区间]]（Confidence Interval, CI）$[0.10, 0.29]$），表明人类创造潜能具有高度的教育可塑性与环境响应度。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 >
 > *Interventions and educational programs yielded the largest effect size (r = .20)... supporting the idea that humans have creative potentials which may be fulfilled through educational efforts.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Direct Instruction|直接教学]]（Direct Instruction）：直接教学侧重良构知识与算法技能的精准精熟，创造力训练聚焦不良结构问题解决、远距离联想与新颖构想生成。
-> - 不等于 [[Critical Thinking|批判性思维]]训练（Critical Thinking Training）：批判性思维侧重逻辑自洽、论证有效性与谬误评估，创造力训练侧重可能性探索、[[Paradigm|范式]]突破与概念重构。
+> - 不等于 [[Direct Instruction|直接教学]]（Direct Instruction）— 直接教学侧重良构知识与算法技能的精准精熟；创造力训练聚焦不良结构问题解决、远距离联想与新颖构想生成。
+> - 不等于 [[Critical Thinking|批判性思维]]教学（Critical Thinking Instruction）— 批判性思维侧重逻辑自洽、论证有效性与谬误评估；创造力训练侧重可能性探索、[[Paradigm|范式]]突破与概念重组。
+> - 不等于自由无序的即兴放任 — 纯粹缺乏支架的“自由表达”干预效应微弱（Scott et al., 2004 报告自由表达 $d = 0.35$ vs 结构化认知策略 $d = 0.84$）。
 
 ---
 
@@ -102,11 +112,11 @@ updated: 2026-08-24
 ## 核心要素与干预范式
 
 > [!taxonomy] [[Creativity|创造力]]干预与教育教学的五大核心[[Paradigm|范式]]
-> - **结构化认知训练课程** 显性讲授系统化认知策略与思维工具（如创造性问题解决模型 Creative Problem Solving, CPS $d = 0.74$、普渡创造性思维计划 Purdue Creative Thinking Program, PCTP $d = 0.63$、SCAMPER 检核表法）。
-> - **[[Constructivist Paradigm|建构主义]]探究教学模式** 深度整合于学科与跨学科真实问题中的探究式学习（如[[Problem-Based Learning|问题驱动教学法]] Problem-Based Learning, PBL $g = 0.87$、跨学科 STEAM 整合课程 $g = 0.76$、协作探究 $g = 0.72$）。
-> - **任务框架与认知指导语操纵** 在任务施测时通过显性目标定向即时激活高水平构想生成（如显式独创性指导语 $g = 0.53$、量规预告）。
-> - **技术中介与数字化协作工具** 运用数字化平台消除群体互动中的生产力阻滞（如电子头脑风暴 Electronic Brainstorming, EBS $d = 0.44$、概念图构筑 $g = 0.65$）。
-> - **外认知与身心调节干预** 通过注意广度扩展与情境视角采择促进思维灵活性（如正念冥想 $r = 0.22$、教育戏剧 $d = 0.42$、结构化酝酿期 $d = 0.29$）。
+> - **结构化认知训练课程** 显性讲授系统化认知策略与思维工具（如[[Creative Problem Solving|创造性问题解决模型]]（Creative Problem Solving, CPS）$d = 0.74$、普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）$d = 0.63$、SCAMPER 创新思维技法）。
+> - **[[Constructivist Paradigm|建构主义]]探究教学模式** 深度整合于学科与跨学科真实问题中的探究式学习（如问题驱动教学法（[[Problem-Based Learning]], PBL）$g = 0.87$、跨学科科学、技术、工程、艺术与数学整合教学（Science, Technology, Engineering, Arts, and Mathematics, STEAM）$g = 0.76$、协作探究 $g = 0.72$）。
+> - **任务框架与认知指导语操纵** 在任务施测时通过显性目标定向即时激活高水平构想生成（如显式独创性指导语 $g = 0.53$、多维量规预告）。
+> - **技术中介与数字化协作工具** 运用数字化平台消除群体互动中的生产力阻滞（如电子头脑风暴（Electronic Brainstorming, EBS）$d = 0.44$、思维导图与概念图构筑 $g = 0.65$）。
+> - **外认知与身心调节干预** 通过注意广度扩展与情境视角采择促进思维灵活性（如正念冥想 $r = 0.22$、教育戏剧[[Role-playing|角色扮演]] $d = 0.42$、结构化酝酿期 $d = 0.29$）。
 
 > [!contrast-table] 五大干预范式深度对比矩阵
 > | 干预范式 | 核心认知机制 | 代表性方案与工具 | 教学实施路径 | 二阶与一阶实证[[Effect Size\|效应量]] |
@@ -121,101 +131,106 @@ updated: 2026-08-24
 
 ### 范式一　结构化认知训练课程与思维模型
 
-此类干预通过显性讲授可操作的认知启发式策略与步骤化模型，系统训练学习者打破心理定势（Mental Set），是实证中发展历史最悠久、跨领域迁移效应最稳定的干预模式（Scott et al., 2004; Ma, 2006）。
-
-1. **创造性问题解决模型（Creative Problem Solving, CPS）**
-   - **理论流程** 由奥斯本与帕内斯（Osborn-Parnes）开创，包含理解挑战（目标发现、数据发现、问题界定）、产生想法（观念发散生成）与准备行动（方案评估选择、接受度建立）六大认知循环；
-   - **实证效应** Scott et al. (2004) [[Meta-analysis|元分析]]（$k = 70$）显示 CPS 综合效应量达到 **$d = 0.74$**（其中对复杂问题解决表现达到 $d = 0.84$，对观念生成达到 $d = 0.75$）；Ma (2006) 进一步证实复合认知训练包的平均促进效应达 **$d = 0.77$**（$r \approx 0.36$）。
-2. **普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）**
-   - **理论流程** 结合趣味音频故事与针对性纸笔练习册，系统训练[[Divergent Thinking|发散思维]]的流畅性（Fluency）、灵活性（Flexibility）、独创性（Originality）与精致性（Elaboration）；
-   - **实证效应** Rose & Lin (1984) 元分析（$k = 46$）表明长期训练在托兰斯测试中的平均效应量为 **$d = 0.47$**（言语发散思维 $d = 0.58$，图形发散思维 $d = 0.36$）；Ma (2006) 报告其专项构件效应量达 **$d = 0.63$**。
-3. **SCAMPER 检核表与形态分析法**
-   - **理论流程** 运用 7 大认知重组算子——替代（Substitute）、合并（Combine）、改造（Adapt）、修改/放大（Modify）、另作他用（Put to another use）、消除（Eliminate）与反转（Reverse），引导学习者在已有知识表征中进行受控的概念跳跃与属性重构；
-   - **实证效应** 在工程设计、艺术创作与写作教学中能显著提高构想独创性与多维方案生成能力（Eberle, 1971; Scott et al., 2004）。
-4. **六顶思考帽与侧向思维（Six Thinking Hats & Lateral Thinking）**
-   - **理论流程** 德·博诺（de Bono）提出的[[Metacognition|元认知]]调节工具，引导学习者在事实（白帽）、情感（红帽）、批判风险（黑帽）、乐观收益（黄帽）、创新可能（绿帽）与全局元认知（蓝帽）之间实现平行思维切换；
-   - **实证效应** 显著改善群体讨论中的过度批判倾向，提高构想评估质量与视角灵活性（Ma, 2009）。
+> [!exegesis] 结构化认知启发式与系统思维模型
+> 此类干预通过显性讲授可操作的认知启发式策略与步骤化模型，系统训练学习者打破心理定势（Mental Set），是实证中发展历史最悠久、跨领域迁移效应最稳定的干预模式（Scott et al., 2004）。
+>
+> 1. **创造性问题解决模型（Creative Problem Solving, CPS）**
+>    - **理论流程** 由奥斯本与帕内斯（Osborn-Parnes）开创，包含理解挑战（目标发现、数据发现、[[Problem Finding|问题界定]]）、产生想法（观念发散生成）与准备行动（方案评估选择、接受度建立）六大认知循环；
+>    - **实证效应** Scott et al. (2004) [[Meta-analysis|元分析]]（$k = 70$）显示 CPS 综合效应量达到 **$d = 0.74$**（其中对复杂问题解决表现达到 $d = 0.84$，对观念生成达到 $d = 0.75$）；Ma (2006) 进一步证实复合认知训练包的平均促进效应达 **$d = 0.77$**（$r \approx 0.36$）。
+> 2. **普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）**
+>    - **理论流程** 结合趣味音频故事与针对性纸笔练习册，系统训练[[Divergent Thinking|发散思维]]的流畅性（Fluency）、灵活性（Flexibility）、独创性（Originality）与精致性（Elaboration）；
+>    - **实证效应** Rose & Lin (1984) 元分析（$k = 46$）表明长期训练在托兰斯测试中的平均效应量为 **$d = 0.47$**（言语发散思维 $d = 0.58$，图形发散思维 $d = 0.36$）；后续元分析报告其专项构件效应量达 **$d = 0.63$**。
+> 3. **SCAMPER 创新思维技法与形态分析法**
+>    - **理论流程** 运用 7 大认知重组算子——替代（Substitute）、合并（Combine）、改造（Adapt）、修改/放大（Modify）、另作他用（Put to another use）、消除（Eliminate）与反转（Reverse），引导学习者在已有知识表征中进行受控的概念跳跃与属性重构；
+>    - **实证效应** 在工程设计、艺术创作与写作教学中能显著提高构想独创性与多维方案生成能力（Eberle, 1971; Scott et al., 2004）。
+> 4. **六顶思考帽与侧向思维（Six Thinking Hats & Lateral Thinking）**
+>    - **理论流程** 德·博诺（de Bono）提出的[[Metacognition|元认知]]调节工具，引导学习者在事实（白帽）、情感（红帽）、批判风险（黑帽）、乐观收益（黄帽）、创新可能（绿帽）与全局元认知（蓝帽）之间实现平行思维切换；
+>    - **实证效应** 显著改善群体讨论中的过度批判倾向，提高构想评估质量与视角灵活性（Ma, 2009）。
 
 ---
 
 ### 范式二　以学习者为中心的建构主义学科探究教学
 
-此类干预将创造力培养深度嵌入学科课程与跨学科真实挑战中，主张创造力不是脱离知识内容的抽象演练，而是通过不良结构问题驱动高阶知识建构与实体原型迭代（Yunita et al., 2020; Suganda et al., 2021）。
-
-1. **问题驱动教学法（Problem-Based Learning, PBL）**
-   - **核心机制** 以开放、复杂、劣构的真实世界问题为驱动引擎，学生以小组为单位自主提出[[Hypothesis|假设]]、检索信息、论证方案并迭代解决；
-   - **实证效应** Yunita et al. (2020) 元分析（$k = 24$ 项[[Experimental Research|实验研究]]）证实，PBL 对学生创造性思维产生大效应促进（**$g = 0.87$**，95% [[Confidence Interval|置信区间]] $[0.64, 1.10]$），显著优于常规讲授式教学。
-2. **跨学科 STEAM 与项目式整合教学（STEAM & Maker Education）**
-   - **核心机制** 深度融合科学（Science）、技术（Technology）、工程（Engineering）、艺术（Arts）与数学（Mathematics），强调“做中学”（Learning by Making）与实体/数字原型制作；
-   - **实证效应** Suganda et al. (2021) 元分析（$k = 20$）报告 STEAM 教学对学生创造性思维技能的效应量达到 **$g = 0.76$**（95% 置信区间 $[0.51, 1.01]$）。
-3. **协作探究与设计思维（Collaborative Inquiry & Design Thinking）**
-   - **核心机制** 遵循“共情理解 $\to$ 需求界定 $\to$ 方案设想 $\to$ 原型制作 $\to$ 用户测试”五步闭环，在高度心理安全感的小组环境中通过观点碰撞实现协同创生；
-   - **实证效应** Ramdani & Susilo (2022) 元分析（$k = 18$）报告协作探究对创造性思维能力的提升效应达到 **$g = 0.72$**。
+> [!exegesis] 学科深度嵌入式与劣构问题探究教学
+> 此类干预将创造力培养深度嵌入学科课程与跨学科真实挑战中，主张创造力不是脱离知识内容的抽象演练，而是通过不良结构问题驱动高阶知识建构与实体原型迭代（Yunita et al., 2020; Suganda et al., 2021）。
+>
+> 1. **问题驱动教学法（Problem-Based Learning, PBL）**
+>    - **核心机制** 以开放、复杂、劣构的真实世界问题为驱动引擎，学生以小组为单位自主提出[[Hypothesis|假设]]、检索信息、论证方案并迭代解决；
+>    - **实证效应** Yunita et al. (2020) 元分析（$k = 24$ 项[[Experimental Research|实验研究]]）证实，PBL 对学生创造性思维产生大效应促进（**$g = 0.87$**，95% [[Confidence Interval|置信区间]] $[0.64, 1.10]$），显著优于常规讲授式教学。
+> 2. **跨学科 STEAM 与项目式整合教学（STEAM & Maker Education）**
+>    - **核心机制** 深度融合科学（Science）、技术（Technology）、工程（Engineering）、艺术（Arts）与数学（Mathematics），强调“做中学”（Learning by Making）与实体/数字原型制作；
+>    - **实证效应** Suganda et al. (2021) 元分析（$k = 20$）报告 STEAM 教学对学生创造性思维技能的效应量达到 **$g = 0.76$**（95% 置信区间 $[0.51, 1.01]$）。
+> 3. **协作探究与设计思维（Collaborative Inquiry & Design Thinking）**
+>    - **核心机制** 遵循“共情理解 $\to$ 需求界定 $\to$ 方案设想 $\to$ 原型制作 $\to$ 用户测试”五步闭环，在高度心理安全感的小组环境中通过观点碰撞实现协同创生；
+>    - **实证效应** Ramdani & Susilo (2022) 元分析（$k = 18$）报告协作探究对创造性思维能力的提升效应达到 **$g = 0.72$**。
 
 ---
 
 ### 范式三　任务框架与即时认知指导语操纵
 
-此类干预无需长期课程投入，而是通过在任务呈现与施测阶段调整外部指导语与评价框架，直接重构学习者的任务目标表征与注意资源分配（Acar, Runco & Park, 2020）。
-
-1. **显性独创性指导语（Explicit Instructions for Originality）**
-   - **操作机制** 在发散思维或设计任务中明确给出独创性要求（如“请尽可能产生前所未有的、极其新颖奇特的观念”，而非仅要求“提出尽可能多的想法”），打破学习者优先追求容易答案（低语义距离）的认知惰性；
-   - **实证效应** Acar et al. (2020) 元分析（$k = 30$ 项实证研究）证实，显性独创性指导语对独创性得分具有即时提升效应（**$g = 0.53$**，$r \approx 0.26$；在托兰斯图形测验中达到 **$g = 0.62$**）。
-2. **多维评估量规预告（Rubric Pre-exposure & Criterion Cuing）**
-   - **操作机制** 在创作前向学生清晰展示高质量创造性产品的评估维度（新颖性、适用性、美观度与可行性），引导学生在构想生成后主动开展元认知监控与方案筛选；
-   - **实证效应** 显著提升入选方案的适切性，有效避免天马行空但不可行的无效幻想。
-3. **视角转换与角色设定指令（Perspective-Taking Framing）**
-   - **操作机制** 要求学习者从非自身常规视角（如“假设你是 50 年后的科学家”或“从艺术家的眼光看这个问题”）构思方案，降低自我防御心理并激活边缘语义联想。
+> [!exegesis] 任务情境定向与即时认知指导语微调
+> 此类干预无需长期课程投入，而是通过在任务呈现与施测阶段调整外部指导语与评价框架，直接重构学习者的任务目标表征与注意资源分配（Acar, Runco & Park, 2020）。
+>
+> 1. **显性独创性指导语（Explicit Instructions for Originality）**
+>    - **操作机制** 在发散思维或设计任务中明确给出独创性要求（如“请尽可能产生前所未有的、极其新颖奇特的观念”，而非仅要求“提出尽可能多的想法”），打破学习者优先追求容易答案（低语义距离）的认知惰性；
+>    - **实证效应** Acar et al. (2020) 元分析（$k = 30$ 项实证研究）证实，显性独创性指导语对独创性得分具有即时提升效应（**$g = 0.53$**，$r \approx 0.26$；在托兰斯图形测验中达到 **$g = 0.62$**）。
+> 2. **多维评估量规预告（Rubric Pre-exposure & Criterion Cuing）**
+>    - **操作机制** 在创作前向学生清晰展示高质量创造性产品的评估维度（新颖性、适用性、美观度与可行性），引导学生在构想生成后主动开展元认知监控与方案筛选；
+>    - **实证效应** 显著提升入选方案的适切性，有效避免天马行空但不可行的无效幻想。
+> 3. **视角转换与角色设定指令（Perspective-Taking Framing）**
+>    - **操作机制** 要求学习者从非自身常规视角（如“假设你是 50 年后的科学家”或“从艺术家的眼光看这个问题”）构思方案，降低自我防御心理并激活边缘语义联想。
 
 ---
 
 ### 范式四　技术中介与数字化协作工具
 
-此类干预利用现代信息技术与数字化平台，解决传统面对面群体创造中的社会抑制与认知负荷瓶颈（DeRosa, Smith & Hantula, 2007）。
-
-1. **电子头脑风暴系统（Electronic Brainstorming, EBS）**
-   - **解决痛点** 消除传统头脑风暴中的“评价顾虑（Evaluation Apprehension）”与“生产力阻塞（Production Blocking，即他人发言时自己无法记录思考）”；
-   - **实证效应** DeRosa et al. (2007) 元分析（$k = 39$）表明，在 8 人以上的大群体中，电子头脑风暴在观念产出数量上优于面对面头脑风暴（**$d = 0.44$**），在观念质量上达到 **$d = 0.38$**。
-2. **概念图与思维可视化工具（Concept Mapping & Visual Thinking）**
-   - **认知机制** 通过节点与连线的拓扑网络直观呈现远距离概念联想（Remote Associations），辅助学生将隐性认知结构显性化；
-   - **实证效应** Ayutthaya & Damrongpanit (2022) 元分析报告[[Structured Teaching|结构化教学]]管理与可视化工具综合促进效应达到 **$g = 0.65$**。
-3. **生成式人工智能协同（Generative AI Co-creativity）**
-   - **前沿机制** 利用大语言模型作为认知支架与“发散催化剂”，协助学习者进行多轮概念变异、反向质询与跨学科方案草拟，扩展问题解决的潜在解空间。
+> [!exegesis] 技术赋能协作平台与思维可视化
+> 此类干预利用现代信息技术与数字化平台，解决传统面对面群体创造中的社会抑制与认知负荷瓶颈（DeRosa, Smith & Hantula, 2007）。
+>
+> 1. **电子头脑风暴系统（Electronic Brainstorming, EBS）**
+>    - **解决痛点** 消除传统头脑风暴中的“评价顾虑（Evaluation Apprehension）”与“生产力阻塞（Production Blocking，即他人发言时自己无法记录思考）”；
+>    - **实证效应** DeRosa et al. (2007) 元分析（$k = 39$）表明，在 8 人以上的大群体中，电子头脑风暴在观念产出数量上优于面对面头脑风暴（**$d = 0.44$**），在观念质量上达到 **$d = 0.38$**。
+> 2. **概念图与思维可视化工具（Concept Mapping & Visual Thinking）**
+>    - **认知机制** 通过节点与连线的拓扑网络直观呈现远距离概念联想（Remote Associations），辅助学生将隐性认知结构显性化；
+>    - **实证效应** Ayutthaya & Damrongpanit (2022) 元分析报告[[Structured Teaching|结构化教学]]管理与可视化工具综合促进效应达到 **$g = 0.65$**。
+> 3. **生成式人工智能协同（Generative AI Co-creativity）**
+>    - **前沿机制** 利用大语言模型作为认知支架与“发散催化剂”，协助学习者进行多轮概念变异、反向质询与跨学科方案草拟，扩展问题解决的潜在解空间。
 
 ---
 
 ### 范式五　外认知、情绪与身心调节干预
 
-此类干预关注非认知心理状态对创造性加工的深层调制，通过拓展注意广度、降低情绪焦虑与安排潜意识酝酿，为顿悟创造提供生理与心理温床（Lebuda, Zabelina & Karwowski, 2016; Sio & Ormerod, 2009）。
-
-1. **正念冥想与开放监控训练（Mindfulness & Open Monitoring Meditation）**
-   - **认知机制** 训练非评判性的当下觉察，降低自动化习惯反应与心理僵化，扩大对边缘感知线索的接收广度；
-   - **实证效应** Lebuda et al. (2016) 元分析（$k = 20$）报告正念与创造力的相关效应量为 **$r = 0.22$**（95% 置信区间 $[0.16, 0.28]$），其中开放监控冥想的关联效应高达 **$r = 0.28$**。
-2. **教育戏剧与角色扮演（Educational Drama & Role-Playing）**
-   - **具身机制** 通过身心具身模拟（Embodied [[Computer Simulation|simulation]]）与戏剧冲突体验，强化共情与复杂社会情境下的视角转换能力；
-   - **实证效应** Lewandowska & Węziak-Białowolska (2020) 元分析报告戏剧训练对创造力与同理心的促进效应为 **$d = 0.42$**（$r \approx 0.21$）。
-3. **结构化酝酿期与微休息（Structured Incubation & Micro-breaks）**
-   - **顿悟机制** 当个体在解决复杂问题遭遇思维僵局（Impasse）时，插入短暂的低认知负荷无关活动，促使意识层面暂停提取而潜意识联想加工继续进行；
-   - **实证效应** Sio & Ormerod (2009) 元分析（$k = 117$ 项实验比较）报告酝酿期的平均促进效应量为 **$d = 0.29$**（$r \approx 0.14$），而在低负荷任务下促进效应上升至 **$d = 0.43$**。
+> [!exegesis] 外认知调节、情绪调适与潜意识酝酿
+> 此类干预关注非认知心理状态对创造性加工的深层调制，通过拓展注意广度、降低情绪焦虑与安排潜意识酝酿，为顿悟创造提供生理与心理温床（Lebuda, Zabelina & Karwowski, 2016; Sio & Ormerod, 2009）。
+>
+> 1. **正念冥想与开放监控训练（Mindfulness & Open Monitoring Meditation）**
+>    - **认知机制** 训练非评判性的当下觉察，降低自动化习惯反应与心理僵化，扩大对边缘感知线索的接收广度；
+>    - **实证效应** Lebuda et al. (2016) 元分析（$k = 20$）报告正念与创造力的相关效应量为 **$r = 0.22$**（95% 置信区间 $[0.16, 0.28]$），其中开放监控冥想的关联效应高达 **$r = 0.28$**。
+> 2. **教育戏剧与角色扮演（Educational Drama & Role-Playing）**
+>    - **具身机制** 通过身心具身模拟与戏剧冲突体验，强化共情与复杂社会情境下的视角转换能力；
+>    - **实证效应** Lewandowska & Węziak-Białowolska (2020) 元分析报告戏剧训练对创造力与同理心的促进效应为 **$d = 0.42$**（$r \approx 0.21$）。
+> 3. **结构化酝酿期与微休息（Structured Incubation & Micro-breaks）**
+>    - **顿悟机制** 当个体在解决复杂问题遭遇思维僵局（Impasse）时，插入短暂的低认知负荷无关活动，促使意识层面暂停提取而潜意识联想加工继续进行；
+>    - **实证效应** Sio & Ormerod (2009) 元分析（$k = 117$ 项实验比较）报告酝酿期的平均促进效应量为 **$d = 0.29$**（$r \approx 0.14$），而在低负荷任务下促进效应上升至 **$d = 0.43$**。
 
 ---
 
 > [!feature] 创造力有效干预的三大核心认知机制
 > - **显性启发式加工（Explicit Heuristics）** 传授具体可操作的构想生成策略（如属性列举、概念交叉重组、反向假设），为发散生成提供认知支架。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–7)]]
-> - **问题发现与重构（Problem Finding & Framing）** 训练个体在模糊情境中主动识别瓶颈、界定新颖问题空间，[[Meta-meta-analysis|二阶元分析]]显示过程相关测量的关联系数最高（$r = 0.27$）。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
+> - **[[Problem Finding|问题发现]]与重构（Problem Finding & Framing）** 训练个体在模糊情境中主动识别瓶颈、界定新颖问题空间，[[Meta-meta-analysis|二阶元分析]]显示过程相关测量的关联系数最高（$r = 0.27$）。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 > - **构想评估与元认知监控（Idea Evaluation & Metacognition）** 培养从海量原始想法中识别高新颖度与高适切性方案的评价眼光，实现从发散走向收敛的完整创造循环。
 
-> [!logic-map]- 要素关系
+> [!logic-map]- 要素关系与干预传导路径
 > ```mermaid
 > flowchart TD
->     A["创造潜能 (Creative Potential)"] --> B["显性启发式认知策略 (CPS / SCAMPER / PCTP)"]
+>     A["创造潜能 (Creative Potential)"] --> B["显性启发式策略 (CPS / SCAMPER / PCTP)"]
 >     A --> C["建构主义学科情境 (PBL / STEAM / 真实探究)"]
 >     A --> D["即时任务目标定向 (显式独创性指导语 / 量规预告)"]
 >     B --> E["问题发现与重构 (r = 0.27)"]
 >     C --> E
 >     D --> E
 >     E --> F["观念发散生成 (r = 0.14)"]
->     F --> G["构想评估与适切性选择"]
+>     F --> G["构想评估与适切性选择 (元认知监控)"]
 >     G --> H["显性创造性产品与卓越成就 (Product / Achievement)"]
 > ```
 
@@ -227,11 +242,11 @@ updated: 2026-08-24
 
 ### 命题一　创造潜能具有高度的教育可塑性且专门教学干预在各类影响因素中效应最强
 
-> [!concept-lens] [[Creativity|创造力]]的可塑性与教育效能
+> [!concept-lens] [[Creativity|创造力]]的教育可塑性与干预效能
 > 探讨创造力究竟是不可改变的天赋特质，还是能够通过系统教学设计与认知训练获得显著提升的心理潜能。
 
 > [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]
-> **教育干预在各类相关因素中效应最大** [[Meta-meta-analysis|二阶元分析]]表明，在各类与创造力相关的因素中，专门的教育教学干预与创造力呈现出最大的关联[[Effect Size|效应量]]（$r = 0.20$, 95% [[Confidence Interval|置信区间]] $[0.10, 0.29]$），显著超越认知相关因素（$r = 0.12$）、外认知人格动机因素（$r = 0.14$）以及人口学背景[[Variable|变量]]（$r = 0.07$），有力证实了人类创造潜能对教育干预的高度响应性。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
+> **教育干预在各类相关因素中效应最大** [[Meta-meta-analysis|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）表明，在各类与创造力相关的因素中，专门的教育教学干预与创造力呈现出最大的关联[[Effect Size|效应量]]（$r = 0.20$, 95% [[Confidence Interval|置信区间]] $[0.10, 0.29]$），显著超越认知相关因素（$r = 0.12$）、外认知人格动机因素（$r = 0.14$）以及人口学背景[[Variable|变量]]（$r = 0.07$），有力证实了人类创造潜能对教育干预的高度响应性。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
 
 > [!claim] Scott et al. (2004)
 > **结构化认知训练的大效应实证支持** 对 70 项创造力训练[[Experimental Research|实验研究]]的系统[[Meta-analysis|元分析]]显示，基于认知策略的系统训练产生了大效应的创造力提升（总体 $d = 0.74$），证实创造力绝非不可捉摸的神赐灵感，而是可以通过系统化的心理学干预获得显著改善的认知技能。
@@ -241,13 +256,23 @@ updated: 2026-08-24
 ### 命题二　包含问题重构与评价选择的全流程复合训练效能显著优于单一技巧训练
 
 > [!concept-lens] 干预深度与全流程创造循环
-> 探讨创造力教学究竟应停留在浅层的头脑风暴构想生成技巧，还是必须涵盖从问题界定、策略生成到方案评价的完整闭环。
+> 探讨创造力教学究竟应停留在浅层的头脑风暴构想生成技巧，还是必须涵盖从[[Problem Finding|问题界定]]、策略生成到方案评价的完整闭环。
 
 > [!claim] Scott et al. (2004); Ma (2006)
-> **复合训练包的优势效应** 整合了问题发现、[[Divergent Thinking|发散思维]]练习、概念重组启发式工具与构想评估标准的系统课程（如 CPS 模型 $d = 0.74 \sim 0.77$、PCTP 方案 $d = 0.63$），其在各年龄段与不同领域的促进效应与迁移稳定性显著超越孤立单一的自由联想练习。
+> **复合训练包的优势效应** 整合了问题发现、[[Divergent Thinking|发散思维]]练习、概念重组启发式工具与构想评估标准的系统课程（如 [[Creative Problem Solving|CPS]] 模型 $d = 0.74 \sim 0.77$、PCTP 方案 $d = 0.63$），其在各年龄段与不同领域的促进效应与迁移稳定性显著超越孤立单一的自由联想练习。
 
 > [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]
-> **过程加工与显式指导语的协同驱动** 二阶元分析显示，创造过程测量的效应量达到 $r = 0.27$，显著高于孤立的发散思维测验（$r = 0.14$）；而在任务施测中引入显式独创性指导语（Acar et al., 2020, $g = 0.53$），能够即时定向个体的注意分配与认知策略，与长期结构化训练形成强有力的互补。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
+> **过程加工与显式指导语的协同驱动** 二阶元分析显示，涵盖问题重构与多阶段加工的创造过程测量效应量达到 $r = 0.27$，显著高于孤立的发散思维测验（$r = 0.14$）；而在任务施测中引入显式独创性指导语（Acar et al., 2020, $g = 0.53$），能够即时定向个体的注意分配与认知策略，与长期结构化训练形成强有力的互补。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
+
+---
+
+### 命题三　即时认知指导语与长周期探究教学在时间尺度上构成互补协同效应
+
+> [!concept-lens] 短时目标激活与长效知识建构的协同
+> 探讨短平快的测验任务指导语操纵与长周期学科探究课程在创造力培养中的不同功能定位与配合机制。
+
+> [!claim] Acar, Runco & Park (2020); Yunita et al. (2020); Suganda et al. (2021)
+> **双尺度干预协同机制** 显性独创性指导语（$g = 0.53$）通过即时解除常规抑制与调整评价门槛，实现短时间内发散潜能的快速释放；而基于不良结构问题的学科探究教学（如 [[Problem-Based Learning|PBL]] $g = 0.87$、跨学科 STEAM $g = 0.76$）则通过长周期的真实情境互动实现高阶概念建构与深度问题解决能力内化。二者在“即时注意唤醒”与“长效认知沉淀”上构成不可或缺的双重支架。
 
 ---
 
@@ -258,6 +283,7 @@ updated: 2026-08-24
 > |---|---|---|---|
 > | **教育可塑性与干预效能** | 专门的教育教学干预是激发与提升创造潜能最有效的途径（$r = 0.20, d \approx 0.74$） | 课程改革、思维训练与教学方案设计 | Scott et al. (2004); [[Mark A. Runco\|Runco et al. (2026)]] |
 > | **全流程复合闭环机制** | 涵盖问题发现、启发式生成与评价筛选的全流程复合训练显著优于单项发散练习 | 复杂工程设计、跨学科探究与卓越创新人才培养 | Ma (2006); Rose & Lin (1984); [[Mark A. Runco\|Runco et al. (2026)]] |
+> | **双尺度协同互补机制** | 即时独创性指令与长周期学科探究在注意唤醒与知识建构上形成微观-宏观互补 | 课堂即时评价、项目式长周期教学与综合评价 | Acar et al. (2020); Yunita et al. (2020); Suganda et al. (2021) |
 
 ---
 
@@ -265,7 +291,7 @@ updated: 2026-08-24
 
 > [!dev-timeline] 概念演变
 > - **1950s — 天赋论打破与可塑性倡导** Guilford 在 APA 主席演讲中提出[[Creativity|创造力]]可测量且可培养，打破高智商决定论，呼吁开展创造性思维教育。
-> - **1960s–1970s — 经典模型奠基** Osborn 与 Parnes 开发创造性问题解决（CPS）模型；Torrance 开发托兰斯创造性思维测验（TTCT）及配套教学材料；Feldhusen 开发普渡创造性思维计划（PCTP）。
+> - **1960s–1970s — 经典模型奠基** Osborn 与 Parnes 开发[[Creative Problem Solving|创造性问题解决]]（CPS）模型；Torrance 开发[[Torrance Tests of Creative Thinking|托兰斯创造性思维测验]]（TTCT）及配套教学材料；Feldhusen 开发普渡创造性思维计划（PCTP）。
 > - **1980s–1990s — [[Meta-analysis|元分析]]检验与领域整合** Rose & Lin (1984) 完成首项 PCTP 元分析；Amabile 强调内在动机与环境支持对创造力培养的关键调制作用。
 > - **2000s–2010s — 循证标准确立与探究[[Paradigm|范式]]拓展** Scott et al. (2004) 与 Ma (2006) 建立严格的干预元分析基准；[[Constructivist Paradigm|建构主义]] [[Problem-Based Learning|PBL]] 教学与跨学科 STEAM 整合项目成为主流教学载体。
 > - **2020s — [[Meta-meta-analysis|二阶元分析]]确立全领域实证基准** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶元分析（124 万人样本），确立教育教学干预在全领域创造力相关因素中位列第一（$r = 0.20$）。
@@ -288,6 +314,14 @@ updated: 2026-08-24
 > > - **Rose & Lin (1984)** 证实训练对标准化发散思维测验具有即时且显著的促进效应（$d = 0.47 \sim 0.58$）。
 > > - **Runco (2026)** 指出测验分数的提升主要反映构想生成潜能，向真实世界复杂产品与卓越成就的跨越受到动机毅力、知识积淀与社会[[Champ|场域]]的多重约束。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 
+> [!tension] 结构性张力：独立思维训练课 vs 学科深度整合探究
+> - **独立专门课程学派（蓝方）** 主张将 [[Creative Problem Solving|CPS]]、SCAMPER 等启发式工具作为独立思维课程讲授，确保学生系统掌握[[Metacognition|元认知]]算子与抽象思维模型（Scott et al., 2004）。
+> - **学科深度嵌入式学派（红方）** 认为脱离具体学科知识脉络的抽象技巧易沦为口头游戏，唯有将创造力嵌入数学、物理、艺术等学科的真实问题解决中才能生根发芽（Baer, 2012; Yunita et al., 2020）。
+
+> [!critique]- 外部批评
+> - **表层技巧操练批评** 批评部分短训班将创造力简化为机械的联想套路，忽视了真实领域高阶创新所需的长期专业知识积累与严苛构想评估（Baer, 2012）。
+> - **效标局限批评** 多数[[Intervention Research|干预研究]]仅以纸笔发散思维测验得分作为效果指标，未能提供个体在真实世界获得发明专利或卓越专业产出的长期追踪证据（[[Criterion Problem|效标问题]]，Runco et al., 2026）。
+
 > [!warning] 适用局限
 > 1. **不可替代专业知识基石** 创造力训练是思维算子而非知识替代品，缺乏学科深度知识的单纯技巧演练易流于表层浅薄；
 > 2. **测验表面效应偏差** 显式指导语等短平快操纵容易显著提升发散测验表面分，但真实创造性产品的产出仍需长期的结构化探究与生态化支持。
@@ -301,7 +335,7 @@ updated: 2026-08-24
 >
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 全领域教育教学干预与[[Creativity\|创造力]]关联效应 | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.20$** $[0.10, 0.29]$ | $Q(162) = 12494, p < .001$ | 高，位列所有外部相关因素第一 |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 全领域教育教学干预与[[Creativity\|创造力]]关联效应 | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.20$** $[0.10, 0.29]$ | 95% PI $[-0.20, 0.54]$ | 高，位列所有外部相关因素第一 |
 > | Scott et al. (2004) | 创造力训练综合效果（实验与对照比较） | $k = 70$ 项实验研究 | 标化均值差 $d$ / 随机效应 | **$d = 0.74$** (观念生成 $d = 0.75$, 问题解决 $d = 0.84$) | 存在显著异质性 | 高，奠定认知干预有效性基准 |
 > | Ma (2006) | 创造力训练方案综合效果 | $k = 34$ 项研究 | 标化均值差 $d$ / 随机效应 | **$d = 0.77$** ($r \approx 0.36$) | 方案类型构成主要调节[[Variable\|变量]] | 高 |
 > | Rose & Lin (1984) | 普渡创造性思维方案（PCTP）训练效果 | $k = 46$ 项研究 | 标化均值差 $d$ / 随机效应 | **$d = 0.47$** (言语 $d = 0.58$, 图形 $d = 0.36$) | 练习册结合音频效果最优 | 中等 |
@@ -321,13 +355,21 @@ updated: 2026-08-24
 > | Scott et al. (2004) | 训练方案内容构成 | 亚组分析 | 包含显性启发式认知策略与问题解决模型的方案效果最佳 | 认知策略 $d = 0.84$ vs 自由表达 $d = 0.35$ | $p < .01$ | 预设 | 结构化教学优于放任型活动 |
 > | Sio & Ormerod (2009) | 酝酿期间的认知任务负荷 | 亚组分析 | 插入低认知负荷的无关任务对顿悟促进最大 | 低负荷 $d = 0.43$ vs 高负荷 $d = 0.15$ | $p < .05$ | 预设 | 极端高负荷会阻碍无意识加工 |
 
+> [!ma-table]- 稳健性与偏倚
+> <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
+> |---|---|---|---|---|---|
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 排除低方法学质量元分析（[[AMSTAR]] < 0.75）与重分类发散思维 | 多水平改进艾格回归（Multilevel Egger's Test） | 偏倚校正后全域效应 $r = 0.17$ $[0.11, 0.22]$ | 核心结论未变，干预与创造力关联最强保持稳健 | 存在小研究效应，但校正后宏观效应量依然高度稳健 |
+> | Scott et al. (2004) | 排除未发表学位论文与不同实验设计质量敏感性检验 | 漏斗图分析与失效安全数（Fail-Safe N） | 校正后仍维持大效应促进（$d > 0.65$） | 结论未变 | 早期实证研究存在一定程度发表偏倚，但不影响认知训练核心效能 |
+
 ---
 
 ## 教育应用与教学实践
 
 > [!implication]- 教学设计四大黄金原则
-> 1. **显性策略教学优先** 教学中应系统传授 CPS 模型、SCAMPER 算子等可操作的启发式策略，而非期望学生在缺乏支架的自由活动中自发领悟；
-> 2. **构建完整创造过程闭环** [[Creativity|创造力]]培养必须经历“问题发现与重构 $\to$ 多元观念发散 $\to$ 原型制作 $\to$ 标准评价与迭代选择”的完整闭环，避免仅停留在初级头脑风暴；
+> 1. **显性策略教学优先** 教学中应系统传授 [[Creative Problem Solving|CPS]] 模型、SCAMPER 算子等可操作的启发式策略，而非期望学生在缺乏支架的自由活动中自发领悟；
+> 2. **构建完整创造过程闭环** [[Creativity|创造力]]培养必须经历“[[Problem Finding|问题发现]]与重构 $\to$ 多元观念发散 $\to$ 原型制作 $\to$ 标准评价与迭代选择”的完整闭环，避免仅停留在初级头脑风暴；
 > 3. **精准任务目标定向** 在课堂活动与[[Homework|作业]]要求中明确给出显式独创性指导语（如要求生成“前所未有的新颖方案”并预先呈现评估量规），有效激活学生的深层认知监控；
 > 4. **营造低威胁与高容错的探究生态** 在学科教学中融入劣构问题探究（[[Problem-Based Learning|PBL]] / STEAM），创设高心理安全感的小组协作环境，鼓励跨学科概念重组与合理试错。
 
@@ -338,6 +380,9 @@ updated: 2026-08-24
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 开展[[Creativity|创造力]]领域[[Meta-meta-analysis|二阶元分析]]，系统整合 52 项一阶[[Meta-analysis|元分析]]与 124 万人样本，实证确立教育教学干预在所有外部影响因素中具备最高[[Effect Size|效应量]]（$r = 0.20$）。
 > - Scott et al. (2004) — 对 70 项创造力训练实验进行系统元分析，确立了基于认知策略的结构化训练具备大效应量促进效能（$d = 0.74$）。
+> - Ma (2006) — 开展创造力训练方案元分析，证实结合认知策略与多阶段训练的复合包效应达到 $d = 0.77$。
+> - Yunita et al. (2020) — 开展问题驱动教学法（[[Problem-Based Learning|PBL]]）元分析，证实不良结构问题情境对学生创造性思维具有大效应提升（$g = 0.87$）。
+> - Acar, Runco & Park (2020) — 开展显式独创性指导语元分析，揭示任务指令对[[Divergent Thinking|发散思维]]与独创性表现的即时唤醒效应（$g = 0.53$）。
 
 ---
 
@@ -347,9 +392,15 @@ updated: 2026-08-24
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
-> | [[Creativity]] | 概念 | 上位概念 | 创造力训练是开发、激发与实现人类创造潜能的核心[[Praxis\|实践]]路径。 |
+> | [[Creativity]] | 概念 | 上位概念 | 创造力训练是开发、激发与实现人类创造潜能的核心实践路径。 |
 > | [[Divergent Thinking]] | 概念 | 核心构件 | 发散思维是创造力训练中观念生成阶段的关键认知操作与测量指标。 |
+> | [[Problem Finding]] | 概念 | 关键阶段 | 问题发现与重构是高水平创造性干预中关联系数最高的过程加工环节（$r = 0.27$）。 |
 > | [[Problem-Based Learning]] | 概念 | 教学载体 | 问题驱动教学通过不良结构情境为创造力培养提供深层学科探究载体。 |
+> | [[Direct Instruction]] | 概念 | 辨析对照 | 直接教学聚焦良构知识精确精熟，创造力训练聚焦劣构问题发散探索。 |
+> | [[Critical Thinking]] | 概念 | 互补思维 | 批判性思维评估逻辑真实性，创造力训练拓展新颖可能性，共同构成[[Higher-Order Thinking Skills\|高阶思维]]。 |
+> | [[Four P Model of Creativity]] | 理论 | 理论框架 | 4P 模型将干预置于过程（Process）与环境（Press）维度以塑造潜能与产品。 |
+> | [[Torrance Tests of Creative Thinking]] | 测量工具 | 测评指标 | 托兰斯测验是创造力训练效果评估中最常用的标准化发散思维测量工具。 |
 > | [[Second-Order Meta-Regression]] | 方法 | 检验工具 | 二阶[[Meta-regression\|元回归]]实证检验了教育干预在全领域创造力相关因素中的显著优势。 |
 > | [[Mark A. Runco]] | 人物 | 理论先驱 | 提出创造潜能理论与显式指导语效应，主持创造力[[Meta-meta-analysis\|二阶元分析]]项目。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证基石 | 汇总 52 项一阶元分析证实教育教学干预具有最高的促进效应（$r = 0.20$）。 |
+

@@ -21,7 +21,6 @@ tags:
   - educational-psychology
 related_concepts:
   - "[[Epistemic Cognition]]"
-  - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Domain Specificity]]"
@@ -85,14 +84,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-24
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -109,7 +108,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在生成式人工智能（Generative Artificial Intelligence, GenAI）与海量数字化信息泛滥的时代，学生获取、理解、确证、修正与应用知识的[[Epistemic Cognition|认识论认知]]（Epistemic Cognition）成为教育[[Praxis|实践]]的核心枢纽。西方学界虽已建立起较为丰厚的实证基准（[[Argument_Greene_2018_JEP|Greene et al., 2018]]），但认识论认知本质上具有深刻的社会文化嵌入性（Bang & Medin, 2010）。在普遍强调集体主义、高利害大学升学统考（大学修学能力考试，CSAT / Suneung / 修能）以及极度繁盛的课外补习（Shadow Education / Hagwon / [[Cram Schools|补习班]]）文化的韩国基础教育情境中，中小学生的认识论认知与各类学习成果之间究竟存在怎样的关联？这种关联是否受到学段（小学、初中、高中）、[[Epistemology|认识论]][[Construct|构念]]维度（知识本质、认识本质、学习本质）、学科[[Domain Specificity|领域特异性]]、[[Measurement Alignment|测量对齐]]度、量表极性以及学习成果类型（高阶认知、低阶认知、动机/情感、自我调节）的系统调节？
+> 在生成式人工智能（Generative Artificial Intelligence, GenAI）与海量数字化信息泛滥的时代，学生获取、理解、确证、修正与应用知识的[[Epistemic Cognition|认识论认知]]（Epistemic Cognition）成为教育实践的核心枢纽。西方学界虽已建立起较为丰厚的实证基准（[[Argument_Greene_2018_JEP|Greene et al., 2018]]），但认识论认知本质上具有深刻的社会文化嵌入性（Bang & Medin, 2010）。在普遍强调集体主义、高利害大学升学统考（大学修学能力考试，CSAT / Suneung / 修能）以及极度繁盛的课外补习（Shadow Education / Hagwon / [[Cram Schools|补习班]]）文化的韩国基础教育情境中，中小学生的认识论认知与各类学习成果之间究竟存在怎样的关联？这种关联是否受到学段（小学、初中、高中）、[[Epistemology|认识论]][[Construct|构念]]维度（知识本质、认识本质、学习本质）、学科[[Domain Specificity|领域特异性]]、[[Measurement Alignment|测量对齐]]度、量表极性以及学习成果类型（高阶认知、低阶认知、动机/情感、自我调节）的系统调节？
 
 > [!claim] 核心主张
 > 基于 PRISMA 规范对韩国 18 项实证研究中的 512 个[[Effect Size|效应量]]（总样本 $N = 6,312$）进行[[Three-Level Meta-Analysis|三层元分析]]（Three-Level [[Meta-analysis]]），证实学生的成熟认识论认知与各类学习成果呈统计显著的小到中等正相关（$r = 0.191, p < 0.001$）；学段和认识论认知构念是驱动效应量变异的核心调节变量——小学阶段的相关强度（$r = 0.375$）显著高于初中（$r = 0.142$）与高中（$r = 0.157$），反映出高学段应试升学与课外补习对探究性认识信念的制度性压制；学习本质与认识本质构念的预测力显著强于本体论维度的知识本质构念；领域特异性、测量对齐、量表极性与成果类型均未达显著调节水平，体现出东亚文化下将学习内化为整体性“自我修养与持续努力”所带来的全域性促进机制。
@@ -240,7 +239,7 @@ issuing_organization: ""
 >     end
 > 
 >     subgraph Mechanisms["文化与制度机制解释"]
->         G1 --> H1["应试异化机制: 高考 (Suneung) 与课外补习 ($240/月) 压制高阶探究"]
+>         G1 --> H1["应试异化机制: 高考 (Suneung) 与课外补习 (\$240/月) 压制高阶探究"]
 >         G2 --> H2["认知距离机制: 学习信念为近端桥梁, 知识本体信念为远端世界观"]
 >         G3 --> H3["修养努力机制: 东亚自我修养与克己文化实现跨成果全域促进"]
 >     end
@@ -395,7 +394,7 @@ issuing_organization: ""
 > > - **[[Argument_Hofer_1997_RER|Hofer & Pintrich (1997)]]** 主张保持认识论概念的纯洁性，将其严格限定于知识与认识的性质。
 
 > [!warrant]- 推理桥梁
-> 关于知识确定性与简单性的信念更多涉及“知识是什么”的哲学预设，而确证与来源涉及“如何认识”的[[Praxis|实践]]规则。在即时学习情境中，学习速度与能力信念最容易直接转化为自我调节行为与抗挫坚持力，因而展现出最紧密的实证关联。（pp.13–14）
+> 关于知识确定性与简单性的信念更多涉及“知识是什么”的哲学预设，而确证与来源涉及“如何认识”的实践规则。在即时学习情境中，学习速度与能力信念最容易直接转化为自我调节行为与抗挫坚持力，因而展现出最紧密的实证关联。（pp.13–14）
 
 ---
 
@@ -499,7 +498,7 @@ issuing_organization: ""
 > [!warning]
 > 1. **因果推论局限** 纳入的 18 项研究绝大多数为横断面相关设计（仅 1 项准[[Experimental Research|实验研究]]），无法确立[[Epistemic Cognition|认识论认知]]对学习成果的时序因果效应或发展因果链。（p.1, p.14）
 > 2. **样本范围边界** 样本严格限定于韩国 K-12 阶段中小学生，未涵盖高等教育群体，结论向其他东亚社会或非西方国家的普适性推广需进一步实证检验。（p.1, p.14）
-> 3. **测量工具的自陈偏倚与权威二元化缺陷** 纳入研究高度依赖自陈式[[Questionnaire|问卷]]，且量表题项普遍将权威简化为“外在权威（朴素）vs. 内在经验（成熟）”的二元对立，未能充分反映现代多源信息与生成式人工智能情境下多方求证、算法批判与人机协作的复杂[[Epistemology|认识论]][[Praxis|实践]]。（pp.13–15）
+> 3. **测量工具的自陈偏倚与权威二元化缺陷** 纳入研究高度依赖自陈式[[Questionnaire|问卷]]，且量表题项普遍将权威简化为“外在权威（朴素）vs. 内在经验（成熟）”的二元对立，未能充分反映现代多源信息与生成式人工智能情境下多方求证、算法批判与人机协作的复杂[[Epistemology|认识论]]实践。（pp.13–15）
 
 ---
 

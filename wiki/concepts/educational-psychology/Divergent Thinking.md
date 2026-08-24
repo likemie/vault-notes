@@ -8,7 +8,7 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知过程，是创造潜能研究中最常用的操作化构念"
 type: concept
 domain: "educational-psychology"
-related_count: 15
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,8 +22,10 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
+  - "[[Problem Finding]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Criterion Problem]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
@@ -35,6 +37,10 @@ related_persons:
   - "[[Mark A. Runco]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
+related_theories:
+  - "[[Creative Problem Solving]]"
+related_instruments:
+  - "[[Runco Ideational Behavior Scale]]"
 confidence: medium
 status: draft
 created: 2026-08-23
@@ -71,7 +77,7 @@ updated: 2026-08-24
 > [!contrast-table] 概念辨析
 > | 维度 | 发散思维（DT） | 聚合思维 | 整体创造过程（Creative Process） |
 > |------|--------------|--------------|-------------------------------|
-> | 认知目标 | 产生多样化、独创性[[Hypothesis\|假设]]与构想 | 评估、筛选并收敛至最优单一解 | 整合问题发现、观念生成、方案评估与产品实现 |
+> | 认知目标 | 产生多样化、独创性[[Hypothesis\|假设]]与构想 | 评估、筛选并收敛至最优单一解 | 整合[[Problem Finding\|问题发现]]、观念生成、方案评估与产品实现 |
 > | 评价标准 | 流畅性、灵活性、独创性与精细性 | 逻辑正确性、精确性与一致性 | 新颖性与适切性 |
 > | 测量工具 | 非常规用途测验、托兰斯测验 | 智力测验、远距离联想测验 | 综合问题解决任务、[[Creativity\|创造性]]活动与成就量表 |
 
@@ -104,7 +110,7 @@ updated: 2026-08-24
 ### 命题一　发散思维是创造性过程的重要组成部分而非唯一决定要素
 
 > [!concept-lens] 认知构件与整体过程的层级关系
-> 发散思维构成了[[Creativity|创造潜能]]的基石，但在解释创造性表现时，涵盖问题发现与灵活整合的整体创造过程具备更强的关联效应。
+> 发散思维构成了[[Creativity|创造潜能]]的基石，但在解释创造性表现时，涵盖[[Problem Finding|问题发现]]与灵活整合的整体创造过程具备更强的关联效应。
 
 > [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]
 > **发散思维与综合创造过程的效应差异** 在[[Meta-meta-analysis|二阶元分析]]模型中，发散思维与创造力相关指标的综合[[Effect Size|效应量]]为 $r = 0.14$（95% [[Confidence Interval|置信区间]] $[0.04, 0.24]$），而包含问题发现（Abdulla et al., 2020）、酝酿（Sio & Ormerod, 2009）、顿悟（Shen et al., 2016）与灵活整合等多维构件的整体创造过程效应量达到 $r = 0.27$（95% 置信区间 $[0.10, 0.43]$），表明发散思维作为单一构件仅能解释部分创造性变异。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
@@ -117,7 +123,7 @@ updated: 2026-08-24
 > 外部教学设计与指导语框架对发散思维表现具有即时与长效影响，表明发散思维是一种具有高度可塑性的心理能力。
 
 > [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]
-> **干预与指导对发散生成的促进效应** 针对创造性思维与发散生成的专门干预程序（如创造性问题解决模型、普渡创造性思维计划）及显式指导语（Explicit Instructions; Acar, Runco & Park, 2020），在一阶与二阶[[Meta-analysis|元分析]]中均表现出稳健的正向促进效应（$r = 0.20$），证明发散思维能够通过教学设计得到有效激发。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
+> **干预与指导对发散生成的促进效应** 针对创造性思维与发散生成的专门干预程序（如[[Creative Problem Solving|创造性问题解决模型]]、普渡创造性思维计划）及显式指导语（Explicit Instructions; Acar, Runco & Park, 2020），在一阶与二阶[[Meta-analysis|元分析]]中均表现出稳健的正向促进效应（$r = 0.20$），证明发散思维能够通过教学设计得到有效激发。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
@@ -136,7 +142,7 @@ updated: 2026-08-24
 > [!dev-timeline] 概念演变
 > - **1950s — 吉尔福特提出智力结构模型** Guilford 正式区分发散思维与聚合思维，确立流畅性、灵活性与独创性等评估维度。
 > - **1960s–1970s — 托兰斯[[Creativity|创造性]]思维测验** Torrance 研发标准化纸笔与图形测验，发散思维成为学校鉴别与教育评估的主流指标。
-> - **1990s–2000s — 观念行为与认知整合模型** Runco 等提出观念生成理论，将发散思维嵌入日常观念行为量表（RIBS）与问题发现框架。
+> - **1990s–2000s — 观念行为与认知整合模型** Runco 等提出观念生成理论，将发散思维嵌入日常[[Runco Ideational Behavior Scale|观念行为量表]]（RIBS）与[[Problem Finding|问题发现]]框架。
 > - **2020s — [[Meta-meta-analysis|二阶元分析]]的大规模实证检验** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合多项一阶[[Meta-analysis|元分析]]，量化确立发散思维（$r = 0.14$）在创造力体系中的基准[[Effect Size|效应量]]。
 
 ---
@@ -146,7 +152,7 @@ updated: 2026-08-24
 > [!debates] 学术争议
 >
 > > [!axis] 发散思维对实际[[Creativity|创造性]]成就的预测力
-> > 效标问题关注发散思维测验得分是否能有效预测现实生活中的创造性成果。
+> > [[Criterion Problem|效标问题]]关注发散思维测验得分是否能有效预测现实生活中的创造性成果。
 > >
 > > - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]** 指出发散思维是预测创造潜能的有效指标，但必须与专业知识、内在动机及环境支撑相结合。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 > > - **Zeng et al. (2011)** 探讨传统发散思维测验在测量与预测现实世界创造力时的局限。

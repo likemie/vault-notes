@@ -2501,6 +2501,16 @@
     ]
   },
   {
+    "title": "Creative Self-Efficacy",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Creative Self-Efficacy.md",
+    "aliases": [
+      "创造性自我效能感",
+      "创造自我效能",
+      "CSE"
+    ]
+  },
+  {
     "title": "Creativity",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Creativity.md",
@@ -9828,6 +9838,17 @@
     ]
   },
   {
+    "title": "Creative Problem Solving",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Creative Problem Solving.md",
+    "aliases": [
+      "创造性问题解决模型",
+      "创造性问题解决",
+      "CPS",
+      "Osborn-Parnes CPS"
+    ]
+  },
+  {
     "title": "Dynamic Knowledge and Learning Model",
     "type": "theory",
     "path": "wiki/theories/instruction-pedagogy/Dynamic Knowledge and Learning Model.md",
@@ -12415,6 +12436,16 @@
     ]
   },
   {
+    "title": "Creative Achievement Questionnaire",
+    "type": "instrument",
+    "path": "wiki/instruments/questionnaire/Creative Achievement Questionnaire.md",
+    "aliases": [
+      "创造性成就问卷",
+      "自陈创造性成就问卷",
+      "CAQ"
+    ]
+  },
+  {
     "title": "Epistemic and Ontological Cognition Questionnaire",
     "type": "instrument",
     "path": "wiki/instruments/questionnaire/Epistemic and Ontological Cognition Questionnaire.md",
@@ -12459,10 +12490,19 @@
     "type": "instrument",
     "path": "wiki/instruments/rubric/Consensual Assessment Technique.md",
     "aliases": [
-      "CAT",
       "同感评估技术",
       "共识评估技术",
-      "consensual assessment technique"
+      "CAT"
+    ]
+  },
+  {
+    "title": "Runco Ideational Behavior Scale",
+    "type": "instrument",
+    "path": "wiki/instruments/scale/Runco Ideational Behavior Scale.md",
+    "aliases": [
+      "伦科观念行为量表",
+      "观念行为量表",
+      "RIBS"
     ]
   },
   {
@@ -12472,8 +12512,7 @@
     "aliases": [
       "TTCT",
       "托兰斯创造性思维测验",
-      "托兰斯创造力测验",
-      "Torrance Tests of Creative Thinking"
+      "托兰斯创造力测验"
     ]
   },
   {

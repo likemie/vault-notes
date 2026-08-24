@@ -41,10 +41,10 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Technology Infusion]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Praxis]]"
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
   - "[[Sustainability Education]]"
+  - "[[Creativity]]"
   - "[[Falsification]]"
   - "[[Homework]]"
   - "[[Primary and Secondary Documents]]"
@@ -154,7 +154,7 @@ updated: 2026-08-23
 数字革命与全球生态危机正深刻重塑全社会职业形态与公民决策环境，科学教育必须打破传统单科事实灌输的局限，实现向关键交叉素养的系统升级。（pp. 31–32）
 
 > [!claim] 步骤二核心主张
-> 关键交叉素养（Cross-Cutting / Transversal Literacies）是指跨越单一学科边界、贯通数理逻辑与人文社会的通用认知与[[Praxis|实践]]胜任力；必须将[[Data Literacy|数据素养]]、[[AI Literacy|人工智能素养]]与全校[[Sustainability Education|可持续发展教育]]深度嵌入课程与教学体系，通过认知规制与循证测评赋能未来公民应对复杂现实挑战。（pp. 31–32）
+> 关键交叉素养（Cross-Cutting / Transversal Literacies）是指跨越单一学科边界、贯通数理逻辑与人文社会的通用认知与实践胜任力；必须将[[Data Literacy|数据素养]]、[[AI Literacy|人工智能素养]]与全校[[Sustainability Education|可持续发展教育]]深度嵌入课程与教学体系，通过认知规制与循证测评赋能未来公民应对复杂现实挑战。（pp. 31–32）
 
 > [!concept-lens] 关键交叉素养的认识论定位
 > - **含义** 关键交叉素养（Cross-Cutting / Transversal Literacies）指跨越单一学科边界、贯通数理逻辑、计算技术与人文社科的底层通用认知胜任力，是学生在 21 世纪应对数字化、智能化与气候变化所必需的跨学科思维工具。
@@ -165,7 +165,7 @@ updated: 2026-08-23
 > - **数学与数据素养（Mathematical and Data Literacy）**
 >   依托概率论与统计学基础，培养对现实海量数据来源、[[Reliability|可靠性]]、完整性、采样偏差及可视化图表表达的批判性审视与量化推理能力。（p. 31）
 > - **人工智能与批判性数字素养（AI and Critical Digital Literacy）**
->   深刻理解大语言模型（Large Language Models, LLMs）等人工智能（Artificial Intelligence, AI）算法模型的运作机制与算法偏见、幻觉黑箱等固有局限，坚守放大人类认知与创造力的应用底线。（p. 32）
+>   深刻理解大语言模型（Large Language Models, LLMs）等人工智能（Artificial Intelligence, AI）算法模型的运作机制与算法偏见、幻觉黑箱等固有局限，坚守放大人类认知与[[Creativity|创造力]]的应用底线。（p. 32）
 > - **可持续发展素养与绿色技能（Sustainability Literacy and Green Skills）**
 >   系统把握气候变化与生态承载力的多学科复杂性，掌握服务国家低碳转型的绿色技能，将生态文明内化为跨学科行动力。
 > - **科学本质素养（Nature of Science Literacy）**
@@ -323,7 +323,7 @@ updated: 2026-08-23
 > *Being scientifically literate goes beyond simply having factual knowledge and an understanding of the principles underpinning STEM subjects; it requires an understanding of how science is done and how to evaluate evidence and its sources.*
 
 > [!citation-card]- [[AI Literacy|人工智能素养]]的放大原则
-> 需要更高水平的 AI 素养来确保青年人能够对 AI 工具进行批判性思考并恰当使用它们：去放大人类的认知与创造力，而不是去替代或外包它。（p. 32）
+> 需要更高水平的 AI 素养来确保青年人能够对 AI 工具进行批判性思考并恰当使用它们：去放大人类的认知与[[Creativity|创造力]]，而不是去替代或外包它。（p. 32）
 >
 > *Greater AI literacy will be required to ensure that young people are able to think critically about AI tools and use them appropriately: to amplify human cognition and creativity, not to replace or outsource it.*
 
