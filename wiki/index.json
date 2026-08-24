@@ -2809,6 +2809,15 @@
     ]
   },
   {
+    "title": "Student Attitude",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Student Attitude.md",
+    "aliases": [
+      "学生态度",
+      "学习态度"
+    ]
+  },
+  {
     "title": "Student Satisfaction",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Student Satisfaction.md",
@@ -2824,6 +2833,15 @@
     "aliases": [
       "主观知识",
       "subjective knowledge"
+    ]
+  },
+  {
+    "title": "Theoretical Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Theoretical Knowledge.md",
+    "aliases": [
+      "理论性知识",
+      "理论知识"
     ]
   },
   {

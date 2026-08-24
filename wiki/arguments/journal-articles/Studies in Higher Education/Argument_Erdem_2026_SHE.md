@@ -31,6 +31,7 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Clinical Skills]]"
+  - "[[Student Satisfaction]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
   - "[[Self-Directed Learning]]"
@@ -83,7 +84,7 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -158,10 +159,10 @@ issuing_organization: ""
 > [!index-table] 学生[[Dependent Variable|结果变量]]操作化定义、核心教学规程、典型测量工具与纳入案例
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **理论性知识**<br>（Theoretical Knowledge） | 对支撑学科的基本概念、原理与理论的理解，通过分析真实问题更深入有效地掌握理论概念。 | **核心教学规程** 学生以真实问题为起点，在小组中激活先备知识、分析问题、检索资料并通过问题解决整合理解（pp. 952–953）；<br>**典型测量工具** 学科知识测试或成绩测验；<br>**纳入案例** Ma & Lu (2019, ES = 1.16)、Wang et al. (2016, ES = 0.76)、Galvao et al. (2014, ES = 0.21)、Huang et al. (2013, ES = 0.88) 等 15 个效应量，加权平均 ES = 0.59。（pp. 954–955, 962） |
+> | **[[Theoretical Knowledge\|理论性知识]]**<br>（Theoretical Knowledge） | 对支撑学科的基本概念、原理与理论的理解，通过分析真实问题更深入有效地掌握理论概念。 | **核心教学规程** 学生以真实问题为起点，在小组中激活先备知识、分析问题、检索资料并通过问题解决整合理解（pp. 952–953）；<br>**典型测量工具** 学科知识测试或成绩测验；<br>**纳入案例** Ma & Lu (2019, ES = 1.16)、Wang et al. (2016, ES = 0.76)、Galvao et al. (2014, ES = 0.21)、Huang et al. (2013, ES = 0.88) 等 15 个效应量，加权平均 ES = 0.59。（pp. 954–955, 962） |
 > | **[[Clinical Skills\|临床技能]]**<br>（Clinical Skills） | 通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能，促进更快更有效的决策并支持长期技能保持。 | **核心教学规程** 在真实患者情景的问题解决中练习临床决策与操作，发展长期技能保持（pp. 954–955）；<br>**典型测量工具** 临床技能、临床能力或临床实践考核；<br>**纳入案例** Ma & Lu (2019, ES = 1.56)、Zhang et al. (2018, ES = 1.56)、Shin & Kim (2013, ES = 0.92)、Li et al. (2024, ES = 1.20) 等 8 个效应量，加权平均 ES = 1.06。（pp. 954–955, 962） |
 > | **[[Critical Thinking\|批判性思维]]**<br>（Critical Thinking） | 与组织、分析、评价并最终决策自身认知过程相关的技能与习惯，在问题解决环境中发展。 | **核心教学规程** 问题解决环境促使学生深度思考、评价多样视角、分析综合信息（pp. 955, 963–964）；<br>**典型测量工具** 批判性思维技能测验或倾向量表；<br>**纳入案例** Kong et al. (2014, ES = 0.33)、Liu & Pásztor (2022, ES = 0.58–0.91)、Wei et al. (2023, ES = 0.47) 等 6 个效应量，加权平均 ES = 0.56。（pp. 955, 962） |
-> | **学生态度**<br>（Student Attitude） | 学生对特定学科、学习方法或教育环境的总体感受与想法，技能与知识以外的结果（如倾向、兴趣）归入此类。 | **核心教学规程** 主动参与问题解决过程培养积极态度与热情（pp. 955–956, 963–964）；<br>**典型测量工具** 态度、兴趣或倾向量表；<br>**纳入案例** Shin & Kim (2013, ES = 0.67)、Brice (2017, ES = −0.15)、（未识别博士论文，ES = 0.45）等 7 个效应量，加权平均 ES = 0.57。（pp. 955–956, 962） |
+> | **[[Student Attitude\|学生态度]]**<br>（Student Attitude） | 学生对特定学科、学习方法或教育环境的总体感受与想法，技能与知识以外的结果（如倾向、兴趣）归入此类。 | **核心教学规程** 主动参与问题解决过程培养积极态度与热情（pp. 955–956, 963–964）；<br>**典型测量工具** 态度、兴趣或倾向量表；<br>**纳入案例** Shin & Kim (2013, ES = 0.67)、Brice (2017, ES = −0.15)、（Smith, 2003，ES = 0.45）等 7 个效应量，加权平均 ES = 0.57。（pp. 955–956, 962） |
 > | **[[Student Satisfaction\|学生满意度]]**<br>（Student Satisfaction） | 学生对学习过程与学习环境的总体满意程度，PBL 激发内在动机并提升学习体验。 | **核心教学规程** 主动参与增强内在动机与学习能力，提升学习体验（pp. 955–956, 963–964）；<br>**典型测量工具** 满意度问卷；<br>**纳入案例** Shin & Kim (2013, ES = 1.44)、Zheng et al. (2023, ES = 0.92)、Li et al. (2024, ES = 5.43，OR 转换) 等 3 个效应量，加权平均 ES = 1.10。（pp. 955–956, 962） |
 > | **综合**<br>（Combined） | 元分析未拆分认知与情感结果、直接汇总报告的综合结果。 | **核心教学规程** 元分析对多项结果未拆分、直接汇总报告（p. 959）；<br>**典型测量工具** 综合测验或综合表现评价；<br>**纳入案例** Gao et al. (2020, ES = 1.51)、Sayyah et al. (2017, ES = 0.90) 等 4 个效应量，加权平均 ES = 0.88。（pp. 959, 962） |
 > | **其他**<br>（Others） | 不足以独立成组的结果类型。 | **核心教学规程** 某结果类型效应量不足以独立成组（k < 3）（p. 959）；<br>**典型测量工具** 各元分析报告的零星结果；<br>**纳入案例** Sharma et al. (2023, 自信 ES = 0.31) 等 4 个效应量，加权平均 ES = 0.31。（pp. 959, 962） |
@@ -248,13 +249,13 @@ issuing_organization: ""
 > | Huang et al. (2013) | 理论性知识 | .88 [.46, 1.31] | 8 | 牙科 | 文章 | 中国 | RCT | 中等 | 2006–2012 |
 > | Brice (2017)a | 态度 | −.15 (SE = .29) | 9 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 2003–2016 |
 > | Brice (2017)a | 理论性知识 | −.39 (SE = .23) | 9 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 2003–2016 |
-> | （未识别博士论文） | 理论性知识 | .02 [−.02, .06] | 33 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
-> | （未识别博士论文） | 临床技能 | .32 [.27, .38] | 29 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
-> | （未识别博士论文） | 问题解决 | .19 [.03, .34] | 10 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
-> | （未识别博士论文） | [[Self-Directed Learning\|自我导向学习]] | .47 [.39, .55] | 19 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
-> | （未识别博士论文） | 态度 | .45 [.39, .52] | 30 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
+> | Smith (2003) | 理论性知识 | .02 [−.02, .06] | 33 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
+> | Smith (2003) | 临床技能 | .32 [.27, .38] | 29 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
+> | Smith (2003) | 问题解决 | .19 [.03, .34] | 10 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
+> | Smith (2003) | [[Self-Directed Learning\|自我导向学习]] | .47 [.39, .55] | 19 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
+> | Smith (2003) | 态度 | .45 [.39, .52] | 30 | 医学 | 博士论文 | 非特定 | RCT 与非 RCT | 中等 | 1977–2002 |
 >
-> RCT 表示随机对照试验；非 RCT 表示非随机对照试验；* 表示离群值；** 表示以 OR 报告；*** 表示以 Hedges' g 报告。表内部分数值按原刊表格[[Transcription in Qualitative Research|转录]]，个别单元格存在排版不清。表中 1977–2002 年医学博士论文的作者名在原刊 Table 1 中缺失，且论文附录未列示该研究，故以未识别处理。（pp. 958–959）
+> RCT 表示随机对照试验；非 RCT 表示非随机对照试验；* 表示离群值；** 表示以 OR 报告；*** 表示以 Hedges' g 报告。表内部分数值按原刊表格[[Transcription in Qualitative Research|转录]]，个别单元格存在排版不清。表中 1977–2002 年医学博士论文经比对确认为 Smith (2003)（Problem-based versus lecture-based medical teaching and learning: a meta-analysis of cognitive and noncognitive outcomes），原刊 Table 1 未显示作者名。（pp. 958–959）
 
 > [!ref-table]- [[Variable|变量]][[Coding in Qualitative Research|编码]]程序规范（Table 2）
 > | 编码分组 | 编码类别与[[Operationalization\|操作化]]定义 |
@@ -533,7 +534,7 @@ issuing_organization: ""
 > *The effect sizes observed in China were significantly higher than those observed in other locations. This may be attributed to the fact that the PBL model has been implemented in higher education institutions in China since the 1970s... the role of Chinese culture in this finding should not be overlooked.*
 
 > [!citation-card]- PBL 之争与推广结论
-> PBL 课程毕业生具备与传统课程毕业生相当或更强的专业能力。此外，PBL 对学生结果的影响超越了[[Academic Achievement|学业表现]]。……可以得出结论，PBL 应在高等教育环境中使用，以促进理论性知识获取、增强临床与[[Critical Thinking|批判性思维]]技能，以及形成积极的学生态度与满意度。（p. 966）
+> PBL 课程毕业生具备与传统课程毕业生相当或更强的专业能力。此外，PBL 对学生结果的影响超越了[[Academic Achievement|学业表现]]。……可以得出结论，PBL 应在高等教育环境中使用，以促进理论性知识获取、增强临床与[[Critical Thinking|批判性思维]]技能，以及形成积极的[[Student Attitude|学生态度]]与[[Student Satisfaction|学生满意度]]。（p. 966）
 >
 > *Evidence indicates that graduates of PBL curricula exhibit comparable or enhanced professional competencies relative to graduates from more conventional curricula... It can be concluded that PBL should be employed in higher education settings to facilitate enhanced theoretical knowledge acquisition, augmented clinical and critical thinking skills, and positive student attitudes and increased satisfaction.*
 

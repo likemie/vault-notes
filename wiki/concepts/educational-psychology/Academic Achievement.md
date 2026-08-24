@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 45
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -42,12 +42,13 @@ related_concepts:
   - "[[Homework]]"
   - "[[Heterogeneity]]"
   - "[[Prediction Interval]]"
+  - "[[Critical Thinking]]"
+  - "[[Achievement and Aptitude Tests]]"
   - "[[Variable]]"
   - "[[Cooperative Learning]]"
   - "[[Problem-Based Learning]]"
   - "[[Affective Outcomes]]"
   - "[[Questionnaire]]"
-  - "[[Achievement and Aptitude Tests]]"
   - "[[Ontology]]"
   - "[[Measurement Alignment]]"
 related_theories:
@@ -55,8 +56,8 @@ related_theories:
   - "[[Epistemic and Ontological Cognition]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Survey Research]]"
   - "[[Multinomial Logistic Regression]]"
   - "[[Matching]]"
@@ -67,6 +68,7 @@ related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Lodewyk_2007_EP]]"
   - "[[Argument_Greene_2010_JEP]]"
+  - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
 confidence: medium
@@ -213,6 +215,7 @@ updated: 2026-08-24
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：[[Critical Thinking\|批判性思维]]教学干预对常规学业成就的促进效应 | $k = 140$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.33$ $[0.25, 0.40]$ | $Q(139) = 887.62, p < .001, I^2 = 84.34\%$ | 严格排除前实验设计；证实思维干预对学科知识掌握产生显著正向协同（改善指数 12.93%） |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 结果变量：[[Epistemic Cognition\|认识论认知]]对学业成就的总体预测效应 | $k = 151$ / $N = 55,418$ | 皮尔逊 $r$ / 随机效应模型 | $r = 0.162$ $[0.135, 0.189]$ | $Q = 1335.22, p < .001, I^2 = 88.77\%$；95% PI 未报告 | 纳入横断与相关研究为主，测量方式与成就类型存在高异质性 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
@@ -220,6 +223,7 @@ updated: 2026-08-24
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]] | 测量工具性质：标准化[[Achievement and Aptitude Tests\|成就测验]] vs 教师自编/课程期末考试 | 标准化 $k = 25$ / 课程自编 $k = 115$ | 标准化 $g+ = 0.13$ $[-0.03, 0.28]$；自编 $g+ = 0.37$ $[0.29, 0.46]$ | $Q_b(1) = 7.97, p = .005$ | 预设分析；组间差异高度显著，与课程紧密贴合的成就测量获益更明显 |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Dependent Variable\|结果变量]] | 成就类型亚组：概念性知识 vs 论证 vs 陈述性知识 vs 程序性知识 | 概念 $k = 25$ / 论证 $k = 14$ / 陈述 $k = 101$ / 程序 $k = 23$ | 概念 $r = 0.190$ $[0.133, 0.245]$；论证 $r = 0.154$ $[0.088, 0.219]$；陈述 $r = 0.127$ $[0.093, 0.160]$；程序 $r = 0.077$ $[-0.007, 0.160]$ | $Q_b = 1.766, p > .05$ | 预设分析；组间未达显著，但高阶概念与论证点估计显著高于[[Rote Learning\|死记硬背]]类[[Procedural Knowledge\|程序知识]] |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 结果[[Variable\|变量]] | 测量方式亚组：标准化测试 vs 专门测验 vs 参与者自报 GPA | 标准化 $k = 18$ / 专测 $k = 74$ / 自报 $k = 59$ | 标准化 $r = 0.214$ $[0.148, 0.278]$；专测 $r = 0.177$ $[0.136, 0.217]$；自报 $r = 0.083$ $[0.043, 0.122]$ | $Q_b = 16.48, p < .001$ | 预设分析；组间差异高度显著，脱离效标的自报成绩会严重低估理论关联 |
 

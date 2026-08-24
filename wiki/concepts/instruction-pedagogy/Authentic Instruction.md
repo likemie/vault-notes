@@ -9,7 +9,7 @@ aliases:
 summary: "以真实情境、劣构问题、角色扮演与情境模拟为载体，引导学生在有意义的问题解决中建构知识与发展批判性思维的教学模式。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Heterogeneity]]"
   - "[[Prediction Interval]]"
+  - "[[Effect Size]]"
   - "[[Mentorship]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -151,8 +152,9 @@ updated: 2026-08-24
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 具体教学子策略：[[Role-playing\|角色扮演]] vs 应用型问题解决 | 角色扮演 $k = 5$；应用型解题 $k = 31$ | 角色扮演 $g+ = 0.61$ $[p < .001]$；应用型解题 $g+ = 0.35$ $[p < .001]$ | 均显著大于 0 | 角色扮演样本量相对较小但效应量高度显著 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 策略组合：真实性教学（A）vs 真实性+[[Dialogue in Education\|对话]]（A+D）vs 真实性+对话+导师指导（A+D+M） | A 单独 $k = 22$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维组合展现最强协同增益 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 具体教学子策略：[[Role-playing\|角色扮演]] vs 应用型问题解决 vs 情境模拟 vs 两难困境分析 | 角色扮演 $k = 5$；应用解题 $k = 31$；情境模拟 $k = 23$；两难困境 $k = 3$ | 角色扮演 $g+ = 0.61$ $[0.24, 0.98]$；应用解题 $g+ = 0.35$ $[0.20, 0.49]$；情境模拟 $g+ = 0.26$ $[0.09, 0.43]$；两难困境 $g+ = 0.11$ $[-0.37, 0.58]$ | 角色扮演、应用解题与情境模拟均显著大于 0 | 角色扮演能够强力驱动换位思考与多重证据权衡，[[Effect Size\|效应量]]最高 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 策略组合梯度：真实性教学（A）vs 真实性+[[Dialogue in Education\|对话]]（A+D）vs 真实性+对话+导师指导（A+D+M） | A 单独 $k = 22$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维组合展现最强协同增益 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 思维倾向培养：真实性教学干预对批判性思维倾向的促进效应 | $k = 8$ | $g+ = 0.29$ | 显著大于 0 | 解决真实劣构问题有助于激发探究动机与审慎求真的思维倾向 |
 
 ---
 

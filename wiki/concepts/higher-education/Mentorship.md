@@ -19,9 +19,9 @@ tags:
 related_concepts:
   - "[[Research Topic]]"
   - "[[Mentorship Recognition]]"
+  - "[[Critical Thinking]]"
   - "[[Authentic Instruction]]"
   - "[[Dialogue in Education]]"
-  - "[[Critical Thinking]]"
 related_theories: []
 related_methods:
   - "[[Network Analysis]]"
@@ -87,10 +87,14 @@ updated: 2026-08-24
 
 ---
 
-## 词源
+## 围绕概念形成的命题
 
-> [!note]-
-> 导师（mentor）一词源自希腊名字 Mentōr，即荷马《奥德赛》中 Telemachus 的顾问，该书写于约公元前 750-650 年。mentor 一词可能直到 1750 年左右才进入英语（Roberts, 2000, 引自 [[Argument_Sandrone_2025_MEO|Sandrone, 2025]]）。mentoring 一词可能在 1778 年左右首次出现在美国（引自 Sandrone, 2025）。
+### 命题一　导师制在认知干预中作为“催化剂”放大其他探究策略的效能
+> [!concept-lens] 认知与教学脚手架机制
+> 探讨导师个别化指导在独立实施与复合教学情境中的效应差异。
+
+> [!claim] Abrami, P. C., et al.
+> **导师制的催化功能（Catalytic Capacity）** [[Meta-analysis|元分析]]证据显示，当导师制孤立实施时，其促进[[Critical Thinking|批判性思维]]的效果相对有限（$g+ = 0.13, k=5$）；然而，当导师指导与[[Authentic Instruction|真实性教学]]（应用型解题）及深度[[Dialogue in Education|对话]]（师生/同伴研讨）相结合时，干预效应跃升至峰值（$g+ = 0.57, k=19$），且显著优于仅有真实情境与对话的双重组合（$z = 1.98, p = .024$）。这表明导师的核心功能在于充当认知脚手架与催化剂，在学生面对复杂真实任务并展开论辩时提供及时的专家示范与瓶颈点拨。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 294–295, 298)]]
 
 ---
 
@@ -101,7 +105,9 @@ updated: 2026-08-24
 >
 > | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 导师制独立实施 vs 复合教学策略（[[Authentic Instruction\|真实性教学]]+[[Dialogue in Education\|对话]]+导师制 A+D+M） | 导师制独立 $k = 28$；A+D+M 复合 $k = 19$ | 独立 $g+ = 0.39$ $[0.23, 0.55]$；复合 $g+ = 0.57$ $[0.38, 0.77]$ | A+D+M 显著优于 A+D（$z = 1.98, p = .024$） | 证实导师制在[[Critical Thinking\|批判性思维]]干预中发挥了关键的催化功能（Catalytic Capacity） |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 导师制独立维度：实验组强度 > 对照组 vs 两组无差异 | 实验组更高 $k = 28$；无差异 $k = 238$ | 实验组更高 $g+ = 0.39$ $[0.23, 0.55]$；无差异 $g+ = 0.26$ $[0.20, 0.31]$ | $Q_b(1) = 2.58, p = .108$ | 独立作为干预维度时未达组间统计显著 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 策略组合梯度：单独导师制（M）vs [[Dialogue in Education\|对话]]+导师制（D+M）vs 真实性+导师制（A+M）vs 真实性+对话+导师制（A+D+M） | M 单独 $k = 5$；D+M $k = 18$；A+M $k = 7$；A+D+M $k = 19$ | M $g+ = 0.13$；D+M $g+ = 0.38$；A+M $g+ = 0.37$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | A+D+M 显著优于 A+D（$z = 1.98, p = .024$） | 证实导师制在复合情境中的催化协同功能 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 思维倾向培养：导师制干预对[[Critical Thinking\|批判性思维]]倾向的促进效应 | $k = 5$ | $g+ = 0.38$ | 显著大于 0 | 导师的身教示范对端正求真、开放与系统性思维倾向具有最强推动力 |
 
 ---
 
