@@ -34,7 +34,7 @@ issuing_organization: ""
 
 # <% tp.file.title %>
 
-%% 若本文属于元分析或二阶元分析，请停止使用本模板，分别改用 template-argument-meta-analysis.md 或 template-argument-meta-meta-analysis.md。 %%
+%% 若本文属于元分析或二阶元分析，请停止使用本模板，改用统一的 template-argument-meta-analysis.md。 %%
 
 ---
 
