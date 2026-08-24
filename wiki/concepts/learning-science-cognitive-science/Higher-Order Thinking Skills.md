@@ -38,13 +38,13 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Publication Bias]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Quasi-Experimental Designs]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
 related_instruments: []
 related_persons: []
@@ -109,7 +109,7 @@ updated: 2026-08-24
 > [!concept-lens] 认知冲突、观点阐释与社会协商的思维激发机制
 > 探讨[[Heterogeneity|异质性]]同伴互动中的观点辩护、质疑反驳与协同建构如何促使学生从被动吸收走向深度高阶思维加工。
 
-> [!claim] Güngör et al. (2026)
+> [!claim] [[Argument_Gungor_2026_CP|Güngör et al. (2026)]]
 > **合作互动对高阶思维的突出提升** [[Meta-meta-analysis|二阶元分析]]（Second-Order [[Meta-analysis]]，SOMA）实证检验表明，[[Cooperative Learning|合作学习]]教学干预对学生高阶思维技能（涵盖[[Critical Thinking|批判性思维]]、[[Creativity|创造性]]思维与复杂问题解决）表现出高度显著的正向促进效应（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11], k = 4$），在所有具体学习产出类型中[[Effect Size|效应量]]位居首位（高于常规[[Academic Achievement|学业成就]] $ES = 0.71$ 与情感态度 $ES = 0.51$）。在拼图法（Jigsaw）与小组调查等具体模式中，组员必须向他人解释复杂概念、应对同伴质疑并整合多元观点，这一社会建构过程直接诱发了认知冲突与深度反思，显著超越了传统讲授式教学对高阶思维发展的局限。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
 
 ---
@@ -129,7 +129,7 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **社会建构赋能** | 异质性同伴互动与结构化协商是激发分析、评价、创造与批判性思维的核心机制（$ES = 0.76$）。 | 课堂教学设计、探究式学习与[[21st Century Skills and Competencies Discourse\|核心素养]]改革 | Güngör et al. (2026); Siagian et al. (2023); Solissa et al. (2023) |
+> | **社会建构赋能** | 异质性同伴互动与结构化协商是激发分析、评价、创造与批判性思维的核心机制（$ES = 0.76$）。 | 课堂教学设计、探究式学习与[[21st Century Skills and Competencies Discourse\|核心素养]]改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Siagian et al. (2023); Solissa et al. (2023) |
 > | **认知支架支撑** | 高阶思维依赖显性认知脚手架与[[Metacognition\|元认知]]监控，防止互动流于表面。 | 教学工具开发、跨学科项目式学习与深度评价 | Resnick (1987); Ghanizadeh et al. (2020); Kim (2025) |
 
 ---
@@ -151,17 +151,29 @@ updated: 2026-08-24
 >
 > | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Siagian et al. (2023) | 合作学习干预 vs 传统讲授 | 数学高阶思维（批判性与创造性思维） | 35 项与 24 项实证研究 | 实验组高阶思维表现显著优于对照组 | $ES = 0.79$ 与 $ES = 0.69$ | 统计学显著 | 基础教育阶段准实验设计，采用标准化与教师自编高阶测验 |
-> | Solissa et al. (2023) | 拼图法（Jigsaw）vs 常规教学 | 21世纪技能（批判思维、创造性与问题解决） | 10 项实证研究 | 拼图法组高阶素养显著提升 | $ES = 0.84$ $[0.66, 1.03]$ | 统计学显著 | 跨学科跨学段综合合作教学干预 |
-> | Özkan & Çetinkaya-Uslusoy (2024) | 拼图法 vs 常规临床带教 | 护理临床批判性思维与高阶决策 | 4 项实证研究 | 实验组批判性思维显著增强 | $ES = 0.70$ $[0.13, 1.26]$ | 统计学显著 | 高等护理专业临床准实验 |
+> | Siagian et al. (2023) | [[Cooperative Learning\|合作学习]]干预 vs 传统讲授 | 数学高阶思维（批判性与[[Creativity\|创造性思维]]） | 35 项与 24 项实证研究 | 实验组高阶思维表现显著优于对照组 | $ES = 0.79$ 与 $ES = 0.69$ | 统计学显著 | 基础教育阶段[[Quasi-Experimental Designs\|准实验设计]]，采用标准化与教师自编高阶测验 |
+> | Solissa et al. (2023) | 拼图法（Jigsaw）vs 常规教学 | [[21st Century Skills and Competencies Discourse\|21世纪技能]]（批判思维、创造性与问题解决） | 10 项实证研究 | 拼图法组高阶素养显著提升 | $ES = 0.84$ $[0.66, 1.03]$ | 统计学显著 | 跨学科跨学段综合合作教学干预 |
+> | Özkan & Çetinkaya-Uslusoy (2024) | 拼图法 vs 常规临床带教 | 护理临床[[Critical Thinking\|批判性思维]]与高阶决策 | 4 项实证研究 | 实验组批判性思维显著增强 | $ES = 0.70$ $[0.13, 1.26]$ | 统计学显著 | 高等护理专业临床准实验 |
 
-> [!ma-table]- [[Meta-analysis|元分析]]总体结果
+> [!ma-table]- [[Meta-analysis|元分析]]总体结果（Higher-Order Thinking Skills）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 证据确定性 |
+> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 证据确定性 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 高阶思维技能（Higher-Order Thinking Skills，HOTS） | 4 项一阶元分析 / 403 项原始实证研究 | Cohen's $d$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]]经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$ | 高，失安全系数 $N = 4954$ 证实无发表偏倚 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Academic Achievement\|学业成就]]（Academic Achievement） | 12 项一阶元分析 | Cohen's $d$ / 随机效应模型 | $ES = 0.71$ $[0.52, 0.90]$ | $I^2 = 93.70\%$ | 稳健中等促进效应 |
+
+> [!ma-table]- 元分析总体结果（[[Academic Achievement]]）
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% CI | 异质性与预测区间 | 证据确定性 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学业成就（Academic Achievement） | 12 项一阶元分析 | Cohen's $d$ / 随机效应模型 | $ES = 0.71$ $[0.52, 0.90]$ | $I^2 = 93.70\%$ | 稳健中等促进效应 |
+
+> [!ma-table]- 元分析总体结果（Affective Behaviors）
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 结果变量 | k / N | 效应指标与模型 | 汇总效应与 95% CI | 异质性与预测区间 | 证据确定性 |
+> |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 情感行为（Affective Behaviors） | 6 项一阶元分析 | Cohen's $d$ / 随机效应模型 | $ES = 0.51$ $[0.17, 0.84]$ | $I^2 = 93.70\%$ | 积极正向促进效应 |
 
 > [!ma-table]- 调节[[Variable|变量]]与亚组分析
