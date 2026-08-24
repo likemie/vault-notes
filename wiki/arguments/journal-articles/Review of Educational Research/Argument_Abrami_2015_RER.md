@@ -38,6 +38,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Pre-test and Post-test]]"
   - "[[Document]]"
+  - "[[Reciprocal Peer Questioning]]"
+  - "[[Classroom Debate]]"
   - "[[Socratic Dialogue]]"
   - "[[Direct Instruction]]"
   - "[[Achievement and Aptitude Tests]]"
@@ -263,7 +265,7 @@ issuing_organization: ""
 > | | 实验组与对照组无差异 | 238 | 0.26 | 0.20 | 0.31 | 71.93% | | |
 
 > [!exegesis]- 教学策略代表性案例
-> - **对话教学典型案例：[[Reciprocal Peer Questioning|King 的互惠对等同伴提问法（RPQ）]]** King（1995）在大学课堂中向学生提供高阶提问句干（如“……与……的核心区别是什么？”、“支持……的最佳论据是什么？”），引导学生在结对与小组互动中相互质询与论辩。此类由教师提供结构化脚手架的对话显著提升了学生的深度推理水平。（p. 285）
+> - **对话教学典型案例：King 的互惠对等同伴提问法（RPQ）** King（1995）在大学课堂中向学生提供高阶提问句干（如“……与……的核心区别是什么？”、“支持……的最佳论据是什么？”），引导学生在结对与小组互动中相互质询与论辩。此类由教师提供结构化脚手架的对话显著提升了学生的深度推理水平。（p. 285）
 > - **真实性教学典型案例：范德堡大学 Jasper Woodbury 抛锚式教学** 认知与技术小组（CTGV, 1990）开发了基于复杂真实航行与探究情境的多媒体故事，学生需自主识别数据、规划航线并解决劣构矛盾。实证表明这种情境锚定能够显著降低抽象思维的认知阻力。（pp. 286–287）
 
 > [!warrant]- 推理桥梁

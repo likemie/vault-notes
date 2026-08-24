@@ -35,6 +35,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Public Engagement with Science]]"
   - "[[Construct]]"
+  - "[[Classroom Debate]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -81,7 +82,7 @@ sources:
 part_of: "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-08-25
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch01
 
@@ -127,7 +128,7 @@ updated: 2026-08-23
 > [!chain-link] 40 年科学课程[[Paradigm|范式]]演进的钟摆效应
 > - **1985 年[[Bodmer Report 1985|博德默尔报告]]的奠基** 确立科学教育对[[Public Engagement with Science|公众科学参与]]的基石作用，强调公众需理解科学的基础知识与社会价值。（p. 30）
 > - **1998 年《[[Beyond 2000 Report|Beyond 2000]]》与《[[Twenty First Century Science|21世纪科学]]》的探索** 1998 年由 Millar & Osborne 发布的《Beyond 2000》报告系统确立了面向所有公民的科学教育（Science for All）理念，推动国际科学素养[[Construct|构念]]从精英储备转向公民赋能；直接启发了[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）的[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）科学测评框架设计，并在英格兰促成了覆盖约 60% 中学的《21世纪科学》（Twenty First Century Science）课程体系，将科学如何运作（How Science Works）置于核心。（p. 31）
-> - **近年课程向事实回忆回调的弊端** 近年英格兰国家课程出现向传统技术性知识记忆与考试回忆回调的倾向，挤压了课堂辩论与证据讨论空间；2025 年英格兰《课程与评估审查最终报告》明确呼吁纠偏，重申必须赋能所有学段学生批判性评估科学主张的能力。
+> - **近年课程向事实回忆回调的弊端** 近年英格兰国家课程出现向传统技术性知识记忆与考试回忆回调的倾向，挤压了[[Classroom Debate|课堂辩论]]与证据讨论空间；2025 年英格兰《课程与评估审查最终报告》明确呼吁纠偏，重申必须赋能所有学段学生批判性评估科学主张的能力。
 
 > [!case] [[Case Study|案例研究]]：PISA 国际测评中的科学素养转向与真实情境应用
 > - **案例背景与理论溯源** 20 世纪末，英国纳菲尔德基金会与惠康信托资助 Millar & Osborne 研制的《Beyond 2000: Science Education for the Future》里程碑报告，明确批判了传统过度偏重孤立概念灌输与公式记忆的精英式科学大纲。该报告提出的面向所有公民的科学教育（Science for All）构念，直接启发了经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）构建国际学生评估项目（Programme for International Student Assessment, PISA）的科学测评框架。（p. 31）
