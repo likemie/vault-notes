@@ -31,7 +31,8 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
-  - "[[Presence]]"
+  - "[[Infusion Approach]]"
+  - "[[Immersion Approach]]"
   - "[[Externalization]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
@@ -54,6 +55,7 @@ related_concepts:
   - "[[Phronesis]]"
 related_theories:
   - "[[Explicit Critical Thinking Instruction]]"
+  - "[[Ennis's Curricular Typology]]"
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Role-playing]]"
@@ -69,6 +71,7 @@ related_methods:
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
 related_persons:
+  - "[[Robert Ennis]]"
   - "[[John Dewey]]"
   - "[[Gert Biesta]]"
   - "[[Socrates]]"
@@ -86,7 +89,7 @@ title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -121,7 +124,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **德尔菲共识框架（APA Delphi Consensus）**<br>[[Critical Thinking]] | 确立批判性思维的六项核心认知技能（解释 Interpretation、分析 Analysis、评价 Evaluation、推论 Inference、说明 Explanation、自我调节 Self-Regulation）及思维倾向[[Construct\|构念]]，为干预效果的界定与标准化测试筛选提供[[Operationalization\|操作化]]判据。（pp. 277–278） |
-> | **显性教学与四类课程模式**<br>[[Explicit Critical Thinking Instruction]] | Ennis（1989）提出的通用（General）、融入（Infusion）、沉浸（[[Presence\|immersion]]）与混合（Mixed）四类课程模式，用于区分思维原则的显性示范程度与学科知识的结合架构。（pp. 280–281） |
+> | **显性教学与四类课程模式**<br>[[Explicit Critical Thinking Instruction]] · [[Ennis's Curricular Typology]] | [[Robert Ennis\|Ennis (1989)]] 提出的通用（General）、[[Infusion Approach\|融入（Infusion）]]、[[Immersion Approach\|沉浸（Immersion）]]与混合（Mixed）四类课程模式，用于区分思维原则的显性示范程度与学科知识的结合架构。（pp. 280–281） |
 > | **实用主义探究与真实学习**<br>[[Authentic Instruction]] | [[John Dewey\|杜威]]（Dewey）关于“言之有物”与真实情境探究的理论，论证真实生活问题、模拟演练与劣构情境在激发主动思考动机与提供认知锚点中的基底作用。（pp. 286–287） |
 > | **苏格拉底对话与社会建构**<br>[[Dialogue in Education]] | 强调师生提问、结构化辩论与同伴协商在暴露认知矛盾、检验论证充分性与[[Externalization\|外化]]思维过程中的核心中介机制。（pp. 285–286） |
 > | **学徒制与认知脚手架理论**<br>[[Mentorship]] | 导师示范专家思维、提供反思反馈并在最近发展区内提供适时支持，发挥认知脚手架与催化功能。（pp. 287–288） |
@@ -330,9 +333,9 @@ issuing_organization: ""
 > [!ma-table]- 表 3A、7A、7B、表 8 与表 9：课程模式与多维成果（特异性思维、学业成就、思维倾向）综合检验
 > | 结果维度 | 分类维度与亚组 | $k$ | $g+$ | 95% CI 下限 | 95% CI 上限 | 组间检验 $Q_b$ (df, $p$) | 理论与实践启示 |
 > |---|---|---|---|---|---|---|---|
-> | **通用批判性思维 Ennis 模式**<br>(Table 3A) | 直接/通用模式（Direct / General） | 44 | 0.26 | 0.14 | 0.37 | $Q_b(3) = 4.10, p = .25$ | 显性混合模式（独立教学+学科融入）表现最佳 |
-> | | 融入模式（Infusion） | 152 | 0.29 | 0.23 | 0.36 | | |
-> | | 沉浸模式（[[Presence\|immersion]]） | 61 | 0.23 | 0.12 | 0.34 | | |
+> | **通用批判性思维 [[Ennis's Curricular Typology\|Ennis 模式]]**<br>(Table 3A) | 直接/通用模式（Direct / General） | 44 | 0.26 | 0.14 | 0.37 | $Q_b(3) = 4.10, p = .25$ | 显性混合模式（独立教学+学科融入）表现最佳 |
+> | | [[Infusion Approach\|融入模式]]（Infusion） | 152 | 0.29 | 0.23 | 0.36 | | |
+> | | [[Immersion Approach\|沉浸模式]]（Immersion） | 61 | 0.23 | 0.12 | 0.34 | | |
 > | | 混合模式（Mixed approach） | 84 | 0.38 | 0.26 | 0.51 | | |
 > | **学科特异性思维技能**<br>(Table 7A & 7B) | 标准化测验（Standardized） | 31 | 0.40 | 0.25 | 0.56 | $Q_b(1) = 6.47, p = .011$ | 嵌入学科情境的批判性思维干预获得更高成效（总体 $g+=0.57$） |
 > | | 非标准化/自编测验（Nonstandardized） | 66 | 0.65 | 0.52 | 0.78 | | |

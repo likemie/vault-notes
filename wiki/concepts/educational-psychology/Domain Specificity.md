@@ -9,10 +9,10 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念并非跨情境通用的，而是深度内嵌于特定学科知识结构与社会情境中；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - educational-psychology
   - epistemic-cognition
@@ -22,15 +22,37 @@ tags:
 related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Areas of Knowledge]]"
+  - "[[Metacognition]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemic Resources]]"
+  - "[[Epistemology]]"
+  - "[[Heterogeneity]]"
+  - "[[Critical Thinking]]"
+  - "[[Presence]]"
+  - "[[Evaluativist]]"
+  - "[[Simplicity of Knowledge]]"
+  - "[[Construct Validity]]"
+  - "[[Hypothesis]]"
+  - "[[Direct Instruction]]"
+  - "[[Task Structure]]"
+  - "[[Document]]"
+  - "[[Questionnaire]]"
+  - "[[Infusion Approach]]"
   - "[[Dependent Variable]]"
   - "[[Effect Size]]"
   - "[[Variable]]"
   - "[[Epistemological Understanding]]"
+  - "[[Epistemic Cognition]]"
+  - "[[Academic Achievement]]"
+  - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
+  - "[[Meta-analysis]]"
+  - "[[Discourse Analysis]]"
+  - "[[Experimental Research]]"
   - "[[Factor Mixture Modeling]]"
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Jean Piaget]]"
@@ -183,7 +205,7 @@ flowchart TD
 > | | 非 STEM 文社科与人文学科 | 62 | 0.29 | 0.17 | 0.40 | | |
 > | | 医学与健康教育领域 | 16 | 0.20 | 0.05 | 0.35 | | |
 > | **Ennis 课程模式**<br>(Course Typology) | **混合模式（Mixed: 显性教学 + 学科融入）** | 84 | **0.38** | 0.29 | 0.48 | $Q_b(3) = 4.10, p = .25$ | **混合模式产生最强促进效果**，证明通用原则与学科情境结合是认知迁移的最佳路径。 |
-> | | 学科融入模式（Infusion） | 165 | 0.29 | 0.22 | 0.36 | | |
+> | | [[Infusion Approach\|学科融入模式]]（Infusion） | 165 | 0.29 | 0.22 | 0.36 | | |
 > | | 独立直接通用模式（General） | 44 | 0.26 | 0.14 | 0.37 | | |
 > | | 学科沉浸模式（[[Presence\|immersion]]） | 48 | 0.23 | 0.09 | 0.36 | | |
 > | **测验类型对比** | 通用批判性思维测验（Generic CT） | 341 | 0.30 | 0.25 | 0.34 | — | 教学对通用与学科特异思维均具促进力，学科特异测验显示更强近迁移效应。 |

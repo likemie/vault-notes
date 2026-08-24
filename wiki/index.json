@@ -1002,6 +1002,27 @@
     ]
   },
   {
+    "title": "Immersion Approach",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Immersion Approach.md",
+    "aliases": [
+      "学科沉浸模式",
+      "沉浸法",
+      "批判性思维沉浸模式",
+      "隐性渗透模式"
+    ]
+  },
+  {
+    "title": "Infusion Approach",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Infusion Approach.md",
+    "aliases": [
+      "学科融入模式",
+      "融入法",
+      "批判性思维融入模式"
+    ]
+  },
+  {
     "title": "International Baccalaureate",
     "type": "concept",
     "path": "wiki/concepts/curriculum/International Baccalaureate.md",
@@ -9646,6 +9667,17 @@
     ]
   },
   {
+    "title": "Ennis's Curricular Typology",
+    "type": "theory",
+    "path": "wiki/theories/curriculum/Ennis's Curricular Typology.md",
+    "aliases": [
+      "恩尼斯课程模式",
+      "恩尼斯批判性思维课程分类",
+      "Ennis's Typology of Critical Thinking Courses",
+      "Ennis's Course Typology"
+    ]
+  },
+  {
     "title": "Explicit Critical Thinking Instruction",
     "type": "theory",
     "path": "wiki/theories/curriculum/Explicit Critical Thinking Instruction.md",
@@ -14887,6 +14919,16 @@
       "Lincoln, Y. S.",
       "Yvonna Lincoln",
       "伊冯娜·林肯"
+    ]
+  },
+  {
+    "title": "Robert Ennis",
+    "type": "person",
+    "path": "wiki/persons/us/Robert Ennis.md",
+    "aliases": [
+      "Robert H. Ennis",
+      "罗伯特·恩尼斯",
+      "恩尼斯"
     ]
   },
   {
