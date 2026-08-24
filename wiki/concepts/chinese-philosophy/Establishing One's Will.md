@@ -10,10 +10,10 @@ aliases:
 summary: "中国学习模型中的核心情感维度，指学习者在青少年阶段思索人生目的并做出明确个人志向承诺的心理过程"
 type: concept
 domain: "chinese-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - region/china
   - theme/cross-cultural-learning

@@ -4327,6 +4327,17 @@
     ]
   },
   {
+    "title": "Cooperative Integrated Reading and Composition",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Cooperative Integrated Reading and Composition.md",
+    "aliases": [
+      "合作整合阅读与写作",
+      "CIRC",
+      "合作综合阅读与写作",
+      "合作阅读与写作一体化"
+    ]
+  },
+  {
     "title": "Cooperative Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
@@ -4405,6 +4416,16 @@
     ]
   },
   {
+    "title": "Group Investigation",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Group Investigation.md",
+    "aliases": [
+      "小组调查法",
+      "小组探究法",
+      "团体调查法"
+    ]
+  },
+  {
     "title": "Homework",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Homework.md",
@@ -4433,6 +4454,18 @@
       "Informal Science Engagement",
       "Informal Science Education",
       "校外科学学习"
+    ]
+  },
+  {
+    "title": "Jigsaw",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Jigsaw.md",
+    "aliases": [
+      "拼图法",
+      "切块拼接法",
+      "拼图教学法",
+      "Jigsaw Classroom",
+      "Jigsaw Method"
     ]
   },
   {
@@ -4516,7 +4549,8 @@
     "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
     "aliases": [
       "问题本位学习",
-      "PBL"
+      "PBL",
+      "基于问题的学习"
     ]
   },
   {
@@ -9886,6 +9920,16 @@
     "path": "wiki/theories/instruction-pedagogy/Dynamic Knowledge and Learning Model.md",
     "aliases": [
       "动态知识与学习模型"
+    ]
+  },
+  {
+    "title": "Social Interdependence Theory",
+    "type": "theory",
+    "path": "wiki/theories/instruction-pedagogy/Social Interdependence Theory.md",
+    "aliases": [
+      "社会互赖理论",
+      "社会相互依赖理论",
+      "Social Interdependence"
     ]
   },
   {

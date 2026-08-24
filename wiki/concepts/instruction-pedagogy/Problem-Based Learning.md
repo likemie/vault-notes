@@ -3,17 +3,18 @@ title: Problem-Based Learning
 aliases:
   - 问题本位学习
   - PBL
+  - 基于问题的学习
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
 tags:
-- problem-based-learning
-- subject/instruction
-- level/higher-ed
+  - problem-based-learning
+  - subject/instruction
+  - level/higher-ed
 related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Constructivist Paradigm]]"
@@ -21,6 +22,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
   - "[[Effect Size]]"
+  - "[[Experiential Learning]]"
+  - "[[Cooperative Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Sample Size Determination]]"
   - "[[Dependent Variable]]"
@@ -35,6 +38,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Visible Learning]]"
   - "[[Problem Finding]]"
+  - "[[Lifelong Learning]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -55,8 +59,8 @@ related_instruments:
   - "[[AMSTAR]]"
 confidence: medium
 status: draft
-created: '2026-05-04'
-updated: '2026-08-24'
+created: 2026-05-04
+updated: 2026-08-24
 ---
 
 # Problem-Based Learning
@@ -135,6 +139,13 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > | 形成最终问题表述 | 综合关键概念、应用于患者问题、自我监控和回应反馈 | 检验知识整合、专业应用与过程调节 |
 >
 > [[Argument_Biggs_1999_HERD|Feletti (1997, as cited in Biggs, 1999, pp. 71–72)]]
+
+> [!feature] PBL 关联的学习与认知理论
+> - **成人教育学与转化学习** 学习应独立、自导、目标导向、内部驱动且适用于实践，并促进转化与解放。
+> - **体验学习与社会学习** 在真实问题中[[Experiential Learning|经验学习]]，通过小组互动与替代观察获取知识。
+> - **信息加工与认知负荷** 学习涉及认知过程与认知负荷管理，问题结构调节加工深度。
+> - **协作与[[Cooperative Learning|合作学习]]** 强调学习者之间互动、激活先备知识、主动参与。
+> - **情境与发现学习** 知识在应用情境中获得，并通过探究发现建构。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 952–953)]]
 
 ---
 
@@ -224,6 +235,9 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 
 ## 实证数据
 
+> [!note] 结果类型划分
+> 将学生结果按理论性知识、临床技能、[[Critical Thinking|批判性思维]]、学生态度与学生满意度分类；技能与知识以外的结果（如倾向、兴趣）归入学生态度，某结果类型不足以独立成组（k < 3）时归入其他。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 954–956, 959)]]
+
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -277,7 +291,7 @@ Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节�
 > [!tension] 低平均效应与条件性效力
 > - **平均效应解读** 九项[[Meta-analysis|元分析]]的二级综合为 d ≈ 0.08，知识获取结果还出现 d = −0.79。按照统一学习结果判断，PBL 的平均优势很小。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]
 > - **条件性解读** PBL 的目标可能是知识应用、专业推理和深层理解，效果又受到学生知识基础、问题结构、教师能力及评估方式影响。平均效应没有区分这些条件，无法单独决定具体课程是否适合采用 PBL。[[Argument_Blass_2020_JESP|Blass (2020, pp. 92–95)]]
-> - **阶段与结果敏感解读** 聚焦高等教育的二阶综合报告总体效应 ES = 0.60，明显高于跨学段混合的 d ≈ 0.08；差异主要由教育阶段限定、按结果类型分列与一阶元分析纳入范围造成。两套综合并存时，单一平均数值不宜直接充当结论。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
+> - **阶段与结果敏感解读** 聚焦高等教育的二阶综合报告总体效应 ES = 0.60，明显高于跨学段混合的 d ≈ 0.08；差异主要由教育阶段限定、按结果类型分列与元分析纳入范围造成。两套综合并存时，单一平均数值不宜直接充当结论。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 960–963)]]
 
 > [!critique-method] Hattie 的 PBL 数据库构成审查
 > - **来源类型与情境错配** Blass 审查 Hattie (2009) 纳入的八项来源，发现部分材料不属于元分析，多数来自大学医学或护理教育，直接面向学校教学的比较很少。[[Argument_Blass_2020_JESP|Blass (2020, pp. 92–93)]]
@@ -298,6 +312,19 @@ Blass 的审查同样需要边界说明。她只抽查了探究式教学和 PBL 
 > [!warning] 先备知识解释仍是待检验[[Hypothesis|假设]]
 > Hattie 提出，高年级学生可能因事实和概念基础较充分而从 PBL 中获得更多收益。然而 [[Argument_Hattie_2015_SOTLP|Gijbels et al. (2005, as cited in Hattie, 2015b, pp. 85–86)]] 的结果显示知识增加时 PBL 效果下降。现有二级综合没有提供正式调节检验，不能把年级或知识水平直接视为确定的因果解释。
 
+> [!debates] PBL 认知基础与实用性的争论
+>
+> > [!axis] PBL 是否过于耗时且实施困难
+> > 批评者认为 PBL 要求高且耗时，常由未充分理解其复杂性的人实施；有限的临床能力提升证据引发对其实用性的质疑，实施挑战包括班级拥挤、[[Problem Finding|问题发现]]的地域恶性循环、并非适合所有学生以及教师能力不足。[[Argument_Erdem_2026_SHE|(Erdem et al., 2026, p. 966)]]
+> >
+> > - **Kilroy (2004)** 认为 PBL 要求高、时间密集，实施者常未掌握其复杂性。
+> > - **Ramadhani et al. (2019)** 指出拥挤课堂、问题发现恶性循环、非普适性与教师能力不足是主要障碍。
+>
+> > [!axis] PBL 课程毕业生的专业能力
+> > 支持方证据表明，PBL 课程毕业生相对传统课程毕业生具备相当或更优的专业能力，且 PBL 同时促进学术、实践与情感类结果。
+> >
+> > - **Neville (2008)** 认为 PBL 毕业生具备相当或更强的专业能力。
+
 ---
 
 ## 应用案例
@@ -313,6 +340,9 @@ Blass 的审查同样需要边界说明。她只抽查了探究式教学和 PBL 
 > 一门面向新手的课程若直接给出高度开放的问题，学生可能因知识不足而加入无关材料、形成错误模型，并从未知条件逆向推理。课程若把每个步骤、资料来源和正确路径都预先规定，学生又无法练习搜索概念工具、比较解释和选择应用方案。
 >
 > 教师需要根据学生当前知识调整支架。初期可以提供必要概念、资料范围和检查点，随后逐步释放[[Problem Finding|问题界定]]、检索和方案选择的责任。教师还要持续追踪小组探索方向，发现知识错误并组织反馈。PBL 的开放性因此是一项随学习进展调整的设计[[Variable|变量]]。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]；[[Argument_Blass_2020_JESP|Blass (2020, p. 95)]]
+
+> [!case] 高等教育中的应用领域
+> PBL 在医学、护理、药学、牙科与工程等专业广泛应用，其促进的效果因专业而异。工程教育中，PBL 支持学生发展复杂工程问题的解决能力；医学教育中，PBL 培养[[Critical Thinking|批判性思维]]、协作与自我管理技能，促进[[Surface and Deep Learning|深层学习]]与知识保持；创业教育中，PBL 增强创新思维与风险承担等创业能力。PBL 还与能力本位教育、可雇佣性与[[Lifelong Learning|终身学习]]政策一致。[[Argument_Erdem_2026_SHE|Erdem et al. (2026, pp. 953–954)]]
 
 ---
 

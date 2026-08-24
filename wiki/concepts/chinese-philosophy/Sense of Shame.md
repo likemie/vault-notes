@@ -7,10 +7,10 @@ aliases:
 summary: "儒学四超越德目之一，与西方的纯负面羞耻不同，儒家视耻为自我纠正的积极内在动力——知耻使人内省、认错、改过、继续修身"
 type: concept
 domain: "chinese-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - region/china
 - theory/confucianism

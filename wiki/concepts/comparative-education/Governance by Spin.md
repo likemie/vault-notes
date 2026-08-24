@@ -6,7 +6,7 @@ aliases:
 summary: "一种试图管理、遏制或使政策争议不可见的治理过程，同时运作于公众感知控制和政策本身的构建两个层面，在教育研究中用于解释国家政策话语为何以及如何将矛盾声明组合进同一份政策文件"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

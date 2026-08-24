@@ -7,7 +7,7 @@ aliases:
 summary: "由 Frank Lyman（1981）提出的一种低门槛、短周期的即时合作学习策略，通过独立思考（Think）、同伴配对研讨（Pair）与全班展示（Share）三阶段结构，保障全体学生的课堂等待时间、认知加工深度与口头参与度。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Totally Pedagogised Society]]"
   - "[[Cooperative Learning]]"
   - "[[Active Learning]]"
+  - "[[Group Investigation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Dialogue in Education]]"
   - "[[Constructivist Paradigm]]"
@@ -59,7 +60,7 @@ updated: 2026-08-24
 
 > [!boundary]- 概念边界
 > - 不等于**全班公开提问（Whole-Class Questioning）**——传统提问仅有极少数举手学生能进行口头输出，而 TPS 强制要求 100% 的学生经历独立思考与同伴结对交流。
-> - 不等于**长期项目合作学习（Project-Based Cooperative Learning）**——长期合作（如 Group Investigation）需要数周的自主选题、调查与报告，而 TPS 是一次用时仅 3–8 分钟的即时课堂微结构。
+> - 不等于**长期项目合作学习（Project-Based Cooperative Learning）**——长期合作（如 [[Group Investigation]]）需要数周的自主选题、调查与报告，而 TPS 是一次用时仅 3–8 分钟的即时课堂微结构。
 
 ---
 

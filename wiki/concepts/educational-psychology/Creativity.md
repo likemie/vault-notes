@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体产生新颖且适切的想法、产品或解决方案的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "educational-psychology"
-related_count: 35
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Construct Validity]]"
   - "[[Heterogeneity]]"
+  - "[[Problem-Based Learning]]"
   - "[[Threshold Hypothesis]]"
   - "[[Academic Achievement]]"
   - "[[Confidence Interval]]"
@@ -45,7 +46,9 @@ related_concepts:
   - "[[Champ]]"
   - "[[Domain Specificity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Jigsaw]]"
   - "[[Construct]]"
+  - "[[Cooperative Integrated Reading and Composition]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
@@ -146,7 +149,7 @@ updated: 2026-08-24
 
 > [!dimension] 创造力相关因素维度谱系
 > - **教育项目与教学干预（Intervention / Education）**
->   包含专门的[[Creative Problem Solving|创造性问题解决]]训练（CPS, Osborne）、普渡创造性思维计划（Rose & Lin, 1984）、基于问题的学习（Yunita et al., 2020）、STEAM 整合教学（Suganda et al., 2021）以及显式指导语（Acar, Runco & Park, 2020），实证二阶[[Effect Size|效应量]]达 $r = 0.20$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
+>   包含专门的[[Creative Problem Solving|创造性问题解决]]训练（CPS, Osborne）、普渡创造性思维计划（Rose & Lin, 1984）、[[Problem-Based Learning|基于问题的学习]]（Yunita et al., 2020）、STEAM 整合教学（Suganda et al., 2021）以及显式指导语（Acar, Runco & Park, 2020），实证二阶[[Effect Size|效应量]]达 $r = 0.20$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
 > - **外认知相关因素（Extracognitive Correlates）**
 >   涵盖人格特质（大五人格、经验开放性; Feist, 1998; Karwowski & Lebuda, 2016）、精神质与分裂型人格（Acar & Runco, 2012; Acar & Sen, 2013）、双相情感障碍（Kaczykowski et al., 2021）、情绪心境（Baas et al., 2008; Davis, 2009; Kaufmann & Vosburg, 2002）、内在动机（de Jesus et al., 2013）、好奇心（Schutte & Malouff, 2020）、正念（Lebuda et al., 2016）与压力调节（Byron et al., 2010），二阶效应量为 $r = 0.14$。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 > - **认知相关因素（Cognitive Correlates）**
@@ -231,7 +234,7 @@ updated: 2026-08-24
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对数学创造性思维（[[Divergent Thinking\|发散思维]]与问题提出）的促进效应 | $k = 24$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.69$ $[0.42, 0.98]$ | — | 基础教育阶段准实验与全实验，采用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]等工具 |
-> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（含创造性思维）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证拼图法在促进创造性构想生成中的有效性 |
+> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（含创造性思维）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]在促进创造性构想生成中的有效性 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -248,7 +251,7 @@ updated: 2026-08-24
 > |---|---|---|---|---|---|---|
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | [[Variable\|变量]]角色分类 | [[Construct\|构念]]角色互补比较：[[Independent Variable\|预测变量]] vs [[Dependent Variable\|结果变量]] | 预测变量 $E = 84$ / 结果变量 $E = 80$ | 预测变量 $r = 0.29$ $[0.18, 0.41]$；结果变量 $r = 0.12$ $[0.05, 0.19]$ | $F(1, 16.3) = 9.43, p = .007$ | 预设分析；组间差异高度显著，创造力作为预测变量关联显著强于作为结果变量 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 结果变量 | 关联因素类型亚组：教育干预/项目 vs 外认知 vs 认知 vs 背景特征 | 干预 $E = 21$ / 外认知 $E = 47$ / 认知 $E = 34$ / 背景 $E = 50$ | 教育干预 $r = 0.20$ $[0.10, 0.29]$；外认知 $r = 0.14$ $[0.06, 0.22]$；认知 $r = 0.12$ $[0.03, 0.20]$；背景 $r = 0.05$ $[-0.07, 0.17]$ | $F(4, 15.6) = 0.95, p = .46$ | 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明显可塑性 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs CIRC 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；开放探究与结构化合作技术对创造性思维等高阶认知的激发最强 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；开放探究与结构化合作技术对创造性思维等高阶认知的激发最强 |
 
 
 ---

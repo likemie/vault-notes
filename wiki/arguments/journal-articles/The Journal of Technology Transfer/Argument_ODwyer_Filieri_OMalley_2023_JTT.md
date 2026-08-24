@@ -7,7 +7,7 @@ title: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_key: "Argument_ODwyer_Filieri_OMalley_2023_JTT"
 argument_display_title: "Establishing successful university–industry collaborations: barriers and enablers deconstructed"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"

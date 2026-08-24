@@ -57,7 +57,7 @@ title: "Argument_Cole_2005_JRIE"
 argument_key: "Argument_Cole_2005_JRIE"
 argument_display_title: "An examination of Hegelian and Spinozian philosophy and their relationships with the International Baccalaureate subject, Theory of Knowledge"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

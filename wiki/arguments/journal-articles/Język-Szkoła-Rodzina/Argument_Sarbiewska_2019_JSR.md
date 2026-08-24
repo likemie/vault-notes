@@ -9,7 +9,7 @@ title: "Argument_Sarbiewska_2019_JSR"
 argument_key: "Argument_Sarbiewska_2019_JSR"
 argument_display_title: "Visible Learning and educational policies in New Zealand and Australia"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_IJLE"
 argument_key: "Argument_Keddie_2020_IJLE"
 argument_display_title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_kind: "journal-article"
-argument_related_count: 7
+argument_related_count: 6
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"

@@ -14,9 +14,9 @@ title: "Argument_Hansen_2015_Paideia"
 argument_key: "Argument_Hansen_2015_Paideia"
 argument_display_title: "Leder Temanummer om synlig læring"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 9
 argument_related_level: 0
-argument_related_stars: ""
+argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
 journal: Paideia
 citation: "Hansen, O., Lekhal, R., Nordahl, T., Norlund, A., Persson, B., & Qvortrup, L. (2015). Leder Temanummer om synlig læring. Paideia, 9, 4–8."

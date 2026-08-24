@@ -8,7 +8,7 @@ aliases:
 summary: "在国际教育政策比较中，被其他国家视为教育政策借用的理想典范或制度模板的社会，通常由国际评估排名（如 PISA）所塑造，其选择受排名、文化亲近性、地缘经济和政治制度的多重影响"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

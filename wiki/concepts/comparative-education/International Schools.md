@@ -6,7 +6,7 @@ aliases:
 summary: "跨越单一国家教育体系、服务跨国流动家庭或本地国际课程需求的学校类型，其历史从侨民国家通道逐步发展出共同课程、跨国资格协调与市场化运营。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

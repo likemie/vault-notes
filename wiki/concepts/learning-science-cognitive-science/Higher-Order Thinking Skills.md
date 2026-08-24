@@ -9,7 +9,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、推论推理与复杂问题解决"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Effect Size]]"
   - "[[Academic Achievement]]"
+  - "[[Jigsaw]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Constructivist Paradigm]]"
   - "[[Confidence Interval]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Sample Size Determination]]"
   - "[[Divergent Thinking]]"
+  - "[[Cooperative Integrated Reading and Composition]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -109,7 +111,7 @@ updated: 2026-08-24
 > 探讨[[Heterogeneity|异质性]]同伴互动中的观点辩护、质疑反驳与协同建构如何促使学生从被动吸收走向深度高阶思维加工。
 
 > [!claim] [[Argument_Gungor_2026_CP|Güngör et al. (2026)]]
-> **合作互动对高阶思维的突出提升** [[Meta-meta-analysis|二阶元分析]]（Second-Order [[Meta-analysis]]，SOMA）实证检验表明，[[Cooperative Learning|合作学习]]教学干预对学生高阶思维技能（涵盖[[Critical Thinking|批判性思维]]、[[Creativity|创造性]]思维与复杂问题解决）表现出高度显著的正向促进效应（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11], k = 4$），在所有具体学习产出类型中[[Effect Size|效应量]]位居首位（高于常规[[Academic Achievement|学业成就]] $ES = 0.71$ 与情感态度 $ES = 0.51$）。在拼图法（Jigsaw）与小组调查等具体模式中，组员必须向他人解释复杂概念、应对同伴质疑并整合多元观点，这一社会建构过程直接诱发了认知冲突与深度反思，显著超越了传统讲授式教学对高阶思维发展的局限。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
+> **合作互动对高阶思维的突出提升** [[Meta-meta-analysis|二阶元分析]]（Second-Order [[Meta-analysis]]，SOMA）实证检验表明，[[Cooperative Learning|合作学习]]教学干预对学生高阶思维技能（涵盖[[Critical Thinking|批判性思维]]、[[Creativity|创造性]]思维与复杂问题解决）表现出高度显著的正向促进效应（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11], k = 4$），在所有具体学习产出类型中[[Effect Size|效应量]]位居首位（高于常规[[Academic Achievement|学业成就]] $ES = 0.71$ 与情感态度 $ES = 0.51$）。在[[Jigsaw|拼图法]]（Jigsaw）与小组调查等具体模式中，组员必须向他人解释复杂概念、应对同伴质疑并整合多元观点，这一社会建构过程直接诱发了认知冲突与深度反思，显著超越了传统讲授式教学对高阶思维发展的局限。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
 
 ---
 
@@ -167,7 +169,7 @@ updated: 2026-08-24
 >
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]] | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs CIRC 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；组间差异达统计显著，但 CIRC 仅由 1 项一阶元分析支撑，需警惕小证据规模偏差 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]] | 合作学习教学技术：综合合作 vs [[Jigsaw\|拼图法]] vs 小组调查 vs CIRC 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；组间差异达统计显著，但 [[Cooperative Integrated Reading and Composition\|CIRC]] 仅由 1 项一阶元分析支撑，需警惕小证据规模偏差 |
 
 
 ---

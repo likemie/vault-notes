@@ -8,7 +8,7 @@ aliases:
 summary: "中国学习过程中勤奋美德的第一阶段，通过反复接触使学习者对材料表层细节达到识别和流畅，是通往精通的必要第一步"
 type: concept
 domain: "chinese-philosophy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

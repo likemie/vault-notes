@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育政策借鉴中的一种技术统治主义幻想，指通过开发无缝的嵌入几何学，完全打破和消解接受国本土的情境抗性与免疫机制，实现跨国教育体制或评估模式的精准复制"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

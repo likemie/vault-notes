@@ -11,7 +11,7 @@ aliases:
 summary: "儒学学习传统的最高理想人格，超越君子、以仁爱关怀全人类者；孔子指出此目标遥不可及，但宋明理学将其向所有人开放"
 type: concept
 domain: "chinese-philosophy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

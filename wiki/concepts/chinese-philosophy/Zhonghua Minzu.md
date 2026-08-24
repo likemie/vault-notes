@@ -7,7 +7,7 @@ aliases:
 summary: "梁启超 1902 年引入的现代国族概念，经费孝通 1988 年以“多元一体”重新阐释后进入中共主流话语，指以当代物理领土或汉文化为边界、包容 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

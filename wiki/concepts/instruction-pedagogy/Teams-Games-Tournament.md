@@ -8,10 +8,10 @@ aliases:
 summary: "由 David DeVries 与 Keith Edwards（1973）开创、Robert Slavin 发展的经典合作-竞赛混合教学模式。该方法以同质能力竞赛台（Tournament Tables）替代传统纸笔测验，通过异质小组互助备考与能力均等同伴竞赛，实现低焦虑、高动机的学业掌握与团队赋能。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - "instruction/pedagogy"
   - "theme/cooperative-learning"
@@ -126,7 +126,7 @@ updated: 2026-08-24
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **均等机会与自我效能** | 同质分桌确保各层级学生均能为团队贡献最高分，消除学困生疏离感 | 中小学异质班级常态教学 | DeVries & Edwards (1973); Slavin (1978) |
-> | **游戏化动机赋能** | 合作备考与同伴竞赛有效结合，提升良构知识的记忆与保持率 | 基础学科复习与巩固阶段 | Slavin (1995); Güngör et al. (2026) |
+> | **游戏化动机赋能** | 合作备考与同伴竞赛有效结合，提升良构知识的记忆与保持率 | 基础学科复习与巩固阶段 | Slavin (1995); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 
 ---
 

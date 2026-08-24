@@ -8,7 +8,7 @@ aliases:
 summary: "儒学中仅次于圣人的理想人格，通过终身学习与修身达到仁，能以优雅、尊严和美履行角色，同时帮助他人达成道德卓越。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

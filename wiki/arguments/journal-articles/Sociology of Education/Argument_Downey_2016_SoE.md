@@ -10,7 +10,7 @@ title: "Argument_Downey_2016_SoE"
 argument_key: "Argument_Downey_2016_SoE"
 argument_display_title: "Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 10
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"

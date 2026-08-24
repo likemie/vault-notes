@@ -6,7 +6,7 @@ aliases:
 summary: "儒家四书之一，提出格物致知诚意正心修身齐家治国平天下的八条目，为东亚学习传统提供系统性框架"
 type: concept
 domain: "chinese-philosophy"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

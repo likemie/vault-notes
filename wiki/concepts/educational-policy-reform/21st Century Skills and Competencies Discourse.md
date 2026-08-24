@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化与实践转译断裂，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -47,10 +47,12 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Cooperative Learning]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Jigsaw]]"
   - "[[Heterogeneity]]"
   - "[[Confidence Interval]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
+  - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Effect Size]]"
   - "[[Science Capital]]"
   - "[[Operationalization]]"
@@ -174,7 +176,7 @@ updated: 2026-08-24
 > 政策话语中倡导的 4C 技能与高阶素养需要具体教学模式支撑；[[Meta-meta-analysis|二阶元分析]]证实同伴协商与小组探究是发展综合素养的强效载体。
 
 > [!claim] Güngör et al.
-> **合作互动对21世纪高阶技能具有高效益赋能** 二阶[[Meta-analysis|元分析]]表明，[[Cooperative Learning|合作学习]]对涵盖 21 世纪技能的[[Higher-Order Thinking Skills|高阶思维]]产出具有强劲促进效应（$ES = 0.76$ $[0.42, 1.11]$），其中拼图法对 21 世纪复合素养的一阶促进效应达 $ES = 0.84$ $[0.66, 1.03]$。[[Heterogeneity|异质性]]小群体的认知冲突与深度协作，为批判思维、[[Creativity|创造力]]与沟通素养的具身养成提供了微观社会机制。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–9)]]
+> **合作互动对21世纪高阶技能具有高效益赋能** 二阶[[Meta-analysis|元分析]]表明，[[Cooperative Learning|合作学习]]对涵盖 21 世纪技能的[[Higher-Order Thinking Skills|高阶思维]]产出具有强劲促进效应（$ES = 0.76$ $[0.42, 1.11]$），其中[[Jigsaw|拼图法]]对 21 世纪复合素养的一阶促进效应达 $ES = 0.84$ $[0.66, 1.03]$。[[Heterogeneity|异质性]]小群体的认知冲突与深度协作，为批判思维、[[Creativity|创造力]]与沟通素养的具身养成提供了微观社会机制。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–9)]]
 
 ---
 
@@ -225,7 +227,7 @@ updated: 2026-08-24
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对 21 世纪技能（批判思维、[[Creativity\|创造性]]与问题解决）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证拼图法对 21 世纪多元核心素养的稳健赋能 |
+> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对 21 世纪技能（批判思维、[[Creativity\|创造性]]与问题解决）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]对 21 世纪多元核心素养的稳健赋能 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -239,7 +241,7 @@ updated: 2026-08-24
 >
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果[[Variable\|变量]] | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs CIRC 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；组间差异达统计显著，开放探究与结构化合作更能激发 21 世纪高阶素养 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果[[Variable\|变量]] | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；组间差异达统计显著，开放探究与结构化合作更能激发 21 世纪高阶素养 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

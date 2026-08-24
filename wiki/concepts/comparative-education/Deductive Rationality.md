@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2005）提出的概念，指学术管理话语中的压缩政策话语和控制话语，通过绩效衡量重新定义大学和被认为是好的知识"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

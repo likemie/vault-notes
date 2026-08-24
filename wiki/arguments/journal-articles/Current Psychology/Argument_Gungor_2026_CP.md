@@ -34,6 +34,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[Group Investigation]]"
   - "[[Ecological Validity]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
@@ -46,6 +48,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Efficacy]]"
   - "[[Peer-Supported Learning]]"
+  - "[[Jigsaw]]"
   - "[[Teams-Games-Tournament]]"
   - "[[Paradigm]]"
   - "[[Think-Pair-Share]]"
@@ -63,7 +66,8 @@ related_concepts:
   - "[[Champ]]"
   - "[[Research Scope]]"
   - "[[Sample Size Determination]]"
-related_theories: []
+related_theories:
+  - "[[Social Interdependence Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -96,9 +100,9 @@ title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 55
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Current Psychology"
 book_title: ""
@@ -123,7 +127,7 @@ issuing_organization: ""
 > 这种碎片化合成极大增加了[[Document|文献]]的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量证据综合，系统评估合作学习对[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与[[Affective Outcomes|情感行为]]的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable|变量]]的作用机制？（pp. 1–3）
 
 > [!claim] 核心主张
-> 基于 15 项一阶元分析（涵盖 403 项原始实证研究、23 个独立[[Effect Size|效应量]]（Effect Size，ES））的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis，SOMA）表明，合作学习对学生的综合学习产出具有显著且高度稳健的中等促进效应（加权平均效应量 $ES = 0.71$，95% [[Confidence Interval|置信区间]]（Confidence Interval，CI）为 $[0.55, 0.87]$），其中对高阶思维技能的赋能效应最为突出（$ES = 0.76$），高于学业成就（$ES = 0.71$）与情感行为（$ES = 0.51$）。其干预成效受到具体合作学习教学技术（合作整合阅读与写作（Cooperative Integrated Reading and Composition，CIRC）与小组[[Survey Research|调查法]]（Group Investigation，GI）效应最高）、学科领域（语言、社会科与自然科学学科成效显著，体育学科不显著）以及原始研究实验设计类型（真实课堂准实验显著高于人工实验室全实验）的显著调节，同时揭示出当前软科学元分析严重匮乏的结构性文献失衡。（pp. 6–11）
+> 基于 15 项一阶元分析（涵盖 403 项原始实证研究、23 个独立[[Effect Size|效应量]]（Effect Size，ES））的[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis，SOMA）表明，合作学习对学生的综合学习产出具有显著且高度稳健的中等促进效应（加权平均效应量 $ES = 0.71$，95% [[Confidence Interval|置信区间]]（Confidence Interval，CI）为 $[0.55, 0.87]$），其中对高阶思维技能的赋能效应最为突出（$ES = 0.76$），高于学业成就（$ES = 0.71$）与情感行为（$ES = 0.51$）。其干预成效受到具体合作学习教学技术（[[Cooperative Integrated Reading and Composition|合作整合阅读与写作]]（Cooperative Integrated Reading and Composition，CIRC）与小组[[Survey Research|调查法]]（[[Group Investigation]]，GI）效应最高）、学科领域（语言、社会科与自然科学学科成效显著，体育学科不显著）以及原始研究实验设计类型（真实课堂准实验显著高于人工实验室全实验）的显著调节，同时揭示出当前软科学元分析严重匮乏的结构性文献失衡。（pp. 6–11）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2010 年至 2024 年间发表的 15 项探讨面对面合作学习对学生认知与情感学习产出影响的一阶元分析及其包含的 403 项原始实证研究。
@@ -138,11 +142,11 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Constructivist Paradigm\|社会建构主义]]学习理论（Social Constructivist Learning Theory）** | 强调知识是通过学习者在特定社会文化情境中，依托同伴互动、[[Dialogue in Education\|对话]]协商与认知冲突主动建构生成的，为[[Cooperative Learning\|合作学习]]促进高阶认知加工与社会交往能力提供根本[[Epistemology\|认识论]]支撑。（pp. 1–2） |
-> | **社会互赖理论（Social Interdependence Theory）** | 阐明小组合作的动力学机制在于建立积极互赖（Positive Interdependence）与个体责任（Individual Accountability），确立组员利益休戚与共的共同体，激发同伴支持、反馈与自我调节。（pp. 2–3） |
+> | **[[Social Interdependence Theory\|社会互赖理论]]（Social Interdependence Theory）** | 阐明小组合作的动力学机制在于建立积极互赖（Positive Interdependence）与个体责任（Individual Accountability），确立组员利益休戚与共的共同体，激发同伴支持、反馈与自我调节。（pp. 2–3） |
 > | **布鲁姆教育目标分类学三维框架（Bloom's Tripartite Taxonomy）** | 将学习产出系统划分为认知领域（Cognitive Domain）、情感领域（Affective Domain）与动作技能领域（Psychomotor Domain）；本研究在此基础上因应[[Meta-analysis\|元分析]]数据实态，进一步将认知领域细分为低阶[[Academic Achievement\|学业成就]]与复杂[[Higher-Order Thinking Skills\|高阶思维技能]]。（pp. 3–4） |
 
 > [!warrant]- 理论如何支撑论证
-> 社会互赖理论与社会建构主义将小群体教学活动[[Operationalization|操作化]]为五大核心要素（积极互赖、促进性面对面互动、个体责任、人际与小群体技能、小组自我评价），从机制上解释了为何结构化的小组合作能够打破传统被动听讲的认知钝化，激发成员间的深层解释与互助；布鲁姆分类学则为整合[[Heterogeneity|异质性]]一阶元分析中的多元[[Dependent Variable|因变量]]提供了明确的[[Criterion-Referenced Test|标准参照]]，使跨学科、跨学段的[[Effect Size|效应量]]合并具备坚实的[[Construct Validity|构念效度]]。（pp. 2–4）
+> [[Social Interdependence Theory|社会互赖理论]]与社会建构主义将小群体教学活动[[Operationalization|操作化]]为五大核心要素（积极互赖、促进性面对面互动、个体责任、人际与小群体技能、小组自我评价），从机制上解释了为何结构化的小组合作能够打破传统被动听讲的认知钝化，激发成员间的深层解释与互助；布鲁姆分类学则为整合[[Heterogeneity|异质性]]一阶元分析中的多元[[Dependent Variable|因变量]]提供了明确的[[Criterion-Referenced Test|标准参照]]，使跨学科、跨学段的[[Effect Size|效应量]]合并具备坚实的[[Construct Validity|构念效度]]。（pp. 2–4）
 
 ### 核心变量与合作学习技术操作化编码表
 
@@ -153,9 +157,9 @@ issuing_organization: ""
 > | **[[Academic Achievement\|学业成就]]** | 学生在特定学科大纲要求下对事实性知识、概念理解与程序性计算的掌握水平，属于布鲁姆认知领域的识记、领会与常规应用层级。 | 标准化学科期末统考、章节知识测试、平均学分绩点（Grade Point Average，GPA）、阅读理解测试；纳入 Çapar & Tarım (2015, 数学, $ES = 0.59$)、Fuad et al. (2023, 语言阅读, $ES = 2.04$)、Gürdoğan-Bayır & Bozkurt (2018, 社科, $ES = 0.96$)、Ridwan et al. (2022, $ES = 0.87/0.92$) 等 12 个效应量，加权平均 $ES = 0.71$。 |
 > | **情感与行为产出** | 学生在教学干预中表现出的内在心理倾向、情绪体验、态度信念与社会交往行为，涵盖学习动机、学科态度、同伴协作技能及社交[[Self-Efficacy\|自我效能感]]。 | 学习动机策略问卷（Motivated Strategies for Learning Questionnaire，MSLQ）、学科态度量表、同伴互动观察量表；纳入 Kyndt et al. (2013, 情感态度, $ES = 0.15/0.18$)、Liu & Lipowski (2021, 体育动机, $ES = 0.05$)、Tanjung et al. (2022, 物理情感能力, $ES = 1.26$)、Özkan & Çetinkaya-Uslusoy (2024, 护理态度, $ES = 1.18$) 等 6 个效应量，加权平均 $ES = 0.51$。 |
 > | **综合学习产出** | 一阶元分析未对认知与情感分量进行拆分，直接汇总的全维度综合发展总分。 | 综合教学评价档案袋、全维产出合成指数；纳入 Shakerian et al. (2020, 健康科学, $ES = 1.25$) 1 个效应量。 |
-> | **合作整合阅读与写作**<br>（Cooperative Integrated Reading and Composition，CIRC） | 由 Stevens et al. (1987) 开发的综合性语言与读写教学方案，将基础读写技能教学与异质小组[[Peer-Supported Learning\|同伴互助]]紧密结合。 | 教学规程：教师主导阅读策略精讲 $\to$ 异质小组结对朗读与词汇意义协商 $\to$ 故事主线结构图解 $\to$ 同伴互评修改与编辑 $\to$ 故事复述续写；纳入 Fuad et al. (2023, $ES = 2.04$)，综合效应居全场首位。 |
-> | **小组[[Survey Research\|调查法]]**<br>（Group Investigation，GI） | 由 Sharan & Sharan (1992) 开发的高度开放式社会探究教学法，强调学生民主参与、多源探究与高阶合作。 | 六步规程：全班确定大主题 $\to$ 异质小组自主选定子课题与分工 $\to$ 搜集资料开展合作调查 $\to$ 整合分析形成报告 $\to$ 向全班展示成果 $\to$ 师生多元评价；纳入 Tanjung et al. (2022, $ES = 0.96/1.26$) 2 个效应量，加权平均 $ES = 1.08$。 |
-> | **拼图法**<br>（Jigsaw） | 由 Aronson et al. (1978) 开创并经 Slavin (1986) 发展的角色互补型合作技术，通过任务信息不对称强制组员相互依存。 | 四步规程：原属组（Home Group）分派不同学习模块 $\to$ 各组负责相同模块者组成专家组（Expert Group）深入研讨 $\to$ 返回原属组轮流教授组员 $\to$ 个人独立测验；纳入 Özkan & Çetinkaya-Uslusoy (2024)、Solissa et al. (2023)、Stanczak et al. (2022)、Shakerian et al. (2020) 等 6 个效应量，加权平均 $ES = 0.72$。 |
+> | **[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]**<br>（Cooperative Integrated Reading and Composition，CIRC） | 由 Stevens et al. (1987) 开发的综合性语言与读写教学方案，将基础读写技能教学与异质小组[[Peer-Supported Learning\|同伴互助]]紧密结合。 | 教学规程：教师主导阅读策略精讲 $\to$ 异质小组结对朗读与词汇意义协商 $\to$ 故事主线结构图解 $\to$ 同伴互评修改与编辑 $\to$ 故事复述续写；纳入 Fuad et al. (2023, $ES = 2.04$)，综合效应居全场首位。 |
+> | **[[Group Investigation\|小组调查法]]**<br>（Group Investigation，GI） | 由 Sharan & Sharan (1992) 开发的高度开放式社会探究教学法，强调学生民主参与、多源探究与高阶合作。 | 六步规程：全班确定大主题 $\to$ 异质小组自主选定子课题与分工 $\to$ 搜集资料开展合作调查 $\to$ 整合分析形成报告 $\to$ 向全班展示成果 $\to$ 师生多元评价；纳入 Tanjung et al. (2022, $ES = 0.96/1.26$) 2 个效应量，加权平均 $ES = 1.08$。 |
+> | **[[Jigsaw\|拼图法]]**<br>（Jigsaw） | 由 Aronson et al. (1978) 开创并经 Slavin (1986) 发展的角色互补型合作技术，通过任务信息不对称强制组员相互依存。 | 四步规程：原属组（Home Group）分派不同学习模块 $\to$ 各组负责相同模块者组成专家组（Expert Group）深入研讨 $\to$ 返回原属组轮流教授组员 $\to$ 个人独立测验；纳入 Özkan & Çetinkaya-Uslusoy (2024)、Solissa et al. (2023)、Stanczak et al. (2022)、Shakerian et al. (2020) 等 6 个效应量，加权平均 $ES = 0.72$。 |
 > | **学生小组成就区分法**<br>（Student Teams-Achievement Divisions，STAD） | 由 Slavin (1978) 开发的经典结构化合作技术，强调个人进步分与团队奖励机制，以消除组内搭便车与同伴地位差异。 | 规程：教师授课 $\to$ 异质小组研讨与互测 $\to$ 独立小测 $\to$ 基于个人超越历史基线的进步分（Improvement Points）计算团队奖励；在一阶元分析中广泛整合于综合合作学习池中。 |
 > | **[[Teams-Games-Tournament\|团队游戏竞赛法]]**<br>（Teams-Games-Tournament，TGT） | 由 DeVries & Edwards (1973) 提出的合作-竞赛混合[[Paradigm\|范式]]，用同质学术竞赛台替代传统闭卷测验。 | 规程：异质小组共同准备 $\to$ 组员按先前成就水平分派至同质三人竞赛台（Tournament Tables）竞答抢分 $\to$ 赢取积分带回原属小组 $\to$ 组间竞争表彰；整合于综合合作学习类别中。 |
 > | **[[Think-Pair-Share\|思考配对分享]]**<br>（Think-Pair-Share，TPS） | 由 Lyman (1981) 提出的低门槛短周期即时合作策略，旨在最大化课堂全员参与度。 | 规程：教师提问 $\to$ 学生独立思考（Think, 1-2分钟） $\to$ 同桌两人配对交流修正（Pair, 3-5分钟） $\to$ 面向全班分享（Share）；整合于综合合作学习类别中。 |
@@ -194,13 +198,13 @@ issuing_organization: ""
 > |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 > | **Çapar & Tarım (2015)** | 0.59 | 0.38 | 0.80 | 36 | 数学 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 学业成就 | 中等 | 无偏倚 | 1988–2010 |
 > | **Çapar & Tarım (2015)** | 0.52 | -0.20 | 1.24 | 7 | 数学 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 情感态度 | 中等 | 不清楚 | 1988–2010 |
-> | **Fuad et al. (2023)** | 2.04 | 1.35 | 2.74 | 10 | 语言（阅读） | K-12 | 整合阅读（CIRC） | 印度尼西亚 | 准实验设计 | 学业成就 | 中等 | 无偏倚 | 2015–2021 |
+> | **Fuad et al. (2023)** | 2.04 | 1.35 | 2.74 | 10 | 语言（阅读） | K-12 | 整合阅读（[[Cooperative Integrated Reading and Composition\|CIRC]]） | 印度尼西亚 | 准实验设计 | 学业成就 | 中等 | 无偏倚 | 2015–2021 |
 > | **Gürdoğan-Bayır & Bozkurt (2018)** | 0.96 | 0.72 | 1.19 | 32 | 社会科 | K-12 | 综合合作学习 | 土耳其 | 全实验与准实验 | 学业成就 | 中等 | 不清楚 | 2005–2016 |
 > | **Kyndt et al. (2013)** | 0.54 | 0.47 | 0.60 | 51 | 混合学科 | 混合学段 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 检出偏倚 | 1995–2012 |
 > | **Kyndt et al. (2013)** | 0.15 | 0.04 | 0.26 | 19 | 混合学科 | 混合学段 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 情感态度 | 高 | 检出偏倚 | 1995–2012 |
 > | **Kyndt et al. (2013)** | 0.18 | -0.05 | 0.40 | 4 | 混合学科 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 情感态度 | 高 | 检出偏倚 | 1995–2012 |
 > | **Liu & Lipowski (2021)** | 0.05 | -1.30 | 1.41 | 6 | 体育教育 | K-12 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 情感动机 | 中等 | 检出偏倚 | 2000–2020 |
-> | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.58 | 0.47 | 0.70 | 7 | 护理教育 | 高等教育 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 无偏倚 | 2011–2022 |
+> | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.58 | 0.47 | 0.70 | 7 | 护理教育 | 高等教育 | [[Jigsaw\|拼图法]]（Jigsaw） | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 无偏倚 | 2011–2022 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 0.70 | 0.13 | 1.26 | 4 | 护理教育 | 高等教育 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 高阶思维（批判性） | 高 | 无偏倚 | 2011–2022 |
 > | **Özkan & Çetinkaya-Uslusoy (2024)** | 1.18 | 0.53 | 1.84 | 6 | 护理教育 | 高等教育 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 情感态度 | 高 | 无偏倚 | 2011–2022 |
 > | **Ridwan et al. (2022)** | 0.87 | 0.63 | 1.10 | 10 | 数学（中职） | K-12 | 综合合作学习 | 印度尼西亚 | 准实验设计 | 学业成就 | 中等 | 无偏倚 | 2013–2021 |
@@ -211,7 +215,7 @@ issuing_organization: ""
 > | **Siagian et al. (2023)** | 0.69 | 0.42 | 0.98 | 24 | 数学 | K-12 | 综合合作学习 | 印度尼西亚 | 全实验与准实验 | 高阶思维（批判与创造） | 中等 | 无偏倚 | 2012–2022 |
 > | **Solissa et al. (2023)** | 0.84 | 0.66 | 1.03 | 10 | 混合学科 | 混合学段 | 拼图法（Jigsaw） | 非特定多国 | 全实验与准实验 | 高阶思维（[[21st Century Skills and Competencies Discourse\|21世纪技能]]） | 中等 | 无偏倚 | 2018–2023 |
 > | **Stanczak et al. (2022)** | 0.00 | -0.10 | 0.09 | 5 | 混合学科 | K-12（六年级） | 拼图法（Jigsaw） | 瑞士 | 全实验设计（[[Randomised Controlled Trials\|随机对照试验]]（Randomized Controlled Trial，RCT）） | 学业成就 | 高 | 不清楚 | 内部元分析 |
-> | **Tanjung et al. (2022)** | 0.96 | 0.74 | 1.17 | 15 | 物理 | K-12 | 小组调查法 | 印度尼西亚 | 全实验与准实验 | 学业成就 | 中等 | 不清楚 | 2011–2020 |
+> | **Tanjung et al. (2022)** | 0.96 | 0.74 | 1.17 | 15 | 物理 | K-12 | [[Group Investigation\|小组调查法]] | 印度尼西亚 | 全实验与准实验 | 学业成就 | 中等 | 不清楚 | 2011–2020 |
 > | **Tanjung et al. (2022)** | 1.26 | 0.69 | 1.88 | 4 | 物理 | K-12 | 小组调查法 | 印度尼西亚 | 全实验与准实验 | 情感能力 | 中等 | 不清楚 | 2011–2020 |
 > | **Turgut & Gülşen Turgut (2018)** | 0.84 | 0.68 | 0.99 | 59 | 数学 | 混合学段 | 综合合作学习 | 土耳其 | 全实验与准实验 | 学业成就 | 中等 | 不清楚 | 2000–2017 |
 > | **Warfa (2016)** | 0.69 | 0.42 | 0.95 | 25 | 化学 | 高等教育 | 综合合作学习 | 非特定多国 | 全实验与准实验 | 学业成就 | 高 | 检出偏倚 | 2001–2015 |
@@ -316,13 +320,13 @@ issuing_organization: ""
 > 亚组分析显示，教学技术（$p = .02$）与学科领域（$p < .01$）均具高度显著的调节效应；语言与科学学科成效突出，而体育学科效应微弱；二阶元分析精准揭示出当前软科学高水平综合极度匮乏的研究盲区。（pp. 8–11）
 
 > [!chain-link] 证据到判断
-> - **合作学习技术[[Interaction Effect|调节效应]]** CIRC 整合阅读技术（$ES = 2.04, 95\%\text{ CI} = [1.05, 3.03]$）与小组[[Survey Research|调查法]]（$ES = 1.08, 95\%\text{ CI} = [0.50, 1.66]$）效应量最高，显著高于拼图法（$ES = 0.72, 95\%\text{ CI} = [0.40, 1.04]$）与综合合作学习（$ES = 0.61, 95\%\text{ CI} = [0.40, 0.81]$），组间差异显著（$Q_b(3) = 9.36, p = .02$）。（pp. 8–9）
+> - **合作学习技术[[Interaction Effect|调节效应]]** [[Cooperative Integrated Reading and Composition|CIRC]] 整合阅读技术（$ES = 2.04, 95\%\text{ CI} = [1.05, 3.03]$）与小组[[Survey Research|调查法]]（$ES = 1.08, 95\%\text{ CI} = [0.50, 1.66]$）效应量最高，显著高于[[Jigsaw|拼图法]]（$ES = 0.72, 95\%\text{ CI} = [0.40, 1.04]$）与综合合作学习（$ES = 0.61, 95\%\text{ CI} = [0.40, 0.81]$），组间差异显著（$Q_b(3) = 9.36, p = .02$）。（pp. 8–9）
 > - **学科领域调节效应** 语言学科效应最高（$ES = 2.04, 95\%\text{ CI} = [1.13, 2.95]$），社会科（$ES = 0.96$）与自然科学（$ES = 0.92$）次之，数学呈现中等效应（$ES = 0.70$），而体育教育领域效应极低且不显著（$ES = 0.05, 95\%\text{ CI} = [-1.44, 1.54]$），组间差异高度显著（$Q_b(5) = 20.16, p < .01$）。（pp. 8–10）
 > - **软科学[[Deficiencies in Past Literature|文献缺口]]分析** 早期 Kyndt et al. (2013) 认为硬科学（理科）因任务结构严密而更适合合作学习，但本研究发现语言与社会科学呈现极高效益。然而，语言与社会学科在数据集中各仅有 1 项一阶元分析支撑，凸显出软科学领域元分析严重不足的系统性失衡。（pp. 10–11）
 > - **体育学科低效应机制分析** 体育教育中教师常习惯于传统教学法，将课堂重心置于纯粹生理机能激活而弱化了合作学习的社会互动与认知反思要素（Hortigüela-Alcalá et al., 2020），导致合作效能未被激活。（p. 10）
 
 > [!warrant]- 推理桥梁
-> 结构严密的深层阅读（CIRC）与开放探究（小组调查法）要求学生深度处理语义、重构文本与规划方案，因而产生了远超一般课堂互动的强干预效应；而体育学科的零效应则提示：若不改变重生理体能、轻社会互动的传统实践惯性，合作学习的机制优势将难以在动作技能课堂中转化为实际收益。（pp. 8–10）
+> 结构严密的深层阅读（CIRC）与开放探究（[[Group Investigation|小组调查法]]）要求学生深度处理语义、重构文本与规划方案，因而产生了远超一般课堂互动的强干预效应；而体育学科的零效应则提示：若不改变重生理体能、轻社会互动的传统实践惯性，合作学习的机制优势将难以在动作技能课堂中转化为实际收益。（pp. 8–10）
 
 ---
 
@@ -398,7 +402,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **[[Cooperative Learning|合作学习]]对学生的综合学习产出具有稳健的中等促进效应** [[Meta-meta-analysis|二阶元分析]]汇总 15 项一阶[[Meta-analysis|元分析]]（403 项原始实证研究、23 个独立[[Effect Size|效应量]]），得出加权平均效应量为 $ES = 0.71$（$95\%\text{ CI} = [0.55, 0.87]$），失安全系数（$N = 4954$）、Egger 回归与剪补法一致证实该结论高度稳健且无[[Publication Bias|发表偏倚]]。（pp. 6–8）
 > 2. **合作学习对[[Higher-Order Thinking Skills|高阶思维技能]]的赋能效应最为突出** 合作学习对高阶思维技能（HOTS）的促进效应达到 $ES = 0.76$（$95\%\text{ CI} = [0.42, 1.11]$），高于[[Academic Achievement|学业成就]]（$ES = 0.71$）与[[Affective Outcomes|情感行为]]（$ES = 0.51$），实证确立了[[Heterogeneity|异质性]]同伴互动与认知冲突在培养批判性与[[Creativity|创造性]]思维中的核心价值。（pp. 8–9）
-> 3. **教学技术与学科领域对干预效能产生显著调节分化** CIRC 整合阅读（$ES = 2.04$）与小组[[Survey Research|调查法]]（$ES = 1.08$）成效最强；语言（$ES = 2.04$）、社会科（$ES = 0.96$）与自然科学（$ES = 0.92$）学科效益显著，数学呈现中等效益（$ES = 0.70$），而体育教育领域效应微弱且不显著（$ES = 0.05$），同时揭示出当前软科学元分析严重匮乏的结构性失衡。（pp. 8–10）
+> 3. **教学技术与学科领域对干预效能产生显著调节分化** [[Cooperative Integrated Reading and Composition|CIRC]] 整合阅读（$ES = 2.04$）与小组[[Survey Research|调查法]]（$ES = 1.08$）成效最强；语言（$ES = 2.04$）、社会科（$ES = 0.96$）与自然科学（$ES = 0.92$）学科效益显著，数学呈现中等效益（$ES = 0.70$），而体育教育领域效应微弱且不显著（$ES = 0.05$），同时揭示出当前软科学元分析严重匮乏的结构性失衡。（pp. 8–10）
 > 4. **真实课堂准实验展现出显著高于实验室全实验的[[Ecological Validity|生态效度]]** [[Quasi-Experimental Designs|准实验设计]]报告了 $ES = 1.11$ 的高效应量，而严格个体[[Random Assignment|随机化]]的全实验设计效应为零（$ES = 0.00$），表明合作学习高度依赖班级常态社会情境、师生默契与长周期文化积淀。（pp. 8–11）
 
 > [!stat-cards]- 核心统计指标
