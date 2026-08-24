@@ -2729,6 +2729,18 @@
     ]
   },
   {
+    "title": "Problem Finding",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Problem Finding.md",
+    "aliases": [
+      "问题发现",
+      "problem construction",
+      "problem identification",
+      "问题建构",
+      "问题界定"
+    ]
+  },
+  {
     "title": "Procedural Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Procedural Knowledge.md",
@@ -2772,6 +2784,17 @@
     "aliases": [
       "主观知识",
       "subjective knowledge"
+    ]
+  },
+  {
+    "title": "Threshold Hypothesis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Threshold Hypothesis.md",
+    "aliases": [
+      "门槛假说",
+      "智力门槛假说",
+      "创造力门槛假说",
+      "intelligence-creativity threshold hypothesis"
     ]
   },
   {
@@ -4282,6 +4305,16 @@
     ]
   },
   {
+    "title": "Cooperative Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Cooperative Learning.md",
+    "aliases": [
+      "合作学习",
+      "合作性学习",
+      "cooperative learning model"
+    ]
+  },
+  {
     "title": "Creativity Training",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Creativity Training.md",
@@ -4667,6 +4700,18 @@
       "optimal experience",
       "flow state",
       "flow theory"
+    ]
+  },
+  {
+    "title": "Higher-Order Thinking Skills",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Higher-Order Thinking Skills.md",
+    "aliases": [
+      "高阶思维技能",
+      "高阶思维",
+      "HOTS",
+      "higher-order cognitive skills",
+      "higher order thinking"
     ]
   },
   {
@@ -6300,6 +6345,17 @@
     ]
   },
   {
+    "title": "Criterion Problem",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Criterion Problem.md",
+    "aliases": [
+      "效标问题",
+      "the criterion problem",
+      "效标困境",
+      "criterion dilemma"
+    ]
+  },
+  {
     "title": "Criterion-Referenced Test",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Criterion-Referenced Test.md",
@@ -7725,6 +7781,17 @@
     ]
   },
   {
+    "title": "Prediction Interval",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Prediction Interval.md",
+    "aliases": [
+      "预测区间",
+      "95%预测区间",
+      "预测区间估计",
+      "prediction intervals"
+    ]
+  },
+  {
     "title": "Predictive Validity",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Predictive Validity.md",
@@ -8266,6 +8333,17 @@
       "同时性程序",
       "同步数据收集与分析",
       "simultaneous data collection and analysis"
+    ]
+  },
+  {
+    "title": "Small Study Effects",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Small Study Effects.md",
+    "aliases": [
+      "小研究效应",
+      "small-study effects",
+      "小样本研究效应",
+      "small sample bias"
     ]
   },
   {
@@ -9549,6 +9627,18 @@
     "aliases": [
       "扩展的认识论认知框架",
       "认识论认知五组件框架"
+    ]
+  },
+  {
+    "title": "Four P Model of Creativity",
+    "type": "theory",
+    "path": "wiki/theories/educational-psychology/Four P Model of Creativity.md",
+    "aliases": [
+      "创造力4P模型",
+      "4P模型",
+      "Rhodes' 4P Model",
+      "Four Ps of Creativity",
+      "4P创造力理论"
     ]
   },
   {
@@ -12362,6 +12452,28 @@
       "A MeaSurement Tool to Assess systematic Reviews",
       "AMSTAR 2",
       "系统综述质量评估工具"
+    ]
+  },
+  {
+    "title": "Consensual Assessment Technique",
+    "type": "instrument",
+    "path": "wiki/instruments/rubric/Consensual Assessment Technique.md",
+    "aliases": [
+      "CAT",
+      "同感评估技术",
+      "共识评估技术",
+      "consensual assessment technique"
+    ]
+  },
+  {
+    "title": "Torrance Tests of Creative Thinking",
+    "type": "instrument",
+    "path": "wiki/instruments/scale/Torrance Tests of Creative Thinking.md",
+    "aliases": [
+      "TTCT",
+      "托兰斯创造性思维测验",
+      "托兰斯创造力测验",
+      "Torrance Tests of Creative Thinking"
     ]
   },
   {
@@ -17944,6 +18056,11 @@
     "title": "Argument_Johnson_2023_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CE.md"
+  },
+  {
+    "title": "Argument_Gungor_2026_CP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Current Psychology/Argument_Gungor_2026_CP.md"
   },
   {
     "title": "Argument_Gorur_2014_Discourse",

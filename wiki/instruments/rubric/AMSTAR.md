@@ -127,6 +127,7 @@ updated: 2026-08-24
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | AMSTAR 12 项改编版 | 评估 52 项[[Creativity\|创造力]]一阶[[Meta-analysis\|元分析]]的方法学质量，作为[[Meta-meta-analysis\|二阶元分析]]的质量调节[[Variable\|变量]] | 双人独立[[Coding in Qualitative Research\|编码]]，评定者间一致性为 97%（636 个条目评定） | 高质量（至少满足 9 项标准）与非高质量元分析在综合效应量上无显著差异（$F(1, 12.9) = 0.97, p = .34$） |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | R-AMSTAR（修订版） | 评估 14 项[[Cooperative Learning\|合作学习]]一阶元分析的方法学质量（得分 24–36），划分为中等与高质量组 | 双人独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$ | 中等质量组效应量（$ES = 0.83$）高于高质量组（$ES = 0.54$），呈临界显著差异（$Q_b(1) = 3.69, p = .05$） |
 
 ---
 
@@ -138,5 +139,6 @@ updated: 2026-08-24
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | AMSTAR 原始版 | 英文 / 国际 | [[Systematic Review\|系统综述]]与[[Randomised Controlled Trials\|随机对照试验]][[Meta-analysis\|元分析]] | 11 | 建立系统评价方法学质量评价基准 | Shea et al. (2007) |
+> | R-AMSTAR | 英文 / 国际 | 系统评价与元分析方法学质量量化评级 | 11 | 将二分类判定量化为 4 分李克特量表（总分 11–44 分），细化评分标准与等级划分 | Kung et al. (2010) |
 > | AMSTAR 2 | 英文 / 国际 | 包含非随机[[Intervention Research\|干预研究]]的系统评价 | 16 | 细化关键领域缺陷与非关键领域缺陷评级 | Shea et al. (2017) |
 > | AMSTAR 12项[[Meta-meta-analysis\|二阶元分析]]改编版 | 英文 / 国际 | 心理与教育领域一阶元分析 | 12 | 改编适用于评估一阶元分析的建模与偏倚报告，设定 0.75 高质量判定阈值 | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] |
