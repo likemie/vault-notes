@@ -59,7 +59,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Robust Variance Estimation]]"
   - "[[Coding in Qualitative Research]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Meta-regression]]"
 related_instruments:
   - "[[AMSTAR]]"
@@ -171,22 +170,21 @@ issuing_organization: ""
 > [!example]- 图1：[[Literature Search|文献检索]]与筛选流程图（PRISMA [[Flow]] Diagram）
 > ![](https://img.mylikemie.icu/sources/Runco_2026_CRJ/figures/Runco_2026_CRJ_Fig1_PRISMA_Flow_Diagram.jpg)
 
-> [!ref-table]- 表 1：AMSTAR 12 项方法学质量评估准则
->
-> | 准则编号 | 评估准则核心内容 |
+> [!seq-table]- 表 1：AMSTAR 12 项方法学质量评估准则
+> | 评估维度 | 准则核心内容与检验要求 |
 > |---|---|
-> | 1 | 是否提供先验设计，预先注册[[Research Question\|研究问题]]与纳入标准？ |
-> | 2 | 是否进行重复的研究筛选与数据提取，并具备分歧协商程序？ |
-> | 3 | 是否执行全面的文献检索（至少检索 2 个数据库、明确检索式与策略）？ |
-> | 4 | 检索过程中是否纳入灰色文献（未仅凭发表状态排除文献）？ |
-> | 5 | 是否在正文或参考文献中明确提供纳入研究清单？ |
-> | 6 | 是否以汇总表格或[[Forest Plot\|森林图]]形式提供纳入研究的特征？ |
-> | 7 | 是否评估并记录了纳入研究的科学与方法学质量？ |
-> | 8 | 纳入研究的科学质量是否在得出结论或调节分析中被恰当使用？ |
-> | 9 | 用于合并研究结果的方法是否恰当（[[Heterogeneity\|异质性]]检验、多水平或[[Fixed-Effect and Random-Effects Models\|随机效应模型]]）？ |
-> | 10 | 是否报告了效应量的置信区间、可信区间或[[Standard Error\|标准误]]？ |
-> | 11 | 是否通过图形或统计检验（如漏斗图、艾格回归、失安全系数）评估[[Publication Bias\|发表偏倚]]？ |
-> | 12 | 是否明确说明资金资助与潜在[[Conflict of Interest in Research\|利益冲突]]？ |
+> | 先验方案设计 | [[Research Question\|研究问题]]与纳入标准是否在综述开展前预先注册？ |
+> | 双人重复提取 | 是否进行独立重复筛选提取，并具备分歧协商程序？ |
+> | 全面文献检索 | 是否检索至少两个数据库，明确关键词、检索式与整体策略？ |
+> | 纳入灰色文献 | 检索是否涵盖未出版报告，未仅凭发表状态排除文献？ |
+> | 纳入研究清单 | 是否在正文或参考文献中明确提供选定研究清单？ |
+> | 研究特征呈现 | 是否以汇总表格或[[Forest Plot\|森林图]]提供研究[[Variable\|变量]]、干预与结果特征？ |
+> | 科学质量评估 | 是否详细评估并记录纳入研究的方法学科学质量？ |
+> | 质量结果应用 | 原始研究质量得分是否在结论或调节分析中恰当使用？ |
+> | 统计合并模型 | 用于合并结果的方法是否恰当（[[Heterogeneity\|异质性]]检验、多水平随机效应）？ |
+> | 不确定性报告 | 效应量是否完整报告置信区间、可信区间或[[Standard Error\|标准误]]？ |
+> | [[Publication Bias\|发表偏倚]]检验 | 是否通过漏斗图、艾格回归等评估潜在发表偏倚？ |
+> | [[Conflict of Interest in Research\|利益冲突]]声明 | 是否明确列出资金资助来源与无潜在利益冲突声明？ |
 
 > [!formula-step] 二阶[[Sampling Error|抽样误差]]与 CHE 经验方差校正
 > $$\mathbf{V}_{\text{RVE}} = \left( \sum_{j=1}^J \mathbf{X}_j^T \mathbf{W}_j \mathbf{X}_j \right)^{-1} \left( \sum_{j=1}^J \mathbf{X}_j^T \mathbf{W}_j \mathbf{e}_j \mathbf{e}_j^T \mathbf{W}_j \mathbf{X}_j \right) \left( \sum_{j=1}^J \mathbf{X}_j^T \mathbf{W}_j \mathbf{X}_j \right)^{-1}$$
