@@ -224,7 +224,7 @@ updated: 2026-08-17
 > [!case] 早期理事网络把学校、国际法、教育研究与试验考试连接起来
 > - **[[John Goormaghtigh|约翰·戈尔马蒂赫]]（John Goormaghtigh）提供长期治理** 他当时兼任 Ecolint 董事会主席和卡内基国际和平基金会欧洲办事处主任，接受 ISES 主席职务后不久便辞去 Ecolint 主席，集中投入 ISES 及后来更名的国际文凭办公室（International Baccalaureate Office，IBO）。他持续担任理事会主席至 1980 年。
 > - **乔治·潘绍（Georges Panchaud）带来教育专业声望** 这位洛桑大学教育学教授是最早加入项目、同时拥有国际声誉和联系的教育学者，为教师倡议增加了专业与跨国可[[Reliability|信度]]。
-> - **让·西奥蒂（Jean Siotis）把治理连接到考试[[Praxis|实践]]** 他是卡内基基金会欧洲办事处的希腊籍助理主任，既参与理事会，也主持第一届考试委员会；该委员会负责 Ecolint 当代史试验考试。
+> - **让·西奥蒂（Jean Siotis）把治理连接到考试实践** 他是卡内基基金会欧洲办事处的希腊籍助理主任，既参与理事会，也主持第一届考试委员会；该委员会负责 Ecolint 当代史试验考试。
 > - **治理连续性降低新项目的不确定性** 原书尤其强调 John Goormaghtigh 的跨文化理解和个人关系能力。他以约十五年的连续领导陪伴项目从危险试验进入长期组织讨论，其作用超过单纯提供法律专业知识（pp. 19–20）。
 
 > [!case] 二十世纪基金的条件性资助改变了项目可以完成的工作
@@ -619,7 +619,7 @@ updated: 2026-08-17
 ## 历史意义与解释
 
 > [!finding-cards] 历史意义
-> 1. **需求先于制度成功** [[International Schools|国际学校]]扩张和竞争性大学入学，使 1925 年缺乏社会基础的设想在战后成为[[Praxis|实践]]必要（pp. 15–17）。
+> 1. **需求先于制度成功** [[International Schools|国际学校]]扩张和竞争性大学入学，使 1925 年缺乏社会基础的设想在战后成为实践必要（pp. 15–17）。
 > 2. **草根行动需要组织化** 教师能够识别和设计课程问题，但必须由独立法律组织、连续行政与长期领导承担资格责任（pp. 17–20）。
 > 3. **筹资同时是可[[Reliability|信度]]机制** 二十世纪基金和福特基金提供资金，其承诺也依赖可行性研究、牛津和美国大学理事会等组织背书（pp. 20–24）。
 > 4. **国际性来自改革联盟而非最低共同标准** IB 借助各国改革者，在小规模国际[[Champ|场域]]试验本国难以推动的课程方案（pp. 24–26）。
@@ -628,7 +628,7 @@ updated: 2026-08-17
 
 ## 关键引用
 
-> [!citation-card]- 从理念到[[Praxis|实践]]必要
+> [!citation-card]- 从理念到实践必要
 > [[International Baccalaureate|国际文凭]]的创立已经不再只是国际主义理念，而成为一种实践必要。（p. 17）
 >
 > *The creation of an international baccalaureate had ceased to be solely an internationalist idea and became a practical necessity.*

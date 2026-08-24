@@ -71,7 +71,7 @@ citation_aliases:
 
 - **[[Discourse Analysis|话语分析]]** — 话语生产知识并组织特定语境中的意义制造过程。在全球教育领域，话语建构了思想和行动的**可能性结构(structures of opportunity, Parreira do Amaral & Dale, 2015)**，即"[[Discursive Opportunity Structures|话语机会结构]]"（discursive opportunity structures），个体在其中发展事业、推进人生计划、依照自己认为有意义的目标来导航自我(p.253)。
 
-- **主体 vs 主体性** — 主体（subject）指按照制度承认和社会接受的角色、职责和责任行动的个体（教师、研究者、学生、政策制定者等）；**主体性（subjectivity）**则描述他们的"被期望和被欲求的"思维和行动方式。主体化模式（mode of subjectivation）是一种权力技术，它塑造个体的行为并使其服从于特定目的(Foucault, 1988, p.18)。主体性不能被视为固定和清晰的类别，而应被理解为来自不同来源的话语[[Praxis|实践]]的**时间性和偶然性**交汇(pp.253-254)。
+- **主体 vs 主体性** — 主体（subject）指按照制度承认和社会接受的角色、职责和责任行动的个体（教师、研究者、学生、政策制定者等）；**主体性（subjectivity）**则描述他们的"被期望和被欲求的"思维和行动方式。主体化模式（mode of subjectivation）是一种权力技术，它塑造个体的行为并使其服从于特定目的(Foucault, 1988, p.18)。主体性不能被视为固定和清晰的类别，而应被理解为来自不同来源的话语实践的**时间性和偶然性**交汇(pp.253-254)。
 
 ## 研究方法
 

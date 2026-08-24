@@ -81,7 +81,7 @@ citation_aliases:
 >
 > 论文反对将 EIP 简化为"使用研究证据"。多位特刊作者论证 EIP 必须被视为**专业判断、系统层面数据、课堂数据和研究证据的整合**。(p. 129)
 >
-> > “循证[[Praxis|实践]]不是‘按图索骥（照菜谱做菜）’式的教学或监管，也不应该关于从一个不容挑战的权威位置来规定发生的事情。它是关于将专业技能与来自研究的最佳外部证据相结合，以提高实践质量。”
+> > “循证实践不是‘按图索骥（照菜谱做菜）’式的教学或监管，也不应该关于从一个不容挑战的权威位置来规定发生的事情。它是关于将专业技能与来自研究的最佳外部证据相结合，以提高实践质量。”
 > ("Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice.") (Sharples, 2013, p.7, p. 129)
 >
 > ### 2. "谁的证据算数？"是核心争议
@@ -120,7 +120,7 @@ citation_aliases:
 > [!success] 主要发现
 > - **共识** 特刊论文一致认为"证据"构成多种类型和来源的知识和信息——包括专业知识和判断，以及数据和研究。尽管"黄金标准"方法论辩论持续，最常使用的证据来源往往来自专业经验和同事，而非原始研究。(p. 132)
 > - **持续性挑战** 获取高质量证据的渠道、专业参与和探究的时间、所有参与者的专业发展和能力建设（理解、分享、共同开发和应用证据）——以及评估 [[Evidence-Informed Practice|EIP]] 策略和成果的方法。
-> - **[[Knowledge Mobilisation|KMb]] 的互惠性** 研究者和[[Praxis|实践]]者都需要发展 KMb 能力——"具有讽刺意味的是，我们仍然需要更多关于 EIP 在实践中的应用和成果的证据"。
+> - **[[Knowledge Mobilisation|KMb]] 的互惠性** 研究者和实践者都需要发展 KMb 能力——"具有讽刺意味的是，我们仍然需要更多关于 EIP 在实践中的应用和成果的证据"。
 > - **实践者间传播占主导** 研究发现教师主要从其他教师处获取评估实践信息；即使有意识地发展教师的证据使用，实践产生的证据的使用仍然比原始研究的使用更普遍。(p. 130)
 
 ## 关键引用

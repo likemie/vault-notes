@@ -86,14 +86,14 @@ citation_aliases:
 >
 > 核心问题是，大学和产业伙伴如何系统性地创建、开发和维持一个能够持续推动区域经济发展的创新中心。
 >
-> 每个地区的文化、经济和学术条件各不相同，沿海大都市的经验未必适用于内陆小城，生物医药集群的模式未必能复制到先进制造领域。研究确认不存在"一刀切"的成功模板(pp.124–125)。四十余年[[Praxis|实践]]中浮现出一些在不同地区条件下反复出现的通用原则，正是需要提炼的内容。
+> 每个地区的文化、经济和学术条件各不相同，沿海大都市的经验未必适用于内陆小城，生物医药集群的模式未必能复制到先进制造领域。研究确认不存在"一刀切"的成功模板(pp.124–125)。四十余年实践中浮现出一些在不同地区条件下反复出现的通用原则，正是需要提炼的内容。
 
 ---
 
 ## 理论框架
 
 > [!abstract]
-> 基于[[TUFF|大学融资基金会]]（The University Financing Foundation, TUFF）自 1982 年以来在[[University-Industry Collaboration|产学合作]]开发领域的[[Praxis|实践]]经验。
+> 基于[[TUFF|大学融资基金会]]（The University Financing Foundation, TUFF）自 1982 年以来在[[University-Industry Collaboration|产学合作]]开发领域的实践经验。
 >
 > TUFF 起源于佐治亚理工学院（Georgia Tech）。1982 年，时任校长 Joseph Pettit 提出以私营部门的交付模式为大学建设高质量研究设施，用低于市场的租赁成本吸引产业伙伴，同时最大化联邦资金机会。这一愿景催生了 TUFF——一个由佐治亚理工学院校友创立的 501(c)(3) 基金会。其第一笔合作成果是佐治亚理工学院的 J. Frank Smith Centennial Research Building，此后四十三年来持续扩张(p.123)。
 >
@@ -124,7 +124,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> [[Praxis|实践]]者指南（practitioner guide），基于 [[TUFF]] 四十余年的直接开发经验与多案例分析。案例覆盖十一个[[Innovation Hub|创新中心]]：
+> 实践者指南（practitioner guide），基于 [[TUFF]] 四十余年的直接开发经验与多案例分析。案例覆盖十一个[[Innovation Hub|创新中心]]：
 > - [[Tech Square at Georgia Tech|Tech Square]]（佐治亚理工学院）
 > - [[Kendall Square|肯德尔广场]]（[[Kendall Square]]）/ 剑桥创新中心（Cambridge Innovation Center），麻省理工学院（MIT）周边
 > - [[Research Triangle Park]]（RTP，北卡罗来纳州）
@@ -210,7 +210,7 @@ citation_aliases:
 > - **召集者（convener）** 把不同利益相关者拉到一起，创造相互认识的场合
 > - **翻译者（translator）** 帮助学术界理解产业的语言和需求，帮助产业理解学术研究的性质和节奏
 
-13. 资产映射也是文化建设（culture-building）的工具。通过持续与社区对话，创新中心建立自我评估的[[Praxis|实践]]，不断衡量自身是否满足了多元利益相关者的需求，避免大型大学或区域伙伴中因利益分歧而产生的自然摩擦(p.127)。
+13. 资产映射也是文化建设（culture-building）的工具。通过持续与社区对话，创新中心建立自我评估的实践，不断衡量自身是否满足了多元利益相关者的需求，避免大型大学或区域伙伴中因利益分歧而产生的自然摩擦(p.127)。
 
 14. 为有效推进资产映射，产学合作应尽早聘用至少一名在风险投资（venture capital）或早期投资领域经验丰富、人脉广泛的高级职员。该人员作为面向外部的代言人，吸引合作联盟，建立对研究园区能力的清晰认知(p.127)。
 
@@ -424,7 +424,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> - 框架来自[[Praxis|实践]]经验的归纳，未经过系统实证检验（贯穿全章）
+> - 框架来自实践经验的归纳，未经过系统实证检验（贯穿全章）
 > - 利益相关者理论对[[Innovation Park|研究园区]]网络建设有效性的证据"更加定性和轶事性"（more qualitative and anecdotal），研究并不充分(p.126)
 > - 六项优先领域"不是一个详尽的清单"(p.124)
 > - 某些[[Innovation Hub|创新中心]]（如 [[Kendall Square]] / CIC）的数据来自运营方网站，非独立第三方评估(p.128)

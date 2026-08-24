@@ -157,7 +157,7 @@ updated: 2026-07-26
 > > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_24-1_Reynolds_Kamphaus_2003_Coverage.jpg)
 >
 > - 心理与教育评估的历史
-> - 测验开发的[[Praxis|实践]]模型
+> - 测验开发的实践模型
 > - 儿童评估中的法律与伦理问题
 > - 儿童评估中的测量与设计问题
 > - 智力测验（言语与非言语）
@@ -1149,8 +1149,8 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 >
 > *The test data should only be used for the purpose for which the test was constructed; too often test data become used for purposes other than these, and this is ethically highly questionable.*
 
-> [!citation-card]- [[Computerized Adaptive Testing|CAT]] 的效率
-> 计算机自适应测验可以将测验项目数减少至传统测验的约 50%。（第 24 章，24.9 节；Aiken, 2003, p. 51）
+> [!citation-card]- CAT 的效率
+> [[Computerized Adaptive Testing|计算机自适应测验]]可以将测验项目数减少至传统测验的约 50%。（第 24 章，24.9 节；Aiken, 2003, p. 51）
 >
 > *Computer adaptive testing can reduce the number of test items present to around 50 per cent of those used in conventional tests.*
 

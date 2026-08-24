@@ -80,7 +80,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 三位作者来自[[University-Industry Collaboration|产学合作]]管理一线——Hoffman 在波音任职 36 年，曾任知识产权管理副总裁；Radasch 有 40 年航空航天产业技术合作经验；Thorsell 在 [[University Industry Demonstration Partnership|UIDP]] 从事跨部门创新合作——其框架是从[[Praxis|实践]]经验中归纳而非从理论中演绎的。
+> 三位作者来自[[University-Industry Collaboration|产学合作]]管理一线——Hoffman 在波音任职 36 年，曾任知识产权管理副总裁；Radasch 有 40 年航空航天产业技术合作经验；Thorsell 在 [[University Industry Demonstration Partnership|UIDP]] 从事跨部门创新合作——其框架是从实践经验中归纳而非从理论中演绎的。
 >
 > - **[[University-Industry Collaboration]]** — 本章在这个总概念下区分了两种组织形态：联盟（alliance）是双边综合伙伴关系，涵盖赞助研究、人才培养、设施共享等多重互动；联合体（consortium）则是多所大学与多家企业共同投入资源支持共同利益(pp.103–104)
 > - **McKinsey 7S 框架(Peters & Waterman, 1984)**— 从战略、结构、系统、共享价值观、技能、风格、人员七个维度理解组织有效性。[[Advanced Manufacturing Research Centre|AMRC]] 案例的分析暗中运用了这套框架，尤其是"共享价值观"（成员对[[Precompetitive Research|前竞争研究]]的共识）和"人员"（领导选择和关系经理）(p.108)
@@ -91,7 +91,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> [[Praxis|实践]]导向章节（practitioner chapter），不是实证研究。方法为：
+> 实践导向章节（practitioner chapter），不是实证研究。方法为：
 >
 > - **概念类型学** 从组织化程度和资源投入出发，将产学联盟与联合体排列为四种模式——[[Industry Advisory Board|行业咨询委员会]]、[[Industry Affiliate Program|产业联盟计划]]、[[University-Based Research Center|大学研究型中心]]、[[Innovation Hub|创新中心]]
 > - **单一深度[[Case Study|案例研究]]** [[Advanced Manufacturing Research Centre|AMRC]]（谢菲尔德大学先进制造研究中心）从 1999 年构思到 2024 年的完整发展历程，覆盖建立、增长、制度设计、衍生发展的全周期
@@ -102,7 +102,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 论证可以拆解为"一层区分 → 四个模式 → 一个案例 → 九条教训"的逻辑链。先界定联盟和联合体是什么以及它们需要什么基本条件；再按组织化程度从低到高排列四种可选模式；然后用 [[Advanced Manufacturing Research Centre|AMRC]] 的二十年发展检验这些模式在[[Praxis|实践]]中的可行性；最后从 AMRC 的全球复制经验中归纳出可迁移的操作原则。
+> 论证可以拆解为"一层区分 → 四个模式 → 一个案例 → 九条教训"的逻辑链。先界定联盟和联合体是什么以及它们需要什么基本条件；再按组织化程度从低到高排列四种可选模式；然后用 [[Advanced Manufacturing Research Centre|AMRC]] 的二十年发展检验这些模式在实践中的可行性；最后从 AMRC 的全球复制经验中归纳出可迁移的操作原则。
 >
 > ### 第一层：联盟与联合体的区分——规模化带来的管理逻辑变化
 >
@@ -259,7 +259,7 @@ citation_aliases:
 >
 > **原则七：确保多年承诺和政府共同投资。** 启动联合体极其复杂，初期进展缓慢。发起成员应承诺三到五年的最低参与期。政府的共同投资——与产业承诺相结合——可以为企业管理层批准加入提供足够强的商业案例(pp.118–119)。
 >
-> **原则八：选对领导。** 领导者需要创造力、团队建设能力和简洁有力的价值主张传达能力——并且能在学术、产业和政府三个领域的高层次同时有效运作。这是一份全职工作。随时间推移应有全职技术主任和全职商业主任双角色(p.119)。
+> **原则八：选对领导。** 领导者需要[[Creativity|创造力]]、团队建设能力和简洁有力的价值主张传达能力——并且能在学术、产业和政府三个领域的高层次同时有效运作。这是一份全职工作。随时间推移应有全职技术主任和全职商业主任双角色(p.119)。
 >
 > **原则九：基础设施投资对齐政府目标。** AMRC 将建筑选址在原露天煤矿上，是因为英国政府当时的政策重点是展示对英格兰北部产业更新的承诺——新建筑本身就传递了政治信息。而新加坡 SERC Aerospace Program 利用已有的 A*STAR 实验室设施——因为新加坡政府不需要用建筑来证明什么，需要的是研究产出。两种方式都是对的，关键是对齐政府当前的目标。
 >
@@ -309,7 +309,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> - 四种模式的分类属于[[Praxis|实践]]类型学（practitioner typology），基于三位作者的经验归纳而非系统的理论推导或大规模实证检验(pp.103–121)
+> - 四种模式的分类属于实践类型学（practitioner typology），基于三位作者的经验归纳而非系统的理论推导或大规模实证检验(pp.103–121)
 > - 深度案例仅包括 [[Advanced Manufacturing Research Centre|AMRC]] 一个成功案例，其他联合体（TPRC、SERC Aerospace Program）仅简要提及作为补充——缺少失败案例的对照，可能仅捕捉了成功的[[Necessary and Sufficient Conditions|必要条件]]而非充要条件(pp.113–119)
 > - 作者专业背景主要在航空航天和先进制造领域，对生物医药、信息技术和教育等领域的产学联合体适用性未经验证(pp.119–120)
 > - 九条经验教训来自 AMRC 全球复制过程中的实践总结，其可迁移性取决于目标联合体的制度环境与 AMRC 的相似程度(pp.116–119)

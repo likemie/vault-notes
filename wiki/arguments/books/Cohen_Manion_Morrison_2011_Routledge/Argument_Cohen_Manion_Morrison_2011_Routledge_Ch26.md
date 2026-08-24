@@ -104,7 +104,7 @@ Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作
 
 > [!question] 核心问题
 >
-> - **什么是角色扮演？** 一种自发的、戏剧性的、创造性的教学与研究策略，参与者公开且有意识地承担他人角色，经由简报、表演、脱离角色三阶段运作
+> - **什么是角色扮演？** 一种自发的、戏剧性的、[[Creativity|创造性]]的教学与研究策略，参与者公开且有意识地承担他人角色，经由简报、表演、脱离角色三阶段运作
 > - **为何用于研究？** 虚构揭示真实，独特地联结情感与认知，让参与者在无惩罚区（no-penalty zone）内探索行为与态度，制造而非[[Received Knowledge|接收知识]]
 > - **需要注意什么？** 欺骗、隐性许可、角色面具等伦理风险，以[[Stanford Prison Experiment|斯坦福监狱实验]]（Stanford Prison Experiment）为最极端教训
 > - **如何成功运作？** 戏剧张力、[[Self-spectator|自观]]、保护入戏与保护入情感，加上八项设计原则与四项组织要点
@@ -166,7 +166,7 @@ Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作
 >
 >   角色扮演被广泛用于教育与培训，并日益进入公司培训领域，用于探索变革管理、谈判技能、沟通技能、领导力技能、团队建设、演讲技能、管理培训、公开演讲、自信训练、绩效管理、客户服务、面试技能、压力管理、评估培训和媒体培训等议题。角色扮演、游戏与[[Computer Simulation|计算机模拟]]是这个更广领域的三个相关活动分支，后两类不在讨论范围，聚焦于角色扮演作为教育研究技术的使用（p. 2）。
 
-在线角色扮演是一个正在蓬勃发展的领域，许多人通过玩电子游戏或参与 SimCity、Second Life、Whyville 等网站的[[Virtual World|虚拟世界]]而投身其中。这些体验通常是娱乐性的，但也可能带来有价值的教育成果，如习得集体智慧、问题解决、战略思维、情境解读与想象性游戏的素养[[Praxis|实践]]（Beach & Doerr-Stevens, 2009; 亦见 Gee, 2004; Shaffer, 2006），但线上角色扮演不在讨论范围（p. 2）。
+在线角色扮演是一个正在蓬勃发展的领域，许多人通过玩电子游戏或参与 SimCity、Second Life、Whyville 等网站的[[Virtual World|虚拟世界]]而投身其中。这些体验通常是娱乐性的，但也可能带来有价值的教育成果，如习得集体智慧、问题解决、战略思维、情境解读与想象性游戏的素养实践（Beach & Doerr-Stevens, 2009; 亦见 Gee, 2004; Shaffer, 2006），但线上角色扮演不在讨论范围（p. 2）。
 
 角色扮演迄今的运用成败参半，很大程度上源于对其是什么以及如何定义的困惑。英国医学期刊（*British Medical Journal*）的一份报告（Box 26.1）揭示了这种困惑。
 
@@ -414,7 +414,7 @@ Wagner（1998, p. 58）提出，在戏剧中工作需要与在真实世界中生
 > - **放松与镇定并存** 可以同时放松和镇定参与者，使其在研究者无明显指导下更开放、更自由地回应
 > - **参与者可控** 可以由参与者控制，他们可以随时停止、暂停或扩展活动
 > - **脱离角色促进反思** 脱离角色（de-roling）活动能增加反思，并提供用其他方法难以、或在如此经济的时间框架内难以获得的丰富数据
-> - **[[Reflexivity|反思性]]实践** 为研究增添额外维度，因为参与者投入反思性[[Praxis|实践]]，同时学习和做事，即研究作为经验与推理的结合
+> - **[[Reflexivity|反思性]]实践** 为研究增添额外维度，因为参与者投入反思性实践，同时学习和做事，即研究作为经验与推理的结合
 > - **展示常被忽略的属性** 像其他形式的经验数据一样，角色扮演可能不提供无偏、客观的文档，但它能展示在其他数据收集形式中常被忽略的特征属性（pp. 13–14）
 
 > [!warning] 注意：情境绑定与局部化
@@ -585,12 +585,12 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 ## 关键引用
 
 > [!citation-card]- [[Role-playing|角色扮演]]的定义
-> 角色扮演是一种自发的、戏剧性的、创造性的教学策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498），涉及多层次沟通，能够在影响态度和情感的同时促进高阶认知技能。（26.2，p. 3）
+> 角色扮演是一种自发的、戏剧性的、[[Creativity|创造性]]的教学策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498），涉及多层次沟通，能够在影响态度和情感的同时促进高阶认知技能。（26.2，p. 3）
 >
 > *Role-play is a "spontaneous, dramatic, creative teaching strategy in which individuals overtly and consciously assume the roles of others" (Sellers, 2002, p. 498).*
 
 > [!citation-card]- 角色扮演的虚构本质与拥抱知识
-> 所有角色扮演活动的唯一标准是要求参与者进入一个以学习为目标构思的仿佛虚构。角色扮演者不只是接收或获取知识，他们在制造知识、[[Praxis|实践]]知识、体现知识：他们知道他们所知道的。（Bolton & Heathcote, 1999, pp. 57–58）（26.3，p. 5）
+> 所有角色扮演活动的唯一标准是要求参与者进入一个以学习为目标构思的仿佛虚构。角色扮演者不只是接收或获取知识，他们在制造知识、实践知识、体现知识：他们知道他们所知道的。（Bolton & Heathcote, 1999, pp. 57–58）（26.3，p. 5）
 >
 > *The single criterion underpinning all role-play activity is that it demands participants to step into an "as if" fiction: a fiction that has been "conceived of by a tutor, teacher, or researcher in terms of learning". Role-players are not just receiving or acquiring knowledge; they are making it, practising it and embodying it: they know what they know.*
 

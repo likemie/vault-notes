@@ -86,7 +86,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 比较教育学的经典关切，即教育思想、制度与[[Praxis|实践]]的国际转移，为何在学科发展历程中逐渐退居幕后？如果重新审视转移主题，需要什么样的概念工具和问题意识，来捕捉教育现象在跨国移动中发生的形态变化？
+> 比较教育学的经典关切，即教育思想、制度与实践的国际转移，为何在学科发展历程中逐渐退居幕后？如果重新审视转移主题，需要什么样的概念工具和问题意识，来捕捉教育现象在跨国移动中发生的形态变化？
 
 > [!claim] 核心主张
 > 教育转移不是静态的政策移植，而是在空间移动中伴随重新解读的[[Transfer Translation Transformation|转译]]过程，以及在本土社会经济与政治权力压缩下发生形态改变的转化过程。比较教育学必须超越短期政策建议的功利性，通过[[Shape-Shifting|形变]]问题意识与转移、转译、转化这三阶段[[Analytic Framework|分析框架]]，审视教育移植背后的[[Geometries of Insertion|嵌入几何学]]及其伦理和政治后果。
@@ -220,7 +220,7 @@ citation_aliases:
 
 > [!phase] 3T 理论模型：教育移动的时空阶段
 > - **转移**
-> 教育思想、体制或[[Praxis|实践]]在国际空间中的物理跨国位移，即太空门时刻（space-gate moment）（p.323）。此阶段聚焦于跨境瞬间、传输通道的物理与政治属性、[[Cross-National Attraction|跨国吸引力]]（Cross-National Attraction）的政治共谋以及输入与输出方的推拉动力学。
+> 教育思想、体制或实践在国际空间中的物理跨国位移，即太空门时刻（space-gate moment）（p.323）。此阶段聚焦于跨境瞬间、传输通道的物理与政治属性、[[Cross-National Attraction|跨国吸引力]]（Cross-National Attraction）的政治共谋以及输入与输出方的推拉动力学。
 > - **转译**
 > 外来体制或观念在空间位移时自动发生的本土重新解读与形式重构，即变色龙过程（chameleon process）。接受国的行动者基于自身的历史[[Epistemology|认识论]]对输入物进行选择性改写，使其改变颜色以在局部生存空间内建立合法性。
 > - **转化**
@@ -271,7 +271,7 @@ citation_aliases:
 > *We lack a coherent conceptual apparatus which permits us to extend the existing (excellent) work on ‘transfer’.*
 
 > [!citation-card]- [[Geometries of Insertion|嵌入几何学]]的伦理诘问
-> 如果能重构情境并将其驯服于转移、转译、转化和[[Shape-Shifting|形变]]理论之中，将获得一套用于分析将一处所造的思想与[[Praxis|实践]]嵌入另一处的“嵌入几何学”。然而，它的政治、伦理与后果究竟是什么？（p.324）
+> 如果能重构情境并将其驯服于转移、转译、转化和[[Shape-Shifting|形变]]理论之中，将获得一套用于分析将一处所造的思想与实践嵌入另一处的“嵌入几何学”。然而，它的政治、伦理与后果究竟是什么？（p.324）
 >
 > *With ‘context’ rethought and subdued within a theory of transfer, translation, transformation and shape-shifting, we would have a ‘geometry of insertion’ for ideas and practices which – although they were created in one place – could be inserted in another. What are the politics, ethics, and consequences of that?*
 

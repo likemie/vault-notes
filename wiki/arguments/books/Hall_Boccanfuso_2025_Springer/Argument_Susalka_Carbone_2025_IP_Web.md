@@ -61,7 +61,7 @@ citation_aliases:
 > [!question] 核心关切
 > 知识产权（IP）是[[University-Industry Collaboration|产学合作]]中潜在最有价值的产出，同时也往往是合作协议谈判中最复杂、最激烈的障碍(p.272)。深层原因在于两个部门的组织使命差异：大学是非营利机构，以知识传播和公开发表为核心使命；企业是营利实体，以创造市场竞争优势和股东回报为目标。两种使命作用于同一套 IP 安排时，各自衍生出不可妥协的核心利益，形成了系统性的期望错位。
 >
-> 由此产生一个[[Praxis|实践]]层面的根本问题：如何在保护大学发表自由和避免 IP 负担的同时，满足企业对[[Freedom to Operate|自由实施权]]和商业排他性的需求？化解这一矛盾的关键不在于某一方让步，而在于合同条款的精细化设计：通过明确界定前景 IP 与背景 IP、合理设计权利转让的层级结构，使 IP 从合作的绊脚石变为助推器。
+> 由此产生一个实践层面的根本问题：如何在保护大学发表自由和避免 IP 负担的同时，满足企业对[[Freedom to Operate|自由实施权]]和商业排他性的需求？化解这一矛盾的关键不在于某一方让步，而在于合同条款的精细化设计：通过明确界定前景 IP 与背景 IP、合理设计权利转让的层级结构，使 IP 从合作的绊脚石变为助推器。
 
 ---
 
@@ -81,7 +81,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> [[Praxis|实践]]指南类章节，基于作者在美国[[Technology Transfer|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识文件系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 [[MN-IP Create]] 项目实例。非实证研究，无系统数据收集。
+> 实践指南类章节，基于作者在美国[[Technology Transfer|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识文件系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 [[MN-IP Create]] 项目实例。非实证研究，无系统数据收集。
 
 ---
 
@@ -89,7 +89,7 @@ citation_aliases:
 
 ### 第一步：IP 的四种法律形式与产学合作的交集
 
-知识产权是保护人类创造力无形产出的法律建构(Wilson, 2008)。四种主要形式在[[University-Industry Collaboration|产学合作]]中的相关性截然不同(pp.271–272)。
+知识产权是保护人类[[Creativity|创造力]]无形产出的法律建构(Wilson, 2008)。四种主要形式在[[University-Industry Collaboration|产学合作]]中的相关性截然不同(pp.271–272)。
 
 **专利（Patent）**是美国产学合作中最核心的 IP 形式。美国专利分为三类：发明专利保护有用、新颖且非显而易见的发明，是最常见的类型；植物专利覆盖新培育的无性繁殖植物品种；设计专利保护物品的外观装饰。专利（和待审专利申请）通常被公开，使发明内容为社会所知，同时赋予权利人 20 年的排他权。对于大多数发明专利，保护期自最早的非临时优先权日起算。保护期届满后，专利主题进入公有领域，任何人可无偿使用。
 
@@ -171,7 +171,7 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 
 ### 第四步：结构性冲突的具体表现
 
-双方核心利益的对立直接体现在产学合作的日常[[Praxis|实践]]中，制造了多种具体的冲突和困境。
+双方核心利益的对立直接体现在产学合作的日常实践中，制造了多种具体的冲突和困境。
 
 **发表与 IP 保护的矛盾**。学术规范强调材料共享和知识公开，而产业界期望 IP 保护和排他性。一家企业可能希望将某项技术作为商业秘密保护，或对未专利或不可专利的材料获取排他性保证。但大学的研究人员不可能被禁止与学术界分享其专长，大学固有的"泄漏性"使得对大学创新追求商业秘密保护实际上不可能(p.277)。
 

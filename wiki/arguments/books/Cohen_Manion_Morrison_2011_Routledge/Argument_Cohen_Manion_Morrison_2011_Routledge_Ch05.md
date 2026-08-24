@@ -129,7 +129,7 @@ updated: 2026-08-20
 #### 5.1.1 问题起点：伦理从何而来？
 
 > [!nav] 导览
-> 教育与社会研究中的核心伦理议题逐一审视如下。伦理意识在近年的增长反映在相关[[Document|文献]]的增加以及各机构与专业团体制定的研究[[Praxis|实践]]规范守则的[[Emergence|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
+> 教育与社会研究中的核心伦理议题逐一审视如下。伦理意识在近年的增长反映在相关[[Document|文献]]的增加以及各机构与专业团体制定的研究实践规范守则的[[Emergence|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
 
 > [!chapter-question] 伦理问题的六个来源
 > 伦理问题可能出现在研究的每个阶段（Oliver, 2003, p. 17）（pp.75–76）：
@@ -929,7 +929,7 @@ Cooper & Schindler (2001, p. 117) 补充：获得签名声明表明不披露研�
 > - 理想情况下，受试者应被经历所丰富，并带着他们学到了一些东西的感觉离开
 
 > [!feature] 方式三：开发新程序和新技术
-> 挖掘自身创造力寻求替代方法：
+> 挖掘自身[[Creativity|创造力]]寻求替代方法：
 > - [[Role-playing|角色扮演]]（role-playing）或"假设"实验（'as-if' experiments）——"角色扮演 vs 欺骗"辩论（第26章详述）
 > - 这些新方法涉及对参与者角色的一组根本不同的假设——它们要求我们**使用参与者的动机，而非绕过它们**
 > - 甚至可能需要**提高潜在参与者的成熟度（sophistication）**，而非维持他们的天真（p.113）
@@ -1234,7 +1234,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > The right to privacy 'extends to all information relating to a person's physical and mental condition, personal circumstances and social relationships which is not already in the public domain. It gives to the individual or collectivity the freedom to decide for themselves when and where, in what circumstances and to what extent their personal attitudes, opinions, habits, eccentricities, doubts and fears are to be communicated to or withheld from others' (Social Sciences & Humanities Research Council of Canada, 1981).
 
 > [!citation-card]- [[Situated Ethics|情境伦理]]的核心主张（Simons & Usher）
-> "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究[[Praxis|实践]]中被中介，因此相对于这些实践具有不同的意义。"（p.128）
+> "虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，……恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。"（p.128）
 >
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons & Usher, 2000, p. 1).
 

@@ -234,7 +234,7 @@ citation_aliases:
 >
 > **Haraway：[[Haraway's SF|SF (Haraway)]] 叙事与 [[Sympoiesis]]**
 >
-> 如果说 Escobar 偏向"设计"，Haraway 则偏向"讲故事"。她的核心方法论是 **SF**——这个缩写同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今）。核心是：通过讲故事的[[Praxis|实践]]，创造涉及人类与非人类多重行动者的关系模式(p.62)。
+> 如果说 Escobar 偏向"设计"，Haraway 则偏向"讲故事"。她的核心方法论是 **SF**——这个缩写同时代表 string figures（线绳图案）、speculative fabulation（推测性编造）、science fiction（科幻）、so far（迄今）。核心是：通过讲故事的实践，创造涉及人类与非人类多重行动者的关系模式(p.62)。
 >
 > > 例：传统的环保教育可能讲的是"人类必须保护自然"——一个典型的以人类为中心的故事。Haraway 式的叙事则可能从一只蜜蜂的角度开始：蜜蜂如何感知花的颜色（蜜蜂能看到紫外线）、蜜蜂的采蜜行为如何塑造了花和农作物的进化、蜜蜂种群的崩溃如何牵连到你的早餐咖啡和苹果派。在这个故事里，没有人是"主角"，人和蜜蜂是共同演化、互相塑造的。
 >
@@ -290,7 +290,7 @@ citation_aliases:
 >
 > ### [[Transhumanism|超人类主义]]的根本困境
 >
-> Huxley (1957) 的超人类主义声称普世（"全人类一起超越"），但其[[Praxis|实践]]逻辑——hyper-individualist、cost-intensive、依赖选择性增强——不可避免地制造排他性。谁是"完整的人"因而可以被优化？这不仅是分配问题，更是分类的政治。超人类主义与 Cowen 的市场驱动模型高度兼容：两者共享 individualism、劳动力分化和效率最大化逻辑(pp.58–59)。
+> Huxley (1957) 的超人类主义声称普世（"全人类一起超越"），但其实践逻辑——hyper-individualist、cost-intensive、依赖选择性增强——不可避免地制造排他性。谁是"完整的人"因而可以被优化？这不仅是分配问题，更是分类的政治。超人类主义与 Cowen 的市场驱动模型高度兼容：两者共享 individualism、劳动力分化和效率最大化逻辑(pp.58–59)。
 >
 > ### [[Transition Design|转型设计]]的[[Ontology|本体论]]主张
 >

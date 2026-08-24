@@ -211,7 +211,7 @@ Simons（1996）认为个案研究需要同时拥抱六组看似矛盾的立场�
 
 > [!frames-ref] Simons（1996）的六个悖论
 > - **拒绝主客二分** 研究者不是凌驾于研究对象之上的主体，所有参与者（包括被研究者）都应被平等对待。研究者与被研究者之间的界限需要打破
-> - **承认创造性相遇的价值** 真正的新理解往往来自研究者与情境之间的偶然碰撞，而非按预设程序操作。要为这种创造性空间留出余地
+> - **承认[[Creativity|创造性]]相遇的价值** 真正的新理解往往来自研究者与情境之间的偶然碰撞，而非按预设程序操作。要为这种创造性空间留出余地
 > - **不同的观看方式就是不同的[[Ways of Knowing|认知方式]]** 换一个角度看同一现象，不是同一个知识的另一种表述，而是产生了新的知识
 > - **接近艺术家的工作方式** 艺术家不依赖标准化流程，而是在反复的感知、表达和修正中逼近真实。个案研究也应如此
 > - **从传统分析中解放心智** 不预设[[Analytic Framework|分析框架]]和理论透镜，让材料本身引导理解的方向，避免过早将复杂现实塞进既有概念格子
@@ -653,7 +653,7 @@ Yin（2009, p. 133）做出了一个重要观点：个案研究报告应考虑�
 
 ### 14.11 结论
 
-Macpherson et al.（2000, pp. 57–58）提出了指导个案研究[[Praxis|实践]]的原则：
+Macpherson et al.（2000, pp. 57–58）提出了指导个案研究实践的原则：
 
 > [!conclusion] Macpherson et al.（2000, pp. 57–58）的个案研究指导原则
 > - **关于目的（purpose）** 建议采取参与者与研究者之间的合作方法以处理情境性（contextuality）
@@ -709,7 +709,7 @@ Yin（2009, pp. 185–189）认为一项典范（exemplary）个案研究必须�
 >
 > *One useful tip from this experienced ethnographer is worth noting: never resume your observations until the notes from the preceding observation are complete. There is nothing to be gained merely by your [[Presence]] as an observer.*
 
-> [!citation-card]- [[Non-participant Observation|非参与观察]]者的经典[[Praxis|实践]]：King（1979）在幼儿课堂中
+> [!citation-card]- [[Non-participant Observation|非参与观察]]者的经典实践：King（1979）在幼儿课堂中
 > King回忆他如何通过认识到幼儿将任何成人视为另一位教师或代课教师来牢固确立他的非参与地位。因此他会站立保持社会距离，故意避免显示即时兴趣和回避眼神接触。（第14章，p.291）
 >
 > *King recalls how he firmly established his non-participant status with young children by recognizing that they regarded any adult as another teacher or surrogate teacher. Hence he would stand up to maintain social distance, and deliberately decline to show immediate interest, and avoided eye contact.*

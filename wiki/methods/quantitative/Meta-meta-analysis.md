@@ -141,8 +141,8 @@ updated: 2026-08-24
 > | 比较维度 | 一阶元分析（Meta-analysis） | 传统元综合（如早版 Hattie） | 现代多水平二阶元分析（[[Argument_Runco_2026_CRJ\|Runco et al., 2026]]） |
 > |---|---|---|---|
 > | **分析单位** | 原始实证研究（Primary Studies） | 已发表一阶元分析的汇总 $d$ | 一阶元分析汇总[[Effect Size\|效应量]]及其多水平依赖集群 |
-> | **质量准入** | 原始研究设计筛选 | 粗放纳入、声称不关心质量 | 严格基于 AMSTAR 12 项准则设定质量门槛（$\ge 0.75$） |
-> | **统计模型** | 单级固定效应 / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | 伪固定效应模型、简单未加权平均 | 相关与层级效应工作模型（[[Correlated and Hierarchical Effects Model\|CHE]]）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE） |
+> | **质量准入** | 原始研究设计筛选 | 粗放纳入、声称不关心质量 | 严格基于系统评价方法学质量评估工具（A MeaSurement Tool to Assess systematic Reviews, AMSTAR）12 项准则设定质量门槛（$\ge 0.75$） |
+> | **统计模型** | 单级固定效应 / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | 伪固定效应模型、简单未加权平均 | 相关与层级效应工作模型（Correlated and Hierarchical Effects Model, [[Correlated and Hierarchical Effects Model\|CHE]]）+ 稳健方差估计（Robust Variance Estimation, [[Robust Variance Estimation\|RVE]]） |
 > | **偏倚控制** | 漏斗图、经典艾格回归 | 无偏倚检验与校正 | 多水平改进艾格回归（[[Multilevel Egger's Test]]）截距校正 |
 > | **核心目的** | 检验具体干预或相关关系的平均效应 | 建立宏观排名联盟表（League Table） | 估计宏观效应基准、分解全领域异质性、检验理论调节模型 |
 
@@ -166,7 +166,7 @@ updated: 2026-08-24
 >
 > - **现代多水平稳健统计推断模型（2013–至今）**
 >
->   Sipe & Curlette（1997）严格筛选 103 项元分析并验证重叠率低于 10%；Schmidt & Oh（2013）提出二阶[[Sampling Error|抽样误差]]估计理论；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]在[[Creativity|创造力]]研究中确立了由 PRISMA 检索、[[AMSTAR]] 方法学评估、效应量正态化转换、[[Correlated and Hierarchical Effects Model|CHE]] 多水平工作模型与 [[Robust Variance Estimation|RVE]] 三明治估计量组成的现代二阶元分析规范[[Paradigm|范式]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–6)]]
+>   Sipe & Curlette（1997）严格筛选 103 项元分析并验证重叠率低于 10%；Schmidt & Oh（2013）提出二阶[[Sampling Error|抽样误差]]估计理论；[[Argument_Runco_2026_CRJ|Runco et al. (2026)]]在[[Creativity|创造力]]研究中确立了由系统评价和荟萃分析优先报告条目声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）检索、AMSTAR 方法学评估、效应量正态化转换、CHE 多水平工作模型与 RVE 三明治估计量组成的现代二阶元分析规范[[Paradigm|范式]]。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–6)]]
 
 ---
 

@@ -56,7 +56,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 方法定义
-> [[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE，也称聚类稳健方差估计 Cluster-Robust Variance Estimation, CRVE 或[[Robust Variance Estimation|三明治估计量]] Sandwich Estimator）是一种在[[Meta-analysis|元分析]]（Meta-Analysis）、[[Meta-meta-analysis|二阶元分析]]与[[Meta-regression|元回归]]（Meta-Regression）中处理统计依赖[[Effect Size|效应量]]的非参数方差估计方法（Hedges, Tipton & Johnson, 2010; Tipton & Pustejovsky, 2015; [[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 5]]）。当研究中存在多重结果测量、同一被试纵向追踪或跨元分析[[Document|文献]]重叠导致数据存在聚类依赖时，RVE 基于经验残差构造渐近一致的协方差三明治矩阵，无需准确获知研究内的真实相关系数矩阵，即可获得渐近无偏且稳健的[[Standard Error|标准误]]、[[Confidence Interval|置信区间]]及[[Hypothesis|假设]]检验结果。
+> [[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE，亦称聚类稳健方差估计 Cluster-Robust Variance Estimation, CRVE 或三明治估计量 Sandwich Estimator）是一种在[[Meta-analysis|元分析]]（Meta-Analysis）、[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）与[[Meta-regression|元回归]]（Meta-Regression）中处理统计依赖[[Effect Size|效应量]]的非参数方差估计方法（Hedges, Tipton & Johnson, 2010; Tipton & Pustejovsky, 2015; [[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 5]]）。当研究中存在多重结果测量、同一被试纵向追踪或跨元分析[[Document|文献]]重叠导致数据存在聚类依赖时，RVE 基于经验残差构造渐近一致的协方差三明治矩阵，无需准确获知研究内的真实相关系数矩阵，即可获得渐近无偏且稳健的[[Standard Error|标准误]]、[[Confidence Interval|置信区间]]及[[Hypothesis|假设]]检验结果。
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含依赖效应量（Dependent Effect Sizes）、多重结果测量或多层嵌套结构的一阶元分析与二阶元分析数据。
@@ -75,7 +75,7 @@ updated: 2026-08-24
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 承认真实研究中[[Effect Size|效应量]]之间普遍存在不可避免的聚类相关与[[Document|文献]]重叠，统计推断应建立在对依赖结构具备容错能力的经验三明治估计之上，而非不切实际的独立性假定。
-> - **研究者角色** 设定合理的工作模型（如[[Correlated and Hierarchical Effects Model|相关与层级效应模型]] CHE，$\rho = 0.8$）以优化加权效率，依靠三明治经验残差为模型误设提供稳健性保护。
+> - **研究者角色** 设定合理的工作模型（如[[Correlated and Hierarchical Effects Model|相关与层级效应模型]] Correlated and Hierarchical Effects Model, CHE，$\rho = 0.8$）以优化加权效率，依靠三明治经验残差为模型误设提供稳健性保护。
 > - **有效性标准** 统计结论效度取决于集群数量与小样本调整；在有限集群情境下须引入 CR2 调整与霍特林 $T^2$ 小样本自由度修正。
 > - **不声称回答的问题** 不能自动消除原始研究中的测量偏误或文献[[Publication Bias|发表偏倚]]，仅解决聚类依赖对方差估计与假阳性膨胀的数学失真。
 

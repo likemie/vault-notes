@@ -144,19 +144,19 @@ issuing_organization: ""
 > [!index-table] 核心变量与调节因素[[Operationalization|操作化]]定义与测量工具
 > | 变量与调节因素 | [[Construct\|理论构念]]与操作化定义 | 典型测量工具与代表案例 |
 > |---|---|---|
-> | **创造力作为预测变量**<br>（Predictor Variable） | 创造力（潜能、思维或产出）作为自变量，用于预测后续[[Academic Achievement\|学业成就]]、职业发展、身心适应或终身创造力。 | [[Cohort Study\|追踪研究]]中使用 TTCT 预测成人期重大创造性成就或学业 GPA。 |
-> | **创造力作为结果变量**<br>（Criterion Variable） | 创造力作为因变量或效标，用于检验教育教学干预、认知能力、人格特征或情境环境对创造力的塑造与提升效果。 | 准[[Experimental Research\|实验研究]]检验 [[Problem-Based Learning\|PBL]] 教学法或 CPS 项目对学生创造性思维的提升幅度。 |
-> | **发散思维**<br>（Divergent Thinking） | 评估个体在开放性任务中沿多方向生成多样、新颖观念的认知能力，通常以流畅性、灵活性和独创性计分。 | 托兰斯创造性思维测验（TTCT）、非寻常用途任务（AUT）、连线测验。 |
-> | **创造过程**<br>（Creative Process） | 涵盖观念生成之外的复杂多阶段认知操作，包括问题发现、信息重构、顿悟、观念评估与选择等环节。 | 问题发现任务（Problem Finding）、复合顿悟测验（CRA）、电子头脑风暴。 |
-> | **创造性成果**<br>（Creative Outcomes） | 个体产出的显性创造性产品或客观成就，由外部专家主观评定或依据客观社会记录衡量。 | 专家共识评估技术（[[Computerized Adaptive Testing\|CAT]]）、自陈创造性成就[[Questionnaire\|问卷]]（CAQ）、专利与出版物。 |
+> | **创造力作为预测变量**<br>（Predictor Variable） | 创造力（潜能、思维或产出）作为自变量，用于预测后续[[Academic Achievement\|学业成就]]、职业发展、身心适应或终身创造力。 | [[Cohort Study\|追踪研究]]中使用托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）预测成人期重大创造性成就或平均学分绩点（Grade Point Average, GPA）。 |
+> | **创造力作为结果变量**<br>（Criterion Variable） | 创造力作为因变量或效标，用于检验教育教学干预、认知能力、人格特征或情境环境对创造力的塑造与提升效果。 | 准[[Experimental Research\|实验研究]]检验[[Problem-Based Learning\|问题驱动教学法]]（Problem-Based Learning, PBL）或创造性问题解决模型（Creative Problem Solving, CPS）项目对学生创造性思维的提升幅度。 |
+> | **发散思维**<br>（Divergent Thinking） | 评估个体在开放性任务中沿多方向生成多样、新颖观念的认知能力，通常以流畅性、灵活性和独创性计分。 | 托兰斯创造性思维测验（TTCT）、非常规用途测验（Alternative Uses Task, AUT）、连线测验。 |
+> | **创造过程**<br>（Creative Process） | 涵盖观念生成之外的复杂多阶段认知操作，包括问题发现、信息重构、顿悟、观念评估与选择等环节。 | 问题发现任务（Problem Finding Tasks）、远距离联想测验（Remote Associates Test, RAT）、电子头脑风暴（Electronic Brainstorming, EBS）。 |
+> | **创造性成果**<br>（Creative Outcomes） | 个体产出的显性创造性产品或客观成就，由外部专家主观评定或依据客观社会记录衡量。 | 同感评估技术（Consensual Assessment Technique, CAT）、自陈创造性成就[[Questionnaire\|问卷]]（Creative Achievement Questionnaire, CAQ）、专利与出版物。 |
 > | **总体创造力**<br>（Overall Creativity） | 未明确区分过程与成果、或采用综合测评套件获取的宽泛创造力总分指标。 | 综合创造潜能评估包、教师综合创造力[[Rating Scale\|评定量表]]。 |
-> | **人口学背景**<br>（Background Variables） | 个体的生物学与社会人口统计学静态或宏观特征。 | 年龄、性别、社会经济地位（SES）、年级水平。 |
-> | **认知相关因素**<br>（Cognitive Correlates） | 与信息加工、逻辑推理、知识存储与注意控制相关的基础智力与认知能力。 | 智商测验（IQ）、[[Working Memory\|工作记忆]]广度、[[Executive Function\|执行功能]]任务、流体智力、注意力控制。 |
-> | **外认知相关因素**<br>（Extracognitive Correlates） | 情绪与心境状态、大五人格特质、动机倾向与创造性自我信念等非认知心理特征。 | 大五人格量表（经验开放性、外向性）、内在动机构念、心境诱发、创造力[[Self-Efficacy\|自我效能感]]。 |
-> | **干预与教育教学**<br>（Intervention / Education） | 旨在提升创造思维与解决问题能力的[[Structured Teaching\|结构化教学]]方案、课程训练、教学法或显性指导语。 | 创造性问题解决（CPS）、普渡创造力项目、PBL、STEAM、显性原创性指导语。 |
+> | **人口学背景**<br>（Background Variables） | 个体的生物学与社会人口统计学静态或宏观特征。 | 年龄、性别、社会经济地位（Socioeconomic Status, SES）、年级水平。 |
+> | **认知相关因素**<br>（Cognitive Correlates） | 与信息加工、逻辑推理、知识存储与注意控制相关的基础智力与认知能力。 | 智商测验（Intelligence Quotient, IQ）、[[Working Memory\|工作记忆]]广度、[[Executive Function\|执行功能]]任务、流体智力、注意力控制。 |
+> | **外认知相关因素**<br>（Extracognitive Correlates） | 情绪与心境状态、大五人格特质、动机倾向与创造性自我信念等非认知心理特征。 | 大五人格量表（经验开放性、外向性）、内在动机构念、心境诱发、创造性[[Self-Efficacy\|自我效能感]]（Creative Self-Efficacy, CSE）。 |
+> | **干预与教育教学**<br>（Intervention / Education） | 旨在提升创造思维与解决问题能力的[[Structured Teaching\|结构化教学]]方案、课程训练、教学法或显性指导语。 | 创造性问题解决模型（CPS）、普渡创造性思维计划（Purdue Creative Thinking Program, PCTP）、PBL、跨学科 STEAM（科学、技术、工程、艺术与数学）教学、显性原创性指导语。 |
 > | **即时情境影响**<br>（Immediate Influence） | 测评或任务执行过程中的即时环境诱因、情境压力与外部交互线索。 | 评价威胁、时间限制、竞争氛围、外部奖励机制、多媒体环境线索。 |
 > | **研究设计**<br>（Study Design） | 原始一阶实证研究所采用的研究架构（考察自然状态关联或实验操纵效应）。 | 相关设计（自然关联横截面/追踪） vs 比较设计（实验组/控制组前[[Pre-test and Post-test\|后测]]）。 |
-> | **方法学质量**<br>（Methodological Quality） | 基于 [[AMSTAR]] 12 项准则评定的一阶元分析规范度与偏倚控制水平。 | 高质量（AMSTAR 得分 $\ge 0.75$，至少满足 9 项） vs 非高质量。 |
+> | **方法学质量**<br>（Methodological Quality） | 基于系统评价方法学质量评估工具（[[AMSTAR\|A MeaSurement Tool to Assess systematic Reviews]], AMSTAR）12 项准则评定的一阶元分析规范度与偏倚控制水平。 | 高质量（AMSTAR 得分 $\ge 0.75$，至少满足 9 项） vs 非高质量。 |
 >
 > **图表解读** 本表系统界定了[[Meta-meta-analysis|二阶元分析]]所涵盖的全部 13 个核心变量与调节因素的操作化定义、测量范式及代表性实证研究工具，为理解二阶统计建模、亚组[[Heterogeneity|异质性]]与跨模型比较提供了统一的概念基准。（pp. 3–5）
 
@@ -167,10 +167,10 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>[[Meta-meta-analysis]] | 检索五个大型数据库与博硕士论文库，人工检索专业期刊与灰色[[Document\|文献]]，经首选报告条目声明（PRISMA）流程筛选出 52 项符合标准的一阶[[Meta-analysis\|元分析]]。（pp. 3–4） |
-> | **方法学质量评价**<br>[[AMSTAR]] | 采用系统评价质量评估工具（AMSTAR）改编的 12 项规程评估一阶元分析质量（双人独立[[Coding in Qualitative Research\|编码]]一致率 97%），以得分达到 0.75（至少满足 9 项标准）作为高质量指示[[Variable\|变量]]。（p. 4） |
+> | **文献检索与筛选**<br>[[Meta-meta-analysis]] | 检索五个大型数据库与博硕士论文库，人工检索专业期刊与灰色[[Document\|文献]]，经系统评价和荟萃分析优先报告条目声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程筛选出 52 项符合标准的一阶[[Meta-analysis\|元分析]]。（pp. 3–4） |
+> | **方法学质量评价**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具（A MeaSurement Tool to Assess systematic Reviews, AMSTAR）改编的 12 项规程评估一阶元分析质量（双人独立[[Coding in Qualitative Research\|编码]]一致率 97%），以得分达到 0.75（至少满足 9 项标准）作为高质量指示[[Variable\|变量]]。（p. 4） |
 > | **效应量转换与正态化**<br>[[Effect Size Conversion]] | 将各类一阶效应指标统一转换为皮尔逊相关系数 $r$，并进一步进行费舍尔 $z$ 正态化转换；计算加权效应后再逆转换为 $r$ 呈现。（p. 5） |
-> | **多水平统计建模与方差校正**<br>[[Robust Variance Estimation]] | 采用相关与层级效应工作模型（CHE 模型，设定集群内相关系数为 0.8）与稳健方差估计计算稳健标准误与小样本 $F$ 检验；运用多水平改进艾格回归检验并校正小研究效应。（p. 6） |
+> | **多水平统计建模与方差校正**<br>[[Robust Variance Estimation]] | 采用相关与层级效应工作模型（Correlated and Hierarchical Effects Model, CHE，设定集群内相关系数为 0.8）与稳健方差估计（Robust Variance Estimation, RVE）计算稳健标准误与小样本 $F$ 检验；运用多水平改进艾格回归检验并校正小研究效应。（p. 6） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -408,7 +408,7 @@ issuing_organization: ""
 > - **教学模式改革与情境化学习** Yunita et al. (2020)（数学 PBL $g = 0.87$）与 Suganda et al. (2021)（STEAM $g = 0.76$）证实问题驱动教学与跨学科整合教学对学生数学与科学创造力具有中等以上的正向促进效应。
 > - **协作与电子头脑风暴技术** DeRosa et al. (2007)（数量 $d = 0.44$、质量 $d = 0.38$）与 Ayutthaya & Damrongpanit (2022)（$g = 0.65$）表明基于技术中介的群体构想交互与[[Structured Teaching|结构化教学]]管理模型能有效克服生产力阻滞。
 
-> [!implication]- 理论与[[Praxis|实践]]后果
+> [!implication]- 理论与实践后果
 > 1. **全景认知理解** 创造力不能仅从单一智力或发散思维来理解，情绪、动机与人格等外认知因素具备同等重要的解释力。
 > 2. **教育干预赋能** 实证数据强力支持了教育干预的有效性，破除了创造力纯属天赋不可教的决定论宿命观。（p. 8）
 

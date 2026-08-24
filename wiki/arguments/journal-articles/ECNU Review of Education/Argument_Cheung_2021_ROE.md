@@ -57,14 +57,14 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 高质量研究和证据在教育政策与[[Praxis|实践]]中是否扮演着如在医学领域一样重要的角色？(p.1)
+> 高质量研究和证据在教育政策与实践中是否扮演着如在医学领域一样重要的角色？(p.1)
 
 ## 理论框架
 
 > [!abstract] 理论框架
 > 采用 Slavin et al. (2020) 的[[Evidence-Based Reform|证据本位改革]]四项核心活动框架组织全刊文章(p.2)：
 >
-> 1. **创建持续增加知识和有效[[Praxis|实践]]的政策与系统（policies and systems）**
+> 1. **创建持续增加知识和有效实践的政策与系统（policies and systems）**
 > 2. **通过高质量实验发现什么有效（finding out what works）**
 > 3. **使教育者和政策制定者知晓经过验证的方案（making educators and policymakers aware）**
 > 4. **为学校实施经过验证的方案提供激励与资源（providing incentives and resources）**
@@ -99,7 +99,7 @@ citation_aliases:
 >
 > **传播知晓维度：**
 > - Slavin et al. (2020) 介绍了 Johns Hopkins University 教育改革研究中心通过网站、通讯和博客传播研究证据的努力
-> - [[What Works Clearinghouse]] 作为 IES 旗舰项目，审查多领域的[[Praxis|实践]]方案研究
+> - [[What Works Clearinghouse]] 作为 IES 旗舰项目，审查多领域的实践方案研究
 >
 > **实施激励维度：**
 > - Ross & Morrison (2020) 以美国大型多元化学区的复杂改革案例，说明政策与证据期望如何被多重议程和利益相关者个人需求过滤

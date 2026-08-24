@@ -70,7 +70,7 @@ citation_aliases:
 
 ## 研究问题
 
-> [!question] 核心关切与[[Praxis|实践]]难题
+> [!question] 核心关切与实践难题
 > 生物制药行业的[[Clinical Trial|临床试验]]是[[University-Industry Collaboration|产学合作]]中资金规模最大的交汇领域——产业方提供资金、监管专长和规模化能力，大学及[[Academic Medical Center|学术医学中心]]贡献前沿研究、方法论创新和多样化患者人群。然而，在实际运作中，学术机构的预算结构、多层审查制度和漫长的启动周期，与产业方对速度和成本效率的追求之间，存在持续的结构性摩擦。
 >
 > 具体而言，三组矛盾构成了核心追问：
@@ -234,7 +234,7 @@ citation_aliases:
 > [!note]- 其他影响因素
 > - **发表** 多中心试验发表的独特问题、发表时机、试验[[Preregistration|预注册]]、阴性和阳性结果的发表义务(p.208)
 > - **组织模式** 大学和产业方对临床研究运营的不同组织方式——集中化临床试验办公室 vs 去中心化模式、大学 vs 医学院的角色、CRO 在流程中的利弊(pp.208–209)
-> - **机构间组织** 由于教师的学术研究义务、医学中心和医学院的结构及其与临床[[Praxis|实践]]的交织，各机构对临床试验的财务和机构监督机制差异显著。受 FDA 监管的临床试验需通过"1572 表格——研究者声明"（Form FDA 1572 – Statement of the Investigator）确定主要研究者（Principal Investigator, PI）、副研究者以及研究活动和临床数据将在其中生成的设施(p.209)
+> - **机构间组织** 由于教师的学术研究义务、医学中心和医学院的结构及其与临床实践的交织，各机构对临床试验的财务和机构监督机制差异显著。受 FDA 监管的临床试验需通过"1572 表格——研究者声明"（Form FDA 1572 – Statement of the Investigator）确定主要研究者（Principal Investigator, PI）、副研究者以及研究活动和临床数据将在其中生成的设施(p.209)
 
 > [!example]- 图11.4：1572 表格概述主要研究者和 IRB 在 FDA 监管试验中的义务
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_11-4_FDA_Form_1572_Investigator_Statement.jpg)

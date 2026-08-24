@@ -1846,7 +1846,6 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Praxis.md",
     "aliases": [
-      "实践",
       "praxis",
       "Freirean praxis",
       "informed action"
@@ -6106,7 +6105,6 @@
     "aliases": [
       "计算机自适应测验",
       "计算机化自适应测验",
-      "CAT",
       "adaptive testing",
       "适应性测验"
     ]

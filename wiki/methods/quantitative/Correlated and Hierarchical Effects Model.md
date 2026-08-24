@@ -51,7 +51,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 方法定义
-> [[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE 模型）是一种专门用于在[[Meta-analysis|元分析]]（Meta-Analysis）与[[Meta-meta-analysis|二阶元分析]]中同时处理**相关效应（Correlated Effects，同一项研究或同一被试报告的多个相关测量）**与**层级效应（Hierarchical Effects，[[Effect Size|效应量]]嵌套于不同原始研究或一阶元分析集群中）**的三水平统计工作模型（Working Model）（Pustejovsky & Tipton, 2022; [[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 5]]）。CHE 通过构建块对角协方差工作矩阵并分解三层方差分量，为加权估计提供最优化统计效率。
+> [[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）是一种专门用于在[[Meta-analysis|元分析]]（Meta-Analysis）与[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）中同时处理**相关效应（Correlated Effects，同一项研究或同一被试报告的多个相关测量）**与**层级效应（Hierarchical Effects，[[Effect Size|效应量]]嵌套于不同原始研究或一阶元分析集群中）**的三水平统计工作模型（Working Model）（Pustejovsky & Tipton, 2022; [[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 5]]）。CHE 通过构建块对角协方差工作矩阵并分解三层方差分量，为加权估计提供最优化统计效率。
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含多重测量指标、多亚组比较、纵向追踪或跨元分析嵌套依赖的一阶与二阶元分析数据矩阵。
@@ -78,7 +78,7 @@ updated: 2026-08-24
 
 > [!concept-lens] CHE 模型解决的核心痛点
 > 1. **现实数据的双重依赖** 实证研究往往既包含“同一被试测了多种[[Creativity|创造力]]指标”（相关效应），又包含“多篇论文来自同一个实验室或同一个一阶元分析”（层级效应）。单纯使用层级模型会低估研究内相关，单纯使用相关模型则无法区分跨研究异质性。
-> 2. **优化广义最小二乘（GLS）加权效率** 尽管稳健方差估计（RVE）能对错误的工作模型提供保护，但越接近真实依赖结构的工作模型，GLS 点估计的统计功效（Power）与估计精度越高。CHE 提供了最贴近真实数据生成过程的工作矩阵。
+> 2. **优化广义最小二乘（Generalized Least Squares, GLS）加权效率** 尽管[[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE）能对错误的工作模型提供保护，但越接近真实依赖结构的工作模型，GLS 点估计的统计功效（Power）与估计精度越高。CHE 提供了最贴近真实数据生成过程的工作矩阵。
 
 ---
 

@@ -91,7 +91,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> [[Praxis|实践]]者指南（practitioner guide），基于[[Alliance for Southern California Innovation|南加州创新联盟]]八年的直接运营经验，以及对南加州 20 余位大学[[University-Industry Collaboration|产学合作]]领导者和企业创新负责人的访谈、小组讨论和书面调查(pp.142-143)。访谈围绕三条主线：
+> 实践者指南（practitioner guide），基于[[Alliance for Southern California Innovation|南加州创新联盟]]八年的直接运营经验，以及对南加州 20 余位大学[[University-Industry Collaboration|产学合作]]领导者和企业创新负责人的访谈、小组讨论和书面调查(pp.142-143)。访谈围绕三条主线：
 > - 产业与大学之间最有效、最常见的催生衍生企业的合作形式是什么？
 > - 大学在开发有意义的产业伙伴关系方面最有效的机制是什么？
 > - 产业赞助研究是催生衍生企业的可行渠道吗？为什么？
@@ -434,7 +434,7 @@ citation_aliases:
 > [!warning]
 > - 研究基于南加州区域的大学和企业样本，其他地区的制度环境、产业结构和文化条件可能显著不同，例如一个以制造业为主的中西部州与一个以科技和娱乐业为主的南加州，其[[University-Industry Collaboration|产学合作]]生态的逻辑可能完全不同(pp.142-143)
 > - 访谈对象主要来自南加州，样本规模为 20 余人，并非全国性、跨行业的代表性抽样(p.142)
-> - 两位作者是[[Alliance for Southern California Innovation|南加州创新联盟]]的运营者，既是观察者也是参与者，结论来自[[Praxis|实践]]经验的归纳而非系统性实证检验。这一立场的优势是提供了外部研究者难以获得的"内部人视角"（insider perspective）；劣势是可能存在利益相关偏误，因为作者所属的组织本身就是文中描述的产学合作机制的一部分(pp.141-142)
+> - 两位作者是[[Alliance for Southern California Innovation|南加州创新联盟]]的运营者，既是观察者也是参与者，结论来自实践经验的归纳而非系统性实证检验。这一立场的优势是提供了外部研究者难以获得的"内部人视角"（insider perspective）；劣势是可能存在利益相关偏误，因为作者所属的组织本身就是文中描述的产学合作机制的一部分(pp.141-142)
 > - 文中引用的部分数据（如 [[Kendall Square|CIC]]、SSLEEC 的相关信息）来自运营方自身网站和非学术来源，非独立的第三方评估（贯穿全章）
 
 ---

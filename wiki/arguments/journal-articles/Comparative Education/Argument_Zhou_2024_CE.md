@@ -75,7 +75,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 在[[John Dewey|杜威]]（John Dewey）访华百周年（2019年）的学术纪念热潮中，学界长期形成了一个主流叙事：杜威的[[Pragmatic Paradigm|实用主义]]哲学（[[Pragmatism in China|Pragmatism in China]]）不仅深刻推动了中国1922年新学制改革的民主化方向，其渐进改良的实验方法也落实在了民国教育[[Praxis|实践]]中（pp.609–610）。然而，这一传统叙事忽略了一个深层悖论——杜威在其原典体系中将[[Democratic Education|民主教育]]理想（democratic education）与渐进实验方法（gradualist experimental approach）融为一体，是因为美国社会已具备基本的民主框架，渐进改良是巩固民主的手段；但在尚无民主制度保障的民国中国，要实现民主教育本身就需要激进变革，这使得追求民主与坚持渐进变成了不可兼得的冲突选项（pp.610–611）。本文旨在回答：在1910–1920年代民国动荡的社会政治语境中，这一内在张力如何重塑了杜威思想的引入、[[Transfer Translation Transformation|转译]]与演变路径？(p.611)
+> 在[[John Dewey|杜威]]（John Dewey）访华百周年（2019年）的学术纪念热潮中，学界长期形成了一个主流叙事：杜威的[[Pragmatic Paradigm|实用主义]]哲学（[[Pragmatism in China|Pragmatism in China]]）不仅深刻推动了中国1922年新学制改革的民主化方向，其渐进改良的实验方法也落实在了民国教育实践中（pp.609–610）。然而，这一传统叙事忽略了一个深层悖论——杜威在其原典体系中将[[Democratic Education|民主教育]]理想（democratic education）与渐进实验方法（gradualist experimental approach）融为一体，是因为美国社会已具备基本的民主框架，渐进改良是巩固民主的手段；但在尚无民主制度保障的民国中国，要实现民主教育本身就需要激进变革，这使得追求民主与坚持渐进变成了不可兼得的冲突选项（pp.610–611）。本文旨在回答：在1910–1920年代民国动荡的社会政治语境中，这一内在张力如何重塑了杜威思想的引入、[[Transfer Translation Transformation|转译]]与演变路径？(p.611)
 
 > [!claim] 核心主张
 > [[John Dewey|杜威]]思想在民国中国的传播并非一次忠实或扭曲的整体移植，而是遭遇了结构性的碎片化（fragmentation）。民国教育界受制于缺乏民主与国家危亡的现实语境，将原本统一的杜威体系拆解为彼此隔离的知识碎片——激进派抽取其民主目标与儿童中心，温和派抽取其实验主义与渐进方法，民族主义者抽取其教育服务社会——杜威由此被重构成了一组服务于不同乃至相反政治议程的知识资源（pp.622–623）。

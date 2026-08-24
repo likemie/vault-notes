@@ -147,7 +147,7 @@ updated: 2026-06-19
 
 > [!quad-grid] 选题来源的四种驱动力
 >
-> > [!features] [[Praxis|实践]]驱动
+> > [!features] 实践驱动
 > > - 日常工作中的问题（概念／理论／实质／实践／方法论）
 > > - 对政府政策或地方发展的回应
 > > - 改进实践的愿望
@@ -658,7 +658,7 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > |---|
 > | 考虑研究是否**会影响或改变实践**，如果不能，为什么它仍然重要。 |
 > | 考虑你是否具备进行拟议研究的**合适人格、特征、经验和人际行为**。 |
-> | 考虑研究是否能长期**维持你的创造力、想象力、积极态度和动力**。 |
+> | 考虑研究是否能长期**维持你的[[Creativity\|创造力]]、想象力、积极态度和动力**。 |
 > | 选择一个你知道自己将能获得**专业、有见识指导**的课题。 |
 
 > [!seq-table] 九、个人与受益（28–31）
@@ -692,7 +692,7 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > Part of the discipline of choosing and conducting a piece of research is fining it down to manageable/researchable proportions (cf. Hopkins, 1985, p. 47), to enable rigour (e.g. fitness for purposes and methodological soundness) to be inserted into the research. Rigour in planning and doing research lies in choosing a project that is tightly framed.
 
 > [!citation-card]- 原创性不够
-> 研究需要超越原创数据，选择一个重要的课题，真正为我们的理解和[[Praxis|实践]]做出重要贡献。仅凭原创性是不够的。研究应该能够推动领域前进——也许只是小规模、零散、渐进的方式——但没有这项研究，领域将更加贫乏。（第6章, p.81）
+> 研究需要超越原创数据，选择一个重要的课题，真正为我们的理解和实践做出重要贡献。仅凭原创性是不够的。研究应该能够推动领域前进——也许只是小规模、零散、渐进的方式——但没有这项研究，领域将更加贫乏。（第6章, p.81）
 >
 > Research needs to go beyond this, to choose a significant topic that will actually make an important contribution to our understanding and to practice. Originality alone is not enough. Rather, the research should be able to move forward the [[Champ|field]], perhaps in only a small-scale, piecemeal, incremental way, but nevertheless to advance it such that, without the research, the field would be poorer.
 

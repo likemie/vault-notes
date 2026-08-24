@@ -109,7 +109,7 @@ citation_aliases:
 > 同时，比较教育正在永久性地寻找新的学科史、新的比较教育者定义和新的未来构想概念。围绕这个核心悖论，本研究的核心追问是：国际关系的三大思想传统各自生产了什么样的比较教育形态？每种形态看见了什么，又遮蔽了什么？(p. 417)
 
 > [!claim] 核心主张
-> 比较教育在学说、制度和建制上均是国际关系的产物与[[Praxis|实践]]。对国际社会性质和政治运作规则的不同理解（无论是否被学者自觉持有），塑造了不同的比较教育学术形态与实践逻辑(pp. 417, 431)。
+> 比较教育在学说、制度和建制上均是国际关系的产物与实践。对国际社会性质和政治运作规则的不同理解（无论是否被学者自觉持有），塑造了不同的比较教育学术形态与实践逻辑(pp. 417, 431)。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing|政策借用]]与流动的分析[[Paradigm|范式]]以及跨国教育治理网络。
@@ -159,7 +159,7 @@ citation_aliases:
 ### 第一步：确立三大传统作为分析框架
 
 > [!claim] 步骤一主张
-> 国际关系的三大思想传统对国际社会性质有着截然不同的底层设定，这决定了学术研究和政策[[Praxis|实践]]对国家行为模式的规范性预期(p. 417)。
+> 国际关系的三大思想传统对国际社会性质有着截然不同的底层设定，这决定了学术研究和政策实践对国家行为模式的规范性预期(p. 417)。
 
 > [!theory-components] 怀特[[Wight's Three Traditions of International Theory|国际关系三大传统]]
 > - **[[Realism in International Relations|现实主义]]（Realism）**
@@ -335,7 +335,7 @@ citation_aliases:
 > 
 > *We have never used the lens of international theory in a systematic way to articulate our [[Champ|field]]'s identity, history and future.*
 
-> [!citation-card]- 国际预设决定学术[[Praxis|实践]]
+> [!citation-card]- 国际预设决定学术实践
 > 中文译文：我们作为“比较教育”所付诸的实践，本质上是我们对国际社会及其政治性质、以及其中的主要行动者（应当）如何行事的自觉或不自觉理解的结果。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 417)]]
 > 
 > *What we practise as 'comparative education' is the effect of the way(s) in which we understand, consciously or unconsciously, the nature of international society and its politics, as well as how its main actors (should) conduct themselves in it.*

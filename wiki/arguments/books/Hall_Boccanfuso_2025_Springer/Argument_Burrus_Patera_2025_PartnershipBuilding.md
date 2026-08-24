@@ -74,7 +74,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期[[Praxis|实践]]经验，同时整合 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Demonstration Partnership|UIDP]] 和 [[University Industry Innovation Network|UIIN]] 等行业组织积累的最佳实践。
+> 不依赖正式学术理论，而是基于在普林斯顿大学领导战略伙伴关系的长期实践经验，同时整合 [[Network of Academic Corporate Relations Officers|NACRO]]、[[University Industry Demonstration Partnership|UIDP]] 和 [[University Industry Innovation Network|UIIN]] 等行业组织积累的最佳实践。
 > - [[University-Industry Collaboration]] — 作为分析的组织框架，将伙伴关系建设分解为三个相互关联的阶段：连接 → 探索发现 → 建设
 
 ---
@@ -82,7 +82,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> [[Praxis|实践]]者指南，基于专业经验与行业最佳实践的归纳总结，并非实证研究。包含两个[[Case Study|案例研究]]：一是生命科学公司与大学的伙伴关系演化过程，二是通过[[Trade Mission|政府贸易代表团]]推动的与日本企业的国际合作。
+> 实践者指南，基于专业经验与行业最佳实践的归纳总结，并非实证研究。包含两个[[Case Study|案例研究]]：一是生命科学公司与大学的伙伴关系演化过程，二是通过[[Trade Mission|政府贸易代表团]]推动的与日本企业的国际合作。
 
 ---
 

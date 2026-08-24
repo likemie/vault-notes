@@ -3,7 +3,6 @@ title: Computerized Adaptive Testing
 aliases:
   - 计算机自适应测验
   - 计算机化自适应测验
-  - CAT
   - adaptive testing
   - 适应性测验
 summary: "基于项目反应理论、由计算机根据受试者先前反应动态选择后续题目难度的测验方式，首题置于假设能力范围中位，答对则加大难度、答错则减轻难度，可减少约50%测验题目并即时计分"

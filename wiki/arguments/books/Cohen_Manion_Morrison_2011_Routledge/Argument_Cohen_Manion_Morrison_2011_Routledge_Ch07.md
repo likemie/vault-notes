@@ -146,7 +146,7 @@ updated: 2026-07-13
 > - **情境与设计的直接对应**
 >   如果[[Research Purpose|研究目的]]是绘制领域全貌或做出可推广的论断，则调查方法配合[[Stratified Sampling|分层抽样]]可能是合适的选择；如果要评估特定干预的效果，则实验或[[Action Research|行动研究]]模型可能合适；如果需要对特定情境或群体进行深入理解，则[[Ethnography|民族志]]模型可能合适（p.118）。
 > - **识别跨情境的共同议题**
-> 尽管具体设计因目的不同而异，仍可以识别出一套所有研究者都需要面对的共同议题。本章正是处理这组议题，指示如何在[[Praxis|实践]]中将一般的研究兴趣转化为可操作、可行的研究课题。
+> 尽管具体设计因目的不同而异，仍可以识别出一套所有研究者都需要面对的共同议题。本章正是处理这组议题，指示如何在实践中将一般的研究兴趣转化为可操作、可行的研究课题。
 > - **规划即前瞻性约束**
 > 尽可能提前规划研究的每一个阶段。在研究开始后中途改变游戏规则必然导致问题。研究的条件和运作机制必须在事前敲定，研究才可信、合法且可行。
 
@@ -905,7 +905,7 @@ Furlong & Oancea (2005, pp.11–15) 识别了教育研究中的质量维度（pp
 ## 关键引用
 
 > [!citation-card]- 研究规划的平衡本质
-> 研究的设置是一种平衡行为，需要协调计划的可能性与可操作的连贯[[Praxis|实践]]，即调和"可以做/想做的事"与"真正能实行/能真正做到的事"之间的差异，因为归根结底，研究必须可行。（第7章, p.118）
+> 研究的设置是一种平衡行为，需要协调计划的可能性与可操作的连贯实践，即调和"可以做/想做的事"与"真正能实行/能真正做到的事"之间的差异，因为归根结底，研究必须可行。（第7章, p.118）
 >
 > *The setting up of the research is a balancing act, for it requires the harmonizing of planned possibilities with workable, coherent practice, i.e. the resolution of the difference between what could be done/what one would like to do and what will actually work/what one can actually do, for, at the end of the day, research has to work.* (p.118)
 

@@ -1,7 +1,6 @@
 ---
 title: Praxis
 aliases:
-  - 实践
   - praxis
   - Freirean praxis
   - informed action
@@ -13,9 +12,9 @@ related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
-- field/educational-philosophy
-- field/critical-pedagogy
-- theme/active-learning
+  - field/educational-philosophy
+  - field/critical-pedagogy
+  - theme/active-learning
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Active Learning]]"

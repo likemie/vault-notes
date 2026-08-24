@@ -168,7 +168,7 @@ updated: 2026-07-19
 
 > [!warning] 对模拟的十项深层顾虑（pp. 149–150）
 > - **（1）解释是回溯性而非前瞻性的** 模拟中的复杂性理论可能解释多样化、可变的结果（如[[School Effectiveness|学校效能]]研究），但未必能帮助干预以促进改进（Morrison, 2002a）。
-> - **（2）如何确定关键初始条件** 输入模拟的关键初始条件如何确定（[[Construct Validity|构念效度]]），以及如何从中导出[[Praxis|实践]]处方？
+> - **（2）如何确定关键初始条件** 输入模拟的关键初始条件如何确定（[[Construct Validity|构念效度]]），以及如何从中导出实践处方？
 > - **（3）系统仅仅是同一公式/模型的反复迭代** 这在多大程度上是可以接受的？
 > - **（4）过程过于确定性** 模拟仅假设初始条件的[[Interaction Effect|交互作用]]，忽略了过程中引入的额外因素（尽管存在学习型计算机模拟）。
 > - **（5）操纵人类变量是技术主义的**。
@@ -594,7 +594,7 @@ updated: 2026-07-19
 > *Simulations share with the laboratory experiment the characteristic that the experimenter has complete manipulative control over every aspect of the situation. At the same time, the subjects' humanity is left intact in that they are given a realistic situation in which to act in whatever way they think appropriate.*
 
 > [!citation-card]- 技术的独特价值与文化再生产
-> 使用技术简单复制现有[[Praxis|实践]]或复制其他技术的功能，是文化再生产或一阶变革（first order change）的例子，不可能产生根本或持续的差异。（Cuban, 1986, 2003; Fullan, 2007; p. 170）
+> 使用技术简单复制现有实践或复制其他技术的功能，是文化再生产或一阶变革（first order change）的例子，不可能产生根本或持续的差异。（Cuban, 1986, 2003; Fullan, 2007; p. 170）
 >
 > *Using a technology to simply replicate existing practice or to copy what other technologies do is an example of cultural reproduction or 'first order change' which is unlikely to produce a fundamental or sustained difference.*
 

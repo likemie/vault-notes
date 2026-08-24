@@ -105,7 +105,7 @@ updated: 2026-07-11
 
 > [!dimension] 历史与文献研究的三重功能
 > - **研究过去（the past）**
->   无论过去两个世纪的现代史还是更早的时期。研究者试图重建已经发生的事件、制度、[[Praxis|实践]]和观念，作为理解人类教育经验的窗口。教育史覆盖面极广，从全国性按年龄分级的学校系统（不过是近两个世纪的全球性发明）到更早存在的面向群体的学校、面向精英的高等教育机构、以及贯穿有文字记载历史的终身非正式教学实践。
+>   无论过去两个世纪的现代史还是更早的时期。研究者试图重建已经发生的事件、制度、实践和观念，作为理解人类教育经验的窗口。教育史覆盖面极广，从全国性按年龄分级的学校系统（不过是近两个世纪的全球性发明）到更早存在的面向群体的学校、面向精英的高等教育机构、以及贯穿有文字记载历史的终身非正式教学实践。
 > - **研究变迁与延续的过程（change and continuity over time）**
 >   不仅是事件的编年记录，更包括变迁过程中的争议（contestation）与协商（negotiation），以及更广泛的社会、政治、经济和其他语境如何塑造和限制变迁的方向。McCulloch & Richardson（2000）强调，在所有这些案例中，我们都可以调查过去的实践、变迁与延续的过程以及当下的起源。
 > - **探寻当下的起源（origins of the present）**
@@ -244,7 +244,7 @@ updated: 2026-07-11
 报纸是事件发生后几乎是即时出现的公开记录，但并非全面的记录：它迎合特定公众品味和兴趣，受到编辑立场、截稿压力和商业考量的多重过滤。
 
 > [!case] Cunningham（1992）的教师形象研究
-> Peter Cunningham 创造性地将报纸用作文献来源，考察了1950年至1990年英国媒体中教师形象的历史演变。他的研究设计体现了文献研究中的一个关键策略，即**比较时间切片** 选取1950年、1970年和1990年三个时间点，分别收集和分析以《泰晤士报》（在其作为非官方**记录报**的功能意义上）以及左翼和右翼主要大众报纸为代表的报道。Cunningham 不仅比较了同一时期不同政治立场报纸的报道差异（共时比较），更追踪了四十年来教师形象的变化轨迹（历时比较）。这一双重比较策略增强了分析的可[[Reliability|信度]]：共时差异揭示媒体立场的塑造力量，而历时变化则反映了更广泛的社会结构变迁。
+> Peter Cunningham [[Creativity|创造性]]地将报纸用作文献来源，考察了1950年至1990年英国媒体中教师形象的历史演变。他的研究设计体现了文献研究中的一个关键策略，即**比较时间切片** 选取1950年、1970年和1990年三个时间点，分别收集和分析以《泰晤士报》（在其作为非官方**记录报**的功能意义上）以及左翼和右翼主要大众报纸为代表的报道。Cunningham 不仅比较了同一时期不同政治立场报纸的报道差异（共时比较），更追踪了四十年来教师形象的变化轨迹（历时比较）。这一双重比较策略增强了分析的可[[Reliability|信度]]：共时差异揭示媒体立场的塑造力量，而历时变化则反映了更广泛的社会结构变迁。
 >
 > Warburton & Saunders（1996）将这一路径进一步拓展至视觉材料，分析1970年代以来英国媒体中以教师为主题的政治漫画。这一扩展的方法论意义在于：漫画不是对现实的报道，而是对现实的评论和讽刺，它们揭示了新闻报道未必直接言说的深层社会态度和文化焦虑。
 
@@ -475,7 +475,7 @@ Jupp & Norris（1993）将文献分析的多元理论路径归纳为三种一般
 > *Documents should be understood in relation to the semiotics of text production, how meaning is made in text, how readers take meaning from text, the status of authorial intention versus the reader's interpretation, the role of the community of discourse in the reception of text, and so forth.*
 
 > [!citation-card]- 论档案作为活生生的知识
-> 肯尼亚国家档案馆是"历史与人种学知识的蓄水池和活生生的实例"，提供的不止是"布满灰尘的文献"，而是"在其空间和结构中、在其使用者的目标和理念中、以及在其围墙内进行的各种形式的流行和专业[[Praxis|实践]]中体现的历史"。（Carotenuto & Luongo, 2005, pp. 445–446，转引自第12章，p.15）
+> 肯尼亚国家档案馆是"历史与人种学知识的蓄水池和活生生的实例"，提供的不止是"布满灰尘的文献"，而是"在其空间和结构中、在其使用者的目标和理念中、以及在其围墙内进行的各种形式的流行和专业实践中体现的历史"。（Carotenuto & Luongo, 2005, pp. 445–446，转引自第12章，p.15）
 >
 > *A reservoir and living example of historical and ethnographic knowledge ... history in its very space and structure, in the aims and ideas of its users, and in the various forms of popular and professional practice carried out within its walls.*
 

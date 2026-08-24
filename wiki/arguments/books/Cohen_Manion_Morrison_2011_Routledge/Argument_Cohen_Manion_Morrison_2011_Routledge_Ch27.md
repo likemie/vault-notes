@@ -90,7 +90,7 @@ updated: 2026-08-20
 > - **照片与静态图像** 如何以照片收集与激发资料
 > - **影片与动态图像** 如何以录像记录情境与互动
 > - **器物** 如何观察与解读物质对象
-> - **[[Visual Research Methods|视觉研究]]的伦理[[Praxis|实践]]** 如何处理同意、匿名与保密
+> - **[[Visual Research Methods|视觉研究]]的伦理实践** 如何处理同意、匿名与保密
 
 > [!question] 核心问题
 >
@@ -382,7 +382,7 @@ updated: 2026-08-20
 > *Artefacts may suggest what a group is doing, but not why. (Schein, 1992)*
 
 > [!citation-card]- Prosser et al. 论视觉方法对伦理的挑战
-> 视觉方法及其产生的数据，挑战了以文字与数字为基础的研究所伴随的部分伦理[[Praxis|实践]]，尤其是[[Informed Consent|知情同意]]、匿名与保密以及传播策略。（27.5）
+> 视觉方法及其产生的数据，挑战了以文字与数字为基础的研究所伴随的部分伦理实践，尤其是[[Informed Consent|知情同意]]、匿名与保密以及传播策略。（27.5）
 >
 > *[[Visual Research Methods|visual methods]], and the data they produce, challenge some of the ethical practices associated with word and number based research, in particular around informed consent, [[Anonymity in Research|anonymity]] and [[Confidentiality]], and dissemination strategies. (Prosser et al., 2008, p. 2)*
 

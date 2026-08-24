@@ -75,7 +75,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question] Question
-> [[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《[[Visible Learning|VL]]》（Visible Learning, VL）中，对[[Whole Language|全语言]]（Whole Language）教学效果的评估是否在科学上可信？基于聚合[[Meta-analysis|元分析]]（Meta-analysis）与[[Meta-meta-analysis|元元分析]]（Meta-meta-analysis）的[[Effect Size|效应量]]（Effect Size）来制定教学[[Praxis|实践]]和公共政策是否具有合法性？(p.142)
+> [[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《[[Visible Learning|VL]]》（Visible Learning, VL）中，对[[Whole Language|全语言]]（Whole Language）教学效果的评估是否在科学上可信？基于聚合[[Meta-analysis|元分析]]（Meta-analysis）与[[Meta-meta-analysis|元元分析]]（Meta-meta-analysis）的[[Effect Size|效应量]]（Effect Size）来制定教学实践和公共政策是否具有合法性？(p.142)
 
 > [!claim] 核心主张
 > 哈蒂对全语言教学的极低评估（d = 0.06）并不是由科学数据客观推导出来的，而是受其对[[Constructivist Paradigm|建构主义范式]]的先验偏见驱动的、存在严重方法论缺陷的数据操纵结果。以《VL》的单一效应量来指导教学实践是愚蠢的，以此作为制定公共政策的决策基础则是极其不负责任的 (p.149)。
@@ -216,7 +216,7 @@ citation_aliases:
 ### 论证步骤四：数据对“故事”的屈从与教育新自由主义治理
 
 > [!claim] 步骤四主张
-> 哈蒂以“故事优先于数据”的解释学辩护，背叛了元分析作为客观统计替代方案和叙述性讨论的学术初衷；同时，这一伪科学结论被新自由主义下的技术官僚所利用，绑架了学校的一线教学[[Praxis|实践]] (p.142)。
+> 哈蒂以“故事优先于数据”的解释学辩护，背叛了元分析作为客观统计替代方案和叙述性讨论的学术初衷；同时，这一伪科学结论被新自由主义下的技术官僚所利用，绑架了学校的一线教学实践 (p.142)。
 
 > [!critique-logic] “故事”对“数据”的凌驾与统计承诺的背叛
 > 哈蒂在面对对其方法论的统计学质疑时辩称：“是解释和故事帮助解释发现，这不是数据的问题”，“故事才是说服力的贡献” (p.142)。
@@ -253,7 +253,7 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card]- 论[[Effect Size|效应量]]评估的非责任性
-> 试图通过《[[Visible Learning|VL]]》报告的效应量来定位教学[[Praxis|实践]]是不明智的，而以此为基础制定公共政策决策则是不负责任的。[[Argument_OConnor_2020_AJLL|(p.149)]]
+> 试图通过《[[Visible Learning|VL]]》报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的。[[Argument_OConnor_2020_AJLL|(p.149)]]
 >
 > Attempting to orient pedagogical practice through Visible Learning’s reported effect sizes is ill advised, while basing public policy decisions on them is irresponsible.
 
@@ -273,7 +273,7 @@ citation_aliases:
 
 > [!warning] 自述局限
 > - **审查范围的局部性** 本研究仅针对《[[Visible Learning|VL]]》中[[Whole Language|全语言]]这一细分模块（涉及 4 项[[Meta-analysis|元分析]]、64 项原始研究）进行了极其细致的微观复核，并未对《VL》中其他学科领域或干预措施的[[Effect Size|效应量]]进行同等规模的系统审查 (p.143)。
-> - **作者的学术与职业镜头的声明** 作者公开声明自身是一名小学三年级至四年级的班级教师，在皇家墨尔本理工大学（Royal Melbourne Institute of Technology, RMIT）受训期间，其读写教学导师包括洛林·威尔逊（Lorraine Wilson）和大卫·霍恩斯比（David Hornsby）等全语言的积极倡导者，因此其研究视角的选择不可避免地带有全语言[[Praxis|实践]]者偏好偏向的限制 (pp.150-151)。
+> - **作者的学术与职业镜头的声明** 作者公开声明自身是一名小学三年级至四年级的班级教师，在皇家墨尔本理工大学（Royal Melbourne Institute of Technology, RMIT）受训期间，其读写教学导师包括洛林·威尔逊（Lorraine Wilson）和大卫·霍恩斯比（David Hornsby）等全语言的积极倡导者，因此其研究视角的选择不可避免地带有全语言实践者偏好偏向的限制 (pp.150-151)。
 
 ---
 

@@ -61,11 +61,11 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 方法定义
-> [[Second-Order Meta-Regression|二阶元回归]]（Second-Order [[Meta-regression]]，亦称二阶调节分析或 [[Meta-meta-analysis|SOMA]] Meta-Regression）是在[[Meta-meta-analysis|二阶元分析]]（Second-Order [[Meta-analysis]]）框架下，通过将宏观理论[[Construct|构念]]属性、研究设计类型、方法学质量及抽样精度等特征作为调节[[Variable|变量]]（Moderators），系统检验其对跨元分析汇总[[Effect Size|效应量]]变异解释力的多水平统计建模方法（Schmidt & Oh, 2013; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 5–6]]）。与一阶[[Meta-regression|元回归]]不同，二阶元回归必须在[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（CHE）与[[Robust Variance Estimation|稳健方差估计]]（RVE）三明治估计量之上运行，以克服跨元分析[[Document|文献]]重叠与多层集群依赖导致的自由度虚假膨胀与假阳性偏差。
+> [[Second-Order Meta-Regression|二阶元回归]]（Second-Order Meta-Regression，亦称二阶调节分析或二阶元分析元回归 SOMA Meta-Regression）是在[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）框架下，通过将宏观理论[[Construct|构念]]属性、研究设计类型、方法学质量及抽样精度等特征作为调节[[Variable|变量]]（Moderators），系统检验其对跨元分析汇总[[Effect Size|效应量]]变异解释力的多水平统计建模方法（Schmidt & Oh, 2013; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 5–6]]）。与一阶[[Meta-regression|元回归]]不同，二阶元回归必须在[[Correlated and Hierarchical Effects Model|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）与[[Robust Variance Estimation|稳健方差估计]]（Robust Variance Estimation, RVE）三明治估计量之上运行，以克服跨元分析[[Document|文献]]重叠与多层集群依赖导致的自由度虚假膨胀与假阳性偏差。
 
 > [!method-scope] 方法范围
 > - **研究对象** 嵌套于多个一阶元分析集群中的效应量矩阵及其关联的宏观[[Coding in Qualitative Research|编码]]协变量。
-> - **问题类型** 检验理论构念差异（如变量角色：[[Independent Variable|自变量]] vs [[Dependent Variable|结果变量]]）、研究设计特征（横断面 vs 纵向 vs 实验）、方法学质量等级（[[AMSTAR]] 高 vs 低）及小研究效应。
+> - **问题类型** 检验理论构念差异（如变量角色：[[Independent Variable|自变量]] vs [[Dependent Variable|结果变量]]）、研究设计特征（横断面 vs 纵向 vs 实验）、方法学质量等级（系统评价方法学质量评估工具 A MeaSurement Tool to Assess systematic Reviews, AMSTAR 高 vs 低）及小研究效应。
 > - **分析单位** Level 1 [[Sampling Error|抽样误差]]、Level 2 一阶元分析内效应量构念、Level 3 一阶元分析集群。
 > - **输出形式** 经 RVE 稳健调整后的回归系数点估计 $\hat{\beta}_p$、稳健[[Standard Error|标准误]]、95% [[Confidence Interval|置信区间]]及基于 Hotelling $T^2$ 近似的宏观[[Interaction Effect|调节效应]] Wald $F$ 检验统计量与 $p$ 值。
 

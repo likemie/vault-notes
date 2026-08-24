@@ -123,7 +123,7 @@ updated: 2026-08-20
 > ```
 
 > [!note] 论证主线
-> 将[[Action Research|行动研究]]从方法论基础逐层推进到具体[[Praxis|实践]]。行动研究的定义本身蕴含了多样性和张力。它是实践改进与政治解放之间、个体反思与集体批判之间、[[Technical Rationality|技术理性]]与解放兴趣之间的连续体，这一张力在[[Participatory Action Research|参与式行动研究]]与[[Emancipatory Action Research|解放性行动研究]]中达到顶点，并在操作程序、报告撰写和[[Reflexivity|反身性]]中获得具体的实践形态。
+> 将[[Action Research|行动研究]]从方法论基础逐层推进到具体实践。行动研究的定义本身蕴含了多样性和张力。它是实践改进与政治解放之间、个体反思与集体批判之间、[[Technical Rationality|技术理性]]与解放兴趣之间的连续体，这一张力在[[Participatory Action Research|参与式行动研究]]与[[Emancipatory Action Research|解放性行动研究]]中达到顶点，并在操作程序、报告撰写和[[Reflexivity|反身性]]中获得具体的实践形态。
 
 ---
 
@@ -435,7 +435,7 @@ PAR 的研究者角色（Weiskopf & Laske, 1996, p. 132–133）：促进者、�
 > 6. **获得对默会理论和假设的意识**
 > 7. **将教学视为解放性的、以实践为基础的行动**
 
-> [!def] Praxis（实践）
+> [!def] [[Praxis]]（实践）
 > "实践"（praxis）在此定义为：通过反思赋予信息并以解放为目标的行动（p. 273）。
 
 ---
@@ -950,7 +950,7 @@ Zuber-Skerritt（1996a, p. 17）进一步提出四个实践问题（p. 296）：
 ## 关键引用
 
 > [!citation-card]- Kemmis & McTaggart 的经典定义 (1988)
-> [[Action Research|行动研究]]是一种由社会情境中的参与者进行的集体性自我反思探究，旨在改进他们自身社会或教育[[Praxis|实践]]的合理性和正义性，以及他们对这些实践和这些实践所在情境的理解……这种方法只有在合作进行时才是行动研究，尽管重要的是认识到群体的行动研究是通过对个体群体成员的行动进行批判审视而实现的。（Kemmis & McTaggart, 1988, p. 5; p. 266）
+> [[Action Research|行动研究]]是一种由社会情境中的参与者进行的集体性自我反思探究，旨在改进他们自身社会或教育实践的合理性和正义性，以及他们对这些实践和这些实践所在情境的理解……这种方法只有在合作进行时才是行动研究，尽管重要的是认识到群体的行动研究是通过对个体群体成员的行动进行批判审视而实现的。（Kemmis & McTaggart, 1988, p. 5; p. 266）
 >
 > *Action research is a form of collective self-reflective enquiry undertaken by participants in social situations in order to improve the rationality and justice of their own social or educational practices, as well as their understanding of these practices and the situations in which these practices are carried out.... The approach is only action research when it is collaborative, though it is important to realize that the action research of the group is achieved through the critically examined action of individual group members.*
 

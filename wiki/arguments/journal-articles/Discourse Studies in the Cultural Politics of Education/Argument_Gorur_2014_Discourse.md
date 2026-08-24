@@ -60,7 +60,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> [[OECD]] 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *[[Education at a Glance]]*（[[Education at a Glance|EAG]]），其过程中涉及怎样的[[Praxis|实践]]、妥协和权力转移？(p.4)
+> [[OECD]] 的[[International Education|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *[[Education at a Glance]]*（[[Education at a Glance|EAG]]），其过程中涉及怎样的实践、妥协和权力转移？(p.4)
 
 ## 理论框架
 
@@ -72,7 +72,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **方法** 追踪"科学在行动"的[[Praxis|实践]](Latour, 1987, 1999)；[[Document|文献]]档案分析
+> - **方法** 追踪"科学在行动"的实践(Latour, 1987, 1999)；[[Document|文献]]档案分析
 > - **数据来源**[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 UNESCO 和 [[OECD]] 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 Stephen Heyneman（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录(p.5)
 
 ## 核心论证

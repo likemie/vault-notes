@@ -72,7 +72,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question|研究问题]]
-> 教育研究为什么多年来极少影响教育[[Praxis|实践]]？过去 15 年推动[[Evidence-Based Reform|证据本位改革]]的三项进展是什么？一个以已验证项目系统填充学校三层教学（[[Top Institute for Evidence-Based Education Research|TIER]] 1/2/3）的未来将如何改变教育？
+> 教育研究为什么多年来极少影响教育实践？过去 15 年推动[[Evidence-Based Reform|证据本位改革]]的三项进展是什么？一个以已验证项目系统填充学校三层教学（[[Top Institute for Evidence-Based Education Research|TIER]] 1/2/3）的未来将如何改变教育？
 >
 > > “为什么教育研究如此罕见地对教育实践产生影响？”
 > ("Why is it that educational research so rarely has an impact on the practice of education?") (p. 2)
@@ -80,7 +80,7 @@ citation_aliases:
 ## 理论立场
 
 > [!abstract] [[Theoretical Standpoint|理论立场]]
-> Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本（evidence-based, 非 evidence-informed）** 教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效[[Praxis|实践]]；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
+> Slavin 是 **[[Evidence-Based Education|EBE]] 的最强版本（evidence-based, 非 evidence-informed）** 教育者应基于特定项目的实验有效性证据选择方案，而非依靠通用原则或专业直觉。理由：(1) 研究反复发现教师难以将通用原则转化为有效实践；(2) 没有与替代方案的直接比较，无法知道"什么有效"。
 >
 > > “该定义并非仅仅指传播关于有效实践的一般原则的信息，通常发现这种做法对实践或结果并不能产生多大影响。”
 > ("This definition does not refer to simply disseminating information about generic principles of effective practice, which has not generally been found to make much of a difference in practices or outcomes.") (p. 3)

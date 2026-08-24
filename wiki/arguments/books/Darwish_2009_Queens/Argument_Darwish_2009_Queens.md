@@ -102,7 +102,7 @@ related_persons:
 
 ## 总览
 
-关于[[Active Learning|主动学习]]的概念分析研究（Darwish, 2009, Queen's University），系统解构了主动学习的[[Epistemology|认识论]]根基、历史演进与教学法张力。研究立足于哲学与概念分析，通过对西方教育思想史（[[Plato|柏拉图]]、[[Aristotle|亚里士多德]]、[[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]]等）及现代课程案例（IBO 与 [[Theory of Knowledge|TOK]] 课程）的深入考察，揭示了主动学习绝非简单的教学技巧（如分组讨论或动手操作），而是一种关乎学习者主体地位、批判意识与社会[[Praxis|实践]]的教育[[Paradigm|范式]]重构。
+关于[[Active Learning|主动学习]]的概念分析研究（Darwish, 2009, Queen's University），系统解构了主动学习的[[Epistemology|认识论]]根基、历史演进与教学法张力。研究立足于哲学与概念分析，通过对西方教育思想史（[[Plato|柏拉图]]、[[Aristotle|亚里士多德]]、[[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]]等）及现代课程案例（IBO 与 [[Theory of Knowledge|TOK]] 课程）的深入考察，揭示了主动学习绝非简单的教学技巧（如分组讨论或动手操作），而是一种关乎学习者主体地位、批判意识与社会实践的教育[[Paradigm|范式]]重构。
 
 ## 章节
 
@@ -120,11 +120,11 @@ related_persons:
 
 > [!chain-link] 第1章逻辑推导链条
 > - **古典教育哲学的继承与局限**
->  追溯[[Plato|柏拉图]]的助产术[[Dialogue in Education|对话]]与[[Aristotle|亚里士多德]]的[[Praxis|实践]]智慧，揭示古典教育对主体能动性的早期萌芽，但同时批判其受限于阶层固化与奴隶制社会的历史局限 (pp. 1–3)。
+>  追溯[[Plato|柏拉图]]的助产术[[Dialogue in Education|对话]]与[[Aristotle|亚里士多德]]的[[Phronesis|实践智慧]]，揭示古典教育对主体能动性的早期萌芽，但同时批判其受限于阶层固化与奴隶制社会的历史局限 (pp. 1–3)。
 > - **进步主义与[[Critical Pedagogy|批判教育学]]的[[Paradigm|范式]]突破**
->  通过对比[[John Dewey|杜威]]的经验[[Growth|生长]]理论与[[Paulo Freire|弗莱雷]]的问题提出式教育，确立主动学习的核心在于恢复[[Freedom of the Learner|学习者的自由]]与[[Praxis|实践]]能动性 (pp. 4–8)。
+>  通过对比[[John Dewey|杜威]]的经验[[Growth|生长]]理论与[[Paulo Freire|弗莱雷]]的问题提出式教育，确立主动学习的核心在于恢复[[Freedom of the Learner|学习者的自由]]与实践能动性 (pp. 4–8)。
 > - **[[Active Learning|主动学习]]三环节模型的构建**
->  提出由切身经验/难题感知、“[[Reflective Thinking|反思性探究]]与对话”以及“变革性[[Praxis|实践]]行动”构成的三环节动态模型，以此作为评估教学有效性的[[Epistemology|认识论]]标准 (pp. 8–12)。
+>  提出由切身经验/难题感知、“[[Reflective Thinking|反思性探究]]与对话”以及“变革性实践行动”构成的三环节动态模型，以此作为评估教学有效性的[[Epistemology|认识论]]标准 (pp. 8–12)。
 > - **IB [[Theory of Knowledge|知识论]]（TOK）课程的案例应用与困境**
 >  将三环节模型应用于 [[Theory of Knowledge|TOK]] 课程分析，指出其在促进反思性思维的同时，因评估标准化而陷入[[Banking Model of Education|储蓄式教育]]异化的理论疑局 (pp. 12–16)。
 
@@ -142,7 +142,7 @@ related_persons:
 
 > [!tension] 杜威经验重组与弗莱雷解放实践的范式分野
 > - **杜威进步主义范式（Deweyan Progressive Paradigm）** 强调“[[Learning by Doing|在做中学]]”与经验的连续重组，将学校视为民主社会的缩影，主张通过兴趣与环境调控促进个体的[[Growth|生长]] (Dewey, 1938; pp. 4–6)。
-> - **弗莱雷批判范式（Freirean Critical Paradigm）** 猛烈批判传统“[[Banking Model of Education|储蓄式教育]]”（Banking Education），指出其将学生降格为被动接受灌输的容器；主张通过问题提出式教育与[[Dialogue in Education|对话]]，促发学习者的[[Conscientization|批判意识觉醒]]，最终实现解构压迫的[[Praxis|实践]] (Freire, 1970; pp. 6–8)。
+> - **弗莱雷批判范式（Freirean Critical Paradigm）** 猛烈批判传统“[[Banking Model of Education|储蓄式教育]]”（Banking Education），指出其将学生降格为被动接受灌输的容器；主张通过问题提出式教育与[[Dialogue in Education|对话]]，促发学习者的[[Conscientization|批判意识觉醒]]，最终实现解构压迫的实践 (Freire, 1970; pp. 6–8)。
 
 ---
 
@@ -153,7 +153,7 @@ related_persons:
 >  学习必须始于学习者在真实社会或物理情境中感知的困惑、不适或压迫体验，而非预制好的抽象符号 (p. 9)。
 > - **环节二：[[Reflective Thinking|反思性探究]]与批判性[[Dialogue in Education|对话]]（Reflective Inquiry & Critical Dialogue）**
 >  学习者与同伴及教师在平等基础上展开深度对话，运用逻辑推理与批判意识拆解问题背后的认识论与社会结构成因 (pp. 9–10)。
-> - **环节三：变革性[[Praxis|实践]]行动（Transformative Praxis & Action）**
+> - **环节三：变革性实践行动（Transformative [[Praxis]] & Action）**
 >  探究的落脚点在于采取具体的社会或实践行动以改变现状，实现觉察-反思-行动的闭环 (pp. 10–11)。
 
 ---
@@ -199,7 +199,7 @@ related_persons:
 >   提出连续性（Continuity）与“[[Interaction Effect|交互作用]]”（Interaction）双重原则，严密区分促进[[Growth|生长]]的“[[Educative Experience|教育性经验]]”与阻碍未来的“[[Mis-educative Experience|反教育经验]]”，确立成熟教育者调查社区物理、历史、经济与职业资源并将其转化为教育工具的专业职责 (pp. 29–33)。
 > - **反思性探究五步骤、“[[Learning by Doing|在做中学]]”与面对面对话**
 >   拆解反思性思维的 5 大步骤（感知难题 → 明确难题 → 提出[[Hypothesis|假设]] → 推演后果 → 实证检验），揭示传统学校压抑身体活动制造课堂纪律难题与机械习惯的认识论根源；通过投石机制作与“活体动植物照顾 vs 死标本/学术事实”案例，论证基于在做中学的智性探究与社区面对面[[Dialogue in Education|对话]]才是深层实践知识与心智磨砺（Training of Mind）之源 (pp. 33–40)。
-> - **作为联合生活方式的民主与杜威生长的批判性边界（[[Praxis|实践]]缺失）**
+> - **作为联合生活方式的民主与杜威生长的批判性边界（实践缺失）**
 >   将民主定义为联合生活与协同沟通经验的模式，指出[[Democratic Education|民主教育]]要求学校成为合作探究社区；借助肥胖者健康觉察案例（The Obesity Example），揭示理智觉察与变革行动之间的撕裂，批判杜威预设平等沟通条件、未能明确承诺采取政治变革行动去解构压迫结构的理论局限 (pp. 40–44)。
 
 ---
@@ -393,7 +393,7 @@ related_persons:
 >   然而，尽管拥有极其清晰的理智觉察与认知，许多人却无法迈出改变现状的步骤，缺乏制定饮食/运动计划并付诸实施的个人意志与变革行动。
 > 
 > - **理论含义与杜威教育哲学的边界**
->   杜威认为通过反思性思维与理性对话重组经验即可实现[[Growth|生长]]。然而肥胖案例生动证明：单纯的理智觉察并不等同于改变现实的意志与行动。学习者从知道问题存在到采取行动改变困境/不公，存在着深刻的鸿沟。这揭示了杜威渐进改良模型的理论边界，缺少弗莱雷所强调的将批判意识觉醒与改变压迫现实的干预行动结合起来的[[Praxis|实践]] (Darwish, 2009, pp. 42–43)。
+>   杜威认为通过反思性思维与理性对话重组经验即可实现[[Growth|生长]]。然而肥胖案例生动证明：单纯的理智觉察并不等同于改变现实的意志与行动。学习者从知道问题存在到采取行动改变困境/不公，存在着深刻的鸿沟。这揭示了杜威渐进改良模型的理论边界，缺少弗莱雷所强调的将批判意识觉醒与改变压迫现实的干预行动结合起来的实践 (Darwish, 2009, pp. 42–43)。
 
 ---
 
@@ -433,7 +433,7 @@ related_persons:
 > - **提问式教育、[[Coding in Qualitative Research|编码]]/[[Decodification|解码]]与生成性主题探究**
 >   提出消解教师-学生二元对立的[[Problem-Posing Education|提问式教育]]（Problem-Posing Education），主张深入被压迫者的切身生活抽取“[[Generative Themes|生成性主题]]”（Generative Themes），通过“编码/[[Decodification|解码]]”（[[Codification]]/Decodification）分析，使教师-学生与学生-教师在我们思考（We think）的横向合作中共同探究现实矛盾 (Freire, 2000, pp. 80–86; Freire, 1973, p. 135; Darwish, 2009, pp. 46–48, p. 55)。
 > - **批判意识觉醒、打破沉默文化与实践（Praxis）**
->   剖析压迫霸权在被压迫者心中制造的“[[Culture of Silence|沉默文化]]”（Culture of Silence），指出[[Conscientization|批判意识觉醒]]（Conscientização）要求个体确立[[Epistemic Responsibility|认识论责任]]与道德责任；强调学习的最高形态是反思与变革行动高度统一的[[Praxis|实践]]（Praxis），断言无行动的言语是空谈（[[Verbalism]]），无反思的操练是盲动（Activism） (Freire, 2000, p. 51, p. 87; Darwish, 2009, pp. 48–51, pp. 61–63)。
+>   剖析压迫霸权在被压迫者心中制造的“[[Culture of Silence|沉默文化]]”（Culture of Silence），指出[[Conscientization|批判意识觉醒]]（Conscientização）要求个体确立[[Epistemic Responsibility|认识论责任]]与道德责任；强调学习的最高形态是反思与变革行动高度统一的实践（Praxis），断言无行动的言语是空谈（[[Verbalism]]），无反思的操练是盲动（Activism） (Freire, 2000, p. 51, p. 87; Darwish, 2009, pp. 48–51, pp. 61–63)。
 > - **横向对话的五大伦理基柱与有为干预型民主国家观**
 >   阐明真正的[[Dialogue in Education|对话]]必须建基在爱（Love）、[[Humility in Learning|谦逊]]（Humility）、对人的信仰（Faith）、宽容（Tolerance）与相互信任（Mutual Trust）五大存在论前提之上；批判新自由主义放任资本积累的消极国家观，提出保障社会团结与公共教育权益的有为干预型民主国家理想 (Freire, 2000, pp. 89–92; Freire, 2004b, p. 24; Darwish, 2009, pp. 58–60)。
 
@@ -499,7 +499,7 @@ related_persons:
 > [[Conscientization|批判意识觉醒]]是指个体从朴素被动觉察跃升为批判意识。学习者深刻觉察到自己所处的压迫境遇并非自然宿命或神圣意旨，而是历史地构筑的社会产物；该觉醒要求个体承担起解构不公的**道德责任与认识论责任（epistemic responsibility）(Freire, 2000, p. 35; Darwish, 2009, p. 48, p. 54 注脚63)**。
 
 > [!claim] 核心命题：实践（Praxis）是反思与变革行动的不可分割统一
-> 弗莱雷断言，脱离实践的探究无法令人成为真正完整的人（*ser mais*） (Freire, 2000, p. 72; p. 52 注脚60)。**[[Praxis|实践]]（Praxis）** 被严密定义为：改变世界的反思与行动之统一（*reflection and action upon the world in order to transform it*） (Freire, 2000, p. 51; Darwish, 2009, p. 48, p. 61)。
+> 弗莱雷断言，脱离实践的探究无法令人成为真正完整的人（*ser mais*） (Freire, 2000, p. 72; p. 52 注脚60)。**实践（Praxis）** 被严密定义为：改变世界的反思与行动之统一（*reflection and action upon the world in order to transform it*） (Freire, 2000, p. 51; Darwish, 2009, p. 48, p. 61)。
 > - **二元病态二分：**
 >   1. **言语主义 / 空谈（Verbalism / Sacrifice of Action）** 只有理性觉察或口头批评而缺乏具体的变革行动，导致批判退化为无意义的文字游戏 (Freire, 2000, p. 87; p. 48)。
 >   2. **盲动主义 / 盲动（Activism / Sacrifice of Reflection）** 只有盲目的冲动行动而缺乏理智反思与策略规划，不仅无法摧毁压迫，反而容易被霸权力量利用或反噬 (Freire, 2000, p. 87; p. 48)。
@@ -582,7 +582,7 @@ related_persons:
 #### 章节概述
 
 > [!chapter-arc] 主动学习评估与课程整合线索
-> 将杜威的[[Educative Experience|教育性经验]]（Ch3）与弗莱雷的[[Problem-Posing Education|提问式教育]]及[[Praxis|实践]]（Ch4）作为双重理论标尺，对[[International Baccalaureate|国际文凭组织]]（IBO）的哲学与《知识论》（TOK）课程指南展开全面的认识论评估。通过建立作为产物、作为过程与作为实践的三大课程范式，肯定了 TOK 课程在以认识者为中心和促进反思性探究上的过程模式成就，但同时指出了其缺乏真实社会变革行动（[[Praxis|Praxis]]）的致命断层，最终提出了整合杜威与弗莱雷思想的主动学习三位一体模型 (Darwish, 2009, pp. 64–84)。
+> 将杜威的[[Educative Experience|教育性经验]]（Ch3）与弗莱雷的[[Problem-Posing Education|提问式教育]]及实践（Ch4）作为双重理论标尺，对[[International Baccalaureate|国际文凭组织]]（IBO）的哲学与《知识论》（TOK）课程指南展开全面的认识论评估。通过建立作为产物、作为过程与作为实践的三大课程范式，肯定了 TOK 课程在以认识者为中心和促进反思性探究上的过程模式成就，但同时指出了其缺乏真实社会变革行动（[[Praxis|Praxis]]）的致命断层，最终提出了整合杜威与弗莱雷思想的主动学习三位一体模型 (Darwish, 2009, pp. 64–84)。
 
 #### 核心论点结构
 
@@ -597,7 +597,7 @@ related_persons:
 >   建立在人文主义与亚里士多德[[Phronesis|实践明智]]（*Phronesis*）的理性之上 (Stenhouse, 1975; Peters, 1966)。课程不预设固定的行为结果，而是提供探究与对话的过程原则（procedural principles）。师生在开放探究中共同审议与重构知识，教师作为高级研究者与学生建立共同认识的伙伴关系 (Stenhouse, 1975, p. 84; Darwish, 2009, pp. 65–67)。
 > 
 > - **三、[[Curriculum as Praxis|作为实践的课程]]（Curriculum as Praxis）**
->   建立在[[Critical Theory|批判理论]]与弗莱雷[[Praxis|实践]]（*Praxis*）的解放理性之上 (Grundy, 1987; Freire, 2000)。作为过程课程的批判性深化，该范式要求课程做出**显性的政治解放承诺（commitment to emancipation）**。探究不能停留在课堂内部的口头讨论，而必须转化为觉醒批判意识并改变社会不公与压迫结构的实质行动（[[Praxis|Praxis]]） (Grundy, 1987, p. 102; Darwish, 2009, pp. 67–71)。
+>   建立在[[Critical Theory|批判理论]]与弗莱雷实践（*Praxis*）的解放理性之上 (Grundy, 1987; Freire, 2000)。作为过程课程的批判性深化，该范式要求课程做出**显性的政治解放承诺（commitment to emancipation）**。探究不能停留在课堂内部的口头讨论，而必须转化为觉醒批判意识并改变社会不公与压迫结构的实质行动（[[Praxis|Praxis]]） (Grundy, 1987, p. 102; Darwish, 2009, pp. 67–71)。
 
 ---
 
@@ -626,7 +626,7 @@ related_persons:
 >   TOK 课程指南止步于鼓励学生在课堂上口头讨论与理性反思种族主义、贫困、性别不平等等全球性议题，但**完全没有要求或引导学生采取任何改变这些不公结构的实际变革行动（[[Praxis|Praxis]]）** (Darwish, 2009, p. 79)。
 > 
 > - **退化为[[Verbalism|言语主义]]（Verbalism / Idle Chatter）**
->   缺乏[[Praxis|实践]]行动的批判思考与课堂对话，必然沦为弗莱雷所警告的**[[Verbalism|言语主义]]（Verbalism）** 一种象牙塔内的口头文字游戏与学术辩论赛。这种只有口头批评而无实质社会行动的假对话，客观上保护了现存的不公秩序 (Freire, 2000, p. 87; Darwish, 2009, p. 81)。
+>   缺乏实践行动的批判思考与课堂对话，必然沦为弗莱雷所警告的**[[Verbalism|言语主义]]（Verbalism）** 一种象牙塔内的口头文字游戏与学术辩论赛。这种只有口头批评而无实质社会行动的假对话，客观上保护了现存的不公秩序 (Freire, 2000, p. 87; Darwish, 2009, p. 81)。
 > 
 > - **未做出显性解放承诺（No Commitment to Emancipation）**
 >   与[[Curriculum as Praxis|作为实践的课程]]相比，IBO 官方哲学倾向于维持一种技术官僚式的政治中立姿态，未能明确承诺对抗[[Dehumanization|非人性化]]与结构性压迫，导致其主动学习宣称流于表面 (Darwish, 2009, pp. 80–82)。
@@ -645,7 +645,7 @@ related_persons:
 >   以弗莱雷的[[Dialogue in Education|对话]]为中介，消解教师-学生支配权威，建立基于爱、谦逊与[[Epistemic Responsibility|认识论责任]]的横向伙伴关系，克服[[Narration Sickness|叙事病]]。
 > 
 > - **维度三：解放实践（Freire: Critical Conscientization & Praxis）**
->   以弗莱雷的[[Conscientization|批判意识觉醒]]与[[Praxis|实践]]为归宿，将理智觉察转化为改变社会不公与[[Dehumanization|非人性化]]结构的实质行动，最终实现人类的公共福祉（Common Good / Human Flourishing）。
+>   以弗莱雷的[[Conscientization|批判意识觉醒]]与实践为归宿，将理智觉察转化为改变社会不公与[[Dehumanization|非人性化]]结构的实质行动，最终实现人类的公共福祉（Common Good / Human Flourishing）。
 
 ---
 

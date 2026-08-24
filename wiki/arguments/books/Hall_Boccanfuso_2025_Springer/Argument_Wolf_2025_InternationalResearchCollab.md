@@ -97,7 +97,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 采用[[Praxis|实践]]导向的综述与案例分析，非实证研究。方法包括：
+> 采用实践导向的综述与案例分析，非实证研究。方法包括：
 > - 对国际 UI 合作[[Document|文献]]和行业报告（美国公立与赠地大学协会 APLU、[[University Industry Demonstration Partnership|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP）、Elsevier 等）的综合梳理
 > - 一手实践经验来源于 Mars（Wolf and Stevenson 所属机构）与 UC Davis（Siegel 所属机构）四十年的合作积累
 > - 三个[[Case Study|案例研究]]：水稻干湿交替灌溉（Alternate Wetting and Drying, AWD）、[[African Orphan Crops Consortium|非洲孤儿作物联盟]]（African Orphan Crops Consortium, AOCC）、[[Innovation Institute for Food and Health|食品与健康创新研究所]]（Innovation Institute for Food and Health, IIFH）
@@ -148,7 +148,7 @@ citation_aliases:
 >
 > 地缘政治的影响呈现明显的地域集中性。欧洲和北美大学的全球研究联系受到的限制大于拉丁美洲、加勒比、非洲和中东地区的大学，不同地区的研究者面对的"合作自由度"存在结构性差异。
 >
-> [[Nagoya Protocol|名古屋议定书]](2014)提供了另一种地缘政治维度的例证：各国对境内遗传资源拥有主权控制，利用这些资源产生的惠益须与来源国公平分享。但各国立法和[[Praxis|实践]]不统一，行政程序复杂。它不直接禁止合作，但要求合作必须以合规为前提。
+> [[Nagoya Protocol|名古屋议定书]](2014)提供了另一种地缘政治维度的例证：各国对境内遗传资源拥有主权控制，利用这些资源产生的惠益须与来源国公平分享。但各国立法和实践不统一，行政程序复杂。它不直接禁止合作，但要求合作必须以合规为前提。
 
 ---
 
