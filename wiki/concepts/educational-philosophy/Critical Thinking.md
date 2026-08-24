@@ -8,10 +8,10 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 45
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/critical-thinking
   - theme/curriculum
@@ -19,13 +19,16 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Humility in Learning]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Creativity]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Epistemological Understanding]]"
   - "[[Reflective Thinking]]"
-  - "[[Praxis]]"
+  - "[[Cooperative Learning]]"
+  - "[[Academic Achievement]]"
+  - "[[Heterogeneity]]"
   - "[[Operationalization]]"
   - "[[Knowledge Questions]]"
   - "[[Construct Validity]]"
@@ -34,16 +37,19 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
-  - "[[Heterogeneity]]"
+  - "[[Publication Bias]]"
   - "[[Evaluativist]]"
   - "[[Multiplist]]"
   - "[[IB Diploma Programme]]"
   - "[[Questionnaire]]"
   - "[[Extended Essay]]"
+  - "[[Constructivist Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Deanna Kuhn]]"
@@ -55,6 +61,7 @@ related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Cole_2015_AJE]]"
+  - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
 related_instruments:
@@ -84,7 +91,7 @@ updated: 2026-08-16
 > [!boundary]- 概念边界
 > - **否定与怀疑** 只有在提出理由、检查证据并形成可辩护判断时，才构成批判性思维。
 > - **纯形式推理** 三段论和数学演绎处理形式有效性；批判性思维把理由权衡扩展到证据、语境、价值与行动。
-> - **高阶思维** 修订版 Bloom 分类法中的分析、评价和创造与批判性思维重叠，但该分类法覆盖更广泛的学习目标。
+> - **[[Higher-Order Thinking Skills|高阶思维]]** 修订版 Bloom 分类法中的分析、评价和创造与批判性思维重叠，但该分类法覆盖更广泛的学习目标。
 > - **创造与问题解决** 部分框架将二者纳入构念，部分框架将其置于边缘，因此应在具体研究中明确操作性边界。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 32–35)]]
 
 ---
@@ -92,7 +99,7 @@ updated: 2026-08-16
 ## 概念辨析
 
 > [!contrast-table] 相近思维[[Construct|构念]]
-> | 维度 | 批判性思维 | 纯形式推理 | 高阶思维 | [[Creativity\|创造性]]思维与问题解决 |
+> | 维度 | 批判性思维 | 纯形式推理 | [[Higher-Order Thinking Skills\|高阶思维]] | [[Creativity\|创造性]]思维与问题解决 |
 > |---|---|---|---|---|
 > | **核心对象** | 知识主张、证据、论证、判断与行动 | 命题形式及推导有效性 | 超越记忆和理解的复杂认知活动 | 新方案、问题表征与可行解法 |
 > | **典型过程** | 解释、分析、评价、推论、说明、自我调节 | 演绎、证明、检验一致性 | 应用、分析、评价、创造 | 发散、重构、生成、试验与修正 |
@@ -182,7 +189,10 @@ updated: 2026-08-16
 > **显性教学优势** Abrami 等人汇总 117 项研究和 20,698 名参与者，发现显性教学条件下的批判性思维增益最大，隐性融入条件的效果较小，教师接受专门培训且教学受到评估时获益最高。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials|随机对照实验]]也发现，显性教学组的技能增益更大。两组证据支持把思维过程直接示范、练习和反馈作为教学设计的核心。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]]
 
 > [!claim] Willingham, D. T.; Bailin, S.; Cole, D. R., et al.
-> **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole 等人的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂[[Praxis|实践]]。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250, 255–259)]]
+> **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole 等人的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250, 255–259)]]
+
+> [!claim] [[Argument_Gungor_2026_CP|Güngör, F., et al.]]
+> **同伴互动与社会建构赋能** [[Meta-meta-analysis|二阶元分析]]表明，[[Cooperative Learning|合作学习]]（Cooperative Learning，CL）对涵盖批判性思维的[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）具有强劲的促进效应（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），高于常规[[Academic Achievement|学业成就]]（$ES = 0.71$）与情感行为（$ES = 0.51$）。其核心机制在于[[Heterogeneity|异质性]]同伴在面对面互动中必须阐明推理依据、处理认知冲突并协商达成共识，从社会交往层面直接激发了深度批判性反思。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]
 
 ### 命题三　批判性思维的迁移来自通用结构与具体情境的动态结合
 
@@ -249,12 +259,15 @@ updated: 2026-08-16
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段<br>Y12 与 Y11 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | Y12 $n = 622$<br>Y11 $n = 620$ | Y12 $M = 4.85$，$SD = 1.05$<br>Y11 $M = 4.62$，$SD = 1.08$ | Hedges' $g = 0.216$（派生） | $t(1240) = 3.04$<br>$p < .001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
 > | 同上 | ToK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | Y12 $n = 622$<br>Y11 $n = 620$ | Y12 $M = 4.69$，$SD = 1.15$<br>Y11 $M = 4.48$，$SD = 1.22$ | Hedges' $g = 0.177$（派生） | $t(1240) = 3.04$<br>$p < .01$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
+> | Siagian et al. (2023) | [[Cooperative Learning\|合作学习]] vs 传统讲授 | 数学批判性与[[Creativity\|创造性思维]]技能 | 35 项与 24 项实证研究 | 实验组显著优于对照组 | $ES = 0.79$ 与 $ES = 0.69$ | 统计学显著 | 基础教育阶段准实验与全实验混合设计 |
+> | Özkan & Çetinkaya-Uslusoy (2024) | 拼图法（Jigsaw）vs 常规教学 | 护理临床批判性思维 | 4 项实证研究 | 实验组批判性思维显著提升 | $ES = 0.70$ $[0.13, 1.26]$ | 统计学显著 | 高等教育护理情境，全实验与[[Quasi-Experimental Designs\|准实验设计]] |
 
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Higher-Order Thinking Skills\|高阶思维技能]]（包含批判性思维与创造性思维） | 4 项一阶元分析 / 403 项原始实证研究 | Cohen's $d$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]]经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$ | 高，失安全系数 $N = 4954$ 与剪补法证实无发表偏倚 |
 > | [[Argument_Cole_2015_AJE\|Abrami et al. (2008)]] | 批判性思维技能 | 117 / 20,698 | — | — | — | — |
 >
 > 现有 Argument 仅记录研究数量、总样本和条件方向。效应指标、汇总效应、异质性及证据确定性需在处理元分析原文后回填。
@@ -264,8 +277,18 @@ updated: 2026-08-16
 >
 > | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学习产出类型 | 亚组分析 | 高阶思维技能效应最大（$ES = 0.76$），高于学业成就（$ES = 0.71$）与情感行为（$ES = 0.51$） | $ES = 0.76$ $[0.42, 1.11]$ | $Q_b(3) = 4.35, p = .23$ | 预设 | 各亚组间置信区间部分重叠，但点估计表明对高阶认知的优先赋能 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | 亚组分析 | 合作整合阅读与写作 CIRC（$ES = 2.04$）与小组调查法（$ES = 1.08$）最高 | $ES = 2.04$ vs $ES = 1.08$ vs $ES = 0.72$ | $Q_b(3) = 9.36, p = .02$ | 预设 | CIRC 仅有一项元分析支撑，需审慎推断 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Blue Skies Research\|基础研究]]实验设计 | 亚组分析 | 真实课堂准实验（$ES = 1.11$）显著高于实验室全实验（$ES = 0.00$） | $ES = 1.11$ $[0.72, 1.50]$ | $Q_b(2) = 9.83, p = .01$ | 预设 | 揭示了合作学习依赖自然班级文化的长周期[[Ecological Validity\|生态效度]] |
 > | [[Argument_Cole_2015_AJE\|Abrami et al. (2008)]] | 教学路径 | 亚组分析 | 显性教学条件较大，隐性融入条件较小 | — | — | — | 当前为 Cole 等人的转述，需回查元分析原文 |
 > | 同上 | 教师培训与教学评估 | 亚组分析 | 教师接受专门培训且教学受到评估时较大 | — | — | — | 当前为 Cole 等人的转述，需回查元分析原文 |
+
+> [!ma-table]- 稳健性与偏倚
+> <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>
+>
+> | 元分析 | 敏感性分析 | [[Publication Bias\|发表偏倚]]方法 | 校正后效应 | 结论是否改变 | 风险说明 |
+> |---|---|---|---|---|---|
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 异质性方差检验（$\tau^2 = 0.13$） | 失安全系数、Egger 回归与剪补法（DTTF） | 加权平均 $ES = 0.71$（剪补法未补入虚拟研究） | 结论方向高度稳健 | 失安全系数 $N = 4954$ 远超阈值 125，Egger 检验 $t = 2.08, p = .05$ 无显著偏倚 |
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -285,7 +308,7 @@ updated: 2026-08-16
 > > 争论集中于批判性思维能否稳定跨学科迁移，以及领域知识在新任务中承担多大作用。
 > >
 > > - **Halpern、Bassok and Holyoak、Salomon and Perkins** 强调能够跨情境调用的认知结构和迁移训练。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, p. 34)]]
-> > - **Schoenfeld and Herrmann、Bereiter and Scardamalia、Glaser、Lave** 强调专业知识、学科规范和情境[[Praxis|实践]]对思维表现的塑造。同上
+> > - **Schoenfeld and Herrmann、Bereiter and Scardamalia、Glaser、Lave** 强调专业知识、学科规范和情境实践对思维表现的塑造。同上
 > > - **Ritchhart and Perkins** 将二元争论修正为通用结构与具体情境之间复杂而动态的关系。同上
 >
 > > [!axis] 问题解决与创造的构念位置
@@ -318,3 +341,4 @@ updated: 2026-08-16
 > - **跨情境迁移与评估困境** [[Argument_Bergeron_2015_TeachingTOK|Bergeron (2015)]] 证实了独立探究课程对学生其他学科和未来学业产生的批判性思维“溢出效应”，并揭示了其实操评估的主观性痛点。
 > - **术语表演与议程冲突** [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] 分析 ToK 评估框架如何诱发术语表演，并揭示开放探究与科学知识传播之间的课程张力。
 > - **[[Epistemology|认识论]]引擎** [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] 揭示了批判性思维不仅仅是一套认知技能，其发生的动机和动力受制于个体的底层认识论发展阶段。
+> - **[[Cooperative Learning|合作学习]]与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 基于 15 项一阶[[Meta-analysis|元分析]]开展二阶元分析，证实合作学习对批判性思维等[[Higher-Order Thinking Skills|高阶思维技能]]具有最强的赋能效应（$ES = 0.76$），从[[Constructivist Paradigm|社会建构主义]]视角确立了同伴互动与认知冲突对批判性反思的驱动机制。

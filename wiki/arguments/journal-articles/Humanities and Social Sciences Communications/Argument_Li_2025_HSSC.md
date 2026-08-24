@@ -41,12 +41,12 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Research Scope]]"
   - "[[PISA Literacy]]"
+  - "[[Creativity]]"
   - "[[Evidence-Based Education]]"
   - "[[School Autonomy]]"
   - "[[Performance Indicators]]"
   - "[[Academic Achievement]]"
   - "[[Scientific Literacy]]"
-  - "[[Praxis]]"
   - "[[Active Learning]]"
   - "[[Interaction Effect]]"
   - "[[Knowledge-Based Economy]]"
@@ -216,7 +216,7 @@ issuing_organization: ""
 > - **接受新自由主义教育价值并增加教育支出**
 >   德国和法国在 PISA 冲击后大幅增加教育投入。德国社会在 2000 年 PISA 结果公布时受到冲击：从 1970 年代到 2000 年代初，德国未能创造人力资本，用 OECD 的话说，剥夺了大部分学生获得最佳工作回报所需学术素质的机会（Martens & Niemann, 2013）。PISA 将教育主题直接推上政策议程，强化了政策制定者弥补绩效缺陷的行动。
 > - **接受能力和素养概念**
->   日本在 2003 年 PISA 结果公布后，于 2004 年将 [[PISA Literacy|PISA素养]]正式纳入国家教育政策的核心目标。PISA素养聚焦高阶能力：问题解决、知识应用、创造性工作和知识回忆（Ninomiya, 2019），为日本教育带来了与以往学力理解不同的新含义。
+>   日本在 2003 年 PISA 结果公布后，于 2004 年将 [[PISA Literacy|PISA素养]]正式纳入国家教育政策的核心目标。PISA素养聚焦高阶能力：问题解决、知识应用、[[Creativity|创造性]]工作和知识回忆（Ninomiya, 2019），为日本教育带来了与以往学力理解不同的新含义。
 > - **影响[[Reference Society|参考社会]]选择**
 >   韩国在 PISA 之前长期默然借用（silently borrowing）日本教育政策。PISA 2009 后，韩国将注意力转向 2003 年排名领先的芬兰（Kim & Choi, 2023）。PISA 排名直接重塑了各国政策借鉴的方向。
 > - **加强国际合作**
@@ -249,7 +249,7 @@ issuing_organization: ""
 
 > [!dimension] 微观决策层面的两种表现
 > - **课程改革**
->   德国基于 PISA 结果的课程改革话语围绕学生如何将知识和技能应用于解决多种情境中的相关问题。知识掌握不再被视为判断学业成功的关键指标；学生通过课程学习获得的学习能力成为课程评价的焦点。Neumann et al.（2010）详细讨论了 PISA 对德国科学教育的影响：PISA 是德国 **NES 课程（Nationale Bildungsstandards，国家教育标准）**建设的基础，NES 纳入了 PISA 测试框架中的[[Scientific Literacy|科学素养]]概念，包括理解与[[Praxis|实践]]与科学相关的情境，特别强调科学在日常生活中的关键角色。
+>   德国基于 PISA 结果的课程改革话语围绕学生如何将知识和技能应用于解决多种情境中的相关问题。知识掌握不再被视为判断学业成功的关键指标；学生通过课程学习获得的学习能力成为课程评价的焦点。Neumann et al.（2010）详细讨论了 PISA 对德国科学教育的影响：PISA 是德国 **NES 课程（Nationale Bildungsstandards，国家教育标准）**建设的基础，NES 纳入了 PISA 测试框架中的[[Scientific Literacy|科学素养]]概念，包括理解与实践与科学相关的情境，特别强调科学在日常生活中的关键角色。
 > - **学制调整**
 >   瑞士通过 HarmoS 协调了国家教育结构，将义务教育从 9 年延长至 11 年（2006 年），并扩展了学校体系以对接 PISA 测试周期标准（Bieber & Martens, 2011）。
 
@@ -412,7 +412,7 @@ issuing_organization: ""
 > 当前研究主要集中在欧洲国家，综述无法准确反映其他地区和国家的全球情况。这种区域局限性阻碍了对 [[PISA]] 在全球尺度上影响的全面理解。
 
 > [!warning] 文化偏见
-> 各国在选择[[Reference Society|参考社会]]和外部政策参考过程中存在文化偏见。上海的高 PISA 分数引发了西方国家关注亚洲教育[[Praxis|实践]]，但这些国家可能仍受文化偏见影响，倾向于在非东方文化背景中寻找参考对象。研究 PISA 效应和全球教育改革时，需要认真考虑区域差异和文化因素的影响。
+> 各国在选择[[Reference Society|参考社会]]和外部政策参考过程中存在文化偏见。上海的高 PISA 分数引发了西方国家关注亚洲教育实践，但这些国家可能仍受文化偏见影响，倾向于在非东方文化背景中寻找参考对象。研究 PISA 效应和全球教育改革时，需要认真考虑区域差异和文化因素的影响。
 
 > [!warning] PISA 影响的难以孤立性
 > 在欧洲尤其难以将 PISA 的影响从欧盟委员会日益频繁和重要的倡议中分离出来。[[OECD]] 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。

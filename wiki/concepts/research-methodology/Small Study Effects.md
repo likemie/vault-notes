@@ -8,7 +8,7 @@ aliases:
 summary: "指元分析中小样本研究系统性报告比大样本研究更大效应量的经验现象，源于发表偏倚、方法学质量差异与小样本过度拟合等多重偏倚机制。"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,13 +23,13 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
-  - "[[Confidence Interval]]"
   - "[[Presence]]"
   - "[[Sampling Error]]"
   - "[[Literature Search]]"
   - "[[Blinding]]"
   - "[[Heterogeneity]]"
   - "[[Creativity]]"
+  - "[[Confidence Interval]]"
   - "[[Construct]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Second-Order Meta-Regression]]"
   - "[[Cohort Study]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Inverse-Variance Weighting]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Systematic Review]]"
 related_arguments:
@@ -69,7 +70,7 @@ updated: 2026-08-24
 > [!citation-card]- 关键表述
 > 采用基于 [[Robust Variance Estimation|RVE]] 的改进多水平艾格回归检验潜在发表偏倚并检验小研究效应……截距项统计显著（p = .002），表明存在小研究效应；经偏倚校正后的二阶效应量为 0.17。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 6)]]
 >
-> *We adopted a modified multilevel Egger's regression with RVE to examine potential publication bias... The intercept, representing the bias-corrected second-order effect size, was statistically significant (r = .17, 95% [[Confidence Interval|CI]] [.11, .22]). The slope was also significant, F(1, 10.9) = 15.7, p = .002, indicating the [[Presence]] of small-study effects.*
+> *We adopted a modified multilevel Egger's regression with RVE to examine potential publication bias... The intercept, representing the bias-corrected second-order effect size, was statistically significant (r = .17, 95% CI [.11, .22]). The slope was also significant, F(1, 10.9) = 15.7, p = .002, indicating the [[Presence]] of small-study effects.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Publication Bias|发表偏倚]] — 发表偏倚（未发表阴性结果）仅是导致小研究效应的主因之一；小研究中干预执行更密集、被试依从性更高或方法学质量偏低同样会产生小研究效应。

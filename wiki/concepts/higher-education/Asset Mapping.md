@@ -5,7 +5,7 @@ aliases:
 summary: "产学合作中系统梳理区域内利益相关者优势与需求的实践方法，本质为真实的关系建立，是 TUFF 创新中心六项优先领域之一，与创业活动相互强化"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,7 +16,6 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Praxis]]"
   - "[[Innovation Hub]]"
   - "[[Dialogue in Education]]"
   - "[[Questionnaire]]"
@@ -43,7 +42,7 @@ updated: 2026-05-28
 ## 定义
 
 > [!info]
-> 资产映射（Asset Mapping）在[[University-Industry Collaboration|产学合作]]语境中，指系统地梳理和认识区域内各利益相关者（大学各部门、企业、政府机构、投资者、创业支持组织等）及其各自优势的[[Praxis|实践]]方法。其实质是真实的关系建立（authentic relationship building）——创建一个强大而分散的合作伙伴网络，深入理解各方的优势、需求和优先事项([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.126]])。
+> 资产映射（Asset Mapping）在[[University-Industry Collaboration|产学合作]]语境中，指系统地梳理和认识区域内各利益相关者（大学各部门、企业、政府机构、投资者、创业支持组织等）及其各自优势的实践方法。其实质是真实的关系建立（authentic relationship building）——创建一个强大而分散的合作伙伴网络，深入理解各方的优势、需求和优先事项([[Argument_Byrne_2025_InnovationCenters|Byrne & Clements, 2025, p.126]])。
 
 [[TUFF]] 将其列为[[Innovation Hub|创新中心]]建设的六项优先领域之一。资产映射的操作方式是与每个利益相关者坐下来[[Dialogue in Education|对话]]，而非依赖填表格或[[Questionnaire|问卷调查]]——因为填表能收集数据，却无法建立信任。通过持续对话来建立理解和信任，资产映射成为后续所有产学合作活动的基础（p.126）。
 
@@ -64,7 +63,7 @@ updated: 2026-05-28
 > **与创业的相互强化** 创业和资产映射是相互强化的活动。理解现有资产和缺口本身就是创业者的核心能力——创业即用有限资源解决真实问题。系统化的资产映射则为更多创业者提供了清晰的资源视图，降低了进入门槛（p.126）。
 
 > [!abstract]
-> **文化建设与自我评估** 资产映射作为文化建设（culture-building）的工具，通过持续倾听和向社区学习，帮助[[Innovation Hub|创新中心]]建立自我评估的[[Praxis|实践]]——不断衡量自身是否满足了多元利益相关者的需求，促进开放心态的创新与合作，避免大型大学或区域伙伴中因利益分歧而产生的自然摩擦（p.127）。
+> **文化建设与自我评估** 资产映射作为文化建设（culture-building）的工具，通过持续倾听和向社区学习，帮助[[Innovation Hub|创新中心]]建立自我评估的实践——不断衡量自身是否满足了多元利益相关者的需求，促进开放心态的创新与合作，避免大型大学或区域伙伴中因利益分歧而产生的自然摩擦（p.127）。
 
 > [!abstract]
 > **意向性空间布局与活动设计** 成功的创新中心对物理布局和活动设计做出有意识的选择。物理空间的安排应有意识地鼓励看似无关的学科相互接触——例如将工程实验室和商学院创业中心放在同一楼层、共用咖啡区。产学合作实践者一致报告，这些[[Placemaking|场所营造]]和文化建设活动对他们的成功至关重要，也是他们决定入驻园区的关键考量之一（p.127）。协调的沟通配合物理密度，能够促成更自然的偶然相遇（serendipity）和协作。

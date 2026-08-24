@@ -35,41 +35,41 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Praxis]]"
+  - "[[Fade-out Effect]]"
   - "[[Construct Validity]]"
   - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
+  - "[[Multimethod Research]]"
   - "[[Causality]]"
+  - "[[Praxis]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Hypothesis]]"
   - "[[Internal Validity]]"
   - "[[Attrition]]"
-  - "[[Fade-out Effect]]"
-  - "[[Complier Average Causal Effect]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Operationalization]]"
   - "[[Peer-Supported Learning]]"
   - "[[Effect Size]]"
   - "[[Clinical Trial]]"
+  - "[[Iatrogenic Effects in Education]]"
   - "[[Literature Search]]"
   - "[[Direct Instruction]]"
+  - "[[Complier Average Causal Effect]]"
   - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Manipulation Check]]"
   - "[[Statistical Significance]]"
   - "[[Abstract]]"
   - "[[Sample Size Determination]]"
+  - "[[Evaluator Independence]]"
   - "[[Publication Bias]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
-  - "[[Extended Essay]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[Iatrogenic Effects in Education]]"
-  - "[[Evaluator Independence]]"
   - "[[School Leadership]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -78,8 +78,8 @@ related_methods:
   - "[[Multitrait-Multimethod Matrix]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Regression Discontinuity Design]]"
   - "[[Experimental Research]]"
+  - "[[Regression Discontinuity Design]]"
   - "[[Time Series Design]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Cluster Randomized Trials]]"
@@ -128,7 +128,7 @@ updated: 2026-08-22
 > 2. **评级结论收敛性** 不同证据清算中心（CH）对同一教育项目的有效性评级在多大程度上达成共识？
 > 3. **评级分歧解释源** 当评级发生冲突时，纳入研究差异、同名项目变体、评估结果域差异、以及证据方法学标准（尤其是独立复制与长期[[Fade-out Effect|持续效果]]）这四种机制中，哪些起主导解释作用？(pp. 4–5)
 >
-> 总体目标是从教育科学[[Praxis|实践]]的制度语境出发，检验“基于证据（evidence-based）”这一概念的 [[Construct Validity|构念效度]] 与 [[Reliability|可靠性]]：如果清算中心声称能识别并传播关于教育干预因果效应的可靠知识，那么不同清算中心对同一项目的有效性评级至少应具备高度收敛性(p. 4)。
+> 总体目标是从教育科学实践的制度语境出发，检验“基于证据（evidence-based）”这一概念的 [[Construct Validity|构念效度]] 与 [[Reliability|可靠性]]：如果清算中心声称能识别并传播关于教育干预因果效应的可靠知识，那么不同清算中心对同一项目的有效性评级至少应具备高度收敛性(p. 4)。
 
 > [!claim] 核心主张
 > 在当前教育清算中心体系中，“基于证据”作为一项实践[[Construct|构念]]仅具有有限的 [[Construct Validity|构念效度]]（limited practical construct validity）。评级高度不一致的核心原因并非传统因果识别偏好（各中心均高度推崇[[Randomised Controlled Trials|随机对照试验]] [Randomized Controlled Trial, RCT]），而是根源于证据综合门槛的分歧（是否要求独立复制、跨地点复制与 6–12 个月持续效果）以及纳入[[Document|文献]]集的悬殊差异。识别“基于证据”的干预目前仍更多是一种政策愿景，而非可靠的研究实践(pp. 3, 26–27)。
@@ -480,7 +480,7 @@ updated: 2026-08-22
 ## 关键引用
 
 > [!citation-card]- 循证评级的政策愿景与现实差距
-> 识别“基于证据”的干预措施仍然更多地是一种政策愿景，而不是一种可靠的研究[[Praxis|实践]]。(p. 3)
+> 识别“基于证据”的干预措施仍然更多地是一种政策愿景，而不是一种可靠的研究实践。(p. 3)
 >
 > *Identifying “evidence-based” interventions is still more of a policy aspiration than a reliable research practice.*
 
@@ -499,7 +499,7 @@ updated: 2026-08-22
 ## 自述局限
 
 > [!warning]
-> 1. **未考察政策制定者的实际使用行为** 论文未追踪[[School Leadership|学校领导]]与政策制定者在实际采购和项目采纳过程中如何使用清算中心评级，无法实证评估评级不一致对实际教育[[Praxis|实践]]造成的具体损害程度(p. 28)。
+> 1. **未考察政策制定者的实际使用行为** 论文未追踪[[School Leadership|学校领导]]与政策制定者在实际采购和项目采纳过程中如何使用清算中心评级，无法实证评估评级不一致对实际教育实践造成的具体损害程度(p. 28)。
 > 2. **结论适用范围局限于认证类清算中心** 研究仅覆盖以“认证干预有效性”为核心任务的清算中心，不能直接推广至仅承担知识经纪、证据中介或不发布有效性等级的其他证据机构(pp. 28–29)。
 > 3. **依赖公开网络文档与手册** 分析完全基于清算中心公开发布的网页信息、标准指南与技术手册；若机构内部存在未公开的实际评审裁决规则，本研究无法对其进行捕获与评估(p. 29)。
 > 4. **动态生态的时间切片局限** 数据收集集中于 2019 年 6 月至 2020 年 8 月，清算中心的评审协议、纳入[[Document|文献]]与网站架构随时间处于动态演进之中，各中心吸纳最新方法学标准的速度亦存在异步性。

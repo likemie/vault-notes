@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Visible Learning]]"
+  - "[[Problem Finding]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -278,7 +279,7 @@ Blass 的审查同样需要边界说明。她只抽查了探究式教学和 PBL 
 > [!case] 问题结构与教师支持的实施边界
 > 一门面向新手的课程若直接给出高度开放的问题，学生可能因知识不足而加入无关材料、形成错误模型，并从未知条件逆向推理。课程若把每个步骤、资料来源和正确路径都预先规定，学生又无法练习搜索概念工具、比较解释和选择应用方案。
 >
-> 教师需要根据学生当前知识调整支架。初期可以提供必要概念、资料范围和检查点，随后逐步释放问题界定、检索和方案选择的责任。教师还要持续追踪小组探索方向，发现知识错误并组织反馈。PBL 的开放性因此是一项随学习进展调整的设计[[Variable|变量]]。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]；[[Argument_Blass_2020_JESP|Blass (2020, p. 95)]]
+> 教师需要根据学生当前知识调整支架。初期可以提供必要概念、资料范围和检查点，随后逐步释放[[Problem Finding|问题界定]]、检索和方案选择的责任。教师还要持续追踪小组探索方向，发现知识错误并组织反馈。PBL 的开放性因此是一项随学习进展调整的设计[[Variable|变量]]。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 85–86)]]；[[Argument_Blass_2020_JESP|Blass (2020, p. 95)]]
 
 ---
 

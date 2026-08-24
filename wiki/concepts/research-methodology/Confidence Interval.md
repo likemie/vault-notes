@@ -2,7 +2,6 @@
 title: Confidence Interval
 aliases:
   - 置信区间
-  - CI
   - confidence level
   - 置信水平
 summary: "围绕点估计给出的可能取值范围，由置信水平和边际误差共同定义，同时服务于抽样设计中的样本量确定和研究报告中估计精度的呈现"
@@ -20,12 +19,12 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Sample Size Determination]]"
+  - "[[Prediction Interval]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Sampling Error]]"
   - "[[Null Hypothesis]]"
   - "[[Standard Error]]"
-  - "[[Praxis]]"
   - "[[Visible Learning]]"
   - "[[School Effectiveness]]"
 related_theories: []
@@ -55,7 +54,7 @@ updated: 2026-06-22
 > [!concept-lens] 概念透镜
 > - **含义** CI 指向估计值的不确定性范围——点估计是单一数值，CI 给出这个数值可能的波动区间。
 > - **用途** 在抽样设计中，CI 帮助确定需要多大的样本才能达到目标精度；在报告中，它让读者看到排名或比较背后的不确定性。
-> - **边界** CI 不等于预测区间；CI 反映的是估计精度而非个体值的散布范围。CI 也不直接等价于显著性检验，尽管区间是否包含零值常被用作显著性判断的替代。
+> - **边界** CI 不等于[[Prediction Interval|预测区间]]；CI 反映的是估计精度而非个体值的散布范围。CI 也不直接等价于显著性检验，尽管区间是否包含零值常被用作显著性判断的替代。
 
 > [!citation-card]- 关键表述
 > 置信区间是希望确保的变异程度或变异范围。例如民调中 ± 3% 意味着若某党获 52% 选票，实际可能在 49%–55% 之间。常规抽样策略使用 95% 置信水平和 3% 置信区间。（第8章，pp.147–148）
@@ -115,7 +114,7 @@ updated: 2026-06-22
 ### CI 在研究报告中的角色
 
 > [!claim] 没有 CI 的排名不可靠
-> 只给点估计的[[Effect Size|效应量]]表不像带有横向误差范围的排名那样呈现估计精度，因此无法知道 $d = 0.71$ 与 $d = 0.72$ 这类相邻值是否有统计上可区分的差异。在面向[[Praxis|实践]]者的证据工具中，CI 常被省略以换取简洁排名，但这种简洁会把估计精度隐藏起来，使排名看起来比实际更确定。[[Argument_Allerup_2015_Paideia|Allerup (2015, pp. 47–48)]]
+> 只给点估计的[[Effect Size|效应量]]表不像带有横向误差范围的排名那样呈现估计精度，因此无法知道 $d = 0.71$ 与 $d = 0.72$ 这类相邻值是否有统计上可区分的差异。在面向实践者的证据工具中，CI 常被省略以换取简洁排名，但这种简洁会把估计精度隐藏起来，使排名看起来比实际更确定。[[Argument_Allerup_2015_Paideia|Allerup (2015, pp. 47–48)]]
 
 > [!claim] 报告标准要求 CI
 > [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]在二级[[Meta-analysis|元分析]]方法要求中明确提出，联合效应量应报告[[Standard Error|标准误]]和 95% CI，并进行显著性检验；缺少这些信息会使排名中的相邻位置无法解释。Hattie 的二级综合通常不进行显著性检验或不给出效应量估计的 CI，对于效应量较小的因素，是否存在效应因此并不清楚。[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, pp. 29–30)]]
@@ -145,7 +144,7 @@ updated: 2026-06-22
 > Hattie 排名仅列出 $d$ 值，未系统报告各干预的 CI/SE，成为 Allerup and Wecker et al. 方法论批评的共同焦点。缺失 CI 意味着读者无法判断相邻排名的差异是真实效应还是估计噪声。
 
 > [!case] [[Rasch Measurement]] 与 [[PISA]]
-> [[PISA]] 等国际评估中的 Rasch 分数排名通常伴随误差区间，能帮助读者避免过度解释相邻排名——这是 CI 在报告[[Praxis|实践]]中的正面案例。[[Argument_Allerup_2015_Paideia|Allerup (2015, pp. 47–48)]]
+> [[PISA]] 等国际评估中的 Rasch 分数排名通常伴随误差区间，能帮助读者避免过度解释相邻排名——这是 CI 在报告实践中的正面案例。[[Argument_Allerup_2015_Paideia|Allerup (2015, pp. 47–48)]]
 
 > [!case] 抽样设计中的 CI-CL 组合
 > 抽样规划中研究者需同时确定置信水平（常用 95%）和置信区间（常用 $\pm 3\%$），两者组合通过 $n = (Z \cdot \sigma / e)^2$ 直接决定所需[[Sample Size Determination|样本量]]。这是 CI 在研究设计阶段（而非报告阶段）的核心应用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen et al. (2011, Ch. 8, pp. 147–148)]]

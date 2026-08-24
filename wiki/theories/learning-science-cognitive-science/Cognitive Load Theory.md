@@ -6,7 +6,7 @@ aliases:
 summary: "John Sweller 提出的学习理论，以工作记忆容量有限为核心前提，主张教学设计应减少外在认知负荷、优化内在认知负荷，以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 19
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -16,7 +16,6 @@ tags:
   - learning-science
 related_concepts:
   - "[[Working Memory]]"
-  - "[[Praxis]]"
   - "[[Theoretical Standpoint]]"
   - "[[Positivism]]"
   - "[[Variable]]"
@@ -52,7 +51,7 @@ updated: 2026-06-16
 ## 理论定位
 
 > [!theory-position] 理论定位
-> 认知负荷理论（Cognitive Load Theory, CLT）由教育心理学家[[John Sweller]]于1988年提出。该理论将人类认知架构（Cognitive Architecture）作为教学设计的出发点，核心前提是人类的[[Working Memory|工作记忆]]（Working Memory）在处理新信息时容量是极其有限的，而长期记忆（Long-term Memory）的容量在[[Praxis|实践]]中是无限的（Sweller, 1988）。
+> 认知负荷理论（Cognitive Load Theory, CLT）由教育心理学家[[John Sweller]]于1988年提出。该理论将人类认知架构（Cognitive Architecture）作为教学设计的出发点，核心前提是人类的[[Working Memory|工作记忆]]（Working Memory）在处理新信息时容量是极其有限的，而长期记忆（Long-term Memory）的容量在实践中是无限的（Sweller, 1988）。
 
 > [!claim] 核心主张
 > 教学设计的主要目标应当是最小化不必要的“外在认知负荷”，以优化“内在认知负荷”，从而腾出有限的工作记忆资源用于“关联认知负荷”，即促进长期记忆中“图式”（Schemas）的建构与自动化（Sweller, 1988）。

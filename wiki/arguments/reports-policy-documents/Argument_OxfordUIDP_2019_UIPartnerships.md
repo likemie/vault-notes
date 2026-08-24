@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 48
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Convergence Research]]"
   - "[[Fourth Industrial Revolution]]"
-  - "[[Praxis]]"
   - "[[Technology Readiness Level]]"
   - "[[Absorptive Capacity]]"
   - "[[Operationalization]]"
@@ -243,7 +242,7 @@ updated: 2026-08-20
 
 > [!line-a] 趋势六：将社会科学和人文学科整合进产学合作
 > 社会科学和人文学科（Social Sciences and Humanities，SSH）研究被视为未被充分利用和经常未被开发的资源。[[National Science Foundation|美国国家科学基金会]]（National Science Foundation，NSF）的 Future of Work at the Human Technology Frontier 项目是 STEM and SSH 学科[[Convergence Research|融合研究]]的典型案例。
-> - **双向价值** SSH 研究者获取企业数据集、更大产业研发资金池、学生实习机会和教育项目合作；企业获得对[[Fourth Industrial Revolution|第四次工业革命]]机遇的更好理解、新商业模式的开发、商业[[Praxis|实践]]的深入洞察（pp.14–15）。
+> - **双向价值** SSH 研究者获取企业数据集、更大产业研发资金池、学生实习机会和教育项目合作；企业获得对[[Fourth Industrial Revolution|第四次工业革命]]机遇的更好理解、新商业模式的开发、商业实践的深入洞察（pp.14–15）。
 > - **加速整合的行动** 大学推动终身教职和晋升中的文化变革、投资安全数据设施；企业增强对 SSH 研究潜在价值的理解、适应新兴社会经济和技术创新挑战；政府更多推动融合研究；专业组织开发和分享 SSH 研究对产业伙伴的价值洞见和有效实践（pp.15–16）。
 > - **权力差异** 必须认识到物理科学和社会科学之间的权力差异——物理科学在学术界和资助者中影响力更大。不应走向"后学科"，而应更好地理解和认识不同学科各自能带来的价值，同时在必要时融合思想和知识。
 

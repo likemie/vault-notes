@@ -28,11 +28,11 @@ related_concepts:
   - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Attrition]]"
-  - "[[Praxis]]"
   - "[[Counterfactual]]"
   - "[[Causality]]"
   - "[[Statistical Significance]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -106,7 +106,7 @@ updated: 2026-08-22
 >    - CIS 组织投入巨资委托全美顶尖政策智库 MDRC 开展了严密的多年期随机试验（Parise et al., 2017）与时间序列研究（Somers & Haider, 2017）。但由于这些成果以智库技术评估报告形式发布、未刊载于同行评审学术期刊，恪守期刊门槛的 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 将其视为“完全不存在”，而包容智库报告的 [[CNCS Evidence Exchange|CNCS EE]] 则据此给予中度支持认证。
 > 2. **组内发展虚假繁荣 vs 对照组自然增长（[[Time Series Design|ITS]] Secular Trends）**
 >    - 在 Somers & Haider (2017) 间断时间序列评估中，CIS 实施校的高中毕业率在干预后确实逐年攀升；然而与未接受干预的平行对照校相比，两者的上升轨迹几乎完全平行（反映了宏观社会与学区政策的自然时间演变）。宽松机构仅关注“组内向好”即判定有效，而严谨机构识别出“未跑赢自然趋势”判定因果效应为零。
-> 3. **[[Praxis|实践]]倡导型平台 vs 严苛计量审查机构的评价哲学对撞**
+> 3. **实践倡导型平台 vs 严苛计量审查机构的评价哲学对撞**
 >    - [[National Dropout Prevention Center|NDPC]] 作为扎根防辍实践界的倡导型平台，倾向于全面采信一线运行经验并给予最高推荐；而 [[What Works Clearinghouse|WWC]]、[[Blueprints for Healthy Youth Development|Blueprints]] 与 [[Social Programs That Work|SPTW]] 等机构坚持严格的[[Counterfactual|反事实]]因果度量，直接导致了同一干预在政策市场上呈现出完全相反的评价光谱。
 
 ---

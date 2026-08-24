@@ -5,7 +5,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，指世界各国人民中间一种比民族主义心态更适合国际合作的普遍心态。在理性主义国际关系传统下，该概念通过跨国教科书去偏见化和客观学校知识构建，成为二战后UNESCO和欧洲比较教育学会（CESE）推进科学治理与和平承诺的认知基础。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Scientific Method]]"
   - "[[Democratic Education]]"
-  - "[[Praxis]]"
   - "[[Lifelong Learning]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
@@ -107,7 +106,7 @@ updated: 2026-07-09
 > [!claim] 齐默恩的论点（1930年代）
 > **教科书去偏见化是消除冲突认知根源的前提** 认为学校知识如果充斥着对邻国的刻板印象与歪曲，将持续制造敌意；必须通过超国家组织的比较审查建构客观的中立历史叙事，方能构建适合合作的多边心态。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 
-> [!claim] 北欧协会的[[Praxis|实践]]（1930年代）
+> [!claim] 北欧协会的实践（1930年代）
 > **区域教科书互审与主体间共识构建** 指出北欧协会等组织的互审实践表明，比较研究能有效揭示历史教学中的本国偏见，建立国家间均能接受的、具有主体间客观性的历史常识，为地缘和平提供社会认知防线。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 
 ---
@@ -138,7 +137,7 @@ updated: 2026-07-09
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1920s–1930s — 起源与早期教科书互审运动** 国际联盟知识合作组织（ICIC/IIIC）成立，副主任 Zimmern 正式界定“国际心智”。北欧协会及美洲国家国际会议开展跨国历史教科书审查，确立“消除遗漏与刻板印象”以建构客观知识的[[Praxis|实践]]模式。
+> - **1920s–1930s — 起源与早期教科书互审运动** 国际联盟知识合作组织（ICIC/IIIC）成立，副主任 Zimmern 正式界定“国际心智”。北欧协会及美洲国家国际会议开展跨国历史教科书审查，确立“消除遗漏与刻板印象”以建构客观知识的实践模式。
 > - **1940s–1970s — UNESCO建制化与大学学科网络确立** 联合国教科文组织（UNESCO）继承该遗产，首位比较教育教授 [[Joseph Lauwerys]] 将其列为学科三大价值之首。伦敦大学IOE比较教育学系与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE，1961年）相继成立，将“国际理解”全面固化为专业建制话语。([[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 > - **1990s 至今 — [[Lifelong Learning|终身学习]]与[[Global Citizenship|全球公民]]教育（GCED）的融合** “国际心智”的内核与 UNESCO 的终身学习与全球公民教育倡议融合，继续作为[[Rationalism in International Relations|理性主义]]话语框架，在逆全球化与地缘紧张局势中发挥跨国人文主义沟通的作用。
 

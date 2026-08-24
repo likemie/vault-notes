@@ -6,7 +6,7 @@ summary: "通过汇总多项原始研究的效应量来综合证据的统计方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 66
+method_related_count: 65
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Analytic Framework]]"
   - "[[Sample Size Determination]]"
   - "[[Forest Plot]]"
-  - "[[Praxis]]"
   - "[[Variable]]"
   - "[[Humility in Learning]]"
   - "[[Epistemology]]"
@@ -139,7 +138,7 @@ Glass（1976）和 Glass et al.（1981）区分了三个层次的分析（p.344�
 >
 > - **1990s–2000s — [[Systematic Review|系统综述]]的制度化** 1993 年 Cochrane 协作网成立，将系统综述和元分析制度化为医学证据综合的标准方法。2009 年 PRISMA 声明发布，为系统综述的透明报告提供了标准化框架（[[Argument_Higgins_2016_RE|Higgins, 2016, p.38]]）。
 >
-> - **1990s–2010s — 教育领域的扩展** 元分析在教育研究中的应用从 1990 年代起迅速扩展。Hattie（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向[[Praxis|实践]]者的政策工具。然而[[Sample Size Determination|样本量]]与效应量之间的系统性相关（r = –0.28）表明该领域仍面临方法论挑战（[[Argument_Higgins_2016_RE|Higgins, 2016, p.48]]）。
+> - **1990s–2010s — 教育领域的扩展** 元分析在教育研究中的应用从 1990 年代起迅速扩展。Hattie（1992）综合了 134 项元分析，2008 年扩展至 800 多项。[[EEF Teaching and Learning Toolkit]]（2011）将元分析结果转化为面向实践者的政策工具。然而[[Sample Size Determination|样本量]]与效应量之间的系统性相关（r = –0.28）表明该领域仍面临方法论挑战（[[Argument_Higgins_2016_RE|Higgins, 2016, p.48]]）。
 
 ---
 
@@ -369,7 +368,7 @@ R 生态中的 metafor 包是目前功能最全面、[[Document|文献]]引用�
 > - 当有大量使用可比较设计和结果测[[Quantitative Research|量的研究]]时，元分析可以提供效果的总体估计
 > - 在医学领域（其起源领域），元分析在已有充分理论理解治疗机制的前提下可以补充回答"效果平均多大"
 > - 元分析对教育研究尤其重要，因为许多小型研究具有中等或较低的效果，可能无法达到[[Statistical Significance|统计显著性]]。Cooper & Rosenthal（1980）的实证检验表明，元分析比传统叙事综述更不容易低估证据。Gorard（2014）同样指出，合并小型研究可以提供答案，而不必过度依赖与[[Sample Size Determination|样本量]]直接相关的统计显著性（[[Argument_Higgins_2016_RE|Higgins, 2016, p.32]]）
-> - 教育领域中使用元分析的倡导者认为它适合为[[Praxis|实践]]者和政策制定者提供关于"什么有效"的总结性指导（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110–111]]）
+> - 教育领域中使用元分析的倡导者认为它适合为实践者和政策制定者提供关于"什么有效"的总结性指导（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110–111]]）
 
 > [!success] 作为追问变异和调节[[Variable|变量]]的工具
 > - Hattie（2015）从支持者立场强调，元分析最有价值的用法不是把平均效应当成最后答案，而是迫使教育者追问调节[[Variable|变量]]和竞争解释：哪些年龄、学段、文化、先前成绩和结果测量类型会改变效果，平均值背后的变异说明了什么（Hattie, 2015, pp.10–11, 14–15）

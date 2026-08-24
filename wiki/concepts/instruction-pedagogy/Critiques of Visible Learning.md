@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 121
+related_count: 120
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
   - "[[Blue Skies Research]]"
-  - "[[Praxis]]"
   - "[[Confidence Interval]]"
   - "[[Analytic Framework]]"
   - "[[Reliability]]"
@@ -274,7 +273,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p. 3�
 > > 纳入研究设计差异悬殊；[[Publication Bias|发表偏倚]]系统性抬高效应量；异质研究（苹果与橘子）被归入同一元分析；元分析结论的时效性与外推边界
 >
 > > [!col-r] 代表批评
-> > Myburgh 等：二级元分析的六项慢性问题（经 Golovchin 汇编）
+> > Myburgh 等：[[Meta-meta-analysis|二级元分析]]的六项慢性问题（经 Golovchin 汇编）
 > > Nielsen & Klitmøller (2021)：概念[[Heterogeneity|异质性]]与元分析有效性审查
 
 
@@ -286,7 +285,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p. 3�
 > - **苹果与橘子比较** 异质研究不加区分地合并平均
 > - **效应量误用** *d* 的计算与解释存在系统性错误
 > - **经验偏见** 仅使用经验可得的指标，忽略难以量化的因素
-> - **应用局限** 忽视社会互动因素，结论难以迁移至[[Praxis|实践]]
+> - **应用局限** 忽视社会互动因素，结论难以迁移至实践
 
 ---
 
@@ -940,7 +939,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 > 
 > *"Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts|account]] of the rise of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind."*
 
-技术理性铺平了教育中的**手段-目的思维（means-ends thinking）**——问题被理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决（p. 82）。工程师的材料分析、医生的疾病诊疗成为所有专业[[Praxis|实践]]（包括教育）的模型。
+技术理性铺平了教育中的**手段-目的思维（means-ends thinking）**——问题被理解为独立于情境的实体，可以通过查阅和应用基础科学知识来解决（p. 82）。工程师的材料分析、医生的疾病诊疗成为所有专业实践（包括教育）的模型。
 
 #### 论证步骤三：现代学校教育面临合法化危机——这是理解 VL 流行的关键背景
 
@@ -1126,7 +1125,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > [!critique] [[Neo-Taylorism]] 论题
 > Hattie 的 VL 是*"新时代的泰勒主义"*（Taylorism for a new time）（[[Argument_Eacott_2019_IJLE|Eacott, 2019, p. 778]]）。其与 Taylor（1911）科学管理的结构同源性体现在三个平行：
 > - Taylor 追求消除*"soldiering"*（磨洋工），Hattie 追求消除*"coasting"*（得过且过）
-> - Taylor 将工作拆解为最小组件以标准化执行，Hattie 将教学[[Praxis|实践]]拆解为按[[Effect Size|效应量]]排名的离散干预列表
+> - Taylor 将工作拆解为最小组件以标准化执行，Hattie 将教学实践拆解为按[[Effect Size|效应量]]排名的离散干预列表
 > - Taylor 寻找*"唯一正确方法"*，Hattie 告诉教育者*"做什么以获得最大回报"*（maximum return）
 
 > [!tension] 与澳洲其他改革取向的对比
@@ -1220,7 +1219,7 @@ Eacott（2017a, 2019）从教育行政与领导力的社会[[Epistemology|认识
 > Qvortrup 的核心理论贡献：VL 中的教学干预与学习成果之间不存在简单的[[Causality|因果关系]]——两者是通过[[Structural Coupling|结构耦合]]（Luhmann, 1997）链接的两个封闭系统。教师的外部干预必须经过学生闭合的、自我指涉的反思循环，因此教师必须运用[[Professional Judgment|专业判断]]——基于[[Bounded Rationality|有限理性]]（Simon, 1969/1996），在理性赤字的条件下综合研究知识、伦理标准和方法论原则，通过反馈持续修正（[[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, pp. 6–7]]）。VL 的目的因此不是提供"什么有效食谱"，而是为教师提供"智能问题解决的[[Hypothesis|假设]]"（Hattie, 2009, p. 247）。
 
 > [!critique] Qvortrup 辩护的局限
-> 批评者可能指出 Qvortrup 本人是 VL 丹麦译本导言的合著者——作为 VL 的直接推广者，其立场影响分析的独立性。此外，Qvortrup 的辩护将 VL 从其自身更简化的操作[[Praxis|实践]]中分离出来——VL 的实际培训要求"五人中仅一人通过"认证、禁止教师分享自身经验（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]），这与专业判断框架中的[[Reflexivity|反思性]]实践理念直接矛盾。然而，Qvortrup 的贡献在于提供了迄今为止最系统的 VL 理论辩护——将 VL 从一种"什么有效"的技术工具重新概念化为支持教师反思性判断的概率知识基础。
+> 批评者可能指出 Qvortrup 本人是 VL 丹麦译本导言的合著者——作为 VL 的直接推广者，其立场影响分析的独立性。此外，Qvortrup 的辩护将 VL 从其自身更简化的操作实践中分离出来——VL 的实际培训要求"五人中仅一人通过"认证、禁止教师分享自身经验（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]），这与专业判断框架中的[[Reflexivity|反思性]]实践理念直接矛盾。然而，Qvortrup 的贡献在于提供了迄今为止最系统的 VL 理论辩护——将 VL 从一种"什么有效"的技术工具重新概念化为支持教师反思性判断的概率知识基础。
 
 ---
 

@@ -19,10 +19,10 @@ tags:
   - "theme/university-industry-collaboration"
   - "policy/bayh-dole"
 related_concepts:
+  - "[[Creativity]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
   - "[[Knowledge Exchange]]"
-  - "[[Praxis]]"
   - "[[Theoretical Perspective]]"
   - "[[Knowledge Transfer]]"
   - "[[Foreground IP]]"
@@ -66,7 +66,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 技术转移（Technology Transfer）指将大学研究产生的知识产权（Intellectual Property, IP）——包括发明、软件、数据和其他创造性成果——转化为商业应用的过程。技术转移是[[University-Industry Collaboration|产学合作]]的核心维度之一：它既可以是产学合作的起点（发明已经构思完成，寻找商业化伙伴），也可以是产学合作的产出（产业赞助研究产生了新的知识产权）（p.14）。
+> 技术转移（Technology Transfer）指将大学研究产生的知识产权（Intellectual Property, IP）——包括发明、软件、数据和其他[[Creativity|创造性]]成果——转化为商业应用的过程。技术转移是[[University-Industry Collaboration|产学合作]]的核心维度之一：它既可以是产学合作的起点（发明已经构思完成，寻找商业化伙伴），也可以是产学合作的产出（产业赞助研究产生了新的知识产权）（p.14）。
 
 技术转移的日常操作涉及大学内部多个职能部门。合同与拨款办公室协商赞助研究所产生的 IP 权利；[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Office, TTO）协商 IP 许可的具体条款。两者通常隶属于大学的科研副校长（Vice President of Research），有时合并到企业参与办公室（p.14）。详见 [[Technology Transfer Office]]。
 
@@ -125,7 +125,7 @@ updated: 2026-08-20
 ### 广义化：从技术转移到知识交流
 
 > [!abstract]
-> 研究[[Praxis|实践]]的发展使人们认识到，技术转移只是大学与产业之间知识流动的一个子集。并非所有有价值的知识都具备可专利性，也并非所有产学互动都需要知识产权框架。[[Knowledge Exchange|知识交流]]（Knowledge Exchange）这一更广义的概念由此兴起。它涵盖合同研究、咨询、人员交流、联合发表、设施共享、培训和网络活动等远比技术许可和衍生企业更广泛的互动形式([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.44–46]])。
+> 研究实践的发展使人们认识到，技术转移只是大学与产业之间知识流动的一个子集。并非所有有价值的知识都具备可专利性，也并非所有产学互动都需要知识产权框架。[[Knowledge Exchange|知识交流]]（Knowledge Exchange）这一更广义的概念由此兴起。它涵盖合同研究、咨询、人员交流、联合发表、设施共享、培训和网络活动等远比技术许可和衍生企业更广泛的互动形式([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.44–46]])。
 
 关系型互动（relational）已取代交易型互动（transactional）成为产学互动的主导形态，反映了隐性知识（tacit knowledge）在思想和技术转移中的关键作用（Schartinger et al., 2002）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.44]])。此外，人员交流（people exchange）的重要性在近三十年显著上升：1994 年的调查中仅 5.8% 的美国企业研发经理认为人员交流是重要的产学互动途径（Cohen et al., 2002），但今天这已成为加强产学合作的核心议题（NCUB, 2023）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.45–46]])。
 
@@ -245,7 +245,7 @@ BIP 是合作前各方独立开发或控制的 IP，其条款才是产学协议�
 ## 相关文献
 
 > [!note]-
-> 多部著作系统探讨了技术转移的制度和[[Praxis|实践]]问题（p.14）：
+> 多部著作系统探讨了技术转移的制度和实践问题（p.14）：
 > - Allen 与 O'Shea（2014）Building Technology Transfer Within Research Universities — 从创业视角探讨大学内部的技术转移机制建设
 > - Cunningham et al.（2020）Building Effective Technology Transfer Offices — 以商业模式框架分析[[Technology Transfer Office|技术转移办公室]]的运作
 > - Hockaday（2020）University Technology Transfer, What it is and How to Do It — 面向实践者的操作指南

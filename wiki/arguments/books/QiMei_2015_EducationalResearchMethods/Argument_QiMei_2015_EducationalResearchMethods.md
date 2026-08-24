@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 120
+argument_related_count: 121
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -46,11 +46,11 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Abstract]]"
   - "[[Research Writing Script]]"
+  - "[[Creativity]]"
   - "[[Didaktik]]"
   - "[[Research Scope]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Memos]]"
-  - "[[Praxis]]"
   - "[[Questionnaire]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
@@ -94,6 +94,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Story Line]]"
+  - "[[Problem Finding]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
   - "[[Teacher-as-Researcher]]"
@@ -930,7 +931,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > 3. **聚焦编码（Focused/Selective Coding）** 筛选最重要的代码或在原始资料中出现最多的代码。关键在于比较——依靠[[Story Line|故事线]]来明确代码的重要性，将丰富而凌乱的原始资料通过故事线组织起来。
 > 4. **理论编码（Theoretical Coding）** 使类属之间的关系更加具体化，把支离破碎的情节聚集在一起，使分析的故事更加有连贯性。Glaser 定义了原因、语境、可能性、结果、条件、文化等理论代码种类。
 
-**撰写备忘录**（分析笔记）：是数据分析和最终形成研究成果之间的关键环节。内容应包括代码和类属的定义及形成过程、不同代码类属的比较、证据支持、问题发现和反思。撰写备忘录贯穿研究始终。
+**撰写备忘录**（分析笔记）：是数据分析和最终形成研究成果之间的关键环节。内容应包括代码和类属的定义及形成过程、不同代码类属的比较、证据支持、[[Problem Finding|问题发现]]和反思。撰写备忘录贯穿研究始终。
 
 **理论性抽样** 研究者先进入田野搜集资料，初步总结出理论，然后以此理论作为下一步研究的抽样基础。这是一个累积性的动态发展过程——研究者根据理论指示逐步剔除不相关的资料，将注意力放在对建构理论更有直接关系的资料上。
 

@@ -111,7 +111,7 @@ updated: 2026-06-22
 > [!concept-lens] SE 本身不是结论，但所有推论结论都依赖它
 > SE 不直接回答"差异是否显著"或"真值在哪里"，但它提供了回答这些问题所需的精度信息。
 
-> [!claim] [[Confidence Interval|CI]] 依赖于 SE
+> [!claim] CI 依赖于 SE
 > 95% CI = 点估计 $\pm 1.96 \times SE$。没有 SE 就无法构建 CI，也无法判断点估计的稳定性。
 
 > [!claim] 统计功效依赖于 SE

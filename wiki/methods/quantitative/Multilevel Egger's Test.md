@@ -10,7 +10,7 @@ summary: "在多水平与聚类依赖元分析数据中检验小研究效应与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -20,6 +20,7 @@ tags:
   - method/publication-bias
   - statistics/multilevel-modeling
 related_concepts:
+  - "[[Small Study Effects]]"
   - "[[Publication Bias]]"
   - "[[Standard Error]]"
   - "[[Variable]]"
@@ -52,7 +53,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 方法定义
-> [[Multilevel Egger's Test|多水平艾格检验]]（Multilevel Egger's Test，亦称多水平艾格回归 Multilevel Egger's Regression）是一种在包含聚类依赖、多重结果测量或多层嵌套结构（如[[Meta-meta-analysis|二阶元分析]]）的[[Meta-analysis|元分析]]中检验**小研究效应（Small-Study Effects）**与[[Publication Bias|发表偏倚]]（Publication Bias）的定量诊断与校正方法（Rodgers & Pustejovsky, 2021; [[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 6]]）。该方法将抽样[[Standard Error|标准误]]作为调节[[Variable|变量]]纳入三水平[[Fixed-Effect and Random-Effects Models|随机效应模型]]，通过斜率检验偏倚是否存在，并利用回归截距估计理论无限大样本下的无偏[[Effect Size|效应量]]。
+> [[Multilevel Egger's Test|多水平艾格检验]]（Multilevel Egger's Test，亦称多水平艾格回归 Multilevel Egger's Regression）是一种在包含聚类依赖、多重结果测量或多层嵌套结构（如[[Meta-meta-analysis|二阶元分析]]）的[[Meta-analysis|元分析]]中检验**[[Small Study Effects|小研究效应]]（Small-Study Effects）**与[[Publication Bias|发表偏倚]]（Publication Bias）的定量诊断与校正方法（Rodgers & Pustejovsky, 2021; [[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 6]]）。该方法将抽样[[Standard Error|标准误]]作为调节[[Variable|变量]]纳入三水平[[Fixed-Effect and Random-Effects Models|随机效应模型]]，通过斜率检验偏倚是否存在，并利用回归截距估计理论无限大样本下的无偏[[Effect Size|效应量]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** 存在多重效应量嵌套依赖的一阶元分析或二阶元分析证据库。
@@ -106,7 +107,7 @@ updated: 2026-08-24
 > **符号说明**
 > - $z_{ij}$：第 $j$ 个[[Meta-analysis|元分析]]集群中第 $i$ 个效应量（Fisher's $z$ 转换值）；
 > - $\sqrt{V_{ij}}$：该效应量的抽样标准误（$\text{SE}_{ij} = \frac{1}{\sqrt{n_{ij}-3}}$）；
-> - $\beta_{\text{SE}}$：小研究效应斜率系数；
+> - $\beta_{\text{SE}}$：[[Small Study Effects|小研究效应]]斜率系数；
 > - $\beta_0$：回归截距项（当[[Sample Size Determination|样本量]]趋于无穷大、$\text{SE} \to 0$ 时的理论效应量）；
 > - $\zeta_{(3)j} \sim \mathcal{N}(0, \tau_3^2)$：元分析间随机效应（Level 3）；
 > - $\zeta_{(2)ij} \sim \mathcal{N}(0, \tau_2^2)$：元分析内效应量间随机效应（Level 2）；
@@ -122,7 +123,7 @@ updated: 2026-08-24
 >
 > **数学原理与读法**
 > 1. **偏倚诊断** 若斜率 $\beta_{\text{SE}} > 0$ 且统计显著（如 Runco et al., 2026 报告 $F(1, 10.9) = 15.7, p = .002$），表明小样本研究系统性报告了偏大的效应量，证实全领域存在显著的[[Publication Bias|发表偏倚]]/小研究效应；
-> 2. **效应量校正** 截距 $\hat{\beta}_0$ 代表消除了抽样标准误影响后的渐近总体效应；通过逆双曲正切函数 $\tanh(\hat{\beta}_0)$ 还原为相关系数 $r_{\text{adjusted}}$（例如原始加权平均为 $r = 0.22$，偏倚校正后为 $r = 0.17$，95% [[Confidence Interval|CI]] $[0.11, 0.22]$）。
+> 2. **效应量校正** 截距 $\hat{\beta}_0$ 代表消除了抽样标准误影响后的渐近总体效应；通过逆双曲正切函数 $\tanh(\hat{\beta}_0)$ 还原为相关系数 $r_{\text{adjusted}}$（例如原始加权平均为 $r = 0.22$，偏倚校正后为 $r = 0.17$，95% CI $[0.11, 0.22]$）。
 
 ---
 
@@ -167,7 +168,7 @@ updated: 2026-08-24
 
 > [!method-limits] 方法局限
 > - **低功效风险** 当集群数量过少（$<10$）时，多水平元回归的斜率检验功效较低，可能遗漏微弱的发表偏倚；
-> - **[[Heterogeneity|异质性]]混淆** 小研究效应除了[[Publication Bias|发表偏倚]]外，也可能是由于小样本研究采用了更高强度的定制干预（实质异质性）所致，需要结合亚组分析综合研判。
+> - **[[Heterogeneity|异质性]]混淆** [[Small Study Effects|小研究效应]]除了[[Publication Bias|发表偏倚]]外，也可能是由于小样本研究采用了更高强度的定制干预（实质异质性）所致，需要结合亚组分析综合研判。
 
 ---
 

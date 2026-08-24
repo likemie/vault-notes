@@ -37,12 +37,12 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Inverse-Variance Weighting]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"
@@ -129,7 +129,7 @@ citation_aliases:
 >
 > **(b) 标准误从错误来源计算** 正确方法应基于主要研究的 n_E, n_C 和 d 计算 v_dⱼ。但 Hattie 使用一级元分析中效应量的标准差（SD_d）和效应量数量（k）计算 SE。案例：Haas (2005) 元分析（d=0.59, SD=0.59, k=19），Hattie 计算 SE=0.59/√19≈0.135；正确值应为 0.092。
 >
-> **(c) 标准误列广泛缺失** 案例——Sitzmann et al.(2006)的元分析同时报告了 SE 和 95% [[Confidence Interval|CI]]，但 Hattie 仍在附录 A 中报告缺失值，"即使在一级元分析给出了置信区间的情况下，Hattie 通常也无法确定标准误差"(p.29)。
+> **(c) 标准误列广泛缺失** 案例——Sitzmann et al.(2006)的元分析同时报告了 SE 和 95% CI，但 Hattie 仍在附录 A 中报告缺失值，"即使在一级元分析给出了[[Confidence Interval|置信区间]]的情况下，Hattie 通常也无法确定标准误差"(p.29)。
 >
 > **(d) 武断下限 0.05** 无统计理论基础，双向扭曲加权估计。
 >

@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -18,6 +18,7 @@ tags:
   - "theme/epistemological-beliefs"
   - "level/secondary"
 related_concepts:
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemic Cognition]]"
   - "[[Hypothesis]]"
   - "[[Metacognition]]"
@@ -76,7 +77,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!def] 核心定义
-> 学业成就（academic achievement）是衡量学生在特定学习阶段、特定学科或特定学术任务中，对知识、技能以及高阶思维推理掌握程度的多维结果指标。在教育心理学与教学实证研究中，它既是评估课程干预与教学模式有效性的终极衡量标尺，也是检验学生的[[Epistemic Cognition|认识论认知]]、动机信念、自我调节策略与学习方式理论效力的关键靶标。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]; [[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 307-310)]]
+> 学业成就（academic achievement）是衡量学生在特定学习阶段、特定学科或特定学术任务中，对知识、技能以及[[Higher-Order Thinking Skills|高阶思维]]推理掌握程度的多维结果指标。在教育心理学与教学实证研究中，它既是评估课程干预与教学模式有效性的终极衡量标尺，也是检验学生的[[Epistemic Cognition|认识论认知]]、动机信念、自我调节策略与学习方式理论效力的关键靶标。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]; [[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 307-310)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 它是学生内部认知加工（如概念整合、[[Hypothesis|假设]]检验）、动机信念（如能力可塑性信念）以及[[Metacognition|元认知]]策略在外部学习环境中的具象化产物。

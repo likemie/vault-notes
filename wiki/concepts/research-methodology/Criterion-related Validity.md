@@ -9,7 +9,7 @@ aliases:
 summary: "将测量工具的结果与公认有效的外部标准进行统计关联以确立测量有效性的方法学体系，涵盖预测效度与共时效度两大支柱，核心挑战在于效标问题与效标污染控制"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -18,7 +18,6 @@ tags:
   - theme/validity
   - psychometrics/measurement
 related_concepts:
-  - "[[Praxis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
@@ -31,6 +30,7 @@ related_concepts:
   - "[[Face Validity]]"
   - "[[Reliability]]"
   - "[[Academic Achievement]]"
+  - "[[Criterion Problem]]"
   - "[[Variable]]"
   - "[[Creativity]]"
   - "[[Dependent Variable]]"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
   - "[[Divergent Thinking]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Chain of Evidence]]"
   - "[[Confidence Interval]]"
 related_methods:
@@ -64,7 +65,7 @@ updated: 2026-08-24
 ## 定义
 
 > [!def] 核心定义
-> [[Criterion-related Validity|效标关联效度]]（Criterion-related Validity，亦称效标效度）指通过将某一特定测量工具的结果与另一个公认有效且独立的**外部效标（External Criterion）**进行统计关联，以此确立该工具测量有效性的方法学体系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, p. 179]]; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 6–8]]）。其基本逻辑是：若新工具的得分能够高度吻合或准确预测公认有效的外部标准，则该工具的有效性与[[Praxis|实践]]价值获得实证支持。
+> [[Criterion-related Validity|效标关联效度]]（Criterion-related Validity，亦称效标效度）指通过将某一特定测量工具的结果与另一个公认有效且独立的**外部效标（External Criterion）**进行统计关联，以此确立该工具测量有效性的方法学体系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, p. 179]]; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 6–8]]）。其基本逻辑是：若新工具的得分能够高度吻合或准确预测公认有效的外部标准，则该工具的有效性与实践价值获得实证支持。
 
 > [!concept-lens] 概念透镜
 > - **含义** 效标关联效度回答的是：“该工具的得分在多大程度上与真实的外部行为表现或成熟的金标准吻合？”
@@ -103,7 +104,7 @@ updated: 2026-08-24
 >   新工具收集的数据与**同一时间点**施测的已有公认标准高度一致。不存在时间差，核心用于开发更经济的替代量表，并与[[Triangulation|三角验证]]（Triangulation）紧密配合（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 179]]）。
 
 > [!feature] 优良效标必须满足的四大测量学准则（Wolf, 1994; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）
-> - **实质相关性（Relevance）** 效标必须在理论与[[Praxis|实践]]上被公认为衡量目标能力的关键指标。
+> - **实质相关性（Relevance）** 效标必须在理论与实践上被公认为衡量目标能力的关键指标。
 > - **无偏性（Freedom from Bias）** 效标测量必须排除评分者偏见、环境特权或测验标签带来的外部污染。
 > - **测量[[Reliability|信度]]（Reliability）** 效标测量自身必须精确、稳定且评分一致性高。
 > - **可测量性（Availability / Measurability）** 效标数据必须能够在现实研究中可操作、可采集且可重复检验。
@@ -138,7 +139,7 @@ updated: 2026-08-24
 
 ### 命题二　效标定义的多元性与效标缺失导致复杂特质作为效标时效应量离散且偏低
 
-> [!concept-lens] 效标问题（The Criterion Problem）与[[Variable|变量]]角色不对称性
+> [!concept-lens] [[Criterion Problem|效标问题]]（The Criterion Problem）与[[Variable|变量]]角色不对称性
 > 探讨复杂心理特质（如[[Creativity|创造力]]）在作为[[Dependent Variable|效标变量]]时为何展现出显著低于作为[[Independent Variable|预测变量]]时的[[Effect Size|效应量]]与高[[Heterogeneity|异质性]]。
 
 > [!claim] Shapiro (1970); [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]
@@ -160,7 +161,7 @@ updated: 2026-08-24
 
 > [!dev-timeline] 概念演变
 > - **1950s — 经典效度三元论确立** APA 早期标准将效标关联效度与[[Content Validity|内容效度]]、[[Construct Validity|构念效度]]并列，作为心理测量三大独立支柱。
-> - **1970s — 效标问题（Criterion Problem）显性化** Shapiro (1970) 深刻揭示在复杂高阶思维领域缺乏统一客观效标对心理测量的根本制约。
+> - **1970s — [[Criterion Problem|效标问题]]（Criterion Problem）显性化** Shapiro (1970) 深刻揭示在复杂[[Higher-Order Thinking Skills|高阶思维]]领域缺乏统一客观效标对心理测量的根本制约。
 > - **1980s–1990s — 效度统一观演进** Messick 提出统一效度框架，效标关联被重塑为支持构念效度的外部经验[[Chain of Evidence|证据链]]条。
 > - **2020s — [[Meta-meta-analysis|二阶元分析]]系统解构效标定位** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 运用二阶[[Meta-analysis|元分析]]实证量化了[[Variable|变量]]在作为预测源（$r = 0.29$）与作为效标（$r = 0.12$）时的系统不对称性。
 
@@ -213,7 +214,7 @@ updated: 2026-08-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]通过 124 万人样本系统检验了作为预测源（$r = 0.29$）与作为效标（$r = 0.12$）的不对称性，为效标问题提供了大规模实证支撑。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]通过 124 万人样本系统检验了作为预测源（$r = 0.29$）与作为效标（$r = 0.12$）的不对称性，为[[Criterion Problem|效标问题]]提供了大规模实证支撑。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详尽梳理效标关联效度在教育测量、考试制度与研究设计中的四大准则与方法学局限。
 
 ---
@@ -227,7 +228,7 @@ updated: 2026-08-24
 > | [[Predictive Validity]] | 概念 | 下位概念 | 预测效度是效标关联效度在存在时间跨度情境下的核心分支。 |
 > | [[Concurrent Validity]] | 概念 | 下位概念 | 共时效度是效标关联效度在同时态情境下的主要分支。 |
 > | [[Construct Validity]] | 概念 | 核心基础 | 效标关联效度为[[Construct\|构念]]效度提供外在经验证据，两者在现代效度框架中深度交织。 |
-> | [[Creativity]] | 概念 | 实证对象 | 创造力实证研究深刻展现了效标问题与效标关联效应的不对称性。 |
+> | [[Creativity]] | 概念 | 实证对象 | 创造力实证研究深刻展现了[[Criterion Problem\|效标问题]]与效标关联效应的不对称性。 |
 > | [[Triangulation]] | 方法 | 配合技术 | 共时效度常借助多源数据的三角验证来确立测量一致性。 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] | 论证 | 理论来源 | 系统阐述效标关联效度的定义、分类与效标选择难题。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证基石 | [[Meta-meta-analysis\|二阶元分析]]实证揭示了[[Variable\|变量]]角色对效标关联强度的显著调制机制。 |

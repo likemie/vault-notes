@@ -29,11 +29,11 @@ related_concepts:
   - "[[Pre-Transfer Agency]]"
   - "[[Going Native]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Problem Finding]]"
   - "[[Causality]]"
   - "[[Externalization]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
 related_theories: []
 related_methods:
   - "[[Exploratory Factor Analysis]]"
@@ -73,7 +73,7 @@ citation_aliases:
 >
 > 1. **[[Pre-Transfer Agency|前转移能动性]]（pre-transfer agency）**——现有模型只关注政策实施后的抵制和[[Going Native|本土化]]（后转移能动性），但外国范例进入国内话语的那一刻，能动性就已经在运作了。谁在引入外国范例？出于什么目的？用什么方式？
 > 2. **行动者激增**——国家不再是唯一行动者。超国家组织、智库、顾问、[[Policy Entrepreneur|政策企业家]]、排行榜制作者、媒体、资助来源等纷纷介入教育转移，而现有框架仍默认以民族国家为分析单位。
-> 3. **话语的转移**——转移的不仅是政策文本（policy text），更是政策话语（policy discourse）——即关于教育的谈论方式、概念框架和问题建构方式。这种话语层面的流动比政策文本更加隐蔽，也更难追踪。
+> 3. **话语的转移**——转移的不仅是政策文本（policy text），更是政策话语（policy discourse）——即关于教育的谈论方式、概念框架和[[Problem Finding|问题建构]]方式。这种话语层面的流动比政策文本更加隐蔽，也更难追踪。
 >
 > 这些要求指向同一个方向：需要一个新框架，把分析焦点从"借了什么"转向"谁在借、为什么借、在什么情境下借"。
 
@@ -319,7 +319,7 @@ citation_aliases:
 > **第三，帮助比较教育学者更有意识地影响政策辩论。**
 >
 > > [!tip]- 规范主张：学者应介入转移过程
-> > 这是论证最鲜明的规范性主张。Cummings 观察到，比较教育学者"缺乏直接影响力"的一个原因可能是方法论上的：他们"倾向于看国外而非国内，因此不擅长向国内受众传达外国[[Praxis|实践]]的意义"(p. 302，引自 p. 237)。论证通过地图提出一个反问：如果学者只生产关于外国体系的描述性[[Case Study|案例研究]]，然后坐等别人来用这些研究成果——"别人"很可能是那些用芬兰来危机化本国教育或靠日本来合法化自己议程的政治家——那么学者的"中立"在什么意义上是真正的负责任？(p. 237–238)
+> > 这是论证最鲜明的规范性主张。Cummings 观察到，比较教育学者"缺乏直接影响力"的一个原因可能是方法论上的：他们"倾向于看国外而非国内，因此不擅长向国内受众传达外国实践的意义"(p. 302，引自 p. 237)。论证通过地图提出一个反问：如果学者只生产关于外国体系的描述性[[Case Study|案例研究]]，然后坐等别人来用这些研究成果——"别人"很可能是那些用芬兰来危机化本国教育或靠日本来合法化自己议程的政治家——那么学者的"中立"在什么意义上是真正的负责任？(p. 237–238)
 >
 > > “如果我们作为比较学者不将我们的研究、转移过程与本土情境之间的联系明确化，那么那些知识较少的人就会代劳。”
 > ("If we as comparativists do not make the connection between our research, transfer processes, and the home context explicit someone less knowledgeable will.")(p. 238)

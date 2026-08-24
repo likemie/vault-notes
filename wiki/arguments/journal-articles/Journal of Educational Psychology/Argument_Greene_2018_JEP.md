@@ -38,6 +38,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Measurement Alignment]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Metacognition]]"
   - "[[Rote Learning]]"
   - "[[Dependent Variable]]"
@@ -47,7 +48,6 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Justificatory Standards]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Praxis]]"
   - "[[Theoretical Validity]]"
   - "[[Sample Size Determination]]"
   - "[[Internal Consistency]]"
@@ -335,7 +335,7 @@ issuing_organization: ""
 
 ### 步骤四：学段与成就类型的颠覆性发现
 
-> [!claim] 低年级学生具备高级认识论潜能；认识论认知本质上是高阶思维的[[Metacognition|元认知]]驱动内核而非机械记忆的助推器
+> [!claim] 低年级学生具备高级认识论潜能；认识论认知本质上是[[Higher-Order Thinking Skills|高阶思维]]的[[Metacognition|元认知]]驱动内核而非机械记忆的助推器
 > 认识论认知对学业成就的预测效力展现出深刻的“任务加工层级特异性”：它与概念性理解和论证表现高度紧密挂钩，而与底层的陈述性[[Rote Learning|死记硬背]]近乎脱节；同时在学段分布上打破了传统发展模型假定，中小学生展现出比大学生更强的关联。
 
 > [!concept-lens] 认知加工层级与任务特异性
@@ -390,7 +390,7 @@ issuing_organization: ""
 >   - *实证推断边界*：本元分析纳入的绝大多数为一级相关研究，不能直接得出“单向绝对因果”结论。（p. 1103）
 >   - *双向互惠机制*：认识论认知与高阶思维并非单向决定，而是呈现**螺旋互惠演进**
 >     1. **赋能路径（认识论认知 → 高阶思维）** 成熟认识论信念自发驱动学生调动[[Surface and Deep Learning|深层学习]]策略（Deep Learning Strategies），从而在高阶任务中取得卓越表现；
->     2. **塑造路径（高阶思维[[Praxis|实践]] → 认识论认知）** 课堂中开放式探究、辩论和劣构问题（Ill-structured problems）的解决实践，制造了持续的认知冲突，打破了学生的二元论平衡，迫使其在“做中学”（Inquiry-in-practice），最终反哺了认识论认知向更高阶段成熟（正如 Perry 图式 所揭示的大学涵化机制）。
+>     2. **塑造路径（高阶思维实践 → 认识论认知）** 课堂中开放式探究、辩论和劣构问题（Ill-structured problems）的解决实践，制造了持续的认知冲突，打破了学生的二元论平衡，迫使其在“做中学”（Inquiry-in-practice），最终反哺了认识论认知向更高阶段成熟（正如 Perry 图式 所揭示的大学涵化机制）。
 > - **机制四：构念特异性与确证[[Theoretical Validity|理论有效性]]（Theoretical Validity）**
 >   - 这一实证断层有力反驳了长期以来怀疑论者认为“认识论认知只是宽泛学习动机、一般智力或社会经济地位的虚假代理变量”的观点。
 >   - 如果认识论认知只是泛化智力或动机的代理，它应该对所有考试（包括死记硬背与机械计算）均表现出均匀的中等相关；
@@ -449,12 +449,12 @@ issuing_organization: ""
 > 1. **基线相关确立** [[Epistemic Cognition|认识论认知]]与学业成绩存在小幅但有价值的正相关（$r = .162$），打破了长期以来因研究结果不一而产生的疑虑。（p.1096）
 > 2. **对齐（Alignment）法则** 当测量工具的特异性与其预测的成绩任务在颗粒度上严格匹配时，预测效力大幅提升。（p.1098）
 > 3. **年龄解构** 中小学阶段的[[Effect Size|效应量]]反而高于大学，反驳了“低龄儿童缺乏高级认识论认知”的传统发展阶段论断。（p.1101）
-> 4. **高阶加工特异性** 认识论认知与高阶概念理解（$r = .190$）及论证表现（$r = .154$）高度挂钩，而与低阶机械记忆（$r = .077$）完全脱节，确证了其作为高阶思维[[Metacognition|元认知]]内核的[[Theoretical Validity|理论有效性]]。
+> 4. **高阶加工特异性** 认识论认知与高阶概念理解（$r = .190$）及论证表现（$r = .154$）高度挂钩，而与低阶机械记忆（$r = .077$）完全脱节，确证了其作为[[Higher-Order Thinking Skills|高阶思维]][[Metacognition|元认知]]内核的[[Theoretical Validity|理论有效性]]。
 > 5. **[[Reliability|信度]]决定论** 测量的工具信度极大地预测了效应量大小（$b = .300$）。所谓“通用工具效果好”，可能只是统计幻象，掩盖了理论上的粗糙。（p.1102）
 
 > [!stat-cards]- 核心数据
 > - **r = .162** 整体相关系数（[[Fixed-Effect and Random-Effects Models|随机效应模型]]）。
-> - **d = .328** 转换为 Cohen's d 后的中等偏下效应，具有一定[[Praxis|实践]]意义。
+> - **d = .328** 转换为 Cohen's d 后的中等偏下效应，具有一定实践意义。
 > - **b = .300** 量表信度对效应量的[[Meta-regression|元回归]]系数（$p < .001$）。
 
 ---
@@ -462,7 +462,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 对齐与高阶认知的教育启示
-> 此外，当[[Academic Achievement|学业成就]]衡量的是概念性知识或论证，而不是陈述性或程序性知识时，[[Effect Size|效应量]]的估计值更高。概念知识和论证成就测量捕捉到了被认为需要[[Epistemic Cognition|认识论认知]]的高阶认知处理类型。这些发现可以被预期，但也至关重要。它们支持了这样一种观点：研究人员应认真对待论证、概念理解和认识论认知中的领域差异，并考虑针对特定领域的规范性认识[[Praxis|实践]]、认识理想和可靠过程来定制其测量工具。 (p. 1102)
+> 此外，当[[Academic Achievement|学业成就]]衡量的是概念性知识或论证，而不是陈述性或程序性知识时，[[Effect Size|效应量]]的估计值更高。概念知识和论证成就测量捕捉到了被认为需要[[Epistemic Cognition|认识论认知]]的高阶认知处理类型。这些发现可以被预期，但也至关重要。它们支持了这样一种观点：研究人员应认真对待论证、概念理解和认识论认知中的领域差异，并考虑针对特定领域的规范性认识实践、认识理想和可靠过程来定制其测量工具。 (p. 1102)
 >
 > *Furthermore, effect size estimates were higher when the academic achievement measure captured conceptual knowledge or argumentation, as opposed to declarative or [[Procedural Knowledge]]. Conceptual knowledge and argumentation achievement measures capture the kinds of higher order processing posited to require epistemic cognition. These findings may be expected, but they are important. They bolster arguments that researchers should take domain differences in argumentation, conceptual understanding, and epistemic cognition seriously, and consider tailoring their instruments to the kinds of epistemic practices, epistemic ideals, and reliable processes considered normative in particular domains.*
 

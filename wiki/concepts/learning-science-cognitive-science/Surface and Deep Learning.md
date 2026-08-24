@@ -7,7 +7,7 @@ aliases:
 summary: "区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -18,7 +18,6 @@ tags:
   - level/higher-ed
   - region/china
 related_concepts:
-  - "[[Praxis]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Homework]]"
   - "[[Dialogue in Education]]"
@@ -104,7 +103,7 @@ updated: 2026-08-20
 > - **学习意图** 学生是为了预测题目和避免失败，还是为了理解材料要表达什么。意图会引导注意力投向孤立细节或整体意义。
 > - **先备知识** 背景知识决定学生能否提出问题、识别关系并向前推理；缺乏事实基础时，直接要求复杂探究可能增加无关信息与推理错误。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 84–85)]]
 > - **活动的适切性** 活动的认知层次要与目标相称。目标要求解释与迁移时，只做记录和复述便不充分；任务要求掌握基本事实时，准确记忆可能是必要活动。[[Argument_Biggs_1999_HERD|Biggs (1999, p. 60)]]
-> - **知识组织** 深层学习发生在学生能把事实、命题、概念与学科[[Praxis|实践]]组织起来时。[[Curriculum Design Coherence Model|课程设计连贯性模型]]进一步把它表述为[[Knowledge-that and Know-how-to|知其然]]与[[Knowledge-that and Know-how-to|知其所用]]之间可被展示和阐述的连接。[[Argument_McPhail_2023_JCS|McPhail et al. (2023, pp. 4–16)]]
+> - **知识组织** 深层学习发生在学生能把事实、命题、概念与学科实践组织起来时。[[Curriculum Design Coherence Model|课程设计连贯性模型]]进一步把它表述为[[Knowledge-that and Know-how-to|知其然]]与[[Knowledge-that and Know-how-to|知其所用]]之间可被展示和阐述的连接。[[Argument_McPhail_2023_JCS|McPhail et al. (2023, pp. 4–16)]]
 > - **教学与评估信号** 学生会从考试和[[Homework|作业]]中判断课程真正重视什么。教师口头强调理解，但评估只奖励复述时，理性的应试策略仍会促使学生采用表层方式。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 80, 87)]]
 > - **互动条件** 明确的目标、学习的必要感、能够专注而不必防御的环境，以及同伴和教师之间的[[Dialogue in Education|对话]]，共同支持理解的形成与深化。[[Argument_Biggs_1999_HERD|Biggs (1999, pp. 60–61)]]
 
@@ -160,7 +159,7 @@ updated: 2026-08-20
 > **事实基础与深层加工必须衔接** 表层知识是深层理解的重要起点，但只获得信息仍不充分。问题本位学习要求学生调用既有知识建立因果模型。新手的知识基础不足时，容易添加无关材料、从未知条件倒推，并保留推理错误。教学设计应先判断学生是否掌握支持复杂活动的知识，再安排联系、解释与迁移，不宜抽象地比较直接讲授和自主探究。[[Argument_Hattie_2015_SOTLP|Hattie (2015b, pp. 84–85)]]
 
 > [!claim] McPhail et al.
-> **课程连贯性使知识能够被使用** [[Curriculum Design Coherence Model|课程设计连贯性模型]]把深层学习具体化为[[Knowledge-that and Know-how-to|知其然]]与[[Knowledge-that and Know-how-to|知其所用]]之间的连接。只讲抽象概念会使课程悬空，只堆积事实会使课程拥挤，只训练技能又会使课程工具化；当学生能够把命题与概念应用于新情境，并说明知识与[[Praxis|实践]]之间为何如此连接时，深层理解才有了可观察的表现。[[Argument_McPhail_2023_JCS|McPhail et al. (2023, pp. 4–16)]]
+> **课程连贯性使知识能够被使用** [[Curriculum Design Coherence Model|课程设计连贯性模型]]把深层学习具体化为[[Knowledge-that and Know-how-to|知其然]]与[[Knowledge-that and Know-how-to|知其所用]]之间的连接。只讲抽象概念会使课程悬空，只堆积事实会使课程拥挤，只训练技能又会使课程工具化；当学生能够把命题与概念应用于新情境，并说明知识与实践之间为何如此连接时，深层理解才有了可观察的表现。[[Argument_McPhail_2023_JCS|McPhail et al. (2023, pp. 4–16)]]
 
 ---
 

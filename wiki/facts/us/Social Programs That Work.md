@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 17
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - sptw
@@ -32,6 +32,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Regression Discontinuity Design]]"
+  - "[[Time Series Design]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Random Assignment]]"
 related_instruments: []
@@ -83,7 +85,7 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> SPTW 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=1, RDD=0, ITS=0**，对 RCT 制定了极详尽的实施标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> SPTW 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Time Series Design|ITS]]=0**，对 RCT 制定了极详尽的实施标准([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **真实世界实施情境** RCT 必须在常规公共服务场所（而非高度受控的人工实验室）开展，由常规工作人员交付。
 > 2. **极低[[Attrition|样本流失]]率** 强制设定总体流失率上限（通常不得超过 **20%**），且两组流失率差异必须极小([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
@@ -107,7 +109,7 @@ updated: 2026-08-21
 
 > [!warning] 跨中心分歧与典型案例
 > SPTW 的极高门槛导致全美绝大多数声名显赫的教育干预被挡在门外：
-> - [[Communities in Schools]]（CIS）— 尽管在 [[National Dropout Prevention Center|NDPC]] 获评最高级，但在 SPTW 审核中，因缺乏跨多个独立学区的一致大型 [[Randomised Controlled Trials|RCT]] 复制数据，未能进入 Top [[Top Institute for Evidence-Based Education Research|TIER]] 榜单([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
+> - [[Communities in Schools]]（[[Community Innovation Survey|CIS]]）— 尽管在 [[National Dropout Prevention Center|NDPC]] 获评最高级，但在 SPTW 审核中，因缺乏跨多个独立学区的一致大型 [[Randomised Controlled Trials|RCT]] 复制数据，未能进入 Top [[Top Institute for Evidence-Based Education Research|TIER]] 榜单([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 25]])。
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 summary: "用于判断观察到的差异是否足以拒绝零假设的统计判断标准，其解释需要结合样本量、效应大小和研究设计。"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
-  - "[[Praxis]]"
   - "[[Threats to Internal Validity]]"
   - "[[Sample Size Determination]]"
   - "[[Effect Size]]"
@@ -59,7 +58,7 @@ updated: 2026-07-15
 > [!concept-lens] 概念透镜
 > - **含义** 统计显著性回答"观察到的差异是否可能仅由随机因素造成"，而非"差异有多大"或"差异是否重要"。
 > - **用途** 为研究者在[[Null Hypothesis|零假设]]框架下提供可否拒绝零假设的标准化判断依据，是假设检验的核心决策工具。
-> - **边界** 统计显著性不说明效应大小、[[Praxis|实践]]意义或政策价值。它只是众多[[Threats to Internal Validity|内部效度威胁]]中的一个，而非研究价值的最终裁判。
+> - **边界** 统计显著性不说明效应大小、实践意义或政策价值。它只是众多[[Threats to Internal Validity|内部效度威胁]]中的一个，而非研究价值的最终裁判。
 
 > [!boundary] 概念边界
 > - **不等于效应大小** 统计显著性受[[Sample Size Determination|样本量]]驱动——大样本可使微小效应显著，小样本可使大效应不显著。详见 [[Effect Size]]。
@@ -82,7 +81,7 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 ## 历史沿革
 
 > [!dev-timeline] 统计显著性的概念演变
-> - **2011 — Terhart 的区分** Terhart 在解释 Hattie 的 [[Effect Size|效应量]]时区分了统计显著性和效应大小：统计显著性只说明结果不太可能由随机因素造成，却不说明效应有多大或[[Praxis|实践]]意义是什么（[[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]]）。
+> - **2011 — Terhart 的区分** Terhart 在解释 Hattie 的 [[Effect Size|效应量]]时区分了统计显著性和效应大小：统计显著性只说明结果不太可能由随机因素造成，却不说明效应有多大或实践意义是什么（[[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]]）。
 > - **2015 — Allerup 的数学联系** 效应量与显著性检验在给定[[Sample Size Determination|样本量]]时可通过 $t = d\sqrt{n}$ 建立数学联系（[[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]]）。
 > - **2024 — 清算中心标准分化** Wadhwa et al. 发现不同[[Educational Evidence Clearinghouses|教育证据清算中心]]对统计显著性和效应量阈值的要求不一致：有的要求统计显著正向效果，有的还额外要求最低效应量（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–15]]）。
 
@@ -94,7 +93,7 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 > - **[[Null Hypothesis|零假设]]** 在两个分布均值比较中，零[[Hypothesis|假设]]写作 $H_0: \mu_1 = \mu_2$（[[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]]）。
 > - **t 值与[[Sample Size Determination|样本量]]** 在[[Effect Size|效应量]] $d$ 已知时，若观测数为 $n$，可构造 $t = d\sqrt{n}$；样本量越大，同样 $d$ 值越容易达到统计显著。
 > - **p 值** p 值表示在零假设成立时获得当前或更极端 $t$ 值的概率，是统计分析结果的核心呈现形式。
-> - **显著不等于重要** Terhart 强调统计显著性不说明效应大小和[[Praxis|实践]]意义，需[[Effect Size|效应量]]或原始量表差异补充（[[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]]）。
+> - **显著不等于重要** Terhart 强调统计显著性不说明效应大小和实践意义，需[[Effect Size|效应量]]或原始量表差异补充（[[Argument_Terhart_2011_JCS|Terhart, 2011, p.427]]）。
 > - **显著不等于可采购** 学校项目选择中，统计显著性不能说明项目成本、实施难度、教师接受度或本地适配性（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]]）。
 
 ---
@@ -136,5 +135,5 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 > [!evidence-grid-a] 相关案例索引
 > - [[Educational Evidence Clearinghouses]] — 清算中心把统计显著性、效应方向和最低[[Effect Size|效应量]]阈值组合成项目评级规则（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp.12–15]]）
 > - [[ESSA 2015 Evidence Standards]] — ESSA 证据层级把 [[Randomised Controlled Trials|RCT]]、[[Quasi-Experimental Designs|QED]] 和相关研究与项目有效性标准连接起来（[[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p.109]]）
-> - [[Visible Learning]] — Hattie 将 $d = 0.40$ 作为[[Praxis|实践]]阈值，但该值与显著性的关系依赖[[Sample Size Determination|样本量]]（[[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]]）
+> - [[Visible Learning]] — Hattie 将 $d = 0.40$ 作为实践阈值，但该值与显著性的关系依赖[[Sample Size Determination|样本量]]（[[Argument_Allerup_2015_Paideia|Allerup, 2015, p.45]]）
 

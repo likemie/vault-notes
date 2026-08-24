@@ -33,10 +33,10 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
+  - "[[Criterion Problem]]"
   - "[[Chain of Evidence]]"
   - "[[Consequential Validity]]"
   - "[[Heterogeneity]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
@@ -156,7 +156,7 @@ updated: 2026-08-24
 
 > [!dev-timeline] 概念演变
 > - **1950s — [[Classical Test Theory|经典测验理论]]奠基** APA 测验标准确立[[Criterion-related Validity|效标关联效度]]，将预测效度作为评估选拔工具与[[Achievement and Aptitude Tests|能力倾向测验]]的黄金准则。
-> - **1970s–1980s — 效标问题与效标污染反思** Shapiro (1970) 与 Wolf (1994) 系统批判效标缺失与效标污染对预测效度推断的扭曲。
+> - **1970s–1980s — [[Criterion Problem|效标问题]]与效标污染反思** Shapiro (1970) 与 Wolf (1994) 系统批判效标缺失与效标污染对预测效度推断的扭曲。
 > - **1990s–2000s — Messick 统一效度框架** Messick 将预测效度整合进以[[Construct Validity|构念效度]]为核心的整体[[Chain of Evidence|证据链]]，强调预测结果的社会[[Consequential Validity|后果效度]]。
 > - **2020s — [[Meta-meta-analysis|二阶元分析]]量化预测效度谱系** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 124 万人样本，确立认知与[[Creativity|创造潜能]]全领域预测效度的量化基准（$r = 0.29$），并证明其预测效度在各类设计中的跨模型稳健性。
 
@@ -205,7 +205,7 @@ updated: 2026-08-24
 
 ## 测量学应用与实践路径
 
-> [!implication]- 提升预测效度的四大[[Praxis|实践]]原则
+> [!implication]- 提升预测效度的四大实践原则
 > 1. **严格筛选无偏效标** 优先采用客观、多元且标准化的效标指标（如标准化成就测试、长期真实发明产出），避免依赖易受主观偏见污染的单一等级评定；
 > 2. **实施纵向追踪设计** 建立跨周期的长期追踪数据库，动态校准预测模型在不同发展阶段的权重参数；
 > 3. **多重预测源组合策略** 结合认知潜能测验、过程问题重构任务与行为自陈，通过[[Multiple Regression|多元回归]]模型提升复合预测效度；

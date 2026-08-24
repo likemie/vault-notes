@@ -6,7 +6,7 @@ aliases:
 summary: "米尼奥洛和康奈尔指出的全球知识体系以欧洲中心主义认识论为基础的隐性权力结构，通过界定哪些知识可被看见与接受来固化象征空间的等级边界"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Areas of Knowledge]]"
-  - "[[Praxis]]"
   - "[[Ways of Knowing]]"
   - "[[Document]]"
   - "[[Geopolitics of Higher Education]]"
@@ -72,7 +71,7 @@ updated: 2026-06-29
 
 > [!dev-timeline] 概念演变
 > - **2000 — 米尼奥洛的提出** 米尼奥洛（W. Mignolo, 2000）在 *Local Histories/Global Designs: Coloniality, Subaltern Knowledges, and Border Thinking* 中系统阐述了现代性与殖民性的一体两面，提出[[Epistemology|认识论]]殖民作为殖民性在[[Areas of Knowledge|知识领域]]的运作方式——西方现代性在建构"普遍知识"的同时，系统性地排斥和贬低了非西方认识方式。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 7–8)]]
-> - **2007 — 康奈尔的南方理论** 康奈尔（R. Connell, 2007）在 *Southern Theory* 中指出，西方社会科学研究者将其经验误作普遍规则，构成一种"理论帝国主义"——系统性地排斥了南方社会的[[Praxis|实践]]路径与[[Ways of Knowing|认知方式]]。康奈尔将分析焦点从历史殖民转向当代[[Knowledge Production|知识生产]]制度：谁的研究被引用、谁的理论被视为经典、哪里的经验被视为普遍有效的证据。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 8)]]
+> - **2007 — 康奈尔的南方理论** 康奈尔（R. Connell, 2007）在 *Southern Theory* 中指出，西方社会科学研究者将其经验误作普遍规则，构成一种"理论帝国主义"——系统性地排斥了南方社会的实践路径与[[Ways of Knowing|认知方式]]。康奈尔将分析焦点从历史殖民转向当代[[Knowledge Production|知识生产]]制度：谁的研究被引用、谁的理论被视为经典、哪里的经验被视为普遍有效的证据。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 8)]]
 > - **2014–2015 — 结构深化与概念扩展** 康奈尔（2014）进一步论证认识论殖民本质上是现代性与殖民性一体两面的权力结构在认知层面的延续。特洛斯坦诺娃（M. Tlostanova, 2015）引入"零点傲慢"概念，揭示现代知识体系的普世合法性建立在假定知识可以脱离身体与地理背景而具备客观中立性的想象之上——这种想象遮蔽了西方知识的特殊历史与地理根基。
 > - **2025 — 中国高等教育研究中的应用** [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]在中文[[Document|文献]]中系统整合认识论殖民与[[Geopolitics of Higher Education|高等教育地缘政治]]研究，将其作为分析全球知识等级秩序再生产机制的核心概念之一，与大学排名体系、科研出版平台和学者自我[[Disciplina and Doctrina|规训]]三层机制相连接。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 7–9)]]
 
@@ -95,7 +94,7 @@ updated: 2026-06-29
 > [!evidence-grid] 全球南方国家的回应策略
 > - **中国的破唯政策** 中国近年来出台多项政策提出破除唯SCI或SSCI的导向，强调科研质量与社会价值导向，鼓励人文社会科学聚焦国家发展中的现实问题，许多高校将中文成果纳入核心考核指标。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 9)]]
 > - **区域学术出版平台** 以拉丁美洲、非洲和南亚为代表的多个地区性学术社群积极推动建立本土主导的学术出版平台，强调使用本土语言、以区域问题为研究导向，并重视研究方法论的多样性。
-> - **去殖民视角的[[Epistemology|认识论]]反思** 米尼奥洛主张以去殖民视角反转"我思故我在"，提出"我在我思之处"——知识并非无处不在的普遍理性，而是扎根于具体的空间、语境与身体经验之中的位置性[[Praxis|实践]]。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 8–9)]]
+> - **去殖民视角的[[Epistemology|认识论]]反思** 米尼奥洛主张以去殖民视角反转"我思故我在"，提出"我在我思之处"——知识并非无处不在的普遍理性，而是扎根于具体的空间、语境与身体经验之中的位置性实践。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 8–9)]]
 
 ---
 

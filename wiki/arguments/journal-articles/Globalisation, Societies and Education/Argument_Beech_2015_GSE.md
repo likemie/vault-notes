@@ -10,9 +10,9 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 30
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Globalisation, Societies and Education
 citation: "Beech, J., & Artopoulos, A. (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. Globalisation, Societies and Education, 14(1), 1-18."
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Government to Governance Shift]]"
   - "[[Network Governance]]"
-  - "[[Praxis]]"
   - "[[Posthumanism]]"
   - "[[Assemblage]]"
   - "[[Transfer Translation Transformation]]"
@@ -153,7 +152,7 @@ citation_aliases:
 > [[Stephen Ball]] & Junemann (2012) 使用网络治理概念分析英格兰教育政策的变化，特别关注慈善事业和商业在教育政策和服务提供中日益增长的参与。他们发现国家、经济和公民社会之间的边界正在变得模糊，教育的边界和空间视野正在以各种方式被拉伸、分散和重新配置。但同时，一些官僚形式的政府仍然存在，与新的干预和影响形式并存。
 
 > [!example]- 绕过国家政策的教育影响力
-> 以 Khan Academy 等免费在线学习平台为例，它们从未出现在任何国家政策文本中，却深刻影响了全球数百万学生的学习方式和教师的教学[[Praxis|实践]]。这些平台的影响力不通过国家政策部署，而是通过互联网、社交媒体、口碑传播等渠道扩散。如果只分析国家政策，就会完全忽视这种权力形式。
+> 以 Khan Academy 等免费在线学习平台为例，它们从未出现在任何国家政策文本中，却深刻影响了全球数百万学生的学习方式和教师的教学实践。这些平台的影响力不通过国家政策部署，而是通过互联网、社交媒体、口碑传播等渠道扩散。如果只分析国家政策，就会完全忽视这种权力形式。
 
 > [!info] 扩展经验视野
 > 这些权力流通方式的变化要求新的概念和方法论工具。[[Fazal Rizvi]] & [[Bob Lingard]] (2010) 指出，一些较早的理论和方法论资源已不再足够，在一个日益[[Snowball Sampling|网络化]]、由一系列跨国力量和联系塑造的世界中，需要新的工具和新的全球想象力。需要扩展经验视野，纳入参与教育空间的不同类型的行动者，如国际机构、大学、企业、咨询公司、发展机构、区域集团和非政府组织。这些行动者不容易被归入全球/地方二元对立，其话语权力也不总是通过国家政策来部署。有些直接影响国家政策，有些松散相关，有些绕过国家政策，甚至与之矛盾。

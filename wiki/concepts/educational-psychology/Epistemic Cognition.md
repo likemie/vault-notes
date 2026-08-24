@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 42
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Internal Consistency]]"
   - "[[Effect Size]]"
   - "[[Academic Achievement]]"
-  - "[[Praxis]]"
   - "[[Construct Validity]]"
   - "[[Dependent Variable]]"
   - "[[Confidence Interval]]"
@@ -166,7 +165,7 @@ updated: 2026-08-20
 
 > [!tension] 核心张力：知识与认知是如何存在的？
 > - **认知建构学说（蓝方）** 以 Piaget 发生[[Epistemology|认识论]]为基础，视知识为个体为适应经验而建构的内部概念结构，认识论认知是头脑中的相对稳定的信念或特质。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
-> - **[[Situative Perspective|情境主义]]立场（红方）** 受 Vygotsky 影响，视知识为分布式的文化产物，认识论认知不再是脱域命题，而是特定共同体解决问题的“社会[[Praxis|实践]]活动（social practices）”。
+> - **[[Situative Perspective|情境主义]]立场（红方）** 受 Vygotsky 影响，视知识为分布式的文化产物，认识论认知不再是脱域命题，而是特定共同体解决问题的“社会实践活动（social practices）”。
 
 > [!tension] 核心张力：普遍性还是高度情境性？
 > - **宏大领域特质论（蓝方）** 认为认识论具有宏大跨学科间的特异性，但在学科内部保持稳定状态，主张通过标准化[[Questionnaire|问卷]]测量总体特征。

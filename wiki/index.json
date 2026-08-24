@@ -2519,7 +2519,9 @@
       "创造性",
       "创造潜能",
       "creative ability",
-      "creative potential"
+      "creative potential",
+      "创造性思维",
+      "creative thinking"
     ]
   },
   {
@@ -6180,7 +6182,6 @@
     "path": "wiki/concepts/research-methodology/Confidence Interval.md",
     "aliases": [
       "置信区间",
-      "CI",
       "confidence level",
       "置信水平"
     ]

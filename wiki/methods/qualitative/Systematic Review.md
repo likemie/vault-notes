@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Praxis]]"
   - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
   - "[[Evaluation Research]]"
@@ -181,7 +180,7 @@ EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步�
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 当某一研究领域已积累大量原始研究，需要结构化地识别和总结证据时；当需要为[[Meta-analysis|元分析]]提供可重复的输入时；当政策或[[Praxis|实践]]决策需要基于尽可能全面的证据而非选择性引用时。[[EEF Teaching and Learning Toolkit]] 的编制就依赖系统综述来识别各领域的元分析证据（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
+> - **适合使用** 当某一研究领域已积累大量原始研究，需要结构化地识别和总结证据时；当需要为[[Meta-analysis|元分析]]提供可重复的输入时；当政策或实践决策需要基于尽可能全面的证据而非选择性引用时。[[EEF Teaching and Learning Toolkit]] 的编制就依赖系统综述来识别各领域的元分析证据（[[Argument_Higgins_2016_RE|Higgins, 2016, p.47]]）。
 > - **谨慎使用** 当研究领域内研究[[Heterogeneity|异质性]]极高、测量工具和研究设计差异过大时——纳入标准可能难以在全面性和可比性之间取得平衡；当原始研究普遍存在方法论缺陷时——系统综述的质量取决于底层研究的质量。
 > - **不适合使用** 当研究领域[[Document|文献]]量极小（如新兴领域只有寥寥数篇研究）——不足以构成"系统综述"的必要规模；当需要产生新数据或探索全新[[Hypothesis|假设]]时——系统综述只能综合已有证据，不能替代一手研究。
 

@@ -29,9 +29,9 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Questionnaire]]"
   - "[[Certainty of Knowledge]]"
+  - "[[Confidence Interval]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Hofer_1997_RER]]"
@@ -89,7 +89,7 @@ updated: 2026-08-19
 
 > [!claim] Greene, J.
 > **知识发展构念的[[Effect Size|效应量]]榜首地位** 在[[Meta-analysis|元分析]]对 19 个独立[[Epistemology|认识论]]构念的亚组检验中，知识的发展（Development of Knowledge）展现出了最高的关联效应量：
-> - **数据峰值** 合并效应量高达 $r = .274$（95% [[Confidence Interval|CI]] $[.180, .363], k = 18$），显著压倒传统的确定知识（$r = .136$）、全知权威（$r = .083$）等构念。
+> - **数据峰值** 合并效应量高达 $r = .274$（95% CI $[.180, .363], k = 18$），显著压倒传统的确定知识（$r = .136$）、全知权威（$r = .083$）等构念。
 > - **解释优势** 认识到知识的演进性直接解除了学习者对标准答案的机械依赖，促使他们将认知资源投入到概念关系探索与批判性证成中。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 
 ---

@@ -7,7 +7,7 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
   - "[[Analytic Framework]]"
-  - "[[Praxis]]"
   - "[[Pre-Transfer Agency]]"
 related_theories:
   - "[[Luhmann's Systems Theory]]"
@@ -60,7 +59,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] [[Policy Borrowing|政策借用]]的政治性
-> Steiner-Khamsi 的核心洞见是：教育政策借用本质上是一个政治过程，而非中立的"最佳[[Praxis|实践]]"转移。她明确提出研究方向应从考察"借用了什么"转向考察"谁在借用、为何借用、借用的效果如何"。
+> Steiner-Khamsi 的核心洞见是：教育政策借用本质上是一个政治过程，而非中立的"最佳实践"转移。她明确提出研究方向应从考察"借用了什么"转向考察"谁在借用、为何借用、借用的效果如何"。
 >
 > > Steiner-Khamsi 论证："we must direct our attention to agencies resisting, inverting, or indigenizing educational imports" (2000, p. 158，引自 Rappleye, 2006, p. 227)
 >

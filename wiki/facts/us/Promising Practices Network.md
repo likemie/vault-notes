@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - ppn
@@ -22,7 +22,6 @@ tags:
   - archived
   - region/us
 related_concepts:
-  - "[[Praxis]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
@@ -65,7 +64,7 @@ updated: 2026-08-21
 ## 概述
 
 > [!info] 机构定位与运营概况
-> **前景广阔的[[Praxis|实践]]网络（Promising Practices Network, PPN）** 是由美国著名智库兰德公司（RAND Corporation）于 1998 年设立的多领域非营利[[Educational Evidence Clearinghouses|证据清算中心]]，致力于为决策者提供改善儿童与家庭福祉的循证干预项目清单([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
+> **前景广阔的实践网络（Promising Practices Network, PPN）** 是由美国著名智库兰德公司（RAND Corporation）于 1998 年设立的多领域非营利[[Educational Evidence Clearinghouses|证据清算中心]]，致力于为决策者提供改善儿童与家庭福祉的循证干预项目清单([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 7]])。
 >
 > PPN 覆盖社会与行为发展、身心健康、基础教育与经济福利等领域。当前处于**已终止运营并归档（Discontinued / Archived）**状态：兰德公司于 2014 年 6 月结项停止更新，网站于 2019 年底正式下线，全部历史评级报告沉淀于兰德免费公开电子书 [TL145](https://www.rand.org/pubs/tools/TL145.html)。
 
@@ -77,7 +76,7 @@ updated: 2026-08-21
 > PPN 由兰德公司儿童与政策倡议中心发起，受到威廉与弗洛拉·惠普尔基金会等多家慈善基金支持。
 >
 > - **先驱性循证平台** 在 [[What Works Clearinghouse|WWC]] 成立之前，PPN 与 [[Blueprints for Healthy Youth Development|Blueprints]] 共同开创了美国早期循证项目独立评级[[Paradigm|范式]]。
-> - **全美政策参考书** 结项后发布的《改善儿童生活的行之有效与有前景[[Praxis|实践]]指南》（RAND Tools TL145）成为[[Evidence-Based Education|循证教育]]与社会干预的重要历史[[Document|文献]]基准。
+> - **全美政策参考书** 结项后发布的《改善儿童生活的行之有效与有前景实践指南》（RAND Tools TL145）成为[[Evidence-Based Education|循证教育]]与社会干预的重要历史[[Document|文献]]基准。
 
 ---
 
