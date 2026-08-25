@@ -8,9 +8,9 @@ summary: "超越描述性文献汇总的定性研究综述方法，通过批判�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -26,13 +26,14 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Research Utilization]]"
   - "[[Deficit Framing]]"
+  - "[[Methodological Individualism]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
 related_methods:
   - "[[Fieldwork]]"
-  - "[[PRISMA]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
+  - "[[PRISMA]]"
+  - "[[Coding in Qualitative Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
 confidence: high
@@ -72,7 +73,7 @@ updated: 2026-08-26
 > - **不适用的问题** 无法计算干预措施的平均[[Effect Size|效应量]]，也不能替代直接深入一线的田野[[Fieldwork|实地调查]]。
 
 > [!method-stack] 方法层级
-> - **研究设计** 批判性文献综合设计（Critical Synthesis Design）与系统检索流程（如系统综述与元分析优先报告条目，Preferred Reporting Items for Systematic Reviews and Meta-Analyses, [[PRISMA]]）。
+> - **研究设计** 批判性文献综合设计（Critical Synthesis Design）与系统检索流程（如[[Systematic Review|系统综述]]与[[Meta-analysis|元分析]]优先报告条目，[[PRISMA|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], [[PRISMA]]）。
 > - **数据收集** 数据库结构化检索、多阶段双人独立筛选与排除原因记录。
 > - **分析方法** 多维概念[[Coding in Qualitative Research|编码]]（Multidimensional Conceptual Analysis）、论证逻辑解构、推论还原分析。
 > - **辅助工具** 文献特征编码表、概念二维交叉矩阵表、论证逻辑流程图。
@@ -141,4 +142,4 @@ updated: 2026-08-26
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 运用系统性批判综述方法，结合 PRISMA 检索与多维概念分析，对 34 篇关于教育中[[Research Utilization|研究使用]]的[[Document|文献]]进行全文本解构，揭示 30 年来该领域[[Deficit Framing|赤字框架]]与方法论个体主义的局限，并提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]概念框架。
+> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 运用系统性批判综述方法，结合 [[PRISMA]] 检索与多维概念分析，对 34 篇关于教育中[[Research Utilization|研究使用]]的[[Document|文献]]进行全文本解构，揭示 30 年来该领域[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]的局限，并提出第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]概念框架。

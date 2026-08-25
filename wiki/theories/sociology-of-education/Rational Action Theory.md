@@ -7,7 +7,7 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层理论，主张教育决策是阶级条件下对成本、风险和收益的理性计算"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Methodological Individualism]]"
   - "[[Academic Achievement]]"
   - "[[Habitus]]"
   - "[[Champ]]"
@@ -44,7 +45,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-06-18
+updated: 2026-08-26
 ---
 
 # Rational Action Theory
@@ -108,7 +109,7 @@ updated: 2026-06-18
 
 > [!theory-stance] [[Epistemology|认识论]]与方法含义
 > - **[[Ontology|本体论]]** [[Remote Associates Test|RAT]] 预设行动者是理性计算者，在阶级结构的约束条件下做出效用最大化的选择。阶级结构是客观存在的，但通过个体的理性决策被再生产。
-> - **认识论** RAT 采纳个体主义方法论——从个体决策出发解释宏观结构现象。证据类型偏好可量化的成本-收益数据、教育选择数据和阶级流动统计。
+> - **认识论** RAT 采纳[[Methodological Individualism|个体主义方法论]]——从个体决策出发解释宏观结构现象。证据类型偏好可量化的成本-收益数据、教育选择数据和阶级流动统计。
 > - **方法含义** 通常通过大规模调查数据、纵向[[Cohort Study|追踪研究]]和比较不同阶级教育选择的统计模型来检验。Goldthorpe（2007）的七步推理过程——确立规律性→设定理论基础→排除竞争理论→提出[[Hypothesis|假设]]→阐明假设→经验检验→得出结论——是其典型检验策略（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 82–83]]）。
 > - **不能直接推出的东西** RAT 不能自动证明行动者是"完全理性"的——它承认理性是在阶级约束条件下的[[Bounded Rationality|有限理性]]。RAT 也不能解释为什么个体可能有不同于阶级预期的价值观、信仰或情感驱动的教育选择。
 

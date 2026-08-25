@@ -8,7 +8,7 @@ aliases:
 summary: "教育研究利用领域的概念，指研究知识通过传播、翻译、中介与共创进入实践和政策决策的过程，常用于解释证据为何不会自动转化为教学行动。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Professional Judgment]]"
   - "[[Research Utilization]]"
+  - "[[Research-Practice Gap]]"
   - "[[Visible Learning]]"
   - "[[Knowledge Transfer]]"
   - "[[Dialogue in Education]]"
@@ -66,7 +67,7 @@ updated: 2026-08-26
 > [!note]-
 > 当前 vault 中可确认的知识动员演变线索，主要集中在教育[[Research Utilization|研究利用]]与安大略学校改进语境中：
 >
-> - **2010s** — 在[[Evidence-Informed Practice|证据知情实践]]讨论中，KMb 被用来解释“研究-实践鸿沟”不只是供给或需求问题，而是中介、传播和组织条件问题([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127, 130–131]])。
+> - **2010s** — 在[[Evidence-Informed Practice|证据知情实践]]讨论中，KMb 被用来解释“[[Research-Practice Gap|研究-实践鸿沟]]”不只是供给或需求问题，而是中介、传播和组织条件问题([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.127, 130–131]])。
 > - **2015** — [[Argument_Nordahl_2015_Paideia|Nordahl (2015)]] 将 KMb 放进北欧 [[Visible Learning]] 支持路径中，用来说明学校改进的难点不在“有没有研究”，而在“研究怎样进入课堂并变成教师行动”([[Argument_Nordahl_2015_Paideia|Nordahl, 2015, pp.66–67]])。
 > - **2020s — 从线性转移到关系与系统模型** Torres（2022）梳理知识动员概念从线性[[Knowledge Transfer|知识转移]]向关系与系统模型演变，Lockton 等（2022）以“整合”描述研究通过研究者与实践者的持续[[Dialogue in Education|对话]]嵌入实践而非仅靠传播；Hagevold 等（2026）据此把“从实施到整合”作为研究使用的新概念化[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.18)]]。
 

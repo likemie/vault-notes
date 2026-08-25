@@ -6,7 +6,7 @@ aliases:
 summary: "指专业人员以维护专业实践完整性的方式理解、评估与整合研究的能力与德性，被视为教师在有效性与恰当性之间进行专业判断的中介素养"
 type: concept
 domain: "teacher-education"
-related_count: 20
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,23 +21,27 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Teacher Professional Agency]]"
   - "[[Document]]"
+  - "[[Operationalization]]"
+  - "[[Construct]]"
+  - "[[Variable]]"
+  - "[[Literature Search]]"
   - "[[Research Utilization]]"
   - "[[Creativity]]"
   - "[[Questionnaire]]"
   - "[[Deficit Framing]]"
-  - "[[Literature Search]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
-  - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Effect Size]]"
-  - "[[Variable]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Critical Review]]"
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
+  - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
+related_instruments:
+  - "[[Research Literacy Scale for Teachers]]"
 confidence: high
 status: draft
 created: 2026-08-25
@@ -87,16 +91,22 @@ updated: 2026-08-26
 > - **专业讲理能力（Reason-Giving）** 能够清晰说明教学选择的合理性，依托对课堂实践的深入洞察（实践敏感度），向同行与家长阐明缘由。
 > - **因地制宜的灵活性（Flexibility）** 在特定的时间、地点与情境中判断何种做法最合适，依托对具体学情与师生互动的敏锐捕捉（情境敏感度）。
 
+> [!feature] 行为科学与心理测量视阈下的四维度[[Operationalization|操作化]][[Construct|构念]]（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin, 2023]]）
+> - **研究意识（Research Awareness）** 教师对科研主题构成、发表渠道及阅读的先前知识与信息敏锐度（前置背景[[Variable|变量]]）。
+> - **研究态度（Attitude toward Research）** 教师对科研对教学专业价值、专业发展促进作用的积极信念与情感认同（意向驱动变量）。
+> - **研究技能（Research Skills）** 教师在[[Literature Search|文献检索]]、学术探讨、图表与统计分析结果解读等方面的操作能力（知觉行为控制核心变量，解释 46.9% 方差）。
+> - **[[Research Utilization|研究使用]]（Research Use）** 教师在备课、教学法改进、反思与教研[[Dialogue in Education|对话]]中主动应用科研成果的实际行为（外显行为转化变量）。
+
 > [!logic-map]- 要素关系
 > ```mermaid
 > flowchart LR
->     A["研究素养（实践德性）"] --> B["守护专业独立性"]
->     A --> C["专业讲理能力"]
->     A --> D["因地制宜灵活性"]
->     B --> E["体裁敏感度（深谙教学规律）"]
->     C --> F["实践敏感度（立足课堂现实）"]
->     D --> G["情境敏感度（关照具体学情）"]
->     E & F & G --> H["调和有效性与适切性"]
+>     A["研究素养（实践德性与行为构念）"] --> B["守护专业独立性 / 价值认同"]
+>     A --> C["专业讲理能力 / 技能与知觉控制"]
+>     A --> D["因地制宜灵活性 / 实践应用转化"]
+>     B --> E["研究态度与意识"]
+>     C --> F["检索、讨论与统计解读技能"]
+>     D --> G["教学法更新与课堂实践使用"]
+>     E & F & G --> H["促成循证教学与专业反思"]
 > ```
 
 ---
@@ -135,6 +145,16 @@ updated: 2026-08-26
 
 ---
 
+### 命题四　计划行为理论视阈下研究技能构成行为转化的核心控制枢纽，与态度共同驱动研究使用
+
+> [!concept-lens] 行为转化机制与知觉控制枢纽
+> 将研究素养置于行为科学解释链中，探讨研究意识、态度与技能如何协同促成实际的研究使用行为。
+
+> [!claim] [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]]
+> **知觉行为控制与多维赋能** 基于计划行为理论与量表实证检验，研究素养中方差贡献最大的是研究技能（解释 46.90% 方差），表明知觉行为控制是推动教师将积极科研态度（均值高达 4.37）转化为实际教学使用（均值 3.78）的关键中介。亲身做研究对技能提升具有最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动研究使用行为（$\eta^2 = .046$）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–15)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -143,6 +163,7 @@ updated: 2026-08-26
 > | **技艺模型与再情境化** | 研究素养是调和有效性与适切性的专业德性 | 教学决策、循证课程改编、[[Reflexivity\|反思性]]教学实践 | Eriksen (2022); Mausethagen & Hermansen (2023) |
 > | **跨层系统赋能培养** | 研究素养的养成依赖职前与职后系统的协同支持 | 师范生培养、骨干教师培训、校本教研体系建设 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **多源知识整合实践** | 超越技能赤字测度，强调育人伦理与知识动态权衡 | 教师科研素养评价、[[Evidence-Based Education\|循证教育]]改革反思 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
+> | **行为转化与知觉控制** | 技能是态度转化为行动的核心控制枢纽，科研与阅读具赋能效应 | 教师科研素养测评、校本研修与学术期刊阅读支持 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] |
 
 ---
 
@@ -151,6 +172,7 @@ updated: 2026-08-26
 > [!dev-timeline] 概念演变
 > - **2000s–2010s — 信息素养与实证技能测度** [[Document|文献]]多将研究素养[[Operationalization|操作化]]为信息检索、科研文献阅读与数据分析技能（Williams & Coles, 2007; Brown & Zhang, 2016）。
 > - **2022 — 技艺模型与专业德性转向** Eriksen（2022）把研究素养界定为专业德性，在技艺模型框架下提出完整性、讲理与灵活性三德性及三种敏感度。
+> - **2023 — 四维操作化与行为模型构建** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] 基于计划行为理论与[[Research Utilization|研究利用]]模型，提出涵盖意识、态度、技能与使用的四维度量表，实证确立二阶因子结构与科研经验的赋能机制。
 > - **2023 — 案例应用与再情境化** Mausethagen & Hermansen (2023) 在挪威学校案例中展示研究素养在实践中的再情境化过程。
 > - **2025 — 赤字批判与专业敏感重构** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判既有文献将研究素养矮化为个体技能赤字的偏见，确立第四代专业敏感型多源知识整合[[Paradigm|范式]]。
 > - **2026 — 纳入跨层治理机制** Hagevold 等人（2026）把研究素养与技能发展机制联系起来，主张技能发展是超出个体层面的系统责任。
@@ -166,6 +188,7 @@ updated: 2026-08-26
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究 | [[Systematic Review\|系统综述]]＋框架综合 | 技能发展与个体能力主题报告频数 | k = 91 项研究（83%）涉及个体技能与素养 | — | 显示既有[[Document\|文献]]高度聚焦于个体技能测量，存在个体层面偏倚 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 研究素养调查设计与实证结论 | 13 项[[Questionnaire\|问卷调查]]均测出教师态度积极，但 100% 实证研究报告实际使用有限 | — | 表明仅测量个体研究素养无法解释实际使用困境，存在态度与行动的严重脱节 |
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 258 名土耳其中小学在职教师 | 横断面调查（[[Research Literacy Scale for Teachers\|RLS]] 量表与 CFA/MANOVA） | 教师研究素养 4 维度得分及做研究与期刊追踪赋能效应 | 态度均值最高（$M=4.37$），技能（$M=3.74$）与使用（$M=3.78$）偏低；做研究显著提升技能（$\eta^2=.056, p<.001$）；期刊追踪显著提升使用（$\eta^2=.046, p=.001$） | $\Delta\text{CFI} \le .003, \text{RMSEA}=0.060, \text{CFI}=0.94$ | 实证确立四因子二阶结构，证实态度与行为断层及科研经验赋能机制 |
 
 ---
 
@@ -177,6 +200,7 @@ updated: 2026-08-26
 > > 传统实证研究往往将研究素养简化为可通过标准化测试或培训提升的个体技能，并将其作为诊断教师能力缺陷的指标；批判学者则主张研究素养是一种实践德性，必须置于学校生态与知识整合中考量。
 > >
 > > - **Williams & Coles (2007); Brown & Zhang (2016)** 侧重测量个体教师的信息素养与研究态度。
+> > - **[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]]** 主张将意识、态度、知觉技能与外显使用统整建模，通过计划行为理论解释态度向行为转化的知觉控制中介机制。
 > > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判个体测量助长了赤字话语，掩盖了教师在价值冲突与情境权衡中的专业理性。
 > > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 强调若脱离组织与系统的可持续结构与信任机制，单靠提升个体研究素养无法促成深度[[Research Utilization|研究使用]]。
 
@@ -185,5 +209,6 @@ updated: 2026-08-26
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] 基于计划行为理论开发 20 题四维度[[Research Literacy Scale for Teachers|教师研究素养量表]]（RLS），并实证检验科研参与和学术期刊阅读对素养维度的赋能机制。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 把研究素养作为先验框架中适切研究的判断敏感度来源，并在讨论中将其纳入跨层技能发展机制。
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 系统审视了 30 年来将研究素养作为个体赤字指标的[[Document|文献]]倾向，主张转向以多源知识整合与专业规范为支撑的专业敏感型概念化。

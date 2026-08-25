@@ -9,7 +9,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型，受宏观政治议程、中观跨层治理机制以及微观专业知识整合与价值规范的共同制约"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Questionnaire]]"
   - "[[Problem Finding]]"
   - "[[Positivism]]"
+  - "[[Methodological Individualism]]"
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
 related_methods:
   - "[[Framework Synthesis]]"
@@ -73,7 +74,7 @@ updated: 2026-08-26
 
 ## 概念辨析
 
-> [!contrast-table] 研究利用的多尺度分析维度辨析
+> [!contrast-table] 研究利用的多[[Scale in Higher Education|尺度分析]]维度辨析
 > | 维度 | 宏观政策研究利用 | 中观学校治理机制 | 微观教师知识整合 |
 > |------|----------------|----------------|----------------|
 > | **分析对象** | 政府立法、政策文本与政治议程（Weiss, 1991b） | 学校组织文化、信任氛围、领导力与制度环境（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]） | 课堂教学决策、具体学情与师生微观互动（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025]]） |
@@ -150,7 +151,7 @@ updated: 2026-08-26
 > 重构课堂实践中教师运用外部科研的本质，确立专业行动者的自主裁决地位。
 
 > [!claim] [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]
-> **超越赤字框架的专业敏感型整合** 基于对 30 年[[Document|文献]]的[[Critical Review|批判性综述]]，传统文献受[[Deficit Framing|赤字框架]]主导，习惯把教师当成外部知识的被动执行者；第四代研究使用理论指出，教师面对活生生的学生与复杂的教学情境时，必然把外部研究看作多元参考之一，在育人伦理与专业价值观（如公平、关怀与适切性）的指引下，与自身实践经验和具体学情进行动态整合与审慎裁决。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 7–8)]]
+> **超越[[Deficit Framing|赤字框架]]的专业敏感型整合** 基于对 30 年[[Document|文献]]的[[Critical Review|批判性综述]]，传统文献受[[Deficit Framing|赤字框架]]主导，习惯把教师当成外部知识的被动执行者；第四代研究使用理论指出，教师面对活生生的学生与复杂的教学情境时，必然把外部研究看作多元参考之一，在育人伦理与专业价值观（如公平、关怀与适切性）的指引下，与自身实践经验和具体学情进行动态整合与审慎裁决。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 7–8)]]
 
 ---
 
@@ -200,11 +201,11 @@ updated: 2026-08-26
 > >
 > > - **Levin (1991); Radford (2008)** 批评简单影响模型扭曲了教育研究的本质，排斥了无法简化为因果处方的深层质性发现。
 > > - **Cartwright (1991); Cook (1991)** 指出政策决策对快速答案的渴望容易导致对证据适用边界的忽视。
-> >
+
 > > [!axis] [[Deficit Framing|赤字框架]]与循环论证批判
 > > Mausethagen 等人（2025）指出，30 年来[[Document|文献]]将教师预设为缺乏知识与技能的赤字主体，在建议中机械重复提供更多培训与系统支持，导致实证结果不断自我确证初始前设。
 > >
-> > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判传统研究陷入方法论个体主义与循环论证，呼吁转向专业敏感型概念化。
+> > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判传统研究陷入[[Methodological Individualism|方法论个体主义]]与循环论证，呼吁转向专业敏感型概念化。
 > > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 强调必须打破个体归因，转向跨越个体、组织与系统的综合治理机制。
 
 ---
@@ -213,4 +214,4 @@ updated: 2026-08-26
 
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 综合 109 项学校研究使用实证研究，识别出研究[[Document|文献]]的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
-> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]与方法论个体主义对研究使用文献的统治，提出迈向第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]理论。
+> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]对研究使用文献的统治，提出迈向第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]理论。

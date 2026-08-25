@@ -8,10 +8,10 @@ aliases:
 summary: "梳理公共部门与教育领域证据使用思维演进的分析框架，从理性-线性（第一代）、关系网络（第二代）、系统全局（第三代）递进至以教师多源知识整合与专业规范为核心的专业敏感型（第四代）模型"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 22
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-policy
   - theme/research-use
@@ -21,19 +21,21 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Analytic Framework]]"
-  - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Research Utilization]]"
+  - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Central Phenomenon]]"
   - "[[Deficit Framing]]"
   - "[[Research Literacy]]"
-  - "[[Questionnaire]]"
   - "[[Professional Judgment]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Teacher Knowledge Base]]"
   - "[[School Leadership]]"
   - "[[Document]]"
+  - "[[Growth]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Questionnaire]]"
   - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Production]]"
@@ -62,7 +64,7 @@ updated: 2026-08-26
 > - **学术坐标** 起源于公共政策与循证实践研究（Boaz & Nutley, 2019），经由[[Critical Review|批判性文献综述]]拓展至教育专业知识与教师实践研究（[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025]]）。
 
 > [!claim] 核心主张
-> 关于研究使用的理论经历了三代演进：从最初的理性-线性单向传递（第一代），到院校合作与关系网络（第二代），再到学校制度与系统支持（第三代）。前三代模型在底层依然不同程度地将教师预设为外部科研的被动消费者与执行者。第四代理论主张迈向专业敏感型概念化（[[Profession-Sensitive Conceptualisations of Research Use|profession-sensitive conceptualisations]]），充分尊重教师职业的复杂特性，将[[Research Utilization|研究使用]]重构为教师在具体教学情境中，依托育人伦理与实践经验，对多元知识进行主动权衡、筛选与整合的专业决策过程。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 2, 7–8)]]
+> 关于[[Research Utilization|研究使用]]的理论经历了三代演进：从最初的理性-线性单向传递（第一代），到院校合作与关系网络（第二代），再到学校制度与系统支持（第三代）。前三代模型在底层依然不同程度地将教师预设为外部科研的被动消费者与执行者。第四代理论主张迈向专业敏感型概念化（[[Profession-Sensitive Conceptualisations of Research Use|profession-sensitive conceptualisations]]），充分尊重教师职业的复杂特性，将[[Research Utilization|研究使用]]重构为教师在具体教学情境中，依托育人伦理与实践经验，对多元知识进行主动权衡、筛选与整合的专业决策过程。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 2, 7–8)]]
 
 > [!citation-card]- 关键表述
 > 我们主张关于研究使用的研究应当迈向第四代，在更大程度上顾及教师专业实践的核心特征。与其将问题归结为教师能力不足，不如将分析焦点置于知识整合，从而更深入地揭示科研知识在专业实践中的适用边界与真正价值。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 8)]]
@@ -103,7 +105,7 @@ updated: 2026-08-26
 >
 > - **第四代：专业敏感型模型（Profession-Sensitive Models）**
 >
->   **核心特征** 充分尊重教师职业的复杂性，承认教师知识库的多元构成；将研究使用理解为教师在真实课堂中，依托教学经验与育人伦理，对外部科研、学生学情与教学内容进行主动权衡与多源整合（Knowledge Integration）的专业过程。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 7–8)]]
+>   **核心特征** 充分尊重教师职业的复杂性，承认[[Teacher Knowledge Base|教师知识库]]的多元构成；将研究使用理解为教师在真实课堂中，依托教学经验与育人伦理，对外部科研、学生学情与教学内容进行主动权衡与多源整合（Knowledge Integration）的专业过程。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 7–8)]]
 
 ---
 
@@ -115,7 +117,7 @@ updated: 2026-08-26
 
 > [!proposition-chain] 核心命题二｜第四代专业敏感型模型将研究使用重构为基于育人伦理的多源知识动态整合
 > - **前提一** 教师的专业知识结构具备多元与复合特征（Shulman, 1987; Grimen, 2008），外部科研论文只是教师应对具体教学难题时可供调用的参考资源之一（[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025, p. 8]]）。
-> - **前提二** 教师的教学行为深受育人伦理与专业责任约束（Eriksen, 2022），未直接采用某项研究往往源于该结论与具体学情不符，或与促进学生长远发展的教育信念相冲突，而非源于认知缺陷。
+> - **前提二** 教师的教学行为深受育人伦理与专业责任约束（Eriksen, 2022），未直接采用某项研究往往源于该结论与具体学情不符，或与促进学[[Growth|生长]]远发展的教育信念相冲突，而非源于认知缺陷。
 > - **推导** ① 承认教师知识结构的多元性 → ② 聚焦多源知识在实践中的整合与权衡过程（Knowledge Integration） → ③ 确立教师在平衡有效性（what works）与适切性（what is appropriate）时的专业裁决地位。
 
 > [!mechanism-map]- 四代演进机制图
@@ -151,14 +153,14 @@ updated: 2026-08-26
 > [!theory-use] 如何用于研究
 > - **分析政策[[Hypothesis|假设]]** 用于审视[[Evidence-Based Education|循证教育]]政策或教师培训方案，辨识其隐含的思维代际（例如是否仍将教师预设为被动接受者）。
 > - **分析教研实践** 用于深入观察教师在集体备课或校本教研中，如何将外部研究结论转化为具体的教学设计。
-> - **反思过度量化** 批判将文献阅读量或循证指标作为考核教师硬性标准的行政化倾向。
+> - **反思过度量化** 批判将[[Document|文献]]阅读量或循证指标作为考核教师硬性标准的行政化倾向。
 
 ---
 
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 教师难以直接套用外部科研成果的原因、大学与中小学合作中的认识论冲突、[[Evidence-Based Education|循证教育]]政策在学校落实中的落差。
+> - **适合解释** 教师难以直接套用外部科研成果的原因、大学与中小学合作中的[[Epistemology|认识论]]冲突、[[Evidence-Based Education|循证教育]]政策在学校落实中的落差。
 > - **谨慎使用** 完全由一线教师自主开展的[[Action Research|行动研究]]或校本探究（此时[[Knowledge Production|知识生产]]与使用高度合一，较少涉及外源知识与实践割裂的典型矛盾）。
 > - **不适合解释** 纯实验室环境下的短期记忆或认知心理学控制实验。
 

@@ -6,7 +6,7 @@ aliases:
 summary: "官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
+  - "[[Methodological Individualism]]"
   - "[[Document]]"
   - "[[Policy Borrowing]]"
 related_theories:
@@ -121,7 +122,7 @@ updated: '2026-05-18'
 ## 研究范式
 
 > [!info] 研究[[Paradigm|范式]]
-> - **[[Epistemology|认识论]]立场** 方法个体主义（methodological individualism）+ [[Bounded Rationality|有限理性]]（bounded rationality）
+> - **[[Epistemology|认识论]]立场** 方法个体主义（[[Methodological Individualism]]）+ [[Bounded Rationality|有限理性]]（bounded rationality）
 > - **所属传统** 公共选择理论（Public Choice）、奥地利经济学[[Knowledge Questions|知识问题]]传统（Hayek, 1945）
 
 ## 争议与批评

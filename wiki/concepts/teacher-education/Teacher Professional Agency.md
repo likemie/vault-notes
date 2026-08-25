@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，是激发课堂活力与保障师资留任的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 12
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,13 +19,16 @@ tags:
   - theme/teacher-retention
   - theme/educational-governance
 related_concepts:
-  - "[[Professional Judgment]]"
+  - "[[Going Native]]"
+  - "[[Reflexivity]]"
   - "[[Attrition]]"
   - "[[Pride in Learning]]"
+  - "[[Institutional Distrust]]"
   - "[[Research Utilization]]"
+  - "[[Professional Judgment]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
-  - "[[Document]]"
   - "[[Deficit Framing]]"
+  - "[[Document]]"
 related_facts:
   - "[[PISA]]"
   - "[[Estonian STEM Education Model]]"
@@ -47,10 +50,10 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 教师专业能动性（Teacher Professional Agency，又称教师专业自主权）是指一线教师在国家宏观课程框架指引下，在教学策略选择、实验探究设计、本土化课程开发与差异化评价上所拥有的专业决策权、判断力与自主行动空间。它强调教师不是被动执行死板大纲与应试考评的流水线操作者，而是具备主体性反思能力并能根据具体学情自主调适教学的专业决策者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 36)]]
+> 教师专业能动性（Teacher Professional Agency，又称教师专业自主权）是指一线教师在国家宏观课程框架指引下，在教学策略选择、实验探究设计、[[Going Native|本土化]]课程开发与差异化评价上所拥有的专业决策权、判断力与自主行动空间。它强调教师不是被动执行死板大纲与应试考评的流水线操作者，而是具备主体性反思能力并能根据具体学情自主调适教学的专业决策者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, p. 36)]]
 
 > [!concept-lens] 概念透镜
-> - **核心本质** 确立教师作为反思性实践者与课堂教学设计者的主体地位，而非外源方案与行政指令的机械执行工具。
+> - **核心本质** 确立教师作为[[Reflexivity|反思性]]实践者与课堂教学设计者的主体地位，而非外源方案与行政指令的机械执行工具。
 > - **治理功能** 破除自上而下的微观行政规制与过度问责，为解决专业师资短缺、职业倦怠与人才[[Attrition|流失]]提供制度治理杠杆。
 > - **适用边界** 赋权并非脱离国家教育标准的无序放任，而是在明确的育人素养导向下，依托专业信任与高水平持续专业发展赋能教师因材施教。
 
@@ -89,20 +92,20 @@ updated: 2026-08-26
 > 国家课程越宏观包容、教师越受信任赋权，学校越能针对薄弱学生实施因材施教。
 
 > [!claim] 爱沙尼亚经验
-> 爱沙尼亚在国际学生评估项目（Programme for International Student Assessment, [[PISA]]）科学测试中常年位居欧洲第一且社会经济公平度最高，其成功经验证明，国家层面实行宏观宽大纲并给予教师高度专业赋权，是破除科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, STEM）师资短缺、实现高水平普及化科学教育的国际典范。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 31, 36)]]
+> 爱沙尼亚在[[PISA|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）科学测试中常年位居欧洲第一且社会经济公平度最高，其成功经验证明，国家层面实行宏观宽大纲并给予教师高度专业赋权，是破除科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, STEM）师资短缺、实现高水平普及化科学教育的国际典范。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 31, 36)]]
 
 ---
 
 ### 命题三　研究使用研究常以赤字框架呈现教师，而制度性不信任才是压制专业能动性的跨层机制
 
 > [!concept-lens] 制度信任与能动性
-> 问责与标准化治理可能通过制度性不信任压缩专业行动空间，[[Research Utilization|研究使用]]问题因此不能只归因于教师个体。
+> 问责与标准化治理可能通过[[Institutional Distrust|制度性不信任]]压缩专业行动空间，[[Research Utilization|研究使用]]问题因此不能只归因于教师个体。
 
 > [!claim] Hagevold, C. G., et al.
 > **制度性不信任** 问责系统把专业限制在政策方向指定的狭小能动域，构成制度性不信任（institutional distrust），其程度决定研究使用是[[Professional Judgment|专业判断]]与能动性的权限，还是工具性服从；摆脱[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]需要经由可持续结构培育专业能动性，而非依靠工具性指令。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp.16, 18)]]
 
 > [!claim] Mausethagen, S., et al.
-> **赤字框架批判** 研究使用[[Document|文献]]长期把研究使用呈现为缺失或不足（[[Deficit Framing]]），这种框定把问题锚定在教师个体，而系统性条件（信任、技能发展、可持续结构与关系的互动）才是系统性地生产这种赤字的机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.18)]]
+> **[[Deficit Framing|赤字框架]]批判** 研究使用[[Document|文献]]长期把研究使用呈现为缺失或不足（[[Deficit Framing]]），这种框定把问题锚定在教师个体，而系统性条件（信任、技能发展、可持续结构与关系的互动）才是系统性地生产这种赤字的机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.18)]]
 
 ---
 
@@ -121,4 +124,4 @@ updated: 2026-08-26
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026a)]] — 强调必须通过赋予教师专业自主权与全周期学科进修，破解理化生与计算机专业师资短缺的顽疾。
-> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — [[Systematic Review|系统综述]]把专业能动性置于跨层治理机制中：制度性不信任压制能动性，[[Research Utilization|研究使用]]缺陷源于系统条件而非个体；主张以可持续结构培育能动性、从实施走向整合。
+> - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — [[Systematic Review|系统综述]]把专业能动性置于跨层治理机制中：[[Institutional Distrust|制度性不信任]]压制能动性，[[Research Utilization|研究使用]]缺陷源于系统条件而非个体；主张以可持续结构培育能动性、从实施走向整合。

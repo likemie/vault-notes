@@ -23,8 +23,8 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
+  - "[[Teacher Knowledge Base]]"
   - "[[Technical Rationality]]"
-  - "[[Growth]]"
   - "[[Teacher Professional Agency]]"
   - "[[Variable]]"
   - "[[Phronesis]]"
@@ -57,11 +57,11 @@ updated: 2026-08-26
 
 > [!concept-lens] 概念透镜
 > - **核心转变** 分析焦点从教师是否机械套用论文结论，转向专业教师在日常教学中如何将科研证据与多样化知识资源有机融会。
-> - **理论用途** 帮助研究者跳出指责教师能力不足的思维定势，合理解释一线教师面对外部科研成果时，为何会进行选择性吸收、创造性转化甚至审慎搁置。
+> - **理论用途** 帮助研究者跳出指责教师能力不足的思维定势，合理解释一线教师面对外部科研成果时，为何会进行选择性吸收、[[Creativity|创造性]]转化甚至审慎搁置。
 > - **适用边界** 并不否认实证科研的重要价值，而是反对脱离教师实际教学情境与育人价值的机械移植。
 
 > [!citation-card]- 关键表述
-> 针对教师知识库的研究日益强调，教师在日常工作中持续努力整合多样化的知识资源。即便在将研究使用概念化为复杂、多向现象的研究中，也很少有人分析关注知识整合的特征以及该活动对教师提出的要求……更具专业敏感性的概念对于深刻理解研究使用这一经验现象是必不可少的。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 8)]]
+> 针对[[Teacher Knowledge Base|教师知识库]]的研究日益强调，教师在日常工作中持续努力整合多样化的知识资源。即便在将研究使用概念化为复杂、多向现象的研究中，也很少有人分析关注知识整合的特征以及该活动对教师提出的要求……更具专业敏感性的概念对于深刻理解研究使用这一经验现象是必不可少的。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 8)]]
 >
 > *Research on teachers’ knowledge base is increasingly emphasising teachers’ continuous efforts to integrate diverse knowledge resources as part of their everyday work... an analytical focus on knowledge integration would more strongly emphasise the constraints and affordances of research knowledge as a component of professional practice... more profession-sensitive concepts are needed to create a deeper understanding of the empirical phenomenon of research use.*
 
@@ -142,7 +142,7 @@ updated: 2026-08-26
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1980s–2000s — 教师专业知识库奠基** Shulman（1987）与 Grimen（2008）等学者系统阐述了教师知识库的多元构成与专业实践特征。
+> - **1980s–2000s — [[Teacher Knowledge Base|教师专业知识库]]奠基** Shulman（1987）与 Grimen（2008）等学者系统阐述了教师知识库的多元构成与专业实践特征。
 > - **2022 — 循证实践与[[Phronesis|实践智慧]]的调和** Eriksen（2022）从专业社会学视角提出专业人员[[Research Literacy|研究素养]]的技艺模型与价值中介。
 > - **2025 — 专业敏感型[[Research Utilization|研究使用]]概念正式确立** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 整合专业知识理论与[[Critical Review|批判性综述]]发现，明确提出迈向第四代专业敏感型概念化的完整理论议程。
 

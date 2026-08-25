@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -54,8 +54,11 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemic Stances]]"
+  - "[[Research-Practice Gap]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Institutional Distrust]]"
   - "[[Epistemology]]"
+  - "[[Research-Practice Partnership]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Transfer]]"
   - "[[Opportunist Mode]]"
@@ -63,6 +66,7 @@ related_concepts:
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Governing Mechanisms of Research Use]]"
+  - "[[Ecosystem for Research-Engaged Schools]]"
   - "[[Critical Realism]]"
   - "[[Organizational Culture]]"
 related_methods:
@@ -81,6 +85,7 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[OECD]]"
+  - "[[Ofsted]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
 sources:
@@ -99,7 +104,7 @@ updated: 2026-08-26
 > [!question]
 > 二十年来，各国教育系统都把"用研究证据改进学校"当作目标，但多项国际测试显示，学生成绩在许多领域仍在下滑。这段历史可追溯到 1996 年 Hargreaves 在伦敦教师培训署（Teacher Training Agency）的演讲，它引发了与 Hammersley 关于"教学能否成为研究本位专业"的争论。此后"什么有效"（What Works）运动兴起：[[Argument_Slavin_2002_ER|Slavin (2002)]]主张用[[Randomised Controlled Trials|随机对照试验]]检验教学法，Hattie（2008）的《[[Visible Learning|可见的学习]]》把"[[Effect Size|效应量]]"带进教师词汇，美国 What Works 信息交换所和英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）等机构负责[[Evaluation Research|评价研究]]质量、充当证据中介。但"识别并传播有效干预本身就会带来实践改变"的[[Hypothesis|假设]]并未如期实现，于是出现了强调把证据[[Transfer Translation Transformation|转译]]进实践的实施研究（implementation research）。
 >
-> 在数据问责的推动下，标准化的"证据本位"做法常常变成对研究的[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]：新做法只是浅层叠加在旧思维之上。[[OECD]] 教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）2021 年启动"加强教育研究的影响"项目，呼吁从"中介"转向"参与"，并指出深思熟虑的参与只有在信任的环境里才能[[Growth|生长]]（Révai, 2022; Révai & Mouthaan, 2023）。与此同时，[[New Public Management|新公共管理]]与[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM）带来的竞争、标准化与问责，进一步压缩了信任与创新的空间（Sahlberg, 2023）。
+> 在数据问责的推动下，标准化的"证据本位"做法常常变成对研究的[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]（Weiss, 1979）：新做法只是浅层叠加在旧思维之上。[[OECD]] 教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）2021 年启动"加强教育研究的影响"项目，呼吁从"中介"转向"参与"，并指出深思熟虑的参与只有在信任的环境里才能[[Growth|生长]]（Révai, 2022; Révai & Mouthaan, 2023）。与此同时，[[New Public Management|新公共管理]]与[[Global Education Reform Movement|全球教育改革运动]]（Global Education Reform Movement, GERM）带来的竞争、标准化与问责，进一步压缩了信任与创新的空间（Sahlberg, 2023）。
 >
 > 既有[[Systematic Review|系统综述]]反复列出[[Research Utilization|研究使用]]的障碍清单，却很少说明研究参与真正发生时是什么样子，也没有解释这些障碍为何如此顽固。要回答的问题有两个：第一，经验研究如何描述学校中的[[Research Utilization|研究使用]]，其中包含哪些组成部分，它们之间是什么关系？第二，[[Document|文献]]里提到了哪些阻碍和促进研究使用的因素？
 
@@ -122,7 +127,7 @@ updated: 2026-08-26
 > | **[[Governing Mechanisms of Research Use\|研究使用治理机制（Governing Mechanisms of Research Use）]]**<br>[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 修订框架：信任、技能发展、可持续结构和关系四类机制横跨并贯通个体、组织、系统三层，解释最顽固的研究使用障碍为何反复出现、靠什么条件才能转化。（pp.4, 8, 18–19） |
 > | **[[Conceptual, Instrumental, and Symbolic Use of Research\|深层使用框架（Deep Use）]]**<br>Farley-Ripple et al. (2018, 2022) | 关注学校用的是什么证据、怎么用：区分工具性、策略性和概念性使用，并把实践者如何搜寻、解释、整合研究视为研究使用的核心活动；用来界定深思熟虑参与与恰当研究之间的双向关系。（p.4） |
 > | **[[Research Literacy\|研究素养（Research Literacy）]]**<br>Eriksen (2022) | 把教师专业工作看成一种技艺而非艺术/科学的两极，主张教师靠完整性、讲理、灵活性三种德性来判断研究是否适合当下情境；用来界定恰当研究的标准，即研究要被实践者带判断地消化，而不是照搬。（pp.4–5） |
-> | **研究参与学校生态系统模型（Ecosystem for Research-Engaged Schools）**<br>Godfrey & Brown (2019) | 用微观、中观、外、宏观、时间五个生态层刻画研究参与如何嵌入更大的教育生态，为个体、组织、系统三个分析层级提供子主题来源。（pp.4–5） |
+> | **[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型（Ecosystem for Research-Engaged Schools）]]**<br>Godfrey & Brown (2019) | 用微观、中观、外、宏观、时间五个生态层刻画研究参与如何嵌入更大的教育生态，为个体、组织、系统三个分析层级提供子主题来源。（pp.4–5） |
 > | **内外复杂性（Internal and External Complexity）**<br>Kvernbekk (2016); Perry & Morris (2023) | 实践者面对研究时该追问四件事：研究在什么内部条件下产生、将用到什么外部情境、会有什么副作用、有没有替代办法；用来界定深思熟虑参与要回答的判定问题。（p.4） |
 
 > [!warrant]- 理论如何支撑论证
@@ -219,18 +224,35 @@ updated: 2026-08-26
 > [!ref-table] 障碍因素：按层级的完整清单
 > | 层级 | 因素（k） | 说明 |
 > |---|---|---|
-> | **系统层面** | 问责（k = 11） | 高利害考试是时间使用的优先项，挤占研究阅读（Baildon & Ong, 2022）；威胁教师自由与自主（Brown et al., 2022）；还把"数据"与"研究"混为一谈，教师更信 Ofsted 报告而非同行评议论文（Cain, 2017）；低表现学校尤其风险规避，高表现系统也可能用它阻止资源分配（Barrett & Prendergast, 2025） |
-> | **组织层面** | 时间（k = 46） | 最常被引用的障碍；缺乏专门、受保护的教研时间，研究参与只能挤占教师已很紧张的日程 |
-> | **个体层面** | 技能缺失（k = 22） | 无法获取与理解研究、无法批判评估、缺乏应用信心、看不出相关性；常可追溯到培训不足（Ahmed, 2016; Davidson & Nowicki, 2012） |
-> | **核心构件** | 参与（k = 5） | 深思熟虑参与被报告为障碍的情形，主要指参与缺位或停留在浅层象征使用 |
+> | 系统层面 | 问责（k = 11） | 高利害考试是时间使用的优先项，挤占研究阅读（Baildon & Ong, 2022）；威胁教师自由与自主（Brown et al., 2022）；还把“数据”与“研究”混为一谈，教师更信 [[Ofsted]] 报告而非同行评议论文（Cain, 2017）；低表现学校尤其风险规避，高表现系统也可能用它阻止资源分配（Barrett & Prendergast, 2025） |
+> |  | 教师培训不足（k = 12） | 职前教师教育普遍缺乏研究方法训练（如 Agbenyega et al., 2023; Ashur & Bagadood, 2022），持续专业发展也少有研究能力建设（Cooper et al., 2017; Kowalczuk-Walędziak et al., 2024） |
+> |  | 工作条件（k = 16） | 极端工作量让教师忙于日常“救火”，还要面对大班额与复杂学生需求；低薪与低士气进一步削弱投入（Ahmed & Pervin, 2015） |
+> |  | [[Research-Practice Gap\|研究-实践鸿沟]]（k = 13） | 被形容为“两个分离的世界”（Hartmann & Decristan, 2018）、“巨大的空洞”（Davidson & Nowicki, 2012）；法国研究者与实践者“彼此不理解”（Gaussel et al., 2021） |
+> | 组织层面 | 时间（k = 46） | 最常被引用的障碍；缺乏专门、受保护的教研时间，研究参与只能挤占教师已很紧张的日程 |
+> |  | 获取（k = 31） | 难以获得研究材料与中介支持，教师接触不到合适的文献与资源 |
+> |  | 资源（k = 15） | 材料、角色分工与经费不足，与时间和获取共同构成结构性障碍 |
+> |  | 文化（k = 18） | 缺乏研究文化，研究参与被留给个别有兴趣的教师（Booher et al., 2020）；自上而下指令常“凭空而来”（Boyne & Beadle, 2017）；“没时间”的抱怨常是更深层问题（缺代理、缺支持、缺决策话语权）的替代说法（Baildon et al., 2022） |
+> |  | 领导（k = 21） | 领导不提供支持、冷漠或主动阻碍研究（Abbott et al., 2017; Ahmed & Pervin, 2015）；“更受截止日期驱动，而非研究驱动”（Baildon et al., 2022），其他优先事项挤压研究 |
+> | 个体层面 | 技能缺失（k = 22） | 无法获取与理解研究、无法批判评估、缺乏应用信心、看不出相关性；常可追溯到培训不足（Ahmed, 2016; Davidson & Nowicki, 2012） |
+> |  | 不利心态（k = 16） | 缺乏信任、兴趣与相关感，造成研究与日常现实的脱节和冷漠（Ahmed & Pervin, 2015; Hwang, 2023）；固定心态与舒适区惯性进一步固守现状（Ashur & Bagadood, 2022） |
+> |  | 关系脱节（k = 25） | 研究者与教师被形容为“完全分离的系统”（Hartmann & Decristan, 2018）、“巨大的鸿沟”（Davidson & Nowicki, 2012）；协作还比预期更耗时（Guckert et al., 2016），教师在校内也常孤立工作 |
+> | 核心构件 | 参与（k = 5） | 深思熟虑参与被报告为障碍的情形，主要指参与缺位或停留在浅层象征使用 |
+> |  | 不恰当研究（k = 50） | 缺乏实用性（Ahmed & Pervin, 2015; Lastrapes & Mooney, 2021），或过度简化、扭曲了原研究，反而阻碍使用（Booher et al., 2020; Sharples & Sheard, 2015） |
 
 > [!ref-table] 促进因素：按层级的完整清单
 > | 层级 | 因素（k） | 说明 |
-> |---|---|---|> [!voice]- 原研究里的真实声音
-> - **高利害考试挤压用研究** 美国一位教师说："你们让我灵活地把研究融入课堂，可出期末卷的不是我，是他们。你一方面有很多选择自由，另一方面最好让学生把考试范围都过一遍。在这种情况下，用研究、引进基于研究的想法，对老师来说负担太重。说白了，这等于跟系统对着干。"（Tekleselassie, 2006, p. 189）
-> - **指令"凭空而来"** 一位教师形容自上而下指令的武断："我们要照做的指令是凭空冒出来的。"（Boyne & Beadle, 2017, p. 19）
-> - **领导只看截止日期** 一位教师说："领导不会说'因为你做了研究所以计划很扎实'。他们只想要快——'我要这个项目，下周就要'。这更像是截止日期驱动的，而不是研究驱动的。"（Baildon et al., 2022, p. 6）
->
+> |---|---|---|
+> | 系统层面 | 司法辖区支持 | 上级行政（司法辖区）的支持是少见的系统层促进因素（Prendergast & Rickinson, 2019） |
+> |  | 改革与立法 | 文献更多是建议，主张通过改革或立法加大研究使用支持（Brown et al., 2022; Kowalczuk-Walędziak et al., 2024） |
+> | 组织层面 | 专时专用与正式协作结构 | 专门、受保护、排进日程的教研时间（Bergmark, 2022; Gleeson et al., 2024），以及正式会议与引导式协作（Cornelissen et al., 2017） |
+> |  | 文化（k = 19） | 支持性文化建立正反馈循环（Abbott et al., 2017）；积累“关键多数”的承诺教师是形成研究文化的策略（Hemsley-Brown, 2005） |
+> |  | 领导（k = 25） | 领导倡导研究（Baildon & Ong, 2022）、建立信任与自主（Baan et al., 2023）、分配时间并培育协作文化（Brown, 2017） |
+> | 个体层面 | 技能（k = 22） | 基本研究技能、转化应用技能、人际协作技能都促进使用；正式教育与专门训练是研究使用的预测因子（Davidson, 2013; Reichenberg, 2021） |
+> |  | 有利心态（k = 29） | 好奇与专业伦理构成内在动机（Bergmark, 2022; Brown, 2017），承诺满足学生需求也是强劲动力（Kowalczuk-Walędziak et al., 2024）；外部激励（地位、奖金、课程资助）也有帮助（Abbott et al., 2017） |
+> |  | 关系连接（k = 35） | 信任的同事网络、期刊俱乐部（Boyne & Beadle, 2017）、探究小组（Cornelissen et al., 2017）、实践共同体，以及跨校与研究者/大学伙伴关系（Ion et al., 2021） |
+> | 核心构件 | 深思熟虑参与（k = 18） | 既可以是工具性的（教师用它解决实践问题，Sinnema et al., 2011），也可以是协作性的（引发对话讨论，Brown & Zhang, 2017）；带来具体改变并增强[[Teacher Professional Agency\|教师能动性]]（“我可以拥有自己工作的所有权”，Hofmann & Ilie, 2022, p. 14） |
+> |  | 恰当研究（k = 35） | 兼具实用性并维护研究完整性，需要在格式、内容、情境相关性与语言之间取得平衡 |
+
 > [!example]- 图3：研究使用的障碍与促进因素
 > ![](https://img.mylikemie.icu/sources/Hagevold_Forsstrom_Keles_2026_ERR/figures/Hagevold_Forsstrom_Keles_2026_ERR_Fig3_Barriers_Enablers.jpg)
 
@@ -246,13 +268,13 @@ updated: 2026-08-26
 
 > [!theory-components] 治理研究使用的四类跨层机制
 > - **信任（Trust）**
->   系统之外，信任涉及公众与研究、公众与专业行动者的关系，常常靠制度性不信任维持：问责体系把专业人员限定在政策指定的狭小能动范围内。组织层面，信任连接着文化与领导，高信任的环境鼓励试错和创新，低信任的环境则让人"安全行事"、变得顺从和惰性。个体层面，信任既连着社会整体的研究信任，也连着[[Epistemology|认识论]]信任，也就是对来源的信任，从同事推荐到知名研究者和期刊。（p.16）
+>   系统之外，信任涉及公众与研究、公众与专业行动者的关系，常常靠[[Institutional Distrust|制度性不信任]]维持：问责体系把专业人员限定在政策指定的狭小能动范围内。组织层面，信任连接着文化与领导，高信任的环境鼓励试错和创新，低信任的环境则让人"安全行事"、变得顺从和惰性。个体层面，信任既连着社会整体的研究信任，也连着[[Epistemology|认识论]]信任，也就是对来源的信任，从同事推荐到知名研究者和期刊。（p.16）
 > - **技能发展（Skills Development）**
 >   从系统之外看，它涉及教师教育里理论与实践关系的长期争论。在师范教育或持续专业发展中接触过研究的教师和领导者，更常参与研究。系统层面领导者的研究技能不足，会表现为下层的碎片化使用，而且常被下层识破（如 Wescott, 2022; Boyne & Beadle, 2017）。个体层面，检索、评估、整合研究的技能直接决定使用程度。（p.16）
 > - **可持续结构（Sustainable Structures）**
 >   它决定时间和工作条件的分配。系统之外涉及教师的工作协议、课程和课表；系统层面涉及资助和跨机构衔接；组织层面首先是领导如何安排研究讨论的时间和空间。"可持续"强调的是，研究使用要从临时项目变[[Growth|成长]]期、整合的专业常态。个体层面，结构条件还要转化为教师主动利用这些时间和空间的专业责任。（pp.16–17）
 > - **关系（Relationships）**
->   从系统之外看，研究者与实践者之间的"鸿沟"是最清晰的跨层机制。弥合鸿沟需要研究者、系统层面决策者和组织、个体层面的实践者彼此建立互惠关系，形式可以是正式课程、专业发展或研究-实践伙伴关系。关键是尊重对方专业领域的管辖权，并且基于信任和好奇展开开放对话。（p.17）
+>   从系统之外看，研究者与实践者之间的"鸿沟"是最清晰的跨层机制。弥合鸿沟需要研究者、系统层面决策者和组织、个体层面的实践者彼此建立互惠关系，形式可以是正式课程、专业发展或[[Research-Practice Partnership|研究-实践伙伴关系]]。关键是尊重对方专业领域的管辖权，并且基于信任和好奇展开开放对话。（p.17）
 
 > [!example]- 图4：学校[[Governing Mechanisms of Research Use|研究使用的跨层治理机制]]（修订框架）
 > ![](https://img.mylikemie.icu/sources/Hagevold_Forsstrom_Keles_2026_ERR/figures/Hagevold_Forsstrom_Keles_2026_ERR_Fig4_Revised_Framework.jpg)
@@ -326,7 +348,7 @@ updated: 2026-08-26
 > [!warning]
 > 原文明确自述以下研究局限与边界条件：
 > 1. **范围收窄** 检索结果量太大，因此排除了理论/概念性论文、非同行评议期刊和非英语研究，也没有手工检索参考[[Document|文献]]清单或灰色文献，可能漏掉一些符合条件的研究。发表时间窗口也因此受限，难以捕捉[[Research Utilization|研究使用]]框定的历史变化（以初始框架整合既有理论与概念工作作为缓解）（p.19）。
-> 2. **跨情境适用性未定** 修订框架主要依据英语国家和西欧的研究，这些系统普遍有较高的学校自主、成熟的教师专业发展和运转中的研究基础设施。在中央集权、后社会主义或低资源情境下是否适用，仍是开放问题；比如高度中央集权的系统里，信任机制可能因结构性制度性不信任而运作得很不一样；在低资源环境里，可持续结构可能受到很大约束，框架的建议恐怕只能算理想目标，难以立刻落地（p.19）。
+> 2. **跨情境适用性未定** 修订框架主要依据英语国家和西欧的研究，这些系统普遍有较高的学校自主、成熟的教师专业发展和运转中的研究基础设施。在中央集权、后社会主义或低资源情境下是否适用，仍是开放问题；比如高度中央集权的系统里，信任机制可能因结构性[[Institutional Distrust|制度性不信任]]而运作得很不一样；在低资源环境里，可持续结构可能受到很大约束，框架的建议恐怕只能算理想目标，难以立刻落地（p.19）。
 > 3. **不作因果主张** 不声称不同研究使用方式与其结果之间存在因果联系，需要后续研究来检验（p.19）。
 > 4. **团队取向可能影响分析** 团队偏向专业能动性与社会生态框架，可能让个体层面的因素在配置式综合里相对不突出；换成别的团队，也许会对不同机制给出不同权重（pp.6, 8）。
 

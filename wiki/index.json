@@ -2100,6 +2100,16 @@
     ]
   },
   {
+    "title": "Data-Based Decision Making",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Data-Based Decision Making.md",
+    "aliases": [
+      "基于数据的决策",
+      "数据本位决策",
+      "DBDM"
+    ]
+  },
+  {
     "title": "Deficit Framing",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Deficit Framing.md",
@@ -2246,6 +2256,15 @@
     ]
   },
   {
+    "title": "Institutional Distrust",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Institutional Distrust.md",
+    "aliases": [
+      "制度性不信任",
+      "制度不信任"
+    ]
+  },
+  {
     "title": "Knowledge Mobilisation",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md",
@@ -2356,6 +2375,16 @@
     ]
   },
   {
+    "title": "Practice-Based Evidence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Practice-Based Evidence.md",
+    "aliases": [
+      "基于实践的证据",
+      "实践本位证据",
+      "实践产生的证据"
+    ]
+  },
+  {
     "title": "Professional Judgment",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md",
@@ -2409,6 +2438,36 @@
       "研究使用",
       "知识利用",
       "knowledge utilization"
+    ]
+  },
+  {
+    "title": "Research-Informed Teaching Practice",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Research-Informed Teaching Practice.md",
+    "aliases": [
+      "研究知情教学实践",
+      "研究本位教学实践",
+      "RITP"
+    ]
+  },
+  {
+    "title": "Research-Practice Gap",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Research-Practice Gap.md",
+    "aliases": [
+      "研究-实践鸿沟",
+      "研究与实践的鸿沟",
+      "research-practice divide"
+    ]
+  },
+  {
+    "title": "Research-Practice Partnership",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Research-Practice Partnership.md",
+    "aliases": [
+      "研究-实践伙伴关系",
+      "研究实践合作",
+      "RPP"
     ]
   },
   {
@@ -7910,6 +7969,15 @@
     ]
   },
   {
+    "title": "Methodological Individualism",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Methodological Individualism.md",
+    "aliases": [
+      "方法论个体主义",
+      "个体主义方法论"
+    ]
+  },
+  {
     "title": "Methodological Nationalism",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Methodological Nationalism.md",
@@ -9794,6 +9862,17 @@
     ]
   },
   {
+    "title": "Teacher Knowledge Base",
+    "type": "concept",
+    "path": "wiki/concepts/teaching-teacher-education/Teacher Knowledge Base.md",
+    "aliases": [
+      "教师知识库",
+      "教师知识基础",
+      "teachers’ knowledge base",
+      "教师专业知识库"
+    ]
+  },
+  {
     "title": "Confucian Learning Tradition",
     "type": "theory",
     "path": "wiki/theories/chinese-philosophy/Confucian Learning Tradition.md",
@@ -10178,6 +10257,16 @@
     "path": "wiki/theories/educational-philosophy/Virtue Epistemology.md",
     "aliases": [
       "美德认识论"
+    ]
+  },
+  {
+    "title": "Ecosystem for Research-Engaged Schools",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Ecosystem for Research-Engaged Schools.md",
+    "aliases": [
+      "研究参与学校生态系统模型",
+      "研究参与学校生态",
+      "Godfrey and Brown ecosystem model"
     ]
   },
   {
@@ -13391,6 +13480,16 @@
     ]
   },
   {
+    "title": "Research Literacy Scale for Teachers",
+    "type": "instrument",
+    "path": "wiki/instruments/scales/Research Literacy Scale for Teachers.md",
+    "aliases": [
+      "教师研究素养量表",
+      "RLS",
+      "Research Literacy Scale"
+    ]
+  },
+  {
     "title": "Cognitive Ability Test KFT",
     "type": "instrument",
     "path": "wiki/instruments/tests/Cognitive Ability Test KFT.md",
@@ -14942,6 +15041,15 @@
       "瓦尔特·博德默尔",
       "沃尔特·博德默",
       "Sir Walter Bodmer"
+    ]
+  },
+  {
+    "title": "Carol Weiss",
+    "type": "person",
+    "path": "wiki/persons/us/Carol Weiss.md",
+    "aliases": [
+      "卡罗尔·韦斯",
+      "Weiss, C. H."
     ]
   },
   {
@@ -19434,6 +19542,11 @@
     "title": "Argument_Sandoval_2016_RRE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Review of Research in Education/Argument_Sandoval_2016_RRE.md"
+  },
+  {
+    "title": "Argument_Kazanci_Tinmaz_Sezgin_2023_SO",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md"
   },
   {
     "title": "Argument_Hattie_2015_SOTLP",

@@ -11,7 +11,7 @@ aliases:
 summary: "对研究利用方式的经典三分类：概念性使用指研究以间接方式影响理解与思考，工具性使用指研究直接用于具体决策，象征性使用指研究被事后用来为已定决策背书"
 type: concept
 domain: "educational-policy-reform"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -31,7 +31,8 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Carol Weiss]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
@@ -109,7 +110,7 @@ updated: 2026-08-26
 > [!concept-lens] 类型学源流
 > [[Research Utilization|研究利用]]的方式可以用有限几种类型概括，各种类型对应不同的知识与决策关系。
 
-> [!claim] Weiss, C. H.
+> [!claim] [[Carol Weiss|Weiss, C. H.]]
 > **七模型起源** 1979 年提出七种研究使用模型（知识驱动、问题解决、互动、政治、战术、启蒙、以及研究作为社会智识事业的一部分），为后来的类型学提供基础。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.3)]]
 
 > [!claim] Nutley, S. M., et al.

@@ -7,7 +7,7 @@ aliases:
 summary: "由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 25
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -25,7 +25,9 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[School Leadership]]"
+  - "[[Research-Practice Partnership]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Institutional Distrust]]"
   - "[[Growth]]"
   - "[[Hypothesis]]"
   - "[[Abstract]]"
@@ -38,6 +40,7 @@ related_concepts:
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Critical Realism]]"
+  - "[[Ecosystem for Research-Engaged Schools]]"
 related_methods:
   - "[[Framework Synthesis]]"
   - "[[Coding in Qualitative Research]]"
@@ -85,11 +88,11 @@ updated: 2026-08-26
 > | 信任（Trust） | 机制 | 涵盖系统外的机构信任与不信任、组织层面的信任文化、个体层面的[[Epistemology\|认识论]]信任；是开放[[Dialogue in Education\|对话]]与风险承担的前提 |
 > | 技能发展（Skills Development） | 机制 | 教师与[[School Leadership\|学校领导]]者检索、评估、整合研究的技能，以及系统层面领导者使用研究的技能；依赖初始教育与持续专业发展 |
 > | 可持续结构（Sustainable Structures） | 机制 | 时间与工作条件、教研组织与制度安排的结构化分配，使研究参与成为长期整合特征而非临时项目 |
-> | 关系（Relationships） | 机制 | 研究者、决策者与实践者之间的互惠关系与研究-实践伙伴关系，是信任的社会基础设施 |
+> | 关系（Relationships） | 机制 | 研究者、决策者与实践者之间的互惠关系与[[Research-Practice Partnership\|研究-实践伙伴关系]]，是信任的社会基础设施 |
 > | 领导力（Leadership） | 催化条件 | 不被纳入四机制本身，而是启动与分配资源、创造愿景、推动四机制的催化剂 |
 > | 文化（Culture） | 结果 | 四机制运行的环境，同时是机制运作的产物 |
 > | [[Research Utilization\|研究利用（Research Utilization）]] | 概念 | 框架所解释的总体现象：研究进入专业决策与实践的方式 |
-> | [[Teacher Professional Agency\|教师专业能动性（Teacher Professional Agency）]] | 概念 | 机制所要促成或可能被制度性不信任压制的专业行动空间 |
+> | [[Teacher Professional Agency\|教师专业能动性（Teacher Professional Agency）]] | 概念 | 机制所要促成或可能被[[Institutional Distrust\|制度性不信任]]压制的专业行动空间 |
 
 ---
 
@@ -144,7 +147,7 @@ updated: 2026-08-26
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 学校中[[Research Utilization|研究使用]]的持续障碍、促成条件及其跨层互动；设计支持研究整合的政策与学校改进路径。
-> - **谨慎使用** 中央集权系统、后社会主义教育情境或低资源环境中的适用性仍是开放经验问题；例如高度中央集权系统中信任机制可能因结构性制度性不信任而运作不同。
+> - **谨慎使用** 中央集权系统、后社会主义教育情境或低资源环境中的适用性仍是开放经验问题；例如高度中央集权系统中信任机制可能因结构性[[Institutional Distrust|制度性不信任]]而运作不同。
 > - **不适合解释** 不声称研究使用与学业结果之间的因果效果，不能替代对具体干预的因果评估。
 > - **常见误用** 把四机制当作"研究使用促进清单"逐项打勾；或把基于英语国家与西欧证据的框架直接推广到其它系统。
 
@@ -153,7 +156,7 @@ updated: 2026-08-26
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1979–2018 — 概念积累** Weiss（1979）提出[[Research Utilization|研究使用]]的多重意义与概念性／工具性／象征性类型学；Farley-Ripple 等（2018）提出深层使用框架；Rickinson 等（2022）提出 [[Quality Use of Research Evidence Framework|QURE]]；Godfrey & Brown (2019) 提出研究参与学校生态系统模型。
+> - **1979–2018 — 概念积累** Weiss（1979）提出[[Research Utilization|研究使用]]的多重意义与概念性／工具性／象征性类型学；Farley-Ripple 等（2018）提出深层使用框架；Rickinson 等（2022）提出 [[Quality Use of Research Evidence Framework|QURE]]；Godfrey & Brown (2019) 提出[[Ecosystem for Research-Engaged Schools|研究参与学校生态系统模型]]。
 > - **2026 — 机制框架提出** Hagevold 等人（2026）以整合这些框架的初始框架为先验透镜进行[[Framework Synthesis|框架综合]]，配置式分析识别出信任、技能发展、可持续结构与关系四类跨层治理机制，并把初始框架修订为四机制框架。
 
 ---
@@ -170,7 +173,7 @@ updated: 2026-08-26
 > > [!axis] 跨情境适用性
 > > 框架主要基于英语国家与西欧教育语境，其中央集权或低资源系统中的运作方式未知。
 > >
-> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026, p.19)]]** 明确承认在高度中央集权系统中信任机制可能因结构性制度性不信任而不同运作，低资源环境中可持续结构可能面临约束。
+> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026, p.19)]]** 明确承认在高度中央集权系统中信任机制可能因结构性[[Institutional Distrust|制度性不信任]]而不同运作，低资源环境中可持续结构可能面临约束。
 
 > [!warning] 作者自述边界
 > 修订框架主要基于英语国家与西欧教育情境的研究，其普适性有待检验；不声称四机制与使用结果之间存在因果联系，并明确表示修订框架需要在未来研究中测试（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.19]]）。

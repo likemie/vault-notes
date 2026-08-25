@@ -7,9 +7,9 @@ summary: "一种用于检验观测变量（如问卷题项）与潜在结构（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags: []
 related_concepts:
@@ -34,6 +34,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Greene_2010_JEP]]"
+  - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
 confidence: medium
 status: draft
 created: 2026-08-15
@@ -152,3 +153,4 @@ updated: 2026-08-15
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] —  使用验证性因子分析（CFA）评估了《[[Epistemic and Ontological Cognition Questionnaire|认识论与本体论认知问卷]]》（EOCQ）在数学和历史领域的维度结构及其数据拟合度。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 对 258 名中小学教师数据进行一阶与二阶 CFA 检验，验证了包含意识、态度、技能与使用的四因子 20 题结构，并利用多组 CFA 确立了跨性别的严格测量等值性。

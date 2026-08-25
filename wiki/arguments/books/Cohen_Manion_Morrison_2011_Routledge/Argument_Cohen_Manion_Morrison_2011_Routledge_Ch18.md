@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 56
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,11 +35,13 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Technical Rationality]]"
   - "[[Reflexivity]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Research Question]]"
   - "[[Reflective Thinking]]"
+  - "[[Research-Practice Gap]]"
   - "[[Didaktik]]"
   - "[[Scientific Method]]"
   - "[[Variable]]"
@@ -96,13 +98,13 @@ related_persons:
   - "[[Donald A. Schön]]"
 status: draft
 created: 2026-07-18
-updated: 2026-08-20
+updated: 2026-08-26
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18
 
 ## 概念地图
 
-> [!knowledge-map]- 第18章　概念地图
+> [!knowledge-map]- 第18章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_18_Concept_Map.jpg)
 
 ## 章节内容
@@ -203,7 +205,7 @@ updated: 2026-08-20
 
 **第三层：集体性与全纳定义**
 
-> [!info] 弥合研究与实践的鸿沟
+> [!info] 弥合[[Research-Practice Gap|研究与实践的鸿沟]]
 > 行动研究旨在弥合研究与实践之间的鸿沟（Somekh, 1995, p. 340），回应研究长期未能影响或改进实践的批评（Rapoport, 1970, p. 499; McCormick & James, 1988, p. 339）。劳伦斯·斯滕豪斯（Stenhouse, 1979）主张行动研究不仅应贡献于实践，还应贡献于可供其他教师使用的教育和[[Didaktik|教学理论]]，使教育实践更具反思性（约翰·埃利奥特（Elliott）, 1991, p. 54）（pp. 265–266）。
 >
 > 行动研究结合诊断、行动和反思（McNiff, 2002, p. 15），聚焦于参与者识别的实际问题，这些问题既有问题性又可以改变（Elliott, 1978, pp. 355–356）。McNiff（2002, p. 6）将自我反思置于行动研究的核心：在某些研究形式中研究者对他人做研究，但在行动研究中研究者是对自己做的。奥特伦·祖伯-斯凯里特（Zuber-Skerritt, 1996b, p. 83）提出："任何行动研究项目或计划的目标都是带来实践改进、创新、变革或社会发展，以及实践者对自身实践更好的理解"。

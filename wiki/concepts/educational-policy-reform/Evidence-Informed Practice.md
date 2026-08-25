@@ -6,10 +6,10 @@ aliases:
 summary: "一种将研究证据视为多种决策资源之一的实践取向，强调教育者通过专业判断整合研究、课堂数据和系统信息来形成行动。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - evidence-informed-practice
 - evidence-based-education
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Based Education]]"
   - "[[Research Utilization]]"
+  - "[[Practice-Based Evidence]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -136,7 +137,7 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 
 > [!success] 实证发现
 > - **教师间传播占主导** 教师主要从其他教师处获取关于有效实践的信息（Cooper et al., cited in Nelson & Campbell, 2017, p.130）。
-> - **实践产生的证据使用比[[Research Utilization|研究使用]]更普遍** 即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
+> - **[[Practice-Based Evidence|实践产生的证据]]使用比[[Research Utilization|研究使用]]更普遍** 即使主动发展教师证据使用，实践产生的证据仍比原始研究更常被使用（LaPointe-McEwan et al., cited in Nelson & Campbell, 2017, p.130）。
 > - **同伴推荐和本地试点仍然重要** 教育产品消费者报告很少使用正式研究证据，反而经常依赖同伴推荐和本地试点，因为这些来源更能回答实施、成本和使用体验问题([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.120-121]])。
 > - **复杂改革需要多目标解释**[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 > - **EIP 的积极影响已有初步证据，但仍不足** 关于 EIP 对学校改进的影响已有一些支持性发现，但 Dagenais et al. (2012) 仍被概括为“证据很少”([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.131]])。
