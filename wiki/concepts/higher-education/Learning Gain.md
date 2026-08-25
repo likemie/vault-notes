@@ -9,10 +9,10 @@ aliases:
 summary: "衡量学生在高等教育阶段从入学到毕业期间在知识储备、高阶思维技能、工作就绪度及个人发展等维度所获得的净增长或纵向发展距离"
 type: concept
 domain: "higher-education"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 confidence: high
 status: draft
 tags:

@@ -1,6 +1,7 @@
 ---
 citation: "Bouckaert, M. (2023). The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No. 293). OECD Publishing, Paris. https://doi.org/10.1787/35dbd439-en"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Bouckaert_2023_OECD]]"
 processed_date: 2026-08-26
 ---
 

@@ -9,10 +9,10 @@ aliases:
 summary: "在教学过程中系统收集学生理解与表现证据、提供指向改进的对话式反馈并动态调整教与学行动的评价范式"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 confidence: high
 status: active
 tags:
