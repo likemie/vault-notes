@@ -7,9 +7,9 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 48
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
 authors:
   - "Bouckaert, M."
