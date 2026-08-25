@@ -2484,7 +2484,7 @@ Total entries: **2009**
 > - [[Argument_Zhao_2020_JEC]] — 系统梳理近二十年对 PISA 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷，指出批评未能阻止 PISA 影响力扩大的困境
 
 > [!index-list]- Journal of Educational Computing Research (1)
-> - [[Argument_Unal_2026_JECR]] — 对 19 项 AI 教育效果一阶元分析实施二阶元分析，综合 58,702 名参与者数据，报告 AI 应用对学生学习成果的中等正向效应（ES = .67），并发现教育阶段与学科领域是显著调节变量。
+> - [[Argument_Unal_2026_JECR]] — 对 19 项 AI 教育效果一阶元分析实施二阶元分析，综合 58,702 名参与者数据，报告 AI 应用对学生学习成果的中等正向效应（ES = .67），并揭示教育阶段（K12 vs 混合）与学科领域（计算机科学 vs 数学）是显著调节来源。
 
 > [!index-list]- Journal of Educational Psychology (2)
 > - [[Argument_Greene_2010_JEP]] — 中学生至研究生（740名）的量化研究 + 因子混合模型 + 验证了将信念维度与发展阶段整合的认识论与本体论认知（EOC）模型，指出认识论认知具有领域特殊性且多维分布刻画优于独立维度。

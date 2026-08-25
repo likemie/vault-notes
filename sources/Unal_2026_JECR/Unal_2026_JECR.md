@@ -1,6 +1,7 @@
 ---
 citation: "Ünal, E., Kaya, M., Uzun, A. M., & Erdem, C. (2026). A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes. Journal of Educational Computing Research, 64(5), 1360–1389. https://doi.org/10.1177/07356331261424767"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Unal_2026_JECR]]"
 processed_date: 2026-08-25
 ---
 
