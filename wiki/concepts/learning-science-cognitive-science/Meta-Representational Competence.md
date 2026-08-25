@@ -7,7 +7,7 @@ aliases:
 summary: "学习者生成、评估、修改、发明和跨通道转译外部表征形式（图表、符号、概念图）的高阶元认知能力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 11
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,8 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Effect Size]]"
+  - "[[Argument Mapping]]"
+  - "[[Self-Scaffolding]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -101,7 +103,7 @@ flowchart TD
 > 外部认知脚手架的促学效能取决于学习者内在元表征能力与工具结构复杂度之间的动态匹配。
 
 > [!claim] diSessa & Sherin; Lei, Ding & Chiu
-> **中学生群体的元表征发展峰值效应** 在大样本[[Meta-analysis|元分析]]中，中学生群体利用[[Graphic Organizer|图形组织器]]发展[[Higher-Order Thinking Skills|高阶思维]]的[[Effect Size|效应量]]最为突出（$g = 1.113$），显著高于小学生（$g = 0.877$）与大学生（$g = 0.659$）。[[Jean Piaget|皮亚杰]]发展理论与元表征理论表明：中学生刚进入形式运算阶段，其元表征能力已足以自如理解和操控多层级思维导图、论证图与概念图，且能有效抵抗诱人细节干扰；同时其内部自我脚手架尚未完全固化，外部结构化工具恰好提供了最及时的认知支架，从而产生了最强的发展红利。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
+> **中学生群体的元表征发展峰值效应** 在大样本[[Meta-analysis|元分析]]中，中学生群体利用[[Graphic Organizer|图形组织器]]发展[[Higher-Order Thinking Skills|高阶思维]]的[[Effect Size|效应量]]最为突出（$g = 1.113$），显著高于小学生（$g = 0.877$）与大学生（$g = 0.659$）。[[Jean Piaget|皮亚杰]]发展理论与元表征理论表明：中学生刚进入形式运算阶段，其元表征能力已足以自如理解和操控多层级思维导图、[[Argument Mapping|论证图]]与概念图，且能有效抵抗诱人细节干扰；同时其内部[[Self-Scaffolding|自我脚手架]]尚未完全固化，外部结构化工具恰好提供了最及时的认知支架，从而产生了最强的发展红利。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
 
 ---
 

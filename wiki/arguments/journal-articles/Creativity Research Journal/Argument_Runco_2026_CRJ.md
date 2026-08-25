@@ -81,6 +81,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size Conversion]]"
   - "[[Correlated and Hierarchical Effects Model]]"
+  - "[[PRISMA]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Functional Magnetic Resonance Imaging]]"
   - "[[Second-Order Meta-Regression]]"
@@ -105,7 +106,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 68
+argument_related_count: 69
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -214,7 +215,7 @@ issuing_organization: ""
 
 > [!proc] 创造力二阶元分析研究程序
 > 1. **多数据库检索与灰色[[Document|文献]]扩展** 检索五个专业数据库、博硕士论文库、四大专刊期刊与学术搜索平台，获取 4,228 篇文献。
-> 2. **PRISMA 筛选与严格排除** 全文评估 78 篇，排除无合并统计量的质性综述（如 Bicer et al., 2021）与无关系效应量的脑成像坐标元分析（如 Boccia et al., 2015; Brown & Kim, 2021; Gonen-Yaacovi et al., 2013; Pidgeon et al., 2016; Wu et al., 2015），最终纳入 52 篇。（pp. 3–4）
+> 2. **[[PRISMA]] 筛选与严格排除** 全文评估 78 篇，排除无合并统计量的质性综述（如 Bicer et al., 2021）与无关系效应量的脑成像坐标元分析（如 Boccia et al., 2015; Brown & Kim, 2021; Gonen-Yaacovi et al., 2013; Pidgeon et al., 2016; Wu et al., 2015），最终纳入 52 篇。（pp. 3–4）
 > 3. **AMSTAR 12 项方法学质量评估** 双人独立[[Coding in Qualitative Research|编码]]（97% 一致性），设立得分达到 0.75 为高质量判定门槛。（p. 4）
 > 4. **效应量标准化转换与正态化** 统一转换为相关系数 $r$ 并经费舍尔 $z$ 正态化转换。（p. 5）
 > 5. **多水平 [[Correlated and Hierarchical Effects Model|相关与层级效应模型]] 与 [[Robust Variance Estimation|稳健方差估计]] 建模** 设定集群内相关系数为 0.8，基于经验残差构造三明治估计量，运用霍特林 $T^2$ 近似检验进行小样本 $F$ 检验。（pp. 5–6）

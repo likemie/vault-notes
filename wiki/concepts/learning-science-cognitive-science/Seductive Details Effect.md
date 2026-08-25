@@ -8,10 +8,10 @@ aliases:
 summary: "教学材料中添加有趣但与核心目标无关的视听装饰元素，导致学习者注意力分散并损害深层理解的认知负荷效应"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/cognition
   - construct/cognitive-process
@@ -21,9 +21,11 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Lost Mode]]"
   - "[[Graphic Organizer]]"
+  - "[[Meta-Representational Competence]]"
   - "[[Working Memory]]"
   - "[[Causality]]"
-related_theories: []
+related_theories:
+  - "[[Dual Coding Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
@@ -53,13 +55,13 @@ updated: 2026-08-25
 > - **边界** 诱人细节特指与核心学习目标无关的附加信息；若生动细节本身直接承载核心概念与因果机制，则属于有效表征而非诱人细节。
 
 > [!citation-card]- 关键表述
-> 无关的图示细节（如装饰性图像）更容易分散小学生的注意力并阻碍其对[[Graphic Organizer|图形组织器]]的有效利用，产生显著的诱人细节效应；相比之下，高年级学生具备更强的抗干扰与元表征能力。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
+> 无关的图示细节（如装饰性图像）更容易分散小学生的注意力并阻碍其对[[Graphic Organizer|图形组织器]]的有效利用，产生显著的诱人细节效应；相比之下，高年级学生具备更强的抗干扰与[[Meta-Representational Competence|元表征能力]]。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
 >
 > *Moreover, unimportant graphic organizer details (e.g., images) more readily distract primary school students and hinder their graphic organizer use, compared to older students (seductive-details effect, Rowland-Bryant et al., 2009)...*
 
 > [!boundary]- 概念边界
 > - 不等于 趣味化教学原则：适度趣味化能够激发学习者的情境兴趣，但诱人细节效应警示：脱离核心概念逻辑的纯装饰性趣味会侵占有限的[[Working Memory|工作记忆]]容量。
-> - 不等于 有效双重[[Coding in Qualitative Research|编码]]：在双重编码理论中，图文协同必须围绕同一核心命题展开；诱人细节则属于图文不一致或视觉冗余。
+> - 不等于 有效双重[[Coding in Qualitative Research|编码]]：在[[Dual Coding Theory|双重编码理论]]中，图文协同必须围绕同一核心命题展开；诱人细节则属于图文不一致或视觉冗余。
 
 ---
 
@@ -99,7 +101,7 @@ flowchart TD
 ### 命题一　诱人细节效应的干扰强度受学习者元表征能力与认知成熟度的显著调节
 
 > [!concept-lens] 年龄发展与抗干扰门槛
-> 小学生尚未发展出成熟的元表征能力，对视觉装饰信息的过滤与选择性注意调控较弱，因而最易遭受诱人细节的负面干扰。
+> 小学生尚未发展出成熟的[[Meta-Representational Competence|元表征能力]]，对视觉装饰信息的过滤与选择性注意调控较弱，因而最易遭受诱人细节的负面干扰。
 
 > [!claim] Rowland-Bryant et al.; Lei, Ding & Chiu
 > **学段发展与诱人细节敏感性** 在[[Graphic Organizer|图形组织器]]促学效应的[[Meta-analysis|元分析]]中，小学生[[Higher-Order Thinking Skills|高阶思维]]获益（$g = 0.877$）显著低于中学生（$g = 1.113, W = 6.10, p = .014$）。这一现象的核心解释之一即为小学生在面对带有丰富图像与色彩的视觉图示时，难以抑制诱人细节效应的干扰，无法精准聚焦于节点间的语义逻辑连线；而中学生具备更强的主动过滤与图式抽象能力，能最大化榨取空间表征的认知红利。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 4, 12)]]
@@ -113,7 +115,7 @@ flowchart TD
 >
 > | 一阶元分析 | 涉及现象与调节维度 | 亚组与效应量 $g$ | 组间检验 $Q_b$ / $W$ | 理论机制解释 |
 > |---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 学习者学段对[[Graphic Organizer\|图形组织器]]促学效应的调节 | 小学生（$g = 0.877$） vs 中学生（$g = 1.113$） | $W = 6.10, p = .014$ | 小学生元表征能力弱，更易受诱人细节干扰，中学生获益显著更高 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 学习者学段对[[Graphic Organizer\|图形组织器]]促学效应的调节 | 小学生（$g = 0.877$） vs 中学生（$g = 1.113$） | $W = 6.10, p = .014$ | 小学生[[Meta-Representational Competence\|元表征能力]]弱，更易受诱人细节干扰，中学生获益显著更高 |
 
 ---
 

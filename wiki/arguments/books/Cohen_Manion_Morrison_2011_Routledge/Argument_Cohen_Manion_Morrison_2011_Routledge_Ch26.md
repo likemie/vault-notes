@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -36,12 +36,13 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Self-spectator]]"
   - "[[Dramatic Tension]]"
+  - "[[Creativity]]"
   - "[[Received Knowledge]]"
   - "[[Computer Simulation]]"
   - "[[Virtual World]]"
-  - "[[Praxis]]"
   - "[[Active Listening]]"
   - "[[Definition of Terms]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Reliability]]"
   - "[[Growth]]"
   - "[[Emergence]]"
@@ -193,7 +194,7 @@ Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作
 ### 26.2 角色扮演的定义与基本结构
 
 > [!def] Sellers 的[[Definition of Terms|操作性定义]]
-> 角色扮演是一种自发的、戏剧性的、创造性的教学策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498）。它涉及多层次沟通（multilevel communication），作为一种强大的教学策略，能够在影响参与者态度和情感的同时，促进高阶认知技能。这一定义支持角色扮演是有效的学习策略，因为它迫使参与者思考所扮演角色的那个人，与现实生活情境相连，并促进学习中的主动、亲身投入（Billings & Halstead, 2005）（p. 3）。
+> 角色扮演是一种自发的、戏剧性的、创造性的教学策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498）。它涉及多层次沟通（multilevel communication），作为一种强大的教学策略，能够在影响参与者态度和情感的同时，促进[[Higher-Order Thinking Skills|高阶认知技能]]。这一定义支持角色扮演是有效的学习策略，因为它迫使参与者思考所扮演角色的那个人，与现实生活情境相连，并促进学习中的主动、亲身投入（Billings & Halstead, 2005）（p. 3）。
 
 角色扮演从心理剧领域衍生其理论基础。
 
@@ -585,7 +586,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 ## 关键引用
 
 > [!citation-card]- [[Role-playing|角色扮演]]的定义
-> 角色扮演是一种自发的、戏剧性的、[[Creativity|创造性]]的教学策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498），涉及多层次沟通，能够在影响态度和情感的同时促进高阶认知技能。（26.2，p. 3）
+> 角色扮演是一种自发的、戏剧性的、[[Creativity|创造性]]的教学策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498），涉及多层次沟通，能够在影响态度和情感的同时促进[[Higher-Order Thinking Skills|高阶认知技能]]。（26.2，p. 3）
 >
 > *Role-play is a "spontaneous, dramatic, creative teaching strategy in which individuals overtly and consciously assume the roles of others" (Sellers, 2002, p. 498).*
 

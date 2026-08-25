@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Jigsaw]]"
   - "[[Graphic Organizer]]"
+  - "[[Argument Mapping]]"
   - "[[Divergent Thinking]]"
   - "[[Externalization]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -160,7 +161,7 @@ updated: 2026-08-25
 > 考察高阶思维在具体学科情境中的可塑性，以及结构化任务设计如何防止学生陷入盲目猜测或低水平讨论。
 
 > [!claim] [[Argument_Lei_Ding_Chiu_2026_ERR|Lei, Ding & Chiu (2026)]]
-> **空间组织支架对思维过程与倾向的优先赋能** 元分析实证表明，[[Graphic Organizer|图形组织器]]（如思维导图、论证图与概念图）作为空间认知脚手架对高阶思维具有显著促进作用（$g = 0.778, 95\%\text{ CI} = [0.649, 0.907]$）；其对高阶思维倾向（$g = 0.945$）与高阶认知过程（$g = 0.912$）的促进效应显著高于终结性技能结果（$g = 0.560, p < .001$），对[[Divergent Thinking|发散思维]]（$g = 1.167$）的提升亦显著高于聚合思维（$g = 0.680$）。这表明结构化外在表征工具能够优先激活生成性认知加工与探究心向，进而支撑高阶技能的内化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 2–3, 9–11)]]
+> **空间组织支架对思维过程与倾向的优先赋能** 元分析实证表明，[[Graphic Organizer|图形组织器]]（如思维导图、[[Argument Mapping|论证图]]与概念图）作为空间认知脚手架对高阶思维具有显著促进作用（$g = 0.778, 95\%\text{ CI} = [0.649, 0.907]$）；其对高阶思维倾向（$g = 0.945$）与高阶认知过程（$g = 0.912$）的促进效应显著高于终结性技能结果（$g = 0.560, p < .001$），对[[Divergent Thinking|发散思维]]（$g = 1.167$）的提升亦显著高于聚合思维（$g = 0.680$）。这表明结构化外在表征工具能够优先激活生成性认知加工与探究心向，进而支撑高阶技能的内化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 2–3, 9–11)]]
 
 > [!claim] 综合认知科学研究
 > **支架支撑下的思维深化** 高阶思维技能并非孤立抽象的天赋能力，其在课堂中的激活必须依托精心设计的结构化脚手架（如论证模板、概念图、认知启发式提问清单）。当学生在合作学习中获得明确的角色规范与反思指引时，其批判性分析与创造性综合能力才能实现从外部同伴协商向内部心理机能的内化（Resnick, 1987; Ghanizadeh et al., 2020; Kim, 2025）。
@@ -236,7 +237,7 @@ updated: 2026-08-25
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | 发散思维（Divergent Thinking） | $k = 14$ / — | $g = 1.167$ $[0.841, 1.493]$ | $Q_b = 7.07, p < .01$ | 生成性独创发散构想获益显著高于聚合逻辑 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | [[Convergent Thinking\|聚合思维]]（Convergent Thinking） | $k = 55$ / — | $g = 0.680$ $[0.535, 0.825]$ | 组间差异显著 | 侧重逻辑批判与确定性推理 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（干预形态） | 思维导图（Mind Mapping） | $k = 16$ / — | $g = 1.041$ $[0.704, 1.379]$ | $Q_b = 9.13, p < .05$；两两 Wald 均 $p < .001$ | 单一中心发散，认知负荷最低，促学效应最强 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（干预形态） | 论证图（Argument Mapping） | $k = 12$ / — | $g = 0.798$ $[0.469, 1.237]$ | 组间差异显著 | 结构化逻辑推理与证据支持 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（干预形态） | [[Argument Mapping\|论证图]]（Argument Mapping） | $k = 12$ / — | $g = 0.798$ $[0.469, 1.237]$ | 组间差异显著 | 结构化逻辑推理与证据支持 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（干预形态） | 概念图（Concept Mapping） | $k = 36$ / — | $g = 0.548$ $[0.403, 0.692]$ | 组间差异显著 | 复杂交叉网络表征易带来额外认知开销 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果

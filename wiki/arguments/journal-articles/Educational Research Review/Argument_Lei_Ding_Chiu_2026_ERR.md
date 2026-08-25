@@ -7,9 +7,9 @@ title: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_key: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_display_title: "The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Research Review"
 authors:
@@ -34,11 +34,14 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Graphic Organizer]]"
   - "[[Effect Size]]"
+  - "[[Argument Mapping]]"
   - "[[Construct]]"
   - "[[Divergent Thinking]]"
   - "[[Convergent Thinking]]"
+  - "[[Meta-Representational Competence]]"
   - "[[Interaction Effect]]"
   - "[[Working Memory]]"
+  - "[[Self-Scaffolding]]"
   - "[[Conatus]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -55,10 +58,12 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
+  - "[[Seductive Details Effect]]"
   - "[[Literature Search]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
+  - "[[Dual Coding Theory]]"
   - "[[Argumentative Reasoning]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -71,7 +76,8 @@ related_methods:
   - "[[Pairwise Wald Tests]]"
   - "[[Egger Regression Test]]"
   - "[[Fail-Safe N]]"
-related_instruments: []
+related_instruments:
+  - "[[Kmet Quality Assessment Checklist]]"
 related_persons:
   - "[[Jean Piaget]]"
 related_facts: []
@@ -126,9 +132,9 @@ updated: 2026-08-25
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（HOT Outcome Skill） | 在特定情境或标准化测验中表现出的分析、推理、批判与问题解决综合能力结果。 | 57 项研究采用标准化多选题，如加州批判性思维技能测验（California Critical Thinking Skills Test, CCTST, Facione, 1990）与健康教育系统公司护理专业统考（Health Education Systems, Inc., HESI, Morrison et al., 2004）。 |
 > | **结果变量：[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 面对开放性问题生成新颖、多样且非常规构想与替代方案的[[Creativity\|创造性]]心智加工。 | 采用观念流畅性与独创性测验、头脑风暴方案多样性评分与创造性解题任务（Bin et al., 2022; Chen, 2020）。 |
 > | **结果变量：[[Convergent Thinking\|聚合思维]]**<br>（Convergent Thinking） | 基于严密逻辑规则对信息进行批判性审视、筛选、演绎与收敛至最优解的思维。 | 采用演绎推理测验、论据有效性识别与标准化单项选择推理题（Akinoglu, 2013; Bilik et al., 2020）。 |
-> | **干预变量：思维导图**<br>（Mind Mapping） | 以单一中心概念为核心向外辐射多级分支，低结构复杂度，强调联想发散与速记。 | 教学采用教师导入规则、自主发散绘制与反馈迭代规程，应用于头脑风暴与创意写作（Chiu & Hwang, 2024; Chen, 2020）。 |
+> | **干预变量：[[Mind Mapping\|思维导图]]**<br>（Mind Mapping） | 以单一中心概念为核心向外辐射多级分支，低结构复杂度，强调联想发散与速记。 | 教学采用教师导入规则、自主发散绘制与反馈迭代规程，应用于头脑风暴与创意写作（Chiu & Hwang, 2024; Chen, 2020）。 |
 > | **干预变量：[[Argument Mapping\|论证图]]**<br>（Argument Mapping） | 严格依循主张、证据、保证与反驳的逻辑语法，表征线性或树状论辩推导链条。 | 教学引导学生梳理争议论据与批判性写作逻辑，结构化支撑论辩推理（Botley & Hakim, 2014; Ristanto et al., 2022）。 |
-> | **干预变量：概念图**<br>（Concept Mapping） | 包含多节点交叉连接（Cross-links）与命题连接词的复杂网状语义表征工具。 | 教学用于复杂领域概念建模，要求标明概念间命题关系，结构复杂度较高（Bilik et al., 2020; Su, 2018）。 |
+> | **干预变量：[[Concept Mapping\|概念图]]**<br>（Concept Mapping） | 包含多节点交叉连接（Cross-links）与命题连接词的复杂网状语义表征工具。 | 教学用于复杂领域概念建模，要求标明概念间命题关系，结构复杂度较高（Bilik et al., 2020; Su, 2018）。 |
 > | **调节变量：学习者学段**<br>（Grade Level） | 划分为小学、中学与大学三个发展阶段。 | 检验[[Jean Piaget\|皮亚杰]]形式运算、[[Meta-Representational Competence\|元表征能力]]成熟度与[[Self-Scaffolding\|自我脚手架]]水平对促学效应的调节作用（纳入大学 49 项、中学 17 项、小学 5 项）。 |
 > | **调节变量：宏观社会经济**<br>（GDP & Publication Year） | 纳入国家人均国内生产总值（按世界银行数据做 Z 分数标准化）与[[Document\|文献]]发表年份（反映技术发展）。 | 检验经济投入、数字化图示工具可获得性与现代教学法培训对工具促学效能的正向赋能效应（[[Meta-regression\|元回归]]模型）。 |
 > | **控制变量：学科与时长**<br>（Subject & Duration） | 学科划分为科学、技术、工程与数学领域（Science, Technology, Engineering, and Mathematics, STEM）与人文社科；干预时长划分为 4 周以内、4 至 12 周与 12 周以上。 | 检验图形组织器的跨学科普适性与时间效应稳定性（[[Meta-analysis\|元分析]]证实学科与时长均无显著调节作用）。 |
@@ -262,9 +268,9 @@ updated: 2026-08-25
 > | | **[[Higher-Order Thinking Skills\|思维技能]]（Skill）** | — | 29 | 0.560 | 0.076 | [0.411, 0.708] | 67.8% |
 > | **高阶思维类型**<br>（HOT type） | **[[Divergent Thinking\|发散思维]]（Divergent）** | **7.07\*\*** | 14 | 1.167 | 0.166 | [0.841, 1.493] | 82.2% |
 > | | **[[Convergent Thinking\|聚合思维]]（Convergent）** | — | 55 | 0.680 | 0.074 | [0.535, 0.825] | 83.6% |
-> | **图形组织器形态**<br>（GO type） | **思维导图（Mind mapping）** | **9.13\*** | 16 | 1.041 | 0.158 | [0.704, 1.379] | 88.0% |
+> | **图形组织器形态**<br>（GO type） | **[[Mind Mapping\|思维导图]]（Mind mapping）** | **9.13\*** | 16 | 1.041 | 0.158 | [0.704, 1.379] | 88.0% |
 > | | **[[Argument Mapping\|论证图]]（Argument mapping）** | — | 12 | 0.798 | 0.150 | [0.469, 1.237] | 75.6% |
-> | | **概念图（Concept mapping）** | — | 36 | 0.548 | 0.071 | [0.403, 0.692] | 69.6% |
+> | | **[[Concept Mapping\|概念图]]（Concept mapping）** | — | 36 | 0.548 | 0.071 | [0.403, 0.692] | 69.6% |
 > | **学习者学段**<br>（Grade level） | **中学阶段** | **6.61\*** | 17 | 1.113 | 0.167 | [0.759, 1.467] | 84.4% |
 > | | **小学阶段** | — | 5 | 0.877 | 0.207 | [0.303, 1.451] | 73.5% |
 > | | **大学阶段** | — | 49 | 0.659 | 0.074 | [0.509, 0.808] | 81.7% |

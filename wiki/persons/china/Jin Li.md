@@ -7,10 +7,10 @@ summary: "华人教育研究者，布朗大学教授，以中西文化学习模�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 40
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 39
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 tags:
 - region/china
 - region/us
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
   - "[[Western Learner]]"
-  - "[[Praxis]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
@@ -126,7 +125,7 @@ Li 在第 2 章中系统追溯了西方与东亚两种学习文化的知识根�
 4. 由此导出**[[Western Learner|西方学习者]]**模型：以心智为首要、以好奇心为驱动、以探究为过程、以掌握世界为终极目标([[Argument_Li_2012_Cambridge|Li, 2012, pp.33-35]])
 
 **[[Confucian Learning Tradition|儒家学习传统]]**以完善自我（perfect self）为核心，向下延伸为四个主题：
-1. 完善自我（Perfect Self）——自我而非世界，是认知、反思和[[Praxis|实践]]的对象
+1. 完善自我（Perfect Self）——自我而非世界，是认知、反思和实践的对象
 2. [[Take the World Upon Oneself|以天下为己任]]（Take the World Upon Oneself）——从[[Self-Cultivation|修身]]出发，逐步扩展至齐家、治国、平天下
 3. [[Learning Virtues|学习美德]]（Learning Virtues）——七种德目（诚心、勤奋、刻苦、恒心、专心、尊师、[[Humility in Learning|谦虚]]）构成学习者的个人能动性
 4. [[Action Better Than Words|行勝於言]]（Action Better Than Words）——沉默和行动优先于言语表达

@@ -4467,6 +4467,18 @@
     ]
   },
   {
+    "title": "Concept Mapping",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Concept Mapping.md",
+    "aliases": [
+      "概念图",
+      "概念地图",
+      "Concept Map",
+      "Concept Maps",
+      "Conceptmapping"
+    ]
+  },
+  {
     "title": "Cooperative Integrated Reading and Composition",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Cooperative Integrated Reading and Composition.md",
@@ -4670,6 +4682,19 @@
       "listening-centred learning",
       "silent participation",
       "沉默参与"
+    ]
+  },
+  {
+    "title": "Mind Mapping",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Mind Mapping.md",
+    "aliases": [
+      "思维导图",
+      "心智图",
+      "脑图",
+      "Mind Map",
+      "Mind Maps",
+      "Mindmapping"
     ]
   },
   {
