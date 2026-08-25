@@ -11,9 +11,9 @@ type: method
 domain: "research-methodology"
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - "method/quantitative"
@@ -36,15 +36,17 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Trim and Fill Method]]"
   - "[[Multilevel Egger's Test]]"
+  - "[[PRISMA]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
+  - "[[Argument_Liu_2026_CHBR]]"
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Fail-Safe N
@@ -109,11 +111,12 @@ updated: 2026-08-24
 > | 直观性 | 极高，以“缺失研究篇数”输出直观常识指标 | 较低，输出漏斗图、拟合截距或虚拟填补[[Effect Size\|效应量]] |
 > | [[Hypothesis\|假设]]现实性 | 极差（假定所有未发表[[Document\|文献]]效应量严格等于 0） | 较好（基于[[Funnel Plot\|漏斗图]]不对称形态建模） |
 > | 效应量校正 | **无法校正效应量点估计**，仅提供假设检验门槛 | 能够提供**偏倚校正后的真实效应量**点估计与[[Confidence Interval\|置信区间]] |
-> | 现代定位 | 仅作为辅助性参考与极端情境压力测试 | 循证研究与 PRISMA 推荐的标准报告工具 |
+> | 现代定位 | 仅作为辅助性参考与极端情境压力测试 | 循证研究与 [[PRISMA]] 推荐的标准报告工具 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI 代理促进 K-12 认知表现的[[Meta-analysis|元分析]]中，综合运用经典失安全数（$N_{\text{fs}} = 378$，大于 $5k + 10 = 180$ 门槛）与 Orwin 失安全数（需 $2{,}876$ 篇未发表零效应研究才能将 $g = 0.404$ 拉低至 $0.01$），系统确立了汇总[[Effect Size|效应量]]的抗偏倚稳健度。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 在[[Meta-meta-analysis|二阶元分析]]中综合运用经典失安全系数（$N_{\text{fs}} = 4954$）、Egger 回归截距检验与[[Trim and Fill Method|剪补法]]，全面证实[[Cooperative Learning|合作学习]]宏观干预效应的稳健性。

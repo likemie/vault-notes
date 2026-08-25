@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 67
+method_related_count: 69
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -62,6 +62,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[PRISMA]]"
   - "[[Systematic Review]]"
   - "[[Robust Variance Estimation]]"
   - "[[Three-Level Meta-Analysis]]"
@@ -84,6 +85,7 @@ related_arguments:
   - "[[Argument_Simpson_2017_JEP]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
+  - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Greene_2018_JEP]]"
@@ -126,7 +128,7 @@ updated: 2026-08-25
 > - **1930s–1950s — Fisher 的方差统计基础** Ronald Fisher 提出合并独立 $p$ 值的方法，为跨研究比较奠定了推断统计基石。
 > - **1976 — Glass 的命名与[[Paradigm|范式]]确立** [[Gene Glass|Gene Glass]] 提出“元分析”概念，并与 Mary Lee Smith 发表心理治疗效果元分析（Smith & Glass, 1977, 平均 $d = 0.60$），确立了以[[Effect Size|效应量]]为通用尺度的实证综合范式。
 > - **1980s — [[Fixed-Effect and Random-Effects Models|随机效应模型]]与[[Heterogeneity|异质性]]检验** Larry Hedges (1981, 1983) 提出小样本校正 $g$ 与随机效应模型；DerSimonian & Laird (1986) 提出经典的 $\tau^2$ 矩估计封闭解法。
-> - **1990s–2000s — Cochrane 协作网与 PRISMA 规范化** 证据本位医学推动了[[Systematic Review|系统综述]]与元分析的全球制度化，PRISMA 声明与 Cochrane Handbook 成为金标准。
+> - **1990s–2000s — Cochrane 协作网与 [[PRISMA]] 规范化** 证据本位医学推动了[[Systematic Review|系统综述]]与元分析的全球制度化，PRISMA 声明与 Cochrane Handbook 成为金标准。
 > - **2010s–至今 — 多水平元分析与[[Robust Variance Estimation|稳健方差估计]]** 针对多效应量相关依赖与复杂嵌套数据，[[Three-Level Meta-Analysis|三水平元分析]]（Cheung, 2014）与稳健方差估计（RVE, Hedges et al., 2010）成为现代元分析前沿。
 
 ---
@@ -264,10 +266,11 @@ flowchart LR
 
 > [!evidence-grid-a] 研究案例索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 采用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 34 项实验与准[[Experimental Research|实验研究]]（73 个[[Effect Size|效应量]]，$N = 3{,}042$），评估 AI 代理对 K-12 学生认知学习成果的总体效应（$g = 0.404$），并系统检验技能类结果、知识类结果、高阶思维以及代理类型、学段、学科和干预时长的[[Interaction Effect|调节效应]]。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research|实验研究]]，运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]与混合效应亚组调节检验，确立[[Dialogue in Education|对话]]、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]的三维复合干预效应（$g+ = 0.57$）。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 采用三水平随机效应元分析模型综合 51 个样本（$N = 12{,}548$），估计[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的整体相关（$r = 0.386$），并配合[[Meta-regression|元回归]]检验测量类型等调节[[Variable|变量]]。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 对 132 项非实验研究中的 752 个[[Effect Size|效应量]]执行随机效应元分析，系统考察[[Epistemic Cognition|认识论认知]]与[[Academic Achievement|学业成就]]的关联及调节变量。
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 采用三水平多层随机效应模型综合 512 个效应量，探讨中小学生认识论认知发展。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] — 系统介绍元分析四套操作流程、效应量计算方法与方法论局限。
-> - [[Argument_Hattie_2015_Paideia|Hattie (2015)]] — 探讨元分析作为探索[[Heterogeneity|异质性]]与调节变量的证据地图定位。
+> - [[Argument_Hattie_2015_Paideia|Hattie (2015a)]] — 探讨元分析作为探索[[Heterogeneity|异质性]]与调节变量的证据地图定位。
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] — 运用实在论综合与[[Critical Realism|批判实在论]]反思元分析的局限性。

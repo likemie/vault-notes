@@ -10,10 +10,10 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 37
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 confidence: high
 status: draft
 tags:
@@ -38,7 +38,9 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Jigsaw]]"
   - "[[Graphic Organizer]]"
+  - "[[Mind Mapping]]"
   - "[[Argument Mapping]]"
+  - "[[Concept Mapping]]"
   - "[[Divergent Thinking]]"
   - "[[Externalization]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -50,6 +52,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Convergent Thinking]]"
   - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[Reflexivity]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -65,6 +68,7 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Unal_2026_JECR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
+  - "[[Argument_Liu_2026_CHBR]]"
 created: 2026-08-24
 updated: 2026-08-25
 ---
@@ -161,7 +165,7 @@ updated: 2026-08-25
 > 考察高阶思维在具体学科情境中的可塑性，以及结构化任务设计如何防止学生陷入盲目猜测或低水平讨论。
 
 > [!claim] [[Argument_Lei_Ding_Chiu_2026_ERR|Lei, Ding & Chiu (2026)]]
-> **空间组织支架对思维过程与倾向的优先赋能** 元分析实证表明，[[Graphic Organizer|图形组织器]]（如思维导图、[[Argument Mapping|论证图]]与概念图）作为空间认知脚手架对高阶思维具有显著促进作用（$g = 0.778, 95\%\text{ CI} = [0.649, 0.907]$）；其对高阶思维倾向（$g = 0.945$）与高阶认知过程（$g = 0.912$）的促进效应显著高于终结性技能结果（$g = 0.560, p < .001$），对[[Divergent Thinking|发散思维]]（$g = 1.167$）的提升亦显著高于聚合思维（$g = 0.680$）。这表明结构化外在表征工具能够优先激活生成性认知加工与探究心向，进而支撑高阶技能的内化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 2–3, 9–11)]]
+> **空间组织支架对思维过程与倾向的优先赋能** 元分析实证表明，[[Graphic Organizer|图形组织器]]（如[[Mind Mapping|思维导图]]、[[Argument Mapping|论证图]]与[[Concept Mapping|概念图]]）作为空间认知脚手架对高阶思维具有显著促进作用（$g = 0.778, 95\%\text{ CI} = [0.649, 0.907]$）；其对高阶思维倾向（$g = 0.945$）与高阶认知过程（$g = 0.912$）的促进效应显著高于终结性技能结果（$g = 0.560, p < .001$），对[[Divergent Thinking|发散思维]]（$g = 1.167$）的提升亦显著高于聚合思维（$g = 0.680$）。这表明结构化外在表征工具能够优先激活生成性认知加工与探究心向，进而支撑高阶技能的内化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026, pp. 2–3, 9–11)]]
 
 > [!claim] 综合认知科学研究
 > **支架支撑下的思维深化** 高阶思维技能并非孤立抽象的天赋能力，其在课堂中的激活必须依托精心设计的结构化脚手架（如论证模板、概念图、认知启发式提问清单）。当学生在合作学习中获得明确的角色规范与反思指引时，其批判性分析与创造性综合能力才能实现从外部同伴协商向内部心理机能的内化（Resnick, 1987; Ghanizadeh et al., 2020; Kim, 2025）。
@@ -207,7 +211,7 @@ updated: 2026-08-25
 > - **认知卸载与浅层依赖（警示方）** 缺乏教学法约束时，学生易将思考过程完全外包给 AI，导致认知卸载（Cognitive Offloading），干预带来的增益多停留于布鲁姆低阶识记层级，削弱了深度批判性反思与自主探究能力（Essien et al., 2024; Chen et al., 2020）。
 
 > [!warning] 适用局限与教学前提
-> - **不可脱离领域专业知识** 缺乏基础事实记忆与概念图式时，纯粹的高阶思维训练容易退化为形式化套路；高阶思维必须建立在扎实的学科内容基础之上。
+> - **不可脱离领域专业知识** 缺乏基础事实记忆与[[Concept Mapping|概念图]]式时，纯粹的高阶思维训练容易退化为形式化套路；高阶思维必须建立在扎实的学科内容基础之上。
 > - **技术工具必须与教学法精准对齐** 若仅将 AI 工具作为电子黑板或直接答案生成器使用，无法自发催生高阶思维；必须通过设计冲突问题、[[Socrates|苏格拉底]]追问及强制性同伴答辩等教学法干预引导反思（Ünal et al., 2026）。
 
 ---
@@ -220,6 +224,7 @@ updated: 2026-08-25
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量：[[Graphic Organizer\|图形组织器]]对学生高阶思维（HOT）的总体促进效应 | $k = 72$ / $N = 4{,}824$（66 项独立研究） | Hedges' $g$ / 随机效应模型 | $g = 0.778$ $[0.649, 0.907]$ | $Q(71) = 485.49, p < .001, I^2 = 85.37\%$ | 涵盖 19 国大中小学样本；思维导图 $g = 1.041$ > 论证图 $g = 0.798$ > 概念图 $g = 0.548$；未发现发表偏倚（Egger $p = .070$） |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Dependent Variable\|结果变量]]：AI 代理对 K-12 学生高阶思维（Higher-Order Thinking）的干预效应 | $k = 13$ / $N = 3{,}042$（34 项研究中 13 个效应量） | Hedges' $g$ / 随机效应模型 | $g = 0.540$ $[-0.036, 1.117]$ | $Q(12) = 259.62, p < .001, I^2 = 95.4\%, \tau^2 = 1.063$ | 涵盖 K-12 阶段批判性思维与分析推理；点估计较大但未达统计显著（$p = .066$），异质性极高，高度依赖探究性教学设计与反思支架 |
 > | Özkan & Çetinkaya-Uslusoy (2024) | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对护理高阶思维（[[Critical Thinking\|批判性思维]]）的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，角色互换显著强化批判反思（引自 [[Argument_Gungor_2026_CP\|Güngör et al., 2026]]） |
 > | Siagian et al. (2023a) | 结果[[Variable\|变量]]：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼 K-12 数学教学，[[Sample Size Determination\|样本量]]大且效应稳健显著（引自 Güngör et al., 2026） |
 > | Siagian et al. (2023b) | 结果变量：合作学习对数学[[Creativity\|创造性思维]]技能的促进效应 | $k = 24$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.69$ $[0.42, 0.98]$ | — | 印尼 K-12 数学教学，采用[[Divergent Thinking\|发散思维]]与创造性解题测验（引自 Güngör et al., 2026） |
@@ -236,9 +241,9 @@ updated: 2026-08-25
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（构念构成） | 高阶思维技能结果（Skills） | $k = 29$ / — | $g = 0.560$ $[0.411, 0.708]$ | 组间差异显著 | 多项选择标准化测验测度，反映远端综合技能 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | 发散思维（Divergent Thinking） | $k = 14$ / — | $g = 1.167$ $[0.841, 1.493]$ | $Q_b = 7.07, p < .01$ | 生成性独创发散构想获益显著高于聚合逻辑 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | [[Convergent Thinking\|聚合思维]]（Convergent Thinking） | $k = 55$ / — | $g = 0.680$ $[0.535, 0.825]$ | 组间差异显著 | 侧重逻辑批判与确定性推理 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（干预形态） | 思维导图（Mind Mapping） | $k = 16$ / — | $g = 1.041$ $[0.704, 1.379]$ | $Q_b = 9.13, p < .05$；两两 Wald 均 $p < .001$ | 单一中心发散，认知负荷最低，促学效应最强 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（干预形态） | [[Mind Mapping\|思维导图]]（Mind Mapping） | $k = 16$ / — | $g = 1.041$ $[0.704, 1.379]$ | $Q_b = 9.13, p < .05$；两两 Wald 均 $p < .001$ | 单一中心发散，认知负荷最低，促学效应最强 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（干预形态） | [[Argument Mapping\|论证图]]（Argument Mapping） | $k = 12$ / — | $g = 0.798$ $[0.469, 1.237]$ | 组间差异显著 | 结构化逻辑推理与证据支持 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（干预形态） | 概念图（Concept Mapping） | $k = 36$ / — | $g = 0.548$ $[0.403, 0.692]$ | 组间差异显著 | 复杂交叉网络表征易带来额外认知开销 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（干预形态） | [[Concept Mapping\|概念图]]（Concept Mapping） | $k = 36$ / — | $g = 0.548$ $[0.403, 0.692]$ | 组间差异显著 | 复杂交叉网络表征易带来额外认知开销 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -262,5 +267,6 @@ updated: 2026-08-25
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用随机效应[[Meta-analysis|元分析]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking|发散思维]]收益显著高于[[Convergent Thinking|聚合思维]]的层级调节特征。
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 运用随机效应元分析综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），检验 AI 代理对 K-12 学生高阶思维的影响，发现尽管效应量点估计较大（$g = 0.540$），但未达统计显著（$p = .066$）且[[Heterogeneity|异质性]]极高（$I^2 = 95.4\%$），表明 AI 促进高阶思维的效果高度取决于探究式学习和[[Reflexivity|反思性]]任务设计。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 运用[[Meta-meta-analysis|二阶元分析]]系统考察[[Cooperative Learning|合作学习]]对高阶思维技能的干预效应，报告了 $ES = 0.76$ 的高效益表现，证实社会建构互动对学生[[Critical Thinking|批判性思维]]与复杂问题解决能力的突出推动价值。
 > - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 采用二阶元分析综合 19 项 AIEd 一阶元分析（58,702 名参与者），报告 AI 教育应用对高阶思维技能亚组的效应（$ES = 0.63$，95% CI [.12, 1.14]），依托布鲁姆分类学与五维 HOTS 框架厘清了 AI 赋能认知[[Externalization|外化]]与潜在认知卸载的辩证关系。

@@ -2915,6 +2915,19 @@
     ]
   },
   {
+    "title": "AI Agent in Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/AI Agent in Education.md",
+    "aliases": [
+      "教育智能体",
+      "人工智能智能体",
+      "智能体",
+      "AI Agents in Education",
+      "Educational AI Agent",
+      "AI Agent"
+    ]
+  },
+  {
     "title": "Avatar",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Avatar.md",
@@ -18693,6 +18706,11 @@
     "title": "Argument_Zhou_2024_CE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Zhou_2024_CE.md"
+  },
+  {
+    "title": "Argument_Liu_2026_CHBR",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Computers in Human Behavior Reports/Argument_Liu_2026_CHBR.md"
   },
   {
     "title": "Argument_Trautwein_2007_CEP",
