@@ -81,7 +81,7 @@ updated: 2026-08-26
 ## 研究问题
 
 > [!question]
-> 二十年来，各国教育系统都把"用研究证据改进学校"当作目标，但多项国际测试显示，学生成绩在许多领域仍在下滑。这段历史可追溯到 1996 年 Hargreaves 在伦敦教师培训署（Teacher Training Agency）的演讲，它引发了与 Hammersley 关于"教学能否成为研究本位专业"的争论。此后"什么有效"（What Works）运动兴起：Slavin（2002）主张用随机对照试验检验教学法，Hattie（2008）的《可见的学习》把"效应量"带进教师词汇，美国 What Works 信息交换所和英国教育捐赠基金会（Education Endowment Foundation, EEF）等机构负责评价研究质量、充当证据中介。但"识别并传播有效干预本身就会带来实践改变"的假设并未如期实现，于是出现了强调把证据转译进实践的实施研究（implementation research）。
+> 二十年来，各国教育系统都把"用研究证据改进学校"当作目标，但多项国际测试显示，学生成绩在许多领域仍在下滑。这段历史可追溯到 1996 年 Hargreaves 在伦敦教师培训署（Teacher Training Agency）的演讲，它引发了与 Hammersley 关于"教学能否成为研究本位专业"的争论。此后"什么有效"（What Works）运动兴起：[[Argument_Slavin_2002_ER|Slavin (2002)]]主张用随机对照试验检验教学法，Hattie（2008）的《可见的学习》把"效应量"带进教师词汇，美国 What Works 信息交换所和英国教育捐赠基金会（Education Endowment Foundation, EEF）等机构负责评价研究质量、充当证据中介。但"识别并传播有效干预本身就会带来实践改变"的假设并未如期实现，于是出现了强调把证据转译进实践的实施研究（implementation research）。
 >
 > 在数据问责的推动下，标准化的"证据本位"做法常常变成对研究的[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]：新做法只是浅层叠加在旧思维之上。OECD 教育研究与创新中心（Centre for Educational Research and Innovation, CERI）2021 年启动"加强教育研究的影响"项目，呼吁从"中介"转向"参与"，并指出深思熟虑的参与只有在信任的环境里才能生长（Révai, 2022; Révai & Mouthaan, 2023）。与此同时，新公共管理与全球教育改革运动（Global Education Reform Movement, GERM）带来的竞争、标准化与问责，进一步压缩了信任与创新的空间（Sahlberg, 2023）。
 >
