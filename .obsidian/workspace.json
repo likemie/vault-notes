@@ -73,17 +73,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/循证教育与高阶思维培养_大纲.md",
-                "mode": "source",
+                "file": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "循证教育与高阶思维培养_大纲"
+              "title": "Evidence-Based Education"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -254,8 +254,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7b1888ea00f7062e",
+  "active": "241aa259925f5c97",
   "lastOpenFiles": [
+    "raw/循证教育与高阶思维培养_大纲.md",
+    "wiki/facts/global/Evidence-Based Education Institutions.md",
+    "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md",
     "sources/Bouckaert_2023_OECD/Bouckaert_2023_OECD.pdf",
     "sources/Bouckaert_2023_OECD/figures",
     "sources/Bouckaert_2023_OECD/Bouckaert_2023_OECD.md",
@@ -272,8 +275,6 @@
     "wiki/concepts/educational-policy-reform/Data-Based Decision Making.md",
     "wiki/concepts/educational-policy-reform/Conceptual, Instrumental, and Symbolic Use of Research.md",
     "wiki/concepts/educational-policy-reform/Professional Judgment.md",
-    "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md",
-    "raw/循证教育与高阶思维培养_大纲.md",
     "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md",
     "wiki/concepts/educational-policy-reform/Research-Practice Partnership.md",
     "wiki/facts/uk/BERA-RSA Inquiry into the Role of Research in Teacher Education.md",
@@ -291,7 +292,6 @@
     "sources/Kazanci_Tinmaz_Sezgin_2023_SO",
     "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md",
     "wiki/arguments/journal-articles/SAGE Open",
-    "sources/Kazanci_Tinmaz_Sezgin_2023_SO.pdf",
     "sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig3_Funnel_Plot.jpg",
     "sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig2_CCA_Heatmap.jpg",
     "sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig1_PRISMA_Flowchart.jpg",
