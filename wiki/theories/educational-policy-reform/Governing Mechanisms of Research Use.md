@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 
 # Governing Mechanisms of Research Use
@@ -67,7 +67,7 @@ updated: 2026-08-25
 > - **知识位置** 由 Hagevold 等人（2026）基于对 109 项实证研究的[[Framework Synthesis|框架综合]]提出；其先验框架来自 [[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE）、深层使用、[[Research Literacy|研究素养]]与生态系统模型，[[Epistemic Stances|认识论立场]]为[[Critical Realism|批判实在论]]。
 
 > [!claim] 核心主张
-> 学校中的研究使用不是主要受个体缺陷制约，而是受四类跨越并贯通系统的机制（信任、技能发展、可持续结构与关系）共同治理；这些机制相互强化、同时在纵向与横向方向运作，因此研究使用无法靠政策指令自上而下强制实现，只能靠塑造这些机制来支持整合。
+> 学校中的研究使用不是主要受个体缺陷制约，而是受四类跨越并贯通系统的机制（信任 trust、技能发展 skills development、可持续结构 sustainable structures、关系 relationships）共同治理；这些机制相互强化、同时在纵向与横向方向运作，因此研究使用无法靠政策指令自上而下强制实现，只能靠塑造这些机制来支持整合。
 
 > [!citation-card]- 关键表述
 > "研究使用在学校中并不是主要受个体缺陷制约，而是受决定信任、技能、关系与结构能否发展和富有成效地互动的系统性条件所制约。"（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.18]]）
@@ -88,8 +88,8 @@ updated: 2026-08-25
 > | 关系（Relationships） | 机制 | 研究者、决策者与实践者之间的互惠关系与研究-实践伙伴关系，是信任的社会基础设施 |
 > | 领导力（Leadership） | 催化条件 | 不被纳入四机制本身，而是启动与分配资源、创造愿景、推动四机制的催化剂 |
 > | 文化（Culture） | 结果 | 四机制运行的环境，同时是机制运作的产物 |
-> | [[Research Utilization]] | 概念 | 框架所解释的总体现象：研究进入专业决策与实践的方式 |
-> | [[Teacher Professional Agency]] | 概念 | 机制所要促成或可能被制度性不信任压制的专业行动空间 |
+> | [[Research Utilization|研究利用（Research Utilization）]] | 概念 | 框架所解释的总体现象：研究进入专业决策与实践的方式 |
+> | [[Teacher Professional Agency|教师专业能动性（Teacher Professional Agency）]] | 概念 | 机制所要促成或可能被制度性不信任压制的专业行动空间 |
 
 ---
 

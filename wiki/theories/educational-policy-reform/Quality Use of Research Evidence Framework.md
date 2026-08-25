@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 
 # Quality Use of Research Evidence Framework
@@ -61,7 +61,7 @@ updated: 2026-08-25
 > - **知识位置** 源于澳大利亚 Monash Q 项目，基于跨四个部门的[[Systematic Review|系统综述]]（Rickinson et al., 2022），并经后续大规模实证工作（Gleeson et al., 2023, 2024）发展。
 
 > [!claim] 核心主张
-> 质量使用不是简单地用了研究，而是对恰当研究证据进行深思熟虑的参与与实施，且这种参与需要个体（技能、心态、关系）、组织（结构、文化、领导）与复杂系统中系统性影响的多层支持；Hagevold 等人（2026, p.4）将其界定为"在复杂系统内，受个体与组织促成成分之混合所支持的对恰当研究证据的深思熟虑参与与实施"。
+> 质量使用（quality use）不是简单地用了研究，而是对恰当研究（appropriate research）证据进行深思熟虑的参与（thoughtful engagement）与实施，且这种参与需要个体（技能、心态、关系）、组织（结构、文化、领导）与复杂系统中系统性影响的多层支持；Hagevold 等人（2026, p.4）将其界定为"在复杂系统内，受个体与组织促成成分之混合所支持的对恰当研究证据的深思熟虑参与与实施"。
 
 > [!citation-card]- 关键表述
 > 研究证据质量使用框架（Quality Use of Research Evidence, QURE）把质量使用定义为"在复杂系统内，受个体与组织促成成分之混合支持的对恰当研究证据的深思熟虑参与与实施"（Rickinson et al., 2022, p.142）。
@@ -78,12 +78,12 @@ updated: 2026-08-25
 > |:-----|:-----|:--------------|
 > | [[Conceptual, Instrumental, and Symbolic Use of Research\|深思熟虑参与（Thoughtful Engagement）]] | 概念 | 界定"用"的质态：对研究作深入、批判性、情境化的解读而非象征性或浅层套用；与恰当研究以双向箭头相连 |
 > | [[Conceptual, Instrumental, and Symbolic Use of Research\|恰当研究（Appropriate Research）]] | 概念 | 界定用什么：研究须在情境匹配、实用性、可及性与可[[Reliability\|信度]]上适切 |
-> | [[Research Literacy]] | 概念 | 为恰当研究的界定提供判断敏感度，帮助实践者辨识合适证据 |
-> | [[Evidence-Informed Practice]] | 概念 | QURE 是证据知情实践（Evidence-Informed Practice, EIP）主张研究只是决策资源之一在质量维度上的具体化 |
+> | [[Research Literacy|研究素养（Research Literacy）]] | 概念 | 为恰当研究的界定提供判断敏感度，帮助实践者辨识合适证据 |
+> | [[Evidence-Informed Practice|证据知情实践（Evidence-Informed Practice）]] | 概念 | QURE 是证据知情实践（Evidence-Informed Practice, EIP）主张研究只是决策资源之一在质量维度上的具体化 |
 > | 个体促成成分 | 分类 | 技能、心态、关系：实践者个人能否并愿意认真用研究 |
 > | 组织促成成分 | 分类 | 结构、文化、领导：学校是否提供时间、惯例与支持性氛围 |
 > | 系统性影响 | 分类 | 复杂系统中塑造个体与组织互动的宏观条件 |
-> | [[Framework Synthesis]] | 方法 | QURE 常被用作框架综合的先验框架，先验框架即初始[[Coding in Qualitative Research\|编码]]模板 |
+> | [[Framework Synthesis|框架综合（Framework Synthesis）]] | 方法 | QURE 常被用作框架综合的先验框架，先验框架即初始[[Coding in Qualitative Research\|编码]]模板 |
 
 ---
 
