@@ -51,9 +51,9 @@ updated: 2026-08-25
 > 概念性、工具性与象征性使用（Conceptual, Instrumental, and Symbolic Use of Research）是对[[Research Utilization|研究利用]]方式的经典三分类。概念性使用指研究以复杂而往往间接的方式为实践者提供信息，影响他们对各种议题的理解与思考（Nutley et al., 2007），Weiss（1980, p. 381）称之为"知识渗透"（knowledge creep）；工具性使用指某一项研究直接回应某一具体议题，直接影响政策或实践决策（Nutley et al., 2007）；象征性（或策略性／战术性）使用指研究主要被用来事后为已作出的决策合法化（Knorr, 1977）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 这个类型学把"研究是否被使用"重构为"研究以什么方式被使用"，从而区分直接的应用、间接的认知渗透与策略性的合法化。
-> - **用途** 帮助研究者[[Evaluation Research|评估研究]]影响的性质：象征性使用看似"用了研究"，但并不构成真正的知识整合。
-> - **边界** 三分类不是价值等级；概念性使用不等于低效，象征性使用也可能伴随其它正当决策因素。它不回答"用什么研究"的质量问题（见 [[Quality Use of Research Evidence Framework|QURE]]）。
+> - **含义** 这个类型学把研究是否被使用重构为研究以什么方式被使用，从而区分直接的应用、间接的认知渗透与策略性的合法化。
+> - **用途** 帮助研究者[[Evaluation Research|评估研究]]影响的性质：象征性使用看似用了研究，但并不构成真正的知识整合。
+> - **边界** 三分类不是价值等级；概念性使用不等于低效，象征性使用也可能伴随其它正当决策因素。它不回答用什么研究的质量问题（见 [[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE））。
 
 > [!citation-card]- 关键表述
 > 概念性使用"构成一个宽泛的研究使用定义，研究以复杂而往往间接的方式为实践者提供信息，并影响对各种议题的理解与思考"；工具性使用指"研究对政策或实践决策的直接影响，某项特定研究直接回应某个特定议题"；象征性使用指"以事后使已作决策合法化为主导的使用方式"（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.3]]）。
@@ -61,7 +61,7 @@ updated: 2026-08-25
 > *Conceptual use comprises a wide-ranging definition of research use, where research informs practitioners in complex and often indirect ways... Instrumental use refers to the direct impact of research on policy or practice decisions... Symbolic use refers to a way of using research to predominantly post-hoc legitimize already made decisions.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Quality Use of Research Evidence Framework|QURE]] — 类型学回答"以什么方式用"；QURE 回答"用得是否恰当、是否有质量"，两者维度不同。
+> - 不等于 [[Quality Use of Research Evidence Framework|QURE]] — 类型学回答以什么方式用；QURE 回答用得是否恰当、是否有质量，两者维度不同。
 > - 不预设概念性使用优于工具性使用 — 类型学是描述性的分类，不是规范性评价。
 
 ---
@@ -84,7 +84,7 @@ updated: 2026-08-25
 > - **概念性使用（Conceptual Use）** 研究不直接决定行动，而是逐渐改变实践者对问题的理解方式；Weiss（1980）称其为"知识渗透"。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.3)]]
 > - **工具性使用（Instrumental Use）** 某项具体研究被直接用来回应某个具体决策问题，影响政策或实践行动。
 > - **象征性使用（Symbolic Use）** 研究被策略性地引用，主要作用是事后合法化已作出的决定（Knorr, 1977）；在问责驱动的标准化情境中容易演变为对研究证据的浅层套用。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.1)]]
-> - **深层使用（Deep Use）** Farley-Ripple 等（2018, 2022）的深层使用框架追问"用什么证据"与"如何用"（工具性、策略性还是概念性），以及实践者如何搜寻、解释与整合研究。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.4)]]
+> - **深层使用（Deep Use）** Farley-Ripple 等（2018, 2022）的深层使用框架追问用什么证据与如何用（工具性、策略性还是概念性），以及实践者如何搜寻、解释与整合研究。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.4)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

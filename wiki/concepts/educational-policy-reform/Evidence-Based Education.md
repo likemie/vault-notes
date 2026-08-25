@@ -392,7 +392,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > 以实在论因果命题为出发点，运用[[Mixed Methods Research|混合方法]]进行多方法跨情境验证，教师的[[Professional Judgment|专业判断]]从证据的被动接受者上升为共同生产者（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]；[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]]）。
 
 > [!warning] [[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]的系统证据
-> Hagevold 等（2026）对 109 项学校研究的[[Systematic Review|系统综述]]显示，标准化证据本位实践在问责驱动的时代容易导致对研究证据的象征性使用，把新实践浅层叠加在传统思维方式之上；"什么有效"运动的[[Hypothesis|假设]]——识别并传播有效干预本身就会带来有意义的实践变化——并未如愿实现。摆脱象征性使用需要经由信任、技能发展、可持续结构与关系四类跨层机制培育专业能动性，而非依靠工具性指令（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, pp.1]], 17–18）。
+> Hagevold 等（2026）对 109 项学校研究的[[Systematic Review|系统综述]]显示，标准化证据本位实践在问责驱动的时代容易导致对研究证据的象征性使用，把新实践浅层叠加在传统思维方式之上；"什么有效"运动的[[Hypothesis|假设]]（识别并传播有效干预本身就会带来有意义的实践变化）并未如愿实现。摆脱象征性使用需要经由信任、技能发展、可持续结构与关系四类跨层机制培育专业能动性，而非依靠工具性指令（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, pp.1]], 17–18）。
 
 ---
 ## 关键引用

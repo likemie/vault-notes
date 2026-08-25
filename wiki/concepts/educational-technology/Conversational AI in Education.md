@@ -7,10 +7,11 @@ aliases:
   - Conversational Agent in Education
   - 教育聊天机器人
   - 对话式智能体
+  - 对话机器人
 summary: "依托自然语言处理与多轮语音文本交互技术，在教学情境中提供拟真会话演练、即时纠错反馈、启发式追问与自适应语料推送的交互中介系统。"
 type: concept
 domain: "educational-technology"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

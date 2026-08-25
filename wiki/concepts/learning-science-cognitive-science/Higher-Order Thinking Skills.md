@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Operationalization]]"
   - "[[Critical Thinking]]"
+  - "[[Computational Thinking]]"
   - "[[Metacognition]]"
   - "[[Evaluation Research]]"
   - "[[Dialogue in Education]]"
@@ -82,7 +83,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 高阶思维技能（Higher-Order Thinking Skills, HOTS）是指超越简单的信息再认、事实机械回忆与固定程序算法套用的复杂心智加工运作系统。它具有非算法性（non-algorithmic）、高心智投入、多元路径与高度自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成[[Creativity|创造性]]解决方案或作出审慎的价值与逻辑判断；在理论脉络上深植于[[Bloom's Taxonomy|布鲁姆教育目标分类学]]（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization|操作化]]为[[Critical Thinking|批判性思维]]、计算思维、复杂问题解决、[[Metacognition|元认知]]反思与团队协作等核心能力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366)]]
+> 高阶思维技能（Higher-Order Thinking Skills, HOTS）是指超越简单的信息再认、事实机械回忆与固定程序算法套用的复杂心智加工运作系统。它具有非算法性（non-algorithmic）、高心智投入、多元路径与高度自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成[[Creativity|创造性]]解决方案或作出审慎的价值与逻辑判断；在理论脉络上深植于[[Bloom's Taxonomy|布鲁姆教育目标分类学]]（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization|操作化]]为[[Critical Thinking|批判性思维]]、[[Computational Thinking|计算思维]]、复杂问题解决、[[Metacognition|元认知]]反思与团队协作等核心能力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生对已有信息和经验进行深层重构、逻辑推论、批判审视与综合创新的复杂高级心智加工体系。
@@ -180,7 +181,7 @@ updated: 2026-08-25
 > 探讨智能代码助手、[[Dialogue in Education|对话]]机器人与自适应系统如何通过承担低阶机械运算释放认知资源，以及缺乏教学法指引可能导致的思维退化风险。
 
 > [!claim] [[Argument_Unal_2026_JECR|Ünal et al. (2026)]]
-> **AI 技术外化支架对高阶认知的实质促进** 二阶元分析显示，AI 教育应用对学生高阶思维技能具有中等至强效的显著促进作用（$ES = .63, 95\%\text{ CI} = [.12, 1.14]$，涵盖 29 项初级研究与 2,966 名学生）。在计算机编程与工程设计中，生成式 AI 代码助手（$ES = .99$）承担了低阶语法排查与常规模板编写的认知负荷，使学习者得以将宝贵的注意力集中于算法架构设计、抽象逻辑验证与计算思维（Computational Thinking）等高阶层面；在语言与跨学科探究中，智能对话代理（$ES = .74$）提供了 24/7 即时反馈与多轮辩论环境，有效激发了学生的批判审视与反思修正机制。[[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366, 1373)]]
+> **AI 技术外化支架对高阶认知的实质促进** 二阶元分析显示，AI 教育应用对学生高阶思维技能具有中等至强效的显著促进作用（$ES = .63, 95\%\text{ CI} = [.12, 1.14]$，涵盖 29 项初级研究与 2,966 名学生）。在计算机编程与工程设计中，生成式 AI 代码助手（$ES = .99$）承担了低阶语法排查与常规模板编写的认知负荷，使学习者得以将宝贵的注意力集中于算法架构设计、抽象逻辑验证与[[Computational Thinking|计算思维]]（Computational Thinking）等高阶层面；在语言与跨学科探究中，智能对话代理（$ES = .74$）提供了 24/7 即时反馈与多轮辩论环境，有效激发了学生的批判审视与反思修正机制。[[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366, 1373)]]
 
 ---
 
@@ -201,7 +202,7 @@ updated: 2026-08-25
 > - **1956 年 认知目标分类学奠基** Bloom 等人提出认知领域教育目标分类学，确立从知识、领会、运用到分析、综合、评价的六级阶梯，奠定高阶思维的经典层级框架。
 > - **1980 年代 认知科学转向与思维教学运动** Resnick（1987）系统阐述“教育与学习思考”，明确高阶思维的非算法性、复杂性与自我调节属性，推动思维技能显性教学与[[Metacognition|元认知]]研究兴起。
 > - **2001 年 [[Bloom's Taxonomy|布鲁姆分类学]]二维修订** Anderson & Krathwohl 对分类学进行重构（知识维度 $\times$ 认知过程维度），将“创造”（Create）置于认知过程最高层级，突出知识生成的综合性。
-> - **2010 年代 计算思维与多维技能拓展** Korkmaz et al. (2017) 研制[[Computational Thinking Scale|计算思维量表]]（CTS），将算法思维、[[Critical Thinking|批判性思维]]、问题解决与[[Creativity|创造力]]整合为可测量的技术高阶认知[[Construct|构念]]。
+> - **2010 年代 [[Computational Thinking|计算思维]]与多维技能拓展** Korkmaz et al. (2017) 研制[[Computational Thinking Scale|计算思维量表]]（CTS），将算法思维、[[Critical Thinking|批判性思维]]、问题解决与[[Creativity|创造力]]整合为可测量的技术高阶认知[[Construct|构念]]。
 > - **2020 年代 21世纪[[21st Century Skills and Competencies Discourse|核心素养]]与二阶证据确证** [[Meta-meta-analysis|二阶元分析]]相继证实[[Constructivist Paradigm|建构主义]][[Cooperative Learning|合作学习]]（$ES = 0.76$）与人工智能技术支架（$ES = 0.63$）对高阶思维的显著促进效应，确立了宏观证据基准。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026)]]
 
 ---
@@ -209,7 +210,7 @@ updated: 2026-08-25
 ## 争议与批评
 
 > [!tension] 智能技术与高阶思维发展的核心张力
-> - **认知释放与思维深化（赋能方）** 智能工具自动处理繁复语法纠错与常规信息检索，将学习者从机械重复中解放，促进高阶计算思维、逻辑验证与[[Creativity|创造性]]综合（Yilmaz & Karaoglan Yilmaz, 2023; Ünal et al., 2026）。
+> - **认知释放与思维深化（赋能方）** 智能工具自动处理繁复语法纠错与常规信息检索，将学习者从机械重复中解放，促进高阶[[Computational Thinking|计算思维]]、逻辑验证与[[Creativity|创造性]]综合（Yilmaz & Karaoglan Yilmaz, 2023; Ünal et al., 2026）。
 > - **认知卸载与浅层依赖（警示方）** 缺乏教学法约束时，学生易将思考过程完全外包给 AI，导致认知卸载（Cognitive Offloading），干预带来的增益多停留于布鲁姆低阶识记层级，削弱了深度批判性反思与自主探究能力（Essien et al., 2024; Chen et al., 2020）。
 
 > [!warning] 适用局限与教学前提

@@ -80,13 +80,13 @@ updated: 2026-08-25
 > - **知识观** 方法本身认识论上灵活，可配合[[Positivism|实证主义]]也可配合[[Critical Realism|批判实在论]]。批判实在论取向把表面可观察的模式解释为深层机制的结构化生成物，因而把分析注意力引向"支配[[Research Utilization|研究使用]]的条件与机制"，而不是仅作屏障与促进因素频数统计（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.6]]）。
 > - **研究者角色** 研究者既是证据的组织者，也是理论的整合者：先验框架的选择本身承载理论判断，随后的配置式（configurative）分析也依赖研究团队的解释性协商。
 > - **有效性标准** 先验框架须来自同行评议[[Document|文献]]、具备概念清晰性与可[[Operationalization|操作化]]程度，并适配数据；[[Intercoder Agreement|编码者间信度]]、双盲筛选与团队协商用于控制解释偏差。
-> - **不声称回答的问题** 框架综合本身不能建立因果效果，也不能替代原始研究产生新数据；先验框架可能使分析对框架未覆盖的维度"失明"。
+> - **不声称回答的问题** 框架综合本身不能建立因果效果，也不能替代原始研究产生新数据；先验框架可能使分析对框架未覆盖的维度失明。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Systematic Review|系统综述]]内的证据综合阶段；总体遵循[[PRISMA]]报告框架。
 > - **数据收集** 数据库检索（如 Scopus、Web of Science、ERIC）、筛选与全文获取；通常配合 EPPI-Reviewer 等软件管理。
 > - **分析方法** 框架分析（两阶段：描述性特征提取 + 基于先验框架主节点的[[Coding in Qualitative Research|编码]]）；聚合式（aggregative）计数与配置式（configurative）跨层主题识别。
-> - **辅助技术** 双盲筛选、质量评估工具（如[[Mixed Methods Appraisal Tool]]）、NVivo 编码软件、共识式团队讨论。
+> - **辅助技术** 双盲筛选、质量评估工具（如[[Mixed Methods Appraisal Tool|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT））、NVivo 编码软件、共识式团队讨论。
 
 ---
 
@@ -94,14 +94,14 @@ updated: 2026-08-25
 
 > [!proc] 通用程序
 > 1. **提出问题与检索[[Document|文献]]** 明确[[Research Question|研究问题]]，制定纳入排除标准，在多个数据库执行系统检索。
-> 2. **构建初始框架** 综合既有理论或概念框架，形成先验的"初始概念框架"作为[[Coding in Qualitative Research|编码]]模板。
+> 2. **构建初始框架** 综合既有理论或概念框架，形成先验的初始概念框架作为[[Coding in Qualitative Research|编码]]模板。
 > 3. **数据提取** 分两阶段：先提取每项研究的描述性特征（年份、国家、设计、对象等），再以研究问题对应主节点对结果（及部分讨论）文本编码。
 > 4. **综合与分析** 聚合式分析将发现映射到先验框架并统计来源研究数；配置式分析跨越框架层级识别反复出现的横切主题。
 > 5. **质量评估** 用标准工具评估纳入研究质量，并只把低质量研究的独有发现当作弱证据处理。
 > 6. **修订框架并整合呈现** 依据综合结果修订初始框架，输出经经验数据检验的修订框架。
 
 > [!example]- 应用示例：Hagevold 等人（2026）的框架综合
-> Hagevold 等人（2026, pp.6–8）以 [[Quality Use of Research Evidence Framework|QURE]] 框架（Rickinson et al., 2022）为主框架，将深度使用框架（Farley-Ripple et al., 2018）、[[Research Literacy|研究素养]]敏感性（Eriksen, 2022）、研究参与学校生态系统模型（Godfrey & Brown, 2019）以及内外复杂性概念（Kvernbekk, 2016; Perry & Morris, 2023）整合为初始框架。第一作者在 NVivo 15 中以"框定与描述""屏障""促进因素"为主节点编码 109 项研究；屏障节点由团队盲编码并以共识达成 100% 一致。随后聚合式分析统计各主代码的来源研究数，配置式分析识别出跨越个体、组织与系统层级的四类治理机制（信任、技能发展、可持续结构、关系），并据此将初始框架修订为四机制框架。
+> Hagevold 等人（2026, pp.6–8）以 [[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE）为主框架，将深度使用框架（Farley-Ripple et al., 2018）、[[Research Literacy|研究素养]]敏感性（Eriksen, 2022）、研究参与学校生态系统模型（Godfrey & Brown, 2019）以及内外复杂性概念（Kvernbekk, 2016; Perry & Morris, 2023）整合为初始框架。第一作者在 NVivo 15 中以"框定与描述""屏障""促进因素"为主节点编码 109 项研究；屏障节点由团队盲编码并以共识达成 100% 一致。随后聚合式分析统计各主代码的来源研究数，配置式分析识别出跨越个体、组织与系统层级的四类治理机制（信任、技能发展、可持续结构、关系），并据此将初始框架修订为四机制框架。
 
 ---
 
@@ -117,7 +117,7 @@ updated: 2026-08-25
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 先验框架会"敏化"分析者注意系统性与关系性模式，可能使个体层面因素在配置式综合中相对不突出；团队的[[Theoretical Perspective|理论取向]]不同，识别的机制可能被赋予不同权重（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.6]]）。
+> - **偏误来源** 先验框架会敏化分析者注意系统性与关系性模式，可能使个体层面因素在配置式综合中相对不突出；团队的[[Theoretical Perspective|理论取向]]不同，识别的机制可能被赋予不同权重（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.6]]）。
 > - **适用边界** 综合结论的[[External Validity|可推广性]]受纳入研究情境（如英语国家与西欧学校）限制；框架的跨情境适用性需后续实证检验。
 > - **误用风险** 把先验框架当成"结论"而不是"透镜"；或把配置式综合中识别出的机制误读为因果效应。
 > - **补救方式** 透明报告先验框架来源与修订过程；采用双盲[[Coding in Qualitative Research|编码]]、团队共识与[[Intercoder Agreement|编码者间信度]]；用多框架互补减少单一框架的盲点。

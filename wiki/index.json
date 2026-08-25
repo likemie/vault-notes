@@ -2970,7 +2970,8 @@
       "Conversational AI Agents",
       "Conversational Agent in Education",
       "教育聊天机器人",
-      "对话式智能体"
+      "对话式智能体",
+      "对话机器人"
     ]
   },
   {
@@ -3033,6 +3034,19 @@
       "游戏化",
       "游戏化学习",
       "game-based reinforcement"
+    ]
+  },
+  {
+    "title": "Generative AI Agent in Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Generative AI Agent in Education.md",
+    "aliases": [
+      "生成式教育智能体",
+      "生成式智能体",
+      "GenAI Agent in Education",
+      "GenAI Agent",
+      "Generative AI Agent",
+      "生成式人工智能智能体"
     ]
   },
   {
@@ -5021,6 +5035,18 @@
       "认知来源",
       "cognitive source in learning socialization",
       "maternal cognitive source"
+    ]
+  },
+  {
+    "title": "Computational Thinking",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Computational Thinking.md",
+    "aliases": [
+      "计算思维",
+      "计算思维能力",
+      "算法思维",
+      "Computational Thinking Ability",
+      "Algorithmic Thinking"
     ]
   },
   {

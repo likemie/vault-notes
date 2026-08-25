@@ -27,14 +27,15 @@ tags:
   - theme/higher-order-thinking
   - subject/educational-technology
 related_concepts:
+  - "[[Computational Thinking]]"
   - "[[Scale of Measurement]]"
   - "[[Questionnaire]]"
-  - "[[Higher-Order Thinking Skills]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Likert Scale]]"
   - "[[Internal Consistency]]"
   - "[[Construct Validity]]"
+  - "[[Higher-Order Thinking Skills]]"
 related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
@@ -55,17 +56,17 @@ updated: 2026-08-25
 
 ## 工具定位
 
-> [!instrument-profile] Computational Thinking Scale
+> [!instrument-profile] [[Computational Thinking]] Scale
 > - **工具类型** 29 题 5 点李克特自陈式心理[[Scale of Measurement|测量量表]]（Self-Report Psychometric Scale）。
 > - **开发者与年份** Korkmaz, Çakır, & Özden (2017)。
-> - **测量目的** 用于在基础教育与高等教育阶段，评估学生在程序设计、人工智能学习与跨学科探究中的高阶计算思维倾向与问题解决能力。
+> - **测量目的** 用于在基础教育与高等教育阶段，评估学生在程序设计、人工智能学习与跨学科探究中的[[Computational Thinking|计算思维]]倾向与问题解决能力。
 > - **实施方式** 纸笔或在线[[Questionnaire|问卷]]自陈施测，作答耗时约 10–15 分钟。
 
 ---
 
 ## 测量构念与维度
 
-> [!construct-table] [[Higher-Order Thinking Skills]]
+> [!construct-table] [[Computational Thinking|计算思维]]（Computational Thinking）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
@@ -105,5 +106,5 @@ updated: 2026-08-25
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | CTS 原始版 | 土耳其语 / 英语 | 中学生与大学生 | 29 | 建立五维度计算思维自陈测量标准 | Korkmaz et al. (2017) |
+> | CTS 原始版 | 土耳其语 / 英语 | 中学生与大学生 | 29 | 建立五维度[[Computational Thinking\|计算思维]]自陈测量标准 | Korkmaz et al. (2017) |
 > | CTS 简化版 | 英语 | 小学生群体 | 22 | 简化语句表述，调整抽象术语以适配低龄儿童认知特征 | Korkmaz et al. (2015) |

@@ -100,7 +100,7 @@ updated: 2026-08-25
 > **制度性不信任** 问责系统把专业限制在政策方向指定的狭小能动域，构成制度性不信任（institutional distrust），其程度决定研究使用是[[Professional Judgment|专业判断]]与能动性的权限，还是工具性服从；摆脱[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]需要经由可持续结构培育专业能动性，而非依靠工具性指令。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp.16, 18)]]
 
 > [!claim] Mausethagen, S., et al.
-> **缺陷框定** 研究使用[[Document|文献]]长期把研究使用呈现为缺失或不足（deficit framing），这种框定把问题锚定在教师个体，而系统性条件——信任、技能发展、可持续结构与关系的互动——才是系统性地生产这种“缺陷”的机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.18)]]
+> **缺陷框定** 研究使用[[Document|文献]]长期把研究使用呈现为缺失或不足（deficit framing），这种框定把问题锚定在教师个体，而系统性条件（信任、技能发展、可持续结构与关系的互动）才是系统性地生产这种“缺陷”的机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.18)]]
 
 ---
 

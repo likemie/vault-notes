@@ -41,6 +41,7 @@ related_concepts:
   - "[[Procedural Skill]]"
   - "[[Dialogue in Education]]"
   - "[[Feedback]]"
+  - "[[Computational Thinking]]"
   - "[[AI Agent in Education]]"
   - "[[Champ]]"
   - "[[Funnel Plot]]"
@@ -66,7 +67,6 @@ related_theories:
   - "[[Zawacki-Richter AI in Higher Education Framework]]"
   - "[[Bloom's Taxonomy]]"
 related_methods:
-  - "[[Time Series Design]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
@@ -159,7 +159,7 @@ issuing_organization: ""
 > | **智能[[Dialogue in Education\|对话]]代理与聊天机器人（AI Chatbots & Conversational Agents）** | 依托自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Model, LLM，如 ChatGPT、GPT-4）或规则驱动的对话式智能辅导系统，能够模拟人类教师或学伴进行即时互动、[[Socrates\|苏格拉底]]式追问与个性化语言交流。 | 教学规程：学生提出问题 $\to$ 聊天机器人提供自适应解释或引导性线索 $\to$ 开展多轮人机对话反思 $\to$ 总结提炼；典型工具：ChatGPT, Dialogflow, Duolingo Max, 智能外语口语助手；纳入 4 项独立 FOM：Liu et al. (2025, 语言, $ES = .97$)、Wu & Li (2024, 语言, $ES = .65$)、Zhang et al. (2024, 残障学生, $ES = .59$)、Deng et al. (2025, 多学科, $ES = .72$)；亚组加权平均 $ES = .74$（95% CI [.49, .98]）。 |
 > | **智能导学与自适应学习系统（[[Intelligent Tutoring Systems]] & Adaptive Systems）** | 具备领域专家知识模型、学生认知状态追踪模型、教学策略决策模型与交互界面的个性化学习系统，能够实现学习路径动态规划与练习难度自适应调整。 | 教学规程：初始先验知识前测 $\to$ 算法动态推送定制化学习内容 $\to$ 提供细粒度即时步骤诊断提示 $\to$ 掌握度达标后晋级；典型系统：ALEKS, Cognitive Tutor, ASSISTments, Knewton；纳入 Wang et al. (2024, 自适应系统, $ES = .70$)、Hwang (2022, $ES = .35$)、Steenbergen-Hu & Cooper (2013) 等；归入多类型 AI 组。 |
 > | **AI 赋能评估与自动化评分反馈工具（AI-enabled Assessment & Automated [[Feedback]] Tools）** | 运用自然语言处理与机器学习算法对学生主观产出（如作文、口语录音、开放问答）实施自动作文评分（Automated Essay Scoring, AES）、错误诊断并生成多维度形成性反馈的专用评估技术。 | 教学规程：学生提交初稿 $\to$ AI 算法即时生成语法、篇章、逻辑层级诊断报告 $\to$ 学生根据反馈进行多轮自主修改与反思 $\to$ 终结性测评；典型工具：ETS Criterion, 批改网, Grammarly Edu；纳入 Chen et al. (2025, K12 英语写作与口语评估, $ES = .39$, 95% CI [-.19, .97]) 1 项专属 FOM。 |
-> | **生成式 AI 编程助手与计算思维支架（GenAI Code Assistants & Computational Scaffolds）** | 利用代码大模型与生成式[[AI Agent in Education\|智能体]]为学生提供实时代码解释、语法与逻辑纠错、算法思路拆解与伪代码转化的认知脚手架。 | 教学规程：复杂编程任务拆解 $\to$ 提示词构建与代码框架生成 $\to$ AI 代码审查与错误定位 $\to$ 算法效率优化与同伴讨论；典型工具：GitHub Copilot, ChatGPT Code Interpreter；纳入 Tlili (2024, 计算机科学, $ES = 1.36$)、García-Martínez et al. (2023, 计算机科学, $ES = .72$)；亚组加权平均 $ES = .99$（95% CI [.62, 1.35]）。 |
+> | **生成式 AI 编程助手与[[Computational Thinking\|计算思维]]支架（GenAI Code Assistants & Computational Scaffolds）** | 利用代码大模型与生成式[[AI Agent in Education\|智能体]]为学生提供实时代码解释、语法与逻辑纠错、算法思路拆解与伪代码转化的认知脚手架。 | 教学规程：复杂编程任务拆解 $\to$ 提示词构建与代码框架生成 $\to$ AI 代码审查与错误定位 $\to$ 算法效率优化与同伴讨论；典型工具：GitHub Copilot, ChatGPT Code Interpreter；纳入 Tlili (2024, 计算机科学, $ES = 1.36$)、García-Martínez et al. (2023, 计算机科学, $ES = .72$)；亚组加权平均 $ES = .99$（95% CI [.62, 1.35]）。 |
 > | **综合多类型 AI 教育平台与智能媒体（Multi-type AI Learning Media & Platforms）** | 涵盖多种 AI 技术的集成化智慧学习环境，或一阶元分析未对具体技术子类作拆分的统合型智能教学干预。 | 教学规程：融合自适应内容推送、智能推荐、多模态互动练习与学习分析数据看板；纳入 14 项独立 FOM：Dong et al. (2025, $ES = .92$)、Setiawan et al. (2025, $ES = .58$)、Dai et al. (2024, $ES = .43$)、Dibek et al. (2025, $ES = .63$)、Yi et al. (2025, $ES = .32$)、Zheng et al. (2023, $ES = .70$)、Tlili et al. (2025, $ES = 1.10$)、Wu (2024, $ES = .98$) 等；亚组加权平均 $ES = .66$（95% CI [.53, .79]）。 |
 > | **教育阶段（Education Level）** | 学习者所处学段划分：包含 K12 基础教育（小学至高中）与涵盖本科、研究生及跨学段综合样本的 K12 与高等教育混合学段。 | K12 专属样本（4 项 FOM：Yi et al., 2025; Hwang, 2022; Chen et al., 2025; Zhang et al., 2024，加权平均 $ES = .40$）；K12 与高等教育混合样本（15 项 FOM，如 Tlili, 2024; Dong et al., 2025; Wu, 2024，加权平均 $ES = .73$）；组间差异显著（$Q_{bg}(1) = 6.95, p = .01$）。 |
 > | **学科领域（Education [[Champ\|field]]）** | 教学内容所属学科领域分类：包含计算机科学、作为外语的英语（English as a Foreign Language, EFL）与第二语言（Second Language, L2）读写听说的语言学习领域、多学科综合领域、数学领域。 | 计算机科学（2 项 FOM，加权平均 $ES = .99$）；语言学习（5 项 FOM：Wu, 2024; Liu et al., 2025; Chen et al., 2025; Wu & Li, 2024; Lee & Lee, 2024，加权平均 $ES = .69$）；多学科综合（10 项 FOM，加权平均 $ES = .68$）；数学（2 项 FOM：Yi et al., 2025; Hwang, 2022，加权平均 $ES = .34$）；组间差异显著（$Q_{bg}(3) = 8.36, p = .04$）。 |

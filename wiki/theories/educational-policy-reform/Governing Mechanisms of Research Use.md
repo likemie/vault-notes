@@ -62,12 +62,12 @@ updated: 2026-08-25
 
 > [!theory-position] 理论定位
 > - **解释对象** 学校中[[Research Utilization|研究使用]]为何长期停滞于象征性或浅层[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]，以及什么条件能把它转化为深层的专业整合。
-> - **理论问题** 回应既有研究只识别"研究使用的障碍与促成因素清单"而缺少治理机制解释的缺口，回答"什么机制支配这些持久障碍"。
+> - **理论问题** 回应既有研究只识别研究使用的障碍与促成因素清单而缺少治理机制解释的缺口，回答什么机制支配这些持久障碍。
 > - **理论类型** 中层机制[[Analytic Framework|分析框架]]，跨越社会生态系统层级的横切机制模型。
-> - **知识位置** 由 Hagevold 等人（2026）基于对 109 项实证研究的[[Framework Synthesis|框架综合]]提出；其先验框架来自 [[Quality Use of Research Evidence Framework|QURE]]、深层使用、[[Research Literacy|研究素养]]与生态系统模型，[[Epistemic Stances|认识论立场]]为[[Critical Realism|批判实在论]]。
+> - **知识位置** 由 Hagevold 等人（2026）基于对 109 项实证研究的[[Framework Synthesis|框架综合]]提出；其先验框架来自 [[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE）、深层使用、[[Research Literacy|研究素养]]与生态系统模型，[[Epistemic Stances|认识论立场]]为[[Critical Realism|批判实在论]]。
 
 > [!claim] 核心主张
-> 学校中的研究使用不是主要受个体缺陷制约，而是受四类跨越并贯通系统的机制——信任、技能发展、可持续结构与关系——共同治理；这些机制相互强化、同时在纵向与横向方向运作，因此研究使用无法靠政策指令自上而下强制实现，只能靠塑造这些机制来支持整合。
+> 学校中的研究使用不是主要受个体缺陷制约，而是受四类跨越并贯通系统的机制（信任、技能发展、可持续结构与关系）共同治理；这些机制相互强化、同时在纵向与横向方向运作，因此研究使用无法靠政策指令自上而下强制实现，只能靠塑造这些机制来支持整合。
 
 > [!citation-card]- 关键表述
 > "研究使用在学校中并不是主要受个体缺陷制约，而是受决定信任、技能、关系与结构能否发展和富有成效地互动的系统性条件所制约。"（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.18]]）
@@ -98,7 +98,7 @@ updated: 2026-08-25
 > [!proposition-chain] 核心命题一｜四类机制跨越个体、组织与系统层级持续运作，而非驻留于单一层级
 > - **前提一** 配置式分析发现若干主题反复出现在至少两个层级，并同时见于"框定与描述"与"屏障与促进因素"数据中，因而不被任何单一层级所包含（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, pp.8]], 15）。
 > - **前提二** 聚合式分析显示最持久的障碍与最有利的条件无法仅用层级专属因素解释（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, pp.17–18]]）。
-> - **推导** 因此修订框架以四类横切机制取代"各层级嵌套组件"的逻辑，说明[[Research Utilization|研究使用]]必须按跨层互动理解，而不是把因素分配到离散层级。
+> - **推导** 因此修订框架以四类横切机制取代各层级嵌套组件的逻辑，说明[[Research Utilization|研究使用]]必须按跨层互动理解，而不是把因素分配到离散层级。
 
 > [!proposition-chain] 核心命题二｜四类机制相互强化、同时在纵向与横向方向同时运作，形成整合系统而非清单
 > - **前提一** 信任是技能发展与关系建立所要求的开放[[Dialogue in Education|对话]]与风险承担的前提，也可由后者维系；可持续结构创造关系形成与技能[[Growth|生长]]的时空；关系生成信任赖以建立和维持的社会基础设施（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.17]]）。
@@ -106,12 +106,12 @@ updated: 2026-08-25
 > - **推导** 四机制构成一个整合系统，任何层级上机制的存在或缺席都会在其它机制中引起回响；这解释了为何孤立的时间投入或个别教师培训难以真正改变研究使用。
 
 > [!proposition-chain] 核心命题三｜从"实施"转向"整合"要求以专业自主与可持续结构取代工具性强制
-> - **前提一** 实证发现研究在实践者的决策中始终扮演"第三声音"而非主导角色；深度的"深思熟虑参与"比工具性或[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]更罕见（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, pp.11–12]]）。
+> - **前提一** 实证发现研究在实践者的决策中始终扮演"第三声音"而非主导角色；深度的深思熟虑参与比工具性或[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]更罕见（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, pp.11–12]]）。
 > - **前提二** 整合在[[Epistemology|认识论]]上指研究知识与专业智慧、情境判断的积极调和，在组织上指把研究参与嵌入学校文化、惯例与结构（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.18]]）。
 > - **推导** 摆脱象征性使用需要经由可持续结构培育专业能动性，而不是依靠证据本位实践的工具性指令。
 
 > [!exegesis]- 教育研究例子
-> [[Hypothesis|假设]]一所学校想让教师用阅读教学研究改进课堂。只提供"[[Abstract|研究摘要]]"或下达"必须按证据教学"的指令（工具性强制）通常流于象征性套用；按治理机制框架，校方需要建立信任（让教师相信试错不会受罚）、组织可持续结构（固定教研时间讨论研究）、发展技能（培训检索与[[Evaluation Research|评估研究]]）并维护关系（与研究者或学区建立伙伴关系），四者同时运转，研究才可能被整合进[[Professional Judgment|专业判断]]而不是被简单照搬。
+> [[Hypothesis|假设]]一所学校想让教师用阅读教学研究改进课堂。只提供[[Abstract|研究摘要]]或下达必须按证据教学的指令（工具性强制）通常流于象征性套用；按治理机制框架，校方需要建立信任（让教师相信试错不会受罚）、组织可持续结构（固定教研时间讨论研究）、发展技能（培训检索与[[Evaluation Research|评估研究]]）并维护关系（与研究者或学区建立伙伴关系），四者同时运转，研究才可能被整合进[[Professional Judgment|专业判断]]而不是被简单照搬。
 
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-08-25
 > - **不能直接推出的东西** 框架不证明研究使用与教育结果之间的因果联系，不声称四机制适用于所有教育系统，也不断言消除某机制障碍就必然改善使用。
 
 > [!theory-use] 如何用于研究
-> - **作为理论框架** 把[[Research Question|研究问题]]从"教师为何不用研究"重构为"哪些跨层机制支配并可能[[Translational Research|转化研究]]使用"。
+> - **作为理论框架** 把[[Research Question|研究问题]]从教师为何不用研究重构为哪些跨层机制支配并可能[[Translational Research|转化研究]]使用。
 > - **作为分析工具** 提供[[Coding in Qualitative Research|编码]]与分析维度（信任、技能发展、可持续结构、关系），用于[[Systematic Review|系统综述]]、[[Case Study|案例研究]]与调查设计。
 > - **作为批判视角** 批判把研究使用归因于个体缺陷的"缺陷框定"，并把注意力转向系统性生产这种缺陷的条件。
 > - **报告方式** 报告时应区分先验框架（[[Quality Use of Research Evidence Framework|QURE]]）与修订框架（四机制）的演化关系，并说明机制识别依赖团队解释性协商。

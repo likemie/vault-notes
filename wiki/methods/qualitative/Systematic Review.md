@@ -131,7 +131,7 @@ updated: 2026-08-25
 
 > [!method-stack] 方法层级
 > - **研究设计** 系统综述设计，遵循预设协议——如 [[PRISMA]]（Preferred Reporting Items for Systematic Reviews and Meta-Analyses）、[[EPPI-Centre]] 框架、Cochrane 手册（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.386–397]]）。
-> - **数据收集** 数据库检索（如 ERIC、SSCI、Scopus）、参考[[Document|文献]]追踪、灰色[[Literature Search|文献搜索]]、专家咨询、手工检索关键期刊。
+> - **数据收集** 数据库检索（如教育资源信息中心（Education Resources Information Center, ERIC）、SSCI、Scopus）、参考[[Document|文献]]追踪、灰色[[Literature Search|文献搜索]]、专家咨询、手工检索关键期刊。
 > - **分析方法** [[Coding in Qualitative Research|编码]]与主题分析（定性综合）；[[Effect Size|效应量]]汇总（定量[[Meta-analysis|元分析]]）；投票计数；叙事综合；质性比较分析。
 > - **辅助技术** 双重筛选（dual screening）、偏倚风险评估工具、PRISMA 流程图（记录检索→筛选→纳入的流程）、编码者间信度检验。
 
@@ -225,4 +225,4 @@ EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步�
 > - **[[Argument_Higgins_2016_RE|Higgins (2016)]]** 系统综述的方法论教材，涵盖[[Research Question|研究问题]]制定、纳入标准、系统搜索、质量评估和数据综合的完整操作框架。
 > - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 按照 [[PRISMA]] 框架从 SSCI and Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统介绍了系统综述与研究综合的定义、类型、操作标准（[[EPPI-Centre]]、BERA、Evans & Benefield、Cooper 等框架）与方法论警示。
-> - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，在 Scopus、Web of Science 与 ERIC 三库系统检索，双盲两阶段筛选后纳入 109 项学校[[Research Utilization|研究使用]]实证研究，用[[Mixed Methods Appraisal Tool|MMAT]]评估质量并采用[[Framework Synthesis|框架综合]]进行证据整合。
+> - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，在 Scopus、Web of Science 与 ERIC 三库系统检索，双盲两阶段筛选后纳入 109 项学校[[Research Utilization|研究使用]]实证研究，用[[Mixed Methods Appraisal Tool|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT）评估质量并采用[[Framework Synthesis|框架综合]]进行证据整合。

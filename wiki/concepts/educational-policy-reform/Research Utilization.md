@@ -101,7 +101,7 @@ updated: 2026-08-25
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5、新西兰 1、爱尔兰 1） | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 k = 91（83% 研究），组织层面 k = 56，系统层面 k = 46，核心构件 k = 94 | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research\|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向证据稀缺 |
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究质量分布 | 41 项（38%）[[Mixed Methods Appraisal Tool\|MMAT]] 评 5 分、18 项（17%）4 分、31 项（28%）3 分、其余 17% 评 2 分及以下 | 1 项未通过筛选不作评估 | 大多数发现来自评 4–5 分的 59 项较高质量研究 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究质量分布 | 41 项（38%）[[Mixed Methods Appraisal Tool\|混合方法评价工具（Mixed Methods Appraisal Tool, MMAT）]] 评 5 分、18 项（17%）4 分、31 项（28%）3 分、其余 17% 评 2 分及以下 | 1 项未通过筛选不作评估 | 大多数发现来自评 4–5 分的 59 项较高质量研究 |
 
 ---
 

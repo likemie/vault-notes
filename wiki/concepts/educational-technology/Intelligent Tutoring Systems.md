@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤进行细粒度建模并提供自适应个性化教学指导的计算机系统，由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 10
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

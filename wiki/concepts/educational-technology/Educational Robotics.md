@@ -9,7 +9,7 @@ aliases:
 summary: "具备物理具身或外显虚拟实体的人工智能交互系统，通过语音、表情、手势与多模态感知，在语言伴读、程序演练与跨学科探究中提供示范、协作与情感激励。"
 type: concept
 domain: "educational-technology"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Presence]]"
   - "[[Champ]]"
+  - "[[Computational Thinking]]"
   - "[[Gamification]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Conversational AI in Education]]"
@@ -57,7 +58,7 @@ updated: 2026-08-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于无物理形态的纯屏幕软件，教育机器人具有“具身性”（Embodiment）与社会存在感（Social [[Presence]]），通过动作、视线接触与空间物理位置建立沉浸式人机互动[[Champ|场域]]。
-> - **用途** 在学前与低小学段进行双语认读纠音、拼音与字母笔画示范、算术卡牌游戏互动，以及在高学段进行可编程机器人（如 LEGO / Arduino）软硬件跨学科工程计算思维训练。
+> - **用途** 在学前与低小学段进行双语认读纠音、拼音与字母笔画示范、算术卡牌游戏互动，以及在高学段进行可编程机器人（如 LEGO / Arduino）软硬件跨学科工程[[Computational Thinking|计算思维]]训练。
 > - **边界** 实体机器人在高难度抽象逻辑理论推理与大规模并发部署上面临硬件维护成本高、算力受限与算法更新迟滞等物理约束。
 
 > [!citation-card]- 关键表述
@@ -96,7 +97,7 @@ updated: 2026-08-25
 
 > [!timeline] 教育机器人的演进脉络
 > - **1980年代 结构主义与 LOGO 龟图机器人** 西摩·尔派特（Seymour Papert）开创[[Constructivist Paradigm|建构主义]]机器人教育，通过物理海龟小车引导儿童学习编程与空间几何。
-> - **2000年代 模块化可编程套件普及** LEGO Mindstorms 等套件风靡全球，确立了面向青少年 STEM 工程与计算思维竞赛的教育机器人[[Paradigm|范式]]。
+> - **2000年代 模块化可编程套件普及** LEGO Mindstorms 等套件风靡全球，确立了面向青少年 STEM 工程与[[Computational Thinking|计算思维]]竞赛的教育机器人[[Paradigm|范式]]。
 > - **2010年代 社交机器人（Social Robots）与拟人化伴读** NAO、Pepper 等仿人机器人进入中小学与特殊教育课堂，聚焦自闭症干预与外语口语伴读。
 > - **2020年代 具身大模型与多模态生成式机器人** 结合端侧大模型与视觉语言动作（Vision-Language-Action, VLA）架构，教育机器人实现开放式多轮[[Dialogue in Education|对话]]与自主情境感知。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
 

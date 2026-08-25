@@ -8,7 +8,7 @@ aliases:
 summary: "指个体在具体任务情境中应用规则、执行标准化操作序列与自动化解决良构问题的能力体系，在自适应教学微提示与刻意练习中极易实现图式编译与自动化运作。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

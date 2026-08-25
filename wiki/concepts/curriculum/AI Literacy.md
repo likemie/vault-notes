@@ -7,7 +7,7 @@ aliases:
 summary: "指个体理解人工智能基本工作机制、能力边界与算法偏见，能够批判性思考并负责任地将 AI 作为放大人类认知与创造力而非替代自身思考的综合素养"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Document]]"
   - "[[Homework]]"
+  - "[[Computational Thinking]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 confidence: high
@@ -99,7 +100,7 @@ updated: 2026-08-23
 
 > [!dev-timeline] 概念演变
 > - **2000 年代初 — 计算机与信息素养（ICT Literacy）** 聚焦计算机基本操作、办公软件使用与网络检索技能。
-> - **2010 年代 — 计算思维与编程教育（Computational Thinking）** 强调逻辑抽象、分解、模式识别与算法编程。
+> - **2010 年代 — [[Computational Thinking|计算思维]]与编程教育（Computational Thinking）** 强调逻辑抽象、分解、模式识别与算法编程。
 > - **2020 年代至今 — 批判性 AI 素养（Critical AI Literacy）** 随着大模型普及，转向对人机协同边界、生成幻觉批判、算法偏见审视与认知主体性维护。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026a, pp. 31–32)]]
 
 ---

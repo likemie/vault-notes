@@ -44,11 +44,11 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 研究素养（Research Literacy）指专业人员以既吸收研究证据又保持[[Professional Judgment|专业判断]]完整性的方式理解、评估与整合研究的能力与德性。Eriksen（2022）主张把专业工作理解为一种"技艺"（craft），研究素养是守护专业[[Areas of Knowledge|知识领域]]完整性的德性，并在"什么有效"的领域与"什么恰当"的领域之间发挥中介功能（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.4]]）。
+> 研究素养（Research Literacy）指专业人员以既吸收研究证据又保持[[Professional Judgment|专业判断]]完整性的方式理解、评估与整合研究的能力与德性。Eriksen（2022）主张把专业工作理解为一种技艺（craft），研究素养是守护专业[[Areas of Knowledge|知识领域]]完整性的德性，并在什么有效的领域与什么恰当的领域之间发挥中介功能（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.4]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 研究素养既是认知技能，也是专业德性：它既要求读懂与[[Evaluation Research|评估研究]]，也要求判断研究是否适合此时此地的实践情境。
-> - **用途** 帮助研究者理解为什么"看到研究"不等于"用好研究"，以及教师与[[School Leadership|学校领导]]者如何在接受与抵制研究之间协商。
+> - **用途** 帮助研究者理解为什么看到研究不等于用好研究，以及教师与[[School Leadership|学校领导]]者如何在接受与抵制研究之间协商。
 > - **边界** 不等于单纯的技术性研究技能，也不等于无条件接受证据本位实践；它预设研究知识与[[Phronesis|实践智慧]]都需要被尊重。
 
 > [!citation-card]- 关键表述
@@ -58,7 +58,7 @@ updated: 2026-08-25
 
 > [!boundary]- 概念边界
 > - 不等于 [[Professional Judgment]] — 专业判断是具体的决策能力；研究素养是理解与整合研究证据的那一部分能力与德性，两者相互支撑。
-> - 不等于无条件执行 证据本位实践 — 研究素养恰恰要求在"什么有效"与"什么恰当"之间作情境化权衡，而不是简单照搬研究结论。
+> - 不等于无条件执行 证据本位实践 — 研究素养恰恰要求在什么有效与什么恰当之间作情境化权衡，而不是简单照搬研究结论。
 
 ---
 
@@ -76,7 +76,7 @@ updated: 2026-08-25
 ## 核心要素
 
 > [!feature] 技艺模型下研究素养的三大德性与三种敏感度
-> - **完整性（Integrity）** 守护专业[[Areas of Knowledge|知识领域]]的边界与标准，由体裁敏感度（Genre Sensitivity）服务——把实践理解为复杂体裁。
+> - **完整性（Integrity）** 守护专业[[Areas of Knowledge|知识领域]]的边界与标准，由体裁敏感度（Genre Sensitivity）服务，把实践理解为复杂体裁。
 > - **讲理（Reason-Giving）** 为行动与选择提供主体间、依听众而定的辩护，由实践敏感度（Practice Sensitivity）服务。
 > - **灵活性（Flexibility）** 在特定时间、空间与情境中判断行动是否恰当，由情境敏感度（Situational Sensitivity）服务。
 
@@ -89,7 +89,7 @@ updated: 2026-08-25
 >     B --> E["体裁敏感度"]
 >     C --> F["实践敏感度"]
 >     D --> G["情境敏感度"]
->     E --> H["'什么有效'与'什么恰当'的中介"]
+>     E --> H["什么有效与什么恰当的中介"]
 > ```
 
 ---
@@ -104,7 +104,7 @@ updated: 2026-08-25
 > 主张以"技艺"理解专业工作，[[Research Utilization|研究使用]]不是简单执行研究结论，而是带着判断的再情境化。
 
 > [!claim] Eriksen, A.
-> **技艺模型** 反对把专业实践理解为"艺术／科学"的两极对立，主张通过技艺模型（craft model）看待专业：完整性、讲理与灵活性是专业性的主要属性，研究素养作为德性在"什么有效"与"什么恰当"之间发挥中介作用。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.4)]]
+> **技艺模型** 反对把专业实践理解为"艺术／科学"的两极对立，主张通过技艺模型（craft model）看待专业：完整性、讲理与灵活性是专业性的主要属性，研究素养作为德性在什么有效与什么恰当之间发挥中介作用。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.4)]]
 
 > [!claim] Mausethagen, S., & Hermansen, H.
 > **再情境化** 挪威[[Case Study|案例研究]]显示，[[School Leadership|学校领导]]者如何选择与改编研究、教师如何在接受与抵制之间协商、新兴挑战如何引发对新知的需求，说明研究使用是再情境化过程，兼具转化性、评价性与探索性。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.4)]]

@@ -39,8 +39,8 @@ related_concepts:
   - "[[Blinding]]"
 related_theories: []
 related_methods:
-  - "[[Systematic Review]]"
   - "[[Mixed Methods Research]]"
+  - "[[Systematic Review]]"
   - "[[Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
@@ -61,7 +61,7 @@ updated: 2026-08-25
 
 ## 工具定位
 
-> [!instrument-profile] Mixed Methods Appraisal Tool（MMAT）
+> [!instrument-profile] [[Mixed Methods Research|混合方法]]评价工具（Mixed Methods Appraisal Tool, MMAT）
 > - **工具类型** 批判性评价核查清单（checklist），用于[[Systematic Review|系统综述]]的证据质量评估。
 > - **开发者与年份** Hong et al. (2018)。
 > - **测量目的** 评估纳入系统综述的研究的方法学质量，尤其适合同时包含定性、定量与[[Mixed Methods Research|混合方法]]设计的证据库；2018 版为 2011 版与更早版本的修订。
