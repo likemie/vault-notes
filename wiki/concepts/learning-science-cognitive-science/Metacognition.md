@@ -8,7 +8,7 @@ aliases:
 summary: "个体对自己认知过程的意识和调节，包括元认知知识和元认知调节两个核心成分，是批判性思维的高阶认知基础"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
   - theme/critical-thinking
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Creativity]]"
   - "[[Academic Achievement]]"
   - "[[Theory of Knowledge]]"
   - "[[Learner Autonomy]]"
@@ -28,10 +29,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Lakhani_2012_AKUIED]]"
+  - "[[Argument_Park_2026_TSC]]"
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-08-03
+updated: 2026-08-25
 ---
 
 # Metacognition
@@ -65,6 +67,9 @@ updated: 2026-08-03
 
 > [!claim] 元认知意识是[[Learner Autonomy|学习者自主性]]的核心构成
 > 自主性要求学习者对自身信念和行动保持"意识"（consciousness）——关注和自评自己知道什么、正在做什么、认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。这种元认知意识使学习者能够做出知情的决策并有效利用可用资源，从而支撑自主学习（[[Argument_Lakhani_2012_AKUIED|Lakhani, 2012, p.174]]）。
+
+> [!claim] [[Argument_Park_2026_TSC|Park et al. (2026)]]
+> **创造力与批判性思维共享元认知成分** [[Creativity|创造力]]与[[Critical Thinking|批判性思维]]都涉及评价、判断与自我调节等认知与元认知过程，要求灵活而目标导向的推理（Halpern, 2003; Sternberg & Halpern, 2020），元认知因此是两者正相关的共同基础，也支撑联合培养的可行性。（pp. 2–3）
 
 ---
 

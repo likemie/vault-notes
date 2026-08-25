@@ -6,7 +6,7 @@ aliases:
 summary: "执行功能是一组用于目标导向控制的高阶认知过程，通常包括抑制、转换、更新与监控，用于调节思维和行为以完成任务。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 10
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,8 @@ related_concepts:
   - "[[Updating and Monitoring]]"
   - "[[Prefrontal Cortex]]"
   - "[[Academic Achievement]]"
+  - "[[Creativity]]"
+  - "[[Critical Thinking]]"
   - "[[Growth]]"
 related_theories:
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
@@ -30,10 +32,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
+  - "[[Argument_Park_2026_TSC]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-08-25
 ---
 
 ## 定义
@@ -67,6 +70,11 @@ updated: '2026-05-18'
 
 > [!info] 与[[Academic Achievement|学业成就]]的关系
 > 大量证据表明 EF 的发展是学业表现的主要预测因素。多项[[Longitudinal Study|纵向研究]]表明 EF 对学业成就有贡献，而非反之([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])。时间因素在认知发展中尤为重要，往往是比智力和 IQ 更准确的学业成就变异预测指标([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.5]])。
+
+## 与创造力、批判性思维的关系
+
+> [!claim] 创造力与批判性思维共享执行功能基础
+> [[Creativity|创造力]]（发散生成）与[[Critical Thinking|批判性思维]]（收敛评价）都依赖抑制、[[Cognitive Shifting|认知灵活性]]与[[Working Memory|工作记忆]]等执行功能（Benedek et al., 2012, 2014），执行功能因此构成两者正相关的共同认知基础，也支撑联合培养的可行性。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]
 
 ## 与情绪和社会发展的关联
 

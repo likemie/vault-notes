@@ -7,7 +7,7 @@ aliases:
 summary: "亦称认知灵活性或任务切换，指在多个任务、操作规则或心理集合之间切换的能力，是执行功能的核心成分之一。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 3
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,8 @@ tags:
 - cognitive-science
 related_concepts:
   - "[[Executive Function]]"
+  - "[[Creativity]]"
+  - "[[Critical Thinking]]"
   - "[[Prefrontal Cortex]]"
 related_theories: []
 related_methods: []
@@ -26,10 +28,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
+  - "[[Argument_Park_2026_TSC]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-08-25
 ---
 
 ## 定义
@@ -68,4 +71,9 @@ updated: '2026-05-18'
 
 > [!info] 与[[Prefrontal Cortex|前额叶皮层]]的关系
 > 转换任务期间前额叶皮层（prefrontal-cortex）的 vlPFC 和 dlPFC 区域被激活，与个体重新聚焦注意力或切换任务的情况一致([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.12]])。背外侧 PFC（dlPFC）在任务需要新颖性或任务间切换时发挥作用([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.8]])。
+
+## 与高阶思维的关系
+
+> [!claim] 认知灵活性与创造力、批判性思维
+> 认知转换（灵活性）是[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共同依赖的[[Executive Function|执行功能]]成分之一（连同抑制与[[Working Memory|工作记忆]]，Benedek et al., 2012, 2014），构成两者正相关的认知基础之一。[[Argument_Park_2026_TSC|(Park et al., 2026, pp. 2–3)]]
 
