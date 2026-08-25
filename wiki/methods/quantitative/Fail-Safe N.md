@@ -119,5 +119,5 @@ updated: 2026-08-25
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]]促进 K-12 认知表现的[[Meta-analysis|元分析]]中，综合运用经典失安全数（$N_{\text{fs}} = 378$，大于 $5k + 10 = 180$ 门槛）与 Orwin 失安全数（需 $2{,}876$ 篇未发表零效应研究才能将 $g = 0.404$ 拉低至 $0.01$），系统确立了汇总[[Effect Size|效应量]]的抗偏倚稳健度。
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 在 AI [[AI Agent in Education|智能体]]促进 K-12 认知表现的[[Meta-analysis|元分析]]中，综合运用经典失安全数（$N_{\text{fs}} = 378$，大于 $5k + 10 = 180$ 门槛）与 Orwin 失安全数（需 $2{,}876$ 篇未发表零效应研究才能将 $g = 0.404$ 拉低至 $0.01$），系统确立了汇总[[Effect Size|效应量]]的抗偏倚稳健度。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 在[[Meta-meta-analysis|二阶元分析]]中综合运用经典失安全系数（$N_{\text{fs}} = 4954$）、Egger 回归截距检验与[[Trim and Fill Method|剪补法]]，全面证实[[Cooperative Learning|合作学习]]宏观干预效应的稳健性。
