@@ -9820,6 +9820,19 @@
     ]
   },
   {
+    "title": "Engagement in and with Research",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Engagement in and with Research.md",
+    "aliases": [
+      "做研究与用研究",
+      "教师科研参与",
+      "教师科研参与模式",
+      "Engagement with Research",
+      "Engagement in Research",
+      "Research Engagement"
+    ]
+  },
+  {
     "title": "Research Literacy",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Research Literacy.md",
@@ -10822,6 +10835,16 @@
       "社会学习理论",
       "Bandura's social learning theory",
       "Rotter's social learning theory"
+    ]
+  },
+  {
+    "title": "Theory of Planned Behavior",
+    "type": "theory",
+    "path": "wiki/theories/psychology/Theory of Planned Behavior.md",
+    "aliases": [
+      "计划行为理论",
+      "TPB",
+      "计划行为学说"
     ]
   },
   {
@@ -17321,6 +17344,17 @@
     "aliases": [
       "论出版自由",
       "Milton's Areopagitica"
+    ]
+  },
+  {
+    "title": "BERA-RSA Inquiry into the Role of Research in Teacher Education",
+    "type": "fact",
+    "path": "wiki/facts/uk/BERA-RSA Inquiry into the Role of Research in Teacher Education.md",
+    "aliases": [
+      "英国教师教育与科研调查",
+      "英国教师教育与科研调查报告",
+      "BERA-RSA Inquiry",
+      "BERA-RSA 2014"
     ]
   },
   {

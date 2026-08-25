@@ -10,9 +10,9 @@ summary: "在心理学与教育学中开发和验证测量不可直接观测潜�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 36
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -20,18 +20,41 @@ tags:
   - theme/psychometrics
 related_concepts:
   - "[[Construct]]"
-  - "[[Construct Validity]]"
+  - "[[Variable]]"
+  - "[[Operationalization]]"
   - "[[Content Validity]]"
-  - "[[Likert Scale]]"
+  - "[[Construct Validity]]"
+  - "[[Reliability]]"
+  - "[[Convergent and Discriminant Validity]]"
+  - "[[Epistemology]]"
+  - "[[Face Validity]]"
+  - "[[Causality]]"
+  - "[[Questionnaire]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
+  - "[[Sample Size Determination]]"
+  - "[[Split-Half Reliability]]"
+  - "[[Criterion-related Validity]]"
+  - "[[Dependent Variable]]"
+  - "[[Internal Consistency]]"
+  - "[[Hypothesis]]"
+  - "[[Flow]]"
+  - "[[Common Method Variance]]"
+  - "[[Theory of Knowledge]]"
 related_theories:
   - "[[Classical Test Theory]]"
+  - "[[Item Response Theory]]"
 related_methods:
   - "[[Exploratory Factor Analysis]]"
   - "[[Confirmatory Factor Analysis]]"
+  - "[[Delphi Technique]]"
+  - "[[Analysis of Variance]]"
+  - "[[Causal Modeling]]"
   - "[[Pilot Testing]]"
-  - "[[Survey Research]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
+  - "[[Confidence Teaching TOK Scale]]"
+  - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []
 related_facts: []
 related_arguments:

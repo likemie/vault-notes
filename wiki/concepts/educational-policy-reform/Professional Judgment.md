@@ -6,29 +6,31 @@ aliases:
 summary: "教师在复杂、开放的教学情境中整合研究知识、伦理标准和方法原则做出决策的能力，是把概率性的研究证据转化为具体教育行动的关键解释性中介"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - professional-judgment
   - teacher-development
   - evidence-based-education
 related_concepts:
-  - "[[Praxis]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
+  - "[[Data-Based Decision Making]]"
+  - "[[Research-Informed Teaching Practice]]"
   - "[[Bildung]]"
+  - "[[Research Literacy]]"
   - "[[Effect Size]]"
   - "[[Governing by Numbers]]"
   - "[[Reflexivity]]"
+  - "[[Variable]]"
+  - "[[Document]]"
   - "[[Visible Learning]]"
   - "[[Formative Assessment]]"
   - "[[School Leadership]]"
-  - "[[Knowledge Mobilisation]]"
-  - "[[Data-Based Decision Making]]"
-  - "[[Research-Informed Teaching Practice]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
@@ -37,15 +39,17 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Snowball Sampling]]"
+  - "[[Formative Program Evaluation]]"
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
-  - "[[Argument_Ross_Morrison_2021_ROE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 confidence: medium
 status: draft
 created: 2026-05-03
@@ -185,7 +189,7 @@ updated: 2026-08-26
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **证据的概率性** | 效应量只是概率分布，须经判断转化为情境行动 | 教学决策、证据使用 | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; Pawson (2006) |
-> | **数字治理侵蚀** | 审计文化去专业化，挤压判断空间 | 政策评估、学校改进 | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]] |
+> | **数字治理侵蚀** | 审计文化去专业化，挤压判断空间 | 政策评估、学校改进 | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018, pp.4, 16)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]] |
 > | **EIP 枢纽地位** | 判断是四源整合枢纽，与严谨证据并存 | 证据知情实践 | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] |
 
 ---

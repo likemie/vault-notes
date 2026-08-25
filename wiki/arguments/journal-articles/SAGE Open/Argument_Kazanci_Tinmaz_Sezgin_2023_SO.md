@@ -21,10 +21,10 @@ sources:
   - "[[sources/Kazanci_Tinmaz_Sezgin_2023_SO/Kazanci_Tinmaz_Sezgin_2023_SO|Kazanci_Tinmaz_Sezgin_2023_SO]]"
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Research Literacy]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Operationalization]]"
   - "[[Dialogue in Education]]"
@@ -60,6 +60,7 @@ related_instruments:
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[OECD]]"
+  - "[[National Education]]"
 status: draft
 created: 2026-08-26
 updated: 2026-08-26
@@ -69,7 +70,7 @@ title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -82,7 +83,7 @@ journal: "SAGE Open"
 ## 研究问题
 
 > [!question]
-> 尽管国际政策（如美国《每一个学生成功法案》（Every Student Succeeds Act, ESSA）、《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, [[No Child Left Behind Act 2001|NCLB]]））与专业组织（[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）、英国教育研究学会与英国皇家艺术学会（British Educational Research Association and Royal Society of Arts, BERA-RSA））持续强调[[Evidence-Based Education|循证教育]]与以研究为基础的教学实践，但在土耳其等许多国家的现实教育情境中，教师参与科研与运用科研的程度普遍极低（如 Kazancı-Tınmaz, 2020 调查显示 82% 的教师从未开展过任何研究且不检索[[Document|文献]]；土耳其国民教育部（Ministry of [[National Education]], MoNE）公布的 65 项教师专业能力指标中仅有 3 项涉及科研）。更严峻的是，既有教师[[Research Literacy|研究素养]]测量工具普遍存在理论根基薄弱、缺乏严格信效度检验（Lawlor et al., 2019 系统综述指出仅 27.77% 的研究利用工具报告了信度证据，仅 38.8% 报告了效度证据）、且割裂了开展研究与使用研究的系统联系。本研究旨在基于计划行为理论（Theory of Planned Behavior, TPB）与[[Research Utilization|研究利用]]模型，开发并验证一套具有坚实心理测量学特质的[[Research Literacy Scale for Teachers|教师研究素养量表]]（Research Literacy Scale for Teachers, RLS），并实证检验教师的研究素养水平及其受学术期刊阅读和科研参与经验的影响机制。（pp.1–4）
+> 尽管国际政策（如美国《每一个学生成功法案》（Every Student Succeeds Act, ESSA）、《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, [[No Child Left Behind Act 2001|NCLB]]））与专业组织（[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）、英国教育研究学会与英国皇家艺术学会（[[BERA-RSA Inquiry into the Role of Research in Teacher Education|BERA-RSA]]））持续强调[[Evidence-Based Education|循证教育]]与以研究为基础的教学实践，但在土耳其等许多国家的现实教育情境中，教师参与科研与运用科研的程度普遍极低（如 Kazancı-Tınmaz, 2020 调查显示 82% 的教师从未开展过任何研究且不检索[[Document|文献]]；土耳其国民教育部（Ministry of [[National Education]], MoNE）公布的 65 项教师专业能力指标中仅有 3 项涉及科研）。更严峻的是，既有教师[[Research Literacy|研究素养]]测量工具普遍存在理论根基薄弱、缺乏严格信效度检验（Lawlor et al., 2019 系统综述指出仅 27.77% 的研究利用工具报告了信度证据，仅 38.8% 报告了效度证据）、且割裂了[[Engagement in and with Research|开展研究与使用研究]]的系统联系。本研究旨在基于[[Theory of Planned Behavior|计划行为理论]]（Theory of Planned Behavior, TPB）与[[Research Utilization|研究利用]]模型，开发并验证一套具有坚实心理测量学特质的[[Research Literacy Scale for Teachers|教师研究素养量表]]（Research Literacy Scale for Teachers, RLS），并实证检验教师的研究素养水平及其受学术期刊阅读和科研参与经验的影响机制。（pp.1–4）
 
 > [!claim] 核心主张
 > 教师研究素养是一个由研究意识、研究态度、研究技能与研究使用构成的四维度二阶结构；其中研究技能作为知觉行为控制[[Variable|变量]]贡献了高达 46.90% 的绝大部分方差解释力，构成态度转化为使用行为的核心控制枢纽；实际从事科研与定期追踪学术期刊能显著打破高态度认同与低实践转化的断层，对教师素养各维度产生独立的显著赋能效应。（pp.6–15）
@@ -99,7 +100,7 @@ journal: "SAGE Open"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **计划行为理论**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
+> | **[[Theory of Planned Behavior|计划行为理论]]**<br>Theory of Planned Behavior (TPB) | 整合 Ajzen (1991, 2005) 理论，将研究意识界定为背景认知变量，研究态度界定为意向驱动变量，研究技能界定为知觉行为控制（Perceived Behavioral Control, PBC），研究使用界定为外显目标行为，构建起“意识背景 $\rightarrow$ 态度意向 $\rightarrow$ 技能知觉控制 $\rightarrow$ 实践使用”的行为演化全景链条。（pp.3–4） |
 > | **研究利用模型**<br>Research Utilization Models | 借鉴 Weiss (1979) 的经典分类（问题解决模型、启蒙模型与战术模型）以及 Pelz (1978)、Beyer & Trice (1982) 的概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]框架，将[[Research Utilization\|研究使用]][[Operationalization\|操作化]]为备课设计、教学法优化、解决课堂问题及专业[[Dialogue in Education\|对话]]等多维实践。 |
 > | **多元素养整合模型**<br>Subtypes of Research Literacy | 整合 Beaudry & Miller (2016) 与 Jemsy (2018) 的素养细分，将信息与技术检索素养、语言讨论素养、视觉图表素养与数理统计素养统整纳入研究技能维度。（pp.4–5） |
 
@@ -117,7 +118,7 @@ journal: "SAGE Open"
 > | **研究技能**<br>（Research Skills, 子维度 3） | 教师在开展[[Literature Review\|文献综述]]、探讨学术议题、解读图表与统计分析结果等方面的实际操作能力与知觉控制。 | 6 题（R8–R13），如“在需要时能进行[[Document\|文献]]综述”、“能解读研究出版物中的图表与统计结果”。 |
 > | **研究使用**<br>（Research Use, 子维度 4） | 教师在日常教学活动组织、课程内容准备、教学法知识更新及教育决策中主动借鉴与应用科研的实际行为。 | 7 题（R14–R20），如“运用科研组织日常专业活动”、“在备课时借鉴科研”、“利用研究提升教学法知识”。 |
 > | **追踪教育学术期刊**<br>（Following Scientific Journals about Education, FSJE, 自变量/分类变量） | 教师是否持续追踪与阅读与教育相关的学术科研期刊（二分类：是／否）。 | 调查题项“是否追踪教育类学术期刊”，作为多变量方差分析（Multivariate Analysis of Variance, MANOVA）[[Independent Variable\|自变量]]。（p.7, p.12） |
-> | **实际从事研究**<br>（Doing Research, 自变量/分类变量） | 教师是否曾亲身参与科研项目、[[Research Proposal\|课题申报]]、[[Action Research\|行动研究]]或研究生学位论文研究（二分类：是／否）。 | 调查题项“是否曾开展科研”，作为 MANOVA 自变量。 |
+> | **实际从事研究**<br>（自变量/分类变量） | 教师是否曾亲身参与科研项目、[[Research Proposal\|课题申报]]、[[Action Research\|行动研究]]或研究生学位论文研究（二分类：是／否）。 | 调查题项“是否曾开展科研”，作为 MANOVA 自变量。 |
 
 ---
 
@@ -129,7 +130,7 @@ journal: "SAGE Open"
 > | **[[Scale Development\|量表编制程序]]**<br>Scale Development Protocol | 严格遵循 DeVellis (2017) 五阶段开发流程：文献提炼构念 $\rightarrow$ 生成 56 题初始题池（5 级李克特计分） $\rightarrow$ 5 位教育学专家内容效度评审 $\rightarrow$ 12 位教师/校长可读性评估 $\rightarrow$ 现场施测。（pp.4–5） |
 > | **探索性因子分析**<br>[[Exploratory Factor Analysis\|Exploratory Factor Analysis (EFA)]] | 针对样本 1（$N=310$），采用主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），依据题总相关（$> .30$）、因子载荷（$> .32$）与跨载荷差值（$> .10$）逐题筛选。（pp.5–6） |
 > | **验证性因子分析**<br>[[Confirmatory Factor Analysis\|Confirmatory Factor Analysis (CFA)]] | 针对独立样本 2（$N=258$），使用极大似然估计（Maximum Likelihood, ML）与 LISREL 8.80 评估单因子、一阶四因子与二阶因子模型；通过平均方差抽取量（Average Variance Extracted, AVE）、组合信度（Composite Reliability, CR）与相关矩阵检验收敛与区分效度；运用多组 CFA 检验跨性别的形态（Configural）、弱（Metric）、强（Scalar）与严格（Strict）等值性。（pp.7–12） |
-> | **差异与赋能分析**<br>Multivariate Analysis of Variance (MANOVA) | 建立 2×2 多[[Variable\|变量]][[Analysis of Variance\|方差分析]]模型，检验期刊追踪（FSJE）与实际做研究（Doing Research）对素养各维度的单独主效应、[[Interaction Effect\|交互效应]]与方差解释率。（pp.8–13） |
+> | **差异与赋能分析**<br>Multivariate Analysis of Variance (MANOVA) | 建立 2×2 多[[Variable\|变量]][[Analysis of Variance\|方差分析]]模型，检验期刊追踪与开展科研对素养各维度的单独主效应、[[Interaction Effect\|交互效应]]与方差解释率。（pp.8–13） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -299,9 +300,9 @@ journal: "SAGE Open"
 > 实证调查发现，仅 $28.3\%$（73/258）的教师追踪教育学术期刊，仅 $31.8\%$（82/258）的教师曾亲身开展过科研。（p.12）[[Descriptive Analysis|描述统计]]呈现出态度得分极高（$M=4.37$）而技能（$M=3.74$）与使用（$M=3.78$）明显偏低的典型知行脱节。（p.8）
 >
 > 经检验满足正态性、同方差性（Levene 检验 $p>.05$）与协方差矩阵同质性（Box's M $p>.05$）后，执行 2×2 MANOVA 分析：
-> 1. **追踪专业期刊（FSJE）主效应** 显著提升研究使用（$F=12.108, p=.001, \text{partial } \eta^2=.046$）、研究意识（$F=9.643, p=.002, \eta^2=.037$）与研究技能（$F=8.913, p=.003, \eta^2=.034$），但对态度无显著影响（$F=0.085, p=.771, \eta^2=.000$）。（p.13）
-> 2. **开展科研（Doing Research）主效应** 在所有 4 个维度上均达统计显著，且对研究技能产生最大促进效应（$F=15.016, p<.001, \text{partial } \eta^2=.056$），其次为使用（$\eta^2=.031$）、意识（$\eta^2=.028$）与态度（$\eta^2=.018$）。
-> 3. **[[Interaction Effect|交互效应]]** FSJE 与 Doing Research 的交互作用在所有子维度上均不显著（$p>.05$），表明[[Document|文献]]阅读与亲自研究各自独立发挥赋能作用。
+> 1. **追踪专业期刊主效应** 显著提升研究使用（$F=12.108, p=.001, \text{partial } \eta^2=.046$）、研究意识（$F=9.643, p=.002, \eta^2=.037$）与研究技能（$F=8.913, p=.003, \eta^2=.034$），但对态度无显著影响（$F=0.085, p=.771, \eta^2=.000$）。（p.13）
+> 2. **开展科研主效应** 在所有 4 个维度上均达统计显著，且对研究技能产生最大促进效应（$F=15.016, p<.001, \text{partial } \eta^2=.056$），其次为使用（$\eta^2=.031$）、意识（$\eta^2=.028$）与态度（$\eta^2=.018$）。
+> 3. **[[Interaction Effect|交互效应]]** 期刊追踪与开展科研的交互作用在所有子维度上均不显著（$p>.05$），表明[[Document|文献]]阅读与亲自研究各自独立发挥赋能作用。
 
 > [!ref-table]- 表2：教师研究素养各分维度与总量表描述性统计（N=258）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -319,11 +320,11 @@ journal: "SAGE Open"
 >
 > | 变异来源 | [[Dependent Variable\|因变量]] | Type III 平方和 | 自由度 $df$ | 均方 $MS$ | $F$ 值 | $p$ 值 | 偏 $\eta^2$ | 非中心参数 |
 > |---|---|---|---|---|---|---|---|---|
-> | **a. 追踪教育学术期刊（FSJE）** | 研究使用 | 4.608 | 1 | 4.608 | 12.108 | **.001** | **.046** | 12.108 |
+> | **a. 追踪教育学术期刊** | 研究使用 | 4.608 | 1 | 4.608 | 12.108 | **.001** | **.046** | 12.108 |
 > | | 研究技能 | 3.788 | 1 | 3.788 | 8.913 | **.003** | **.034** | 8.913 |
 > | | 研究态度 | 0.029 | 1 | 0.029 | 0.085 | .771 | .000 | 0.085 |
 > | | 研究意识 | 3.984 | 1 | 3.984 | 9.643 | **.002** | **.037** | 9.643 |
-> | **b. 实际开展科研（Doing Research）** | 研究使用 | 3.034 | 1 | 3.034 | 7.972 | **.005** | **.031** | 7.972 |
+> | **b. 实际开展科研** | 研究使用 | 3.034 | 1 | 3.034 | 7.972 | **.005** | **.031** | 7.972 |
 > | | 研究技能 | 6.381 | 1 | 6.381 | 15.016 | **<.001** | **.056** | 15.016 |
 > | | 研究态度 | 1.603 | 1 | 1.603 | 4.605 | **.033** | **.018** | 4.605 |
 > | | 研究意识 | 2.988 | 1 | 2.988 | 7.234 | **.008** | **.028** | 7.234 |
@@ -336,7 +337,7 @@ journal: "SAGE Open"
 > [!ref-table]- 表8：不同期刊追踪与科研经历组别的研究素养各维度均值与标准差对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 追踪期刊 (FSJE) | 开展科研 (Doing Research) | 样本量 $n$ | 研究使用 $M \pm SD$ | 研究技能 $M \pm SD$ | 研究态度 $M \pm SD$ | 研究意识 $M \pm SD$ |
+> | 追踪教育学术期刊 | 亲身开展科研 | 样本量 $n$ | 研究使用 $M \pm SD$ | 研究技能 $M \pm SD$ | 研究态度 $M \pm SD$ | 研究意识 $M \pm SD$ |
 > |---|---|---|---|---|---|---|
 > | **是 (Yes)** | 是 (Yes) | 38 | $4.19 \pm 0.60$ | $4.17 \pm 0.61$ | $4.55 \pm 0.61$ | $4.32 \pm 0.65$ |
 > | | 否 (No) | 35 | $3.89 \pm 0.51$ | $3.87 \pm 0.58$ | $4.28 \pm 0.59$ | $4.00 \pm 0.50$ |
@@ -357,7 +358,7 @@ journal: "SAGE Open"
 
 > [!finding-cards] 核心发现
 > 1. **成功开发出 20 题 4 维度的[[Research Literacy Scale for Teachers|教师研究素养量表]]（RLS）** 确立了包含研究意识（4 题）、态度（3 题）、技能（6 题）与使用（7 题）的二阶模型，具备优良的信效度（$\alpha=.94, \omega=.95$）与跨性别严格测量等值性。（p.9, p.11）
-> 2. **研究技能是解释力最强的核心控制枢纽** 在 [[Exploratory Factor Analysis|EFA]] 中技能因子单独解释了 $46.90\%$ 的方差，实证证实知觉行为技能是连接积极态度与外显使用行为的最核心中介。（p.6, p.14）
+> 2. **研究技能是解释力最强的核心控制枢纽** 在 [[Exploratory Factor Analysis|EFA]] 中技能因子单独解释了 $46.90\%$ 的方差，实证证实知觉行为技能是连接积极态度与外显使用行为的最核心中介，确立了[[Engagement in and with Research|做研究与用研究]]的双轨独立赋能机制。（p.6, p.14）
 > 3. **教师群体存在普遍的高态度认同与低实践转化断层** 教师科研态度均值极高（$M=4.37$），但技能（$M=3.74$）与使用（$M=3.78$）明显滞后，且定期读刊率仅 $28.3\%$、做研究率仅 $31.8\%$。（p.8, p.12）
 > 4. **亲自做研究与期刊追踪具有差异化赋能机制** 开展科研对提升技能产生最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动[[Research Utilization|研究使用]]行为（$\eta^2 = .046$）。（p.13）
 
