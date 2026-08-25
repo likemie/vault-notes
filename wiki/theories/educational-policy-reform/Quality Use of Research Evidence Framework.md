@@ -4,7 +4,7 @@ aliases:
   - QURE
   - 研究证据质量使用框架
   - Quality Use of Research Evidence
-summary: "由澳大利亚 Monash Q 项目提出的研究使用框架，把质量使用定义为对恰当研究证据进行深思熟虑的参与与实施，并受个体、组织与系统多层促成因素支持，是理解学校如何用对研究的中层分析框架"
+summary: "由澳大利亚 Monash Q 项目提出的研究使用框架，把质量使用定义为对恰当研究证据的深思熟虑参与与实施，并受个体、组织与系统多层促成因素支持，是理解学校如何用对研究的中层分析框架"
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 19
@@ -61,7 +61,7 @@ updated: 2026-08-26
 > - **知识位置** 源于澳大利亚 Monash Q 项目，基于跨四个部门的[[Systematic Review|系统综述]]（Rickinson et al., 2022），并经后续大规模实证工作（Gleeson et al., 2023, 2024）发展。
 
 > [!claim] 核心主张
-> 质量使用（quality use）不是简单地用了研究，而是对恰当研究（appropriate research）证据进行深思熟虑的参与（thoughtful engagement）与实施，且这种参与需要个体（技能、心态、关系）、组织（结构、文化、领导）与复杂系统中系统性影响的多层支持；Hagevold 等人（2026, p.4）将其界定为"在复杂系统内，受个体与组织促成成分之混合所支持的对恰当研究证据的深思熟虑参与与实施"。
+> 质量使用（quality use）不是简单地接触了研究，而是深思熟虑地参与（thoughtful engagement）恰当研究（appropriate research）并加以实施，且这种参与需要个体（技能、心态、关系）、组织（结构、文化、领导）与系统多层条件的支持；Hagevold 等人（2026, p.4）将其界定为"在复杂系统内，受个体与组织促成成分之混合所支持的对恰当研究证据的深思熟虑参与与实施"。
 
 > [!citation-card]- 关键表述
 > 研究证据质量使用框架（Quality Use of Research Evidence, QURE）把质量使用定义为"在复杂系统内，受个体与组织促成成分之混合支持的对恰当研究证据的深思熟虑参与与实施"（Rickinson et al., 2022, p.142）。
@@ -90,7 +90,7 @@ updated: 2026-08-26
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Research Utilization|研究使用]]的质量取决于用什么与怎么用的双向匹配，而非使用频次或来源数量
-> - **前提一** QURE 框架的核心是两个互连构件深思熟虑参与与实施和恰当研究，其连接由双向箭头表示（Rickinson et al., 2022; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.4]]）。
+> - **前提一** QURE 框架的核心是两个互连构件，即深思熟虑参与与实施、恰当研究，其连接由双向箭头表示（Rickinson et al., 2022; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.4]]）。
 > - **前提二** 实证研究发现，教师与[[School Leadership|学校领导]]者最常通过同事与网络获取研究材料，而正式学术渠道是最少使用的来源（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.11]]）。
 > - **推导** 既然使用频次低、来源单一，问题重心应从用得多不多转向用得好不好、对不对，即质量维度。
 

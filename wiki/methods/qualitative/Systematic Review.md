@@ -216,6 +216,7 @@ EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步�
 > | [[Quantitative Research]] | 输入类型 | 系统综述最常综合的研究类型，提供效应量等可量化指标 |
 > | [[Grounded Theory]] | 综合方法 | 作为研究综合的一种质性方法，可用于对多项研究进行扎根理论综合 |
 > | [[Ethnography]] | 综合对象 | 元民族志（meta-ethnography）专门综合民族志和解释性质性研究 |
+> | [[Critical Review]] | 互补方法 | 批判性综述常借鉴系统综述的检索与筛选协议，但侧重于对概念框架与理论假设的深度解构与概念创新 |
 
 ---
 
@@ -226,3 +227,4 @@ EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步�
 > - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 按照 [[PRISMA]] 框架从 SSCI and Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统介绍了系统综述与研究综合的定义、类型、操作标准（[[EPPI-Centre]]、BERA、Evans & Benefield、Cooper 等框架）与方法论警示。
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，在 Scopus、Web of Science 与 ERIC 三库系统检索，双盲两阶段筛选后纳入 109 项学校[[Research Utilization|研究使用]]实证研究，用[[Mixed Methods Appraisal Tool|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT）评估质量并采用[[Framework Synthesis|框架综合]]进行证据整合。
+> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 结合系统综述的检索与筛选流程及[[Critical Review|批判性综述]]方法，对 34 篇关于教育中[[Research Utilization|研究使用]]的文献进行全文本解构，提出第四代专业敏感型研究使用理论。

@@ -2100,6 +2100,18 @@
     ]
   },
   {
+    "title": "Deficit Framing in Research Use",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Deficit Framing in Research Use.md",
+    "aliases": [
+      "研究使用赤字框架",
+      "缺失框架",
+      "deficit framing",
+      "赤字取向",
+      "deficit framing of research use"
+    ]
+  },
+  {
     "title": "Educational Evidence Clearinghouses",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md",
@@ -9766,6 +9778,18 @@
     ]
   },
   {
+    "title": "Profession-Sensitive Conceptualisations of Research Use",
+    "type": "concept",
+    "path": "wiki/concepts/teaching-teacher-education/Profession-Sensitive Conceptualisations of Research Use.md",
+    "aliases": [
+      "专业敏感型研究使用概念化",
+      "专业敏感型研究使用",
+      "profession-sensitive conceptualisations",
+      "profession-sensitive research use",
+      "专业敏感取向"
+    ]
+  },
+  {
     "title": "Confucian Learning Tradition",
     "type": "theory",
     "path": "wiki/theories/chinese-philosophy/Confucian Learning Tradition.md",
@@ -10150,6 +10174,17 @@
     "path": "wiki/theories/educational-philosophy/Virtue Epistemology.md",
     "aliases": [
       "美德认识论"
+    ]
+  },
+  {
+    "title": "Four Generations of Research Use",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Four Generations of Research Use.md",
+    "aliases": [
+      "四代研究使用模型",
+      "研究使用的四代演进",
+      "four generations of evidence use",
+      "四代证据使用理论"
     ]
   },
   {
@@ -11395,6 +11430,16 @@
       "critical incident technique",
       "关键事件技术",
       "critical events"
+    ]
+  },
+  {
+    "title": "Critical Review",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Critical Review.md",
+    "aliases": [
+      "批判性综述",
+      "critical literature review",
+      "批判性文献综述"
     ]
   },
   {
@@ -19050,6 +19095,11 @@
     "title": "Argument_Lei_Ding_Chiu_2026_ERR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Lei_Ding_Chiu_2026_ERR.md"
+  },
+  {
+    "title": "Argument_Mausethagen_2025_ERR",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md"
   },
   {
     "title": "Argument_Kraft_2023_ER",

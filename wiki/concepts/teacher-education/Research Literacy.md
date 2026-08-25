@@ -136,14 +136,16 @@ updated: 2026-08-26
 > [!dev-timeline] 概念演变
 > - **2022 — 技艺模型提出** Eriksen（2022）把研究素养界定为专业德性，在技艺模型框架下提出完整性、讲理与灵活性三德性及三种敏感度。
 > - **2023 — 案例应用** Mausethagen & Hermansen (2023) 在挪威学校案例中展示研究素养如何在"教师作为研究者／作为研究接受者"之间运作，把[[Research Utilization|研究使用]]呈现为再情境化过程。
+> - **2025 — 赤字批判与专业敏感重构** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判既有文献将研究素养矮化为个体技能“赤字”的倾向，主张将其重构为第四代专业敏感型多源知识整合能力。
 > - **2026 — 纳入跨层机制** Hagevold 等人（2026）把研究素养与技能发展机制联系起来，主张技能发展是超出个体层面的系统责任。
 
 ---
 
 ## 争议与批评
 
-> [!warning] 适用局限
-> 研究素养被批评可能过度依赖实践者个人的判断能力；Hagevold 等人（2026, p.18）强调，若研究素养只被当作个体德性培养，而组织与系统未提供可持续结构，则难以真正转化为整合性[[Research Utilization|研究使用]]。
+> [!warning] 适用局限与赤字化风险
+> - **个体赤字化偏倚** Mausethagen 等人（2025, pp.4–6）批判传统实证文献常将研究素养窄化为个体测量指标，陷入[[Deficit Framing in Research Use|赤字框架]]，将复杂的系统与专业问题简化为教师个体“缺乏素养”，从而掩盖了知识整合与价值冲突的深层机制。
+> - **缺乏系统与组织支撑** Hagevold 等人（2026, p.18）强调，若研究素养只被当作个体德性培养，而组织与系统未提供可持续结构与信任机制，则难以真正转化为整合性[[Research Utilization|研究使用]]。
 
 ---
 
@@ -151,3 +153,4 @@ updated: 2026-08-26
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 把研究素养作为先验框架中"恰当研究"的判断敏感度来源，并在讨论中将其纳入跨层技能发展机制。
+> - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 系统审视了 30 年来将研究素养作为个体赤字指标的文献倾向，主张转向以多源知识整合与专业规范为支撑的[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型概念化]]。

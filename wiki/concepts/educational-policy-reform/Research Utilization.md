@@ -66,6 +66,8 @@ updated: 2026-08-26
 
 研究利用在学校层面的研究表明，研究使用不是主要受个体缺陷制约，而是受信任、技能发展、可持续结构与关系四类跨层机制共同治理（见 [[Governing Mechanisms of Research Use|研究使用治理机制]]）。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.18)]]
 
+研究使用的历史演进进一步呈现出四代思维范式（见 [[Four Generations of Research Use|四代研究使用模型]]）：从早期的单向线性传递（第一代）、网络与伙伴关系（第二代）、多层系统嵌入（第三代），推进至立足教师异质知识库与专业规范的[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型概念化]]（第四代）。Mausethagen 等人（2025）对 30 年文献的系统性批判综述指出，传统研究长期陷入将教师预设为能力短板的[[Deficit Framing in Research Use|赤字框架]]与方法论个体主义，必须转向关注微观实践中多源知识整合（Knowledge Integration）与[[Teacher Professional Agency|教师专业能动性]]。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 2, 7–8)]]
+
 ---
 
 ## 围绕概念形成的命题
