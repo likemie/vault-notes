@@ -109,7 +109,7 @@ updated: 2026-08-25
 > | **[[Cognitive Load Theory\|认知负荷理论（Cognitive Load Theory）]]**<br>Sweller / Mayer | 解释人类[[Working Memory\|工作记忆]]容量的有限性；阐明[[Graphic Organizer\|图形组织器]]如何通过外在空间拓扑结构整合零散信息，降低瞬时工作记忆中的表层信息检索与识别负荷，将有限的心智资源释放并重新配置到高阶认知加工中。（pp.1–3） |
 > | **空间隐喻理论（Spatial Metaphor Theory）**<br>Lakoff & Johnson | 阐明大脑如何借助空间邻近性、包含关系与分支走向等视觉拓扑隐喻表征抽象语义与逻辑关联，通过海马体至大脑皮层的神经通道强化从短时记忆向长时记忆的深层理解转化。（pp.2–3） |
 > | **高阶思维三元发展模型（Higher-Order Thinking Tripartite Framework, HOT Tripartite Framework）**<br>Hwang et al. / Thamrin & Widodo | 将[[Higher-Order Thinking Skills\|高阶思维]]解构为驱动端（思维倾向）、加工端（认知过程）与产出端（技能结果），揭示外在认知脚手架对即时生成过程与探究心向的直接赋能机制。（pp.2–3） |
-> | **元表征与自我脚手架理论（Meta-Representational Competence & Self-Scaffolding）**<br>diSessa & Sherin / Bickhard | 解释不同年龄学段学生利用外在视觉表征工具的认知门槛与自适应能力，阐明中学生、小学生与大学生获益差异的发生机制。（p.4） |
+> | **元表征与自我脚手架理论（Meta-Representational Competence & Self-Scaffolding）**<br>diSessa & Sherin / Bickhard | 解释不同年龄学段学生利用外在视觉表征工具的认知门槛与自适应能力，阐明中学生、小学生与大学生获益差异的发[[Conatus\|生机]]制。（p.4） |
 > | **双重编码理论与综合文本及图示理解模型（Dual Coding & Integrated Model of Text and Picture Comprehension, ITPC）**<br>Paivio / Mayer / Schnotz | 阐明视觉空间通道与言语听觉通道的协同表征机制，说明图形组织器如何通过图文协同构建双重认知通道，增强概念整合与深层理解。（pp.2–3） |
 
 > [!warrant]- 理论如何支撑论证
@@ -141,7 +141,7 @@ updated: 2026-08-25
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **文献检索与筛选**<br>Systematic Search & PRISMA | 系统检索 Web of Science、Scopus、ERIC、PsycINFO 与 CNKI 数据库（建库至 2024 年 1 月），采用[[Graphic Organizer\|图形组织器]]关键词（concept map, mind map, argument map, visual organizer 等）与[[Higher-Order Thinking Skills\|高阶思维]]关键词（higher-order thinking, [[Critical Thinking]], problem solving, [[Creativity\|creative thinking]] 等）布尔组合检索。依据严格的实验/[[Quasi-Experimental Designs\|准实验设计]]与完整统计量报告标准，依循系统评价和[[Meta-analysis\|元分析]]优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）最终纳入 66 篇符合标准的实证[[Document\|文献]]（共 72 个[[Effect Size\|效应量]]，图 3 PRISMA 流程图）。（pp.4–5） |
+> | **文献检索与筛选**<br>Systematic Search & PRISMA | 系统检索 Web of Science、Scopus、ERIC、PsycINFO 与 CNKI 数据库（建库至 2024 年 1 月），采用[[Graphic Organizer\|图形组织器]]关键词（concept map, mind map, argument map, visual organizer 等）与[[Higher-Order Thinking Skills\|高阶思维]]关键词（higher-order thinking, [[Critical Thinking]], problem solving, [[Creativity\|creative thinking]] 等）布尔组合检索。依据严格的实验/[[Quasi-Experimental Designs\|准实验设计]]与完整统计量报告标准，依循[[PRISMA\|系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）]]最终纳入 66 篇符合标准的实证[[Document\|文献]]（共 72 个[[Effect Size\|效应量]]，图 3 PRISMA 流程图）。（pp.4–5） |
 > | **数据提取与质量评估**<br>Coding & Quality Assessment | 由两位研究者独立提取样本量、均值、标准差、$t/F/\chi^2$ 统计量及调节变量信息，[[Inter-Rater Reliability\|编码者间一致性信度（Inter-Rater Reliability）]]达 Krippendorff's $\alpha = 0.813$。采用 28 分制方法学质量量表评估各研究的组别等质性、测量信效度与控制严密性（纳入研究得分介于 17 至 28 分，$M = 23.6$）。（pp.5–8） |
 > | **效应量计算与统计建模**<br>Meta-Analysis & Meta-Regression | 计算无偏[[Effect Size\|效应量]] Hedges' $g$；采用 [[Cochran's Q Test\|Cochran's Q 检验]]与 [[I-squared Statistic\|I² 统计量]]检验效应[[Heterogeneity\|异质性]]；鉴于初级研究在教学情境与人群上的异质性，采用[[Fixed-Effect and Random-Effects Models\|随机效应模型（Random-Effects Model）]]估计总体效应；运用亚组 $Q_{between}$ 检验与[[Pairwise Wald Tests\|成对 Wald 检验（Pairwise Wald Tests）]]比较分类调节变量组间及两两亚组差异；运用单变量[[Meta-regression\|元回归（Meta-regression）]]检验连续型协变量（人均 GDP、发表年份、性别比例）。（pp.5–6, 9–10） |
 > | **发表偏倚诊断**<br>Publication Bias Diagnostics | 综合运用[[Funnel Plot\|漏斗图（Funnel Plot）]]、[[Egger Regression Test\|Egger 线性回归检验]]、Begg 秩相关检验与 [[Fail-Safe N\|Rosenthal 失安全系数（Fail-Safe N）]]系统诊断潜在[[Publication Bias\|发表偏倚]]。（pp.6, 9） |

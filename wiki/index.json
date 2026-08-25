@@ -12545,6 +12545,17 @@
     ]
   },
   {
+    "title": "PRISMA",
+    "type": "method",
+    "path": "wiki/methods/quantitative/PRISMA.md",
+    "aliases": [
+      "系统评价和元分析优先报告条目",
+      "PRISMA Statement",
+      "PRISMA Flow Diagram",
+      "Preferred Reporting Items for Systematic Reviews and Meta-Analyses"
+    ]
+  },
+  {
     "title": "Quantitative Research",
     "type": "method",
     "path": "wiki/methods/quantitative/Quantitative Research.md",
