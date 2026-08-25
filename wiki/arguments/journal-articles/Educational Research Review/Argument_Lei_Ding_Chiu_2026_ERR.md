@@ -85,8 +85,8 @@ updated: 2026-08-25
 > | **结果变量：高阶思维倾向**<br>（HOT Disposition） | 个体主动探究未知、寻求理由、保持开放心智与坚持探究的主观心向与态度习惯。 | 34 项研究采用 5 点李克特量表；代表题项如“我喜欢提出前人从未想象过的问题”（Chiu & Hwang, 2024）。 |
 > | **结果变量：高阶认知过程**<br>（HOT Cognitive Process） | 面对劣构问题时执行分析、评估、推论、综合与批判性反驳的即时心智运作。 | 17 项研究采用开放式写作任务与评分量规（Lane, 1993），评估推理深度、反驳质量与证据运用（Khrais & Saleh, 2020）。 |
 > | **结果变量：高阶思维技能**<br>（HOT Outcome Skill） | 在特定情境或标准化测验中表现出的分析、推理、批判与问题解决综合能力结果。 | 57 项研究采用标准化多选题，如加州批判性思维技能测验（California Critical Thinking Skills Test, CCTST, Facione, 1990）与健康教育系统公司护理专业统考（Health Education Systems, Inc., HESI, Morrison et al., 2004）。 |
-> | **结果变量：发散思维**<br>（Divergent Thinking） | 面对开放性问题生成新颖、多样且非常规构想与替代方案的创造性心智加工。 | 采用观念流畅性与独创性测验、头脑风暴方案多样性评分与创造性解题任务（Bin et al., 2022; Chen, 2020）。 |
-> | **结果变量：聚合思维**<br>（Convergent Thinking） | 基于严密逻辑规则对信息进行批判性审视、筛选、演绎与收敛至最优解的思维。 | 采用演绎推理测验、论据有效性识别与标准化单项选择推理题（Akinoglu, 2013; Bilik et al., 2020）。 |
+> | **结果变量：[[Divergent Thinking|发散思维]]**<br>（Divergent Thinking） | 面对开放性问题生成新颖、多样且非常规构想与替代方案的创造性心智加工。 | 采用观念流畅性与独创性测验、头脑风暴方案多样性评分与创造性解题任务（Bin et al., 2022; Chen, 2020）。 |
+> | **结果变量：[[Convergent Thinking|聚合思维]]**<br>（Convergent Thinking） | 基于严密逻辑规则对信息进行批判性审视、筛选、演绎与收敛至最优解的思维。 | 采用演绎推理测验、论据有效性识别与标准化单项选择推理题（Akinoglu, 2013; Bilik et al., 2020）。 |
 > | **干预变量：思维导图**<br>（Mind Mapping） | 以单一中心概念为核心向外辐射多级分支，低结构复杂度，强调联想发散与速记。 | 教学采用教师导入规则、自主发散绘制与反馈迭代规程，应用于头脑风暴与创意写作（Chiu & Hwang, 2024; Chen, 2020）。 |
 > | **干预变量：论证图**<br>（Argument Mapping） | 严格依循主张、证据、保证与反驳的逻辑语法，表征线性或树状论辩推导链条。 | 教学引导学生梳理争议论据与批判性写作逻辑，结构化支撑论辩推理（Botley & Hakim, 2014; Ristanto et al., 2022）。 |
 > | **干预变量：概念图**<br>（Concept Mapping） | 包含多节点交叉连接（Cross-links）与命题连接词的复杂网状语义表征工具。 | 教学用于复杂领域概念建模，要求标明概念间命题关系，结构复杂度较高（Bilik et al., 2020; Su, 2018）。 |
@@ -104,9 +104,9 @@ updated: 2026-08-25
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **文献检索与筛选**<br>Systematic Search & PRISMA | 系统检索 Web of Science、Scopus、ERIC、PsycINFO 与 CNKI 数据库（建库至 2024 年 1 月），采用图形组织器关键词（concept map, mind map, argument map, visual organizer 等）与高阶思维关键词（higher-order thinking, critical thinking, problem solving, creative thinking 等）布尔组合检索。依据严格的实验/准实验设计与完整统计量报告标准，依循系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）最终纳入 66 篇符合标准的实证文献（共 72 个效应量，图 3 PRISMA 流程图）。（pp.4–5） |
-> | **数据提取与质量评估**<br>Coding & Quality Assessment | 由两位研究者独立提取样本量、均值、标准差、$t/F/\chi^2$ 统计量及调节变量信息，编码者间一致性信度达 Krippendorff's $\alpha = 0.813$。采用 28 分制方法学质量量表评估各研究的组别等质性、测量信效度与控制严密性（纳入研究得分介于 17 至 28 分，$M = 23.6$）。（pp.5–8） |
-> | **效应量计算与统计建模**<br>Meta-Analysis & Meta-Regression | 计算无偏效应量 Hedge's $g$；采用 Cochrane's $Q$ 与 $I^2$ 检验效应异质性；鉴于初级研究在教学情境与人群上的异质性，采用**随机效应模型（Random-Effects Model）**估计总体效应；运用亚组 $Q_{between}$ 检验与[[Pairwise Wald Tests|成对 Wald 检验（Pairwise Wald Tests）]]比较分类调节变量组间及两两亚组差异；运用单变量[[Meta-regression|元回归（Meta-regression）]]检验连续型协变量（人均 GDP、发表年份、性别比例）。（pp.5–6, 9–10） |
-> | **发表偏倚诊断**<br>Publication Bias Diagnostics | 综合运用漏斗图（Funnel Plot）、Egger 线性回归检验、Begg 秩相关检验与 Rosenthal 故障安全数（Fail-Safe $N$）系统诊断潜在发表偏倚。（pp.6, 9） |
+> | **数据提取与质量评估**<br>Coding & Quality Assessment | 由两位研究者独立提取样本量、均值、标准差、$t/F/\chi^2$ 统计量及调节变量信息，[[Inter-Rater Reliability|编码者间一致性信度（Inter-Rater Reliability）]]达 Krippendorff's $\alpha = 0.813$。采用 28 分制方法学质量量表评估各研究的组别等质性、测量信效度与控制严密性（纳入研究得分介于 17 至 28 分，$M = 23.6$）。（pp.5–8） |
+> | **效应量计算与统计建模**<br>Meta-Analysis & Meta-Regression | 计算无偏[[Effect Size|效应量]] Hedges' $g$；采用 [[Cochran's Q Test|Cochran's Q 检验]]与 [[I-squared Statistic|I² 统计量]]检验效应[[Heterogeneity|异质性]]；鉴于初级研究在教学情境与人群上的异质性，采用[[Fixed-Effect and Random-Effects Models|随机效应模型（Random-Effects Model）]]估计总体效应；运用亚组 $Q_{between}$ 检验与[[Pairwise Wald Tests|成对 Wald 检验（Pairwise Wald Tests）]]比较分类调节变量组间及两两亚组差异；运用单变量[[Meta-regression|元回归（Meta-regression）]]检验连续型协变量（人均 GDP、发表年份、性别比例）。（pp.5–6, 9–10） |
+> | **发表偏倚诊断**<br>Publication Bias Diagnostics | 综合运用[[Funnel Plot|漏斗图（Funnel Plot）]]、[[Egger Regression Test|Egger 线性回归检验]]、Begg 秩相关检验与 [[Fail-Safe N|Rosenthal 失安全系数（Fail-Safe N）]]系统诊断潜在[[Publication Bias|发表偏倚]]。（pp.6, 9） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -147,7 +147,7 @@ updated: 2026-08-25
 > - **三元层级映射** Ana 的探究过程生动表明，好奇、开放、坚毅与系统性等思维倾向是点燃探究的发动机；它们驱动了分析、评价、综合等认知过程；而这一系列心智运作最终沉淀为解决复杂真实问题的思维技能。（pp.2–3）
 
 > [!chain-link] 证据到判断
-> 基于 66 项研究与 72 个独立效应量的随机效应模型计算，图形组织器对高阶思维的加权平均效应量为 Hedge's $g = 0.778$（详细统计参数见表 2）。该效应量高度显著，且大幅超越了常规教育干预的平均基准效应。（pp.1, 9）
+> 基于 66 项研究与 72 个独立效应量的随机效应模型计算，图形组织器对高阶思维的加权平均效应量为 Hedges' $g = 0.778$（详细统计参数见表 2）。该效应量高度显著，且大幅超越了常规教育干预的平均基准效应。（pp.1, 9）
 
 > [!ref-table]- 表 2：图形组织器对学生高阶思维影响的随机效应模型总体检验
 > | 综合模型 | 效应量数 $k$ | 汇总效应 $g$ | 95% 置信区间 CI | 检验统计量 $t$ | $p$ 值 | 异质性检验 $Q$ | $p$ 值 | 异质性 $I^2$ (%) |
@@ -168,7 +168,7 @@ updated: 2026-08-25
 
 > [!chain-link] 证据到判断
 > 1. **构念层级调节** 图形组织器对高阶思维倾向（$g = 0.945$）与高阶认知过程（$g = 0.912$）的促进效应相当，但两者均显著强于对终结性技能结果的促进效应（$g = 0.560$）。
-> 2. **思维类型调节** 图形组织器对[[Divergent Thinking|发散思维]]的促进效应（$g = 1.167$）显著高于对聚合思维的促进效应（$g = 0.680$）。详细亚组检验参数见表 4。（pp.9–10）
+> 2. **思维类型调节** 图形组织器对[[Divergent Thinking|发散思维]]的促进效应（$g = 1.167$）显著高于对[[Convergent Thinking|聚合思维]]的促进效应（$g = 0.680$）。详细亚组检验参数见表 4。（pp.9–10）
 
 > [!contrast-table] 高阶思维各维度在图形组织器干预下的促学效应对比
 > | 调节维度 | 亚组分类 | 效应量数 $k$ | 效应量 $g$ | 标准误 SE | 95% 置信区间 CI | 组内异质性 $I^2$ | 组间检验与显著性 |
