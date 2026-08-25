@@ -7,9 +7,9 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 50
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 authors:
   - "[[Ji Liu|Liu, J.]]"
@@ -160,7 +160,7 @@ updated: 2026-08-25
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成与分布 |
 > |---|---|
-> | **[[Document\|文献]]样本总量** | 纳入 34 项独立实验与准实验文献，共提取 73 个独立效应量（发表于 2020–2025 年）。（p.9） |
+> | **[[Document\|文献]]样本总量** | 纳入 34 项独立实验与准实验文献，共提取 73 个独立[[Effect Size\|效应量]]（发表于 2020–2025 年）。（p.9） |
 > | **学生样本规模** | 样本总人数 $N = 3{,}042$ 名 K-12 学生（实验组 1,539 人，对照组 1,503 人）。（pp.4, 9） |
 > | **地域与学段分布** | 67.65%（23项）来自亚洲（中国大陆、中国台湾、韩国、哈萨克斯坦、泰国），其余来自美国、德国、瑞典、土耳其、摩洛哥、埃及、阿联酋、希腊；覆盖小学（低小与高小）、初中与高中全学段。（pp.5, 13） |
 
@@ -168,7 +168,7 @@ updated: 2026-08-25
 
 ### 初级文献特征与干预方案汇总表
 
-> [!coding-protocol]- 表1 & 表2：纳入实证研究特征与干预方案完整汇总（34项初级研究全集）
+> [!coding-protocol]- 表1 & 表2：纳入实证研究特征与干预方案汇总
 > | 第一作者与年份 | 国家/地区 | 样本量 $N$ (男/女) | 学段层次 | 学科领域与干预内容 | 干预周期与课时 | 认知结果类别与效应数 | Hedges' $g$ | 方差 |
 > |---|---|---|---|---|---|---|---|---|
 > | **Feng & Wang (2023)** | 中国 | 85 (44/41) | 高小学段 | 双语教育（中英文阅读伴读） | 24周 (120课时, 112分/次) | 技能类 (3) | 0.76 | 0.06 |
@@ -205,8 +205,6 @@ updated: 2026-08-25
 > | **Alneyadi & Wardat (2023)** | 阿联酋 | 122 (64/58) | 高中学段 | 物理（电磁学概念掌握） | 12周 (3课时/周) | 知识类 (1) | 0.51 | 0.05 |
 > | **Liu et al. (2025)** | 中国 | 104 (60/44) | 低小学段 | 数学（数学推理与四则运算技能） | 未报告 (40分/次) | 技能类 (1) | 0.09 | 0.03 |
 > | **Rücker & Becker-Genschow (2025)** | 德国 | 195 (104/91) | 初中阶段 | 数学（平方根运算自适应练习） | 未报告 | 技能类 (1) | -0.27 | 0.02 |
->
-> *(注：全表完整复刻原文 Table 1 与 Table 2 提取的所有 34 项初级研究特征，按文献发表时间与学科领域系统组织；总样本 $N = 3{,}042$)*
 
 > [!example]- 图1：PRISMA [[Literature Search|文献检索]]与筛选流程图
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig1_PRISMA_Flow_Diagram.jpg)
