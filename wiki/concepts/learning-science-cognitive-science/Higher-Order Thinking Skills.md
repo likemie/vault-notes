@@ -9,7 +9,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、推论推理与复杂问题解决"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -52,8 +52,9 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
+  - "[[Argument_Unal_2026_JECR]]"
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Higher-Order Thinking Skills
@@ -163,6 +164,7 @@ updated: 2026-08-24
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对高阶思维技能（HOTS）的干预效应 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 纳入一阶研究涵盖批判性思维、创造性思维与21世纪技能，样本以印尼为主，全集异质性极高 |
+> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 结果变量：AI 教育应用对高阶思维技能的促进效应（1 项 FOM 亚组） | $M = 19$（总体）；$E = 1$（HOTS 亚组）；$k = —$；$N = 58,702$（总体） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.63$ $[0.12, 1.14]$ | 全集 $Q(18) = 118.26, p < .001, I^2 = 84.78\%, \tau^2 = .05$；95% PI 未报告 | HOTS 亚组仅 1 项 FOM，置信区间宽（[.12, 1.14]），与学业成就亚组（ES = .68）差异不显著；检索范围限 2020–2025 年英语文献 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
@@ -178,3 +180,4 @@ updated: 2026-08-24
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 运用[[Meta-meta-analysis|二阶元分析]]系统考察[[Cooperative Learning|合作学习]]对高阶思维技能的干预效应，报告了 $ES = 0.76$ 的高效益表现，证实社会建构互动对学生[[Critical Thinking|批判性思维]]与复杂问题解决能力的突出推动价值。
+> - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] 采用二阶元分析综合 19 项 AIEd 一阶元分析（58,702 名参与者），报告 AI 教育应用对高阶思维技能亚组的效应（$ES = 0.63$，95% CI = [.12, 1.14]），但该亚组仅含 1 项 FOM，证据规模有限，整体 AI 教育效应为中等程度（ES = .67）。

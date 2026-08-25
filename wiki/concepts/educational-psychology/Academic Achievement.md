@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -71,10 +71,11 @@ related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
+  - "[[Argument_Unal_2026_JECR]]"
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Academic Achievement
@@ -234,6 +235,7 @@ updated: 2026-08-24
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对学业成就（Academic Achievement）的干预效应 | $M = 11$；$E = 12$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.71$ $[0.52, 0.90]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 涵盖语言、数学、社科与自然科学多学科，效应量稳健中等，但学科间样本分布不均衡 |
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对理论性知识的促进效应 | $M = 20$；$E = 15$（理论性知识亚组）；$k = 469$；$N = —$ | 标准化均差（SMD）/ [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $ES = 0.59$ $[0.37, 0.81]$ | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 理论性知识为知识获取类结果，与学业成就相关但不完全等同；高等教育情境 |
+> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 结果变量：AI 教育应用对学业成就的促进效应（8 项 FOM 亚组结果） | $M = 19$（总体）；$E = 8$（学业成就亚组）；$k = —$；$N = 58,702$（总体） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.68$ $[0.48, 0.87]$ | 全集 $Q(18) = 118.26, p < .001, I^2 = 84.78\%, \tau^2 = .05$；95% PI 未报告 | 检索 2020–2025 年 AIEd 元分析，仅限英语文献；AI 类型与成果类型亚组间无显著差异；教育阶段和学科领域存在显著调节效应 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
@@ -241,6 +243,7 @@ updated: 2026-08-24
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 产出类型互补比较：[[Higher-Order Thinking Skills\|高阶思维技能]] vs 学业成就 vs [[Affective Outcomes\|情感行为]] | $E = 4$（HOTS）/ $E = 12$（成就）/ $E = 6$（情感） | HOTS $ES = 0.76$ $[0.42, 1.11]$；成就 $ES = 0.71$ $[0.52, 0.90]$；情感 $ES = 0.51$ $[0.17, 0.84]$ | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ | 预设分析；学业成就效应稳健居中，与高阶思维无显著差异 |
+> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 结果变量 | 教育阶段互补比较：K12 vs K12 与高等教育混合 | $k = 4$（K12）/ $k = 15$（混合） | K12 $ES = 0.40$ $[0.19, 0.62]$；混合 $ES = 0.73$ $[0.62, 0.84]$ | $Q_b(2) = 6.95, p < .05$ | 预设分析；K12 效应显著弱于混合阶段，可能与课程冲突、认知负荷及 AI 工具适配不足有关 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
