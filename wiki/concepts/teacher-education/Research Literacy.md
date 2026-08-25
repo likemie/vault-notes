@@ -151,7 +151,7 @@ updated: 2026-08-26
 > 将研究素养置于行为科学解释链中，探讨研究意识、态度与技能如何协同促成实际的研究使用行为。
 
 > [!claim] [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]]
-> **知觉行为控制与多维赋能** 基于计划行为理论与量表实证检验，研究素养中方差贡献最大的是研究技能（解释 46.90% 方差），表明知觉行为控制是推动教师将积极科研态度（均值高达 4.37）转化为实际教学使用（均值 3.78）的关键中介。亲身做研究对技能提升具有最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动研究使用行为（$\eta^2 = .046$）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–15)]]
+> **知觉行为控制与多维赋能** 基于计划行为理论（Theory of Planned Behavior, TPB）与量表实证检验，研究素养中方差贡献最大的是研究技能（解释 46.90% 方差），表明知觉行为控制（Perceived Behavioral Control, PBC）是推动教师将积极科研态度（均值高达 4.37）转化为实际教学使用（均值 3.78）的关键中介。亲身做研究对技能提升具有最大主效应（$\eta^2 = .056$），追踪专业期刊则最强效地驱动研究使用行为（$\eta^2 = .046$）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–15)]]
 
 ---
 
@@ -188,7 +188,7 @@ updated: 2026-08-26
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究 | [[Systematic Review\|系统综述]]＋框架综合 | 技能发展与个体能力主题报告频数 | k = 91 项研究（83%）涉及个体技能与素养 | — | 显示既有[[Document\|文献]]高度聚焦于个体技能测量，存在个体层面偏倚 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 研究素养调查设计与实证结论 | 13 项[[Questionnaire\|问卷调查]]均测出教师态度积极，但 100% 实证研究报告实际使用有限 | — | 表明仅测量个体研究素养无法解释实际使用困境，存在态度与行动的严重脱节 |
-> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 258 名土耳其中小学在职教师 | 横断面调查（[[Research Literacy Scale for Teachers\|RLS]] 量表与 CFA/MANOVA） | 教师研究素养 4 维度得分及做研究与期刊追踪赋能效应 | 态度均值最高（$M=4.37$），技能（$M=3.74$）与使用（$M=3.78$）偏低；做研究显著提升技能（$\eta^2=.056, p<.001$）；期刊追踪显著提升使用（$\eta^2=.046, p=.001$） | $\Delta\text{CFI} \le .003, \text{RMSEA}=0.060, \text{CFI}=0.94$ | 实证确立四因子二阶结构，证实态度与行为断层及科研经验赋能机制 |
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 258 名土耳其中小学在职教师 | 横断面调查（[[Research Literacy Scale for Teachers\|教师研究素养量表]]（RLS）与验证性因子分析（CFA）及多变量方差分析（MANOVA）） | 教师研究素养 4 维度得分及做研究与期刊追踪赋能效应 | 态度均值最高（$M=4.37$），技能（$M=3.74$）与使用（$M=3.78$）偏低；做研究显著提升技能（$\eta^2=.056, p<.001$）；期刊追踪显著提升使用（$\eta^2=.046, p=.001$） | $\Delta\text{CFI} \le .003, \text{RMSEA}=0.060, \text{CFI}=0.94$ | 实证确立四因子二阶结构，证实态度与行为断层及科研经验赋能机制 |
 
 ---
 

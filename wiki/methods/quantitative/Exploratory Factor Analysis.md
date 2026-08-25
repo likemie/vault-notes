@@ -121,4 +121,4 @@ updated: 2026-08-26
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] — 量化部分利用探索性因子分析（EFA，带主成分提取）检验了包含 11 道题的教学信心量表结构，确认其单一维度结构并解释了 35.03% 的累积方差。
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 对 447 名十年级中学生的 Schommer 修订版[[Epistemology|认识论]][[Questionnaire|问卷]]（[[Schommer's Modified Epistemological Questionnaire|SMEQ]]）52 个题项进行主轴探索性因子分析与方差最大旋转，提取出固定与快速学习能力（FQAL）、[[Simplicity of Knowledge|简单知识]]（SK）和确定知识（CK）三个核心因子（解释 16.81% 方差）。
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 对 310 名中小学教师的 56 个初测题项进行主轴因子分解（Principal Axis Factoring）与方差最大正交旋转（Varimax），经题总相关（$r < .30$ 剔除 3 题）与载荷准则（载荷 $> .32$、跨载荷差 $> .10$）逐题筛选，最终提取出涵盖技能（46.90% 方差）、态度（7.20% 方差）、使用（4.60% 方差）与意识（3.80% 方差）的 4 因子 20 题结构（KMO = .966，解释 62.602% 累积方差）。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 对 310 名中小学教师的 56 个初测题项进行主轴因子提取法（Principal Axis Factoring, PAF）与方差最大正交旋转（Varimax Rotation），经矫正题总相关（$r < .30$ 剔除 3 题）与载荷准则（载荷 $> .32$、跨载荷差 $> .10$）逐题筛选，在 Kaiser-Meyer-Olkin 抽样适宜性系数（KMO = .966）支持下，最终提取出涵盖技能（46.90% 方差）、态度（7.20% 方差）、使用（4.60% 方差）与意识（3.80% 方差）的 4 因子 20 题结构（解释 62.602% 累积方差）。
