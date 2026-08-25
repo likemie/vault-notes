@@ -1,6 +1,7 @@
 ---
 citation: "Lei, H., Ding, Y., & Chiu, M. M. (2026). The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis. Educational Research Review, 52, Article 100822. https://doi.org/10.1016/j.edurev.2026.100822"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
 processed_date: 2026-08-25
 ---
 
