@@ -58,17 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/instruments/scales/Research Literacy Scale for Teachers.md",
+                "file": "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Research Literacy Scale for Teachers"
+              "title": "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,13 +239,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7ef1b49d2c627a52",
+  "active": "7b1888ea00f7062e",
   "lastOpenFiles": [
-    "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md.tmp.38667.62c9dcfedc9a",
+    "raw/循证教育与高阶思维培养_大纲.md",
+    "raw/循证教育与高阶思维培养_优化大纲.md",
     "wiki/instruments/scales/Research Literacy Scale for Teachers.md",
+    "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
+    "wiki/concepts/educational-policy-reform/Research Utilization.md",
+    "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md",
+    "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md.tmp.38667.62c9dcfedc9a",
     "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md",
     "wiki/methods/quantitative/Scale Development.md",
-    "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
     "sources/Kazanci_Tinmaz_Sezgin_2023_SO/Kazanci_Tinmaz_Sezgin_2023_SO.pdf",
     "sources/Kazanci_Tinmaz_Sezgin_2023_SO/figures",
     "sources/Kazanci_Tinmaz_Sezgin_2023_SO/Kazanci_Tinmaz_Sezgin_2023_SO.md",
@@ -262,7 +266,6 @@
     "wiki/concepts/educational-policy-reform/Data-Based Decision Making.md",
     "raw/1-s2.0-S2666920X26000330-main.pdf",
     "sources/Mausethagen_2025_ERR/Mausethagen_2025_ERR.md",
-    "wiki/concepts/educational-policy-reform/Research Utilization.md",
     "wiki/concepts/teaching-teacher-education/Teacher Knowledge Base.md",
     "wiki/concepts/research-methodology/Methodological Individualism.md",
     "wiki/persons/us/Carol Weiss.md",
@@ -272,11 +275,8 @@
     "sources/Hagevold_Forsstrom_Keles_2026_ERR/Hagevold_Forsstrom_Keles_2026_ERR.md",
     "wiki/concepts/teacher-education/Research Literacy.md",
     "wiki/concepts/teacher-education/Teacher Professional Agency.md",
-    "wiki/theories/educational-policy-reform/Four Generations of Research Use.md",
-    "wiki/concepts/educational-policy-reform/Deficit Framing.md",
     "sources/Mausethagen_2025_ERR/figures",
     "sources/Mausethagen_2025_ERR/Mausethagen_2025_ERR.pdf",
-    "sources/Mausethagen_2025_ERR",
     "sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig3_Funnel_Plot.jpg",
     "sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig2_CCA_Heatmap.jpg",
     "sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig1_PRISMA_Flowchart.jpg",

@@ -39,6 +39,7 @@ related_concepts:
   - "[[Practice-Based Evidence]]"
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Research-Practice Partnership]]"
   - "[[Analytic Framework]]"
   - "[[Growth]]"
   - "[[Data Literacy]]"
@@ -46,7 +47,6 @@ related_concepts:
   - "[[Research-Informed Teaching Practice]]"
   - "[[Research Literacy]]"
   - "[[Boundary Spanner]]"
-  - "[[Research-Practice Partnership]]"
   - "[[Evidence-Based Education]]"
   - "[[Questionnaire]]"
   - "[[Definition of Terms]]"
@@ -107,11 +107,11 @@ updated: 2026-08-26
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **研究利用（Research Utilization）**<br>[[Research Utilization]] | 追溯研究如何以多种方式进入政策与实践，源头是 [[Carol Weiss\|Weiss (1979)]]，为整个 EIP 讨论提供背景框架。(p.132) |
-> | **证据知情实践（EIP）**<br>[[Evidence-Informed Practice]] | 核心对象：研究证据只是影响教育决策的多个因素之一，需与数据、[[Professional Judgment\|专业判断]]整合。(p.128) |
-> | **知识动员（Knowledge Mobilisation）**<br>[[Knowledge Mobilisation]] | 解释证据为何不自动进入实践，并提供传播、能力建设、伙伴关系与网络、系统化方法四类策略。(pp.130–131) |
-> | **专业判断（Professional Judgment）**<br>[[Professional Judgment]] | EIP 的枢纽：证据必须经过教育者的情境化判断才能转化为行动。 |
-> | **研究使用的类型学**<br>[[Conceptual, Instrumental, and Symbolic Use of Research]] | 区分研究成果的工具性、概念性与象征性三种长期影响，用于 EIP 成果测量。(pp.131–132) |
+> | **研究利用（Research Utilization）**<br>[[Research Utilization]] | [[Carol Weiss\|Weiss (1979)]] 以来，研究利用文献解释研究如何以多种路径进入政策与实践（直接应用、概念渗透、策略性引用等），构成整个 EIP 讨论的起点与背景框架，说明"证据进入实践"并非新生议题。(p.132) |
+> | **证据知情实践（EIP）**<br>[[Evidence-Informed Practice]] | 导言的核心对象：证据只是影响教育决策的多种因素之一，教育者须以[[Professional Judgment\|专业判断]]整合研究、系统数据与课堂数据，将 EIP 定位为多源整合而非单一研究驱动。(pp.127–129) |
+> | **知识动员（Knowledge Mobilisation）**<br>[[Knowledge Mobilisation]] | 解释证据为何不自动转化为实践：研究知识须经传播、翻译、中介与共创才能进入行动，特刊从中归纳出沟通传播、能力建设、伙伴关系与网络、系统化方法四类策略。(pp.130–131) |
+> | **专业判断（Professional Judgment）**<br>[[Professional Judgment]] | EIP 的整合枢纽：证据只是输入，须经教育者基于经验、价值观与情境理解的判断才能转化为课堂行动，成为证据知情需要严谨证据与严谨判断并存。 |
+> | **研究使用的类型学**<br>[[Conceptual, Instrumental, and Symbolic Use of Research]] | 区分研究成果的工具性、概念性与象征性三种影响：工具性直接作用于实践，概念性间接改变思维，象征性用于事后合法化；Wentworth 等据此拆解[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者决策的影响。(pp.131–132) |
 
 > [!warrant]- 理论如何支撑论证
 > 研究利用与知识动员构成证据如何进入实践的解释链条：前者说明证据使用有多种形态，后者说明证据流动需要条件；EIP 与专业判断把链条收束到教师个体的决策整合；类型学则为怎么算有效提供测量语言。
