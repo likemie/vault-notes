@@ -4534,6 +4534,17 @@
     ]
   },
   {
+    "title": "Graphic Organizer",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Graphic Organizer.md",
+    "aliases": [
+      "图形组织器",
+      "图示组织器",
+      "图形组织图",
+      "Graphic Organizers"
+    ]
+  },
+  {
     "title": "Group Investigation",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Group Investigation.md",
@@ -4950,7 +4961,8 @@
       "高阶思维",
       "HOTS",
       "higher-order cognitive skills",
-      "higher order thinking"
+      "higher order thinking",
+      "高阶认知技能"
     ]
   },
   {
@@ -11848,7 +11860,8 @@
       "Begg and Mazumdar's Rank Correlation Test",
       "Begg's Test",
       "Begg-Mazumdar Test",
-      "秩相关检验"
+      "秩相关检验",
+      "Begg-Mazumdar 秩相关"
     ]
   },
   {
@@ -18691,6 +18704,11 @@
     "title": "Argument_Wrigley_2019_ERE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wrigley_2019_ERE.md"
+  },
+  {
+    "title": "Argument_Lei_Ding_Chiu_2026_ERR",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Lei_Ding_Chiu_2026_ERR.md"
   },
   {
     "title": "Argument_Kraft_2023_ER",

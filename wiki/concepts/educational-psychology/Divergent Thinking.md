@@ -45,7 +45,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Divergent Thinking
@@ -167,6 +167,7 @@ updated: 2026-08-24
 >
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量：[[Graphic Organizer\|图形组织器]]干预下的发散思维（HOT 亚组） | $k = 14$ / — | Hedge's $g$ / 随机效应模型 | $g = 1.167$ $[0.841, 1.493]$ | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维 $g = 0.680$） | 涵盖思维导图等空间表征干预，对生成性发散构想提升显著 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 发散思维独立模型 | 52 项元分析 / 124 万人 | 皮尔逊 $r$ / 多水平 CHE + RVE | $r = 0.14$ $[0.04, 0.24]$ | 95% PI $[-0.25, 0.50]$ | 中等，受[[Publication Bias\|发表偏倚]]调整 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 综合创造过程（含发散思维） | 52 项元分析 / 124 万人 | 皮尔逊 $r$ / 多水平 CHE + RVE | $r = 0.27$ $[0.10, 0.43]$ | 95% PI $[-0.17, 0.62]$ | 中等，置信区间较宽 |
 
@@ -182,4 +183,5 @@ updated: 2026-08-24
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用元分析检验图形组织器对发散思维的促进作用，发现空间可视化工具对发散性高阶思维（$g = 1.167$）的提升显著强于聚合思维（$g = 0.680$）。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 在[[Meta-meta-analysis|二阶元分析]]中将发散思维与综合创造过程分别建模比较，揭示发散思维作为关键认知构件与相关[[Variable|变量]]存在稳定的正向关联（$r = 0.14$）。

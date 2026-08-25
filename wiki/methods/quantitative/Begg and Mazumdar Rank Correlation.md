@@ -1,13 +1,14 @@
 ---
 title: Begg and Mazumdar Rank Correlation
 aliases:
-  - "Begg and Mazumdar's Rank Correlation Test"
-  - "Begg's Test"
-  - "Begg-Mazumdar Test"
-  - "秩相关检验"
+  - Begg and Mazumdar's Rank Correlation Test
+  - Begg's Test
+  - Begg-Mazumdar Test
+  - 秩相关检验
+  - Begg-Mazumdar 秩相关
 summary: "由 Colin Begg 与 Madhuchhanda Mazumdar（1994）提出的一种用于检验元分析中发表偏倚的非参数统计方法。通过计算调整后的标准化效应量与各研究方差估计值之间的等级相关系数，判断是否存在小样本研究系统性报告更高效应量的漏斗图不对称现象。"
 type: method
-domain: "research-methodology"
+domain: research-methodology
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 15
@@ -15,10 +16,10 @@ method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
-  - "method/quantitative"
-  - "statistics/meta-analysis"
-  - "statistics/publication-bias"
-  - "field/research-methodology"
+  - method/quantitative
+  - statistics/meta-analysis
+  - statistics/publication-bias
+  - field/research-methodology
 related_concepts:
   - "[[Publication Bias]]"
   - "[[Small Study Effects]]"

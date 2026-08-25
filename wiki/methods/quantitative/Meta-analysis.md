@@ -259,6 +259,7 @@ flowchart LR
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究案例索引
+> - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]综合 66 项实验与准实验研究（72 个[[Effect Size|效应量]]，$N = 4{,}824$），评估[[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的促进效应（$g = 0.778$），并结合 Wald 检验与[[Meta-regression|元回归]]系统考察导图类型、思维层级及学段等调节[[Variable|变量]]。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research|实验研究]]，运用[[Fixed-Effect and Random-Effects Models|随机效应模型]]与混合效应亚组调节检验，确立[[Dialogue in Education|对话]]、[[Authentic Instruction|真实性教学]]与[[Mentorship|导师制]]对[[Critical Thinking|批判性思维]]的三维复合干预效应（$g+ = 0.57$）。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 采用三水平随机效应元分析模型综合 51 个样本（$N = 12{,}548$），估计[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的整体相关（$r = 0.386$），并配合[[Meta-regression|元回归]]检验测量类型等调节[[Variable|变量]]。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 对 132 项非实验研究中的 752 个[[Effect Size|效应量]]执行随机效应元分析，系统考察[[Epistemic Cognition|认识论认知]]与[[Academic Achievement|学业成就]]的关联及调节变量。
