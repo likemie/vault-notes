@@ -98,14 +98,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-25
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
