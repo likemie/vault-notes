@@ -69,6 +69,7 @@ related_concepts:
   - "[[Sample Size Determination]]"
 related_theories:
   - "[[Social Interdependence Theory]]"
+  - "[[Bloom's Taxonomy]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -80,6 +81,7 @@ related_methods:
   - "[[Inverse-Variance Weighting]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[PRISMA]]"
   - "[[Fail-Safe N]]"
   - "[[Trim and Fill Method]]"
   - "[[Correlated and Hierarchical Effects Model]]"
@@ -146,7 +148,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **[[Constructivist Paradigm\|社会建构主义]]学习理论（Social Constructivist Learning Theory）** | 强调知识是通过学习者在特定社会文化情境中，依托同伴互动、[[Dialogue in Education\|对话]]协商与认知冲突主动建构生成的，为[[Cooperative Learning\|合作学习]]促进高阶认知加工与社会交往能力提供根本[[Epistemology\|认识论]]支撑。（pp. 1–2） |
 > | **[[Social Interdependence Theory\|社会互赖理论]]（Social Interdependence Theory）** | 阐明小组合作的动力学机制在于建立积极互赖（Positive Interdependence）与个体责任（Individual Accountability），确立组员利益休戚与共的共同体，激发同伴支持、反馈与自我调节。（pp. 2–3） |
-> | **布鲁姆教育目标分类学三维框架（Bloom's Tripartite Taxonomy）** | 将学习产出系统划分为认知领域（Cognitive Domain）、情感领域（Affective Domain）与动作技能领域（Psychomotor Domain）；本研究在此基础上因应[[Meta-analysis\|元分析]]数据实态，进一步将认知领域细分为低阶[[Academic Achievement\|学业成就]]与复杂[[Higher-Order Thinking Skills\|高阶思维技能]]。（pp. 3–4） |
+> | **[[Bloom's Taxonomy\|布鲁姆教育目标分类学三维框架]]（Bloom's Tripartite Taxonomy）** | 将学习产出系统划分为认知领域（Cognitive Domain）、情感领域（Affective Domain）与动作技能领域（Psychomotor Domain）；本研究在此基础上因应[[Meta-analysis\|元分析]]数据实态，进一步将认知领域细分为低阶[[Academic Achievement\|学业成就]]与复杂[[Higher-Order Thinking Skills\|高阶思维技能]]。（pp. 3–4） |
 
 > [!warrant]- 理论如何支撑论证
 > [[Social Interdependence Theory|社会互赖理论]]与社会建构主义将小群体教学活动[[Operationalization|操作化]]为五大核心要素（积极互赖、促进性面对面互动、个体责任、人际与小群体技能、小组自我评价），从机制上解释了为何结构化的小组合作能够打破传统被动听讲的认知钝化，激发成员间的深层解释与互助；布鲁姆分类学则为整合[[Heterogeneity|异质性]]一阶元分析中的多元[[Dependent Variable|因变量]]提供了明确的[[Criterion-Referenced Test|标准参照]]，使跨学科、跨学段的[[Effect Size|效应量]]合并具备坚实的[[Construct Validity|构念效度]]。（pp. 2–4）
@@ -271,7 +273,7 @@ issuing_organization: ""
 ### 论证步骤二：严格筛选文献与统一效应量尺度，奠定二阶数据基础
 
 > [!claim] 严格的方法学质控与[[Effect Size|效应量]]尺度统一为二阶定量合成奠定了数据基础
-> 遵循 PRISMA 指南、采用 R-[[AMSTAR]] 规程评估方法学质量并执行双人独立[[Coding in Qualitative Research|编码]]，将 OR、$r$ 与 Hedges' $g$ 统一转换为 Cohen's $d$，确保了二阶数据集的独立性与统计可比性。（pp. 4–7）
+> 遵循 [[PRISMA]] 指南、采用 R-[[AMSTAR]] 规程评估方法学质量并执行双人独立[[Coding in Qualitative Research|编码]]，将 OR、$r$ 与 Hedges' $g$ 统一转换为 Cohen's $d$，确保了二阶数据集的独立性与统计可比性。（pp. 4–7）
 
 > [!chain-link] 证据到判断
 > - 检索覆盖 Web of Science、Scopus、EBSCO 旗下 5 大专业库及 Google Academic，运用二元关键词组合全面捕获 2010–2024 年文献，严格遵循 PRISMA 流程筛选出 15 项独立一阶元分析（图1 流程图）。（pp. 4–5）

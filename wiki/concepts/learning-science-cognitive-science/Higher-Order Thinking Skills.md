@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -52,8 +52,10 @@ related_concepts:
   - "[[Sample Size Determination]]"
   - "[[Convergent Thinking]]"
   - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[AI Agent in Education]]"
   - "[[Reflexivity]]"
-related_theories: []
+related_theories:
+  - "[[Bloom's Taxonomy]]"
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
@@ -80,7 +82,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 高阶思维技能（Higher-Order Thinking Skills, HOTS）是指超越简单的信息再认、事实机械回忆与固定程序算法套用的复杂心智加工运作系统。它具有非算法性（non-algorithmic）、高心智投入、多元路径与高度自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成[[Creativity|创造性]]解决方案或作出审慎的价值与逻辑判断；在理论脉络上深植于布鲁姆教育目标分类学（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization|操作化]]为[[Critical Thinking|批判性思维]]、计算思维、复杂问题解决、[[Metacognition|元认知]]反思与团队协作等核心能力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366)]]
+> 高阶思维技能（Higher-Order Thinking Skills, HOTS）是指超越简单的信息再认、事实机械回忆与固定程序算法套用的复杂心智加工运作系统。它具有非算法性（non-algorithmic）、高心智投入、多元路径与高度自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成[[Creativity|创造性]]解决方案或作出审慎的价值与逻辑判断；在理论脉络上深植于[[Bloom's Taxonomy|布鲁姆教育目标分类学]]（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization|操作化]]为[[Critical Thinking|批判性思维]]、计算思维、复杂问题解决、[[Metacognition|元认知]]反思与团队协作等核心能力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026, pp. 1365–1366)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生对已有信息和经验进行深层重构、逻辑推论、批判审视与综合创新的复杂高级心智加工体系。
@@ -198,7 +200,7 @@ updated: 2026-08-25
 > [!dev-timeline] 高阶思维技能的理论与实证演进
 > - **1956 年 认知目标分类学奠基** Bloom 等人提出认知领域教育目标分类学，确立从知识、领会、运用到分析、综合、评价的六级阶梯，奠定高阶思维的经典层级框架。
 > - **1980 年代 认知科学转向与思维教学运动** Resnick（1987）系统阐述“教育与学习思考”，明确高阶思维的非算法性、复杂性与自我调节属性，推动思维技能显性教学与[[Metacognition|元认知]]研究兴起。
-> - **2001 年 布鲁姆分类学二维修订** Anderson & Krathwohl 对分类学进行重构（知识维度 $\times$ 认知过程维度），将“创造”（Create）置于认知过程最高层级，突出知识生成的综合性。
+> - **2001 年 [[Bloom's Taxonomy|布鲁姆分类学]]二维修订** Anderson & Krathwohl 对分类学进行重构（知识维度 $\times$ 认知过程维度），将“创造”（Create）置于认知过程最高层级，突出知识生成的综合性。
 > - **2010 年代 计算思维与多维技能拓展** Korkmaz et al. (2017) 研制[[Computational Thinking Scale|计算思维量表]]（CTS），将算法思维、[[Critical Thinking|批判性思维]]、问题解决与[[Creativity|创造力]]整合为可测量的技术高阶认知[[Construct|构念]]。
 > - **2020 年代 21世纪[[21st Century Skills and Competencies Discourse|核心素养]]与二阶证据确证** [[Meta-meta-analysis|二阶元分析]]相继证实[[Constructivist Paradigm|建构主义]][[Cooperative Learning|合作学习]]（$ES = 0.76$）与人工智能技术支架（$ES = 0.63$）对高阶思维的显著促进效应，确立了宏观证据基准。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]; [[Argument_Unal_2026_JECR|(Ünal et al., 2026)]]
 
@@ -224,7 +226,7 @@ updated: 2026-08-25
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量：[[Graphic Organizer\|图形组织器]]对学生高阶思维（HOT）的总体促进效应 | $k = 72$ / $N = 4{,}824$（66 项独立研究） | Hedges' $g$ / 随机效应模型 | $g = 0.778$ $[0.649, 0.907]$ | $Q(71) = 485.49, p < .001, I^2 = 85.37\%$ | 涵盖 19 国大中小学样本；思维导图 $g = 1.041$ > 论证图 $g = 0.798$ > 概念图 $g = 0.548$；未发现发表偏倚（Egger $p = .070$） |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Dependent Variable\|结果变量]]：AI 代理对 K-12 学生高阶思维（Higher-Order Thinking）的干预效应 | $k = 13$ / $N = 3{,}042$（34 项研究中 13 个效应量） | Hedges' $g$ / 随机效应模型 | $g = 0.540$ $[-0.036, 1.117]$ | $Q(12) = 259.62, p < .001, I^2 = 95.4\%, \tau^2 = 1.063$ | 涵盖 K-12 阶段批判性思维与分析推理；点估计较大但未达统计显著（$p = .066$），异质性极高，高度依赖探究性教学设计与反思支架 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Dependent Variable\|结果变量]]：AI 智能体对 K-12 学生高阶思维（Higher-Order Thinking）的干预效应 | $k = 13$ / $N = 3{,}042$（34 项研究中 13 个效应量） | Hedges' $g$ / 随机效应模型 | $g = 0.540$ $[-0.036, 1.117]$ | $Q(12) = 259.62, p < .001, I^2 = 95.4\%, \tau^2 = 1.063$ | 涵盖 K-12 阶段批判性思维与分析推理；点估计较大但未达统计显著（$p = .066$），异质性极高，高度依赖探究性教学设计与反思支架 |
 > | Özkan & Çetinkaya-Uslusoy (2024) | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对护理高阶思维（[[Critical Thinking\|批判性思维]]）的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，角色互换显著强化批判反思（引自 [[Argument_Gungor_2026_CP\|Güngör et al., 2026]]） |
 > | Siagian et al. (2023a) | 结果[[Variable\|变量]]：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼 K-12 数学教学，[[Sample Size Determination\|样本量]]大且效应稳健显著（引自 Güngör et al., 2026） |
 > | Siagian et al. (2023b) | 结果变量：合作学习对数学[[Creativity\|创造性思维]]技能的促进效应 | $k = 24$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.69$ $[0.42, 0.98]$ | — | 印尼 K-12 数学教学，采用[[Divergent Thinking\|发散思维]]与创造性解题测验（引自 Güngör et al., 2026） |
@@ -267,6 +269,6 @@ updated: 2026-08-25
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] 运用随机效应[[Meta-analysis|元分析]]综合 66 项实验与准[[Experimental Research|实验研究]]（72 个[[Effect Size|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking|发散思维]]收益显著高于[[Convergent Thinking|聚合思维]]的层级调节特征。
-> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 运用随机效应元分析综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），检验 AI 代理对 K-12 学生高阶思维的影响，发现尽管效应量点估计较大（$g = 0.540$），但未达统计显著（$p = .066$）且[[Heterogeneity|异质性]]极高（$I^2 = 95.4\%$），表明 AI 促进高阶思维的效果高度取决于探究式学习和[[Reflexivity|反思性]]任务设计。
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 运用随机效应元分析综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），检验 AI [[AI Agent in Education|智能体]]对 K-12 学生高阶思维的影响，发现尽管效应量点估计较大（$g = 0.540$），但未达统计显著（$p = .066$）且[[Heterogeneity|异质性]]极高（$I^2 = 95.4\%$），表明 AI 促进高阶思维的效果高度取决于探究式学习和[[Reflexivity|反思性]]任务设计。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 运用[[Meta-meta-analysis|二阶元分析]]系统考察[[Cooperative Learning|合作学习]]对高阶思维技能的干预效应，报告了 $ES = 0.76$ 的高效益表现，证实社会建构互动对学生[[Critical Thinking|批判性思维]]与复杂问题解决能力的突出推动价值。
-> - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 采用二阶元分析综合 19 项 AIEd 一阶元分析（58,702 名参与者），报告 AI 教育应用对高阶思维技能亚组的效应（$ES = 0.63$，95% CI [.12, 1.14]），依托布鲁姆分类学与五维 HOTS 框架厘清了 AI 赋能认知[[Externalization|外化]]与潜在认知卸载的辩证关系。
+> - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 采用二阶元分析综合 19 项 AIEd 一阶元分析（58,702 名参与者），报告 AI 教育应用对高阶思维技能亚组的效应（$ES = 0.63$，95% CI [.12, 1.14]），依托[[Bloom's Taxonomy|布鲁姆分类学]]与五维 HOTS 框架厘清了 AI 赋能认知[[Externalization|外化]]与潜在认知卸载的辩证关系。

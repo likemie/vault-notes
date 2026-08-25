@@ -1,6 +1,7 @@
 ---
 citation: "Liu, J., Mbowe, A. E., Tahri, D., & Aziku, M. (2026). Meta-analysis on the influence of AI agents on K-12 student cognitive performance. Computers in Human Behavior Reports, 21, Article 100973. https://doi.org/10.1016/j.chbr.2026.100973"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Liu_2026_CHBR]]"
 processed_date: 2026-08-25
 ---
 

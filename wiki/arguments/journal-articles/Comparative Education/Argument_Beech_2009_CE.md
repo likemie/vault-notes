@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Encyclopaedism]]"
   - "[[Educated Identity]]"
-  - "[[Praxis]]"
   - "[[Global Policy Space]]"
   - "[[Floating Signifier]]"
   - "[[Knowledge Framework]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Analytic Framework]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Document]]"
@@ -46,9 +46,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Theoretical Perspective]]"
+  - "[[Creativity]]"
   - "[[Absorptive Capacity]]"
 related_theories:
   - "[[Network Society]]"
+  - "[[Bloom's Taxonomy]]"
 related_methods:
   - "[[Qualitative Interview]]"
 related_persons:
@@ -388,7 +390,7 @@ Castells 据此区分了两种空间逻辑：
 #### 3.2 教师教育者对"能力"的四种解读
 
 > [!finding-cards] 阿根廷和巴西教师教育者对"能力"的四种解读(pp.358–359)
-> 1. **重新解释为既有范畴** 将能力纳入已有的行为目标、布鲁姆分类学或[[Technical Rationality|技术理性]]框架，用旧范畴消解新话语的陌生性，不发生实质改变。
+> 1. **重新解释为既有范畴** 将能力纳入已有的行为目标、[[Bloom's Taxonomy|布鲁姆分类学]]或[[Technical Rationality|技术理性]]框架，用旧范畴消解新话语的陌生性，不发生实质改变。
 > 2. **坦率承认不知道含义** 承认虽然提到能力，但实际上并不清楚其具体含义，新课程[[Paradigm|范式]]的核心概念在教育者中十分模糊。
 > 3. **视为既有实践的合法化** 将新课程规定解读为对原有实践的迟到官方认可，认为无需发生改变。
 > 4. **认识到[[Epistemology|认识论]]矛盾** 认为课程文件挪用了不可调和的[[Theoretical Perspective|理论取向]]，形成“认识论大杂烩（epistemological salad）”，在实践中被用以中立化反对意见。

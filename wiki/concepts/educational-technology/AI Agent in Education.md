@@ -10,10 +10,10 @@ aliases:
 summary: "在教育环境中具备自主交互、自适应支架与即时反馈特征的智能计算系统，涵盖智能导师系统、教育机器人、生成式智能体与对话式智能体四种核心形态并对K-12认知技能与知识建构产生中等促进效应"
 type: concept
 domain: "educational-technology"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Externalization]]"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
 related_methods:
+  - "[[Time Series Design]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
 related_arguments:
@@ -57,7 +58,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 教育智能体（AI Agent in Education）是指在教学与学习环境中，能够感知学习者输入与状态、自主执行决策并提供自适应脚手架与即时反馈的智能计算系统。与静态教育数字资源不同，教育智能体能够根据学习者的认知水平、答题表现与交互轨迹动态调整教学步调与支架强度，在基础教育中主要体现为智能导师系统（Intelligent Tutoring Systems, ITS）、人工智能教育机器人（AI Educational Robotics）、生成式智能体（Generative AI Agents）以及[[Dialogue in Education|对话]]式智能体（Conversational AI Agents）四种技术形态。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 1–3, 5)]]
+> 教育智能体（AI Agent in Education）是指在教学与学习环境中，能够感知学习者输入与状态、自主执行决策并提供自适应脚手架与即时反馈的智能计算系统。与静态教育数字资源不同，教育智能体能够根据学习者的认知水平、答题表现与交互轨迹动态调整教学步调与支架强度，在基础教育中主要体现为智能导师系统（Intelligent Tutoring Systems, [[Time Series Design|ITS]]）、人工智能教育机器人（AI Educational Robotics）、生成式智能体（Generative AI Agents）以及[[Dialogue in Education|对话]]式智能体（Conversational AI Agents）四种技术形态。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 1–3, 5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 在人机互动学习中扮演指导者、辅导者、评估者或反思同伴角色的自适应智能中介系统。
@@ -90,8 +91,8 @@ updated: 2026-08-25
 
 ## 核心要素
 
-> [!feature] 四类核心教育智能体技术形态（Istrate, 2025; Liu et al., 2026）
-> - **智能导师系统（Intelligent Tutoring Systems, ITS）** 基于领域知识图谱、学生认知模型与教学决策算法，提供结构化分步解题引导与自适应规则提示的专用系统。在数学与理科程序性问题解决中展现出最强干预效能（$g = 0.540$）。
+> [!feature] 四类核心教育智能体技术形态（Istrate, 2025; [[Argument_Liu_2026_CHBR|Liu et al., 2026]]）
+> - **智能导师系统（Intelligent Tutoring Systems, [[Time Series Design|ITS]]）** 基于领域知识图谱、学生认知模型与教学决策算法，提供结构化分步解题引导与自适应规则提示的专用系统。在数学与理科程序性问题解决中展现出最强干预效能（$g = 0.540$）。
 > - **人工智能教育机器人（AI Educational Robotics）** 具备物理具身或拟人化外显形态的智能交互实体，通过多模态交互（语音、手势、动作）提供陪伴式、探究式学习体验（$g = 0.474$），多应用于低幼与小学阶段的语言认读与跨学科活动。
 > - **生成式智能体（Generative AI Agents）** 基于大型语言模型（LLM）或多模态生成技术，支持开放式问答、代码辅助调试、写作支架生成与探究任务共创的智能体系统（$g = 0.421$）。
 > - **[[Dialogue in Education|对话]]式智能体（Conversational AI Agents）** 依托自然语言处理驱动的聊天机器人或语音助手，支持口语对话练习、词汇问答与交互式反馈（$g = 0.468$），广泛应用于外语与第二语言口语流利度训练。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 5, 11)]]
@@ -180,7 +181,7 @@ updated: 2026-08-25
 ## 概念演变
 
 > [!dev-timeline] 教育智能体的发展演变脉络
-> - **1970s–1980s 规则型计算机辅助教学与早期 ITS 萌芽** 基于行为主义与早期认知心理学，开发出 SCHOLAR、GUIDON 等基于产生式规则与专家系统的早期智能导师系统，实现单向规则分流。
+> - **1970s–1980s 规则型计算机辅助教学与早期 [[Time Series Design|ITS]] 萌芽** 基于行为主义与早期认知心理学，开发出 SCHOLAR、GUIDON 等基于产生式规则与专家系统的早期智能导师系统，实现单向规则分流。
 > - **1990s–2000s 认知模型成熟与贝叶斯知识追踪** Anderson 等人开发认知导师（Cognitive Tutor），结合贝叶斯知识追踪（BKT）与产生式规则，实现精细化的学生技能掌握度建模与步调自适应。
 > - **2010s 具身教育机器人与[[Dialogue in Education|对话]]智能体普及** 随着自然语言处理与传感器硬件发展，NAO 等实体教育机器人和基于检索/规则的教学聊天机器人进入中小学课堂，探索情感陪伴与外语会话互动。
 > - **2020s 生成式智能体与大模型驱动的自适应生态** 基于大语言模型与多模态架构的生成式智能体（如 ChatGPT、个性化 Agent 助手）广泛[[Emergence|涌现]]，具备开放式上下文理解、代码实时调试与自适应支架生成能力，并在全球基础教育中开展大规模准实验干预评估。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 1–3)]]
@@ -194,7 +195,7 @@ updated: 2026-08-25
 > > [!axis] 技术工具形态分化与促学效能争议
 > > 学界对哪类智能体在 K-12 课堂中最具成效存在不同观察。
 > >
-> > - **结构化优先立场** 强调智能导师系统（ITS）与教育机器人因具备严密的领域知识结构和拟人化支架，在基础教育中效能最为稳健可靠（$g = 0.540$ 与 $g = 0.474$）。
+> > - **结构化优先立场** 强调智能导师系统（[[Time Series Design|ITS]]）与教育机器人因具备严密的领域知识结构和拟人化支架，在基础教育中效能最为稳健可靠（$g = 0.540$ 与 $g = 0.474$）。
 > > - **开放生成优先立场** 认为生成式智能体能够激发自主探究与多元表征，但在缺乏教师引导时可能因自主调节负担过重而削弱低幼学生的专注度。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, p. 11)]]
 
 > [!warning] 适用局限与警示
@@ -220,7 +221,7 @@ updated: 2026-08-25
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（认知结果分类） | 技能类认知结果（Skill-Based Outcomes） | $k = 42$ / — | $g = 0.391$ $[0.197, 0.584]$ | $Q = 409.56, I^2 = 90.0\%, p < .001$ | 涵盖数学解题、编程、读写技能，效应高度稳定显著 |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（认知结果分类） | 知识类认知结果（Knowledge-Based Outcomes） | $k = 18$ / — | $g = 0.344$ $[0.040, 0.649]$ | $Q = 143.82, I^2 = 88.2\%, p = .026$ | 概念与事实记忆，效应相对适度 |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（认知结果分类） | [[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking） | $k = 13$ / — | $g = 0.540$ $[-0.036, 1.117]$ | $Q = 259.62, I^2 = 95.4\%, p = .066$ | 点估计大但未达统计显著，异质性极高 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 智能导师系统（ITS） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 点估计最高，分步规则引导能力强 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 智能导师系统（[[Time Series Design\|ITS]]） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 点估计最高，分步规则引导能力强 |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 人工智能教育机器人（Robotics） | $k = 16$ / — | $g = 0.474$ $[0.150, 0.799]$ | $p < .001$ | 具身多模态互动，适合低龄与语言学习 |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | [[Dialogue in Education\|对话]]式智能体（Conversational AI） | $k = 30$ / — | $g = 0.468$ $[0.008, 0.645]$ | $p < .05$ | 语言问答与即时互动 |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | $k = 17$ / — | $g = 0.421$ $[0.198, 0.645]$ | $p < .001$ | 依赖支架引导与任务约束 |
