@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-04'
-updated: 2026-08-20
+updated: 2026-08-26
 ---
 
 # Constructive Alignment
@@ -373,3 +373,4 @@ updated: 2026-08-20
 > [!evidence-grid] 相关研究索引
 > - **[[Argument_Biggs_1999_HERD|Biggs (1999)]]**　从[[Constructivist Paradigm|建构主义]]和[[Student Learning Research|学生学习研究]]出发提出建构性对齐，详细说明目标动词、活动选择、[[Criterion-Referenced Test|标准参照评估]]、[[Assessment Backwash|评估反拨]]及两种实施路径。
 > - **[[Argument_Hattie_2015_SOTLP|Hattie (2015b)]]**　讨论成功标准、学习层次、反馈和教师评估自身教学影响。这些结果有助于理解建构性对齐的部分机制，但不能直接检验整个对齐系统的效果；[[Problem-Based Learning|PBL]] 的综合结果也说明，教学法名称不能代替对实施机制的分析。
+> - **[[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]]**　在 OECD 高等教育政策综述中强调建构性对齐的系统性要求：不仅需要在课程内部协调预期学习结果、教学活动与评估任务，还必须在宏观资格框架（如 QF-EHEA）、专业领域标准与微观课堂考核之间实现多层级对齐，防止高阶目标在评价环节退化为低阶事实测试。

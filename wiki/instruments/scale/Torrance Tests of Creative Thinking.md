@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 
 # Torrance Tests of Creative Thinking
@@ -109,4 +109,5 @@ updated: 2026-08-25
 
 > [!boundary] 工具优缺点与局限
 > - **优势** 标准化常模极为庞大、跨文化可比性强、评分客观规范且具备坚实的长期[[Predictive Validity|预测效度]]。
-> - **局限** 测验侧重于“观念生成（Ideation）”的潜能测量，不能完全等同于实际[[Creativity|创造性]]产品的产出；施测受时间压力与语言熟练度影响，易受到测试焦虑干扰。
+> - **局限** 测验侧重于“观念生成（Ideation）”的潜能测量（流畅性、灵活性、独创性与精致性），不能完全等同于实际[[Creativity|创造性]]产品的产出；施测受时间压力与语言熟练度影响，易受到测试焦虑干扰。在高等教育领域，此类心理测量工具难以直接嵌入日常学科课程教学，需要与基于真实作品的评分量规（如 [[VALUE Rubrics]]）和情境化表现任务互为补充。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 34)]]
+

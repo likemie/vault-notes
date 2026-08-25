@@ -73,7 +73,7 @@ related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Liu_2026_CHBR]]"
 created: 2026-08-24
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 
 # Higher-Order Thinking Skills
@@ -273,3 +273,4 @@ updated: 2026-08-25
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] 运用随机效应元分析综合 34 项实验与准实验研究（73 个效应量，$N = 3{,}042$），检验 AI [[AI Agent in Education|智能体]]对 K-12 学生高阶思维的影响，发现尽管效应量点估计较大（$g = 0.540$），但未达统计显著（$p = .066$）且[[Heterogeneity|异质性]]极高（$I^2 = 95.4\%$），表明 AI 促进高阶思维的效果高度取决于探究式学习和[[Reflexivity|反思性]]任务设计。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 运用[[Meta-meta-analysis|二阶元分析]]系统考察[[Cooperative Learning|合作学习]]对高阶思维技能的干预效应，报告了 $ES = 0.76$ 的高效益表现，证实社会建构互动对学生[[Critical Thinking|批判性思维]]与复杂问题解决能力的突出推动价值。
 > - [[Argument_Unal_2026_JECR|Ünal et al. (2026)]] — 采用二阶元分析综合 19 项 AIEd 一阶元分析（58,702 名参与者），报告 AI 教育应用对高阶思维技能亚组的效应（$ES = 0.63$，95% CI [.12, 1.14]），依托[[Bloom's Taxonomy|布鲁姆分类学]]与五维 HOTS 框架厘清了 AI 赋能认知[[Externalization|外化]]与潜在认知卸载的辩证关系。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统评述 OECD 成员国高等教育中高阶思维技能（创造力与批判性思维）的政策导向与评价实践，揭示了宏观资格框架与微观课堂考核之间的脱节，论证了通过真实表现性任务与校本评分量规推进高阶思维测度的制度路径。

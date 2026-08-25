@@ -3834,6 +3834,18 @@
     ]
   },
   {
+    "title": "Learning Gain",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Learning Gain.md",
+    "aliases": [
+      "学习增益",
+      "learning gains",
+      "增值评价",
+      "学习增值",
+      "value-added assessment in higher education"
+    ]
+  },
+  {
     "title": "Linear Model of Innovation",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Linear Model of Innovation.md",
@@ -4573,6 +4585,17 @@
     ]
   },
   {
+    "title": "Authentic Assessment",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Authentic Assessment.md",
+    "aliases": [
+      "真实性评价",
+      "表现性评价",
+      "真实性评估",
+      "authentic performance assessment"
+    ]
+  },
+  {
     "title": "Authentic Instruction",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Authentic Instruction.md",
@@ -4720,7 +4743,9 @@
     "aliases": [
       "Formative Evaluation",
       "形成性评价",
-      "形成性评估"
+      "形成性评估",
+      "assessment for learning",
+      "促学评价"
     ]
   },
   {
@@ -13427,6 +13452,18 @@
     ]
   },
   {
+    "title": "VALUE Rubrics",
+    "type": "instrument",
+    "path": "wiki/instruments/rubric/VALUE Rubrics.md",
+    "aliases": [
+      "Valid Assessment of Learning in Undergraduate Education",
+      "AAC&U VALUE Rubrics",
+      "VALUE",
+      "本科生学习成果评价量规",
+      "本科教育有效学习评估量规"
+    ]
+  },
+  {
     "title": "Runco Ideational Behavior Scale",
     "type": "instrument",
     "path": "wiki/instruments/scale/Runco Ideational Behavior Scale.md",
@@ -13533,6 +13570,18 @@
       "KFT 4-13+R",
       "Kognitiver Fähigkeitstest",
       "认知能力测验"
+    ]
+  },
+  {
+    "title": "Collegiate Learning Assessment",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Collegiate Learning Assessment.md",
+    "aliases": [
+      "CLA",
+      "CLA+",
+      "大学生学习评估",
+      "大学生学习评价",
+      "Collegiate Learning Assessment Plus"
     ]
   },
   {
@@ -19698,6 +19747,11 @@
     "title": "Argument_Lester_2005_MIT",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md"
+  },
+  {
+    "title": "Argument_Bouckaert_2023_OECD",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
   },
   {
     "title": "Argument_RoyalSociety_2026_ScienceForSociety",

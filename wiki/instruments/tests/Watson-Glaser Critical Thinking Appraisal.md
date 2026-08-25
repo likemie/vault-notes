@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 
 # Watson-Glaser Critical Thinking Appraisal
@@ -90,6 +90,7 @@ updated: 2026-08-25
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | WGCTA 标准版 / 简版 | 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中作为纳入实证研究测量中小学生[[Critical Thinking\|批判性思维]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（HOTS）的标准化[[Dependent Variable\|因变量]]工具 | 高阶认知能力客观测试 | HOTS 亚组汇总效应量达 $g = 0.540, p = .066$，表明高阶思维在外部结构化脚手架辅助下具有显著成长潜能 |
+| [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | WGCTA 经典版 | 政策与评价实践综述，考察通用领域标准化批判性思维测验在高等教育评价中的应用与局限 | 领域通用批判性思维客观测验 | 指出 WGCTA 等标准化多项选择题虽具备高信度与常模可比性，但在测度开放生成性思考与真实学术情境中的推理表现时存在构念代表性不足 |
 
 ---
 
