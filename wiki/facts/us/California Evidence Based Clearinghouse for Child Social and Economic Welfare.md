@@ -25,6 +25,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Rating Scale]]"
   - "[[Document]]"
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Dependent Variable]]"
   - "[[Iatrogenic Effects in Education]]"
   - "[[Praxis]]"
@@ -37,7 +38,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
-  - "[[Time Series Design]]"
   - "[[Cohort Study]]"
 related_instruments: []
 related_persons: []
@@ -86,7 +86,7 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CEBC 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Time Series Design|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> CEBC 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Intelligent Tutoring Systems|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **非重叠样本 RCT 验证** 要求评估项目必须拥有至少两个独立开展、样本不重叠的高质量 RCT。
 > 2. **测量工具信效度审查** 要求核心[[Dependent Variable|结果变量]]必须采用具备经过同行检验的公认心理测量学信效度的测量工具。

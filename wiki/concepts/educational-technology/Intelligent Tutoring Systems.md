@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤进行细粒度建模并提供自适应个性化教学指导的计算机系统，由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 13
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,12 +26,12 @@ related_concepts:
   - "[[AI Agent in Education]]"
   - "[[Dialogue in Education]]"
   - "[[Metacognition]]"
-  - "[[Heterogeneity]]"
-  - "[[Growth]]"
-related_theories:
-  - "[[Cognitive Load Theory]]"
+  - "[[Dependent Variable]]"
+  - "[[Effect Size]]"
+related_theories: []
 related_methods:
   - "[[Time Series Design]]"
+  - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[Socrates]]"
@@ -51,7 +51,7 @@ updated: 2026-08-25
 ## 定义
 
 > [!def] 核心定义
-> 智能导师系统（Intelligent Tutoring Systems, [[Time Series Design|ITS]]）是指利用人工智能（Artificial Intelligence, AI）技术模拟人类优秀教师一对一辅导行为的计算机教学系统。该系统能够对学习者的实时解题步骤与认知状态进行细粒度追踪，在无需人类教师即时干预的情况下，自适应地推演学习者的认知阻碍、动态调整教学策略并提供即时、逐级的矫正反馈与线索脚手架。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 6–7)]]
+> 智能导师系统（Intelligent Tutoring Systems, ITS）是指利用人工智能（Artificial Intelligence, AI）技术模拟人类优秀教师一对一辅导行为的计算机教学系统。该系统能够对学习者的实时解题步骤与认知状态进行细粒度追踪，在无需人类教师即时干预的情况下，自适应地推演学习者的认知阻碍、动态调整教学策略并提供即时、逐级的矫正反馈与线索脚手架。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 6–7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于单向预设内容的静态课件，ITS 是基于动态推断学习者内在认知状态（心理表征与技能掌握度）的闭环人机教学中介。
@@ -126,24 +126,28 @@ updated: 2026-08-25
 > - **1970年代 规则推理系统发轫** SCHOLAR 与 WHY 等早期系统探索利用语义网络进行[[Socrates|苏格拉底]]式问答辅导。
 > - **1980年代至1990年代 认知导师（Cognitive Tutors）成型** 约翰·安德森（John R. Anderson）基于 ACT-R 认知架构开发代数与几何认知导师，确立基于产生式规则（Production Rules）的精细步骤诊断模型。
 > - **2000年代 贝叶斯知识追踪与数据驱动转型** Corbett 与 Anderson 提出的 BKT 模型广泛应用于 Carnegie Learning 与 Khan Academy，实现了对技能掌握概率的定量拟合。
-> - **2010年代 约束基辅导（Constraint-Based）与[[Dialogue in Education|对话]]式 [[Time Series Design|ITS]] 扩展** 引入自然语言交互（如 AutoTutor）与多模态眼动/生理情绪感知，增强[[Metacognition|元认知]]监控。
+> - **2010年代 约束基辅导（Constraint-Based）与[[Dialogue in Education|对话]]式 ITS 扩展** 引入自然语言交互（如 AutoTutor）与多模态眼动/生理情绪感知，增强[[Metacognition|元认知]]监控。
 > - **2020年代 生成式 AI 与大模型赋能的动态 ITS** 融合大语言模型（LLM）的开放语义理解与传统 ITS 的确定性规则校验，实现秒级高精度个性化答疑与解题路径可视化。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
 
 ---
 
-## 实证证据与元分析结果
+## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]实证结果
-> <span class="concept-meta-main-table-marker" aria-hidden="true"></span>
+> [!effect-table]- 原始研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 总体汇总效应与 95% CI | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 作为技术干预形态（[[Time Series Design\|ITS]] 促进 K-12 学生认知表现） | $k = 10$ / 纳入研究 | Hedges' $g$，随机效应模型（REM） | $g = 0.540$, $p < .001$ | 总体 $Q = 369.32, I^2 = 88.90\%$ | 聚焦基础教育（K-12）理科与解题场景；在四大智能体形态中促学效应最为显著 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | Chen et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 历史多源事实导学 ITS vs. 传统课堂讲授 | 历史事实识记与时间线图式构建 | $N = 84$ | — | Hedges' $g = 0.52$ | $p < .01$ | 准实验设计；ITS 自适应支架有效提升人文历史事实知识掌握度 |
+> | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 自适应分步微提示 ITS vs. 传统纸笔解题 | 小学数学长除法步骤解题技能 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步微提示降低外在负荷 |
+> | Khazanchi et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 代数几何智能导师 vs. 常规教学 | 中学几何辅助线推导与代数解题 | $N = 96$ | — | Hedges' $g = 0.05$ | $p > .05$ | [[Quasi-Experimental Designs\|准实验设计]]；高抽象度几何证明任务中短期干预效应较温和 |
 
-> [!empirical-case]- 经典实证干预案例
-> - **数学自适应问题解决平台** 在德国小学数学课堂中运用 ITS 追踪学生长除法解题步骤，提供基于[[Cognitive Load Theory|认知负荷理论]]的分步微提示，获得显著技能提升（Tasdelen & Bodemer, 2025, $g = 0.21$）。
-> - **代数几何智能导师** 在中学数学中实时诊断几何辅助线与代数化简错误，有效跨越学生的[[Zone of Proximal Development|最近发展区]]（Khazanchi et al., 2025, $g = 0.05$; Xing et al., 2025, $g = 0.01$）。
-> - **历史多源事实导学系统** 将 ITS 应用于人文历史事实识记与时间线图式构建，获得显著知识增益（Chen et al., 2025, $g = 0.52$）。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 3–7)]]
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 智能导师系统（ITS） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 聚焦基础教育理科解题与规则引导场景，在四大技术形态中汇总点估计最高 |
 
 ---
 

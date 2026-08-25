@@ -9,7 +9,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（OAA）、预估总评成绩（EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "educational-psychology"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -28,7 +28,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Epistemological Beliefs]]"
   - "[[Criterion-related Validity]]"
-  - "[[Procedural Skill]]"
+  - "[[Procedural Knowledge]]"
   - "[[Rote Learning]]"
   - "[[Interaction Effect]]"
   - "[[Epistemology]]"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Prediction Interval]]"
   - "[[Critical Thinking]]"
   - "[[Achievement and Aptitude Tests]]"
+  - "[[Procedural Skill]]"
   - "[[Variable]]"
   - "[[Cooperative Learning]]"
   - "[[Problem-Based Learning]]"
@@ -106,7 +107,7 @@ updated: 2026-08-25
 > 在当代教育心理学中，单纯使用单一分数已无法满足精细的理论检验。学业成就通常沿以下三大维度进行多维操作化划分：
 > 
 > 1. **认知加工深度层级（[[Argument_Greene_2018_JEP|Greene et al., 2018]]）**
->    - **[[Procedural Skill|程序性知识]]（[[Procedural Knowledge]]）** 侧重于机械步骤的执行与底层运算规则的套用。
+>    - **程序性知识（[[Procedural Knowledge]]）** 侧重于机械步骤的执行与底层运算规则的套用。
 >    - **陈述性知识（declarative knowledge）** 侧重于对零散事实、专业术语和概念定义的记忆与再认。
 >    - **一般知识（general knowledge）** 混合了多种基础认知要求的常规综合学科测验。
 >    - **概念性知识（conceptual knowledge）** 要求学生理解深层原理结构，建立概念间的网络连接并实现灵活迁移。
@@ -133,7 +134,7 @@ updated: 2026-08-25
 > 高阶心理[[Construct|构念]]（如[[Epistemic Cognition|认识论认知]]）并不必然促进所有类型的学习成绩，其预测效力随成绩指标所要求的思维深度发生阶梯式上升。
 
 > [!claim] [[Argument_Greene_2018_JEP|Greene et al. (2018)]]
-> **高阶成就类型的强挂钩** 测量任务的认知要求越高阶，其与学生深层认知信念的相关性就越强。大规模[[Meta-analysis|元分析]]实证表明，认识论认知对概念性知识（$r = .190$）和论证能力（$r = .154$）具有显著且稳健的正向预测力，对陈述性知识（$r = .127$）预测力减弱，而对[[Rote Learning|死记硬背]]的[[Procedural Skill|程序性知识]]则完全无效（$r = .077$，$p > .05$）。这表明深层认知信念只有在遇到需要高阶理解与概念重构的学业成就考核时，才能发挥实质效能。
+> **高阶成就类型的强挂钩** 测量任务的认知要求越高阶，其与学生深层认知信念的相关性就越强。大规模[[Meta-analysis|元分析]]实证表明，认识论认知对概念性知识（$r = .190$）和论证能力（$r = .154$）具有显著且稳健的正向预测力，对陈述性知识（$r = .127$）预测力减弱，而对[[Rote Learning|死记硬背]]的程序性知识则完全无效（$r = .077$，$p > .05$）。这表明深层认知信念只有在遇到需要高阶理解与概念重构的学业成就考核时，才能发挥实质效能。
 
 ---
 

@@ -22,6 +22,7 @@ tags:
   - community-action
   - region/us
 related_concepts:
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Statistical Significance]]"
   - "[[Internal Validity]]"
   - "[[Pre-test and Post-test]]"
@@ -34,7 +35,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
-  - "[[Time Series Design]]"
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
@@ -82,7 +82,7 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CNCS EE 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=2, [[Regression Discontinuity Design|RDD]]=0, [[Time Series Design|ITS]]=0**，对组间对比实验与准实验均建立了明确的证据质量审查指南([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> CNCS EE 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=2, [[Quasi-Experimental Designs|QED]]=2, [[Regression Discontinuity Design|RDD]]=0, [[Intelligent Tutoring Systems|ITS]]=0**，对组间对比实验与准实验均建立了明确的证据质量审查指南([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **独立外部评估要求** 强制要求获得高额资助的项目必须由外部独立第三方研究机构实施因果评估。
 > 2. **多层级证据阶梯** 建立了从“概念验证（Preliminary）”到“严格因果（Strong）”的清晰发展阶梯。

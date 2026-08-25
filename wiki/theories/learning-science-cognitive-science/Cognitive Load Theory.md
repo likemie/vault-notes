@@ -7,7 +7,7 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与相关负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 35
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -46,7 +46,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Time Series Design]]"
 related_persons:
   - "[[John Sweller]]"
 related_facts:
@@ -162,7 +161,7 @@ updated: 2026-08-25
 
 > [!theory-use] 如何用于研究
 > - **作为微观教学设计与多媒体课件开发准则** 指导课件排版、多模态音画配置与样例分步呈现。
-> - **作为技术赋能实证研究的机制解释桥梁** 在评估[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, [[Time Series Design|ITS]]）、[[Graphic Organizer|图形组织器]]或生成式 AI [[AI Agent in Education|智能体]]时，解释分步微提示如何降低程序性练习的外在负荷，释放[[Working Memory|工作记忆]]以赋能解题与技能自动化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
+> - **作为技术赋能实证研究的机制解释桥梁** 在评估[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Graphic Organizer|图形组织器]]或生成式 AI [[AI Agent in Education|智能体]]时，解释分步微提示如何降低程序性练习的外在负荷，释放[[Working Memory|工作记忆]]以赋能解题与技能自动化。[[Argument_Lei_Ding_Chiu_2026_ERR|(Lei et al., 2026)]]; [[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
 > - **作为教育政策批判的分析客体** 批判性考察认知负荷理论如何被官方智库工具化为推行单一保守教学大纲的话语武器。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024)]]
 
 ---

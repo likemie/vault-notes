@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Sample Size Determination]]"
@@ -36,7 +37,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
-  - "[[Time Series Design]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -91,7 +91,7 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> PPN 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=1, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Time Series Design|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> PPN 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=1, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Intelligent Tutoring Systems|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **[[Effect Size|效应量]]绝对阈值设定** PPN 是少数直接将效应量大小写入最高准入门槛的清算中心之一，要求标准化效应量至少达到 **0.25 个标准差（ES ≥ 0.25 SD）** 且达到[[Statistical Significance|统计显著性]]水平([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 12]])。
 > 2. **[[Sample Size Determination|样本量]]硬性门槛** 要求纳入研究的样本总量必须达到 **N > 100**，以确保统计检验力与估计稳定性。

@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemic Climate]]"
   - "[[Measurement Alignment]]"
   - "[[Questionnaire]]"
-  - "[[Procedural Skill]]"
   - "[[Reliability]]"
   - "[[Internal Consistency]]"
   - "[[Effect Size]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Confidence Interval]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
+  - "[[Procedural Skill]]"
   - "[[Ontology]]"
   - "[[Publication Bias]]"
   - "[[Funnel Plot]]"
@@ -136,7 +136,7 @@ updated: 2026-08-20
 > [!claim] Greene, J.
 > **[[Measurement Alignment|对齐法则]]与高阶认知强关联** 实证预测效力依赖于以下法则：
 > - **对齐法则（Alignment）** 只有当测量工具的特异性与成绩任务在颗粒度上严格匹配时（如用学科[[Questionnaire|问卷]]预测特定学科成绩，而非用通用问卷），预测效力才会大幅提升。
-> - **高阶认知强关联** [[Epistemological Beliefs|认识论信念]]与高阶能力（如概念性知识与论证）的关联远超底层的陈述性或[[Procedural Skill|程序性知识]]。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
+> - **高阶认知强关联** [[Epistemological Beliefs|认识论信念]]与高阶能力（如概念性知识与论证）的关联远超底层的陈述性或程序性知识。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 
 > [!claim] Greene, J.
 > **[[Reliability|信度]]决定论与学段倒挂** 测量严谨度会暴露出不同于传统的实证规律：

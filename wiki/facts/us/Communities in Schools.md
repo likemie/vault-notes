@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Attrition]]"
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Counterfactual]]"
   - "[[Causality]]"
   - "[[Statistical Significance]]"
@@ -104,7 +105,7 @@ updated: 2026-08-22
 >
 > 1. **机构委托灰色报告 vs 同行评审学术期刊（MDRC Reports vs Peer-Reviewed Papers）**
 >    - CIS 组织投入巨资委托全美顶尖政策智库 MDRC 开展了严密的多年期随机试验（Parise et al., 2017）与时间序列研究（Somers & Haider, 2017）。但由于这些成果以智库技术评估报告形式发布、未刊载于同行评审学术期刊，恪守期刊门槛的 [[Clearinghouse for Military Family Readiness Continuum of Evidence|CMFR]] 将其视为“完全不存在”，而包容智库报告的 [[CNCS Evidence Exchange|CNCS EE]] 则据此给予中度支持认证。
-> 2. **组内发展虚假繁荣 vs 对照组自然增长（[[Time Series Design|ITS]] Secular Trends）**
+> 2. **组内发展虚假繁荣 vs 对照组自然增长（[[Intelligent Tutoring Systems|ITS]] Secular Trends）**
 >    - 在 Somers & Haider (2017) 间断时间序列评估中，CIS 实施校的高中毕业率在干预后确实逐年攀升；然而与未接受干预的平行对照校相比，两者的上升轨迹几乎完全平行（反映了宏观社会与学区政策的自然时间演变）。宽松机构仅关注“组内向好”即判定有效，而严谨机构识别出“未跑赢自然趋势”判定因果效应为零。
 > 3. **实践倡导型平台 vs 严苛计量审查机构的评价哲学对撞**
 >    - [[National Dropout Prevention Center|NDPC]] 作为扎根防辍实践界的倡导型平台，倾向于全面采信一线运行经验并给予最高推荐；而 [[What Works Clearinghouse|WWC]]、[[Blueprints for Healthy Youth Development|Blueprints]] 与 [[Social Programs That Work|SPTW]] 等机构坚持严格的[[Counterfactual|反事实]]因果度量，直接导致了同一干预在政策市场上呈现出完全相反的评价光谱。
@@ -116,7 +117,7 @@ updated: 2026-08-22
 > [!stat-cards]- 核心实证研究数据快照
 > - **Rossman & Morley (1995) Urban Institute 早期多地点准实验** 早期探索性研究，样本缺乏基线匹配，显示出勤率提升但[[Causality|因果推断]]效力极其薄弱。
 > - **Parise et al. (2017) MDRC 2 年期多中心集群 [[Randomised Controlled Trials|RCT]]** 发现 [[Community Innovation Survey|CIS]] 对个案管理学生的**学校参与度（School Engagement）**与社会情感支持具有统计显著改善，但对当期标准化测验成绩未见显著跃升。
-> - **Somers & Haider (2017) MDRC 间断时间序列（[[Time Series Design|ITS]]）研究** 评估全校性毕业率，发现干预校毕业率平均上升 2.3%，但在控制了全学区宏观自然演进趋势后，净因果附加值无[[Statistical Significance|统计显著性]]。
+> - **Somers & Haider (2017) MDRC 间断时间序列（[[Intelligent Tutoring Systems|ITS]]）研究** 评估全校性毕业率，发现干预校毕业率平均上升 2.3%，但在控制了全学区宏观自然演进趋势后，净因果附加值无[[Statistical Significance|统计显著性]]。
 
 ---
 

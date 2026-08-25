@@ -21,6 +21,7 @@ tags:
   - evidence-based-education
   - region/us
 related_concepts:
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Evaluation Research]]"
   - "[[Statistical Significance]]"
   - "[[Attrition]]"
@@ -32,7 +33,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
-  - "[[Time Series Design]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -80,7 +80,7 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CASEL 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=1, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Time Series Design|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
+> CASEL 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=1, [[Quasi-Experimental Designs|QED]]=1, [[Regression Discontinuity Design|RDD]]=0, [[Intelligent Tutoring Systems|ITS]]=0**([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **对照组实证设计** 要求拥有至少 1 项包含实验组与对照组（RCT 或严格匹配 QED）的实证[[Evaluation Research|评估研究]]。
 > 2. **统计显著成效** 在干预结束后的即时或延时测量中，在学生的行为改善、心理健康或学业成绩上呈现具有[[Statistical Significance|统计显著性]]的积极成效。

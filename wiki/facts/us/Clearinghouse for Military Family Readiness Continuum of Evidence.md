@@ -25,6 +25,7 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Academic Achievement]]"
   - "[[Document]]"
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
@@ -34,7 +35,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
-  - "[[Time Series Design]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -82,7 +82,7 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CMFR 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=3, [[Regression Discontinuity Design|RDD]]=0, [[Time Series Design|ITS]]=0**，是少数同时为 RCT 和准实验（QED）均制定详尽审查手册的机构之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
+> CMFR 因果设计描述程度[[Coding in Qualitative Research|编码]]为 **[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=3, [[Regression Discontinuity Design|RDD]]=0, [[Intelligent Tutoring Systems|ITS]]=0**，是少数同时为 RCT 和准实验（QED）均制定详尽审查手册的机构之一([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
 >
 > 1. **[[Attrition|流失]]率刚性红线** 设定了不超过 **20%** 的总样本流失率上限，且对处理组与对照组差异流失进行严格控制([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 9]])。
 > 2. **准实验匹配控制** 对 QED 的倾向得分匹配、基线协[[Variable|变量]]平衡性制定了细致的审核规程。

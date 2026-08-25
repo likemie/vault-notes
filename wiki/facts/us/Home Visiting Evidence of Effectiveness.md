@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Document]]"
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Statistical Significance]]"
@@ -35,7 +36,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
-  - "[[Time Series Design]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -74,7 +74,7 @@ updated: 2026-08-21
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> HomVEE 在因果设计描述程度[[Coding in Qualitative Research|编码]]中获评极高级别（**[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=3, [[Regression Discontinuity Design|RDD]]=3, [[Time Series Design|ITS]]=0**），是全库中唯一在技术细化程度上与 [[What Works Clearinghouse|WWC]] 并驾齐驱的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
+> HomVEE 在因果设计描述程度[[Coding in Qualitative Research|编码]]中获评极高级别（**[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=3, [[Regression Discontinuity Design|RDD]]=3, [[Intelligent Tutoring Systems|ITS]]=0**），是全库中唯一在技术细化程度上与 [[What Works Clearinghouse|WWC]] 并驾齐驱的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
 >
 > 1. **全套专属设计指南** 针对 RCT、准实验（QED）及断点回归（RDD）均建立了数百页的独立审查规程与微观统计门槛。
 > 2. **量化[[Attrition|流失]]率模型** 严格核算总体流失与差异流失率，设定了与 WWC 类似的无偏样本流失边界。

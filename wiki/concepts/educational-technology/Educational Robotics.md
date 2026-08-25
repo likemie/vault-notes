@@ -9,7 +9,7 @@ aliases:
 summary: "具备物理具身或外显虚拟实体的人工智能交互系统，通过语音、表情、手势与多模态感知，在语言伴读、程序演练与跨学科探究中提供示范、协作与情感激励。"
 type: concept
 domain: "educational-technology"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
-  - "[[Heterogeneity]]"
+  - "[[Dependent Variable]]"
+  - "[[Effect Size]]"
   - "[[AI Agent in Education]]"
 related_theories: []
 related_methods:
@@ -101,23 +102,27 @@ updated: 2026-08-25
 
 ---
 
-## 实证证据与元分析结果
+## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]实证结果
-> <span class="concept-meta-main-table-marker" aria-hidden="true"></span>
+> [!effect-table]- 原始研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 总体汇总效应与 95% CI | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 作为技术干预形态（教育机器人促进 K-12 认知表现） | $k = 16$ / 纳入研究 | Hedges' $g$，随机效应模型（REM） | $g = 0.474$, $p < .001$ | 总体 $Q = 369.32, I^2 = 88.90\%$ | 聚焦基础教育阶段；对学前至小学阶段语言伴读与游戏化互动提升尤为显著 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解得分 | $N = 64$（干预 $n = 32$, 控制 $n = 32$） | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态与拟人表情显著降低低龄儿童外语焦虑 |
+> | Pareto et al. (2022)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 卡牌算术自适应对战机器人 vs. 纸笔算术卡片 | 小学低段速算准确率与四则运算熟练度 | $N = 72$ | — | Hedges' $g = 0.24$ | $p < .05$ | 实验设计；游戏化互动激发操作性技能练习动机 |
+> | Zhexenova et al. (2020)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 仿人实体机器人示范纠错 vs. 教师板书示范 | 哈萨克语字母笔画书写与认读得分 | $N = 50$ | — | Hedges' $g = 0.17$ | $p < .05$ | 准实验设计；实体机器人肢体示范辅助低幼语言动作技能习得 |
 
-> [!empirical-case]- 经典实证干预案例
-> - **伴读机器人辅助哈萨克语书写与字母认读**（Zhexenova et al., 2020）：在哈萨克斯坦小学通过仿人实体机器人示范字母笔画顺序并进行纠错，显著促进少数民族儿童语言识记（$g = 0.17$）。
-> - **人机双语伴读与听说训练**（Feng & Wang, 2023）：通过具有表情交互的机器人进行英语绘本共读，显著提高小学生口语听力理解（$g = 0.76$）。
-> - **卡牌算术自适应对战机器人**（Pareto et al., 2022）：在数学算术教学中引入对战机器人，通过[[Gamification|游戏化]]规则提升小学低段学生的速算技能（$g = 0.24$）。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 3–7)]]
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 人工智能教育机器人（Robotics） | $k = 16$ / — | $g = 0.474$ $[0.150, 0.799]$ | $p < .001$ | 具身多模态互动，对学前至小学阶段语言听说伴读与[[Gamification\|游戏化学习]]增益尤为显著 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]][[Meta-analysis|元分析]]中将教育机器人作为核心技术亚组，确立其对 K-12 认知表现具有显著中等促学效应（$g = 0.474$），证实具身多模态交互对低学段语言和[[Gamification|游戏化]]技能训练的独特价值。
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在 AI [[AI Agent in Education|智能体]][[Meta-analysis|元分析]]中将教育机器人作为核心技术形态，确立其对 K-12 认知表现具有显著中等促学效应（$g = 0.474$），证实具身多模态交互对低学段语言和[[Gamification|游戏化]]技能训练的独特价值。

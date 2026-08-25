@@ -29,6 +29,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Attrition]]"
   - "[[Document]]"
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Complier Average Causal Effect]]"
@@ -50,7 +51,6 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Time Series Design]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Random Assignment]]"
   - "[[Covariate Adjustment]]"
@@ -117,7 +117,7 @@ updated: 2026-08-21
 ## 因果推断与方法学审查体系
 
 > [!abstract] 因果设计与质量规程
-> WWC 在因果设计描述程度[[Coding in Qualitative Research|编码]]中获评最高级别（**[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=2, [[Regression Discontinuity Design|RDD]]=3, [[Time Series Design|ITS]]=2**），是全库唯一对前沿计量因果设计均制定完备审查标准的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
+> WWC 在因果设计描述程度[[Coding in Qualitative Research|编码]]中获评最高级别（**[[Randomised Controlled Trials|RCT]]=3, [[Quasi-Experimental Designs|QED]]=2, [[Regression Discontinuity Design|RDD]]=3, [[Intelligent Tutoring Systems|ITS]]=2**），是全库唯一对前沿计量因果设计均制定完备审查标准的机构([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 10–11]])。
 >
 > 1. **[[Cluster Randomized Trials|集群随机试验]]（Cluster RCT）校正** 深入规范学校或班级层面的集群[[Random Assignment|随机化]]，强制要求使用多层线性模型（HLM）或群组内相关系数（ICC）校正[[Standard Error|标准误]]，防范假阳性显著性。
 > 2. **整体[[Attrition|流失]]与差异流失边界模型** 建立允许最大潜在偏倚在 0.05 SD 以内的流失模型；基线等值性要求差异在 0.05–0.25 SD 之间必须实施协[[Variable|变量]]统计调整，超过 0.25 SD 判定不达标。

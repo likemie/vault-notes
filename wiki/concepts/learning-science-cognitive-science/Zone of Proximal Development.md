@@ -28,7 +28,11 @@ related_concepts:
   - "[[Cognitive Apprenticeship]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Peer-Supported Learning]]"
-  - "[[Feedback]]"
+  - "[[Dependent Variable]]"
+  - "[[Effect Size]]"
+  - "[[Heterogeneity]]"
+  - "[[Prediction Interval]]"
+  - "[[Construct]]"
   - "[[Procedural Skill]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
@@ -141,7 +145,7 @@ updated: 2026-08-25
 > - **1976年 脚手架（Scaffolding）教学隐喻提出** Wood、Bruner 与 Ross 提出脚手架概念，将 ZPD [[Operationalization|操作化]]为可落地的六大教学支撑功能（定向、简化、维持方向、指出关键特征、控制挫折、专家示范）。
 > - **1980年代 动态评估（Dynamic Assessment）体系成型** Feuerstein 及 Brown & Ferrara 开发测试-干预-再测试（Test-Intervene-Retest）[[Paradigm|范式]]，直接以儿童在干预后的学习敏锐度（Learning Potential）来度量 ZPD。
 > - **1990年代 [[Cognitive Apprenticeship|认知学徒制]]与情境学习融合** Collins、Brown 等提出认知学徒制（Cognitive Apprenticeship），强调在真实问题情境中由师傅示范专家思维，在学徒的 ZPD 内提供反思反馈。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 287–288)]]
-> - **2020年代 智能时代自适应[[AI Agent in Education|教育智能体]]的算法实现** 随着生成式人工智能（Generative Artificial Intelligence, GenAI）与[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, [[Time Series Design|ITS]]）的发展，AI 智能体基于贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）或大语言模型实时感知学习者输入，将 ZPD 落地为秒级动态自适应反馈。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
+> - **2020年代 智能时代自适应[[AI Agent in Education|教育智能体]]的算法实现** 随着生成式人工智能（Generative Artificial Intelligence, GenAI）与[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）的发展，AI 智能体基于贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）或大语言模型实时感知学习者输入，将 ZPD 落地为秒级动态自适应反馈。[[Argument_Liu_2026_CHBR|(Liu et al., 2026)]]
 
 ---
 
@@ -154,10 +158,29 @@ updated: 2026-08-25
 > | **自适应学习系统（[[AI Agent in Education\|AI Agent]] [[Time Series Design\|ITS]]）** | 通过知识图谱与错因分析算法，动态推送难度位于掌握概率在 50%–70% 之间的试题。 | 追踪知识点掌握度概率提升曲线与自适应支架撤销速率（Fading Rate）。 |
 > | **课堂协作支架设计** | 异质分组与[[Peer-Supported Learning\|同伴互助]]，确保组内存在能力稍高但认知差距适度的搭档。 | 课堂互动言语分析与认知参与度[[Coding in Qualitative Research\|编码]]。 |
 
-> [!empirical-case]- AI 智能体作为 ZPD 外部认知脚手架的实证证据
-> 在关于基础教育（Kindergarten through Twelfth Grade, K-12）学生的[[Meta-analysis|元分析]]中，AI 智能体展现出显著的正向促学增益（$g = 0.505$）。与传统静态多媒体呈现相比，AI 智能体能够动态评估学生的即时作答，并在其最近发展区内精准推送自适应微提示（Scaffolding [[Feedback]]），有效帮助中小学生克服独立解题阻碍。
-> 
-> 尤为突出的是，处于具体运算向形式运算过渡关键期的高小学段（4–6 年级）学生对 ZPD 自适应支架最为敏感，获益最高（$g = 0.877$）。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 7, 9–10)]]
+## 实证数据
+
+> [!effect-table]- 原始研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | ZPD 分步自适应微提示 [[Intelligent Tutoring Systems\|ITS]] vs. 常规解题 | 小学数学多位数除法步骤解题表现 | $N = 114$ | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；在学生 ZPD 动态提供微提示促进解题策略内化 |
+> | Feng & Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 具身双语伴读机器人支架 vs. 独立听读 | 小学低段英语口语与阅读理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；实体机器人作为更有能力的他人（MKO）提供情感与语言支架 |
+
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 机制[[Construct\|构念]]：自适应 AI [[AI Agent in Education\|智能体]]作为 ZPD 外部认知脚手架对 K-12 认知的总体促进效应 | $k = 73$ / $N = 3{,}042$ | Hedges' $g$ / 随机效应模型 | $g = 0.404$ $[0.242, 0.567]$ | $Q(72) = 813.56, p < .001, I^2 = 91.2\%$ | 证实自适应微提示在学习者 ZPD 内降低认知负荷并促进技能编译 |
+
+> [!ma-table]- 一阶元分析互补维度亚组
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 机制构念（学段干预敏感度） | 高小学段（4–6年级）ZPD 自适应支架 | $k = 28$ / — | $g = 0.877$ $[0.502, 1.253]$ | 学段间检验 $Q_B = 12.97, p = .005$ | 处于具体向形式运算过渡期，对 ZPD 自适应支架敏感度最高 |
 
 ---
 

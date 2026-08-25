@@ -15,7 +15,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
-  - "[[Procedural Skill]]"
+  - "[[Procedural Knowledge]]"
   - "[[Epistemic Stances]]"
   - "[[Received Knowledge]]"
   - "[[Subjective Knowledge]]"
@@ -64,7 +64,7 @@ updated: 2026-08-19
 
 > [!boundary]- 概念边界
 > - 不等于 **建构主义（Constructivism）中的"建构知识"** — 建构主义在描述学习过程时也常用"建构知识"一词，但其含义是所有学习者通过经验建立心理表征的普遍学习机制，并非特指一个认识论发展阶段。将两者混淆是该领域最常见的理论错误之一。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
-> - 不等于 **[[Procedural Knowledge|程序知识]]（[[Procedural Skill|Procedural Knowledge]]）阶段** — 在 Belenky et al. 的模型中，程序知识阶段在建构知识之前，个体已经能运用客观系统化程序，但尚未完成主客观的深度整合。
+> - 不等于 **[[Procedural Knowledge|程序知识]]（Procedural Knowledge）阶段** — 在 Belenky et al. 的模型中，程序知识阶段在建构知识之前，个体已经能运用客观系统化程序，但尚未完成主客观的深度整合。
 
 ---
 
@@ -75,7 +75,7 @@ updated: 2026-08-19
 > - **沉默（Silence）** 个体处于被动无声状态，完全听从外部权威，尚无自己的[[Epistemic Stances|认识论立场]]。
 > - **[[Received Knowledge|接收知识]]（Received Knowledge）** 知识依然来源于外部权威，个体能够复述和传递这些知识，但不会质疑其来源。
 > - **[[Subjective Knowledge|主观知识]]（Subjective Knowledge）** 真理的来源转向内心，知识是直觉的、个人的，认为每个人都有自己的有效观点。
-> - **[[Procedural Knowledge|程序知识]]（[[Procedural Skill|Procedural Knowledge]]）** 开始运用客观、系统的程序进行分析，分为分离型认知（批判、客观超然）与连结型认知（同理心、个人理解）两种亚类型。
+> - **[[Procedural Knowledge|程序知识]]（Procedural Knowledge）** 开始运用客观、系统的程序进行分析，分为分离型认知（批判、客观超然）与连结型认知（同理心、个人理解）两种亚类型。
 > - **建构知识（Constructed Knowledge）** 整合了主客观策略，认为知识和真理是情境化的、可被重构的，认知者自身是知识建构的紧密参与者。
 
 > [!framework-table] 跨模型阶段对照

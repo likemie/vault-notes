@@ -8,7 +8,7 @@ aliases:
 summary: "指个体在具体任务情境中应用规则、执行标准化操作序列与自动化解决良构问题的能力体系，在自适应教学微提示与刻意练习中极易实现图式编译与自动化运作。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 14
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,17 +18,17 @@ tags:
   - instructional-design
   - educational-assessment
 related_concepts:
+  - "[[Procedural Knowledge]]"
   - "[[Dependent Variable]]"
   - "[[Rote Learning]]"
   - "[[AI Agent in Education]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
-  - "[[Critical Thinking]]"
-  - "[[Creativity]]"
   - "[[Working Memory]]"
-  - "[[Heterogeneity]]"
-  - "[[Sample Size Determination]]"
+  - "[[Effect Size]]"
+  - "[[Dialogue in Education]]"
+  - "[[Intelligent Tutoring Systems]]"
 related_theories:
   - "[[Bloom's Taxonomy]]"
 related_methods:
@@ -71,8 +71,7 @@ updated: 2026-08-25
 > |---|---|---|---|
 > | **布鲁姆对应层级** | 识记（Remember）与理解（Understand） | 应用（Apply）与程序性分析 | 分析（Analyze）、评价（Evaluate）与创造（Create） |
 > | **表征形式** | 事实命题网络、概念定义与图式 | 条件-动作产生式规则序列（IF-THEN） | 劣构问题表征、[[Reflexivity\|反思性]][[Metacognition\|元认知]]与发散模型 |
-> | **典型测评方式** | 填空题、多选题、术语匹配测验 | 代码单元测试通过率、WCPM 口语流利度、解题得分 | 开放探究项目评审、[[Critical Thinking\|批判性思维]]量规、发散[[Creativity\|创造力]]评分 |
-> | **AI [[AI Agent in Education\|智能体]]干预效应** | $g = 0.344$（$p = .026$） | **$g = 0.391$（$p < .001$, 高度稳定）** | $g = 0.540$（$p = .066$, 异质性大） |
+> | **智能技术干预特征** | 适度增益（主要依托教材与讲授） | **稳固显著促进（自适应即时反馈与刻意练习）** | 增益高度依赖显性教学支架与反思量规 |
 
 ---
 
@@ -85,23 +84,28 @@ updated: 2026-08-25
 
 ---
 
-## 实证证据与元分析结果
+## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]实证结果
-> <span class="concept-meta-main-table-marker" aria-hidden="true"></span>
+> [!effect-table]- 原始研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 总体汇总效应与 95% CI | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 作为核心[[Dependent Variable\|因变量]]（AI [[AI Agent in Education\|智能体]]促进 K-12 程序技能） | $k = 42$ / 纳入研究 | Hedges' $g$，随机效应模型（REM） | $g = 0.391$, 95% CI [0.269, 0.513], $p < .001$ | $Q = 142.18, I^2 = 71.16\%$ | 样本量最大且统计检验最为稳健的因变量亚组；跨学科一致性强 |
+> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 智能语音[[Dialogue in Education\|对话]]机器人 vs. 常规听说教学 | EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；语音即时纠错对初中生口语操作技能产生强效增益 |
+> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 生成式 AI 辅导+反思量规 vs. 传统编程教学 | Python 编程代码调试与单元测试通过率 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；支架引导下的代码调试程序技能提升 |
+> | Tasdelen & Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 自适应分步微提示 [[Intelligent Tutoring Systems\|ITS]] vs. 常规解题练习 | 小学数学长除法步骤解题表现 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步提示加速算术程序自动化 |
+> | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 编程[[AI Agent in Education\|智能体]]语法纠错 vs. 传统教学 | 代码编写正确率与程序性调试表现 | $N = 78$ | — | Hedges' $g = 0.16$ | $p < .05$ | 实验设计；即时微提示辅助良构代码规则内化 |
 
-> [!empirical-case]- 经典实证测评案例
-> - **Python 编程代码单元测试通过率** 利用智能体提供代码语法纠错与调试微提示，学生程序编写正确率显著提升（Fang et al., 2025, $g = 0.40$; Ye et al., 2025, $g = 0.16$）。
-> - **外语口语阅读流利度测算** 通过智能语音机器人进行每分钟正确阅读字数（Words Correct Per Minute, WCPM）评估，口语操作技能大幅增强（Elmaadaway et al., 2025, $g = 2.12$）。
-> - **数学自适应步骤解题** 追踪解题步骤熟练度，获得稳固增益（Tasdelen & Bodemer, 2025, $g = 0.21$）。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 3–7)]]
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
+> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Dependent Variable\|结果变量]]（认知结果分类） | 技能类认知结果（Skill-Based Outcomes） | $k = 42$ / — | $g = 0.391$ $[0.197, 0.584]$ | $Q = 409.56, I^2 = 90.0\%, p < .001$ | 涵盖数学解题、编程调试、外语口语流利度等程序性技能，[[Effect Size\|效应量]]最大且统计检验高度稳定显著 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在[[Meta-analysis|元分析]]中将程序技能作为[[Sample Size Determination|样本量]]最大的[[Dependent Variable|因变量]]亚组（$k = 42, g = 0.391$），系统论证了自适应微提示通过分担外在负荷、加速图式编译实现程序技能稳固提升的心智机制。
+> - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 在[[Meta-analysis|元分析]]中将程序性技能作为证据量最大的[[Dependent Variable|结果变量]]亚组（$k = 42, g = 0.391$），论证了自适应即时反馈在分担外在认知负荷、加速产生式规则编译与技能自动化方面的稳固成效。
