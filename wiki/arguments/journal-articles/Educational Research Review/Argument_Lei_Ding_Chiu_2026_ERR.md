@@ -105,7 +105,7 @@ updated: 2026-08-25
 > |---|---|
 > | **文献检索与筛选**<br>Systematic Search & PRISMA | 系统检索 Web of Science、Scopus、ERIC、PsycINFO 与 CNKI 数据库（建库至 2024 年 1 月），采用图形组织器关键词（concept map, mind map, argument map, visual organizer 等）与高阶思维关键词（higher-order thinking, critical thinking, problem solving, creative thinking 等）布尔组合检索。依据严格的实验/准实验设计与完整统计量报告标准，依循系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）最终纳入 66 篇符合标准的实证文献（共 72 个效应量，图 3 PRISMA 流程图）。（pp.4–5） |
 > | **数据提取与质量评估**<br>Coding & Quality Assessment | 由两位研究者独立提取样本量、均值、标准差、$t/F/\chi^2$ 统计量及调节变量信息，编码者间一致性信度达 Krippendorff's $\alpha = 0.813$。采用 28 分制方法学质量量表评估各研究的组别等质性、测量信效度与控制严密性（纳入研究得分介于 17 至 28 分，$M = 23.6$）。（pp.5–8） |
-> | **效应量计算与统计建模**<br>Meta-Analysis & Meta-Regression | 计算无偏效应量 Hedge's $g$；采用 Cochrane's $Q$ 与 $I^2$ 检验效应异质性；鉴于初级研究在教学情境与人群上的异质性，采用**随机效应模型（Random-Effects Model）**估计总体效应；运用亚组 $Q_{between}$ 检验与 Wald $\chi^2$ 检验比较分类调节变量组间差异；运用单变量元回归（Meta-Regression）检验连续变量（GDP、发表年份、性别比例）。（pp.5–6, 9–10） |
+> | **效应量计算与统计建模**<br>Meta-Analysis & Meta-Regression | 计算无偏效应量 Hedge's $g$；采用 Cochrane's $Q$ 与 $I^2$ 检验效应异质性；鉴于初级研究在教学情境与人群上的异质性，采用**随机效应模型（Random-Effects Model）**估计总体效应；运用亚组 $Q_{between}$ 检验与[[Pairwise Wald Tests|成对 Wald 检验（Pairwise Wald Tests）]]比较分类调节变量组间及两两亚组差异；运用单变量[[Meta-regression|元回归（Meta-regression）]]检验连续型协变量（人均 GDP、发表年份、性别比例）。（pp.5–6, 9–10） |
 > | **发表偏倚诊断**<br>Publication Bias Diagnostics | 综合运用漏斗图（Funnel Plot）、Egger 线性回归检验、Begg 秩相关检验与 Rosenthal 故障安全数（Fail-Safe $N$）系统诊断潜在发表偏倚。（pp.6, 9） |
 
 > [!sample-panel]- 样本与材料快照
@@ -193,7 +193,7 @@ updated: 2026-08-25
 > 图形组织器的工具效能与其内在结构复杂度呈反比：单中心低开销的思维导图促学效应最强，依循严密逻辑的论证图次之，多向交叉的概念图相对最弱。
 
 > [!chain-link] 证据到判断
-> 组织器形态亚组分析显示出显著的级差分布：思维导图（$g = 1.041$）促学效应最强，显著高于论证图（$g = 0.798$）与概念图（$g = 0.548$）。三者两两之间均存在极显著差异，详细参数见表 4。（pp.9–10）
+> 组织器形态亚组分析显示出显著的级差分布：思维导图（$g = 1.041$）促学效应最强，显著高于论证图（$g = 0.798$）与概念图（$g = 0.548$）。[[Pairwise Wald Tests|成对 Wald 检验]]表明三者两两之间均存在极显著差异，详细参数见表 4。（pp.9–10）
 
 > [!factors] 图形组织器形态效能影响机制
 > - **思维导图的低心智门槛优势** 单一中心发散结构与自由联想规则最大化卸载了机械组织负担，让学习者能全力专注于观念生成与联想拓展。

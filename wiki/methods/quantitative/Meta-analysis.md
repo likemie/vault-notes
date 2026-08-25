@@ -2,12 +2,11 @@
 title: Meta-analysis
 aliases:
   - 元分析
-  - meta-analysis
 summary: "通过汇总多项独立初级研究的效应量来综合定量证据的统计方法体系，运用逆方差加权、异质性方差分解与元回归探索总体效应与变异来源"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 63
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -62,6 +61,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Systematic Review]]"
+  - "[[Pairwise Wald Tests]]"
   - "[[Robust Variance Estimation]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Cochran's Q Test]]"
@@ -156,6 +156,7 @@ flowchart TD
 > | **[[Trim and Fill Method\|剪补法（Trim & Fill）]]** | 非参数迭代剪除与镜像填补 | 估算缺失研究数量并在漏斗图对侧填补虚拟研究，重新计算校正后的合并效应量。 | 检验填补后效应量点估计降幅是否改变原有结论的[[Statistical Significance\|统计显著性]]与实践意义。 | 🔗 [[Trim and Fill Method]] |
 > | **[[Fail-Safe N\|失安全系数（Fail-Safe N）]]** | $N_{\text{fs}} = \frac{(\sum Z_i)^2}{2.706} - k$ | 极端抽屉文件敏感性测试：计算需多少篇零效应未发表研究才能推翻当前显著性。 | **Rosenthal 安全准则** 若 $N_{\text{fs}} > 5k + 10$，表明结论极难被未发表阴性文献推翻。 | 🔗 [[Fail-Safe N]] |
 > | **[[Meta-regression\|元回归（Meta-regression）]]** | $\theta_i = \beta_0 + \beta_1 X_{1i} + \dots + u_i + \epsilon_i$ | 将效应量作为[[Dependent Variable\|因变量]]，研究特征作为[[Independent Variable\|自变量]]，检验协[[Variable\|变量]]对效应量变异的调节解释力。 | $F$ 或 $Q_M$ 检验评价模型联合显著性；伪 $R^2$ 评估调节变量对异质性方差的解释率。 | 🔗 [[Meta-regression]] |
+> | **[[Pairwise Wald Tests\|成对 Wald 检验]]** | $W_{jk} = \frac{(\hat{\theta}_j - \hat{\theta}_k)^2}{v_j + v_k} \sim \chi^2(1)$ | 检验三个或更多分类亚组之间两两成对效应量差异的统计显著性与级差排序。 | $W > 3.84$ 判定两亚组间差异显著（$p < .05$）；配合事后多重检验校正。 | 🔗 [[Pairwise Wald Tests]] |
 > | **[[Three-Level Meta-Analysis\|三水平多层元分析]]** | Level 1: 抽样误差<br>Level 2: 研究内变异<br>Level 3: 研究间变异 | 处理单项研究报告多个相关效应量（多重测量/多结局）时的统计非独立性依赖。 | 似然比检验（LRT）比较二水平与三水平模型；分解 Level 2 与 Level 3 异质性方差占比。 | 🔗 [[Three-Level Meta-Analysis]] |
 
 ---

@@ -12299,8 +12299,7 @@
     "type": "method",
     "path": "wiki/methods/quantitative/Meta-analysis.md",
     "aliases": [
-      "元分析",
-      "meta-analysis"
+      "元分析"
     ]
   },
   {
@@ -12327,7 +12326,8 @@
     "path": "wiki/methods/quantitative/Meta-regression.md",
     "aliases": [
       "元回归",
-      "meta-regression analysis"
+      "meta-regression analysis",
+      "元回归分析"
     ]
   },
   {
@@ -12426,6 +12426,18 @@
     "path": "wiki/methods/quantitative/One-Group Pretest-Posttest Design.md",
     "aliases": [
       "单组前测后测设计"
+    ]
+  },
+  {
+    "title": "Pairwise Wald Tests",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Pairwise Wald Tests.md",
+    "aliases": [
+      "成对瓦尔德检验",
+      "两两瓦尔德检验",
+      "瓦尔德卡方检验",
+      "Pairwise Wald Test",
+      "Wald Chi-Square Test"
     ]
   },
   {
