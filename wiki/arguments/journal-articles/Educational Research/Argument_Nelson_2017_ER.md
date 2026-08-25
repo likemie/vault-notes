@@ -79,10 +79,10 @@ updated: 2026-08-26
 ## 研究问题
 
 > [!question]
-> [[Evidence-Informed Practice|EIP]] 讨论围绕三类问题组织：EIP 如何被定义与理解？证据知情的学校与教师如何实践，什么条件促成[[Knowledge Mobilisation|知识动员]]？EIP 的成果应如何测量？(p.127)
+> 关于[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP）的讨论围绕三类问题组织：EIP 如何被定义与理解？证据知情的学校与教师如何实践，什么条件促成[[Knowledge Mobilisation|知识动员]]？EIP 的成果应如何测量？(p.127)
 
 > [!claim] 核心主张
-> EIP 不是一维的使用研究，而是研究证据、系统数据、课堂数据与[[Professional Judgment|专业判断]]的多源整合；推进 EIP 的关键不在证据供给本身，而在[[Knowledge Mobilisation|知识动员]]的系统条件以及对成果的测量。
+> 证据知情实践（EIP）以研究证据、系统数据、课堂数据与[[Professional Judgment|专业判断]]的多源整合为核心；推进 EIP 的关键在[[Knowledge Mobilisation|知识动员]]的系统条件以及对成果的测量。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 英国、美国、加拿大、澳大利亚、荷兰等国的 EIP 定义讨论、知识动员策略与成果测量议程。
@@ -124,11 +124,11 @@ updated: 2026-08-26
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **特刊导言（Editorial）**<br>Special issue editorial | 以 2017 年《Educational Research》特刊导言形式撰写，综合特刊七篇论文的发现。 |
-> | **概念综合（Conceptual synthesis）**<br>Conceptual synthesis | 围绕定义、应用（知识动员条件）、成果与测量三轴整合来自澳大利亚、加拿大、英格兰、荷兰与美国的论文，并嵌入更广的 EIP 文献（[[Carol Weiss\|Weiss, 1979]]；Hargreaves, 1996；Goldacre, 2013；[[Anthony Bryk\|Bryk, 2015]] 等）。 |
+> | **概念综合（Conceptual synthesis）**<br>Conceptual synthesis | 围绕定义、应用（知识动员条件）、成果与测量三轴整合来自澳大利亚、加拿大、英格兰、荷兰与美国的论文，并嵌入更广的 EIP 文献（[[Carol Weiss\|Weiss, 1979]]; Hargreaves, 1996; Goldacre, 2013; [[Anthony Bryk\|Bryk, 2015]] 等）。 |
 > | **[[Analytic Framework\|分析框架]]** | 三个关键主题：[[Evidence-Informed Practice\|EIP]] 的定义（问题 1）；EIP 的应用与[[Knowledge Mobilisation\|知识动员]]条件（问题 4–5）；相关成果与测量挑战（问题 2–3）。(pp.127–128) |
 
 > [!note]-
-> 特刊导言属评论类，不提供新的实证数据，而是综合其他研究；因此不需要方法案例记录。
+> 特刊导言属评论类，综合其他研究而不提供新的实证数据；因此不需要方法案例记录。
 
 ---
 
@@ -151,42 +151,42 @@ updated: 2026-08-26
 
 ---
 
-### 论证步骤一　EIP 的长期诉求、草根转向与系统推进困境
+### 论证步骤一　证据知情实践（EIP）的长期诉求、草根转向与系统推进困境
 
 > [!claim] 定义分歧而非证据不足
-> [[Evidence-Informed Practice|EIP]] 并非新话题（Weiss, 1979；Hargreaves, 1996），几十年来已有多个项目改善证据质量、可理解性与影响，但系统层面实现 EIP 仍困难（Bryk et al., 2011; Durbin & Nelson, 2014）(p.127)。原因之一是 EIP 的"意义"缺乏共识：什么构成可靠证据？[[Experimental Research|实验研究]]是否总是"黄金标准"？教育者主导研究的地位如何？(pp.127–128)
+> [[Evidence-Informed Practice|EIP]] 并非新话题（Weiss, 1979; Hargreaves, 1996），几十年来已有多个项目改善证据质量、可理解性与影响，但系统层面实现 EIP 仍困难（Bryk et al., 2011; Durbin & Nelson, 2014）(p.127)。原因之一是 EIP 的意义缺乏共识：什么构成可靠证据？[[Experimental Research|实验研究]]是否总是黄金标准？教育者主导研究的地位如何？(pp.127–128)
 
 > [!timeline] EIP 发展的制度背景
-> - **1979** — Weiss (1979) 的[[Research Utilization|研究利用]]工作为"研究如何进入实践"提供早期基础。
+> - **1979** — Weiss (1979) 的[[Research Utilization|研究利用]]工作为研究如何进入实践提供早期基础。
 > - **1996** — Hargreaves (1996) 提出教学作为研究本位专业的主张，为教育证据使用争论提供政策起点。
 > - **2000s–2010s** — 英国教学与学习研究项目（Teaching and Learning Research Programme, TLRP）、美国问责政策变化、加拿大安大略省教育研究与评估战略等，共同推动 EIP 制度化讨论。
 > - **2013 起** — 英国[[ResearchED]] 运动兴起；证据知情特许教学学院（Chartered College of Teaching）成立；国际出现翻转系统（Flip the System）论述，强调教师[[Professional Judgment|专业判断]]优先于自上而下政策（Evers & Kneyber, 2015）。
 
 > [!chain-link] 证据到判断
-> 这些未决问题直接对应特刊征稿的概念问题（问题 1–3），说明定义分歧不是学术空谈，而是决定证据能否被教学专业接纳的前提：语义分歧既阻碍系统变革，又触及信念、所有权与相关性的核心。
+> 这些未决问题直接对应特刊征稿的概念问题（问题 1–3），说明定义分歧决定证据能否被教学专业接纳：语义分歧既阻碍系统变革，又触及信念、所有权与相关性的核心。此外，还需更好理解连接证据与实践的中介过程（p.128）。
 
 > [!implication]- 推论：从供给转向条件
-> 草根需求增长说明 EIP 不是简单地改善研究供给或增加研究需求（Nelson & O'Beirne, 2014），而需要关键前提条件到位，使教育者准备好批判、实施与改编证据（Roberts, 2015）。证据需被种在肥沃的土壤中才能生根[[Growth|成长]](p.127)。
+> 草根需求增长说明推进 EIP 需以关键前提条件到位为前提，使教育者准备好批判、实施与改编证据（Roberts, 2015; Nelson & O'Beirne, 2014）。证据需被种在肥沃的土壤中才能生根[[Growth|成长]](p.127)。
 
 ---
 
 ### 论证步骤二　从研究到证据知情的多源定义之争
 
 > [!claim] 三个语义争议
-> 精确定义 EIP 极具挑战，语义分歧表面上阻碍系统变革，实际上触及信念、所有权与相关性，并影响证据能否被教学专业接受(p.128)。三个争议问题：研究（research）与证据（evidence）是否同一？证据本位（evidence-based）与证据知情（evidence-informed）实践是否根本不同？（McFarlane, 2015）谁的主张算证据（Whose evidence counts?）
+> 精确定义 EIP 极具挑战，语义分歧表面上阻碍系统变革，实际上触及信念、所有权与相关性，并影响证据能否被教学专业接受(p.128)。许多利益相关者互换使用证据本位与证据知情两个术语。三个争议问题：研究（research）与证据（evidence）是否同一？（Nelson, 2014）证据本位（evidence-based）与证据知情（evidence-informed）实践是否根本不同？（McFarlane, 2015）谁的主张算证据（Whose evidence counts?）
 
 > [!tension] 证据本位 vs 证据知情
 > - **证据本位（Evidence-based）** 强调以研究证据（尤其高等级证据）驱动决策，易被读作照菜谱式执行与权威规定。
-> - **证据知情（Evidence-informed）** 把证据视为多种决策因素之一，由教育者以[[Professional Judgment|专业判断]]整合，而非只被研究或数据驱动。
+> - **证据知情（Evidence-informed）** 把证据视为多种决策因素之一，由教育者以[[Professional Judgment|专业判断]]整合，研究或数据只是输入之一。
 
 > [!chain-link] 证据到判断
-> Sharples (2013) 的界定支撑这一区分：证据本位实践不是照菜谱式教学，也不是从不容挑战的权威位置发号施令，而是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量(p.129)。
+> Sharples (2013) 的界定支撑这一区分：证据本位实践将专业技能与来自研究的最佳外部证据相结合以改善实践质量，而非照菜谱式执行或从不容挑战的权威位置发号施令(p.129)。
 
 > [!claim] 四源整合
-> 特刊传递的共同信息是 EIP 不是一维概念。LaPointe-McEwan、DeLuca 与 Klinger（皇后大学，安大略），以及 Brown、Schildkamp 与 Hubers（伦敦大学学院与特文特大学）均论证 EIP 必须被视为[[Professional Judgment|专业判断]]、系统层面数据、课堂数据与研究证据的整合(p.129)。
+> 特刊传递的共同信息是 EIP 需要多源整合：LaPointe-McEwan、DeLuca 与 Klinger（皇后大学，安大略），以及 Brown、Schildkamp 与 Hubers（伦敦大学学院与特文特大学）均论证 EIP 必须被视为[[Professional Judgment|专业判断]]、系统层面数据、课堂数据与研究证据的整合(p.129)。
 
 > [!warrant]- 推理桥梁
-> evidence-informed 与 research-informed 并非一回事：研究证据是证据知情拼图的重要一块，但不是全部。把 EIP 定义为多源整合，直接支撑后文两个主张：其一，谁的证据算数成为核心争议（步骤三）；其二，推进 EIP 需要关注[[Knowledge Mobilisation|知识动员]]的条件而非单纯供给（步骤四）。
+> evidence-informed 与 research-informed 不同：研究证据是证据知情拼图的重要一块，还需与数据及[[Professional Judgment|专业判断]]整合。把 EIP 定义为多源整合，直接支撑后文两个主张：其一，谁的证据算数成为核心争议（步骤三）；其二，推进 EIP 需要关注[[Knowledge Mobilisation|知识动员]]的系统条件（步骤四）。
 
 ---
 
@@ -194,7 +194,7 @@ updated: 2026-08-26
 
 > [!tension] 黄金标准 vs 多元证据
 > - **Goldacre（2013）·"什么有效"** 教育不是证据本位的，因为缺乏通过[[Randomised Controlled Trials|随机对照试验]]收集的稳健"什么有效"证据；英国随后发展 What Works Centres，美国出现联邦背书的"什么有效"方法论（Slavin, 2004; Easton, 2010）(p.128)。
-> - **Bredo（2006）·"什么重要"** 把教育研究窄化为实验的"什么有效"会排除"什么重要"等更广问题（另见 Nutley, Powell, & Davies, 2013）；EIP 不是纯粹技术活动，而受个人与专业价值观、信念及更广政治教育背景影响。
+> - **Bredo（2006）·"什么重要"** 把教育研究窄化为实验的"什么有效"会排除"什么重要"等更广问题（另见 Nutley, Powell, & Davies, 2013）；EIP 兼具技术性与价值性，受个人与专业价值观、信念及更广政治教育背景影响。
 
 > [!claim] 中间立场：[[Practice-Based Evidence|实践本位证据]]
 > Bryk (2015) 提出 [[Practice-Based Evidence|实践本位证据]]（practice-based evidence），认为教育者生成的细粒度、实践相关知识可形成性支持专业学习与学生成就；教育者研究常被贬为小规模、轶事性、不可复制（Borg, 2010; CUREE, 2011; Enthoven & de Bruijn, 2010; Wilkins, 2012），但实践中其使用往往超过原始研究(p.129)。
@@ -209,7 +209,7 @@ updated: 2026-08-26
 > Rickinson、de Bruin、Walsh 与 Hall（莫纳什大学与新西兰环境部）提出教育实践可从教育政策学习：政策制定本身就是一种实践，政策制定者与教育者使用的证据类型与种类高度相似。结果显示在政策与实践两端，人们倾向使用熟悉而非适切任务的证据；可得证据与适切证据的区分（Earl & Timperley, 2009）横跨政策与实践，适切性必须结合情境判断、不能预设(pp.129–130)。
 
 > [!implication]- 推论
-> 这些讨论把"证据"从单数（研究）扩展为复数（研究、数据、实践知识），为知识动员的多元策略提供铺垫。
+> 这些讨论把证据从单数（研究）扩展为复数（研究、数据、实践知识），为知识动员的多元策略提供铺垫。同时，将"什么有效"的学习嵌入整个教育系统仍具挑战（Becheikh et al., 2009; CUREE, 2011; Gough, 2013; Sharples, 2013）(p.128)。
 
 ---
 
@@ -231,7 +231,7 @@ updated: 2026-08-26
 > Campbell、Pollock、Briscoe、Carr-Harris 与 Tuters（多伦多大学安大略教育研究院与西安大略大学）提供政府-大学伙伴关系案例：知识网络应用教育研究（Knowledge Network in Applied Education Research, KNAER）以多方利益相关者支持研究与实践活动，意图在整个教育系统动员研究(p.130)。关键发现是证据的生产者与使用者往往都不知道如何真正动员知识；全系统策略、具体工具、资源与[[Research-Practice Partnership|研究-实践伙伴关系]]（Research-Practice Partnership, RPP）能力建设随时间逐步发展(p.131)。结论是"优质产品、协作关系与系统层面能力建设承诺的融合，对真正实现证据知情的知识动员至关重要"。
 
 > [!chain-link] 证据到判断
-> [[Evidence-Based Education|循证教育]]研究使用中心（Centre for Use of Research and Evidence in Education, [[Centre for the Use of Research and Evidence in Education|CUREE]]）(2011) [[Systematic Review|系统综述]]早已指出实践者参与研究在英国专业发展中日益普遍，但仍路漫漫其修远（there is still a long way to go）；[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）也对丹麦、墨西哥、新西兰、瑞士与英格兰开展研究使用改进综述。知识动员因此既需研究者提高清晰、可及、有效的传播能力，也需关注如何让证据进入实践并反之亦然（Campbell 等）(pp.130–131)。
+> [[Evidence-Based Education|循证教育]]研究使用中心（Centre for Use of Research and Evidence in Education, [[Centre for the Use of Research and Evidence in Education|CUREE]]）(2011) [[Systematic Review|系统综述]]早已指出实践者参与研究在英国专业发展中日益普遍，对教学实践与学生学习具有潜在益处，但仍路漫漫其修远（there is still a long way to go）；[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）也对丹麦、墨西哥、新西兰、瑞士与英格兰开展研究使用改进综述。知识动员因此既需研究者提高清晰、可及、有效的传播能力，也需关注如何让证据进入实践并反之亦然（Campbell 等）(pp.130–131)。
 
 > [!warrant]- 推理桥梁
 > 肥沃的土壤隐喻说明证据需被种在肥沃土壤中才能生根成长(p.127)：关键前提是教育者准备好批判、实施与改编证据（Roberts, 2015）。因此 EIP 的推进条件是系统性的，比证据供给更根本；但哪些具体的策略组合对特定成果影响最大，仍需进一步研究(p.131)。
@@ -241,7 +241,7 @@ updated: 2026-08-26
 ### 论证步骤五　成果测量存在知识与方法双重缺口
 
 > [!claim] 两个知识缺口
-> 征稿时识别的两个缺口：(a) 如何测量并理解教学专业中 EIP 的程度；(b) EIP 对教学实践与学习者成果的影响（如有）(p.131)。测量困难首先因为依赖定义清晰，其次要求判断测量哪些特征、以什么证据判断是否达成 EIP。Dagenais et al. (2012) 发现关于 EIP 影响（及收益）的证据稀少；虽有研究表明 EIP 可促进学校改进（CUREE, 2011; Greany, 2015; Schleicher, 2011），仍需更严格的定性与定量评价。
+> 征稿时识别的两个缺口：(a) 如何测量并理解教学专业中 EIP 的程度；(b) EIP 对教学实践与学习者成果的影响（如有）(p.131)。测量困难首先因为依赖定义清晰，其次要求判断测量哪些特征、以什么证据判断是否达成 EIP。Dagenais et al. (2012) 发现关于 EIP 影响（及收益）的证据稀少；虽有研究表明 EIP 可促进学校改进（CUREE, 2011; Greany, 2015; Schleicher, 2011），仍需更严格的定性与定量评价。虽有多项精密的测量工作正在进行，但大多仍处于开发阶段、尚未到报告阶段。
 
 > [!ref-table]- 测量研究使用的主要工作
 > | 地区 | 机构 | 工作内容 |
@@ -314,7 +314,7 @@ updated: 2026-08-26
 ## 自述局限
 
 > [!warning]
-> - **定义未定** 确保 [[Evidence-Informed Practice|EIP]] 的精确定义具有挑战性，未给出[[Definition of Terms|操作性定义]]，而是把定义多元性作为待解决的问题记录(p.128)。
+> - **定义未定** 确保 [[Evidence-Informed Practice|EIP]] 的精确定义具有挑战性，未给出[[Definition of Terms|操作性定义]]，把定义多元性作为待解决的问题记录(p.128)。
 > - **测量薄弱** 特刊没有收到许多详细考虑这些问题的论文，测量挑战被提出但远未解决(p.132)。
 > - **策略组合未知** 哪些具体的 EIP 策略、过程与活动组合对特定成果影响最大，仍需进一步研究(p.131)。
 > - **仍需更多证据** EIP 在实践中的应用与成果的证据依然缺乏。

@@ -44,12 +44,12 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 研究知情教学实践（Research-Informed Teaching Practice, RITP）指以学术研究证据为依据组织课堂教学实践的取向，研究证据是实践决策的重要输入，但不等同于全部证据。[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 明确指出，evidence-informed 与 research-informed 并非一回事：研究证据只是证据知情拼图（evidence-informed [[Jigsaw]]）中的一块；特刊中 Brown 等（本特刊）把 RITP 与[[Data-Based Decision Making|基于数据的决策]]视为两个世界，主张在证据知情系统中二者应被整合。
+> 研究知情教学实践（Research-Informed Teaching Practice, RITP）指以学术研究证据为依据组织课堂教学实践的取向，研究证据是实践决策的重要输入，但不等同于全部证据。[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 明确指出，evidence-informed 与 research-informed 不同：研究证据只是证据知情拼图（evidence-informed [[Jigsaw]]）中的一块；特刊中 Brown 等（本特刊）把 RITP 与[[Data-Based Decision Making|基于数据的决策]]视为两个世界，主张在证据知情系统中二者应被整合。
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注研究证据在课堂实践中的位置与作用方式，强调它应当进入而非取代[[Professional Judgment|专业判断]]。
 > - **用途** 帮助区分"以研究为依据的教学"与"以校内数据为依据的决策"，并说明为何单纯的[[Research Utilization|研究使用]]不等于[[Evidence-Informed Practice|证据知情实践]]。
-> - **边界** RITP 只覆盖研究证据一条渠道；完整的[[Evidence-Informed Practice|EIP]]还包括数据、[[Professional Judgment|专业判断]]与系统信息。
+> - **边界** RITP 只覆盖研究证据一条渠道；完整的证据知情实践（Evidence-Informed Practice, EIP）还包括数据、[[Professional Judgment|专业判断]]与系统信息。
 
 > [!boundary]- 概念边界
 > - 不等于 [[Evidence-Informed Practice|证据知情实践]] — 研究证据是 EIP 的一个组成部分，EIP 更强调多源整合。
