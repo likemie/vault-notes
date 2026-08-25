@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Social Interdependence Theory
@@ -114,7 +114,7 @@ updated: 2026-08-24
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **目标驱动互动** | 积极互赖激发促进性[[Dialogue in Education\|对话]]与知识重构，消极互赖引发防守与阻碍 | 全学段各类协同学习与群体组织情境 | Deutsch (1949); Johnson & Johnson (2009) |
-> | **互赖与责任协同** | 积极互赖与个体责任严格绑定才能消除搭便车并保障认知增益 | 课堂教学技术选型与小组绩效评价 | Slavin (2014); Güngör et al. (2026) |
+> | **互赖与责任协同** | 积极互赖与个体责任严格绑定才能消除搭便车并保障认知增益 | 课堂教学技术选型与小组绩效评价 | Slavin (2014); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-08-24
 > - **1930s–1940s — 格式塔心理学与 Lewin 动力场理论** [[Kurt Lewin]] 提出群体是成员互赖的动力整体，群体紧张状态决定了个体的动机与行为。
 > - **1949 — Morton Deutsch 合作与竞争理论** Deutsch 在哥伦比亚大学正式提出社会互赖理论的原型，区分积极互赖与消极互赖的三大心理效应。
 > - **1970s–1980s — Johnson 兄弟教育学转化** David Johnson 与 Roger Johnson 创立明尼苏达大学[[Cooperative Learning|合作学习]]中心，将理论[[Operationalization|操作化]]为“五大支柱要素”与“共同学习法（Learning Together）”。
-> - **2020s 至今 — [[Meta-meta-analysis|二阶元分析]]跨学科普适性确立** Güngör et al. (2026) 等研究者通过二阶[[Meta-analysis|元分析]]证实，社会互赖理论阐释的促进性互动机制在语言、理科、社科与高等专业教育中均具有稳健效力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
+> - **2020s 至今 — [[Meta-meta-analysis|二阶元分析]]跨学科普适性确立** [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 等研究者通过二阶[[Meta-analysis|元分析]]证实，社会互赖理论阐释的促进性互动机制在语言、理科、社科与高等专业教育中均具有稳健效力。[[Argument_Gungor_2026_CP|(Güngör et al., 2026)]]
 
 ---
 

@@ -92,7 +92,7 @@ flowchart LR
 
 ## 实证表现
 
-> [!effect-table]- [[Meta-analysis|元分析]]实证数据（Abrami et al., 2015）
+> [!effect-table]- [[Meta-analysis|元分析]]实证数据（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）
 > | 测量指标 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 实践启示 |
 > |---|---|---|---|---|---|
 > | **通用[[Critical Thinking\|批判性思维]]技能** | 152 | **0.29** | 0.23 | 0.36 | 显著优于隐性沉浸模式（$g+ = 0.23$），在常规课时不增加的前提下稳步提升通用思维。 |

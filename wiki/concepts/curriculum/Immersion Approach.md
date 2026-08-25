@@ -77,7 +77,7 @@ flowchart TD
 
 ---
 
-## 实证表现（Abrami et al., 2015）
+## 实证表现（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）
 
 > [!effect-table]- [[Meta-analysis|元分析]]实证数据对比
 > | 课程模式分类 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 相对表现 |

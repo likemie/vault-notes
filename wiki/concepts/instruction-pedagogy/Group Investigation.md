@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Group Investigation
@@ -121,7 +121,7 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **开放探究与高阶赋能** | 自主选题、多源调查与集体汇报极大激发批判探究与学科情感 | K-12 与高等教育跨学科/科学/社科探究 | Sharan & Sharan (1992); Güngör et al. (2026) |
+> | **开放探究与高阶赋能** | 自主选题、多源调查与集体汇报极大激发批判探究与学科情感 | K-12 与高等教育跨学科/科学/社科探究 | Sharan & Sharan (1992); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 
 ---
 

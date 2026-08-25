@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Cooperative Integrated Reading and Composition
@@ -120,7 +120,7 @@ updated: 2026-08-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **读写整合高效益** | 配对朗读与清单互评打破读写割裂，干预成效居合作学习各技术之首 | 中小学语言、母语及第二语言读写教学 | Stevens et al. (1987); Slavin (1995); Güngör et al. (2026) |
+> | **读写整合高效益** | 配对朗读与清单互评打破读写割裂，干预成效居合作学习各技术之首 | 中小学语言、母语及第二语言读写教学 | Stevens et al. (1987); Slavin (1995); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 
 ---
 

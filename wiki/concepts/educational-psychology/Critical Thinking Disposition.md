@@ -69,7 +69,7 @@ updated: 2026-08-25
 
 > [!boundary]- 概念边界
 > - 不等于 **批判性思维认知技能（CT Cognitive Skills）** — 技能处理的是分析、评估、推理与自我调节的技术能力（How to think）；倾向处理的是在何时、出于何种内在动力去运用这些技术的习惯与承诺（Why & When to think）。
-> - 不等于 **人格特质（Personality Traits）** — 大五人格等特质具有高度生物遗传性与跨情境稳定性；而批判性思维倾向更接近于“认知习性（Epistemic Virtues）”，受教育干预的显著调节（Abrami et al., 2015）。
+> - 不等于 **人格特质（Personality Traits）** — 大五人格等特质具有高度生物遗传性与跨情境稳定性；而批判性思维倾向更接近于“认知习性（Epistemic Virtues）”，受教育干预的显著调节（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）。
 
 ---
 
