@@ -1,6 +1,7 @@
 ---
 citation: "Mausethagen, S., Hermansen, H., Afdal, H., Lorentzen, M., & Holmeide, H. (2025). A systematic critical review of research on ‘research use’ in education: Towards more profession-sensitive conceptualisations. Educational Research Review, 49, Article 100740. https://doi.org/10.1016/j.edurev.2025.100740"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Mausethagen_2025_ERR]]"
 processed_date: 2026-08-26
 ---
 

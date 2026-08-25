@@ -24,8 +24,8 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemology]]"
   - "[[Value-Based Education]]"
+  - "[[Deficit Framing]]"
   - "[[Paradigm]]"
-  - "[[Praxis]]"
   - "[[Phronesis]]"
   - "[[Learnification]]"
   - "[[Complexity Reduction]]"
@@ -76,7 +76,7 @@ updated: '2026-06-08'
 > [!abstract] 主要著作
 > - Biesta, G. J. J., & Burbules, N. (2003). *pragmatism and educational research*. Rowman & Littlefield. — 交易[[Epistemology|认识论]]的代表性阐述
 > - Biesta, G. J. J. (2007a). Why 'what works' won't work: Evidence-based practice and the democratic deficit of educational research. *Educational Theory*, 57(1), 1–22. — 对[[Evidence-Based Education|证据本位教育]]的首次系统批判
-> - Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to [[Value-Based Education]]. *Studies in Philosophy and Education*, 29(5), 491–503. — 三重缺陷框架的系统阐述
+> - Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to [[Value-Based Education]]. *Studies in Philosophy and Education*, 29(5), 491–503. — 三重[[Deficit Framing|缺陷框架]]的系统阐述
 > - Biesta, G. J. J. (2010a). *Good education in an age of measurement: Ethics, politics, democracy*. [[Paradigm]] Publishers. — 教育目的论的核心著作，提出资格化/社会化/主体化三维框架
 > - Biesta, G. J. J. (2017). *The rediscovery of teaching*. Routledge. — 对"以学代教"趋势的批判
 > - Biesta, G. J. J. (2022). *World-centred education: A view for the present*. Routledge. — 教育的存在论转向
@@ -84,7 +84,7 @@ updated: '2026-06-08'
 ## 核心思想
 
 > [!info] 核心思想
-> Biesta 的学术关注核心是**教育的目的性与规范性**——即教育不是一个仅仅关于"使事物发生"的技术性[[Praxis|实践]]，而是一个**目的驱动的规范性实践**。这一立场贯穿于他的三个主要研究方向：
+> Biesta 的学术关注核心是**教育的目的性与规范性**——即教育不是一个仅仅关于"使事物发生"的技术性实践，而是一个**目的驱动的规范性实践**。这一立场贯穿于他的三个主要研究方向：
 >
 > 1. **对[[Evidence-Based Education|证据本位教育]]的批判** Biesta 是证据本位教育最有力、最有系统的批评者之一。他先后提出"民主缺陷"（2007a）和"三重缺陷"框架（2010），从[[Epistemology|认识论]]、存在论和实践论三个维度拆解了"研究证据应成为教育实践的基础"这一主张。
 >
@@ -98,7 +98,7 @@ updated: '2026-06-08'
 
 > [!success] 主要贡献
 > - [[Transactional Epistemology]] — 与 Burbules (2003) 合作系统阐述 Dewey 的交易[[Epistemology|认识论]]对教育研究的意涵
-> - [[Evidence-Based Education]] — 提出了证据本位教育在认识论、存在论和[[Praxis|实践]]论维度的三重缺陷
+> - [[Evidence-Based Education]] — 提出了证据本位教育在认识论、存在论和实践论维度的三重缺陷
 > - [[Value-Based Education]] — 提出价值而非证据应构成教育实践的基础
 > - [[Learnification]] — 提出概念描述学习被效果中心的结果逻辑所吞噬、教师被降格为"学习促进者"的现象([[Argument_Larsen_2019_EducSci|Larsen, 2019, p.2 引用]])
 > - [[Complexity Reduction]] — 引入概念，解释为何在非决定论系统中事物仍能"运作"，将其定义为政治行为
@@ -127,6 +127,6 @@ updated: '2026-06-08'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - **哲学论证的实操距离** 批评者（包括部分赞同其批判的学者）指出 Biesta 的论证停留在哲学层面，未提供[[Value-Based Education|价值本位教育]]在教师教育和课堂[[Praxis|实践]]中的操作路线图。Cartwright & Hardie (2012) 从交易[[Epistemology|认识论]]视角提供了部分操作性回应，但 Biesta 本人未进行这一层面的工作。
+> - **哲学论证的实操距离** 批评者（包括部分赞同其批判的学者）指出 Biesta 的论证停留在哲学层面，未提供[[Value-Based Education|价值本位教育]]在教师教育和课堂实践中的操作路线图。Cartwright & Hardie (2012) 从交易[[Epistemology|认识论]]视角提供了部分操作性回应，但 Biesta 本人未进行这一层面的工作。
 > - **"反证据"的误读风险** Biesta 反复强调"证据从属但仍有角色"，但其对 [[Evidence-Based Education|EBE]] 的全面批判在实际传播中常被简化为"Biesta 反对在教育中使用证据"——尽管他明确否认这一立场。这一误读在政策辩论中削弱了其批判的建设性面向。
 > - **价值冲突的处理不足** Biesta 将教育目的定义为需通过民主协商确定，但未充分展开多元社会中价值冲突的解决机制——不同群体对"教育应该培养什么样的人"存在根本分歧。

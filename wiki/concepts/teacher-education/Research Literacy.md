@@ -6,15 +6,37 @@ aliases:
 summary: "指专业人员以维护专业实践完整性的方式理解、评估与整合研究的能力与德性，被视为教师在有效性与恰当性之间进行专业判断的中介素养"
 type: concept
 domain: "teacher-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/teacher-education
   - theme/research-use
   - theme/professional-agency
   - theme/evidence-informed-practice
+related_concepts:
+  - "[[Professional Judgment]]"
+  - "[[Areas of Knowledge]]"
+  - "[[Evaluation Research]]"
+  - "[[School Leadership]]"
+  - "[[Phronesis]]"
+  - "[[Teacher Professional Agency]]"
+  - "[[Research Utilization]]"
+  - "[[Deficit Framing]]"
+  - "[[Document]]"
+  - "[[Operationalization]]"
+  - "[[Paradigm]]"
+  - "[[Effect Size]]"
+  - "[[Variable]]"
+  - "[[Questionnaire]]"
+related_methods:
+  - "[[Case Study]]"
+  - "[[Systematic Review]]"
+  - "[[Critical Review]]"
+related_arguments:
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Mausethagen_2025_ERR]]"
 confidence: high
 status: draft
 created: 2026-08-25
@@ -88,7 +110,7 @@ updated: 2026-08-26
 > 主张以"技艺"理解专业工作，[[Research Utilization|研究使用]]不是简单执行研究结论，而是带着判断的再情境化。
 
 > [!claim] Eriksen (2022); Mausethagen & Hermansen (2023)
-> **技艺模型与再情境化裁决** 反对把专业实践理解为“艺术／科学”的两极对立，主张通过技艺模型（craft model）看待专业：完整性、讲理与灵活性是专业性的主要属性，研究素养作为德性在什么有效与什么恰当之间发挥中介作用。挪威案例研究进一步表明，教师与领导者对研究的选择、改编与协商兼具转化性与探索性。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.4)]]
+> **技艺模型与再情境化裁决** 反对把专业实践理解为“艺术／科学”的两极对立，主张通过技艺模型（craft model）看待专业：完整性、讲理与灵活性是专业性的主要属性，研究素养作为德性在什么有效与什么恰当之间发挥中介作用。挪威[[Case Study|案例研究]]进一步表明，教师与领导者对研究的选择、改编与协商兼具转化性与探索性。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.4)]]
 
 ---
 
@@ -97,7 +119,7 @@ updated: 2026-08-26
 > [!concept-lens] 培养条件与系统责任
 > 研究素养不只是个人天赋，其形成条件涉及初始教师教育、持续专业发展与系统层面的技能发展安排。
 
-> [!claim] Hagevold et al. (2026)
+> [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]
 > **跨层技能发展机制支撑** 研究素养是把研究知识与[[Phronesis|实践智慧]]调和在一起的专业德性，因此技能发展是超出个体层面的系统责任，需要从初始教师教育与持续专业发展如何赋能个体深思熟虑参与与整合研究切入。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.18)]]
 
 ---
@@ -107,8 +129,8 @@ updated: 2026-08-26
 > [!concept-lens] 知识整合德性与赤字解构
 > 批判将研究素养降格为个体技能赤字指标的倾向，将其重构为第四代专业敏感型多源知识整合能力。
 
-> [!claim] Mausethagen et al. (2025)
-> **超越赤字框架的知识整合实践** 传统文献倾向于将研究素养窄化为信息检索与统计阅读技能，陷入[[Deficit Framing in Research Use|赤字框架]]，将使用不足简化为教师个体的素养缺陷；第四代专业敏感型框架表明，真正的研究素养体现在教师将外源研究与学科教学知识、学生情境动态权衡的整合能力，以及在教育伦理冲突中作出审慎判断的专业德性。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 6–8)]]
+> [!claim] [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]
+> **超越[[Deficit Framing|赤字框架]]的知识整合实践** 传统[[Document|文献]]倾向于将研究素养窄化为信息检索与统计阅读技能，陷入[[Deficit Framing|赤字框架]]，将使用不足简化为教师个体的素养缺陷；第四代专业敏感型框架表明，真正的研究素养体现在教师将外源研究与学科教学知识、学生情境动态权衡的整合能力，以及在教育伦理冲突中作出审慎判断的专业德性。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 6–8)]]
 
 ---
 
@@ -126,10 +148,10 @@ updated: 2026-08-26
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2000s–2010s — 信息素养与实证技能测度** 文献多将研究素养操作化为信息检索、科研文献阅读与数据分析技能（Williams & Coles, 2007; Brown & Zhang, 2016）。
+> - **2000s–2010s — 信息素养与实证技能测度** [[Document|文献]]多将研究素养[[Operationalization|操作化]]为信息检索、科研文献阅读与数据分析技能（Williams & Coles, 2007; Brown & Zhang, 2016）。
 > - **2022 — 技艺模型与专业德性转向** Eriksen（2022）把研究素养界定为专业德性，在技艺模型框架下提出完整性、讲理与灵活性三德性及三种敏感度。
 > - **2023 — 案例应用与再情境化** Mausethagen & Hermansen (2023) 在挪威学校案例中展示研究素养在实践中的再情境化过程。
-> - **2025 — 赤字批判与专业敏感重构** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判既有文献将研究素养矮化为个体技能“赤字”的偏见，确立第四代专业敏感型多源知识整合范式。
+> - **2025 — 赤字批判与专业敏感重构** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判既有文献将研究素养矮化为个体技能“赤字”的偏见，确立第四代专业敏感型多源知识整合[[Paradigm|范式]]。
 > - **2026 — 纳入跨层治理机制** Hagevold 等人（2026）把研究素养与技能发展机制联系起来，主张技能发展是超出个体层面的系统责任。
 
 ---
@@ -141,8 +163,8 @@ updated: 2026-08-26
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究 | [[Systematic Review\|系统综述]]＋框架综合 | 技能发展与个体能力主题报告频数 | k = 91 项研究（83%）涉及个体技能与素养 | — | 显示既有文献高度聚焦于个体技能测量，存在个体层面偏倚 |
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋PRISMA 检索 | 研究素养调查设计与实证结论 | 13 项问卷调查均测出教师态度积极，但 100% 实证研究报告实际使用有限 | — | 表明仅测量个体研究素养无法解释实际使用困境，存在态度与行动的严重脱节 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究 | [[Systematic Review\|系统综述]]＋框架综合 | 技能发展与个体能力主题报告频数 | k = 91 项研究（83%）涉及个体技能与素养 | — | 显示既有[[Document\|文献]]高度聚焦于个体技能测量，存在个体层面偏倚 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋PRISMA 检索 | 研究素养调查设计与实证结论 | 13 项[[Questionnaire\|问卷调查]]均测出教师态度积极，但 100% 实证研究报告实际使用有限 | — | 表明仅测量个体研究素养无法解释实际使用困境，存在态度与行动的严重脱节 |
 
 ---
 
@@ -154,8 +176,8 @@ updated: 2026-08-26
 > > 传统实证研究往往将研究素养简化为可通过标准化测试或培训提升的个体技能，并将其作为诊断教师“能力缺陷”的指标；批判学者则主张研究素养是一种实践德性，必须置于学校生态与知识整合中考量。
 > >
 > > - **Williams & Coles (2007); Brown & Zhang (2016)** 侧重测量个体教师的信息素养与研究态度。
-> > - **Mausethagen et al. (2025)** 批判个体测量助长了赤字话语，掩盖了教师在价值冲突与情境权衡中的专业理性。
-> > - **Hagevold et al. (2026)** 强调若脱离组织与系统的可持续结构与信任机制，单靠提升个体研究素养无法促成深度研究使用。
+> > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判个体测量助长了赤字话语，掩盖了教师在价值冲突与情境权衡中的专业理性。
+> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 强调若脱离组织与系统的可持续结构与信任机制，单靠提升个体研究素养无法促成深度[[Research Utilization|研究使用]]。
 
 ---
 
@@ -163,4 +185,4 @@ updated: 2026-08-26
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 把研究素养作为先验框架中"恰当研究"的判断敏感度来源，并在讨论中将其纳入跨层技能发展机制。
-> - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 系统审视了 30 年来将研究素养作为个体赤字指标的文献倾向，主张转向以多源知识整合与专业规范为支撑的[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型概念化]]。
+> - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 系统审视了 30 年来将研究素养作为个体赤字指标的[[Document|文献]]倾向，主张转向以多源知识整合与专业规范为支撑的专业敏感型概念化。

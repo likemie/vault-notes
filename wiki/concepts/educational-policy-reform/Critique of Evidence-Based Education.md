@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 74
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Fade-out Effect]]"
   - "[[New Public Management]]"
   - "[[Material Fallacies]]"
+  - "[[Deficit Framing]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -308,7 +309,7 @@ updated: 2026-07-15
 ## 相关研究
 
 > [!evidence-grid-a] 核心[[Document|文献]]索引
-> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 从[[Epistemology|认识论]]、存在论和实践论三维提出 [[Evidence-Based Education|EBE]] 的三重缺陷框架
+> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 从[[Epistemology|认识论]]、存在论和实践论三维提出 [[Evidence-Based Education|EBE]] 的三重[[Deficit Framing|缺陷框架]]
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]为框架系统解构 EBE 的方法论预设，揭示施为者悖论
 > - [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] — 运用 Goldman 区分理论论证 EBE 在原则上不可完成
 > - [[Argument_Wrigley_2019_ERE|Wrigley & McCusker (2019)]] — 以 [[Education Endowment Foundation|EEF]] Toolkit 案例追踪[[Meta-meta-analysis|元-元分析]]三级失真，提出简单科学观批判

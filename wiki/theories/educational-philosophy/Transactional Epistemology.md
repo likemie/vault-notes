@@ -5,7 +5,7 @@ aliases:
 summary: "Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Objectivism]]"
   - "[[Evidence-Based Education]]"
+  - "[[Deficit Framing]]"
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Realism in International Relations]]"
@@ -85,7 +86,7 @@ updated: 2026-07-10
 > - **1983** — Bernstein 在 *Beyond [[Objectivism]] and Relativism* 中重新阐释 Dewey 的[[Epistemology|认识论]]，挑战客观主义/相对主义的二元对立
 > - **2003** — Biesta & Burbules 在 *pragmatism and Educational Research* 中系统阐述交易认识论对教育研究的意义
 > - **2007** — Biesta 在 "Why 'What Works' Won't Work" 中首次将交易认识论应用于对[[Evidence-Based Education|证据本位教育]]的批判
-> - **2010** — 本文将交易认识论确立为三重缺陷框架的认识论支柱
+> - **2010** — 本文将交易认识论确立为三重[[Deficit Framing|缺陷框架]]的认识论支柱
 
 ## 研究范式
 

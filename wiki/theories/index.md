@@ -57,7 +57,7 @@ Total entries: **123**
 
 > [!index-list]- Educational Policy Reform (3)
 > - [[Four Generations of Research Use]] — 梳理公共部门与教育领域证据使用思维演进的分析框架，从理性-线性（第一代）、关系网络（第二代）、系统全局（第三代）递进至以教师多源知识整合与专业规范为核心的专业敏感型（第四代）模型
-> - [[Governing Mechanisms of Research Use]] — 由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同治理学校中的研究使用
+> - [[Governing Mechanisms of Research Use]] — 由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用
 > - [[Quality Use of Research Evidence Framework]] — 由澳大利亚 Monash Q 项目提出的研究使用框架，把质量使用定义为对恰当研究证据的深思熟虑参与与实施，并受个体、组织与系统多层促成因素支持，是理解学校如何用对研究的中层分析框架
 
 > [!index-list]- Educational Psychology (10)

@@ -9,7 +9,7 @@ title: "Argument_Biesta_2010_SPE"
 argument_key: "Argument_Biesta_2010_SPE"
 argument_display_title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Document]]"
+  - "[[Deficit Framing]]"
   - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Causality]]"
@@ -86,7 +87,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> ### 三重缺陷框架
+> ### 三重[[Deficit Framing|缺陷框架]]
 >
 > Biesta 在[[Epistemology|认识论]]、存在论和实践论三个维度逐一拆解[[Evidence-Based Education|证据本位教育]]的前提[[Hypothesis|假设]]。
 >

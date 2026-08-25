@@ -9,15 +9,43 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型，受宏观政治议程、中观跨层治理机制以及微观专业知识整合与价值规范的共同制约"
 type: concept
 domain: "educational-policy-reform"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - topic/educational-policy
   - topic/evaluation
   - theme/research-use
   - theme/evidence-informed-practice
+related_concepts:
+  - "[[Phronesis]]"
+  - "[[Scale in Higher Education]]"
+  - "[[Dialogue in Education]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Paradigm]]"
+  - "[[Conflict of Interest in Research]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Champ]]"
+  - "[[Deficit Framing]]"
+  - "[[Document]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Effect Size]]"
+  - "[[Variable]]"
+  - "[[Questionnaire]]"
+  - "[[Problem Finding]]"
+  - "[[Positivism]]"
+  - "[[Profession-Sensitive Conceptualisations of Research Use]]"
+related_methods:
+  - "[[Framework Synthesis]]"
+  - "[[Critical Review]]"
+  - "[[Systematic Review]]"
+  - "[[Mixed Methods Research]]"
+related_instruments:
+  - "[[Mixed Methods Appraisal Tool]]"
+related_arguments:
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Mausethagen_2025_ERR]]"
 confidence: high
 status: draft
 created: 2026-06-17
@@ -40,16 +68,16 @@ updated: 2026-08-26
 
 > [!boundary]- 概念边界
 > - 不等于 评估利用（Evaluation Utilization） — Alkin 等（1991）指出，评估利用通常针对具体特定项目的改进决策；研究利用则指向更广泛、更具概括性的理论概念与普遍经验命题的扩散与渗透。
-> - 不等于 机械照搬与盲从 — 研究利用不是对外部研究处方的无条件执行，而是专业行动者在实践智慧与伦理规范约束下展开的批判性裁决与情境化整合。
+> - 不等于 机械照搬与盲从 — 研究利用不是对外部研究处方的无条件执行，而是专业行动者在[[Phronesis|实践智慧]]与伦理规范约束下展开的批判性裁决与情境化整合。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 研究利用的多尺度分析维度辨析
+> [!contrast-table] 研究利用的多[[Scale in Higher Education|尺度分析]]维度辨析
 > | 维度 | 宏观政策研究利用 | 中观学校治理机制 | 微观教师知识整合 |
 > |------|----------------|----------------|----------------|
-> | **分析对象** | 政府立法、政策文本与政治议程（Weiss, 1991b） | 学校组织文化、信任、领导力与制度结构（Hagevold et al., 2026） | 课堂教学决策、学科教学法与微观师生互动（Mausethagen et al., 2025） |
+> | **分析对象** | 政府立法、政策文本与政治议程（Weiss, 1991b） | 学校组织文化、信任、领导力与制度结构（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]） | 课堂教学决策、学科教学法与微观师生互动（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025]]） |
 > | **核心机制** | 政治可接受性、概念渗透与战术背书 | 跨层治理机制（信任、技能、结构、关系） | 多源异质知识整合（Knowledge Integration）与价值裁决 |
 > | **知识角色** | 合法化资源、问题重构透镜或辩护武器 | 学校改进指南、教研共同体探究素材 | 众多候选实践资源之一（与经验、情境并列） |
 > | **成功标准** | 政策话语吸收与议程设置 | 形成可持续的循证教研常规与信任生态 | 调和“有效性”与“适切性”的实践育人成效 |
@@ -59,10 +87,10 @@ updated: 2026-08-26
 ## 核心要素
 
 > [!feature] 核心要素
-> - **四种经典过程模型（Weiss, 1991b）** 包括研究与开发模型（R&D 流水线）、问题解决模型（工具箱调用）、互动模型（持续对话互构）与战术模型（政治修辞武器）。
-> - **三种基本使用形态（Weiss, 1979）** 概念性使用（间接启迪思维）、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]（直接指导行动决策）与象征性使用（事后为既定立场合法化）。
-> - **四类跨层治理机制（Hagevold et al., 2026）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）跨越个体、组织与系统层级共同治理学校研究使用。
-> - **四代思维范式演进（Mausethagen et al., 2025）** 从第一代理性-线性模型、第二代关系网络模型、第三代系统全局模型，演进至以多源知识整合与专业规范为支柱的[[Profession-Sensitive Conceptualisations of Research Use|第四代专业敏感型模型]]。
+> - **四种经典过程模型（Weiss, 1991b）** 包括研究与开发模型（R&D 流水线）、问题解决模型（工具箱调用）、互动模型（持续[[Dialogue in Education|对话]]互构）与战术模型（政治修辞武器）。
+> - **三种基本使用形态（Weiss, 1979）** [[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]（间接启迪思维）、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]（直接指导行动决策）与象征性使用（事后为既定立场合法化）。
+> - **四类跨层治理机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）** 信任（Trust）、技能发展（Skills Development）、可持续结构（Sustainable Structures）与关系（Relationships）跨越个体、组织与系统层级共同治理学校研究使用。
+> - **四代思维[[Paradigm|范式]]演进（[[Argument_Mausethagen_2025_ERR|Mausethagen et al., 2025]]）** 从第一代理性-线性模型、第二代关系网络模型、第三代系统全局模型，演进至以多源知识整合与专业规范为支柱的第四代专业敏感型模型。
 
 > [!logic-map]- 研究利用的多层生态系统
 > ```mermaid
@@ -93,7 +121,7 @@ updated: 2026-08-26
 > 探讨宏观政策情境下研究知识如何被权力结构筛选，揭示政治契合度对研究采纳的决定性影响。
 
 > [!claim] Thomas (1991); Cook (1991); James (1993)
-> **政治生存与选择性背书** 政策制定者的首要关切是政治生存与施政纲领的推进；研究成果能否进入政策，关键取决于其结论与执政者的政治议程是否契合。当研究支持既定立场时，会被用作科学背书与合法化工具；当研究与政治利益冲突时，往往被决策者选择性忽视、搁置或斥为脱离现实。
+> **政治生存与选择性背书** 政策制定者的首要关切是政治生存与施政纲领的推进；研究成果能否进入政策，关键取决于其结论与执政者的政治议程是否契合。当研究支持既定立场时，会被用作科学背书与合法化工具；当研究与政治[[Conflict of Interest in Research|利益冲突]]时，往往被决策者选择性忽视、搁置或斥为脱离现实。
 
 ---
 
@@ -103,17 +131,17 @@ updated: 2026-08-26
 > 考察不同形态的研究产出如何以非线性方式渗透，以及传播策略在信息不足与过载之间的张力。
 
 > [!claim] Caplan (1991); Knott & Wildavsky (1991)
-> **知识多维渗透与传播悖论** 研究产生的概念、理论、策略、证据与方法论以微妙且间接的方式渗入决策；然而知识传播面临“传播悖论”——传播不足会导致关键信息被埋没，传播过多过滥则会引发信息过载与决策者的认知疲劳，形成“狼来了”式的信任危机，因而需要研究者在互动对话中开展精准转译。
+> **知识多维渗透与传播悖论** 研究产生的概念、理论、策略、证据与方法论以微妙且间接的方式渗入决策；然而知识传播面临“传播悖论”——传播不足会导致关键信息被埋没，传播过多过滥则会引发信息过载与决策者的认知疲劳，形成“狼来了”式的信任危机，因而需要研究者在互动[[Dialogue in Education|对话]]中开展精准[[Transfer Translation Transformation|转译]]。
 
 ---
 
 ### 命题三　学校中观层面的研究使用受跨层治理机制制约而非单一层级专属因素
 
 > [!concept-lens] 生态治理与系统条件
-> 阐明学校场域中研究使用的复杂治理机制，破除将障碍局限于个体或组织单一维度的还原论。
+> 阐明学校[[Champ|场域]]中研究使用的复杂治理机制，破除将障碍局限于个体或组织单一维度的还原论。
 
-> [!claim] Hagevold et al. (2026)
-> **四类机制的跨层穿透与协同治理** 基于对 109 项实证研究的框架综合，学校研究使用不是主要受个体缺陷制约，而是受信任、技能发展、可持续结构与关系四类横切机制共同治理；这些机制同时贯通个体、组织与系统层级，彼此强化，表明研究使用无法通过自上而下的行政指令达成，必须依赖跨层支持生态的构建。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 8, 17–18)]]
+> [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]
+> **四类机制的跨层穿透与协同治理** 基于对 109 项实证研究的[[Framework Synthesis|框架综合]]，学校研究使用不是主要受个体缺陷制约，而是受信任、技能发展、可持续结构与关系四类横切机制共同治理；这些机制同时贯通个体、组织与系统层级，彼此强化，表明研究使用无法通过自上而下的行政指令达成，必须依赖跨层支持生态的构建。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 8, 17–18)]]
 
 ---
 
@@ -122,8 +150,8 @@ updated: 2026-08-26
 > [!concept-lens] 知识整合与专业敏感性
 > 重构微观课堂实践中教师对外部研究的运用本质，确立专业行动者的主体地位。
 
-> [!claim] Mausethagen et al. (2025)
-> **超越赤字框架的专业敏感型整合** 基于对 30 年文献的批判性综述，传统文献受[[Deficit Framing in Research Use|赤字框架]]主导，将教师视为外源知识的被动执行者；第四代研究使用理论指出，教师面对复杂的教学情境时，必然将外源研究作为多元资源之一，在专业伦理规范（公平、关怀与适切性）约束下与默会经验、学生需求进行动态整合与反思裁决。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 7–8)]]
+> [!claim] [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]
+> **超越[[Deficit Framing|赤字框架]]的专业敏感型整合** 基于对 30 年[[Document|文献]]的[[Critical Review|批判性综述]]，传统文献受[[Deficit Framing|赤字框架]]主导，将教师视为外源知识的被动执行者；第四代研究使用理论指出，教师面对复杂的教学情境时，必然将外源研究作为多元资源之一，在专业伦理规范（公平、关怀与适切性）约束下与默会经验、学生需求进行动态整合与反思裁决。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 7–8)]]
 
 ---
 
@@ -143,9 +171,9 @@ updated: 2026-08-26
 
 > [!dev-timeline] 概念演变
 > - **1970s–1990s — 宏观政策研究利用模型** Weiss（1979, 1991b）与 Caplan（1979, 1991）等学者系统提出研发、问题解决、互动与战术模型，奠定政策知识利用理论基石。
-> - **2000s–2010s — 循证教育运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
-> - **2020s — 跨层治理机制与系统综合** Hagevold 等人（2026）通过框架综合提炼出跨越个体、组织与系统的四类治理机制。
-> - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年文献的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
+> - **2000s–2010s — [[Evidence-Based Education|循证教育]]运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
+> - **2020s — 跨层治理机制与系统综合** Hagevold 等人（2026）通过[[Framework Synthesis|框架综合]]提炼出跨越个体、组织与系统的四类治理机制。
+> - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源知识整合与专业规范为支柱的第四代研究使用理论。
 
 ---
 
@@ -159,8 +187,8 @@ updated: 2026-08-26
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5、新西兰 1、爱尔兰 1） | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 k = 91（83% 研究），组织层面 k = 56，系统层面 k = 46，核心构件 k = 94 | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research\|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向证据稀缺 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究质量分布 | 41 项（38%）[[Mixed Methods Appraisal Tool\|混合方法评价工具（MMAT）]] 评 5 分、18 项（17%）4 分、31 项（28%）3 分、其余 17% 评 2 分及以下 | 1 项未通过筛选不作评估 | 大多数发现来自评 4–5 分的 59 项较高质量研究 |
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议英文学术文献（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review\|批判性综述]]＋PRISMA 检索 | 纳入研究类型与数据源分布 | 一阶实证研究 24 篇（自陈调查 13 项、混合 7 项、访谈 4 项、课堂观察仅 3 项）、实证综述 4 篇、概念讨论 6 篇 | — | 实证研究高度依赖问卷自陈，微观课堂互动与现场观察数据严重匮乏 |
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 30 年文献问题界定与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用赤字框架 | — | 揭示文献在方法多样性下同质化重复“使用不足”结论，陷入推论循环 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议英文学术[[Document\|文献]]（跨度 1996–2024 年，涵盖英国 9、美国 4、加拿大 3 及其他 8 国） | [[Critical Review\|批判性综述]]＋PRISMA 检索 | 纳入研究类型与数据源分布 | 一阶实证研究 24 篇（自陈调查 13 项、混合 7 项、访谈 4 项、课堂观察仅 3 项）、实证综述 4 篇、概念讨论 6 篇 | — | 实证研究高度依赖[[Questionnaire\|问卷]]自陈，微观课堂互动与现场观察数据严重匮乏 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 30 年文献[[Problem Finding\|问题界定]]与结论特征 | 100% 纳入实证文献均报告教师实际研究使用有限；且问题界定普遍采用[[Deficit Framing\|赤字框架]] | — | 揭示文献在方法多样性下同质化重复“使用不足”结论，陷入推论循环 |
 
 ---
 
@@ -169,21 +197,21 @@ updated: 2026-08-26
 > [!debates] 学术争议
 >
 > > [!axis] 简单影响模型 vs 复杂社会生态
-> > Levin（1991）与 Radford（2008, p. 506）指出，政策决策者常追求“简单影响模型”（快速方案、明确因果），因而偏好实证主义量化指标；然而这种偏好可能诱发不当的数据汇总，并遮蔽社会情境的复杂性。
+> > Levin（1991）与 Radford（2008, p. 506）指出，政策决策者常追求“简单影响模型”（快速方案、明确因果），因而偏好[[Positivism|实证主义]]量化指标；然而这种偏好可能诱发不当的数据汇总，并遮蔽社会情境的复杂性。
 > >
 > > - **Levin (1991); Radford (2008)** 批评简单影响模型扭曲了教育研究的本质，排斥了无法简化为因果处方的深层质性发现。
 > > - **Cartwright (1991); Cook (1991)** 指出政策决策对快速答案的渴望容易导致对证据适用边界的忽视。
 >
-> > [!axis] 赤字框架与循环论证批判
-> > Mausethagen 等人（2025）指出，30 年来文献将教师预设为缺乏知识与技能的“赤字主体”，在建议中机械重复“提供更多培训与系统支持”，导致实证结果不断自我确证初始前设。
+> > [!axis] [[Deficit Framing|赤字框架]]与循环论证批判
+> > Mausethagen 等人（2025）指出，30 年来[[Document|文献]]将教师预设为缺乏知识与技能的“赤字主体”，在建议中机械重复“提供更多培训与系统支持”，导致实证结果不断自我确证初始前设。
 > >
-> > - **Mausethagen et al. (2025)** 批判传统研究陷入方法论个体主义与循环论证，呼吁转向专业敏感型概念化。
-> > - **Hagevold et al. (2026)** 强调必须打破个体归因，转向跨越个体、组织与系统的综合治理机制。
+> > - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判传统研究陷入方法论个体主义与循环论证，呼吁转向专业敏感型概念化。
+> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 强调必须打破个体归因，转向跨越个体、组织与系统的综合治理机制。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 综合 109 项学校研究使用实证研究，识别出研究文献的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
-> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判性解构 34 篇文献，揭示 30 年来赤字框架与方法论个体主义对研究使用文献的统治，提出迈向第四代专业敏感型研究使用理论。
+> - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 综合 109 项学校研究使用实证研究，识别出研究[[Document|文献]]的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
+> - **[[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]** 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]与方法论个体主义对研究使用文献的统治，提出迈向第四代[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]理论。

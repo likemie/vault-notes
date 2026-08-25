@@ -4,7 +4,7 @@ aliases:
   - 研究使用治理机制
   - 研究使用的跨层治理机制
   - Four Governing Mechanisms
-summary: "由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同治理学校中的研究使用"
+summary: "由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用"
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 25
@@ -62,12 +62,12 @@ updated: 2026-08-26
 
 > [!theory-position] 理论定位
 > - **解释对象** 学校中[[Research Utilization|研究使用]]为何长期停滞于象征性或浅层[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]，以及什么条件能把它转化为深层的专业整合。
-> - **理论问题** 回应既有研究只识别研究使用的障碍与促成因素清单而缺少治理机制解释的缺口，回答什么机制支配这些持久障碍。
+> - **理论问题** 回应既有研究只识别研究使用的障碍与促成因素清单而缺少治理机制解释的缺口，回答什么机制维持这些持久障碍。
 > - **理论类型** 中层机制[[Analytic Framework|分析框架]]，跨越社会生态系统层级的横切机制模型。
 > - **知识位置** 由 Hagevold 等人（2026）基于对 109 项实证研究的[[Framework Synthesis|框架综合]]提出；其先验框架来自 [[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE）、深层使用、[[Research Literacy|研究素养]]与生态系统模型，[[Epistemic Stances|认识论立场]]为[[Critical Realism|批判实在论]]。
 
 > [!claim] 核心主张
-> 学校中的研究使用不是主要受个体缺陷制约，而是受四类跨越并贯通系统的机制（信任 trust、技能发展 skills development、可持续结构 sustainable structures、关系 relationships）共同治理；这些机制相互强化、同时在纵向与横向方向运作，因此研究使用无法靠政策指令自上而下强制实现，只能靠塑造这些机制来支持整合。
+> 学校中的研究使用不是主要受个体缺陷制约，而是由四类跨越并贯通系统的机制（信任 trust、技能发展 skills development、可持续结构 sustainable structures、关系 relationships）共同塑造；这些机制相互强化、同时在纵向与横向方向运作，因此研究使用无法靠政策指令自上而下强制实现，只能靠塑造这些机制来支持整合。
 
 > [!citation-card]- 关键表述
 > "研究使用在学校中并不是主要受个体缺陷制约，而是受决定信任、技能、关系与结构能否发展和富有成效地互动的系统性条件所制约。"（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.18]]）
@@ -119,12 +119,12 @@ updated: 2026-08-26
 
 > [!theory-stance] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology|本体论]]** [[Research Utilization|研究使用]]是嵌入复杂社会生态系统的多层社会过程，机制生成可观察模式。
-> - **[[Epistemology|认识论]]** [[Critical Realism|批判实在论]]取向：分析目标是从经验数据识别支配现象的深层机制，而非仅描述表面频数。
+> - **[[Epistemology|认识论]]** [[Critical Realism|批判实在论]]取向：分析目标是从经验数据识别生成现象的深层机制，而非仅描述表面频数。
 > - **方法含义** 支持[[Framework Synthesis|框架综合]]、配置式分析与跨层主题识别；个体层面因素在分析中可能被相对淡化。
 > - **不能直接推出的东西** 框架不证明研究使用与教育结果之间的因果联系，不声称四机制适用于所有教育系统，也不断言消除某机制障碍就必然改善使用。
 
 > [!theory-use] 如何用于研究
-> - **作为理论框架** 把[[Research Question|研究问题]]从教师为何不用研究重构为哪些跨层机制支配并可能[[Translational Research|转化研究]]使用。
+> - **作为理论框架** 把[[Research Question|研究问题]]从教师为何不用研究重构为哪些跨层机制塑造并可能[[Translational Research|转化研究]]使用。
 > - **作为分析工具** 提供[[Coding in Qualitative Research|编码]]与分析维度（信任、技能发展、可持续结构、关系），用于[[Systematic Review|系统综述]]、[[Case Study|案例研究]]与调查设计。
 > - **作为批判视角** 批判把研究使用归因于个体缺陷的"缺陷框定"，并把注意力转向系统性生产这种缺陷的条件。
 > - **报告方式** 报告时应区分先验框架（[[Quality Use of Research Evidence Framework|QURE]]）与修订框架（四机制）的演化关系，并说明机制识别依赖团队解释性协商。
@@ -173,7 +173,7 @@ updated: 2026-08-26
 > > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026, p.19)]]** 明确承认在高度中央集权系统中信任机制可能因结构性制度性不信任而不同运作，低资源环境中可持续结构可能面临约束。
 
 > [!warning] 作者自述边界
-> 修订框架主要基于英语国家与西欧教育情境的研究，其普适性有待检验；论文不声称四机制与使用结果之间存在因果联系，并明确表示修订框架需要在未来研究中测试（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.19]]）。
+> 修订框架主要基于英语国家与西欧教育情境的研究，其普适性有待检验；不声称四机制与使用结果之间存在因果联系，并明确表示修订框架需要在未来研究中测试（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, p.19]]）。
 
 ---
 
