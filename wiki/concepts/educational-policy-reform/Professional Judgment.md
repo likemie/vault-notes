@@ -214,7 +214,7 @@ updated: 2026-08-26
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.132]] | 特刊论文与更广 [[Evidence-Informed Practice\|EIP]] [[Document\|文献]] | 特刊导言综合 | 教育者最常使用的证据来源 | 多来自专业经验与同事，而非原始研究 | — | 支撑专业经验在判断中的核心地位 |
-> | [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.130]] 转述 Cooper 等 | 教师群体，课堂评估信息获取 | 访谈为主 | 教师获取信息渠道 | 教师主要从其他教师获取评估实践信息 | — | 专业间传播主导证据流动 |
+> | [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.130]] 转述 Cooper et al. | 教师群体，课堂评估信息获取 | 访谈为主 | 教师获取信息渠道 | 教师主要从其他教师获取评估实践信息 | — | 专业间传播主导证据流动 |
 > | [[Argument_Ross_Morrison_2021_ROE\|Ross & Morrison, 2021, pp.122-123]] | 马里兰州[[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革项目 | [[Formative Program Evaluation\|形成性项目评价]]案例 | 不同决策者对同一评估结果的解读 | 校董、校长与教师依据专业判断给出不同解读 | — | 专业判断在评价解释中的持续作用 |
 > | [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p.12]] | 英国学校预算缩减 | 实证案例分析 | [[Education Endowment Foundation\|EEF]] 工具包效应量排行的使用 | 因盲信扁平化排行误裁教学助理 | — | 抹杀专业判断的技术官僚决策的破坏性后果 |
 

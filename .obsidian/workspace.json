@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,10 +254,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7ef1b49d2c627a52",
+  "active": "7b1888ea00f7062e",
   "lastOpenFiles": [
-    "wiki/concepts/educational-policy-reform/Data-Based Decision Making.md",
     "wiki/arguments/journal-articles/Educational Research/Argument_Nelson_2017_ER.md",
+    "wiki/concepts/educational-policy-reform/Data-Based Decision Making.md",
     "wiki/concepts/educational-policy-reform/Conceptual, Instrumental, and Symbolic Use of Research.md",
     "wiki/concepts/educational-policy-reform/Professional Judgment.md",
     "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md",

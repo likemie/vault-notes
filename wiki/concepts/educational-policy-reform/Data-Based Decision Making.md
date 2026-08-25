@@ -47,7 +47,7 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 基于数据的决策（Data-Based Decision Making, DBDM）指教育者以系统层面与课堂层面的数据为依据作出教学与管理决策的取向，这类数据包括学生评估、[[Academic Achievement|学业表现]]、行为记录与学校管理信息。在《Educational Research》特刊导言中，[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 借助 Brown 等（本特刊）的论文，把 DBDM 与[[Research-Informed Teaching Practice|研究知情教学实践]]视为两个相对独立的世界，并主张在证据知情系统中二者应当被整合、却很少真正整合。
+> 基于数据的决策（Data-Based Decision Making, DBDM）指教育者以系统层面与课堂层面的数据为依据作出教学与管理决策的取向，这类数据包括学生评估、[[Academic Achievement|学业表现]]、行为记录与学校管理信息。在《Educational Research》特刊导言中，[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 借助 Brown et al.（本特刊）的论文，把 DBDM 与[[Research-Informed Teaching Practice|研究知情教学实践]]视为两个相对独立的世界，并主张在证据知情系统中二者应当被整合、却很少真正整合。
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注用数据做决定这一特定的证据使用形态，数据来自学校自身的信息系统，而非学术研究。
@@ -75,9 +75,9 @@ updated: 2026-08-26
 ## 核心要素
 
 > [!feature] 核心要素
-> - **数据来源的层级性** [[Argument_Nelson_2017_ER|LaPointe-McEwan 等（本特刊，见 Nelson & Campbell, 2017, p.129）]] 提醒，正如研究证据存在层级，课堂数据也被感知为有层级，正式终结性评估主导决策，质性课堂观察与形成性信息容易被边缘化。
+> - **数据来源的层级性** [[Argument_Nelson_2017_ER|LaPointe-McEwan et al.（本特刊，见 Nelson & Campbell, 2017, p.129）]] 提醒，正如研究证据存在层级，课堂数据也被感知为有层级，正式终结性评估主导决策，质性课堂观察与形成性信息容易被边缘化。
 > - **[[Data Literacy|数据素养]]** 教育者需要发展数据素养技能，学会对定性与定量来源做[[Triangulation|三角验证]]，才能形成平衡的决策。
-> - **与研究的整合** Brown 等（本特刊）提出以系统的学校探究循环（school enquiry cycle）把 DBDM 与 [[Research-Informed Teaching Practice|RITP]] 的最佳实践结合起来，作为证据知情的学校与教师改进模型。
+> - **与研究的整合** Brown et al.（本特刊）提出以系统的学校探究循环（school enquiry cycle）把 DBDM 与 [[Research-Informed Teaching Practice|RITP]] 的最佳实践结合起来，作为证据知情的学校与教师改进模型。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -109,11 +109,11 @@ updated: 2026-08-26
 
 ## 应用案例
 
-> [!case] 案例：DBDM 与 [[Research-Informed Teaching Practice|RITP]] 的整合模型（Brown 等）
-> Brown 等（本特刊）提出证据知情的学校与教师改进模型，把 DBDM 与 RITP 的最佳实践放进系统的学校探究循环，作为整合两个世界的路径（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）。
+> [!case] 案例：DBDM 与 [[Research-Informed Teaching Practice|RITP]] 的整合模型（Brown et al.）
+> Brown et al.（本特刊）提出证据知情的学校与教师改进模型，把 DBDM 与 RITP 的最佳实践放进系统的学校探究循环，作为整合两个世界的路径（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）。
 
-> [!case] 案例：课堂数据的层级（LaPointe-McEwan 等）
-> LaPointe-McEwan 等（本特刊）通过课堂数据层级分析表明，正式终结性评估主导决策，教育者需以[[Data Literacy|数据素养]]与[[Triangulation|三角验证]]拓宽课堂证据视角（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）。
+> [!case] 案例：课堂数据的层级（LaPointe-McEwan et al.）
+> LaPointe-McEwan et al.（本特刊）通过课堂数据层级分析表明，正式终结性评估主导决策，教育者需以[[Data Literacy|数据素养]]与[[Triangulation|三角验证]]拓宽课堂证据视角（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）。
 
 ---
 

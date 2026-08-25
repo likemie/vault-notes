@@ -111,7 +111,7 @@ updated: 2026-08-26
 > | **证据知情实践（EIP）**<br>[[Evidence-Informed Practice]] | 导言的核心对象：证据只是影响教育决策的多种因素之一，教育者须以[[Professional Judgment\|专业判断]]整合研究、系统数据与课堂数据，将 EIP 定位为多源整合而非单一研究驱动。(pp.127–129) |
 > | **知识动员（Knowledge Mobilisation）**<br>[[Knowledge Mobilisation]] | 解释证据为何不自动转化为实践：研究知识须经传播、翻译、中介与共创才能进入行动，特刊从中归纳出沟通传播、能力建设、伙伴关系与网络、系统化方法四类策略。(pp.130–131) |
 > | **专业判断（Professional Judgment）**<br>[[Professional Judgment]] | EIP 的整合枢纽：证据只是输入，须经教育者基于经验、价值观与情境理解的判断才能转化为课堂行动，成为证据知情需要严谨证据与严谨判断并存。 |
-> | **研究使用的类型学**<br>[[Conceptual, Instrumental, and Symbolic Use of Research]] | 区分研究成果的工具性、概念性与象征性三种影响：工具性直接作用于实践，概念性间接改变思维，象征性用于事后合法化；Wentworth 等据此拆解[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者决策的影响。(pp.131–132) |
+> | **研究使用的类型学**<br>[[Conceptual, Instrumental, and Symbolic Use of Research]] | 区分研究成果的工具性、概念性与象征性三种影响：工具性直接作用于实践，概念性间接改变思维，象征性用于事后合法化；Wentworth et al. 据此拆解[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者决策的影响。(pp.131–132) |
 
 > [!warrant]- 理论如何支撑论证
 > 研究利用与知识动员构成证据如何进入实践的解释链条：前者说明证据使用有多种形态，后者说明证据流动需要条件；EIP 与专业判断把链条收束到教师个体的决策整合；类型学则为怎么算有效提供测量语言。
@@ -183,7 +183,7 @@ updated: 2026-08-26
 > Sharples (2013) 的界定支撑这一区分：证据本位实践将专业技能与来自研究的最佳外部证据相结合以改善实践质量，而非照菜谱式执行或从不容挑战的权威位置发号施令(p.129)。
 
 > [!claim] 四源整合
-> 特刊传递的共同信息是 EIP 需要多源整合：LaPointe-McEwan、DeLuca 与 Klinger（皇后大学，安大略），以及 Brown、Schildkamp 与 Hubers（伦敦大学学院与特文特大学）均论证 EIP 必须被视为[[Professional Judgment|专业判断]]、系统层面数据、课堂数据与研究证据的整合(p.129)。
+> 特刊传递的共同信息是 EIP 需要多源整合：LaPointe-McEwan et al.（皇后大学，安大略），以及 Brown et al.（伦敦大学学院与特文特大学）均论证 EIP 必须被视为[[Professional Judgment|专业判断]]、系统层面数据、课堂数据与研究证据的整合(p.129)。
 
 > [!warrant]- 推理桥梁
 > evidence-informed 与 research-informed 不同：研究证据是证据知情拼图的重要一块，还需与数据及[[Professional Judgment|专业判断]]整合。把 EIP 定义为多源整合，直接支撑后文两个主张：其一，谁的证据算数成为核心争议（步骤三）；其二，推进 EIP 需要关注[[Knowledge Mobilisation|知识动员]]的系统条件（步骤四）。
@@ -199,14 +199,14 @@ updated: 2026-08-26
 > [!claim] 中间立场：[[Practice-Based Evidence|实践本位证据]]
 > Bryk (2015) 提出 [[Practice-Based Evidence|实践本位证据]]（practice-based evidence），认为教育者生成的细粒度、实践相关知识可形成性支持专业学习与学生成就；教育者研究常被贬为小规模、轶事性、不可复制（Borg, 2010; CUREE, 2011; Enthoven & de Bruijn, 2010; Wilkins, 2012），但实践中其使用往往超过原始研究(p.129)。
 
-> [!case] 案例一：课堂数据的层级（LaPointe-McEwan 等）
-> 特刊较少讨论研究、更多讨论课堂数据。LaPointe-McEwan 等提醒，正如研究证据存在层级，课堂数据也被感知为有层级，正式终结性评估主导决策。结果强调教育者采取更宽的课堂证据视角、发展[[Data Literacy|数据素养]]技能、学会对定性与定量来源做[[Triangulation|三角验证]]，以形成均衡决策(p.129)。
+> [!case] 案例一：课堂数据的层级（LaPointe-McEwan et al.）
+> 特刊较少讨论研究、更多讨论课堂数据。LaPointe-McEwan et al. 提醒，正如研究证据存在层级，课堂数据也被感知为有层级，正式终结性评估主导决策。结果强调教育者采取更宽的课堂证据视角、发展[[Data Literacy|数据素养]]技能、学会对定性与定量来源做[[Triangulation|三角验证]]，以形成均衡决策(p.129)。
 
-> [!case] 案例二：[[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 两个世界的整合（Brown 等）
-> Brown 等考察[[Data-Based Decision Making|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）两个世界：在证据知情系统中二者应整合、却很少整合。提出证据知情的学校与教师改进模型，取 DBDM 与 RITP 最佳实践，通过系统的学校探究循环（school enquiry cycle）应用(p.129)。
+> [!case] 案例二：[[Data-Based Decision Making|DBDM]] 与 [[Research-Informed Teaching Practice|RITP]] 两个世界的整合（Brown et al.）
+> Brown et al. 考察[[Data-Based Decision Making|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）两个世界：在证据知情系统中二者应整合、却很少整合。提出证据知情的学校与教师改进模型，取 DBDM 与 RITP 最佳实践，通过系统的学校探究循环（school enquiry cycle）应用(p.129)。
 
-> [!case] 案例三：政策作为实践与可得适切证据（Rickinson 等）
-> Rickinson、de Bruin、Walsh 与 Hall（莫纳什大学与新西兰环境部）提出教育实践可从教育政策学习：政策制定本身就是一种实践，政策制定者与教育者使用的证据类型与种类高度相似。结果显示在政策与实践两端，人们倾向使用熟悉而非适切任务的证据；可得证据与适切证据的区分（Earl & Timperley, 2009）横跨政策与实践，适切性必须结合情境判断、不能预设(pp.129–130)。
+> [!case] 案例三：政策作为实践与可得适切证据（Rickinson et al.）
+> Rickinson et al.（莫纳什大学与新西兰环境部）提出教育实践可从教育政策学习：政策制定本身就是一种实践，政策制定者与教育者使用的证据类型与种类高度相似。结果显示在政策与实践两端，人们倾向使用熟悉而非适切任务的证据；可得证据与适切证据的区分（Earl & Timperley, 2009）横跨政策与实践，适切性必须结合情境判断、不能预设(pp.129–130)。
 
 > [!implication]- 推论
 > 这些讨论把证据从单数（研究）扩展为复数（研究、数据、实践知识），为知识动员的多元策略提供铺垫。同时，将"什么有效"的学习嵌入整个教育系统仍具挑战（Becheikh et al., 2009; CUREE, 2011; Gough, 2013; Sharples, 2013）(p.128)。
@@ -220,18 +220,18 @@ updated: 2026-08-26
 
 > [!feature] 知识动员四类策略
 > - **沟通与传播（Communication and dissemination）** 研究发表的传播是长期关注点（Weiss, 1979），但证据的有效沟通仍是推进 EIP 的核心；Carrier 考察流行教育创新如何在证据之外获得吸引力，强调说服性沟通的高度影响力(p.130)。
-> - **能力建设（Capacity building）** 教育者需发展分析立场与评估技能以理解多元证据（Carrier）；Brown 等强调[[Research Literacy|研究素养]]与数据素养并重，为专业探究与学校改进汇聚证据。
+> - **能力建设（Capacity building）** 教育者需发展分析立场与评估技能以理解多元证据（Carrier）；Brown et al. 强调[[Research Literacy|研究素养]]与数据素养并重，为专业探究与学校改进汇聚证据。
 > - **伙伴关系与网络（Partnerships and networks）** 个体（学校与系统领导者）与组织（专业协会、研究机构）扮演[[Boundary Spanner|中介者]]角色，调解什么证据被沟通和连接到实践(p.131)。
 > - **系统化方法（Systemic approaches）** 面对获取、理解、使用证据的时间与资源持续挑战，需要发展系统层面的 EIP 文化与基础设施。
 
-> [!case] 案例四：教师间传播与证据使用（Cooper 等）
-> Cooper、Klinger 与 McAdie（皇后大学与安大略小学教师联合会）聚焦教师如何寻找关于有效课堂评估的信息，一个证据相当充分的实践领域。其发现表明教师主要从其他教师获取评估实践的信息(p.130)。即便主动发展教师的证据使用（如 LaPointe-McEwan 等的研究），实践来源的证据使用也比原始研究更普遍。
+> [!case] 案例四：教师间传播与证据使用（Cooper et al.）
+> Cooper et al.（皇后大学与安大略小学教师联合会）聚焦教师如何寻找关于有效课堂评估的信息，一个证据相当充分的实践领域。其发现表明教师主要从其他教师获取评估实践的信息(p.130)。即便主动发展教师的证据使用（如 LaPointe-McEwan et al. 的研究），实践来源的证据使用也比原始研究更普遍。
 
-> [!case] 案例五：KNAER 的全系统知识动员（Campbell 等）
-> Campbell、Pollock、Briscoe、Carr-Harris 与 Tuters（多伦多大学安大略教育研究院与西安大略大学）提供政府-大学伙伴关系案例：知识网络应用教育研究（Knowledge Network in Applied Education Research, KNAER）以多方利益相关者支持研究与实践活动，意图在整个教育系统动员研究(p.130)。关键发现是证据的生产者与使用者往往都不知道如何真正动员知识；全系统策略、具体工具、资源与[[Research-Practice Partnership|研究-实践伙伴关系]]（Research-Practice Partnership, RPP）能力建设随时间逐步发展(p.131)。结论是"优质产品、协作关系与系统层面能力建设承诺的融合，对真正实现证据知情的知识动员至关重要"。
+> [!case] 案例五：KNAER 的全系统知识动员（Campbell et al.）
+> Campbell et al.（多伦多大学安大略教育研究院与西安大略大学）提供政府-大学伙伴关系案例：知识网络应用教育研究（Knowledge Network in Applied Education Research, KNAER）以多方利益相关者支持研究与实践活动，意图在整个教育系统动员研究(p.130)。关键发现是证据的生产者与使用者往往都不知道如何真正动员知识；全系统策略、具体工具、资源与[[Research-Practice Partnership|研究-实践伙伴关系]]（Research-Practice Partnership, RPP）能力建设随时间逐步发展(p.131)。结论是"优质产品、协作关系与系统层面能力建设承诺的融合，对真正实现证据知情的知识动员至关重要"。
 
 > [!chain-link] 证据到判断
-> [[Evidence-Based Education|循证教育]]研究使用中心（Centre for Use of Research and Evidence in Education, [[Centre for the Use of Research and Evidence in Education|CUREE]]）(2011) [[Systematic Review|系统综述]]早已指出实践者参与研究在英国专业发展中日益普遍，对教学实践与学生学习具有潜在益处，但仍路漫漫其修远（there is still a long way to go）；[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）也对丹麦、墨西哥、新西兰、瑞士与英格兰开展研究使用改进综述。知识动员因此既需研究者提高清晰、可及、有效的传播能力，也需关注如何让证据进入实践并反之亦然（Campbell 等）(pp.130–131)。
+> [[Evidence-Based Education|循证教育]]研究使用中心（Centre for Use of Research and Evidence in Education, [[Centre for the Use of Research and Evidence in Education|CUREE]]）(2011) [[Systematic Review|系统综述]]早已指出实践者参与研究在英国专业发展中日益普遍，对教学实践与学生学习具有潜在益处，但仍路漫漫其修远（there is still a long way to go）；[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）也对丹麦、墨西哥、新西兰、瑞士与英格兰开展研究使用改进综述。知识动员因此既需研究者提高清晰、可及、有效的传播能力，也需关注如何让证据进入实践并反之亦然（Campbell et al.）(pp.130–131)。
 
 > [!warrant]- 推理桥梁
 > 肥沃的土壤隐喻说明证据需被种在肥沃土壤中才能生根成长(p.127)：关键前提是教育者准备好批判、实施与改编证据（Roberts, 2015）。因此 EIP 的推进条件是系统性的，比证据供给更根本；但哪些具体的策略组合对特定成果影响最大，仍需进一步研究(p.131)。
@@ -250,8 +250,8 @@ updated: 2026-08-26
 > | **苏格兰** | 圣安德鲁斯大学研究利用研究单位（Research Unit for Research Utilisation, RuRu） | 从跨部门视角（含教育）考虑测量问题 |
 > | **英格兰** | 教育捐赠基金会（Education Endowment Foundation, [[Education Endowment Foundation\|EEF]]）与国家教育研究基金会（National Foundation for Educational Research, NFER） | EEF 资助多个协作项目改善研究信息动员并评估相对成效；NFER 开发测量[[Questionnaire\|问卷]]供评估团队使用 |
 
-> [!case] 案例六：RPP 影响测量的概念与实践挑战（Wentworth 等）
-> Wentworth、Mazzeo 与 Connolly（加州教育伙伴、教育西北、巴尔的摩教育研究联盟）在本特刊深入探讨测量：开发问卷以量化美国[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）对教育者证据本位决策的感知影响(p.132)。借鉴 Coburn 与 NCRPP 的思路，强调拆解促成影响的成果。
+> [!case] 案例六：RPP 影响测量的概念与实践挑战（Wentworth et al.）
+> Wentworth et al.（加州教育伙伴、教育西北、巴尔的摩教育研究联盟）在本特刊深入探讨测量：开发问卷以量化美国[[Research-Practice Partnership|研究-实践伙伴关系]]（RPP）对教育者证据本位决策的感知影响(p.132)。借鉴 Coburn 与 NCRPP 的思路，强调拆解促成影响的成果。
 
 > [!contrast-table] 中间成果与长期成果
 > | 维度 | 中间成果 | 长期成果 |
@@ -300,7 +300,7 @@ updated: 2026-08-26
 > *"The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement."*
 
 > [!citation-card]- 动员即共创
-> "动员意味着研究者、决策者与实践者之间通过协作共同创造知识的社会互动与迭代过程。"(Campbell 等，引于 p.130)
+> "动员意味着研究者、决策者与实践者之间通过协作共同创造知识的社会互动与迭代过程。"(Campbell et al.，引于 p.130)
 >
 > *"Mobilisation implies social interaction and iterative processes of co-creating knowledge through collaboration between and among researchers, decision-makers and practitioners."*
 
