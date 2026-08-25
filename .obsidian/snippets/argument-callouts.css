@@ -15158,7 +15158,14 @@
   display: none;
 }
 
-.callout:has(.scrollable-table-marker) > .callout-content {
+.callout:has(:is(
+  .scrollable-table-marker,
+  .concept-effect-table-marker,
+  .concept-meta-analysis-table-marker,
+  .concept-meta-moderator-table-marker,
+  .concept-meta-robustness-table-marker,
+  .concept-other-empirical-table-marker
+)) > .callout-content {
   overflow-x: auto;
   overscroll-behavior-x: contain;
   scrollbar-gutter: stable;
@@ -15858,7 +15865,14 @@
   overscroll-behavior-inline: contain;
 }
 
-.callout:has(.scrollable-table-marker) .table-container {
+.callout:has(:is(
+  .scrollable-table-marker,
+  .concept-effect-table-marker,
+  .concept-meta-analysis-table-marker,
+  .concept-meta-moderator-table-marker,
+  .concept-meta-robustness-table-marker,
+  .concept-other-empirical-table-marker
+)) .table-container {
   display: block;
   width: 100%;
   max-width: 100%;
@@ -15898,15 +15912,15 @@
   table-layout: fixed !important;
 }
 
-.callout:has(.scrollable-table-marker) tbody td {
+.callout:has(:is(.scrollable-table-marker, .concept-effect-table-marker, .concept-meta-analysis-table-marker, .concept-meta-moderator-table-marker, .concept-meta-robustness-table-marker, .concept-other-empirical-table-marker)) tbody td {
   vertical-align: top !important;
 }
 
-.callout:has(.scrollable-table-marker) thead th {
+.callout:has(:is(.scrollable-table-marker, .concept-effect-table-marker, .concept-meta-analysis-table-marker, .concept-meta-moderator-table-marker, .concept-meta-robustness-table-marker, .concept-other-empirical-table-marker)) thead th {
   vertical-align: middle !important;
 }
 
-.callout:has(.scrollable-table-marker) td .katex {
+.callout:has(:is(.scrollable-table-marker, .concept-effect-table-marker, .concept-meta-analysis-table-marker, .concept-meta-moderator-table-marker, .concept-meta-robustness-table-marker, .concept-other-empirical-table-marker)) td .katex {
   white-space: nowrap;
 }
 
