@@ -7,7 +7,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作关系，共同确定问题、产出和运用研究，被视为弥合研究-实践鸿沟与推动知识动员的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Research Utilization]]"
   - "[[Document]]"
+  - "[[Questionnaire]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,7 +43,7 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 研究-实践伙伴关系（Research-Practice Partnership, RPP）指研究者与实践组织之间长期、互惠的协作安排，双方共同确定[[Research Question|研究问题]]、共同产出并共同运用研究，通常服务于弥合[[Research-Practice Gap|研究-实践鸿沟]]与推动[[Knowledge Mobilisation|知识动员]]。[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, pp.130–132）]] 在特刊导言中把它作为知识动员的重要策略：Wentworth 等（本特刊）研究如何测量 RPP 对教育者证据本位决策的影响，安大略知识网络案例（KNAER）则展示了一个政府-大学伙伴关系如何以全系统策略动员研究。
+> 研究-实践伙伴关系（Research-Practice Partnership, RPP）指研究者与实践组织之间长期、互惠的协作安排，双方共同确定[[Research Question|研究问题]]、共同产出并共同运用研究，通常服务于弥合[[Research-Practice Gap|研究-实践鸿沟]]与推动[[Knowledge Mobilisation|知识动员]]。[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, pp.130–132）]] 在特刊导言中把它作为知识动员的重要策略：Wentworth 等（本特刊）研究如何测量 RPP 对教育者证据本位决策的影响，安大略知识网络应用教育研究（Knowledge Network in Applied Education Research, KNAER）则展示了一个政府-大学伙伴关系如何以全系统策略动员研究。
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注研究生产与使用之间的制度化协作关系，强调长期性与互惠性。
@@ -104,15 +105,15 @@ updated: 2026-08-26
 
 ## 应用案例
 
-> [!case] 案例：安大略 KNAER——全系统知识动员
+> [!case] 案例：KNAER 的全系统[[Knowledge Mobilisation|知识动员]]（安大略）
 > KNAER 是政府-大学伙伴关系，以多方利益相关者支持研究与实践活动，意图在整个教育系统动员研究；其全系统策略、工具、资源与伙伴关系能力建设随时间发展（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 131]]）。
 
-> [!case] 案例：Wentworth 等——RPP 影响测量
-> Wentworth 等（本特刊）开发问卷量化 RPP 对教育者证据本位决策的感知影响，区分教育者行为或"思维模式"等中间成果与工具性、概念性、象征性长期成果（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 132]]）。
+> [!case] 案例：RPP 影响测量（Wentworth 等）
+> Wentworth 等（本特刊）开发[[Questionnaire|问卷]]量化 RPP 对教育者证据本位决策的感知影响，区分教育者行为或思维模式等中间成果与工具性、概念性、象征性长期成果（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 132]]）。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 特刊导言把 RPP 作为[[Knowledge Mobilisation|知识动员]]的伙伴关系策略，并记录对其中间与长期成果的测量议程。
+> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — RPP 被作为[[Knowledge Mobilisation|知识动员]]的伙伴关系策略，并记录对其中间与长期成果的测量议程。

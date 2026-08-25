@@ -9,10 +9,10 @@ aliases:
 summary: "多位独立评判者使用同一工具对相同对象评分时彼此一致的程度，是信度作为等值性的核心形式之一，在量化观察、质性编码、测验评分和访谈分析中均有对应操作"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - method/research-methods
   - theme/reliability
@@ -38,6 +38,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Observational and Correlational Research]]"
+  - "[[Scale Development]]"
   - "[[Longitudinal Study]]"
   - "[[Structured Observation]]"
   - "[[Semi-structured Interview]]"
@@ -84,7 +85,7 @@ updated: 2026-07-23
 > | **核心问题** | 不同的人在评分时是否一致？ | 量表内部条目间是否一致？ | 同一工具在不同时间点是否稳定？ |
 > | **偏差来源** | 评判者之间的主观差异 | 条目之间的[[Heterogeneity\|异质性]] | 时间带来的变化 |
 > | **典型指标** | Cohen's κ、Fleiss' κ、ICC | [[Internal Consistency\|Cronbach's α]] | 前[[Pre-test and Post-test\|后测]]相关系数 |
-> | **典型场景** | [[Observational and Correlational Research\|观察研究]]、测验评分 | 量表开发与验证 | [[Longitudinal Study\|纵向研究]]、实验前后测 |
+> | **典型场景** | [[Observational and Correlational Research\|观察研究]]、测验评分 | [[Scale Development\|量表开发]]与验证 | [[Longitudinal Study\|纵向研究]]、实验前后测 |
 
 ---
 

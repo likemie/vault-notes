@@ -13070,6 +13070,18 @@
     ]
   },
   {
+    "title": "Scale Development",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Scale Development.md",
+    "aliases": [
+      "量表编制",
+      "量表开发",
+      "量表构建",
+      "Scale Construction",
+      "Scale Validation"
+    ]
+  },
+  {
     "title": "Seasonal Comparison",
     "type": "method",
     "path": "wiki/methods/quantitative/Seasonal Comparison.md",

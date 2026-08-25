@@ -8,7 +8,7 @@ aliases:
 summary: "效标关联效度的一种核心形式，衡量测量工具在当前时间点的得分对受试者未来认知表现、学业成就或实际成果的预测能力，核心特征是具有时滞性与预测效度不对称性"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Multitrait-Multimethod Matrix]]"
+  - "[[Scale Development]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Second-Order Meta-Regression]]"
@@ -96,7 +97,7 @@ updated: 2026-08-24
 > | **分析对象** | 当[[Pre-test and Post-test\|前测]]量分数与未来外部效标的跨期关联 | 当前测量与已有公认标准的同时关联 | 测量工具与理论特质[[Construct\|构念]]的吻合程度 | 测验题目对目标内容领域的代表性抽样 |
 > | **时间属性** | **具有显著时间滞后（Time Lag）** | **无时滞，两类工具同时施测** | 无特定时间限制 | 测验编制与设计阶段即时确定 |
 > | **检验方法** | 追踪研究、跨期回归分析、[[Effect Size\|效应量]] $r$ | 同步[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数、交叉表一致性 | 验证性因素分析（[[Confirmatory Factor Analysis\|CFA]]）、多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]） | 专家内容评定、题目蓝图双向细目表 |
-> | **典型应用** | 大学入学考试、早期潜能预测、职业筛选 | 简化版新量表开发、替代性测验效验 | 心理特质理论建构、抽象能力测量 | 学科[[Achievement and Aptitude Tests\|成就测验]]、专业资格认证考试 |
+> | **典型应用** | 大学入学考试、早期潜能预测、职业筛选 | 简化版新[[Scale Development\|量表开发]]、替代性测验效验 | 心理特质理论建构、抽象能力测量 | 学科[[Achievement and Aptitude Tests\|成就测验]]、专业资格认证考试 |
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念并非跨情境通用的，而是深度内嵌于特定学科知识结构与社会情境中；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -36,6 +36,9 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Task Structure]]"
   - "[[Document]]"
+  - "[[Construct]]"
+  - "[[Creativity]]"
+  - "[[Divergent Thinking]]"
   - "[[Questionnaire]]"
   - "[[Infusion Approach]]"
   - "[[Dependent Variable]]"
@@ -45,13 +48,12 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Academic Achievement]]"
   - "[[Interaction Effect]]"
-  - "[[Creativity]]"
-  - "[[Common Method Variance]]"
 related_theories: []
 related_methods:
   - "[[Confirmatory Factor Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Discourse Analysis]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Factor Mixture Modeling]]"
   - "[[Systematic Review]]"
@@ -66,9 +68,9 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Sandoval_2016_RRE]]"
   - "[[Argument_Kuhn_2000_CD]]"
+  - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
-  - "[[Argument_Park_2026_TSC]]"
 confidence: high
 status: draft
 created: 2026-08-17
@@ -189,7 +191,7 @@ flowchart TD
 ### 命题五　创造力与批判性思维的领域特殊性使测量依赖领域特定产出，任务技能重叠会抬高构念间观察相关
 
 > [!concept-lens] 领域负荷与测量后果
-> 探讨两个构念的领域分殊如何使测量依赖领域特定产出，以及领域特异的任务技能重叠如何影响构念间观察相关。
+> 探讨两个[[Construct|构念]]的领域分殊如何使测量依赖领域特定产出，以及领域特异的任务技能重叠如何影响构念间观察相关。
 
 > [!claim] [[Argument_Park_2026_TSC|Park et al. (2026)]]
 > **两个构念均具领域特殊性** [[Critical Thinking|批判性思维]]在不同领域被赋予特定界定，心理批判性思维强调按心理科学原则评价信息（Lawson, 1999, 2015），护理批判性思维则强调为改善病人照护的批判分析与条件识别（Alfaro-LeFevre, 1999; Bandman & Bandman, 1988; Papathanasiou et al., 2014）；[[Creativity|创造力]]被共识性地视为多面、多领域的构念，其定义随研究者对多维度、多领域性质的探索而持续演变。（pp. 2, 11）
@@ -208,7 +210,7 @@ flowchart TD
 > | **测量结构特异性** | 心理测量数据显示不同学科的[[Epistemological Beliefs\|认识论信念]]在统计上构成相互独立的潜在因子。 | [[Epistemology\|认识论]]量表开发、[[Questionnaire\|问卷]][[Construct Validity\|结构效度]]验证 | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]]; [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
 > | **跨学科有效与混合最优** | [[Critical Thinking\|批判性思维]]在所有学科均可训练，且通用显性原则与学科融入相结合的混合模式效果最强。 | 课程体系设计、批判性思维教学改革 | McPeck (1981); [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 > | **微观情境资源化** | 宏观学科边界颗粒度过大，主张用微观任务情境中按需激活的认知资源替代固定领域信念。 | 课堂互动[[Discourse Analysis\|话语分析]]、真实探究任务设计 | [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]]; Hammer & Elby (2002) |
-> | **领域负荷与测量后果** | 创造力与批判性思维均具领域特殊性，创造力测量依赖领域特定产出，任务特异技能重叠抬高构念间观察相关。 | 创造力测量设计、构念间相关解读、元分析测量编码 | [[Argument_Park_2026_TSC\|Park et al. (2026)]]; Baer (2012); Myszkowski (2024) |
+> | **领域负荷与测量后果** | [[Creativity\|创造力]]与批判性思维均具领域特殊性，创造力测量依赖领域特定产出，任务特异技能重叠抬高[[Construct\|构念]]间观察相关。 | 创造力测量设计、构念间相关解读、[[Meta-analysis\|元分析]]测量[[Coding in Qualitative Research\|编码]] | [[Argument_Park_2026_TSC\|Park et al. (2026)]]; Baer (2012); Myszkowski (2024) |
 
 ---
 
@@ -255,4 +257,4 @@ flowchart TD
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 指出用“学科”界定领域依然颗粒度过大，提出了向更微观的“情境特异性”和动态资源池转型的理论方向。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — [[Systematic Review|系统综述]][[Epistemic Cognition|认识论认知]]在科学、数学等各学科中的[[Academic Achievement|学业表现]]关联。
 > - [[Argument_Song_Choi_2026_FPSYG|Song & Choi (2026)]] — 多水平[[Meta-analysis|元分析]]考察学生认识论发展在不同学习领域中的[[Interaction Effect|调节效应]]。
-> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 指出创造力与批判性思维均具领域特殊性，创造力测量依赖领域特定产出（发散流畅、自陈、领域产品），并提示任务特异技能重叠会抬高两构念间的观察相关。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 指出[[Creativity|创造力]]与批判性思维均具领域特殊性，创造力测量依赖领域特定产出（发散流畅、自陈、领域产品），并提示任务特异技能重叠会抬高两[[Construct|构念]]间的观察相关。

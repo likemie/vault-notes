@@ -47,10 +47,10 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 基于数据的决策（Data-Based Decision Making, DBDM）指教育者以系统层面与课堂层面的数据为依据作出教学与管理决策的取向，这类数据包括学生评估、[[Academic Achievement|学业表现]]、行为记录与学校管理信息。在《Educational Research》特刊导言中，[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 借助 Brown 等（本特刊）的论文，把 DBDM 与[[Research-Informed Teaching Practice|研究知情教学实践]]视为两个相对独立的"世界"，并主张在证据知情系统中二者应当被整合、却很少真正整合。
+> 基于数据的决策（Data-Based Decision Making, DBDM）指教育者以系统层面与课堂层面的数据为依据作出教学与管理决策的取向，这类数据包括学生评估、[[Academic Achievement|学业表现]]、行为记录与学校管理信息。在《Educational Research》特刊导言中，[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 借助 Brown 等（本特刊）的论文，把 DBDM 与[[Research-Informed Teaching Practice|研究知情教学实践]]视为两个相对独立的世界，并主张在证据知情系统中二者应当被整合、却很少真正整合。
 
 > [!concept-lens] 概念透镜
-> - **含义** 关注"用数据做决定"这一特定的证据使用形态，数据来自学校自身的信息系统，而非学术研究。
+> - **含义** 关注用数据做决定这一特定的证据使用形态，数据来自学校自身的信息系统，而非学术研究。
 > - **用途** 帮助区分以校内数据为依据的决策与以外部研究为依据的实践，从而解释为什么学校改进常常只停留在数据一端。
 > - **边界** DBDM 不等于[[Evidence-Informed Practice|证据知情实践]]：它只覆盖[[Data Literacy|数据素养]]与数据证据这一条渠道，不包含[[Professional Judgment|专业判断]]与[[Research Utilization|研究利用]]的完整整合。
 
@@ -95,7 +95,7 @@ updated: 2026-08-26
 
 > [!dev-timeline] 概念演变
 > - **2000s–2010s — 问责语境中的普及** 数据驱动决策在欧美问责政策与学校改进运动中成为常用语言，与测试本位问责制度并行（见 [[What Works Movement|什么有效运动]]）。
-> - **2017 — 与 [[Research-Informed Teaching Practice|RITP]] 的并置与整合主张** [[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 在特刊导言中记录 DBDM 与[[Research-Informed Teaching Practice|研究知情教学实践]]两个"世界"，主张以学校探究循环实现整合。
+> - **2017 — 与 [[Research-Informed Teaching Practice|RITP]] 的并置与整合主张** [[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 在特刊导言中记录 DBDM 与[[Research-Informed Teaching Practice|研究知情教学实践]]两个世界，主张以学校探究循环实现整合。
 
 ---
 
@@ -109,10 +109,10 @@ updated: 2026-08-26
 
 ## 应用案例
 
-> [!case] 案例：Brown 等——DBDM 与 RITP 的整合模型
-> Brown 等（本特刊）提出"证据知情的学校与教师改进"模型，把 DBDM 与 RITP 的最佳实践放进系统的学校探究循环，作为整合两个"世界"的路径（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）。
+> [!case] 案例：DBDM 与 [[Research-Informed Teaching Practice|RITP]] 的整合模型（Brown 等）
+> Brown 等（本特刊）提出证据知情的学校与教师改进模型，把 DBDM 与 RITP 的最佳实践放进系统的学校探究循环，作为整合两个世界的路径（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）。
 
-> [!case] 案例：LaPointe-McEwan 等——课堂数据的层级
+> [!case] 案例：课堂数据的层级（LaPointe-McEwan 等）
 > LaPointe-McEwan 等（本特刊）通过课堂数据层级分析表明，正式终结性评估主导决策，教育者需以[[Data Literacy|数据素养]]与[[Triangulation|三角验证]]拓宽课堂证据视角（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）。
 
 ---
@@ -120,4 +120,4 @@ updated: 2026-08-26
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 特刊导言把 DBDM 作为与[[Research-Informed Teaching Practice|研究知情教学实践]]相对的数据使用形态，并主张二者在证据知情系统中整合。
+> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — DBDM 被作为与[[Research-Informed Teaching Practice|研究知情教学实践]]相对的数据使用形态，并主张二者在证据知情系统中整合。

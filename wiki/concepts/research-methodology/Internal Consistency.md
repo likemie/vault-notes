@@ -9,7 +9,7 @@ aliases:
 summary: "信度作为内部一致性的形式，衡量多项目量表中各条目测量同一底层构念的程度，通过半分法与Spearman-Brown公式或Cronbach alpha量化，后者等效于所有可能半分方式的Spearman-Brown校正值的平均值"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Purpose]]"
 related_methods:
   - "[[Survey Research]]"
+  - "[[Scale Development]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -57,7 +58,7 @@ updated: 2026-06-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 内部一致性回答的核心问题是：量表中的这些条目是否在协同一致地测量同一个东西？它衡量的是**项目之间**（而非受试者之间或时间点之间）的一致性。
-> - **用途** 在多项目量表（如[[Rating Scale|态度量表]]、人格测验、能力测试）的开发与验证中，内部一致性是最核心的信度指标。它是[[Survey Research|调查研究]]和量表开发中最常报告的信度形式。
+> - **用途** 在多项目量表（如[[Rating Scale|态度量表]]、人格测验、能力测试）的开发与验证中，内部一致性是最核心的信度指标。它是[[Survey Research|调查研究]]和[[Scale Development|量表开发]]中最常报告的信度形式。
 > - **边界** 内部一致性不同于[[Test-Retest Reliability|重测信度]]（后者关注跨时间的稳定性），也不同于[[Inter-Rater Reliability|评分者间信度]]（后者关注跨评分者的一致性）。它衡量的是单一时间点、单次施测中条目间的相互关联。
 
 ---

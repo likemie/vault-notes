@@ -7,7 +7,7 @@ summary: "一种多变量统计技术，用于在没有预设明确结构的情�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Simplicity of Knowledge]]"
 related_theories: []
 related_methods:
+  - "[[Scale Development]]"
   - "[[Confirmatory Factor Analysis]]"
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-17
-updated: 2026-08-20
+updated: 2026-08-26
 ---
 
 # Exploratory Factor Analysis
@@ -111,7 +112,7 @@ updated: 2026-08-20
 
 > [!method-limits] 方法局限
 > - **误用风险** 经常与主成分分析（PCA）混淆（软件中常默认 PCA），而两者的理论[[Hypothesis|假设]]不同（EFA 假设观测[[Variable|变量]]受潜在因子影响并包含误差，PCA 仅是数据的数学降维重组）。
-> - **适用边界** EFA 只是一个探索过程，不能提供模型整体拟合程度的显著性检验。量表编制完成后，通常还需要重新收集另一个独立样本的数据，进行[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）来确认该结构。
+> - **适用边界** EFA 只是一个探索过程，不能提供模型整体拟合程度的显著性检验。[[Scale Development|量表编制]]完成后，通常还需要重新收集另一个独立样本的数据，进行[[Confirmatory Factor Analysis|验证性因子分析]]（CFA）来确认该结构。
 
 ---
 
@@ -120,4 +121,4 @@ updated: 2026-08-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2015_TeachingTOK|Bergeron & Rogers (2015)]] — 量化部分利用探索性因子分析（EFA，带主成分提取）检验了包含 11 道题的教学信心量表结构，确认其单一维度结构并解释了 35.03% 的累积方差。
 > - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 对 447 名十年级中学生的 Schommer 修订版[[Epistemology|认识论]][[Questionnaire|问卷]]（[[Schommer's Modified Epistemological Questionnaire|SMEQ]]）52 个题项进行主轴探索性因子分析与方差最大旋转，提取出固定与快速学习能力（FQAL）、[[Simplicity of Knowledge|简单知识]]（SK）和确定知识（CK）三个核心因子（解释 16.81% 方差）。
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 对 310 名教师的 56 个初测题项进行主轴因子分解与方差最大正交旋转，经交叉载荷筛选提取出涵盖技能、态度、使用与意识的 4 因子 20 题结构（解释 62.602% 累积方差）。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 对 310 名中小学教师的 56 个初测题项进行主轴因子分解（Principal Axis Factoring）与方差最大正交旋转（Varimax），经题总相关（$r < .30$ 剔除 3 题）与载荷准则（载荷 $> .32$、跨载荷差 $> .10$）逐题筛选，最终提取出涵盖技能（46.90% 方差）、态度（7.20% 方差）、使用（4.60% 方差）与意识（3.80% 方差）的 4 因子 20 题结构（KMO = .966，解释 62.602% 累积方差）。

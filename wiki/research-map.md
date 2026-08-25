@@ -27,7 +27,7 @@ related_methods:
     <a href="/wiki/facts"><span>事实</span><strong>311</strong></a>
     <a href="/wiki/persons"><span>人物</span><strong>211</strong></a>
     <a href="/wiki/theories"><span>理论</span><strong>124</strong></a>
-    <a href="/wiki/methods"><span>方法</span><strong>205</strong></a>
+    <a href="/wiki/methods"><span>方法</span><strong>206</strong></a>
     <a href="/wiki/instruments"><span>测量工具</span><strong>27</strong></a>
   </div>
 

@@ -44,7 +44,7 @@ updated: 2026-08-26
 ## 定义
 
 > [!def] 核心定义
-> 研究知情教学实践（Research-Informed Teaching Practice, RITP）指以学术研究证据为依据组织课堂教学实践的取向，研究证据是实践决策的重要输入，但不等同于全部证据。[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 明确指出，"evidence-informed" 与 "research-informed" 并非一回事：研究证据只是证据知情拼图（evidence-informed [[Jigsaw]]）中的一块；特刊中 Brown 等（本特刊）的论文把 RITP 与[[Data-Based Decision Making|基于数据的决策]]视为两个"世界"，主张在证据知情系统中二者应被整合。
+> 研究知情教学实践（Research-Informed Teaching Practice, RITP）指以学术研究证据为依据组织课堂教学实践的取向，研究证据是实践决策的重要输入，但不等同于全部证据。[[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 明确指出，evidence-informed 与 research-informed 并非一回事：研究证据只是证据知情拼图（evidence-informed [[Jigsaw]]）中的一块；特刊中 Brown 等（本特刊）把 RITP 与[[Data-Based Decision Making|基于数据的决策]]视为两个世界，主张在证据知情系统中二者应被整合。
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注研究证据在课堂实践中的位置与作用方式，强调它应当进入而非取代[[Professional Judgment|专业判断]]。
@@ -72,7 +72,7 @@ updated: 2026-08-26
 ## 核心要素
 
 > [!feature] 核心要素
-> - **研究证据的"一块拼图"地位** [[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 强调研究证据是证据知情拼图的重要组成部分，但 [[Evidence-Informed Practice|EIP]] 不等于 RITP，课堂数据与系统数据同样重要。
+> - **研究证据的一块拼图地位** [[Argument_Nelson_2017_ER|Nelson & Campbell（2017, p.129）]] 强调研究证据是证据知情拼图的重要组成部分，但 [[Evidence-Informed Practice|EIP]] 不等于 RITP，课堂数据与系统数据同样重要。
 > - **与数据世界的整合** Brown 等（本特刊）提出证据知情的学校与教师改进模型，把 RITP 与[[Data-Based Decision Making|DBDM]]的最佳实践放入系统的学校探究循环（school enquiry cycle）。
 > - **[[Research Literacy|研究素养]]** 教育者需要发展研究素养与[[Data Literacy|数据素养]]，才能把研究证据与数据一起用于专业探究与学校改进（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, pp.130–131]]）。
 
@@ -96,12 +96,12 @@ updated: 2026-08-26
 
 ## 应用案例
 
-> [!case] 案例：Brown 等——RITP 与 DBDM 的整合模型
-> Brown 等（本特刊）提出"证据知情的学校与教师改进"模型，把 RITP 与 DBDM 的最佳实践放进系统的学校探究循环；该模型强调研究素养与数据素养并重，为专业探究与学校改进汇聚证据（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）。
+> [!case] 案例：RITP 与 [[Data-Based Decision Making|DBDM]] 的整合模型（Brown 等）
+> Brown 等（本特刊）提出证据知情的学校与教师改进模型，把 RITP 与 DBDM 的最佳实践放进系统的学校探究循环；该模型强调[[Research Literacy|研究素养]]与[[Data Literacy|数据素养]]并重，为专业探究与学校改进汇聚证据（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 129]]）。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 特刊导言把 RITP 作为研究证据使用形态，主张与[[Data-Based Decision Making|DBDM]]整合并纳入[[Evidence-Informed Practice|证据知情实践]]框架。
+> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — RITP 被作为研究证据使用形态，主张与[[Data-Based Decision Making|DBDM]]整合并纳入[[Evidence-Informed Practice|证据知情实践]]框架。

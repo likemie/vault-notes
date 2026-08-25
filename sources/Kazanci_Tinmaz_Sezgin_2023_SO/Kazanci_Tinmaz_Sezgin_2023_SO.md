@@ -1,6 +1,7 @@
 ---
 citation: "Kazancı Tınmaz, A., & Sezgin, F. (2023). Development of the Research Literacy Scale for Teachers. SAGE Open, 13(4), 1–19. https://doi.org/10.1177/21582440231199033"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
 processed_date: 2026-08-26
 ---
 
