@@ -7,7 +7,7 @@ title: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_key: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_display_title: "The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -65,6 +65,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-regression]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[PRISMA]]"
   - "[[Cochran's Q Test]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Pairwise Wald Tests]]"
@@ -89,10 +90,10 @@ updated: 2026-08-25
 ## 研究问题
 
 > [!question]
-> 在人工智能普及与生成式大语言模型带来的信息爆炸时代，学校教育的核心目标已从事实记忆、机械理解与常规套用等低阶思维（Lower-Order Thinking, LOT），转向分析、评价、创造、批判与推理等[[Higher-Order Thinking Skills|高阶思维]]（Higher-Order Thinking, HOT）。虽然理论上[[Graphic Organizer|图形组织器]]（Graphic Organizer, GO）能够通过空间隐喻提取关键信息并组织拓扑关系，将学生的认知努力从低阶信息保持中解放出来投入高阶思维，但既有实证研究结论存在显著分歧，部分研究显示显著强促进，部分研究未发现效果甚至报告负向干扰。本研究旨在通过大样本[[Meta-analysis|元分析]]系统回答两个核心问题：图形组织器对学生高阶思维的培养究竟具有多大的总体干预[[Effect Size|效应量]]？不同组织器形态（思维导图、论证图、概念图）、高阶思维[[Construct|构念]]层级（倾向、过程、技能）、思维类型（发散与聚合）、学习者学段（小学、中学、大学）以及社会经济背景（人均国内生产总值 Gross Domestic Product per capita, GDP per capita 与发表年份）如何调节这一促进效应？
+> 在人工智能普及与生成式大语言模型带来的信息爆炸时代，学校教育的核心目标已从事实记忆、机械理解与常规套用等低阶思维（Lower-Order Thinking, LOT），转向分析、评价、创造、批判与推理等[[Higher-Order Thinking Skills|高阶思维]]（Higher-Order Thinking, HOT）。虽然理论上[[Graphic Organizer|图形组织器]]（Graphic Organizer, GO）能够通过空间隐喻提取关键信息并组织拓扑关系，将学生的认知努力从低阶信息保持中解放出来投入高阶思维，但既有实证研究结论存在显著分歧，部分研究显示显著强促进，部分研究未发现效果甚至报告负向干扰。本研究旨在通过大样本[[Meta-analysis|元分析]]系统回答两个核心问题：图形组织器对学生高阶思维的培养究竟具有多大的总体干预[[Effect Size|效应量]]？不同组织器形态（思维导图、[[Argument Mapping|论证图]]、概念图）、高阶思维[[Construct|构念]]层级（倾向、过程、技能）、思维类型（发散与聚合）、学习者学段（小学、中学、大学）以及社会经济背景（人均国内生产总值 Gross Domestic Product per capita, GDP per capita 与发表年份）如何调节这一促进效应？
 
 > [!claim] 核心主张
-> 图形组织器对学生高阶思维的发展具有中等至强效的显著促进作用（$g = 0.778$）；其干预收益表现出明确的结构开销梯度与认知加工层级性：单中心低开销的思维导图促学效应最强（$g = 1.041$），显著优于线性逻辑的论证图（$g = 0.798$）与多向交叉网络的概念图（$g = 0.548$）；对[[Divergent Thinking|发散思维]]的赋能（$g = 1.167$）显著大于[[Convergent Thinking|聚合思维]]（$g = 0.680$）；对高阶思维倾向（$g = 0.945$）与即时认知过程（$g = 0.912$）的促进幅度显著高于远端技能测验结果（$g = 0.560$）；中学生群体因具备成熟的形式运算与元表征能力且能抵抗诱人细节干扰，获益最为突出（$g = 1.113$）。
+> 图形组织器对学生高阶思维的发展具有中等至强效的显著促进作用（$g = 0.778$）；其干预收益表现出明确的结构开销梯度与认知加工层级性：单中心低开销的思维导图促学效应最强（$g = 1.041$），显著优于线性逻辑的论证图（$g = 0.798$）与多向交叉网络的概念图（$g = 0.548$）；对[[Divergent Thinking|发散思维]]的赋能（$g = 1.167$）显著大于[[Convergent Thinking|聚合思维]]（$g = 0.680$）；对高阶思维倾向（$g = 0.945$）与即时认知过程（$g = 0.912$）的促进幅度显著高于远端技能测验结果（$g = 0.560$）；中学生群体因具备成熟的形式运算与[[Meta-Representational Competence|元表征能力]]且能抵抗诱人细节干扰，获益最为突出（$g = 1.113$）。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 全球 19 个国家 66 项实证研究，共 72 个独立效应量，$N = 4{,}824$ 名基础教育与高等教育学生。
@@ -109,11 +110,11 @@ updated: 2026-08-25
 > | **[[Cognitive Load Theory\|认知负荷理论（Cognitive Load Theory）]]**<br>Sweller / Mayer | 解释人类[[Working Memory\|工作记忆]]容量的有限性；阐明[[Graphic Organizer\|图形组织器]]如何通过外在空间拓扑结构整合零散信息，降低瞬时工作记忆中的表层信息检索与识别负荷，将有限的心智资源释放并重新配置到高阶认知加工中。（pp.1–3） |
 > | **空间隐喻理论（Spatial Metaphor Theory）**<br>Lakoff & Johnson | 阐明大脑如何借助空间邻近性、包含关系与分支走向等视觉拓扑隐喻表征抽象语义与逻辑关联，通过海马体至大脑皮层的神经通道强化从短时记忆向长时记忆的深层理解转化。（pp.2–3） |
 > | **高阶思维三元发展模型（Higher-Order Thinking Tripartite Framework, HOT Tripartite Framework）**<br>Hwang et al. / Thamrin & Widodo | 将[[Higher-Order Thinking Skills\|高阶思维]]解构为驱动端（思维倾向）、加工端（认知过程）与产出端（技能结果），揭示外在认知脚手架对即时生成过程与探究心向的直接赋能机制。（pp.2–3） |
-> | **元表征与自我脚手架理论（Meta-Representational Competence & Self-Scaffolding）**<br>diSessa & Sherin / Bickhard | 解释不同年龄学段学生利用外在视觉表征工具的认知门槛与自适应能力，阐明中学生、小学生与大学生获益差异的发[[Conatus\|生机]]制。（p.4） |
-> | **双重编码理论与综合文本及图示理解模型（Dual Coding & Integrated Model of Text and Picture Comprehension, ITPC）**<br>Paivio / Mayer / Schnotz | 阐明视觉空间通道与言语听觉通道的协同表征机制，说明图形组织器如何通过图文协同构建双重认知通道，增强概念整合与深层理解。（pp.2–3） |
+> | **[[Meta-Representational Competence\|元表征能力]]与[[Self-Scaffolding\|自我脚手架理论]]**<br>diSessa & Sherin / Bickhard | 解释不同年龄学段学生利用外在视觉表征工具的认知门槛与自适应能力，阐明中学生、小学生与大学生获益差异的发[[Conatus\|生机]]制。（p.4） |
+> | **[[Dual Coding Theory\|双重编码理论（Dual Coding Theory）]]与 ITPC 模型**<br>Paivio / Mayer / Schnotz | 阐明视觉空间通道与言语听觉通道的协同表征机制，说明图形组织器如何通过图文协同构建双重认知通道，增强概念整合与深层理解。（pp.2–3） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架通过空间表征卸载负荷、释放高阶工作记忆、驱动探究倾向与认知过程、沉淀为稳定思维技能的逻辑链条，将外在教学脚手架与内在认知机能紧密连接。认知负荷理论与空间隐喻解释了图形组织器何以能产生整体促进效应（$g = 0.778$）；高阶思维三元结构与表征复杂度理论则为解释导图类型级差（导图 > 论证图 > 概念图）、思维维度级差（发散 > 聚合；倾向与过程 > 技能）以及学段发展倒U型特征提供了严密的机制推论桥梁。（pp.2–4, 11–12）
+> 理论框架通过空间表征卸载负荷、释放高阶工作记忆、驱动探究倾向与认知过程、沉淀为稳定思维技能的逻辑链条，将外在教学脚手架与内在认知机能紧密连接。认知负荷理论与空间隐喻解释了图形组织器何以能产生整体促进效应（$g = 0.778$）；高阶思维三元结构与表征复杂度理论则为解释导图类型级差（导图 > [[Argument Mapping|论证图]] > 概念图）、思维维度级差（发散 > 聚合；倾向与过程 > 技能）以及学段发展倒U型特征提供了严密的机制推论桥梁。（pp.2–4, 11–12）
 
 ### 核心变量与操作化编码表
 
@@ -126,9 +127,9 @@ updated: 2026-08-25
 > | **结果变量：[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 面对开放性问题生成新颖、多样且非常规构想与替代方案的[[Creativity\|创造性]]心智加工。 | 采用观念流畅性与独创性测验、头脑风暴方案多样性评分与创造性解题任务（Bin et al., 2022; Chen, 2020）。 |
 > | **结果变量：[[Convergent Thinking\|聚合思维]]**<br>（Convergent Thinking） | 基于严密逻辑规则对信息进行批判性审视、筛选、演绎与收敛至最优解的思维。 | 采用演绎推理测验、论据有效性识别与标准化单项选择推理题（Akinoglu, 2013; Bilik et al., 2020）。 |
 > | **干预变量：思维导图**<br>（Mind Mapping） | 以单一中心概念为核心向外辐射多级分支，低结构复杂度，强调联想发散与速记。 | 教学采用教师导入规则、自主发散绘制与反馈迭代规程，应用于头脑风暴与创意写作（Chiu & Hwang, 2024; Chen, 2020）。 |
-> | **干预变量：论证图**<br>（Argument Mapping） | 严格依循主张、证据、保证与反驳的逻辑语法，表征线性或树状论辩推导链条。 | 教学引导学生梳理争议论据与批判性写作逻辑，结构化支撑论辩推理（Botley & Hakim, 2014; Ristanto et al., 2022）。 |
+> | **干预变量：[[Argument Mapping\|论证图]]**<br>（Argument Mapping） | 严格依循主张、证据、保证与反驳的逻辑语法，表征线性或树状论辩推导链条。 | 教学引导学生梳理争议论据与批判性写作逻辑，结构化支撑论辩推理（Botley & Hakim, 2014; Ristanto et al., 2022）。 |
 > | **干预变量：概念图**<br>（Concept Mapping） | 包含多节点交叉连接（Cross-links）与命题连接词的复杂网状语义表征工具。 | 教学用于复杂领域概念建模，要求标明概念间命题关系，结构复杂度较高（Bilik et al., 2020; Su, 2018）。 |
-> | **调节变量：学习者学段**<br>（Grade Level） | 划分为小学、中学与大学三个发展阶段。 | 检验[[Jean Piaget\|皮亚杰]]形式运算、元表征能力成熟度与自我脚手架水平对促学效应的调节作用（纳入大学 49 项、中学 17 项、小学 5 项）。 |
+> | **调节变量：学习者学段**<br>（Grade Level） | 划分为小学、中学与大学三个发展阶段。 | 检验[[Jean Piaget\|皮亚杰]]形式运算、[[Meta-Representational Competence\|元表征能力]]成熟度与[[Self-Scaffolding\|自我脚手架]]水平对促学效应的调节作用（纳入大学 49 项、中学 17 项、小学 5 项）。 |
 > | **调节变量：宏观社会经济**<br>（GDP & Publication Year） | 纳入国家人均国内生产总值（按世界银行数据做 Z 分数标准化）与[[Document\|文献]]发表年份（反映技术发展）。 | 检验经济投入、数字化图示工具可获得性与现代教学法培训对工具促学效能的正向赋能效应（[[Meta-regression\|元回归]]模型）。 |
 > | **控制变量：学科与时长**<br>（Subject & Duration） | 学科划分为科学、技术、工程与数学领域（Science, Technology, Engineering, and Mathematics, STEM）与人文社科；干预时长划分为 4 周以内、4 至 12 周与 12 周以上。 | 检验图形组织器的跨学科普适性与时间效应稳定性（[[Meta-analysis\|元分析]]证实学科与时长均无显著调节作用）。 |
 >
@@ -142,7 +143,7 @@ updated: 2026-08-25
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **文献检索与筛选**<br>Systematic Search & PRISMA | 系统检索 Web of Science、Scopus、ERIC、PsycINFO 与 CNKI 数据库（建库至 2024 年 1 月），采用[[Graphic Organizer\|图形组织器]]关键词（concept map, mind map, argument map, visual organizer 等）与[[Higher-Order Thinking Skills\|高阶思维]]关键词（higher-order thinking, [[Critical Thinking]], problem solving, [[Creativity\|creative thinking]] 等）布尔组合检索。依据严格的实验/[[Quasi-Experimental Designs\|准实验设计]]与完整统计量报告标准，依循[[PRISMA\|系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）]]最终纳入 66 篇符合标准的实证[[Document\|文献]]（共 72 个[[Effect Size\|效应量]]，图 3 PRISMA 流程图）。（pp.4–5） |
-> | **数据提取与质量评估**<br>Coding & Quality Assessment | 由两位研究者独立提取样本量、均值、标准差、$t/F/\chi^2$ 统计量及调节变量信息，[[Inter-Rater Reliability\|编码者间一致性信度（Inter-Rater Reliability）]]达 Krippendorff's $\alpha = 0.813$。采用 28 分制方法学质量量表评估各研究的组别等质性、测量信效度与控制严密性（纳入研究得分介于 17 至 28 分，$M = 23.6$）。（pp.5–8） |
+> | **数据提取与质量评估**<br>Coding & Quality Assessment | 由两位研究者独立提取样本量、均值、标准差、$t/F/\chi^2$ 统计量及调节变量信息，[[Inter-Rater Reliability\|编码者间一致性信度（Inter-Rater Reliability）]]达 Krippendorff's $\alpha = 0.813$。采用 [[Kmet Quality Assessment Checklist\|Kmet 方法学质量评价量表]]（14 项准则，满分 28 分）评估各研究的组别等质性、测量信效度与控制严密性（纳入研究得分介于 17 至 28 分，$M = 23.6$）。（pp.5–8） |
 > | **效应量计算与统计建模**<br>Meta-Analysis & Meta-Regression | 计算无偏[[Effect Size\|效应量]] Hedges' $g$；采用 [[Cochran's Q Test\|Cochran's Q 检验]]与 [[I-squared Statistic\|I² 统计量]]检验效应[[Heterogeneity\|异质性]]；鉴于初级研究在教学情境与人群上的异质性，采用[[Fixed-Effect and Random-Effects Models\|随机效应模型（Random-Effects Model）]]估计总体效应；运用亚组 $Q_{between}$ 检验与[[Pairwise Wald Tests\|成对 Wald 检验（Pairwise Wald Tests）]]比较分类调节变量组间及两两亚组差异；运用单变量[[Meta-regression\|元回归（Meta-regression）]]检验连续型协变量（人均 GDP、发表年份、性别比例）。（pp.5–6, 9–10） |
 > | **发表偏倚诊断**<br>Publication Bias Diagnostics | 综合运用[[Funnel Plot\|漏斗图（Funnel Plot）]]、[[Egger Regression Test\|Egger 线性回归检验]]、Begg 秩相关检验与 [[Fail-Safe N\|Rosenthal 失安全系数（Fail-Safe N）]]系统诊断潜在[[Publication Bias\|发表偏倚]]。（pp.6, 9） |
 
@@ -224,7 +225,7 @@ updated: 2026-08-25
 
 ### 论证步骤三　图形组织器结构复杂度与认知开销的效能级差检验
 
-> [!example]- 图2：概念图、论证图与思维导图结构形态对比
+> [!example]- 图2：概念图、[[Argument Mapping|论证图]]与思维导图结构形态对比
 > ![](https://img.mylikemie.icu/sources/Lei_Ding_Chiu_2026_ERR/figures/Lei_Ding_Chiu_2026_ERR_Fig2_Graphic_Organizer_Types.jpg)
 
 > [!claim] 步骤三主张
@@ -246,7 +247,7 @@ updated: 2026-08-25
 ### 论证步骤四　学习者认知发展阶段与宏观社会经济背景的调节效应
 
 > [!claim] 步骤四主张
-> 图形组织器的促学收益受学习者元表征能力与社会技术条件的双重调节，呈现出中学生收益最高、经济与技术发展水平正向赋能的分布格局。
+> 图形组织器的促学收益受学习者[[Meta-Representational Competence|元表征能力]]与社会技术条件的双重调节，呈现出中学生收益最高、经济与技术发展水平正向赋能的分布格局。
 
 > [!chain-link] 证据到判断
 > 1. **学段发展调节** 中学生获益最大（$g = 1.113$），显著高于小学生（$g = 0.877$）与大学生（$g = 0.659$）。
@@ -262,7 +263,7 @@ updated: 2026-08-25
 > | **高阶思维类型**<br>（HOT type） | **[[Divergent Thinking\|发散思维]]（Divergent）** | **7.07\*\*** | 14 | 1.167 | 0.166 | [0.841, 1.493] | 82.2% |
 > | | **[[Convergent Thinking\|聚合思维]]（Convergent）** | — | 55 | 0.680 | 0.074 | [0.535, 0.825] | 83.6% |
 > | **图形组织器形态**<br>（GO type） | **思维导图（Mind mapping）** | **9.13\*** | 16 | 1.041 | 0.158 | [0.704, 1.379] | 88.0% |
-> | | **论证图（Argument mapping）** | — | 12 | 0.798 | 0.150 | [0.469, 1.237] | 75.6% |
+> | | **[[Argument Mapping\|论证图]]（Argument mapping）** | — | 12 | 0.798 | 0.150 | [0.469, 1.237] | 75.6% |
 > | | **概念图（Concept mapping）** | — | 36 | 0.548 | 0.071 | [0.403, 0.692] | 69.6% |
 > | **学习者学段**<br>（Grade level） | **中学阶段** | **6.61\*** | 17 | 1.113 | 0.167 | [0.759, 1.467] | 84.4% |
 > | | **小学阶段** | — | 5 | 0.877 | 0.207 | [0.303, 1.451] | 73.5% |
@@ -288,13 +289,13 @@ updated: 2026-08-25
 > 注：\*\*$p < .05$；\*\*\*$p < .01$。（p.11）
 
 > [!warrant]- 推理桥梁
-> 小学生尚未完全发展成熟的元表征能力，极易受到图示中无关视觉元素的干扰（诱人细节效应）；大学生已具备成熟的内部空间表征与自我脚手架能力（Self-Scaffolding），对外在图示的依赖性减弱；中学生正处于[[Jean Piaget\|皮亚杰]]形式运算阶段的快速发展期，外部脚手架与内在认知发展需求完美契合，因而收益最大。此外，高收入国家与近年研究拥有更先进的可视化数字技术工具与更高水平的教师教学法培训，从而放大了工具的应用效能。（pp.4, 11–12）
+> 小学生尚未完全发展成熟的[[Meta-Representational Competence|元表征能力]]，极易受到图示中无关视觉元素的干扰（[[Seductive Details Effect|诱人细节效应]]）；大学生已具备成熟的内部空间表征与[[Self-Scaffolding|自我脚手架]]能力（Self-Scaffolding），对外在图示的依赖性减弱；中学生正处于[[Jean Piaget\|皮亚杰]]形式运算阶段的快速发展期，外部脚手架与内在认知发展需求完美契合，因而收益最大。此外，高收入国家与近年研究拥有更先进的可视化数字技术工具与更高水平的教师教学法培训，从而放大了工具的应用效能。（pp.4, 11–12）
 
 ---
 
 ### 论证步骤五　元分析方法学诊断与发表偏倚检验
 
-> [!example]- 图3：[[Literature Search\|文献检索]]与筛选 PRISMA 流程图
+> [!example]- 图3：[[Literature Search\|文献检索]]与筛选 [[PRISMA]] 流程图
 > ![](https://img.mylikemie.icu/sources/Lei_Ding_Chiu_2026_ERR/figures/Lei_Ding_Chiu_2026_ERR_Fig3_PRISMA_Flowchart.jpg)
 
 > [!example]- 图4：[[Meta-analysis\|元分析]]纳入研究[[Funnel Plot\|漏斗图]]
@@ -321,7 +322,7 @@ updated: 2026-08-25
 > [!finding-cards] 核心发现
 > 1. **确立总体显著促进基准** [[Graphic Organizer|图形组织器]]对学生[[Higher-Order Thinking Skills|高阶思维]]的培养具有中等到强效的显著促进作用（$g = 0.778$），证实了空间可视化工具卸载低阶认知负荷、赋能高阶加工的理论[[Hypothesis|假设]]。（pp.1, 9）
 > 2. **揭示思维层级与类型级差** 图形组织器对高阶思维倾向（$g = 0.945$）与认知过程（$g = 0.912$）的促进显著强于技能结果（$g = 0.560$），对[[Divergent Thinking|发散思维]]（$g = 1.167$）的提升显著强于[[Convergent Thinking|聚合思维]]（$g = 0.680$）。（pp.9–10）
-> 3. **厘清组织器形态结构开销** 工具形态复杂度直接决定促学效能，思维导图（$g = 1.041$）显著优于论证图（$g = 0.798$）与概念图（$g = 0.548$）。（pp.9–10）
+> 3. **厘清组织器形态结构开销** 工具形态复杂度直接决定促学效能，思维导图（$g = 1.041$）显著优于[[Argument Mapping|论证图]]（$g = 0.798$）与概念图（$g = 0.548$）。（pp.9–10）
 > 4. **发现学段发展倒U型与社会技术红利** 中学生群体获益最大（$g = 1.113$），且国家人均 GDP 与近年发表[[Document|文献]]表现出更强的促学效应，性别、学科门类与干预时长无显著调节作用。（pp.10–11）
 
 > [!stat-cards]- 核心数据

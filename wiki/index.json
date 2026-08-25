@@ -4396,6 +4396,18 @@
     ]
   },
   {
+    "title": "Argument Mapping",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Argument Mapping.md",
+    "aliases": [
+      "论证图",
+      "论证图示",
+      "论辩图",
+      "Argument Map",
+      "Argument Maps"
+    ]
+  },
+  {
     "title": "Assessment Backwash",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Assessment Backwash.md",
@@ -5030,6 +5042,16 @@
     ]
   },
   {
+    "title": "Meta-Representational Competence",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Meta-Representational Competence.md",
+    "aliases": [
+      "元表征能力",
+      "元表征胜任力",
+      "MRC"
+    ]
+  },
+  {
     "title": "Metacognition",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Metacognition.md",
@@ -5115,6 +5137,17 @@
     ]
   },
   {
+    "title": "Seductive Details Effect",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Seductive Details Effect.md",
+    "aliases": [
+      "诱人细节效应",
+      "诱惑性细节效应",
+      "Seductive-Details Effect",
+      "Seductive Details Hypothesis"
+    ]
+  },
+  {
     "title": "Self-Continuity, Self-Distinctness, and Self-Agency",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Self-Continuity, Self-Distinctness, and Self-Agency.md",
@@ -5154,6 +5187,17 @@
       "自我效能感",
       "perceived self-efficacy",
       "自我效能"
+    ]
+  },
+  {
+    "title": "Self-Scaffolding",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self-Scaffolding.md",
+    "aliases": [
+      "自我脚手架",
+      "自主支架",
+      "自我支架",
+      "Self Scaffolding"
     ]
   },
   {
@@ -10269,6 +10313,16 @@
     ]
   },
   {
+    "title": "Dual Coding Theory",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Dual Coding Theory.md",
+    "aliases": [
+      "双重编码理论",
+      "DCT",
+      "Dual-Coding Theory"
+    ]
+  },
+  {
     "title": "Hebbian Principles",
     "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Hebbian Principles.md",
@@ -12967,6 +13021,16 @@
       "Graphical Representation of Overlap for OVErviews",
       "GROOVE Tool",
       "重叠图形表征工具"
+    ]
+  },
+  {
+    "title": "Kmet Quality Assessment Checklist",
+    "type": "instrument",
+    "path": "wiki/instruments/rubric/Kmet Quality Assessment Checklist.md",
+    "aliases": [
+      "Kmet Checklist",
+      "Kmet Quality Assessment",
+      "Kmet Checklist for Quantitative Studies"
     ]
   },
   {
