@@ -28,7 +28,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Received Knowledge]]"
   - "[[Subjective Knowledge]]"
-  - "[[Procedural Knowledge]]"
+  - "[[Procedural Skill]]"
   - "[[Constructed Knowledge]]"
   - "[[Ways of Knowing]]"
   - "[[Absolute Knowing]]"
@@ -187,7 +187,7 @@ Belenky et al. (1986) 为了回应 Perry 样本的男性偏差，对135名女性
 >   知识依然来源于外部权威，但她们能够复述和传递这些知识。男性的二元论者倾向于认同权威，而她们仅仅处于接收状态。
 > - **[[Subjective Knowledge|主观知识]]（subjective knowledge）**
 >   真理的来源转向内心。知识是直觉的、个人的，每个人都有自己的观点。
-> - **[[Procedural Knowledge|程序知识]]（procedural knowledge）**
+> - **[[Procedural Knowledge|程序知识]]（Procedural Knowledge）**
 >   应用客观、系统的程序来进行分析。可分为两种：分离型认知（separate knowing，客观超然、批判思维）和连结型认知（connected knowing，通过同理心和个人理解获得知识）。
 > - **[[Constructed Knowledge|建构知识]]（constructed knowledge）**
 >   整合了主客观策略。知识和真理是情境化的，认知者自身是知识建构的紧密参与者，框架可以被重构。

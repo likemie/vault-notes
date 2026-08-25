@@ -47,6 +47,7 @@ related_concepts:
   - "[[Student Attitude]]"
   - "[[Document]]"
   - "[[Critical Thinking Disposition]]"
+  - "[[Procedural Skill]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Blue Skies Research]]"
   - "[[Flow]]"
@@ -68,6 +69,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[PRISMA]]"
   - "[[Effect Size Conversion]]"
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
@@ -88,7 +90,7 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -241,7 +243,7 @@ issuing_organization: ""
 > | Zheng et al. (2023) | 学生满意度 | .92 [.32, 1.53] | 8 | 外科 | 文章 | 非特定 | RCT 与非 RCT | 中等 | 至 2022 |
 > | Zheng et al. (2023) | 综合成绩 | .26 [−.37, .89] | 7 | 外科 | 文章 | 非特定 | RCT 与非 RCT | 中等 | 至 2022 |
 > | Li et al. (2024)* | 理论性知识 | 1.10 [.78, 1.41] | 42 | 骨科 | 文章 | 非特定 | RCT | 高 | 2023 前 |
-> | Li et al. (2024)* | 程序技能 | 2.07 [1.61, 2.53] | 31 | 骨科 | 文章 | 非特定 | RCT | 高 | 2023 前 |
+> | Li et al. (2024)* | [[Procedural Skill\|程序技能]] | 2.07 [1.61, 2.53] | 31 | 骨科 | 文章 | 非特定 | RCT | 高 | 2023 前 |
 > | Li et al. (2024)* | 临床技能 | 1.20 [.88, 1.52] | 12 | 骨科 | 文章 | 非特定 | RCT | 高 | 2023 前 |
 > | Li et al. (2024)** | 教学兴趣 | 4.70 [3.20, 6.93] | 10 | 骨科 | 文章 | 非特定 | RCT | 高 | 2023 前 |
 > | Li et al. (2024)** | 学生满意度 | 5.43 [3.83, 7.69] | 16 | 骨科 | 文章 | 非特定 | RCT | 高 | 2023 前 |
@@ -351,7 +353,7 @@ issuing_organization: ""
 
 ### 论证步骤四：严格筛选、质量评估与统一效应量尺度为二阶综合奠基
 
-> [!claim] PRISMA 检索、六项纳入标准、R-[[AMSTAR]] 质量评估与[[Effect Size Conversion|效应量转换]]，保证了二阶数据集的可比性
+> [!claim] [[PRISMA]] 检索、六项纳入标准、R-[[AMSTAR]] 质量评估与[[Effect Size Conversion|效应量转换]]，保证了二阶数据集的可比性
 > 从 495 项检索结果经去重与筛选得到 43 项候选，再按纳入标准最终保留 20 项元分析（469 项独立研究）。R-AMSTAR 质量得分作为调节[[Variable|变量]]，双人[[Coding in Qualitative Research|编码]]一致率 κ = 0.89，OR 与 Hedges' g 统一转换为 SMD，为[[Fixed-Effect and Random-Effects Models|随机效应模型]]合成奠定数据基础。（pp. 956–960）
 
 > [!chain-link] 证据到判断

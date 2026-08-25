@@ -2077,6 +2077,20 @@
     ]
   },
   {
+    "title": "Conceptual, Instrumental, and Symbolic Use of Research",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Conceptual, Instrumental, and Symbolic Use of Research.md",
+    "aliases": [
+      "研究使用的概念性、工具性与象征性类型学",
+      "概念性使用",
+      "工具性使用",
+      "象征性使用",
+      "conceptual use of research",
+      "instrumental use of research",
+      "symbolic use of research"
+    ]
+  },
+  {
     "title": "Critique of Evidence-Based Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Critique of Evidence-Based Education.md",
@@ -2947,6 +2961,19 @@
     ]
   },
   {
+    "title": "Conversational AI in Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Conversational AI in Education.md",
+    "aliases": [
+      "教育对话式智能体",
+      "对话式教育智能体",
+      "Conversational AI Agents",
+      "Conversational Agent in Education",
+      "教育聊天机器人",
+      "对话式智能体"
+    ]
+  },
+  {
     "title": "Data Behaviorism",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Data Behaviorism.md",
@@ -2978,6 +3005,18 @@
     ]
   },
   {
+    "title": "Educational Robotics",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Educational Robotics.md",
+    "aliases": [
+      "教育机器人",
+      "AI Educational Robotics",
+      "Educational Robots",
+      "人工智能教育机器人",
+      "具身教育智能体"
+    ]
+  },
+  {
     "title": "Educational Technology Industry",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Educational Technology Industry.md",
@@ -2994,6 +3033,19 @@
       "游戏化",
       "游戏化学习",
       "game-based reinforcement"
+    ]
+  },
+  {
+    "title": "Intelligent Tutoring Systems",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md",
+    "aliases": [
+      "智能导师系统",
+      "ITS",
+      "智能辅导系统",
+      "智能教学系统",
+      "Intelligent Tutoring System",
+      "Intelligent Tutoring Systems (ITS)"
     ]
   },
   {
@@ -5167,6 +5219,17 @@
     ]
   },
   {
+    "title": "Procedural Skill",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Procedural Skill.md",
+    "aliases": [
+      "程序性技能",
+      "程序技能",
+      "Skill-Based Outcomes",
+      "技能类认知结果"
+    ]
+  },
+  {
     "title": "School Norm Adaptation",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/School Norm Adaptation.md",
@@ -5328,6 +5391,18 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Working Memory.md",
     "aliases": [
       "工作记忆"
+    ]
+  },
+  {
+    "title": "Zone of Proximal Development",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Zone of Proximal Development.md",
+    "aliases": [
+      "最近发展区",
+      "ZPD",
+      "潜在发展区",
+      "邻近发展区",
+      "Zone of Proximal Development (ZPD)"
     ]
   },
   {
@@ -9635,6 +9710,15 @@
     ]
   },
   {
+    "title": "Research Literacy",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Research Literacy.md",
+    "aliases": [
+      "研究素养",
+      "研究阅读素养"
+    ]
+  },
+  {
     "title": "Teacher Beliefs",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Teacher Beliefs.md",
@@ -10043,6 +10127,26 @@
     ]
   },
   {
+    "title": "Governing Mechanisms of Research Use",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Governing Mechanisms of Research Use.md",
+    "aliases": [
+      "研究使用治理机制",
+      "研究使用的跨层治理机制",
+      "Four Governing Mechanisms"
+    ]
+  },
+  {
+    "title": "Quality Use of Research Evidence Framework",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md",
+    "aliases": [
+      "QURE",
+      "研究证据质量使用框架",
+      "Quality Use of Research Evidence"
+    ]
+  },
+  {
     "title": "Argumentative Reasoning",
     "type": "theory",
     "path": "wiki/theories/educational-psychology/Argumentative Reasoning.md",
@@ -10417,9 +10521,11 @@
     "type": "theory",
     "path": "wiki/theories/learning-science-cognitive-science/Piaget's Theory of Cognitive Development.md",
     "aliases": [
-      "piagets-theory-of-cognitive-development",
       "皮亚杰认知发展理论",
-      "认知发展阶段理论"
+      "认知发展阶段理论",
+      "皮亚杰发生认识论",
+      "Piaget's Cognitive Developmental Theory",
+      "Genetic Epistemology"
     ]
   },
   {
@@ -11412,6 +11518,16 @@
       "focused interviews",
       "focused interviewing",
       "Merton focused interview"
+    ]
+  },
+  {
+    "title": "Framework Synthesis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Framework Synthesis.md",
+    "aliases": [
+      "框架综合",
+      "框架式综合",
+      "best fit framework synthesis"
     ]
   },
   {
@@ -12946,8 +13062,8 @@
       "时间序列设计",
       "time series quasi-experiment",
       "interrupted time series",
-      "ITS",
-      "间断时间序列设计"
+      "间断时间序列设计",
+      "中断时间序列设计"
     ]
   },
   {
@@ -13102,6 +13218,16 @@
     ]
   },
   {
+    "title": "Mixed Methods Appraisal Tool",
+    "type": "instrument",
+    "path": "wiki/instruments/rubric/Mixed Methods Appraisal Tool.md",
+    "aliases": [
+      "MMAT",
+      "混合方法评价工具",
+      "混合方法鉴定工具"
+    ]
+  },
+  {
     "title": "Runco Ideational Behavior Scale",
     "type": "instrument",
     "path": "wiki/instruments/scale/Runco Ideational Behavior Scale.md",
@@ -13207,6 +13333,18 @@
     "aliases": [
       "RAT",
       "远距离联想测验"
+    ]
+  },
+  {
+    "title": "Watson-Glaser Critical Thinking Appraisal",
+    "type": "instrument",
+    "path": "wiki/instruments/tests/Watson-Glaser Critical Thinking Appraisal.md",
+    "aliases": [
+      "沃森-格拉瑟批判性思维测验",
+      "WGCTA",
+      "Watson-Glaser",
+      "Watson-Glaser Critical Thinking Test",
+      "沃森格拉瑟批判性思维测评"
     ]
   },
   {
@@ -18876,6 +19014,11 @@
     "title": "Argument_Wrigley_2019_ERE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Wrigley_2019_ERE.md"
+  },
+  {
+    "title": "Argument_Hagevold_Forsstrom_Keles_2026_ERR",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
   },
   {
     "title": "Argument_Lei_Ding_Chiu_2026_ERR",

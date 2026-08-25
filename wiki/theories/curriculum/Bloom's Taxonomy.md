@@ -11,7 +11,7 @@ aliases:
 summary: "将教育目标与学习产出按认知、情感与动作技能三领域分层解构的经典课程与评价理论框架，认知领域以六级思维阶梯（识记、理解、应用、分析、评价、创造）与二维知识-认知过程矩阵为核心，支撑教学设计、目标对齐与实证测量。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Operationalization]]"
   - "[[Task Structure]]"
+  - "[[Procedural Skill]]"
   - "[[Reflective Thinking]]"
   - "[[Externalization]]"
   - "[[AI Agent in Education]]"
@@ -110,7 +111,7 @@ updated: 2026-08-25
 > - **推导** ① 认知加工复杂度逐级攀升，后一阶段通常需要前一阶段的心智资源支持；② 教学评价能够根据目标动词的层级清晰判定学生的思维深度；③ 使得教育研究者与评估设计者能够超越粗糙的学业成绩概念，细致评估教学干预在不同认知层级上的差异化效能。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 5–7)]]
 
 > [!proposition-chain] 核心命题二｜教学干预与技术中介的促学效能受目标认知层级与[[Task Structure|任务结构]]的强劲调节
-> - **前提一** 处于不同认知层级的学习任务其内在认知负荷机制各异：低阶事实与程序技能依赖自动化演练与即时纠错，而高阶思维依赖[[Reflective Thinking|反思性探究]]与认知[[Externalization|外化]]。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 10–11)]]
+> - **前提一** 处于不同认知层级的学习任务其内在认知负荷机制各异：低阶事实与[[Procedural Skill|程序技能]]依赖自动化演练与即时纠错，而高阶思维依赖[[Reflective Thinking|反思性探究]]与认知[[Externalization|外化]]。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 10–11)]]
 >   > [!evidence-grid]- 证据
 >   > - **[[Meta-analysis|元分析]]实证证据（[[Argument_Liu_2026_CHBR|Liu et al., 2026]]）** AI [[AI Agent in Education|智能体]]干预在技能类结果（$g = 0.391, p < .001$）和知识类结果（$g = 0.344, p = .026$）上获得稳定显著增益，而在高阶思维（$g = 0.540, p = .066$）上表现出极高异质性（$I^2 = 95.4\%$）。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, p. 7)]]
 > - **前提二** 教学工具与技术形态对不同认知层级的赋能机制存在匹配边界：结构化提示易于优化程序技能，但高阶探究必须依赖显性教学法脚手架协同。

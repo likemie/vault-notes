@@ -35,6 +35,7 @@ related_concepts:
   - "[[Infusion Approach]]"
   - "[[Immersion Approach]]"
   - "[[Externalization]]"
+  - "[[Zone of Proximal Development]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
@@ -92,7 +93,7 @@ title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -130,7 +131,7 @@ issuing_organization: ""
 > | **显性教学与四类课程模式**<br>[[Explicit Critical Thinking Instruction]] · [[Ennis's Curricular Typology]] | [[Robert Ennis\|Ennis (1989)]] 提出的通用（General）、[[Infusion Approach\|融入（Infusion）]]、[[Immersion Approach\|沉浸（Immersion）]]与混合（Mixed）四类课程模式，用于区分思维原则的显性示范程度与学科知识的结合架构。（pp. 280–281） |
 > | **实用主义探究与真实学习**<br>[[Authentic Instruction]] | [[John Dewey\|杜威]]（Dewey）关于“言之有物”与真实情境探究的理论，论证真实生活问题、模拟演练与劣构情境在激发主动思考动机与提供认知锚点中的基底作用。（pp. 286–287） |
 > | **苏格拉底对话与社会建构**<br>[[Dialogue in Education]] | 强调师生提问、结构化辩论与同伴协商在暴露认知矛盾、检验论证充分性与[[Externalization\|外化]]思维过程中的核心中介机制。（pp. 285–286） |
-> | **学徒制与认知脚手架理论**<br>[[Mentorship]] | 导师示范专家思维、提供反思反馈并在最近发展区内提供适时支持，发挥认知脚手架与催化功能。（pp. 287–288） |
+> | **学徒制与认知脚手架理论**<br>[[Mentorship]] | 导师示范专家思维、提供反思反馈并在[[Zone of Proximal Development\|最近发展区]]内提供适时支持，发挥认知脚手架与催化功能。（pp. 287–288） |
 > | **批判哲学视角的反思**<br>[[Gert Biesta\|Biesta]] & Stams; Marshall | 从反教条主义与福柯“自由实践”视角审视标准化测量与工具化批判性思维的局限，为理解思维干预的深层价值与边界提供反思透镜。（pp. 278–280） |
 
 > [!warrant]- 理论如何支撑论证

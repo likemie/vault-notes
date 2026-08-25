@@ -12,9 +12,9 @@ title: "Argument_Wong_2022_HERD"
 argument_key: "Argument_Wong_2022_HERD"
 argument_display_title: "A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: Higher Education Research & Development
 citation: "Wong, B., Chiu, Y. L. T., Copsey-Blake, M., & Nikolopoulou, M. (2022). A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355."
@@ -30,7 +30,8 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Employability]]"
   - "[[Global Citizenship]]"
-  - "[[Procedural Knowledge]]"
+  - "[[Research Literacy]]"
+  - "[[Procedural Skill]]"
   - "[[Critical Thinking]]"
 related_theories: []
 related_methods:
@@ -84,7 +85,7 @@ citation_aliases:
 >   1. **自我意识与[[Lifelong Learning|终身学习]]**（89% 大学）：批判性自我意识、情商、适应性、有效沟通、组织与时间管理
 >   2. **[[Employability|就业能力]]与专业发展**（75%）：团队合作、领导力、专业知识与商业意识
 >   3. **[[Global Citizenship|全球公民]]与参与**（70%）：社会与公民责任、平等多元包容、人际技能、环境意识
->   4. **学术与研究素养**（66%）：学术读写能力、研究[[Procedural Knowledge|程序知识]]与应用、[[Critical Thinking|批判性思维]]、伦理责任
+>   4. **学术与[[Research Literacy|研究素养]]**（66%）：学术读写能力、研究[[Procedural Knowledge|程序知识]]与应用、[[Critical Thinking|批判性思维]]、伦理责任
 > - 四大话语之间存在重叠和交互，反映了[[Graduate Attributes|毕业生特质]]的广度和流动性(p.1350)
 > - 各大学毕业生特质的形成差异较大，更多反映各自机构文化而非模仿国家框架
 > - 未按大学排名或类型（pre-1992 vs post-1992）发现显著差异模式

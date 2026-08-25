@@ -4,13 +4,13 @@ aliases:
   - 时间序列设计
   - time series quasi-experiment
   - interrupted time series
-  - ITS
   - 间断时间序列设计
+  - 中断时间序列设计
 summary: "准实验设计的重要范式，通过在干预前后开展多次等间隔重复测量并拟合分段回归模型，以自身历史演进趋势为反事实基准检验即时水平跃升与斜率变化。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
   - time-series
   - causal-inference
 related_concepts:
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Counterfactual]]"
   - "[[Theories of Policy Change]]"
   - "[[Standard Error]]"
@@ -69,7 +70,7 @@ updated: 2026-08-21
 ## 定义
 
 > [!def] 方法定义
-> **时间序列设计（Time Series Design）**，特别是**间断时间序列设计（Interrupted Time Series Design, ITS）**，是指对同一个非随机取样的实验组（或自然行政单位），在接受特定教育干预或政策实施**之前与之后分别开展多次连续等间隔的重复测量**，通过对比干预前后数列变化轨迹来判定干预因果效应的[[Quasi-Experimental Designs|准实验设计]]方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 328–331]]; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 4]])。
+> **时间序列设计（Time Series Design）**，特别是**间断时间序列设计（Interrupted Time Series Design, [[Intelligent Tutoring Systems|ITS]]）**，是指对同一个非随机取样的实验组（或自然行政单位），在接受特定教育干预或政策实施**之前与之后分别开展多次连续等间隔的重复测量**，通过对比干预前后数列变化轨迹来判定干预因果效应的[[Quasi-Experimental Designs|准实验设计]]方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, pp. 328–331]]; [[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 4]])。
 >
 > 其核心统计特征在于：通过分段线性回归（Segmented Linear Regression）将干预前的长期历史趋势外推为[[Counterfactual|反事实]]（Counterfactual）基准线，进而精准分解出干预引发的**即时截距水平跃升（Level Change）**与**长期演化斜率变动（Slope Change）**。在美国教育部 [[What Works Clearinghouse|WWC]] 审查规程中，符合标准的 ITS 设计被赋予 2 级因果审查待遇，对应“有保留达标（Meets Standards With Reservations）”或 ESSA 2015 [[Top Institute for Evidence-Based Education Research|TIER]] 2 中等证据资质([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 8–10]])。
 
@@ -92,7 +93,7 @@ updated: 2026-08-21
 > - **认识论取向** 秉承[[Postpositivism|后实证主义]]动态系统观，承认教育现象随时间自然演化，反对将[[Causality|因果关系]]过度简化为静态单次两点差分（[[Pre-test and Post-test|前测]]—后测）。
 > - **因果识别逻辑** 依赖“历史惯性外推”建立[[Counterfactual|反事实]]，假定若无干预发生，干预后的时间序列将完全沿着干预前的趋势线（包含自然成熟与原有演化速度）继续延伸。
 > - **与真实验（[[Randomised Controlled Trials|RCT]]）及单被试设计（[[Single-Case Design|SCD]]）的关系** 
->   - 相比组间 RCT，ITS 克服了必须设立平行不处理对照组的伦理与行政限制，尤其适合全员覆盖的宏观政策评估；
+>   - 相比组间 RCT，[[Intelligent Tutoring Systems|ITS]] 克服了必须设立平行不处理对照组的伦理与行政限制，尤其适合全员覆盖的宏观政策评估；
 >   - 相比个体层面的[[Single-Subject Design|单一被试设计]]（SCD），ITS 是群体/系统层面的宏观时间序列，二者共享相同的“相内密集测量 + 相间趋势对比”逻辑([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp. 461–464]])。
 
 > [!method-stack] 方法层级
@@ -159,7 +160,7 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 
 ### 政策与清算体系中的审查标准
 
-> [!framework-table] 循证清算中心（[[What Works Clearinghouse|WWC]] / [[Home Visiting Evidence of Effectiveness|HomVEE]]）对 ITS 的审查规程与门槛（基于 Wadhwa et al., 2024）
+> [!framework-table] 循证清算中心（[[What Works Clearinghouse|WWC]] / [[Home Visiting Evidence of Effectiveness|HomVEE]]）对 [[Intelligent Tutoring Systems|ITS]] 的审查规程与门槛（基于 Wadhwa et al., 2024）
 > | 审查维度 | WWC / HomVEE 规定技术门槛 | 未达标裁定结果 |
 > |:---|:---|:---|
 > | **因果设计评级** | **2 级（明确规程）**；最高评定为 **Meets Standards With Reservations** 或 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 2 | 无法单独支撑 WWC 一级最高认证（Tier 1 无保留达标）。 |
@@ -181,7 +182,7 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 ## 局限性
 
 > [!method-limits] 效度威胁、偏误来源与误用风险
-> - **共时历史事件混杂（Co-occurring History Threat）** 单组 ITS 最根本的软肋：若干预推行的同时恰逢新校长上任或财政注资，分段回归无法在数理上区分哪个是真正原因（需借助 C-ITS 对照组缓解）。
+> - **共时历史事件混杂（Co-occurring History Threat）** 单组 [[Intelligent Tutoring Systems|ITS]] 最根本的软肋：若干预推行的同时恰逢新校长上任或财政注资，分段回归无法在数理上区分哪个是真正原因（需借助 C-ITS 对照组缓解）。
 > - **测量工具漂移与敏感化（Instrumentation & Testing）** 高频重复测试可能引入[[Order Effects|练习效应]]、疲劳效应或测验难度微调带来的虚假波动。
 > - **自相关导致的假阳性显著（Autocorrelation Bias）** 时间序列数据天然存在相邻点高度相关性，若直接套用普通 OLS 回归，将严重低估[[Standard Error|标准误]]，导致原本不显著的 $\beta_2, \beta_3$ 呈现出虚假的[[Statistical Significance|统计显著性]]。
 > - **延迟反应与模型误设（Lagged Effects & Model Misspecification）** 若真实干预需要 3 个月才起效，而研究者[[Hypothesis|假设]]即时跳升，可能将真实的渐进斜率误判为无效果。
@@ -194,7 +195,7 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Quasi-Experimental Designs]] | 母类方法 | ITS 是准实验设计中控制成熟与历史演变最强有力的亚型之一。 |
+> | [[Quasi-Experimental Designs]] | 母类方法 | [[Intelligent Tutoring Systems\|ITS]] 是准实验设计中控制成熟与历史演变最强有力的亚型之一。 |
 > | [[Single-Case Design]] | 孪生方法 | SCD 是微观个体层面的密集时间序列，二者共享相内测量与相间对比逻辑。 |
 > | [[Quasi-Experimental Designs\|断点回归设计（RDD）]] | 关联设计 | [[Regression Discontinuity Design\|RDD]] 基于评价值（Score）断点，ITS 基于时间（Time）断点，共享局域因果跳跃识别逻辑。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | 提供 ITS 排查成熟、历史、测验与均值回归等效度威胁的系统框架。 |
@@ -207,6 +208,6 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011)]] — 详析间断时间序列设计的符号模型、[[Trend Study|趋势分析]]、即时跃升与延迟演进模式及效度控制机制(Ch. 16, pp. 328–331)。
-> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 比较 12 所清算中心对 ITS 因果设计的审查规程（ITS=2），详述 [[What Works Clearinghouse|WWC]] 与 [[Home Visiting Evidence of Effectiveness|HomVEE]] 对时间点数量与自相关建模的技术标准(pp. 8–11)。
+> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 比较 12 所清算中心对 [[Intelligent Tutoring Systems|ITS]] 因果设计的审查规程（ITS=2），详述 [[What Works Clearinghouse|WWC]] 与 [[Home Visiting Evidence of Effectiveness|HomVEE]] 对时间点数量与自相关建模的技术标准(pp. 8–11)。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]] — 系统阐释单组时间序列、控制组时间序列与相等时间样本轮换设计在教育教学实验中的操作流程(Ch. 4)。
 > - [[Argument_Hitchcock_2015_JBE|Hitchcock et al. (2015)]] — 论证群体级间断时间序列与个体级单一被试实验（[[Single-Case Design|SCD]]）在因果[[Counterfactual|反事实]]推断上的同构逻辑(pp. 461–464)。

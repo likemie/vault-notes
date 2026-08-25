@@ -21,6 +21,7 @@ tags:
   - level/higher-education
   - subject/educational-technology
 related_concepts:
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Emergence]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Corrected Covered Area]]"
   - "[[Construct]]"
+  - "[[Procedural Skill]]"
   - "[[Dialogue in Education]]"
   - "[[Feedback]]"
   - "[[AI Agent in Education]]"
@@ -97,9 +99,9 @@ title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 61
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Educational Computing Research"
 book_title: ""
@@ -114,7 +116,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 伴随生成式人工智能（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（Intelligent Tutoring Systems, [[Time Series Design|ITS]]）在教育领域的爆发式增长，关于人工智能教育应用（Artificial Intelligence in Education, AIEd）对学生[[Academic Achievement|学业成就]]与[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的[[Document|文献]]重叠，使宏观循证决策陷入证据碎片化与不确定性困境（pp. 1361–1363）。因此，需要采用[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question|核心研究问题]]：
+> 伴随生成式人工智能（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（[[Intelligent Tutoring Systems]], ITS）在教育领域的爆发式增长，关于人工智能教育应用（Artificial Intelligence in Education, AIEd）对学生[[Academic Achievement|学业成就]]与[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的[[Document|文献]]重叠，使宏观循证决策陷入证据碎片化与不确定性困境（pp. 1361–1363）。因此，需要采用[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question|核心研究问题]]：
 > 1. 人工智能（Artificial Intelligence, AI）教育应用对学生的整体学习成果（包括学业成就与高阶思维技能）究竟产生多大程度的综合效应？
 > 2. 这种教育干预效应是否在成果类型、AI 工具类型、教育阶段、学科领域、[[Publication Bias|发表偏倚]]状态以及元分析方法学质量等调节[[Variable|变量]]上呈现系统性差异？（p. 1363）
 
@@ -151,11 +153,11 @@ issuing_organization: ""
 > [!index-table] 核心[[Variable|变量]]操作化定义与编码规程（pp. 1370–1374）
 > | 变量维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **[[Academic Achievement\|学业成就]]（Academic Achievement）** | 学生在特定学科教学大纲要求下对事实性知识、概念理解与程序性技能的掌握水平，属于布鲁姆认知目标分类学中的识记、领会与常规应用层级（York et al., 2015; Steinmayr et al., 2024）。 | 典型测量工具：标准化学科期末统考、课程知识测验、平均学分绩点（Grade Point Average, GPA）、托福（Test of English as a Foreign Language, TOEFL）与雅思（International English Language Testing System, IELTS）标准化模拟测试；纳入 8 项独立 FOM：Dong et al. (2025, 多学科, $ES = .92$)、Tlili et al. (2025, 多学科, $ES = 1.10$)、Tlili (2024, 计算机科学, $ES = 1.36$)、Wu & Li (2024, 语言, $ES = .65$)、Chen et al. (2025, 语言评估, $ES = .39$)、Lee & Lee (2024, 语言, $ES = .39$)、Hwang (2022, 数学, $ES = .35$)、Lin et al. (2022, 多学科, $ES = .51$)；亚组加权平均 $ES = .68$（95% CI [.48, .87]）。 |
+> | **[[Academic Achievement\|学业成就]]（Academic Achievement）** | 学生在特定学科教学大纲要求下对事实性知识、概念理解与[[Procedural Skill\|程序性技能]]的掌握水平，属于布鲁姆认知目标分类学中的识记、领会与常规应用层级（York et al., 2015; Steinmayr et al., 2024）。 | 典型测量工具：标准化学科期末统考、课程知识测验、平均学分绩点（Grade Point Average, GPA）、托福（Test of English as a Foreign Language, TOEFL）与雅思（International English Language Testing System, IELTS）标准化模拟测试；纳入 8 项独立 FOM：Dong et al. (2025, 多学科, $ES = .92$)、Tlili et al. (2025, 多学科, $ES = 1.10$)、Tlili (2024, 计算机科学, $ES = 1.36$)、Wu & Li (2024, 语言, $ES = .65$)、Chen et al. (2025, 语言评估, $ES = .39$)、Lee & Lee (2024, 语言, $ES = .39$)、Hwang (2022, 数学, $ES = .35$)、Lin et al. (2022, 多学科, $ES = .51$)；亚组加权平均 $ES = .68$（95% CI [.48, .87]）。 |
 > | **[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）** | 依据布鲁姆修订版分类学与五维高阶思维框架（Liu et al., 2024），指超越机械识记与算法性规则套用的复杂自我调节认知过程，涵盖计算思维、[[Critical Thinking\|批判性思维]]、复杂问题解决、元认知监控与创造性倾向（Resnick, 1987; Liu et al., 2024）。 | 典型测量工具：加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, CCTDI）、计算思维量表（Computational Thinking Scale, CTS）、开放性探究任务表现评价量规、创造性解题测验；纳入 Dibek et al. (2025, 多学科, $ES = .63$, 95% CI [.12, 1.14]) 1 项专门 FOM（涵盖 29 项初级研究、2,966 名学生）；并在 10 项综合 FOM 中作为复合因变量。 |
 > | **综合学习成果（Combined Outcomes）** | 一阶元分析未对基础学业成就与高阶认知或情感分量进行完全剥离，直接综合报告的宏观学习产出指标。 | 典型测量工具：综合课程评价档案袋、学业成绩与认知或态度混合合成指数；纳入 10 项独立 FOM：Setiawan et al. (2025, $ES = .58$)、Dai et al. (2024, $ES = .43$)、Yi et al. (2025, $ES = .32$)、Zheng et al. (2023, $ES = .70$)、García-Martínez et al. (2023, $ES = .72$)、Wu (2024, $ES = .98$)、Liu et al. (2025, $ES = .97$)、Wang et al. (2024, $ES = .70$)、Zhang et al. (2024, $ES = .59$)、Deng et al. (2025, $ES = .72$)；亚组加权平均 $ES = .67$（95% CI [.50, .83]）。 |
 > | **智能[[Dialogue in Education\|对话]]代理与聊天机器人（AI Chatbots & Conversational Agents）** | 依托自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Model, LLM，如 ChatGPT、GPT-4）或规则驱动的对话式智能辅导系统，能够模拟人类教师或学伴进行即时互动、[[Socrates\|苏格拉底]]式追问与个性化语言交流。 | 教学规程：学生提出问题 $\to$ 聊天机器人提供自适应解释或引导性线索 $\to$ 开展多轮人机对话反思 $\to$ 总结提炼；典型工具：ChatGPT, Dialogflow, Duolingo Max, 智能外语口语助手；纳入 4 项独立 FOM：Liu et al. (2025, 语言, $ES = .97$)、Wu & Li (2024, 语言, $ES = .65$)、Zhang et al. (2024, 残障学生, $ES = .59$)、Deng et al. (2025, 多学科, $ES = .72$)；亚组加权平均 $ES = .74$（95% CI [.49, .98]）。 |
-> | **智能导学与自适应学习系统（Intelligent Tutoring Systems & Adaptive Systems）** | 具备领域专家知识模型、学生认知状态追踪模型、教学策略决策模型与交互界面的个性化学习系统，能够实现学习路径动态规划与练习难度自适应调整。 | 教学规程：初始先验知识前测 $\to$ 算法动态推送定制化学习内容 $\to$ 提供细粒度即时步骤诊断提示 $\to$ 掌握度达标后晋级；典型系统：ALEKS, Cognitive Tutor, ASSISTments, Knewton；纳入 Wang et al. (2024, 自适应系统, $ES = .70$)、Hwang (2022, $ES = .35$)、Steenbergen-Hu & Cooper (2013) 等；归入多类型 AI 组。 |
+> | **智能导学与自适应学习系统（[[Intelligent Tutoring Systems]] & Adaptive Systems）** | 具备领域专家知识模型、学生认知状态追踪模型、教学策略决策模型与交互界面的个性化学习系统，能够实现学习路径动态规划与练习难度自适应调整。 | 教学规程：初始先验知识前测 $\to$ 算法动态推送定制化学习内容 $\to$ 提供细粒度即时步骤诊断提示 $\to$ 掌握度达标后晋级；典型系统：ALEKS, Cognitive Tutor, ASSISTments, Knewton；纳入 Wang et al. (2024, 自适应系统, $ES = .70$)、Hwang (2022, $ES = .35$)、Steenbergen-Hu & Cooper (2013) 等；归入多类型 AI 组。 |
 > | **AI 赋能评估与自动化评分反馈工具（AI-enabled Assessment & Automated [[Feedback]] Tools）** | 运用自然语言处理与机器学习算法对学生主观产出（如作文、口语录音、开放问答）实施自动作文评分（Automated Essay Scoring, AES）、错误诊断并生成多维度形成性反馈的专用评估技术。 | 教学规程：学生提交初稿 $\to$ AI 算法即时生成语法、篇章、逻辑层级诊断报告 $\to$ 学生根据反馈进行多轮自主修改与反思 $\to$ 终结性测评；典型工具：ETS Criterion, 批改网, Grammarly Edu；纳入 Chen et al. (2025, K12 英语写作与口语评估, $ES = .39$, 95% CI [-.19, .97]) 1 项专属 FOM。 |
 > | **生成式 AI 编程助手与计算思维支架（GenAI Code Assistants & Computational Scaffolds）** | 利用代码大模型与生成式[[AI Agent in Education\|智能体]]为学生提供实时代码解释、语法与逻辑纠错、算法思路拆解与伪代码转化的认知脚手架。 | 教学规程：复杂编程任务拆解 $\to$ 提示词构建与代码框架生成 $\to$ AI 代码审查与错误定位 $\to$ 算法效率优化与同伴讨论；典型工具：GitHub Copilot, ChatGPT Code Interpreter；纳入 Tlili (2024, 计算机科学, $ES = 1.36$)、García-Martínez et al. (2023, 计算机科学, $ES = .72$)；亚组加权平均 $ES = .99$（95% CI [.62, 1.35]）。 |
 > | **综合多类型 AI 教育平台与智能媒体（Multi-type AI Learning Media & Platforms）** | 涵盖多种 AI 技术的集成化智慧学习环境，或一阶元分析未对具体技术子类作拆分的统合型智能教学干预。 | 教学规程：融合自适应内容推送、智能推荐、多模态互动练习与学习分析数据看板；纳入 14 项独立 FOM：Dong et al. (2025, $ES = .92$)、Setiawan et al. (2025, $ES = .58$)、Dai et al. (2024, $ES = .43$)、Dibek et al. (2025, $ES = .63$)、Yi et al. (2025, $ES = .32$)、Zheng et al. (2023, $ES = .70$)、Tlili et al. (2025, $ES = 1.10$)、Wu (2024, $ES = .98$) 等；亚组加权平均 $ES = .66$（95% CI [.53, .79]）。 |

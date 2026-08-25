@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Immersion Approach]]"
   - "[[Mentorship]]"
   - "[[Working Memory]]"
+  - "[[Procedural Skill]]"
   - "[[Metacognition]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Side Effects]]"
@@ -98,7 +99,7 @@ updated: 2026-08-25
 > | **教学起点** | 教师明确说明概念、规则与分步示范 | 呈现复杂劣构的真实情境问题 | 学科内容与显性思维准则双重锚定 | 深入学科高难度任务，不揭示通用规则 |
 > | **教师角色** | **激活者（Activator）** 与示范专家 | 资源顾问、认知促进者（Facilitator） | 领域专家与思维导师（[[Mentorship\|mentor]]） | 任务发布者与环境提供者 |
 > | **认知负荷控制** | **小步子切分，最小化[[Working Memory\|工作记忆]]负荷** | 初始内在与外在认知负荷极高 | 中等（依托脚手架平衡负荷） | 极高（易导致工作记忆超载） |
-> | **优势领域** | 程序性技能、良构知识、初学者入门 | 真实问题解决、[[Metacognition\|元认知]]反思、团队协作 | 兼顾学科理解与通用[[Higher-Order Thinking Skills\|高阶思维]]迁移 | 专业高手的领域直觉淬炼 |
+> | **优势领域** | [[Procedural Skill\|程序性技能]]、良构知识、初学者入门 | 真实问题解决、[[Metacognition\|元认知]]反思、团队协作 | 兼顾学科理解与通用[[Higher-Order Thinking Skills\|高阶思维]]迁移 | 专业高手的领域直觉淬炼 |
 > | **潜在风险** | 抑制发散探索，诱发被动依赖与[[Side Effects\|副作用]] | 初学者因缺乏先验知识而[[Lost Mode\|迷失]]低效 | 需教师兼备学科与思维教学素养 | “沉浸迷思”导致自发领悟落空（$g+=0.23$） |
 
 ---

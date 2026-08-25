@@ -10,7 +10,7 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Reliability]]"
   - "[[One Country, Two Systems]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Sinicisation]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -304,7 +305,7 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 ## 主要发现
 
 > [!success] 核心发现
-> 1. **全球化论述的工具性使用**。如果仅看 LS 的创立，似乎验证了 [[World Society Theory|世界文化理论]] 的趋同[[Hypothesis|假设]]。但港府引用全球论述的真正目的是"外部化"国内问题，这更符合 [[Policy Borrowing|政策借用]] 逻辑。全球趋势和海外模式是合法化改革的修辞工具，而非变革的真正动因(p. 491)。
+> 1. **全球化论述的[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]**。如果仅看 LS 的创立，似乎验证了 [[World Society Theory|世界文化理论]] 的趋同[[Hypothesis|假设]]。但港府引用全球论述的真正目的是"外部化"国内问题，这更符合 [[Policy Borrowing|政策借用]] 逻辑。全球趋势和海外模式是合法化改革的修辞工具，而非变革的真正动因(p. 491)。
 >
 > 2. **Cuban 框架中各因素的权重发生了戏剧性变化**。创立阶段，[[Progressive Education|进步教育]]运动和立法协商是核心；废除阶段，"冷战/国防"以"新冷战"和"国家安全"的形式回归，成为压倒其他所有因素的决定性力量(pp. 488–489)。
 >

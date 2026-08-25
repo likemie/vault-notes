@@ -8,7 +8,7 @@ aliases:
 summary: "由 David DeVries 与 Keith Edwards（1973）开创、Robert Slavin 发展的经典合作-竞赛混合教学模式。该方法以同质能力竞赛台（Tournament Tables）替代传统纸笔测验，通过异质小组互助备考与能力均等同伴竞赛，实现低焦虑、高动机的学业掌握与团队赋能。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Heterogeneity]]"
   - "[[Learned Helplessness]]"
+  - "[[Procedural Skill]]"
   - "[[Gamification]]"
   - "[[Growth]]"
   - "[[Self-Efficacy]]"
@@ -56,7 +57,7 @@ updated: 2026-08-24
 
 > [!concept-lens] 概念透镜
 > - **含义** 通过“异质合作备考 + 同质公平竞赛 + 团队集体奖励”的结构设计，化解传统个体竞争导致的学困生[[Learned Helplessness|习得性无助]]与学优生垄断优势。
-> - **用途** 针对事实性、概念性与程序性知识的系统巩固，大幅提升基础教育与大班教学中的学习动机、课堂参与度与同伴支持。
+> - **用途** 针对事实性、概念性与[[Procedural Skill|程序性知识]]的系统巩固，大幅提升基础教育与大班教学中的学习动机、课堂参与度与同伴支持。
 > - **边界** TGT 高度依赖客观化、有明确标准答案的知识内容，不适用于高度开放、劣构或主观探究型课题。
 
 > [!boundary]- 概念边界

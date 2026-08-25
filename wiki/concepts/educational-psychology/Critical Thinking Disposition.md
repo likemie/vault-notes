@@ -10,10 +10,10 @@ aliases:
 summary: "指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成批判性思维的双元支柱"
 type: concept
 domain: "educational-psychology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/critical-thinking
   - epistemic-cognition
@@ -40,6 +40,7 @@ related_methods:
   - "[[True Experimental Design]]"
   - "[[Quasi-Experimental Designs]]"
 related_instruments:
+  - "[[Watson-Glaser Critical Thinking Appraisal]]"
   - "[[California Critical Thinking Disposition Inventory]]"
 related_persons: []
 related_facts: []
@@ -80,7 +81,7 @@ updated: 2026-08-25
 > |---|---|---|---|
 > | **核心指向** | 认知操作技术（“能做”，Can do） | 动机与心智[[Habitus\|习性]]（“愿做”，Will do） | 敏感性（Sensitivity）+ 倾向（Inclination）+ 能力（Ability） |
 > | **典型表现** | 识别隐含[[Hypothesis\|假设]]、评估证据效力、避免逻辑谬误 | 求真、思想开放、审慎判断、求知欲强 | 能察觉思维契机，并有动力且正确地执行批判性反思 |
-> | **测量方式** | 标准化客观测试（CCTST, WGCTA, 论证测试） | 自陈量表（[[California Critical Thinking Disposition Inventory\|CCTDI]]）或真实情境行为观察 | 复杂[[Task Structure\|劣构任务]]与开放式长周期行为追踪 |
+> | **测量方式** | 标准化客观测试（CCTST, [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]], 论证测试） | 自陈量表（[[California Critical Thinking Disposition Inventory\|CCTDI]]）或真实情境行为观察 | 复杂[[Task Structure\|劣构任务]]与开放式长周期行为追踪 |
 > | **干预提升效应** | 元分析加权效应 $g+ = 0.30$（$k = 341$） | 元分析加权效应 $g+ = 0.23$（$k = 25$） | 导师制催化下倾向效应可达 $g+ = 0.38$ |
 > | **经典代表学者** | Ennis (1989); Paul (1993) | Siegel (1988); Facione (1990) | Perkins et al. (1993); Dewey (1933) |
 

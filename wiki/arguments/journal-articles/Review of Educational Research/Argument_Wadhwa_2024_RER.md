@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Direct Instruction]]"
   - "[[Complier Average Causal Effect]]"
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Standard Error]]"
   - "[[Variable]]"
   - "[[Manipulation Check]]"
@@ -235,13 +236,13 @@ updated: 2026-08-22
 ### 步骤二：因果推断方法论标准与单项研究质量
 
 > [!claim] 步骤二主张
-> 所有清算中心均视[[Randomised Controlled Trials|随机对照试验]]（RCT）为[[Causality|因果推断]]的黄金标准，但在 RCT 实施质量的技术检验（[[Attrition|流失]]、基线等值、分析层次、[[Intent-to-Treat Analysis|意向治疗分析]] [Intention-to-Treat, ITT] 与[[Complier Average Causal Effect|顺从者平均因果效应]]（CACE））以及对[[Quasi-Experimental Designs|准实验设计]]（QED）、[[Regression Discontinuity Design|断点回归设计]]（RDD）和中断时间序列（[[Time Series Design|ITS]]）的采纳程度上存在显著断层(pp. 8–11)。
+> 所有清算中心均视[[Randomised Controlled Trials|随机对照试验]]（RCT）为[[Causality|因果推断]]的黄金标准，但在 RCT 实施质量的技术检验（[[Attrition|流失]]、基线等值、分析层次、[[Intent-to-Treat Analysis|意向治疗分析]] [Intention-to-Treat, ITT] 与[[Complier Average Causal Effect|顺从者平均因果效应]]（CACE））以及对[[Quasi-Experimental Designs|准实验设计]]（QED）、[[Regression Discontinuity Design|断点回归设计]]（RDD）和中断时间序列（[[Intelligent Tutoring Systems|ITS]]）的采纳程度上存在显著断层(pp. 8–11)。
 
 > [!chain-link] 设计[[Coding in Qualitative Research|编码]]与实施细则
 > 作者将清算中心对四类因果设计的描述程度编码为 0–3 级（0=不提及；1=简要提及但无标准；2=描述设计但无专属实施标准；3=提供专属因果推断与实施质量标准）。
 
 > [!index-table] Table 3：因果设计标准描述程度编码表（Extent of Description, 0–3）
-> | 清算中心名称 | 随机对照试验 (RCT) | 通用准实验 (QED) | 断点回归设计 (RDD) | 中断时间序列 (ITS) |
+> | 清算中心名称 | 随机对照试验 (RCT) | 通用准实验 (QED) | 断点回归设计 (RDD) | 中断时间序列 ([[Intelligent Tutoring Systems\|ITS]]) |
 > |:---|:---:|:---:|:---:|:---:|
 > | **[[What Works Clearinghouse\|WWC]]** | **3** | 2 | **3** | 2 |
 > | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 2 | 1 | 0 | 0 |

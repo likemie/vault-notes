@@ -9,7 +9,7 @@ aliases:
 summary: "大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,13 +25,14 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Research Literacy]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Revoicing]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Return on Investment]]"
   - "[[Disciplinary Socialization]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
@@ -89,7 +90,7 @@ updated: 2026-08-20
 
 ### 研究与学术素养
 
-本科层次，[[Argument_Wong_2022_HERD|Wong et al. (2022)]]对 UK 76 所大学网站的分析发现，66% 的大学在其毕业生特质中包含学术与研究素养话语。该话语聚焦三个子维度（pp.1348–1350）：
+本科层次，[[Argument_Wong_2022_HERD|Wong et al. (2022)]]对 UK 76 所大学网站的分析发现，66% 的大学在其毕业生特质中包含学术与[[Research Literacy|研究素养]]话语。该话语聚焦三个子维度（pp.1348–1350）：
 - **学术读写能力**（32%）：学术英语能力、清晰论证、有说服力的书面与口头表达；部分大学纳入定量分析能力
 - **研究素养**（16%）：[[Critical Thinking|批判性思维]]、证据评估、知识创造意识、研究程序的理解与应用
 - **伦理责任与可持续性** 诚信研究、平等机会承诺、数字平台上的伦理行为
@@ -136,7 +137,7 @@ updated: 2026-08-20
 
 ### 分类框架的演变
 
-博士毕业生特质的系统化努力始于 Senekal, Munnik, and Frantz（2022）对 35 篇论文的综述，识别出十个领域：知识、研究、沟通、人际、组织、学术声誉、高阶思维、个人资源fulness 和积极公民身份。该综述同时指出，已有研究缺乏[[Global Citizenship|全球公民]]和职业发展维度([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。
+博士毕业生特质的系统化努力始于 Senekal, Munnik, and Frantz（2022）对 35 篇论文的综述，识别出十个领域：知识、研究、沟通、人际、组织、学术声誉、[[Higher-Order Thinking Skills|高阶思维]]、个人资源fulness 和积极公民身份。该综述同时指出，已有研究缺乏[[Global Citizenship|全球公民]]和职业发展维度([[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al., 2024, p.87]])。
 
 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]]在此基础上，综合其美新三国 PhD 毕业生的[[Mixed Methods Research|混合方法研究]]发现与 Vitae RDF，提出了一个简化的七域分类框架（p.98, Table 5）：
 
@@ -199,7 +200,7 @@ updated: 2026-08-20
 - **自上而下 vs 自下而上** 毕业生特质通常由高级管理层制定和推动，其是否充分征询师生意见存疑（Osmani et al., 2015; 引自 Wong et al., 2022, p.1342）。"自上而下"可能导致政策与师生观点脱节（Ball et al., 2012; 引自 Wong et al., 2022, p.1342）
 - **通用性与学科特殊性** 同一特质（如"[[Critical Thinking|批判性思维]]"）在不同学科中有不同解释和含义（Jones, 2009a, 2009b; 引自 Wong et al., 2022, p.1342），但毕业生特质被期望适用于所有学科
 - **实施困难** 教师普遍反映缺乏时间、资源和信心将毕业生特质嵌入课程（Barrie, 2004; Oliver, 2013; 引自 Wong et al., 2022, pp.1341–1342）
-- **理论与[[Praxis|实践]]脱节** UK 毕业生特质的形成几乎未见系统性的教育理论或学习理论支撑，更多由高层管理或市场营销驱动([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1351]])
+- **理论与实践脱节** UK 毕业生特质的形成几乎未见系统性的教育理论或学习理论支撑，更多由高层管理或市场营销驱动([[Argument_Wong_2022_HERD|Wong et al., 2022, p.1351]])
 
 ### 博士层次的批评
 - **"发展"还是"已有"** 近 80% 的 [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] 受访者在进入博士前已有工作经验（兼职 22.8%、全职 55.1%），这意味着调查测量的"发展"可能包含博士前积累的技能基础，而非纯粹的博士培养效果（p.89）

@@ -18,9 +18,9 @@ tags:
   - region/global
   - theme/geopolitics
 related_concepts:
-  - "[[Praxis]]"
   - "[[Soft Power]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Zero-Sum Competition]]"
   - "[[Operationalization]]"
@@ -43,7 +43,7 @@ updated: 2026-06-29
 ## 定义
 
 > [!def] 核心定义
-> 知识外交（knowledge diplomacy）是由奈特（J. Knight, 2021）提出的概念，指通过教育、研究与创新来建立和强化国家间关系的外交[[Praxis|实践]]，其核心理念是立足互信互惠、促进合作理解与双向互动，共同应对全球挑战。与[[Soft Power|软实力]]不同，知识外交强调合作的非零和性质——各方均可从中获益，而非以一方影响力的扩大以另一方影响力的缩小为代价。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11; Knight, 2021)]]
+> 知识外交（knowledge diplomacy）是由奈特（J. Knight, 2021）提出的概念，指通过教育、研究与创新来建立和强化国家间关系的外交实践，其核心理念是立足互信互惠、促进合作理解与双向互动，共同应对全球挑战。与[[Soft Power|软实力]]不同，知识外交强调合作的非零和性质——各方均可从中获益，而非以一方影响力的扩大以另一方影响力的缩小为代价。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11; Knight, 2021)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 知识外交将高等教育国际合作重新定义为以互利互惠为导向的外交活动，而非单方面的影响力投射。其运作载体包括国际学生流动、联合研究项目、跨境办学合作和学术网络建设。
@@ -61,7 +61,7 @@ updated: 2026-06-29
 > | 权力逻辑 | 隐含零和：一方影响力扩大意味着另一方相对缩小 | 非零和：各方均可从合作中获益 |
 > | 行动方向 | 单向投射（A 影响 B） | 双向互动（A 与 B 相互学习与合作） |
 > | 价值基础 | 文化吸引力、政治价值感召力 | 互信、互惠、共同应对全球挑战 |
-> | 国家在高等教育中的角色 | 工具性使用者 | 促进者与伙伴 |
+> | 国家在高等教育中的角色 | [[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]者 | 促进者与伙伴 |
 > | 代表研究 | Nye (2004, 2005) | Knight (2021) |
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-06-29
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2021 — 概念的提出** 奈特（J. Knight）在反思[[Internationalization of Higher Education|高等教育国际化]]与地缘政治关系的基础上，提出以知识外交替代或补充[[Soft Power|软实力]]框架来分析跨境高等教育合作。核心理念是：高等教育合作可以被理解为一种外交[[Praxis|实践]]，但不是以[[Zero-Sum Competition|零和竞争]]为支配逻辑，而是以互信互惠和共同应对全球挑战为导向。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11; Knight, 2021)]]
+> - **2021 — 概念的提出** 奈特（J. Knight）在反思[[Internationalization of Higher Education|高等教育国际化]]与地缘政治关系的基础上，提出以知识外交替代或补充[[Soft Power|软实力]]框架来分析跨境高等教育合作。核心理念是：高等教育合作可以被理解为一种外交实践，但不是以[[Zero-Sum Competition|零和竞争]]为支配逻辑，而是以互信互惠和共同应对全球挑战为导向。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11; Knight, 2021)]]
 > - **2021 — 实证对比研究** 潘（Pan, 2021）在一带一路倡议下的两类大学联盟中发现了软实力与知识外交的不同实践模式：亚洲大学联盟通过高度精英化和排他性规则体现知识权力的取向（仍在软实力框架内），丝绸之路大学联盟以开放和多边合作为特征呈现知识外交的价值理念。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 
 ---

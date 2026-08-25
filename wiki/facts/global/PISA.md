@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
+  - "[[Procedural Skill]]"
   - "[[Creativity]]"
   - "[[Questionnaire]]"
   - "[[Employability]]"
@@ -113,7 +114,7 @@ updated: 2026-08-23
 > | 框架版本 / 主测年份 | 核心胜任力维度（Competencies） | 考查情境与认知载体（Contexts） | 知识分类（Knowledge Types） | 认识论重点与时代转向 |
 > |---|---|---|---|---|
 > | **PISA 2006（初版框架）** | ① 识别科学议题<br>② 科学地解释现象<br>③ 使用科学证据 | 个人、健康、地球环境、前沿科技风险 | 内容知识（Content Knowledge）与科学特质知识 | 从[[Rote Learning\|死记硬背]]转向生活情境应用与科学本质理解（p. 31） |
-> | **PISA 2015（交互升级版）** | ① 科学地解释现象<br>② 评估与设计科学探究<br>③ 科学地解释数据与证据 | 计算机化模拟实验、虚拟控制[[Variable\|变量]]探究 | 内容知识、程序性知识（Procedural）、认识论知识（Epistemic） | 引入三维知识模型，强化探究设计与误差评估（p. 31） |
+> | **PISA 2015（交互升级版）** | ① 科学地解释现象<br>② 评估与设计科学探究<br>③ 科学地解释数据与证据 | 计算机化模拟实验、虚拟控制[[Variable\|变量]]探究 | 内容知识、[[Procedural Skill\|程序性知识]]（Procedural）、认识论知识（Epistemic） | 引入三维知识模型，强化探究设计与误差评估（p. 31） |
 > | **PISA 2025（最新不确定性框架）** | ① 科学现象批判性解释<br>② 复杂实证探究评估<br>③ 数据与不确定性审视 | 气候危机、流行病防控、算法与数字信息生态 | 融入复杂系统思维、概率风险与数字证据评估 | 聚焦应对全球性危机、识别虚假信息与负责任决策 |
 
 ---

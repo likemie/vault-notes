@@ -7,7 +7,7 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -29,21 +29,26 @@ citation_aliases:
 sources:
   - "[[sources/Liu_2026_CHBR/Liu_2026_CHBR|Liu_2026_CHBR]]"
 related_concepts:
+  - "[[Intelligent Tutoring Systems]]"
+  - "[[Educational Robotics]]"
   - "[[AI Agent in Education]]"
-  - "[[Dialogue in Education]]"
+  - "[[Conversational AI in Education]]"
   - "[[Document]]"
+  - "[[Procedural Skill]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Variable]]"
   - "[[Effect Size]]"
+  - "[[Zone of Proximal Development]]"
   - "[[Epistemology]]"
+  - "[[Dependent Variable]]"
+  - "[[Operationalization]]"
   - "[[Critical Thinking]]"
   - "[[Working Memory]]"
   - "[[Constructivist Paradigm]]"
   - "[[Heterogeneity]]"
-  - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Creativity]]"
-  - "[[Dependent Variable]]"
+  - "[[Dialogue in Education]]"
   - "[[Funnel Plot]]"
   - "[[Publication Bias]]"
   - "[[Gamification]]"
@@ -64,9 +69,9 @@ related_concepts:
   - "[[Fade-out Effect]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
-  - "[[Cognitive Constructivism]]"
   - "[[Bloom's Taxonomy]]"
   - "[[Cognitive Load Theory]]"
+  - "[[Cognitive Constructivism]]"
 related_methods:
   - "[[Time Series Design]]"
   - "[[Meta-analysis]]"
@@ -81,8 +86,12 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Intervention Research]]"
 related_persons:
-  - "[[Lev Vygotsky]]"
   - "[[Jean Piaget]]"
+  - "[[Lev Vygotsky]]"
+related_instruments:
+  - "[[California Critical Thinking Disposition Inventory]]"
+  - "[[Watson-Glaser Critical Thinking Appraisal]]"
+  - "[[Computational Thinking Scale]]"
 status: draft
 tags:
   - level/k-12
@@ -101,13 +110,13 @@ updated: 2026-08-25
 ## 研究问题
 
 > [!question]
-> 随着人工智能（Artificial Intelligence, AI）在教育中的迅速普及，智能导师系统（Intelligent Tutoring Systems, [[Time Series Design|ITS]]）、教育机器人、生成式[[AI Agent in Education|智能体]]及[[Dialogue in Education|对话]]式机器人等各类 教育智能体（Artificial Intelligence Agents in Education, AI Agent） 正加速融入基础教育（Kindergarten through Twelfth Grade, K-12）课堂。然而，现有实证[[Document|文献]]关于 AI 智能体能否有效提升学生认知表现仍存在显著争议与矛盾结论，且鲜有研究从知识识记、程序技能与 [[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills, HOTS） 等细分认知领域系统检验其效能差异。需要通过定量 [[Meta-analysis|元分析]] 回答：AI 智能体对 K-12 学生认知学习成果的总体干预成效如何？在不同认知类别（知识类、技能类、高阶思维）上的效果有何异同？智能体技术形态、学段层次、学科领域与干预周期等调节[[Variable|变量]]如何影响这一效能？（pp.1–3）
+> 随着人工智能（Artificial Intelligence, AI）在教育中的迅速普及，[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics|教育机器人]]、生成式[[AI Agent in Education|智能体]]及[[Conversational AI in Education|对话式智能体]]等各类教育智能体（Artificial Intelligence Agents in Education, AI Agent）正加速融入基础教育（Kindergarten through Twelfth Grade, K-12）课堂。然而，现有实证[[Document|文献]]关于 AI 智能体能否有效提升学生认知表现仍存在显著争议与矛盾结论，且鲜有研究从知识识记、[[Procedural Skill|程序技能]]与[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）等细分认知领域系统检验其效能差异。需要通过定量[[Meta-analysis|元分析]]回答：AI 智能体对 K-12 学生认知学习成果的总体干预成效如何？在不同认知类别（知识类、技能类、高阶思维）上的效果有何异同？智能体技术形态、学段层次、学科领域与干预周期等调节[[Variable|变量]]如何影响这一效能？（pp.1–3）
 
 > [!claim] 核心主张
 > AI 智能体对 K-12 学生的认知学习成果具有统计学显著的中等正向促进效应（$g = 0.404, p < .001$）；在认知分类上，技能类结果（$g = 0.391, p < .001$）与知识类结果（$g = 0.344, p = .026$）获得稳定显著提升，而高阶思维技能效应量虽高但异质性极大且未达统计显著（$g = 0.540, p = .066$）；学段与学科在其中发挥显著调节作用，高小学段（$g = 0.877$）及语言读写（$g = 0.830$）和艺术创造学科（$g = 0.755$）展现出最强干预敏感度。（pp.1, 6–7）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 2020 年至 2025 年间发表的 34 项关于 AI 智能体介入 K-12 课堂的实验与准实验实证研究，涵盖 73 个 [[Effect Size|效应量]] 与 3,042 名学生。
+> - **对象** 2020 年至 2025 年间发表的 34 项关于 AI 智能体介入 K-12 课堂的实验与准实验实证研究，涵盖 73 个[[Effect Size|效应量]]与 3,042 名学生。
 > - **张力** 普遍假定的 AI 促学潜能与实证研究中零散、分化乃至负向结论之间的矛盾；抽象泛化的技术效果与具体学科及学段情境化需求之间的张力。
 > - **贡献** 首次基于布鲁姆认知目标分类框架细化评估 AI 智能体在 K-12 阶段的认知分维效能，确立了高小学段与语言艺术学科的干预优势区间，厘清了不同技术形态与实施周期的实际影响。
 
@@ -118,13 +127,14 @@ updated: 2026-08-25
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **维果茨基社会文化理论与最近发展区支架理论**<br>[[Piaget's Theory of Cognitive Development\|Vygotskian Scaffolding & ZPD]] | 提供技术中介的[[Epistemology\|认识论]]基础。AI [[AI Agent in Education\|智能体]]作为动态脚手架，通过自适应评估感知学习者的最近发展区（Zone of Proximal Development, ZPD），提供即时矫正反馈与个性化线索，助力学生完成独立无法达成的认知任务。（p.2） |
-> | **建构主义学习框架**<br>[[Cognitive Constructivism\|Constructivist Learning Framework]] | 强调学习是学习者在交互中主动建构意义的过程。AI 智能体提供多模态交互环境与探究空间，支持反思与策略演练。（p.2） |
-> | **布鲁姆认知领域目标分类学**<br>[[Bloom's Taxonomy\|Bloom's Revised Taxonomy]] | 提供因变量分类标准，将认知成果操作化为知识类（事实再认与概念识记）、技能类（程序练习与问题解决应用）与高阶思维（[[Critical Thinking\|批判性思维]]、分析推理与发散创造）。（pp.2, 5） |
+> | **维果茨基最近发展区与支架理论**<br>[[Zone of Proximal Development\|Vygotskian Scaffolding & ZPD]] | 提供技术中介的[[Epistemology\|认识论]]基础。AI [[AI Agent in Education\|智能体]]作为动态脚手架，通过自适应评估感知学习者的最近发展区（Zone of Proximal Development, ZPD），提供即时矫正反馈与个性化线索，助力学生完成独立无法达成的认知任务。（p.2） |
+> | **皮亚杰认知发展阶段理论**<br>[[Piaget's Theory of Cognitive Development\|Piaget's Developmental Stages]] | 解释学段调节效应的发展心理学机制。高小学段正处于从具体运算向形式运算过渡的关键窗口，对自适应抽象逻辑支架最为敏感，获益最为突出（$g = 0.877$）。（pp.2, 11–13） |
+> | **布鲁姆认知领域目标分类学**<br>[[Bloom's Taxonomy\|Bloom's Revised Taxonomy]] | 提供[[Dependent Variable\|因变量]]分类标准，将认知成果[[Operationalization\|操作化]]为知识类（事实再认与概念识记）、技能类（程序练习与问题解决应用）与[[Higher-Order Thinking Skills\|高阶思维]]（[[Critical Thinking\|批判性思维]]、分析推理与发散创造）。（pp.2, 5） |
 > | **认知负荷理论**<br>[[Cognitive Load Theory\|Cognitive Load Theory]] | 解释 AI 智能体如何通过分步提示与自适应信息呈现减轻外在认知负荷，释放[[Working Memory\|工作记忆]]以专注于图式建构与核心解题技能演练。（pp.2, 10） |
+> | **建构主义学习框架**<br>[[Cognitive Constructivism\|Constructivist Learning Framework]] | 强调学习是学习者在交互中主动建构意义的过程。AI 智能体提供多模态交互环境与探究空间，支持反思与策略演练。（p.2） |
 
 > [!warrant]- 理论如何支撑论证
-> 支架理论与[[Constructivist Paradigm|建构主义]]解释了为什么 AI 智能体区别于传统静态教学软件：其主动感知输入并实时自适应调整反馈的特性，直接构成了学习者的外部认知脚手架；布鲁姆分类学则为分解[[Heterogeneity|异质性]]提供了理论坐标，使得[[Meta-analysis|元分析]]能够超越技术整体是否有效的粗糙提问，精确揭示出技术在不同认知加工层级上的差异化机制；[[Cognitive Load Theory|认知负荷理论]]则进一步说明了程序技能练习在人机自适应环境中最易获得稳定增益的心理学机理。（pp.2–3, 9–11）
+> 支架理论与[[Constructivist Paradigm|建构主义]]解释了为什么 AI 智能体区别于传统静态教学软件：其主动感知输入并实时自适应调整反馈的特性，直接构成了学习者的外部认知脚手架；[[Jean Piaget|皮亚杰]]发展阶段论合理解释了高小学段（具体向形式运算过渡期）对自适应支架的最强敏感度；布鲁姆分类学则为分解[[Heterogeneity|异质性]]提供了理论坐标，使得[[Meta-analysis|元分析]]能够超越技术整体是否有效的粗糙提问，精确揭示出技术在不同认知加工层级上的差异化机制；认知负荷理论则进一步说明了[[Procedural Skill|程序技能]]练习在人机自适应环境中最易获得稳定增益的心理学机理。（pp.2–3, 9–13）
 
 ---
 
@@ -133,13 +143,13 @@ updated: 2026-08-25
 > [!index-table] 核心[[Variable|变量]][[Operationalization|操作化]]定义与[[Coding in Qualitative Research|编码]]规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（Higher-Order Thinking, HOTS） | 依据布鲁姆修订版认知目标分类学的高阶层级（分析、评价、创造），指在复杂劣构情境中超越机械识记与常规运算的深层认知加工能力，涵盖批判性思维、计算思维、科学探究推理与发散[[Creativity\|创造力]]。 | **测量工具与量规** 表现性评估量规、开放式探究项目评审、加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory, CCTDI）、沃森-格拉瑟批判性思维测验（Watson-Glaser Critical Thinking Appraisal, WGCTA）、计算思维量表（Computational Thinking Scale, CTS）；<br>**纳入案例** 协作绘画发散创造力评估（Ali et al., 2021, $g = 0.63$）；植物多样性科学探究与推理评估（Liang et al., 2024, $g = 0.08$）；计算思维高阶问题解决测试（Huang & Qiao, 2024, $g = 0.64$; Hsu & Hsu, 2025, $g = 0.40$）；反思性代码调试（Fang et al., 2025, $g = 0.40$）；共纳入 13 个效应量，加权平均 $g = 0.540$。 |
-> | **技能类认知结果**<br>（Skill-Based Outcomes） | 评估学习者应用程序性知识、执行标准化操作规则及解决良构问题的熟练程度与自动化水平，涵盖解题技巧、编程技能、口语听说流利度、阅读技能与四则运算操作。 | **测量工具与形式** 标准化上机测试、编程代码单元测试通过率、每分钟正确阅读字数（Words Correct Per Minute, WCPM）测算、学科标准化解题测试；<br>**纳入案例** 自动化 Python 代码测试（Fang et al., 2025, $g = 0.40$; Ye et al., 2025, $g = 0.16$）；英语作为外语（English as a Foreign Language, EFL）口语阅读流利度（Elmaadaway et al., 2025, $g = 2.12$）；双语伴读听说训练（Feng & Wang, 2023, $g = 0.76$）；数学自适应解题（Tasdelen & Bodemer, 2025, $g = 0.21$）；共纳入 42 个效应量，加权平均 $g = 0.391$。 |
+> | **[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（Higher-Order Thinking, HOTS） | 依据布鲁姆修订版认知目标分类学的高阶层级（分析、评价、创造），指在复杂劣构情境中超越机械识记与常规运算的深层认知加工能力，涵盖批判性思维、计算思维、科学探究推理与发散[[Creativity\|创造力]]。 | **测量工具与量规** 表现性评估量规、开放式探究项目评审、加州批判性思维倾向问卷（[[California Critical Thinking Disposition Inventory\|California Critical Thinking Disposition Inventory, CCTDI]]）、沃森-格拉瑟批判性思维测验（[[Watson-Glaser Critical Thinking Appraisal\|Watson-Glaser Critical Thinking Appraisal, WGCTA]]）、计算思维量表（[[Computational Thinking Scale\|Computational Thinking Scale, CTS]]）；<br>**纳入案例** 协作绘画发散创造力评估（Ali et al., 2021, $g = 0.63$）；植物多样性科学探究与推理评估（Liang et al., 2024, $g = 0.08$）；计算思维高阶问题解决测试（Huang & Qiao, 2024, $g = 0.64$; Hsu & Hsu, 2025, $g = 0.40$）；反思性代码调试（Fang et al., 2025, $g = 0.40$）；共纳入 13 个效应量，加权平均 $g = 0.540$。 |
+> | **[[Procedural Skill\|技能类认知结果（程序技能）]]**<br>（Skill-Based Outcomes） | 评估学习者应用程序性知识、执行标准化操作规则及解决良构问题的熟练程度与自动化水平，涵盖解题技巧、编程技能、口语听说流利度、阅读技能与四则运算操作。 | **测量工具与形式** 标准化上机测试、编程代码单元测试通过率、每分钟正确阅读字数（Words Correct Per Minute, WCPM）测算、学科标准化解题测试；<br>**纳入案例** 自动化 Python 代码测试（Fang et al., 2025, $g = 0.40$; Ye et al., 2025, $g = 0.16$）；英语作为外语（English as a Foreign Language, EFL）口语阅读流利度（Elmaadaway et al., 2025, $g = 2.12$）；双语伴读听说训练（Feng & Wang, 2023, $g = 0.76$）；数学自适应解题（Tasdelen & Bodemer, 2025, $g = 0.21$）；共纳入 42 个效应量，加权平均 $g = 0.391$。 |
 > | **知识类认知结果**<br>（Knowledge-Based Outcomes） | 评估学习者对学科事实性信息、专有名词、核心术语及陈述性概念知识的再认、回忆与基本领会程度，属于布鲁姆认知目标分类的记忆与理解层级。 | **测量工具与形式** 标准化纸笔客观题、单选题与多选题、术语匹配测验、填空题与概念召回测试；<br>**纳入案例** 哈萨克语字母识记与笔画书写测验（Zhexenova et al., 2020, $g = 0.17$）；历史艺术事实知识测验（Chen et al., 2025, $g = 0.52$）；电磁学概念掌握测验（Alneyadi & Wardat, 2023, $g = 0.51$）；EFL 词汇自适应习得（Liu & Chen, 2023, $g = 0.45$）；共纳入 18 个效应量，加权平均 $g = 0.344$。 |
-> | **智能导师系统**<br>（Intelligent Tutoring Systems, ITS） | 基于领域知识图谱、学生认知状态模型与教学决策算法构建的结构化导学系统；能够细粒度追踪学习者答题步骤，提供自适应规则分流与分步解题提示。 | **教学规程** 题项级诊断测试 $\to$ 错误归因分析 $\to$ 递进线索脚手架（微提示、中提示、底线解析） $\to$ 自适应变式强化；<br>**纳入案例** 数学自适应问题解决平台（Tasdelen & Bodemer, 2025, $g = 0.21$）；代数几何自适应导师（Xing et al., 2025, $g = 0.01$; Khazanchi et al., 2025, $g = 0.05$）；历史导学系统（Chen et al., 2025, $g = 0.52$）；共纳入 10 个效应量，加权平均 $g = 0.540$。 |
-> | **人工智能教育机器人**<br>（AI Educational Robotics） | 具备拟人化物理具身或外显虚拟实体的智能交互中介；通过语音指令、面部表情、手势动作与触控多模态感知，提供伴读辅导与[[Dialogue in Education\|对话]]探究。 | **教学规程** 具身手势示范 $\to$ 双语认读纠音 $\to$ 多模态情感激励 $\to$ 合作式角色扮演游戏；<br>**纳入案例** 伴读机器人辅助哈萨克语书写与认读（Zhexenova et al., 2020, $g = 0.17$）；人机双语伴读（Feng & Wang, 2023, $g = 0.76$）；卡牌算术自适应对战（Pareto et al., 2022, $g = 0.24$）；共纳入 16 个效应量，加权平均 $g = 0.474$。 |
+> | **[[Intelligent Tutoring Systems\|智能导师系统]]**<br>（Intelligent Tutoring Systems, ITS） | 基于领域知识图谱、学生认知状态模型与教学决策算法构建的结构化导学系统；能够细粒度追踪学习者答题步骤，提供自适应规则分流与分步解题提示。 | **教学规程** 题项级诊断测试 $\to$ 错误归因分析 $\to$ 递进线索脚手架（微提示、中提示、底线解析） $\to$ 自适应变式强化；<br>**纳入案例** 数学自适应问题解决平台（Tasdelen & Bodemer, 2025, $g = 0.21$）；代数几何自适应导师（Xing et al., 2025, $g = 0.01$; Khazanchi et al., 2025, $g = 0.05$）；历史导学系统（Chen et al., 2025, $g = 0.52$）；共纳入 10 个效应量，加权平均 $g = 0.540$。 |
+> | **[[Educational Robotics\|人工智能教育机器人]]**<br>（AI Educational Robotics） | 具备拟人化物理具身或外显虚拟实体的智能交互中介；通过语音指令、面部表情、手势动作与触控多模态感知，提供伴读辅导与[[Dialogue in Education\|对话]]探究。 | **教学规程** 具身手势示范 $\to$ 双语认读纠音 $\to$ 多模态情感激励 $\to$ 合作式角色扮演游戏；<br>**纳入案例** 伴读机器人辅助哈萨克语书写与认读（Zhexenova et al., 2020, $g = 0.17$）；人机双语伴读（Feng & Wang, 2023, $g = 0.76$）；卡牌算术自适应对战（Pareto et al., 2022, $g = 0.24$）；共纳入 16 个效应量，加权平均 $g = 0.474$。 |
 > | **生成式智能体**<br>（Generative AI Agents, GenAI Agents） | 基于大型语言模型（Large Language Models, LLM）或多模态生成架构的开放式智能交互系统；支持自然语言问答、代码辅助调试、写作支架生成与探究任务共创。 | **教学规程** 开放式追问 $\to$ 代码反思性调试 $\to$ 生成式图像辅助计算思维 $\to$ 写作分步润色与头脑风暴；<br>**纳入案例** 结合反思策略的 Python 编程调试智能体（Fang et al., 2025, $g = 0.40$）；生成式 AI 绘图与计算思维（Hsu & Hsu, 2025, $g = 0.40$）；EFL 写作辅助（Pei et al., 2025, $g = 0.45$）；共纳入 17 个效应量，加权平均 $g = 0.421$。 |
-> | **对话式智能体**<br>（Conversational AI Agents） | 依托自然语言理解（Natural Language Understanding, NLU）与语音识别驱动的文本或语音聊天机器人；支持多轮任务型与闲聊型对话，提供即时语法与发音矫正反馈。 | **教学规程** 拟真口语会话情境 $\to$ 实时词汇与句式提示 $\to$ 发音流利度自动评分 $\to$ 自适应语料推送；<br>**纳入案例** 智能语音聊天机器人训练 EFL 口语流利度（Elmaadaway et al., 2025, $g = 2.12$）；段落写作助手（Sapan & Uzun, 2024, $g = 0.08$）；古诗词交互式教学（Chen et al., 2024, $g = 1.15$）；共纳入 30 个效应量，加权平均 $g = 0.468$。 |
+> | **[[Conversational AI in Education\|对话式智能体]]**<br>（Conversational AI Agents） | 依托自然语言理解（Natural Language Understanding, NLU）与语音识别驱动的文本或语音聊天机器人；支持多轮任务型与闲聊型对话，提供即时语法与发音矫正反馈。 | **教学规程** 拟真口语会话情境 $\to$ 实时词汇与句式提示 $\to$ 发音流利度自动评分 $\to$ 自适应语料推送；<br>**纳入案例** 智能语音聊天机器人训练 EFL 口语流利度（Elmaadaway et al., 2025, $g = 2.12$）；段落写作助手（Sapan & Uzun, 2024, $g = 0.08$）；古诗词交互式教学（Chen et al., 2024, $g = 1.15$）；共纳入 30 个效应量，加权平均 $g = 0.468$。 |
 > | **学段层次**<br>（Learner Levels） | 依学习者生理发育与认知成熟度划分为低小学段（1–3 年级）、高小学段（4–6 年级）、低初中阶段（7–9 年级）、高中学段（10–12 年级）及小初混龄。 | **编码依据与案例** 基础教育年级学制；样本覆盖低小（8项, $g = 0.237$）、高小（28项, $g = 0.877$）、初中（17项, $g = 0.195$）、高中（19项, $g = 0.037$）及混龄（1项, $g = 0.236$）；组间异质性检验 $Q_B = 12.97, p = .005$。 |
 > | **学科领域**<br>（Disciplines） | 依学科知识结构与认识论属性划分为语言与读写、数学与技术（含计算机编程）、自然科学（物理与生物）、艺术与创造力及其他。 | **编码依据与案例** 课程教学主题；覆盖语言读写（28项, $g = 0.830$）、数学技术（28项, $g = 0.230$）、自然科学（11项, $g = -0.065$）、艺术创造（4项, $g = 0.755$）及其他（2项, $g = 0.197$）；组间异质性检验 $Q_B = 7.61, p = .006$。 |
 > | **干预周期与时长**<br>（Experimental Duration） | 依实验干预时间跨度划分为短周期（少于 1 个月）、中周期（1 至 3 个月）、长周期（多于 3 个月）及未明确报告。 | **编码依据与案例** 实验实施周数与课时量；覆盖短期（14项, $g = 0.244$）、中期（22项, $g = 0.385$）、长期（6项, $g = 0.650$）及未明确报告（31项, $g = 0.463$）；组间异质性检验 $Q_B = 0.23, p = .632$。 |
@@ -216,7 +226,7 @@ updated: 2026-08-25
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["研究问题：AI 智能体对 K-12 认知发展总体效应如何？效能如何受认知层级、学段与学科调节？"]
 >     B["方法设计：基于 PRISMA 纳入 34 项实验研究 (73 个效应量, N = 3,042)，采用随机效应模型"]
 >     C["步骤一：确立总体主效应 (g = 0.404, p < .001) -> 证实 AI 智能体作为自适应认知中介的有效性"]
@@ -225,12 +235,7 @@ updated: 2026-08-25
 >     F["步骤四：偏倚与稳健性压力测试 -> 剪补法虚拟研究为 0, Orwin 失安全数 = 2,876 -> 结论高度稳健"]
 >     G["理论与实践结论：AI 智能体是强效的自适应练习脚手架，但高阶思维转化与理科探究高度依赖教学法协同"]
 > 
->     A --> B
->     B --> C
->     C --> D
->     D --> E
->     E --> F
->     F --> G
+>     A --> B --> C --> D --> E --> F --> G
 > ```
 
 ---
@@ -255,7 +260,7 @@ updated: 2026-08-25
 > ![](https://img.mylikemie.icu/sources/Liu_2026_CHBR/figures/Liu_2026_CHBR_Fig2_Forest_Plot_Overall.jpg)
 
 > [!warrant]- 理论推理桥梁
-> 总体中等效应确立了 AI 智能体在基础教育中的积极中介角色。与单向呈现预设材料的传统静态多媒体课件不同，AI 智能体具备感知学习者输入、动态评估错误并输出即时针对性反馈的双向交互能力。这种自适应交互有效充当了[[Lev Vygotsky|维果茨基]]所谓的外部认知脚手架，帮助中小学生跨越最近发展区，实现更优的知识内化与技能演练。（pp.9–10）
+> 总体中等效应确立了 AI 智能体在基础教育中的积极中介角色。与单向呈现预设材料的传统静态多媒体课件不同，AI 智能体具备感知学习者输入、动态评估错误并输出即时针对性反馈的双向交互能力。这种自适应交互有效充当了[[Lev Vygotsky|维果茨基]]所谓的外部认知脚手架，帮助中小学生跨越[[Zone of Proximal Development|最近发展区]]，实现更优的知识内化与技能演练。（pp.9–10）
 
 > [!case] 步骤一典型实验案例剖析
 > - **跨学科[[Gamification|游戏化]]自适应评估案例（Bachiri et al., 2023）** 针对 100 名摩洛哥高小学生的[[Experimental Research|实验研究]]表明，嵌入智能评估算法的系统能够根据学生实时作答动态调整题项难度并给予即时矫正反馈，获得中等显著促进效应（$g = 0.68$）。
@@ -269,7 +274,7 @@ updated: 2026-08-25
 > AI 智能体对不同层级认知成果的促进作用呈现明显分化：对技能类结果产生中等且高度显著的促进效应（$g = 0.391, p < .001$）；对知识类结果产生适度但统计显著的促进效应（$g = 0.344, p = .026$）；而在高阶思维上点估计值虽大（$g = 0.540$），但未达到统计显著水平（$p = .066$）。（pp.7, 10–11）
 
 > [!chain-link] 三大认知类别数据与异质性对比
-> - **技能类认知结果（Skills-Based, $k = 42$）** 加权合并 $g = 0.391$ $[0.197, 0.584], Z = 3.95, p < .001$，异质性 $Q = 409.56, I^2 = 90.0\%$。涵盖外语口语发音、代码调试、数学解题与计算操作，展现出最稳定的赋能效能。
+> - **[[Procedural Skill|技能类认知结果]]（Skills-Based, $k = 42$）** 加权合并 $g = 0.391$ $[0.197, 0.584], Z = 3.95, p < .001$，异质性 $Q = 409.56, I^2 = 90.0\%$。涵盖外语口语发音、代码调试、数学解题与计算操作，展现出最稳定的赋能效能。
 > - **知识类认知结果（Knowledge-Based, $k = 18$）** 加权合并 $g = 0.344$ $[0.040, 0.649], Z = 2.22, p = .026$，异质性 $Q = 143.82, I^2 = 88.2\%$。涵盖概念术语回忆与陈述性事实再认，干预增益适中。
 > - **[[Higher-Order Thinking Skills|高阶思维技能]]（Higher-Order Thinking, $k = 13$）** 加权合并 $g = 0.540$ $[-0.036, 1.117], Z = 1.838, p = .066$，异质性 $Q = 259.62, I^2 = 95.4\%$。涵盖[[Critical Thinking|批判性思维]]、分析推理与[[Creativity|创造力]]，变异极大且置信区间跨越 0 点。（p.7）
 
@@ -308,14 +313,14 @@ updated: 2026-08-25
 > [!chain-link] 四大调节[[Variable|变量]]数据分解
 > - **学段层次调节（$Q_B = 12.97, p = .005$）** 高小学段（4–6 年级）效应量最强劲（$g = 0.877, p < .001$），显著高于低小学段（$g = 0.237, p < .05$）与初中阶段（$g = 0.195, p < .05$），高中阶段则未达显著（$g = 0.037, p > .05$）。
 > - **学科领域调节（$Q_B = 7.61, p = .006$）** 语言读写（$g = 0.830, p < .001$）与艺术创造（$g = 0.755, p < .05$）获益最大，数学技术次之（$g = 0.230, p < .01$），自然科学未显现统计显著效应（$g = -0.065, p > .05$）。
-> - **智能体类型形态（$Q_B = 0.069, p = .793$）** 四类智能体均表现出正向显著效应：智能导师系统（[[Time Series Design|ITS]], $g = 0.540, p < .01$）与教育机器人（$g = 0.474, p < .001$）点估计最高，对话式智能体（$g = 0.468, p < .05$）与生成式智能体（$g = 0.421, p < .001$）紧随其后。
+> - **智能体类型形态（$Q_B = 0.069, p = .793$）** 四类智能体均表现出正向显著效应：[[Intelligent Tutoring Systems|智能导师系统]]（ITS, $g = 0.540, p < .01$）与教育机器人（$g = 0.474, p < .001$）点估计最高，对话式智能体（$g = 0.468, p < .05$）与生成式智能体（$g = 0.421, p < .001$）紧随其后。
 > - **干预实施时长（$Q_B = 0.23, p = .632$）** 中期干预（1–3 个月）效应最稳定显著（$g = 0.385, p < .001$），短期干预（少于 1 个月）$g = 0.244, p < .05$；长期干预（多于 3 个月）点估计虽高（$g = 0.650$）但因纳入文献少未达显著。（pp.7–8）
 
 > [!moderator-summary]- 表5：调节变量亚组分析与效应量汇总
 > | 调节变量维度与亚组 | 效应数 $k$ | Hedges' $g$ | $Z$ 值 | 95% 置信区间 | 组间检验 $Q_B$ | 组间检验 $p$ 值 | 核心解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | **AI 智能体类型（AI Agent）** | / | / | / | / | 0.069 | 0.793 | 智能体形态差异不显著，各类形态均具赋能价值 |
-> | - 人工智能教育机器人（Robotics） | 16 | 0.474 | 2.86** | [0.150, 0.799] | / | / | 具身拟人化外显交互，提升情感投入与口语互动 |
+> | - [[Educational Robotics\|人工智能教育机器人]]（Robotics） | 16 | 0.474 | 2.86** | [0.150, 0.799] | / | / | 具身拟人化外显交互，提升情感投入与口语互动 |
 > | - 智能导师系统（ITS） | 10 | 0.540 | 3.541*** | [0.241, 0.839] | / | / | 题项级规则分解与微步骤提示，解题演练最强 |
 > | - 生成式智能体（GenAI Agent） | 17 | 0.421 | 3.69*** | [0.198, 0.645] | / | / | 支持代码共创与开放问答，依赖[[Task Structure\|任务结构]]化 |
 > | - [[Dialogue in Education\|对话]]式智能体（Conversational AI） | 30 | 0.468 | 2.01* | [0.008, 0.645] | / | / | 多轮会话驱动，广泛用于二语流利度训练 |
@@ -398,9 +403,9 @@ updated: 2026-08-25
 
 > [!finding-cards] 核心发现
 > 1. **AI [[AI Agent in Education|智能体]]对 K-12 认知表现具有统计显著的中等促进效应** 综合 34 项实验与准[[Experimental Research|实验研究]]（73 个[[Effect Size|效应量]]，$N = 3{,}042$）得出随机效应汇总效应量 $g = 0.404$（$p < .001$），证实自适应智能体能够作为高效的外部认知中介。（pp.1, 6–7）
-> 2. **认知维度收益分化且程序性技能最为稳定** AI 智能体对技能类结果（$g = 0.391, p < .001$）与知识类结果（$g = 0.344, p < .05$）均有显著提升，而高阶思维虽点估计较大（$g = 0.540$）但异质性极高（$I^2 = 95.4\%$）且未达统计显著（$p = .066$）。（pp.1, 7）
+> 2. **认知维度收益分化且[[Procedural Skill|程序性技能]]最为稳定** AI 智能体对技能类结果（$g = 0.391, p < .001$）与知识类结果（$g = 0.344, p < .05$）均有显著提升，而高阶思维虽点估计较大（$g = 0.540$）但异质性极高（$I^2 = 95.4\%$）且未达统计显著（$p = .066$）。（pp.1, 7）
 > 3. **高小学段与语言艺术学科展现出最强干预敏感度** 高小学段（4–6 年级，$g = 0.877$）处于抽象逻辑转换期，促学成效最为突出；语言读写（$g = 0.830$）和艺术创造（$g = 0.755$）天然契合多轮交互特性，获益显著优于自然科学（$g = -0.065$）。（pp.1, 7–8）
-> 4. **各类智能体形态均具实效且中期干预表现最稳健** 智能导师系统、机器人、生成式智能体与[[Dialogue in Education|对话]]机器人均达显著正向效应（$g$ 在 0.421 至 0.540 之间），形态间差异不显著；1 至 3 个月中期干预（$g = 0.385$）效能最稳定。（pp.7–8）
+> 4. **各类智能体形态均具实效且中期干预表现最稳健** [[Intelligent Tutoring Systems|智能导师系统]]、机器人、生成式智能体与[[Dialogue in Education|对话]]机器人均达显著正向效应（$g$ 在 0.421 至 0.540 之间），形态间差异不显著；1 至 3 个月中期干预（$g = 0.385$）效能最稳定。（pp.7–8）
 
 > [!stat-cards]- 核心数据
 > - **$g = 0.404$** AI 智能体对 K-12 认知学习成果的总体随机效应量（95% CI [0.242, 0.567], $p < .001$）。（p.7）

@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 47
+method_related_count: 48
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Ecological Validity]]"
+  - "[[Intelligent Tutoring Systems]]"
   - "[[Implementation Fidelity]]"
   - "[[Attrition]]"
   - "[[Interaction Effect]]"
@@ -113,7 +114,7 @@ updated: 2026-08-21
 > - **与 [[Randomised Controlled Trials|RCT]] 的互补关系** 当出于伦理考量（如不能剥夺弱势学生的必要辅导）、行政限制（学校拒绝打破现有班级建制）或政治可行性而无法实施 RCT 时，QED 提供唯一合法的因果证据替代路径([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, p. 109]])。
 
 > [!method-stack] 方法层级
-> - **设计形态** 非等对控制组前后测设计、[[Time Series Design|间断时间序列设计]]（ITS）、[[Regression Discontinuity Design|断点回归设计]]（RDD）、轮换/对等材料设计。
+> - **设计形态** 非等对控制组前后测设计、[[Time Series Design|间断时间序列设计]]（[[Intelligent Tutoring Systems|ITS]]）、[[Regression Discontinuity Design|断点回归设计]]（RDD）、轮换/对等材料设计。
 > - **数据采集** 标准化基线前测、多时间点追踪观测、过程[[Implementation Fidelity|实施忠实度]]记录、终结性后测。
 > - **统计控制工具** 倾向得分匹配（PSM）、双重差分模型（DID）、[[Analysis of Covariance|协方差分析]]（ANCOVA）、多层线性模型（HLM）。
 

@@ -7,10 +7,10 @@ aliases:
 summary: "研究知识进入政策制定过程的多种路径，Weiss（1991b）将其归纳为研发、问题解决、互动和战术四种模型；研究利用的效果受政治可接受性、传播方式和研究者-决策者文化张力等多重因素影响。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 5
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - topic/educational-policy
   - topic/evaluation
@@ -18,17 +18,25 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
   - "[[Dialogue in Education]]"
-  - "[[Praxis]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Effect Size]]"
+  - "[[Variable]]"
   - "[[Positivism]]"
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Governing Mechanisms of Research Use]]"
+related_methods:
+  - "[[Systematic Review]]"
+  - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+related_instruments:
+  - "[[Mixed Methods Appraisal Tool]]"
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-08-25
 ---
 # Research Utilization
 
@@ -49,10 +57,14 @@ updated: 2026-06-17
 > [!feature] 研究利用的四种经典模型（Weiss, 1991b）
 > - **研究与开发模型（R&D Model）** 研究通过线性阶段——[[Blue Skies Research|基础研究]]→[[Evaluation Research|应用研究]]→开发→推广——逐步转化为政策方案。隐喻是"流水线"。
 > - **问题解决模型（Problem-Solving Model）** 当政策制定者面临特定问题时，他们主动调用现有研究来寻找答案。隐喻是"工具箱"。
-> - **互动模型（Interactive Model）** 研究与政策在持续[[Dialogue in Education|对话]]中相互塑造——研究者提供证据和框架，决策者提供问题和[[Praxis|实践]]约束。隐喻是"对话"。
+> - **互动模型（Interactive Model）** 研究与政策在持续[[Dialogue in Education|对话]]中相互塑造——研究者提供证据和框架，决策者提供问题和实践约束。隐喻是"对话"。
 > - **战术模型（Tactical Model）** 研究被策略性地引用，不是作为决策的信息基础，而是作为支持既定立场的修辞资源或拖延决策的工具。隐喻是"武器"。
 
 此外，Alkin 等（1991）还区分了**研究利用**与**评估利用**的差异。研究者需要判断其研究的最适当利用形式，并根据利用模型调整传播策略。
+
+研究利用的另一条经典线索是概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三分类：概念性使用以间接方式影响理解与思考，工具性使用直接回应具体决策问题，象征性使用则被用来事后为既定决策合法化。这条线索与 Weiss（1991b）的四种过程模型互补——前者回答"以什么方式用"，后者回答"经过什么路径用"。
+
+研究利用在学校层面的研究表明，研究使用不是主要受个体缺陷制约，而是受信任、技能发展、可持续结构与关系四类跨层机制共同治理（见 [[Governing Mechanisms of Research Use|研究使用治理机制]]）。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p.18)]]
 
 ---
 
@@ -77,6 +89,19 @@ updated: 2026-06-17
 > [!implication] 命题后果
 > - **对研究者的后果** 如果只关注研究利用的"研发模型"（线性转化），研究者会系统性低估其研究的实际政策影响——因为大多数研究利用发生在互动模型和概念渗透层面。
 > - **对传播的后果** 研究者需要根据利用模型匹配传播策略——在互动模型中需建立与决策者的持续关系，在战术模型中需警惕研究被选择性使用。
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校研究使用实证研究，来自 28 个国家，57% 出自英语国家（英国 27、美国 15、加拿大 13、澳大利亚 5、新西兰 1、爱尔兰 1） | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用被报告的层级分布 | 个体层面 k = 91（83% 研究），组织层面 k = 56，系统层面 k = 46，核心构件 k = 94 | — | 聚合分析显示研究使用研究呈个体偏向，组织与系统层面因素被较少报告 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究设计分布 | 35% 定量（38 项，多采用调查）、45% 质性（48 项，多采用访谈）、20% [[Mixed Methods Research\|混合方法]]（23 项）；约 80% 为横断面研究 | — | 证据形态以横断面调查与访谈为主，纵向证据稀缺 |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 同上 | 同上 | 纳入研究质量分布 | 41 项（38%）[[Mixed Methods Appraisal Tool\|MMAT]] 评 5 分、18 项（17%）4 分、31 项（28%）3 分、其余 17% 评 2 分及以下 | 1 项未通过筛选不作评估 | 大多数发现来自评 4–5 分的 59 项较高质量研究 |
 
 ---
 

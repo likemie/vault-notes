@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 96
+related_count: 98
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Theory of Mind]]"
   - "[[Visible Learning]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Technology Infusion]]"
@@ -122,11 +123,12 @@ related_arguments:
   - "[[Argument_Peterson_2016_IJRME]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-08-25
 ---
 
 # Evidence-Based Education
@@ -388,6 +390,9 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 
 > [!implication] 整合方向
 > 以实在论因果命题为出发点，运用[[Mixed Methods Research|混合方法]]进行多方法跨情境验证，教师的[[Professional Judgment|专业判断]]从证据的被动接受者上升为共同生产者（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]；[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017]]）。
+
+> [!warning] [[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]的系统证据
+> Hagevold 等（2026）对 109 项学校研究的[[Systematic Review|系统综述]]显示，标准化证据本位实践在问责驱动的时代容易导致对研究证据的象征性使用，把新实践浅层叠加在传统思维方式之上；"什么有效"运动的[[Hypothesis|假设]]——识别并传播有效干预本身就会带来有意义的实践变化——并未如愿实现。摆脱象征性使用需要经由信任、技能发展、可持续结构与关系四类跨层机制培育专业能动性，而非依靠工具性指令（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026, pp.1]], 17–18）。
 
 ---
 ## 关键引用

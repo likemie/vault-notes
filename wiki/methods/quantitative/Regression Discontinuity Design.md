@@ -13,9 +13,9 @@ summary: "基于连续驱动变量在特定阈值处的刚性或概率性分配�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/regression-discontinuity
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Manipulation Check]]"
   - "[[Homework]]"
   - "[[Sample Size Determination]]"
+  - "[[Intelligent Tutoring Systems]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
   - "[[Luhmann's Systems Theory]]"
@@ -185,7 +186,7 @@ updated: 2026-08-22
 > |:---|:---|:---|
 > | [[Quasi-Experimental Designs]] | 母类方法 | RDD 是准实验设计体系中内部效度最高、[[Causality\|因果推断]]力最强的亚型。 |
 > | [[Randomised Controlled Trials]] | 黄金参照 | RDD 在断点邻域内实现局部[[Random Assignment\|随机化]]，被 [[What Works Clearinghouse\|WWC]] 视作与 RCT 并列的一级证据。 |
-> | [[Time Series Design]] | 关联设计 | ITS 属于“时间维度断点”，RDD 属于“属性分数维度断点”，二者共享局部跃升检验逻辑。 |
+> | [[Time Series Design]] | 关联设计 | [[Intelligent Tutoring Systems\|ITS]] 属于“时间维度断点”，RDD 属于“属性分数维度断点”，二者共享局部跃升检验逻辑。 |
 > | [[Campbellian Validity Framework]] | 理论基础 | 提供排查选择、历史与工具测量偏倚的[[Luhmann's Systems Theory\|系统理论]]工具。 |
 > | [[Causality]] | 核心概念 | LATE 因果推断的现代计量[[Paradigm\|范式]]。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 制定了国际最完备的 RDD 强迫[[Variable\|变量]]操纵与带宽审查技术手册。 |

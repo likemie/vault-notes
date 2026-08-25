@@ -7,10 +7,10 @@ aliases:
 summary: "Miyake (2000) 的 EF 统一性与多样性框架：抑制、转换、更新与监控三成分既相关又各具独特功能和发展轨迹"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 8
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 7
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 tags:
 - miyake
 - executive-function
@@ -22,8 +22,7 @@ related_concepts:
   - "[[Updating and Monitoring]]"
   - "[[Working Memory]]"
   - "[[Paradigm]]"
-related_theories:
-  - "[[Piaget's Theory of Cognitive Development]]"
+related_theories: []
 related_methods: []
 related_persons:
   - "[[Jean Piaget]]"
@@ -32,8 +31,8 @@ related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
 confidence: medium
 status: draft
-created: '2026-05-04'
-updated: '2026-05-18'
+created: 2026-05-18
+updated: 2026-08-25
 ---
 
 ## 核心主张
@@ -58,7 +57,7 @@ updated: '2026-05-18'
 ## 发展脉络
 
 > [!note-] 发展脉络
-> - 2000 年 Miyake et al. 首次开发出综合性的 [[Executive Function|EF]] 多维模型([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])
+> - 2000 年 Miyake et al. 首次开发出综合性的 EF 多维模型([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.4]])
 > - 2012 年 Miyake & Friedman 进一步发展了统一性与多样性框架
 
 ## 研究范式
@@ -74,6 +73,6 @@ updated: '2026-05-18'
 ## 应用领域
 
 > [!success] 应用领域
-> - executive-function — 以 Miyake 三成分模型为 [[Executive Function|EF]] 的核心定义框架
-> - [[Piaget's Theory of Cognitive Development|piagets-theory-of-cognitive-development]] — [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie (2017)]] 使用此框架将 EF 各成分的发展轨迹与[[Jean Piaget|皮亚杰]]阶段进行对齐
+> - executive-function — 以 Miyake 三成分模型为 EF 的核心定义框架
+> - piagets-theory-of-cognitive-development — [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie (2017)]] 使用此框架将 EF 各成分的发展轨迹与[[Jean Piaget|皮亚杰]]阶段进行对齐
 

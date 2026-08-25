@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据视为多种决策资源之一的实践取向，强调教育者通过专业判断整合研究、课堂数据和系统信息来形成行动。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,10 +24,13 @@ related_concepts:
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
+  - "[[Research Literacy]]"
   - "[[School Leadership]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Based Education]]"
   - "[[Research Utilization]]"
+  - "[[Dialogue in Education]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -35,6 +38,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Formative Program Evaluation]]"
+  - "[[Systematic Review]]"
 related_persons:
   - "[[Carol Campbell]]"
   - "[[Julie Nelson]]"
@@ -47,10 +51,11 @@ related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Pellegrini_2021_ROE]]"
   - "[[Argument_Ross_Morrison_2021_ROE]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: '2026-05-23'
+updated: 2026-08-25
 ---
 
 ## 定义
@@ -95,7 +100,7 @@ EIP 的核心分歧不在“要不要看研究”，而在“研究在决策里�
 [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p.127)]] 用“肥沃的土壤”说明 EIP 成败不取决于研究是否存在，而取决于教育者是否具备接住证据的条件：
 
 - **可及性** 能否接触高质量、相关研究
-- **能力** 是否具备研究素养与数据分析能力
+- **能力** 是否具备[[Research Literacy|研究素养]]与数据分析能力
 - **时间** 是否有专门时间做合作探究
 - **文化** 学校和系统是否把证据使用视为专业学习的一部分
 - **中介**[[School Leadership|学校领导]]、专业协会、研究机构等是否发挥连接作用
@@ -136,6 +141,8 @@ EIP 解释“教师如何整合多种证据”；[[Knowledge Mobilisation]] 则�
 > - **复杂改革需要多目标解释**[[Students and Teachers Accessing Tomorrow]] 的[[Formative Program Evaluation|形成性项目评价]]显示实施过程有积极变化，但成就结果不明确；不同利益相关者因此会根据自己重视的目标给出不同判断([[Argument_Ross_Morrison_2021_ROE|Ross & Morrison, 2021, pp.122-123]])。
 > - **EIP 的积极影响已有初步证据，但仍不足** 关于 EIP 对学校改进的影响已有一些支持性发现，但 Dagenais et al. (2012) 仍被概括为“证据很少”([[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.131]])。
 > - **实践者参与研究正在增加，但仍有距离** 教师与研究的关联在英国已更常见，但离广泛、稳定的专业常态仍有差距（CUREE, 2011, cited in [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p.130]]）。
+> - **研究往往只充当“第三声音”** 对 109 项学校研究的[[Systematic Review|系统综述]]显示，研究在实践者决策与改进中始终扮演支持性而非主导性角色，是研究知识、专业经验与情境智慧三方[[Dialogue in Education|对话]]中的“第三声音”；研究使用以象征性与工具性为主，深思熟虑参与相对罕见[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp.10–11)]]。
+> - **从“实施”转向“整合”** Hagevold 等（2026）据此主张 EIP 应超越对研究发现的“实施”，转向研究与其他知识来源、专业智慧的“整合”：[[Epistemology|认识论]]上整合研究知识与专业智慧，组织上把研究参与嵌入学校文化与结构；这要求以可持续结构培育专业能动性，而非依靠工具性指令[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp.17–18)]]。
 
 > [!info]- 核心数据
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p.129)]] 将 EIP 概括为 4 类核心证据资源。

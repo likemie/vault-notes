@@ -6,7 +6,7 @@ aliases:
 summary: "基于布迪厄关系社会学的核心概念，指行动者惯习与社会场域之间前反思性的具身共谋，解释教育场域中行动者如何潜意识地维护现有体制与权力现状。"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Reflexivity]]"
-  - "[[Praxis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
@@ -55,7 +54,7 @@ updated: 2026-06-10
 
 > [!boundary]- 概念边界
 > - 不等于 **有意共谋** — 有意共谋是行动者出于理性算计或物质利益，而进行的意识层面的主动合作；本体论共谋则是主客观结构契合下无意识的、前反思的身体化共谋，行动者往往并不觉得自己在“共谋”。
-> - 不等于 **盲目顺从** — 顺从强调被动接受外在压力；本体论共谋强调行动者主动“活在”世界中，其惯习在具身化的[[Praxis|实践]]中天然地与场域结构“共振”。
+> - 不等于 **盲目顺从** — 顺从强调被动接受外在压力；本体论共谋强调行动者主动“活在”世界中，其惯习在具身化的实践中天然地与场域结构“共振”。
 
 ---
 

@@ -8,7 +8,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 65
+fact_related_count: 64
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Performance Pay]]"
   - "[[Effect Size]]"
-  - "[[Praxis]]"
   - "[[Sage]]"
   - "[[Technical Rationality]]"
   - "[[Further Education]]"
@@ -154,7 +153,7 @@ updated: '2026-05-18'
 > Cognition Education 的 VLplus 产品体系发展为三个系列共 16 个工作坊([[Argument_ONeill_2016_Report|O'Neill et al., 2016, p.67]])：
 >
 > - **Foundation 系列** 基础工作坊，介绍 VL 核心理念和 [[Effect Size|效应量]] 方法论
-> - **Inside 系列** 深入工作坊，针对具体教学[[Praxis|实践]]领域
+> - **Inside 系列** 深入工作坊，针对具体教学实践领域
 > - **Collaborative Impact 系列** 学校整体改进工作坊
 > - **学校认证** 学校可申请被评估认证为 Visible Learning Impact Certified School
 >
@@ -342,7 +341,7 @@ updated: '2026-05-18'
 >
 > #### [[Argument_OConnor_2020_AJLL|O'Connor (2020)]] — 维多利亚州政策影响
 >
-> O'Connor 指出 VL 已在澳大利亚维多利亚州公立教育系统中成为官方推荐[[Praxis|实践]]：10 项 [[Victorian HITS and Literacy Toolkit|HITS]] 均以 VL 为首要参考，Literacy Toolkit 显著引用 Hattie 的研究([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.141]])。O'Connor 的结论是："试图通过 [[Visible Learning]] 报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])。
+> O'Connor 指出 VL 已在澳大利亚维多利亚州公立教育系统中成为官方推荐实践：10 项 [[Victorian HITS and Literacy Toolkit|HITS]] 均以 VL 为首要参考，Literacy Toolkit 显著引用 Hattie 的研究([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.141]])。O'Connor 的结论是："试图通过 [[Visible Learning]] 报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的"([[Argument_OConnor_2020_AJLL|O'Connor, 2020, p.149]])。
 >
 > #### [[Argument_Blass_2020_JESP|Blass (2020)]] — 澳大利亚国家层面政策批评：VL 作为"不改变的好借口"
 >

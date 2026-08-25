@@ -7,9 +7,9 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 42
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
 - systematic-review
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Evaluation Research]]"
   - "[[Evidence-Based Education]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -50,20 +51,25 @@ related_methods:
   - "[[Case Study]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[PRISMA]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Framework Synthesis]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Higgins_2016_RE]]"
   - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[PISA]]"
+related_instruments:
+  - "[[Mixed Methods Appraisal Tool]]"
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-07-17
+updated: 2026-08-25
 ---
 # Systematic Review
 
@@ -124,7 +130,7 @@ updated: 2026-07-17
 > - **不声称回答的问题** 不能替代一手研究产生新数据；不能直接解决因果方向问题（除非纳入的研究本身已通过[[Randomised Controlled Trials|随机对照试验]]等方法建立了[[Causality|因果关系]]）；结论的[[External Validity|可推广性]]受纳入研究的范围和质量的限制。
 
 > [!method-stack] 方法层级
-> - **研究设计** 系统综述设计，遵循预设协议——如 PRISMA（Preferred Reporting Items for Systematic Reviews and Meta-Analyses）、[[EPPI-Centre]] 框架、Cochrane 手册（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.386–397]]）。
+> - **研究设计** 系统综述设计，遵循预设协议——如 [[PRISMA]]（Preferred Reporting Items for Systematic Reviews and Meta-Analyses）、[[EPPI-Centre]] 框架、Cochrane 手册（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.386–397]]）。
 > - **数据收集** 数据库检索（如 ERIC、SSCI、Scopus）、参考[[Document|文献]]追踪、灰色[[Literature Search|文献搜索]]、专家咨询、手工检索关键期刊。
 > - **分析方法** [[Coding in Qualitative Research|编码]]与主题分析（定性综合）；[[Effect Size|效应量]]汇总（定量[[Meta-analysis|元分析]]）；投票计数；叙事综合；质性比较分析。
 > - **辅助技术** 双重筛选（dual screening）、偏倚风险评估工具、PRISMA 流程图（记录检索→筛选→纳入的流程）、编码者间信度检验。
@@ -192,7 +198,7 @@ EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步�
 > - **偏误来源** 搜索策略的完整性直接影响结论的[[Reliability|可靠性]]——即使系统搜索也可能遗漏未发表的研究，导致[[Publication Bias|发表偏倚]]（[[Argument_Higgins_2016_RE|Higgins, 2016, p.35]]）。纳入标准的设定涉及主观判断——标准过严可能排除有价值的数据，标准过宽可能引入低质量研究。Eysenck 的"垃圾进，垃圾出"批评和 Glass 的回应反映了这一两难（[[Argument_Higgins_2016_RE|Higgins, 2016, p.38]]）。
 > - **适用边界** 系统综述的质量取决于底层研究的质量。即使搜索和筛选过程完全透明，如果原始研究本身存在设计缺陷或报告偏差，综述结论仍可能误导。
 > - **误用风险** 选择性使用证据以制造"正面效应"印象（见上文 Davies 警示）；将[[Statistical Significance|统计显著性]]凌驾于教育显著性之上；未经充分[[Evaluation Research|评估研究]]质量即纳入综合。
-> - **补救方式** 使用未发表研究和灰色[[Document|文献]]补充数据库检索；采用双重筛选和[[Intercoder Agreement|编码者间信度]]检验；使用偏倚风险评估工具；遵循 PRISMA 或 [[EPPI-Centre]] 等标准化报告框架。
+> - **补救方式** 使用未发表研究和灰色[[Document|文献]]补充数据库检索；采用双重筛选和[[Intercoder Agreement|编码者间信度]]检验；使用偏倚风险评估工具；遵循 [[PRISMA]] 或 [[EPPI-Centre]] 等标准化报告框架。
 
 ---
 
@@ -217,5 +223,6 @@ EPPI-Centre 在上述阶段模型之外，还提出了七项独立于操作步�
 
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Higgins_2016_RE|Higgins (2016)]]** 系统综述的方法论教材，涵盖[[Research Question|研究问题]]制定、纳入标准、系统搜索、质量评估和数据综合的完整操作框架。
-> - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 按照 PRISMA 框架从 SSCI and Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
+> - **[[Argument_Li_2025_HSSC|Li et al. (2025)]]** 按照 [[PRISMA]] 框架从 SSCI and Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用[[Coding in Qualitative Research|编码]]分析和序列分析方法探讨 PISA 对全球基础教育改革的影响。
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统介绍了系统综述与研究综合的定义、类型、操作标准（[[EPPI-Centre]]、BERA、Evans & Benefield、Cooper 等框架）与方法论警示。
+> - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，在 Scopus、Web of Science 与 ERIC 三库系统检索，双盲两阶段筛选后纳入 109 项学校[[Research Utilization|研究使用]]实证研究，用[[Mixed Methods Appraisal Tool|MMAT]]评估质量并采用[[Framework Synthesis|框架综合]]进行证据整合。

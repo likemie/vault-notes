@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 74
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -27,12 +27,12 @@ tags:
   - source/textbook
   - paradigm/critical
 related_concepts:
+  - "[[Concept Mapping]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Champ]]"
   - "[[Value Neutrality]]"
   - "[[Paradigm]]"
-  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Knowledge Production]]"
   - "[[Analytic Framework]]"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Research Question]]"
   - "[[Phronesis]]"
+  - "[[Praxis]]"
   - "[[Scientific Method]]"
   - "[[Pre-test and Post-test]]"
   - "[[Statistical Significance]]"
@@ -74,6 +75,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Consequential Validity]]"
   - "[[Effect Size]]"
+  - "[[Research Literacy]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Complexity Theory]]"
@@ -136,7 +138,7 @@ updated: '2026-07-21'
 >   I --> K
 > ```
 
-> [!knowledge-map]- 第2章概念地图
+> [!knowledge-map]- 第2章[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_2_Concept_Map.jpg)
 
 ---
@@ -573,7 +575,7 @@ Webb 等（2004）将女性主义原则应用于研究方法论的教学情境�
 > ```
 
 > [!implication] 这一综合的核心意涵
-> 三大范式不是线性进化的关系（批判理论不是"更高级"的实证主义），也不是互斥的选择（一个研究可以不局限于单一范式）。完整的研究素养意味着能够在三大范式之间**审慎地选择、结合和移动**——根据研究问题的性质选择适当的兴趣-方法论组合。更重要的是，批判理论的贡献不在于"替代"前两大范式，而在于揭示了**任何范式选择本身都是一个政治决策**——选择测量"效应量"而非追问"谁受益"，选择"理解参与者视角"而非"揭露权力运作"，都是对特定利益的回应。
+> 三大范式不是线性进化的关系（批判理论不是"更高级"的实证主义），也不是互斥的选择（一个研究可以不局限于单一范式）。完整的[[Research Literacy|研究素养]]意味着能够在三大范式之间**审慎地选择、结合和移动**——根据研究问题的性质选择适当的兴趣-方法论组合。更重要的是，批判理论的贡献不在于"替代"前两大范式，而在于揭示了**任何范式选择本身都是一个政治决策**——选择测量"效应量"而非追问"谁受益"，选择"理解参与者视角"而非"揭露权力运作"，都是对特定利益的回应。
 
 ---
 

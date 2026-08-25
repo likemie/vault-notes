@@ -67,11 +67,13 @@ related_methods:
   - "[[Internet-based Survey]]"
   - "[[Systematic Review]]"
   - "[[Inverse-Variance Weighting]]"
+  - "[[PRISMA]]"
   - "[[Triangulation]]"
 related_instruments:
   - "[[Creative Achievement Questionnaire]]"
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[California Critical Thinking Disposition Inventory]]"
+  - "[[Watson-Glaser Critical Thinking Appraisal]]"
   - "[[Runco Ideational Behavior Scale]]"
   - "[[Computational Thinking Scale]]"
   - "[[Consensual Assessment Technique]]"
@@ -94,7 +96,7 @@ title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -219,7 +221,7 @@ issuing_organization: ""
 > | Anderson & Beach (2022) | 14.5 | Middle/High school | North America | Student MetaSkills Survey - Critical Thinking Domain（主观） | Student MetaSkills Survey - Creativity Domain（主观） |
 > | Brubaker (1971) | NA | College | North America | The Critical Thinking Scale（客观） | Creative Personality Scale（主观） |
 > | Egger et al. (1997) | NA | College | North America | Written analysis provided by students assessed using a critical thinking rubric（客观） | Creation of Product Design（客观） |
-> | Gadzella & Penland (1995) | NA | College | North America | WGCTA（客观） | 16 Personality Factor Creativity scale（主观） |
+> | Gadzella & Penland (1995) | NA | College | North America | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]（客观） | 16 Personality Factor Creativity scale（主观） |
 > | Gibson et al. (1968) | NA | College | North America | WGCTA（客观） | Alternate Uses Test（客观） |
 > | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Alternate Uses Test（客观） |
 > | Gilbert (1961) | NA | Middle/High school | North America | WGCTA（客观） | Guilford Associational Fluency Test（客观） |
@@ -359,7 +361,7 @@ issuing_organization: ""
 > - **[[Coding in Qualitative Research|编码]]与调节变量** 测量按主观（自陈/自评）与客观（观念/产品产出或任务表现）[[Coding in Qualitative Research|编码]]，并提取年龄、学段、年份、地理区域四个调节变量。（pp. 4–5）
 
 > [!case] 嵌套效应量的来源：同一研究为何贡献多个相关
-> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽批判性思维评价（WGCTA）分别匹配非常规用途测验、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一[[Critical Thinking Disposition|批判性思维倾向]]量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。（p. 4）
+> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽批判性思维评价（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]）分别匹配非常规用途测验、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一[[Critical Thinking Disposition|批判性思维倾向]]量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。（p. 4）
 
 > [!warrant]- 推理桥梁
 > 三水平模型在统计上正确处理嵌套依赖（模型细节见上文效应量与统计模型一节），RVE 进一步保证标准误对依赖结构稳健，元回归与偏倚检验则分别回应哪些条件改变相关与结论是否被选择性发表扭曲两个问题，四项技术合起来系统回应了 Park et al. (2023) 的五点缺口。（pp. 4–5）
@@ -376,7 +378,7 @@ issuing_organization: ""
 > - **高异质性** $I^2 = 95.6\%$，95% CI $[94.8\%, 96.2\%]$，$Q(50) = 1133.19$，$p < 0.001$，支持后续调节分析。（p. 6）
 > - **稳健与无偏倚** RVE 敏感性分析得一致估计（$r = 0.386$，95% CI $[0.292, 0.473]$）；Egger 回归未检出显著发表偏倚（$t(149) = 0.29$，$p = 0.771$）。（pp. 6–7）
 
-> [!example]- 图1：[[Literature Search|文献检索]]与筛选流程（系统综述与元分析优先报告条目，Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）
+> [!example]- 图1：[[Literature Search|文献检索]]与筛选流程（系统综述与元分析优先报告条目，[[PRISMA|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], PRISMA）
 > ![](https://img.mylikemie.icu/sources/Park_2026_TSC/figures/Park_2026_TSC_Fig1_PRISMA.jpg)
 
 > [!example]- 图2：[[Forest Plot|森林图]]（Forest Plot）

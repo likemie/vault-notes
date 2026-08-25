@@ -22,13 +22,13 @@ related_methods:
   </div>
 
   <div class="research-map-stats" aria-label="Wiki 规模概览">
-    <a href="/wiki/concepts"><span>概念</span><strong>940</strong></a>
-    <a href="/wiki/arguments"><span>论证</span><strong>221</strong></a>
+    <a href="/wiki/concepts"><span>概念</span><strong>947</strong></a>
+    <a href="/wiki/arguments"><span>论证</span><strong>222</strong></a>
     <a href="/wiki/facts"><span>事实</span><strong>311</strong></a>
     <a href="/wiki/persons"><span>人物</span><strong>210</strong></a>
-    <a href="/wiki/theories"><span>理论</span><strong>120</strong></a>
-    <a href="/wiki/methods"><span>方法</span><strong>203</strong></a>
-    <a href="/wiki/instruments"><span>测量工具</span><strong>24</strong></a>
+    <a href="/wiki/theories"><span>理论</span><strong>122</strong></a>
+    <a href="/wiki/methods"><span>方法</span><strong>204</strong></a>
+    <a href="/wiki/instruments"><span>测量工具</span><strong>26</strong></a>
   </div>
 
   <div class="research-map-grid">

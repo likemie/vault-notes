@@ -94,7 +94,7 @@ updated: 2026-08-25
 ## 核心统计原理与分析流程
 
 ```mermaid
-flowchart TD
+flowchart LR
     subgraph Iteration["<b>留一法循环迭代计算架构 (共 k 次迭代)</b>"]
         A["<b>完整数据集 (k 项研究)</b><br>基准模型：总体合并效应量 θ 与 τ²"] --> B["<b>步骤一：剔除第 i 项研究</b><br>构建剩余数据集 (k - 1 项)"]
         B --> C["<b>步骤二：重估研究间方差</b><br>重新计算 τ²(-i) 与 Higgins I²(-i)"]

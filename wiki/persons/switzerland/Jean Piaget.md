@@ -8,7 +8,7 @@ summary: "瑞士心理学家，认知发展阶段理论与发生认识论创立�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
 related_theories:
-  - "[[Piaget's Theory of Cognitive Development]]"
   - "[[Dynamic Knowledge and Learning Model]]"
   - "[[Neo-Piagetian Theories]]"
 related_methods: []
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: '2026-08-25'
 ---
 ## 简介
 
@@ -56,7 +55,7 @@ updated: '2026-06-08'
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Piaget's Theory of Cognitive Development|piagets-theory-of-cognitive-development]] — 认知发展的四阶段[[Constructivist Paradigm|建构主义]]理论
+> - piagets-theory-of-cognitive-development — 认知发展的四阶段[[Constructivist Paradigm|建构主义]]理论
 
 ## 思想发展与影响
 

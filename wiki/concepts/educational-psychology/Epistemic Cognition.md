@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemic Climate]]"
   - "[[Measurement Alignment]]"
   - "[[Questionnaire]]"
+  - "[[Procedural Skill]]"
   - "[[Reliability]]"
   - "[[Internal Consistency]]"
   - "[[Effect Size]]"
@@ -135,7 +136,7 @@ updated: 2026-08-20
 > [!claim] Greene, J.
 > **[[Measurement Alignment|对齐法则]]与高阶认知强关联** 实证预测效力依赖于以下法则：
 > - **对齐法则（Alignment）** 只有当测量工具的特异性与成绩任务在颗粒度上严格匹配时（如用学科[[Questionnaire|问卷]]预测特定学科成绩，而非用通用问卷），预测效力才会大幅提升。
-> - **高阶认知强关联** [[Epistemological Beliefs|认识论信念]]与高阶能力（如概念性知识与论证）的关联远超底层的陈述性或程序性知识。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
+> - **高阶认知强关联** [[Epistemological Beliefs|认识论信念]]与高阶能力（如概念性知识与论证）的关联远超底层的陈述性或[[Procedural Skill|程序性知识]]。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
 
 > [!claim] Greene, J.
 > **[[Reliability|信度]]决定论与学段倒挂** 测量严谨度会暴露出不同于传统的实证规律：
@@ -196,7 +197,7 @@ updated: 2026-08-20
 > | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 亚组分析 | 初中（r=.246）和混合阶段（r=.233）较大，大学（r=.131）较小 | — | Q_between = 15.111 (p<.05) | 预设 | — |
-> | 同上 | 成就类型 | 亚组分析 | 概念性知识（r=.190）和论证（r=.154）较高，程序性知识（r=.077，不显著）较低 | — | Q_between = 1.766 (p>.05) | 预设 | — |
+> | 同上 | 成就类型 | 亚组分析 | 概念性知识（r=.190）和论证（r=.154）较高，[[Procedural Skill\|程序性知识]]（r=.077，不显著）较低 | — | Q_between = 1.766 (p>.05) | 预设 | — |
 > | 同上 | [[Epistemology\|认识论]][[Construct\|构念]] | 亚组分析 | 知识发展（r=.274）、一般认识论认知（r=.266）、多种证成（r=.225）较高 | — | Q_between = 57.955 (p<.001) | 预设 | — |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 学段（School level） | 亚组分析与多元[[Meta-regression\|元回归]] | 小学（r=0.375）显著高于初中（r=0.142）与高中（r=0.157） | — | F(2, 485) = 5.683, p = 0.003 | 预设 | 高学段应试升学与课外补习强化了机械记诵，弱化了高级认识论认知的作用 |
 > | 同上 | 认识论认知构念（EC constructs） | 亚组分析与多元元回归 | 总体认识论认知（r=0.288）、学习速度（r=0.207）、知识确证（r=0.187）、学习能力与知识来源（r=0.174）较高，确定性（r=0.122）较低 | — | F(7, 498) = 3.193, p = 0.002 | 预设 | 学习本质（外围）与认识本质（核心）效应明显，[[Ontology\|本体论]]维度的知识本质与学习成果关联较弱 |
