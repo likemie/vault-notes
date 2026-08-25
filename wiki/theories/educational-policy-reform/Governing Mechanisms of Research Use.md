@@ -88,8 +88,8 @@ updated: 2026-08-26
 > | 关系（Relationships） | 机制 | 研究者、决策者与实践者之间的互惠关系与研究-实践伙伴关系，是信任的社会基础设施 |
 > | 领导力（Leadership） | 催化条件 | 不被纳入四机制本身，而是启动与分配资源、创造愿景、推动四机制的催化剂 |
 > | 文化（Culture） | 结果 | 四机制运行的环境，同时是机制运作的产物 |
-> | [[Research Utilization|研究利用（Research Utilization）]] | 概念 | 框架所解释的总体现象：研究进入专业决策与实践的方式 |
-> | [[Teacher Professional Agency|教师专业能动性（Teacher Professional Agency）]] | 概念 | 机制所要促成或可能被制度性不信任压制的专业行动空间 |
+> | [[Research Utilization\|研究利用（Research Utilization）]] | 概念 | 框架所解释的总体现象：研究进入专业决策与实践的方式 |
+> | [[Teacher Professional Agency\|教师专业能动性（Teacher Professional Agency）]] | 概念 | 机制所要促成或可能被制度性不信任压制的专业行动空间 |
 
 ---
 

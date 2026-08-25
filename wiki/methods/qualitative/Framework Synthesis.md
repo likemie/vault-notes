@@ -130,13 +130,13 @@ updated: 2026-08-26
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Systematic Review|系统综述（Systematic Review）]] | 上位方法 | 框架综合是系统综述内部的一种质性证据综合策略，整体遵循系统综述的检索、筛选与报告程序 |
-> | [[Meta-analysis|元分析（Meta-analysis）]] | 替代方法 | 元分析对[[Effect Size\|效应量]]作统计合并；框架综合对证据作框架化质性整合，两者可互补但不能互换 |
+> | [[Systematic Review\|系统综述（Systematic Review）]] | 上位方法 | 框架综合是系统综述内部的一种质性证据综合策略，整体遵循系统综述的检索、筛选与报告程序 |
+> | [[Meta-analysis\|元分析（Meta-analysis）]] | 替代方法 | 元分析对[[Effect Size\|效应量]]作统计合并；框架综合对证据作框架化质性整合，两者可互补但不能互换 |
 > | 主题综合（Thematic Synthesis） | 替代方法 | 主题综合从数据出发归纳主题，框架综合以先验框架为模板并允许新主题[[Emergence\|涌现]] |
-> | [[Coding in Qualitative Research|质性研究编码（Coding in Qualitative Research）]] | 分析技术 | 框架综合的编码依赖质性编码技术，先验框架节点即为初始编码簿 |
-> | [[Mixed Methods Appraisal Tool|混合方法评价工具（Mixed Methods Appraisal Tool）]] | 质量评估 | MMAT 用于评估纳入研究质量，低质量研究发现只作弱证据处理 |
-> | [[Quality Use of Research Evidence Framework|研究证据质量使用框架（Quality Use of Research Evidence Framework）]] | 理论支撑 | QURE 是框架综合最常见的先验框架来源之一，本身即基于系统综述提出 |
-> | [[Critical Realism|批判实在论（Critical Realism）]] | [[Epistemology\|认识论]]支撑 | 批判实在论为识别深层治理机制的配置式分析提供认识论基础 |
+> | [[Coding in Qualitative Research\|质性研究编码（Coding in Qualitative Research）]] | 分析技术 | 框架综合的编码依赖质性编码技术，先验框架节点即为初始编码簿 |
+> | [[Mixed Methods Appraisal Tool\|混合方法评价工具（Mixed Methods Appraisal Tool）]] | 质量评估 | MMAT 用于评估纳入研究质量，低质量研究发现只作弱证据处理 |
+> | [[Quality Use of Research Evidence Framework\|研究证据质量使用框架（Quality Use of Research Evidence Framework）]] | 理论支撑 | QURE 是框架综合最常见的先验框架来源之一，本身即基于系统综述提出 |
+> | [[Critical Realism\|批判实在论（Critical Realism）]] | [[Epistemology\|认识论]]支撑 | 批判实在论为识别深层治理机制的配置式分析提供认识论基础 |
 
 ---
 
